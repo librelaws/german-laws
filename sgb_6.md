@@ -5,16 +5,17 @@ Neuf
 Neugefasst durch Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Stand  
-Zuletzt geändert Art. 7 G v. 21.12.2015 I 2517
+Zuletzt geändert Art. 2 G v. 27.6.2017 I 2070
 
 Sonst  
-Ergänzung auf Grund der Sozialversicherungs-Rechengrößenverordnung v. 30.11.2015 I 2137 ist berücksichtigt
+Ergänzung auf Grund der Sozialversicherungs-Rechengrößenverordnung v. 28.11.2016 I 2665 ist berücksichtigt
 
 ### 
 
 ```
 (+++ Textnachweis ab: 1.1.1991 +++)
-(+++ Zur Anwendung vgl. § 277 +++)
+(+++ Zur Anwendung vgl. §§ 108, 277, 314, 314a +++)
+(+++ Zur Anwendung vgl. § 26 Abs. 3 HZvG 2002 F. 2016-11-11 +++)
 (+++ Maßgaben aufgrund EinigVtr vgl. SGB 6 Anhang EV bzw. RRG 1992
      Anhang EV +++)
 ```
@@ -75,12 +76,13 @@ Das G wurde vom Bundestag mit Zustimmung des Bundesrates beschlossen.
 | Allgemeines                                                                                                                              |
 |                                                                                                                                          |
 | § 13                                                                                                                                     |
-| § 14                                                                                                                                     |
 |                                                                                                                                          |
 | Zweiter Titel                                                                                                                            |
-| Leistungen zur medizinischen Rehabilitation und zur Teilhabe am Arbeitsleben                                                             |
+| Leistungen zur Prävention, zur medizinischen Rehabilitation, zur Teilhabe am Arbeitsleben und zur Nachsorge                              |
 |                                                                                                                                          |
+| § 14                                                                                                                                     |
 | § 15                                                                                                                                     |
+| § 15a                                                                                                                                    |
 | § 16                                                                                                                                     |
 | § 17                                                                                                                                     |
 | § 18                                                                                                                                     |
@@ -388,7 +390,7 @@ Das G wurde vom Bundestag mit Zustimmung des Bundesrates beschlossen.
 | § 144                                                                                                                                    |
 |                                                                                                                                          |
 | Siebter Unterabschnitt                                                                                                                   |
-| Datenstelle der Träger der Rentenversicherung                                                                                            |
+| Datenstelle der Rentenversicherung                                                                                                       |
 |                                                                                                                                          |
 | § 145                                                                                                                                    |
 | § 146                                                                                                                                    |
@@ -789,6 +791,7 @@ Das G wurde vom Bundestag mit Zustimmung des Bundesrates beschlossen.
 | § 286d                                                                                                                                   |
 | § 286e                                                                                                                                   |
 | § 286f                                                                                                                                   |
+| § 274g                                                                                                                                   |
 |                                                                                                                                          |
 | Vierter Titel                                                                                                                            |
 | Berechnungsgrundlagen                                                                                                                    |
@@ -1041,7 +1044,7 @@ Versicherungspflichtig sind Personen in der Zeit,
 für die ihnen Kindererziehungszeiten anzurechnen sind (§ 56),
 
 1a.  
-in der sie einen Pflegebedürftigen im Sinne des § 14 des Elften Buches nicht erwerbsmäßig wenigstens 14 Stunden wöchentlich in seiner häuslichen Umgebung pflegen (nicht erwerbsmäßig tätige Pflegepersonen), wenn der Pflegebedürftige Anspruch auf Leistungen aus der sozialen oder einer privaten Pflegeversicherung hat; dies gilt auch, wenn die Mindeststundenzahl nur durch die Pflege mehrerer Pflegebedürftiger erreicht wird,
+in der sie eine oder mehrere pflegebedürftige Personen mit mindestens Pflegegrad 2 wenigstens zehn Stunden wöchentlich, verteilt auf regelmäßig mindestens zwei Tage in der Woche, in ihrer häuslichen Umgebung nicht erwerbsmäßig pflegen (nicht erwerbsmäßig tätige Pflegepersonen), wenn der Pflegebedürftige Anspruch auf Leistungen aus der sozialen Pflegeversicherung oder einer privaten Pflege-Pflichtversicherung hat,
 
 2.  
 in der sie aufgrund gesetzlicher Pflicht Wehrdienst oder Zivildienst leisten,
@@ -1058,7 +1061,7 @@ für die sie von einem privaten Krankenversicherungsunternehmen, von einem Beihi
 4.  
 für die sie Vorruhestandsgeld beziehen, wenn sie unmittelbar vor Beginn der Leistung versicherungspflichtig waren.
 
-Pflegepersonen, die für ihre Tätigkeit von dem oder den Pflegebedürftigen ein Arbeitsentgelt erhalten, das das dem Umfang der jeweiligen Pflegetätigkeit entsprechende Pflegegeld im Sinne der §§ 37 und 123 des Elften Buches nicht übersteigt, gelten als nicht erwerbsmäßig tätig; sie sind insoweit nicht nach § 1 Satz 1 Nr. 1 versicherungspflichtig. Nicht erwerbsmäßig tätige Pflegepersonen, die daneben regelmäßig mehr als 30 Stunden wöchentlich beschäftigt oder selbständig tätig sind, sind nicht nach Satz 1 Nr. 1a versicherungspflichtig. Wehrdienstleistende oder Zivildienstleistende, die für die Zeit ihres Dienstes Arbeitsentgelt weitererhalten oder Leistungen an Selbständige nach § 7 des Unterhaltssicherungsgesetzes erhalten, sind nicht nach Satz 1 Nr. 2 versicherungspflichtig; die Beschäftigung oder selbständige Tätigkeit gilt in diesen Fällen als nicht unterbrochen. Trifft eine Versicherungspflicht nach Satz 1 Nr. 3 im Rahmen von Leistungen zur Teilhabe am Arbeitsleben mit einer Versicherungspflicht nach § 1 Satz 1 Nr. 2 oder 3 zusammen, geht die Versicherungspflicht vor, nach der die höheren Beiträge zu zahlen sind. Die Versicherungspflicht nach Satz 1 Nr. 3 und 4 erstreckt sich auch auf Personen, die ihren gewöhnlichen Aufenthalt im Ausland haben.
+Pflegepersonen, die für ihre Tätigkeit von dem oder den Pflegebedürftigen ein Arbeitsentgelt erhalten, das das dem Umfang der jeweiligen Pflegetätigkeit entsprechende Pflegegeld im Sinne des § 37 des Elften Buches nicht übersteigt, gelten als nicht erwerbsmäßig tätig; sie sind insoweit nicht nach § 1 Satz 1 Nr. 1 versicherungspflichtig. Nicht erwerbsmäßig tätige Pflegepersonen, die daneben regelmäßig mehr als 30 Stunden wöchentlich beschäftigt oder selbständig tätig sind, sind nicht nach Satz 1 Nr. 1a versicherungspflichtig. Wehrdienstleistende oder Zivildienstleistende, die für die Zeit ihres Dienstes Arbeitsentgelt weitererhalten oder Leistungen an Selbständige nach § 7 des Unterhaltssicherungsgesetzes erhalten, sind nicht nach Satz 1 Nr. 2 versicherungspflichtig; die Beschäftigung oder selbständige Tätigkeit gilt in diesen Fällen als nicht unterbrochen. Trifft eine Versicherungspflicht nach Satz 1 Nr. 3 im Rahmen von Leistungen zur Teilhabe am Arbeitsleben mit einer Versicherungspflicht nach § 1 Satz 1 Nr. 2 oder 3 zusammen, geht die Versicherungspflicht vor, nach der die höheren Beiträge zu zahlen sind. Die Versicherungspflicht nach Satz 1 Nr. 3 und 4 erstreckt sich auch auf Personen, die ihren gewöhnlichen Aufenthalt im Ausland haben.
 
 ### § 4 Versicherungspflicht auf Antrag
 
@@ -1068,7 +1071,10 @@ Pflegepersonen, die für ihre Tätigkeit von dem oder den Pflegebedürftigen ein
 Entwicklungshelfer im Sinne des Entwicklungshelfer-Gesetzes, die Entwicklungsdienst oder Vorbereitungsdienst leisten,
 
 2.  
-Angehörige eines Mitgliedstaates der Europäischen Union, Angehörige eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder Staatsangehörige der Schweiz, die für eine begrenzte Zeit im Ausland beschäftigt sind.
+Angehörige eines Mitgliedstaates der Europäischen Union, Angehörige eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder Staatsangehörige der Schweiz, die für eine begrenzte Zeit im Ausland beschäftigt sind,
+
+3.  
+sekundierte Personen nach dem Sekundierungsgesetz.
 
 Auf Antrag ihres Arbeitgebers versicherungspflichtig sind auch Angehörige eines Mitgliedstaates der Europäischen Union, Angehörige eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder Staatsangehörige der Schweiz, die im Ausland bei einer amtlichen Vertretung des Bundes oder der Länder oder bei einem Leiter, Mitglied oder Bediensteten einer amtlichen Vertretung des Bundes oder der Länder beschäftigt sind. Personen, denen für die Zeit des Dienstes oder der Beschäftigung im Ausland Versorgungsanwartschaften gewährleistet sind, gelten im Rahmen der Nachversicherung auch ohne Antrag als versicherungspflichtig.
 
@@ -1128,28 +1134,27 @@ in einem öffentlich-rechtlichen Ausbildungsverhältnis stehen.
 (2) Versicherungsfrei sind Personen, die eine
 
 1.  
-Beschäftigung nach § 8 Absatz 1 Nummer 2 oder § 8a in Verbindung mit § 8 Absatz 1 Nummer 2 des Vierten Buches,
+Beschäftigung nach § 8 Absatz 1 Nummer 2 oder § 8a in Verbindung mit § 8 Absatz 1 Nummer 2 des Vierten Buches oder
 
 2.  
-geringfügige selbständige Tätigkeit nach § 8 Absatz 3 in Verbindung mit § 8 Absatz 1 oder nach § 8 Absatz 3 in Verbindung mit den §§ 8a und 8 Absatz 1 des Vierten Buches oder
+geringfügige selbständige Tätigkeit nach § 8 Absatz 3 in Verbindung mit § 8 Absatz 1 oder nach § 8 Absatz 3 in Verbindung mit den §§ 8a und 8 Absatz 1 des Vierten Buches
 
-3.  
-geringfügige nicht erwerbsmäßige Pflegetätigkeit
-
-ausüben, in dieser Beschäftigung, selbständigen Tätigkeit oder Pflegetätigkeit. § 8 Absatz 2 des Vierten Buches ist mit der Maßgabe anzuwenden, dass eine Zusammenrechnung mit einer nicht geringfügigen selbständigen Tätigkeit nur erfolgt, wenn diese versicherungspflichtig ist. Eine nicht erwerbsmäßige Pflegetätigkeit ist geringfügig, wenn die Beitragsbemessungsgrundlage für die Pflegetätigkeit (§ 166 Absatz 2) auf den Monat bezogen 400 Euro nicht übersteigt; mehrere nicht erwerbsmäßige Pflegetätigkeiten sind zusammenzurechnen.
+ausüben, in dieser Beschäftigung oder selbständigen Tätigkeit. § 8 Absatz 2 des Vierten Buches ist mit der Maßgabe anzuwenden, dass eine Zusammenrechnung mit einer nicht geringfügigen selbständigen Tätigkeit nur erfolgt, wenn diese versicherungspflichtig ist. Satz 1 Nummer 1 gilt nicht für Personen, die im Rahmen betrieblicher Berufsbildung beschäftigt sind.
 
 (3) Versicherungsfrei sind Personen, die während der Dauer eines Studiums als ordentliche Studierende einer Fachschule oder Hochschule ein Praktikum ableisten, das in ihrer Studienordnung oder Prüfungsordnung vorgeschrieben ist.
 
 (4) Versicherungsfrei sind Personen, die
 
 1.  
-eine Vollrente wegen Alters beziehen,
+nach Ablauf des Monats, in dem die Regelaltersgrenze erreicht wurde, eine Vollrente wegen Alters beziehen,
 
 2.  
 nach beamtenrechtlichen Vorschriften oder Grundsätzen oder entsprechenden kirchenrechtlichen Regelungen oder nach den Regelungen einer berufsständischen Versorgungseinrichtung eine Versorgung nach Erreichen einer Altersgrenze beziehen oder die in der Gemeinschaft übliche Versorgung im Alter nach Absatz 1 Satz 1 Nr. 3 erhalten oder
 
 3.  
 bis zum Erreichen der Regelaltersgrenze nicht versichert waren oder nach Erreichen der Regelaltersgrenze eine Beitragserstattung aus ihrer Versicherung erhalten haben.
+
+Satz 1 gilt nicht für Beschäftigte in einer Beschäftigung, in der sie durch schriftliche Erklärung gegenüber dem Arbeitgeber auf die Versicherungsfreiheit verzichten. Der Verzicht kann nur mit Wirkung für die Zukunft erklärt werden und ist für die Dauer der Beschäftigung bindend. Die Sätze 2 und 3 gelten entsprechend für selbständig Tätige, die den Verzicht gegenüber dem zuständigen Träger der Rentenversicherung erklären.
 
 ### § 6 Befreiung von der Versicherungspflicht
 
@@ -1215,7 +1220,7 @@ Zweiter Abschnitt Freiwillige Versicherung
 
 (1) Personen, die nicht versicherungspflichtig sind, können sich für Zeiten von der Vollendung des 16. Lebensjahres an freiwillig versichern. Dies gilt auch für Deutsche, die ihren gewöhnlichen Aufenthalt im Ausland haben.
 
-(2) Nach bindender Bewilligung einer Vollrente wegen Alters oder für Zeiten des Bezugs einer solchen Rente ist eine freiwillige Versicherung nicht zulässig.
+(2) Nach bindender Bewilligung einer Vollrente wegen Alters oder für Zeiten des Bezugs einer solchen Rente ist eine freiwillige Versicherung nicht zulässig, wenn der Monat abgelaufen ist, in dem die Regelaltersgrenze erreicht wurde.
 
 Dritter Abschnitt Nachversicherung, Versorgungsausgleich und Rentensplitting
 ----------------------------------------------------------------------------
@@ -1267,17 +1272,17 @@ Erster Unterabschnitt Voraussetzungen für die Leistungen
 
 ### § 9 Aufgabe der Leistungen zur Teilhabe
 
-(1) Die Rentenversicherung erbringt Leistungen zur medizinischen Rehabilitation, Leistungen zur Teilhabe am Arbeitsleben sowie ergänzende Leistungen, um
+(1) Die Träger der Rentenversicherung erbringen Leistungen zur Prävention, Leistungen zur medizinischen Rehabilitation, Leistungen zur Teilhabe am Arbeitsleben, Leistungen zur Nachsorge sowie ergänzende Leistungen, um
 
 1.  
-den Auswirkungen einer Krankheit oder einer körperlichen, geistigen oder seelischen Behinderung auf die Erwerbsfähigkeit der Versicherten entgegenzuwirken oder sie zu überwinden und
+den Auswirkungen einer Krankheit oder einer körperlichen, geistigen oder seelischen Behinderung auf die Erwerbsfähigkeit der Versicherten vorzubeugen, entgegenzuwirken oder sie zu überwinden und
 
 2.  
 dadurch Beeinträchtigungen der Erwerbsfähigkeit der Versicherten oder ihr vorzeitiges Ausscheiden aus dem Erwerbsleben zu verhindern oder sie möglichst dauerhaft in das Erwerbsleben wiedereinzugliedern.
 
 Die Leistungen zur Teilhabe haben Vorrang vor Rentenleistungen, die bei erfolgreichen Leistungen zur Teilhabe nicht oder voraussichtlich erst zu einem späteren Zeitpunkt zu erbringen sind.
 
-(2) Die Leistungen nach Absatz 1 können erbracht werden, wenn die persönlichen und versicherungsrechtlichen Voraussetzungen dafür erfüllt sind.
+(2) Die Leistungen nach Absatz 1 sind zu erbringen, wenn die persönlichen und versicherungsrechtlichen Voraussetzungen dafür erfüllt sind.
 
 ### § 10 Persönliche Voraussetzungen
 
@@ -1296,7 +1301,13 @@ b)
 bei geminderter Erwerbsfähigkeit diese durch Leistungen zur medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben wesentlich gebessert oder wiederhergestellt oder hierdurch deren wesentliche Verschlechterung abgewendet werden kann,
 
 c)  
-bei teilweiser Erwerbsminderung ohne Aussicht auf eine wesentliche Besserung der Erwerbsfähigkeit der Arbeitsplatz durch Leistungen zur Teilhabe am Arbeitsleben erhalten werden kann.
+bei teilweiser Erwerbsminderung ohne Aussicht auf eine wesentliche Besserung der Erwerbsfähigkeit durch Leistungen zur Teilhabe am Arbeitsleben
+
+aa)  
+der bisherige Arbeitsplatz erhalten werden kann oder
+
+bb)  
+ein anderer in Aussicht stehender Arbeitsplatz erlangt werden kann, wenn die Erhaltung des bisherigen Arbeitsplatzes nach Feststellung des Trägers der Rentenversicherung nicht möglich ist.
 
 (2) Für Leistungen zur Teilhabe haben auch Versicherte die persönlichen Voraussetzungen erfüllt,
 
@@ -1305,6 +1316,8 @@ die im Bergbau vermindert berufsfähig sind und bei denen voraussichtlich durch 
 
 2.  
 bei denen der Eintritt von im Bergbau verminderter Berufsfähigkeit droht und bei denen voraussichtlich durch die Leistungen der Eintritt der im Bergbau verminderten Berufsfähigkeit abgewendet werden kann.
+
+(3) Für die Leistungen nach den §§ 14, 15a und 17 haben die Versicherten oder die Kinder die persönlichen Voraussetzungen bei Vorliegen der dortigen Anspruchsvoraussetzungen erfüllt.
 
 ### § 11 Versicherungsrechtliche Voraussetzungen
 
@@ -1316,7 +1329,7 @@ die Wartezeit von 15 Jahren erfüllt haben oder
 2.  
 eine Rente wegen verminderter Erwerbsfähigkeit beziehen.
 
-(2) Für die Leistungen zur medizinischen Rehabilitation haben Versicherte die versicherungsrechtlichen Voraussetzungen auch erfüllt, die
+(2) Für die Leistungen zur Prävention und zur medizinischen Rehabilitation haben Versicherte die versicherungsrechtlichen Voraussetzungen auch erfüllt, die
 
 1.  
 in den letzten zwei Jahren vor der Antragstellung sechs Kalendermonate mit Pflichtbeiträgen für eine versicherte Beschäftigung oder Tätigkeit haben,
@@ -1327,7 +1340,7 @@ innerhalb von zwei Jahren nach Beendigung einer Ausbildung eine versicherte Besc
 3.  
 vermindert erwerbsfähig sind oder bei denen dies in absehbarer Zeit zu erwarten ist, wenn sie die allgemeine Wartezeit erfüllt haben.
 
-§ 55 Abs. 2 ist entsprechend anzuwenden. Der Zeitraum von zwei Jahren nach Nummer 1 verlängert sich um Anrechnungszeiten wegen des Bezugs von Arbeitslosengeld II.
+§ 55 Abs. 2 ist entsprechend anzuwenden. Der Zeitraum von zwei Jahren nach Nummer 1 verlängert sich um Anrechnungszeiten wegen des Bezugs von Arbeitslosengeld II. Für die Leistungen nach § 15a an Kinder von Versicherten sind die versicherungsrechtlichen Voraussetzungen erfüllt, wenn der Versicherte die allgemeine Wartezeit oder die in Satz 1 oder in Absatz 1 genannten versicherungsrechtlichen Voraussetzungen erfüllt hat.
 
 (2a) Leistungen zur Teilhabe am Arbeitsleben werden an Versicherte auch erbracht,
 
@@ -1394,12 +1407,16 @@ Leistungen zur medizinischen Rehabilitation, die dem allgemein anerkannten Stand
 
 (4) Die Träger der Rentenversicherung vereinbaren mit den Spitzenverbänden der Krankenkassen gemeinsam und einheitlich im Benehmen mit dem Bundesministerium für Arbeit und Soziales Näheres zur Durchführung von Absatz 2 Nr. 1 und 2.
 
-### § 14
+### § 14 Leistungen zur Prävention
 
-(weggefallen)
+(1) Die Träger der Rentenversicherung erbringen medizinische Leistungen zur Sicherung der Erwerbsfähigkeit an Versicherte, die erste gesundheitliche Beeinträchtigungen aufweisen, die die ausgeübte Beschäftigung gefährden. Die Leistungen können zeitlich begrenzt werden.
 
-Zweiter Titel Leistungen zur medizinischen Rehabilitation und zur Teilhabe am Arbeitsleben
-------------------------------------------------------------------------------------------
+(2) Um eine einheitliche Rechtsanwendung durch alle Träger der Rentenversicherung sicherzustellen, erlässt die Deutsche Rentenversicherung Bund bis zum 1. Juli 2018 im Benehmen mit dem Bundesministerium für Arbeit und Soziales eine gemeinsame Richtlinie der Träger der Rentenversicherung, die insbesondere die Ziele, die persönlichen Voraussetzungen sowie Art und Umfang der medizinischen Leistungen näher ausführt. Die Deutsche Rentenversicherung Bund hat die Richtlinie im Bundesanzeiger zu veröffentlichen. Die Richtlinie ist regelmäßig an den medizinischen Fortschritt und die gewonnenen Erfahrungen im Benehmen mit dem Bundesministerium für Arbeit und Soziales anzupassen.
+
+(3) Die Träger der Rentenversicherung beteiligen sich mit den Leistungen nach Absatz 1 an der nationalen Präventionsstrategie nach den §§ 20d bis 20g des Fünften Buches. Sie wirken darauf hin, dass die Einführung einer freiwilligen, individuellen, berufsbezogenen Gesundheitsvorsorge für Versicherte ab Vollendung des 45. Lebensjahres trägerübergreifend in Modellprojekten erprobt wird.
+
+Zweiter Titel Leistungen zur Prävention, zur medizinischen Rehabilitation, zur Teilhabe am Arbeitsleben und zur Nachsorge
+-------------------------------------------------------------------------------------------------------------------------
 
 ### 
 
@@ -1411,11 +1428,48 @@ Zweiter Titel Leistungen zur medizinischen Rehabilitation und zur Teilhabe am Ar
 
 (3) Die stationären Leistungen zur medizinischen Rehabilitation sollen für längstens drei Wochen erbracht werden. Sie können für einen längeren Zeitraum erbracht werden, wenn dies erforderlich ist, um das Rehabilitationsziel zu erreichen.
 
+### § 15a Leistungen zur Kinderrehabilitation
+
+(1) Die Träger der Rentenversicherung erbringen Leistungen zur medizinischen Rehabilitation für
+
+1.  
+Kinder von Versicherten,
+
+2.  
+Kinder von Beziehern einer Rente wegen Alters oder verminderter Erwerbsfähigkeit und
+
+3.  
+Kinder, die eine Waisenrente beziehen.
+
+Voraussetzung ist, dass hierdurch voraussichtlich eine erhebliche Gefährdung der Gesundheit beseitigt oder die insbesondere durch chronische Erkrankungen beeinträchtigte Gesundheit wesentlich gebessert oder wiederhergestellt werden kann und dies Einfluss auf die spätere Erwerbsfähigkeit haben kann.
+
+(2) Kinder haben Anspruch auf Mitaufnahme
+
+1.  
+einer Begleitperson, wenn diese für die Durchführung oder den Erfolg der Leistung zur Kinderrehabilitation notwendig ist und
+
+2.  
+der Familienangehörigen, wenn die Einbeziehung der Familie in den Rehabilitationsprozess notwendig ist.
+
+Leistungen zur Nachsorge nach § 17 sind zu erbringen, wenn sie zur Sicherung des Rehabilitationserfolges erforderlich sind.
+
+(3) Als Kinder werden auch Kinder im Sinne des § 48 Absatz 3 berücksichtigt. Für die Dauer des Anspruchs gilt § 48 Absatz 4 und 5 entsprechend.
+
+(4) Die stationären Leistungen werden in der Regel für mindestens vier Wochen erbracht. § 12 Absatz 2 Satz 1 findet keine Anwendung.
+
+(5) Um eine einheitliche Rechtsanwendung durch alle Träger der Rentenversicherung sicherzustellen, erlässt die Deutsche Rentenversicherung Bund bis zum 1. Juli 2018 im Benehmen mit dem Bundesministerium für Arbeit und Soziales eine gemeinsame Richtlinie der Träger der Rentenversicherung, die insbesondere die Ziele, die persönlichen Voraussetzungen sowie Art und Umfang der Leistungen näher ausführt. Die Deutsche Rentenversicherung Bund hat die Richtlinie im Bundesanzeiger zu veröffentlichen. Die Richtlinie ist regelmäßig an den medizinischen Fortschritt und die gewonnenen Erfahrungen der Träger der Rentenversicherung im Benehmen mit dem Bundesministerium für Arbeit und Soziales anzupassen.
+
 ### § 16 Leistungen zur Teilhabe am Arbeitsleben
 
 Die Träger der Rentenversicherung erbringen die Leistungen zur Teilhabe am Arbeitsleben nach den §§ 33 bis 38 des Neunten Buches sowie im Eingangsverfahren und im Berufsbildungsbereich der Werkstätten für behinderte Menschen nach § 40 des Neunten Buches.
 
-### (XXXX) §§ 17 bis 19 (weggefallen)
+### § 17 Leistungen zur Nachsorge
+
+(1) Die Träger der Rentenversicherung erbringen im Anschluss an eine von ihnen erbrachte Leistung zur Teilhabe nachgehende Leistungen, wenn diese erforderlich sind, um den Erfolg der vorangegangenen Leistung zur Teilhabe zu sichern (Leistungen zur Nachsorge). Die Leistungen zur Nachsorge können zeitlich begrenzt werden.
+
+(2) Um eine einheitliche Rechtsanwendung durch alle Träger der Rentenversicherung sicherzustellen, erlässt die Deutsche Rentenversicherung Bund bis zum 1. Juli 2018 im Benehmen mit dem Bundesministerium für Arbeit und Soziales eine gemeinsame Richtlinie der Träger der Rentenversicherung, die insbesondere die Ziele, die persönlichen Voraussetzungen sowie Art und Umfang der Leistungen näher ausführt. Die Deutsche Rentenversicherung Bund hat die Richtlinie im Bundesanzeiger zu veröffentlichen. Die Richtlinie ist regelmäßig an den medizinischen Fortschritt und die gewonnenen Erfahrungen im Benehmen mit dem Bundesministerium für Arbeit und Soziales anzupassen.
+
+### (XXXX) §§ 18 und 19 (weggefallen)
 
 Dritter Titel Übergangsgeld
 ---------------------------
@@ -1424,22 +1478,28 @@ Dritter Titel Übergangsgeld
 
 ### § 20 Anspruch
 
-Anspruch auf Übergangsgeld haben Versicherte, die
+(1) Anspruch auf Übergangsgeld haben Versicherte, die
 
 1.  
-von einem Träger der Rentenversicherung Leistungen zur medizinischen Rehabilitation oder Leistungen zur Teilhabe am Arbeitsleben oder sonstige Leistungen zur Teilhabe erhalten,
+von einem Träger der Rentenversicherung Leistungen zur Prävention, Leistungen zur medizinischen Rehabilitation, Leistungen zur Teilhabe am Arbeitsleben, Leistungen zur Nachsorge oder sonstige Leistungen zur Teilhabe erhalten,
 
 2.  
 (weggefallen)
 
 3.  
-bei Leistungen zur medizinischen Rehabilitation oder sonstigen Leistungen zur Teilhabe unmittelbar vor Beginn der Arbeitsunfähigkeit oder, wenn sie nicht arbeitsunfähig sind, unmittelbar vor Beginn der Leistungen
+bei Leistungen zur Prävention, Leistungen zur medizinischen Rehabilitation, Leistungen zur Nachsorge oder sonstigen Leistungen zur Teilhabe unmittelbar vor Beginn der Arbeitsunfähigkeit oder, wenn sie nicht arbeitsunfähig sind, unmittelbar vor Beginn der Leistungen
 
 a)  
 Arbeitsentgelt oder Arbeitseinkommen erzielt und im Bemessungszeitraum Beiträge zur Rentenversicherung gezahlt haben oder
 
 b)  
 Krankengeld, Verletztengeld, Versorgungskrankengeld, Übergangsgeld, Kurzarbeitergeld, Arbeitslosengeld, Arbeitslosengeld II oder Mutterschaftsgeld bezogen haben und für die von dem der Sozialleistung zugrunde liegenden Arbeitsentgelt oder Arbeitseinkommen oder im Falle des Bezugs von Arbeitslosengeld II zuvor aus Arbeitsentgelt oder Arbeitseinkommen Beiträge zur Rentenversicherung gezahlt worden sind.
+
+(2) Versicherte, die Anspruch auf Arbeitslosengeld nach dem Dritten Buch haben, haben nur Anspruch auf Übergangsgeld, wenn sie wegen der Inanspruchnahme der Leistungen zur Teilhabe keine ganztägige Erwerbstätigkeit ausüben können.
+
+(3) Versicherte, die Anspruch auf Krankengeld nach § 44 des Fünften Buches haben und ambulante Leistungen zur Prävention und Nachsorge in einem zeitlich geringen Umfang erhalten, haben ab Inkrafttreten der Vereinbarung nach Absatz 4 nur Anspruch auf Übergangsgeld, sofern die Vereinbarung dies vorsieht.
+
+(4) Die Deutsche Rentenversicherung Bund und der Spitzenverband Bund der Krankenkassen vereinbaren im Benehmen mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium für Gesundheit bis zum 31. Dezember 2017, unter welchen Voraussetzungen Versicherte nach Absatz 3 einen Anspruch auf Übergangsgeld haben. Unzuständig geleistete Zahlungen von Entgeltersatzleistungen sind vom zuständigen Träger der Leistung zu erstatten.
 
 ### § 21 Höhe und Berechnung
 
@@ -1474,7 +1534,9 @@ Vierter Titel Ergänzende Leistungen
 
 ### § 28 Ergänzende Leistungen
 
-Die Leistungen zur Teilhabe werden außer durch das Übergangsgeld ergänzt durch die Leistungen nach § 44 Abs. 1 Nr. 2 bis 6 und Abs. 2 sowie nach den §§ 53 und 54 des Neunten Buches.
+(1) Die Leistungen zur Teilhabe werden außer durch das Übergangsgeld ergänzt durch die Leistungen nach § 44 Abs. 1 Nr. 2 bis 6 und Abs. 2 sowie nach den §§ 53 und 54 des Neunten Buches.
+
+(2) Für ambulante Leistungen zur Prävention und Nachsorge gilt Absatz 1 mit der Maßgabe, dass die Leistungen nach den §§ 53 und 54 des Neunten Buches im Einzelfall bewilligt werden können, wenn sie zur Durchführung der Leistungen notwendig sind. Fahrkosten nach § 53 Absatz 4 des Neunten Buches können pauschaliert bewilligt werden.
 
 ### § 29
 
@@ -1494,25 +1556,15 @@ Fünfter Titel Sonstige Leistungen
 (1) Als sonstige Leistungen zur Teilhabe können erbracht werden:
 
 1.  
-Leistungen zur Eingliederung von Versicherten in das Erwerbsleben, insbesondere nachgehende Leistungen zur Sicherung des Erfolges der Leistungen zur Teilhabe,
+Leistungen zur Eingliederung von Versicherten in das Erwerbsleben, die von den Leistungen nach den §§ 14, 15, 15a, 16 und 17 sowie den ergänzenden Leistungen nach § 44 des Neunten Buches nicht umfasst sind,
 
 2.  
-medizinische Leistungen zur Sicherung der Erwerbsfähigkeit für Versicherte, die eine besonders gesundheitsgefährdende, ihre Erwerbsfähigkeit ungünstig beeinflussende Beschäftigung ausüben,
+Leistungen zur onkologischen Nachsorge für Versicherte, Bezieher einer Rente und ihre jeweiligen Angehörigen sowie
 
 3.  
-Nach- und Festigungskuren wegen Geschwulsterkrankungen für Versicherte, Bezieher einer Rente sowie ihre Angehörigen,
-
-4.  
-stationäre Heilbehandlung für Kinder von Versicherten, Beziehern einer Rente wegen Alters, wegen verminderter Erwerbsfähigkeit oder für Bezieher einer Waisenrente, wenn hierdurch voraussichtlich eine erhebliche Gefährdung der Gesundheit beseitigt oder eine beeinträchtigte Gesundheit wesentlich gebessert oder wiederhergestellt werden kann,
-
-5.  
 Zuwendungen für Einrichtungen, die auf dem Gebiet der Rehabilitation forschen oder die Rehabilitation fördern.
 
-Für Kinderheilbehandlungen findet § 12 Abs. 2 Anwendung.
-
-(2) Die Leistungen nach Absatz 1 Satz 1 Nr. 1 setzen voraus, dass die persönlichen und versicherungsrechtlichen Voraussetzungen, die Leistungen nach Absatz 1 Satz 1 Nr. 2 und die Leistungen für Versicherte nach Absatz 1 Satz 1 Nr. 3, dass die versicherungsrechtlichen Voraussetzungen erfüllt sind, die Leistungen nach Absatz 1 Satz 1 Nr. 4, dass der Versicherte die versicherungsrechtlichen Voraussetzungen für Leistungen zur medizinischen Rehabilitation erfüllt. Sie werden nur auf Grund von Richtlinien der Deutschen Rentenversicherung Bund erbracht, die im Benehmen mit dem Bundesministerium für Arbeit und Soziales erlassen werden. Die Träger der Rentenversicherung beteiligen sich an der nationalen Präventionsstrategie nach §§ 20d bis 20f des Fünften Buches mit den Leistungen nach Absatz 1 Satz 1 Nummer 2.
-
-(3) Die Aufwendungen für nichtstationäre Leistungen nach Absatz 1 Satz 1 Nr. 1 sowie für sonstige Leistungen nach Absatz 1 Satz 1 Nr. 2, 4 und 5 dürfen im Kalenderjahr 7,5 vom Hundert der Haushaltsansätze für die Leistungen zur medizinischen Rehabilitation, die Leistungen zur Teilhabe am Arbeitsleben und die ergänzenden Leistungen nicht übersteigen.
+(2) Die Leistungen nach Absatz 1 Nummer 1 setzen voraus, dass die persönlichen und versicherungsrechtlichen Voraussetzungen erfüllt sind. Die Leistungen für Versicherte nach Absatz 1 Nummer 2 setzen voraus, dass die versicherungsrechtlichen Voraussetzungen erfüllt sind. Die Deutsche Rentenversicherung Bund kann im Benehmen mit dem Bundesministerium für Arbeit und Soziales Richtlinien erlassen, die insbesondere die Ziele sowie Art und Umfang der Leistungen näher ausführen.
 
 Sechster Titel Zuzahlung bei Leistungen zur medizinischen Rehabilitation und bei sonstigen Leistungen
 -----------------------------------------------------------------------------------------------------
@@ -1521,7 +1573,7 @@ Sechster Titel Zuzahlung bei Leistungen zur medizinischen Rehabilitation und bei
 
 ### § 32 Zuzahlung bei Leistungen zur medizinischen Rehabilitation und bei sonstigen Leistungen
 
-(1) Versicherte, die das 18. Lebensjahr vollendet haben und stationäre Leistungen zur medizinischen Rehabilitation in Anspruch nehmen, zahlen für jeden Kalendertag dieser Leistungen den sich nach § 40 Abs. 5 des Fünften Buches ergebenden Betrag. Die Zuzahlung ist für längstens 14 Tage und in Höhe des sich nach § 40 Abs. 6 des Fünften Buches ergebenden Betrages zu leisten, wenn der unmittelbare Anschluss der stationären Heilbehandlung an eine Krankenhausbehandlung medizinisch notwendig ist (Anschlussrehabilitation); als unmittelbar gilt auch, wenn die Maßnahme innerhalb von 14 Tagen beginnt, es sei denn, die Einhaltung dieser Frist ist aus zwingenden tatsächlichen oder medizinischen Gründen nicht möglich. Hierbei ist eine innerhalb eines Kalenderjahres an einen Träger der gesetzlichen Krankenversicherung geleistete Zuzahlung anzurechnen.
+(1) Versicherte, die das 18. Lebensjahr vollendet haben und stationäre Leistungen zur medizinischen Rehabilitation nach § 15 in Anspruch nehmen, zahlen für jeden Kalendertag dieser Leistungen den sich nach § 40 Abs. 5 des Fünften Buches ergebenden Betrag. Die Zuzahlung ist für längstens 14 Tage und in Höhe des sich nach § 40 Abs. 6 des Fünften Buches ergebenden Betrages zu leisten, wenn der unmittelbare Anschluss der stationären Heilbehandlung an eine Krankenhausbehandlung medizinisch notwendig ist (Anschlussrehabilitation); als unmittelbar gilt auch, wenn die Maßnahme innerhalb von 14 Tagen beginnt, es sei denn, die Einhaltung dieser Frist ist aus zwingenden tatsächlichen oder medizinischen Gründen nicht möglich. Hierbei ist eine innerhalb eines Kalenderjahres an einen Träger der gesetzlichen Krankenversicherung geleistete Zuzahlung anzurechnen.
 
 (2) Absatz 1 gilt auch für Versicherte oder Bezieher einer Rente, die das 18. Lebensjahr vollendet haben und für sich, ihre Ehegatten oder Lebenspartner sonstige stationäre Leistungen in Anspruch nehmen.
 
@@ -1609,32 +1661,29 @@ Waisenrente.
 
 (1) Versicherte und ihre Hinterbliebenen haben Anspruch auf Rente, wenn die für die jeweilige Rente erforderliche Mindestversicherungszeit (Wartezeit) erfüllt ist und die jeweiligen besonderen versicherungsrechtlichen und persönlichen Voraussetzungen vorliegen.
 
-(2) Anspruch auf eine Rente wegen Alters besteht vor Erreichen der Regelaltersgrenze nur, wenn die Hinzuverdienstgrenze nicht überschritten wird. Sie wird nicht überschritten, wenn das Arbeitsentgelt oder Arbeitseinkommen aus einer Beschäftigung oder selbständigen Tätigkeit oder vergleichbares Einkommen im Monat die in Absatz 3 genannten Beträge nicht übersteigt, wobei ein zweimaliges Überschreiten um jeweils einen Betrag bis zur Höhe der Hinzuverdienstgrenze nach Absatz 3 im Laufe eines jeden Kalenderjahres außer Betracht bleibt. Die in Satz 2 genannten Einkünfte werden zusammengerechnet. Nicht als Arbeitsentgelt gilt das Entgelt, das
+(2) Anspruch auf eine Rente wegen Alters als Vollrente besteht vor Erreichen der Regelaltersgrenze nur, wenn die kalenderjährliche Hinzuverdienstgrenze von 6 300 Euro nicht überschritten wird.
+
+(3) Wird die Hinzuverdienstgrenze überschritten, besteht ein Anspruch auf Teilrente. Die Teilrente wird berechnet, indem ein Zwölftel des die Hinzuverdienstgrenze übersteigenden Betrages zu 40 Prozent von der Vollrente abgezogen wird. Überschreitet der sich dabei ergebende Rentenbetrag zusammen mit einem Zwölftel des kalenderjährlichen Hinzuverdienstes den Hinzuverdienstdeckel nach Absatz 3a, wird der überschreitende Betrag von dem sich nach Satz 2 ergebenden Rentenbetrag abgezogen. Der Rentenanspruch besteht nicht, wenn der von der Rente abzuziehende Hinzuverdienst den Betrag der Vollrente erreicht.
+
+(3a) Der Hinzuverdienstdeckel wird berechnet, indem die monatliche Bezugsgröße mit den Entgeltpunkten (§ 66 Absatz 1 Nummer 1 bis 3) des Kalenderjahres mit den höchsten Entgeltpunkten aus den letzten 15 Kalenderjahren vor Beginn der ersten Rente wegen Alters vervielfältigt wird. Er beträgt mindestens die Summe aus einem Zwölftel von 6 300 Euro und dem Monatsbetrag der Vollrente. Der Hinzuverdienstdeckel wird jährlich zum 1. Juli neu berechnet.
+
+(3b) Als Hinzuverdienst sind Arbeitsentgelt, Arbeitseinkommen und vergleichbares Einkommen zu berücksichtigen. Diese Einkünfte sind zusammenzurechnen. Nicht als Hinzuverdienst gilt das Entgelt, das
 
 1.  
-eine Pflegeperson von dem Pflegebedürftigen erhält, wenn es das dem Umfang der Pflegetätigkeit entsprechende Pflegegeld im Sinne des § 37 des Elften Buches nicht übersteigt, oder
+eine Pflegeperson von der pflegebedürftigen Person erhält, wenn es das dem Umfang der Pflegetätigkeit entsprechende Pflegegeld im Sinne des § 37 des Elften Buches nicht übersteigt, oder
 
 2.  
-ein behinderter Mensch von dem Träger einer in § 1 Satz 1 Nr. 2 genannten Einrichtung erhält.
+ein behinderter Mensch von dem Träger einer in § 1 Satz 1 Nummer 2 genannten Einrichtung erhält.
 
-(3) Die Hinzuverdienstgrenze beträgt
+(3c) Als Hinzuverdienst ist der voraussichtliche kalenderjährliche Hinzuverdienst zu berücksichtigen. Dieser ist jeweils vom 1. Juli an neu zu bestimmen, wenn sich dadurch eine Änderung ergibt, die den Rentenanspruch betrifft. Satz 2 gilt nicht in einem Kalenderjahr, in dem erstmals Hinzuverdienst oder nach Absatz 3e Hinzuverdienst in geänderter Höhe berücksichtigt wurde.
 
-1.  
-bei einer Rente wegen Alters als Vollrente 450 Euro,
+(3d) Von dem Kalenderjahr an, das dem folgt, in dem erstmals Hinzuverdienst berücksichtigt wurde, ist jeweils zum 1. Juli für das vorige Kalenderjahr der tatsächliche Hinzuverdienst statt des bisher berücksichtigten Hinzuverdienstes zu berücksichtigen, wenn sich dadurch rückwirkend eine Änderung ergibt, die den Rentenanspruch betrifft. In dem Kalenderjahr, in dem die Regelaltersgrenze erreicht wird, ist dies abweichend von Satz 1 nach Ablauf des Monats durchzuführen, in dem die Regelaltersgrenze erreicht wurde; dabei ist der tatsächliche Hinzuverdienst bis zum Ablauf des Monats des Erreichens der Regelaltersgrenze zu berücksichtigen. Kann der tatsächliche Hinzuverdienst noch nicht nachgewiesen werden, ist er zu berücksichtigen, sobald der Nachweis vorliegt.
 
-2.  
-bei einer Rente wegen Alters als Teilrente von
+(3e) Änderungen des nach Absatz 3c berücksichtigten Hinzuverdienstes sind auf Antrag zu berücksichtigen, wenn der voraussichtliche kalenderjährliche Hinzuverdienst um mindestens 10 Prozent vom bisher berücksichtigten Hinzuverdienst abweicht und sich dadurch eine Änderung ergibt, die den Rentenanspruch betrifft. Eine Änderung im Sinne von Satz 1 ist auch der Hinzutritt oder der Wegfall von Hinzuverdienst. Ein Hinzutritt von Hinzuverdienst oder ein höherer als der bisher berücksichtigte Hinzuverdienst wird dabei mit Wirkung für die Zukunft berücksichtigt.
 
-a)  
-einem Drittel der Vollrente das 0,25fache,
+(3f) Ergibt sich nach den Absätzen 3c bis 3e eine Änderung, die den Rentenanspruch betrifft, sind die bisherigen Bescheide von dem sich nach diesen Absätzen ergebenden Zeitpunkt an aufzuheben. Soweit Bescheide aufgehoben wurden, sind bereits erbrachte Leistungen zu erstatten; § 50 Absatz 3 und 4 des Zehnten Buches bleibt unberührt. Nicht anzuwenden sind die Vorschriften zur Anhörung Beteiligter (§ 24 des Zehnten Buches), zur Rücknahme eines rechtswidrigen begünstigenden Verwaltungsaktes (§ 45 des Zehnten Buches) und zur Aufhebung eines Verwaltungsaktes mit Dauerwirkung bei Änderung der Verhältnisse (§ 48 des Zehnten Buches).
 
-b)  
-der Hälfte der Vollrente das 0,19fache,
-
-c)  
-zwei Dritteln der Vollrente das 0,13fache
-
-der monatlichen Bezugsgröße, vervielfältigt mit der Summe der Entgeltpunkte (§ 66 Abs. 1 Nr. 1 bis 3) der letzten drei Kalenderjahre vor Beginn der ersten Rente wegen Alters, mindestens jedoch mit 1,5 Entgeltpunkten.
+(3g) Ein nach Absatz 3f Satz 2 zu erstattender Betrag in Höhe von bis zu 200 Euro ist von der laufenden Rente bis zu deren Hälfte einzubehalten, wenn das Einverständnis dazu vorliegt. Der Aufhebungsbescheid ist mit dem Hinweis zu versehen, dass das Einverständnis jederzeit durch schriftliche Erklärung mit Wirkung für die Zukunft widerrufen werden kann.
 
 (4) Nach bindender Bewilligung einer Rente wegen Alters oder für Zeiten des Bezugs einer solchen Rente ist der Wechsel in eine
 
@@ -1734,7 +1783,7 @@ Der Anspruch des Versicherten auf eine Rente wegen Alters ist nicht als ein Grun
 
 (1) Versicherte können eine Rente wegen Alters in voller Höhe (Vollrente) oder als Teilrente in Anspruch nehmen.
 
-(2) Die Teilrente beträgt ein Drittel, die Hälfte oder zwei Drittel der erreichten Vollrente.
+(2) Eine unabhängig vom Hinzuverdienst gewählte Teilrente beträgt mindestens 10 Prozent der Vollrente. Sie kann höchstens in der Höhe in Anspruch genommen werden, die sich nach Anwendung von § 34 Absatz 3 ergibt.
 
 (3) Versicherte, die wegen der beabsichtigten Inanspruchnahme einer Teilrente ihre Arbeitsleistung einschränken wollen, können von ihrem Arbeitgeber verlangen, dass er mit ihnen die Möglichkeiten einer solchen Einschränkung erörtert. Macht der Versicherte hierzu für seinen Arbeitsbereich Vorschläge, hat der Arbeitgeber zu diesen Vorschlägen Stellung zu nehmen.
 
@@ -2051,7 +2100,7 @@ Kalendermonate, die durch Versorgungsausgleich oder Rentensplitting ermittelt we
 
 (1a) Ist ein Rentensplitting durchgeführt, wird dem Ehegatten oder Lebenspartner, der einen Splittingzuwachs erhalten hat, auf die Wartezeit die volle Anzahl an Monaten angerechnet, die sich ergibt, wenn die Entgeltpunkte aus dem Splittingzuwachs durch die Zahl 0,0313 geteilt werden. Die Anrechnung erfolgt nur insoweit, als die in die Splittingzeit fallenden Kalendermonate nicht bereits auf die Wartezeit anzurechnen sind.
 
-(2) Sind Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger Beschäftigung, für die Beschäftigte nach § 6 Absatz 1b von der Versicherungspflicht befreit sind, ermittelt, wird auf die Wartezeit die volle Anzahl an Monaten angerechnet, die sich ergibt, wenn die Zuschläge an Entgeltpunkten durch die Zahl 0,0313 geteilt wird. Zuschläge an Entgeltpunkten aus einer geringfügigen Beschäftigung, die in Kalendermonaten ausgeübt wurde, die bereits auf die Wartezeit anzurechnen sind, bleiben unberücksichtigt. Wartezeitmonate für in die Ehezeit, Lebenspartnerschaftszeit oder Splittingzeit fallende Kalendermonate einer geringfügigen Beschäftigung sind vor Anwendung von Absatz 1 oder 1a gesondert zu ermitteln.
+(2) Sind Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger Beschäftigung, für die Beschäftigte nach § 6 Absatz 1b von der Versicherungspflicht befreit sind, ermittelt, wird auf die Wartezeit die volle Anzahl an Monaten angerechnet, die sich ergibt, wenn die Zuschläge an Entgeltpunkten durch die Zahl 0,0313 geteilt werden. Zuschläge an Entgeltpunkten aus einer geringfügigen Beschäftigung, die in Kalendermonaten ausgeübt wurde, die bereits auf die Wartezeit anzurechnen sind, bleiben unberücksichtigt. Wartezeitmonate für in die Ehezeit, Lebenspartnerschaftszeit oder Splittingzeit fallende Kalendermonate einer geringfügigen Beschäftigung sind vor Anwendung von Absatz 1 oder 1a gesondert zu ermitteln.
 
 ### § 53 Vorzeitige Wartezeiterfüllung
 
@@ -2378,9 +2427,11 @@ des verstorbenen Versicherten bei einer Witwenrente, Witwerrente und Halbwaisenr
 3.  
 der zwei verstorbenen Versicherten mit den höchsten Renten bei einer Vollwaisenrente.
 
-(3) Der Monatsbetrag einer Teilrente wird aus dem Teil der Summe aller Entgeltpunkte ermittelt, der dem Anteil der Teilrente an der Vollrente entspricht. Zuschläge an Entgeltpunkten aus Beiträgen nach Beginn einer Rente wegen Alters werden der Ermittlung der persönlichen Entgeltpunkte erst nach dem Ende der Teilrente zugrunde gelegt.
+(3) Bei einer unabhängig vom Hinzuverdienst gewählten Teilrente (§ 42 Absatz 2) ergeben sich die in Anspruch genommenen Entgeltpunkte aus der Summe aller Entgeltpunkte entsprechend dem Verhältnis der Teilrente zu der Vollrente. Bei einer vom Hinzuverdienst abhängigen Teilrente (§ 34 Absatz 3) ergeben sich die jeweils in Anspruch genommenen Entgeltpunkte aus dem Monatsbetrag der Rente nach Anrechnung des Hinzuverdienstes im Wege einer Rückrechnung unter Berücksichtigung des maßgeblichen aktuellen Rentenwerts, des Rentenartfaktors und des jeweiligen Zugangsfaktors.
 
-(4) Der Monatsbetrag einer nur teilweise zu leistenden Rente wegen verminderter Erwerbsfähigkeit wird aus dem Teil der Summe aller Entgeltpunkte ermittelt, der dem Anteil der teilweise zu leistenden Rente an der jeweiligen Rente in voller Höhe entspricht.
+(3a) Zuschläge an Entgeltpunkten aus Beiträgen nach Beginn einer Rente wegen Alters werden mit Ablauf des Kalendermonats des Erreichens der Regelaltersgrenze und anschließend jährlich zum 1. Juli berücksichtigt. Dabei sind für die jährliche Berücksichtigung zum 1. Juli die für das vergangene Kalenderjahr ermittelten Zuschläge maßgebend.
+
+(4) Bei einer nur teilweise zu leistenden Rente wegen verminderter Erwerbsfähigkeit ergeben sich die jeweils in Anspruch genommenen Entgeltpunkte aus dem Monatsbetrag der Rente nach Anrechnung des Hinzuverdienstes im Wege einer Rückrechnung unter Berücksichtigung des maßgeblichen aktuellen Rentenwerts, des Rentenartfaktors und des jeweiligen Zugangsfaktors.
 
 ### § 67 Rentenartfaktor
 
@@ -2648,21 +2699,19 @@ die Abwendung einer Kürzung der Versorgungsbezüge, wenn später eine Nachversi
 
 (3) Für den Zuschlag an Entgeltpunkten gelten die §§ 75 und 124 entsprechend.
 
-(4) Absatz 1 gilt nicht für Beschäftigte, die
+(4) Absatz 1 gilt nicht für Beschäftigte, die versicherungsfrei sind wegen
 
 1.  
-als Bezieher einer Vollrente wegen Alters,
+des Bezugs einer Vollrente wegen Alters nach Erreichen der Regelaltersgrenze,
 
 2.  
-als Versorgungsbezieher,
+des Bezugs einer Versorgung,
 
 3.  
-wegen des Erreichens der Regelaltersgrenze oder
+des Erreichens der Regelaltersgrenze oder
 
 4.  
-wegen einer Beitragserstattung
-
-versicherungsfrei sind.
+einer Beitragserstattung.
 
 ### § 76c Zuschläge oder Abschläge beim Rentensplitting
 
@@ -2716,7 +2765,7 @@ der sich vom Ablauf des Monats, in dem der Versicherte verstorben ist, bis zum A
 b)  
 für den Versicherte trotz erfüllter Wartezeit eine Rente wegen Alters nach Erreichen der Regelaltersgrenze nicht in Anspruch genommen haben, um 0,005 höher als 1,0.
 
-Beginnt eine Rente wegen verminderter Erwerbsfähigkeit oder eine Erziehungsrente vor Vollendung des 62. Lebensjahres oder ist bei Hinterbliebenenrenten der Versicherte vor Vollendung des 62. Lebensjahres verstorben, ist die Vollendung des 62. Lebensjahres für die Bestimmung des Zugangsfaktors maßgebend. Die Zeit des Bezugs einer Rente vor Vollendung des 62. Lebensjahres des Versicherten gilt nicht als Zeit einer vorzeitigen Inanspruchnahme. Dem Beginn und der vorzeitigen oder späteren Inanspruchnahme einer Rente wegen Alters steht für die Ermittlung des Zugangsfaktors für Zuschläge an Entgeltpunkten aus Beiträgen nach Beginn einer Rente wegen Alters der Beginn einer Vollrente wegen Alters gleich.
+Beginnt eine Rente wegen verminderter Erwerbsfähigkeit oder eine Erziehungsrente vor Vollendung des 62. Lebensjahres oder ist bei Hinterbliebenenrenten der Versicherte vor Vollendung des 62. Lebensjahres verstorben, ist die Vollendung des 62. Lebensjahres für die Bestimmung des Zugangsfaktors maßgebend. Die Zeit des Bezugs einer Rente vor Vollendung des 62. Lebensjahres des Versicherten gilt nicht als Zeit einer vorzeitigen Inanspruchnahme. Dem Beginn und der vorzeitigen oder späteren Inanspruchnahme einer Rente wegen Alters stehen für die Ermittlung des Zugangsfaktors für Zuschläge an Entgeltpunkten aus Beiträgen nach Beginn einer Rente wegen Alters die Zeitpunkte nach § 66 Absatz 3a Satz 1 gleich, zu denen die Zuschläge berücksichtigt werden.
 
 (3) Für diejenigen Entgeltpunkte, die bereits Grundlage von persönlichen Entgeltpunkten einer früheren Rente waren, bleibt der frühere Zugangsfaktor maßgebend. Dies gilt nicht für die Hälfte der Entgeltpunkte, die Grundlage einer Rente wegen teilweiser Erwerbsminderung waren. Der Zugangsfaktor wird für Entgeltpunkte, die Versicherte bei
 
@@ -3016,72 +3065,45 @@ Nachversicherten, die ihren Anspruch auf Versorgung ganz und auf Dauer verloren 
 
 ### § 96a Rente wegen verminderter Erwerbsfähigkeit und Hinzuverdienst
 
-(1) Eine Rente wegen verminderter Erwerbsfähigkeit wird nur geleistet, wenn die Hinzuverdienstgrenze nicht überschritten wird. Sie wird nicht überschritten, wenn das Arbeitsentgelt oder Arbeitseinkommen aus einer Beschäftigung oder selbständigen Tätigkeit oder vergleichbares Einkommen im Monat die in Absatz 2 genannten Beträge nicht übersteigt, wobei ein zweimaliges Überschreiten um jeweils einen Betrag bis zur Höhe der Hinzuverdienstgrenze nach Absatz 2 im Laufe eines jeden Kalenderjahres außer Betracht bleibt. Die in Satz 2 genannten Einkünfte werden zusammengerechnet. Nicht als Arbeitsentgelt gilt das Entgelt, das
+(1) Eine Rente wegen verminderter Erwerbsfähigkeit wird nur in voller Höhe geleistet, wenn die kalenderjährliche Hinzuverdienstgrenze nach Absatz 1c nicht überschritten wird.
+
+(1a) Wird die Hinzuverdienstgrenze überschritten, wird die Rente nur teilweise geleistet. Die teilweise zu leistende Rente wird berechnet, indem ein Zwölftel des die Hinzuverdienstgrenze übersteigenden Betrages zu 40 Prozent von der Rente in voller Höhe abgezogen wird. Überschreitet der sich dabei ergebende Rentenbetrag zusammen mit einem Zwölftel des kalenderjährlichen Hinzuverdienstes den Hinzuverdienstdeckel nach Absatz 1b, wird der überschreitende Betrag von dem sich nach Satz 2 ergebenden Rentenbetrag abgezogen. Die Rente wird nicht geleistet, wenn der von der Rente abzuziehende Hinzuverdienst den Betrag der Rente in voller Höhe erreicht.
+
+(1b) Der Hinzuverdienstdeckel wird berechnet, indem die monatliche Bezugsgröße mit den Entgeltpunkten (§ 66 Absatz 1 Nummer 1 bis 3) des Kalenderjahres mit den höchsten Entgeltpunkten aus den letzten 15 Kalenderjahren vor Eintritt der Erwerbsminderung vervielfältigt wird. Er beträgt mindestens
 
 1.  
-eine Pflegeperson von dem Pflegebedürftigen erhält, wenn es das dem Umfang der Pflegetätigkeit entsprechende Pflegegeld im Sinne des § 37 des Elften Buches nicht übersteigt, oder
+bei einer Rente wegen teilweiser Erwerbsminderung die Summe aus einem Zwölftel des nach Absatz 1c Satz 1 Nummer 1 berechneten Betrags und dem Monatsbetrag der Rente in voller Höhe,
 
 2.  
-ein behinderter Mensch von dem Träger einer in § 1 Satz 1 Nr. 2 genannten Einrichtung erhält.
-
-(1a) Abhängig vom erzielten Hinzuverdienst wird
-
-1.  
-eine Rente wegen teilweiser Erwerbsminderung in voller Höhe oder in Höhe der Hälfte,
-
-2.  
-eine Rente wegen voller Erwerbsminderung in voller Höhe, in Höhe von drei Vierteln, in Höhe der Hälfte oder in Höhe eines Viertels,
+bei einer Rente wegen voller Erwerbsminderung die Summe aus einem Zwölftel von 6 300 Euro und dem Monatsbetrag der Rente in voller Höhe,
 
 3.  
-eine Rente für Bergleute in voller Höhe, in Höhe von zwei Dritteln oder in Höhe von einem Drittel
+bei einer Rente für Bergleute die Summe aus einem Zwölftel des nach Absatz 1c Satz 1 Nummer 3 berechneten Betrags und dem Monatsbetrag der Rente in voller Höhe.
 
-geleistet.
+Der Hinzuverdienstdeckel wird jährlich zum 1. Juli neu berechnet. Bei einer Rente für Bergleute tritt an die Stelle des Eintritts der Erwerbsminderung der Eintritt der im Bergbau verminderten Berufsfähigkeit oder die Erfüllung der Voraussetzungen nach § 45 Absatz 3.
 
-(2) Die Hinzuverdienstgrenze beträgt
+(1c) Die Hinzuverdienstgrenze beträgt
 
 1.  
-bei einer Rente wegen teilweiser Erwerbsminderung
-
-a)  
-in voller Höhe das 0,23fache,
-
-b)  
-in Höhe der Hälfte das 0,28fache
-
-der monatlichen Bezugsgröße, vervielfältigt mit der Summe der Entgeltpunkte (§ 66 Abs. 1 Nr. 1 bis 3) der letzten drei Kalenderjahre vor Eintritt der teilweisen Erwerbsminderung, mindestens jedoch mit 1,5 Entgeltpunkten,
+bei einer Rente wegen teilweiser Erwerbsminderung das 0,81fache der jährlichen Bezugsgröße, vervielfältigt mit den Entgeltpunkten (§ 66 Absatz 1 Nummer 1 bis 3) des Kalenderjahres mit den höchsten Entgeltpunkten aus den letzten 15 Kalenderjahren vor Eintritt der Erwerbsminderung, mindestens jedoch mit 0,5 Entgeltpunkten,
 
 2.  
-bei einer Rente wegen voller Erwerbsminderung in voller Höhe 450 Euro,
+bei einer Rente wegen voller Erwerbsminderung in voller Höhe 6 300 Euro,
 
 3.  
-bei einer Rente wegen voller Erwerbsminderung
+bei einer Rente für Bergleute das 0,89fache der jährlichen Bezugsgröße, vervielfältigt mit den Entgeltpunkten (§ 66 Absatz 1 Nummer 1 bis 3) des Kalenderjahres mit den höchsten Entgeltpunkten aus den letzten 15 Kalenderjahren vor Eintritt der im Bergbau verminderten Berufsfähigkeit oder der Erfüllung der Voraussetzungen nach § 45 Absatz 3, mindestens jedoch mit 0,5 Entgeltpunkten.
 
-a)  
-in Höhe von drei Vierteln das 0,17fache,
+Die nach Satz 1 Nummer 1 und 3 ermittelten Hinzuverdienstgrenzen werden jährlich zum 1. Juli neu berechnet.
 
-b)  
-in Höhe der Hälfte das 0,23fache,
+(2) Als Hinzuverdienst sind Arbeitsentgelt, Arbeitseinkommen und vergleichbares Einkommen zu berücksichtigen. Diese Einkünfte sind zusammenzurechnen. Nicht als Hinzuverdienst gilt das Entgelt,
 
-c)  
-in Höhe eines Viertels das 0,28fache
+1.  
+das eine Pflegeperson von der pflegebedürftigen Person erhält, wenn es das dem Umfang der Pflegetätigkeit entsprechende Pflegegeld im Sinne des § 37 des Elften Buches nicht übersteigt, oder
 
-der monatlichen Bezugsgröße, vervielfältigt mit der Summe der Entgeltpunkte (§ 66 Abs. 1 Nr. 1 bis 3) der letzten drei Kalenderjahre vor Eintritt der vollen Erwerbsminderung, mindestens jedoch mit 1,5 Entgeltpunkten,
+2.  
+das ein behinderter Mensch von dem Träger einer in § 1 Satz 1 Nummer 2 genannten Einrichtung erhält.
 
-4.  
-bei einer Rente für Bergleute
-
-a)  
-in voller Höhe das 0,25fache,
-
-b)  
-in Höhe von zwei Dritteln das 0,34fache,
-
-c)  
-in Höhe von einem Drittel das 0,42fache
-
-der monatlichen Bezugsgröße, vervielfältigt mit der Summe der Entgeltpunkte (§ 66 Abs. 1 Nr. 1 bis 3) der letzten drei Kalenderjahre vor Eintritt der im Bergbau verminderten Berufsfähigkeit oder der Erfüllung der Voraussetzungen nach § 45 Abs. 3, mindestens jedoch mit 1,5 Entgeltpunkten.
-
-(3) Bei der Feststellung eines Hinzuverdienstes, der neben einer Rente wegen teilweiser Erwerbsminderung oder einer Rente für Bergleute erzielt wird, stehen dem Arbeitsentgelt oder Arbeitseinkommen gleich der Bezug von
+(3) Bei einer Rente wegen teilweiser Erwerbsminderung oder einer Rente für Bergleute sind zusätzlich zu dem Hinzuverdienst nach Absatz 2 Satz 1 als Hinzuverdienst zu berücksichtigen:
 
 1.  
 Krankengeld,
@@ -3108,22 +3130,24 @@ a)
 dem ein nach Beginn der Rente erzieltes Arbeitsentgelt oder Arbeitseinkommen zugrunde liegt oder
 
 b)  
-das aus der gesetzlichen Unfallversicherung geleistet wird, und
+das aus der gesetzlichen Unfallversicherung geleistet wird und
 
 4.  
-den weiteren in § 18a Abs. 3 Satz 1 Nr. 1 des Vierten Buches genannten Sozialleistungen.
+die weiteren in § 18a Absatz 3 Satz 1 Nummer 1 des Vierten Buches genannten Sozialleistungen.
 
-Bei der Feststellung eines Hinzuverdienstes, der neben einer Rente wegen voller Erwerbsminderung erzielt wird, steht dem Arbeitsentgelt oder Arbeitseinkommen das für denselben Zeitraum geleistete
+Bei einer Rente wegen voller Erwerbsminderung sind zusätzlich zu dem Hinzuverdienst nach Absatz 2 Satz 1 als Hinzuverdienst zu berücksichtigen:
 
 1.  
 Verletztengeld und
 
 2.  
-Übergangsgeld aus der gesetzlichen Unfallversicherung
+Übergangsgeld aus der gesetzlichen Unfallversicherung.
 
-gleich. Als Hinzuverdienst ist das der Sozialleistung zugrunde liegende monatliche Arbeitsentgelt oder Arbeitseinkommen zu berücksichtigen. Die Sätze 1 und 2 sind auch für eine Sozialleistung anzuwenden, die aus Gründen ruht, die nicht im Rentenbezug liegen. Absatz 1 Satz 3 ist nicht für geringfügiges Arbeitsentgelt oder Arbeitseinkommen anzuwenden, soweit dieses auf die sonstige Sozialleistung angerechnet wird.
+Als Hinzuverdienst ist das der Sozialleistung zugrunde liegende Arbeitsentgelt oder Arbeitseinkommen zu berücksichtigen. Die Sätze 1 und 2 sind auch für eine Sozialleistung anzuwenden, die aus Gründen ruht, die nicht im Rentenbezug liegen.
 
 (4) Absatz 3 wird auch für vergleichbare Leistungen einer Stelle mit Sitz im Ausland angewendet.
+
+(5) § 34 Absatz 3c bis 3g gilt sinngemäß.
 
 ### § 97 Einkommensanrechnung auf Renten wegen Todes
 
@@ -3145,6 +3169,8 @@ Witwenrente oder Witwerrente nach dem vorletzten Ehegatten.
 Die Einkommensanrechnung auf eine Hinterbliebenenrente aus der Unfallversicherung hat Vorrang vor der Einkommensanrechnung auf eine entsprechende Rente wegen Todes. Das auf eine Hinterbliebenenrente anzurechnende Einkommen mindert sich um den Betrag, der bereits zu einer Einkommensanrechnung auf eine vorrangige Hinterbliebenenrente geführt hat.
 
 (4) Trifft eine Erziehungsrente mit einer Hinterbliebenenrente zusammen, ist der Einkommensanrechnung auf die Hinterbliebenenrente das Einkommen zugrunde zu legen, das sich nach Durchführung der Einkommensanrechnung auf die Erziehungsrente ergibt.
+
+(+++ § 97 Abs. 3 Satz 1 u. 3: Zur Nichtanwendung vgl. § 314 Abs. 3 Satz 2 +++)
 
 ### § 98 Reihenfolge bei der Anwendung von Berechnungsvorschriften
 
@@ -3197,7 +3223,7 @@ Fünfter Unterabschnitt Beginn, Änderung und Ende von Renten
 
 (1) Ändern sich aus tatsächlichen oder rechtlichen Gründen die Voraussetzungen für die Höhe einer Rente nach ihrem Beginn, wird die Rente in neuer Höhe von dem Kalendermonat an geleistet, zu dessen Beginn die Änderung wirksam ist. Satz 1 gilt nicht beim Zusammentreffen von Renten und Einkommen mit Ausnahme von § 96a.
 
-(2) Eine höhere Rente als eine bisher bezogene Teilrente wird von dem Kalendermonat an geleistet, zu dessen Beginn die Anspruchsvoraussetzungen hierfür erfüllt sind, wenn sie bis zum Ende des dritten Kalendermonats nach Ablauf des Monats beantragt wird, in dem die Anspruchsvoraussetzungen erfüllt sind, bei späterer Antragstellung von dem Kalendermonat an, in dem sie beantragt wird.
+(2) (weggefallen)
 
 (3) Fallen aus tatsächlichen oder rechtlichen Gründen die Anspruchsvoraussetzungen für eine Rente weg, endet die Rentenzahlung mit dem Beginn des Kalendermonats, zu dessen Beginn der Wegfall wirksam ist. Entfällt ein Anspruch auf Rente, weil sich die Erwerbsfähigkeit der Berechtigten nach einer Leistung zur medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben gebessert hat, endet die Rentenzahlung erst mit Beginn des vierten Kalendermonats nach der Besserung der Erwerbsfähigkeit. Die Rentenzahlung nach Satz 2 endet mit Beginn eines dem vierten Kalendermonat vorangehenden Monats, wenn zu dessen Beginn eine Beschäftigung oder selbständige Tätigkeit ausgeübt wird, die mehr als geringfügig ist.
 
@@ -3206,6 +3232,22 @@ Fünfter Unterabschnitt Beginn, Änderung und Ende von Renten
 ### § 101 Beginn und Änderung in Sonderfällen
 
 (1) Befristete Renten wegen verminderter Erwerbsfähigkeit werden nicht vor Beginn des siebten Kalendermonats nach dem Eintritt der Minderung der Erwerbsfähigkeit geleistet.
+
+(1a) Befristete Renten wegen voller Erwerbsminderung, auf die Anspruch unabhängig von der jeweiligen Arbeitsmarktlage besteht, werden vor Beginn des siebten Kalendermonats nach dem Eintritt der Minderung der Erwerbsfähigkeit geleistet, wenn
+
+1.  
+entweder
+
+a)  
+die Feststellung der verminderten Erwerbsfähigkeit durch den Träger der Rentenversicherung zur Folge hat, dass ein Anspruch auf Arbeitslosengeld entfällt, oder
+
+b)  
+nach Feststellung der verminderten Erwerbsfähigkeit durch den Träger der Rentenversicherung ein Anspruch auf Krankengeld nach § 48 des Fünften Buches oder auf Krankentagegeld von einem privaten Krankenversicherungsunternehmen endet und
+
+2.  
+der siebte Kalendermonat nach dem Eintritt der Minderung der Erwerbsfähigkeit noch nicht erreicht ist.
+
+In diesen Fällen werden die Renten von dem Tag an geleistet, der auf den Tag folgt, an dem der Anspruch auf Arbeitslosengeld, Krankengeld oder Krankentagegeld endet.
 
 (2) Befristete große Witwenrenten oder befristete große Witwerrenten wegen Minderung der Erwerbsfähigkeit werden nicht vor Beginn des siebten Kalendermonats nach dem Eintritt der Minderung der Erwerbsfähigkeit geleistet.
 
@@ -3225,7 +3267,7 @@ b)
 des Beginns einer Leistung an die ausgleichspflichtige Person aus einem von ihr im Versorgungsausgleich erworbenen Anrecht (§ 33 Abs. 3 des Versorgungsausgleichsgesetzes) oder
 
 c)  
-der teilweisen oder vollständigen Einstellung der Unterhaltszahlungen der ausgleichspflichtigen Person (§ 34 Abs. 5 des Versorgungsausgleichsgesetzes),
+der vollständigen Einstellung der Unterhaltszahlungen der ausgleichspflichtigen Person (§ 34 Abs. 5 des Versorgungsausgleichsgesetzes),
 
 2.  
 in den Fällen des § 35 Abs. 1 des Versorgungsausgleichsgesetzes mit Wirkung vom Zeitpunkt des Beginns einer Leistung an die ausgleichspflichtige Person aus einem von ihr im Versorgungsausgleich erworbenen Anrecht (§ 36 Abs. 4 des Versorgungsausgleichsgesetzes) und
@@ -3237,7 +3279,7 @@ Die §§ 24 und 48 des Zehnten Buches sind nicht anzuwenden.
 
 (4) Ist nach Beginn der Rente ein Rentensplitting durchgeführt, wird die Rente von dem Kalendermonat an um Zuschläge oder Abschläge an Entgeltpunkten verändert, zu dessen Beginn das Rentensplitting durchgeführt ist. Der Rentenbescheid ist mit Wirkung von diesem Zeitpunkt an aufzuheben; die §§ 24 und 48 des Zehnten Buches sind nicht anzuwenden. Entsprechendes gilt bei einer Abänderung des Rentensplittings.
 
-(5) Ist nach Beginn einer Waisenrente ein Rentensplitting durchgeführt, durch das die Waise nicht begünstigt ist, wird die Rente erst zu dem Zeitpunkt um Abschläge oder Zuschläge an Entgeltpunkten verändert, zu dem eine Rente aus der Versicherung des überlebenden Elternteils, der durch das Rentensplitting begünstigt ist, beginnt. Der Rentenbescheid der Waise ist mit Wirkung von diesem Zeitpunkt an aufzuheben; die §§ 24 und 48 des Zehnten Buches sind nicht anzuwenden. Entsprechendes gilt bei einer Abänderung des Rentensplittings.
+(5) Ist nach Beginn einer Waisenrente ein Rentensplitting durchgeführt, durch das die Waise nicht begünstigt ist, wird die Rente erst zu dem Zeitpunkt um Abschläge oder Zuschläge an Entgeltpunkten verändert, zu dem eine Rente aus der Versicherung des überlebenden Ehegatten oder Lebenspartners, der durch das Rentensplitting begünstigt ist, beginnt. Der Rentenbescheid der Waise ist mit Wirkung von diesem Zeitpunkt an aufzuheben; die §§ 24 und 48 des Zehnten Buches sind nicht anzuwenden. Entsprechendes gilt bei einer Abänderung des Rentensplittings.
 
 ### § 102 Befristung und Tod
 
@@ -3299,7 +3341,9 @@ Dritter Abschnitt Zusatzleistungen
 
 ### § 108 Beginn, Änderung und Ende von Zusatzleistungen
 
-Für laufende Zusatzleistungen sind die Vorschriften über Beginn, Änderung und Ende von Renten entsprechend anzuwenden.
+(1) Für laufende Zusatzleistungen sind die Vorschriften über Beginn, Änderung und Ende von Renten entsprechend anzuwenden.
+
+(2) Sind die Anspruchsvoraussetzungen für den Zuschuss zu den Aufwendungen für die freiwillige gesetzliche Krankenversicherung entfallen, weil die Krankenkasse rückwirkend eine Pflichtmitgliedschaft in der gesetzlichen Krankenversicherung festgestellt hat, ist der Bescheid über die Bewilligung des Zuschusses vom Beginn der Pflichtmitgliedschaft an aufzuheben. Dies gilt nicht für Zeiten, für die freiwillige Beiträge gezahlt wurden, die wegen § 27 Absatz 2 des Vierten Buches nicht erstattet werden. Nicht anzuwenden sind die Vorschriften zur Anhörung Beteiligter (§ 24 des Zehnten Buches), die Vorschriften zur Rücknahme eines rechtswidrigen begünstigenden Verwaltungsaktes (§ 45 des Zehnten Buches) und die Vorschriften zur Aufhebung eines Verwaltungsaktes mit Dauerwirkung bei Änderung der Verhältnisse (§ 48 des Zehnten Buches).
 
 Vierter Abschnitt Serviceleistungen
 -----------------------------------
@@ -3308,9 +3352,9 @@ Vierter Abschnitt Serviceleistungen
 
 ### § 109 Renteninformation und Rentenauskunft
 
-(1) Versicherte, die das 27. Lebensjahr vollendet haben, erhalten jährlich eine schriftliche Renteninformation. Nach Vollendung des 55. Lebensjahres wird diese alle drei Jahre durch eine Rentenauskunft ersetzt. Besteht ein berechtigtes Interesse, kann die Rentenauskunft auch jüngeren Versicherten erteilt werden oder in kürzeren Abständen erfolgen.
+(1) Versicherte, die das 27. Lebensjahr vollendet haben, erhalten jährlich eine schriftliche oder elektronische Renteninformation. Nach Vollendung des 55. Lebensjahres wird diese alle drei Jahre durch eine Rentenauskunft ersetzt. Besteht ein berechtigtes Interesse, kann die Rentenauskunft auch jüngeren Versicherten erteilt werden oder in kürzeren Abständen erfolgen.
 
-(2) Die Renteninformation und die Rentenauskunft sind mit dem Hinweis zu versehen, dass sie auf der Grundlage des geltenden Rechts und der im Versicherungskonto gespeicherten rentenrechtlichen Zeiten erstellt sind und damit unter dem Vorbehalt künftiger Rechtsänderungen sowie der Richtigkeit und Vollständigkeit der im Versicherungskonto gespeicherten rentenrechtlichen Zeiten stehen.
+(2) Die Renteninformation und die Rentenauskunft sind mit dem Hinweis zu versehen, dass sie auf der Grundlage des geltenden Rechts und der im Versicherungskonto gespeicherten rentenrechtlichen Zeiten erstellt sind und damit unter dem Vorbehalt künftiger Rechtsänderungen sowie der Richtigkeit und Vollständigkeit der im Versicherungskonto gespeicherten rentenrechtlichen Zeiten stehen. Mit dem Versand der zuletzt vor Vollendung des 50. Lebensjahres zu erteilenden Renteninformation ist darauf hinzuweisen, dass eine Rentenauskunft auch vor Vollendung des 55. Lebensjahres erteilt werden kann und dass eine Rentenauskunft auf Antrag auch die Höhe der Beitragszahlung zum Ausgleich einer Rentenminderung bei vorzeitiger Inanspruchnahme einer Rente wegen Alters enthält.
 
 (3) Die Renteninformation hat insbesondere zu enthalten:
 
@@ -3352,12 +3396,30 @@ nach Erreichen der Regelaltersgrenze als Regelaltersrente
 zu zahlen wäre,
 
 4.  
-auf Antrag auch die Höhe der Beitragszahlung, die zum Ausgleich einer Rentenminderung bei vorzeitiger Inanspruchnahme einer Rente wegen Alters erforderlich ist, und über die ihr zugrunde liegende Altersrente; diese Auskunft unterbleibt, wenn die Erfüllung der versicherungsrechtlichen Voraussetzungen für eine vorzeitige Rente wegen Alters offensichtlich ausgeschlossen ist,
+eine Prognose über die Höhe der zu erwartenden Regelaltersrente,
 
 5.  
-allgemeine Hinweise zur Erfüllung der persönlichen und versicherungsrechtlichen Voraussetzungen für einen Rentenanspruch.
+allgemeine Hinweise
 
-(5) Auf Antrag erhalten Versicherte Auskunft über die Höhe ihrer auf die Ehezeit oder Lebenspartnerschaftszeit entfallenden Rentenanwartschaft. Diese Auskunft erhält auf Antrag auch der Ehegatte oder geschiedene Ehegatte oder der Lebenspartner oder frühere Lebenspartner eines Versicherten, wenn der Träger der Rentenversicherung diese Auskunft nach § 74 Nr. 2 Buchstabe b des Zehnten Buches erteilen darf, weil der Versicherte seine Auskunftspflicht gegenüber dem Ehegatten oder Lebenspartner nicht oder nicht vollständig erfüllt hat. Die nach Satz 2 erteilte Auskunft wird auch dem Versicherten mitgeteilt.
+a)  
+zur Erfüllung der persönlichen und versicherungsrechtlichen Voraussetzungen für einen Rentenanspruch,
+
+b)  
+zum Ausgleich von Abschlägen bei vorzeitiger Inanspruchnahme einer Altersrente,
+
+c)  
+zu den Auswirkungen der Inanspruchnahme einer Teilrente und zu den Folgen für den Hinzuverdienst,
+
+6.  
+Hinweise
+
+a)  
+zu den Auswirkungen der vorzeitigen Inanspruchnahme einer Rente wegen Alters,
+
+b)  
+zu den Auswirkungen eines Hinausschiebens des Rentenbeginns über die Regelaltersgrenze.
+
+(5) Auf Antrag erhalten Versicherte Auskunft über die Höhe ihrer auf die Ehezeit oder Lebenspartnerschaftszeit entfallenden Rentenanwartschaft. Diese Auskunft erhält auf Antrag auch der Ehegatte oder geschiedene Ehegatte oder der Lebenspartner oder frühere Lebenspartner eines Versicherten, wenn der Träger der Rentenversicherung diese Auskunft nach § 74 Nr. 2 Buchstabe b des Zehnten Buches erteilen darf, weil der Versicherte seine Auskunftspflicht gegenüber dem Ehegatten oder Lebenspartner nicht oder nicht vollständig erfüllt hat. Die nach Satz 2 erteilte Auskunft wird auch dem Versicherten mitgeteilt. Ferner enthält die Rentenauskunft auf Antrag die Höhe der Beitragszahlung, die zum Ausgleich einer Rentenminderung bei vorzeitiger Inanspruchnahme einer Rente wegen Alters erforderlich ist, und Angaben über die ihr zugrunde liegende Altersrente. Diese Auskunft unterbleibt, wenn die Erfüllung der versicherungsrechtlichen Voraussetzungen für eine vorzeitige Rente wegen Alters offensichtlich ausgeschlossen ist.
 
 (6) Für die Auskunft an das Familiengericht nach § 220 Abs. 4 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit ergeben sich die nach § 39 des Versorgungsausgleichsgesetzes zu ermittelnden Entgeltpunkte aus der Berechnung einer Vollrente wegen Erreichens der Regelaltersgrenze.
 
@@ -3502,7 +3564,7 @@ Erster Unterabschnitt Beginn und Abschluss des Verfahrens
 
 (3) Haben Versicherte bis zum Erreichen der Regelaltersgrenze eine Rente wegen verminderter Erwerbsfähigkeit oder eine Erziehungsrente bezogen, ist anschließend eine Regelaltersrente zu leisten, wenn sie nicht etwas anderes bestimmen. Haben Witwen oder Witwer bis zum Erreichen der Altersgrenze für eine große Witwenrente oder große Witwerrente eine kleine Witwenrente oder kleine Witwerrente bezogen, ist anschließend eine große Witwenrente oder große Witwerrente zu leisten.
 
-(4) Leistungen zur medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben können auch von Amts wegen erbracht werden, wenn die Versicherten zustimmen. Die Zustimmung gilt als Antrag auf Leistungen zur medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben.
+(4) Leistungen zur Teilhabe können auch von Amts wegen erbracht werden, wenn die Versicherten zustimmen. Die Zustimmung gilt als Antrag auf Leistungen zur Teilhabe.
 
 (5) Rentenauskünfte werden auch von Amts wegen erteilt.
 
@@ -3554,6 +3616,8 @@ können für einen angemessenen Zeitraum im Voraus ausgezahlt werden.
 (4a) Die Ansprüche nach den Absätzen 3 und 4 verjähren in vier Jahren nach Ablauf des Kalenderjahres, in dem der Träger der Rentenversicherung Kenntnis von der Überzahlung und in den Fällen des Absatzes 4 zusätzlich Kenntnis von dem Erstattungspflichtigen erlangt hat. Für die Hemmung, die Ablaufhemmung, den Neubeginn und die Wirkung der Verjährung gelten die Vorschriften des Bürgerlichen Gesetzbuchs sinngemäß.
 
 (5) Sind laufende Geldleistungen, die nach Absatz 1 auszuzahlen und in dem Monat fällig geworden sind, in dem der Berechtigte verstorben ist, auf das bisherige Empfängerkonto bei einem Geldinstitut überwiesen worden, ist der Anspruch der Erben gegenüber dem Träger der Rentenversicherung erfüllt.
+
+(+++ § 118 Abs. 3 bis 5: Zur Anwendung vgl. § 26 Abs. 3 HZvG 2002 ab F. 2016-11-11 +++)
 
 ### § 118a Anpassungsmitteilung
 
@@ -3614,10 +3678,10 @@ die Ehe am 31. Dezember 2001 bestand und beide Ehegatten nach dem 1. Januar 1962
 (3) Anspruch auf Durchführung des Rentensplittings unter Ehegatten besteht, wenn
 
 1.  
-erstmalig beide Ehegatten Anspruch auf Leistung einer Vollrente wegen Alters aus der gesetzlichen Rentenversicherung haben oder
+erstmalig beide Ehegatten nach Ablauf des Monats, in dem die Regelaltersgrenze erreicht wurde, Anspruch auf Leistung einer Vollrente wegen Alters aus der gesetzlichen Rentenversicherung haben oder
 
 2.  
-erstmalig ein Ehegatte Anspruch auf Leistung einer Vollrente wegen Alters aus der gesetzlichen Rentenversicherung und der andere Ehegatte die Regelaltersgrenze erreicht hat oder
+erstmalig ein Ehegatte nach Ablauf des Monats, in dem die Regelaltersgrenze erreicht wurde, Anspruch auf Leistung einer Vollrente wegen Alters aus der gesetzlichen Rentenversicherung und der andere Ehegatte die Regelaltersgrenze erreicht hat oder
 
 3.  
 ein Ehegatte verstirbt, bevor die Voraussetzungen der Nummern 1 und 2 vorliegen. In diesem Fall kann der überlebende Ehegatte das Rentensplitting unter Ehegatten allein herbeiführen.
@@ -3634,7 +3698,7 @@ im Fall von Absatz 3 Nr. 3 beim überlebenden Ehegatten
 
 (5) Anspruch auf Durchführung des Rentensplittings unter Ehegatten besteht nicht, wenn der überlebende Ehegatte eine Rentenabfindung erhalten hat.
 
-(6) Der Anspruch auf Durchführung des Rentensplittings unter Ehegatten besteht für die Zeit vom Beginn des Monats, in dem die Ehe geschlossen worden ist, bis zum Ende des Monats, in dem der Anspruch entstanden ist (Splittingzeit). Entsteht der Anspruch auf Durchführung des Rentensplittings unter Ehegatten durch Leistung einer Vollrente wegen Alters, endet die Splittingzeit mit dem Ende des Monats vor Leistungsbeginn.
+(6) Der Anspruch auf Durchführung des Rentensplittings unter Ehegatten besteht für die Zeit vom Beginn des Monats, in dem die Ehe geschlossen worden ist, bis zum Ende des Monats, in dem der Anspruch entstanden ist (Splittingzeit). Entsteht der Anspruch auf Durchführung des Rentensplittings unter Ehegatten nach Ablauf des Monats, in dem die Regelaltersgrenze erreicht wurde, durch Leistung einer Vollrente wegen Alters, endet die Splittingzeit mit dem Ende des Monats vor Leistungsbeginn.
 
 (7) Die Höhe der Ansprüche richtet sich nach den Entgeltpunkten der Ehegatten, getrennt nach
 
@@ -3810,7 +3874,7 @@ Für die Erfüllung der Aufgaben der Rentenversicherung sind in der allgemeinen 
 
 ### § 127 Zuständigkeit für Versicherte und Hinterbliebene
 
-(1) Zuständig für Versicherte ist der Träger der Rentenversicherung, der durch die Datenstelle der Träger der Rentenversicherung bei der Vergabe der Versicherungsnummer festgelegt worden ist. Ist eine Versicherungsnummer noch nicht vergeben, ist bis zur Vergabe der Versicherungsnummer die Deutsche Rentenversicherung Bund zuständig.
+(1) Zuständig für Versicherte ist der Rentenversicherung, der durch die Datenstelle der Rentenversicherung bei der Vergabe der Versicherungsnummer festgelegt worden ist. Ist eine Versicherungsnummer noch nicht vergeben, ist bis zur Vergabe der Versicherungsnummer die Deutsche Rentenversicherung Bund zuständig.
 
 (2) Das Erweiterte Direktorium der Deutschen Rentenversicherung Bund bestimmt die Zuordnung von Versicherten zu einem Träger der Rentenversicherung nach folgenden Grundsätzen:
 
@@ -4195,7 +4259,7 @@ Die Seemannskasse, die von der See-Berufsgenossenschaft gemäß § 891a der Reic
 
 ### § 137b Besonderheiten bei den Leistungen und bei der Durchführung der Versicherung
 
-(1) Aufgabe der Seemannskasse ist die Gewährung eines Überbrückungsgeldes nach Vollendung des 55. Lebensjahres an die bei ihr versicherten Seeleute sowie an Küstenschiffer und Küstenfischer, die aus der Seefahrt ausgeschieden sind. Die Satzung kann ergänzende Leistungen für Versicherte nach Erreichen der Regelaltersgrenze vorsehen.
+(1) Aufgabe der Seemannskasse ist die Gewährung eines Überbrückungsgeldes nach Vollendung des 55. Lebensjahres an die bei ihr versicherten Seeleute sowie an Küstenschiffer und Küstenfischer, die aus der Seefahrt ausgeschieden sind. Die Satzung kann ergänzende Leistungen für Versicherte nach Erreichen der Regelaltersgrenze und bei Bezug einer Altersrente mit ungemindertem Zugangsfaktor vor Erreichen der Regelaltersgrenze vorsehen.
 
 (2) Versicherungspflichtig sind in der Seemannskasse
 
@@ -4207,7 +4271,7 @@ Küstenschiffer und Küstenfischer, die nach § 2 Satz 1 Nr. 7 oder nach § 229a
 
 (2a) Für deutsche Seeleute, für die vor dem 21. April 2015 nach § 2 Absatz 3 Satz 1 Nummer 1 des Vierten Buches Versicherungspflicht bestand und die nicht bei einer gewerblichen Berufsgenossenschaft unfallversichert sind, gilt Absatz 2 Nummer 1 nicht, es sei denn, der Arbeitgeber stellt für diese Personen einen Antrag auf Versicherungspflicht in der Seemannskasse.
 
-(2b) Auf Antrag des öffentlichen Arbeitgebers werden alle von ihm beschäftigten Seeleute nach § 13 Absatz 1 des Vierten Buches, die bei der Deutschen Rentenversicherung Knappschaft-Bahn-See rentenversichert sind, in der Seemannskasse versichert.
+(2b) Auf Antrag des öffentlichen Arbeitgebers werden alle von ihm beschäftigten Seeleute nach § 13 Absatz 1 des Vierten Buches, die bei der Deutschen Rentenversicherung Knappschaft-Bahn-See rentenversichert sind, in der Seemannskasse versichert. Die Satzung der Seemannskasse kann bestimmen, dass eine Versicherungspflicht, die bei öffentlichen Arbeitgebern am 21. April 2015 bestand, bestehen bleibt sowie dass diese sich auch auf Seeleute erstreckt, deren Beschäftigung bei diesen Arbeitgebern nach dem 21. April 2015 beginnt.
 
 (3) Die Meldungen zur Seemannskasse sind mit den Meldungen zur Sozialversicherung (§ 28a des Vierten Buches) zu verbinden.
 
@@ -4412,14 +4476,14 @@ Sechster Unterabschnitt Beschäftigte der Versicherungsträger
 
 (3) Die landesunmittelbaren Regionalträger tragen die Bezüge der Beamten und ihrer Hinterbliebenen.
 
-Siebter Unterabschnitt Datenstelle der Träger der Rentenversicherung
---------------------------------------------------------------------
+Siebter Unterabschnitt Datenstelle der Rentenversicherung
+---------------------------------------------------------
 
 ### 
 
-### § 145 Datenstelle der Träger der Rentenversicherung
+### § 145 Aufgaben der Datenstelle der Rentenversicherung
 
-(1) Die Träger der Rentenversicherung unterhalten gemeinsam eine Datenstelle, die von der Deutschen Rentenversicherung Bund verwaltet wird. Dabei ist sicherzustellen, dass die Datenbestände, die die Deutsche Rentenversicherung Bund als Träger der Rentenversicherung führt, und die Datenbestände der Datenstelle der Träger der Rentenversicherung dauerhaft getrennt bleiben. Die Träger der Rentenversicherung können die Datenstelle als Vermittlungsstelle einschalten. Sie können durch die Datenstelle auch die Ausstellung von Sozialversicherungsausweisen veranlassen.
+(1) Die Träger der Rentenversicherung unterhalten gemeinsam eine Datenstelle, die von der Deutschen Rentenversicherung Bund verwaltet wird. Dabei ist sicherzustellen, dass die Datenbestände, die die Deutsche Rentenversicherung Bund als Träger der Rentenversicherung führt, und die Datenbestände der Datenstelle der Rentenversicherung dauerhaft getrennt bleiben. Die Träger der Rentenversicherung können die Datenstelle als Vermittlungsstelle einschalten. Sie können durch die Datenstelle auch die Ausstellung von Sozialversicherungsausweisen veranlassen.
 
 (2) Die Deutsche Rentenversicherung Bund darf eine Datei mit Sozialdaten, die nicht ausschließlich einer Versicherungsnummer der bei ihr Versicherten zugeordnet ist, nur bei der Datenstelle und nur dann führen, wenn die Einrichtung dieser Datei gesetzlich bestimmt ist.
 
@@ -4440,7 +4504,7 @@ Zweiter Abschnitt Datenschutz und Datensicherheit
 
 ### § 147 Versicherungsnummer
 
-(1) Die Datenstelle der Träger der Rentenversicherung kann für Personen eine Versicherungsnummer vergeben, wenn dies zur personenbezogenen Zuordnung der Daten für die Erfüllung einer gesetzlichen Aufgabe nach diesem Gesetzbuch erforderlich oder dies durch Gesetz oder aufgrund eines Gesetzes bestimmt ist. Für die nach diesem Buche versicherten Personen hat sie eine Versicherungsnummer zu vergeben.
+(1) Die Datenstelle der Rentenversicherung kann für Personen eine Versicherungsnummer vergeben, wenn dies zur personenbezogenen Zuordnung der Daten für die Erfüllung einer gesetzlichen Aufgabe nach diesem Gesetzbuch erforderlich oder dies durch Gesetz oder aufgrund eines Gesetzes bestimmt ist. Für die nach diesem Buche versicherten Personen hat sie eine Versicherungsnummer zu vergeben.
 
 (2) Die Versicherungsnummer einer Person setzt sich zusammen aus
 
@@ -4489,9 +4553,9 @@ Der Rentenversicherungsträger darf die Versicherungsnummer, den Familiennamen, 
 
 (2) Der Träger der Rentenversicherung darf Daten, aus denen die Art einer Erkrankung erkennbar ist, zusammen mit anderen Daten in einer gemeinsamen Datei nur speichern, wenn durch technische und organisatorische Maßnahmen sichergestellt ist, dass die Daten über eine Erkrankung nur den Personen zugänglich sind, die sie zur Erfüllung ihrer Aufgaben benötigen.
 
-(3) Die Einrichtung eines automatisierten Verfahrens, das die Übermittlung von Sozialdaten aus Dateien der Träger der Rentenversicherung durch Abruf ermöglicht, ist nur zwischen den Trägern der Rentenversicherung sowie mit der gesetzlichen Krankenversicherung, dem Bundesversicherungsamt als Verwalter des Gesundheitsfonds, der Bundesagentur für Arbeit oder in den Fällen des § 6a des Zweiten Buches den zugelassenen kommunalen Trägern, der Deutschen Rentenversicherung Knappschaft-Bahn-See, soweit sie bei geringfügig Beschäftigten Aufgaben nach dem Einkommensteuergesetz durchführt, der Deutschen Post AG, soweit sie mit der Berechnung oder Auszahlung von Sozialleistungen betraut ist, und den Versicherungsämtern und Gemeindebehörden, soweit sie mit der Aufnahme von Anträgen auf Leistungen aus der gesetzlichen Rentenversicherung betraut sind, zulässig; dabei dürfen auch Vermittlungsstellen eingeschaltet werden. Sie ist mit Leistungsträgern außerhalb des Geltungsbereichs dieses Gesetzbuchs zulässig, soweit diese Daten zur Feststellung von Leistungen nach über- und zwischenstaatlichem Recht erforderlich sind und nicht Grund zur Annahme besteht, dass dadurch schutzwürdige Belange der davon betroffenen Personen beeinträchtigt werden. Die Übermittlung darf auch durch Abruf im automatisierten Verfahren erfolgen, ohne dass es einer Genehmigung nach § 79 Abs. 1 des Zehnten Buches bedarf.
+(3) Die Einrichtung eines automatisierten Verfahrens, das die Übermittlung von Sozialdaten aus Dateien der Träger der Rentenversicherung durch Abruf ermöglicht, ist nur zwischen den Trägern der Rentenversicherung sowie mit der gesetzlichen Krankenversicherung, dem Bundesversicherungsamt als Verwalter des Gesundheitsfonds, der Bundesagentur für Arbeit oder in den Fällen des § 6a des Zweiten Buches den zugelassenen kommunalen Trägern, der Deutschen Rentenversicherung Knappschaft-Bahn-See, soweit sie bei geringfügig Beschäftigten Aufgaben nach dem Einkommensteuergesetz durchführt, der Deutschen Post AG, soweit sie mit der Berechnung oder Auszahlung von Sozialleistungen betraut ist, der Versorgungsanstalt des Bundes und der Länder, soweit diese Daten zur Feststellung von Leistungen erforderlich sind, und den Versicherungsämtern und Gemeindebehörden, soweit sie mit der Aufnahme von Anträgen auf Leistungen aus der gesetzlichen Rentenversicherung betraut sind, zulässig; dabei dürfen auch Vermittlungsstellen eingeschaltet werden. Sie ist mit Leistungsträgern außerhalb des Geltungsbereichs dieses Gesetzbuchs zulässig, soweit diese Daten zur Feststellung von Leistungen nach über- und zwischenstaatlichem Recht erforderlich sind und nicht Grund zur Annahme besteht, dass dadurch schutzwürdige Belange der davon betroffenen Personen beeinträchtigt werden. Die Übermittlung darf auch durch Abruf im automatisierten Verfahren erfolgen, ohne dass es einer Genehmigung nach § 79 Abs. 1 des Zehnten Buches bedarf.
 
-(4) Die Träger der Rentenversicherung dürfen der Datenstelle oder der Deutschen Rentenversicherung Bund Sozialdaten nur übermitteln, soweit dies zur Führung einer Datei bei der Datenstelle oder zur Erfüllung einer anderen gesetzlich vorgeschriebenen oder zugelassenen Aufgabe erforderlich ist. Die Einschränkungen des Satzes 1 gelten nicht, wenn die Sozialdaten in einer anonymisierten Form übermittelt werden.
+(4) Die Träger der Rentenversicherung dürfen der Datenstelle der Rentenversicherung Sozialdaten nur übermitteln, soweit dies zur Führung einer Datei oder zur Erfüllung einer anderen gesetzlich vorgeschriebenen oder zugelassenen Aufgabe erforderlich ist. Die Einschränkungen des Satzes 1 gelten nicht, wenn die Sozialdaten in einer anonymisierten Form übermittelt werden.
 
 ### § 149 Versicherungskonto
 
@@ -4564,7 +4628,7 @@ Betriebsnummer des Arbeitgebers,
 8.  
 Tag der Beschäftigungsaufnahme.
 
-(3) Für die Prüfung, ob eine Beschäftigung oder selbstständige Erwerbstätigkeit innerhalb des Geltungsbereichs dieses Buches die Voraussetzungen erfüllt, nach denen die deutschen Rechtsvorschriften über die soziale Sicherheit nach den Vorschriften des Titels II der Verordnung (EG) Nr. 883/2004 keine Anwendung finden, speichert die Datenstelle der Träger der Rentenversicherung folgende Daten:
+(3) Für die Prüfung, ob eine Beschäftigung oder selbstständige Erwerbstätigkeit innerhalb des Geltungsbereichs dieses Buches die Voraussetzungen erfüllt, nach denen die deutschen Rechtsvorschriften über die soziale Sicherheit nach den Vorschriften des Titels II der Verordnung (EG) Nr. 883/2004 keine Anwendung finden, speichert die Datenstelle der Rentenversicherung folgende Daten:
 
 1.  
 die Daten, die in der von der Verwaltungskommission für die Koordinierung der Systeme der sozialen Sicherheit festgelegten Bescheinigung über das anzuwendende Recht oder in dem entsprechenden strukturierten Dokument des Trägers eines anderen Mitgliedstaates der Europäischen Union, eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz enthalten sind,
@@ -4630,9 +4694,9 @@ Daten über Mitteilungsempfänger oder nicht nur vorübergehend Bevollmächtigte
 
 ### § 151a Antragstellung im automatisierten Verfahren beim Versicherungsamt
 
-(1) Für die Aufnahme von Leistungsanträgen bei dem Versicherungsamt oder der Gemeindebehörde und die Übermittlung der Anträge an den Träger der Rentenversicherung kann ein automatisiertes Verfahren eingerichtet werden, das es dem Versicherungsamt oder der Gemeindebehörde ermöglicht, die für das automatisierte Verfahren erforderlichen Daten der Versicherten, die ihre alleinige Wohnung, ihre Hauptwohnung, ihren Beschäftigungsort oder ihre Tätigkeit im Bezirk des Versicherungsamtes oder in der Gemeinde haben, aus der Stammsatzdatei der Datenstelle der Rentenversicherung (§ 150 Abs. 2) und dem Versicherungskonto (§ 149 Abs. 1) abzurufen.
+(1) Für die Aufnahme von Leistungsanträgen bei dem Versicherungsamt oder der Gemeindebehörde und die Übermittlung der Anträge an den Träger der Rentenversicherung kann ein automatisiertes Verfahren eingerichtet werden, das es dem Versicherungsamt oder der Gemeindebehörde ermöglicht, die für das automatisierte Verfahren erforderlichen Daten der Versicherten, aus der Stammsatzdatei der Datenstelle der Rentenversicherung (§ 150 Abs. 2) und dem Versicherungskonto (§ 149 Abs. 1) abzurufen, wenn die Versicherten oder anderen Leistungsberechtigten ihren Wohnsitz oder gewöhnlichen Aufenthalt, ihren Beschäftigungsort oder Tätigkeitsort im Bezirk des Versicherungsamtes oder in der Gemeinde haben.
 
-(2) Aus der Stammsatzdatei dürfen nur die in § 150 Abs. 2 Nr. 1 bis 4 genannten Daten übermittelt werden. Aus dem Versicherungskonto dürfen nur folgende Daten übermittelt werden:
+(2) Aus der Stammsatzdatei dürfen nur die in § 150 Abs. 2 Nr. 1 bis 4 genannten Daten abgerufen werden. Aus dem Versicherungskonto dürfen nur folgende Daten und die Angabe des aktuell kontoführenden Rentenversicherungsträgers abgerufen werden:
 
 1.  
 Datum des letzten Zuzugs aus dem Ausland unter Angabe des Staates,
@@ -4641,9 +4705,27 @@ Datum des letzten Zuzugs aus dem Ausland unter Angabe des Staates,
 Datum der letzten Kontoklärung,
 
 3.  
-Anschrift.
+Anschrift,
 
-(3) Die Deutsche Rentenversicherung Bund erstellt im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik ein Sicherheitskonzept für die Einrichtung des automatisierten Verfahrens, das insbesondere die nach § 78a des Zehnten Buches erforderlichen technischen und organisatorischen Maßnahmen enthalten muss. Einrichtung und Änderungen des Verfahrens bedürfen der vorherigen Zustimmung der jeweiligen Aufsichtsbehörde. Die Aufsichtsbehörde kann eine Ausnahme von dem Zustimmungserfordernis zulassen, wenn die Prüfung bereits von einer anderen Aufsichtsbehörde durchgeführt worden ist. Das Sicherheitskonzept ist im Falle sicherheitserheblicher Änderungen, spätestens jedoch alle drei Jahre im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik zu aktualisieren und der Aufsichtsbehörde vorzulegen. Die Aufsichtsbehörde kann die Fortführung des Verfahrens untersagen, wenn das Sicherheitskonzept nicht mehr dem Stand der Technik entspricht.
+4.  
+Datum des Eintritts in die Versicherung,
+
+5.  
+Lücken im Versicherungsverlauf, an deren Klärung der Versicherte noch nicht mitgewirkt hat,
+
+6.  
+Kindererziehungszeiten und Berücksichtigungszeiten,
+
+7.  
+Berufsausbildungszeiten,
+
+8.  
+Wartezeitauskunft zu der beantragten Rente einschließlich der Wartezeiterfüllung nach § 52,
+
+9.  
+die zuständigen Einzugsstellen mit Angabe des jeweiligen Zeitraums.
+
+(3) Die Deutsche Rentenversicherung Bund erstellt im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik ein Sicherheitskonzept für die Einrichtung des automatisierten Verfahrens, das insbesondere die nach § 78a des Zehnten Buches erforderlichen technischen und organisatorischen Maßnahmen enthalten muss. Wenn sicherheitserhebliche Änderungen am automatisierten Verfahren vorgenommen werden, das Sicherheitskonzept nicht mehr dem Stand der Technik entspricht oder dieses aus einem sonstigen Grund nicht geeignet ist, die Datensicherheit zu gewährleisten, spätestens jedoch alle vier Jahre, ist das Sicherheitskonzept im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik zu aktualisieren. Das Sicherheitskonzept ist der jeweiligen Aufsichtsbehörde unter Beifügung der Erklärung des Bundesamtes für Sicherheit in der Informationstechnik vorzulegen. Einrichtung und sicherheitserhebliche Änderungen des Verfahrens bedürfen der vorherigen Zustimmung der jeweiligen Aufsichtsbehörde. Die Zustimmung gilt als erteilt, wenn die Aufsichtsbehörde nicht innerhalb einer Frist von drei Monaten nach Vorlage des Antrags eine andere Entscheidung trifft. Die Aufsichtsbehörde kann den Betrieb des Verfahrens untersagen, wenn eine Aktualisierung nicht erfolgt.
 
 ### § 152 Verordnungsermächtigung
 
@@ -4931,9 +5013,9 @@ bei Hausgewerbetreibenden das Arbeitseinkommen,
 5.  
 bei Küstenschiffern und Küstenfischern das in der Unfallversicherung maßgebende beitragspflichtige Arbeitseinkommen.
 
-Beitragspflichtige Einnahmen sind bei selbständig Tätigen abweichend von Satz 1 Nr. 1 bis zum Ablauf von drei Kalenderjahren nach dem Jahr der Aufnahme der selbständigen Tätigkeit ein Arbeitseinkommen in Höhe von 50 vom Hundert der Bezugsgröße, auf Antrag des Versicherten jedoch ein Arbeitseinkommen in Höhe der Bezugsgröße. Für den Nachweis des von der Bezugsgröße abweichenden Arbeitseinkommens nach Satz 1 Nummer 1 sind die sich aus dem letzten Einkommensteuerbescheid für das zeitnaheste Kalenderjahr ergebenden Einkünfte aus der versicherungspflichtigen selbständigen Tätigkeit so lange maßgebend, bis ein neuer Einkommensteuerbescheid vorgelegt wird. Die Einkünfte sind mit dem Vomhundertsatz zu vervielfältigen, der sich aus dem Verhältnis des vorläufigen Durchschnittsentgelts (Anlage 1) für das Kalenderjahr, für das das Arbeitseinkommen nachzuweisen ist, zu dem Durchschnittsentgelt (Anlage 1) für das maßgebende Veranlagungsjahr des Einkommensteuerbescheides ergibt. Übersteigt das nach Satz 4 festgestellte Arbeitseinkommen die Beitragsbemessungsgrenze des nachzuweisenden Kalenderjahres, wird ein Arbeitseinkommen in Höhe der jeweiligen Beitragsbemessungsgrenze so lange zugrunde gelegt, bis sich aus einem neuen Einkommensteuerbescheid niedrigere Einkünfte ergeben. Der Einkommensteuerbescheid ist dem Träger der Rentenversicherung spätestens zwei Kalendermonate nach seiner Ausfertigung vorzulegen. Statt des Einkommensteuerbescheides kann auch eine Bescheinigung des Finanzamtes vorgelegt werden, die die für den Nachweis des Arbeitseinkommens erforderlichen Daten des Einkommensteuerbescheides enthält. Änderungen des Arbeitseinkommens werden vom Ersten des auf die Vorlage des Bescheides oder der Bescheinigung folgenden Kalendermonats, spätestens aber vom Beginn des dritten Kalendermonats nach Ausfertigung des Einkommensteuerbescheides, an berücksichtigt. Ist eine Veranlagung zur Einkommensteuer aufgrund der versicherungspflichtigen selbständigen Tätigkeit noch nicht erfolgt, sind für das Jahr des Beginns der Versicherungspflicht die Einkünfte zugrunde zu legen, die sich aus den vom Versicherten vorzulegenden Unterlagen ergeben. Für die Folgejahre ist Satz 4 sinngemäß anzuwenden.
+Beitragspflichtige Einnahmen sind bei selbständig Tätigen abweichend von Satz 1 Nr. 1 bis zum Ablauf von drei Kalenderjahren nach dem Jahr der Aufnahme der selbständigen Tätigkeit ein Arbeitseinkommen in Höhe von 50 vom Hundert der Bezugsgröße, auf Antrag des Versicherten jedoch ein Arbeitseinkommen in Höhe der Bezugsgröße. Für den Nachweis des von der Bezugsgröße abweichenden Arbeitseinkommens nach Satz 1 Nummer 1 sind die sich aus dem letzten Einkommensteuerbescheid für das zeitnaheste Kalenderjahr ergebenden Einkünfte aus der versicherungspflichtigen selbständigen Tätigkeit so lange maßgebend, bis ein neuer Einkommensteuerbescheid vorgelegt wird; wurden diese Einkünfte nicht während des gesamten Kalenderjahres erzielt, sind sie auf ein Jahresarbeitseinkommen hochzurechnen. Das nach Satz 3 festgestellte Arbeitseinkommen ist mit dem Vomhundertsatz zu vervielfältigen, der sich aus dem Verhältnis des vorläufigen Durchschnittsentgelts (Anlage 1) für das Kalenderjahr, für das das Arbeitseinkommen nachzuweisen ist, zu dem Durchschnittsentgelt (Anlage 1) für das maßgebende Veranlagungsjahr des Einkommensteuerbescheides ergibt. Übersteigt das nach Satz 4 festgestellte Arbeitseinkommen die Beitragsbemessungsgrenze des nachzuweisenden Kalenderjahres, wird ein Arbeitseinkommen in Höhe der jeweiligen Beitragsbemessungsgrenze so lange zugrunde gelegt, bis sich aus einem neuen Einkommensteuerbescheid niedrigere Einkünfte ergeben. Der Einkommensteuerbescheid ist dem Träger der Rentenversicherung spätestens zwei Kalendermonate nach seiner Ausfertigung vorzulegen. Statt des Einkommensteuerbescheides kann auch eine Bescheinigung des Finanzamtes vorgelegt werden, die die für den Nachweis des Arbeitseinkommens erforderlichen Daten des Einkommensteuerbescheides enthält. Änderungen des Arbeitseinkommens werden vom Ersten des auf die Vorlage des Bescheides oder der Bescheinigung folgenden Kalendermonats, spätestens aber vom Beginn des dritten Kalendermonats nach Ausfertigung des Einkommensteuerbescheides, an berücksichtigt. Ist eine Veranlagung zur Einkommensteuer aufgrund der versicherungspflichtigen selbständigen Tätigkeit noch nicht erfolgt, ist für das Jahr des Beginns der Versicherungspflicht ein Jahresarbeitseinkommen zugrunde zu legen, das sich aus den vom Versicherten vorzulegenden Unterlagen ergibt. Für die Folgejahre ist Satz 4 sinngemäß anzuwenden.
 
-(1a) Abweichend von Absatz 1 Satz 3 ist auf Antrag des Versicherten vom laufenden Arbeitseinkommen auszugehen, wenn dieses im Durchschnitt voraussichtlich um wenigstens 30 vom Hundert geringer ist als das Arbeitseinkommen aus dem letzten Einkommensteuerbescheid. Das laufende Arbeitseinkommen ist durch entsprechende Unterlagen nachzuweisen. Änderungen des Arbeitseinkommens werden vom Ersten des auf die Vorlage der Nachweise folgenden Kalendermonats an berücksichtigt. Das festgestellte laufende Arbeitseinkommen bleibt solange maßgebend, bis der Einkommensteuerbescheid über dieses Veranlagungsjahr vorgelegt wird und zu berücksichtigen ist. Für die Folgejahre ist Absatz 1 Satz 4 sinngemäß anzuwenden. Die Sätze 1 bis 3 gelten entsprechend für Küstenschiffer und Küstenfischer, wenn das laufende Arbeitseinkommen im Durchschnitt voraussichtlich um wenigstens 30 vom Hundert geringer ist als das Arbeitseinkommen nach Absatz 1 Satz 1 Nummer 5. Das für Küstenschiffer und Küstenfischer festgestellte laufende Arbeitseinkommen bleibt für ein Jahr maßgebend. Für die Folgejahre sind die Sätze 6 und 7 erneut anzuwenden.
+(1a) Abweichend von Absatz 1 Satz 3 ist auf Antrag des Versicherten vom laufenden Arbeitseinkommen auszugehen, wenn dieses im Durchschnitt voraussichtlich um wenigstens 30 vom Hundert geringer ist als das Arbeitseinkommen nach Absatz 1 Satz 3. Das laufende Arbeitseinkommen ist durch entsprechende Unterlagen nachzuweisen. Änderungen des Arbeitseinkommens werden vom Ersten des auf die Vorlage der Nachweise folgenden Kalendermonats an berücksichtigt. Das festgestellte laufende Arbeitseinkommen bleibt solange maßgebend, bis der Einkommensteuerbescheid über dieses Veranlagungsjahr vorgelegt wird und zu berücksichtigen ist. Für die Folgejahre ist Absatz 1 Satz 4 sinngemäß anzuwenden. Die Sätze 1 bis 3 gelten entsprechend für Küstenschiffer und Küstenfischer, wenn das laufende Arbeitseinkommen im Durchschnitt voraussichtlich um wenigstens 30 vom Hundert geringer ist als das Arbeitseinkommen nach Absatz 1 Satz 1 Nummer 5. Das für Küstenschiffer und Küstenfischer festgestellte laufende Arbeitseinkommen bleibt für ein Jahr maßgebend. Für die Folgejahre sind die Sätze 6 und 7 erneut anzuwenden.
 
 (1b) Bei Künstlern und Publizisten wird für die Dauer des Bezugs von Elterngeld oder Erziehungsgeld oder für die Zeit, in der Erziehungsgeld nur wegen des zu berücksichtigenden Einkommens nicht bezogen wird, auf Antrag des Versicherten das in diesen Zeiten voraussichtlich erzielte Arbeitseinkommen, wenn es im Durchschnitt monatlich 325 Euro übersteigt, zugrunde gelegt.
 
@@ -4982,40 +5064,67 @@ bei Entwicklungshelfern das Arbeitsentgelt oder, wenn dies günstiger ist, der B
 bei Personen, die für eine begrenzte Zeit im Ausland beschäftigt sind, das Arbeitsentgelt oder der sich abweichend vom Arbeitsentgelt nach Nummer 4 ergebende Betrag, wenn dies mit der antragstellenden Stelle vereinbart wird; die Vereinbarung kann nur für laufende und künftige Lohn- und Gehaltsabrechnungszeiträume getroffen werden,
 
 4b.  
+bei sekundierten Personen das Arbeitsentgelt und die Leistungen nach § 9 des Sekundierungsgesetzes; im Übrigen gilt Nummer 4 entsprechend,
+
+4c.  
 bei sonstigen im Ausland beschäftigten Personen, die auf Antrag versicherungspflichtig sind, das Arbeitsentgelt,
 
 5.  
 bei Personen, die für Zeiten der Arbeitsunfähigkeit oder der Ausführung von Leistungen zur Teilhabe ohne Anspruch auf Krankengeld versichert sind, 80 vom Hundert des zuletzt für einen vollen Kalendermonat versicherten Arbeitsentgelts oder Arbeitseinkommens.
 
-(2) Beitragspflichtige Einnahmen sind bei nicht erwerbsmäßig tätigen Pflegepersonen bei Pflege eines
+(2) Beitragspflichtige Einnahmen sind bei nicht erwerbsmäßig tätigen Pflegepersonen bei Pflege einer
 
 1.  
-Schwerstpflegebedürftigen (§ 15 Abs. 1 Nr. 3 Elftes Buch)
+pflegebedürftigen Person des Pflegegrades 5 nach § 15 Absatz 3 Satz 4 Nummer 5 des Elften Buches
 
 a)  
-80 vom Hundert der Bezugsgröße, wenn er mindestens 28 Stunden in der Woche gepflegt wird,
+100 vom Hundert der Bezugsgröße, wenn die pflegebedürftige Person ausschließlich Pflegegeld nach § 37 des Elften Buches bezieht,
 
 b)  
-60 vom Hundert der Bezugsgröße, wenn er mindestens 21 Stunden in der Woche gepflegt wird,
+85 vom Hundert der Bezugsgröße, wenn die pflegebedürftige Person Kombinationsleistungen nach § 38 des Elften Buches bezieht,
 
 c)  
-40 vom Hundert der Bezugsgröße, wenn er mindestens 14 Stunden in der Woche gepflegt wird,
+70 vom Hundert der Bezugsgröße, wenn die pflegebedürftige Person ausschließlich Pflegesachleistungen nach § 36 des Elften Buches bezieht,
 
 2.  
-Schwerpflegebedürftigen (§ 15 Abs. 1 Nr. 2 Elftes Buch)
+pflegebedürftigen Person des Pflegegrades 4 nach § 15 Absatz 3 Satz 4 Nummer 4 des Elften Buches
 
 a)  
-53,3333 vom Hundert der Bezugsgröße, wenn er mindestens 21 Stunden in der Woche gepflegt wird,
+70 vom Hundert der Bezugsgröße, wenn die pflegebedürftige Person ausschließlich Pflegegeld nach § 37 des Elften Buches bezieht,
 
 b)  
-35,5555 vom Hundert der Bezugsgröße, wenn er mindestens 14 Stunden in der Woche gepflegt wird,
+59,5 vom Hundert der Bezugsgröße, wenn die pflegebedürftige Person Kombinationsleistungen nach § 38 des Elften Buches bezieht,
+
+c)  
+49 vom Hundert der Bezugsgröße, wenn die pflegebedürftige Person ausschließlich Pflegesachleistungen nach § 36 des Elften Buches bezieht,
 
 3.  
-erheblich Pflegebedürftigen (§ 15 Abs. 1 Nr. 1 Elftes Buch) 26,6667 vom Hundert der Bezugsgröße, wenn er mindestens 14 Stunden in der Woche gepflegt wird.
+pflegebedürftigen Person des Pflegegrades 3 nach § 15 Absatz 3 Satz 4 Nummer 3 des Elften Buches
 
-Üben mehrere nicht erwerbsmäßig tätige Pflegepersonen die Pflege gemeinsam aus, sind beitragspflichtige Einnahmen bei jeder Pflegeperson der Teil des Höchstwerts der jeweiligen Pflegestufe, der dem Umfang ihrer Pflegetätigkeit im Verhältnis zum Umfang der Pflegetätigkeit insgesamt entspricht. Pflegetätigkeiten im Sinne des Absatzes 3 bleiben bei der Berechnung nach Satz 2 unberücksichtigt.
+a)  
+43 vom Hundert der Bezugsgröße, wenn die pflegebedürftige Person ausschließlich Pflegegeld nach § 37 des Elften Buches bezieht,
 
-(3) Besteht Versicherungspflicht als Pflegeperson nur, weil mehrere Pflegebedürftige gepflegt werden, sind beitragspflichtige Einnahmen 26,6667 vom Hundert der Bezugsgröße. Die Aufteilung der beitragspflichtigen Einnahmen berechnet sich nach dem Umfang der jeweiligen Pflegetätigkeit im Verhältnis zum Umfang der Pflegetätigkeit der Pflegeperson insgesamt.
+b)  
+36,55 vom Hundert der Bezugsgröße, wenn die pflegebedürftige Person Kombinationsleistungen nach § 38 des Elften Buches bezieht,
+
+c)  
+30,1 vom Hundert der Bezugsgröße, wenn die pflegebedürftige Person ausschließlich Pflegesachleistungen nach § 36 des Elften Buches bezieht,
+
+4.  
+pflegebedürftigen Person des Pflegegrades 2 nach § 15 Absatz 3 Satz 4 Nummer 2 des Elften Buches
+
+a)  
+27 vom Hundert der Bezugsgröße, wenn die pflegebedürftige Person ausschließlich Pflegegeld nach § 37 des Elften Buches bezieht,
+
+b)  
+22,95 vom Hundert der Bezugsgröße, wenn die pflegebedürftige Person Kombinationsleistungen nach § 38 des Elften Buches bezieht,
+
+c)  
+18,9 vom Hundert der Bezugsgröße, wenn die pflegebedürftige Person ausschließlich Pflegesachleistungen nach § 36 des Elften Buches bezieht.
+
+Üben mehrere nicht erwerbsmäßig tätige Pflegepersonen die Pflege gemeinsam aus (Mehrfachpflege), sind die beitragspflichtigen Einnahmen nach Satz 1 entsprechend dem nach § 44 Absatz 1 Satz 3 des Elften Buches festgestellten prozentualen Umfang der jeweiligen Pflegetätigkeit im Verhältnis zum Gesamtpflegeaufwand je pflegebedürftiger Person aufzuteilen. Werden mehrere Pflegebedürftige gepflegt, ergeben sich die beitragspflichtigen Einnahmen jeweils nach den Sätzen 1 und 2.
+
+(3) (weggefallen)
 
 ### § 167 Freiwillig Versicherte
 
@@ -5138,7 +5247,7 @@ die Beiträge werden von den Stellen, die die Leistung zu erbringen haben, allei
 bei Bezug von Vorruhestandsgeld von den Beziehern und den zur Zahlung des Vorruhestandsgeldes Verpflichteten je zur Hälfte,
 
 4.  
-bei Entwicklungshelfern, bei Personen, die für eine begrenzte Zeit im Ausland beschäftigt sind, oder bei sonstigen im Ausland beschäftigten Personen von den antragstellenden Stellen,
+bei Entwicklungshelfern, bei Personen, die für eine begrenzte Zeit im Ausland beschäftigt sind, bei sekundierten Personen oder bei sonstigen im Ausland beschäftigten Personen von den antragstellenden Stellen,
 
 5.  
 bei Zeiten der Arbeitsunfähigkeit oder der Ausführung von Leistungen zur Teilhabe ohne Anspruch auf Krankengeld von den Versicherten selbst,
@@ -5163,21 +5272,21 @@ Freiwillig Versicherte tragen ihre Beiträge selbst.
 
 ### § 172 Arbeitgeberanteil bei Versicherungsfreiheit und Befreiung von der Versicherungspflicht
 
-(1) Für Beschäftigte, die
+(1) Für Beschäftigte, die versicherungsfrei sind wegen
 
 1.  
-als Bezieher einer Vollrente wegen Alters,
+des Bezugs einer Vollrente wegen Alters nach Ablauf des Monats, in dem die Regelaltersgrenze erreicht wurde,
 
 2.  
-als Versorgungsbezieher,
+des Bezugs einer Versorgung,
 
 3.  
-wegen des Erreichens der Regelaltersgrenze oder
+des Erreichens der Regelaltersgrenze oder
 
 4.  
-wegen einer Beitragserstattung
+einer Beitragserstattung,
 
-versicherungsfrei sind, tragen die Arbeitgeber die Hälfte des Beitrags, der zu zahlen wäre, wenn die Beschäftigten versicherungspflichtig wären; in der knappschaftlichen Rentenversicherung ist statt der Hälfte des Beitrags der auf Arbeitgeber entfallende Beitragsanteil zu zahlen. Satz 1 findet keine Anwendung auf versicherungsfrei geringfügig Beschäftigte und Beschäftigte nach § 1 Satz 1 Nr. 2.
+tragen die Arbeitgeber die Hälfte des Beitrags, der zu zahlen wäre, wenn die Beschäftigten versicherungspflichtig wären; in der knappschaftlichen Rentenversicherung ist statt der Hälfte des Beitrags der auf die Arbeitgeber entfallende Beitragsanteil zu zahlen. Satz 1 findet keine Anwendung auf versicherungsfrei geringfügig Beschäftigte und Beschäftigte nach § 1 Satz 1 Nr. 2.
 
 (2) (weggefallen)
 
@@ -5213,7 +5322,7 @@ aus dem Arbeitseinkommen von Seelotsen,
 aus Vorruhestandsgeld,
 
 3.  
-aus dem für Entwicklungshelfer und für die sonstigen im Ausland beschäftigten Personen maßgebenden Betrag
+aus der maßgebenden beitragspflichtigen Einnahme für Entwicklungshelfer, für Personen, die für eine begrenzte Zeit im Ausland beschäftigt sind, für sekundierte Personen oder für die sonstigen im Ausland beschäftigten Personen
 
 gilt Absatz 1 entsprechend.
 
@@ -5450,7 +5559,7 @@ Rentenanwartschaften, die um einen Abschlag an Entgeltpunkten gemindert worden s
 auf Grund
 
 a)  
-einer Entscheidung des Familiengerichts zum Ausgleich von Anrechten durch externe Teilung (§ 15 Abs. 1 des Versorgungsausgleichsgesetzes) oder
+einer Entscheidung des Familiengerichts zum Ausgleich von Anrechten durch externe Teilung (§ 15 des Versorgungsausgleichsgesetzes) oder
 
 b)  
 einer wirksamen Vereinbarung nach § 6 des Versorgungsausgleichsgesetzes Rentenanwartschaften zu begründen,
@@ -5464,7 +5573,7 @@ die Erstattungspflicht für die Begründung von Rentenanwartschaften zugunsten d
 
 (3a) Entgeltpunkte aus der Zahlung von Beiträgen nach Absatz 1 Nr. 1 oder Nr. 2 Buchstabe b werden ermittelt, indem die Beiträge mit dem zum Zeitpunkt der Zahlung maßgebenden Faktor nach Absatz 3 vervielfältigt werden.
 
-(4) Nach bindender Bewilligung einer Vollrente wegen Alters ist eine Beitragszahlung zur Wiederauffüllung oder Begründung von Rentenanwartschaften nicht mehr zulässig.
+(4) Nach bindender Bewilligung einer Vollrente wegen Alters ist eine Beitragszahlung zur Wiederauffüllung oder Begründung von Rentenanwartschaften nicht zulässig, wenn der Monat abgelaufen ist, in dem die Regelaltersgrenze erreicht wurde.
 
 (5) Die Beiträge nach Absatz 1 Nr. 1 gelten als zum Zeitpunkt des Endes der Ehezeit oder Lebenspartnerschaftszeit gezahlt, wenn sie von ausgleichspflichtigen Personen, die ihren gewöhnlichen Aufenthalt
 
@@ -5490,17 +5599,19 @@ vor dem Eingang des Abänderungsantrags beim Familiengericht, tritt an die Stell
 4.  
 in den Fällen, in denen das Familiengericht den Versorgungsausgleich ausgesetzt hat, vor dem Zeitpunkt der Wiederaufnahme des Verfahrens über den Versorgungsausgleich, tritt für die Beitragshöhe an die Stelle des Zeitpunkts nach Satz 1 der Zeitpunkt der Wiederaufnahme des Verfahrens über den Versorgungsausgleich.
 
-Ist eine Verzinsung der Beiträge vereinbart worden, tritt an die Stelle der in den Sätzen 1 bis 3 genannten Zeitpunkte der Zeitpunkt, bis zu dem Zinsen zu berechnen sind.
+Ist eine Verzinsung der Beiträge vereinbart worden, tritt an die Stelle der in den Sätzen 1 bis 3 genannten Zeitpunkte für die Beitragshöhe der Zeitpunkt, bis zu dem Zinsen zu berechnen sind.
 
-(7) Sind Beiträge nach Absatz 1 Nr. 1 gezahlt worden und ergeht eine Entscheidung zur Abänderung des Wertausgleichs nach der Scheidung, sind im Umfang der Abänderung zuviel gezahlte Beiträge unter Anrechnung der an die ausgleichsberechtigte Person gewährten Leistungen zurückzuzahlen.
+(7) Sind Beiträge nach Absatz 1 Nr. 1 gezahlt worden und ergeht eine Entscheidung zur Abänderung des Wertausgleichs nach der Scheidung, sind im Umfang der Abänderung zuviel gezahlte Beiträge unter Anrechnung der gewährten Leistungen zurückzuzahlen.
 
 ### § 187a Zahlung von Beiträgen bei vorzeitiger Inanspruchnahme einer Rente wegen Alters
 
-(1) Bis zum Erreichen der Regelaltersgrenze können Rentenminderungen durch die vorzeitige Inanspruchnahme einer Rente wegen Alters durch Zahlung von Beiträgen ausgeglichen werden. Die Berechtigung zur Zahlung setzt voraus, dass der Versicherte erklärt, eine solche Rente zu beanspruchen.
+(1) Bis zum Erreichen der Regelaltersgrenze können Rentenminderungen, die durch die vorzeitige Inanspruchnahme einer Rente wegen Alters entstehen, durch Zahlung von Beiträgen ausgeglichen werden. Die Berechtigung zu dieser Ausgleichszahlung setzt voraus, dass Versicherte zuvor im Rahmen der Auskunft über die Höhe der Beitragszahlung zum Ausgleich einer Rentenminderung bei vorzeitiger Inanspruchnahme einer Rente wegen Alters (§ 109 Absatz 5 Satz 4) erklärt haben, eine solche Rente in Anspruch nehmen zu wollen. Eine Ausgleichszahlung auf Grundlage einer entsprechenden Auskunft ist ab dem Zeitpunkt nicht mehr zulässig, ab dem Versicherte die Rente wegen Alters, für die die Auskunft erteilt worden ist, nicht beansprucht haben oder ab dem eine Rente wegen Alters ohne Rentenminderungen bezogen werden kann.
 
-(2) Beiträge können bis zu der Höhe gezahlt werden, die sich nach der Auskunft über die Höhe der zum Ausgleich einer Rentenminderung bei vorzeitiger Inanspruchnahme einer Rente wegen Alters erforderlichen Beitragszahlung als höchstmögliche Minderung an persönlichen Entgeltpunkten durch eine vorzeitige Inanspruchnahme einer Rente wegen Alters ergibt. Diese Minderung wird auf der Grundlage der Summe aller Entgeltpunkte ermittelt, die mit einem Zugangsfaktor zu vervielfältigen ist und die sich bei Berechnung einer Altersrente unter Zugrundelegung des beabsichtigten Rentenbeginns ergeben würde. Dabei ist für jeden Kalendermonat an bisher nicht bescheinigten künftigen rentenrechtlichen Zeiten bis zum beabsichtigten Rentenbeginn von einer Beitragszahlung nach einem vom Arbeitgeber zu bescheinigenden Arbeitsentgelt auszugehen. Der Bescheinigung ist das gegenwärtige beitragspflichtige Arbeitsentgelt aufgrund der bisherigen Beschäftigung und der bisherigen Arbeitszeit zugrunde zu legen. Soweit eine Vorausbescheinigung nicht vorliegt, ist von den durchschnittlichen monatlichen Entgeltpunkten der Beitragszeiten des Kalenderjahres auszugehen, für das zuletzt Entgeltpunkte ermittelt werden können.
+(1a) Grundlage für die Ausgleichszahlung ist die Auskunft nach § 109 Absatz 5 Satz 4. Ein berechtigtes Interesse im Sinne des § 109 Absatz 1 Satz 3 für diese Auskunft liegt nach Vollendung des 50. Lebensjahres vor.
 
-(3) Für je einen geminderten persönlichen Entgeltpunkt ist der Betrag zu zahlen, der sich ergibt, wenn der zur Wiederauffüllung einer im Rahmen des Versorgungsausgleichs geminderten Rentenanwartschaft für einen Entgeltpunkt zu zahlende Betrag durch den jeweiligen Zugangsfaktor geteilt wird. Teilzahlungen sind zulässig. Eine Erstattung gezahlter Beiträge erfolgt nicht.
+(2) Beiträge können bis zu der Höhe gezahlt werden, die sich nach der Auskunft über die Höhe der zum Ausgleich einer Rentenminderung bei vorzeitiger Inanspruchnahme einer Rente wegen Alters als erforderliche Beitragszahlung bei höchstmöglicher Minderung an persönlichen Entgeltpunkten durch eine vorzeitige Inanspruchnahme einer Rente wegen Alters ergibt. Diese Minderung wird auf der Grundlage der Summe aller Entgeltpunkte ermittelt, die mit einem Zugangsfaktor zu vervielfältigen ist und die sich bei Berechnung einer Altersrente unter Zugrundelegung des beabsichtigten Rentenbeginns ergeben würde. Dabei ist für jeden Kalendermonat an bisher nicht bescheinigten künftigen rentenrechtlichen Zeiten bis zum beabsichtigten Rentenbeginn von einer Beitragszahlung nach einem vom Arbeitgeber zu bescheinigenden Arbeitsentgelt auszugehen. Der Bescheinigung ist das gegenwärtige beitragspflichtige Arbeitsentgelt aufgrund der bisherigen Beschäftigung und der bisherigen Arbeitszeit zugrunde zu legen. Soweit eine Vorausbescheinigung nicht vorliegt, ist von den durchschnittlichen monatlichen Entgeltpunkten der Beitragszeiten des Kalenderjahres auszugehen, für das zuletzt Entgeltpunkte ermittelt werden können.
+
+(3) Für je einen geminderten persönlichen Entgeltpunkt ist der Betrag zu zahlen, der sich ergibt, wenn der zur Wiederauffüllung einer im Rahmen des Versorgungsausgleichs geminderten Rentenanwartschaft für einen Entgeltpunkt zu zahlende Betrag durch den jeweiligen Zugangsfaktor geteilt wird. Teilzahlungen sind zulässig; Beiträge können bis zu zweimal im Kalenderjahr gezahlt werden. Eine Erstattung gezahlter Beiträge erfolgt nicht.
 
 ### § 187b Zahlung von Beiträgen bei Abfindungen von Anwartschaften auf betriebliche Altersversorgung oder von Anrechten bei der Versorgungsausgleichskasse
 
@@ -5508,7 +5619,7 @@ Ist eine Verzinsung der Beiträge vereinbart worden, tritt an die Stelle der in 
 
 (1a) Absatz 1 gilt entsprechend für die Abfindung von Anrechten, die bei der Versorgungsausgleichskasse begründet wurden.
 
-(2) Nach bindender Bewilligung einer Vollrente wegen Alters ist eine Beitragszahlung nicht mehr zulässig.
+(2) Nach bindender Bewilligung einer Vollrente wegen Alters ist eine Beitragszahlung nicht zulässig, wenn der Monat abgelaufen ist, in dem die Regelaltersgrenze erreicht wurde.
 
 ### § 188 Beitragszahlung für Zeiten einer besonderen Auslandsverwendung
 
@@ -5561,7 +5672,7 @@ für Personen, für die Beiträge aus Sozialleistungen zu zahlen sind, die Leist
 für Personen, die Vorruhestandsgeld beziehen, die zur Zahlung des Vorruhestandsgeldes Verpflichteten,
 
 4.  
-für Entwicklungshelfer oder sonstige im Ausland beschäftigte Personen die antragstellenden Stellen.
+für Entwicklungshelfer, für Personen, die für eine begrenzte Zeit im Ausland beschäftigt sind, für sekundierte Personen oder für sonstige im Ausland beschäftigte Personen die antragstellenden Stellen.
 
 § 28a Abs. 5 sowie die §§ 28b und 28c des Vierten Buches gelten entsprechend.
 
@@ -5569,7 +5680,7 @@ für Entwicklungshelfer oder sonstige im Ausland beschäftigte Personen die antr
 
 (1) Bei Einberufung zu einem Wehrdienst hat das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle Beginn und Ende des Wehrdienstes zu melden.
 
-(2) Bei Einberufung zu einem Zivildienst hat das Bundesamt für den Zivildienst Beginn und Ende des Zivildienstes zu melden.
+(2) Bei Einberufung zu einem Zivildienst hat das Bundesamt für Familie und zivilgesellschaftliche Aufgaben Beginn und Ende des Zivildienstes zu melden.
 
 (3) § 28a Abs. 5 und § 28c des Vierten Buches gelten entsprechend.
 
@@ -5585,9 +5696,9 @@ Anrechnungszeiten sowie Zeiten, die für die Anerkennung von Anrechnungszeiten e
 
 ### § 194 Gesonderte Meldung und Hochrechnung
 
-(1) Arbeitgeber haben auf Verlangen des Rentenantragstellers die beitragspflichtigen Einnahmen für abgelaufene Zeiträume frühestens drei Monate vor Rentenbeginn gesondert zu melden. Dies gilt entsprechend bei einem Auskunftsersuchen des Familiengerichts im Versorgungsausgleichsverfahren. Erfolgt eine Meldung nach Satz 1, errechnet der Rentenversicherungsträger bei Anträgen auf Altersrente die voraussichtlichen beitragspflichtigen Einnahmen für den verbleibenden Beschäftigungszeitraum bis zum Rentenbeginn für bis zu drei Monaten nach den in den letzten zwölf Kalendermonaten gemeldeten beitragspflichtigen Einnahmen. Die weitere Meldepflicht nach § 28a des Vierten Buches bleibt unberührt.
+(1) Arbeitgeber haben auf Verlangen des Rentenantragstellers die beitragspflichtigen Einnahmen für abgelaufene Zeiträume frühestens drei Monate vor Rentenbeginn gesondert zu melden. Dies gilt entsprechend bei einem Auskunftsersuchen des Familiengerichts im Versorgungsausgleichsverfahren. Die Aufforderung zur Meldung nach Satz 1 erfolgt elektronisch durch den Träger der Rentenversicherung. Satz 3 gilt nicht für Einzelfälle, in denen ein elektronisches Meldeverfahren nicht wirtschaftlich durchzuführen ist. Die Ausnahmen bestimmt die Deutsche Rentenversicherung Bund in Grundsätzen; diese bedürfen der Genehmigung des Bundesministeriums für Arbeit und Soziales. Erfolgt eine Meldung nach Satz 1, errechnet der Rentenversicherungsträger bei Anträgen auf Altersrente die voraussichtlichen beitragspflichtigen Einnahmen für den verbleibenden Beschäftigungszeitraum bis zum Rentenbeginn für bis zu drei Monaten nach den in den letzten zwölf Kalendermonaten gemeldeten beitragspflichtigen Einnahmen. Die weitere Meldepflicht nach § 28a des Vierten Buches bleibt unberührt.
 
-(2) Eine gesonderte Meldung nach Absatz 1 Satz 1 haben auch die Leistungsträger über die beitragspflichtigen Einnahmen von Beziehern von Sozialleistungen und die Pflegekassen sowie die privaten Versicherungsunternehmen über die beitragspflichtigen Einnahmen nicht erwerbsmäßig tätiger Pflegepersonen zu erstatten. Absatz 1 Satz 3 gilt entsprechend. Die Meldepflicht nach § 191 Satz 1 Nr. 2 und nach § 44 Abs. 3 des Elften Buches bleibt unberührt.
+(2) Eine gesonderte Meldung nach Absatz 1 Satz 1 haben auch die Leistungsträger über die beitragspflichtigen Einnahmen von Beziehern von Sozialleistungen und die Pflegekassen sowie die privaten Versicherungsunternehmen über die beitragspflichtigen Einnahmen nicht erwerbsmäßig tätiger Pflegepersonen zu erstatten. Absatz 1 Satz 6 gilt entsprechend. Die Meldepflicht nach § 191 Satz 1 Nr. 2 und nach § 44 Abs. 3 des Elften Buches bleibt unberührt.
 
 (3) Die Beitragsberechnung erfolgt nach der tatsächlichen beitragspflichtigen Einnahme.
 
@@ -5621,9 +5732,9 @@ Zweiter Titel Auskunfts- und Mitteilungspflichten
 
 Sie haben dem Träger der Rentenversicherung auf dessen Verlangen unverzüglich die Unterlagen vorzulegen, aus denen die Tatsachen oder die Änderungen in den Verhältnissen hervorgehen.
 
-(2) Die zuständigen Meldebehörden haben der Datenstelle der Träger der Rentenversicherung zur Durchführung ihrer Aufgaben nach § 150, zur Durchführung der Versicherung wegen Kindererziehung und zur Weiterleitung der Sterbefallmitteilung nach § 101a des Zehnten Buches die erstmalige Erfassung und jede Änderung des Vor- und des Familiennamens, des Geschlechts oder eines Doktorgrades, den Tag, den Monat, das Jahr und den Ort der Geburt und die Anschrift der alleinigen oder der Hauptwohnung eines Einwohners mitzuteilen. Bei einer Anschriftenänderung ist zusätzlich die bisherige Anschrift, im Falle einer Geburt sind zusätzlich die Daten der Mutter nach Satz 1, bei Mehrlingsgeburten zusätzlich die Zahl der geborenen Kinder und im Sterbefall zusätzlich der Sterbetag des Verstorbenen mitzuteilen. Die Datenstelle der Träger der Rentenversicherung übermittelt die Daten einer erstmaligen Erfassung oder Änderung taggleich an die zuständige Einzugsstelle nach § 28i des Vierten Buches, soweit diese bekannt ist. Sind der Datenstelle der Träger der Rentenversicherung Daten von Personen übermittelt worden, die sie nicht für die Erfüllung ihrer Aufgaben nach Satz 1 benötigt, sind diese Daten von ihr unverzüglich zu löschen.
+(2) Die zuständigen Meldebehörden haben der Datenstelle der Rentenversicherung zur Durchführung ihrer Aufgaben nach § 150, zur Durchführung der Versicherung wegen Kindererziehung und zur Weiterleitung der Sterbefallmitteilung nach § 101a des Zehnten Buches die erstmalige Erfassung und jede Änderung des Vor- und des Familiennamens, des Geschlechts oder eines Doktorgrades, den Tag, den Monat, das Jahr und den Ort der Geburt und die Anschrift der alleinigen oder der Hauptwohnung eines Einwohners mitzuteilen. Bei einer Anschriftenänderung ist zusätzlich die bisherige Anschrift, im Falle einer Geburt sind zusätzlich die Daten der Mutter nach Satz 1, bei Mehrlingsgeburten zusätzlich die Zahl der geborenen Kinder und im Sterbefall zusätzlich der Sterbetag des Verstorbenen mitzuteilen. Die Datenstelle der Rentenversicherung übermittelt die Daten einer erstmaligen Erfassung oder Änderung taggleich an die zuständige Einzugsstelle nach § 28i des Vierten Buches, soweit diese bekannt ist. Sind der Datenstelle der Rentenversicherung Daten von Personen übermittelt worden, die sie nicht für die Erfüllung ihrer Aufgaben nach Satz 1 benötigt, sind diese Daten von ihr unverzüglich zu löschen.
 
-(2a) Die zuständigen Meldebehörden haben der Datenstelle der Träger der Rentenversicherung zur Wahrnehmung ihrer Aufgaben
+(2a) Die zuständigen Meldebehörden haben der Datenstelle der Rentenversicherung zur Wahrnehmung ihrer Aufgaben
 
 1.  
 nach § 150 Absatz 1 Satz 1 Nummer 8 zusätzlich zur Sterbefallmitteilung den Familiennamen oder den Lebenspartnerschaftsnamen, den Vornamen, den Tag, den Monat und das Jahr der Geburt und die Anschrift der alleinigen oder der Hauptwohnung des überlebenden Ehegatten oder Lebenspartners des Verstorbenen,
@@ -5631,7 +5742,7 @@ nach § 150 Absatz 1 Satz 1 Nummer 8 zusätzlich zur Sterbefallmitteilung den Fa
 2.  
 nach § 150 Absatz 1 Satz 1 Nummer 9 bei einer Eheschließung oder einer Begründung einer Lebenspartnerschaft eines Einwohners unverzüglich das Datum dieser Eheschließung oder dieser Begründung einer Lebenspartnerschaft
 
-mitzuteilen. Die Datenstelle der Träger der Rentenversicherung hat diese Daten an den zuständigen Träger der Rentenversicherung zu übermitteln und anschließend bei sich unverzüglich zu löschen. Stellt die Datenstelle der Träger der Rentenversicherung in den Fällen des Satzes 1 Nummer 2 fest, dass der Einwohner keine Witwenrente oder Witwerrente und keine Erziehungsrente bezieht, übermittelt sie die Daten nicht an den zuständigen Träger der Rentenversicherung.
+mitzuteilen. Die Datenstelle der Rentenversicherung hat diese Daten an den zuständigen Träger der Rentenversicherung zu übermitteln und anschließend bei sich unverzüglich zu löschen. Stellt die Datenstelle der Rentenversicherung in den Fällen des Satzes 1 Nummer 2 fest, dass der Einwohner keine Witwenrente oder Witwerrente und keine Erziehungsrente bezieht, übermittelt sie die Daten nicht an den zuständigen Träger der Rentenversicherung.
 
 (3) Die Handwerkskammern haben den Regionalträgern Anmeldungen, Änderungen und Löschungen in der Handwerksrolle mitzuteilen. Die Mitteilungen sind von den Regionalträgern an den zuständigen Träger der Rentenversicherung weiterzuleiten. Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch allgemeine Verwaltungsvorschrift mit Zustimmung des Bundesrates Art und Umfang der Mitteilungen der Handwerkskammern zu bestimmen.
 
@@ -5639,7 +5750,7 @@ mitzuteilen. Die Datenstelle der Träger der Rentenversicherung hat diese Daten 
 
 ### § 196a Elektronische Bescheinigungen
 
-Fordert der Träger der Rentenversicherung für Zwecke der gesetzlichen Rentenversicherung Bescheinigungen im Sinne der §§ 18c und 18e des Vierten Buches und im Sinne von § 98 des Zehnten Buches von dem Bescheinigungspflichtigen durch gesicherte und verschlüsselte Datenübertragung an, kann dieser diese Bescheinigungen elektronisch unter den Voraussetzungen des § 23c Absatz 2b des Vierten Buches an die Datenstelle der Träger der Rentenversicherung übermitteln. Satz 1 gilt nicht, wenn die Person, für die eine Bescheinigung auszustellen ist, der Übermittlung widerspricht. Die Person, für die die Bescheinigung auszustellen ist, ist von dem Bescheinigungspflichtigen in allgemeiner Form schriftlich auf das Widerspruchsrecht hinzuweisen. Der Träger der Rentenversicherung hat der Person, für die eine Bescheinigung nach Satz 1 elektronisch übermittelt worden ist, unverzüglich einen Ausdruck der Daten zuzuleiten.
+Fordert der Träger der Rentenversicherung für Zwecke der gesetzlichen Rentenversicherung Bescheinigungen im Sinne der §§ 18c und 18e des Vierten Buches und im Sinne von § 98 des Zehnten Buches von dem Bescheinigungspflichtigen durch gesicherte und verschlüsselte Datenübertragung an, kann dieser diese Bescheinigungen elektronisch unter den Voraussetzungen des § 108 Absatz 2 des Vierten Buches an die Datenstelle der Rentenversicherung übermitteln. Satz 1 gilt nicht, wenn die Person, für die eine Bescheinigung auszustellen ist, der Übermittlung widerspricht. Die Person, für die die Bescheinigung auszustellen ist, ist von dem Bescheinigungspflichtigen in allgemeiner Form schriftlich auf das Widerspruchsrecht hinzuweisen. Der Träger der Rentenversicherung hat der Person, für die eine Bescheinigung nach Satz 1 elektronisch übermittelt worden ist, unverzüglich einen Ausdruck der Daten zuzuleiten.
 
 Dritter Titel Wirksamkeit der Beitragszahlung
 ---------------------------------------------
@@ -5851,7 +5962,7 @@ die für die Planung der Prüfung erforderlichen Daten der Zahlungspflichtigen u
 5.  
 die Ergebnisse der Prüfung.
 
-Sie darf die in dieser Datei gespeicherten Daten nur für die Prüfung bei den Zahlungspflichtigen und bei den Arbeitgebern verwenden. Die Datenstelle der Träger der Rentenversicherung führt für die Prüfung der Zahlungspflichtigen eine Datei, in der
+Sie darf die in dieser Datei gespeicherten Daten nur für die Prüfung bei den Zahlungspflichtigen und bei den Arbeitgebern verwenden. Die Datenstelle der Rentenversicherung führt für die Prüfung der Zahlungspflichtigen eine Datei, in der
 
 1.  
 die Betriebsnummern und, soweit erforderlich, ein weiteres Identifikationsmerkmal der Zahlungspflichtigen,
@@ -5862,7 +5973,7 @@ die Versicherungsnummern der Versicherten, für welche die Zahlungspflichtigen P
 3.  
 der Beginn und das Ende der Zahlungspflicht
 
-gespeichert werden; im Falle des Satzes 4 darf die Datenstelle die Daten der Stammsatzdatei (§ 150) und der Dateien nach § 28p Abs. 8 Satz 1 und 3 des Vierten Buches für die Prüfung bei den Zahlungspflichtigen verwenden. Die Datenstelle der Träger der Rentenversicherung ist verpflichtet, auf Anforderung des prüfenden Trägers der Rentenversicherung
+gespeichert werden; im Falle des Satzes 4 darf die Datenstelle die Daten der Stammsatzdatei (§ 150) und der Dateien nach § 28p Abs. 8 Satz 1 und 3 des Vierten Buches für die Prüfung bei den Zahlungspflichtigen verwenden. Die Datenstelle der Rentenversicherung ist verpflichtet, auf Anforderung des prüfenden Trägers der Rentenversicherung
 
 1.  
 die in den Dateien nach den Sätzen 1 und 3 gespeicherten Daten,
@@ -5873,7 +5984,7 @@ die in den Versicherungskonten der Träger der Rentenversicherung gespeicherten,
 3.  
 die bei den Trägern der Rentenversicherung gespeicherten Daten über die Nachweise der unmittelbar an sie zu zahlenden Pflichtbeiträge
 
-zu erheben und zu verwenden, soweit dies für die Prüfung nach Absatz 1 erforderlich ist. Die dem prüfenden Träger der Rentenversicherung übermittelten Daten sind unverzüglich nach Abschluss der Prüfung bei der Datenstelle der Träger der Rentenversicherung und beim prüfenden Träger der Rentenversicherung zu löschen. Die Zahlungspflichtigen und die Träger der Rentenversicherung sind verpflichtet, der Deutschen Rentenversicherung Bund und der Datenstelle der Träger der Rentenversicherung die für die Prüfung nach Absatz 1 erforderlichen Daten zu übermitteln. Die Übermittlung darf auch durch Abruf im automatisierten Verfahren erfolgen, ohne dass es einer Genehmigung nach § 79 Abs. 1 des Zehnten Buches bedarf.
+zu erheben und zu verwenden, soweit dies für die Prüfung nach Absatz 1 erforderlich ist. Die dem prüfenden Träger der Rentenversicherung übermittelten Daten sind unverzüglich nach Abschluss der Prüfung bei der Datenstelle der Rentenversicherung und beim prüfenden Träger der Rentenversicherung zu löschen. Die Zahlungspflichtigen und die Träger der Rentenversicherung sind verpflichtet, der Deutschen Rentenversicherung Bund und der Datenstelle der Rentenversicherung die für die Prüfung nach Absatz 1 erforderlichen Daten zu übermitteln. Die Übermittlung darf auch durch Abruf im automatisierten Verfahren erfolgen, ohne dass es einer Genehmigung nach § 79 Abs. 1 des Zehnten Buches bedarf.
 
 (6) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über
 
@@ -5908,7 +6019,7 @@ Erster Unterabschnitt Beteiligung des Bundes
 
 (2) Der Bundeszuschuss zu den Ausgaben der allgemeinen Rentenversicherung ändert sich im jeweils folgenden Kalenderjahr in dem Verhältnis, in dem die Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Abs. 2 Satz 1) im vergangenen Kalenderjahr zu den entsprechenden Bruttolöhnen und -gehältern im vorvergangenen Kalenderjahr stehen. Bei Veränderungen des Beitragssatzes ändert sich der Bundeszuschuss zusätzlich in dem Verhältnis, in dem der Beitragssatz des Jahres, für das er bestimmt wird, zum Beitragssatz des Vorjahres steht. Bei Anwendung von Satz 2 ist jeweils der Beitragssatz zugrunde zu legen, der sich ohne Berücksichtigung des zusätzlichen Bundeszuschusses nach Absatz 3 und des Erhöhungsbetrags nach Absatz 4 ergeben würde. Der Bundeszuschuss wird in den Jahren 2019 bis 2022 um jeweils 400 Millionen Euro erhöht; diese Beträge sind jeweils bei den Änderungen des Bundeszuschusses in den darauf folgenden Kalenderjahren nach den Sätzen 1 bis 3 zu berücksichtigen.
 
-(2a) Der allgemeine Bundeszuschuss wird für das Jahr 2006 um 170 Millionen Euro und ab dem Jahr 2007 um jeweils 340 Millionen Euro pauschal vermindert. Abweichungen des pauschalierten Minderungsbetrages von den tatsächlichen zusätzlichen Einnahmen eines Kalenderjahres durch Mehreinnahmen aus der Begrenzung der Sozialversicherungsfreiheit für Sonn-, Feiertags- und Nachtzuschläge auf einen Stundenlohn bis zu 25 Euro und aufgrund der Erhöhung der Pauschalabgaben für geringfügige Beschäftigung ohne Versicherungspflicht im gewerblichen Bereich von 12 vom Hundert auf 15 vom Hundert des Arbeitsentgelts in der gesetzlichen Rentenversicherung sind mit dem Bundeszuschuss nach Absatz 2 des auf die Abrechnung folgenden Haushaltsjahres zu verrechnen; Ausgangsbetrag für den Bundeszuschuss ist der jeweils zuletzt festgestellte Bundeszuschuss nach Absatz 2 ohne Minderungsbetrag. Abweichend von Satz 1 beträgt der pauschalierte Minderungsbetrag im Jahr 2013 1,34 Milliarden Euro und in den Jahren 2014 bis 2016 jeweils 1,59 Milliarden Euro.
+(2a) Der allgemeine Bundeszuschuss wird für das Jahr 2006 um 170 Millionen Euro und ab dem Jahr 2007 um jeweils 340 Millionen Euro pauschal vermindert. Abweichungen des pauschalierten Minderungsbetrages von den tatsächlichen zusätzlichen Einnahmen eines Kalenderjahres durch Mehreinnahmen aus der Begrenzung der Sozialversicherungsfreiheit für Sonn-, Feiertags- und Nachtzuschläge auf einen Stundenlohn bis zu 25 Euro und aufgrund der Erhöhung der Pauschalabgaben für geringfügige Beschäftigung ohne Versicherungspflicht im gewerblichen Bereich von 12 vom Hundert auf 15 vom Hundert des Arbeitsentgelts in der gesetzlichen Rentenversicherung sind mit dem Bundeszuschuss nach Absatz 2 des auf die Abrechnung folgenden Haushaltsjahres zu verrechnen; Ausgangsbetrag für den Bundeszuschuss ist der jeweils zuletzt festgestellte Bundeszuschuss nach Absatz 2 ohne Minderungsbetrag.
 
 (3) Der Bund zahlt zur pauschalen Abgeltung nicht beitragsgedeckter Leistungen an die allgemeine Rentenversicherung in jedem Kalenderjahr einen zusätzlichen Bundeszuschuss. Der zusätzliche Bundeszuschuss beträgt für die Monate April bis Dezember des Jahres 1998 9,6 Milliarden Deutsche Mark und für das Jahr 1999 15,6 Milliarden Deutsche Mark. Für die Kalenderjahre ab 2000 verändert sich der zusätzliche Bundeszuschuss jährlich entsprechend der Veränderungsrate der Steuern vom Umsatz; hierbei bleiben Änderungen der Steuersätze im Jahr ihres Wirksamwerdens unberücksichtigt. Der sich nach Satz 3 ergebende Betrag des zusätzlichen Bundeszuschusses wird für das Jahr 2000 um 1,1 Milliarden Deutsche Mark, für das Jahr 2001 um 1,1 Milliarden Deutsche Mark, für das Jahr 2002 um 664,679 Millionen Euro und für das Jahr 2003 um 102,258 Millionen Euro gekürzt. Auf den zusätzlichen Bundeszuschuss werden die Erstattungen nach § 291b angerechnet. Für die Zahlung, Aufteilung und Abrechnung des zusätzlichen Bundeszuschusses sind die Vorschriften über den Bundeszuschuss anzuwenden.
 
@@ -6101,7 +6212,7 @@ an die Beitragsbemessungsgrenze anknüpfen, ist die Beitragsbemessungsgrenze fü
 
 maßgebend, wenn die Einnahmen aus einer Beschäftigung oder Tätigkeit im Beitrittsgebiet erzielt werden. Satz 1 gilt für die Ermittlung der Beitragsbemessungsgrundlagen bei sonstigen Versicherten entsprechend.
 
-(2) Soweit Vorschriften dieses Buches bei Hinzuverdienstgrenzen für Renten an die Bezugsgröße anknüpfen, ist die monatliche Bezugsgröße mit dem aktuellen Rentenwert (Ost) zu vervielfältigen und durch den aktuellen Rentenwert zu teilen, wenn das Arbeitsentgelt oder Arbeitseinkommen aus der Beschäftigung oder Tätigkeit im Beitrittsgebiet erzielt wird. Dies gilt nicht, wenn in einem Kalendermonat Arbeitsentgelt oder Arbeitseinkommen auch im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet erzielt wird.
+(2)(weggefallen)
 
 (3) Soweit Vorschriften dieses Buches bei Einkommensanrechnung auf Renten wegen Todes an den aktuellen Rentenwert anknüpfen, ist der aktuelle Rentenwert (Ost) maßgebend, wenn der Berechtigte seinen gewöhnlichen Aufenthalt im Beitrittsgebiet hat.
 
@@ -6188,6 +6299,8 @@ nicht versicherungsfrei und nicht von der Versicherungspflicht befreit waren, bl
 (7) Personen, die eine Versorgung nach § 6 des Streitkräftepersonalstruktur-Anpassungsgesetzes beziehen, sind nicht nach § 5 Absatz 4 Nummer 2 versicherungsfrei.
 
 (8) Personen, die am 31. Dezember 2012 als Beschäftigte nach § 5 Absatz 2 Satz 1 Nummer 1 in der bis zum 31. Dezember 2012 geltenden Fassung versicherungsfrei waren, bleiben in dieser Beschäftigung versicherungsfrei, solange die Voraussetzungen einer geringfügigen Beschäftigung nach § 8 Absatz 1 Nummer 1 oder § 8a in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten Buches in der bis zum 31. Dezember 2012 geltenden Fassung vorliegen. Sie können durch schriftliche Erklärung gegenüber dem Arbeitgeber auf die Versicherungsfreiheit verzichten; der Verzicht kann nur mit Wirkung für die Zukunft und bei mehreren Beschäftigungen nur einheitlich erklärt werden und ist für die Dauer der Beschäftigungen bindend.
+
+(9) Personen, die am 31. Dezember 2016 wegen des Bezugs einer Vollrente wegen Alters vor Erreichen der Regelaltersgrenze in einer Beschäftigung oder selbständigen Tätigkeit versicherungsfrei waren, bleiben in dieser Beschäftigung oder selbständigen Tätigkeit versicherungsfrei. Beschäftigte können durch schriftliche Erklärung gegenüber dem Arbeitgeber auf die Versicherungsfreiheit verzichten. Der Verzicht kann nur mit Wirkung für die Zukunft erklärt werden und ist für die Dauer der Beschäftigung bindend. Die Sätze 2 und 3 gelten entsprechend für Selbständige, die den Verzicht gegenüber dem zuständigen Träger der Rentenversicherung erklären.
 
 ### § 231 Befreiung von der Versicherungspflicht
 
@@ -6290,7 +6403,7 @@ Selbständig Tätige, die am 31. Dezember 1991 im Beitrittsgebiet aufgrund eines
 
 (1) Personen, die nicht versicherungspflichtig sind und vor dem 1. Januar 1992 vom Recht der Selbstversicherung, der Weiterversicherung oder der freiwilligen Versicherung Gebrauch gemacht haben, können sich weiterhin freiwillig versichern. Dies gilt für Personen, die von dem Recht der Selbstversicherung oder Weiterversicherung Gebrauch gemacht haben, auch dann, wenn sie nicht Deutsche sind und ihren gewöhnlichen Aufenthalt im Ausland haben.
 
-(2) Nach bindender Bewilligung einer Vollrente wegen Alters oder für Zeiten des Bezugs einer solchen Rente ist eine freiwillige Versicherung nicht zulässig.
+(2) Nach bindender Bewilligung einer Vollrente wegen Alters oder für Zeiten des Bezugs einer solchen Rente ist eine freiwillige Versicherung nicht zulässig, wenn der Monat abgelaufen ist, in dem die Regelaltersgrenze erreicht wurde.
 
 ### § 233 Nachversicherung
 
@@ -6944,7 +7057,7 @@ Arbeitslosigkeitszeiten nach Satz 1,
 2.  
 Ersatzzeiten,
 
-soweit diese Zeiten nicht auch Pflichtbeiträge für eine versicherte Beschäftigung oder Tätigkeit sind. Vom 1. Januar 2008 an werden Arbeitslosigkeitszeiten nach Satz 1 Nr. 1 nur berücksichtigt, wenn die Arbeitslosigkeit vor dem 1. Januar 2008 begonnen hat und der Versicherte vor dem 2. Januar 1950 geboren ist.
+soweit diese Zeiten nicht auch Pflichtbeiträge für eine versicherte Beschäftigung oder Tätigkeit sind. Vom 1. Januar 2008 an werden Arbeitslosigkeitszeiten nach Satz 1 Nr. 1 nur berücksichtigt, wenn die Arbeitslosigkeit vor dem 1. Januar 2008 begonnen hat und die Versicherten vor dem 2. Januar 1950 geboren sind.
 
 (3) Die Altersgrenze von 60 Jahren wird bei Altersrenten wegen Arbeitslosigkeit oder nach Altersteilzeitarbeit für Versicherte, die nach dem 31. Dezember 1936 geboren sind, angehoben. Die vorzeitige Inanspruchnahme einer solchen Altersrente ist möglich. Die Anhebung der Altersgrenzen und die Möglichkeit der vorzeitigen Inanspruchnahme der Altersrenten bestimmen sich nach Anlage 19.
 
@@ -7476,7 +7589,7 @@ um Monate</td>
 
 Für Versicherte, die Anpassungsgeld für entlassene Arbeitnehmer des Bergbaus oder Knappschaftsausgleichsleistung bezogen haben, wird die Altersgrenze von 60 Jahren nicht angehoben.
 
-(3) Auf die Wartezeit für eine Rente für langjährig unter Tage beschäftigte Bergleute werden auch Anrechnungszeiten wegen Bezugs von Anpassungsgeld nach Vollendung des 50. Lebensjahres angerechnet, wenn zuletzt vor Beginn dieser Leistung eine Beschäftigung unter Tage ausgeübt worden ist.
+(3) (weggefallen)
 
 (4) Die Wartezeit für die Altersrente für langjährig unter Tage beschäftigte Bergleute ist auch erfüllt, wenn die Versicherten
 
@@ -7546,7 +7659,7 @@ Anrechnungszeiten wegen Bezugs von Anpassungsgeld für entlassene Arbeitnehmer d
 3.  
 Ersatzzeiten, die der knappschaftlichen Rentenversicherung zugeordnet sind, auf die Wartezeit nach Absatz 1 Nr. 2 Buchstabe b und Nr. 3 Buchstabe a.
 
-(3) Für die Feststellung und Zahlung der Knappschaftsausgleichsleistung werden die Vorschriften für die Rente wegen voller Erwerbsminderung mit Ausnahme der §§ 59 und 85 angewendet. Der Zugangsfaktor beträgt 1,0. Grundlage für die Ermittlung des Monatsbetrags der Knappschaftsausgleichsleistung sind nur die persönlichen Entgeltpunkte, die auf die knappschaftliche Rentenversicherung entfallen. An die Stelle des Zeitpunkts von § 99 Abs. 1 tritt der Beginn des Kalendermonats, der dem Monat folgt, in dem die knappschaftliche Beschäftigung endete. Neben der Knappschaftsausgleichsleistung wird eine Rente aus eigener Versicherung nicht geleistet. Für den Hinzuverdienst gilt § 34 Abs. 3 Nr. 1 entsprechend.
+(3) Für die Feststellung und Zahlung der Knappschaftsausgleichsleistung werden die Vorschriften für die Rente wegen voller Erwerbsminderung mit Ausnahme der §§ 59 und 85 angewendet. Der Zugangsfaktor beträgt 1,0. Grundlage für die Ermittlung des Monatsbetrags der Knappschaftsausgleichsleistung sind nur die persönlichen Entgeltpunkte, die auf die knappschaftliche Rentenversicherung entfallen. An die Stelle des Zeitpunkts von § 99 Abs. 1 tritt der Beginn des Kalendermonats, der dem Monat folgt, in dem die knappschaftliche Beschäftigung endete. Neben der Knappschaftsausgleichsleistung wird eine Rente aus eigener Versicherung nicht geleistet. Anspruch auf eine Knappschaftsausgleichsleistung besteht nur, wenn die kalenderjährliche Hinzuverdienstgrenze von 6 300 Euro nicht überschritten wird.
 
 ### § 240 Rente wegen teilweiser Erwerbsminderung bei Berufsunfähigkeit
 
@@ -7956,6 +8069,8 @@ Altersrente für Frauen.
 (2) Auf die Wartezeit von 15 Jahren werden Kalendermonate mit Beitragszeiten und Ersatzzeiten angerechnet.
 
 (3) Auf die Wartezeit von 45 Jahren werden Zeiten des Bezugs von Arbeitslosenhilfe und Arbeitslosengeld II nicht angerechnet. Zeiten vor dem 1. Januar 2001, für die der Bezug von Leistungen nach § 51 Absatz 3a Nummer 3 Buchstabe a mit Ausnahme der Arbeitslosenhilfe oder nach Buchstabe b glaubhaft gemacht ist, werden auf die Wartezeit von 45 Jahren angerechnet. Als Mittel der Glaubhaftmachung können auch Versicherungen an Eides statt zugelassen werden. Der Träger der Rentenversicherung ist für die Abnahme eidesstattlicher Versicherungen zuständig.
+
+(4) Auf die Wartezeit von 25 Jahren werden auch Anrechnungszeiten wegen des Bezugs von Anpassungsgeld für entlassene Arbeitnehmer des Bergbaus angerechnet, wenn zuletzt vor Beginn dieser Leistung eine Beschäftigung unter Tage ausgeübt worden ist.
 
 ### § 244a Wartezeiterfüllung durch Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger versicherungsfreier Beschäftigung
 
@@ -9157,36 +9272,7 @@ der zum 1. Januar 2003 festgestellte durchschnittliche allgemeine Beitragssatz d
 
 Die Rentenabfindung bei Wiederheirat von Witwen und Witwern erfolgt ohne Anrechnung der bereits geleisteten kleinen Witwenrente oder kleinen Witwerrente, wenn der vorletzte Ehegatte vor dem 1. Januar 2002 verstorben ist. Dies gilt auch, wenn mindestens ein Ehegatte in der vorletzten Ehe vor dem 2. Januar 1962 geboren ist und diese Ehe vor dem 1. Januar 2002 geschlossen wurde.
 
-### § 270 Kinderzuschuss
-
-(1) Berechtigten, die vor dem 1. Januar 1992 für ein Kind Anspruch auf einen Kinderzuschuss hatten, wird zu einer Rente aus eigener Versicherung der Kinderzuschuss für dieses Kind in der zuletzt gezahlten Höhe geleistet. Dies gilt nicht, solange dem über 18 Jahre alten Kind
-
-1.  
-eine Ausbildungsvergütung von wenigstens 385 Euro monatlich zusteht oder
-
-2.  
-mit Rücksicht auf die Ausbildung Arbeitslosengeld oder Übergangsgeld von wenigstens 315 Euro monatlich zusteht oder nur deswegen nicht zusteht, weil es über anrechnungsfähiges Einkommen verfügt.
-
-Außer Ansatz bleiben Ehegatten- und Kinderzuschläge und einmalige Zuwendungen sowie vermögenswirksame Leistungen, die dem Auszubildenden über die geschuldete Ausbildungsvergütung hinaus zustehen, soweit sie den nach dem jeweils geltenden Vermögensbildungsgesetz begünstigten Höchstbetrag nicht übersteigen.
-
-(2) Der Kinderzuschuss fällt weg, wenn
-
-1.  
-das Kind in seiner Person die Anspruchsvoraussetzungen für eine Waisenrente nicht mehr erfüllt,
-
-2.  
-für das Kind eine Kinderzulage aus der Unfallversicherung geleistet wird,
-
-3.  
-für das Kind Anspruch auf Waisenrente entsteht,
-
-4.  
-Berechtigte wegen der Gewährleistung einer Versorgungsanwartschaft versicherungsfrei werden und ihr Arbeitsentgelt Beträge mit Rücksicht auf das Kind enthält oder sie eine Versorgung mit entsprechenden Beträgen erhalten oder
-
-5.  
-Berechtigte Mitglied einer berufsständischen Versorgungseinrichtung werden und Leistungen hieraus erhalten, in denen Beträge mit Rücksicht auf das Kind enthalten sind.
-
-(3) Bei mehreren Berechtigten wird der Kinderzuschuss für ein Kind nur dem geleistet, der das Kind überwiegend unterhält.
+### § 270 (weggefallen)
 
 ### § 270a
 
@@ -9350,29 +9436,11 @@ solange deren Anwartschaften oder Rentenansprüche ganz oder teilweise im Sinne 
 
 (4) Bestandsversicherte, für die zwischen- oder überstaatliches Recht zur Anwendung kommt, sind ebenfalls entsprechend der Quote zwischen Bundes- und Landesebene unter Berücksichtigung der Aufgabenentwicklung der Verbindungsstellen auszugleichen.
 
-(5) Die Ausführung des Ausgleichsverfahrens erfolgt durch die Datenstelle der Träger der Rentenversicherung; der zur Abwicklung verwendete Stammdatensatz ist entsprechend den Erfordernissen für die Dauer des Ausgleichsverfahrens zu erweitern. Über Zuständigkeitswechsel sind die betroffenen Versicherten und deren Rentenversicherungsträger unverzüglich zu unterrichten.
+(5) Die Ausführung des Ausgleichsverfahrens erfolgt durch die Datenstelle der Rentenversicherung; der zur Abwicklung verwendete Stammdatensatz ist entsprechend den Erfordernissen für die Dauer des Ausgleichsverfahrens zu erweitern. Über Zuständigkeitswechsel sind die betroffenen Versicherten und deren Rentenversicherungsträger unverzüglich zu unterrichten.
 
 (6) Bis zum Abschluss des Ausgleichsverfahrens veröffentlicht die Deutsche Rentenversicherung Bund jährlich, erstmals im Jahr 2006, einen Bericht über die tatsächliche Arbeitsmengenverteilung zwischen den Bundes- und den Regionalträgern im Berichtsjahr sowie eine Prognose über die künftige Entwicklung auf beiden Ebenen. Auf dieser Grundlage entscheidet das Erweiterte Direktorium, ob weiterer Bedarf zur Stabilisierung der Arbeitsmengen zwischen den Trägern der Rentenversicherung besteht und beschließt die erforderlichen Maßnahmen.
 
-### § 274d Zuständigkeit der Träger der Rentenversicherung bis zur Errichtung der Deutschen Rentenversicherung Bund und der Deutschen Rentenversicherung Knappschaft-Bahn-See
-
-(1) Bis zum 30. September 2005 tritt an die Stelle der Deutschen Rentenversicherung Bund in § 125 Abs. 1 und 2 Satz 1, §§ 126 sowie 127 Abs. 2 Nr. 1 und 4 und Abs. 3 Nr. 2 die Bundesversicherungsanstalt für Angestellte.
-
-(2) Bis zum 30. September 2005 wird das Zuordnungsverfahren nach § 127 Abs. 2 vom Vorstand des Verbandes Deutscher Rentenversicherungsträger mit einer Mehrheit von mindestens zwei Dritteln aller Stimmen der satzungsmäßigen Mitgliederzahl festgelegt.
-
-(3) Bis zum 30. September 2005 treten an die Stelle der Deutschen Rentenversicherung Knappschaft-Bahn-See
-
-1.  
-die Bundesknappschaft in § 127 Abs. 2 Nr. 4, § 129 Abs. 1 Nr. 6 und in den Vorschriften des Dritten Kapitels Erster Abschnitt Dritter Unterabschnitt,
-
-2.  
-die Bundesknappschaft, die Bahnversicherungsanstalt und die Seekasse in §§ 125, 126, 127 Abs. 2 Nr. 1 und 2 und, in der angegebenen Reihenfolge, in Absatz 3 Nr. 1 sowie in § 274c Abs. 1 Nr. 2 und Abs. 3 Nr. 1,
-
-3.  
-die Bahnversicherungsanstalt in § 129 Abs. 1 Nr. 1 bis 4 und 6 sowie in § 130,
-
-4.  
-die Seekasse in § 129 Abs. 1 Nr. 5 und 6, Abs. 2 sowie in § 130.
+### § 274d (weggefallen)
 
 Elfter Unterabschnitt Finanzierung
 ----------------------------------
@@ -9412,6 +9480,8 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 ### § 276a Arbeitgeberanteil bei Versicherungsfreiheit
 
 (1) Für geringfügig Beschäftigte nach § 8 Absatz 1 Nummer 1 des Vierten Buches, die in dieser Beschäftigung nach § 230 Absatz 8 versicherungsfrei sind, tragen die Arbeitgeber einen Beitragsanteil in Höhe von 15 Prozent des Arbeitsentgelts, das beitragspflichtig wäre, wenn die Beschäftigten versicherungspflichtig wären. Für geringfügig Beschäftigte in Privathaushalten nach § 8a Satz 1 des Vierten Buches, die in dieser Beschäftigung nach § 230 Absatz 8 versicherungsfrei sind, tragen die Arbeitgeber einen Beitragsanteil in Höhe von 5 Prozent des Arbeitsentgelts, das beitragspflichtig wäre, wenn die Beschäftigten versicherungspflichtig wären.
+
+(1a) Für Beschäftigte, die nach § 230 Absatz 9 wegen des Bezugs einer Vollrente wegen Alters vor Erreichen der Regelaltersgrenze versicherungsfrei sind, gilt § 172 Absatz 1 entsprechend.
 
 (2) Für den Beitragsanteil des Arbeitgebers gelten die Vorschriften des Dritten Abschnitts des Vierten Buches sowie die Bußgeldvorschriften des § 111 Absatz 1 Nummer 2 bis 4, 8 und Absatz 2 und 4 des Vierten Buches entsprechend.
 
@@ -9579,7 +9649,7 @@ Eine Meldung nach § 28a Abs. 1 bis 3 des Vierten Buches haben für im Beitritts
 
 ### § 282 Nachzahlung nach Erreichen der Regelaltersgrenze
 
-(1) Vor dem 1. Januar 1955 geborene Elternteile, denen Kindererziehungszeiten anzurechnen sind und die bis zum Erreichen der Regelaltersgrenze die allgemeine Wartezeit nicht erfüllt haben, können auf Antrag freiwillige Beiträge für so viele Monate nachzahlen, wie zur Erfüllung der allgemeinen Wartezeit noch erforderlich sind. Beiträge können nur für Zeiten nachgezahlt werden, die noch nicht mit Beiträgen belegt sind.
+(1) Vor dem 1. Januar 1955 geborene Elternteile, denen Kindererziehungszeiten anzurechnen sind oder die von § 286g Satz 1 Nummer 1 erfasst werden und die bis zum Erreichen der Regelaltersgrenze die allgemeine Wartezeit nicht erfüllt haben, können auf Antrag freiwillige Beiträge für so viele Monate nachzahlen, wie zur Erfüllung der allgemeinen Wartezeit noch erforderlich sind. Beiträge können nur für Zeiten nachgezahlt werden, die noch nicht mit Beiträgen belegt sind.
 
 (2) Versicherte, die bis zum Erreichen der Regelaltersgrenze die allgemeine Wartezeit nicht erfüllt haben und am 10. August 2010 aufgrund des § 7 Absatz 2 und des § 232 Absatz 1 in der bis zum 10. August 2010 geltenden Fassung nicht das Recht zur freiwilligen Versicherung hatten, können auf Antrag freiwillige Beiträge für so viele Monate nachzahlen, wie zur Erfüllung der allgemeinen Wartezeit noch erforderlich sind. Beiträge können nur für Zeiten nachgezahlt werden, die noch nicht mit Beiträgen belegt sind. Der Antrag kann nur bis zum 31. Dezember 2015 gestellt werden.
 
@@ -9605,7 +9675,7 @@ vor der Vertreibung, der Flucht oder der Evakuierung selbständig tätig waren u
 2.  
 binnen drei Jahren nach der Vertreibung, der Flucht oder der Evakuierung oder nach Beendigung einer Ersatzzeit wegen Vertreibung, Umsiedlung, Aussiedlung oder Flucht einen Pflichtbeitrag gezahlt haben,
 
-können auf Antrag freiwillige Beiträge für Zeiten vor Erreichen der Regelaltersgrenze bis zur Vollendung des 16. Lebensjahres, längstens aber bis zum 1. Januar 1924 zurück, nachzahlen, sofern diese Zeiten nicht bereits mit Beiträgen belegt sind. Nach bindender Bewilligung einer Vollrente wegen Alters ist eine Nachzahlung nicht zulässig.
+können auf Antrag freiwillige Beiträge für Zeiten vor Erreichen der Regelaltersgrenze bis zur Vollendung des 16. Lebensjahres, längstens aber bis zum 1. Januar 1924 zurück, nachzahlen, sofern diese Zeiten nicht bereits mit Beiträgen belegt sind. Nach bindender Bewilligung einer Vollrente wegen Alters ist eine Nachzahlung nicht zulässig, wenn der Monat abgelaufen ist, in dem die Regelaltersgrenze erreicht wurde.
 
 ### § 284a
 
@@ -9704,7 +9774,19 @@ Satz 1 gilt entsprechend für Beweismittel im Sinne des § 29 Abs. 4 des Zehnten
 
 ### § 286f Erstattung zu Unrecht gezahlter Pflichtbeiträge an die berufsständische Versorgungseinrichtung
 
-Pflichtbeiträge, die auf Grund einer Befreiung nach § 231 Absatz 4b und 4d zu Unrecht entrichtet wurden, werden abweichend von § 211 und abweichend von § 26 Absatz 3 des Vierten Buches von dem zuständigen Träger der Rentenversicherung beanstandet und unmittelbar an die zuständige berufsständische Versorgungseinrichtung erstattet. Zinsen nach § 27 Absatz 1 des Vierten Buches sind nicht zu zahlen.
+Pflichtbeiträge, die auf Grund einer Befreiung nach § 231 Absatz 4b und 4d zu Unrecht entrichtet wurden, werden abweichend von § 211 und abweichend von § 26 Absatz 3 des Vierten Buches von dem zuständigen Träger der Rentenversicherung beanstandet und unmittelbar an die zuständige berufsständische Versorgungseinrichtung erstattet. Zinsen nach § 27 Absatz 1 des Vierten Buches sind nicht zu zahlen. Sind Beiträge nach Maßgabe der Sätze 1 und 2 erstattet worden, scheidet eine Erstattung nach den allgemeinen Vorschriften aus.
+
+### § 286g Erstattung von nach dem 21. Juli 2009 gezahlten freiwilligen Beiträgen
+
+Nach dem 21. Juli 2009 gezahlte freiwillige Beiträge werden auf Antrag in voller Höhe erstattet, wenn
+
+1.  
+Kindererziehungszeiten durch Bescheid für Elternteile festgestellt wurden, die von der Anrechnung nach § 56 Absatz 4 Nummer 3 in der ab dem 1. Juli 2014 geltenden Fassung ausgeschlossen sind, und
+
+2.  
+ohne diese Kindererziehungszeiten die allgemeine Wartezeit nicht erfüllt ist.
+
+§ 44 des Ersten Buches und § 210 Absatz 5 gelten entsprechend. Sind freiwillige Beiträge für den Personenkreis nach Satz 1 nach dem 30. Juni 2014 zur Hälfte erstattet worden, wird die andere Hälfte auf Antrag nach dieser Vorschrift erstattet; § 210 Absatz 6 bleibt unberührt.
 
 Vierter Titel Berechnungsgrundlagen
 -----------------------------------
@@ -10084,25 +10166,43 @@ Dritter Unterabschnitt Anspruchsvoraussetzungen für einzelne Renten
 
 (5) (weggefallen)
 
-(6) Bestand am 31. Dezember 2002 Anspruch auf eine Altersrente und dem Arbeitsentgelt oder Arbeitseinkommen aus einer Beschäftigung oder selbständigen Tätigkeit vergleichbares Einkommen mit Ausnahme von Vorruhestandsgeld, gilt für diese Rente dieses vergleichbare Einkommen nicht als Hinzuverdienst.
+(6) Würde sich nach § 34 in der ab dem 1. Juli 2017 geltenden Fassung am 1. Juli 2017 ein niedrigerer Anspruch auf Teilrente wegen Alters ergeben, besteht ein am 30. Juni 2017 aufgrund von Hinzuverdienst bestehender Anspruch auf Teilrente wegen Alters unter den sonstigen Voraussetzungen des geltenden Rechts so lange weiter, bis
+
+1.  
+die am 30. Juni 2017 für diese Teilrente geltende monatliche Hinzuverdienstgrenze nach § 34 in der bis zum 30. Juni 2017 geltenden Fassung überschritten wird oder
+
+2.  
+sich nach § 34 in der ab dem 1. Juli 2017 geltenden Fassung eine mindestens gleich hohe Rente ergibt.
+
+Als Kalenderjahr nach § 34 Absatz 3c und 3d, in dem erstmals Hinzuverdienst berücksichtigt wurde, gilt das Jahr 2017.
 
 (7) Besteht Anspruch auf eine Rente wegen Alters und eine Aufwandsentschädigung für kommunale Ehrenbeamte, für ehrenamtlich in kommunalen Vertretungskörperschaften Tätige oder für Mitglieder der Selbstverwaltungsorgane, Versichertenälteste oder Vertrauenspersonen der Sozialversicherungsträger, gilt die Aufwandsentschädigung bis zum 30. September 2017 weiterhin nicht als Hinzuverdienst, soweit kein konkreter Verdienstausfall ersetzt wird.
 
 ### § 302a Renten wegen verminderter Erwerbsfähigkeit und Bergmannsvollrenten
 
-(1) Bestand am 31. Dezember 1991 Anspruch auf eine nach den Vorschriften des Beitrittsgebiets berechnete Invalidenrente oder eine Bergmannsinvalidenrente, ist diese Rente vom 1. Januar 1992 an als Rente wegen Erwerbsunfähigkeit zu leisten, wenn die Hinzuverdienstgrenze nach Absatz 2 nicht überschritten wird, andernfalls wird sie als Rente wegen Berufsunfähigkeit geleistet.
+(1) Bestand am 31. Dezember 1991 Anspruch auf eine nach den Vorschriften des Beitrittsgebiets berechnete Invalidenrente oder eine Bergmannsinvalidenrente, die am 30. Juni 2017 als Rente wegen Erwerbsunfähigkeit oder als Rente wegen Berufsunfähigkeit geleistet wurde, gilt diese Rente als Rente wegen voller Erwerbsminderung.
 
-(2) Die Hinzuverdienstgrenze wird nicht überschritten, wenn das Arbeitsentgelt oder Arbeitseinkommen aus einer Beschäftigung oder selbständigen Tätigkeit 450 Euro nicht übersteigt, wobei ein zweimaliges Überschreiten von jeweils einem Betrag bis zur Höhe dieses Betrags im Laufe eines jeden Kalenderjahres außer Betracht bleibt. Dem Arbeitsentgelt aus einer Beschäftigung steht der Bezug von Vorruhestandsgeld gleich. Arbeitsentgelt und Arbeitseinkommen aus mehreren Beschäftigungen und selbständigen Tätigkeiten werden zusammengerechnet.
+(2) (weggefallen)
 
-(3) Eine als Rente wegen Berufsunfähigkeit oder wegen Erwerbsunfähigkeit geleistete Invalidenrente wird bis zum Erreichen der Regelaltersgrenze geleistet, solange der Versicherte berufsunfähig oder Erwerbsunfähig ist oder die persönlichen Voraussetzungen für den Bezug von Blindengeld oder Sonderpflegegeld nach den am 31. Dezember 1991 geltenden Vorschriften des Beitrittsgebiets vorliegen. Bei einer nach § 4 des Anspruchs- und Anwartschaftsüberführungsgesetzes als Invalidenrenten überführten Leistung gilt Satz 1 mit der Maßgabe, dass die Rente auch geleistet wird, solange die Erwerbsminderung vorliegt, die vor der Überführung für die Bewilligung der Leistung maßgebend war; war die Leistung befristet, gilt dies bis zum Ablauf der Frist. Die zur Anwendung von Satz 2 erforderlichen Feststellungen trifft der Versorgungsträger, der die Leistung vor der Überführung gezahlt hat.
+(3) Eine als Rente wegen voller Erwerbsminderung geleistete Invalidenrente oder Bergmannsinvalidenrente wird bis zum Erreichen der Regelaltersgrenze geleistet, solange
+
+1.  
+Erwerbsunfähigkeit oder Berufsunfähigkeit oder volle oder teilweise Erwerbsminderung oder Berufsunfähigkeit im Sinne von § 240 Absatz 2 vorliegt oder
+
+2.  
+die persönlichen Voraussetzungen für den Bezug von Blindengeld oder Sonderpflegegeld nach den am 31. Dezember 1991 geltenden Vorschriften des Beitrittsgebiets vorliegen.
+
+Bei einer nach § 4 des Anspruchs- und Anwartschaftsüberführungsgesetzes als Invalidenrenten überführten Leistung gilt Satz 1 mit der Maßgabe, dass die Rente auch geleistet wird, solange die Erwerbsminderung vorliegt, die vor der Überführung für die Bewilligung der Leistung maßgebend war; war die Leistung befristet, gilt dies bis zum Ablauf der Frist. Die zur Anwendung von Satz 2 erforderlichen Feststellungen trifft der Versorgungsträger, der die Leistung vor der Überführung gezahlt hat.
 
 (4) Bestand am 31. Dezember 1991 Anspruch auf eine Bergmannsrente oder eine Bergmannsvollrente aus dem Beitrittsgebiet, wird diese Rente vom 1. Januar 1992 an als Rente für Bergleute geleistet.
 
 ### § 302b Renten wegen verminderter Erwerbsfähigkeit
 
-(1) Bestand am 31. Dezember 2000 Anspruch auf eine Rente wegen Berufsunfähigkeit oder Erwerbsunfähigkeit, besteht der jeweilige Anspruch bis zum Erreichen der Regelaltersgrenze weiter, solange die Voraussetzungen vorliegen, die für die Bewilligung der Leistung maßgebend waren. Bei befristeten Renten gilt dies auch für einen Anspruch nach Ablauf der Frist. Bestand am 31. Dezember 2000 Anspruch auf eine Rente wegen Erwerbsunfähigkeit, entsteht aus Anlass der Rechtsänderung kein Anspruch auf eine Rente wegen voller Erwerbsminderung.
+(1) Bestand am 31. Dezember 2000 Anspruch auf eine Rente wegen Berufsunfähigkeit, die am 30. Juni 2017 weiterhin geleistet wurde, gilt diese Rente bis zum Erreichen der Regelaltersgrenze als Rente wegen teilweiser Erwerbsminderung mit dem bisherigen Rentenartfaktor, solange Berufsunfähigkeit oder teilweise Erwerbsminderung oder Berufsunfähigkeit im Sinne von § 240 Absatz 2 vorliegt.
 
-(2) Eine als Rente wegen Erwerbsunfähigkeit geleistete Rente, die nach dem bis zum 31. Dezember 1956 geltenden Recht festgestellt und aufgrund des Arbeiterrentenversicherungs-Neuregelungsgesetzes oder Angestelltenversicherungs-Neuregelungsgesetzes ohne Neuberechnung nach diesen Gesetzen umgestellt ist (Umstellungsrente), gilt bis zum Erreichen der Regelaltersgrenze als Rente wegen Erwerbsunfähigkeit.
+(2) Bestand am 31. Dezember 2000 Anspruch auf eine Rente wegen Erwerbsunfähigkeit, die am 30. Juni 2017 weiterhin geleistet wurde, gilt diese Rente bis zum Erreichen der Regelaltersgrenze als Rente wegen voller Erwerbsminderung, solange Erwerbsunfähigkeit oder volle Erwerbsminderung vorliegt.
+
+(3) Bestand am 31. Dezember 2000 Anspruch auf eine befristete Rente wegen Berufsunfähigkeit oder Erwerbsunfähigkeit, die am 30. Juni 2017 weiterhin geleistet wurde und ist der jeweilige Anspruch nach dem Ablauf der Frist von der jeweiligen Arbeitsmarktlage abhängig, ist die Befristung zu wiederholen, es sei denn, die Versicherten vollenden innerhalb von zwei Jahren nach Beginn der sich anschließenden Frist das 60. Lebensjahr.
 
 ### § 303 Witwerrente
 
@@ -10417,75 +10517,25 @@ des Betrages, der sich ergibt, wenn der im Dezember 1991 zugrundeliegende persö
 
 ### § 313 Hinzuverdienst bei Renten wegen verminderter Erwerbsfähigkeit
 
-(1) Bestand am 31. Dezember 2000 Anspruch auf eine Rente wegen Berufsunfähigkeit, Erwerbsunfähigkeit oder für Bergleute ist § 96a unter Beachtung der Hinzuverdienstgrenzen des Absatzes 3 mit der Maßgabe anzuwenden, dass die Regelungen zur Rente wegen teilweiser Erwerbsminderung für die Rente wegen Berufsunfähigkeit und die Regelungen zur Rente wegen voller Erwerbsminderung für die Rente wegen Erwerbsunfähigkeit entsprechend gelten.
-
-(2) Abhängig vom erzielten Hinzuverdienst wird
+(1) Würde sich nach den §§ 96a und 313 in der ab dem 1. Juli 2017 geltenden Fassung am 1. Juli 2017 eine niedrigere teilweise zu leistende Rente ergeben, wird eine am 30. Juni 2017 aufgrund von Hinzuverdienst teilweise geleistete Rente wegen verminderter Erwerbsfähigkeit unter den sonstigen Voraussetzungen des geltenden Rechts so lange weitergeleistet, bis
 
 1.  
-eine Rente wegen Berufsunfähigkeit in voller Höhe, in Höhe von zwei Dritteln oder in Höhe von einem Drittel,
+die am 30. Juni 2017 für diese anteilig geleistete Rente geltende Hinzuverdienstgrenze nach den §§ 96a und 313 in der bis zum 30. Juni 2017 geltenden Fassung überschritten wird oder
 
 2.  
-eine Rente wegen Erwerbsunfähigkeit bei Überschreiten der Hinzuverdienstgrenze des Absatzes 3 Nr. 1 und weiterem Vorliegen von Erwerbsunfähigkeit in Höhe der Rente wegen Berufsunfähigkeit unter Beachtung der Hinzuverdienstgrenzen des Absatzes 3 Nr. 2,
+sich nach den §§ 96a und 313 in der ab dem 1. Juli 2017 geltenden Fassung eine mindestens gleich hohe Rente ergibt.
 
-3.  
-eine Rente für Bergleute in voller Höhe, in Höhe von zwei Dritteln oder in Höhe von einem Drittel
+Als Kalenderjahr nach § 96a Absatz 5 in Verbindung mit § 34 Absatz 3c und 3d, in dem erstmals Hinzuverdienst berücksichtigt wurde, gilt das Jahr 2017.
 
-geleistet.
+(2) bis (4) (weggefallen)
 
-(3) Die Hinzuverdienstgrenze beträgt
+(5) Bestand am 31. Dezember 1991 Anspruch auf eine nach den Vorschriften des Beitrittsgebiets berechnete Rente und ist diese Rente nicht nach den Vorschriften dieses Gesetzes neu zu berechnen, werden als Entgeltpunkte im Sinne des § 96a Absatz 1c die nach § 307a ermittelten durchschnittlichen Entgeltpunkte zugrunde gelegt.
 
-1.  
-bei einer Rente wegen Erwerbsunfähigkeit 450 Euro,
+(6) Für Versicherte, die am 31. Dezember 1991 Anspruch auf eine nach den Vorschriften des Beitrittsgebiets berechnete Invalidenrente oder Bergmannsinvalidenrente hatten und die die persönlichen Voraussetzungen für den Bezug von Blindengeld oder Sonderpflegegeld nach den am 31. Dezember 1991 geltenden Vorschriften des Beitrittsgebiets erfüllen, gilt für diese Rente eine Hinzuverdienstgrenze nicht.
 
-2.  
-bei einer Rente wegen Berufsunfähigkeit
-
-a)  
-in voller Höhe das 0,57fache,
-
-b)  
-in Höhe von zwei Dritteln das 0,76fache,
-
-c)  
-in Höhe von einem Drittel das 0,94fache
-
-der monatlichen Bezugsgröße, vervielfältigt mit den Entgeltpunkten (§ 66 Abs. 1 Nr. 1 bis 3) des letzten Kalenderjahres vor Eintritt der Berufsunfähigkeit, mindestens jedoch mit 0,5 Entgeltpunkten,
-
-3.  
-bei einer Rente für Bergleute
-
-a)  
-in voller Höhe das 0,76fache,
-
-b)  
-in Höhe von zwei Dritteln das 1,01fache,
-
-c)  
-in Höhe von einem Drittel das 1,26fache
-
-der monatlichen Bezugsgröße, vervielfältigt mit den Entgeltpunkten (§ 66 Abs. 1 Nr. 1 bis 3) des letzten Kalenderjahres vor Eintritt der im Bergbau verminderten Berufsfähigkeit oder der Erfüllung der Voraussetzungen entsprechend § 45 Abs. 3, mindestens jedoch mit 0,5 Entgeltpunkten.
-
-(4) Bestand am 31. Dezember 2000 neben einer Rente wegen Erwerbsunfähigkeit Anspruch auf Arbeitslosengeld, das bei der Feststellung eines Hinzuverdienstes dem Arbeitsentgelt oder Arbeitseinkommen gleichstand, verbleibt es dabei, solange das Arbeitslosengeld geleistet wird.
-
-(5) Bestand am 31. Dezember 1991 Anspruch auf eine nach den Vorschriften des Beitrittsgebiets berechnete Rente und ist diese Rente nicht nach den Vorschriften dieses Gesetzes neu zu berechnen, werden als Entgeltpunkte im Sinne des Absatzes 3 die nach § 307a ermittelten durchschnittlichen Entgeltpunkte zugrunde gelegt.
-
-(6) Für Versicherte, die am 31. Dezember 1991 Anspruch auf eine nach den Vorschriften des Beitrittsgebiets berechnete Invalidenrente oder Bergmannsinvalidenrente hatten und die die persönlichen Voraussetzungen für den Bezug von Blindengeld oder Sonderpflegegeld nach den am 31. Dezember 1991 geltenden Vorschriften des Beitrittsgebiets erfüllen, gilt für diese Rente eine Hinzuverdienstgrenze (Absätze 1 bis 3) nicht.
-
-(7) Bestand am 31. Dezember 2002 Anspruch auf eine Rente wegen verminderter Erwerbsfähigkeit und dem Arbeitsentgelt oder Arbeitseinkommen aus einer Beschäftigung oder selbständigen Tätigkeit vergleichbares Einkommen mit Ausnahme von Vorruhestandsgeld, gilt für diese Rente dieses vergleichbare Einkommen bis zum 31. Dezember 2007 nicht als Hinzuverdienst.
+(7) (weggefallen)
 
 (8) Besteht Anspruch auf eine Rente wegen verminderter Erwerbsfähigkeit und eine Aufwandsentschädigung für kommunale Ehrenbeamte, für ehrenamtlich in kommunalen Vertretungskörperschaften Tätige oder für Mitglieder der Selbstverwaltungsorgane, Versichertenälteste oder Vertrauenspersonen der Sozialversicherungsträger, gilt die Aufwandsentschädigung bis zum 30. September 2017 weiterhin nicht als Hinzuverdienst, soweit kein konkreter Verdienstausfall ersetzt wird.
-
-### § 313a Renten wegen verminderter Erwerbsfähigkeit und Arbeitslosengeld
-
-Bestand am 31. Dezember 1998 Anspruch auf eine Rente wegen verminderter Erwerbsfähigkeit, wird auf die Rente das für denselben Zeitraum geleistete Arbeitslosengeld angerechnet. Eine Anrechnung erfolgt nicht, wenn das Arbeitslosengeld
-
-1.  
-nur vorläufig bis zur Feststellung der verminderten Erwerbsfähigkeit geleistet wird oder
-
-2.  
-aufgrund einer Anwartschaftszeit geleistet wird, die insgesamt nach dem Beginn der Rente wegen Berufsunfähigkeit oder der Rente für Bergleute oder nach dem Ende einer Leistung zur Teilhabe, wegen der der Anspruch auf die Rente nicht bestanden hat, erfüllt worden ist.
-
-Die Sätze 1 und 2 sind nicht auf Arbeitslosengeld anzuwenden, auf das erst nach dem 31. Dezember 2000 ein Anspruch entsteht.
 
 ### § 314 Einkommensanrechnung auf Renten wegen Todes
 
@@ -10493,19 +10543,19 @@ Die Sätze 1 und 2 sind nicht auf Arbeitslosengeld anzuwenden, auf das erst nach
 
 (2) Ist der Versicherte vor dem 1. Januar 1986 gestorben und ist eine erneute Ehe der Witwe oder des Witwers aufgelöst oder für nichtig erklärt worden, werden auf eine Witwenrente oder Witwerrente nach dem vorletzten Ehegatten die Vorschriften über die Einkommensanrechnung auf Renten wegen Todes nicht angewendet. Besteht für denselben Zeitraum Anspruch auf Witwenrente oder Witwerrente oder auf eine solche Rente aus der Unfallversicherung, werden diese Ansprüche in der Höhe berücksichtigt, die sich nach Anwendung der Vorschriften über die Einkommensanrechnung auf Renten wegen Todes ergibt.
 
-(3) bis (5) (weggefallen)
+(3) Auf eine Witwenrente oder Witwerrente nach dem vorletzten Ehegatten, bei der Einkommen nach § 114 Absatz 1 des Vierten Buches zu berücksichtigen ist, ist eine Witwenrente oder Witwerrente nach dem letzten Ehegatten in der Höhe anzurechnen, die sich nach Anwendung der Vorschriften über die Einkommensanrechnung auf Renten wegen Todes ergibt. § 97 Absatz 3 Satz 1 und 3 findet in diesen Fällen keine Anwendung.
+
+(4) und (5) (weggefallen)
+
+(+++ § 314 Abs. 1 u. 2: Zur Anwendung vgl. § 314a Abs. 2 +++)
 
 ### § 314a Einkommensanrechnung auf Renten wegen Todes aus dem Beitrittsgebiet
 
 (1) Bestand am 31. Dezember 1991 Anspruch auf Witwenrente oder Witwerrente aufgrund des im Beitrittsgebiet geltenden Rechts oder bestand ein solcher Anspruch nur deshalb nicht, weil die im Beitrittsgebiet geltenden besonderen Voraussetzungen nicht erfüllt waren, werden vom 1. Januar 1992 an auf die Witwenrente oder Witwerrente die Vorschriften über die Einkommensanrechnung auf Renten wegen Todes angewendet.
 
-(2) Hatte der Versicherte oder die Witwe oder der Witwer am 18. Mai 1990 den gewöhnlichen Aufenthalt im Beitrittsgebiet, ist § 314 nicht anzuwenden.
+(2) Hatte der Versicherte oder die Witwe oder der Witwer am 18. Mai 1990 den gewöhnlichen Aufenthalt im Beitrittsgebiet, ist § 314 Absatz 1 und 2 nicht anzuwenden.
 
 (3) (weggefallen)
-
-### § 314b Befristung der Rente wegen Berufsunfähigkeit oder Erwerbsunfähigkeit
-
-Bestand am 31. Dezember 2000 Anspruch auf eine befristete Rente wegen Berufsunfähigkeit oder Erwerbsunfähigkeit und ist der jeweilige Anspruch nach Ablauf der Frist von der jeweiligen Arbeitsmarktlage abhängig, ist die Befristung zu wiederholen, es sei denn, die Versicherten vollenden innerhalb von zwei Jahren nach Beginn der sich anschließenden Frist das 60. Lebensjahr.
 
 Sechster Unterabschnitt Zusatzleistungen
 ----------------------------------------
@@ -10616,9 +10666,7 @@ Zehnter Unterabschnitt Siebtes Gesetz zur Änderung des Dritten Buches Sozialges
 
 ### 
 
-### § 319c Rente wegen Alters und Arbeitslosengeld
-
-Anspruch auf eine Rente wegen Alters besteht nicht, wenn Anspruch auf Arbeitslosengeld besteht, dessen Anspruchsdauer sich nach § 439 des Dritten Buches erhöht hat. Wurde eine Rente bereits geleistet, auf die nach Satz 1 kein Anspruch besteht, ist der zur Zahlung des Arbeitslosengeldes verpflichtete Leistungsträger erstattungspflichtig. Der Umfang des Erstattungsanspruchs richtet sich nach den für den Träger der gesetzlichen Rentenversicherung geltenden Rechtsvorschriften. Der Rentenbescheid ist mit Wirkung vom Zeitpunkt des Beginns der Rente aufzuheben; die §§ 24 und 48 des Zehnten Buches sind nicht anzuwenden. Nach Ende des Arbeitslosengeldbezuges ist Rente zu leisten, wenn die Anspruchsvoraussetzungen beim ursprünglichen Rentenbeginn erfüllt waren; bei der Rentenberechnung werden mindestens die der weggefallenen Rente zugrunde liegenden persönlichen Entgeltpunkte berücksichtigt.
+### § 319c (weggefallen)
 
 Sechstes Kapitel Bußgeldvorschriften
 ------------------------------------
@@ -10805,8 +10853,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 12   | 33 002               |
 | 13   | 33 659               |
 | 14   | 34 514               |
-| 15   |                      |
+| 15   | 35363                |
 | 16   |                      |
+| 17   |                      |
 
 -----
 
@@ -10906,6 +10955,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 1.1.2014-31.12.2014 | 71 400                        |                                     |
 | 1.1.2015-31.12.2015 | 72 600                        |                                     |
 | 1.1.2016-31.12.2016 | 74 400                        |                                     |
+| 1.1.2017-31.12.2017 | 76 200                        |                                     |
 
 ### Anlage 2a Jährliche Beitragsbemessungsgrenzen des Beitrittsgebiets in Euro/DM
 
@@ -11060,6 +11110,11 @@ Rentenversicherung</td>
 <td>1.1.2016 - 31.12.2016</td>
 <td>64 800</td>
 <td>79 800</td>
+</tr>
+<tr class="even">
+<td>1.1.2017 - 31.12.2017</td>
+<td>68 400</td>
+<td>84 000</td>
 </tr>
 </tbody>
 </table>
@@ -12493,8 +12548,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 2012             | 1,1785          |                             |
 | 2013             | 1,1762          |                             |
 | 2014             | 1,1665          |                             |
-| 2015             |                 | 1,1717                      |
+| 2015             | 1,1502          |                             |
 | 2016             |                 | 1,1479                      |
+| 2017             |                 | 1,1193                      |
 
 ### Anlage 11 Verdienst für freiwillige Beiträge im Beitrittsgebiet
 
