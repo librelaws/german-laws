@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 11.8.1993 I 1473;
 
 Stand  
-zuletzt geändert durch Art. 3 G v. 12.7.2012 I 1501
+Zuletzt geändert durch Art. 8 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -73,15 +73,15 @@ I. Teil Verfassung und Zuständigkeit des Bundesverfassungsgerichts
 
 ### § 6
 
-(1) Die vom Bundestag zu berufenden Richter werden in indirekter Wahl gewählt.
+(1) Die vom Bundestag zu berufenden Richter werden auf Vorschlag des Wahlausschusses nach Absatz 2 ohne Aussprache mit verdeckten Stimmzetteln gewählt. Zum Richter ist gewählt, wer eine Mehrheit von zwei Dritteln der abgegebenen Stimmen, mindestens die Mehrheit der Stimmen der Mitglieder des Bundestages auf sich vereinigt.
 
 (2) Der Bundestag wählt nach den Regeln der Verhältniswahl einen Wahlausschuß für die Richter des Bundesverfassungsgerichts, der aus zwölf Mitgliedern des Bundestages besteht. Jede Fraktion kann einen Vorschlag einbringen. Aus den Summen der für jeden Vorschlag abgegebenen Stimmen wird nach dem Höchstzahlverfahren (d'Hondt) die Zahl der auf jeden Vorschlag gewählten Mitglieder errechnet. Gewählt sind die Mitglieder in der Reihenfolge, in der ihr Name auf dem Vorschlag erscheint. Scheidet ein Mitglied des Wahlausschusses aus oder ist es verhindert, so wird es durch das nächste auf der gleichen Liste vorgeschlagene Mitglied ersetzt.
 
-(3) Das älteste Mitglied des Wahlausschusses beruft die Mitglieder des Wahlausschusses unverzüglich unter Einhaltung einer Ladungsfrist von einer Woche zur Durchführung der Wahl und leitet die Sitzung, die fortgesetzt wird, bis alle Richter gewählt sind.
+(3) Das älteste Mitglied des Wahlausschusses beruft die Mitglieder des Wahlausschusses unverzüglich unter Einhaltung einer Ladungsfrist von einer Woche ein und leitet die Sitzung, die fortgesetzt wird, bis Vorschläge über alle zu wählenden Richter beschlossen sind.
 
 (4) Die Mitglieder des Wahlausschusses sind zur Verschwiegenheit über die ihnen durch ihre Tätigkeit im Wahlausschuß bekanntgewordenen persönlichen Verhältnisse der Bewerber sowie über die hierzu im Wahlausschuß gepflogenen Erörterungen und über die Abstimmung verpflichtet.
 
-(5) Zum Richter ist gewählt, wer mindestens acht Stimmen auf sich vereinigt.
+(5) Ein Wahlvorschlag wird mit mindestens acht Stimmen der Mitglieder des Wahlausschusses beschlossen.
 
 § 6: Die indirekte Wahl der Bundesverfassungsrichter durch den Deutschen Bundestag gem. § 6 BVerfGG ist verfassungsgemäß gem. BVerfGE v. 19.6.2012 (2 BvC 2/10)
 
@@ -101,9 +101,9 @@ Die vom Bundesrat zu berufenden Richter werden mit zwei Dritteln der Stimmen des
 
 ### § 8
 
-(1) Das Bundesministerium der Justiz stellt eine Liste aller Bundesrichter auf, die die Voraussetzungen des § 3 Abs. 1 und 2 erfüllen.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz stellt eine Liste aller Bundesrichter auf, die die Voraussetzungen des § 3 Abs. 1 und 2 erfüllen.
 
-(2) Das Bundesministerium der Justiz führt eine weitere Liste, in die alle Personen aufzunehmen sind, die von einer Fraktion des Bundestages, der Bundesregierung oder einer Landesregierung für das Amt eines Richters am Bundesverfassungsgericht vorgeschlagen werden und die die Voraussetzungen des § 3 Abs. 1 und 2 erfüllen.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz führt eine weitere Liste, in die alle Personen aufzunehmen sind, die von einer Fraktion des Bundestages, der Bundesregierung oder einer Landesregierung für das Amt eines Richters am Bundesverfassungsgericht vorgeschlagen werden und die die Voraussetzungen des § 3 Abs. 1 und 2 erfüllen.
 
 (3) Die Listen sind laufend zu ergänzen und spätestens eine Woche vor einer Wahl den Präsidenten des Bundestages und des Bundesrates zuzuleiten.
 
@@ -368,7 +368,7 @@ Die Beteiligten werden von allen Beweisterminen benachrichtigt und können der B
 
 (1) Die Entscheidungen des Bundesverfassungsgerichts binden die Verfassungsorgane des Bundes und der Länder sowie alle Gerichte und Behörden.
 
-(2) In den Fällen des § 13 Nr. 6, 6a, 11, 12 und 14 hat die Entscheidung des Bundesverfassungsgerichts Gesetzeskraft. Das gilt auch in den Fällen des § 13 Nr. 8a, wenn das Bundesverfassungsgericht ein Gesetz als mit dem Grundgesetz vereinbar oder unvereinbar oder für nichtig erklärt. Soweit ein Gesetz als mit dem Grundgesetz oder sonstigem Bundesrecht vereinbar oder unvereinbar oder für nichtig erklärt wird, ist die Entscheidungsformel durch das Bundesministerium der Justiz im Bundesgesetzblatt zu veröffentlichen. Entsprechendes gilt für die Entscheidungsformel in den Fällen des § 13 Nr. 12 und 14.
+(2) In den Fällen des § 13 Nr. 6, 6a, 11, 12 und 14 hat die Entscheidung des Bundesverfassungsgerichts Gesetzeskraft. Das gilt auch in den Fällen des § 13 Nr. 8a, wenn das Bundesverfassungsgericht ein Gesetz als mit dem Grundgesetz vereinbar oder unvereinbar oder für nichtig erklärt. Soweit ein Gesetz als mit dem Grundgesetz oder sonstigem Bundesrecht vereinbar oder unvereinbar oder für nichtig erklärt wird, ist die Entscheidungsformel durch das Bundesministerium der Justiz und für Verbraucherschutz im Bundesgesetzblatt zu veröffentlichen. Entsprechendes gilt für die Entscheidungsformel in den Fällen des § 13 Nr. 12 und 14.
 
 ### § 32
 
@@ -439,6 +439,12 @@ Auskunft oder Akteneinsicht kann auch gewährt werden, soweit der Betroffene ein
 
 (4) Die Akten des Bundesverfassungsgerichts werden nicht übersandt. An öffentliche Stellen können sie übersandt werden, wenn diesen gemäß Absatz 2 Akteneinsicht gewährt werden kann oder wenn einer Privatperson auf Grund besonderer Umstände dort Akteneinsicht gewährt werden soll.
 
+(5) Für die Einsicht in die Akten des Bundesverfassungsgerichts, die beim Bundesarchiv oder durch das Bundesarchiv als Zwischenarchivgut aufbewahrt werden, gelten nach Ablauf von 30 Jahren seit Abschluss des Verfahrens die archivgesetzlichen Regelungen. Für Entwürfe von Urteilen, Beschlüssen und Verfügungen, Arbeiten zu ihrer Vorbereitung und Dokumente, die Abstimmungen betreffen, gilt dies nach Ablauf von 60 Jahren. Das Bundesverfassungsgericht behält für das abgegebene Schriftgut, das beim Bundesarchiv aufbewahrt wird, zu gerichtsinternen und prozessualen Zwecken das jederzeitige und vorrangige Rückgriffsrecht. Zu diesem Zweck ist es ihm auf Anforderung umgehend zu übersenden.
+
+(6) Die Akten zu Kammerentscheidungen, die nicht zur Veröffentlichung bestimmt sind, einschließlich der Entwürfe von Beschlüssen und Verfügungen, Arbeiten zu ihrer Vorbereitung und Dokumente, die Abstimmungen betreffen, können mit Einverständnis des Bundesarchivs nach Ablauf von 30 Jahren vernichtet werden.
+
+(7) Die Akten zu den im Allgemeinen Register eingetragenen Vorgängen, die nicht in das Verfahrensregister übertragen worden sind, können mit Einverständnis des Bundesarchivs fünf Jahre nach der letzten die Sache betreffenden Verfügung vernichtet werden.
+
 ### § 35c
 
 Das Bundesverfassungsgericht darf in einem verfassungsgerichtlichen Verfahren zu den Akten gelangte personenbezogene Daten für ein anderes verfassungsgerichtliches Verfahren nutzen.
@@ -481,9 +487,7 @@ Ist die Verwirkung zeitlich nicht befristet oder für einen längeren Zeitraum a
 
 Hat das Bundesverfassungsgericht über einen Antrag sachlich entschieden, so kann er gegen denselben Antragsgegner nur wiederholt werden, wenn er auf neue Tatsachen gestützt wird.
 
-### § 42
-
-(weggefallen)
+### § 42 (weggefallen)
 
 Zweiter Abschnitt Verfahren in den Fällen des § 13 Nr. 2
 --------------------------------------------------------
@@ -891,9 +895,7 @@ Fünfzehnter Abschnitt Verfahren in den Fällen des § 13 Nr. 8a
 
 Gemeinden und Gemeindeverbände können die Verfassungsbeschwerde mit der Behauptung erheben, daß ein Gesetz des Bundes oder des Landes die Vorschrift des Artikels 28 des Grundgesetzes verletzt. Die Verfassungsbeschwerde zum Bundesverfassungsgericht ist ausgeschlossen, soweit eine Beschwerde wegen Verletzung des Rechtes auf Selbstverwaltung nach dem Rechte des Landes beim Landesverfassungsgericht erhoben werden kann.
 
-### § 91a
-
-(weggefallen)
+### § 91a (weggefallen)
 
 ### § 92
 
@@ -959,9 +961,7 @@ Die Kammer kann die Annahme der Verfassungsbeschwerde ablehnen oder die Verfassu
 
 (3) Wird der Verfassungsbeschwerde gegen ein Gesetz stattgegeben, so ist das Gesetz für nichtig zu erklären. Das gleiche gilt, wenn der Verfassungsbeschwerde gemäß Absatz 2 stattgegeben wird, weil die aufgehobene Entscheidung auf einem verfassungswidrigen Gesetz beruht. Die Vorschrift des § 79 gilt entsprechend.
 
-### § 95a
-
-(weggefallen)
+### § 95a (weggefallen)
 
 Sechzehnter Abschnitt Verfahren in den Fällen des § 13 Nr. 6b
 -------------------------------------------------------------
@@ -1063,9 +1063,7 @@ schwerbehinderter Mensch im Sinne des § 2 des Neunten Buches Sozialgesetzbuch i
 
 (6) § 70 des Beamtenversorgungsgesetzes gilt entsprechend.
 
-### § 99
-
-(weggefallen)
+### § 99 (weggefallen)
 
 ### § 100
 
@@ -1121,14 +1119,8 @@ einen Richter des Bundesverfassungsgerichts zu entlassen, wenn er wegen einer en
 
 (6) Mit der Entlassung nach Absatz 1 Nr. 2 verliert der Richter alle Ansprüche aus seinem Amt.
 
-### § 106
+### § 106 (weggefallen)
 
-(Inkrafttreten)
+### § 107 (weggefallen)
 
-### § 106
 
-(Inkrafttreten)
-
-### § 107
-
-(weggefallen)
