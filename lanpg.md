@@ -5,7 +5,7 @@ Stand
 Neugefasst durch Bek. v. 3.7.1991 I 1418,
 
 Stand  
-geändert durch Art. 7 Abs. 45 G v. 19.6.2001 I 1149
+zuletzt geändert durch Art. 40 G v. 23.7.2013 I 2586
 
 ### 
 
@@ -13,8 +13,9 @@ geändert durch Art. 7 Abs. 45 G v. 19.6.2001 I 1149
 (+++ Textnachweis Geltung ab: 3.10.1990 +++)
 ```
 
+Überschrift: IdF d. Art. 1 Nr. 1 G v. 31.3.1994 I 736 mWv 20.4.1994
+
 Im beigetretenen Gebiet fortgeltendes Recht der ehem. Deutschen Demokratischen Republik gem. Anlage II Kap. VI Sachg. A Abschn. II Nr. 1 nach Maßgabe d. Art. 9 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 1204 mWv 3.10.1990.
-Überschr.: IdF d. Art. 1 Nr. 1 G v. 31.3.1994 I 736 mWv 20.4.1994
 
 ### (XXXX)
 
@@ -631,7 +632,7 @@ Das Eigentum an den Flächen, auf denen auf der Grundlage eines durch Rechtsvors
 
 (2) In Angelegenheiten auf Grund der Vorschriften des § 12 Abs. 1, des § 28 Abs. 2, des § 37 Abs. 2, der §§ 42, 43, 44, 45, 46, 49, 51, 51a und 64a Abs. 2 sowie des § 52 in den Fällen des § 585b Abs. 2, der §§ 588, 590 Abs. 2, des § 591 Abs. 2 und 3, der §§ 593, 594d Abs. 2 und der §§ 595 und 595a Abs. 2 und 3 des Bürgerlichen Gesetzbuchs finden die Vorschriften des Zweiten Abschnitts, in bürgerlichen Rechtsstreitigkeiten auf Grund der Vorschriften der §§ 3a, 7, 15, 25, 39, 41 und 48 sowie des § 52 im übrigen finden die Vorschriften des Dritten Abschnitts des Gesetzes über das gerichtliche Verfahren in Landwirtschaftssachen entsprechende Anwendung.
 
-(3) In den Angelegenheiten des Absatzes 2 finden für die Bemessung des Geschäftswertes und die Gebührenerhebung die Vorschriften des § 35 Abs. 1 Nr. 4, Abs. 4 Nr. 2 des Gesetzes über das gerichtliche Verfahren in Landwirtschaftssachen auch für andere als Angelegenheiten der Landpachtverhältnisse entsprechende Anwendung.
+(3) (weggefallen)
 
 ### § 66 Ehrenamtliche Richter
 
