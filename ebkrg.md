@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 21.3.1971 I 337,
 
 Stand  
-zuletzt geändert durch Art. 281 V v. 31.10.2006 I 2407
+zuletzt geändert durch Art. 462 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -59,7 +59,7 @@ durch den Bau von Überführungen, durch die Einrichtung technischer Sicherungen
 
 ### § 5
 
-(1) Über Art, Umfang und Durchführung einer nach § 2 oder § 3 durchzuführenden Maßnahme sowie über die Verteilung der Kosten sollen die Beteiligten eine Vereinbarung treffen. Sehen die Beteiligten vor, daß Bund oder Land nach Maßgabe des § 13 Abs. 1 Satz 2 zu den Kosten beitragen, ohne an der Kreuzung als Straßenbaulastträger beteiligt zu sein, so bedarf die Vereinbarung insoweit der Genehmigung. Die Genehmigung erteilt für den Bund das Bundesministerium für Verkehr, Bau und Stadtentwicklung, für das Land die von der Landesregierung bestimmte Behörde. In Fällen geringer finanzieller Bedeutung kann auf die Genehmigung verzichtet werden.
+(1) Über Art, Umfang und Durchführung einer nach § 2 oder § 3 durchzuführenden Maßnahme sowie über die Verteilung der Kosten sollen die Beteiligten eine Vereinbarung treffen. Sehen die Beteiligten vor, daß Bund oder Land nach Maßgabe des § 13 Abs. 1 Satz 2 zu den Kosten beitragen, ohne an der Kreuzung als Straßenbaulastträger beteiligt zu sein, so bedarf die Vereinbarung insoweit der Genehmigung. Die Genehmigung erteilt für den Bund das Bundesministerium für Verkehr und digitale Infrastruktur, für das Land die von der Landesregierung bestimmte Behörde. In Fällen geringer finanzieller Bedeutung kann auf die Genehmigung verzichtet werden.
 
 (2) Einer Vereinbarung nach Absatz 1 bedarf es nicht, wenn sich ein Beteiligter oder ein Dritter bereit erklärt, die Kosten für die Änderung oder Beseitigung eines Bahnübergangs nach § 3 abweichend von den Vorschriften dieses Gesetzes allein zu tragen, und für die Maßnahme ein Planfeststellungsverfahren durchgeführt wird.
 
@@ -73,7 +73,7 @@ Die Anordnungsbehörde kann das Kreuzungsrechtsverfahren auch ohne Antrag einlei
 
 ### § 8
 
-(1) Wenn an der Kreuzung ein Schienenweg einer Eisenbahn des Bundes beteiligt ist, entscheidet als Anordnungsbehörde das Bundesministerium für Verkehr, Bau und Stadtentwicklung im Benehmen mit der von der Landesregierung bestimmten Behörde.
+(1) Wenn an der Kreuzung ein Schienenweg einer Eisenbahn des Bundes beteiligt ist, entscheidet als Anordnungsbehörde das Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit der von der Landesregierung bestimmten Behörde.
 
 (2) In sonstigen Fällen entscheidet als Anordnungsbehörde die von der Landesregierung bestimmte Behörde.
 
@@ -155,7 +155,7 @@ zu den Straßenanlagen die Sichtflächen, die Warnzeichen und Merktafeln (Baken)
 
 ### § 16
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur kann mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
 
 1.  
 der Umfang der Kosten nach den §§ 11, 12 und 13 näher bestimmt wird und für die Verwaltungskosten Pauschalbeträge festgesetzt werden;
@@ -169,7 +169,7 @@ die Berechnung und die Zahlung von Ablösungsbeträgen nach § 15 Abs. 4 näher 
 4.  
 bei neuartigen Anlagen, die nicht von § 14 Abs. 2 erfaßt werden, bestimmt wird, ob sie zu den Eisenbahn- oder zu den Straßenanlagen gehören.
 
-(2) Allgemeine Verwaltungsvorschriften erläßt das Bundesministerium für Verkehr, Bau und Stadtentwicklung mit Zustimmung des Bundesrates.
+(2) Allgemeine Verwaltungsvorschriften erläßt das Bundesministerium für Verkehr und digitale Infrastruktur mit Zustimmung des Bundesrates.
 
 ### § 17
 
