@@ -5,10 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 21.9.1994 I 2494; 1997, 1061;
 
 Stand  
-zuletzt geändert durch Art. 2 G v. 11.3.2016 I 396
-
-Hinweis  
-Änderung durch Art. 55 G v. 8.7.2016 I 1594 (Nr. 34) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+zuletzt geändert durch Art. 2 Abs. 4 G v. 20.7.2017 I 2787
 
 ### 
 
@@ -135,12 +132,26 @@ Art 7 Rechtsfähigkeit und Geschäftsfähigkeit
 
 (2) Eine einmal erlangte Rechtsfähigkeit oder Geschäftsfähigkeit wird durch Erwerb oder Verlust der Rechtsstellung als Deutscher nicht beeinträchtigt.
 
-Art 8 Entmündigung
-------------------
+Art 8 Gewillkürte Stellvertretung
+---------------------------------
 
 ### 
 
-(weggefallen)
+(1) Auf die gewillkürte Stellvertretung ist das vom Vollmachtgeber vor der Ausübung der Vollmacht gewählte Recht anzuwenden, wenn die Rechtswahl dem Dritten und dem Bevollmächtigten bekannt ist. Der Vollmachtgeber, der Bevollmächtigte und der Dritte können das anzuwendende Recht jederzeit wählen. Die Wahl nach Satz 2 geht derjenigen nach Satz 1 vor.
+
+(2) Ist keine Rechtswahl nach Absatz 1 getroffen worden und handelt der Bevollmächtigte in Ausübung seiner unternehmerischen Tätigkeit, so sind die Sachvorschriften des Staates anzuwenden, in dem der Bevollmächtigte im Zeitpunkt der Ausübung der Vollmacht seinen gewöhnlichen Aufenthalt hat, es sei denn, dieser Ort ist für den Dritten nicht erkennbar.
+
+(3) Ist keine Rechtswahl nach Absatz 1 getroffen worden und handelt der Bevollmächtigte als Arbeitnehmer des Vollmachtgebers, so sind die Sachvorschriften des Staates anzuwenden, in dem der Vollmachtgeber im Zeitpunkt der Ausübung der Vollmacht seinen gewöhnlichen Aufenthalt hat, es sei denn, dieser Ort ist für den Dritten nicht erkennbar.
+
+(4) Ist keine Rechtswahl nach Absatz 1 getroffen worden und handelt der Bevollmächtigte weder in Ausübung seiner unternehmerischen Tätigkeit noch als Arbeitnehmer des Vollmachtgebers, so sind im Falle einer auf Dauer angelegten Vollmacht die Sachvorschriften des Staates anzuwenden, in dem der Bevollmächtigte von der Vollmacht gewöhnlich Gebrauch macht, es sei denn, dieser Ort ist für den Dritten nicht erkennbar.
+
+(5) Ergibt sich das anzuwendende Recht nicht aus den Absätzen 1 bis 4, so sind die Sachvorschriften des Staates anzuwenden, in dem der Bevollmächtigte von seiner Vollmacht im Einzelfall Gebrauch macht (Gebrauchsort). Mussten der Dritte und der Bevollmächtigte wissen, dass von der Vollmacht nur in einem bestimmten Staat Gebrauch gemacht werden sollte, so sind die Sachvorschriften dieses Staates anzuwenden. Ist der Gebrauchsort für den Dritten nicht erkennbar, so sind die Sachvorschriften des Staates anzuwenden, in dem der Vollmachtgeber im Zeitpunkt der Ausübung der Vollmacht seinen gewöhnlichen Aufenthalt hat.
+
+(6) Auf die gewillkürte Stellvertretung bei Verfügungen über Grundstücke oder Rechte an Grundstücken ist das nach Artikel 43 Absatz 1 und Artikel 46 zu bestimmende Recht anzuwenden.
+
+(7) Dieser Artikel findet keine Anwendung auf die gewillkürte Stellvertretung bei Börsengeschäften und Versteigerungen.
+
+(8) Auf die Bestimmung des gewöhnlichen Aufenthalts im Sinne dieses Artikels ist Artikel 19 Absatz 1 und 2 erste Alternative der Verordnung (EG) Nr. 593/2008 mit der Maßgabe anzuwenden, dass an die Stelle des Vertragsschlusses die Ausübung der Vollmacht tritt. Artikel 19 Absatz 2 erste Alternative der Verordnung (EG) Nr. 593/2008 ist nicht anzuwenden, wenn der nach dieser Vorschrift maßgebende Ort für den Dritten nicht erkennbar ist.
 
 Art 9 Todeserklärung
 --------------------
@@ -224,7 +235,15 @@ die Verlobten die zumutbaren Schritte zur Erfüllung der Voraussetzung unternomm
 3.  
 es mit der Eheschließungsfreiheit unvereinbar ist, die Eheschließung zu versagen; insbesondere steht die frühere Ehe eines Verlobten nicht entgegen, wenn ihr Bestand durch eine hier erlassene oder anerkannte Entscheidung beseitigt oder der Ehegatte des Verlobten für tot erklärt ist.
 
-(3) Eine Ehe kann im Inland nur in der hier vorgeschriebenen Form geschlossen werden. Eine Ehe zwischen Verlobten, von denen keiner Deutscher ist, kann jedoch vor einer von der Regierung des Staates, dem einer der Verlobten angehört, ordnungsgemäß ermächtigten Person in der nach dem Recht dieses Staates vorgeschriebenen Form geschlossen werden; eine beglaubigte Abschrift der Eintragung der so geschlossenen Ehe in das Standesregister, das von der dazu ordnungsgemäß ermächtigten Person geführt wird, erbringt vollen Beweis der Eheschließung.
+(3) Unterliegt die Ehemündigkeit eines Verlobten nach Absatz 1 ausländischem Recht, ist die Ehe nach deutschem Recht
+
+1.  
+unwirksam, wenn der Verlobte im Zeitpunkt der Eheschließung das 16. Lebensjahr nicht vollendet hatte, und
+
+2.  
+aufhebbar, wenn der Verlobte im Zeitpunkt der Eheschließung das 16., aber nicht das 18. Lebensjahr vollendet hatte.
+
+(4) Eine Ehe kann im Inland nur in der hier vorgeschriebenen Form geschlossen werden. Eine Ehe zwischen Verlobten, von denen keiner Deutscher ist, kann jedoch vor einer von der Regierung des Staates, dem einer der Verlobten angehört, ordnungsgemäß ermächtigten Person in der nach dem Recht dieses Staates vorgeschriebenen Form geschlossen werden; eine beglaubigte Abschrift der Eintragung der so geschlossenen Ehe in das Standesregister, das von der dazu ordnungsgemäß ermächtigten Person geführt wird, erbringt vollen Beweis der Eheschließung.
 
 Art 14 Allgemeine Ehewirkungen
 ------------------------------
@@ -305,8 +324,8 @@ Art 17a Ehewohnung und Haushaltsgegenstände
 
 Die Nutzungsbefugnis für die im Inland belegene Ehewohnung und die im Inland befindlichen Haushaltsgegenstände sowie damit zusammenhängende Betretungs-, Näherungs- und Kontaktverbote unterliegen den deutschen Sachvorschriften.
 
-Art 17b Eingetragene Lebenspartnerschaft
-----------------------------------------
+Art 17b Eingetragene Lebenspartnerschaft und gleichgeschlechtliche Ehe
+----------------------------------------------------------------------
 
 ### 
 
@@ -316,7 +335,7 @@ Art 17b Eingetragene Lebenspartnerschaft
 
 (3) Bestehen zwischen denselben Personen eingetragene Lebenspartnerschaften in verschiedenen Staaten, so ist die zuletzt begründete Lebenspartnerschaft vom Zeitpunkt ihrer Begründung an für die in Absatz 1 umschriebenen Wirkungen und Folgen maßgebend.
 
-(4) Die Wirkungen einer im Ausland eingetragenen Lebenspartnerschaft gehen nicht weiter als nach den Vorschriften des Bürgerlichen Gesetzbuchs und des Lebenspartnerschaftsgesetzes vorgesehen.
+(4) Die Bestimmungen der Absätze 1 bis 3 gelten für die gleichgeschlechtliche Ehe entsprechend.
 
 Art 18 (weggefallen)
 --------------------
@@ -2351,11 +2370,7 @@ Soweit der volljährig Gewordene Verbindlichkeiten vor dem Inkrafttreten des Min
 Art 229
 -------
 
-### § 16 Überleitungsvorschrift zum Gesetz zur Ergänzung des Rechts zur Anfechtung der Vaterschaft vom 13. März 2008
-
-*Im Fall der Anfechtung nach § 1600 Abs. 1 Nr. 5 des Bürgerlichen Gesetzbuchs beginnt die Frist für die Anfechtung gemäß § 1600b Abs. 1a des Bürgerlichen Gesetzbuchs nicht vor dem 1. Juni 2008.*
-
-Art. 229 § 16 Kursivdruck: Eingef. durch Art. 2 Abs. 5 G v. 13.3.2008 I 313 mWv 1.6.2008; Verstoß gegen Art. 16 Abs. 1, Art. 6 Abs. 2 Satz 1, Art. 2 Abs. 1 iVm Art. 6 Abs. 2 Satz 1, Art. 6 Abs. 1 GG (100-1) und nichtig gem. BVerfGE v. 17.12.2013; 2014 I 110 - 1 BvL 6/10 -
+### § 16 (weggefallen)
 
 Art 229
 -------
@@ -2549,6 +2564,13 @@ Auf Verfahren zur Erteilung von Erbscheinen nach einem Erblasser, der vor dem 17
 Art 229
 -------
 
+### § 37 Überleitungsvorschrift zum Gesetz zur Verbesserung der zivilrechtlichen Durchsetzung von verbraucherschützenden Vorschriften des Datenschutzrechts
+
+§ 309 Nummer 13 des Bürgerlichen Gesetzbuchs in der seit dem 1. Oktober 2016 geltenden Fassung ist nur auf ein Schuldverhältnis anzuwenden, das nach dem 30. September 2016 entstanden ist.
+
+Art 229
+-------
+
 ### § 38 Übergangsvorschrift zum Gesetz zur Umsetzung der Wohnimmobilienkreditrichtlinie und zur Änderung handelsrechtlicher Vorschriften
 
 (1) Dieses Gesetz und das Bürgerliche Gesetzbuch jeweils in der bis zum 20. März 2016 geltenden Fassung sind vorbehaltlich des Absatzes 2 auf folgende Verträge anzuwenden, wenn sie vor dem 21. März 2016 abgeschlossen wurden:
@@ -2564,6 +2586,84 @@ Für Verbraucherdarlehensverträge gemäß § 504 des Bürgerlichen Gesetzbuchs 
 (2) Die §§ 504a und 505 Absatz 2 des Bürgerlichen Gesetzbuchs sind auf Verbraucherdarlehensverträge gemäß den §§ 504 und 505 des Bürgerlichen Gesetzbuchs auch dann anzuwenden, wenn diese Verträge vor dem 21. März 2016 abgeschlossen wurden.
 
 (3) Bei Immobiliardarlehensverträgen gemäß § 492 Absatz 1a Satz 2 des Bürgerlichen Gesetzbuchs in der vom 1. August 2002 bis einschließlich 10. Juni 2010 geltenden Fassung, die zwischen dem 1. September 2002 und dem 10. Juni 2010 geschlossen wurden, erlischt ein fortbestehendes Widerrufsrecht spätestens drei Monate nach dem 21. März 2016, wenn das Fortbestehen des Widerrufsrechts darauf beruht, dass die dem Verbraucher erteilte Widerrufsbelehrung den zum Zeitpunkt des Vertragsschlusses geltenden Anforderungen des Bürgerlichen Gesetzbuchs nicht entsprochen hat. Bei Haustürgeschäften ist Satz 1 nur anzuwenden, wenn die beiderseitigen Leistungen aus dem Verbraucherdarlehensvertrag bei Ablauf des 21. Mai 2016 vollständig erbracht worden sind, andernfalls erlöschen die fortbestehenden Widerrufsrechte erst einen Monat nach vollständiger Erbringung der beiderseitigen Leistungen aus dem Vertrag.
+
+Art 229
+-------
+
+### § 40 Übergangsvorschrift zum Finanzaufsichtsrechtergänzungsgesetz
+
+(1) Das Bürgerliche Gesetzbuch ist in der bis zum 9. Juni 2017 geltenden Fassung auf folgende Verträge anzuwenden, wenn sie vor dem 10. Juni 2017 abgeschlossen wurden:
+
+1.  
+Darlehensverträge, Verträge über entgeltliche und unentgeltliche Finanzierungshilfen sowie Immobilienverzehrkreditverträge,
+
+2.  
+Verträge über die Vermittlung von Verträgen nach Nummer 1.
+
+(2) Dieses Gesetz ist in der bis zum 30. Juni 2018 geltenden Fassung auf folgende Verträge anzuwenden, wenn sie vor dem 1. Juli 2018 abgeschlossen wurden:
+
+1.  
+Darlehensverträge und Verträge über entgeltliche Finanzierungshilfen,
+
+2.  
+Verträge über die Vermittlung von Verträgen nach Nummer 1.
+
+Art 229
+-------
+
+### § 41 Übergangsvorschrift zum Gesetz zur Änderung von Vorschriften im Bereich des Internationalen Privat- und Zivilverfahrensrechts vom 11. Juni 2017
+
+Ist vor Inkrafttreten von Artikel 8 am 17. Juni 2017 eine Vollmacht erteilt oder eine Erklärung im Namen einer anderen Person gegenüber einem Dritten abgegeben oder für einen anderen entgegengenommen worden, bleibt das bisherige Internationale Privatrecht anwendbar.
+
+Art 229
+-------
+
+### § 43 Überleitungsvorschrift zum Gesetz zur Einführung eines Anspruchs auf Hinterbliebenengeld
+
+Wenn die zum Tode führende Verletzung nach dem 22. Juli 2017 eingetreten ist, sind die durch das Gesetz zur Einführung eines Anspruchs auf Hinterbliebenengeld vom 17. Juli 2017 (BGBl. I S. 2421) geänderten Vorschriften in folgenden Gesetzen anzuwenden:
+
+1.  
+Bürgerliches Gesetzbuch,
+
+2.  
+Arzneimittelgesetz,
+
+3.  
+Gentechnikgesetz,
+
+4.  
+Produkthaftungsgesetz,
+
+5.  
+Umwelthaftungsgesetz,
+
+6.  
+Atomgesetz,
+
+7.  
+Straßenverkehrsgesetz und
+
+8.  
+Haftpflichtgesetz.
+
+Art 229
+-------
+
+### § 44 Überleitungsvorschrift zum Gesetz zur Bekämpfung von Kinderehen
+
+(1) § 1303 Satz 2 des Bürgerlichen Gesetzbuchs in der ab dem 22. Juli 2017 geltenden Fassung ist für Ehen, die vor dem 22. Juli 2017 geschlossen worden sind, nicht anzuwenden. Die Aufhebbarkeit dieser Ehen richtet sich nach dem bis zum 22. Juli 2017 geltenden Recht.
+
+(2) Die Aufhebung einer Ehe wegen eines Verstoßes gegen § 1303 des Bürgerlichen Gesetzbuchs ist ausgeschlossen, wenn sie nach Befreiung vom Erfordernis der Volljährigkeit nach § 1303 Absatz 2 bis 4 des Bürgerlichen Gesetzbuchs in der bis zum 21. Juli 2017 geltenden Fassung und vor dem 22. Juli 2017 geschlossen worden ist.
+
+(3) Bis zum 22. Juli 2017 noch nicht abgeschlossene Verfahren über die Erteilung einer Befreiung nach § 1303 Absatz 2 bis 4 des Bürgerlichen Gesetzbuchs in der bis zum 21. Juli 2017 geltenden Fassung sind erledigt. Eine Genehmigung nach § 1315 Absatz 1 Satz 1 Nummer 1 Fall 1 des Bürgerlichen Gesetzbuchs in der bis zum 21. Juli 2017 geltenden Fassung kann nach dem 22. Juli 2017 nicht mehr erteilt werden.
+
+(4) Artikel 13 Absatz 3 Nummer 1 gilt nicht, wenn
+
+1.  
+der minderjährige Ehegatte vor dem 22. Juli 1999 geboren worden ist, oder
+
+2.  
+die nach ausländischem Recht wirksame Ehe bis zur Volljährigkeit des minderjährigen Ehegatten geführt worden ist und kein Ehegatte seit der Eheschließung bis zur Volljährigkeit des minderjährigen Ehegatten seinen gewöhnlichen Aufenthalt in Deutschland hatte.
 
 Sechster Teil Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
