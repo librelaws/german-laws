@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 26.9.1995 I 1195;
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 5.6.2012 I 1254
+Zuletzt geändert durch Art. 2a V v. 6.3.2015 I 278
 
 ### 
 
@@ -312,7 +312,7 @@ Satz 2 Nummer 1 Buchstabe a gilt nicht für die Herstellung von Arzneimitteln, f
 
 (2d) Der Lagerraum muss ausreichend groß sein und eine ordnungsgemäße Lagerung der in der Apotheke vorrätig gehaltenen oder vertriebenen Produkte ermöglichen. Es muss eine Lagerhaltung unterhalb einer Temperatur von 25 Grad Celsius möglich sein. Für Arzneimittel oder Ausgangsstoffe, die nach § 21 Nummer 7 abzusondern sind, und für gefälschte Arzneimittel, die nach § 21 Nummer 8 gesichert aufzubewahren sind, ist ein separater und entsprechend gekennzeichneter Lagerbereich vorzusehen. Soweit Arzneimittel außerhalb der Öffnungszeiten der Apotheke angeliefert werden, muss die Einhaltung der erforderlichen Lagertemperaturen für die betreffenden Arzneimittel ständig gewährleistet sein; ein Zugriff Unbefugter muss ausgeschlossen werden. Apotheken, die Krankenhäuser mit Arzneimitteln versorgen, müssen für diese Arzneimittel separate Lagerräume oder mindestens separate und entsprechend gekennzeichnete Lagerbereiche vorhalten.
 
-(3) Eine Zweigapotheke muß mindestens aus einer Offizin, ausreichendem Lagerraum und einem Nachtdienstzimmer bestehen. § 4 Absatz 2 Satz 1 und 2 findet keine Anwendung.
+(3) Eine Zweigapotheke muß mindestens aus einer Offizin, ausreichendem Lagerraum und einem Nachtdienstzimmer bestehen. Absatz 2 Satz 1 und 3 findet keine Anwendung.
 
 (4) Absatz 1 Satz 2 Nummer 5 wird nicht angewendet auf
 
@@ -755,7 +755,7 @@ ein System zur Sendungsverfolgung unterhalten wird.
 
 Die Versendung darf nicht erfolgen, wenn zur sicheren Anwendung des Arzneimittels ein Informations- oder Beratungsbedarf besteht, der auf einem anderen Wege als einer persönlichen Information oder Beratung durch einen Apotheker nicht erfolgen kann.
 
-(2b) Für Arzneimittel, die die Wirkstoffe Thalidomid oder Lenalidomid enthalten, ist ein Inverkehrbringen im Wege des Versandes nach § 43 Abs. 1 Satz 1 des Arzneimittelgesetzes nicht zulässig.
+(2b) Für Arzneimittel, die die Wirkstoffe Lenalidomid, Pomalidomid oder Thalidomid enthalten sowie für zur Notfallkontrazeption zugelassene Arzneimittel mit den Wirkstoffen Levonorgestrel oder Ulipristalacetat, ist ein Inverkehrbringen im Wege des Versandes nach § 43 Abs. 1 Satz 1 des Arzneimittelgesetzes nicht zulässig.
 
 (3) Der Apothekenleiter darf Arzneimittel und Medizinprodukte, die der Apothekenpflicht unterliegen, nicht im Wege der Selbstbedienung in den Verkehr bringen.
 
@@ -765,7 +765,7 @@ Die Versendung darf nicht erfolgen, wenn zur sicheren Anwendung des Arzneimittel
 
 (5a) Abweichend von Absatz 5 Satz 1 darf der Apotheker bei der Dienstbereitschaft während der Zeiten nach § 23 Absatz 1 Satz 2 ein anderes, mit dem verschriebenen Arzneimittel nach Anwendungsgebiet und nach Art und Menge der wirksamen Bestandteile identisches sowie in der Darreichungsform und pharmazeutischen Qualität vergleichbares Arzneimittel abgeben, wenn das verschriebene Arzneimittel nicht verfügbar ist und ein dringender Fall vorliegt, der die unverzügliche Anwendung des Arzneimittels erforderlich macht.
 
-(6) Bei der Abgabe der Arzneimittel sind auf der Verschreibung anzugeben oder im Falle der Verschreibung in elektronischer Form der elektronischen Verschreibung hinzufügen
+(6) Bei der Abgabe der Arzneimittel sind auf der Verschreibung und, falls es sich um eine Verschreibung nach § 3a Absatz 1 Satz 1 der Arzneimittelverschreibungsverordnung handelt, auf der Durchschrift der Verschreibung, anzugeben oder im Falle der Verschreibung in elektronischer Form der elektronischen Verschreibung hinzufügen
 
 1.  
 der Name oder die Firma des Inhabers der Apotheke und deren Anschrift,
@@ -801,7 +801,7 @@ Name und Anschrift des verschreibenden Arztes sowie Name oder Firma und Anschrif
 5.  
 Name, Vorname, Geburtsdatum und Adresse des Patienten oder bei der für die Arztpraxis bestimmten Abgabe der Name und die Anschrift des verschreibenden Arztes.
 
-(6b) Bei dem Erwerb und der Abgabe von Arzneimitteln mit den Wirkstoffen Thalidomid oder Lenalidomid und dem Erwerb dieser Wirkstoffe sind folgende Angaben aufzuzeichnen:
+(6b) Bei dem Erwerb und der Abgabe von Arzneimitteln mit den Wirkstoffen Lenalidomid, Pomalidomid oder Thalidomid und dem Erwerb dieser Wirkstoffe sind folgende Angaben aufzuzeichnen:
 
 1.  
 die Bezeichnung und die Chargenbezeichnung des Arzneimittels oder des Wirkstoffs,
@@ -823,6 +823,8 @@ Name und Anschrift der verschreibenden Ärztin oder des verschreibenden Arztes u
 
 7.  
 Name und Anschrift der Person, für die das Arzneimittel bestimmt ist.
+
+Nach dem Versand der Durchschriften der Vordrucke nach § 3a Absatz 7 der Arzneimittelverschreibungsverordnung an das Bundesinstitut für Arzneimittel und Medizinprodukte ist das Datum des Versands den Angaben nach Satz 1 hinzuzufügen.
 
 (6c) Apotheken dürfen von anderen Apotheken keine Arzneimittel beziehen. Satz 1 wird nicht angewendet auf Arzneimittel,
 
