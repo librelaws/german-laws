@@ -5,13 +5,13 @@ Neuf
 Neugefasst durch Bek. v. 10.5.2000 I 717;
 
 Stand  
-zuletzt geändert durch Art. 2 G v. 1.11.2011 I 2131
+zuletzt geändert durch Art. 235 V v. 31.8.2015 I 1474
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 25.6.1981 +++)
-(+++ Zur Anwendung vgl. § 84 +++)
+(+++ Zur Anwendung vgl. §§ 1 u. 84 +++)
 ```
 
 ### Inhaltsübersicht
@@ -20,501 +20,506 @@ zuletzt geändert durch Art. 2 G v. 1.11.2011 I 2131
 <tbody>
 <tr class="odd">
 <td> </td>
-<td>(weggefallen)</td>
-<td>§§ 1 bis 3</td>
+<td>Anwendung auf Ehegatten und Lebenspartner</td>
+<td>§ 1</td>
 </tr>
 <tr class="even">
+<td></td>
+<td>(weggefallen)</td>
+<td>§§ 2 und 3</td>
+</tr>
+<tr class="odd">
 <td><strong>Zu § 3 des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Steuerfreie Einnahmen</td>
 <td>§ 4</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§ 5</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Zu den §§ 4 bis 7 des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Eröffnung, Erwerb, Aufgabe und Veräußerung eines Betriebs</td>
 <td>§ 6</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§ 7</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Eigenbetrieblich genutzte Grundstücke von untergeordnetem Wert</td>
 <td>§ 8</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§ 8a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Wirtschaftsjahr</td>
 <td>§ 8b</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Wirtschaftsjahr bei Land- und Forstwirten</td>
 <td>§ 8c</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§ 9</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Anschaffung, Herstellung</td>
 <td>§ 9a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Absetzung für Abnutzung im Fall des § 4 Abs. 3 des Gesetzes</td>
 <td>§ 10</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§ 10a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§§ 11 bis 11b</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Absetzung für Abnutzung bei Gebäuden</td>
 <td>§ 11c</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Absetzung für Abnutzung oder Substanzverringerung bei nicht zu einem Betriebsvermögen gehörenden Wirtschaftsgütern, die der Steuerpflichtige unentgeltlich erworben hat</td>
 <td>§ 11d</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§ 12</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Zu den §§ 7e und 10a des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§§ 13 und 14</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Zu § 7b des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Erhöhte Absetzungen für Einfamilienhäuser, Zweifamilienhäuser und Eigentumswohnungen</td>
 <td>§ 15</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§§ 16 bis 21</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Zu § 7e des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§§ 22 bis 28</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Zu § 10 des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Anzeigepflichten bei Versicherungsverträgen</td>
 <td>§ 29</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Nachversteuerung bei Versicherungsverträgen</td>
 <td>§ 30</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§§ 31 bis 44</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Zu § 10a des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§§ 45 bis 47</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Zu § 10b des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§§ 48 u. 49</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Zuwendungsnachweis</td>
 <td>§ 50</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Zu § 13 des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Pauschale Ermittlung der Gewinne aus Holznutzungen</td>
 <td>§ 51</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Zu § 13a des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§ 52</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Zu § 17 des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Anschaffungskosten bestimmter Anteile an Kapitalgesellschaften</td>
 <td>§ 53</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Übersendung von Urkunden durch die Notare</td>
 <td>§ 54</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Zu § 22 des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Ermittlung des Ertrags aus Leibrenten in besonderen Fällen</td>
 <td>§ 55</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Zu § 25 des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Steuererklärungspflicht</td>
 <td>§ 56</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§§ 57 bis 59</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Unterlagen zur Steuererklärung</td>
 <td>§ 60</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Zu den §§ 26a und 26b des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Antrag auf hälftige Verteilung von Abzugsbeträgen im Fall des § 26a des Gesetzes</td>
 <td>§ 61</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§§ 62 bis 62c</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Anwendung des § 10d des Gesetzes bei der Veranlagung von Ehegatten</td>
 <td>§ 62d</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§ 63</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Zu § 33 des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Nachweis von Krankheitskosten</td>
 <td>§ 64</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Zu § 33b des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Nachweis der Behinderung</td>
 <td>§ 65</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§§ 66 und 67</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Zu § 34b des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Nutzungssatz, Betriebsgutachten, Betriebswerk</td>
 <td>§ 68</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Zu § 34c des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Einkünfte aus mehreren ausländischen Staaten</td>
 <td>§ 68a</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Nachweis über die Höhe der ausländischen Einkünfte und Steuern</td>
 <td>§ 68b</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§ 69</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Zu § 46 des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Ausgleich von Härten in bestimmten Fällen</td>
 <td>§ 70</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§§ 71 und 72</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Zu § 50 des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§ 73</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Zu § 50a des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Begriffsbestimmungen</td>
 <td>§ 73a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§ 73b</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Zeitpunkt des Zufließens im Sinne des § 50a Abs. 5 Satz 1 des Gesetzes</td>
 <td>§ 73c</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Aufzeichnungen, Aufbewahrungspflichten, Steueraufsicht</td>
 <td>§ 73d</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Einbehaltung, Abführung und Anmeldung der Steuer von Vergütungen im Sinne des § 50a Abs. 1 und 7 des Gesetzes (§ 50a Abs. 5 des Gesetzes)</td>
 <td>§ 73e</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Steuerabzug in den Fällen des § 50a Abs. 6 des Gesetzes</td>
 <td>§ 73f</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Haftungsbescheid</td>
 <td>§ 73g</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Zu § 51 des Gesetzes</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§§ 74 bis 80</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Bewertungsfreiheit für bestimmte Wirtschaftsgüter des Anlagevermögens im Kohlen- und Erzbergbau</td>
 <td>§ 81</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§ 82</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Erhöhte Absetzungen von Herstellungskosten und Sonderbehandlung von Erhaltungsaufwand für bestimmte Anlagen und Einrichtungen bei Gebäuden</td>
 <td>§ 82a</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Behandlung größeren Erhaltungsaufwands bei Wohngebäuden</td>
 <td>§ 82b</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§§ 82c bis 82e</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Bewertungsfreiheit für Handelsschiffe, für Schiffe, die der Seefischerei dienen, und für Luftfahrzeuge</td>
 <td>§ 82f</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Erhöhte Absetzungen von Herstellungskosten für bestimmte Baumaßnahmen</td>
 <td>§ 82g</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§ 82h</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Erhöhte Absetzungen von Herstellungskosten bei Baudenkmälern</td>
 <td>§ 82i</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>(weggefallen)</td>
 <td>§ 83</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Schlussvorschriften</strong></td>
 <td> </td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 <td>Anwendungsvorschriften</td>
 <td>§ 84</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>(gegenstandslos)</td>
 <td>§ 85</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><br />
 <strong>Anlage 1</strong></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>(weggefallen)</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Anlagen 2 bis 4</strong></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>(weggefallen)</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Anlage 5</strong></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Verzeichnis der Wirtschaftsgüter des Anlagevermögens über Tage im Sinne des § 81 Abs. 3 Nr. 1</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Anlage 6</strong></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 <td>Verzeichnis der Wirtschaftsgüter des beweglichen Anlagevermögens im Sinne des § 81 Abs. 3 Nr. 2</td>
 <td></td>
@@ -522,7 +527,11 @@ zuletzt geändert durch Art. 2 G v. 1.11.2011 I 2131
 </tbody>
 </table>
 
-### (XXXX) §§ 1 bis 3 (weggefallen)
+### § 1 Anwendung auf Ehegatten und Lebenspartner
+
+Die Regelungen dieser Verordnung zu Ehegatten und Ehen sind auch auf Lebenspartner und Lebenspartnerschaften anzuwenden.
+
+### (XXXX) §§ 2 und 3 (weggefallen)
 
 - Zu § 3 des Gesetzes
 ---------------------
@@ -688,7 +697,7 @@ bei Gebäuden, die der Steuerpflichtige nach dem 20. Juni 1948 angeschafft hat, 
 
 ### § 50 Zuwendungsnachweis
 
-(1) Zuwendungen im Sinne der §§ 10b und 34g des Gesetzes dürfen nur abgezogen werden, wenn sie durch eine Zuwendungsbestätigung nachgewiesen werden, die der Empfänger nach amtlich vorgeschriebenem Vordruck ausgestellt hat.
+(1) <sup>1</sup>Zuwendungen im Sinne der §§ 10b und 34g des Gesetzes dürfen nur abgezogen werden, wenn sie durch eine Zuwendungsbestätigung nachgewiesen werden, die der Empfänger unter Berücksichtigung des § 63 Absatz 5 der Abgabenordnung nach amtlich vorgeschriebenem Vordruck ausgestellt hat. <sup>2</sup>Dies gilt nicht für Zuwendungen an nicht im Inland ansässige Zuwendungsempfänger nach § 10b Absatz 1 Satz 2 Nummer 1 und 3 des Gesetzes.
 
 (1a) <sup>1</sup>Der Zuwendende kann den Zuwendungsempfänger bevollmächtigen, die Zuwendungsbestätigung der Finanzbehörde nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung nach Maßgabe der Steuerdaten-Übermittlungsverordnung zu übermitteln. <sup>2</sup>Der Zuwendende hat dem Zuwendungsempfänger zu diesem Zweck seine Identifikationsnummer (§ 139b der Abgabenordnung) mitzuteilen. <sup>3</sup>Die Vollmacht kann nur mit Wirkung für die Zukunft widerrufen werden. <sup>4</sup>Der Datensatz ist bis zum 28. Februar des Jahres, das auf das Jahr folgt, in dem die Zuwendung geleistet worden ist, an die Finanzbehörde zu übermitteln. <sup>5</sup>Der Zuwendungsempfänger hat dem Zuwendenden die nach Satz 1 übermittelten Daten elektronisch oder auf dessen Wunsch als Ausdruck zur Verfügung zu stellen; in beiden Fällen ist darauf hinzuweisen, dass die Daten der Finanzbehörde übermittelt worden sind.
 
@@ -715,7 +724,7 @@ der Empfänger eine Körperschaft, Personenvereinigung oder Vermögensmasse im S
 c)  
 der Empfänger eine politische Partei im Sinne des § 2 des Parteiengesetzes ist und bei Spenden der Verwendungszweck auf dem vom Empfänger hergestellten Beleg aufgedruckt ist.
 
-<sup>2</sup>Aus der Buchungsbestätigung müssen Name und Kontonummer des Auftraggebers und Empfängers, der Betrag sowie der Buchungstag ersichtlich sein. <sup>3</sup>In den Fällen des Satzes 1 Nummer 2 Buchstabe b hat der Zuwendende zusätzlich den vom Zuwendungsempfänger hergestellten Beleg vorzulegen.
+<sup>2</sup>Aus der Buchungsbestätigung müssen Name und Kontonummer oder ein sonstiges Identifizierungsmerkmal des Auftraggebers und des Empfängers, der Betrag, der Buchungstag sowie die tatsächliche Durchführung der Zahlung ersichtlich sein. <sup>3</sup>In den Fällen des Satzes 1 Nummer 2 Buchstabe b hat der Zuwendende zusätzlich den vom Zuwendungsempfänger hergestellten Beleg vorzulegen.
 
 (2a) Bei Zuwendungen zur Hilfe in Katastrophenfällen innerhalb eines Zeitraums, den die obersten Finanzbehörden der Länder im Benehmen mit dem Bundesministerium der Finanzen bestimmen, die über ein Konto eines Dritten an eine inländische juristische Person des öffentlichen Rechts, eine inländische öffentliche Dienststelle oder eine nach § 5 Absatz 1 Nummer 9 des Körperschaftsteuergesetzes steuerbefreite Körperschaft, Personenvereinigung oder Vermögensmasse geleistet werden, genügt als Nachweis die auf den jeweiligen Spender ausgestellte Zuwendungsbestätigung des Zuwendungsempfängers, wenn das Konto des Dritten als Treuhandkonto geführt wurde, die Spenden von dort an den Zuwendungsempfänger weitergeleitet wurden und diesem eine Liste mit den einzelnen Spendern und ihrem jeweiligen Anteil an der Spendensumme übergeben wurde.
 
@@ -1317,7 +1326,9 @@ wenn ihm wegen seiner Behinderung nach den gesetzlichen Vorschriften Renten oder
 
 ### § 70 Ausgleich von Härten in bestimmten Fällen
 
-<sup>1</sup>Betragen in den Fällen des § 46 Abs. 2 Nr. 1 bis 7 des Gesetzes die einkommensteuerpflichtigen Einkünfte, von denen der Steuerabzug vom Arbeitslohn nicht vorgenommen worden ist, insgesamt mehr als 410 Euro, so ist vom Einkommen der Betrag abzuziehen, um den die bezeichneten Einkünfte, vermindert um den auf sie entfallenden Altersentlastungsbetrag (§ 24a des Gesetzes) und den nach § 13 Abs. 3 des Gesetzes zu berücksichtigenden Betrag, niedriger als 820 Euro sind (Härteausgleichsbetrag). <sup>2</sup>Der Härteausgleichsbetrag darf nicht höher sein als die nach Satz 1 verminderten Einkünfte.
+<sup>1</sup>Betragen in den Fällen des § 46 Absatz 2 Nummer 1 bis 7 des Gesetzes die einkommensteuerpflichtigen Einkünfte, von denen der Steuerabzug vom Arbeitslohn nicht vorgenommen worden ist und die nicht nach § 32d Absatz 6 des Gesetzes der tariflichen Einkommensteuer unterworfen wurden, insgesamt mehr als 410 Euro, so ist vom Einkommen der Betrag abzuziehen, um den die bezeichneten Einkünfte, vermindert um den auf sie entfallenden Altersentlastungsbetrag (§ 24a des Gesetzes) und den nach § 13 Absatz 3 des Gesetzes zu berücksichtigenden Betrag, niedriger als 820 Euro sind (Härteausgleichsbetrag). <sup>2</sup>Der Härteausgleichsbetrag darf nicht höher sein als die nach Satz 1 verminderten Einkünfte.
+
+(+++ § 70: Zur Anwendung vgl. § 84 Abs. 3g +++)
 
 ### (XXXX) §§ 71 und 72 (weggefallen)
 
@@ -1339,7 +1350,21 @@ wenn ihm wegen seiner Behinderung nach den gesetzlichen Vorschriften Renten oder
 
 (2) Urheberrechte im Sinne des § 50a Abs. 1 Nr. 3 des Gesetzes sind Rechte, die nach Maßgabe des Urheberrechtsgesetzes vom 9. September 1965 (BGBl. I S. 1273), zuletzt geändert durch das Gesetz vom 7. Dezember 2008 (BGBl. I S. 2349), in der jeweils geltenden Fassung geschützt sind.
 
-(3) Gewerbliche Schutzrechte im Sinne des § 50a Abs. 1 Nr. 3 des Gesetzes sind Rechte, die nach Maßgabe des Geschmacksmustergesetzes vom 12. März 2004 (BGBl. I S. 390), zuletzt geändert durch Artikel 7 des Gesetzes vom 7. Juli 2008 (BGBl. I S. 1191), des Patentgesetzes in der Fassung der Bekanntmachung vom 16. Dezember 1980 (BGBl. 1981 I S. 1), zuletzt geändert durch Artikel 2 des Gesetzes vom 7. Juli 2008 (BGBl. I S. 1191), des Gebrauchsmustergesetzes in der Fassung der Bekanntmachung vom 28. August 1986 (BGBl. I S. 1455), zuletzt geändert durch Artikel 3 des Gesetzes vom 7. Juli 2008 (BGBl. I S. 1191) und des Markengesetzes vom 25. Oktober 1994 (BGBl. I S. 3082; 1995 I S. 156), zuletzt geändert durch Artikel 4 des Gesetzes vom 7. Juli 2008 (BGBl. I S. 1191), in der jeweils geltenden Fassung geschützt sind.
+(3) Gewerbliche Schutzrechte im Sinne des § 50a Absatz 1 Nummer 3 des Gesetzes sind Rechte, die nach Maßgabe
+
+1.  
+des Designgesetzes,
+
+2.  
+des Patentgesetzes,
+
+3.  
+des Gebrauchsmustergesetzes oder
+
+4.  
+des Markengesetzes
+
+geschützt sind.
 
 (+++ § 73a: Zur erstmaligen Anwendung vgl. § 84 Abs. 3h +++)
 
@@ -1387,7 +1412,13 @@ Höhe und Zeitpunkt der Abführung der einbehaltenen Steuer.
 
 ### § 73e Einbehaltung, Abführung und Anmeldung der Steuer von Vergütungen im Sinne des § 50a Abs. 1 und 7 des Gesetzes (§ 50a Abs. 5 des Gesetzes)
 
-<sup>1</sup>Der Schuldner hat die innerhalb eines Kalendervierteljahrs einbehaltene Steuer von Vergütungen im Sinne des § 50a Absatz 1 des Gesetzes unter der Bezeichnung „Steuerabzug von Vergütungen im Sinne des § 50a Absatz 1 des Einkommensteuergesetzes“ jeweils bis zum zehnten des dem Kalendervierteljahr folgenden Monats an das Bundeszentralamt für Steuern abzuführen. <sup>2</sup>Bis zum gleichen Zeitpunkt hat der Schuldner dem Bundeszentralamt für Steuern eine Steueranmeldung über den Gläubiger, die Höhe der Vergütungen im Sinne des § 50a Absatz 1 des Gesetzes, die Höhe und Art der von der Bemessungsgrundlage des Steuerabzugs abgezogenen Betriebsausgaben oder Werbungskosten und die Höhe des Steuerabzugs zu übersenden. <sup>3</sup>Satz 2 gilt entsprechend, wenn ein Steuerabzug auf Grund der Vorschrift des § 50a Abs. 2 Satz 3 oder Abs. 4 Satz 1 des Gesetzes nicht vorzunehmen ist oder auf Grund eines Abkommens zur Vermeidung der Doppelbesteuerung nicht oder nicht in voller Höhe vorzunehmen ist. <sup>4</sup>Die Steueranmeldung ist nach amtlich vorgeschriebenem Vordruck auf elektronischem Weg zu übermitteln nach Maßgabe der Steuerdaten-Übermittlungsverordnung vom 28. Januar 2003 (BGBl. I S. 139), geändert durch die Verordnung vom 20. Dezember 2006 (BGBl. I S. 3380), in der jeweils geltenden Fassung. <sup>5</sup>Auf Antrag kann das Bundeszentralamt für Steuern zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten; in diesem Fall ist die Steueranmeldung vom Schuldner oder von einem zu seiner Vertretung Berechtigten zu unterschreiben. <sup>6</sup>Ist es zweifelhaft, ob der Gläubiger beschränkt oder unbeschränkt steuerpflichtig ist, so darf der Schuldner die Einbehaltung der Steuer nur dann unterlassen, wenn der Gläubiger durch eine Bescheinigung des nach den abgabenrechtlichen Vorschriften für die Besteuerung seines Einkommens zuständigen Finanzamts nachweist, dass er unbeschränkt steuerpflichtig ist. <sup>7</sup>Die Sätze 1, 2, 4 und 5 gelten entsprechend für die Steuer nach § 50a Abs. 7 des Gesetzes mit der Maßgabe, dass die Steuer an das Finanzamt abzuführen und bei dem Finanzamt anzumelden ist, das den Steuerabzug angeordnet hat.
+<sup>1</sup>Der Schuldner hat die innerhalb eines Kalendervierteljahrs einbehaltene Steuer von Vergütungen im Sinne des § 50a Absatz 1 des Gesetzes unter der Bezeichnung „Steuerabzug von Vergütungen im Sinne des § 50a Absatz 1 des Einkommensteuergesetzes“ jeweils bis zum zehnten des dem Kalendervierteljahr folgenden Monats an das Bundeszentralamt für Steuern abzuführen. <sup>2</sup>Bis zum gleichen Zeitpunkt hat der Schuldner dem Bundeszentralamt für Steuern eine Steueranmeldung über den Gläubiger, die Höhe der Vergütungen im Sinne des § 50a Absatz 1 des Gesetzes, die Höhe und Art der von der Bemessungsgrundlage des Steuerabzugs abgezogenen Betriebsausgaben oder Werbungskosten und die Höhe des Steuerabzugs zu übersenden. <sup>3</sup>Satz 2 gilt entsprechend, wenn ein Steuerabzug auf Grund der Vorschrift des § 50a Abs. 2 Satz 3 oder Abs. 4 Satz 1 des Gesetzes nicht vorzunehmen ist oder auf Grund eines Abkommens zur Vermeidung der Doppelbesteuerung nicht oder nicht in voller Höhe vorzunehmen ist. <sup>4</sup>Die Steueranmeldung ist nach amtlich vorgeschriebenem Vordruck auf elektronischem Weg zu übermitteln nach Maßgabe der Steuerdaten-Übermittlungsverordnung vom 28. Januar 2003 (BGBl. I S. 139), geändert durch die Verordnung vom 20. Dezember 2006 (BGBl. I S. 3380), in der jeweils geltenden Fassung. <sup>5</sup>Auf Antrag kann das Bundeszentralamt für Steuern zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten; in diesem Fall ist die Steueranmeldung vom Schuldner oder von einem zu seiner Vertretung Berechtigten zu unterschreiben. <sup>6</sup>Ist es zweifelhaft, ob der Gläubiger beschränkt oder unbeschränkt steuerpflichtig ist, so darf der Schuldner die Einbehaltung der Steuer nur dann unterlassen, wenn der Gläubiger durch eine Bescheinigung des nach den abgabenrechtlichen Vorschriften für die Besteuerung seines Einkommens zuständigen Finanzamts nachweist, dass er unbeschränkt steuerpflichtig ist. <sup>7</sup>Die Sätze 1, 2, 4 und 5 gelten entsprechend für die Steuer nach § 50a Absatz 7 des Gesetzes mit der Maßgabe, dass
+
+1.  
+die Steuer an das Finanzamt abzuführen und bei dem Finanzamt anzumelden ist, das den Steuerabzug angeordnet hat, und
+
+2.  
+bei entsprechender Anordnung die innerhalb eines Monats einbehaltene Steuer jeweils bis zum zehnten des Folgemonats anzumelden und abzuführen ist.
 
 (+++ § 73e: Zur Anwendung vgl. § 84 Abs. 3h +++)
 
@@ -1465,7 +1496,7 @@ für die Wiederinbetriebnahme stillgelegter Tagebaue
 angeschafft oder hergestellt werden und
 
 2.  
-dass die Förderungswürdigkeit dieser Vorhaben von der obersten Landesbehörde oder der von ihr bestimmten Stelle im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie bescheinigt worden ist.
+dass die Förderungswürdigkeit dieser Vorhaben von der obersten Landesbehörde oder der von ihr bestimmten Stelle im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie bescheinigt worden ist.
 
 (3) Die Abschreibungen nach Absatz 1 können nur in Anspruch genommen werden
 
@@ -1565,9 +1596,11 @@ an Stelle der nach § 7 Abs. 4 oder 5 oder § 7b des Gesetzes zu bemessenden Abs
 
 (1) Die vorstehende Fassung dieser Verordnung ist, soweit in den folgenden Absätzen nichts anderes bestimmt ist, erstmals für den Veranlagungszeitraum 2012 anzuwenden.
 
-(1a) § 7 der Einkommensteuer-Durchführungsverordnung 1997 in der Fassung der Bekanntmachung vom 18. Juni 1997 (BGBl. I S. 1558) ist letztmals für das Wirtschaftsjahr anzuwenden, das vor dem 1. Januar 1999 endet.
+(1a) § 1 in der Fassung des Artikels 2 des Gesetzes vom 18. Juli 2014 (BGBl. I S. 1042) ist in allen Fällen anzuwenden, in denen die Einkommensteuer noch nicht bestandskräftig festgesetzt ist.
 
-(1b) Die §§ 8 und 8a der Einkommensteuer-Durchführungsverordnung 1986 in der Fassung der Bekanntmachung vom 24. Juli 1986 (BGBl. I S. 1239) sind letztmals für das Wirtschaftsjahr anzuwenden, das vor dem 1. Januar 1990 endet.
+(1b) § 7 der Einkommensteuer-Durchführungsverordnung 1997 in der Fassung der Bekanntmachung vom 18. Juni 1997 (BGBl. I S. 1558) ist letztmals für das Wirtschaftsjahr anzuwenden, das vor dem 1. Januar 1999 endet.
+
+(1c) Die §§ 8 und 8a der Einkommensteuer-Durchführungsverordnung 1986 in der Fassung der Bekanntmachung vom 24. Juli 1986 (BGBl. I S. 1239) sind letztmals für das Wirtschaftsjahr anzuwenden, das vor dem 1. Januar 1990 endet.
 
 (2) <sup>1</sup>§ 8c Abs. 1 und 2 Satz 3 in der Fassung dieser Verordnung ist erstmals für Wirtschaftsjahre anzuwenden, die nach dem 31. August 1993 beginnen. <sup>2</sup>§ 8c Abs. 2 Satz 1 und 2 ist erstmals für Wirtschaftsjahre anzuwenden, die nach dem 30. Juni 1990 beginnen. <sup>3</sup>Für Wirtschaftsjahre, die vor dem 1. Mai 1984 begonnen haben, ist § 8c Abs. 1 und 2 der Einkommensteuer-Durchführungsverordnung 1981 in der Fassung der Bekanntmachung vom 23. Juni 1982 (BGBl. I S. 700) weiter anzuwenden.
 
@@ -1589,9 +1622,9 @@ an Stelle der nach § 7 Abs. 4 oder 5 oder § 7b des Gesetzes zu bemessenden Abs
 
 (3f) § 64 Absatz 1 in der Fassung des Artikels 2 des Gesetzes vom 1. November 2011 (BGBl. I S. 2131) ist in allen Fällen anzuwenden, in denen die Einkommensteuer noch nicht bestandskräftig festgesetzt ist.
 
-(3g) § 70 in der Fassung des Gesetzes vom 19. Dezember 2000 (BGBl. I S. 1790) ist erstmals ab dem Veranlagungszeitraum 2002 anzuwenden.
+(3g) § 70 in der Fassung des Artikels 24 des Gesetzes vom 25. Juli 2014 (BGBl. I S. 1266) ist erstmals ab dem Veranlagungszeitraum 2014 anzuwenden.
 
-(3h) <sup>1</sup>Die §§ 73a, 73c, 73d Abs. 1 sowie die §§ 73e und 73f Satz 1 in der Fassung des Artikels 2 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) sind erstmals auf Vergütungen anzuwenden, die nach dem 31. Dezember 2008 zufließen. <sup>2</sup>Abweichend von Satz 1 ist § 73e Satz 4 und 5 in der Fassung des Artikels 2 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) erstmals auf Vergütungen anzuwenden, die nach dem 31. Dezember 2009 zufließen. <sup>3</sup>§ 73e Satz 4 in der Fassung der Bekanntmachung vom 10. Mai 2000 (BGBl. I S. 717) ist letztmals auf Vergütungen anzuwenden, die vor dem 1. Januar 2010 zufließen. <sup>4</sup>Der Zeitpunkt der erstmaligen Anwendung des § 73d Absatz 1 Satz 3, des § 73e Satz 1, 2 und 5 sowie des § 73g Absatz 1 und 2 in der Fassung des Artikels 9 des Gesetzes vom 10. August 2009 (BGBl. I S. 2702) wird durch eine Rechtsverordnung der Bundesregierung bestimmt, die der Zustimmung des Bundesrates bedarf; dieser Zeitpunkt darf nicht vor dem 31. Dezember 2011 liegen.
+(3h) <sup>1</sup>Die §§ 73a, 73c, 73d Abs. 1 sowie die §§ 73e und 73f Satz 1 in der Fassung des Artikels 2 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) sind erstmals auf Vergütungen anzuwenden, die nach dem 31. Dezember 2008 zufließen. <sup>2</sup>Abweichend von Satz 1 ist § 73e Satz 4 und 5 in der Fassung des Artikels 2 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) erstmals auf Vergütungen anzuwenden, die nach dem 31. Dezember 2009 zufließen. <sup>3</sup>§ 73e Satz 4 in der Fassung der Bekanntmachung vom 10. Mai 2000 (BGBl. I S. 717) ist letztmals auf Vergütungen anzuwenden, die vor dem 1. Januar 2010 zufließen. <sup>4</sup>§ 73d Absatz 1 Satz 3, § 73e Satz 1, 2 und 5 sowie § 73g Absatz 1 und 2 in der Fassung des Artikels 9 des Gesetzes vom 10. August 2009 (BGBl. I S. 2702) sind erstmals auf Vergütungen anzuwenden, die nach dem 31. Dezember 2013 zufließen. <sup>5</sup>§ 73a Absatz 3 in der am 30. Dezember 2014 geltenden Fassung ist erstmals ab dem 1. Januar 2014 anzuwenden.<sup>6</sup>§ 73e Satz 7 in der am 31. Juli 2014 geltenden Fassung ist erstmals auf Vergütungen anzuwenden, für die der Steuerabzug nach dem 31. Dezember 2014 angeordnet worden ist.
 
 (3i) § 80 der Einkommensteuer-Durchführungsverordnung 1997 in der Fassung der Bekanntmachung vom 18. Juni 1997 (BGBl. I S. 1558) ist letztmals für das Wirtschaftsjahr anzuwenden, das vor dem 1. Januar 1999 endet.
 
