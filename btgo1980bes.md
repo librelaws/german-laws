@@ -2,12 +2,14 @@ Beschluß des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliede
 ==============================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Nr. 1 Bek. v. 15.7.2002 I 3012
+Zuletzt geändert durch Nr. 1 Beschluss d. Bundestages gem. Bek. v. 15.7.2002 I 3012
 
 ### 
 
+```
 (+++ Textnachweis ab: 1.10.1980 +++)
 (+++ Text der Geschäftsordnung siehe: BTGO 1980 +++)
+```
 
 Dieser Beschluss wird jeweils zu Beginn einer Wahlperiode vom Deutschen Bundestag übernommen.
 
