@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 14.4.1986 I 412;
 
 Stand  
-zuletzt geändert durch Art. 4 V v. 17.12.2010 I 2132
+zuletzt geändert durch Art. 19 G v. 25.7.2013 I 2722
 
 ### 
 
@@ -342,7 +342,7 @@ Vierter Abschnitt Kennzeichnung
 
 (1) Käse und Erzeugnisse aus Käse dürfen nur in den Verkehr gebracht werden, wenn sie nach den Vorschriften dieser Verordnung gekennzeichnet sind. § 8 der Lebensmittel-Kennzeichungsverordnung sowie § 9 der Zusatzstoff-Zulassungsverordnung ist anzuwenden.
 
-(2) Bei Käse und Erzeugnissen aus Käse in Fertigpackungen im Sinne des § 6 Abs. 1 des Eichgesetzes, die zur Abgabe an den Verbraucher bestimmt sind, muß die Kennzeichnung enthalten
+(2) Bei Käse und Erzeugnissen aus Käse in Fertigpackungen im Sinne des § 42 Absatz 1 des Mess- und Eichgesetzes, die zur Abgabe an den Verbraucher bestimmt sind, muß die Kennzeichnung enthalten
 
 1.  
 als Verkehrsbezeichnung
