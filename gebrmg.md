@@ -5,10 +5,13 @@ Neuf
 Neugefasst durch Bek. v. 28.8.1986 I 1455;
 
 Stand  
-zuletzt geändert durch Art. 8 Abs. 5 G v. 3.12.2015 I 2178
+zuletzt geändert durch Art. 3 G v. 4.4.2016 I 558
 
 Hinweis  
-Änderung durch Art. 3 G v. 4.4.2016 I 558 (Nr. 15) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 6 Abs. 25 G v. 13.4.2017 I 872 (Nr. 22) mWv 1.7.2017 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 14 G v. 12.5.2017 I 1121 (Nr. 27) ist berücksichtigt
 
 ### 
 
@@ -254,7 +257,7 @@ Die Löschung des Gebrauchsmusters nach § 15 ist beim Patentamt schriftlich zu 
 
 (2) Andernfalls teilt das Patentamt den Widerspruch dem Antragsteller mit und trifft die zur Aufklärung der Sache erforderlichen Verfügungen. Es kann die Vernehmung von Zeugen und Sachverständigen anordnen. Für sie gelten die Vorschriften der Zivilprozeßordnung (§§ 373 bis 401 sowie 402 bis 414) entsprechend. Die Beweisverhandlungen sind unter Zuziehung eines beeidigten Protokollführers aufzunehmen.
 
-(3) Über den Antrag wird auf Grund mündlicher Verhandlung beschlossen. Der Beschluß ist in dem Termin, in dem die mündliche Verhandlung geschlossen wird, oder in einem sofort anzuberaumenden Termin zu verkünden. Der Beschluß ist zu begründen, schriftlich auszufertigen und den Beteiligten von Amts wegen zuzustellen. § 47 Abs. 2 des Patentgesetzes ist entsprechend anzuwenden. Statt der Verkündung ist die Zustellung des Beschlusses zulässig.
+(3) Über den Antrag wird auf Grund mündlicher Verhandlung beschlossen. Der Beschluß ist in dem Termin, in dem die mündliche Verhandlung geschlossen wird, oder in einem sofort anzuberaumenden Termin zu verkünden. Der Beschluss ist zu begründen und den Beteiligten von Amts wegen in Abschrift zuzustellen; eine Beglaubigung der Abschrift ist nicht erforderlich. Ausfertigungen werden nur auf Antrag eines Beteiligten und nur in Papierform erteilt. § 47 Abs. 2 des Patentgesetzes ist entsprechend anzuwenden. Statt der Verkündung ist die Zustellung des Beschlusses zulässig.
 
 (4) Das Patentamt hat zu bestimmen, zu welchem Anteil die Kosten des Verfahrens den Beteiligten zur Last fallen. § 62 Abs. 2 und § 84 Abs. 2 Satz 2 und 3 des Patentgesetzes sind entsprechend anzuwenden.
 
@@ -410,13 +413,13 @@ das Recht aus einem Patent entgegen § 14 ausübt.
 
 (4) In den Fällen des Absatzes 1 wird die Tat nur auf Antrag verfolgt, es sei denn, daß die Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten hält.
 
-(5) Gegenstände, auf die sich die Straftat bezieht, können eingezogen werden. § 74a des Strafgesetzbuches ist anzuwenden. Soweit den in § 24a bezeichneten Ansprüchen im Verfahren nach den Vorschriften der Strafprozeßordnung über die Entschädigung des Verletzten (§§ 403 bis 406c) stattgegeben wird, sind die Vorschriften über die Einziehung nicht anzuwenden.
+(5) Gegenstände, auf die sich die Straftat bezieht, können eingezogen werden. § 74a des Strafgesetzbuches ist anzuwenden. Soweit den in § 24a bezeichneten Ansprüchen im Verfahren nach den Vorschriften der Strafprozeßordnung über die Entschädigung des Verletzten (§§ 403 bis 406c) stattgegeben wird, sind die Vorschriften über die Einziehung (§§ 74 bis 74f des Strafgesetzbuches) nicht anzuwenden.
 
 (6) Wird auf Strafe erkannt, so ist, wenn der Verletzte es beantragt und ein berechtigtes Interesse daran dartut, anzuordnen, daß die Verurteilung auf Verlangen öffentlich bekanntgemacht wird. Die Art der Bekanntmachung ist im Urteil zu bestimmen.
 
 ### § 25a
 
-(1) Ein Erzeugnis, das ein nach diesem Gesetz geschütztes Gebrauchsmuster verletzt, unterliegt auf Antrag und gegen Sicherheitsleistung des Rechtsinhabers bei seiner Einfuhr oder Ausfuhr der Beschlagnahme durch die Zollbehörde, sofern die Rechtsverletzung offensichtlich ist. Dies gilt für den Verkehr mit anderen Mitgliedstaaten der Europäischen Union sowie mit den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum nur, soweit Kontrollen durch die Zollbehörden stattfinden.
+(1) Ein Erzeugnis, das ein nach diesem Gesetz geschütztes Gebrauchsmuster verletzt, unterliegt auf Antrag und gegen Sicherheitsleistung des Rechtsinhabers bei seiner Einfuhr oder Ausfuhr der Beschlagnahme durch die Zollbehörde, sofern die Rechtsverletzung offensichtlich ist und soweit nicht die Verordnung (EU) Nr. 608/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 zur Durchsetzung der Rechte geistigen Eigentums durch die Zollbehörden und zur Aufhebung der Verordnung (EG) Nr. 1383/2003 des Rates (ABl. L 181 vom 29.6.2013, S. 15) in ihrer jeweils geltenden Fassung anzuwenden ist. Dies gilt für den Verkehr mit anderen Mitgliedstaaten der Europäischen Union sowie mit den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum nur, soweit Kontrollen durch die Zollbehörden stattfinden.
 
 (2) Ordnet die Zollbehörde die Beschlagnahme an, so unterrichtet sie unverzüglich den Verfügungsberechtigten sowie den Antragsteller. Dem Antragsteller sind Herkunft, Menge und Lagerort des Erzeugnisses sowie Name und Anschrift des Verfügungsberechtigten mitzuteilen; das Brief- und Postgeheimnis (Artikel 10 des Grundgesetzes) wird insoweit eingeschränkt. Dem Antragsteller wird Gelegenheit gegeben, das Erzeugnis zu besichtigen, soweit hierdurch nicht in Geschäfts- oder Betriebsgeheimnisse eingegriffen wird.
 
@@ -438,6 +441,10 @@ Liegen die Fälle der Nummern 1 oder 2 nicht vor, hebt die Zollbehörde die Besc
 
 (7) Die Beschlagnahme und die Einziehung können mit den Rechtsmitteln angefochten werden, die im Bußgeldverfahren nach dem Gesetz über Ordnungswidrigkeiten gegen die Beschlagnahme und Einziehung zulässig sind. Im Rechtsmittelverfahren ist der Antragsteller zu hören. Gegen die Entscheidung des Amtsgerichts ist die sofortige Beschwerde zulässig; über sie entscheidet das Oberlandesgericht.
 
+### § 25b
+
+Für das Verfahren nach der Verordnung (EU) Nr. 608/2013 gilt § 25a Absatz 5 und 6 entsprechend, soweit die Verordnung keine Bestimmungen enthält, die dem entgegenstehen.
+
 ### § 26
 
 (1) Macht in bürgerlichen Rechtsstreitigkeiten, in denen durch Klage ein Anspruch aus einem der in diesem Gesetz geregelten Rechtsverhältnisse geltend gemacht wird, eine Partei glaubhaft, daß die Belastung mit den Prozeßkosten nach dem vollen Streitwert ihre wirtschaftliche Lage erheblich gefährden würde, so kann das Gericht auf ihren Antrag anordnen, daß die Verpflichtung dieser Partei zur Zahlung von Gerichtskosten sich nach einem ihrer Wirtschaftslage angepaßten Teil des Streitwerts bemißt. Die Anordnung hat zur Folge, daß die begünstigte Partei die Gebühren ihres Rechtsanwalts ebenfalls nur nach diesem Teil des Streitwerts zu entrichten hat. Soweit ihr Kosten des Rechtsstreits auferlegt werden oder soweit sie diese übernimmt, hat sie die von dem Gegner entrichteten Gerichtsgebühren und die Gebühren seines Rechtsanwalts nur nach dem Teil des Streitwerts zu erstatten. Soweit die außergerichtlichen Kosten dem Gegner auferlegt oder von ihm übernommen werden, kann der Rechtsanwalt der begünstigten Partei seine Gebühren von dem Gegner nach dem für diesen geltenden Streitwert beitreiben.
@@ -454,13 +461,11 @@ Liegen die Fälle der Nummern 1 oder 2 nicht vor, hebt die Zollbehörde die Besc
 
 ### § 28
 
-(1) Wer im Inland weder Wohnsitz, Sitz noch Niederlassung hat, kann an einem in diesem Gesetz geregelten Verfahren vor dem Patentamt oder dem Patentgericht nur teilnehmen und die Rechte aus einem Gebrauchsmuster nur geltend machen, wenn er im Inland einen Rechtsanwalt oder Patentanwalt als Vertreter bestellt hat, der zur Vertretung im Verfahren vor dem Patentamt, dem Patentgericht und in bürgerlichen Rechtsstreitigkeiten, die das Gebrauchsmuster betreffen, sowie zur Stellung von Strafanträgen bevollmächtigt ist.
+(1) Wer im Inland weder Wohnsitz, Sitz noch Niederlassung hat, kann an einem in diesem Gesetz geregelten Verfahren vor dem Patentamt oder dem Patentgericht nur teilnehmen und die Rechte aus einem Gebrauchsmuster nur geltend machen, wenn er einen Rechtsanwalt oder Patentanwalt als Vertreter bestellt hat, der zur Vertretung im Verfahren vor dem Patentamt, dem Patentgericht und in bürgerlichen Rechtsstreitigkeiten, die das Gebrauchsmuster betreffen, sowie zur Stellung von Strafanträgen befugt und bevollmächtigt ist.
 
-(2) Staatsangehörige eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum können zur Erbringung einer Dienstleistung im Sinne des Vertrages zur Gründung der Europäischen Gemeinschaft als Vertreter im Sinne des Absatzes 1 bestellt werden, wenn sie berechtigt sind, ihre berufliche Tätigkeit unter einer der in der Anlage zu § 1 des Gesetzes über die Tätigkeit europäischer Rechtsanwälte in Deutschland vom 9. März 2000 (BGBl. I S. 182) oder zu § 1 des Gesetzes über die Eignungsprüfung für die Zulassung zur Patentanwaltschaft vom 6. Juli 1990 (BGBl. I S. 1349, 1351) in der jeweils geltenden Fassung genannten Berufsbezeichnungen auszuüben.
+(2) Der Ort, an dem ein nach Absatz 1 bestellter Vertreter seinen Geschäftsraum hat, gilt im Sinne des § 23 der Zivilprozessordnung als der Ort, an dem sich der Vermögensgegenstand befindet; fehlt ein solcher Geschäftsraum, so ist der Ort maßgebend, an dem der Vertreter im Inland seinen Wohnsitz, und in Ermangelung eines solchen der Ort, an dem das Patentamt seinen Sitz hat.
 
-(3) Der Ort, an dem ein nach Absatz 1 bestellter Vertreter seinen Geschäftsraum hat, gilt im Sinne des § 23 der Zivilprozessordnung als der Ort, an dem sich der Vermögensgegenstand befindet; fehlt ein solcher Geschäftsraum, so ist der Ort maßgebend, an dem der Vertreter im Inland seinen Wohnsitz, und in Ermangelung eines solchen der Ort, an dem das Patentamt seinen Sitz hat.
-
-(4) Die rechtsgeschäftliche Beendigung der Bestellung eines Vertreters nach Absatz 1 wird erst wirksam, wenn sowohl diese Beendigung als auch die Bestellung eines anderen Vertreters gegenüber dem Patentamt oder dem Patentgericht angezeigt wird.
+(3) Die rechtsgeschäftliche Beendigung der Bestellung eines Vertreters nach Absatz 1 wird erst wirksam, wenn sowohl diese Beendigung als auch die Bestellung eines anderen Vertreters gegenüber dem Patentamt oder dem Patentgericht angezeigt wird.
 
 ### § 29
 
