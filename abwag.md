@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 18.1.2005 I 114
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 1.6.2016 I 1290
+Zuletzt geändert durch Art. 2 V v. 22.8.2018 I 1327
 
 ### 
 
@@ -381,6 +381,6 @@ Jahresmenge</td>
 </tbody>
 </table>
 
-G(tief)EI ist der Verdünnungsfaktor, bei dem Abwasser im Fischeitest nicht mehr giftig ist. Den Festlegungen in der Tabelle liegen die Verfahren zur Bestimmung der Schädlichkeit des Abwassers nach den in der Anlage 1 „Analysen- und Messverfahren“ zur Abwasserverordnung angegebenen Nummern in der Fassung der Bekanntmachung vom 17. Juni 2004 (BGBl. I S. 1108, 2625) zugrunde, die zuletzt durch Artikel 1 der Verordnung vom 1. Juni 2016 (BGBl. I S. 1290) geändert worden ist.
+G(tief)EI ist der Verdünnungsfaktor, bei dem Abwasser im Fischeitest nicht mehr giftig ist. Die Verfahren zur Bestimmung der Schädlichkeit des Abwassers entsprechen den Analyse- und Messverfahren nach den Nummern, die in Anlage 1 der Abwasserverordnung angegeben sind.
 
 (2) Wird Abwasser in Küstengewässer eingeleitet, bleibt die Giftigkeit gegenüber Fischeiern insoweit unberücksichtigt, als sie auf dem Gehalt an solchen Salzen beruht, die den Hauptbestandteilen des Meerwassers gleichen. Das Gleiche gilt für das Einleiten von Abwasser in Mündungsstrecken oberirdischer Gewässer in das Meer, die einen ähnlichen natürlichen Salzgehalt wie die Küstengewässer aufweisen.
