@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 23.7.1993 I 1288, 1594;
 
 Stand  
-zuletzt geändert durch Art. 4 G v. 8.6.2017 I 1570
+zuletzt geändert durch Art. 2 G v. 10.7.2018 I 1116
 
 ### 
 
@@ -795,7 +795,7 @@ bei Ordnungswidrigkeiten nach Absatz 1 Nr. 2 der Bundeswahlleiter.
 
 ### § 49b Staatliche Mittel für andere Kreiswahlvorschläge
 
-(1) Bewerber eines nach Maßgabe der §§ 18 und 20 von Wahlberechtigten eingereichten Wahlvorschlages, die mindestens 10 vom Hundert der in einem Wahlkreis abgegebenen gültigen Erststimmen erreicht haben, erhalten je gültige Stimme 2,80 Euro. Die Mittel sind im Bundeshaushaltsplan auszubringen.
+(1) Bewerber eines nach Maßgabe der §§ 18 und 20 von Wahlberechtigten eingereichten Wahlvorschlages, die mindestens 10 vom Hundert der in einem Wahlkreis abgegebenen gültigen Erststimmen erreicht haben, erhalten je gültige Stimme das Vierfache des in § 18 Absatz 3 Satz 1 Nummer 1 des Parteiengesetzes genannten und nach § 18 Absatz 3 Satz 3 des Parteiengesetzes bis zum Zeitpunkt der Wahl erhöhten Betrages. Die Mittel sind im Bundeshaushaltsplan auszubringen.
 
 (2) Die Festsetzung und die Auszahlung der staatliche Mittel sind von dem Bewerber innerhalb von zwei Monaten nach dem Zusammentritt des Deutschen Bundestages beim Präsidenten des Deutschen Bundestages schriftlich zu beantragen; danach eingehende Anträge bleiben unberücksichtigt. Der Betrag wird von dem Präsidenten des Deutschen Bundestages festgesetzt und ausgezahlt.
 
@@ -890,7 +890,8 @@ die Durchführung von Nachwahlen, Wiederholungswahlen und Ersatzwahlen sowie die
 
 ### Anlage (zu § 2 Absatz 2)
 
-(Fundstelle: BGBl. I 2016, 1063 - 1122)
+(Fundstelle: BGBl. I 2016, 1063 - 1122;
+bzgl. der Neubeschreibung der Abgrenzungen der Wahlkreise vgl. Fußnote)
 
 Wahlkreis
 
@@ -1799,7 +1800,7 @@ Börger, Groß Berßen, Hüven, Klein Berßen, Sögel, Spahnharrenstätte, Stave
 Samtgemeinde Werlte
 
 die Gemeinden
-Lahn, Lorup, Rastdorf, Vrees, Werlte
+Lahn, Lorup, Rastdorf, Vrees, Stadt Werlte
 
 (Übrige Gemeinden s. Wkr. 31)
 
@@ -2278,7 +2279,19 @@ Bergfeld, Flecken Brome, Ehra-Lessien, Parsau, Rühen, Tiddische, Tülau
 
 Goslar – Northeim – Osterode
 
-Vom Landkreis Goslar
+Vom Landkreis Göttingen
+
+die Gemeinden
+Bad Grund (Harz), Stadt Osterode am Harz, Walkenried und das gemeindefreie Gebiet Harz (Landkreis Göttingen)
+
+Samtgemeinde Hattorf am Harz
+
+die Gemeinden
+Elbingerode, Hattorf am Harz, Hörden am Harz, Wulften am Harz
+
+(Übrige Gemeinden s. Wkr. 53)
+
+vom Landkreis Goslar
 
 die Gemeinden
 Stadt Bad Harzburg, Stadt Braunlage, Berg- und Universitätsstadt Clausthal-Zellerfeld, Stadt Goslar und das gemeindefreie Gebiet Harz (Landkreis Goslar)
@@ -2292,33 +2305,29 @@ Stadt Bad Gandersheim, Stadt Dassel, Stadt Einbeck, Stadt Hardegsen, Kalefeld, K
 
 (Übrige Gemeinden s. Wkr. 46)
 
-vom Landkreis Osterode am Harz
-
-die Gemeinden
-Bad Grund (Harz), Stadt Osterode am Harz und das gemeindefreie Gebiet Harz (Landkreis Osterode am Harz)
-
-Samtgemeinde Hattorf am Harz
-
-die Gemeinden
-Elbingerode, Hattorf am Harz, Hörden am Harz, Wulften am Harz
-
-Samtgemeinde Walkenried
-
-die Gemeinden
-Walkenried, Wieda, Zorge
-
-(Übrige Gemeinden s. Wkr. 53)
-
 53
 
 Göttingen
 
-Landkreis Göttingen
-
-vom Landkreis Osterode am Harz
+Vom Landkreis Göttingen
 
 die Gemeinden
-Stadt Bad Lauterberg im Harz, Stadt Bad Sachsa, Stadt Herzberg am Harz
+Flecken Adelebsen, Stadt Bad Lauterberg im Harz, Stadt Bad Sachsa, Flecken Bovenden, Stadt Duderstadt, Friedland, Gleichen, Stadt Göttingen, Stadt Hann. Münden, Stadt Herzberg am Harz, Rosdorf, Staufenberg
+
+Samtgemeinde Dransfeld
+
+die Gemeinden
+Bühren, Stadt Dransfeld, Jühnde, Niemetal, Scheden
+
+Samtgemeinde Gieboldehausen
+
+die Gemeinden
+Bilshausen, Bodensee, Flecken Gieboldehausen, Krebeck, Obernfeld, Rhumspringe, Rollshausen, Rüdershausen, Wollbrandshausen, Wollershausen
+
+Samtgemeinde Radolfshausen
+
+die Gemeinden
+Ebergötzen, Landolfshausen, Seeburg, Seulingen, Waake
 
 (Übrige Gemeinden s. Wkr. 52)
 
@@ -3655,12 +3664,7 @@ Altfranken, Cossebaude, Gompitz, Langebrück, Mobschatz, Oberwartha, Schönborn,
 vom Landkreis Bautzen
 
 die Gemeinden
-Arnsdorf, Ottendorf-Okrilla, Radeberg, Wachau
-
-Verwaltungsgemeinschaft Großröhrsdorf
-
-die Gemeinden
-Bretnig-Hauswalde, Großröhrsdorf
+Arnsdorf, Großröhrsdorf, Ottendorf-Okrilla, Radeberg, Wachau
 
 (Übrige Gemeinden s. Wkr. 156)
 
@@ -3772,7 +3776,7 @@ Erzgebirgskreis I
 Vom Erzgebirgskreis
 
 die Gemeinden
-Amtsberg, Annaberg-Buchholz, Aue, Bad Schlema, Breitenbrunn/Erzgeb., Crottendorf, Drebach, Ehrenfriedersdorf, Eibenstock, Gelenau/Erzgeb., Großolbersdorf, Großrückerswalde, Grünhain-Beierfeld, Jöhstadt, Johanngeorgenstadt, Lauter-Bernsbach, Lößnitz, Marienberg, Mildenau, Kurort Oberwiesenthal, Olbernhau, Pfaffroda, Pockau-Lengefeld, Raschau-Markersbach, Schneeberg, Schönheide, Schwarzenberg/Erzgeb., Sehmatal, Stützengrün, Thermalbad Wiesenbad, Thum, Wolkenstein
+Amtsberg, Annaberg-Buchholz, Aue, Bad Schlema, Breitenbrunn/Erzgeb., Crottendorf, Drebach, Ehrenfriedersdorf, Eibenstock, Gelenau/Erzgeb., Großolbersdorf, Großrückerswalde, Grünhain-Beierfeld, Jöhstadt, Johanngeorgenstadt, Lauter-Bernsbach, Lößnitz, Marienberg, Mildenau, Kurort Oberwiesenthal, Olbernhau, Pockau-Lengefeld, Raschau-Markersbach, Schneeberg, Schönheide, Schwarzenberg/Erzgeb., Sehmatal, Stützengrün, Thermalbad Wiesenbad, Thum, Wolkenstein
 
 Verwaltungsgemeinschaft Bärenstein
 
@@ -3834,7 +3838,7 @@ Verwaltungsgemeinschaft Kirchberg
 die Gemeinden
 Crinitzberg, Hartmannsdorf b. Kirchberg, Hirschfeld, Kirchberg
 
-Verwaltungsgemeinschaft Meerane
+Verwaltungsgemeinschaft Meerane-Schönberg
 
 die Gemeinden
 Meerane, Schönberg
@@ -4102,7 +4106,7 @@ Kreisfreie Stadt Darmstadt
 vom Landkreis Darmstadt-Dieburg
 
 die Gemeinden
-Alsbach-Hähnlein, Bickenbach, Eppertshausen, Erzhausen, Griesheim, Messel, Modautal, Mühltal, Münster, Ober-Ramstadt, Pfungstadt, Roßdorf, Seeheim-Jugenheim, Weiterstadt
+Alsbach-Hähnlein, Bickenbach, Eppertshausen, Erzhausen, Griesheim, Messel, Modautal, Mühltal, Münster (Hessen), Ober-Ramstadt, Pfungstadt, Roßdorf, Seeheim-Jugenheim, Weiterstadt
 
 (Übrige Gemeinden s. Wkr. 187)
 
