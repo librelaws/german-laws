@@ -5,13 +5,15 @@ Neuf
 Neugefasst durch Bek. v. 22.1.1982 I 21;
 
 Stand  
-zuletzt geändert durch Art. 1 V v. 21.6.2012 I 1391
+Zuletzt geändert durch Art. 8 G v. 3.12.2015 I 2163
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 1.1.1982 +++)
-(+++ Maßgaben aufgrund EinigVtr vgl. BVG Anhang EV +++)
+(+++ Maßgaben aufgrund EinigVtr vgl. BVG Anhang EV;
+     Maßgaben nicht mehr anzuwenden gem. Art. 1 Nr. 6 Buchst. g DBuchst. aa
+     G v. 21.1.2013 I 91 mWv 29.1.2013 +++)
 ```
 
 Bzgl. der Umstellung von Deutsche Mark auf Euro vgl. § 66a Abs. 6 iVm Bek. v. 15.10.2001 BAnz. Nr. 215 v. 17.11.2001 S. 23573 (Beilage)
@@ -255,8 +257,8 @@ Leistungen der Hilfe zur Pflege nach § 26c einschließlich der Hilfe zur Weiter
 5.  
 die Pflegezulage nach § 35.
 
-Heilbehandlung, Versehrtenleibesübungen und Krankenbehandlung
--------------------------------------------------------------
+- Heilbehandlung, Versehrtenleibesübungen und Krankenbehandlung
+---------------------------------------------------------------
 
 ### 
 
@@ -419,11 +421,11 @@ Bei einzelnen Leistungen können auch die vollen Kosten übernommen werden. Empf
 
 ### § 14
 
-Beschädigte, bei denen Blindheit als Folge einer Schädigung anerkannt ist, erhalten monatlich 151 Euro zum Unterhalt eines Führhunds und als Beihilfe zu den Aufwendungen für fremde Führung.
+Beschädigte, bei denen Blindheit als Folge einer Schädigung anerkannt ist, erhalten monatlich 157 Euro zum Unterhalt eines Führhunds und als Beihilfe zu den Aufwendungen für fremde Führung.
 
 ### § 15
 
-Verursachen die anerkannten Folgen der Schädigung außergewöhnlichen Verschleiß an Kleidung oder Wäsche, so sind die dadurch entstehenden Kosten mit einem monatlichen Pauschbetrag von 19 bis 124 Euro zu ersetzen. Der Pauschbetrag ergibt sich aus der Multiplikation von 1,902 Euro mit der auf Grund einer Rechtsverordnung nach § 24a Buchstabe d für den jeweiligen Verschleißtatbestand festgesetzten Bewertungszahl. Die sich ergebenden Beträge sind bis 0,49 Euro auf volle Euro abzurunden und von 0,50 Euro an auf volle Euro aufzurunden. Übersteigen in besonderen Fällen die tatsächlichen Aufwendungen die höchste Stufe des Pauschbetrags, so sind sie erstattungsfähig.
+Verursachen die anerkannten Folgen der Schädigung außergewöhnlichen Verschleiß an Kleidung oder Wäsche, so sind die dadurch entstehenden Kosten mit einem monatlichen Pauschbetrag von 19 bis 124 Euro zu ersetzen. Der Pauschbetrag ergibt sich aus der Multiplikation von 1,980 Euro mit der auf Grund einer Rechtsverordnung nach § 24a Buchstabe d für den jeweiligen Verschleißtatbestand festgesetzten Bewertungszahl. Die sich ergebenden Beträge sind bis 0,49 Euro auf volle Euro abzurunden und von 0,50 Euro an auf volle Euro aufzurunden. Übersteigen in besonderen Fällen die tatsächlichen Aufwendungen die höchste Stufe des Pauschbetrags, so sind sie erstattungsfähig.
 
 ### § 16
 
@@ -527,7 +529,7 @@ Renten, die aus demselben Anlaß wie die Maßnahmen zur Rehabilitation gewährt 
 
 ### § 16g
 
-(1) Ist ein Arbeitnehmer am Tag nach der Beendigung eines auf einer Dienstpflicht beruhenden Dienstverhältnisses nach dem Wehrpflichtgesetz, dem Zivildienstgesetz oder dem Bundesgrenzschutzgesetz vom 18. August 1972 (BGBl. I S. 1834), das zuletzt durch Artikel 3 des Gesetzes vom 19. Oktober 1994 (BGBl. I S. 2978) geändert worden ist, wegen einer Gesundheitsstörung arbeitsunfähig, so werden dem privaten Arbeitgeber, der auf Grund eines bereits vor dem Beginn des Dienstverhältnisses bestehenden Arbeitsverhältnisses zur Fortzahlung des Arbeitsentgelts im Krankheitsfall verpflichtet ist, das fortgezahlte Arbeitsentgelt, die darauf entfallenden, von dem Arbeitgeber zu tragenden und abgeführten Beiträge zur Sozialversicherung und zur Arbeitsförderung sowie zu Einrichtungen der zusätzlichen Alters- und Hinterbliebenenversorgung erstattet, wenn die Gesundheitsstörung durch eine Schädigung im Sinne der §§ 80 bis 81a des Soldatenversorgungsgesetzes, der §§ 47, 47a des Zivildienstgesetzes oder des § 59 des Bundesgrenzschutzgesetzes vom 18. August 1972 (BGBl. I S. 1834), das zuletzt durch Artikel 3 des Gesetzes vom 19. Oktober 1994 (BGBl. I S. 2978) geändert worden ist, verursacht worden ist. Den in Satz 1 bezeichneten Dienstverhältnissen steht ein Dienstverhältnis eines Soldaten auf Zeit gleich, für das die Dienstzeit zunächst auf sechs Monate oder endgültig auf insgesamt nicht mehr als zwei Jahre festgesetzt worden ist.
+(1) Ist ein Arbeitnehmer am Tag nach der Beendigung eines auf einer Dienstpflicht beruhenden Dienstverhältnisses nach dem Zivildienstgesetz oder dem Bundesgrenzschutzgesetz vom 18. August 1972 (BGBl. I S. 1834), das zuletzt durch Artikel 3 des Gesetzes vom 19. Oktober 1994 (BGBl. I S. 2978) geändert worden ist, wegen einer Gesundheitsstörung arbeitsunfähig, so werden dem privaten Arbeitgeber, der auf Grund eines bereits vor dem Beginn des Dienstverhältnisses bestehenden Arbeitsverhältnisses zur Fortzahlung des Arbeitsentgelts im Krankheitsfall verpflichtet ist, das fortgezahlte Arbeitsentgelt, die darauf entfallenden, von dem Arbeitgeber zu tragenden und abgeführten Beiträge zur Sozialversicherung und zur Arbeitsförderung sowie zu Einrichtungen der zusätzlichen Alters- und Hinterbliebenenversorgung erstattet, wenn die Gesundheitsstörung durch eine Schädigung im Sinne der §§ 47, 47a des Zivildienstgesetzes oder des § 59 des Bundesgrenzschutzgesetzes vom 18. August 1972 (BGBl. I S. 1834), das zuletzt durch Artikel 3 des Gesetzes vom 19. Oktober 1994 (BGBl. I S. 2978) geändert worden ist, verursacht worden ist.
 
 (2) Die Erstattung nach Absatz 1 ist auf den Zeitraum beschränkt, für den der Arbeitgeber zur Fortzahlung des Arbeitsentgelts im Krankheitsfall verpflichtet ist. Der Erstattungszeitraum endet schon früher, wenn die am Tage nach Beendigung des Dienstverhältnisses bestehende Arbeitsunfähigkeit entfällt oder nicht mehr durch die Folgen der Schädigung verursacht wird.
 
@@ -1259,22 +1261,22 @@ wie in besonderen Fällen das Nettoeinkommen abweichend von Absatz 8 Satz 1 Nr. 
 
 |         |                       |
 |---------|-----------------------|
-| von  30 | in Höhe von 127 Euro, |
-| von  40 | in Höhe von 174 Euro, |
-| von  50 | in Höhe von 233 Euro, |
-| von  60 | in Höhe von 295 Euro, |
-| von  70 | in Höhe von 409 Euro, |
-| von  80 | in Höhe von 495 Euro, |
-| von  90 | in Höhe von 595 Euro, |
-| von 100 | in Höhe von 666 Euro. |
+| von  30 | in Höhe von 132 Euro, |
+| von  40 | in Höhe von 181 Euro, |
+| von  50 | in Höhe von 243 Euro, |
+| von  60 | in Höhe von 307 Euro, |
+| von  70 | in Höhe von 426 Euro, |
+| von  80 | in Höhe von 515 Euro, |
+| von  90 | in Höhe von 619 Euro, |
+| von 100 | in Höhe von 693 Euro. |
 
 Die Grundrente erhöht sich für Schwerbeschädigte, die das 65. Lebensjahr vollendet haben, bei einem Grad der Schädigungsfolgen
 
 |                   |             |
 |-------------------|-------------|
-| von 50 und 60     | um 26 Euro, |
-| von 70 und 80     | um 32 Euro, |
-| von mindestens 90 | um 39 Euro. |
+| von 50 und 60     | um 27 Euro, |
+| von 70 und 80     | um 34 Euro, |
+| von mindestens 90 | um 41 Euro. |
 
 (2) Schwerbeschädigung liegt vor, wenn ein Grad der Schädigungsfolgen von mindestens 50 festgestellt ist.
 
@@ -1282,14 +1284,14 @@ Die Grundrente erhöht sich für Schwerbeschädigte, die das 65. Lebensjahr voll
 
 (4) Beschädigte mit einem Grad der Schädigungsfolgen von 100, die durch die anerkannten Schädigungsfolgen gesundheitlich außergewöhnlich betroffen sind, erhalten eine monatliche Schwerstbeschädigtenzulage, die in folgenden Stufen gewährt wird:
 
-|           |           |
-|-----------|-----------|
-| Stufe I   |  77 Euro, |
-| Stufe II  | 159 Euro, |
-| Stufe III | 236 Euro, |
-| Stufe IV  | 316 Euro, |
-| Stufe V   | 394 Euro, |
-| Stufe VI  | 475 Euro. |
+|           |            |
+|-----------|------------|
+| Stufe I   |  80 Euro,  |
+| Stufe II  | 165 Euro,  |
+| Stufe III | 246 Euro,  |
+| Stufe IV  | 329 Euro,  |
+| Stufe V   | 410 Euro,  |
+| Stufe VI  | 494 Euro.  |
 
 Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung den Personenkreis, der durch seine Schädigungsfolgen außergewöhnlich betroffen ist, sowie seine Einordnung in die Stufen I bis VI näher zu bestimmen.
 
@@ -1299,19 +1301,19 @@ Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates durch Recht
 
 (2) Die volle Ausgleichsrente beträgt monatlich bei einem Grad der Schädigungsfolgen
 
-|                 |           |
-|-----------------|-----------|
-| von  50 oder 60 | 409 Euro, |
-| von  70 oder 80 | 495 Euro, |
-| von  90         | 595 Euro, |
-| von 100         | 666 Euro. |
+|                 |            |
+|-----------------|------------|
+| von  50 oder 60 | 426 Euro,  |
+| von  70 oder 80 | 515 Euro,  |
+| von  90         | 619 Euro,  |
+| von 100         | 693 Euro.  |
 
 ### § 33
 
 (1) Die volle Ausgleichsrente ist um das anzurechnende Einkommen zu mindern. Dieses ist, ausgehend vom Bruttoeinkommen, nach der nach Absatz 6 zu erlassenden Rechtsverordnung stufenweise so zu ermitteln, daß
 
 a)  
-bei Einkünften aus gegenwärtiger Erwerbstätigkeit ein Betrag in Höhe von 1,5 vom Hundert sowie bei den übrigen Einkünften ein Betrag in Höhe von 0,65 vom Hundert des Bemessungsbetrags von 28 539 Euro, jeweils auf volle Euro aufgerundet, freibleibt (Freibetrag)und
+bei Einkünften aus gegenwärtiger Erwerbstätigkeit ein Betrag in Höhe von 1,5 vom Hundert sowie bei den übrigen Einkünften ein Betrag in Höhe von 0,65 vom Hundert des Bemessungsbetrags von 29 978 Euro, jeweils auf volle Euro aufgerundet, freibleibt (Freibetrag)und
 
 b)  
 dem Beschädigten mit einem Grad der Schädigungsfolgen von 100 Ausgleichsrente nur zusteht, wenn seine Einkünfte aus gegenwärtiger Erwerbstätigkeit niedriger sind als ein Betrag in Höhe von einem Zwölftel oder seine übrigen Einkünfte niedriger sind als ein Betrag in Höhe von einem Zwanzigstel des in Buchstabe a genannten Bemessungsbetrags, aufgerundet auf volle Euro (Einkommensgrenze); diese Einkommensgrenze schließt auch die Beträge des Bruttoeinkommens ein, die mit den genannten Beträgen die gleiche Stufe gemeinsam haben.
@@ -1348,7 +1350,7 @@ wie das Bruttoeinkommen zu ermitteln ist.
 
 ### § 33a
 
-(1) Schwerbeschädigte erhalten für den Ehegatten oder Lebenspartner einen Zuschlag von 74 Euro monatlich. Den Zuschlag erhalten auch Schwerbeschädigte, deren Ehe oder Lebenspartnerschaft aufgelöst oder für nichtig erklärt worden ist, wenn sie im eigenen Haushalt für ein Kind im Sinne des § 33b Abs. 1 Satz 1 und der Absätze 2 bis 4 sorgen. Steht keine Ausgleichsrente zu, so gilt § 33 entsprechend mit folgender Maßgabe:
+(1) Schwerbeschädigte erhalten für den Ehegatten oder Lebenspartner einen Zuschlag von 77 Euro monatlich. Den Zuschlag erhalten auch Schwerbeschädigte, deren Ehe oder Lebenspartnerschaft aufgelöst oder für nichtig erklärt worden ist, wenn sie im eigenen Haushalt für ein Kind im Sinne des § 33b Abs. 1 Satz 1 und der Absätze 2 bis 4 sorgen. Steht keine Ausgleichsrente zu, so gilt § 33 entsprechend mit folgender Maßgabe:
 
 a)  
 Das anzurechnende Einkommen ist nur insoweit zu berücksichtigen, als es nicht bereits zum Wegfall der Ausgleichsrente geführt hat.
@@ -1384,7 +1386,7 @@ c)
 eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder fortsetzen kann oder
 
 d)  
-ein freiwilliges soziales Jahr oder ein freiwilliges ökologisches Jahr im Sinne des Jugendfreiwilligendienstegesetzes oder einen Freiwilligendienst im Sinne des Beschlusses Nr. 1031/2000/EG des Europäischen Parlaments und des Rates vom 13. April 2000 zur Einführung des gemeinschaftlichen Aktionsprogramms „Jugend“ (ABl. L 117 vom 18.5.2000, S. 1) oder einen anderen Dienst im Ausland im Sinne von § 14b des Zivildienstgesetzes oder einen entwicklungspolitischen Freiwilligendienst „weltwärts“ im Sinne der Richtlinie des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung vom 1. August 2007 (BAnz. 2008 S. 1297) oder einen Freiwilligendienst aller Generationen nach § 2 Absatz 1a des Siebten Buches Sozialgesetzbuch leistet oder
+einen freiwilligen Dienst im Sinne des § 32 Absatz 4 Satz 1 Nummer 2 Buchstabe d des Einkommensteuergesetzes leistet oder
 
 3.  
 wegen körperlicher, geistiger oder seelischer Behinderung spätestens bei Vollendung des 27. Lebensjahres außerstande ist, sich selbst zu unterhalten, solange dieser Zustand dauert, über die Vollendung des 27. Lebensjahres hinaus jedoch nur, wenn sein Ehegatte oder Lebenspartner außerstande ist, es zu unterhalten.
@@ -1420,7 +1422,7 @@ Pflegezulage
 
 ### § 35
 
-(1) Solange Beschädigte infolge der Schädigung hilflos sind, wird eine Pflegezulage von 281 Euro (Stufe I) monatlich gezahlt. Hilflos im Sinne des Satzes 1 sind Beschädigte, wenn sie für eine Reihe von häufig und regelmäßig wiederkehrenden Verrichtungen zur Sicherung ihrer persönlichen Existenz im Ablauf eines jeden Tages fremder Hilfe dauernd bedürfen. Diese Voraussetzungen sind auch erfüllt, wenn die Hilfe in Form einer Überwachung oder Anleitung zu den in Satz 2 genannten Verrichtungen erforderlich ist oder wenn die Hilfe zwar nicht dauernd geleistet werden muß, jedoch eine ständige Bereitschaft zur Hilfeleistung erforderlich ist. Ist die Gesundheitsstörung so schwer, daß sie dauerndes Krankenlager oder dauernd außergewöhnliche Pflege erfordert, so ist die Pflegezulage je nach Lage des Falles unter Berücksichtigung des Umfangs der notwendigen Pflege auf 481, 683, 876, 1 139 oder 1 400 Euro (Stufen II, III, IV, V und VI) zu erhöhen. Für die Ermittlung der Hilflosigkeit und der Stufen der Pflegezulage sind die in der Verordnung zu § 30 Abs. 17 aufgestellten Grundsätze maßgebend. Blinde erhalten mindestens die Pflegezulage nach Stufe III. Hirnbeschädigte mit einem Grad der Schädigungsfolgen von 100 erhalten eine Pflegezulage mindestens nach Stufe I.
+(1) Solange Beschädigte infolge der Schädigung hilflos sind, wird eine Pflegezulage von 293 Euro (Stufe I) monatlich gezahlt. Hilflos im Sinne des Satzes 1 sind Beschädigte, wenn sie für eine Reihe von häufig und regelmäßig wiederkehrenden Verrichtungen zur Sicherung ihrer persönlichen Existenz im Ablauf eines jeden Tages fremder Hilfe dauernd bedürfen. Diese Voraussetzungen sind auch erfüllt, wenn die Hilfe in Form einer Überwachung oder Anleitung zu den in Satz 2 genannten Verrichtungen erforderlich ist oder wenn die Hilfe zwar nicht dauernd geleistet werden muß, jedoch eine ständige Bereitschaft zur Hilfeleistung erforderlich ist. Ist die Gesundheitsstörung so schwer, daß sie dauerndes Krankenlager oder dauernd außergewöhnliche Pflege erfordert, so ist die Pflegezulage je nach Lage des Falles unter Berücksichtigung des Umfangs der notwendigen Pflege auf 500, 711, 912, 1 185 oder 1 457 Euro (Stufen II, III, IV, V und VI) zu erhöhen. Für die Ermittlung der Hilflosigkeit und der Stufen der Pflegezulage sind die in der Verordnung zu § 30 Abs. 17 aufgestellten Grundsätze maßgebend. Blinde erhalten mindestens die Pflegezulage nach Stufe III. Hirnbeschädigte mit einem Grad der Schädigungsfolgen von 100 erhalten eine Pflegezulage mindestens nach Stufe I.
 
 (2) Wird fremde Hilfe im Sinne des Absatzes 1 von Dritten aufgrund eines Arbeitsvertrages geleistet und übersteigen die dafür aufzuwendenden angemessenen Kosten den Betrag der pauschalen Pflegezulage nach Absatz 1, wird die Pflegezulage um den übersteigenden Betrag erhöht. Leben Beschädigte mit ihren Ehegatten, Lebenspartnern oder einem Elternteil in häuslicher Gemeinschaft, ist die Pflegezulage so zu erhöhen, dass sie nur ein Viertel der von ihnen aufzuwendenden angemessenen Kosten aus der pauschalen Pflegezulage zu zahlen haben und ihnen mindestens die Hälfte der pauschalen Pflegezulage verbleibt. In Ausnahmefällen kann der verbleibende Anteil bis zum vollen Betrag der pauschalen Pflegezulage erhöht werden, wenn Ehegatten, Lebenspartner oder ein Elternteil von Pflegezulageempfängern mindestens der Stufe V neben den Dritten in außergewöhnlichem Umfang zusätzliche Hilfe leisten. Entstehen vorübergehend Kosten für fremde Hilfe, insbesondere infolge Krankheit der Pflegeperson, ist die Pflegezulage für jeweils höchstens sechs Wochen über Satz 2 hinaus so zu erhöhen, dass den Beschädigten die pauschale Pflegezulage in derselben Höhe wie vor der vorübergehenden Entstehung der Kosten verbleibt. Die Sätze 2 und 3 gelten nicht, wenn der Ehegatte, Lebenspartner oder Elternteil nicht nur vorübergehend keine Pflegeleistungen erbringt; § 40a Abs. 3 Satz 3 gilt.
 
@@ -1439,11 +1441,11 @@ Bestattungsgeld
 
 ### § 36
 
-(1) Beim Tod eines rentenberechtigten Beschädigten wird ein Bestattungsgeld gewährt. Es beträgt 1 609 Euro, wenn der Tod die Folge einer Schädigung ist, sonst 806 Euro. Der Tod gilt stets dann als Folge einer Schädigung, wenn ein Beschädigter an einem Leiden stirbt, das als Folge einer Schädigung rechtsverbindlich anerkannt und für das ihm im Zeitpunkt des Todes Rente zuerkannt war.
+(1) Beim Tod eines rentenberechtigten Beschädigten wird ein Bestattungsgeld gewährt. Es beträgt 1 674 Euro, wenn der Tod die Folge einer Schädigung ist, sonst 838 Euro. Der Tod gilt stets dann als Folge einer Schädigung, wenn ein Beschädigter an einem Leiden stirbt, das als Folge einer Schädigung rechtsverbindlich anerkannt und für das ihm im Zeitpunkt des Todes Rente zuerkannt war.
 
 (2) Vom Bestattungsgeld werden zunächst die Kosten der Bestattung bestritten und an den gezahlt, der die Bestattung besorgt hat. Das gilt auch, wenn die Kosten der Bestattung aus öffentlichen Mitteln bestritten worden sind. Bleibt ein Überschuß, so sind nacheinander der Ehegatte, der Lebenspartner, die Kinder, die Eltern, die Stiefeltern, die Pflegeeltern, die Enkel, die Großeltern, die Geschwister und die Geschwisterkinder bezugsberechtigt, wenn sie mit dem Verstorbenen zur Zeit des Todes in häuslicher Gemeinschaft gelebt haben. Fehlen solche Berechtigte, so wird der Überschuß nicht ausgezahlt.
 
-(3) Stirbt ein nichtrentenberechtigter Beschädigter an den Folgen einer Schädigung, so ist ein Bestattungsgeld bis zu 1 609 Euro zu zahlen, soweit Kosten der Bestattung entstanden sind.
+(3) Stirbt ein nichtrentenberechtigter Beschädigter an den Folgen einer Schädigung, so ist ein Bestattungsgeld bis zu 1 674 Euro zu zahlen, soweit Kosten der Bestattung entstanden sind.
 
 (4) Eine auf Grund anderer gesetzlicher Vorschriften für denselben Zweck zu gewährende Leistung ist auf das Bestattungsgeld anzurechnen.
 
@@ -1483,9 +1485,7 @@ Hinterbliebenenrente
 
 ### § 40
 
-Die Witwe oder der hinterbliebene Lebenspartner erhält eine Grundrente von 400 Euro monatlich.
-
-§ 40: Nach Maßgabe der Entscheidungsformel mit GG unvereinbar gem. BVerfGE v. 9.11.2004, 2005 I 1047 - 1 BvR 684/98 -
+Die Witwe oder der hinterbliebene Lebenspartner erhält eine Grundrente von 417 Euro monatlich.
 
 ### § 40a
 
@@ -1530,7 +1530,7 @@ für mindestens ein Kind des Verstorbenen im Sinne des § 33b Abs. 2 oder ein ei
 
 Ausgleichsrente kann auch gewährt werden, wenn einer Witwe oder einem hinterbliebenen Lebenspartner aus anderen zwingenden Gründen die Ausübung einer Erwerbstätigkeit nicht möglich ist. Im Falle des Satzes 1 Buchstabe a gilt § 29 entsprechend.
 
-(2) Die volle Ausgleichsrente der Witwe oder des hinterbliebenen Lebenspartners beträgt monatlich 442 Euro.
+(2) Die volle Ausgleichsrente der Witwe oder des hinterbliebenen Lebenspartners beträgt monatlich 459 Euro.
 
 (3) Die volle Ausgleichsrente ist um das anzurechnende Einkommen zu mindern. Dieses ist, ausgehend vom Bruttoeinkommen, nach der nach Satz 4 in Verbindung mit § 33 Abs. 6 zu erlassenden Rechtsverordnung stufenweise so zu ermitteln, daß
 
@@ -1592,7 +1592,7 @@ b)
 sich in einer Übergangszeit von in der Regel höchstens sieben Kalendermonaten befindet, die zwischen zwei Ausbildungsabschnitten oder zwischen einem Ausbildungsabschnitt und der Ableistung des gesetzlichen Wehr- oder Zivildienstes, einem dem Wehr- oder Zivildienst gleichgestellten Dienst oder der Ableistung eines freiwilligen Dienstes im Sinne des Buchstaben c liegt, längstens bis zur Vollendung des 27. Lebensjahres,
 
 c)  
-ein freiwilliges soziales Jahr oder ein freiwilliges ökologisches Jahr im Sinne des Jugendfreiwilligendienstegesetzes oder einen Freiwilligendienst im Sinne des Beschlusses Nr. 1031/2000/EG des Europäischen Parlaments und des Rates vom 13. April 2000 zur Einführung des gemeinschaftlichen Aktionsprogramms „Jugend“ (ABl. L 117 vom 18.5.2000, S. 1) oder einen anderen Dienst im Ausland im Sinne von § 14b des Zivildienstgesetzes oder einen entwicklungspolitischen Freiwilligendienst „weltwärts“ im Sinne der Richtlinie des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung vom 1. August 2007 (BAnz. 2008 S. 1297) oder einen Freiwilligendienst aller Generationen nach § 2 Absatz 1a des Siebten Buches Sozialgesetzbuch leistet, längstens bis zur Vollendung des 27. Lebensjahres,
+einen freiwilligen Dienst im Sinne des § 32 Absatz 4 Satz 1 Nummer 2 Buchstabe d des Einkommensteuergesetzes leistet, längstens bis zur Vollendung des 27. Lebensjahres,
 
 d)  
 infolge körperlicher, geistiger oder seelischer Behinderung spätestens bei Vollendung des 27. Lebensjahres außerstande ist, sich selbst zu unterhalten, solange dieser Zustand dauert, über die Vollendung des 27. Lebensjahres hinaus jedoch nur, wenn ihr Ehegatte oder Lebenspartner außerstande ist, sie zu unterhalten.
@@ -1609,8 +1609,8 @@ Die Grundrente beträgt monatlich
 
 |                |           |
 |----------------|-----------|
-| bei Halbwaisen | 113 Euro, |
-| bei Vollwaisen | 210 Euro. |
+| bei Halbwaisen | 117 Euro, |
+| bei Vollwaisen | 220 Euro. |
 
 ### § 47
 
@@ -1618,8 +1618,8 @@ Die Grundrente beträgt monatlich
 
 |                |           |
 |----------------|-----------|
-| bei Halbwaisen | 198 Euro, |
-| bei Vollwaisen | 275 Euro. |
+| bei Halbwaisen | 206 Euro, |
+| bei Vollwaisen | 287 Euro. |
 
 (2) § 33 gilt mit Ausnahme von Absatz 1 Satz 2 Buchstabe b und Absatz 4 entsprechend.
 
@@ -1688,15 +1688,15 @@ Elternrente erhält, wer voll erwerbsgemindert oder erwerbsunfähig im Sinne des
 
 |                      |           |
 |----------------------|-----------|
-| bei einem Elternpaar | 542 Euro, |
-| bei einem Elternteil | 378 Euro. |
+| bei einem Elternpaar | 564 Euro, |
+| bei einem Elternteil | 393 Euro. |
 
 (2) Sind mehrere Kinder an den Folgen einer Schädigung gestorben, so erhöhen sich die in Absatz 1 genannten Beträge für jedes weitere Kind monatlich
 
-|                         |          |
-|-------------------------|----------|
-| bei einem Elternpaar um | 99 Euro, |
-| bei einem Elternteil um | 74 Euro. |
+|                         |           |
+|-------------------------|-----------|
+| bei einem Elternpaar um | 103 Euro, |
+| bei einem Elternteil um | 77 Euro.  |
 
 Die Erhöhung wird auch gewährt für Kinder, die
 
@@ -1710,8 +1710,8 @@ infolge einer Schädigung im Sinne dieses Gesetzes oder von Gesetzen, die eine e
 
 |                         |           |
 |-------------------------|-----------|
-| bei einem Elternpaar um | 307 Euro, |
-| bei einem Elternteil um | 222 Euro. |
+| bei einem Elternpaar um | 320 Euro, |
+| bei einem Elternteil um | 232 Euro. |
 
 Absatz 2 Satz 2 gilt entsprechend.
 
@@ -1740,7 +1740,7 @@ Bestattungsgeld beim Tod von Hinterbliebenen
 
 ### § 53
 
-Beim Tod von versorgungsberechtigten Hinterbliebenen wird ein Bestattungsgeld nach Maßgabe der Vorschriften des § 36 gewährt. Es beträgt beim Tod einer Witwe oder des hinterbliebenen Lebenspartners, die mindestens ein waisenrenten- oder waisenbeihilfeberechtigtes Kind hinterlassen, 1 609 Euro, in allen übrigen Fällen 806 Euro.
+Beim Tod von versorgungsberechtigten Hinterbliebenen wird ein Bestattungsgeld nach Maßgabe der Vorschriften des § 36 gewährt. Es beträgt beim Tod einer Witwe oder des hinterbliebenen Lebenspartners, die mindestens ein waisenrenten- oder waisenbeihilfeberechtigtes Kind hinterlassen, 1 674 Euro, in allen übrigen Fällen 838 Euro.
 
 ### § 53a Beiträge zur Pflegeversicherung
 
@@ -1785,9 +1785,9 @@ Anpassung der Versorgungsbezüge
 
 ### § 56
 
-(1) Die Leistungen für Blinde (§ 14), der Pauschbetrag als Ersatz für Kleider- und Wäscheverschleiß (§ 15), die Grundrenten und die Schwerstbeschädigtenzulage (§ 31 Absatz 1 und 4, §§ 40 und 46), die Ausgleichs- und Elternrenten (§§ 32, 41, 47 und 51), der Ehegattenzuschlag (§ 33a), die Pflegezulage (§ 35) und das Bestattungsgeld (§§ 36, 53) werden jeweils entsprechend dem Vomhundertsatz angepaßt, um den sich die Renten der gesetzlichen Rentenversicherung verändern. Gleichzeitig wird der Bemessungsbetrag (§ 33 Abs. 1) entsprechend dem Vomhundertsatz angepaßt, um den sich die Bruttolöhne und -gehälter je Arbeitnehmer im Kalenderjahr vor der Anpassung gegenüber dem Vorjahr verändert hat; dabei sind die für die Bestimmung des aktuellen Rentenwerts in der gesetzlichen Rentenversicherung maßgebenden Daten zugrunde zu legen.
+(1) Die Leistungen für Blinde (§ 14), der Pauschbetrag als Ersatz für Kleider- und Wäscheverschleiß (§ 15), die Grundrenten und die Schwerstbeschädigtenzulage (§ 31 Abs. 1 und 5, §§ 40 und 46), die Ausgleichs- und Elternrenten (§§ 32, 41, 47 und 51), der Ehegattenzuschlag (§ 33a), die Pflegezulage (§ 35) und das Bestattungsgeld (§§ 36, 53) werden jeweils entsprechend dem Vomhundertsatz angepaßt, um den sich die Renten der gesetzlichen Rentenversicherung verändern. Gleichzeitig wird der Bemessungsbetrag (§ 33 Abs. 1) entsprechend dem Vomhundertsatz angepaßt, um den sich die Bruttolöhne und -gehälter je Arbeitnehmer im Kalenderjahr vor der Anpassung gegenüber dem Vorjahr verändert hat; dabei sind die für die Bestimmung des aktuellen Rentenwerts in der gesetzlichen Rentenversicherung maßgebenden Daten zugrunde zu legen.
 
-(2) Die Bundesregierung hat durch Rechtsverordnung mit Zustimmung des Bundesrates die in §§ 14, 15, 31 Abs. 1 und 5, 32, 33 Abs 1, 33a, 35, 36, 40, 41, 46, 47, 51 und 53 bestimmten Beträge entsprechend Absatz 1 jeweils zum gleichen Zeitpunkt, zu dem die Renten der gesetzlichen Rentenversicherung angepasst werden, zu ändern. Dabei sind in § 15 die dort genannten Pauschbeträge durch Multiplikation der niedrigsten und der höchsten Bewertungszahl mit dem Multiplikator zu ermitteln. Die sich nach Satz 1 und 2 ergebenden Beträge sind bis 0,49 Euro auf volle Euro abzurunden und ab 0,50 Euro auf volle Euro aufzurunden. Abweichend hiervon ist der Multiplikator in § 15 auf 3 Dezimalstellen nach dem Komma zu runden.
+(2) Die Bundesregierung hat durch Rechtsverordnung mit Zustimmung des Bundesrates die in §§ 14, 15, 31 Absatz 1 und 4, 32, 33 Abs 1, 33a, 35, 36, 40, 41, 46, 47, 51 und 53 bestimmten Beträge entsprechend Absatz 1 jeweils zum gleichen Zeitpunkt, zu dem die Renten der gesetzlichen Rentenversicherung angepasst werden, zu ändern. Dabei sind in § 15 die dort genannten Pauschbeträge durch Multiplikation der niedrigsten und der höchsten Bewertungszahl mit dem Multiplikator zu ermitteln. Die sich nach Satz 1 und 2 ergebenden Beträge sind bis 0,49 Euro auf volle Euro abzurunden und ab 0,50 Euro auf volle Euro aufzurunden. Abweichend hiervon ist der Multiplikator in § 15 auf 3 Dezimalstellen nach dem Komma zu runden.
 
 (3) u. (4) (weggefallen)
 
@@ -1847,8 +1847,8 @@ Der Änderung des Familienstands steht bei Waisen der Tod des Vaters oder der Mu
 
 (weggefallen)
 
-Besondere Vorschriften für Berechtigte außerhalb des Geltungsbereichs dieses Gesetzes
--------------------------------------------------------------------------------------
+- Besondere Vorschriften für Berechtigte außerhalb des Geltungsbereichs dieses Gesetzes
+---------------------------------------------------------------------------------------
 
 ### 
 
@@ -1956,7 +1956,7 @@ Kinderzulagen zur Verletztenrente aus der gesetzlichen Unfallversicherung bleibe
 aus derselben Ursache Ansprüche auf entsprechende Leistungen aus der gesetzlichen Unfallversicherung oder nach den beamtenrechtlichen Vorschriften über die Unfallfürsorge bestehen;
 
 2.  
-Ansprüche auf entsprechende Leistungen nach den Vorschriften über die Heilfürsorge für Angehörige der Bundespolizei und für Soldaten (§ 69 Abs. 2, § 70 Abs. 2 Bundesbesoldungsgesetz und § 1 Abs. 1 Wehrsoldgesetz) und nach den landesrechtlichen Vorschriften für Polizeivollzugsbeamte der Länder bestehen.
+Ansprüche auf entsprechende Leistungen nach den Vorschriften über die Heilfürsorge für Angehörige der Bundespolizei und für Soldaten (§ 69a, § 70 Abs. 2 Bundesbesoldungsgesetz und § 1 Abs. 1 Wehrsoldgesetz) und nach den landesrechtlichen Vorschriften für Polizeivollzugsbeamte der Länder bestehen.
 
 (4) In dem in Artikel 3 des Einigungsvertrages genannten Gebiet führen auch andere Ansprüche, die auf gleicher Ursache beruhen, zu einem Ruhen des Anspruchs auf Versorgungsbezüge. Dies gilt bei der Kriegsbeschädigtenrente, dem Pflegegeld, dem Blindengeld und dem Sonderpflegegeld sowie bei der von einer Kriegsbeschädigtenrente abgeleiteten Hinterbliebenenrente nach dem Rentenangleichungsgesetz vom 28. Juni 1990 (GBl. I Nr. 38 S. 495) für den Betrag, der vom Träger der Rentenversicherung allein auf Grund der Kriegsbeschädigung gezahlt wird.
 
@@ -2192,8 +2192,8 @@ Deutsche im Sinne des Artikels 116 des Grundgesetzes, die in der Zeit vom 18. Ju
 
 (2) Versorgung nach diesem Gesetz kann auch an Vertriebene im Sinne des § 1 des Bundesvertriebenengesetzes, die Deutsche oder deutsche Volkszugehörige sind, gewährt werden, wenn sie nach dem 8. Mai 1945 in Erfüllung ihrer gesetzlichen Wehrpflicht nach den im Vertreibungsgebiet geltenden Vorschriften eine Schädigung im Sinne des § 1 Abs. 1 erlitten haben; das gilt nicht, wenn sie aus derselben Ursache einen Anspruch auf Versorgung gegen das Land, das die Dienstpflicht gefordert hat, haben und diesen Anspruch verwirklichen können. Satz 1 gilt auch für Spätaussiedler im Sinne des § 4 des Bundesvertriebenengesetzes.
 
-Ausschluß der Anrechnung von Versorgungsbezügen auf das Arbeitsentgelt
-----------------------------------------------------------------------
+- Ausschluß der Anrechnung von Versorgungsbezügen auf das Arbeitsentgelt
+------------------------------------------------------------------------
 
 ### 
 
@@ -2269,61 +2269,3 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, den Wortlaut de
 ### § 92 (weggefallen)
 
 -
-
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet K Abschnitt III(BGBl. II 1990, 889, 1067)- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
-
-1.  
-Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), zuletzt geändert durch Artikel 1 des Gesetzes vom 26. Juni 1990 (BGBl. I S. 1211),mit folgenden Maßgaben:
-
-a)  
-Die in den §§ 14, 15, 26c Abs. 6, § 31 Abs. 1 und 5, § 32 Abs. 2, § 33a Abs. 1, § 35 Abs. 1, § 36 Abs. 1 und 3, §§ 40, 40b Abs. 3, § 41 Abs. 2, §§ 46, 47 Abs. 1, § 51 Abs. 1 bis 3 und § 53 in der jeweils geltenden Fassung genannten Deutsche Mark-Beträge sind mit dem Vomhundertsatz zu multiplizieren, der sich aus dem jeweiligen Verhältnis der verfügbaren Standardrente (§ 68 Abs. 3 des Sechsten Buches Sozialgesetzbuch) in dem in Artikel 3 des Vertrages genannten Gebiet zur verfügbaren Standardrente in dem Gebiet, in dem das Bundesversorgungsgesetz schon vor dem Beitritt gegolten hat, ergibt. Dieser Vomhundertsatz gilt auch für den Bemessungsbetrag nach § 33 Abs. 1 Buchstabe a und die nach § 30 Abs. 5 letzter Satz bekanntgemachten Vergleichseinkommen sowie die in § 64e Abs. 7 genannten Rentenleistungen. Der in § 15 Satz 2 genannte Multiplikator ist ebenfalls mit dem in Satz 1 genannten Vomhundertsatz zu multiplizieren. Die sich ergebenden Beträge sind auf volle Deutsche Mark abzurunden, und zwar bis 0,49 Deutsche Mark nach unten und von 0,50 Deutsche Mark an nach oben. Abweichend hiervon ist der Multiplikator in § 15 Satz 2 auf drei Dezimalstellen nach dem Komma zu runden.Der Bundesminister für Arbeit und Sozialordnung gibt den maßgebenden Vomhundertsatz und den Veränderungstermin jeweils im Bundesanzeiger bekannt.
-
-*b)*  
-*§ 16c ist mit folgenden Maßgaben anzuwenden:*:
-
-*aa)*  
-*Das Versorgungskrankengeld erhöht sich nach Absatz 1 Satz 1 erster Halbsatz bis zum 31. Dezember 1991 nach dem Ende des Bemessungszeitraums jeweils in den Zeitabständen und um den Vomhundertsatz wie die Renten in dem in Artikel 3 des Vertrages genannten Gebiet.*.
-
-*bb)*  
-*In Absatz 2 tritt an die Stelle des Wortes "jährlich" das Wort "jeweils".*
-
-*c)*  
-*§ 19 Abs. 2, §§ 22, 26 Abs. 3 Nr. 2 sind mit folgender Maßgabe anzuwenden:An die Stelle der dort genannten rentenrechtlichen Bestimmungen treten die entsprechenden Bestimmungen, die in dem in Artikel 3 des Vertrages genannten Gebiet gelten.*
-
-d)  
-§ 25c ist mit folgenden Maßgaben anzuwenden:
-
-aa)  
-Geldleistungen sind nach Absatz 1 mindestens in der sich nach dem Bundessozialhilfegesetz ergebenden Höhe zu gewähren.
-
-bb)  
-Einkommen und Vermögen sind nach Absatz 2 höchstens in der sich nach dem Bundessozialhilfegesetz ergebenden Höhe einzusetzen.
-
-*e)*  
-*§ 26a Abs. 6 erster Halbsatz ist entsprechend der für § 16c Abs. 1 Satz 1 erster Halbsatz bestimmten Maßgabe anzuwenden.*
-
-f)  
-§ 56 findet von dem Zeitpunkt an Anwendung, zu dem das nach Buchstabe a Satz 1 maßgebene Verhältnis den Wert 100 vom Hundert erreicht.
-
-g)  
-Auch andere als die in § 65 genannten Ansprüche, die auf der gleichen Ursache beruhen, führen zu einem Ruhen des Anspruchs auf Versorgungsbezüge. Dies gilt bei der Kriegsbeschädigtenrente, dem Pflegegeld, dem Blindengeld und dem Sonderpflegegeld sowie bei der von einer Kriegsbeschädigtenrente abgeleiteten Hinterbliebenenrente nach dem Rentenangleichungsgesetz vom 28. Juni 1990 (GBl. I Nr. 38 S. 495) für den Betrag, der vom Träger der Rentenversicherung allein auf Grund der Kriegsbeschädigung gezahlt wird.
-
-h)  
-§ 85 gilt nicht für eine den ursächlichen Zusammenhang verneinende Entscheidung, die nach dem 8. Mai 1945 in dem in Artikel 3 des Vertrages genannten Gebiet getroffen worden ist.
-
-*i)*  
-*Die sich nach diesem Gesetz ergebenden neuen Versorgungsansprüche werden auf Antrag festgestellt. Wird der Antrag bis zum 31. Dezember 1993 gestellt, so beginnen die Versorgungsansprüche mit dem Monat, in dem ihre Voraussetzungen erfüllt sind, frühestens mit dem Monat Januar 1991.*
-
-*k)*  
-*Soweit die Rente eines Beschädigten ohne ärztliche Untersuchung unter Zugrundelegung des bisher anerkannten Grades der Minderung der Erwerbsfähigkeit festgestellt wird, ist eine spätere Neufeststellung der Rente innerhalb von fünf Jahren nach dem 31. Dezember 1990 nicht von einer wesentlichen Änderung im Sinne des § 48 des Zehnten Buches Sozialgesetzbuch abhängig.*
-
-*l)*  
-*Die in den Buchstaben a bis k genannten Maßgaben gelten für Berechtigte, die am 18. Mai 1990 ihren Wohnsitz oder gewöhnlichen Aufenthalt in dem in Artikel 3 des Vertrages genannten Gebiet hatten. Satz 1 gilt entsprechend für Deutsche und deutsche Volkszugehörige aus den in § 1 der Auslandsversorgungsverordnung genannten Staaten, die nach dem 18. Mai 1990 ihren Wohnsitz oder gewöhnlichen Aufenthalt in dem in Artikel 3 des Vertrages genannten Gebiet begründet haben.*
-
-*m)*  
-*Das Bundesversorgungsgesetz findet in dem in Artikel 3 des Vertrages genannten Gebiet mit den vorgenannten Maßgaben vom 1. Januar 1991 an Anwendung.*
-
-...
