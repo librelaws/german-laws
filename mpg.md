@@ -7,6 +7,12 @@ Neugefasst durch Bek. v. 7.8.2002 I 3146;
 Stand  
 zuletzt geändert durch Art. 16 G v. 23.12.2016 I 3191
 
+Hinweis  
+Änderung durch Art. 18 G v. 27.6.2017 I 1966 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 7 G v. 18.7.2017 I 2757 (Nr. 52) berücksichtigt
+
 ### 
 
 Dieses Gesetz dient der Umsetzung
@@ -426,7 +432,7 @@ die Abgrenzung von Medizinprodukten zu anderen Produkten oder
 3.  
 die Einstufung, ob es sich bei Medizinprodukten der Klasse I um solche mit Messfunktion oder um steril in Verkehr gebrachte Medizinprodukte handelt,
 
-hat die Benannte Stelle der zuständigen Behörde die Angelegenheit zur Entscheidung vorzulegen.
+hat die Benannte Stelle der zuständigen Bundesoberbehörde die Angelegenheit zur Entscheidung vorzulegen.
 
 (3) Die zuständige Bundesoberbehörde entscheidet ferner auf Antrag einer zuständigen Behörde oder des Herstellers über
 
