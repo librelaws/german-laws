@@ -5,13 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 22.2.1999 I 202;
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 4.3.2013 I 362
-
-Hinweis  
-Mittelbare Änderung durch Art. 2 G v. 24.4.2013 I 930 (Nr. 20) ist berücksichtigt
-
-Hinweis  
-Änderung durch Art. 3 G v. 24.4.2013 I 930 (Nr. 20) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+zuletzt geändert durch Art. 2 G v. 6.9.2013 I 3556
 
 ### 
 
@@ -19,9 +13,10 @@ Hinweis
 (+++ Textnachweis Geltung ab: 1.4.1983 +++)
 (+++ Zur Anwendung vgl. §§ 4, 6 u. 158 +++)
 (+++ Maßgaben aufgrund EinigVtr vgl. GewO Anhang EV;
-     Maßgaben teilweise nicht mehr anzuwenden gem. Art. 109 Nr. 3 Buchst. a    
+     Maßgaben nicht mehr anzuwenden gem. Art. 109 Nr. 3 Buchst. a    
      DBuchst. bb, Buchst. b DBuchst. aa, ii, Buchst. c DBuchst. aa 
-     G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)
+     G v. 8.12.2010 I 1864 mWv 15.12.2010 und gem. Art. 1 Nr. 6 Buchst. a      
+     DBuchst. aa G v. 21.1.2013 I 91 mWv 29.1.2013 +++)
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
      Umsetzung der
        EGRL 36/2005     (CELEX Nr: 32005L0036) vgl. G v. 12.12.2008 I 2423 +++)
@@ -73,7 +68,10 @@ Hinweis
 | § 30                                                               |
 | § 30a                                                              |
 | § 30b                                                              |
-| §§ 30c bis 33                                                      |
+| § 30c                                                              |
+| § 31                                                               |
+| § 32                                                               |
+| § 33                                                               |
 | § 33a                                                              |
 | § 33b                                                              |
 | § 33c                                                              |
@@ -229,6 +227,7 @@ Hinweis
 | § 156                                                              |
 | § 157                                                              |
 | § 158                                                              |
+| § 159                                                              |
 
 Titel I Allgemeine Bestimmungen
 -------------------------------
@@ -491,7 +490,7 @@ ein Nachweis eines Versicherungsschutzes oder einer anderen Art des individuelle
 
 (2) Soweit in diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung ein Nachweis darüber verlangt wird, dass ein Gewerbetreibender gegen die finanziellen Risiken seiner beruflichen Tätigkeit haftpflichtversichert ist, ist von Gewerbetreibenden aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum als Nachweis eine Bescheinigung über den Abschluss einer Berufshaftpflichtversicherung als hinreichend anzuerkennen, die von einem Kreditinstitut oder einem Versicherungsunternehmen in einem anderen Mitgliedstaat oder Vertragsstaat ausgestellt wurde, sofern die in diesem Staat abgeschlossene Berufshaftpflichtversicherung im Wesentlichen vergleichbar ist zu der, die von Inländern verlangt wird, und zwar hinsichtlich der Zweckbestimmung, der vorgesehenen Deckung bezüglich des versicherten Risikos, der Versicherungssumme und möglicher Ausnahmen von der Deckung. Bei nur teilweiser Gleichwertigkeit kann eine zusätzliche Sicherheit verlangt werden, die die nicht gedeckten Risiken absichert.
 
-(3) Absatz 2 gilt nicht, soweit Tätigkeiten nach den §§ 30, 33c, 33d, 34, 34a, 34c Absatz 1 Satz 1 Nummer 2, den §§ 34d, 34e, 34f oder nach § 60a ausgeübt werden.
+(3) Absatz 2 gilt nicht, soweit Tätigkeiten nach den §§ 30, 31, 33c, 33d, 34, 34a, 34c Absatz 1 Satz 1 Nummer 2, den §§ 34d, 34e, 34f oder nach § 60a ausgeübt werden.
 
 ### § 13c Anerkennung von ausländischen Befähigungsnachweisen
 
@@ -693,7 +692,7 @@ B. Gewerbetreibende, die einer besonderen Genehmigung bedürfen
 (1) Gewerbetreibende oder sonstige Personen,
 
 1.  
-die einer Erlaubnis nach den §§ 30, 33a, 33c, 33d, 33i, 34, 34a, 34b, 34c, 34d, 34e oder 34f bedürfen,
+die einer Erlaubnis nach den §§ 30, 31, 33a, 33c, 33d, 33i, 34, 34a, 34b, 34c, 34d, 34e oder 34f bedürfen,
 
 2.  
 die nach § 34b Abs. 5 oder § 36 öffentlich bestellt sind,
@@ -748,7 +747,7 @@ die Anstalt oder Klinik zur Aufnahme von Personen mit ansteckenden Krankheiten o
 
 ### § 31 Bewachungsgewerbe auf Seeschiffen; Verordnungsermächtigung
 
-*(1) Wer gewerbsmäßig Leben oder Eigentum fremder Personen auf Seeschiffen seewärts der Begrenzung der deutschen ausschließlichen Wirtschaftszone zur Abwehr äußerer Gefahren bewachen will, bedarf hierfür der Zulassung.*
+(1) Wer gewerbsmäßig Leben oder Eigentum fremder Personen auf Seeschiffen seewärts der Begrenzung der deutschen ausschließlichen Wirtschaftszone zur Abwehr äußerer Gefahren bewachen will, bedarf hierfür der Zulassung.
 
 (2) Die Zulassung wird durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle im Benehmen mit der Bundespolizei erteilt. Sie ist zu befristen und kann mit Auflagen verbunden werden, soweit dies zum Schutz der Allgemeinheit oder der Auftraggeber erforderlich ist; unter denselben Voraussetzungen ist auch die nachträgliche Aufnahme, Änderung oder Ergänzung von Auflagen zulässig. Die Zulassung ist im Benehmen mit der Bundespolizei zu versagen, wenn der Antragsteller
 
@@ -799,11 +798,11 @@ die Anforderungen und Verfahren zur Anerkennung von Zulassungen aus anderen Staa
 
 Das Bundesministerium für Wirtschaft und Technologie kann die Ermächtigung nach Satz 1 ganz oder teilweise durch Rechtsverordnung unter Sicherstellung der Einvernehmensregelung auf das Bundesamt für Wirtschaft und Ausfuhrkontrolle übertragen; Rechtsverordnungen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle bedürfen in Abweichung von der Einvernehmensregelung nach Satz 1 nur des Einvernehmens des Bundespolizeipräsidiums und des Bundesamtes für Seeschifffahrt und Hydrographie. Rechtsverordnungen nach den Sätzen 1 und 2 bedürfen der Zustimmung des Bundestages. Hat sich der Bundestag nach Ablauf von drei Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, so gilt die Zustimmung als erteilt.
 
-*(5) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle und die Bundespolizei dürfen einander auch ohne Ersuchen Informationen einschließlich personenbezogener Daten übermitteln, soweit dies zur Erfüllung der Aufgaben nach Absatz 2 erforderlich ist. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle und die Bundespolizei dürfen die übermittelten Informationen nur im Rahmen der gesetzlichen Aufgabenerfüllung nach Absatz 1 verwenden. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle unterrichtet das Bundesamt für Seeschifffahrt und Hydrographie oder die auf Grund einer Rechtsverordnung nach § 3 Absatz 2 oder § 9 Absatz 1 Nummer 7 des Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 26. Juli 2002 (BGBl. I S. 2876), das zuletzt durch Artikel 2 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3069) geändert worden ist, bestimmte Behörde unverzüglich über die Zulassung von Bewachungsunternehmen, über Änderungen, ihre Beendigung sowie über sonstige das Zulassungsverfahren betreffende Tatsachen, soweit dies für die Erfüllung der Aufgaben nach § 1 Nummer 13 des Seeaufgabengesetzes erforderlich ist.*
+(5) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle und die Bundespolizei dürfen einander auch ohne Ersuchen Informationen einschließlich personenbezogener Daten übermitteln, soweit dies zur Erfüllung der Aufgaben nach Absatz 2 erforderlich ist. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle und die Bundespolizei dürfen die übermittelten Informationen nur im Rahmen der gesetzlichen Aufgabenerfüllung nach Absatz 1 verwenden. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle unterrichtet das Bundesamt für Seeschifffahrt und Hydrographie oder die auf Grund einer Rechtsverordnung nach § 3 Absatz 2 oder § 9 Absatz 1 Nummer 7 des Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 26. Juli 2002 (BGBl. I S. 2876), das zuletzt durch Artikel 2 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3069) geändert worden ist, bestimmte Behörde unverzüglich über die Zulassung von Bewachungsunternehmen, über Änderungen, ihre Beendigung sowie über sonstige das Zulassungsverfahren betreffende Tatsachen, soweit dies für die Erfüllung der Aufgaben nach § 1 Nummer 13 des Seeaufgabengesetzes erforderlich ist.
 
-*(6) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle veröffentlicht und aktualisiert auf seiner Webseite regelmäßig eine Liste der nach Absatz 1 zugelassenen Bewachungsunternehmen einschließlich ihrer Anschrift, Telefonnummer und E-Mail-Adresse oder Faxnummer; dazu ist zuvor das Einverständnis der betroffenen Unternehmen einzuholen.*
+(6) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle veröffentlicht und aktualisiert auf seiner Webseite regelmäßig eine Liste der nach Absatz 1 zugelassenen Bewachungsunternehmen einschließlich ihrer Anschrift, Telefonnummer und E-Mail-Adresse oder Faxnummer; dazu ist zuvor das Einverständnis der betroffenen Unternehmen einzuholen.
 
-*(7) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle ist im Zusammenhang mit der Durchführung von § 31 auch für die Durchführung von § 15 Absatz 2, der §§ 29, 46 Absatz 3 und von § 47 zuständig.*
+(7) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle ist im Zusammenhang mit der Durchführung von § 31 auch für die Durchführung von § 15 Absatz 2, der §§ 29, 46 Absatz 3 und von § 47 zuständig.
 
 ### (XXXX) §§ 32 u. 33 (weggefallen)
 
@@ -830,9 +829,18 @@ Die Abhaltung von Tanzlustbarkeiten richtet sich nach den landesrechtlichen Best
 
 (1) Wer gewerbsmäßig Spielgeräte, die mit einer den Spielausgang beeinflussenden technischen Vorrichtung ausgestattet sind, und die die Möglichkeit eines Gewinnes bieten, aufstellen will, bedarf der Erlaubnis der zuständigen Behörde. Die Erlaubnis berechtigt nur zur Aufstellung von Spielgeräten, deren Bauart von der Physikalisch-Technischen Bundesanstalt zugelassen ist. Sie kann mit Auflagen, auch im Hinblick auf den Aufstellungsort, verbunden werden, soweit dies zum Schutze der Allgemeinheit, der Gäste oder der Bewohner des jeweiligen Betriebsgrundstücks oder der Nachbargrundstücke oder im Interesse des Jugendschutzes erforderlich ist; unter denselben Voraussetzungen ist auch die nachträgliche Aufnahme, Änderung und Ergänzung von Auflagen zulässig.
 
-(2) Die Erlaubnis ist zu versagen, wenn Tatsachen die Annahme rechtfertigen, daß der Antragsteller die für die Aufstellung von Spielgeräten erforderliche Zuverlässigkeit nicht besitzt. Die erforderliche Zuverlässigkeit besitzt in der Regel nicht, wer in den letzten drei Jahren vor Stellung des Antrages wegen eines Verbrechens, wegen Diebstahls, Unterschlagung, Erpressung, Hehlerei, Betruges, Untreue, unerlaubter Veranstaltung eines Glücksspiels, Beteiligung am unerlaubten Glücksspiel oder wegen Vergehens nach § 12 des Jugendschutzgesetzes rechtskräftig verurteilt worden ist.
+(2) Die Erlaubnis ist zu versagen, wenn
 
-(3) Der Gewerbetreibende darf Spielgeräte im Sinne des Absatzes 1 nur aufstellen, wenn ihm die zuständige Behörde schriftlich bestätigt hat, daß der Aufstellungsort den auf der Grundlage des § 33f Abs. 1 Nr. 1 erlassenen Durchführungsvorschriften entspricht. Sollen Spielgeräte in einer Gaststätte aufgestellt werden, so ist in der Bestätigung anzugeben, ob dies in einer Schank- oder Speisewirtschaft oder in einem Beherbergungsbetrieb erfolgen soll. Gegenüber dem Gewerbetreibenden und demjenigen, in dessen Betrieb ein Spielgerät aufgestellt worden ist, können von der zuständigen Behörde, in deren Bezirk das Spielgerät aufgestellt worden ist, Anordnungen nach Maßgabe des Absatzes 1 Satz 3 erlassen werden.
+1.  
+Tatsachen die Annahme rechtfertigen, dass der Antragsteller die für die Aufstellung von Spielgeräten erforderliche Zuverlässigkeit nicht besitzt; die erforderliche Zuverlässigkeit besitzt in der Regel nicht, wer in den letzten drei Jahren vor Stellung des Antrages wegen eines Verbrechens, wegen Diebstahls, Unterschlagung, Erpressung, Hehlerei, Geldwäsche, Verschleierung unrechtmäßig erlangter Vermögenswerte, Betruges, Untreue, unerlaubter Veranstaltung eines Glücksspiels, Beteiligung am unerlaubten Glücksspiel oder wegen eines Vergehens nach § 27 des Jugendschutzgesetzes rechtskräftig verurteilt worden ist,
+
+2.  
+der Antragsteller nicht durch eine Bescheinigung einer Industrie- und Handelskammer nachweist, dass er über die für die Ausübung des Gewerbes notwendigen Kenntnisse zum Spieler- und Jugendschutz unterrichtet worden ist, oder
+
+3.  
+der Antragsteller nicht nachweist, dass er über ein Sozialkonzept einer öffentlich anerkannten Institution verfügt, in dem dargelegt wird, mit welchen Maßnahmen den sozialschädlichen Auswirkungen des Glücksspiels vorgebeugt werden soll.
+
+(3) Der Gewerbetreibende darf Spielgeräte im Sinne des Absatzes 1 nur aufstellen, wenn ihm die zuständige Behörde schriftlich bestätigt hat, daß der Aufstellungsort den auf der Grundlage des § 33f Abs. 1 Nr. 1 erlassenen Durchführungsvorschriften entspricht. Sollen Spielgeräte in einer Gaststätte aufgestellt werden, so ist in der Bestätigung anzugeben, ob dies in einer Schank- oder Speisewirtschaft oder in einem Beherbergungsbetrieb erfolgen soll. Gegenüber dem Gewerbetreibenden und demjenigen, in dessen Betrieb ein Spielgerät aufgestellt worden ist, können von der zuständigen Behörde, in deren Bezirk das Spielgerät aufgestellt worden ist, Anordnungen nach Maßgabe des Absatzes 1 Satz 3 erlassen werden. Der Aufsteller darf mit der Aufstellung von Spielgeräten nur Personen beschäftigen, die die Voraussetzungen nach Absatz 2 Nummer 2 erfüllen.
 
 ### § 33d Andere Spiele mit Gewinnmöglichkeit
 
@@ -840,7 +848,7 @@ Die Abhaltung von Tanzlustbarkeiten richtet sich nach den landesrechtlichen Best
 
 (2) Die Erlaubnis darf nur erteilt werden, wenn der Antragsteller im Besitz einer von dem Bundeskriminalamt erteilten Unbedenklichkeitsbescheinigung oder eines Abdruckes der Unbedenklichkeitsbescheinigung ist.
 
-(3) Die Erlaubnis ist zu versagen, wenn Tatsachen die Annahme rechtfertigen, daß der Antragsteller oder der Gewerbetreibende, in dessen Betrieb das Spiel veranstaltet werden soll, die für die Veranstaltung von anderen Spielen erforderliche Zuverlässigkeit nicht besitzt. § 33c Abs. 2 Satz 2 gilt entsprechend.
+(3) Die Erlaubnis ist zu versagen, wenn Tatsachen die Annahme rechtfertigen, daß der Antragsteller oder der Gewerbetreibende, in dessen Betrieb das Spiel veranstaltet werden soll, die für die Veranstaltung von anderen Spielen erforderliche Zuverlässigkeit nicht besitzt. § 33c Absatz 2 Nummer 1 zweiter Halbsatz gilt entsprechend.
 
 (4) Die Erlaubnis ist zurückzunehmen, wenn bei ihrer Erteilung nicht bekannt war, daß Tatsachen der in Absatz 3 bezeichneten Art vorlagen. Die Erlaubnis ist zu widerrufen, wenn
 
@@ -926,7 +934,7 @@ a)
 das Verfahren der Physikalisch-Technischen Bundesanstalt bei der Prüfung und Zulassung der Bauart von Spielgeräten sowie bei der Verlängerung der Aufstelldauer von Warenspielgeräten, die auf Volksfesten, Schützenfesten oder ähnlichen Veranstaltungen aufgestellt werden sollen, und die ihrer Konstruktion nach keine statistischen Prüfmethoden erforderlich machen, regeln und
 
 b)  
-Vorschriften über die Gebühren und Auslagen für Amtshandlungen der Physikalisch-Technischen Bundesanstalt erlassen;
+Vorschriften über die Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen der Physikalisch-Technischen Bundesanstalt erlassen;
 
 2.  
 das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie und mit Zustimmung des Bundesrates
@@ -935,7 +943,7 @@ a)
 das Verfahren des Bundeskriminalamtes bei der Erteilung von Unbedenklichkeitsbescheinigungen regeln und
 
 b)  
-Vorschriften über die Gebühren und Auslagen für Amtshandlungen des Bundeskriminalamtes erlassen.
+Vorschriften über die Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen des Bundeskriminalamtes erlassen.
 
 ### § 33g Einschränkung und Ausdehnung der Erlaubnispflicht
 
@@ -967,7 +975,7 @@ die Veranstaltung anderer Spiele im Sinne des § 33d Abs. 1 Satz 1, die Glückss
 (2) Die Erlaubnis ist zu versagen, wenn
 
 1.  
-die in § 33c Abs. 2 oder § 33d Abs. 3 genannten Versagungsgründe vorliegen,
+die in § 33c Absatz 2 Nummer 1 oder § 33d Absatz 3 genannten Versagungsgründe vorliegen,
 
 2.  
 die zum Betrieb des Gewerbes bestimmten Räume wegen ihrer Beschaffenheit oder Lage den polizeilichen Anforderungen nicht genügen oder
@@ -1222,7 +1230,7 @@ Zweigstellen von Unternehmen mit Sitz in einem anderen Mitgliedstaat der Europä
 4.  
 Verträge, soweit Teilzeitnutzung von Wohngebäuden im Sinne des § 481 des Bürgerlichen Gesetzesbuchs gemäß Absatz 1 Satz 1 Nr. 1 nachgewiesen oder vermittelt wird.
 
-(+++ § 34c Abs. 1 Satz 1 Nr. 1 u. 4: Zur Nichtanwendung vgl. § 4 +++)
+(+++ § 34c Abs. 1 Satz 1 Nr. 1 u. 3: Zur Nichtanwendung vgl. § 4 +++)
 
 ### § 34d Versicherungsvermittler
 
@@ -1343,13 +1351,13 @@ als juristische Person ihren satzungsmäßigen Sitz oder, wenn sie gemäß dem f
 (1) Wer im Umfang der Bereichsausnahme des § 2 Absatz 6 Satz 1 Nummer 8 des Kreditwesengesetzes gewerbsmäßig zu
 
 1.  
-Anteilscheinen einer Kapitalanlagegesellschaft oder Investmentaktiengesellschaft oder von ausländischen Investmentanteilen, die im Geltungsbereich des Investmentgesetzes öffentlich vertrieben werden dürfen,
+Anteile oder Aktien an inländischen offenen Investmentvermögen, offenen EU-Investmentvermögen oder ausländischen offenen Investmentvermögen, die nach dem Kapitalanlagegesetzbuch vertrieben werden dürfen,
 
 2.  
-öffentlich angebotenen Anteilen an geschlossenen Fonds in Form einer Kommanditgesellschaft,
+Anteile oder Aktien an inländischen geschlossenen Investmentvermögen, geschlossenen EU-Investmentvermögen oder ausländischen geschlossenen Investmentvermögen, die nach dem Kapitalanlagegesetzbuch vertrieben werden dürfen,
 
 3.  
-sonstigen Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes
+Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes
 
 Anlageberatung im Sinne des § 1 Absatz 1a Nummer 1a des Kreditwesengesetzes erbringen oder den Abschluss von Verträgen über den Erwerb solcher Finanzanlagen vermitteln will (Finanzanlagenvermittler), bedarf der Erlaubnis der zuständigen Behörde. Die Erlaubnis kann inhaltlich beschränkt oder mit Auflagen verbunden werden, soweit dies zum Schutz der Allgemeinheit oder der Anleger erforderlich ist; unter denselben Voraussetzungen sind auch die nachträgliche Aufnahme, Änderung und Ergänzung von Auflagen zulässig. Die Erlaubnis nach Satz 1 kann auf die Anlageberatung zu und die Vermittlung von Verträgen über den Erwerb von einzelnen Kategorien von Finanzanlagen nach Nummer 1, 2 oder 3 beschränkt werden.
 
@@ -1373,7 +1381,7 @@ der Antragsteller nicht durch eine vor der Industrie- und Handelskammer erfolgre
 Kreditinstitute, für die eine Erlaubnis nach § 32 Absatz 1 des Kreditwesengesetzes erteilt wurde, und Zweigstellen von Unternehmen im Sinne des § 53b Absatz 1 Satz 1 des Kreditwesengesetzes,
 
 2.  
-Kapitalanlagegesellschaften, für die eine Erlaubnis nach § 7 Absatz 1 des Investmentgesetzes erteilt wurde, und Zweigniederlassungen von Unternehmen im Sinne des § 13 Absatz 1 Satz 1 des Investmentgesetzes,
+Kapitalverwaltungsgesellschaften, für die eine Erlaubnis nach § 7 Absatz 1 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung erteilt wurde, die für den in § 345 Absatz 2 Satz 1, Absatz 3 Satz 2 in Verbindung mit Absatz 2 Satz 1, oder Absatz 4 Satz 1 des Kapitalanlagegesetzbuchs vorgesehenen Zeitraum noch fortbesteht oder Kapitalverwaltungsgesellschaften, für die eine Erlaubnis nach den §§ 20, 21 oder §§ 20, 22 des Kapitalanlagegesetzbuchs erteilt wurde, ausländische AIF-Verwaltungsgesellschaften, für die eine Erlaubnis nach § 58 des Kapitalanlagegesetzbuchs erteilt wurde und Zweigniederlassungen von Unternehmen im Sinne von § 51 Absatz 1 Satz 1, § 54 Absatz 1 oder § 66 Absatz 1 des Kapitalanlagegesetzbuchs,
 
 3.  
 Finanzdienstleistungsinstitute in Bezug auf Vermittlungstätigkeiten oder Anlageberatung, für die ihnen eine Erlaubnis nach § 32 Absatz 1 des Kreditwesengesetzes erteilt wurde oder für die eine Erlaubnis nach § 64e Absatz 2, § 64i Absatz 1, § 64m oder § 64n des Kreditwesengesetzes als erteilt gilt,
@@ -1389,7 +1397,7 @@ Gewerbetreibende in Bezug auf Vermittlungs- und Beratungstätigkeiten nach Maßg
 
 ### § 34g Verordnungsermächtigung
 
-(1) Das Bundesministerium für Wirtschaft und Technologie hat im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze der Allgemeinheit und der Anleger Vorschriften zu erlassen über den Umfang der Verpflichtungen des Gewerbetreibenden bei der Ausübung des Gewerbes eines Finanzanlagenvermittlers. Die Rechtsverordnung hat Vorschriften zu enthalten über
+(1) Das Bundesministerium für Wirtschaft und Technologie hat im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze der Allgemeinheit und der Anleger Vorschriften zu erlassen über den Umfang der Verpflichtungen des Gewerbetreibenden bei der Ausübung des Gewerbes eines Finanzanlagenvermittlers und Honorar-Finanzanlagenberaters. Die Rechtsverordnung hat Vorschriften zu enthalten über
 
 1.  
 die Informationspflichten gegenüber dem Anleger, einschließlich einer Pflicht, Provisionen und andere Zuwendungen offenzulegen und dem Anleger ein Informationsblatt über die jeweilige Finanzanlage zur Verfügung zu stellen,
@@ -1398,7 +1406,10 @@ die Informationspflichten gegenüber dem Anleger, einschließlich einer Pflicht,
 die bei dem Anleger einzuholenden Informationen, die erforderlich sind, um diesen anlage- und anlegergerecht zu beraten,
 
 3.  
-die Dokumentationspflichten des Gewerbetreibenden einschließlich einer Pflicht, Beratungsprotokolle zu erstellen und dem Anleger zur Verfügung zu stellen.
+die Dokumentationspflichten des Gewerbetreibenden einschließlich einer Pflicht, Beratungsprotokolle zu erstellen und dem Anleger zur Verfügung zu stellen,
+
+4.  
+die Auskehr der Zuwendungen durch den Honorar-Finanzanlagenberater an den Anleger.
 
 Hinsichtlich der Informations-, Beratungs- und Dokumentationspflichten ist hierbei ein dem Abschnitt 6 des Wertpapierhandelsgesetzes vergleichbares Anlegerschutzniveau herzustellen.
 
@@ -1417,7 +1428,10 @@ zu den Inhalten und dem Verfahren für die Sachkundeprüfung nach § 34f Absatz 
 zum Umfang der und zu inhaltlichen Anforderungen an die nach § 34f Absatz 2 Nummer 3 erforderliche Haftpflichtversicherung, insbesondere über die Höhe der Mindestversicherungssumme, die Bestimmung der zuständigen Behörde im Sinne des § 117 Absatz 2 des Versicherungsvertragsgesetzes, über den Nachweis über das Bestehen der Haftpflichtversicherung und Anzeigepflichten des Versicherungsunternehmens gegenüber den Behörden und den Anlegern,
 
 5.  
-zu den Anforderungen und Verfahren, die zur Durchführung der Richtlinie 2005/36/EG auf Inhaber von Berufsqualifikationen angewendet werden sollen, die in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erworben wurden, sofern diese Personen im Inland vorübergehend oder dauerhaft als Finanzanlagenvermittler tätig werden wollen.
+zu den Anforderungen und Verfahren, die zur Durchführung der Richtlinie 2005/36/EG auf Inhaber von Berufsqualifikationen angewendet werden sollen, die in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erworben wurden, sofern diese Personen im Inland vorübergehend oder dauerhaft als Finanzanlagenvermittler tätig werden wollen,
+
+6.  
+zu der Anforderung nach § 34h Absatz 2 Satz 2, der Empfehlung eine hinreichende Anzahl von auf dem Markt angebotenen Finanzanlagen zu Grunde zu legen.
 
 Außerdem kann der Gewerbetreibende in der Verordnung verpflichtet werden, die Einhaltung der nach Absatz 1 Satz 2 und Absatz 2 Satz 1 Nummer 1, 2 und 4 erlassenen Vorschriften auf seine Kosten regelmäßig sowie aus besonderem Anlass prüfen zu lassen und den Prüfungsbericht der zuständigen Behörde vorzulegen, soweit dies zur wirksamen Überwachung erforderlich ist. Hierbei können die Einzelheiten der Prüfung, insbesondere deren Anlass, Zeitpunkt und Häufigkeit, die Auswahl, Bestellung und Abberufung der Prüfer, deren Rechte, Pflichten und Verantwortlichkeit, der Inhalt des Prüfungsberichts, die Verpflichtungen der Gewerbetreibenden gegenüber dem Prüfer sowie das Verfahren bei Meinungsverschiedenheiten zwischen dem Prüfer und dem Gewerbetreibenden geregelt werden.
 
@@ -1446,7 +1460,7 @@ Absatz 1 Satz 2 bleibt unberührt. Die Entscheidung über ein vorläufiges Beruf
 
 (5) (weggefallen)
 
-(6) Dem Gewerbetreibenden ist von der zuständigen Behörde auf Grund eines an die Behörde zu richtenden schriftlichen Antrages die persönliche Ausübung des Gewerbes wieder zu gestatten, wenn Tatsachen die Annahme rechtfertigen, daß eine Unzuverlässigkeit im Sinne des Absatzes 1 nicht mehr vorliegt. Vor Ablauf eines Jahres nach Durchführung der Untersagungsverfügung kann die Wiederaufnahme nur gestattet werden, wenn hierfür besondere Gründe vorliegen.
+(6) Dem Gewerbetreibenden ist von der zuständigen Behörde auf Grund eines an die Behörde zu richtenden schriftlichen oder elektronischen Antrages die persönliche Ausübung des Gewerbes wieder zu gestatten, wenn Tatsachen die Annahme rechtfertigen, daß eine Unzuverlässigkeit im Sinne des Absatzes 1 nicht mehr vorliegt. Vor Ablauf eines Jahres nach Durchführung der Untersagungsverfügung kann die Wiederaufnahme nur gestattet werden, wenn hierfür besondere Gründe vorliegen.
 
 (7) Zuständig ist die Behörde, in deren Bezirk der Gewerbetreibende eine gewerbliche Niederlassung unterhält oder in den Fällen des Absatzes 2 oder 6 unterhalten will. Bei Fehlen einer gewerblichen Niederlassung sind die Behörden zuständig, in deren Bezirk das Gewerbe ausgeübt wird oder ausgeübt werden soll. Für die Vollstreckung der Gewerbeuntersagung sind auch die Behörden zuständig, in deren Bezirk das Gewerbe ausgeübt wird oder ausgeübt werden soll.
 
@@ -1621,7 +1635,7 @@ Die Befugnisse zum stehenden Gewerbebetrieb können durch Stellvertreter ausgeü
 
 ### § 47 Stellvertretung in besonderen Fällen
 
-Inwiefern für die nach den §§ 33i, 34, 34a, 34b, 34c, 34d, 34e, 34f und 36 konzessionierten oder angestellten Personen eine Stellvertretung zulässig ist, hat in jedem einzelnen Falle die Behörde zu bestimmen, welcher die Konzessionierung oder Anstellung zusteht.
+Inwiefern für die nach den §§ 31, 33i, 34, 34a, 34b, 34c, 34d, 34e, 34f und 36 konzessionierten oder angestellten Personen eine Stellvertretung zulässig ist, hat in jedem einzelnen Falle die Behörde zu bestimmen, welcher die Konzessionierung oder Anstellung zusteht.
 
 ### § 48 Übertragung von Realgewerbeberechtigungen
 
@@ -2599,13 +2613,13 @@ begangen worden ist, wenn die Geldbuße mehr als 200 Euro beträgt,
 4.  
 rechtskräftige strafgerichtliche Verurteilungen wegen einer Straftat nach den §§ 10 und 11 des Schwarzarbeitsbekämpfungsgesetzes, nach den §§ 15 und 15a des Arbeitnehmerüberlassungsgesetzes oder nach § 266a Abs. 1, 2 und 4 des Strafgesetzbuches, die bei oder im Zusammenhang mit der Ausübung eines Gewerbes oder dem Betrieb einer sonstigen wirtschaftlichen Unternehmung begangen worden ist, wenn auf Freiheitsstrafe von mehr als drei Monaten oder Geldstrafe von mehr als 90 Tagessätzen erkannt worden ist.
 
-Von der Eintragung sind Entscheidungen und Verzichte ausgenommen, die nach § 28 des Straßenverkehrsgesetzes in das Verkehrszentralregister einzutragen sind.
+Von der Eintragung sind Entscheidungen und Verzichte ausgenommen, die nach § 28 des Straßenverkehrsgesetzes in das Fahreignungsregister einzutragen sind.
 
 ### § 150 Auskunft auf Antrag des Betroffenen
 
 (1) Auf Antrag erteilt die Registerbehörde einer Person Auskunft über den sie betreffenden Inhalt des Registers.
 
-(2) Der Antrag ist bei der gemäß § 155 Abs. 2 bestimmten Behörde zu stellen. Der Antragsteller hat seine Identität und, wenn er als gesetzlicher Vertreter handelt, seine Vertretungsmacht nachzuweisen; er kann sich bei der Antragstellung nicht durch einen Bevollmächtigten vertreten lassen. Die Behörde nimmt die Gebühr für die Auskunft entgegen, behält davon drei Achtel ein und führt den Restbetrag an die Bundeskasse ab.
+(2) Wohnt der Antragsteller innerhalb des Geltungsbereichs dieses Gesetzes, ist der Antrag bei der nach § 155 Absatz 2 zuständigen Behörde zu stellen; sofern der Antragsteller nicht persönlich erscheint, ist eine schriftliche Antragstellung mit amtlich oder öffentlich beglaubigter Unterschrift des Antragstellers zulässig. Der Antragsteller hat seine Identität und, wenn er als gesetzlicher Vertreter handelt, seine Vertretungsmacht nachzuweisen; er kann sich bei der Antragstellung nicht durch einen Bevollmächtigten vertreten lassen. Die Behörde nimmt die Gebühr für die Auskunft entgegen, behält davon drei Achtel ein und führt den Restbetrag an die Bundeskasse ab.
 
 (3) Wohnt der Antragsteller außerhalb des Geltungsbereichs dieses Gesetzes, so kann er den Antrag unmittelbar bei der Registerbehörde stellen. Absatz 2 Satz 2 gilt entsprechend.
 
@@ -2644,7 +2658,7 @@ von Verwaltungsentscheidungen auf Grund des Straßenverkehrsgesetzes, des Fahrle
 die Vorbereitung von Rechtsvorschriften und allgemeinen Verwaltungsvorschriften, insoweit nur in anonymisierter Form,
 
 4.  
-die Vorbereitung von vergaberechtlichen Entscheidungen über strafgerichtliche Verurteilungen und Bußgeldentscheidungen nach § 21 Abs. 1 des Schwarzarbeitsbekämpfungsgesetzes, § 5 Absatz 1 oder 2 des Arbeitnehmer-Entsendegesetzes in der bis zum 23. April 2009 geltenden Fassung, § 23 Abs. 1 und 2 des Arbeitnehmer-Entsendegesetzes und § 18 Abs. 1 und 2 des Mindestarbeitsbedingungengesetzes,
+die Vorbereitung von vergaberechtlichen Entscheidungen über strafgerichtliche Verurteilungen und Bußgeldentscheidungen nach § 21 Abs. 1 des Schwarzarbeitsbekämpfungsgesetzes, § 5 Absatz 1 oder 2 des Arbeitnehmer-Entsendegesetzes in der bis zum 23. April 2009 geltenden Fassung, § 23 Abs. 1 und 2 des Arbeitnehmer-Entsendegesetzes, § 18 Abs. 1 und 2 des Mindestarbeitsbedingungengesetzes, und § 81 Absatz 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen,
 
 erteilt. Auskunftsberechtigt sind die Behörden und öffentlichen Auftraggeber im Sinne des § 98 Nr. 1 bis 3 und 5 des Gesetzes gegen Wettbewerbsbeschränkungen, denen die in Satz 1 bezeichneten Aufgaben obliegen.
 
@@ -2852,92 +2866,3 @@ Tätigkeiten im Sinne des § 31 Absatz 1 in der ab dem 1. Dezember 2013 geltende
 ### (XXXX) Anlage 1 bis 3 (weggefallen)
 
 (+++ Anlage 1 bis 3: Zur Anwendung vgl. § 158 +++)
-
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiete A, B und C, jeweils Abschnitt III(BGBl. II 1990, 889, 1020, 1026, 1028, 1030)- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
-...
-Sachgebiet A - Abschnitt III
-...
-
-*3.*  
-*Gewerbeordnung in der Fassung der Bekanntmachung vom 1. Januar 1987 (BGBl. I S. 425), zuletzt geändert durch Artikel 18 des Gesetzes vom 28. Juni 1990 (BGBl. I S. 1221),mit folgenden Maßgaben:*
-
-a)  
-Die §§ 105, 113 bis 114d, 115a, 119a, 133c bis 133f sind nicht anzuwenden.
-
-b)  
-In § 119b sind die Worte "§§ 114a bis 119a" durch die Worte "§§ 115, 116 bis 119" zu ersetzen.
-
-...
-Sachgebiet B - Abschnitt III
-...
-
-*1.*  
-*§§ 24 bis 24d der Gewerbeordnung in der Fassung der Bekanntmachung vom 1. Januar 1987 (BGBl. I S. 425), die zuletzt durch Artikel 18 des Gesetzes vom 28. Juni 1990 (BGBl. I S. 1221) geändert worden ist,mit folgenden Maßgaben:*
-
-a)  
-Nicht in § 24 Abs. 3 aufgeführte Anlagen, die nach dem bis zum Wirksamwerden des Beitritts geltenden Recht der Deutschen Demokratischen Republik Anforderungen im Sinne von § 24 Abs. 1 entsprechen müssen und die vor diesem Zeitpunkt errichtet sind oder mit deren Errichtung vor diesem Zeitpunkt begonnen wurde, werden nach dem bisherigen Recht in Betrieb genommen und weiter betrieben. Die Pflicht zur Prüfung durch Sachverständige entfällt ab 1. Januar 1993. Die zuständige Behörde kann Ausnahmen von der Prüfpflicht zulassen; sie kann zusätzliche Maßnahmen verlangen, soweit
-
-aa)  
-die Anlage wesentlich geändert wird,
-
-bb)  
-ihre Nutzung wesentlich geändert wird oder
-
-cc)  
-nach der Art des Betriebes vermeidbare Gefahren für Leben oder Gesundheit der Beschäftigten oder Dritter zu befürchten sind.
-
-Durch Rechtsverordnung der Bundesregierung kann die in Satz 2 genannte Frist verlängert werden. Die Sätze 1 bis 3 gelten entsprechend für in § 24 Abs. 3 aufgeführte Anlagen, für die in einer Rechtsverordnung nach § 24 Abs. 1 Anforderungen nicht festgelegt sind.
-
-b)  
-Bis zum Erlaß von Regelungen nach § 24c Abs. 4 durch die zuständigen Landesregierungen sind die nach dem bis zum Wirksamwerden des Beitritts geltenden Recht der Deutschen Demokratischen Republik amtlich anerkannten Sachverständigen des Amtes für Technische Überwachung Sachverständige im Sinne von § 24c Abs. 1.
-
-c)  
-Bis zur Aufnahme der Aufsichtstätigkeit der zuständigen Landesbehörden ist zuständige Aufsichtsbehörde nach § 24d Satz 1 das Amt für Technische Überwachung.
-
-...
-
-*9.*  
-*§§ 120a bis f, 139b, g, h, i und m der Gewerbeordnung in der Fassung der Bekanntmachung vom 1. Januar 1987 (BGBl. I S. 425), die zuletzt durch Artikel 18 des Gesetzes vom 28. Juni 1990 (BGBl. I S. 1221) geändert worden ist,mit folgenden Maßgaben:*
-
-*a)*  
-*§§ 120a bis f finden bis zur Neugestaltung des Arbeitsschutzrechts durch den gesamtdeutschen Gesetzgeber auch Anwendung auf*
-
-aa)  
-Unternehmen, die nach § 6 Satz 1 vom Anwendungsbereich der Gewerbeordnung ausgenommen sind,
-
-bb)  
-die übrigen freien Berufe,
-
-cc)  
-die Land- und Forstwirtschaft,
-
-dd)  
-die nichtgewerblichen Vereinigungen und Institutionen.
-
-*Auf den öffentlichen Dienst finden diese Vorschriften Anwendung bis zum Erlaß entsprechender Regelungen durch die nach dem Wirksamwerden des Beitritts für den öffentlichen Dienst zuständigen Stellen.*
-
-*b)*  
-*Bei der Erfüllung der Pflichten nach § 120a sind, soweit Vorschriften nach § 120e nicht bestehen, die in der Bundesrepublik Deutschland bekanntgemachten Unfallverhütungsvorschriften sowie die allgemein anerkannten sicherheitstechnischen, arbeitsmedizinischen und hygienischen Regeln zu berücksichtigen. Wird der Arbeitgeber Mitglied eines Unfallversicherungsträgers, der Unfallverhütungsvorschriften erlassen hat, gelten diese. Die Sätze 1 und 2 gelten nicht für Arbeitsräume, Betriebseinrichtungen, Maschinen und Gerätschaften, die vor dem Wirksamwerden des Beitritts errichtet sind oder mit deren Errichtung begonnen ist oder die vor diesem Zeitpunkt in Betrieb genommen sind, wenn ihre Anwendung umfangreiche Änderungen notwendig macht. Die zuständige Behörde kann jedoch verlangen, daß Arbeitsräume, Betriebseinrichtungen, Maschinen und Gerätschaften entsprechend den Unfallverhütungsvorschriften und Regeln geändert werden, soweit*
-
-aa)  
-sie wesentlich geändert werden oder
-
-bb)  
-ihre Nutzung wesentlich geändert wird oder
-
-cc)  
-nach der Art des Betriebes vermeidbare Gefahren für Leben oder Gesundheit der Beschäftigten zu befürchten sind.
-
-c)  
-In dem in Artikel 3 des Vertrages genannten Gebiet werden bis zur Aufnahme der Aufsichtstätigkeit durch die zuständigen Landesbehörden die Aufsichtsaufgaben nach § 139b durch diejenigen staatlichen Stellen wahrgenommen, die für die Kontrolle der Einhaltung der entsprechenden Arbeitsschutzvorschriften nach dem bis zum Wirksamwerden des Beitritts geltenden Recht zuständig waren. Entsprechendes gilt für die in anderen arbeitsschutzrechtlichen Gesetzen und Verordnungen vorgesehenen Aufsichtsaufgaben der zuständigen Landesbehörden.
-
-...
-Sachgebiet C - Abschnitt III
-...
-
-*1.*  
-*§§ 105a bis 105j der Gewerbeordnung in der Fassung der Bekanntmachung vom 1. Januar 1987 (BGBl. I S. 425), die zuletzt durch Artikel 18 des Gesetzes vom 28. Juni 1990 (BGBl. I S. 1221) geändert worden ist,mit folgender Maßgabe:Die Vorschriften sind ab dem 1. Januar 1993 anzuwenden. Bis zu diesem Zeitpunkt gilt das in Anlage II Kapitel VIII Sachgebiet C Abschnitt III Nr. 1 Buchstabe a aufgeführte Recht der Deutschen Demokratischen Republik fort.*
-
-...
