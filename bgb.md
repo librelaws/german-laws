@@ -5,19 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738
 
 Stand  
-Zuletzt geändert durch Art. 4 G v. 4.7.2013 I 1981
-
-Hinweis  
-Änderung durch Art. 1 G v. 4.7.2013 I 2176 (Nr. 36) ist berücksichtigt
-
-Hinweis  
-Änderung durch Art. 3 G v. 28.8.2013 I 3393 (Nr. 53) noch nicht berücksichtigt
-
-Hinweis  
-Änderung durch Art. 6 G v. 28.8.2013 I 3458 (Nr. 53) noch nicht berücksichtigt
-
-Hinweis  
-Änderung durch Art. 1 G v. 20.9.2013 I 3642 (Nr. 58) noch nicht berücksichtigt
+Zuletzt geändert durch Art. 4 Abs. 5 G v. 1.10.2013 I 3719
 
 ### 
 
@@ -7498,6 +7486,8 @@ Artikel 3 bis 5 der Richtlinie 98/26/EG des Europäischen Parlaments und des Rat
 
 (2) Wer einem anderen einen Rat oder eine Empfehlung erteilt, ist, unbeschadet der sich aus einem Vertragsverhältnis, einer unerlaubten Handlung oder einer sonstigen gesetzlichen Bestimmung ergebenden Verantwortlichkeit, zum Ersatz des aus der Befolgung des Rates oder der Empfehlung entstehenden Schadens nicht verpflichtet.
 
+(3) Ein Vertrag, durch den sich der eine Teil verpflichtet, die Anmeldung oder Registrierung des anderen Teils zur Teilnahme an Gewinnspielen zu bewirken, die von einem Dritten durchgeführt werden, bedarf der Textform.
+
 ### § 675a Informationspflichten
 
 Wer zur Besorgung von Geschäften öffentlich bestellt ist oder sich dazu öffentlich erboten hat, stellt für regelmäßig anfallende standardisierte Geschäftsvorgänge (Standardgeschäfte) schriftlich, in geeigneten Fällen auch elektronisch, unentgeltlich Informationen über Entgelte und Auslagen der Geschäftsbesorgung zur Verfügung, soweit nicht eine Preisfestsetzung nach § 315 erfolgt oder die Entgelte und Auslagen gesetzlich verbindlich geregelt sind.
@@ -8990,7 +8980,7 @@ Abschnitt 2 Allgemeine Vorschriften über Rechte an Grundstücken
 
 ### § 874 Bezugnahme auf die Eintragungsbewilligung
 
-Bei der Eintragung eines Rechts, mit dem ein Grundstück belastet wird, kann zur näheren Bezeichnung des Inhalts des Rechts auf die Eintragungsbewilligung Bezug genommen werden, soweit nicht das Gesetz ein anderes vorschreibt.
+Bei der Eintragung eines Rechts, mit dem ein Grundstück belastet wird, kann zur näheren Bezeichnung des Inhalts des Rechts auf die Eintragungsbewilligung Bezug genommen werden, soweit nicht das Gesetz ein anderes vorschreibt. Einer Bezugnahme auf die Eintragungsbewilligung steht die Bezugnahme auf die bisherige Eintragung nach § 44 Absatz 3 Satz 2 der Grundbuchordnung gleich.
 
 ### § 875 Aufhebung eines Rechts
 
@@ -11583,7 +11573,7 @@ Titel 5 Wirkungen der Ehe im Allgemeinen
 
 (3) Die Erklärung über die Bestimmung des Ehenamens soll bei der Eheschließung erfolgen. Wird die Erklärung später abgegeben, so muss sie öffentlich beglaubigt werden.
 
-(4) Ein Ehegatte, dessen Name nicht Ehename wird, kann durch Erklärung gegenüber dem Standesamt dem Ehenamen seinen Geburtsnamen oder den zur Zeit der Erklärung über die Bestimmung des Ehenamens geführten Namen voranstellen oder anfügen. Dies gilt nicht, wenn der Ehename aus mehreren Namen besteht. Besteht der Name eines Ehegatten aus mehreren Namen, so kann nur einer dieser Namen hinzugefügt werden. Die Erklärung kann gegenüber dem Standesamt widerrufen werden; in diesem Falle ist eine erneute Erklärung nach Satz 1 nicht zulässig. Die Erklärung und der Widerruf müssen öffentlich beglaubigt werden.
+(4) Ein Ehegatte, dessen Name nicht Ehename wird, kann durch Erklärung gegenüber dem Standesamt dem Ehenamen seinen Geburtsnamen oder den zur Zeit der Erklärung über die Bestimmung des Ehenamens geführten Namen voranstellen oder anfügen. Dies gilt nicht, wenn der Ehename aus mehreren Namen besteht. Besteht der Name eines Ehegatten aus mehreren Namen, so kann nur einer dieser Namen hinzugefügt werden. Die Erklärung kann gegenüber dem Standesamt widerrufen werden; in diesem Falle ist eine erneute Erklärung nach Satz 1 nicht zulässig. Die Erklärung, wenn sie nicht bei der Eheschließung gegenüber einem deutschen Standesamt abgegeben wird, und der Widerruf müssen öffentlich beglaubigt werden.
 
 (5) Der verwitwete oder geschiedene Ehegatte behält den Ehenamen. Er kann durch Erklärung gegenüber dem Standesamt seinen Geburtsnamen oder den Namen wieder annehmen, den er bis zur Bestimmung des Ehenamens geführt hat, oder dem Ehenamen seinen Geburtsnamen oder den zur Zeit der Bestimmung des Ehenamens geführten Namen voranstellen oder anfügen. Absatz 4 gilt entsprechend.
 
@@ -13174,8 +13164,8 @@ die Mutter,
 4.  
 das Kind und
 
-5.  
-die zuständige Behörde (anfechtungsberechtigte Behörde) in den Fällen des § 1592 Nr. 2.
+*5.*  
+*die zuständige Behörde (anfechtungsberechtigte Behörde) in den Fällen des § 1592 Nr. 2.*
 
 (2) Die Anfechtung nach Absatz 1 Nr. 2 setzt voraus, dass zwischen dem Kind und seinem Vater im Sinne von Absatz 1 Nr. 1 keine sozial-familiäre Beziehung besteht oder im Zeitpunkt seines Todes bestanden hat und dass der Anfechtende leiblicher Vater des Kindes ist.
 
@@ -13186,6 +13176,8 @@ die zuständige Behörde (anfechtungsberechtigte Behörde) in den Fällen des §
 (5) Ist das Kind mit Einwilligung des Mannes und der Mutter durch künstliche Befruchtung mittels Samenspende eines Dritten gezeugt worden, so ist die Anfechtung der Vaterschaft durch den Mann oder die Mutter ausgeschlossen.
 
 (6) Die Landesregierungen werden ermächtigt, die Behörden nach Absatz 1 Nr. 5 durch Rechtsverordnung zu bestimmen. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf die zuständigen obersten Landesbehörden übertragen. Ist eine örtliche Zuständigkeit der Behörde nach diesen Vorschriften nicht begründet, so wird die Zuständigkeit durch den Sitz des Gerichts bestimmt, das für die Klage zuständig ist.
+
+§ 1600 Abs. 1 Nr. 5 Kursivdruck: Eingef. durch Art. 1 Nr. 1 Buchst. a DBuchst. cc G v. 13.3.2008 I 313 mWv 1.6.2008; Verstoß gegen Art. 16 Abs. 1, Art. 6 Abs. 2 Satz 1, Art. 2 Abs. 1 iVm Art. 6 Abs. 2 Satz 1, Art. 6 Abs. 1 GG (100-1) und nichtig gem. BVerfGE v. 17.12.2013; 2014 I 110 - 1 BvL 6/10 -
 
 ### § 1600a Persönliche Anfechtung; Anfechtung bei fehlender oder beschränkter Geschäftsfähigkeit
 
