@@ -8,7 +8,7 @@ Stand
 zuletzt geändert durch Art. 6 G v. 17.7.2017 I 2509
 
 Hinweis  
-Änderung durch Art. 4e G v. 18.12.2018 I 2651 (Nr. 48) mWv 1.5.2019 noch nicht berücksichtigt
+Änderung durch Art. 4e G v. 18.12.2018 I 2651 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
