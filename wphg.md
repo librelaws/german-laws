@@ -5,10 +5,31 @@ Neuf
 Neugefasst durch Bek. v. 9.9.1998 I 2708;
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 20.11.2015 I 2029
+zuletzt geändert durch Art. 2 G v. 30.6.2016 I 1514
 
 Hinweis  
-Änderung durch Art. 6 G v. 31.3.2016 I 518 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 6 G v. 11.4.2017 I 802 (Nr. 20) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 1 G v. 23.6.2017 I 1693 (Nr. 39) mWv 25.6.2017 bzw. 3.1.2018 noch nicht berücksichtigt
+
+Hinweis  
+Änderung durch Art. 2 G v. 23.6.2017 I 1693 (Nr. 39) mWv 26.6.2017 bzw. 1.1.2018 noch nicht berücksichtigt
+
+Hinweis  
+Änderung durch Art. 3 G v. 23.6.2017 I 1693 (Nr. 39) mWv 25.6.2017 bzw. 3.1.2018 noch nicht berücksichtigt
+
+Hinweis  
+Änderung durch Art. 3a G v. 23.6.2017 I 1693 (Nr. 39) mWv 25.6.2017 bzw. 1.7.2018 noch nicht berücksichtigt
+
+Sonst  
+Mittelbare Änderung durch Art. 23 G v. 23.6.2017 I 1693 (Nr. 39) mWv 25.6.2017 noch nicht berücksichtigt
+
+Hinweis  
+Mittelbare Änderung durch Art. 12 G v. 17.7.2017 I 2446 mWv 22.7.2017 (Nr. 48) noch nicht berücksichtigt
+
+Hinweis  
+Änderung durch Art. 14 G v. 17.8.2017 I 3202 mWv 24.8.2017 (Nr. 58) noch nicht berücksichtigt
 
 ### 
 
@@ -38,197 +59,653 @@ Das G wurde als Artikel 1 G 4110-4/1 v. 26.7.1994 I 1749 vom Bundestag mit Zusti
 
 ### Inhaltsübersicht
 
-|                                                                                                                    |
-|--------------------------------------------------------------------------------------------------------------------|
-| Abschnitt 1                                                                                                        |
-| Anwendungsbereich, Begriffsbestimmungen                                                                            |
-| § 1                                                                                                                |
-| § 2                                                                                                                |
-| § 2a                                                                                                               |
-| § 2b                                                                                                               |
-| § 2c                                                                                                               |
-|                                                                                                                    |
-| Abschnitt 2                                                                                                        |
-| Bundesanstalt für Finanzdienstleistungsaufsicht                                                                    |
-| § 3                                                                                                                |
-| § 4                                                                                                                |
-| § 4a                                                                                                               |
-| § 4b                                                                                                               |
-| § 5                                                                                                                |
-| § 6                                                                                                                |
-| § 7                                                                                                                |
-| § 7a                                                                                                               |
-| § 7b                                                                                                               |
-| § 8                                                                                                                |
-| § 9                                                                                                                |
-| § 10                                                                                                               |
-| § 11                                                                                                               |
-|                                                                                                                    |
-| Abschnitt 3                                                                                                        |
-| Insiderüberwachung                                                                                                 |
-| § 12                                                                                                               |
-| § 13                                                                                                               |
-| § 14                                                                                                               |
-| § 15                                                                                                               |
-| § 15a                                                                                                              |
-| § 15b                                                                                                              |
-| § 16                                                                                                               |
-| § 16a                                                                                                              |
-| § 16b                                                                                                              |
-|                                                                                                                    |
-| Abschnitt 3a                                                                                                       |
-| Ratingagenturen                                                                                                    |
-| § 17                                                                                                               |
-|                                                                                                                    |
-| Abschnitt 3b                                                                                                       |
-| OTC-Derivate und Transaktionsregister                                                                              |
-| § 18                                                                                                               |
-| § 19                                                                                                               |
-| § 20                                                                                                               |
-|                                                                                                                    |
-| Abschnitt 4                                                                                                        |
-| Überwachung des Verbots der Marktmanipulation                                                                      |
-| § 20a                                                                                                              |
-| § 20b                                                                                                              |
-|                                                                                                                    |
-| Abschnitt 5                                                                                                        |
-| Mitteilung, Veröffentlichung und Übermittlung von Veränderungen des Stimmrechtsanteils an das Unternehmensregister |
-| § 21                                                                                                               |
-| § 22                                                                                                               |
-| § 22a                                                                                                              |
-| § 23                                                                                                               |
-| § 24                                                                                                               |
-| § 25                                                                                                               |
-| § 25a                                                                                                              |
-| § 26                                                                                                               |
-| § 26a                                                                                                              |
-| § 27                                                                                                               |
-| § 27a                                                                                                              |
-| § 28                                                                                                               |
-| § 29                                                                                                               |
-| § 29a                                                                                                              |
-| § 30                                                                                                               |
-|                                                                                                                    |
-| Abschnitt 5a                                                                                                       |
-| Notwendige Informationen für die Wahrnehmung von Rechten aus Wertpapieren                                          |
-| § 30a                                                                                                              |
-| § 30b                                                                                                              |
-| § 30c                                                                                                              |
-| § 30d                                                                                                              |
-| § 30e                                                                                                              |
-| § 30f                                                                                                              |
-| § 30g                                                                                                              |
-|                                                                                                                    |
-| Abschnitt 5b                                                                                                       |
-| Leerverkäufe und Geschäfte in Derivaten                                                                            |
-| § 30h                                                                                                              |
-| §§ 30i und 30j                                                                                                     |
-|                                                                                                                    |
-| Abschnitt 6                                                                                                        |
-| Verhaltenspflichten, Organisationspflichten, Transparenzpflichten                                                  |
-| § 31                                                                                                               |
-| § 31a                                                                                                              |
-| § 31b                                                                                                              |
-| § 31c                                                                                                              |
-| § 31d                                                                                                              |
-| § 31e                                                                                                              |
-| § 31f                                                                                                              |
-| § 31g                                                                                                              |
-| § 31h                                                                                                              |
-| § 32                                                                                                               |
-| § 32a                                                                                                              |
-| § 32b                                                                                                              |
-| § 32c                                                                                                              |
-| § 32d                                                                                                              |
-| § 33                                                                                                               |
-| § 33a                                                                                                              |
-| § 33b                                                                                                              |
-| § 34                                                                                                               |
-| § 34a                                                                                                              |
-| § 34b                                                                                                              |
-| § 34c                                                                                                              |
-| § 34d                                                                                                              |
-| § 35                                                                                                               |
-| § 36                                                                                                               |
-| § 36a                                                                                                              |
-| § 36b                                                                                                              |
-| § 36c                                                                                                              |
-| § 36d                                                                                                              |
-| § 37                                                                                                               |
-| § 37a                                                                                                              |
-|                                                                                                                    |
-| Abschnitt 7                                                                                                        |
-| Haftung für falsche und unterlassene Kapitalmarktinformationen                                                     |
-| § 37b                                                                                                              |
-| § 37c                                                                                                              |
-|                                                                                                                    |
-| Abschnitt 8                                                                                                        |
-| Finanztermingeschäfte                                                                                              |
-| § 37d                                                                                                              |
-| § 37e                                                                                                              |
-| § 37f                                                                                                              |
-| § 37g                                                                                                              |
-|                                                                                                                    |
-| Abschnitt 9                                                                                                        |
-| Schiedsvereinbarungen                                                                                              |
-| § 37h                                                                                                              |
-|                                                                                                                    |
-| Abschnitt 10                                                                                                       |
-| Märkte für Finanzinstrumente mit Sitz außerhalb der Europäischen Union                                             |
-| § 37i                                                                                                              |
-| § 37j                                                                                                              |
-| § 37k                                                                                                              |
-| § 37l                                                                                                              |
-| § 37m                                                                                                              |
-|                                                                                                                    |
-| Abschnitt 11                                                                                                       |
-| Überwachung von Unternehmensabschlüssen, Veröffentlichung von Finanzberichten                                      |
-|                                                                                                                    |
-|   Unterabschnitt 1                                                                                                 |
-|   Überwachung von Unternehmensabschlüssen                                                                          |
-| § 37n                                                                                                              |
-| § 37o                                                                                                              |
-| § 37p                                                                                                              |
-| § 37q                                                                                                              |
-| § 37r                                                                                                              |
-| § 37s                                                                                                              |
-| § 37t                                                                                                              |
-| § 37u                                                                                                              |
-|                                                                                                                    |
-|   Unterabschnitt 2                                                                                                 |
-|   Veröffentlichung und Übermittlung von Finanzberichten an das Unternehmensregister                                |
-| § 37v                                                                                                              |
-| § 37w                                                                                                              |
-| § 37x                                                                                                              |
-| § 37y                                                                                                              |
-| § 37z                                                                                                              |
-|                                                                                                                    |
-| Abschnitt 12                                                                                                       |
-| Straf- und Bußgeldvorschriften                                                                                     |
-| § 38                                                                                                               |
-| § 39                                                                                                               |
-| § 40                                                                                                               |
-| § 40a                                                                                                              |
-| § 40b                                                                                                              |
-| § 40c                                                                                                              |
-|                                                                                                                    |
-| Abschnitt 13                                                                                                       |
-| Übergangsbestimmungen                                                                                              |
-| § 41                                                                                                               |
-| § 41a                                                                                                              |
-| § 42                                                                                                               |
-| § 42a                                                                                                              |
-| § 42b                                                                                                              |
-| § 42c                                                                                                              |
-| § 42d                                                                                                              |
-| § 42e                                                                                                              |
-| § 43                                                                                                               |
-| § 44                                                                                                               |
-| § 45                                                                                                               |
-| § 46                                                                                                               |
-| § 47                                                                                                               |
-| § 48                                                                                                               |
-| § 49                                                                                                               |
+Abschnitt 1
+
+Anwendungsbereich, Begriffsbestimmungen
+
+§ 1
+
+Anwendungsbereich
+
+§ 2
+
+Begriffsbestimmungen
+
+§ 2a
+
+Ausnahmen
+
+§ 2b
+
+Wahl des Herkunftsstaates; Verordnungsermächtigung
+
+§ 2c
+
+Veröffentlichung des Herkunftsstaates; Verordnungsermächtigung
+
+ 
+
+Abschnitt 2
+
+Bundesanstalt für Finanzdienstleistungsaufsicht
+
+§ 3
+
+(weggefallen)
+
+§ 4
+
+Aufgaben und Befugnisse; Verordnungsermächtigung
+
+§ 4a
+
+Befugnisse zur Sicherung des Finanzsystems
+
+§ 4b
+
+Produktintervention
+
+§ 5
+
+Wertpapierrat
+
+§ 6
+
+Zusammenarbeit mit anderen Behörden im Inland
+
+§ 7
+
+Zusammenarbeit mit zuständigen Stellen im Ausland
+
+§ 7a
+
+Zusammenarbeit mit der Europäischen Wertpapier- und Marktaufsichtsbehörde
+
+§ 7b
+
+Zusammenarbeit mit der Europäischen Kommission im Rahmen des Energiewirtschaftsgesetzes
+
+§ 8
+
+Verschwiegenheitspflicht
+
+§ 9
+
+Meldepflichten
+
+§ 10
+
+Anzeige von Verdachtsfällen
+
+§ 11
+
+Verpflichtung des Insolvenzverwalters
+
+ 
+
+Abschnitt 3
+
+Marktmissbrauchsüberwachung
+
+§ 12
+
+Anwendung der Verordnung (EU) Nr. 596/2014 auf Waren, Emissionsberechtigungen und ausländische Zahlungsmittel
+
+§ 13
+
+(weggefallen)
+
+§ 14
+
+(weggefallen)
+
+§ 15
+
+Übermittlung von Insiderinformationen und von Eigengeschäften; Rechtsverordnung
+
+§ 15a
+
+(weggefallen)
+
+§ 15b
+
+(weggefallen)
+
+§ 16
+
+Aufzeichnungspflichten
+
+§ 16a
+
+Überwachung der Geschäfte der bei der Bundesanstalt Beschäftigten
+
+§ 16b
+
+(weggefallen)
+
+Abschnitt 3a
+
+Ratingagenturen
+
+§ 17
+
+Zuständigkeit im Sinne der Verordnung (EG) Nr. 1060/2009
+
+Abschnitt 4
+
+OTC-Derivate und Transaktionsregister
+
+§ 18
+
+Überwachung des Clearings von OTC-Derivaten und Aufsicht über Transaktionsregister
+
+§ 19
+
+Mitteilungspflichten nichtfinanzieller Gegenparteien
+
+§ 20
+
+Prüfung der Einhaltung bestimmter Pflichten der Verordnung (EU) Nr. 648/2012
+
+§ 20a
+
+(weggefallen)
+
+§ 20b
+
+(weggefallen)
+
+ 
+
+Abschnitt 5
+
+Mitteilung, Veröffentlichung und Übermittlung von Veränderungen des Stimmrechtsanteils an das Unternehmensregister
+
+§ 21
+
+Mitteilungspflichten des Meldepflichtigen; Verordnungsermächtigung
+
+§ 22
+
+Zurechnung von Stimmrechten
+
+§ 22a
+
+Tochterunternehmenseigenschaft; Verordnungsermächtigung
+
+§ 23
+
+Nichtberücksichtigung von Stimmrechten
+
+§ 24
+
+Mitteilung durch Mutterunternehmen; Verordnungsermächtigung
+
+§ 25
+
+Mitteilungspflichten beim Halten von Instrumenten; Verordnungsermächtigung
+
+§ 25a
+
+Mitteilungspflichten bei Zusammenrechnung; Verordnungsermächtigung
+
+§ 26
+
+Veröffentlichungspflichten des Emittenten und Übermittlung an das Unternehmensregister
+
+§ 26a
+
+Veröffentlichung der Gesamtzahl der Stimmrechte und Übermittlung an das Unternehmensregister
+
+§ 27
+
+Nachweis mitgeteilter Beteiligungen
+
+§ 27a
+
+Mitteilungspflichten für Inhaber wesentlicher Beteiligungen
+
+§ 28
+
+Rechtsverlust
+
+§ 29
+
+Richtlinien der Bundesanstalt
+
+§ 29a
+
+Befreiungen; Verordnungsermächtigung
+
+§ 30
+
+Handelstage
+
+ 
+
+Abschnitt 5a
+
+Notwendige Informationen für die Wahrnehmung von Rechten aus Wertpapieren
+
+§ 30a
+
+Pflichten der Emittenten gegenüber Wertpapierinhabern
+
+§ 30b
+
+Veröffentlichung von Mitteilungen und Übermittlung im Wege der Datenfernübertragung
+
+§ 30c
+
+(weggefallen)
+
+§ 30d
+
+(weggefallen)
+
+§ 30e
+
+Veröffentlichung zusätzlicher Angaben und Übermittlung an das Unternehmensregister; Verordnungsermächtigung
+
+§ 30f
+
+Befreiung
+
+§ 30g
+
+Ausschluss der Anfechtung
+
+Abschnitt 5b
+
+Leerverkäufe und Geschäfte in Derivaten
+
+§ 30h
+
+Überwachung von Leerverkäufen
+
+§§ 30i und 30j
+
+(weggefallen)
+
+ 
+
+Abschnitt 6
+
+Verhaltenspflichten, Organisationspflichten, Transparenzpflichten
+
+§ 31
+
+Allgemeine Verhaltensregeln
+
+§ 31a
+
+Kunden
+
+§ 31b
+
+Geschäfte mit geeigneten Gegenparteien
+
+§ 31c
+
+Bearbeitung von Kundenaufträgen
+
+§ 31d
+
+Zuwendungen
+
+§ 31e
+
+Erbringung von Wertpapierdienstleistungen und Wertpapiernebendienstleistungen über ein anderes Wertpapierdienstleistungsunternehmen
+
+§ 31f
+
+Betrieb eines multilateralen Handelssystems
+
+§ 31g
+
+Vor- und Nachhandelstransparenz für multilaterale Handelssysteme
+
+§ 31h
+
+Veröffentlichungspflichten von Wertpapierdienstleistungsunternehmen nach dem Handel
+
+§ 32
+
+Systematische Internalisierung
+
+§ 32a
+
+Veröffentlichen von Quotes durch systematische Internalisierer
+
+§ 32b
+
+Bestimmung der standardmäßigen Marktgröße und Aufgaben der Bundesanstalt
+
+§ 32c
+
+Ausführung von Kundenaufträgen durch systematische Internalisierer
+
+§ 32d
+
+Zugang zu Quotes, Geschäftsbedingungen bei systematischer Internalisierung
+
+§ 33
+
+Organisationspflichten
+
+§ 33a
+
+Bestmögliche Ausführung von Kundenaufträgen
+
+§ 33b
+
+Mitarbeiter und Mitarbeitergeschäfte
+
+§ 34
+
+Aufzeichnungs- und Aufbewahrungspflicht
+
+§ 34a
+
+Getrennte Vermögensverwahrung
+
+§ 34b
+
+Anlagestrategieempfehlungen und Anlageempfehlungen; Rechtsverordnung
+
+§ 34c
+
+Anzeigepflicht
+
+§ 34d
+
+Einsatz von Mitarbeitern in der Anlageberatung, als Vertriebsbeauftragte oder als Compliance-Beauftragte
+
+§ 35
+
+Überwachung der Meldepflichtigen und Verhaltensregeln
+
+§ 36
+
+Prüfung der Meldepflichtigen und Verhaltensregeln
+
+§ 36a
+
+Unternehmen, organisierte Märkte und multilaterale Handelssysteme mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+
+§ 36b
+
+Werbung der Wertpapierdienstleistungsunternehmen
+
+§ 36c
+
+Register über Honorar-Anlageberater
+
+§ 36d
+
+Bezeichnungen zur Honorar-Anlageberatung
+
+§ 37
+
+Ausnahmen
+
+§ 37a
+
+(weggefallen)
+
+ 
+
+Abschnitt 7
+
+Haftung für falsche und unterlassene Kapitalmarktinformationen
+
+§ 37b
+
+Schadenersatz wegen unterlassener unverzüglicher Veröffentlichung von Insiderinformationen
+
+§ 37c
+
+Schadenersatz wegen Veröffentlichung unwahrer Insiderinformationen
+
+ 
+
+Abschnitt 8
+
+Finanztermingeschäfte
+
+§ 37d
+
+(weggefallen)
+
+§ 37e
+
+Ausschluss des Einwands nach § 762 des Bürgerlichen Gesetzbuchs
+
+§ 37f
+
+(weggefallen)
+
+§ 37g
+
+Verbotene Finanztermingeschäfte
+
+ 
+
+Abschnitt 9
+
+Schiedsvereinbarungen
+
+§ 37h
+
+Schiedsvereinbarungen
+
+ 
+
+Abschnitt 10
+
+Märkte für Finanzinstrumente mit Sitz außerhalb der Europäischen Union
+
+§ 37i
+
+Erlaubnis
+
+§ 37j
+
+Versagung der Erlaubnis
+
+§ 37k
+
+Aufhebung der Erlaubnis
+
+§ 37l
+
+Untersagung
+
+§ 37m
+
+(weggefallen)
+
+ 
+
+Abschnitt 11
+
+Überwachung von Unternehmensabschlüssen, Veröffentlichung von Finanzberichten
+
+ 
+
+ 
+
+  Unterabschnitt 1
+
+  Überwachung von Unternehmensabschlüssen
+
+§ 37n
+
+Prüfung von Unternehmensabschlüssen und -berichten
+
+§ 37o
+
+Anordnung einer Prüfung der Rechnungslegung und Ermittlungsbefugnisse der Bundesanstalt
+
+§ 37p
+
+Befugnisse der Bundesanstalt im Fall der Anerkennung einer Prüfstelle
+
+§ 37q
+
+Ergebnis der Prüfung von Bundesanstalt oder Prüfstelle
+
+§ 37r
+
+Mitteilungen an andere Stellen
+
+§ 37s
+
+Internationale Zusammenarbeit
+
+§ 37t
+
+Widerspruchsverfahren
+
+§ 37u
+
+Beschwerde
+
+ 
+
+ 
+
+  Unterabschnitt 2
+
+  Veröffentlichung und Übermittlung von Finanzberichten an das Unternehmensregister
+
+§ 37v
+
+Jahresfinanzbericht; Verordnungsermächtigung
+
+§ 37w
+
+Halbjahresfinanzbericht; Verordnungsermächtigung
+
+§ 37x
+
+Zahlungsbericht; Verordnungsermächtigung
+
+§ 37y
+
+Konzernabschluss
+
+§ 37z
+
+Ausnahmen
+
+ 
+
+Abschnitt 12
+
+Straf- und Bußgeldvorschriften
+
+§ 38
+
+Strafvorschriften
+
+§ 39
+
+Bußgeldvorschriften
+
+§ 40
+
+Zuständige Verwaltungsbehörde
+
+§ 40a
+
+Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen
+
+§ 40b
+
+Bekanntmachung von Maßnahmen
+
+§ 40c
+
+Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen Transparenzpflichten
+
+§ 40d
+
+Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 596/2014
+
+ 
+
+Abschnitt 13
+
+Übergangsbestimmungen
+
+§ 41
+
+Erstmalige Mitteilungs- und Veröffentlichungspflichten
+
+§ 41a
+
+Übergangsregelung für die Mitteilungs- und Veröffentlichungspflichten zur Herkunftsstaatenwahl
+
+§ 42
+
+Übergangsregelung für die Kostenerstattungspflicht nach § 11
+
+§ 42a
+
+Übergangsregelung für das Verbot ungedeckter Leerverkäufe in Aktien und bestimmten Schuldtiteln nach § 30h
+
+§ 42b
+
+Übergangsregelung für die Mitteilungs- und Veröffentlichungspflichten für Inhaber von Netto-Leerverkaufspositionen nach § 30i
+
+§ 42c
+
+Übergangsregelung für das Verbot von Kreditderivaten nach § 30j
+
+§ 42d
+
+Übergangsregelung für den Einsatz von Mitarbeitern nach § 34d
+
+§ 42e
+
+Übergangsregelung für wesentliche Anlegerinformationen
+
+§ 43
+
+Übergangsregelung für die Verjährung von Ersatzansprüchen nach § 37a
+
+§ 44
+
+Übergangsregelung für ausländische organisierte Märkte
+
+§ 45
+
+Anwendungsbestimmung zum Abschnitt 11
+
+§ 46
+
+Anwendungsbestimmung für das Transparenzrichtlinie-Umsetzungsgesetz
+
+§ 47
+
+Anwendungsbestimmung für § 34
+
+§ 48
+
+Übergangsvorschriften zum EMIR-Ausführungsgesetz
+
+§ 49
+
+Anwendungsbestimmung für das Gesetz zur Umsetzung der Transparenzrichtlinie-Änderungsrichtlinie
+
+§ 50
+
+Übergangsvorschriften zur Verordnung (EU) Nr. 596/2014
+
+§ 51
+
+Übergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz
 
 Abschnitt 1 Anwendungsbereich, Begriffsbestimmungen
 ---------------------------------------------------
@@ -237,13 +714,50 @@ Abschnitt 1 Anwendungsbereich, Begriffsbestimmungen
 
 ### § 1 Anwendungsbereich
 
-(1) Dieses Gesetz ist anzuwenden auf die Erbringung von Wertpapierdienstleistungen und Wertpapiernebendienstleistungen, den börslichen und außerbörslichen Handel mit Finanzinstrumenten, die Vermarktung, den Vertrieb und den Verkauf von Finanzinstrumenten und strukturierten Einlagen, den Abschluss von Finanztermingeschäften, auf Finanzanalysen sowie auf Veränderungen der Stimmrechtsanteile von Aktionären an börsennotierten Gesellschaften.
+(1) Dieses Gesetz enthält Regelungen insbesondere in Bezug auf
 
-(2) Die Vorschriften des dritten und vierten Abschnitts sowie die §§ 34b und 34c sind auch anzuwenden auf Handlungen und Unterlassungen, die im Ausland vorgenommen werden, sofern sie Finanzinstrumente betreffen, die an einer inländischen Börse gehandelt werden.
+1.  
+die Erbringung von Wertpapierdienstleistungen und Wertpapiernebendienstleistungen,
 
-(3) Die Vorschriften des dritten und vierten Abschnitts sowie die §§ 34b und 34c sind nicht anzuwenden auf Geschäfte, die aus geld- oder währungspolitischen Gründen oder im Rahmen der öffentlichen Schuldenverwaltung von der Europäischen Zentralbank, dem Bund, einem seiner Sondervermögen, einem Land, der Deutschen Bundesbank, einem ausländischen Staat oder dessen Zentralbank oder einer anderen mit diesen Geschäften beauftragten Organisation oder mit für deren Rechnung handelnden Personen getätigt werden.
+2.  
+das marktmissbräuchliche Verhalten im börslichen und außerbörslichen Handel mit Finanzinstrumenten,
 
-(4) Bei Anwendung der Vorschriften der Abschnitte 5, 5a und 11 unberücksichtigt bleiben Anteile und Aktien an offenen Investmentvermögen im Sinne des § 1 Absatz 4 des Kapitalanlagegesetzbuchs.
+3.  
+die Vermarktung, den Vertrieb und den Verkauf von Finanzinstrumenten und strukturierten Einlagen,
+
+4.  
+die Überwachung von Unternehmensabschlüssen und die Veröffentlichung von Finanzberichten von Unternehmen, die den Vorschriften dieses Gesetzes unterliegen,
+
+5.  
+die Veränderungen der Stimmrechtsanteile von Aktionären an börsennotierten Gesellschaften sowie
+
+6.  
+die Zuständigkeiten und Befugnisse der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) und die Ahndung von Verstößen hinsichtlich
+
+a)  
+der Vorschriften dieses Gesetzes,
+
+b)  
+der Verordnung (EG) Nr. 1060/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über Ratingagenturen (ABl. L 302 vom 17.11.2009, S. 1, L 350 vom 29.12.2009, S. 59, L 145 vom 31.5.2011, S. 57, L 267 vom 6.9.2014, S. 30), die zuletzt durch die Richtlinie 2014/51/EU (ABl. L 153 vom 22.5.2014, S. 1, L 108 vom 28.4.2015, S. 8) geändert worden ist, in der jeweils geltenden Fassung,
+
+c)  
+der Verordnung (EU) Nr. 236/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 über Leerverkäufe und bestimmte Aspekte von Credit Default Swaps (ABl. L 86 vom 24.3.2012, S. 1), die durch die Verordnung (EU) Nr. 909/2014 (ABl. L 257 vom 28.8.2014, S. 1) geändert worden ist, in der jeweils geltenden Fassung,
+
+d)  
+der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1, L 321 vom 30.11.2013, S. 6), die zuletzt durch die Delegierte Verordnung (EU) 2015/1515 (ABl. L 239 vom 15.9.2015, S. 63) geändert worden ist, in der jeweils geltenden Fassung,
+
+e)  
+der Verordnung (EU) Nr. 596/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie 2003/6/EG des Europäischen Parlaments und des Rates und der Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission (ABl. L 173 vom 12.6.2014, S. 1), in der jeweils geltenden Fassung,
+
+f)  
+der Verordnung (EU) Nr. 909/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 zur Verbesserung der Wertpapierlieferungen und -abrechnungen in der Europäischen Union und über Zentralverwahrer sowie zur Änderung der Richtlinien 98/26/EG und 2014/65/EU und der Verordnung (EU) Nr. 236/2012 (ABl. L 257 vom 28.8.2014, S. 1), in der jeweils geltenden Fassung sowie
+
+g)  
+der Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates vom 26. November 2014 über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1, L 358 vom 13.12.2014, S. 50), in der jeweils geltenden Fassung.
+
+(2) Die Vorschriften des Abschnitts 3 sowie die §§ 34b und 34c sind auch anzuwenden auf Handlungen und Unterlassungen, die im Ausland vorgenommen werden, sofern sie Finanzinstrumente betreffen, die an einem inländischen organisierten Markt, einem inländischen multilateralen Handelssystem oder dem Freiverkehr gehandelt werden.
+
+(3) Bei Anwendung der Vorschriften der Abschnitte 5, 5a und 11 unberücksichtigt bleiben Anteile und Aktien an offenen Investmentvermögen im Sinne des § 1 Absatz 4 des Kapitalanlagegesetzbuchs. Für Abschnitt 5 gilt dies nur, soweit es sich nicht um Spezial-AIF im Sinne des § 1 Absatz 6 des Kapitalanlagegesetzbuchs handelt.
 
 ### § 2 Begriffsbestimmungen
 
@@ -315,6 +829,10 @@ Termingeschäfte mit Bezug auf die in Artikel 39 der Verordnung (EG) Nr. 1287/20
 
 (2c) Waren im Sinne dieses Gesetzes sind fungible Wirtschaftsgüter, die geliefert werden können; dazu zählen auch Metalle, Erze und Legierungen, landwirtschaftliche Produkte und Energien wie Strom.
 
+(2d) Waren-Spot-Kontrakt im Sinne dieses Gesetzes ist ein Vertrag im Sinne des Artikels 3 Absatz 1 Nummer 15 der Verordnung (EU) Nr. 596/2014.
+
+(2e) Referenzwert im Sinne dieses Gesetzes ist ein Kurs, Index oder Wert im Sinne des Artikels 3 Absatz 1 Nummer 29 der Verordnung (EU) Nr. 596/2014.
+
 (3) Wertpapierdienstleistungen im Sinne dieses Gesetzes sind
 
 1.  
@@ -356,7 +874,7 @@ der Betrieb eines multilateralen Systems, das die Interessen einer Vielzahl von 
 9.  
 die Abgabe von persönlichen Empfehlungen an Kunden oder deren Vertreter, die sich auf Geschäfte mit bestimmten Finanzinstrumenten beziehen, sofern die Empfehlung auf eine Prüfung der persönlichen Umstände des Anlegers gestützt oder als für ihn geeignet dargestellt wird und nicht ausschließlich über Informationsverbreitungskanäle oder für die Öffentlichkeit bekannt gegeben wird (Anlageberatung).
 
-Als Wertpapierdienstleistung gilt auch die Anschaffung und Veräußerung von Finanzinstrumenten für eigene Rechnung, die keine Dienstleistung für andere im Sinne des Satzes 1 Nr. 2 darstellt (Eigengeschäft). Der Finanzportfolioverwaltung gleichgestellt ist hinsichtlich der §§ 9, 31 bis 34 und 34b bis 36b dieses Gesetzes sowie der Artikel 7 und 8 der Verordnung (EG) Nr. 1287/2006 die erlaubnispflichtige Anlageverwaltung nach § 1 Abs. 1a Satz 2 Nr. 11 des Kreditwesengesetzes.
+Als Wertpapierdienstleistung gilt auch die Anschaffung und Veräußerung von Finanzinstrumenten für eigene Rechnung, die keine Dienstleistung für andere im Sinne des Satzes 1 Nr. 2 darstellt (Eigengeschäft). Der Finanzportfolioverwaltung gleichgestellt ist hinsichtlich der §§ 9, 31 bis 34 und 34b bis 36b dieses Gesetzes sowie des Artikels 20 Absatz 1 der Verordnung (EU) Nr. 596/2014 und der Artikel 7 und 8 der Verordnung (EG) Nr. 1287/2006 die erlaubnispflichtige Anlageverwaltung nach § 1 Abs. 1a Satz 2 Nr. 11 des Kreditwesengesetzes.
 
 (3a) Wertpapiernebendienstleistungen im Sinne dieses Gesetzes sind
 
@@ -373,7 +891,7 @@ die Beratung von Unternehmen über die Kapitalstruktur, die industrielle Strateg
 Devisengeschäfte, die in Zusammenhang mit Wertpapierdienstleistungen stehen,
 
 5.  
-die Erstellung, Verbreitung oder Weitergabe von Finanzanalysen oder anderen Informationen über Finanzinstrumente oder deren Emittenten, die direkt oder indirekt eine Empfehlungen für eine bestimmte Anlageentscheidung enthalten,
+das Erstellen oder Verbreiten von Empfehlungen oder Vorschlägen von Anlagestrategien im Sinne des Artikels 3 Absatz 1 Nummer 34 der Verordnung (EU) Nr. 596/2014 (Anlagestrategieempfehlung) oder von Anlageempfehlungen im Sinne des Artikels 3 Absatz 1 Nummer 35 der Verordnung (EU) Nr. 596/2014 (Anlageempfehlung),
 
 6.  
 Dienstleistungen, die im Zusammenhang mit dem Emissionsgeschäft stehen,
@@ -420,6 +938,30 @@ Emittenten, für die die Bundesrepublik Deutschland der Herkunftsstaat ist, mit 
 2.  
 Emittenten, für die nicht die Bundesrepublik Deutschland, sondern ein anderer Mitgliedstaat der Europäischen Union oder ein anderer Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum der Herkunftsstaat ist, deren Wertpapiere aber nur im Inland zum Handel an einem organisierten Markt zugelassen sind.
 
+(7a) MTF-Emittenten im Sinne dieses Gesetzes sind Emittenten von Finanzinstrumenten,
+
+1.  
+die ihren Sitz im Inland haben und die für ihre Finanzinstrumente
+
+a)  
+eine Zulassung zum Handel auf einem multilateralen Handelssystem im Inland oder in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
+
+b)  
+die Einbeziehung in den Freiverkehr
+
+beantragt oder genehmigt haben, wenn diese Finanzinstrumente nur auf multilateralen Handelssystemen oder im Freiverkehr gehandelt werden, mit Ausnahme solcher Emittenten, deren Finanzinstrumente nicht im Inland, sondern lediglich in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zugelassen sind, wenn sie in diesem anderen Staat den Anforderungen des Artikels 21 der Richtlinie 2004/109/EG unterliegen, oder
+
+2.  
+die ihren Sitz nicht im Inland haben und die für ihre Finanzinstrumente
+
+a)  
+eine Zulassung zum Handel auf einem multilateralen Handelssystem im Inland oder
+
+b)  
+die Einbeziehung in den Freiverkehr
+
+beantragt oder genehmigt haben, wenn diese Finanzinstrumente nur auf multilateralen Handelssystemen im Inland oder im Freiverkehr gehandelt werden.
+
 (8) Herkunftsmitgliedstaat im Sinne dieses Gesetzes ist
 
 1.  
@@ -453,6 +995,10 @@ einer Ware oder einer Kombination von Waren oder anderen körperlichen oder nich
 einem Wechselkurs oder einer Kombination von Wechselkursen.
 
 Keine strukturierten Einlagen stellen variabel verzinsliche Einlagen dar, deren Ertrag unmittelbar an einen Zinsindex, insbesondere den Euribor oder den Libor, gebunden ist.
+
+(12) PRIP im Sinne dieses Gesetzes ist ein Produkt im Sinne des Artikels 4 Nummer 1 der Verordnung (EU) Nr. 1286/2014.
+
+(13) PRIIP im Sinne dieses Gesetzes ist ein Produkt im Sinne des Artikels 4 Nummer 3 der Verordnung (EU) Nr. 1286/2014.
 
 (+++ § 2: Zur Anwendung vgl. § 17 Abs. 2 (F 2014-12-10) +++)
 
@@ -496,7 +1042,7 @@ Kapitalverwaltungsgesellschaften, extern verwalteten Investmentgesellschaften, E
 e)  
 Anbietern oder Emittenten von Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes
 
-betreiben, sofern sich diese Wertpapierdienstleistungen auf Anteile oder Aktien von inländischen Investmentvermögen, die von einer Kapitalverwaltungsgesellschaft ausgegeben werden, die eine Erlaubnis nach § 7 oder § 97 Absatz 1 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung hat, die für den in § 345 Absatz 2 Satz 1, Absatz 3 Satz 2, in Verbindung mit Absatz 2 Satz 1, oder Absatz 4 Satz 1 des Kapitalanlagegesetzbuchs vorgesehenen Zeitraum noch fortbesteht oder die eine Erlaubnis nach den §§ 20, 21 oder den §§ 20, 22 des Kapitalanlagegesetzbuchs hat, oder auf Anteile oder Aktien an EU-Investmentvermögen oder ausländischen AIF, die nach dem Kapitalanlagegesetzbuch vertrieben werden dürfen, oder auf Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes beschränken und die Unternehmen nicht befugt sind, sich bei der Erbringung dieser Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Anteilen von Kunden zu verschaffen, es sei denn, das Unternehmen beantragt und erhält eine entsprechende Erlaubnis nach § 32 Abs. 1 des Kreditwesengesetzes; Anteile oder Aktien an Hedgefonds im Sinne des § 283 des Kapitalanlagegesetzbuchs gelten nicht als Anteile an Investmentvermögen im Sinne dieser Vorschrift,
+betreiben, sofern sich diese Wertpapierdienstleistungen auf Anteile oder Aktien von inländischen Investmentvermögen, die von einer Kapitalverwaltungsgesellschaft ausgegeben werden, die eine Erlaubnis nach § 7 oder § 97 Absatz 1 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung hat, die für den in § 345 Absatz 2 Satz 1, Absatz 3 Satz 2, in Verbindung mit Absatz 2 Satz 1, oder Absatz 4 Satz 1 des Kapitalanlagegesetzbuchs vorgesehenen Zeitraum noch fortbesteht, oder die eine Erlaubnis nach den §§ 20, 21 oder den §§ 20, 22 des Kapitalanlagegesetzbuchs hat, oder die von einer EU-Verwaltungsgesellschaft ausgegeben werden, die eine Erlaubnis nach Artikel 6 der Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) (ABl. L 302 vom 17.11.2009, S. 32, L 269 vom 13.10.2010, S. 27), die zuletzt durch die Richtlinie 2014/91/EU (ABl. L 257 vom 28.8.2014, S. 186) geändert worden ist, oder nach Artikel 6 der Richtlinie 2011/61/EU des Europäischen Parlaments und des Rates vom 8. Juni 2011 über die Verwalter alternativer Investmentfonds und zur Änderung der Richtlinien 2003/41/EG und 2009/65/EG und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 1095/2010 (ABl. L 174 vom 1.7.2011, S. 1, L 115 vom 27.4.2012, S. 35), die zuletzt durch die Richtlinie 2014/65/EU (ABl. L 173 vom 12.6.2014, S. 349, L 74 vom 18.3.2015, S. 38) geändert worden ist, hat, oder auf Anteile oder Aktien an EU-Investmentvermögen oder ausländischen AIF, die nach dem Kapitalanlagegesetzbuch vertrieben werden dürfen, mit Ausnahme solcher AIF, die nach § 330a des Kapitalanlagegesetzbuchs vertrieben werden dürfen, oder auf Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes, die erstmals öffentlich angeboten werden, beschränken und die Unternehmen nicht befugt sind, sich bei der Erbringung dieser Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Anteilen von Kunden zu verschaffen, es sei denn, das Unternehmen beantragt und erhält eine entsprechende Erlaubnis nach § 32 Abs. 1 des Kreditwesengesetzes; Anteile oder Aktien an Hedgefonds im Sinne des § 283 des Kapitalanlagegesetzbuchs gelten nicht als Anteile an Investmentvermögen im Sinne dieser Vorschrift,
 
 8.  
 Unternehmen, deren Wertpapierdienstleistung ausschließlich in der Erbringung einer oder mehrerer der folgenden Dienstleistungen besteht:
@@ -540,10 +1086,13 @@ Unternehmen, die als Wertpapierdienstleistung ausschließlich die Anlageberatung
 Unternehmen, soweit sie als Haupttätigkeit Eigengeschäfte und Eigenhandel im Sinne des § 2 Absatz 3 Satz 1 Nummer 2 Buchstabe a bis c mit Waren oder Derivaten im Sinne des § 2 Abs. 1 Nr. 2 in Bezug auf Waren betreiben, sofern sie nicht einer Unternehmensgruppe angehören, deren Haupttätigkeit in der Erbringung von Wertpapierdienstleistungen oder dem Betreiben von Bankgeschäften im Sinne des § 1 Abs. 1 Satz 2 Nr. 1, 2, 8 oder 11 des Kreditwesengesetzes besteht,
 
 13.  
-Börsenträger oder Betreiber organisierter Märkte, die neben dem Betrieb eines multilateralen Handelssystems keine anderen Wertpapierdienstleistungen im Sinne des § 2 Abs. 3 Satz 1 erbringen und
+Börsenträger oder Betreiber organisierter Märkte, die neben dem Betrieb eines multilateralen Handelssystems keine anderen Wertpapierdienstleistungen im Sinne des § 2 Abs. 3 Satz 1 erbringen,
 
 14.  
-Unternehmen, die das Platzierungsgeschäft ausschließlich für Anbieter oder für Emittenten von Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes erbringen.
+Unternehmen, die das Platzierungsgeschäft ausschließlich für Anbieter oder für Emittenten von Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes erbringen und
+
+15.  
+Zentralverwahrer im Sinne des Artikels 2 Absatz 1 Nummer 1 der Verordnung (EU) Nr. 909/2014, soweit sie die in den Abschnitten A und B des Anhangs dieser Verordnung genannten Dienstleistungen erbringen.
 
 (2) Ein Unternehmen, das als vertraglich gebundener Vermittler im Sinne des § 2 Abs. 10 Satz 1 des Kreditwesengesetzes als Wertpapierdienstleistung nur die Anlagevermittlung, das Platzieren von Finanzinstrumenten ohne feste Übernahmeverpflichtung oder Anlageberatung erbringt, gilt nicht als Wertpapierdienstleistungsunternehmen. Seine Tätigkeit wird dem Institut oder Unternehmen zugerechnet, für dessen Rechnung und unter dessen Haftung es seine Tätigkeit erbringt.
 
@@ -630,17 +1179,79 @@ Abschnitt 2 Bundesanstalt für Finanzdienstleistungsaufsicht
 
 (weggefallen)
 
-### § 4 Aufgaben und Befugnisse
+### § 4 Aufgaben und Befugnisse; Verordnungsermächtigung
 
 (1) Die Bundesanstalt übt die Aufsicht nach den Vorschriften dieses Gesetzes aus. Sie hat im Rahmen der ihr zugewiesenen Aufgaben Missständen entgegenzuwirken, welche die ordnungsgemäße Durchführung des Handels mit Finanzinstrumenten oder von Wertpapierdienstleistungen oder Wertpapiernebendienstleistungen beeinträchtigen oder erhebliche Nachteile für den Finanzmarkt bewirken können. Sie kann Anordnungen treffen, die geeignet und erforderlich sind, diese Missstände zu beseitigen oder zu verhindern.
 
-(2) Die Bundesanstalt überwacht die Einhaltung der Verbote und Gebote dieses Gesetzes und kann Anordnungen treffen, die zu ihrer Durchsetzung geeignet und erforderlich sind. Sie kann den Handel mit einzelnen oder mehreren Finanzinstrumenten vorübergehend untersagen oder die Aussetzung des Handels in einzelnen oder mehreren Finanzinstrumenten an Märkten, an denen Finanzinstrumente gehandelt werden, anordnen, soweit dies zur Durchsetzung der Verbote und Gebote dieses Gesetzes oder zur Beseitigung oder Verhinderung von Missständen nach Absatz 1 geboten ist.
+(2) Die Bundesanstalt überwacht die Einhaltung der Verbote und Gebote dieses Gesetzes und kann Anordnungen treffen, die zu ihrer Durchsetzung geeignet und erforderlich sind. Sie kann den Handel mit einzelnen oder mehreren Finanzinstrumenten vorübergehend untersagen oder die Aussetzung des Handels in einzelnen oder mehreren Finanzinstrumenten an Märkten, an denen Finanzinstrumente gehandelt werden, anordnen, soweit dies zur Durchsetzung der Verbote und Gebote dieses Gesetzes oder zur Beseitigung oder Verhinderung von Missständen nach Absatz 1 geboten ist. Die Bundesanstalt kann Anordnungen nach Satz 2 auch gegenüber einem öffentlich-rechtlichen Rechtsträger oder gegenüber einer Börse erlassen.
 
-(3) Die Bundesanstalt kann von jedermann Auskünfte, die Vorlage von Unterlagen und die Überlassung von Kopien verlangen sowie Personen laden und vernehmen, soweit dies auf Grund von Anhaltspunkten für die Überwachung der Einhaltung eines Verbots oder Gebots dieses Gesetzes erforderlich ist. Sie kann insbesondere die Angabe von Bestandsveränderungen in Finanzinstrumenten sowie Auskünfte über die Identität weiterer Personen, insbesondere der Auftraggeber und der aus Geschäften berechtigten oder verpflichteten Personen, verlangen. Gesetzliche Auskunfts- oder Auskunfts- oder Aussageverweigerungsrechte sowie gesetzliche Verschwiegenheitspflichten bleiben unberührt.
+(3) Die Bundesanstalt kann von jedermann Auskünfte, die Vorlage von Unterlagen und die Überlassung von Kopien verlangen sowie Personen laden und vernehmen, soweit dies auf Grund von Anhaltspunkten für die Überwachung der Einhaltung eines Verbots oder Gebots dieses Gesetzes oder der Verordnung (EU) Nr. 596/2014, der Verordnung (EU) Nr. 1286/2014 oder zur Prüfung erforderlich ist, ob die Voraussetzungen für eine Maßnahme nach § 4b vorliegen. Sie kann insbesondere die Angabe von Bestandsveränderungen in Finanzinstrumenten sowie Auskünfte über die Identität weiterer Personen, insbesondere der Auftraggeber und der aus Geschäften berechtigten oder verpflichteten Personen, verlangen. Gesetzliche Auskunfts- oder Auskunfts- oder Aussageverweigerungsrechte sowie gesetzliche Verschwiegenheitspflichten bleiben unberührt.
 
 (3a) Die Bundesanstalt kann von einem Wertpapierdienstleistungsunternehmen, das algorithmischen Handel im Sinne des § 33 Absatz 1a Satz 1 betreibt, jederzeit Informationen über seinen algorithmischen Handel und die für diesen Handel eingesetzten Systeme anfordern, soweit dies auf Grund von Anhaltspunkten für die Überwachung der Einhaltung eines Verbots oder Gebots dieses Gesetzes erforderlich ist. Die Bundesanstalt kann insbesondere eine Beschreibung der algorithmischen Handelsstrategien, der Einzelheiten zu den Handelsparametern oder Handelsobergrenzen, denen das System unterliegt, der wichtigsten Verfahren zur Überprüfung der Risiken und Einhaltung der Vorgaben des § 33 sowie der Einzelheiten über seine Systemprüfung verlangen.
 
+(3b) Die Bundesanstalt ist unbeschadet des § 3 Absatz 5 des Börsengesetzes zuständige Behörde im Sinne des Artikels 22 der Verordnung (EU) Nr. 596/2014.
+
+(3c) Die Bundesanstalt kann von einem Telekommunikationsbetreiber die Herausgabe von in dessen Besitz befindlichen bereits existierenden Verkehrsdaten im Sinne des § 96 Absatz 1 des Telekommunikationsgesetzes verlangen, wenn bestimmte Tatsachen den Verdacht begründen, dass jemand gegen Artikel 14 oder 15 der Verordnung (EU) Nr. 596/2014 verstoßen hat, soweit dies zur Erforschung des Sachverhalts erforderlich ist. § 100a Absatz 3 und § 100b Absatz 1 bis 4 Satz 1 der Strafprozessordnung gelten entsprechend. Das Briefgeheimnis sowie das Post- und Fernmeldegeheimnis nach Artikel 10 des Grundgesetzes werden insoweit eingeschränkt.
+
+(3d) Die Bundesanstalt kann von Wertpapierdienstleistungsunternehmen, Kreditinstituten im Sinne des Artikels 4 Absatz 1 Nummer 1 der Verordnung (EU) Nr. 575/2013 und Finanzinstituten im Sinne des Artikels 4 Absatz 1 Nummer 26 der Verordnung (EU) Nr. 575/2013 die Herausgabe von in deren Besitz befindlichen, bereits existierenden
+
+1.  
+Aufzeichnungen von Telefongesprächen,
+
+2.  
+elektronischen Mitteilungen oder
+
+3.  
+Verkehrsdaten im Sinne des § 3 Nummer 30 des Telekommunikationsgesetzes
+
+verlangen, soweit dies auf Grund von Anhaltspunkten für die Überwachung der Einhaltung eines Verbots nach den Artikeln 14 und 15 der Verordnung (EU) Nr. 596/2014 erforderlich ist. Das Briefgeheimnis sowie das Post- und Fernmeldegeheimnis nach Artikel 10 des Grundgesetzes werden insoweit eingeschränkt.
+
+(3e) Die Bundesanstalt kann von Börsen und Betreibern von Märkten, an denen Finanzinstrumente gehandelt werden, verlangen, dass die zur Erfüllung der Aufgaben nach Artikel 4 der Verordnung (EU) Nr. 596/2014 erforderlichen Daten in standardisierter und elektronischer Form übermittelt werden.
+
+(3f) Die Bundesanstalt kann von Marktteilnehmern, die an Spotmärkten im Sinne des Artikels 3 Absatz 1 Nummer 16 der Verordnung (EU) Nr. 596/2014 tätig sind, Auskünfte und die Meldung von Geschäften in Warenderivaten verlangen, soweit dies auf Grund von Anhaltspunkten für die Überwachung der Einhaltung eines Verbots nach den Artikeln 14 und 15 der Verordnung (EU) Nr. 596/2014 in Bezug auf Warenderivate erforderlich ist. Der Bundesanstalt ist unter den Voraussetzungen des Satzes 1 ferner der direkte Zugriff auf die Handelssysteme von Händlern zu gewähren. Die Bundesanstalt kann die Übermittlung von Informationen nach Satz 1 in standardisierter Form verlangen.
+
+(3g) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über Inhalt, Art, Umfang und Form der nach den Absätzen 3e und 3f Satz 1 zu übermittelnden Mitteilungen und über die zulässigen Datenträger und Übertragungswege erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+
+(3h) Im Falle eines Verstoßes gegen
+
+1.  
+Vorschriften des Abschnitts 3 dieses Gesetzes sowie die zur Durchführung dieser Vorschriften erlassenen Rechtsverordnungen,
+
+2.  
+Vorschriften der Verordnung (EU) Nr. 596/2014, insbesondere gegen deren Artikel 4 und 14 bis 21, sowie die auf Grundlage dieser Artikel erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission oder
+
+3.  
+eine sich auf eine der in Nummer 1 oder 2 genannten Vorschriften beziehende Anordnung der Bundesanstalt
+
+kann die Bundesanstalt zur Verhinderung weiterer Verstöße für einen Zeitraum von bis zu zwei Jahren die Einstellung der den Verstoß begründenden Handlungen oder Verhaltensweisen verlangen.
+
+(3i) Die Bundesanstalt kann einer natürlichen Person, die für einen Verstoß gegen die Artikel 14, 15, 16 Absatz 1 und 2, Artikel 17 Absatz 1, 2, 4, 5 und 8, Artikel 18 Absatz 1 bis 6, Artikel 19 Absatz 1 bis 3, 5 bis 7 und 11 sowie Artikel 20 Absatz 1 der Verordnung (EU) Nr. 596/2014 oder gegen eine sich auf diese Vorschriften beziehende Anordnung der Bundesanstalt verantwortlich ist, für einen Zeitraum von bis zu zwei Jahren untersagen, Geschäfte für eigene Rechnung in den in Artikel 2 Absatz 1 der Verordnung (EU) Nr. 596/2014 genannten Finanzinstrumenten und Produkten zu tätigen.
+
+(3j) Die Bundesanstalt kann einer Person, die bei einem von der Bundesanstalt beaufsichtigten Unternehmen tätig ist, für einen Zeitraum von bis zu zwei Jahren die Ausübung der Berufstätigkeit untersagen, wenn diese Person vorsätzlich gegen eine der in Absatz 3h genannten Vorschriften verstoßen hat und dieses Verhalten trotz Verwarnung durch die Bundesanstalt fortsetzt.
+
+(3k) Die Bundesanstalt kann bei einem Verstoß gegen eine der in Absatz 3h genannten Vorschriften auf ihrer Internetseite eine Warnung unter Nennung der natürlichen oder juristischen Person oder der Personenvereinigung, die den Verstoß begangen hat, sowie der Art des Verstoßes veröffentlichen. § 40d Absatz 3 und 5 gilt entsprechend.
+
+(3l) Die Bundesanstalt überwacht die Einhaltung der Verbote und Gebote der Verordnung (EU) Nr. 1286/2014 sowie der auf deren Grundlage erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission. Vorbehaltlich des § 47 des Kreditwesengesetzes kann die Bundesanstalt hierzu gegenüber jedem Wertpapierdienstleistungsunternehmen, das über ein PRIIP berät, es verkauft oder Hersteller von PRIIP ist, Anordnungen treffen, die zur Durchsetzung der in Satz 1 genannten Verbote und Gebote geeignet und erforderlich sind. Insbesondere kann sie
+
+1.  
+bei einem Verstoß gegen Artikel 5 Absatz 1, die Artikel 6, 7 und 8 Absatz 1 bis 3, die Artikel 9, 10 Absatz 1, Artikel 13 Absatz 1, 3 und 4, die Artikel 14 und 19 der Verordnung (EU) Nr. 1286/2014 die Vermarktung, den Vertrieb oder den Verkauf des PRIIP vorübergehend oder dauerhaft untersagen,
+
+2.  
+die Bereitstellung eines Basisinformationsblattes untersagen, das nicht den Anforderungen der Artikel 6 bis 8 oder 10 der Verordnung (EU) Nr. 1286/2014 genügt,
+
+3.  
+den Hersteller von PRIIP verpflichten, eine neue Fassung des Basisinformationsblattes zu veröffentlichen, sofern die veröffentlichte Fassung nicht den Anforderungen der Artikel 6 bis 8 oder 10 der Verordnung (EU) Nr. 1286/2014 genügt, und
+
+4.  
+bei einem Verstoß gegen eine der in Nummer 1 genannten Vorschriften auf ihrer Internetseite eine Warnung unter Nennung des verantwortlichen Wertpapierdienstleistungsunternehmens sowie der Art des Verstoßes veröffentlichen; § 40d Absatz 3 und 5 gilt entsprechend.
+
+Vorbehaltlich von § 34d Absatz 8 Nummer 5, § 34e Absatz 2 und § 34g Absatz 1 Satz 2 Nummer 5 der Gewerbeordnung, jeweils in Verbindung mit einer hierzu erlassenen Rechtsverordnung, von § 5 Absatz 6a des Kapitalanlagegesetzbuchs, § 308a des Versicherungsaufsichtsgesetzes und § 47 des Kreditwesengesetzes stehen der Bundesanstalt die in Satz 2 genannten Befugnisse auch gegenüber sonstigen Personen oder Personenvereinigungen zu, die über ein PRIIP beraten, es verkaufen oder Hersteller von PRIIP sind.
+
 (4) Während der üblichen Arbeitszeit ist Bediensteten der Bundesanstalt und den von ihr beauftragten Personen, soweit dies zur Wahrnehmung ihrer Aufgaben erforderlich ist, das Betreten der Grundstücke und Geschäftsräume der nach Absatz 3 auskunftspflichtigen Personen zu gestatten. Das Betreten außerhalb dieser Zeit oder wenn die Geschäftsräume sich in einer Wohnung befinden, ist ohne Einverständnis nur zulässig und insoweit zu dulden, wie dies zur Verhütung von dringenden Gefahren für die öffentliche Sicherheit und Ordnung erforderlich ist und bei der auskunftspflichtigen Person Anhaltspunkte für einen Verstoß gegen ein Verbot oder Gebot dieses Gesetzes vorliegen. Das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
+
+(4a) Bedienstete der Bundesanstalt dürfen Geschäfts- und Wohnräume betreten, soweit dies zur Verfolgung von Verstößen gegen die Artikel 14 und 15 der Verordnung (EU) Nr. 596/2014 geboten ist. Das Grundrecht des Artikels 13 wird insoweit eingeschränkt. Die Bediensteten der Bundesanstalt dürfen Gegenstände sicherstellen, die als Beweismittel für die Ermittlung des Sachverhalts von Bedeutung sein können. Befinden sich die Gegenstände im Gewahrsam einer Person und werden sie nicht freiwillig herausgegeben, können Bedienstete der Bundesanstalt die Gegenstände beschlagnahmen. Beschlagnahmen sind, außer bei Gefahr im Verzug, durch den Richter anzuordnen. Zuständig ist das Amtsgericht Frankfurt am Main. Gegen die richterliche Entscheidung ist die Beschwerde zulässig. Die §§ 306 bis 310 und 311a der Strafprozessordnung gelten entsprechend. Bei Beschlagnahmen ohne gerichtliche Anordnung gilt § 98 Absatz 2 der Strafprozessordnung entsprechend. Zuständiges Gericht für die nachträglich eingeholte gerichtliche Entscheidung ist das Amtsgericht Frankfurt am Main.
+
+(4b) Die Bundesanstalt kann die Beschlagnahme von Vermögenswerten beantragen, soweit dies zur Durchsetzung der Verbote und Gebote der Verordnung (EU) Nr. 596/2014 geboten ist. Maßnahmen nach Satz 1 sind durch den Richter anzuordnen. Zuständig ist das Amtsgericht Frankfurt am Main. Gegen eine richterliche Entscheidung ist die Beschwerde zulässig; die §§ 306 bis 310 und 311a der Strafprozessordnung geltend entsprechend.
 
 (5) Die Bundesanstalt hat Tatsachen, die den Verdacht einer Straftat nach § 38 begründen, der zuständigen Staatsanwaltschaft unverzüglich anzuzeigen. Sie kann die personenbezogenen Daten der Betroffenen, gegen die sich der Verdacht richtet oder die als Zeugen in Betracht kommen, der Staatsanwaltschaft übermitteln, soweit dies für Zwecke der Strafverfolgung erforderlich ist. Die Staatsanwaltschaft entscheidet über die Vornahme der erforderlichen Ermittlungsmaßnahmen, insbesondere über Durchsuchungen, nach den Vorschriften der Strafprozessordnung. Die Befugnisse der Bundesanstalt nach den Absätzen 2 bis 4 bleiben hiervon unberührt, soweit dies für die Vornahme von Verwaltungsmaßnahmen oder zur Erfüllung von Ersuchen ausländischer Stellen nach § 7 Abs. 2, Abs. 2b Satz 1 oder Abs. 7 erforderlich ist und soweit eine Gefährdung des Untersuchungszwecks von Ermittlungen der Strafverfolgungsbehörden oder der für Strafsachen zuständigen Gerichte nicht zu besorgen ist.
 
@@ -648,7 +1259,7 @@ Abschnitt 2 Bundesanstalt für Finanzdienstleistungsaufsicht
 
 (7) Widerspruch und Anfechtungsklage gegen Maßnahmen nach den Absätzen 1 bis 4 und 6 haben keine aufschiebende Wirkung.
 
-(8) Adressaten von Maßnahmen nach den Absätzen 2 bis 4, die von der Bundesanstalt wegen eines möglichen Verstoßes gegen ein Verbot nach § 14 oder nach § 20a vorgenommen werden, dürfen andere Personen als staatliche Stellen und solche, die auf Grund ihres Berufs einer gesetzlichen Verschwiegenheitspflicht unterliegen, von diesen Maßnahmen oder von einem daraufhin eingeleiteten Ermittlungsverfahren nicht in Kenntnis setzen.
+(8) Adressaten von Maßnahmen nach den Absätzen 2 bis 4b, die von der Bundesanstalt wegen eines möglichen Verstoßes gegen ein Verbot nach Artikel 14 oder nach Artikel 15 der Verordnung (EU) Nr. 596/2014 vorgenommen werden, dürfen andere Personen als staatliche Stellen und solche, die auf Grund ihres Berufs einer gesetzlichen Verschwiegenheitspflicht unterliegen, von diesen Maßnahmen oder von einem daraufhin eingeleiteten Ermittlungsverfahren nicht in Kenntnis setzen.
 
 (9) Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Der Verpflichtete ist über sein Recht zur Verweigerung der Auskunft zu belehren und darauf hinzuweisen, dass es ihm nach dem Gesetz freistehe, jederzeit, auch schon vor seiner Vernehmung, einen von ihm zu wählenden Verteidiger zu befragen.
 
@@ -660,19 +1271,16 @@ Abschnitt 2 Bundesanstalt für Finanzdienstleistungsaufsicht
 
 ### § 4a Befugnisse zur Sicherung des Finanzsystems
 
-(1) Die Bundesanstalt kann im Benehmen mit der Deutschen Bundesbank Anordnungen treffen, die geeignet und erforderlich sind, Missstände, die Nachteile für die Stabilität der Finanzmärkte bewirken oder das Vertrauen in die Funktionsfähigkeit der Finanzmärkte erschüttern können, zu beseitigen oder zu verhindern. Insbesondere kann die Bundesanstalt vorübergehend:
+(1) Die Bundesanstalt kann im Benehmen mit der Deutschen Bundesbank Anordnungen treffen, die geeignet und erforderlich sind, Missstände, die Nachteile für die Stabilität der Finanzmärkte bewirken oder das Vertrauen in die Funktionsfähigkeit der Finanzmärkte erschüttern können, zu beseitigen oder zu verhindern. Insbesondere kann die Bundesanstalt vorübergehend
 
 1.  
-den Handel mit einzelnen oder mehreren Finanzinstrumenten untersagen, insbesondere
-
-a)  
-(weggefallen)
-
-b)  
-ein Verbot des Erwerbs von Rechten aus Währungsderivaten im Sinne des § 2 Absatz 2 Nummer 1 Buchstabe b, d oder e anordnen, deren Wert sich unmittelbar oder mittelbar vom Devisenpreis des Euro ableitet, soweit zu erwarten ist, dass der Marktwert dieser Rechte bei einem Kursrückgang des Euro steigt, und der Erwerb der Rechte nicht der Absicherung eigener bestehender oder erwarteter Währungsrisiken dienen, wobei das Verbot auch auf den rechtsgeschäftlichen Eintritt in solche Geschäfte erstreckt werden kann, oder
+den Handel mit einzelnen oder mehreren Finanzinstrumenten untersagen, insbesondere ein Verbot des Erwerbs von Rechten aus Währungsderivaten im Sinne des § 2 Absatz 2 Nummer 1 Buchstabe b, d oder e anordnen, deren Wert sich unmittelbar oder mittelbar vom Devisenpreis des Euro ableitet, soweit zu erwarten ist, dass der Marktwert dieser Rechte bei einem Kursrückgang des Euro steigt, und wenn der Erwerb der Rechte nicht der Absicherung eigener bestehender oder erwarteter Währungsrisiken dient, wobei das Verbot auch auf den rechtsgeschäftlichen Eintritt in solche Geschäfte erstreckt werden kann,
 
 2.  
-die Aussetzung des Handels in einzelnen oder mehreren Finanzinstrumenten an Märkten, an denen Finanzinstrumente gehandelt werden, anordnen.
+die Aussetzung des Handels mit einzelnen oder mehreren Finanzinstrumenten an Märkten, an denen Finanzinstrumente gehandelt werden, anordnen oder
+
+3.  
+anordnen, dass Märkte, an denen Finanzinstrumente gehandelt werden, mit Ausnahme von Börsen im Sinne des § 2 des Börsengesetzes, schließen oder geschlossen bleiben oder die Tätigkeit der systematischen Internalisierung eingestellt wird.
 
 (2) Die Bundesanstalt kann anordnen, dass Personen, die Geschäfte in Finanzinstrumenten tätigen, ihre Positionen in diesen Finanzinstrumenten veröffentlichen und gleichzeitig der Bundesanstalt mitteilen müssen. Die Bundesanstalt kann Mitteilungen nach Satz 1 auf ihrer Internetseite öffentlich bekannt machen.
 
@@ -730,6 +1338,8 @@ Das Verbot oder die Beschränkung darf sich nur auf den Zeitraum nach der Bekann
 
 (5) Die Bundesanstalt hebt ein Verbot oder eine Beschränkung auf, sobald die in Absatz 2 genannten Voraussetzungen nicht länger erfüllt sind.
 
+(6) Widerspruch und Anfechtungsklage gegen Maßnahmen nach Absatz 1 haben keine aufschiebende Wirkung.
+
 ### § 5 Wertpapierrat
 
 (1) Bei der Bundesanstalt wird ein Wertpapierrat gebildet. Er besteht aus Vertretern der Länder. Die Mitgliedschaft ist nicht personengebunden. Jedes Land entsendet einen Vertreter. An den Sitzungen können Vertreter der Bundesministerien der Finanzen, der Justiz und für Verbraucherschutz und für Wirtschaft und Energie sowie der Deutschen Bundesbank teilnehmen. Der Wertpapierrat kann Sachverständige insbesondere aus dem Bereich der Börsen, der Marktteilnehmer, der Wirtschaft und der Wissenschaft anhören. Der Wertpapierrat gibt sich eine Geschäftsordnung.
@@ -751,13 +1361,13 @@ Der Wertpapierrat kann bei der Bundesanstalt Vorschläge zur allgemeinen Weitere
 
 ### § 6 Zusammenarbeit mit anderen Behörden im Inland
 
-(1) Die Börsenaufsichtsbehörden werden im Wege der Organleihe für die Bundesanstalt bei der Durchführung von eilbedürftigen Maßnahmen im Rahmen der Überwachung der Verbote von Insidergeschäften nach § 14 und des Verbots der Marktmanipulation nach § 20a an den ihrer Aufsicht unterliegenden Börsen tätig. Das Nähere regelt ein Verwaltungsabkommen zwischen dem Bund und den börsenaufsichtsführenden Ländern.
+(1) Die Börsenaufsichtsbehörden werden im Wege der Organleihe für die Bundesanstalt bei der Durchführung von eilbedürftigen Maßnahmen im Rahmen der Überwachung der Verbote von Insidergeschäften nach Artikel 14 der Verordnung (EU) Nr. 596/2014 und des Verbots der Marktmanipulation nach Artikel 15 der Verordnung (EU) Nr. 596/2014 an den ihrer Aufsicht unterliegenden Börsen tätig. Das Nähere regelt ein Verwaltungsabkommen zwischen dem Bund und den börsenaufsichtsführenden Ländern.
 
 (2) Die Bundesanstalt, die Deutsche Bundesbank im Rahmen ihrer Tätigkeit nach Maßgabe des Kreditwesengesetzes, das Bundeskartellamt, die Börsenaufsichtsbehörden, die Handelsüberwachungsstellen, im Rahmen ihrer Tätigkeiten nach Maßgabe des Energiewirtschaftsgesetzes die Bundesnetzagentur und die Landeskartellbehörden sowie die für die Aufsicht über Versicherungsvermittler und die Unternehmen im Sinne des § 2a Absatz 1 Nummer 7 zuständigen Stellen haben einander Beobachtungen und Feststellungen einschließlich personenbezogener Daten mitzuteilen, die für die Erfüllung ihrer Aufgaben erforderlich sind.
 
 (3) Die Bundesanstalt darf zur Erfüllung ihrer Aufgaben die nach § 2 Abs. 10, §§ 2c, 24 Abs. 1 Nr. 1, 2, 5, 7 und 10 und Abs. 3, § 25b Absatz 1 bis 3, § 32 Abs. 1 Satz 1 und 2 Nr. 2 und 6 Buchstabe a und b des Kreditwesengesetzes bei der Deutschen Bundesbank gespeicherten Daten im automatisierten Verfahren abrufen. Die Deutsche Bundesbank hat für Zwecke der Datenschutzkontrolle den Zeitpunkt, die Angaben, welche die Feststellung der aufgerufenen Datensätze ermöglichen, sowie die für den Abruf verantwortliche Person zu protokollieren. Die protokollierten Daten dürfen nur für Zwecke der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines ordnungsmäßigen Betriebs der Datenverarbeitungsanlage verwendet werden. Die Protokolldaten sind am Ende des auf die Speicherung folgenden Kalenderjahres zu löschen.
 
-(4) Öffentliche Stellen haben bei der Veröffentlichung von Statistiken, die zu einer erheblichen Einwirkung auf die Finanzmärkte geeignet sind, sachgerecht und transparent vorzugehen. Insbesondere muss dabei gewährleistet sein, dass hierbei keine Informationsvorsprünge Dritter erzeugt werden können.
+(4) (weggefallen)
 
 (+++ § 6 Abs. 2: Zur Anwendung vgl. § 17 Abs. 2 (F 2014-12-10) +++)
 
@@ -879,13 +1489,21 @@ bei Sparkassen und Kreditgenossenschaften, die sich zur Ausführung des Geschäf
 
 ### § 10 Anzeige von Verdachtsfällen
 
-(1) Wertpapierdienstleistungsunternehmen, andere Kreditinstitute, Kapitalverwaltungsgesellschaften und Betreiber von außerbörslichen Märkten, an denen Finanzinstrumente gehandelt werden, haben bei der Feststellung von Tatsachen, die den Verdacht begründen, dass mit einem Geschäft über Finanzinstrumente gegen ein Verbot oder Gebot nach § 14, § 20a dieses Gesetzes oder die Artikel 12, 13 oder 14 der Verordnung (EU) Nr. 236/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 über Leerverkäufe und bestimmte Aspekte von Credit Default Swaps (ABl. L 86 vom 24.3.2012, S. 1), verstoßen wird, diese unverzüglich der Bundesanstalt mitzuteilen. Sie dürfen andere Personen als staatliche Stellen und solche, die auf Grund ihres Berufs einer gesetzlichen Verschwiegenheitspflicht unterliegen, von der Anzeige oder von einer daraufhin eingeleiteten Untersuchung nicht in Kenntnis setzen.
+(1) Wertpapierdienstleistungsunternehmen, andere Kreditinstitute, Kapitalverwaltungsgesellschaften und Betreiber von außerbörslichen Märkten, an denen Finanzinstrumente gehandelt werden, haben bei der Feststellung von Tatsachen, die den Verdacht begründen, dass mit einem Geschäft über Finanzinstrumente, für die die Bundesanstalt die zuständige Behörde im Sinne des Artikels 2 Absatz 1 Buchstabe j der Verordnung (EU) Nr. 236/2012 ist, gegen die Artikel 12, 13 oder 14 der Verordnung (EU) Nr. 236/2012 verstoßen wird, diese unverzüglich der Bundesanstalt mitzuteilen. Sie dürfen andere Personen als staatliche Stellen und solche, die auf Grund ihres Berufs einer gesetzlichen Verschwiegenheitspflicht unterliegen, von der Anzeige oder von einer daraufhin eingeleiteten Untersuchung nicht in Kenntnis setzen.
 
-(2) Die Bundesanstalt hat Anzeigen nach Absatz 1 unverzüglich an die zuständigen Aufsichtsbehörden derjenigen organisierten Märkte innerhalb der Europäischen Union oder des Europäischen Wirtschaftsraums weiterzuleiten, an denen die Finanzinstrumente nach Absatz 1 gehandelt werden. Der Inhalt einer Anzeige nach Absatz 1 darf von der Bundesanstalt nur zur Erfüllung ihrer Aufgaben verwendet werden. Im Übrigen darf er nur zum Zweck der Verfolgung von Straftaten nach § 38 sowie für Strafverfahren wegen einer Straftat, die im Höchstmaß mit einer Freiheitsstrafe von mehr als drei Jahren bedroht ist, verwendet werden. Die Bundesanstalt darf die Identität einer anzeigenden Person nach Absatz 1 anderen als staatlichen Stellen nicht zugänglich machen. Das Recht der Bundesanstalt nach § 40b bleibt unberührt.
+(2) Der Inhalt einer Anzeige nach Absatz 1 darf von der Bundesanstalt nur zur Erfüllung ihrer Aufgaben verwendet werden. Die Bundesanstalt darf die Identität einer anzeigenden Person nach Absatz 1 anderen als staatlichen Stellen nicht zugänglich machen. Das Recht der Bundesanstalt nach § 40b bleibt unberührt.
 
 (3) Wer eine Anzeige nach Absatz 1 erstattet, darf wegen dieser Anzeige nicht verantwortlich gemacht werden, es sei denn, die Anzeige ist vorsätzlich oder grob fahrlässig unwahr erstattet worden.
 
-(4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über die Form und den Inhalt einer Anzeige nach Absatz 1. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
+(4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
+
+1.  
+die Form und den Inhalt einer Anzeige nach Absatz 1 und
+
+2.  
+die Art und Weise der Übermittlung einer Mitteilung nach Artikel 16 Absatz 1 und 2 der Verordnung (EU) Nr. 596/2014.
+
+Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 ### § 11 Verpflichtung des Insolvenzverwalters
 
@@ -893,149 +1511,72 @@ bei Sparkassen und Kreditgenossenschaften, die sich zur Ausführung des Geschäf
 
 (2) Wird vor Eröffnung des Insolvenzverfahrens ein vorläufiger Insolvenzverwalter bestellt, hat dieser den Schuldner bei der Erfüllung seiner Pflichten zu unterstützen, insbesondere indem er der Verwendung der Mittel durch den Verpflichteten zustimmt oder, wenn dem Verpflichteten ein allgemeines Verfügungsverbot auferlegt wurde, indem er die Mittel aus dem von ihm verwalteten Vermögen zur Verfügung stellt.
 
-Abschnitt 3 Insiderüberwachung
-------------------------------
+Abschnitt 3 Marktmissbrauchsüberwachung
+---------------------------------------
 
 ### 
 
-### § 12 Insiderpapiere
+### § 12 Anwendung der Verordnung (EU) Nr. 596/2014 auf Waren, Emissionsberechtigungen und ausländische Zahlungsmittel
 
-Insiderpapiere sind Finanzinstrumente,
+Artikel 15 in Verbindung mit Artikel 12 Absatz 1 bis 4 der Verordnung (EU) Nr. 596/2014 gilt entsprechend für
 
 1.  
-die an einer inländischen Börse zum Handel zugelassen oder in den regulierten Markt oder in den Freiverkehr einbezogen sind,
+Waren im Sinne des § 2 Absatz 2c,
 
 2.  
-die in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zum Handel an einem organisierten Markt zugelassen sind oder
+Emissionsberechtigungen im Sinne des § 3 Nummer 3 des Treibhausgas-Emissionshandelsgesetzes und
 
 3.  
-deren Preis unmittelbar oder mittelbar von Finanzinstrumenten nach Nummer 1 oder Nummer 2 abhängt.
+ausländische Zahlungsmittel im Sinne des § 51 des Börsengesetzes,
 
-Der Zulassung zum Handel an einem organisierten Markt oder der Einbeziehung in den regulierten Markt oder in den Freiverkehr steht gleich, wenn der Antrag auf Zulassung oder Einbeziehung gestellt oder öffentlich angekündigt ist.
+die an einer inländischen Börse oder einem vergleichbaren Markt in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum gehandelt werden.
 
-### § 13 Insiderinformation
+### § 13 (weggefallen)
 
-(1) Eine Insiderinformation ist eine konkrete Information über nicht öffentlich bekannte Umstände, die sich auf einen oder mehrere Emittenten von Insiderpapieren oder auf die Insiderpapiere selbst beziehen und die geeignet sind, im Falle ihres öffentlichen Bekanntwerdens den Börsen- oder Marktpreis der Insiderpapiere erheblich zu beeinflussen. Eine solche Eignung ist gegeben, wenn ein verständiger Anleger die Information bei seiner Anlageentscheidung berücksichtigen würde. Als Umstände im Sinne des Satzes 1 gelten auch solche, bei denen mit hinreichender Wahrscheinlichkeit davon ausgegangen werden kann, dass sie in Zukunft eintreten werden. Eine Insiderinformation ist insbesondere auch eine Information über nicht öffentlich bekannte Umstände im Sinne des Satzes 1, die sich
+### § 14 (weggefallen)
 
-1.  
-auf Aufträge von anderen Personen über den Kauf oder Verkauf von Finanzinstrumenten bezieht oder
+### § 15 Übermittlung von Insiderinformationen und von Eigengeschäften; Rechtsverordnung
 
-2.  
-auf Derivate nach § 2 Abs. 2 Nr. 2 mit Bezug auf Waren bezieht und bei der Marktteilnehmer erwarten würden, dass sie diese Information in Übereinstimmung mit der zulässigen Praxis an den betreffenden Märkten erhalten würden.
+(1) Ein Inlandsemittent oder ein MTF-Emittent, der gemäß Artikel 17 Absatz 1, 7 oder 8 der Verordnung (EU) Nr. 596/2014 verpflichtet ist, Insiderinformationen zu veröffentlichen, hat diese vor ihrer Veröffentlichung der Bundesanstalt und den Geschäftsführungen der Handelsplätze, an denen seine Finanzinstrumente zum Handel zugelassen oder in den Handel einbezogen sind, mitzuteilen sowie unverzüglich nach ihrer Veröffentlichung dem Unternehmensregister im Sinne des § 8b des Handelsgesetzbuchs zur Speicherung zu übermitteln.
 
-(2) Eine Bewertung, die ausschließlich auf Grund öffentlich bekannter Umstände erstellt wird, ist keine Insiderinformation, selbst wenn sie den Kurs von Insiderpapieren erheblich beeinflussen kann.
+(2) Ein Inlandsemittent oder ein MTF-Emittent, der gemäß Artikel 19 Absatz 3 der Verordnung (EU) Nr. 596/2014 verpflichtet ist, Informationen zu Eigengeschäften von Führungskräften zu veröffentlichen, hat diese Informationen unverzüglich, jedoch nicht vor ihrer Veröffentlichung, dem Unternehmensregister im Sinne des § 8b des Handelsgesetzbuchs zur Speicherung zu übermitteln sowie die Veröffentlichung der Bundesanstalt mitzuteilen.
 
-### § 14 Verbot von Insidergeschäften
+(3) Verstößt der Emittent gegen die Verpflichtungen nach Absatz 1 oder nach Artikel 17 Absatz 1, 7 oder 8 der Verordnung (EU) Nr. 596/2014, so ist er einem anderen nur unter den Voraussetzungen der §§ 37b und 37c zum Ersatz des daraus entstehenden Schadens verpflichtet. Schadensersatzansprüche, die auf anderen Rechtsgrundlagen beruhen, bleiben unberührt.
 
-(1) Es ist verboten,
+(4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 
 1.  
-unter Verwendung einer Insiderinformation Insiderpapiere für eigene oder fremde Rechnung oder für einen anderen zu erwerben oder zu veräußern,
+den Mindestinhalt, die Art, die Sprache, den Umfang und die Form einer Mitteilung nach Absatz 1 oder Absatz 2,
 
 2.  
-einem anderen eine Insiderinformation unbefugt mitzuteilen oder zugänglich zu machen,
+die Bedingungen, die ein Emittent oder Teilnehmer am Markt für Emissionszertifikate nach Artikel 17 Absatz 4 Unterabsatz 1 der Verordnung (EU) Nr. 596/2014 erfüllen muss, um die Offenlegung von Insiderinformationen aufzuschieben,
 
 3.  
-einem anderen auf der Grundlage einer Insiderinformation den Erwerb oder die Veräußerung von Insiderpapieren zu empfehlen oder einen anderen auf sonstige Weise dazu zu verleiten.
-
-(2) Der Handel mit eigenen Aktien im Rahmen von Rückkaufprogrammen und Maßnahmen zur Stabilisierung des Preises von Finanzinstrumenten stellen in keinem Fall einen Verstoß gegen das Verbot des Absatzes 1 dar, soweit diese nach Maßgabe der Vorschriften der Verordnung (EG) Nr. 2273/2003 der Kommission vom 22. Dezember 2003 zur Durchführung der Richtlinie 2003/6/EG des Europäischen Parlaments und des Rates - Ausnahmeregelungen für Rückkaufprogramme und Kursstabilisierungsmaßnahmen (ABl. EU Nr. L 336 S. 33) erfolgen. Für Finanzinstrumente, die in den Freiverkehr oder in den regulierten Markt einbezogen sind, gelten die Vorschriften der Verordnung (EG) Nr. 2273/2003 entsprechend.
-
-### § 15 Mitteilung, Veröffentlichung und Übermittlung von Insiderinformationen an das Unternehmensregister
-
-(1) Ein Inlandsemittent von Finanzinstrumenten muss Insiderinformationen, die ihn unmittelbar betreffen, unverzüglich veröffentlichen; er hat sie außerdem unverzüglich, jedoch nicht vor ihrer Veröffentlichung dem Unternehmensregister im Sinne des § 8b des Handelsgesetzbuchs zur Speicherung zu übermitteln. Als Inlandsemittent gilt im Sinne dieser Vorschrift auch ein solcher, für dessen Finanzinstrumente erst ein Antrag auf Zulassung gestellt ist. Eine Insiderinformation betrifft den Emittenten insbesondere dann unmittelbar, wenn sie sich auf Umstände bezieht, die in seinem Tätigkeitsbereich eingetreten sind. Wer als Emittent oder als eine Person, die in dessen Auftrag oder auf dessen Rechnung handelt, im Rahmen seiner Befugnis einem anderen Insiderinformationen mitteilt oder zugänglich macht, hat diese gleichzeitig nach Satz 1 zu veröffentlichen und dem Unternehmensregister im Sinne des § 8b des Handelsgesetzbuchs zur Speicherung zu übermitteln, es sei denn, der andere ist rechtlich zur Vertraulichkeit verpflichtet. Erfolgt die Mitteilung oder Zugänglichmachung der Insiderinformation nach Satz 4 unwissentlich, so ist die Veröffentlichung und die Übermittlung unverzüglich nachzuholen. In einer Veröffentlichung genutzte Kennzahlen müssen im Geschäftsverkehr üblich sein und einen Vergleich mit den zuletzt genutzten Kennzahlen ermöglichen.
-
-(2) Sonstige Angaben, die die Voraussetzungen des Absatzes 1 offensichtlich nicht erfüllen, dürfen, auch in Verbindung mit veröffentlichungspflichtigen Informationen im Sinne des Absatzes 1, nicht veröffentlicht werden. Unwahre Informationen, die nach Absatz 1 veröffentlicht wurden, sind unverzüglich in einer Veröffentlichung nach Absatz 1 zu berichtigen, auch wenn die Voraussetzungen des Absatzes 1 nicht vorliegen.
-
-(3) Der Emittent ist von der Pflicht zur Veröffentlichung nach Absatz 1 Satz 1 solange befreit, wie es der Schutz seiner berechtigten Interessen erfordert, keine Irreführung der Öffentlichkeit zu befürchten ist und der Emittent die Vertraulichkeit der Insiderinformation gewährleisten kann. Die Veröffentlichung ist unverzüglich nachzuholen. Absatz 4 gilt entsprechend. Der Emittent hat die Gründe für die Befreiung zusammen mit der Mitteilung nach Absatz 4 Satz 1 der Bundesanstalt unter Angabe des Zeitpunktes der Entscheidung über den Aufschub der Veröffentlichung mitzuteilen.
-
-(4) Der Emittent hat die nach Absatz 1 oder Absatz 2 Satz 2 zu veröffentlichende Information vor der Veröffentlichung
-
-1.  
-der Geschäftsführung der inländischen organisierten Märkte, an denen die Finanzinstrumente zum Handel zugelassen sind,
-
-2.  
-der Geschäftsführung der inländischen organisierten Märkte, an denen Derivate gehandelt werden, die sich auf die Finanzinstrumente beziehen, und
-
-3.  
-der Bundesanstalt
-
-mitzuteilen. Absatz 1 Satz 6 sowie die Absätze 2 und 3 gelten entsprechend. Die Geschäftsführung darf die ihr nach Satz 1 mitgeteilte Information vor der Veröffentlichung nur zum Zweck der Entscheidung verwenden, ob die Ermittlung des Börsenpreises auszusetzen oder einzustellen ist. Die Bundesanstalt kann gestatten, dass Emittenten mit Sitz im Ausland die Mitteilung nach Satz 1 gleichzeitig mit der Veröffentlichung vornehmen, wenn dadurch die Entscheidung der Geschäftsführung über die Aussetzung oder Einstellung der Ermittlung des Börsenpreises nicht beeinträchtigt wird.
-
-(5) Eine Veröffentlichung von Insiderinformationen in anderer Weise als nach Absatz 1 in Verbindung mit einer Rechtsverordnung nach Absatz 7 Satz 1 Nr. 1 darf nicht vor der Veröffentlichung nach Absatz 1 Satz 1, 4 oder 5 oder Absatz 2 Satz 2 vorgenommen werden. Der Inlandsemittent hat gleichzeitig mit den Veröffentlichungen nach Absatz 1 Satz 1, Satz 4 oder Satz 5 oder Absatz 2 Satz 2 diese der Geschäftsführung der in Absatz 4 Satz 1 Nr. 1 und 2 erfassten organisierten Märkte und der Bundesanstalt mitzuteilen; diese Verpflichtung entfällt, soweit die Bundesanstalt nach Absatz 4 Satz 4 gestattet hat, bereits die Mitteilung nach Absatz 4 Satz 1 gleichzeitig mit der Veröffentlichung vorzunehmen.
-
-(6) Verstößt der Emittent gegen die Verpflichtungen nach den Absätzen 1 bis 4, so ist er einem anderen nur unter den Voraussetzungen der §§ 37b und 37c zum Ersatz des daraus entstehenden Schadens verpflichtet. Schadenersatzansprüche, die auf anderen Rechtsgrundlagen beruhen, bleiben unberührt.
-
-(7) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
-
-1.  
-den Mindestinhalt, die Art, die Sprache, den Umfang und die Form der Veröffentlichung nach Absatz 1 Satz 1, 4 und 5 sowie Absatz 2 Satz 2,
-
-2.  
-den Mindestinhalt, die Art, die Sprache, den Umfang und die Form einer Mitteilung nach Absatz 3 Satz 4, Absatz 4 und Absatz 5 Satz 2 und
-
-3.  
-berechtigte Interessen des Emittenten und die Gewährleistung der Vertraulichkeit nach Absatz 3.
-
-Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
-
-### § 15a Mitteilung von Geschäften, Veröffentlichung und Übermittlung an das Unternehmensregister
-
-(1) Personen, die bei einem Emittenten von Aktien Führungsaufgaben wahrnehmen, haben eigene Geschäfte mit Aktien des Emittenten oder sich darauf beziehenden Finanzinstrumenten, insbesondere Derivaten, dem Emittenten und der Bundesanstalt innerhalb von fünf Werktagen mitzuteilen. Die Verpflichtung nach Satz 1 obliegt auch Personen, die mit einer solchen Person in einer engen Beziehung stehen. Die Verpflichtung nach Satz 1 gilt nur bei Emittenten solcher Aktien, die
-
-1.  
-an einer inländischen Börse zum Handel zugelassen sind oder
-
-2.  
-zum Handel an einem ausländischen organisierten Markt zugelassen sind, sofern der Emittent seinen Sitz im Inland hat oder es sich um Aktien eines Emittenten mit Sitz außerhalb der Europäischen Union und des Europäischen Wirtschaftsraums handelt, für welche die Bundesrepublik Deutschland Herkunftsstaat im Sinne des Wertpapierprospektgesetzes ist.
-
-Der Zulassung zum Handel an einem organisierten Markt steht es gleich, wenn der Antrag auf Zulassung gestellt oder öffentlich angekündigt ist. Die Pflicht nach Satz 1 besteht nicht, solange die Gesamtsumme der Geschäfte einer Person mit Führungsaufgaben und der mit dieser Person in einer engen Beziehung stehenden Personen insgesamt einen Betrag von 5.000 Euro bis zum Ende des Kalenderjahres nicht erreicht.
-
-(2) Personen mit Führungsaufgaben im Sinne des Absatzes 1 Satz 1 sind persönlich haftende Gesellschafter oder Mitglieder eines Leitungs-, Verwaltungs- oder Aufsichtsorgans des Emittenten sowie sonstige Personen, die regelmäßig Zugang zu Insiderinformationen haben und zu wesentlichen unternehmerischen Entscheidungen ermächtigt sind.
-
-(3) Personen im Sinne des Absatzes 1 Satz 2, die mit den in Absatz 2 genannten Personen in einer engen Beziehung stehen, sind deren Ehepartner, eingetragene Lebenspartner, unterhaltsberechtigte Kinder und andere Verwandte, die mit den in Absatz 2 genannten Personen zum Zeitpunkt des Abschlusses des meldepflichtigen Geschäfts seit mindestens einem Jahr im selben Haushalt leben. Juristische Personen, bei denen Personen im Sinne des Absatzes 2 oder des Satzes 1 Führungsaufgaben wahrnehmen, gelten ebenfalls als Personen im Sinne des Absatzes 1 Satz 2. Unter Satz 2 fallen auch juristische Personen, Gesellschaften und Einrichtungen, die direkt oder indirekt von einer Person im Sinne des Absatzes 2 oder des Satzes 1 kontrolliert werden, die zugunsten einer solchen Person gegründet wurden oder deren wirtschaftliche Interessen weitgehend denen einer solchen Person entsprechen.
-
-(4) Ein Inlandsemittent hat Informationen nach Absatz 1 unverzüglich zu veröffentlichen und gleichzeitig der Bundesanstalt die Veröffentlichung mitzuteilen; er übermittelt sie außerdem unverzüglich, jedoch nicht vor ihrer Veröffentlichung dem Unternehmensregister im Sinne des § 8b des Handelsgesetzbuchs zur Speicherung. § 15 Abs. 1 Satz 2 gilt entsprechend mit der Maßgabe, dass die öffentliche Ankündigung eines Antrags auf Zulassung einem gestellten Antrag auf Zulassung gleichsteht.
-
-(5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über den Mindestinhalt, die Art, die Sprache, den Umfang und die Form der Mitteilung nach Absatz 1 und Absatz 4 Satz 1 sowie der Veröffentlichung nach Absatz 4. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
-
-### § 15b Führung von Insiderverzeichnissen
-
-(1) Emittenten nach § 15 Abs. 1 Satz 1 oder Satz 2 und in ihrem Auftrag oder für ihre Rechnung handelnde Personen haben Verzeichnisse über solche Personen zu führen, die für sie tätig sind und bestimmungsgemäß Zugang zu Insiderinformationen haben. Die nach Satz 1 Verpflichteten müssen diese Verzeichnisse unverzüglich aktualisieren und der Bundesanstalt auf Verlangen übermitteln. Die in den Verzeichnissen geführten Personen sind durch die Emittenten über die rechtlichen Pflichten, die sich aus dem Zugang zu Insiderinformationen ergeben, sowie über die Rechtsfolgen von Verstößen aufzuklären. Als im Auftrag oder für Rechnung des Emittenten handelnde Personen gelten nicht die in § 323 Abs. 1 Satz 1 des Handelsgesetzbuchs genannten Personen.
-
-(2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
-
-1.  
-Umfang und Form der Verzeichnisse,
-
-2.  
-die in den Verzeichnissen enthaltenen Daten,
-
-3.  
-die Aktualisierung und die Datenpflege bezüglich der Verzeichnisse,
+die Art und Weise der Übermittlung einer Mitteilung nach Artikel 17 Absatz 4 Unterabsatz 3 Satz 1 und Absatz 6 Unterabsatz 1 Satz 1 der Verordnung (EU) Nr. 596/2014,
 
 4.  
-den Zeitraum, über den die Verzeichnisse aufbewahrt werden müssen und
+die Art und Weise der Übermittlung einer Insiderliste nach Artikel 18 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 596/2014 und
 
 5.  
-Fristen für die Vernichtung der Verzeichnisse.
+die Art und Weise der Übermittlung einer Meldung nach Artikel 19 Absatz 1 der Verordnung (EU) Nr. 596/2014.
 
-Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
+Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+
+### § 15a (weggefallen)
+
+### § 15b (weggefallen)
 
 ### § 16 Aufzeichnungspflichten
 
-Wertpapierdienstleistungsunternehmen sowie Unternehmen mit Sitz im Inland, die an einer inländischen Börse zur Teilnahme am Handel zugelassen sind, haben vor Durchführung von Aufträgen, die Insiderpapiere im Sinne des § 12 zum Gegenstand haben, bei natürlichen Personen den Namen, das Geburtsdatum und die Anschrift, bei Unternehmen die Firma und die Anschrift der Auftraggeber und der berechtigten oder verpflichteten Personen oder Unternehmen festzustellen und diese Angaben aufzuzeichnen. Die Aufzeichnungen nach Satz 1 sind mindestens sechs Jahre aufzubewahren. Für die Aufbewahrung gilt § 257 Abs. 3 und 5 des Handelsgesetzbuchs entsprechend.
+Wertpapierdienstleistungsunternehmen sowie Unternehmen mit Sitz im Inland, die an einer inländischen Börse zur Teilnahme am Handel zugelassen sind, haben vor Durchführung von Aufträgen, die Finanzinstrumente im Sinne des Artikels 2 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 596/2014 oder Handlungen oder Geschäfte im Sinne des Artikels 2 Absatz 1 Unterabsatz 2 Satz 1 der Verordnung (EU) Nr. 596/2014 zum Gegenstand haben, bei natürlichen Personen den Namen, das Geburtsdatum und die Anschrift, bei Unternehmen die Firma und die Anschrift der Auftraggeber und der berechtigten oder verpflichteten Personen oder Unternehmen festzustellen und diese Angaben aufzuzeichnen. Die Aufzeichnungen nach Satz 1 sind mindestens sechs Jahre aufzubewahren. Für die Aufbewahrung gilt § 257 Abs. 3 und 5 des Handelsgesetzbuchs entsprechend.
 
 ### § 16a Überwachung der Geschäfte der bei der Bundesanstalt Beschäftigten
 
-(1) Die Bundesanstalt muss über angemessene interne Kontrollverfahren verfügen, die geeignet sind, Verstößen der bei der Bundesanstalt Beschäftigten gegen die Verbote nach § 14 entgegenzuwirken.
+(1) Die Bundesanstalt muss über angemessene interne Kontrollverfahren verfügen, die geeignet sind, Verstößen der bei der Bundesanstalt Beschäftigten gegen die Verbote nach Artikel 14 der Verordnung (EU) Nr. 596/2014 entgegenzuwirken.
 
-(2) Der Dienstvorgesetzte oder die von ihm beauftragte Person kann von den bei der Bundesanstalt Beschäftigten die Erteilung von Auskünften und die Vorlage von Unterlagen über Geschäfte in Insiderpapieren verlangen, die sie für eigene oder fremde Rechnung oder für einen anderen abgeschlossen haben. § 4 Abs. 9 ist anzuwenden. Beschäftigte, die bei ihren Dienstgeschäften bestimmungsgemäß Kenntnis von Insiderinformationen haben oder haben können, sind verpflichtet, Geschäfte in Insiderpapieren, die sie für eigene oder fremde Rechnung oder für einen anderen abgeschlossen haben, unverzüglich dem Dienstvorgesetzten oder der von ihm beauftragten Person schriftlich anzuzeigen. Der Dienstvorgesetzte oder die von ihm beauftragte Person bestimmt die in Satz 3 genannten Beschäftigten.
+(2) Der Dienstvorgesetzte oder die von ihm beauftragte Person kann von den bei der Bundesanstalt Beschäftigten die Erteilung von Auskünften und die Vorlage von Unterlagen über Geschäfte in Finanzinstrumenten im Sinne des Artikels 2 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 596/2014 und Handlungen und Geschäfte im Sinne des Artikels 2 Absatz 1 Unterabsatz 2 Satz 1 der Verordnung (EU) Nr. 596/2014 verlangen, die sie für eigene oder fremde Rechnung oder für einen anderen abgeschlossen haben. § 4 Abs. 9 ist anzuwenden. Beschäftigte, die bei ihren Dienstgeschäften bestimmungsgemäß Kenntnis von Insiderinformationen haben oder haben können, sind verpflichtet, Geschäfte in Finanzinstrumenten im Sinne des Artikels 2 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 596/2014 und Handlungen und Geschäfte im Sinne des Artikels 2 Absatz 1 Unterabsatz 2 Satz 1 der Verordnung (EU) Nr. 596/2014, die sie für eigene oder fremde Rechnung oder für einen anderen abgeschlossen haben, unverzüglich dem Dienstvorgesetzten oder der von ihm beauftragten Person schriftlich anzuzeigen. Der Dienstvorgesetzte oder die von ihm beauftragte Person bestimmt die in Satz 3 genannten Beschäftigten.
 
-### § 16b Aufbewahrung von Verbindungsdaten
-
-(1) Die Bundesanstalt kann von einem Wertpapierdienstleistungsunternehmen sowie von einem Unternehmen mit Sitz im Inland, die an einer inländischen Börse zur Teilnahme am Handel zugelassen sind, und von einem Emittenten von Insiderpapieren sowie mit diesem verbundenen Unternehmen, die ihren Sitz im Inland haben oder deren Wertpapiere an einer inländischen Börse zum Handel zugelassen oder in den regulierten Markt oder Freiverkehr einbezogen sind, für einen bestimmten Personenkreis schriftlich die Aufbewahrung von bereits existierenden Verbindungsdaten über den Fernmeldeverkehr verlangen, sofern bezüglich dieser Personen des konkreten Unternehmens Anhaltspunkte für einen Verstoß gegen § 14 oder § 20a bestehen. Das Grundrecht des Artikels 10 des Grundgesetzes wird insoweit eingeschränkt. Die Betroffenen sind entsprechend § 101 Abs. 4 und 5 der Strafprozessordnung zu benachrichtigen. Die Bundesanstalt kann auf der Grundlage von Satz 1 nicht die Aufbewahrung von erst zukünftig zu erhebenden Verbindungsdaten verlangen.
-
-(2) Die Frist zur Aufbewahrung der bereits existierenden Daten beträgt vom Tage des Zugangs der Aufforderung an höchstens sechs Monate. Ist die Aufbewahrung der Verbindungsdaten über den Fernmeldeverkehr zur Prüfung des Verdachts eines Verstoßes gegen ein Verbot nach § 14 oder § 20a nicht mehr erforderlich, hat die Bundesanstalt den Aufbewahrungspflichtigen hiervon unverzüglich in Kenntnis zu setzen und die dazu vorhandenen Unterlagen unverzüglich zu vernichten. Die Pflicht zur unverzüglichen Vernichtung der vorhandenen Daten gilt auch für den Aufbewahrungspflichtigen.
+### § 16b (weggefallen)
 
 Abschnitt 3a Ratingagenturen
 ----------------------------
@@ -1054,8 +1595,8 @@ Abschnitt 3a Ratingagenturen
 
 (5) Zulassungsantragsteller im Sinne von § 2 Nummer 11 und Anbieter im Sinne von § 2 Nummer 10 des Wertpapierprospektgesetzes, die einen Antrag auf Billigung eines Prospekts im Sinne des Wertpapierprospektgesetzes für ein öffentliches Angebot oder die Zulassung zum Handel von strukturierten Finanzinstrumenten im Sinne der Artikel 8b oder Artikel 8c der Verordnung (EG) Nr. 1060/2009 in der jeweils geltenden Fassung oder einer Emission im Sinne des Artikels 8d der Verordnung (EG) Nr. 1060/2009 in der jeweils geltenden Fassung bei der Bundesanstalt stellen und zugleich Emittent dieses strukturierten Finanzinstruments oder dieser Emission sind, haben der Bundesanstalt mit der Stellung des Billigungsantrags eine Erklärung beizufügen, dass sie die auf sie anwendbaren Pflichten aus den Artikeln 8b, 8c oder Artikel 8d der Verordnung (EG) Nr. 1060/2009 in der jeweils geltenden Fassung erfüllen. Die Wirksamkeit des Billigungsantrags bleibt von der ordnungsgemäßen Abgabe dieser Erklärung unberührt.
 
-Abschnitt 3b OTC-Derivate und Transaktionsregister
---------------------------------------------------
+Abschnitt 4 OTC-Derivate und Transaktionsregister
+-------------------------------------------------
 
 ### 
 
@@ -1063,13 +1604,17 @@ Abschnitt 3b OTC-Derivate und Transaktionsregister
 
 (1) Die Bundesanstalt ist unbeschadet des § 6 des Kreditwesengesetzes nach diesem Gesetz zuständig für die Einhaltung der Vorschriften nach den Artikeln 4, 5 und 7 bis 13 der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1), soweit sich nicht aus § 3 Absatz 5 oder § 5 Absatz 6 des Börsengesetzes etwas anderes ergibt. Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 62 Absatz 4, des Artikels 63 Absatz 3 bis 7, des Artikels 68 Absatz 3 und des Artikels 74 Absatz 1 bis 3 der Verordnung (EU) Nr. 648/2012. Soweit in der Verordnung (EU) Nr. 648/2012 nichts Abweichendes geregelt ist, gelten die Vorschriften der Abschnitte 1 und 2 dieses Gesetzes, mit Ausnahme der §§ 9 und 10, entsprechend.
 
-(2) Die Bundesanstalt übt die ihr nach Absatz 1 Satz 1 in Verbindung mit der Verordnung (EU) Nr. 648/2012 übertragenen Befugnisse aus, soweit dies für die Wahrnehmung ihrer Aufgaben und die Überwachung der Einhaltung der in der Verordnung (EU) Nr. 648/2012 geregelten Pflichten erforderlich ist.
+(2) Eine inländische finanzielle Gegenpartei im Sinne des Artikels 2 Nummer 8 der Verordnung (EU) Nr. 648/2012 hat, wenn sie eine Garantie im Sinne der Artikel 1 und 2 Absatz 1 der Delegierten Verordnung (EU) Nr. 285/2014 der Kommission vom 13. Februar 2014 zur Ergänzung der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates im Hinblick auf technische Regulierungsstandards in Bezug auf unmittelbare, wesentliche und vorhersehbare Auswirkungen von Kontrakten innerhalb der Union und die Verhinderung der Umgehung von Vorschriften und Pflichten (ABl. L 85 vom 21.3.2014, S. 1) in der jeweils geltenden Fassung gewährt oder erweitert, durch geeignete Maßnahmen, insbesondere durch Vertragsgestaltung und Kontrollen, sicherzustellen, dass die an garantierten OTC-Derivatekontrakten beteiligten, in einem Drittstaat ansässigen Einrichtungen nicht gegen auf diese garantierten OTC-Derivatekontrakte anwendbare Bestimmungen der Verordnung (EU) Nr. 648/2012 verstoßen.
 
-(3) Sofern die Bundesanstalt als zuständige Behörde nach Absatz 1 Satz 1 tätig wird oder Befugnisse nach Absatz 2 ausübt, sind die vorzulegenden Unterlagen in deutscher Sprache und auf Verlangen der Bundesanstalt zusätzlich in englischer Sprache zu erstellen und vorzulegen. Die Bundesanstalt kann gestatten, dass die Unterlagen ausschließlich in englischer Sprache erstellt und vorgelegt werden.
+(3) Inländische Clearingmitglieder im Sinne des Artikels 2 Nummer 14 der Verordnung (EU) Nr. 648/2012 sowie Handelsplätze im Sinne des Artikels 2 Nummer 4 der Verordnung (EU) Nr. 648/2012 dürfen Clearingdienste einer in einem Drittstaat ansässigen zentralen Gegenpartei im Sinne des Artikels 25 Absatz 1 der Verordnung (EU) Nr. 648/2012 nur nutzen, wenn diese von der Europäischen Wertpapier- und Marktaufsichtsbehörde anerkannt wurde.
 
-(4) Die Bundesanstalt kann von Unternehmen Auskünfte, die Vorlage von Unterlagen und die Überlassung von Kopien verlangen, soweit dies für die Überwachung der Einhaltung der Vorschriften nach Absatz 1 erforderlich ist. Gesetzliche Auskunfts- oder Aussageverweigerungsrechte sowie gesetzliche Verschwiegenheitspflichten bleiben unberührt.
+(4) Die Bundesanstalt übt die ihr nach Absatz 1 in Verbindung mit der Verordnung (EU) Nr. 648/2012 übertragenen Befugnisse aus, soweit dies für die Wahrnehmung ihrer Aufgaben und die Überwachung der Einhaltung der in der Verordnung (EU) Nr. 648/2012 geregelten Pflichten erforderlich ist.
 
-(5) Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt nach den Absätzen 2 und 4, auch in Verbindung mit der Verordnung (EU) Nr. 648/2012, haben keine aufschiebende Wirkung.
+(5) Sofern die Bundesanstalt als zuständige Behörde nach Absatz 1 tätig wird oder Befugnisse nach Absatz 4 ausübt, sind die vorzulegenden Unterlagen in deutscher Sprache und auf Verlangen der Bundesanstalt zusätzlich in englischer Sprache zu erstellen und vorzulegen. Die Bundesanstalt kann gestatten, dass die Unterlagen ausschließlich in englischer Sprache erstellt und vorgelegt werden.
+
+(6) Die Bundesanstalt kann von Unternehmen Auskünfte, die Vorlage von Unterlagen und die Überlassung von Kopien verlangen, soweit dies für die Überwachung der Einhaltung der Vorschriften nach Absatz 1 erforderlich ist. Gesetzliche Auskunfts- oder Aussageverweigerungsrechte sowie gesetzliche Verschwiegenheitspflichten bleiben unberührt.
+
+(7) Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt nach den Absätzen 4 und 6, auch in Verbindung mit der Verordnung (EU) Nr. 648/2012, haben keine aufschiebende Wirkung.
 
 ### § 19 Mitteilungspflichten nichtfinanzieller Gegenparteien
 
@@ -1084,12 +1629,12 @@ Abschnitt 3b OTC-Derivate und Transaktionsregister
 (1) Kapitalgesellschaften, die weder kleine Kapitalgesellschaften im Sinne des § 267 Absatz 1 des Handelsgesetzbuchs noch finanzielle Gegenparteien im Sinne des Artikels 2 Nummer 8 der Verordnung (EU) Nr. 648/2012 sind und die im abgelaufenen Geschäftsjahr entweder
 
 1.  
-OTC-Derivate im Sinne des Artikels 2 Nummer 7 der Verordnung (EU) Nr. 648/2012 mit einem Gesamtnominalvolumen von mehr als 100 Millionen Euro, oder
+OTC-Derivate im Sinne des Artikels 2 Nummer 7 der Verordnung (EU) Nr. 648/2012 mit einem Gesamtnominalvolumen von mehr als 100 Millionen Euro oder
 
 2.  
-mehr als 100 OTC-Derivatekontrakteeingegangen sind, haben durch einen geeigneten Prüfer innerhalb von neun Monaten nach Ablauf des Geschäftsjahres prüfen und bescheinigen zu lassen, dass sie über geeignete Systeme verfügen, die die Einhaltung der Anforderungen nach Artikel 4 Absatz 1, 2 und 3 Unterabsatz 2, Artikel 9 Absatz 1 bis 3, Artikel 10 Absatz 1 bis 3 sowie Artikel 11 Absatz 1, 2 und 3 Satz 2 und Absatz 5 bis 11 Unterabsatz 1 der Verordnung (EU) Nr. 648/2012 sowie nach § 19 Absatz 1 und 2 dieses Gesetzes sicherstellen. Für die Zwecke der Berechnung der Schwelle nach Satz 1 Nummer 1 und 2 sind solche Geschäfte nicht zu berücksichtigen, die als gruppeninterne Geschäfte der Ausnahme des Artikels 4 Absatz 2 der Verordnung (EU) Nr. 648/2012 unterliegen oder von den Anforderungen des Artikels 11 Absatz 3 der Verordnung (EU) Nr. 648/2012 befreit sind.
+mehr als 100 OTC-Derivatekontrakte im Sinne des Artikels 2 Nummer 7 der Verordnung (EU) Nr. 648/2012
 
-Die Pflichten nach Satz 1 gelten nicht für solche Unternehmen, die den Prüfungspflichten nach § 57 des Versicherungsaufsichtsgesetzes oder den Prüfungspflichten nach § 29 des Kreditwesengesetzes unterliegen.
+eingegangen sind, haben durch einen geeigneten Prüfer innerhalb von neun Monaten nach Ablauf des Geschäftsjahres prüfen und bescheinigen zu lassen, dass sie über geeignete Systeme verfügen, die die Einhaltung der Anforderungen nach Artikel 4 Absatz 1, 2 und 3 Unterabsatz 2, Artikel 9 Absatz 1 bis 3, Artikel 10 Absatz 1 bis 3 sowie Artikel 11 Absatz 1, 2 und 3 Satz 2 und Absatz 5 bis 11 Unterabsatz 1 der Verordnung (EU) Nr. 648/2012 sowie nach § 19 Absatz 1 und 2 dieses Gesetzes sicherstellen. Für die Zwecke der Berechnung der Schwelle nach Satz 1 Nummer 1 und 2 sind solche Geschäfte nicht zu berücksichtigen, die als gruppeninterne Geschäfte der Ausnahme des Artikels 4 Absatz 2 der Verordnung (EU) Nr. 648/2012 unterliegen oder von den Anforderungen des Artikels 11 Absatz 3 der Verordnung (EU) Nr. 648/2012 befreit sind. Die Pflichten nach Satz 1 gelten nicht für solche Unternehmen, die den Prüfungspflichten nach § 35 des Versicherungsaufsichtsgesetzes oder den Prüfungspflichten nach § 29 des Kreditwesengesetzes unterliegen.
 
 (2) Geeignete Prüfer im Sinne des Absatzes 1 Satz 1 sind Wirtschaftsprüfer, vereidigte Buchprüfer sowie Wirtschaftsprüfungs- und Buchprüfungsgesellschaften, die hinsichtlich des Prüfungsgegenstandes über ausreichende Kenntnisse verfügen. Die Kapitalgesellschaft hat den Prüfer spätestens 15 Monate nach Beginn des Geschäftsjahres, auf das sich die Prüfung erstreckt, zu bestellen.
 
@@ -1101,71 +1646,7 @@ Die Pflichten nach Satz 1 gelten nicht für solche Unternehmen, die den Prüfung
 
 (6) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz nähere Bestimmungen über Art, Umfang und Zeitpunkt der Prüfung nach Absatz 1 sowie über Art und Umfang der Bescheinigungen nach Absatz 3 erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um auf die Einhaltung der in Absatz 1 Satz 1 genannten Pflichten und Anforderungen hinzuwirken und um einheitliche Unterlagen zu erhalten. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz auf die Bundesanstalt übertragen.
 
-Abschnitt 4 Überwachung des Verbots der Marktmanipulation
----------------------------------------------------------
-
-### 
-
-### § 20a Verbot der Marktmanipulation
-
-(1) Es ist verboten,
-
-1.  
-unrichtige oder irreführende Angaben über Umstände zu machen, die für die Bewertung eines Finanzinstruments erheblich sind, oder solche Umstände entgegen bestehenden Rechtsvorschriften zu verschweigen, wenn die Angaben oder das Verschweigen geeignet sind, auf den inländischen Börsen- oder Marktpreis eines Finanzinstruments oder auf den Preis eines Finanzinstruments an einem organisierten Markt in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum einzuwirken,
-
-2.  
-Geschäfte vorzunehmen oder Kauf- oder Verkaufsaufträge zu erteilen, die geeignet sind, falsche oder irreführende Signale für das Angebot, die Nachfrage oder den Börsen- oder Marktpreis von Finanzinstrumenten zu geben oder ein künstliches Preisniveau herbeizuführen oder
-
-3.  
-sonstige Täuschungshandlungen vorzunehmen, die geeignet sind, auf den inländischen Börsen- oder Marktpreis eines Finanzinstruments oder auf den Preis eines Finanzinstruments an einem organisierten Markt in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum einzuwirken.
-
-Satz 1 gilt für Finanzinstrumente, die
-
-1.  
-an einer inländischen Börse zum Handel zugelassen oder in den regulierten Markt oder in den Freiverkehr einbezogen sind oder
-
-2.  
-in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zum Handel an einem organisierten Markt zugelassen sind.
-
-Der Zulassung zum Handel an einem organisierten Markt oder der Einbeziehung in den regulierten Markt oder in den Freiverkehr steht es gleich, wenn der Antrag auf Zulassung oder Einbeziehung gestellt oder öffentlich angekündigt ist.
-
-(2) Das Verbot des Absatzes 1 Satz 1 Nr. 2 gilt nicht, wenn die Handlung mit der zulässigen Marktpraxis auf dem betreffenden organisierten Markt oder in dem betreffenden Freiverkehr vereinbar ist und der Handelnde hierfür legitime Gründe hat. Als zulässige Marktpraxis gelten nur solche Gepflogenheiten, die auf dem jeweiligen Markt nach vernünftigem Ermessen erwartet werden können und von der Bundesanstalt als zulässige Marktpraxis im Sinne dieser Vorschrift anerkannt werden. Eine Marktpraxis ist nicht bereits deshalb unzulässig, weil sie zuvor nicht ausdrücklich anerkannt wurde.
-
-(3) Der Handel mit eigenen Aktien im Rahmen von Rückkaufprogrammen sowie Maßnahmen zur Stabilisierung des Preises von Finanzinstrumenten stellen in keinem Fall einen Verstoß gegen das Verbot des Absatzes 1 Satz 1 dar, soweit diese nach Maßgabe der Verordnung (EG) Nr. 2273/2003 der Kommission vom 22. Dezember 2003 zur Durchführung der Richtlinie 2003/6/EG des Europäischen Parlaments und des Rates - Ausnahmeregelungen für Rückkaufprogramme und Kursstabilisierungsmaßnahmen (ABl. EU Nr. L 336 S. 33) erfolgen. Für Finanzinstrumente, die in den Freiverkehr oder in den regulierten Markt einbezogen sind, gelten die Vorschriften der Verordnung (EG) Nr. 2273/2003 entsprechend.
-
-(4) Die Absätze 1 bis 3 gelten entsprechend für
-
-1.  
-Waren im Sinne des § 2 Abs. 2c,
-
-2.  
-Emissionsberechtigungen im Sinne des § 3 Nummer 3 des Treibhausgas-Emissionshandelsgesetzes und
-
-3.  
-ausländische Zahlungsmittel im Sinne des § 51 des Börsengesetzes,
-
-die an einer inländischen Börse oder einem vergleichbaren Markt in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum gehandelt werden.
-
-(5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
-
-1.  
-Umstände, die für die Bewertung von Finanzinstrumenten erheblich sind,
-
-2.  
-falsche oder irreführende Signale für das Angebot, die Nachfrage oder den Börsen- oder Marktpreis von Finanzinstrumenten oder das Vorliegen eines künstlichen Preisniveaus,
-
-3.  
-das Vorliegen einer sonstigen Täuschungshandlung,
-
-4.  
-Handlungen und Unterlassungen, die in keinem Fall einen Verstoß gegen das Verbot des Absatzes 1 Satz 1 darstellen, und
-
-5.  
-Handlungen, die als zulässige Marktpraxis gelten, und das Verfahren zur Anerkennung einer zulässigen Marktpraxis.
-
-Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen. Diese erlässt die Vorschriften im Einvernehmen mit den Börsenaufsichtsbehörden der Länder.
-
-(6) Bei Journalisten, die in Ausübung ihres Berufes handeln, ist das Vorliegen der Voraussetzungen nach Absatz 1 Satz 1 Nr. 1 unter Berücksichtigung ihrer berufsständischen Regeln zu beurteilen, es sei denn, dass diese Personen aus den unrichtigen oder irreführenden Angaben direkt oder indirekt einen Nutzen ziehen oder Gewinne schöpfen.
+### § 20a (weggefallen)
 
 ### § 20b
 
@@ -1186,7 +1667,7 @@ Abschnitt 5 Mitteilung, Veröffentlichung und Übermittlung von Veränderungen d
 
 (2) Inlandsemittenten und Emittenten, für die die Bundesrepublik Deutschland der Herkunftsstaat ist, sind im Sinne dieses Abschnitts nur solche, deren Aktien zum Handel an einem organisierten Markt zugelassen sind.
 
-(3) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über den Inhalt, die Art, die Sprache, den Umfang und die Form der Mitteilung nach Absatz 1 Satz 1 und Absatz 1a.
+(3) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über den Inhalt, die Art, die Sprache, den Umfang und die Form der Mitteilung nach Absatz 1 Satz 1 und Absatz 1a. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen, soweit die Art und die Form der Mitteilung nach Absatz 1 oder Absatz 1a, insbesondere die Nutzung eines elektronischen Verfahrens, betroffen sind.
 
 ### § 22 Zurechnung von Stimmrechten
 
@@ -1395,13 +1876,13 @@ Differenzgeschäfte.
 
 (4) Beziehen sich verschiedene der in Absatz 1 genannten Instrumente auf Aktien desselben Emittenten, sind die Stimmrechte aus diesen Aktien zusammenzurechnen. Erwerbspositionen dürfen nicht mit Veräußerungspositionen verrechnet werden.
 
-(5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über den Inhalt, die Art, die Sprache, den Umfang und die Form der Mitteilung nach Absatz 1.
+(5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über den Inhalt, die Art, die Sprache, den Umfang und die Form der Mitteilung nach Absatz 1. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen, soweit die Art und die Form der Mitteilung nach Absatz 1, insbesondere die Nutzung eines elektronischen Verfahrens, betroffen sind.
 
 ### § 25a Mitteilungspflichten bei Zusammenrechnung; Verordnungsermächtigung
 
 (1) Die Mitteilungspflicht nach § 21 Absatz 1 und 1a gilt entsprechend für Inhaber von Stimmrechten im Sinne des § 21 und Instrumenten im Sinne des § 25, wenn die Summe der nach § 21 Absatz 1 Satz 1 oder Absatz 1a und § 25 Absatz 1 Satz 1 zu berücksichtigenden Stimmrechte an demselben Emittenten die in § 21 Absatz 1 Satz 1 genannten Schwellen mit Ausnahme der Schwelle von 3 Prozent erreicht, überschreitet oder unterschreitet.
 
-(2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über den Inhalt, die Art, die Sprache, den Umfang und die Form der Mitteilung nach Absatz 1.
+(2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über den Inhalt, die Art, die Sprache, den Umfang und die Form der Mitteilung nach Absatz 1. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen, soweit die Art und die Form der Mitteilung nach Absatz 1, insbesondere die Nutzung eines elektronischen Verfahrens, betroffen sind.
 
 ### § 26 Veröffentlichungspflichten des Emittenten und Übermittlung an das Unternehmensregister
 
@@ -1412,10 +1893,10 @@ Differenzgeschäfte.
 (3) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 
 1.  
-den Inhalt, die Art, die Sprache, den Umfang und die Form der Veröffentlichung nach Absatz 1 Satz 1 und
+den Inhalt, die Art, die Sprache, den Umfang und die Form sowie die elektronische Verarbeitung der Angaben der Veröffentlichung nach Absatz 1 Satz 1 einschließlich enthaltener personenbezogener Daten und
 
 2.  
-den Inhalt, die Art, die Sprache, den Umfang und die Form der Mitteilung nach Absatz 2.
+den Inhalt, die Art, die Sprache, den Umfang, die Form sowie die elektronische Verarbeitung der Angaben der Mitteilung nach Absatz 2 einschließlich enthaltener personenbezogener Daten.
 
 ### § 26a Veröffentlichung der Gesamtzahl der Stimmrechte und Übermittlung an das Unternehmensregister
 
@@ -1520,7 +2001,7 @@ noch ausstehenden Schuldtiteln mit einer Mindeststückelung von 50 000 Euro ode
 die Einberufung der Hauptversammlung einschließlich der Tagesordnung, die Gesamtzahl der Aktien und Stimmrechte im Zeitpunkt der Einberufung der Hauptversammlung und die Rechte der Aktionäre bezüglich der Teilnahme an der Hauptversammlung sowie
 
 2.  
-Mitteilungen über die Ausschüttung und Auszahlung von Dividenden, die Ausgabe neuer Aktien und die Vereinbarung oder Ausübung von Umtausch-, Bezugs-, Einziehungs- und Zeichnungsrechten sowie die Beschlussfassung über diese Rechte
+Mitteilungen über die Ausschüttung und Auszahlung von Dividenden, die Ankündigung der Ausgabe neuer Aktien und die Vereinbarung oder Ausübung von Umtausch-, Bezugs-, Einziehungs- und Zeichnungsrechten sowie die Beschlussfassung über diese Rechte
 
 unverzüglich im Bundesanzeiger veröffentlichen. Soweit eine entsprechende Veröffentlichung im Bundesanzeiger auch durch sonstige Vorschriften vorgeschrieben wird, ist eine einmalige Veröffentlichung ausreichend.
 
@@ -1654,10 +2135,10 @@ sich um die Vermeidung von Interessenkonflikten zu bemühen und vor Durchführun
 (2) Alle Informationen einschließlich Werbemitteilungen, die Wertpapierdienstleistungsunternehmen Kunden zugänglich machen, müssen redlich, eindeutig und nicht irreführend sein. Werbemitteilungen müssen eindeutig als solche erkennbar sein. § 302 des Kapitalanlagegesetzbuchs und § 15 des Wertpapierprospektgesetzes bleiben unberührt. Sofern Informationen über Finanzinstrumente oder deren Emittenten gegeben werden, die direkt oder indirekt eine allgemeine Empfehlung für eine bestimmte Anlageentscheidung enthalten, müssen
 
 1.  
-die Wertpapierdienstleistungsunternehmen den Anforderungen des § 33b Abs. 5 und 6 sowie des § 34b Abs. 5, auch in Verbindung mit einer Rechtsverordnung nach § 34b Abs. 8, oder vergleichbaren ausländischen Vorschriften entsprechen oder
+die Wertpapierdienstleistungsunternehmen den Anforderungen des § 33b Abs. 5 und 6 sowie des § 34b Absatz 1, auch in Verbindung mit einer Rechtsverordnung nach § 34b Absatz 3, oder vergleichbaren ausländischen Vorschriften entsprechen oder
 
 2.  
-die Informationen, sofern sie ohne Einhaltung der Nummer 1 als Finanzanalyse oder Ähnliches beschrieben oder als objektive oder unabhängige Erläuterung der in der Empfehlung enthaltenen Punkte dargestellt werden, eindeutig als Werbemitteilung gekennzeichnet und mit einem Hinweis versehen sein, dass sie nicht allen gesetzlichen Anforderungen zur Gewährleistung der Unvoreingenommenheit von Finanzanalysen genügen und dass sie einem Verbot des Handels vor der Veröffentlichung von Finanzanalysen nicht unterliegen.
+die Informationen, sofern sie ohne Einhaltung der Nummer 1 als Anlageempfehlung oder Anlagestrategieempfehlung oder Ähnliches beschrieben oder als objektive oder unabhängige Erläuterung der in der Empfehlung enthaltenen Punkte dargestellt werden, eindeutig als Werbemitteilung gekennzeichnet und mit einem Hinweis versehen sein, dass sie nicht allen gesetzlichen Anforderungen zur Gewährleistung der Unvoreingenommenheit von Anlageempfehlungen und Anlagestrategieempfehlungen genügen und dass sie einem Verbot des Handels vor der Veröffentlichung von Anlageempfehlungen und Anlagestrategieempfehlungen nicht unterliegen.
 
 (3) Wertpapierdienstleistungsunternehmen sind verpflichtet, Kunden rechtzeitig und in verständlicher Form Informationen zur Verfügung zu stellen, die angemessen sind, damit die Kunden nach vernünftigem Ermessen die Art und die Risiken der ihnen angebotenen oder von ihnen nachgefragten Arten von Finanzinstrumenten oder Wertpapierdienstleistungen verstehen und auf dieser Grundlage ihre Anlageentscheidungen treffen können. Die Informationen können auch in standardisierter Form zur Verfügung gestellt werden. Die Informationen müssen sich beziehen auf
 
@@ -1675,13 +2156,16 @@ Kosten und Nebenkosten.
 
 §§ 293 bis 296, 297, 303 bis 307 des Kapitalanlagegesetzbuchs bleiben unberührt.
 
-(3a) Im Falle einer Anlageberatung ist dem Kunden rechtzeitig vor dem Abschluss eines Geschäfts über Finanzinstrumente ein kurzes und leicht verständliches Informationsblatt über jedes Finanzinstrument zur Verfügung zu stellen, auf das sich eine Kaufempfehlung bezieht. Die Angaben in den Informationsblättern nach Satz 1 dürfen weder unrichtig noch irreführend sein und müssen mit den Angaben des Prospekts vereinbar sein. An die Stelle des Informationsblattes treten
+(3a) Im Falle einer Anlageberatung ist dem Kunden rechtzeitig vor dem Abschluss eines Geschäfts über Finanzinstrumente, für die kein Basisinformationsblatt nach der Verordnung (EU) Nr. 1286/2014 veröffentlicht werden muss, ein kurzes und leicht verständliches Informationsblatt über jedes Finanzinstrument zur Verfügung zu stellen, auf das sich eine Kaufempfehlung bezieht. Die Angaben in den Informationsblättern nach Satz 1 dürfen weder unrichtig noch irreführend sein und müssen mit den Angaben des Prospekts vereinbar sein. An die Stelle des Informationsblattes treten
 
 1.  
 bei Anteilen oder Aktien an OGAW oder an offenen Publikums-AIF die wesentlichen Anlegerinformationen nach den §§ 164 und 166 des Kapitalanlagegesetzbuchs,
 
 2.  
 bei Anteilen oder Aktien an geschlossenen Publikums-AIF die wesentlichen Anlegerinformationen nach den §§ 268 und 270 des Kapitalanlagegesetzbuchs,
+
+2a.  
+bei Anteilen oder Aktien an Spezial-AIF die wesentlichen Anlegerinformationen nach § 166 oder § 270 des Kapitalanlagegesetzbuchs, sofern die AIF-Kapitalverwaltungsgesellschaft solche gemäß § 307 Absatz 5 des Kapitalanlagegesetzbuchs erstellt hat,
 
 3.  
 bei EU-AIF und ausländischen AIF die wesentlichen Anlegerinformationen nach § 318 Absatz 5 des Kapitalanlagegesetzbuchs,
@@ -1960,7 +2444,7 @@ Regelungen für den Zugang von Handelsteilnehmern zu dem multilateralen Handelss
 Regelungen für die Einbeziehung von Finanzinstrumenten, die ordnungsgemäße Durchführung des Handels und der Preisermittlung, die Verwendung von einbezogenen Referenzpreisen und die vertragsgemäße Abwicklung der abgeschlossenen Geschäfte festzulegen, wobei die Regelungen zum Handel und der Preisermittlung dem Betreiber keinen Ermessensspielraum einräumen dürfen,
 
 3.  
-über angemessene Kontrollverfahren zur Überwachung der Einhaltung der Regelungen nach Nummer 2 und zur Überwachung der Einhaltung der §§ 14 und 20a zu verfügen,
+über angemessene Kontrollverfahren zur Überwachung der Einhaltung der Regelungen nach Nummer 2 und zur Überwachung der Einhaltung der Artikel 14 und 15 der Verordnung (EU) Nr. 596/2014 zu verfügen,
 
 4.  
 sicherzustellen, dass die Preise im multilateralen Handelssystem entsprechend den Regelungen des § 24 Abs. 2 des Börsengesetzes zustande kommen,
@@ -1986,9 +2470,11 @@ eine angemessene Größe der kleinstmöglichen Preisänderung bei den gehandelte
 11.  
 Regelungen für die Kennzeichnung der durch den algorithmischen Handel im Sinne des § 33 Absatz 1a Satz 1 erzeugten Aufträge durch die Handelsteilnehmer und die Kenntlichmachung der hierfür jeweils verwendeten Handelsalgorithmen festzulegen.
 
+(1a) Der Betreiber eines multilateralen Handelssystems kann von einem Emittenten die Übermittlung von Referenzdaten in Bezug auf dessen Finanzinstrumente verlangen, soweit dies zur Erfüllung der Anforderungen aus Artikel 4 der Verordnung (EU) Nr. 596/2014 erforderlich ist.
+
 (2) Emittenten, deren Finanzinstrumente ohne ihre Zustimmung in den Handel in einem multilateralen Handelssystem einbezogen worden sind, können nicht dazu verpflichtet werden, Informationen in Bezug auf diese Finanzinstrumente für dieses multilaterale Handelssystem zu veröffentlichen.
 
-(3) Der Betreiber eines multilateralen Handelssystems hat der Bundesanstalt schwerwiegende Verstöße gegen die Handelsregeln und Störungen der Marktintegrität mitzuteilen; bei Anhaltspunkten für einen Verstoß gegen § 14 oder § 20a ist die Bundesanstalt unverzüglich zu unterrichten und bei ihren Untersuchungen umfassend zu unterstützen.
+(3) Der Betreiber eines multilateralen Handelssystems hat der Bundesanstalt schwerwiegende Verstöße gegen die Handelsregeln und Störungen der Marktintegrität mitzuteilen; bei Anhaltspunkten für einen Verstoß gegen Artikel 14 oder Artikel 15 der Verordnung (EU) Nr. 596/2014 ist die Bundesanstalt unverzüglich zu unterrichten und bei ihren Untersuchungen umfassend zu unterstützen.
 
 (4) Der Betreiber eines multilateralen Handelssystems hat der Bundesanstalt unverzüglich mitzuteilen, wenn bei einem an seinem multilateralen Handelssystem gehandelten Finanzinstrument ein signifikanter Kursverfall im Sinne des Artikels 23 der Verordnung (EU) Nr. 236/2012 eintritt.
 
@@ -2210,18 +2696,18 @@ alle natürlichen Personen, die im Rahmen einer Auslagerungsvereinbarung unmitte
 für eigene Rechnung,
 
 2.  
-für Rechnung von Personen, mit denen sie im Sinne des § 15a Abs. 3 Satz 1 in enger Beziehung stehen, von minderjährigen Stiefkindern oder Personen, an deren Geschäftserfolg der Mitarbeiter ein zumindest mittelbares wesentliches Interesse hat, welches nicht in einer Gebühr oder Provision für die Ausführung des Geschäfts besteht, oder
+für Rechnung von Personen, mit denen sie im Sinne des Artikels 3 Absatz 1 Nummer 26 der Verordnung (EU) Nr. 596/2014 eng verbunden sind, von minderjährigen Stiefkindern oder Personen, an deren Geschäftserfolg der Mitarbeiter ein zumindest mittelbares wesentliches Interesse hat, welches nicht in einer Gebühr oder Provision für die Ausführung des Geschäfts besteht, oder
 
 3.  
 außerhalb des ihnen zugewiesenen Aufgabenbereichs für eigene oder fremde Rechnung.
 
-(3) Wertpapierdienstleistungsunternehmen müssen angemessene Mittel und Verfahren einsetzen, die bezwecken, Mitarbeiter, deren Tätigkeit Anlass zu einem Interessenkonflikt geben könnte oder die aufgrund ihrer Tätigkeit Zugang haben zu Insiderinformationen nach § 13 oder zu anderen vertraulichen Informationen über Kunden oder solche Geschäfte, die mit oder für Kunden getätigt werden, daran zu hindern,
+(3) Wertpapierdienstleistungsunternehmen müssen angemessene Mittel und Verfahren einsetzen, die bezwecken, Mitarbeiter, deren Tätigkeit Anlass zu einem Interessenkonflikt geben könnte oder die aufgrund ihrer Tätigkeit Zugang haben zu Insiderinformationen im Sinne des Artikels 7 der Verordnung (EU) Nr. 596/2014 oder zu anderen vertraulichen Informationen über Kunden oder solche Geschäfte, die mit oder für Kunden getätigt werden, daran zu hindern,
 
 1.  
 ein Mitarbeitergeschäft zu tätigen, welches
 
 a)  
-gegen eine Vorschrift dieses Abschnitts oder § 14 verstoßen könnte oder
+gegen eine Vorschrift dieses Abschnitts oder Artikel 14 der Verordnung (EU) Nr. 596/2014 verstoßen könnte oder
 
 b)  
 mit dem Missbrauch oder der vorschriftswidrigen Weitergabe vertraulicher Informationen verbunden ist,
@@ -2238,7 +2724,7 @@ gegen § 31c Abs. 1 Nr. 5 verstieße
 oder einen anderen zu einem solchen Geschäft zu verleiten,
 
 3.  
-unbeschadet des Verbots nach § 14 Abs. 1 Nr. 2, außerhalb ihrer vorgesehenen Tätigkeit als Mitarbeiter einem anderen Meinungen oder Informationen in dem Bewusstsein zugänglich zu machen, dass der andere hierdurch verleitet werden dürfte,
+unbeschadet des Verbots nach Artikel 14 Buchstabe c der Verordnung (EU) Nr. 596/2014, außerhalb ihrer vorgesehenen Tätigkeit als Mitarbeiter einem anderen Meinungen oder Informationen in dem Bewusstsein zugänglich zu machen, dass der andere hierdurch verleitet werden dürfte,
 
 a)  
 ein Geschäft zu tätigen, welches als Mitarbeitergeschäft die Voraussetzungen der Nummer 1 oder des Absatzes 5 Nr. 1 oder Nr. 2 erfüllte oder gegen § 31c Abs. 1 Nr. 5 verstieße, oder
@@ -2260,30 +2746,30 @@ im Rahmen von Auslagerungsvereinbarungen im Sinne des § 25b des Kreditwesengese
 4.  
 das Wertpapierdienstleistungsunternehmen alle Mitarbeitergeschäfte, von denen es nach Nummer 2 oder Nummer 3 Kenntnis erhält, und alle Erlaubnisse und Verbote, die hierzu erteilt werden, dokumentiert.
 
-(5) Die organisatorischen Vorkehrungen von Wertpapierdienstleistungsunternehmen, die auf eigene Verantwortung oder auf Verantwortung eines Mitglieds ihrer Unternehmensgruppe Finanzanalysen über Finanzinstrumente im Sinne des § 2 Abs. 2b oder deren Emittenten erstellen oder erstellen lassen, die unter ihren Kunden oder in der Öffentlichkeit verbreitet werden sollen oder deren Verbreitung wahrscheinlich ist, müssen zudem darauf ausgerichtet sein, zu gewährleisten, dass
+(5) Die organisatorischen Vorkehrungen von Wertpapierdienstleistungsunternehmen, die auf eigene Verantwortung oder auf Verantwortung eines Mitglieds ihrer Unternehmensgruppe Anlageempfehlungen oder Anlagestrategieempfehlungen zu Finanzinstrumenten im Sinne des § 2 Abs. 2b oder deren Emittenten erstellen oder erstellen lassen, die unter ihren Kunden oder in der Öffentlichkeit verbreitet werden sollen oder deren Verbreitung wahrscheinlich ist, müssen zudem darauf ausgerichtet sein, zu gewährleisten, dass
 
 1.  
-Mitarbeiter, die den Inhalt und wahrscheinlichen Zeitplan von Finanzanalysen über Finanzinstrumente im Sinne des § 2 Abs. 2b oder deren Emittenten kennen, die weder veröffentlicht noch für Kunden zugänglich sind und deren Empfehlung Dritte nicht bereits aufgrund öffentlich verfügbarer Informationen erwarten würden, für eigene Rechnung oder für Rechnung Dritter, einschließlich des Wertpapierdienstleistungsunternehmens, keine Geschäfte mit Finanzinstrumenten tätigen, auf die sich die Finanzanalysen beziehen, oder damit verbundenen Finanzinstrumenten, bevor die Empfänger der Finanzanalysen oder Anlageempfehlungen ausreichend Gelegenheit für eine Reaktion hatten, es sei denn, die Mitarbeiter handeln in ihrer Eigenschaft als Market Maker nach Treu und Glauben und im üblichen Rahmen oder in Ausführung eines nicht selbst initiierten Kundenauftrags,
+Mitarbeiter, die den Inhalt und wahrscheinlichen Zeitplan von Anlageempfehlungen oder Anlagestrategieempfehlungen zu Finanzinstrumenten im Sinne des § 2 Abs. 2b oder deren Emittenten kennen, die weder veröffentlicht noch für Kunden zugänglich sind und deren Empfehlung Dritte nicht bereits aufgrund öffentlich verfügbarer Informationen erwarten würden, für eigene Rechnung oder für Rechnung Dritter, einschließlich des Wertpapierdienstleistungsunternehmens, keine Geschäfte mit Finanzinstrumenten tätigen, auf die sich die Anlageempfehlungen oder Anlagestrategieempfehlungen beziehen, oder damit verbundenen Finanzinstrumenten, bevor die Empfänger der Anlageempfehlungen oder Anlagestrategieempfehlungen ausreichend Gelegenheit für eine Reaktion hatten, es sei denn, die Mitarbeiter handeln in ihrer Eigenschaft als Market Maker nach Treu und Glauben und im üblichen Rahmen oder in Ausführung eines nicht selbst initiierten Kundenauftrags,
 
 2.  
-in nicht unter Nummer 1 erfassten Fällen Mitarbeiter, die an der Erstellung von Finanzanalysen über Finanzinstrumente im Sinne des § 2 Abs. 2b oder deren Emittenten beteiligt sind, nur in Ausnahmefällen und mit vorheriger Zustimmung der Rechtsabteilung oder der Compliance-Funktion ein Mitarbeitergeschäft über Finanzinstrumente, auf die sich die Finanzanalysen beziehen, oder damit verbundene Finanzinstrumente, entgegen den aktuellen Empfehlungen tätigen.
+in nicht unter Nummer 1 erfassten Fällen Mitarbeiter, die an der Erstellung von Anlageempfehlungen oder Anlagestrategieempfehlungen zu Finanzinstrumenten im Sinne des § 2 Abs. 2b oder deren Emittenten beteiligt sind, nur in Ausnahmefällen und mit vorheriger Zustimmung der Rechtsabteilung oder der Compliance-Funktion ein Mitarbeitergeschäft über Finanzinstrumente, auf die sich die Anlageempfehlungen oder Anlagestrategieempfehlungen beziehen, oder damit verbundene Finanzinstrumente, entgegen den aktuellen Empfehlungen tätigen.
 
-(6) Die Pflichten des Absatzes 5 gelten auch für Wertpapierdienstleistungsunternehmen, die von einem Dritten erstellte Finanzanalysen öffentlich verbreiten oder an ihre Kunden weitergeben, es sei denn,
+(6) Die Pflichten des Absatzes 5 gelten auch für Wertpapierdienstleistungsunternehmen, die von einem Dritten erstellte Anlageempfehlungen oder Anlagestrategieempfehlungen öffentlich verbreiten oder an ihre Kunden weitergeben, es sei denn,
 
 1.  
-der Dritte, der die Finanzanalyse erstellt, gehört nicht zur selben Unternehmensgruppe und
+der Dritte, der die Anlageempfehlung oder Anlagestrategieempfehlung erstellt, gehört nicht zur selben Unternehmensgruppe und
 
 2.  
 das Wertpapierdienstleistungsunternehmen
 
 a)  
-ändert die in der Finanzanalyse enthaltenen Empfehlungen nicht wesentlich ab,
+ändert die in der Anlageempfehlung oder Anlagestrategieempfehlung enthaltenen Empfehlungen nicht wesentlich ab,
 
 b)  
-stellt die Finanzanalyse nicht als von ihm erstellt dar und
+stellt die Anlageempfehlung oder Anlagestrategieempfehlung nicht als von ihm erstellt dar und
 
 c)  
-vergewissert sich, dass für den Ersteller der Finanzanalyse Bestimmungen gelten, die den Anforderungen des Absatzes 5 gleichwertig sind, oder dieser Grundsätze im Sinne dieser Anforderungen festgelegt hat.
+vergewissert sich, dass für den Ersteller der Anlageempfehlung oder Anlagestrategieempfehlung Bestimmungen gelten, die den Anforderungen des Absatzes 5 gleichwertig sind, oder dieser Grundsätze im Sinne dieser Anforderungen festgelegt hat.
 
 (7) Von den Absätzen 3 und 4 ausgenommen ist ein Mitarbeitergeschäft
 
@@ -2331,43 +2817,17 @@ im Inland, in einem anderen Mitgliedstaat der Europäischen Union oder einem and
 
 (+++ § 34a Abs. 3: Zur Anwendung vgl. § 51 Abs. 4 Satz 2 u. § 54 Abs. 4 Satz 2 KAGB +++)
 
-### § 34b Analyse von Finanzinstrumenten
+### § 34b Anlagestrategieempfehlungen und Anlageempfehlungen; Rechtsverordnung
 
-(1) Personen, die im Rahmen ihrer Berufs- oder Geschäftstätigkeit eine Information über Finanzinstrumente oder deren Emittenten erstellen, die direkt oder indirekt eine Empfehlung für eine bestimmte Anlageentscheidung enthält und einem unbestimmten Personenkreis zugänglich gemacht werden soll (Finanzanalyse), sind zu der erforderlichen Sachkenntnis, Sorgfalt und Gewissenhaftigkeit verpflichtet. Die Finanzanalyse darf nur weitergegeben oder öffentlich verbreitet werden, wenn sie sachgerecht erstellt und dargeboten wird und
+(1) Unternehmen, die Anlagestrategieempfehlungen im Sinne des Artikels 3 Absatz 1 Nummer 34 der Verordnung (EU) Nr. 596/2014 oder Anlageempfehlungen im Sinne des Artikels 3 Absatz 1 Nummer 35 der Verordnung (EU) Nr. 596/2014 erstellen oder verbreiten, müssen so organisiert sein, dass Interessenkonflikte im Sinne des Artikels 20 Absatz 1 der Verordnung (EU) Nr. 596/2014 möglichst gering sind. Sie müssen insbesondere über angemessene Kontrollverfahren verfügen, die geeignet sind, Verstößen gegen die Verpflichtungen nach Artikel 20 Absatz 1 der Verordnung (EU) Nr. 596/2014 entgegenzuwirken. Für Wertpapierdienstleistungsunternehmen, die auf eigene Verantwortung oder auf Verantwortung eines Mitglieds ihrer Unternehmensgruppe Anlageempfehlungen oder Anlagestrategieempfehlungen erstellen oder erstellen lassen, die unter ihren Kunden oder in der Öffentlichkeit verbreitet werden sollen oder deren Verbreitung wahrscheinlich ist, gilt Satz 1 auch in Bezug auf Anlageempfehlungen oder Anlagestrategieempfehlungen zu Finanzinstrumenten im Sinne des § 2 Absatz 2b, die nicht unter Artikel 2 Absatz 1 der Verordnung (EU) Nr. 596/2014 fallen, oder deren Emittenten. Satz 3 ist nicht auf Wertpapierdienstleistungsunternehmen im Sinne des § 33b Absatz 6 anwendbar.
 
-1.  
-die Identität der Person, die für die Weitergabe oder die Verbreitung der Finanzanalyse verantwortlich ist, und
+(2) Die Befugnisse der Bundesanstalt nach § 35 gelten hinsichtlich der Einhaltung der in Absatz 1 genannten Pflichten und der Pflichten, die sich aus Artikel 20 Absatz 1 der Verordnung (EU) Nr. 596/2014 in Verbindung mit einem auf der Grundlage von Artikel 20 Absatz 3 der Verordnung (EU) Nr. 596/2014 erlassenen delegierten Rechtsakt ergeben, entsprechend. § 36 gilt entsprechend, wenn die Anlageempfehlung oder Anlagestrategieempfehlung von einem Wertpapierdienstleistungsunternehmen erstellt oder verbreitet wird.
 
-2.  
-Umstände oder Beziehungen, die bei den Erstellern, den für die Erstellung verantwortlichen juristischen Personen oder mit diesen verbundenen Unternehmen Interessenkonflikte begründen können,
-
-zusammen mit der Finanzanalyse offen gelegt werden.
-
-(2) Eine Zusammenfassung einer von einem Dritten erstellten Finanzanalyse darf nur weitergegeben werden, wenn der Inhalt der Finanzanalyse klar und nicht irreführend wiedergegeben wird und in der Zusammenfassung auf das Ausgangsdokument sowie auf den Ort verwiesen wird, an dem die mit dem Ausgangsdokument verbundene Offenlegung nach Absatz 1 Satz 2 unmittelbar und leicht zugänglich ist, sofern diese Angaben öffentlich verbreitet wurden.
-
-(3) Finanzinstrumente im Sinne des Absatzes 1 sind nur solche, die
-
-1.  
-zum Handel an einer inländischen Börse zugelassen oder in den regulierten Markt oder den Freiverkehr einbezogen sind oder
-
-2.  
-in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zum Handel an einem organisierten Markt zugelassen sind.
-
-Der Zulassung zum Handel an einem organisierten Markt oder der Einbeziehung in den geregelten Markt oder in den Freiverkehr steht es gleich, wenn der Antrag auf Zulassung oder Einbeziehung gestellt oder öffentlich angekündigt ist.
-
-(4) Die Bestimmungen der Absätze 1, 2 und 5 gelten nicht für Journalisten, sofern diese einer mit den Regelungen der Absätze 1, 2 und 5 sowie des § 34c vergleichbaren Selbstregulierung einschließlich wirksamer Kontrollmechanismen unterliegen.
-
-(5) Unternehmen, die Finanzanalysen nach Absatz 1 Satz 1 erstellen oder weitergeben, müssen so organisiert sein, dass Interessenkonflikte im Sinne des Absatzes 1 Satz 2 möglichst gering sind. Sie müssen insbesondere über angemessene Kontrollverfahren verfügen, die geeignet sind, Verstößen gegen Verpflichtungen nach Absatz 1 entgegenzuwirken. Für Wertpapierdienstleistungsunternehmen, die auf eigene Verantwortung oder auf Verantwortung eines Mitglieds ihrer Unternehmensgruppe Finanzanalysen erstellen oder erstellen lassen, die unter ihren Kunden oder in der Öffentlichkeit verbreitet werden sollen oder deren Verbreitung wahrscheinlich ist, gilt Satz 1 auch in Bezug auf Finanzanalysen über Finanzinstrumente im Sinne des § 2 Abs. 2b, die nicht unter Absatz 3 fallen, oder deren Emittenten. Satz 3 ist nicht auf Wertpapierdienstleistungsunternehmen im Sinne des § 33b Abs. 6 anwendbar.
-
-(6) (weggefallen)
-
-(7) Die Befugnisse der Bundesanstalt nach § 35 gelten hinsichtlich der Einhaltung der in den Absätzen 1, 2 und 5 genannten Pflichten entsprechend. § 36 gilt entsprechend, wenn die Finanzanalyse von einem Wertpapierdienstleistungsunternehmen erstellt, anderen zugänglich gemacht oder öffentlich verbreitet wird.
-
-(8) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über die sachgerechte Erstellung und Darbietung von Finanzanalysen, über Umstände oder Beziehungen, die Interessenkonflikte begründen können, über deren Offenlegung sowie über die angemessene Organisation nach Absatz 5 erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
+(3) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über die angemessene Organisation nach Absatz 1 Satz 1 erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 ### § 34c Anzeigepflicht
 
-Andere Personen als Wertpapierdienstleistungsunternehmen, Kapitalanlagegesellschaften oder Investmentaktiengesellschaften, die in Ausübung ihres Berufes oder im Rahmen ihrer Geschäftstätigkeit für die Erstellung von Finanzanalysen oder deren Weitergabe verantwortlich sind, haben dies gemäß Satz 3 der Bundesanstalt unverzüglich anzuzeigen. Die Einstellung der in Satz 1 genannten Tätigkeiten ist ebenfalls anzuzeigen. Die Anzeige muss Name oder Firma und Anschrift des Anzeigepflichtigen enthalten. Der Anzeigepflichtige hat weiterhin anzuzeigen, ob bei mit ihm verbundenen Unternehmen Tatsachen vorliegen, die Interessenkonflikte begründen können. Veränderungen der angezeigten Daten und Sachverhalte sind innerhalb von vier Wochen der Bundesanstalt anzuzeigen. Die Ausnahmevorschrift des § 34b Abs. 4 gilt entsprechend.
+Andere Personen als Wertpapierdienstleistungsunternehmen, Kapitalverwaltungsgesellschaften oder Investmentaktiengesellschaften, die in Ausübung ihres Berufes oder im Rahmen ihrer Geschäftstätigkeit für die Erstellung von Anlagestrategieempfehlungen im Sinne des Artikels 3 Absatz 1 Nummer 34 der Verordnung (EU) Nr. 596/2014 oder von Anlageempfehlungen im Sinne des Artikels 3 Absatz 1 Nummer 35 der Verordnung (EU) Nr. 596/2014 oder deren Weitergabe verantwortlich sind, haben dies der Bundesanstalt unverzüglich anzuzeigen. Die Einstellung der in Satz 1 genannten Tätigkeiten ist ebenfalls anzuzeigen. Die Anzeige muss Name oder Firma und Anschrift des Anzeigepflichtigen enthalten. Der Anzeigepflichtige hat weiterhin anzuzeigen, ob bei mit ihm verbundenen Unternehmen Tatsachen vorliegen, die Interessenkonflikte begründen können. Veränderungen der angezeigten Daten und Sachverhalte sind der Bundesanstalt innerhalb von vier Wochen anzuzeigen.
 
 ### § 34d Einsatz von Mitarbeitern in der Anlageberatung, als Vertriebsbeauftragte oder als Compliance-Beauftragte
 
@@ -2441,7 +2901,7 @@ einschließlich des jeweiligen Verfahrens regeln. In der Rechtsverordnung nach S
 
 ### § 36 Prüfung der Meldepflichten und Verhaltensregeln
 
-(1) Unbeschadet des § 35 ist die Einhaltung der Meldepflichten nach § 9, der Anzeigepflichten nach § 10, der in diesem Abschnitt geregelten Pflichten sowie der sich aus der Verordnung (EG) Nr. 1287/2006 und § 17 Absatz 2 in Verbindung mit Artikel 4 Absatz 1 Unterabsatz 1 sowie Artikel 5a Absatz 1 der Verordnung (EG) Nr. 1060/2009 in der jeweils geltenden Fassung ergebenden Pflichten einmal jährlich durch einen geeigneten Prüfer zu prüfen. Bei Kreditinstituten, die das Depotgeschäft im Sinne von § 1 Abs. 1 Satz 2 Nr. 5 des Kreditwesengesetzes betreiben, und bei Finanzdienstleistungsinstituten, die das eingeschränkte Verwahrgeschäft im Sinne des § 1 Absatz 1a Satz 2 Nummer 12 des Kreditwesengesetzes erbringen, hat der Prüfer auch diese Geschäfte besonders zu prüfen; diese Prüfung hat sich auch auf die Einhaltung des § 128 des Aktiengesetzes über Mitteilungspflichten und des § 135 des Aktiengesetzes über die Ausübung des Stimmrechts zu erstrecken. Die Bundesanstalt kann auf Antrag von der jährlichen Prüfung, mit Ausnahme der Prüfung der Einhaltung der Anforderungen nach § 34a, auch in Verbindung mit einer Rechtsverordnung nach § 34a Abs. 5, ganz oder teilweise absehen, soweit dies aus besonderen Gründen, insbesondere wegen der Art und des Umfangs der betriebenen Geschäfte angezeigt ist. Das Wertpapierdienstleistungsunternehmen hat den Prüfer jeweils spätestens zum Ablauf des Geschäftsjahres zu bestellen, auf das sich die Prüfung erstreckt. Bei Kreditinstituten, die einem genossenschaftlichen Prüfungsverband angehören oder durch die Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden, wird die Prüfung durch den zuständigen Prüfungsverband oder die zuständige Prüfungsstelle, soweit hinsichtlich letzterer das Landesrecht dies vorsieht, vorgenommen. Geeignete Prüfer sind darüber hinaus Wirtschaftsprüfer, vereidigte Buchprüfer sowie Wirtschaftsprüfungs- und Buchprüfungsgesellschaften, die hinsichtlich des Prüfungsgegenstandes über ausreichende Kenntnisse verfügen. Der Prüfer hat unverzüglich nach Beendigung der Prüfung der Bundesanstalt und der Deutschen Bundesbank einen Prüfungsbericht einzureichen. Soweit Prüfungen nach Satz 4 von genossenschaftlichen Prüfungsverbänden oder Prüfungsstellen von Sparkassen- und Giroverbänden durchgeführt werden, haben die Prüfungsverbände oder Prüfungsstellen den Prüfungsbericht nur auf Anforderung der Bundesanstalt oder der Deutschen Bundesbank einzureichen.
+(1) Unbeschadet des § 35 ist einmal jährlich durch einen geeigneten Prüfer zu prüfen, ob die Meldepflichten nach § 9, die in diesem Abschnitt geregelten Pflichten sowie die Pflichten eingehalten werden, die sich aus den Artikeln 16 und 20 der Verordnung (EU) Nr. 596/2014 sowie aus § 17 Absatz 2 in Verbindung mit Artikel 4 Absatz 1 Unterabsatz 1 sowie Artikel 5a Absatz 1 der Verordnung (EG) Nr. 1060/2009 ergeben. Bei Kreditinstituten, die das Depotgeschäft im Sinne von § 1 Abs. 1 Satz 2 Nr. 5 des Kreditwesengesetzes betreiben, und bei Finanzdienstleistungsinstituten, die das eingeschränkte Verwahrgeschäft im Sinne des § 1 Absatz 1a Satz 2 Nummer 12 des Kreditwesengesetzes erbringen, hat der Prüfer auch diese Geschäfte besonders zu prüfen; diese Prüfung hat sich auch auf die Einhaltung des § 128 des Aktiengesetzes über Mitteilungspflichten und des § 135 des Aktiengesetzes über die Ausübung des Stimmrechts zu erstrecken. Die Bundesanstalt kann auf Antrag von der jährlichen Prüfung, mit Ausnahme der Prüfung der Einhaltung der Anforderungen nach § 34a, auch in Verbindung mit einer Rechtsverordnung nach § 34a Abs. 5, ganz oder teilweise absehen, soweit dies aus besonderen Gründen, insbesondere wegen der Art und des Umfangs der betriebenen Geschäfte angezeigt ist. Das Wertpapierdienstleistungsunternehmen hat den Prüfer jeweils spätestens zum Ablauf des Geschäftsjahres zu bestellen, auf das sich die Prüfung erstreckt. Bei Kreditinstituten, die einem genossenschaftlichen Prüfungsverband angehören oder durch die Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden, wird die Prüfung durch den zuständigen Prüfungsverband oder die zuständige Prüfungsstelle, soweit hinsichtlich letzterer das Landesrecht dies vorsieht, vorgenommen. Geeignete Prüfer sind darüber hinaus Wirtschaftsprüfer, vereidigte Buchprüfer sowie Wirtschaftsprüfungs- und Buchprüfungsgesellschaften, die hinsichtlich des Prüfungsgegenstandes über ausreichende Kenntnisse verfügen. Der Prüfer hat unverzüglich nach Beendigung der Prüfung der Bundesanstalt und der Deutschen Bundesbank einen Prüfungsbericht einzureichen. Soweit Prüfungen nach Satz 4 von genossenschaftlichen Prüfungsverbänden oder Prüfungsstellen von Sparkassen- und Giroverbänden durchgeführt werden, haben die Prüfungsverbände oder Prüfungsstellen den Prüfungsbericht nur auf Anforderung der Bundesanstalt oder der Deutschen Bundesbank einzureichen.
 
 (2) Das Wertpapierdienstleistungsunternehmen hat vor Erteilung des Prüfungsauftrags der Bundesanstalt den Prüfer anzuzeigen. Die Bundesanstalt kann innerhalb eines Monats nach Zugang der Anzeige die Bestellung eines anderen Prüfers verlangen, wenn dies zur Erreichung des Prüfungszweckes geboten ist; Widerspruch und Anfechtungsklage hiergegen haben keine aufschiebende Wirkung. Die Sätze 1 und 2 gelten nicht für Kreditinstitute, die einem genossenschaftlichen Prüfungsverband angehören oder durch die Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden.
 
@@ -2455,7 +2915,7 @@ einschließlich des jeweiligen Verfahrens regeln. In der Rechtsverordnung nach S
 
 ### § 36a Unternehmen, organisierte Märkte und multilaterale Handelssysteme mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
-(1) Die in diesem Abschnitt geregelten Rechte und Pflichten sind mit Ausnahme des § 31 Abs. 1 Nr. 2, der §§ 31f, 31g, 33 Absatz 1 bis 3 und 4, der §§ 33b, 34a und 34b Abs. 5 sowie der §§ 34c und 34d auf Zweigniederlassungen im Sinne des § 53b des Kreditwesengesetzes, die Wertpapierdienstleistungen erbringen, entsprechend anzuwenden. Ein Unternehmen mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, das Wertpapierdienstleistungen allein oder zusammen mit Wertpapiernebendienstleistungen erbringt und das beabsichtigt, im Inland eine Zweigniederlassung im Sinne des § 53b des Kreditwesengesetzes zu errichten, ist von der Bundesanstalt innerhalb der in § 53b Abs. 2 Satz 1 des Kreditwesengesetzes bestimmten Frist auf die Meldepflichten nach § 9 und die nach Satz 1 für die Zweigniederlassung geltenden Rechte und Pflichten hinzuweisen.
+(1) Die in diesem Abschnitt geregelten Rechte und Pflichten sind mit Ausnahme des § 31 Abs. 1 Nr. 2, der §§ 31f, 31g, 33 Absatz 1 bis 3 und 4, der §§ 33b, 34a und 34b Absatz 1 sowie der §§ 34c und 34d auf Zweigniederlassungen im Sinne des § 53b des Kreditwesengesetzes, die Wertpapierdienstleistungen erbringen, entsprechend anzuwenden. Ein Unternehmen mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, das Wertpapierdienstleistungen allein oder zusammen mit Wertpapiernebendienstleistungen erbringt und das beabsichtigt, im Inland eine Zweigniederlassung im Sinne des § 53b des Kreditwesengesetzes zu errichten, ist von der Bundesanstalt innerhalb der in § 53b Abs. 2 Satz 1 des Kreditwesengesetzes bestimmten Frist auf die Meldepflichten nach § 9 und die nach Satz 1 für die Zweigniederlassung geltenden Rechte und Pflichten hinzuweisen.
 
 (2) Die Bundesanstalt kann von der Zweigniederlassung Änderungen der getroffenen Vorkehrungen zur Einhaltung der für sie geltenden Pflichten verlangen, soweit die Änderungen notwendig und verhältnismäßig sind, um der Bundesanstalt die Prüfung der Einhaltung der Pflichten zu ermöglichen. Stellt die Bundesanstalt fest, dass das Unternehmen die nach Absatz 1 Satz 1 für seine Zweigniederlassung geltenden Pflichten nicht beachtet, fordert es das Unternehmen auf, seine Verpflichtungen innerhalb einer von der Bundesanstalt zu bestimmenden Frist zu erfüllen. Kommt das Unternehmen der Aufforderung nicht nach, trifft die Bundesanstalt alle geeigneten Maßnahmen, um die Erfüllung der Verpflichtungen sicherzustellen und unterrichtet die zuständigen Behörden des Herkunftsmitgliedstaates über die Art der getroffenen Maßnahmen. Falls das betroffene Unternehmen den Mangel nicht behebt, kann die Bundesanstalt nach Unterrichtung der zuständigen Behörde des Herkunftsmitgliedstaates alle Maßnahmen ergreifen, um weitere Verstöße zu verhindern oder zu ahnden. Soweit erforderlich, kann die Bundesanstalt dem betroffenen Unternehmen die Durchführung neuer Geschäfte im Inland untersagen. Die Bundesanstalt unterrichtet die Europäische Kommission und die Europäische Wertpapier- und Marktaufsichtsbehörde unverzüglich von Maßnahmen nach den Sätzen 4 und 5.
 
@@ -2572,7 +3032,7 @@ die Finanzinstrumente vor dem Entstehen der Insiderinformation erwirbt und nach 
 
 ### § 37c Schadenersatz wegen Veröffentlichung unwahrer Insiderinformationen
 
-(1) Veröffentlicht der Emittent von Finanzinstrumenten, die zum Handel an einer inländischen Börse zugelassen sind, in einer Mitteilung nach § 15 eine unwahre Insiderinformation, die ihn unmittelbar betrifft, ist er einem Dritten zum Ersatz des Schadens verpflichtet, der dadurch entsteht, dass der Dritte auf die Richtigkeit der Insiderinformation vertraut, wenn der Dritte
+(1) Veröffentlicht der Emittent von Finanzinstrumenten, die zum Handel an einer inländischen Börse zugelassen sind, in einer Mitteilung nach Artikel 17 der Verordnung (EU) Nr. 596/2014 eine unwahre Insiderinformation, die ihn unmittelbar betrifft, ist er einem Dritten zum Ersatz des Schadens verpflichtet, der dadurch entsteht, dass der Dritte auf die Richtigkeit der Insiderinformation vertraut, wenn der Dritte
 
 1.  
 die Finanzinstrumente nach der Veröffentlichung erwirbt und er bei dem Bekanntwerden der Unrichtigkeit der Insiderinformation noch Inhaber der Finanzinstrumente ist oder
@@ -2718,7 +3178,7 @@ Unterabschnitt 1 Überwachung von Unternehmensabschlüssen
 
 ### § 37n Prüfung von Unternehmensabschlüssen und -berichten
 
-Die Bundesanstalt hat die Aufgabe, nach den Vorschriften dieses Abschnitts und vorbehaltlich § 342b Absatz 2 Satz 3 Nummer 1 und 3 des Handelsgesetzbuchs zu prüfen, ob folgende Abschlüsse und Berichte von Unternehmen, für die als Emittenten von zugelassenen Wertpapieren die Bundesrepublik Deutschland der Herkunftsstaat ist, den gesetzlichen Vorschriften einschließlich der Grundsätze ordnungsmäßiger Buchführung oder den sonstigen durch Gesetz zugelassenen Rechnungslegungsstandards entsprechen:
+Die Bundesanstalt hat die Aufgabe, nach den Vorschriften dieses Abschnitts und vorbehaltlich § 342b Absatz 2 Satz 3 Nummer 1 und 3 des Handelsgesetzbuchs zu prüfen, ob folgende Abschlüsse und Berichte, jeweils einschließlich der zugrunde liegenden Buchführung, von Unternehmen, für die als Emittenten von zugelassenen Wertpapieren die Bundesrepublik Deutschland der Herkunftsstaat ist, den gesetzlichen Vorschriften einschließlich der Grundsätze ordnungsmäßiger Buchführung oder den sonstigen durch Gesetz zugelassenen Rechnungslegungsstandards entsprechen:
 
 1.  
 festgestellte Jahresabschlüsse und zugehörige Lageberichte oder gebilligte Konzernabschlüsse und zugehörige Konzernlageberichte,
@@ -2733,7 +3193,7 @@ veröffentlichte Zahlungs- oder Konzernzahlungsberichte.
 
 ### § 37o Anordnung einer Prüfung der Rechnungslegung und Ermittlungsbefugnisse der Bundesanstalt
 
-(1) Die Bundesanstalt ordnet eine Prüfung der Rechnungslegung an, soweit konkrete Anhaltspunkte für einen Verstoß gegen Rechnungslegungsvorschriften vorliegen; die Anordnung unterbleibt, wenn ein öffentliches Interesse an der Klärung offensichtlich nicht besteht. Die Bundesanstalt kann eine Prüfung der Rechnungslegung auch ohne besonderen Anlass anordnen (stichprobenartige Prüfung). Der Umfang der einzelnen Prüfung soll in der Prüfungsanordnung festgelegt werden. Geprüft wird nur der zuletzt festgestellte Jahresabschluss und der zugehörige Lagebericht oder der zuletzt gebilligte Konzernabschluss und der zugehörige Konzernlagebericht, der zuletzt veröffentlichte verkürzte Abschluss und der zugehörige Zwischenlagebericht sowie der zuletzt veröffentlichte Zahlungsbericht oder Konzernzahlungsbericht; unbeschadet dessen darf die Bundesanstalt im Fall von § 37p Abs. 1 Satz 2 den Abschluss prüfen, der Gegenstand der Prüfung durch die Prüfstelle im Sinne von § 342b Abs. 1 des Handelsgesetzbuchs (Prüfstelle) gewesen ist. Ordnet die Bundesanstalt eine Prüfung der Rechnungslegung an, nachdem sie von der Prüfstelle einen Bericht gemäß § 37p Abs. 1 Satz 2 Nr. 1 erhalten hat, so kann sie ihre Anordnung und den Grund nach § 37p Abs. 1 Satz 2 Nr. 1 im Bundesanzeiger bekannt machen. Auf die Prüfung des verkürzten Abschlusses und des zugehörigen Zwischenlageberichts sowie des Zahlungsberichts und Konzernzahlungsberichts ist Satz 2 nicht anzuwenden.
+(1) Die Bundesanstalt ordnet eine Prüfung der Rechnungslegung an, soweit konkrete Anhaltspunkte für einen Verstoß gegen Rechnungslegungsvorschriften vorliegen; die Anordnung unterbleibt, wenn ein öffentliches Interesse an der Klärung offensichtlich nicht besteht. Die Bundesanstalt kann eine Prüfung der Rechnungslegung auch ohne besonderen Anlass anordnen (stichprobenartige Prüfung). Der Umfang der einzelnen Prüfung soll in der Prüfungsanordnung festgelegt werden. Geprüft wird nur der zuletzt festgestellte Jahresabschluss und der zugehörige Lagebericht oder der zuletzt gebilligte Konzernabschluss und der zugehörige Konzernlagebericht, der zuletzt veröffentlichte verkürzte Abschluss und der zugehörige Zwischenlagebericht sowie der zuletzt veröffentlichte Zahlungsbericht oder Konzernzahlungsbericht; unbeschadet dessen darf die Bundesanstalt im Fall von § 37p Abs. 1 Satz 2 den Abschluss prüfen, der Gegenstand der Prüfung durch die Prüfstelle im Sinne von § 342b Abs. 1 des Handelsgesetzbuchs (Prüfstelle) gewesen ist. Ordnet die Bundesanstalt eine Prüfung der Rechnungslegung an, nachdem sie von der Prüfstelle einen Bericht gemäß § 37p Abs. 1 Satz 2 Nr. 1 erhalten hat, so kann sie ihre Anordnung und den Grund nach § 37p Abs. 1 Satz 2 Nr. 1 im Bundesanzeiger bekannt machen. Auf die Prüfung des verkürzten Abschlusses und des zugehörigen Zwischenlageberichts sowie des Zahlungsberichts und Konzernzahlungsberichts ist Satz 2 nicht anzuwenden. Die Prüfung kann trotz Wegfalls der Zulassung der Wertpapiere zum Handel im organisierten Markt fortgesetzt werden, insbesondere dann, wenn Gegenstand der Prüfung ein Fehler ist, an dessen Bekanntmachung ein öffentliches Interesse besteht.
 
 (1a) Prüfungsgegenstand nach Absatz 1 können auch die Abschlüsse und Berichte sein, die dasjenige Geschäftsjahr zum Gegenstand haben, das demjenigen Geschäftsjahr vorausgeht, auf das Absatz 1 Satz 4 erster Halbsatz Bezug nimmt. Eine stichprobenartige Prüfung ist hierbei nicht zulässig.
 
@@ -2775,7 +3235,7 @@ Auf Verlangen der Bundesanstalt hat die Prüfstelle das Ergebnis und die Durchf�
 
 (1) Die Bundesanstalt hat Tatsachen, die den Verdacht einer Straftat im Zusammenhang mit der Rechnungslegung eines Unternehmens begründen, der für die Verfolgung zuständigen Behörde anzuzeigen. Sie darf diesen Behörden personenbezogene Daten der Betroffenen, gegen die sich der Verdacht richtet oder die als Zeugen in Betracht kommen, übermitteln.
 
-(2) Tatsachen, die auf das Vorliegen einer Berufspflichtverletzung durch den Abschlussprüfer schließen lassen, übermittelt die Bundesanstalt der Wirtschaftsprüferkammer. Tatsachen, die auf das Vorliegen eines Verstoßes des Unternehmens gegen börsenrechtliche Vorschriften schließen lassen, übermittelt sie der zuständigen Börsenaufsichtsbehörde. Absatz 1 Satz 2 gilt entsprechend.
+(2) Tatsachen, die auf das Vorliegen einer Berufspflichtverletzung durch den Abschlussprüfer schließen lassen, übermittelt die Bundesanstalt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle. Tatsachen, die auf das Vorliegen eines Verstoßes des Unternehmens gegen börsenrechtliche Vorschriften schließen lassen, übermittelt sie der zuständigen Börsenaufsichtsbehörde. Absatz 1 Satz 2 gilt entsprechend.
 
 ### § 37s Internationale Zusammenarbeit
 
@@ -2864,7 +3324,7 @@ eine den Vorgaben des § 264 Abs. 2 Satz 3, § 289 Abs. 1 Satz 5 des Handelsgese
 
 zu enthalten.
 
-(3) Der verkürzte Abschluss hat mindestens eine verkürzte Bilanz, eine verkürzte Gewinn- und Verlustrechnung und einen Anhang zu enthalten. Auf den verkürzten Abschluss sind die für den Jahresabschluss geltenden Rechnungslegungsgrundsätze anzuwenden. Tritt bei der Offenlegung an die Stelle des Jahresabschlusses ein Einzelabschluss im Sinne des § 325 Abs. 2a des Handelsgesetzbuchs, sind auf den verkürzten Abschluss die in § 315a Abs. 1 des Handelsgesetzbuchs bezeichneten internationalen Rechnungslegungsstandards und Vorschriften anzuwenden.
+(3) Der verkürzte Abschluss hat mindestens eine verkürzte Bilanz, eine verkürzte Gewinn- und Verlustrechnung und einen Anhang zu enthalten. Auf den verkürzten Abschluss sind die für den Jahresabschluss geltenden Rechnungslegungsgrundsätze anzuwenden. Tritt bei der Offenlegung an die Stelle des Jahresabschlusses ein Einzelabschluss im Sinne des § 325 Abs. 2a des Handelsgesetzbuchs, sind auf den verkürzten Abschluss die in § 315e Absatz 1 des Handelsgesetzbuchs bezeichneten internationalen Rechnungslegungsstandards und Vorschriften anzuwenden.
 
 (4) Im Zwischenlagebericht sind mindestens die wichtigen Ereignisse des Berichtszeitraums im Unternehmen des Emittenten und ihre Auswirkungen auf den verkürzten Abschluss anzugeben sowie die wesentlichen Chancen und Risiken für die dem Berichtszeitraum folgenden sechs Monate des Geschäftsjahrs zu beschreiben. Ferner sind bei einem Unternehmen, das als Inlandsemittent Aktien begibt, die wesentlichen Geschäfte des Emittenten mit nahe stehenden Personen anzugeben; die Angaben können stattdessen im Anhang des Halbjahresfinanzberichts gemacht werden.
 
@@ -2923,10 +3383,10 @@ die Sprache, in der der Zahlungsbericht oder Konzernzahlungsbericht abzufassen i
 Ist ein Mutterunternehmen verpflichtet, einen Konzernabschluss und einen Konzernlagebericht aufzustellen, gelten die §§ 37v und 37w mit der folgenden Maßgabe:
 
 1.  
-Der Jahresfinanzbericht hat auch den geprüften, im Einklang mit der Verordnung (EG) Nr. 1606/2002 des Europäischen Parlaments und des Rates vom 19. Juli 2002 betreffend die Anwendung internationaler Rechnungslegungsstandards (ABl. EG Nr. L 243 S. 1) aufgestellten Konzernabschluss, den Konzernlagebericht, eine den Vorgaben des § 297 Absatz 2 Satz 4, § 315 Abs. 1 Satz 6 des Handelsgesetzbuchs entsprechende Erklärung und eine Bescheinigung der Wirtschaftsprüferkammer gemäß § 134 Abs. 2a der Wirtschaftsprüferordnung über die Eintragung des Abschlussprüfers oder eine Bestätigung der Wirtschaftsprüferkammer gemäß § 134 Abs. 4 Satz 8 der Wirtschaftsprüferordnung über die Befreiung von der Eintragungspflicht zu enthalten.
+Der Jahresfinanzbericht hat auch den geprüften, im Einklang mit der Verordnung (EG) Nr. 1606/2002 des Europäischen Parlaments und des Rates vom 19. Juli 2002 betreffend die Anwendung internationaler Rechnungslegungsstandards (ABl. EG Nr. L 243 S. 1) aufgestellten Konzernabschluss, den Konzernlagebericht, eine den Vorgaben des § 297 Absatz 2 Satz 4, § 315 Absatz 1 Satz 5 des Handelsgesetzbuchs entsprechende Erklärung und eine Bescheinigung der Wirtschaftsprüferkammer gemäß § 134 Abs. 2a der Wirtschaftsprüferordnung über die Eintragung des Abschlussprüfers oder eine Bestätigung der Wirtschaftsprüferkammer gemäß § 134 Abs. 4 Satz 8 der Wirtschaftsprüferordnung über die Befreiung von der Eintragungspflicht zu enthalten.
 
 2.  
-Die gesetzlichen Vertreter des Mutterunternehmens haben den Halbjahresfinanzbericht für das Mutterunternehmen und die Gesamtheit der einzubeziehenden Tochterunternehmen zu erstellen und zu veröffentlichen. § 37w Abs. 3 gilt entsprechend, wenn das Mutterunternehmen verpflichtet ist, den Konzernabschluss nach den in § 315a Abs. 1 des Handelsgesetzbuchs bezeichneten internationalen Rechnungslegungsstandards und Vorschriften aufzustellen.
+Die gesetzlichen Vertreter des Mutterunternehmens haben den Halbjahresfinanzbericht für das Mutterunternehmen und die Gesamtheit der einzubeziehenden Tochterunternehmen zu erstellen und zu veröffentlichen. § 37w Abs. 3 gilt entsprechend, wenn das Mutterunternehmen verpflichtet ist, den Konzernabschluss nach den in § 315e Absatz 1 des Handelsgesetzbuchs bezeichneten internationalen Rechnungslegungsstandards und Vorschriften aufzustellen.
 
 3.  
 (weggefallen)
@@ -2963,40 +3423,29 @@ Abschnitt 12 Straf- und Bußgeldvorschriften
 
 ### § 38 Strafvorschriften
 
-(1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer
+(1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer eine in
 
 1.  
-entgegen § 14 Abs. 1 Nr. 1 ein Insiderpapier erwirbt oder veräußert oder
+§ 39 Absatz 2 Nummer 3 oder Absatz 3c oder
 
 2.  
+§ 39 Absatz 3d Nummer 2
+
+bezeichnete vorsätzliche Handlung begeht und dadurch einwirkt auf
+
 a)  
-als Mitglied des Geschäftsführungs- oder Aufsichtsorgans oder als persönlich haftender Gesellschafter des Emittenten oder eines mit dem Emittenten verbundenen Unternehmens,
+den inländischen Börsen- oder Marktpreis eines Finanzinstruments, eines damit verbundenen Waren-Spot-Kontrakts, einer Ware im Sinne des § 2 Absatz 2c, einer Emissionsberechtigung im Sinne des § 3 Nummer 3 des Treibhausgas-Emissionshandelsgesetzes oder eines ausländischen Zahlungsmittels im Sinne des § 51 des Börsengesetzes,
 
 b)  
-auf Grund seiner Beteiligung am Kapital des Emittenten oder eines mit dem Emittenten verbundenen Unternehmens,
+den Preis eines Finanzinstruments oder eines damit verbundenen Waren-Spot-Kontrakts an einem organisierten Markt oder einem multilateralen Handelssystem in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum,
 
 c)  
-auf Grund seines Berufs oder seiner Tätigkeit oder seiner Aufgabe bestimmungsgemäß oder
+den Preis einer Ware im Sinne des § 2 Absatz 2c, einer Emissionsberechtigung im Sinne des § 3 Nummer 3 des Treibhausgas-Emissionshandelsgesetzes oder eines ausländischen Zahlungsmittels im Sinne des § 51 des Börsengesetzes an einem mit einer inländischen Börse vergleichbaren Markt in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
 
 d)  
-auf Grund der Vorbereitung oder Begehung einer Straftat
+die Berechnung eines Referenzwertes im Inland oder in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum.
 
-über eine Insiderinformation verfügt und unter Verwendung dieser Insiderinformation eine in § 39 Abs. 2 Nr. 3 oder 4 bezeichnete vorsätzliche Handlung begeht.
-
-(2) Ebenso wird bestraft, wer eine in § 39 Abs. 1 Nr. 1 oder Nr. 2 oder Abs. 2 Nr. 11 bezeichnete vorsätzliche Handlung begeht und dadurch
-
-1.  
-auf den inländischen Börsen- oder Marktpreis eines Finanzinstruments, einer Ware im Sinne des § 2 Abs. 2c, einer Emissionsberechtigung im Sinne des § 3 Nummer 3 des Treibhausgas-Emissionshandelsgesetzes oder eines ausländischen Zahlungsmittels im Sinne des § 51 des Börsengesetzes,
-
-2.  
-auf den Preis eines Finanzinstruments an einem organisierten Markt in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
-
-3.  
-auf den Preis einer Ware im Sinne des § 2 Abs. 2c, einer Emissionsberechtigung im Sinne des § 3 Nummer 3 des Treibhausgas-Emissionshandelsgesetzes oder eines ausländischen Zahlungsmittels im Sinne des § 51 des Börsengesetzes an einem mit einer inländischen Börse vergleichbaren Markt in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
-
-einwirkt.
-
-(2a) Ebenso wird bestraft, wer gegen die Verordnung (EU) Nr. 1031/2010 der Kommission vom 12. November 2010 über den zeitlichen und administrativen Ablauf sowie sonstige Aspekte der Versteigerung von Treibhausgasemissionszertifikaten gemäß der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates über ein System für den Handel mit Treibhausgasemissionszertifikaten in der Gemeinschaft (ABl. L 302 vom 18.11.2010, S. 1) verstößt, indem er
+(2) Ebenso wird bestraft, wer gegen die Verordnung (EU) Nr. 1031/2010 der Kommission vom 12. November 2010 über den zeitlichen und administrativen Ablauf sowie sonstige Aspekte der Versteigerung von Treibhausgasemissionszertifikaten gemäß der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates über ein System für den Handel mit Treibhausgasemissionszertifikaten in der Gemeinschaft (ABl. L 302 vom 18.11.2010, S. 1), die zuletzt durch die Verordnung (EU) Nr. 176/2014 (ABl. L 56 vom 26.2.2014, S. 11) geändert worden ist, verstößt, indem er
 
 1.  
 entgegen Artikel 38 Absatz 1 Unterabsatz 1, auch in Verbindung mit Absatz 2 oder Artikel 40, ein Gebot einstellt, ändert oder zurückzieht oder
@@ -3005,49 +3454,63 @@ entgegen Artikel 38 Absatz 1 Unterabsatz 1, auch in Verbindung mit Absatz 2 oder
 als Person nach Artikel 38 Absatz 1 Unterabsatz 2, auch in Verbindung mit Absatz 2,
 
 a)  
-entgegen Artikel 39 Buchstabe a eine Insider-Information weitergibt oder
+entgegen Artikel 39 Buchstabe a eine Insiderinformation weitergibt oder
 
 b)  
 entgegen Artikel 39 Buchstabe b die Einstellung, Änderung oder Zurückziehung eines Gebotes empfiehlt oder eine andere Person hierzu verleitet.
 
-(3) In den Fällen der Absätze 1 und 2a ist der Versuch strafbar.
+(3) Ebenso wird bestraft, wer gegen die Verordnung (EU) Nr. 596/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie 2003/6/EG des Europäischen Parlaments und des Rates und der Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission (ABl. L 173 vom 12.6.2014, S. 1) verstößt, indem er
 
-(4) Handelt der Täter in den Fällen des Absatzes 1 Nummer 1 oder des Absatzes 2a Nummer 1 leichtfertig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
+1.  
+entgegen Artikel 14 Buchstabe a ein Insidergeschäft tätigt,
 
-(5) Einer in Absatz 1 Nr. 1 oder 2 in Verbindung mit § 39 Abs. 2 Nr. 3 oder 4 oder in Absatz 2 in Verbindung mit § 39 Abs. 1 Nr. 1 oder 2 oder Abs. 2 Nr. 11 genannten Verbotsvorschrift steht ein entsprechendes ausländisches Verbot gleich.
+2.  
+entgegen Artikel 14 Buchstabe b einem Dritten empfiehlt, ein Insidergeschäft zu tätigen, oder einen Dritten dazu anstiftet oder
+
+3.  
+entgegen Artikel 14 Buchstabe c eine Insiderinformation offenlegt.
+
+(4) In den Fällen des Absatzes 1 Nummer 2 sowie der Absätze 2 und 3 ist der Versuch strafbar.
+
+(5) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird bestraft, wer in den Fällen des Absatzes 1 Nummer 2
+
+1.  
+gewerbsmäßig oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat, handelt oder
+
+2.  
+in Ausübung seiner Tätigkeit für eine inländische Finanzaufsichtsbehörde, ein Wertpapierdienstleistungsunternehmen, eine Börse oder einen Betreiber eines Handelsplatzes handelt.
+
+(6) Handelt der Täter in den Fällen des Absatzes 2 Nummer 1 leichtfertig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 ### § 39 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
 1.  
-entgegen § 20a Abs. 1 Satz 1 Nr. 2, auch in Verbindung mit Abs. 4, jeweils in Verbindung mit einer Rechtsverordnung nach Absatz 5 Satz 1 Nr. 2 oder 5 ein Geschäft vornimmt oder einen Kauf- oder Verkaufsauftrag erteilt,
+einer vollziehbaren Anordnung nach § 4 Absatz 3f Satz 1 oder Satz 2 zuwiderhandelt,
 
 2.  
-entgegen § 20a Abs. 1 Satz 1 Nr. 3, auch in Verbindung mit Abs. 4, oder einer Rechtsverordnung nach Absatz 5 Satz 1 Nr. 3, eine Täuschungshandlung vornimmt,
+entgegen § 15 Absatz 1 oder Absatz 2 eine Information nicht oder nicht rechtzeitig übermittelt,
+
+2a.  
+entgegen § 15 Absatz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+2b.  
+entgegen § 15 Absatz 2 eine Mitteilung nicht oder nicht rechtzeitig macht,
+
+2c.  
+entgegen § 18 Absatz 3 Clearingdienste nutzt,
 
 3.  
-entgegen § 31g Abs. 1 eine Veröffentlichung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
+entgegen § 31g Abs. 1 eine Veröffentlichung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt oder
 
 4.  
-entgegen § 32d Abs. 1 Satz 1 einen Zugang nicht gewährt,
-
-5.  
-entgegen § 34b Abs. 1 Satz 2 in Verbindung mit einer Rechtsverordnung nach Absatz 8 Satz 1 eine Finanzanalyse weitergibt oder öffentlich verbreitet oder
-
-6.  
-entgegen § 34b Abs. 2 in Verbindung mit einer Rechtsverordnung nach Absatz 8 Satz 1 eine Zusammenfassung einer Finanzanalyse weitergibt.
+entgegen § 32d Abs. 1 Satz 1 einen Zugang nicht gewährt.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
 1.  
-entgegen § 2c Absatz 1 Satz 2, § 15 Absatz 1 Satz 1 oder § 15a Absatz 4 Satz 1 eine Information nicht oder nicht rechtzeitig übermittelt,
-
-2a.  
-entgegen § 4 Abs. 8 oder § 10 Abs. 1 Satz 2 eine Person in Kenntnis setzt,
-
-2b.  
-einer vollziehbaren Anordnung nach § 4b Absatz 1 zuwiderhandelt,
+entgegen § 2c Absatz 1 Satz 2 eine Information nicht oder nicht rechtzeitig übermittelt,
 
 2.  
 entgegen
@@ -3062,10 +3525,10 @@ c)
 § 10 Abs. 1 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach Absatz 4 Satz 1,
 
 d)  
-§ 15 Abs. 3 Satz 4, Abs. 4 Satz 1 oder Abs. 5 Satz 2, jeweils auch in Verbindung mit einer Rechtsverordnung nach Absatz 7 Satz 1 Nr. 2,
+(weggefallen)
 
 e)  
-§ 15a Abs. 1 Satz 1, auch in Verbindung mit Satz 2, Abs. 4 Satz 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach Absatz 5 Satz 1,
+(weggefallen)
 
 f)  
 § 21 Abs. 1 Satz 1 oder 2 oder Abs. 1a, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 21 Abs. 3,
@@ -3077,7 +3540,7 @@ h)
 § 26 Abs. 2, auch in Verbindung mit einer Rechtsverordnung nach § 26 Abs. 3 Nr. 2,
 
 i)  
-§ 26a Absatz 1 Satz 1, auch in Verbindung mit Absatz 2,
+§ 26a Absatz 1 Satz 2, auch in Verbindung mit Absatz 2,
 
 j)  
 § 29a Abs. 2 Satz 1,
@@ -3105,32 +3568,38 @@ q)
 
 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
 
+2a.  
+entgegen § 4 Abs. 8 oder § 10 Abs. 1 Satz 2 eine Person in Kenntnis setzt,
+
+2b.  
+einer vollziehbaren Anordnung nach § 4b Absatz 1 zuwiderhandelt,
+
 3.  
-entgegen § 14 Abs. 1 Nr. 2 eine Insiderinformation mitteilt oder zugänglich macht,
+entgegen § 12 in Verbindung mit Artikel 15 in Verbindung mit Artikel 12 Absatz 1 Buchstabe c oder d der Verordnung (EU) Nr. 596/2014 eine Information verbreitet, eine dort genannte Angabe übermittelt oder dort genannte Daten bereitstellt,
 
 4.  
-entgegen § 14 Abs. 1 Nr. 3 den Erwerb oder die Veräußerung eines Insiderpapiers empfiehlt oder auf sonstige Weise dazu verleitet,
+(weggefallen)
 
 5.  
 entgegen
 
 a)  
-§ 15 Abs. 1 Satz 1, auch in Verbindung mit Satz 2, § 15 Abs. 1 Satz 4 oder 5, jeweils in Verbindung mit einer Rechtsverordnung nach Abs. 7 Satz 1 Nr. 1,
+(weggefallen)
 
 b)  
-§ 15a Abs. 4 Satz 1 in Verbindung mit einer Rechtsverordnung nach Abs. 5 Satz 1,
+(weggefallen)
 
 c)  
-§ 26 Abs. 1 Satz 1, auch in Verbindung mit Satz 2, jeweils in Verbindung mit einer Rechtsverordnung nach § 26 Abs. 3 Nr. 1, oder entgegen § 26a Absatz 1 Satz 1, auch in Verbindung mit Absatz 2, oder § 29a Abs. 2 Satz 1,
+§ 26 Abs. 1 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach § 26 Abs. 3 Nr. 1, oder entgegen § 26a Absatz 1 Satz 1, auch in Verbindung mit Absatz 2, oder § 29a Abs. 2 Satz 1,
 
 d)  
-§ 30b Abs. 1 oder 2, jeweils auch in Verbindung mit § 30d,
+§ 26 Absatz 1 Satz 2, in Verbindung mit Satz 1, auch in Verbindung mit einer Rechtsverordnung nach § 26 Absatz 3,
 
 e)  
-§ 30e Abs. 1 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 30e Abs. 2 oder entgegen § 30f Abs. 2,
+§ 30b Abs. 1 oder 2, jeweils auch in Verbindung mit § 30d,
 
 f)  
-(weggefallen)
+§ 30e Abs. 1 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 30e Abs. 2 oder entgegen § 30f Abs. 2,
 
 g)  
 § 37v Abs. 1 Satz 2 in Verbindung mit einer Rechtsverordnung nach § 37v Abs. 3 Nr. 1, jeweils auch in Verbindung mit § 37y, oder entgegen § 37z Abs. 4 Satz 2,
@@ -3147,13 +3616,13 @@ eine Veröffentlichung nicht, nicht richtig, nicht vollständig, nicht in der vo
 (weggefallen)
 
 7.  
-entgegen § 15 Abs. 5 Satz 1 eine Veröffentlichung vornimmt,
+(weggefallen)
 
 8.  
-entgegen § 15b Abs. 1 Satz 1 in Verbindung mit einer Rechtsverordnung nach Absatz 2 Satz 1 Nr. 1 oder 2 ein Verzeichnis nicht, nicht richtig oder nicht vollständig führt,
+(weggefallen)
 
 9.  
-entgegen § 15b Abs. 1 Satz 2 das Verzeichnis nicht oder nicht rechtzeitig übermittelt,
+(weggefallen)
 
 10.  
 entgegen
@@ -3179,10 +3648,10 @@ entgegen § 20 Absatz 1 Satz 1 die dort genannten Tatsachen nicht oder nicht rec
 entgegen § 20 Absatz 4 Satz 1 eine Bescheinigung nicht oder nicht rechtzeitig übermittelt,
 
 11.  
-entgegen § 20a Abs. 1 Satz 1 Nr. 1, auch in Verbindung mit Abs. 4, oder einer Rechtsverordnung nach Absatz 5 Satz 1 Nr. 1, eine Angabe macht oder einen Umstand verschweigt,
+(weggefallen)
 
 11a.  
-entgegen § 26 Absatz 1 Satz 1, § 26a Absatz 1 Satz 2, § 29a Absatz 2 Satz 2, § 30e Absatz 1 Satz 2, § 30f Absatz 2, § 37v Absatz 1 Satz 3, § 37w Absatz 1 Satz 3, § 37x Absatz 2 Satz 2 oder § 37z Absatz 4 Satz 3 eine Information oder eine Bekanntmachung nicht oder nicht rechtzeitig übermittelt,
+entgegen § 26 Absatz 1 Satz 1, § 26a Absatz 1 Satz 3, § 29a Absatz 2 Satz 2, § 30e Absatz 1 Satz 2, § 30f Absatz 2, § 37v Absatz 1 Satz 3, § 37w Absatz 1 Satz 3, § 37x Absatz 2 Satz 2 oder § 37z Absatz 4 Satz 3 eine Information oder eine Bekanntmachung nicht oder nicht rechtzeitig übermittelt,
 
 12.  
 entgegen § 30a Abs. 1 Nr. 2, auch in Verbindung mit Abs. 3 oder § 30d, nicht sicherstellt, dass Einrichtungen und Informationen im Inland öffentlich zur Verfügung stehen,
@@ -3435,7 +3904,136 @@ entgegen § 37v Absatz 1 Satz 1, § 37w Absatz 1 Satz 1, jeweils auch in Verbind
 
 (3a) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 236/2012 verstößt, indem er vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach Artikel 18 Absatz 2 Satz 2 oder Satz 3, Artikel 19 Absatz 2, Artikel 20 Absatz 2 oder Artikel 21 Absatz 1 oder Artikel 23 Absatz 1 zuwiderhandelt.
 
-(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 Nummer 2 Buchstabe f und g, Nummer 5 Buchstabe c und e bis i und des Absatzes 3 Nummer 12 mit einer Geldbuße bis zu zwei Millionen Euro geahndet werden. Gegenüber einer juristischen Person oder Personenvereinigung kann über Satz 1 hinaus eine höhere Geldbuße verhängt werden; die Geldbuße darf den höheren der folgenden Beträge nicht übersteigen:
+(3b) Ordnungswidrig handelt, wer eine in § 38 Absatz 3 Nummer 1 bis 3 bezeichnete Handlung leichtfertig begeht.
+
+(3c) Ordnungswidrig handelt, wer entgegen § 12 in Verbindung mit Artikel 15 in Verbindung mit Artikel 12 Absatz 1 Buchstabe a oder b der Verordnung (EU) Nr. 596/2014 ein Geschäft abschließt, einen Handelsauftrag erteilt oder eine andere Handlung begeht.
+
+(3d) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 596/2014 verstößt, indem er vorsätzlich oder leichtfertig
+
+1.  
+als Handelsplatzbetreiber entgegen Artikel 4 identifizierende Referenzdaten in Bezug auf ein Finanzinstrument nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung stellt oder aktualisiert,
+
+2.  
+entgegen Artikel 15 eine Marktmanipulation begeht,
+
+3.  
+entgegen Artikel 16 Absatz 1 Unterabsatz 1 oder Absatz 2 Satz 1 wirksame Regelungen, Systeme und Verfahren nicht schafft oder nicht aufrechterhält,
+
+4.  
+entgegen Artikel 16 Absatz 1 Unterabsatz 2 eine Meldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
+
+5.  
+entgegen Artikel 16 Absatz 2 Satz 2 eine Unterrichtung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
+
+6.  
+entgegen Artikel 17 Absatz 1 Unterabsatz 1 oder Artikel 17 Absatz 2 Unterabsatz 1 Satz 1 eine Insiderinformation nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig bekannt gibt,
+
+7.  
+entgegen Artikel 17 Absatz 1 Unterabsatz 2 Satz 1 eine Veröffentlichung nicht sicherstellt,
+
+8.  
+entgegen Artikel 17 Absatz 1 Unterabsatz 2 Satz 2 die Veröffentlichung einer Insiderinformation mit einer Vermarktung seiner Tätigkeiten verbindet,
+
+9.  
+entgegen Artikel 17 Absatz 1 Unterabsatz 2 Satz 3 eine Insiderinformation nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig veröffentlicht oder nicht mindestens fünf Jahre lang auf der betreffenden Website anzeigt,
+
+10.  
+entgegen Artikel 17 Absatz 4 Unterabsatz 3 Satz 1 die zuständige Behörde nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig über den Aufschub einer Offenlegung informiert oder den Aufschub einer Offenlegung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erläutert,
+
+11.  
+entgegen Artikel 17 Absatz 8 Satz 1 eine Insiderinformation nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig veröffentlicht,
+
+12.  
+entgegen Artikel 18 Absatz 1 Buchstabe a eine Liste nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig aufstellt,
+
+13.  
+entgegen Artikel 18 Absatz 1 Buchstabe b in Verbindung mit Absatz 4 eine Insiderliste nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig aktualisiert,
+
+14.  
+entgegen Artikel 18 Absatz 1 Buchstabe c eine Insiderliste nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung stellt,
+
+15.  
+entgegen Artikel 18 Absatz 2 Unterabsatz 1 nicht die dort genannten Vorkehrungen trifft,
+
+16.  
+entgegen Artikel 18 Absatz 5 eine Insiderliste nach einer Erstellung oder Aktualisierung nicht oder nicht mindestens fünf Jahre aufbewahrt,
+
+17.  
+entgegen Artikel 19 Absatz 1 Unterabsatz 1, auch in Verbindung mit Absatz 7 Unterabsatz 1, jeweils auch in Verbindung mit einem technischen Durchführungsstandard nach Artikel 19 Absatz 15, eine Meldung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
+
+18.  
+entgegen Artikel 19 Absatz 3 Unterabsatz 1 in Verbindung mit Absatz 4, auch in Verbindung mit einem technischen Durchführungsstandard nach Artikel 19 Absatz 15, eine Veröffentlichung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig sicherstellt,
+
+19.  
+entgegen Artikel 19 Absatz 5 Unterabsatz 1 Satz 1 oder Unterabsatz 2 eine dort genannte Person nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise in Kenntnis setzt,
+
+20.  
+entgegen Artikel 19 Absatz 5 Unterabsatz 1 Satz 2 eine Liste nicht, nicht richtig oder nicht vollständig erstellt,
+
+21.  
+entgegen Artikel 19 Absatz 5 Unterabsatz 2 eine Kopie nicht oder nicht mindestens fünf Jahre aufbewahrt,
+
+22.  
+entgegen Artikel 19 Absatz 11 ein Eigengeschäft oder ein Geschäft für Dritte tätigt oder
+
+23.  
+entgegen Artikel 20 Absatz 1, auch in Verbindung mit einem technischen Regulierungsstandard nach Artikel 20 Absatz 3, nicht oder nicht in der vorgeschriebenen Weise dafür Sorge trägt, dass Informationen objektiv dargestellt oder Interessen oder Interessenkonflikte offengelegt werden.
+
+(3e) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates vom 26. November 2014 über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1, L 358 vom 13.12.2014, S. 50) verstößt, indem er vorsätzlich oder leichtfertig
+
+1.  
+entgegen
+
+a)  
+Artikel 5 Absatz 1,
+
+b)  
+Artikel 5 Absatz 1 in Verbindung mit Artikel 6,
+
+c)  
+Artikel 5 Absatz 1 in Verbindung mit Artikel 7 Absatz 2,
+
+d)  
+Artikel 5 Absatz 1 in Verbindung mit Artikel 8 Absatz 1 bis 3
+
+ein Basisinformationsblatt nicht, nicht richtig, nicht vollständig, nicht rechtzeitig oder nicht in der vorgeschriebenen Weise abfasst oder veröffentlicht,
+
+2.  
+entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 7 Absatz 1 ein Basisinformationsblatt nicht in der vorgeschriebenen Weise abfasst oder übersetzt,
+
+3.  
+entgegen Artikel 10 Absatz 1 Satz 1 ein Basisinformationsblatt nicht oder nicht rechtzeitig überprüft,
+
+4.  
+entgegen Artikel 10 Absatz 1 Satz 1 ein Basisinformationsblatt nicht oder nicht vollständig überarbeitet,
+
+5.  
+entgegen Artikel 10 Absatz 1 Satz 2 ein Basisinformationsblatt nicht oder nicht rechtzeitig zur Verfügung stellt,
+
+6.  
+entgegen Artikel 9 Satz 1 in Werbematerialien Aussagen trifft, die im Widerspruch zu den Informationen des Basisinformationsblattes stehen oder dessen Bedeutung herabstufen,
+
+7.  
+entgegen Artikel 9 Satz 2 die erforderlichen Hinweise in Werbematerialien nicht, nicht richtig oder nicht vollständig aufnimmt,
+
+8.  
+entgegen
+
+a)  
+Artikel 13 Absatz 1, 3 und 4 oder
+
+b)  
+Artikel 14
+
+ein Basisinformationsblatt nicht oder nicht rechtzeitig oder nicht in der vorgeschriebenen Weise zur Verfügung stellt oder
+
+9.  
+entgegen Artikel 19 Buchstabe a und b nicht oder nicht in der vorgeschriebenen Weise geeignete Verfahren und Vorkehrungen zur Einreichung und Beantwortung von Beschwerden vorsieht,
+
+10.  
+entgegen Artikel 19 Buchstabe c nicht oder nicht in der vorgeschriebenen Weise geeignete Verfahren und Vorkehrungen vorsieht, durch die gewährleistet wird, dass Kleinanlegern wirksame Beschwerdeverfahren im Fall von grenzüberschreitenden Streitigkeiten zur Verfügung stehen.
+
+(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 Nummer 2 Buchstabe f und g, Nummer 5 Buchstabe c, d und g bis i und des Absatzes 3 Nummer 12 mit einer Geldbuße bis zu zwei Millionen Euro geahndet werden. Gegenüber einer juristischen Person oder Personenvereinigung kann über Satz 1 hinaus eine höhere Geldbuße verhängt werden; die Geldbuße darf den höheren der folgenden Beträge nicht übersteigen:
 
 1.  
 zehn Millionen Euro oder
@@ -3445,7 +4043,22 @@ zehn Millionen Euro oder
 
 Über die in den Sätzen 1 und 2 genannten Beträge hinaus kann die Ordnungswidrigkeit mit einer Geldbuße bis zum Zweifachen des aus dem Verstoß gezogenen wirtschaftlichen Vorteils geahndet werden. Der wirtschaftliche Vorteil umfasst erzielte Gewinne und vermiedene Verluste und kann geschätzt werden.
 
-(5) Gesamtumsatz im Sinne des Absatzes 4 Satz 2 Nummer 2 ist
+(4a) Die Ordnungswidrigkeit kann in den Fällen der Absätze 3b und 3d Nummer 2 mit einer Geldbuße bis zu fünf Millionen Euro, in den Fällen des Absatzes 2 Nummer 3 sowie der Absätze 3c und 3d Nummer 3 bis 11 mit einer Geldbuße bis zu einer Million Euro und in den Fällen des Absatzes 3d Nummer 1 und 12 bis 23 mit einer Geldbuße bis zu fünfhunderttausend Euro geahndet werden. Gegenüber einer juristischen Person oder Personenvereinigung kann über Satz 1 hinaus eine höhere Geldbuße verhängt werden; diese darf
+
+1.  
+in den Fällen der Absätze 3b und 3d Nummer 2 den höheren der Beträge von fünfzehn Millionen Euro und 15 Prozent des Gesamtumsatzes, den die juristische Person oder Personenvereinigung im der Behördenentscheidung vorausgegangenen Geschäftsjahr erzielt hat,
+
+2.  
+in den Fällen des Absatzes 3d Nummer 3 bis 11 den höheren der Beträge von zweieinhalb Millionen Euro und 2 Prozent des Gesamtumsatzes, den die juristische Person oder Personenvereinigung im der Behördenentscheidung vorangegangenen Geschäftsjahr erzielt hat und
+
+3.  
+in den Fällen des Absatzes 3d Nummer 1 und 12 bis 23 eine Million Euro
+
+nicht überschreiten. Über die in den Sätzen 1 und 2 genannten Beträge hinaus kann die Ordnungswidrigkeit mit einer Geldbuße bis zum Dreifachen des aus dem Verstoß gezogenen wirtschaftlichen Vorteils geahndet werden. Der wirtschaftliche Vorteil umfasst erzielte Gewinne und vermiedene Verluste und kann geschätzt werden.
+
+(4b) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 3e mit einer Geldbuße von bis zu siebenhunderttausend Euro geahndet werden. Gegenüber einer juristischen Person oder einer Personenvereinigung kann über Satz 1 hinaus eine höhere Geldbuße verhängt werden; diese darf den höheren der Beträge von fünf Millionen Euro und 3 Prozent des Gesamtumsatzes, den die juristische Person oder Personenvereinigung im der Behördenentscheidung vorausgegangenen Geschäftsjahr erzielt hat, nicht überschreiten. Über die in den Sätzen 1 und 2 genannten Beträge hinaus kann die Ordnungswidrigkeit mit einer Geldbuße bis zum Zweifachen des aus dem Verstoß gezogenen wirtschaftlichen Vorteils geahndet werden. Der wirtschaftliche Vorteil umfasst erzielte Gewinne und vermiedene Verluste und kann geschätzt werden.
+
+(5) Gesamtumsatz im Sinne des Absatzes 4 Satz 2 Nummer 2 und des Absatzes 4a Satz 2 Nummer 1 und 2 sowie des Absatzes 4b Satz 2 ist
 
 1.  
 im Falle von Kreditinstituten, Zahlungsinstituten und Finanzdienstleistungsinstituten im Sinne des § 340 des Handelsgesetzbuchs der sich aus dem auf das Institut anwendbaren nationalen Recht im Einklang mit Artikel 27 Nummer 1, 3, 4, 6 und 7 oder Artikel 28 Nummer B1, B2, B3, B4 und B7 der Richtlinie 86/635/EWG des Rates vom 8. Dezember 1986 über den Jahresabschluss und den konsolidierten Abschluss von Banken und anderen Finanzinstituten (ABl. L 372 vom 31.12.1986, S. 1) ergebende Gesamtbetrag, abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern,
@@ -3458,9 +4071,11 @@ im Übrigen der Betrag der Nettoumsatzerlöse nach Maßgabe des auf das Unterneh
 
 Handelt es sich bei der juristischen Person oder Personenvereinigung um ein Mutterunternehmen oder um eine Tochtergesellschaft, so ist anstelle des Gesamtumsatzes der juristischen Person oder Personenvereinigung der jeweilige Gesamtbetrag in dem Konzernabschluss des Mutterunternehmens maßgeblich, der für den größten Kreis von Unternehmen aufgestellt wird. Wird der Konzernabschluss für den größten Kreis von Unternehmen nicht nach den in Satz 1 genannten Vorschriften aufgestellt, ist der Gesamtumsatz nach Maßgabe der den in Satz 1 Nummer 1 bis 3 vergleichbaren Posten des Konzernabschlusses zu ermitteln. Ist ein Jahresabschluss oder Konzernabschluss für das maßgebliche Geschäftsjahr nicht verfügbar, ist der Jahres- oder Konzernabschluss für das unmittelbar vorausgehende Geschäftsjahr maßgeblich; ist auch dieser nicht verfügbar, kann der Gesamtumsatz geschätzt werden.
 
-(6) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 und 2, des Absatzes 2 Nummer 5 Buchstabe a, Nummer 7 und 11 mit einer Geldbuße bis zu einer Million Euro, in den Fällen des Absatzes 2 Nummer 2 Buchstabe h bis j, Nummer 2b und 5 Buchstabe d, Nummer 11a und 24, des Absatzes 2d Nummer 3 bis 5 sowie des Absatzes 2e Nummer 5, 8 und 9 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 3 und 5, des Absatzes 2 Nummer 1, 2 Buchstabe a, b, d und n bis q, Nummer 2a, 3, 4, 16a, 17b, 17c, 18, 22 und 25, des Absatzes 2b Nummer 5 und 6, des Absatzes 2d Nummer 1 und 2, des Absatzes 2e Nummer 1, 3 und 4 und des Absatzes 3 Nummer 1 Buchstabe b und Nummer 3 mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 2 Nummer 2 Buchstabe e, Nummer 5 Buchstabe b, Nummer 10a bis 10c, 12 bis 14, 16 und 17a, des Absatzes 2e Nummer 2, 6 und 7 und des Absatzes 3 Nummer 1 Buchstabe c mit einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+(6) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 Nummer 2 Buchstabe h bis j, Nummer 2b und 5 Buchstabe e, Nummer 11a und 24 sowie des Absatzes 2d Nummer 3 bis 5 sowie des Absatzes 2e Nummer 5, 8 und 9 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 2, 2a und 3, des Absatzes 2 Nummer 1, 2 Buchstabe a, b und n bis q, Nummer 2a, 16a, 17a, 17c, 17d, 18, 22 und 25, des Absatzes 2b Nummer 5 und 6, des Absatzes 2d Nummer 1 und 2, des Absatzes 2e Nummer 1, 3 und 4 und des Absatzes 3 Nummer 1 Buchstabe b und Nummer 3 mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 2b, des Absatzes 2 Nummer 10a bis 10c, 12 bis 14, 16 und 17b, des Absatzes 2e Nummer 2, 6 und 7 und des Absatzes 3 Nummer 1 Buchstabe c mit einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-(7) Die Bestimmungen des Absatzes 2 Nummer 2 Buchstabe b, Nr. 10 Buchstabe b, Nr. 15, 16, 18 bis 21, des Absatzes 2a sowie des Absatzes 3 Nummer 1 Buchstabe c, Nummer 3, 10 und 11, jeweils in Verbindung mit Absatz 4, gelten auch für die erlaubnispflichtige Anlageverwaltung im Sinne des § 2 Abs. 3 Satz 3.
+(6a) § 17 Absatz 2 des Gesetzes über Ordnungswidrigkeiten ist nicht anzuwenden bei Verstößen gegen Gebote und Verbote, die in den Absätzen 4 bis 4b in Bezug genommen werden. Dies gilt nicht für Ordnungswidrigkeiten nach Absatz 2 Nummer 5 Buchstabe c und Absatz 3d Nummer 1. § 30 des Gesetzes über Ordnungswidrigkeiten gilt auch für juristische Personen oder Personenvereinigungen, die über eine Zweigniederlassung oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs im Inland tätig sind. Die Verfolgung der Ordnungswidrigkeiten nach den Absätzen 4 bis 4b verjährt in drei Jahren.
+
+(7) Die Bestimmungen des Absatzes 2 Nummer 2 Buchstabe b, Nr. 10 Buchstabe b, Nr. 15, 16, 18 bis 21, des Absatzes 2a sowie des Absatzes 3 Nummer 1 Buchstabe c, Nummer 3, 10 und 11, jeweils in Verbindung mit Absatz 6, gelten auch für die erlaubnispflichtige Anlageverwaltung im Sinne des § 2 Abs. 3 Satz 3.
 
 (8) Das Bundesministerium der Finanzen wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 2 Nummer 25 geahndet werden können.
 
@@ -3470,9 +4085,9 @@ Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungsw
 
 ### § 40a Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen
 
-(1) Die Staatsanwaltschaft informiert die Bundesanstalt über die Einleitung eines Ermittlungsverfahrens, welches Straftaten nach § 38 betrifft. Werden im Ermittlungsverfahren Sachverständige benötigt, können fachkundige Angehörige der Bundesanstalt herangezogen werden. Der Bundesanstalt sind die Anklageschrift und der Antrag auf Erlass eines Strafbefehls mitzuteilen. Erwägt die Staatsanwaltschaft, das Verfahren einzustellen, so hat sie die Bundesanstalt zu hören.
+(1) Die Staatsanwaltschaft informiert die Bundesanstalt über die Einleitung eines Ermittlungsverfahrens, welches Straftaten nach § 38 betrifft. Werden im Ermittlungsverfahren Sachverständige benötigt, können fachkundige Angehörige der Bundesanstalt herangezogen werden. Der Bundesanstalt sind die Anklageschrift, der Antrag auf Erlass eines Strafbefehls und die Einstellung des Verfahrens mitzuteilen. Erwägt die Staatsanwaltschaft, das Verfahren einzustellen, so hat sie die Bundesanstalt zu hören.
 
-(2) Das Gericht teilt der Bundesanstalt in einem Verfahren, welches Straftaten nach § 38 betrifft, den Termin zur Hauptverhandlung mit.
+(2) Das Gericht teilt der Bundesanstalt in einem Verfahren, welches Straftaten nach § 38 betrifft, den Termin der Hauptverhandlung und die Entscheidung, mit der das Verfahren abgeschlossen wird, mit.
 
 (3) Der Bundesanstalt ist auf Antrag Akteneinsicht zu gewähren, sofern nicht schutzwürdige Interessen des Betroffenen entgegenstehen oder der Untersuchungserfolg der Ermittlungen gefährdet wird.
 
@@ -3521,6 +4136,35 @@ die Bekanntmachung eine laufende Ermittlung ernsthaft gefährden würde oder
 4.  
 die Bekanntmachung den Beteiligten einen unverhältnismäßigen Schaden zufügen würde.
 
+### § 40d Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 596/2014
+
+(1) Die Bundesanstalt macht Entscheidungen über Maßnahmen und Sanktionen, die wegen Verstößen nach den Artikeln 14, 15, 16 Absatz 1 und 2, Artikel 17 Absatz 1, 2, 4, 5 und 8, Artikel 18 Absatz 1 bis 6, Artikel 19 Absatz 1, 2, 3, 5, 6, 7 und 11 und Artikel 20 Absatz 1 der Verordnung (EU) Nr. 596/2014 erlassen wurden, unverzüglich nach Unterrichtung der natürlichen oder juristischen Person, gegen die die Maßnahme oder Sanktion verhängt wurde, auf ihrer Internetseite bekannt. Dies gilt nicht für Entscheidungen über Ermittlungsmaßnahmen.
+
+(2) In der Bekanntmachung benennt die Bundesanstalt die Vorschrift, gegen die verstoßen wurde, und die für den Verstoß verantwortliche natürliche oder juristische Person oder Personenvereinigung.
+
+(3) Ist die Bekanntmachung der Identität einer von der Entscheidung betroffenen juristischen Person oder der personenbezogenen Daten einer natürlichen Person unverhältnismäßig oder würde die Bekanntmachung laufende Ermittlungen oder die Stabilität der Finanzmärkte gefährden, so
+
+1.  
+schiebt die Bundesanstalt die Bekanntmachung der Entscheidung auf, bis die Gründe für das Aufschieben weggefallen sind,
+
+2.  
+macht die Bundesanstalt die Entscheidung ohne Nennung der Identität oder der personenbezogenen Daten bekannt, wenn hierdurch ein wirksamer Schutz der Identität oder der betreffenden personenbezogenen Daten gewährleistet ist oder
+
+3.  
+macht die Bundesanstalt die Entscheidung nicht bekannt, wenn eine Bekanntmachung gemäß den Nummern 1 und 2 nicht ausreichend wäre, um sicherzustellen, dass
+
+a)  
+die Stabilität der Finanzmärkte nicht gefährdet wird oder
+
+b)  
+die Verhältnismäßigkeit der Bekanntmachung gewahrt bleibt.
+
+Im Falle des Satzes 1 Nummer 2 kann die Bundesanstalt die Bekanntmachung der Identität oder der personenbezogenen Daten nachholen, wenn die Gründe für die anonymisierte Bekanntmachung entfallen sind.
+
+(4) Bei nicht bestands- oder nicht rechtskräftigen Entscheidungen fügt die Bundesanstalt einen entsprechenden Hinweis hinzu. Wird gegen die bekanntzumachende Entscheidung ein Rechtsbehelf eingelegt, so ergänzt die Bundesanstalt die Bekanntmachung unverzüglich um einen Hinweis auf den Rechtsbehelf sowie um alle weiteren Informationen über das Ergebnis des Rechtsbehelfsverfahrens.
+
+(5) Eine Bekanntmachung nach Absatz 1 ist fünf Jahre nach ihrer Bekanntmachung zu löschen. Abweichend von Satz 1 sind personenbezogene Daten zu löschen, sobald ihre Bekanntmachung nicht mehr erforderlich ist.
+
 Abschnitt 13 Übergangsbestimmungen
 ----------------------------------
 
@@ -3542,11 +4186,13 @@ Abschnitt 13 Übergangsbestimmungen
 
 (4c) Wer, auch unter Berücksichtigung des § 22, einen mit Aktien verbundenen Stimmrechtsanteil hält, muss das Erreichen oder Überschreiten der für § 21 geltenden Schwellen, die er am 19. August 2008 ausschließlich durch Zurechnung von Stimmrechten auf Grund der Neufassung des § 22 Abs. 2 mit Wirkung vom 19. August 2008 erreicht oder überschreitet, nicht mitteilen. Eine solche Mitteilung ist erst dann abzugeben, wenn erneut eine der für § 21 geltenden Schwellen erreicht, überschritten oder unterschritten wird. Die Sätze 1 und 2 gelten für die Mitteilungspflicht nach § 25 entsprechend mit der Maßgabe, dass die für § 25 geltenden Schwellen maßgebend sind.
 
-(4d) Wer am 1. Februar 2012 Finanzinstrumente oder sonstige Instrumente im Sinne des § 25a Absatz 1 hält, die es ihrem Inhaber auf Grund ihrer Ausgestaltung ermöglichen, 5 Prozent oder mehr der mit Stimmrechten verbundenen und bereits ausgegebenen Aktien eines Emittenten, für den die Bundesrepublik Deutschland der Herkunftsstaat ist, zu erwerben, hat dem Emittenten und gleichzeitig der Bundesanstalt unverzüglich, spätestens jedoch innerhalb von 30 Handelstagen, die Höhe seines Stimmrechtsanteils nach § 25a Absatz 2 entsprechend § 25a Absatz 1, auch in Verbindung mit einer Rechtsverordnung nach § 25a Absatz 4, mitzuteilen. § 24 gilt entsprechend. Eine Zusammenrechnung mit den Beteiligungen nach den §§ 21, 22 und 25 findet statt.
+(4d) Wer am 1. Februar 2012 Finanzinstrumente oder sonstige Instrumente im Sinne des § 25a Absatz 1 in der bis zum 25. November 2015 geltenden Fassung hält, die es ihrem Inhaber auf Grund ihrer Ausgestaltung ermöglichen, 5 Prozent oder mehr der mit Stimmrechten verbundenen und bereits ausgegebenen Aktien eines Emittenten, für den die Bundesrepublik Deutschland der Herkunftsstaat ist, zu erwerben, hat dem Emittenten und gleichzeitig der Bundesanstalt unverzüglich, spätestens jedoch innerhalb von 30 Handelstagen, die Höhe seines Stimmrechtsanteils nach § 25a Absatz 2 entsprechend § 25a Absatz 1, auch in Verbindung mit einer Rechtsverordnung nach § 25a Absatz 4, jeweils in der bis zum 25. November 2015 geltenden Fassung, mitzuteilen. § 24 in der bis zum 25. November 2015 geltenden Fassung gilt entsprechend. Eine Zusammenrechnung mit den Beteiligungen nach den §§ 21, 22 und 25, jeweils in der bis zum 25. November 2015 geltenden Fassung findet statt.
 
 (4e) Der Inlandsemittent hat die Informationen nach Absatz 4d unverzüglich, spätestens jedoch drei Handelstage nach ihrem Zugang gemäß § 26 Absatz 1 Satz 1 Halbsatz 1 zu veröffentlichen und dem Unternehmensregister im Sinne des § 8b des Handelsgesetzbuchs unverzüglich, jedoch nicht vor ihrer Veröffentlichung zur Speicherung zu übermitteln. Gleichzeitig mit der Veröffentlichung hat der Inlandsemittent diese der Bundesanstalt mitzuteilen.
 
 (4f) Wer, auch unter Berücksichtigung des § 22, am 26. November 2015 Stimmrechte im Sinne des § 21 hält und ausschließlich auf Grund der Änderung des § 21 mit Wirkung zum 26. November 2015 an einem Emittenten, für den die Bundesrepublik Deutschland der Herkunftsstaat ist, eine der für § 21 geltenden Schwellen erreicht, überschreitet oder unterschreitet, hat dies bis zum 15. Januar 2016 nach Maßgabe des § 21 mitzuteilen. Wer am 26. November 2015 Instrumente im Sinne des § 25 hält, die sich nach Maßgabe des § 25 Absatz 3 und 4 auf mindestens 5 Prozent der Stimmrechte an einem Emittenten, für den die Bundesrepublik Deutschland der Herkunftsstaat ist, beziehen, hat dies bis zum 15. Januar 2016 nach Maßgabe des § 25 mitzuteilen. Wer eine der für § 25a geltenden Schwellen ausschließlich auf Grund der Änderung des § 25a mit Wirkung zum 26. November 2015 erreicht, überschreitet oder unterschreitet, hat dies bis zum 15. Januar 2016 nach Maßgabe des § 25a mitzuteilen. Absatz 4e gilt entsprechend.
+
+(4g) Wer an einem Emittenten, für den die Bundesrepublik Deutschland der Herkunftsstaat ist, eine der für die §§ 21, 25 oder 25a geltenden Schwellen ausschließlich auf Grund der Änderung des § 1 Absatz 8 mit Wirkung zum 2. Juli 2016 erreicht, überschreitet oder unterschreitet, hat dies bis zum 23. Juli 2016 nach Maßgabe der §§ 21, 25 und 25a mitzuteilen. Absatz 4e gilt entsprechend.
 
 (5) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -3665,3 +4311,22 @@ Die Bestimmungen des Abschnitts 11 in der vom 21. Dezember 2004 an geltenden Fas
 (1) Die §§ 37n, 37o und 37p in der ab dem 26. November 2015 geltenden Fassung sind ab dem 1. Januar 2016 anzuwenden.
 
 (2) § 37x in der ab dem 26. November 2015 geltenden Fassung ist erstmals auf Zahlungsberichte und Konzernzahlungsberichte für ein nach dem 26. November 2015 beginnendes Geschäftsjahr anzuwenden.
+
+### § 50 Übergangsvorschriften zur Verordnung (EU) Nr. 596/2014
+
+§ 39 Absatz 3d Nummer 1 in der ab dem 2. Juli 2016 geltenden Fassung ist bis zu dem Tag, ab dem die Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU (ABl. L 173 vom 12.6.2014, S. 349, L 74 vom 18.3.2015, S. 38), die durch die Verordnung (EU) Nr. 909/2014 (ABl. L 257 vom 28.8.2014, S. 1) geändert worden ist, nach ihrem Artikel 93 angewendet wird, nicht anzuwenden. Bis zu dem Tag, ab dem die Richtlinie 2014/65/EU nach ihrem Artikel 93 angewendet wird, ist für die Vorschriften dieses Gesetzes die Verordnung (EU) Nr. 596/2014 mit folgender Maßgabe anwendbar:
+
+1.  
+Handelsplatz im Sinne des Artikels 3 Absatz 1 Nummer 10 dieser Verordnung ist ein geregelter Markt im Sinne des Artikels 4 Absatz 1 Nummer 14 der Richtlinie 2004/39/EG sowie ein multilaterales Handelssystem im Sinne des Artikels 4 Absatz 1 Nummer 15 der Richtlinie 2004/39/EG;
+
+2.  
+algorithmischer Handel im Sinne des Artikels 3 Absatz 1 Nummer 18 dieser Verordnung ist der Handel mit Finanzinstrumenten in der Weise, dass ein Computeralgorithmus die einzelnen Auftragsparameter automatisch bestimmt, ohne dass es sich um ein System handelt, das nur zur Weiterleitung von Aufträgen zu einem oder mehreren Handelsplätzen oder zur Bestätigung von Aufträgen verwendet wird;
+
+3.  
+Hochfrequenzhandel im Sinne des Artikels 3 Absatz 1 Nummer 33 dieser Verordnung ist eine hochfrequente algorithmische Handelstechnik, die gekennzeichnet ist durch die Nutzung von Infrastrukturen, die darauf abzielen, Latenzzeiten zu minimieren, durch die Entscheidung des Systems über die Einleitung, das Erzeugen, das Weiterleiten oder die Ausführung eines Auftrags ohne menschliche Intervention für einzelne Geschäfte oder Aufträge und durch ein hohes untertägiges Mitteilungsaufkommen in Form von Aufträgen, Quotes oder Stornierungen.
+
+Das Bundesministerium der Finanzen gibt den Tag, ab dem die Richtlinie 2014/65/EU nach ihrem Artikel 93 angewendet wird, im Bundesgesetzblatt bekannt.
+
+### § 51 Übergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz
+
+Die §§ 37w und 37y in der Fassung des CSR-Richtlinie-Umsetzungsgesetzes vom 11. April 2017 (BGBl. I S. 802) sind erstmals auf Lageberichte und Konzernlageberichte anzuwenden, die sich auf ein nach dem 31. Dezember 2016 beginnendes Geschäftsjahr beziehen. Auf Lage- und Konzernlageberichte, die sich auf vor dem 1. Januar 2017 beginnende Geschäftsjahre beziehen, bleiben die §§ 37w und 37y in der bis zum 18. April 2017 geltenden Fassung anwendbar.
