@@ -5,7 +5,10 @@ Neuf
 Neugefasst durch Bek. v. 15.10.2002 I 4167;
 
 Stand  
-zuletzt geändert durch Art. 5 G v. 2.11.2015 I 1834
+zuletzt geändert durch Art. 10 G v. 23.12.2016 I 3191
+
+Hinweis  
+Änderung durch Art. 4 G v. 27.6.2017 I 2074 (Nr. 43) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -32,6 +35,7 @@ zuletzt geändert durch Art. 5 G v. 2.11.2015 I 1834
 | **Abschnitt II**   |                                                            |
 |                    | **Bemessung der Gewerbesteuer**                            |
 |                    |                                                            |
+|                    |                                                            |
 |                    |                                                            |
 |                    |                                                            |
 |                    |                                                            |
@@ -219,7 +223,7 @@ b)
 bei Krankenhäusern im Erhebungszeitraum die in § 67 Abs. 1 oder 2 der Abgabenordnung bezeichneten Voraussetzungen erfüllt worden sind oder
 
 c)  
-bei Altenheimen, Altenwohnheimen und Pflegeheimen im Erhebungszeitraum mindestens 40 Prozent der Leistungen den in § 61 Abs. 1 des Zwölften Buches Sozialgesetzbuch oder den in § 53 Nr. 2 der Abgabenordnung genannten Personen zugute gekommen sind oder
+bei Altenheimen, Altenwohnheimen und Pflegeheimen im Erhebungszeitraum mindestens 40 Prozent der Leistungen den in § 61 des Zwölften Buches Sozialgesetzbuch oder den in § 53 Nr. 2 der Abgabenordnung genannten Personen zugute gekommen sind oder
 
 d)  
 bei Einrichtungen zur vorübergehenden Aufnahme pflegebedürftiger Personen und bei Einrichtungen zur ambulanten Pflege kranker und pflegebedürftiger Personen im Erhebungszeitraum die Pflegekosten in mindestens 40 Prozent der Fälle von den gesetzlichen Trägern der Sozialversicherung oder Sozialhilfe ganz oder zum überwiegenden Teil getragen worden sind oder
@@ -266,7 +270,7 @@ die Global Legal Entity Identifier Stiftung, soweit sie von der Körperschaftste
 
 (1) <sup>1</sup>Die stehenden Gewerbebetriebe unterliegen der Gewerbesteuer in der Gemeinde, in der eine Betriebsstätte zur Ausübung des stehenden Gewerbes unterhalten wird. <sup>2</sup>Befinden sich Betriebsstätten desselben Gewerbebetriebs in mehreren Gemeinden, oder erstreckt sich eine Betriebsstätte über mehrere Gemeinden, so wird die Gewerbesteuer in jeder Gemeinde nach dem Teil des Steuermessbetrags erhoben, der auf sie entfällt.
 
-(2) <sup>1</sup>Für Betriebsstätten in gemeindefreien Gebieten bestimmt die Landesregierung durch Rechtsverordnung, wer die nach diesem Gesetz den Gemeinden zustehenden Befugnisse ausübt. <sup>2</sup>Der in § 2 Absatz 7 Nummer 1 bezeichnete Anteil am Festlandsockel und an der ausschließlichen Wirtschaftszone ist gemeindefreies Gebiet. <sup>3</sup>In Fällen von Satz 2 bestimmt sich die zuständige Landesregierung im Sinne des Satzes 1 unter entsprechender Anwendung des § 22a der Abgabenordnung.
+(2) <sup>1</sup>Für Betriebsstätten in gemeindefreien Gebieten bestimmt die Landesregierung durch Rechtsverordnung, wer die nach diesem Gesetz den Gemeinden zustehenden Befugnisse ausübt. <sup>2</sup>Der in § 2 Absatz 7 Nummer 1 und 2 bezeichnete Anteil am Festlandsockel und an der ausschließlichen Wirtschaftszone ist gemeindefreies Gebiet. <sup>3</sup>In Fällen von Satz 2 bestimmt sich die zuständige Landesregierung im Sinne des Satzes 1 unter entsprechender Anwendung des § 22a der Abgabenordnung.
 
 (3) <sup>1</sup>Für Betriebsstätten im nicht zur Bundesrepublik Deutschland gehörenden Teil eines grenzüberschreitenden Gewerbegebiets im Sinne des § 2 Absatz 7 Nummer 3 ist die Gemeinde hebeberechtigt, in der der zur Bundesrepublik Deutschland gehörende Teil des grenzüberschreitenden Gewerbegebiets liegt. <sup>2</sup>Liegt der zur Bundesrepublik Deutschland gehörende Teil in mehreren Gemeinden, gilt Absatz 2 entsprechend.
 
@@ -298,10 +302,28 @@ des Anteils eines Gesellschafters, der als Unternehmer (Mitunternehmer) des Betr
 3.  
 des Anteils eines persönlich haftenden Gesellschafters einer Kommanditgesellschaft auf Aktien,
 
-soweit er nicht auf eine natürliche Person als unmittelbar beteiligter Mitunternehmer entfällt. <sup>3</sup>Der nach § 5a des Einkommensteuergesetzes ermittelte Gewinn und das nach § 8 Abs. 1 Satz 3 des Körperschaftsteuergesetzes ermittelte Einkommen gelten als Gewerbeertrag nach Satz 1. <sup>4</sup>§ 3 Nr. 40 und § 3c Abs. 2 des Einkommensteuergesetzes sind bei der Ermittlung des Gewerbeertrags einer Mitunternehmerschaft anzuwenden, soweit an der Mitunternehmerschaft natürliche Personen unmittelbar oder mittelbar über eine oder mehrere Personengesellschaften beteiligt sind; im Übrigen ist § 8b des Körperschaftsteuergesetzes anzuwenden. <sup>5</sup>Bei der Ermittlung des Gewerbeertrags einer Kapitalgesellschaft, auf die § 8 Abs. 7 Satz 1 Nr. 2 des Körperschaftsteuergesetzes anzuwenden ist, ist § 8 Abs. 9 Satz 1 bis 3 des Körperschaftsteuergesetzes entsprechend anzuwenden; ein sich danach bei der jeweiligen Sparte im Sinne des § 8 Abs. 9 Satz 1 des Körperschaftsteuergesetzes ergebender negativer Gewerbeertrag darf nicht mit einem positiven Gewerbeertrag aus einer anderen Sparte im Sinne des § 8 Abs. 9 Satz 1 des Körperschaftsteuergesetzes ausgeglichen werden. <sup>6</sup>§ 50d Abs. 10 des Einkommensteuergesetzes ist bei der Ermittlung des Gewerbeertrags entsprechend anzuwenden.
+soweit er nicht auf eine natürliche Person als unmittelbar beteiligter Mitunternehmer entfällt. <sup>3</sup>Der nach § 5a des Einkommensteuergesetzes ermittelte Gewinn und das nach § 8 Abs. 1 Satz 3 des Körperschaftsteuergesetzes ermittelte Einkommen gelten als Gewerbeertrag nach Satz 1. <sup>4</sup>§ 3 Nr. 40 und § 3c Abs. 2 des Einkommensteuergesetzes sind bei der Ermittlung des Gewerbeertrags einer Mitunternehmerschaft anzuwenden, soweit an der Mitunternehmerschaft natürliche Personen unmittelbar oder mittelbar über eine oder mehrere Personengesellschaften beteiligt sind; im Übrigen ist § 8b des Körperschaftsteuergesetzes anzuwenden. <sup>5</sup>Bei der Ermittlung des Gewerbeertrags einer Kapitalgesellschaft, auf die § 8 Abs. 7 Satz 1 Nr. 2 des Körperschaftsteuergesetzes anzuwenden ist, ist § 8 Abs. 9 Satz 1 bis 3 des Körperschaftsteuergesetzes entsprechend anzuwenden; ein sich danach bei der jeweiligen Sparte im Sinne des § 8 Abs. 9 Satz 1 des Körperschaftsteuergesetzes ergebender negativer Gewerbeertrag darf nicht mit einem positiven Gewerbeertrag aus einer anderen Sparte im Sinne des § 8 Abs. 9 Satz 1 des Körperschaftsteuergesetzes ausgeglichen werden. <sup>6</sup>§ 50d Abs. 10 des Einkommensteuergesetzes ist bei der Ermittlung des Gewerbeertrags entsprechend anzuwenden. <sup>7</sup>Hinzurechnungsbeträge im Sinne des § 10 Absatz 1 des Außensteuergesetzes sind Einkünfte, die in einer inländischen Betriebsstätte anfallen. <sup>8</sup>Einkünfte im Sinne des § 20 Absatz 2 Satz 1 des Außensteuergesetzes gelten als in einer inländischen Betriebsstätte erzielt; das gilt auch, wenn sie nicht von einem Abkommen zur Vermeidung der Doppelbesteuerung erfasst werden oder das Abkommen zur Vermeidung der Doppelbesteuerung selbst die Steueranrechnung anordnet. <sup>9</sup>Satz 8 ist nicht anzuwenden, soweit auf die Einkünfte, würden sie in einer Zwischengesellschaft im Sinne des § 8 des Außensteuergesetzes erzielt, § 8 Absatz 2 des Außensteuergesetzes zur Anwendung käme.
 
 (+++ § 7: Zur erstmaligen Anwendung vgl. § 36 Abs. 5 +++)
-(+++ § 7 Satz 6: Zur Anwendung vgl. § 36 Abs. 5 +++)
+(+++ § 7 Satz 8: Zur Anwendung vgl. § 36 Abs. 2a +++)
+
+### § 7a Sonderregelung bei der Ermittlung des Gewerbeertrags einer Organgesellschaft
+
+(1) <sup>1</sup>Bei der Ermittlung des Gewerbeertrags einer Organgesellschaft ist § 9 Nummer 2a, 7 und 8 nicht anzuwenden. <sup>2</sup>In den Fällen des Satzes 1 ist § 8 Nummer 1 bei Aufwendungen, die im unmittelbaren Zusammenhang mit Gewinnen aus Anteilen im Sinne des § 9 Nummer 2a, 7 oder 8 stehen, nicht anzuwenden.
+
+(2) <sup>1</sup>Sind im Gewinn einer Organgesellschaft
+
+1.  
+Gewinne aus Anteilen im Sinne des § 9 Nummer 2a, 7 oder 8 oder
+
+2.  
+in den Fällen der Nummer 1 auch Aufwendungen, die im unmittelbaren Zusammenhang mit diesen Gewinnen aus Anteilen stehen,
+
+enthalten, sind § 15 Satz 1 Nummer 2 Satz 2 bis 4 des Körperschaftsteuergesetzes und § 8 Nummer 1 und 5 sowie § 9 Nummer 2a, 7 und 8 bei der Ermittlung des Gewerbeertrags der Organgesellschaft entsprechend anzuwenden. <sup>2</sup>Der bei der Ermittlung des Gewerbeertrags der Organgesellschaft berücksichtigte Betrag der Hinzurechnungen nach § 8 Nummer 1 ist dabei unter Berücksichtigung der Korrekturbeträge nach Absatz 1 und 2 Satz 1 zu berechnen.
+
+(3) Die Absätze 1 und 2 gelten in den Fällen des § 15 Satz 2 des Körperschaftsteuergesetzes entsprechend.
+
+(+++ § 7a: Zur Anwendung vgl. § 36 Abs. 2b +++)
 
 ### § 8 Hinzurechnungen
 
@@ -396,7 +418,7 @@ soweit der Gewerbeertrag Gewinne aus der Aufdeckung stiller Reserven aus dem Gru
 <sup>6</sup>Eine Kürzung nach den Sätzen 2 und 3 ist ausgeschlossen für den Teil des Gewerbeertrags, der auf Veräußerungs- oder Aufgabegewinne im Sinne des § 7 Satz 2 Nr. 2 und 3 entfällt;
 
 2.  
-die Anteile am Gewinn einer in- oder ausländischen offenen Handelsgesellschaft, einer Kommanditgesellschaft oder einer anderen Gesellschaft, bei der die Gesellschafter als Unternehmer (Mitunternehmer) des Gewerbebetriebs anzusehen sind, wenn die Gewinnanteile bei Ermittlung des Gewinns angesetzt worden sind. <sup>2</sup>Satz 1 ist bei Lebens- und Krankenversicherungsunternehmen nicht anzuwenden; für Pensionsfonds gilt Entsprechendes;
+die Anteile am Gewinn einer in- oder ausländischen offenen Handelsgesellschaft, einer Kommanditgesellschaft oder einer anderen Gesellschaft, bei der die Gesellschafter als Unternehmer (Mitunternehmer) des Gewerbebetriebs anzusehen sind, wenn die Gewinnanteile bei Ermittlung des Gewinns angesetzt worden sind. <sup>2</sup>Satz 1 ist bei Lebens- und Krankenversicherungsunternehmen nicht anzuwenden; für Pensionsfonds und für Einkünfte im Sinne des § 7 Satz 8 gilt Entsprechendes;
 
 2a.  
 die Gewinne aus Anteilen an einer nicht steuerbefreiten inländischen Kapitalgesellschaft im Sinne des § 2 Abs. 2, einer Kredit- oder Versicherungsanstalt des öffentlichen Rechts, einer Erwerbs- und Wirtschaftsgenossenschaft oder einer Unternehmensbeteiligungsgesellschaft im Sinne des § 3 Nr. 23, wenn die Beteiligung zu Beginn des Erhebungszeitraums mindestens 15 Prozent des Grund- oder Stammkapitals beträgt und die Gewinnanteile bei Ermittlung des Gewinns (§ 7) angesetzt worden sind. <sup>2</sup>Ist ein Grund- oder Stammkapital nicht vorhanden, so ist die Beteiligung an dem Vermögen, bei Erwerbs- und Wirtschaftsgenossenschaften die Beteiligung an der Summe der Geschäftsguthaben, maßgebend. <sup>3</sup>Im unmittelbaren Zusammenhang mit Gewinnanteilen stehende Aufwendungen mindern den Kürzungsbetrag, soweit entsprechende Beteiligungserträge zu berücksichtigen sind; insoweit findet § 8 Nr. 1 keine Anwendung. <sup>4</sup>Nach § 8b Abs. 5 des Körperschaftsteuergesetzes nicht abziehbare Betriebsausgaben sind keine Gewinne aus Anteilen im Sinne des Satzes 1. <sup>5</sup>Satz 1 ist bei Lebens- und Krankenversicherungsunternehmen auf Gewinne aus Anteilen, die den Kapitalanlagen zuzurechnen sind, nicht anzuwenden; für Pensionsfonds gilt Entsprechendes;
@@ -405,7 +427,7 @@ die Gewinne aus Anteilen an einer nicht steuerbefreiten inländischen Kapitalges
 die nach § 8 Nr. 4 dem Gewerbeertrag einer Kommanditgesellschaft auf Aktien hinzugerechneten Gewinnanteile, wenn sie bei der Ermittlung des Gewinns (§ 7) angesetzt worden sind;
 
 3.  
-den Teil des Gewerbeertrags eines inländischen Unternehmens, der auf eine nicht im Inland belegene Betriebsstätte entfällt. <sup>2</sup>Bei Unternehmen, die ausschließlich den Betrieb von eigenen oder gecharterten Handelsschiffen im internationalen Verkehr zum Gegenstand haben, gelten 80 Prozent des Gewerbeertrags als auf eine nicht im Inland belegene Betriebsstätte entfallend. <sup>3</sup>Ist Gegenstand eines Betriebs nicht ausschließlich der Betrieb von Handelsschiffen im internationalen Verkehr, so gelten 80 Prozent des Teils des Gewerbeertrags, der auf den Betrieb von Handelsschiffen im internationalen Verkehr entfällt, als auf eine nicht im Inland belegene Betriebsstätte entfallend; in diesem Fall ist Voraussetzung, dass dieser Teil gesondert ermittelt wird. <sup>4</sup>Handelsschiffe werden im internationalen Verkehr betrieben, wenn eigene oder gecharterte Handelsschiffe im Wirtschaftsjahr überwiegend zur Beförderung von Personen und Gütern im Verkehr mit oder zwischen ausländischen Häfen, innerhalb eines ausländischen Hafens oder zwischen einem ausländischen Hafen und der freien See eingesetzt werden. <sup>5</sup>Für die Anwendung der Sätze 2 bis 4 gilt § 5a Abs. 2 Satz 2 des Einkommensteuergesetzes entsprechend;
+den Teil des Gewerbeertrags eines inländischen Unternehmens, der auf eine nicht im Inland belegene Betriebsstätte dieses Unternehmens entfällt; dies gilt nicht für Einkünfte im Sinne des § 7 Satz 8. <sup>2</sup>Bei Unternehmen, die ausschließlich den Betrieb von eigenen oder gecharterten Handelsschiffen im internationalen Verkehr zum Gegenstand haben, gelten 80 Prozent des Gewerbeertrags als auf eine nicht im Inland belegene Betriebsstätte entfallend. <sup>3</sup>Ist Gegenstand eines Betriebs nicht ausschließlich der Betrieb von Handelsschiffen im internationalen Verkehr, so gelten 80 Prozent des Teils des Gewerbeertrags, der auf den Betrieb von Handelsschiffen im internationalen Verkehr entfällt, als auf eine nicht im Inland belegene Betriebsstätte entfallend; in diesem Fall ist Voraussetzung, dass dieser Teil gesondert ermittelt wird. <sup>4</sup>Handelsschiffe werden im internationalen Verkehr betrieben, wenn eigene oder gecharterte Handelsschiffe im Wirtschaftsjahr überwiegend zur Beförderung von Personen und Gütern im Verkehr mit oder zwischen ausländischen Häfen, innerhalb eines ausländischen Hafens oder zwischen einem ausländischen Hafen und der freien See eingesetzt werden. <sup>5</sup>Für die Anwendung der Sätze 2 bis 4 gilt § 5a Abs. 2 Satz 2 des Einkommensteuergesetzes entsprechend;
 
 4.  
 (weggefallen)
@@ -475,7 +497,7 @@ die Gewinne aus Anteilen an einer ausländischen Gesellschaft, die nach einem Ab
 9.  
 u. 10. (weggefallen)
 
-(+++ § 9: Zur Anwendung vgl. § 36 Abs. 6a, 7, 8, 8a, 8b +++)
+(+++ § 9: Zur Anwendung vgl. § 36 Abs. 6a, 7, 8, 8a, 8b dieses G u. § 53 Ab. 4 InvStG 2018 +++)
 
 ### § 10 Maßgebender Gewerbeertrag
 
@@ -485,7 +507,7 @@ u. 10. (weggefallen)
 
 ### § 10a Gewerbeverlust
 
-<sup>1</sup>Der maßgebende Gewerbeertrag wird bis zu einem Betrag in Höhe von 1 Million Euro um die Fehlbeträge gekürzt, die sich bei der Ermittlung des maßgebenden Gewerbeertrags für die vorangegangenen Erhebungszeiträume nach den Vorschriften der §§ 7 bis 10 ergeben haben, soweit die Fehlbeträge nicht bei der Ermittlung des Gewerbeertrags für die vorangegangenen Erhebungszeiträume berücksichtigt worden sind. <sup>2</sup>Der 1 Million Euro übersteigende maßgebende Gewerbeertrag ist bis zu 60 Prozent um nach Satz 1 nicht berücksichtigte Fehlbeträge der vorangegangenen Erhebungszeiträume zu kürzen. <sup>3</sup>Im Fall des § 2 Abs. 2 Satz 2 kann die Organgesellschaft den maßgebenden Gewerbeertrag nicht um Fehlbeträge kürzen, die sich vor dem rechtswirksamen Abschluss des Gewinnabführungsvertrags ergeben haben. <sup>4</sup>Bei einer Mitunternehmerschaft ist der sich für die Mitunternehmerschaft insgesamt ergebende Fehlbetrag den Mitunternehmern entsprechend dem sich aus dem Gesellschaftsvertrag ergebenden allgemeinen Gewinnverteilungsschlüssel zuzurechnen; Vorabgewinnanteile sind nicht zu berücksichtigen. <sup>5</sup>Für den Abzug der den Mitunternehmern zugerechneten Fehlbeträge nach Maßgabe der Sätze 1 und 2 ist der sich für die Mitunternehmerschaft insgesamt ergebende maßgebende Gewerbeertrag sowie der Höchstbetrag nach Satz 1 den Mitunternehmern entsprechend dem sich aus dem Gesellschaftsvertrag für das Abzugsjahr ergebenden allgemeinen Gewinnverteilungsschlüssel zuzurechnen; Vorabgewinnanteile sind nicht zu berücksichtigen. <sup>6</sup>Die Höhe der vortragsfähigen Fehlbeträge ist gesondert festzustellen. <sup>7</sup>Vortragsfähige Fehlbeträge sind die nach der Kürzung des maßgebenden Gewerbeertrags nach Satz 1 und 2 zum Schluss des Erhebungszeitraums verbleibenden Fehlbeträge. <sup>8</sup>Im Fall des § 2 Abs. 5 kann der andere Unternehmer den maßgebenden Gewerbeertrag nicht um die Fehlbeträge kürzen, die sich bei der Ermittlung des maßgebenden Gewerbeertrags des übergegangenen Unternehmens ergeben haben. <sup>9</sup>§ 8 Abs. 8 und 9 Satz 5 bis 8 des Körperschaftsteuergesetzes ist entsprechend anzuwenden. <sup>10</sup>Auf die Fehlbeträge ist § 8c des Körperschaftsteuergesetzes entsprechend anzuwenden; dies gilt auch für den Fehlbetrag einer Mitunternehmerschaft, soweit dieser
+<sup>1</sup>Der maßgebende Gewerbeertrag wird bis zu einem Betrag in Höhe von 1 Million Euro um die Fehlbeträge gekürzt, die sich bei der Ermittlung des maßgebenden Gewerbeertrags für die vorangegangenen Erhebungszeiträume nach den Vorschriften der §§ 7 bis 10 ergeben haben, soweit die Fehlbeträge nicht bei der Ermittlung des Gewerbeertrags für die vorangegangenen Erhebungszeiträume berücksichtigt worden sind. <sup>2</sup>Der 1 Million Euro übersteigende maßgebende Gewerbeertrag ist bis zu 60 Prozent um nach Satz 1 nicht berücksichtigte Fehlbeträge der vorangegangenen Erhebungszeiträume zu kürzen. <sup>3</sup>Im Fall des § 2 Abs. 2 Satz 2 kann die Organgesellschaft den maßgebenden Gewerbeertrag nicht um Fehlbeträge kürzen, die sich vor dem rechtswirksamen Abschluss des Gewinnabführungsvertrags ergeben haben. <sup>4</sup>Bei einer Mitunternehmerschaft ist der sich für die Mitunternehmerschaft insgesamt ergebende Fehlbetrag den Mitunternehmern entsprechend dem sich aus dem Gesellschaftsvertrag ergebenden allgemeinen Gewinnverteilungsschlüssel zuzurechnen; Vorabgewinnanteile sind nicht zu berücksichtigen. <sup>5</sup>Für den Abzug der den Mitunternehmern zugerechneten Fehlbeträge nach Maßgabe der Sätze 1 und 2 ist der sich für die Mitunternehmerschaft insgesamt ergebende maßgebende Gewerbeertrag sowie der Höchstbetrag nach Satz 1 den Mitunternehmern entsprechend dem sich aus dem Gesellschaftsvertrag für das Abzugsjahr ergebenden allgemeinen Gewinnverteilungsschlüssel zuzurechnen; Vorabgewinnanteile sind nicht zu berücksichtigen. <sup>6</sup>Die Höhe der vortragsfähigen Fehlbeträge ist gesondert festzustellen. <sup>7</sup>Vortragsfähige Fehlbeträge sind die nach der Kürzung des maßgebenden Gewerbeertrags nach Satz 1 und 2 zum Schluss des Erhebungszeitraums verbleibenden Fehlbeträge. <sup>8</sup>Im Fall des § 2 Abs. 5 kann der andere Unternehmer den maßgebenden Gewerbeertrag nicht um die Fehlbeträge kürzen, die sich bei der Ermittlung des maßgebenden Gewerbeertrags des übergegangenen Unternehmens ergeben haben. <sup>9</sup>§ 8 Abs. 8 und 9 Satz 5 bis 8 des Körperschaftsteuergesetzes ist entsprechend anzuwenden. <sup>10</sup>Auf die Fehlbeträge sind § 8c des Körperschaftsteuergesetzes und, wenn ein fortführungsgebundener Verlustvortrag nach § 8d des Körperschaftsteuergesetzes gesondert festgestellt wird, § 8d des Körperschaftsteuergesetzes entsprechend anzuwenden; dies gilt mit Ausnahme des § 8d des Körperschaftsteuergesetzes auch für den Fehlbetrag einer Mitunternehmerschaft, soweit dieser
 
 1.  
 einer Körperschaft unmittelbar oder
@@ -496,7 +518,8 @@ einer Mitunternehmerschaft, soweit an dieser eine Körperschaft unmittelbar oder
 zuzurechnen ist.
 
 (+++ § 10a Satz 4 u. 5: Zur Anwendung vgl. § 36 Abs. 9 +++)
-(+++ § 10a Satz 9 u. 10: Zur Anwendung vgl. § 36 Abs. 9 +++)
+(+++ § 10a Satz 9: Zur Anwendung vgl. § 36 Abs. 9 +++)
+(+++ § 10a Satz 10: Zur Anwendung vgl. § 36 Abs. 2c u. 9 +++)
 
 ### § 11 Steuermesszahl und Steuermessbetrag
 
@@ -802,6 +825,14 @@ Abschnitt X Schlussvorschriften
 (1) Die vorstehende Fassung dieses Gesetzes ist, soweit in Absatz 2 nichts anderes bestimmt ist, erstmals für den Erhebungszeitraum 2016 anzuwenden.
 
 (2) <sup>1</sup>§ 3 Nummer 2 ist für die Hamburgische Investitions- und Förderbank erstmals für den Erhebungszeitraum 2013 anzuwenden. <sup>2</sup>Die Steuerbefreiung nach § 3 Nummer 2 in der bis zum 30. Juli 2014 geltenden Fassung ist für die Hamburgische Wohnungsbaukreditanstalt letztmals für den Erhebungszeitraum 2013 anzuwenden. <sup>3</sup>§ 3 Nummer 31 in der am 31. Dezember 2014 geltenden Fassung ist erstmals für den Erhebungszeitraum 2014 anzuwenden.
+
+(2a) § 7 Satz 8 in der am 1. Januar 2017 geltenden Fassung ist erstmals für den Erhebungszeitraum 2017 anzuwenden.
+
+(2b) § 7a in der am 1. Januar 2017 geltenden Fassung ist erstmals auf Gewinne aus Anteilen im Sinne des § 9 Nummer 2a, 7 oder 8 anzuwenden, die nach dem 31. Dezember 2016 zufließen, und auf Aufwendungen, die im unmittelbaren Zusammenhang mit diesen Gewinnen aus Anteilen stehen und nach diesem Zeitpunkt gewinnwirksam werden.
+
+(2c) zukünftig in Kraft
+
+(2d) § 10a Satz 10 in der am 1. Januar 2016 geltenden Fassung ist erstmals auf schädliche Beteiligungserwerbe im Sinne des § 8c des Körperschaftsteuergesetzes anzuwenden, die nach dem 31. Dezember 2015 erfolgen.
 
 (3) § 35c Absatz 1 Nummer 2 Buchstabe d in der am 1. Januar 2016 geltenden Fassung ist erstmals für den Erhebungszeitraum 2016 anzuwenden.
 
