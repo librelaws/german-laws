@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 26.9.1995 I 1195;
 
 Stand  
-Zuletzt geändert durch Art. 2a V v. 6.3.2015 I 278
+zuletzt geändert durch Art. 2 V v. 2.7.2018 I 1080
 
 ### 
 
@@ -586,7 +586,7 @@ Zur Herstellung von Arzneimitteln dürfen nur primäre Verpackungsmaterialien ve
 Name und Anschrift der abgebenden Apotheke und, soweit unterschiedlich, des Herstellers,
 
 2.  
-Inhalt nach Gewicht, Rauminhalt oder Stückzahl,
+Inhalt nach Gewicht, Nennvolumen oder Stückzahl,
 
 3.  
 Art der Anwendung,
@@ -761,7 +761,7 @@ Die Versendung darf nicht erfolgen, wenn zur sicheren Anwendung des Arzneimittel
 
 (4) Verschreibungen von Personen, die zur Ausübung der Heilkunde, Zahnheilkunde oder Tierheilkunde berechtigt sind, sind in einer der Verschreibung angemessenen Zeit auszuführen.
 
-(5) Die abgegebenen Arzneimittel müssen den Verschreibungen und den damit verbundenen Vorschriften des Fünften Buches Sozialgesetzbuch zur Arzneimittelversorgung entsprechen. Enthält eine Verschreibung einen für den Abgebenden erkennbaren Irrtum, ist sie nicht lesbar oder ergeben sich sonstige Bedenken, so darf das Arzneimittel nicht abgegeben werden, bevor die Unklarheit beseitigt ist. Der Apotheker hat jede Änderung auf der Verschreibung zu vermerken und zu unterschreiben oder im Falle der Verschreibung in elektronischer Form der elektronischen Verschreibung hinzuzufügen und das Gesamtdokument mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz zu versehen. Die Vorschriften der Betäubungsmittel-Verschreibungsverordnung bleiben unberührt.
+(5) Die abgegebenen Arzneimittel müssen den Verschreibungen und den damit verbundenen Vorschriften des Fünften Buches Sozialgesetzbuch zur Arzneimittelversorgung entsprechen. Enthält eine Verschreibung einen für den Abgebenden erkennbaren Irrtum, ist sie nicht lesbar oder ergeben sich sonstige Bedenken, so darf das Arzneimittel nicht abgegeben werden, bevor die Unklarheit beseitigt ist. Der Apotheker hat jede Änderung auf der Verschreibung zu vermerken und zu unterschreiben oder im Falle der Verschreibung in elektronischer Form der elektronischen Verschreibung hinzuzufügen und das Gesamtdokument mit einer qualifizierten elektronischen Signatur zu versehen. Die Vorschriften der Betäubungsmittel-Verschreibungsverordnung bleiben unberührt.
 
 (5a) Abweichend von Absatz 5 Satz 1 darf der Apotheker bei der Dienstbereitschaft während der Zeiten nach § 23 Absatz 1 Satz 2 ein anderes, mit dem verschriebenen Arzneimittel nach Anwendungsgebiet und nach Art und Menge der wirksamen Bestandteile identisches sowie in der Darreichungsform und pharmazeutischen Qualität vergleichbares Arzneimittel abgeben, wenn das verschriebene Arzneimittel nicht verfügbar ist und ein dringender Fall vorliegt, der die unverzügliche Anwendung des Arzneimittels erforderlich macht.
 
@@ -771,7 +771,7 @@ Die Versendung darf nicht erfolgen, wenn zur sicheren Anwendung des Arzneimittel
 der Name oder die Firma des Inhabers der Apotheke und deren Anschrift,
 
 2.  
-das Namenszeichen des Apothekers, des Apothekerassistenten, des Pharmazieingenieurs oder des Apothekenassistenten, der das Arzneimittel abgegeben, oder des Apothekers, der die Abgabe beaufsichtigt hat; im Falle der Verschreibung in elektronischer Form ist das Namenszeichen durch eine elektronische Signatur nach dem Signaturgesetz zu ersetzen, wobei der Apothekenleiter die Rückverfolgbarkeit zum jeweiligen Unterzeichner und deren Dokumentation sicherzustellen hat,
+das Namenszeichen des Apothekers, des Apothekerassistenten, des Pharmazieingenieurs oder des Apothekenassistenten, der das Arzneimittel abgegeben, oder des Apothekers, der die Abgabe beaufsichtigt hat; im Falle der Verschreibung in elektronischer Form ist das Namenszeichen durch eine elektronische Signatur zu ersetzen, wobei der Apothekenleiter die Rückverfolgbarkeit zum jeweiligen Unterzeichner und deren Dokumentation sicherzustellen hat,
 
 3.  
 das Datum der Abgabe,
@@ -851,7 +851,7 @@ Werden Arzneimittel von Apotheken bezogen oder von diesen an andere Apotheken we
 
 ### § 18 Einfuhr von Arzneimitteln
 
-(1) Werden Fertigarzneimittel nach § 73 Absatz 3 oder 3a des Arzneimittelgesetzes in den Geltungsbereich dieser Verordnung verbracht, sind folgende Angaben aufzuzeichnen
+(1) Werden Fertigarzneimittel nach § 73 Absatz 3 oder Absatz 3b des Arzneimittelgesetzes in den Geltungsbereich dieser Verordnung verbracht, sind folgende Angaben aufzuzeichnen
 
 1.  
 die Bezeichnung des eingeführten Arzneimittels,
@@ -875,7 +875,9 @@ der Name und die Anschrift des verschreibenden Arztes oder des verschreibenden T
 das Datum der Bestellung und der Abgabe,
 
 8.  
-das Namenszeichen des Apothekers, der das Arzneimittel abgegeben oder die Abgabe beaufsichtigt hat. Soweit aus Gründen der Arzneimittelsicherheit besondere Hinweise geboten sind, sind diese bei der Abgabe mitzuteilen. Diese Mitteilung ist aufzuzeichnen.
+das Namenszeichen des Apothekers, der das Arzneimittel abgegeben oder die Abgabe beaufsichtigt hat.
+
+Soweit aus Gründen der Arzneimittelsicherheit besondere Hinweise geboten sind, sind diese bei der Abgabe mitzuteilen. Diese Mitteilung ist aufzuzeichnen.
 
 (2) Fertigarzneimittel, die aus einem Mitgliedstaat der Europäischen Gemeinschaften über den Umfang von § 73 Abs. 3 des Arzneimittelgesetzes hinaus in den Geltungsbereich dieser Verordnung verbracht werden, dürfen von einer Apotheke nur dann erstmals in den Verkehr gebracht werden, wenn sie entsprechend § 6 Absatz 3 Satz 1 bis 3 geprüft sind und die erforderliche Qualität bestätigt ist. Von der Prüfung kann abgesehen werden, wenn die Arzneimittel in dem Mitgliedstaat nach den dort geltenden Rechtsvorschriften geprüft sind und dem Prüfprotokoll entsprechende Unterlagen vorliegen.
 
@@ -918,7 +920,7 @@ Soweit nach § 4 Abs. 2 der Arzneimittelverschreibungsverordnung eine Verschreib
 
 ### § 20 Information und Beratung
 
-(1) Der Apothekenleiter muss im Rahmen des Qualitätsmanagementsystems sicherstellen, dass Patienten und andere Kunden sowie die zur Ausübung der Heilkunde, Zahnheilkunde oder Tierheilkunde berechtigten Personen hinreichend über Arzneimittel und apothekenpflichtige Medizinprodukte informiert und beraten werden. Die Verpflichtung zur Information und Beratung über Arzneimittel muss durch Apotheker der Apotheke ausgeübt werden, sie kann durch andere Angehörige des pharmazeutischen Personals der Apotheke übernommen werden, wenn der Apothekenleiter dies zuvor schriftlich festgelegt hat. Dabei hat er auch zu definieren, in welchen Fällen ein Apotheker der Apotheke grundsätzlich hinzuzuziehen ist.
+(1) Der Apothekenleiter muss im Rahmen des Qualitätsmanagementsystems sicherstellen, dass Patienten und andere Kunden sowie die zur Ausübung der Heilkunde, Zahnheilkunde oder Tierheilkunde berechtigten Personen hinreichend über Arzneimittel und apothekenpflichtige Medizinprodukte informiert und beraten werden. Die Verpflichtung zur Information und Beratung über Arzneimittel muss durch Apotheker der Apotheke ausgeübt werden, sie kann durch andere Angehörige des pharmazeutischen Personals der Apotheke übernommen werden, wenn der Apothekenleiter dies zuvor schriftlich oder elektronisch festgelegt hat. Dabei hat er auch zu definieren, in welchen Fällen ein Apotheker der Apotheke grundsätzlich hinzuzuziehen ist.
 
 (1a) Durch die Information und Beratung der Patienten und anderen Kunden darf die Therapie der zur Ausübung der Heilkunde, Zahnheilkunde oder Tierheilkunde berechtigten Personen nicht beeinträchtigt werden. Soweit Arzneimittel ohne Verschreibung abgegeben werden, hat der Apotheker dem Patienten und anderen Kunden die zur sachgerechten Anwendung erforderlichen Informationen zu geben.
 
@@ -966,7 +968,7 @@ Für Medizinprodukte gilt die Medizinprodukte-Sicherheitsplanverordnung.
 
 (1b) Aufzeichnungen nach § 17 Abs. 6 Satz 1 Nr. 2 Halbsatz 2 sind nach der letzten Eintragung drei Jahre lang aufzubewahren.
 
-(2) Aufzeichnungen können auch auf Bild- oder Datenträgern vorgenommen und aufbewahrt werden. Hierbei muss sichergestellt sein, dass die Daten während der Aufbewahrungsfrist verfügbar sind und innerhalb einer angemessenen Frist lesbar gemacht werden können. Bei einer Aufzeichnung und Aufbewahrung ausschließlich auf Datenträgern ist ein nach dieser Verordnung gefordertes Namenszeichen durch eine elektronische Signatur nach dem Signaturgesetz und eine eigenhändige Unterschrift durch eine qualifizierte elektronische Signatur nach dem Signaturgesetz zu ersetzen.
+(2) Aufzeichnungen können auch auf Bild- oder Datenträgern vorgenommen und aufbewahrt werden. Hierbei muss sichergestellt sein, dass die Daten während der Aufbewahrungsfrist verfügbar sind und innerhalb einer angemessenen Frist lesbar gemacht werden können. Bei einer Aufzeichnung und Aufbewahrung ausschließlich auf Datenträgern ist ein nach dieser Verordnung gefordertes Namenszeichen durch eine elektronische Signatur und eine eigenhändige Unterschrift durch eine qualifizierte elektronische Signatur zu ersetzen.
 
 (3) Die Aufzeichnungen und Nachweise sind der zuständigen Behörde auf Verlangen vorzulegen.
 
@@ -1254,7 +1256,7 @@ zum hygienischen Verhalten des Personals am Arbeitsplatz und zur Art der Schutzk
 (4) Soweit die Arzneimittel keinem Sterilisationsverfahren im Endbehältnis unterzogen werden und sie nicht im geschlossenen System hergestellt werden, ist während der Zubereitung und Abfüllung
 
 1.  
-in der lokalen Zone für die Arbeitsgänge ein Luftreinheitsgrad für Keimzahl und Partikelzahl entsprechend Klasse A der Definition des EG-GMP-Leitfadens, Anhang 1, der vom Bundesministerium im Bundesanzeiger in der jeweils aktuellen Fassung bekannt gemacht wird, einzuhalten und
+in der lokalen Zone für die Arbeitsgänge ein Luftreinheitsgrad für Keimzahl und Partikelzahl entsprechend Klasse A der Definition des EU-GMP-Leitfadens, Anhang 1, der vom Bundesministerium im Bundesanzeiger in der jeweils aktuellen Fassung bekannt gemacht wird, einzuhalten und
 
 2.  
 eine geeignete Umgebung erforderlich, die in Bezug auf Partikel- und Keimzahl
