@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 31.3.1999 I 654;
 
 Stand  
-Zuletzt geändert durch Art. 15 Abs. 14 G v. 5.2.2009 I 160
+zuletzt geändert durch Art. 6 Abs. 1 G v. 23.5.2017 I 1228
 
 ### 
 
@@ -132,7 +132,7 @@ sonstige Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, die
 
 (1) Der Beamte kann nach Maßgabe der §§ 17 und 18 auch über den Bereich des Bundes oder eines Landes hinaus zu einem anderen Dienstherrn im Geltungsbereich dieses Gesetzes abgeordnet oder versetzt werden.
 
-(2) Die Abordnung oder Versetzung wird von dem abgebenden im Einverständnis mit dem aufnehmenden Dienstherrn verfügt; das Einverständnis ist schriftlich zu erklären. In der Verfügung ist zum Ausdruck zu bringen, daß das Einverständnis vorliegt.
+(2) Die Abordnung oder Versetzung wird von dem abgebenden im Einverständnis mit dem aufnehmenden Dienstherrn verfügt; das Einverständnis ist schriftlich oder elektronisch zu erklären. In der Verfügung ist zum Ausdruck zu bringen, daß das Einverständnis vorliegt.
 
 ### § 123a
 
@@ -160,7 +160,7 @@ Der Beamte ist entlassen, wenn er zum Berufssoldaten oder zum Soldaten auf Zeit 
 
 ### § 125b
 
-(1) Haben sich die Anforderungen an die fachliche Eignung für die Einstellung in den öffentlichen Dienst in der Zeit erhöht, in der sich die Bewerbung um Einstellung nur infolge der Geburt oder der Betreuung eines Kindes verzögert hat, und ist die Bewerbung innerhalb von drei Jahren nach der Geburt dieses Kindes oder sechs Monate nach Erfüllung der ausbildungsmäßigen Einstellungsvoraussetzungen erfolgt, so ist der Grad der fachlichen Eignung nach den Anforderungen zu prüfen, die zu einem Zeitpunkt bestanden haben, zu dem die Bewerbung ohne die Geburt oder die Betreuung des Kindes hätte erfolgen können. Führt die Prüfung zu dem Ergebnis, dass der Bewerber ohne diese Verzögerung eingestellt worden wäre, kann er vor anderen Bewerbern eingestellt werden. Die Zahl der Stellen, die diesen Bewerbern in einem Einstellungstermin vorbehalten werden kann, bestimmt sich nach dem zahlenmäßigen Verhältnis der Bewerber mit Verzögerung zu denjenigen ohne eine solche Verzögerung; Bruchteile von Stellen sind zu Gunsten der betroffenen Bewerber aufzurunden. Für die Berechnung des Zeitraums der Verzögerung sind nur die einen Anspruch auf Elternzeit nach § 15 Abs. 1 Satz 1 und Abs. 2 des Bundeselterngeld- und Elternzeitgesetzes begründenden Zeiten sowie bei Frauen zusätzlich die Zeiten nach § 3 Abs. 2 und § 6 Abs. 1 des Mutterschutzgesetzes zu berücksichtigen.
+(1) Haben sich die Anforderungen an die fachliche Eignung für die Einstellung in den öffentlichen Dienst in der Zeit erhöht, in der sich die Bewerbung um Einstellung nur infolge der Geburt oder der Betreuung eines Kindes verzögert hat, und ist die Bewerbung innerhalb von drei Jahren nach der Geburt dieses Kindes oder sechs Monate nach Erfüllung der ausbildungsmäßigen Einstellungsvoraussetzungen erfolgt, so ist der Grad der fachlichen Eignung nach den Anforderungen zu prüfen, die zu einem Zeitpunkt bestanden haben, zu dem die Bewerbung ohne die Geburt oder die Betreuung des Kindes hätte erfolgen können. Führt die Prüfung zu dem Ergebnis, dass der Bewerber ohne diese Verzögerung eingestellt worden wäre, kann er vor anderen Bewerbern eingestellt werden. Die Zahl der Stellen, die diesen Bewerbern in einem Einstellungstermin vorbehalten werden kann, bestimmt sich nach dem zahlenmäßigen Verhältnis der Bewerber mit Verzögerung zu denjenigen ohne eine solche Verzögerung; Bruchteile von Stellen sind zu Gunsten der betroffenen Bewerber aufzurunden. Für die Berechnung des Zeitraums der Verzögerung sind nur die einen Anspruch auf Elternzeit nach § 15 Abs. 1 Satz 1 und Abs. 2 des Bundeselterngeld- und Elternzeitgesetzes begründenden Zeiten sowie bei Frauen zusätzlich die Zeiten nach § 3 des Mutterschutzgesetzes zu berücksichtigen.
 
 (2) Verzögert sich die Bewerbung um Einstellung nur wegen der tatsächlichen Pflege eines nach ärztlichem Gutachten pflegebedürftigen sonstigen nahen Angehörigen im Sinne des § 12 Abs. 2, gilt Absatz 1 Satz 1 bis 3 entsprechend. Der berücksichtigungsfähige Zeitraum beträgt längstens drei Jahre.
 
