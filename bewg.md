@@ -703,17 +703,22 @@ A. Allgemeines
 
 (4) Feststellungen nach den Absätzen 1 und 3 erfolgen nur, wenn und soweit sie für die Besteuerung von Bedeutung sind.
 
+§ 19: IVm Art. 2 Abs. 1 Satz 1, Satz 3 G v. 13.8.1965 I 851 idF d. Art. 2 G v. 22.7.1970 nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG (100-1) seit dem 1.1.2002 unvereinbar gem. Nr. 1 BVerfGE v. 10.4.2018 I 531 - 1 BvL 11/14 u.a. -; Gem. Nr. 2 ist der Gesetzgeber verpflichtet, eine Neuregelung spätestens bis zum 31. Dezember 2019 zu treffen. Bis zu diesem Zeitpunkt dürfen die als unvereinbar mit Art. 3 Abs. 1 GG festgestellten Regeln über die Einheitsbewertung weiter angewandt werden. Nach Verkündung einer Neuregelung dürfen die beanstandeten Regelungen für weitere fünf Jahre ab der Verkündung, längstens aber bis zum 31. Dezember 2024 angewandt werden.
+
 ### § 20 Ermittlung des Einheitswerts
 
 Die Einheitswerte werden nach den Vorschriften dieses Abschnitts ermittelt. Bei der Ermittlung der Einheitswerte ist § 163 der Abgabenordnung nicht anzuwenden; dies gilt nicht für Übergangsregelungen, die die oberste Finanzbehörde eines Landes im Einvernehmen mit den obersten Finanzbehörden der übrigen Länder trifft.
 
 (+++ § 20 Satz 2: Zur Anwendung vgl. § 124 Abs. 6 F. ab 1992-11-09 +++)
+§ 20: IVm Art. 2 Abs. 1 Satz 1, Satz 3 G v. 13.8.1965 I 851 idF d. Art. 2 G v. 22.7.1970 nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG (100-1) seit dem 1.1.2002 unvereinbar gem. Nr. 1 BVerfGE v. 10.4.2018 I 531 - 1 BvL 11/14 u.a. -; Gem. Nr. 2 ist der Gesetzgeber verpflichtet, eine Neuregelung spätestens bis zum 31. Dezember 2019 zu treffen. Bis zu diesem Zeitpunkt dürfen die als unvereinbar mit Art. 3 Abs. 1 GG festgestellten Regeln über die Einheitsbewertung weiter angewandt werden. Nach Verkündung einer Neuregelung dürfen die beanstandeten Regelungen für weitere fünf Jahre ab der Verkündung, längstens aber bis zum 31. Dezember 2024 angewandt werden.
 
 ### § 21 Hauptfeststellung
 
 (1) Die Einheitswerte werden in Zeitabständen von je sechs Jahren allgemein festgestellt (Hauptfeststellung).
 
 (2) Der Hauptfeststellung werden die Verhältnisse zu Beginn des Kalenderjahrs (Hauptfeststellungszeitpunkt) zugrunde gelegt. Die Vorschriften in § 35 Abs. 2 und den §§ 54 und 59 über die Zugrundelegung eines anderen Zeitpunkts bleiben unberührt.
+
+§ 21: IVm Art. 2 Abs. 1 Satz 1, Satz 3 G v. 13.8.1965 I 851 idF d. Art. 2 G v. 22.7.1970 nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG (100-1) seit dem 1.1.2002 unvereinbar gem. Nr. 1 BVerfGE v. 10.4.2018 I 531 - 1 BvL 11/14 u.a. -; Gem. Nr. 2 ist der Gesetzgeber verpflichtet, eine Neuregelung spätestens bis zum 31. Dezember 2019 zu treffen. Bis zu diesem Zeitpunkt dürfen die als unvereinbar mit Art. 3 Abs. 1 GG festgestellten Regeln über die Einheitsbewertung weiter angewandt werden. Nach Verkündung einer Neuregelung dürfen die beanstandeten Regelungen für weitere fünf Jahre ab der Verkündung, längstens aber bis zum 31. Dezember 2024 angewandt werden.
 
 ### § 22 Fortschreibungen
 
@@ -733,6 +738,8 @@ in den Fällen des Absatzes 3 der Beginn des Kalenderjahrs, in dem der Fehler de
 
 Die Vorschriften in § 35 Abs. 2 und den §§ 54 und 59 über die Zugrundelegung eines anderen Zeitpunkts bleiben unberührt.
 
+§ 22: IVm Art. 2 Abs. 1 Satz 1, Satz 3 G v. 13.8.1965 I 851 idF d. Art. 2 G v. 22.7.1970 nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG (100-1) seit dem 1.1.2002 unvereinbar gem. Nr. 1 BVerfGE v. 10.4.2018 I 531 - 1 BvL 11/14 u.a. -; Gem. Nr. 2 ist der Gesetzgeber verpflichtet, eine Neuregelung spätestens bis zum 31. Dezember 2019 zu treffen. Bis zu diesem Zeitpunkt dürfen die als unvereinbar mit Art. 3 Abs. 1 GG festgestellten Regeln über die Einheitsbewertung weiter angewandt werden. Nach Verkündung einer Neuregelung dürfen die beanstandeten Regelungen für weitere fünf Jahre ab der Verkündung, längstens aber bis zum 31. Dezember 2024 angewandt werden.
+
 ### § 23 Nachfeststellung
 
 (1) Für wirtschaftliche Einheiten, für die ein Einheitswert festzustellen ist, wird der Einheitswert nachträglich festgestellt (Nachfeststellung), wenn nach dem Hauptfeststellungszeitpunkt (§ 21 Abs. 2)
@@ -746,6 +753,7 @@ eine bereits bestehende wirtschaftliche Einheit erstmals zu einer Steuer herange
 (2) Der Nachfeststellung werden vorbehaltlich des § 27 die Verhältnisse im Nachfeststellungszeitpunkt zugrunde gelegt. Nachfeststellungszeitpunkt ist in den Fällen des Absatzes 1 Nr. 1 der Beginn des Kalenderjahrs, das auf die Entstehung der wirtschaftlichen Einheit folgt, und in den Fällen des Absatzes 1 Nr. 2 der Beginn des Kalenderjahrs, in dem der Einheitswert erstmals der Besteuerung zugrunde gelegt wird. Die Vorschriften in § 35 Abs. 2 und den §§ 54 und 59 über die Zugrundelegung eines anderen Zeitpunkts bleiben unberührt.
 
 (+++ § 23 Abs. 2: Zur Anwendung zum 1. Januar 1997 vgl. § 152 Abs. 2 +++)
+§ 23: IVm Art. 2 Abs. 1 Satz 1, Satz 3 G v. 13.8.1965 I 851 idF d. Art. 2 G v. 22.7.1970 nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG (100-1) seit dem 1.1.2002 unvereinbar gem. Nr. 1 BVerfGE v. 10.4.2018 I 531 - 1 BvL 11/14 u.a. -; Gem. Nr. 2 ist der Gesetzgeber verpflichtet, eine Neuregelung spätestens bis zum 31. Dezember 2019 zu treffen. Bis zu diesem Zeitpunkt dürfen die als unvereinbar mit Art. 3 Abs. 1 GG festgestellten Regeln über die Einheitsbewertung weiter angewandt werden. Nach Verkündung einer Neuregelung dürfen die beanstandeten Regelungen für weitere fünf Jahre ab der Verkündung, längstens aber bis zum 31. Dezember 2024 angewandt werden.
 
 ### § 24 Aufhebung des Einheitswerts
 
@@ -779,6 +787,8 @@ Die Zurechnung mehrerer Wirtschaftsgüter zu einer wirtschaftlichen Einheit (§ 
 ### § 27 Wertverhältnisse bei Fortschreibungen und Nachfeststellungen
 
 Bei Fortschreibungen und bei Nachfeststellungen der Einheitswerte für Grundbesitz sind die Wertverhältnisse im Hauptfeststellungszeitpunkt zugrunde zu legen.
+
+§ 27: IVm Art. 2 Abs. 1 Satz 1, Satz 3 G v. 13.8.1965 I 851 idF d. Art. 2 G v. 22.7.1970 nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG (100-1) seit dem 1.1.2002 unvereinbar gem. Nr. 1 BVerfGE v. 10.4.2018 I 531 - 1 BvL 11/14 u.a. -; Gem. Nr. 2 ist der Gesetzgeber verpflichtet, eine Neuregelung spätestens bis zum 31. Dezember 2019 zu treffen. Bis zu diesem Zeitpunkt dürfen die als unvereinbar mit Art. 3 Abs. 1 GG festgestellten Regeln über die Einheitsbewertung weiter angewandt werden. Nach Verkündung einer Neuregelung dürfen die beanstandeten Regelungen für weitere fünf Jahre ab der Verkündung, längstens aber bis zum 31. Dezember 2024 angewandt werden.
 
 ### § 28 Erklärungspflicht
 
@@ -1511,6 +1521,7 @@ bei solchen Gruppen von Geschäftsgrundstücken und in solchen Einzelfällen beb
 3.  
 bei Grundstücken mit Behelfsbauten und bei Grundstücken mit Gebäuden in einer Bauart oder Bauausführung, für die ein Vervielfältiger (§ 80) in den Anlagen 3 bis 8 nicht bestimmt ist.
 
+§ 76: IVm Art. 2 Abs. 1 Satz 1, Satz 3 G v. 13.8.1965 I 851 idF d. Art. 2 G v. 22.7.1970 nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG (100-1) seit dem 1.1.2002 unvereinbar gem. Nr. 1 BVerfGE v. 10.4.2018 I 531 - 1 BvL 11/14 u.a. -; Gem. Nr. 2 ist der Gesetzgeber verpflichtet, eine Neuregelung spätestens bis zum 31. Dezember 2019 zu treffen. Bis zu diesem Zeitpunkt dürfen die als unvereinbar mit Art. 3 Abs. 1 GG festgestellten Regeln über die Einheitsbewertung weiter angewandt werden. Nach Verkündung einer Neuregelung dürfen die beanstandeten Regelungen für weitere fünf Jahre ab der Verkündung, längstens aber bis zum 31. Dezember 2024 angewandt werden.
 § 76 Abs. 1 u. Abs. 3 Nr. 1: Mit GG 100-1 vereinbar, soweit die im Sachwertverfahren zu ermittelnden Einheitswerte vom Einfamilienhäusern über dem Wertniveau der Einfamilienhäuser liegen, die im Ertragswertverfahren zu bewerten sind, BVerfGE v. 10.2.1987 I 646.
 
 ### § 77 Mindestwert
@@ -1555,6 +1566,8 @@ Die übliche Miete ist in Anlehnung an die Jahresrohmiete zu schätzen, die für
 (4) (weggefallen)
 
 (5) Bei Fortschreibungen und Nachfeststellungen gelten für die Höhe der Miete die Wertverhältnisse im Hauptfeststellungszeitpunkt.
+
+§ 79 Abs. 5: IVm Art. 2 Abs. 1 Satz 1, Satz 3 G v. 13.8.1965 I 851 idF d. Art. 2 G v. 22.7.1970 nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG (100-1) seit dem 1.1.2002 unvereinbar gem. Nr. 1 BVerfGE v. 10.4.2018 I 531 - 1 BvL 11/14 u.a. -; Gem. Nr. 2 ist der Gesetzgeber verpflichtet, eine Neuregelung spätestens bis zum 31. Dezember 2019 zu treffen. Bis zu diesem Zeitpunkt dürfen die als unvereinbar mit Art. 3 Abs. 1 GG festgestellten Regeln über die Einheitsbewertung weiter angewandt werden. Nach Verkündung einer Neuregelung dürfen die beanstandeten Regelungen für weitere fünf Jahre ab der Verkündung, längstens aber bis zum 31. Dezember 2024 angewandt werden.
 
 ### § 80 Vervielfältiger
 
@@ -1725,6 +1738,8 @@ Abweichend von den Nummern 1 und 2 ist in die wirtschaftliche Einheit des belast
 (2) Das zu mehr als achtzig Prozent Wohnzwecken dienende Wohnungseigentum ist im Wege des Ertragswertverfahrens nach den Vorschriften zu bewerten, die für Mietwohngrundstücke maßgebend sind. Wohnungseigentum, das zu nicht mehr als achtzig Prozent, aber zu nicht weniger als zwanzig Prozent Wohnzwecken dient, ist im Wege des Ertragswertverfahrens nach den Vorschriften zu bewerten, die für gemischtgenutzte Grundstücke maßgebend sind.
 
 (3) Entsprechen die im Grundbuch eingetragenen Miteigentumsanteile an dem gemeinschaftlichen Eigentum nicht dem Verhältnis der Jahresrohmiete zueinander, so kann dies bei der Feststellung des Wertes entsprechend berücksichtigt werden. Sind einzelne Räume, die im gemeinschaftlichen Eigentum stehen, vermietet, so ist ihr Wert nach den im Grundbuch eingetragenen Anteilen zu verteilen und bei den einzelnen wirtschaftlichen Einheiten zu erfassen.
+
+§ 93 Abs. 1 Satz 2: IVm Art. 2 Abs. 1 Satz 1, Satz 3 G v. 13.8.1965 I 851 idF d. Art. 2 G v. 22.7.1970 nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG (100-1) seit dem 1.1.2002 unvereinbar gem. Nr. 1 BVerfGE v. 10.4.2018 I 531 - 1 BvL 11/14 u.a. -; Gem. Nr. 2 ist der Gesetzgeber verpflichtet, eine Neuregelung spätestens bis zum 31. Dezember 2019 zu treffen. Bis zu diesem Zeitpunkt dürfen die als unvereinbar mit Art. 3 Abs. 1 GG festgestellten Regeln über die Einheitsbewertung weiter angewandt werden. Nach Verkündung einer Neuregelung dürfen die beanstandeten Regelungen für weitere fünf Jahre ab der Verkündung, längstens aber bis zum 31. Dezember 2024 angewandt werden.
 
 ### § 94 Gebäude auf fremdem Grund und Boden
 
