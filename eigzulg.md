@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 26.3.1997 I 734;
 
 Stand  
-zuletzt geändert durch Art. 22 G v. 19.12.2008 I 2794
+Zuletzt geändert durch Art. 8 G v. 18.7.2014 I 1042
 
 ### 
 
@@ -165,6 +165,8 @@ Stellt der Anspruchsberechtigte den Antrag nach Satz 1, finden die §§ 10e, 10h
 (7) § 5 Satz 1 bis 3, § 9 Abs. 2 Satz 1 und 2, § 9 Abs. 5 Satz 1 und § 17 Satz 1, 4 und 5 in der Fassung des Artikels 11 des Gesetzes vom 19. Dezember 2000 (BGBl. I S. 1790) und § 9 Abs. 3 Satz 1, § 9 Abs. 4 Satz 1 in der Fassung des Artikels 1 Nr. 2 des Gesetzes vom 19. Dezember 2000 (BGBl. I S. 1810) sind erstmals anzuwenden auf nach dem 31. Dezember 2001 fertig gestellte oder angeschaffte Wohnungen, fertig gestellte Ausbauten und Erweiterungen oder angeschaffte Genossenschaftsanteile.
 
 (8) Die §§ 2, 5 und 6 Abs. 3 sowie die §§ 7, 8, 9 und 11 in der Fassung des Artikels 6 des Gesetzes vom 29. Dezember 2003 (BGBl. I S. 3076) sind erstmals anzuwenden, wenn der Anspruchsberechtigte im Fall der Herstellung nach dem 31. Dezember 2003 mit der Herstellung des Objekts begonnen oder im Fall der Anschaffung die Wohnung nach dem 31. Dezember 2003 auf Grund eines nach diesem Zeitpunkt rechtswirksam abgeschlossenen obligatorischen Vertrags oder gleichstehenden Rechtsakts angeschafft hat. § 17 in der Fassung des Artikels 6 des Gesetzes vom 29. Dezember 2003 (BGBl. I S. 3076) ist erstmals anzuwenden, wenn der Anspruchsberechtigte nach dem 31. Dezember 2003 einer Genossenschaft beigetreten ist.
+
+(8a) Bei Lebenspartnern ist auf gemeinsamen Antrag die für das jeweilige Jahr geltende Fassung des Eigenheimzulagengesetzes mit der Maßgabe anzuwenden, dass die für Ehegatten geltenden Regelungen sinngemäß anzuwenden sind. Satz 1 ist in allen Fällen anzuwenden, in denen die Eigenheimzulage für die begünstigten Objekte entweder noch nicht bestandskräftig festgesetzt wurde oder eine Neufestsetzung nach § 11 Absatz 5 zulässig ist.
 
 (9) Dieses Gesetz ist letztmals anzuwenden, wenn der Anspruchsberechtigte im Fall der Herstellung vor dem 1. Januar 2006 mit der Herstellung des Objekts begonnen oder im Fall der Anschaffung die Wohnung auf Grund eines vor diesem Zeitpunkt rechtswirksam abgeschlossenen obligatorischen Vertrags oder gleichstehenden Rechtsakts angeschafft hat oder vor diesem Zeitpunkt einer Genossenschaft beigetreten ist.
 
