@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 21.9.1994 I 2494; 1997, 1061;
 
 Stand  
-zuletzt geändert durch Art. 2 G v. 27.7.2011 I 1600, 1942
+zuletzt geändert durch Art. 1 G v. 23.1.2013 I 101
 
 ### 
 
@@ -49,24 +49,27 @@ Erster Abschnitt Allgemeine Vorschriften
 
 ### 
 
-Art 3 Anwendungsbereich; Verhältnis zu Regelungen der Europäischen Gemeinschaft und zu völkerrechtlichen Vereinbarungen
------------------------------------------------------------------------------------------------------------------------
+Art 3 Anwendungsbereich; Verhältnis zu Regelungen der Europäischen Union und zu völkerrechtlichen Vereinbarungen
+----------------------------------------------------------------------------------------------------------------
 
 ### 
 
 Soweit nicht
 
 1.  
-unmittelbar anwendbare Regelungen der Europäischen Gemeinschaft in ihrer jeweils geltenden Fassung, insbesondere
+unmittelbar anwendbare Regelungen der Europäischen Union in ihrer jeweils geltenden Fassung, insbesondere
 
 a)  
 die Verordnung (EG) Nr. 864/2007 des Europäischen Parlaments und des Rates vom 11. Juli 2007 über das auf außervertragliche Schuldverhältnisse anzuwendende Recht (Rom II) (ABl. L 199 vom 31.7.2007, S. 40),
 
 b)  
-die Verordnung (EG) Nr. 593/2008 des Europäischen Parlaments und des Rates vom 17. Juni 2008 über das auf vertragliche Schuldverhältnisse anzuwendende Recht (Rom I) (ABl. L 177 vom 4.7.2008, S. 6) sowie
+die Verordnung (EG) Nr. 593/2008 des Europäischen Parlaments und des Rates vom 17. Juni 2008 über das auf vertragliche Schuldverhältnisse anzuwendende Recht (Rom I) (ABl. L 177 vom 4.7.2008, S. 6),
 
 c)  
-der Beschluss des Rates vom 30. November 2009 über den Abschluss des Haager Protokolls vom 23. November 2007 über das auf Unterhaltspflichten anzuwendende Recht durch die Europäische Gemeinschaft (ABl. L 331 vom 16.12.2009, S. 17) oder
+der Beschluss des Rates vom 30. November 2009 über den Abschluss des Haager Protokolls vom 23. November 2007 über das auf Unterhaltspflichten anzuwendende Recht durch die Europäische Gemeinschaft (ABl. L 331 vom 16.12.2009, S. 17) sowie
+
+d)  
+die Verordnung (EU) Nr. 1259/2010 des Rates vom 20. Dezember 2010 zur Durchführung einer Verstärkten Zusammenarbeit im Bereich des auf die Ehescheidung und Trennung ohne Auflösung des Ehebandes anzuwendenden Rechts (ABl. L 343 vom 29.12.2010, S. 10) oder
 
 2.  
 Regelungen in völkerrechtlichen Vereinbarungen, soweit sie unmittelbar anwendbares innerstaatliches Recht geworden sind,
@@ -277,24 +280,16 @@ Art 16 Schutz Dritter
 
 (2) Auf im Inland vorgenommene Rechtsgeschäfte ist § 1357, auf hier befindliche bewegliche Sachen § 1362, auf ein hier betriebenes Erwerbsgeschäft sind die §§ 1431 und 1456 des Bürgerlichen Gesetzbuchs sinngemäß anzuwenden, soweit diese Vorschriften für gutgläubige Dritte günstiger sind als das fremde Recht.
 
-Art 17 Scheidung
-----------------
+Art 17 Besondere Scheidungsfolgen; Entscheidung durch Gericht
+-------------------------------------------------------------
 
 ### 
 
-(1) Die Scheidung unterliegt dem Recht, das im Zeitpunkt des Eintritts der Rechtshängigkeit des Scheidungsantrags für die allgemeinen Wirkungen der Ehe maßgebend ist. Kann die Ehe hiernach nicht geschieden werden, so unterliegt die Scheidung dem deutschen Recht, wenn der die Scheidung begehrende Ehegatte in diesem Zeitpunkt Deutscher ist oder dies bei der Eheschließung war.
+(1) Vermögensrechtliche Scheidungsfolgen, die nicht von anderen Vorschriften dieses Abschnitts erfasst sind, unterliegen dem nach der Verordnung (EU) Nr. 1259/2010 auf die Scheidung anzuwendenden Recht.
 
 (2) Eine Ehe kann im Inland nur durch ein Gericht geschieden werden.
 
-(3) Der Versorgungsausgleich unterliegt dem nach Absatz 1 Satz 1 anzuwendenden Recht; er ist nur durchzuführen, wenn danach deutsches Recht anzuwenden ist und ihn das Recht eines der Staaten kennt, denen die Ehegatten im Zeitpunkt des Eintritts der Rechtshängigkeit des Scheidungsantrags angehören. Im Übrigen ist der Versorgungsausgleich auf Antrag eines Ehegatten nach deutschem Recht durchzuführen,
-
-1.  
-wenn der andere Ehegatte in der Ehezeit eine inländische Versorgungsanwartschaft erworben hat oder
-
-2.  
-wenn die allgemeinen Wirkungen der Ehe während eines Teils der Ehezeit einem Recht unterlagen, das den Versorgungsausgleich kennt,
-
-soweit seine Durchführung im Hinblick auf die beiderseitigen wirtschaftlichen Verhältnisse auch während der nicht im Inland verbrachten Zeit der Billigkeit nicht widerspricht.
+(3) Der Versorgungsausgleich unterliegt dem nach der Verordnung (EU) Nr. 1259/2010 auf die Scheidung anzuwendenden Recht; er ist nur durchzuführen, wenn danach deutsches Recht anzuwenden ist und ihn das Recht eines der Staaten kennt, denen die Ehegatten im Zeitpunkt des Eintritts der Rechtshängigkeit des Scheidungsantrags angehören. Im Übrigen ist der Versorgungsausgleich auf Antrag eines Ehegatten nach deutschem Recht durchzuführen, wenn einer der Ehegatten in der Ehezeit ein Anrecht bei einem inländischen Versorgungsträger erworben hat, soweit die Durchführung des Versorgungsausgleichs insbesondere im Hinblick auf die beiderseitigen wirtschaftlichen Verhältnisse während der gesamten Ehezeit der Billigkeit nicht widerspricht.
 
 Art 17a Ehewohnung und Haushaltsgegenstände
 -------------------------------------------
@@ -308,7 +303,7 @@ Art 17b Eingetragene Lebenspartnerschaft
 
 ### 
 
-(1) Die Begründung, die allgemeinen und die güterrechtlichen Wirkungen sowie die Auflösung einer eingetragenen Lebenspartnerschaft unterliegen den Sachvorschriften des Register führenden Staates. Auf die erbrechtlichen Folgen der Lebenspartnerschaft ist das nach den allgemeinen Vorschriften maßgebende Recht anzuwenden; begründet die Lebenspartnerschaft danach kein gesetzliches Erbrecht, so findet insoweit Satz 1 entsprechende Anwendung. Der Versorgungsausgleich unterliegt dem nach Satz 1 anzuwendenden Recht; er ist nur durchzuführen, wenn danach deutsches Recht anzuwenden ist und das Recht eines der Staaten, denen die Lebenspartner im Zeitpunkt der Rechtshängigkeit des Antrags auf Aufhebung der Lebenspartnerschaft angehören, einen Versorgungsausgleich zwischen Lebenspartnern kennt. Im Übrigen ist der Versorgungsausgleich auf Antrag eines Lebenspartners nach deutschem Recht durchzuführen, wenn der andere Lebenspartner während der Lebenspartnerschaftszeit eine inländische Versorgungsanwartschaft erworben hat, soweit die Durchführung des Versorgungsausgleichs im Hinblick auf die beiderseitigen wirtschaftlichen Verhältnisse auch während der nicht im Inland verbrachten Zeit der Billigkeit nicht widerspricht.
+(1) Die Begründung, die allgemeinen und die güterrechtlichen Wirkungen sowie die Auflösung einer eingetragenen Lebenspartnerschaft unterliegen den Sachvorschriften des Register führenden Staates. Auf die erbrechtlichen Folgen der Lebenspartnerschaft ist das nach den allgemeinen Vorschriften maßgebende Recht anzuwenden; begründet die Lebenspartnerschaft danach kein gesetzliches Erbrecht, so findet insoweit Satz 1 entsprechende Anwendung. Der Versorgungsausgleich unterliegt dem nach Satz 1 anzuwendenden Recht; er ist nur durchzuführen, wenn danach deutsches Recht anzuwenden ist und das Recht eines der Staaten, denen die Lebenspartner im Zeitpunkt der Rechtshängigkeit des Antrags auf Aufhebung der Lebenspartnerschaft angehören, einen Versorgungsausgleich zwischen Lebenspartnern kennt. Im Übrigen ist der Versorgungsausgleich auf Antrag eines Lebenspartners nach deutschem Recht durchzuführen, wenn einer der Lebenspartner während der Zeit der Lebenspartnerschaft ein Anrecht bei einem inländischen Versorgungsträger erworben hat, soweit die Durchführung des Versorgungsausgleichs insbesondere im Hinblick auf die beiderseitigen wirtschaftlichen Verhältnisse während der gesamten Zeit der Lebenspartnerschaft der Billigkeit nicht widerspricht.
 
 (2) Artikel 10 Abs. 2 und Artikel 17a gelten entsprechend. Unterliegen die allgemeinen Wirkungen der Lebenspartnerschaft dem Recht eines anderen Staates, so ist auf im Inland befindliche bewegliche Sachen § 8 Abs. 1 des Lebenspartnerschaftsgesetzes und auf im Inland vorgenommene Rechtsgeschäfte § 8 Abs. 2 des Lebenspartnerschaftsgesetzes in Verbindung mit § 1357 des Bürgerlichen Gesetzbuchs anzuwenden, soweit diese Vorschriften für gutgläubige Dritte günstiger sind als das fremde Recht.
 
@@ -541,8 +536,8 @@ Art 46 Wesentlich engere Verbindung
 
 Besteht mit dem Recht eines Staates eine wesentlich engere Verbindung als mit dem Recht, das nach den Artikeln 43 und 45 maßgebend wäre, so ist jenes Recht anzuwenden.
 
-Siebter Abschnitt Besondere Vorschriften zur Durchführung von Regelungen der Europäischen Gemeinschaft nach Artikel 3 Nr. 1
----------------------------------------------------------------------------------------------------------------------------
+Siebter Abschnitt Besondere Vorschriften zur Durchführung von Regelungen der Europäischen Union nach Artikel 3 Nr. 1
+--------------------------------------------------------------------------------------------------------------------
 
 ### 
 
@@ -614,8 +609,22 @@ Art 46c Pflichtversicherungsverträge
 
 (2) Ein über eine Pflichtversicherung abgeschlossener Vertrag unterliegt deutschem Recht, wenn die gesetzliche Verpflichtung zu seinem Abschluss auf deutschem Recht beruht.
 
-Drittes Kapitel Angleichung
----------------------------
+Art 46d Rechtswahl
+------------------
+
+### 
+
+(1) Eine Rechtswahlvereinbarung nach Artikel 5 der Verordnung (EU) Nr. 1259/2010 ist notariell zu beurkunden.
+
+(2) Die Ehegatten können die Rechtswahl nach Absatz 1 auch noch bis zum Schluss der mündlichen Verhandlung im ersten Rechtszug vornehmen. § 127a des Bürgerlichen Gesetzbuchs gilt entsprechend.
+
+Dritter Unterabschnitt Durchführung der Verordnung (EU) Nr. 1259/2010
+---------------------------------------------------------------------
+
+### 
+
+Drittes Kapitel Angleichung; Wahl eines in einem anderen Mitgliedstaat der Europäischen Union erworbenen Namens
+---------------------------------------------------------------------------------------------------------------
 
 ### 
 
@@ -649,8 +658,15 @@ Ist der Name Ehename, so kann die Erklärung während des Bestehens der Ehe nur 
 
 (4) Die Erklärungen nach den Absätzen 1 und 2 müssen öffentlich beglaubigt oder beurkundet werden.
 
-Art 48 und 49 (Änderung anderer Vorschriften)
----------------------------------------------
+Art 48 Wahl eines in einem anderen Mitgliedstaat der Europäischen Union erworbenen Namens
+-----------------------------------------------------------------------------------------
+
+### 
+
+Unterliegt der Name einer Person deutschem Recht, so kann sie durch Erklärung gegenüber dem Standesamt den während eines gewöhnlichen Aufenthalts in einem anderen Mitgliedstaat der Europäischen Union erworbenen und dort in ein Personenstandsregister eingetragenen Namen wählen, sofern dies nicht mit wesentlichen Grundsätzen des deutschen Rechts offensichtlich unvereinbar ist. Die Namenswahl wirkt zurück auf den Zeitpunkt der Eintragung in das Personenstandsregister des anderen Mitgliedstaats, es sei denn, die Person erklärt ausdrücklich, dass die Namenswahl nur für die Zukunft wirken soll. Die Erklärung muss öffentlich beglaubigt oder beurkundet werden. Artikel 47 Absatz 1 und 3 gilt entsprechend.
+
+Art 49 (Änderung anderer Vorschriften)
+--------------------------------------
 
 ### 
 
@@ -2469,6 +2485,15 @@ Art 229
 ### § 27 Übergangsvorschrift zum Gesetz zur Anpassung der Vorschriften über den Wertersatz bei Widerruf von Fernabsatzverträgen und über verbundene Verträge vom 27. Juli 2011
 
 Sowohl Artikel 246 § 2 Absatz 3 Satz 1 als auch § 360 Absatz 3 des Bürgerlichen Gesetzbuchs sind bis zum Ablauf des 4. November 2011 auch im Fall der Übermittlung der Widerrufs- und der Rückgabebelehrungen nach den Mustern gemäß den Anlagen 1 und 2 in der Fassung des Gesetzes zur Umsetzung der Verbraucherkreditrichtlinie, des zivilrechtlichen Teils der Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften über das Widerrufs- und Rückgaberecht vom 29. Juni 2009 (BGBl. I S. 2355) anzuwenden.
+
+Art 229
+-------
+
+### § 28 Übergangsvorschrift zum Gesetz zur Anpassung der Vorschriften des Internationalen Privatrechts an die Verordnung (EU) Nr. 1259/2010 und zur Änderung anderer Vorschriften des Internationalen Privatrechts vom 23. Januar 2013
+
+(1) Artikel 17 Absatz 1 in der am 29. Januar 2013 geltenden Fassung ist anzuwenden, wenn das Verfahren auf Ehescheidung nach dem 28. Januar 2013 eingeleitet worden ist.
+
+(2) Artikel 17 Absatz 3 und Artikel 17b Absatz 1 Satz 4 in der am 28. Januar 2013 geltenden Fassung sind weiter anzuwenden, wenn das Verfahren auf Ehescheidung oder Aufhebung der Lebenspartnerschaft vor dem 29. Januar 2013 eingeleitet worden ist.
 
 Sechster Teil Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -4726,7 +4751,7 @@ Dem Kreditgeber steht bei vorzeitiger Rückzahlung eine Entschädigung zu</td>
 </tr>
 <tr class="odd">
 <td>Datenbankabfrage<br />
-Der Kreditgeber muss Sie unverzüglich und unentgeltlich über das Ergebnis einer Datenbankabfrage unterrichten, wenn ein Kreditantrag aufgrund einer solchen Abfrage abgelehnt wird. Dies gilt nicht, wenn eine entsprechende Unterrichtung durch die Rechtsvorschriften der Europäischen Gemeinschaft untersagt ist oder den Zielen der öffentlichen Ordnung oder Sicherheit zuwiderläuft.</td>
+Der Kreditgeber muss Sie unverzüglich und unentgeltlich über das Ergebnis einer Datenbankabfrage unterrichten, wenn ein Kreditantrag aufgrund einer solchen Abfrage abgelehnt wird. Dies gilt nicht, wenn eine entsprechende Unterrichtung durch die Rechtsvorschriften der Europäischen Union untersagt ist oder den Zielen der öffentlichen Ordnung oder Sicherheit zuwiderläuft.</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -4930,7 +4955,7 @@ Andere wichtige rechtliche Aspekte
 </tr>
 <tr class="even">
 <td>Datenbankabfrage<br />
-Der Kreditgeber muss Sie unverzüglich und unentgeltlich über das Ergebnis einer Datenbankabfrage unterrichten, wenn ein Kreditantrag aufgrund einer solchen Abfrage abgelehnt wird. Dies gilt nicht, wenn eine entsprechende Unterrichtung durch die Rechtsvorschriften der Europäischen Gemeinschaft untersagt ist oder den Zielen der öffentlichen Ordnung oder Sicherheit zuwiderläuft.</td>
+Der Kreditgeber muss Sie unverzüglich und unentgeltlich über das Ergebnis einer Datenbankabfrage unterrichten, wenn ein Kreditantrag aufgrund einer solchen Abfrage abgelehnt wird. Dies gilt nicht, wenn eine entsprechende Unterrichtung durch die Rechtsvorschriften der Europäischen Union untersagt ist oder den Zielen der öffentlichen Ordnung oder Sicherheit zuwiderläuft.</td>
 <td></td>
 </tr>
 <tr class="odd">
