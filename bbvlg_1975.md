@@ -1,14 +1,19 @@
-Gesetz über vermögenswirksame Leistungen für Beamte, Richter, Berufssoldaten und Soldaten auf Zeit - Art. VI Nr. 1 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern (2. BesVNG) - ()
-=======================================================================================================================================================================================================================================
+Gesetz über vermögenswirksame Leistungen für Beamte, Richter, Berufssoldaten und Soldaten auf Zeit ()
+=====================================================================================================
 
 Neuf  
-Neugefasst durch Bek. v. 16.5.2002 I 1778
+Neugefasst durch Bek. v. 16.5.2002 I 1778;
+
+Stand  
+zuletzt geändert durch Art. 39 G v. 29.3.2017 I 626
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 1.3.1980 +++)
 ```
+
+Das G wurde als Artikel VI Nr. 1 des G v. 23.5.1975 I 1173 erlassen.
 
 ### § 1
 
@@ -49,7 +54,7 @@ Berufssoldaten und Soldaten auf Zeit mit Anspruch auf Besoldung oder Ausbildungs
 
 ### § 4
 
-(1) Der Berechtigte teilt seiner Dienststelle oder der nach Landesrecht bestimmten Stelle schriftlich die Art der gewählten Anlage mit und gibt hierbei, soweit dies nach der Art der Anlage erforderlich ist, das Unternehmen oder Institut mit der Nummer des Kontos an, auf das die Leistung eingezahlt werden soll.
+(1) Der Berechtigte teilt seiner Dienststelle oder der nach Landesrecht bestimmten Stelle schriftlich oder elektronisch die Art der gewählten Anlage mit und gibt hierbei, soweit dies nach der Art der Anlage erforderlich ist, das Unternehmen oder Institut mit der Nummer des Kontos an, auf das die Leistung eingezahlt werden soll.
 
 (2) Für die vermögenswirksamen Leistungen nach diesem Gesetz und die vermögenswirksame Anlage von Teilen der Bezüge nach dem Fünften Vermögensbildungsgesetz soll der Berechtigte möglichst dieselbe Anlageart und dasselbe Unternehmen oder Institut wählen.
 
