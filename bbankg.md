@@ -5,12 +5,13 @@ Neuf
 Neugefasst durch Bek. v. 22.10.1992 I 1782;
 
 Stand  
-zuletzt geändert durch Art. 9 G v. 22.12.2011 I 2959
+zuletzt geändert durch Art. 23 G v. 4.7.2013 I 1981
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 1.5.1986 +++)
+(+++ zur Anwendung d. § 18 vgl. § 54 Abs. 4 Satz 2 u. § 51 Abs. 4 Satz 2 KAGB +++)
 ```
 
 Erster Abschnitt Rechtsform und Aufgabe
@@ -146,7 +147,9 @@ Vierter Abschnitt Währungspolitische Befugnisse
 
 ### § 18 Statistische Erhebungen
 
-Die Deutsche Bundesbank ist berechtigt, zur Erfüllung ihrer Aufgabe Statistiken auf dem Gebiet des Bank- und Geldwesens bei allen Kreditinstituten, Kapitalanlagegesellschaften und Investmentaktiengesellschaften anzuordnen und durchzuführen. §§ 9, 15 und 16 des Bundesstatistikgesetzes sind entsprechend anzuwenden. Die Deutsche Bundesbank kann die Ergebnisse der Statistiken für allgemeine Zwecke veröffentlichen. Die Veröffentlichungen dürfen keine Einzelangaben enthalten. Den nach § 13 Abs. 1 Auskunftsberechtigten dürfen Einzelangaben nur mitgeteilt werden, wenn und soweit es in der Anordnung über die Statistik vorgesehen ist.
+Die Deutsche Bundesbank ist berechtigt, zur Erfüllung ihrer Aufgabe Statistiken auf dem Gebiet des Bank- und Geldwesens bei allen Kreditinstituten, Kapitalverwaltungsgesellschaften und extern verwalteten Investmentgesellschaften anzuordnen und durchzuführen. §§ 9, 15 und 16 des Bundesstatistikgesetzes sind entsprechend anzuwenden. Die Deutsche Bundesbank kann die Ergebnisse der Statistiken für allgemeine Zwecke veröffentlichen. Die Veröffentlichungen dürfen keine Einzelangaben enthalten. Den nach § 13 Abs. 1 Auskunftsberechtigten dürfen Einzelangaben nur mitgeteilt werden, wenn und soweit es in der Anordnung über die Statistik vorgesehen ist.
+
+(+++ § 18: Zur Anwendung vgl. § 51 Abs. 4 Satz 2 u. § 54 Abs. 4 Satz 2 KAGB +++)
 
 Fünfter Abschnitt Geschäftskreis
 --------------------------------
