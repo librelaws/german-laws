@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 26.2.1997 I 418, 1804;
 
 Stand  
-zuletzt geändert durch Art. 26 G v. 26.6.2013 I 1809
+zuletzt geändert durch Art. 14 G v. 25.7.2014 I 1266
 
 ### 
 
@@ -202,7 +202,7 @@ der Erwerb eines Grundstücks von einer juristischen Person des öffentlichen Re
 
 ### § 6a Steuervergünstigung bei Umstrukturierungen im Konzern
 
-Für einen nach § 1 Absatz 1 Nummer 3 Satz 1, Absatz 2, 2a, 3 oder Absatz 3a steuerbaren Rechtsvorgang aufgrund einer Umwandlung im Sinne des § 1 Absatz 1 Nummer 1 bis 3 des Umwandlungsgesetzes, bei Einbringungen sowie bei anderen Erwerbsvorgängen auf gesellschaftsvertraglicher Grundlage wird die Steuer nicht erhoben. Satz 1 gilt auch für entsprechende Umwandlungen aufgrund des Rechts eines Mitgliedstaats der Europäischen Union oder eines Staats, auf den das Abkommen über den Europäischen Wirtschaftsraum Anwendung findet. Satz 1 gilt nur, wenn an dem Umwandlungsvorgang ausschließlich ein herrschendes Unternehmen und ein oder mehrere von diesem herrschenden Unternehmen abhängige Gesellschaften oder mehrere von einem herrschenden Unternehmen abhängige Gesellschaften beteiligt sind. Im Sinne von Satz 3 abhängig ist eine Gesellschaft, an deren Kapital oder Gesellschaftsvermögen das herrschende Unternehmen innerhalb von fünf Jahren vor dem Rechtsvorgang und fünf Jahren nach dem Rechtsvorgang unmittelbar oder mittelbar oder teils unmittelbar, teils mittelbar zu mindestens 95 vom Hundert ununterbrochen beteiligt ist.
+Für einen nach § 1 Absatz 1 Nummer 3 Satz 1, Absatz 2, 2a, 3 oder Absatz 3a steuerbaren Rechtsvorgang auf Grund einer Umwandlung im Sinne des § 1 Absatz 1 Nummer 1 bis 3 des Umwandlungsgesetzes, einer Einbringung oder eines anderen Erwerbsvorgangs auf gesellschaftsvertraglicher Grundlage wird die Steuer nicht erhoben. Satz 1 gilt auch für entsprechende Umwandlungen, Einbringungen sowie andere Erwerbsvorgänge auf gesellschaftsvertraglicher Grundlage auf Grund des Rechts eines Mitgliedstaates der Europäischen Union oder eines Staats, auf den das Abkommen über den Europäischen Wirtschaftsraum Anwendung findet. Satz 1 gilt nur, wenn an dem dort genannten Rechtsvorgang ausschließlich ein herrschendes Unternehmen und ein oder mehrere von diesem herrschenden Unternehmen abhängige Gesellschaften oder mehrere von einem herrschenden Unternehmen abhängige Gesellschaften beteiligt sind. Im Sinne von Satz 3 abhängig ist eine Gesellschaft, an deren Kapital oder Gesellschaftsvermögen das herrschende Unternehmen innerhalb von fünf Jahren vor dem Rechtsvorgang und fünf Jahren nach dem Rechtsvorgang unmittelbar oder mittelbar oder teils unmittelbar, teils mittelbar zu mindestens 95 vom Hundert ununterbrochen beteiligt ist.
 
 (+++ § 6a: Zur Anwendung vgl. § 23 Abs. 8, 10, 11 +++)
 
@@ -390,7 +390,7 @@ wenn die Herabsetzung (Minderung) auf Grund des § 437 des Bürgerlichen Gesetzb
 
 (4) Tritt ein Ereignis ein, das nach den Absätzen 1 bis 3 die Aufhebung oder Änderung einer Steuerfestsetzung begründet, endet die Festsetzungsfrist (§§ 169 bis 171 der Abgabenordnung) insoweit nicht vor Ablauf eines Jahres nach dem Eintritt des Ereignisses.
 
-(5) Die Vorschriften der Absätze 1 bis 4 gelten nicht, wenn einer der in § 1 Absatz 2, 2a, 3 und 3a bezeichneten Erwerbsvorgänge rückgängig gemacht wird, der nicht ordnungsmäßig angezeigt (§§ 18, 19) war.
+(5) Die Vorschriften der Absätze 1 bis 4 gelten nicht, wenn einer der in § 1 Absatz 2 bis 3a bezeichneten Erwerbsvorgänge rückgängig gemacht wird, der nicht fristgerecht und in allen Teilen vollständig angezeigt (§§ 18 bis 20) war.
 
 (+++ § 16: Zur Anwendung vgl. § 23 Abs. 3, 6, 7, 11 +++)
 
@@ -556,7 +556,7 @@ bei mehreren beteiligten Rechtsträgern eine Beteiligungsübersicht.
 
 ### § 21 Urkundenaushändigung
 
-Die Gerichte, Behörden und Notare dürfen Urkunden, die einen anzeigepflichtigen Vorgang betreffen, den Beteiligten erst aushändigen und Ausfertigungen oder beglaubigte Abschriften den Beteiligten erst erteilen, wenn sie die Anzeige an das Finanzamt abgesandt haben.
+Die Gerichte, Behörden und Notare dürfen Urkunden, die einen anzeigepflichtigen Vorgang betreffen, den Beteiligten erst aushändigen und Ausfertigungen oder beglaubigte Abschriften den Beteiligten erst erteilen, wenn sie die Anzeigen an das Finanzamt abgesandt haben.
 
 ### § 22 Unbedenklichkeitsbescheinigung
 
@@ -601,6 +601,8 @@ Neunter Abschnitt Übergangs- und Schlußvorschriften
 (10) § 6a Satz 4 in der Fassung des Artikels 12 des Gesetzes vom 22. Juni 2011 (BGBl. I S. 1126) ist erstmals auf Erwerbsvorgänge anzuwenden, die nach dem 31. Dezember 2009 verwirklicht werden.
 
 (11) § 1 Absatz 3a und 6 Satz 1, § 4 Nummer 4 und 5, § 6a Satz 1, § 8 Absatz 2 Satz 1 Nummer 3, § 13 Nummer 7, § 16 Absatz 5, § 17 Absatz 3 Satz 1 Nummer 2, § 19 Absatz 1 Satz 1 Nummer 7a und Absatz 2 Nummer 5, § 20 Absatz 2 Nummer 3 in der Fassung des Artikels 26 des Gesetzes vom 26. Juni 2013 (BGBl. I S. 1809) sind erstmals auf Erwerbsvorgänge anzuwenden, die nach dem 6. Juni 2013 verwirklicht werden.
+
+(12) § 6a Satz 1 bis 3 sowie § 16 Absatz 5 in der am 31. Juli 2014 geltenden Fassung sind auf Erwerbsvorgänge anzuwenden, die nach dem 6. Juni 2013 verwirklicht werden.
 
 ### (XXXX) §§ 24 bis 27 (weggefallen)
 
