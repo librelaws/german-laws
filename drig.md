@@ -2,10 +2,10 @@ Deutsches Richtergesetz ()
 ==========================
 
 Neuf  
-Neugefasst durch Bek. v. 19.4.1972 I 713
+Neugefasst durch Bek. v. 19.4.1972 I 713;
 
 Stand  
-Zuletzt geändert durch Art. 132 V v. 31.8.2015 I 1474
+zuletzt geändert durch Art. 9 G v. 8.6.2017 I 1570
 
 ### 
 
@@ -229,7 +229,7 @@ Ein Richter auf Probe kann ohne seine Zustimmung nur bei einem Gericht, bei eine
 
 (1) Ein Beamter auf Lebenszeit oder auf Zeit kann zum Richter kraft Auftrags ernannt werden, wenn er später als Richter auf Lebenszeit verwendet werden soll.
 
-(2) ...
+(2) (weggefallen)
 
 ### § 15 Wirkungen auf das Beamtenverhältnis
 
@@ -275,7 +275,8 @@ Legt ein Richter sein Mandat nieder und bewirbt er sich zu diesem Zeitpunkt erne
 1.  
 nicht Deutscher im Sinne des Artikels 116 des Grundgesetzes war oder
 
-2.
+2.  
+(weggefallen)
 
 3.  
 nicht die Fähigkeit zur Bekleidung öffentlicher Ämter hatte.
@@ -578,7 +579,7 @@ Sechster Abschnitt Ehrenamtliche Richter
 
 (1) Der ehrenamtliche Richter ist in gleichem Maße wie ein Berufsrichter unabhängig. Er hat das Beratungsgeheimnis zu wahren (§ 43).
 
-(1a) Niemand darf in der Übernahme oder Ausübung des Amtes als ehrenamtlicher Richter beschränkt oder wegen der Übernahme der Ausübung des Amtes benachteiligt werden. Ehrenamtliche Richter sind für die Zeit ihrer Amtstätigkeit von ihrem Arbeitgeber von der Arbeitsleistung freizustellen. Die Kündigung eines Arbeitsverhältnisses wegen der Übernahme oder der Ausübung des Amtes ist unzulässig. Weitergehende landesrechtliche Regelungen bleiben unberührt.
+(1a) Niemand darf in der Übernahme oder Ausübung des Amtes als ehrenamtlicher Richter beschränkt oder wegen der Übernahme oder Ausübung des Amtes benachteiligt werden. Ehrenamtliche Richter sind für die Zeit ihrer Amtstätigkeit von ihrem Arbeitgeber von der Arbeitsleistung freizustellen. Die Kündigung eines Arbeitsverhältnisses wegen der Übernahme oder der Ausübung des Amtes ist unzulässig. Weitergehende landesrechtliche Regelungen bleiben unberührt.
 
 (2) Der ehrenamtliche Richter ist vor seiner ersten Dienstleistung in öffentlicher Sitzung des Gerichts durch den Vorsitzenden zu vereidigen. Die Vereidigung gilt für die Dauer des Amtes, bei erneuter Bestellung auch für die sich unmittelbar anschließende Amtszeit. Der Schwörende soll bei der Eidesleistung die rechte Hand erheben.
 
@@ -933,7 +934,7 @@ Juni–Dezember
 
 (5) Richter auf Lebenszeit sind auf ihren Antrag in den Ruhestand zu versetzen, wenn sie das 63. Lebensjahr vollendet haben.
 
-(6) § 147 Abs. 3 des Bundesbeamtengesetzes gilt entsprechend.
+(6) § 147 Absatz 2 des Bundesbeamtengesetzes gilt entsprechend.
 
 ### § 48a Teilzeitbeschäftigung und Beurlaubung aus familiären Gründen
 
