@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 29.9.1976 I 2849;
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 29.5.2013 I 1386
+zuletzt geändert durch Art. 422 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -255,7 +255,7 @@ IV. Abschnitt Jagdschein
 
 (1) Wer die Jagd ausübt, muß einen auf seinen Namen lautenden Jagdschein mit sich führen und diesen auf Verlangen den Polizeibeamten sowie den Jagdschutzberechtigten (§ 25) vorzeigen. Zum Sammeln von Abwurfstangen bedarf es nur der schriftlichen Erlaubnis des Jagdausübungsberechtigten. Wer die Jagd mit Greifen oder Falken (Beizjagd) ausüben will, muß einen auf seinen Namen lautenden Falknerjagdschein mit sich führen.
 
-(2) Der Jagdschein wird von der für den Wohnsitz des Bewerbers zuständigen Behörde als Jahresjagdschein für höchstens drei Jagdjahre (§ 11 Abs. 4) oder als Tagesjagdschein für vierzehn aufeinanderfolgende Tage nach einheitlichen, vom Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz (Bundesministerium) bestimmten Mustern erteilt.
+(2) Der Jagdschein wird von der für den Wohnsitz des Bewerbers zuständigen Behörde als Jahresjagdschein für höchstens drei Jagdjahre (§ 11 Abs. 4) oder als Tagesjagdschein für vierzehn aufeinanderfolgende Tage nach einheitlichen, vom Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) bestimmten Mustern erteilt.
 
 (3) Der Jagdschein gilt im gesamten Bundesgebiet.
 
@@ -475,6 +475,7 @@ Verboten ist, Wild, insbesondere soweit es in seinem Bestand gefährdet oder bed
 
 (4) In den Setz- und Brutzeiten dürfen bis zum Selbständigwerden der Jungtiere die für die Aufzucht notwendigen Elterntiere, auch die von Wild ohne Schonzeit, nicht bejagt werden. Die Länder können für Schwarzwild, Wildkaninchen, Fuchs, Ringel- und Türkentaube, Silber- und Lachmöwe sowie für nach Landesrecht dem Jagdrecht unterliegende Tierarten aus den in Absatz 2 Satz 2 und Absatz 3 genannten Gründen Ausnahmen bestimmen. Die nach Landesrecht zuständige Behörde kann im Einzelfall das Aushorsten von Nestlingen und Ästlingen der Habichte für Beizzwecke aus den in Artikel 9 Absatz 1 Buchstabe c der Richtlinie 2009/147/EG genannten Gründen und nach den in Artikel 9 Absatz 2 der Richtlinie 2009/147/EG genannten Maßgaben genehmigen. Das Ausnehmen der Gelege von Federwild ist verboten. Die Länder können zulassen, daß Gelege in Einzelfällen zu wissenschaftlichen, Lehr- und Forschungszwecken oder für Zwecke der Aufzucht ausgenommen werden. Die Länder können ferner das Sammeln der Eier von Ringel- und Türkentauben sowie von Silber- und Lachmöwen aus den in Artikel 9 Absatz 1 der Richtlinie 2009/147/EG genannten Gründen und nach den in Artikel 9 Absatz 2 der Richtlinie 2009/147/EG genannten Maßgaben erlauben.
 
+§ 22 Abs. 1 idF d. Bek. v. 29.9.1976 I 2849: Nordrhein-Westfalen - Abweichung durch § 1 der Landesjagdzeitenverordnung für Nordrhein-Westfalen (JagdzeitV NW 2015)v. 28.5.2015 GV. NRW S 468 mWv 29.5.2015 (vgl. BGBl. I 2015, 1040)
 § 22 Abs. 1 Satz 1 idF d. Bek. v. 29.9.1976 I 2849: Sachsen-Anhalt - Abweichung durch § 27 Abs. 1 Nr. 4 des Landesjagdgesetzes für Sachsen-Anhalt (LJagdG)v. 23.7.1991 GVBl. LSA S 186, zuletzt geändert durch Art. 1 des G v. 18.1.2011 GVBl. LSA S. 6 mWv 1.2.2011 (vgl. BGBl. I 2011, 1943)
 
 ### § 22a Verhinderung von vermeidbaren Schmerzen oder Leiden des Wildes
@@ -645,7 +646,7 @@ das Aufnehmen, die Pflege und die Aufzucht verletzten oder kranken Wildes und de
 
 (3) Die Vorschriften nach Absatz 1 Nr. 2 und 3 und Absatz 2 Nr. 2 können sich auch auf Eier oder sonstige Entwicklungsformen des Wildes, auf totes Wild, auf Teile des Wildes sowie auf die Nester und die aus Wild gewonnenen Erzeugnisse erstrecken.
 
-(4) Rechtsverordnungen nach Absatz 1 Nr. 1 bedürfen des Einvernehmens mit dem Bundesministerium für Wirtschaft und Technologie; Rechtsverordnungen nach Absatz 1 Nr. 3 bedürfen des Einvernehmens mit dem Bundesministerium der Finanzen. Rechtsverordnungen nach Absatz 1 Nr. 2 bis 5 bedürfen, soweit sie Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union auf dem Gebiet des Artenschutzes oder Verpflichtungen aus internationalen Artenschutzübereinkommen zu beachten haben, des Einvernehmens mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit.
+(4) Rechtsverordnungen nach Absatz 1 Nr. 1 bedürfen des Einvernehmens mit dem Bundesministerium für Wirtschaft und Energie; Rechtsverordnungen nach Absatz 1 Nr. 3 bedürfen des Einvernehmens mit dem Bundesministerium der Finanzen. Rechtsverordnungen nach Absatz 1 Nr. 2 bis 5 bedürfen, soweit sie Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union auf dem Gebiet des Artenschutzes oder Verpflichtungen aus internationalen Artenschutzübereinkommen zu beachten haben, des Einvernehmens mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit.
 
 (5) Das Bundesministerium der Finanzen und die von ihm bestimmten Zollstellen wirken bei der Ein-, Durch- und Ausfuhr sowie bei dem sonstigen Verbringen von Wild mit. Das Bundesministerium der Finanzen regelt im Einvernehmen mit dem Bundesministerium durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des Verfahrens nach Satz 1; er kann dabei insbesondere Pflichten zu Anzeigen, Anmeldungen, Auskünften und zur Leistung von Hilfsdiensten sowie zur Duldung von Besichtigungen und von Entnahmen unentgeltlicher Muster und Proben vorsehen. Das Bundesministerium gibt im Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger die Zollstellen bekannt, bei denen Wild zur Ein-, Durch- und Ausfuhr sowie zum sonstigen Verbringen abgefertigt wird, wenn die Ein-, Durch- und Ausfuhr sowie das sonstige Verbringen durch Rechtsverordnung nach Absatz 1 Nr. 3 geregelt ist.
 
