@@ -7,6 +7,9 @@ Neugefasst durch Bek. v. 11.1.1995 I 34;
 Stand  
 zuletzt geändert durch Art. 199 V v. 31.8.2015 I 1474
 
+Hinweis  
+Änderung durch Art. 12 G v. 30.6.2016 I 1514 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
