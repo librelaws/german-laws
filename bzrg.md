@@ -5,7 +5,10 @@ Neuf
 Neugefasst durch Bek. v. 21.9.1984 I 1229, 1985 I 195
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 20.11.2015 I 2017
+Zuletzt geändert durch Art. 5 G v. 23.6.2017 I 1822
+
+Hinweis  
+Änderung durch Art. 1 G v. 18.7.2017 I 2732 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -20,9 +23,9 @@ Erster Teil Registerbehörde
 
 ### § 1 Bundeszentralregister
 
-(1) Für den Geltungsbereich dieses Gesetzes führt das Bundesamt für Justiz ein Zentralregister und ein Erziehungsregister.
+(1) Für den Geltungsbereich dieses Gesetzes führt das Bundesamt für Justiz ein Zentralregister und ein Erziehungsregister (Bundeszentralregister).
 
-(2) Die näheren Bestimmungen trifft das Bundesministerium der Justiz. Soweit die Bestimmungen die Erfassung und Aufbereitung der Daten sowie die Auskunftserteilung betreffen, werden sie von der Bundesregierung mit Zustimmung des Bundesrates erlassen.
+(2) Die näheren Bestimmungen trifft das Bundesministerium der Justiz und für Verbraucherschutz. Soweit die Bestimmungen die Erfassung und Aufbereitung der Daten sowie die Auskunftserteilung betreffen, werden sie von der Bundesregierung mit Zustimmung des Bundesrates erlassen.
 
 ### § 2 (weggefallen)
 
@@ -45,13 +48,14 @@ In das Register werden eingetragen
 1.  
 strafgerichtliche Verurteilungen (§§ 4 bis 8),
 
-2.
+2.  
+(weggefallen)
 
 3.  
 Entscheidungen von Verwaltungsbehörden und Gerichten (§ 10),
 
 4.  
-Vermerke über Schuldunfähigkeit (§ 11),
+gerichtliche Entscheidungen und Verfügungen von Strafverfolgungsbehörden wegen Schuldunfähigkeit (§ 11),
 
 5.  
 gerichtliche Feststellungen nach § 17 Abs. 2, § 18,
@@ -110,11 +114,11 @@ die verhängten Strafen, die nach § 59 des Strafgesetzbuchs vorbehaltene Strafe
 
 Wird aus mehreren Einzelstrafen nachträglich eine Gesamtstrafe gebildet oder eine einheitliche Jugendstrafe festgesetzt, so ist auch diese in das Register einzutragen.
 
-### § 7 Aussetzung zur Bewährung
+### § 7 Aussetzung zur Bewährung; Vorbehalt der Entscheidung über die Aussetzung
 
-(1) Wird die Vollstreckung einer Strafe oder eine Maßregel der Besserung und Sicherung zur Bewährung ausgesetzt, so ist dies in das Register einzutragen. Dabei ist das Ende der Bewährungszeit oder der Führungsaufsicht zu vermerken.
+(1) Wird die Vollstreckung einer Strafe oder eine Maßregel der Besserung und Sicherung zur Bewährung ausgesetzt oder wird die Entscheidung über die Aussetzung einer Jugendstrafe zur Bewährung im Urteil einem nachträglichen Beschluss vorbehalten, so ist dies in das Register einzutragen. Dabei ist das Ende der Bewährungszeit, der Führungsaufsicht oder einer vom Gericht für die Entscheidung über die Aussetzung einer Jugendstrafe zur Bewährung gesetzten Frist zu vermerken.
 
-(2) Hat das Gericht den Verurteilten nach § 56d des Strafgesetzbuchs der Aufsicht und Leitung eines Bewährungshelfers unterstellt, so ist auch diese Entscheidung einzutragen.
+(2) Hat das Gericht den Verurteilten nach § 56d des Strafgesetzbuchs oder nach § 61b Absatz 1 Satz 2 des Jugendgerichtsgesetzes der Aufsicht und Leitung eines Bewährungshelfers unterstellt, so ist auch diese Entscheidung einzutragen.
 
 (3) Wird jemand mit Strafvorbehalt verwarnt (§ 59 des Strafgesetzbuchs) oder wird die Entscheidung über die Verhängung einer Jugendstrafe zur Bewährung ausgesetzt (§ 27 des Jugendgerichtsgesetzes), so ist das Ende der Bewährungszeit einzutragen.
 
@@ -143,13 +147,15 @@ nach dem Waffengesetz der Besitz und Erwerb von Waffen und Munition untersagt wi
 b)  
 die Erteilung einer Waffenbesitzkarte, eines Munitionserwerbsscheins, eines Waffenscheins, eines Jagdscheins oder einer Erlaubnis nach § 27 des Sprengstoffgesetzes wegen Unzuverlässigkeit oder fehlender persönlicher Eignung abgelehnt oder nach § 34 des Sprengstoffgesetzes, zurückgenommen oder widerrufen wird.
 
+Einzutragen sind auch der Verzicht auf die Erlaubnis zum Erwerb und Besitz von Waffen (§ 10 Absatz 1 des Waffengesetzes) oder Munition (§ 10 Absatz 3 des Waffengesetzes), zum Führen einer Waffe (§ 10 Absatz 4 des Waffengesetzes), zur Ausübung der Jagd (§ 15 des Bundesjagdgesetzes) sowie der Verzicht auf die Erlaubnis nach § 27 des Sprengstoffgesetzes, wenn der jeweilige Verzicht während eines Rücknahme- oder Widerrufsverfahrens wegen Unzuverlässigkeit oder fehlender persönlicher Eignung oder nach § 34 des Sprengstoffgesetzes erfolgt.
+
 (2) In das Register sind auch die vollziehbaren und die nicht mehr anfechtbaren Entscheidungen einer Verwaltungsbehörde sowie rechtskräftige gerichtliche Entscheidungen einzutragen, durch die wegen Unzuverlässigkeit, Ungeeignetheit oder Unwürdigkeit
 
 1.  
-ein Antrag auf Zulassung zu einem Beruf oder Gewerbe abgelehnt oder eine erteilte Erlaubnis zurückgenommen oder widerrufen,
+ein Antrag auf Zulassung zu einem Beruf abgelehnt oder eine erteilte Erlaubnis zurückgenommen oder widerrufen,
 
 2.  
-die Ausübung eines Berufes oder Gewerbes untersagt,
+die Ausübung eines Berufes untersagt,
 
 3.  
 die Befugnis zur Einstellung oder Ausbildung von Auszubildenden entzogen oder
@@ -157,7 +163,7 @@ die Befugnis zur Einstellung oder Ausbildung von Auszubildenden entzogen oder
 4.  
 die Beschäftigung, Beaufsichtigung, Anweisung oder Ausbildung von Kindern und Jugendlichen verboten
 
-wird, falls die Entscheidung nicht nach § 149 Abs. 2 Nr. 1 der Gewerbeordnung in das Gewerbezentralregister einzutragen ist; richtet sich die Entscheidung nicht gegen eine natürliche Person, so ist die Eintragung bei der vertretungsberechtigten natürlichen Person vorzunehmen, die unzuverlässig, ungeeignet oder unwürdig ist.
+wird; richtet sich die Entscheidung nicht gegen eine natürliche Person, so ist die Eintragung bei der vertretungsberechtigten natürlichen Person vorzunehmen, die unzuverlässig, ungeeignet oder unwürdig ist. Einzutragen sind auch Verzichte auf eine Zulassung zu einem Beruf während eines Rücknahme- oder Widerrufsverfahrens wegen Unzuverlässigkeit, Ungeeignetheit oder Unwürdigkeit.
 
 (3) Wird eine nach Absatz 1 oder 2 eingetragene vollziehbare Entscheidung unanfechtbar, so ist dies in das Register einzutragen.
 
@@ -233,7 +239,13 @@ der Erlaß oder Teilerlaß der Jugendstrafe,
 die Beseitigung des Strafmakels,
 
 6.  
-der Widerruf der Aussetzung einer Jugendstrafe oder eines Strafrestes und der Beseitigung des Strafmakels.
+der Widerruf der Aussetzung einer Jugendstrafe oder eines Strafrestes und der Beseitigung des Strafmakels,
+
+7.  
+Entscheidungen über eine vorbehaltene Sicherungsverwahrung,
+
+8.  
+die nachträgliche Anordnung der Unterbringung in der Sicherungsverwahrung.
 
 (2) Wird nach § 30 Abs. 1 des Jugendgerichtsgesetzes auf Jugendstrafe erkannt, so ist auch diese in das Register einzutragen; § 7 Abs. 1 gilt entsprechend. Die Eintragung über einen Schuldspruch wird aus dem Register entfernt, wenn der Schuldspruch
 
@@ -300,7 +312,10 @@ Ist eine Verurteilung im Falle des § 32 Abs. 4 in ein Führungszeugnis aufzuneh
 die Vollziehbarkeit einer nach § 10 eingetragenen Entscheidung aufgrund behördlicher oder gerichtlicher Entscheidung entfällt,
 
 2.  
-die Verwaltungsbehörde eine befristete Entscheidung erlassen oder in der Mitteilung an das Register bestimmt hat, daß die Entscheidung nur für eine bestimmte Frist eingetragen werden soll, und diese Frist abgelaufen ist.
+die Verwaltungsbehörde eine befristete Entscheidung erlassen oder in der Mitteilung an das Register bestimmt hat, daß die Entscheidung nur für eine bestimmte Frist eingetragen werden soll, und diese Frist abgelaufen ist,
+
+3.  
+ein nach § 10 Absatz 1 Satz 1 Nummer 3 Buchstabe b oder Absatz 2 Satz 2 eingetragener Verzicht durch eine spätere Entscheidung gegenstandslos wird.
 
 ### § 20 Mitteilungen, Berichtigungen, Sperrvermerke
 
@@ -310,9 +325,9 @@ die Verwaltungsbehörde eine befristete Entscheidung erlassen oder in der Mittei
 
 (3) Sind Eintragungen mit einem Sperrvermerk versehen, wird eine Auskunft über sie nur den in § 41 Abs. 1 Nr. 1, 3 bis 5 genannten Stellen erteilt. In der Auskunft ist auf den Sperrvermerk hinzuweisen. Im Übrigen wird nur auf den Sperrvermerk hingewiesen.
 
-### § 20a Namensänderung
+### § 20a Änderung von Personendaten
 
-(1) Die Meldebehörden haben der Registerbehörde bei Änderung des Geburtsnamens, Familiennamens, Vornamens oder Geburtsdatums einer Person für die in den Absätzen 2 und 3 genannten Zwecke neben dem bisherigen Namen folgende weitere Daten zu übermitteln:
+(1) Die Meldebehörden haben der Registerbehörde bei Änderung des Geburtsnamens, Familiennamens, Vornamens oder Geburtsdatums einer Person für die in den Absätzen 2 und 3 genannten Zwecke neben dem bisherigen Namen oder Geburtsdatum folgende weitere Daten zu übermitteln:
 
 1.  
 Geburtsname,
@@ -333,24 +348,47 @@ Geburtsort,
 Anschrift,
 
 7.  
-Bezeichnung der Behörde, die die Namensänderung im Melderegister veranlaßt hat, sowie
+Bezeichnung der Behörde, die die Änderung im Melderegister veranlaßt hat, sowie
 
 8.  
 Datum und Aktenzeichen des zugrundeliegenden Rechtsaktes.
 
 Die Mitteilung ist ungeachtet des Offenbarungsverbots nach § 5 Abs. 1 des Transsexuellengesetzes und des Adoptionsgeheimnisses nach § 1758 Abs. 1 des Bürgerlichen Gesetzbuchs zulässig.
 
-(2) Enthält das Register eine Eintragung über die Person, deren Geburtsname, Familienname, Vorname oder Geburtsdatum sich geändert hat, oder ist über diese Person eine Nachricht über eine Ausschreibung zur Festnahme oder Aufenthaltsermittlung oder ein Suchvermerk niedergelegt, so ist der neue Name und das geänderte Geburtsdatum bei der Eintragung, der Ausschreibungsnachricht oder dem Suchvermerk zu vermerken.
+(2) Enthält das Register eine Eintragung oder einen Suchvermerk über diejenige Person, deren Geburtsname, Familienname, Vorname oder Geburtsdatum sich geändert hat, ist der geänderte Name oder das geänderte Geburtsdatum in den Eintrag oder den Suchvermerk aufzunehmen.
 
-(3) Eine Mitteilung nach Absatz 1 darf nur für die in Absatz 2, § 476 Abs. 1 Satz 1 der Strafprozeßordnung oder in § 153a Abs. 2 der Gewerbeordnung genannten Zwecke verwendet werden. Liegen diese Voraussetzungen nicht vor, so ist die Mitteilung von der Registerbehörde unverzüglich zu vernichten.
+(3) Eine Mitteilung nach Absatz 1 darf nur für die in Absatz 2, § 494 Absatz 1 Satz 1 der Strafprozeßordnung oder in § 153a Abs. 2 der Gewerbeordnung genannten Zwecke verwendet werden. Liegen diese Voraussetzungen nicht vor, so ist die Mitteilung von der Registerbehörde unverzüglich zu vernichten.
 
-### § 21 (weggefallen)
-
--
-
-### § 21a Automatisiertes Auskunftsverfahren
+### § 21 Automatisiertes Auskunftsverfahren
 
 Die Einrichtung eines automatisierten Verfahrens, das die Übermittlung personenbezogener Daten durch Abruf ermöglicht, ist zulässig, soweit diese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der Betroffenen wegen der Vielzahl der Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit angemessen ist und wenn gewährleistet ist, dass die Daten gegen den unbefugten Zugriff Dritter bei der Übermittlung wirksam geschützt werden. § 493 Absatz 2 und 3 Satz 1 und 2 der Strafprozessordnung gilt entsprechend; für Auskunftsersuchen der Verfassungsschutzbehörden des Bundes und der Länder, des Bundesnachrichtendienstes und des Militärischen Abschirmdienstes gelten darüber hinaus § 492 Absatz 4a der Strafprozessordnung und § 8 der Verordnung über den Betrieb des Zentralen Staatsanwaltschaftlichen Verfahrensregisters entsprechend.
+
+### § 21a Protokollierungen
+
+(1) Die Registerbehörde fertigt zu den von ihr erteilten Auskünften, Mitteilungen und Hinweisen Protokolle, die folgende Daten enthalten:
+
+1.  
+die Vorschrift, auf der die Auskunft oder der Hinweis beruht,
+
+2.  
+den Zweck der Auskunft,
+
+3.  
+die in der Anfrage und der Auskunft verwendeten Personendaten,
+
+4.  
+die Person oder Stelle, die um Erteilung der Auskunft ersucht hat, den Empfänger eines Hinweises sowie die Behörde in den Fällen des § 30 Absatz 5 oder deren Kennung,
+
+5.  
+den Zeitpunkt der Übermittlung,
+
+6.  
+die Namen der Bediensteten, die die Mitteilung gemacht haben, oder eine Kennung, außer bei Abrufen im automatisierten Verfahren,
+
+7.  
+das Aktenzeichen, außer bei Führungszeugnissen nach § 30 Absatz 1, den §§ 30a und 30b.
+
+(2) Die Protokolldaten nach Absatz 1 dürfen nur für Mitteilungen über Berichtigungen nach § 20, zu internen Prüfzwecken und zur Datenschutzkontrolle verwendet werden. Sie sind durch geeignete Vorkehrungen gegen Missbrauch zu schützen. Protokolldaten sowie Nachweise nach § 30c Absatz 3 sind nach einem Jahr zu löschen, es sei denn, sie werden für Zwecke nach Satz 1 benötigt. Danach sind sie unverzüglich zu löschen.
 
 ### § 22 Hinweispflicht der Registerbehörde
 
@@ -392,13 +430,13 @@ Ist bei Eintragung einer Verurteilung in das Register ersichtlich, daß im Regis
 
 ### § 25 Anordnung der Entfernung
 
-(1) Die Registerbehörde kann auf Antrag oder von Amts wegen im Benehmen mit der Stelle, welche die Entscheidung getroffen hat, insbesondere im Interesse der Rehabilitierung des Betroffenen anordnen, daß Eintragungen nach den §§ 10 und 11 vorzeitig aus dem Register entfernt werden, soweit nicht das öffentliche Interesse einer solchen Anordnung entgegensteht. Vor ihrer Entscheidung soll sie in den Fällen des § 11 einen in der Psychiatrie erfahrenen medizinischen Sachverständigen hören.
+(1) Die Registerbehörde kann auf Antrag oder von Amts wegen im Benehmen mit der Stelle, welche die Entscheidung getroffen hat, insbesondere im Interesse der Rehabilitierung der betroffenen Person anordnen, daß Eintragungen nach den §§ 10 und 11 vorzeitig aus dem Register entfernt werden, soweit nicht das öffentliche Interesse einer solchen Anordnung entgegensteht. Vor ihrer Entscheidung soll sie in den Fällen des § 11 die Anhörung einer oder eines in der Psychiatrie erfahrenen medizinischen Sachverständigen durchführen.
 
-(2) Gegen die Ablehnung eines Antrags auf Entfernung einer Eintragung steht dem Antragsteller innerhalb zwei Wochen nach der Bekanntgabe der Entscheidung die Beschwerde zu. Hilft die Registerbehörde der Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz.
+(2) Gegen die Ablehnung eines Antrags auf Entfernung einer Eintragung steht der antragstellenden Person innerhalb zwei Wochen nach der Bekanntgabe der Entscheidung die Beschwerde zu. Hilft die Registerbehörde der Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz und für Verbraucherschutz.
 
 ### § 26 Zu Unrecht entfernte Eintragungen
 
-Die Registerbehörde hat vor ihrer Entscheidung darüber, ob eine zu Unrecht aus dem Register entfernte Eintragung wieder in das Register aufgenommen wird, dem Betroffenen Gelegenheit zur Stellungnahme zu geben.
+Die Registerbehörde hat vor ihrer Entscheidung darüber, ob eine zu Unrecht aus dem Register entfernte Eintragung wieder in das Register aufgenommen wird, der betroffenen Person Gelegenheit zur Stellungnahme zu geben.
 
 Zweiter Abschnitt Suchvermerke
 ------------------------------
@@ -407,19 +445,30 @@ Zweiter Abschnitt Suchvermerke
 
 ### § 27 Speicherung
 
-Auf Grund einer Ausschreibung zur Festnahme oder zur Feststellung des Aufenthalts einer Person wird auf Ersuchen einer Behörde ein Suchvermerk im Register gespeichert, wenn der Suchvermerk der Erfüllung hoheitlicher Aufgaben oder der Durchführung von Maßnahmen der Zentralen Behörde nach § 7 des Internationalen Familienrechtsverfahrensgesetzes vom 26. Januar 2005 (BGBl. I S. 162), § 4 Abs. 3 des Erwachsenenschutzübereinkommens-Ausführungsgesetzes vom 17. März 2007 (BGBl. I S. 314) oder nach den §§ 16 und 17 des Auslandsunterhaltsgesetzes vom 23. Mai 2011 (BGBl. I S. 898) dient und der Aufenthaltsort des Betroffenen zum Zeitpunkt der Anfrage unbekannt ist.
+Auf Grund einer Ausschreibung zur Festnahme oder zur Feststellung des Aufenthalts einer Person wird auf Ersuchen einer Behörde ein Suchvermerk im Register gespeichert, wenn der Suchvermerk der Erfüllung hoheitlicher Aufgaben oder der Durchführung von Maßnahmen der Zentralen Behörde nach § 7 des Internationalen Familienrechtsverfahrensgesetzes vom 26. Januar 2005 (BGBl. I S. 162), § 4 Abs. 3 des Erwachsenenschutzübereinkommens-Ausführungsgesetzes vom 17. März 2007 (BGBl. I S. 314) oder nach den §§ 16 und 17 des Auslandsunterhaltsgesetzes vom 23. Mai 2011 (BGBl. I S. 898) dient und der Aufenthaltsort der betroffenen Person zum Zeitpunkt des Ersuchens unbekannt ist.
 
 ### § 28 Behandlung
 
-(1) Enthält das Register eine Eintragung oder erhält es eine Mitteilung über den Gesuchten, so gibt die Registerbehörde der anfragenden Behörde das Datum und die Geschäftsnummer der Entscheidung sowie die mitteilende Behörde bekannt. Entsprechend ist zu verfahren, wenn ein Antrag auf Erteilung eines Führungszeugnisses oder auf Auskunft aus dem Register eingeht.
+(1) Enthält das Register eine Eintragung oder erhält es eine Mitteilung über die gesuchte Person, gibt die Registerbehörde der suchenden Behörde bekannt
+
+1.  
+das Datum und die Geschäftsnummer der Entscheidung,
+
+2.  
+die Behörde, die mitgeteilt hat, sowie
+
+3.  
+die letzte mitgeteilte Anschrift der gesuchten Person.
+
+Entsprechend ist zu verfahren, wenn ein Antrag auf Erteilung eines Führungszeugnisses oder auf Auskunft aus dem Register eingeht.
 
 (2) Liegen von verschiedenen Behörden Anfragen vor, welche dieselbe Person betreffen, so ist jeder Behörde von der Anfrage der anderen Behörde Mitteilung zu machen. Entsprechendes gilt, wenn Anfragen von derselben Behörde unter verschiedenen Geschäftsnummern vorliegen.
 
 ### § 29 Erledigung
 
-(1) Erledigt sich eine Anfrage vor Ablauf von drei Jahren seit der Niederlegung, so ist dies der Registerbehörde mitzuteilen.
+(1) Erledigt sich ein Suchvermerk vor Ablauf von drei Jahren seit der Speicherung, so ist dies der Registerbehörde mitzuteilen.
 
-(2) Die Nachricht wird entfernt, wenn ihre Erledigung mitgeteilt wird, spätestens jedoch nach Ablauf von drei Jahren seit der Niederlegung.
+(2) Der Suchvermerk wird entfernt, wenn seine Erledigung mitgeteilt wird, spätestens jedoch nach Ablauf von drei Jahren seit der Speicherung.
 
 Dritter Abschnitt Auskunft aus dem Register
 -------------------------------------------
@@ -433,17 +482,17 @@ Dritter Abschnitt Auskunft aus dem Register
 
 ### § 30 Antrag
 
-(1) Jeder Person, die das 14. Lebensjahr vollendet hat, wird auf Antrag ein Zeugnis über den sie betreffenden Inhalt des Registers erteilt (Führungszeugnis). Hat der Betroffene einen gesetzlichen Vertreter, so ist auch dieser antragsberechtigt. Ist der Betroffene geschäftsunfähig, so ist nur sein gesetzlicher Vertreter antragsberechtigt.
+(1) Jeder Person, die das 14. Lebensjahr vollendet hat, wird auf Antrag ein Zeugnis über den sie betreffenden Inhalt des Registers erteilt (Führungszeugnis). Hat sie eine gesetzliche Vertretung, ist auch diese antragsberechtigt. Ist die Person geschäftsunfähig, ist nur ihre gesetzliche Vertretung antragsberechtigt.
 
-(2) Wohnt der Antragsteller innerhalb des Geltungsbereichs dieses Gesetzes, so ist der Antrag bei der Meldebehörde zu stellen; sofern der Antragsteller nicht persönlich erscheint, ist eine schriftliche Antragstellung mit amtlich oder öffentlich beglaubigter Unterschrift des Antragstellers zulässig. Der Antragsteller hat seine Identität und, wenn er als gesetzlicher Vertreter handelt, seine Vertretungsmacht nachzuweisen. Der Betroffene und sein gesetzlicher Vertreter können sich bei der Antragstellung nicht durch einen Bevollmächtigten vertreten lassen. Die Meldebehörde nimmt die Gebühr für das Führungszeugnis entgegen, behält davon zwei Fünftel ein und führt den Restbetrag an die Bundeskasse ab.
+(2) Wohnt die antragstellende Person innerhalb des Geltungsbereichs dieses Gesetzes, ist der Antrag persönlich oder mit amtlich oder öffentlich beglaubigter Unterschrift schriftlich bei der Meldebehörde zu stellen. Bei der Antragstellung sind die Identität und im Fall der gesetzlichen Vertretung die Vertretungsmacht nachzuweisen. Die antragstellende Person und ihre gesetzliche Vertretung können sich bei der Antragstellung nicht durch Bevollmächtigte vertreten lassen. Die Meldebehörde nimmt die Gebühr für das Führungszeugnis entgegen, behält davon zwei Fünftel ein und führt den Restbetrag an die Bundeskasse ab.
 
-(3) Wohnt der Antragsteller außerhalb des Geltungsbereichs dieses Gesetzes, so kann er den Antrag unmittelbar bei der Registerbehörde stellen. Absatz 2 Satz 2 und 3 gilt entsprechend.
+(3) Wohnt die antragstellende Person außerhalb des Geltungsbereichs dieses Gesetzes, so kann sie den Antrag unmittelbar bei der Registerbehörde stellen. Absatz 2 Satz 2 und 3 gilt entsprechend.
 
-(4) Die Übersendung des Führungszeugnisses an eine andere Person als den Antragsteller ist nicht zulässig.
+(4) Die Übersendung des Führungszeugnisses ist nur an die antragstellende Person zulässig.
 
-(5) Wird das Führungszeugnis zur Vorlage bei einer Behörde beantragt, so ist es der Behörde unmittelbar zu übersenden. Die Behörde hat dem Antragsteller auf Verlangen Einsicht in das Führungszeugnis zu gewähren. Der Antragsteller kann verlangen, daß das Führungszeugnis, wenn es Eintragungen enthält, zunächst an ein von ihm benanntes Amtsgericht zur Einsichtnahme durch ihn übersandt wird. Die Meldebehörde hat den Antragsteller in den Fällen, in denen der Antrag bei ihr gestellt wird, auf diese Möglichkeit hinzuweisen. Das Amtsgericht darf die Einsicht nur dem Antragsteller persönlich gewähren. Nach Einsichtnahme ist das Führungszeugnis an die Behörde weiterzuleiten oder, falls der Antragsteller dem widerspricht, vom Amtsgericht zu vernichten.
+(5) Wird das Führungszeugnis zur Vorlage bei einer Behörde beantragt, so ist es der Behörde unmittelbar zu übersenden. Die Behörde hat der antragstellenden Person auf Verlangen Einsicht in das Führungszeugnis zu gewähren. Die antragstellende Person kann verlangen, daß das Führungszeugnis, wenn es Eintragungen enthält, zunächst an ein von ihr benanntes Amtsgericht zur Einsichtnahme durch sie übersandt wird. Die Meldebehörde hat die antragstellende Person in den Fällen, in denen der Antrag bei ihr gestellt wird, auf diese Möglichkeit hinzuweisen. Das Amtsgericht darf die Einsicht nur der antragstellenden Person persönlich gewähren. Nach Einsichtnahme ist das Führungszeugnis an die Behörde weiterzuleiten oder, falls die antragstellende Person dem widerspricht, vom Amtsgericht zu vernichten.
 
-(6) Wohnt der Antragsteller außerhalb des Geltungsbereichs dieses Gesetzes, so kann er verlangen, daß das Führungszeugnis, wenn es Eintragungen enthält, zunächst an eine von ihm benannte amtliche Vertretung der Bundesrepublik Deutschland zur Einsichtnahme durch ihn übersandt wird. Absatz 5 Satz 5 und 6 gilt für die amtliche Vertretung der Bundesrepublik Deutschland entsprechend.
+(6) Wohnt die antragstellende Person außerhalb des Geltungsbereichs dieses Gesetzes, so kann sie verlangen, dass das Führungszeugnis, wenn es Eintragungen enthält, zunächst an eine von ihr benannte amtliche Vertretung der Bundesrepublik Deutschland zur Einsichtnahme durch sie übersandt wird. Absatz 5 Satz 5 und 6 gilt für die amtliche Vertretung der Bundesrepublik Deutschland entsprechend.
 
 ### § 30a Antrag auf ein erweitertes Führungszeugnis
 
@@ -456,15 +505,12 @@ wenn die Erteilung in gesetzlichen Bestimmungen unter Bezugnahme auf diese Vorsc
 wenn dieses Führungszeugnis benötigt wird für
 
 a)  
-die Prüfung der persönlichen Eignung nach § 72a des Achten Buches Sozialgesetzbuch – Kinder- und Jugendhilfe –,
+eine berufliche oder ehrenamtliche Beaufsichtigung, Betreuung, Erziehung oder Ausbildung Minderjähriger oder
 
 b)  
-eine sonstige berufliche oder ehrenamtliche Beaufsichtigung, Betreuung, Erziehung oder Ausbildung Minderjähriger oder
+eine Tätigkeit, die in einer Buchstabe a vergleichbaren Weise geeignet ist, Kontakt zu Minderjährigen aufzunehmen.
 
-c)  
-eine Tätigkeit, die in einer Buchstabe b vergleichbaren Weise geeignet ist, Kontakt zu Minderjährigen aufzunehmen.
-
-(2) Wer einen Antrag auf Erteilung eines erweiterten Führungszeugnisses stellt, hat eine schriftliche Aufforderung vorzulegen, in der die Person, die das erweiterte Führungszeugnis vom Antragsteller verlangt, bestätigt, dass die Voraussetzungen nach Absatz 1 vorliegen. Im Übrigen gilt § 30 entsprechend.
+(2) Wer einen Antrag auf Erteilung eines erweiterten Führungszeugnisses stellt, hat eine schriftliche Aufforderung vorzulegen, in der die Person, die das erweiterte Führungszeugnis von der antragstellenden Person verlangt, bestätigt, dass die Voraussetzungen nach Absatz 1 vorliegen. Im Übrigen gilt § 30 entsprechend.
 
 ### § 30b Europäisches Führungszeugnis
 
@@ -474,7 +520,7 @@ eine Tätigkeit, die in einer Buchstabe b vergleichbaren Weise geeignet ist, Kon
 
 ### § 30c Elektronische Antragstellung
 
-(1) Erfolgt die Antragstellung abweichend von § 30 Absatz 2 oder Absatz 3 elektronisch, ist der Antrag unter Nutzung des im Internet angebotenen Zugangs unmittelbar bei der Registerbehörde zu stellen. Der Antragsteller kann sich bei der Antragstellung nicht durch einen Bevollmächtigten vertreten lassen. Handelt der Antragsteller als gesetzlicher Vertreter, hat er seine Vertretungsmacht nachzuweisen.
+(1) Erfolgt die Antragstellung abweichend von § 30 Absatz 2 oder Absatz 3 elektronisch, ist der Antrag unter Nutzung des im Internet angebotenen Zugangs unmittelbar bei der Registerbehörde zu stellen. Die antragstellende Person kann sich nicht durch Bevollmächtigte vertreten lassen. Handelt sie in gesetzlicher Vertretung, hat sie ihre Vertretungsmacht nachzuweisen.
 
 (2) Der elektronische Identitätsnachweis nach § 18 des Personalausweisgesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes ist zu führen. Dabei müssen aus dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises oder des elektronischen Aufenthaltstitels an die Registerbehörde übermittelt werden:
 
@@ -492,7 +538,7 @@ Lässt das elektronische Speicher- und Verarbeitungsmedium die Übermittlung des
 
 ### § 31 Erteilung des Führungszeugnisses und des erweiterten Führungszeugnisses an Behörden
 
-(1) Behörden erhalten über eine bestimmte Person ein Führungszeugnis, soweit sie es zur Erledigung ihrer hoheitlichen Aufgaben benötigen und eine Aufforderung an den Betroffenen, ein Führungszeugnis vorzulegen, nicht sachgemäß ist oder erfolglos bleibt. Die Behörde hat dem Betroffenen auf Verlangen Einsicht in das Führungszeugnis zu gewähren.
+(1) Behörden erhalten über eine bestimmte Person ein Führungszeugnis, soweit sie es zur Erledigung ihrer hoheitlichen Aufgaben benötigen und eine Aufforderung an die betroffene Person, ein Führungszeugnis vorzulegen, nicht sachgemäß ist oder erfolglos bleibt. Die Behörde hat der betroffenen Person auf Verlangen Einsicht in das Führungszeugnis zu gewähren.
 
 (2) Behörden erhalten zum Zweck des Schutzes Minderjähriger ein erweitertes Führungszeugnis unter den Voraussetzungen des Absatzes 1. Absatz 1 Satz 2 gilt entsprechend.
 
@@ -560,7 +606,7 @@ die vorbehaltene Sicherungsverwahrung, falls von der Anordnung der Sicherungsver
 Verurteilungen, durch die eine freiheitsentziehende Maßregel der Besserung und Sicherung angeordnet worden ist,
 
 2.  
-Eintragungen nach § 10, wenn die Entscheidung nicht länger als zehn Jahre zurückliegt,
+Eintragungen nach § 10, wenn die Entscheidung oder der Verzicht nicht länger als zehn Jahre zurückliegt,
 
 3.  
 Eintragungen nach § 11, wenn die Entscheidung oder Verfügung nicht länger als fünf Jahre zurückliegt,
@@ -580,11 +626,11 @@ a)
 von einem Vertreter oder Beauftragten im Sinne des § 14 des Strafgesetzbuchs oder
 
 b)  
-von einer Person, die in einer Rechtsvorschrift ausdrücklich als Verantwortlicher bezeichnet ist,
+von einer Person, die in einer Rechtsvorschrift ausdrücklich als verantwortlich bezeichnet ist,
 
-begangen worden sind, wenn das Führungszeugnis für die in § 149 Abs. 2 Nr. 1 der Gewerbeordnung bezeichneten Entscheidungen bestimmt ist.
+begangen worden sind, wenn das Führungszeugnis für die in § 149 Abs. 2 Satz 1 Nr. 1 der Gewerbeordnung bezeichneten Entscheidungen bestimmt ist.
 
-(5) Soweit in Absatz 2 Nummer 3 bis 9 Ausnahmen für die Aufnahme von Eintragungen zugelassen werden, gelten diese nicht bei einer Verurteilung wegen einer Straftat nach den §§ 171, 180a, 181a, 183 bis 184g, 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs, wenn ein erweitertes Führungszeugnis nach § 30a oder § 31 Absatz 2 erteilt wird.
+(5) Soweit in Absatz 2 Nummer 3 bis 9 Ausnahmen für die Aufnahme von Eintragungen zugelassen werden, gelten diese nicht bei einer Verurteilung wegen einer Straftat nach den §§ 171, 180a, 181a, 183 bis 184g, 184i, 184j, 201a Absatz 3, den §§ 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs, wenn ein erweitertes Führungszeugnis nach § 30a oder § 31 Absatz 2 erteilt wird.
 
 ### § 33 Nichtaufnahme von Verurteilungen nach Fristablauf
 
@@ -606,22 +652,27 @@ die Unterbringung in einem psychiatrischen Krankenhaus angeordnet worden ist, we
 (1) Die Frist, nach deren Ablauf eine Verurteilung nicht mehr in das Führungszeugnis aufgenommen wird, beträgt
 
 1.  
-drei Jahrebei Verurteilungen zu
+drei Jahre bei
 
 a)  
-Geldstrafe und Freiheitsstrafe oder Strafarrest von nicht mehr als drei Monaten, wenn die Voraussetzungen des § 32 Abs. 2 nicht vorliegen,
+Verurteilungen zu
+
+aa)  
+Geldstrafe und
+
+bb)  
+Freiheitsstrafe oder Strafarrest von nicht mehr als drei Monaten,
+
+wenn die Voraussetzungen des § 32 Absatz 2 nicht vorliegen,
 
 b)  
-Freiheitsstrafe oder Strafarrest von mehr als drei Monaten, aber nicht mehr als einem Jahr, wenn die Vollstreckung der Strafe oder eines Strafrestes gerichtlich oder im Gnadenweg zur Bewährung ausgesetzt, diese Entscheidung nicht widerrufen worden und im Register nicht außerdem Freiheitsstrafe, Strafarrest oder Jugendstrafe eingetragen ist,
+Verurteilungen zu Freiheitsstrafe oder Strafarrest von mehr als drei Monaten, aber nicht mehr als einem Jahr, wenn die Vollstreckung der Strafe oder eines Strafrestes gerichtlich oder im Gnadenweg zur Bewährung ausgesetzt, diese Entscheidung nicht widerrufen worden und im Register nicht außerdem Freiheitsstrafe, Strafarrest oder Jugendstrafe eingetragen ist,
 
 c)  
-Jugendstrafe von nicht mehr als einem Jahr, wenn die Voraussetzungen des § 32 Abs. 2 nicht vorliegen,
+Verurteilungen zu Jugendstrafe von nicht mehr als einem Jahr, wenn die Voraussetzungen des § 32 Absatz 2 nicht vorliegen,
 
 d)  
-Jugendstrafe von mehr als zwei Jahren, wenn ein Strafrest nach Ablauf der Bewährungszeit gerichtlich oder im Gnadenweg erlassen worden ist,
-
-e)  
-(weggefallen)
+Verurteilungen zu Jugendstrafe von mehr als zwei Jahren, wenn ein Strafrest nach Ablauf der Bewährungszeit gerichtlich oder im Gnadenweg erlassen worden ist,
 
 2.  
 zehn Jahre bei Verurteilungen wegen einer Straftat nach den §§ 174 bis 180 oder 182 des Strafgesetzbuches zu einer Freiheitsstrafe oder Jugendstrafe von mehr als einem Jahr,
@@ -629,7 +680,7 @@ zehn Jahre bei Verurteilungen wegen einer Straftat nach den §§ 174 bis 180 ode
 3.  
 fünf Jahre in den übrigen Fällen.
 
-(2) Die Frist, nach deren Ablauf eine Verurteilung wegen einer Straftat nach den §§ 171, 180a, 181a, 183 bis 184g, 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs zu einer Freiheitsstrafe oder Jugendstrafe von mehr als einem Jahr nicht mehr in ein erweitertes Führungszeugnis aufgenommen wird, beträgt zehn Jahre.
+(2) Die Frist, nach deren Ablauf eine Verurteilung wegen einer Straftat nach den §§ 171, 180a, 181a, 183 bis 184g, 184i, 184j, 201a Absatz 3, den §§ 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs zu einer Freiheitsstrafe oder Jugendstrafe von mehr als einem Jahr nicht mehr in ein erweitertes Führungszeugnis aufgenommen wird, beträgt zehn Jahre.
 
 (3) In den Fällen des Absatzes 1 Nr. 1 Buchstabe d, Nr. 2, Nr. 3 und des Absatzes 2 verlängert sich die Frist um die Dauer der Freiheitsstrafe, des Strafarrests oder der Jugendstrafe. Bei Erlaß des Restes einer lebenslangen Freiheitsstrafe verlängert sich die Frist um den zwischen dem Tag des ersten Urteils und dem Ende der Bewährungszeit liegenden Zeitraum, mindestens jedoch um zwanzig Jahre.
 
@@ -637,7 +688,7 @@ fünf Jahre in den übrigen Fällen.
 
 (1) Ist eine Gesamtstrafe oder eine einheitliche Jugendstrafe gebildet oder ist nach § 30 Abs. 1 des Jugendgerichtsgesetzes auf Jugendstrafe erkannt worden, so ist allein die neue Entscheidung für § 32 Abs. 2 und § 34 maßgebend.
 
-(2) In den Fällen des § 34 bleiben Nebenstrafen, Nebenfolgen und neben Freiheitsstrafe oder Strafarrest ausgesprochene Geldstrafen bei der Feststellung der Frist unberücksichtigt.
+(2) Bei der Feststellung der Frist nach § 34 bleiben Nebenstrafen, Nebenfolgen und neben Freiheitsstrafe oder Strafarrest ausgesprochene Geldstrafen sowie Maßregeln der Besserung und Sicherung unberücksichtigt.
 
 ### § 36 Beginn der Frist
 
@@ -654,7 +705,7 @@ eine Entscheidung im Wiederaufnahmeverfahren ergeht, die eine registerpflichtige
 
 ### § 37 Ablaufhemmung
 
-(1) Hat ein Verurteilter infolge der Verurteilung die Fähigkeit, öffentliche Ämter zu bekleiden und Rechte aus öffentlichen Wahlen zu erlangen, oder das Recht, in öffentlichen Angelegenheiten zu wählen oder zu stimmen, verloren, so läuft die Frist nicht ab, solange er diese Fähigkeit oder dieses Recht nicht wiedererlangt hat.
+(1) Haben Verurteilte infolge der Verurteilung die Fähigkeit, öffentliche Ämter zu bekleiden und Rechte aus öffentlichen Wahlen zu erlangen, oder das Recht, in öffentlichen Angelegenheiten zu wählen oder zu stimmen, verloren, so läuft die Frist nicht ab, solange sie diese Fähigkeit oder dieses Recht nicht wiedererlangt haben.
 
 (2) Die Frist läuft ferner nicht ab, solange sich aus dem Register ergibt, daß die Vollstreckung einer Strafe oder eine der in § 61 des Strafgesetzbuchs aufgeführten Maßregeln der Besserung und Sicherung mit Ausnahme der Sperre für die Erteilung einer Fahrerlaubnis noch nicht erledigt oder die Strafe noch nicht erlassen ist.
 
@@ -675,15 +726,15 @@ Verurteilungen, durch die auf Geldstrafe von nicht mehr als neunzig Tagessätzen
 
 ### § 39 Anordnung der Nichtaufnahme
 
-(1) Die Registerbehörde kann auf Antrag oder von Amts wegen anordnen, daß Verurteilungen und Eintragungen nach § 11 entgegen diesem Gesetz nicht in das Führungszeugnis aufgenommen werden. Dies gilt nicht, soweit das öffentliche Interesse der Anordnung entgegensteht. Die Anordnung kann auf Führungszeugnisse ohne Einbeziehung der Führungszeugnisse für Behörden, auf Führungszeugnisse ohne Einbeziehung der erweiterten Führungszeugnisse, auf Führungszeugnisse ohne Einbeziehung der erweiterten Führungszeugnisse für Behörden oder auf die einmalige Erteilung eines Führungszeugnisses beschränkt werden. Wohnt der Betroffene im Geltungsbereich dieses Gesetzes, so soll die Registerbehörde das erkennende Gericht und die sonst zuständige Behörde hören. Betrifft die Eintragung eine solche der in § 11 bezeichneten Art oder eine Verurteilung, durch die eine freiheitsentziehende Maßregel der Besserung und Sicherung angeordnet worden ist, so soll sie auch einen in der Psychiatrie erfahrenen medizinischen Sachverständigen hören.
+(1) Die Registerbehörde kann auf Antrag oder von Amts wegen anordnen, daß Verurteilungen und Eintragungen nach § 11 entgegen diesem Gesetz nicht in das Führungszeugnis aufgenommen werden. Dies gilt nicht, soweit das öffentliche Interesse der Anordnung entgegensteht. Die Anordnung kann auf Führungszeugnisse ohne Einbeziehung der Führungszeugnisse für Behörden, auf Führungszeugnisse ohne Einbeziehung der erweiterten Führungszeugnisse, auf Führungszeugnisse ohne Einbeziehung der erweiterten Führungszeugnisse für Behörden oder auf die einmalige Erteilung eines Führungszeugnisses beschränkt werden. Die Registerbehörde soll das erkennende Gericht und die sonst zuständige Behörde hören. Betrifft die Eintragung eine solche der in § 11 bezeichneten Art oder eine Verurteilung, durch die eine freiheitsentziehende Maßregel der Besserung und Sicherung angeordnet worden ist, soll sie auch die Stellungnahme eines oder einer in der Psychiatrie erfahrenen medizinischen Sachverständigen einholen.
 
-(2) Hat der Verurteilte infolge der Verurteilung durch ein Gericht im Geltungsbereich dieses Gesetzes die Fähigkeit, öffentliche Ämter zu bekleiden und Rechte aus öffentlichen Wahlen zu erlangen, oder das Recht, in öffentlichen Angelegenheiten zu wählen oder zu stimmen, verloren, so darf eine Anordnung nach Absatz 1 nicht ergehen, solange er diese Fähigkeit oder dieses Recht nicht wiedererlangt hat.
+(2) Haben Verurteilte infolge der Verurteilung durch ein Gericht im Geltungsbereich dieses Gesetzes die Fähigkeit, öffentliche Ämter zu bekleiden und Rechte aus öffentlichen Wahlen zu erlangen, oder das Recht, in öffentlichen Angelegenheiten zu wählen oder zu stimmen, verloren, so darf eine Anordnung nach Absatz 1 nicht ergehen, solange sie diese Fähigkeit oder dieses Recht nicht wiedererlangt haben.
 
-(3) Gegen die Ablehnung einer Anordnung nach Absatz 1 steht dem Antragsteller innerhalb zwei Wochen nach der Bekanntgabe der Entscheidung die Beschwerde zu. Hilft die Registerbehörde der Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz.
+(3) Gegen die Ablehnung einer Anordnung nach Absatz 1 steht der antragstellenden Person innerhalb zwei Wochen nach der Bekanntgabe der Entscheidung die Beschwerde zu. Hilft die Registerbehörde der Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz und für Verbraucherschutz.
 
 ### § 40 Nachträgliche Eintragung
 
-Wird eine weitere Verurteilung im Register eingetragen oder erfolgt eine weitere Eintragung nach § 11, so kommt dem Betroffenen eine Anordnung nach § 39 nicht zugute, solange die spätere Eintragung in das Führungszeugnis aufzunehmen ist. § 38 Abs. 2 gilt entsprechend.
+Wird eine weitere Verurteilung im Register eingetragen oder erfolgt eine weitere Eintragung nach § 11, so kommt der betroffenen Person eine Anordnung nach § 39 nicht zugute, solange die spätere Eintragung in das Führungszeugnis aufzunehmen ist. § 38 Abs. 2 gilt entsprechend.
 
 2. Unbeschränkte Auskunft aus dem Register
 ------------------------------------------
@@ -692,10 +743,10 @@ Wird eine weitere Verurteilung im Register eingetragen oder erfolgt eine weitere
 
 ### § 41 Umfang der Auskunft
 
-(1) Von Eintragungen, die in ein Führungszeugnis nicht aufgenommen werden, sowie von Suchvermerken darf - unbeschadet der §§ 42 und 57 - nur Kenntnis gegeben werden
+(1) Eintragungen, die in ein Führungszeugnis nicht aufgenommen werden, sowie Suchvermerke dürfen, unbeschadet der §§ 42 und 57, nur zur Kenntnis gegeben werden
 
 1.  
-den Gerichten, Gerichtsvorständen, Staatsanwaltschaften und Aufsichtsstellen (§ 68a des Strafgesetzbuchs) für Zwecke der Rechtspflege sowie den Justizvollzugsbehörden für Zwecke des Strafvollzugs einschließlich der Überprüfung aller im Strafvollzug tätigen Personen,
+den Gerichten, Gerichtsvorständen, Staatsanwaltschaften sowie Aufsichtsstellen nach § 68a des Strafgesetzbuchs für Zwecke der Rechtspflege sowie den Justizvollzugsbehörden für Zwecke des Strafvollzugs einschließlich der Überprüfung aller im Strafvollzug tätigen Personen,
 
 2.  
 den obersten Bundes- und Landesbehörden,
@@ -725,25 +776,24 @@ den für waffenrechtliche oder sprengstoffrechtliche Erlaubnisse, für die Ertei
 dem Bundesinstitut für Arzneimittel und Medizinprodukte im Rahmen des Erlaubnisverfahrens nach dem Betäubungsmittelgesetz,
 
 11.  
-den Rechtsanwaltskammern oder der Patentanwaltskammer für die Entscheidung in Zulassungsverfahren nach der Bundesrechtsanwaltsordnung oder der Patentanwaltsordnung,
+den Rechtsanwaltskammern oder der Patentanwaltskammer für Entscheidungen in Zulassungs-, Aufnahme- und Aufsichtsverfahren nach der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung, dem Gesetz über die Tätigkeit europäischer Rechtsanwälte in Deutschland oder dem Gesetz über die Tätigkeit europäischer Patentanwälte in Deutschland,
 
 12.  
-dem Bundesamt für Strahlenschutz im Rahmen der atomrechtlichen Zuverlässigkeitsprüfung nach dem Atomgesetz.
+dem Bundesamt für kerntechnische Entsorgungssicherheit im Rahmen der atomrechtlichen Zuverlässigkeitsprüfung nach dem Atomgesetz,
 
 13.  
-den Luftsicherheitsbehörden für Zwecke der Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes.
+den Luftsicherheitsbehörden für Zwecke der Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes,
 
-(2) (weggefallen)
+14.  
+der Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach dem Geldwäschegesetz.
 
-(3) Eintragungen nach § 17 und Verurteilungen zu Jugendstrafe, bei denen der Strafmakel als beseitigt erklärt ist, dürfen nicht nach Absatz 1 mitgeteilt werden; über sie wird nur noch den Strafgerichten und Staatsanwaltschaften für ein Strafverfahren gegen den Betroffenen Auskunft erteilt. Dies gilt nicht für Verurteilungen wegen einer Straftat nach den §§ 171, 174 bis 180a, 181a, 182 bis 184g, 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs.
+(2) Eintragungen nach § 17 und Verurteilungen zu Jugendstrafe, bei denen der Strafmakel als beseitigt erklärt ist, dürfen nicht nach Absatz 1 mitgeteilt werden; über sie wird nur noch den Strafgerichten und Staatsanwaltschaften für ein Strafverfahren gegen die betroffene Person Auskunft erteilt. Dies gilt nicht für Verurteilungen wegen einer Straftat nach den §§ 171, 174 bis 180a, 181a, 182 bis 184g, 184i, 184j, 201a Absatz 3, den §§ 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs.
 
-(4) Die Auskunft nach den Absätzen 1 und 3 wird nur auf ausdrückliches Ersuchen erteilt. Die in Absatz 1 genannten Stellen haben den Zweck anzugeben, für den die Auskunft benötigt wird; sie darf nur für diesen Zweck verwertet werden.
+(3) Die Auskunft nach den Absätzen 1 und 2 wird nur auf ausdrückliches Ersuchen erteilt. Die in Absatz 1 genannten Stellen haben den Zweck anzugeben, für den die Auskunft benötigt wird; sie darf nur für diesen Zweck verwertet werden.
 
-(5) (weggefallen)
+### § 42 Auskunft an die Betroffenen
 
-### § 42 Auskunft an den Betroffenen
-
-Einer Person, die das 14. Lebensjahr vollendet hat, wird auf Antrag mitgeteilt, welche Eintragungen über sie im Register enthalten sind. § 30 Abs. 1 Satz 2, 3 gilt entsprechend. Erfolgt die Mitteilung nicht durch Einsichtnahme bei der Registerbehörde, so ist sie, wenn der Antragsteller im Geltungsbereich dieses Gesetzes wohnt, an ein von ihm benanntes Amtsgericht zu senden, bei dem er die Mitteilung persönlich einsehen kann. Befindet sich der Betroffene in amtlichem Gewahrsam einer Justizbehörde, so tritt die Anstaltsleitung an die Stelle des Amtsgerichts. Wohnt der Antragsteller außerhalb des Geltungsbereichs dieses Gesetzes, so ist die Mitteilung an eine von ihm benannte amtliche Vertretung der Bundesrepublik Deutschland zu senden, bei der er die Mitteilung persönlich einsehen kann. Nach Einsichtnahme ist die Mitteilung vom Amtsgericht, der Anstaltsleitung oder der amtlichen Vertretung der Bundesrepublik Deutschland zu vernichten.
+Einer Person, die das 14. Lebensjahr vollendet hat, wird auf Antrag mitgeteilt, welche Eintragungen über sie im Register enthalten sind. § 30 Abs. 1 Satz 2, 3 gilt entsprechend. Erfolgt die Mitteilung nicht durch Einsichtnahme bei der Registerbehörde, so ist sie, wenn die antragstellende Person im Geltungsbereich dieses Gesetzes wohnt, an ein von ihr benanntes Amtsgericht zu senden, bei dem sie die Mitteilung persönlich einsehen kann. Befindet sich die betroffene Person in amtlichem Gewahrsam einer Justizbehörde, so tritt die Anstaltsleitung an die Stelle des Amtsgerichts. Wohnt die antragstellende Person außerhalb des Geltungsbereichs dieses Gesetzes, so ist die Mitteilung an eine von ihr benannte amtliche Vertretung der Bundesrepublik Deutschland zu senden, bei der sie die Mitteilung persönlich einsehen kann. Nach Einsichtnahme ist die Mitteilung vom Amtsgericht, der Anstaltsleitung oder der amtlichen Vertretung der Bundesrepublik Deutschland zu vernichten. Zum Schutz der Betroffenen ist die Aushändigung der Mitteilung oder einer Kopie unzulässig.
 
 ### § 42a Auskunft für wissenschaftliche Zwecke
 
@@ -756,11 +806,11 @@ dies für die Durchführung bestimmter wissenschaftlicher Forschungsarbeiten erf
 eine Nutzung anonymisierter Daten zu diesem Zweck nicht möglich oder die Anonymisierung mit einem unverhältnismäßigen Aufwand verbunden ist und
 
 3.  
-das öffentliche Interesse an der Forschungsarbeit das schutzwürdige Interesse des Betroffenen an dem Ausschluss der Übermittlung erheblich überwiegt.
+das öffentliche Interesse an der Forschungsarbeit das schutzwürdige Interesse der betroffenen Person an dem Ausschluss der Übermittlung erheblich überwiegt.
 
 Bei der Abwägung nach Satz 1 Nr. 3 ist im Rahmen des öffentlichen Interesses das wissenschaftliche Interesse an dem Forschungsvorhaben besonders zu berücksichtigen.
 
-(1a) Die mehrfache Übermittlung von personenbezogenen Daten für eine wissenschaftliche Forschungsarbeit kann für einen angemessenen Zeitraum nach Anhörung des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit mit Zustimmung des Bundesministeriums der Justiz zugelassen werden, wenn
+(1a) Die mehrfache Übermittlung von personenbezogenen Daten für eine wissenschaftliche Forschungsarbeit kann für einen angemessenen Zeitraum nach Anhörung des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit mit Zustimmung des Bundesministeriums der Justiz und für Verbraucherschutz zugelassen werden, wenn
 
 1.  
 die Voraussetzungen von Absatz 1 Nummer 1 und 2 vorliegen,
@@ -790,33 +840,6 @@ Die übermittelten Daten sollen pseudonymisiert werden; ein Verzicht auf eine Ps
 ### § 42b Auskünfte zur Vorbereitung von Rechtsvorschriften und allgemeinen Verwaltungsvorschriften
 
 Die Registerbehörde kann öffentlichen Stellen zur Vorbereitung und Überprüfung von Rechtsvorschriften und allgemeinen Verwaltungsvorschriften Auskünfte in anonymisierter Form erteilen. § 42a Abs. 8 gilt entsprechend.
-
-### § 42c Protokollierungen
-
-(1) Die Registerbehörde fertigt zu den von ihr erteilten Auskünften und Hinweisen Protokolle über folgende Daten:
-
-1.  
-die Vorschrift dieses Gesetzes, auf der die Auskunft oder der Hinweis beruht,
-
-2.  
-den Zweck der Auskunft,
-
-3.  
-die in der Anfrage und der Auskunft verwendeten Personendaten,
-
-4.  
-die Person oder Stelle, die um Erteilung der Auskunft ersucht hat, den Empfänger eines Hinweises sowie die Behörde in den Fällen des § 30 Abs. 5 oder deren Kennung,
-
-5.  
-den Zeitpunkt der Übermittlung,
-
-6.  
-den Namen des Bediensteten, der die Mitteilung gemacht hat oder eine Kennung, außer bei Abrufen im automatisierten Verfahren,
-
-7.  
-das Aktenzeichen, außer bei Führungszeugnissen nach § 30 Abs. 1.
-
-(2) Die Protokolldaten dürfen nur für Mitteilungen über Berichtigungen nach § 20, zu internen Prüfzwecken und zur Datenschutzkontrolle verwendet werden. Sie sind durch geeignete Vorkehrungen gegen Missbrauch zu schützen. Protokolldaten sind nach einem Jahr zu löschen, es sei denn, sie werden für Zwecke nach Satz 1 benötigt. Danach sind sie unverzüglich zu löschen.
 
 ### § 43 Weiterleitung von Auskünften
 
@@ -861,11 +884,11 @@ Auskünfte aus dem Register an Behörden (§ 30 Abs. 5, §§ 31, 41, 43) dürfen
 
 ### § 44a Versagung der Auskunft
 
-(1) Die Registerbehörde sperrt den Datensatz einer im Register eingetragenen Person für die Auskunftserteilung, wenn eine Zeugenschutzstelle mitteilt, dass dies zum Schutz der Person als Zeuge erforderlich ist.
+(1) Die Registerbehörde sperrt den Datensatz einer im Register eingetragenen Person für die Auskunftserteilung, wenn eine Zeugenschutzstelle mitteilt, dass dies zum Schutz der Person als Zeuge oder Zeugin erforderlich ist.
 
 (2) Die Registerbehörde soll die Erteilung einer Auskunft aus dem Register über die gesperrten Personendaten versagen, soweit entgegenstehende öffentliche Interessen oder schutzwürdige Interessen Dritter nicht überwiegen. Sie gibt der Zeugenschutzstelle zuvor Gelegenheit zur Stellungnahme; die Beurteilung der Zeugenschutzstelle, dass die Versagung der Auskunft für Zwecke des Zeugenschutzes erforderlich ist, ist für die Registerbehörde bindend. Die Versagung der Auskunft bedarf keiner Begründung.
 
-(3) Die Registerbehörde legt über eine Person, über die keine Eintragung vorhanden ist, einen besonders gekennzeichneten Personendatensatz an, wenn die Zeugenschutzstelle darlegt, dass dies zum Schutze dieser Person als Zeuge vor Ausforschung durch missbräuchliche Auskunftsersuchen erforderlich ist. Über diesen Datensatz werden Auskünfte nicht erteilt. Die Registerbehörde unterrichtet die Zeugenschutzstelle über jeden Antrag auf Erteilung einer Auskunft, der zu dieser Person oder zu sonst von der Zeugenschutzstelle bestimmten Daten eingeht.
+(3) Die Registerbehörde legt über eine Person, über die keine Eintragung vorhanden ist, einen besonders gekennzeichneten Personendatensatz an, wenn die Zeugenschutzstelle darlegt, dass dies zum Schutze dieser Person als Zeuge oder Zeugin vor Ausforschung durch missbräuchliche Auskunftsersuchen erforderlich ist. Über diesen Datensatz werden Auskünfte nicht erteilt. Die Registerbehörde unterrichtet die Zeugenschutzstelle über jeden Antrag auf Erteilung einer Auskunft, der zu dieser Person oder zu sonst von der Zeugenschutzstelle bestimmten Daten eingeht.
 
 (4) Die §§ 161, 161a der Strafprozessordnung bleiben unberührt.
 
@@ -878,7 +901,7 @@ Vierter Abschnitt Tilgung
 
 (1) Eintragungen über Verurteilungen (§ 4) werden nach Ablauf einer bestimmten Frist getilgt.
 
-(2) Eine zu tilgende Eintragung wird ein Jahr nach Eintritt der Tilgungsreife aus dem Register entfernt. Während dieser Zeit darf über die Eintragung keine Auskunft erteilt werden.
+(2) Eine zu tilgende Eintragung wird ein Jahr nach Eintritt der Tilgungsreife aus dem Register entfernt. Während dieser Zeit darf über die Eintragung nur der betroffenen Person Auskunft erteilt werden.
 
 (3) Absatz 1 gilt nicht
 
@@ -929,7 +952,7 @@ c)
 Jugendstrafe von mehr als einem Jahr, außer in den Fällen der Nummer 1 Buchstabe d bis f,
 
 d)  
-Jugendstrafe bei Verurteilungen wegen einer Straftat nach den §§ 171, 180a, 181a, 183 bis 184g, 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs von mehr als einem Jahr in Fällen der Nummer 1 Buchstabe d bis f,
+Jugendstrafe bei Verurteilungen wegen einer Straftat nach den §§ 171, 180a, 181a, 183 bis 184g, 184i, 184j, 201a Absatz 3, den §§ 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs von mehr als einem Jahr in Fällen der Nummer 1 Buchstabe d bis f,
 
 3.  
 zwanzig Jahre bei Verurteilungen wegen einer Straftat nach den §§ 174 bis 180 oder 182 des Strafgesetzbuches zu einer Freiheitsstrafe oder Jugendstrafe von mehr als einem Jahr,
@@ -951,19 +974,19 @@ fünfzehn Jahrein allen übrigen Fällen.
 
 ### § 48 Anordnung der Tilgung wegen Gesetzesänderung
 
-Ist die Verurteilung lediglich wegen einer Handlung eingetragen, für die das nach der Verurteilung geltende Gesetz nicht mehr Strafe, sondern nur noch Geldbuße allein oder in Verbindung mit einer Nebenfolge androht, so ordnet die Registerbehörde auf Antrag des Verurteilten an, daß die Eintragung zu tilgen ist.
+Ist die Verurteilung ausschließlich wegen einer Handlung eingetragen, für die das nach der Verurteilung geltende Gesetz keine Strafe mehr vorsieht, oder droht das neue Gesetz für die Handlung nur noch Geldbuße allein oder Geldbuße in Verbindung mit einer Nebenfolge an, wird die Eintragung auf Antrag der betroffenen Person getilgt.
 
 ### § 49 Anordnung der Tilgung in besonderen Fällen
 
-(1) Die Registerbehörde kann auf Antrag oder von Amts wegen anordnen, daß Eintragungen entgegen den §§ 45, 46 zu tilgen sind, falls die Vollstreckung erledigt ist und das öffentliche Interesse der Anordnung nicht entgegensteht. Wohnt der Betroffene im Geltungsbereich dieses Gesetzes, so soll die Registerbehörde das erkennende Gericht und die sonst zuständige Behörde hören. Betrifft die Eintragung eine Verurteilung, durch welche eine freiheitsentziehende Maßregel der Besserung und Sicherung angeordnet worden ist, so soll sie auch einen in der Psychiatrie erfahrenen medizinischen Sachverständigen hören.
+(1) Die Registerbehörde kann auf Antrag oder von Amts wegen anordnen, daß Eintragungen entgegen den §§ 45, 46 zu tilgen sind, falls die Vollstreckung erledigt ist und das öffentliche Interesse der Anordnung nicht entgegensteht. Die Registerbehörde soll das erkennende Gericht und die sonst zuständige Behörde hören. Betrifft die Eintragung eine Verurteilung, durch welche eine freiheitsentziehende Maßregel der Besserung und Sicherung angeordnet worden ist, so soll sie auch die Stellungnahme eines oder einer in der Psychiatrie erfahrenen medizinischen Sachverständigen einholen.
 
 (2) Hat der Verurteilte infolge der Verurteilung durch ein Gericht im Geltungsbereich dieses Gesetzes die Fähigkeit, öffentliche Ämter zu bekleiden und Rechte aus öffentlichen Wahlen zu erlangen, oder das Recht, in öffentlichen Angelegenheiten zu wählen oder zu stimmen, verloren, so darf eine Anordnung nach Absatz 1 nicht ergehen, solange er diese Fähigkeit oder dieses Recht nicht wiedererlangt hat.
 
-(3) Gegen die Ablehnung einer Anordnung nach Absatz 1 steht dem Antragsteller innerhalb zwei Wochen nach der Bekanntgabe der Entscheidung die Beschwerde zu. Hilft die Registerbehörde der Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz.
+(3) Gegen die Ablehnung einer Anordnung nach Absatz 1 steht dem Antragsteller innerhalb zwei Wochen nach der Bekanntgabe der Entscheidung die Beschwerde zu. Hilft die Registerbehörde der Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz und für Verbraucherschutz.
 
 ### § 50 Zu Unrecht getilgte Eintragungen
 
-Die Registerbehörde hat vor ihrer Entscheidung darüber, ob eine zu Unrecht im Register getilgte Eintragung wieder in das Register aufgenommen wird, dem Betroffenen Gelegenheit zur Stellungnahme zu geben.
+Die Registerbehörde hat vor ihrer Entscheidung darüber, ob eine zu Unrecht im Register getilgte Eintragung wieder in das Register aufgenommen wird, der betroffenen Person Gelegenheit zur Stellungnahme zu geben.
 
 Fünfter Abschnitt Rechtswirkungen der Tilgung
 ---------------------------------------------
@@ -972,7 +995,7 @@ Fünfter Abschnitt Rechtswirkungen der Tilgung
 
 ### § 51 Verwertungsverbot
 
-(1) Ist die Eintragung über eine Verurteilung im Register getilgt worden oder ist sie zu tilgen, so dürfen die Tat und die Verurteilung dem Betroffenen im Rechtsverkehr nicht mehr vorgehalten und nicht zu seinem Nachteil verwertet werden.
+(1) Ist die Eintragung über eine Verurteilung im Register getilgt worden oder ist sie zu tilgen, so dürfen die Tat und die Verurteilung der betroffenen Person im Rechtsverkehr nicht mehr vorgehalten und nicht zu ihrem Nachteil verwertet werden.
 
 (2) Aus der Tat oder der Verurteilung entstandene Rechte Dritter, gesetzliche Rechtsfolgen der Tat oder der Verurteilung und Entscheidungen von Gerichten oder Verwaltungsbehörden, die im Zusammenhang mit der Tat oder der Verurteilung ergangen sind, bleiben unberührt.
 
@@ -984,13 +1007,16 @@ Fünfter Abschnitt Rechtswirkungen der Tilgung
 die Sicherheit der Bundesrepublik Deutschland oder eines ihrer Länder eine Ausnahme zwingend gebietet,
 
 2.  
-in einem erneuten Strafverfahren ein Gutachten über den Geisteszustand des Betroffenen zu erstatten ist, falls die Umstände der früheren Tat für die Beurteilung seines Geisteszustandes von Bedeutung sind,
+in einem erneuten Strafverfahren ein Gutachten über die Voraussetzungen der §§ 20, 21, 63, 64, 66, 66a oder 66b des Strafgesetzbuchs zu erstatten ist, falls die Umstände der früheren Tat für die Beurteilung der Schuldfähigkeit oder Gefährlichkeit der betroffenen Person von Bedeutung sind,
 
 3.  
-die Wiederaufnahme des früheren Verfahrens beantragt wird oder
+die Wiederaufnahme des früheren Verfahrens beantragt wird,
 
 4.  
-der Betroffene die Zulassung zu einem Beruf oder einem Gewerbe, die Einstellung in den öffentlichen Dienst oder die Erteilung einer Waffenbesitzkarte, eines Munitionserwerbscheins, Waffenscheins, Jagdscheins oder einer Erlaubnis nach § 27 des Sprengstoffgesetzes beantragt, falls die Zulassung, Einstellung oder Erteilung der Erlaubnis sonst zu einer erheblichen Gefährdung der Allgemeinheit führen würde; das gleiche gilt, wenn der Betroffene die Aufhebung einer die Ausübung eines Berufes oder Gewerbes untersagenden Entscheidung beantragt.
+die betroffene Person die Zulassung zu einem Beruf oder einem Gewerbe, die Einstellung in den öffentlichen Dienst oder die Erteilung einer Waffenbesitzkarte, eines Munitionserwerbscheins, Waffenscheins, Jagdscheins oder einer Erlaubnis nach § 27 des Sprengstoffgesetzes beantragt, falls die Zulassung, Einstellung oder Erteilung der Erlaubnis sonst zu einer erheblichen Gefährdung der Allgemeinheit führen würde; das gleiche gilt, wenn die betroffene Person die Aufhebung einer die Ausübung eines Berufes oder Gewerbes untersagenden Entscheidung beantragt oder
+
+5.  
+dies in gesetzlichen Bestimmungen unter Bezugnahme auf diese Vorschrift vorgesehen ist.
 
 (2) Abweichend von § 51 Absatz 1 darf eine frühere Tat ferner
 
@@ -1009,7 +1035,7 @@ Sechster Abschnitt Begrenzung von Offenbarungspflichten des Verurteilten
 
 ### § 53 Offenbarungspflicht bei Verurteilungen
 
-(1) Der Verurteilte darf sich als unbestraft bezeichnen und braucht den der Verurteilung zugrunde liegenden Sachverhalt nicht zu offenbaren, wenn die Verurteilung
+(1) Verurteilte dürfen sich als unbestraft bezeichnen und brauchen den der Verurteilung zugrunde liegenden Sachverhalt nicht zu offenbaren, wenn die Verurteilung
 
 1.  
 nicht in das Führungszeugnis oder nur in ein Führungszeugnis nach § 32 Abs. 3, 4 aufzunehmen oder
@@ -1017,7 +1043,7 @@ nicht in das Führungszeugnis oder nur in ein Führungszeugnis nach § 32 Abs. 3
 2.  
 zu tilgen ist.
 
-(2) Soweit Gerichte oder Behörden ein Recht auf unbeschränkte Auskunft haben, kann der Verurteilte ihnen gegenüber keine Rechte aus Absatz 1 Nr. 1 herleiten, falls er hierüber belehrt wird.
+(2) Soweit Gerichte oder Behörden ein Recht auf unbeschränkte Auskunft haben, können Verurteilte ihnen gegenüber keine Rechte aus Absatz 1 Nr. 1 herleiten, falls sie hierüber belehrt werden.
 
 Siebter Abschnitt Internationaler Austausch von Registerinformationen
 ---------------------------------------------------------------------
@@ -1033,7 +1059,7 @@ Die Eintragung einer Verurteilung, die nicht durch ein deutsches Gericht im Gelt
 (1) Strafrechtliche Verurteilungen, die nicht durch deutsche Gerichte im Geltungsbereich dieses Gesetzes ergangen sind, werden in das Register eingetragen, wenn
 
 1.  
-der Verurteilte Deutscher oder im Geltungsbereich dieses Gesetzes geboren oder wohnhaft ist,
+die verurteilte Person die deutsche Staatsangehörigkeit besitzt oder im Geltungsbereich dieses Gesetzes geboren oder wohnhaft ist,
 
 2.  
 wegen des der Verurteilung zugrunde liegenden oder sinngemäß umgestellten Sachverhalts auch nach dem im Geltungsbereich dieses Gesetzes geltenden Recht, ungeachtet etwaiger Verfahrenshindernisse, eine Strafe oder eine Maßregel der Besserung und Sicherung hätte verhängt werden können,
@@ -1072,7 +1098,7 @@ Wird eine eingetragene Verurteilung durch die Eintragung einer Folgemaßnahme er
 
 (1) Die Registerbehörde trägt eine Verurteilung, die nicht durch ein deutsches Gericht im Geltungsbereich dieses Gesetzes ergangen ist, ein, wenn ihr die Verurteilung von einer Behörde des Staates, der sie ausgesprochen hat, mitgeteilt worden ist und sich aus der Mitteilung nicht ergibt, daß die Voraussetzungen des § 54 nicht vorliegen.
 
-(2) Der Betroffene soll unverzüglich zu der Eintragung gehört werden, wenn sein Aufenthalt feststellbar ist. Ergibt sich, daß bei einer Verurteilung oder einem abtrennbaren Teil einer Verurteilung die Voraussetzungen des § 54 Abs. 1 nicht vorliegen, so ist die Eintragung insoweit zu entfernen. Lehnt die Registerbehörde einen Antrag des Betroffenen auf Entfernung der Eintragung ab, so steht dem Betroffenen innerhalb von zwei Wochen nach der Bekanntgabe der Entscheidung die Beschwerde zu. Hilft die Registerbehörde der Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz.
+(2) Die betroffene Person soll unverzüglich zu der Eintragung gehört werden, wenn ihr Aufenthalt feststellbar ist. Ergibt sich, daß bei einer Verurteilung oder einem abtrennbaren Teil einer Verurteilung die Voraussetzungen des § 54 Abs. 1 nicht vorliegen, so ist die Eintragung insoweit zu entfernen. Lehnt die Registerbehörde einen Antrag der betroffenen Person auf Entfernung der Eintragung ab, so steht der betroffenen Person innerhalb von zwei Wochen nach der Bekanntgabe der Entscheidung die Beschwerde zu. Hilft die Registerbehörde der Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz und für Verbraucherschutz.
 
 ### § 56 Behandlung von Eintragungen
 
@@ -1082,9 +1108,7 @@ Wird eine eingetragene Verurteilung durch die Eintragung einer Folgemaßnahme er
 
 (3) Die §§ 39 und 49 gelten entsprechend.
 
-### § 56a Mitteilung über ausländische Verurteilungen
-
-Die Registerbehörde darf der zuständigen Staatsanwaltschaft eine im Register eingetragene strafrechtliche Verurteilung, die nicht durch ein deutsches Gericht im Geltungsbereich dieses Gesetzes ergangen ist, mitteilen, wenn tatsächliche Anhaltspunkte dafür bestehen, dass die Mitteilung zum Zweck der Strafrechtspflege erforderlich ist. Kann keine zuständige Staatsanwaltschaft festgestellt werden, richtet die Registerbehörde die Mitteilung an die für ihren Sitz zuständige Staatsanwaltschaft.
+### § 56a (weggefallen)
 
 ### § 56b Speicherung zum Zweck der Auskunftserteilung an Mitgliedstaaten der Europäischen Union
 
@@ -1104,9 +1128,9 @@ fünf Jahre abgelaufen sind; § 47 Absatz 1 gilt bei der Fristberechnung entspre
 
 (1) Ersuchen von Stellen eines anderen Staates sowie von über- und zwischenstaatlichen Stellen um Erteilung einer unbeschränkten Auskunft aus dem Register oder um Erteilung eines Führungszeugnisses an Behörden werden nach den hierfür geltenden völkerrechtlichen Verträgen, soweit an ihnen nach Artikel 59 Absatz 2 Satz 1 des Grundgesetzes die gesetzgebenden Körperschaften mitgewirkt haben, von der Registerbehörde ausgeführt.
 
-(2) Soweit kein völkerrechtlicher Vertrag im Sinne des Absatzes 1 vorliegt, kann die Registerbehörde als ausführende Behörde den in Absatz 1 genannten Stellen für die gleichen Zwecke und in gleichem Umfang eine unbeschränkte Auskunft aus dem Register oder ein Führungszeugnis an Behörden erteilen wie vergleichbaren deutschen Stellen. Der Empfänger ist darauf hinzuweisen, dass er die Auskunft nur zu dem Zweck verwenden darf, für den sie erteilt worden ist. Eine Auskunft unterbleibt, soweit schutzwürdige Interessen des Betroffenen beeinträchtigt werden, insbesondere wenn im Empfängerland ein angemessener Datenschutzstandard nicht gewährleistet ist.
+(2) Soweit kein völkerrechtlicher Vertrag im Sinne des Absatzes 1 vorliegt, kann die Registerbehörde als ausführende Behörde den in Absatz 1 genannten Stellen für die gleichen Zwecke und in gleichem Umfang eine unbeschränkte Auskunft aus dem Register oder ein Führungszeugnis an Behörden erteilen wie vergleichbaren deutschen Stellen. Die empfangende Stelle ist darauf hinzuweisen, dass sie die Auskunft nur zu dem Zweck verwenden darf, für den sie erteilt worden ist. Eine Auskunft unterbleibt, soweit schutzwürdige Interessen der betroffenen Person beeinträchtigt werden, insbesondere wenn im Empfängerland ein angemessener Datenschutzstandard nicht gewährleistet ist.
 
-(3) Regelmäßige Benachrichtigungen über strafrechtliche Verurteilungen und nachfolgende Maßnahmen, die im Register eingetragen werden (Strafnachrichten), werden nach den hierfür geltenden völkerrechtlichen Verträgen, die der Mitwirkung der gesetzgebenden Körperschaften nach Artikel 59 Abs. 2 des Grundgesetzes bedurften, erstellt und übermittelt. Absatz 2 Satz 2 gilt entsprechend. Ist eine Strafnachricht übermittelt worden, wird dem Empfänger auch die Entfernung der Eintragung aus dem Register mitgeteilt.
+(3) Regelmäßige Benachrichtigungen über strafrechtliche Verurteilungen und nachfolgende Maßnahmen, die im Register eingetragen werden (Strafnachrichten), werden nach den hierfür geltenden völkerrechtlichen Verträgen, die der Mitwirkung der gesetzgebenden Körperschaften nach Artikel 59 Abs. 2 des Grundgesetzes bedurften, erstellt und übermittelt. Absatz 2 Satz 2 gilt entsprechend. Ist eine Strafnachricht übermittelt worden, wird der empfangenden Stelle auch die Entfernung der Eintragung aus dem Register mitgeteilt.
 
 (4) Die Verantwortung für die Zulässigkeit der Übermittlung trägt die übermittelnde Stelle.
 
@@ -1136,7 +1160,7 @@ in welchem Mitgliedstaat die Verurteilung ergangen ist.
 
 ### § 58 Berücksichtigung von Verurteilungen
 
-Eine strafrechtliche Verurteilung gilt, auch wenn sie nicht nach § 54 in das Register eingetragen ist, als tilgungsreif, sobald eine ihr vergleichbare Verurteilung im Geltungsbereich dieses Gesetzes tilgungsreif wäre. § 53 gilt auch zugunsten des außerhalb des Geltungsbereichs dieses Gesetzes Verurteilten.
+Eine strafrechtliche Verurteilung gilt, auch wenn sie nicht nach § 54 in das Register eingetragen ist, als tilgungsreif, sobald eine ihr vergleichbare Verurteilung im Geltungsbereich dieses Gesetzes tilgungsreif wäre. § 53 gilt auch zugunsten der außerhalb des Geltungsbereichs dieses Gesetzes Verurteilten.
 
 Dritter Teil Das Erziehungsregister
 -----------------------------------
@@ -1155,13 +1179,13 @@ Für das Erziehungsregister gelten die Vorschriften des Zweiten Teils, soweit di
 die Anordnung von Maßnahmen nach § 3 Satz 2 des Jugendgerichtsgesetzes,
 
 2.  
-die Anordnung von Erziehungsmaßregeln oder Zuchtmitteln (§§ 9 bis 16 des Jugendgerichtsgesetzes), Nebenstrafen oder Nebenfolgen (§ 8 Abs. 3, § 76 des Jugendgerichtsgesetzes) allein oder in Verbindung miteinander,
+die Anordnung von Erziehungsmaßregeln oder Zuchtmitteln sowie eines diesbezüglich verhängten Ungehorsamsarrestes (§§ 9 bis 16 des Jugendgerichtsgesetzes), Nebenstrafen oder Nebenfolgen (§ 8 Abs. 3, § 76 des Jugendgerichtsgesetzes) allein oder in Verbindung miteinander,
 
 3.  
 der Schuldspruch, der nach § 13 Absatz 2 Satz 2 Nummer 2 aus dem Zentralregister entfernt worden ist, sowie die Entscheidung, die nach § 13 Absatz 3 aus dem Zentralregister entfernt worden ist,
 
 4.  
-Entscheidungen, in denen der Richter die Auswahl und Anordnung von Erziehungsmaßregeln dem Familiengericht überläßt (§§ 53, 104 Abs. 4 des Jugendgerichtsgesetzes),
+Entscheidungen, in denen das Gericht die Auswahl und Anordnung von Erziehungsmaßregeln dem Familiengericht überläßt (§§ 53, 104 Abs. 4 des Jugendgerichtsgesetzes),
 
 5.  
 Anordnungen des Familiengerichts, die auf Grund einer Entscheidung nach Nummer 4 ergehen,
@@ -1177,7 +1201,7 @@ das Absehen von der Verfolgung nach § 45 des Jugendgerichtsgesetzes und die Ein
 9.  
 vorläufige und endgültige Entscheidungen des Familiengerichts nach § 1666 Abs. 1 und § 1666a des Bürgerlichen Gesetzbuchs sowie Entscheidungen des Familiengerichts nach § 1837 Abs. 4 in Verbindung mit § 1666 Abs. 1 und § 1666a des Bürgerlichen Gesetzbuchs, welche die Sorge für die Person des Minderjährigen betreffen; ferner die Entscheidungen, durch welche die vorgenannten Entscheidungen aufgehoben oder geändert werden.
 
-(2) In den Fällen des Absatzes 1 Nr. 7 ist zugleich die vom Richter nach § 45 Abs. 3 oder § 47 Abs. 1 Satz 1 Nr. 3 des Jugendgerichtsgesetzes getroffene Maßnahme einzutragen.
+(2) In den Fällen des Absatzes 1 Nr. 7 ist zugleich die vom Gericht nach § 45 Abs. 3 oder § 47 Abs. 1 Satz 1 Nr. 3 des Jugendgerichtsgesetzes getroffene Maßnahme einzutragen.
 
 (3) Ist ein Jugendarrest angeordnet worden, wird auch seine vollständige Nichtvollstreckung eingetragen.
 
@@ -1185,7 +1209,7 @@ vorläufige und endgültige Entscheidungen des Familiengerichts nach § 1666 Abs
 
 ### § 61 Auskunft aus dem Erziehungsregister
 
-(1) Eintragungen im Erziehungsregister dürfen - unbeschadet der §§ 42a, 42c - nur mitgeteilt werden
+(1) Eintragungen im Erziehungsregister dürfen - unbeschadet der §§ 21a, 42a - nur mitgeteilt werden
 
 1.  
 den Strafgerichten und Staatsanwaltschaften für Zwecke der Rechtspflege sowie den Justizvollzugsbehörden für Zwecke des Strafvollzugs einschließlich der Überprüfung aller im Strafvollzug tätigen Personen,
@@ -1205,17 +1229,17 @@ den für waffen- und sprengstoffrechtliche Erlaubnisse zuständigen Behörden mi
 6.  
 den Verfassungsschutzbehörden des Bundes und der Länder, dem Bundesnachrichtendienst und dem Militärischen Abschirmdienst für die diesen Behörden übertragenen Sicherheitsaufgaben, wenn eine Auskunft nach § 41 Absatz 1 Nummer 3 im Einzelfall nicht ausreicht, und mit der Maßgabe, dass nur Entscheidungen und Anordnungen nach § 60 Absatz 1 Nummer 1 bis 7 mitgeteilt werden dürfen.
 
-(2) Soweit Behörden sowohl aus dem Zentralregister als auch aus dem Erziehungsregister Auskunft zu erteilen ist, werden auf ein Ersuchen um Auskunft aus dem Zentralregister (§ 41 Abs. 4) auch die in das Erziehungsregister aufgenommenen Eintragungen mitgeteilt.
+(2) Soweit Behörden sowohl aus dem Zentralregister als auch aus dem Erziehungsregister Auskunft zu erteilen ist, werden auf ein Ersuchen um Auskunft aus dem Zentralregister (§ 41 Absatz 3) auch die in das Erziehungsregister aufgenommenen Eintragungen mitgeteilt.
 
 (3) Auskünfte aus dem Erziehungsregister dürfen nicht an andere als die in Absatz 1 genannten Behörden weitergeleitet werden.
 
 ### § 62 Suchvermerke
 
-Im Erziehungsregister können Suchvermerke unter den Voraussetzungen des § 27 nur von den Behörden niedergelegt werden, denen Auskunft aus dem Erziehungsregister erteilt wird.
+Im Erziehungsregister können Suchvermerke unter den Voraussetzungen des § 27 nur von den Behörden gespeichert werden, denen Auskunft aus dem Erziehungsregister erteilt wird.
 
 ### § 63 Entfernung von Eintragungen
 
-(1) Eintragungen im Erziehungsregister werden entfernt, sobald der Betroffene das 24. Lebensjahr vollendet hat.
+(1) Eintragungen im Erziehungsregister werden entfernt, sobald die betroffene Person das 24. Lebensjahr vollendet hat.
 
 (2) Die Entfernung unterbleibt, solange im Zentralregister eine Verurteilung zu Freiheitsstrafe, Strafarrest oder Jugendstrafe oder eine freiheitsentziehende Maßregel der Besserung und Sicherung eingetragen ist.
 
@@ -1225,9 +1249,9 @@ Im Erziehungsregister können Suchvermerke unter den Voraussetzungen des § 27 n
 
 ### § 64 Begrenzung von Offenbarungspflichten des Betroffenen
 
-(1) Eintragungen in das Erziehungsregister und die ihnen zugrunde liegenden Sachverhalte braucht der Betroffene nicht zu offenbaren.
+(1) Eintragungen in das Erziehungsregister und die ihnen zugrunde liegenden Sachverhalte braucht die betroffene Person nicht zu offenbaren.
 
-(2) Soweit Gerichte oder Behörden ein Recht auf Auskunft aus dem Erziehungsregister haben, kann der Betroffene ihnen gegenüber keine Rechte aus Absatz 1 herleiten, falls er hierüber belehrt wird.
+(2) Soweit Gerichte oder Behörden ein Recht auf Auskunft aus dem Erziehungsregister haben, kann die betroffene Person ihnen gegenüber keine Rechte aus Absatz 1 herleiten, falls sie hierüber belehrt wird.
 
 Vierter Teil Übernahme des Strafregisters beim Generalstaatsanwalt der Deutschen Demokratischen Republik
 --------------------------------------------------------------------------------------------------------
@@ -1259,7 +1283,7 @@ Für Verurteilungen, die nicht übernommen wurden, gelten die §§ 51 bis 53.
 
 ### § 64b Eintragungen und Eintragungsunterlagen
 
-(1) Die nach § 64a Abs. 1 gespeicherten Eintragungen und Eintragungsunterlagen aus dem ehemaligen Strafregister der Deutschen Demokratischen Republik sind nach dem 31. Dezember 2020 zu vernichten. Sie dürfen bis dahin den für die Rehabilitierung zuständigen Stellen für Zwecke der Rehabilitierung übermittelt werden. Eine Verwendung für andere Zwecke ist nur mit Einwilligung des Betroffenen zulässig.
+(1) Die nach § 64a Abs. 1 gespeicherten Eintragungen und Eintragungsunterlagen aus dem ehemaligen Strafregister der Deutschen Demokratischen Republik sind nach dem 31. Dezember 2020 zu vernichten. Sie dürfen bis dahin den für die Rehabilitierung zuständigen Stellen für Zwecke der Rehabilitierung übermittelt werden. Eine Verwendung für andere Zwecke ist nur mit Einwilligung der betroffenen Person zulässig.
 
 (2) Auf Anforderung darf den zuständigen Stellen mitgeteilt werden, welche Eintragungen gemäß § 64a Abs. 3 nicht in das Zentralregister oder das Erziehungsregister übernommen worden sind, soweit dies bei Richtern und Staatsanwälten wegen ihrer dienstlichen Tätigkeit in der Deutschen Demokratischen Republik für dienstrechtliche Maßnahmen oder zur Rehabilitierung Betroffener erforderlich ist. Die Mitteilung kann alle Eintragungen, die die anfordernde Stelle für ihre Entscheidung nach Satz 1 benötigt, oder nur solche Eintragungen umfassen, die bestimmte, von der anfordernden Stelle vorgegebene Eintragungsmerkmale erfüllen.
 
@@ -1289,10 +1313,10 @@ Freiheitsstrafe und Jugendstrafe von mehr als drei, aber nicht mehr als fünf Ja
 (3) Absatz 2 gilt nicht, wenn
 
 1.  
-der Betroffene als gefährlicher Gewohnheitsverbrecher oder innerhalb der letzten zehn Jahre vor dem Inkrafttreten dieses Gesetzes zu Freiheitsstrafe oder Jugendstrafe von mehr als neun Monaten verurteilt worden ist,
+die betroffene Person als gefährlicher Gewohnheitsverbrecher oder innerhalb der letzten zehn Jahre vor dem Inkrafttreten dieses Gesetzes zu Freiheitsstrafe oder Jugendstrafe von mehr als neun Monaten verurteilt worden ist,
 
 2.  
-gegen den Betroffenen auf Unterbringung in einer Heil- oder Pflegeanstalt oder auf Untersagung der Erteilung der Fahrerlaubnis für immer erkannt worden ist.
+gegen die betroffene Person auf Unterbringung in einer Heil- oder Pflegeanstalt oder auf Untersagung der Erteilung der Fahrerlaubnis für immer erkannt worden ist.
 
 (4) Nicht übernommen werden ferner Eintragungen über Entscheidungen von Verwaltungsbehörden aus der Zeit bis zum 23. Mai 1945.
 
@@ -1320,7 +1344,7 @@ Die bei dem Inkrafttreten dieses Gesetzes vorhandenen Eintragungen in der gerich
 
 (4) Verurteilungen wegen einer Straftat nach den §§ 171, 180a, 181a, 183 bis 184f, 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs, die vor dem 1. Mai 2010 in das Zentralregister eingetragen wurden, werden nach den Vorschriften dieses Gesetzes in der ab 1. Mai 2010 geltenden Fassung behandelt.
 
-(5) § 21a Satz 2 in der ab dem 26. November 2015 geltenden Fassung ist erst ab dem 30. April 2018 anzuwenden. Bis zum 30. April 2018 ist § 21a Satz 2 in der am 20. November 2015 geltenden Fassung weiter anzuwenden.
+(5) § 21 Satz 2 in der ab dem 29. Juli 2017 geltenden Fassung ist erst ab dem 1. Mai 2018 anzuwenden. Bis zum 30. April 2018 ist § 21a Satz 2 in der am 20. November 2015 geltenden Fassung weiter anzuwenden.
 
 ### § 70
 
