@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 21.2.2005 I 434;
 
 Stand  
-zuletzt geändert durch Art. 1 V v. 2.12.2011 I 2416
+zuletzt geändert durch Art. 11 G v. 25.7.2014 I 1266
 
 ### 
 
@@ -660,7 +660,7 @@ eine Ausfuhrbestätigung der Grenzzollstelle eines Mitgliedstaates, die den Ausg
 
 Hat der Unternehmer statt des Ausgangsvermerks eine von der Ausfuhrzollstelle auf elektronischem Weg übermittelte alternative Bestätigung, dass der Gegenstand ausgeführt wurde (Alternativ-Ausgangsvermerk), gilt diese als Ausfuhrnachweis.
 
-(2) Bei der Ausfuhr von für den Straßenverkehr zugelassenen Fahrzeugen muss
+(2) Bei der Ausfuhr von Fahrzeugen im Sinne des § 1b Absatz 2 Satz 1 Nummer 1 des Gesetzes, die zum bestimmungsmäßigen Gebrauch im Straßenverkehr einer Zulassung bedürfen, muss
 
 1.  
 der Beleg nach Absatz 1 auch die Fahrzeug-Identifikationsnummer im Sinne des § 6 Absatz 5 Nummer 5 der Fahrzeug-Zulassungsverordnung enthalten und
@@ -668,7 +668,7 @@ der Beleg nach Absatz 1 auch die Fahrzeug-Identifikationsnummer im Sinne des § 
 2.  
 der Unternehmer zusätzlich über eine Bescheinigung über die Zulassung, die Verzollung oder die Einfuhrbesteuerung im Drittland verfügen.
 
-Dies gilt nicht in den Fällen, in denen das Fahrzeug mit einem Ausfuhrkennzeichen ausgeführt wird, wenn aus dem Beleg nach Satz 1 die Nummer des Ausfuhrkennzeichens ersichtlich ist.
+Satz 1 Nummer 2 gilt nicht in den Fällen, in denen das Fahrzeug mit einem Ausfuhrkennzeichen ausgeführt wird, wenn aus dem Beleg nach Satz 1 Nummer 1 die Nummer des Ausfuhrkennzeichens ersichtlich ist, oder in denen das Fahrzeug nicht im Sinne der Fahrzeug-Zulassungsverordnung vom 3. Februar 2011 (BGBl. I S. 139), die durch Artikel 3 der Verordnung vom 10. Mai 2012 (BGBl. I S. 1086) geändert worden ist, in der jeweils geltenden Fassung auf öffentlichen Straßen in Betrieb gesetzt worden ist und nicht auf eigener Achse in das Drittlandsgebiet ausgeführt wird.
 
 (3) An die Stelle der Ausfuhrbestätigung nach Absatz 1 Satz 1 Nummer 2 Buchstabe d tritt bei einer Ausfuhr im gemeinsamen oder gemeinschaftlichen Versandverfahren oder bei einer Ausfuhr mit Carnets TIR, wenn diese Verfahren nicht bei einer Grenzzollstelle beginnen, eine Ausfuhrbestätigung der Abgangsstelle. Diese Ausfuhrbestätigung wird nach Eingang des Beendigungsnachweises für das Versandverfahren erteilt, sofern sich aus ihr die Ausfuhr ergibt.
 
@@ -713,7 +713,7 @@ die Unterschrift des Ausstellers des Belegs.
 
 Hat der Unternehmer statt des Ausgangsvermerks einen Alternativ-Ausgangsvermerk, gilt dieser als Ausfuhrnachweis.
 
-(2) Bei der Ausfuhr von für den Straßenverkehr zugelassenen Fahrzeugen muss
+(2) Bei der Ausfuhr von Fahrzeugen im Sinne des § 1b Absatz 2 Satz 1 Nummer 1 des Gesetzes, die zum bestimmungsmäßigen Gebrauch im Straßenverkehr einer Zulassung bedürfen, muss
 
 1.  
 der Beleg nach Absatz 1 auch die Fahrzeug-Identifikationsnummer enthalten und
@@ -721,7 +721,7 @@ der Beleg nach Absatz 1 auch die Fahrzeug-Identifikationsnummer enthalten und
 2.  
 der Unternehmer zusätzlich über eine Bescheinigung über die Zulassung, die Verzollung oder die Einfuhrbesteuerung im Drittland verfügen.
 
-Dies gilt nicht in den Fällen, in denen das Fahrzeug mit einem Ausfuhrkennzeichen ausgeführt wird, wenn aus dem Beleg nach Satz 1 die Nummer des Ausfuhrkennzeichens ersichtlich ist.
+Satz 1 Nummer 2 gilt nicht in den Fällen, in denen das Fahrzeug mit einem Ausfuhrkennzeichen ausgeführt wird, wenn aus dem Beleg nach Satz 1 Nummer 1 die Nummer des Ausfuhrkennzeichens ersichtlich ist, oder in denen das Fahrzeug nicht im Sinne der Fahrzeug-Zulassungsverordnung auf öffentlichen Straßen in Betrieb gesetzt worden ist und nicht auf eigener Achse in das Drittlandsgebiet ausgeführt wird.
 
 (3) Ist eine Ausfuhr elektronisch angemeldet worden und ist es dem Unternehmer nicht möglich oder nicht zumutbar, den Ausfuhrnachweis nach Absatz 1 Satz 1 Nummer 1 zu führen, kann dieser die Ausfuhr mit den in Absatz 1 Satz 1 Nummer 2 genannten Belegen nachweisen. In den Fällen nach Satz 1 muss der Beleg zusätzlich zu den Angaben nach Absatz 1 Satz 1 Nummer 2 die Versendungsbezugsnummer der Ausfuhranmeldung nach Artikel 796c Satz 3 der Durchführungsverordnung zum Zollkodex (Movement Reference Number – MRN) enthalten.
 
@@ -826,15 +826,15 @@ eine Bestätigung der Grenzzollstelle eines Mitgliedstaates, die den Ausgang des
 
 ### § 17a Nachweis bei innergemeinschaftlichen Lieferungen in Beförderungs- und Versendungsfällen
 
-(1) Bei innergemeinschaftlichen Lieferungen (§ 6a Absatz 1 des Gesetzes) hat der Unternehmer im Geltungsbereich des Gesetzes durch Belege nachzuweisen, dass er oder der Abnehmer den Gegenstand der Lieferung in das übrige Gemeinschaftsgebiet befördert oder versendet hat. Dies muss sich aus den Belegen eindeutig und leicht nachprüfbar ergeben.
+(1) Bei innergemeinschaftlichen Lieferungen (§ 6a Absatz 1 des Gesetzes) hat der Unternehmer im Geltungsbereich dieser Verordnung durch Belege nachzuweisen, dass er oder der Abnehmer den Gegenstand der Lieferung in das übrige Gemeinschaftsgebiet befördert oder versendet hat. Die Voraussetzung muss sich aus den Belegen eindeutig und leicht nachprüfbar ergeben.
 
-(2) Der Unternehmer hat den Nachweis nach Absatz 1 wie folgt zu führen:
+(2) Als eindeutig und leicht nachprüfbar nach Absatz 1 gilt insbesondere ein Nachweis, der wie folgt geführt wird:
 
 1.  
 durch das Doppel der Rechnung (§§ 14 und 14a des Gesetzes) und
 
 2.  
-durch eine Bestätigung des Abnehmers gegenüber dem Unternehmer oder dem mit der Beförderung beauftragten selbständigen Dritten, dass der Gegenstand der Lieferung in das übrige Gemeinschaftsgebiet gelangt ist (Gelangensbestätigung). Der Beleg hat folgende Angaben zu enthalten:
+durch eine Bestätigung des Abnehmers, dass der Gegenstand der Lieferung in das übrige Gemeinschaftsgebiet gelangt ist (Gelangensbestätigung), die folgende Angaben zu enthalten hat:
 
 a)  
 den Namen und die Anschrift des Abnehmers,
@@ -843,17 +843,104 @@ b)
 die Menge des Gegenstands der Lieferung und die handelsübliche Bezeichnung einschließlich der Fahrzeug-Identifikationsnummer bei Fahrzeugen im Sinne des § 1b Absatz 2 des Gesetzes,
 
 c)  
-im Fall der Beförderung oder Versendung durch den Unternehmer oder im Fall der Versendung durch den Abnehmer den Ort und Tag des Erhalts des Gegenstands im übrigen Gemeinschaftsgebiet und im Fall der Beförderung des Gegenstands durch den Abnehmer den Ort und Tag des Endes der Beförderung des Gegenstands im übrigen Gemeinschaftsgebiet,
+im Fall der Beförderung oder Versendung durch den Unternehmer oder im Fall der Versendung durch den Abnehmer den Ort und den Monat des Erhalts des Gegenstands im übrigen Gemeinschaftsgebiet und im Fall der Beförderung des Gegenstands durch den Abnehmer den Ort und den Monat des Endes der Beförderung des Gegenstands im übrigen Gemeinschaftsgebiet,
 
 d)  
 das Ausstellungsdatum der Bestätigung sowie
 
 e)  
-die Unterschrift des Abnehmers.
+die Unterschrift des Abnehmers oder eines von ihm zur Abnahme Beauftragten. Bei einer elektronischen Übermittlung der Gelangensbestätigung ist eine Unterschrift nicht erforderlich, sofern erkennbar ist, dass die elektronische Übermittlung im Verfügungsbereich des Abnehmers oder des Beauftragten begonnen hat.
 
-Bei einer Versendung ist es ausreichend, wenn sich die Gelangensbestätigung bei dem mit der Beförderung beauftragten selbständigen Dritten befindet und auf Verlangen der Finanzbehörde zeitnah vorgelegt werden kann. In diesem Fall muss der Unternehmer eine schriftliche Versicherung des mit der Beförderung beauftragten selbständigen Dritten besitzen, dass dieser über einen Beleg mit den Angaben des Abnehmers verfügt.
+Die Gelangensbestätigung kann als Sammelbestätigung ausgestellt werden. In der Sammelbestätigung können Umsätze aus bis zu einem Quartal zusammengefasst werden. Die Gelangensbestätigung kann in jeder die erforderlichen Angaben enthaltenden Form erbracht werden; sie kann auch aus mehreren Dokumenten bestehen, aus denen sich die geforderten Angaben insgesamt ergeben.
 
-(3) Wird der Gegenstand der Lieferung vom Unternehmer oder Abnehmer im gemeinschaftlichen Versandverfahren in das übrige Gemeinschaftsgebiet befördert, kann der Unternehmer den Nachweis hierüber abweichend von Absatz 2 auch durch eine Bestätigung der Abgangsstelle über die innergemeinschaftliche Lieferung führen, die nach Eingang des Beendigungsnachweises für das Versandverfahren erteilt wird, sofern sich daraus die Lieferung in das übrige Gemeinschaftsgebiet ergibt.
+(3) In folgenden Fällen kann der Unternehmer den Nachweis auch durch folgende andere Belege als die in Absatz 2 Nummer 2 genannte Gelangensbestätigung führen:
+
+1.  
+bei der Versendung des Gegenstands der Lieferung durch den Unternehmer oder Abnehmer:
+
+a)  
+durch einen Versendungsbeleg, insbesondere durch
+
+aa)  
+einen handelsrechtlichen Frachtbrief, der vom Auftraggeber des Frachtführers unterzeichnet ist und die Unterschrift des Empfängers als Bestätigung des Erhalts des Gegenstands der Lieferung enthält,
+
+bb)  
+ein Konnossement oder
+
+cc)  
+Doppelstücke des Frachtbriefs oder Konnossements,
+
+b)  
+durch einen anderen handelsüblichen Beleg als den Belegen nach Buchstabe a, insbesondere mit einer Bescheinigung des beauftragten Spediteurs, der folgende Angaben zu enthalten hat:
+
+aa)  
+den Namen und die Anschrift des mit der Beförderung beauftragten Unternehmers sowie das Ausstellungsdatum,
+
+bb)  
+den Namen und die Anschrift des liefernden Unternehmers sowie des Auftraggebers der Versendung,
+
+cc)  
+die Menge des Gegenstands der Lieferung und dessen handelsübliche Bezeichnung,
+
+dd)  
+den Empfänger des Gegenstands der Lieferung und den Bestimmungsort im übrigen Gemeinschaftsgebiet,
+
+ee)  
+den Monat, in dem die Beförderung des Gegenstands der Lieferung im übrigen Gemeinschaftsgebiet geendet hat,
+
+ff)  
+eine Versicherung des mit der Beförderung beauftragten Unternehmers, dass die Angaben in dem Beleg auf Grund von Geschäftsunterlagen gemacht wurden, die im Gemeinschaftsgebiet nachprüfbar sind, sowie
+
+gg)  
+die Unterschrift des mit der Beförderung beauftragten Unternehmers.
+
+Bei einer elektronischen Übermittlung des Belegs an den liefernden Unternehmer ist eine Unterschrift des mit der Beförderung beauftragten Unternehmers nicht erforderlich, sofern erkennbar ist, dass die elektronische Übermittlung im Verfügungsbereich des mit der Beförderung beauftragten Unternehmers begonnen hat,
+
+c)  
+durch eine schriftliche oder elektronische Auftragserteilung und ein von dem mit der Beförderung Beauftragten erstelltes Protokoll, das den Transport lückenlos bis zur Ablieferung beim Empfänger nachweist, oder
+
+d)  
+in den Fällen von Postsendungen, in denen eine Belegnachweisführung nach Buchstabe c nicht möglich ist: durch eine Empfangsbescheinigung eines Postdienstleisters über die Entgegennahme der an den Abnehmer adressierten Postsendung und den Nachweis über die Bezahlung der Lieferung;
+
+2.  
+bei der Versendung des Gegenstands der Lieferung durch den Abnehmer durch einen Nachweis über die Entrichtung der Gegenleistung für die Lieferung des Gegenstands von einem Bankkonto des Abnehmers sowie durch eine Bescheinigung des beauftragten Spediteurs, die folgende Angaben zu enthalten hat:
+
+a)  
+den Namen und die Anschrift des mit der Beförderung beauftragten Unternehmers sowie das Ausstellungsdatum,
+
+b)  
+den Namen und die Anschrift des liefernden Unternehmers sowie des Auftraggebers der Versendung,
+
+c)  
+die Menge des Gegenstands der Lieferung und die handelsübliche Bezeichnung,
+
+d)  
+den Empfänger des Gegenstands der Lieferung und den Bestimmungsort im übrigen Gemeinschaftsgebiet,
+
+e)  
+eine Versicherung des mit der Beförderung beauftragten Unternehmers, den Gegenstand der Lieferung an den Bestimmungsort im übrigen Gemeinschaftsgebiet zu befördern, sowie
+
+f)  
+die Unterschrift des mit der Beförderung beauftragten Unternehmers;
+
+3.  
+bei der Beförderung im gemeinschaftlichen Versandverfahren in das übrige Gemeinschaftsgebiet durch eine Bestätigung der Abgangsstelle über die innergemeinschaftliche Lieferung, die nach Eingang des Beendigungsnachweises für das Versandverfahren erteilt wird, sofern sich daraus die Lieferung in das übrige Gemeinschaftsgebiet ergibt;
+
+4.  
+bei der Lieferung verbrauchsteuerpflichtiger Waren:
+
+a)  
+bei der Beförderung verbrauchsteuerpflichtiger Waren unter Steueraussetzung und Verwendung des IT-Verfahrens EMCS (Excise Movement and Control System – EDV-gestütztes Beförderungs- und Kontrollsystem für verbrauchsteuerpflichtige Waren) durch die von der zuständigen Behörde des anderen Mitgliedstaates validierte EMCS-Eingangsmeldung,
+
+b)  
+bei der Beförderung verbrauchsteuerpflichtiger Waren des steuerrechtlich freien Verkehrs durch die dritte Ausfertigung des vereinfachten Begleitdokuments, das dem zuständigen Hauptzollamt für Zwecke der Verbrauchsteuerentlastung vorzulegen ist;
+
+5.  
+bei der Lieferung von Fahrzeugen, die durch den Abnehmer befördert werden und für die eine Zulassung für den Straßenverkehr erforderlich ist, durch einen Nachweis über die Zulassung des Fahrzeugs auf den Erwerber im Bestimmungsmitgliedstaat der Lieferung.
+
+Der Beleg nach Satz 1 muss bei der Lieferung eines Fahrzeugs im Sinne des § 1b Absatz 2 des Gesetzes zusätzlich dessen Fahrzeug-Identifikationsnummer enthalten. In den Fällen von Satz 1 Nummer 1 *gilt Absatz 2 Satz 2 bis 4 entsprechend*. Bestehen in den Fällen des Satzes 1 Nummer 2 begründete Zweifel, dass der Liefergegenstand tatsächlich in das übrige Gemeinschaftsgebiet gelangt ist, hat der Unternehmer den Nachweis nach Absatz 1 oder mit den übrigen Belegen nach den Absätzen 2 oder 3 zu führen.
+
+§ 17a Abs. 3 Satz 3 Kursivdruck: Müsste richtig "gilt Absatz 2 Nummer 2 Satz 2 bis 4 entsprechend" lauten
 
 ### § 17b Nachweis bei innergemeinschaftlichen Lieferungen in Bearbeitungs- oder Verarbeitungsfällen
 
@@ -951,19 +1038,19 @@ Bei Umsätzen für die Seeschiffahrt und für die Luftfahrt (§ 8 des Gesetzes) 
 
 (1) Bei einer Leistung, die sich unmittelbar auf einen Gegenstand der Ausfuhr bezieht oder auf einen eingeführten Gegenstand bezieht, der im externen Versandverfahren in das Drittlandsgebiet befördert wird (§ 4 Nr. 3 Satz 1 Buchstabe a Doppelbuchstabe aa des Gesetzes), muss der Unternehmer durch Belege die Ausfuhr oder Wiederausfuhr des Gegenstands nachweisen. Die Voraussetzung muss sich aus den Belegen eindeutig und leicht nachprüfbar ergeben. Die Vorschriften über den Ausfuhrnachweis in den §§ 9 bis 11 sind entsprechend anzuwenden.
 
-(2) Bei einer Leistung, die sich auf einen Gegenstand der Einfuhr in das Gebiet eines Mitgliedstaates der Europäischen Gemeinschaft bezieht (§ 4 Nr. 3 Satz 1 Buchstabe a Doppelbuchstabe bb des Gesetzes), muss der Unternehmer durch Belege nachweisen, dass die Kosten für diese Leistung in der Bemessungsgrundlage für die Einfuhr enthalten sind.
+(2) Bei einer Leistung, die sich auf einen Gegenstand der Einfuhr in das Gebiet eines Mitgliedstaates der Europäischen Union bezieht (§ 4 Nr. 3 Satz 1 Buchstabe a Doppelbuchstabe bb des Gesetzes), muss der Unternehmer durch Belege nachweisen, dass die Kosten für diese Leistung in der Bemessungsgrundlage für die Einfuhr enthalten sind.
 
 (3) Der Unternehmer muss die Nachweise im Geltungsbereich dieser Verordnung führen.
 
 ### § 21 Buchmäßiger Nachweis bei steuerfreien Leistungen, die sich auf Gegenstände der Ausfuhr oder Einfuhr beziehen
 
-Bei einer Leistung, die sich auf einen Gegenstand der Ausfuhr, auf einen Gegenstand der Einfuhr in das Gebiet eines Mitgliedstaates der Europäischen Gemeinschaft oder auf einen eingeführten Gegenstand bezieht, der im externen Versandverfahren in das Drittlandsgebiet befördert wird (§ 4 Nr. 3 Satz 1 Buchstabe a des Gesetzes), ist § 13 Abs. 1 und Abs. 2 Nr. 1 bis 4 entsprechend anzuwenden. Zusätzlich soll der Unternehmer aufzeichnen:
+Bei einer Leistung, die sich auf einen Gegenstand der Ausfuhr, auf einen Gegenstand der Einfuhr in das Gebiet eines Mitgliedstaates der Europäischen Union oder auf einen eingeführten Gegenstand bezieht, der im externen Versandverfahren in das Drittlandsgebiet befördert wird (§ 4 Nr. 3 Satz 1 Buchstabe a des Gesetzes), ist § 13 Abs. 1 und Abs. 2 Nr. 1 bis 4 entsprechend anzuwenden. Zusätzlich soll der Unternehmer aufzeichnen:
 
 1.  
 bei einer Leistung, die sich auf einen Gegenstand der Ausfuhr bezieht oder auf einen eingeführten Gegenstand bezieht, der im externen Versandverfahren in das Drittlandsgebiet befördert wird, dass der Gegenstand ausgeführt oder wiederausgeführt worden ist;
 
 2.  
-bei einer Leistung, die sich auf einen Gegenstand der Einfuhr in das Gebiet eines Mitgliedstaates der Europäischen Gemeinschaft bezieht, dass die Kosten für die Leistung in der Bemessungsgrundlage für die Einfuhr enthalten sind.
+bei einer Leistung, die sich auf einen Gegenstand der Einfuhr in das Gebiet eines Mitgliedstaates der Europäischen Union bezieht, dass die Kosten für die Leistung in der Bemessungsgrundlage für die Einfuhr enthalten sind.
 
 - Zu § 4 Nr. 5 des Gesetzes
 ---------------------------
@@ -1360,9 +1447,10 @@ im Inland nur innergemeinschaftliche Erwerbe und daran anschließende Lieferunge
 4.  
 im Inland als Steuerschuldner nur Umsätze im Sinne des § 3a Abs. 5 des Gesetzes erbracht hat und von dem Wahlrecht nach § 18 Abs. 4c des Gesetzes Gebrauch gemacht hat oder diese Umsätze in einem anderen Mitgliedstaat erklärt sowie die darauf entfallende Steuer entrichtet hat.
 
-Ein im Ausland ansässiger Unternehmer im Sinne des Satzes 1 ist ein Unternehmer, der weder im Inland noch auf der Insel Helgoland oder in einem der in § 1 Absatz 3 des Gesetzes bezeichneten Gebiete einen Wohnsitz, seinen Sitz, seine Geschäftsleitung oder eine Betriebsstätte hat; maßgebend hierfür ist der jeweilige Vergütungszeitraum im Sinne des § 60, für den der Unternehmer eine Vergütung beantragt.
+Ein im Ausland ansässiger Unternehmer im Sinne des Satzes 1 ist ein Unternehmer, der im Inland, auf der Insel Helgoland und in einem der in *§ 1 Absatz 3* bezeichneten Gebiete weder einen Wohnsitz, seinen gewöhnlichen Aufenthalt, seinen Sitz, seine Geschäftsleitung noch eine Betriebsstätte hat; dies gilt auch, wenn der Unternehmer ausschließlich einen Wohnsitz oder einen gewöhnlichen Aufenthaltsort im Inland, aber seinen Sitz, den Ort der Geschäftsleitung oder eine Betriebsstätte im Ausland hat. Maßgebend für die Ansässigkeit ist der jeweilige Vergütungszeitraum im Sinne des § 60, für den der Unternehmer eine Vergütung beantragt.
 
 (+++ § 59: Zur Anwendung vgl. § 74a +++)
+§ 59 Satz 2 Kursivdruck: Müsste richtig "§ 1 Absatz 3 des Gesetzes" lauten
 
 ### § 60 Vergütungszeitraum
 
@@ -1435,9 +1523,9 @@ Bei der Anwendung des § 17 Abs. 1 Satz 6 des Gesetzes werden die Entgeltsminder
 
 (5) Der Unternehmer kann die Aufzeichnungspflicht nach § 22 Abs. 2 Nr. 5 des Gesetzes in der Weise erfüllen, dass er die Entgelte oder Teilentgelte und die auf sie entfallenden Steuerbeträge (Vorsteuern) jeweils in einer Summe, getrennt nach den in den Eingangsrechnungen angewandten Steuersätzen, aufzeichnet. Am Schluss jedes Voranmeldungszeitraums hat der Unternehmer die Summe der Entgelte und Teilentgelte und die Summe der Vorsteuerbeträge zu errechnen und aufzuzeichnen.
 
-### § 64 Aufzeichnung im Falle der Einfuhr
+### § 64 Aufzeichnung im Fall der Einfuhr
 
-Der Aufzeichnungspflicht nach § 22 Abs. 2 Nr. 6 des Gesetzes ist genügt, wenn die entrichtete oder in den Fällen des § 16 Abs. 2 Satz 4 des Gesetzes zu entrichtende Einfuhrumsatzsteuer mit einem Hinweis auf einen entsprechenden zollamtlichen Beleg aufgezeichnet wird.
+Der Aufzeichnungspflicht nach § 22 Absatz 2 Nummer 6 des Gesetzes ist genügt, wenn die entstandene Einfuhrumsatzsteuer mit einem Hinweis auf einen entsprechenden zollamtlichen Beleg aufgezeichnet wird.
 
 ### § 65 Aufzeichnungspflichten der Kleinunternehmer
 
@@ -1589,6 +1677,8 @@ bei Lieferungen und sonstigen Leistungen, die von einer deutschen Behörde für 
 (1) Die §§ 59 bis 61 in der Fassung des Artikels 8 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) und § 61a sind auf Anträge auf Vergütung von Vorsteuerbeträgen anzuwenden, die nach dem 31. Dezember 2009 gestellt werden.
 
 (2) Für Wirtschaftsgüter, die vor dem 1. Januar 2012 angeschafft oder hergestellt worden sind, ist § 44 Absatz 3 und 4 in der am 31. Dezember 2011 geltenden Fassung weiterhin anzuwenden.
+
+(3) Für bis zum 30. September 2013 ausgeführte innergemeinschaftliche Lieferungen kann der Unternehmer den Nachweis der Steuerbefreiung gemäß den §§ 17a bis 17c in der am 31. Dezember 2011 geltenden Fassung führen.
 
 ### § 75 Berlin-Klausel
 
