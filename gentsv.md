@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 14.3.1995 I 297;
 
 Stand  
-zuletzt geändert durch Art. 4 V v. 18.12.2008 I 2768
+zuletzt geändert durch Art. 57 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -188,7 +188,7 @@ Werden subgenomische Nukleinsäureabschnitte übertragen, die für hochwirksame 
 
 (5) Bei Anwendung biologischer Sicherheitsmaßnahmen nach § 6 kann das nach den Absätzen 1 bis 4 ermittelte Gefährdungspotential des gentechnisch veränderten Organismus niedriger bewertet werden.
 
-(6) Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz veröffentlicht regelmäßig nach Anhörung der Zentralen Kommission für die Biologische Sicherheit im Bundesanzeiger eine Liste mit Legaleinstufungen von Mikroorganismen nach dem geltenden EG-Arbeitsschutzrecht sowie von Organismen, die den Risikogruppen nach den allgemeinen Kriterien gemäß Absatz 1 Satz 1 zugeordnet wurden.
+(6) Das Bundesministerium für Ernährung und Landwirtschaft veröffentlicht regelmäßig nach Anhörung der Zentralen Kommission für die Biologische Sicherheit im Bundesanzeiger eine Liste mit Legaleinstufungen von Mikroorganismen nach dem geltenden EG-Arbeitsschutzrecht sowie von Organismen, die den Risikogruppen nach den allgemeinen Kriterien gemäß Absatz 1 Satz 1 zugeordnet wurden.
 
 ### § 6 Biologische Sicherheitsmaßnahmen
 
