@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 18.11.2004 I 2855;
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 12.2.2009 I 320
+Zuletzt geändert durch Art. 5a G v. 13.5.2015 I 706
 
 ### 
 
@@ -19,11 +19,11 @@ Zuletzt geändert durch Art. 2 V v. 12.2.2009 I 320
 
 (1) Soldatinnen und Soldaten haben nach Maßgabe des § 15 Absatz 1 oder 1a des Bundeselterngeld- und Elternzeitgesetzes Anspruch auf Elternzeit unter Wegefall der Geld- und Sachbezüge mit Ausnahme der unentgeltlichen truppenärztlichen Versorgung und ohne Leistungen nach dem Unterhaltssicherungsgesetz.
 
-(2) Der Anspruch auf Elternzeit besteht bis zur Vollendung des dritten Lebensjahres des Kindes, bei einem angenommenen, in Vollzeitpflege oder in Adoptionspflege genommenen Kind bis zu drei Jahren ab der Aufnahme bei der berechtigten Person, längstens bis zur Vollendung des achten Lebensjahres des Kindes. Ein Anteil von bis zu zwölf Monaten kann jedoch zu einem späteren Zeitpunkt nach Maßgabe des § 28 Abs. 5 Satz 1 Nr. 1 des Soldatengesetzes genommen werden. Insgesamt kann die Elternzeit auf bis zu vier Zeitabschnitte verteilt werden. Die Übertragung eines Anteils der Elternzeit muss rechtzeitig vor Beginn des zu übertragenden Zeitraums beantragt werden. Sie bedarf nicht der Zustimmung der Elternzeit erteilenden Stelle.
+(2) Der Anspruch auf Elternzeit besteht bis zur Vollendung des dritten Lebensjahres des Kindes, bei einem angenommenen, in Vollzeitpflege oder in Adoptionspflege genommenen Kind bis zu drei Jahren ab der Aufnahme bei der berechtigten Person, längstens bis zur Vollendung des achten Lebensjahres des Kindes. Ein Anteil von bis zu 24 Monaten kann jedoch zu einem späteren Zeitpunkt nach Maßgabe des § 28 Abs. 5 Satz 1 Nr. 1 des Soldatengesetzes genommen werden. Insgesamt kann die Elternzeit auf bis zu vier Zeitabschnitte verteilt werden. Die Übertragung eines Anteils der Elternzeit muss rechtzeitig vor Beginn des zu übertragenden Zeitraums beantragt werden. Sie bedarf nicht der Zustimmung der Elternzeit erteilenden Stelle.
 
 (3) Die Elternzeit steht beiden Eltern zu; sie können sie, auch anteilig, jeweils allein oder gemeinsam nehmen. Satz 1 gilt auch für Adoptiveltern, Adoptivpflegeeltern und Vollzeitpflegeeltern.
 
-(4) Die Elternzeit kann vorzeitig beendet oder im Rahmen des Absatzes 2 verlängert werden, wenn die nach § 3 Abs. 1 zuständige Stelle zustimmt. Die vorzeitige Beendigung wegen der Geburt eines weiteren Kindes oder wegen eines besonderen Härtefalles (§ 7 Absatz 2 Satz 3 des Bundeselterngeld- und Elternzeitgesetzes) kann nur innerhalb von vier Wochen nach Antragstellung aus zwingenden dienstlichen Gründen abgelehnt werden. Eine vorzeitige Beendigung der Elternzeit zum Zwecke der Inanspruchnahme der Beschäftigungsverbote nach § 5 Abs. 1 Satz 1 der Mutterschutzverordnung für Soldatinnen ist nicht zulässig. Die Elternzeit ist auf Wunsch zu verlängern, wenn ein vorgesehener Wechsel in der Anspruchsberechtigung aus einem wichtigen Grund nicht erfolgen kann.
+(4) Die Elternzeit kann vorzeitig beendet oder im Rahmen des Absatzes 2 verlängert werden, wenn die nach § 3 Abs. 1 zuständige Stelle zustimmt. Die vorzeitige Beendigung wegen der Geburt eines weiteren Kindes oder wegen eines besonderen Härtefalles (§ 7 Absatz 2 Satz 3 des Bundeselterngeld- und Elternzeitgesetzes) kann nur innerhalb von vier Wochen nach Antragstellung aus zwingenden dienstlichen Gründen abgelehnt werden. Die Elternzeit kann zur Inanspruchnahme der Schutzfristen nach § 5 Absatz 1 Satz 1 der Mutterschutzverordnung für Soldatinnen auch ohne Zustimmung des Dienstherrn vorzeitig beendet werden; in diesen Fällen soll die Soldatin die Beendigung der Elternzeit rechtzeitig mitteilen. Die Elternzeit ist auf Wunsch zu verlängern, wenn ein vorgesehener Wechsel in der Anspruchsberechtigung aus einem wichtigen Grund nicht erfolgen kann.
 
 (5) Stirbt das Kind während der Elternzeit, so endet diese spätestens drei Wochen nach dem Tod des Kindes.
 
