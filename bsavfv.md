@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 28.9.2004 I 2552;
 
 Stand  
-zuletzt geändert durch Art. 1 V v. 7.3.2012 I 451
+zuletzt geändert durch Art. 4 Abs. 83 G v. 18.7.2016 I 1666
 
 ### 
 
@@ -85,7 +85,7 @@ Sortenzulassung.
 (3) Bei Rebe und Baumarten kann das Bundessortenamt auf Antrag die Registerprüfung später beginnen, und zwar bei
 
 1.  
-Sorten nach Artengruppe 6 der Anlage 2 bis zur Zulassung als Ausgangsmaterial nach § 4 des Forstvermehrungsgutgesetzes vom 22. Mai 2002 (BGBl. I S. 1658) in der jeweils geltenden Fassung;
+Sorten von Baumarten, soweit das Vermehrungsgut hinsichtlich des Inverkehrbringens dem Forstvermehrungsgutgesetz unterliegt, bis zur Zulassung als Ausgangsmaterial nach § 4 des Forstvermehrungsgutgesetzes vom 22. Mai 2002 (BGBl. I S. 1658) in der jeweils geltenden Fassung;
 
 2.  
 Sorten von Obstarten einschließlich Unterlagssorten sowie von Gehölzen für den Straßen- und Landschaftsbau bis längstens 15 Jahre nach der Antragstellung;
@@ -183,8 +183,8 @@ wenn Unterlagen vorliegen, die für die Anerkennung und die Nachprüfung die gle
 
 (2) Das Bundessortenamt stellt auf Antrag fest, ob die Voraussetzungen nach Absatz 1 vorliegen, und erteilt dem Antragsteller hierüber einen Bescheid.
 
-Abschnitt 3 Kosten, Verkehr mit anderen Stellen
------------------------------------------------
+Abschnitt 3 Gebühren und Auslagen
+---------------------------------
 
 ### 
 
@@ -192,11 +192,11 @@ Abschnitt 3 Kosten, Verkehr mit anderen Stellen
 
 (1) Die Gebührentatbestände und Gebührensätze bestimmen sich nach dem jeweiligen Gebührenverzeichnis (Anlagen 2 und 3).
 
-(2) Das Bundessortenamt erhebt nur die in § 10 Abs. 1 Nr. 1 bis 3 und 5 des Verwaltungskostengesetzes bezeichneten Auslagen.
+(2) Das Bundessortenamt erhebt nur die in § 10 Abs. 1 Nr. 1 bis 3 und 5 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung bezeichneten Auslagen.
 
 ### § 13 Prüfungsgebühren
 
-(1) Die Prüfungsgebühren (Gebührennummern 102, 202, 203, 204, 222 und 232 der Anlage 2) werden, soweit in der Anlage nichts anderes bestimmt ist, für jede angefangene Prüfungsperiode erhoben. Die Gebührenschuld entsteht für jede Prüfungsperiode zu dem vom Bundessortenamt bestimmten Zeitpunkt. Die Gebühren werden nicht erhoben für eine Prüfungsperiode, in der das Bundessortenamt die Prüfung der Sorte oder Erhaltungszüchtung aus einem vom Antragsteller nicht zu vertretenden Grund nicht begonnen hat.
+(1) Die Prüfungsgebühren (Gebührennummern 102, 202, 203, 204, 222, 232 und 251 der Anlage 2) werden, soweit in der Anlage nichts anderes bestimmt ist, für jede angefangene Prüfungsperiode erhoben. Die Gebührenschuld entsteht für jede Prüfungsperiode zu dem vom Bundessortenamt bestimmten Zeitpunkt. Die Gebühren werden nicht erhoben für eine Prüfungsperiode, in der das Bundessortenamt die Prüfung der Sorte oder Erhaltungszüchtung aus einem vom Antragsteller nicht zu vertretenden Grund nicht begonnen hat.
 
 (2) Können bei Sorten mehrjähriger Arten wegen der artbedingten Entwicklung der Pflanzen die Ausprägungen der Merkmale oder Eigenschaften in einer Prüfungsperiode nicht oder nicht vollständig festgestellt werden, so wird für diese Prüfungsperiode die Hälfte der Prüfungsgebühren erhoben.
 
@@ -233,9 +233,9 @@ Abschnitt 4 Schlussvorschriften
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und der Kommission der Europäischen Gemeinschaft obliegt dem Bundessortenamt in den Angelegenheiten, für die es nach § 37 des Saatgutverkehrsgesetzes zuständig ist.
 
-### § 16 Übergangsvorschrift
+### § 16 Übergangsregelung
 
-Prüfungsgebühren, bei denen die Gebührenschuld nach § 13 Absatz 1 Satz 2 bis zum 1. Januar 2010 entstanden ist, sind nach den bis zum 8. Oktober 2009 geltenden Vorschriften dieser Verordnung zu erheben.
+Prüfungsgebühren, bei denen die Gebührenschuld nach § 13 Absatz 1 Satz 2 vor dem 1. Januar 2016 entstanden ist, sind nach den bis zum 31. Dezember 2015 geltenden Vorschriften dieser Verordnung zu erheben.
 
 ### § 17
 
@@ -302,10 +302,9 @@ Beispiel 5: Anlage Foto1.jpg.
 5.  
 Die Anlagen können für die Übersendung in einer Archivdatei des Formates ZIP zusammengefasst werden. Das ZIP-Archiv darf keine anderen ZIP-Archive und keine Verzeichnisstrukturen enthalten. In einem ZIP-Archiv sollen nur Dateien abgelegt werden, die zu einem Antrag gehören – Beispiel 6: Anlage.zip.
 
-### Anlage 2 (zu § 2 Absatz 3, §§ 12 bis 14)Gebührenverzeichnis
+### Anlage 2 (zu §§ 12 bis 14)Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2009 3233 - 3239;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2014, 1938 - 1944)
 
 **Vorbemerkungen**
 
@@ -313,29 +312,62 @@ Die im Gebührenverzeichnis aufgeführten Artengruppen werden wie folgt gebildet
 
 1   
 **Artengruppe 1
-Getreide einschließlich Mais**Unterartengruppe 1.1
-Winterweichweizen, Wintergerste, Winterroggen, Wintertriticale, Sommergerste, MaisUnterartengruppe 1.2
-Sommerhafer, Sommerweichweizen, Mohrenhirse, Sudangras und Hybriden aus der Kreuzung von Sorghum bicolor x Sorghum sudanenseUnterartengruppe 1.3
+Getreide einschließlich Mais**
+
+  
+Unterartengruppe 1.1
+Winterweichweizen, Wintergerste, Winterroggen, Wintertriticale, Sommergerste, Mais
+
+  
+Unterartengruppe 1.2
+Sommerhafer, Sommerweichweizen, Mohrenhirse, Sudangras und Hybriden aus der Kreuzung von Sorghum bicolor x Sorghum sudanense
+
+  
+Unterartengruppe 1.3
 Sonstige Getreidearten
 
 2   
 **Artengruppe 2
-Futterpflanzen**Unterartengruppe 2.1
-Deutsches WeidelgrasUnterartengruppe 2.2
-Welsches Weidelgras, Einjähriges Weidelgras, Bastardweidelgras, Schafschwingel, Rotschwingel, Rohrschwingel, Wiesenschwingel, Wiesenrispe, Wiesenlieschgras, Ölrettich, Futtererbse, AckerbohneUnterartengruppe 2.3
+Futterpflanzen**
+
+  
+Unterartengruppe 2.1
+Deutsches Weidelgras
+
+  
+Unterartengruppe 2.2
+Welsches Weidelgras, Einjähriges Weidelgras, Bastardweidelgras, Schafschwingel, Rotschwingel, Rohrschwingel, Wiesenschwingel, Wiesenrispe, Wiesenlieschgras, Ölrettich, Futtererbse, Ackerbohne
+
+  
+Unterartengruppe 2.3
 Sonstige Futterpflanzen
 
 3   
 **Artengruppe 3
-Öl- und Faserpflanzen**Unterartengruppe 3.1
-WinterrapsUnterartengruppe 3.2
-Sommerraps, Senfarten, SonnenblumeUnterartengruppe 3.3
+Öl- und Faserpflanzen**
+
+  
+Unterartengruppe 3.1
+Winterraps
+
+  
+Unterartengruppe 3.2
+Sommerraps, Senfarten, Sonnenblume
+
+  
+Unterartengruppe 3.3
 Sonstige Öl- und Faserpflanzen
 
 4   
 **Artengruppe 4
-Rüben**Unterartengruppe 4.1
-ZuckerrübenUnterartengruppe 4.2
+Rüben**
+
+  
+Unterartengruppe 4.1
+Zuckerrüben
+
+  
+Unterartengruppe 4.2
 Runkelrüben
 
 5   
@@ -364,8 +396,14 @@ Gehölzarten**
 
 11   
 **Artengruppe 11
-Zierpflanzenarten**Unterartengruppe 11.1
-Rosen, Pelargonien, Impatiens, Petunien, Calluna, Kalanchoe, CalibrachoaUnterartengruppe 11.2
+Zierpflanzenarten**
+
+  
+Unterartengruppe 11.1
+Rosen, Pelargonien, Impatiens, Petunien, Calluna, Kalanchoe, Calibrachoa
+
+  
+Unterartengruppe 11.2
 Sonstige Zierpflanzenarten
 
 Gebühren-
@@ -403,11 +441,11 @@ Entscheidung über die Erteilung des Sortenschutzes
 
 § 22
 
-  520
+  600
 
 102
 
-Registerprüfung
+**Registerprüfung**
 
 § 26 Abs. 1 bis 5
 
@@ -415,115 +453,115 @@ Registerprüfung
 
 bei Sorten der Unterartengruppe 1.1
 
-1 400
+1 610
 
 102.2
 
 bei Sorten der Unterartengruppe 1.2
 
-1 000
+1 150
 
 102.3
 
 bei Sorten der Unterartengruppe 1.3
 
-  800
+  920
 
 102.4
 
 bei Sorten der Unterartengruppe 2.1
 
-1 200
+1 380
 
 102.5
 
 bei Sorten der Unterartengruppe 2.2
 
-1 000
+1 150
 
 102.6
 
 bei Sorten der Unterartengruppe 2.3
 
-  800
+  920
 
 102.7
 
 bei Sorten der Unterartengruppe 3.1
 
-1 400
+1 610
 
 102.8
 
 bei Sorten der Unterartengruppe 3.2
 
-1 000
+1 150
 
 102.9
 
 bei Sorten der Unterartengruppe 3.3
 
-  800
+  920
 
 102.10
 
 bei Sorten der Unterartengruppe 4.1
 
-1 000
+1 150
 
 102.11
 
 bei Sorten der Unterartengruppe 4.2
 
-  800
+  920
 
 102.12
 
 bei Sorten der Artengruppe 5
 
-1 300
+1 500
 
 102.13
 
 bei Sorten der Artengruppe 6
 
-1 300
+1 500
 
 102.14
 
 bei Sorten der Artengruppe 7
 
-  800
+  920
 
 102.15
 
 bei Sorten der Artengruppe 8
 
-1 100
+1 270
 
 102.16
 
 bei Sorten der Artengruppe 9
 
-1 100
+1 270
 
 102.17
 
 bei Sorten der Artengruppe 10
 
-1 100
+1 270
 
 102.18
 
 bei Sorten der Unterartengruppe 11.1
 
-1 100
+1 270
 
 102.19
 
 bei Sorten der Unterartengruppe 11.2
 
-  800
+  920
 
 102.20
 
@@ -531,7 +569,7 @@ bei Übernahme vollständiger Anbauprüfungs- und Untersuchungsergebnisse einer 
 
 § 26 Abs. 2
 
-  310
+  360
 
 Gebühren-
 nummer
@@ -606,81 +644,81 @@ bei Sorten, für die der Sortenschutz nicht ruht
 
 1. Schutzjahr
 
-250
+  290
 
-150
+170
 
- 50
+ 60
 
 110.1.2
 
 2. Schutzjahr
 
-300
+  350
 
-200
+230
 
-100
+120
 
 110.1.3
 
 3. Schutzjahr
 
-400
+  460
 
-250
+290
 
-150
+170
 
 110.1.4
 
 4. Schutzjahr
 
-500
+  580
 
-300
+350
 
-200
+230
 
 110.1.5
 
 5. Schutzjahr
 
-600
+  690
 
-350
+400
 
-250
+290
 
 110.1.6
 
 6. Schutzjahr
 
-700
+  810
 
-400
+460
 
-300
+350
 
 110.1.7
 
 7. Schutzjahr
 
-800
+  920
 
-500
+580
 
-300
+350
 
 110.1.8
 
 8. Schutzjahr und folgende je
 
-900
+1 040
 
-600
+690
 
-300
+350
 
 110.2
 
@@ -688,11 +726,11 @@ bei Sorten, für die der Sortenschutz ruht und keine Sortenzulassung nach § 30 
 
 § 10c
 
-150
+170
 
-100
+120
 
- 50
+ 60
 
 Gebühren-
 nummer
@@ -723,7 +761,7 @@ Erteilung eines Zwangsnutzungsrechtes
 
 § 12 Abs. 1
 
-620
+710
 
 122
 
@@ -741,7 +779,7 @@ Rücknahme oder Widerruf einer Erteilung des Sortenschutzes
 § 31 Abs. 2 bis 4
 Nr. 1 und 2
 
-520
+600
 
 124
 
@@ -755,7 +793,7 @@ gegen die Zurückweisung eines Sortenschutzantrags oder die Rücknahme oder den 
 § 31 Abs. 2 bis 4
 Nr. 1 und 2
 
-520
+600
 
 124.2
 
@@ -763,13 +801,13 @@ gegen die Entscheidung über einen Antrag auf ein Zwangsnutzungsrecht
 
 § 12 Abs. 1
 
-620
+710
 
 124.3
 
 gegen eine andere Entscheidung
 
-160
+180
 
 125
 
@@ -777,7 +815,7 @@ Abgabe eigener Prüfungsergebnisse zur Vorlage bei einer anderen Stelle im Ausla
 
 § 26 Abs. 5
 
-310
+360
 
 Gebühren-
 nummer
@@ -814,7 +852,7 @@ Entscheidung über die Sortenzulassung
 
 § 42
 
-  370
+  430
 
 202
 
@@ -826,79 +864,79 @@ Entscheidung über die Sortenzulassung
 
 bei Sorten der Unterartengruppe 1.1
 
-1 400
+1 610
 
 202.2
 
 bei Sorten der Unterartengruppe 1.2
 
-1 000
+1 150
 
 202.3
 
 bei Sorten der Unterartengruppe 1.3
 
-  800
+  920
 
 202.4
 
 bei Sorten der Unterartengruppe 2.1
 
-1 200
+1 380
 
 202.5
 
 bei Sorten der Unterartengruppe 2.2
 
-1 000
+1 150
 
 202.6
 
 bei Sorten der Unterartengruppe 2.3
 
-  800
+  920
 
 202.7
 
 bei Sorten der Unterartengruppe 3.1
 
-1 400
+1 610
 
 202.8
 
 bei Sorten der Unterartengruppe 3.2
 
-1 000
+1 150
 
 202.9
 
 bei Sorten der Unterartengruppe 3.3
 
-  800
+  920
 
 202.10
 
 bei Sorten der Unterartengruppe 4.1
 
-1 000
+1 150
 
 202.11
 
 bei Sorten der Unterartengruppe 4.2
 
-  800
+  920
 
 202.12
 
 bei Sorten der Artengruppe 5
 
-1 300
+1 500
 
 202.13
 
 bei Sorten der Artengruppe 6
 
-1 300
+1 500
 
 202.13.1
 
@@ -906,49 +944,49 @@ für jeden weiteren Klon von Reben zusätzlich – einmalig
 
 § 42 Abs. 4a
 
-  150
+  170
 
 202.14
 
 bei Sorten der Artengruppe 7
 
-  800
+  920
 
 202.15
 
 bei Sorten der Artengruppe 8
 
-1 100
+1 270
 
 202.16
 
 bei Sorten der Artengruppe 9
 
-1 100
+1 270
 
 202.17
 
 bei Sorten der Artengruppe 10
 
-1 100
+1 270
 
 202.18
 
 bei Sorten der Unterartengruppe 11.1
 
-1 100
+1 270
 
 202.19
 
 bei Sorten der Unterartengruppe 11.2
 
-  800
+  920
 
 202.20
 
 bei Übernahme vollständiger Anbauprüfungs- und Untersuchungsergebnisse einer anderen Stelle, einmalig
 
-  310
+  360
 
 203
 
@@ -960,79 +998,79 @@ bei Übernahme vollständiger Anbauprüfungs- und Untersuchungsergebnisse einer 
 
 bei Sorten der Unterartengruppe 1.1
 
-2 900
+3 340
 
 203.2
 
 bei Sorten der Unterartengruppe 1.2
 
-1 900
+2 190
 
 203.3
 
 bei Sorten der Unterartengruppe 1.3
 
-1 200
+1 380
 
 203.4
 
 bei Sorten der Unterartengruppe 2.1
 
-2 900
+3 340
 
 203.5
 
 bei Sorten der Unterartengruppe 2.2
 
-1 900
+2 190
 
 203.6
 
 bei Sorten der Unterartengruppe 2.3
 
-1 200
+1 380
 
 203.7
 
 bei Sorten der Unterartengruppe 3.1
 
-2 900
+3 340
 
 203.8
 
 bei Sorten der Unterartengruppe 3.2
 
-1 900
+2 190
 
 203.9
 
 bei Sorten der Unterartengruppe 3.3
 
-1 200
+1 380
 
 203.10
 
 bei Sorten der Unterartengruppe 4.1
 
-4 600
+5 290
 
 203.11
 
 bei Sorten der Unterartengruppe 4.2
 
-1 200
+1 380
 
 203.12
 
 bei Sorten der Artengruppe 5
 
-2 900
+  260
 
 203.13
 
 Prüfung im Zwischenfruchtanbau bei Sorten der Artengruppen 1 bis 3
 
-1 200
+1 380
 
 204
 
@@ -1044,19 +1082,19 @@ Prüfung im Zwischenfruchtanbau bei Sorten der Artengruppen 1 bis 3
 
 durch gesonderten Anbau
 
-2 300
+2 650
 
 204.2
 
 durch ergänzenden Anbau zur Registerprüfung
 
-  290
+  330
 
 204.3
 
 durch Übernahme von Ergebnissen anderer amtlicher oder unter amtlicher Überwachung vorgenommener Prüfungen, einmalig
 
-  470
+  540
 
 Gebühren-
 nummer
@@ -1119,82 +1157,82 @@ Artengruppe
 
 1. Zulassungsjahr
 
-250
+  290
 
-150
+170
 
- 50
+ 60
 
 210.2
 
 2. Zulassungsjahr
 
-300
+  350
 
-200
+230
 
-100
+120
 
 210.3
 
 3. Zulassungsjahr
 
-400
+  460
 
-250
+290
 
-150
+170
 
 210.4
 
 4. Zulassungsjahr
 
-500
+  580
 
-300
+350
 
-200
+230
 
 210.5
 
 5. Zulassungsjahr
 
-600
+  690
 
-350
+400
 
-250
+290
 
 210.6
 
 6. Zulassungsjahr
 
-700
+  810
 
-400
+460
 
-300
+350
 
 210.7
 
 7. Zulassungsjahr
 
-800
+  920
 
-500
+580
 
-300
+350
 
 210.8
 
 8. Zulassungsjahr
 und folgende je
 
-900
+1 040
 
-600
+690
 
-300
+350
 
 Gebühren-
 nummer
@@ -1225,7 +1263,7 @@ Gebühr
 
 Entscheidung über die Verlängerung einer Sortenzulassung
 
-  350
+  400
 
 222
 
@@ -1235,79 +1273,79 @@ Prüfung auf Anbau- und Marktbedeutung
 
 bei Sorten der Unterartengruppe 1.1
 
-2 900
+3 340
 
 222.2
 
 bei Sorten der Unterartengruppe 1.2
 
-1 900
+2 190
 
 222.3
 
 bei Sorten der Unterartengruppe 1.3
 
-1 200
+1 380
 
 222.4
 
 bei Sorten der Unterartengruppe 2.1
 
-2 900
+3 340
 
 222.5
 
 bei Sorten der Unterartengruppe 2.2
 
-1 900
+2 190
 
 222.6
 
 bei Sorten der Unterartengruppe 2.3
 
-1 200
+1 380
 
 222.7
 
 bei Sorten der Unterartengruppe 3.1
 
-2 900
+3 340
 
 222.8
 
 bei Sorten der Unterartengruppe 3.2
 
-1 900
+2 190
 
 222.9
 
 bei Sorten der Unterartengruppe 3.3
 
-1 200
+1 380
 
 222.10
 
 bei Sorten der Unterartengruppe 4.1
 
-4 600
+5 290
 
 222.11
 
 bei Sorten der Unterartengruppe 4.2
 
-1 200
+1 380
 
 222.12
 
 bei Sorten der Artengruppe 5
 
-2 900
+  260
 
 222.13
 
 Prüfung im Zwischenfruchtanbau bei Sorten der Artengruppen 1 bis 3
 
-1 200
+1 380
 
 230
 
@@ -1319,7 +1357,7 @@ Prüfung im Zwischenfruchtanbau bei Sorten der Artengruppen 1 bis 3
 
 Entscheidung über die Eintragung eines weiteren Züchters
 
-  350
+  400
 
 232
 
@@ -1329,13 +1367,13 @@ Entscheidung über die Eintragung eines weiteren Züchters
 
 Prüfung einer weiteren Erhaltungszüchtung außer Artengruppe 6
 
-  590
+  680
 
 232.2
 
 Prüfung einer weiteren Erhaltungszüchtung bei Artengruppe 6
 
-  370
+  430
 
 240
 
@@ -1356,7 +1394,7 @@ Rücknahme oder Widerruf einer Sortenzulassung
 § 52 Abs. 2 bis 4
 Nr. 1 bis 8
 
-  350
+  400
 
 243
 
@@ -1365,7 +1403,7 @@ Widerruf der Eintragung eines weiteren Züchters
 § 52 Abs. 5
 in Verbindung mit § 52 Abs. 3 und 4 Nr. 5, 6 und 8
 
-  350
+  400
 
 244
 
@@ -1373,7 +1411,7 @@ Genehmigung des Inverkehrbringens von Saatgut zu gewerblichen Zwecken vor der Zu
 
 § 3 Abs. 2
 
-  200
+  230
 
 245
 
@@ -1385,7 +1423,7 @@ bei Sorten von Obst, soweit die Sorten unter eine Rechtsverordnung nach § 14b A
 
 § 14b Abs. 3
 
-   60
+   70
 
 245.2
 
@@ -1393,7 +1431,7 @@ bei Sorten anderer Arten
 
 § 55 Abs. 2 Satz 1
 
-  200
+  230
 
 246
 
@@ -1402,7 +1440,7 @@ Festsetzung einer Auslauffrist für die Anerkennung und/oder das Inverkehrbringe
 § 36 Abs. 3 und
 § 52 Abs. 6
 
-  320
+  370
 
 247
 
@@ -1416,7 +1454,7 @@ gegen die Zurückweisung des Zulassungsantrags und die Rücknahme oder den Wider
 § 52 Abs. 2 bis 4
 Nr. 1 bis 8
 
-  350
+  400
 
 247.2
 
@@ -1424,7 +1462,7 @@ gegen die Zurückweisung eines Antrags auf Verlängerung einer Sortenzulassung
 
 § 36 Abs. 2 und 3
 
-  350
+  400
 
 247.3
 
@@ -1434,7 +1472,7 @@ gegen die Zurückweisung eines Antrags auf Eintragung oder den Widerruf der Eint
 in Verbindung mit
 § 52 Abs. 3 und 4 Nr. 5, 6 und 8
 
-  350
+  400
 
 247.4
 
@@ -1442,7 +1480,7 @@ gegen die Zurückweisung eines Antrags für das Inverkehrbringen von Saatgut zu 
 
 § 3 Abs. 2
 
-  160
+  180
 
 247.5
 
@@ -1450,13 +1488,13 @@ gegen die Zurückweisung eines Antrags für die Feststellung der Anerkennungsfä
 
 § 55 Abs. 2 Satz 1
 
-  160
+  180
 
 247.6
 
 gegen eine andere Entscheidung
 
-  160
+  180
 
 248
 
@@ -1464,7 +1502,7 @@ Abgabe eigener Prüfungsergebnisse zur Vorlage bei einer anderen Stelle im Ausla
 
 § 44 Abs. 5
 
-  310
+  360
 
 249
 
@@ -1472,15 +1510,16 @@ Prüfung oder Registrierung einer Bezeichnung oder Beschreibung von nicht zugela
 
 § 3a Abs. 2 und 3
 
-  160
+  180
 
 250
 
 Registrierung des Hinweises auf die Erhaltungszüchtung
 
-§ 33 Abs. 8 SaatgutV
+§ 33 Abs. 8
+SaatgutV
 
-  120
+  140
 
 251
 
@@ -1492,15 +1531,16 @@ Nachprüfung von anerkanntem Saatgut
 
 § 16 SaatgutV
 
-  140
+  160
 
 251.2
 
 Nachprüfung von Standardsaatgut
 
-§ 21 Abs. 4 SaatgutV
+§ 21 Abs. 4
+SaatgutV
 
-  140
+  160
 
 **3**
 
@@ -1517,10 +1557,12 @@ Auskunft, soweit sie nicht die eigene Sorte betrifft, sowie Auszüge aus der Sor
 
 310
 
-Rücknahme oder Widerruf einer Amtshandlung in den Fällen der Gebührennummern 121, 221, 244, 245 und 246
+Rücknahme oder Widerruf eines Verwaltungsaktes in den Fällen der Gebührennummern 121, 221, 244, 245 und 246
 
-75 v. H. der Amtshandlungsgebühr; Ermäßigung bis zu 25 v. H. der Amtshandlungsgebühr oder Absehen von der Gebührenerhebung, wenn dies der Billigkeit entspricht
-(§ 15 Abs. 2 VwKostG)
+75 v. H. der Gebühr für die individuell zurechenbare öffentliche Leistung; Ermäßigung bis zu
+25 v. H. der Gebühr für Leistungen
+oder Absehen von der Gebührenerhebung, wenn dies der Billigkeit entspricht
+(§ 15 Abs. 2 VwKostG vom 23. Juni 1970 in der am 14. August 2013 geltenden Fassung)
 
 320
 
@@ -1534,7 +1576,7 @@ Soweit nichts anderes angegeben.
 
 ### Anlage 3 (zu § 12 Absatz 1 und § 13 Absatz 6)Gebührenverzeichnis für Erhaltungssorten
 
-(Fundstelle: BGBl. I 2012, 451 - 452)
+(Fundstelle: BGBl. I 2012, 451 - 452; bzgl. einzelner Änderungen vgl. Fußnote)
 
 Gebühren-
 nummer
@@ -1589,7 +1631,7 @@ Erhaltungssorten-VO
 
 bei Sorten landwirtschaftlicher Arten und Gemüsearten
 
-150
+170
 
 402.2
 
