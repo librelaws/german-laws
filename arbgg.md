@@ -13,6 +13,9 @@ Hinweis
 Hinweis  
 Änderung durch Art. 7 G v. 31.8.2013 I 3533 (Nr. 55) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Hinweis  
+Änderung durch Art. 3 G v. 10.10.2013 I 3786 (Nr. 62) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
@@ -251,15 +254,9 @@ Bevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organ
 
 ### § 11a Beiordnung eines Rechtsanwalts, Prozeßkostenhilfe
 
-(1) Einer Partei, die außerstande ist, ohne Beeinträchtigung des für sie und ihre Familie notwendigen Unterhalts die Kosten des Prozesses zu bestreiten, und die nicht durch ein Mitglied oder einen Angestellten einer Gewerkschaft oder einer Vereinigung von Arbeitgebern vertreten werden kann, hat der Vorsitzende des Arbeitsgerichts auf ihren Antrag einen Rechtsanwalt beizuordnen, wenn die Gegenpartei durch einen Rechtsanwalt vertreten ist. Die Partei ist auf ihr Antragsrecht hinzuweisen.
+(1) Die Vorschriften der Zivilprozessordnung über die Prozesskostenhilfe und über die grenzüberschreitende Prozesskostenhilfe innerhalb der Europäischen Union nach der Richtlinie 2003/8/EG gelten in Verfahren vor den Gerichten für Arbeitssachen entsprechend.
 
-(2) Die Beiordnung kann unterbleiben, wenn sie aus besonderen Gründen nicht erforderlich ist, oder wenn die Rechtsverfolgung offensichtlich mutwillig ist.
-
-(2a) Die Absätze 1 und 2 gelten auch für die grenzüberschreitende Prozesskostenhilfe innerhalb der Europäischen Union nach der Richtlinie 2003/8/EG des Rates vom 27. Januar 2003 zur Verbesserung des Zugangs zum Recht bei Streitsachen mit grenzüberschreitendem Bezug durch Festlegung gemeinsamer Mindestvorschriften für die Prozesskostenhilfe in derartigen Streitsachen (ABl. EG Nr. L 26 S. 41, ABl. EU Nr. L 32 S. 15).
-
-(3) Die Vorschriften der Zivilprozessordnung über die Prozesskostenhilfe und über die grenzüberschreitende Prozesskostenhilfe innerhalb der Europäischen Union nach der Richtlinie 2003/8/EG gelten in Verfahren vor den Gerichten für Arbeitssachen entsprechend.
-
-(4) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, zur Vereinfachung und Vereinheitlichung des Verfahrens durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für die Erklärung der Partei über ihre persönlichen und wirtschaftlichen Verhältnisse (§ 117 Abs. 2 der Zivilprozeßordnung) einzuführen.
+(2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, zur Vereinfachung und Vereinheitlichung des Verfahrens durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für die Erklärung der Partei über ihre persönlichen und wirtschaftlichen Verhältnisse (§ 117 Abs. 2 der Zivilprozeßordnung) einzuführen.
 
 ### § 12 Kosten
 
