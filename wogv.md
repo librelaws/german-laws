@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 19.10.2001 I 2722;
 
 Stand  
-zuletzt geändert durch Art. 1 V v. 11.12.2012 I 2654
+zuletzt geändert durch Art. 2 G v. 2.10.2015 I 1610
 
 ### 
 
@@ -111,10 +111,13 @@ des automatisierten Datenabgleichs</td>
 <td>§ 22</td>
 </tr>
 <tr class="odd">
-<td>Anlage (zu § 1 Abs. 3)</td>
+<td></td>
 </tr>
 <tr class="even">
-<td>Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2009</td>
+<td>Anlage (zu § 1 Absatz 3)</td>
+</tr>
+<tr class="odd">
+<td>Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2016</td>
 </tr>
 </tbody>
 </table>
@@ -141,7 +144,7 @@ Teil 2 Ermittlung der Miete
 
 (1) Zur Miete im Sinne des § 9 Abs. 1 des Wohngeldgesetzes gehören auch Beträge, die im Zusammenhang mit dem Miet- oder mietähnlichen Nutzungsverhältnis auf Grund eines Vertrages mit dem Vermieter oder einem Dritten an einen Dritten zu zahlen sind.
 
-(2) Zur Miete gehören nicht Vergütungen für Leistungen, die nicht die eigentliche Wohnraumnutzung betreffen, namentlich Vergütungen für die Überlassung einer Garage, eines Stellplatzes oder eines Hausgartens.
+(2) Von der Miete sind keine anderen Beträge als die in § 9 Absatz 2 des Wohngeldgesetzes genannten Kosten und Vergütungen abzusetzen. § 5 bleibt unberührt.
 
 ### § 3 Mietvorauszahlungen und Mieterdarlehen
 
@@ -159,40 +162,29 @@ Teil 2 Ermittlung der Miete
 
 Stehen bei der Entscheidung über den Mietzuschussantrag die Umlagen für Betriebskosten ganz oder teilweise nicht fest, sind Erfahrungswerte als Pauschbeträge anzusetzen.
 
-### § 6 Außer Betracht bleibende Kosten, Zuschläge und Vergütungen
+### § 6 Außer Betracht bleibende Kosten und Vergütungen
 
-(1) Kosten, die nach § 9 Abs. 2 Nr. 1 und 2 des Wohngeldgesetzes außer Betracht bleiben, sind:
-
-1.  
-Betriebskosten für zentrale Heizungs- und Brennstoffversorgungsanlagen sowie zentrale Warmwasserversorgungsanlagen im Sinne des § 2 Nr. 4 Buchstabe a, b und d sowie Nr. 5 Buchstabe a und c der Betriebskostenverordnung;
-
-2.  
-Kosten der eigenständig gewerblichen Lieferung von Wärme und Warmwasser im Sinne des § 2 Nr. 4 Buchstabe c und Nr. 5 Buchstabe b der Betriebskostenverordnung. In den Kosten der Lieferung enthaltene Beträge für Kapitalkosten, Abschreibungen sowie für Verwaltungs- und Instandhaltungskosten, werden der Miete zugerechnet.
-
-(2) Sind in § 9 Abs. 2 des Wohngeldgesetzes bezeichnete Kosten, Zuschläge und Vergütungen in der Miete enthalten, ohne dass ein besonderer Betrag hierfür angegeben ist, oder können in § 9 Abs. 2 Nr. 1 oder Nr. 2 des Wohngeldgesetzes bezeichnete Betriebskosten im Einzelnen nicht oder nur mit unverhältnismäßig großen Schwierigkeiten ermittelt werden, sind von der Miete zunächst folgende Pauschbeträge abzusetzen:
+(1) Kosten, die nach § 9 Absatz 2 Nummer 1 und 2 des Wohngeldgesetzes außer Betracht bleiben, sind:
 
 1.  
-für Betriebskosten für zentrale Heizungs- und Brennstoffversorgungsanlagen oder die eigenständig gewerbliche Lieferung von Wärme 0,80 Euro monatlich je Quadratmeter Wohnfläche;
+Betriebskosten für Heizungs- und Brennstoffversorgungsanlagen sowie Warmwasserversorgungsanlagen im Sinne des § 2 Nummer 4 Buchstabe a, b und d, Nummer 5 Buchstabe a und c und Nummer 6 Buchstabe a und c der Betriebskostenverordnung;
 
 2.  
-für Betriebskosten für zentrale Warmwasserversorgungsanlagen oder die eigenständig gewerbliche Lieferung von Warmwasser 0,15 Euro monatlich je Quadratmeter Wohnfläche;
+Kosten der eigenständig gewerblichen Lieferung von Wärme und Warmwasser im Sinne des § 2 Nummer 4 Buchstabe c, Nummer 5 Buchstabe b und Nummer 6 Buchstabe b der Betriebskostenverordnung.
+
+(2) Kommt nach § 9 Absatz 2 Satz 2 des Wohngeldgesetzes nur der Abzug eines Pauschbetrages von der Miete in Betracht, so beträgt dieser:
+
+1.  
+für Betriebskosten für zentrale Heizungs- und Brennstoffversorgungsanlagen oder für die Kosten der eigenständig gewerblichen Lieferung von Wärme 1,25 Euro monatlich je Quadratmeter Wohnfläche;
+
+2.  
+für Betriebskosten für zentrale Warmwasserversorgungsanlagen oder für die Kosten der eigenständig gewerblichen Lieferung von Warmwasser für eine Bewohnerin oder einen Bewohner 9 Euro monatlich, für zwei Bewohnerinnen oder Bewohner 17 Euro monatlich und für jede weitere Bewohnerin oder jeden weiteren Bewohner 3 Euro monatlich;
 
 3.  
-für Untermietzuschläge je Untermietverhältnis 2,50 Euro monatlich, wenn der untervermietete Wohnraum von einer Person benutzt wird, oder 5,00 Euro monatlich, wenn der untervermietete Wohnraum von zwei oder mehr Personen benutzt wird.
+für die übrigen Kosten der Haushaltsenergie für eine Bewohnerin oder einen Bewohner 41 Euro monatlich, für zwei Bewohnerinnen oder Bewohner 74 Euro monatlich und für jede weitere Bewohnerin oder jeden weiteren Bewohner 15 Euro monatlich;
 
-Von der sich danach ergebenden Miete sind abzusetzen
-
-1.  
-für Vergütungen für die Überlassung von Möbeln, ausgenommen übliche Einbaumöbel,
-
-a)  
-bei Teilmöblierung 10 Prozent der auf den teilmöbliert gemieteten Wohnraum entfallenden Miete,
-
-b)  
-bei Vollmöblierung 20 Prozent der auf den vollmöbliert gemieteten Wohnraum entfallenden Miete;
-
-2.  
-für Zuschläge für die Benutzung von Wohnraum zu anderen als Wohnzwecken, insbesondere zu gewerblichen oder beruflichen Zwecken, 30 Prozent der auf diesen Raum entfallenden Miete.
+4.  
+für die Überlassung einer Garage 36 Euro monatlich; für die Überlassung eines Stellplatzes zum Abstellen von Kraftfahrzeugen 25 Euro monatlich.
 
 (3) Bei der Ermittlung des Mietwertes nach § 7 und der Untermiete sind die Absätze 1 und 2 entsprechend anzuwenden.
 
@@ -299,7 +291,7 @@ in Höhe von 2 Prozent dieser Fremdmittel auszuweisen.
 
 (1) Als Belastung aus der Bewirtschaftung sind Instandhaltungskosten, Betriebskosten ohne die Heizkosten und Verwaltungskosten auszuweisen.
 
-(2) Als Instandhaltungs- und Betriebskosten sind im Jahr 20 Euro je Quadratmeter Wohnfläche und je Quadratmeter Nutzfläche der Geschäftsräume sowie die für den Gegenstand der Wohngeld-Lastenberechnung entrichtete Grundsteuer anzusetzen. Als Verwaltungskosten sind die für den Gegenstand der Wohngeld-Lastenberechnung an einen Dritten für die Verwaltung geleisteten Beträge anzusetzen. Über die in den Sätzen 1 und 2 genannten Beträge hinaus dürfen Bewirtschaftungskosten nicht angesetzt werden.
+(2) Als Instandhaltungs- und Betriebskosten sind im Jahr 36 Euro je Quadratmeter Wohnfläche und je Quadratmeter Nutzfläche der Geschäftsräume sowie die für den Gegenstand der Wohngeld-Lastenberechnung entrichtete Grundsteuer anzusetzen. Als Verwaltungskosten sind die für den Gegenstand der Wohngeld-Lastenberechnung an einen Dritten für die Verwaltung geleisteten Beträge anzusetzen. Über die in den Sätzen 1 und 2 genannten Beträge hinaus dürfen Bewirtschaftungskosten nicht angesetzt werden.
 
 ### § 14 Nutzungsentgelte und Wärmelieferungskosten
 
@@ -314,17 +306,17 @@ in Höhe von 2 Prozent dieser Fremdmittel auszuweisen.
 (2) In den Fällen des § 11 Abs. 2 Nr. 2 des Wohngeldgesetzes sind von dem Entgelt für die Gebrauchsüberlassung von Räumen oder Flächen an einen anderen die darin enthaltenen Beträge
 
 1.  
-zur Deckung der Betriebskosten für zentrale Heizungs- und Warmwasserversorgungsanlagen sowie zentrale Brennstoffversorgungsanlagen,
+zur Deckung der Betriebskosten für Heizungs- und Brennstoffversorgungsanlagen sowie Warmwasserversorgungsanlagen und
 
 2.  
-zur Deckung der Kosten der eigenständig gewerblichen Lieferung von Wärme und Warmwasser, soweit sie den in Nummer 1 bezeichneten Kosten entsprechen, und
+zur Deckung der Kosten der eigenständig gewerblichen Lieferung von Wärme und Warmwasser, soweit sie den in Nummer 1 bezeichneten Kosten entsprechen,
 
 3.  
-für die Überlassung von Möbeln
+(weggefallen)
 
 abzusetzen. § 6 Abs. 1 und 2 dieser Verordnung ist entsprechend anzuwenden.
 
-(3) Für eine Garage, die Gegenstand der Wohngeld-Lastenberechnung ist, soll ein Betrag von 245 Euro im Jahr von der Belastung abgesetzt werden. Wenn für die Überlassung einer Garage an einen anderen ein geringeres Entgelt ortsüblich ist, kann ein Betrag von weniger als 245, aber mindestens von 184 Euro im Jahr abgesetzt werden. Ist die Garage einem anderen gegen ein höheres Entgelt als den in Satz 1 genannten Betrag überlassen, ist das Entgelt in voller Höhe abzusetzen.
+(3) Ist eine Garage oder ein Stellplatz zum Abstellen von Kraftfahrzeugen Gegenstand der Wohngeld-Lastenberechnung, gilt hinsichtlich der außer Betracht bleibenden Belastung § 6 Absatz 2 Nummer 4 entsprechend. Ist die Garage oder der Stellplatz einem anderen gegen ein höheres Entgelt überlassen als zu den in § 6 Absatz 2 Nummer 4 genannten Beträgen, so ist das Entgelt in voller Höhe abzusetzen.
 
 (4) (weggefallen)
 
@@ -356,7 +348,7 @@ die Deutsche Rentenversicherung Knappschaft-Bahn-See.
 
 Im Fall des Satzes 1 Nummer 1 werden vor der Übermittlung der Anfragedatensätze die Angaben zum Geschlecht und Geburtsort entfernt. Im Fall des Satzes 1 Nummer 2 und 3 werden die Anfragedatensätze, wenn möglich, um die Versicherungsnummer ergänzt. Die in Satz 1 genannten Stellen übermitteln die Antwortdatensätze bis zum 15. des zweiten auf den Abgleichszeitraum folgenden Monats an die Datenstelle.
 
-(4) Die Datenstelle übermittelt der Wohngeldbehörde, im Fall des Absatzes 2 Satz 3 über die zentrale Landesstelle, die Antwortdatensätze aus dem automatisierten Datenabgleich nach § 18 Absatz 1 und die Antwortdatensätze nach Absatz 3 Satz 4 bis zum Ende des zweiten auf den Abgleichszeitraum folgenden Monats. Im Fall des Absatzes 2 Satz 3 erfolgt die Übermittlung über die zentrale Landesstelle, die in diesem Fall die Antwortdatensätze ordnend aufbereiten darf.
+(4) Die Datenstelle übermittelt der Wohngeldbehörde die Antwortdatensätze aus dem automatisierten Datenabgleich nach § 18 Absatz 1 und die Antwortdatensätze nach Absatz 3 Satz 4 bis zum Ende des zweiten auf den Abgleichszeitraum folgenden Monats. Im Fall des Absatzes 2 Satz 3 erfolgt die Übermittlung über die zentrale Landesstelle, die in diesem Fall die Antwortdatensätze ordnend aufbereiten darf.
 
 ### § 18 Einzelheiten des automatisierten Datenabgleichs
 
@@ -421,8354 +413,7506 @@ Die technischen Einzelheiten des automatisierten Datenabgleichsverfahrens nach �
 
 (3) Die übrigen Länder haben für das erste Kalenderjahr der Teilnahme eines Landes am automatisierten Datenabgleich pauschal einmalige Kosten in Höhe von 2 700 Euro zuzüglich 950 Euro je Kalendervierteljahr der Teilnahme zu erstatten. Die Erstattung ist am 31. Januar des folgenden Kalenderjahres fällig. Für jedes weitere Kalenderjahr der Teilnahme am automatisierten Datenabgleich sind die Kosten nach Absatz 2 Satz 1 in Verbindung mit Absatz 2 Satz 2 zu erstatten; Absatz 2 Satz 3 gilt entsprechend.
 
-### Anlage Anlage (zu § 1 Abs. 3)
+### Anlage Anlage(zu § 1 Absatz 3)
 
-(Fundestelle: BGBl. I 2008, 2487 - 2519)
+(Fundstelle: BGBl. I 2015, 1619 — 1662)
 
-Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2009
+Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2016
 
-**Baden-Württemberg**
+Soweit die zu einem Kreis gehörenden Gemeinden in den Tabellen nicht gesondert aufgeführt sind, gilt die Mietenstufe des Kreises für diese Gemeinden.
+
+Zu Grunde liegen Daten der Wohngeldstatistik zum 31. Dezember 2013 einschließlich der bis zum 31. März 2014 erfolgten rückwirkenden Bewilligungen.
+
+Relevanter Gebietsstand ist der 1. Januar 2014; der für die 10 000-Einwohner-Schwelle relevante Stichtag der Bevölkerung ist der 31. Dezember 2013.
+
+Land:**Baden-Württemberg**
 
 Gemeinde
 
-Mieten-
-stufe
+Mietenstufe
 
-Aalen
+Aalen, Stadt
 
-3
+III
 
-Achern
+Achern, Stadt
 
-2
+II
 
-Albstadt
+Albstadt, Stadt
 
-2
+II
 
-Altensteig
+Altensteig, Stadt
 
-2
+II
 
 Ammerbuch
 
-4
+IV
 
-Asperg
+Asperg, Stadt
 
-5
+V
 
-Backnang
+Backnang, Stadt
 
-4
+IV
 
-Bad Dürrheim
+Bad Dürrheim, Stadt
 
-3
+IV
 
-Bad Friedrichshall
+Bad Friedrichshall, Stadt
 
-3
+III
 
-Bad Krozingen
+Bad Krozingen, Stadt
 
-5
+V
 
-Bad Mergentheim
+Bad Mergentheim, Stadt
 
-2
+II
 
-Bad Rappenau
+Bad Rappenau, Stadt
 
-2
+III
 
-Bad Säckingen
+Bad Säckingen, Stadt
 
-4
+IV
 
 Bad Schönborn
 
-3
+III
 
-Bad Urach
+Bad Urach, Stadt
 
-3
+III
 
-Bad Waldsee
+Bad Waldsee, Stadt
 
-3
+III
 
-Bad Wildbad im Schwarzwald
+Bad Wurzach, Stadt
 
-2
+II
 
-Bad Wurzach
+Baden-Baden, Stadt
 
-2
-
-Baden-Baden
-
-4
+IV
 
 Baiersbronn
 
-2
+II
 
-Balingen
+Balingen, Stadt
 
-3
+III
 
-Besigheim
+Besigheim, Stadt
 
-5
+IV
 
-Biberach an der Riß
+Biberach an der Riß, Stadt
 
-2
+III
 
-Bietigheim-Bissingen
+Bietigheim-Bissingen, Stadt
 
-4
+V
 
 Birkenfeld
 
-2
+III
 
-Blaubeuren
+Blaubeuren, Stadt
 
-2
+II
 
-Blaustein
+Blaustein, Stadt
 
-3
+IV
 
-Blumberg
+Böblingen, Stadt
 
-2
+V
 
-Böblingen
+Bopfingen, Stadt
 
-5
+II
 
-Bopfingen
+Brackenheim, Stadt
 
-2
+III
 
-Brackenheim
+Breisach am Rhein, Stadt
 
-3
+IV
 
-Breisach am Rhein
+Bretten, Stadt
 
-4
-
-Bretten
-
-3
+III
 
 Bretzfeld
 
-2
+III
 
-Bruchsal
+Bruchsal, Stadt
 
-3
+IV
 
 Brühl
 
-4
+IV
 
-Buchen (Odenwald)
+Buchen (Odenwald), Stadt
 
-2
+II
 
-Bühl
+Bühl, Stadt
 
-3
+III
 
-Burladingen
+Burladingen, Stadt
 
-1
+II
 
-Calw
+Calw, Stadt
 
-3
+III
 
-Crailsheim
+Crailsheim, Stadt
 
-2
+II
 
 Denkendorf
 
-4
+IV
 
 Denzlingen
 
-5
+V
 
-Ditzingen
+Ditzingen, Stadt
 
-5
+V
 
-Donaueschingen
+Donaueschingen, Stadt
 
-2
+II
 
-Donzdorf
+Donzdorf, Stadt
 
-3
+III
 
 Dossenheim
 
-5
+V
 
 Durmersheim
 
-3
+III
 
-Eberbach
+Eberbach, Stadt
 
-3
+II
 
-Ebersbach an der Fils
+Ebersbach an der Fils, Stadt
 
-4
+III
 
 Edingen-Neckarhausen
 
-3
+IV
 
 Eggenstein-Leopoldshafen
 
-4
+IV
 
-Ehingen (Donau)
+Ehingen (Donau), Stadt
 
-2
+III
 
-Eislingen/Fils
+Eislingen/Fils, Stadt
 
-3
+III
 
-Ellwangen (Jagst)
+Ellwangen (Jagst), Stadt
 
-2
+III
 
-Emmendingen
+Emmendingen, Stadt
 
-4
+IV
 
-Engen
+Engen, Stadt
 
-2
+III
 
 Eningen unter Achalm
 
-4
+III
 
-Eppelheim
+Eppelheim, Stadt
 
-5
+VI
 
-Eppingen
+Eppingen, Stadt
 
-2
+II
 
 Erbach
 
-3
+III
 
-Esslingen am Neckar
+Esslingen am Neckar, Stadt
 
-5
+V
 
-Ettenheim
+Ettenheim, Stadt
 
-2
+II
 
-Ettlingen
+Ettlingen, Stadt
 
-4
+IV
 
-Fellbach
+Fellbach, Stadt
 
-5
+VI
 
-Filderstadt
+Filderstadt, Stadt
 
-5
+VI
 
-Freiberg am Neckar
+Freiberg am Neckar, Stadt
 
-5
+V
 
-Freiburg im Breisgau
+Freiburg im Breisgau, Universitätsstadt
 
-5
+VI
 
-Freudenstadt
+Freudenstadt, Stadt
 
-3
+III
 
-Friedrichshafen
+Friedrichshafen, Stadt
 
-4
+V
 
 Friesenheim
 
-2
+II
 
 Gärtringen
 
-5
+V
 
-Gaggenau
+Gaggenau, Stadt
 
-3
+III
 
-Gaildorf
+Gaildorf, Stadt
 
-2
+III
 
-Geislingen an der Steige
+Geislingen an der Steige, Stadt
 
-3
+II
 
-Gengenbach
+Gengenbach, Stadt
 
-3
+III
 
-Gerlingen
+Gerlingen, Stadt
 
-4
+V
 
-Gernsbach
+Gernsbach, Stadt
 
-3
+III
 
 Gerstetten
 
-2
+II
 
-Giengen an der Brenz
+Giengen an der Brenz, Stadt
 
-2
+II
 
-Göppingen
+Göppingen, Stadt
 
-4
+III
 
 Gottmadingen
 
-3
+III
 
 Graben-Neudorf
 
-3
+III
 
 Grenzach-Wyhlen
 
-4
+IV
 
 Gundelfingen
 
-6
+V
 
-Haigerloch
+Haigerloch, Stadt
 
-1
+I
 
-Hechingen
+Hechingen, Stadt
 
-3
+IV
 
 Heddesheim
 
-3
+IV
 
-Heidelberg
+Heidelberg, Stadt
 
-5
+V
 
-Heidenheim an der Brenz
+Heidenheim an der Brenz, Stadt
 
-3
+III
 
-Heilbronn
+Heilbronn, Stadt
 
-4
+IV
 
-Hemsbach
+Hemsbach, Stadt
 
-3
+IV
 
-Herbrechtingen
+Herbolzheim, Stadt
 
-2
+III
 
-Herrenberg
+Herbrechtingen, Stadt
 
-5
+II
 
-Heubach
+Herrenberg, Stadt
 
-3
+V
 
-Hockenheim
+Hockenheim, Stadt
 
-4
+IV
 
-Holzgerlingen
+Holzgerlingen, Stadt
 
-6
+VI
 
-Horb am Neckar
+Horb am Neckar, Stadt
 
-2
+III
 
-Isny im Allgäu
+Isny im Allgäu, Stadt
 
-3
+III
 
 Karlsbad
 
-3
+III
 
-Karlsruhe
+Karlsdorf-Neuthard
 
-4
+III
 
-Kehl
+Karlsruhe, Stadt
 
-3
+IV
+
+Kehl, Stadt
+
+III
 
 Kernen im Remstal
 
-5
+IV
 
 Ketsch
 
-4
+III
 
-Kirchheim unter Teck
+Kirchheim unter Teck, Stadt
 
-4
+V
 
-Konstanz
+Konstanz, Universitätsstadt
 
-5
+VI
 
 Korb
 
-4
+IV
 
-Korntal-Münchingen
+Korntal-Münchingen, Stadt
 
-5
+VI
 
-Kornwestheim
+Kornwestheim, Stadt
 
-5
+V
 
-Kraichtal
+Kraichtal, Stadt
 
-1
+II
 
-Künzelsau
+Künzelsau, Stadt
 
-2
+II
 
-Ladenburg
+Ladenburg, Stadt
 
-3
+IV
 
-Lahr/Schwarzwald
+Lahr/Schwarzwald, Stadt
 
-2
+III
 
-Laichingen
+Laichingen, Stadt
 
-2
+II
 
-Langenau
+Langenau, Stadt
 
-3
+III
 
-Lauda-Königshofen
+Lauda-Königshofen, Stadt
 
-1
+I
 
-Lauffen am Neckar
+Lauffen am Neckar, Stadt
 
-3
+III
 
-Laupheim
+Laupheim, Stadt
 
-3
+III
 
-Leimen
+Leimen, Stadt
 
-5
+V
 
-Leinfelden-Echterdingen
+Leinfelden-Echterdingen, Stadt
 
-6
+VI
 
 Leingarten
 
-3
+IV
 
-Leonberg
+Leonberg, Stadt
 
-5
+VI
 
 Leutenbach
 
-4
+IV
 
-Leutkirch im Allgäu
+Leutkirch im Allgäu, Stadt
 
-2
+II
 
 Linkenheim-Hochstetten
 
-2
+III
 
-Lörrach
+Lorch, Stadt
 
-4
+III
 
-Lorch
+Lörrach, Stadt
 
-2
+IV
 
-Ludwigsburg
+Ludwigsburg, Stadt
 
-5
+V
 
 Malsch
 
-2
+III
 
-Mannheim
+Mannheim, Universitätsstadt
 
-5
+V
 
-Marbach am Neckar
+Marbach am Neckar, Stadt
 
-5
+IV
 
-Markdorf
+Markdorf, Stadt
 
-3
+IV
 
-Markgröningen
+Markgröningen, Stadt
 
-5
+V
 
 Meckenbeuren
 
-3
+IV
 
-Mengen
+Metzingen, Stadt
 
-1
-
-Meßstetten
-
-1
-
-Metzingen
-
-3
+III
 
 Möglingen
 
-5
+V
 
-Mössingen
+Mössingen, Stadt
 
-3
+IV
 
-Mosbach
+Mosbach, Stadt
 
-2
+III
 
-Mühlacker
+Mühlacker, Stadt
 
-3
+III
 
-Müllheim
+Müllheim, Stadt
 
-4
+IV
 
-Münsingen
+Münsingen, Stadt
 
-2
+II
 
-Murrhardt
+Murrhardt, Stadt
 
-2
+II
 
-Nagold
+Nagold, Stadt
 
-4
+IV
 
-Neckargemünd
+Neckargemünd, Stadt
 
-4
+V
 
-Neckarsulm
+Neckarsulm, Stadt
 
-3
+IV
 
-Neuenburg am Rhein
+Neuenburg am Rhein, Stadt
 
-3
+IV
 
 Neuhausen auf den Fildern
 
-5
+IV
 
 Niefern-Öschelbronn
 
-3
+IV
 
-Nürtingen
+Nürtingen, Stadt
 
-4
+IV
 
 Nußloch
 
-4
+V
 
 Oberderdingen
 
-2
+II
 
-Oberkirch
+Oberkirch, Stadt
 
-2
+II
 
-Oberndorf am Neckar
+Oberndorf am Neckar, Stadt
 
-1
+II
 
 Obersulm
 
-3
+III
 
-Öhringen
+Öhringen, Stadt
 
-3
+IV
 
-Östringen
+Östringen, Stadt
 
-2
+II
 
-Offenburg
+Offenburg, Stadt
 
-3
+III
 
 Oftersheim
 
-3
+IV
 
-Ostfildern
+Ostfildern, Stadt
 
-5
+V
 
 Pfinztal
 
-2
+III
 
-Pforzheim
+Pforzheim, Stadt
 
-3
+IV
 
-Pfullendorf
+Pfullendorf, Stadt
 
-2
+II
 
-Pfullingen
+Pfullingen, Stadt
 
-4
+IV
 
-Philippsburg
+Philippsburg, Stadt
 
-3
+III
 
-Plochingen
+Plankstadt
 
-4
+III
 
-Radolfzell am Bodensee
+Plochingen, Stadt
 
-3
+V
 
-Rastatt
+Radolfzell am Bodensee, Stadt
 
-3
+IV
 
-Ravensburg
+Rastatt, Stadt
 
-4
+III
+
+Ravensburg, Stadt
+
+V
 
 Remchingen
 
-3
+III
 
 Remseck am Neckar
 
-5
+V
 
 Remshalden
 
-3
+IV
 
-Renningen
+Renningen, Stadt
 
-5
+V
 
-Reutlingen
+Reutlingen, Stadt
 
-3
+IV
 
-Rheinau
+Rheinau, Stadt
 
-1
+I
 
-Rheinfelden (Baden)
+Rheinfelden (Baden), Stadt
 
-3
+IV
 
 Rheinstetten
 
-4
+IV
 
-Riedlingen
+Riedlingen, Stadt
 
-2
+I
 
 Rielasingen-Worblingen
 
-3
+IV
 
-Rottenburg am Neckar
+Rottenburg am Neckar, Stadt
 
-4
+IV
 
-Rottweil
+Rottweil, Stadt
 
-2
+III
 
 Rudersberg
 
-3
+II
 
-Rutesheim
+Rutesheim, Stadt
 
-5
+V
 
-Sachsenheim
+Sachsenheim, Stadt
 
-4
+IV
 
 Salem
 
-3
+III
 
 Sandhausen
 
-4
+V
 
-Sankt Georgen im Schwarzwald
+St. Georgen i. Schwarzwald, Stadt
 
-2
+II
 
 Sankt Leon-Rot
 
-4
+III
 
-Saulgau
+(Bad) Saulgau, Stadt
 
-2
+II
 
-Schopfheim
+Schopfheim, Stadt
 
-4
+III
 
-Schorndorf
+Schorndorf, Stadt
 
-3
+IV
 
-Schramberg
+Schramberg, Stadt
 
-2
+II
 
-Schriesheim
+Schriesheim, Stadt
 
-4
+IV
 
-Schwäbisch Gmünd
+Schwäbisch Gmünd, Stadt
 
-3
+III
 
-Schwäbisch Hall
+Schwäbisch Hall, Stadt
 
-2
+II
 
-Schwaigern
+Schwaigern, Stadt
 
-2
+II
 
-Schwetzingen
+Schwetzingen, Stadt
 
-5
+V
 
 Schwieberdingen
 
-4
+IV
 
-Sigmaringen
+Sigmaringen, Stadt
 
-2
+II
 
-Sindelfingen
+Sindelfingen, Stadt
 
-5
+V
 
-Singen (Hohentwiel)
+Singen (Hohentwiel), Stadt
 
-3
+IV
 
-Sinsheim
+Sinsheim, Stadt
 
-2
+III
 
 Sinzheim
 
-2
+II
 
-Spaichingen
+Spaichingen, Stadt
 
-3
+III
 
-Steinen
+Steinheim an der Murr, Stadt
 
-2
+IV
 
-Steinheim an der Murr
+Stockach, Stadt
 
-3
-
-Stockach
-
-2
+III
 
 Straubenhardt
 
-3
+II
 
-Stutensee
+Stutensee, Stadt
 
-3
+III
 
-Stuttgart
+Stuttgart, Landeshauptstadt
 
-6
+VI
 
-Süßen
+Sulz am Neckar, Stadt
 
-3
-
-Sulz am Neckar
-
-1
+II
 
 Tamm
 
-5
+V
 
-Tauberbischofsheim
+Tauberbischofsheim, Stadt
 
-2
+II
 
 Teningen
 
-4
+III
 
-Tettnang
+Tettnang, Stadt
 
-3
+IV
 
-Titisee-Neustadt
+Titisee-Neustadt, Stadt
 
-2
+II
 
-Trossingen
+Trossingen, Stadt
 
-3
+III
 
-Tübingen
+Tübingen, Universitätsstadt
 
-6
+VI
 
-Tuttlingen
+Tuttlingen, Stadt
 
-3
+III
 
 Ubstadt-Weiher
 
-2
+II
 
-Überlingen
+Überlingen, Stadt
 
-4
+IV
 
-Uhingen
+Uhingen, Stadt
 
-3
+III
 
-Ulm
+Ulm, Universitätsstadt
 
-3
+IV
 
-Vaihingen an der Enz
+Vaihingen an der Enz, Stadt
 
-4
+III
 
-Villingen-Schwenningen
+Villingen-Schwenningen, Stadt
 
-3
+III
 
-Waghäusel
+Waghäusel, Stadt
 
-2
+III
 
-Waiblingen
+Waiblingen, Stadt
 
-5
+V
 
 Waldbronn
 
-4
+IV
 
-Waldkirch
+Waldkirch, Stadt
 
-4
+III
 
-Waldshut-Tiengen
+Waldshut-Tiengen, Stadt
 
-3
+III
 
-Walldorf
+Walldorf, Stadt
 
-3
+V
 
-Walldürn
+Walldürn, Stadt
 
-2
+I
 
-Wangen im Allgäu
+Wangen im Allgäu, Stadt
 
-3
+III
 
-Wehr
+Wehr, Stadt
 
-3
+III
 
-Weil am Rhein
+Weil am Rhein, Stadt
 
-4
+IV
 
-Weil der Stadt
+Weil der Stadt, Stadt
 
-4
+IV
 
-Weingarten
+Weingarten (Baden)
 
-4
+III
 
-Weinheim
+Weingarten, Stadt
 
-4
+V
 
-Weinsberg
+Weinheim, Stadt
 
-3
+IV
 
-Weinstadt
+Weinsberg, Stadt
 
-4
+III
 
-Welzheim
+Weinstadt, Stadt
 
-3
+IV
 
-Wendlingen am Neckar
+Welzheim, Stadt
 
-4
+III
 
-Wernau (Neckar)
+Wendlingen am Neckar, Stadt
 
-3
+IV
 
-Wertheim
+Wernau (Neckar), Stadt
 
-1
+IV
 
-Wiesloch
+Wertheim, Stadt
 
-4
+II
 
-Wildberg
+Wiesloch, Stadt
 
-3
+IV
 
-Winnenden
+Winnenden, Stadt
 
-4
+V
 
 Kreis
 
-Mieten-
-stufe
-
-ohne die Gemeinden
+Mietenstufe
 
 Alb-Donau-Kreis
 
-2
-
-Blaubeuren, Blaustein, Ehingen (Donau), Erbach,
-Laichingen, Langenau
+II
 
 Biberach
 
-1
-
-Biberach an der Riß, Laupheim, Riedlingen
+I
 
 Bodenseekreis
 
-3
-
-Friedrichshafen, Markdorf, Meckenbeuren, Salem, Tettnang, Überlingen
+IV
 
 Böblingen
 
-4
-
-Böblingen, Gärtringen, Herrenberg, Holzgerlingen,
-Leonberg, Renningen, Rutesheim, Sindelfingen,
-Weil der Stadt
+IV
 
 Breisgau-Hochschwarzwald
 
-3
-
-Bad Krozingen, Breisach am Rhein, Gundelfingen, Müllheim, Neuenburg am Rhein, Titisee-Neustadt
+III
 
 Calw
 
-3
-
-Altensteig, Bad Wildbad im Schwarzwald, Calw,
-Nagold, Wildberg
+III
 
 Emmendingen
 
-3
-
-Denzlingen, Emmendingen, Teningen, Waldkirch
+III
 
 Enzkreis
 
-3
-
-Birkenfeld, Mühlacker, Niefern-Öschelbronn,
-Remchingen, Straubenhardt
+III
 
 Esslingen
 
-3
-
-Denkendorf, Esslingen am Neckar, Filderstadt,
-Kirchheim unter Teck, Neuhausen auf den Fildern, Leinfelden-Echterdingen, Nürtingen, Plochingen, Wendlingen am Neckar, Wernau (Neckar), Ostfildern
+IV
 
 Freudenstadt
 
-2
-
-Baiersbronn, Freudenstadt, Horb am Neckar
+II
 
 Göppingen
 
-2
-
-Donzdorf, Ebersbach an der Fils, Eislingen/Fils,
-Geislingen an der Steige, Göppingen, Süßen, Uhingen
+II
 
 Heidenheim
 
-2
-
-Gerstetten, Giengen an der Brenz, Heidenheim an der Brenz, Herbrechtingen
+II
 
 Heilbronn
 
-2
-
-Bad Friedrichshall, Bad Rappenau, Brackenheim,
-Eppingen, Lauffen am Neckar, Leingarten,
-Neckarsulm, Obersulm, Schwaigern, Weinsberg
+II
 
 Hohenlohekreis
 
-2
-
-Bretzfeld, Künzelsau, Öhringen
+I
 
 Karlsruhe
 
-2
-
-Bad Schönborn, Bretten, Bruchsal,
-Eggenstein-Leopoldshafen, Ettlingen,
-Graben-Neudorf, Karlsbad, Kraichtal,
-Linkenheim-Hochstetten, Malsch, Oberderdingen, Östringen, Pfinztal, Philippsburg, Rheinstetten,
-Stutensee, Waghäusel, Waldbronn, Ubstadt-Weiher
+III
 
 Konstanz
 
-2
-
-Engen, Gottmadingen, Konstanz, Radolfzell
-am Bodensee, Rielasingen-Worblingen,
-Singen (Hohentwiel), Stockach
+III
 
 Lörrach
 
-2
-
-Grenzach-Wyhlen, Lörrach, Rheinfelden (Baden), Schopfheim, Steinen, Weil am Rhein
+III
 
 Ludwigsburg
 
-3
-
-Asperg, Besigheim, Bietigheim-Bissingen, Ditzingen, Freiberg am Neckar, Gerlingen, Korntal-Münchingen, Kornwestheim, Ludwigsburg, Marbach am Neckar, Markgröningen, Möglingen, Remseck am Neckar, Sachsenheim, Schwieberdingen, Steinheim an der Murr, Tamm, Vaihingen an der Enz
+IV
 
 Main-Tauber-Kreis
 
-1
-
-Bad Mergentheim, Lauda-Königshofen,
-Tauberbischofsheim, Wertheim
+I
 
 Neckar-Odenwald-Kreis
 
-1
-
-Buchen (Odenwald), Mosbach, Walldürn
+I
 
 Ortenaukreis
 
-2
-
-Achern, Ettenheim, Friesenheim, Gengenbach, Kehl,
-Lahr/Schwarzwald, Oberkirch, Offenburg, Rheinau
+II
 
 Ostalbkreis
 
-2
-
-Aalen, Bopfingen, Ellwangen (Jagst), Heubach, Lorch,
-Schwäbisch Gmünd
+II
 
 Rastatt
 
-2
-
-Bühl, Durmersheim, Gaggenau, Gernsbach, Rastatt, Sinzheim
+II
 
 Ravensburg
 
-2
-
-Bad Waldsee, Bad Wurzach, Isny im Allgäu, Leutkirch im Allgäu, Ravensburg, Wangen im Allgäu, Weingarten
+II
 
 Rems-Murr-Kreis
 
-3
-
-Backnang, Fellbach, Kernen im Remstal, Korb,
-Leutenbach, Murrhardt, Remshalden, Rudersberg, Schorndorf, Waiblingen, Weinstadt, Welzheim,
-Winnenden
+III
 
 Reutlingen
 
-2
-
-Bad Urach, Eningen unter Achalm, Metzingen,
-Münsingen, Pfullingen, Reutlingen
+II
 
 Rhein-Neckar-Kreis
 
-3
-
-Brühl, Dossenheim, Eberbach,
-Edingen-Neckarhausen, Eppelheim, Heddesheim, Hemsbach, Hockenheim, Ketsch, Ladenburg, Leimen, Neckargemünd, Nußloch, Oftersheim, Sandhausen, Sankt Leon-Rot, Schriesheim, Schwetzingen,
-Sinsheim, Walldorf, Weinheim, Wiesloch
+III
 
 Rottweil
 
-1
+I
 
-Oberndorf am Neckar, Rottweil, Schramberg,
-Sulz am Neckar
+Schwäbisch-Hall
 
-Schwäbisch Hall
-
-1
-
-Crailsheim, Gaildorf, Schwäbisch Hall
+I
 
 Schwarzwald-Baar-Kreis
 
-2
-
-Bad Dürrheim, Blumberg, Donaueschingen, Sankt Georgen im Schwarzwald, Villingen-Schwenningen
+II
 
 Sigmaringen
 
-1
-
-Mengen, Pfullendorf, Saulgau, Sigmaringen
+I
 
 Tübingen
 
-3
-
-Ammerbuch, Mössingen, Rottenburg am Neckar,
-Tübingen
+IV
 
 Tuttlingen
 
-1
-
-Spaichingen, Trossingen, Tuttlingen
+II
 
 Waldshut
 
-2
-
-Bad Säckingen, Waldshut-Tiengen, Wehr
+II
 
 Zollernalbkreis
 
-1
+I
 
-Albstadt, Balingen, Burladingen, Haigerloch,
-Hechingen, Meßstetten
-
-**Bayern**
+Land:**Bayern**
 
 Gemeinde
 
-Mieten-
-stufe
+Mietenstufe
 
-Abensberg
+Abensberg, Stadt
 
-2
+II
 
-Aichach
+Aichach, Stadt
 
-3
+III
 
-Ainring
+Altdorf, Markt
 
-3
+II
 
-Altdorf
+Altdorf bei Nürnberg, Stadt
 
-3
+III
 
-Altdorf b. Nürnberg
+Altötting, Stadt
 
-3
+II
 
-Altötting
+Alzenau i. Unterfranken, Stadt
 
-2
+III
 
-Alzenau i. UFr.
+Amberg, Stadt
 
-3
+II
 
-Amberg
+Ansbach, Stadt
 
-2
+II
 
-Ansbach
+Aschaffenburg, Stadt
 
-2
+IV
 
-Aschaffenburg
+Augsburg, Stadt
 
-3
+IV
 
-Augsburg
+Bad Abbach, Markt
 
-4
+III
 
-Bad Abbach
+Bad Aibling, Stadt
 
-4
+IV
 
-Bad Aibling
+Bad Kissingen, Stadt
 
-5
+II
 
-Bad Kissingen
+Bad Neustadt a. d. Saale, Stadt
 
-2
+I
 
-Bad Neustadt a. d. Saale
+Bad Reichenhall, Stadt
 
-1
+IV
 
-Bad Reichenhall
+Bad Staffelstein, Stadt
 
-4
+I
 
-Bad Staffelstein
+Bad Tölz, Stadt
 
-1
+V
 
-Bad Tölz
+Bad Windsheim, Stadt
 
-5
+II
 
-Bad Windsheim
+Bad Wörishofen, Stadt
 
-2
+II
 
-Bad Wörishofen
+Bamberg, Stadt
 
-2
+III
 
-Bamberg
+Bayreuth, Stadt
 
-3
+III
 
-Bayreuth
+Bobingen, Stadt
 
-3
+III
 
-Bobingen
+Bruckmühl, Markt
 
-3
+IV
 
-Bogen
+Buchloe, Stadt
 
-2
+II
 
-Bruckmühl
+Burghausen, Stadt
 
-4
-
-Buchloe
-
-3
-
-Burghausen
-
-2
+III
 
 Burgkirchen a. d. Alz
 
-2
+I
 
-Burglengenfeld
+Burglengenfeld, Stadt
 
-1
+I
 
 Burgthann
 
-3
+II
 
-Cadolzburg
+Cadolzburg, Markt
 
-2
+II
 
-Cham
+Cham, Stadt
 
-1
+I
 
-Coburg
+Coburg, Stadt
 
-2
+II
 
-Dachau
+Dachau, Stadt
 
-6
+VI
 
-Deggendorf
+Deggendorf, Stadt
 
-2
+II
 
-Diedorf
+Dießen a. Ammersee, Markt
 
-4
+IV
 
-Dillingen a. d. Donau
+Dillingen a. d. Donau, Stadt
 
-2
+II
 
-Dingolfing
+Dingolfing, Stadt
 
-2
+II
 
-Dinkelsbühl
+Dinkelsbühl, Stadt
 
-1
+I
 
-Donauwörth
+Donauwörth, Stadt
 
-1
+I
 
-Dorfen
+Dorfen, Stadt
 
-4
+IV
 
-Ebersberg
+Ebersberg, Stadt
 
-5
+VI
 
 Eching
 
-6
+VI
 
-Eckental
+Eckental, Markt
 
-3
+III
 
-Eggenfelden
+Eggenfelden, Stadt
 
-1
+I
 
 Eichenau
 
-6
+VI
 
-Eichstätt
+Eichstätt, Stadt
 
-2
+I
 
-Erding
+Erding, Stadt
 
-6
+VI
 
-Ergolding
+Ergolding, Markt
 
-3
+II
 
-Erlangen
+Erlangen, Stadt
 
-3
+IV
 
-Erlenbach am Main
+Essenbach, Markt
 
-2
-
-Essenbach
-
-2
+I
 
 Feldkirchen-Westerham
 
-4
+V
 
-Feucht
+Feucht, Markt
 
-3
+IV
 
-Feuchtwangen
+Feuchtwangen, Stadt
 
-2
+II
 
-Forchheim
+Forchheim, Stadt
 
-2
+III
 
-Freilassing
+Freilassing, Stadt
 
-3
+IV
 
-Freising
+Freising, Stadt
 
-6
+VI
 
-Friedberg
+Friedberg, Stadt
 
-3
+III
 
-Fürstenfeldbruck
+Fürstenfeldbruck, Stadt
 
-6
+VI
 
-Fürth
+Fürth, Stadt
 
-3
+III
 
-Füssen
+Füssen, Stadt
 
-4
+III
 
-Gaimersheim
+Gaimersheim, Markt
 
-3
+III
 
-Garching b. München
+Garching bei München, Stadt
 
-6
+VI
 
-Garmisch-Partenkirchen
+Garmisch-Partenkirchen, Markt
 
-6
+V
 
 Gauting
 
-6
+VI
 
-Gemünden a. Main
+Geisenfeld, Stadt
 
-2
+II
 
-Geretsried
+Gemünden am Main, Stadt
 
-4
+I
 
-Germering
+Geretsried, Stadt
 
-6
+IV
 
-Gersthofen
+Germering, Stadt
 
-4
+VI
+
+Gersthofen, Stadt
+
+III
 
 Gilching
 
-6
+VI
 
 Gräfelfing
 
-6
+VI
 
-Grafing b. München
+Grafing bei München, Stadt
 
-5
+V
 
 Gröbenzell
 
-6
+VI
 
-Großostheim
+Großostheim, Markt
 
-2
+III
 
 Grünwald
 
-6
+VI
 
-Günzburg
+Günzburg, Stadt
 
-3
+II
 
-Gunzenhausen
+Gunzenhausen, Stadt
 
-1
+I
 
 Haar
 
-6
+VI
 
-Hammelburg
+Hallbergmoos
 
-1
+VI
 
-Haßfurt
+Hammelburg, Stadt
 
-2
+I
 
-Hauzenberg
+Haßfurt, Stadt
 
-1
+II
 
-Hersbruck
+Hauzenberg, Stadt
 
-3
+I
 
-Herzogenaurach
+Herrsching a. Ammersee
 
-3
+V
 
-Hilpoltstein
+Hersbruck, Stadt
 
-1
+III
 
-Hirschaid
+Herzogenaurach, Stadt
 
-1
+III
 
-Höchstadt a. d. Aisch
+Hilpoltstein, Stadt
 
-1
+I
 
-Hösbach
+Hirschaid, Markt
 
-2
+II
 
-Hof
+Höchstadt a. d. Aisch, Stadt
 
-1
+I
 
-Holzkirchen
+Höhenkirchen-Siegertsbrunn
 
-5
+VI
 
-Illertissen
+Hösbach, Markt
 
-2
+II
 
-Immenstadt i. Allgäu
+Hof, Stadt
 
-3
+I
 
-Ingolstadt
+Holzkirchen, Markt
 
-3
+V
+
+Illertissen, Stadt
+
+II
+
+Immenstadt i. Allgäu, Stadt
+
+III
+
+Ingolstadt, Stadt
+
+III
 
 Ismaning
 
-5
+VI
 
 Karlsfeld
 
-6
+VI
 
-Karlstadt
+Karlstadt, Stadt
 
-1
+I
 
-Kaufbeuren
+Kaufbeuren, Stadt
 
-3
+II
 
-Kelheim
+Kaufering, Markt
 
-2
+IV
 
-Kempten (Allgäu)
+Kelheim, Stadt
 
-3
+II
 
-Kirchheim b. München
+Kempten (Allgäu), Stadt
 
-6
+III
+
+Kirchheim bei München
+
+VI
+
+Kirchseeon, Markt
+
+V
 
 Kissing
 
-4
+IV
 
-Kitzingen
+Kitzingen, Stadt
 
-2
+II
 
-Königsbrunn
+Königsbrunn, Stadt
 
-4
+IV
 
-Kolbermoor
+Kolbermoor, Stadt
 
-5
+V
 
-Kronach
+Kronach, Stadt
 
-1
+I
 
-Krumbach (Schwaben)
+Krumbach (Schwaben), Stadt
 
-1
+II
 
-Kümmersbruck
+Kulmbach, Stadt
 
-1
+I
 
-Kulmbach
+Landau an der Isar, Stadt
 
-1
+I
 
-Landau a. d. Isar
+Landsberg a. Lech, Stadt
 
-2
+IV
 
-Landsberg a. Lech
+Landshut, Stadt
 
-5
+III
 
-Landshut
+Langenzenn, Stadt
 
-3
+II
 
-Langenzenn
+Lappersdorf, Markt
 
-2
+III
 
-Lappersdorf
+Lauf a. d. Pegnitz, Stadt
 
-2
+IV
 
-Lauf a. d. Pegnitz
+Lauingen (Donau), Stadt
 
-3
+I
 
-Lauingen (Donau)
+Lichtenfels, Stadt
 
-1
+I
 
-Lichtenfels
+Lindau (Bodensee), Stadt
 
-1
+IV
 
-Lindau (Bodensee)
+Lindenberg i. Allgäu, Stadt
 
-4
+III
 
-Lindenberg i. Allgäu
+Lohr am Main, Stadt
 
-2
+II
 
-Lohr a. Main
+Mainburg, Stadt
 
-1
-
-Mainburg
-
-2
+II
 
 Maisach
 
-6
+VI
 
-Manching
+Manching, Markt
 
-3
+III
 
-Markt Schwaben
+Markt Schwaben, Markt
 
-6
+VI
 
-Marktheidenfeld
+Marktheidenfeld, Stadt
 
-2
+II
 
-Marktoberdorf
+Marktoberdorf, Stadt
 
-2
+II
 
-Marktredwitz
+Marktredwitz, Stadt
 
-1
+I
 
-Maxhütte-Haidhof
+Maxhütte-Haidhof, Stadt
 
-1
+II
 
-Meitingen
+Meitingen, Markt
 
-2
+II
 
-Memmingen
+Memmingen, Stadt
 
-2
+II
 
-Mering
+Mering, Markt
 
-4
+IV
 
-Miesbach
+Miesbach, Stadt
 
-5
+V
 
-Mindelheim
+Mindelheim, Stadt
 
-2
+II
 
-Mömbris
+Mömbris, Markt
 
-1
+I
 
-Moosburg a. d. Isar
+Moosburg an der Isar, Stadt
 
-4
+V
 
-Mühldorf a. Inn
+Mühldorf am Inn, Stadt
 
-3
+II
 
-Münchberg
+Münchberg, Stadt
 
-1
+I
 
-München
+München, Stadt
 
-6
+VI
 
-Murnau a. Staffelsee
+Murnau am Staffelsee, Markt
 
-6
-
-Neu-Ulm
-
-4
+VI
 
 Neubiberg
 
-5
+VI
 
-Neuburg a. d. Donau
+Neuburg an der Donau, Stadt
 
-3
+III
 
-Neufahrn b. Freising
+Neufahrn bei Freising
 
-6
+VI
 
-Neumarkt i. d. OPf.
+Neumarkt i. d. Oberpfalz, Stadt
 
-2
+III
 
-Neusäß
+Neusäß, Stadt
 
-4
+IV
 
-Neustadt a. d. Aisch
+Neustadt an der Aisch, Stadt
 
-2
+II
 
-Neustadt a. d. Donau
+Neustadt an der Donau, Stadt
 
-1
+III
 
-Neustadt b. Coburg
+Neustadt bei Coburg, Stadt
 
-1
+I
 
-Neutraubling
+Neutraubling, Stadt
 
-4
+III
 
-Nördlingen
+Neu-Ulm, Stadt
 
-2
+IV
 
-Nürnberg
+Nördlingen, Stadt
 
-4
+II
 
-Oberasbach
+Nürnberg, Stadt
 
-3
+IV
+
+Oberasbach, Stadt
+
+III
 
 Oberhaching
 
-6
+VI
 
 Oberschleißheim
 
-6
+VI
 
-Ochsenfurt
+Ochsenfurt, Stadt
 
-2
+I
 
-Olching
+Olching, Stadt
 
-6
+VI
 
-Osterhofen
+Osterhofen, Stadt
 
-2
+I
 
 Ottobrunn
 
-6
+VI
 
-Passau
+Passau, Stadt
 
-2
+II
 
-Pegnitz
+Pegnitz, Stadt
 
-2
+II
 
-Peißenberg
+Peißenberg, Markt
 
-3
+IV
 
-Peiting
+Peiting, Markt
 
-3
+II
 
-Penzberg
+Penzberg, Stadt
 
-4
+V
 
-Pfaffenhofen a. d. Ilm
+Pfaffenhofen a. d. Ilm, Stadt
 
-4
+IV
 
-Pfarrkirchen
+Pfarrkirchen, Stadt
 
-1
+I
 
 Planegg
 
-6
+VI
 
-Plattling
+Plattling, Stadt
 
-2
+II
 
-Pocking
+Pocking, Stadt
 
-2
+II
 
 Poing
 
-6
+VI
 
-Prien am Chiemsee
+Prien am Chiemsee, Markt
 
-4
+V
 
-Puchheim
+Puchheim, Stadt
 
-6
+VI
 
 Raubling
 
-4
+IV
 
-Regen
+Regen, Stadt
 
-1
+I
 
-Regensburg
+Regensburg, Stadt
 
-4
+V
 
-Regenstauf
+Regenstauf, Markt
 
-2
+II
 
-Roding
+Roding, Stadt
 
-1
+I
 
-Rödental
+Rödental, Stadt
 
-1
+I
 
-Röthenbach a. d. Pegnitz
+Röthenbach a. d. Pegnitz, Stadt
 
-3
+III
 
-Rosenheim
+Rosenheim, Stadt
 
-5
+V
 
-Roßtal
+Roth, Stadt
 
-2
+II
 
-Roth
+Rothenburg ob der Tauber, Stadt
 
-2
+II
 
-Rothenburg ob der Tauber
+Schongau, Stadt
 
-1
+III
 
-Schongau
+Schrobenhausen, Stadt
 
-3
+I
 
-Schrobenhausen
+Schwabach, Stadt
 
-2
+III
 
-Schwabach
+Schwabmünchen, Stadt
 
-3
+II
 
-Schwabmünchen
+Schwandorf, Stadt
 
-3
+I
 
-Schwandorf
+Schweinfurt, Stadt
 
-1
+II
 
-Schweinfurt
+Selb, Stadt
 
-2
+I
 
-Selb
+Senden, Stadt
 
-1
+IV
 
-Senden
+Sonthofen, Stadt
 
-4
+III
 
-Simbach a. Inn
+Stadtbergen, Stadt
 
-1
+IV
 
-Sonthofen
+Starnberg, Stadt
 
-3
+VI
 
-Stadtbergen
+Stein, Stadt
 
-3
+IV
 
-Starnberg
+Stephanskirchen
 
-6
+IV
 
-Stein
+Straubing, Stadt
 
-4
+II
 
-Straubing
+Sulzbach-Rosenberg, Stadt
 
-2
-
-Sulzbach-Rosenberg
-
-1
+I
 
 Taufkirchen
 
-3
+III
 
-Traunreut
+Traunreut, Stadt
 
-3
+III
 
-Traunstein
+Traunstein, Stadt
 
-3
+III
 
-Treuchtlingen
+Treuchtlingen, Stadt
 
-2
+I
 
-Trostberg
+Trostberg, Stadt
 
-2
+II
+
+Unterföhring
+
+VI
 
 Unterhaching
 
-6
+VI
 
-Unterschleißheim
+Unterschleißheim, Stadt
 
-6
+VI
 
 Vaterstetten
 
-6
+VI
 
-Veitshöchheim
+Vilsbiburg, Stadt
 
-4
+I
 
-Vilsbiburg
+Vilshofen a. d. Donau, Stadt
 
-1
+I
 
-Vilshofen
+Vöhringen, Stadt
 
-1
+III
 
-Vöhringen
+Waldkirchen, Stadt
 
-3
+I
 
-Waldkirchen
+Waldkraiburg, Stadt
 
-1
+II
 
-Waldkraiburg
+Wasserburg am Inn, Stadt
 
-2
+IV
 
-Wasserburg a. Inn
+Weiden i. d. Oberpfalz, Stadt
 
-4
+I
 
-Weiden i. d. OPf.
+Weilheim i. Oberbayern, Stadt
 
-2
+IV
 
-Weilheim i. OB
+Weißenburg i. Bayern, Stadt
 
-5
+I
 
-Weißenburg i. Bay.
+Weißenhorn, Stadt
 
-2
+III
 
-Weißenhorn
+Wendelstein, Markt
 
-3
+IV
 
-Wendelstein
+Werneck, Markt
 
-3
+I
 
-Werneck
+Wolfratshausen, Stadt
 
-1
+V
 
-Wolfratshausen
+Wolnzach, Markt
 
-6
+II
 
-Wolnzach
+Würzburg, Stadt
 
-1
+IV
 
-Würzburg
+Zirndorf, Stadt
 
-4
-
-Wunsiedel
-
-1
-
-Zirndorf
-
-3
-
-Zwiesel
-
-1
+II
 
 Kreis
 
-Mieten-
-stufe
-
-ohne die Gemeinden
+Mietenstufe
 
 Aichach-Friedberg
 
-2
-
-Aichach, Friedberg, Kissing, Mering
+I
 
 Altötting
 
-2
-
-Altötting, Burghausen, Burgkirchen a. d. Alz
+I
 
 Amberg-Sulzbach
 
-1
-
-Kümmersbruck, Sulzbach-Rosenberg
+I
 
 Ansbach
 
-1
-
-Dinkelsbühl, Feuchtwangen,
-Rothenburg ob der Tauber
+I
 
 Aschaffenburg
 
-2
-
-Alzenau i. UFr., Großostheim, Hösbach, Mömbris
+II
 
 Augsburg
 
-2
-
-Bobingen, Diedorf, Gersthofen, Königsbrunn,
-Meitingen, Neusäß, Schwabmünchen, Stadtbergen
+II
 
 Bad Kissingen
 
-1
-
-Bad Kissingen, Hammelburg
+I
 
 Bad Tölz-Wolfratshausen
 
-4
-
-Bad Tölz, Geretsried, Wolfratshausen
+IV
 
 Bamberg
 
-1
-
-Hirschaid
+I
 
 Bayreuth
 
-1
-
-Pegnitz
+I
 
 Berchtesgadener Land
 
-3
-
-Ainring, Bad Reichenhall, Freilassing
+III
 
 Cham
 
-1
-
-Cham, Roding
+I
 
 Coburg
 
-1
-
-Neustadt b. Coburg, Rödental
+I
 
 Dachau
 
-5
-
-Dachau, Karlsfeld
+V
 
 Deggendorf
 
-1
-
-Deggendorf, Osterhofen, Plattling
+I
 
 Dillingen a. d. Donau
 
-1
-
-Dillingen a. d. Donau, Lauingen (Donau)
+I
 
 Dingolfing-Landau
 
-1
-
-Dingolfing, Landau a. d. Isar
+I
 
 Donau-Ries
 
-1
-
-Donauwörth, Nördlingen
+I
 
 Ebersberg
 
-5
-
-Ebersberg, Grafing b. München, Markt Schwaben, Poing, Vaterstetten
+VI
 
 Eichstätt
 
-1
-
-Eichstätt, Gaimersheim
+I
 
 Erding
 
-4
-
-Dorfen, Erding
+IV
 
 Erlangen-Höchstadt
 
-2
-
-Eckental, Herzogenaurach, Höchstadt a. d. Aisch
+III
 
 Forchheim
 
-1
-
-Forchheim
+I
 
 Freising
 
-4
-
-Eching, Freising, Moosburg a. d. Isar,
-Neufahrn b. Freising
+IV
 
 Freyung-Grafenau
 
-1
+I
 
-Waldkirchen
+Fürth
+
+III
 
 Fürstenfeldbruck
 
-5
-
-Eichenau, Fürstenfeldbruck, Germering, Gröbenzell, Maisach, Olching, Puchheim
-
-Fürth
-
-2
-
-Cadolzburg, Langenzenn, Oberasbach, Roßtal, Stein, Zirndorf
+V
 
 Garmisch-Partenkirchen
 
-5
-
-Garmisch-Partenkirchen, Murnau a. Staffelsee
+V
 
 Günzburg
 
-2
-
-Günzburg, Krumbach (Schwaben)
+I
 
 Haßberge
 
-1
-
-Haßfurt
+I
 
 Hof
 
-1
-
-Münchberg
+I
 
 Kelheim
 
-1
-
-Abensberg, Bad Abbach, Kelheim, Mainburg,
-Neustadt a. d. Donau
+I
 
 Kitzingen
 
-1
-
-Kitzingen
+I
 
 Kronach
 
-1
-
-Kronach
+I
 
 Kulmbach
 
-1
-
-Kulmbach
+I
 
 Landsberg a. Lech
 
-3
-
-Landsberg a. Lech
+III
 
 Landshut
 
-1
-
-Altdorf, Ergolding, Essenbach, Vilsbiburg
+I
 
 Lichtenfels
 
-1
-
-Bad Staffelstein, Lichtenfels
+I
 
 Lindau (Bodensee)
 
-2
-
-Lindau (Bodensee), Lindenberg i. Allgäu
+I
 
 Main-Spessart
 
-1
-
-Gemünden a. Main, Karlstadt, Lohr a. Main,
-Marktheidenfeld
+I
 
 Miesbach
 
-4
-
-Holzkirchen, Miesbach
+IV
 
 Miltenberg
 
-2
-
-Erlenbach am Main
+II
 
 Mühldorf a. Inn
 
-1
-
-Mühldorf a. Inn, Waldkraiburg
+II
 
 München
 
-6
-
-Garching b. München, Gräfelfing, Grünwald, Haar,
-Ismaning, Kirchheim b. München, Neubiberg,
-Oberhaching, Oberschleißheim, Ottobrunn, Planegg, Taufkirchen, Unterhaching, Unterschleißheim
-
-Neu-Ulm
-
-1
-
-Illertissen, Neu-Ulm, Senden, Vöhringen, Weißenhorn
+VI
 
 Neuburg-Schrobenhausen
 
-1
+I
 
-Neuburg a. d. Donau, Schrobenhausen
+Neumarkt i. d. Oberpfalz
 
-Neumarkt i. d. OPf.
-
-1
-
-Neumarkt i. d. OPf.
+I
 
 Neustadt a. d. Aisch-Bad Windsheim
 
-1
-
-Bad Windsheim, Neustadt a. d. Aisch
+I
 
 Neustadt a. d. Waldnaab
 
-1
+I
 
---
+Neu-Ulm
+
+II
 
 Nürnberger Land
 
-2
-
-Altdorf b. Nürnberg, Burgthann, Feucht, Hersbruck,
-Lauf a. d. Pegnitz, Röthenbach a. d. Pegnitz
+II
 
 Oberallgäu
 
-3
-
-Immenstadt i. Allgäu, Sonthofen
+II
 
 Ostallgäu
 
-1
-
-Buchloe, Füssen, Marktoberdorf
+II
 
 Passau
 
-1
-
-Hauzenberg, Pocking, Vilshofen
+I
 
 Pfaffenhofen a. d. Ilm
 
-2
-
-Manching, Pfaffenhofen a. d. Ilm, Wolnzach
+III
 
 Regen
 
-1
-
-Regen, Zwiesel
+I
 
 Regensburg
 
-2
-
-Lappersdorf, Neutraubling, Regenstauf
+II
 
 Rhön-Grabfeld
 
-1
-
-Bad Neustadt a. d. Saale
+I
 
 Rosenheim
 
-4
-
-Bad Aibling, Bruckmühl, Feldkirchen-Westerham,
-Kolbermoor, Prien am Chiemsee, Raubling,
-Wasserburg a. Inn
+IV
 
 Roth
 
-2
-
-Hilpoltstein, Roth, Wendelstein
+II
 
 Rottal-Inn
 
-1
-
-Eggenfelden, Pfarrkirchen, Simbach a. Inn
+I
 
 Schwandorf
 
-1
-
-Burglengenfeld, Maxhütte-Haidhof, Schwandorf
+I
 
 Schweinfurt
 
-1
-
-Werneck
+I
 
 Starnberg
 
-6
-
-Gauting, Gilching, Starnberg
+VI
 
 Straubing-Bogen
 
-1
-
-Bogen
+I
 
 Tirschenreuth
 
-1
-
---
+I
 
 Traunstein
 
-2
-
-Traunreut, Traunstein, Trostberg
+II
 
 Unterallgäu
 
-1
-
-Bad Wörishofen, Mindelheim
+I
 
 Weilheim-Schongau
 
-3
-
-Peißenberg, Peiting, Penzberg, Schongau,
-Weilheim i. OB
+III
 
 Weißenburg-Gunzenhausen
 
-1
-
-Gunzenhausen, Treuchtlingen, Weißenburg i. Bay.
+I
 
 Würzburg
 
-2
+II
 
-Ochsenfurt, Veitshöchheim
+Wunsiedel im Fichtelgebirge
 
-Wunsiedel i. Fichtelgebirge
+I
 
-1
-
-Marktredwitz, Selb, Wunsiedel
-
-**           Berlin**
+Land:**Berlin**
 
 Gemeinde
 
-Mieten-
-stufe
+Mietenstufe
 
-Berlin
+Berlin, Stadt
 
-4
+IV
 
-**Brandenburg**
+Land:**Brandenburg**
 
 Gemeinde
 
-Mieten-
-stufe
+Mietenstufe
 
-Ahrensfelde-Blumberg
+Ahrensfelde
 
-3
+IV
 
-Angermünde
+Angermünde, Stadt
 
-2
+II
 
-Bad Freienwalde (Oder)
+Bad Belzig
 
-2
+III
 
-Bad Liebenwerda
+Bad Freienwalde (Oder), Stadt
 
-1
+II
 
-Beelitz
+Beelitz, Stadt
 
-2
+II
 
-Belzig
+Bernau bei Berlin, Stadt
 
-2
-
-Bernau bei Berlin
-
-3
+III
 
 Blankenfelde-Mahlow
 
-4
+IV
 
-Brandenburg an der Havel
+Brandenburg a. d. Havel, Stadt
 
-3
+II
 
 Brieselang
 
-4
+III
 
-Cottbus
+Cottbus, Stadt
 
-2
+II
 
-Eberswalde
+Eberswalde, Stadt
 
-2
+III
 
-Eisenhüttenstadt
+Eisenhüttenstadt, Stadt
 
-2
+III
 
-Erkner
+Erkner, Stadt
 
-3
+III
 
-Falkensee
+Falkensee, Stadt
 
-4
+V
 
-Finsterwalde
+Finsterwalde, Stadt
 
-2
+II
 
-Forst (Lausitz)
+Forst (Lausitz), Stadt
 
-2
+II
 
-Frankfurt (Oder)
+Frankfurt (Oder), Stadt
 
-3
+III
 
 Fredersdorf-Vogelsdorf
 
-3
+IV
 
-Fürstenwalde/Spree
+Fürstenwalde/Spree, Stadt
 
-2
+II
 
 Glienicke/Nordbahn
 
-4
+V
 
-Großräschen
+Guben, Stadt
 
-1
+II
 
-Guben
+Hennigsdorf, Stadt
 
-3
-
-Hennigsdorf
-
-3
-
-Herzberg (Elster)
-
-2
+III
 
 Hohen Neuendorf
 
-4
+IV
 
 Hoppegarten
 
-4
+V
 
-Jüterbog
+Jüterbog, Stadt
 
-1
+I
 
 Kleinmachnow
 
-4
+V
 
 Kloster Lehnin
 
-3
+II
 
-Königs Wusterhausen
+Königs Wusterhausen, Stadt
 
-3
+III
 
-Lauchhammer
+Lauchhammer, Stadt
 
-3
+II
 
-Luckau
+Lübben/Spreewald, Stadt
 
-2
+III
 
-Luckenwalde
+Lübbenau/Spreewald, Stadt
 
-2
+II
 
-Ludwigsfelde
+Luckenwalde, Stadt
 
-3
+II
 
-Lübben/Spreewald
+Ludwigsfelde, Stadt
 
-3
-
-Lübbenau/Spreewald
-
-2
+III
 
 Michendorf
 
-4
+V
 
 Mühlenbecker Land
 
-4
+III
 
-Nauen
+Nauen, Stadt
 
-3
+II
 
 Neuenhagen bei Berlin
 
-4
+IV
 
-Neuruppin
+Neuruppin, Fontanestadt
 
-2
+II
 
 Oberkrämer
 
-2
+II
 
-Oranienburg
+Oranienburg, Stadt
 
-3
+III
 
 Panketal
 
-3
+IV
 
-Perleberg
+Perleberg, Stadt
 
-2
+I
 
 Petershagen/Eggersdorf
 
-3
+III
 
-Potsdam
+Potsdam, Stadt
 
-4
+IV
 
-Prenzlau
+Prenzlau, Stadt
 
-3
+III
 
-Pritzwalk
+Pritzwalk, Stadt
 
-1
+I
 
-Rathenow
+Rangsdorf
 
-3
+IV
 
-Rüdersdorf b. Bln.
+Rathenow, Stadt
 
-2
+II
+
+Rüdersdorf bei Berlin
+
+II
 
 Schönefeld
 
-5
+IV
 
-Schöneiche b. Berlin
+Schöneiche bei Berlin
 
-4
+IV
 
-Schorfheide
+Schwedt/Oder, Stadt
 
-2
+II
 
-Schwedt/Oder
+Schwielowsee
 
-2
+IV
 
-Senftenberg
+Senftenberg, Stadt
 
-3
+III
 
-Spremberg
+Spremberg, Stadt
 
-3
+II
 
 Stahnsdorf
 
-3
+IV
 
-Strausberg
+Strausberg, Stadt
 
-3
+III
 
-Teltow
+Teltow, Stadt
 
-4
+IV
 
-Templin
+Templin, Stadt
 
-2
+II
 
-Velten
+Velten, Stadt
 
-3
+III
 
 Wandlitz
 
-2
+II
 
-Werder (Havel)
+Werder (Havel), Stadt
 
-4
+IV
 
-Wittenberge
+Wittenberge, Stadt
 
-2
+II
 
-Wittstock/Dosse
+Wittstock/Dosse, Stadt
 
-2
+I
 
-Zehdenick
+Zehdenick, Stadt
 
-2
+I
 
 Zeuthen
 
-3
+II
 
 Zossen
 
-2
+II
 
 Kreis
 
-Mieten-
-stufe
-
-ohne die Gemeinden
+Mietenstufe
 
 Barnim
 
-2
-
-Ahrensfelde-Blumberg, Bernau bei Berlin, Eberswalde,
-Panketal, Schorfheide, Wandlitz
+II
 
 Dahme-Spreewald
 
-3
-
-Königs Wusterhausen, Lübben/Spreewald, Luckau, Schönefeld, Zeuthen
+II
 
 Elbe-Elster
 
-1
-
-Bad Liebenwerda, Finsterwalde, Herzberg (Elster)
+I
 
 Havelland
 
-2
-
-Brieselang, Falkensee, Nauen, Rathenow
+II
 
 Märkisch-Oderland
 
-2
-
-Bad Freienwalde (Oder), Fredersdorf-Vogelsdorf,
-Hoppegarten, Neuenhagen bei Berlin,
-Petershagen/Eggersdorf, Rüdersdorf b. Bln.,
-Strausberg
+I
 
 Oberhavel
 
-2
-
-Glienicke/Nordbahn, Hennigsdorf, Hohen Neuendorf,
-Mühlenbecker Land, Oberkrämer, Oranienburg, Velten,
-Zehdenick
+II
 
 Oberspreewald-Lausitz
 
-2
-
-Großräschen, Lauchhammer, Lübbenau/Spreewald,
-Senftenberg
+II
 
 Oder-Spree
 
-2
-
-Eisenhüttenstadt, Erkner, Fürstenwalde/Spree,
-Schöneiche b. Berlin
+II
 
 Ostprignitz-Ruppin
 
-2
-
-Neuruppin, Wittstock/Dosse
+II
 
 Potsdam-Mittelmark
 
-2
-
-Beelitz, Belzig, Kleinmachnow, Kloster Lehnin,
-Michendorf, Stahnsdorf, Teltow, Werder (Havel)
+II
 
 Prignitz
 
-1
-
-Perleberg, Pritzwalk, Wittenberge
+I
 
 Spree-Neiße
 
-1
-
-Forst (Lausitz), Guben, Spremberg
+I
 
 Teltow-Fläming
 
-2
-
-Blankenfelde-Mahlow, Jüterbog, Luckenwalde,
-Ludwigsfelde, Zossen
+II
 
 Uckermark
 
-1
+I
 
-Angermünde, Prenzlau, Schwedt/Oder, Templin
-
-**           Bremen**
+Land:**Bremen**
 
 Gemeinde
 
-Mieten-
-stufe
+Mietenstufe
 
-Bremen
+Bremen, Stadt
 
-4
+IV
 
 Bremerhaven
 
-3
+III
 
-**           Hamburg**
-
-Gemeinde
-
-Mieten-
-stufe
-
-Hamburg
-
-5
-
-**Hessen**
+Land:**Hamburg**
 
 Gemeinde
 
-Mieten-
-stufe
+Mietenstufe
 
-Alsfeld
+Hamburg, Freie und Hansestadt
 
-2
+VI
+
+Land:**Hessen**
+
+Gemeinde
+
+Mietenstufe
+
+Alsfeld, Stadt
+
+II
 
 Altenstadt
 
-4
+III
 
-Aßlar
+Aßlar, Stadt
 
-3
+III
 
-Babenhausen
+Babenhausen, Stadt
 
-4
+III
 
-Bad Arolsen
+Bad Arolsen, Stadt
 
-1
+I
 
-Bad Camberg
+Bad Camberg, Stadt
 
-3
+III
 
-Bad Hersfeld
+Bad Hersfeld, Kreisstadt
 
-2
+II
 
-Bad Homburg v. d. Höhe
+Bad Homburg v. d. Höhe, Stadt
 
-6
+VI
 
-Bad Nauheim
+Bad Nauheim, Stadt
 
-5
+IV
 
-Bad Schwalbach
+Bad Schwalbach, Kreisstadt
 
-4
+IV
 
-Bad Soden am Taunus
+Bad Soden am Taunus, Stadt
 
-5
+V
 
-Bad Soden-Salmünster
+Bad Soden-Salmünster, Stadt
 
-2
+II
 
-Bad Vilbel
+Bad Vilbel, Stadt
 
-5
+V
 
-Bad Wildungen
+Bad Wildungen, Stadt
 
-2
+II
 
-Baunatal
+Baunatal, Stadt
 
-2
+II
 
-Bebra
+Bebra, Stadt
 
-1
+I
 
-Bensheim
+Bensheim, Stadt
 
-4
+IV
 
-Biebertal
+Biedenkopf, Stadt
 
-3
-
-Biedenkopf
-
-1
+I
 
 Birkenau
 
-2
+II
 
 Bischofsheim
 
-4
+IV
 
-Borken (Hessen)
+Borken (Hessen), Stadt
 
-2
+I
 
-Braunfels
+Braunfels, Stadt
 
-2
+II
 
-Bruchköbel
+Bruchköbel, Stadt
 
-4
+IV
 
-Büdingen
+Büdingen, Stadt
 
-2
+II
 
-Bürstadt
+Bürstadt, Stadt
 
-3
+III
 
 Büttelborn
 
-5
+V
 
 Buseck
 
-3
+II
 
-Butzbach
+Butzbach, Friedrich-Ludwig-Weidig-Stadt
 
-3
+II
 
-Darmstadt
+Darmstadt, Wissenschaftsstadt
 
-5
+VI
 
 Dautphetal
 
-1
+I
 
-Dieburg
+Dieburg, Stadt
 
-4
+IV
 
-Dietzenbach
+Dietzenbach, Kreisstadt
 
-5
+V
 
-Dillenburg
+Dillenburg, Stadt
 
-2
+II
 
-Dreieich
+Dreieich, Stadt
 
-5
+V
+
+Egelsbach
+
+V
 
 Eichenzell
 
-1
+I
 
-Eltville am Rhein
+Eltville am Rhein, Stadt
 
-5
+V
 
-Eppstein
+Eppstein, Stadt
 
-4
+VI
 
-Erbach
+Erbach, Kreisstadt
 
-3
+III
 
 Erlensee
 
-4
+IV
 
-Eschborn
+Eschborn, Stadt
 
-6
+V
 
 Eschenburg
 
-2
+I
 
-Eschwege
+Eschwege, Kreisstadt
 
-1
+I
 
-Felsberg
+Felsberg, Stadt
 
-1
+I
 
-Flörsheim am Main
+Flörsheim am Main, Stadt
 
-4
+IV
 
-Frankenberg (Eder)
+Frankenberg (Eder), Stadt
 
-2
+I
 
-Frankfurt am Main
+Frankfurt am Main, Stadt
 
-6
+VI
 
 Freigericht
 
-3
+III
 
-Friedberg (Hessen)
+Friedberg (Hessen), Kreisstadt
 
-4
+IV
 
-Friedrichsdorf
+Friedrichsdorf, Stadt
 
-6
+VI
 
-Fritzlar
+Fritzlar, Dom- und Kaiserstadt
 
-2
+I
 
 Fürth
 
-2
+III
 
-Fulda
+Fulda, Stadt
 
-2
+II
 
 Fuldatal
 
-2
+II
 
-Geisenheim
+Geisenheim, Stadt
 
-4
+III
 
-Gelnhausen
+Gelnhausen, Barbarossastadt
 
-4
+III
 
-Gießen
+Gießen, Universitätsstadt
 
-3
+IV
 
-Ginsheim-Gustavsburg
+Ginsheim-Gustavsburg, Stadt
 
-3
+IV
 
-Gladenbach
+Gladenbach, Stadt
 
-2
+II
 
-Griesheim
+Griesheim, Stadt
 
-4
+V
 
-Groß-Gerau
+Groß-Gerau, Stadt
 
-5
+V
 
-Groß-Umstadt
+Groß-Umstadt, Stadt
 
-4
+III
 
 Groß-Zimmern
 
-5
+V
 
-Grünberg
+Grünberg, Stadt
 
-2
+II
 
 Gründau
 
-3
+III
 
-Hadamar
+Hadamar, Stadt
 
-2
+II
 
-Haiger
+Haiger, Stadt
 
-2
+II
 
 Hainburg
 
-4
+IV
 
-Hanau
+Hanau, Brüder-Grimm-Stadt
 
-4
+IV
 
-Hattersheim am Main
+Hattersheim am Main, Stadt
 
-5
+VI
 
-Heppenheim (Bergstraße)
+Heppenheim (Bergstraße), Kreisstadt
 
-4
+V
 
-Herborn
+Herborn, Stadt
 
-3
+III
 
-Hessisch Lichtenau
+Hessisch Lichtenau, Stadt
 
-2
+I
 
-Heusenstamm
+Heusenstamm, Stadt
 
-5
+VI
 
-Hochheim am Main
+Hochheim am Main, Stadt
 
-4
+V
 
-Hofgeismar
+Höchst i. Odenwald
 
-2
+III
 
-Hofheim am Taunus
+Hofgeismar, Stadt
 
-4
+II
 
-Homberg (Efze)
+Hofheim am Taunus, Kreisstadt
 
-2
+V
 
-Hünfeld
+Homberg (Efze), Kreisstadt
 
-1
+I
 
-Hünfelden
+Hünfeld, Konrad-Zuse-Stadt
 
-2
+I
 
 Hünstetten
 
-2
+II
 
 Hüttenberg
 
-2
+II
 
-Hungen
+Hungen, Stadt
 
-2
+II
 
-Idstein
+Idstein, Stadt
 
-4
+III
 
-Karben
+Karben, Stadt
 
-5
+V
 
-Kassel
+Kassel, documenta-Stadt
 
-3
+III
 
 Kaufungen
 
-2
+II
 
-Kelkheim (Taunus)
+Kelkheim (Taunus), Stadt
 
-5
+VI
 
-Kelsterbach
+Kelsterbach, Stadt
 
-4
+IV
 
-Kirchhain
+Kirchhain, Stadt
 
-2
+II
 
-Königstein im Taunus
+Königstein im Taunus, Stadt
 
-6
+VI
 
-Korbach
+Korbach, Kreisstadt
 
-1
+II
 
 Kriftel
 
-5
+VI
 
-Kronberg im Taunus
+Kronberg im Taunus, Stadt
 
-5
+V
 
 Künzell
 
-2
+I
 
-Lampertheim
+Lampertheim, Stadt
 
-3
+III
 
-Langen (Hessen)
+Langen (Hessen), Stadt
 
-5
+V
 
-Langenselbold
+Langenselbold, Stadt
 
-3
+III
 
 Langgöns
 
-3
+III
 
-Laubach
+Lauterbach (Hessen), Kreisstadt
 
-2
+II
 
-Lauterbach (Hessen)
+Lich, Stadt
 
-2
+II
 
-Lich
+Limburg an der Lahn, Kreisstadt
 
-3
+II
 
-Limburg a. d. Lahn
+Linden, Stadt
 
-2
-
-Linden
-
-4
+III
 
 Lohfelden
 
-2
+II
 
-Lorsch
+Lorsch, Karolingerstadt
 
-2
+III
 
-Maintal
+Maintal, Stadt
 
-5
+V
 
-Marburg
+Marburg, Universitätsstadt
 
-4
+V
 
-Melsungen
+Melsungen, Stadt
 
-1
+I
 
-Michelstadt
+Michelstadt, Stadt
 
-4
+IV
 
-Mörfelden-Walldorf
+Mörfelden-Walldorf, Stadt
 
-5
+V
 
-Mörlenbach
+Mühlheim am Main, Stadt
 
-2
-
-Mühlheim am Main
-
-5
+V
 
 Mühltal
 
-5
+V
 
 Münster
 
-4
+IV
 
 Nauheim
 
-6
+IV
 
-Neu-Anspach
+Neu-Anspach, Stadt
 
-5
-
-Neu-Isenburg
-
-6
+IV
 
 Neuhof
 
-1
+I
 
-Nidda
+Neu-Isenburg, Stadt
 
-2
+VI
 
-Nidderau
+Nidda, Stadt
 
-4
+I
+
+Nidderau, Stadt
+
+III
 
 Niedernhausen
 
-5
+V
 
 Niestetal
 
-2
+III
 
-Ober-Ramstadt
+Ober-Ramstadt, Stadt
 
-4
+V
 
-Obertshausen
+Obertshausen, Stadt
 
-5
+V
 
-Oberursel (Taunus)
+Oberursel (Taunus), Stadt
 
-5
+VI
 
-Oestrich-Winkel
+Oestrich-Winkel, Stadt
 
-4
+V
 
-Offenbach am Main
+Offenbach am Main, Stadt
 
-6
+VI
 
 Petersberg
 
-2
+II
 
-Pfungstadt
+Pfungstadt, Stadt
 
-4
+V
 
-Pohlheim
+Pohlheim, Stadt
 
-2
+II
 
-Raunheim
+Raunheim, Stadt
 
-6
+V
 
-Reinheim
+Reinheim, Stadt
 
-3
+IV
 
 Reiskirchen
 
-3
+III
 
-Riedstadt
+Riedstadt, Stadt
 
-5
+IV
 
 Rodenbach
 
-5
+IV
 
-Rodgau
+Rodgau, Stadt
 
-5
+V
 
-Rödermark
+Rödermark, Stadt
 
-4
+V
 
-Rosbach v. d. Höhe
+Rosbach v. d. Höhe, Stadt
 
-4
+IV
 
 Roßdorf
 
-4
+IV
 
-Rotenburg a. d. Fulda
+Rotenburg a. d. Fulda, Stadt
 
-1
+I
 
-Rüsselsheim
+Rüsselsheim, Stadt
 
-5
+VI
 
-Schauenburg
+Schlüchtern, Stadt
 
-1
-
-Schlitz
-
-1
-
-Schlüchtern
-
-2
+II
 
 Schöneck
 
-3
+IV
 
-Schotten
+Schotten, Stadt
 
-2
+I
 
-Schwalbach am Taunus
+Schwalbach am Taunus, Stadt
 
-5
+V
 
-Schwalmstadt
+Schwalmstadt, Stadt
 
-1
+I
 
 Seeheim-Jugenheim
 
-5
+V
 
-Seligenstadt
+Seligenstadt, Stadt
 
-3
+IV
 
-Solms
+Solms, Stadt
 
-2
+II
 
-Stadtallendorf
+Stadtallendorf, Stadt
 
-2
+II
 
-Steinau an der Straße
+Steinau an der Straße, Brüder-Grimm-Stadt
 
-2
+II
 
-Taunusstein
+Steinbach (Taunus), Stadt
 
-4
+V
+
+Taunusstein, Stadt
+
+IV
 
 Trebur
 
-5
+V
 
-Usingen
+Usingen, Stadt
 
-5
+IV
 
-Vellmar
+Vellmar, Stadt
 
-3
+II
 
-Viernheim
+Viernheim, Stadt
 
-3
+IV
 
-Wächtersbach
+Wächtersbach, Stadt
 
-3
+III
 
 Wald-Michelbach
 
-2
+II
 
-Weilburg
+Weilburg, Stadt
 
-3
+II
 
-Weiterstadt
+Weiterstadt, Stadt
 
-5
+V
 
 Wettenberg
 
-3
+III
 
-Wetzlar
+Wetzlar, Stadt
 
-3
+III
 
-Wiesbaden
+Wiesbaden, Landeshauptstadt
 
-6
+VI
 
-Witzenhausen
+Witzenhausen, Stadt
 
-1
+I
 
-Wolfhagen
+Wolfhagen, Stadt
 
-1
+I
 
 Kreis
 
-Mieten-
-stufe
-
-ohne die Gemeinden
+Mietenstufe
 
 Bergstraße
 
-3
-
-Bensheim, Birkenau, Bürstadt, Fürth,
-Heppenheim (Bergstraße), Lampertheim, Lorsch,
-Mörlenbach, Viernheim, Wald-Michelbach
+II
 
 Darmstadt-Dieburg
 
-4
-
-Babenhausen, Dieburg, Griesheim, Groß-Umstadt,
-Groß-Zimmern, Mühltal, Münster, Ober-Ramstadt, Pfungstadt, Reinheim, Roßdorf, Seeheim-Jugenheim, Weiterstadt
+IV
 
 Fulda
 
-1
-
-Eichenzell, Fulda, Hünfeld, Künzell, Neuhof,
-Petersberg
+I
 
 Gießen
 
-3
-
-Biebertal, Buseck, Gießen, Grünberg, Hungen,
-Langgöns, Laubach, Lich, Linden, Pohlheim,
-Reiskirchen, Wettenberg
+II
 
 Groß-Gerau
 
-4
-
-Bischofsheim, Büttelborn, Ginsheim-Gustavsburg,
-Groß-Gerau, Kelsterbach, Mörfelden-Walldorf,
-Nauheim, Raunheim, Riedstadt, Rüsselsheim, Trebur
+IV
 
 Hersfeld-Rotenburg
 
-1
-
-Bad Hersfeld, Bebra, Rotenburg a. d. Fulda
+I
 
 Hochtaunuskreis
 
-4
-
-Bad Homburg v. d. Höhe, Friedrichsdorf, Königstein
-im Taunus, Kronberg im Taunus, Neu-Anspach,
-Oberursel (Taunus), Usingen
+IV
 
 Kassel
 
-1
-
-Baunatal, Fuldatal, Hofgeismar, Kaufungen, Lohfelden,
-Niestetal, Schauenburg, Vellmar, Wolfhagen
+I
 
 Lahn-Dill-Kreis
 
-2
-
-Aßlar, Braunfels, Dillenburg, Eschenburg, Haiger,
-Herborn, Hüttenberg, Solms, Wetzlar
+I
 
 Limburg-Weilburg
 
-2
-
-Bad Camberg, Hadamar, Hünfelden,
-Limburg a. d. Lahn, Weilburg
+II
 
 Main-Kinzig-Kreis
 
-3
-
-Bad Soden-Salmünster, Bruchköbel, Erlensee,
-Freigericht, Gelnhausen, Gründau, Hanau,
-Langenselbold, Maintal, Nidderau, Rodenbach, Schlüchtern, Schöneck, Steinau an der Straße, Wächtersbach
+III
 
 Main-Taunus-Kreis
 
-4
-
-Bad Soden am Taunus, Eppstein, Eschborn, Flörsheim am Main, Hattersheim am Main, Hochheim am Main, Hofheim am Taunus, Kelkheim (Taunus), Kriftel, Schwalbach am Taunus
+VI
 
 Marburg-Biedenkopf
 
-2
-
-Biedenkopf, Dautphetal, Gladenbach, Kirchhain,
-Marburg, Stadtallendorf
+I
 
 Odenwaldkreis
 
-2
-
-Erbach, Michelstadt
+II
 
 Offenbach
 
-5
-
-Dietzenbach, Dreieich, Hainburg, Heusenstamm,
-Langen (Hessen), Mühlheim am Main, Neu-Isenburg,
-Obertshausen, Rodgau, Rödermark, Seligenstadt
+III
 
 Rheingau-Taunus-Kreis
 
-3
-
-Bad Schwalbach, Eltville am Rhein, Geisenheim, Hünstetten, Idstein, Niedernhausen, Oestrich-Winkel, Taunusstein
+III
 
 Schwalm-Eder-Kreis
 
-1
-
-Borken (Hessen), Felsberg, Fritzlar, Homberg (Efze),
-Melsungen, Schwalmstadt
+I
 
 Vogelsbergkreis
 
-1
-
-Alsfeld, Lauterbach (Hessen), Schlitz, Schotten
+I
 
 Waldeck-Frankenberg
 
-1
-
-Bad Arolsen, Bad Wildungen, Frankenberg (Eder), Korbach
+I
 
 Werra-Meißner-Kreis
 
-1
-
-Eschwege, Hessisch Lichtenau, Witzenhausen
+I
 
 Wetteraukreis
 
-3
+II
 
-Altenstadt, Bad Nauheim, Bad Vilbel, Büdingen,
-Butzbach, Friedberg (Hessen), Karben, Nidda,
-Rosbach v. d. Höhe
-
-**Mecklenburg-Vorpommern**
+Land:**Mecklenburg-Vorpommern**
 
 Gemeinde
 
-Mieten-
-stufe
+Mietenstufe
 
-Anklam
+Anklam, Stadt
 
-3
+II
 
-Bad Doberan
+Bad Doberan, Stadt
 
-4
+IV
 
-Bergen auf Rügen
+Bergen auf Rügen, Stadt
 
-3
+III
 
-Boizenburg/Elbe
+Boizenburg/Elbe, Stadt
 
-4
+III
 
-Demmin
+Demmin, Hansestadt
 
-2
+II
 
-Greifswald
+Greifswald, Hansestadt
 
-3
+IV
 
-Grevesmühlen
+Grevesmühlen, Stadt
 
-3
+III
 
-Grimmen
+Güstrow, Stadt
 
-3
+II
 
-Güstrow
+Hagenow, Stadt
 
-3
+II
 
-Hagenow
+Ludwigslust, Stadt
 
-2
+II
 
-Ludwigslust
+Neubrandenburg, Stadt
 
-2
+III
 
-Neubrandenburg
+Neustrelitz, Stadt
 
-3
+II
 
-Neustrelitz
+Parchim, Stadt
 
-2
+II
 
-Parchim
+Pasewalk, Stadt
 
-3
+I
 
-Pasewalk
+Ribnitz-Damgarten, Stadt
 
-2
+II
 
-Ribnitz-Damgarten
+Rostock, Hansestadt
 
-2
+IV
+
+Schwerin, Landeshauptstadt
+
+III
+
+Stralsund, Hansestadt
+
+III
+
+Waren (Müritz), Stadt
+
+III
+
+Wismar, Hansestadt
+
+III
+
+Wolgast, Stadt
+
+III
+
+Kreis
+
+Mietenstufe
 
 Rostock
 
-5
+II
 
-Sassnitz
+Ludwigslust-Parchim
 
-3
+II
 
-Schwerin
+Mecklenburgische Seenplatte
 
-3
-
-Stralsund
-
-3
-
-Ueckermünde
-
-2
-
-Waren (Müritz)
-
-4
-
-Wismar
-
-3
-
-Wolgast
-
-3
-
-Kreis
-
-Mieten-
-stufe
-
-ohne die Gemeinden
-
-Bad Doberan
-
-3
-
-Bad Doberan
-
-Demmin
-
-2
-
-Demmin
-
-Güstrow
-
-2
-
-Güstrow
-
-Ludwigslust
-
-2
-
-Boizenburg/Elbe, Hagenow, Ludwigslust
-
-Mecklenburg-Strelitz
-
-2
-
-Neustrelitz
-
-Müritz
-
-2
-
-Waren (Müritz)
-
-Nordvorpommern
-
-3
-
-Grimmen, Ribnitz-Damgarten
+II
 
 Nordwestmecklenburg
 
-3
+II
 
-Grevesmühlen
+Vorpommern-Greifswald
 
-Ostvorpommern
+II
 
-3
+Vorpommern-Rügen
 
-Anklam, Wolgast
+III
 
-Parchim
-
-2
-
-Parchim
-
-Rügen
-
-3
-
-Bergen auf Rügen, Sassnitz
-
-Uecker-Randow
-
-2
-
-Pasewalk, Ueckermünde
-
-**Niedersachsen**
+Land:**Niedersachsen**
 
 Gemeinde
 
-Mieten-
-stufe
+Mietenstufe
 
-Achim
+Achim, Stadt
 
-3
+III
 
 Adendorf
 
-4
+III
 
-Aerzen Flecken
+Aerzen, Flecken
 
-1
+I
 
-Alfeld (Leine)
+Alfeld (Leine), Stadt
 
-2
+II
 
 Apen
 
-1
+I
 
-Aurich
+Aurich, Stadt
 
-2
+II
 
-Bad Bentheim
+Bad Bentheim, Stadt
 
-1
+II
 
 Bad Essen
 
-1
+I
 
-Bad Fallingbostel
+Bad Fallingbostel, Stadt
 
-2
+II
 
-Bad Gandersheim
+Bad Harzburg, Stadt
 
-2
+II
 
-Bad Harzburg
+Bad Iburg, Stadt
 
-2
+II
 
-Bad Iburg
+Bad Lauterberg im Harz, Stadt
 
-2
+I
 
-Bad Lauterberg im Harz
+Bad Münder am Deister, Stadt
 
-1
+II
 
-Bad Münder am Deister
+Bad Nenndorf, Stadt
 
-2
+III
 
-Bad Nenndorf
+Bad Pyrmont, Stadt
 
-3
+I
 
-Bad Pyrmont
+Bad Salzdetfurth, Stadt
 
-2
-
-Bad Salzdetfurth
-
-2
+II
 
 Bad Zwischenahn
 
-3
+II
 
-Barsinghausen
+Barsinghausen, Stadt
 
-3
+II
 
 Barßel
 
-1
+I
 
-Bassum
+Bassum, Stadt
 
-2
+II
 
 Belm
 
-2
+II
 
-Bergen
+Bergen, Stadt
 
-1
+I
+
+Beverstedt
+
+I
 
 Bissendorf
 
-1
-
-Bockenem
-
-2
+I
 
 Bohmte
 
-1
+I
 
-Bovenden
+Bovenden, Flecken
 
-3
+II
 
-Brake (Unterweser)
+Brake (Unterweser), Stadt
 
-2
+II
 
-Bramsche
+Bramsche, Stadt
 
-2
+I
 
-Braunschweig
+Braunschweig, Stadt
 
-4
+IV
 
-Bremervörde
+Bremervörde, Stadt
 
-2
+II
 
-Buchholz in der Nordheide
+Buchholz i. d. Nordheide, Stadt
 
-6
+VI
 
-Bückeburg
+Bückeburg, Stadt
 
-2
+II
 
-Burgdorf
+Burgdorf, Stadt
 
-3
+III
 
-Burgwedel
+Burgwedel, Stadt
 
-3
+IV
 
-Buxtehude
+Buxtehude, Hansestadt
 
-5
+V
 
-Celle
+Celle, Stadt
 
-3
+III
 
-Clausthal-Zellerfeld
+Clausthal-Zellerfeld, Berg- und Universitätsstadt
 
-2
+I
 
-Cloppenburg
+Cloppenburg, Stadt
 
-2
+II
 
 Cremlingen
 
-3
+II
 
-Cuxhaven
+Cuxhaven, Stadt
 
-3
+III
 
-Damme
+Damme, Stadt
 
-1
+I
 
-Dassel
+Delmenhorst, Stadt
 
-1
+III
 
-Delmenhorst
+Diepholz, Stadt
 
-3
+I
 
-Diepholz
+Dinklage, Stadt
 
-1
-
-Dinklage
-
-1
+I
 
 Drochtersen
 
-2
+II
 
-Duderstadt
+Duderstadt, Stadt
 
-1
+I
 
 Edemissen
 
-1
+II
 
 Edewecht
 
-2
+II
 
-Einbeck
+Einbeck, Stadt
 
-2
+I
 
-Emden
+Emden, Stadt
 
-2
-
-Emmerthal
-
-1
+II
 
 Emstek
 
-1
+I
 
 Friedeburg
 
-1
+I
 
-Friedland
+Friesoythe, Stadt
 
-1
-
-Friesoythe
-
-1
+I
 
 Ganderkesee
 
-3
+III
 
-Garbsen
+Garbsen, Stadt
 
-4
+III
 
 Garrel
 
-1
+I
 
 Geeste
 
-1
+I
 
-Gehrden
+Gehrden, Stadt
 
-3
+IV
 
-Georgsmarienhütte
+Georgsmarienhütte, Stadt
 
-2
+II
 
-Gifhorn
+Gifhorn, Stadt
 
-3
+III
 
-Göttingen
+Goslar, Stadt
 
-4
+II
 
-Goslar
+Göttingen, Stadt
 
-3
+IV
 
 Großefehn
 
-1
+I
 
 Großenkneten
 
-1
+II
+
+Hagen im Bremischen
+
+I
 
 Hagen am Teutoburger Wald
 
-2
+II
 
 Hambühren
 
-3
+II
 
-Hameln
+Hameln, Stadt
 
-2
+II
 
-Hann. Münden
+Hannoversch Münden, Stadt
 
-2
+I
 
-Hannover
+Hannover, Stadt
 
-5
+IV
 
-Haren (Ems)
+Haren (Ems), Stadt
 
-1
+I
 
-Harsefeld
+Harsefeld, Flecken
 
-3
+III
 
 Harsum
 
-2
+II
 
 Hasbergen
 
-2
+II
 
-Haselünne
+Haselünne, Stadt
 
-1
+I
 
 Hatten
 
-2
+I
 
-Helmstedt
+Helmstedt, Stadt
 
-2
+II
 
-Hemmingen
+Hemmingen, Stadt
 
-4
+IV
 
-Herzberg am Harz
+Herzberg am Harz, Stadt
 
-1
+I
 
-Hessisch Oldendorf
+Hessisch Oldendorf, Stadt
 
-1
+I
 
-Hildesheim
+Hildesheim, Stadt
 
-3
+III
 
 Hilter am Teutoburger Wald
 
-1
+I
 
-Holzminden
+Holzminden, Stadt
 
-1
+I
 
 Hude (Oldenburg)
 
-2
+II
 
 Ihlow
 
-1
+I
 
 Ilsede
 
-2
+III
 
 Isernhagen
 
-4
+IV
 
-Jever
+Jever, Stadt
 
-2
+II
 
 Jork
 
-4
+IV
 
 Kirchlinteln
 
-1
+I
 
-Königslutter am Elm
+Königslutter am Elm, Stadt
 
-2
+II
 
 Krummhörn
 
-1
+I
 
-Laatzen
+Laatzen, Stadt
 
-4
+IV
 
-Lahstedt
+Langelsheim, Stadt
 
-2
+I
 
-Langelsheim
+Langen, Stadt
 
-1
+II
 
-Langen
+Langenhagen, Stadt
 
-3
+IV
 
-Langenhagen
+Langwedel, Flecken
 
-4
+II
 
-Langwedel
+Leer (Ostfriesland), Stadt
 
-2
-
-Leer (Ostfriesland)
-
-2
+II
 
 Lehre
 
-2
+II
 
-Lehrte
+Lehrte, Stadt
 
-3
+III
 
 Lengede
 
-2
+II
 
 Lilienthal
 
-3
+III
 
-Lingen (Ems)
+Lingen (Ems), Stadt
 
-1
+I
 
-Löningen
+Lohne (Oldenburg), Stadt
 
-1
+II
 
-Lohne (Oldenburg)
+Löningen, Stadt
 
-1
+I
 
 Loxstedt
 
-2
+II
 
-Lüneburg
+Lüneburg, Hansestadt
 
-4
+V
 
-Melle
+Melle, Stadt
 
-1
+I
 
-Meppen
+Meppen, Stadt
 
-1
+I
 
 Moormerland
 
-1
+I
 
-Munster
+Munster, Stadt
 
-2
+II
 
 Neu Wulmstorf
 
-5
+V
 
-Neustadt am Rübenberge
+Neustadt am Rübenberge, Stadt
 
-3
+II
 
-Nienburg (Weser)
+Nienburg (Weser), Stadt
 
-2
+II
 
-Norden
+Norden, Stadt
 
-2
+II
 
-Nordenham
+Nordenham, Stadt
 
-2
+II
 
-Nordhorn
+Nordhorn, Stadt
 
-2
+II
 
 Nordstemmen
 
-2
+II
 
-Northeim
+Northeim, Stadt
 
-2
+II
 
-Oldenburg (Oldenburg)
+Oldenburg (Oldenburg), Stadt
 
-3
+IV
 
-Osnabrück
+Osnabrück, Stadt
 
-3
+III
 
-Osterholz-Scharmbeck
+Osterholz-Scharmbeck, Stadt
 
-2
+II
 
-Osterode am Harz
+Osterode am Harz, Stadt
 
-2
+I
 
 Ostrhauderfehn
 
-1
+I
 
-Ottersberg
+Ottersberg, Flecken
 
-2
+II
 
 Oyten
 
-3
+III
 
-Papenburg
+Papenburg, Stadt
 
-1
+I
 
-Pattensen
+Pattensen, Stadt
 
-3
+III
 
-Peine
+Peine, Stadt
 
-3
+III
 
-Quakenbrück
+Quakenbrück, Stadt
 
-1
+I
 
 Rastede
 
-2
+II
 
-Rehburg-Loccum
+Rehburg-Loccum, Stadt
 
-2
+I
 
 Rhauderfehn
 
-1
+I
 
-Rinteln
+Rinteln, Stadt
 
-1
+I
 
 Ritterhude
 
-3
+II
 
-Ronnenberg
+Ronnenberg, Stadt
 
-4
+IV
 
 Rosdorf
 
-3
+III
 
 Rosengarten
 
-6
+IV
 
-Rotenburg (Wümme)
+Rotenburg (Wümme), Stadt
 
-3
+III
 
-Salzgitter
+Salzgitter, Stadt
 
-3
+III
 
-Salzhemmendorf
+Sarstedt, Stadt
 
-1
-
-Sarstedt
-
-3
+III
 
 Sassenburg
 
-1
+I
 
 Saterland
 
-1
+I
 
 Scheeßel
 
-2
+I
 
 Schiffdorf
 
-3
+II
 
-Schneverdingen
+Schneverdingen, Stadt
 
-2
+II
 
-Schöningen
+Schöningen, Stadt
 
-1
+I
 
-Schortens
+Schortens, Stadt
 
-2
+I
 
-Schüttorf
+Schüttorf, Stadt
 
-2
+I
 
 Schwanewede
 
-3
+II
 
-Seelze
+Seelze, Stadt
 
-3
+III
 
-Seesen
+Seesen, Stadt
 
-2
+I
 
 Seevetal
 
-5
+V
 
-Sehnde
+Sehnde, Stadt
 
-3
+IV
 
-Soltau
+Soltau, Stadt
 
-3
+III
 
-Springe
+Springe, Stadt
 
-2
+II
 
-Stade
+Stade, Hansestadt
 
-4
+IV
 
-Stadthagen
+Stadthagen, Stadt
 
-2
+II
 
 Stelle
 
-5
+V
 
 Stuhr
 
-3
+III
 
 Südbrookmerland
 
-1
+I
 
-Sulingen
+Sulingen, Stadt
 
-2
+II
 
-Syke
+Syke, Stadt
 
-3
+II
 
 Tostedt
 
-4
+IV
 
-Twistringen
+Twistringen, Stadt
 
-2
+I
 
-Uelzen
+Uelzen, Stadt
 
-2
+II
 
 Uetze
 
-2
+II
 
 Uplengen
 
-1
+I
 
-Uslar
+Uslar, Stadt
 
-1
+I
 
-Varel
+Varel, Stadt
 
-2
+I
 
 Vechelde
 
-3
+III
 
-Vechta
+Vechta, Stadt
 
-2
+II
 
-Verden (Aller)
+Verden (Aller), Stadt
 
-3
-
-Vienenburg
-
-1
-
-Visselhövede
-
-1
+II
 
 Wallenhorst
 
-2
+II
 
-Walsrode
+Walsrode, Stadt
 
-3
-
-Wangerland
-
-2
+II
 
 Wardenburg
 
-2
+II
 
 Wedemark
 
-3
+III
 
-Weener
+Weener, Stadt
 
-1
+I
 
 Wendeburg
 
-2
+I
 
 Wennigsen (Deister)
 
-3
+III
 
-Westerstede
+Westerstede, Stadt
 
-2
+II
 
 Westoverledingen
 
-1
+I
 
 Weyhe
 
-4
+III
 
 Wiefelstede
 
-2
+II
 
-Wiesmoor
+Wiesmoor, Stadt
 
-1
+I
 
 Wietmarschen
 
-1
+I
 
-Wildeshausen
+Wildeshausen, Stadt
 
-3
+II
 
-Wilhelmshaven
+Wilhelmshaven, Stadt
 
-2
+II
 
 Winsen (Aller)
 
-1
+I
 
-Winsen (Luhe)
+Winsen (Luhe), Stadt
 
-5
+V
 
-Wittingen
+Wittingen, Stadt
 
-2
+I
 
-Wittmund
+Wittmund, Stadt
 
-1
+I
 
-Wolfenbüttel
+Wolfenbüttel, Stadt
 
-3
+III
 
-Wolfsburg
+Wolfsburg, Stadt
 
-4
+IV
 
-Wunstorf
+Wunstorf, Stadt
 
-3
+III
 
 Zetel
 
-1
+I
 
-Zeven
+Zeven, Stadt
 
-2
+II
 
 Kreis
 
-Mieten-
-stufe
-
-ohne die Gemeinden
+Mietenstufe
 
 Aurich
 
-1
-
-Aurich, Großefehn, Ihlow, Krummhörn, Norden,
-Südbrookmerland, Wiesmoor
+I
 
 Celle
 
-2
-
-Bergen, Celle, Hambühren, Winsen (Aller)
+I
 
 Cloppenburg
 
-1
-
-Barßel, Cloppenburg, Emstek, Friesoythe, Garrel,
-Löningen, Saterland
+I
 
 Cuxhaven
 
-2
-
-Cuxhaven, Langen, Loxstedt, Schiffdorf
+I
 
 Diepholz
 
-1
-
-Bassum, Diepholz, Stuhr, Sulingen, Syke, Twistringen, Weyhe
+I
 
 Emsland
 
-1
-
-Geeste, Haren (Ems), Haselünne, Lingen (Ems),
-Meppen, Papenburg
+I
 
 Friesland
 
-2
-
-Jever, Schortens, Varel, Wangerland, Zetel
+I
 
 Gifhorn
 
-2
-
-Gifhorn, Sassenburg, Wittingen
-
-Göttingen
-
-1
-
-Bovenden, Duderstadt, Friedland, Göttingen,
-Hann. Münden, Rosdorf
+I
 
 Goslar
 
-1
+I
 
-Bad Harzburg, Clausthal-Zellerfeld, Goslar,
-Langelsheim, Seesen, Vienenburg
+Göttingen
+
+I
 
 Grafschaft Bentheim
 
-1
-
-Bad Bentheim, Nordhorn, Schüttorf, Wietmarschen
+I
 
 Hameln-Pyrmont
 
-1
-
-Aerzen Flecken, Bad Münder am Deister,
-Bad Pyrmont, Emmerthal, Hameln,
-Hessisch Oldendorf, Salzhemmendorf
+I
 
 Harburg
 
-4
+IV
 
-Buchholz in der Nordheide, Neu Wulmstorf,
-Rosengarten, Seevetal, Stelle, Tostedt, Winsen (Luhe)
+Heidekreis
+
+I
 
 Helmstedt
 
-1
-
-Helmstedt, Königslutter am Elm, Lehre, Schöningen
+I
 
 Hildesheim
 
-2
-
-Alfeld (Leine), Bad Salzdetfurth, Bockenem, Harsum,
-Hildesheim, Nordstemmen, Sarstedt
+I
 
 Holzminden
 
-1
-
-Holzminden
+I
 
 Leer
 
-1
-
-Leer (Ostfriesland), Moormerland, Ostrhauderfehn, Rhauderfehn, Uplengen, Weener, Westoverledingen
+I
 
 Lüchow-Dannenberg
 
-1
-
---
+I
 
 Lüneburg
 
-3
-
-Adendorf, Lüneburg
+III
 
 Nienburg (Weser)
 
-1
-
-Nienburg (Weser), Rehburg-Loccum
+I
 
 Northeim
 
-1
-
-Bad Gandersheim, Dassel, Einbeck, Northeim, Uslar
+I
 
 Oldenburg
 
-1
-
-Ganderkesee, Großenkneten, Hatten,
-Hude (Oldenburg), Wardenburg, Wildeshausen
+I
 
 Osnabrück
 
-1
-
-Bad Essen, Bad Iburg, Belm, Bissendorf,
-Bohmte, Bramsche, Georgsmarienhütte,
-Hagen am Teutoburger Wald, Hasbergen,
-Hilter am Teutoburger Wald, Melle, Quakenbrück, Wallenhorst
+I
 
 Osterholz
 
-1
-
-Lilienthal, Osterholz-Scharmbeck, Ritterhude,
-Schwanewede
+I
 
 Osterode am Harz
 
-1
-
-Bad Lauterberg im Harz, Herzberg am Harz,
-Osterode am Harz
+I
 
 Peine
 
-2
-
-Edemissen, Ilsede, Lahstedt, Lengede, Peine,
-Vechelde, Wendeburg
+II
 
 Rotenburg (Wümme)
 
-1
-
-Bremervörde, Rotenburg (Wümme), Scheeßel,
-Visselhövede, Zeven
+I
 
 Schaumburg
 
-1
-
-Bad Nenndorf, Bückeburg, Rinteln, Stadthagen
-
-Soltau-Fallingbostel
-
-2
-
-Bad Fallingbostel, Munster, Schneverdingen, Soltau, Walsrode
+I
 
 Stade
 
-3
-
-Buxtehude, Drochtersen, Harsefeld, Jork, Stade
+II
 
 Uelzen
 
-1
-
-Uelzen
+I
 
 Vechta
 
-1
-
-Damme, Dinklage, Lohne (Oldenburg), Vechta
+I
 
 Verden
 
-2
-
-Achim, Kirchlinteln, Langwedel, Ottersberg, Oyten, Verden (Aller)
+I
 
 Wesermarsch
 
-1
-
-Brake (Unterweser), Nordenham
+I
 
 Wittmund
 
-1
-
-Friedeburg, Wittmund
+I
 
 Wolfenbüttel
 
-2
+I
 
-Cremlingen, Wolfenbüttel
-
-**Nordrhein-Westfalen**
+Land:**Nordrhein-Westfalen**
 
 Gemeinde
 
-Mieten-
-stufe
+Mietenstufe
 
-Aachen
+Aachen, Stadt
 
-4
+IV
 
-Ahaus
+Ahaus, Stadt
 
-2
+II
 
-Ahlen
+Ahlen, Stadt
 
-2
+II
 
 Aldenhoven
 
-3
+III
 
 Alfter
 
-4
+IV
 
 Alpen
 
-2
+II
 
-Alsdorf
+Alsdorf, Stadt
 
-3
+III
 
-Altena
+Altena, Stadt
 
-2
+I
 
 Altenberge
 
-2
+III
 
 Anröchte
 
-2
+I
 
-Arnsberg
+Arnsberg, Stadt
 
-2
+II
 
 Ascheberg
 
-2
+II
 
-Attendorn
+Attendorn, Stadt
 
-2
+II
 
-Bad Berleburg
+Bad Berleburg, Stadt
 
-2
+II
 
-Bad Driburg
+Bad Driburg, Stadt
 
-1
+I
 
-Bad Honnef
+Bad Honnef, Stadt
 
-4
+IV
 
-Bad Laasphe
+Bad Laasphe, Stadt
 
-2
+II
 
-Bad Lippspringe
+Bad Lippspringe, Stadt
 
-2
+II
 
-Bad Münstereifel
+Bad Münstereifel, Stadt
 
-3
+II
 
-Bad Oeynhausen
+Bad Oeynhausen, Stadt
 
-3
+II
 
-Bad Salzuflen
+Bad Salzuflen, Stadt
 
-2
+II
 
 Bad Sassendorf
 
-2
+II
 
-Bad Wünnenberg
+Bad Wünnenberg, Stadt
 
-1
+I
 
-Baesweiler
+Baesweiler, Stadt
 
-2
+II
 
-Balve
+Balve, Stadt
 
-2
+II
 
-Beckum
+Beckum, Stadt
 
-2
+II
 
-Bedburg
+Bedburg, Stadt
 
-3
+III
 
 Bedburg-Hau
 
-2
+II
 
-Bergheim
+Bergheim, Stadt
 
-3
+III
 
-Bergisch Gladbach
+Bergisch-Gladbach, Stadt
 
-5
+V
 
-Bergkamen
+Bergkamen, Stadt
 
-3
+III
 
-Bergneustadt
+Bergneustadt, Stadt
 
-2
+II
 
 Bestwig
 
-2
+I
 
-Beverungen
+Beverungen, Stadt
 
-1
+I
 
-Bielefeld
+Bielefeld, Stadt
 
-3
+III
 
-Billerbeck
+Billerbeck, Stadt
 
-2
+II
 
-Blomberg
+Blomberg, Stadt
 
-1
+I
 
-Bocholt
+Bocholt, Stadt
 
-2
+III
 
-Bochum
+Bochum, Stadt
 
-3
+III
 
 Bönen
 
-2
+III
 
-Bonn
+Bonn, Stadt
 
-5
+V
 
 Borchen
 
-1
+II
 
-Borken
+Borken, Stadt
 
-2
+II
 
-Bornheim
+Bornheim, Stadt
 
-4
+IV
 
-Bottrop
+Bottrop, Stadt
 
-3
+III
 
-Brakel
+Brakel, Stadt
 
-1
+I
 
-Brilon
+Brilon, Stadt
 
-1
+I
 
 Brüggen
 
-3
+II
 
-Brühl
+Brühl, Stadt
 
-5
+V
 
-Bünde
+Bünde, Stadt
 
-2
+II
 
-Büren
+Büren, Stadt
 
-1
+I
 
 Burbach
 
-2
+II
 
-Burscheid
+Burscheid, Stadt
 
-4
+IV
 
-Castrop-Rauxel
+Castrop-Rauxel, Stadt
 
-3
+III
 
-Coesfeld
+Coesfeld, Stadt
 
-2
+II
 
-Datteln
+Datteln, Stadt
 
-2
+II
 
-Delbrück
+Delbrück, Stadt
 
-2
+I
 
-Detmold
+Detmold, Stadt
 
-2
+III
 
-Dinslaken
+Dinslaken, Stadt
 
-3
+III
 
-Dormagen
+Dormagen, Stadt
 
-4
+IV
 
-Dorsten
+Dorsten, Stadt
 
-3
+III
 
-Dortmund
+Dortmund, Stadt
 
-3
+III
 
-Drensteinfurt
+Drensteinfurt, Stadt
 
-2
+II
 
-Drolshagen
+Drolshagen, Stadt
 
-1
+I
 
-Dülmen
+Dülmen, Stadt
 
-2
+II
 
-Düren
+Düren, Stadt
 
-3
+III
 
-Düsseldorf
+Düsseldorf, Stadt
 
-5
+VI
 
-Duisburg
+Duisburg, Stadt
 
-3
+III
 
 Eitorf
 
-3
+II
 
 Elsdorf
 
-4
+IV
 
-Emmerich am Rhein
+Emmerich am Rhein, Stadt
 
-2
+III
 
-Emsdetten
+Emsdetten, Stadt
 
-2
+II
 
 Engelskirchen
 
-3
+III
 
-Enger
+Enger, Stadt
 
-2
+II
 
-Ennepetal
+Ennepetal, Stadt
 
-3
+III
 
-Ennigerloh
+Ennigerloh, Stadt
 
-2
+II
 
 Ense
 
-2
+II
 
-Erftstadt
+Erftstadt, Stadt
 
-4
+IV
 
-Erkelenz
+Erkelenz, Stadt
 
-3
+III
 
-Erkrath
+Erkrath, Stadt
 
-4
+IV
 
-Erwitte
+Erwitte, Stadt
 
-2
+II
 
-Eschweiler
+Eschweiler, Stadt
 
-3
+III
 
-Espelkamp
+Espelkamp, Stadt
 
-2
+II
 
-Essen
+Essen, Stadt
 
-4
+IV
 
-Euskirchen
+Euskirchen, Stadt
 
-3
+III
 
 Extertal
 
-1
+I
 
 Finnentrop
 
-1
+I
 
-Frechen
+Frechen, Stadt
 
-4
+IV
 
-Freudenberg
+Freudenberg, Stadt
 
-2
+II
 
-Fröndenberg
+Fröndenberg, Stadt
 
-3
+II
 
 Gangelt
 
-1
+I
 
-Geilenkirchen
+Geilenkirchen, Stadt
 
-2
+II
 
-Geldern
+Geldern, Stadt
 
-3
+III
 
-Gelsenkirchen
+Gelsenkirchen, Stadt
 
-2
+II
 
-Gescher
+Gescher, Stadt
 
-2
+II
 
-Geseke
+Geseke, Stadt
 
-2
+II
 
-Gevelsberg
+Gevelsberg, Stadt
 
-3
+III
 
-Gladbeck
+Gladbeck, Stadt
 
-3
+II
 
-Goch
+Goch, Stadt
 
-2
+III
 
 Grefrath
 
-3
+III
 
-Greven
+Greven, Stadt
 
-3
+III
 
-Grevenbroich
+Grevenbroich, Stadt
 
-4
+IV
 
-Gronau
+Gronau (Westfalen), Stadt
 
-2
+II
 
-Gütersloh
+Gütersloh, Stadt
 
-3
+III
 
-Gummersbach
+Gummersbach, Stadt
 
-3
+II
 
-Haan
+Haan, Stadt
 
-4
+IV
 
-Hagen
+Hagen, Stadt
 
-3
+III
 
-Halle (Westf.)
+Halle (Westfalen), Stadt
 
-2
+II
 
-Haltern
+Haltern am See, Stadt
 
-3
+III
 
-Halver
+Halver, Stadt
 
-3
+III
 
-Hamm
+Hamm, Stadt
 
-2
+II
 
-Hamminkeln
+Hamminkeln, Stadt
 
-2
+II
 
-Harsewinkel
+Harsewinkel, Stadt
 
-2
+II
 
-Hattingen
+Hattingen, Stadt
 
-3
+III
 
 Havixbeck
 
-3
+III
 
-Heiligenhaus
+Heiligenhaus, Stadt
 
-4
+IV
 
-Heinsberg
+Heinsberg, Stadt
 
-2
+II
 
-Hemer
+Hemer, Stadt
 
-3
+II
 
-Hennef (Sieg)
+Hennef (Sieg), Stadt
 
-4
+IV
 
-Herdecke
+Herdecke, Stadt
 
-3
+III
 
-Herford
+Herford, Stadt
 
-3
+II
 
-Herne
+Herne, Stadt
 
-2
+II
 
-Herten
+Herten, Stadt
 
-3
+III
 
 Herzebrock-Clarholz
 
-2
+II
 
-Herzogenrath
+Herzogenrath, Stadt
 
-3
+III
 
 Hiddenhausen
 
-2
+II
 
-Hilchenbach
+Hilchenbach, Stadt
 
-2
+II
 
-Hilden
+Hilden, Stadt
 
-4
+V
 
 Hille
 
-1
+I
 
-Hörstel
+Hörstel, Stadt
 
-1
+I
 
 Hövelhof
 
-2
+I
 
-Höxter
+Höxter, Stadt
 
-1
+I
 
 Holzwickede
 
-3
+III
 
-Horn-Bad Meinberg
+Horn-Bad Meinberg, Stadt
 
-2
+I
 
-Hückelhoven
+Hückelhoven, Stadt
 
-2
+II
 
-Hückeswagen
+Hückeswagen, Stadt
 
-3
+III
 
 Hüllhorst
 
-1
+I
 
 Hünxe
 
-3
+III
 
-Hürth
+Hürth, Stadt
 
-4
+V
 
-Ibbenbüren
+Ibbenbüren, Stadt
 
-2
+II
 
-Iserlohn
+Iserlohn, Stadt
 
-3
+III
 
-Isselburg
+Isselburg, Stadt
 
-2
+II
 
 Issum
 
-2
+III
 
 Jüchen
 
-3
+III
 
-Jülich
+Jülich, Stadt
 
-3
+III
 
-Kaarst
+Kaarst, Stadt
 
-5
+V
 
-Kalkar
+Kalkar, Stadt
 
-2
+II
 
 Kall
 
-3
+II
 
 Kalletal
 
-1
+I
 
-Kamen
+Kamen, Stadt
 
-3
+III
 
-Kamp-Lintfort
+Kamp-Lintfort, Stadt
 
-3
+III
 
-Kempen
+Kempen, Stadt
 
-3
+III
 
 Kerken
 
-3
+III
 
-Kerpen
+Kerpen, Stadt
 
-4
+IV
 
-Kevelaer
+Kevelaer, Stadt
 
-3
+II
 
-Kierspe
+Kierspe, Stadt
 
-3
+III
 
 Kirchhundem
 
-1
+I
 
 Kirchlengern
 
-1
+II
 
-Kleve
+Kleve, Stadt
 
-2
+III
 
-Köln
+Köln, Stadt
 
-5
+VI
 
-Königswinter
+Königswinter, Stadt
 
-4
+IV
 
-Korschenbroich
+Korschenbroich, Stadt
 
-3
+III
 
-Krefeld
+Kranenburg
 
-4
+II
+
+Krefeld, Stadt
+
+IV
 
 Kreuzau
 
-2
+II
 
-Kreuztal
+Kreuztal, Stadt
 
-2
+II
 
 Kürten
 
-4
+IV
 
-Lage
+Lage, Stadt
 
-2
+II
 
-Langenfeld (Rheinland)
+Langenfeld (Rheinland), Stadt
 
-4
+IV
 
 Langerwehe
 
-2
+II
 
-Leichlingen (Rheinland)
+Leichlingen (Rheinland), Stadt
 
-4
+IV
 
-Lemgo
+Lemgo, Stadt
 
-2
+II
 
-Lengerich
+Lengerich, Stadt
 
-2
+II
 
-Lennestadt
+Lennestadt, Stadt
 
-2
+II
 
 Leopoldshöhe
 
-2
+II
 
-Leverkusen
+Leverkusen, Stadt
 
-4
+IV
 
-Lichtenau
+Lichtenau, Stadt
 
-1
+I
 
 Lindlar
 
-3
+III
 
-Linnich
+Linnich, Stadt
 
-2
+I
 
 Lippetal
 
-1
+II
 
-Lippstadt
+Lippstadt, Stadt
 
-2
+II
 
-Löhne
+Löhne, Stadt
 
-2
+II
 
-Lohmar
+Lohmar, Stadt
 
-4
+IV
 
 Lotte
 
-2
+II
 
-Lübbecke
+Lübbecke, Stadt
 
-2
+II
 
-Lüdenscheid
+Lüdenscheid, Stadt
 
-3
+III
 
-Lüdinghausen
+Lüdinghausen, Stadt
 
-2
+II
 
-Lügde
+Lünen, Stadt
 
-1
-
-Lünen
-
-3
+III
 
 Marienheide
 
-2
+III
 
-Marl
+Marl, Stadt
 
-3
+III
 
-Marsberg
+Marsberg, Stadt
 
-2
+I
 
-Mechernich
+Mechernich, Stadt
 
-3
+III
 
-Meckenheim
+Meckenheim, Stadt
 
-4
+IV
 
-Meerbusch
+Meerbusch, Stadt
 
-4
+V
 
-Meinerzhagen
+Meinerzhagen, Stadt
 
-2
+II
 
-Menden (Sauerland)
+Menden (Sauerland), Stadt
 
-3
+III
 
-Meschede
+Meschede, Stadt
 
-2
+II
 
 Mettingen
 
-2
+I
 
-Mettmann
+Mettmann, Stadt
 
-4
+IV
 
-Minden
+Minden, Stadt
 
-2
+II
 
 Möhnesee
 
-2
+I
 
-Mönchengladbach
+Mönchengladbach, Stadt
 
-3
+III
 
-Moers
+Moers, Stadt
 
-3
+III
 
-Monheim am Rhein
+Monheim am Rhein, Stadt
 
-4
+V
 
-Monschau
+Monschau, Stadt
 
-2
+II
 
 Morsbach
 
-2
+II
 
 Much
 
-3
+III
 
-Mülheim an der Ruhr
+Mülheim an der Ruhr, Stadt
 
-3
+III
 
-Münster
+Münster, Stadt
 
-4
+IV
 
 Netphen
 
-2
+II
 
-Nettetal
+Nettetal, Stadt
 
-3
+III
 
 Neuenkirchen
 
-2
+II
 
-Neuenrade
+Neuenrade, Stadt
 
-3
+III
 
-Neukirchen-Vluyn
+Neukirchen-Vluyn, Stadt
 
-3
+III
 
 Neunkirchen
 
-2
+II
 
 Neunkirchen-Seelscheid
 
-3
+III
 
-Neuss
+Neuss, Stadt
 
-4
+V
 
-Nideggen
+Niederkassel, Stadt
 
-2
-
-Niederkassel
-
-4
+IV
 
 Niederkrüchten
 
-3
+III
 
 Niederzier
 
-3
+II
 
 Nörvenich
 
-3
-
-Nordkirchen
-
-2
+II
 
 Nottuln
 
-3
+III
 
 Nümbrecht
 
-2
+II
 
-Oberhausen
+Oberhausen, Stadt
 
-3
+III
 
-Ochtrup
+Ochtrup, Stadt
 
-1
+I
 
 Odenthal
 
-4
+IV
 
-Oelde
+Oelde, Stadt
 
-2
+II
 
-Oer-Erkenschwick
+Oer-Erkenschwick, Stadt
 
-3
+III
 
-Oerlinghausen
+Örlinghausen, Stadt
 
-2
+II
 
-Olfen
+Olfen, Stadt
 
-3
+III
 
-Olpe
+Olpe, Stadt
 
-2
+II
 
-Olsberg
+Olsberg, Stadt
 
-2
+I
 
 Ostbevern
 
-2
+II
 
 Overath
 
-4
+IV
 
-Paderborn
+Paderborn, Stadt
 
-2
+II
 
-Petershagen
+Petershagen, Stadt
 
-1
+I
 
-Plettenberg
+Plettenberg, Stadt
 
-2
+II
 
-Porta Westfalica
+Porta Westfalica, Stadt
 
-1
+I
 
-Preußisch Oldendorf
+Preussisch Oldendorf, Stadt
 
-2
+I
 
-Pulheim
+Pulheim, Stadt
 
-5
+V
 
-Radevormwald
+Radevormwald, Stadt
 
-3
+III
 
 Raesfeld
 
-3
+II
 
-Rahden
+Rahden, Stadt
 
-2
+I
 
-Ratingen
+Ratingen, Stadt
 
-4
+V
 
 Recke
 
-1
+I
 
-Recklinghausen
+Recklinghausen, Stadt
 
-3
+III
 
-Rees
+Rees, Stadt
 
-2
+II
 
 Reichshof
 
-2
+II
 
 Reken
 
-2
+I
 
-Remscheid
+Remscheid, Stadt
 
-3
+III
 
-Rheda-Wiedenbrück
+Rheda-Wiedenbrück, Stadt
 
-2
+III
 
-Rhede
+Rhede, Stadt
 
-2
+III
 
-Rheinbach
+Rheinbach, Stadt
 
-3
+III
 
-Rheinberg
+Rheinberg, Stadt
 
-3
+III
 
-Rheine
+Rheine, Stadt
 
-2
+II
 
-Rietberg
+Rietberg, Stadt
 
-2
-
-Rödinghausen
-
-1
+II
 
 Rösrath
 
-5
+V
 
 Rommerskirchen
 
-3
+III
 
 Rosendahl
 
-2
+I
 
-Rüthen
+Rüthen, Stadt
 
-1
+I
 
 Ruppichteroth
 
-3
+II
 
-Salzkotten
+Salzkotten, Stadt
 
-1
+I
 
-Sankt Augustin
+Sankt Augustin, Stadt
 
-4
+IV
 
-Sassenberg
+Sassenberg, Stadt
 
-2
+II
 
 Schalksmühle
 
-2
+II
 
 Schermbeck
 
-3
+III
 
-Schleiden
+Schleiden, Stadt
 
-2
+I
 
 Schloß Holte-Stukenbrock
 
-2
+II
 
-Schmallenberg
+Schmallenberg, Stadt
 
-1
+I
 
 Schwalmtal
 
-3
+III
 
-Schwelm
+Schwelm, Stadt
 
-3
+III
 
-Schwerte
+Schwerte, Stadt
 
-3
+III
 
-Selfkant
+Selm, Stadt
 
-1
-
-Selm
-
-3
+III
 
 Senden
 
-2
+II
 
-Sendenhorst
+Sendenhorst, Stadt
 
-2
+II
 
-Siegburg
+Siegburg, Stadt
 
-4
+IV
 
-Siegen
+Siegen, Stadt
 
-3
+III
 
 Simmerath
 
-2
+III
 
-Soest
+Soest, Stadt
 
-2
+II
 
-Solingen
+Solingen, Stadt
 
-4
+IV
 
-Spenge
+Spenge, Stadt
 
-2
+I
 
-Sprockhövel
+Sprockhövel, Stadt
 
-3
+III
 
-Stadtlohn
+Stadtlohn, Stadt
 
-2
+II
 
-Steinfurt
+Steinfurt, Stadt
 
-2
+II
 
 Steinhagen
 
-2
+II
 
-Steinheim
+Steinheim, Stadt
 
-1
+I
 
 Stemwede
 
-1
+I
 
-Stolberg (Rhld.)
+Stolberg (Rheinland), Stadt
 
-3
+III
 
-Straelen
+Straelen, Stadt
 
-3
+III
 
-Sundern (Sauerland)
+Sundern (Sauerland), Stadt
 
-2
+I
 
 Swisttal
 
-3
+IV
 
-Telgte
+Telgte, Stadt
 
-3
+III
 
-Tönisvorst
+Tönisvorst, Stadt
 
-4
+IV
 
-Troisdorf
+Troisdorf, Stadt
 
-4
+IV
 
-Übach-Palenberg
+Übach-Palenberg, Stadt
 
-3
+III
 
-Unna
+Unna, Stadt
 
-3
+III
 
-Velbert
+Velbert, Stadt
 
-3
+IV
 
 Velen
 
-1
+II
 
 Verl
 
-2
+II
 
-Versmold
+Versmold, Stadt
 
-2
+I
 
-Viersen
+Viersen, Stadt
 
-3
+III
 
-Vlotho
+Vlotho, Stadt
 
-2
+I
 
-Voerde (Niederrhein)
+Voerde (Niederrhein), Stadt
 
-4
+III
 
-Vreden
+Vreden, Stadt
 
-2
+I
 
 Wachtberg
 
-3
+IV
 
 Wadersloh
 
-1
+I
 
-Waldbröl
+Waldbröl, Stadt
 
-3
+III
 
-Waltrop
+Waltrop, Stadt
 
-3
+III
 
-Warburg
+Warburg, Stadt
 
-1
+I
 
-Warendorf
+Warendorf, Stadt
 
-3
+II
 
-Warstein
+Warstein, Stadt
 
-2
+I
 
-Wassenberg
+Wassenberg, Stadt
 
-3
+III
 
 Weeze
 
-2
+II
 
-Wegberg
+Wegberg, Stadt
 
-3
+III
 
 Weilerswist
 
-4
+III
 
 Welver
 
-2
+II
 
 Wenden
 
-1
+II
 
-Werdohl
+Werdohl, Stadt
 
-2
+II
 
-Werl
+Werl, Stadt
 
-3
+II
 
-Wermelskirchen
+Wermelskirchen, Stadt
 
-3
+III
 
-Werne
+Werne, Stadt
 
-3
+III
 
-Werther (Westf.)
+Werther (Westfalen), Stadt
 
-2
+II
 
-Wesel
+Wesel, Stadt
 
-3
+III
 
-Wesseling
+Wesseling, Stadt
 
-4
+IV
 
 Westerkappeln
 
-2
+I
 
-Wetter (Ruhr)
+Wetter (Ruhr), Stadt
 
-3
+III
 
 Wickede (Ruhr)
 
-3
+II
 
-Wiehl
+Wiehl, Stadt
 
-2
+II
 
-Willich
+Willich, Stadt
 
-4
+IV
 
 Wilnsdorf
 
-2
+II
 
 Windeck
 
-2
+II
 
-Winterberg
+Winterberg, Stadt
 
-2
+I
 
-Wipperfürth
+Wipperfürth, Stadt
 
-3
+III
 
-Witten
+Witten, Stadt
 
-3
+III
 
-Wülfrath
+Wülfrath, Stadt
 
-3
+III
 
-Würselen
+Würselen, Stadt
 
-3
+III
 
-Wuppertal
+Wuppertal, Stadt
 
-4
+III
 
-Xanten
+Xanten, Stadt
 
-3
+III
 
-Zülpich
+Zülpich, Stadt
 
-3
+III
 
 Kreis
 
-Mieten-
-stufe
-
-ohne die Gemeinden
-
-Aachen
-
-3
-
-Alsdorf, Baesweiler, Eschweiler, Herzogenrath,
-Monschau, Simmerath, Stolberg (Rhld.), Würselen
+Mietenstufe
 
 Borken
 
-2
+II
 
-Ahaus, Bocholt, Borken, Gescher, Gronau, Isselburg, Raesfeld, Reken, Rhede, Stadtlohn, Velen, Vreden
+Coesfeld
+
+II
 
 Düren
 
-2
-
-Aldenhoven, Düren, Jülich, Kreuzau, Langerwehe, Linnich, Nideggen, Niederzier, Nörvenich
+II
 
 Ennepe-Ruhr-Kreis
 
-3
-
-Ennepetal, Gevelsberg, Hattingen, Herdecke, Schwelm, Sprockhövel, Wetter (Ruhr), Witten
+III
 
 Euskirchen
 
-1
-
-Bad Münstereifel, Euskirchen, Kall, Mechernich, Schleiden, Weilerswist, Zülpich
+I
 
 Gütersloh
 
-2
-
-Gütersloh, Halle (Westf.), Harsewinkel,
-Herzebrock-Clarholz, Rheda-Wiedenbrück, Rietberg, Schloß Holte-Stukenbrock, Steinhagen, Verl,
-Versmold, Werther (Westf.)
+II
 
 Heinsberg
 
-2
+II
 
-Erkelenz, Gangelt, Geilenkirchen, Heinsberg,
-Hückelhoven, Selfkant, Übach-Palenberg,
-Wassenberg, Wegberg
+Herford
+
+I
 
 Hochsauerlandkreis
 
-1
-
-Arnsberg, Bestwig, Brilon, Marsberg, Meschede,
-Olsberg, Schmallenberg, Sundern (Sauerland),
-Winterberg
+I
 
 Höxter
 
-1
-
-Bad Driburg, Beverungen, Brakel, Höxter, Steinheim, Warburg
+I
 
 Kleve
 
-2
-
-Bedburg-Hau, Emmerich am Rhein, Geldern, Goch, Issum, Kalkar, Kerken, Kevelaer, Kleve, Rees, Straelen, Weeze
+II
 
 Lippe
 
-1
-
-Bad Salzuflen, Blomberg, Detmold, Extertal,
-Horn-Bad Meinberg, Kalletal, Lage, Lemgo,
-Leopoldshöhe, Lügde, Oerlinghausen
+I
 
 Märkischer Kreis
 
-3
-
-Altena, Balve, Halver, Hemer, Iserlohn, Kierspe,
-Lüdenscheid, Meinerzhagen, Menden (Sauerland), Neuenrade, Plettenberg, Schalksmühle, Werdohl
+II
 
 Paderborn
 
-1
-
-Bad Lippspringe, Bad Wünnenberg, Borchen, Büren, Delbrück, Hövelhof, Lichtenau, Paderborn, Salzkotten
+I
 
 Siegen-Wittgenstein
 
-1
+II
 
-Bad Berleburg, Bad Laasphe, Burbach, Freudenberg,
-Hilchenbach, Kreuztal, Netphen, Neunkirchen, Siegen, Wilnsdorf
+Städteregion Aachen
+
+II
 
 Steinfurt
 
-1
-
-Altenberge, Emsdetten, Greven, Hörstel, Ibbenbüren, Lengerich, Lotte, Mettingen, Neuenkirchen, Ochtrup, Recke, Rheine, Steinfurt, Westerkappeln
+I
 
 Warendorf
 
-2
-
-Ahlen, Beckum, Drensteinfurt, Ennigerloh, Oelde,
-Ostbevern, Sassenberg, Sendenhorst, Telgte,
-Wadersloh, Warendorf
+II
 
 Wesel
 
-3
+II
 
-Alpen, Dinslaken, Hamminkeln, Hünxe, Kamp-Lintfort,
-Moers, Neukirchen-Vluyn, Rheinberg, Schermbeck, Voerde (Niederrhein), Wesel, Xanten
-
-**Rheinland-Pfalz**
+Land:**Rheinland-Pfalz**
 
 Gemeinde
 
-Mieten-
-stufe
+Mietenstufe
 
-Alzey
+Alzey, Stadt
 
-3
+III
 
-Andernach
+Andernach, Stadt
 
-2
+II
 
-Bad Dürkheim
+Bad Dürkheim, Stadt
 
-3
+IV
 
-Bad Kreuznach
+Bad Kreuznach, Stadt
 
-3
+III
 
-Bad Neuenahr-Ahrweiler
+Bad Neuenahr-Ahrweiler, Stadt
 
-3
+III
 
-Bendorf
+Bendorf, Stadt
 
-2
+II
 
-Betzdorf
+Bingen am Rhein, Stadt
 
-2
+III
 
-Bingen am Rhein
+Bitburg, Stadt
 
-3
-
-Bitburg
-
-2
+III
 
 Böhl-Iggelheim
 
-2
+I
 
-Boppard
+Boppard, Stadt
 
-2
+I
 
-Diez
+Diez, Stadt
 
-2
+II
 
-Frankenthal (Pfalz)
+Frankenthal (Pfalz), krsfr. Stadt
 
-3
+III
 
-Germersheim
+Germersheim, Stadt
 
-3
+III
 
 Grafschaft
 
-2
+II
 
-Grünstadt
+Grünstadt, Stadt
 
-3
+III
 
 Haßloch
 
-3
+III
 
 Herxheim b. Landau/Pfalz
 
-3
+II
 
-Idar-Oberstein
+Idar-Oberstein, Stadt
 
-1
+I
 
-Ingelheim am Rhein
+Ingelheim am Rhein, Stadt
 
-4
+V
 
-Kaiserslautern
+Kaiserslautern, krsfr. Stadt
 
-3
+II
 
-Koblenz
+Koblenz, Stadt
 
-3
+III
 
-Konz
+Konz, Stadt
 
-2
+III
 
-Lahnstein
+Lahnstein, Stadt
 
-3
+II
 
-Landau in der Pfalz
+Landau i. d. Pfalz, krsfr. Stadt
 
-3
+III
 
 Limburgerhof
 
-3
+IV
 
-Ludwigshafen am Rhein
+Ludwigshafen am Rhein, krsfr. Stadt
 
-3
+IV
 
-Mainz
+Mainz, krsfr. Stadt
 
-5
+VI
 
-Mayen
+Mayen, Stadt
 
-2
+II
 
-Montabaur
+Montabaur, Stadt
 
-2
+II
 
 Morbach
 
-1
+I
 
-Mülheim-Kärlich
+Mülheim-Kärlich, Stadt
 
-2
+II
 
 Mutterstadt
 
-3
+IV
 
-Neustadt an der Weinstraße
+Neustadt (a. d. Weinstraße), krsfr. Stadt
 
-3
+II
 
-Neuwied
+Neuwied, Stadt
 
-3
+II
 
-Pirmasens
+Pirmasens, krsfr. Stadt
 
-1
+I
 
-Remagen
+Remagen, Stadt
 
-3
+III
 
-Schifferstadt
+Schifferstadt, Stadt
 
-3
+III
 
-Sinzig
+Sinzig, Stadt
 
-3
+II
 
-Speyer
+Speyer, krsfr. Stadt
 
-3
+III
 
-Trier
+Trier, Stadt
 
-3
+III
 
-Wittlich
+Wittlich, Stadt
 
-2
+II
 
-Wörth am Rhein
+Wörth am Rhein, Stadt
 
-3
+III
 
-Worms
+Worms, krsfr. Stadt
 
-3
+III
 
-Zweibrücken
+Zweibrücken, krsfr. Stadt
 
-2
+I
 
 Kreis
 
-Mieten-
-stufe
-
-ohne die Gemeinden
+Mietenstufe
 
 Ahrweiler
 
-1
-
-Bad Neuenahr-Ahrweiler, Grafschaft, Remagen, Sinzig
+I
 
 Altenkirchen (Westerwald)
 
-2
-
-Betzdorf
+I
 
 Alzey-Worms
 
-3
-
-Alzey
+II
 
 Bad Dürkheim
 
-2
-
-Bad Dürkheim, Grünstadt, Haßloch
+II
 
 Bad Kreuznach
 
-1
-
-Bad Kreuznach
+I
 
 Bernkastel-Wittlich
 
-1
+I
 
-Morbach, Wittlich
+Birkenfeld, Nationalparklandkreis
 
-Birkenfeld
-
-1
-
-Idar-Oberstein
-
-Bitburg-Prüm
-
-1
-
-Bitburg
+I
 
 Cochem-Zell
 
-1
-
---
+I
 
 Donnersbergkreis
 
-2
+II
 
---
+Eifelkreis Bitburg-Prüm
+
+I
 
 Germersheim
 
-2
-
-Germersheim, Wörth am Rhein
+II
 
 Kaiserslautern
 
-2
-
---
+II
 
 Kusel
 
-1
-
---
+I
 
 Mainz-Bingen
 
-4
-
-Bingen am Rhein, Ingelheim am Rhein
+III
 
 Mayen-Koblenz
 
-2
-
-Andernach, Bendorf, Mayen, Mülheim-Kärlich
+I
 
 Neuwied
 
-2
-
-Neuwied
+I
 
 Rhein-Hunsrück-Kreis
 
-1
-
-Boppard
+I
 
 Rhein-Lahn-Kreis
 
-2
-
-Diez, Lahnstein
+I
 
 Rhein-Pfalz-Kreis
 
-3
-
-Böhl-Iggelheim, Limburgerhof, Mutterstadt,
-Schifferstadt
+III
 
 Südliche Weinstraße
 
-2
-
-Herxheim b. Landau/Pfalz
+II
 
 Südwestpfalz
 
-1
-
---
+I
 
 Trier-Saarburg
 
-1
-
-Konz
+I
 
 Vulkaneifel
 
-1
-
---
+I
 
 Westerwaldkreis
 
-1
+I
 
-Montabaur
-
-**Saarland**
+Land:**Saarland**
 
 Gemeinde
 
-Mieten-
-stufe
+Mietenstufe
 
 Beckingen
 
-1
+I
 
-Bexbach
+Bexbach, Stadt
 
-2
+I
 
-Blieskastel
+Blieskastel, Stadt
 
-1
+I
 
-Dillingen/Saar
+Dillingen/Saar, Stadt
 
-3
+II
 
 Eppelborn
 
-2
+I
 
-Friedrichsthal
+Friedrichsthal, Stadt
 
-2
+II
 
 Heusweiler
 
-2
+I
 
-Homburg
+Homburg, Kreisstadt
 
-2
+II
 
 Illingen
 
-2
+II
 
 Kirkel
 
-1
+II
 
 Kleinblittersdorf
 
-2
+II
 
-Lebach
+Lebach, Stadt
 
-1
+I
 
 Losheim am See
 
-1
+I
 
 Mandelbachtal
 
-1
+I
 
 Marpingen
 
-1
+I
 
 Merchweiler
 
-2
+I
 
-Merzig
+Merzig, Kreisstadt
 
-2
+II
 
 Mettlach
 
-1
+II
 
-Neunkirchen
+Neunkirchen, Kreisstadt
 
-2
+II
 
 Nohfelden
 
-1
+I
 
-Ottweiler
+Ottweiler, Stadt
 
-2
+I
 
-Püttlingen
+Püttlingen, Stadt
 
-2
+II
 
 Quierschied
 
-2
+II
 
 Rehlingen-Siersburg
 
-1
+I
 
 Riegelsberg
 
-2
+II
 
-Saarbrücken
+Saarbrücken, Landeshauptstadt
 
-3
+III
 
-Saarlouis
+Saarlouis, Kreisstadt
 
-2
+III
 
 Saarwellingen
 
-1
+I
 
-Sankt Ingbert
+Sankt Ingbert, Stadt
 
-2
+II
 
-Sankt Wendel
+Sankt Wendel, Kreisstadt
 
-1
+I
 
 Schiffweiler
 
-3
+II
 
 Schmelz
 
-1
+II
 
 Schwalbach
 
-2
+II
 
 Spiesen-Elversberg
 
-2
+II
 
-Sulzbach/Saar
+Sulzbach/Saar, Stadt
 
-2
+II
 
 Tholey
 
-2
+II
 
 Überherrn
 
-2
+II
 
-Völklingen
+Völklingen, Stadt
 
-2
+II
 
-Wadern
+Wadern, Stadt
 
-1
+I
 
 Wadgassen
 
-2
+II
 
 Kreis
 
-Mieten-
-stufe
-
-ohne die Gemeinden
+Mietenstufe
 
 Merzig-Wadern
 
-1
-
-Beckingen, Losheim am See, Merzig, Mettlach,
-Wadern
+I
 
 Saarlouis
 
-2
-
-Dillingen/Saar, Lebach, Rehlingen-Siersburg,
-Saarlouis, Saarwellingen, Schmelz, Schwalbach, Überherrn, Wadgassen
+II
 
 Saarpfalz-Kreis
 
-1
-
-Bexbach, Blieskastel, Homburg, Kirkel,
-Mandelbachtal, Sankt Ingbert
+I
 
 Sankt Wendel
 
-1
+I
 
-Marpingen, Nohfelden, Sankt Wendel, Tholey
+Regionalverband Saarbrücken
 
-Stadtverband Saarbrücken
+I
 
-1
-
-Friedrichsthal, Heusweiler, Kleinblittersdorf,
-Püttlingen, Quierschied, Riegelsberg, Saarbrücken, Sulzbach/Saar, Völklingen
-
-**Sachsen**
+Land:**Sachsen**
 
 Gemeinde
 
-Mieten-
-stufe
+Mietenstufe
 
-Annaberg-Buchholz
+Annaberg-Buchholz, Stadt
 
-2
+I
 
-Aue
+Aue, Stadt
 
-2
+I
 
-Auerbach/Vogtl.
+Auerbach/Vogtland, Stadt
 
-2
+I
 
 Bannewitz
 
-3
+III
 
-Bautzen
+Bautzen, Stadt
 
-2
+II
 
-Bischofswerda
+Bischofswerda, Stadt
 
-2
+II
 
-Borna
+Borna, Stadt
 
-3
+II
 
-Brand-Erbisdorf
+Burgstädt, Stadt
 
-2
+II
 
-Burgstädt
+Chemnitz, Stadt
 
-2
+II
 
-Chemnitz
+Coswig, Stadt
 
-3
+III
 
-Coswig
+Crimmitschau, Stadt
 
-3
+I
 
-Crimmitschau
+Delitzsch, Stadt
 
-2
+II
 
-Delitzsch
+Dippoldiswalde, Stadt
 
-3
+II
 
-Dippoldiswalde
+Döbeln, Stadt
 
-3
+II
 
-Döbeln
+Dresden, Stadt
 
-2
+III
 
-Dresden
+Ebersbach-Neugersdorf, Stadt
 
-3
+I
 
-Eilenburg
+Eilenburg, Stadt
 
-3
+II
 
-Flöha
+Flöha, Stadt
 
-3
+II
 
-Frankenberg/Sa.
+Frankenberg, Stadt
 
-2
+II
 
-Freiberg
+Freiberg, Stadt
 
-3
+II
 
-Freital
+Freital, Stadt
 
-3
+II
 
-Glauchau
+Frohburg
 
-3
+II
 
-Görlitz
+Glauchau, Stadt
 
-2
+II
 
-Grimma
+Görlitz, Stadt
 
-3
+I
 
-Großenhain
+Grimma, Stadt
 
-2
+II
 
-Heidenau
+Großenhain, Stadt
 
-3
+II
 
-Hohenstein-Ernstthal
+Heidenau, Stadt
 
-2
+II
 
-Hoyerswerda
+Hohenstein-Ernstthal, Stadt
 
-2
+II
 
-Kamenz
+Hoyerswerda, Stadt
 
-3
+II
 
-Leipzig
+Kamenz, Stadt
 
-3
+II
 
-Lichtenstein/Sa.
+Klipphausen
 
-2
+I
 
-Limbach-Oberfrohna
+Leipzig, Stadt
 
-2
+II
 
-Löbau
+Lichtenstein/Sachsen, Stadt
 
-2
+II
 
-Lößnitz
+Limbach-Oberfrohna, Stadt
 
-1
+II
 
-Marienberg
+Löbau, Stadt
 
-2
+I
 
-Markkleeberg
+Marienberg, Stadt
 
-3
+I
 
-Markranstädt
+Markkleeberg, Stadt
 
-3
+III
 
-Meerane
+Markranstädt, Stadt
 
-2
+III
 
-Meißen
+Meerane, Stadt
 
-3
+II
 
-Mittweida
+Meißen, Stadt
 
-3
+II
+
+Mittweida, Stadt
+
+II
 
 Mülsen
 
-2
+I
 
-Neustadt i. Sa.
+Neustadt i. Sachsen, Stadt
 
-2
+II
 
-Niesky
+Nossen, Stadt
 
-3
+I
 
-Oelsnitz
+Oelsnitz/Erzgebirge, Stadt
 
-1
+II
 
-Oelsnitz/Erzgeb.
+Oelsnitz/Vogtland, Stadt
 
-2
+I
 
-Olbernhau
+Oschatz, Stadt
 
-2
+II
 
-Oschatz
+Pirna, Stadt
 
-3
+III
 
-Ottendorf-Okrilla
+Plauen, Stadt
 
-2
+I
 
-Penig
+Radeberg, Stadt
 
-2
+III
 
-Pirna
+Radebeul, Stadt
 
-3
+III
 
-Plauen
+Reichenbach/Vogtland, Stadt
 
-1
+I
 
-Radeberg
+Riesa, Stadt
 
-3
+II
 
-Radebeul
+Schkeuditz, Stadt
 
-4
+II
 
-Reichenbach/Vogtl.
+Schneeberg, Stadt
 
-2
+II
 
-Riesa
+Schwarzenberg/Erzgebirge, Stadt
 
-3
+II
 
-Schkeuditz
+Stollberg/Erzgebirge, Stadt
 
-3
+II
 
-Schneeberg
+Taucha, Stadt
 
-2
+III
 
-Schwarzenberg/Erzgeb.
+Torgau, Stadt
 
-2
-
-Stollberg/Erzgeb.
-
-2
-
-Taucha
-
-3
-
-Torgau
-
-2
+II
 
 Weinböhla
 
-3
+III
 
-Weißwasser/O.L.
+Weißwasser/Oberlausitz, Stadt
 
-2
+II
 
-Werdau
+Werdau, Stadt
 
-2
+I
 
-Wilkau-Haßlau
+Wilkau-Haßlau, Stadt
 
-2
+II
 
-Wilsdruff
+Wilsdruff, Stadt
 
-2
+II
 
-Wurzen
+Wurzen, Stadt
 
-2
+II
 
-Zittau
+Zittau, Stadt
 
-2
+I
 
-Zschopau
+Zwickau, Stadt
 
-2
+II
 
-Zwickau
+Zwönitz, Stadt
 
-2
-
-Zwönitz
-
-2
+I
 
 Kreis
 
-Mieten-
-stufe
-
-ohne die Gemeinden
-
-Annaberg
-
-1
-
-Annaberg-Buchholz
-
-Aue-Schwarzenberg
-
-2
-
-Aue, Lößnitz, Schneeberg, Schwarzenberg/Erzgeb.
+Mietenstufe
 
 Bautzen
 
-1
+I
 
-Bautzen, Bischofswerda
+Erzgebirgskreis
 
-Chemnitzer Land
+I
 
-2
+Görlitz
 
-Glauchau, Hohenstein-Ernstthal, Lichtenstein/Sa.,
-Limbach-Oberfrohna, Meerane
+I
 
-Delitzsch
+Leipzig
 
-2
-
-Delitzsch, Eilenburg, Schkeuditz, Taucha
-
-Döbeln
-
-2
-
-Döbeln
-
-Freiberg
-
-2
-
-Brand-Erbisdorf, Flöha, Freiberg
-
-Kamenz
-
-2
-
-Kamenz, Ottendorf-Okrilla, Radeberg
-
-Leipziger Land
-
-2
-
-Borna, Markkleeberg, Markranstädt
-
-Löbau-Zittau
-
-1
-
-Löbau, Zittau
+II
 
 Meißen
 
-2
+II
 
-Coswig, Meißen, Radebeul, Weinböhla
+Mittelsachsen
 
-Mittlerer Erzgebirgskreis
+II
 
-1
+Nordsachsen
 
-Marienberg, Olbernhau, Zschopau
+I
 
-Mittweida
+Sächsische Schweiz-Osterzgebirge
 
-2
-
-Burgstädt, Frankenberg/Sa., Mittweida, Penig
-
-Muldentalkreis
-
-2
-
-Grimma, Wurzen
-
-Niederschlesischer Oberlausitzkreis
-
-1
-
-Niesky, Weißwasser/O.L.
-
-Riesa-Großenhain
-
-1
-
-Großenhain, Riesa
-
-Sächsische Schweiz
-
-2
-
-Heidenau, Neustadt i. Sa., Pirna
-
-Stollberg
-
-2
-
-Oelsnitz/Erzgeb., Stollberg/Erzgeb., Zwönitz
-
-Torgau-Oschatz
-
-1
-
-Oschatz, Torgau
+II
 
 Vogtlandkreis
 
-1
+I
 
-Auerbach/Vogtl., Oelsnitz, Reichenbach/Vogtl.
+Zwickau
 
-Weißeritzkreis
+I
 
-2
-
-Bannewitz, Dippoldiswalde, Freital, Wilsdruff
-
-Zwickauer Land
-
-2
-
-Crimmitschau, Mülsen, Werdau, Wilkau-Haßlau
-
-**Sachsen-Anhalt**
+Land:**Sachsen-Anhalt**
 
 Gemeinde
 
-Mieten-
-stufe
+Mietenstufe
 
-Aschersleben
+Aschersleben, Stadt
 
-2
+II
 
-Bad Dürrenberg
+Bad Dürrenberg, Stadt
 
-3
+II
 
-Bernburg (Saale)
+Bernburg (Saale), Stadt
 
-2
+II
 
-Bitterfeld-Wolfen
+Bitterfeld-Wolfen, Stadt
 
-2
+III
 
-Blankenburg (Harz)
+Blankenburg (Harz), Stadt
 
-2
+I
 
-Braunsbedra
+Braunsbedra, Stadt
 
-2
+II
 
-Burg
+Burg, Stadt
 
-2
+II
 
-Calbe (Saale)
+Coswig (Anhalt), Stadt
 
-3
+I
 
-Dessau-Roßlau
+Dessau-Roßlau, Stadt
 
-3
+II
 
-Eisleben
+Eisleben, Lutherstadt
 
-2
+II
 
-Gardelegen
+Gardelegen, Stadt
 
-2
+I
 
-Genthin
+Genthin, Stadt
 
-2
+I
 
-Gommern
+Gommern, Stadt
 
-2
+II
 
-Halberstadt
+Gräfenhainichen, Stadt
 
-2
+I
 
-Haldensleben
+Halberstadt, Stadt
 
-2
+II
 
-Halle (Saale)
+Haldensleben, Stadt
 
-3
+II
 
-Hettstedt
+Halle (Saale), Stadt
 
-2
+III
 
-Jessen (Elster)
+Hettstedt, Stadt
 
-2
+II
 
-Köthen (Anhalt)
+Hohe Börde
 
-3
+I
 
-Magdeburg
+Jessen (Elster), Stadt
 
-3
+I
 
-Merseburg
+Kemberg, Stadt
 
-3
+I
 
-Naumburg (Saale)
+Klötze, Stadt
 
-2
+I
 
-Oschersleben (Bode)
+Köthen (Anhalt), Stadt
 
-2
+II
 
-Quedlinburg
+Landsberg, Stadt
 
-2
+I
 
-Querfurt
+Leuna, Stadt
 
-1
+II
 
-Salzwedel
+Magdeburg, Landeshauptstadt
 
-2
+III
 
-Sangerhausen
+Merseburg, Stadt
 
-2
+III
+
+Möckern, Stadt
+
+I
+
+Muldestausee
+
+I
+
+Naumburg (Saale), Stadt
+
+II
+
+Oberharz am Brocken
+
+I
+
+Oebisfelde-Weferlingen
+
+II
+
+Oschersleben (Bode), Stadt
+
+II
+
+Osterburg (Altmark)
+
+II
+
+Osterwieck, Stadt
+
+I
+
+Quedlinburg, Stadt
+
+II
+
+Querfurt, Stadt
+
+I
+
+Salzatal
+
+II
+
+Salzwedel, Hansestadt
+
+II
+
+Sandersdorf-Brehna
+
+II
+
+Sangerhausen, Stadt
+
+II
 
 Schkopau
 
-3
+II
 
-Schönebeck (Elbe)
+Schönebeck (Elbe), Stadt
 
-2
+II
 
-Staßfurt
+Staßfurt, Stadt
 
-2
+II
 
-Stendal
+Stendal, Stadt
 
-2
+II
 
-Thale
+Südliches Anhalt, Stadt
 
-2
+II
 
-Weißenfels
+Tangerhütte, Stadt
 
-3
+II
 
-Wernigerode
+Tangermünde, Stadt
 
-2
+II
 
-Wittenberg
+Teutschenthal
 
-3
+II
 
-Wolmirstedt
+Thale, Stadt
 
-2
+I
 
-Zeitz
+Wanzleben-Börde, Stadt
 
-2
+II
 
-Zerbst/Anhalt
+Weißenfels, Stadt
 
-2
+II
+
+Wernigerode, Stadt
+
+II
+
+Wettin-Löbejün, Stadt
+
+II
+
+Wittenberg, Lutherstadt
+
+II
+
+Wolmirstedt, Stadt
+
+II
+
+Zeitz, Stadt
+
+II
+
+Zerbst/Anhalt, Stadt
+
+II
 
 Kreis
 
-Mieten-
-stufe
+Mietenstufe
 
-ohne die Gemeinden
+Altmarkkreis-Salzwedel
 
-Altmarkkreis Salzwedel
-
-1
-
-Gardelegen, Salzwedel
+I
 
 Anhalt-Bitterfeld
 
-2
-
-Bitterfeld-Wolfen, Köthen (Anhalt), Zerbst/Anhalt
+II
 
 Börde
 
-1
-
-Haldensleben, Oschersleben (Bode), Wolmirstedt
+I
 
 Burgenlandkreis
 
-2
-
-Naumburg (Saale), Weißenfels, Zeitz
+I
 
 Harz
 
-2
-
-Blankenburg (Harz), Halberstadt, Quedlinburg, Thale,
-Wernigerode
+I
 
 Jerichower Land
 
-2
-
-Burg, Genthin, Gommern
+II
 
 Mansfeld-Südharz
 
-1
-
-Eisleben, Hettstedt, Sangerhausen
+I
 
 Saalekreis
 
-2
-
-Bad Dürrenberg, Braunsbedra, Merseburg, Querfurt, Schkopau
+II
 
 Salzlandkreis
 
-2
-
-Aschersleben, Bernburg (Saale), Calbe (Saale),
-Schönebeck (Elbe), Staßfurt
+II
 
 Stendal
 
-1
-
-Stendal
+I
 
 Wittenberg
 
-1
+I
 
-Jessen (Elster), Wittenberg
-
-**Schleswig-Holstein**
+Land:**Schleswig-Holstein**
 
 Gemeinde
 
-Mieten-
-stufe
+Mietenstufe
 
-Ahrensburg
+Ahrensburg, Stadt
 
-5
+VI
 
-Bad Bramstedt
+Bad Bramstedt, Stadt
 
-3
+IV
 
-Bad Oldesloe
+Bad Oldesloe, Stadt
 
-4
+IV
 
-Bad Schwartau
+Bad Schwartau, Stadt
 
-5
+V
 
-Bad Segeberg
+Bad Segeberg, Stadt
 
-5
+IV
 
-Bargteheide
+Bargteheide, Stadt
 
-5
+V
+
+Barmstedt
+
+IV
 
 Barsbüttel
 
-5
+VI
 
-Brunsbüttel
+Brunsbüttel, Stadt
 
-2
+II
 
-Büdelsdorf
+Eckernförde, Stadt
 
-3
+IV
 
-Eckernförde
+Elmshorn, Stadt
 
-3
+IV
 
-Elmshorn
+Eutin, Stadt
 
-4
+IV
 
-Eutin
+Fehmarn, Stadt
 
-3
+IV
 
-Fehmarn
+Flensburg, Stadt
 
-3
+III
 
-Flensburg
+Geesthacht, Stadt
 
-3
+IV
 
-Geesthacht
+Glinde, Stadt
 
-4
+V
 
-Glinde
+Glückstadt, Stadt
 
-5
-
-Glückstadt
-
-3
+II
 
 Halstenbek
 
-6
+VI
+
+Handewitt
+
+I
 
 Harrislee
 
-3
+III
 
-Heide
+Heide, Stadt
 
-3
+III
 
 Henstedt-Ulzburg
 
-4
+IV
 
-Husum
+Husum, Stadt
 
-3
+III
 
-Itzehoe
+Itzehoe, Stadt
 
-3
+III
 
-Kaltenkirchen
+Kaltenkirchen, Stadt
 
-4
+IV
 
-Kiel
+Kiel, Landeshauptstadt
 
-5
+V
 
 Kronshagen
 
-4
+IV
 
-Lauenburg/Elbe
+Lauenburg/Elbe, Stadt
 
-4
+IV
 
-Lübeck
+Lübeck, Hansestadt
 
-4
+IV
 
 Malente
 
-4
+III
 
-Mölln
+Mölln, Stadt
 
-4
+III
 
-Neumünster
+Neumünster, Stadt
 
-3
+III
 
-Neustadt in Holstein
+Neustadt in Holstein, Stadt
 
-3
+III
 
-Norderstedt
+Norderstedt, Stadt
 
-6
+VI
 
-Pinneberg
+Pinneberg, Stadt
 
-6
+VI
 
-Plön
+Preetz, Stadt
 
-4
+IV
 
-Preetz
+Quickborn, Stadt
 
-4
-
-Quickborn
-
-5
+VI
 
 Ratekau
 
-4
+IV
 
-Ratzeburg
+Ratzeburg, Stadt
 
-3
+IV
 
-Reinbek
+Reinbek, Stadt
 
-5
+V
 
 Rellingen
 
-5
+V
 
-Rendsburg
+Rendsburg, Stadt
 
-3
+III
 
 Scharbeutz
 
-4
+V
 
-Schenefeld
+Schenefeld, Stadt
 
-6
+VI
 
-Schleswig
+Schleswig, Stadt
 
-3
+III
 
-Schwarzenbek
+Schwarzenbek, Stadt
 
-4
+IV
+
+Schwentinental
+
+IV
 
 Stockelsdorf
 
-4
+IV
+
+Sylt
+
+VI
 
 Tornesch
 
-4
+IV
 
-Uetersen
+Uetersen, Stadt
 
-4
+IV
 
-Wedel
+Wedel, Stadt
 
-6
+VI
 
 Wentorf bei Hamburg
 
-4
+IV
 
 Kreis
 
-Mieten-
-stufe
-
-ohne die Gemeinden
+Mietenstufe
 
 Dithmarschen
 
-1
-
-Brunsbüttel, Heide
+I
 
 Herzogtum Lauenburg
 
-3
-
-Geesthacht, Lauenburg/Elbe, Mölln, Ratzeburg, Schwarzenbek, Wentorf bei Hamburg
+III
 
 Nordfriesland
 
-2
-
-Husum
+II
 
 Ostholstein
 
-3
-
-Bad Schwartau, Eutin, Fehmarn, Malente, Neustadt in Holstein, Ratekau, Scharbeutz, Stockelsdorf
+III
 
 Pinneberg
 
-4
-
-Elmshorn, Halstenbek, Pinneberg, Quickborn,
-Rellingen, Schenefeld, Tornesch, Uetersen, Wedel
+IV
 
 Plön
 
-3
-
-Plön, Preetz
+III
 
 Rendsburg-Eckernförde
 
-2
-
-Büdelsdorf, Eckernförde, Kronshagen, Rendsburg
+II
 
 Schleswig-Flensburg
 
-2
-
-Harrislee, Schleswig
+I
 
 Segeberg
 
-3
-
-Bad Bramstedt, Bad Segeberg, Henstedt-Ulzburg,
-Kaltenkirchen, Norderstedt
+III
 
 Steinburg
 
-2
-
-Glückstadt, Itzehoe
+II
 
 Stormarn
 
-4
+IV
 
-Ahrensburg, Bad Oldesloe, Bargteheide, Barsbüttel, Glinde, Reinbek
-
-**Thüringen**
+Land:**Thüringen**
 
 Gemeinde
 
-Mieten-
-stufe
+Mietenstufe
 
-Altenburg
+Altenburg, Stadt
 
-2
+II
 
-Apolda
+Apolda, Stadt
 
-2
+II
 
-Arnstadt
+Arnstadt, Stadt
 
-2
+II
 
-Bad Langensalza
+Bad Langensalza, Stadt
 
-2
+II
 
-Bad Salzungen
+Bad Salzungen, Stadt
 
-2
+II
 
-Eisenach
+Eisenach, Stadt
 
-3
+III
 
-Eisenberg
+Eisenberg, Stadt
 
-2
+II
 
-Erfurt
+Erfurt, Stadt
 
-3
+III
 
-Gera
+Gera, Stadt
 
-2
+II
 
-Gotha
+Gotha, Stadt
 
-2
+II
 
-Greiz
+Greiz, Stadt
 
-2
+I
 
-Heilbad Heiligenstadt
+Heilbad Heiligenstadt, Stadt
 
-3
+II
 
-Hildburghausen
+Hildburghausen, Stadt
 
-2
+II
 
-Ilmenau
+Ilmenau, Stadt
 
-2
+II
 
-Jena
+Jena, Stadt
 
-3
+IV
 
 Leinefelde-Worbis
 
-2
+I
 
-Meiningen
+Meiningen, Stadt
 
-2
+II
 
-Meuselwitz
+Meuselwitz, Stadt
 
-3
+II
 
-Mühlhausen/Thüringen
+Mühlhausen/Thüringen, Stadt
 
-2
+II
 
-Nordhausen
+Nordhausen, Stadt
 
-2
+II
 
-Pößneck
+Pößneck, Stadt
 
-2
+II
 
-Rudolstadt
+Rudolstadt, Stadt
 
-2
+II
 
-Saalfeld/Saale
+Saalfeld/Saale, Stadt
 
-2
+II
 
-Schmalkalden
+Schmalkalden, Kurort, Stadt
 
-1
+I
 
-Schmölln
+Schmölln, Stadt
 
-2
+II
 
-Sömmerda
+Sömmerda, Stadt
 
-2
+II
 
-Sondershausen
+Sondershausen, Stadt
 
-2
+II
 
-Sonneberg
+Sonneberg, Stadt
 
-2
+II
 
-Suhl
+Suhl, Stadt
 
-2
+II
 
-Waltershausen
+Waltershausen, Stadt
 
-1
+II
 
-Weimar
+Weimar, Stadt
 
-3
+III
 
-Zella-Mehlis
+Zella-Mehlis, Stadt
 
-3
+II
 
-Zeulenroda-Triebes
+Zeulenroda-Triebes, Stadt
 
-1
+I
 
 Kreis
 
-Mieten-
-stufe
-
-ohne die Gemeinden
+Mietenstufe
 
 Altenburger Land
 
-2
-
-Altenburg, Meuselwitz, Schmölln
+I
 
 Eichsfeld
 
-1
-
-Heilbad Heiligenstadt, Leinefelde-Worbis
+I
 
 Gotha
 
-2
-
-Gotha, Waltershausen
+I
 
 Greiz
 
-1
-
-Greiz, Zeulenroda-Triebes
+I
 
 Hildburghausen
 
-1
-
-Hildburghausen
+I
 
 Ilm-Kreis
 
-2
-
-Arnstadt, Ilmenau
+II
 
 Kyffhäuserkreis
 
-1
-
-Sondershausen
+I
 
 Nordhausen
 
-1
-
-Nordhausen
+I
 
 Saale-Holzland-Kreis
 
-2
-
-Eisenberg
+II
 
 Saale-Orla-Kreis
 
-2
-
-Pößneck
+II
 
 Saalfeld-Rudolstadt
 
-2
-
-Rudolstadt, Saalfeld/Saale
+II
 
 Schmalkalden-Meiningen
 
-1
-
-Meiningen, Schmalkalden, Zella-Mehlis
+I
 
 Sömmerda
 
-2
-
-Sömmerda
+I
 
 Sonneberg
 
-1
-
-Sonneberg
+I
 
 Unstrut-Hainich-Kreis
 
-1
-
-Bad Langensalza, Mühlhausen/Thüringen
+I
 
 Wartburgkreis
 
-2
-
-Bad Salzungen
+I
 
 Weimarer Land
 
-2
-
-Apolda
-
-Zugrunde liegen Daten der Wohngeldstatistik zum 31. Dezember 2006 einschließlich der bis zum 31. März 2007 erfolgten rückwirkenden Bewilligungen.
+II
