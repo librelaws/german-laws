@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 13.11.1998 I 3322;
 
 Stand  
-zuletzt geändert durch Art. 5 Abs. 18 G v. 10.10.2013 I 3799
+zuletzt geändert durch Art. 1 G v. 23.4.2014 I 410
 
 ### 
 
