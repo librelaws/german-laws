@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 11.8.1993 I 1473;
 
 Stand  
-Zuletzt geändert durch Art. 8 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 2 G v. 8.10.2017 I 3546
 
 ### 
 
@@ -144,6 +144,9 @@ Das Bundesverfassungsgericht entscheidet
 2.  
 über die Verfassungswidrigkeit von Parteien (Artikel 21 Abs. 2 des Grundgesetzes),
 
+2a.  
+über den Ausschluss von Parteien von staatlicher Finanzierung (Artikel 21 Absatz 3 des Grundgesetzes),
+
 3.  
 über Beschwerden gegen Entscheidungen des Bundestages, die die Gültigkeit einer Wahl oder den Erwerb oder Verlust der Mitgliedschaft eines Abgeordneten beim Bundestag betreffen (Artikel 41 Abs. 2 des Grundgesetzes),
 
@@ -218,7 +221,7 @@ in den ihm sonst durch Bundesgesetz zugewiesenen Fällen (Artikel 93 Abs. 3 des 
 
 (3) Nach Beginn der Beratung einer Sache können weitere Richter nicht hinzutreten. Wird der Senat beschlußunfähig, muß die Beratung nach seiner Ergänzung neu begonnen werden.
 
-(4) Im Verfahren gemäß § 13 Nr. 1, 2, 4 und 9 bedarf es zu einer dem Antragsgegner nachteiligen Entscheidung in jedem Fall einer Mehrheit von zwei Dritteln der Mitglieder des Senats. Im übrigen entscheidet die Mehrheit der an der Entscheidung mitwirkenden Mitglieder des Senats, soweit nicht das Gesetz etwas anderes bestimmt. Bei Stimmengleichheit kann ein Verstoß gegen das Grundgesetz oder sonstiges Bundesrecht nicht festgestellt werden.
+(4) Im Verfahren gemäß § 13 Nummer 1, 2, 2a, 4 und 9 bedarf es zu einer dem Antragsgegner nachteiligen Entscheidung in jedem Fall einer Mehrheit von zwei Dritteln der Mitglieder des Senats. Im übrigen entscheidet die Mehrheit der an der Entscheidung mitwirkenden Mitglieder des Senats, soweit nicht das Gesetz etwas anderes bestimmt. Bei Stimmengleichheit kann ein Verstoß gegen das Grundgesetz oder sonstiges Bundesrecht nicht festgestellt werden.
 
 ### § 15a
 
@@ -248,7 +251,7 @@ Soweit in diesem Gesetz nichts anderes bestimmt ist, sind hinsichtlich der Öffe
 
 ### § 17a
 
-(1) Abweichend von § 169 Satz 2 des Gerichtsverfassungsgesetzes sind Ton- und Fernseh-Rundfunkaufnahmen sowie Ton- und Filmaufnahmen zum Zwecke der öffentlichen Vorführung oder der Veröffentlichung ihres Inhalts zulässig
+(1) Die Verhandlung vor dem Bundesverfassungsgericht einschließlich der Verkündung von Entscheidungen ist öffentlich. Ton- und Fernseh-Rundfunkaufnahmen sowie Ton- und Filmaufnahmen zum Zwecke der öffentlichen Vorführung oder der Veröffentlichung ihres Inhalts sind nur zulässig
 
 1.  
 in der mündlichen Verhandlung, bis das Gericht die Anwesenheit der Beteiligten festgestellt hat,
@@ -256,7 +259,13 @@ in der mündlichen Verhandlung, bis das Gericht die Anwesenheit der Beteiligten 
 2.  
 bei der öffentlichen Verkündung von Entscheidungen.
 
-(2) Zur Wahrung schutzwürdiger Interessen der Beteiligten oder Dritter sowie eines ordnungsgemäßen Ablaufs des Verfahrens kann das Bundesverfassungsgericht die Aufnahmen nach Absatz 1 oder deren Übertragung ganz oder teilweise ausschließen oder von der Einhaltung von Auflagen abhängig machen.
+Die Tonübertragung in einen Arbeitsraum für Personen, die für Presse, Hörfunk, Fernsehen oder für andere Medien berichten, kann durch Anordnung des oder der Vorsitzenden zugelassen werden.
+
+(2) Zur Wahrung schutzwürdiger Interessen der Beteiligten oder Dritter sowie eines ordnungsgemäßen Ablaufs des Verfahrens kann der oder die Vorsitzende die Aufnahmen nach Absatz 1 Satz 2 oder deren Übertragung sowie die Übertragung nach Absatz 1 Satz 3 ganz oder teilweise untersagen oder von der Einhaltung von Auflagen abhängig machen.
+
+(3) Tonaufnahmen der Verhandlung vor dem Bundesverfassungsgericht einschließlich der Verkündung von Entscheidungen können zu wissenschaftlichen und historischen Zwecken durch Senatsbeschluss zugelassen werden, wenn es sich um ein Verfahren von herausragender zeitgeschichtlicher Bedeutung für die Bundesrepublik Deutschland handelt. Zur Wahrung schutzwürdiger Interessen der Beteiligten oder Dritter oder zur Wahrung eines ordnungsgemäßen Ablaufs des Verfahrens können die Aufnahmen durch den Vorsitzenden oder die Vorsitzende teilweise untersagt werden. Die Aufnahmen sind nicht zu den Akten zu nehmen und dürfen weder herausgegeben noch für Zwecke des aufgenommenen oder eines anderen Verfahrens genutzt oder verwertet werden. Die Aufnahmen sind vom Gericht nach Abschluss des Verfahrens dem Bundesarchiv zur Übernahme anzubieten, das nach dem Bundesarchivgesetz festzustellen hat, ob den Aufnahmen ein bleibender Wert zukommt. Nimmt das Bundesarchiv die Aufnahmen nicht an, sind die Aufnahmen durch das Gericht zu löschen. § 25a Satz 2 bleibt unberührt.
+
+(4) Gegen die Anordnungen des oder der Vorsitzenden kann der Senat angerufen werden.
 
 ### § 18
 
@@ -346,7 +355,7 @@ Das Bundesverfassungsgericht kann sachkundigen Dritten Gelegenheit zur Stellungn
 
 ### § 28
 
-(1) Für die Vernehmung von Zeugen und Sachverständigen gelten in den Fällen des § 13 Nr. 1, 2, 4 und 9 die Vorschriften der Strafprozeßordnung, in den übrigen Fällen die Vorschriften der Zivilprozeßordnung entsprechend.
+(1) Für die Vernehmung von Zeugen und Sachverständigen gelten in den Fällen des § 13 Nummer 1, 2, 2a, 4 und 9 die Vorschriften der Strafprozeßordnung, in den übrigen Fällen die Vorschriften der Zivilprozeßordnung entsprechend.
 
 (2) Soweit ein Zeuge oder Sachverständiger nur mit Genehmigung einer vorgesetzten Stelle vernommen werden darf, kann diese Genehmigung nur verweigert werden, wenn es das Wohl des Bundes oder eines Landes erfordert. Der Zeuge oder Sachverständige kann sich nicht auf seine Schweigepflicht berufen, wenn das Bundesverfassungsgericht mit einer Mehrheit von zwei Dritteln der Stimmen die Verweigerung der Aussagegenehmigung für unbegründet erklärt.
 
@@ -487,14 +496,14 @@ Hat das Bundesverfassungsgericht über einen Antrag sachlich entschieden, so kan
 
 ### § 42 (weggefallen)
 
-Zweiter Abschnitt Verfahren in den Fällen des § 13 Nr. 2
---------------------------------------------------------
+Zweiter Abschnitt Verfahren in den Fällen des § 13 Nummer 2 und 2a
+------------------------------------------------------------------
 
 ### 
 
 ### § 43
 
-(1) Der Antrag auf Entscheidung, ob eine Partei verfassungswidrig ist (Artikel 21 Abs. 2 des Grundgesetzes), kann von dem Bundestag, dem Bundesrat oder von der Bundesregierung gestellt werden.
+(1) Der Antrag auf Entscheidung, ob eine Partei verfassungswidrig (Artikel 21 Absatz 2 des Grundgesetzes) oder von staatlicher Finanzierung ausgeschlossen ist (Artikel 21 Absatz 3 des Grundgesetzes), kann von dem Bundestag, dem Bundesrat oder von der Bundesregierung gestellt werden. Der Antrag auf Entscheidung über den Ausschluss von staatlicher Finanzierung kann hilfsweise zu einem Antrag auf Entscheidung, ob eine Partei verfassungswidrig ist, gestellt werden.
 
 (2) Eine Landesregierung kann den Antrag nur gegen eine Partei stellen, deren Organisation sich auf das Gebiet ihres Landes beschränkt.
 
@@ -508,11 +517,17 @@ Das Bundesverfassungsgericht gibt dem Vertretungsberechtigten (§ 44) Gelegenhei
 
 ### § 46
 
-(1) Erweist sich der Antrag als begründet, so stellt das Bundesverfassungsgericht fest, daß die politische Partei verfassungswidrig ist.
+(1) Erweist sich der Antrag auf Entscheidung gemäß Artikel 21 Absatz 2 des Grundgesetzes als begründet, so stellt das Bundesverfassungsgericht fest, daß die politische Partei verfassungswidrig ist.
 
 (2) Die Feststellung kann auf einen rechtlich oder organisatorisch selbständigen Teil einer Partei beschränkt werden.
 
 (3) Mit der Feststellung ist die Auflösung der Partei oder des selbständigen Teiles der Partei und das Verbot, eine Ersatzorganisation zu schaffen, zu verbinden. Das Bundesverfassungsgericht kann in diesem Fall außerdem die Einziehung des Vermögens der Partei oder des selbständigen Teiles der Partei zugunsten des Bundes oder des Landes zu gemeinnützigen Zwecken aussprechen.
+
+### § 46a
+
+(1) Erweist sich der Antrag auf Entscheidung gemäß Artikel 21 Absatz 3 des Grundgesetzes als begründet, so stellt das Bundesverfassungsgericht fest, dass die Partei für sechs Jahre von der staatlichen Finanzierung nach § 18 des Parteiengesetzes ausgeschlossen ist. Die Feststellung ist auf Ersatzparteien zu erstrecken. Dass eine Partei die Bestrebungen einer nach Satz 1 von der staatlichen Finanzierung ausgeschlossenen Partei als Ersatzpartei an deren Stelle weiter verfolgt oder fortführt, stellt das Bundesverfassungsgericht entsprechend Satz 1 fest. Die Feststellung erfolgt auf Antrag eines Berechtigten nach § 43 Absatz 1 Satz 1; § 45 ist auf das Verfahren nicht anzuwenden.
+
+(2) Beantragt einer der Antragsberechtigten spätestens sechs Monate vor Ablauf der Frist nach Absatz 1 Satz 1 ihre Verlängerung, bleibt die Partei bis zur Entscheidung über diesen Antrag von staatlicher Finanzierung ausgeschlossen. § 45 ist auf das Verfahren nicht anzuwenden. Das Bundesverfassungsgericht kann ohne mündliche Verhandlung entscheiden. Für die Entscheidung gilt Absatz 1 entsprechend. Erneute Verlängerungsanträge sind statthaft.
 
 ### § 47
 
