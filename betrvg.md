@@ -1594,7 +1594,7 @@ Erster Abschnitt Seeschifffahrt
 
 (5) Jugend- und Auszubildendenvertretungen werden nur für die Landbetriebe von Seeschifffahrtsunternehmen gebildet.
 
-(6) Besatzungsmitglieder sind die in § 3 des Seemannsgesetzes genannten Personen. Leitende Angestellte im Sinne des § 5 Abs. 3 dieses Gesetzes sind nur die Kapitäne.
+(6) Besatzungsmitglieder im Sinne dieses Gesetzes sind die in einem Heuer- oder Berufsausbildungsverhältnis zu einem Seeschifffahrtsunternehmen stehenden im Seebetrieb beschäftigten Personen mit Ausnahme des Kapitäns. Leitende Angestellte im Sinne des § 5 Abs. 3 dieses Gesetzes sind nur die Kapitäne.
 
 ### § 115 Bordvertretung
 
