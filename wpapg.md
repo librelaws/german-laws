@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 11.1.1995 I 34;
 
 Stand  
-zuletzt geändert durch Art. 14 G v. 4.7.2013 I 1981
+zuletzt geändert durch Art. 199 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -294,7 +294,7 @@ die Gläubiger der Nummern 1 und 2, wenn der nichterfüllte Teil ihrer dort beze
 
 (4) Die Gläubiger der Absätze 1 und 2 haben den beanspruchten Vorrang bei der Anmeldung der Forderung nach § 174 der Insolvenzordnung anzugeben. Sie können aus dem sonstigen Vermögen des Schuldners nur unter entsprechender Anwendung der für die Absonderungsberechtigten geltenden Vorschriften der §§ 52, 190 und 192 der Insolvenzordnung Befriedigung erlangen. Im übrigen bewendet es für sie bei den Vorschriften der Insolvenzordnung über Insolvenzgläubiger.
 
-(5) Das Insolvenzgericht hat, wenn es nach Lage des Falles erforderlich ist, den vorrangigen Gläubigern zur Wahrung der ihnen zustehenden Rechte einen Pfleger zu bestellen. Für die Pflegschaft tritt an die Stelle des Betreuungsgerichts das Insolvenzgericht. § 78 Abs. 2 bis 5 des Versicherungsaufsichtsgesetzes ist sinngemäß anzuwenden.
+(5) Das Insolvenzgericht hat, wenn es nach Lage des Falles erforderlich ist, den vorrangigen Gläubigern zur Wahrung der ihnen zustehenden Rechte einen Pfleger zu bestellen. Für die Pflegschaft tritt an die Stelle des Betreuungsgerichts das Insolvenzgericht. § 317 Absatz 2 bis 5 des Versicherungsaufsichtsgesetzes ist sinngemäß anzuwenden.
 
 ### § 33 Ausgleichsverfahren bei Verpfändung
 
@@ -363,7 +363,7 @@ Wer einer Vorschrift der §§ 2 und 14 oder einer sich aus den §§ 18 bis 24, 2
 
 ### § 42 Anwendung auf Treuhänder, Erlass weiterer Bestimmungen
 
-Das Bundesministerium der Justiz kann im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Anwendung von Vorschriften dieses Gesetzes für Fälle vorschreiben, in denen Kaufleute als Treuhänder für Dritte Wertpapiere besitzen oder erwerben oder Beteiligungen oder Gläubigerrechte ausüben oder erwerben oder in öffentliche Schuldbücher oder sonstige Register eingetragen sind.
+Das Bundesministerium der Justiz und für Verbraucherschutz kann im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Anwendung von Vorschriften dieses Gesetzes für Fälle vorschreiben, in denen Kaufleute als Treuhänder für Dritte Wertpapiere besitzen oder erwerben oder Beteiligungen oder Gläubigerrechte ausüben oder erwerben oder in öffentliche Schuldbücher oder sonstige Register eingetragen sind.
 
 ### § 43
 
