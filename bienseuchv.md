@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 3.11.2004 I 2738;
 
 Stand  
-geändert durch Art. 10 V v. 20.12.2005 I 3499
+zuletzt geändert durch Art. 7 V v. 17.4.2014 I 388
 
 ### 
 
@@ -63,7 +63,7 @@ Die Betriebsräume sind bienendicht zu halten.
 
 (3) Honig aus Betrieben, in denen Honig gewerbsmäßig behandelt wird, darf nur so beseitigt werden, dass er Bienen nicht zugänglich ist.
 
-(4) Betriebe, die gewerbsmäßig Honig zur Herstellung von Futterteig verwenden, müssen den Honig mit einem Verfahren behandeln, durch das Erreger übertragbarer Bienenkrankheiten abgetötet werden.
+(4) Betriebe, die gewerbsmäßig Honig zur Herstellung von Futterteig verwenden, müssen den Honig vor der Herstellung des Futterteigs mit einem Verfahren behandeln, durch das Erreger übertragbarer Bienenkrankheiten abgetötet werden.
 
 (5) Die zuständige Behörde kann die Maßnahmen nach Absatz 2 sowie für Trester die Maßnahmen nach Absatz 3 für Betriebe, in denen Mittelwände für Bienenwaben hergestellt werden oder Seuchenwachs be- oder verarbeitet wird, anordnen, soweit dies zur Verhütung der Verschleppung der Amerikanischen Faulbrut notwendig ist. Sie kann ferner anordnen, dass Plätze der in Absatz 1 genannten Betriebe, an denen Honig gelagert oder aufbewahrt wird, bienendicht zu halten sind und Wachs, das zur Herstellung von Mittelwänden für Bienenwaben verwendet wird, mit einem Verfahren behandelt wird, durch das Erreger übertragbarer Bienenkrankheiten abgetötet werden, soweit dies zur Verhütung der Verschleppung der Amerikanischen Faulbrut notwendig ist.
 
@@ -103,7 +103,7 @@ III. Schutzmaßregeln gegen die Amerikanische Faulbrut
 
 ### § 6
 
-Von Bienen nicht mehr besetzte Bienenwohnungen sind stets bienendicht verschlossen zu halten.
+Von Bienen nicht mehr besetzte Bienenwohnungen sind vom Besitzer der Bienen stets bienendicht verschlossen zu halten.
 
 2. Schutzmaßregeln vor amtlicher Feststellung der Amerikanischen Faulbrut oder des Seuchenverdachts
 ---------------------------------------------------------------------------------------------------
@@ -513,59 +513,61 @@ VIII. Ordnungswidrigkeiten
 
 ### § 26
 
-(1) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 1 Buchstabe b des Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  
-einer mit einer Genehmigung nach § 5 Abs. 3, § 10 Abs. 2 Satz 2 oder § 11 Abs. 3 verbundenen vollziehbaren Auflage oder
+entgegen § 1a Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
 2.  
-einer vollziehbaren Anordnung nach § 9 Abs. 1 Satz 1, § 19 Abs. 2, § 23 Abs. 3 oder § 24 Abs. 3
-
-zuwiderhandelt.
-
-(2) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 2 des Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  
-entgegen § 1a eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
-
-2.  
-einer Vorschrift des § 2 Abs. 2 Satz 1, Abs. 3 oder 4 oder § 8 Abs. 1 Nr. 7, 8 oder 9 über Reinigung, Entseuchung, Aufbewahrung, unschädliche Beseitigung zuwiderhandelt,
+entgegen § 2 Absatz 2 Satz 1 einen dort genannten Gegenstand nicht oder nicht rechtzeitig reinigt, nicht oder nicht rechtzeitig einer dort genannten Temperatur aussetzt und nicht oder nicht rechtzeitig aufbewahrt,
 
 3.  
-entgegen § 4 nicht die erforderliche Hilfe leistet,
+entgegen § 2 Absatz 3 Honig beseitigt,
 
 4.  
-der Vorschrift des § 5 Abs. 1 über die Vorlage einer Bescheinigung, des § 5a Satz 1 über das Anbringen eines Schildes oder des § 5a Satz 2 über die Untersuchung zuwiderhandelt,
+entgegen § 2 Absatz 4 Honig nicht, nicht richtig oder nicht rechtzeitig behandelt,
 
 5.  
-entgegen § 6 eine Bienenwohnung nicht bienendicht verschlossen hält,
+entgegen § 5 Absatz 1 Satz 2 eine Bescheinigung vorlegt,
 
 6.  
-entgegen § 7 Abs. 1 Satz 2 eine dort bezeichnete Veränderung an einem Bienenstand vornimmt,
+einer mit einer Zulassung nach § 5 Absatz 3 oder § 11 Absatz 3 verbundenen vollziehbaren Auflage zuwiderhandelt,
 
 7.  
-entgegen § 7 Abs. 2, § 8 Abs. 1 Nr. 1, § 17 Abs. 2, § 18 Abs. 1 Nr. 1 oder § 22 Abs. 2 einen Bienenstand oder ein Futtervorratslager betritt,
+entgegen § 6 eine Bienenwohnung nicht oder nicht richtig verschlossen hält,
 
 8.  
-entgegen § 8 Abs. 1 Nr. 2, § 11 Abs. 1 Nr. 3, § 17 Abs. 1 Satz 2 Nr. 1, § 18 Abs. 1 Nr. 2, § 22 Abs. 1 Satz 2 Nr. 1 oder § 23 Abs. 1 Nr. 1 ein Bienenvolk, Bienen oder einen dort bezeichneten Gegenstand entfernt,
+entgegen § 7 Absatz 1 Satz 2 ein Bienenvolk, eine Biene oder einen dort genannten Gegenstand entfernt oder verbringt,
 
 9.  
-entgegen § 8 Abs. 1 Nr. 3 oder 4, § 11 Abs. 1 Nr. 4, § 17 Abs. 1 Satz 2 Nr. 2, § 18 Abs. 1 Nr. 3 oder 4, § 22 Abs. 1 Satz 2 Nr. 2 oder § 23 Abs. 1 Nr. 2 ein Bienenvolk, Bienen oder einen dort bezeichneten Gegenstand verbringt,
+entgegen § 7 Absatz 2, § 8 Absatz 1 Nummer 1, § 17 Absatz 2, § 18 Absatz 1 Nummer 1 oder § 22 Absatz 2 einen Bienenstand oder ein Futtervorratslager betritt,
 
 10.  
-entgegen § 8 Abs. 1 Nr. 5 oder § 18 Abs. 1 Nr. 5 Honig verfüttert,
+entgegen § 8 Absatz 1 Nummer 2, § 11 Absatz 1 Nummer 3, § 17 Absatz 1 Satz 2 Nummer 1, § 18 Absatz 1 Nummer 2, § 22 Absatz 1 Satz 2 Nummer 1 oder § 23 Absatz 1 Nummer 1 ein Bienenvolk, eine Biene oder einen dort genannten Gegenstand entfernt,
 
 11.  
-einer Vorschrift des § 8 Abs. 1 Nr. 6 über die Aufbewahrung eines dort bezeichneten Gegenstandes zuwiderhandelt,
+entgegen § 8 Absatz 1 Nummer 3 oder Nummer 4, § 11 Absatz 1 Nummer 4, § 17 Absatz 1 Satz 2 Nummer 2, § 18 Absatz 1 Nummer 3 oder Nummer 4, § 22 Absatz 1 Satz 2 Nummer 2 oder § 23 Absatz 1 Nummer 2 ein Bienenvolk, eine Biene oder einen dort genannten Gegenstand verbringt,
 
 12.  
-entgegen § 8 Abs. 1 Nr. 7 oder § 23 Abs. 1 Nr. 3 Bienen, Bienenbrut oder einen dort bezeichneten Gegenstand nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig beseitigt,
+entgegen § 8 Absatz 1 Nummer 5 oder § 18 Absatz 1 Nummer 5 Honig verfüttert,
 
 13.  
-entgegen § 11 Abs. 1 Nr. 2 oder ohne Genehmigung nach § 24 Abs. 2 Nr. 1 einen Bienenstand, ein Bienenvolk oder Bienen entfernt oder
+entgegen § 8 Absatz 1 Nummer 6 einen dort genannten Gegenstand nicht oder nicht richtig aufbewahrt,
 
 14.  
-entgegen § 16 einen dort bezeichneten Gegenstand nicht oder nicht richtig aufbewahrt oder eine Bienenwohnung nicht oder nicht richtig sichert.
+einer vollziehbaren Anordnung nach § 8 Absatz 1 Nummer 7, 8 oder Nummer 9, § 9 Absatz 1 Satz 1, § 19 Absatz 2, § 23 Absatz 1 Nummer 3 oder Absatz 3 oder § 24 Absatz 3 zuwiderhandelt,
+
+15.  
+einer mit einer Genehmigung nach § 10 Absatz 2 Satz 2 verbundenen Auflage zuwiderhandelt,
+
+16.  
+entgegen § 11 Absatz 1 Nummer 2 einen Bienenstand entfernt,
+
+17.  
+entgegen § 16 einen dort genannten Gegenstand nicht oder nicht richtig aufbewahrt oder eine Bienenwohnung nicht oder nicht richtig sichert oder
+
+18.  
+ohne Genehmigung nach § 24 Absatz 2 Nummer 1 ein Bienenvolk oder eine Biene entfernt.
 
 IX. Schlussvorschriften
 -----------------------
