@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 23.1.2003 I 102
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 25.7.2013 I 2749
+Zuletzt geändert durch Art. 1 G v. 20.11.2015 I 2010
 
 ### 
 
@@ -653,7 +653,7 @@ Dem Beteiligten steht gleich, wer durch die Tätigkeit oder durch die Entscheidu
 (5) Angehörige im Sinne des Absatzes 1 Nr. 2 und 4 sind:
 
 1.  
-der Verlobte,
+der Verlobte, auch im Sinne des Lebenspartnerschaftsgesetzes,
 
 2.  
 der Ehegatte,
@@ -994,6 +994,8 @@ einem Vorbehalt der nachträglichen Aufnahme, Änderung oder Ergänzung einer Au
 (5) Bei einem schriftlichen Verwaltungsakt, der mit Hilfe automatischer Einrichtungen erlassen wird, können abweichend von Absatz 3 Unterschrift und Namenswiedergabe fehlen. Zur Inhaltsangabe können Schlüsselzeichen verwendet werden, wenn derjenige, für den der Verwaltungsakt bestimmt ist oder der von ihm betroffen wird, auf Grund der dazu gegebenen Erläuterungen den Inhalt des Verwaltungsaktes eindeutig erkennen kann.
 
 (6) Einem schriftlichen oder elektronischen Verwaltungsakt, der der Anfechtung unterliegt, ist eine Erklärung beizufügen, durch die der Beteiligte über den Rechtsbehelf, der gegen den Verwaltungsakt gegeben ist, über die Behörde oder das Gericht, bei denen der Rechtsbehelf einzulegen ist, den Sitz und über die einzuhaltende Frist belehrt wird (Rechtsbehelfsbelehrung). Die Rechtsbehelfsbelehrung ist auch der schriftlichen oder elektronischen Bestätigung eines Verwaltungsaktes und der Bescheinigung nach § 42a Absatz 3 beizufügen.
+
+(+++ § 37: Zur Anwendung vgl. § 10 Abs. 2 TextilKennzG 2016 +++)
 
 ### § 38 Zusicherung
 
