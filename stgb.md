@@ -846,8 +846,6 @@ Eine Tat kann nur bestraft werden, wenn die Strafbarkeit gesetzlich bestimmt war
 
 (6) Über Maßregeln der Besserung und Sicherung ist, wenn gesetzlich nichts anderes bestimmt ist, nach dem Gesetz zu entscheiden, das zur Zeit der Entscheidung gilt.
 
-§ 2 Abs. 6: Nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 4.5.2011 I 1003 (2 BvR 2365/09 u. a.)
-
 ### § 3 Geltung für Inlandstaten
 
 Das deutsche Strafrecht gilt für Taten, die im Inland begangen werden.
@@ -1879,7 +1877,7 @@ Für die Einordnung als Straftat im Sinne von Satz 1 Nummer 1 Buchstabe b gilt �
 
 (4) Im Sinne des Absatzes 1 Satz 1 Nummer 2 gilt eine Verurteilung zu Gesamtstrafe als eine einzige Verurteilung. Ist Untersuchungshaft oder eine andere Freiheitsentziehung auf Freiheitsstrafe angerechnet, so gilt sie als verbüßte Strafe im Sinne des Absatzes 1 Satz 1 Nummer 3. Eine frühere Tat bleibt außer Betracht, wenn zwischen ihr und der folgenden Tat mehr als fünf Jahre verstrichen sind; bei Straftaten gegen die sexuelle Selbstbestimmung beträgt die Frist fünfzehn Jahre. In die Frist wird die Zeit nicht eingerechnet, in welcher der Täter auf behördliche Anordnung in einer Anstalt verwahrt worden ist. Eine Tat, die außerhalb des räumlichen Geltungsbereichs dieses Gesetzes abgeurteilt worden ist, steht einer innerhalb dieses Bereichs abgeurteilten Tat gleich, wenn sie nach deutschem Strafrecht eine Straftat der in Absatz 1 Satz 1 Nummer 1, in den Fällen des Absatzes 3 der in Absatz 3 Satz 1 bezeichneten Art wäre.
 
-§ 66 idF d. G v. 27.12.2003 I 3007 u. G v. 22.12.2010 I 2300: Nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 4.5.2011 I 1003 (2 BvR 2365/09 u. a.). Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 5.12.2012 I 2425 mwv 1.6.2013
+§ 66 idF d. G v. 27.12.2003 I 3007 u. d. G v. 22.12.2010 I 2300: Nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 4.5.2011 I 1003 (2 BvR 2365/09 u. a.). Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 5.12.2012 I 2425 mWv 1.6.2013
 
 ### § 66a Vorbehalt der Unterbringung in der Sicherungsverwahrung
 
@@ -1907,7 +1905,7 @@ mit hinreichender Sicherheit feststellbar oder zumindest wahrscheinlich ist, das
 
 (3) Über die nach Absatz 1 oder 2 vorbehaltene Anordnung der Sicherungsverwahrung kann das Gericht im ersten Rechtszug nur bis zur vollständigen Vollstreckung der Freiheitsstrafe entscheiden; dies gilt auch, wenn die Vollstreckung des Strafrestes zur Bewährung ausgesetzt war und der Strafrest vollstreckt wird. Das Gericht ordnet die Sicherungsverwahrung an, wenn die Gesamtwürdigung des Verurteilten, seiner Tat oder seiner Taten und ergänzend seiner Entwicklung bis zum Zeitpunkt der Entscheidung ergibt, dass von ihm erhebliche Straftaten zu erwarten sind, durch welche die Opfer seelisch oder körperlich schwer geschädigt werden.
 
-§ 66a: IdF d. Art. 1 Nr. 3 G v. 22.12.2010 I 2300 mWv 1.1.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 4.5.2011 I 1003 (2 BvR 2365/09 u. a.). Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 5.12.2012 I 2425 mwv 1.6.2013
+§ 66a: IdF d. Art. 1 Nr. 3 G v. 22.12.2010 I 2300 mWv 1.1.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 4.5.2011 I 1003 (2 BvR 2365/09 u. a.). Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 5.12.2012 I 2425 mWv 1.6.2013
 
 ### § 66b Nachträgliche Anordnung der Unterbringung in der Sicherungsverwahrung
 
@@ -1921,7 +1919,7 @@ die Gesamtwürdigung des Betroffenen, seiner Taten und ergänzend seiner Entwick
 
 Dies gilt auch, wenn im Anschluss an die Unterbringung nach § 63 noch eine daneben angeordnete Freiheitsstrafe ganz oder teilweise zu vollstrecken ist.
 
-§ 66b: Eingef. durch Art. 1 Nr. 2 G v. 23.7.2004 I 1838 mWv 29.7.2004; früherer Abs. 1 u. 2 aufgeh., früherer Abs. 3 jetzt einziger Text gem. Art. 1 Nr. 4 Buchst. a u. Buchst. b DBuchst. aa G v. 22.12.2010 I 2300 mWv 1.1.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 4.5.2011 I 1003 (2 BvR 2365/09 u. a.). Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 5.12.2012 I 2425 mwv 1.6.2013
+§ 66b: Eingef. durch Art. 1 Nr. 2 G v. 23.7.2004 I 1838 mWv 29.7.2004; früherer Abs. 1 u. 2 aufgeh., früherer Abs. 3 jetzt einziger Text gem. Art. 1 Nr. 4 Buchst. a u. Buchst. b DBuchst. aa G v. 22.12.2010 I 2300 mWv 1.1.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 4.5.2011 I 1003 (2 BvR 2365/09 u. a.). Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 5.12.2012 I 2425 mWv 1.6.2013
 
 ### § 66c Ausgestaltung der Unterbringung in der Sicherungsverwahrung und des vorhergehenden Strafvollzugs
 
@@ -2014,7 +2012,7 @@ setzt das Gericht die Vollstreckung der Unterbringung zur Bewährung aus; mit de
 
 (6) Stellt das Gericht nach Beginn der Vollstreckung der Unterbringung in einem psychiatrischen Krankenhaus fest, dass die Voraussetzungen der Maßregel nicht mehr vorliegen oder die weitere Vollstreckung der Maßregel unverhältnismäßig wäre, so erklärt es sie für erledigt. Mit der Entlassung aus dem Vollzug der Unterbringung tritt Führungsaufsicht ein. Das Gericht ordnet den Nichteintritt der Führungsaufsicht an, wenn zu erwarten ist, dass der Betroffene auch ohne sie keine Straftaten mehr begehen wird.
 
-§ 67d Abs. 3: Mit GG (100-1) vereinbar gem. BVerfGE v. 5.2.2004 I 1069 (2 BvR 2029/01)
+§ 67d Abs. 3 idF d. G v. 26.1.1998 I 160: Mit GG (100-1) vereinbar gem. BVerfGE v. 5.2.2004 I 1069 (2 BvR 2029/01)
 
 ### § 67e Überprüfung
 
