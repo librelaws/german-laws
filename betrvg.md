@@ -5,10 +5,10 @@ Neuf
 Neugefasst durch Bek. v. 25.9.2001 I 2518;
 
 Stand  
-zuletzt geändert durch Art. 3 G v. 21.2.2017 I 258
+zuletzt geändert durch Art. 6 G v. 17.7.2017 I 2509
 
 Hinweis  
-Änderung durch Art. 6 G v. 17.7.2017 I 2509 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 4e G v. 18.12.2018 I 2651 (Nr. 48) mWv 1.5.2019 noch nicht berücksichtigt
 
 ### 
 
@@ -511,7 +511,7 @@ Auf Antrag von einem Viertel der Mitglieder des Betriebsrats kann ein Beauftragt
 
 ### § 32 Teilnahme der Schwerbehindertenvertretung
 
-Die Schwerbehindertenvertretung (§ 94 des Neunten Buches Sozialgesetzbuch) kann an allen Sitzungen des Betriebsrats beratend teilnehmen.
+Die Schwerbehindertenvertretung (§ 177 des Neunten Buches Sozialgesetzbuch) kann an allen Sitzungen des Betriebsrats beratend teilnehmen.
 
 ### § 33 Beschlüsse des Betriebsrats
 
@@ -707,7 +707,7 @@ besteht.
 
 ### § 52 Teilnahme der Gesamtschwerbehindertenvertretung
 
-Die Gesamtschwerbehindertenvertretung (§ 97 Abs. 1 des Neunten Buches Sozialgesetzbuch) kann an allen Sitzungen des Gesamtbetriebsrats beratend teilnehmen.
+Die Gesamtschwerbehindertenvertretung (§ 180 Absatz 1 des Neunten Buches Sozialgesetzbuch) kann an allen Sitzungen des Gesamtbetriebsrats beratend teilnehmen.
 
 ### § 53 Betriebsräteversammlung
 
@@ -768,7 +768,7 @@ Die Mitgliedschaft im Konzernbetriebsrat endet mit dem Erlöschen der Mitgliedsc
 
 ### § 59a Teilnahme der Konzernschwerbehindertenvertretung
 
-Die Konzernschwerbehindertenvertretung (§ 97 Abs. 2 des Neunten Buches Sozialgesetzbuch) kann an allen Sitzungen des Konzernbetriebsrats beratend teilnehmen.
+Die Konzernschwerbehindertenvertretung (§ 180 Absatz 2 des Neunten Buches Sozialgesetzbuch) kann an allen Sitzungen des Konzernbetriebsrats beratend teilnehmen.
 
 Dritter Teil Jugend- und Auszubildendenvertretung
 -------------------------------------------------
@@ -1049,7 +1049,7 @@ die Vereinbarkeit von Familie und Erwerbstätigkeit zu fördern;
 Anregungen von Arbeitnehmern und der Jugend- und Auszubildendenvertretung entgegenzunehmen und, falls sie berechtigt erscheinen, durch Verhandlungen mit dem Arbeitgeber auf eine Erledigung hinzuwirken; er hat die betreffenden Arbeitnehmer über den Stand und das Ergebnis der Verhandlungen zu unterrichten;
 
 4.  
-die Eingliederung schwerbehinderter Menschen einschließlich der Förderung des Abschlusses von Inklusionsvereinbarungen nach § 83 des Neunten Buches Sozialgesetzbuch und sonstiger besonders schutzbedürftiger Personen zu fördern;
+die Eingliederung schwerbehinderter Menschen einschließlich der Förderung des Abschlusses von Inklusionsvereinbarungen nach § 166 des Neunten Buches Sozialgesetzbuch und sonstiger besonders schutzbedürftiger Personen zu fördern;
 
 5.  
 die Wahl einer Jugend- und Auszubildendenvertretung vorzubereiten und durchzuführen und mit dieser zur Förderung der Belange der in § 60 Abs. 1 genannten Arbeitnehmer eng zusammenzuarbeiten; er kann von der Jugend- und Auszubildendenvertretung Vorschläge und Stellungnahmen anfordern;
