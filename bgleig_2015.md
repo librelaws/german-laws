@@ -4,6 +4,9 @@ Gesetz für die Gleichstellung von Frauen und Männern in der Bundesverwaltung u
 Sonst  
 Ersetzt G 205-2 v. 30.11.2001 I 3234 (BGleiG)
 
+Stand  
+Geändert durch Art. 3 G v. 23.12.2016 I 3191
+
 ### 
 
 ```
@@ -160,7 +163,7 @@ maßgebend ist § 6 Absatz 1, 2 und 4 des Bundespersonalvertretungsgesetzes;
 Familienaufgaben: die tatsächliche Betreuung von mindestens einem Kind unter 18 Jahren durch Beschäftigte; dies schließt auch die Inanspruchnahme einer Elternzeit nach dem Bundeselterngeld- und Elternzeitgesetz ein;
 
 7.  
-Pflegeaufgaben: die tatsächliche, nicht erwerbsmäßige häusliche Pflege oder Betreuung einer im Sinne von § 61 Absatz 1 des Zwölften Buches Sozialgesetzbuch pflegebedürftigen Person durch Beschäftigte; dies schließt auch die Inanspruchnahme einer Pflegezeit nach dem Pflegezeitgesetz sowie die Inanspruchnahme einer Familienpflegezeit nach dem Familienpflegezeitgesetz ein;
+Pflegeaufgaben: die tatsächliche, nicht erwerbsmäßige häusliche Pflege oder Betreuung einer im Sinne des Siebten Kapitels des Zwölften Buches Sozialgesetzbuch pflegebedürftigen Person durch Beschäftigte; dies schließt auch die Inanspruchnahme einer Pflegezeit nach dem Pflegezeitgesetz sowie die Inanspruchnahme einer Familienpflegezeit nach dem Familienpflegezeitgesetz ein;
 
 8.  
 Qualifikation: Eignung, Befähigung und fachliche Leistung;
