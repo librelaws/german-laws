@@ -5,16 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 2.7.1979 I 853, 1036;
 
 Stand  
-Zuletzt geändert durch Art. 3 Abs. 1 G v. 20.4.2013 I 868
-
-Hinweis  
-Änderung durch Art. 18 G v. 23.7.2013 I 2586 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 7 G v. 31.8.2013 I 3533 (Nr. 55) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 3 G v. 10.10.2013 I 3786 (Nr. 62) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 3 G v. 10.10.2013 I 3786
 
 ### 
 
@@ -593,11 +584,11 @@ Erster Unterabschnitt Erster Rechtszug
 
 (1) Für das Mahnverfahren vor den Gerichten für Arbeitssachen gelten die Vorschriften der Zivilprozeßordnung über das Mahnverfahren einschließlich der maschinellen Bearbeitung entsprechend, soweit dieses Gesetz nichts anderes bestimmt. § 690 Abs. 3 Satz 2 der Zivilprozessordnung ist nicht anzuwenden.
 
-(2) Zuständig für die Durchführung des Mahnverfahrens ist das Arbeitsgericht, das für die im Urteilsverfahren erhobene Klage zuständig sein würde.
+(2) Zuständig für die Durchführung des Mahnverfahrens ist das Arbeitsgericht, das für die im Urteilsverfahren erhobene Klage zuständig sein würde. Die Landesregierungen werden ermächtigt, einem Arbeitsgericht durch Rechtsverordnung Mahnverfahren für die Bezirke mehrerer Arbeitsgerichte zuzuweisen. Die Zuweisung kann auf Mahnverfahren beschränkt werden, die maschinell bearbeitet werden. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die jeweils zuständige oberste Landesbehörde übertragen. Mehrere Länder können die Zuständigkeit eines Arbeitsgerichts über die Landesgrenzen hinaus vereinbaren.
 
 (3) Die in den Mahnbescheid nach § 692 Abs. 1 Nr. 3 der Zivilprozeßordnung aufzunehmende Frist beträgt eine Woche.
 
-(4) Wird rechtzeitig Widerspruch erhoben und beantragt eine Partei die Durchführung der mündlichen Verhandlung, so hat die Geschäftsstelle dem Antragsteller unverzüglich aufzugeben, seinen Anspruch binnen zwei Wochen schriftlich zu begründen. Bei Eingang der Anspruchsbegründung bestimmt der Vorsitzende den Termin zur mündlichen Verhandlung. Geht die Anspruchsbegründung nicht rechtzeitig ein, so wird bis zu ihrem Eingang der Termin nur auf Antrag des Antragsgegners bestimmt.
+(4) Wird rechtzeitig Widerspruch erhoben und beantragt eine Partei die Durchführung der mündlichen Verhandlung, so gibt das Gericht, das den Mahnbescheid erlassen hat, den Rechtsstreit von Amts wegen an das Gericht ab, das in dem Mahnbescheid gemäß § 692 Absatz 1 Nummer 1 der Zivilprozessordnung bezeichnet worden ist. Verlangen die Parteien übereinstimmend die Abgabe an ein anderes als das im Mahnbescheid bezeichnete Gericht, erfolgt die Abgabe dorthin. Die Geschäftsstelle hat dem Antragsteller unverzüglich aufzugeben, seinen Anspruch binnen zwei Wochen schriftlich zu begründen. Bei Eingang der Anspruchsbegründung bestimmt der Vorsitzende den Termin zur mündlichen Verhandlung. Geht die Anspruchsbegründung nicht rechtzeitig ein, so wird bis zu ihrem Eingang der Termin nur auf Antrag des Antragsgegners bestimmt.
 
 (5) Die Streitsache gilt als mit Zustellung des Mahnbescheids rechtshängig geworden, wenn alsbald nach Erhebung des Widerspruchs Termin zur mündlichen Verhandlung bestimmt wird.
 
@@ -605,7 +596,7 @@ Erster Unterabschnitt Erster Rechtszug
 
 (7) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den Verfahrensablauf zu regeln, soweit dies für eine einheitliche maschinelle Bearbeitung der Mahnverfahren erforderlich ist (Verfahrensablaufplan).
 
-(8) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vereinfachung des Mahnverfahrens und zum Schutze der in Anspruch genommenen Partei Formulare einzuführen. Dabei können für Mahnverfahren bei Gerichten, die die Verfahren maschinell bearbeiten, und für Mahnverfahren bei Gerichten, die die Verfahren nicht maschinell bearbeiten, unterschiedliche Formulare eingeführt werden.
+(8) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vereinfachung des Mahnverfahrens und zum Schutze der in Anspruch genommenen Partei Formulare einzuführen. Dabei können für Mahnverfahren bei Gerichten, die die Verfahren maschinell bearbeiten, und für Mahnverfahren bei Gerichten, die die Verfahren nicht maschinell bearbeiten, unterschiedliche Formulare eingeführt werden. Die Rechtsverordnung kann ein elektronisches Formular vorsehen; § 130c Satz 2 bis 4 der Zivilprozessordnung gilt entsprechend.
 
 ### § 46b Europäisches Mahnverfahren nach der Verordnung (EG) Nr. 1896/2006
 
@@ -634,6 +625,10 @@ Soweit dieses Gesetz dem Richter, dem Rechtspfleger, dem Urkundsbeamten der Gesc
 (2) In Papierform eingereichte Schriftstücke und sonstige Unterlagen sollen zur Ersetzung der Urschrift in ein elektronisches Dokument übertragen werden. Die Unterlagen sind, sofern sie in Papierform weiter benötigt werden, mindestens bis zum rechtskräftigen Abschluss des Verfahrens aufzubewahren.
 
 (3) Das elektronische Dokument muss den Vermerk enthalten, wann und durch wen die Unterlagen in ein elektronisches Dokument übertragen worden sind.
+
+### § 46f Formulare; Verordnungsermächtigung
+
+Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung mit Zustimmung des Bundesrates elektronische Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in den Formularen enthaltenen Angaben ganz oder teilweise in strukturierter maschinenlesbarer Form zu übermitteln sind. Die Formulare sind auf einer in der Rechtsverordnung zu bestimmenden Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die Rechtsverordnung kann bestimmen, dass eine Identifikation des Formularverwenders abweichend von § 46c Absatz 3 auch durch Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen kann.
 
 ### § 47 Sondervorschriften über Ladung und Einlassung \*)
 
