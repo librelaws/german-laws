@@ -5,7 +5,13 @@ Neuf
 Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Stand  
-zuletzt geändert durch Art. 7 G v. 19.10.2012 I 2182
+zuletzt geändert durch Art. 1 G v. 20.2.2013 I 277
+
+Hinweis  
+Änderung durch Art. 1 G v. 11.3.2013 I 434 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 6 G v. 21.3.2013 I 556 (Nr. 15) noch nicht berücksichtigt
 
 ### 
 
@@ -421,7 +427,15 @@ Sachdarlehensvertrag
 
 Titel 8
 
+Dienstvertrag und ähnliche Verträge
+
+Untertitel 1
+
 Dienstvertrag
+
+Untertitel 2
+
+Behandlungsvertrag
 
 Titel 9
 
@@ -5483,6 +5497,24 @@ Unterkapitel 1 Vereinbarungen über die Miete
 
 (2) Der Mieter kann entgegen einer vertraglichen Bestimmung gegen eine Mietforderung mit einer Forderung auf Grund der §§ 536a, 539 oder aus ungerechtfertigter Bereicherung wegen zu viel gezahlter Miete aufrechnen oder wegen einer solchen Forderung ein Zurückbehaltungsrecht ausüben, wenn er seine Absicht dem Vermieter mindestens einen Monat vor der Fälligkeit der Miete in Textform angezeigt hat. Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
 
+### § 556c Kosten der Wärmelieferung als Betriebskosten, Verordnungsermächtigung
+
+*(1) Hat der Mieter die Betriebskosten für Wärme oder Warmwasser zu tragen und stellt der Vermieter die Versorgung von der Eigenversorgung auf die eigenständig gewerbliche Lieferung durch einen Wärmelieferanten (Wärmelieferung) um, so hat der Mieter die Kosten der Wärmelieferung als Betriebskosten zu tragen, wenn*
+
+1.  
+die Wärme mit verbesserter Effizienz entweder aus einer vom Wärmelieferanten errichteten neuen Anlage oder aus einem Wärmenetz geliefert wird und
+
+2.  
+die Kosten der Wärmelieferung die Betriebskosten für die bisherige Eigenversorgung mit Wärme oder Warmwasser nicht übersteigen.
+
+Beträgt der Jahresnutzungsgrad der bestehenden Anlage vor der Umstellung mindestens 80 Prozent, kann sich der Wärmelieferant anstelle der Maßnahmen nach Nummer 1 auf die Verbesserung der Betriebsführung der Anlage beschränken.
+
+*(2) Der Vermieter hat die Umstellung spätestens drei Monate zuvor in Textform anzukündigen (Umstellungsankündigung).*
+
+(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften für Wärmelieferverträge, die bei einer Umstellung nach Absatz 1 geschlossen werden, sowie für die Anforderungen nach den Absätzen 1 und 2 zu erlassen. Hierbei sind die Belange von Vermietern, Mietern und Wärmelieferanten angemessen zu berücksichtigen.
+
+*(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.*
+
 Unterkapitel 2 Regelungen über die Miethöhe
 -------------------------------------------
 
@@ -6438,8 +6470,8 @@ Ein Entgelt hat der Darlehensnehmer spätestens bei Rückerstattung der überlas
 
 (weggefallen)
 
-Titel 8 Dienstvertrag
----------------------
+Titel 8 Dienstvertrag und ähnliche Verträge
+-------------------------------------------
 
 ### 
 
@@ -6451,6 +6483,11 @@ der Richtlinie 76/207/EWG des Rates vom 9. Februar 1976 zur Verwirklichung des G
 
 2.  
 der Richtlinie 77/187/EWG des Rates vom 14. Februar 1977 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Wahrung von Ansprüchen der Arbeitnehmer beim Übergang von Unternehmen, Betrieben oder Betriebsteilen (ABl. EG Nr. L 61 S. 26).
+
+Untertitel 1 Dienstvertrag
+--------------------------
+
+### 
 
 ### § 611 Vertragstypische Pflichten beim Dienstvertrag
 
@@ -6647,6 +6684,90 @@ Nach der Kündigung eines dauernden Dienstverhältnisses hat der Dienstberechtig
 ### § 630 Pflicht zur Zeugniserteilung
 
 Bei der Beendigung eines dauernden Dienstverhältnisses kann der Verpflichtete von dem anderen Teil ein schriftliches Zeugnis über das Dienstverhältnis und dessen Dauer fordern. Das Zeugnis ist auf Verlangen auf die Leistungen und die Führung im Dienst zu erstrecken. Die Erteilung des Zeugnisses in elektronischer Form ist ausgeschlossen. Wenn der Verpflichtete ein Arbeitnehmer ist, findet § 109 der Gewerbeordnung Anwendung.
+
+Untertitel 2 Behandlungsvertrag
+-------------------------------
+
+### 
+
+### § 630a Vertragstypische Pflichten beim Behandlungsvertrag
+
+(1) Durch den Behandlungsvertrag wird derjenige, welcher die medizinische Behandlung eines Patienten zusagt (Behandelnder), zur Leistung der versprochenen Behandlung, der andere Teil (Patient) zur Gewährung der vereinbarten Vergütung verpflichtet, soweit nicht ein Dritter zur Zahlung verpflichtet ist.
+
+(2) Die Behandlung hat nach den zum Zeitpunkt der Behandlung bestehenden, allgemein anerkannten fachlichen Standards zu erfolgen, soweit nicht etwas anderes vereinbart ist.
+
+### § 630b Anwendbare Vorschriften
+
+Auf das Behandlungsverhältnis sind die Vorschriften über das Dienstverhältnis, das kein Arbeitsverhältnis im Sinne des § 622 ist, anzuwenden, soweit nicht in diesem Untertitel etwas anderes bestimmt ist.
+
+### § 630c Mitwirkung der Vertragsparteien; Informationspflichten
+
+(1) Behandelnder und Patient sollen zur Durchführung der Behandlung zusammenwirken.
+
+(2) Der Behandelnde ist verpflichtet, dem Patienten in verständlicher Weise zu Beginn der Behandlung und, soweit erforderlich, in deren Verlauf sämtliche für die Behandlung wesentlichen Umstände zu erläutern, insbesondere die Diagnose, die voraussichtliche gesundheitliche Entwicklung, die Therapie und die zu und nach der Therapie zu ergreifenden Maßnahmen. Sind für den Behandelnden Umstände erkennbar, die die Annahme eines Behandlungsfehlers begründen, hat er den Patienten über diese auf Nachfrage oder zur Abwendung gesundheitlicher Gefahren zu informieren. Ist dem Behandelnden oder einem seiner in § 52 Absatz 1 der Strafprozessordnung bezeichneten Angehörigen ein Behandlungsfehler unterlaufen, darf die Information nach Satz 2 zu Beweiszwecken in einem gegen den Behandelnden oder gegen seinen Angehörigen geführten Straf- oder Bußgeldverfahren nur mit Zustimmung des Behandelnden verwendet werden.
+
+(3) Weiß der Behandelnde, dass eine vollständige Übernahme der Behandlungskosten durch einen Dritten nicht gesichert ist oder ergeben sich nach den Umständen hierfür hinreichende Anhaltspunkte, muss er den Patienten vor Beginn der Behandlung über die voraussichtlichen Kosten der Behandlung in Textform informieren. Weitergehende Formanforderungen aus anderen Vorschriften bleiben unberührt.
+
+(4) Der Information des Patienten bedarf es nicht, soweit diese ausnahmsweise aufgrund besonderer Umstände entbehrlich ist, insbesondere wenn die Behandlung unaufschiebbar ist oder der Patient auf die Information ausdrücklich verzichtet hat.
+
+### § 630d Einwilligung
+
+(1) Vor Durchführung einer medizinischen Maßnahme, insbesondere eines Eingriffs in den Körper oder die Gesundheit, ist der Behandelnde verpflichtet, die Einwilligung des Patienten einzuholen. Ist der Patient einwilligungsunfähig, ist die Einwilligung eines hierzu Berechtigten einzuholen, soweit nicht eine Patientenverfügung nach § 1901a Absatz 1 Satz 1 die Maßnahme gestattet oder untersagt. Weitergehende Anforderungen an die Einwilligung aus anderen Vorschriften bleiben unberührt. Kann eine Einwilligung für eine unaufschiebbare Maßnahme nicht rechtzeitig eingeholt werden, darf sie ohne Einwilligung durchgeführt werden, wenn sie dem mutmaßlichen Willen des Patienten entspricht.
+
+(2) Die Wirksamkeit der Einwilligung setzt voraus, dass der Patient oder im Fall des Absatzes 1 Satz 2 der zur Einwilligung Berechtigte vor der Einwilligung nach Maßgabe von § 630e Absatz 1 bis 4 aufgeklärt worden ist.
+
+(3) Die Einwilligung kann jederzeit und ohne Angabe von Gründen formlos widerrufen werden.
+
+### § 630e Aufklärungspflichten
+
+(1) Der Behandelnde ist verpflichtet, den Patienten über sämtliche für die Einwilligung wesentlichen Umstände aufzuklären. Dazu gehören insbesondere Art, Umfang, Durchführung, zu erwartende Folgen und Risiken der Maßnahme sowie ihre Notwendigkeit, Dringlichkeit, Eignung und Erfolgsaussichten im Hinblick auf die Diagnose oder die Therapie. Bei der Aufklärung ist auch auf Alternativen zur Maßnahme hinzuweisen, wenn mehrere medizinisch gleichermaßen indizierte und übliche Methoden zu wesentlich unterschiedlichen Belastungen, Risiken oder Heilungschancen führen können.
+
+(2) Die Aufklärung muss
+
+1.  
+mündlich durch den Behandelnden oder durch eine Person erfolgen, die über die zur Durchführung der Maßnahme notwendige Ausbildung verfügt; ergänzend kann auch auf Unterlagen Bezug genommen werden, die der Patient in Textform erhält,
+
+2.  
+so rechtzeitig erfolgen, dass der Patient seine Entscheidung über die Einwilligung wohlüberlegt treffen kann,
+
+3.  
+für den Patienten verständlich sein.
+
+Dem Patienten sind Abschriften von Unterlagen, die er im Zusammenhang mit der Aufklärung oder Einwilligung unterzeichnet hat, auszuhändigen.
+
+(3) Der Aufklärung des Patienten bedarf es nicht, soweit diese ausnahmsweise aufgrund besonderer Umstände entbehrlich ist, insbesondere wenn die Maßnahme unaufschiebbar ist oder der Patient auf die Aufklärung ausdrücklich verzichtet hat.
+
+(4) Ist nach § 630d Absatz 1 Satz 2 die Einwilligung eines hierzu Berechtigten einzuholen, ist dieser nach Maßgabe der Absätze 1 bis 3 aufzuklären.
+
+(5) Im Fall des § 630d Absatz 1 Satz 2 sind die wesentlichen Umstände nach Absatz 1 auch dem Patienten entsprechend seinem Verständnis zu erläutern, soweit dieser aufgrund seines Entwicklungsstandes und seiner Verständnismöglichkeiten in der Lage ist, die Erläuterung aufzunehmen, und soweit dies seinem Wohl nicht zuwiderläuft. Absatz 3 gilt entsprechend.
+
+### § 630f Dokumentation der Behandlung
+
+(1) Der Behandelnde ist verpflichtet, zum Zweck der Dokumentation in unmittelbarem zeitlichen Zusammenhang mit der Behandlung eine Patientenakte in Papierform oder elektronisch zu führen. Berichtigungen und Änderungen von Eintragungen in der Patientenakte sind nur zulässig, wenn neben dem ursprünglichen Inhalt erkennbar bleibt, wann sie vorgenommen worden sind. Dies ist auch für elektronisch geführte Patientenakten sicherzustellen.
+
+(2) Der Behandelnde ist verpflichtet, in der Patientenakte sämtliche aus fachlicher Sicht für die derzeitige und künftige Behandlung wesentlichen Maßnahmen und deren Ergebnisse aufzuzeichnen, insbesondere die Anamnese, Diagnosen, Untersuchungen, Untersuchungsergebnisse, Befunde, Therapien und ihre Wirkungen, Eingriffe und ihre Wirkungen, Einwilligungen und Aufklärungen. Arztbriefe sind in die Patientenakte aufzunehmen.
+
+(3) Der Behandelnde hat die Patientenakte für die Dauer von zehn Jahren nach Abschluss der Behandlung aufzubewahren, soweit nicht nach anderen Vorschriften andere Aufbewahrungsfristen bestehen.
+
+### § 630g Einsichtnahme in die Patientenakte
+
+(1) Dem Patienten ist auf Verlangen unverzüglich Einsicht in die vollständige, ihn betreffende Patientenakte zu gewähren, soweit der Einsichtnahme nicht erhebliche therapeutische Gründe oder sonstige erhebliche Rechte Dritter entgegenstehen. Die Ablehnung der Einsichtnahme ist zu begründen. § 811 ist entsprechend anzuwenden.
+
+(2) Der Patient kann auch elektronische Abschriften von der Patientenakte verlangen. Er hat dem Behandelnden die entstandenen Kosten zu erstatten.
+
+(3) Im Fall des Todes des Patienten stehen die Rechte aus den Absätzen 1 und 2 zur Wahrnehmung der vermögensrechtlichen Interessen seinen Erben zu. Gleiches gilt für die nächsten Angehörigen des Patienten, soweit sie immaterielle Interessen geltend machen. Die Rechte sind ausgeschlossen, soweit der Einsichtnahme der ausdrückliche oder mutmaßliche Wille des Patienten entgegensteht.
+
+### § 630h Beweislast bei Haftung für Behandlungs- und Aufklärungsfehler
+
+(1) Ein Fehler des Behandelnden wird vermutet, wenn sich ein allgemeines Behandlungsrisiko verwirklicht hat, das für den Behandelnden voll beherrschbar war und das zur Verletzung des Lebens, des Körpers oder der Gesundheit des Patienten geführt hat.
+
+(2) Der Behandelnde hat zu beweisen, dass er eine Einwilligung gemäß § 630d eingeholt und entsprechend den Anforderungen des § 630e aufgeklärt hat. Genügt die Aufklärung nicht den Anforderungen des § 630e, kann der Behandelnde sich darauf berufen, dass der Patient auch im Fall einer ordnungsgemäßen Aufklärung in die Maßnahme eingewilligt hätte.
+
+(3) Hat der Behandelnde eine medizinisch gebotene wesentliche Maßnahme und ihr Ergebnis entgegen § 630f Absatz 1 oder Absatz 2 nicht in der Patientenakte aufgezeichnet oder hat er die Patientenakte entgegen § 630f Absatz 3 nicht aufbewahrt, wird vermutet, dass er diese Maßnahme nicht getroffen hat.
+
+(4) War ein Behandelnder für die von ihm vorgenommene Behandlung nicht befähigt, wird vermutet, dass die mangelnde Befähigung für den Eintritt der Verletzung des Lebens, des Körpers oder der Gesundheit ursächlich war.
+
+(5) Liegt ein grober Behandlungsfehler vor und ist dieser grundsätzlich geeignet, eine Verletzung des Lebens, des Körpers oder der Gesundheit der tatsächlich eingetretenen Art herbeizuführen, wird vermutet, dass der Behandlungsfehler für diese Verletzung ursächlich war. Dies gilt auch dann, wenn es der Behandelnde unterlassen hat, einen medizinisch gebotenen Befund rechtzeitig zu erheben oder zu sichern, soweit der Befund mit hinreichender Wahrscheinlichkeit ein Ergebnis erbracht hätte, das Anlass zu weiteren Maßnahmen gegeben hätte, und wenn das Unterlassen solcher Maßnahmen grob fehlerhaft gewesen wäre.
 
 Titel 9 Werkvertrag und ähnliche Verträge
 -----------------------------------------
@@ -12640,7 +12761,7 @@ Für Aufwendungen infolge eines Körper- oder Gesundheitsschadens gilt § 1610a.
 
 ### § 1578b Herabsetzung und zeitliche Begrenzung des Unterhalts wegen Unbilligkeit
 
-(1) Der Unterhaltsanspruch des geschiedenen Ehegatten ist auf den angemessenen Lebensbedarf herabzusetzen, wenn eine an den ehelichen Lebensverhältnissen orientierte Bemessung des Unterhaltsanspruchs auch unter Wahrung der Belange eines dem Berechtigten zur Pflege oder Erziehung anvertrauten gemeinschaftlichen Kindes unbillig wäre. Dabei ist insbesondere zu berücksichtigen, inwieweit durch die Ehe Nachteile im Hinblick auf die Möglichkeit eingetreten sind, für den eigenen Unterhalt zu sorgen. Solche Nachteile können sich vor allem aus der Dauer der Pflege oder Erziehung eines gemeinschaftlichen Kindes, aus der Gestaltung von Haushaltsführung und Erwerbstätigkeit während der Ehe sowie aus der Dauer der Ehe ergeben.
+(1) Der Unterhaltsanspruch des geschiedenen Ehegatten ist auf den angemessenen Lebensbedarf herabzusetzen, wenn eine an den ehelichen Lebensverhältnissen orientierte Bemessung des Unterhaltsanspruchs auch unter Wahrung der Belange eines dem Berechtigten zur Pflege oder Erziehung anvertrauten gemeinschaftlichen Kindes unbillig wäre. Dabei ist insbesondere zu berücksichtigen, inwieweit durch die Ehe Nachteile im Hinblick auf die Möglichkeit eingetreten sind, für den eigenen Unterhalt zu sorgen, oder eine Herabsetzung des Unterhaltsanspruchs unter Berücksichtigung der Dauer der Ehe unbillig wäre. Nachteile im Sinne des Satzes 2 können sich vor allem aus der Dauer der Pflege oder Erziehung eines gemeinschaftlichen Kindes sowie aus der Gestaltung von Haushaltsführung und Erwerbstätigkeit während der Ehe ergeben.
 
 (2) Der Unterhaltsanspruch des geschiedenen Ehegatten ist zeitlich zu begrenzen, wenn ein zeitlich unbegrenzter Unterhaltsanspruch auch unter Wahrung der Belange eines dem Berechtigten zur Pflege oder Erziehung anvertrauten gemeinschaftlichen Kindes unbillig wäre. Absatz 1 Satz 2 und 3 gilt entsprechend.
 
@@ -13353,6 +13474,12 @@ Eine Unterbringung des Kindes, die mit Freiheitsentziehung verbunden ist, bedarf
 ### § 1631c Verbot der Sterilisation
 
 Die Eltern können nicht in eine Sterilisation des Kindes einwilligen. Auch das Kind selbst kann nicht in die Sterilisation einwilligen. § 1909 findet keine Anwendung.
+
+### § 1631d Beschneidung des männlichen Kindes
+
+(1) Die Personensorge umfasst auch das Recht, in eine medizinisch nicht erforderliche Beschneidung des nicht einsichts- und urteilsfähigen männlichen Kindes einzuwilligen, wenn diese nach den Regeln der ärztlichen Kunst durchgeführt werden soll. Dies gilt nicht, wenn durch die Beschneidung auch unter Berücksichtigung ihres Zwecks das Kindeswohl gefährdet wird.
+
+(2) In den ersten sechs Monaten nach der Geburt des Kindes dürfen auch von einer Religionsgesellschaft dazu vorgesehene Personen Beschneidungen gemäß Absatz 1 durchführen, wenn sie dafür besonders ausgebildet und, ohne Arzt zu sein, für die Durchführung der Beschneidung vergleichbar befähigt sind.
 
 ### § 1632 Herausgabe des Kindes; Bestimmung des Umgangs; Verbleibensanordnung bei Familienpflege
 
@@ -14966,15 +15093,34 @@ Als schwerwiegende Gefahr für den seelischen Gesundheitszustand der Schwangeren
 auf Grund einer psychischen Krankheit oder geistigen oder seelischen Behinderung des Betreuten die Gefahr besteht, dass er sich selbst tötet oder erheblichen gesundheitlichen Schaden zufügt, oder
 
 2.  
-eine Untersuchung des Gesundheitszustands, eine Heilbehandlung oder ein ärztlicher Eingriff notwendig ist, ohne die Unterbringung des Betreuten nicht durchgeführt werden kann und der Betreute auf Grund einer psychischen Krankheit oder geistigen oder seelischen Behinderung die Notwendigkeit der Unterbringung nicht erkennen oder nicht nach dieser Einsicht handeln kann.
+zur Abwendung eines drohenden erheblichen gesundheitlichen Schadens eine Untersuchung des Gesundheitszustands, eine Heilbehandlung oder ein ärztlicher Eingriff notwendig ist, ohne die Unterbringung des Betreuten nicht durchgeführt werden kann und der Betreute auf Grund einer psychischen Krankheit oder geistigen oder seelischen Behinderung die Notwendigkeit der Unterbringung nicht erkennen oder nicht nach dieser Einsicht handeln kann.
 
-(2) Die Unterbringung ist nur mit Genehmigung des Betreuungsgerichts zulässig. Ohne die Genehmigung ist die Unterbringung nur zulässig, wenn mit dem Aufschub Gefahr verbunden ist; die Genehmigung ist unverzüglich nachzuholen.
+(2) Die Unterbringung ist nur mit Genehmigung des Betreuungsgerichts zulässig. Ohne die Genehmigung ist die Unterbringung nur zulässig, wenn mit dem Aufschub Gefahr verbunden ist; die Genehmigung ist unverzüglich nachzuholen. Der Betreuer hat die Unterbringung zu beenden, wenn ihre Voraussetzungen wegfallen. Er hat die Beendigung der Unterbringung dem Betreuungsgericht anzuzeigen.
 
-(3) Der Betreuer hat die Unterbringung zu beenden, wenn ihre Voraussetzungen wegfallen. Er hat die Beendigung der Unterbringung dem Betreuungsgericht anzuzeigen.
+(3) Widerspricht eine ärztliche Maßnahme nach Absatz 1 Nummer 2 dem natürlichen Willen des Betreuten (ärztliche Zwangsmaßnahme), so kann der Betreuer in sie nur einwilligen, wenn
 
-(4) Die Absätze 1 bis 3 gelten entsprechend, wenn dem Betreuten, der sich in einer Anstalt, einem Heim oder einer sonstigen Einrichtung aufhält, ohne untergebracht zu sein, durch mechanische Vorrichtungen, Medikamente oder auf andere Weise über einen längeren Zeitraum oder regelmäßig die Freiheit entzogen werden soll.
+1.  
+der Betreute auf Grund einer psychischen Krankheit oder einer geistigen oder seelischen Behinderung die Notwendigkeit der ärztlichen Maßnahme nicht erkennen oder nicht nach dieser Einsicht handeln kann,
 
-(5) Die Unterbringung durch einen Bevollmächtigten und die Einwilligung eines Bevollmächtigten in Maßnahmen nach Absatz 4 setzt voraus, dass die Vollmacht schriftlich erteilt ist und die in den Absätzen 1 und 4 genannten Maßnahmen ausdrücklich umfasst. Im Übrigen gelten die Absätze 1 bis 4 entsprechend.
+2.  
+zuvor versucht wurde, den Betreuten von der Notwendigkeit der ärztlichen Maßnahme zu überzeugen,
+
+3.  
+die ärztliche Zwangsmaßnahme im Rahmen der Unterbringung nach Absatz 1 zum Wohl des Betreuten erforderlich ist, um einen drohenden erheblichen gesundheitlichen Schaden abzuwenden,
+
+4.  
+der erhebliche gesundheitliche Schaden durch keine andere dem Betreuten zumutbare Maßnahme abgewendet werden kann und
+
+5.  
+der zu erwartende Nutzen der ärztlichen Zwangsmaßnahme die zu erwartenden Beeinträchtigungen deutlich überwiegt.
+
+§ 1846 ist nur anwendbar, wenn der Betreuer an der Erfüllung seiner Pflichten verhindert ist.
+
+(3a) Die Einwilligung in die ärztliche Zwangsmaßnahme bedarf der Genehmigung des Betreuungsgerichts. Der Betreuer hat die Einwilligung in die ärztliche Zwangsmaßnahme zu widerrufen, wenn ihre Voraussetzungen wegfallen. Er hat den Widerruf dem Betreuungsgericht anzuzeigen.
+
+(4) Die Absätze 1 und 2 gelten entsprechend, wenn dem Betreuten, der sich in einer Anstalt, einem Heim oder einer sonstigen Einrichtung aufhält, ohne untergebracht zu sein, durch mechanische Vorrichtungen, Medikamente oder auf andere Weise über einen längeren Zeitraum oder regelmäßig die Freiheit entzogen werden soll.
+
+(5) Die Unterbringung durch einen Bevollmächtigten und die Einwilligung eines Bevollmächtigten in Maßnahmen nach den Absätzen 3 und 4 setzen voraus, dass die Vollmacht schriftlich erteilt ist und die in den Absätzen 1, 3 und 4 genannten Maßnahmen ausdrücklich umfasst. Im Übrigen gelten die Absätze 1 bis 4 entsprechend.
 
 ### § 1907 Genehmigung des Betreuungsgerichts bei der Aufgabe der Mietwohnung
 
