@@ -5,10 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 13.11.1998 I 3322;
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 1.3.2017 I 386
-
-Hinweis  
-Änderung durch Art. 1 G v. 11.4.2017 I 815 (Nr. 20) mWv 19.4.2017 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+zuletzt geändert durch Art. 1 G v. 11.4.2017 I 815
 
 Hinweis  
 Änderung durch Art. 1 G v. 13.4.2017 I 872 (Nr. 22) mWv 1.7.2017 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -20,7 +17,22 @@ Hinweis
 Änderung durch Art. 1 G v. 11.6.2017 I 1612 (Nr. 37) mWv 1.7.2017 ist berücksichtigt
 
 Hinweis  
-Änderung durch Art. 22 Abs. 5 G v. 23.6.2017 I 1693 (Nr. 39) mWv 3.1.2018 noch nicht berücksichtigt
+Änderung durch Art. 24 Abs. 22 G v. 23.6.2017 I 1693 (Nr. 39) mWv 3.1.2018 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 7 G v. 5.7.2017 I 2208 (Nr. 45) mWv 1.1.2018 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 1 G v. 17.7.2017 I 2439 mWv 1.1.2018 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 1 G v. 17.7.2017 I 2440 mWv 22.7.2017 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 1 G v. 17.7.2017 I 2442 mWv 22.7.2017 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 1 G v. 17.8.2017 I 3202 mWv 24.8.2017 (Nr. 58) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -1391,11 +1403,13 @@ Nebenstrafe
 
 ### § 44 Fahrverbot
 
-(1) Wird jemand wegen einer Straftat, die er bei oder im Zusammenhang mit dem Führen eines Kraftfahrzeugs oder unter Verletzung der Pflichten eines Kraftfahrzeugführers begangen hat, zu einer Freiheitsstrafe oder einer Geldstrafe verurteilt, so kann ihm das Gericht für die Dauer von einem Monat bis zu drei Monaten verbieten, im Straßenverkehr Kraftfahrzeuge jeder oder einer bestimmten Art zu führen. Ein Fahrverbot ist in der Regel anzuordnen, wenn in den Fällen einer Verurteilung nach § 315c Abs. 1 Nr. 1 Buchstabe a, Abs. 3 oder § 316 die Entziehung der Fahrerlaubnis nach § 69 unterbleibt.
+(1) Wird jemand wegen einer Straftat zu einer Freiheitsstrafe oder einer Geldstrafe verurteilt, so kann ihm das Gericht für die Dauer von einem Monat bis zu sechs Monaten verbieten, im Straßenverkehr Kraftfahrzeuge jeder oder einer bestimmten Art zu führen. Auch wenn die Straftat nicht bei oder im Zusammenhang mit dem Führen eines Kraftfahrzeugs oder unter Verletzung der Pflichten eines Kraftfahrzeugführers begangen wurde, kommt die Anordnung eines Fahrverbots namentlich in Betracht, wenn sie zur Einwirkung auf den Täter oder zur Verteidigung der Rechtsordnung erforderlich erscheint oder hierdurch die Verhängung einer Freiheitsstrafe oder deren Vollstreckung vermieden werden kann. Ein Fahrverbot ist in der Regel anzuordnen, wenn in den Fällen einer Verurteilung nach § 315c Abs. 1 Nr. 1 Buchstabe a, Abs. 3 oder § 316 die Entziehung der Fahrerlaubnis nach § 69 unterbleibt.
 
-(2) Das Fahrverbot wird mit der Rechtskraft des Urteils wirksam. Für seine Dauer werden von einer deutschen Behörde ausgestellte nationale und internationale Führerscheine amtlich verwahrt. Dies gilt auch, wenn der Führerschein von einer Behörde eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum ausgestellt worden ist, sofern der Inhaber seinen ordentlichen Wohnsitz im Inland hat. In anderen ausländischen Führerscheinen wird das Fahrverbot vermerkt.
+(2) Das Fahrverbot wird wirksam, wenn der Führerschein nach Rechtskraft des Urteils in amtliche Verwahrung gelangt, spätestens jedoch mit Ablauf von einem Monat seit Eintritt der Rechtskraft. Für seine Dauer werden von einer deutschen Behörde ausgestellte nationale und internationale Führerscheine amtlich verwahrt. Dies gilt auch, wenn der Führerschein von einer Behörde eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum ausgestellt worden ist, sofern der Inhaber seinen ordentlichen Wohnsitz im Inland hat. In anderen ausländischen Führerscheinen wird das Fahrverbot vermerkt.
 
 (3) Ist ein Führerschein amtlich zu verwahren oder das Fahrverbot in einem ausländischen Führerschein zu vermerken, so wird die Verbotsfrist erst von dem Tage an gerechnet, an dem dies geschieht. In die Verbotsfrist wird die Zeit nicht eingerechnet, in welcher der Täter auf behördliche Anordnung in einer Anstalt verwahrt worden ist.
+
+(4) Werden gegen den Täter mehrere Fahrverbote rechtskräftig verhängt, so sind die Verbotsfristen nacheinander zu berechnen. Die Verbotsfrist auf Grund des früher wirksam gewordenen Fahrverbots läuft zuerst. Werden Fahrverbote gleichzeitig wirksam, so läuft die Verbotsfrist auf Grund des früher angeordneten Fahrverbots zuerst, bei gleichzeitiger Anordnung ist die frühere Tat maßgebend.
 
 Nebenfolgen
 -----------
@@ -3962,9 +3976,11 @@ Wer unbefugt eine Gruppe, die über Waffen oder andere gefährliche Werkzeuge ve
 
 ### § 129 Bildung krimineller Vereinigungen
 
-(1) Wer eine Vereinigung gründet, deren Zwecke oder deren Tätigkeit darauf gerichtet sind, Straftaten zu begehen, oder wer sich an einer solchen Vereinigung als Mitglied beteiligt, für sie um Mitglieder oder Unterstützer wirbt oder sie unterstützt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+(1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer eine Vereinigung gründet oder sich an einer Vereinigung als Mitglied beteiligt, deren Zweck oder Tätigkeit auf die Begehung von Straftaten gerichtet ist, die im Höchstmaß mit Freiheitsstrafe von mindestens zwei Jahren bedroht sind. Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer eine solche Vereinigung unterstützt oder für sie um Mitglieder oder Unterstützer wirbt.
 
-(2) Absatz 1 ist nicht anzuwenden,
+(2) Eine Vereinigung ist ein auf längere Dauer angelegter, von einer Festlegung von Rollen der Mitglieder, der Kontinuität der Mitgliedschaft und der Ausprägung der Struktur unabhängiger organisierter Zusammenschluss von mehr als zwei Personen zur Verfolgung eines übergeordneten gemeinsamen Interesses.
+
+(3) Absatz 1 ist nicht anzuwenden,
 
 1.  
 wenn die Vereinigung eine politische Partei ist, die das Bundesverfassungsgericht nicht für verfassungswidrig erklärt hat,
@@ -3975,13 +3991,13 @@ wenn die Begehung von Straftaten nur ein Zweck oder eine Tätigkeit von untergeo
 3.  
 soweit die Zwecke oder die Tätigkeit der Vereinigung Straftaten nach den §§ 84 bis 87 betreffen.
 
-(3) Der Versuch, eine in Absatz 1 bezeichnete Vereinigung zu gründen, ist strafbar.
+(4) Der Versuch, eine in Absatz 1 Satz 1 und Absatz 2 bezeichnete Vereinigung zu gründen, ist strafbar.
 
-(4) Gehört der Täter zu den Rädelsführern oder Hintermännern oder liegt sonst ein besonders schwerer Fall vor, so ist auf Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu erkennen; auf Freiheitsstrafe von sechs Monaten bis zu zehn Jahren ist zu erkennen, wenn der Zweck oder die Tätigkeit der kriminellen Vereinigung darauf gerichtet ist, in § 100c Abs. 2 Nr. 1 Buchstabe a, c, d, e und g mit Ausnahme von Straftaten nach § 239a oder § 239b, Buchstabe h bis m, Nr. 2 bis 5 und 7 der Strafprozessordnung genannte Straftaten zu begehen.
+(5) In besonders schweren Fällen des Absatzes 1 Satz 1 ist auf Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu erkennen. Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter zu den Rädelsführern oder Hintermännern der Vereinigung gehört. In den Fällen des Absatzes 1 Satz 1 ist auf Freiheitsstrafe von sechs Monaten bis zu zehn Jahren zu erkennen, wenn der Zweck oder die Tätigkeit der Vereinigung darauf gerichtet ist, in § 100c Absatz 2 Nummer 1 Buchstabe a, c, d, e und g bis m, Nummer 2 bis 5 und 7 der Strafprozessordnung genannte Straftaten mit Ausnahme der in § 100c Absatz 2 Nummer 1 Buchstabe g der Strafprozessordnung genannten Straftaten nach den §§ 239a und 239b des Strafgesetzbuches zu begehen.
 
-(5) Das Gericht kann bei Beteiligten, deren Schuld gering und deren Mitwirkung von untergeordneter Bedeutung ist, von einer Bestrafung nach den Absätzen 1 und 3 absehen.
+(6) Das Gericht kann bei Beteiligten, deren Schuld gering und deren Mitwirkung von untergeordneter Bedeutung ist, von einer Bestrafung nach den Absätzen 1 und 4 absehen.
 
-(6) Das Gericht kann die Strafe nach seinem Ermessen mildern (§ 49 Abs. 2) oder von einer Bestrafung nach diesen Vorschriften absehen, wenn der Täter
+(7) Das Gericht kann die Strafe nach seinem Ermessen mildern (§ 49 Abs. 2) oder von einer Bestrafung nach diesen Vorschriften absehen, wenn der Täter
 
 1.  
 sich freiwillig und ernsthaft bemüht, das Fortbestehen der Vereinigung oder die Begehung einer ihren Zielen entsprechenden Straftat zu verhindern, oder
@@ -3993,7 +4009,7 @@ erreicht der Täter sein Ziel, das Fortbestehen der Vereinigung zu verhindern, o
 
 ### § 129a Bildung terroristischer Vereinigungen
 
-(1) Wer eine Vereinigung gründet, deren Zwecke oder deren Tätigkeit darauf gerichtet sind,
+(1) Wer eine Vereinigung (§ 129 Absatz 2) gründet, deren Zwecke oder deren Tätigkeit darauf gerichtet sind,
 
 1.  
 Mord (§ 211) oder Totschlag (§ 212) oder Völkermord (§ 6 des Völkerstrafgesetzbuches) oder Verbrechen gegen die Menschlichkeit (§ 7 des Völkerstrafgesetzbuches) oder Kriegsverbrechen (§§ 8, 9, 10, 11 oder § 12 des Völkerstrafgesetzbuches) oder
@@ -4033,7 +4049,7 @@ zu begehen, oder wer sich an einer solchen Vereinigung als Mitglied beteiligt, w
 
 (6) Das Gericht kann bei Beteiligten, deren Schuld gering und deren Mitwirkung von untergeordneter Bedeutung ist, in den Fällen der Absätze 1, 2, 3 und 5 die Strafe nach seinem Ermessen (§ 49 Abs. 2) mildern.
 
-(7) § 129 Abs. 6 gilt entsprechend.
+(7) § 129 Absatz 7 gilt entsprechend.
 
 (8) Neben einer Freiheitsstrafe von mindestens sechs Monaten kann das Gericht die Fähigkeit, öffentliche Ämter zu bekleiden, und die Fähigkeit, Rechte aus öffentlichen Wahlen zu erlangen, aberkennen (§ 45 Abs. 2).
 
@@ -6205,9 +6221,9 @@ einen Diebstahl begeht, bei dem er zur Ausführung der Tat in eine Wohnung einbr
 
 (2) Der Versuch ist strafbar.
 
-(3) In minder schweren Fällen ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
+(3) In minder schweren Fällen des Absatzes 1 Nummer 1 bis 3 ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
-(4) (weggefallen)
+(4) Betrifft der Wohnungseinbruchdiebstahl nach Absatz 1 Nummer 3 eine dauerhaft genutzte Privatwohnung, so ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren.
 
 ### § 244a Schwerer Bandendiebstahl
 
@@ -6726,9 +6742,15 @@ und dadurch dieser Stelle vom Arbeitgeber zu tragende Beiträge zur Sozialversic
 aus grobem Eigennutz in großem Ausmaß Beiträge vorenthält,
 
 2.  
-unter Verwendung nachgemachter oder verfälschter Belege fortgesetzt Beiträge vorenthält oder
+unter Verwendung nachgemachter oder verfälschter Belege fortgesetzt Beiträge vorenthält,
 
 3.  
+fortgesetzt Beiträge vorenthält und sich zur Verschleierung der tatsächlichen Beschäftigungsverhältnisse unrichtige, nachgemachte oder verfälschte Belege von einem Dritten verschafft, der diese gewerbsmäßig anbietet,
+
+4.  
+als Mitglied einer Bande handelt, die sich zum fortgesetzten Vorenthalten von Beiträgen zusammengeschlossen hat und die zur Verschleierung der tatsächlichen Beschäftigungsverhältnisse unrichtige, nachgemachte oder verfälschte Belege vorhält, oder
+
+5.  
 die Mithilfe eines Amtsträgers ausnutzt, der seine Befugnisse oder seine Stellung missbraucht.
 
 (5) Dem Arbeitgeber stehen der Auftraggeber eines Heimarbeiters, Hausgewerbetreibenden oder einer Person, die im Sinne des Heimarbeitsgesetzes diesen gleichgestellt ist, sowie der Zwischenmeister gleich.
