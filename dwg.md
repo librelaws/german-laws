@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 11.1.2005 I 90
 
 Stand  
-Zuletzt geändert durch Art. 5 G v. 4.4.2016 I 569
+Zuletzt geändert durch Art. 80 G v. 29.3.2017 I 626
 
 ### 
 
@@ -363,7 +363,7 @@ die Gegendarstellung ihrem Umfang nach nicht angemessen ist, insbesondere den Um
 
 (2) Die Aufbewahrungsfrist beträgt drei Monate ab dem Tag der Ausstrahlung der Sendung. Wird innerhalb dieser Frist eine Sendung beanstandet, so ist die Aufzeichnung aufzubewahren, bis die Beanstandung durch rechtskräftige gerichtliche Entscheidung, durch gerichtlichen Vergleich oder auf andere Weise erledigt ist.
 
-(3) Wer schriftlich glaubhaft macht, durch eine Sendung der Deutschen Welle in seinen Rechten betroffen zu sein, kann von der Deutschen Welle Einsicht in die Aufzeichnung dieser Sendung verlangen und auf eigene Kosten durch die Deutsche Welle Mehrausfertigungen herstellen lassen.
+(3) Wer schriftlich oder elektronisch glaubhaft macht, durch eine Sendung der Deutschen Welle in seinen Rechten betroffen zu sein, kann von der Deutschen Welle Einsicht in die Aufzeichnung dieser Sendung verlangen und auf eigene Kosten durch die Deutsche Welle Mehrausfertigungen herstellen lassen.
 
 Unterabschnitt 5 Verantwortung für Sendungen
 --------------------------------------------
@@ -598,7 +598,7 @@ die Abberufung eines Mitglieds eines Ausschusses des Rundfunkrates.
 
 (1) Der Rundfunkrat bildet aus der Mitte seiner Mitglieder je einen Programmausschuss für Hörfunk und Fernsehen; daneben kann er weitere Ausschüsse einrichten.
 
-(2) Die Ausschüsse bereiten die Beschlüsse des Rundfunkrates im jeweiligen Aufgabenbereich vor. Sie erstatten dem Rundfunkrat jährlich einen schriftlichen Bericht über ihre Tätigkeit.
+(2) Die Ausschüsse bereiten die Beschlüsse des Rundfunkrates im jeweiligen Aufgabenbereich vor. Sie erstatten dem Rundfunkrat jährlich einen Bericht über ihre Tätigkeit.
 
 (3) Näheres regelt die Geschäftsordnung.
 
