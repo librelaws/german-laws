@@ -7,6 +7,21 @@ Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 Stand  
 zuletzt geändert durch Art. 7 G v. 7.5.2013 I 1122
 
+Hinweis  
+Änderung durch Art. 10 u. Art 12 Abs. 3 G v. 26.6.2013 I 1800 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 4 G v. 26.6.2013 I 1805 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 4 G v. 4.7.2013 I 1981 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 1 G v. 4.7.2013 I 2176 (Nr. 36) ist berücksichtigt
+
+Hinweis  
+Mittelbare Änderung durch Art. 44 Nr. 3 Buchst. c G v. 23.7.2013 I 2586 (Nr. 42) noch nicht berücksichtigt
+
 ### 
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
@@ -2227,10 +2242,10 @@ Ansprüche auf Übertragung des Eigentums an einem Grundstück sowie auf Begrün
 (1) In 30 Jahren verjähren, soweit nicht ein anderes bestimmt ist,
 
 1.  
-Herausgabeansprüche aus Eigentum, anderen dinglichen Rechten, den §§ 2018, 2130 und 2362 sowie die Ansprüche, die der Geltendmachung der Herausgabeansprüche dienen,
+Schadensersatzansprüche, die auf der vorsätzlichen Verletzung des Lebens, des Körpers, der Gesundheit, der Freiheit oder der sexuellen Selbstbestimmung beruhen,
 
 2.  
-(weggefallen)
+Herausgabeansprüche aus Eigentum, anderen dinglichen Rechten, den §§ 2018, 2130 und 2362 sowie die Ansprüche, die der Geltendmachung der Herausgabeansprüche dienen,
 
 3.  
 rechtskräftig festgestellte Ansprüche,
@@ -3327,7 +3342,7 @@ die Willenserklärung des Verbrauchers von einem Notar beurkundet worden ist.
 
 ### § 312a Verhältnis zu anderen Vorschriften
 
-Steht dem Verbraucher zugleich nach Maßgabe anderer Vorschriften ein Widerrufs- oder Rückgaberecht nach § 355 oder § 356 dieses Gesetzes, nach § 126 des Investmentgesetzes zu, ist das Widerrufs- oder Rückgaberecht nach § 312 ausgeschlossen.
+Steht dem Verbraucher zugleich nach Maßgabe anderer Vorschriften ein Widerrufs- oder Rückgaberecht nach § 355 oder § 356 dieses Gesetzes, nach § 126 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung oder § 305 Absatz 1 bis 6 des Kapitalanlagegesetzbuchs zu, ist das Widerrufs- oder Rückgaberecht nach § 312 ausgeschlossen.
 
 ### § 312b Fernabsatzverträge
 
@@ -3404,7 +3419,7 @@ zur Erbringung von Wett- und Lotterie-Dienstleistungen, es sei denn, dass der Ve
 die in der Form von Versteigerungen (§ 156) geschlossen werden,
 
 6.  
-die die Lieferung von Waren oder die Erbringung von Finanzdienstleistungen zum Gegenstand haben, deren Preis auf dem Finanzmarkt Schwankungen unterliegt, auf die der Unternehmer keinen Einfluss hat und die innerhalb der Widerrufsfrist auftreten können, insbesondere Dienstleistungen im Zusammenhang mit Aktien, Anteilsscheinen, die von einer Kapitalanlagegesellschaft oder einer ausländischen Investmentgesellschaft ausgegeben werden, und anderen handelbaren Wertpapieren, Devisen, Derivaten oder Geldmarktinstrumenten, oder
+die die Lieferung von Waren oder die Erbringung von Finanzdienstleistungen zum Gegenstand haben, deren Preis auf dem Finanzmarkt Schwankungen unterliegt, auf die der Unternehmer keinen Einfluss hat und die innerhalb der Widerrufsfrist auftreten können, insbesondere Dienstleistungen im Zusammenhang mit Aktien, Anteilen an offenen Investmentvermögen im Sinne von § 1 Absatz 4 des Kapitalanlagegesetzbuchs und anderen handelbaren Wertpapieren, Devisen, Derivaten oder Geldmarktinstrumenten, oder
 
 7.  
 zur Erbringung telekommunikationsgestützter Dienste, die auf Veranlassung des Verbrauchers unmittelbar per Telefon oder Telefax in einem Mal erbracht werden, sofern es sich nicht um Finanzdienstleistungen handelt.
@@ -5597,7 +5612,7 @@ Unterkapitel 1 Vereinbarungen über die Miete
 
 ### § 556c Kosten der Wärmelieferung als Betriebskosten, Verordnungsermächtigung
 
-*(1) Hat der Mieter die Betriebskosten für Wärme oder Warmwasser zu tragen und stellt der Vermieter die Versorgung von der Eigenversorgung auf die eigenständig gewerbliche Lieferung durch einen Wärmelieferanten (Wärmelieferung) um, so hat der Mieter die Kosten der Wärmelieferung als Betriebskosten zu tragen, wenn*
+(1) Hat der Mieter die Betriebskosten für Wärme oder Warmwasser zu tragen und stellt der Vermieter die Versorgung von der Eigenversorgung auf die eigenständig gewerbliche Lieferung durch einen Wärmelieferanten (Wärmelieferung) um, so hat der Mieter die Kosten der Wärmelieferung als Betriebskosten zu tragen, wenn
 
 1.  
 die Wärme mit verbesserter Effizienz entweder aus einer vom Wärmelieferanten errichteten neuen Anlage oder aus einem Wärmenetz geliefert wird und
@@ -5607,11 +5622,11 @@ die Kosten der Wärmelieferung die Betriebskosten für die bisherige Eigenversor
 
 Beträgt der Jahresnutzungsgrad der bestehenden Anlage vor der Umstellung mindestens 80 Prozent, kann sich der Wärmelieferant anstelle der Maßnahmen nach Nummer 1 auf die Verbesserung der Betriebsführung der Anlage beschränken.
 
-*(2) Der Vermieter hat die Umstellung spätestens drei Monate zuvor in Textform anzukündigen (Umstellungsankündigung).*
+(2) Der Vermieter hat die Umstellung spätestens drei Monate zuvor in Textform anzukündigen (Umstellungsankündigung).
 
 (3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften für Wärmelieferverträge, die bei einer Umstellung nach Absatz 1 geschlossen werden, sowie für die Anforderungen nach den Absätzen 1 und 2 zu erlassen. Hierbei sind die Belange von Vermietern, Mietern und Wärmelieferanten angemessen zu berücksichtigen.
 
-*(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.*
+(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
 
 Unterkapitel 2 Regelungen über die Miethöhe
 -------------------------------------------
@@ -13867,7 +13882,19 @@ Hat das Kind seit längerer Zeit in einem Haushalt mit einem Elternteil und dess
 
 ### § 1686 Auskunft über die persönlichen Verhältnisse des Kindes
 
-Jeder Elternteil kann vom anderen Elternteil bei berechtigtem Interesse Auskunft über die persönlichen Verhältnisse des Kindes verlangen, soweit dies dem Wohl des Kindes nicht widerspricht. Über Streitigkeiten entscheidet das Familiengericht.
+Jeder Elternteil kann vom anderen Elternteil bei berechtigtem Interesse Auskunft über die persönlichen Verhältnisse des Kindes verlangen, soweit dies dem Wohl des Kindes nicht widerspricht.
+
+### § 1686a Rechte des leiblichen, nicht rechtlichen Vaters
+
+(1) Solange die Vaterschaft eines anderen Mannes besteht, hat der leibliche Vater, der ernsthaftes Interesse an dem Kind gezeigt hat,
+
+1.  
+ein Recht auf Umgang mit dem Kind, wenn der Umgang dem Kindeswohl dient, und
+
+2.  
+ein Recht auf Auskunft von jedem Elternteil über die persönlichen Verhältnisse des Kindes, soweit er ein berechtigtes Interesse hat und dies dem Wohl des Kindes nicht widerspricht.
+
+(2) Hinsichtlich des Rechts auf Umgang mit dem Kind nach Absatz 1 Nummer 1 gilt § 1684 Absatz 2 bis 4 entsprechend. Eine Umgangspflegschaft nach § 1684 Absatz 3 Satz 3 bis 5 kann das Familiengericht nur anordnen, wenn die Voraussetzungen des § 1666 Absatz 1 erfüllt sind.
 
 ### § 1687 Ausübung der gemeinsamen Sorge bei Getrenntleben
 
