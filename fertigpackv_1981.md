@@ -5,7 +5,10 @@ Neuf
 Neugefasst durch Bek. v. 8.3.1994 I 451, 1307;
 
 Stand  
-zuletzt geändert durch Art. 1 V v. 11.6.2008 I 1079
+zuletzt geändert durch Art. 4 V v. 11.12.2014 I 2010
+
+Hinweis  
+Änderung durch Art. 2 Abs. 2 G v. 15.2.2016 I 198 (Nr. 8) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -744,111 +747,7 @@ geeichte formbeständige Behältnisse.
 
 (2) Die Einhaltung der Vorschriften des § 3 ist von der zuständigen Behörde durch Stichproben in den Betrieben zu prüfen, die Maßbehältnisse herstellen oder in den Geltungsbereich dieser Verordnung verbringen. Für die Prüfung ist das Verfahren zur Prüfung von Maßbehältnissen der Anlage 5 anzuwenden.
 
-### § 35 Ordnungswidrigkeiten
-
-(1) Ordnungswidrig im Sinne des § 19 Abs. 1 Nr. 4 des Eichgesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  
-entgegen § 1 Abs. 1, § 6 Abs. 1 oder § 31 Abs. 2 Nr. 3 Satz 3, dieser in Verbindung mit Satz 2, oder Satz 4 Halbsatz 1, jeweils auch in Verbindung mit § 31a Satz 1, Fertigpackungen gewerbsmäßig in den Verkehr bringt,
-
-2.  
-Maßbehältnisse, die den Anforderungen des § 2 Abs. 3 oder 4 oder des § 3 Abs. 2 oder 3 nicht entsprechen, gewerbsmäßig herstellt oder in den Geltungsbereich dieser Verordnung verbringt,
-
-2a.  
-entgegen § 2 Abs. 5 eine dort genannte Bezeichnung aufbringt oder aufbringen lässt,
-
-3.  
-einer Vorschrift des
-
-a)  
-§ 6 Abs. 2, auch in Verbindung mit § 31a Satz 1, § 32 Abs. 6 Satz 2 oder § 33 Abs. 6, Satz 1,
-
-b)  
-§ 6 Abs. 3 Satz 1 oder Abs. 4,
-
-c)  
-§ 6 Abs. 5 Satz 1, auch in Verbindung mit § 33 Abs. 6 Satz 1, oder
-
-d)  
-§ 7 Abs. 1, 2 Satz 1 oder 2, Abs. 3, 4, 5 oder 6, § 8 Abs. 3, § 10 Abs. 2 Satz 2 oder § 11
-
-über die Kennzeichnung von Fertigpackungen zuwiderhandelt,
-
-4.  
-(weggefallen)
-
-5.  
-(weggefallen)
-
-6.  
-einer Vorschrift des
-
-a)  
-§ 18 Abs. 1, auch in Verbindung mit § 31a Satz 1,
-
-b)  
-§ 18 Abs. 4, auch in Verbindung mit § 31a Satz 1, § 32 Abs. 6 Satz 2 oder § 33 Abs. 6 Satz 1,
-
-c)  
-§ 20 Abs. 1, auch in Verbindung mit § 31a Satz 1 oder § 32 Abs. 6 Satz 2, oder
-
-d)  
-§ 20 Abs. 2 oder § 21 Abs. 2
-
-über die Kennzeichnung von Fertigpackungen zuwiderhandelt,
-
-7.  
-Fertigpackungen mit dem Zeichen der Anlage 9 herstellt, aus Staaten außerhalb der Europäischen Gemeinschaften sowie der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum einführt oder sonst in den Geltungsbereich dieser Verordnung verbringt, ohne daß die Anforderungen des § 21 Abs. 1 erfüllt sind,
-
-8.  
-Fertigpackungen entgegen § 22 Abs. 1 oder § 23 Abs. 1, jeweils auch in Verbindung mit § 31a Satz 1, oder § 22a Abs. 1 gewerbsmäßig herstellt oder entgegen § 22 Abs. 2 oder § 23 Abs. 2, jeweils auch in Verbindung mit § 31a Satz 1, oder § 22a Abs. 2 gewerbsmäßig in den Geltungsbereich dieser Verordnung verbringt,
-
-9.  
-entgegen § 22 Abs. 4, § 23 Abs. 3 Satz 1, § 24 Abs. 1 oder 2, § 25, § 31 Abs. 2 Nr. 2 Satz 2, Nr. 3 Satz 2 oder Nr. 4 Satz 3, jeweils auch in Verbindung mit § 31a Satz 1, oder § 22a Abs. 3 Fertigpackungen erstmals gewerbsmäßig in den Verkehr bringt,
-
-10.  
-entgegen § 27 Abs. 1 Satz 2, auch in Verbindung mit § 31a Satz 1, § 32 Abs. 5 Satz 2 oder § 33 Abs. 6 Satz 2, als Hersteller Fertigpackungen nicht mit einem geeigneten Kontrollmeßgerät oder einem allgemein anerkannten Meßverfahren überprüft,
-
-11.  
-entgegen § 27 Abs. 2, auch in Verbindung mit § 31a Satz 1, als Hersteller eine nicht, nicht richtig oder nicht in der vorgeschriebenen Form gekennzeichnete Kontrollwaage verwendet,
-
-12.  
-als Hersteller entgegen § 27 Abs. 4 Satz 1, auch in Verbindung mit § 31a Satz 1, ein Ergebnis einer Überprüfung nicht, nicht richtig oder nicht in der vorgeschriebenen Form aufzeichnet oder entgegen § 27 Abs. 4 Satz 2, auch in Verbindung mit § 31a Satz 1, eine Aufzeichnung nicht aufbewahrt oder nicht vorlegt,
-
-13.  
-Fertigpackungen, offene Packungen (§ 31a Satz 1) oder Verkaufseinheiten (§ 33 Abs. 6 Satz 1) gewerbsmäßig ohne eine nach § 29 Abs. 1 Satz 1 oder 2 vorgeschriebene Angabe herstellt oder in den Geltungsbereich dieser Verordnung verbringt,
-
-13a.  
-entgegen § 31a Satz 2 nachfüllbare offene Packungen gewerbsmäßig in den Verkehr bringt,
-
-14.  
-entgegen § 32 Abs. 1, 2 oder 3 Backwaren gewerbsmäßig herstellt, gewerbsmäßig in den Geltungsbereich dieser Verordnung verbringt oder erstmals gewerbsmäßig in den Verkehr bringt,
-
-15.  
-entgegen § 32 Abs. 6 Satz 1 unverpacktes Brot gewerbsmäßig in den Verkehr bringt,
-
-16.  
-Verkaufseinheiten entgegen § 33 Abs. 1 gewerbsmäßig herstellt oder entgegen § 33 Abs. 2 gewerbsmäßig in den Geltungsbereich dieser Verordnung verbringt,
-
-17.  
-entgegen § 33 Abs. 3 Verkaufseinheiten erstmals gewerbsmäßig in den Verkehr bringt oder
-
-18.  
-entgegen § 33 Abs. 5 Verkaufseinheiten gewerbsmäßig in den Verkehr bringt.
-
-(2) Ordnungswidrig im Sinne des § 19 Abs. 1 Nr. 5 des Eichgesetzes handelt, wer gegen die Verordnung (EWG) Nr. 1538/91 der Kommission vom 5. Juni 1991 mit ausführlichen Durchführungsvorschriften zur Verordnung (EWG) Nr. 1906/90 des Rates über bestimmte Vermarktungsnormen für Geflügelfleisch (ABl. EG Nr. L 143 S. 11), zuletzt geändert durch die Verordnung (EG) Nr. 1474/2007 der Kommission vom 13. Dezember 2007 (ABl. EU Nr. L 329 S. 14), verstößt, indem er vorsätzlich oder fahrlässig
-
-1.  
-entgegen Artikel 8 Abs. 2 auf Fertigpackungen vor dem Inverkehrbringen das Nenngewicht nicht angibt,
-
-2.  
-Fertigpackungen erstmals in den Verkehr bringt, deren tatsächliche Füllmenge nach der Herstellung entgegen Artikel 8 Abs. 4 erster Anstrich im Mittel niedriger als das Nenngewicht ist,
-
-3.  
-Fertigpackungen erstmals in den Verkehr bringt, bei denen entgegen Artikel 8 Abs. 4 zweiter Anstrich der Anteil der Fertigpackungen, deren Minusabweichung die vorgeschriebenen Fehlergrenzen überschreitet, nicht den für das Los von Fertigpackungen festgelegten Prüfungsvorschriften entspricht oder
-
-4.  
-Fertigpackungen erstmals in den Verkehr bringt, deren Minusabweichung entgegen Artikel 8 Abs. 4 dritter Anstrich die vorgeschriebenen Fehlergrenzen um mehr als das Doppelte überschreitet.
+### § 35 (weggefallen)
 
 ### § 36 (weggefallen)
 
@@ -955,7 +854,7 @@ e)
 der Feststellung der Einhaltung der zulässigen Minusabweichungen nach § 22 Abs. 3 und 4.
 
 3.  
-Feststellung der LosgrößeDie Losgröße entspricht der Gesamtmenge der Fertigpackungen gleicher Nennfüllmenge, gleicher Aufmachung und gleicher Herstellung, die am selben Ort abgefüllt sind. Die Losgröße wird bei der Prüfung im Abfüllbetrieb begrenzt durch die in einer Stunde hergestellten Fertigpackungen.Die Losgröße wird bei der Prüfung in einem Lager durch die Zugehörigkeit zu einer Lieferung oder Charge begrenzt; falls die Zugehörigkeit zu einer Lieferung oder Charge nicht festgestellt werden kann, wird die Losgröße durch die Anzahl der gleichbeschaffenen Fertigpackungen des Lagerbestandes begrenzt.In jedem Falle ist die Losgröße aus 10.000 Fertigpackungen begrenzt.
+Feststellung der LosgrößeDie Losgröße entspricht der Gesamtmenge der Fertigpackungen gleicher Nennfüllmenge, gleicher Aufmachung und gleicher Herstellung, die am selben Ort abgefüllt sind. Die Losgröße wird bei der Prüfung im Abfüllbetrieb begrenzt durch die in einer Stunde hergestellten Fertigpackungen.Die Losgröße wird bei der Prüfung in einem Lager durch die Zugehörigkeit zu einer Lieferung oder Charge begrenzt; falls die Zugehörigkeit zu einer Lieferung oder Charge nicht festgestellt werden kann, wird die Losgröße durch die Anzahl der gleichbeschaffenen Fertigpackungen des Lagerbestandes begrenzt.In jedem Falle ist die Losgröße aus 10 000 Fertigpackungen begrenzt.
 
 4.  
 Umfang der StichprobenBei der stichprobenweisen Prüfung der Fertigpackungen muß es sich um eine Zufallsstichprobe handeln. Für den Umfang der Stichproben gelten nachstehende Tabellen. Der Stichprobenumfang bemißt sich nach Tabelle d oder e, wenn alle Fertigpackungen der Stichprobe zerstört werden müssen.Der Umfang sonstiger Prüfungen richtet sich nach Nummer 6.
@@ -1003,7 +902,7 @@ k
 
 0,344
 
-501 bis 3.200
+501 bis 3 200
 
 1.
 
@@ -1029,7 +928,7 @@ k
 
 0,262
 
-3.201 und mehr
+3 201 und mehr
 
 1.
 
@@ -1062,8 +961,8 @@ Nicht-zerstörende PrüfungNormale Einfach-Stichprobenprüfung
 |----------------|-----|-----|-----|-------|
 | N              | n   | c   | d   | k     |
 | 100 bis 500    | 50  | 3   | 4   | 0,379 |
-| 501 bis 3.200  | 80  | 5   | 6   | 0,295 |
-| 3.201 und mehr | 125 | 7   | 8   | 0,234 |
+| 501 bis 3 200  | 80  | 5   | 6   | 0,295 |
+| 3 201 und mehr | 125 | 7   | 8   | 0,234 |
 
 c)  
 Nicht-zerstörende PrüfungVollprüfung
@@ -1082,8 +981,8 @@ Zerstörende PrüfungEinfach-Stichprobenprüfung mit vermindertem Stichprobenumf
 |----------------|-----|-----|-----|-------|
 | N              | n   | c   | d   | k     |
 | 100 bis 500    | 8   | 0   | 1   | 1,237 |
-| 501 bis 3.200  | 13  | 1   | 2   | 0,847 |
-| 3.201 und mehr | 20  | 1   | 2   | 0,640 |
+| 501 bis 3 200  | 13  | 1   | 2   | 0,847 |
+| 3 201 und mehr | 20  | 1   | 2   | 0,640 |
 
 e)  
 Zerstörende PrüfungEinfach-Stichprobenprüfung mit vermindertem Stichprobenumfang für Fertigpackungen, die mit dem Zeichen "e" der Anlage 9 gekennzeichnet sind
@@ -1143,7 +1042,7 @@ a)
 Gewichte durch Wägung,
 
 b)  
-Gewichte von Textilerzeugnissen im Sinne von § 2 des Textilkennzeichnungsgesetzes nach den allgemein anerkannten Regeln der Technik; als Gewicht gilt das Trockengewicht ohne Umhüllung, Einlage und dergleichen und ohne Beschwerung, wenn die Beschwerung nicht durch die Art des Erzeugnisses und die Herstellung bedingt ist, zuzüglich eines Feuchtigkeitszuschlages für die in Anlage 2 des Textilkennzeichnungsgesetzes aufgeführten Fasern,
+Gewichte von Textilerzeugnissen im Sinne von Artikel 19 Absatz 3 der Verordnung (EU) Nr. 1007/2011 des Europäischen Parlaments und des Rates vom 27. September 2011 über die Bezeichnung von Textilfasern und die damit zusammenhängende Etikettierung und Kennzeichnung der Faserzusammensetzung von Textilerzeugnissen und zur Aufhebung der Richtlinie 73/44/EWG des Rates und der Richtlinien 96/73/EG und 2008/121/EG des Europäischen Parlaments und des Rates (ABl. L 272 vom 18.10.2011, S. 1) nach den allgemein anerkannten Regeln der Technik; als Gewicht gilt das Trockengewicht ohne Umhüllung, Einlage und dergleichen und ohne Beschwerung, wenn die Beschwerung nicht durch die Art des Erzeugnisses und die Herstellung bedingt ist, zuzüglich eines Feuchtigkeitszuschlages für die in Anhang IX der Verordnung (EU) Nr. 1007/2011 aufgeführten Fasern,
 
 c)  
 Volumen durch Wägung in Verbindung mit einer Bestimmung der mittleren Dichte,
@@ -1191,7 +1090,7 @@ größer oder gleich der Nennfüllmenge ist.Der k-Wert ergibt sich aus den Tabel
 <!-- -->
 
 7.2  
-Fertigpackungen mit nach Gewicht gekennzeichneten TextilerzeugnissenVon dem festgestellten Mittelwert -x der Stichprobe und den festgestellten Einzelgewichten xi der Stichprobe wird der mittlere Trocknungsverlust abgezogen; der aus Anlage 2 des Textilkennzeichnungsgesetzes berechnete Feuchtigkeitszuschlag wird hinzugerechnet. Im übrigen gilt Nummer 7.1.
+Fertigpackungen mit nach Gewicht gekennzeichneten TextilerzeugnissenVon dem festgestellten Mittelwert -x der Stichprobe und den festgestellten Einzelgewichten xi der Stichprobe wird der mittlere Trocknungsverlust abgezogen; der aus Anhang IX der Verordnung (EU) Nr. 1007/2011 berechnete Feuchtigkeitszuschlag wird hinzugerechnet. Im übrigen gilt Nummer 7.1.
 
 8.  
 Feststellung der Einhaltung der zulässigen Minusabweichungen
@@ -1412,13 +1311,13 @@ Die Nachschau der Herstellung und Einfuhr von Maßbehältnissen (§ 16 des Eichg
 
 ### Anlage 7 Geeignete Kontrollmeßgeräte im Sinne des § 27 und geeignete Waagen im Sinne des § 31 Fertigpackungsverordnung
 
-(Fundstelle: BGBl. I 1994, 491)
+(Fundstelle: BGBl. I 1994, 491; bzgl. einzelner Änderungen vgl. Fußnote)
 
 1.  
 Zu § 27
 
 1.1  
-Soweit nachstehend nichts anderes festgelegt ist, sind Kontrollmeßgeräte im Sinne des § 27 Abs. 1 geeignet, wenn sie geeicht sind und die Verkehrsfehlergrenze nicht größer ist als das 0,2fache der zulässigen Minusabweichung der zu prüfenden Fertigpackung. Die zuständige Behörde kann in besonderen Fällen für die Kontrolle von Fertigpackungen mit bestimmten Erzeugnissen die Verwendung nicht eichfähiger Kontrollmeßgeräte zulassen, wenn die Geräte eine ausreichende Meßgenauigkeit erwarten lassen.
+Soweit nachstehend nichts anderes festgelegt ist, sind Kontrollmeßgeräte im Sinne des § 27 Abs. 1 geeignet, wenn sie geeicht sind und die Verkehrsfehlergrenze nicht größer ist als das 0,2fache der zulässigen Minusabweichung der zu prüfenden Fertigpackung. Die zuständige Behörde kann in besonderen Fällen für die Kontrolle von Fertigpackungen mit bestimmten Erzeugnissen die Verwendung nicht dem Mess- und Eichgesetz entsprechender Kontrollmeßgeräte zulassen, wenn die Geräte eine ausreichende Meßgenauigkeit erwarten lassen.
 
 1.1.1  
 Werden nichtselbsttätige Waagen als Kontrollwaagen verwendet, darf der Eichwert nicht größer sein als
@@ -1445,11 +1344,11 @@ von 150 bis weniger als 500
 
 1,0
 
-von 500 bis weniger als 2.500
+von 500 bis weniger als 2 500
 
 2,0
 
-von 2.500 und mehr
+von 2 500 und mehr
 
 5,0
 
