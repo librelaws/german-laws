@@ -5,12 +5,16 @@ Neuf
 Neugefasst durch Bek. v. 21.9.1994 I 2494; 1997, 1061;
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 23.1.2013 I 101
+zuletzt geändert durch Art. 2 G v. 17.2.2016 I 233
+
+Hinweis  
+Änderung durch Art. 2 G v. 11.3.2016 I 396 (Nr. 12) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 1.1.1980 +++)
+(+++ Zur Anwendung d. Art. 1 u. 2 vgl. § 132 GNotKG +++)
 ```
 
 Erster Teil Allgemeine Vorschriften
@@ -60,16 +64,19 @@ Soweit nicht
 unmittelbar anwendbare Regelungen der Europäischen Union in ihrer jeweils geltenden Fassung, insbesondere
 
 a)  
-die Verordnung (EG) Nr. 864/2007 des Europäischen Parlaments und des Rates vom 11. Juli 2007 über das auf außervertragliche Schuldverhältnisse anzuwendende Recht (Rom II) (ABl. L 199 vom 31.7.2007, S. 40),
+die Verordnung (EG) Nr. 864/2007 des Europäischen Parlaments und des Rates vom 11. Juli 2007 über das auf außervertragliche Schuldverhältnisse anzuwendende Recht (Rom II),
 
 b)  
-die Verordnung (EG) Nr. 593/2008 des Europäischen Parlaments und des Rates vom 17. Juni 2008 über das auf vertragliche Schuldverhältnisse anzuwendende Recht (Rom I) (ABl. L 177 vom 4.7.2008, S. 6),
+die Verordnung (EG) Nr. 593/2008 des Europäischen Parlaments und des Rates vom 17. Juni 2008 über das auf vertragliche Schuldverhältnisse anzuwendende Recht (Rom I),
 
 c)  
-der Beschluss des Rates vom 30. November 2009 über den Abschluss des Haager Protokolls vom 23. November 2007 über das auf Unterhaltspflichten anzuwendende Recht durch die Europäische Gemeinschaft (ABl. L 331 vom 16.12.2009, S. 17) sowie
+Artikel 15 der Verordnung (EG) Nr. 4/2009 des Rates vom 18. Dezember 2008 über die Zuständigkeit, das anwendbare Recht, die Anerkennung und Vollstreckung von Entscheidungen und die Zusammenarbeit in Unterhaltssachen in Verbindung mit dem Haager Protokoll vom 23. November 2007 über das auf Unterhaltspflichten anzuwendende Recht,
 
 d)  
-die Verordnung (EU) Nr. 1259/2010 des Rates vom 20. Dezember 2010 zur Durchführung einer Verstärkten Zusammenarbeit im Bereich des auf die Ehescheidung und Trennung ohne Auflösung des Ehebandes anzuwendenden Rechts (ABl. L 343 vom 29.12.2010, S. 10) oder
+die Verordnung (EU) Nr. 1259/2010 des Rates vom 20. Dezember 2010 zur Durchführung einer Verstärkten Zusammenarbeit im Bereich des auf die Ehescheidung und Trennung ohne Auflösung des Ehebandes anzuwendenden Rechts sowie
+
+e)  
+die Verordnung (EU) Nr. 650/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über die Zuständigkeit, das anzuwendende Recht, die Anerkennung und Vollstreckung von Entscheidungen und die Annahme und Vollstreckung öffentlicher Urkunden in Erbsachen sowie zur Einführung eines Europäischen Nachlasszeugnisses oder
 
 2.  
 Regelungen in völkerrechtlichen Vereinbarungen, soweit sie unmittelbar anwendbares innerstaatliches Recht geworden sind,
@@ -83,7 +90,7 @@ Art 3a Sachnormverweisung; Einzelstatut
 
 (1) Verweisungen auf Sachvorschriften beziehen sich auf die Rechtsnormen der maßgebenden Rechtsordnung unter Ausschluss derjenigen des Internationalen Privatrechts.
 
-(2) Soweit Verweisungen im Dritten und Vierten Abschnitt das Vermögen einer Person dem Recht eines Staates unterstellen, beziehen sie sich nicht auf Gegenstände, die sich nicht in diesem Staat befinden und nach dem Recht des Staates, in dem sie sich befinden, besonderen Vorschriften unterliegen.
+(2) Soweit Verweisungen im Dritten Abschnitt das Vermögen einer Person dem Recht eines Staates unterstellen, beziehen sie sich nicht auf Gegenstände, die sich nicht in diesem Staat befinden und nach dem Recht des Staates, in dem sie sich befinden, besonderen Vorschriften unterliegen.
 
 Art 4 Rück- und Weiterverweisung; Rechtsspaltung
 ------------------------------------------------
@@ -303,9 +310,9 @@ Art 17b Eingetragene Lebenspartnerschaft
 
 ### 
 
-(1) Die Begründung, die allgemeinen und die güterrechtlichen Wirkungen sowie die Auflösung einer eingetragenen Lebenspartnerschaft unterliegen den Sachvorschriften des Register führenden Staates. Auf die erbrechtlichen Folgen der Lebenspartnerschaft ist das nach den allgemeinen Vorschriften maßgebende Recht anzuwenden; begründet die Lebenspartnerschaft danach kein gesetzliches Erbrecht, so findet insoweit Satz 1 entsprechende Anwendung. Der Versorgungsausgleich unterliegt dem nach Satz 1 anzuwendenden Recht; er ist nur durchzuführen, wenn danach deutsches Recht anzuwenden ist und das Recht eines der Staaten, denen die Lebenspartner im Zeitpunkt der Rechtshängigkeit des Antrags auf Aufhebung der Lebenspartnerschaft angehören, einen Versorgungsausgleich zwischen Lebenspartnern kennt. Im Übrigen ist der Versorgungsausgleich auf Antrag eines Lebenspartners nach deutschem Recht durchzuführen, wenn einer der Lebenspartner während der Zeit der Lebenspartnerschaft ein Anrecht bei einem inländischen Versorgungsträger erworben hat, soweit die Durchführung des Versorgungsausgleichs insbesondere im Hinblick auf die beiderseitigen wirtschaftlichen Verhältnisse während der gesamten Zeit der Lebenspartnerschaft der Billigkeit nicht widerspricht.
+(1) Die Begründung, die allgemeinen und die güterrechtlichen Wirkungen sowie die Auflösung einer eingetragenen Lebenspartnerschaft unterliegen den Sachvorschriften des Register führenden Staates. Der Versorgungsausgleich unterliegt dem nach Satz 1 anzuwendenden Recht; er ist nur durchzuführen, wenn danach deutsches Recht anzuwenden ist und das Recht eines der Staaten, denen die Lebenspartner im Zeitpunkt der Rechtshängigkeit des Antrags auf Aufhebung der Lebenspartnerschaft angehören, einen Versorgungsausgleich zwischen Lebenspartnern kennt. Im Übrigen ist der Versorgungsausgleich auf Antrag eines Lebenspartners nach deutschem Recht durchzuführen, wenn einer der Lebenspartner während der Zeit der Lebenspartnerschaft ein Anrecht bei einem inländischen Versorgungsträger erworben hat, soweit die Durchführung des Versorgungsausgleichs insbesondere im Hinblick auf die beiderseitigen wirtschaftlichen Verhältnisse während der gesamten Zeit der Lebenspartnerschaft der Billigkeit nicht widerspricht.
 
-(2) Artikel 10 Abs. 2 und Artikel 17a gelten entsprechend. Unterliegen die allgemeinen Wirkungen der Lebenspartnerschaft dem Recht eines anderen Staates, so ist auf im Inland befindliche bewegliche Sachen § 8 Abs. 1 des Lebenspartnerschaftsgesetzes und auf im Inland vorgenommene Rechtsgeschäfte § 8 Abs. 2 des Lebenspartnerschaftsgesetzes in Verbindung mit § 1357 des Bürgerlichen Gesetzbuchs anzuwenden, soweit diese Vorschriften für gutgläubige Dritte günstiger sind als das fremde Recht.
+(2) Artikel 10 Abs. 2 und Artikel 17a gelten entsprechend. Unterliegen die allgemeinen Wirkungen der Lebenspartnerschaft dem Recht eines anderen Staates, so ist auf im Inland befindliche bewegliche Sachen § 8 Abs. 1 des Lebenspartnerschaftsgesetzes und auf im Inland vorgenommene Rechtsgeschäfte § 8 Abs. 2 des Lebenspartnerschaftsgesetzes in Verbindung mit § 1357 des Bürgerlichen Gesetzbuchs anzuwenden, soweit diese Vorschriften für gutgläubige Dritte günstiger sind als das fremde Recht. Unterliegen die güterrechtlichen Wirkungen einer eingetragenen Lebenspartnerschaft dem Recht eines anderen Staates und hat einer der Lebenspartner seinen gewöhnlichen Aufenthalt im Inland oder betreibt er hier ein Gewerbe, so ist § 7 Satz 2 des Lebenspartnerschaftsgesetzes in Verbindung mit § 1412 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden; der fremde Güterstand steht einem vertragsmäßigen gleich.
 
 (3) Bestehen zwischen denselben Personen eingetragene Lebenspartnerschaften in verschiedenen Staaten, so ist die zuletzt begründete Lebenspartnerschaft vom Zeitpunkt ihrer Begründung an für die in Absatz 1 umschriebenen Wirkungen und Folgen maßgebend.
 
@@ -344,11 +351,11 @@ Art 22 Annahme als Kind
 
 ### 
 
-(1) Die Annahme als Kind unterliegt dem Recht des Staates, dem der Annehmende bei der Annahme angehört. Die Annahme durch einen oder beide Ehegatten unterliegt dem Recht, das nach Artikel 14 Abs. 1 für die allgemeinen Wirkungen der Ehe maßgebend ist.
+(1) Die Annahme als Kind unterliegt dem Recht des Staates, dem der Annehmende bei der Annahme angehört. Die Annahme durch einen oder beide Ehegatten unterliegt dem Recht, das nach Artikel 14 Abs. 1 für die allgemeinen Wirkungen der Ehe maßgebend ist. Die Annahme durch einen Lebenspartner unterliegt dem Recht, das nach Artikel 17b Absatz 1 Satz 1 für die allgemeinen Wirkungen der Lebenspartnerschaft maßgebend ist.
 
 (2) Die Folgen der Annahme in Bezug auf das Verwandtschaftsverhältnis zwischen dem Kind und dem Annehmenden sowie den Personen, zu denen das Kind in einem familienrechtlichen Verhältnis steht, unterliegen dem nach Absatz 1 anzuwendenden Recht.
 
-(3) In Ansehung der Rechtsnachfolge von Todes wegen nach dem Annehmenden, dessen Ehegatten oder Verwandten steht der Angenommene ungeachtet des nach den Absätzen 1 und 2 anzuwendenden Rechts einem nach den deutschen Sachvorschriften angenommenen Kind gleich, wenn der Erblasser dies in der Form einer Verfügung von Todes wegen angeordnet hat und die Rechtsnachfolge deutschem Recht unterliegt. Satz 1 gilt entsprechend, wenn die Annahme auf einer ausländischen Entscheidung beruht. Die Sätze 1 und 2 finden keine Anwendung, wenn der Angenommene im Zeitpunkt der Annahme das achtzehnte Lebensjahr vollendet hatte.
+(3) In Ansehung der Rechtsnachfolge von Todes wegen nach dem Annehmenden, dessen Ehegatten, Lebenspartner oder Verwandten steht der Angenommene ungeachtet des nach den Absätzen 1 und 2 anzuwendenden Rechts einem nach den deutschen Sachvorschriften angenommenen Kind gleich, wenn der Erblasser dies in der Form einer Verfügung von Todes wegen angeordnet hat und die Rechtsnachfolge deutschem Recht unterliegt. Satz 1 gilt entsprechend, wenn die Annahme auf einer ausländischen Entscheidung beruht. Die Sätze 1 und 2 finden keine Anwendung, wenn der Angenommene im Zeitpunkt der Annahme das achtzehnte Lebensjahr vollendet hatte.
 
 Art 23 Zustimmung
 -----------------
@@ -378,41 +385,16 @@ Art 25 Rechtsnachfolge von Todes wegen
 
 ### 
 
-(1) Die Rechtsnachfolge von Todes wegen unterliegt dem Recht des Staates, dem der Erblasser im Zeitpunkt seines Todes angehörte.
+Soweit die Rechtsnachfolge von Todes wegen nicht in den Anwendungsbereich der Verordnung (EU) Nr. 650/2012 fällt, gelten die Vorschriften des Kapitels III dieser Verordnung entsprechend.
 
-(2) Der Erblasser kann für im Inland belegenes unbewegliches Vermögen in der Form einer Verfügung von Todes wegen deutsches Recht wählen.
-
-Art 26 Verfügungen von Todes wegen
-----------------------------------
+Art 26 Form von Verfügungen von Todes wegen
+-------------------------------------------
 
 ### 
 
-(1) Eine letztwillige Verfügung ist, auch wenn sie von mehreren Personen in derselben Urkunde errichtet wird, hinsichtlich ihrer Form gültig, wenn diese den Formerfordernissen entspricht
+(1) In Ausführung des Artikels 3 des Haager Übereinkommens vom 5. Oktober 1961 über das auf die Form letztwilliger Verfügungen anzuwendende Recht (BGBl. 1965 II S. 1144, 1145) ist eine letztwillige Verfügung, auch wenn sie von mehreren Personen in derselben Urkunde errichtet wird oder durch sie eine frühere letztwillige Verfügung widerrufen wird, hinsichtlich ihrer Form gültig, wenn sie den Formerfordernissen des Rechts entspricht, das auf die Rechtsnachfolge von Todes wegen anzuwenden ist oder im Zeitpunkt der Verfügung anzuwenden wäre. Die weiteren Vorschriften des Haager Übereinkommens bleiben unberührt.
 
-1.  
-des Rechts eines Staates, dem der Erblasser ungeachtet des Artikels 5 Abs. 1 im Zeitpunkt, in dem er letztwillig verfügt hat, oder im Zeitpunkt seines Todes angehörte,
-
-2.  
-des Rechts des Ortes, an dem der Erblasser letztwillig verfügt hat,
-
-3.  
-des Rechts eines Ortes, an dem der Erblasser im Zeitpunkt, in dem er letztwillig verfügt hat, oder im Zeitpunkt seines Todes seinen Wohnsitz oder gewöhnlichen Aufenthalt hatte,
-
-4.  
-des Rechts des Ortes, an dem sich unbewegliches Vermögen befindet, soweit es sich um dieses handelt, oder
-
-5.  
-des Rechts, das auf die Rechtsnachfolge von Todes wegen anzuwenden ist oder im Zeitpunkt der Verfügung anzuwenden wäre.
-
-Ob der Erblasser an einem bestimmten Ort einen Wohnsitz hatte, regelt das an diesem Ort geltende Recht.
-
-(2) Absatz 1 ist auch auf letztwillige Verfügungen anzuwenden, durch die eine frühere letztwillige Verfügung widerrufen wird. Der Widerruf ist hinsichtlich seiner Form auch dann gültig, wenn diese einer der Rechtsordnungen entspricht, nach denen die widerrufene letztwillige Verfügung gemäß Absatz 1 gültig war.
-
-(3) Die Vorschriften, welche die für letztwillige Verfügungen zugelassenen Formen mit Beziehung auf das Alter, die Staatsangehörigkeit oder andere persönliche Eigenschaften des Erblassers beschränken, werden als zur Form gehörend angesehen. Das gleiche gilt für Eigenschaften, welche die für die Gültigkeit einer letztwilligen Verfügung erforderlichen Zeugen besitzen müssen.
-
-(4) Die Absätze 1 bis 3 gelten für andere Verfügungen von Todes wegen entsprechend.
-
-(5) Im übrigen unterliegen die Gültigkeit der Errichtung einer Verfügung von Todes wegen und die Bindung an sie dem Recht, das im Zeitpunkt der Verfügung auf die Rechtsnachfolge von Todes wegen anzuwenden wäre. Die einmal erlangte Testierfähigkeit wird durch Erwerb oder Verlust der Rechtsstellung als Deutscher nicht beeinträchtigt.
+(2) Für die Form anderer Verfügungen von Todes wegen ist Artikel 27 der Verordnung (EU) Nr. 650/2012 maßgeblich.
 
 Fünfter Abschnitt Außervertragliche Schuldverhältnisse
 ------------------------------------------------------
@@ -581,15 +563,12 @@ und der Vertrag in den Bereich dieser Tätigkeit fällt.
 die Richtlinie 93/13/EWG des Rates vom 5. April 1993 über missbräuchliche Klauseln in Verbraucherverträgen (ABl. L 95 vom 21.4.1993, S. 29);
 
 2.  
-die Richtlinie 97/7/EG des Europäischen Parlaments und des Rates vom 20. Mai 1997 über den Verbraucherschutz bei Vertragsabschlüssen im Fernabsatz (ABl. L 144 vom 4.6.1997, S. 19);
-
-3.  
 die Richtlinie 1999/44/EG des Europäischen Parlaments und des Rates vom 25. Mai 1999 zu bestimmten Aspekten des Verbrauchsgüterkaufs und der Garantien für Verbrauchsgüter (ABl. L 171 vom 7.7.1999, S. 12);
 
-4.  
+3.  
 die Richtlinie 2002/65/EG des Europäischen Parlaments und des Rates vom 23. September 2002 über den Fernabsatz von Finanzdienstleistungen an Verbraucher und zur Änderung der Richtlinie 90/619/EWG des Rates und der Richtlinien 97/7/EG und 98/27/EG (ABl. L 271 vom 9.10.2002, S. 16);
 
-5.  
+4.  
 die Richtlinie 2008/48/EG des Europäischen Parlaments und des Rates vom 23. April 2008 über Verbraucherkreditverträge und zur Aufhebung der Richtlinie 87/102/EWG des Rates (ABl. L 133 vom 22.5.2008, S. 66).
 
 (4) Unterliegt ein Teilzeitnutzungsvertrag, ein Vertrag über ein langfristiges Urlaubsprodukt, ein Wiederverkaufsvertrag oder ein Tauschvertrag im Sinne von Artikel 2 Absatz 1 Buchstabe a bis d der Richtlinie 2008/122/EG des Europäischen Parlaments und des Rates vom 14. Januar 2009 über den Schutz der Verbraucher im Hinblick auf bestimmte Aspekte von Teilzeitnutzungsverträgen, Verträgen über langfristige Urlaubsprodukte sowie Wiederverkaufs- und Tauschverträgen (ABl. L 33 vom 3.2.2009, S. 10) nicht dem Recht eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum, so darf Verbrauchern der in Umsetzung dieser Richtlinie gewährte Schutz nicht vorenthalten werden, wenn
@@ -609,6 +588,11 @@ Art 46c Pflichtversicherungsverträge
 
 (2) Ein über eine Pflichtversicherung abgeschlossener Vertrag unterliegt deutschem Recht, wenn die gesetzliche Verpflichtung zu seinem Abschluss auf deutschem Recht beruht.
 
+Dritter Unterabschnitt Durchführung der Verordnung (EU) Nr. 1259/2010
+---------------------------------------------------------------------
+
+### 
+
 Art 46d Rechtswahl
 ------------------
 
@@ -617,11 +601,6 @@ Art 46d Rechtswahl
 (1) Eine Rechtswahlvereinbarung nach Artikel 5 der Verordnung (EU) Nr. 1259/2010 ist notariell zu beurkunden.
 
 (2) Die Ehegatten können die Rechtswahl nach Absatz 1 auch noch bis zum Schluss der mündlichen Verhandlung im ersten Rechtszug vornehmen. § 127a des Bürgerlichen Gesetzbuchs gilt entsprechend.
-
-Dritter Unterabschnitt Durchführung der Verordnung (EU) Nr. 1259/2010
----------------------------------------------------------------------
-
-### 
 
 Drittes Kapitel Angleichung; Wahl eines in einem anderen Mitgliedstaat der Europäischen Union erworbenen Namens
 ---------------------------------------------------------------------------------------------------------------
@@ -650,13 +629,13 @@ die ursprüngliche Form eines nach dem Geschlecht oder dem Verwandtschaftsverhä
 5.  
 eine deutschsprachige Form ihres Vor- oder ihres Familiennamens annehmen; gibt es eine solche Form des Vornamens nicht, so kann sie neue Vornamen annehmen.
 
-Ist der Name Ehename, so kann die Erklärung während des Bestehens der Ehe nur von beiden Ehegatten abgegeben werden.
+Ist der Name Ehename oder Lebenspartnerschaftsname, so kann die Erklärung während des Bestehens der Ehe oder Lebenspartnerschaft nur von beiden Ehegatten oder Lebenspartnern abgegeben werden.
 
 (2) Absatz 1 gilt entsprechend für die Bildung eines Namens nach deutschem Recht, wenn dieser von einem Namen abgeleitet werden soll, der nach einem anwendbaren ausländischen Recht erworben worden ist.
 
 (3) § 1617c des Bürgerlichen Gesetzbuchs gilt entsprechend.
 
-(4) Die Erklärungen nach den Absätzen 1 und 2 müssen öffentlich beglaubigt oder beurkundet werden.
+(4) Die Erklärungen nach den Absätzen 1 und 2 müssen öffentlich beglaubigt oder beurkundet werden, wenn sie nicht bei der Eheschließung oder bei der Begründung der Lebenspartnerschaft gegenüber einem deutschen Standesamt abgegeben werden.
 
 Art 48 Wahl eines in einem anderen Mitgliedstaat der Europäischen Union erworbenen Namens
 -----------------------------------------------------------------------------------------
@@ -927,9 +906,7 @@ Art 86
 
 ### 
 
-Vorschriften, die den Erwerb von Rechten durch Ausländer oder durch juristische Personen, die ihren satzungsmäßigen Sitz, ihre Hauptverwaltung oder ihre Hauptniederlassung nicht im Bundesgebiet haben (ausländische juristische Personen), beschränken oder von einer Genehmigung abhängig machen, finden vom 30. Juli 1998 keine Anwendung mehr. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den Erwerb von Rechten durch Ausländer oder ausländische juristische Personen zu beschränken und von der Erteilung einer Genehmigung *abhängig machen*, wenn Deutsche und inländische juristische Personen in dem betreffenden Staat in dem Erwerb von Rechten eingeschränkt werden und außenpolitische Gründe, insbesondere das Retorsionsrecht, dies erfordern. Satz 2 gilt nicht für Ausländer und ausländische juristische Personen aus Mitgliedstaaten der Europäischen Union.
-
-Art. 86 Satz 2 Kursivdruck: Müsste richtig "abhängig zu machen" lauten
+Vorschriften, die den Erwerb von Rechten durch Ausländer oder durch juristische Personen, die ihren satzungsmäßigen Sitz, ihre Hauptverwaltung oder ihre Hauptniederlassung nicht im Bundesgebiet haben (ausländische juristische Personen), beschränken oder von einer Genehmigung abhängig machen, finden vom 30. Juli 1998 keine Anwendung mehr. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den Erwerb von Rechten durch Ausländer oder ausländische juristische Personen zu beschränken und von der Erteilung einer Genehmigung abhängig zu machen, wenn Deutsche und inländische juristische Personen in dem betreffenden Staat in dem Erwerb von Rechten eingeschränkt werden und außenpolitische Gründe, insbesondere das Retorsionsrecht, dies erfordern. Satz 2 gilt nicht für Ausländer und ausländische juristische Personen aus Mitgliedstaaten der Europäischen Union.
 
 Art 87 (weggefallen)
 --------------------
@@ -1172,10 +1149,7 @@ Unberührt bleiben die landesgesetzlichen Vorschriften, welche
 die Veräußerung eines Grundstücks beschränken;
 
 2.  
-die Teilung eines Grundstücks oder die getrennte Veräußerung von Grundstücken, die bisher zusammen bewirtschaftet worden sind, untersagen oder beschränken;
-
-3.  
-die nach § 890 Abs. 1 des Bürgerlichen Gesetzbuchs zulässige Vereinigung mehrerer Grundstücke oder die nach § 890 Abs. 2 des Bürgerlichen Gesetzbuchs zulässige Zuschreibung eines Grundstücks zu einem anderen Grundstück untersagen oder beschränken.
+die Teilung eines Grundstücks oder die getrennte Veräußerung von Grundstücken, die bisher zusammen bewirtschaftet worden sind, untersagen oder beschränken.
 
 Art 120
 -------
@@ -1352,12 +1326,10 @@ Art 147
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach denen für die Aufgaben des Betreuungsgerichts oder des Nachlassgerichts andere Stellen als Gerichte zuständig sind.
 
-Art 148
--------
+Art 148 (weggefallen)
+---------------------
 
 ### 
-
-Die Landesgesetze können die Zuständigkeit des Nachlaßgerichts zur Aufnahme des Inventars ausschließen.
 
 Art 149 bis 151 (weggefallen)
 -----------------------------
@@ -1930,15 +1902,11 @@ Art 224
 
 ### § 2 Elterliche Sorge
 
-(1) Ist ein Kind auf Antrag des Vaters für ehelich erklärt worden, so ist dies als Entscheidung gemäß § 1672 Abs. 1 des Bürgerlichen Gesetzbuchs anzusehen. Hat die Mutter in die Ehelicherklärung eingewilligt, so bleibt der Vater dem Kind und dessen Abkömmlingen vor der Mutter und den mütterlichen Verwandten zur Gewährung des Unterhalts verpflichtet, sofern nicht die Sorge wieder der Mutter übertragen wird.
+(1) Ist ein Kind auf Antrag des Vaters für ehelich erklärt worden, so ist dies als Entscheidung gemäß § 1671 Absatz 2 des Bürgerlichen Gesetzbuchs anzusehen. Hat die Mutter in die Ehelicherklärung eingewilligt, so bleibt der Vater dem Kind und dessen Abkömmlingen vor der Mutter und den mütterlichen Verwandten zur Gewährung des Unterhalts verpflichtet, sofern nicht die Sorge wieder der Mutter übertragen wird.
 
 (2) Ist ein Kind auf seinen Antrag nach dem Tod der Mutter für ehelich erklärt worden, so ist dies als Entscheidung gemäß § 1680 Abs. 2 Satz 2 des Bürgerlichen Gesetzbuchs anzusehen.
 
-(3) Haben nicht miteinander verheiratete Eltern längere Zeit in häuslicher Gemeinschaft gemeinsam die elterliche Verantwortung für ihr Kind getragen und sich vor dem 1. Juli 1998 getrennt, hat das Familiengericht auf Antrag eines Elternteils die Sorgeerklärung des anderen Elternteils nach § 1626a Abs. 1 Nr. 1 des Bürgerlichen Gesetzbuchs zu ersetzen, wenn die gemeinsame elterliche Sorge dem Kindeswohl dient. Ein gemeinsames Tragen der elterlichen Verantwortung über längere Zeit liegt in der Regel vor, wenn die Eltern mindestens sechs Monate ohne Unterbrechung mit dem Kind zusammengelebt haben.
-
-(4) Der Antrag ist erst nach Abgabe einer Sorgeerklärung des Antragstellers nach § 1626b Abs. 1 und 3, §§ 1626c und 1626d des Bürgerlichen Gesetzbuchs zulässig. Im Übrigen finden die für Verfahren in anderen Familiensachen nach § 621 Abs. 1 Nr. 1 der Zivilprozessordnung geltenden Vorschriften einschließlich § 23b Abs. 1 Satz 2 Nr. 2 des Gerichtsverfassungsgesetzes entsprechende Anwendung.
-
-(5) Das Familiengericht teilt die rechtskräftige Ersetzung nach Absatz 3 unter Angabe des Geburtsdatums und des Geburtsortes des Kindes sowie des Namens, den das Kind zur Zeit der Beurkundung seiner Geburt geführt hat, dem nach § 87c Abs. 6 Satz 2 des Achten Buches Sozialgesetzbuch zuständigen Jugendamt zum Zwecke der Auskunftserteilung nach § 58a des Achten Buches Sozialgesetzbuch unverzüglich mit.
+(3) bis (5) (weggefallen)
 
 Art 224
 -------
@@ -2385,7 +2353,9 @@ Art 229
 
 ### § 16 Überleitungsvorschrift zum Gesetz zur Ergänzung des Rechts zur Anfechtung der Vaterschaft vom 13. März 2008
 
-Im Fall der Anfechtung nach § 1600 Abs. 1 Nr. 5 des Bürgerlichen Gesetzbuchs beginnt die Frist für die Anfechtung gemäß § 1600b Abs. 1a des Bürgerlichen Gesetzbuchs nicht vor dem 1. Juni 2008.
+*Im Fall der Anfechtung nach § 1600 Abs. 1 Nr. 5 des Bürgerlichen Gesetzbuchs beginnt die Frist für die Anfechtung gemäß § 1600b Abs. 1a des Bürgerlichen Gesetzbuchs nicht vor dem 1. Juni 2008.*
+
+Art. 229 § 16 Kursivdruck: Eingef. durch Art. 2 Abs. 5 G v. 13.3.2008 I 313 mWv 1.6.2008; Verstoß gegen Art. 16 Abs. 1, Art. 6 Abs. 2 Satz 1, Art. 2 Abs. 1 iVm Art. 6 Abs. 2 Satz 1, Art. 6 Abs. 1 GG (100-1) und nichtig gem. BVerfGE v. 17.12.2013; 2014 I 110 - 1 BvL 6/10 -
 
 Art 229
 -------
@@ -2494,6 +2464,106 @@ Art 229
 (1) Artikel 17 Absatz 1 in der am 29. Januar 2013 geltenden Fassung ist anzuwenden, wenn das Verfahren auf Ehescheidung nach dem 28. Januar 2013 eingeleitet worden ist.
 
 (2) Artikel 17 Absatz 3 und Artikel 17b Absatz 1 Satz 4 in der am 28. Januar 2013 geltenden Fassung sind weiter anzuwenden, wenn das Verfahren auf Ehescheidung oder Aufhebung der Lebenspartnerschaft vor dem 29. Januar 2013 eingeleitet worden ist.
+
+Art 229
+-------
+
+### § 29 Übergangsvorschriften zum Mietrechtsänderungsgesetz vom 11. März 2013
+
+(1) Auf ein bis zum 1. Mai 2013 entstandenes Mietverhältnis sind die §§ 536, 554, 559 bis 559b, 578 des Bürgerlichen Gesetzbuchs in der bis zum 1. Mai 2013 geltenden Fassung weiter anzuwenden, wenn
+
+1.  
+bei Modernisierungsmaßnahmen die Mitteilung nach § 554 Absatz 3 Satz 1 des Bürgerlichen Gesetzbuchs dem Mieter vor dem 1. Mai 2013 zugegangen ist oder
+
+2.  
+bei Modernisierungsmaßnahmen, auf die § 554 Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs in der bis zum 1. Mai 2013 geltenden Fassung anzuwenden ist, der Vermieter mit der Ausführung der Maßnahme vor dem 1. Mai 2013 begonnen hat.
+
+(2) § 569 Absatz 2a des Bürgerlichen Gesetzbuchs ist auf ein vor dem 1. Mai 2013 entstandenes Mietverhältnis nicht anzuwenden.
+
+Art 229
+-------
+
+### § 30 Überleitungsvorschrift zum Gesetz zur Reform der elterlichen Sorge nicht miteinander verheirateter Eltern
+
+Hat ein Elternteil vor dem 19. Mai 2013 beim Familiengericht einen Antrag auf Ersetzung der Sorgeerklärung des anderen Elternteils gestellt, gilt dieser Antrag als ein Antrag auf Übertragung der elterlichen Sorge nach § 1626a Absatz 2 des Bürgerlichen Gesetzbuchs.
+
+Art 229
+-------
+
+### § 31 Überleitungsvorschrift zur Änderung der Verjährungsvorschriften des Bürgerlichen Gesetzbuchs durch das Gesetz zur Stärkung der Rechte von Opfern sexuellen Missbrauchs
+
+Die Vorschriften des Bürgerlichen Gesetzbuchs in der seit dem 30. Juni 2013 geltenden Fassung über die Verjährung sind auf die an diesem Tag bestehenden und noch nicht verjährten Ansprüche anzuwenden.
+
+Art 229
+-------
+
+### § 32 Übergangsvorschrift zum Gesetz zur Umsetzung der Verbraucherrechterichtlinie und zur Änderung des Gesetzes zur Regelung der Wohnungsvermittlung
+
+(1) Auf einen vor dem 13. Juni 2014 abgeschlossenen Verbrauchervertrag sind die Vorschriften dieses Gesetzes, des Bürgerlichen Gesetzbuchs, des Fernunterrichtsschutzgesetzes, der Zivilprozessordnung, des Gesetzes zur Regelung der Wohnungsvermittlung, des Gesetzes gegen unlauteren Wettbewerb, des Vermögensanlagengesetzes, der Wertpapierdienstleistungs-Verhaltens- und Organisationsverordnung, des Wertpapierprospektgesetzes, der Preisangabenverordnung, des Kapitalanlagegesetzbuchs, des Versicherungsvertragsgesetzes und des Unterlassungsklagengesetzes in der bis zu diesem Tag geltenden Fassung anzuwenden.
+
+(2) Solange der Verbraucher bei einem Fernabsatzvertrag, der vor dem 13. Juni 2014 geschlossen wurde, nicht oder nicht entsprechend den zum Zeitpunkt des Vertragsschlusses geltenden gesetzlichen Anforderungen des Bürgerlichen Gesetzbuchs über sein Widerrufsrecht belehrt worden ist und solange das Widerrufsrecht aus diesem Grunde nicht erloschen ist, erlischt das Widerrufsrecht
+
+1.  
+bei der Lieferung von Waren: zwölf Monate und 14 Tage nach Eingang der Waren beim Empfänger, jedoch nicht vor Ablauf des 27. Juni 2015,
+
+2.  
+bei der wiederkehrenden Lieferung gleichartiger Waren: zwölf Monate und 14 Tage nach Eingang der ersten Teillieferung, jedoch nicht vor Ablauf des 27. Juni 2015,
+
+3.  
+bei Dienstleistungen: mit Ablauf des 27. Juni 2015.
+
+(3) Solange der Verbraucher bei einem Haustürgeschäft, das vor dem 13. Juni 2014 geschlossen wurde, nicht oder nicht entsprechend den zum Zeitpunkt des Vertragsschlusses geltenden Anforderungen des Bürgerlichen Gesetzbuchs über sein Widerrufsrecht belehrt worden ist und solange das Widerrufsrecht aus diesem Grunde nicht erloschen ist, erlischt das Widerrufsrecht zwölf Monate und 14 Tage nach vollständiger Erbringung der beiderseitigen Leistungen aus dem Vertrag, nicht jedoch vor Ablauf des 27. Juni 2015.
+
+(4) Die Absätze 2 und 3 sind nicht anwendbar auf Verträge über Finanzdienstleistungen. Solange der Verbraucher bei einem Haustürgeschäft, durch das der Unternehmer dem Verbraucher eine entgeltliche Finanzierungshilfe gewährt und das vor dem 11. Juni 2010 geschlossen wurde, nicht oder nicht entsprechend den zum Zeitpunkt des Vertragsschlusses geltenden Anforderungen des Bürgerlichen Gesetzbuchs über sein Widerrufsrecht belehrt worden ist und solange das Widerrufsrecht aus diesem Grunde nicht erloschen ist, erlischt das Widerrufsrecht zwölf Monate und 14 Tage nach vollständiger Erbringung der beiderseitigen Leistungen aus dem Vertrag, nicht jedoch vor Ablauf des 27. Juni 2015.
+
+Art 229
+-------
+
+### § 33 Überleitungsvorschrift zu dem Gesetz gegen unseriöse Geschäftspraktiken
+
+Auf Schuldverhältnisse, die vor dem 9. Oktober 2013 entstanden sind, ist § 675 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung anzuwenden.
+
+Art 229
+-------
+
+### § 34 Überleitungsvorschrift zum Gesetz zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr
+
+Die §§ 271a, 286, 288, 308 und 310 des Bürgerlichen Gesetzbuchs in der seit dem 29. Juli 2014 geltenden Fassung sind nur auf ein Schuldverhältnis anzuwenden, das nach dem 28. Juli 2014 entstanden ist. Abweichend von Satz 1 sind die dort genannten Vorschriften auch auf ein vorher entstandenes Dauerschuldverhältnis anzuwenden, soweit die Gegenleistung nach dem 30. Juni 2016 erbracht wird.
+
+Art 229
+-------
+
+### § 35 Übergangsvorschriften zum Mietrechtsnovellierungsgesetz vom 21. April 2015
+
+(1) Die §§ 556d bis 556g, 557a Absatz 4 und § 557b Absatz 4 des Bürgerlichen Gesetzbuchs sind nicht anzuwenden auf Mietverträge und Staffelmietvereinbarungen über Wohnraum, die abgeschlossen worden sind, bevor die vertragsgegenständliche Mietwohnung in den Anwendungsbereich einer Rechtsverordnung nach § 556d Absatz 2 des Bürgerlichen Gesetzbuchs fällt.
+
+(2) § 557a Absatz 4 des Bürgerlichen Gesetzbuchs ist nicht mehr anzuwenden auf Mietstaffeln, deren erste Miete zu einem Zeitpunkt fällig wird, in dem die vertragsgegenständliche Mietwohnung nicht mehr in den Anwendungsbereich einer Rechtsverordnung nach § 556d Absatz 2 des Bürgerlichen Gesetzbuchs fällt.
+
+Art 229
+-------
+
+### § 36 Überleitungsvorschrift zum Gesetz zum Internationalen Erbrecht und zur Änderung von Vorschriften zum Erbschein sowie zur Änderung sonstiger Vorschriften vom 29. Juni 2015
+
+Auf Verfahren zur Erteilung von Erbscheinen nach einem Erblasser, der vor dem 17. August 2015 verstorben ist, sind das Bürgerliche Gesetzbuch und das Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit in der bis zu diesem Tag geltenden Fassung weiterhin anzuwenden.
+
+Art 229
+-------
+
+### § 38 Übergangsvorschrift zum Gesetz zur Umsetzung der Wohnimmobilienkreditrichtlinie und zur Änderung handelsrechtlicher Vorschriften
+
+(1) Dieses Gesetz und das Bürgerliche Gesetzbuch jeweils in der bis zum 20. März 2016 geltenden Fassung sind vorbehaltlich des Absatzes 2 auf folgende Verträge anzuwenden, wenn sie vor dem 21. März 2016 abgeschlossen wurden:
+
+1.  
+Verbraucherdarlehensverträge und Verträge über entgeltliche Finanzierungshilfen,
+
+2.  
+Verträge über die Vermittlung von Verträgen gemäß Nummer 1.
+
+Für Verbraucherdarlehensverträge gemäß § 504 des Bürgerlichen Gesetzbuchs ist der Zeitpunkt des Abschlusses des Vertrags maßgeblich, mit dem der Darlehensgeber dem Darlehensnehmer das Recht einräumt, sein laufendes Konto in bestimmter Höhe zu überziehen. Für Verbraucherdarlehensverträge gemäß § 505 Absatz 1 des Bürgerlichen Gesetzbuchs ist der Zeitpunkt des Abschlusses des Vertrags maßgeblich, mit dem der Unternehmer mit dem Verbraucher ein Entgelt für den Fall vereinbart, dass er eine Überziehung seines laufenden Kontos duldet.
+
+(2) Die §§ 504a und 505 Absatz 2 des Bürgerlichen Gesetzbuchs sind auf Verbraucherdarlehensverträge gemäß den §§ 504 und 505 des Bürgerlichen Gesetzbuchs auch dann anzuwenden, wenn diese Verträge vor dem 21. März 2016 abgeschlossen wurden.
+
+(3) Bei Immobiliardarlehensverträgen gemäß § 492 Absatz 1a Satz 2 des Bürgerlichen Gesetzbuchs in der vom 1. August 2002 bis einschließlich 10. Juni 2010 geltenden Fassung, die zwischen dem 1. September 2002 und dem 10. Juni 2010 geschlossen wurden, erlischt ein fortbestehendes Widerrufsrecht spätestens drei Monate nach dem 21. März 2016, wenn das Fortbestehen des Widerrufsrechts darauf beruht, dass die dem Verbraucher erteilte Widerrufsbelehrung den zum Zeitpunkt des Vertragsschlusses geltenden Anforderungen des Bürgerlichen Gesetzbuchs nicht entsprochen hat. Bei Haustürgeschäften ist Satz 1 nur anzuwenden, wenn die beiderseitigen Leistungen aus dem Verbraucherdarlehensvertrag bei Ablauf des 21. Mai 2016 vollständig erbracht worden sind, andernfalls erlöschen die fortbestehenden Widerrufsrechte erst einen Monat nach vollständiger Erbringung der beiderseitigen Leistungen aus dem Vertrag.
 
 Sechster Teil Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2825,7 +2895,7 @@ wer über ein bei Abschluß des Vertrages bereits mit einem Wohnhaus bebautes Gr
 d)  
 wer ein auf einem Grundstück errichtetes Gebäude gekauft oder den Kauf beantragt hat.
 
-Das Recht nach Satz 1 besteht bis zur Bereinigung der genannten Rechtsverhältnisse durch besonderes Gesetz längstens bis zum Ablauf des 31. Dezember 1994; die Frist kann durch Rechtsverordnung des Bundesministers der Justiz einmal verlängert werden. In den in § 3 Abs. 3 und den §§ 4 und 121 des Sachenrechtsbereinigungsgesetzes bezeichneten Fällen besteht das in Satz 1 bezeichnete Recht zum Besitz bis zur Bereinigung dieser Rechtsverhältnisse nach jenem Gesetz fort. Für die Zeit vom 22. Juli 1992 bis 31. März 1995 kann der jeweilige Grundstückseigentümer vom jeweiligen Nutzer ein Entgelt in Höhe des nach § 51 Abs. 1 Satz 2 Nr. 1, §§ 43, 45 des Sachenrechtsbereinigungsgesetzes zu zahlenden Erbbauzinses verlangen, für die Zeit ab 1. Januar 1995 jedoch nur, wenn er kein Entgelt nach Satz 8 verlangen kann. Für die Zeit vom 1. Januar 1995 bis zum 31. März 1995 kann der Grundstückseigentümer das Entgelt nach Satz 4 nicht verlangen, wenn er sich in einem bis zum 31. März 1995 eingeleiteten notariellen Vermittlungsverfahren nach den §§ 87 bis 102 des Sachenrechtsbereinigungsgesetzes oder Bodenordnungsverfahren nach dem Achten Abschnitt des Landwirtschaftsanpassungsgesetzes nicht unverzüglich auf eine Verhandlung zur Begründung dinglicher Rechte oder eine Übereignung eingelassen hat. Für die Bestimmung des Entgeltes sind der Bodenwert und der Restwert eines überlassenen Gebäudes zum 22. Juli 1992 maßgebend. Der Anspruch nach Satz 4 verjährt in zwei Jahren vom 8. November 2000 an. Der Grundstückseigentümer kann vom 1. Januar 1995 an vom Nutzer ein Entgelt bis zur Höhe des nach dem Sachenrechtsbereinigungsgesetz zu zahlenden Erbbauzinses verlangen, wenn ein Verfahren zur Bodenneuordnung nach dem Bodensonderungsgesetz eingeleitet wird, er ein notarielles Vermittlungsverfahren nach den §§ 87 bis 102 des Sachenrechtsbereinigungsgesetzes oder ein Bodenordnungsverfahren nach dem Achten Abschnitt des Landwirtschaftsanpassungsgesetzes beantragt oder sich in den Verfahren auf eine Verhandlung zur Begründung dinglicher Rechte oder eine Übereignung eingelassen hat. Vertragliche oder gesetzliche Regelungen, die ein abweichendes Nutzungsentgelt oder einen früheren Beginn der Zahlungspflicht begründen, bleiben unberührt. Umfang und Inhalt des Rechts bestimmen sich im übrigen nach der bisherigen Ausübung. In den Fällen des § 20b Abs. 3 des Parteiengesetzes vom 21. Februar 1990 (GBl. I Nr. 9 S. 66), das zuletzt durch Artikel 1 des Gesetzes vom 19. Dezember 2006 (BGBl. I S. 3230) geändert worden ist, kann das Recht nach Satz 1 allein von der Bundesanstalt für vereinigungsbedingte Sonderaufgaben oder deren Rechtsnachfolger geltend gemacht werden.
+Das Recht nach Satz 1 besteht bis zur Bereinigung der genannten Rechtsverhältnisse durch besonderes Gesetz längstens bis zum Ablauf des 31. Dezember 1994; die Frist kann durch Rechtsverordnung des Bundesministers der Justiz und für Verbraucherschutz einmal verlängert werden. In den in § 3 Abs. 3 und den §§ 4 und 121 des Sachenrechtsbereinigungsgesetzes bezeichneten Fällen besteht das in Satz 1 bezeichnete Recht zum Besitz bis zur Bereinigung dieser Rechtsverhältnisse nach jenem Gesetz fort. Für die Zeit vom 22. Juli 1992 bis 31. März 1995 kann der jeweilige Grundstückseigentümer vom jeweiligen Nutzer ein Entgelt in Höhe des nach § 51 Abs. 1 Satz 2 Nr. 1, §§ 43, 45 des Sachenrechtsbereinigungsgesetzes zu zahlenden Erbbauzinses verlangen, für die Zeit ab 1. Januar 1995 jedoch nur, wenn er kein Entgelt nach Satz 8 verlangen kann. Für die Zeit vom 1. Januar 1995 bis zum 31. März 1995 kann der Grundstückseigentümer das Entgelt nach Satz 4 nicht verlangen, wenn er sich in einem bis zum 31. März 1995 eingeleiteten notariellen Vermittlungsverfahren nach den §§ 87 bis 102 des Sachenrechtsbereinigungsgesetzes oder Bodenordnungsverfahren nach dem Achten Abschnitt des Landwirtschaftsanpassungsgesetzes nicht unverzüglich auf eine Verhandlung zur Begründung dinglicher Rechte oder eine Übereignung eingelassen hat. Für die Bestimmung des Entgeltes sind der Bodenwert und der Restwert eines überlassenen Gebäudes zum 22. Juli 1992 maßgebend. Der Anspruch nach Satz 4 verjährt in zwei Jahren vom 8. November 2000 an. Der Grundstückseigentümer kann vom 1. Januar 1995 an vom Nutzer ein Entgelt bis zur Höhe des nach dem Sachenrechtsbereinigungsgesetz zu zahlenden Erbbauzinses verlangen, wenn ein Verfahren zur Bodenneuordnung nach dem Bodensonderungsgesetz eingeleitet wird, er ein notarielles Vermittlungsverfahren nach den §§ 87 bis 102 des Sachenrechtsbereinigungsgesetzes oder ein Bodenordnungsverfahren nach dem Achten Abschnitt des Landwirtschaftsanpassungsgesetzes beantragt oder sich in den Verfahren auf eine Verhandlung zur Begründung dinglicher Rechte oder eine Übereignung eingelassen hat. Vertragliche oder gesetzliche Regelungen, die ein abweichendes Nutzungsentgelt oder einen früheren Beginn der Zahlungspflicht begründen, bleiben unberührt. Umfang und Inhalt des Rechts bestimmen sich im übrigen nach der bisherigen Ausübung. In den Fällen des § 20b Abs. 3 des Parteiengesetzes vom 21. Februar 1990 (GBl. I Nr. 9 S. 66), das zuletzt durch Artikel 1 des Gesetzes vom 19. Dezember 2006 (BGBl. I S. 3230) geändert worden ist, kann das Recht nach Satz 1 allein von der Bundesanstalt für vereinigungsbedingte Sonderaufgaben oder deren Rechtsnachfolger geltend gemacht werden.
 
 (2) Das Recht zum Besitz nach Absatz 1 wird durch eine Übertragung oder einen Übergang des Eigentums oder eine sonstige Verfügung über das Grundstück nicht berührt. Das Recht kann übertragen werden; die Übertragung ist gegenüber dem Grundstückseigentümer nur wirksam, wenn sie diesem vom Veräußerer angezeigt wird.
 
@@ -3237,15 +3307,7 @@ Der Familienname eines vor dem Wirksamwerden des Beitritts geborenen Kindes best
 Art 234
 -------
 
-### § 11 Elterliche Sorge
-
-(1) Die elterliche Sorge für ein Kind steht demjenigen zu, dem das Erziehungsrecht am Tag vor dem Wirksamwerden des Beitritts nach dem bisherigen Recht zustand. Stand das Erziehungsrecht am Tag vor dem Wirksamwerden des Beitritts dem Vater eines nichtehelichen Kindes oder einem anderen als der Mutter oder dem Vater des Kindes zu, so hat dieser lediglich die Rechtsstellung eines Vormunds.
-
-(2) Entscheidungen, Feststellungen oder Maßnahmen, die das Gericht oder eine Verwaltungsbehörde vor dem Wirksamwerden des Beitritts in Angelegenheiten der elterlichen Sorge getroffen hat, bleiben unberührt. Für die Änderung solcher Entscheidungen, Feststellungen oder Maßnahmen gelten § 1674 Abs. 2 und § 1696 des Bürgerlichen Gesetzbuchs entsprechend.
-
-(3) Hat das Gericht vor dem Wirksamwerden des Beitritts im Scheidungsurteil über das elterliche Erziehungsrecht nicht entschieden oder angeordnet, daß die Ehegatten das elterliche Erziehungsrecht bis zur Dauer eines Jahres nicht ausüben dürfen, gilt § 1671 des Bürgerlichen Gesetzbuchs entsprechend.
-
-(4) Ist ein Kind durch seine Eltern oder mit deren Einverständnis in einer Weise untergebracht, die mit Freiheitsentziehung verbunden ist, so gelten für die Unterbringung vom Wirksamwerden des Beitritts an die Vorschriften des Bürgerlichen Gesetzbuchs. Die Eltern haben alsbald nach dem Wirksamwerden des Beitritts um die gerichtliche Genehmigung der Unterbringung nachzusuchen. Die Unterbringung ist spätestens nach Ablauf von 6 Monaten nach dem Wirksamwerden des Beitritts zu beenden, wenn das Gericht sie nicht vorher genehmigt hat.
+### § 11 (weggefallen)
 
 Art 234
 -------
@@ -3386,8 +3448,8 @@ Art 237
 
 (5) Die vorstehenden Absätze finden keine Anwendung, wenn die Betroffenen vor dem 24. Juli 1997 etwas Abweichendes vereinbart haben oder zwischen ihnen abweichende Urteile ergangen sind.
 
-Siebter Teil Durchführung des Bürgerlichen Gesetzbuchs, Verordnungsermächtigungen, Informationspflichten
---------------------------------------------------------------------------------------------------------
+Siebter Teil Durchführung des Bürgerlichen Gesetzbuchs, Verordnungsermächtigungen, Länderöffnungsklauseln, Informationspflichten
+--------------------------------------------------------------------------------------------------------------------------------
 
 ### 
 
@@ -3396,7 +3458,7 @@ Art 238 Reiserechtliche Vorschriften
 
 ### 
 
-(1) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung ohne Zustimmung des Bundesrates,
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates,
 
 1.  
 soweit es zum Schutz des Verbrauchers bei Reisen erforderlich ist, Vorschriften zu erlassen, durch die sichergestellt wird,
@@ -3414,10 +3476,12 @@ Zu dem in Satz 1 Nr. 1 genannten Zweck kann insbesondere bestimmt werden, welche
 
 (2) Der Kundengeldabsicherer (§ 651k Abs. 2 des Bürgerlichen Gesetzbuchs) ist verpflichtet, die Beendigung des Kundengeldabsicherungsvertrags der zuständigen Behörde unverzüglich mitzuteilen.
 
-Art 239 (weggefallen)
----------------------
+Art 239 Länderöffnungsklausel
+-----------------------------
 
 ### 
+
+Die Länder können durch Gesetz bestimmen, dass der Antrag auf Erteilung eines Erbscheins der notariellen Beurkundung bedarf und die Versicherung an Eides statt nach § 352 Absatz 3 Satz 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit und nach § 36 Absatz 2 Satz 1 des Internationalen Erbrechtsverfahrensgesetzes vom 29. Juni 2015 (BGBl. I S. 1042) nur vor einem Notar abzugeben ist.
 
 Art 240 Informationspflichten für Fernabsatzverträge
 ----------------------------------------------------
@@ -3480,7 +3544,7 @@ Art 243 Ver- und Entsorgungsbedingungen
 
 ### 
 
-Das Bundesministerium für Wirtschaft und Technologie kann im Einvernehmen mit dem Bundesministerium der Justiz durch Rechtsverordnung mit Zustimmung des Bundesrates die Allgemeinen Bedingungen für die Versorgung mit Wasser und Fernwärme sowie die Entsorgung von Abwasser einschließlich von Rahmenregelungen über die Entgelte ausgewogen gestalten und hierbei unter angemessener Berücksichtigung der beiderseitigen Interessen
+Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates die Allgemeinen Bedingungen für die Versorgung mit Wasser und Fernwärme sowie die Entsorgung von Abwasser einschließlich von Rahmenregelungen über die Entgelte ausgewogen gestalten und hierbei unter angemessener Berücksichtigung der beiderseitigen Interessen
 
 1.  
 die Bestimmungen der Verträge einheitlich festsetzen,
@@ -3498,138 +3562,315 @@ Art 244 Abschlagszahlungen beim Hausbau
 
 ### 
 
-Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung ohne Zustimmung des Bundesrates auch unter Abweichung von § 632a des Bürgerlichen Gesetzbuchs zu regeln, welche Abschlagszahlungen bei Werkverträgen verlangt werden können, die die Errichtung oder den Umbau eines Hauses oder eines vergleichbaren Bauwerks zum Gegenstand haben, insbesondere wie viele Abschläge vereinbart werden können, welche erbrachten Gewerke hierbei mit welchen Prozentsätzen der Gesamtbausumme angesetzt werden können, welcher Abschlag für eine in dem Vertrag enthaltene Verpflichtung zur Verschaffung des Eigentums angesetzt werden kann und welche Sicherheit dem Besteller hierfür zu leisten ist.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates auch unter Abweichung von § 632a des Bürgerlichen Gesetzbuchs zu regeln, welche Abschlagszahlungen bei Werkverträgen verlangt werden können, die die Errichtung oder den Umbau eines Hauses oder eines vergleichbaren Bauwerks zum Gegenstand haben, insbesondere wie viele Abschläge vereinbart werden können, welche erbrachten Gewerke hierbei mit welchen Prozentsätzen der Gesamtbausumme angesetzt werden können, welcher Abschlag für eine in dem Vertrag enthaltene Verpflichtung zur Verschaffung des Eigentums angesetzt werden kann und welche Sicherheit dem Besteller hierfür zu leisten ist.
 
-Art 245 Belehrung über Widerrufs- und Rückgaberecht
----------------------------------------------------
+Art 245 (weggefallen)
+---------------------
 
 ### 
 
-Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf,
+Art 246 Informationspflichten beim Verbrauchervertrag
+-----------------------------------------------------
+
+### 
+
+(1) Der Unternehmer ist, sofern sich diese Informationen nicht aus den Umständen ergeben, nach § 312a Absatz 2 des Bürgerlichen Gesetzbuchs verpflichtet, dem Verbraucher vor Abgabe von dessen Vertragserklärung folgende Informationen in klarer und verständlicher Weise zur Verfügung zu stellen:
 
 1.  
-Inhalt und Gestaltung der dem Verbraucher gemäß § 355 Abs. 3 Satz 1, § 356 Abs. 2 Satz 2 und den diese ergänzenden Vorschriften des Bürgerlichen Gesetzbuchs mitzuteilenden Belehrung über das Widerrufs- und Rückgaberecht festzulegen und
+die wesentlichen Eigenschaften der Waren oder Dienstleistungen in dem für den Datenträger und die Waren oder Dienstleistungen angemessenen Umfang,
 
 2.  
-zu bestimmen, wie diese Belehrung mit den auf Grund der Artikel 240 bis 242 zu erteilenden Informationen zu verbinden ist.
+seine Identität, beispielsweise seinen Handelsnamen und die Anschrift des Ortes, an dem er niedergelassen ist, sowie seine Telefonnummer,
 
-Art 246 Informationspflichten bei besonderen Vertriebsformen
-------------------------------------------------------------
+3.  
+den Gesamtpreis der Waren und Dienstleistungen einschließlich aller Steuern und Abgaben oder in den Fällen, in denen der Preis auf Grund der Beschaffenheit der Ware oder Dienstleistung vernünftigerweise nicht im Voraus berechnet werden kann, die Art der Preisberechnung sowie gegebenenfalls alle zusätzlichen Fracht-, Liefer- oder Versandkosten und alle sonstigen Kosten oder in den Fällen, in denen diese Kosten vernünftigerweise nicht im Voraus berechnet werden können, die Tatsache, dass solche zusätzlichen Kosten anfallen können,
+
+4.  
+gegebenenfalls die Zahlungs-, Liefer- und Leistungsbedingungen, den Termin, bis zu dem sich der Unternehmer verpflichtet hat, die Waren zu liefern oder die Dienstleistungen zu erbringen, sowie das Verfahren des Unternehmers zum Umgang mit Beschwerden,
+
+5.  
+das Bestehen eines gesetzlichen Mängelhaftungsrechts für die Waren und gegebenenfalls das Bestehen und die Bedingungen von Kundendienstleistungen und Garantien,
+
+6.  
+gegebenenfalls die Laufzeit des Vertrags oder die Bedingungen der Kündigung unbefristeter Verträge oder sich automatisch verlängernder Verträge,
+
+7.  
+gegebenenfalls die Funktionsweise digitaler Inhalte, einschließlich anwendbarer technischer Schutzmaßnahmen für solche Inhalte, und
+
+8.  
+gegebenenfalls, soweit wesentlich, Beschränkungen der Interoperabilität und der Kompatibilität digitaler Inhalte mit Hard- und Software, soweit diese Beschränkungen dem Unternehmer bekannt sind oder bekannt sein müssen.
+
+(2) Absatz 1 ist nicht anzuwenden auf Verträge, die Geschäfte des täglichen Lebens zum Gegenstand haben und bei Vertragsschluss sofort erfüllt werden.
+
+(3) Steht dem Verbraucher ein Widerrufsrecht zu, ist der Unternehmer verpflichtet, den Verbraucher in Textform über sein Widerrufsrecht zu belehren. Die Widerrufsbelehrung muss deutlich gestaltet sein und dem Verbraucher seine wesentlichen Rechte in einer dem benutzten Kommunikationsmittel angepassten Weise deutlich machen. Sie muss Folgendes enthalten:
+
+1.  
+einen Hinweis auf das Recht zum Widerruf,
+
+2.  
+einen Hinweis darauf, dass der Widerruf durch Erklärung gegenüber dem Unternehmer erfolgt und keiner Begründung bedarf,
+
+3.  
+den Namen und die ladungsfähige Anschrift desjenigen, gegenüber dem der Widerruf zu erklären ist, und
+
+4.  
+einen Hinweis auf Dauer und Beginn der Widerrufsfrist sowie darauf, dass zur Fristwahrung die rechtzeitige Absendung der Widerrufserklärung genügt.
+
+Art 246a Informationspflichten bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 
 
-Art 246
--------
+Art 246a
+--------
 
-### § 1 Informationspflichten bei Fernabsatzverträgen
+### § 1 Informationspflichten
 
-(1) Bei Fernabsatzverträgen muss der Unternehmer dem Verbraucher rechtzeitig vor Abgabe von dessen Vertragserklärung folgende Informationen in einer dem eingesetzten Fernkommunikationsmittel entsprechenden Weise klar und verständlich und unter Angabe des geschäftlichen Zwecks zur Verfügung stellen:
+(1) Der Unternehmer ist nach § 312d Absatz 1 des Bürgerlichen Gesetzbuchs verpflichtet, dem Verbraucher folgende Informationen zur Verfügung zu stellen:
+
+1.  
+die wesentlichen Eigenschaften der Waren oder Dienstleistungen in dem für das Kommunikationsmittel und für die Waren und Dienstleistungen angemessenen Umfang,
+
+2.  
+seine Identität, beispielsweise seinen Handelsnamen sowie die Anschrift des Ortes, an dem er niedergelassen ist, seine Telefonnummer und gegebenenfalls seine Telefaxnummer und E-Mail-Adresse sowie gegebenenfalls die Anschrift und die Identität des Unternehmers, in dessen Auftrag er handelt,
+
+3.  
+zusätzlich zu den Angaben gemäß Nummer 2 die Geschäftsanschrift des Unternehmers und gegebenenfalls die Anschrift des Unternehmers, in dessen Auftrag er handelt, an die sich der Verbraucher mit jeder Beschwerde wenden kann, falls diese Anschrift von der Anschrift unter Nummer 2 abweicht,
+
+4.  
+den Gesamtpreis der Waren oder Dienstleistungen einschließlich aller Steuern und Abgaben, oder in den Fällen, in denen der Preis auf Grund der Beschaffenheit der Waren oder Dienstleistungen vernünftigerweise nicht im Voraus berechnet werden kann, die Art der Preisberechnung sowie gegebenenfalls alle zusätzlichen Fracht-, Liefer- oder Versandkosten und alle sonstigen Kosten, oder in den Fällen, in denen diese Kosten vernünftigerweise nicht im Voraus berechnet werden können, die Tatsache, dass solche zusätzlichen Kosten anfallen können,
+
+5.  
+im Falle eines unbefristeten Vertrags oder eines Abonnement-Vertrags den Gesamtpreis; dieser umfasst die pro Abrechnungszeitraum anfallenden Gesamtkosten und, wenn für einen solchen Vertrag Festbeträge in Rechnung gestellt werden, ebenfalls die monatlichen Gesamtkosten; wenn die Gesamtkosten vernünftigerweise nicht im Voraus berechnet werden können, ist die Art der Preisberechnung anzugeben,
+
+6.  
+die Kosten für den Einsatz des für den Vertragsabschluss genutzten Fernkommunikationsmittels, sofern dem Verbraucher Kosten berechnet werden, die über die Kosten für die bloße Nutzung des Fernkommunikationsmittels hinausgehen,
+
+7.  
+die Zahlungs-, Liefer- und Leistungsbedingungen, den Termin, bis zu dem der Unternehmer die Waren liefern oder die Dienstleistung erbringen muss, und gegebenenfalls das Verfahren des Unternehmers zum Umgang mit Beschwerden,
+
+8.  
+das Bestehen eines gesetzlichen Mängelhaftungsrechts für die Waren,
+
+9.  
+gegebenenfalls das Bestehen und die Bedingungen von Kundendienst, Kundendienstleistungen und Garantien,
+
+10.  
+gegebenenfalls bestehende einschlägige Verhaltenskodizes gemäß Artikel 2 Buchstabe f der Richtlinie 2005/29/EG des Europäischen Parlaments und des Rates vom 11. Mai 2005 über unlautere Geschäftspraktiken im binnenmarktinternen Geschäftsverkehr zwischen Unternehmen und Verbrauchern und zur Änderung der Richtlinie 84/450/EWG des Rates, der Richtlinien 97/7/EG, 98/27/EG und 2002/65/EG des Europäischen Parlaments und des Rates sowie der Verordnung (EG) Nr. 2006/2004 des Europäischen Parlaments und des Rates (ABl. L 149 vom 11.6.2005, S. 22) und wie Exemplare davon erhalten werden können,
+
+11.  
+gegebenenfalls die Laufzeit des Vertrags oder die Bedingungen der Kündigung unbefristeter Verträge oder sich automatisch verlängernder Verträge,
+
+12.  
+gegebenenfalls die Mindestdauer der Verpflichtungen, die der Verbraucher mit dem Vertrag eingeht,
+
+13.  
+gegebenenfalls die Tatsache, dass der Unternehmer vom Verbraucher die Stellung einer Kaution oder die Leistung anderer finanzieller Sicherheiten verlangen kann, sowie deren Bedingungen,
+
+14.  
+gegebenenfalls die Funktionsweise digitaler Inhalte, einschließlich anwendbarer technischer Schutzmaßnahmen für solche Inhalte,
+
+15.  
+gegebenenfalls, soweit wesentlich, Beschränkungen der Interoperabilität und der Kompatibilität digitaler Inhalte mit Hard- und Software, soweit diese Beschränkungen dem Unternehmer bekannt sind oder bekannt sein müssen, und
+
+16.  
+gegebenenfalls, dass der Verbraucher ein außergerichtliches Beschwerde- und Rechtsbehelfsverfahren, dem der Unternehmer unterworfen ist, nutzen kann, und dessen Zugangsvoraussetzungen.
+
+Wird der Vertrag im Rahmen einer öffentlich zugänglichen Versteigerung geschlossen, können anstelle der Angaben nach Satz 1 Nummer 2 und 3 die entsprechenden Angaben des Versteigerers zur Verfügung gestellt werden.
+
+(2) Steht dem Verbraucher ein Widerrufsrecht nach § 312g Absatz 1 des Bürgerlichen Gesetzbuchs zu, ist der Unternehmer verpflichtet, den Verbraucher zu informieren
+
+1.  
+über die Bedingungen, die Fristen und das Verfahren für die Ausübung des Widerrufsrechts nach § 355 Absatz 1 des Bürgerlichen Gesetzbuchs sowie das Muster-Widerrufsformular in der Anlage 2,
+
+2.  
+gegebenenfalls darüber, dass der Verbraucher im Widerrufsfall die Kosten für die Rücksendung der Waren zu tragen hat, und bei Fernabsatzverträgen zusätzlich über die Kosten für die Rücksendung der Waren, wenn die Waren auf Grund ihrer Beschaffenheit nicht auf dem normalen Postweg zurückgesendet werden können, und
+
+3.  
+darüber, dass der Verbraucher dem Unternehmer bei einem Vertrag über die Erbringung von Dienstleistungen oder über die nicht in einem bestimmten Volumen oder in einer bestimmten Menge vereinbarte Lieferung von Wasser, Gas, Strom oder die Lieferung von Fernwärme einen angemessenen Betrag nach § 357 Absatz 8 des Bürgerlichen Gesetzbuchs für die vom Unternehmer erbrachte Leistung schuldet, wenn der Verbraucher das Widerrufsrecht ausübt, nachdem er auf Aufforderung des Unternehmers von diesem ausdrücklich den Beginn der Leistung vor Ablauf der Widerrufsfrist verlangt hat.
+
+Der Unternehmer kann diese Informationspflichten dadurch erfüllen, dass er das in der Anlage 1 vorgesehene Muster für die Widerrufsbelehrung zutreffend ausgefüllt in Textform übermittelt.
+
+(3) Der Unternehmer hat den Verbraucher auch zu informieren, wenn
+
+1.  
+dem Verbraucher nach § 312g Absatz 2 Satz 1 Nummer 1, 2, 5 und 7 bis 13 des Bürgerlichen Gesetzbuchs ein Widerrufsrecht nicht zusteht, dass der Verbraucher seine Willenserklärung nicht widerrufen kann, oder
+
+2.  
+das Widerrufsrecht des Verbrauchers nach § 312g Absatz 2 Satz 1 Nummer 3, 4 und 6 sowie § 356 Absatz 4 und 5 des Bürgerlichen Gesetzbuchs vorzeitig erlöschen kann, über die Umstände, unter denen der Verbraucher ein zunächst bestehendes Widerrufsrecht verliert.
+
+Art 246a
+--------
+
+### § 2 Erleichterte Informationspflichten bei Reparatur- und Instandhaltungsarbeiten
+
+(1) Hat der Verbraucher bei einem Vertrag über Reparatur- und Instandhaltungsarbeiten, der außerhalb von Geschäftsräumen geschlossen wird, bei dem die beiderseitigen Leistungen sofort erfüllt werden und die vom Verbraucher zu leistende Vergütung 200 Euro nicht übersteigt, ausdrücklich die Dienste des Unternehmers angefordert, muss der Unternehmer dem Verbraucher lediglich folgende Informationen zur Verfügung stellen:
+
+1.  
+die Angaben nach § 1 Absatz 1 Satz 1 Nummer 2 und
+
+2.  
+den Preis oder die Art der Preisberechnung zusammen mit einem Kostenvoranschlag über die Gesamtkosten.
+
+(2) Ferner hat der Unternehmer dem Verbraucher folgende Informationen zur Verfügung zu stellen:
+
+1.  
+die wesentlichen Eigenschaften der Waren oder Dienstleistungen in dem für das Kommunikationsmittel und die Waren oder Dienstleistungen angemessenen Umfang,
+
+2.  
+gegebenenfalls die Bedingungen, die Fristen und das Verfahren für die Ausübung des Widerrufsrechts sowie das Muster-Widerrufsformular in der Anlage 2 und
+
+3.  
+gegebenenfalls die Information, dass der Verbraucher seine Willenserklärung nicht widerrufen kann, oder die Umstände, unter denen der Verbraucher ein zunächst bestehendes Widerrufsrecht vorzeitig verliert.
+
+(3) Eine vom Unternehmer zur Verfügung gestellte Abschrift oder Bestätigung des Vertrags nach § 312f Absatz 1 des Bürgerlichen Gesetzbuchs muss alle nach § 1 zu erteilenden Informationen enthalten.
+
+Art 246a
+--------
+
+### § 3 Erleichterte Informationspflichten bei begrenzter Darstellungsmöglichkeit
+
+Soll ein Fernabsatzvertrag mittels eines Fernkommunikationsmittels geschlossen werden, das nur begrenzten Raum oder begrenzte Zeit für die dem Verbraucher zu erteilenden Informationen bietet, ist der Unternehmer verpflichtet, dem Verbraucher mittels dieses Fernkommunikationsmittels zumindest folgende Informationen zur Verfügung zu stellen:
+
+1.  
+die wesentlichen Eigenschaften der Waren oder Dienstleistungen,
+
+2.  
+die Identität des Unternehmers,
+
+3.  
+den Gesamtpreis oder in den Fällen, in denen der Preis auf Grund der Beschaffenheit der Waren oder Dienstleistungen vernünftigerweise nicht im Voraus berechnet werden kann, die Art der Preisberechnung,
+
+4.  
+gegebenenfalls das Bestehen eines Widerrufsrechts und
+
+5.  
+gegebenenfalls die Vertragslaufzeit und die Bedingungen für die Kündigung eines Dauerschuldverhältnisses.
+
+Die weiteren Angaben nach § 1 hat der Unternehmer dem Verbraucher in geeigneter Weise unter Beachtung von § 4 Absatz 3 zugänglich zu machen.
+
+Art 246a
+--------
+
+### § 4 Formale Anforderungen an die Erfüllung der Informationspflichten
+
+(1) Der Unternehmer muss dem Verbraucher die Informationen nach den §§ 1 bis 3 vor Abgabe von dessen Vertragserklärung in klarer und verständlicher Weise zur Verfügung stellen.
+
+(2) Bei einem außerhalb von Geschäftsräumen geschlossenen Vertrag muss der Unternehmer die Informationen auf Papier oder, wenn der Verbraucher zustimmt, auf einem anderen dauerhaften Datenträger zur Verfügung stellen. Die Informationen müssen lesbar sein. Die Person des erklärenden Unternehmers muss genannt sein. Der Unternehmer kann die Informationen nach § 2 Absatz 2 in anderer Form zur Verfügung stellen, wenn sich der Verbraucher hiermit ausdrücklich einverstanden erklärt hat.
+
+(3) Bei einem Fernabsatzvertrag muss der Unternehmer dem Verbraucher die Informationen in einer den benutzten Fernkommunikationsmitteln angepassten Weise zur Verfügung stellen. Soweit die Informationen auf einem dauerhaften Datenträger zur Verfügung gestellt werden, müssen sie lesbar sein, und die Person des erklärenden Unternehmers muss genannt sein. Abweichend von Satz 1 kann der Unternehmer dem Verbraucher die in § 3 Satz 2 genannten Informationen in geeigneter Weise zugänglich machen.
+
+Art 246b Informationspflichten bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen über Finanzdienstleistungen
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+### 
+
+Art 246b
+--------
+
+### § 1 Informationspflichten
+
+(1) Der Unternehmer ist nach § 312d Absatz 2 des Bürgerlichen Gesetzbuchs verpflichtet, dem Verbraucher rechtzeitig vor Abgabe von dessen Vertragserklärung klar und verständlich und unter Angabe des geschäftlichen Zwecks, bei Fernabsatzverträgen in einer dem benutzten Fernkommunikationsmittel angepassten Weise, folgende Informationen zur Verfügung zu stellen:
 
 1.  
 seine Identität, anzugeben ist auch das öffentliche Unternehmensregister, bei dem der Rechtsträger eingetragen ist, und die zugehörige Registernummer oder gleichwertige Kennung,
 
 2.  
-die Identität eines Vertreters des Unternehmers in dem Mitgliedstaat, in dem der Verbraucher seinen Wohnsitz hat, wenn es einen solchen Vertreter gibt, oder die Identität einer anderen gewerblich tätigen Person als dem Anbieter, wenn der Verbraucher mit dieser geschäftlich zu tun hat, und die Eigenschaft, in der diese Person gegenüber dem Verbraucher tätig wird,
-
-3.  
-die ladungsfähige Anschrift des Unternehmers und jede andere Anschrift, die für die Geschäftsbeziehung zwischen diesem, seinem Vertreter oder einer anderen gewerblich tätigen Person gemäß Nummer 2 und dem Verbraucher maßgeblich ist, bei juristischen Personen, Personenvereinigungen oder Personengruppen auch den Namen eines Vertretungsberechtigten,
-
-4.  
-die wesentlichen Merkmale der Ware oder Dienstleistung sowie Informationen darüber, wie der Vertrag zustande kommt,
-
-5.  
-die Mindestlaufzeit des Vertrags, wenn dieser eine dauernde oder regelmäßig wiederkehrende Leistung zum Inhalt hat,
-
-6.  
-einen Vorbehalt, eine in Qualität und Preis gleichwertige Leistung (Ware oder Dienstleistung) zu erbringen, und einen Vorbehalt, die versprochene Leistung im Fall ihrer Nichtverfügbarkeit nicht zu erbringen,
-
-7.  
-den Gesamtpreis der Ware oder Dienstleistung einschließlich aller damit verbundenen Preisbestandteile sowie alle über den Unternehmer abgeführten Steuern oder, wenn kein genauer Preis angegeben werden kann, seine Berechnungsgrundlage, die dem Verbraucher eine Überprüfung des Preises ermöglicht,
-
-8.  
-gegebenenfalls zusätzlich anfallende Liefer- und Versandkosten sowie einen Hinweis auf mögliche weitere Steuern oder Kosten, die nicht über den Unternehmer abgeführt oder von ihm in Rechnung gestellt werden,
-
-9.  
-die Einzelheiten hinsichtlich der Zahlung und der Lieferung oder Erfüllung,
-
-10.  
-das Bestehen oder Nichtbestehen eines Widerrufs- oder Rückgaberechts sowie die Bedingungen, Einzelheiten der Ausübung, insbesondere den Namen und die Anschrift desjenigen, gegenüber dem der Widerruf zu erklären ist, und die Rechtsfolgen des Widerrufs oder der Rückgabe einschließlich Informationen über den Betrag, den der Verbraucher im Fall des Widerrufs oder der Rückgabe gemäß § 357 Abs. 1 des Bürgerlichen Gesetzbuchs für die erbrachte Dienstleistung zu zahlen hat,
-
-11.  
-alle spezifischen zusätzlichen Kosten, die der Verbraucher für die Benutzung des Fernkommunikationsmittels zu tragen hat, wenn solche zusätzlichen Kosten durch den Unternehmer in Rechnung gestellt werden, und
-
-12.  
-eine Befristung der Gültigkeitsdauer der zur Verfügung gestellten Informationen, beispielsweise die Gültigkeitsdauer befristeter Angebote, insbesondere hinsichtlich des Preises.
-
-(2) Bei Fernabsatzverträgen über Finanzdienstleistungen muss der Unternehmer dem Verbraucher rechtzeitig vor Abgabe von dessen Vertragserklärung ferner folgende Informationen in der in Absatz 1 genannten Art und Weise zur Verfügung stellen:
-
-1.  
 die Hauptgeschäftstätigkeit des Unternehmers und die für seine Zulassung zuständige Aufsichtsbehörde,
 
-2.  
-gegebenenfalls den Hinweis, dass sich die Finanzdienstleistung auf Finanzinstrumente bezieht, die wegen ihrer spezifischen Merkmale oder der durchzuführenden Vorgänge mit speziellen Risiken behaftet sind oder deren Preis Schwankungen auf dem Finanzmarkt unterliegt, auf die der Unternehmer keinen Einfluss hat, und dass in der Vergangenheit erwirtschaftete Erträge kein Indikator für künftige Erträge sind,
-
 3.  
-die vertraglichen Kündigungsbedingungen einschließlich etwaiger Vertragsstrafen,
+die Identität des Vertreters des Unternehmers in dem Mitgliedstaat, in dem der Verbraucher seinen Wohnsitz hat, wenn es einen solchen Vertreter gibt, oder die Identität einer anderen gewerblich tätigen Person als dem Anbieter, wenn der Verbraucher mit dieser Person geschäftlich zu tun hat, und die Eigenschaft, in der diese Person gegenüber dem Verbraucher tätig wird,
 
 4.  
-die Mitgliedstaaten der Europäischen Union, deren Recht der Unternehmer der Aufnahme von Beziehungen zum Verbraucher vor Abschluss des Fernabsatzvertrags zugrunde legt,
+die ladungsfähige Anschrift des Unternehmers und jede andere Anschrift, die für die Geschäftsbeziehung zwischen diesem, seinem Vertreter oder einer anderen gewerblich tätigen Person nach Nummer 3 und dem Verbraucher maßgeblich ist, bei juristischen Personen, Personenvereinigungen oder Personengruppen auch den Namen des Vertretungsberechtigten,
 
 5.  
-eine Vertragsklausel über das auf den Fernabsatzvertrag anwendbare Recht oder über das zuständige Gericht,
+die wesentlichen Merkmale der Finanzdienstleistung sowie Informationen darüber, wie der Vertrag zustande kommt,
 
 6.  
-die Sprachen, in welchen die Vertragsbedingungen und die in dieser Vorschrift genannten Vorabinformationen mitgeteilt werden, sowie die Sprachen, in welchen sich der Unternehmer verpflichtet, mit Zustimmung des Verbrauchers die Kommunikation während der Laufzeit dieses Vertrags zu führen,
+den Gesamtpreis der Finanzdienstleistung einschließlich aller damit verbundenen Preisbestandteile sowie alle über den Unternehmer abgeführten Steuern oder, wenn kein genauer Preis angegeben werden kann, seine Berechnungsgrundlage, die dem Verbraucher eine Überprüfung des Preises ermöglicht,
 
 7.  
-einen möglichen Zugang des Verbrauchers zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren und gegebenenfalls die Voraussetzungen für diesen Zugang und
+gegebenenfalls zusätzlich anfallende Kosten sowie einen Hinweis auf mögliche weitere Steuern oder Kosten, die nicht über den Unternehmer abgeführt oder von ihm in Rechnung gestellt werden,
 
 8.  
-das Bestehen eines Garantiefonds oder anderer Entschädigungsregelungen, die nicht unter die Richtlinie 94/19/EG des Europäischen Parlaments und des Rates vom 30. Mai 1994 über Einlagensicherungssysteme (ABl. EG Nr. L 135 S. 5) und die Richtlinie 97/9/EG des Europäischen Parlaments und des Rates vom 3. März 1997 über Systeme für die Entschädigung der Anleger (ABl. EG Nr. L 84 S. 22) fallen.
+gegebenenfalls den Hinweis, dass sich die Finanzdienstleistung auf Finanzinstrumente bezieht, die wegen ihrer spezifischen Merkmale oder der durchzuführenden Vorgänge mit speziellen Risiken behaftet sind oder deren Preis Schwankungen auf dem Finanzmarkt unterliegt, auf die der Unternehmer keinen Einfluss hat, und dass in der Vergangenheit erwirtschaftete Erträge kein Indikator für künftige Erträge sind,
 
-(3) Bei Telefongesprächen hat der Unternehmer dem Verbraucher nur Informationen nach Absatz 1 zur Verfügung zu stellen, wobei eine Angabe gemäß Absatz 1 Nr. 3 nur erforderlich ist, wenn der Verbraucher eine Vorauszahlung zu leisten hat. Satz 1 gilt nur, wenn der Unternehmer den Verbraucher darüber informiert hat, dass auf Wunsch weitere Informationen übermittelt werden können und welcher Art diese Informationen sind, und der Verbraucher ausdrücklich auf die Übermittlung der weiteren Informationen vor Abgabe seiner Vertragserklärung verzichtet hat.
+9.  
+eine Befristung der Gültigkeitsdauer der zur Verfügung gestellten Informationen, beispielsweise die Gültigkeitsdauer befristeter Angebote, insbesondere hinsichtlich des Preises,
 
-Art 246
--------
+10.  
+Einzelheiten hinsichtlich der Zahlung und der Erfüllung,
 
-### § 2 Weitere Informationspflichten bei Fernabsatzverträgen
+11.  
+alle spezifischen zusätzlichen Kosten, die der Verbraucher für die Benutzung des Fernkommunikationsmittels zu tragen hat, wenn solche zusätzlichen Kosten durch den Unternehmer in Rechnung gestellt werden,
 
-(1) Der Unternehmer hat dem Verbraucher ferner die in Satz 2 bestimmten Informationen in Textform mitzuteilen, und zwar bei
+12.  
+das Bestehen oder Nichtbestehen eines Widerrufsrechts sowie die Bedingungen, Einzelheiten der Ausübung, insbesondere Name und Anschrift desjenigen, gegenüber dem der Widerruf zu erklären ist, und die Rechtsfolgen des Widerrufs einschließlich Informationen über den Betrag, den der Verbraucher im Falle des Widerrufs nach § 357a des Bürgerlichen Gesetzbuchs für die erbrachte Leistung zu zahlen hat,
+
+13.  
+die Mindestlaufzeit des Vertrags, wenn dieser eine dauernde oder regelmäßig wiederkehrende Leistung zum Inhalt hat,
+
+14.  
+die vertraglichen Kündigungsbedingungen einschließlich etwaiger Vertragsstrafen,
+
+15.  
+die Mitgliedstaaten der Europäischen Union, deren Recht der Unternehmer der Aufnahme von Beziehungen zum Verbraucher vor Abschluss des Vertrags zugrunde legt,
+
+16.  
+eine Vertragsklausel über das auf den Vertrag anwendbare Recht oder über das zuständige Gericht,
+
+17.  
+die Sprachen, in welchen die Vertragsbedingungen und die in dieser Vorschrift genannten Vorabinformationen mitgeteilt werden, sowie die Sprachen, in welchen sich der Unternehmer verpflichtet, mit Zustimmung des Verbrauchers die Kommunikation während der Laufzeit dieses Vertrags zu führen,
+
+18.  
+gegebenenfalls, dass der Verbraucher ein außergerichtliches Beschwerde- und Rechtsbehelfsverfahren, dem der Unternehmer unterworfen ist, nutzen kann, und dessen Zugangsvoraussetzungen und
+
+19.  
+das Bestehen eines Garantiefonds oder anderer Entschädigungsregelungen, die weder unter die Richtlinie 94/19/EG des Europäischen Parlaments und des Rates vom 30. Mai 1994 über Einlagensicherungssysteme (ABl. L 135 vom 31.5.1994, S. 5) noch unter die Richtlinie 97/9/EG des Europäischen Parlaments und des Rates vom 3. März 1997 über Systeme für die Entschädigung der Anleger (ABl. L 84 vom 26.3.1997, S. 22) fallen.
+
+(2) Bei Telefongesprächen hat der Unternehmer nur folgende Informationen zur Verfügung zu stellen:
 
 1.  
-Finanzdienstleistungen rechtzeitig vor Abgabe von dessen Vertragserklärung oder, wenn auf Verlangen des Verbrauchers der Vertrag telefonisch oder unter Verwendung eines anderen Fernkommunikationsmittels geschlossen wird, das die Mitteilung in Textform vor Vertragsschluss nicht gestattet, unverzüglich nach Abschluss des Fernabsatzvertrags,
+die Identität der Kontaktperson des Verbrauchers und deren Verbindung zum Unternehmer,
 
 2.  
-sonstigen Dienstleistungen und bei der Lieferung von Waren alsbald, spätestens bis zur vollständigen Erfüllung des Vertrags, bei Waren spätestens bis zur Lieferung an den Verbraucher.
-
-Der Unternehmer hat dem Verbraucher gemäß Satz 1 mitzuteilen:
-
-1.  
-die Vertragsbestimmungen einschließlich der Allgemeinen Geschäftsbedingungen,
-
-2.  
-die in § 1 Abs. 1 genannten Informationen,
+die Beschreibung der Hauptmerkmale der Finanzdienstleistung,
 
 3.  
-bei Finanzdienstleistungen auch die in § 1 Abs. 2 genannten Informationen und
+den Gesamtpreis, den der Verbraucher dem Unternehmer für die Finanzdienstleistung schuldet, einschließlich aller über den Unternehmer abgeführten Steuern, oder, wenn kein genauer Preis angegeben werden kann, die Grundlage für die Berechnung des Preises, die dem Verbraucher eine Überprüfung des Preises ermöglicht,
 
 4.  
-bei der Lieferung von Waren und sonstigen Dienstleistungen ferner
+mögliche weitere Steuern und Kosten, die nicht über den Unternehmer abgeführt oder von ihm in Rechnung gestellt werden, und
 
-a)  
-die in § 1 Abs. 2 Nr. 3 genannten Informationen bei Verträgen, die ein Dauerschuldverhältnis betreffen und für eine längere Zeit als ein Jahr oder für unbestimmte Zeit geschlossen sind, sowie
+5.  
+das Bestehen oder Nichtbestehen eines Widerrufsrechts sowie für den Fall, dass ein Widerrufsrecht besteht, auch die Widerrufsfrist und die Bedingungen, Einzelheiten der Ausübung und die Rechtsfolgen des Widerrufs einschließlich Informationen über den Betrag, den der Verbraucher im Falle des Widerrufs nach § 357a des Bürgerlichen Gesetzbuchs für die erbrachte Leistung zu zahlen hat.
 
-b)  
-Informationen über Kundendienst und geltende Gewährleistungs- und Garantiebedingungen.
+Satz 1 gilt nur, wenn der Unternehmer den Verbraucher darüber informiert hat, dass auf Wunsch weitere Informationen übermittelt werden können und welcher Art diese Informationen sind, und der Verbraucher ausdrücklich auf die Übermittlung der weiteren Informationen vor Abgabe seiner Vertragserklärung verzichtet hat.
 
-(2) Eine Mitteilung nach Absatz 1 Satz 1 Nr. 2 in Verbindung mit Absatz 1 Satz 2 ist entbehrlich bei Dienstleistungen, die unmittelbar durch Einsatz von Fernkommunikationsmitteln erbracht werden, sofern diese Leistungen in einem Mal erfolgen und über den Betreiber der Fernkommunikationsmittel abgerechnet werden. Der Verbraucher muss sich in diesem Fall aber über die Anschrift der Niederlassung des Unternehmers informieren können, bei der er Beanstandungen vorbringen kann.
+Art 246b
+--------
 
-(3) Zur Erfüllung seiner Informationspflicht gemäß Absatz 1 Satz 2 Nr. 2 in Verbindung mit § 1 Abs. 1 Nr. 10 über das Bestehen eines Widerrufs- oder Rückgaberechts kann der Unternehmer die in den Anlagen 1 und 2 für die Belehrung über das Widerrufs- oder Rückgaberecht vorgesehenen Muster in Textform verwenden. Soweit die nach Absatz 1 Satz 2 Nr. 2 in Verbindung mit § 1 Abs. 1 Nr. 3 und 10, nach Absatz 1 Satz 2 Nr. 3 in Verbindung mit § 1 Abs. 2 Nr. 3 und nach Absatz 1 Satz 2 Nr. 4 Buchstabe b mitzuteilenden Informationen in den Vertragsbestimmungen einschließlich der Allgemeinen Geschäftsbedingungen enthalten sind, bedürfen sie einer hervorgehobenen und deutlich gestalteten Form.
+### § 2 Weitere Informationspflichten
 
-Art 246
--------
+(1) Der Unternehmer hat dem Verbraucher rechtzeitig vor Abgabe von dessen Vertragserklärung die folgenden Informationen auf einem dauerhaften Datenträger mitzuteilen:
 
-### § 3 Informationspflichten bei Verträgen im elektronischen Geschäftsverkehr
+1.  
+die Vertragsbestimmungen einschließlich der Allgemeinen Geschäftsbedingungen und
+
+2.  
+die in § 1 Absatz 1 genannten Informationen.
+
+Wird der Vertrag auf Verlangen des Verbrauchers telefonisch oder unter Verwendung eines anderen Fernkommunikationsmittels geschlossen, das die Mitteilung auf einem dauerhaften Datenträger vor Vertragsschluss nicht gestattet, hat der Unternehmer dem Verbraucher abweichend von Satz 1 die Informationen unverzüglich nach Abschluss des Fernabsatzvertrags zu übermitteln.
+
+(2) Der Verbraucher kann während der Laufzeit des Vertrags vom Unternehmer jederzeit verlangen, dass dieser ihm die Vertragsbedingungen einschließlich der Allgemeinen Geschäftsbedingungen in Papierform zur Verfügung stellt.
+
+(3) Zur Erfüllung seiner Informationspflicht nach Absatz 1 Satz 1 Nummer 2 in Verbindung mit § 1 Absatz 1 Nummer 12 über das Bestehen eines Widerrufsrechts kann der Unternehmer dem Verbraucher das in der Anlage 3 vorgesehene Muster für die Widerrufsbelehrung bei Finanzdienstleistungsverträgen zutreffend ausgefüllt in Textform übermitteln.
+
+Art 246c Informationspflichten bei Verträgen im elektronischen Geschäftsverkehr
+-------------------------------------------------------------------------------
+
+### 
 
 Bei Verträgen im elektronischen Geschäftsverkehr muss der Unternehmer den Kunden unterrichten
 
@@ -3640,7 +3881,7 @@ Bei Verträgen im elektronischen Geschäftsverkehr muss der Unternehmer den Kund
 darüber, ob der Vertragstext nach dem Vertragsschluss von dem Unternehmer gespeichert wird und ob er dem Kunden zugänglich ist,
 
 3.  
-darüber, wie er mit den gemäß § 312g Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs zur Verfügung gestellten technischen Mitteln Eingabefehler vor Abgabe der Vertragserklärung erkennen und berichtigen kann,
+darüber, wie er mit den nach § 312i Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs zur Verfügung gestellten technischen Mitteln Eingabefehler vor Abgabe der Vertragserklärung erkennen und berichtigen kann,
 
 4.  
 über die für den Vertragsschluss zur Verfügung stehenden Sprachen und
@@ -3656,25 +3897,33 @@ Art 247 Informationspflichten bei Verbraucherdarlehensverträgen, entgeltlichen 
 Art 247
 -------
 
-### § 1 Form und Zeitpunkt der vorvertraglichen Information
+### § 1 Vorvertragliche Informationen bei Immobiliar-Verbraucherdarlehensverträgen
 
-Die Unterrichtung nach § 491a Abs. 1 des Bürgerlichen Gesetzbuchs muss rechtzeitig vor dem Abschluss eines Verbraucherdarlehensvertrags in Textform erfolgen und die sich aus den §§ 3 bis 5 und 8 bis 13 ergebenden Einzelheiten enthalten.
+(1) Bei einem Immobiliar-Verbraucherdarlehensvertrag muss der Darlehensgeber dem Darlehensnehmer mitteilen, welche Informationen und Nachweise er innerhalb welchen Zeitraums von ihm benötigt, um eine ordnungsgemäße Kreditwürdigkeitsprüfung durchführen zu können. Er hat den Darlehensnehmer darauf hinzuweisen, dass eine Kreditwürdigkeitsprüfung für den Abschluss des Darlehensvertrags zwingend ist und nur durchgeführt werden kann, wenn die hierfür benötigten Informationen und Nachweise richtig sind und vollständig beigebracht werden.
 
-Art 247
--------
+(2) Der Darlehensgeber muss dem Darlehensnehmer die vorvertraglichen Informationen in Textform übermitteln, und zwar unverzüglich nachdem er die Angaben gemäß Absatz 1 erhalten hat und rechtzeitig vor Abgabe der Vertragserklärung des Darlehensnehmers. Dafür muss der Darlehensgeber das entsprechend ausgefüllte Europäische Standardisierte Merkblatt gemäß dem Muster in Anlage 6 (ESIS-Merkblatt) verwenden. Der Darlehensgeber hat das ESIS-Merkblatt auch jedem Vertragsangebot und jedem Vertragsvorschlag, an dessen Bedingungen er sich bindet, beizufügen. Dies gilt nicht, wenn der Darlehensnehmer bereits ein Merkblatt erhalten hat, das über die speziellen Bedingungen des Vertragsangebots oder Vertragsvorschlags informiert. Jeder bindende Vertragsvorschlag ist dem Darlehensnehmer in Textform zur Verfügung zu stellen. Ist der Darlehensvertrag zugleich ein außerhalb von Geschäftsräumen geschlossener Vertrag oder ein Fernabsatzvertrag, gelten mit der Übermittlung des ESIS-Merkblatts auch die Anforderungen des § 312d Absatz 2 des Bürgerlichen Gesetzbuchs als erfüllt.
 
-### § 2 Muster
+(3) Weitere vorvertragliche Informationen sind, soweit nichts anderes bestimmt ist, in einem gesonderten Dokument zu erteilen, das dem ESIS-Merkblatt beigefügt werden kann. Die weiteren vorvertraglichen Informationen müssen auch einen deutlich gestalteten Hinweis darauf enthalten, dass der Darlehensgeber Forderungen aus dem Darlehensvertrag ohne Zustimmung des Darlehensnehmers abtreten und das Vertragsverhältnis auf einen Dritten übertragen darf, soweit nicht die Abtretung im Vertrag ausgeschlossen wird oder der Darlehensnehmer der Übertragung zustimmen muss.
 
-(1) Die Unterrichtung hat unter Verwendung der Europäischen Standardinformation für Verbraucherkredite gemäß dem Muster in Anlage 3 zu erfolgen, wenn nicht ein Vertrag gemäß § 495 Abs. 3 Nr. 1, § 503 oder § 504 Abs. 2 des Bürgerlichen Gesetzbuchs abgeschlossen werden soll.
-
-(2) Soll ein Vertrag der in § 495 Abs. 3 Nr. 1 oder § 504 Abs. 2 des Bürgerlichen Gesetzbuchs bezeichneten Art abgeschlossen werden, kann der Darlehensgeber zur Unterrichtung die Europäische Verbraucherkreditinformation gemäß dem Muster in Anlage 4 verwenden. Bei Verträgen gemäß § 503 des Bürgerlichen Gesetzbuchs kann der Darlehensgeber das Europäische Standardisierte Merkblatt gemäß dem Muster in Anlage 5 verwenden. Verwendet der Darlehensgeber die Muster nicht, hat er bei der Unterrichtung alle nach den §§ 3 bis 5 und 8 bis 13 erforderlichen Angaben gleichartig zu gestalten und hervorzuheben.
-
-(3) Die Verpflichtung zur Unterrichtung nach § 491a Abs. 1 des Bürgerlichen Gesetzbuchs gilt als erfüllt, wenn der Darlehensgeber dem Darlehensnehmer das ordnungsgemäß ausgefüllte Muster in Textform übermittelt hat. Ist der Darlehensvertrag zugleich ein Fernabsatzvertrag, gelten mit der Übermittlung des entsprechenden Musters auch die Anforderungen des § 312c Abs. 1 des Bürgerlichen Gesetzbuchs als erfüllt. Die in diesem Absatz genannten Verpflichtungen gelten bis 31. Dezember 2010 auch bei Übermittlung des Musters in Anlage 3 und 4 in der Fassung des Gesetzes zur Umsetzung der Verbraucherkreditrichtlinie, des zivilrechtlichen Teils der Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften über das Widerrufs- und Rückgaberecht vom 29. Juli 2009 (BGBl. I S. 2355) als erfüllt.
+(4) Wenn der Darlehensgeber entscheidet, den Darlehensvertrag nicht abzuschließen, muss er dies dem Darlehensnehmer unverzüglich mitteilen.
 
 Art 247
 -------
 
-### § 3 Inhalt der vorvertraglichen Information
+### § 2 Form, Zeitpunkt und Muster der vorvertraglichen Informationen bei Allgemein-Verbraucherdarlehensverträgen
+
+(1) Bei einem Allgemein-Verbraucherdarlehensvertrag muss der Darlehensgeber den Darlehensnehmer über die Einzelheiten nach den §§ 3 bis 5 und 8 bis 13 unterrichten, und zwar rechtzeitig vor Abgabe der Vertragserklärung des Darlehensnehmers. Die Unterrichtung erfolgt in Textform.
+
+(2) Für die Unterrichtung nach Absatz 1 ist vorbehaltlich des Absatzes 3 die Europäische Standardinformation für Verbraucherkredite gemäß dem Muster in Anlage 4 zu verwenden.
+
+(3) Soll ein Allgemein-Verbraucherdarlehensvertrag gemäß § 495 Absatz 2 Nummer 1 oder § 504 Absatz 2 des Bürgerlichen Gesetzbuchs abgeschlossen werden, kann der Darlehensgeber zur Unterrichtung die Europäische Verbraucherkreditinformation gemäß dem Muster in Anlage 5 verwenden. Verwendet der Darlehensgeber das Muster nicht, hat er bei der Unterrichtung alle nach den §§ 3 bis 5 und 8 bis 13 erforderlichen Angaben gleichartig zu gestalten und hervorzuheben.
+
+(4) Die Verpflichtung zur Unterrichtung nach § 491a Abs. 1 des Bürgerlichen Gesetzbuchs gilt als erfüllt, wenn der Darlehensgeber dem Darlehensnehmer das ordnungsgemäß ausgefüllte Muster in Textform übermittelt hat. Ist der Darlehensvertrag zugleich ein Fernabsatzvertrag oder ein außerhalb von Geschäftsräumen geschlossener Vertrag, gelten mit der Übermittlung des entsprechenden ausgefüllten Musters auch die Anforderungen des § 312d Absatz 2 des Bürgerlichen Gesetzbuchs als erfüllt. Die in diesem Absatz genannten Verpflichtungen gelten bis 31. Dezember 2010 auch bei Übermittlung des Musters in den Anlagen 4 und 5 in der Fassung des Gesetzes zur Umsetzung der Verbraucherkreditrichtlinie, des zivilrechtlichen Teils der Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften über das Widerrufs- und Rückgaberecht vom 29. Juli 2009 (BGBl. I S. 2355) als erfüllt.
+
+Art 247
+-------
+
+### § 3 Inhalt der vorvertraglichen Information bei Allgemein-Verbraucherdarlehensverträgen
 
 (1) Die Unterrichtung vor Vertragsschluss muss folgende Informationen enthalten:
 
@@ -3735,9 +3984,9 @@ die sich aus § 29 Abs. 7 des Bundesdatenschutzgesetzes ergebenden Rechte.
 Art 247
 -------
 
-### § 4 Weitere Angaben bei der vorvertraglichen Information
+### § 4 Weitere Angaben bei der vorvertraglichen Information bei Allgemein-Verbraucherdarlehensverträgen
 
-(1) Die Unterrichtung muss folgende Angaben enthalten, soweit sie für den in Betracht kommenden Vertragsabschluss erheblich sind:
+(1) Die Unterrichtung muss bei Allgemein-Verbraucherdarlehensverträgen folgende Angaben enthalten, soweit sie für den in Betracht kommenden Vertragsabschluss erheblich sind:
 
 1.  
 einen Hinweis, dass der Darlehensnehmer infolge des Vertragsabschlusses Notarkosten zu tragen hat,
@@ -3751,14 +4000,16 @@ den Anspruch auf Vorfälligkeitsentschädigung und dessen Berechnungsmethode, so
 4.  
 gegebenenfalls den Zeitraum, für den sich der Darlehensgeber an die übermittelten Informationen bindet.
 
-(2) Weitere Hinweise des Darlehensgebers müssen räumlich getrennt von den Angaben nach Absatz 1 und nach den §§ 3 und 8 bis 13 erteilt werden.
+(2) Weitere Hinweise des Darlehensgebers müssen räumlich getrennt von den Angaben nach Absatz 1 und nach den §§ 3 und 8 bis 13a übermittelt werden.
 
 Art 247
 -------
 
 ### § 5 Information bei besonderen Kommunikationsmitteln
 
-Wählt der Darlehensnehmer für die Vertragsanbahnung Kommunikationsmittel, die die Übermittlung der vorstehenden Informationen in der in den §§ 1 und 2 vorgesehenen Form nicht gestatten, ist die vollständige Unterrichtung nach § 1 unverzüglich nachzuholen. Bei Telefongesprächen muss die Beschreibung der wesentlichen Merkmale nach Artikel 246 § 1 Abs. 1 Nr. 4 zumindest die Angaben nach § 3 Abs. 1 Nr. 3 bis 9, Abs. 3 und 4 enthalten.
+(1) Wählt der Darlehensnehmer für die Vertragsanbahnung bei Allgemein-Verbraucherdarlehensverträgen Kommunikationsmittel, die die Übermittlung der vorstehenden Informationen in der in § 2 vorgesehenen Form nicht gestatten, ist die vollständige Unterrichtung nach § 2 unverzüglich nachzuholen. Bei Telefongesprächen muss die Beschreibung der wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 5 zumindest die Angaben nach § 3 Abs. 1 Nr. 3 bis 9, Abs. 3 und 4 enthalten.
+
+(2) Bei Telefongesprächen, die sich auf Immobiliar-Verbraucherdarlehensverträge beziehen, muss die Beschreibung der wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 5 zumindest die Angaben nach Teil A Abschnitt 3 bis 6 des ESIS-Merkblatts gemäß dem Muster in Anlage 6 enthalten.
 
 Art 247
 -------
@@ -3785,16 +4036,18 @@ das einzuhaltende Verfahren bei der Kündigung des Vertrags,
 6.  
 sämtliche weitere Vertragsbedingungen.
 
-(2) Besteht ein Widerrufsrecht nach § 495 des Bürgerlichen Gesetzbuchs, müssen im Vertrag Angaben zur Frist und zu anderen Umständen für die Erklärung des Widerrufs sowie ein Hinweis auf die Verpflichtung des Darlehensnehmers enthalten sein, ein bereits ausbezahltes Darlehen zurückzuzahlen und Zinsen zu vergüten. Der pro Tag zu zahlende Zinsbetrag ist anzugeben. Enthält der Verbraucherdarlehensvertrag eine Vertragsklausel in hervorgehobener und deutlich gestalteter Form, die dem Muster in Anlage 6 entspricht, genügt diese den Anforderungen der Sätze 1 und 2. Dies gilt bis zum Ablauf des 4. November 2011 auch bei entsprechender Verwendung dieses Musters in der Fassung des Gesetzes zur Einführung einer Musterwiderrufsinformation für Verbraucherdarlehensverträge, zur Änderung der Vorschriften über das Widerrufsrecht bei Verbraucherdarlehensverträgen und zur Änderung des Darlehensvermittlungsrechts vom 24. Juli 2010 (BGBl. I S. 977). Der Darlehensgeber darf unter Beachtung von Satz 3 in Format und Schriftgröße jeweils von dem Muster abweichen.
+Bei einem Immobiliar-Verbraucherdarlehensvertrag sind abweichend von Satz 1 nur die in § 3 Absatz 1 Nummer 1 bis 7, 10 und 13 sowie Absatz 4 genannten Angaben zwingend. Abweichend von § 3 Absatz 1 Nummer 7 ist die Anzahl der Teilzahlungen nicht anzugeben, wenn die Laufzeit des Darlehensvertrags von dem Zeitpunkt der Zuteilung eines Bausparvertrags abhängt.
 
-(3) Die Angabe des Gesamtbetrags und des effektiven Jahreszinses hat unter Angabe der Annahmen zu erfolgen, die zum Zeitpunkt des Abschlusses des Vertrags bekannt sind und die in die Berechnung des effektiven Jahreszinses einfließen.
+(2) Besteht ein Widerrufsrecht nach § 495 des Bürgerlichen Gesetzbuchs, müssen im Vertrag Angaben zur Frist und zu anderen Umständen für die Erklärung des Widerrufs sowie ein Hinweis auf die Verpflichtung des Darlehensnehmers enthalten sein, ein bereits ausbezahltes Darlehen zurückzuzahlen und Zinsen zu vergüten. Der pro Tag zu zahlende Zinsbetrag ist anzugeben. Enthält der Verbraucherdarlehensvertrag eine Vertragsklausel in hervorgehobener und deutlich gestalteter Form, die bei Allgemein-Verbraucherdarlehensverträgen dem Muster in Anlage 7 und bei Immobiliar-Verbraucherdarlehensverträgen dem Muster in Anlage 8 entspricht, genügt diese Vertragsklausel den Anforderungen der Sätze 1 und 2. Dies gilt bis zum Ablauf des 4. November 2011 auch bei entsprechender Verwendung dieses Musters in der Fassung des Gesetzes zur Einführung einer Musterwiderrufsinformation für Verbraucherdarlehensverträge, zur Änderung der Vorschriften über das Widerrufsrecht bei Verbraucherdarlehensverträgen und zur Änderung des Darlehensvermittlungsrechts vom 24. Juli 2010 (BGBl. I S. 977). Der Darlehensgeber darf unter Beachtung von Satz 3 in Format und Schriftgröße jeweils von dem Muster abweichen.
+
+(3) Bei Allgemein-Verbraucherdarlehensverträgen hat die Angabe des Gesamtbetrags und des effektiven Jahreszinses unter Angabe der Annahmen zu erfolgen, die zum Zeitpunkt des Abschlusses des Vertrags bekannt sind und die in die Berechnung des effektiven Jahreszinses einfließen.
 
 Art 247
 -------
 
 ### § 7 Weitere Angaben im Vertrag
 
-Der Verbraucherdarlehensvertrag muss klar und verständlich folgende Angaben enthalten, soweit sie für den Vertrag bedeutsam sind:
+(1) Der Allgemein-Verbraucherdarlehensvertrag muss folgende klar und verständlich formulierte weitere Angaben enthalten, soweit sie für den Vertrag bedeutsam sind:
 
 1.  
 einen Hinweis, dass der Darlehensnehmer Notarkosten zu tragen hat,
@@ -3808,23 +4061,29 @@ die Berechnungsmethode des Anspruchs auf Vorfälligkeitsentschädigung, soweit d
 4.  
 den Zugang des Darlehensnehmers zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren und gegebenenfalls die Voraussetzungen für diesen Zugang.
 
+(2) Der Immobiliar-Verbraucherdarlehensvertrag muss folgende klar und verständlich formulierte weitere Angaben enthalten, soweit sie für den Vertrag bedeutsam sind:
+
+1.  
+die Voraussetzungen und die Berechnungsmethode für den Anspruch auf Vorfälligkeitsentschädigung, soweit der Darlehensgeber beabsichtigt, diesen Anspruch geltend zu machen, falls der Darlehensnehmer das Darlehen vorzeitig zurückzahlt, und die sich aus § 493 Absatz 5 des Bürgerlichen Gesetzbuchs ergebenden Pflichten,
+
+2.  
+bei einem Immobiliar-Verbraucherdarlehensvertrag in Fremdwährung auch die sich aus den §§ 503 und 493 Absatz 4 des Bürgerlichen Gesetzbuchs ergebenden Rechte des Darlehensnehmers.
+
 Art 247
 -------
 
 ### § 8 Verträge mit Zusatzleistungen
 
-(1) Verlangt der Darlehensgeber zum Abschluss eines Verbraucherdarlehensvertrags, dass der Darlehensnehmer zusätzliche Leistungen des Darlehensgebers annimmt oder einen weiteren Vertrag abschließt, insbesondere einen Versicherungsvertrag oder Kontoführungsvertrag, hat der Darlehensgeber dies zusammen mit der vorvertraglichen Information anzugeben. In der vorvertraglichen Information und im Vertrag sind Kontoführungsgebühren sowie die Bedingungen, unter denen sie angepasst werden können, anzugeben.
+(1) Verlangt der Darlehensgeber zum Abschluss eines Allgemein-Verbraucherdarlehensvertrags, dass der Darlehensnehmer zusätzliche Leistungen des Darlehensgebers annimmt oder einen weiteren Vertrag abschließt, insbesondere einen Versicherungsvertrag oder Kontoführungsvertrag, hat der Darlehensgeber dies zusammen mit der vorvertraglichen Information anzugeben. In der vorvertraglichen Information sind Kontoführungsgebühren sowie die Bedingungen, unter denen sie angepasst werden können, anzugeben.
 
-(2) Dienen die vom Darlehensnehmer geleisteten Zahlungen nicht der unmittelbaren Darlehenstilgung, sind die Zeiträume und Bedingungen für die Zahlung der Sollzinsen und der damit verbundenen wiederkehrenden und nicht wiederkehrenden Kosten im Verbraucherdarlehensvertrag aufzustellen. Verpflichtet sich der Darlehensnehmer mit dem Abschluss eines Verbraucherdarlehensvertrags auch zur Vermögensbildung, muss aus der vorvertraglichen Information und aus dem Verbraucherdarlehensvertrag klar und verständlich hervorgehen, dass weder die während der Vertragslaufzeit fälligen Zahlungsverpflichtungen noch die Ansprüche, die der Darlehensnehmer aus der Vermögensbildung erwirbt, die Tilgung des Darlehens gewährleisten, es sei denn, dies wird vertraglich vereinbart.
+(2) Werden im Zusammenhang mit einem Verbraucherdarlehensvertrag Kontoführungsgebühren erhoben, so sind diese sowie die Bedingungen, unter denen die Gebühren angepasst werden können, im Vertrag anzugeben.
+
+(3) Dienen die vom Darlehensnehmer geleisteten Zahlungen nicht der unmittelbaren Darlehenstilgung, sind die Zeiträume und Bedingungen für die Zahlung der Sollzinsen und der damit verbundenen wiederkehrenden und nicht wiederkehrenden Kosten im Verbraucherdarlehensvertrag aufzustellen. Verpflichtet sich der Darlehensnehmer mit dem Abschluss eines Verbraucherdarlehensvertrags auch zur Vermögensbildung, muss aus der vorvertraglichen Information und aus dem Verbraucherdarlehensvertrag klar und verständlich hervorgehen, dass weder die während der Vertragslaufzeit fälligen Zahlungsverpflichtungen noch die Ansprüche, die der Darlehensnehmer aus der Vermögensbildung erwirbt, die Tilgung des Darlehens gewährleisten, es sei denn, dies wird vertraglich vereinbart.
 
 Art 247
 -------
 
-### § 9 Abweichende Mitteilungspflichten bei Immobiliardarlehensverträgen gemäß § 503 des Bürgerlichen Gesetzbuchs
-
-(1) Bei Verträgen gemäß § 503 des Bürgerlichen Gesetzbuchs sind in der vorvertraglichen Information und im Verbraucherdarlehensvertrag abweichend von den §§ 3 bis 8, 12 und 13 die Angaben nach § 3 Abs. 1 Nr. 1 bis 7, 10 und 13 sowie nach § 3 Abs. 4 und nach § 8 zwingend. Die vorvertragliche Information muss auch einen deutlich gestalteten Hinweis darauf enthalten, dass der Darlehensgeber Forderungen aus dem Darlehensvertrag ohne Zustimmung des Darlehensnehmers abtreten und das Vertragsverhältnis auf einen Dritten übertragen darf, soweit nicht die Abtretung im Vertrag ausgeschlossen wird oder der Darlehensnehmer der Übertragung zustimmen muss. Der Vertrag muss ferner die Angaben zum Widerrufsrecht nach § 6 Abs. 2 enthalten.
-
-(2) Die Anzahl der Teilzahlungen ist nicht anzugeben, wenn die Laufzeit des Darlehensvertrags von dem Zeitpunkt der Zuteilung eines Bausparvertrags abhängt.
+### § 9 (weggefallen)
 
 Art 247
 -------
@@ -3860,16 +4119,16 @@ die Gesamtkosten sowie
 d)  
 gegebenenfalls der Hinweis nach Nummer 1 Buchstabe c.
 
-(2) In den Fällen des § 5 muss die Beschreibung der wesentlichen Merkmale nach Artikel 246 § 1 Abs. 1 Nr. 4 zumindest die Angaben nach § 3 Absatz 1 Nummer 3 bis 5, 10, Absatz 3 und 4 sowie nach Absatz 1 Nr. 1 Buchstabe c enthalten.
+(2) In den Fällen des § 5 Absatz 1 muss die Beschreibung der wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 5 zumindest die Angaben nach § 3 Absatz 1 Nummer 3 bis 5, 10, Absatz 3 und 4 sowie nach Absatz 1 Nr. 1 Buchstabe c enthalten.
 
 (3) Die Angabe des effektiven Jahreszinses ist entbehrlich, wenn der Darlehensgeber außer den Sollzinsen keine weiteren Kosten verlangt und die Sollzinsen nicht in kürzeren Zeiträumen als drei Monaten fällig werden.
 
 Art 247
 -------
 
-### § 11 Abweichende Mitteilungspflichten bei Umschuldungen gemäß § 495 Abs. 3 Nr. 1 des Bürgerlichen Gesetzbuchs
+### § 11 Abweichende Mitteilungspflichten bei Allgemein-Verbraucherdarlehensverträgen zur Umschuldung gemäß § 495 Absatz 2 Nummer 1 des Bürgerlichen Gesetzbuchs
 
-(1) Bei Umschuldungen gemäß § 495 Abs. 3 Nr. 1 des Bürgerlichen Gesetzbuchs sind abweichend von den §§ 3, 4 und 6 nur anzugeben:
+(1) Bei Allgemein-Verbraucherdarlehensverträgen zur Umschuldung gemäß § 495 Absatz 2 Nummer 1 des Bürgerlichen Gesetzbuchs sind abweichend von den §§ 3, 4 und 6 nur anzugeben:
 
 1.  
 in der vorvertraglichen Information
@@ -3895,16 +4154,16 @@ die Angaben nach § 6 Abs. 1 Nr. 1 in Verbindung mit § 3 Abs. 1 Nr. 1 bis 9, 11
 b)  
 die Angaben nach § 6 Abs. 1 Nr. 2 bis 4 und 6.
 
-(2) In den Fällen des § 5 muss die Beschreibung der wesentlichen Merkmale nach Artikel 246 § 1 Abs. 1 Nr. 4 zumindest die Angaben nach § 3 Abs. 1 Nr. 3 bis 6, 10 sowie Abs. 3 und 4 enthalten.
+(2) In den Fällen des § 5 Absatz 1 muss die Beschreibung der wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 5 zumindest die Angaben nach § 3 Abs. 1 Nr. 3 bis 6, 10 sowie Abs. 3 und 4 enthalten.
 
-(3) Wird ein Verbraucherdarlehensvertrag gemäß § 495 Abs. 3 Nr. 1 des Bürgerlichen Gesetzbuchs als Überziehungsmöglichkeit im Sinne des § 504 Abs. 2 Satz 1 des Bürgerlichen Gesetzbuchs abgeschlossen, gilt § 10. Die Absätze 1 und 2 sind nicht anzuwenden.
+(3) Wird ein Verbraucherdarlehensvertrag gemäß § 495 Absatz 2 Nummer 1 des Bürgerlichen Gesetzbuchs als Überziehungsmöglichkeit im Sinne des § 504 Abs. 2 Satz 1 des Bürgerlichen Gesetzbuchs abgeschlossen, gilt § 10. Die Absätze 1 und 2 sind nicht anzuwenden.
 
 Art 247
 -------
 
 ### § 12 Verbundene Verträge und entgeltliche Finanzierungshilfen
 
-(1) Die §§ 1 bis 11 gelten entsprechend für die in § 506 Absatz 1 des Bürgerlichen Gesetzbuchs bezeichneten Verträge über entgeltliche Finanzierungshilfen. Bei diesen Verträgen oder Verbraucherdarlehensverträgen, die mit einem anderen Vertrag gemäß § 358 des Bürgerlichen Gesetzbuchs verbunden sind oder in denen eine Ware oder Leistung gemäß § 359a Absatz 1 des Bürgerlichen Gesetzbuchs angegeben ist, muss enthalten:
+(1) Die §§ 1 bis 11 gelten entsprechend für die in § 506 Absatz 1 des Bürgerlichen Gesetzbuchs bezeichneten Verträge über entgeltliche Finanzierungshilfen. Bei diesen Verträgen oder Verbraucherdarlehensverträgen, die mit einem anderen Vertrag gemäß § 358 des Bürgerlichen Gesetzbuchs verbunden sind oder in denen eine Ware oder Leistung gemäß § 360 Absatz 2 Satz 2 des Bürgerlichen Gesetzbuchs angegeben ist, muss enthalten:
 
 1.  
 die vorvertragliche Information, auch in den Fällen des § 5, den Gegenstand und den Barzahlungspreis,
@@ -3916,26 +4175,26 @@ a)
 den Gegenstand und den Barzahlungspreis sowie
 
 b)  
-Informationen über die sich aus den §§ 358 und 359 des Bürgerlichen Gesetzbuchs ergebenden Rechte und über die Bedingungen für die Ausübung dieser Rechte.
+Informationen über die sich aus den §§ 358 und 359 oder § 360 des Bürgerlichen Gesetzbuchs ergebenden Rechte und über die Bedingungen für die Ausübung dieser Rechte.
 
-Enthält der Verbraucherdarlehensvertrag eine Vertragsklausel in hervorgehobener und deutlich gestalteter Form, die dem Muster in Anlage 6 entspricht, genügt diese bei verbundenen Verträgen sowie Geschäften gemäß § 359a Absatz 1 des Bürgerlichen Gesetzbuchs den in Satz 2 Nummer 2 Buchstabe b gestellten Anforderungen. Dies gilt bis zum Ablauf des 4. November 2011 auch bei entsprechender Verwendung dieses Musters in der Fassung des Gesetzes zur Einführung einer Musterwiderrufsinformation für Verbraucherdarlehensverträge, zur Änderung der Vorschriften über das Widerrufsrecht bei Verbraucherdarlehensverträgen und zur Änderung des Darlehensvermittlungsrechts vom 24. Juli 2010 (BGBl. I S. 977). Bei Verträgen über eine entgeltliche Finanzierungshilfe treten diese Rechtsfolgen nur ein, wenn die Informationen dem im Einzelfall vorliegenden Vertragstyp angepasst sind. Der Darlehensgeber darf unter Beachtung von Satz 3 in Format und Schriftgröße von dem Muster abweichen.
+Enthält der Verbraucherdarlehensvertrag eine Vertragsklausel in hervorgehobener und deutlich gestalteter Form, die bei Allgemein-Verbraucherdarlehensverträgen dem Muster in Anlage 7 und bei Immobiliar-Verbraucherdarlehensverträgen dem Muster in Anlage 8 entspricht, genügt diese Vertragsklausel bei verbundenen Verträgen sowie Geschäften gemäß § 360 Absatz 2 Satz 2 des Bürgerlichen Gesetzbuchs den in Satz 2 Nummer 2 Buchstabe b gestellten Anforderungen. Dies gilt bis zum Ablauf des 4. November 2011 auch bei entsprechender Verwendung dieses Musters in der Fassung des Gesetzes zur Einführung einer Musterwiderrufsinformation für Verbraucherdarlehensverträge, zur Änderung der Vorschriften über das Widerrufsrecht bei Verbraucherdarlehensverträgen und zur Änderung des Darlehensvermittlungsrechts vom 24. Juli 2010 (BGBl. I S. 977). Bei Verträgen über eine entgeltliche Finanzierungshilfe treten diese Rechtsfolgen nur ein, wenn die Informationen dem im Einzelfall vorliegenden Vertragstyp angepasst sind. Der Darlehensgeber darf unter Beachtung von Satz 3 in Format und Schriftgröße von dem Muster abweichen.
 
-(2) Bei Verträgen gemäß § 506 Abs. 2 Nr. 3 des Bürgerlichen Gesetzbuchs sind die Angaben nach § 3 Abs. 1 Nr. 14, § 4 Abs. 1 Nr. 3 und § 7 Nummer 3 entbehrlich. § 14 Abs. 1 Satz 2 ist nicht anzuwenden. Hat der Unternehmer den Gegenstand für den Verbraucher erworben, tritt an die Stelle des Barzahlungspreises der Anschaffungspreis.
+(2) Bei Verträgen gemäß § 506 Absatz 2 Satz 1 Nummer 3 des Bürgerlichen Gesetzbuchs sind die Angaben nach § 3 Abs. 1 Nr. 14, § 4 Abs. 1 Nr. 3 und § 7 Nummer 3 entbehrlich. § 14 Abs. 1 Satz 2 ist nicht anzuwenden. Hat der Unternehmer den Gegenstand für den Verbraucher erworben, tritt an die Stelle des Barzahlungspreises der Anschaffungspreis.
 
 Art 247
 -------
 
-### § 13 Darlehensvermittler
+### § 13 Darlehensvermittler bei Verbraucherdarlehensverträgen
 
-(1) Ist bei der Anbahnung oder beim Abschluss eines Verbraucherdarlehensvertrags oder eines Vertrags über eine entgeltliche Finanzierungshilfe ein Darlehensvermittler beteiligt, so ist die Angabe nach § 3 Abs. 1 Nr. 1 und der Vertragsinhalt nach § 6 Abs. 1 um den Namen und die Anschrift des beteiligten Darlehensvermittlers zu ergänzen.
+(1) Ist bei der Anbahnung oder beim Abschluss eines Verbraucherdarlehensvertrags oder eines Vertrags über eine entgeltliche Finanzierungshilfe ein Darlehensvermittler beteiligt, so ist der Vertragsinhalt nach § 6 Abs. 1 um den Namen und die Anschrift des beteiligten Darlehensvermittlers zu ergänzen.
 
-(2) Wird der Darlehensvermittlungsvertrag im Sinne des § 655a des Bürgerlichen Gesetzbuchs mit einem Verbraucher abgeschlossen, so hat der Darlehensvermittler den Verbraucher rechtzeitig vor Abschluss des Darlehensvermittlungsvertrags in Textform zu unterrichten über
+(2) Wird der Darlehensvermittlungsvertrag im Sinne des § 655a des Bürgerlichen Gesetzbuchs mit einem Verbraucher abgeschlossen, so hat der Darlehensvermittler den Verbraucher rechtzeitig vor Abschluss des Darlehensvermittlungsvertrags auf einem dauerhaften Datenträger zu unterrichten über
 
 1.  
 die Höhe einer vom Verbraucher verlangten Vergütung,
 
 2.  
-die Tatsache, ob er für die Vermittlung von einem Dritten ein Entgelt erhält, sowie gegebenenfalls dessen Höhe,
+die Tatsache, ob er für die Vermittlung von einem Dritten ein Entgelt oder sonstige Anreize erhält sowie gegebenenfalls die Höhe,
 
 3.  
 den Umfang seiner Befugnisse, insbesondere, ob er ausschließlich für einen oder mehrere bestimmte Darlehensgeber oder unabhängig tätig wird, und
@@ -3943,11 +4202,52 @@ den Umfang seiner Befugnisse, insbesondere, ob er ausschließlich für einen ode
 4.  
 gegebenenfalls weitere vom Verbraucher verlangte Nebenentgelte sowie deren Höhe, soweit diese zum Zeitpunkt der Unterrichtung bekannt ist, andernfalls einen Höchstbetrag.
 
-Wird der Darlehensvermittlungsvertrag im Sinne des § 655a des Bürgerlichen Gesetzbuchs ausschließlich mit einem Dritten abgeschlossen, so hat der Darlehensvermittler den Verbraucher rechtzeitig vor Abschluss eines vermittelten Vertrags im Sinne von Absatz 1 in Textform über die Einzelheiten gemäß Satz 1 Nummer 2 und 3 zu unterrichten.
+Wird der Darlehensvermittlungsvertrag im Sinne des § 655a des Bürgerlichen Gesetzbuchs ausschließlich mit einem Dritten abgeschlossen, so hat der Darlehensvermittler den Verbraucher rechtzeitig vor Abschluss eines vermittelten Vertrags im Sinne von Absatz 1 auf einem dauerhaften Datenträger über die Einzelheiten gemäß Satz 1 Nummer 2 und 3 zu unterrichten.
 
 (3) Der Darlehensvermittler hat dem Darlehensgeber die Höhe der von ihm verlangten Vergütung vor der Annahme des Auftrags mitzuteilen. Darlehensvermittler und Darlehensgeber haben sicherzustellen, dass die andere Partei eine Abschrift des Vertrags im Sinne von Absatz 1 erhält.
 
 (4) Wirbt der Darlehensvermittler gegenüber einem Verbraucher für den Abschluss eines Verbraucherdarlehensvertrags oder eines Vertrags über eine entgeltliche Finanzierungshilfe, so hat er hierbei die Angaben nach Absatz 2 Satz 1 Nummer 3 einzubeziehen.
+
+Art 247
+-------
+
+### § 13a Besondere Regelungen für Darlehensvermittler bei Allgemein-Verbraucherdarlehensverträgen
+
+Ist bei der Anbahnung oder beim Abschluss eines Allgemein-Verbraucherdarlehensvertrags oder eines Vertrags über eine entsprechende entgeltliche Finanzierungshilfe ein Darlehensvermittler beteiligt, so sind die vorvertraglichen Informationen nach § 3 Absatz 1 Nummer 1 um den Namen und die Anschrift des beteiligten Darlehensvermittlers zu ergänzen.
+
+Art 247
+-------
+
+### § 13b Besondere Regelungen für Darlehensvermittler bei Immobiliar-Verbraucherdarlehensverträgen
+
+(1) Bei der Vermittlung von Immobiliar-Verbraucherdarlehensverträgen muss der Darlehensvermittler mit der Unterrichtung nach § 13 Absatz 2 Folgendes zusätzlich mitteilen:
+
+1.  
+seine Identität und Anschrift,
+
+2.  
+in welches Register er eingetragen wurde, gegebenenfalls die Registrierungsnummer, und auf welche Weise der Registereintrag eingesehen werden kann,
+
+3.  
+ob er an einen oder mehrere Darlehensgeber gemäß § 655a Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs gebunden oder ausschließlich für einen oder mehrere Darlehensgeber tätig ist, und wenn ja, die Namen der Darlehensgeber,
+
+4.  
+ob er Beratungsleistungen anbietet,
+
+5.  
+die Methode, nach der seine Vergütung berechnet wird, falls die Höhe noch nicht genau benannt werden kann,
+
+6.  
+welche interne Verfahren für Beschwerden von Verbrauchern oder anderen interessierten Parteien über Darlehensvermittler zur Verfügung stehen sowie einen möglichen Zugang des Verbrauchers zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren,
+
+7.  
+ob ihm für seine im Zusammenhang mit dem Darlehensvertrag stehende Dienstleistung Provisionen oder sonstige Anreize von einem Dritten gewährt werden, und wenn ja, in welcher Höhe; ist die Höhe noch nicht bekannt, so ist mitzuteilen, dass der tatsächliche Betrag zu einem späteren Zeitpunkt im ESIS-Merkblatt angegeben wird.
+
+Beginnt der Darlehensvermittler seine Vermittlungstätigkeit vor Abschluss des Vermittlungsvertrags, so sind die Informationspflichten gemäß Satz 1 rechtzeitig vor Ausübung der Vermittlungstätigkeit zu erteilen.
+
+(2) Bei Immobiliar-Verbraucherdarlehensverträgen hat der Darlehensvermittler dem Darlehensgeber die Informationen gemäß § 1 Absatz 1, die er von dem Darlehensnehmer erhalten hat, zum Zweck der Kreditwürdigkeitsprüfung richtig und vollständig zu übermitteln.
+
+(3) Bietet der Darlehensvermittler im Zusammenhang mit der Vermittlung eines Immobiliar-Verbraucherdarlehensvertrags Beratungsleistungen an, gilt § 18 entsprechend.
 
 Art 247
 -------
@@ -3958,7 +4258,7 @@ Art 247
 
 (2) Ist der Sollzinssatz nicht gebunden oder können die sonstigen Kosten angepasst werden, ist in dem Tilgungsplan in klarer und verständlicher Form anzugeben, dass die Daten des Tilgungsplans nur bis zur nächsten Anpassung des Sollzinssatzes oder der sonstigen Kosten gelten.
 
-(3) Der Tilgungsplan ist dem Darlehensnehmer in Textform zur Verfügung zu stellen. Der Anspruch erlischt nicht, solange das Vertragsverhältnis besteht.
+(3) Der Tilgungsplan ist dem Darlehensnehmer auf einem dauerhaften Datenträger zur Verfügung zu stellen. Der Anspruch erlischt nicht, solange das Vertragsverhältnis besteht.
 
 Art 247
 -------
@@ -3978,7 +4278,9 @@ die Zahl und die Fälligkeit der Teilzahlungen, sofern sich diese ändern,
 
 unterrichtet hat.
 
-(2) Geht die Anpassung des Sollzinssatzes auf die Änderung eines Referenzzinssatzes zurück, können die Vertragsparteien einen von Absatz 1 abweichenden Zeitpunkt für die Wirksamkeit der Zinsanpassung vereinbaren. In diesen Fällen muss der Vertrag eine Pflicht des Darlehensgebers vorsehen, den Darlehensnehmer nach Absatz 1 in regelmäßigen Zeitabständen zu unterrichten. Außerdem muss der Darlehensnehmer die Höhe des Referenzzinssatzes in den Geschäftsräumen des Darlehensgebers einsehen können.
+(2) Geht die Anpassung des Sollzinssatzes auf die Änderung eines Referenzzinssatzes zurück, können die Vertragsparteien einen von Absatz 1 abweichenden Zeitpunkt für die Wirksamkeit der Zinsanpassung vereinbaren. In diesen Fällen muss der Vertrag eine Pflicht des Darlehensgebers vorsehen, den Darlehensnehmer nach Absatz 1 in regelmäßigen Zeitabständen zu unterrichten. Bei einem Immobiliar-Verbraucherdarlehensvertrag muss der Vertrag ferner die Pflicht vorsehen, auch über den neuen Referenzzinssatz zu unterrichten. Außerdem muss der Darlehensnehmer die Höhe des Referenzzinssatzes in den Geschäftsräumen des Darlehensgebers einsehen können.
+
+(3) Werden bei einem Immobiliar-Verbraucherdarlehensvertrag Änderungen des Sollzinssatzes im Wege der Versteigerung auf den Kapitalmärkten festgelegt und kann der Darlehensgeber den Darlehensnehmer daher nicht vor dem Wirksamwerden der Änderung über diese in Kenntnis setzen, so hat der Darlehensgeber den Darlehensnehmer abweichend von Absatz 1 rechtzeitig vor der Versteigerung über das bevorstehende Verfahren zu unterrichten und darauf hinzuweisen, wie sich die Versteigerung auf den Sollzinssatz auswirken könnte.
 
 Art 247
 -------
@@ -4038,6 +4340,97 @@ den Sollzinssatz und
 4.  
 etwaige Vertragsstrafen, Kosten und Verzugszinsen.
 
+Art 247
+-------
+
+### § 18 Vorvertragliche Informationen bei Beratungsleistungen für Immobiliar-Verbraucherdarlehensverträge
+
+(1) Bevor der Darlehensgeber Beratungsleistungen für einen Immobiliar-Verbraucherdarlehensvertrag erbringt oder einen entsprechenden Beratungsvertrag schließt, hat er den Darlehensnehmer darüber zu informieren,
+
+1.  
+wie hoch das Entgelt ist, sofern ein solches für die Beratungsleistungen verlangt wird,
+
+2.  
+ob der Darlehensgeber seiner Empfehlung
+
+a)  
+nur oder im Wesentlichen eigene Produkte zugrunde legt oder
+
+b)  
+neben eigenen Produkten auch eine größere Anzahl von Produkten anderer Anbieter zugrunde legt.
+
+Lässt sich die Höhe des Entgelts nach Satz 1 Nummer 1 noch nicht bestimmen, ist über die Methode zu informieren, die für die Berechnung verwendet wird.
+
+(2) Die Informationen sind auf einem dauerhaften Datenträger zu übermitteln; sie können in der gleichen Art und Weise wie weitere vorvertragliche Informationen gemäß § 1 Absatz 3 Satz 1 erteilt werden.
+
+Art 247a Allgemeine Informationspflichten bei Verbraucherdarlehensverträgen, Verträgen über entgeltliche Finanzierungshilfen und deren Vermittlung
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 
+
+Art 247a
+--------
+
+### § 1 Allgemeine Informationspflichten bei Immobiliar-Verbraucherdarlehensverträgen und entsprechenden Finanzierungshilfen
+
+(1) Unternehmer, die den Abschluss von Immobiliar-Verbraucherdarlehensverträgen oder deren Vermittlung durch gebundene Darlehensvermittler gemäß § 655a Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs anbieten, stellen für Standardgeschäfte nach § 675a des Bürgerlichen Gesetzbuchs schriftlich, in geeigneten Fällen auch elektronisch, unentgeltlich Informationen über Entgelte und Auslagen der Geschäftsbesorgung zur Verfügung, soweit nicht eine Preisfestsetzung nach § 315 des Bürgerlichen Gesetzbuchs erfolgt oder die Entgelte und Auslagen gesetzlich verbindlich geregelt sind.
+
+(2) Die Informationen nach Absatz 1 müssen zumindest folgende Angaben enthalten:
+
+1.  
+die Identität und Anschrift des Darlehensgebers oder Darlehensvermittlers,
+
+2.  
+die Zwecke, für die das Darlehen verwendet werden kann,
+
+3.  
+die möglichen Formen von Sicherheiten, gegebenenfalls einschließlich eines Hinweises darauf, dass die Grundstücke oder grundstücksgleichen Rechte, an denen die Sicherheiten bestellt werden, in einem anderen Mitgliedstaat der Europäischen Union belegen sein dürfen,
+
+4.  
+die möglichen Laufzeiten der Darlehensverträge,
+
+5.  
+die angebotenen Arten von Sollzinssätzen, jeweils mit dem Hinweis, ob diese als feste oder veränderliche Zinssätze oder in beiden Varianten angeboten werden; die Merkmale eines festen und eines veränderlichen Zinssatzes, einschließlich der sich hieraus ergebenden Konsequenzen für den Darlehensnehmer, sind kurz darzustellen,
+
+6.  
+ein repräsentatives Beispiel des Nettodarlehensbetrags, der Gesamtkosten, des Gesamtbetrags und des effektiven Jahreszinses,
+
+7.  
+einen Hinweis auf mögliche weitere, im Zusammenhang mit einem Darlehensvertrag anfallende Kosten, die nicht in den Gesamtkosten des Darlehens enthalten sind,
+
+8.  
+die verschiedenen möglichen Optionen zur Rückzahlung des Darlehens einschließlich der Anzahl, Häufigkeit und Höhe der regelmäßigen Rückzahlungsraten,
+
+9.  
+gegebenenfalls einen klaren und prägnanten Hinweis darauf, dass die Einhaltung der Bedingungen des Darlehensvertrags nicht in jedem Fall gewährleistet, dass damit der in Anspruch genommene Darlehensbetrag vollständig zurückgezahlt werden wird,
+
+10.  
+die Bedingungen, die für eine vorzeitige Rückzahlung gelten,
+
+11.  
+Auskunft darüber, ob für den Vertragsschluss eine Bewertung des Werts des belasteten Grundstücks oder des Werts des zu erwerbenden oder zu erhaltenden Grundstücks, Gebäudes oder grundstücksgleichen Rechts erforderlich ist und, falls ja, wer dafür verantwortlich ist, dass die Bewertung durchgeführt wird, sowie Informationen darüber, ob dem Darlehensnehmer hierdurch Kosten entstehen,
+
+12.  
+Auskunft über die Nebenleistungen, die der Darlehensnehmer erwerben muss, damit ihm das Darlehen überhaupt oder nach den vorgesehenen Vertragsbedingungen gewährt wird, und gegebenenfalls einen Hinweis darauf, dass die Nebenleistungen von einem anderen Anbieter als dem Darlehensgeber erworben werden können, und
+
+13.  
+eine allgemeine Warnung vor möglichen Konsequenzen für den Fall, dass der Darlehensnehmer die mit dem Darlehensvertrag eingegangenen Verpflichtungen nicht einhält.
+
+Werden Verträge in einer anderen Währung als der Landeswährung des Darlehensnehmers nach § 503 Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs angeboten, so sind die in Betracht kommenden ausländischen Währungen anzugeben sowie die möglichen Konsequenzen eines Darlehens in Fremdwährung für den Darlehensnehmer zu erläutern.
+
+(3) Die Absätze 1 und 2 gelten entsprechend, wenn der Abschluss von Verträgen über entgeltliche Finanzierungshilfen gemäß § 506 Absatz 1 Satz 2 und 3 des Bürgerlichen Gesetzbuchs oder deren Vermittlung durch gebundene Darlehensvermittler gemäß § 655a Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs angeboten wird.
+
+Art 247a
+--------
+
+### § 2 Allgemeine Informationspflichten bei Überziehungsmöglichkeiten und Entgeltvereinbarungen für die Duldung einer Überziehung
+
+(1) Unternehmer, die den Abschluss von Verträgen über die Einräumung von Überziehungsmöglichkeiten gemäß § 504 des Bürgerlichen Gesetzbuchs oder deren Vermittlung durch gebundene Darlehensvermittler gemäß § 655a Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs anbieten, stellen für Standardgeschäfte nach § 675a des Bürgerlichen Gesetzbuchs schriftlich, in geeigneten Fällen auch elektronisch, unentgeltlich Informationen über Entgelte und Auslagen der Geschäftsbesorgung zur Verfügung, soweit nicht eine Preisfestsetzung nach § 315 des Bürgerlichen Gesetzbuchs erfolgt oder die Entgelte und Auslagen gesetzlich verbindlich geregelt sind.
+
+(2) Der Sollzinssatz, der für die Überziehungsmöglichkeit berechnet wird, ist in den nach Absatz 1 zur Verfügung zu stellenden Informationen klar, eindeutig und in auffallender Weise anzugeben. Verfügt derjenige, der gemäß Absatz 1 Informationen bereitzustellen hat, über einen Internetauftritt, so ist der Sollzinssatz in entsprechender Weise auch dort anzugeben.
+
+(3) Die Absätze 1 und 2 gelten entsprechend für Unternehmer, die den Abschluss von Entgeltvereinbarungen für die Duldung von Überziehungen gemäß § 505 des Bürgerlichen Gesetzbuchs anbieten.
+
 Art 248 Informationspflichten bei der Erbringung von Zahlungsdienstleistungen
 -----------------------------------------------------------------------------
 
@@ -4051,9 +4444,9 @@ Abschnitt 1 Allgemeine Vorschriften
 Art 248
 -------
 
-### § 1 Konkurrierende Informationspflichten im Fernabsatz
+### § 1 Konkurrierende Informationspflichten
 
-Ist der Zahlungsdienstevertrag zugleich ein Fernabsatzvertrag, so werden die Informationspflichten gemäß Artikel 246 § 1 Abs. 1 und 2 durch die Informationspflichten gemäß den §§ 2 bis 16 ersetzt; dies gilt nicht für die in Artikel 246 § 1 Abs. 1 Nr. 8 bis 12 und Abs. 2 Nr. 2, 4 und 8 genannten Informationspflichten.
+Ist der Zahlungsdienstevertrag zugleich ein Fernabsatzvertrag oder ein außerhalb von Geschäftsräumen geschlossener Vertrag, so werden die Informationspflichten nach Artikel 246b § 1 Absatz 1 durch die Informationspflichten nach den §§ 2 bis 16 ersetzt. Dies gilt bei Fernabsatzverträgen nicht für die in Artikel 246b § 1 Absatz 1 Nummer 7 bis 12, 15 und 19 und bei außerhalb von Geschäftsräumen geschlossenen Verträgen nicht für die in Artikel 246b § 1 Absatz 1 Nummer 12 genannten Informationspflichten.
 
 Art 248
 -------
@@ -4072,7 +4465,7 @@ Art 248
 
 ### § 3 Besondere Form
 
-Bei Zahlungsdiensterahmenverträgen (§ 675f Abs. 2 des Bürgerlichen Gesetzbuchs) hat der Zahlungsdienstleister dem Zahlungsdienstnutzer die in den §§ 4 bis 9 genannten Informationen und Vertragsbedingungen in Textform mitzuteilen.
+Bei Zahlungsdiensterahmenverträgen (§ 675f Abs. 2 des Bürgerlichen Gesetzbuchs) hat der Zahlungsdienstleister dem Zahlungsdienstnutzer die in den §§ 4 bis 9 genannten Informationen und Vertragsbedingungen auf einem dauerhaften Datenträger mitzuteilen.
 
 Art 248
 -------
@@ -4177,7 +4570,7 @@ die Vertragsklauseln über das auf den Zahlungsdiensterahmenvertrag anwendbare R
 8.  
 einen Hinweis auf das Beschwerdeverfahren gemäß § 28 des Zahlungsdiensteaufsichtsgesetzes sowie auf das außergerichtliche Rechtsbehelfsverfahren nach § 14 des Unterlassungsklagengesetzes.
 
-(2) Wenn auf Verlangen des Zahlungsdienstnutzers der Zahlungsdiensterahmenvertrag unter Verwendung eines Fernkommunikationsmittels geschlossen wird, das dem Zahlungsdienstleister die Mitteilung der in Absatz 1 bestimmten Informationen und Vertragsbedingungen in Textform nicht gestattet, hat der Zahlungsdienstleister dem Zahlungsdienstnutzer diese unverzüglich nach Abschluss des Vertrags in der in den §§ 2 und 3 vorgesehenen Form mitzuteilen.
+(2) Wenn auf Verlangen des Zahlungsdienstnutzers der Zahlungsdiensterahmenvertrag unter Verwendung eines Fernkommunikationsmittels geschlossen wird, das dem Zahlungsdienstleister die Mitteilung der in Absatz 1 bestimmten Informationen und Vertragsbedingungen auf einem dauerhaften Datenträger nicht gestattet, hat der Zahlungsdienstleister dem Zahlungsdienstnutzer diese unverzüglich nach Abschluss des Vertrags in der in den §§ 2 und 3 vorgesehenen Form mitzuteilen.
 
 (3) Die Pflichten gemäß Absatz 1 können auch erfüllt werden, indem eine Abschrift des Vertragsentwurfs übermittelt wird, die die nach Absatz 1 erforderlichen Informationen und Vertragsbedingungen enthält.
 
@@ -4186,7 +4579,7 @@ Art 248
 
 ### § 5 Zugang zu Vertragsbedingungen und vorvertraglichen Informationen während der Vertragslaufzeit
 
-Während der Vertragslaufzeit kann der Zahlungsdienstnutzer jederzeit die Übermittlung der Vertragsbedingungen sowie der in § 4 genannten Informationen in Textform verlangen.
+Während der Vertragslaufzeit kann der Zahlungsdienstnutzer jederzeit die Übermittlung der Vertragsbedingungen sowie der in § 4 genannten Informationen in Papierform oder auf einem anderen dauerhaften Datenträger verlangen.
 
 Art 248
 -------
@@ -4298,7 +4691,7 @@ Art 248
 
 ### § 12 Besondere Form
 
-Bei einem Einzelzahlungsvertrag, der nicht Gegenstand eines Zahlungsdiensterahmenvertrags ist, hat der Zahlungsdienstleister dem Zahlungsdienstnutzer die in § 13 genannten Informationen und Vertragsbedingungen in leicht zugänglicher Form zur Verfügung zu stellen. Auf Verlangen des Zahlungsdienstnutzers stellt ihm der Zahlungsdienstleister die Informationen und Vertragsbedingungen in Textform zur Verfügung.
+Bei einem Einzelzahlungsvertrag, der nicht Gegenstand eines Zahlungsdiensterahmenvertrags ist, hat der Zahlungsdienstleister dem Zahlungsdienstnutzer die in § 13 genannten Informationen und Vertragsbedingungen in leicht zugänglicher Form zur Verfügung zu stellen. Auf Verlangen des Zahlungsdienstnutzers stellt ihm der Zahlungsdienstleister die Informationen und Vertragsbedingungen in Papierform oder auf einem anderen dauerhaften Datenträger zur Verfügung.
 
 Art 248
 -------
@@ -4407,165 +4800,223 @@ Handelt es sich bei dem Zahlungsdienstnutzer nicht um einen Verbraucher, so kön
 -
 -
 
-### Anlage 1 (zu Artikel 246 § 2 Absatz 3 Satz 1) Muster für die Widerrufsbelehrung
+### Anlage 1 (zu Artikel 246a § 1 Absatz 2 Satz 2)Muster für die Widerrufsbelehrung bei außerhalb von Geschäftsräumen geschlossenen Verträgen und bei Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
 
-(Fundstelle: BGBl I. 2011, 1602 - 1604)
+(Fundstelle: BGBl. I 2013, S. 3663 – 3664)
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Widerrufsbelehrung**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Widerrufsrecht**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Sie können Ihre Vertragserklärung innerhalb von \[14 Tagen\] \[1\] ohne Angabe von Gründen in Textform (z. B. Brief, Fax, E-Mail) \[oder – wenn Ihnen die Sache vor Fristablauf überlassen wird – auch durch Rücksendung der Sache\] \[2\] widerrufen. Die Frist beginnt nach Erhalt dieser Belehrung in Textform \[3\]. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs \[oder der Sache\] \[2\]. Der Widerruf ist zu richten an: \[4\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **Widerrufsfolgen** \[5\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Im Falle eines wirksamen Widerrufs sind die beiderseits empfangenen Leistungen zurückzugewähren und ggf. gezogene Nutzungen (z. B. Zinsen) herauszugeben.  \[6\] Können Sie uns die empfangene Leistung sowie Nutzungen (z. B. Gebrauchsvorteile) nicht oder teilweise nicht oder nur in verschlechtertem Zustand zurückgewähren beziehungsweise herausgeben, müssen Sie uns insoweit Wertersatz leisten.  \[7\] \[Für die Verschlechterung der Sache müssen Sie Wertersatz nur leisten, soweit die Verschlechterung auf einen Umgang mit der Sache zurückzuführen ist, der über die Prüfung der Eigenschaften und der Funktionsweise hinausgeht.  \[8\] Unter „Prüfung der Eigenschaften und der Funktionsweise“ versteht man das Testen und Ausprobieren der jeweiligen Ware, wie es etwa im Ladengeschäft möglich und üblich ist.  \[9\] Paketversandfähige Sachen sind auf unsere \[Kosten und\] \[10\] Gefahr zurückzusenden. Nicht paketversandfähige Sachen werden bei Ihnen abgeholt.\] \[2\] Verpflichtungen zur Erstattung von Zahlungen müssen innerhalb von 30 Tagen erfüllt werden. Die Frist beginnt für Sie mit der Absendung Ihrer Widerrufserklärung \[oder der Sache\] \[2\] , für uns mit deren Empfang. |
-| **Besondere Hinweise**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| \[11\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| \[12\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| \[13\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| (Ort), (Datum), (Unterschrift des Verbrauchers) \[14\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Widerrufsbelehrung**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Widerrufsrecht**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag  .                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (   ) mittels einer eindeutigen Erklärung (z. B. ein mit der Post versandter Brief, Telefax oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Folgen des Widerrufs**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschließlich der Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als die von uns angebotene, günstigste Standardlieferung gewählt haben), unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet.  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 **Gestaltungshinweise:**
 
-\[1\]  
-Wird die Belehrung nicht spätestens bei, sondern erst nach Vertragsschluss mitgeteilt, lautet der Klammerzusatz „einem Monat“. In diesem Fall ist auch Gestaltungshinweis 9 einschlägig, wenn der dort genannte Hinweis nicht spätestens bei Vertragsschluss in Textform erfolgt. Bei Fernabsatzverträgen steht eine unverzüglich nach Vertragsschluss in Textform mitgeteilte Widerrufsbelehrung einer solchen bei Vertragsschluss gleich, wenn der Unternehmer den Verbraucher gemäß Artikel 246 § 1 Absatz 1 Nummer 10 EGBGB unterrichtet hat.
-
-\[2\]  
-Der Klammerzusatz entfällt bei Leistungen, die nicht in der Überlassung von Sachen bestehen.
-
-\[3\]  
-Liegt einer der nachstehenden Sonderfälle vor, ist Folgendes einzufügen:
+  
+Fügen Sie einen der folgenden in Anführungszeichen gesetzten Textbausteine ein:
 
 a)  
-bei schriftlich abzuschließenden Verträgen: „ , jedoch nicht, bevor Ihnen auch eine Vertragsurkunde, Ihr schriftlicher Antrag oder eine Abschrift der Vertragsurkunde oder des Antrags zur Verfügung gestellt worden ist“;
+im Falle eines Dienstleistungsvertrags oder eines Vertrags über die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, von Fernwärme oder von digitalen Inhalten, die nicht auf einem körperlichen Datenträger geliefert werden: „des Vertragsabschlusses.“;
 
 b)  
-bei Fernabsatzverträgen (§ 312b Absatz 1 Satz 1 BGB) über die
-
-aa)  
-Lieferung von Waren: „ , jedoch nicht vor Eingang der Ware beim Empfänger (bei der wiederkehrenden Lieferung gleichartiger Waren nicht vor Eingang der ersten Teillieferung) und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246 § 2 in Verbindung mit § 1 Absatz 1 und 2 EGBGB“;
-
-bb)  
-Erbringung von Dienstleistungen außer Zahlungsdiensten: „ , jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246 § 2 in Verbindung mit § 1 Absatz 1 und 2 EGBGB“;
-
-cc)  
-Erbringung von Zahlungsdiensten:
-
-aaa)  
-bei Zahlungsdiensterahmenverträgen: „ , jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246 § 2 in Verbindung mit § 1 Absatz 1 Nummer 8 bis 12 und Absatz 2 Nummer 2, 4 und 8 sowie Artikel 248 § 4 Absatz 1 EGBGB“;
-
-bbb)  
-bei Kleinbetragsinstrumenten im Sinne des § 675i Absatz 1 BGB: „ , jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246 § 2 in Verbindung mit § 1 Absatz 1 Nummer 8 bis 12 und Absatz 2 Nummer 2, 4 und 8 sowie Artikel 248 § 11 Absatz 1 EGBGB“;
-
-ccc)  
-bei Einzelzahlungsverträgen: „ , jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246 § 2 in Verbindung mit § 1 Absatz 1 Nummer 8 bis 12 und Absatz 2 Nummer 2, 4 und 8 sowie Artikel 248 § 13 Absatz 1 EGBGB“;
+im Falle eines Kaufvertrags: „, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die Waren in Besitz genommen haben bzw. hat.“;
 
 c)  
-bei Verträgen im elektronischen Geschäftsverkehr (§ 312g Absatz 1 Satz 1 BGB): „ , jedoch nicht vor Erfüllung unserer Pflichten gemäß § 312g Absatz 1 Satz 1 BGB in Verbindung mit Artikel 246 § 3 EGBGB“;
+im Falle eines Vertrags über mehrere Waren, die der Verbraucher im Rahmen einer einheitlichen Bestellung bestellt hat und die getrennt geliefert werden: „, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die letzte Ware in Besitz genommen haben bzw. hat.“;
 
 d)  
-bei einem Kauf auf Probe (§ 454 BGB): „ , jedoch nicht, bevor der Kaufvertrag durch Ihre Billigung des gekauften Gegenstandes für Sie bindend geworden ist“.
+im Falle eines Vertrags über die Lieferung einer Ware in mehreren Teilsendungen oder Stücken: „, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die letzte Teilsendung oder das letzte Stück in Besitz genommen haben bzw. hat.“;
 
-Wird für einen Vertrag belehrt, der unter mehrere der vorstehenden Sonderfälle fällt (z. B. ein Fernabsatzvertrag über die Lieferung von Waren im elektronischen Geschäftsverkehr), sind die jeweils zutreffenden Ergänzungen zu kombinieren (in dem genannten Beispiel wie folgt: „ , jedoch nicht vor Eingang der Ware beim Empfänger \[bei der wiederkehrenden Lieferung gleichartiger Waren nicht vor Eingang der ersten Teillieferung\] und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246 § 2 in Verbindung mit § 1 Absatz 1 und 2 EGBGB sowie unserer Pflichten gemäß § 312g Absatz 1 Satz 1 BGB in Verbindung mit Artikel 246 § 3 EGBGB“). Soweit zu kombinierende Ergänzungen sprachlich identisch sind, sind Wiederholungen des Wortlauts nicht erforderlich.
+e)  
+im Falle eines Vertrags zur regelmäßigen Lieferung von Waren über einen festgelegten Zeitraum hinweg: „, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die erste Ware in Besitz genommen haben bzw. hat.“
 
-\[4\]  
+  
+Fügen Sie Ihren Namen, Ihre Anschrift und, soweit verfügbar, Ihre Telefonnummer, Telefaxnummer und E-Mail-Adresse ein.
+
+  
+Wenn Sie dem Verbraucher die Wahl einräumen, die Information über seinen Widerruf des Vertrags auf Ihrer Webseite elektronisch auszufüllen und zu übermitteln, fügen Sie Folgendes ein: „Sie können das Muster-Widerrufsformular oder eine andere eindeutige Erklärung auch auf unserer Webseite \[Internet-Adresse einfügen\] elektronisch ausfüllen und übermitteln. Machen Sie von dieser Möglichkeit Gebrauch, so werden wir Ihnen unverzüglich (z. B. per E-Mail) eine Bestätigung über den Eingang eines solchen Widerrufs übermitteln.“
+
+  
+Im Falle von Kaufverträgen, in denen Sie nicht angeboten haben, im Falle des Widerrufs die Waren selbst abzuholen, fügen Sie Folgendes ein: „Wir können die Rückzahlung verweigern, bis wir die Waren wieder zurückerhalten haben oder bis Sie den Nachweis erbracht haben, dass Sie die Waren zurückgesandt haben, je nachdem, welches der frühere Zeitpunkt ist.“
+
+  
+Wenn der Verbraucher Waren im Zusammenhang mit dem Vertrag erhalten hat:
+
+a)  
+Fügen Sie ein:
+
+–  
+„Wir holen die Waren ab.“ oder
+
+–  
+„Sie haben die Waren unverzüglich und in jedem Fall spätestens binnen vierzehn Tagen ab dem Tag, an dem Sie uns über den Widerruf dieses Vertrags unterrichten, an … uns oder an \[hier sind gegebenenfalls der Name und die Anschrift der von Ihnen zur Entgegennahme der Waren ermächtigten Person einzufügen\] zurückzusenden oder zu übergeben. Die Frist ist gewahrt, wenn Sie die Waren vor Ablauf der Frist von vierzehn Tagen absenden.“
+
+b)  
+fügen Sie ein:
+
+–  
+„Wir tragen die Kosten der Rücksendung der Waren.“;
+
+–  
+„Sie tragen die unmittelbaren Kosten der Rücksendung der Waren.“;
+
+–  
+Wenn Sie bei einem Fernabsatzvertrag nicht anbieten, die Kosten der Rücksendung der Waren zu tragen, und die Waren aufgrund ihrer Beschaffenheit nicht normal mit der Post zurückgesandt werden können: „Sie tragen die unmittelbaren Kosten der Rücksendung der Waren in Höhe von … EUR \[Betrag einfügen\].“, oder, wenn die Kosten vernünftigerweise nicht im Voraus berechnet werden können: „Sie tragen die unmittelbaren Kosten der Rücksendung der Waren. Die Kosten werden auf höchstens etwa … EUR \[Betrag einfügen\] geschätzt.“ oder
+
+–  
+Wenn die Waren bei einem außerhalb von Geschäftsräumen geschlossenen Vertrag aufgrund ihrer Beschaffenheit nicht normal mit der Post zurückgesandt werden können und zum Zeitpunkt des Vertragsschlusses zur Wohnung des Verbrauchers geliefert worden sind: „Wir holen die Waren auf unsere Kosten ab.“ und
+
+c)  
+fügen Sie ein: „Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser Wertverlust auf einen zur Prüfung der Beschaffenheit, Eigenschaften und Funktionsweise der Waren nicht notwendigen Umgang mit ihnen zurückzuführen ist.“
+
+  
+Im Falle eines Vertrags zur Erbringung von Dienstleistungen oder der Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder von Fernwärme fügen Sie Folgendes ein: „Haben Sie verlangt, dass die Dienstleistungen oder Lieferung von Wasser/Gas/Strom/Fernwärme \[Unzutreffendes streichen\] während der Widerrufsfrist beginnen soll, so haben Sie uns einen angemessenen Betrag zu zahlen, der dem Anteil der bis zu dem Zeitpunkt, zu dem Sie uns von der Ausübung des Widerrufsrechts hinsichtlich dieses Vertrags unterrichten, bereits erbrachten Dienstleistungen im Vergleich zum Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen entspricht.“
+
+-
+-
+
+### Anlage 2 (zu Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 und § 2 Absatz 2 Nummer 2)Muster für das Widerrufsformular
+
+(Fundstelle: BGBl. I 2013, S. 3665)
+
+<table>
+<colgroup>
+<col width="100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Muster-Widerrufsformular</strong></td>
+</tr>
+<tr class="even">
+<td>(Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück.)</td>
+</tr>
+<tr class="odd">
+<td><dl>
+<dt>–</dt>
+<dd>An [hier ist der Name, die Anschrift und gegebenenfalls die Telefaxnummer und E-Mail-Adresse des Unternehmers durch den Unternehmer einzufügen]:
+</dd>
+<dt>–</dt>
+<dd>Hiermit widerrufe(n) ich/wir (*) den von mir/uns (*) abgeschlossenen Vertrag über den Kauf der folgenden Waren (*)/die Erbringung der folgenden Dienstleistung (*)
+</dd>
+<dt>–</dt>
+<dd>Bestellt am (*)/erhalten am (*)
+</dd>
+<dt>–</dt>
+<dd>Name des/der Verbraucher(s)
+</dd>
+<dt>–</dt>
+<dd>Anschrift des/der Verbraucher(s)
+</dd>
+<dt>–</dt>
+<dd>Unterschrift des/der Verbraucher(s) (nur bei Mitteilung auf Papier)
+</dd>
+<dt>–</dt>
+<dd>Datum
+</dd>
+</dl></td>
+</tr>
+<tr class="even">
+<td><br />
+(*) Unzutreffendes streichen.</td>
+</tr>
+</tbody>
+</table>
+
+-
+-
+
+### Anlage 3 (zu Artikel 246b § 2 Absatz 3)Muster für die Widerrufsbelehrung bei außerhalb von Geschäftsräumen geschlossenen Verträgen und bei Fernabsatzverträgen über Finanzdienstleistungen
+
+(Fundstelle: BGBl. I 2013, S. 3666 – 3667)
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Widerrufsbelehrung**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Widerrufsrecht**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Sie können Ihre Vertragserklärung innerhalb von 14 Tagen ohne Angabe von Gründen mittels einer eindeutigen Erklärung widerrufen. Die Frist beginnt nach Erhalt dieser Belehrung auf einem dauerhaften Datenträger . Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs, wenn die Erklärung auf einem dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) erfolgt. Der Widerruf ist zu richten an:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Widerrufsfolgen**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Im Falle eines wirksamen Widerrufs sind die beiderseits empfangenen Leistungen zurückzugewähren.  Sie sind zur Zahlung von Wertersatz für die bis zum Widerruf erbrachte Dienstleistung verpflichtet, wenn Sie vor Abgabe Ihrer Vertragserklärung auf diese Rechtsfolge hingewiesen wurden und ausdrücklich zugestimmt haben, dass wir vor dem Ende der Widerrufsfrist mit der Ausführung der Gegenleistung beginnen. Besteht eine Verpflichtung zur Zahlung von Wertersatz, kann dies dazu führen, dass Sie die vertraglichen Zahlungsverpflichtungen für den Zeitraum bis zum Widerruf dennoch erfüllen müssen. Ihr Widerrufsrecht erlischt vorzeitig, wenn der Vertrag von beiden Seiten auf Ihren ausdrücklichen Wunsch vollständig erfüllt ist, bevor Sie Ihr Widerrufsrecht ausgeübt haben. Verpflichtungen zur Erstattung von Zahlungen müssen innerhalb von 30 Tagen erfüllt werden. Die Frist beginnt für Sie mit der Absendung Ihrer Widerrufserklärung, für uns mit deren Empfang. |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Besondere Hinweise**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| (Ort), (Datum), (Unterschrift des Verbrauchers)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+**Gestaltungshinweise:**
+
+  
+Bei einem der nachstehenden Sonderfälle ist Folgendes einzufügen:
+
+a)  
+Bei der Erbringung von Finanzdienstleistungen außer Zahlungsdiensten: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 Absatz 1 in Verbindung mit Artikel 246b § 1 Absatz 1 EGBGB“;
+
+b)  
+Bei Abschluss von Verträgen über die Erbringung von Zahlungsdiensten im Fernabsatz:
+
+aa)  
+bei Zahlungsdiensterahmenverträgen: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 Absatz 1 in Verbindung mit § 1 Absatz 1 Nummer 7 bis 12, 15 und 19 sowie Artikel 248 § 4 Absatz 1 EGBGB“;
+
+bb)  
+bei Kleinbetragsinstrumenten im Sinne des § 675i Absatz 1 BGB: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 Absatz 1 in Verbindung mit § 1 Absatz 1 Nummer 7 bis 12, 15 und 19 sowie Artikel 248 § 11 Absatz 1 EGBGB“;
+
+cc)  
+bei Einzelzahlungsverträgen: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 Absatz 1 in Verbindung mit § 1 Absatz 1 Nummer 7 bis 12, 15 und 19 sowie Artikel 248 § 13 Absatz 1 EGBGB“.
+
+c)  
+Bei Abschluss von Verträgen über die Erbringung von Zahlungsdiensten außerhalb von Geschäftsräumen:
+
+aa)  
+bei Zahlungsdiensterahmenverträgen: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 in Verbindung mit § 1 Absatz 1 Nummer 12 sowie Artikel 248 § 4 Absatz 1 EGBGB“;
+
+bb)  
+bei Kleinbetragsinstrumenten im Sinne des § 675i Absatz 1 BGB: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 in Verbindung mit § 1 Absatz 1 Nummer 12 sowie Artikel 248 § 11 Absatz 1 EGBGB“;
+
+cc)  
+bei Einzelzahlungsverträgen: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 in Verbindung mit § 1 Absatz 1 Nummer 12 sowie Artikel 248 § 13 Absatz 1 EGBGB“.
+
+Wird für einen Vertrag belehrt, der unter mehrere der vorstehenden Sonderfälle fällt, sind die jeweils zutreffenden Ergänzungen zu kombinieren. Soweit zu kombinierende Ergänzungen sprachlich identisch sind, sind Wiederholungen des Wortlauts nicht erforderlich.
+
+  
 Einsetzen: Namen/Firma und ladungsfähige Anschrift des Widerrufsadressaten.Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Verbraucher eine Bestätigung seiner Widerrufserklärung an den Unternehmer erhält, auch eine Internetadresse.
 
-\[5\]  
+  
 Dieser Absatz kann entfallen, wenn die beiderseitigen Leistungen erst nach Ablauf der Widerrufsfrist erbracht werden. Dasselbe gilt, wenn eine Rückabwicklung nicht in Betracht kommt (z. B. Hereinnahme einer Bürgschaft).
 
-\[6\]  
+  
 Bei der Vereinbarung eines Entgelts für die Duldung einer Überziehung im Sinne des § 505 BGB ist hier Folgendes einzufügen:„Überziehen Sie Ihr Konto ohne eingeräumte Überziehungsmöglichkeit oder überschreiten Sie die Ihnen eingeräumte Überziehungsmöglichkeit, können wir von Ihnen über die Rückzahlung des Betrags der Überziehung oder Überschreitung hinaus weder Kosten noch Zinsen verlangen, wenn wir Sie nicht ordnungsgemäß über die Bedingungen und Folgen der Überziehung oder Überschreitung (z. B. anwendbarer Sollzinssatz, Kosten) informiert haben.“
 
-\[7\]  
-Bei Fernabsatzverträgen über Dienstleistungen ist folgender Satz einzufügen:„Dies kann dazu führen, dass Sie die vertraglichen Zahlungsverpflichtungen für den Zeitraum bis zum Widerruf gleichwohl erfüllen müssen.“
+  
+Bei einem Vertrag über eine entgeltliche Finanzierungshilfe, der von der Ausnahme des § 506 Absatz 4 BGB erfasst ist, gilt Folgendes:
 
-\[8\]  
-Bei Fernabsatzverträgen über die Lieferung von Waren ist anstelle des vorhergehenden Satzes folgender Satz einzufügen:„Für die Verschlechterung der Sache und für gezogene Nutzungen müssen Sie Wertersatz nur leisten, soweit die Nutzungen oder die Verschlechterung auf einen Umgang mit der Sache zurückzuführen ist, der über die Prüfung der Eigenschaften und der Funktionsweise hinausgeht.“
+a)  
+Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, sind hier die konkreten Hinweise entsprechend Gestaltungshinweis   Buchstabe a bis c der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB zu geben.
 
-\[9\]  
-Wenn ein Hinweis auf die Wertersatzpflicht gemäß § 357 Absatz 3 Satz 1 BGB nicht spätestens bei Vertragsschluss in Textform erfolgt, ist anstelle der beiden vorhergehenden Sätze einzufügen: „Für eine durch die bestimmungsgemäße Ingebrauchnahme der Sache entstandene Verschlechterung müssen Sie keinen Wertersatz leisten.“ Bei Fernabsatzverträgen steht ein unverzüglich nach Vertragsschluss in Textform mitgeteilter Hinweis einem solchen bei Vertragsschluss gleich, wenn der Unternehmer den Verbraucher rechtzeitig vor Abgabe von dessen Vertragserklärung in einer dem eingesetzten Fernkommunikationsmittel entsprechenden Weise über die Wertersatzpflicht unterrichtet hat.Handelt es sich um einen Fernabsatzvertrag über die Lieferung von Waren, ist anzufügen:„Wertersatz für gezogene Nutzungen müssen Sie nur leisten, soweit Sie die Ware in einer Art und Weise genutzt haben, die über die Prüfung der Eigenschaften und der Funktionsweise hinausgeht. Unter „Prüfung der Eigenschaften und der Funktionsweise“ versteht man das Testen und Ausprobieren der jeweiligen Ware, wie es etwa im Ladengeschäft möglich und üblich ist.“
+b)  
+Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht in der Überlassung einer Sache gemäß Buchstabe a oder in einer Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von Fernwärme, sind hier die konkreten Hinweise entsprechend Gestaltungshinweis   der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB zu geben.
 
-\[10\]  
-Ist entsprechend § 357 Absatz 2 Satz 3 BGB eine Übernahme der Versandkosten durch den Verbraucher vereinbart worden, kann der Klammerzusatz weggelassen werden. Stattdessen ist hinter „zurückzusenden.“ Folgendes einzufügen:„Sie haben die regelmäßigen Kosten der Rücksendung zu tragen, wenn die gelieferte Ware der bestellten entspricht und wenn der Preis der zurückzusendenden Sache einen Betrag von 40 Euro nicht übersteigt oder wenn Sie bei einem höheren Preis der Sache zum Zeitpunkt des Widerrufs noch nicht die Gegenleistung oder eine vertraglich vereinbarte Teilzahlung erbracht haben. Anderenfalls ist die Rücksendung für Sie kostenfrei.“
+c)  
+Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten, ist hier folgender Hinweis zu geben:„Sie sind zur Zahlung von Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte verpflichtet, wenn Sie vor Abgabe Ihrer Vertragserklärung auf diese Rechtsfolge hingewiesen wurden und ausdrücklich zugestimmt haben, dass wir vor dem Ende der Widerrufsfrist mit der Lieferung der digitalen Inhalte beginnen.“
 
-\[11\]  
-Bei einem Widerrufsrecht gemäß § 312d Absatz 1 BGB, das für einen Fernabsatzvertrag über die Erbringung einer Dienstleistung gilt, ist hier folgender Hinweis aufzunehmen:„Ihr Widerrufsrecht erlischt vorzeitig, wenn der Vertrag von beiden Seiten auf Ihren ausdrücklichen Wunsch vollständig erfüllt ist, bevor Sie Ihr Widerrufsrecht ausgeübt haben.“
-
-\[12\]  
+  
 Der nachfolgende Hinweis für finanzierte Geschäfte kann entfallen, wenn kein verbundenes Geschäft vorliegt:„Wenn Sie diesen Vertrag durch ein Darlehen finanzieren und ihn später widerrufen, sind Sie auch an den Darlehensvertrag nicht mehr gebunden, sofern beide Verträge eine wirtschaftliche Einheit bilden. Dies ist insbesondere dann anzunehmen, wenn wir gleichzeitig Ihr Darlehensgeber sind oder wenn sich Ihr Darlehensgeber im Hinblick auf die Finanzierung unserer Mitwirkung bedient. Wenn uns das Darlehen bei Wirksamwerden des Widerrufs oder bei der Rückgabe der Ware bereits zugeflossen ist, tritt Ihr Darlehensgeber im Verhältnis zu Ihnen hinsichtlich der Rechtsfolgen des Widerrufs oder der Rückgabe in unsere Rechte und Pflichten aus dem finanzierten Vertrag ein. Letzteres gilt nicht, wenn der vorliegende Vertrag den Erwerb von Finanzinstrumenten (z. B. von Wertpapieren, Devisen oder Derivaten) zum Gegenstand hat.Wollen Sie eine vertragliche Bindung so weitgehend wie möglich vermeiden, machen Sie von Ihrem Widerrufsrecht Gebrauch und widerrufen Sie zudem den Darlehensvertrag, wenn Ihnen auch dafür ein Widerrufsrecht zusteht.“Bei einem finanzierten Erwerb eines Grundstücks oder eines grundstücksgleichen Rechts ist Satz 2 des vorstehenden Hinweises wie folgt zu ändern:„Dies ist nur anzunehmen, wenn die Vertragspartner in beiden Verträgen identisch sind oder wenn der Darlehensgeber über die Zurverfügungstellung von Darlehen hinaus Ihr Grundstücksgeschäft durch Zusammenwirken mit dem Veräußerer fördert, indem er sich dessen Veräußerungsinteressen ganz oder teilweise zu eigen macht, bei der Planung, Werbung oder Durchführung des Projekts Funktionen des Veräußerers übernimmt oder den Veräußerer einseitig begünstigt.“
 
-\[13\]  
-Der nachfolgende Hinweis für Fernabsatzverträge über Finanzdienstleistungen kann entfallen, wenn kein hinzugefügter Fernabsatzvertrag über eine Dienstleistung vorliegt:„Bei Widerruf dieses Fernabsatzvertrags über eine Finanzdienstleistung sind Sie auch an einen hinzugefügten Fernabsatzvertrag nicht mehr gebunden, wenn dieser Vertrag eine weitere Dienstleistung von uns oder eines Dritten auf der Grundlage einer Vereinbarung zwischen uns und dem Dritten zum Gegenstand hat.“
+  
+Der nachfolgende Hinweis kann entfallen, wenn kein zusammenhängender Vertrag vorliegt:„Bei Widerruf dieses Vertrags sind Sie auch an einen mit diesem Vertrag zusammenhängenden Vertrag nicht mehr gebunden, wenn der zusammenhängende Vertrag eine Leistung betrifft, die von uns oder einem Dritten auf der Grundlage einer Vereinbarung zwischen uns und dem Dritten erbracht wird.“
 
-\[14\]  
+  
 Ort, Datum und Unterschriftsleiste können entfallen. In diesem Fall sind diese Angaben entweder durch die Wörter „Ende der Widerrufsbelehrung“ oder durch die Wörter „Ihr(e) (einsetzen: Firma des Unternehmers)“ zu ersetzen.
 
 -
 -
 
-### Anlage 2 (zu Artikel 246 § 2 Absatz 3 Satz 1) Muster für die Rückgabebelehrung
-
-(Fundstelle: BGBl. I 2011, 1605 - 1606)
-
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Rückgabebelehrung**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Rückgaberecht**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Sie können die erhaltene Ware ohne Angabe von Gründen innerhalb von \[14 Tagen\] \[1\] durch Rücksendung der Ware zurückgeben. Die Frist beginnt nach Erhalt dieser Belehrung in Textform (z. B. als Brief, Fax, E-Mail), jedoch nicht vor Eingang der Ware \[2\]. Nur bei nicht paketversandfähiger Ware (z. B. bei sperrigen Gütern) können Sie die Rückgabe auch durch Rücknahmeverlangen in Textform erklären. Zur Wahrung der Frist genügt die rechtzeitige Absendung der Ware oder des Rücknahmeverlangens. In jedem Fall erfolgt die Rücksendung auf unsere Kosten und Gefahr. Die Rücksendung oder das Rücknahmeverlangen hat zu erfolgen an: \[3\]                                                                                                                                                                                                                                                                                                                                              |
-| \[4\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| \[5\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Rückgabefolgen**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Im Falle einer wirksamen Rückgabe sind die beiderseits empfangenen Leistungen zurückzugewähren und ggf. gezogene Nutzungen herauszugeben. Bei einer Verschlechterung der Sache und für Nutzungen (z. B. Gebrauchsvorteile), die nicht oder teilweise nicht oder nur in verschlechtertem Zustand herausgegeben werden können, müssen Sie uns insoweit Wertersatz leisten. Für die Verschlechterung der Sache müssen Sie Wertersatz nur leisten, soweit die Verschlechterung auf einen Umgang mit der Sache zurückzuführen ist, der über die Prüfung der Eigenschaften und der Funktionsweise hinausgeht.  \[6\] Unter „Prüfung der Eigenschaften und der Funktionsweise“ versteht man das Testen und Ausprobieren der jeweiligen Ware, wie es etwa im Ladengeschäft möglich und üblich ist.  \[7\] Verpflichtungen zur Erstattung von Zahlungen müssen innerhalb von 30 Tagen erfüllt werden. Die Frist beginnt für Sie mit der Absendung der Ware oder des Rücknahmeverlangens, für uns mit dem Empfang. |
-| **Finanzierte Geschäfte** \[8\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| (Ort), (Datum), (Unterschrift des Verbrauchers) \[9\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-
-**Gestaltungshinweise:**
-
-\[1\]  
-Wird die Belehrung nicht spätestens bei, sondern erst nach Vertragsschluss mitgeteilt, lautet der Klammerzusatz „einem Monat“. In diesem Fall ist auch Gestaltungshinweis 7 einschlägig, wenn der dort genannte Hinweis nicht spätestens bei Vertragsschluss in Textform erfolgt. Bei Fernabsatzverträgen steht eine unverzüglich nach Vertragsschluss in Textform mitgeteilte Rückgabebelehrung einer solchen bei Vertragsschluss gleich, wenn der Unternehmer den Verbraucher gemäß Artikel 246 § 1 Absatz 1 Nummer 10 EGBGB unterrichtet hat.
-
-\[2\]  
-Liegt einer der nachstehenden Sonderfälle vor, ist Folgendes einzufügen:
-
-a)  
-bei schriftlich abzuschließenden Verträgen: „und auch nicht, bevor Ihnen auch eine Vertragsurkunde, Ihr schriftlicher Antrag oder eine Abschrift der Vertragsurkunde oder des Antrags zur Verfügung gestellt worden ist“;
-
-b)  
-bei Fernabsatzverträgen (§ 312b Absatz 1 Satz 1 BGB): „beim Empfänger (bei der wiederkehrenden Lieferung gleichartiger Waren nicht vor Eingang der ersten Teillieferung) und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246 § 2 in Verbindung mit § 1 Absatz 1 und 2 EGBGB“;
-
-c)  
-bei Verträgen im elektronischen Geschäftsverkehr (§ 312g Absatz 1 Satz 1 BGB): „und auch nicht vor Erfüllung unserer Pflichten gemäß § 312g Absatz 1 Satz 1 BGB in Verbindung mit Artikel 246 § 3 EGBGB“;
-
-d)  
-bei einem Kauf auf Probe (§ 454 BGB): „und auch nicht, bevor der Kaufvertrag durch Ihre Billigung des gekauften Gegenstandes für Sie bindend geworden ist“.
-
-Wird für einen Vertrag belehrt, der unter mehrere der vorstehenden Sonderfälle fällt (z. B. ein Fernabsatzvertrag im elektronischen Geschäftsverkehr), sind die jeweils zutreffenden Ergänzungen zu kombinieren (in dem genannten Beispiel wie folgt: „beim Empfänger \[bei der wiederkehrenden Lieferung gleichartiger Waren nicht vor Eingang der ersten Teillieferung\] und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246 § 2 in Verbindung mit § 1 Absatz 1 und 2 EGBGB sowie unserer Pflichten gemäß § 312g Absatz 1 Satz 1 BGB in Verbindung mit Artikel 246 § 3 EGBGB“).
-
-\[3\]  
-Einsetzen: Namen/Firma und ladungsfähige Anschrift des Rückgabeadressaten.Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Verbraucher eine Bestätigung seines Rücknahmeverlangens an den Unternehmer erhält, auch eine Internetadresse.
-
-\[4\]  
-Hier kann der Hinweis hinzugefügt werden:„Die Rückgabe paketfähiger Ware kann auch an das Unternehmen (einsetzen: Namen/Firma und Telefonnummer einer Versandstelle) erfolgen, das die Ware bei Ihnen abholt.“
-
-\[5\]  
-Hier kann der Hinweis hinzugefügt werden:„Bei Rücknahmeverlangen wird die Ware bei Ihnen abgeholt.“
-
-\[6\]  
-Bei Fernabsatzverträgen über Waren ist anstelle des vorgehenden Satzes folgender Satz einzufügen:„Für die Verschlechterung der Sache und für gezogene Nutzungen müssen Sie Wertersatz nur leisten, soweit die Nutzungen oder die Verschlechterung auf einen Umgang mit der Sache zurückzuführen ist, der über die Prüfung der Eigenschaften und der Funktionsweise hinausgeht.“
-
-\[7\]  
-Wenn ein Hinweis auf die Wertersatzpflicht gemäß § 357 Absatz 3 Satz 1 BGB nicht spätestens bei Vertragsschluss in Textform erfolgt, ist anstelle der beiden vorhergehenden Sätze folgender Satz einzufügen: „Für eine durch die bestimmungsgemäße Ingebrauchnahme der Sache entstandene Verschlechterung müssen Sie keinen Wertersatz leisten.“ Bei Fernabsatzverträgen steht ein unverzüglich nach Vertragsschluss in Textform mitgeteilter Hinweis einem solchen bei Vertragsschluss gleich, wenn der Unternehmer den Verbraucher rechtzeitig vor Abgabe von dessen Vertragserklärung in einer dem eingesetzten Fernkommunikationsmittel entsprechenden Weise über die Wertersatzpflicht unterrichtet hat.Handelt es sich um einen Fernabsatzvertrag über die Lieferung von Waren, ist dem vorstehenden Hinweis anzufügen:„Wertersatz für gezogene Nutzungen müssen Sie nur leisten, soweit Sie die Ware in einer Art und Weise genutzt haben, die über die Prüfung der Eigenschaften und der Funktionsweise hinausgeht. Unter „Prüfung der Eigenschaften und der Funktionsweise“ versteht man das Testen und Ausprobieren der jeweiligen Ware, wie es etwa im Ladengeschäft möglich und üblich ist.“
-
-\[8\]  
-Der nachfolgende Hinweis für finanzierte Geschäfte kann entfallen, wenn kein verbundenes Geschäft vorliegt:„Wenn Sie diesen Vertrag durch ein Darlehen finanzieren und später von Ihrem Rückgaberecht Gebrauch machen, sind Sie auch an den Darlehensvertrag nicht mehr gebunden, sofern beide Verträge eine wirtschaftliche Einheit bilden. Dies ist insbesondere dann anzunehmen, wenn wir gleichzeitig Ihr Darlehensgeber sind oder wenn sich Ihr Darlehensgeber im Hinblick auf die Finanzierung unserer Mitwirkung bedient. Wenn uns das Darlehen bei Wirksamwerden des Widerrufs oder bei der Rückgabe der Ware bereits zugeflossen ist, tritt Ihr Darlehensgeber im Verhältnis zu Ihnen hinsichtlich der Rechtsfolgen des Widerrufs oder der Rückgabe in unsere Rechte und Pflichten aus dem finanzierten Vertrag ein. Wollen Sie eine vertragliche Bindung so weitgehend wie möglich vermeiden, machen Sie von Ihrem Rückgaberecht Gebrauch und widerrufen Sie den Darlehensvertrag, wenn Ihnen auch dafür ein Widerrufsrecht zusteht.“
-
-\[9\]  
-Ort, Datum und Unterschriftsleiste können entfallen. In diesem Fall sind diese Angaben entweder durch die Wörter „Ende der Rückgabebelehrung“ oder durch die Wörter „Ihr(e) (einsetzen: Firma des Unternehmers)“ zu ersetzen.“
-
--
--
-
-### Anlage 3 (zu Artikel 247 § 2) Europäische Standardinformationen für Verbraucherkredite
+### Anlage 4 (zu Artikel 247 § 2) Europäische Standardinformationen für Verbraucherkredite
 
 (Fundstelle: BGBl. I 2009, S. 2393 - 2397;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -4718,15 +5169,15 @@ Bedingungen, unter denen die vorstehend genannten Kosten im Zusammenhang mit dem
 </tr>
 <tr class="odd">
 <td>(falls zutreffend)<br />
-Notarkosten</td>
+Verpflichtung zur Zahlung von Notarkosten</td>
 <td></td>
 </tr>
 <tr class="even">
 <td>Kosten bei Zahlungsverzug<br />
 Ausbleibende Zahlungen können schwer wiegende Folgen für Sie haben (z. B. Zwangsverkauf) und die Erlangung eines Kredits erschweren.</td>
 <td><br />
-Für verspätete Zahlungen wird Ihnen<br />
-[… (anwendbarer Zinssatz und gegebenenfalls Verzugskosten)] berechnet.</td>
+Bei Zahlungsverzug wird Ihnen<br />
+[… (anwendbarer Zinssatz und Regelungen für seine Anpassung sowie gegebenenfalls Verzugskosten)] berechnet.</td>
 </tr>
 </tbody>
 </table>
@@ -4844,7 +5295,7 @@ Wahl der Sprache</td>
 -
 -
 
-### Anlage 4 (zu Artikel 247 § 2) Europäische Verbraucherkreditinformationen bei 1. Überziehungskrediten 2. Umschuldungen
+### Anlage 5 (zu Artikel 247 § 2) Europäische Verbraucherkreditinformationen bei 1. Überziehungskrediten 2. Umschuldungen
 
 (Fundstelle: BGBl. I 2009, S. 2398 - 2401;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -4936,7 +5387,7 @@ Bedingungen, unter denen diese Kosten geändert werden können</td>
 </tr>
 <tr class="even">
 <td>Kosten bei Zahlungsverzug</td>
-<td>Für verspätete Zahlungen wird Ihnen [… (anwendbarer Zinssatz und gegebenenfalls Verzugskosten)] berechnet.</td>
+<td>Bei Zahlungsverzug wird Ihnen [… (anwendbarer Zinssatz und Regelungen für seine Anpassung sowie gegebenenfalls Verzugskosten)] berechnet.</td>
 </tr>
 </tbody>
 </table>
@@ -5070,364 +5521,711 @@ Die Informationen und Vertragsbedingungen werden in [Angabe der Sprache] vorgele
 -
 -
 
-### Anlage 5 (zu Artikel 247 § 2) Europäisches Standardisiertes Merkblatt
-
-(Fundstelle: BGBl. I 2009, S. 2402 - 2405)
-
-Inhalt
-
-Beschreibung
-
-**Einleitungstext**
-
-Diese Angaben stellen kein rechtsverbindliches Angebot dar.
-Die Angaben werden nach Treu und Glauben zur Verfügung gestellt und sind eine genaue Beschreibung des Angebots, das das Kreditinstitut unter aktuellen Marktbedingungen und auf der Basis der vom Kunden bereitgestellten Informationen machen würde. Es sollte allerdings beachtet werden, dass sich die Angaben je nach Marktentwicklung ändern können.
-Die Aushändigung dieses Informationsmerkblattes verpflichtet den Darlehensgeber nicht automatisch zur Darlehensbewilligung.
-
-1. Darlehensgeber
-und eventuell Darlehensvermittler
-
-2. Beschreibung
-
-\[In diesem Absatz sollte eine kurze, aber deutliche Beschreibung des vorgeschlagenen Vertrags erfolgen.
-Dabei sollte verdeutlicht werden, ob
-
-–  
-das Darlehen grundpfandrechtlich oder durch eine andere gewöhnlich verwendete Sicherheit zu sichern ist;
-
-–  
-es sich bei dem vorgeschlagenen Vertrag um ein Zinszahlungsdarlehen handelt (d. h. der Darlehensnehmer bedient während der Darlehenslaufzeit nur die Zinsen und zahlt am Ende der Laufzeit den vollen Darlehensbetrag zurück) oder um ein Annuitätendarlehen (d. h. der Darlehensnehmer tilgt während der Darlehenslaufzeit nicht nur Zinsen und Kosten, sondern auch das Darlehen);
-
-–  
-die Darlehensbedingungen vom zur Verfügung gestellten Eigenkapital des Darlehensnehmers abhängig sind (eventuell beschrieben als Prozentsatz des Wohneigentumswertes);
-
-–  
-die Darlehensbedingungen von der Bürgschaft eines Dritten abhängig sind.\]
-
-3. Sollzinssatz
-(anzugeben ist die Art des Sollzinssatzes und die Dauer der festgesetzten Darlehenslaufzeit)
-
-\[Dieser Abschnitt sollte Informationen zur wichtigsten Gegenleistung des Darlehens liefern – dem Sollzinssatz. Soweit bedeutsam, sollten Details zur Veränderlichkeit des Sollzinssatzes beschrieben werden, einschließlich u. a. Überprüfungsphasen, ausgesetzter Phasen und verbundener Strafklauseln sowie die Angabe von Zinsmargen, innerhalb derer ein veränderlicher Sollzinssatz schwanken kann usw.
-Es sollte beschrieben werden, ob sich ein veränderlicher Sollzinssatz auf einen Index oder Referenzzinssatz bezieht oder nicht und, soweit relevant, nähere Angaben zum Index oder Referenzzinssatz.\]
-
-4. Effektiver Jahreszins
-Gesamtkosten ausgedrückt als jährlicher Prozentsatz des Gesamtkreditbetrags
-
-5. Nettodarlehensbetrag und Währung
-
-6. Gesamtdauer der Darlehensvereinbarung
-
-7. Anzahl und Häufigkeit der Ratenzahlung (kann variieren)
-
-8. Bei Annuitätendarlehen:
-Höhe der Ratenzahlung (kann variieren)
-
-9. Bei wohnungswirtschaftlichen Zinszahlungsdarlehen:
-– Höhe jeder regelmäßigen Zinszahlung;
-– Höhe der regelmäßig zur Vermögensbildung zu leistenden Zahlungen.
-
-\[Der Darlehensgeber sollte – reale oder repräsentative – Angaben
-– zur Höhe und Anzahl jeder regelmäßigen Zinszahlung (vgl. Angaben unter Punkt 7) sowie
-– zur Höhe und Anzahl der zur Vermögensbildung zu leistenden regelmäßigen Zahlungen (vgl. Angaben unter Punkt 7)
-liefern.
-Gegebenenfalls sollte der Darlehensgeber darauf hinweisen, dass die zur Vermögensbildung geleisteten Zahlungen und daraus resultierenden Ansprüche möglicherweise nicht die vollständige Rückzahlung des Darlehens gewährleisten.
-Falls ein Darlehensgeber Vermögensbildungsverträge in seinem Angebot führt und diese als Teil eines Zinszahlungsdarlehens anbietet, sollte klargestellt werden, ob das Angebot an den vom Darlehensgeber vorgeschlagenen Vermögensbildungsvertrag gebunden ist.\]
-
-10. Zusätzliche einmalige Kosten, soweit anwendbar
-
-\[Eine Liste aller anfänglichen einmaligen Kosten, die der Darlehensnehmer zum Zeitpunkt der Aufnahme des wohnungswirtschaftlichen Darlehens zahlen muss, muss vorgelegt werden.
-Falls diese Kosten unter direkter oder indirekter Kontrolle des Darlehensgebers stehen, sollte eine Schätzung der Kosten erfolgen.
-Soweit dies relevant ist, sollte klargestellt werden, ob die Kosten auch unabhängig von der Darlehensbewilligung entrichtet werden müssen.
-Solche Kosten könnten z. B. umfassen:
-– Verwaltungskosten
-– Kosten für Rechtsberatung
-– Schätz- und Sachverständigenkosten.
-Wenn ein Angebot daran gebunden ist, dass der Darlehensnehmer die genannten Dienstleistungen vom Darlehensgeber in Anspruch nimmt, sollte deutlich auf diese Tatsache hingewiesen werden.\]
-
-11. Zusätzliche wiederkehrende Kosten (soweit nicht bereits in Punkt 8 berücksichtigt)
-
-\[Diese Liste sollte z. B. beinhalten:
-
-–  
-Versicherung bei Zahlungsunfähigkeit (Arbeitslosigkeit oder Todesfall)
-
-–  
-Feuerversicherung
-
-–  
-Gebäude- und Hausratsversicherung.
-
-Wenn ein Angebot daran gebunden ist, dass der Darlehensnehmer die genannten Dienstleistungen vom Darlehensgeber in Anspruch nimmt, sollte deutlich auf diese Tatsache hingewiesen werden.\]
-
-12. Vorzeitige Rückzahlung,
-Kündigungsmöglichkeiten
-
-\[Der Darlehensgeber sollte Hinweise geben zu
-
-–  
-der Möglichkeit und den Bedingungen der vorzeitigen Rückzahlung
-
-–  
-einschließlich eines Hinweises auf jegliche anwendbaren Gebühren.
-
-In Fällen, in denen eine genaue Angabe der Kosten zu diesem Zeitpunkt nicht möglich ist, sollte der Hinweis erfolgen, dass ein Betrag vom Darlehensnehmer zu zahlen ist, der ausreicht, um die sich aus der Kündigung für den Darlehensgeber ergebenden Kosten auszugleichen.\]
-
-13. Internes Beschwerdesystem
-
-\[Name, Anschrift und Telefonnummer der Kontaktstelle\]
-
-14. Repräsentativer Tilgungsplan
-
-\[Der Darlehensgeber sollte einen repräsentativen und zusammenfassenden Tilgungsplan vorlegen, der mindestens folgende Angaben enthalten sollte:
-
-–  
-monatliche oder (soweit dies der Fall ist) vierteljährliche Raten für das erste Jahr;
-
-–  
-gefolgt von jährlichen Angaben für die gesamte (Rest-)Laufzeit des Darlehens.
-
-Der Tilgungsplan sollte auch Angaben
-
-–  
-zu den Tilgungszahlungen,
-
-–  
-zu den Zinszahlungen,
-
-–  
-zur zu zahlenden Restschuld,
-
-–  
-zu den einzelnen Raten sowie
-
-–  
-zum Gesamtbetrag
-
-enthalten.
-Es sollte deutlich darauf hingewiesen werden, dass der Tilgungsplan lediglich illustrativ ist und eine Warnung enthalten, falls das angebotene wohnungswirtschaftliche Darlehen veränderlich verzinst wird.\]
-
-15. Verpflichtung, das Bank- und Gehaltskonto beim Darlehensgeber zu führen
-
-16. Widerrufsrecht
-Sie haben das Recht, innerhalb von 14 Kalendertagen den Darlehensvertrag zu widerrufen.
-
-Ja/Nein
-
-17. Abtretung, Übertragung
-Forderungen aus dem Darlehensverhältnis können an Dritte, z. B. Inkassounternehmen, abgetreten werden.
-Der Darlehensgeber kann das Vertragsverhältnis ohne Ihre Zustimmung auf andere Personen übertragen, z. B. bei einer Umstrukturierung des Geschäfts.
-
-Ja/Nein
-\[Eventuell mit Einschränkungen, z. B. nur bei Zahlungsrückstand\]
-Ja/Nein
-\[Eventuell mit Einschränkungen\]
-
-18. Zusätzliche Informationen im Fernabsatzgeschäft
-(falls zutreffend)
-
-Darlehensvermittler oder Vertreter des Darlehensgebers in dem Mitgliedstaat, in dem Sie Ihren Wohnsitz haben
-Anschrift
-Telefon\*)
-E-Mail\*)
-Fax\*)
-Internet-Adresse\*)
-\*) Freiwillige Angaben des Darlehensgebers.
-
-\[Name\]
-\[Ladungsfähige Anschrift für Kontakte des Darlehensnehmers\]
-
-Eintrag im Handelsregister
-
-\[Handelsregister, in das der Darlehensgeber eingetragen ist, und seine Handelsregisternummer oder eine gleichwertige in diesem Register verwendete Kennung\]
-
-Zuständige Aufsichtsbehörde
-
-Ausübung des Widerrufsrechts
-
-\[Praktische Hinweise zur Ausübung des Widerrufsrechts, darunter Angabe der Anschrift, an die die Widerrufserklärung zu senden ist, sowie der Folgen bei Nichtausübung dieses Rechts\]
-
-Rechtsordnungen, die der Darlehensgeber der Aufnahme von Beziehungen zu Ihnen vor Abschluss des Darlehensvertrags zugrunde legt
-
-Klauseln über das auf den Darlehensvertrag anwendbare Recht und das zuständige Gericht
-
-\[Entsprechende Klauseln hier wiedergeben\]
-
-Wahl der Sprache
-
-Die Informationen und Vertragsbedingungen werden in \[Angabe der Sprache\] vorgelegt. Mit Ihrer Zustimmung werden wir während der Laufzeit des Darlehensvertrags in \[Angabe der Sprache(n)\] mit Ihnen Kontakt halten.
-
-Verfügbarkeit außergerichtlicher Beschwerde- und Rechtsbehelfsverfahren und Zugang zu ihnen
-
-\[Angabe, ob der Darlehensnehmer Zugang zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren hat, und gegebenenfalls die Voraussetzungen für diesen Zugang\]
-
-Zeitraum, für den der Darlehensgeber an die vorvertraglichen Informationen gebunden ist
-
-Diese Informationen gelten vom … bis …
-
-In allen Fällen, in denen „falls zutreffend" angegeben ist, muss der Darlehensgeber oder Darlehensvermittler das betreffende Kästchen ausfüllen, wenn die Information für das Darlehen bedeutsam ist, oder die betreffende Information oder gesamte Zeile streichen, wenn die Information für das in Frage kommende Darlehen bedeutungslos ist.
-
-Die Vermerke in eckigen Klammern dienen zur Erläuterung und sind durch die entsprechenden Angaben zu ersetzen.
-
--
--
-
-### Anlage 6 (zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1)Muster für eine Widerrufsinformation für Verbraucherdarlehensverträge
-
-(Fundstelle: BGBl. I 2010, 980 - 982;
-bezüglich der einzelnen Änderungen vgl. Fußnote)
-
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Widerrufsinformation**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **Widerrufsrecht**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Der Darlehensnehmer\* kann seine Vertragserklärung innerhalb von 14 Tagen ohne Angabe von Gründen in Textform (z. B. Brief, Fax, E-Mail) widerrufen  \[1\] . Die Frist beginnt nach Abschluss des Vertrags, aber erst, nachdem der Darlehensnehmer alle Pflichtangaben nach § 492 Absatz 2 BGB (z. B. Angabe zur Art des Darlehens, Angabe zum Nettodarlehensbetrag, Angabe zur Vertragslaufzeit) erhalten hat  \[2\]. Der Darlehensnehmer hat alle Pflichtangaben erhalten, wenn sie in der für den Darlehensnehmer bestimmten Ausfertigung seines Antrags oder in der für den Darlehensnehmer bestimmten Ausfertigung der Vertragsurkunde oder in einer für den Darlehensnehmer bestimmten Abschrift seines Antrags oder der Vertragsurkunde enthalten sind und dem Darlehensnehmer eine solche Unterlage zur Verfügung gestellt worden ist. Über in den Vertragstext nicht aufgenommene Pflichtangaben kann der Darlehensnehmer nachträglich in Textform informiert werden; die Widerrufsfrist beträgt dann einen Monat. Der Darlehensnehmer ist mit den nachgeholten Pflichtangaben nochmals auf den Beginn der Widerrufsfrist hinzuweisen. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs. Der Widerruf ist zu richten an: \[3\] |
-| \[4\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| \[4a\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| \[4b\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| \[4c\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **Widerrufsfolgen**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Der Darlehensnehmer hat innerhalb von 30 Tagen das Darlehen, soweit es bereits ausbezahlt wurde, zurückzuzahlen und für den Zeitraum zwischen der Auszahlung und der Rückzahlung des Darlehens den vereinbarten Sollzins zu entrichten. Die Frist beginnt mit der Absendung der Widerrufserklärung. Für den Zeitraum zwischen Auszahlung und Rückzahlung ist bei vollständiger Inanspruchnahme des Darlehens pro Tag ein Zinsbetrag in Höhe von  \[5\]  Euro zu zahlen. Dieser Betrag verringert sich entsprechend, wenn das Darlehen nur teilweise in Anspruch genommen wurde.  \[6\] \[7\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| \[8\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| \[8a\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| \[8b\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| \[8c\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| \[8d\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| \[8e\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| \[8f\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-
-**Gestaltungshinweise**
-
-\[1\]  
-Bei entgeltlichen Finanzierungshilfen betreffend die Überlassung von Sachen ist hier Folgendes einzufügen:
-„ ; wenn ihm die Sache vor Fristablauf überlassen wird, kann er den Widerruf auch durch Rücksendung der Sache erklären”.
-
-\[2\]  
-Bei Verträgen im elektronischen Geschäftsverkehr (§ 312g Absatz 1 Satz 1 BGB) ist hier Folgendes einzufügen:
-„, aber erst, nachdem der Darlehensgeber seine Pflichten aus § 312g Absatz 1 Satz 1 BGB in Verbindung mit Artikel 246 § 3 EGBGB erfüllt hat”.
-
-\[3\]  
-Hier sind einzufügen: Name/Firma und ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Darlehensnehmer eine Bestätigung seiner Widerrufserklärung an den Darlehensgeber erhält, auch eine Internet-Adresse.
-
-\[4\]  
-Bei Anwendung der Gestaltungshinweise  \[4a\] ,  \[4b\]  oder  \[4c\]  sind hier folgende Unterüberschrift und folgender Hinweis einzufügen:
-„Besonderheiten bei weiteren Verträgen”
-„Wenn dem Darlehensnehmer für den weiteren Vertrag ein Rückgaberecht an Stelle eines Widerrufsrechts eingeräumt wurde, steht die Rückgabe im Folgenden dem Widerruf gleich.”
-
-\[4a\]  
-Bei einem verbundenen Vertrag nach § 358 BGB ist hier einzufügen:
+### Anlage 6 (zu Artikel 247 § 1 Absatz 2) Europäisches Standardisiertes Merkblatt (ESIS-Merkblatt)
+
+(Fundstelle: BGBl. I 2016, S. 420 - 429)
+
+Teil A
+
+Das folgende Muster ist im selben Wortlaut in das ESIS-Merkblatt zu übernehmen. Text in eckigen Klammern ist durch die entsprechende Angabe zu ersetzen. Hinweise für den Kreditgeber oder gegebenenfalls den Kreditvermittler zum Ausfüllen des ESIS-Merkblatts finden sich in Teil B.
+
+Bei Angaben, denen der Text „falls zutreffend“ vorangestellt ist, hat der Kreditgeber die erforderlichen Angaben zu machen, wenn sie für den Kreditvertrag relevant sind. Ist die betreffende Information nicht relevant, ist die entsprechende Rubrik bzw. der gesamte Abschnitt vom Kreditgeber zu streichen (beispielsweise wenn der Abschnitt nicht anwendbar ist). Wird der gesamte Abschnitt gestrichen, so ist die Nummerierung der einzelnen Abschnitte des ESIS-Merkblatts entsprechend anzupassen.
+
+Die nachstehenden Informationen müssen in einem einzigen Dokument enthalten sein. Es ist eine gut lesbare Schriftgröße zu wählen. Zur Hervorhebung sind Fettdruck, Schattierung oder eine größere Schriftgröße zu verwenden. Sämtliche Warnhinweise sind optisch hervorzuheben.
+
+**Muster für das ESIS-Merkblatt**
+
+<table>
+<tbody>
+<tr class="odd">
+<td>(Vorbemerkungen)</td>
+</tr>
+<tr class="even">
+<td>Dieses Dokument wurde am [Datum] für [Name des Verbrauchers] erstellt.<br />
+Das Dokument wurde auf der Grundlage der bereits von Ihnen gemachten Angaben sowie der aktuellen Bedingungen am Finanzmarkt erstellt.<br />
+Die nachstehenden Informationen bleiben bis [Gültigkeitsdatum] gültig, (falls zutreffend) mit Ausnahme des Zinssatzes und anderer Kosten. Danach können sie sich je nach Marktbedingungen ändern.<br />
+(falls zutreffend) Die Ausfertigung dieses Dokuments begründet für [Name des Kreditgebers] keinerlei Verpflichtung zur Gewährung eines Kredits.</td>
+</tr>
+<tr class="odd">
+<td>1. Kreditgeber</td>
+</tr>
+<tr class="even">
+<td>[Name]<br />
+[Telefon]<br />
+[Anschrift]<br />
+(Fakultativ) [E-Mail]<br />
+(Fakultativ) [Faxnummer]<br />
+(Fakultativ) [Internetadresse]<br />
+(Fakultativ) [Kontaktperson/-stelle]<br />
+(falls zutreffend, Informationen darüber, ob Beratungsdienstleistungen erbracht werden:) [Wir empfehlen nach Analyse Ihres Bedarfs und Ihrer Situation, dass Sie diesen Kredit aufnehmen. / Wir empfehlen Ihnen keinen bestimmten Kredit. Auf Grund Ihrer Antworten auf einige der Fragen erhalten Sie von uns jedoch Informationen zu diesem Kredit, damit Sie Ihre eigene Entscheidung treffen können.]</td>
+</tr>
+<tr class="odd">
+<td>2. (falls zutreffend) Kreditvermittler</td>
+</tr>
+<tr class="even">
+<td>[Name]<br />
+[Telefon]<br />
+[Anschrift]<br />
+(Fakultativ) [E-Mail]<br />
+(Fakultativ) [Faxnummer]<br />
+(Fakultativ) [Internetadresse]<br />
+(Fakultativ) [Kontaktperson/-stelle]<br />
+(falls zutreffend, Informationen darüber, ob Beratungsdienstleistungen erbracht werden:) [Wir empfehlen nach Analyse Ihres Bedarfs und Ihrer Situation, dass Sie diesen Kredit aufnehmen. / Wir empfehlen Ihnen keinen bestimmten Kredit. Auf Grund Ihrer Antworten auf einige der Fragen erhalten Sie von uns jedoch Informationen zu diesem Kredit, damit Sie Ihre eigene Entscheidung treffen können.]<br />
+[Vergütung]</td>
+</tr>
+<tr class="odd">
+<td>3. Hauptmerkmale des Kredits</td>
+</tr>
+<tr class="even">
+<td>Kreditbetrag und Währung: [Wert] [Währung]<br />
+(falls zutreffend) Dieser Kredit lautet nicht auf [Landeswährung des Kreditnehmers].<br />
+(falls zutreffend) Der Wert Ihres Kredits in [Landeswährung des Kreditnehmers] kann sich ändern.<br />
+(falls zutreffend) Wenn beispielsweise [Landeswährung des Kreditnehmers] gegenüber [Kreditwährung] um 20 % an Wert verliert, würde sich der Wert Ihres Kredits um [Betrag in der Landeswährung des Kreditnehmers] erhöhen. Allerdings könnte es sich auch um einen höheren Betrag handeln, falls [Landeswährung des Kreditnehmers] um mehr als 20 % an Wert verliert.<br />
+(falls zutreffend) Der Wert Ihres Kredits beläuft sich auf maximal [Betrag in der Landeswährung des Kreditnehmers]. (falls zutreffend) Sie erhalten einen Warnhinweis, falls der Kreditbetrag [Betrag in der Landeswährung des Kreditnehmers] erreicht. (falls zutreffend) Sie haben die Möglichkeit, [Recht auf Neuverhandlung eines Fremdwährungskreditvertrags oder Recht, den Kredit in [einschlägige Währung] umzuwandeln, und Bedingungen].<br />
+Laufzeit des Kredits: [Laufzeit]<br />
+[Kreditart]<br />
+[Art des anwendbaren Zinssatzes]<br />
+Zurückzuzahlender Gesamtbetrag:<br />
+Dies bedeutet, dass Sie [Betrag] je geliehene(n) [Währungseinheit] zurückzuzahlen haben.<br />
+(falls zutreffend) Bei dem gewährten Kredit/einem Teil des gewährten Kredits handelt es sich um einen endfälligen Kredit. Ihre Schuld nach Ablauf der Laufzeit des Kredits beträgt [Kreditbetrag nach Endfälligkeit].<br />
+(falls zutreffend) Für dieses Merkblatt zugrunde gelegter Schätzwert der Immobilie: [Betrag]<br />
+(falls zutreffend) Beleihungsgrenze (maximale Höhe des Kredits im Verhältnis zum Wert der Immobilie): [Verhältnis] oder Mindestwert der Immobilie als Voraussetzung für die Aufnahme eines Kredits in der angegebenen Höhe: [Betrag]<br />
+(falls zutreffend) [Sicherheit]</td>
+</tr>
+<tr class="odd">
+<td>4. Zinssatz und andere Kosten</td>
+</tr>
+<tr class="even">
+<td>Der effektive Jahreszins entspricht den Gesamtkosten des Kredits, ausgedrückt als jährlicher Prozentsatz. Der effektive Jahreszins erleichtert den Vergleich verschiedener Angebote.<br />
+Der für Ihren Kredit geltende effektive Jahreszins beträgt [effektiver Jahreszins].<br />
+Er setzt sich zusammen aus:<br />
+Zinssatz: [Wert in Prozent oder, falls zutreffend, Angabe eines Referenzzinssatzes und Prozentwerts der Zinsmarge des Kreditgebers]<br />
+[sonstige Komponenten des effektiven Jahreszinses]<br />
+Einmalige Kosten:<br />
+(falls zutreffend) Für die Eintragung der Hypothek bzw. Grundschuld wird eine Gebühr fällig. [Gebühr, sofern bekannt, oder Grundlage für die Berechnung.]<br />
+Regelmäßig anfallende Kosten:<br />
+(falls zutreffend) Dieser effektive Jahreszins wird anhand des angenommenen Zinssatzes berechnet.<br />
+(falls zutreffend) Da es sich bei Ihrem Kredit [einem Teil Ihres Kredits] um einen Kredit mit variablem Zinssatz handelt, kann der tatsächliche effektive Jahreszins von dem angegebenen effektiven Jahreszins abweichen, falls sich der Zinssatz Ihres Kredits ändert. Falls sich der Zinssatz beispielsweise auf [unter Teil B beschriebenes Szenario] erhöht, kann der effektive Jahreszins auf [Beispiel für den gemäß diesem Szenario fälligen effektiven Jahreszins] ansteigen.<br />
+(falls zutreffend) Beachten Sie bitte, dass bei der Berechnung dieses effektiven Jahreszinses davon ausgegangen wird, dass der Zinssatz während der gesamten Vertragslaufzeit auf dem für den Anfangszeitraum festgelegten Niveau bleibt.<br />
+(falls zutreffend) Die folgenden Kosten sind dem Kreditgeber nicht bekannt und sind daher im effektiven Jahreszins nicht enthalten: [Kosten]<br />
+(falls zutreffend) Für die Eintragung der Hypothek bzw. Grundschuld wird eine Gebühr fällig.<br />
+Bitte vergewissern Sie sich, dass Sie alle im Zusammenhang mit Ihrem Kredit anfallenden Kosten und Gebühren bedacht haben.</td>
+</tr>
+<tr class="odd">
+<td>5. Häufigkeit und Anzahl der Ratenzahlungen</td>
+</tr>
+<tr class="even">
+<td>Häufigkeit der Ratenzahlungen: [Zahlungsintervall]<br />
+Anzahl der Zahlungen: [Anzahl]</td>
+</tr>
+<tr class="odd">
+<td>6. Höhe der einzelnen Raten</td>
+</tr>
+<tr class="even">
+<td>[Betrag] [Währung]<br />
+Ihre Einkommenssituation kann sich ändern. Prüfen Sie bitte, ob Sie Ihre [Zahlungsintervall] Raten auch dann noch zahlen können, wenn sich Ihr Einkommen verringern sollte.<br />
+(falls zutreffend) Da es sich bei dem [gewährten Kredit/einem Teil des gewährten Kredits] um einen endfälligen Kredit handelt, müssen Sie eine gesonderte Regelung für die Tilgung der Schuld von [Kreditbetrag nach Endfälligkeit] nach Ablauf der Laufzeit des Kredits treffen. Berücksichtigen Sie dabei auch alle Zahlungen, die Sie zusätzlich zu der hier angegebenen Ratenhöhe leisten müssen.<br />
+(falls zutreffend) Der Zinssatz dieses Kredits oder eines Teils davon kann sich ändern. Daher kann die Höhe Ihrer Raten steigen oder sinken. Falls sich der Zinssatz beispielsweise auf [unter Teil B beschriebenes Szenario] erhöht, können Ihre Ratenzahlungen auf [Angabe der Höhe der gemäß diesem Szenario fälligen Rate] ansteigen.<br />
+(falls zutreffend) Die Höhe der [Zahlungsintervall] in [Landeswährung des Kreditnehmers] fälligen Zahlungen kann sich ändern.<br />
+(falls zutreffend) Ihre pro [Zahlungsperiode] fälligen Zahlungen können sich auf [Höchstbetrag in der Landeswährung des Kreditnehmers] erhöhen.<br />
+(falls zutreffend) Wenn beispielsweise [Landeswährung des Kreditnehmers] gegenüber [Kreditwährung] um 20 % an Wert verliert, müssten Sie pro [Zeitraum] [Betrag in der Landeswährung des Kreditnehmers] mehr zahlen. Ihre Zahlungen könnten auch um einen höheren Betrag ansteigen.<br />
+(falls zutreffend) Bei der Umrechnung Ihrer in [Kreditwährung] geleisteten Rückzahlungen in [Landeswährung des Kreditnehmers] wird der von [Name der den Wechselkurs veröffentlichenden Einrichtung] am [Datum] veröffentlichte oder auf der Grundlage von [Bezeichnung der Bezugsgrundlage oder der Berechnungsmethode] am [Datum] errechnete Wechselkurs zugrunde gelegt.<br />
+(falls zutreffend) [Spezifische Angaben zu verbundenen Sparprodukten und Krediten mit abgegrenztem Zins]</td>
+</tr>
+<tr class="odd">
+<td>7. (falls zutreffend) Beispiel eines Tilgungsplans</td>
+</tr>
+<tr class="even">
+<td>Der folgenden Tabelle ist die Höhe des pro [Zahlungsintervall] zu zahlenden Betrags zu entnehmen.<br />
+Die Raten (Spalte [Nummer]) setzen sich aus zu zahlenden Zinsen (Spalte [Nummer]) und, falls zutreffend, zu zahlender Tilgung (Spalte [Nummer]) sowie, falls zutreffend, sonstigen Kosten (Spalte [Nummer]) zusammen. (falls zutreffend) Die in der Spalte „sonstige Kosten“ angegebenen Kosten betreffen [Aufzählung der Kosten]. Das Restkapital (Spalte [Nummer]) ist der nach einer Ratenzahlung noch verbleibende zurückzuzahlende Kreditbetrag.<br />
+[Tabelle]</td>
+</tr>
+<tr class="odd">
+<td>8. Zusätzliche Auflagen</td>
+</tr>
+<tr class="even">
+<td>Der Kreditnehmer muss folgende Auflagen erfüllen, um in den Genuss der im vorliegenden Dokument genannten Kreditkonditionen zu kommen.<br />
+[Auflagen]<br />
+(falls zutreffend) Beachten Sie bitte, dass sich die in diesem Dokument genannten Kreditkonditionen (einschließlich Zinssatz) ändern können, falls Sie diese Auflagen nicht erfüllen.<br />
+(falls zutreffend) Beachten Sie bitte die möglichen Konsequenzen einer späteren Kündigung der mit dem Kredit verbundenen Nebenleistungen:<br />
+[Konsequenzen]</td>
+</tr>
+<tr class="odd">
+<td>9. Vorzeitige Rückzahlung</td>
+</tr>
+<tr class="even">
+<td>Sie können den Kredit ganz oder teilweise vorzeitig zurückzahlen.<br />
+(falls zutreffend) [Bedingungen]<br />
+(falls zutreffend) Ablösungsentschädigung: [Betrag oder, sofern keine Angabe möglich ist, Berechnungsmethode]<br />
+(falls zutreffend) Sollten Sie beschließen, den Kredit vorzeitig zurückzuzahlen, setzen Sie sich bitte mit uns in Verbindung, um die genaue Höhe der Ablösungsentschädigung zum betreffenden Zeitpunkt in Erfahrung zu bringen.</td>
+</tr>
+<tr class="odd">
+<td>10. Flexible Merkmale</td>
+</tr>
+<tr class="even">
+<td>(falls zutreffend) [Information über Übertragbarkeit/Abtretung] Sie können den Kredit auf [einen anderen Kreditnehmer] [oder] [eine andere Immobilie] übertragen. [Bedingungen]<br />
+(falls zutreffend) Sie können den Kredit nicht auf [einen anderen Kreditnehmer] [oder] [eine andere Immobilie] übertragen.<br />
+(falls zutreffend) Zusätzliche Merkmale: [Erläuterung der in Teil B aufgelisteten zusätzlichen Merkmale und – fakultativ – aller weiteren Merkmale, die der Kreditgeber im Rahmen des Kreditvertrags anbietet und die nicht in den vorausgehenden Abschnitten genannt sind.]</td>
+</tr>
+<tr class="odd">
+<td>11. Sonstige Rechte des Kreditnehmers</td>
+</tr>
+<tr class="even">
+<td>(falls zutreffend) Bevor Sie sich für die Aufnahme des Kredits entscheiden, haben Sie ab dem [Zeitpunkt, zu dem die Bedenkzeit beginnt] [Dauer der Bedenkzeit] Bedenkzeit. (falls zutreffend) Sobald Sie den Kreditvertrag vom Kreditgeber erhalten haben, können Sie diesen nicht vor Ablauf einer Frist von [Zeitraum der Bedenkzeit] annehmen.<br />
+(falls zutreffend) Sie können während eines Zeitraums von [Dauer der Widerrufsfrist] ab [Zeitpunkt, zu dem die Widerruffrist beginnt] von Ihrem Widerrufsrecht Gebrauch machen. [Bedingungen] [Verfahren]<br />
+(falls zutreffend) Sie können Ihr Widerrufsrecht verlieren, wenn Sie innerhalb dieses Zeitraums eine Immobilie erwerben oder veräußern, die im Zusammenhang mit diesem Kreditvertrag steht.<br />
+(falls zutreffend) Sollten Sie beschließen, von Ihrem Recht auf Widerruf [des Kreditvertrags] Gebrauch zu machen, so prüfen Sie bitte, ob Sie durch andere [, in Abschnitt 8 genannte] Auflagen im Zusammenhang mit dem Kredit [einschließlich der mit dem Kredit verbundenen Nebenleistungen] weiter gebunden bleiben.</td>
+</tr>
+<tr class="odd">
+<td>12. Beschwerden</td>
+</tr>
+<tr class="even">
+<td>Im Fall einer Beschwerde wenden Sie sich bitte an [interne Kontaktstelle und Informationsquelle zum weiteren Verfahren].<br />
+(falls zutreffend) Maximale Frist für die Bearbeitung der Beschwerde: [Zeitraum]<br />
+(falls zutreffend) Sollten wir die Beschwerde nicht intern zu Ihrer Zufriedenheit beilegen, so können Sie sich auch an [Name der externen Stelle für außergerichtliche Beschwerde- und Rechtsbehelfsverfahren] wenden<br />
+(falls zutreffend) oder Sie können weitere Informationen bei FIN-NET oder der entsprechenden Stelle in Ihrem eigenen Land erfragen.</td>
+</tr>
+<tr class="odd">
+<td>13. Nichteinhaltung der aus dem Kreditvertrag erwachsenden Verpflichtungen: Konsequenzen für den Kreditnehmer</td>
+</tr>
+<tr class="even">
+<td>[Arten eines Verstoßes gegen die Verpflichtungen]<br />
+[finanzielle und/oder rechtliche Folgen]<br />
+Sollten Sie Schwierigkeiten haben, die [Zahlungsintervall] Zahlungen zu leisten, so nehmen Sie bitte umgehend Kontakt mit uns auf, damit nach möglichen Lösungen gesucht werden kann.<br />
+(falls zutreffend) Kommen Sie Ihren Zahlungsverpflichtungen nicht nach, kann als letztes Mittel Ihre Immobilie zwangsversteigert werden.</td>
+</tr>
+<tr class="odd">
+<td>(falls zutreffend) 14. Zusätzliche Informationen</td>
+</tr>
+<tr class="even">
+<td>(falls zutreffend) [auf den Kreditvertrag anwendbares Recht]<br />
+(Sofern der Kreditgeber eine Sprache verwenden möchte, die sich von der Sprache des ESIS-Merkblatts unterscheidet:) Informationen und Vertragsbedingungen werden in [Angabe der Sprache] vorgelegt. Mit Ihrer Zustimmung werden wir während der Laufzeit des Kreditvertrags mit Ihnen in [Angabe der Sprache(n)] kommunizieren.<br />
+[Hinweis betreffend das Recht, dass der Kreditvertrag gegebenenfalls im Entwurf vorgelegt oder dies angeboten wird].</td>
+</tr>
+<tr class="odd">
+<td>15. Aufsichtsbehörde</td>
+</tr>
+<tr class="even">
+<td>Die Aufsicht über diesen Kreditgeber obliegt: [Bezeichnung(en) und Internetadresse(n) der Aufsichtsbehörde(n)].<br />
+(falls zutreffend) Die Aufsicht über diesen Kreditvermittler obliegt: [Bezeichnung und Internetadresse der Aufsichtsbehörde].</td>
+</tr>
+</tbody>
+</table>
+
+Teil B
+Hinweise zum Ausfüllen des ESIS-Merkblatts
+
+Beim Ausfüllen des ESIS-Merkblatts sind die folgenden Hinweise zu beachten:
+
+Abschnitt „Vorbemerkungen“
+
+Das Datum, bis zu dem die Angaben gelten, ist optisch angemessen hervorzuheben. Für die Zwecke dieses Abschnitts bezeichnet der Begriff „Gültigkeitsdatum“ den Zeitraum, innerhalb dessen die im ESIS-Merkblatt enthaltenen Angaben, etwa der Sollzinssatz, unverändert bleiben und zur Anwendung kommen werden, falls der Kreditgeber beschließt, den Kredit innerhalb dieser Frist zu bewilligen. Hängt die Festlegung des anwendbaren Sollzinssatzes und anderer Kosten vom Ergebnis des Verkaufs zugrunde liegender Wertpapiere ab, so können der vertraglich vereinbarte Sollzinssatz und andere Kosten gegebenenfalls von diesen Angaben abweichen. Ausschließlich unter diesen Umständen ist auf die Tatsache, dass sich das Gültigkeitsdatum nicht auf den Sollzinssatz und andere Kosten bezieht, mit folgender Angabe hinzuweisen: „mit Ausnahme des Zinssatzes und anderer Kosten“.
+
+Abschnitt „1. Kreditgeber“
+
+(1)  
+Name, Telefonnummer und Anschrift des Kreditgebers müssen diejenigen Kontaktdaten sein, die der Verbraucher in der künftigen Kommunikation verwenden kann.
+
+(2)  
+Angaben zu E-Mail-Adresse, Faxnummer, Internetadresse und Kontaktperson oder -stelle sind fakultativ.
+
+(3)  
+Wird der Kreditvertrag im Rahmen eines Fernabsatzgeschäfts gemäß § 312c des Bürgerlichen Gesetzbuchs angeboten, muss der Kreditgeber hier gegebenenfalls gemäß Artikel 246b § 1 Absatz 1 Nummer 3 und 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche Namen und Anschrift seines Vertreters in dem Mitgliedstaat der Europäischen Union, in dem der Verbraucher seinen Wohnsitz hat, angeben. Die Angabe von Telefonnummer, E-Mail-Adresse und Internetadresse des Vertreters des Kreditgebers ist fakultativ.
+
+(4)  
+Kommt Abschnitt 2 nicht zur Anwendung, so unterrichtet der Kreditgeber unter Verwendung der Formulierungen in Teil A den Verbraucher darüber, ob und auf welcher Grundlage Beratungsdienstleistungen (Beratungsleistungen gemäß § 511 des Bürgerlichen Gesetzbuchs) erbracht werden.
+
+(falls zutreffend) Abschnitt „2. Kreditvermittler“
+
+Erhält der Verbraucher die Produktinformationen von einem Kreditvermittler, so erteilt dieser die folgenden Informationen:
+
+(1)  
+Name, Telefonnummer und Anschrift des Kreditvermittlers müssen diejenigen Kontaktdaten sein, die der Verbraucher in der künftigen Kommunikation verwenden kann.
+
+(2)  
+Angaben zu E-Mail-Adresse, Faxnummer, Internetadresse und Kontaktperson oder -stelle sind fakultativ.
+
+(3)  
+Der Kreditvermittler unterrichtet unter Verwendung der Formulierungen in Teil A den Verbraucher darüber, ob und auf welcher Grundlage Beratungsdienstleistungen (Beratungsleistungen gemäß § 511 des Bürgerlichen Gesetzbuchs) erbracht werden.
+
+(4)  
+Erläuterungen zur Art und Weise der Vergütung des Kreditvermittlers. Erhält dieser eine Provision vom Kreditgeber, so sind der Betrag und – sofern abweichend von der Angabe unter Abschnitt 1 – der Name des Kreditgebers anzugeben.
+
+Abschnitt „3. Hauptmerkmale des Kredits“
+
+(1)  
+In diesem Abschnitt sind die Hauptmerkmale des Kredits, einschließlich des Wertes, der Währung und der potenziellen Risiken, die mit dem Sollzinssatz (darunter die unter Nummer 8 genannten Risiken) und der Amortisationsstruktur verbunden sind, klar darzulegen.
+
+(2)  
+Handelt es sich bei der Kreditwährung nicht um die Landeswährung des Verbrauchers, so weist der Kreditgeber darauf hin, dass der Verbraucher einen regelmäßigen Warnhinweis erhält, sobald der Wechselkurs um mehr als 20 % schwankt, und dass er das Recht hat, die Währung des Kreditvertrags in seine Landeswährung umzuwandeln. Er weist auch auf alle sonstigen Regelungen, die dem Verbraucher zur Begrenzung des Wechselkursrisikos zur Verfügung stehen, hin. Ist im Kreditvertrag eine Bestimmung zur Begrenzung des Wechselkursrisikos vorgesehen, so gibt der Kreditgeber den Höchstbetrag an, den der Verbraucher gegebenenfalls zurückzuzahlen hat. Ist im Kreditvertrag keine Bestimmung vorgesehen, wonach das Wechselkursrisiko für den Verbraucher auf eine Wechselkursschwankung von weniger als 20 % begrenzt wird, so gibt der Kreditgeber ein anschauliches Beispiel dafür, wie sich ein Kursverfall der Landeswährung des Verbrauchers von 20 % gegenüber der Kreditwährung auf den Wert des Kredits auswirkt.
+
+(3)  
+Die Laufzeit des Kredits ist – je nach Relevanz – in Jahren oder Monaten auszudrücken. Kann sich die Kreditlaufzeit während der Geltungsdauer des Vertrags ändern, erläutert der Kreditgeber, wann und unter welchen Bedingungen dies möglich ist. Handelt es sich um einen unbefristeten Kredit, etwa für eine gesicherte Kreditkarte, so ist dies vom Kreditgeber klar anzugeben.
+
+(4)  
+Die Art des Kredits ist genau anzugeben (z. B. grundpfandrechtlich besicherter Kredit, wohnungswirtschaftlicher Kredit, gesicherte Kreditkarte). Bei der Beschreibung der Kreditart ist klar anzugeben, wie Kapital und Zinsen während der Laufzeit des Kredits zurückzuzahlen sind (d. h. die Amortisationsstruktur) und ob der Kreditvertrag auf einer Kapitalrückzahlung oder auf der Endfälligkeit basiert oder eine Mischung von beidem ist.
+
+(5)  
+Handelt es sich bei dem gewährten Kredit oder einem Teil davon um einen endfälligen Kredit, so ist ein diesbezüglicher eindeutiger Hinweis unter Verwendung der Formulierung in Teil A deutlich sichtbar am Ende dieses Abschnitts einzufügen.
+
+(6)  
+In der Rubrik \[Art des anwendbaren Zinssatzes\] ist anzugeben, ob der Sollzinssatz fest oder variabel ist, sowie gegebenenfalls die Zeiträume, für die der Zinssatz festgeschrieben ist, wie häufig der Zinssatz in der Folge überprüft wird und inwieweit die Variabilität des Sollzinssatzes nach oben oder nach unten hin begrenzt ist.Die Formel für die Überprüfung des Sollzinssatzes und ihrer einzelnen Bestandteile (z. B. Referenzzinssatz, Zinsmarge) ist zu erläutern. Der Kreditgeber hat anzugeben, etwa mittels einer Internetadresse, wo weitere Informationen zu den in der Formel zugrunde gelegten Indizes oder Zinssätzen zu finden sind, z. B. EURIBOR-Satz oder Referenzzinssatz der Zentralbank.
+
+(7)  
+Gelten unter bestimmten Umständen unterschiedliche Sollzinssätze, so sind diese Angaben für alle anzuwendenden Sollzinssätze zu machen.
+
+(8)  
+Der „zurückzuzahlende Gesamtbetrag“ entspricht dem Gesamtbetrag, den der Verbraucher zu zahlen hat. Er wird dargestellt als die Summe aus Nettodarlehensbetrag und Gesamtkosten des Kredits für den Verbraucher. Ist der Sollzinssatz für die Laufzeit des Vertrags nicht festgelegt, so ist optisch hervorzuheben, dass dieser Betrag lediglich Beispielcharakter hat und insbesondere bei einer Veränderung des Sollzinssatzes variieren kann.
+
+(9)  
+Wird der Kredit durch eine Hypothek auf die Immobilie oder durch eine andere vergleichbare Sicherheit oder ein Recht an einer Immobilie gesichert, hat der Kreditgeber den Verbraucher darauf hinzuweisen. Der Kreditgeber hat gegebenenfalls den geschätzten Wert der Immobilie oder der sonstigen Sicherheiten zu nennen, die zur Erstellung dieses Merkblatts herangezogen wurden.
+
+(10)  
+Der Kreditgeber gibt gegebenenfalls Folgendes an:
 
 a)  
-wenn der Vertrag nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat:
-„
-
-–  
-Widerruft der Darlehensnehmer diesen Darlehensvertrag, so ist er auch an den \[einsetzen: Bezeichnung des verbundenen Vertrags\] (im Folgenden: verbundener Vertrag)\*\* nicht mehr gebunden.
-
-–  
-Steht dem Darlehensnehmer in Bezug auf den \[einsetzen\*\*\*: verbundenen Vertrag\] ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf des \[einsetzen\*\*\*: verbundenen Vertrags\] auch an den Darlehensvertrag nicht mehr gebunden. Für die Rechtsfolgen des Widerrufs sind die in dem \[einsetzen\*\*\*: verbundenen Vertrag\] getroffenen Regelungen und die hierfür erteilte Widerrufsbelehrung maßgeblich.
-
-”
+die „Beleihungsgrenze“ (maximale Höhe des Kredits im Verhältnis zum Wert der Immobilie), die das Verhältnis zwischen Kredithöhe und Objektwert angibt; neben der entsprechenden Angabe ist ein konkretes Zahlenbeispiel für die Ermittlung des Höchstbetrags zu nennen, der bei einem bestimmten Immobilienwert als Kredit aufgenommen werden kann oder
 
 b)  
-wenn der Vertrag den Erwerb von Finanzinstrumenten zum Gegenstand hat:
-„
+den „Mindestwert der Immobilie, den der Kreditgeber für die Vergabe eines Kredits in der angegebenen Höhe voraussetzt“.
+
+(11)  
+Bei mehrteiligen Krediten (z. B. zum Teil mit festem und zum Teil mit variablem Zinssatz) muss dies aus den Angaben zur Art des Kredits hervorgehen und die vorgeschriebenen Informationen müssen für jeden Teil des Kredits angegeben werden.
+
+Abschnitt „4. Zinssatz und andere Kosten“
+
+(1)  
+Der Begriff „Zinssatz“ bezeichnet den Sollzinssatz oder die Sollzinssätze.
+
+(2)  
+Der Sollzinssatz ist als Prozentwert anzugeben. Handelt es sich um einen variablen Sollzinssatz auf Basis eines Referenzzinssatzes, so kann der Kreditgeber den Sollzinssatz in Form eines Referenzzinssatzes und eines Prozentwerts seiner Zinsmarge angeben. Der Kreditgeber muss allerdings den am Tag der Ausstellung des ESIS-Merkblatts geltenden Wert des Referenzzinssatzes angeben.Im Falle eines variablen Sollzinssatzes ist Folgendes anzugeben:
+
+a)  
+die der Berechnung des effektiven Jahreszinses zugrunde gelegten Annahmen,
+
+b)  
+gegebenenfalls die geltenden Ober- und Untergrenzen sowie
+
+c)  
+ein Warnhinweis, dass sich die Variabilität negativ auf die tatsächliche Höhe des effektiven Jahreszinses auswirken könnte.
+
+Der Warnhinweis hat in größerer Schrift deutlich sichtbar im Hauptteil des ESIS-Merkblatts zu erscheinen, damit die Aufmerksamkeit der Verbraucher darauf gelenkt wird. Der Warnhinweis ist durch ein anschauliches Beispiel zum effektiven Jahreszins zu ergänzen. Besteht eine Obergrenze für den Sollzinssatz, so basiert das Beispiel auf der Annahme, dass der Sollzinssatz bei frühestmöglicher Gelegenheit auf das höchste im Kreditvertrag vorgesehene Niveau ansteigt. Besteht keine Obergrenze, so bildet das Beispiel den effektiven Jahreszins beim höchsten Sollzinssatz der mindestens letzten 20 Jahre ab oder – falls die der Berechnung des Sollzinssatzes zugrunde liegenden Daten nur für einen Zeitraum von weniger als 20 Jahren vorliegen – des längsten Zeitraums, für den solche Daten vorliegen, und zwar ausgehend vom Höchststand des jeweiligen externen Referenzsatzes, der gegebenenfalls für die Berechnung des Sollzinssatzes herangezogen wurde oder vom Höchststand eines Benchmarkzinssatzes, der von einer zuständigen Behörde oder der Europäischen Bankenaufsichtsbehörde (EBA) festgesetzt wird, sofern der Kreditgeber keinen externen Referenzsatz verwendet. Diese Anforderung gilt nicht für Kreditverträge, bei denen für einen konkreten Anfangszeitraum von mindestens fünf Jahren ein fester Sollzinssatz vereinbart wurde, der anschließend nach Verhandlungen zwischen Kreditgeber und Verbraucher für einen weiteren Zeitraum festgeschrieben werden kann. Im Falle von Kreditverträgen, bei denen für einen konkreten Anfangszeitraum von mindestens fünf Jahren ein fester Sollzinssatz vereinbart wurde, der anschließend nach Verhandlungen zwischen Kreditgeber und Verbraucher für einen weiteren Zeitraum festgeschrieben werden kann, muss das Merkblatt einen Warnhinweis enthalten, dass der effektive Jahreszins auf der Grundlage des Sollzinssatzes für den Anfangszeitraum berechnet worden ist. Der Warnhinweis ist durch ein zusätzliches anschauliches Beispiel für den gemäß § 6 Absatz 2 bis 6 und 8 der Preisangabenverordnung errechneten effektiven Jahreszins zu ergänzen. Bei mehrteiligen Krediten (z. B. zugleich zum Teil mit festem und zum Teil mit variablem Zinssatz) sind die entsprechenden Informationen für jeden einzelnen Teil des Kredits zu erteilen.
+
+(3)  
+In der Rubrik „sonstige Komponenten des effektiven Jahreszinses“ sind alle sonstigen im effektiven Jahreszins enthaltenen Kosten aufzuführen, einschließlich einmaliger Kosten – etwa Verwaltungsgebühren – sowie regelmäßige Kosten wie jährliche Verwaltungsgebühren. Der Kreditgeber listet die einzelnen Kosten nach Kategorien auf (einmalige Kosten, in den Raten enthaltene regelmäßig anfallende Kosten, in den Raten nicht enthaltene regelmäßig anfallende Kosten) und gibt die jeweiligen Beträge, den Zahlungsempfänger und den Zeitpunkt der Fälligkeit an. Dabei müssen die für Vertragsverletzungen anfallenden Kosten nicht enthalten sein. Ist die Höhe der Kosten nicht bekannt, so gibt der Kreditgeber, falls möglich, einen Näherungswert an; ist dies nicht möglich, so erläutert er, wie sich der Betrag berechnen wird, wobei ausdrücklich anzugeben ist, dass der genannte Betrag lediglich Hinweischarakter hat. Sind einzelne Kosten im effektiven Jahreszins nicht enthalten, weil sie dem Kreditgeber nicht bekannt sind, so ist dies optisch hervorzuheben.Hat der Verbraucher dem Kreditgeber seine Wünsche in Bezug auf eines oder mehrere Elemente seines Kredits mitgeteilt, beispielsweise in Bezug auf die Laufzeit des Kreditvertrags oder den Gesamtkreditbetrag, so muss der Kreditgeber diese Elemente soweit möglich aufgreifen; sofern ein Kreditvertrag unterschiedliche Verfahren der Inanspruchnahme mit jeweils unterschiedlichen Gebühren oder Sollzinssätzen vorsieht und der Kreditgeber die Annahmen nach der Anlage zu § 6 der Preisangabenverordnung zugrunde legt, so weist er darauf hin, dass andere Mechanismen der Inanspruchnahme bei dieser Art des Kreditvertrags zu einem höheren effektiven Jahreszins führen können. Falls die Bedingungen für die Inanspruchnahme in die Berechnung des effektiven Jahreszinses einfließen, hebt der Kreditgeber die Gebühren optisch hervor, die mit anderen Mechanismen der Inanspruchnahme verbunden sein können, welche nicht notwendigerweise diejenigen sind, anhand deren der effektive Jahreszins berechnet worden ist.
+
+(4)  
+Fällt eine Gebühr für die Eintragung einer Hypothek oder vergleichbaren Sicherheit an, so ist diese zusammen mit dem Betrag (sofern bekannt) in diesem Abschnitt anzugeben oder – falls dies nicht möglich ist – ist die Grundlage für die Festsetzung dieses Betrags anzugeben. Ist die Gebühr bekannt und wurde sie in den effektiven Jahreszins eingerechnet, so sind das Anfallen der Gebühr und deren Höhe unter „einmalige Kosten“ auszuweisen. Ist dem Kreditgeber die Gebühr nicht bekannt und wurde diese daher nicht in den effektiven Jahreszins eingerechnet, so muss das Anfallen einer Gebühr klar und deutlich in der Liste der dem Kreditgeber nicht bekannten Kosten aufgeführt werden. In beiden Fällen ist die Standardformulierung gemäß Teil A unter der entsprechenden Rubrik zu verwenden.
+
+Abschnitt „5. Häufigkeit und Anzahl der Ratenzahlungen“
+
+(1)  
+Sind regelmäßige Zahlungen zu leisten, ist das Zahlungsintervall (z. B. monatlich) anzugeben. Sind Zahlungen in unregelmäßigen Abständen vorgesehen, ist dies dem Verbraucher klar zu erläutern.
+
+(2)  
+Es sind alle über die gesamte Kreditlaufzeit zu leistenden Zahlungen aufzuführen.
+
+Abschnitt „6. Höhe der einzelnen Raten“
+
+(1)  
+Es ist klar anzugeben, in welcher Währung der Kredit bereitgestellt wird und die Raten gezahlt werden.
+
+(2)  
+Kann sich die Höhe der Raten während der Kreditlaufzeit ändern, hat der Kreditgeber anzugeben, für welchen Zeitraum die anfängliche Ratenhöhe unverändert bleibt und wann und wie häufig sie sich in der Folge ändern wird.
+
+(3)  
+Handelt es sich bei dem gewährten Kredit oder einem Teil davon um einen endfälligen Kredit, so ist ein diesbezüglicher eindeutiger Hinweis unter Verwendung der Formulierung in Teil A deutlich sichtbar am Ende dieses Abschnitts einzufügen.Muss der Verbraucher ein damit verbundenes Sparprodukt aufnehmen, um einen durch eine Hypothek oder eine vergleichbare Sicherheit gesicherten endfälligen Kredit zu erhalten, sind Betrag und Häufigkeit von Zahlungen für dieses Produkt anzugeben.
+
+(4)  
+Im Falle eines variablen Sollzinssatzes muss das Merkblatt einen diesbezüglichen Hinweis enthalten, wobei die Formulierung unter Teil A zu verwenden und ein anschauliches Beispiel für die maximale Zahlungsrate anzuführen ist. Besteht eine Obergrenze, so muss in dem Beispiel die Höhe der Raten aufgezeigt werden, die fällig sind, falls der Sollzinssatz die Obergrenze erreicht. Besteht keine Obergrenze, so bildet der ungünstigste denkbare Verlauf die Höhe der Ratenzahlungen beim höchsten Sollzinssatz der letzten 20 Jahre ab oder – falls die der Berechnung des Sollzinssatzes zugrunde liegenden Daten nur für einen Zeitraum von weniger als 20 Jahren vorliegen – des längsten Zeitraums, für den solche Daten vorliegen, und zwar ausgehend vom Höchststand des jeweiligen externen Referenzsatzes, der gegebenenfalls für die Berechnung des Sollzinssatzes herangezogen wurde oder vom Höchststand eines Benchmarkzinssatzes, der von einer zuständigen Behörde oder der EBA festgesetzt wird, sofern der Kreditgeber keinen externen Referenzsatz verwendet. Die Anforderung, ein anschauliches Beispiel anzuführen, gilt nicht für Kreditverträge, bei denen ein fester Sollzinssatz für einen konkreten Anfangszeitraum von mindestens fünf Jahren vereinbart wurde, der anschließend nach Verhandlungen zwischen Kreditgeber und Verbraucher für einen weiteren Zeitraum festgelegt werden kann. Bei mehrteiligen Krediten (d. h. zugleich zum Teil mit festem und zum Teil mit variablem Zinssatz) sind die entsprechenden Informationen für jeden einzelnen Teil des Kredits und für den Gesamtkredit anzugeben.
+
+(5)  
+(falls zutreffend) Wird der Kredit in einer anderen Währung als der Landeswährung des Verbrauchers bereitgestellt oder ist er auf eine andere Währung als die Landeswährung des Verbrauchers indexiert, verdeutlicht der Kreditgeber – unter Verwendung der Formulierung unter Teil A – anhand eines Zahlenbeispiels, wie sich Änderungen des maßgeblichen Wechselkurses auf die Höhe der Raten auswirken können. Dieses Beispiel basiert auf einem Kursverlust der Landeswährung des Verbrauchers von 20 % und wird von einem Hinweis an hervorgehobener Stelle begleitet, dass die Raten um mehr als den in diesem Beispiel angenommenen Betrag steigen können. Besteht eine Obergrenze, die den Anstieg auf weniger als 20 % begrenzt, so ist stattdessen der Höchstwert der Zahlungen in der Landeswährung des Verbrauchers anzugeben und der Hinweis auf etwaige weitere Anstiege entfällt.
+
+(6)  
+Handelt es sich bei dem gesamten Kreditvertrag oder einem Teil davon um einen Kreditvertrag mit variablem Zinssatz und kommt ferner Nummer 5 zur Anwendung, so ist das Beispiel nach Nummer 4 auf der Grundlage der Ratenhöhe im Sinne von Nummer 1 anzugeben.
+
+(7)  
+Werden die Raten in einer anderen Währung als der Kreditwährung gezahlt oder hängt die Höhe der einzelnen in der Landeswährung des Verbrauchers ausgedrückten Raten von dem entsprechenden Betrag in einer anderen Währung ab, so sind in diesem Abschnitt der Termin, zu dem der anwendbare Wechselkurs berechnet wurde, sowie entweder der Wechselkurs oder die Grundlage für dessen Berechnung und die Häufigkeit der Anpassung desselben anzugeben. Gegebenenfalls ist dabei der Name der den Wechselkurs veröffentlichenden Einrichtung zu nennen.
+
+(8)  
+Handelt es sich um einen Kredit mit abgegrenztem Zins, bei dem der fällige Zins durch die Raten nicht vollständig zurückbezahlt und zum ausstehenden Gesamtkreditbetrag hinzuaddiert wird, so ist zu erläutern, wie und wann der abgegrenzte Zins als Barbetrag zu dem Kredit hinzuaddiert wird und wie sich dies auf die Restschuld des Verbrauchers auswirkt.
+
+Abschnitt „7. Beispiel eines Tilgungsplans“
+
+(1)  
+Dieser Abschnitt ist aufzunehmen, falls es sich um einen Kredit mit abgegrenztem Zins handelt, bei dem der fällige Zins durch die Raten nicht vollständig zurückbezahlt und zum ausstehenden Gesamtkreditbetrag hinzuaddiert wird, oder falls der Sollzinssatz für die Laufzeit des Kreditvertrags festgeschrieben ist. Der Abschnitt ist ferner aufzunehmen, wenn im Kreditvertrag ein Zeitpunkt für die Rückzahlung des Kredits bestimmt werden soll. Soll im Kreditvertrag ein Zeitpunkt für die Rückzahlung des Kredits bestimmt werden, ist der Verbraucher darauf hinzuweisen, dass er vom Kreditgeber jederzeit einen Tilgungsplan nach Artikel 247 § 14 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche verlangen kann.
+
+(2)  
+Kann der Sollzinssatz während der Kreditlaufzeit variieren, so muss der Kreditgeber nach Angabe des Sollzinssatzes den Zeitraum nennen, während dessen der Anfangszinssatz unverändert bleibt, wenn dieser bekannt ist.
+
+(3)  
+Die Tabelle in diesem Abschnitt muss folgende Spalten enthalten: „Rückzahlungsplan“ (z. B. Monat 1, Monat 2, Monat 3), „Ratenhöhe“, „pro Rate zu zahlende Zinsen“, „sonstige in der Rate enthaltene Kosten“ (falls zutreffend), „pro Rate zurückgezahltes Kapital“ und „nach der jeweiligen Ratenzahlung noch zurückzuzahlendes Kapital“.
+
+(4)  
+Für das erste Jahr der Rückzahlung sind für jede einzelne Ratenzahlung die betreffenden Angaben und für jede einzelne Spalte die Zwischensumme am Ende des ersten Jahres anzugeben. Für die Folgejahre können die Angaben auf Jahresbasis gemacht werden. Am Ende der Tabelle ist eine Reihe mit den Gesamtbeträgen für alle Spalten anzufügen. Die vom Verbraucher gezahlte Gesamtsumme der Spalte „Höhe der Ratenzahlung“ ist optisch deutlich hervorzuheben und als solche darzustellen.
+
+(5)  
+Ist der Sollzinssatz Gegenstand einer Überprüfung und ist die Ratenhöhe nach einer solchen Überprüfung nicht bekannt, kann der Kreditgeber im Tilgungsplan für die gesamte Kreditlaufzeit dieselbe Ratenhöhe angeben. In diesem Fall macht der Kreditgeber den Verbraucher darauf aufmerksam, indem er den Unterschied zwischen bereits feststehenden Beträgen und hypothetischen Beträgen optisch verdeutlicht (z. B. durch Schriftgröße, Rahmen oder Schattierung). Außerdem ist in leicht verständlicher Form zu erläutern, für welche Zeiträume und aus welchen Gründen sich die in der Tabelle angegebenen Beträge ändern können.
+
+Abschnitt „8. Zusätzliche Auflagen“
+
+(1)  
+Der Kreditgeber nennt in diesem Abschnitt die mit der Kreditvergabe verbundenen Auflagen, so die Auflage, die Immobilie zu versichern, eine Lebensversicherung abzuschließen, das Gehalt auf ein bei dem Kreditgeber geführtes Konto überweisen zu lassen oder ein anderes Produkt oder eine andere Dienstleistung zu erwerben. Für jede dieser Auflagen gibt der Kreditgeber an, wem gegenüber die Verpflichtung besteht und bis wann ihr nachzukommen ist.
+
+(2)  
+Der Kreditgeber gibt die Dauer der Auflage an, z. B. bis zum Ablauf des Kreditvertrags. Der Kreditgeber gibt für jede Verpflichtung die dem Verbraucher entstehenden Kosten an, die im effektiven Jahreszins nicht berücksichtigt wurden.
+
+(3)  
+Der Kreditgeber teilt mit, ob der Verbraucher zum Erwerb etwaiger Nebenleistungen verpflichtet ist, um den Kredit zu den genannten Bedingungen zu erhalten, und ob der Verbraucher gegebenenfalls verpflichtet ist, diese vom bevorzugten Anbieter des Kreditgebers zu erwerben oder ob er diese von einem Anbieter seiner Wahl erwerben kann. Hängt eine solche Möglichkeit davon ab, dass die Nebenleistungen bestimmte Mindestmerkmale aufweisen, so sind diese in dieser Rubrik zu beschreiben.Sofern der Kreditvertrag mit anderen Produkten gebündelt angeboten wird, nennt der Kreditgeber die wichtigsten Merkmale dieser anderen Produkte und gibt eindeutig an, ob der Verbraucher das Recht hat, den Kreditvertrag oder die an ihn geknüpften Produkte voneinander getrennt zu kündigen und zu welchen Bedingungen und mit welchen Folgen dies möglich ist sowie gegebenenfalls die möglichen Folgen der Kündigung der in Verbindung mit dem Kreditvertrag vorgeschriebenen Nebenleistungen.
+
+Abschnitt „9. Vorzeitige Rückzahlung“
+
+(1)  
+Der Kreditgeber nennt die etwaigen Bedingungen für eine vorzeitige vollständige oder teilweise Rückzahlung des Kredits.
+
+(2)  
+In der Rubrik „Ablöseentschädigung“ weist der Kreditgeber den Verbraucher auf die im Falle einer vorzeitigen Rückzahlung mögliche Vorfälligkeitsentschädigung hin und gibt sofern möglich deren Höhe an. Der Kreditgeber erläutert, wie die Vorfälligkeitsentschädigung berechnet wird, und gibt den potenziellen Höchstbetrag der Entschädigung an oder – falls dies nicht möglich ist – macht dem Verbraucher in einem anschaulichen Beispiel deutlich, wie hoch die Entschädigung bei Zugrundelegung unterschiedlicher möglicher Szenarien ausfällt.
+
+Abschnitt „10. Flexible Merkmale“
+
+(1)  
+Gegebenenfalls erläutert der Kreditgeber die Möglichkeit und die Bedingungen für die Übertragung des Kredits auf einen anderen Kreditnehmer oder eine andere Immobilie.
+
+(2)  
+(falls zutreffend) Zusätzliche Merkmale: Wenn Produkte eines der unten unter Nummer 5 aufgelisteten Merkmale enthalten, muss dieser Abschnitt diese Merkmale auflisten und eine knappe Erläuterung der folgenden Punkte enthalten:
 
 –  
-Widerruft der Darlehensnehmer den \[einsetzen: Bezeichnung des verbundenen Vertrags\], so ist er auch an den Darlehensvertrag nicht mehr gebunden.
-
-”
-
-\[4b\]  
-Bei einem Geschäft, dessen Vertragsgegenstand (die Ware oder Leistung des Unternehmers) in dem Verbraucherdarlehensvertrag genau angegeben ist und das nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt (angegebenes Geschäft gemäß § 359a Absatz 1 BGB), ist hier Folgendes einzufügen:
-„
+die Bedingungen, unter denen der Verbraucher dieses Merkmal nutzen kann;
 
 –  
-Steht dem Darlehensnehmer in Bezug auf das \[einsetzen: Bezeichnung des im Darlehensvertrag angegebenen Geschäfts\] (im Folgenden: angegebenes Geschäft)\*\* ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf des angegebenen Geschäfts auch an diesen Darlehensvertrag nicht mehr gebunden.
-
-”
-
-\[4c\]  
-Bei einem Vertrag über eine vom Darlehensgeber für die Darlehensgewährung verlangte Zusatzleistung (§ 359a Absatz 2 BGB in Verbindung mit Artikel 247 § 8 EGBGB), der nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt und der nicht den durch das Darlehen finanzierten Erwerb von Finanzinstrumenten zum Gegenstand hat, kann hier Folgendes eingefügt werden:
-„
+jegliche mit dem Merkmal verbundenen Bedingungen;
 
 –  
-Steht dem Darlehensnehmer in Bezug auf diesen Darlehensvertrag ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf des Darlehensvertrags auch an den \[einsetzen: Bezeichnung des Vertrags über eine Zusatzleistung\] (im Folgenden: Vertrag über eine Zusatzleistung)\*\* nicht mehr gebunden, wenn der \[einsetzen\*\*\*: Vertrag über eine Zusatzleistung\] in unmittelbarem Zusammenhang mit dem Darlehensvertrag abgeschlossen wurde.
-
-”
-
-\[5\]  
-Hier ist der genaue Zinsbetrag in Euro pro Tag einzufügen. Centbeträge sind als Dezimalstellen anzugeben.
-
-\[6\]  
-Ist das Darlehen durch ein Grundpfandrecht gesichert, ist hier Folgendes einzufügen:
-„Wenn der Darlehensnehmer nachweist, dass der Wert seines Gebrauchsvorteils niedriger war als der Vertragszins, muss er nur den niedrigeren Betrag zahlen. Dies kann z. B. in Betracht kommen, wenn der marktübliche Zins geringer war als der Vertragszins.”
-
-\[7\]  
-Erbringt der Darlehensgeber gegenüber öffentlichen Stellen Aufwendungen gemäß § 495 Absatz 2 Satz 1 Nummer 3 Halbsatz 1 BGB und will er sich für den Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten, ist hier Folgendes einzufügen:
-„
+ob gewöhnlich mit dem Merkmal verbundene gesetzliche oder andere Schutzvorkehrungen für den Verbraucher wegfallen, wenn das Merkmal Bestandteil des durch eine Hypothek oder vergleichbare Sicherheit gesicherten Kredits ist, und
 
 –  
-Der Darlehensnehmer hat dem Darlehensgeber auch die Aufwendungen zu ersetzen, die der Darlehensgeber gegenüber öffentlichen Stellen erbracht hat und nicht zurückverlangen kann.
+die Firma, die das Merkmal anbietet (sofern mit dem Kreditgeber nicht identisch).
 
-”
+(3)  
+Wenn das Merkmal zusätzliche Kredite umfasst, müssen dem Verbraucher in diesem Abschnitt die folgenden Punkte erläutert werden: der Gesamtkreditbetrag (einschließlich des Kredits, der durch die Hypothek oder vergleichbare Sicherheit gesichert ist); ob der zusätzliche Kredit besichert ist; die entsprechenden Sollzinssätze und ob er einer Regulierung unterliegt. Dieser zusätzliche Kreditbetrag ist entweder im Rahmen der ursprünglichen Kreditwürdigkeitsprüfung enthalten oder – wenn dies nicht der Fall ist – es wird in diesem Abschnitt klargestellt, dass die Verfügbarkeit des zusätzlichen Betrags von einer weiteren Prüfung der Fähigkeit des Verbrauchers, den Kredit zurückzuzahlen, abhängt.
 
-\[8\]  
-Bei Anwendung der Gestaltungshinweise  \[8a\] ,  \[8b\] ,  \[8c\] ,  \[8d\] ,  \[8e\]  oder  \[8f\]  ist hier als Unterüberschrift einzufügen:
-„Besonderheiten bei weiteren Verträgen”.
-Dies gilt nicht, wenn bei einer entgeltlichen Finanzierungshilfe betreffend die Überlassung einer Sache ausschließlich der Hinweis  \[8c\]  verwandt wird und weitere Verträge nicht vorliegen.
-Liegen mehrere weitere Verträge nebeneinander vor, kann im Folgenden die Unterrichtung gemäß den anwendbaren Gestaltungshinweisen auch durch eine entsprechende, jeweils auf den konkreten Vertrag bezogene, wiederholte Nennung der Hinweise erfolgen.
+(4)  
+Wenn das Merkmal einen Träger für Spareinlagen umfasst, sind die entsprechenden Zinssätze zu erläutern.
 
-\[8a\]  
-Bei einem verbundenen Vertrag nach § 358 BGB oder einem angegebenen Geschäft nach § 359a Absatz 1 BGB, der oder das nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:
-„
+(5)  
+Die möglichen weiteren Merkmale sind:
 
 –  
-Steht dem Darlehensnehmer in Bezug auf \[einsetzen\*\*\*: den verbundenen Vertrag und/oder das angegebene Geschäft\] ein Widerrufsrecht zu, sind im Fall des wirksamen Widerrufs \[einsetzen\*\*\*: des verbundenen Vertrags und/oder des angegebenen Geschäfts\] Ansprüche des Darlehensgebers auf Zahlung von Zinsen und Kosten aus der Rückabwicklung des Darlehensvertrags gegen den Darlehensnehmer ausgeschlossen.
-
-”
-
-\[8b\]  
-Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat oder bei einem Vertrag über eine Zusatzleistung, wenn von Gestaltungshinweis  \[4c\]  Gebrauch gemacht wurde, ist hier Folgendes einzufügen:
-„
+„Überzahlungen/Unterzahlungen“ \[es wird mehr oder weniger zurückgezahlt als die im Rahmen der Amortisationsstruktur vereinbarte normale Rate\];
 
 –  
-Ist der Darlehensnehmer aufgrund des Widerrufs dieses Darlehensvertrags an \[einsetzen\*\*\*: den verbundenen Vertrag und/oder den Vertrag über eine Zusatzleistung\] nicht mehr gebunden, sind insoweit die beiderseits empfangenen Leistungen zurückzugewähren und ggf. gezogene Nutzungen (z. B. Zinsen) herauszugeben.
-
-”
-
-\[8c\]  
-Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung einer Sache oder bei einem Vertrag über eine entgeltliche Finanzierungshilfe, deren Vertragsgegenstand die Überlassung einer Sache ist, sowie bei einem Vertrag über eine Zusatzleistung gerichtet auf die Überlassung einer Sache, wenn von Gestaltungshinweis  \[4c\]  Gebrauch gemacht wurde, ist hier folgender Unterabsatz einzufügen:
-„
+„Zahlungsunterbrechungen“ \[Zeiträume, während denen der Verbraucher keine Zahlungen leisten muss\];
 
 –  
-Paketversandfähige Sachen sind auf Kosten und auf Gefahr des Vertragspartners des Darlehensnehmers zurückzusenden. Die Kosten der Rücksendung hat der Darlehensnehmer abweichend davon zu tragen, wenn dies im \[einsetzen\*\*\*: verbundenen Vertrag und/oder Vertrag über eine Zusatzleistung\] wirksam vereinbart wurde. Nicht paketversandfähige Sachen werden beim Darlehensnehmer abgeholt.
-
-”Der zweite Satz („Die Kosten der Rücksendung …“) entfällt, wenn ein weiterer Vertrag nicht vorliegt.Der Unterabsatz kann wie folgt ergänzt werden:
-„Wenn der Darlehensnehmer die aufgrund \[einsetzen\*\*\*: des verbundenen Vertrags oder des Vertrags über eine Zusatzleistung oder einsetzen: Bezeichnung der entgeltlichen Finanzierungshilfe\] überlassene Sache sowie Nutzungen (z. B. Gebrauchsvorteile) nicht oder teilweise nicht oder nur in verschlechtertem Zustand zurückgewähren beziehungsweise herausgeben kann, hat er insoweit Wertersatz zu leisten. Für die Verschlechterung der Sache muss der Darlehensnehmer Wertersatz nur leisten, soweit die Verschlechterung auf einen Umgang mit der Sache zurückzuführen ist, der über die Prüfung der Eigenschaften und der Funktionsweise hinausgeht. Unter „Prüfung der Eigenschaften und der Funktionsweise“ versteht man das Testen und Ausprobieren der jeweiligen Ware, wie es etwa im Ladengeschäft möglich und üblich ist.”Handelt es sich bei dem verbundenen Vertrag oder dem Vertrag über eine Zusatzleistung um einen Fernabsatzvertrag, für den ein Widerrufsrecht gemäß § 312d BGB besteht oder bestand, sind die beiden vorhergehenden Sätze durch folgende Sätze zu ersetzen:„Für die Verschlechterung der Sache und für gezogene Nutzungen muss der Darlehensnehmer Wertersatz nur leisten, soweit die Verschlechterung auf einen Umgang mit der Sache zurückzuführen ist, der über die Prüfung der Eigenschaften und der Funktionsweise hinausgeht. Unter „Prüfung der Eigenschaften und der Funktionsweise“ versteht man das Testen und Ausprobieren der jeweiligen Ware, wie es etwa im Ladengeschäft möglich und üblich ist.”
-
-\[8d\]  
-Bei einem angegebenen Geschäft nach § 359a Absatz 1 BGB ist hier Folgendes einzufügen:
-„
+„Rückdarlehen“ \[Möglichkeit für den Verbraucher, Beträge, die bereits in Anspruch genommen und zurückbezahlt wurden, erneut aufzunehmen\];
 
 –  
-Ist der Darlehensnehmer aufgrund des Widerrufs des \[einsetzen:\*\*\* angegebenen Geschäfts\] an den Darlehensvertrag nicht mehr gebunden, sind insoweit die beiderseits empfangenen Leistungen zurückzugewähren und ggf. gezogene Nutzungen (z. B. Zinsen) herauszugeben.
-
-”
-
-\[8e\]  
-Bei einem verbundenen Vertrag nach § 358 BGB oder einem angegebenen Geschäft nach § 359a Absatz 1 BGB, der oder das nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, oder bei einem vom Darlehensgeber finanzierten Vertrag über eine Zusatzleistung, wenn von Gestaltungshinweis  \[4c\]  Gebrauch gemacht wurde, ist hier Folgendes einzufügen:
-„
+„verfügbare zusätzliche Kreditaufnahme ohne weitere Genehmigung“;
 
 –  
-Wenn der Darlehensnehmer infolge des Widerrufs des Darlehensvertrags nicht mehr an den weiteren Vertrag gebunden ist oder infolge des Widerrufs des weiteren Vertrags nicht mehr an den Darlehensvertrag gebunden ist, gilt ergänzend Folgendes: Ist das Darlehen bei Wirksamwerden des Widerrufs dem Vertragspartner des Darlehensnehmers aus \[einsetzen\*\*\*: dem verbundenen Vertrag und/oder dem angegebenen Geschäft und/oder dem Vertrag über eine Zusatzleistung\] bereits zugeflossen, tritt der Darlehensgeber im Verhältnis zum Darlehensnehmer hinsichtlich der Rechtsfolgen des Widerrufs in die Rechte und Pflichten des Vertragspartners aus dem weiteren Vertrag ein.
+„zusätzliche besicherte oder unbesicherte Kreditaufnahme \[in Übereinstimmung mit Nummer 3 oben\] „Kreditkarte“;
 
-”Dieser Hinweis entfällt, wenn der Darlehensgeber zugleich Vertragspartner des Darlehensnehmers aus dem weiteren Vertrag ist.
+–  
+„damit verbundenes Girokonto“ sowie
 
-\[8f\]  
-Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, sind hier folgende Überschrift und folgender Hinweis einzufügen:„**Einwendungen bei verbundenen Verträgen**”„Der Darlehensnehmer kann die Rückzahlung des Darlehens verweigern, soweit ihn Einwendungen berechtigen würden, seine Leistung gegenüber dem Vertragspartner aus dem verbundenen Vertrag zu verweigern. Dies gilt nicht, wenn das finanzierte Entgelt weniger als 200 Euro beträgt oder wenn der Rechtsgrund für die Einwendung auf einer Vereinbarung beruht, die zwischen dem Darlehensnehmer und dem anderen Vertragspartner nach dem Abschluss des Darlehensvertrags getroffen wurde. Kann der Darlehensnehmer von dem anderen Vertragspartner Nacherfüllung verlangen, so kann er die Rückzahlung des Darlehens erst verweigern, wenn die Nacherfüllung fehlgeschlagen ist.”Dieser Hinweis und die Überschrift können entfallen, wenn der Darlehensgeber weiß, dass das finanzierte Entgelt weniger als 200 Euro beträgt.
+–  
+„damit verbundenes Sparkonto“.
 
-   \* Die Vertragsparteien können auch direkt angesprochen werden (z. B. „Sie“, „Wir“). Es kann auch die weibliche Form der jeweiligen Bezeichnung und/oder die genaue Bezeichnung der Vertragsparteien verwendet werden. Es können auch die Bezeichnungen „Kreditnehmer“ und „Kreditgeber“ verwendet werden. Bei entgeltlichen Finanzierungshilfen sind die Bezeichnungen entsprechend anzupassen, beispielsweise mit „Leasinggeber“ und „Leasingnehmer“. Die weitergehende Anpassungspflicht für entgeltliche Finanzierungshilfen gemäß Artikel 247 § 12 Absatz 1 Satz 4 EGBGB bleibt unberührt.
+(6)  
+Der Kreditgeber kann alle weiteren Merkmale erläutern, die er als Teil des Kreditvertrags anbietet und die nicht in den vorausgehenden Abschnitten genannt sind.
 
- \*\* Dieser Klammerzusatz entfällt bei durchgängiger genauer Bezeichnung des Vertrags/Geschäfts.
+Abschnitt „11. Sonstige Rechte des Kreditnehmers“
 
-\*\*\* Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende Geschäft kann nach erstmaliger genauer Bezeichnung im Weiteren durch Verwendung der allgemeinen Bezeichnung des jeweiligen Vertrags/Geschäfts (verbundener Vertrag, angegebenes Geschäft, Vertrag über eine Zusatzleistung) erfolgen.
+(1)  
+Der Kreditgeber weist auf die bestehenden Rechte hin wie etwa ein Recht auf Widerruf oder Bedenkzeit oder gegebenenfalls andere Rechte wie etwa ein Recht auf Übertragbarkeit (einschließlich Abtretung), spezifiziert die Voraussetzungen für ihre Ausübung, die bei ihrer Ausübung vom Verbraucher einzuhaltenden Verfahren – unter anderem die Adresse, an die die Mitteilung über den Widerruf zu richten ist – sowie die entsprechenden Gebühren (falls zutreffend).
+
+(2)  
+Falls der Verbraucher ein Recht auf Bedenkzeit oder Widerruf hat, so wird deutlich darauf hingewiesen. Bei einem Widerrufsrecht nach § 495 des Bürgerlichen Gesetzbuchs kann für die Information zu dem „Zeitpunkt, zu dem die Frist beginnt“, die Formulierung aus Satz 2 (gegebenenfalls mit Gestaltungshinweis \[2\]) des Musters in Anlage 8 zu Artikel 247 § 6 Absatz 2 und Artikel 247 § 12 Absatz 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche verwandt werden.
+
+(3)  
+Wird der Kreditvertrag im Rahmen eines Fernabsatzgeschäfts angeboten und besteht kein Widerrufsrecht nach § 495 des Bürgerlichen Gesetzbuchs, ist der Verbraucher darüber zu unterrichten, ob er über ein Widerrufsrecht nach § 312g des Bürgerlichen Gesetzbuchs verfügt oder nicht. Im Falle des Bestehens eines solchen Widerrufsrechts ist der Verbraucher gemäß Artikel 246b § 1 Absatz 1 Satz 1 Nummer 12 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu informieren. Für die Information zu dem „Zeitpunkt, zu dem die Frist beginnt“, kann die Formulierung aus Satz 2 (gegebenenfalls mit Gestaltungshinweis \[1\]) des Musters in Anlage 3 zu Artikel 246b § 2 Absatz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche verwandt werden.
+
+Abschnitt „12. Beschwerden“
+
+(1)  
+In diesem Abschnitt werden die interne Kontaktstelle \[Bezeichnung der einschlägigen Abteilung\] und ein Weg zur Kontaktaufnahme mit dieser Beschwerdestelle \[Anschrift\] oder \[Telefonnummer\] oder \[eine Kontaktperson\] \[Kontaktangaben\] sowie ein Link zu einem Beschwerdeverfahren auf der entsprechenden Seite einer Website oder ähnlichen Informationsquelle angegeben.
+
+(2)  
+Es wird der Name der externen Stelle für außergerichtliche Beschwerde- und Rechtsbehelfsverfahren angegeben und – falls die Nutzung des internen Beschwerdeverfahrens eine Voraussetzung für den Zugang zu dieser Stelle ist – wird unter Verwendung der Formulierung in Teil A auf diesen Umstand hingewiesen.
+
+(3)  
+Bei Kreditverträgen mit einem Verbraucher, der seinen Wohnsitz in einem anderen Mitgliedstaat hat, macht der Kreditgeber diesen auf das FIN-NET aufmerksam (http://ec.europa.eu/internal\_market/fin-net/).
+
+Abschnitt „13. Nichteinhaltung der aus dem Kreditvertrag
+erwachsenden Verpflichtungen: Konsequenzen für den Kreditnehmer“
+
+(1)  
+Kann die Nichteinhaltung einer aus dem Kredit erwachsenden Verpflichtung durch den Verbraucher für diesen finanzielle oder rechtliche Konsequenzen haben, erläutert der Kreditgeber in diesem Abschnitt die wichtigsten Fälle (z. B. Zahlungsverzug/Zahlungsausfall, Nichteinhaltung der in Abschnitt 8 – „Zusätzliche Auflagen“ – genannten Verpflichtungen) und gibt an, wo weitere Informationen hierzu eingeholt werden können.
+
+(2)  
+Der Kreditgeber gibt für jeden dieser Fälle in klarer, leicht verständlicher Form an, welche Sanktionen oder Konsequenzen daraus erwachsen können. Hinweise auf schwerwiegende Konsequenzen sind optisch hervorzuheben.
+
+(3)  
+Kann die zur Besicherung des Kredits verwendete Immobilie an den Kreditgeber zurückgegeben oder übertragen werden, falls der Verbraucher seinen Verpflichtungen nicht nachkommt, so ist in diesem Abschnitt unter Verwendung der Formulierung in Teil A auf diesen Umstand hinzuweisen.
+
+Abschnitt „14. Weitere Angaben“
+
+(1)  
+Im Falle von im Fernabsatz geschlossenen Verträgen enthält dieser Abschnitt sämtliche Angaben zu dem auf den Kreditvertrag anwendbaren Recht oder zur zuständigen Gerichtsbarkeit.
+
+(2)  
+Beabsichtigt der Kreditgeber, während der Vertragslaufzeit mit dem Verbraucher in einer anderen Sprache als der des ESIS-Merkblatts zu kommunizieren, wird dies ebenfalls erwähnt und die Sprache angegeben, in der kommuniziert werden soll. Die Verpflichtung zur vorvertraglichen Information bei Fernabsatzverträgen über die verwendete Sprache gemäß § 312d des Bürgerlichen Gesetzbuchs und Artikel 246b § 1 Absatz 1 Nummer 17 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bleibt hiervon unberührt.
+
+(3)  
+Der Kreditgeber oder der Kreditvermittler weisen auf das Recht des Verbrauchers hin, dass er gegebenenfalls zumindest zum Zeitpunkt der Vorlage eines für den Kreditgeber verbindlichen Angebots eine Ausfertigung des Kreditvertragsentwurfs erhält oder ihm dies angeboten wird.
+
+Abschnitt „15. Aufsichtsbehörde“
+
+Es sind die Behörden anzugeben, die für die Überwachung des vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
+
+-
+-
+
+### Anlage 7 (zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1)Muster für eine Widerrufsinformation für Allgemein-Verbraucherdarlehensverträge
+
+(Fundstelle: BGBl. I 2016, S. 430 - 432)
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Widerrufsinformation**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Widerrufsrecht**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Der Darlehensnehmer\* kann seine Vertragserklärung innerhalb von 14 Tagen ohne Angabe von Gründen widerrufen. Die Frist beginnt nach Abschluss des Vertrags, aber erst, nachdem der Darlehensnehmer alle Pflichtangaben nach § 492 Absatz 2 BGB (z. B. Angabe zur Art des Darlehens, Angabe zum Nettodarlehensbetrag, Angabe zur Vertragslaufzeit) erhalten hat. Der Darlehensnehmer hat alle Pflichtangaben erhalten, wenn sie in der für den Darlehensnehmer bestimmten Ausfertigung seines Antrags oder in der für den Darlehensnehmer bestimmten Ausfertigung der Vertragsurkunde oder in einer für den Darlehensnehmer bestimmten Abschrift seines Antrags oder der Vertragsurkunde enthalten sind und dem Darlehensnehmer eine solche Unterlage zur Verfügung gestellt worden ist. Über in den Vertragstext nicht aufgenommene Pflichtangaben kann der Darlehensnehmer nachträglich auf einem dauerhaften Datenträger informiert werden; die Widerrufsfrist beträgt dann einen Monat. Der Darlehensnehmer ist mit den nachgeholten Pflichtangaben nochmals auf den Beginn der Widerrufsfrist hinzuweisen. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs, wenn die Erklärung auf einem dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) erfolgt. Der Widerruf ist zu richten an:  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Widerrufsfolgen**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Soweit das Darlehen bereits ausbezahlt wurde, hat es der Darlehensnehmer spätestens innerhalb von 30 Tagen zurückzuzahlen und für den Zeitraum zwischen der Auszahlung und der Rückzahlung des Darlehens den vereinbarten Sollzins zu entrichten. Die Frist beginnt mit der Absendung der Widerrufserklärung. Für den Zeitraum zwischen Auszahlung und Rückzahlung ist bei vollständiger Inanspruchnahme des Darlehens pro Tag ein Zinsbetrag in Höhe von   Euro zu zahlen. Dieser Betrag verringert sich entsprechend, wenn das Darlehen nur teilweise in Anspruch genommen wurde.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+Gestaltungshinweise:
+
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        | Hier sind einzufügen: Name/Firma und ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Darlehensnehmer eine Bestätigung seiner Widerrufserklärung an den Darlehensgeber erhält, auch eine Internet-Adresse.                                                                                                                                                                                                                                                                                                                                                                                   |
+|        | Bei Anwendung der Gestaltungshinweise  ,   oder   ist hier folgende Unterüberschrift einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|        | „Besonderheiten bei weiteren Verträgen”.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|        | Bei einem verbundenen Vertrag nach § 358 BGB ist hier einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | a)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        | b)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        | Bei einem Geschäft, dessen Vertragsgegenstand (die Leistung des Unternehmers) in dem Verbraucherdarlehensvertrag genau angegeben ist und das nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt, obwohl das Darlehen ausschließlich zu dessen Finanzierung dient (angegebenes Geschäft gemäß § 360 Absatz 2 Satz 2 BGB), ist hier Folgendes einzufügen:                                                                                                                                                                                                                                                                                    |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Bei einem mit einem Verbraucherdarlehensvertrag zusammenhängenden Vertrag (§ 360 BGB), der nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt, kann hier Folgendes eingefügt werden:                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Hier ist der genaue Zinsbetrag in Euro pro Tag einzufügen. Centbeträge sind als Dezimalstellen anzugeben.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|        | Erbringt der Darlehensgeber gegenüber öffentlichen Stellen Aufwendungen gemäß § 357a Absatz 3 Satz 5 BGB und will er sich für den Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten, ist hier Folgendes einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Bei Anwendung der Gestaltungshinweise  ,  ,  ,  ,  ,   oder   ist hier als Unterüberschrift einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|        | „Besonderheiten bei weiteren Verträgen”.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|        | Dies gilt nicht, wenn bei einer entgeltlichen Finanzierungshilfe ausschließlich der Hinweis   verwandt wird und weitere Verträge nicht vorliegen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Liegen mehrere weitere Verträge nebeneinander vor, kann im Folgenden die Unterrichtung gemäß den anwendbaren Gestaltungshinweisen auch durch eine entsprechende, jeweils auf den konkreten Vertrag bezogene, wiederholte Nennung der Hinweise erfolgen.                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|        | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, oder bei einem zusammenhängenden Vertrag, wenn von Gestaltungshinweis   Gebrauch gemacht wurde, ist hier Folgendes einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung einer Sache oder bei einem zusammenhängenden Vertrag, gerichtet auf die Überlassung einer Sache, wenn von Gestaltungshinweis   Gebrauch gemacht wurde, ist hier nachstehender Unterabsatz einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                           |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Der Unterabsatz kann wie folgt ergänzt werden:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|        | „Wenn der Darlehensnehmer die auf Grund \[einsetzen\*\*\*: des verbundenen Vertrags oder des zusammenhängenden Vertrags\] überlassene Sache nicht oder teilweise nicht oder nur in verschlechtertem Zustand zurückgewähren kann, hat er insoweit Wertersatz zu leisten. Dies kommt allerdings nur in Betracht, wenn der Wertverlust auf einen Umgang mit den Waren zurückzuführen ist, der zur Prüfung der Beschaffenheit, der Eigenschaften und der Funktionsweise der Waren nicht notwendig war.”                                                                                                                                                                               |
+|        | Bei einem Vertrag über eine entgeltliche Finanzierungshilfe gilt Folgendes:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|        | a)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        | b)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        | c)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|        | d)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        | Bei einem angegebenen Geschäft nach § 360 Absatz 2 Satz 2 BGB ist hier Folgendes einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Dieser Hinweis entfällt, wenn der Darlehensgeber zugleich Vertragspartner des Darlehensnehmers aus dem weiteren Vertrag ist.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|        | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, sind hier folgende Überschrift und folgender Hinweis einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|        | **„Einwendungen bei verbundenen Verträgen”.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|        | „Der Darlehensnehmer kann die Rückzahlung des Darlehens verweigern, soweit ihn Einwendungen berechtigen würden, seine Leistung gegenüber dem Vertragspartner aus dem verbundenen Vertrag zu verweigern. Dies gilt nicht, wenn das finanzierte Entgelt weniger als 200 Euro beträgt oder wenn der Rechtsgrund für die Einwendung auf einer Vereinbarung beruht, die zwischen dem Darlehensnehmer und dem anderen Vertragspartner nach dem Abschluss des Darlehensvertrags getroffen wurde. Kann der Darlehensnehmer von dem anderen Vertragspartner Nacherfüllung verlangen, so kann er die Rückzahlung des Darlehens erst verweigern, wenn die Nacherfüllung fehlgeschlagen ist.” |
+|        | Dieser Hinweis und die Überschrift können entfallen, wenn der Darlehensgeber weiß, dass das finanzierte Entgelt weniger als 200 Euro beträgt.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| \*     | Die Vertragsparteien können auch direkt angesprochen werden (z. B. „Sie“, „Wir“). Es kann auch die weibliche Form der jeweiligen Bezeichnung und/oder die genaue Bezeichnung der Vertragsparteien verwendet werden. Es können auch die Bezeichnungen „Kreditnehmer“ und „Kreditgeber“ verwendet werden. Bei entgeltlichen Finanzierungshilfen sind die Bezeichnungen entsprechend anzupassen, beispielsweise mit „Leasinggeber“ und „Leasingnehmer“.                                                                                                                                                                                                                              |
+| \*\*   | Dieser Klammerzusatz entfällt bei durchgängiger genauer Bezeichnung des Vertrags/Geschäfts.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| \*\*\* | Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende Geschäft kann nach erstmaliger genauer Bezeichnung im Weiteren durch Verwendung der allgemeinen Bezeichnung des jeweiligen Vertrags/Geschäfts (verbundener Vertrag, angegebenes Geschäft, zusammenhängender Vertrag) erfolgen.                                                                                                                                                                                                                                                                                                                                                                                    |
+
+-
+-
+
+### Anlage 8 (zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1)Muster für eine Widerrufsinformation für Immobiliar-Verbraucherdarlehensverträge
+
+(Fundstelle: BGBl. I 2016, S. 433 - 435)
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Widerrufsinformation**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Widerrufsrecht**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Der Darlehensnehmer\* kann seine Vertragserklärung innerhalb von 14 Tagen ohne Angabe von Gründen widerrufen. Die Frist beginnt nach Abschluss des Vertrags, aber erst, nachdem der Darlehensnehmer diese Widerrufsinformation erhalten hat. Der Darlehensnehmer hat diese Widerrufsinformation erhalten, wenn sie in der für den Darlehensnehmer bestimmten Ausfertigung seines Antrags oder in der für den Darlehensnehmer bestimmten Ausfertigung der Vertragsurkunde oder in einer für den Darlehensnehmer bestimmten Abschrift seines Antrags oder der Vertragsurkunde enthalten ist und dem Darlehensnehmer eine solche Unterlage zur Verfügung gestellt worden ist. Über eine in den Vertragstext nicht aufgenommene Angabe zum Widerrufsrecht kann der Darlehensnehmer nachträglich auf einem dauerhaften Datenträger informiert werden; die Widerrufsfrist beträgt dann einen Monat. Der Darlehensnehmer ist mit der nachgeholten Widerrufsinformation nochmals auf den Beginn der Widerrufsfrist hinzuweisen. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs, wenn die Erklärung auf einem dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) erfolgt. Der Widerruf ist zu richten an:  |
+| **Information über das Erlöschen des Widerrufsrechts**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Das Widerrufsrecht erlischt spätestens zwölf Monate und 14 Tage nach dem Zeitpunkt des Vertragsschlusses oder, sofern dieser Zeitpunkt nach dem Vertragsschluss liegt, dem Zeitpunkt zu dem dem Darlehensnehmer eine für ihn bestimmte Ausfertigung oder Abschrift seines Antrags oder der Vertragsurkunde zur Verfügung gestellt worden ist. Das Widerrufsrecht erlischt auch dann, wenn die Widerrufsinformation oder die Angaben hierzu im Vertrag fehlerhaft waren oder ganz unterblieben sind.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Widerrufsfolgen**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Der Darlehensnehmer hat innerhalb von 30 Tagen das Darlehen, soweit es bereits ausbezahlt wurde, zurückzuzahlen und für den Zeitraum zwischen der Auszahlung und der Rückzahlung des Darlehens den vereinbarten Sollzins zu entrichten. Die Frist beginnt mit der Absendung der Widerrufserklärung. Für den Zeitraum zwischen Auszahlung und Rückzahlung ist bei vollständiger Inanspruchnahme des Darlehens pro Tag ein Zinsbetrag in Höhe von   Euro zu zahlen. Dieser Betrag verringert sich entsprechend, wenn das Darlehen nur teilweise in Anspruch genommen wurde. Wenn der Darlehensnehmer nachweist, dass der Wert seines Gebrauchsvorteils niedriger war als der Vertragszins, muss er nur den niedrigeren Betrag zahlen. Dies kann z. B. in Betracht kommen, wenn der marktübliche Zins geringer war als der Vertragszins.                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+Gestaltungshinweise:
+
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        | Hier sind einzufügen: Name/Firma und ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Darlehensnehmer eine Bestätigung seiner Widerrufserklärung an den Darlehensgeber erhält, auch eine Internet-Adresse.                                                                                                                                                                                                                                                                                                                                                                                   |
+|        | Bei Anwendung der Gestaltungshinweise  ,   oder   ist hier folgende Unterüberschrift einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|        | „Besonderheiten bei weiteren Verträgen”.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|        | Bei einem verbundenen Vertrag nach § 358 BGB ist hier einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | a)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        | b)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        | Bei einem Geschäft, dessen Vertragsgegenstand (die Leistung des Unternehmers) in dem Verbraucherdarlehensvertrag genau angegeben ist und das nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt, obwohl das Darlehen ausschließlich zu dessen Finanzierung dient (angegebenes Geschäft gemäß § 360 Absatz 2 Satz 2 BGB), ist hier Folgendes einzufügen:                                                                                                                                                                                                                                                                                    |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Bei einem mit einem Verbraucherdarlehensvertrag zusammenhängenden Vertrag (§ 360 BGB), der nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt, kann hier Folgendes eingefügt werden:                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Hier ist der genaue Zinsbetrag in Euro pro Tag einzufügen. Centbeträge sind als Dezimalstellen anzugeben.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|        | Erbringt der Darlehensgeber gegenüber öffentlichen Stellen Aufwendungen gemäß § 357a Absatz 3 Satz 5 BGB und will er sich für den Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten, ist hier Folgendes einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Bei Anwendung der Gestaltungshinweise  ,  ,  ,  ,  ,   oder   ist hier als Unterüberschrift einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|        | „Besonderheiten bei weiteren Verträgen.”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|        | Dies gilt nicht, wenn bei einer entgeltlichen Finanzierungshilfe ausschließlich der Hinweis   verwandt wird und weitere Verträge nicht vorliegen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Liegen mehrere weitere Verträge nebeneinander vor, kann im Folgenden die Unterrichtung gemäß den anwendbaren Gestaltungshinweisen auch durch eine entsprechende, jeweils auf den konkreten Vertrag bezogene, wiederholte Nennung der Hinweise erfolgen.                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|        | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, oder bei einem zusammenhängenden Vertrag, wenn von Gestaltungshinweis   Gebrauch gemacht wurde, ist hier Folgendes einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung einer Sache oder bei einem zusammenhängenden Vertrag, gerichtet auf die Überlassung einer Sache, wenn von Gestaltungshinweis   Gebrauch gemacht wurde, ist hier nachstehender Unterabsatz einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                           |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Der Unterabsatz kann wie folgt ergänzt werden:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|        | „Wenn der Darlehensnehmer die auf Grund \[einsetzen\*\*\*: des verbundenen Vertrags oder des zusammenhängenden Vertrags\] überlassene Sache nicht oder teilweise nicht oder nur in verschlechtertem Zustand zurückgewähren kann, hat er insoweit Wertersatz zu leisten. Dies kommt allerdings nur in Betracht, wenn der Wertverlust auf einen Umgang mit den Waren zurückzuführen ist, der zur Prüfung der Beschaffenheit, der Eigenschaften und der Funktionsweise der Waren nicht notwendig war.”                                                                                                                                                                               |
+|        | Bei einem Vertrag über eine entgeltliche Finanzierungshilfe gilt Folgendes:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|        | a)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        | b)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        | c)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|        | d)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        | Bei einem angegebenen Geschäft nach § 360 Absatz 2 Satz 2 BGB ist hier Folgendes einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Dieser Hinweis entfällt, wenn der Darlehensgeber zugleich Vertragspartner des Darlehensnehmers aus dem weiteren Vertrag ist.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|        | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, sind hier folgende Überschrift und folgender Hinweis einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|        | **„Einwendungen bei verbundenen Verträgen.”**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|        | „Der Darlehensnehmer kann die Rückzahlung des Darlehens verweigern, soweit ihn Einwendungen berechtigen würden, seine Leistung gegenüber dem Vertragspartner aus dem verbundenen Vertrag zu verweigern. Dies gilt nicht, wenn das finanzierte Entgelt weniger als 200 Euro beträgt oder wenn der Rechtsgrund für die Einwendung auf einer Vereinbarung beruht, die zwischen dem Darlehensnehmer und dem anderen Vertragspartner nach dem Abschluss des Darlehensvertrags getroffen wurde. Kann der Darlehensnehmer von dem anderen Vertragspartner Nacherfüllung verlangen, so kann er die Rückzahlung des Darlehens erst verweigern, wenn die Nacherfüllung fehlgeschlagen ist.” |
+|        | Dieser Hinweis und die Überschrift können entfallen, wenn der Darlehensgeber weiß, dass das finanzierte Entgelt weniger als 200 Euro beträgt.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| \*     | Die Vertragsparteien können auch direkt angesprochen werden (z. B. „Sie“, „Wir“). Es kann auch die weibliche Form der jeweiligen Bezeichnung und/oder die genaue Bezeichnung der Vertragsparteien verwendet werden. Es können auch die Bezeichnungen „Kreditnehmer“ und „Kreditgeber“ verwendet werden. Bei entgeltlichen Finanzierungshilfen sind die Bezeichnungen entsprechend anzupassen, beispielsweise mit „Leasinggeber“ und „Leasingnehmer“.                                                                                                                                                                                                                              |
+| \*\*   | Dieser Klammerzusatz entfällt bei durchgängiger genauer Bezeichnung des Vertrags/Geschäfts.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| \*\*\* | Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende Geschäft kann nach erstmaliger genauer Bezeichnung im Weiteren durch Verwendung der allgemeinen Bezeichnung des jeweiligen Vertrags/Geschäfts (verbundener Vertrag, angegebenes Geschäft, zusammenhängender Vertrag) erfolgen.                                                                                                                                                                                                                                                                                                                                                                                    |
+
+-
+-
+
+### Anlage 9 (zu Artikel 246 Absatz 3)Muster für die Widerrufsbelehrung bei unentgeltlichen Darlehensverträgen zwischen einem Unternehmer als Darlehensgeber und einem Verbraucher als Darlehensnehmer
+
+(Fundstelle: BGBl. I 2016, S. 436 - 438)
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Widerrufsbelehrung**                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Widerrufsrecht**                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Der Darlehensnehmer\* kann seine Vertragserklärung innerhalb von 14 Tagen ohne Angabe von Gründen widerrufen. Die Frist beginnt nach Abschluss des Vertrags, aber erst, nachdem der Darlehensnehmer diese Widerrufsbelehrung auf einem dauerhaften Datenträger erhalten hat. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs, wenn die Erklärung auf einem dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) erfolgt. Der Widerruf ist zu richten an:  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Widerrufsfolgen**                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Soweit das Darlehen bereits ausbezahlt wurde, hat es der Darlehensnehmer spätestens innerhalb von 30 Tagen zurückzuzahlen. Die Frist beginnt mit der Absendung der Widerrufserklärung.                                                                                                                                                                                                                                                                                                     |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+
+Gestaltungshinweise:
+
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        | Hier sind einzufügen: Name/Firma und ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Darlehensnehmer eine Bestätigung seiner Widerrufserklärung an den Darlehensgeber erhält, auch eine Internet-Adresse.                                                                                                                                                                                                                                                                                                                                                                                   |
+|        | Bei Anwendung der Gestaltungshinweise  ,   oder   ist hier folgende Unterüberschrift einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|        | „Besonderheiten bei weiteren Verträgen”.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|        | Bei einem verbundenen Vertrag nach § 358 BGB ist hier einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | a)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        | b)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        | Bei einem Geschäft, dessen Vertragsgegenstand (die Leistung des Unternehmers) in dem Darlehensvertrag genau angegeben ist und das nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt, obwohl das Darlehen ausschließlich zu dessen Finanzierung dient (angegebenes Geschäft gemäß § 360 Absatz 2 Satz 2 BGB), ist hier Folgendes einzufügen:                                                                                                                                                                                                                                                                                               |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Bei einem mit einem Darlehensvertrag zusammenhängenden Vertrag (§ 360 BGB), der nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt, kann hier Folgendes eingefügt werden:                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Erbringt der Darlehensgeber gegenüber öffentlichen Stellen Aufwendungen gemäß § 357a Absatz 3 Satz 5 BGB und will er sich für den Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten, ist hier Folgendes einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Bei Anwendung der Gestaltungshinweise  ,  ,  ,  ,   oder   ist hier als Unterüberschrift einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|        | „Besonderheiten bei weiteren Verträgen”.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|        | Dies gilt nicht, wenn bei einer entgeltlichen Finanzierungshilfe ausschließlich der Hinweis   verwandt wird und weitere Verträge nicht vorliegen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Liegen mehrere weitere Verträge nebeneinander vor, kann im Folgenden die Unterrichtung gemäß den anwendbaren Gestaltungshinweisen auch durch eine entsprechende, jeweils auf den konkreten Vertrag bezogene, wiederholte Nennung der Hinweise erfolgen.                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|        | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, oder bei einem zusammenhängenden Vertrag, wenn von Gestaltungshinweis   Gebrauch gemacht wird, ist hier Folgendes einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung einer Sache oder bei einem zusammenhängenden Vertrag, gerichtet auf die Überlassung einer Sache, wenn von Gestaltungshinweis   Gebrauch gemacht wurde, ist hier nachstehender Unterabsatz einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                           |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Der Unterabsatz kann wie folgt ergänzt werden:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|        | „Wenn der Darlehensnehmer die auf Grund \[einsetzen\*\*\*: des verbundenen Vertrags oder des zusammenhängenden Vertrags\] überlassene Sache nicht oder teilweise nicht oder nur in verschlechtertem Zustand zurückgewähren kann, hat er insoweit Wertersatz zu leisten. Dies kommt allerdings nur in Betracht, wenn der Wertverlust auf einen Umgang mit den Waren zurückzuführen ist, der zur Prüfung der Beschaffenheit, der Eigenschaften und der Funktionsweise der Waren nicht notwendig war.”                                                                                                                                                                               |
+|        | Bei einem Vertrag über eine unentgeltliche Finanzierungshilfe gilt Folgendes:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|        | a)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        | b)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        | c)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|        | d)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|        | Bei einem angegebenen Geschäft nach § 360 Absatz 2 Satz 2 BGB ist hier Folgendes einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|        | –                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|        | Dieser Hinweis entfällt, wenn der Darlehensgeber zugleich Vertragspartner des Darlehensnehmers aus dem weiteren Vertrag ist.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|        | Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, sind hier folgende Überschrift und folgender Hinweis einzufügen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|        | **„Einwendungen bei verbundenen Verträgen”.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|        | „Der Darlehensnehmer kann die Rückzahlung des Darlehens verweigern, soweit ihn Einwendungen berechtigen würden, seine Leistung gegenüber dem Vertragspartner aus dem verbundenen Vertrag zu verweigern. Dies gilt nicht, wenn das finanzierte Entgelt weniger als 200 Euro beträgt oder wenn der Rechtsgrund für die Einwendung auf einer Vereinbarung beruht, die zwischen dem Darlehensnehmer und dem anderen Vertragspartner nach dem Abschluss des Darlehensvertrags getroffen wurde. Kann der Darlehensnehmer von dem anderen Vertragspartner Nacherfüllung verlangen, so kann er die Rückzahlung des Darlehens erst verweigern, wenn die Nacherfüllung fehlgeschlagen ist.” |
+|        | Dieser Hinweis und die Überschrift können entfallen, wenn der Darlehensgeber weiß, dass das finanzierte Entgelt weniger als 200 Euro beträgt.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| \*     | Die Vertragsparteien können auch direkt angesprochen werden (z. B. „Sie“, „Wir“). Es kann auch die weibliche Form der jeweiligen Bezeichnung und/oder die genaue Bezeichnung der Vertragsparteien verwendet werden. Es können auch die Bezeichnungen „Kreditnehmer“ und „Kreditgeber“ verwendet werden. Bei unentgeltlichen Finanzierungshilfen sind die Bezeichnungen entsprechend anzupassen, beispielsweise mit „Leasinggeber“ und „Leasingnehmer“.                                                                                                                                                                                                                            |
+| \*\*   | Dieser Klammerzusatz entfällt bei durchgängiger genauer Bezeichnung des Vertrags/Geschäfts.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| \*\*\* | Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende Geschäft kann nach erstmaliger genauer Bezeichnung im Weiteren durch Verwendung der allgemeinen Bezeichnung des jeweiligen Vertrags/Geschäfts (verbundener Vertrag, angegebenes Geschäft, zusammenhängender Vertrag) erfolgen.                                                                                                                                                                                                                                                                                                                                                                                    |
+
+
