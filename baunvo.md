@@ -7,6 +7,9 @@ Neugefasst durch Bek. v. 23.1.1990 I 132;
 Stand  
 geändert durch Art. 3 G v. 22.4.1993 I 466
 
+Hinweis  
+Änderung durch Art. 2 G v. 11.6.2013 I 1548 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 (+++ Textnachweis Geltung ab: 1.10.1977 +++)
