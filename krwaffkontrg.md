@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 22.11.1990 I 2506;
 
 Stand  
-zuletzt geändert durch Art. 4 G v. 27.7.2011 I 1595
+zuletzt geändert durch Art. 2 Abs. 2 G v. 6.6.2013 I 1482
 
 ### 
 
@@ -103,13 +103,13 @@ für die Beförderung von Kriegswaffen zum Zweck der Durchfuhr durch das Bundesg
 für die Beförderung von Kriegswaffen zum Zweck der Einfuhr an die Bundeswehr,
 
 3.  
-für die Beförderung von Kriegswaffen zum Zweck der Einfuhr an im Bundesgebiet ansässige Unternehmen, die gemäß § 2a des Außenwirtschaftsgesetzes in Verbindung mit § 21a der Außenwirtschaftsverordnung zertifiziert sind,
+für die Beförderung von Kriegswaffen zum Zweck der Einfuhr an im Bundesgebiet ansässige Unternehmen, die gemäß § 9 des Außenwirtschaftsgesetzes in Verbindung mit einer auf Grund dieser Vorschrift erlassenen Rechtsverordnung zertifiziert sind,
 
 4.  
-für die Beförderung von Kriegswaffen zwischen im Bundesgebiet ansässigen Unternehmen, die gemäß § 2a des Außenwirtschaftsgesetzes in Verbindung mit § 21a der Außenwirtschaftsverordnung zertifiziert sind,
+für die Beförderung von Kriegswaffen zwischen im Bundesgebiet ansässigen Unternehmen, die gemäß § 9 des Außenwirtschaftsgesetzes in Verbindung mit einer auf Grund dieser Vorschrift erlassenen Rechtsverordnung zertifiziert sind,
 
 5.  
-für die Beförderung von Kriegswaffen innerhalb des Bundesgebietes von Unternehmen, die gemäß § 2a des Außenwirtschaftsgesetzes in Verbindung mit § 21a der Außenwirtschaftsverordnung zertifiziert sind, an die Bundeswehr sowie von der Bundeswehr durch diese Unternehmen an sich sowie
+für die Beförderung von Kriegswaffen innerhalb des Bundesgebietes von Unternehmen, die gemäß § 9 des Außenwirtschaftsgesetzes in Verbindung mit einer auf Grund dieser Vorschrift erlassenen Rechtsverordnung zertifiziert sind, an die Bundeswehr sowie von der Bundeswehr durch diese Unternehmen an sich sowie
 
 6.  
 für die Beförderung von Kriegswaffen zum Zweck der Verbringung an Unternehmen, die in einem anderen Mitgliedstaat der Europäischen Union ansässig sind und in diesem Mitgliedstaat gemäß Artikel 9 der Richtlinie 2009/43/EG des Europäischen Parlaments und des Rates vom 6. Mai 2009 zur Vereinfachung der Bedingungen für die innergemeinschaftliche Verbringung von Verteidigungsgütern (ABl. L 146 vom 10.6.2009, S. 1) zertifiziert sind.
@@ -623,7 +623,7 @@ einen Vertrag über den Erwerb oder das Überlassen ohne Genehmigung nach § 4a 
 
 (3) In minder schweren Fällen ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-(4) Wer fahrlässig eine in Absatz 1 Nr. 1 bis 3, 6 oder 7 bezeichnete Handlung begeht, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+(4) Wer fahrlässig eine in Absatz 1 Nummer 1 bis 4, 6 oder Nummer 7 bezeichnete Handlung begeht, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
 (5) Nach Absatz 1 Nr. 3 oder 4 wird nicht bestraft, wer Kriegswaffen, die er in das Bundesgebiet eingeführt oder sonst verbracht hat, freiwillig und unverzüglich einer Überwachungsbehörde, der Bundeswehr oder einer für die Aufrechterhaltung der öffentlichen Sicherheit zuständigen Behörde oder Dienststelle abliefert. Gelangen die Kriegswaffen ohne Zutun desjenigen, der sie in das Bundesgebiet eingeführt oder sonst verbracht hat, in die tatsächliche Gewalt einer der in Satz 1 genannten Behörden oder Dienststellen, so genügt sein freiwilliges und ernsthaftes Bemühen, die Kriegswaffen abzuliefern.
 
@@ -655,11 +655,9 @@ der Pflicht nach § 14 Abs. 5 zur Duldung des Betretens von Räumen und Grundst�
 7.  
 als Inhaber einer Erlaubnis gemäß § 59 Absatz 4 des Waffengesetzes von 1972 außerhalb eines befriedeten Besitztums Kriegswaffen ohne Genehmigung nach § 3 Absatz 2 selbst befördert.
 
-(2) Ordnungswidrig handelt ferner, wer fahrlässig Kriegswaffen einführt, ausführt, durch das Bundesgebiet durchführt, aus dem Bundesgebiet oder innerhalb des Bundesgebietes verbringt, ohne dass die hierzu erforderlich Beförderung genehmigt ist.
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
-
-(4) Ordnungswidrig handelt ferner, wer vorsätzlich oder fahrlässig entgegen § 12 Abs. 3 bei der Übergabe zur Beförderung von Kriegswaffen eine Ausfertigung der Genehmigungsurkunde nicht übergibt oder entgegen § 12 Abs. 4 bei der Beförderung eine Ausfertigung der Genehmigungsurkunde nicht mitführt. Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfhundert Euro geahndet werden.
+(3) Ordnungswidrig handelt ferner, wer vorsätzlich oder fahrlässig entgegen § 12 Abs. 3 bei der Übergabe zur Beförderung von Kriegswaffen eine Ausfertigung der Genehmigungsurkunde nicht übergibt oder entgegen § 12 Abs. 4 bei der Beförderung eine Ausfertigung der Genehmigungsurkunde nicht mitführt. Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
 ### § 23 Verwaltungsbehörden
 
