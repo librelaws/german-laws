@@ -5,7 +5,10 @@ Neuf
 Neugefasst durch Bek. v. 21.2.2005 I 434;
 
 Stand  
-zuletzt geändert durch Art. 6 V v. 22.12.2014 I 2392
+zuletzt geändert durch Art. 3 V v. 18.7.2016 I 1722
+
+Hinweis  
+Änderung durch Art. 5 G v. 30.6.2017 I 2143 (Nr. 44) mWv 1.1.2017 noch nicht berücksichtigt
 
 ### 
 
@@ -692,7 +695,7 @@ b)
 mit einem anderen handelsüblichen Beleg als den Belegen nach Buchstabe a, insbesondere mit einer Bescheinigung des beauftragten Spediteurs; dieser Beleg hat folgende Angaben zu enthalten:
 
 aa)  
-den Namen und die Anschrift des Ausstellers des Belegs sowie das Ausstellungsdatum,
+den Namen und die Anschrift des mit der Beförderung beauftragten Unternehmers sowie das Ausstellungsdatum,
 
 bb)  
 den Namen und die Anschrift des liefernden Unternehmers und des Auftraggebers der Versendung,
@@ -707,10 +710,10 @@ ee)
 den Empfänger des ausgeführten Gegenstands und den Bestimmungsort im Drittlandsgebiet,
 
 ff)  
-eine Versicherung des Ausstellers des Belegs darüber, dass die Angaben im Beleg auf der Grundlage von Geschäftsunterlagen gemacht wurden, die im Gemeinschaftsgebiet nachprüfbar sind, sowie
+eine Versicherung des mit der Beförderung beauftragten Unternehmers darüber, dass die Angaben im Beleg auf der Grundlage von Geschäftsunterlagen gemacht wurden, die im Gemeinschaftsgebiet nachprüfbar sind, sowie
 
 gg)  
-die Unterschrift des Ausstellers des Belegs.
+die Unterschrift des mit der Beförderung beauftragten Unternehmers.
 
 Hat der Unternehmer statt des Ausgangsvermerks einen Alternativ-Ausgangsvermerk, gilt dieser als Ausfuhrnachweis.
 
@@ -1361,13 +1364,13 @@ Das Finanzamt hat dem Unternehmer auf Antrag die Fristen für die Übermittlung 
 
 ### § 48 Verfahren
 
-(1) Der Unternehmer hat die Fristverlängerung für die Übermittlung der Voranmeldungen bis zu dem Zeitpunkt zu beantragen, an dem die Voranmeldung, für die die Fristverlängerung erstmals gelten soll, nach § 18 Abs. 1, 2 und 2a des Gesetzes zu übermitteln ist. Der Antrag ist nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung nach Maßgabe der Steuerdaten-Übermittlungsverordnung zu übermitteln. Auf Antrag kann das Finanzamt zur Vermeidung von unbilligen Härten auf eine elektronische Übermittlung verzichten; in diesem Fall hat der Unternehmer einen Antrag nach amtlich vorgeschriebenem Vordruck zu stellen. In dem Antrag hat der Unternehmer, der die Voranmeldungen monatlich zu übermitteln hat, die Sondervorauszahlung (§ 47) selbst zu berechnen und anzumelden. Gleichzeitig hat er die angemeldete Sondervorauszahlung zu entrichten.
+(1) Der Unternehmer hat die Fristverlängerung für die Übermittlung der Voranmeldungen bis zu dem Zeitpunkt zu beantragen, an dem die Voranmeldung, für die die Fristverlängerung erstmals gelten soll, nach § 18 Abs. 1, 2 und 2a des Gesetzes zu übermitteln ist. Der Antrag ist nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln. Auf Antrag kann das Finanzamt zur Vermeidung von unbilligen Härten auf eine elektronische Übermittlung verzichten; in diesem Fall hat der Unternehmer einen Antrag nach amtlich vorgeschriebenem Vordruck zu stellen. In dem Antrag hat der Unternehmer, der die Voranmeldungen monatlich zu übermitteln hat, die Sondervorauszahlung (§ 47) selbst zu berechnen und anzumelden. Gleichzeitig hat er die angemeldete Sondervorauszahlung zu entrichten.
 
 (2) Während der Geltungsdauer der Fristverlängerung hat der Unternehmer, der die Voranmeldungen monatlich zu übermitteln hat, die Sondervorauszahlung für das jeweilige Kalenderjahr bis zum gesetzlichen Zeitpunkt der Übermittlung der ersten Voranmeldung zu berechnen, anzumelden und zu entrichten. Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 (3) Das Finanzamt kann die Sondervorauszahlung festsetzen, wenn sie vom Unternehmer nicht oder nicht richtig berechnet wurde oder wenn die Anmeldung zu einem offensichtlich unzutreffenden Ergebnis führt.
 
-(4) Die festgesetzte Sondervorauszahlung ist bei der Festsetzung der Vorauszahlung für den letzten Voranmeldungszeitraum des Besteuerungszeitraums anzurechnen, für den die Fristverlängerung gilt.
+(4) Die festgesetzte Sondervorauszahlung ist bei der Festsetzung der Vorauszahlung für den letzten Voranmeldungszeitraum des Besteuerungszeitraums zu berücksichtigen, für den die Fristverlängerung gilt. Ein danach verbleibender Erstattungsanspruch ist mit Ansprüchen aus dem Steuerschuldverhältnis aufzurechnen (§ 226 der Abgabenordnung), im Übrigen zu erstatten.
 
 - Verzicht auf die Steuererhebung
 ---------------------------------
@@ -1470,7 +1473,7 @@ Vergütungszeitraum ist nach Wahl des Unternehmers ein Zeitraum von mindestens d
 
 ### § 61 Vergütungsverfahren für im übrigen Gemeinschaftsgebiet ansässige Unternehmer
 
-(1) Der im übrigen Gemeinschaftsgebiet ansässige Unternehmer hat den Vergütungsantrag nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung nach Maßgabe der Steuerdaten-Übermittlungsverordnung über das in dem Mitgliedstaat, in dem der Unternehmer ansässig ist, eingerichtete elektronische Portal dem Bundeszentralamt für Steuern zu übermitteln.
+(1) Der im übrigen Gemeinschaftsgebiet ansässige Unternehmer hat den Vergütungsantrag nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung über das in dem Mitgliedstaat, in dem der Unternehmer ansässig ist, eingerichtete elektronische Portal dem Bundeszentralamt für Steuern zu übermitteln.
 
 (2) Die Vergütung ist binnen neun Monaten nach Ablauf des Kalenderjahres, in dem der Vergütungsanspruch entstanden ist, zu beantragen. Der Unternehmer hat die Vergütung selbst zu berechnen. Dem Vergütungsantrag sind auf elektronischem Weg die Rechnungen und Einfuhrbelege als eingescannte Originale beizufügen, wenn das Entgelt für den Umsatz oder die Einfuhr mindestens 1 000 Euro, bei Rechnungen über den Bezug von Kraftstoffen mindestens 250 Euro beträgt. Bei begründeten Zweifeln an dem Recht auf Vorsteuerabzug in der beantragten Höhe kann das Bundeszentralamt für Steuern verlangen, dass die Vorsteuerbeträge durch Vorlage von Rechnungen und Einfuhrbelegen im Original nachgewiesen werden.
 
@@ -1486,7 +1489,7 @@ Vergütungszeitraum ist nach Wahl des Unternehmers ein Zeitraum von mindestens d
 
 ### § 61a Vergütungsverfahren für nicht im Gemeinschaftsgebiet ansässige Unternehmer
 
-(1) Der nicht im Gemeinschaftsgebiet ansässige Unternehmer hat den Vergütungsantrag nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung nach Maßgabe der Steuerdaten-Übermittlungsverordnung an das Bundeszentralamt für Steuern zu übermitteln. Auf Antrag kann das Bundeszentralamt für Steuern zur Vermeidung von unbilligen Härten auf eine elektronische Übermittlung verzichten. In diesem Fall hat der nicht im Gemeinschaftsgebiet ansässige Unternehmer die Vergütung nach amtlich vorgeschriebenem Vordruck beim Bundeszentralamt für Steuern zu beantragen und den Vergütungsantrag eigenhändig zu unterschreiben.
+(1) Der nicht im Gemeinschaftsgebiet ansässige Unternehmer hat den Vergütungsantrag nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung an das Bundeszentralamt für Steuern zu übermitteln. Auf Antrag kann das Bundeszentralamt für Steuern zur Vermeidung von unbilligen Härten auf eine elektronische Übermittlung verzichten. In diesem Fall hat der nicht im Gemeinschaftsgebiet ansässige Unternehmer die Vergütung nach amtlich vorgeschriebenem Vordruck beim Bundeszentralamt für Steuern zu beantragen und den Vergütungsantrag eigenhändig zu unterschreiben.
 
 (2) Die Vergütung ist binnen sechs Monaten nach Ablauf des Kalenderjahres, in dem der Vergütungsanspruch entstanden ist, zu beantragen. Der Unternehmer hat die Vergütung selbst zu berechnen. Die Vorsteuerbeträge sind durch Vorlage von Rechnungen und Einfuhrbelegen im Original nachzuweisen.
 
