@@ -2,12 +2,14 @@ Richtlinien für Aussprachen zu Themen von allgemeinem aktuellen Interesse (Anla
 =========================================================================================================================================================
 
 Stand  
-Geändert durch Art. 7 Bek. v. 12.11.1990 I 2555 mWv 1.12.1990
+Geändert durch Art. 7 Beschluß d. Bundestages gem. Bek. v. 12.11.1990 I 2555
 
 ### 
 
+```
 (+++ Textnachweis ab: 1.10.1980 +++)
 (+++ Text der Geschäftsordnung siehe: BTGO 1980 +++)
+```
 
 ### I. Voraussetzungen der Aktuellen Stunde
 
