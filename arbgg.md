@@ -7,6 +7,18 @@ Neugefasst durch Bek. v. 2.7.1979 I 853, 1036
 Stand  
 Zuletzt geändert durch Art. 19 Abs. 6 G v. 23.12.2016 I 3234
 
+Hinweis  
+Änderung durch Art. 16 G v. 5.7.2017 I 2208 (Nr. 45) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 17 G v. 5.7.2017 I 2208 (Nr. 45) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 11 Abs. 22 G v. 18.7.2017 I 2745 ist berücksichtigt
+
+Hinweis  
+Änderung durch Art. 2 G v. 1.9.2017 I 3356 ist berücksichtigt
+
 ### 
 
 ```
@@ -143,6 +155,8 @@ die Entscheidung über den nach § 4a Absatz 2 Satz 2 des Tarifvertragsgesetzes 
 
 (2) In Streitigkeiten nach diesen Vorschriften findet das Beschlußverfahren statt.
 
+§ 2a Abs. 1 Nr. 6: Eingef. durch Art. 2 Nr. 1 Buchst. b G v. 3.7.2015 I 1130 mWv 10.7.2015; nach Maßgabe der Gründe mit GG (100-1) vereinbar gem. BVerfGE v. 11.7.2017 I 2663 - 1 BvR 1571/15 u. a.
+
 ### § 3 Zuständigkeit in sonstigen Fällen
 
 Die in den §§ 2 und 2a begründete Zuständigkeit besteht auch in den Fällen, in denen der Rechtsstreit durch einen Rechtsnachfolger oder durch eine Person geführt wird, die kraft Gesetzes an Stelle des sachlich Berechtigten oder Verpflichteten hierzu befugt ist.
@@ -257,7 +271,7 @@ Bevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organ
 
 ### § 12 Kosten
 
-Das Justizverwaltungskostengesetz und die Justizbeitreibungsordnung gelten entsprechend, soweit sie nicht unmittelbar Anwendung finden. Bei Einziehung der Gerichts- und Verwaltungskosten leisten die Vollstreckungsbehörden der Justizverwaltung oder die sonst nach Landesrecht zuständigen Stellen den Gerichten für Arbeitssachen Amtshilfe, soweit sie diese Aufgaben nicht als eigene wahrnehmen. Vollstreckungsbehörde ist für die Ansprüche, die beim Bundesarbeitsgericht entstehen, die Justizbeitreibungsstelle des Bundesarbeitsgerichts.
+Das Justizverwaltungskostengesetz und das Justizbeitreibungsgesetz gelten entsprechend, soweit sie nicht unmittelbar Anwendung finden. Bei Einziehung der Gerichts- und Verwaltungskosten leisten die Vollstreckungsbehörden der Justizverwaltung oder die sonst nach Landesrecht zuständigen Stellen den Gerichten für Arbeitssachen Amtshilfe, soweit sie diese Aufgaben nicht als eigene wahrnehmen. Vollstreckungsbehörde ist für die Ansprüche, die beim Bundesarbeitsgericht entstehen, die Justizbeitreibungsstelle des Bundesarbeitsgerichts.
 
 ### § 12a Kostentragungspflicht
 
@@ -429,9 +443,7 @@ wer glaubhaft macht, daß ihm wichtige Gründe, insbesondere die Fürsorge für 
 
 (2) Über die Berechtigung zur Ablehnung oder Niederlegung entscheidet die zuständige Stelle (§ 20). Die Entscheidung ist endgültig.
 
-### § 25
-
-(weggefallen)
+### § 25 (weggefallen)
 
 ### § 26 Schutz der ehrenamtlichen Richter
 
@@ -463,9 +475,7 @@ Die ehrenamtlichen Richter einer Fachkammer sollen aus den Kreisen der Arbeitneh
 
 (2) Für die Heranziehung von Vertretern bei unvorhergesehener Verhinderung kann eine Hilfsliste von ehrenamtlichen Richtern aufgestellt werden, die am Gerichtssitz oder in der Nähe wohnen oder ihren Dienstsitz haben.
 
-### § 32
-
-(weggefallen)
+### § 32 (weggefallen)
 
 Zweiter Abschnitt Landesarbeitsgerichte
 ---------------------------------------
@@ -614,7 +624,7 @@ Erster Unterabschnitt Erster Rechtszug
 
 ### § 46c Einreichung elektronischer Dokumente
 
-(1) Soweit für vorbereitende Schriftsätze und deren Anlagen, für Anträge und Erklärungen der Parteien sowie für Auskünfte, Aussagen, Gutachten und Erklärungen Dritter die Schriftform vorgesehen ist, genügt dieser Form die Aufzeichnung als elektronisches Dokument, wenn dieses für die Bearbeitung durch das Gericht geeignet ist. Die verantwortende Person soll das Dokument mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz versehen. Ist ein übermitteltes elektronisches Dokument für das Gericht zur Bearbeitung nicht geeignet, ist dies dem Absender unter Angabe der geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen.
+(1) Soweit für vorbereitende Schriftsätze und deren Anlagen, für Anträge und Erklärungen der Parteien sowie für Auskünfte, Aussagen, Gutachten und Erklärungen Dritter die Schriftform vorgesehen ist, genügt dieser Form die Aufzeichnung als elektronisches Dokument, wenn dieses für die Bearbeitung durch das Gericht geeignet ist. Die verantwortende Person soll das Dokument mit einer qualifizierten elektronischen Signatur versehen. Ist ein übermitteltes elektronisches Dokument für das Gericht zur Bearbeitung nicht geeignet, ist dies dem Absender unter Angabe der geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen.
 
 (2) Die Bundesregierung und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische Dokumente bei den Gerichten eingereicht werden können, sowie die für die Bearbeitung der Dokumente geeignete Form. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die jeweils zuständige oberste Landesbehörde übertragen. Die Zulassung der elektronischen Form kann auf einzelne Gerichte oder Verfahren beschränkt werden.
 
@@ -624,9 +634,9 @@ Erster Unterabschnitt Erster Rechtszug
 
 Soweit dieses Gesetz dem Richter, dem Rechtspfleger, dem Urkundsbeamten der Geschäftsstelle oder dem Gerichtsvollzieher die handschriftliche Unterzeichnung vorschreibt, genügt dieser Form die Aufzeichnung als elektronisches Dokument, wenn die verantwortenden Personen am Ende des Dokuments ihren Namen hinzufügen und das Dokument mit einer qualifizierten elektronischen Signatur versehen.
 
-### § 46e Elektronische Akte
+### § 46e Elektronische Akte; Verordnungsermächtigung
 
-(1) Die Prozessakten können elektronisch geführt werden. Die Bundesregierung und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische Akten geführt werden sowie die hierfür geltenden organisatorisch-technischen Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der elektronischen Akten. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die jeweils zuständige oberste Landesbehörde übertragen. Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder Verfahren beschränkt werden.
+(1) Die Prozessakten können elektronisch geführt werden. Die Bundesregierung und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische Akten geführt werden sowie die hierfür geltenden organisatorisch-technischen Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der elektronischen Akten. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die jeweils zuständige oberste Landesbehörde übertragen. Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren die Akten elektronisch zu führen sind.
 
 (2) In Papierform eingereichte Schriftstücke und sonstige Unterlagen sollen zur Ersetzung der Urschrift in ein elektronisches Dokument übertragen werden. Die Unterlagen sind, sofern sie in Papierform weiter benötigt werden, mindestens bis zum rechtskräftigen Abschluss des Verfahrens aufzubewahren.
 
@@ -817,6 +827,8 @@ Von diesen Maßnahmen sind die Parteien zu benachrichtigen.
 
 (3) Insbesondere über die Zahl der in einem Arbeitsverhältnis stehenden Mitglieder oder das Vertretensein einer Gewerkschaft in einem Betrieb kann Beweis auch durch die Vorlegung öffentlicher Urkunden angetreten werden.
 
+§ 58 Abs. 3: Eingef. durch Art. 2 Nr. 2 G v. 3.7.2015 I 1130 mWv 10.7.2015; nach Maßgabe der Gründe mit GG (100-1) vereinbar gem. BVerfGE v. 11.7.2017 I 2663 - 1 BvR 1571/15 u. a.
+
 ### § 59 Versäumnisverfahren
 
 Gegen ein Versäumnisurteil kann eine Partei, gegen die das Urteil ergangen ist, binnen einer Notfrist von einer Woche nach seiner Zustellung Einspruch einlegen. Der Einspruch wird beim Arbeitsgericht schriftlich oder durch Abgabe einer Erklärung zur Niederschrift der Geschäftsstelle eingelegt. Hierauf ist die Partei zugleich mit der Zustellung des Urteils schriftlich hinzuweisen. § 345 der Zivilprozeßordnung bleibt unberührt.
@@ -968,9 +980,7 @@ Wegen eines Mangels im Verfahren des Arbeitsgerichts ist die Zurückverweisung u
 
 (aufgehoben)
 
-### § 71
-
-(weggefallen)
+### § 71 (weggefallen)
 
 Dritter Unterabschnitt Revisionsverfahren
 -----------------------------------------
@@ -1198,9 +1208,7 @@ Das Gericht entscheidet nach seiner freien, aus dem Gesamtergebnis des Verfahren
 
 (2) Der Erlaß einer einstweiligen Verfügung ist zulässig. Für das Verfahren gelten die Vorschriften des Achten Buches der Zivilprozeßordnung über die einstweilige Verfügung entsprechend mit der Maßgabe, daß die Entscheidungen durch Beschluß der Kammer ergehen, erforderliche Zustellungen von Amts wegen erfolgen und ein Anspruch auf Schadensersatz nach § 945 der Zivilprozeßordnung in Angelegenheiten des Betriebsverfassungsgesetzes nicht besteht. Eine in das Schutzschriftenregister nach § 945a Absatz 1 der Zivilprozessordnung eingestellte Schutzschrift gilt auch als bei allen Arbeitsgerichten der Länder eingereicht.
 
-### § 86
-
-(weggefallen)
+### § 86 (weggefallen)
 
 Zweiter Unterabschnitt Zweiter Rechtszug
 ----------------------------------------
@@ -1335,7 +1343,7 @@ die nach Bekanntmachung der Allgemeinverbindlicherklärung oder der Rechtsverord
 
 (5) In den Fällen des § 2a Absatz 1 Nummer 5 findet eine Wiederaufnahme des Verfahrens auch dann statt, wenn die Entscheidung über die Wirksamkeit einer Allgemeinverbindlicherklärung oder einer Rechtsverordnung darauf beruht, dass ein Beteiligter absichtlich unrichtige Angaben oder Aussagen gemacht hat. § 581 der Zivilprozessordnung findet keine Anwendung.
 
-(6) Hängt die Entscheidung eines Rechtsstreits davon ab, ob eine Allgemeinverbindlicherklärung oder eine Rechtsverordnung wirksam ist, so hat das Gericht das Verfahren bis zur Erledigung des Beschlussverfahrens nach § 2a Absatz 1 Nummer 5 auszusetzen. Im Falle des Satzes 1 sind die Parteien des Rechtsstreits auch im Beschlussverfahren nach § 2a Absatz 1 Nummer 5 antragsberechtigt.
+(6) Hängt die Entscheidung eines Rechtsstreits davon ab, ob eine Allgemeinverbindlicherklärung oder eine Rechtsverordnung wirksam ist und hat das Gericht ernsthafte Zweifel nichtverfassungsrechtlicher Art an der Wirksamkeit der Allgemeinverbindlicherklärung oder der Rechtsverordnung, so hat das Gericht das Verfahren bis zur Erledigung des Beschlussverfahrens nach § 2a Absatz 1 Nummer 5 auszusetzen. Setzt ein Gericht für Arbeitssachen nach Satz 1 einen Rechtsstreit über den Leistungsanspruch einer gemeinsamen Einrichtung aus, hat das Gericht auf deren Antrag den Beklagten zur vorläufigen Leistung zu verpflichten. Die Anordnung unterbleibt, wenn das Gericht die Allgemeinverbindlicherklärung oder die Rechtsverordnung nach dem bisherigen Sach- und Streitstand für offensichtlich unwirksam hält oder der Beklagte glaubhaft macht, dass die vorläufige Leistungspflicht ihm einen nicht zu ersetzenden Nachteil bringen würde. Auf die Entscheidung über die vorläufige Leistungspflicht finden die Vorschriften über die Aussetzung entsprechend Anwendung; die Entscheidung ist ein Vollstreckungstitel gemäß § 794 Absatz 1 Nummer 3 der Zivilprozessordnung. Auch außerhalb eines Beschwerdeverfahrens können die Parteien die Änderung oder Aufhebung der Entscheidung über die vorläufige Leistungspflicht wegen veränderter oder im ursprünglichen Verfahren ohne Verschulden nicht geltend gemachter Umstände beantragen. Ergeht nach Aufnahme des Verfahrens eine Entscheidung, gilt § 717 der Zivilprozessordnung entsprechend. Im Falle des Satzes 1 sind die Parteien des Rechtsstreits auch im Beschlussverfahren nach § 2a Absatz 1 Nummer 5 antragsberechtigt.
 
 ### § 99 Entscheidung über den nach § 4a Absatz 2 Satz 2 des Tarifvertragsgesetzes im Betrieb anwendbaren Tarifvertrag
 
@@ -1347,9 +1355,7 @@ die nach Bekanntmachung der Allgemeinverbindlicherklärung oder der Rechtsverord
 
 (4) In den Fällen des § 2a Absatz 1 Nummer 6 findet eine Wiederaufnahme des Verfahrens auch dann statt, wenn die Entscheidung über den nach § 4a Absatz 2 Satz 2 des Tarifvertragsgesetzes im Betrieb anwendbaren Tarifvertrag darauf beruht, dass ein Beteiligter absichtlich unrichtige Angaben oder Aussagen gemacht hat. § 581 der Zivilprozessordnung findet keine Anwendung.
 
-### § 100
-
-(weggefallen)
+§ 99: Eingef. durch Art. 2 Nr. 3 G v. 3.7.2015 I 1130 mWv 10.7.2015; nach Maßgabe der Gründe mit GG (100-1) vereinbar gem. BVerfGE v. 11.7.2017 I 2663 - 1 BvR 1571/15 u. a.
 
 ### § 100 Entscheidung über die Besetzung der Einigungsstelle
 
@@ -1472,54 +1478,28 @@ Fünfter Teil Übergangs- und Schlußvorschriften
 
 Für Beschlussverfahren nach § 2a Absatz 1 Nummer 4, die bis zum Ablauf des 15. August 2014 anhängig gemacht worden sind, gilt § 97 in der an diesem Tag geltenden Fassung bis zum Abschluss des Verfahrens durch einen rechtskräftigen Beschluss fort.
 
-### § 113
+### § 113 Berichterstattung
 
-(weggefallen)
+Die Bundesregierung berichtet dem Deutschen Bundestag bis zum 8. September 2020 über die Auswirkungen der vorläufigen Leistungspflicht nach § 98 Absatz 6 Satz 2 und gibt eine Einschätzung dazu ab, ob die Regelung fortbestehen soll.
 
-### § 114
+### § 114 (weggefallen)
 
-(weggefallen)
+### § 115 (weggefallen)
 
-### § 115
-
-(weggefallen)
-
-### § 116
-
-(weggefallen)
+### § 116 (weggefallen)
 
 ### § 117 Verfahren bei Meinungsverschiedenheiten der beteiligten Verwaltungen
 
 Soweit in den Fällen der §§ 40 und 41 das Einvernehmen nicht erzielt wird, entscheidet die Bundesregierung.
 
-### § 118
+### § 118 (weggefallen)
 
-(weggefallen)
+### § 119 (weggefallen)
 
-### § 119
+### § 120 (weggefallen)
 
-(weggefallen)
+### § 121 (weggefallen)
 
-### § 120
+### § 122 (weggefallen)
 
-(weggefallen)
 
-### § 121
-
-(weggefallen)
-
-### § 121a
-
-(weggefallen)
-
-### § 122
-
-(weggefallen)
-
-### Anlage 1
-
-(weggefallen)
-
-### Anlage 2
-
-(weggefallen)
