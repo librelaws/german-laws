@@ -5,7 +5,10 @@ Neuf
 Neugefasst durch Bek. v. 26.10.1994 I 3140
 
 Stand  
-zuletzt geändert durch Art. 561 V v. 31.8.2015 I 1474
+zuletzt geändert durch Art. 4 Abs. 134 G v. 18.7.2016 I 1666
+
+Sonst  
+Mittelbare Änderung durch Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
 
 ### 
 
