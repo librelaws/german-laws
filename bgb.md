@@ -2,10 +2,10 @@ Bürgerliches Gesetzbuch (BGB)
 =============================
 
 Neuf  
-Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738
+Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Stand  
-Zuletzt geändert durch Art. 4 Abs. 5 G v. 1.10.2013 I 3719
+zuletzt geändert durch Art. 16 G v. 29.6.2015 I 1042
 
 ### 
 
@@ -57,6 +57,14 @@ Richtlinie 2000/35/EG des Europäischen Parlaments und des Rates vom 29. Juni 20
 (+++ Zur Anwendung im Beitrittsgebiet vgl. BGBEG Sechster Teil
      (Art. 230 bis Art. 235) +++)
 (+++ Zur Anwendung d. § 311b Abs. 2 vgl. § 184 Satz 2 KAGB +++)
+(+++ Zur Anwendung d. §§ 271, 286, 288, 308 u. 310 vgl. § 34 BGBEG +++)
+(+++ Zur Nichtanwendung d. §§ 313, 314, 489, 490, 723 bis 725, 727, 728 
+     vgl. § 10 Abs. 5 KredWG +++)
+(+++ Zur Nichtanwendung d. §§ 556d, 556e vgl. § 556f u. § 35 BGBEG +++)
+(+++ Zur Anwendung d. §§ 556d bis 556g vgl. §§ 557a, 557b +++)
+(+++ Zur Nichtanwendung d. §§ 556f, 556g, 557a Abs. 4 u. 557b Abs. 4 
+     vgl. § 35 BGBEG +++)
+(+++ Zur Nichtanwendung d. §§ 814, 817 Satz 2 vgl. § 556g Abs. 1 +++)
 (+++ Amtliche Hinweise des Normgebers auf EG-Recht:
      Umsetzung der
        EWGRL 207/76 (CELEX Nr: 376L0207)
@@ -383,6 +391,10 @@ Die Miete
 Unterkapitel 1
 
 Vereinbarungen über die Miete
+
+Unterkapitel 1a
+
+Vereinbarungen über die Miethöhe bei Mietbeginn in Gebieten mit angespannten Wohnungsmärkten
 
 Unterkapitel 2
 
@@ -1178,7 +1190,7 @@ Die Verfassung eines rechtsfähigen Vereins wird, soweit sie nicht auf den nachf
 
 (2) Die Bestellung ist jederzeit widerruflich, unbeschadet des Anspruchs auf die vertragsmäßige Vergütung. Die Widerruflichkeit kann durch die Satzung auf den Fall beschränkt werden, dass ein wichtiger Grund für den Widerruf vorliegt; ein solcher Grund ist insbesondere grobe Pflichtverletzung oder Unfähigkeit zur ordnungsmäßigen Geschäftsführung.
 
-(3) Auf die Geschäftsführung des Vorstands finden die für den Auftrag geltenden Vorschriften der §§ 664 bis 670 entsprechende Anwendung.
+(3) Auf die Geschäftsführung des Vorstands finden die für den Auftrag geltenden Vorschriften der §§ 664 bis 670 entsprechende Anwendung. Die Mitglieder des Vorstands sind unentgeltlich tätig.
 
 ### § 28 Beschlussfassung des Vorstands
 
@@ -2784,6 +2796,36 @@ Der Schuldner ist zu Teilleistungen nicht berechtigt.
 
 (2) Ist eine Zeit bestimmt, so ist im Zweifel anzunehmen, dass der Gläubiger die Leistung nicht vor dieser Zeit verlangen, der Schuldner aber sie vorher bewirken kann.
 
+### § 271a Vereinbarungen über Zahlungs-, Überprüfungs- oder Abnahmefristen
+
+(1) Eine Vereinbarung, nach der der Gläubiger die Erfüllung einer Entgeltforderung erst nach mehr als 60 Tagen nach Empfang der Gegenleistung verlangen kann, ist nur wirksam, wenn sie ausdrücklich getroffen und im Hinblick auf die Belange des Gläubigers nicht grob unbillig ist. Geht dem Schuldner nach Empfang der Gegenleistung eine Rechnung oder gleichwertige Zahlungsaufstellung zu, tritt der Zeitpunkt des Zugangs dieser Rechnung oder Zahlungsaufstellung an die Stelle des in Satz 1 genannten Zeitpunkts des Empfangs der Gegenleistung. Es wird bis zum Beweis eines anderen Zeitpunkts vermutet, dass der Zeitpunkt des Zugangs der Rechnung oder Zahlungsaufstellung auf den Zeitpunkt des Empfangs der Gegenleistung fällt; hat der Gläubiger einen späteren Zeitpunkt benannt, so tritt dieser an die Stelle des Zeitpunkts des Empfangs der Gegenleistung.
+
+(2) Ist der Schuldner ein öffentlicher Auftraggeber im Sinne von § 98 Nummer 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen, so ist abweichend von Absatz 1
+
+1.  
+eine Vereinbarung, nach der der Gläubiger die Erfüllung einer Entgeltforderung erst nach mehr als 30 Tagen nach Empfang der Gegenleistung verlangen kann, nur wirksam, wenn die Vereinbarung ausdrücklich getroffen und aufgrund der besonderen Natur oder der Merkmale des Schuldverhältnisses sachlich gerechtfertigt ist;
+
+2.  
+eine Vereinbarung, nach der der Gläubiger die Erfüllung einer Entgeltforderung erst nach mehr als 60 Tagen nach Empfang der Gegenleistung verlangen kann, unwirksam.
+
+Absatz 1 Satz 2 und 3 ist entsprechend anzuwenden.
+
+(3) Ist eine Entgeltforderung erst nach Überprüfung oder Abnahme der Gegenleistung zu erfüllen, so ist eine Vereinbarung, nach der die Zeit für die Überprüfung oder Abnahme der Gegenleistung mehr als 30 Tage nach Empfang der Gegenleistung beträgt, nur wirksam, wenn sie ausdrücklich getroffen und im Hinblick auf die Belange des Gläubigers nicht grob unbillig ist.
+
+(4) Ist eine Vereinbarung nach den Absätzen 1 bis 3 unwirksam, bleibt der Vertrag im Übrigen wirksam.
+
+(5) Die Absätze 1 bis 3 sind nicht anzuwenden auf
+
+1.  
+die Vereinbarung von Abschlagszahlungen und sonstigen Ratenzahlungen sowie
+
+2.  
+ein Schuldverhältnis, aus dem ein Verbraucher die Erfüllung der Entgeltforderung schuldet.
+
+(6) Die Absätze 1 bis 3 lassen sonstige Vorschriften, aus denen sich Beschränkungen für Vereinbarungen über Zahlungs-, Überprüfungs- oder Abnahmefristen ergeben, unberührt.
+
+(+++ § 271a: Zur Anwendung vgl. § 34 BGBEG +++)
+
 ### § 272 Zwischenzinsen
 
 Bezahlt der Schuldner eine unverzinsliche Schuld vor der Fälligkeit, so ist er zu einem Abzug wegen der Zwischenzinsen nicht berechtigt.
@@ -2895,25 +2937,35 @@ aus besonderen Gründen unter Abwägung der beiderseitigen Interessen der sofort
 
 (4) Der Schuldner kommt nicht in Verzug, solange die Leistung infolge eines Umstands unterbleibt, den er nicht zu vertreten hat.
 
+(5) Für eine von den Absätzen 1 bis 3 abweichende Vereinbarung über den Eintritt des Verzugs gilt § 271a Absatz 1 bis 5 entsprechend.
+
 **Amtlicher Hinweis:**
 Diese Vorschrift dient zum Teil auch der Umsetzung der Richtlinie 2000/35/EG des Europäischen Parlaments und des Rates vom 29. Juni 2000 zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr (ABl. EG Nr. L 200 S. 35).
+
+(+++ § 286: Zur Anwendung vgl. § 34 BGBEG +++)
 
 ### § 287 Verantwortlichkeit während des Verzugs
 
 Der Schuldner hat während des Verzugs jede Fahrlässigkeit zu vertreten. Er haftet wegen der Leistung auch für Zufall, es sei denn, dass der Schaden auch bei rechtzeitiger Leistung eingetreten sein würde.
 
-### § 288 Verzugszinsen
+### § 288 Verzugszinsen und sonstiger Verzugsschaden
 
 (1) Eine Geldschuld ist während des Verzugs zu verzinsen. Der Verzugszinssatz beträgt für das Jahr fünf Prozentpunkte über dem Basiszinssatz.
 
-(2) Bei Rechtsgeschäften, an denen ein Verbraucher nicht beteiligt ist, beträgt der Zinssatz für Entgeltforderungen acht Prozentpunkte über dem Basiszinssatz.
+(2) Bei Rechtsgeschäften, an denen ein Verbraucher nicht beteiligt ist, beträgt der Zinssatz für Entgeltforderungen neun Prozentpunkte über dem Basiszinssatz.
 
 (3) Der Gläubiger kann aus einem anderen Rechtsgrund höhere Zinsen verlangen.
 
 (4) Die Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen.
 
+(5) Der Gläubiger einer Entgeltforderung hat bei Verzug des Schuldners, wenn dieser kein Verbraucher ist, außerdem einen Anspruch auf Zahlung einer Pauschale in Höhe von 40 Euro. Dies gilt auch, wenn es sich bei der Entgeltforderung um eine Abschlagszahlung oder sonstige Ratenzahlung handelt. Die Pauschale nach Satz 1 ist auf einen geschuldeten Schadensersatz anzurechnen, soweit der Schaden in Kosten der Rechtsverfolgung begründet ist.
+
+(6) Eine im Voraus getroffene Vereinbarung, die den Anspruch des Gläubigers einer Entgeltforderung auf Verzugszinsen ausschließt, ist unwirksam. Gleiches gilt für eine Vereinbarung, die diesen Anspruch beschränkt oder den Anspruch des Gläubigers einer Entgeltforderung auf die Pauschale nach Absatz 5 oder auf Ersatz des Schadens, der in Kosten der Rechtsverfolgung begründet ist, ausschließt oder beschränkt, wenn sie im Hinblick auf die Belange des Gläubigers grob unbillig ist. Eine Vereinbarung über den Ausschluss der Pauschale nach Absatz 5 oder des Ersatzes des Schadens, der in Kosten der Rechtsverfolgung begründet ist, ist im Zweifel als grob unbillig anzusehen. Die Sätze 1 bis 3 sind nicht anzuwenden, wenn sich der Anspruch gegen einen Verbraucher richtet.
+
 **Amtlicher Hinweis:**
 Diese Vorschrift dient zum Teil auch der Umsetzung der Richtlinie 2000/35/EG des Europäischen Parlaments und des Rates vom 29. Juni 2000 zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr (ABl. EG Nr. L 200 S. 35).
+
+(+++ § 288: Zur Anwendung vgl. § 34 BGBEG +++)
 
 ### § 289 Zinseszinsverbot
 
@@ -3071,6 +3123,12 @@ In Allgemeinen Geschäftsbedingungen ist insbesondere unwirksam
 1.  
 (Annahme- und Leistungsfrist)eine Bestimmung, durch die sich der Verwender unangemessen lange oder nicht hinreichend bestimmte Fristen für die Annahme oder Ablehnung eines Angebots oder die Erbringung einer Leistung vorbehält; ausgenommen hiervon ist der Vorbehalt, erst nach Ablauf der Widerrufsfrist nach § 355 Absatz 1 und 2 zu leisten;
 
+1a.  
+(Zahlungsfrist)eine Bestimmung, durch die sich der Verwender eine unangemessen lange Zeit für die Erfüllung einer Entgeltforderung des Vertragspartners vorbehält; ist der Verwender kein Verbraucher, ist im Zweifel anzunehmen, dass eine Zeit von mehr als 30 Tagen nach Empfang der Gegenleistung oder, wenn dem Schuldner nach Empfang der Gegenleistung eine Rechnung oder gleichwertige Zahlungsaufstellung zugeht, von mehr als 30 Tagen nach Zugang dieser Rechnung oder Zahlungsaufstellung unangemessen lang ist;
+
+1b.  
+(Überprüfungs- und Abnahmefrist)eine Bestimmung, durch die sich der Verwender vorbehält, eine Entgeltforderung des Vertragspartners erst nach unangemessen langer Zeit für die Überprüfung oder Abnahme der Gegenleistung zu erfüllen; ist der Verwender kein Verbraucher, ist im Zweifel anzunehmen, dass eine Zeit von mehr als 15 Tagen nach Empfang der Gegenleistung unangemessen lang ist;
+
 2.  
 (Nachfrist)eine Bestimmung, durch die sich der Verwender für die von ihm zu bewirkende Leistung abweichend von Rechtsvorschriften eine unangemessen lange oder nicht hinreichend bestimmte Nachfrist vorbehält;
 
@@ -3109,6 +3167,8 @@ den Vertragspartner unverzüglich über die Nichtverfügbarkeit zu informieren u
 
 b)  
 Gegenleistungen des Vertragspartners unverzüglich zu erstatten.
+
+(+++ § 308: Zur Anwendung vgl. § 34 BGBEG +++)
 
 ### § 309 Klauselverbote ohne Wertungsmöglichkeit
 
@@ -3232,7 +3292,7 @@ Buchstabe b gilt nicht für Empfangsbekenntnisse, die gesondert unterschrieben o
 
 ### § 310 Anwendungsbereich
 
-(1) § 305 Abs. 2 und 3 und die §§ 308 und 309 finden keine Anwendung auf Allgemeine Geschäftsbedingungen, die gegenüber einem Unternehmer, einer juristischen Person des öffentlichen Rechts oder einem öffentlich-rechtlichen Sondervermögen verwendet werden. § 307 Abs. 1 und 2 findet in den Fällen des Satzes 1 auch insoweit Anwendung, als dies zur Unwirksamkeit von in den §§ 308 und 309 genannten Vertragsbestimmungen führt; auf die im Handelsverkehr geltenden Gewohnheiten und Gebräuche ist angemessen Rücksicht zu nehmen. In den Fällen des Satzes 1 findet § 307 Abs. 1 und 2 auf Verträge, in die die Vergabe- und Vertragsordnung für Bauleistungen Teil B (VOB/B) in der jeweils zum Zeitpunkt des Vertragsschlusses geltenden Fassung ohne inhaltliche Abweichungen insgesamt einbezogen ist, in Bezug auf eine Inhaltskontrolle einzelner Bestimmungen keine Anwendung.
+(1) § 305 Absatz 2 und 3, § 308 Nummer 1, 2 bis 8 und § 309 finden keine Anwendung auf Allgemeine Geschäftsbedingungen, die gegenüber einem Unternehmer, einer juristischen Person des öffentlichen Rechts oder einem öffentlich-rechtlichen Sondervermögen verwendet werden. § 307 Abs. 1 und 2 findet in den Fällen des Satzes 1 auch insoweit Anwendung, als dies zur Unwirksamkeit von in § 308 Nummer 1, 2 bis 8 und § 309 genannten Vertragsbestimmungen führt; auf die im Handelsverkehr geltenden Gewohnheiten und Gebräuche ist angemessen Rücksicht zu nehmen. In den Fällen des Satzes 1 finden § 307 Absatz 1 und 2 sowie § 308 Nummer 1a und 1b auf Verträge, in die die Vergabe- und Vertragsordnung für Bauleistungen Teil B (VOB/B) in der jeweils zum Zeitpunkt des Vertragsschlusses geltenden Fassung ohne inhaltliche Abweichungen insgesamt einbezogen ist, in Bezug auf eine Inhaltskontrolle einzelner Bestimmungen keine Anwendung.
 
 (2) Die §§ 308 und 309 finden keine Anwendung auf Verträge der Elektrizitäts-, Gas-, Fernwärme- und Wasserversorgungsunternehmen über die Versorgung von Sonderabnehmern mit elektrischer Energie, Gas, Fernwärme und Wasser aus dem Versorgungsnetz, soweit die Versorgungsbedingungen nicht zum Nachteil der Abnehmer von Verordnungen über Allgemeine Bedingungen für die Versorgung von Tarifkunden mit elektrischer Energie, Gas, Fernwärme und Wasser abweichen. Satz 1 gilt entsprechend für Verträge über die Entsorgung von Abwasser.
 
@@ -3248,6 +3308,8 @@ Allgemeine Geschäftsbedingungen gelten als vom Unternehmer gestellt, es sei den
 bei der Beurteilung der unangemessenen Benachteiligung nach § 307 Abs. 1 und 2 sind auch die den Vertragsschluss begleitenden Umstände zu berücksichtigen.
 
 (4) Dieser Abschnitt findet keine Anwendung bei Verträgen auf dem Gebiet des Erb-, Familien- und Gesellschaftsrechts sowie auf Tarifverträge, Betriebs- und Dienstvereinbarungen. Bei der Anwendung auf Arbeitsverträge sind die im Arbeitsrecht geltenden Besonderheiten angemessen zu berücksichtigen; § 305 Abs. 2 und 3 ist nicht anzuwenden. Tarifverträge, Betriebs- und Dienstvereinbarungen stehen Rechtsvorschriften im Sinne von § 307 Abs. 3 gleich.
+
+(+++ § 310: Zur Anwendung vgl. § 34 BGBEG +++)
 
 Abschnitt 3 Schuldverhältnisse aus Verträgen
 --------------------------------------------
@@ -3622,6 +3684,8 @@ Untertitel 3 Anpassung und Beendigung von Verträgen
 
 (3) Ist eine Anpassung des Vertrags nicht möglich oder einem Teil nicht zumutbar, so kann der benachteiligte Teil vom Vertrag zurücktreten. An die Stelle des Rücktrittsrechts tritt für Dauerschuldverhältnisse das Recht zur Kündigung.
 
+(+++ § 313: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
+
 ### § 314 Kündigung von Dauerschuldverhältnissen aus wichtigem Grund
 
 (1) Dauerschuldverhältnisse kann jeder Vertragsteil aus wichtigem Grund ohne Einhaltung einer Kündigungsfrist kündigen. Ein wichtiger Grund liegt vor, wenn dem kündigenden Teil unter Berücksichtigung aller Umstände des Einzelfalls und unter Abwägung der beiderseitigen Interessen die Fortsetzung des Vertragsverhältnisses bis zur vereinbarten Beendigung oder bis zum Ablauf einer Kündigungsfrist nicht zugemutet werden kann.
@@ -3631,6 +3695,8 @@ Untertitel 3 Anpassung und Beendigung von Verträgen
 (3) Der Berechtigte kann nur innerhalb einer angemessenen Frist kündigen, nachdem er vom Kündigungsgrund Kenntnis erlangt hat.
 
 (4) Die Berechtigung, Schadensersatz zu verlangen, wird durch die Kündigung nicht ausgeschlossen.
+
+(+++ § 314: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
 
 Untertitel 4 Einseitige Leistungsbestimmungsrechte
 --------------------------------------------------
@@ -5002,6 +5068,8 @@ in jedem Fall nach Ablauf von zehn Jahren nach dem vollständigen Empfang unter 
 
 (5) Sollzinssatz ist der gebundene oder veränderliche periodische Prozentsatz, der pro Jahr auf das in Anspruch genommene Darlehen angewendet wird. Der Sollzinssatz ist gebunden, wenn für die gesamte Vertragslaufzeit ein Sollzinssatz oder mehrere Sollzinssätze vereinbart sind, die als feststehende Prozentzahl ausgedrückt werden. Ist für die gesamte Vertragslaufzeit keine Sollzinsbindung vereinbart, gilt der Sollzinssatz nur für diejenigen Zeiträume als gebunden, für die er durch eine feste Prozentzahl bestimmt ist.
 
+(+++ § 489: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
+
 ### § 490 Außerordentliches Kündigungsrecht
 
 (1) Wenn in den Vermögensverhältnissen des Darlehensnehmers oder in der Werthaltigkeit einer für das Darlehen gestellten Sicherheit eine wesentliche Verschlechterung eintritt oder einzutreten droht, durch die die Rückzahlung des Darlehens, auch unter Verwertung der Sicherheit, gefährdet wird, kann der Darlehensgeber den Darlehensvertrag vor Auszahlung des Darlehens im Zweifel stets, nach Auszahlung nur in der Regel fristlos kündigen.
@@ -5009,6 +5077,8 @@ in jedem Fall nach Ablauf von zehn Jahren nach dem vollständigen Empfang unter 
 (2) Der Darlehensnehmer kann einen Darlehensvertrag, bei dem der Sollzinssatz gebunden und das Darlehen durch ein Grund- oder Schiffspfandrecht gesichert ist, unter Einhaltung der Fristen des § 488 Abs. 3 Satz 2 vorzeitig kündigen, wenn seine berechtigten Interessen dies gebieten und seit dem vollständigen Empfang des Darlehens sechs Monate abgelaufen sind. Ein solches Interesse liegt insbesondere vor, wenn der Darlehensnehmer ein Bedürfnis nach einer anderweitigen Verwertung der zur Sicherung des Darlehens beliehenen Sache hat. Der Darlehensnehmer hat dem Darlehensgeber denjenigen Schaden zu ersetzen, der diesem aus der vorzeitigen Kündigung entsteht (Vorfälligkeitsentschädigung).
 
 (3) Die Vorschriften der §§ 313 und 314 bleiben unberührt.
+
+(+++ § 490: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
 
 Kapitel 2 Besondere Vorschriften für Verbraucherdarlehensverträge
 -----------------------------------------------------------------
@@ -5564,7 +5634,7 @@ Kapitel 1 Allgemeine Vorschriften
 
 (1) Für Mietverhältnisse über Wohnraum gelten die §§ 535 bis 548, soweit sich nicht aus den §§ 549 bis 577a etwas anderes ergibt.
 
-(2) Die Vorschriften über die Mieterhöhung (§§ 557 bis 561) und über den Mieterschutz bei Beendigung des Mietverhältnisses sowie bei der Begründung von Wohnungseigentum (§ 568 Abs. 2, §§ 573, 573a, 573d Abs. 1, §§ 574 bis 575, 575a Abs. 1 und §§ 577, 577a) gelten nicht für Mietverhältnisse über
+(2) Die Vorschriften über die Miethöhe bei Mietbeginn in Gebieten mit angespannten Wohnungsmärkten (§§ 556d bis 556g), über die Mieterhöhung (§§ 557 bis 561) und über den Mieterschutz bei Beendigung des Mietverhältnisses sowie bei der Begründung von Wohnungseigentum (§ 568 Abs. 2, §§ 573, 573a, 573d Abs. 1, §§ 574 bis 575, 575a Abs. 1 und §§ 577, 577a) gelten nicht für Mietverhältnisse über
 
 1.  
 Wohnraum, der nur zum vorübergehenden Gebrauch vermietet ist,
@@ -5575,7 +5645,7 @@ Wohnraum, der Teil der vom Vermieter selbst bewohnten Wohnung ist und den der Ve
 3.  
 Wohnraum, den eine juristische Person des öffentlichen Rechts oder ein anerkannter privater Träger der Wohlfahrtspflege angemietet hat, um ihn Personen mit dringendem Wohnungsbedarf zu überlassen, wenn sie den Mieter bei Vertragsschluss auf die Zweckbestimmung des Wohnraums und die Ausnahme von den genannten Vorschriften hingewiesen hat.
 
-(3) Für Wohnraum in einem Studenten- oder Jugendwohnheim gelten die §§ 557 bis 561 sowie die §§ 573, 573a, 573d Abs. 1 und §§ 575, 575a Abs. 1, §§ 577, 577a nicht.
+(3) Für Wohnraum in einem Studenten- oder Jugendwohnheim gelten die §§ 556d bis 561 sowie die §§ 573, 573a, 573d Abs. 1 und §§ 575, 575a Abs. 1, §§ 577, 577a nicht.
 
 ### § 550 Form des Mietvertrags
 
@@ -5769,6 +5839,65 @@ Beträgt der Jahresnutzungsgrad der bestehenden Anlage vor der Umstellung mindes
 
 (4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
 
+Unterkapitel 1a Vereinbarungen über die Miethöhe bei Mietbeginn in Gebieten mit angespannten Wohnungsmärkten
+------------------------------------------------------------------------------------------------------------
+
+### 
+
+### § 556d Zulässige Miethöhe bei Mietbeginn; Verordnungsermächtigung
+
+(1) Wird ein Mietvertrag über Wohnraum abgeschlossen, der in einem durch Rechtsverordnung nach Absatz 2 bestimmten Gebiet mit einem angespannten Wohnungsmarkt liegt, so darf die Miete zu Beginn des Mietverhältnisses die ortsübliche Vergleichsmiete (§ 558 Absatz 2) höchstens um 10 Prozent übersteigen.
+
+(2) Die Landesregierungen werden ermächtigt, Gebiete mit angespannten Wohnungsmärkten durch Rechtsverordnung für die Dauer von höchstens fünf Jahren zu bestimmen. Gebiete mit angespannten Wohnungsmärkten liegen vor, wenn die ausreichende Versorgung der Bevölkerung mit Mietwohnungen in einer Gemeinde oder einem Teil der Gemeinde zu angemessenen Bedingungen besonders gefährdet ist. Dies kann insbesondere dann der Fall sein, wenn
+
+1.  
+die Mieten deutlich stärker steigen als im bundesweiten Durchschnitt,
+
+2.  
+die durchschnittliche Mietbelastung der Haushalte den bundesweiten Durchschnitt deutlich übersteigt,
+
+3.  
+die Wohnbevölkerung wächst, ohne dass durch Neubautätigkeit insoweit erforderlicher Wohnraum geschaffen wird, oder
+
+4.  
+geringer Leerstand bei großer Nachfrage besteht.
+
+Eine Rechtsverordnung nach Satz 1 muss spätestens am 31. Dezember 2020 in Kraft treten. Sie muss begründet werden. Aus der Begründung muss sich ergeben, auf Grund welcher Tatsachen ein Gebiet mit einem angespannten Wohnungsmarkt im Einzelfall vorliegt. Ferner muss sich aus der Begründung ergeben, welche Maßnahmen die Landesregierung in dem nach Satz 1 durch die Rechtsverordnung jeweils bestimmten Gebiet und Zeitraum ergreifen wird, um Abhilfe zu schaffen.
+
+(+++ § 556d: Zur Nichtanwendung vgl. § 556f +++)
+(+++ § 556d: Zur Anwendung vgl. §§ 557a, 557b +++)
+(+++ § 556d: Zur Nichtanwendung vgl. § 35 BGBEG +++)
+
+### § 556e Berücksichtigung der Vormiete oder einer durchgeführten Modernisierung
+
+(1) Ist die Miete, die der vorherige Mieter zuletzt schuldete (Vormiete), höher als die nach § 556d Absatz 1 zulässige Miete, so darf eine Miete bis zur Höhe der Vormiete vereinbart werden. Bei der Ermittlung der Vormiete unberücksichtigt bleiben Mietminderungen sowie solche Mieterhöhungen, die mit dem vorherigen Mieter innerhalb des letzten Jahres vor Beendigung des Mietverhältnisses vereinbart worden sind.
+
+(2) Hat der Vermieter in den letzten drei Jahren vor Beginn des Mietverhältnisses Modernisierungsmaßnahmen im Sinne des § 555b durchgeführt, so darf die nach § 556d Absatz 1 zulässige Miete um den Betrag überschritten werden, der sich bei einer Mieterhöhung nach § 559 Absatz 1 bis 3 und § 559a Absatz 1 bis 4 ergäbe. Bei der Berechnung nach Satz 1 ist von der ortsüblichen Vergleichsmiete (§ 558 Absatz 2) auszugehen, die bei Beginn des Mietverhältnisses ohne Berücksichtigung der Modernisierung anzusetzen wäre.
+
+(+++ § 556e: Zur Nichtanwendung vgl. § 556f +++)
+(+++ § 556e: Zur Anwendung vgl. §§ 557a, 557b +++)
+(+++ § 556e: Zur Nichtanwendung vgl. § 35 BGBEG +++)
+
+### § 556f Ausnahmen
+
+§ 556d ist nicht anzuwenden auf eine Wohnung, die nach dem 1. Oktober 2014 erstmals genutzt und vermietet wird. Die §§ 556d und 556e sind nicht anzuwenden auf die erste Vermietung nach umfassender Modernisierung.
+
+(+++ § 556f: Zur Anwendung vgl. §§ 557a, 557b +++)
+(+++ § 556f: Zur Nichtanwendung vgl. § 35 BGBEG +++)
+
+### § 556g Rechtsfolgen; Auskunft über die Miete
+
+(1) Eine zum Nachteil des Mieters von den Vorschriften dieses Unterkapitels abweichende Vereinbarung ist unwirksam. Für Vereinbarungen über die Miethöhe bei Mietbeginn gilt dies nur, soweit die zulässige Miete überschritten wird. Der Vermieter hat dem Mieter zu viel gezahlte Miete nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung herauszugeben. Die §§ 814 und 817 Satz 2 sind nicht anzuwenden.
+
+(2) Der Mieter kann von dem Vermieter eine nach den §§ 556d und 556e nicht geschuldete Miete nur zurückverlangen, wenn er einen Verstoß gegen die Vorschriften dieses Unterkapitels gerügt hat und die zurückverlangte Miete nach Zugang der Rüge fällig geworden ist. Die Rüge muss die Tatsachen enthalten, auf denen die Beanstandung der vereinbarten Miete beruht.
+
+(3) Der Vermieter ist auf Verlangen des Mieters verpflichtet, Auskunft über diejenigen Tatsachen zu erteilen, die für die Zulässigkeit der vereinbarten Miete nach den Vorschriften dieses Unterkapitels maßgeblich sind, soweit diese Tatsachen nicht allgemein zugänglich sind und der Vermieter hierüber unschwer Auskunft geben kann. Für die Auskunft über Modernisierungsmaßnahmen (§ 556e Absatz 2) gilt § 559b Absatz 1 Satz 2 und 3 entsprechend.
+
+(4) Sämtliche Erklärungen nach den Absätzen 2 und 3 bedürfen der Textform.
+
+(+++ § 556g: Zur Anwendung vgl. §§ 557a, 557b +++)
+(+++ § 556g: Zur Nichtanwendung vgl. § 35 BGBEG +++)
+
 Unterkapitel 2 Regelungen über die Miethöhe
 -------------------------------------------
 
@@ -5792,7 +5921,11 @@ Unterkapitel 2 Regelungen über die Miethöhe
 
 (3) Das Kündigungsrecht des Mieters kann für höchstens vier Jahre seit Abschluss der Staffelmietvereinbarung ausgeschlossen werden. Die Kündigung ist frühestens zum Ablauf dieses Zeitraums zulässig.
 
-(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+(4) Die §§ 556d bis 556g sind auf jede Mietstaffel anzuwenden. Maßgeblich für die Berechnung der nach § 556d Absatz 1 zulässigen Höhe der zweiten und aller weiteren Mietstaffeln ist statt des Beginns des Mietverhältnisses der Zeitpunkt, zu dem die erste Miete der jeweiligen Mietstaffel fällig wird. Die in einer vorangegangenen Mietstaffel wirksam begründete Miethöhe bleibt erhalten.
+
+(5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+
+(+++ § 557a Abs. 4: Zur Nichtanwendung vgl. § 35 BGBEG +++)
 
 ### § 557b Indexmiete
 
@@ -5802,7 +5935,11 @@ Unterkapitel 2 Regelungen über die Miethöhe
 
 (3) Eine Änderung der Miete nach Absatz 1 muss durch Erklärung in Textform geltend gemacht werden. Dabei sind die eingetretene Änderung des Preisindexes sowie die jeweilige Miete oder die Erhöhung in einem Geldbetrag anzugeben. Die geänderte Miete ist mit Beginn des übernächsten Monats nach dem Zugang der Erklärung zu entrichten.
 
-(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+(4) Die §§ 556d bis 556g sind nur auf die Ausgangsmiete einer Indexmietvereinbarung anzuwenden.
+
+(5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+
+(+++ § 557b Abs. 4: Zur Nichtanwendung vgl. § 35 BGBEG +++)
 
 ### § 558 Mieterhöhung bis zur ortsüblichen Vergleichsmiete
 
@@ -8274,15 +8411,21 @@ Der volljährig Gewordene kann die Kündigung nach Nummer 2 nur binnen drei Mona
 
 (3) Eine Vereinbarung, durch welche das Kündigungsrecht ausgeschlossen oder diesen Vorschriften zuwider beschränkt wird, ist nichtig.
 
+(+++ § 723: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
+
 ### § 724 Kündigung bei Gesellschaft auf Lebenszeit oder fortgesetzter Gesellschaft
 
 Ist eine Gesellschaft für die Lebenszeit eines Gesellschafters eingegangen, so kann sie in gleicher Weise gekündigt werden wie eine für unbestimmte Zeit eingegangene Gesellschaft. Dasselbe gilt, wenn eine Gesellschaft nach dem Ablauf der bestimmten Zeit stillschweigend fortgesetzt wird.
+
+(+++ § 724: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
 
 ### § 725 Kündigung durch Pfändungspfandgläubiger
 
 (1) Hat ein Gläubiger eines Gesellschafters die Pfändung des Anteils des Gesellschafters an dem Gesellschaftsvermögen erwirkt, so kann er die Gesellschaft ohne Einhaltung einer Kündigungsfrist kündigen, sofern der Schuldtitel nicht bloß vorläufig vollstreckbar ist.
 
 (2) Solange die Gesellschaft besteht, kann der Gläubiger die sich aus dem Gesellschaftsverhältnis ergebenden Rechte des Gesellschafters, mit Ausnahme des Anspruchs auf einen Gewinnanteil, nicht geltend machen.
+
+(+++ § 725: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
 
 ### § 726 Auflösung wegen Erreichens oder Unmöglichwerdens des Zweckes
 
@@ -8294,11 +8437,15 @@ Die Gesellschaft endigt, wenn der vereinbarte Zweck erreicht oder dessen Erreich
 
 (2) Im Falle der Auflösung hat der Erbe des verstorbenen Gesellschafters den übrigen Gesellschaftern den Tod unverzüglich anzuzeigen und, wenn mit dem Aufschub Gefahr verbunden ist, die seinem Erblasser durch den Gesellschaftsvertrag übertragenen Geschäfte fortzuführen, bis die übrigen Gesellschafter in Gemeinschaft mit ihm anderweit Fürsorge treffen können. Die übrigen Gesellschafter sind in gleicher Weise zur einstweiligen Fortführung der ihnen übertragenen Geschäfte verpflichtet. Die Gesellschaft gilt insoweit als fortbestehend.
 
+(+++ § 727: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
+
 ### § 728 Auflösung durch Insolvenz der Gesellschaft oder eines Gesellschafters
 
 (1) Die Gesellschaft wird durch die Eröffnung des Insolvenzverfahrens über das Vermögen der Gesellschaft aufgelöst. Wird das Verfahren auf Antrag des Schuldners eingestellt oder nach der Bestätigung eines Insolvenzplans, der den Fortbestand der Gesellschaft vorsieht, aufgehoben, so können die Gesellschafter die Fortsetzung der Gesellschaft beschließen.
 
 (2) Die Gesellschaft wird durch die Eröffnung des Insolvenzverfahrens über das Vermögen eines Gesellschafters aufgelöst. Die Vorschrift des § 727 Abs. 2 Satz 2, 3 findet Anwendung.
+
+(+++ § 728: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
 
 ### § 729 Fortdauer der Geschäftsführungsbefugnis
 
@@ -15734,7 +15881,7 @@ Der Erblasser kann durch Testament den Erben oder einen Vermächtnisnehmer zu ei
 
 ### § 1941 Erbvertrag
 
-(1) Der Erblasser kann durch Vertrag einen Erben einsetzen sowie Vermächtnisse und Auflagen anordnen (Erbvertrag).
+(1) Der Erblasser kann durch Vertrag einen Erben einsetzen, Vermächtnisse und Auflagen anordnen sowie das anzuwendende Erbrecht wählen (Erbvertrag).
 
 (2) Als Erbe (Vertragserbe) oder als Vermächtnisnehmer kann sowohl der andere Vertragschließende als ein Dritter bedacht werden.
 
@@ -17579,7 +17726,7 @@ Zur Errichtung eines gemeinschaftlichen Testaments nach § 2247 genügt es, wenn
 
 (2) Ein solches Verhältnis der Verfügungen zueinander ist im Zweifel anzunehmen, wenn sich die Ehegatten gegenseitig bedenken oder wenn dem einen Ehegatten von dem anderen eine Zuwendung gemacht und für den Fall des Überlebens des Bedachten eine Verfügung zugunsten einer Person getroffen wird, die mit dem anderen Ehegatten verwandt ist oder ihm sonst nahe steht.
 
-(3) Auf andere Verfügungen als Erbeinsetzungen, Vermächtnisse oder Auflagen findet die Vorschrift des Absatzes 1 keine Anwendung.
+(3) Auf andere Verfügungen als Erbeinsetzungen, Vermächtnisse, Auflagen und die Wahl des anzuwendenden Erbrechts findet Absatz 1 keine Anwendung.
 
 ### § 2271 Widerruf wechselbezüglicher Verfügungen
 
@@ -17628,7 +17775,7 @@ Der Erblasser kann einen Erbvertrag nur persönlich schließen.
 
 (1) In einem Erbvertrag kann jeder der Vertragschließenden vertragsmäßige Verfügungen von Todes wegen treffen.
 
-(2) Andere Verfügungen als Erbeinsetzungen, Vermächtnisse und Auflagen können vertragsmäßig nicht getroffen werden.
+(2) Andere Verfügungen als Erbeinsetzungen, Vermächtnisse, Auflagen und die Wahl des anzuwendenden Erbrechts können vertragsmäßig nicht getroffen werden.
 
 ### § 2279 Vertragsmäßige Zuwendungen und Auflagen; Anwendung von § 2077
 
@@ -17704,7 +17851,7 @@ Durch den Erbvertrag wird das Recht des Erblassers, über sein Vermögen durch R
 
 ### § 2291 Aufhebung durch Testament
 
-(1) Eine vertragsmäßige Verfügung, durch die ein Vermächtnis oder eine Auflage angeordnet ist, kann von dem Erblasser durch Testament aufgehoben werden. Zur Wirksamkeit der Aufhebung ist die Zustimmung des anderen Vertragschließenden erforderlich; die Vorschrift des § 2290 Abs. 3 findet Anwendung.
+(1) Eine vertragsmäßige Verfügung, durch die ein Vermächtnis oder eine Auflage angeordnet sowie eine Rechtswahl getroffen ist, kann von dem Erblasser durch Testament aufgehoben werden. Zur Wirksamkeit der Aufhebung ist die Zustimmung des anderen Vertragschließenden erforderlich; die Vorschrift des § 2290 Abs. 3 findet Anwendung.
 
 (2) Die Zustimmungserklärung bedarf der notariellen Beurkundung; die Zustimmung ist unwiderruflich.
 
@@ -18098,58 +18245,9 @@ Abschnitt 8 Erbschein
 
 Das Nachlassgericht hat dem Erben auf Antrag ein Zeugnis über sein Erbrecht und, wenn er nur zu einem Teil der Erbschaft berufen ist, über die Größe des Erbteils zu erteilen (Erbschein).
 
-### § 2354 Angaben des gesetzlichen Erben im Antrag
+### (XXXX) §§ 2354 bis 2359
 
-(1) Wer die Erteilung des Erbscheins als gesetzlicher Erbe beantragt, hat anzugeben:
-
-1.  
-die Zeit des Todes des Erblassers,
-
-2.  
-das Verhältnis, auf dem sein Erbrecht beruht,
-
-3.  
-ob und welche Personen vorhanden sind oder vorhanden waren, durch die er von der Erbfolge ausgeschlossen oder sein Erbteil gemindert werden würde,
-
-4.  
-ob und welche Verfügungen des Erblassers von Todes wegen vorhanden sind,
-
-5.  
-ob ein Rechtsstreit über sein Erbrecht anhängig ist.
-
-(2) Ist eine Person weggefallen, durch die der Antragsteller von der Erbfolge ausgeschlossen oder sein Erbteil gemindert werden würde, so hat der Antragsteller anzugeben, in welcher Weise die Person weggefallen ist.
-
-### § 2355 Angaben des gewillkürten Erben im Antrag
-
-Wer die Erteilung des Erbscheins auf Grund einer Verfügung von Todes wegen beantragt, hat die Verfügung zu bezeichnen, auf der sein Erbrecht beruht, anzugeben, ob und welche sonstigen Verfügungen des Erblassers von Todes wegen vorhanden sind, und die in § 2354 Abs. 1 Nr. 1, 5, Abs. 2 vorgeschriebenen Angaben zu machen.
-
-### § 2356 Nachweis der Richtigkeit der Angaben
-
-(1) Der Antragsteller hat die Richtigkeit der in Gemäßheit des § 2354 Abs. 1 Nr. 1, 2, Abs. 2 gemachten Angaben durch öffentliche Urkunden nachzuweisen und im Falle des § 2355 die Urkunde vorzulegen, auf der sein Erbrecht beruht. Sind die Urkunden nicht oder nur mit unverhältnismäßigen Schwierigkeiten zu beschaffen, so genügt die Angabe anderer Beweismittel.
-
-(2) Zum Nachweis, dass der Erblasser zur Zeit seines Todes im Güterstand der Zugewinngemeinschaft gelebt hat, und in Ansehung der übrigen nach den §§ 2354, 2355 erforderlichen Angaben hat der Antragsteller vor Gericht oder vor einem Notar an Eides statt zu versichern, dass ihm nichts bekannt sei, was der Richtigkeit seiner Angaben entgegensteht. Das Nachlassgericht kann die Versicherung erlassen, wenn es sie für nicht erforderlich erachtet.
-
-(3) Diese Vorschriften finden keine Anwendung, soweit die Tatsachen bei dem Nachlassgericht offenkundig sind.
-
-### § 2357 Gemeinschaftlicher Erbschein
-
-(1) Sind mehrere Erben vorhanden, so ist auf Antrag ein gemeinschaftlicher Erbschein zu erteilen. Der Antrag kann von jedem der Erben gestellt werden.
-
-(2) In dem Antrag sind die Erben und ihre Erbteile anzugeben.
-
-(3) Wird der Antrag nicht von allen Erben gestellt, so hat er die Angabe zu enthalten, dass die übrigen Erben die Erbschaft angenommen haben. Die Vorschrift des § 2356 gilt auch für die sich auf die übrigen Erben beziehenden Angaben des Antragstellers.
-
-(4) Die Versicherung an Eides statt ist von allen Erben abzugeben, sofern nicht das Nachlassgericht die Versicherung eines oder einiger von ihnen für ausreichend erachtet.
-
-### § 2358 Ermittlungen des Nachlassgerichts
-
-(1) Das Nachlassgericht hat unter Benutzung der von dem Antragsteller angegebenen Beweismittel von Amts wegen die zur Feststellung der Tatsachen erforderlichen Ermittlungen zu veranstalten und die geeignet erscheinenden Beweise aufzunehmen.
-
-(2) Das Nachlassgericht kann eine öffentliche Aufforderung zur Anmeldung der anderen Personen zustehenden Erbrechte erlassen; die Art der Bekanntmachung und die Dauer der Anmeldungsfrist bestimmen sich nach den für das Aufgebotsverfahren geltenden Vorschriften.
-
-### § 2359 Voraussetzungen für die Erteilung des Erbscheins
-
-Der Erbschein ist nur zu erteilen, wenn das Nachlassgericht die zur Begründung des Antrags erforderlichen Tatsachen für festgestellt erachtet.
+(weggefallen)
 
 ### § 2360 (weggefallen)
 
@@ -18157,11 +18255,7 @@ Der Erbschein ist nur zu erteilen, wenn das Nachlassgericht die zur Begründung 
 
 ### § 2361 Einziehung oder Kraftloserklärung des unrichtigen Erbscheins
 
-(1) Ergibt sich, dass der erteilte Erbschein unrichtig ist, so hat ihn das Nachlassgericht einzuziehen. Mit der Einziehung wird der Erbschein kraftlos.
-
-(2) Kann der Erbschein nicht sofort erlangt werden, so hat ihn das Nachlassgericht durch Beschluss für kraftlos zu erklären. Der Beschluss ist nach den für die öffentliche Zustellung einer Ladung geltenden Vorschriften der Zivilprozessordnung bekannt zu machen. Mit dem Ablauf eines Monats nach der letzten Einrückung des Beschlusses in die öffentlichen Blätter wird die Kraftloserklärung wirksam.
-
-(3) Das Nachlassgericht kann von Amts wegen über die Richtigkeit eines erteilten Erbscheins Ermittlungen veranstalten.
+Ergibt sich, dass der erteilte Erbschein unrichtig ist, so hat ihn das Nachlassgericht einzuziehen. Mit der Einziehung wird der Erbschein kraftlos.
 
 ### § 2362 Herausgabe- und Auskunftsanspruch des wirklichen Erben
 
@@ -18169,17 +18263,11 @@ Der Erbschein ist nur zu erteilen, wenn das Nachlassgericht die zur Begründung 
 
 (2) Derjenige, welchem ein unrichtiger Erbschein erteilt worden ist, hat dem wirklichen Erben über den Bestand der Erbschaft und über den Verbleib der Erbschaftsgegenstände Auskunft zu erteilen.
 
-### § 2363 Inhalt des Erbscheins für den Vorerben
+### § 2363 Herausgabeanspruch des Nacherben und des Testamentsvollstreckers
 
-(1) In dem Erbschein, der einem Vorerben erteilt wird, ist anzugeben, dass eine Nacherbfolge angeordnet ist, unter welchen Voraussetzungen sie eintritt und wer der Nacherbe ist. Hat der Erblasser den Nacherben auf dasjenige eingesetzt, was von der Erbschaft bei dem Eintritt der Nacherbfolge übrig sein wird, oder hat er bestimmt, dass der Vorerbe zur freien Verfügung über die Erbschaft berechtigt sein soll, so ist auch dies anzugeben.
+Dem Nacherben sowie dem Testamentsvollstrecker steht das in § 2362 Absatz 1 bestimmte Recht zu.
 
-(2) Dem Nacherben steht das in § 2362 Abs. 1 bestimmte Recht zu.
-
-### § 2364 Angabe des Testamentsvollstreckers im Erbschein, Herausgabeanspruch des Testamentsvollstreckers
-
-(1) Hat der Erblasser einen Testamentsvollstrecker ernannt, so ist die Ernennung in dem Erbschein anzugeben.
-
-(2) Dem Testamentsvollstrecker steht das in § 2362 Abs. 1 bestimmte Recht zu.
+### § 2364 (weggefallen)
 
 ### § 2365 Vermutung der Richtigkeit des Erbscheins
 
@@ -18195,17 +18283,9 @@ Die Vorschrift des § 2366 findet entsprechende Anwendung, wenn an denjenigen, w
 
 ### § 2368 Testamentsvollstreckerzeugnis
 
-(1) Einem Testamentsvollstrecker hat das Nachlassgericht auf Antrag ein Zeugnis über die Ernennung zu erteilen. Ist der Testamentsvollstrecker in der Verwaltung des Nachlasses beschränkt oder hat der Erblasser angeordnet, dass der Testamentsvollstrecker in der Eingehung von Verbindlichkeiten für den Nachlass nicht beschränkt sein soll, so ist dies in dem Zeugnis anzugeben.
+Einem Testamentsvollstrecker hat das Nachlassgericht auf Antrag ein Zeugnis über die Ernennung zu erteilen. Die Vorschriften über den Erbschein finden auf das Zeugnis entsprechende Anwendung; mit der Beendigung des Amts des Testamentsvollstreckers wird das Zeugnis kraftlos.
 
-(2) (weggefallen)
-
-(3) Die Vorschriften über den Erbschein finden auf das Zeugnis entsprechende Anwendung; mit der Beendigung des Amts des Testamentsvollstreckers wird das Zeugnis kraftlos.
-
-### § 2369 Gegenständlich beschränkter Erbschein
-
-(1) Gehören zu einer Erbschaft auch Gegenstände, die sich im Ausland befinden, kann der Antrag auf Erteilung eines Erbscheins auf die im Inland befindlichen Gegenstände beschränkt werden.
-
-(2) Ein Gegenstand, für den von einer deutschen Behörde ein zur Eintragung des Berechtigten bestimmtes Buch oder Register geführt wird, gilt als im Inland befindlich. Ein Anspruch gilt als im Inland befindlich, wenn für die Klage ein deutsches Gericht zuständig ist.
+### § 2369 (weggefallen)
 
 ### § 2370 Öffentlicher Glaube bei Todeserklärung
 
