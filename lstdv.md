@@ -5,10 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 10.10.1989 I 1848;
 
 Stand  
-zuletzt geändert durch Art. 5 G v. 20.2.2013 I 285
-
-Hinweis  
-Änderung durch Art. 27 G v. 25.7.2014 I 1266 (Nr. 36) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+zuletzt geändert durch Art. 27 G v. 25.7.2014 I 1266
 
 ### 
 
@@ -104,10 +101,6 @@ Bezüge, die nach den §§ 40 bis 40b des Einkommensteuergesetzes pauschal beste
 (3) Das Betriebsstättenfinanzamt kann bei Arbeitgebern, die für die Lohnabrechnung ein maschinelles Verfahren anwenden, Ausnahmen von den Vorschriften der Absätze 1 und 2 zulassen, wenn die Möglichkeit zur Nachprüfung in anderer Weise sichergestellt ist. Das Betriebsstättenfinanzamt soll zulassen, daß Sachbezüge im Sinne des § 8 Absatz 2 Satz 11 und Absatz 3 des Einkommensteuergesetzes für solche Arbeitnehmer nicht aufzuzeichnen sind, für die durch betriebliche Regelungen und entsprechende Überwachungsmaßnahmen gewährleistet ist, daß die in § 8 Absatz 2 Satz 11 oder Absatz 3 des Einkommensteuergesetzes genannten Beträge nicht überschritten werden.
 
 (4) In den Fällen des § 38 Abs. 3a des Einkommensteuergesetzes ist ein Lohnkonto vom Dritten zu führen. In den Fällen des § 38 Abs. 3a Satz 2 ist der Arbeitgeber anzugeben und auch der Arbeitslohn einzutragen, der nicht vom Dritten, sondern vom Arbeitgeber selbst gezahlt wird. In den Fällen des § 38 Abs. 3a Satz 7 ist der Arbeitslohn für jedes Dienstverhältnis gesondert aufzuzeichnen.
-
-### § 5
-
-(aufgehoben)
 
 ### § 5 Besondere Aufzeichnungs- und Mitteilungspflichten im Rahmen der betrieblichen Altersversorgung
 
