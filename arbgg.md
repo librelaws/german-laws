@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 2.7.1979 I 853, 1036;
 
 Stand  
-zuletzt geändert durch Art. 4 G v. 21.7.2012 I 1577
+Zuletzt geändert durch Art. 3 Abs. 1 G v. 20.4.2013 I 868
 
 ### 
 
