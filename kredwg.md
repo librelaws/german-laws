@@ -5,16 +5,14 @@ Neuf
 Neugefasst durch Bek. v. 9.9.1998 I 2776;
 
 Stand  
-zuletzt geändert durch Art. 3 G v. 6.11.2012 I 2286
-
-Hinweis  
-Änderung durch Art. 15 G v. 5.12.2012 I 2418 (Nr. 57) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+zuletzt geändert durch Art. 1 G v. 13.2.2013 I 174
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 1.1.1987 +++)
-(+++ Zur Anwendung d. § 2 Abs. 8a u. § 20c vgl. § 64h Abs. 6 u. 7 +++)
+(+++ Zur Anwendung vgl. § 64h Abs. 6 u. 7 +++)
+(+++ Zur Anwendung vgl. § 64o Abs. 2 u. 3 +++) 
 (+++ Amtliche Hinweise des Normgebers auf EG-Recht:
      Umsetzung der
        EGRL 27/2009 (CELEX Nr: 32009L0027)
@@ -708,55 +706,97 @@ Hinweis
 <td>§ 53d</td>
 </tr>
 <tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sechster Abschnitt</td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td> </td>
+</tr>
+<tr class="even">
 <td>§ 53e</td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 53f</td>
 </tr>
 <tr class="even">
-<td>Sechster Abschnitt</td>
+<td>§ 53g</td>
 </tr>
 <tr class="odd">
+<td>§ 53h</td>
+</tr>
+<tr class="even">
+<td>§ 53i</td>
+</tr>
+<tr class="odd">
+<td>§ 53j</td>
+</tr>
+<tr class="even">
+<td>§ 53k</td>
+</tr>
+<tr class="odd">
+<td>§ 53l</td>
+</tr>
+<tr class="even">
+<td>§ 53m</td>
+</tr>
+<tr class="odd">
+<td>§ 53n</td>
+</tr>
+<tr class="even">
 <td></td>
 </tr>
+<tr class="odd">
+<td>Siebenter Abschnitt</td>
+</tr>
 <tr class="even">
-<td> </td>
+<td></td>
 </tr>
 <tr class="odd">
+<td> </td>
+</tr>
+<tr class="even">
 <td>§ 54</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 55</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 55a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 55b</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 56</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 57</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 58</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 59</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 60</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 60a</td>
+</tr>
+<tr class="even">
+<td>§ 60b</td>
 </tr>
 <tr class="odd">
 <td> </td>
 </tr>
 <tr class="even">
-<td>Siebter Abschnitt</td>
+<td>Achter Abschnitt</td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -821,6 +861,9 @@ Hinweis
 <tr class="odd">
 <td>§ 64n</td>
 </tr>
+<tr class="even">
+<td>§ 64o</td>
+</tr>
 </tbody>
 </table>
 
@@ -875,7 +918,7 @@ die Übernahme von Finanzinstrumenten für eigenes Risiko zur Plazierung oder di
 (weggefallen)
 
 12.  
-die Tätigkeit als zentraler Kontrahent im Sinne von Absatz 31.
+die Tätigkeit als zentrale Gegenpartei im Sinne von Absatz 31.
 
 (1a) Finanzdienstleistungsinstitute sind Unternehmen, die Finanzdienstleistungen für andere gewerbsmäßig oder in einem Umfang erbringen, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, und die keine Kreditinstitute sind. Finanzdienstleistungen sind
 
@@ -1200,7 +1243,7 @@ Bank für Internationalen Zahlungsausgleich.
 
 (30) Einrichtungen des öffentlichen Bereichs im Sinne dieses Gesetzes sind Verwaltungseinrichtungen, die keine Erwerbszwecke verfolgen und ausschließlich Zentralregierungen, Regionalregierungen oder örtlichen Gebietskörperschaften unterstehen und deren Aufgaben wahrnehmen. Zu den Einrichtungen des öffentlichen Bereichs zählen auch nicht wettbewerbswirtschaftlich tätige, rechtlich selbständige Förderinstitute im Geltungsbereich dieses Gesetzes, die auch von einer inländischen Gebietskörperschaft getragen werden und für deren Zahlungsverpflichtungen mindestens eine inländische Gebietskörperschaft die Haftung übernommen hat.
 
-(31) Ein zentraler Kontrahent ist ein Unternehmen, das bei Kaufverträgen innerhalb eines oder mehrerer Finanzmärkte zwischen den Käufer und den Verkäufer geschaltet wird, um als Vertragspartner für jeden der beiden zu dienen, und dessen Forderungen aus Kontrahentenausfallrisiken gegenüber allen Teilnehmern an seinen Systemen auf Tagesbasis hinreichend besichert sind.
+(31) Eine zentrale Gegenpartei ist ein Unternehmen im Sinne des Artikels 2 Nummer 1 der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1) in der jeweils geltenden Fassung. Abweichend von Satz 1 gilt als eine zentrale Gegenpartei bezüglich der Beurteilung von Kontrahentenpositionen im Bereich der §§ 10 bis 22 ein Unternehmen, das bei Kaufverträgen innerhalb eines oder mehrerer Finanzmärkte zwischen den Käufer und den Verkäufer geschaltet wird, um als Vertragspartner für jeden der beiden zu dienen, und dessen Forderungen aus Kontrahentenausfallrisiken gegenüber allen Teilnehmern an seinen Systemen auf Tagesbasis hinreichend besichert sind.
 
 (32) Terrorismusfinanzierung im Sinne dieses Gesetzes ist
 
@@ -1495,6 +1538,10 @@ Für Einrichtungen und Unternehmen im Sinne des Satzes 1 Nr. 3 und 4 gelten die 
 
 (9) Die §§ 13 und 13a gelten nicht für Finanzkommissionäre und Eigenhändler, die für eigene Rechnung ausschließlich zum Zwecke der Erfüllung oder Ausführung eines Kundenauftrags oder des möglichen Zugangs zu einem Abwicklungs- und Verrechnungssystem oder einer anerkannten Börse handeln, sofern sie im eigenen Namen für fremde Rechnung tätig sind oder einen Kundenauftrag ausführen.
 
+(9a) Auf Kreditinstitute, die ausschließlich über eine Erlaubnis verfügen, die Tätigkeit einer zentralen Gegenpartei nach § 1 Absatz 1 Satz 2 Nummer 12 auszuüben, sind die §§ 2c, 10, 10c, 11, 12, 12a bis 18b, 20a bis 20c, 24 Absatz 1 Nummer 6, 10, 14, 16, Absatz 1a Nummer 4 und 5, §§ 24a, 24c, 25a, 26a, 32, 33, 34, 36 Absatz 3 Satz 1 und 2, §§ 45 und 45b dieses Gesetzes nicht anzuwenden. § 24 Absatz 1 Nummer 9 gilt mit der Maßgabe, dass das Absinken des Anfangskapitals unter die Mindestanforderungen nach Artikel 16 der Verordnung (EU) Nr. 648/2012 anzuzeigen ist.
+
+(9b) Sofern ein Kreditinstitut sowohl Tätigkeiten im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 ausübt als auch weitere nach diesem Gesetz erlaubnispflichtige Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt, ist auf die Tätigkeit im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 der Absatz 9a anzuwenden; diese Kreditinstitute haben dafür Sorge zu tragen, dass sowohl die Anforderungen nach diesem Gesetz als auch die Anforderungen der Verordnung (EU) Nr. 648/2012 eingehalten werden. Bezüglich der Anforderungen an das Anfangskapital nach § 33 Absatz 1 sowie nach Artikel 16 Absatz 1 der Verordnung (EU) Nr. 648/2012 haben die betroffenen Kreditinstitute die im jeweiligen Einzelfall höheren Anforderungen zu erfüllen. Anzeige- und Informationspflichten, die sowohl nach § 2c Absatz 1 als auch nach Artikel 31 Absatz 2 der Verordnung (EU) Nr. 648/2012 bestehen, können in einer gemeinsamen Anzeige oder Mitteilung zusammengefasst werden.
+
 (10) Ein Unternehmen, das keine Bankgeschäfte im Sinne des § 1 Abs. 1 Satz 2 betreibt und als Finanzdienstleistungen nur die Anlage- oder Abschlussvermittlung, das Platzierungsgeschäft oder die Anlageberatung ausschließlich für Rechnung und unter der Haftung eines Einlagenkreditinstituts oder eines Wertpapierhandelsunternehmens, das seinen Sitz im Inland hat oder nach § 53b Abs. 1 Satz 1 oder Abs. 7 im Inland tätig ist, erbringt (vertraglich gebundener Vermittler), gilt nicht als Finanzdienstleistungsinstitut, sondern als Finanzunternehmen, wenn das Einlagenkreditinstitut oder Wertpapierhandelsunternehmen als das haftende Unternehmen dies der Bundesanstalt anzeigt. Die Tätigkeit des vertraglich gebundenen Vermittlers wird dem haftenden Unternehmen zugerechnet. Ändern sich die von dem haftenden Unternehmen angezeigten Verhältnisse, sind die neuen Verhältnisse unverzüglich der Bundesanstalt anzuzeigen. Für den Inhalt der Anzeigen nach den Sätzen 1 und 3 und die beizufügenden Unterlagen und Nachweise können durch Rechtsverordnung nach § 24 Abs. 4 nähere Bestimmungen getroffen werden. Die Bundesanstalt übermittelt die Anzeigen nach den Sätzen 1 und 3 der Deutschen Bundesbank. Die Bundesanstalt führt über die ihr angezeigten vertraglich gebundenen Vermittler nach diesem Absatz ein öffentliches Register im Internet, das das haftende Unternehmen, die vertraglich gebundenen Vermittler, das Datum des Beginns und des Endes der Tätigkeit nach Satz 1 ausweist. Für die Voraussetzungen zur Aufnahme in das Register, den Inhalt und die Führung des Registers können durch Rechtsverordnung nach § 24 Abs. 4 nähere Bestimmungen getroffen werden, insbesondere kann dem haftenden Unternehmen ein schreibender Zugriff auf die für dieses Unternehmen einzurichtende Seite des Registers eingeräumt und ihm die Verantwortlichkeit für die Richtigkeit und Aktualität dieser Seite übertragen werden. Die Bundesanstalt kann einem haftenden Unternehmen, das die Auswahl oder Überwachung seiner vertraglich gebundenen Vermittler nicht ordnungsgemäß durchgeführt hat oder die ihm im Zusammenhang mit der Führung des Registers übertragenen Pflichten verletzt hat, untersagen, vertraglich gebundene Vermittler im Sinne der Sätze 1 und 2 in das Unternehmen einzubinden.
 
 (11) Ein Institut braucht die Vorschriften dieses Gesetzes über das Handelsbuch nicht anzuwenden, sofern
@@ -1647,6 +1694,8 @@ Die Bundesanstalt entscheidet in Zweifelsfällen, ob ein Unternehmen den Vorschr
 ### § 6 Aufgaben
 
 (1) Die Bundesanstalt übt die Aufsicht über die Institute nach den Vorschriften dieses Gesetzes aus.
+
+(1a) Die Bundesanstalt übt die Aufsicht über zentrale Gegenparteien zusätzlich auch nach der Verordnung (EU) Nr. 648/2012 sowie den auf ihrer Grundlage erlassenen Rechtsakten aus.
 
 (2) Die Bundesanstalt hat Mißständen im Kredit- und Finanzdienstleistungswesen entgegenzuwirken, welche die Sicherheit der den Instituten anvertrauten Vermögenswerte gefährden, die ordnungsmäßige Durchführung der Bankgeschäfte oder Finanzdienstleistungen beeinträchtigen oder erhebliche Nachteile für die Gesamtwirtschaft herbeiführen können.
 
@@ -2138,7 +2187,7 @@ um den Aufbau eines zusätzlichen Eigenmittelpuffers für Perioden wirtschaftlic
 4.  
 um einer besonderen Geschäftssituation des Instituts, der Institutsgruppe oder der Finanzholding-Gruppe, etwa bei Aufnahme der Geschäftstätigkeit, Rechnung zu tragen.
 
-Die Bundesanstalt kann von einzelnen Instituten, Institutsgruppen und Finanzholding-Gruppen oder Arten oder Gruppen von Instituten, Institutsgruppen und Finanzholding-Gruppen bis zum 31. Dezember 2012 das Vorhalten von über die Anforderungen der Rechtsverordnung nach Absatz 1 Satz 9 hinausgehenden Eigenmitteln während eines begrenzten Zeitraums auch verlangen, wenn diese Kapitalstärkung erforderlich ist, um einer drohenden Störung der Funktionsfähigkeit des Finanzmarktes oder einer Gefahr für die Finanzmarktstabilität entgegenzuwirken und um erhebliche negative Auswirkungen auf andere Unternehmen des Finanzsektors sowie auf das allgemeine Vertrauen der Einleger und anderer Marktteilnehmer in ein funktionsfähiges Finanzsystem zu vermeiden. Eine drohende Störung der Funktionsfähigkeit des Finanzmarktes kann insbesondere dann gegeben sein, wenn aufgrund außergewöhnlicher Marktverhältnisse die Refinanzierungsfähigkeit mehrerer für den Finanzmarkt relevanter Institute beeinträchtigt zu werden droht. In diesem Fall kann die Bundesanstalt die Beurteilung der Angemessenheit der Eigenmittel nach von der Rechtsverordnung nach Absatz 1 Satz 9 abweichenden Maßstäben vornehmen, die diesen besonderen Marktverhältnissen Rechnung tragen. Diese höheren Anforderungen können insbesondere im Rahmen eines abgestimmten Vorgehens auf Ebene der Europäischen Union zur Stärkung des Vertrauens in die Widerstandsfähigkeit des europäischen Bankensektors und zur Abwehr einer drohenden Gefahr für die Finanzmarktstabilität in Europa verlangt werden. Bei der Festlegung von Höhe und maßgeblicher Zusammensetzung der zusätzlichen Eigenmittel und des maßgeblichen Zeitpunktes für die Einhaltung der Anforderungen berücksichtigt die Bundesanstalt die Standards, auf deren Anwendung sich die zuständigen europäischen Stellen im Rahmen eines abgestimmten Vorgehens auf Unionsebene verständigt haben. In diesem Rahmen kann die Bundesanstalt verlangen, dass die Institute in einem Plan nachvollziehbar darlegen, durch welche Maßnahmen sie die erhöhten Kapitalanforderungen zu dem von der Bundesanstalt nach Satz 6 festgelegten Zeitpunkt einhalten werden. Soweit der Plan die Belange des Finanzmarktstabilisierungsfonds im Sinne des § 1 des Finanzmarktstabilisierungsfondsgesetzes berührt, erfolgt die Beurteilung des Plans im Einvernehmen mit dem Lenkungsausschuss im Sinne des § 4 Absatz 1 Satz 2 des Finanzmarktstabilisierungsfondsgesetzes (Lenkungsausschuss). Die Bundesanstalt kann die kurzfristige Nachbesserung des vorgelegten Plans verlangen, wenn sie die angegebenen Maßnahmen und Umsetzungsfristen für nicht ausreichend hält oder das Institut sie nicht einhält. In diesem Fall haben die Institute auch die Möglichkeit eines Antrags auf Stabilisierungsmaßnahmen nach dem Finanzmarktstabilisierungsfondsgesetz zu prüfen, wenn keine alternativen Maßnahmen zur Verfügung stehen. Sofern nach Feststellung der Bundesanstalt im Einvernehmen mit dem Lenkungsausschuss keine oder nur eine unzureichende Nachbesserung des Plans erfolgt ist, kann die Bundesanstalt einen Sonderbeauftragten im Sinne des § 45c Absatz 1 bestellen und ihn mit der Aufgabe nach § 45c Absatz 2 Nummer 7a beauftragen. Zudem kann sie anordnen, dass Entnahmen durch die Inhaber oder Gesellschafter, die Ausschüttung von Gewinnen und die Auszahlung variabler Vergütungsbestandteile nicht zulässig sind, solange die angeordnete Eigenmittelausstattung nicht erreicht ist. Entgegenstehende Beschlüsse über die Gewinnausschüttung sind nichtig; aus entgegenstehenden Regelungen in Verträgen können keine Rechte hergeleitet werden.
+Die Bundesanstalt kann von einzelnen Instituten, Institutsgruppen und Finanzholding-Gruppen oder Arten oder Gruppen von Instituten, Institutsgruppen und Finanzholding-Gruppen das Vorhalten von über die Anforderungen der Rechtsverordnung nach Absatz 1 Satz 9 hinausgehenden Eigenmitteln während eines begrenzten Zeitraums auch verlangen, wenn diese Kapitalstärkung erforderlich ist, um einer drohenden Störung der Funktionsfähigkeit des Finanzmarktes oder einer Gefahr für die Finanzmarktstabilität entgegenzuwirken und um erhebliche negative Auswirkungen auf andere Unternehmen des Finanzsektors sowie auf das allgemeine Vertrauen der Einleger und anderer Marktteilnehmer in ein funktionsfähiges Finanzsystem zu vermeiden. Eine drohende Störung der Funktionsfähigkeit des Finanzmarktes kann insbesondere dann gegeben sein, wenn aufgrund außergewöhnlicher Marktverhältnisse die Refinanzierungsfähigkeit mehrerer für den Finanzmarkt relevanter Institute beeinträchtigt zu werden droht. In diesem Fall kann die Bundesanstalt die Beurteilung der Angemessenheit der Eigenmittel nach von der Rechtsverordnung nach Absatz 1 Satz 9 abweichenden Maßstäben vornehmen, die diesen besonderen Marktverhältnissen Rechnung tragen. Diese höheren Anforderungen können insbesondere im Rahmen eines abgestimmten Vorgehens auf Ebene der Europäischen Union zur Stärkung des Vertrauens in die Widerstandsfähigkeit des europäischen Bankensektors und zur Abwehr einer drohenden Gefahr für die Finanzmarktstabilität in Europa verlangt werden. Bei der Festlegung von Höhe und maßgeblicher Zusammensetzung der zusätzlichen Eigenmittel und des maßgeblichen Zeitpunktes für die Einhaltung der Anforderungen berücksichtigt die Bundesanstalt die Standards, auf deren Anwendung sich die zuständigen europäischen Stellen im Rahmen eines abgestimmten Vorgehens auf Unionsebene verständigt haben. In diesem Rahmen kann die Bundesanstalt verlangen, dass die Institute in einem Plan nachvollziehbar darlegen, durch welche Maßnahmen sie die erhöhten Kapitalanforderungen zu dem von der Bundesanstalt nach Satz 6 festgelegten Zeitpunkt einhalten werden. Soweit der Plan die Belange des Finanzmarktstabilisierungsfonds im Sinne des § 1 des Finanzmarktstabilisierungsfondsgesetzes berührt, erfolgt die Beurteilung des Plans im Einvernehmen mit dem Lenkungsausschuss im Sinne des § 4 Absatz 1 Satz 2 des Finanzmarktstabilisierungsfondsgesetzes (Lenkungsausschuss). Die Bundesanstalt kann die kurzfristige Nachbesserung des vorgelegten Plans verlangen, wenn sie die angegebenen Maßnahmen und Umsetzungsfristen für nicht ausreichend hält oder das Institut sie nicht einhält. In diesem Fall haben die Institute auch die Möglichkeit eines Antrags auf Stabilisierungsmaßnahmen nach dem Finanzmarktstabilisierungsfondsgesetz zu prüfen, wenn keine alternativen Maßnahmen zur Verfügung stehen. Sofern nach Feststellung der Bundesanstalt im Einvernehmen mit dem Lenkungsausschuss keine oder nur eine unzureichende Nachbesserung des Plans erfolgt ist, kann die Bundesanstalt einen Sonderbeauftragten im Sinne des § 45c Absatz 1 bestellen und ihn mit der Aufgabe nach § 45c Absatz 2 Nummer 7a beauftragen. Zudem kann sie anordnen, dass Entnahmen durch die Inhaber oder Gesellschafter, die Ausschüttung von Gewinnen und die Auszahlung variabler Vergütungsbestandteile nicht zulässig sind, solange die angeordnete Eigenmittelausstattung nicht erreicht ist. Entgegenstehende Beschlüsse über die Gewinnausschüttung sind nichtig; aus entgegenstehenden Regelungen in Verträgen können keine Rechte hergeleitet werden.
 
 (1c) Auf Antrag des Instituts kann die Bundesanstalt bei der Beurteilung der Angemessenheit der Eigenmittel einer abweichenden Berechnung der Eigenmittelanforderungen zustimmen, um eine im Einzelfall unangemessene Risikoabbildung zu vermeiden. Die Zustimmung muss nach dem Recht der Europäischen Gemeinschaft zulässig sein.
 
@@ -2800,7 +2849,7 @@ Verstöße gegen die in der Rechtsverordnung nach Absatz 2 Satz 1 bestimmten Bes
 
 ### § 14 Millionenkredite
 
-(1) Ein Kreditinstitut, ein Finanzdienstleistungsinstitut im Sinne des § 1 Abs. 1a Satz 2 Nr. 4, 9 oder 10, ein Finanzunternehmen im Sinne des § 1 Abs. 3 Satz 1 Nr. 2 und die in § 2 Abs. 2 genannten Unternehmen und Stellen (am Millionenkreditmeldeverfahren beteiligte Unternehmen) haben der bei der Deutschen Bundesbank geführten Evidenzzentrale vierteljährlich die Kreditnehmer anzuzeigen, deren Kreditvolumen nach § 19 Abs. 1 (Verschuldung) 1 500 000 Euro oder mehr beträgt (Millionenkredite); Anzeigeinhalte und Anzeigefristen sind durch die Rechtsverordnung nach § 22 zu regeln. Übergeordnete Unternehmen im Sinne des § 13b Abs. 2 haben zugleich für die gruppenangehörigen Unternehmen im Sinne des § 13b Abs. 2 deren Kreditnehmer im Sinne des entsprechend anzuwendenden Satzes 1 anzuzeigen. Dies gilt nicht, soweit diese Unternehmen selbst nach Satz 1 anzeigepflichtig sind oder nach § 2 Abs. 4, 7 oder 8 von der Anzeigepflicht befreit oder ausgenommen sind oder der Buchwert der Beteiligung an dem gruppenangehörigen Unternehmen nach § 10a Abs. 13 Satz 3 von den Eigenmitteln des übergeordneten Unternehmens abgezogen wird. Die nicht selbst nach Satz 1 anzeigepflichtigen gruppenangehörigen Unternehmen haben dem übergeordneten Unternehmen die hierfür erforderlichen Angaben zu übermitteln. Die Bundesanstalt kann Kreditinstitute, die ausschließlich Bankgeschäfte nach § 1 Abs. 1 Satz 2 Nr. 12 mit Unternehmen der Finanzbranche betreiben, auf Antrag von der Verpflichtung nach Satz 1 befreien. Satz 1 gilt bei Gemeinschaftskrediten von 1,5 Millionen Euro und mehr auch dann, wenn der Anteil des einzelnen Unternehmens 1,5 Millionen Euro nicht erreicht. § 13 Abs. 1 Satz 3 gilt entsprechend.
+(1) Ein Kreditinstitut, ein Finanzdienstleistungsinstitut im Sinne des § 1 Abs. 1a Satz 2 Nr. 4, 9 oder 10, ein Finanzunternehmen im Sinne des § 1 Abs. 3 Satz 1 Nr. 2 und die in § 2 Abs. 2 genannten Unternehmen und Stellen (am Millionenkreditmeldeverfahren beteiligte Unternehmen) haben der bei der Deutschen Bundesbank geführten Evidenzzentrale vierteljährlich die Kreditnehmer anzuzeigen, deren Kreditvolumen nach § 19 Abs. 1 (Verschuldung) 1 500 000 Euro oder mehr beträgt (Millionenkredite); Anzeigeinhalte und Anzeigefristen sind durch die Rechtsverordnung nach § 22 zu regeln. Übergeordnete Unternehmen im Sinne des § 13b Abs. 2 haben zugleich für die gruppenangehörigen Unternehmen im Sinne des § 13b Abs. 2 deren Kreditnehmer im Sinne des entsprechend anzuwendenden Satzes 1 anzuzeigen. Dies gilt nicht, soweit diese Unternehmen selbst nach Satz 1 anzeigepflichtig sind oder nach § 2 Absatz 4, 7, 8 oder 9a von der Anzeigepflicht befreit oder ausgenommen sind oder der Buchwert der Beteiligung an dem gruppenangehörigen Unternehmen nach § 10a Abs. 13 Satz 3 von den Eigenmitteln des übergeordneten Unternehmens abgezogen wird. Die nicht selbst nach Satz 1 anzeigepflichtigen gruppenangehörigen Unternehmen haben dem übergeordneten Unternehmen die hierfür erforderlichen Angaben zu übermitteln. Die Bundesanstalt kann Kreditinstitute, die ausschließlich Bankgeschäfte nach § 1 Abs. 1 Satz 2 Nr. 12 mit Unternehmen der Finanzbranche betreiben, auf Antrag von der Verpflichtung nach Satz 1 befreien. Satz 1 gilt bei Gemeinschaftskrediten von 1,5 Millionen Euro und mehr auch dann, wenn der Anteil des einzelnen Unternehmens 1,5 Millionen Euro nicht erreicht. § 13 Abs. 1 Satz 3 gilt entsprechend.
 
 (2) Ergibt sich, dass einem Kreditnehmer von mehreren Unternehmen Millionenkredite gewährt worden sind, hat die Deutsche Bundesbank die anzeigenden Unternehmen zu benachrichtigen. Die Benachrichtigung umfasst Angaben über die Gesamtverschuldung des Kreditnehmers und über die Gesamtverschuldung der Kreditnehmereinheit, der dieser zugehört, über die Anzahl der beteiligten Unternehmen sowie Informationen über die prognostizierte Ausfallwahrscheinlichkeit im Sinne der Rechtsverordnung nach § 10 Abs. 1 Satz 9 für diesen Kreditnehmer, soweit ein Unternehmen selbst eine solche gemeldet hat. Die Benachrichtigung ist nach Maßgabe der Rechtsverordnung nach § 22 aufzugliedern. Die Deutsche Bundesbank teilt einem anzeigepflichtigen Unternehmen auf Antrag den Schuldenstand eines Kreditnehmers oder voraussichtlichen Kreditnehmers oder, sofern der Kreditnehmer oder der voraussichtliche Kreditnehmer einer Kreditnehmereinheit angehört, den Schuldenstand der Kreditnehmereinheit mit. Sofern es sich um einen voraussichtlichen Kreditnehmer handelt, hat das Unternehmen auf Verlangen der Deutschen Bundesbank die Höhe der beabsichtigten Kreditgewährung mitzuteilen und nachzuweisen, dass der voraussichtliche Kreditnehmer in die Mitteilung eingewilligt hat. Die am Millionenkreditmeldeverfahren beteiligten Unternehmen und die Deutsche Bundesbank dürfen die Meldung nach Absatz 1, die Benachrichtigung nach Satz 1 sowie die Mitteilung nach Satz 4 auch im Wege der elektronischen Datenübertragung durchführen. Einzelheiten des Verfahrens regelt die Rechtsverordnung nach § 22. Soweit es für die Zwecke der Zuordnung der Meldung nach Absatz 1 zu einem bestimmten Kreditnehmer unerlässlich ist, darf die Deutsche Bundesbank personenbezogene Daten mehrerer Kreditnehmer an das anzeigepflichtige Unternehmen übermitteln. Diese Daten dürfen keine Angaben über finanzielle Verhältnisse der Kreditnehmer enthalten. Die bei einem anzeigepflichtigen Unternehmen beschäftigten Personen dürfen Angaben, die dem Unternehmen nach diesem Absatz mitgeteilt werden, Dritten nicht offenbaren und nicht verwerten. Die Deutsche Bundesbank protokolliert zum Zwecke der Datenschutzkontrolle durch die jeweils zuständige Stelle bei jeder Datenübertragung den Zeitpunkt, die übertragenen Daten und die beteiligten Stellen. Eine Verwendung der Protokolldaten für andere Zwecke ist unzulässig. Die Protokolldaten sind mindestens 18 Monate aufzubewahren und spätestens nach 24 Monaten zu löschen.
 
@@ -3029,7 +3078,10 @@ Forderungen an Kreditinstitute und Kunden, einschließlich der Warenforderungen 
 Schuldverschreibungen und andere festverzinsliche Wertpapiere, soweit sie kein Recht verbriefen, das unter die in Satz 1 genannten Derivate fällt,
 
 6.  
-Aktien und andere nicht festverzinsliche Wertpapiere, soweit sie kein Recht verbriefen, das unter die in Satz 1 genannten Derivate fällt, 7.Beteiligungen,
+Aktien und andere nicht festverzinsliche Wertpapiere, soweit sie kein Recht verbriefen, das unter die in Satz 1 genannten Derivate fällt,
+
+7.  
+Beteiligungen,
 
 8.  
 Anteile an verbundenen Unternehmen,
@@ -3313,7 +3365,7 @@ ee)
 einem anerkannten Wertpapierhandelsunternehmen aus Drittstaaten im Sinne von § 1 Abs. 29,
 
 ff)  
-einem zentralen Kontrahenten im Sinne von § 1 Abs. 31 oder
+einer zentralen Gegenpartei im Sinne von § 1 Abs. 31 oder
 
 gg)  
 einer Wertpapier- oder Terminbörse im Sinne von § 1 Abs. 3e
@@ -4215,7 +4267,7 @@ In diesen Fällen legt das Institut den Grund für die Nichtoffenlegung solcher 
 
 (1) Die Institute haben der Bundesanstalt und der Deutschen Bundesbank den von ihnen bestellten Prüfer unverzüglich nach der Bestellung anzuzeigen. Die Bundesanstalt kann innerhalb eines Monats nach Zugang der Anzeige die Bestellung eines anderen Prüfers verlangen, wenn dies zur Erreichung des Prüfungszwecks geboten ist. Hat das Institut eine Wirtschaftsprüfungsgesellschaft zum Prüfer bestellt, die in einem der beiden vorangegangenen Geschäftsjahre Prüfer des Instituts war, kann die Bundesanstalt den Wechsel des verantwortlichen Prüfungspartners verlangen, wenn die vorangegangene Prüfung einschließlich des Prüfungsberichts den Prüfungszweck nicht erfüllt hat; § 319a Absatz 1 Satz 5 des Handelsgesetzbuchs gilt entsprechend. Widerspruch und Anfechtungsklage gegen Maßnahmen nach Satz 2 oder Satz 3 haben keine aufschiebende Wirkung.
 
-(2) Das Registergericht des Sitzes des Instituts hat auf Antrag der Bundesanstalt einen Prüfer zu bestellen, wenn
+(2) Das Gericht des Sitzes des Instituts hat auf Antrag der Bundesanstalt einen Prüfer zu bestellen, wenn
 
 1.  
 die Anzeige nach Absatz 1 Satz 1 nicht unverzüglich nach Ablauf des Geschäftsjahres erstattet wird;
@@ -4226,13 +4278,15 @@ das Institut dem Verlangen auf Bestellung eines anderen Prüfers nach Absatz 1 S
 3.  
 der gewählte Prüfer die Annahme des Prüfungsauftrages abgelehnt hat, weggefallen ist oder am rechtzeitigen Abschluß der Prüfung verhindert ist und das Institut nicht unverzüglich einen anderen Prüfer bestellt hat.
 
-Die Bestellung durch das Gericht ist endgültig. § 318 Abs. 5 des Handelsgesetzbuchs ist entsprechend anzuwenden. Das Registergericht kann auf Antrag der Bundesanstalt einen nach Satz 1 bestellten Prüfer abberufen.
+Die Bestellung durch das Gericht ist endgültig. § 318 Abs. 5 des Handelsgesetzbuchs ist entsprechend anzuwenden. Das Gericht kann auf Antrag der Bundesanstalt einen nach Satz 1 bestellten Prüfer abberufen.
 
 (3) Die Absätze 1 und 2 gelten nicht für Kreditinstitute, die einem genossenschaftlichen Prüfungsverband angehören oder durch die Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden.
 
 ### § 29 Besondere Pflichten des Prüfers
 
-(1) Bei der Prüfung des Jahresabschlusses sowie eines Zwischenabschlusses hat der Prüfer auch die wirtschaftlichen Verhältnisse des Instituts zu prüfen. Bei der Prüfung des Jahresabschlusses hat er insbesondere festzustellen, ob das Institut die Anzeigepflichten nach den §§ 10, 10b, 11, 12a, 13 bis 13d und 14 Abs. 1, nach den §§ 15, 24 und 24a jeweils auch in Verbindung mit einer Rechtsverordnung nach § 24 Abs. 4 Satz 1, nach § 24a auch in Verbindung mit einer Rechtsverordnung nach § 24a Abs. 5, sowie die Anforderungen nach § 1a Abs. 4 bis 8 jeweils auch in Verbindung mit einer Rechtsverordnung nach § 1a Abs. 9, nach den §§ 10 bis 10b, 11, 12, 13 bis 13d, 18, 25a Absatz 1 Satz 3 in Verbindung mit einer Rechtsverordnung nach § 25a Absatz 5, nach § 25a Absatz 1 Satz 6 Nummer 1, Absatz 1a bis 2 und § 26a sowie nach den §§ 13 bis 13c und 14 Abs. 1 jeweils auch in Verbindung mit einer Rechtsverordnung nach § 22 erfüllt hat. Macht ein Institut von der Ausnahme nach § 2a Gebrauch, hat der Prüfer das Vorliegen der dort genannten Voraussetzungen zu prüfen. Hat die Bundesanstalt nach § 30 gegenüber dem Institut Bestimmungen über den Inhalt der Prüfung getroffen, sind diese vom Prüfer zu berücksichtigen. Sofern dem haftenden Eigenkapital des Instituts nicht realisierte Reserven zugerechnet werden, hat der Prüfer bei der Prüfung des Jahresabschlusses auch zu prüfen, ob bei der Ermittlung dieser Reserven § 10 Abs. 4a bis 4c beachtet worden ist. Das Ergebnis ist in den Prüfungsbericht aufzunehmen.
+(1) Bei der Prüfung des Jahresabschlusses sowie eines Zwischenabschlusses hat der Prüfer auch die wirtschaftlichen Verhältnisse des Instituts zu prüfen. Bei der Prüfung des Jahresabschlusses hat er insbesondere festzustellen, ob das Institut die Anzeigepflichten nach den §§ 10, 10b, 11, 12a, 13 bis 13d und 14 Abs. 1, nach den §§ 15, 24 und 24a jeweils auch in Verbindung mit einer Rechtsverordnung nach § 24 Abs. 4 Satz 1, nach § 24a auch in Verbindung mit einer Rechtsverordnung nach § 24a Abs. 5, sowie die Anforderungen nach § 1a Abs. 4 bis 8 jeweils auch in Verbindung mit einer Rechtsverordnung nach § 1a Abs. 9, nach den §§ 10 bis 10b, 11, 12, 13 bis 13d, 18, 25a Absatz 1 Satz 3 in Verbindung mit einer Rechtsverordnung nach § 25a Absatz 5, nach § 25a Absatz 1 Satz 6 Nummer 1, Absatz 1a bis 2 und § 26a, nach den §§ 13 bis 13c und 14 Abs. 1 jeweils auch in Verbindung mit einer Rechtsverordnung nach § 22 sowie die Anforderungen nach Artikel 4 Absatz 1, 2 und 3 Unterabsatz 2, Artikel 9 Absatz 1 bis 4 sowie Artikel 11 Absatz 1 bis 10, 11 Unterabsatz 1 und Absatz 12 der Verordnung (EU) Nr. 648/2012 erfüllt hat. Macht ein Institut von der Ausnahme nach § 2a Gebrauch, hat der Prüfer das Vorliegen der dort genannten Voraussetzungen zu prüfen. Hat die Bundesanstalt nach § 30 gegenüber dem Institut Bestimmungen über den Inhalt der Prüfung getroffen, sind diese vom Prüfer zu berücksichtigen. Sofern dem haftenden Eigenkapital des Instituts nicht realisierte Reserven zugerechnet werden, hat der Prüfer bei der Prüfung des Jahresabschlusses auch zu prüfen, ob bei der Ermittlung dieser Reserven § 10 Abs. 4a bis 4c beachtet worden ist. Das Ergebnis ist in den Prüfungsbericht aufzunehmen.
+
+(1a) Absatz 1 gilt hinsichtlich der Anforderungen nach Artikel 4 Absatz 1, 2 und 3 Unterabsatz 2, Artikel 9 Absatz 1 bis 4 sowie Artikel 11 Absatz 1 bis 10, 11 Unterabsatz 1 und Absatz 12 der Verordnung (EU) Nr. 648/2012 für die Prüfung des Jahresabschlusses von zentralen Gegenparteien mit der Maßgabe, dass der Prüfer zusätzlich zu prüfen hat, ob die Anforderungen nach Artikel 7 Absatz 1 bis 4, Artikel 8 Absatz 1 bis 4 und den Artikeln 26, 29, 33 bis 54 der Verordnung (EU) Nr. 648/2012 sowie der gemäß diesen Artikeln erlassenen technischen Regulierungsstandards eingehalten sind. Satz 1 gilt entsprechend für den verkürzten Abschluss einer zentralen Gegenpartei, wenn ein solcher nach den gesetzlichen Vorgaben zu erstellen ist.
 
 (2) Der Prüfer hat auch zu prüfen, ob das Institut seinen Verpflichtungen nach den §§ 24c und 25c bis 25h, dem Geldwäschegesetz und der Verordnung (EG) Nr. 1781/2006 nachgekommen ist. Zudem hat er die Einhaltung der Mitteilungs- und Veröffentlichungspflichten und sonstigen Anforderungen der Artikel 5 bis 10 und 12 bis 14 der Verordnung (EU) Nr. 236/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 über Leerverkäufe und bestimmte Aspekte von Credit Default Swaps (ABl. L 86 vom 24.3.2012, S. 1) zu prüfen. Bei Instituten, die das Depotgeschäft betreiben, hat er dieses Geschäft besonders zu prüfen, soweit es nicht nach § 36 Abs. 1 Satz 2 des Wertpapierhandelsgesetzes zu prüfen ist; diese Prüfung hat sich auch auf die Einhaltung des § 128 des Aktiengesetzes über Mitteilungspflichten und des § 135 des Aktiengesetzes über die Ausübung des Stimmrechts zu erstrecken. Über die Prüfungen nach den Sätzen 1 bis 3 ist jeweils gesondert zu berichten; § 26 Abs. 1 Satz 3 gilt entsprechend.
 
@@ -4250,6 +4304,9 @@ den Zeitpunkt ihrer Durchführung und
 den Inhalt der Prüfungsberichte
 
 zu erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um Missstände, welche die Sicherheit der einem Institut anvertrauten Vermögenswerte gefährden oder die ordnungsgemäße Durchführung der Bankgeschäfte oder Finanzdienstleistungen beeinträchtigen können, zu erkennen sowie einheitliche Unterlagen zur Beurteilung der von den Instituten durchgeführten Geschäfte zu erhalten. In der Rechtsverordnung kann bestimmt werden, dass die in den Absätzen 1 bis 3 geregelten Pflichten auch bei der Prüfung des Konzernabschlusses einer Instituts- oder Finanzholding-Gruppe oder eines Finanzkonglomerats einzuhalten sind; nähere Bestimmungen über den Gegenstand der Prüfung, den Zeitpunkt ihrer Durchführung und den Inhalt des Prüfungsberichts können dabei nach Maßgabe des Satzes 1 erlassen werden. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+
+(+++ § 29 Abs. 1 Satz 2: Zur Anwendung vgl. § 64o Abs. 2 +++)
+(+++ § 29 Abs. 1a: Zur Anwendung vgl. § 64o Abs. 3 +++)
 
 ### § 30 Bestimmung von Prüfungsinhalten
 
@@ -4399,7 +4456,7 @@ c)
 bei Finanzdienstleistungsinstituten, die auf eigene Rechnung mit Finanzinstrumenten handeln, sowie bei Wertpapierhandelsbanken ein Betrag im Gegenwert von mindestens 730 000 Euro,
 
 d)  
-bei Einlagenkreditinstituten und zentralen Kontrahenten im Sinne von § 1 Abs. 31 ein Betrag im Gegenwert von mindestens fünf Millionen Euro,
+bei Einlagenkreditinstituten ein Betrag im Gegenwert von mindestens fünf Millionen Euro,
 
 e)  
 (weggefallen)
@@ -4479,7 +4536,7 @@ hat die Bundesanstalt vor Erteilung der Erlaubnis die zuständigen Stellen des H
 
 ### § 35 Erlöschen und Aufhebung der Erlaubnis
 
-(1) Die Erlaubnis erlischt, wenn von ihr nicht innerhalb eines Jahres seit ihrer Erteilung Gebrauch gemacht wird. Die Erlaubnis erlischt auch, wenn das Institut nach § 11 des Einlagensicherungs- und Anlegerentschädigungsgesetzes von der Entschädigungseinrichtung ausgeschlossen worden ist.
+(1) Die Erlaubnis erlischt, wenn von ihr nicht innerhalb eines Jahres seit ihrer Erteilung Gebrauch gemacht wird. Die Erlaubnis erlischt auch, wenn das Institut nach § 11 des Einlagensicherungs- und Anlegerentschädigungsgesetzes von der Entschädigungseinrichtung ausgeschlossen worden ist. Die Erlaubnis für das Betreiben von Bankgeschäften im Sinne des § 1 Satz 2 Nummer 12 erlischt auch dann, wenn die Zulassung der zentralen Gegenpartei nach Artikel 14 der Verordnung (EU) Nr. 648/2012 zur Erbringung von Clearingdienstleistungen durch die Bundesanstalt abgelehnt wurde und die Ablehnung bestandskräftig ist.
 
 (2) Die Bundesanstalt kann die Erlaubnis außer nach den Vorschriften des Verwaltungsverfahrensgesetzes aufheben, wenn
 
@@ -4517,15 +4574,15 @@ das Institut nachhaltig gegen Bestimmungen dieses Gesetzes, des Geldwäschegeset
 
 (1) In den Fällen des § 35 Abs. 2 Nr. 3, 4 und 6 kann die Bundesanstalt, statt die Erlaubnis aufzuheben, die Abberufung der verantwortlichen Geschäftsleiter verlangen und diesen Geschäftsleitern auch die Ausübung ihrer Tätigkeit bei Instituten in der Rechtsform einer juristischen Person untersagen. Für die Zwecke des Satzes 1 ist § 35 Abs. 2 Nr. 4 mit der Maßgabe anzuwenden, dass bei der Berechnung der Höhe des Verlustes Bilanzierungshilfen, mittels derer ein Verlustausweis vermindert oder vermieden wird, nicht berücksichtigt werden.
 
-(1a) (weggefallen)
+(1a) In den Fällen des Artikels 20 Absatz 1 Buchstabe b bis d der Verordnung (EU) Nr. 648/2012 kann die Bundesanstalt, statt die Erlaubnis aufzuheben, die Abberufung der verantwortlichen Geschäftsleiter verlangen und diesen Geschäftsleitern auch die Ausübung ihrer Tätigkeit bei Instituten in der Rechtsform einer juristischen Person untersagen. Die Bundesanstalt kann eine Abberufung auch verlangen, wenn die Voraussetzungen des Artikels 27 Absatz 1 der Verordnung (EU) Nr. 648/2012 nicht gegeben sind oder die Voraussetzungen des Artikels 31 Absatz 1 der Verordnung (EU) Nr. 648/2012 vorliegen.
 
-(2) Die Bundesanstalt kann die Abberufung eines Geschäftsleiters auch verlangen und diesem Geschäftsleiter auch die Ausübung seiner Tätigkeit bei Instituten in der Rechtsform einer juristischen Person untersagen, wenn dieser vorsätzlich oder leichtfertig gegen die Bestimmungen dieses Gesetzes, des Gesetzes über Bausparkassen, des Depotgesetzes, des Geldwäschegesetzes, des Investmentgesetzes, des Pfandbriefgesetzes, des Zahlungsdiensteaufsichtsgesetzes oder des Wertpapierhandelsgesetzes, gegen die zur Durchführung dieser Gesetze erlassenen Verordnungen oder gegen Anordnungen der Bundesanstalt verstoßen hat und trotz Verwarnung durch die Bundesanstalt dieses Verhalten fortsetzt.
+(2) Die Bundesanstalt kann die Abberufung eines Geschäftsleiters auch verlangen und diesem Geschäftsleiter auch die Ausübung seiner Tätigkeit bei Instituten in der Rechtsform einer juristischen Person untersagen, wenn dieser vorsätzlich oder leichtfertig gegen die Bestimmungen dieses Gesetzes, der Verordnung (EU) Nr. 648/2012, des Gesetzes über Bausparkassen, des Depotgesetzes, des Geldwäschegesetzes, des Investmentgesetzes, des Pfandbriefgesetzes, des Zahlungsdiensteaufsichtsgesetzes oder des Wertpapierhandelsgesetzes, gegen die zur Durchführung dieser Gesetze erlassenen Verordnungen, die zur Durchführung der Verordnung (EU) Nr. 648/2012 erlassenen Rechtsakte oder gegen Anordnungen der Bundesanstalt verstoßen hat und trotz Verwarnung durch die Bundesanstalt dieses Verhalten fortsetzt.
 
 (3) Die Mitglieder des Verwaltungs- oder Aufsichtsorgans eines Instituts oder einer Finanzholding-Gesellschaft müssen zuverlässig sein und die zur Wahrnehmung der Kontrollfunktion sowie zur Beurteilung und Überwachung der Geschäfte, die das Unternehmen betreibt, erforderliche Sachkunde besitzen. Bei der Prüfung, ob eine in Satz 1 genannte Person die erforderliche Sachkunde besitzt, berücksichtigt die Bundesanstalt den Umfang und die Komplexität der vom Institut betriebenen Geschäfte. Liegen Tatsachen vor, aus denen sich ergibt, dass eine der in Satz 1 bezeichneten Personen nicht zuverlässig ist oder nicht die erforderliche Sachkunde besitzt, kann die Bundesanstalt von den Organen des betroffenen Unternehmens verlangen, diese abzuberufen oder ihr die Ausübung ihrer Tätigkeit zu untersagen. Die Bundesanstalt kann dies von dem betroffenen Unternehmen auch dann verlangen, wenn der in Satz 1 bezeichneten Person wesentliche Verstöße des Unternehmens gegen die Grundsätze einer ordnungsgemäßen Geschäftsführung wegen sorgfaltswidriger Ausübung ihrer Überwachungs- und Kontrollfunktion verborgen geblieben sind oder sie nicht alles Erforderliche zur Beseitigung festgestellter Verstöße veranlasst hat und dieses Verhalten trotz Verwarnung der Organe des Unternehmens durch die Bundesanstalt fortsetzt. Wer Geschäftsleiter war, kann nicht zum Mitglied des Verwaltungs- oder Aufsichtsorgans des von ihm geleiteten Unternehmens bestellt werden, wenn bereits zwei ehemalige Geschäftsleiter des Unternehmens Mitglied des Verwaltungs- oder Aufsichtsorgans sind. Es kann auch nicht bestellt werden, wer bereits fünf Kontrollmandate bei unter der Aufsicht der Bundesanstalt stehenden Unternehmen ausübt, es sei denn, diese Unternehmen gehören demselben institutsbezogenen Sicherungssystem an. Soweit das Gericht auf Antrag des Aufsichtsrats ein Aufsichtsratsmitglied abzuberufen hat, kann dieser Antrag bei Vorliegen der Voraussetzungen nach Satz 3 oder Satz 4 auch von der Bundesanstalt gestellt werden, wenn der Aufsichtsrat dem Abberufungsverlangen der Aufsichtsbehörde nicht nachgekommen ist.
 
-### § 37 Einschreiten gegen ungesetzliche Geschäfte
+### § 37 Einschreiten gegen unerlaubte oder verbotene Geschäfte
 
-(1) Werden ohne die nach § 32 erforderliche Erlaubnis Bankgeschäfte betrieben oder Finanzdienstleistungen erbracht oder werden nach § 3 verbotene Geschäfte betrieben, kann die Bundesanstalt die sofortige Einstellung des Geschäftsbetriebs und die unverzügliche Abwicklung dieser Geschäfte gegenüber dem Unternehmen und den Mitgliedern seiner Organe anordnen. Sie kann für die Abwicklung Weisungen erlassen und eine geeignete Person als Abwickler bestellen. Sie kann ihre Maßnahmen nach den Sätzen 1 und 2 bekanntmachen. Die Befugnisse der Bundesanstalt nach den Sätzen 1 bis 3 bestehen auch gegenüber dem Unternehmen, das in die Anbahnung, den Abschluss oder die Abwicklung dieser Geschäfte einbezogen ist.
+(1) Werden ohne die nach § 32 erforderliche Erlaubnis Bankgeschäfte betrieben oder Finanzdienstleistungen erbracht, werden ohne die nach Artikel 14 der Verordnung (EU) Nr. 648/2012 erforderliche Zulassung als zentrale Gegenpartei Clearingdienstleistungen erbracht oder werden nach § 3 verbotene Geschäfte betrieben, kann die Bundesanstalt die sofortige Einstellung des Geschäftsbetriebs und die unverzügliche Abwicklung dieser Geschäfte gegenüber dem Unternehmen und den Mitgliedern seiner Organe anordnen. Sie kann für die Abwicklung Weisungen erlassen und eine geeignete Person als Abwickler bestellen. Sie kann ihre Maßnahmen nach den Sätzen 1 und 2 bekanntmachen. Die Befugnisse der Bundesanstalt nach den Sätzen 1 bis 3 bestehen auch gegenüber dem Unternehmen, das in die Anbahnung, den Abschluss oder die Abwicklung dieser Geschäfte einbezogen ist.
 
 (2) Der Abwickler ist zum Antrag auf Eröffnung eines Insolvenzverfahrens über das Vermögen des Unternehmens berechtigt.
 
@@ -4602,6 +4659,8 @@ Die Bundesanstalt entscheidet in Zweifelsfällen, ob ein Unternehmen zur Führun
 
 (1) Ein Institut oder ein übergeordnetes Unternehmen, die Mitglieder deren Organe und deren Beschäftigte haben der Bundesanstalt, den Personen und Einrichtungen, deren sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, sowie der Deutschen Bundesbank auf Verlangen Auskünfte über alle Geschäftsangelegenheiten zu erteilen und Unterlagen vorzulegen. Die Bundesanstalt kann, auch ohne besonderen Anlass, bei den Instituten und übergeordneten Unternehmen Prüfungen vornehmen und die Durchführung der Prüfungen der Deutschen Bundesbank übertragen; das schließt Unternehmen ein, auf die ein Institut oder übergeordnetes Unternehmen wesentliche Bereiche im Sinne des § 25a Abs. 2 ausgelagert hat (Auslagerungsunternehmen). Die Bediensteten der Bundesanstalt, der Deutschen Bundesbank sowie die sonstigen Personen, deren sich die Bundesanstalt bei der Durchführung der Prüfungen bedient, können hierzu die Geschäftsräume des Instituts, des Auslagerungsunternehmens und des übergeordneten Unternehmens innerhalb der üblichen Betriebs- und Geschäftszeiten betreten und besichtigen. Die Betroffenen haben Maßnahmen nach den Sätzen 2 und 3 zu dulden.
 
+(1a) Soweit eine zentrale Gegenpartei unter den Voraussetzungen des Artikels 35 Absatz 1 der Verordnung (EU) Nr. 648/2012 operationelle Funktionen, Dienstleistungen oder Tätigkeiten auf ein Unternehmen auslagert, sind die Befugnisse der Bundesanstalt nach Absatz 1 Satz 2 und 3 auch auf dieses Unternehmen entsprechend anwendbar; Absatz 1 Satz 4 gilt entsprechend.
+
 (2) Ein nachgeordnetes Unternehmen im Sinne des § 10a Abs. 1 bis 5, eine Finanzholding-Gesellschaft an der Spitze einer Finanzholding-Gruppe im Sinne des § 10a Abs. 3 sowie ein Mitglied eines Organs eines solchen Unternehmens haben der Bundesanstalt, den Personen und Einrichtungen, deren sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, sowie der Deutschen Bundesbank auf Verlangen Auskünfte zu erteilen und Unterlagen vorzulegen, um die Richtigkeit der Auskünfte oder der übermittelten Daten zu überprüfen, die für die Aufsicht auf zusammengefasster Basis erforderlich sind oder die in Verbindung mit einer Rechtsverordnung nach § 25 Abs. 3 Satz 1 zu übermitteln sind. Die Bundesanstalt kann, auch ohne besonderen Anlass, bei den in Satz 1 genannten Unternehmen Prüfungen vornehmen und die Durchführung der Prüfungen der Deutschen Bundesbank übertragen; Absatz 1 Satz 2 Halbsatz 2 gilt entsprechend. Die Bediensteten der Bundesanstalt, der Deutschen Bundesbank sowie der sonstigen Personen, deren sich die Bundesanstalt bei der Durchführung der Prüfungen bedient, können hierzu die Geschäftsräume der Unternehmen innerhalb der üblichen Betriebs- und Geschäftszeiten betreten und besichtigen. Die Betroffenen haben Maßnahmen nach den Sätzen 2 und 3 zu dulden. Die Sätze 1 bis 4 gelten entsprechend für ein nicht in die Zusammenfassung einbezogenes Tochterunternehmen und ein gemischtes Unternehmen und dessen Tochterunternehmen.
 
 (2a) Benötigt die Bundesanstalt bei der Aufsicht über eine Institutsgruppe oder Finanzholding-Gruppe Informationen, die bereits einer anderen zuständigen Stelle vorliegen, richtet sie ihr Auskunftsersuchen zunächst an diese zuständige Stelle. Bei der Aufsicht über Institute, die einem EU-Mutterinstitut nach § 10a Abs. 1 Satz 2, Abs. 4 oder Abs. 5 nachgeordnet sind, richtet die Bundesanstalt Auskunftsersuchen zur Umsetzung der Ansätze und Methoden nach der Bankenrichtlinie regelmäßig zunächst an die für die Aufsicht auf zusammengefasster Basis zuständige Stelle.
@@ -4650,7 +4709,7 @@ Auf Verlangen der Bundesanstalt hat der Vorlagepflichtige die einzureichenden Un
 
 ### § 44c Verfolgung unerlaubter Bankgeschäfte und Finanzdienstleistungen
 
-(1) Ein Unternehmen, bei dem Tatsachen die Annahme rechtfertigen oder feststeht, daß es Bankgeschäfte oder Finanzdienstleistungen ohne die nach diesem Gesetz erforderliche Erlaubnis oder nach § 3 verbotene Geschäfte betreibt, ein Mitglied eines seiner Organe, ein Beschäftigter dieses Unternehmens sowie in die Abwicklung der Geschäfte einbezogene oder einbezogen gewesene andere Unternehmen haben der Bundesanstalt sowie der Deutschen Bundesbank auf Verlangen Auskünfte über alle Geschäftsangelegenheiten zu erteilen und Unterlagen vorzulegen. Ein Mitglied eines Organs sowie ein Beschäftigter haben auf Verlangen auch nach ihrem Ausscheiden aus dem Organ oder dem Unternehmen Auskunft zu erteilen.
+(1) Ein Unternehmen, bei dem Tatsachen die Annahme rechtfertigen oder feststeht, daß es Bankgeschäfte oder Finanzdienstleistungen ohne die nach diesem Gesetz erforderliche Erlaubnis oder ohne die nach Artikel 14 der Verordnung (EU) Nr. 648/2012 erforderliche Zulassung betreibt oder erbringt oder nach § 3 verbotene Geschäfte betreibt, ein Mitglied eines seiner Organe, ein Beschäftigter dieses Unternehmens sowie in die Abwicklung der Geschäfte einbezogene oder einbezogen gewesene andere Unternehmen haben der Bundesanstalt sowie der Deutschen Bundesbank auf Verlangen Auskünfte über alle Geschäftsangelegenheiten zu erteilen und Unterlagen vorzulegen. Ein Mitglied eines Organs sowie ein Beschäftigter haben auf Verlangen auch nach ihrem Ausscheiden aus dem Organ oder dem Unternehmen Auskunft zu erteilen.
 
 (2) Soweit dies zur Feststellung der Art oder des Umfangs der Geschäfte oder Tätigkeiten erforderlich ist, kann die Bundesanstalt Prüfungen in Räumen des Unternehmens sowie in den Räumen der nach Absatz 1 Satz 1 auskunfts- und vorlegungspflichtigen Personen und Unternehmen vornehmen und die Durchführung der Prüfungen der Deutschen Bundesbank übertragen. Die Bediensteten der Bundesanstalt und der Deutschen Bundesbank dürfen hierzu diese Räume innerhalb der üblichen Betriebs- und Geschäftszeiten betreten und besichtigen. Zur Verhütung dringender Gefahren für die öffentliche Ordnung und Sicherheit sind sie befugt, diese Räume auch außerhalb der üblichen Betriebs- und Geschäftszeiten sowie Räume, die auch als Wohnung dienen, zu betreten und zu besichtigen; das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
@@ -4867,7 +4926,7 @@ die Entgegennahme von Zahlungen, die nicht zur Erfüllung von Verbindlichkeiten 
 
 Die Bundesanstalt kann unter den Voraussetzungen des Satzes 1 Zahlungen an konzernangehörige Unternehmen untersagen oder beschränken, wenn diese Geschäfte für das Institut nachteilig sind. Sie kann ferner bestimmen, dass Zahlungen nur unter bestimmten Voraussetzungen zulässig sind. Die Bundesanstalt unterrichtet über die von ihr nach den Sätzen 3 und 4 beabsichtigten Maßnahmen unverzüglich die betroffenen Aufsichtsbehörden in den Mitgliedstaaten der Europäischen Union sowie die Europäische Zentralbank und die Deutsche Bundesbank. Beschlüsse über die Gewinnausschüttung sind insoweit nichtig, als sie einer Anordnung nach den Sätzen 1 und 2 widersprechen. Bei Instituten, die in anderer Rechtsform als der eines Einzelkaufmanns betrieben werden, sind Geschäftsleiter, denen die Ausübung ihrer Tätigkeit untersagt worden ist, für die Dauer der Untersagung von der Geschäftsführung und Vertretung des Instituts ausgeschlossen. Für die Ansprüche aus dem Anstellungsvertrag oder anderen Bestimmungen über die Tätigkeit des Geschäftsleiters gelten die allgemeinen Vorschriften. Rechte, die einem Geschäftsleiter als Gesellschafter oder in anderer Weise eine Mitwirkung an Entscheidungen über Geschäftsführungsmaßnahmen bei dem Institut ermöglichen, können für die Dauer der Untersagung nicht ausgeübt werden.
 
-(2) Die zuständige Entschädigungseinrichtung oder sonstige Sicherungseinrichtung kann ihre Verpflichtungserklärung im Sinne des Absatzes 1 Satz 2 Nummer 6 davon abhängig machen, dass eingehende Zahlungen, soweit sie nicht zur Erfüllung von Verbindlichkeiten nach Absatz 1 Satz 2 Nummer 6 gegenüber dem Institut bestimmt sind, von dem im Zeitpunkt des Erlasses des Veräußerungs- und Zahlungsverbots nach Absatz 1 Satz 2 Nummer 4 vorhandenen Vermögen des Instituts zugunsten der Einrichtung getrennt gehalten und verwaltet werden. Das Institut darf nach Erlass des Veräußerungs- und Zahlungsverbots nach Absatz 1 Satz 2 Nummer 4 die im Zeitpunkt des Erlasses laufenden Geschäfte abwickeln und neue Geschäfte eingehen, soweit diese zur Abwicklung erforderlich sind, wenn und soweit die zuständige Entschädigungseinrichtung oder sonstige Sicherungseinrichtung die zur Durchführung erforderlichen Mittel zur Verfügung stellt oder sich verpflichtet, aus diesen Geschäften insgesamt entstehende Vermögensminderungen des Instituts, soweit dies zur vollen Befriedigung sämtlicher Gläubiger erforderlich ist, diesem zu erstatten. Die Bundesanstalt kann darüber hinaus Ausnahmen vom Veräußerungs- und Zahlungsverbot nach Absatz 1 Satz 2 Nummer 4 zulassen, soweit dies für die Durchführung der Geschäfte oder die Verwaltung des Instituts sachgerecht ist. Sie kann eine Betragsgrenze festsetzen, bis zu der ein Sonderbeauftragter Ausnahmen vom Veräußerungs- und Zahlungsverbot zulassen kann. Solange Maßnahmen nach Absatz 1 Satz 2 Nummer 4 bis 6 andauern, sind Zwangsvollstreckungen, Arreste und einstweilige Verfügungen in das Vermögen des Instituts nicht zulässig. Die Vorschriften der Insolvenzordnung zum Schutz von Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen einschließlich interoperabler Systeme, und im Rahmen des von einem zentralen Kontrahenten betriebenen Systems sowie von dinglichen Sicherheiten der Zentralbanken und von Finanzsicherheiten finden bei Anordnung einer Maßnahme nach Absatz 1 Satz 2 Nummer 4 bis 6 entsprechend Anwendung.
+(2) Die zuständige Entschädigungseinrichtung oder sonstige Sicherungseinrichtung kann ihre Verpflichtungserklärung im Sinne des Absatzes 1 Satz 2 Nummer 6 davon abhängig machen, dass eingehende Zahlungen, soweit sie nicht zur Erfüllung von Verbindlichkeiten nach Absatz 1 Satz 2 Nummer 6 gegenüber dem Institut bestimmt sind, von dem im Zeitpunkt des Erlasses des Veräußerungs- und Zahlungsverbots nach Absatz 1 Satz 2 Nummer 4 vorhandenen Vermögen des Instituts zugunsten der Einrichtung getrennt gehalten und verwaltet werden. Das Institut darf nach Erlass des Veräußerungs- und Zahlungsverbots nach Absatz 1 Satz 2 Nummer 4 die im Zeitpunkt des Erlasses laufenden Geschäfte abwickeln und neue Geschäfte eingehen, soweit diese zur Abwicklung erforderlich sind, wenn und soweit die zuständige Entschädigungseinrichtung oder sonstige Sicherungseinrichtung die zur Durchführung erforderlichen Mittel zur Verfügung stellt oder sich verpflichtet, aus diesen Geschäften insgesamt entstehende Vermögensminderungen des Instituts, soweit dies zur vollen Befriedigung sämtlicher Gläubiger erforderlich ist, diesem zu erstatten. Die Bundesanstalt kann darüber hinaus Ausnahmen vom Veräußerungs- und Zahlungsverbot nach Absatz 1 Satz 2 Nummer 4 zulassen, soweit dies für die Durchführung der Geschäfte oder die Verwaltung des Instituts sachgerecht ist. Sie kann eine Betragsgrenze festsetzen, bis zu der ein Sonderbeauftragter Ausnahmen vom Veräußerungs- und Zahlungsverbot zulassen kann. Solange Maßnahmen nach Absatz 1 Satz 2 Nummer 4 bis 6 andauern, sind Zwangsvollstreckungen, Arreste und einstweilige Verfügungen in das Vermögen des Instituts nicht zulässig. Die Vorschriften der Insolvenzordnung zum Schutz von Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen einschließlich interoperabler Systeme, und im Rahmen des von einer zentralen Gegenpartei betriebenen Systems sowie von dinglichen Sicherheiten der Zentralbanken und von Finanzsicherheiten finden bei Anordnung einer Maßnahme nach Absatz 1 Satz 2 Nummer 4 bis 6 entsprechend Anwendung.
 
 (3) (weggefallen)
 
@@ -5312,7 +5371,7 @@ nicht unmöglich ist.
 
 ### § 49 Sofortige Vollziehbarkeit
 
-Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der Grundlage des § 2c Abs. 1b Satz 1 und 2, Abs. 2 Satz 1 und Abs. 4, des § 6a, des § 8a Absatz 3 bis 5, des § 10 Absatz 1b, des § 10b Abs. 5, des § 12a Abs. 2, des § 13 Abs. 3, des § 13a Abs. 3 bis 5, jeweils auch in Verbindung mit § 13b Abs. 4 Satz 2, des § 13c Abs. 3 Satz 4, des § 13d Abs. 4 Satz 5, des § 28 Abs. 1, des § 35 Abs. 2 Nr. 2 bis 6, der §§ 36, 37 und 44 Abs. 1, auch in Verbindung mit § 44b, Abs. 2 und 3a Satz 1, des § 44a Abs. 2 Satz 1, der §§ 44c, 45, des § 45a Abs. 1 und des § 45b Abs. 1, der §§ 45c, 46, 46b und 48a bis 48q haben keine aufschiebende Wirkung.
+Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der Grundlage des § 2c Abs. 1b Satz 1 und 2, Abs. 2 Satz 1 und Abs. 4, des § 6a, des § 8a Absatz 3 bis 5, des § 10 Absatz 1b, des § 10b Abs. 5, des § 12a Abs. 2, des § 13 Abs. 3, des § 13a Abs. 3 bis 5, jeweils auch in Verbindung mit § 13b Abs. 4 Satz 2, des § 13c Abs. 3 Satz 4, des § 13d Abs. 4 Satz 5, des § 28 Abs. 1, des § 35 Abs. 2 Nr. 2 bis 6, der §§ 36, 37 und 44 Abs. 1, auch in Verbindung mit § 44b, Abs. 2 und 3a Satz 1, des § 44a Abs. 2 Satz 1, der §§ 44c, 45, des § 45a Abs. 1 und des § 45b Abs. 1, der §§ 45c, 46, 46b, 48a bis 48q, 53l und 53n Absatz 1 haben keine aufschiebende Wirkung.
 
 ### § 50
 
@@ -5589,12 +5648,229 @@ in Fällen des Absatzes 2 eine gemischte Finanzholding-Gesellschaft mit Sitz im 
 
 (4) In den Fällen des Absatzes 3 unterrichtet die Bundesanstalt die betroffenen zuständigen Stellen im Europäischen Wirtschaftsraum über die gewählte Vorgehensweise. Die Pflichten aus § 7a Absatz 2 Nummer 3 und § 7b Absatz 3 Nummer 2 bleiben unberührt.
 
-### § 53e (weggefallen)
+Sechster Abschnitt Sondervorschriften für zentrale Gegenparteien
+----------------------------------------------------------------
 
--
+### 
 
-Sechster Abschnitt Strafvorschriften, Bußgeldvorschriften
----------------------------------------------------------
+### § 53e Inhaber bedeutender Beteiligungen
+
+§ 2c Absatz 2 in Verbindung mit Absatz 1b Satz 1 Nummer 1, 3, 4 bis 6 gilt entsprechend, soweit die Bundesanstalt nach Artikel 30 Absatz 4 der Verordnung (EU) Nr. 648/2012 die erforderlichen Maßnahmen ergreifen soll, um eine Einflussnahme der in Artikel 30 Absatz 1 der Verordnung (EU) Nr. 648/2012 genannten Personen, die sich voraussichtlich zum Nachteil für eine solide und umsichtige Geschäftsführung einer zentralen Gegenpartei auswirken wird, zu beenden; § 44b gilt entsprechend.
+
+### § 53f Aufsichtskollegien
+
+(1) Soweit die Bundesanstalt und die Deutsche Bundesbank einem Aufsichtskollegium nach Artikel 18 der Verordnung (EU) Nr. 648/2012 angehören, nehmen sie bei Abstimmungen jeweils eine Stimme wahr.
+
+(2) Falls nach Artikel 19 Absatz 3 Satz 3 der Verordnung (EU) Nr. 648/2012 drei Stimmen für deutsche Aufsichtsbehörden vorgesehen sind oder die Bundesanstalt oder die Deutsche Bundesbank dem Aufsichtskollegium nicht angehören, rücken in der Wahrnehmung der Stimmen die zuständigen Aufsichtsbehörden der Handelsplätze im Sinne des Artikels 18 Absatz 2 Buchstabe d der Verordnung (EU) Nr. 648/2012 nach, und zwar in der Reihenfolge des an dem Handelsplatz im vorangegangenen Kalenderjahr gehandelten Volumens an Finanzinstrumenten, das über die betreffende zentrale Gegenpartei abgerechnet wurde.
+
+### § 53g Finanzmittelausstattung von zentralen Gegenparteien
+
+Die Bundesanstalt kann bei der Beurteilung der Angemessenheit der Finanzmittel anordnen, dass eine zentrale Gegenpartei Anforderungen an das Eigenkapital und die sonstigen Finanzmittel einhalten muss, die über die Anforderungen der Artikel 16 und 43 der Verordnung (EU) Nr. 648/2012 hinausgehen, insbesondere
+
+1.  
+um den Aufbau eines zusätzlichen Finanzmittelpuffers für Perioden wirtschaftlichen Abschwungs sicherzustellen,
+
+2.  
+um Risiken Rechnung zu tragen, die sich aufgrund gesellschaftsrechtlicher Gestaltungen oder Abhängigkeiten einer zentralen Gegenpartei insbesondere als Teil einer Instituts- oder Finanzholding-Gruppe ergeben oder
+
+3.  
+um einer besonderen Geschäftssituation einer zentralen Gegenpartei Rechnung zu tragen.
+
+### § 53h Liquidität
+
+Die Bundesanstalt kann bei der Beurteilung der Liquidität im Einzelfall gegenüber einer zentralen Gegenpartei Liquiditätsanforderungen anordnen, die über die Vorgaben hinausgehen, die in Artikel 44 der Verordnung (EU) Nr. 648/2012 gegebenenfalls in Verbindung mit nach Artikel 44 Absatz 2 erlassenen technischen Regulierungsstandards festgelegt sind, wenn ohne eine solche Maßnahme die nachhaltige Liquidität der zentralen Gegenpartei nicht gesichert ist.
+
+### § 53i Gewährung des Zugangs nach den Artikeln 7 und 8 der Verordnung (EU) Nr. 648/2012
+
+Eine zentrale Gegenpartei, der eine Zulassung nach Artikel 14 der Verordnung (EU) Nr. 648/2012 erteilt worden ist, hat die Bundesanstalt über den Eingang von Anträgen auf Zugangsgewährung nach Artikel 7 der Verordnung (EU) Nr. 648/2012 sowie das Stellen eines Antrags auf Zugangsgewährung nach Artikel 8 der Verordnung (EU) Nr. 648/2012 unverzüglich schriftlich zu informieren. Die Bundesanstalt kann der zentralen Gegenpartei
+
+1.  
+unter den in Artikel 7 Absatz 4 der Verordnung (EU) Nr. 648/2012 genannten Voraussetzungen untersagen, einen Zugang im Sinne des Artikels 7 der genannten Verordnung zu gewähren, oder
+
+2.  
+unter den in Artikel 8 Absatz 4 der Verordnung (EU) Nr. 648/2012 genannten Voraussetzungen untersagen, einen Zugang zu einem Handelsplatz im Sinne des Artikels 8 der genannten Verordnung einzurichten.
+
+### § 53j Anzeigen; Verordnungsermächtigung
+
+(1) Eine zentrale Gegenpartei hat der Bundesanstalt und der Deutschen Bundesbank jeweils zum Monatsende anzuzeigen:
+
+1.  
+die Einhaltung der Einschussanforderungen nach Artikel 41 Absatz 1 Satz 2 und 3 der Verordnung (EU) Nr. 648/2012,
+
+2.  
+die Summe des oder der Ausfallfonds nach Artikel 42 Absatz 1 der Verordnung (EU) Nr. 648/2012,
+
+3.  
+die Summe der sonstigen Finanzmittel nach Artikel 43 der Verordnung (EU) Nr. 648/2012, einschließlich einer Darlegung, ob der Ausfallfonds und die sonstigen Finanzmittel den Ausfall der beiden nach Artikel 43 Absatz 2 der Verordnung (EU) Nr. 648/2012 bestimmten Clearingmitglieder auffangen können,
+
+4.  
+stichtagsbezogen die Summe der für eine Deckung des Liquiditätsbedarfs bestehenden Kreditlinien oder ähnlichen Möglichkeiten und jeweils die diesbezüglichen Gegenparteien sowie den potenziellen täglichen Liquiditätsbedarf nach Artikel 44 Absatz 1 der Verordnung (EU) Nr. 648/2012,
+
+5.  
+die Summe aller im Berichtszeitraum nach Artikel 46 Absatz 1 der Verordnung (EU) Nr. 648/2012 entgegengenommenen Sicherheiten aufgeschlüsselt nach Sicherheiten in Form von Geld, Wertpapieren und Garantien; dabei sind die Geldsicherheiten nach Währungen weiter aufzuschlüsseln und die Wertpapiere nach der Art, dem jeweiligen Sicherheitsabschlag und dem jeweiligen Anteil an den Gesamtsicherheiten sowie, soweit gegeben, dem Zeitpunkt der Freigabe und
+
+6.  
+die Gegenparteien, bei denen zum Stichtag Finanzmittel im Sinne des Artikels 47 der Verordnung (EU) Nr. 648/2012 angelegt waren, jeweils unter Angabe des angelegten Volumens und der erfolgten Besicherung.
+
+(2) Die Unterlagen, die der Bundesanstalt nach der Verordnung (EU) Nr. 648/2012 vorzulegen sind, sind in deutscher Sprache und auf Verlangen der Bundesanstalt zusätzlich in englischer Sprache zu erstellen und vorzulegen. Die Bundesanstalt kann gestatten, dass die Unterlagen ausschließlich in englischer Sprache erstellt und vorgelegt werden.
+
+(3) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der Institute nähere Bestimmungen erlassen über
+
+1.  
+Art, Umfang, Zeitpunkt und Form der nach Absatz 1 erforderlichen Anzeigen und der gegebenenfalls zum Nachweis erforderlichen Unterlagen,
+
+2.  
+die zulässigen Datenträger, Übertragungswege und Datenformate für diese Anzeigen und
+
+3.  
+eine Ergänzung der nach Absatz 1 bestehenden Anzeigepflichten durch die Erstattung von Sammelanzeigen und die Einreichung von Sammelaufstellungen,
+
+soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um einheitliche Unterlagen zur Beurteilung des von zentralen Gegenparteien durchgeführten Clearings zu erhalten. Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank zu erlassen ist.
+
+### § 53k Auslagerung von Aktivitäten und Prozessen
+
+Soweit eine zentrale Gegenpartei eine Auslagerung gemäß Artikel 35 der Verordnung (EU) Nr. 648/2012 vornimmt, gilt § 25a Absatz 2 Satz 6, 7 und Absatz 3 Satz 1 entsprechend.
+
+### § 53l Anordnungsbefugnis; Maßnahmen bei organisatorischen Mängeln
+
+(1) Die Bundesanstalt kann gegenüber einer zentralen Gegenpartei im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, die Einhaltung der Anforderungen der Verordnung (EU) Nr. 648/2012 sicherzustellen. Insbesondere zur Sicherstellung der ordnungsgemäßen Geschäftsorganisation, der organisatorischen Anforderungen und der Anforderungen nach den Artikeln 26, 28, 29, 31 Absatz 1 Satz 2 sowie den Artikeln 33 und 34 der Verordnung (EU) Nr. 648/2012 kann sie anordnen, dass eine zentrale Gegenpartei
+
+1.  
+Maßnahmen zur Reduzierung von Risiken ergreift, soweit sich diese Risiken aus bestimmten Arten von Geschäften und Produkten oder aus der Nutzung bestimmter Systeme oder der Auslagerung von Aktivitäten und Prozessen auf ein anderes Unternehmen ergeben, oder
+
+2.  
+einzelne Geschäftsarten oder Dienstleistungen nicht oder nur in beschränktem Umfang betreiben darf.
+
+(2) Die Bundesanstalt kann anstelle der in Absatz 1 Satz 2 genannten Maßnahmen oder zusammen mit diesen anordnen, dass die zentrale Gegenpartei Eigenmittelanforderungen einhalten muss, die über die Anforderungen nach Artikel 16 Absatz 2 der Verordnung (EU) Nr. 648/2012, auch in Verbindung mit technischen Regulierungsstandards nach dessen Absatz 3, hinausgehen.
+
+### § 53m Inhalt des Zulassungsantrags
+
+(1) Ein Antrag auf Zulassung als zentrale Gegenpartei im Inland nach den Artikeln 14 und 17 der Verordnung (EU) Nr. 648/2012 muss enthalten:
+
+1.  
+die Art der abgerechneten Produkte,
+
+2.  
+eine Beschreibung der Einrichtung und Ausgestaltung der Modelle und Parameter, die zur Berechnung der Einschussanforderungen im Sinne des Artikels 41 der Verordnung (EU) Nr. 648/2012 verwendet werden, einschließlich der Angabe der relevanten Quellen für die Preisermittlung im Sinne des Artikels 40 der Verordnung (EU) Nr. 648/2012,
+
+3.  
+einen Nachweis über die Einrichtung von Ausfallfonds im Sinne des Artikels 42 der Verordnung (EU) Nr. 648/2012 und eine Beschreibung deren Ausgestaltung,
+
+4.  
+eine Beschreibung der Vorkehrungen zum Vorhalten sonstiger Finanzmittel im Sinne des Artikels 43 Absatz 1 der Verordnung (EU) Nr. 648/2012,
+
+5.  
+eine Beschreibung der Mechanismen zur Kontrolle der Liquiditätsrisiken im Sinne des Artikels 44 der Verordnung (EU) Nr. 648/2012,
+
+6.  
+eine Beschreibung der Anforderungen an die Sicherheiten gemäß Artikel 46 der Verordnung (EU) Nr. 648/2012,
+
+7.  
+Angaben zur Anlagepolitik im Sinne des Artikels 47 der Verordnung (EU) Nr. 648/2012,
+
+8.  
+eine Darstellung der Verfahren bei Ausfall eines Clearingmitgliedes gemäß Artikel 48 der Verordnung (EU) Nr. 648/2012,
+
+9.  
+eine Darstellung der Prüfungsverfahren im Sinne des Artikels 49 der Verordnung (EU) Nr. 648/2012 sowie
+
+10.  
+alle in § 32 Absatz 1 Satz 2 genannten Angaben; die gemäß § 32 Absatz 1 Satz 3 erlassene Rechtsverordnung gilt entsprechend.
+
+(2) Die Bundesanstalt kann weitere Unterlagen verlangen, soweit diese für die Beurteilung des Zulassungsantrags erforderlich sind.
+
+### § 53n Maßnahmen zur Verbesserung der Finanzmittel und der Liquidität einer nach der Verordnung (EU) Nr. 648/2012 zugelassenen zentralen Gegenpartei
+
+(1) Wenn die Vermögens-, Finanz- oder Ertragsentwicklung einer zentralen Gegenpartei oder andere Umstände die Annahme rechtfertigen, dass die zentrale Gegenpartei die Anforderungen nach Artikel 41, 42, 43, 44, 46 oder 47 der Verordnung (EU) Nr. 648/2012, jeweils auch in Verbindung mit den zur näheren Ausgestaltung erlassenen technischen Regulierungsstandards nicht dauerhaft erfüllen können wird, kann die Bundesanstalt gegenüber der zentralen Gegenpartei Maßnahmen zur Verbesserung ihrer finanziellen Ausstattung und Liquidität anordnen, insbesondere
+
+1.  
+die Übermittlung einer begründeten Darstellung der Entwicklung der wesentlichen Geschäftsaktivitäten über einen Zeitraum von mindestens drei Jahren einschließlich Planbilanzen, Plangewinn- und -verlustrechnungen,
+
+2.  
+Maßnahmen zur besseren Abschirmung oder Reduzierung der von der zentralen Gegenpartei als wesentlich identifizierten Risiken und der damit verbundenen Risikokonzentrationen und eine Berichterstattung gegenüber der Bundesanstalt und der Deutschen Bundesbank, wobei auch über Konzepte für den Ausstieg aus einzelnen Geschäftsbereichen oder die Abtrennung von Teilen der zentralen Gegenpartei berichtet werden soll,
+
+3.  
+die Übermittlung eines Berichts über geeignete Maßnahmen zur Einhaltung der Einschussanforderungen, des Umfangs des Ausfallfonds, der anderen Finanzmittel, der Liquidität, der Anforderungen an die Sicherheiten und der Anlagepolitik, oder
+
+4.  
+die Übermittlung eines Konzepts zur Abwendung einer möglichen Gefahrenlage entsprechend § 35 Absatz 2 Nummer 4 an die Bundesanstalt und die Deutsche Bundesbank.
+
+Die Annahme, dass die zentrale Gegenpartei die Anforderungen dauerhaft nicht erfüllen können wird, ist regelmäßig gerechtfertigt, wenn
+
+1.  
+die Einschüsse
+
+a)  
+mindestens an einem Tag in zwei Meldezeiträumen nach § 53j Absatz 1 innerhalb eines Kalenderjahres nicht ausreichend sind, um die Verluste mit mindestens 99 Prozent der Forderungsveränderungen in dem Zeithorizont zu decken, der nach Artikel 41 Absatz 1 der Verordnung (EU) Nr. 648/2012, auch in Verbindung mit technischen Regulierungsstandards nach dessen Absatz 5, bestimmt ist, oder
+
+b)  
+nicht in vollem Umfang mindestens auf Tagesbasis alle Risiken gegenüber allen Clearingmitgliedern und den anderen zentralen Gegenparteien, mit denen Interoperabilitätsvereinbarungen bestehen, absichern,
+
+2.  
+der Ausfallfonds in zwei Meldezeiträumen nach § 53j Absatz 1 innerhalb eines Kalenderjahres nicht die Mindesthöhe nach Artikel 42 Absatz 1 Satz 2 der Verordnung (EU) Nr. 648/2012 erreicht,
+
+3.  
+der Ausfallfonds und die sonstigen Finanzmittel an zwei Meldestichtagen nach § 53j Absatz 1 innerhalb eines Kalenderjahres nicht zur Abdeckung eines Ausfalls der beiden nach Artikel 43 Absatz 2 der Verordnung (EU) Nr. 648/2012 bestimmten Clearingmitglieder ausreichen,
+
+4.  
+die Kreditlinien oder ähnlichen Möglichkeiten, die zur Abdeckung des Liquiditätsbedarfs nach Artikel 44 Absatz 1 der Verordnung (EU) Nr. 648/2012, auch in Verbindung mit technischen Regulierungsstandards nach dessen Absatz 2 bestehenden, an zwei Meldestichtagen nach § 53j Absatz 1 nicht ausreichen, um das Liquiditätsrisiko bezüglich des Ausfalls mindestens der beiden Clearingmitglieder abzudecken, gegenüber denen die zentrale Gegenpartei die höchsten offenen Positionen hat,
+
+5.  
+die zentrale Gegenpartei in zwei Meldezeiträumen nach § 53j Absatz 1 jeweils mehr als 3 Prozent der Gesamtsicherheiten ohne Beachtung der Anforderungen nach Artikel 46 Absatz 1 der Verordnung (EU) Nr. 648/2012, auch in Verbindung mit technischen Regulierungsstandards nach dessen Absatz 3, entgegengenommen hat oder
+
+6.  
+die zentrale Gegenpartei in zwei Meldezeiträumen nach § 53j Absatz 1 jeweils mehr als 3 Prozent der Gesamtsicherheiten ohne Beachtung der Anforderungen nach Artikel 47 Absatz 1 der Verordnung (EU) Nr. 648/2012, auch in Verbindung mit technischen Regulierungsstandards nach dessen Absatz 8, angelegt hat.
+
+(2) Die Bundesanstalt kann anstelle der Maßnahmen nach Absatz 1 Satz 1 oder zusammen mit diesen Maßnahmen nach Absatz 3 Satz 1 Nummer 1 bis 7 anordnen, wenn die Maßnahmen nach Absatz 1 Satz 1 keine ausreichende Gewähr dafür bieten, die Einhaltung der Anforderungen nach Artikel 41, 42, 43, 44, 46 oder 47 der Verordnung (EU) Nr. 648/2012, jeweils auch in Verbindung mit den zur näheren Ausgestaltung erlassenen technischen Regulierungsstandards nachhaltig zu sichern; insoweit ist Absatz 4 entsprechend anzuwenden.
+
+(3) Entsprechen bei einer zentralen Gegenpartei die Finanzmittel nicht den Anforderungen nach Artikel 41, 42 oder 43 der Verordnung (EU) Nr. 648/2012, jeweils auch in Verbindung mit den zur näheren Ausgestaltung erlassenen technischen Regulierungsstandards, oder den Anforderungen nach § 45b Absatz 1 Satz 2, die Liquidität nicht den Anforderungen nach Artikel 44 der Verordnung (EU) Nr. 648/2012 auch in Verbindung mit technischen Regulierungsstandards nach dessen Absatz 2, die erhaltenen Sicherheiten nicht den Anforderungen nach Artikel 46 der Verordnung (EU) Nr. 648/2012 auch in Verbindung mit technischen Regulierungsstandards nach dessen Absatz 3 oder die Anlage der Mittel nicht den Anforderungen nach Artikel 47 der Verordnung (EU) Nr. 648/2012 auch in Verbindung mit technischen Regulierungsstandards nach dessen Absatz 8, kann die Bundesanstalt
+
+1.  
+Entnahmen durch die Inhaber oder Gesellschafter sowie die Ausschüttung von Gewinnen untersagen oder beschränken,
+
+2.  
+bilanzielle Maßnahmen untersagen oder beschränken, die dazu dienen, einen entstandenen Jahresfehlbetrag auszugleichen oder einen Bilanzgewinn auszuweisen,
+
+3.  
+anordnen, dass die Auszahlung jeder Art von Erträgen auf Eigenmittelinstrumente insgesamt oder teilweise ersatzlos entfällt, wenn die Erträge nicht vollständig durch einen erzielten Jahresüberschuss gedeckt sind,
+
+4.  
+anordnen, dass die zentrale Gegenpartei Maßnahmen zur Reduzierung von Risiken ergreift, soweit sich diese aus bestimmten Arten von Geschäften und Produkten oder der Nutzung bestimmter Systeme ergeben,
+
+5.  
+die Auszahlung variabler Vergütungsbestandteile untersagen oder auf einen bestimmten Anteil des Jahresergebnisses beschränken; dies gilt nicht für variable Vergütungsbestandteile, die durch Tarifvertrag oder im Geltungsbereich eines Tarifvertrags durch Vereinbarung der Arbeitsvertragsparteien über die Anwendung der tarifvertraglichen Regelungen oder aufgrund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung vereinbart sind,
+
+6.  
+anordnen, dass die zentrale Gegenpartei den Jahresgesamtbetrag, den sie für die variable Vergütung aller Geschäftsleiter und Mitarbeiter vorsieht (Gesamtbetrag der variablen Vergütungen), auf einen bestimmten Anteil des Jahresergebnisses beschränkt oder vollständig streicht; dies gilt nicht für variable Vergütungsbestandteile, die durch Tarifvertrag oder im Geltungsbereich eines Tarifvertrags durch Vereinbarung der Arbeitsvertragsparteien über die Anwendung der tarifvertraglichen Regelungen oder aufgrund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung vereinbart sind, oder
+
+7.  
+anordnen, dass die zentrale Gegenpartei darlegt, wie und in welchem Zeitraum sie ihre finanziellen Mittel oder ihre Liquidität nachhaltig wiederherstellen wird (Plan zur Restrukturierung der zentralen Gegenpartei) und der Bundesanstalt und der Deutschen Bundesbank regelmäßig über den Fortschritt dieser Maßnahmen zu berichten ist.
+
+Der Plan zur Restrukturierung nach Satz 1 Nummer 7 muss transparent, plausibel und begründet sein. In ihm sind konkrete Ziele, Zwischenziele und Fristen für die Umsetzung der dargelegten Maßnahmen zu benennen, die von der Bundesanstalt überprüft werden können. Die Bundesanstalt kann jederzeit Einsicht in den Plan zur Restrukturierung der zentralen Gegenpartei und die zugehörigen Unterlagen nehmen. Die Bundesanstalt kann die Änderung des Plans zur Restrukturierung der zentralen Gegenpartei verlangen und hierfür Vorgaben machen, wenn sie die angegebenen Ziele, Zwischenziele und Umsetzungsfristen für nicht ausreichend hält oder die zentrale Gegenpartei sie nicht einhält.
+
+(4) Die Bundesanstalt darf die in Absatz 3 bezeichneten Anordnungen erst treffen, wenn die zentrale Gegenpartei den Mangel nicht innerhalb einer von der Bundesanstalt zu bestimmenden Frist behoben hat. Soweit dies zur Verhinderung einer kurzfristig zu erwartenden Verschlechterung der finanziellen Mittel oder der Liquidität der zentralen Gegenpartei erforderlich ist oder bereits Maßnahmen nach Absatz 1 Satz 1 ergriffen wurden, sind solche Anordnungen auch ohne vorherige Androhung mit Fristsetzung zulässig. Beschlüsse über die Gewinnausschüttung sind insoweit nichtig, als sie einer Anordnung nach Absatz 3 widersprechen. Soweit Regelungen in Verträgen über Eigenmittelinstrumente einer Anordnung nach Absatz 3 widersprechen, können aus ihnen keine Rechte hergeleitet werden. Nach oder zusammen mit einer Untersagung der Auszahlung von variablen Vergütungsbestandteilen gemäß Absatz 3 Satz 1 Nummer 5 kann die Bundesanstalt anordnen, dass die Ansprüche auf Gewährung variabler Vergütungsbestandteile ganz oder teilweise erlöschen, wenn
+
+1.  
+die zentrale Gegenpartei bei oder nach einer Untersagung der Auszahlung finanzielle Leistungen des Restrukturierungsfonds oder des Finanzmarktstabilisierungsfonds in Anspruch nimmt und, im Fall einer nachträglichen Anordnung, die Voraussetzungen für die Untersagung der Auszahlung bis zu diesem Zeitpunkt nicht weggefallen oder allein aufgrund dieser Leistungen weggefallen sind,
+
+2.  
+bei oder nach einer Untersagung der Auszahlung eine Anordnung der Bundesanstalt nach Absatz 3 Satz 1 Nummer 1 bis 4, 6 oder 7 getroffen wird oder schon besteht oder
+
+3.  
+bei oder nach einer Untersagung der Auszahlung Maßnahmen nach § 46 oder nach § 48a getroffen werden.
+
+Eine Anordnung nach Satz 5 darf insbesondere auch ergehen, wenn
+
+1.  
+die Ansprüche auf Gewährung variabler Vergütungsbestandteile aufgrund solcher Regelungen eines Vergütungssystems einer zentralen Gegenpartei entstanden sind, die den aufsichtsrechtlichen Anforderungen der Verordnung (EU) Nr. 648/2012 an angemessene, transparente und auf eine nachhaltige Entwicklung der zentralen Gegenpartei ausgerichtete Vergütungssysteme widersprechen, oder
+
+2.  
+anzunehmen ist, dass ohne die Gewährung finanzieller Leistungen des Restrukturierungsfonds oder des Finanzmarktstabilisierungsfonds die zentrale Gegenpartei nicht in der Lage gewesen wäre, die variablen Vergütungsbestandteile zu gewähren; ist anzunehmen, dass die zentrale Gegenpartei einen Teil der variablen Vergütungsbestandteile hätte gewähren können, sind die variablen Vergütungsbestandteile angemessen zu kürzen.
+
+Die Sätze 5 und 6 gelten nicht, soweit die Ansprüche auf Gewährung variabler Vergütung vor dem 16. Februar 2013 entstanden sind. Zentrale Gegenparteien müssen der Anordnungsbefugnis nach Absatz 3 Satz 1 Nummer 5 oder 6 und der Regelung in Satz 1 in entsprechenden vertraglichen Vereinbarungen mit ihren Geschäftsleitern und Mitarbeitern Rechnung tragen. Soweit vertragliche Vereinbarungen über die Gewährung einer variablen Vergütung einer Anordnung nach Absatz 3 Satz 1 Nummer 5 oder 6 entgegenstehen, können aus ihnen keine Rechte hergeleitet werden.
+
+Siebenter Abschnitt Strafvorschriften, Bußgeldvorschriften
+----------------------------------------------------------
 
 ### 
 
@@ -5609,6 +5885,8 @@ Geschäfte betreibt, die nach § 3, auch in Verbindung mit § 53b Abs. 3 Satz 1 
 ohne Erlaubnis nach § 32 Abs. 1 Satz 1 Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt,
 
 wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+
+(1a) Ebenso wird bestraft, wer ohne Zulassung nach Artikel 14 Absatz 1 der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1) eine Clearingdienstleistung erbringt.
 
 (2) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
@@ -5755,7 +6033,15 @@ entgegen Artikel 11 oder Artikel 13 Abs. 5 eine Angabe zum Auftraggeber nicht mi
 7.  
 entgegen Artikel 12 nicht dafür sorgt, dass alle Angaben zum Auftraggeber, die bei einem Geldtransfer übermittelt werden, bei der Weiterleitung erhalten bleiben.
 
-(5) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1, des Absatzes 2 Nr. 3 Buchstabe a, Nr. 6 sowie des Absatzes 3 Nr. 12 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2 Nr. 1, 2 und 3 Buchstabe b sowie des Absatzes 3 Nr. 4 bis 10 mit einer Geldbuße bis zu hundertfünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+(4c) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  
+entgegen Artikel 7 Absatz 1 Unterabsatz 1 das Clearing nicht übernimmt oder
+
+2.  
+entgegen Artikel 7 Absatz 2 einem Antrag nicht oder nicht rechtzeitig stattgibt oder diesen nicht oder nicht rechtzeitig ablehnt.
+
+(5) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1, 2 Nummer 3 Buchstabe a, Nummer 6, des Absatzes 3 Nummer 12 sowie des Absatzes 4c Nummer 1 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2 Nummer 1, 2 und 3 Buchstabe b, des Absatzes 3 Nummer 4 bis 10 sowie des Absatzes 4c Nummer 2 mit einer Geldbuße bis zu zweihunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
 ### (XXXX) §§ 57 und 58 (weggefallen)
 
@@ -5788,8 +6074,12 @@ zu übermitteln; ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, i
 
 (3) Der Bundesanstalt ist auf Antrag Akteneinsicht zu gewähren, soweit nicht für die Akteneinsicht gewährende Stelle erkennbar ist, dass schutzwürdige Interessen des Betroffenen überwiegen. Absatz 2 Satz 2 gilt entsprechend.
 
-Siebenter Abschnitt Übergangs- und Schlußvorschriften
------------------------------------------------------
+### § 60b Bekanntmachung von Maßnahmen
+
+Die Bundesanstalt hat jede unanfechtbar gewordene Bußgeldentscheidung nach § 56 Absatz 4c unverzüglich auf ihrer Internetseite öffentlich bekannt zu machen, es sei denn, diese Bekanntmachung würde die Stabilität der Finanzmärkte der Bundesrepublik Deutschland oder eines oder mehrerer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum erheblich gefährden oder eine solche Bekanntmachung würde den Beteiligten einen unverhältnismäßig großen Schaden zufügen. Die Bekanntmachung darf keine personenbezogenen Daten enthalten.
+
+Achter Abschnitt Übergangs- und Schlußvorschriften
+--------------------------------------------------
 
 ### 
 
@@ -5984,6 +6274,14 @@ Für Verbriefungstransaktionen nach Ziffer 1, die bis zum 31. Dezember 2014 durc
 ### § 64n Übergangsvorschrift zum Gesetz zur Novellierung des Finanzvermittler- und Vermögensanlagenrechts
 
 Für ein Unternehmen, das auf Grund der Erweiterung der Definition der Finanzinstrumente in § 1 Absatz 11 Satz 1 am 1. Juni 2012 zum Finanzdienstleistungsinstitut wird, gilt die Erlaubnis ab diesem Zeitpunkt bis zur Entscheidung der Bundesanstalt als vorläufig erteilt, wenn es bis zum 31. Dezember 2012 einen vollständigen Erlaubnisantrag nach § 32 Absatz 1 Satz 1 und 2, auch in Verbindung mit einer Rechtsverordnung nach § 24 Absatz 4, stellt.
+
+### § 64o Übergangsvorschriften zum EMIR-Ausführungsgesetz
+
+(1) Für Kreditinstitute, die am 16. Februar 2013 über eine Erlaubnis nach § 32 zur Ausübung der Tätigkeit einer zentralen Gegenpartei nach § 1 Absatz 1 Satz 2 Nummer 12 verfügen, findet bis zu der Erteilung einer Erlaubnis nach Artikel 14 in Verbindung mit Artikel 17 der Verordnung (EU) Nr. 648/2012 § 2 Absatz 9a und 9b keine Anwendung. § 37 Absatz 1 Satz 1 sowie § 54 Absatz 1a finden auf in Satz 1 genannte Kreditinstitute hinsichtlich der Tätigkeit als zentrale Gegenpartei im Sinne des § 1 Absatz 1 Satz 2 Nummer 12 bis zur Erteilung oder der rechtskräftigen Versagung der Erlaubnis nach Artikel 14 in Verbindung mit Artikel 17 der Verordnung (EU) Nr. 648/2012 keine Anwendung. Soweit eine Erlaubnis nach § 32 das Betreiben von Bankgeschäften nach § 1 Absatz 1 Satz 2 Nummer 1 bis 10 oder das Erbringen von Finanzdienstleistungen nach § 1 Absatz 1a umfasst, bleibt sie insoweit von der Erteilung oder der rechtskräftigen Versagung der Erlaubnis nach Artikel 14 in Verbindung mit Artikel 17 der Verordnung (EU) Nr. 648/2012 unberührt.
+
+(2) § 29 Absatz 1 Satz 2 in der ab dem 16. Februar 2013 geltenden Fassung ist erstmals auf die Abschlussprüfung des Jahresabschlusses für ein Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2012 beginnt.
+
+(3) § 29 Absatz 1a in der ab dem 16. Februar 2013 geltenden Fassung ist erstmals auf die Abschlussprüfung des Jahresabschlusses für ein Geschäftsjahr anzuwenden, das nach dem Zeitpunkt beginnt, in dem das Kreditinstitut eine Erlaubnis nach Artikel 14 in Verbindung mit Artikel 17 der Verordnung (EU) Nr. 648/2012 erhalten hat.
 
 ### § 65
 
