@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 9.5.1975 I 1077
 
 Stand  
-Zuletzt geändert durch Art. 2 G v. 21.12.2015 I 2525
+Zuletzt geändert durch Art. 2 G v. 30.5.2016 I 1254
 
 ### 
 
@@ -960,7 +960,7 @@ nach dem Weingesetz und dem Lebensmittelrecht,
 des Subventionsbetruges, des Kapitalanlagebetruges, des Kreditbetruges, des Bankrotts, der Verletzung der Buchführungspflicht, der Gläubigerbegünstigung und der Schuldnerbegünstigung,
 
 5a.  
-der wettbewerbsbeschränkenden Absprachen bei Ausschreibungen sowie der Bestechlichkeit und Bestechung im geschäftlichen Verkehr,
+der wettbewerbsbeschränkenden Absprachen bei Ausschreibungen, der Bestechlichkeit und Bestechung im geschäftlichen Verkehr sowie der Bestechlichkeit im Gesundheitswesen und der Bestechung im Gesundheitswesen,
 
 6.  
 a)  
@@ -1095,12 +1095,12 @@ in den sonstigen Fällen mit einem Richter.
 
 (2) Die Mitglieder der Strafvollstreckungskammern werden vom Präsidium des Landgerichts aus der Zahl der Mitglieder des Landgerichts und der in seinem Bezirk angestellten Richter beim Amtsgericht bestellt.
 
-### (XXXX) §§ 79 bis 92 (weggefallen)
-
-Sechster Titel Schwurgerichte
------------------------------
+Sechster Titel Schwurgerichte (weggefallen)
+-------------------------------------------
 
 ### 
+
+### (XXXX) §§ 79 bis 92 (weggefallen)
 
 Siebenter Titel Kammern für Handelssachen
 -----------------------------------------
