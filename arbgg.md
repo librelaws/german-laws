@@ -7,6 +7,12 @@ Neugefasst durch Bek. v. 2.7.1979 I 853, 1036;
 Stand  
 Zuletzt geändert durch Art. 3 Abs. 1 G v. 20.4.2013 I 868
 
+Hinweis  
+Änderung durch Art. 18 G v. 23.7.2013 I 2586 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 7 G v. 31.8.2013 I 3533 (Nr. 55) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
@@ -257,13 +263,13 @@ Bevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organ
 
 ### § 12 Kosten
 
-Die Justizverwaltungskostenordnung und die Justizbeitreibungsordnung gelten entsprechend, soweit sie nicht unmittelbar Anwendung finden. Bei Einziehung der Gerichts- und Verwaltungskosten leisten die Vollstreckungsbehörden der Justizverwaltung oder die sonst nach Landesrecht zuständigen Stellen den Gerichten für Arbeitssachen Amtshilfe, soweit sie diese Aufgaben nicht als eigene wahrnehmen. Vollstreckungsbehörde ist für die Ansprüche, die beim Bundesarbeitsgericht entstehen, die Justizbeitreibungsstelle des Bundesarbeitsgerichts.
+Das Justizverwaltungskostengesetz und die Justizbeitreibungsordnung gelten entsprechend, soweit sie nicht unmittelbar Anwendung finden. Bei Einziehung der Gerichts- und Verwaltungskosten leisten die Vollstreckungsbehörden der Justizverwaltung oder die sonst nach Landesrecht zuständigen Stellen den Gerichten für Arbeitssachen Amtshilfe, soweit sie diese Aufgaben nicht als eigene wahrnehmen. Vollstreckungsbehörde ist für die Ansprüche, die beim Bundesarbeitsgericht entstehen, die Justizbeitreibungsstelle des Bundesarbeitsgerichts.
 
 ### § 12a Kostentragungspflicht
 
 (1) In Urteilsverfahren des ersten Rechtszugs besteht kein Anspruch der obsiegenden Partei auf Entschädigung wegen Zeitversäumnis und auf Erstattung der Kosten für die Zuziehung eines Prozeßbevollmächtigten oder Beistands. Vor Abschluß der Vereinbarung über die Vertretung ist auf den Ausschluß der Kostenerstattung nach Satz 1 hinzuweisen. Satz 1 gilt nicht für Kosten, die dem Beklagten dadurch entstanden sind, daß der Kläger ein Gericht der ordentlichen Gerichtsbarkeit, der allgemeinen Verwaltungsgerichtsbarkeit, der Finanz- oder Sozialgerichtsbarkeit angerufen und dieses den Rechtsstreit an das Arbeitsgericht verwiesen hat.
 
-(2) Werden im Urteilsverfahren des zweiten Rechtszugs die Kosten nach § 92 Abs. 1 der Zivilprozeßordnung verhältnismäßig geteilt und ist die eine Partei durch einen Rechtsanwalt, die andere Partei durch einen Verbandsvertreter nach § 11 Abs. 2 Satz 2 Nr. 4 und 5 vertreten, so ist diese Partei hinsichtlich der außergerichtlichen Kosten so zu stellen, als wenn sie durch einen Rechtsanwalt vertreten worden wäre. Ansprüche auf Erstattung stehen ihr jedoch nur insoweit zu, als ihr Kosten im Einzelfall tatsächlich erwachsen sind.
+(2) Werden im Urteilsverfahren des zweiten und dritten Rechtszugs die Kosten nach § 92 Abs. 1 der Zivilprozeßordnung verhältnismäßig geteilt und ist die eine Partei durch einen Rechtsanwalt, die andere Partei durch einen Verbandsvertreter nach § 11 Abs. 2 Satz 2 Nr. 4 und 5 vertreten, so ist diese Partei hinsichtlich der außergerichtlichen Kosten so zu stellen, als wenn sie durch einen Rechtsanwalt vertreten worden wäre. Ansprüche auf Erstattung stehen ihr jedoch nur insoweit zu, als ihr Kosten im Einzelfall tatsächlich erwachsen sind.
 
 ### § 13 Rechtshilfe
 
@@ -1330,7 +1336,7 @@ Vierter Teil Schiedsvertrag in Arbeitsstreitigkeiten
 
 (1) Für bürgerliche Rechtsstreitigkeiten zwischen Tarifvertragsparteien aus Tarifverträgen oder über das Bestehen oder Nichtbestehen von Tarifverträgen können die Parteien des Tarifvertrags die Arbeitsgerichtsbarkeit allgemein oder für den Einzelfall durch die ausdrückliche Vereinbarung ausschließen, daß die Entscheidung durch ein Schiedsgericht erfolgen soll.
 
-(2) Für bürgerliche Rechtsstreitigkeiten aus einem Arbeitsverhältnis, das sich nach einem Tarifvertrag bestimmt, können die Parteien des Tarifvertrags die Arbeitsgerichtsbarkeit im Tarifvertrag durch die ausdrückliche Vereinbarung ausschließen, daß die Entscheidung durch ein Schiedsgericht erfolgen soll, wenn der persönliche Geltungsbereich des Tarifvertrags überwiegend Bühnenkünstler, Filmschaffende, Artisten oder Kapitäne und Besatzungsmitglieder im Sinne der §§ 2 und 3 des Seemannsgesetzes umfaßt. Die Vereinbarung gilt nur für tarifgebundene Personen. Sie erstreckt sich auf Parteien, deren Verhältnisse sich aus anderen Gründen nach dem Tarifvertrag regeln, wenn die Parteien dies ausdrücklich und schriftlich vereinbart haben; der Mangel der Form wird durch Einlassung auf die schiedsgerichtliche Verhandlung zur Hauptsache geheilt.
+(2) Für bürgerliche Rechtsstreitigkeiten aus einem Arbeitsverhältnis, das sich nach einem Tarifvertrag bestimmt, können die Parteien des Tarifvertrags die Arbeitsgerichtsbarkeit im Tarifvertrag durch die ausdrückliche Vereinbarung ausschließen, daß die Entscheidung durch ein Schiedsgericht erfolgen soll, wenn der persönliche Geltungsbereich des Tarifvertrags überwiegend Bühnenkünstler, Filmschaffende oder Artisten umfaßt. Die Vereinbarung gilt nur für tarifgebundene Personen. Sie erstreckt sich auf Parteien, deren Verhältnisse sich aus anderen Gründen nach dem Tarifvertrag regeln, wenn die Parteien dies ausdrücklich und schriftlich vereinbart haben; der Mangel der Form wird durch Einlassung auf die schiedsgerichtliche Verhandlung zur Hauptsache geheilt.
 
 (3) Die Vorschriften der Zivilprozeßordnung über das schiedsrichterliche Verfahren finden in Arbeitssachen keine Anwendung.
 
