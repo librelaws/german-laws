@@ -7,6 +7,9 @@ Neugefasst durch Bek. v. 9.9.1998 I 2708;
 Stand  
 zuletzt geändert durch Art. 1 G v. 20.11.2015 I 2029
 
+Hinweis  
+Änderung durch Art. 6 G v. 31.3.2016 I 518 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 Art. 1 dient auch der Umsetzung der Richtlinie 88/627/EWG des Rates der Europäischen Gemeinschaften vom 12. Dezember 1988 über die bei Erwerb oder Veräußerung einer bedeutenden Beteiligung an einer börsennotierten Gesellschaft zu veröffentlichenden Informationen (ABl. EG Nr. L 348/62) und der Richtlinie 89/592/EWG des Rates der Europäischen Gemeinschaften vom 13. November 1989 zur Koordinierung der Vorschriften betreffend Insidergeschäfte (ABl. EG Nr. L 334/30).
