@@ -2,10 +2,10 @@ Gesetz zu dem Protokoll vom 29. November 1996 aufgrund von Artikel K.3 des Vertr
 =============================================================================================================================================================================================================================================================================================================================
 
 Stand  
-Geändert durch Art. 2 G v. 21.10.2002 II 2722;
+Geändert durch Art. 2 G v. 21.10.2002 II 2722; 2016 II 1110
 
 Sonst  
-Bek. über das Inkrafttreten v. 27.4.2007 II 794 ist berücksichtigt
+Art. 2 tritt gem. Art. 3 Satz 2 iVm Abschn. I Bek. v. 27.4.2007 II 794 mWv 17.10.2002 in Kraft
 
 ### 
 
