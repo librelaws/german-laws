@@ -7,6 +7,12 @@ Neugefasst durch Bek. v. 7.8.2002 I 3146;
 Stand  
 zuletzt geändert durch Art. 11 G v. 19.10.2012 I 2192
 
+Hinweis  
+Änderung durch Art. 2 Abs. 80 G v. 7.8.2013 I 3154 (Nr. 48) noch nicht berücksichtigt
+
+Hinweis  
+Änderung durch Art. 4 Abs. 62 G v. 7.8.2013 I 3154 (Nr. 48) noch nicht berücksichtigt
+
 Sonst  
 Mittelbare Änderung durch Art. 11a G v. 19.10.2012 I 2192 ist berücksichtigt
 
