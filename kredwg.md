@@ -5,7 +5,13 @@ Neuf
 Neugefasst durch Bek. v. 9.9.1998 I 2776;
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 13.2.2013 I 174
+zuletzt geändert durch Art. 1, 2 u. 3 G v. 7.8.2013 I 3090
+
+Hinweis  
+Änderung durch Art. 1 G v. 28.8.2013 I 3395 (Nr. 53) noch nicht berücksichtigt
+
+Hinweis  
+Änderung durch Art. 8 G v. 28.8.2013 I 3395 (Nr. 53) noch nicht berücksichtigt
 
 ### 
 
@@ -70,14 +76,14 @@ zuletzt geändert durch Art. 1 G v. 13.2.2013 I 174
 <td>§ 2d</td>
 </tr>
 <tr class="even">
+<td>§ 2e</td>
+</tr>
+<tr class="odd">
 <td>§ 3</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 4</td>
 </tr>
-<tr class="even">
-<td> </td>
-</tr>
 <tr class="odd">
 <td> </td>
 </tr>
@@ -85,59 +91,59 @@ zuletzt geändert durch Art. 1 G v. 13.2.2013 I 174
 <td> </td>
 </tr>
 <tr class="odd">
+<td> </td>
+</tr>
+<tr class="even">
 <td>§ 5</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 6</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 6a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 7</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 7a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 7b</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 7c</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 8</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 8a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 8b</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 8c</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 8d</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 8e</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 9</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Zweiter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 </tr>
-<tr class="even">
-<td> </td>
-</tr>
 <tr class="odd">
 <td> </td>
 </tr>
@@ -145,29 +151,29 @@ zuletzt geändert durch Art. 1 G v. 13.2.2013 I 174
 <td> </td>
 </tr>
 <tr class="odd">
+<td> </td>
+</tr>
+<tr class="even">
 <td>§ 10</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 10a</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 10b</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 10c</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 11</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 12</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 12a</td>
 </tr>
-<tr class="even">
-<td> </td>
-</tr>
 <tr class="odd">
 <td> </td>
 </tr>
@@ -175,65 +181,65 @@ zuletzt geändert durch Art. 1 G v. 13.2.2013 I 174
 <td> </td>
 </tr>
 <tr class="odd">
+<td> </td>
+</tr>
+<tr class="even">
 <td>§ 13</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 13a</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 13b</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 13c</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 13d</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 14</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 15</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 16</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 17</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 18</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 18a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 18b</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 19</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 20</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 20a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 20b</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 20c</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 21</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 22</td>
 </tr>
-<tr class="even">
-<td> </td>
-</tr>
 <tr class="odd">
 <td> </td>
 </tr>
@@ -241,53 +247,53 @@ zuletzt geändert durch Art. 1 G v. 13.2.2013 I 174
 <td> </td>
 </tr>
 <tr class="odd">
+<td> </td>
+</tr>
+<tr class="even">
 <td>§ 22a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 22b</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 22c</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 22d</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 22e</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 22f</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 22g</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 22h</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 22i</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 22j</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 22k</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 22l</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 22m</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 22n</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 22o</td>
 </tr>
-<tr class="even">
-<td> </td>
-</tr>
 <tr class="odd">
 <td> </td>
 </tr>
@@ -295,11 +301,11 @@ zuletzt geändert durch Art. 1 G v. 13.2.2013 I 174
 <td> </td>
 </tr>
 <tr class="odd">
+<td> </td>
+</tr>
+<tr class="even">
 <td>§ 22p</td>
 </tr>
-<tr class="even">
-<td> </td>
-</tr>
 <tr class="odd">
 <td> </td>
 </tr>
@@ -307,14 +313,14 @@ zuletzt geändert durch Art. 1 G v. 13.2.2013 I 174
 <td> </td>
 </tr>
 <tr class="odd">
+<td> </td>
+</tr>
+<tr class="even">
 <td>§ 23</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 23a</td>
 </tr>
-<tr class="odd">
-<td> </td>
-</tr>
 <tr class="even">
 <td> </td>
 </tr>
@@ -322,59 +328,59 @@ zuletzt geändert durch Art. 1 G v. 13.2.2013 I 174
 <td> </td>
 </tr>
 <tr class="even">
+<td> </td>
+</tr>
+<tr class="odd">
 <td>§ 24</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 24a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 24b</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 24c</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 25</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 25a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 25b</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 25c</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 25d</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 25e</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 25f</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 25g</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 25h</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 25i</td>
 </tr>
-<tr class="odd">
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 </tr>
@@ -382,11 +388,11 @@ zuletzt geändert durch Art. 1 G v. 13.2.2013 I 174
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
 <td>§ 26</td>
 </tr>
-<tr class="odd">
-<td> </td>
-</tr>
 <tr class="even">
 <td> </td>
 </tr>
@@ -394,11 +400,11 @@ zuletzt geändert durch Art. 1 G v. 13.2.2013 I 174
 <td> </td>
 </tr>
 <tr class="even">
+<td> </td>
+</tr>
+<tr class="odd">
 <td>§ 26a</td>
 </tr>
-<tr class="odd">
-<td> </td>
-</tr>
 <tr class="even">
 <td> </td>
 </tr>
@@ -406,20 +412,20 @@ zuletzt geändert durch Art. 1 G v. 13.2.2013 I 174
 <td> </td>
 </tr>
 <tr class="even">
+<td> </td>
+</tr>
+<tr class="odd">
 <td>§ 27</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 28</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 29</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 30</td>
 </tr>
-<tr class="even">
-<td> </td>
-</tr>
 <tr class="odd">
 <td> </td>
 </tr>
@@ -427,142 +433,190 @@ zuletzt geändert durch Art. 1 G v. 13.2.2013 I 174
 <td> </td>
 </tr>
 <tr class="odd">
+<td> </td>
+</tr>
+<tr class="even">
 <td>§ 31</td>
 </tr>
+<tr class="odd">
+<td> </td>
+</tr>
+<tr class="even">
+<td>Dritter Abschnitt</td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
 <tr class="even">
 <td> </td>
 </tr>
 <tr class="odd">
-<td>Dritter Abschnitt</td>
+<td> </td>
+</tr>
+<tr class="even">
+<td> </td>
+</tr>
+<tr class="odd">
+<td>§ 32</td>
+</tr>
+<tr class="even">
+<td>§ 33</td>
+</tr>
+<tr class="odd">
+<td>§ 33a</td>
+</tr>
+<tr class="even">
+<td>§ 33b</td>
+</tr>
+<tr class="odd">
+<td>§ 34</td>
+</tr>
+<tr class="even">
+<td>§ 35</td>
+</tr>
+<tr class="odd">
+<td>§ 36</td>
+</tr>
+<tr class="even">
+<td>§ 37</td>
+</tr>
+<tr class="odd">
+<td>§ 38</td>
+</tr>
+<tr class="even">
+<td> </td>
+</tr>
+<tr class="odd">
+<td> </td>
+</tr>
+<tr class="even">
+<td> </td>
+</tr>
+<tr class="odd">
+<td>§ 39</td>
+</tr>
+<tr class="even">
+<td>§ 40</td>
+</tr>
+<tr class="odd">
+<td>§ 41</td>
+</tr>
+<tr class="even">
+<td>§ 42</td>
+</tr>
+<tr class="odd">
+<td>§ 43</td>
+</tr>
+<tr class="even">
+<td> </td>
+</tr>
+<tr class="odd">
+<td> </td>
+</tr>
+<tr class="even">
+<td> </td>
+</tr>
+<tr class="odd">
+<td>§ 44</td>
+</tr>
+<tr class="even">
+<td>§ 44a</td>
+</tr>
+<tr class="odd">
+<td>§ 44b</td>
+</tr>
+<tr class="even">
+<td>§ 44c</td>
+</tr>
+<tr class="odd">
+<td> </td>
+</tr>
+<tr class="even">
+<td> </td>
+</tr>
+<tr class="odd">
+<td> </td>
+</tr>
+<tr class="even">
+<td>§ 45</td>
+</tr>
+<tr class="odd">
+<td>§ 45a</td>
+</tr>
+<tr class="even">
+<td>§ 45b</td>
+</tr>
+<tr class="odd">
+<td>§ 45c</td>
+</tr>
+<tr class="even">
+<td>§ 46</td>
+</tr>
+<tr class="odd">
+<td>§ 46a</td>
+</tr>
+<tr class="even">
+<td>§ 46b</td>
+</tr>
+<tr class="odd">
+<td>§ 46c</td>
+</tr>
+<tr class="even">
+<td>§ 46d</td>
+</tr>
+<tr class="odd">
+<td>§ 46e</td>
+</tr>
+<tr class="even">
+<td>§ 46f</td>
+</tr>
+<tr class="odd">
+<td>§ 46g</td>
+</tr>
+<tr class="even">
+<td>§ 46h</td>
+</tr>
+<tr class="odd">
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 </tr>
 <tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td>§ 32</td>
-</tr>
-<tr class="odd">
-<td>§ 33</td>
-</tr>
-<tr class="even">
-<td>§ 33a</td>
-</tr>
-<tr class="odd">
-<td>§ 33b</td>
-</tr>
-<tr class="even">
-<td>§ 34</td>
-</tr>
-<tr class="odd">
-<td>§ 35</td>
-</tr>
-<tr class="even">
-<td>§ 36</td>
-</tr>
-<tr class="odd">
-<td>§ 37</td>
-</tr>
-<tr class="even">
-<td>§ 38</td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td>§ 39</td>
-</tr>
-<tr class="odd">
-<td>§ 40</td>
-</tr>
-<tr class="even">
-<td>§ 41</td>
-</tr>
-<tr class="odd">
-<td>§ 42</td>
-</tr>
-<tr class="even">
-<td>§ 43</td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td>§ 44</td>
-</tr>
-<tr class="odd">
-<td>§ 44a</td>
-</tr>
-<tr class="even">
-<td>§ 44b</td>
-</tr>
-<tr class="odd">
-<td>§ 44c</td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td>§ 45</td>
-</tr>
-<tr class="even">
-<td>§ 45a</td>
-</tr>
-<tr class="odd">
-<td>§ 45b</td>
-</tr>
-<tr class="even">
-<td>§ 45c</td>
-</tr>
-<tr class="odd">
-<td>§ 46</td>
-</tr>
-<tr class="even">
-<td>§ 46a</td>
-</tr>
-<tr class="odd">
-<td>§ 46b</td>
-</tr>
-<tr class="even">
-<td>§ 46c</td>
-</tr>
-<tr class="odd">
-<td>§ 46d</td>
-</tr>
-<tr class="even">
-<td>§ 46e</td>
-</tr>
-<tr class="odd">
-<td>§ 46f</td>
+<td></td>
 </tr>
 <tr class="even">
 <td>§ 47</td>
+</tr>
+<tr class="odd">
+<td>§ 47a</td>
+</tr>
+<tr class="even">
+<td>§ 47b</td>
+</tr>
+<tr class="odd">
+<td>§ 47c</td>
+</tr>
+<tr class="even">
+<td>§ 47d</td>
+</tr>
+<tr class="odd">
+<td>§ 47e</td>
+</tr>
+<tr class="even">
+<td>§ 47f</td>
+</tr>
+<tr class="odd">
+<td>§ 47g</td>
+</tr>
+<tr class="even">
+<td>§ 47h</td>
+</tr>
+<tr class="odd">
+<td>§ 47i</td>
+</tr>
+<tr class="even">
+<td>§ 47j</td>
 </tr>
 <tr class="odd">
 <td>§ 48</td>
@@ -864,6 +918,12 @@ zuletzt geändert durch Art. 1 G v. 13.2.2013 I 174
 <tr class="even">
 <td>§ 64o</td>
 </tr>
+<tr class="odd">
+<td>§ 64p</td>
+</tr>
+<tr class="even">
+<td>§ 64q</td>
+</tr>
 </tbody>
 </table>
 
@@ -872,8 +932,8 @@ Erster Abschnitt Allgemeine Vorschriften
 
 ### 
 
-1. Kreditinstitute, Finanzdienstleistungsinstitute, Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften, Finanzkonglomerate, gemischte Unternehmen und Finanzunternehmen
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Kreditinstitute, Finanzdienstleistungsinstitute, Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften und gemischte Unternehmen sowie Finanzunternehmen
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 
 
@@ -941,7 +1001,19 @@ die Anschaffung und die Veräußerung von Finanzinstrumenten im fremden Namen f�
 die Verwaltung einzelner in Finanzinstrumenten angelegter Vermögen für andere mit Entscheidungsspielraum (Finanzportfolioverwaltung),
 
 4.  
-das kontinuierliche Anbieten des Kaufs oder Verkaufs von Finanzinstrumenten an einem organisierten Markt oder in einem multilateralen Handelssystem zu selbst gestellten Preisen, das häufige organisierte und systematische Betreiben von Handel für eigene Rechnung außerhalb eines organisierten Marktes oder eines multilateralen Handelssystems, indem ein für Dritte zugängliches System angeboten wird, um mit ihnen Geschäfte durchzuführen, oder die Anschaffung oder Veräußerung von Finanzinstrumenten für eigene Rechnung als Dienstleistung für andere (Eigenhandel),
+das
+
+a)  
+kontinuierliche Anbieten des Kaufs oder Verkaufs von Finanzinstrumenten an einem organisierten Markt oder in einem multilateralen Handelssystem zu selbst gestellten Preisen,
+
+b)  
+häufige organisierte und systematische Betreiben von Handel für eigene Rechnung außerhalb eines organisierten Marktes oder eines multilateralen Handelssystems, indem ein für Dritte zugängliches System angeboten wird, um mit ihnen Geschäfte durchzuführen,
+
+c)  
+Anschaffen oder Veräußern von Finanzinstrumenten für eigene Rechnung als Dienstleistung für andere oder
+
+d)  
+Kaufen oder Verkaufen von Finanzinstrumenten für eigene Rechnung als unmittelbarer oder mittelbarer Teilnehmer eines inländischen organisierten Marktes oder multilateralen Handelssystems mittels einer hochfrequenten algorithmischen Handelstechnik, die gekennzeichnet ist durch die Nutzung von Infrastrukturen, die darauf abzielen, Latenzzeiten zu minimieren, durch die Entscheidung des Systems über die Einleitung, das Erzeugen, das Weiterleiten oder die Ausführung eines Auftrags ohne menschliche Intervention für einzelne Geschäfte oder Aufträge und durch ein hohes untertägiges Mitteilungsaufkommen in Form von Aufträgen, Quotes oder Stornierungen, auch ohne Dienstleistung für andere (Eigenhandel),
 
 5.  
 die Vermittlung von Einlagengeschäften mit Unternehmen mit Sitz außerhalb des Europäischen Wirtschaftsraums (Drittstaateneinlagenvermittlung),
@@ -959,16 +1031,19 @@ der Handel mit Sorten (Sortengeschäft),
 der laufende Ankauf von Forderungen auf der Grundlage von Rahmenverträgen mit oder ohne Rückgriff (Factoring),
 
 10.  
-der Abschluss von Finanzierungsleasingverträgen als Leasinggeber und die Verwaltung von Objektgesellschaften im Sinne des § 2 Abs. 6 Satz 1 Nr. 17 (Finanzierungsleasing),
+der Abschluss von Finanzierungsleasingverträgen als Leasinggeber und die Verwaltung von Objektgesellschaften im Sinne des § 2 Absatz 6 Satz 1 Nummer 17 außerhalb der Verwaltung eines Investmentvermögens im Sinne des § 1 Absatz 1 des Kapitalanlagegesetzbuchs (Finanzierungsleasing),
 
 11.  
-die Anschaffung und die Veräußerung von Finanzinstrumenten für eine Gemeinschaft von Anlegern, die natürliche Personen sind, mit Entscheidungsspielraum bei der Auswahl der Finanzinstrumente, sofern dies ein Schwerpunkt des angebotenen Produktes ist und zu dem Zweck erfolgt, dass diese Anleger an der Wertentwicklung der erworbenen Finanzinstrumente teilnehmen (Anlageverwaltung).
+die Anschaffung und die Veräußerung von Finanzinstrumenten außerhalb der Verwaltung eines Investmentvermögens im Sinne des § 1 Absatz 1 des Kapitalanlagegesetzbuchs für eine Gemeinschaft von Anlegern, die natürliche Personen sind, mit Entscheidungsspielraum bei der Auswahl der Finanzinstrumente, sofern dies ein Schwerpunkt des angebotenen Produktes ist und zu dem Zweck erfolgt, dass diese Anleger an der Wertentwicklung der erworbenen Finanzinstrumente teilnehmen (Anlageverwaltung),
+
+12.  
+die Verwahrung und die Verwaltung von Wertpapieren ausschließlich für alternative Investmentfonds (AIF) im Sinne des § 1 Absatz 3 des Kapitalanlagegesetzbuchs (eingeschränktes Verwahrgeschäft).
 
 (1b) Institute im Sinne dieses Gesetzes sind Kreditinstitute und Finanzdienstleistungsinstitute.
 
 (2) Geschäftsleiter im Sinne dieses Gesetzes sind diejenigen natürlichen Personen, die nach Gesetz, Satzung oder Gesellschaftsvertrag zur Führung der Geschäfte und zur Vertretung eines Instituts in der Rechtsform einer juristischen Person oder einer Personenhandelsgesellschaft berufen sind. In Ausnahmefällen kann die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) auch eine andere mit der Führung der Geschäfte betraute und zur Vertretung ermächtigte Person widerruflich als Geschäftsleiter bezeichnen, wenn sie zuverlässig ist und die erforderliche fachliche Eignung hat; § 33 Abs. 2 ist anzuwenden. Wird das Institut von einem Einzelkaufmann betrieben, so kann in Ausnahmefällen unter den Voraussetzungen des Satzes 2 eine von dem Inhaber mit der Führung der Geschäfte betraute und zur Vertretung ermächtigte Person widerruflich als Geschäftsleiter bezeichnet werden. Beruht die Bezeichnung einer Person als Geschäftsleiter auf einem Antrag des Instituts, so ist sie auf Antrag des Instituts oder des Geschäftsleiters zu widerrufen.
 
-(3) Finanzunternehmen sind Unternehmen, die keine Institute und keine Kapitalanlagegesellschaften oder Investmentaktiengesellschaften sind und deren Haupttätigkeit darin besteht,
+(3) Finanzunternehmen sind Unternehmen, die keine Institute und keine Kapitalverwaltungsgesellschaften oder extern verwaltete Investmentgesellschaften sind und deren Haupttätigkeit darin besteht,
 
 1.  
 Beteiligungen zu erwerben und zu halten,
@@ -996,7 +1071,7 @@ Darlehen zwischen Kreditinstituten zu vermitteln (Geldmaklergeschäfte).
 
 Das Bundesministerium der Finanzen kann nach Anhörung der Deutschen Bundesbank durch Rechtsverordnung weitere Unternehmen als Finanzunternehmen bezeichnen, deren Haupttätigkeit in einer Tätigkeit besteht, um welche die Liste im Anhang I der Richtlinie 2006/48/EG vom 14. Juni 2006 über die Aufnahme und Ausübung der Tätigkeit der Kreditinstitute (ABl. EU Nr. L 177 S. 1) (Bankenrichtlinie) erweitert wird.
 
-(3a) Finanzholding-Gesellschaften sind Finanzunternehmen, E-Geld-Institute und Zahlungsinstitute, die keine gemischten Finanzholding-Gesellschaften sind und deren Tochterunternehmen ausschließlich oder hauptsächlich Institute, Finanzunternehmen, E-Geld-Institute oder Zahlungsinstitute sind und die mindestens ein Einlagenkreditinstitut oder ein Wertpapierhandelsunternehmen zum Tochterunternehmen haben. Gemischte Finanzholding-Gesellschaften sind Mutterunternehmen, die keine beaufsichtigten Finanzkonglomeratsunternehmen sind, und die zusammen mit ihren Tochterunternehmen, von denen mindestens ein Unternehmen ein beaufsichtigtes Finanzkonglomeratsunternehmen mit Sitz im Inland oder einem anderen Staat des Europäischen Wirtschaftsraums ist, und anderen Unternehmen ein Finanzkonglomerat bilden. Beaufsichtigte Finanzkonglomeratsunternehmen sind konglomeratsangehörige Einlagenkreditinstitute, Wertpapierhandelsunternehmen, Erstversicherungsunternehmen im Sinne des § 104k Nr. 2 Buchstabe a des Versicherungsaufsichtsgesetzes, Kapitalanlagegesellschaften oder andere Vermögensverwaltungsgesellschaften im Sinne des Artikels 2 Nr. 5 und des Artikels 30 der Richtlinie 2002/87/EG.
+(3a) Finanzholding-Gesellschaften sind Finanzunternehmen, E-Geld-Institute und Zahlungsinstitute, die keine gemischten Finanzholding-Gesellschaften sind und deren Tochterunternehmen ausschließlich oder hauptsächlich Institute, Finanzunternehmen, E-Geld-Institute oder Zahlungsinstitute sind und die mindestens ein Einlagenkreditinstitut oder ein Wertpapierhandelsunternehmen zum Tochterunternehmen haben. Gemischte Finanzholding-Gesellschaften sind Mutterunternehmen, die keine beaufsichtigten Finanzkonglomeratsunternehmen sind, und die zusammen mit ihren Tochterunternehmen, von denen mindestens ein Unternehmen ein beaufsichtigtes Finanzkonglomeratsunternehmen mit Sitz im Inland oder einem anderen Staat des Europäischen Wirtschaftsraums ist, und anderen Unternehmen ein Finanzkonglomerat bilden.
 
 (3b) Gemischte Unternehmen sind Unternehmen, die keine Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften oder Institute sind und die mindestens ein Einlagenkreditinstitut oder ein Wertpapierhandelsunternehmen zum Tochterunternehmen haben. Eine gemischte Unternehmensgruppe besteht aus einem gemischten Unternehmen und seinen Tochterunternehmen.
 
@@ -1024,13 +1099,17 @@ ihrer Systeme zur Sicherung der Erfüllung der Geschäfte an diesen Märkten (Cl
 
 (7) Tochterunternehmen sind Unternehmen, die als Tochterunternehmen im Sinne des § 290 des Handelsgesetzbuchs gelten oder auf die ein beherrschender Einfluß ausgeübt werden kann, ohne daß es auf die Rechtsform und den Sitz ankommt. Schwesterunternehmen sind Unternehmen, die ein gemeinsames Mutterunternehmen haben.
 
-(7a) Mutterinstitute in einem Mitgliedstaat sind Institute mit Sitz in einem Staat des Europäischen Wirtschaftsraums, denen ein Institut im Sinne von § 10a Abs. 1 Satz 2 oder Abs. 4, oder eine Kapitalanlagegesellschaft, ein Zahlungsinstitut im Sinne des Zahlungsdiensteaufsichtsgesetzes oder ein Finanzunternehmen nachgeordnet ist und die selbst weder einem Institut noch einer Finanzholding-Gesellschaft mit Sitz im gleichen Staat des Europäischen Wirtschaftsraums nachgeordnet sind.
+(7a) Mutterinstitute in einem Mitgliedstaat sind Institute mit Sitz in einem Staat des Europäischen Wirtschaftsraums, denen ein Institut im Sinne von § 10a Abs. 1 Satz 2 oder Abs. 4, oder eine Kapitalanlagegesellschaft, ein Zahlungsinstitut im Sinne des Zahlungsdiensteaufsichtsgesetzes oder ein Finanzunternehmen nachgeordnet ist und die selbst weder einem Institut, einer Finanzholding-Gesellschaft noch einer gemischten Finanzholding-Gesellschaft mit Sitz im gleichen Staat des Europäischen Wirtschaftsraums nachgeordnet sind.
 
-(7b) Mutterfinanzholding-Gesellschaften in einem Mitgliedstaat sind Finanzholding-Gesellschaften, die selbst weder Tochterunternehmen eines Instituts noch einer Finanzholding-Gesellschaft mit Sitz im gleichen Staat des Europäischen Wirtschaftsraums sind.
+(7b) Mutterfinanzholding-Gesellschaften in einem Mitgliedstaat sind Finanzholding-Gesellschaften, die selbst weder Tochterunternehmen eines Instituts, einer Finanzholding-Gesellschaft noch einer gemischten Finanzholding-Gesellschaft mit Sitz im gleichen Staat des Europäischen Wirtschaftsraums sind.
 
-(7c) EU-Mutterinstitute sind Mutterinstitute in einem Mitgliedstaat, die selbst weder einem Institut noch einer Finanzholding-Gesellschaft mit Sitz in einem Staat des Europäischen Wirtschaftsraums im Sinne von § 10a Abs. 1 Satz 2 oder Abs. 4 nachgeordnet sind.
+(7c) EU-Mutterinstitute sind Mutterinstitute in einem Mitgliedstaat, die selbst weder einem Institut, einer Finanzholding-Gesellschaft noch einer gemischten Finanzholding-Gesellschaft mit Sitz in einem Staat des Europäischen Wirtschaftsraums im Sinne von § 10a Abs. 1 Satz 2 oder Abs. 4 nachgeordnet sind.
 
-(7d) EU-Mutterfinanzholding-Gesellschaften sind Mutterfinanzholding-Gesellschaften in einem Mitgliedstaat, die selbst weder Tochterunternehmen eines Instituts noch einer Finanzholding-Gesellschaft mit Sitz in einem Staat des Europäischen Wirtschaftsraums sind.
+(7d) EU-Mutterfinanzholding-Gesellschaften sind Mutterfinanzholding-Gesellschaften in einem Mitgliedstaat, die selbst weder Tochterunternehmen eines Instituts, einer Finanzholding-Gesellschaft noch einer gemischten Finanzholding-Gesellschaft mit Sitz in einem Staat des Europäischen Wirtschaftsraums sind.
+
+(7e) Gemischte Mutterfinanzholding-Gesellschaften sind gemischte Finanzholding-Gesellschaften in einem Mitgliedstaat, die selbst nicht Tochterunternehmen eines Instituts, einer gemischten Finanzholding-Gesellschaft oder einer Finanzholding-Gesellschaft mit Sitz im gleichen Staat des Europäischen Wirtschaftsraums sind.
+
+(7f) Gemischte EU-Mutterfinanzholding-Gesellschaften sind gemischte Mutterfinanzholding-Gesellschaften in einem Mitgliedstaat, die selbst nicht Tochterunternehmen eines Instituts, einer gemischten Finanzholding-Gesellschaft oder einer Finanzholding-Gesellschaft mit Sitz in einem Staat des Europäischen Wirtschaftsraumes sind.
 
 (8) Eine Kontrolle besteht, wenn ein Unternehmen im Verhältnis zu einem anderen Unternehmen als Mutterunternehmen gilt oder wenn zwischen einer natürlichen oder einer juristischen Person und einem Unternehmen ein gleichartiges Verhältnis besteht.
 
@@ -1044,21 +1123,33 @@ durch das unmittelbare oder mittelbare Halten durch ein oder mehrere Tochterunte
 2.  
 als Mutter- und Tochterunternehmen, mittels eines gleichartigen Verhältnisses oder als Schwesterunternehmen.
 
-(11) Finanzinstrumente im Sinne der Absätze 1 bis 3 und 17 sowie im Sinne des § 2 Abs. 1 und 6 sind abweichend von § 1a Abs. 3 Wertpapiere, Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes mit Ausnahme von Anteilen an einer Genossenschaft im Sinne des § 1 des Genossenschaftsgesetzes, Geldmarktinstrumente, Devisen oder Rechnungseinheiten sowie Derivate. Wertpapiere sind, auch wenn keine Urkunden über sie ausgestellt sind, alle Gattungen von übertragbaren Wertpapieren mit Ausnahme von Zahlungsinstrumenten, die ihrer Art nach auf den Kapitalmärkten handelbar sind, insbesondere
+(11) Finanzinstrumente im Sinne der Absätze 1 bis 3 und 17 sowie im Sinne des § 2 Absatz 1 und 6 sind
 
 1.  
-Aktien und andere Anteile an in- oder ausländischen juristischen Personen, Personengesellschaften und sonstigen Unternehmen, soweit sie Aktien vergleichbar sind, sowie Zertifikate, die Aktien vertreten,
+Aktien und andere Anteile an in- oder ausländischen juristischen Personen, Personengesellschaften und sonstigen Unternehmen, soweit sie Aktien vergleichbar sind, sowie Zertifikate, die Aktien oder Aktien vergleichbare Anteile vertreten,
 
 2.  
-Schuldtitel, insbesondere Genussscheine, Inhaberschuldverschreibungen, Orderschuldverschreibungen und Zertifikate, die diese Schuldtitel vertreten,
+Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes mit Ausnahme von Anteilen an einer Genossenschaft im Sinne des § 1 des Genossenschaftsgesetzes,
 
 3.  
-sonstige Wertpapiere, die zum Erwerb oder zur Veräußerung von Wertpapieren nach den Nummern 1 und 2 berechtigen oder zu einer Barzahlung führen, die in Abhängigkeit von Wertpapieren, von Währungen, Zinssätzen oder anderen Erträgen, von Waren, Indices oder Messgrößen bestimmt wird,
+Schuldtitel, insbesondere Genussscheine, Inhaberschuldverschreibungen, Orderschuldverschreibungen und diesen Schuldtiteln vergleichbare Rechte, die ihrer Art nach auf den Kapitalmärkten handelbar sind, mit Ausnahme von Zahlungsinstrumenten, sowie Zertifikate, die diese Schuldtitel vertreten,
 
 4.  
-Anteile an Investmentvermögen, die von einer Kapitalanlagegesellschaft oder einer ausländischen Investmentgesellschaft ausgegeben werden.
+sonstige Rechte, die zum Erwerb oder zur Veräußerung von Rechten nach den Nummern 1 und 3 berechtigen oder zu einer Barzahlung führen, die in Abhängigkeit von solchen Rechten, von Währungen, Zinssätzen oder anderen Erträgen, von Waren, Indices oder Messgrößen bestimmt wird,
 
-Geldmarktinstrumente sind alle Gattungen von Forderungen, die nicht unter Satz 1 fallen und die üblicherweise auf dem Geldmarkt gehandelt werden, mit Ausnahme von Zahlungsinstrumenten. Derivate sind
+5.  
+Anteile an Investmentvermögen im Sinne des § 1 Absatz 1 des Kapitalanlagegesetzbuchs,
+
+6.  
+Geldmarktinstrumente,
+
+7.  
+Devisen oder Rechnungseinheiten sowie
+
+8.  
+Derivate.
+
+Geldmarktinstrumente sind alle Gattungen von Forderungen, die üblicherweise auf dem Geldmarkt gehandelt werden, mit Ausnahme von Zahlungsinstrumenten. Derivate sind
 
 1.  
 als Kauf, Tausch oder anderweitig ausgestaltete Festgeschäfte oder Optionsgeschäfte, die zeitlich verzögert zu erfüllen sind und deren Wert sich unmittelbar oder mittelbar vom Preis oder Maß eines Basiswertes ableitet (Termingeschäfte) mit Bezug auf die folgenden Basiswerte:
@@ -1133,29 +1224,12 @@ dient. Gehört der Sicherungsgeber zu den in Artikel 1 Abs. 2 Buchstabe e der Ri
 (19) Finanzbranche im Sinne dieses Gesetzes sind folgende Branchen:
 
 1.  
-die Banken- und Wertpapierdienstleistungsbranche; dieser gehören Kreditinstitute im Sinne des Absatzes 1, Finanzdienstleistungsinstitute im Sinne des Absatzes 1a, Kapitalanlagegesellschaften im Sinne des § 2 Abs. 6 des Investmentgesetzes, Investmentaktiengesellschaften im Sinne des § 2 Abs. 5 des Investmentgesetzes, Finanzunternehmen im Sinne des Absatzes 3, Anbieter von Nebendienstleistungen im Sinne des Absatzes 3c oder entsprechende Unternehmen mit Sitz im Ausland sowie E-Geld-Institute im Sinne des § 1a Absatz 1 Nummer 5 des Zahlungsdiensteaufsichtsgesetzes sowie Zahlungsinstitute im Sinne des § 1 Abs. 1 Nr. 5 des Zahlungsdiensteaufsichtsgesetzes an; für die Zwecke der §§ 51a und 51c gelten Kapitalanlagegesellschaften und Investmentaktiengesellschaften als nicht dieser Branche angehörig;
+die Banken- und Wertpapierdienstleistungsbranche; dieser gehören Kreditinstitute im Sinne des Absatzes 1, Finanzdienstleistungsinstitute im Sinne des Absatzes 1a, Kapitalverwaltungsgesellschaften im Sinne des § 17 des Kapitalanlagegesetzbuchs, extern verwaltete Investmentgesellschaften im Sinne des § 1 Absatz 13 des Kapitalanlagegesetzbuchs, Finanzunternehmen im Sinne des Absatzes 3, Anbieter von Nebendienstleistungen im Sinne des Absatzes 3c oder entsprechende Unternehmen mit Sitz im Ausland sowie E-Geld-Institute im Sinne des § 1a Absatz 1 Nummer 5 des Zahlungsdiensteaufsichtsgesetzes sowie Zahlungsinstitute im Sinne des § 1 Abs. 1 Nr. 5 des Zahlungsdiensteaufsichtsgesetzes an;
 
 2.  
-die Versicherungsbranche; dieser gehören Erstversicherungsunternehmen im Sinne des § 104k Nr. 2 Buchstabe a des Versicherungsaufsichtsgesetzes, Rückversicherungsunternehmen im Sinne des § 104a Abs. 2 Nr. 3 des Versicherungsaufsichtsgesetzes, Versicherungs-Holdinggesellschaften im Sinne des § 104a Abs. 2 Nr. 4 des Versicherungsaufsichtsgesetzes oder entsprechende Unternehmen mit Sitz im Ausland an;
+die Versicherungsbranche; dieser gehören Erstversicherungsunternehmen im Sinne des § 104k Nr. 2 Buchstabe a des Versicherungsaufsichtsgesetzes, Rückversicherungsunternehmen im Sinne des § 104a Abs. 2 Nr. 3 des Versicherungsaufsichtsgesetzes, Versicherungs-Holdinggesellschaften im Sinne des § 104a Abs. 2 Nr. 4 des Versicherungsaufsichtsgesetzes oder entsprechende Unternehmen mit Sitz im Ausland an.
 
-3.  
-eine weitere aus den gemischten Finanzholding-Gesellschaften gebildete Branche.
-
-(20) Ein Finanzkonglomerat im Sinne dieses Gesetzes ist vorbehaltlich des § 51a Abs. 2 bis 6 eine Gruppe von Unternehmen,
-
-1.  
-die aus einem Mutterunternehmen, seinen Tochterunternehmen und den Unternehmen, an denen das Mutterunternehmen oder ein Tochterunternehmen eine Beteiligung halten, besteht, oder aus Unternehmen, die zu einer horizontalen Unternehmensgruppe zusammengefasst sind;
-
-2.  
-an deren Spitze ein beaufsichtigtes Finanzkonglomeratsunternehmen steht, bei dem es sich um ein Mutterunternehmen eines Unternehmens der Finanzbranche, ein Unternehmen, das eine Beteiligung an einem Unternehmen der Finanzbranche hält, oder ein Unternehmen, das mit einem anderen Unternehmen der Banken- und Wertpapierdienstleistungsbranche oder der Versicherungsbranche zu einer horizontalen Unternehmensgruppe zusammengefasst ist, handelt; steht kein beaufsichtigtes Finanzkonglomeratsunternehmen an der Spitze der Gruppe, weist die Gruppe jedoch mindestens eines dieser Unternehmen als Tochterunternehmen auf, ist die Gruppe ein Finanzkonglomerat, wenn sie vorwiegend in der Finanzbranche tätig ist;
-
-3.  
-der mindestens ein Unternehmen der Versicherungsbranche sowie mindestens ein Unternehmen der Banken- und Wertpapierdienstleistungsbranche angehören und
-
-4.  
-in der die konsolidierte oder aggregierte Tätigkeit beziehungsweise die konsolidierte und aggregierte Tätigkeit der Unternehmen der Gruppe sowohl in der Versicherungsbranche als auch in der Banken- und Wertpapierdienstleistungsbranche erheblich ist.
-
-Als Finanzkonglomerat gilt auch eine Untergruppe einer Gruppe im Sinne des Satzes 1 Nr. 1, sofern diese selbst die Voraussetzungen nach Satz 1 Nr. 1 bis 4 erfüllt.
+(20) Finanzkonglomerat ist eine Gruppe oder Untergruppe von Unternehmen im Sinne des § 1 Absatz 2 des Finanzkonglomerate-Aufsichtsgesetzes.
 
 (21) Eine horizontale Unternehmensgruppe im Sinne dieses Gesetzes ist eine Gruppe, in der ein Unternehmen mit einem oder mehreren anderen Unternehmen in der Weise verbunden ist, dass
 
@@ -1165,9 +1239,9 @@ sie gemeinsam auf Grund einer Satzungsbestimmung oder eines Vertrages unter einh
 2.  
 sich ihre Verwaltungs-, Leitungs- oder Aufsichtsorgane mehrheitlich aus denselben Personen zusammensetzen, die während des Geschäftsjahres und bis zum Ablauf des in § 290 Abs. 1 des Handelsgesetzbuchs bestimmten Zeitraums im Amt sind, wenn sie einen konsolidierten Abschluss aufzustellen haben oder hätten.
 
-(22) Gruppeninterne Transaktionen innerhalb eines Finanzkonglomerats im Sinne dieses Gesetzes sind Transaktionen, bei denen sich beaufsichtigte Finanzkonglomeratsunternehmen zur Erfüllung einer Verbindlichkeit direkt oder indirekt auf andere Unternehmen innerhalb desselben Finanzkonglomerats oder auf natürliche oder juristische Personen stützen, die mit den Unternehmen der Gruppe durch enge Verbindungen verbunden sind, wobei unerheblich ist, ob dies auf vertraglicher oder nicht vertraglicher oder auf entgeltlicher oder unentgeltlicher Grundlage erfolgt.
+(22) (weggefallen)
 
-(23) Risikokonzentrationen im Sinne dieses Gesetzes sind alle mit einem Ausfallrisiko behafteten Engagements der Unternehmen eines Finanzkonglomerats, die groß genug sind, die Solvabilität oder die allgemeine Finanzlage der beaufsichtigten Finanzkonglomeratsunternehmen zu gefährden, wobei die Ausfallgefahr auf einem Adressenausfallrisiko, einem Kreditrisiko, einem Anlagerisiko, einem Versicherungsrisiko, einem Marktrisiko, einem sonstigen Risiko, einer Kombination dieser Risiken oder auf Wechselwirkungen zwischen diesen Risiken beruht oder beruhen kann.
+(23) (weggefallen)
 
 (24) Refinanzierungsunternehmen sind Unternehmen, die zum Zwecke der eigenen Refinanzierung oder der Refinanzierung des Übertragungsberechtigten Gegenstände oder Ansprüche auf deren Übertragung aus ihrem Geschäftsbetrieb an Zweckgesellschaften, Refinanzierungsmittler, ein Kreditinstitut mit Sitz in einem Staat des Europäischen Wirtschaftsraums oder an eine in § 2 Abs. 1 Nr. 1 oder Nr. 3a genannte Einrichtung veräußern; unschädlich ist, wenn sie daneben wirtschaftliche Risiken weitergeben, ohne dass damit ein Rechtsübergang einhergeht.
 
@@ -1296,7 +1370,7 @@ Finanzinstrumente und Waren, die nach Satz 1 Nr. 1 oder nach Satz 1 Nr. 2 dem Ha
 
 (8) Die Institute haben Handelsbuchpositionen täglich zu Marktpreisen zu bewerten, die aus unabhängigen Quellen bezogen werden. Ist eine solche direkte Bewertung zu Marktpreisen nicht möglich, darf das Institut den Marktwert der Handelsbuchpositionen mit Hilfe von Bewertungsmodellen schätzen, die sich auf am Markt beobachtete Referenzpreise stützen. Für die Bewertung von Handelsbuchpositionen haben die Institute geeignete Systeme und Kontrollprozesse einzurichten und ständig fortzuführen. Diese Systeme und Kontrollprozesse müssen über schriftlich niedergelegte Vorgaben und Verfahrensweisen für den Bewertungsprozess der Handelsbuchpositionen verfügen und gewährleisten, dass die Handelsbuchpositionen vorsichtig und zuverlässig bewertet werden. Bei der Bewertung ihrer Handelsbuchpositionen haben die Institute insbesondere das Risiko zu berücksichtigen, dass im Falle einer kurzfristigen Veräußerung oder Absicherung dieser Handelsbuchpositionen nicht ihr zuletzt beobachteter Marktpreis oder Schätzwert, sondern lediglich ein ungünstigerer Wert erzielt wird.
 
-(9) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen zur Zusammensetzung, Führung und Verwaltung des Handelsbuchs der Institute sowie zur Anwendung von Vorschriften über das Handelsbuch in Institutsgruppen und Finanzholding-Gruppen im Sinne von § 10a Abs. 1 bis 5 zu erlassen, insbesondere
+(9) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen zur Zusammensetzung, Führung, Verwaltung des Handelsbuchs der Institute sowie zur Anwendung von Vorschriften über das Handelsbuch in Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen im Sinne von § 10a Abs. 1 bis 5 zu erlassen, insbesondere
 
 1.  
 zur Zuordnung von weiteren handelbaren Positionen zum Handelsbuch,
@@ -1386,7 +1460,10 @@ die Sozialversicherungsträger und die Bundesagentur für Arbeit;
 die öffentliche Schuldenverwaltung des Bundes, eines seiner Sondervermögen, eines Landes oder eines anderen Staates des Europäischen Wirtschaftsraums und deren Zentralbanken, sofern diese nicht fremde Gelder als Einlagen oder andere rückzahlbare Gelder des Publikums annimmt oder das Kreditgeschäft betreibt;
 
 3b.  
-Kapitalanlagegesellschaften, selbst wenn sie Investmentanteile für andere nach Maßgabe des § 7 Abs. 2 Nr. 4 des Investmentgesetzes verwalten und verwahren und Investmentaktiengesellschaften;
+Kapitalverwaltungsgesellschaften und extern verwaltete Investmentgesellschaften, sofern sie die kollektive Vermögensverwaltung erbringen oder neben der kollektiven Vermögensverwaltung ausschließlich die in § 20 Absatz 2 und 3 des Kapitalanlagegesetzbuchs aufgeführten Dienstleistungen oder Nebendienstleistungen als Bankgeschäfte betreiben;
+
+3c.  
+EU-Verwaltungsgesellschaften und ausländische AIF-Verwaltungsgesellschaften, sofern sie die kollektive Vermögensverwaltung oder neben der kollektiven Vermögensverwaltung ausschließlich die in Artikel 6 Absatz 3 der Richtlinie 2009/65/EG oder die in Artikel 6 Absatz 4 der Richtlinie 2011/61/EU aufgeführten Dienstleistungen oder Nebendienstleistungen als Bankgeschäfte betreiben;
 
 4.  
 private und öffentlich-rechtliche Versicherungsunternehmen;
@@ -1419,12 +1496,15 @@ c)
 die Finanzkommissionsgeschäfte nur für Kunden ihrer Haupttätigkeit im sachlichen Zusammenhang mit Geschäften der Haupttätigkeit erbracht werden;
 
 10.  
-Unternehmen, die das Finanzkommissionsgeschäft ausschließlich als Dienstleistung für Anbieter oder Emittenten von Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes betreiben, und
+Unternehmen, die das Finanzkommissionsgeschäft ausschließlich als Dienstleistung für Anbieter oder Emittenten von Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes oder von geschlossenen AIF im Sinne des § 1 Absatz 5 des Kapitalanlagegesetzbuchs betreiben;
 
 11.  
-Unternehmen, die das Emissionsgeschäft ausschließlich als Übernahme gleichwertiger Garantien im Sinne des § 1 Absatz 1 Satz 2 Nummer 10 für Anbieter oder Emittenten von Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes betreiben.
+Unternehmen, die das Emissionsgeschäft ausschließlich als Übernahme gleichwertiger Garantien im Sinne des § 1 Absatz 1 Satz 2 Nummer 10 für Anbieter oder Emittenten von Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes oder von geschlossenen AIF im Sinne des § 1 Absatz 5 des Kapitalanlagegesetzbuchs betreiben;
 
-(2) Für die Kreditanstalt für Wiederaufbau gelten die §§ 14, 22a bis 22o und die auf Grund von § 47 Abs. 1 Nr. 2 und § 48 getroffenen Regelungen; für die Sozialversicherungsträger, für die Bundesagentur für Arbeit, für Versicherungsunternehmen sowie für Unternehmensbeteiligungsgesellschaften gilt § 14.
+12.  
+Unternehmen, die das Depotgeschäft im Sinne des § 1 Absatz 1 Satz 2 Nummer 5 ausschließlich für AIF betreiben und damit das eingeschränkte Verwahrgeschäft im Sinne des § 1 Absatz 1a Satz 2 Nummer 12 erbringen.
+
+(2) Für die Kreditanstalt für Wiederaufbau gelten die §§ 14, 22a bis 22o und die auf Grund von § 46g Absatz 1 Nummer 2 und § 46h getroffenen Regelungen; für die Sozialversicherungsträger, für die Bundesagentur für Arbeit, für Versicherungsunternehmen sowie für Unternehmensbeteiligungsgesellschaften gilt § 14.
 
 (3) Für Unternehmen der in Absatz 1 Nr. 4 bis 6 bezeichneten Art gelten die Vorschriften dieses Gesetzes insoweit, als sie Bankgeschäfte betreiben, die nicht zu den ihnen eigentümlichen Geschäften gehören.
 
@@ -1450,10 +1530,10 @@ private und öffentlich-rechtliche Versicherungsunternehmen;
 Unternehmen, die Finanzdienstleistungen im Sinne des § 1 Abs. 1a Satz 2 ausschließlich innerhalb der Unternehmensgruppe erbringen;
 
 5a.  
-Kapitalanlagegesellschaften, selbst wenn sie die individuelle Vermögensverwaltung nach Maßgabe des § 7 Abs. 2 Nr. 1, die Anlageberatung nach § 7 Abs. 2 Nr. 3 oder sonstige Dienstleistungen und Nebendienstleistungen nach § 7 Abs. 2 Nr. 7 des Investmentgesetzes erbringen, und Investmentaktiengesellschaften;
+Kapitalverwaltungsgesellschaften und extern verwaltete Investmentgesellschaften, sofern sie die kollektive Vermögensverwaltung erbringen oder neben der kollektiven Vermögensverwaltung ausschließlich die in § 20 Absatz 2 und 3 des Kapitalanlagegesetzbuchs aufgeführten Dienstleistungen oder Nebendienstleistungen als Finanzdienstleistungen erbringen;
 
 5b.  
-ausländische Investmentgesellschaften, soweit sie ausländische Investmentanteile im Sinne des § 2 Abs. 9 des Investmentgesetzes ausgeben;
+EU-Verwaltungsgesellschaften und ausländische AIF-Verwaltungsgesellschaften, sofern sie die kollektive Vermögensverwaltung erbringen oder neben der kollektiven Vermögensverwaltung ausschließlich die in Artikel 6 Absatz 3 der Richtlinie 2009/65/EG oder die in Artikel 6 Absatz 4 der Richtlinie 2011/61/EU aufgeführten Dienstleistungen oder Nebendienstleistungen als Finanzdienstleistungen erbringen;
 
 6.  
 Unternehmen, deren Finanzdienstleistung für andere ausschließlich in der Verwaltung eines Systems von Arbeitnehmerbeteiligungen an den eigenen oder an mit ihnen verbundenen Unternehmen besteht;
@@ -1474,21 +1554,21 @@ c)
 Unternehmen, die auf Grund einer Rechtsverordnung nach § 53c gleichgestellt oder freigestellt sind,
 
 d)  
-Kapitalanlagegesellschaften, Investmentaktiengesellschaften und ausländische Investmentgesellschaften oder
+Kapitalverwaltungsgesellschaften, extern verwalteten Investmentgesellschaften, EU-Verwaltungsgesellschaften oder ausländischen AIF-Verwaltungsgesellschaften oder
 
 e)  
 Anbietern oder Emittenten von Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes
 
-betreiben, sofern sich diese Finanzdienstleistungen auf Anteile an Investmentvermögen, die von einer inländischen Kapitalanlagegesellschaft oder Investmentaktiengesellschaft im Sinne der §§ 96 bis 111a des Investmentgesetzes ausgegeben werden, oder auf ausländische Investmentanteile, die nach dem Investmentgesetz öffentlich vertrieben werden dürfen, oder auf Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes beschränken und die Unternehmen nicht befugt sind, sich bei der Erbringung dieser Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Anteilen von Kunden zu verschaffen, es sei denn, das Unternehmen beantragt und erhält eine entsprechende Erlaubnis nach § 32 Abs. 1; Anteile an Sondervermögen mit zusätzlichen Risiken nach § 112 des Investmentgesetzes gelten nicht als Anteile an Investmentvermögen im Sinne dieser Vorschrift;
+betreiben, sofern sich diese Finanzdienstleistungen auf Anteile oder Aktien an inländischen Investmentvermögen, die von einer Kapitalverwaltungsgesellschaft ausgegeben werden, die eine Erlaubnis nach § 7 oder § 97 Absatz 1 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung erhalten hat, die für den in § 345 Absatz 2 Satz 1, Absatz 3 Satz 2, in Verbindung mit Absatz 2 Satz 1, oder Absatz 4 Satz 1 des Kapitalanlagegesetzbuchs vorgesehenen Zeitraum noch fortbesteht oder eine Erlaubnis nach den §§ 20, 21 oder §§ 20, 22 des Kapitalanlagegesetzbuchs erhalten hat oder auf Anteile oder Aktien an EU-Investmentvermögen oder ausländischen AIF, die nach dem Kapitalanlagegesetzbuch vertrieben werden dürfen, oder auf Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes beschränken und die Unternehmen nicht befugt sind, sich bei der Erbringung dieser Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Anteilen von Kunden zu verschaffen, es sei denn, das Unternehmen beantragt und erhält eine entsprechende Erlaubnis nach § 32 Abs. 1; Anteile oder Aktien an Hedgefonds im Sinne von § 283 des Kapitalanlagegesetzbuchs gelten nicht als Anteile an Investmentvermögen im Sinne dieser Vorschrift;
 
 9.  
-Unternehmen, die, ohne grenzüberschreitend tätig zu werden, Eigengeschäfte an Derivatemärkten im Sinne des Absatzes 1 Nr. 8 betreiben und an Kassamärkten nur zur Absicherung dieser Positionen handeln, Eigenhandel oder Abschlussvermittlung nur für andere Mitglieder dieser Derivatemärkte erbringen oder als Market Maker im Sinne des § 23 Abs. 4 des Wertpapierhandelsgesetzes im Wege des Eigenhandels Preise für andere Mitglieder dieser Derivatemärkte stellen, sofern für die Erfüllung der Verträge, die diese Unternehmen schließen, Clearingmitglieder derselben Märkte oder Handelssysteme haften;
+Unternehmen, die, ohne grenzüberschreitend tätig zu werden, Eigengeschäfte an Derivatemärkten im Sinne des Absatzes 1 Nr. 8 betreiben und an Kassamärkten nur zur Absicherung dieser Positionen handeln, Eigenhandel im Sinne des § 1 Absatz 1a Satz 2 Nummer 4 Buchstabe a bis c oder Abschlussvermittlung nur für andere Mitglieder dieser Derivatemärkte erbringen oder als Market Maker im Sinne des § 23 Abs. 4 des Wertpapierhandelsgesetzes im Wege des Eigenhandels im Sinne des § 1 Absatz 1a Satz 2 Nummer 4 Buchstabe a Preise für andere Mitglieder dieser Derivatemärkte stellen, sofern für die Erfüllung der Verträge, die diese Unternehmen schließen, Clearingmitglieder derselben Märkte oder Handelssysteme haften;
 
 10.  
 Angehörige freier Berufe, die Finanzdienstleistungen im Sinne des § 1 Abs. 1a Satz 2 Nr. 1 bis 4 nur gelegentlich im Rahmen eines Mandatsverhältnisses als Freiberufler erbringen und einer Berufskammer in der Form der Körperschaft des öffentlichen Rechts angehören, deren Berufsrecht die Erbringung von Finanzdienstleistungen nicht ausschließt;
 
 11.  
-Unternehmen, die Eigengeschäfte in Finanzinstrumenten betreiben oder Finanzdienstleistungen im Sinne des § 1 Abs. 1a Satz 2 Nr. 1 bis 4 nur in Bezug auf Derivate im Sinne des § 1 Abs. 11 Satz 4 Nr. 2 und 5 erbringen, sofern
+Unternehmen, die Eigengeschäfte in Finanzinstrumenten betreiben oder Finanzdienstleistungen im Sinne des § 1 Abs. 1a Satz 2 Nr. 1 bis 4 Buchstabe a bis c nur in Bezug auf Derivate im Sinne des § 1 Abs. 11 Satz 4 Nr. 2 und 5 erbringen, sofern
 
 a)  
 sie nicht Teil einer Unternehmensgruppe sind, deren Haupttätigkeit in der Erbringung von Finanzdienstleistungen im Sinne des § 1 Abs. 1a Satz 2 Nr. 1 bis 4 oder Bankgeschäften im Sinne des § 1 Abs. 1 Satz 2 Nr. 1, 2 oder 8 besteht,
@@ -1503,7 +1583,7 @@ die Finanzdienstleistungen in Bezug auf Derivate im Sinne des § 1 Abs. 11 Satz 
 Unternehmen, deren einzige Finanzdienstleistung im Sinne des § 1 Abs. 1a Satz 2 der Handel mit Sorten ist, sofern ihre Haupttätigkeit nicht im Sortengeschäft besteht;
 
 13.  
-Unternehmen, soweit sie als Haupttätigkeit Eigengeschäfte und Eigenhandel mit Waren oder Derivaten im Sinne des § 1 Abs. 11 Satz 4 Nr. 2 im Bezug auf Waren betreiben, sofern sie nicht einer Unternehmensgruppe angehören, deren Haupttätigkeit in der Erbringung von Finanzdienstleistungen im Sinne des § 1 Abs. 1a Satz 2 Nr. 1 bis 4 oder dem Betreiben von Bankgeschäften nach § 1 Abs. 1 Satz 2 Nr. 1, 2 oder 8 besteht;
+Unternehmen, soweit sie als Haupttätigkeit Eigengeschäfte und Eigenhandel im Sinne des § 1 Absatz 1a Satz 2 Nummer 4 Buchstabe a bis c mit Waren oder Derivaten im Sinne des § 1 Abs. 11 Satz 4 Nr. 2 im Bezug auf Waren betreiben, sofern sie nicht einer Unternehmensgruppe angehören, deren Haupttätigkeit in der Erbringung von Finanzdienstleistungen im Sinne des § 1 Abs. 1a Satz 2 Nr. 1 bis 4 oder dem Betreiben von Bankgeschäften nach § 1 Abs. 1 Satz 2 Nr. 1, 2 oder 8 besteht;
 
 14.  
 (weggefallen)
@@ -1521,14 +1601,14 @@ Unternehmen, die als einzige Finanzdienstleistung im Sinne des § 1 Abs. 1a Satz
 Unternehmen, die als Finanzdienstleistung nur die Anlageverwaltung betreiben und deren Mutterunternehmen die Kreditanstalt für Wiederaufbau oder ein Institut im Sinne des Satzes 2 ist. Institut im Sinne des Satzes 1 ist ein Finanzdienstleistungsinstitut, das die Erlaubnis für die Anlageverwaltung hat, oder ein Einlagenkreditinstitut oder Wertpapierhandelsunternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums im Sinne des § 53b Abs. 1 Satz 1, das in seinem Herkunftsstaat über eine Erlaubnis für mit § 1 Abs. 1a Satz 2 Nr. 11 vergleichbare Geschäfte verfügt, oder ein Institut mit Sitz in einem Drittstaat, das für die in § 1 Abs. 1a Satz 2 Nr. 11 genannten Geschäfte nach Absatz 4 von der Erlaubnispflicht nach § 32 freigestellt ist;
 
 19.  
-Unternehmen, die das Platzierungsgeschäft ausschließlich für Anbieter oder für Emittenten von Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes erbringen, und
+Unternehmen, die das Platzierungsgeschäft ausschließlich für Anbieter oder für Emittenten von Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes oder von geschlossenen AIF im Sinne des § 1 Absatz 5 des Kapitalanlagegesetzbuchs erbringen, und
 
 20.  
-Unternehmen, die außer der Finanzportfolioverwaltung und der Anlageverwaltung keine Finanzdienstleistungen erbringen, sofern die Finanzportfolioverwaltung und Anlageverwaltung nur auf Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes beschränkt erbracht werden.
+Unternehmen, die außer der Finanzportfolioverwaltung und der Anlageverwaltung keine Finanzdienstleistungen erbringen, sofern die Finanzportfolioverwaltung und Anlageverwaltung nur auf Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes oder von geschlossenen AIF im Sinne des § 1 Absatz 5 des Kapitalanlagegesetzbuchs beschränkt erbracht werden.
 
 Für Einrichtungen und Unternehmen im Sinne des Satzes 1 Nr. 3 und 4 gelten die Vorschriften dieses Gesetzes insoweit, als sie Finanzdienstleistungen erbringen, die nicht zu den ihnen eigentümlichen Geschäften gehören.
 
-(7) Die Vorschriften des § 2b Abs. 2, der §§ 10, 11 bis 18 und 24 Abs. 1 Nr. 9, der §§ 24a und 33 Abs. 1 Satz 1 Nr. 1, des § 35 Abs. 2 Nr. 5 und der §§ 45, 46 Absatz 1 Satz 2 Nummer 4 bis 6 sowie der §§ 46b und 46c sind nicht anzuwenden auf Finanzdienstleistungsinstitute, die außer der Drittstaateneinlagenvermittlung und dem Sortengeschäft keine weiteren Finanzdienstleistungen im Sinne des § 1 Abs. 1a Satz 2 erbringen. Auf Unternehmen, die ausschließlich Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 9 oder Nummer 10 erbringen, sind die §§ 1a und 2b Absatz 2, die §§ 10, 11 bis 13d, 15 bis 18 und 24 Absatz 1 Nummer 4, 6, 9, 11, 14, 16, Absatz 1a Nummer 5, die §§ 25, 26a und 33 Absatz 1 Satz 1 Nummer 1, § 35 Absatz 2 Nummer 5 und die §§ 45 und 46 Absatz 1 Satz 2 Nummer 4 bis 6 sowie der §§ 46b und 46c nicht anzuwenden.
+(7) Die Vorschriften des § 2b Abs. 2, der §§ 10, 11 bis 18 und 24 Abs. 1 Nr. 9, der §§ 24a und 33 Abs. 1 Satz 1 Nr. 1, des § 35 Abs. 2 Nr. 5 und der §§ 45, 46 Absatz 1 Satz 2 Nummer 4 bis 6 sowie der §§ 46b und 46c sind nicht anzuwenden auf Finanzdienstleistungsinstitute, die außer der Drittstaateneinlagenvermittlung und dem Sortengeschäft keine weiteren Finanzdienstleistungen im Sinne des § 1 Abs. 1a Satz 2 erbringen. Auf Unternehmen, die ausschließlich Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 Nummer 9 oder Nummer 10 erbringen, sind die §§ 1a und 2b Absatz 2, die §§ 10, 11 bis 13c, 15 bis 18 und 24 Absatz 1 Nummer 4, 6, 9, 11, 14, 16, Absatz 1a Nummer 5, die §§ 25, 26a und 33 Absatz 1 Satz 1 Nummer 1, § 35 Absatz 2 Nummer 5 und die §§ 45 und 46 Absatz 1 Satz 2 Nummer 4 bis 6 sowie der §§ 46b und 46c nicht anzuwenden.
 
 (8) Die Vorschriften des § 2b Abs. 2, der §§ 10, 11 und 12 Abs. 1, der §§ 13, 13a, 14 bis 18 und 24 Absatz 1 Nummer 14, 16, Absatz 1a Nummer 5, des § 25a Absatz 1 Satz 7, der §§ 26a und 35 Abs. 2 Nr. 5 und des § 45 sind nicht anzuwenden auf Anlageberater, Anlagevermittler, Abschlussvermittler, Betreiber multilateraler Handelssysteme und Unternehmen, die das Platzierungsgeschäft betreiben, die nicht befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, und die nicht auf eigene Rechnung mit Finanzinstrumenten handeln, sowie auf Unternehmen, die auf Grund der Rückausnahme für die Erbringung grenzüberschreitender Geschäfte in Absatz 1 Nr. 8 oder Absatz 6 Nr. 9 als Institute einzustufen sind.
 
@@ -1557,7 +1637,7 @@ der Anteil des Handelsbuchs zu keiner Zeit 6 vom Hundert der Gesamtsumme der bil
 
 Zur Bestimmung des Anteils des Handelsbuchs werden Derivate entsprechend dem Nominalwert oder dem Marktpreis der ihnen zugrundeliegenden Instrumente, die anderen Finanzinstrumente mit ihrem Nennwert oder Marktpreis angesetzt; Kauf- und Verkaufspositionen werden ungeachtet ihres Vorzeichens addiert. Näheres wird durch Rechtsverordnung nach § 22 geregelt. Das Institut hat der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen, wenn es von der Möglichkeit nach Satz 1 Gebrauch macht, eine Grenze nach Satz 1 Nr. 3 überschritten hat oder die Vorschriften über das Handelsbuch anwendet, obwohl die Voraussetzungen des Satzes 1 vorliegen.
 
-(12) Für Betreiber organisierter Märkte mit Sitz im Ausland, die als einzige Finanzdienstleistung ein multilaterales Handelssystem im Inland betreiben, gelten die Anforderungen der §§ 25a und 33 Abs. 1 Nr. 1 bis 4 sowie die Anzeigepflichten nach § 2c Abs. 1 und 4 sowie § 24 Abs. 1 Nr. 1, 2 und 11 und Abs. 1a Nr. 2 entsprechend. Die in Satz 1 genannten Anforderungen gelten entsprechend auch für Träger einer inländischen Börse, die außer dem Freiverkehr als einzige Finanzdienstleistung ein multilaterales Handelsystem im Inland betreiben. Es wird vermutet, dass Geschäftsführer einer inländischen Börse und Personen, die die Geschäfte eines ausländischen organisierten Marktes tatsächlich leiten, den Anforderungen nach § 33 Abs. 1 Nr. 2 und 4 genügen. Die Befugnisse der Bundesanstalt nach den §§ 2c und 25a Abs. 1 Satz 7 sowie den §§ 44 bis 48 gelten entsprechend. Die Bundesanstalt kann den in Satz 1 genannten Personen den Betrieb eines multilateralen Handelssystems in den Fällen des § 35 Abs. 2 Nr. 4, 5 und 6 sowie dann untersagen, wenn sie die Anforderungen des § 33 Abs. 1 Satz 1 Nr. 1 bis 4 nicht erfüllen. Die in Satz 1 genannten Personen haben der Bundesanstalt die Aufnahme des Betriebs unverzüglich anzuzeigen.
+(12) Für Betreiber organisierter Märkte mit Sitz im Ausland, die als einzige Finanzdienstleistung ein multilaterales Handelssystem im Inland betreiben, gelten die Anforderungen der §§ 25a und 33 Abs. 1 Nr. 1 bis 4 sowie die Anzeigepflichten nach § 2c Abs. 1 und 4 sowie § 24 Abs. 1 Nr. 1, 2 und 11 und Abs. 1a Nr. 2 entsprechend. Die in Satz 1 genannten Anforderungen gelten entsprechend auch für Träger einer inländischen Börse, die außer dem Freiverkehr als einzige Finanzdienstleistung ein multilaterales Handelsystem im Inland betreiben. Es wird vermutet, dass Geschäftsführer einer inländischen Börse und Personen, die die Geschäfte eines ausländischen organisierten Marktes tatsächlich leiten, den Anforderungen nach § 33 Abs. 1 Nr. 2 und 4 genügen. Die Befugnisse der Bundesanstalt nach den §§ 2c und 25a Abs. 1 Satz 7 sowie den §§ 44 bis 46h gelten entsprechend. Die Bundesanstalt kann den in Satz 1 genannten Personen den Betrieb eines multilateralen Handelssystems in den Fällen des § 35 Abs. 2 Nr. 4, 5 und 6 sowie dann untersagen, wenn sie die Anforderungen des § 33 Abs. 1 Satz 1 Nr. 1 bis 4 nicht erfüllen. Die in Satz 1 genannten Personen haben der Bundesanstalt die Aufnahme des Betriebs unverzüglich anzuzeigen.
 
 (+++ § 2 Abs. 8a: Gem. § 64h Abs. 7 längstens bis zum 31.12.2014 anzuwenden +++)
 
@@ -1586,9 +1666,9 @@ das übergeordnete Institut mit Zustimmung der Bundesanstalt verbindlich erklär
 
 (4) Wird das Vorliegen der Voraussetzung nach Absatz 1 nicht nachgewiesen, kann die Bundesanstalt das Institut oder das übergeordnete Unternehmen auffordern, die erforderlichen Nachweise vorzulegen oder Vorkehrungen zu treffen, die geeignet und erforderlich sind, die bestehenden Mängel zu beseitigen; die Bundesanstalt kann dafür eine angemessene Frist bestimmen. Werden die Nachweise nicht oder nicht fristgerecht vorgelegt oder werden die Mängel nicht oder nicht fristgerecht behoben, kann die Bundesanstalt anordnen, dass das Institut die Vorschriften der §§ 10, 13 und 13a sowie des § 25a Abs. 1 Satz 3 Nr. 1 zur Festlegung von Strategien, zur Ermittlung und Sicherstellung der Risikotragfähigkeit und zur Einrichtung von Prozessen zur Identifizierung, Beurteilung, Steuerung, Überwachung und Kommunikation von Risiken wieder anzuwenden hat.
 
-(5) Die Absätze 1 bis 4 gelten entsprechend für Institute mit Sitz im Inland, die nachgeordnetes Unternehmen einer Finanzholding-Gruppe nach § 10a Abs. 3 sind, wenn die Finanzholding-Gesellschaft ihren Sitz ebenfalls im Inland hat.
+(5) Die Absätze 1 bis 4 gelten entsprechend für Institute mit Sitz im Inland, die nachgeordnetes Unternehmen einer Finanzholding-Gruppe nach § 10a Abs. 3 oder einer gemischten Finanzholding-Gruppe nach § 10a Absatz 3a sind, wenn die Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft ihren Sitz ebenfalls im Inland hat.
 
-(6) Ein übergeordnetes Unternehmen im Sinne des § 10a Absatz 1 bis 3 mit Sitz im Inland kann auf Einzelinstitutsebene davon absehen, die §§ 10, 13, 13a und § 25a Absatz 1 Satz 3 Nummer 1 zur Ermittlung und Sicherstellung der Risikotragfähigkeit, Festlegung von Strategien, Einrichtung von Prozessen zur Identifizierung, Beurteilung, Steuerung, Überwachung und Kommunikation von Risiken anzuwenden, wenn
+(6) Ein übergeordnetes Unternehmen im Sinne des § 10a Absatz 1 bis 3a mit Sitz im Inland kann auf Einzelinstitutsebene davon absehen, die §§ 10, 13, 13a und § 25a Absatz 1 Satz 3 Nummer 1 zur Ermittlung und Sicherstellung der Risikotragfähigkeit, Festlegung von Strategien, Einrichtung von Prozessen zur Identifizierung, Beurteilung, Steuerung, Überwachung und Kommunikation von Risiken anzuwenden, wenn
 
 1.  
 weder ein rechtliches noch ein bedeutendes tatsächliches Hindernis für die unverzügliche Übertragung von Eigenmitteln oder die Rückzahlung von Verbindlichkeiten an das übergeordnete Unternehmen vorhanden oder abzusehen ist und
@@ -1657,13 +1737,19 @@ Im Falle einer Untersagung nach Satz 1 bestellt das Gericht am Sitz des Institut
 
 (1) Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen, müssen zuverlässig sein und die zur Führung der Gesellschaft erforderliche fachliche Eignung haben.
 
-(2) Bei Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften, die nach § 10a Abs. 3 Satz 6 oder Satz 7 oder § 10b Abs. 3 Satz 8 als übergeordnetes Unternehmen bestimmt worden sind, kann die Bundesanstalt die Abberufung der Personen im Sinne des Absatzes 1 verlangen und ihnen die Ausübung ihrer Tätigkeit untersagen, wenn
+(2) Bei Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften, die nach § 10a Abs. 3 Satz 6 oder Satz 7 oder § 10a Absatz 3a Satz 6 oder 7 als übergeordnetes Unternehmen bestimmt worden sind, kann die Bundesanstalt die Abberufung der Personen im Sinne des Absatzes 1 verlangen und ihnen die Ausübung ihrer Tätigkeit untersagen, wenn
 
 1.  
 sie die Voraussetzungen nach Absatz 1 nicht erfüllen oder
 
 2.  
 sie vorsätzlich oder leichtfertig gegen die Bestimmung dieses Gesetzes, gegen die zur Durchführung dieses Gesetzes erlassenen Verordnungen oder gegen Anordnungen der Bundesanstalt verstoßen haben und trotz Verwarnung durch die Bundesanstalt dieses Verhalten fortsetzen.
+
+### § 2e Ausnahmen für gemischte Finanzholding-Gesellschaften
+
+(1) Unterliegt eine gemischte Finanzholding-Gesellschaft, insbesondere im Hinblick auf eine risikobasierte Beaufsichtigung, gleichwertigen Bestimmungen nach Maßgabe der Richtlinie 2006/48/EG, so kann die Bundesanstalt nach Konsultation der für die Beaufsichtigung von Tochterunternehmen zuständigen Stellen auf die gemischte Finanzholding-Gesellschaft nur die einschlägigen Bestimmungen der Richtlinie 2002/87/EG anwenden.
+
+(2) Unterliegt eine gemischte Finanzholding-Gesellschaft, insbesondere im Hinblick auf eine risikobasierte Beaufsichtigung, gleichwertigen Bestimmungen nach Maßgabe der Richtlinie 2006/48/EG und der Richtlinie 2009/138/EG, so kann die Bundesanstalt im Einvernehmen mit der für die Gruppenaufsicht im Versicherungswesen zuständigen Stelle auf die gemischte Finanzholding-Gesellschaft nur die Bestimmungen der Richtlinie 2006/48/EG in Bezug auf die am stärksten vertretene Finanzbranche im Sinne des § 8 Absatz 2 des Finanzkonglomerate-Aufsichtsgesetzes anwenden.
 
 ### § 3 Verbotene Geschäfte
 
@@ -1726,7 +1812,7 @@ dem Institut die Durchführung von sonstigen Finanztransaktionen untersagen.
 
 (5) Gegen eine Anordnung nach Absatz 1 kann das Institut oder ein anderer Beschwerter Widerspruch erheben.
 
-(6) Die Möglichkeit zur Anordnung von Beschränkungen des Kapital- und Zahlungsverkehrs nach § 2 Abs. 2 in Verbindung mit § 7 Abs. 1 des Außenwirtschaftsgesetzes bleibt unberührt.
+(6) Die Möglichkeit zur Anordnung von Beschränkungen des Kapital- und Zahlungsverkehrs nach § 4 Absatz 1 des Außenwirtschaftsgesetzes bleibt unberührt.
 
 ### § 7 Zusammenarbeit mit der Deutschen Bundesbank
 
@@ -1765,7 +1851,7 @@ den Erlaubnisantrag des Tochterunternehmens eines Unternehmens mit Sitz in einem
 (2) Die Bundesanstalt unterrichtet die Europäische Kommission über
 
 1.  
-die Mitteilung der Feststellung einer Gruppe von Unternehmen als Finanzkonglomerat nach § 51b Absatz 1 Satz 2,
+(weggefallen)
 
 2.  
 die Grundsätze, die sie im Einvernehmen mit den anderen zuständigen Stellen im Europäischen Wirtschaftsraum in Bezug auf die Überwachung von gruppeninternen Transaktionen und Risikokonzentrationen anwendet,
@@ -1774,12 +1860,14 @@ die Grundsätze, die sie im Einvernehmen mit den anderen zuständigen Stellen im
 die gewählte Vorgehensweise in den Fällen des § 53d Absatz 3,
 
 4.  
-die Freistellung einzelner Institutsgruppen und Finanzholding-Gruppen nach § 31 Absatz 4 Satz 1 oder 2 von der Anforderung des § 10 Absatz 1 Satz 1 zur Ermittlung der Eigenmittelausstattung auf zusammengefasster Basis und
+die Freistellung einzelner Institutsgruppen, Finanzholding-Gruppen und gemischter Finanzholding-Gruppen nach § 31 Absatz 4 Satz 1 oder 2 von der Anforderung des § 10 Absatz 1 Satz 1 zur Ermittlung der Eigenmittelausstattung auf zusammengefasster Basis und
 
 5.  
 das Verfahren zur Vermeidung der Umgehung der zusätzlichen Kapitalanforderungen bei Überschreitung der Gesamtbuch-Großkreditanforderungen.
 
-### § 7b Zusammenarbeit mit der Europäischen Bankenaufsichtsbehörde und der Europäischen Wertpapier- und Marktaufsichtsbehörde
+(3) Die Bundesanstalt übermittelt der Europäischen Kommission Verzeichnisse der Finanzholding-Gesellschaften oder gemischten Finanzholding-Gesellschaften, bei denen die Bundesanstalt die Aufsicht auf zusammengefasster Basis ausübt.
+
+### § 7b Zusammenarbeit mit der Europäischen Bankenaufsichtsbehörde, der Europäischen Wertpapier- und Marktaufsichtsbehörde und der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung
 
 (1) Die Bundesanstalt beteiligt sich nach Maßgabe
 
@@ -1805,13 +1893,21 @@ die in § 7a Absatz 1 Nummer 1 bis 4 genannten Sachverhalte.
 (3) Die Bundesanstalt unterrichtet die Europäische Bankenaufsichtsbehörde über
 
 1.  
-die Freistellung einzelner Institutsgruppen und Finanzholding-Gruppen nach § 31 Absatz 4 Satz 1 oder 2 von der Anforderung des § 10 Absatz 1 Satz 1 zur Ermittlung der Eigenmittelausstattung auf zusammengefasster Basis,
+die Freistellung einzelner Institutsgruppen, Finanzholding-Gruppen und gemischter Finanzholding-Gruppen nach § 31 Absatz 4 Satz 1 oder 2 von der Anforderung des § 10 Absatz 1 Satz 1 zur Ermittlung der Eigenmittelausstattung auf zusammengefasster Basis,
 
 2.  
-die gewählte Vorgehensweise in den Fällen des § 53d Absatz 3 und
+die gewählte Vorgehensweise in den Fällen des § 53d Absatz 3,
 
 3.  
-das Verfahren zur Vermeidung der Umgehung der zusätzlichen Kapitalanforderungen bei Überschreitung der Gesamtbuch-Großkreditanforderungen.
+das Verfahren zur Vermeidung der Umgehung der zusätzlichen Kapitalanforderungen bei Überschreitung der Gesamtbuch-Großkreditanforderungen und
+
+4.  
+Entscheidungen nach § 2e und
+
+5.  
+die Struktur von Institutsgruppen, Finanzholding-Gruppen oder gemischten Finanzholding-Gruppen, bei denen die Bundesanstalt die Aufsicht auf zusammengefasster Basis ausübt; dazu gehören insbesondere Informationen über die rechtliche und organisatorische Struktur sowie die Grundsätze einer ordnungsgemäßen Geschäftsführung der Gruppe.
+
+(3a) Die Bundesanstalt übermittelt der Europäischen Bankenaufsichtsbehörde Verzeichnisse im Sinne des § 7a Absatz 3.
 
 (4) Die Bundesanstalt meldet der Europäischen Wertpapier- und Marktaufsichtsbehörde
 
@@ -1820,6 +1916,8 @@ die Erteilung sowie das Erlöschen oder die Aufhebung einer Erlaubnis, sofern ei
 
 2.  
 den in § 7a Absatz 1 Nummer 5 genannten Sachverhalt.
+
+(5) Die Bundesanstalt unterrichtet die Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung über die Entscheidungen nach § 2e.
 
 ### § 7c Zusammenarbeit mit dem Europäischen Bankenausschuss
 
@@ -1831,7 +1929,7 @@ Die Bundesanstalt meldet dem Europäischen Bankenausschuss die Erteilung einer E
 
 (2) Werden gegen Inhaber oder Geschäftsleiter von Instituten sowie gegen Inhaber bedeutender Beteiligungen von Instituten oder deren gesetzliche oder satzungsmäßige Vertreter oder persönlich haftende Gesellschafter oder gegen Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen, Steuerstrafverfahren eingeleitet oder unterbleibt dies auf Grund einer Selbstanzeige nach § 371 der Abgabenordnung, so steht § 30 der Abgabenordnung Mitteilungen an die Bundesanstalt über das Verfahren und über den zugrunde liegenden Sachverhalt nicht entgegen; das Gleiche gilt, wenn sich das Verfahren gegen Personen richtet, die das Vergehen als Bedienstete eines Instituts oder eines Inhabers einer bedeutenden Beteiligung an einem Institut begangen haben.
 
-(3) Die Bundesanstalt und, soweit sie im Rahmen dieses Gesetzes tätig wird, die Deutsche Bundesbank arbeiten bei der Aufsicht über Institute, die in einem anderen Staat des Europäischen Wirtschaftsraums Bankgeschäfte betreiben oder Finanzdienstleistungen erbringen, sowie bei der Aufsicht über Institutsgruppen oder Finanzholding-Gruppen im Sinne des § 10a Abs. 1 bis 5 mit den zuständigen Stellen im Europäischen Wirtschaftsraum sowie der Europäischen Bankenaufsichtsbehörde und der Europäischen Wertpapier- und Marktaufsichtsbehörde zusammen. Bei der Beurteilung nach § 2c Abs. 1a und 1b arbeitet die Bundesanstalt mit den zuständigen Stellen im Europäischen Wirtschaftsraum zusammen, wenn der Anzeigepflichtige
+(3) Die Bundesanstalt und, soweit sie im Rahmen dieses Gesetzes tätig wird, die Deutsche Bundesbank arbeiten bei der Aufsicht über Institute, die in einem anderen Staat des Europäischen Wirtschaftsraums Bankgeschäfte betreiben oder Finanzdienstleistungen erbringen, sowie bei der Aufsicht über Institutsgruppen, Finanzholding-Gruppen oder gemischte Finanzholding-Gruppen im Sinne des § 10a Abs. 1 bis 5 mit den zuständigen Stellen im Europäischen Wirtschaftsraum sowie der Europäischen Bankenaufsichtsbehörde und der Europäischen Wertpapier- und Marktaufsichtsbehörde zusammen. Bei der Beurteilung nach § 2c Abs. 1a und 1b arbeitet die Bundesanstalt mit den zuständigen Stellen im Europäischen Wirtschaftsraum zusammen, wenn der Anzeigepflichtige
 
 1.  
 ein Einlagenkreditinstitut oder ein Wertpapierhandelsunternehmen, ein Erst- oder Rückversicherungsunternehmen oder eine Verwaltungsgesellschaft im Sinne des Artikels 2 Absatz 1 Buchstabe b der Richtlinie 2009/65/EG (OGAW-Verwaltungsgesellschaft) ist, das beziehungsweise die in einem anderen Mitgliedstaat oder anderen Sektor als dem, in dem der Erwerb beabsichtigt wird, zugelassen ist;
@@ -1845,7 +1943,7 @@ eine natürliche oder juristische Person ist, die ein Einlagenkreditinstitut ode
 Vorbehaltlich des § 4b Abs. 1 in Verbindung mit § 15 Abs. 1 des Bundesdatenschutzgesetzes tauschen sie mit ihnen alle zweckdienlichen und grundlegenden Informationen aus, die für die Durchführung der Aufsicht erforderlich sind. Grundlegende Informationen können auch ohne entsprechende Anfrage der zuständigen Stelle weitergegeben werden. Als grundlegend in diesem Sinne gelten alle Informationen, die Einfluss auf die Beurteilung der Finanzlage eines Instituts in dem betreffenden Staat des Europäischen Wirtschaftsraums haben können. Hierzu gehören insbesondere:
 
 1.  
-Ermittlung der Gruppenstruktur unter Einbeziehung aller wesentlichen Institute der Gruppe sowie der jeweils für die Aufsicht zuständigen Stellen,
+die Offenlegung der rechtlichen und organisatorischen Struktur sowie die Grundlagen einer ordnungsgemäßen Geschäftsführung der Gruppe, einschließlich aller beaufsichtigten Unternehmen, nichtbeaufsichtigten Unternehmen, nichtbeaufsichtigten Tochtergesellschaften und bedeutender Zweigniederlassungen der Gruppe, sowie Ermittlung der jeweils für die Aufsicht zuständigen Stellen,
 
 2.  
 Verfahren für die Sammlung und Überprüfung von Informationen von gruppenangehörigen Instituten,
@@ -1868,7 +1966,7 @@ auf Grund desselben Sachverhaltes gegen die betreffenden Personen bereits ein ge
 
 Kommt die Bundesanstalt einem entsprechenden Ersuchen nicht nach oder macht sie von ihrem Recht nach Satz 1 Gebrauch, teilt sie dies der ersuchenden Stelle unverzüglich mit und legt die Gründe dar; im Falle einer Verweigerung nach Satz 3 Nr. 2 sind genaue Informationen über das gerichtliche Verfahren oder die unanfechtbare Entscheidung zu übermitteln.
 
-(4) In den Fällen, in denen die Bundesanstalt für die Aufsicht über EU-Mutterinstitute oder Institute, die von einer EU-Mutterfinanzholding-Gesellschaft kontrolliert werden, zuständig ist, übermittelt sie den zuständigen Stellen in den anderen Staaten des Europäischen Wirtschaftsraums, die für die Aufsicht über Tochterunternehmen dieser Institute zuständig sind, auf Anfrage alle zweckdienlichen Informationen. Als zweckdienlich in diesem Sinne gelten alle Informationen, die die Beurteilung der finanziellen Solidität eines Instituts in einem anderen Staat des Europäischen Wirtschaftsraums wesentlich beeinflussen können. Der Umfang der Informationspflicht richtet sich insbesondere nach der Bedeutung des Tochterunternehmens für das Finanzsystem des betreffenden Staates.
+(4) In den Fällen, in denen die Bundesanstalt für die Aufsicht über EU-Mutterinstitute oder Institute, die von einer EU-Mutterfinanzholding-Gesellschaft oder einer gemischten EU-Mutterfinanzholding-Gesellschaft kontrolliert werden, zuständig ist, übermittelt sie den zuständigen Stellen in den anderen Staaten des Europäischen Wirtschaftsraums, die für die Aufsicht über Tochterunternehmen dieser Institute zuständig sind, auf Anfrage alle zweckdienlichen Informationen. Als zweckdienlich in diesem Sinne gelten alle Informationen, die die Beurteilung der finanziellen Solidität eines Instituts in einem anderen Staat des Europäischen Wirtschaftsraums wesentlich beeinflussen können. Der Umfang der Informationspflicht richtet sich insbesondere nach der Bedeutung des Tochterunternehmens für das Finanzsystem des betreffenden Staates.
 
 (5) Mitteilungen der zuständigen Stellen eines anderen Staates dürfen nur für folgende Zwecke verwendet werden:
 
@@ -1897,7 +1995,7 @@ schwerwiegende oder außergewöhnliche bankaufsichtliche Maßnahmen. In diesen F
 
 Die Bundesanstalt kann bei Gefahr im Verzug von einer vorherigen Anhörung der zuständigen Stellen absehen. Das Gleiche gilt, wenn die vorherige Anhörung die Wirksamkeit der Maßnahme gefährden könnte; in diesen Fällen informiert die Bundesanstalt die zuständigen Stellen unverzüglich nach Erlass oder Durchführung der Maßnahme.
 
-(7) Ist die Bundesanstalt für die Aufsicht über eine Institutsgruppe oder Finanzholding-Gruppe auf zusammengefasster Basis zuständig und tritt eine Krisensituation auf, insbesondere bei widrigen Entwicklungen an den Finanzmärkten, die eine Gefahr für die Marktliquidität und die Stabilität des Finanzsystems eines Staates innerhalb des Europäischen Wirtschaftsraums darstellt, in dem eines der gruppenangehörigen Unternehmen seinen Sitz hat oder eine Zweigniederlassung als bedeutend angesehen wurde, hat die Bundesanstalt unverzüglich das Bundesministerium der Finanzen, die Europäische Bankenaufsichtsbehörde, den Europäischen Ausschuss für Systemrisiken sowie die Deutsche Bundesbank zu unterrichten und ihnen alle für die Durchführung ihrer Aufgaben wesentlichen Informationen zu übermitteln. Erhält die Bundesanstalt in sonstigen Fällen Kenntnis von einer Krisensituation im Sinne des Satzes 1, hat sie unverzüglich die für die Aufsicht auf zusammengefasster Basis über die betroffenen Institutsgruppen oder Finanzholding-Gruppen zuständigen Stellen und die Europäische Bankenaufsichtsbehörde zu unterrichten. § 9 bleibt unberührt.
+(7) Ist die Bundesanstalt für die Aufsicht über eine Institutsgruppe, Finanzholding-Gruppe oder gemischte Finanzholding-Gruppe auf zusammengefasster Basis zuständig und tritt eine Krisensituation auf, insbesondere bei widrigen Entwicklungen an den Finanzmärkten, die eine Gefahr für die Marktliquidität und die Stabilität des Finanzsystems eines Staates innerhalb des Europäischen Wirtschaftsraums darstellt, in dem eines der gruppenangehörigen Unternehmen seinen Sitz hat oder eine Zweigniederlassung als bedeutend angesehen wurde, hat die Bundesanstalt unverzüglich das Bundesministerium der Finanzen, die Europäische Bankenaufsichtsbehörde, den Europäischen Ausschuss für Systemrisiken sowie die Deutsche Bundesbank zu unterrichten und ihnen alle für die Durchführung ihrer Aufgaben wesentlichen Informationen zu übermitteln. Erhält die Bundesanstalt in sonstigen Fällen Kenntnis von einer Krisensituation im Sinne des Satzes 1, hat sie unverzüglich die für die Aufsicht auf zusammengefasster Basis über die betroffenen Institutsgruppen, Finanzholding-Gruppen oder gemischte Finanzholding-Gruppen zuständigen Stellen und die Europäische Bankenaufsichtsbehörde zu unterrichten. § 9 bleibt unberührt.
 
 (8) Die Bundesanstalt teilt den zuständigen Stellen des Aufnahmestaats Maßnahmen mit, die sie ergreifen wird, um Verstöße eines Instituts gegen Rechtsvorschriften des Aufnahmestaats zu beenden, über die sie durch die zuständigen Stellen des Aufnahmestaats unterrichtet worden ist.
 
@@ -1905,112 +2003,50 @@ Die Bundesanstalt kann bei Gefahr im Verzug von einer vorherigen Anhörung der z
 
 ### § 8a Besondere Aufgaben bei der Aufsicht auf zusammengefasster Basis
 
-(1) Ist die Bundesanstalt für die Aufsicht auf zusammengefasster Basis über eine Institutsgruppe oder eine Finanzholding-Gruppe im Sinne des § 10a Abs. 1 bis 5 zuständig, an deren Spitze ein EU-Mutterinstitut oder eine EU-Mutterfinanzholding-Gesellschaft steht, obliegen ihr neben den sonstigen, sich aus diesem Gesetz ergebenden Aufgaben folgende Aufgaben:
+(1) Ist die Bundesanstalt für die Aufsicht auf zusammengefasster Basis über eine Institutsgruppe, eine Finanzholding-Gruppe oder eine gemischte Finanzholding-Gruppe im Sinne des § 10a Absatz 1 bis 5 zuständig, an deren Spitze ein EU-Mutterinstitut, eine EU-Mutterfinanzholding-Gesellschaft oder eine gemischte EU-Mutterfinanzholding-Gesellschaft steht, obliegen ihr neben den sonstigen, sich aus diesem Gesetz ergebenden Aufgaben folgende Aufgaben:
 
 1.  
-Koordinierung der Sammlung und Verbreitung zweckdienlicher und grundlegender Informationen nach § 8 Abs. 3 im Rahmen der laufenden Aufsicht sowie in Krisensituationen und
+Koordinierung der Sammlung und Verbreitung zweckdienlicher und grundlegender Informationen nach § 8 Absatz 3 im Rahmen der laufenden Aufsicht und in Krisensituationen; dazu gehören auch die Sammlung und Weitergabe von Informationen über die rechtliche und organisatorische Struktur sowie die Sammlung und Weitergabe der Grundsätze ordnungsgemäßer Geschäftsführung;
 
 2.  
-Planung und Koordinierung der Aufsichtstätigkeiten im Rahmen der laufenden Aufsicht sowie in Krisensituationen, insbesondere bei widrigen Entwicklungen bei Instituten oder an den Finanzmärkten. Die Bundesanstalt und, soweit sie im Rahmen dieses Gesetzes tätig wird, die Deutsche Bundesbank arbeiten hierbei soweit erforderlich mit den jeweils zuständigen Stellen der anderen Staaten des Europäischen Wirtschaftsraums zusammen. Im Rahmen der laufenden Aufsicht umfasst die Zusammenarbeit insbesondere die laufende Überwachung des Risikomanagements der Institute, grenzüberschreitende Prüfungen, Maßnahmen bei organisatorischen Mängeln nach § 45b, die Offenlegung durch die Institute und die in Anhang V der Bankenrichtlinie genannten technischen Vorgaben für die Organisation und Behandlung von Risiken. In Krisensituationen, insbesondere bei widrigen Entwicklungen in Instituten oder an den Finanzmärkten, schließt die Zusammenarbeit die Anordnung von Maßnahmen nach den §§ 45 bis 46b, die Ausarbeitung gemeinsamer Bewertungen, die Durchführung von Notfallkonzepten und die Kommunikation mit der Öffentlichkeit ein.
+Planung und Koordinierung der Aufsichtstätigkeiten im Rahmen der laufenden Aufsicht und in Krisensituationen, insbesondere bei widrigen Entwicklungen bei Instituten oder an den Finanzmärkten; die Bundesanstalt und, soweit sie im Rahmen dieses Gesetzes tätig wird, die Deutsche Bundesbank arbeiten hierbei, soweit erforderlich, mit den jeweils zuständigen Stellen der anderen Staaten des Europäischen Wirtschaftsraums zusammen; im Rahmen der laufenden Aufsicht umfasst die Zusammenarbeit insbesondere die laufende Überwachung des Risikomanagements der Institute, grenzüberschreitende Prüfungen, Maßnahmen bei organisatorischen Mängeln nach § 45b, die Offenlegung durch die Institute und die in Anhang V der Bankenrichtlinie genannten technischen Vorgaben für die Organisation und Behandlung von Risiken; in Krisensituationen, insbesondere bei widrigen Entwicklungen in Instituten oder an den Finanzmärkten, schließt die Zusammenarbeit die Anordnung von Maßnahmen nach den §§ 45 bis 46b, die Ausarbeitung gemeinsamer Bewertungen, die Durchführung von Notfallkonzepten und die Kommunikation mit der Öffentlichkeit ein;
+
+3.  
+die Übersendung der Verzeichnisse im Sinne des § 7a Absatz 3 an die jeweils zuständigen Stellen der anderen Staaten des Europäischen Wirtschaftsraums.
 
 Arbeiten die zuständigen Stellen der anderen Staaten des Europäischen Wirtschaftsraums mit der Bundesanstalt nicht in dem Umfang zusammen, der zur Erfüllung der Aufgaben nach Satz 1 erforderlich ist, kann die Bundesanstalt nach Maßgabe des Artikels 19 der Verordnung (EU) Nr. 1093/2010 die Europäische Bankenaufsichtsbehörde um Hilfe ersuchen.
 
-(2) Die Bundesanstalt und die zuständigen Stellen im Europäischen Wirtschaftsraum können in Kooperationsvereinbarungen die näheren Bestimmungen für die Beaufsichtigung von Institutsgruppen oder Finanzholding-Gruppen im Sinne von § 10a Abs. 1 bis 5 regeln. In diesen Vereinbarungen können der jeweils für die Aufsicht auf zusammengefasster Basis zuständigen Stelle weitere Aufgaben übertragen und Verfahren für die Beschlussfassung und die Zusammenarbeit mit anderen zuständigen Behörden festgelegt werden.
+(2) Die Bundesanstalt und die zuständigen Stellen im Europäischen Wirtschaftsraum können in Kooperationsvereinbarungen die näheren Bestimmungen für die Beaufsichtigung von Institutsgruppen, Finanzholding-Gruppen oder gemischte Finanzholding-Gruppen im Sinne von § 10a Abs. 1 bis 5 regeln. In diesen Vereinbarungen können der jeweils für die Aufsicht auf zusammengefasster Basis zuständigen Stelle weitere Aufgaben übertragen und Verfahren für die Beschlussfassung und die Zusammenarbeit mit anderen zuständigen Behörden festgelegt werden.
 
-(3) Ist die Bundesanstalt für die Beaufsichtigung einer Institutsgruppe oder einer Finanzholding-Gruppe auf zusammengefasster Basis zuständig, an deren Spitze ein EU-Mutterinstitut oder eine EU-Mutterfinanzholding-Gesellschaft steht, soll sie mit den für die Beaufsichtigung der gruppenangehörigen Unternehmen zuständigen Stellen im Europäischen Wirtschaftsraum eine gemeinsame Entscheidung treffen, ob die Eigenmittelausstattung der Gruppe auf zusammengefasster Basis ihrer Finanzlage und ihrem Risikoprofil angemessen ist und welche zusätzliche Eigenmittelanforderungen für jedes gruppenangehörige Unternehmen und auf zusammengefasster Basis erforderlich sind. Die Entscheidung ist schriftlich umfassend zu begründen und hat angemessen die von den jeweils zuständigen Stellen durchgeführte Risikobewertung der Tochterunternehmen zu berücksichtigen. Die Bundesanstalt stellt die Entscheidung dem übergeordneten Unternehmen der Gruppe zu. Stimmen nicht alle für die Beaufsichtigung der gruppenangehörigen Unternehmen zuständigen Stellen im Europäischen Wirtschaftsraum der Entscheidung der Bundesanstalt zu, beteiligt die Bundesanstalt von sich aus oder auf Antrag einer der anderen zuständigen Stellen die Europäische Bankenaufsichtsbehörde. Deren Stellungnahme ist im weiteren Verfahren zu berücksichtigen; erhebliche Abweichungen hiervon sind in der Entscheidung zu begründen.
+(3) Ist die Bundesanstalt für die Beaufsichtigung einer Institutsgruppe, einer Finanzholding-Gruppe oder einer gemischten Finanzholding-Gruppe auf zusammengefasster Basis zuständig, an deren Spitze ein EU-Mutterinstitut, eine EU-Mutterfinanzholding-Gesellschaft oder eine gemischte EU-Mutterfinanzholding-Gesellschaft steht, so soll sie mit den für die Beaufsichtigung der gruppenangehörigen Unternehmen zuständigen Stellen im Europäischen Wirtschaftsraum eine gemeinsame Entscheidung treffen, 1. ob die Eigenmittelausstattung der Gruppe auf zusammengefasster Basis ihrer Finanzlage und ihrem Risikoprofil angemessen ist und 2. welche zusätzlichen Eigenmittelanforderungen für jedes gruppenangehörige Unternehmen und auf zusammengefasster Basis erforderlich sind. Die Entscheidung ist schriftlich umfassend zu begründen und hat angemessen die von den jeweils zuständigen Stellen durchgeführte Risikobewertung der Tochterunternehmen zu berücksichtigen. Die Bundesanstalt stellt die Entscheidung dem übergeordneten Unternehmen der Gruppe zu. Stimmen nicht alle für die Beaufsichtigung der gruppenangehörigen Unternehmen zuständigen Stellen im Europäischen Wirtschaftsraum der Entscheidung der Bundesanstalt zu, beteiligt die Bundesanstalt von sich aus oder auf Antrag einer der anderen zuständigen Stellen die Europäische Bankenaufsichtsbehörde. Deren Stellungnahme ist im weiteren Verfahren zu berücksichtigen; erhebliche Abweichungen hiervon sind in der Entscheidung zu begründen.
 
-(4) Kommt innerhalb von vier Monaten nach Übermittlung einer Risikobewertung der Gruppe an die zuständigen Stellen keine gemeinsame Entscheidung zustande, entscheidet die Bundesanstalt allein, ob die Eigenmittelausstattung der Institutsgruppe oder Finanzholding-Gruppe auf zusammengefasster Basis sowie die Eigenmittelausstattung der gruppenangehörigen Unternehmen, die sie auf Einzelbasis oder unterkonsolidierter Basis beaufsichtigt, der Finanzlage und dem Risikoprofil angemessen sind oder ob zusätzliche Eigenmittelanforderungen erforderlich sind und gibt die Entscheidung dem übergeordneten Unternehmen der Gruppe bekannt. Dabei berücksichtigt die Bundesanstalt in angemessener Weise die von den jeweils zuständigen Stellen durchgeführten Risikobewertungen der Tochterunternehmen. Hat die Bundesanstalt oder eine zuständige Stelle in einem anderen Staat des Europäischen Wirtschaftsraums bis zum Ablauf der Viermonatsfrist nach Satz 1 nach Maßgabe des Artikels 19 der Verordnung (EU) Nr. 1093/2010 die Europäische Bankenaufsichtsbehörde um Hilfe ersucht, stellt die Bundesanstalt ihre Entscheidung nach Satz 1 bis zu einem Beschluss der Europäischen Bankenaufsichtsbehörde gemäß Artikel 19 Absatz 3 der Verordnung (EU) Nr. 1093/2010 zurück und entscheidet dann in Übereinstimmung mit einem solchen Beschluss. Nach Ablauf der Viermonatsfrist oder nachdem eine gemeinsame Entscheidung getroffen wurde, kann die Europäische Bankenaufsichtsbehörde nicht mehr um Hilfe ersucht werden. Hinsichtlich der Angemessenheit der Eigenmittelausstattung und der Notwendigkeit von zusätzlichen Eigenmittelanforderungen der gruppenangehörigen Unternehmen, die nicht von der Bundesanstalt auf Einzelbasis oder unterkonsolidierte Basis beaufsichtigt werden, übermittelt die Bundesanstalt ihre Auffassung an die jeweils zuständige Stelle. Erhält die Bundesanstalt von einer anderen zuständigen Stelle eine begründete Entscheidung, die der Risikobewertung und den Auffassungen Rechnung trägt, die die anderen zuständigen Stellen innerhalb des Zeitraums von vier Monaten durchgeführt und geäußert haben, übermittelt sie dieses Dokument allen betroffenen zuständigen Stellen sowie dem übergeordneten Unternehmen der Gruppe.
+(4) Kommt innerhalb von vier Monaten nach Übermittlung einer Risikobewertung der Gruppe an die zuständigen Stellen keine gemeinsame Entscheidung zustande, entscheidet die Bundesanstalt allein, ob die Eigenmittelausstattung der Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe auf zusammengefasster Basis sowie die Eigenmittelausstattung der gruppenangehörigen Unternehmen, die sie auf Einzelbasis oder unterkonsolidierter Basis beaufsichtigt, der Finanzlage und dem Risikoprofil angemessen sind oder ob zusätzliche Eigenmittelanforderungen erforderlich sind und gibt die Entscheidung dem übergeordneten Unternehmen der Gruppe bekannt. Dabei berücksichtigt die Bundesanstalt in angemessener Weise die von den jeweils zuständigen Stellen durchgeführten Risikobewertungen der Tochterunternehmen. Hat die Bundesanstalt oder eine zuständige Stelle in einem anderen Staat des Europäischen Wirtschaftsraums bis zum Ablauf der Viermonatsfrist nach Satz 1 nach Maßgabe des Artikels 19 der Verordnung (EU) Nr. 1093/2010 die Europäische Bankenaufsichtsbehörde um Hilfe ersucht, stellt die Bundesanstalt ihre Entscheidung nach Satz 1 bis zu einem Beschluss der Europäischen Bankenaufsichtsbehörde gemäß Artikel 19 Absatz 3 der Verordnung (EU) Nr. 1093/2010 zurück und entscheidet dann in Übereinstimmung mit einem solchen Beschluss. Nach Ablauf der Viermonatsfrist oder nachdem eine gemeinsame Entscheidung getroffen wurde, kann die Europäische Bankenaufsichtsbehörde nicht mehr um Hilfe ersucht werden. Hinsichtlich der Angemessenheit der Eigenmittelausstattung und der Notwendigkeit von zusätzlichen Eigenmittelanforderungen der gruppenangehörigen Unternehmen, die nicht von der Bundesanstalt auf Einzelbasis oder unterkonsolidierte Basis beaufsichtigt werden, übermittelt die Bundesanstalt ihre Auffassung an die jeweils zuständige Stelle. Erhält die Bundesanstalt von einer anderen zuständigen Stelle eine begründete Entscheidung, die der Risikobewertung und den Auffassungen Rechnung trägt, die die anderen zuständigen Stellen innerhalb des Zeitraums von vier Monaten durchgeführt und geäußert haben, übermittelt sie dieses Dokument allen betroffenen zuständigen Stellen sowie dem übergeordneten Unternehmen der Gruppe.
 
 (5) Entscheidungen nach den Absätzen 3 und 4 sind in der Regel jährlich und ausnahmsweise dann unterjährig zu aktualisieren, wenn eine für die Beaufsichtigung eines gruppenangehörigen Unternehmens zuständige Stelle dies bei der Bundesanstalt schriftlich und umfassend begründet beantragt. In diesem Fall kann die Aktualisierung allein zwischen der Bundesanstalt und der zuständigen Stelle, die den Antrag gestellt hat, abgestimmt werden.
 
-### § 8b Zusammenarbeit bei der Beaufsichtigung von Finanzkonglomeraten
+### § 8b (weggefallen)
 
-(1) Die Bundesanstalt und, soweit sie im Rahmen dieses Gesetzes tätig wird, die Deutsche Bundesbank arbeiten bei der Ermittlung und Beaufsichtigung von Finanzkonglomeraten nach Maßgabe der Richtlinie 2002/87/EG des Europäischen Parlaments und des Rates vom 16. Dezember 2002 über die zusätzliche Beaufsichtigung der Kreditinstitute, Versicherungsunternehmen und Wertpapierfirmen eines Finanzkonglomerats und zur Änderung der Richtlinien 73/239/EWG, 79/267/EWG, 92/49/EWG, 92/96/EWG, 93/6/EWG und 93/22/EWG des Rates und der Richtlinien 98/78/EG und 2000/12/EG des Europäischen Parlaments und des Rates (ABl. EU 2003 Nr. L 35 S. 1) mit den zuständigen Stellen der anderen Staaten des Europäischen Wirtschaftsraums und dem Gemeinsamen Ausschuss der Europäischen Aufsichtsbehörden zusammen; § 8 Abs. 5 gilt entsprechend. Gehört ein Einlagenkreditinstitut, Wertpapierhandelsunternehmen oder eine Kapitalanlagegesellschaft einer grenzüberschreitend tätigen Unternehmensgruppe an, die ein Finanzkonglomerat sein könnte, das noch nicht nach Maßgabe der Richtlinie 2002/87/EG als solches eingestuft wurde, teilt die Bundesanstalt dies den zuständigen Stellen der anderen betroffenen Staaten des Europäischen Wirtschaftsraums mit.
+### § 8c Übertragung der Zuständigkeit für die Aufsicht über Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gruppenangehörige Institute
 
-(2) Die Bundesanstalt bestimmt mit den zuständigen Stellen der anderen betroffenen Staaten des Europäischen Wirtschaftsraums nach Maßgabe des Artikels 10 der Richtlinie 2002/87/EG den nach diesem Gesetz für die zusätzliche Beaufsichtigung des Finanzkonglomerats zuständigen Koordinator. Ist die Bundesanstalt Koordinator, obliegen ihr nach Maßgabe des Artikels 11 der Richtlinie 2002/87/EG insbesondere folgende Aufgaben:
-
-1.  
-Koordinierung der Sammlung und Verbreitung zweckdienlicher und grundlegender Informationen bei der laufenden Beaufsichtigung sowie in Krisensituationen;
-
-2.  
-generelle Aufsicht und Beurteilung der Finanzlage eines Finanzkonglomerats;
-
-3.  
-Beurteilung der Einhaltung der Vorschriften über die Eigenmittelausstattung und der Bestimmungen über Risikokonzentrationen und gruppeninterne Transaktionen nach Maßgabe der Artikel 6 bis 8 der Richtlinie 2002/87/EG;
-
-4.  
-Beurteilung der Struktur, Organisation und internen Kontrollsysteme eines Finanzkonglomerats nach Maßgabe des Artikels 9 der Richtlinie 2002/87/EG;
-
-5.  
-Planung und Koordinierung der Aufsichtstätigkeiten bei der laufenden Beaufsichtigung sowie in Krisensituationen in Zusammenarbeit mit den jeweils zuständigen Stellen der anderen betroffenen Staaten des Europäischen Wirtschaftsraums und
-
-6.  
-sonstige Aufgaben, Maßnahmen und Entscheidungen, die der Bundesanstalt durch die Richtlinie 2002/87/EG oder in Anwendung ihrer Bestimmungen zugewiesen werden.Die Bundesanstalt als Koordinator
-
-1.  
-unterrichtet die zuständigen Stellen der anderen betroffenen Staaten des Europäischen Wirtschaftsraums und den Gemeinsamen Ausschuss der Europäischen Aufsichtsbehörden über die Mitteilung der Feststellung einer Gruppe von Unternehmen als Finanzkonglomerat nach § 51b Abs. 1;
-
-2.  
-hört die zuständigen Stellen der anderen betroffenen Staaten des Europäischen Wirtschaftsraums vorab an
-
-a)  
-bei Entscheidungen nach § 10b Abs. 3 Satz 8, auch in Verbindung mit § 13d Abs. 1, und § 53d;
-
-b)  
-bei Befreiungen nach § 31 Abs. 5 Satz 3; in dringenden Fällen kann die Bundesanstalt von der vorherigen Anhörung absehen;
-
-c)  
-vor Maßnahmen nach § 10b Abs. 5, § 13d Abs. 4 Satz 5, § 45 Absatz 4 und § 45a Abs. 1 Satz 2, sofern dies für deren Aufsichtstätigkeit von Bedeutung ist; in dringenden Fällen oder bei Gefahr im Verzug kann die Bundesanstalt von der vorherigen Anhörung absehen. Sie hat die zuständigen Stellen der betroffenen Staaten des Europäischen Wirtschaftsraums hiervon unverzüglich zu unterrichten;
-
-3.  
-unterbreitet den zuständigen Stellen der anderen betroffenen Staaten des Europäischen Wirtschaftsraums Vorschläge für Entscheidungen zur
-
-a)  
-Nichtberücksichtigung von konglomeratsangehörigen Unternehmen bei der Berechnung der Schwellenwerte nach § 51a Abs. 4;
-
-b)  
-Aufhebung der Feststellung einer Unternehmensgruppe als Finanzkonglomerat und eines Unternehmens als übergeordnetes Finanzkonglomeratsunternehmen nach § 51b Abs. 3;
-
-c)  
-Befreiungen nach § 51c Nr. 2.
-
-(3) In den Fällen des § 8d Abs. 2, § 10b Abs. 4, § 51a Abs. 4 und 6 Satz 4, § 51b Abs. 3 und § 51c entscheidet die Bundesanstalt im Einvernehmen mit den zuständigen Stellen der anderen betroffenen Staaten des Europäischen Wirtschaftsraums. Zuständige Stellen im Sinne des Satzes 1 sowie des Absatzes 2 Satz 3 Nr. 2 Buchstabe a, b und Nr. 3 sind nur die relevanten zuständigen Behörden. Relevante zuständige Behörden sind der Koordinator nach Absatz 2 Satz 1 und die anderen in Artikel 2 Nr. 17 der Richtlinie 2002/87/EG als relevante zuständige Behörden definierten oder im dort beschriebenen Verfahren bestimmten Stellen.
-
-(4) Die näheren Bestimmungen über die Zusammenarbeit bei der Beaufsichtigung von Finanzkonglomeraten regelt die Bundesanstalt in Kooperationsvereinbarungen mit den zuständigen Stellen der anderen betroffenen Staaten des Europäischen Wirtschaftsraums.
-
-(5) Die Bundesanstalt stellt dem Gemeinsamen Ausschuss der Europäischen Aufsichtsbehörden gemäß dem in Artikel 35 der Verordnung (EU) Nr. 1093/2010 vorgesehenen Verfahren unverzüglich alle zur Erfüllung seiner Aufgaben benötigten Informationen zur Verfügung.
-
-### § 8c Übertragung der Zuständigkeit für die Aufsicht über Institutsgruppen, Finanzholding-Gruppen und gruppenangehörige Institute
-
-(1) Die Bundesanstalt kann von der Beaufsichtigung einer Institutsgruppe oder Finanzholding-Gruppe im Sinne des § 10a Abs. 1 bis 5 absehen und die Aufsicht auf zusammengefasster Basis widerruflich auf eine andere zuständige Stelle innerhalb des Europäischen Wirtschaftsraums übertragen, wenn die Beaufsichtigung durch die Bundesanstalt im Hinblick auf die betreffenden Institute und die Bedeutung ihrer Geschäftstätigkeit in dem anderen Staat unangemessen wäre und wenn bei
+(1) Die Bundesanstalt kann von der Beaufsichtigung einer Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe im Sinne des § 10a Abs. 1 bis 5 absehen und die Aufsicht auf zusammengefasster Basis widerruflich auf eine andere zuständige Stelle innerhalb des Europäischen Wirtschaftsraums übertragen, wenn die Beaufsichtigung durch die Bundesanstalt im Hinblick auf die betreffenden Institute und die Bedeutung ihrer Geschäftstätigkeit in dem anderen Staat unangemessen wäre und wenn bei
 
 1.  
 Institutsgruppen das übergeordnete Unternehmen der Gruppe Tochterunternehmen eines Einlagenkreditinstituts oder eines Wertpapierhandelsunternehmens mit Sitz in dem anderen Staat des Europäischen Wirtschaftsraums und dort in die Beaufsichtigung auf zusammengefasster Basis gemäß der Bankenrichtlinie einbezogen ist oder
 
 2.  
-Finanzholding-Gruppen diese von den zuständigen Stellen des anderen Staates des Europäischen Wirtschaftsraums auf zusammengefasster Basis gemäß der Bankenrichtlinie beaufsichtigt werden.
+Finanzholding-Gruppen oder gemischte Finanzholding-Gruppen diese von den zuständigen Stellen des anderen Staates des Europäischen Wirtschaftsraums auf zusammengefasster Basis gemäß der Bankenrichtlinie beaufsichtigt werden.
 
 Die Bundesanstalt stellt in diesen Fällen das übergeordnete Unternehmen widerruflich von den Vorschriften dieses Gesetzes über die Beaufsichtigung auf zusammengefasster Basis frei. Vor der Freistellung und der Übertragung der Zuständigkeit ist das übergeordnete Unternehmen anzuhören. Die Europäische Kommission und die Europäische Bankenaufsichtsbehörde sind über das Bestehen und den Inhalt dieser Vereinbarungen zu unterrichten.
 
-(2) Übernimmt die Bundesanstalt auf Grund einer Übereinkunft mit einer zuständigen Stelle innerhalb des Europäischen Wirtschaftsraums die Aufsicht auf zusammengefasster Basis über eine Institutsgruppe oder eine Finanzholding-Gruppe, kann sie ein Institut der Gruppe mit Sitz im Inland als übergeordnetes Unternehmen bestimmen. § 10a gilt entsprechend.
+(2) Übernimmt die Bundesanstalt auf Grund einer Übereinkunft mit einer zuständigen Stelle innerhalb des Europäischen Wirtschaftsraums die Aufsicht auf zusammengefasster Basis über eine Institutsgruppe, eine Finanzholding-Gruppe oder eine gemischte Finanzholding-Gruppe, kann sie ein Institut der Gruppe mit Sitz im Inland als übergeordnetes Unternehmen bestimmen. § 10a gilt entsprechend.
 
 (3) Die Bundesanstalt kann nach Maßgabe des Artikels 28 der Verordnung (EU) Nr. 1093/2010 die Zuständigkeit für die Beaufsichtigung eines Instituts, für dessen Zulassung sie zuständig ist, widerruflich auf eine andere zuständige Stelle innerhalb des Europäischen Wirtschaftsraums übertragen, wenn das Institut Tochterunternehmen eines Instituts ist, für dessen Zulassung und Beaufsichtigung diese zuständige Stelle nach Maßgabe der Bankenrichtlinie zuständig ist. Vor der Übertragung der Zuständigkeit ist dieses Institut anzuhören. Die Europäische Bankenaufsichtsbehörde ist über das Bestehen und den Inhalt dieser Vereinbarungen zu unterrichten.
 
-### § 8d Zuständigkeit für die zusätzliche Beaufsichtigung auf Konglomeratsebene
-
-(1) Die Bundesanstalt kann von der Beaufsichtigung eines Finanzkonglomerats absehen und das übergeordnete Finanzkonglomeratsunternehmen von den Vorschriften dieses Gesetzes über die Beaufsichtigung auf Konglomeratsebene widerruflich freistellen, wenn
-
-1.  
-das Finanzkonglomerat einem anderen Finanzkonglomerat nachgeordnet ist, dessen übergeordnetes Finanzkonglomeratsunternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums dort in die zusätzliche Beaufsichtigung auf Konglomeratsebene gemäß der Richtlinie 2002/87/EG einbezogen ist, oder
-
-2.  
-dies unter Berücksichtigung der Struktur des Finanzkonglomerats und des relativen Gewichts seiner Tätigkeiten in verschiedenen Staaten des Europäischen Wirtschaftsraums angemessen ist; dem übergeordneten Finanzkonglomeratsunternehmen ist Gelegenheit zur Äußerung zu geben.
-
-(2) Die Bundesanstalt kann über die Fälle des § 1 Abs. 20 und des § 10b Abs. 3 Satz 6 bis 8 oder Abs. 4 hinaus nach Maßgabe des Artikels 2 Nr. 14 sowie der Artikel 3 und 5 der Richtlinie 2002/87/EG eine branchenübergreifend tätige Unternehmensgruppe als Finanzkonglomerat und ein Institut als übergeordnetes Finanzkonglomeratsunternehmen bestimmen. Die Vorschriften dieses Gesetzes über die zusätzliche Beaufsichtigung von Finanzkonglomeraten sind in diesem Fall entsprechend anzuwenden.
+### § 8d (weggefallen)
 
 ### § 8e Aufsichtskollegien
 
-(1) Ist die Bundesanstalt für die Aufsicht auf zusammengefasster Basis über eine Institutsgruppe oder Finanzholding-Gruppe zuständig, richtet sie Aufsichtskollegien ein mit dem Ziel, die Aufgabenwahrnehmung nach § 8 Absatz 7 und den §§ 8a und 10 Absatz 1a zu erleichtern sowie eine angemessene Zusammenarbeit mit den zuständigen Stellen im Europäischen Wirtschaftsraum, zu denen auch die Europäische Bankenaufsichtsbehörde gehört, sowie in Drittstaaten zu gewährleisten. Die Aufsichtskollegien dienen
+(1) Ist die Bundesanstalt für die Aufsicht auf zusammengefasster Basis über eine Institutsgruppe, Finanzholding-Gruppe oder gemischte Finanzholding-Gruppe zuständig, richtet sie Aufsichtskollegien ein. Ziel der Einrichtung von Aufsichtskollegien ist es, die Aufgabenwahrnehmung nach § 8 Absatz 7 und den §§ 8a und 10 Absatz 1a zu erleichtern und eine angemessene Zusammenarbeit mit den zuständigen Stellen im Europäischen Wirtschaftsraum, zu denen auch die Europäische Bankenaufsichtsbehörde gehört, sowie mit den zuständigen Stellen in Drittstaaten zu gewährleisten. Die Aufsichtskollegien dienen
 
 1.  
 dem Austausch von Informationen,
@@ -2019,13 +2055,13 @@ dem Austausch von Informationen,
 gegebenenfalls der Einigung über die freiwillige Übertragung von Aufgaben und Zuständigkeiten,
 
 3.  
-der Festlegung aufsichtsrechtlicher Prüfungsprogramme auf der Grundlage der Risikobewertung einer Institutsgruppe oder Finanzholding-Gruppe,
+der Festlegung aufsichtsrechtlicher Prüfungsprogramme auf der Grundlage der Risikobewertung einer Institutsgruppe, einer Finanzholding-Gruppe oder einer gemischten Finanzholding-Gruppe,
 
 4.  
 der Beseitigung unnötiger aufsichtsrechtlicher Doppelanforderungen,
 
 5.  
-der gleichmäßigen Anwendung der bestehenden aufsichtsrechtlichen Anforderungen auf alle Unternehmen der Gruppe unter Berücksichtigung bestehender Ermessensspielräume und Wahlrechte und
+der gleichmäßigen Anwendung der bestehenden aufsichtsrechtlichen Anforderungen auf alle Unternehmen der Gruppe unter Berücksichtigung bestehender Ermessensspielräume und Wahlrechte sowie
 
 6.  
 der Planung und Koordinierung der Aufsichtstätigkeiten in Vorbereitung auf und in Krisensituationen unter Berücksichtigung der Arbeit anderer Foren, die in diesem Bereich eingerichtet werden.
@@ -2038,7 +2074,7 @@ der Planung und Koordinierung der Aufsichtstätigkeiten in Vorbereitung auf und 
 
 (5) Die Bundesanstalt unterrichtet die Europäische Bankenaufsichtsbehörde über die Tätigkeit des Aufsichtskollegiums, insbesondere in Krisensituationen, und übermittelt ihr alle Informationen, die für die Zwecke der Vereinheitlichung der Aufsicht auf europäischer Ebene von besonderem Belang sind. Die Bediensteten der Europäischen Bankenaufsichtsbehörde können sich nach Maßgabe des Artikels 21 der Verordnung (EU) Nr. 1093/2010 an den Aktivitäten der Aufsichtskollegien beteiligen, einschließlich der Teilnahme an Prüfungen gemäß § 44 Absatz 1 und 2, wenn diese von der Bundesanstalt gemeinsam mit mindestens einer anderen zuständigen Stelle im Europäischen Wirtschaftsraum vorgenommen werden.
 
-(6) In den Fällen, in denen die Bundesanstalt nicht für die Aufsicht über eine Institutsgruppe oder Finanzholding-Gruppe auf zusammengefasster Basis zuständig ist, aber Einlagenkreditinstitute mit bedeutenden Zweigniederlassungen in anderen Staaten des Europäischen Wirtschaftsraums beaufsichtigt, richtet sie ein Aufsichtskollegium ein, um die Zusammenarbeit mit den zuständigen Stellen des Aufnahmestaates nach § 8 Absatz 3 sowie in Krisensituationen zu erleichtern. Absatz 2 Satz 1 und 2 sowie die Absätze 3 und 4 gelten entsprechend.
+(6) In den Fällen, in denen die Bundesanstalt nicht für die Aufsicht über eine Institutsgruppe, Finanzholding-Gruppe oder gemischte Finanzholding-Gruppe auf zusammengefasster Basis zuständig ist, aber Einlagenkreditinstitute mit bedeutenden Zweigniederlassungen in anderen Staaten des Europäischen Wirtschaftsraums beaufsichtigt, richtet sie ein Aufsichtskollegium ein, um die Zusammenarbeit mit den zuständigen Stellen des Aufnahmestaates nach § 8 Absatz 3 sowie in Krisensituationen zu erleichtern. Absatz 2 Satz 1 und 2 sowie die Absätze 3 und 4 gelten entsprechend.
 
 (7) Bei der Wahrnehmung der Aufgaben nach den Absätzen 1 bis 6 arbeiten die Bundesanstalt und die Deutsche Bundesbank zusammen.
 
@@ -2050,7 +2086,7 @@ der Planung und Koordinierung der Aufsichtstätigkeiten in Vorbereitung auf und 
 Strafverfolgungsbehörden oder für Straf- und Bußgeldsachen zuständige Gerichte,
 
 2.  
-kraft Gesetzes oder im öffentlichen Auftrag mit der Überwachung von Instituten, Investmentgesellschaften, Finanzunternehmen, Versicherungsunternehmen, der Finanzmärkte oder des Zahlungsverkehrs oder mit der Geldwäscheprävention betraute Stellen sowie von diesen beauftragte Personen,
+kraft Gesetzes oder im öffentlichen Auftrag mit der Überwachung von Instituten, Kapitalverwaltungsgesellschaften, extern verwalteten Investmentgesellschaften, EU-Verwaltungsgesellschaften oder ausländischen AIF-Verwaltungsgesellschaften, Finanzunternehmen, Versicherungsunternehmen, der Finanzmärkte oder des Zahlungsverkehrs oder mit der Geldwäscheprävention betraute Stellen sowie von diesen beauftragte Personen,
 
 3.  
 mit der Liquidation, oder dem Insolvenzverfahren über das Vermögen eines Instituts befaßte Stellen,
@@ -2083,8 +2119,8 @@ soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen.
 
 (2) Die §§ 93, 97 und 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie § 116 Abs. 1 der Abgabenordnung gelten nicht für die in Absatz 1 bezeichneten Personen, soweit sie zur Durchführung dieses Gesetzes tätig werden. Dies gilt nicht, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder der für ihn tätigen Personen handelt. Satz 2 ist nicht anzuwenden, soweit Tatsachen betroffen sind, die den in Absatz 1 Satz 1 oder 3 bezeichneten Personen durch die zuständige Aufsichtsstelle eines anderen Staates oder durch von dieser Stelle beauftragte Personen mitgeteilt worden sind.
 
-Zweiter Abschnitt Vorschriften für Institute, Institutsgruppen, Finanzholding-Gruppen, Finanzkonglomerate, gemischte Finanzholding-Gesellschaften und gemischte Unternehmen
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Zweiter Abschnitt Vorschriften für Institute, Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gemischte Unternehmen
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 
 
@@ -2093,9 +2129,9 @@ Zweiter Abschnitt Vorschriften für Institute, Institutsgruppen, Finanzholding-G
 
 ### 
 
-### § 10 Anforderungen an die Eigenmittelausstattung von Instituten, Institutsgruppen und Finanzholding-Gruppen
+### § 10 Anforderungen an die Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen
 
-(1) Die Institute sowie die Institutsgruppen und Finanzholding-Gruppen nach § 10a Abs. 1 bis 5 müssen im Interesse der Erfüllung ihrer Verpflichtungen gegenüber ihren Gläubigern, insbesondere im Interesse der Sicherheit der ihnen anvertrauten Vermögenswerte, angemessene Eigenmittel haben. Institute sowie Institutsgruppen und Finanzholding-Gruppen im Sinne von § 10a Abs. 1 bis 5 dürfen mit vorheriger Zulassung durch die Bundesanstalt interne Risikomessverfahren, insbesondere interne Ratingsysteme für die Schätzung von Risikoparametern des Adressenausfallrisikos, interne Marktrisikomodelle sowie interne Schätzverfahren zur Bestimmung des operationellen Risikos, zur Beurteilung der Angemessenheit ihrer Eigenmittelausstattung verwenden. Institute dürfen personenbezogene Daten ihrer Kunden, von Personen, mit denen sie Vertragsverhandlungen über Adressenausfallrisiken begründende Geschäfte aufnehmen, sowie von Personen, die für die Erfüllung eines Adressenausfallrisikos einstehen sollen, erheben und verwenden, soweit diese Daten
+(1) Die Institute sowie die Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen nach § 10a Abs. 1 bis 5 müssen im Interesse der Erfüllung ihrer Verpflichtungen gegenüber ihren Gläubigern, insbesondere im Interesse der Sicherheit der ihnen anvertrauten Vermögenswerte, angemessene Eigenmittel haben. Institute sowie Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen im Sinne von § 10a Abs. 1 bis 5 dürfen mit vorheriger Zulassung durch die Bundesanstalt interne Risikomessverfahren, insbesondere interne Ratingsysteme für die Schätzung von Risikoparametern des Adressenausfallrisikos, interne Marktrisikomodelle sowie interne Schätzverfahren zur Bestimmung des operationellen Risikos, zur Beurteilung der Angemessenheit ihrer Eigenmittelausstattung verwenden. Institute dürfen personenbezogene Daten ihrer Kunden, von Personen, mit denen sie Vertragsverhandlungen über Adressenausfallrisiken begründende Geschäfte aufnehmen, sowie von Personen, die für die Erfüllung eines Adressenausfallrisikos einstehen sollen, erheben und verwenden, soweit diese Daten
 
 1.  
 unter Zugrundelegung eines wissenschaftlich anerkannten mathematisch-statistischen Verfahrens nachweisbar für die Bestimmung und Berücksichtigung von Adressenausfallrisiken erheblich und
@@ -2131,7 +2167,7 @@ bei Ratingagenturen und Auskunfteien und
 4.  
 aus allgemein zugänglichen Quellen.
 
-Die Institute dürfen anderen Instituten derselben Institutsgruppe und in pseudonymisierter Form auch von ihnen mit dem Aufbau und Betrieb einschließlich der Entwicklung und Weiterentwicklung von Ratingsystemen beauftragten Dienstleistern nach Satz 3 erhobene personenbezogene Daten übermitteln, soweit dies zum Aufbau und Betrieb einschließlich der Entwicklung und Weiterentwicklung von internen Ratingsystemen für die Schätzung von Risikoparametern des Adressenausfallrisikos erforderlich ist. Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über die angemessene Eigenmittelausstattung (Solvabilität) der Institute sowie der Institutsgruppen und Finanzholding-Gruppen zu erlassen, insbesondere über
+Die Institute dürfen anderen Instituten derselben Institutsgruppe und in pseudonymisierter Form auch von ihnen mit dem Aufbau und Betrieb einschließlich der Entwicklung und Weiterentwicklung von Ratingsystemen beauftragten Dienstleistern nach Satz 3 erhobene personenbezogene Daten übermitteln, soweit dies zum Aufbau und Betrieb einschließlich der Entwicklung und Weiterentwicklung von internen Ratingsystemen für die Schätzung von Risikoparametern des Adressenausfallrisikos erforderlich ist. Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über die angemessene Eigenmittelausstattung (Solvabilität) der Institute sowie der Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen zu erlassen, insbesondere über
 
 1.  
 die Bestimmung der für Adressenausfallrisiken, einschließlich Beteiligungs- und Veritätsrisiken, und Marktrisiken (insbesondere Fremdwährungsrisiken, Rohwarenrisiken und Positionsrisiken des Handelsbuchs) anrechnungspflichtigen Geschäfte und ihrer Risikoparameter;
@@ -2171,29 +2207,37 @@ die Durchführung von Marktpflegemaßnahmen nach Aufnahme von Kapital im Sinne d
 
 Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute zu hören.
 
-(1a) Beabsichtigen die Institute einer grenzüberschreitenden Institutsgruppe oder Finanzholding-Gruppe, für deren Aufsicht auf zusammengefasster Basis nach Maßgabe des § 10a Abs. 1 bis 5 die Bundesanstalt zuständig ist, erstmalig ein internes Risikomessverfahren zur Berechnung ihrer Eigenmittelanforderungen für Adressenausfallrisiken oder das operationelle Risiko oder ein internes Marktrisikomodell auf zusammengefasster Basis nach Absatz 1 Satz 2 zu nutzen, hat das übergeordnete Unternehmen den Zulassungsantrag bei der Bundesanstalt einzureichen. Eine grenzüberschreitende Institutsgruppe oder Finanzholding-Gruppe im Sinne dieser Vorschrift liegt vor, wenn die Unternehmen dieser Gruppe ihren jeweiligen Sitz in mindestens zwei verschiedenen Staaten des Europäischen Wirtschaftsraums haben. Nach Eingang des vollständigen Antrags leitet die Bundesanstalt ihn unverzüglich an die zuständigen Stellen innerhalb des Europäischen Wirtschaftsraums, denen die Aufsicht über die vom Antrag umfassten Unternehmen nach Maßgabe der Bankenrichtlinie obliegt, weiter. Die zuständigen Stellen sollen innerhalb von sechs Monaten nach Eingang des vollständigen Antrags bei der Bundesanstalt eine gemeinsame Entscheidung über den Antrag treffen. Kommt in dieser Zeit keine gemeinsame Entscheidung zustande, entscheidet die Bundesanstalt allein. Hat die Bundesanstalt oder eine zuständige Stelle in einem anderen Staat des Europäischen Wirtschaftsraums bis zum Ablauf der Sechsmonatsfrist nach Satz 4 nach Maßgabe des Artikels 19 der Verordnung (EU) Nr. 1093/2010 die Europäische Bankenaufsichtsbehörde um Hilfe ersucht, stellt die Bundesanstalt ihre Entscheidung nach Satz 5 bis zu einem Beschluss der Europäischen Bankenaufsichtsbehörde gemäß Artikel 19 Absatz 3 der Verordnung (EU) Nr. 1093/2010 zurück und entscheidet dann in Übereinstimmung mit einem solchen Beschluss. Nach Ablauf der Sechsmonatsfrist oder nachdem eine gemeinsame Entscheidung getroffen wurde, kann die Europäische Bankenaufsichtsbehörde nicht mehr um Hilfe ersucht werden. Sobald eine Entscheidung nach Satz 4 oder Satz 5 vorliegt, unterrichtet die Bundesanstalt das übergeordnete Unternehmen der Gruppe schriftlich und unter Angabe der maßgeblichen Gründe sowie unter Hinweis auf die der Entscheidung zugrunde liegenden Rechtsgrundlagen über deren Inhalt. Im Falle einer Entscheidung nach Satz 5 unterrichtet sie außerdem die weiteren betroffenen zuständigen Stellen; bei der Angabe der maßgeblichen Gründe ist in diesem Fall auch auf die von diesen Stellen geltend gemachten Vorbehalte einzugehen. Den Zulassungsbescheid zur Verwendung des internen Risikomessverfahrens auf zusammengefasster Basis sowie auf Einzelebene erlässt die Bundesanstalt, wenn die vom Antrag erfassten Unternehmen auf Einzelebene ihrer Aufsicht unterliegen. Satz 10 gilt entsprechend für die Zulassungsbescheide gegenüber Instituten, die einer grenzüberschreitenden Gruppe im Sinne von Satz 2 angehören, aber nur auf Einzelebene der Aufsicht der Bundesanstalt unterliegen.
+(1a) Beabsichtigen die Institute einer grenzüberschreitenden Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe, für deren Aufsicht auf zusammengefasster Basis nach Maßgabe des § 10a Abs. 1 bis 5 die Bundesanstalt zuständig ist, erstmalig ein internes Risikomessverfahren zur Berechnung ihrer Eigenmittelanforderungen für Adressenausfallrisiken oder das operationelle Risiko oder ein internes Marktrisikomodell auf zusammengefasster Basis nach Absatz 1 Satz 2 zu nutzen, hat das übergeordnete Unternehmen den Zulassungsantrag bei der Bundesanstalt einzureichen. Eine grenzüberschreitende Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe im Sinne dieser Vorschrift liegt vor, wenn die Unternehmen dieser Gruppe ihren jeweiligen Sitz in mindestens zwei verschiedenen Staaten des Europäischen Wirtschaftsraums haben. Nach Eingang des vollständigen Antrags leitet die Bundesanstalt ihn unverzüglich an die zuständigen Stellen innerhalb des Europäischen Wirtschaftsraums, denen die Aufsicht über die vom Antrag umfassten Unternehmen nach Maßgabe der Bankenrichtlinie obliegt, weiter. Die zuständigen Stellen sollen innerhalb von sechs Monaten nach Eingang des vollständigen Antrags bei der Bundesanstalt eine gemeinsame Entscheidung über den Antrag treffen. Kommt in dieser Zeit keine gemeinsame Entscheidung zustande, entscheidet die Bundesanstalt allein. Hat die Bundesanstalt oder eine zuständige Stelle in einem anderen Staat des Europäischen Wirtschaftsraums bis zum Ablauf der Sechsmonatsfrist nach Satz 4 nach Maßgabe des Artikels 19 der Verordnung (EU) Nr. 1093/2010 die Europäische Bankenaufsichtsbehörde um Hilfe ersucht, stellt die Bundesanstalt ihre Entscheidung nach Satz 5 bis zu einem Beschluss der Europäischen Bankenaufsichtsbehörde gemäß Artikel 19 Absatz 3 der Verordnung (EU) Nr. 1093/2010 zurück und entscheidet dann in Übereinstimmung mit einem solchen Beschluss. Nach Ablauf der Sechsmonatsfrist oder nachdem eine gemeinsame Entscheidung getroffen wurde, kann die Europäische Bankenaufsichtsbehörde nicht mehr um Hilfe ersucht werden. Sobald eine Entscheidung nach Satz 4 oder Satz 5 vorliegt, unterrichtet die Bundesanstalt das übergeordnete Unternehmen der Gruppe schriftlich und unter Angabe der maßgeblichen Gründe sowie unter Hinweis auf die der Entscheidung zugrunde liegenden Rechtsgrundlagen über deren Inhalt. Im Falle einer Entscheidung nach Satz 5 unterrichtet sie außerdem die weiteren betroffenen zuständigen Stellen; bei der Angabe der maßgeblichen Gründe ist in diesem Fall auch auf die von diesen Stellen geltend gemachten Vorbehalte einzugehen. Den Zulassungsbescheid zur Verwendung des internen Risikomessverfahrens auf zusammengefasster Basis sowie auf Einzelebene erlässt die Bundesanstalt, wenn die vom Antrag erfassten Unternehmen auf Einzelebene ihrer Aufsicht unterliegen. Satz 10 gilt entsprechend für die Zulassungsbescheide gegenüber Instituten, die einer grenzüberschreitenden Gruppe im Sinne von Satz 2 angehören, aber nur auf Einzelebene der Aufsicht der Bundesanstalt unterliegen.
 
-(1b) Die Bundesanstalt kann anordnen, dass ein Institut, eine Institutsgruppe oder eine Finanzholding-Gruppe Eigenmittelanforderungen einhalten muss, die über die Anforderungen der Rechtsverordnung nach Absatz 1 Satz 9 und eine Anordnung nach § 45b Absatz 1 hinausgehen,
+(1b) Die Bundesanstalt kann anordnen, dass ein Institut, eine Institutsgruppe, eine Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe Eigenmittelanforderungen einhalten muss, die über die Anforderungen der Rechtsverordnung nach Absatz 1 Satz 9 und eine Anordnung nach § 45b Absatz 1 hinausgehen,
 
 1.  
 um solche Risiken zu berücksichtigen, die nicht oder nicht in vollem Umfang Gegenstand der Rechtsverordnung nach § 10 Absatz 1 Satz 9 sind,
 
 2.  
-wenn die Risikotragfähigkeit des Instituts, der Institutsgruppe oder der Finanzholding-Gruppe nicht gewährleistet ist,
+wenn die Risikotragfähigkeit des Instituts, der Institutsgruppe, der Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe nicht gewährleistet ist,
 
 3.  
 um den Aufbau eines zusätzlichen Eigenmittelpuffers für Perioden wirtschaftlichen Abschwungs sicherzustellen oder
 
 4.  
-um einer besonderen Geschäftssituation des Instituts, der Institutsgruppe oder der Finanzholding-Gruppe, etwa bei Aufnahme der Geschäftstätigkeit, Rechnung zu tragen.
+um einer besonderen Geschäftssituation des Instituts, der Institutsgruppe, der Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe, etwa bei Aufnahme der Geschäftstätigkeit, Rechnung zu tragen.
 
-Die Bundesanstalt kann von einzelnen Instituten, Institutsgruppen und Finanzholding-Gruppen oder Arten oder Gruppen von Instituten, Institutsgruppen und Finanzholding-Gruppen das Vorhalten von über die Anforderungen der Rechtsverordnung nach Absatz 1 Satz 9 hinausgehenden Eigenmitteln während eines begrenzten Zeitraums auch verlangen, wenn diese Kapitalstärkung erforderlich ist, um einer drohenden Störung der Funktionsfähigkeit des Finanzmarktes oder einer Gefahr für die Finanzmarktstabilität entgegenzuwirken und um erhebliche negative Auswirkungen auf andere Unternehmen des Finanzsektors sowie auf das allgemeine Vertrauen der Einleger und anderer Marktteilnehmer in ein funktionsfähiges Finanzsystem zu vermeiden. Eine drohende Störung der Funktionsfähigkeit des Finanzmarktes kann insbesondere dann gegeben sein, wenn aufgrund außergewöhnlicher Marktverhältnisse die Refinanzierungsfähigkeit mehrerer für den Finanzmarkt relevanter Institute beeinträchtigt zu werden droht. In diesem Fall kann die Bundesanstalt die Beurteilung der Angemessenheit der Eigenmittel nach von der Rechtsverordnung nach Absatz 1 Satz 9 abweichenden Maßstäben vornehmen, die diesen besonderen Marktverhältnissen Rechnung tragen. Diese höheren Anforderungen können insbesondere im Rahmen eines abgestimmten Vorgehens auf Ebene der Europäischen Union zur Stärkung des Vertrauens in die Widerstandsfähigkeit des europäischen Bankensektors und zur Abwehr einer drohenden Gefahr für die Finanzmarktstabilität in Europa verlangt werden. Bei der Festlegung von Höhe und maßgeblicher Zusammensetzung der zusätzlichen Eigenmittel und des maßgeblichen Zeitpunktes für die Einhaltung der Anforderungen berücksichtigt die Bundesanstalt die Standards, auf deren Anwendung sich die zuständigen europäischen Stellen im Rahmen eines abgestimmten Vorgehens auf Unionsebene verständigt haben. In diesem Rahmen kann die Bundesanstalt verlangen, dass die Institute in einem Plan nachvollziehbar darlegen, durch welche Maßnahmen sie die erhöhten Kapitalanforderungen zu dem von der Bundesanstalt nach Satz 6 festgelegten Zeitpunkt einhalten werden. Soweit der Plan die Belange des Finanzmarktstabilisierungsfonds im Sinne des § 1 des Finanzmarktstabilisierungsfondsgesetzes berührt, erfolgt die Beurteilung des Plans im Einvernehmen mit dem Lenkungsausschuss im Sinne des § 4 Absatz 1 Satz 2 des Finanzmarktstabilisierungsfondsgesetzes (Lenkungsausschuss). Die Bundesanstalt kann die kurzfristige Nachbesserung des vorgelegten Plans verlangen, wenn sie die angegebenen Maßnahmen und Umsetzungsfristen für nicht ausreichend hält oder das Institut sie nicht einhält. In diesem Fall haben die Institute auch die Möglichkeit eines Antrags auf Stabilisierungsmaßnahmen nach dem Finanzmarktstabilisierungsfondsgesetz zu prüfen, wenn keine alternativen Maßnahmen zur Verfügung stehen. Sofern nach Feststellung der Bundesanstalt im Einvernehmen mit dem Lenkungsausschuss keine oder nur eine unzureichende Nachbesserung des Plans erfolgt ist, kann die Bundesanstalt einen Sonderbeauftragten im Sinne des § 45c Absatz 1 bestellen und ihn mit der Aufgabe nach § 45c Absatz 2 Nummer 7a beauftragen. Zudem kann sie anordnen, dass Entnahmen durch die Inhaber oder Gesellschafter, die Ausschüttung von Gewinnen und die Auszahlung variabler Vergütungsbestandteile nicht zulässig sind, solange die angeordnete Eigenmittelausstattung nicht erreicht ist. Entgegenstehende Beschlüsse über die Gewinnausschüttung sind nichtig; aus entgegenstehenden Regelungen in Verträgen können keine Rechte hergeleitet werden.
+Die Bundesanstalt kann von einzelnen Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen oder Arten oder Gruppen von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen verlangen, dass diese Institute oder Gruppen während eines begrenzten Zeitraums Eigenmittel vorhalten, die über die Anforderungen der Rechtsverordnung nach Absatz 1 Satz 9 hinausgehen, wenn diese Kapitalstärkung erforderlich ist, um
+
+1.  
+einer drohenden Störung der Funktionsfähigkeit des Finanzmarktes oder einer Gefahr für die Finanzmarktstabilität entgegenzuwirken und
+
+2.  
+erhebliche negative Auswirkungen auf andere Unternehmen des Finanzsektors sowie auf das allgemeine Vertrauen der Einleger und anderer Marktteilnehmer in ein funktionsfähiges Finanzsystem zu vermeiden.
+
+Eine drohende Störung der Funktionsfähigkeit des Finanzmarktes kann insbesondere dann gegeben sein, wenn aufgrund außergewöhnlicher Marktverhältnisse die Refinanzierungsfähigkeit mehrerer für den Finanzmarkt relevanter Institute beeinträchtigt zu werden droht. In diesem Fall kann die Bundesanstalt die Beurteilung der Angemessenheit der Eigenmittel nach von der Rechtsverordnung nach Absatz 1 Satz 9 abweichenden Maßstäben vornehmen, die diesen besonderen Marktverhältnissen Rechnung tragen. Diese höheren Anforderungen können insbesondere im Rahmen eines abgestimmten Vorgehens auf Ebene der Europäischen Union zur Stärkung des Vertrauens in die Widerstandsfähigkeit des europäischen Bankensektors und zur Abwehr einer drohenden Gefahr für die Finanzmarktstabilität in Europa verlangt werden. Bei der Festlegung von Höhe und maßgeblicher Zusammensetzung der zusätzlichen Eigenmittel und des maßgeblichen Zeitpunktes für die Einhaltung der Anforderungen berücksichtigt die Bundesanstalt die Standards, auf deren Anwendung sich die zuständigen europäischen Stellen im Rahmen eines abgestimmten Vorgehens auf Unionsebene verständigt haben. In diesem Rahmen kann die Bundesanstalt verlangen, dass die Institute in einem Plan nachvollziehbar darlegen, durch welche Maßnahmen sie die erhöhten Kapitalanforderungen zu dem von der Bundesanstalt nach Satz 6 festgelegten Zeitpunkt einhalten werden. Soweit der Plan die Belange des Finanzmarktstabilisierungsfonds im Sinne des § 1 des Finanzmarktstabilisierungsfondsgesetzes berührt, erfolgt die Beurteilung des Plans im Einvernehmen mit dem Lenkungsausschuss im Sinne des § 4 Absatz 1 Satz 2 des Finanzmarktstabilisierungsfondsgesetzes (Lenkungsausschuss). Die Bundesanstalt kann die kurzfristige Nachbesserung des vorgelegten Plans verlangen, wenn sie die angegebenen Maßnahmen und Umsetzungsfristen für nicht ausreichend hält oder das Institut sie nicht einhält. In diesem Fall haben die Institute auch die Möglichkeit eines Antrags auf Stabilisierungsmaßnahmen nach dem Finanzmarktstabilisierungsfondsgesetz zu prüfen, wenn keine alternativen Maßnahmen zur Verfügung stehen. Sofern nach Feststellung der Bundesanstalt im Einvernehmen mit dem Lenkungsausschuss keine oder nur eine unzureichende Nachbesserung des Plans erfolgt ist, kann die Bundesanstalt einen Sonderbeauftragten im Sinne des § 45c Absatz 1 bestellen und ihn mit der Aufgabe nach § 45c Absatz 2 Nummer 7a beauftragen. Zudem kann sie anordnen, dass Entnahmen durch die Inhaber oder Gesellschafter, die Ausschüttung von Gewinnen und die Auszahlung variabler Vergütungsbestandteile nicht zulässig sind, solange die angeordnete Eigenmittelausstattung nicht erreicht ist. Entgegenstehende Beschlüsse über die Gewinnausschüttung sind nichtig; aus entgegenstehenden Regelungen in Verträgen können keine Rechte hergeleitet werden.
 
 (1c) Auf Antrag des Instituts kann die Bundesanstalt bei der Beurteilung der Angemessenheit der Eigenmittel einer abweichenden Berechnung der Eigenmittelanforderungen zustimmen, um eine im Einzelfall unangemessene Risikoabbildung zu vermeiden. Die Zustimmung muss nach dem Recht der Europäischen Gemeinschaft zulässig sein.
 
 (1d) Der Berechnung der Angemessenheit der Eigenmittel nach der Rechtsverordnung nach Absatz 1 Satz 9 ist das modifizierte verfügbare Eigenkapital zugrunde zu legen. Zur Bestimmung des modifizierten verfügbaren Eigenkapitals werden die Beträge, die nach den Vorschriften dieses Gesetzes zur Unterlegung von Positionen mit Kern- und Ergänzungskapital benötigt werden, und die Positionen des Absatzes 6a vom haftenden Eigenkapital nach Absatz 2 Satz 2 abgezogen. Bei der Berechnung des haftenden Eigenkapitals nach Absatz 2 Satz 2 allein für die Ermittlung der Obergrenzen des § 12 Absatz 1 und 2, der Großkredite und deren Obergrenzen nach den §§ 13, 13a und 13b sowie der Organkredite nach § 15 Absatz 3 Nummer 2 bleibt der zurechenbare Anteil des berücksichtigungsfähigen Wertberichtigungsüberschusses (Absatz 2b Satz 1 Nummer 9) unberücksichtigt. Gleiches gilt für die Beträge, die nach den Vorschriften dieses Gesetzes zur Unterlegung von Positionen mit haftendem Eigenkapital benötigt werden.
 
-(1e) Die Institute sowie die übergeordneten Unternehmen einer Institutsgruppe oder Finanzholding-Gruppe nach § 10a Abs. 1 bis 3 haben der Bundesanstalt und der Deutschen Bundesbank vierteljährlich die für die Überprüfung der angemessenen Eigenkapitalausstattung erforderlichen Angaben einzureichen. Die Rechtsverordnung nach Absatz 1 Satz 9 Nr. 6 kann in besonderen Fällen einen längeren Meldezeitraum vorsehen.
+(1e) Die Institute sowie die übergeordneten Unternehmen einer Institutsgruppe, Finanzholding-Gruppe oder einer gemischten Finanzholding-Gruppe nach § 10a Absatz 1 bis 3a haben der Bundesanstalt und der Deutschen Bundesbank vierteljährlich die für die Überprüfung der angemessenen Eigenkapitalausstattung erforderlichen Angaben einzureichen. Die Rechtsverordnung nach Absatz 1 Satz 9 Nr. 6 kann in besonderen Fällen einen längeren Meldezeitraum vorsehen.
 
 (2) Die Eigenmittel bestehen aus dem haftenden Eigenkapital und den Drittrangmitteln. Das haftende Eigenkapital ist die Summe aus dem Kernkapital nach Absatz 2a Satz 1 unter Berücksichtigung der Abzugspositionen nach Absatz 2a Satz 2 Nr. 1 bis 5 und dem Ergänzungskapital nach Absatz 2b Satz 1 abzüglich der Positionen des Absatzes 6 Satz 1. Wurde sonstiges Kapital nach Absatz 4 dem Institut befristet überlassen oder ist es mit einem Anreiz zur Tilgung ausgestattet, darf sein Anteil am Kernkapital 15 vom Hundert nicht übersteigen. Im Übrigen darf sonstiges Kapital nach Absatz 4, vorbehaltlich der Ausschöpfung der Anrechnungsgrenzen nach Satz 3, höchstens 35 vom Hundert des Kernkapitals betragen. Sonstiges Kapital nach Absatz 4, das entsprechend Absatz 4 Satz 9 umwandelbar ist, darf vorbehaltlich der Ausschöpfung der Anrechnungsgrenzen nach den Sätzen 3 und 4 höchstens 50 vom Hundert des Kernkapitals betragen. Bei der Berechnung des haftenden Eigenkapitals kann Ergänzungskapital nach Satz 2 nur bis zur Höhe des Kernkapitals nach Satz 2 berücksichtigt werden. Dabei darf das berücksichtigte Ergänzungskapital nur bis zu 50 vom Hundert des Kernkapitals aus längerfristigen nachrangigen Verbindlichkeiten und dem Haftsummenzuschlag bestehen. Von Dritten zur Verfügung gestellte Eigenmittel können nur berücksichtigt werden, wenn sie dem Institut tatsächlich zugeflossen sind. Der Erwerb von Eigenmitteln des Instituts durch einen für Rechnung des Instituts handelnden Dritten, durch ein Tochterunternehmen des Instituts oder durch einen Dritten, der für Rechnung des Tochterunternehmens des Instituts handelt, steht für ihre Berücksichtigung einem Erwerb durch das Institut gleich, es sei denn, das Institut weist nach, dass ihm die Eigenmittel tatsächlich zugeflossen sind. Dem Erwerb steht die Inpfandnahme gleich. Die Bundesanstalt kann Instituten in Krisensituationen gestatten, die in den Sätzen 3 bis 7 festgelegten Grenzen vorübergehend zu überschreiten.
 
@@ -2426,7 +2470,13 @@ Beteiligungen im Sinne des § 271 Abs. 1 Satz 1 des Handelsgesetzbuchs oder eine
 6.  
 Forderungen aus Genussrechten im Sinne des § 53c Abs. 3 Satz 1 Nr. 3a in Verbindung mit Abs. 3a des Versicherungsaufsichtsgesetzes und Forderungen aus nachrangigen Verbindlichkeiten im Sinne des § 53c Abs. 3 Satz 1 Nr. 3b in Verbindung mit Abs. 3b des Versicherungsaufsichtsgesetzes an Erstversicherungsunternehmen, Rückversicherungsunternehmen und Versicherungs-Holdinggesellschaften, an denen das Institut eine Beteiligung im Sinne der Nummer 5 hält.
 
-Die Bundesanstalt kann auf Antrag des Instituts in Bezug auf die Abzugspositionen nach Satz 1 Nr. 1 bis 6 Ausnahmen zulassen, wenn das Institut Anteile eines anderen Instituts, Finanzunternehmens, Erstversicherungsunternehmens oder Rückversicherungsunternehmens oder einer Versicherungs-Holdinggesellschaft vorübergehend besitzt, um das betreffende Unternehmen zwecks Sanierung und Rettung finanziell zu stützen. Anteile eines anderen Instituts, Finanzunternehmens, E-Geld-Instituts im Sinne des Zahlungsdiensteaufsichtsgesetzes, Zahlungsinstituts im Sinne des Zahlungsdiensteaufsichtsgesetzes, Erstversicherungsunternehmens oder Rückversicherungsunternehmens oder einer Versicherungs-Holdinggesellschaft, die ein Institut nur vorübergehend hält, um an den Finanzmärkten auf kontinuierlicher Basis durch den An- und Verkauf dieser Anteile unter Einsatz des eigenen Kapitals Handel für eigene Rechnung zu von ihm gestellten Kursen zu betreiben, sind dann nicht vom Kern- und Ergänzungskapital abzuziehen, wenn das Institut das Betreiben dieser Tätigkeit der Bundesanstalt und der Deutschen Bundesbank angezeigt hat und über angemessene Systeme und Kontrollen für den Handel mit diesen Anteilen verfügt. Ein Institut braucht Positionen nach Satz 1 Nr. 1 bis 4, die es selbst oder das ihm übergeordnete Unternehmen pflichtgemäß oder freiwillig in die Zusammenfassung nach den §§ 10a, 13b Abs. 3 Satz 1 und nach § 12 Abs. 2 Satz 1 und 2 einbezieht, nicht abzuziehen. Gehört ein Institut einer branchenübergreifend tätigen Unternehmensgruppe an, die kein Finanzkonglomerat ist, braucht es Positionen nach Satz 1 Nr. 5 und 6 nicht abzuziehen, wenn diese Unternehmensgruppe mit Zustimmung der Bundesanstalt eine Berechnung der Eigenkapitalausstattung nach Maßgabe einer der in der Rechtsverordnung nach § 10b Abs. 1 Satz 2 näher bestimmten Berechnungsmethoden zusätzlich durchführt und das Institut und die betreffenden Unternehmen in entsprechender Anwendung der Kriterien des § 10b Abs. 3 Satz 5 bis 8 oder Abs. 4 als nachgeordnete oder übergeordnetes Unternehmen in diese Berechnung einbezogen werden; eine Berechnung nach der Berechnungsmethode 1 darf nur dann erfolgen, wenn und soweit Umfang und Niveau des integrierten Managements und der internen Kontrollen in Bezug auf die in den Konsolidierungskreis einbezogenen Unternehmen angemessen sind. Die Wahlmöglichkeit nach Satz 5 ist von dem Unternehmen zu beantragen, das in entsprechender Anwendung der Kriterien des § 10b Abs. 3 Satz 6 bis 8 oder Abs. 4 übergeordnetes Unternehmen der Gruppe ist; die gewählte Berechnungsmethode ist auf Dauer einheitlich anzuwenden. Ein Institut, das einem Finanzkonglomerat angehört, braucht die Positionen nach Satz 1 Nr. 1 bis 6 nicht abzuziehen, wenn es selbst und die betreffenden Unternehmen in die Berechnung der Eigenmittel dieses Finanzkonglomerats auf Konglomeratsebene nach § 10b einbezogen werden.
+Die Bundesanstalt kann auf Antrag des Instituts in Bezug auf die Abzugspositionen nach Satz 1 Nr. 1 bis 6 Ausnahmen zulassen, wenn das Institut Anteile eines anderen Instituts, Finanzunternehmens, Erstversicherungsunternehmens oder Rückversicherungsunternehmens oder einer Versicherungs-Holdinggesellschaft vorübergehend besitzt, um das betreffende Unternehmen zwecks Sanierung und Rettung finanziell zu stützen. Anteile eines anderen Instituts, Finanzunternehmens, E-Geld-Instituts im Sinne des Zahlungsdiensteaufsichtsgesetzes, Zahlungsinstituts im Sinne des Zahlungsdiensteaufsichtsgesetzes, Erstversicherungsunternehmens oder Rückversicherungsunternehmens oder einer Versicherungs-Holdinggesellschaft, die ein Institut nur vorübergehend hält, um an den Finanzmärkten auf kontinuierlicher Basis durch den An- und Verkauf dieser Anteile unter Einsatz des eigenen Kapitals Handel für eigene Rechnung zu von ihm gestellten Kursen zu betreiben, sind dann nicht vom Kern- und Ergänzungskapital abzuziehen, wenn das Institut das Betreiben dieser Tätigkeit der Bundesanstalt und der Deutschen Bundesbank angezeigt hat und über angemessene Systeme und Kontrollen für den Handel mit diesen Anteilen verfügt. Ein Institut braucht Positionen nach Satz 1 Nr. 1 bis 4, die es selbst oder das ihm übergeordnete Unternehmen pflichtgemäß oder freiwillig in die Zusammenfassung nach den §§ 10a, 13b Abs. 3 Satz 1 und nach § 12 Abs. 2 Satz 1 und 2 einbezieht, nicht abzuziehen. Gehört ein Institut einer branchenübergreifend tätigen Unternehmensgruppe an, die kein Finanzkonglomerat ist, braucht es Positionen nach Satz 1 Nummer 5 und 6 nicht abzuziehen, wenn
+
+1.  
+diese Unternehmensgruppe mit Zustimmung der Bundesanstalt eine Berechnung der Eigenkapitalausstattung nach Maßgabe einer der Berechnungsmethoden, die in der Rechtsverordnung nach § 22 Absatz 1 Satz 1 des Finanzkonglomerate-Aufsichtsgesetzes näher bestimmt werden, zusätzlich durchführt und
+
+2.  
+das Institut und die betreffenden Unternehmen in entsprechender Anwendung der Kriterien des § 12 Absatz 1 und 2 oder des § 15 Absatz 2 des Finanzkonglomerate-Aufsichtsgesetzes als nachgeordnetes oder übergeordnetes Unternehmen in diese Berechnung einbezogen werden; eine Berechnung nach der Berechnungsmethode 1 darf nur dann erfolgen, wenn und soweit Umfang und Niveau des integrierten Managements und der internen Kontrollen in Bezug auf die in den Konsolidierungskreis einbezogenen Unternehmen angemessen sind. Die Wahlmöglichkeit nach Satz 5 ist von dem Unternehmen zu beantragen, das in entsprechender Anwendung der Kriterien des § 12 Absatz 1 und 2 oder des § 15 Absatz 2 des Finanzkonglomerate-Aufsichtsgesetzes übergeordnetes Unternehmen der Gruppe ist; die gewählte Berechnungsmethode ist auf Dauer einheitlich anzuwenden. Ein Institut, das einem Finanzkonglomerat angehört, braucht die Positionen nach Satz 1 Nummer 1 bis 6 nicht abzuziehen, wenn es selbst und die betreffenden Unternehmen in die Berechnung der Eigenmittel dieses Finanzkonglomerats auf Konglomeratsebene nach § 18 des Finanzkonglomerate-Aufsichtsgesetzes einbezogen werden.
 
 (6a) Bei der Ermittlung des modifizierten verfügbaren Eigenkapitals im Sinne von Absatz 1d Satz 2 sind jeweils hälftig von Kern- und Ergänzungskapital abzuziehen:
 
@@ -2486,9 +2536,9 @@ weder ein rechtliches noch ein bedeutendes tatsächliches Hindernis für die jed
 
 Das Institut hat der Bundesanstalt in seinem Antrag in vollem Umfang die für das Vorliegen der Voraussetzung nach Satz 1 Nr. 4 erforderlichen Umstände und Vorkehrungen, einschließlich rechtlich wirksamer Vereinbarungen, offen zu legen. Die Bundesanstalt unterrichtet die zuständigen Stellen im Europäischen Wirtschaftsraum regelmäßig, mindestens aber einmal jährlich, über nach Satz 1 erteilte Genehmigungen sowie über die Umstände und Vorkehrungen nach Satz 1 Nr. 4. Hat das Tochterunternehmen seinen Sitz in einem Drittstaat, so unterrichtet die Bundesanstalt die zuständige Behörde des betreffenden Drittstaats entsprechend.
 
-### § 10a Ermittlung der Eigenmittelausstattung von Institutsgruppen und Finanzholding-Gruppen
+### § 10a Ermittlung der Eigenmittelausstattung von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen
 
-(1) Eine Institutsgruppe im Sinne dieses Gesetzes besteht aus einem Institut im Sinne von § 1 Abs. 7a oder Abs. 7c mit Sitz im Inland (übergeordnetes Unternehmen) und den nachgeordneten Unternehmen (gruppenangehörige Unternehmen). Nachgeordnete Unternehmen im Sinne dieser Vorschrift sind die Tochterunternehmen eines Instituts, die selbst Institute, Kapitalanlagegesellschaften, Finanzunternehmen, Anbieter von Nebendienstleistungen, E-Geld-Institute im Sinne des Zahlungsdiensteaufsichtsgesetzes oder Zahlungsinstitute im Sinne des Zahlungsdiensteaufsichtsgesetzes sind. Ist das übergeordnete Unternehmen ein Finanzierungsleasing- oder ein Factoringinstitut im Sinne des § 1 Absatz 1a Satz 2 Nummer 9 oder 10, besteht nur dann eine Institutsgruppe im Sinne dieser Vorschrift, wenn ihm mindestens ein Einlagenkreditinstitut oder ein Wertpapierhandelsunternehmen mit Sitz im Inland als Tochterunternehmen nachgeordnet ist. Abweichend von den Sätzen 1 und 2 kann die Bundesanstalt auf Antrag des übergeordneten Unternehmens bestimmen, dass ein anderes gruppenangehöriges Institut als übergeordnetes Unternehmen gilt; das gruppenangehörige Institut ist vorab anzuhören. Erfüllt bei wechselseitigen Beteiligungen kein Institut der Institutsgruppe die Voraussetzungen des § 1 Abs. 7a oder Abs. 7c, bestimmt die Bundesanstalt das übergeordnete Unternehmen der Gruppe. Sind einem Institut ausschließlich Anbieter von Nebendienstleistungen nachgeordnet, besteht keine Institutsgruppe. Die Absätze 6 bis 8 und 10 bis 14 sind nicht anzuwenden auf Institutsgruppen und Finanzholding-Gruppen, wenn auf sämtliche gruppenangehörige Institute nach § 2 Absatz 7 bis 8b der § 10 auf Einzelebene nicht anzuwenden ist oder diese nach § 2 Absatz 4 oder 5 auf Einzelebene von der Anwendung des § 10 freigestellt wurden.
+(1) Eine Institutsgruppe im Sinne dieses Gesetzes besteht aus einem Institut im Sinne von § 1 Abs. 7a oder Abs. 7c mit Sitz im Inland (übergeordnetes Unternehmen) und den nachgeordneten Unternehmen (gruppenangehörige Unternehmen). Nachgeordnete Unternehmen im Sinne dieser Vorschrift sind die Tochterunternehmen eines Instituts, die selbst Institute, Kapitalanlagegesellschaften, Finanzunternehmen, Anbieter von Nebendienstleistungen, E-Geld-Institute im Sinne des Zahlungsdiensteaufsichtsgesetzes oder Zahlungsinstitute im Sinne des Zahlungsdiensteaufsichtsgesetzes sind. Ist das übergeordnete Unternehmen ein Finanzierungsleasing- oder ein Factoringinstitut im Sinne des § 1 Absatz 1a Satz 2 Nummer 9 oder 10, besteht nur dann eine Institutsgruppe im Sinne dieser Vorschrift, wenn ihm mindestens ein Einlagenkreditinstitut oder ein Wertpapierhandelsunternehmen mit Sitz im Inland als Tochterunternehmen nachgeordnet ist. Abweichend von den Sätzen 1 und 2 kann die Bundesanstalt auf Antrag des übergeordneten Unternehmens bestimmen, dass ein anderes gruppenangehöriges Institut als übergeordnetes Unternehmen gilt; das gruppenangehörige Institut ist vorab anzuhören. Erfüllt bei wechselseitigen Beteiligungen kein Institut der Institutsgruppe die Voraussetzungen des § 1 Abs. 7a oder Abs. 7c, bestimmt die Bundesanstalt das übergeordnete Unternehmen der Gruppe. Sind einem Institut ausschließlich Anbieter von Nebendienstleistungen nachgeordnet, besteht keine Institutsgruppe. Die Absätze 6 bis 8 und 10 bis 14 sind nicht anzuwenden auf Institutsgruppen, Finanzholding-Gruppen und gemischte Finanzholding-Gruppen, wenn auf sämtliche gruppenangehörige Institute nach § 2 Absatz 7 bis 8b der § 10 auf Einzelebene nicht anzuwenden ist oder diese nach § 2 Absatz 4 oder 5 auf Einzelebene von der Anwendung des § 10 freigestellt wurden.
 
 (2) Eine Institutsgruppe im Sinne dieses Gesetzes besteht auch dann, wenn ein Institut mit anderen Unternehmen der Banken- und Wertpapierdienstleistungsbranche oder der Investmentbranche eine horizontale Unternehmensgruppe bildet. Bei einer solchen Institutsgruppe gilt als übergeordnetes Unternehmen dasjenige gruppenangehörige Einlagenkreditinstitut oder Wertpapierhandelsunternehmen mit Sitz im Inland mit der höchsten Bilanzsumme; bei gleich hoher Bilanzsumme bestimmt die Bundesanstalt das übergeordnete Unternehmen.
 
@@ -2502,14 +2552,24 @@ das Einlagenkreditinstitut oder das Wertpapierhandelsunternehmen mit Sitz im Inl
 
 Bei einer Finanzholding-Gruppe gilt als übergeordnetes Unternehmen dasjenige gruppenangehörige Einlagenkreditinstitut oder Wertpapierhandelsunternehmen mit Sitz im Inland, das selbst keinem anderen gruppenangehörigen Institut mit Sitz im Inland nachgeordnet ist. Erfüllen mehrere Einlagenkreditinstitute oder Wertpapierhandelsunternehmen mit Sitz im Inland oder bei wechselseitigen Beteiligungen kein Institut mit Sitz im Inland diese Voraussetzungen, gilt als übergeordnetes Unternehmen regelmäßig das Einlagenkreditinstitut mit der höchsten Bilanzsumme; auf Antrag oder bei gleich hoher Bilanzsumme bestimmt die Bundesanstalt das Einlagenkreditinstitut oder Wertpapierhandelsunternehmen mit Sitz im Inland, das als übergeordnetes Unternehmen gilt. Abweichend von den Sätzen 4 und 5 kann die Bundesanstalt auf Antrag einer Finanzholding-Gesellschaft, die ihren Sitz im Inland hat, und nach Anhörung des beaufsichtigten Unternehmens, das nach den Sätzen 4 und 5 als übergeordnetes Unternehmen gilt oder nach Bestimmung durch die Bundesanstalt gelten würde, bestimmen, dass die Finanzholding-Gesellschaft als übergeordnetes Unternehmen gilt, sofern sie dargelegt hat, dass sie über die zur Einhaltung der gruppenbezogenen Pflichten erforderliche Struktur und Organisation verfügt. Abweichend von Satz 6 kann die Bundesanstalt eine Finanzholding-Gesellschaft, die ihren Sitz im Inland hat, nach Anhörung des beaufsichtigten Unternehmens, das nach den Sätzen 4 und 5 als übergeordnetes Unternehmen gilt oder nach Bestimmung durch die Bundesanstalt gelten würde, auch ohne Antrag als übergeordnetes Unternehmen bestimmen, sofern dies aus bankaufsichtlichen Gründen, insbesondere solchen, die sich aus der Organisation und Struktur der Finanzholding-Gruppe ergeben, erforderlich ist. Die nach Satz 6 oder Satz 7 bestimmte Finanzholding-Gesellschaft hat alle gruppenbezogenen Pflichten eines übergeordneten Unternehmens zu erfüllen. Liegen die Voraussetzungen für eine Anordnung nach Satz 6 oder Satz 7 nicht mehr vor, insbesondere, wenn die Finanzholding-Gesellschaft ihren Sitz in einen anderen Staat verlagert oder nicht mehr in der Lage ist, für die Einhaltung der gruppenbezogenen Pflichten zu sorgen, hat die Bundesanstalt die Anordnung nach Anhörung der Finanzholding-Gesellschaft aufzuheben; § 35 Abs. 3 gilt entsprechend. Die Bundesanstalt hat gegenüber einer nach Satz 6 oder Satz 7 zum übergeordneten Unternehmen bestimmten Finanzholding-Gesellschaft und deren Organen alle Befugnisse, die ihr gegenüber einem Institut als übergeordnetem Unternehmen und dessen Organen zustehen.
 
-(4) Als nachgeordnete Unternehmen gelten auch Institute, Kapitalanlagegesellschaften, Finanzunternehmen, Anbieter von Nebendienstleistungen, E-Geld-Institute im Sinne des Zahlungsdiensteaufsichtsgesetzes oder Zahlungsinstitute im Sinne des Zahlungsdiensteaufsichtsgesetzes mit Sitz im Inland oder Ausland, wenn ein gruppenangehöriges Unternehmen mindestens 20 vom Hundert der Kapitalanteile unmittelbar oder mittelbar hält, die Institute, Kapitalanlagegesellschaften oder Unternehmen gemeinsam mit anderen Unternehmen leitet und für die Verbindlichkeiten dieser Institute, Kapitalanlagegesellschaften oder Unternehmen auf ihre Kapitalanteile beschränkt haftet (qualifizierte Minderheitsbeteiligung). Unmittelbar oder mittelbar gehaltene Kapitalanteile sowie Kapitalanteile, die von einem anderen für Rechnung eines gruppenangehörigen Unternehmens gehalten werden, sind zusammenzurechnen. Mittelbar gehaltene Kapitalanteile sind nicht zu berücksichtigen, wenn sie durch ein Unternehmen vermittelt werden, das nicht Tochterunternehmen des übergeordneten Instituts oder der Finanzholding-Gesellschaft ist. Dies gilt entsprechend für mittelbar gehaltene Kapitalanteile, die durch mehr als ein Unternehmen vermittelt werden. Kapitalanteilen stehen Stimmrechte gleich. § 16 Abs. 2 und 3 des Aktiengesetzes gilt entsprechend.
+(3a) Eine gemischte Finanzholding-Gruppe im Sinne dieses Gesetzes besteht, wenn einer gemischten Finanzholding-Gesellschaft im Sinne von § 1 Absatz 7e oder 7f mit Sitz im Inland Unternehmen im Sinne des Absatzes 1 Satz 2 nachgeordnet sind, von denen mindestens ein Einlagenkreditinstitut oder Wertpapierhandelsunternehmen mit Sitz im Inland der gemischten Finanzholding-Gesellschaft als Tochterunternehmen nachgeordnet ist. Satz 1 findet keine Anwendung auf gemischte Finanzholding-Gesellschaften im Sinne von § 1 Absatz 7e, die ihrerseits einem Einlagenkreditinstitut oder Wertpapierhandelsunternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums als Tochterunternehmen nachgeordnet sind. Hat die Finanzholding-Gesellschaft im Sinne von § 1 Absatz 7e oder 7f ihren Sitz in einem anderen Staat des Europäischen Wirtschaftsraums, besteht eine gemischte Finanzholding-Gruppe, wenn
+
+1.  
+der gemischten Finanzholding-Gesellschaft mindestens ein Einlagenkreditinstitut oder Wertpapierhandelsunternehmen mit Sitz im Inland und weder ein Einlagenkreditinstitut noch ein Wertpapierhandelsunternehmen mit Sitz in ihrem Sitzstaat als Tochterunternehmen nachgeordnet ist und
+
+2.  
+das Einlagenkreditinstitut oder Wertpapierhandelsunternehmen mit Sitz im Inland eine höhere Bilanzsumme hat als jedes andere der gemischten Finanzholding-Gesellschaft als Tochterunternehmen nachgeordnetes Einlagenkreditinstitut oder Wertpapierhandelsunternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums; bei gleich hoher Bilanzsumme ist der frühere Zulassungszeitpunkt maßgeblich.
+
+Bei einer gemischten Finanzholding-Gruppe gilt als übergeordnetes Unternehmen dasjenige gruppenangehörige Einlagenkreditinstitut oder Wertpapierhandelsunternehmen mit Sitz im Inland, das selbst keinem anderen gruppenangehörigen Institut mit Sitz im Inland nachgeordnet ist. Erfüllen mehrere Einlagenkreditinstitute oder Wertpapierhandelsunternehmen mit Sitz im Inland oder bei wechselseitigen Beteiligungen ohne Sitz im Inland diese Voraussetzungen, so gilt als übergeordnetes Unternehmen im Regelfall das Einlagenkreditinstitut mit der höchsten Bilanzsumme; auf Antrag oder bei gleich hoher Bilanzsumme bestimmt die Bundesanstalt das Einlagenkreditinstitut oder Wertpapierhandelsunternehmen mit Sitz im Inland, das als übergeordnetes Unternehmen gilt. Abweichend von den Sätzen 4 und 5 kann die Bundesanstalt auf Antrag einer Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft, die ihren Sitz im Inland hat, und nach Anhörung des beaufsichtigten Unternehmens, das nach den Sätzen 4 und 5 als übergeordnetes Unternehmen gilt, bestimmen, dass die Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft als übergeordnetes Unternehmen gilt, sofern sie dargelegt hat, dass sie über die zur Einhaltung der gruppenbezogenen Pflichten erforderliche Struktur und Organisation verfügt. Abweichend von Satz 6 kann die Bundesanstalt eine Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft, die ihren Sitz im Inland hat, nach Anhörung des beaufsichtigten Unternehmens, das nach den Sätzen 4 und 5 als übergeordnetes Unternehmen gilt, auch ohne Antrag als übergeordnetes Unternehmen bestimmen, sofern dies erforderlich ist aus bankaufsichtlichen Gründen, insbesondere solchen, die sich aus der Organisation und Struktur der gemischten Finanzholding-Gruppe ergeben. Die nach den Sätzen 6 oder 7 bestimmte Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft hat alle gruppenbezogenen Pflichten eines übergeordneten Unternehmens zu erfüllen. Liegen die Voraussetzungen für eine Anordnung nach den Sätzen 6 oder 7 nicht mehr vor, insbesondere, wenn die Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft ihren Sitz in einen anderen Staat verlagert oder nicht mehr in der Lage ist, für die Einhaltung der gruppenbezogenen Pflichten zu sorgen, so hat die Bundesanstalt die Anordnung nach Anhörung der Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft aufzuheben; § 35 Absatz 3 gilt entsprechend. Die Bundesanstalt hat gegenüber einer nach den Sätzen 6 oder 7 zum übergeordneten Unternehmen bestimmten Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft und deren Organen alle Befugnisse, die ihr gegenüber einem Institut als übergeordnetem Unternehmen und dessen Organen zustehen.
+
+(4) Als nachgeordnete Unternehmen gelten auch Institute, Kapitalanlagegesellschaften, Finanzunternehmen, Anbieter von Nebendienstleistungen, E-Geld-Institute im Sinne des Zahlungsdiensteaufsichtsgesetzes oder Zahlungsinstitute im Sinne des Zahlungsdiensteaufsichtsgesetzes mit Sitz im Inland oder Ausland, sowie im Fall einer gemischten Finanzholding-Gruppe Unternehmen im Sinne des § 1 Absatz 19 Nummer 2 im Inland oder Ausland, wenn ein gruppenangehöriges Unternehmen mindestens 20 vom Hundert der Kapitalanteile unmittelbar oder mittelbar hält, die Institute, Kapitalanlagegesellschaften oder Unternehmen gemeinsam mit anderen Unternehmen leitet und für die Verbindlichkeiten dieser Institute, Kapitalanlagegesellschaften oder Unternehmen auf ihre Kapitalanteile beschränkt haftet (qualifizierte Minderheitsbeteiligung). Unmittelbar oder mittelbar gehaltene Kapitalanteile sowie Kapitalanteile, die von einem anderen für Rechnung eines gruppenangehörigen Unternehmens gehalten werden, sind zusammenzurechnen. Mittelbar gehaltene Kapitalanteile sind nicht zu berücksichtigen, wenn sie durch ein Unternehmen vermittelt werden, das nicht Tochterunternehmen des übergeordneten Instituts, der Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft ist. Dies gilt entsprechend für mittelbar gehaltene Kapitalanteile, die durch mehr als ein Unternehmen vermittelt werden. Kapitalanteilen stehen Stimmrechte gleich. § 16 Abs. 2 und 3 des Aktiengesetzes gilt entsprechend.
 
 (5) Als nachgeordnete Unternehmen gelten auch Unternehmen, die nach § 10 Abs. 6 Satz 4 freiwillig in die Zusammenfassung nach dieser Vorschrift sowie nach § 13b Abs. 3 Satz 1 und § 12 Abs. 2 Satz 1 und 2 einbezogen werden.
 
 (6) Ob gruppenangehörige Unternehmen insgesamt angemessene Eigenmittel haben, ist anhand einer Zusammenfassung ihrer Eigenmittel einschließlich der Anteile anderer Gesellschafter und der im Rahmen der Rechtsverordnung nach § 10 Abs. 1 Satz 9 maßgeblichen Risikopositionen zu beurteilen; bei gruppenangehörigen Unternehmen gelten als Eigenmittel die Bestandteile, die den nach § 10 anerkannten Bestandteilen entsprechen. Für die Zusammenfassung hat das übergeordnete Unternehmen seine maßgeblichen Positionen mit denen der anderen gruppenangehörigen Unternehmen zusammenzufassen. Von den gemäß Satz 2 zusammenzufassenden Eigenmitteln sind abzuziehen:
 
 1.  
-die bei dem übergeordneten Unternehmen und den anderen Unternehmen der Institutsgruppe oder Finanzholding-Gruppe ausgewiesenen, auf die gruppenangehörigen Unternehmen entfallenden Buchwerte
+die bei dem übergeordneten Unternehmen und den anderen Unternehmen der Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe ausgewiesenen, auf die gruppenangehörigen Unternehmen entfallenden Buchwerte
 
 a)  
 der Kapitalanteile,
@@ -2527,15 +2587,15 @@ e)
 der kurzfristigen nachrangigen Verbindlichkeiten nach § 10 Abs. 7 Satz 1 sowie
 
 2.  
-die bei dem übergeordneten Unternehmen oder einem anderen Unternehmen der Institutsgruppe oder Finanzholding-Gruppe berücksichtigten nicht realisierten Reserven nach § 10 Abs. 2b Satz 1 Nr. 6 und 7, soweit sie auf gruppenangehörige Unternehmen entfallen.
+die bei dem übergeordneten Unternehmen oder einem anderen Unternehmen der Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe berücksichtigten nicht realisierten Reserven nach § 10 Abs. 2b Satz 1 Nr. 6 und 7, soweit sie auf gruppenangehörige Unternehmen entfallen.
 
-Kapitalanteile, vorbehaltlich der Regelung für den aktivischen Unterschiedsbetrag nach den Sätzen 9 und 10, und Kapital nach § 10 Absatz 2a Satz 1 Nummer 8 und 10 sind vom Kernkapital abzuziehen. Längerfristige nachrangige Verbindlichkeiten sind von den Bestandteilen des Ergänzungskapitals nach § 10 Absatz 2b Satz 1 in Verbindung mit § 10 Absatz 2 Satz 7 abzuziehen. Kapital nach § 10 Absatz 2b Satz 1 Nummer 4 und die nicht realisierten Reserven sind vom Ergänzungskapital insgesamt, jeweils vor der in § 10 Absatz 2 Satz 6 und 7 vorgesehenen Kappung, abzuziehen. Kurzfristige nachrangige Verbindlichkeiten sind von den Drittrangmitteln gemäß § 10 Absatz 2c Satz 1 vor der in § 10 Absatz 2c Satz 2 und 3 vorgesehenen Kappung abzuziehen. Bei Beteiligungen, die über nicht gruppenangehörige Unternehmen vermittelt werden, sind solche Buchwerte und nicht realisierte Reserven jeweils quotal in Höhe desjenigen Anteils abzuziehen, welcher der durchgerechneten Kapitalbeteiligung entspricht. Ist der Buchwert einer Beteiligung höher als der nach Satz 2 zusammenzufassende Teil des Kapitals und der Rücklagen des nachgeordneten Unternehmens, hat das übergeordnete Unternehmen den Unterschiedsbetrag zu gleichen Teilen vom Kern- und Ergänzungskapital der Institutsgruppe oder Finanzholding-Gruppe abzuziehen. Dabei kann der aktivische Unterschiedsbetrag mit einem jährlich um mindestens ein Zehntel abnehmenden Betrag wie eine Beteiligung an einem gruppenfremden Unternehmen behandelt werden. Die Adressenausfallpositionen, die sich aus Rechtsverhältnissen zwischen gruppenangehörigen Unternehmen ergeben, sind nicht zu berücksichtigen. Marktrisikobehaftete Positionen verschiedener gruppenangehöriger Unternehmen können nicht miteinander verrechnet werden, es sei denn, die Unternehmen sind in die zentrale Risikosteuerung des übergeordneten Unternehmens einbezogen, die Eigenmittel sind in der Institutsgruppe oder Finanzholding-Gruppe angemessen verteilt und es ist bei nachgeordneten Unternehmen mit Sitz in Drittstaaten gewährleistet, dass die örtlichen Rechts- und Verwaltungsvorschriften den freien Kapitaltransfer zu anderen gruppenangehörigen Unternehmen nicht behindern.
+Kapitalanteile, vorbehaltlich der Regelung für den aktivischen Unterschiedsbetrag nach den Sätzen 9 und 10, und Kapital nach § 10 Absatz 2a Satz 1 Nummer 8 und 10 sind vom Kernkapital abzuziehen. Längerfristige nachrangige Verbindlichkeiten sind von den Bestandteilen des Ergänzungskapitals nach § 10 Absatz 2b Satz 1 in Verbindung mit § 10 Absatz 2 Satz 7 abzuziehen. Kapital nach § 10 Absatz 2b Satz 1 Nummer 4 und die nicht realisierten Reserven sind vom Ergänzungskapital insgesamt, jeweils vor der in § 10 Absatz 2 Satz 6 und 7 vorgesehenen Kappung, abzuziehen. Kurzfristige nachrangige Verbindlichkeiten sind von den Drittrangmitteln gemäß § 10 Absatz 2c Satz 1 vor der in § 10 Absatz 2c Satz 2 und 3 vorgesehenen Kappung abzuziehen. Bei Beteiligungen, die über nicht gruppenangehörige Unternehmen vermittelt werden, sind solche Buchwerte und nicht realisierte Reserven jeweils quotal in Höhe desjenigen Anteils abzuziehen, welcher der durchgerechneten Kapitalbeteiligung entspricht. Ist der Buchwert einer Beteiligung höher als der nach Satz 2 zusammenzufassende Teil des Kapitals und der Rücklagen des nachgeordneten Unternehmens, hat das übergeordnete Unternehmen den Unterschiedsbetrag zu gleichen Teilen vom Kern- und Ergänzungskapital der Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe abzuziehen. Dabei kann der aktivische Unterschiedsbetrag mit einem jährlich um mindestens ein Zehntel abnehmenden Betrag wie eine Beteiligung an einem gruppenfremden Unternehmen behandelt werden. Die Adressenausfallpositionen, die sich aus Rechtsverhältnissen zwischen gruppenangehörigen Unternehmen ergeben, sind nicht zu berücksichtigen. Marktrisikobehaftete Positionen verschiedener gruppenangehöriger Unternehmen können nicht miteinander verrechnet werden, es sei denn, die Unternehmen sind in die zentrale Risikosteuerung des übergeordneten Unternehmens einbezogen, die Eigenmittel sind in der Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe angemessen verteilt und es ist bei nachgeordneten Unternehmen mit Sitz in Drittstaaten gewährleistet, dass die örtlichen Rechts- und Verwaltungsvorschriften den freien Kapitaltransfer zu anderen gruppenangehörigen Unternehmen nicht behindern.
 
-(7) Ist das übergeordnete Unternehmen einer Institutsgruppe verpflichtet, nach den Vorschriften des Handelsgesetzbuchs einen Konzernabschluss aufzustellen oder ist es nach Artikel 4 der Verordnung (EG) Nr. 1606/2002 des Europäischen Parlaments und des Rates vom 19. Juli 2002 betreffend die Anwendung internationaler Rechnungslegungsstandards (ABl. EG Nr. L 243 S. 1) in der jeweils geltenden Fassung oder nach Maßgabe von § 315a Abs. 2 des Handelsgesetzbuchs verpflichtet, bei der Aufstellung des Konzernabschlusses die nach den Artikeln 3 und 6 der genannten Verordnung übernommenen internationalen Rechnungslegungsstandards anzuwenden, hat es spätestens nach Ablauf von fünf Jahren nach Entstehen dieser Verpflichtung bei der Ermittlung der zusammengefassten Eigenmittel sowie der zusammengefassten Risikopositionen nach Maßgabe der Rechtsverordnung nach § 10 Abs. 1 Satz 9 den Konzernabschluss zugrunde zu legen; als Eigenmittel gelten die Bestandteile, die den nach § 10 anerkannten Bestandteilen entsprechen. § 64h Abs. 3 und 4 bleibt unberührt. Wendet das übergeordnete Unternehmen einer Institutsgruppe die genannten internationalen Rechnungslegungsstandards nach Maßgabe von § 315a Abs. 3 des Handelsgesetzbuchs an, finden die Sätze 1 und 2 entsprechende Anwendung; an die Stelle des Entstehens der Verpflichtung tritt die erstmalige Anwendung der internationalen Rechnungslegungsstandards. Absatz 6 findet in den Fällen der Sätze 1 bis 3 vorbehaltlich des Satzes 6 keine Anwendung. Hierbei bleiben die Eigenmittel und sonstigen maßgeblichen Risikopositionen in den Konzernabschluss einbezogener Unternehmen, die keine gruppenangehörigen Unternehmen im Sinne dieser Vorschrift sind, unberücksichtigt. Eigenmittel und sonstige maßgebliche Risikopositionen nicht in den Konzernabschluss einbezogener Unternehmen, die gruppenangehörige Unternehmen im Sinne dieser Vorschrift sind, sind hinzuzurechnen, wobei das Verfahren nach Absatz 6 angewendet werden darf. Die Sätze 1 bis 6 gelten entsprechend für das übergeordnete Unternehmen einer Finanzholding-Gruppe, wenn die Finanzholding-Gesellschaft nach den genannten Vorschriften verpflichtet ist, einen Konzernabschluss aufzustellen oder nach § 315a Abs. 3 des Handelsgesetzbuchs einen Konzernabschluss nach den genannten internationalen Rechnungslegungsstandards aufstellt.
+(7) Ist das übergeordnete Unternehmen einer Institutsgruppe verpflichtet, nach den Vorschriften des Handelsgesetzbuchs einen Konzernabschluss aufzustellen oder ist es nach Artikel 4 der Verordnung (EG) Nr. 1606/2002 des Europäischen Parlaments und des Rates vom 19. Juli 2002 betreffend die Anwendung internationaler Rechnungslegungsstandards (ABl. EG Nr. L 243 S. 1) in der jeweils geltenden Fassung oder nach Maßgabe von § 315a Abs. 2 des Handelsgesetzbuchs verpflichtet, bei der Aufstellung des Konzernabschlusses die nach den Artikeln 3 und 6 der genannten Verordnung übernommenen internationalen Rechnungslegungsstandards anzuwenden, hat es spätestens nach Ablauf von fünf Jahren nach Entstehen dieser Verpflichtung bei der Ermittlung der zusammengefassten Eigenmittel sowie der zusammengefassten Risikopositionen nach Maßgabe der Rechtsverordnung nach § 10 Abs. 1 Satz 9 den Konzernabschluss zugrunde zu legen; als Eigenmittel gelten die Bestandteile, die den nach § 10 anerkannten Bestandteilen entsprechen. § 64h Abs. 3 und 4 bleibt unberührt. Wendet das übergeordnete Unternehmen einer Institutsgruppe die genannten internationalen Rechnungslegungsstandards nach Maßgabe von § 315a Abs. 3 des Handelsgesetzbuchs an, finden die Sätze 1 und 2 entsprechende Anwendung; an die Stelle des Entstehens der Verpflichtung tritt die erstmalige Anwendung der internationalen Rechnungslegungsstandards. Absatz 6 findet in den Fällen der Sätze 1 bis 3 vorbehaltlich des Satzes 6 keine Anwendung. Hierbei bleiben die Eigenmittel und sonstigen maßgeblichen Risikopositionen in den Konzernabschluss einbezogener Unternehmen, die keine gruppenangehörigen Unternehmen im Sinne dieser Vorschrift sind, unberücksichtigt. Eigenmittel und sonstige maßgebliche Risikopositionen nicht in den Konzernabschluss einbezogener Unternehmen, die gruppenangehörige Unternehmen im Sinne dieser Vorschrift sind, sind hinzuzurechnen, wobei das Verfahren nach Absatz 6 angewendet werden darf. Die Sätze 1 bis 6 gelten entsprechend für das übergeordnete Unternehmen einer Finanzholding-Gruppe oder gemischte Finanzholding-Gruppe, wenn die Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft nach den genannten Vorschriften verpflichtet ist, einen Konzernabschluss aufzustellen oder nach § 315a Abs. 3 des Handelsgesetzbuchs einen Konzernabschluss nach den genannten internationalen Rechnungslegungsstandards aufstellt.
 
-(8) Eine Institutsgruppe oder eine Finanzholding-Gruppe, die nach Absatz 7 bei der Ermittlung der zusammengefassten Eigenmittel sowie der zusammengefassten Risikopositionen den Konzernabschluss zugrunde zu legen hat, darf mit Zustimmung der Bundesanstalt für diese Zwecke das Verfahren nach Absatz 6 nutzen, wenn die Heranziehung des Konzernabschlusses im Einzelfall ungeeignet ist. Das übergeordnete Unternehmen der Institutsgruppe oder der Finanzholding-Gruppe muss das Verfahren nach Absatz 6 in diesem Fall in mindestens drei aufeinander folgenden Jahren anwenden.
+(8) Eine Institutsgruppe, eine Finanzholding-Gruppe oder eine gemischte Finanzholding-Gruppe, die nach Absatz 7 bei der Ermittlung der zusammengefassten Eigenmittel sowie der zusammengefassten Risikopositionen den Konzernabschluss zugrunde zu legen hat, darf mit Zustimmung der Bundesanstalt für diese Zwecke das Verfahren nach Absatz 6 nutzen, wenn die Heranziehung des Konzernabschlusses im Einzelfall ungeeignet ist. Das übergeordnete Unternehmen der Institutsgruppe, der Finanzholding-Gruppe oder der gemischten Finanzholding-Gruppe muss das Verfahren nach Absatz 6 in diesem Fall in mindestens drei aufeinander folgenden Jahren anwenden.
 
-(9) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über die Ermittlung der Eigenmittelausstattung von Institutsgruppen und Finanzholding-Gruppen zu erlassen, insbesondere über
+(9) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über die Ermittlung der Eigenmittelausstattung von Institutsgruppen, Finanzholding-Gruppen und gemischte Finanzholding-Gruppen zu erlassen, insbesondere über
 
 1.  
 die Überleitung von Angaben aus dem Konzernabschluss in die Ermittlung der zusammengefassten Eigenmittelausstattung bei Anwendung des Verfahrens nach Absatz 7,
@@ -2545,111 +2605,24 @@ die Behandlung der nach der Äquivalenzmethode bewerteten Beteiligungen bei Anwe
 
 Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute anzuhören.
 
-(10) Ermittelt eine Institutsgruppe oder Finanzholding-Gruppe die Angemessenheit ihrer Eigenmittelausstattung nach Maßgabe des Absatzes 7 und erstellt das übergeordnete Unternehmen einer Institutsgruppe oder einer Finanzholding-Gruppe Zwischenabschlüsse, sind diese einer prüferischen Durchsicht durch den Abschlussprüfer zu unterziehen. Der Zwischenabschluss nach Satz 1 gilt für die Zwecke dieser Vorschrift als ein mit dem Konzernabschluss vergleichbarer Abschluss, wobei Gewinne des Zwischenabschlusses dem Kernkapital zugerechnet werden, soweit sie nicht für voraussichtliche Gewinnausschüttungen oder Steueraufwendungen gebunden sind. Verluste, die sich aus Zwischenabschlüssen ergeben, sind vom Kernkapital abzuziehen. Das übergeordnete Unternehmen hat den Zwischenabschluss der Bundesanstalt und der Deutschen Bundesbank jeweils unverzüglich einzureichen. Der Abschlussprüfer hat eine Bescheinigung über die prüferische Durchsicht des Zwischenabschlusses unverzüglich nach Beendigung der prüferischen Durchsicht der Bundesanstalt und der Deutschen Bundesbank einzureichen.
+(10) Ermittelt eine Institutsgruppe, Finanzholding-Gruppe oder gemischte Finanzholding-Gruppe die Angemessenheit ihrer Eigenmittelausstattung nach Maßgabe des Absatzes 7 und erstellt das übergeordnete Unternehmen einer Institutsgruppe, einer Finanzholding-Gruppe oder einer gemischten Finanzholding-Gruppe Zwischenabschlüsse, sind diese einer prüferischen Durchsicht durch den Abschlussprüfer zu unterziehen. Der Zwischenabschluss nach Satz 1 gilt für die Zwecke dieser Vorschrift als ein mit dem Konzernabschluss vergleichbarer Abschluss, wobei Gewinne des Zwischenabschlusses dem Kernkapital zugerechnet werden, soweit sie nicht für voraussichtliche Gewinnausschüttungen oder Steueraufwendungen gebunden sind. Verluste, die sich aus Zwischenabschlüssen ergeben, sind vom Kernkapital abzuziehen. Das übergeordnete Unternehmen hat den Zwischenabschluss der Bundesanstalt und der Deutschen Bundesbank jeweils unverzüglich einzureichen. Der Abschlussprüfer hat eine Bescheinigung über die prüferische Durchsicht des Zwischenabschlusses unverzüglich nach Beendigung der prüferischen Durchsicht der Bundesanstalt und der Deutschen Bundesbank einzureichen.
 
 (11) Bei nachgeordneten Unternehmen, die keine Tochterunternehmen sind, hat das übergeordnete Unternehmen seine Eigenmittel und die im Rahmen der Rechtsverordnung nach § 10 Abs. 1 Satz 9 maßgeblichen Risikopositionen mit den Eigenmitteln und den maßgeblichen Risikopositionen der nachgeordneten Unternehmen jeweils quotal in Höhe desjenigen Anteils zusammenzufassen, der seiner Kapitalbeteiligung an dem nachgeordneten Unternehmen entspricht. Im Übrigen gelten die Absätze 6 und 7, jeweils auch in Verbindung mit der Rechtsverordnung nach Absatz 9.
 
-(12) Das übergeordnete Unternehmen ist für eine angemessene Eigenmittelausstattung der Institutsgruppe oder Finanzholding-Gruppe verantwortlich. Es darf jedoch zur Erfüllung seiner Verpflichtungen nach Satz 1 auf die gruppenangehörigen Unternehmen nur einwirken, soweit dem das allgemein geltende Gesellschaftsrecht nicht entgegensteht.
+(12) Das übergeordnete Unternehmen ist für eine angemessene Eigenmittelausstattung der Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe verantwortlich. Es darf jedoch zur Erfüllung seiner Verpflichtungen nach Satz 1 auf die gruppenangehörigen Unternehmen nur einwirken, soweit dem das allgemein geltende Gesellschaftsrecht nicht entgegensteht.
 
 (13) Die gruppenangehörigen Unternehmen haben zur Sicherstellung der ordnungsgemäßen Aufbereitung und Weiterleitung der für die Zusammenfassung gemäß den Absätzen 6, 7 und 11 erforderlichen Angaben eine ordnungsgemäße Organisation und angemessene interne Kontrollverfahren einzurichten. Sie sind verpflichtet, dem übergeordneten Unternehmen die für die Zusammenfassung erforderlichen Angaben zu übermitteln. Kann ein übergeordnetes Unternehmen für einzelne gruppenangehörige Unternehmen die erforderlichen Angaben nicht beschaffen, sind die auf das gruppenangehörige Unternehmen entfallenden, in Absatz 6 Satz 3 genannten Buchwerte von den Eigenmitteln des übergeordneten Unternehmens abzuziehen.
 
-(14) Auf ein Institut mit Sitz im Inland, dem mindestens ein Institut, eine Vermögensverwaltungsgesellschaft im Sinne des Artikels 2 Nr. 5 der Richtlinie 2002/87/EG oder Finanzunternehmen mit Sitz in einem Drittstaat nachgeordnet ist, finden, unabhängig davon, ob es selbst nachgeordnetes Unternehmen einer Institutsgruppe oder Finanzholding-Gruppe nach den Absätzen 1 bis 5 ist, die Absätze 6 bis 13 dieser Vorschrift sowie § 10 Anwendung; Absatz 1 Satz 3 gilt entsprechend. Hat die Finanzholding-Gesellschaft an der Spitze einer Finanzholding-Gruppe als Tochterunternehmen mindestens ein Institut, eine Vermögensverwaltungsgesellschaft im Sinne des Artikels 2 Nr. 5 der Richtlinie 2002/87/EG oder Finanzunternehmen mit Sitz in einem Drittstaat, gilt Satz 1 mit der Maßgabe, dass das übergeordnete Unternehmen der Finanzholding-Gruppe verpflichtet ist, die zusätzliche Zusammenfassung vorzunehmen.
+(14) Auf ein Institut mit Sitz im Inland, dem mindestens ein Institut, eine Vermögensverwaltungsgesellschaft im Sinne des Artikels 2 Nr. 5 der Richtlinie 2002/87/EG oder Finanzunternehmen mit Sitz in einem Drittstaat nachgeordnet ist, finden, unabhängig davon, ob es selbst nachgeordnetes Unternehmen einer Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe nach den Absätzen 1 bis 5 ist, die Absätze 6 bis 13 dieser Vorschrift sowie § 10 Anwendung; Absatz 1 Satz 3 gilt entsprechend. Hat die Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft an der Spitze einer Finanzholding-Gruppe oder einer gemischten Finanzholding-Gruppe als Tochterunternehmen mindestens ein Institut, eine Vermögensverwaltungsgesellschaft im Sinne des Artikels 2 Nummer 5 der Richtlinie 2002/87/EG oder ein Finanzunternehmen mit Sitz in einem Drittstaat, so gilt Satz 1 mit der Maßgabe, dass das übergeordnete Unternehmen der Finanzholding-Gruppe oder der gemischten Finanzholding-Gruppe verpflichtet ist, die zusätzliche Zusammenfassung vorzunehmen.
 
-### § 10b Eigenmittelausstattung von Finanzkonglomeraten
-
-(1) Ein Finanzkonglomerat muss insgesamt angemessene Eigenmittel haben. Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen über die angemessene Eigenmittelausstattung zur Durchführung des Artikels 6 und des Anhangs I der Richtlinie 2002/87/EG zu erlassen, insbesondere über
-
-1.  
-die zulässige Zusammensetzung der Eigenmittel,
-
-2.  
-den Umfang und die Form der Berechnung der zusätzlichen Eigenkapitalanforderung sowie die sonstigen technischen Grundsätze,
-
-3.  
-die folgenden zulässigen Berechnungsmethoden für die zusätzliche Eigenkapitalanforderung:
-
-a)  
-Methode 1: Berechnung auf Grundlage des konsolidierten Abschlusses;
-
-b)  
-Methode 2: Abzugs- und Aggregationsmethode;
-
-c)  
-Methode 3: Buchwert-/Anforderungsabzugsmethode oder
-
-d)  
-Kombination der Methoden 1 bis 3,
-
-4.  
-Risikomodelle,
-
-5.  
-Berechnungsintervalle.
-
-Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute und der Versicherungsbeirat nach § 92 des Versicherungsaufsichtsgesetzes anzuhören.
-
-(2) Die Bundesanstalt überprüft die angemessene Eigenmittelausstattung der Finanzkonglomerate. Das übergeordnete Finanzkonglomeratsunternehmen im Sinne des Absatzes 3 Satz 6 bis 8 oder des Absatzes 4 hat der Bundesanstalt und der Deutschen Bundesbank die für die Überprüfung der angemessenen Eigenmittelausstattung auf Konglomeratsebene nach Maßgabe des Absatzes 1 erforderlichen Angaben einzureichen, es sei denn, ein übergeordnetes Finanzkonglomeratsunternehmen im Sinne des § 104a Abs. 3 Satz 6 bis 8 oder Abs. 4 des Versicherungsaufsichtsgesetzes ist nach § 104q Abs. 2 des Versicherungsaufsichtsgesetzes anzeigepflichtig. Nähere Bestimmungen über Art, Umfang, Zeitpunkt und Form der Angaben sowie über die zulässigen Datenträger und Übertragungswege sind in der Rechtsverordnung nach Absatz 1 Satz 2 zu regeln.
-
-(3) In die Berechnung der Eigenmittel auf Konglomeratsebene nach Absatz 1 sind einzubeziehen das übergeordnete Finanzkonglomeratsunternehmen mit Sitz im Inland und die ihm nachgeordneten Finanzkonglomeratsunternehmen. Bei den in die Berechnung der Eigenmittel auf Konglomeratsebene einzubeziehenden Unternehmen gelten als Eigenmittel die Bestandteile, die den nach den Vorschriften dieses Gesetzes und des Versicherungsaufsichtsgesetzes anerkannten Bestandteilen entsprechen. Die Bundesanstalt bestimmt, welche der in der Rechtsverordnung nach Absatz 1 Satz 2 näher bestimmten Berechnungsmethoden das Finanzkonglomerat bei der Berechnung der Eigenmittel auf Konglomeratsebene anzuwenden hat; das übergeordnete Finanzkonglomeratsunternehmen ist vorab anzuhören. Steht eine gemischte Finanzholding-Gesellschaft an der Spitze des Finanzkonglomerats, dessen beaufsichtigte Finanzkonglomeratsunternehmen ihren Sitz nicht ausschließlich im Inland haben, ist die Anwendung jeder der in der Rechtsverordnung nach Absatz 1 Satz 2 näher bestimmten Berechnungsmethoden zulässig; das übergeordnete Finanzkonglomeratsunternehmen hat der Bundesanstalt und der Deutschen Bundesbank die Wahl der Berechnungsmethode unverzüglich anzuzeigen. Nachgeordnete Finanzkonglomeratsunternehmen im Sinne dieses Gesetzes sind die konglomeratsangehörigen gemischten Finanzholding-Gesellschaften, Kreditinstitute, Finanzdienstleistungsinstitute, Kapitalanlagegesellschaften, Finanzunternehmen, Anbieter von Nebendienstleistungen, E-Geld-Institute im Sinne des Zahlungsdiensteaufsichtsgesetzes, Zahlungsinstitute im Sinne des Zahlungsdiensteaufsichtsgesetzes, Erstversicherungsunternehmen, Rückversicherungsunternehmen und Versicherungsholding-Gesellschaften, die nicht übergeordnetes Finanzkonglomeratsunternehmen sind. Übergeordnetes Finanzkonglomeratsunternehmen im Sinne dieses Gesetzes ist das in der Banken- und Wertpapierdienstleistungsbranche tätige beaufsichtigte Finanzkonglomeratsunternehmen, das
-
-1.  
-an der Spitze eines Finanzkonglomerats steht, es sei denn, ein Erstversicherungsunternehmen mit Sitz im Inland steht ebenfalls an der Spitze des Finanzkonglomerats und die Versicherungsbranche ist stärker vertreten als die Banken- und Wertpapierdienstleistungsbranche;
-
-2.  
-ein Tochterunternehmen einer gemischten Finanzholding-Gesellschaft mit Sitz im Inland ist, es sei denn,
-
-a)  
-ein Erstversicherungsunternehmen mit Sitz im Inland ist das Tochterunternehmen derselben gemischten Finanzholding-Gesellschaft und die Versicherungsbranche ist stärker vertreten als die Banken- und Wertpapierdienstleistungsbranche;
-
-b)  
-ein in der Banken- und Wertpapierdienstleistungsbranche tätiges beaufsichtigtes Finanzkonglomeratsunternehmen derselben Gruppe mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums, das Tochterunternehmen einer gemischten Finanzholding-Gesellschaft in seinem Sitzstaat ist, hat eine höhere Bilanzsumme als das Einlagenkreditinstitut oder Wertpapierhandelsunternehmen mit Sitz im Inland;
-
-c)  
-ein Erstversicherungsunternehmen derselben Gruppe mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums ist Tochterunternehmen einer gemischten Finanzholding-Gesellschaft in seinem Sitzstaat und die Versicherungsbranche ist stärker vertreten als die Banken- und Wertpapierdienstleistungsbranche;
-
-erfüllen mehrere in der Banken- und Wertpapierdienstleistungsbranche tätige beaufsichtigte Finanzkonglomeratsunternehmen mit Sitz im Inland diese Voraussetzungen, ist das Institut mit der höchsten Bilanzsumme das übergeordnete Finanzkonglomeratsunternehmen;
-
-3.  
-ein Tochterunternehmen einer gemischten Finanzholding-Gesellschaft mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums ist, das kein Mutterunternehmen von einem beaufsichtigten Finanzkonglomeratsunternehmen mit Sitz in ihrem Sitzstaat ist, wenn
-
-a)  
-die Banken- und Wertpapierdienstleistungsbranche stärker als die Versicherungsbranche vertreten ist und
-
-b)  
-das in der Banken- und Wertpapierdienstleistungsbranche tätige beaufsichtigte Finanzkonglomeratsunternehmen mit Sitz im Inland die höchste Bilanzsumme hat.
-
-Vorbehaltlich des Satzes 6 Nr. 2 und 3 gilt ein in der Banken- und Wertpapierdienstleistungsbranche tätiges beaufsichtigtes Finanzkonglomeratsunternehmen mit Sitz im Inland als übergeordnetes Finanzkonglomeratsunternehmen, wenn die Banken- und Wertpapierdienstleistungsbranche stärker vertreten ist als die Versicherungsbranche und dieses Institut mit Sitz im Inland die höchste Bilanzsumme hat. Abweichend von Satz 6 Nr. 1 bis 3 und Satz 7 kann die Bundesanstalt unter Berücksichtigung der Struktur des Finanzkonglomerats nach Anhörung des beaufsichtigten Finanzkonglomeratsunternehmens, das nach den Sätzen 6 und 7 als übergeordnetes Finanzkonglomeratsunternehmen zu bestimmen wäre, ein anderes beaufsichtigtes Finanzkonglomeratsunternehmen oder eine gemischte Finanzholding-Gesellschaft als übergeordnetes Finanzkonglomeratsunternehmen bestimmen; das zu bestimmende Unternehmen ist ebenfalls vorab anzuhören. Im Sinne dieses Absatzes stärker vertreten ist jeweils die Finanzbranche mit dem höchsten durchschnittlichen Anteil nach § 51a Abs. 3.
-
-(4) Bestehen Beteiligungen an einem oder mehreren beaufsichtigten Finanzkonglomeratsunternehmen oder Kapitalbeziehungen zu derartigen Unternehmen oder kann auf derartige Unternehmen ein beherrschender Einfluss ausgeübt werden, ohne dass ein Fall des Absatzes 3 Satz 6 bis 8 vorliegt, kann die Bundesanstalt die Vorschriften dieses Gesetzes über die zusätzliche Beaufsichtigung auf Konglomeratsebene ganz oder teilweise auf diese Unternehmen entsprechend anwenden und eines dieser Unternehmen als übergeordnetes Finanzkonglomeratsunternehmen bestimmen, wenn
-
-1.  
-mindestens eines dieser Unternehmen der Banken- und Wertpapierdienstleistungsbranche und mindestens eines der Versicherungsbranche angehört und
-
-2.  
-die konsolidierten oder aggregierten Tätigkeiten beziehungsweise die konsolidierten und aggregierten Tätigkeiten dieser Unternehmen in der Banken- und Wertpapierdienstleistungsbranche sowie der Versicherungsbranche erheblich im Sinne des § 51a Abs. 3 sind.
-
-(5) Die Bundesanstalt kann auf die Eigenmittel des Finanzkonglomerats einen Korrekturposten festsetzen, wenn
-
-1.  
-unbeschadet der Erfüllung der Anforderungen nach Absatz 1 Satz 1 in Verbindung mit der Rechtsverordnung nach Absatz 1 Satz 2 oder nach § 13d oder § 25a Absatz 1b die Solvabilität des Finanzkonglomerats gefährdet ist;
-
-2.  
-bedeutende gruppeninterne Transaktionen innerhalb des Finanzkonglomerats oder bedeutende Risikokonzentrationen auf Konglomeratsebene die Finanzlage des Finanzkonglomerats gefährden.
-
-Die Bundesanstalt hat die Festsetzung auf Antrag des übergeordneten Finanzkonglomeratsunternehmens aufzuheben, soweit die Voraussetzung für die Festsetzung wegfällt. Die Bundesanstalt darf die in Satz 1 bezeichneten Anordnungen erst treffen, wenn das Finanzkonglomerat den Mangel nicht innerhalb einer von der Bundesanstalt zu bestimmenden Frist behoben hat.
-
-(6) Das übergeordnete Finanzkonglomeratsunternehmen ist für eine angemessene Eigenmittelausstattung des Finanzkonglomerats verantwortlich. Es darf jedoch zur Erfüllung seiner Verpflichtungen nach Satz 1 auf die nach Absatz 3 Satz 1 in die Berechnung der Eigenmittel auf Konglomeratsebene einzubeziehenden Unternehmen nur einwirken, soweit dem das allgemeine Gesellschaftsrecht nicht entgegensteht.
-
-(7) Die nach Absatz 3 Satz 1 in die Berechnung der Eigenmittel auf Konglomeratsebene einzubeziehenden Unternehmen haben zur Sicherstellung der ordnungsgemäßen Aufbereitung und Weiterleitung der für die zusätzliche Beaufsichtigung eines Finanzkonglomerats erforderlichen Angaben eine ordnungsgemäße Organisation und angemessene interne Kontrollverfahren einzurichten. Sie sind verpflichtet, die für die zusätzliche Beaufsichtigung erforderlichen Angaben an das nach Absatz 2 anzeigepflichtige Unternehmen zu übermitteln. Kann das nach Absatz 2 anzeigepflichtige Unternehmen für einzelne nachgeordnete Finanzkonglomeratsunternehmen die erforderlichen Angaben nicht beschaffen, sind die auf das nachgeordnete Finanzkonglomeratsunternehmen entfallenden Buchwerte nach Maßgabe der Rechtsverordnung nach Absatz 1 Satz 2 von den Eigenmitteln des übergeordneten Finanzkonglomeratsunternehmens abzuziehen.
-
-(8) Die Absätze 1, 6 und 7 gelten nicht für ein Finanzkonglomerat, das selbst einem Finanzkonglomerat nachgeordnet ist, für das die Absätze 1, 6 und 7 gelten.
+### § 10b (weggefallen)
 
 ### § 10c Nullgewichtung von Intragruppenforderungen
 
-(1) Für eine Kreditrisiko-Standardansatz-Position (KSA-Position) eines Instituts, das gruppenangehöriges Unternehmen einer Institutsgruppe nach § 10a Abs. 1 oder 2 oder Finanzholding-Gruppe nach § 10a Abs. 3 ist, die nicht den Eigenmitteln des Schuldners der KSA-Position zugerechnet wird, darf ein KSA-Risikogewicht von null vom Hundert verwendet werden, sofern die folgenden Voraussetzungen erfüllt sind:
+(1) Für eine Kreditrisiko-Standardansatz-Position (KSA-Position) eines Instituts, das gruppenangehöriges Unternehmen einer Institutsgruppe nach § 10a Abs. 1 oder 2 oder Finanzholding-Gruppe nach § 10a Abs. 3 oder gemischten Finanzholding-Gruppe nach § 10a Absatz 3a ist, die nicht den Eigenmitteln des Schuldners der KSA-Position zugerechnet wird, darf ein KSA-Risikogewicht von null vom Hundert verwendet werden, sofern die folgenden Voraussetzungen erfüllt sind:
 
 1.  
-der Schuldner der KSA-Position ist das übergeordnete Unternehmen der Institutsgruppe oder Finanzholding-Gruppe, ein nachgeordnetes Unternehmen der gleichen Institutsgruppe oder Finanzholding-Gruppe oder die Finanzholding-Gesellschaft an der Spitze der Finanzholding-Gruppe,
+der Schuldner der KSA-Position ist das übergeordnete Unternehmen der Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe, ein nachgeordnetes Unternehmen der gleichen Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe oder die Finanzholding-Gesellschaft beziehungsweise gemischte Finanzholding-Gesellschaft an der Spitze der Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe,
 
 2.  
 sowohl das Institut als auch der Schuldner sind in die Vollkonsolidierung einbezogen,
@@ -2668,7 +2641,7 @@ Das Institut hat das Vorliegen der Voraussetzungen angemessen zu dokumentieren. 
 (2) Für eine KSA-Position, deren Erfüllung von einem Unternehmen geschuldet wird, das Mitglied desselben institutsbezogenen Sicherungssystems ist wie das Institut, und die nicht den Eigenmitteln des Schuldners der KSA-Position zugerechnet wird, darf ein KSA-Risikogewicht von null vom Hundert verwendet werden, sofern die folgenden Voraussetzungen erfüllt sind:
 
 1.  
-der Schuldner der KSA-Position ist ein Institut, eine Kapitalanlagegesellschaft, eine Finanzholding-Gesellschaft, ein Finanzunternehmen oder ein Anbieter von Nebendienstleistungen und er unterliegt entweder der Aufsicht nach diesem Gesetz oder als Kapitalanlagegesellschaft der Aufsicht nach dem Investmentgesetz oder die Bundesanstalt hat ihm gegenüber Prüfungsrechte und Anordnungsbefugnisse,
+der Schuldner der KSA-Position ist ein Institut, eine Kapitalanlagegesellschaft, eine Finanzholding-Gesellschaft, eine gemischte Finanzholding-Gesellschaft, ein Finanzunternehmen oder ein Anbieter von Nebendienstleistungen und er unterliegt entweder der Aufsicht nach diesem Gesetz oder als Kapitalanlagegesellschaft der Aufsicht nach dem Investmentgesetz oder die Bundesanstalt hat ihm gegenüber Prüfungsrechte und Anordnungsbefugnisse,
 
 2.  
 das Institut und der Schuldner der KSA-Position haben ihren Sitz im Inland,
@@ -2738,17 +2711,17 @@ In der Rechtsverordnung ist an die Definition der Spareinlagen aus § 21 Abs. 4 
 
 (1) Ein Einlagenkreditinstitut darf an einem Unternehmen, das weder Institut, Kapitalanlagegesellschaft, Finanzunternehmen, Erstversicherungsunternehmen oder Rückversicherungsunternehmen noch Anbieter von Nebendienstleistungen ist, keine qualifizierte Beteiligung halten, deren Anteil am Nennkapital dem Betrage nach 15 vom Hundert des haftenden Eigenkapitals des Einlagenkreditinstituts übersteigt. Ein Einlagenkreditinstitut darf an Unternehmen im Sinne des Satzes 1 qualifizierte Beteiligungen nicht halten, deren Anteil am Nennkapital dem Betrage nach zusammen 60 vom Hundert des haftenden Eigenkapitals des Einlagenkreditinstituts übersteigt. Das Einlagenkreditinstitut darf die in Satz 1 oder 2 festgelegten Grenzen mit Zustimmung der Bundesanstalt überschreiten. Die Bundesanstalt darf die Zustimmung nur erteilen, wenn das Einlagenkreditinstitut die über die Grenze hinausgehenden Beteiligungen, bei Überschreitung beider Grenzen den höheren Betrag, jeweils hälftig mit Kern- und Ergänzungskapital unterlegt.
 
-(2) Das übergeordnete Unternehmen einer Gruppe im Sinne des § 10a Abs. 1 bis 3, zu der mindestens ein Einlagenkreditinstitut gehört, hat sicherzustellen, dass die Gruppe an einem Unternehmen im Sinne des Absatzes 1 Satz 1 qualifizierte Beteiligungen nicht hält, deren Anteil am Nennkapital dem Betrage nach 15 vom Hundert des haftenden Eigenkapitals der Gruppe übersteigt. Es hat außerdem sicherzustellen, dass die Gruppe insgesamt an Unternehmen im Sinne des Absatzes 1 Satz 1 qualifizierte Beteiligungen nicht hält, deren Anteil am Nennkapital dem Betrage nach zusammen 60 vom Hundert des haftenden Eigenkapitals der Gruppe übersteigt. Mit Zustimmung der Bundesanstalt darf das übergeordnete Unternehmen zulassen, dass die Gruppe die in Satz 1 oder Satz 2 festgelegten Grenzen überschreitet. Die Bundesanstalt darf die Zustimmung nur erteilen, wenn das Institut die über die Grenze hinausgehenden Beteiligungen, bei Überschreitung beider Grenzen den höheren Betrag, jeweils hälftig mit Kern- und Ergänzungskapital der Gruppe unterlegt. Die Sätze 1 bis 4 gelten entsprechend für Institute im Sinne des § 10a Abs. 14.
+(2) Das übergeordnete Unternehmen einer Gruppe im Sinne des § 10a Absatz 1 bis 3a, zu der mindestens ein Einlagenkreditinstitut gehört, hat sicherzustellen, dass die Gruppe an einem Unternehmen im Sinne des Absatzes 1 Satz 1 qualifizierte Beteiligungen nicht hält, deren Anteil am Nennkapital dem Betrage nach 15 vom Hundert des haftenden Eigenkapitals der Gruppe übersteigt. Es hat außerdem sicherzustellen, dass die Gruppe insgesamt an Unternehmen im Sinne des Absatzes 1 Satz 1 qualifizierte Beteiligungen nicht hält, deren Anteil am Nennkapital dem Betrage nach zusammen 60 vom Hundert des haftenden Eigenkapitals der Gruppe übersteigt. Mit Zustimmung der Bundesanstalt darf das übergeordnete Unternehmen zulassen, dass die Gruppe die in Satz 1 oder Satz 2 festgelegten Grenzen überschreitet. Die Bundesanstalt darf die Zustimmung nur erteilen, wenn das Institut die über die Grenze hinausgehenden Beteiligungen, bei Überschreitung beider Grenzen den höheren Betrag, jeweils hälftig mit Kern- und Ergänzungskapital der Gruppe unterlegt. Die Sätze 1 bis 4 gelten entsprechend für Institute im Sinne des § 10a Abs. 14.
 
 (3) (weggefallen)
 
 ### § 12a Begründung von Unternehmensbeziehungen
 
-(1) Ein Institut oder eine Finanzholding-Gesellschaft hat bei dem Erwerb einer Beteiligung an einem Unternehmen mit Sitz im Ausland oder der Begründung einer Unternehmensbeziehung mit einem solchen Unternehmen, wodurch das Unternehmen zu einem nachgeordneten Unternehmen im Sinne des § 10a Abs. 1 bis 5 oder § 13b Abs. 2 wird, sicherzustellen, daß es, im Falle einer Finanzholding-Gesellschaft das für die Zusammenfassung verantwortliche übergeordnete Unternehmen, die für die Erfüllung der jeweiligen Pflichten nach den §§ 10a, 13b und 25 Abs. 2 erforderlichen Angaben erhält. Satz 1 ist hinsichtlich der für die Erfüllung der Pflichten nach den §§ 10a und 13b erforderlichen Angaben nicht anzuwenden, wenn durch den gemäß § 10a Abs. 13 Satz 3 vorzunehmenden Abzug der Buchwerte in einer der Zusammenfassung nach § 10a Abs. 6 oder 7 und § 13b Abs. 3 vergleichbaren Weise dem Risiko aus der Begründung der Beteiligung oder der Unternehmensbeziehung Rechnung getragen und es der Bundesanstalt ermöglicht wird, die Einhaltung dieser Voraussetzung zu überprüfen. Das Institut oder die Finanzholding-Gesellschaft hat die Begründung, die Veränderung oder die Aufgabe einer in Satz 1 genannten Beteiligung oder Unternehmensbeziehung unverzüglich der Bundesanstalt und der Deutschen Bundesbank anzuzeigen.
+(1) Ein Institut, eine Finanzholding-Gesellschaft oder eine gemischte Finanzholding-Gesellschaft hat bei dem Erwerb einer Beteiligung an einem Unternehmen mit Sitz im Ausland oder der Begründung einer Unternehmensbeziehung mit einem solchen Unternehmen, wodurch das Unternehmen zu einem nachgeordneten Unternehmen im Sinne des § 10a Abs. 1 bis 5 oder § 13b Abs. 2 wird, sicherzustellen, daß es, im Falle einer Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft das für die Zusammenfassung verantwortliche übergeordnete Unternehmen, die für die Erfüllung der jeweiligen Pflichten nach den §§ 10a, 13b und 25 Abs. 2 erforderlichen Angaben erhält. Satz 1 ist hinsichtlich der für die Erfüllung der Pflichten nach den §§ 10a und 13b erforderlichen Angaben nicht anzuwenden, wenn durch den gemäß § 10a Abs. 13 Satz 3 vorzunehmenden Abzug der Buchwerte in einer der Zusammenfassung nach § 10a Abs. 6 oder 7 und § 13b Abs. 3 vergleichbaren Weise dem Risiko aus der Begründung der Beteiligung oder der Unternehmensbeziehung Rechnung getragen und es der Bundesanstalt ermöglicht wird, die Einhaltung dieser Voraussetzung zu überprüfen. Das Institut, die Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft hat die Begründung, die Veränderung oder die Aufgabe einer in Satz 1 genannten Beteiligung oder Unternehmensbeziehung unverzüglich der Bundesanstalt und der Deutschen Bundesbank anzuzeigen.
 
 (2) Die Bundesanstalt kann die Fortführung der Beteiligung oder der Unternehmensbeziehung untersagen, wenn das übergeordnete Unternehmen oder das Institut im Sinne von § 10a Abs. 14 die für die Erfüllung der Pflichten nach §§ 10a, 13b oder 25 Abs. 2 erforderlichen Angaben nicht erhält. Die Ausnahme nach Absatz 1 Satz 2 gilt entsprechend für die Untersagungsermächtigung nach Satz 1.
 
-(3) Die Absätze 1 und 2 Satz 1 gelten für eine gemischte Finanzholding-Gesellschaft und ein in der Banken- und Wertpapierdienstleistungsbranche tätiges beaufsichtigtes übergeordnetes Finanzkonglomeratsunternehmen in Bezug auf Pflichten nach den §§ 10b und 13d entsprechend.
+(3) (weggefallen)
 
 2. Kreditgeschäft
 -----------------
@@ -2779,19 +2752,19 @@ In der Rechtsverordnung ist an die Definition der Spareinlagen aus § 21 Abs. 4 
 
 (6) Die Absätze 1 und 2 gelten auch für Zusagen von Kreditrahmenkontingenten mit der Maßgabe, daß die Anzeigen nach Absatz 1 an Stichtagen zu erstatten sind, die durch Rechtsverordnung nach § 24 Abs. 4 Satz 1 bestimmt werden.
 
-### § 13b Großkredite von Institutsgruppen und Finanzholding-Gruppen
+### § 13b Großkredite von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen
 
-(1) Für die von den Unternehmen einer Institutsgruppe oder Finanzholding-Gruppe insgesamt gewährten Kredite gelten § 13 Abs. 1, 3 und 4 sowie § 13a Abs. 1 und 3 bis 6 über Großkredite einzelner Institute entsprechend.
+(1) Für die von den Unternehmen einer Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe insgesamt gewährten Kredite gelten § 13 Abs. 1, 3 und 4 sowie § 13a Abs. 1 und 3 bis 6 über Großkredite einzelner Institute entsprechend.
 
-(2) Für die Bestimmung einer Institutsgruppe oder Finanzholding-Gruppe im Sinne diese Vorschrift gilt § 10a Abs. 1 bis 5 und 14 entsprechend.
+(2) Für die Bestimmung einer Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe im Sinne diese Vorschrift gilt § 10a Abs. 1 bis 5 und 14 entsprechend.
 
-(3) Ob Unternehmen, die einer Institutsgruppe oder Finanzholding-Gruppe angehören, insgesamt einen Großkredit gewährt haben und die Obergrenzen nach den §§ 13 und 13a einhalten, ist anhand einer Zusammenfassung ihrer Eigenmittel einschließlich der Anteile anderer Gesellschafter und der Kredite an einen Kreditnehmer festzustellen, wenn für eines der gruppenangehörigen Unternehmen die kreditnehmerbezogene Gesamtposition 5 vom Hundert seines haftenden Eigenkapitals beträgt oder übersteigt. § 10a Abs. 6 Satz 2 bis 11 und Abs. 7 bis 11 gilt entsprechend.
+(3) Ob Unternehmen, die einer Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe angehören, insgesamt einen Großkredit gewährt haben und die Obergrenzen nach den §§ 13 und 13a einhalten, ist anhand einer Zusammenfassung ihrer Eigenmittel einschließlich der Anteile anderer Gesellschafter und der Kredite an einen Kreditnehmer festzustellen, wenn für eines der gruppenangehörigen Unternehmen die kreditnehmerbezogene Gesamtposition 5 vom Hundert seines haftenden Eigenkapitals beträgt oder übersteigt. § 10a Abs. 6 Satz 2 bis 11 und Abs. 7 bis 11 gilt entsprechend.
 
 (4) Das übergeordnete Unternehmen hat die Anzeigepflichten nach Absatz 1 in Verbindung mit den §§ 13 und 13a zu erfüllen. Es ist dafür verantwortlich, daß die gruppenangehörigen Unternehmen insgesamt die Obergrenzen nach den §§ 13 und 13a einhalten. Es darf jedoch zur Erfüllung seiner Verpflichtungen nach Satz 2 auf gruppenangehörige Unternehmen nur einwirken, soweit dem das allgemein geltende Gesellschaftsrecht nicht entgegensteht.
 
 (5) § 10a Abs. 13 und 14 gilt entsprechend.
 
-(6) Die Beschlussfassungspflichten nach § 13 Absatz 2 und § 13a Absatz 2 gelten entsprechend für das übergeordnete Unternehmen, wenn ein Unternehmen der Institutsgruppe oder der Finanzholding-Gruppe nach § 2a von der Anwendung der §§ 13 und 13a befreit ist.
+(6) Die Beschlussfassungspflichten nach § 13 Absatz 2 und § 13a Absatz 2 gelten entsprechend für das übergeordnete Unternehmen, wenn ein Unternehmen der Institutsgruppe, der Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe nach § 2a von der Anwendung der §§ 13 und 13a befreit ist.
 
 ### § 13c Gruppeninterne Transaktionen mit gemischten Unternehmen
 
@@ -2820,32 +2793,7 @@ Verstöße gegen die in der Rechtsverordnung nach Absatz 1 Satz 2 bestimmten Bes
 
 (4) Zur Ermittlung, Quantifizierung, Überwachung und Steuerung bedeutender gruppeninterner Transaktionen innerhalb einer gemischten Unternehmensgruppe müssen die gruppenangehörigen Einlagenkreditinstitute oder Wertpapierhandelsunternehmen über ein angemessenes Risikomanagement und angemessene interne Kontrollverfahren, einschließlich eines ordnungsgemäßen Berichtswesens und ordnungsgemäßer Rechnungslegungsverfahren, verfügen; die §§ 13 und 13b bleiben unberührt. § 10a Abs. 12 und 13 Satz 1 und 2 sowie § 25a Abs. 1 Satz 2 gelten entsprechend.
 
-### § 13d Risikokonzentrationen und gruppeninterne Transaktionen von Finanzkonglomeraten
-
-(1) Das übergeordnete Finanzkonglomeratsunternehmen im Sinne des § 10b Abs. 3 Satz 6 bis 8 oder Abs. 4 hat der Bundesanstalt und der Deutschen Bundesbank bedeutende Risikokonzentrationen auf Konglomeratsebene und bedeutende gruppeninterne Transaktionen innerhalb des Finanzkonglomerats anzuzeigen, es sei denn, ein übergeordnetes Finanzkonglomeratsunternehmen ist nach § 104q Abs. 3 Satz 6 bis 8 oder Abs. 4 des Versicherungsaufsichtsgesetzes anzeigepflichtig.
-
-(2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Benehmen mit der Deutschen Bundesbank nähere Bestimmungen zu Risikokonzentrationen und gruppeninternen Transaktionen zur Durchführung der Artikel 7 und 8 und des Anhangs II der Richtlinie 2002/87/EG zu erlassen, insbesondere über
-
-1.  
-Arten der anzuzeigenden Risikokonzentrationen und gruppeninternen Transaktionen sowie Schwellenwerte, anhand derer Risikokonzentrationen und gruppeninternen Transaktionen als bedeutend anzusehen sind;
-
-2.  
-Obergrenzen für bedeutende Risikokonzentrationen und bedeutende gruppeninterne Transaktionen sowie Beschränkungen hinsichtlich der Art gruppeninterner Transaktionen;
-
-3.  
-Art, Umfang, Zeitpunkt und Form der Angaben und über die zulässigen Datenträger und Übertragungswege.
-
-Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank zu erlassen ist. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute und der Versicherungsbeirat nach § 92 des Versicherungsaufsichtsgesetzes zu hören.
-
-(3) Ein in der Banken- und Wertpapierdienstleistungsbranche tätiges beaufsichtigtes Finanzkonglomeratsunternehmen darf unbeschadet der Wirksamkeit der Rechtsgeschäfte nur auf Grund eines einstimmigen Beschlusses sämtlicher Geschäftsleiter dieses Instituts bedeutende gruppeninterne Transaktionen durchführen. § 13 Abs. 2 Satz 2 bis 5 gilt entsprechend.
-
-(4) Unbeschadet der Wirksamkeit der Rechtsgeschäfte ist das übergeordnete Finanzkonglomeratsunternehmen dafür verantwortlich, dass bedeutende Risikokonzentrationen auf Konglomeratsebene oder bedeutende gruppeninterne Transaktionen innerhalb des Finanzkonglomerats ohne Zustimmung der Bundesanstalt nicht die in der Rechtsverordnung nach Absatz 2 festgelegten Obergrenzen überschreiten oder gegen die in der Rechtsverordnung festgelegten Beschränkungen hinsichtlich der Art gruppeninterner Transaktionen verstoßen. Es darf jedoch zur Erfüllung seiner Verpflichtungen nach Satz 1 auf die konglomeratsangehörigen Unternehmen nur einwirken, soweit dem das allgemeine Gesellschaftsrecht nicht entgegensteht; § 10b Abs. 7 und 8 gilt entsprechend. Die Zustimmung nach Satz 1 steht im Ermessen der Bundesanstalt. Unabhängig davon, ob die Bundesanstalt die Zustimmung erteilt, hat das nach Absatz 1 anzeigepflichtige Unternehmen das Überschreiten der Obergrenzen oder die Verstöße gegen die Beschränkungen hinsichtlich der Art gruppeninterner Transaktionen unverzüglich der Bundesanstalt und der Deutschen Bundesbank anzuzeigen. Die Bundesanstalt kann
-
-1.  
-bei einem Überschreiten der in der Rechtsverordnung nach Absatz 2 Satz 1 bestimmten Obergrenzen von dem Finanzkonglomerat die Unterlegung des Überschreitungsbetrags mit Eigenmitteln verlangen;
-
-2.  
-Verstöße gegen die in der Rechtsverordnung nach Absatz 2 Satz 1 bestimmten Beschränkungen hinsichtlich der Art gruppeninterner Transaktionen durch geeignete und erforderliche Maßnahmen unterbinden.
+### § 13d (weggefallen)
 
 ### § 14 Millionenkredite
 
@@ -2963,7 +2911,7 @@ der verbrieften Forderungen aus der Erstverlusttranche und, soweit diese 10 vom 
 
 Der materielle Nettoanteil nach Satz 2 ist zum Beginn der Verbriefungstransaktion zu ermitteln und kontinuierlich aufrechtzuerhalten. Er darf nicht Gegenstand von Kreditrisikominderungstechniken, Verkaufspositionen oder sonstiger Absicherungen sein. Bei der Ermittlung des materiellen Nettoanteils ist bei außerbilanziellen Positionen auf den Nominalwert abzustellen. Der materielle Nettoanteil ist für eine Verbriefungstransaktion nicht mehrfach anzusetzen.
 
-(2) Die Anforderung nach Absatz 1 kann auch auf konsolidierter Ebene durch das EU-Mutterinstitut oder die EU-Mutterfinanzholding-Gesellschaft erfüllt werden, wenn das EU-Mutterinstitut oder die EU-Mutterfinanzholding-Gesellschaft oder eines ihrer Tochterunternehmen Originator oder Sponsor einer Verbriefungstransaktion ist, deren verbrieftes Portfolio Forderungen enthält, die von Unternehmen begründet wurden, die derselben Institutsgruppe oder Finanzholding-Gruppe wie das EU-Mutterinstitut oder die EU-Mutterfinanzholding-Gesellschaft angehören. Voraussetzung dafür ist, dass die gruppenangehörigen Unternehmen, welche die Forderungen begründet haben, sich verpflichtet haben, die Anforderungen nach § 18b Absatz 4 zu erfüllen und dem EU-Mutterinstitut beziehungsweise der EU-Mutterfinanzholding-Gesellschaft rechtzeitig die zur Erfüllung der Anforderungen nach § 18b Absatz 5 erforderlichen Informationen zu übermitteln.
+(2) Die Anforderung nach Absatz 1 kann auch auf konsolidierter Ebene durch das EU-Mutterinstitut, die EU-Mutterfinanzholding-Gesellschaft oder die gemischte EU-Mutterfinanzholding-Gesellschaft erfüllt werden, wenn das EU-Mutterinstitut, die EU-Mutterfinanzholding-Gesellschaft oder die gemischte EU-Mutterfinanzholding-Gesellschaft oder eines ihrer Tochterunternehmen Originator oder Sponsor einer Verbriefungstransaktion ist, deren verbrieftes Portfolio Forderungen enthält, die von Unternehmen begründet wurden, die derselben Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe wie das EU-Mutterinstitut, die EU-Mutterfinanzholding-Gesellschaft oder die gemischte EU-Mutterfinanzholding-Gesellschaft angehören. Voraussetzung dafür ist, dass die gruppenangehörigen Unternehmen, welche die Forderungen begründet haben, sich verpflichtet haben, die Anforderungen nach § 18b Absatz 4 zu erfüllen und dem EU-Mutterinstitut oder der EU-Mutterfinanzholding-Gesellschaft oder der gemischten EU-Mutterfinanzholding-Gesellschaft rechtzeitig die zur Erfüllung der Anforderungen nach § 18b Absatz 5 erforderlichen Informationen zu übermitteln.
 
 (3) Absatz 1 ist nicht anzuwenden,
 
@@ -3775,8 +3723,8 @@ Im Übrigen hat der Verwalter des Refinanzierungsregisters die inhaltliche Richt
 
 (2) Scheidet ein Institut aus einer Sicherungseinrichtung aus, hat es die Kunden, die nicht Institute sind, sowie die Bundesanstalt und die Deutsche Bundesbank hierüber unverzüglich in Textform zu unterrichten.
 
-5. Besondere Pflichten der Institute, ihrer Geschäftsleiter, der Finanzholding-Gesellschaften und der gemischten Unternehmen
-----------------------------------------------------------------------------------------------------------------------------
+5. Besondere Pflichten der Institute, ihrer Geschäftsleiter sowie der Finanzholding-Gesellschaften, der gemischten Finanzholding-Gesellschaften und der gemischten Unternehmen
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 
 
@@ -3875,7 +3823,7 @@ das Ausscheiden einer Person, die die Geschäfte der Finanzholding-Gesellschaft 
 4.  
 die Bestellung eines Mitglieds des Verwaltungs- oder Aufsichtsorgans unter Angabe der zur Beurteilung seiner Zuverlässigkeit und Sachkunde erforderlichen Tatsachen.
 
-Eine Finanzholding-Gesellschaft hat der Bundesanstalt und der Deutschen Bundesbank ferner einmal jährlich eine Sammelanzeige der Institute, Kapitalanlagegesellschaften, Finanzunternehmen, Anbieter von Nebendienstleistungen und Zahlungsinstitute im Sinne des Zahlungsdiensteaufsichtsgesetzes, die ihr nachgeordnete Unternehmen im Sinne des § 10a Abs. 3 bis 5 sind, einzureichen. Die Bundesanstalt übermittelt den zuständigen Stellen der anderen Staaten des Europäischen Wirtschaftsraums, der Europäischen Bankenaufsichtsbehörde und der Europäischen Kommission eine Aufstellung über die eingegangenen Sammelanzeigen nach Satz 1. Die Begründung, die Veränderung oder die Aufgabe solcher Beteiligungen oder Unternehmensbeziehungen sind der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen. Satz 1 Nr. 1 und 2 gilt entsprechend für eine gemischte Finanzholding-Gesellschaft hinsichtlich der Personen, die die Geschäfte dieser Gesellschaft tatsächlich führen; die Sätze 2 und 4 gelten hinsichtlich der konglomeratsangehörigen Unternehmen entsprechend.
+Eine Finanzholding-Gesellschaft hat der Bundesanstalt und der Deutschen Bundesbank ferner einmal jährlich eine Sammelanzeige der Institute, Kapitalverwaltungsgesellschaften, Finanzunternehmen, Anbieter von Nebendienstleistungen und Zahlungsinstitute im Sinne des Zahlungsdiensteaufsichtsgesetzes, die ihr nachgeordnete Unternehmen im Sinne des § 10a Abs. 3 bis 5 sind, einzureichen. Die Bundesanstalt übermittelt den zuständigen Stellen der anderen Staaten des Europäischen Wirtschaftsraums, der Europäischen Bankenaufsichtsbehörde und der Europäischen Kommission eine Aufstellung über die eingegangenen Sammelanzeigen nach Satz 1. Die Begründung, die Veränderung oder die Aufgabe solcher Beteiligungen oder Unternehmensbeziehungen sind der Bundesanstalt und der Deutschen Bundesbank unverzüglich anzuzeigen. Satz 1 Nummer 1, 2 und 4 und die Sätze 2 bis 4 gelten entsprechend für eine gemischte Finanzholding-Gesellschaft.
 
 (3b) Die Bundesanstalt und die Deutsche Bundesbank können Instituten oder Arten oder Gruppen von Instituten zusätzliche Anzeige- und Meldepflichten auferlegen, insbesondere um vertieften Einblick in die Entwicklung der wirtschaftlichen Verhältnisse der Institute zu erhalten, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt und der Deutschen Bundesbank erforderlich ist.
 
@@ -4002,9 +3950,9 @@ eine vollständige Dokumentation der Geschäftstätigkeit, die eine lückenlose 
 
 Die Bundesanstalt kann Vorgaben zur Ausgestaltung einer plötzlichen und unerwarteten Zinsänderung und zur Ermittlungsmethodik der Auswirkungen auf den Barwert bezüglich der Zinsänderungsrisiken im Anlagebuch festlegen. Die Bundesanstalt kann gegenüber einem Institut im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, die ordnungsgemäße Geschäftsorganisation im Sinne der Sätze 3 und 6 sowie die Beachtung der Vorgaben nach Satz 7 sicherzustellen.
 
-(1a) Absatz 1 gilt für Institutsgruppen, Finanzholding-Gruppen und Institute im Sinne des § 10a Absatz 14 mit der Maßgabe entsprechend, dass die in § 1 Absatz 2 Satz 1 oder § 2d Absatz 1 bezeichneten Personen des übergeordneten Unternehmens für die ordnungsgemäße Geschäftsorganisation der Institutsgruppe oder Finanzholding-Gruppe verantwortlich sind. § 10a Absatz 12 und 13 Satz 1 und 2 gilt entsprechend.
+(1a) Absatz 1 gilt für Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und Institute im Sinne des § 10a Absatz 14 mit der Maßgabe entsprechend, dass die in § 1 Absatz 2 Satz 1 oder § 2d Absatz 1 bezeichneten Personen des übergeordneten Unternehmens für die ordnungsgemäße Geschäftsorganisation der Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe verantwortlich sind. § 10a Absatz 12 und 13 Satz 1 und 2 gilt entsprechend.
 
-(1b) Absatz 1 gilt für Finanzkonglomerate mit der Maßgabe entsprechend, dass die in § 1 Absatz 2 Satz 1 oder § 2d Absatz 1 bezeichneten Personen des übergeordneten Finanzkonglomeratsunternehmens für die ordnungsgemäße Geschäftsorganisation des Finanzkonglomerats verantwortlich sind. Eine ordnungsgemäße Geschäftsorganisation auf Konglomeratsebene umfasst zudem geeignete Vorkehrungen, um bei Bedarf zu geeigneten Sanierungs- und Abwicklungsverfahren und -plänen beizutragen und solche Verfahren und Pläne zu entwickeln. Diese Vorkehrungen sind regelmäßig zu überprüfen und anzupassen. § 10b Absatz 6 und 7 Satz 1 und 2 gilt entsprechend.
+(1b) (weggefallen)
 
 (2) Ein Institut muss abhängig von Art, Umfang, Komplexität und Risikogehalt einer Auslagerung von Aktivitäten und Prozessen auf ein anderes Unternehmen, die für die Durchführung von Bankgeschäften, Finanzdienstleistungen oder sonstigen institutstypischen Dienstleistungen wesentlich sind, angemessene Vorkehrungen treffen, um übermäßige zusätzliche Risiken zu vermeiden. Eine Auslagerung darf weder die Ordnungsmäßigkeit dieser Geschäfte und Dienstleistungen noch die Geschäftsorganisation im Sinne des Absatzes 1 beeinträchtigen. Insbesondere muss ein angemessenes und wirksames Risikomanagement durch das Institut gewährleistet bleiben, welches die ausgelagerten Aktivitäten und Prozesse einbezieht. Die Auslagerung darf nicht zu einer Delegation der Verantwortung der in § 1 Abs. 2 Satz 1 bezeichneten Personen an das Auslagerungsunternehmen führen. Das Institut bleibt bei einer Auslagerung für die Einhaltung der vom Institut zu beachtenden gesetzlichen Bestimmungen verantwortlich. Durch die Auslagerung darf die Bundesanstalt an der Wahrnehmung ihrer Aufgaben nicht gehindert werden; ihre Auskunfts- und Prüfungsrechte sowie Kontrollmöglichkeiten müssen in Bezug auf die ausgelagerten Aktivitäten und Prozesse auch bei einer Auslagerung auf ein Unternehmen mit Sitz in einem Staat des Europäischen Wirtschaftsraums oder einem Drittstaat durch geeignete Vorkehrungen gewährleistet werden. Entsprechendes gilt für die Wahrnehmung der Aufgaben der Prüfer des Instituts. Eine Auslagerung bedarf einer schriftlichen Vereinbarung, welche die zur Einhaltung der vorstehenden Voraussetzungen erforderlichen Rechte des Instituts, einschließlich Weisungs- und Kündigungsrechten, sowie die korrespondierenden Pflichten des Auslagerungsunternehmens festschreibt.
 
@@ -4028,30 +3976,37 @@ das Offenlegungsmedium und die Häufigkeit der Offenlegung im Sinne der Nummer 3
 
 Die Regelungen haben sich insbesondere an Größe und Vergütungsstruktur des Instituts sowie Art, Umfang, Komplexität, Risikogehalt und Internationalität der Geschäftsaktivitäten zu orientieren. Im Rahmen der Bestimmungen nach Satz 1 Nummer 3 müssen die auf Offenlegung der Vergütung bezogenen handelsrechtlichen Bestimmungen nach § 340a Absatz 1 und 2 in Verbindung mit § 340l Absatz 1 Satz 1 des Handelsgesetzbuchs unberührt bleiben. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute zu hören.
 
-5a. Verhinderung von Geldwäsche, von Terrorismusfinanzierung und von sonstigen strafbaren Handlungen zum Nachteil der Institute
--------------------------------------------------------------------------------------------------------------------------------
+5a. Bargeldloser Zahlungsverkehr; Verhinderung von Geldwäsche, Terrorismusfinanzierung und sonstigen strafbaren Handlungen zu Lasten der Institute
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 
 
 ### § 25b Einhaltung der besonderen organisatorischen Pflichten im bargeldlosen Zahlungsverkehr
 
-Die Bundesanstalt überwacht die Einhaltung der Pflichten der Kreditinstitute nach
+(1) Die Bundesanstalt überwacht die Einhaltung der Pflichten der Kreditinstitute nach
 
 1.  
-der Verordnung (EG) Nr. 1781/2006 des Europäischen Parlaments und des Rates vom 15. November 2006 über die Übermittlung von Angaben zum Auftraggeber bei Geldtransfers (ABl. L 345 vom 8.12.2006, S. 1) und
+der Verordnung (EG) Nr. 1781/2006 des Europäischen Parlaments und des Rates vom 15. November 2006 über die Übermittlung von Angaben zum Auftraggeber bei Geldtransfers (ABl. L 345 vom 8.12.2006, S. 1),
 
 2.  
-Artikel 8 der Verordnung (EG) Nr. 924/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über grenzüberschreitende Zahlungen in der Gemeinschaft und zur Aufhebung der Verordnung (EG) Nr. 2560/2001 (ABl. L 266 vom 9.10.2009, S. 1).
+der Verordnung (EG) Nr. 924/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über grenzüberschreitende Zahlungen in der Gemeinschaft und zur Aufhebung der Verordnung (EG) Nr. 2560/2001 (ABl. L 266 vom 9.10.2009, S. 1), die durch die Verordnung (EU) Nr. 260/2012 (ABl. L 94 vom 30.3.2012, S. 22) geändert worden ist, und
+
+3.  
+der Verordnung (EU) Nr. 260/2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22).
+
+(2) Ein Kreditinstitut muss über interne Verfahren und Kontrollsysteme verfügen, die die Einhaltung der Pflichten nach den Verordnungen nach Absatz 1 Nummer 1 bis 3 gewährleisten.
+
+(3) Die Bundesanstalt kann gegenüber einem Kreditinstitut und seinen Geschäftsleitern Anordnungen treffen, die geeignet und erforderlich sind, um Verstöße gegen die Pflichten nach den Verordnungen nach Absatz 1 Nummer 1 bis 3 zu verhindern oder zu unterbinden.
 
 ### § 25c Interne Sicherungsmaßnahmen
 
-(1) Institute sowie nach § 10a Absatz 3 Satz 6 oder Satz 7 oder nach § 10b Absatz 3 Satz 8 als übergeordnetes Unternehmen geltende Finanzholding-Gesellschaften und gemischte Finanzholding-Gesellschaften müssen unbeschadet der in § 25a Absatz 1 dieses Gesetzes und der in § 9 Absatz 1 und 2 des Geldwäschegesetzes aufgeführten Pflichten über ein angemessenes Risikomanagement sowie über Verfahren und Grundsätze verfügen, die der Verhinderung von Geldwäsche, Terrorismusfinanzierung oder sonstiger strafbarer Handlungen, die zu einer Gefährdung des Vermögens des Instituts führen können, dienen. Sie haben dafür angemessene geschäfts- und kundenbezogene Sicherungssysteme zu schaffen und zu aktualisieren sowie Kontrollen durchzuführen. Hierzu gehört auch die fortlaufende Entwicklung geeigneter Strategien und Sicherungsmaßnahmen zur Verhinderung des Missbrauchs von neuen Finanzprodukten und Technologien für Zwecke der Geldwäsche und der Terrorismusfinanzierung oder der Begünstigung der Anonymität von Geschäftsbeziehungen und Transaktionen.
+(1) Institute sowie nach § 10a Absatz 3 Satz 6 oder Satz 7 oder nach § 10a Absatz 3a Satz 6 oder Satz 7 als übergeordnetes Unternehmen geltende Finanzholding-Gesellschaften und gemischte Finanzholding-Gesellschaften müssen unbeschadet der in § 25a Absatz 1 dieses Gesetzes und der in § 9 Absatz 1 und 2 des Geldwäschegesetzes aufgeführten Pflichten über ein angemessenes Risikomanagement sowie über Verfahren und Grundsätze verfügen, die der Verhinderung von Geldwäsche, Terrorismusfinanzierung oder sonstiger strafbarer Handlungen, die zu einer Gefährdung des Vermögens des Instituts führen können, dienen. Sie haben dafür angemessene geschäfts- und kundenbezogene Sicherungssysteme zu schaffen und zu aktualisieren sowie Kontrollen durchzuführen. Hierzu gehört auch die fortlaufende Entwicklung geeigneter Strategien und Sicherungsmaßnahmen zur Verhinderung des Missbrauchs von neuen Finanzprodukten und Technologien für Zwecke der Geldwäsche und der Terrorismusfinanzierung oder der Begünstigung der Anonymität von Geschäftsbeziehungen und Transaktionen.
 
 (2) Kreditinstitute haben angemessene Datenverarbeitungssysteme zu betreiben und zu aktualisieren, mittels derer sie in der Lage sind, Geschäftsbeziehungen und einzelne Transaktionen im Zahlungsverkehr zu erkennen, die auf Grund des öffentlich und im Kreditinstitut verfügbaren Erfahrungswissens über die Methoden der Geldwäsche, der Terrorismusfinanzierung und sonstigen strafbaren Handlungen im Sinne des Absatzes 1 Satz 1 als zweifelhaft oder ungewöhnlich anzusehen sind. Die Kreditinstitute dürfen personenbezogene Daten erheben, verarbeiten und nutzen, soweit dies zur Erfüllung dieser Pflicht erforderlich ist. Die Bundesanstalt kann Kriterien bestimmen, bei deren Vorliegen Kreditinstitute vom Einsatz von Systemen nach Satz 1 absehen können.
 
 (3) Jeder Sachverhalt, der nach Absatz 2 Satz 1 als zweifelhaft oder ungewöhnlich anzusehen ist, ist vom Institut zu untersuchen, um das Risiko der jeweiligen Geschäftsbeziehungen oder Transaktionen überwachen, einschätzen und gegebenenfalls das Vorliegen eines nach § 11 Absatz 1 des Geldwäschegesetzes meldepflichtigen Sachverhalts oder die Erstattung einer Strafanzeige gemäß § 158 der Strafprozessordnung prüfen zu können. Über diese Sachverhalte hat das Institut angemessene Informationen nach Maßgabe des § 8 des Geldwäschegesetzes aufzuzeichnen und aufzubewahren, die für die Darlegung gegenüber der Bundesanstalt erforderlich sind, dass diese Sachverhalte nicht darauf schließen lassen, dass eine Tat nach § 261 des Strafgesetzbuchs oder eine Terrorismusfinanzierung begangen oder versucht wurde oder wird. Absatz 2 Satz 2 gilt entsprechend. Institute dürfen im Einzelfall einander Informationen im Rahmen der Erfüllung ihrer Untersuchungspflicht nach Satz 1 übermitteln, wenn es sich um einen in Bezug auf Geldwäsche, Terrorismusfinanzierung oder einer sonstigen Straftat auffälligen oder ungewöhnlichen Sachverhalt handelt und tatsächliche Anhaltspunkte dafür vorliegen, dass der Empfänger der Informationen diese für die Beurteilung der Frage benötigt, ob der Sachverhalt gemäß § 11 des Geldwäschegesetzes anzuzeigen oder eine Strafanzeige gemäß § 158 der Strafprozessordnung zu erstatten ist. Der Empfänger darf die Informationen ausschließlich zum Zweck der Verhinderung der Geldwäsche, der Terrorismusfinanzierung oder sonstiger strafbarer Handlungen und nur unter den durch das übermittelnde Institut vorgegebenen Bedingungen verwenden.
 
-(4) Institute haben einen der Geschäftsleitung unmittelbar nachgeordneten Geldwäschebeauftragten zu bestellen. Dieser ist für die Durchführung der Vorschriften zur Bekämpfung und Verhinderung der Geldwäsche und der Terrorismusfinanzierung zuständig sowie der Ansprechpartner für die Strafverfolgungsbehörden, das Bundeskriminalamt – Zentralstelle für Verdachtsmeldungen – und die Bundesanstalt. Der Geldwäschebeauftragte hat der Geschäftsleitung direkt und unmittelbar zu berichten. Für Institute gilt dies als übergeordnetes Unternehmen auch hinsichtlich einer Institutsgruppe im Sinne des § 10a Absatz 1 oder Absatz 2 einer Finanzholding-Gruppe im Sinne des § 10a Absatz 3 oder als Mutterunternehmen auch hinsichtlich eines Finanzkonglomerats im Sinne des § 1 Absatz 20 Satz 1. Institute haben die für eine ordnungsgemäße Durchführung der Aufgaben des Geldwäschebeauftragten notwendigen Mittel und Verfahren vorzuhalten und wirksam einzusetzen. Dem Geldwäschebeauftragten ist ungehinderter Zugang zu sämtlichen Informationen, Daten, Aufzeichnungen und Systemen zu verschaffen, die im Rahmen der Erfüllung seiner Aufgaben von Bedeutung sein können. Ihm sind ausreichende Befugnisse zur Erfüllung seiner Funktion einzuräumen. Seine Bestellung und Entpflichtung sind der Bundesanstalt mitzuteilen.
+(4) Institute haben einen der Geschäftsleitung unmittelbar nachgeordneten Geldwäschebeauftragten zu bestellen. Dieser ist für die Durchführung der Vorschriften zur Bekämpfung und Verhinderung der Geldwäsche und der Terrorismusfinanzierung zuständig sowie der Ansprechpartner für die Strafverfolgungsbehörden, das Bundeskriminalamt – Zentralstelle für Verdachtsmeldungen – und die Bundesanstalt. Der Geldwäschebeauftragte hat der Geschäftsleitung direkt und unmittelbar zu berichten. Für Institute gilt dies als übergeordnetes Unternehmen auch hinsichtlich einer Institutsgruppe im Sinne des § 10a Absatz 1 oder Absatz 2 einer Finanzholding-Gruppe im Sinne des § 10a Absatz 3, einer gemischten Finanzholding-Gruppe im Sinne des § 10a Absatz 3a oder als Mutterunternehmen auch hinsichtlich eines Finanzkonglomerats im Sinne des § 1 Absatz 20. Institute haben die für eine ordnungsgemäße Durchführung der Aufgaben des Geldwäschebeauftragten notwendigen Mittel und Verfahren vorzuhalten und wirksam einzusetzen. Dem Geldwäschebeauftragten ist ungehinderter Zugang zu sämtlichen Informationen, Daten, Aufzeichnungen und Systemen zu verschaffen, die im Rahmen der Erfüllung seiner Aufgaben von Bedeutung sein können. Ihm sind ausreichende Befugnisse zur Erfüllung seiner Funktion einzuräumen. Seine Bestellung und Entpflichtung sind der Bundesanstalt mitzuteilen.
 
 (5) Institute dürfen interne Sicherungsmaßnahmen nach dieser Vorschrift mit vorheriger Zustimmung der Bundesanstalt im Rahmen von vertraglichen Vereinbarungen durch einen Dritten durchführen lassen. Die Zustimmung kann erteilt werden, wenn der Dritte die Gewähr dafür bietet, dass die Sicherungsmaßnahmen ordnungsgemäß durchgeführt werden und die Steuerungsmöglichkeiten der Institute und die Kontrollmöglichkeiten der Bundesanstalt nicht beeinträchtigt werden.
 
@@ -4169,7 +4124,7 @@ Maßnahmen zu ergreifen, um sicherzustellen, dass das Korrespondenzinstitut kein
 
 (1) Die in § 25c Absatz 1, 3 und 4 genannten Institute und Unternehmen haben als übergeordnete Unternehmen in Bezug auf ihre nachgeordneten Unternehmen, Zweigstellen und Zweigniederlassungen gruppenweite interne Sicherungsmaßnahmen nach § 9 des Geldwäschegesetzes und § 25c Absatz 1, 3 und 4 zu schaffen, die Einhaltung der Sorgfaltspflichten nach den §§ 3, 5 und 6 des Geldwäschegesetzes und den §§ 25d und 25f sowie der Aufzeichnungs- und Aufbewahrungspflicht nach § 8 des Geldwäschegesetzes sicherzustellen. Verantwortlich für die ordnungsgemäße Erfüllung der Pflichten nach Satz 1 sind die Geschäftsleiter im Sinne des § 1 Abs. 2 Satz 1. Soweit die nach Satz 1 im Rahmen der Begründung oder Durchführung von Geschäftsbeziehungen oder Transaktionen zu treffenden Maßnahmen in einem Drittstaat, in dem das Unternehmen ansässig ist, nach dem Recht des betroffenen Staates nicht zulässig oder tatsächlich nicht durchführbar sind, hat das übergeordnete Unternehmen oder Mutterunternehmen sicherzustellen, dass ein nachgeordnetes Unternehmen, eine Zweigstelle oder Zweigniederlassung in diesem Drittstaat keine Geschäftsbeziehung begründet oder fortsetzt und keine Transaktionen durchführt. Soweit eine Geschäftsbeziehung bereits besteht, hat das übergeordnete Unternehmen oder Mutterunternehmen sicherzustellen, dass diese von dem nachgeordneten Unternehmen, der Zweigstelle oder der Zweigniederlassung ungeachtet anderer gesetzlicher oder vertraglicher Bestimmungen durch Kündigung oder auf andere Weise beendet wird. Für den Fall, dass am ausländischen Sitz eines nachgeordneten Unternehmens, einer Zweigstelle oder einer Zweigniederlassung strengere Pflichten gelten, sind dort diese strengeren Pflichten zu erfüllen.
 
-(2) Finanzholding-Gesellschaften oder gemischte Finanzholding-Gesellschaften, die nach § 10a Abs. 3 Satz 6 oder Satz 7 oder § 10b Abs. 3 Satz 8 als übergeordnetes Unternehmen gelten, sind Verpflichtete im Sinne des § 2 Abs. 1 Nr. 1 des Geldwäschegesetzes. Sie unterliegen insoweit auch der Aufsicht der Bundesanstalt nach § 16 Abs. 1 in Verbindung mit Abs. 2 Nr. 2 des Geldwäschegesetzes.
+(2) Finanzholding-Gesellschaften oder gemischte Finanzholding-Gesellschaften, die nach § 10a Abs. 3 Satz 6 oder Satz 7 oder § 10a Absatz 3a Satz 6 oder Satz 7 als übergeordnetes Unternehmen gelten, sind Verpflichtete im Sinne des § 2 Abs. 1 Nr. 1 des Geldwäschegesetzes. Sie unterliegen insoweit auch der Aufsicht der Bundesanstalt nach § 16 Abs. 1 in Verbindung mit Abs. 2 Nr. 2 des Geldwäschegesetzes.
 
 ### § 25h Verbotene Geschäfte
 
@@ -4224,7 +4179,7 @@ das Institut verpflichten, dem Risiko angemessene Pflichten nach Maßgabe der §
 
 (2) Hat im Zusammenhang mit einer Sicherungseinrichtung eine zusätzliche Prüfung stattgefunden, hat der Prüfer oder der Prüfungsverband den Bericht über diese Prüfung der Bundesanstalt und der Deutschen Bundesbank unverzüglich einzureichen.
 
-(3) Ein Institut, das einen Konzernabschluß oder einen Konzernlagebericht aufstellt, hat diese Unterlagen der Bundesanstalt und der Deutschen Bundesbank unverzüglich einzureichen. Das übergeordnete Unternehmen einer Finanzholding-Gruppe im Sinne des § 10a Absatz 3 oder eines Finanzkonglomerats hat einen Konzernabschluss oder einen Konzernlagebericht unverzüglich einzureichen, wenn die Finanzholding-Gesellschaft an der Spitze der Gruppe oder die gemischte Finanzholding-Gesellschaft an der Spitze des Finanzkonglomerats einen Konzernabschluss oder Konzernlagebericht aufstellt. Der Konzernabschlussprüfer hat die Prüfungsberichte über die in den Sätzen 1 und 2 genannten Konzernabschlüsse und Konzernlageberichte unverzüglich nach Beendigung seiner Prüfung bei der Bundesanstalt und der Deutschen Bundesbank einzureichen. Bei Kreditinstituten, die einem genossenschaftlichen Prüfungsverband angehören oder durch die Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden, hat der Prüfer den Prüfungsbericht nur auf Anforderung der Bundesanstalt einzureichen.
+(3) Ein Institut, das einen Konzernabschluß oder einen Konzernlagebericht aufstellt, hat diese Unterlagen der Bundesanstalt und der Deutschen Bundesbank unverzüglich einzureichen. Das übergeordnete Unternehmen einer Finanzholding-Gruppe im Sinne des § 10a Absatz 3, einer gemischten Finanzholding-Gruppe im Sinne des § 10a Absatz 3a oder eines Finanzkonglomerats hat einen Konzernabschluss oder einen Konzernlagebericht unverzüglich einzureichen, wenn die Finanzholding-Gesellschaft an der Spitze der Finanzholding-Gruppe oder die gemischte Finanzholding-Gesellschaft an der Spitze der gemischten Finanzholding-Gruppe oder des Finanzkonglomerats einen Konzernabschluss oder Konzernlagebericht aufstellt. Der Konzernabschlussprüfer hat die Prüfungsberichte über die in den Sätzen 1 und 2 genannten Konzernabschlüsse und Konzernlageberichte unverzüglich nach Beendigung seiner Prüfung bei der Bundesanstalt und der Deutschen Bundesbank einzureichen. Bei Kreditinstituten, die einem genossenschaftlichen Prüfungsverband angehören oder durch die Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden, hat der Prüfer den Prüfungsbericht nur auf Anforderung der Bundesanstalt einzureichen.
 
 (4) Die Bestimmungen des Absatzes 3 gelten entsprechend für einen Einzelabschluss nach § 325 Abs. 2a des Handelsgesetzbuchs.
 
@@ -4236,6 +4191,8 @@ das Institut verpflichten, dem Risiko angemessene Pflichten nach Maßgabe der §
 ### § 26a Offenlegung durch die Institute
 
 (1) Ein Institut muss regelmäßig qualitative und quantitative Informationen über sein Eigenkapital, die eingegangenen Risiken und seine Risikomanagementverfahren, einschließlich der nach § 10 Abs. 1 Satz 2 verwandten internen Modelle, der Kreditrisikominderungstechniken und der Verbriefungstransaktionen veröffentlichen und über förmliche Verfahren und Regelungen zur Erfüllung dieser Offenlegungspflichten verfügen. Die Regelungen müssen auch die regelmäßige Überprüfung der Angemessenheit und Zweckmäßigkeit der Offenlegungspraxis des Instituts vorsehen. Nähere Anforderungen an den Inhalt der offen zu legenden Informationen und die Verfahren und Regelungen zur Erfüllung der Offenlegungspflicht können durch die Rechtsverordnung nach § 10 Abs. 1 Satz 9 Nr. 7 geregelt werden.
+
+(1a) Zusätzlich zu den Angaben, die nach Absatz 1 zu machen sind, sind die rechtliche und die organisatorische Struktur sowie die Grundsätze einer ordnungsgemäßen Geschäftsführung der Gruppe darzustellen. Absatz 1 Satz 3 gilt entsprechend.
 
 (2) Eine Offenlegungspflicht besteht nicht für solche Informationen, die nicht wesentlich, rechtlich geschützt oder vertraulich sind. Informationen gelten insbesondere dann als
 
@@ -4252,7 +4209,7 @@ In diesen Fällen legt das Institut den Grund für die Nichtoffenlegung solcher 
 
 (3) Kommt ein Institut seinen Offenlegungspflichten in anderen als den in Absatz 2 genannten Fällen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nach, kann die Bundesanstalt im Einzelfall Anordnungen treffen, die geeignet und erforderlich sind, die ordnungsgemäße Offenlegung der Informationen zu veranlassen.
 
-(4) Die Absätze 1 bis 3 gelten für Institutsgruppen und Finanzholding-Gruppen nach § 10a Abs. 1 bis 5 mit der Maßgabe entsprechend, dass die in § 1 Abs. 2 Satz 1 bezeichneten Personen des übergeordneten Unternehmens für die ordnungsgemäße Offenlegung der Institutsgruppe oder der Finanzholding-Gruppe verantwortlich sind. § 10a Abs. 12 und 13 Satz 1 und 2 gilt entsprechend. In den Fällen nach Satz 1 entfällt eine Offenlegung von Informationen nach den Absätzen 1 bis 3 für das Einzelinstitut.
+(4) Die Absätze 1 bis 3 gelten für Institutsgruppen, Finanzholding-Gruppen und gemischte Finanzholding-Gruppen nach § 10a Abs. 1 bis 5 mit der Maßgabe entsprechend, dass die in § 1 Abs. 2 Satz 1 bezeichneten Personen des übergeordneten Unternehmens für die ordnungsgemäße Offenlegung der Institutsgruppe, der Finanzholding-Gruppe oder der gemischten Finanzholding-Gruppe verantwortlich sind. § 10a Abs. 12 und 13 Satz 1 und 2 gilt entsprechend. In den Fällen nach Satz 1 entfällt eine Offenlegung von Informationen nach den Absätzen 1 bis 3 für das Einzelinstitut.
 
 6. Prüfung und Prüferbestellung
 -------------------------------
@@ -4284,11 +4241,11 @@ Die Bestellung durch das Gericht ist endgültig. § 318 Abs. 5 des Handelsgesetz
 
 ### § 29 Besondere Pflichten des Prüfers
 
-(1) Bei der Prüfung des Jahresabschlusses sowie eines Zwischenabschlusses hat der Prüfer auch die wirtschaftlichen Verhältnisse des Instituts zu prüfen. Bei der Prüfung des Jahresabschlusses hat er insbesondere festzustellen, ob das Institut die Anzeigepflichten nach den §§ 10, 10b, 11, 12a, 13 bis 13d und 14 Abs. 1, nach den §§ 15, 24 und 24a jeweils auch in Verbindung mit einer Rechtsverordnung nach § 24 Abs. 4 Satz 1, nach § 24a auch in Verbindung mit einer Rechtsverordnung nach § 24a Abs. 5, sowie die Anforderungen nach § 1a Abs. 4 bis 8 jeweils auch in Verbindung mit einer Rechtsverordnung nach § 1a Abs. 9, nach den §§ 10 bis 10b, 11, 12, 13 bis 13d, 18, 25a Absatz 1 Satz 3 in Verbindung mit einer Rechtsverordnung nach § 25a Absatz 5, nach § 25a Absatz 1 Satz 6 Nummer 1, Absatz 1a bis 2 und § 26a, nach den §§ 13 bis 13c und 14 Abs. 1 jeweils auch in Verbindung mit einer Rechtsverordnung nach § 22 sowie die Anforderungen nach Artikel 4 Absatz 1, 2 und 3 Unterabsatz 2, Artikel 9 Absatz 1 bis 4 sowie Artikel 11 Absatz 1 bis 10, 11 Unterabsatz 1 und Absatz 12 der Verordnung (EU) Nr. 648/2012 erfüllt hat. Macht ein Institut von der Ausnahme nach § 2a Gebrauch, hat der Prüfer das Vorliegen der dort genannten Voraussetzungen zu prüfen. Hat die Bundesanstalt nach § 30 gegenüber dem Institut Bestimmungen über den Inhalt der Prüfung getroffen, sind diese vom Prüfer zu berücksichtigen. Sofern dem haftenden Eigenkapital des Instituts nicht realisierte Reserven zugerechnet werden, hat der Prüfer bei der Prüfung des Jahresabschlusses auch zu prüfen, ob bei der Ermittlung dieser Reserven § 10 Abs. 4a bis 4c beachtet worden ist. Das Ergebnis ist in den Prüfungsbericht aufzunehmen.
+(1) Bei der Prüfung des Jahresabschlusses sowie eines Zwischenabschlusses hat der Prüfer auch die wirtschaftlichen Verhältnisse des Instituts zu prüfen. Bei der Prüfung des Jahresabschlusses hat er insbesondere festzustellen, ob das Institut die Anzeigepflichten nach den §§ 10, 11, 12a, 13 bis 13c und 14 Absatz 1, den §§ 17, 23 und 27 des Finanzkonglomerate-Aufsichtsgesetzes, nach den §§ 15, 24 und 24a jeweils auch in Verbindung mit einer Rechtsverordnung nach § 24 Abs. 4 Satz 1, nach § 24a auch in Verbindung mit einer Rechtsverordnung nach § 24a Abs. 5, sowie die Anforderungen nach § 1a Abs. 4 bis 8 jeweils auch in Verbindung mit einer Rechtsverordnung nach § 1a Abs. 9, nach den §§ 10, 11, 12, 13 bis 13c, 25a Absatz 1 Satz 3, den §§ 17 und 23 des Finanzkonglomerate-Aufsichtsgesetzes in Verbindung mit einer Rechtsverordnung nach § 25a Absatz 5, nach § 25a Absatz 1 Satz 6 Nummer 1, Absatz 1a bis 2 und § 26a, nach den §§ 13 bis 13c und 14 Abs. 1 jeweils auch in Verbindung mit einer Rechtsverordnung nach § 22 sowie die Anforderungen nach Artikel 4 Absatz 1, 2 und 3 Unterabsatz 2, Artikel 9 Absatz 1 bis 4 sowie Artikel 11 Absatz 1 bis 10, 11 Unterabsatz 1 und Absatz 12 der Verordnung (EU) Nr. 648/2012 erfüllt hat. Macht ein Institut von der Ausnahme nach § 2a Gebrauch, hat der Prüfer das Vorliegen der dort genannten Voraussetzungen zu prüfen. Hat die Bundesanstalt nach § 30 gegenüber dem Institut Bestimmungen über den Inhalt der Prüfung getroffen, sind diese vom Prüfer zu berücksichtigen. Sofern dem haftenden Eigenkapital des Instituts nicht realisierte Reserven zugerechnet werden, hat der Prüfer bei der Prüfung des Jahresabschlusses auch zu prüfen, ob bei der Ermittlung dieser Reserven § 10 Abs. 4a bis 4c beachtet worden ist. Bei einem Kreditinstitut, das aufgefordert wurde, einen Sanierungsplan nach § 47 Absatz 1 aufzustellen, hat der Prüfer auch zu prüfen, ob der Sanierungsplan die Voraussetzungen nach § 47 Absatz 1 Satz 2 sowie nach § 47a Absatz 1 bis 3 und Absatz 4 Satz 2 und 4 erfüllt. Das Ergebnis ist in den Prüfungsbericht aufzunehmen.
 
 (1a) Absatz 1 gilt hinsichtlich der Anforderungen nach Artikel 4 Absatz 1, 2 und 3 Unterabsatz 2, Artikel 9 Absatz 1 bis 4 sowie Artikel 11 Absatz 1 bis 10, 11 Unterabsatz 1 und Absatz 12 der Verordnung (EU) Nr. 648/2012 für die Prüfung des Jahresabschlusses von zentralen Gegenparteien mit der Maßgabe, dass der Prüfer zusätzlich zu prüfen hat, ob die Anforderungen nach Artikel 7 Absatz 1 bis 4, Artikel 8 Absatz 1 bis 4 und den Artikeln 26, 29, 33 bis 54 der Verordnung (EU) Nr. 648/2012 sowie der gemäß diesen Artikeln erlassenen technischen Regulierungsstandards eingehalten sind. Satz 1 gilt entsprechend für den verkürzten Abschluss einer zentralen Gegenpartei, wenn ein solcher nach den gesetzlichen Vorgaben zu erstellen ist.
 
-(2) Der Prüfer hat auch zu prüfen, ob das Institut seinen Verpflichtungen nach den §§ 24c und 25c bis 25h, dem Geldwäschegesetz und der Verordnung (EG) Nr. 1781/2006 nachgekommen ist. Zudem hat er die Einhaltung der Mitteilungs- und Veröffentlichungspflichten und sonstigen Anforderungen der Artikel 5 bis 10 und 12 bis 14 der Verordnung (EU) Nr. 236/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 über Leerverkäufe und bestimmte Aspekte von Credit Default Swaps (ABl. L 86 vom 24.3.2012, S. 1) zu prüfen. Bei Instituten, die das Depotgeschäft betreiben, hat er dieses Geschäft besonders zu prüfen, soweit es nicht nach § 36 Abs. 1 Satz 2 des Wertpapierhandelsgesetzes zu prüfen ist; diese Prüfung hat sich auch auf die Einhaltung des § 128 des Aktiengesetzes über Mitteilungspflichten und des § 135 des Aktiengesetzes über die Ausübung des Stimmrechts zu erstrecken. Über die Prüfungen nach den Sätzen 1 bis 3 ist jeweils gesondert zu berichten; § 26 Abs. 1 Satz 3 gilt entsprechend.
+(2) Der Prüfer hat auch zu prüfen, ob das Institut seinen Verpflichtungen nach den §§ 24c und 25c bis 25h, dem Geldwäschegesetz und der Verordnung (EG) Nr. 1781/2006 nachgekommen ist; bei Kreditinstituten hat der Prüfer auch zu prüfen, ob das Kreditinstitut seinen Verpflichtungen nach der Verordnung (EG) Nr. 924/2009 und der Verordnung (EU) Nr. 260/2012 nachgekommen ist. Zudem hat er die Einhaltung der Mitteilungs- und Veröffentlichungspflichten und sonstigen Anforderungen der Artikel 5 bis 10 und 12 bis 14 der Verordnung (EU) Nr. 236/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 über Leerverkäufe und bestimmte Aspekte von Credit Default Swaps (ABl. L 86 vom 24.3.2012, S. 1) zu prüfen. Bei Instituten, Zweigniederlassungen im Sinne des § 53b und Zweigstellen im Sinne des § 53, die das Depotgeschäft betreiben, hat er dieses Geschäft besonders zu prüfen, soweit es nicht nach § 36 Abs. 1 Satz 2 des Wertpapierhandelsgesetzes zu prüfen ist; diese Prüfung hat sich auch auf die Einhaltung des § 128 des Aktiengesetzes über Mitteilungspflichten und des § 135 des Aktiengesetzes über die Ausübung des Stimmrechts zu erstrecken. Über die Prüfungen nach den Sätzen 1 bis 3 ist jeweils gesondert zu berichten; § 26 Abs. 1 Satz 3 gilt entsprechend.
 
 (3) Der Prüfer hat unverzüglich der Bundesanstalt und der Deutschen Bundesbank anzuzeigen, wenn ihm bei der Prüfung Tatsachen bekannt werden, welche die Einschränkung oder Versagung des Bestätigungsvermerkes rechtfertigen, die den Bestand des Instituts gefährden oder seine Entwicklung wesentlich beeinträchtigen können, die einen erheblichen Verstoß gegen die Vorschriften über die Zulassungsvoraussetzungen des Instituts oder die Ausübung einer Tätigkeit nach diesem Gesetz darstellen oder die schwerwiegende Verstöße der Geschäftsleiter gegen Gesetz, Satzung oder Gesellschaftsvertrag erkennen lassen. Auf Verlangen der Bundesanstalt oder der Deutschen Bundesbank hat der Prüfer ihnen den Prüfungsbericht zu erläutern und sonstige bei der Prüfung bekannt gewordene Tatsachen mitzuteilen, die gegen eine ordnungsmäßige Durchführung der Geschäfte des Instituts sprechen. Die Anzeige-, Erläuterungs- und Mitteilungspflichten nach den Sätzen 1 und 2 bestehen auch in Bezug auf ein Unternehmen, das mit dem Institut in enger Verbindung steht, sofern dem Prüfer die Tatsachen im Rahmen der Prüfung des Instituts bekannt werden. Der Prüfer haftet nicht für die Richtigkeit von Tatsachen, die er nach diesem Absatz in gutem Glauben anzeigt.
 
@@ -4303,7 +4260,7 @@ den Zeitpunkt ihrer Durchführung und
 3.  
 den Inhalt der Prüfungsberichte
 
-zu erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um Missstände, welche die Sicherheit der einem Institut anvertrauten Vermögenswerte gefährden oder die ordnungsgemäße Durchführung der Bankgeschäfte oder Finanzdienstleistungen beeinträchtigen können, zu erkennen sowie einheitliche Unterlagen zur Beurteilung der von den Instituten durchgeführten Geschäfte zu erhalten. In der Rechtsverordnung kann bestimmt werden, dass die in den Absätzen 1 bis 3 geregelten Pflichten auch bei der Prüfung des Konzernabschlusses einer Instituts- oder Finanzholding-Gruppe oder eines Finanzkonglomerats einzuhalten sind; nähere Bestimmungen über den Gegenstand der Prüfung, den Zeitpunkt ihrer Durchführung und den Inhalt des Prüfungsberichts können dabei nach Maßgabe des Satzes 1 erlassen werden. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+zu erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um Missstände, welche die Sicherheit der einem Institut anvertrauten Vermögenswerte gefährden oder die ordnungsgemäße Durchführung der Bankgeschäfte oder Finanzdienstleistungen beeinträchtigen können, zu erkennen sowie einheitliche Unterlagen zur Beurteilung der von den Instituten durchgeführten Geschäfte zu erhalten. In der Rechtsverordnung kann bestimmt werden, dass die in den Absätzen 1 bis 3 geregelten Pflichten auch bei der Prüfung des Konzernabschlusses einer Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe oder eines Finanzkonglomerats einzuhalten sind; nähere Bestimmungen über den Gegenstand der Prüfung, den Zeitpunkt ihrer Durchführung und den Inhalt des Prüfungsberichts können dabei nach Maßgabe des Satzes 1 erlassen werden. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 (+++ § 29 Abs. 1 Satz 2: Zur Anwendung vgl. § 64o Abs. 2 +++)
 (+++ § 29 Abs. 1a: Zur Anwendung vgl. § 64o Abs. 3 +++)
@@ -4331,17 +4288,17 @@ Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnu
 
 (2) Die Bundesanstalt kann einzelne Institute von Verpflichtungen nach § 13 Abs. 1 und 2, § 13a Abs. 1 und 2, § 15 Abs. 1 Satz 1 Nr. 6 bis 11 und Abs. 2, § 24 Abs. 1 Nr. 1 bis 4, den §§ 25, 26 und 29 Abs. 2 Satz 2 sowie von der Verpflichtung nach § 15 Abs. 1 Satz 1, Kredite nur zu marktmäßigen Bedingungen zu gewähren, freistellen, wenn dies aus besonderen Gründen, insbesondere wegen der Art oder des Umfanges der betriebenen Geschäfte, angezeigt ist. Die Freistellung kann auf Antrag des Instituts oder von Amts wegen erfolgen.
 
-(3) Ein übergeordnetes Unternehmen im Sinne von § 10a Abs. 1 bis 3 und § 13b Abs. 2 kann von der Einbeziehung einzelner nachgeordneter Unternehmen im Sinne von § 10a Abs. 1 bis 5 und § 13b Abs. 2 in die Zusammenfassung nach § 10a Abs. 6 bis 12, § 12a Abs. 1 Satz 1, § 13b Abs. 3 und 4 und § 25 Abs. 2 absehen, wenn und solange die Bilanzsumme des einzelnen nachgeordneten Unternehmens niedriger als der kleinere der folgenden zwei Beträge ist:
+(3) Ein übergeordnetes Unternehmen im Sinne von § 10a Absatz 1 bis 3a und § 13b Abs. 2 kann von der Einbeziehung einzelner nachgeordneter Unternehmen im Sinne von § 10a Abs. 1 bis 5 und § 13b Abs. 2 in die Zusammenfassung nach § 10a Abs. 6 bis 12, § 12a Abs. 1 Satz 1, § 13b Abs. 3 und 4 und § 25 Abs. 2 absehen, wenn und solange die Bilanzsumme des einzelnen nachgeordneten Unternehmens niedriger als der kleinere der folgenden zwei Beträge ist:
 
 1.  
 10 Millionen Euro oder
 
 2.  
-1 vom Hundert der Bilanzsumme des einer Institutsgruppe übergeordneten Unternehmens oder der die Beteiligung haltenden Finanzholding-Gesellschaft.
+1 vom Hundert der Bilanzsumme des einer Institutsgruppe übergeordneten Unternehmens oder der die Beteiligung haltenden Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft.
 
-Das übergeordnete Unternehmen hat der Bundesanstalt und der Deutschen Bundesbank die Absicht, Satz 1 für ein Unternehmen in Anspruch zu nehmen, unverzüglich anzuzeigen sowie einmal jährlich in einer Sammelanzeige mitzuteilen, welche Unternehmen es nach Satz 1 von der Einbeziehung in die Zusammenfassung nach § 10a Abs. 6 bis 12, § 12a Abs. 1 Satz 1, § 13b Abs. 3 und 4 und § 25 Abs. 2 ausgenommen hat. Die Bundesanstalt kann anordnen, dass einzelne oder mehrere nach Satz 1 von der Zusammenfassung ausgenommene nachgeordnete Unternehmen wieder in die Zusammenfassung aufgenommen werden, wenn die Gesamtheit dieser Unternehmen für die Aufsicht auf zusammengefasster Basis nicht von untergeordneter Bedeutung ist. In anderen als den in Satz 1 genannten Fällen kann die Bundesanstalt auf Antrag einzelne übergeordnete Unternehmen im Sinne des § 10a Abs. 1 bis 3 und des § 13b Abs. 2 von Verpflichtungen nach § 10a Abs. 6 bis 12, § 12a Abs. 1 Satz 1, § 13b Abs. 3 und 4 und § 25 Abs. 2 hinsichtlich einzelner nachgeordneter Unternehmen im Sinne des § 10a Abs. 1 bis 5 und des § 13b Abs. 2 freistellen, wenn deren Einbeziehung für die Aufsicht auf zusammengefasster Basis ohne oder von untergeordneter Bedeutung ist. Für einzelne gruppenangehörige Unternehmen ist eine Freistellung auf Antrag des übergeordneten Instituts oder von Amts wegen auch zulässig, wenn nach Auffassung der Bundesanstalt ihre Einbeziehung in die Aufsicht auf zusammengefasster Basis ungeeignet oder irreführend wäre. Die Sätze 1 bis 5 gelten entsprechend für Institute, die nach § 10a Abs. 14 zur Ermittlung der zusammengefassten Eigenmittel verpflichtet sind.
+Das übergeordnete Unternehmen hat der Bundesanstalt und der Deutschen Bundesbank die Absicht, Satz 1 für ein Unternehmen in Anspruch zu nehmen, unverzüglich anzuzeigen sowie einmal jährlich in einer Sammelanzeige mitzuteilen, welche Unternehmen es nach Satz 1 von der Einbeziehung in die Zusammenfassung nach § 10a Abs. 6 bis 12, § 12a Abs. 1 Satz 1, § 13b Abs. 3 und 4 und § 25 Abs. 2 ausgenommen hat. Die Bundesanstalt kann anordnen, dass einzelne oder mehrere nach Satz 1 von der Zusammenfassung ausgenommene nachgeordnete Unternehmen wieder in die Zusammenfassung aufgenommen werden, wenn die Gesamtheit dieser Unternehmen für die Aufsicht auf zusammengefasster Basis nicht von untergeordneter Bedeutung ist. In anderen als den in Satz 1 genannten Fällen kann die Bundesanstalt auf Antrag einzelne übergeordnete Unternehmen im Sinne des § 10a Absatz 1 bis 3a und des § 13b Abs. 2 von Verpflichtungen nach § 10a Abs. 6 bis 12, § 12a Abs. 1 Satz 1, § 13b Abs. 3 und 4 und § 25 Abs. 2 hinsichtlich einzelner nachgeordneter Unternehmen im Sinne des § 10a Abs. 1 bis 5 und des § 13b Abs. 2 freistellen, wenn deren Einbeziehung für die Aufsicht auf zusammengefasster Basis ohne oder von untergeordneter Bedeutung ist. Für einzelne gruppenangehörige Unternehmen ist eine Freistellung auf Antrag des übergeordneten Instituts oder von Amts wegen auch zulässig, wenn nach Auffassung der Bundesanstalt ihre Einbeziehung in die Aufsicht auf zusammengefasster Basis ungeeignet oder irreführend wäre. Die Sätze 1 bis 5 gelten entsprechend für Institute, die nach § 10a Abs. 14 zur Ermittlung der zusammengefassten Eigenmittel verpflichtet sind.
 
-(4) Die Bundesanstalt kann unter folgenden Bedingungen einzelne Institutsgruppen und Finanzholding-Gruppen von der Anforderung des § 10 Abs. 1 Satz 1 zur Ermittlung der Eigenmittelausstattung auf zusammengefasster Basis freistellen:
+(4) Die Bundesanstalt kann unter folgenden Bedingungen einzelne Institutsgruppen, Finanzholding-Gruppen und gemischte Finanzholding-Gruppen von der Anforderung des § 10 Abs. 1 Satz 1 zur Ermittlung der Eigenmittelausstattung auf zusammengefasster Basis freistellen:
 
 1.  
 der Gruppe gehören keine Einlagenkreditinstitute sowie keine Institute an, die das Emissionsgeschäft betreiben oder die auf eigene Rechnung mit Finanzinstrumenten handeln,
@@ -4353,20 +4310,20 @@ jedes gruppenangehörige Institut mit Sitz innerhalb des Europäischen Wirtschaf
 jedes gruppenangehörige Institut mit Sitz innerhalb des Europäischen Wirtschaftsraums erfüllt die Anforderung des § 10 Abs. 1 Satz 1 auf Einzelebene,
 
 4.  
-die Positionen nach § 10 Absatz 2a Satz 1 Nummer 1 bis 10 und Abs. 2b Satz 1 Nr. 1 bis 8 einer Finanzholding-Gesellschaft, die ein gruppenangehöriges Unternehmen ist, müssen mindestens der Summe der in § 10a Abs. 6 Satz 3 Nr. 1 aufgezählten Positionen sowie der zugunsten von gruppenangehörigen Unternehmen übernommenen Eventualverbindlichkeiten entsprechen,
+die Positionen nach § 10 Absatz 2a Satz 1 Nummer 1 bis 10 und Abs. 2b Satz 1 Nr. 1 bis 8 einer Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft, die ein gruppenangehöriges Unternehmen ist, müssen mindestens der Summe der in § 10a Abs. 6 Satz 3 Nr. 1 aufgezählten Positionen sowie der zugunsten von gruppenangehörigen Unternehmen übernommenen Eventualverbindlichkeiten entsprechen,
 
 5.  
-jede Finanzholding-Gesellschaft, die an der Spitze einer Finanzholding-Gruppe steht, muss mindestens in einem Umfang über Eigenkapital verfügen, der der Summe der in § 10a Abs. 6 Satz 3 Nr. 1 aufgezählten Positionen sowie der zugunsten von gruppenangehörigen Unternehmen übernommenen Eventualverbindlichkeiten entspricht,
+jede Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft, die an der Spitze einer Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe steht, muss mindestens in einem Umfang über Eigenkapital verfügen, der der Summe der in § 10a Abs. 6 Satz 3 Nr. 1 aufgezählten Positionen sowie der zugunsten von gruppenangehörigen Unternehmen übernommenen Eventualverbindlichkeiten entspricht,
 
 6.  
 jedes gruppenangehörige Institut mit Sitz innerhalb des Europäischen Wirtschaftsraums muss über Systeme verfügen, um die Herkunft der Eigenmittel und der weiteren Finanzierungsquellen aller gruppenangehörigen Unternehmen zu überwachen und zu steuern,
 
 7.  
-das übergeordnete Unternehmen der Gruppe informiert die Bundesanstalt und die Deutsche Bundesbank über alle Risiken, die die finanzielle Situation der Institutsgruppe oder Finanzholding-Gruppe beeinträchtigen können.
+das übergeordnete Unternehmen der Gruppe informiert die Bundesanstalt und die Deutsche Bundesbank über alle Risiken, die die finanzielle Situation der Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe beeinträchtigen können.
 
-Abweichend von Satz 1 Nr. 4 und 5 kann die Bundesanstalt eine Freistellung nach Satz 1 auch dann gewähren, wenn die Finanzholding-Gesellschaft, die die Muttergesellschaft eines Finanzdienstleistungsinstituts dieser Gruppe ist, über Eigenkapital verfügt, das der Summe der Anforderungen des § 10 Abs. 1 Satz 1 auf Einzelebene für die der Finanzholding-Gesellschaft nachgeordneten Finanzdienstleistungsinstitute sowie der zugunsten von gruppenangehörigen Unternehmen übernommenen Eventualverbindlichkeiten entspricht; für Wertpapierhandelsunternehmen aus Drittstaaten sind fiktive Eigenmittelanforderungen zu berechnen. Institute, die einer nach Satz 1 freigestellten Institutsgruppe oder Finanzholding-Gruppe angehören, müssen die in § 10 Abs. 6 Satz 1 genannten Positionen an gruppenangehörigen Unternehmen, die bei diesen dem Kernkapital zugerechnet werden, bei der Berechnung der Relationen nach § 10 Absatz 2 Satz 6 und 7 und der Ermittlung des freien Kernkapitals nach § 10 Abs. 2c vom Kernkapital abziehen; schwer realisierbare Aktiva nach § 10 Abs. 2c Satz 4 sowie die Verluste ihrer Tochterunternehmen sind von den Eigenmitteln abzuziehen.
+Abweichend von Satz 1 Nr. 4 und 5 kann die Bundesanstalt eine Freistellung nach Satz 1 auch dann gewähren, wenn die Finanzholding-Gesellschaft oder die gemischte Finanzholding-Gesellschaft, die die Muttergesellschaft eines Finanzdienstleistungsinstituts dieser Gruppe ist, über Eigenkapital verfügt, das der Summe der Anforderungen des § 10 Abs. 1 Satz 1 auf Einzelebene für die der Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft nachgeordneten Finanzdienstleistungsinstitute sowie der zugunsten von gruppenangehörigen Unternehmen übernommenen Eventualverbindlichkeiten entspricht; für Wertpapierhandelsunternehmen aus Drittstaaten sind fiktive Eigenmittelanforderungen zu berechnen. Institute, die einer nach Satz 1 freigestellten Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe angehören, müssen die in § 10 Abs. 6 Satz 1 genannten Positionen an gruppenangehörigen Unternehmen, die bei diesen dem Kernkapital zugerechnet werden, bei der Berechnung der Relationen nach § 10 Absatz 2 Satz 6 und 7 und der Ermittlung des freien Kernkapitals nach § 10 Abs. 2c vom Kernkapital abziehen; schwer realisierbare Aktiva nach § 10 Abs. 2c Satz 4 sowie die Verluste ihrer Tochterunternehmen sind von den Eigenmitteln abzuziehen.
 
-(5) Die Bundesanstalt kann einzelne übergeordnete Finanzkonglomeratsunternehmen im Sinne des § 10b Abs. 3 Satz 6 bis 8 oder Abs. 4 von Verpflichtungen nach § 10b hinsichtlich einzelner nachgeordneter Finanzkonglomeratsunternehmen im Sinne des § 10b Abs. 3 Satz 5 freistellen, wenn und solange die Einbeziehung dieser Unternehmen für die Aufsicht auf Konglomeratsebene ohne Bedeutung ist und es der Bundesanstalt ermöglicht wird, die Einhaltung dieser Voraussetzungen zu überprüfen. Die Bundesanstalt hat von einer Freistellung nach Satz 1 abzusehen, wenn mehrere nachgeordnete Finanzkonglomeratsunternehmen die Voraussetzung für eine Freistellung zwar erfüllen, die Gesamtheit dieser Unternehmen für die Aufsicht auf Konglomeratsebene aber nicht von untergeordneter Bedeutung ist. Für einzelne nachgeordnete Finanzkonglomeratsunternehmen im Sinne des § 10b Abs. 3 Satz 5 ist eine Freistellung auch zulässig, wenn nach Auffassung der Bundesanstalt ihre Einbeziehung in die Aufsicht auf Konglomeratsebene ungeeignet oder irreführend wäre. Freistellungen nach Satz 1 oder 3 können auf Antrag des übergeordneten Finanzkonglomeratsunternehmens oder von Amts wegen erfolgen.
+(5) (weggefallen)
 
 (6) Die Bundesanstalt kann die Anforderungen nach § 18a Absatz 1 und 2 in Zeiten allgemein angespannter Marktliquidität zeitweise aussetzen.
 
@@ -4427,6 +4384,8 @@ Die nach Satz 2 einzureichenden Anzeigen und vorzulegenden Unterlagen sind durch
 
 (1a) Wer neben dem Betreiben von Bankgeschäften oder der Erbringung von Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 Nummer 1 bis 5 und 11 auch Finanzinstrumente für eigene Rechnung anschaffen oder veräußern will, ohne die Voraussetzungen für den Eigenhandel zu erfüllen (Eigengeschäft), bedarf auch hierfür der schriftlichen Erlaubnis der Bundesanstalt. Absatz 1 Satz 1 Halbsatz 2 und die Absätze 2, 4 und 5 sowie die §§ 33 bis 38 sind entsprechend anzuwenden.
 
+(1b) Die Erlaubnis für das eingeschränkte Verwahrgeschäft im Sinne des § 1 Absatz 1a Satz 2 Nummer 12 kann nur erteilt werden, wenn die Erlaubnis zur Erbringung mindestens einer Finanzdienstleistung im Sinne des § 1 Absatz 1a Satz 2 Nummer 1 bis 4 oder zum Betreiben eines Bankgeschäfts im Sinne des § 1 Absatz 1 Satz 2 vorliegt oder gleichzeitig erteilt wird; mit Erlöschen oder Aufhebung dieser Erlaubnis erlischt die Erlaubnis für das eingeschränkte Verwahrgeschäft.
+
 (2) Die Bundesanstalt kann die Erlaubnis unter Auflagen erteilen, die sich im Rahmen des mit diesem Gesetz verfolgten Zweckes halten müssen. Sie kann die Erlaubnis auf einzelne Bankgeschäfte oder Finanzdienstleistungen beschränken.
 
 (3) Vor Erteilung der Erlaubnis hat die Bundesanstalt die für das Institut in Betracht kommende Sicherungseinrichtung zu hören.
@@ -4453,7 +4412,7 @@ b)
 bei anderen Finanzdienstleistungsinstituten, die nicht auf eigene Rechnung mit Finanzinstrumenten handeln, ein Betrag im Gegenwert von mindestens 125 000 Euro,
 
 c)  
-bei Finanzdienstleistungsinstituten, die auf eigene Rechnung mit Finanzinstrumenten handeln, sowie bei Wertpapierhandelsbanken ein Betrag im Gegenwert von mindestens 730 000 Euro,
+bei Finanzdienstleistungsinstituten, die auf eigene Rechnung mit Finanzinstrumenten handeln, bei Finanzdienstleistungsinstituten, die das eingeschränkte Verwahrgeschäft im Sinne des § 1 Absatz 1a Satz 1 Nummer 12 erbringen, sowie bei Wertpapierhandelsbanken ein Betrag im Gegenwert von mindestens 730 000 Euro,
 
 d)  
 bei Einlagenkreditinstituten ein Betrag im Gegenwert von mindestens fünf Millionen Euro,
@@ -4465,7 +4424,7 @@ f)
 bei Anlageberatern, Anlagevermittlern und Abschlussvermittlern, die nicht befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, und nicht auf eigene Rechnung mit Finanzinstrumenten handeln, ein Betrag von 25 000 Euro, wenn sie zusätzlich als Versicherungsvermittler nach der Richtlinie 2002/92/EG des Europäischen Parlaments und des Rates vom 9. Dezember 2002 über Versicherungsvermittler (ABl. EU Nr. L 9 S. 3) in ein Register eingetragen sind und die Anforderungen des Artikels 4 Abs. 3 der Richtlinie 2002/92/EG erfüllen, und
 
 g)  
-bei Unternehmen, die Eigengeschäfte auch an ausländischen Derivatemärkten und an Kassamärkten nur zur Absicherung dieser Positionen betreiben, das Finanzkommissionsgeschäft oder die Anlagevermittlung nur für andere Mitglieder dieser Märkte erbringen oder im Wege des Eigenhandels als Market Maker im Sinne des § 23 Abs. 4 des Wertpapierhandelsgesetzes Preise für andere Mitglieder dieser Märkte stellen, ein Betrag von 25 000 Euro, sofern für die Erfüllung der Verträge, die diese Unternehmen an diesen Märkten oder in diesen Handelssystemen schließen, Clearingmitglieder derselben Märkte oder Handelssysteme haften;
+bei Unternehmen, die Eigengeschäfte auch an ausländischen Derivatemärkten und an Kassamärkten nur zur Absicherung dieser Positionen betreiben, das Finanzkommissionsgeschäft oder die Anlagevermittlung nur für andere Mitglieder dieser Märkte erbringen oder im Wege des Eigenhandels im Sinne des § 1 Absatz 1a Satz 2 Nummer 4 Buchstabe a als Market Maker im Sinne des § 23 Abs. 4 des Wertpapierhandelsgesetzes Preise für andere Mitglieder dieser Märkte stellen, ein Betrag von 25 000 Euro, sofern für die Erfüllung der Verträge, die diese Unternehmen an diesen Märkten oder in diesen Handelssystemen schließen, Clearingmitglieder derselben Märkte oder Handelssysteme haften;
 
 2.  
 Tatsachen vorliegen, aus denen sich ergibt, daß ein Antragsteller oder eine der in § 1 Abs. 2 Satz 1 bezeichneten Personen nicht zuverlässig ist;
@@ -4578,7 +4537,7 @@ das Institut nachhaltig gegen Bestimmungen dieses Gesetzes, des Geldwäschegeset
 
 (2) Die Bundesanstalt kann die Abberufung eines Geschäftsleiters auch verlangen und diesem Geschäftsleiter auch die Ausübung seiner Tätigkeit bei Instituten in der Rechtsform einer juristischen Person untersagen, wenn dieser vorsätzlich oder leichtfertig gegen die Bestimmungen dieses Gesetzes, der Verordnung (EU) Nr. 648/2012, des Gesetzes über Bausparkassen, des Depotgesetzes, des Geldwäschegesetzes, des Investmentgesetzes, des Pfandbriefgesetzes, des Zahlungsdiensteaufsichtsgesetzes oder des Wertpapierhandelsgesetzes, gegen die zur Durchführung dieser Gesetze erlassenen Verordnungen, die zur Durchführung der Verordnung (EU) Nr. 648/2012 erlassenen Rechtsakte oder gegen Anordnungen der Bundesanstalt verstoßen hat und trotz Verwarnung durch die Bundesanstalt dieses Verhalten fortsetzt.
 
-(3) Die Mitglieder des Verwaltungs- oder Aufsichtsorgans eines Instituts oder einer Finanzholding-Gesellschaft müssen zuverlässig sein und die zur Wahrnehmung der Kontrollfunktion sowie zur Beurteilung und Überwachung der Geschäfte, die das Unternehmen betreibt, erforderliche Sachkunde besitzen. Bei der Prüfung, ob eine in Satz 1 genannte Person die erforderliche Sachkunde besitzt, berücksichtigt die Bundesanstalt den Umfang und die Komplexität der vom Institut betriebenen Geschäfte. Liegen Tatsachen vor, aus denen sich ergibt, dass eine der in Satz 1 bezeichneten Personen nicht zuverlässig ist oder nicht die erforderliche Sachkunde besitzt, kann die Bundesanstalt von den Organen des betroffenen Unternehmens verlangen, diese abzuberufen oder ihr die Ausübung ihrer Tätigkeit zu untersagen. Die Bundesanstalt kann dies von dem betroffenen Unternehmen auch dann verlangen, wenn der in Satz 1 bezeichneten Person wesentliche Verstöße des Unternehmens gegen die Grundsätze einer ordnungsgemäßen Geschäftsführung wegen sorgfaltswidriger Ausübung ihrer Überwachungs- und Kontrollfunktion verborgen geblieben sind oder sie nicht alles Erforderliche zur Beseitigung festgestellter Verstöße veranlasst hat und dieses Verhalten trotz Verwarnung der Organe des Unternehmens durch die Bundesanstalt fortsetzt. Wer Geschäftsleiter war, kann nicht zum Mitglied des Verwaltungs- oder Aufsichtsorgans des von ihm geleiteten Unternehmens bestellt werden, wenn bereits zwei ehemalige Geschäftsleiter des Unternehmens Mitglied des Verwaltungs- oder Aufsichtsorgans sind. Es kann auch nicht bestellt werden, wer bereits fünf Kontrollmandate bei unter der Aufsicht der Bundesanstalt stehenden Unternehmen ausübt, es sei denn, diese Unternehmen gehören demselben institutsbezogenen Sicherungssystem an. Soweit das Gericht auf Antrag des Aufsichtsrats ein Aufsichtsratsmitglied abzuberufen hat, kann dieser Antrag bei Vorliegen der Voraussetzungen nach Satz 3 oder Satz 4 auch von der Bundesanstalt gestellt werden, wenn der Aufsichtsrat dem Abberufungsverlangen der Aufsichtsbehörde nicht nachgekommen ist.
+(3) Die Mitglieder des Verwaltungs- oder Aufsichtsorgans eines Instituts, einer Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft müssen zuverlässig sein und die zur Wahrnehmung der Kontrollfunktion sowie zur Beurteilung und Überwachung der Geschäfte, die das Unternehmen betreibt, erforderliche Sachkunde besitzen. Bei der Prüfung, ob eine in Satz 1 genannte Person die erforderliche Sachkunde besitzt, berücksichtigt die Bundesanstalt den Umfang und die Komplexität der vom Institut betriebenen Geschäfte. Liegen Tatsachen vor, aus denen sich ergibt, dass eine der in Satz 1 bezeichneten Personen nicht zuverlässig ist oder nicht die erforderliche Sachkunde besitzt, kann die Bundesanstalt von den Organen des betroffenen Unternehmens verlangen, diese abzuberufen oder ihr die Ausübung ihrer Tätigkeit zu untersagen. Die Bundesanstalt kann dies von dem betroffenen Unternehmen auch dann verlangen, wenn der in Satz 1 bezeichneten Person wesentliche Verstöße des Unternehmens gegen die Grundsätze einer ordnungsgemäßen Geschäftsführung wegen sorgfaltswidriger Ausübung ihrer Überwachungs- und Kontrollfunktion verborgen geblieben sind oder sie nicht alles Erforderliche zur Beseitigung festgestellter Verstöße veranlasst hat und dieses Verhalten trotz Verwarnung der Organe des Unternehmens durch die Bundesanstalt fortsetzt. Wer Geschäftsleiter war, kann nicht zum Mitglied des Verwaltungs- oder Aufsichtsorgans des von ihm geleiteten Unternehmens bestellt werden, wenn bereits zwei ehemalige Geschäftsleiter des Unternehmens Mitglied des Verwaltungs- oder Aufsichtsorgans sind. Es kann auch nicht bestellt werden, wer bereits fünf Kontrollmandate bei unter der Aufsicht der Bundesanstalt stehenden Unternehmen ausübt, es sei denn, diese Unternehmen gehören demselben institutsbezogenen Sicherungssystem an. Soweit das Gericht auf Antrag des Aufsichtsrats ein Aufsichtsratsmitglied abzuberufen hat, kann dieser Antrag bei Vorliegen der Voraussetzungen nach Satz 3 oder Satz 4 auch von der Bundesanstalt gestellt werden, wenn der Aufsichtsrat dem Abberufungsverlangen der Aufsichtsbehörde nicht nachgekommen ist.
 
 ### § 37 Einschreiten gegen unerlaubte oder verbotene Geschäfte
 
@@ -4655,33 +4614,33 @@ Die Bundesanstalt entscheidet in Zweifelsfällen, ob ein Unternehmen zur Führun
 
 ### 
 
-### § 44 Auskünfte und Prüfungen von Instituten, Anbietern von Nebendienstleistungen, Finanzholding-Gesellschaften und in die Aufsicht auf zusammengefaßter Basis einbezogenen Unternehmen
+### § 44 Auskünfte und Prüfungen von Instituten, Anbietern von Nebendienstleistungen, Finanzholding-Gesellschaften, gemischten Finanzholding-Gesellschaften und von in die Aufsicht auf zusammengefasster Basis einbezogenen Unternehmen
 
 (1) Ein Institut oder ein übergeordnetes Unternehmen, die Mitglieder deren Organe und deren Beschäftigte haben der Bundesanstalt, den Personen und Einrichtungen, deren sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, sowie der Deutschen Bundesbank auf Verlangen Auskünfte über alle Geschäftsangelegenheiten zu erteilen und Unterlagen vorzulegen. Die Bundesanstalt kann, auch ohne besonderen Anlass, bei den Instituten und übergeordneten Unternehmen Prüfungen vornehmen und die Durchführung der Prüfungen der Deutschen Bundesbank übertragen; das schließt Unternehmen ein, auf die ein Institut oder übergeordnetes Unternehmen wesentliche Bereiche im Sinne des § 25a Abs. 2 ausgelagert hat (Auslagerungsunternehmen). Die Bediensteten der Bundesanstalt, der Deutschen Bundesbank sowie die sonstigen Personen, deren sich die Bundesanstalt bei der Durchführung der Prüfungen bedient, können hierzu die Geschäftsräume des Instituts, des Auslagerungsunternehmens und des übergeordneten Unternehmens innerhalb der üblichen Betriebs- und Geschäftszeiten betreten und besichtigen. Die Betroffenen haben Maßnahmen nach den Sätzen 2 und 3 zu dulden.
 
 (1a) Soweit eine zentrale Gegenpartei unter den Voraussetzungen des Artikels 35 Absatz 1 der Verordnung (EU) Nr. 648/2012 operationelle Funktionen, Dienstleistungen oder Tätigkeiten auf ein Unternehmen auslagert, sind die Befugnisse der Bundesanstalt nach Absatz 1 Satz 2 und 3 auch auf dieses Unternehmen entsprechend anwendbar; Absatz 1 Satz 4 gilt entsprechend.
 
-(2) Ein nachgeordnetes Unternehmen im Sinne des § 10a Abs. 1 bis 5, eine Finanzholding-Gesellschaft an der Spitze einer Finanzholding-Gruppe im Sinne des § 10a Abs. 3 sowie ein Mitglied eines Organs eines solchen Unternehmens haben der Bundesanstalt, den Personen und Einrichtungen, deren sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, sowie der Deutschen Bundesbank auf Verlangen Auskünfte zu erteilen und Unterlagen vorzulegen, um die Richtigkeit der Auskünfte oder der übermittelten Daten zu überprüfen, die für die Aufsicht auf zusammengefasster Basis erforderlich sind oder die in Verbindung mit einer Rechtsverordnung nach § 25 Abs. 3 Satz 1 zu übermitteln sind. Die Bundesanstalt kann, auch ohne besonderen Anlass, bei den in Satz 1 genannten Unternehmen Prüfungen vornehmen und die Durchführung der Prüfungen der Deutschen Bundesbank übertragen; Absatz 1 Satz 2 Halbsatz 2 gilt entsprechend. Die Bediensteten der Bundesanstalt, der Deutschen Bundesbank sowie der sonstigen Personen, deren sich die Bundesanstalt bei der Durchführung der Prüfungen bedient, können hierzu die Geschäftsräume der Unternehmen innerhalb der üblichen Betriebs- und Geschäftszeiten betreten und besichtigen. Die Betroffenen haben Maßnahmen nach den Sätzen 2 und 3 zu dulden. Die Sätze 1 bis 4 gelten entsprechend für ein nicht in die Zusammenfassung einbezogenes Tochterunternehmen und ein gemischtes Unternehmen und dessen Tochterunternehmen.
+(2) Ein nachgeordnetes Unternehmen im Sinne des § 10a Absatz 1 bis 5, eine Finanzholding-Gesellschaft an der Spitze einer Finanzholding-Gruppe im Sinne des § 10a Absatz 3 oder einer gemischten Finanzholding-Gesellschaft an der Spitze einer gemischten Finanzholding-Gruppe im Sinne des § 10a Absatz 3a sowie ein Mitglied eines Organs eines solchen Unternehmens haben der Bundesanstalt, den Personen und Einrichtungen, derer sich die Bundesanstalt bei der Durchführung ihrer Aufgaben bedient, sowie der Deutschen Bundesbank auf Verlangen Auskünfte zu erteilen und Unterlagen vorzulegen, um die Richtigkeit der Auskünfte oder der übermittelten Daten zu überprüfen, die für die Aufsicht auf zusammengefasster Basis erforderlich sind oder die in Verbindung mit einer Rechtsverordnung nach § 25 Absatz 3 Satz 1 zu übermitteln sind. Die Bundesanstalt kann, auch ohne besonderen Anlass, bei den in Satz 1 genannten Unternehmen Prüfungen vornehmen und die Durchführung der Prüfungen der Deutschen Bundesbank übertragen; Absatz 1 Satz 2 Halbsatz 2 gilt entsprechend. Die Bediensteten der Bundesanstalt, der Deutschen Bundesbank sowie der sonstigen Personen, deren sich die Bundesanstalt bei der Durchführung der Prüfungen bedient, können hierzu die Geschäftsräume der Unternehmen innerhalb der üblichen Betriebs- und Geschäftszeiten betreten und besichtigen. Die Betroffenen haben Maßnahmen nach den Sätzen 2 und 3 zu dulden. Die Sätze 1 bis 4 gelten entsprechend für ein nicht in die Zusammenfassung einbezogenes Tochterunternehmen und ein gemischtes Unternehmen und dessen Tochterunternehmen.
 
-(2a) Benötigt die Bundesanstalt bei der Aufsicht über eine Institutsgruppe oder Finanzholding-Gruppe Informationen, die bereits einer anderen zuständigen Stelle vorliegen, richtet sie ihr Auskunftsersuchen zunächst an diese zuständige Stelle. Bei der Aufsicht über Institute, die einem EU-Mutterinstitut nach § 10a Abs. 1 Satz 2, Abs. 4 oder Abs. 5 nachgeordnet sind, richtet die Bundesanstalt Auskunftsersuchen zur Umsetzung der Ansätze und Methoden nach der Bankenrichtlinie regelmäßig zunächst an die für die Aufsicht auf zusammengefasster Basis zuständige Stelle.
+(2a) Benötigt die Bundesanstalt bei der Aufsicht über eine Institutsgruppe, Finanzholding-Gruppe oder eine gemischte Finanzholding-Gruppe Informationen, die bereits einer anderen zuständigen Stelle vorliegen, richtet sie ihr Auskunftsersuchen zunächst an diese zuständige Stelle. Bei der Aufsicht über Institute, die einem EU-Mutterinstitut nach § 10a Abs. 1 Satz 2, Abs. 4 oder Abs. 5 nachgeordnet sind, richtet die Bundesanstalt Auskunftsersuchen zur Umsetzung der Ansätze und Methoden nach der Bankenrichtlinie regelmäßig zunächst an die für die Aufsicht auf zusammengefasster Basis zuständige Stelle.
 
 (3) Die in die Zusammenfassung einbezogenen Unternehmen mit Sitz im Ausland haben der Bundesanstalt auf Verlangen die nach diesem Gesetz zulässigen Prüfungen zu gestatten, insbesondere die Überprüfung der Richtigkeit der für die Zusammenfassung nach § 10a Abs. 6 bis 11, § 13b Abs. 3 und § 25 Abs. 2 und 3 übermittelten Daten, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich und nach dem Recht des anderen Staates zulässig ist. Dies gilt auch für nicht in die Zusammenfassung einbezogene Tochterunternehmen mit Sitz im Ausland.
 
-(3a) Absatz 2 Satz 1 bis 4 und Satz 5 erste Alternative gilt entsprechend für nachgeordnete Finanzkonglomeratsunternehmen im Sinne des § 10b Abs. 3 Satz 5 und gemischte Finanzholding-Gesellschaften sowie für die Mitglieder der Organe solcher Unternehmen. Absatz 3 gilt entsprechend für nachgeordnete Finanzkonglomeratsunternehmen im Sinne des § 10b Abs. 3 Satz 5 mit Sitz im Ausland.
+(3a) (weggefallen)
 
-(4) Die Bundesanstalt kann zu den Hauptversammlungen, Generalversammlungen oder Gesellschafterversammlungen sowie zu den Sitzungen der Aufsichtsorgane bei Instituten oder Finanzholding-Gesellschaften in der Rechtsform einer juristischen Person Vertreter entsenden. Diese können in der Versammlung oder Sitzung das Wort ergreifen. Die Betroffenen haben Maßnahmen nach den Sätzen 1 und 2 zu dulden.
+(4) Die Bundesanstalt kann zu den Hauptversammlungen, Generalversammlungen oder Gesellschafterversammlungen sowie zu den Sitzungen der Aufsichtsorgane bei Instituten, Finanzholding-Gesellschaften oder gemischten Finanzholding-Gesellschaften in der Rechtsform einer juristischen Person Vertreter entsenden. Diese können in der Versammlung oder Sitzung das Wort ergreifen. Die Betroffenen haben Maßnahmen nach den Sätzen 1 und 2 zu dulden.
 
-(5) Die Institute und Finanzholding-Gesellschaften in der Rechtsform einer juristischen Person haben auf Verlangen der Bundesanstalt die Einberufung der in Absatz 4 Satz 1 bezeichneten Versammlungen, die Anberaumung von Sitzungen der Verwaltungs- und Aufsichtsorgane sowie die Ankündigung von Gegenständen zur Beschlußfassung vorzunehmen. Die Bundesanstalt kann zu einer nach Satz 1 anberaumten Sitzung Vertreter entsenden. Diese können in der Sitzung das Wort ergreifen. Die Betroffenen haben Maßnahmen nach den Sätzen 2 und 3 zu dulden. Absatz 4 bleibt unberührt.
+(5) Die Institute, Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften in der Rechtsform einer juristischen Person haben auf Verlangen der Bundesanstalt die Einberufung der in Absatz 4 Satz 1 bezeichneten Versammlungen, die Anberaumung von Sitzungen der Verwaltungs- und Aufsichtsorgane sowie die Ankündigung von Gegenständen zur Beschlußfassung vorzunehmen. Die Bundesanstalt kann zu einer nach Satz 1 anberaumten Sitzung Vertreter entsenden. Diese können in der Sitzung das Wort ergreifen. Die Betroffenen haben Maßnahmen nach den Sätzen 2 und 3 zu dulden. Absatz 4 bleibt unberührt.
 
 (6) Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 ### § 44a Grenzüberschreitende Auskünfte und Prüfungen
 
-(1) Rechtsvorschriften, die einer Übermittlung von Daten entgegenstehen, sind nicht anzuwenden auf die Übermittlung von Daten zwischen einem Institut, einer Kapitalanlagegesellschaft, einem Finanzunternehmen, einer Finanzholding-Gesellschaft, einer gemischten Finanzholding-Gesellschaft, einem Anbieter von Nebendienstleistungen, einem E-Geld-Institut im Sinne des Zahlungsdiensteaufsichtsgesetzes, einem Zahlungsinstitut im Sinne des Zahlungsdiensteaufsichtsgesetzes oder einem nicht in die Zusammenfassung oder in die zusätzliche Beaufsichtigung auf Konglomeratsebene einbezogenen Unternehmen und einem Unternehmen mit Sitz im Ausland, das mindestens 20 vom Hundert der Kapitalanteile oder Stimmrechte an dem Unternehmen unmittelbar oder mittelbar hält, Mutterunternehmen ist oder beherrschenden Einfluß ausüben kann, oder zwischen einem gemischten Unternehmen und seinen Tochterunternehmen mit Sitz im Ausland, wenn die Übermittlung der Daten erforderlich ist, um Bestimmungen der Aufsicht nach Maßgabe der Bankenrichtlinie oder der Richtlinie 2002/87/EG über das Unternehmen mit Sitz im Ausland zu erfüllen. Die Bundesanstalt kann einem Institut die Übermittlung von Daten in einen Drittstaat untersagen.
+(1) Rechtsvorschriften, die einer Übermittlung von Daten entgegenstehen, sind nicht anzuwenden auf die Übermittlung von Daten zwischen einem Institut, einer Kapitalverwaltungsgesellschaft, einem Finanzunternehmen, einer Finanzholding-Gesellschaft, einer gemischten Finanzholding-Gesellschaft, einem Anbieter von Nebendienstleistungen, einem E-Geld-Institut im Sinne des Zahlungsdiensteaufsichtsgesetzes, einem Zahlungsinstitut im Sinne des Zahlungsdiensteaufsichtsgesetzes oder einem Unternehmen mit Sitz im Ausland, das mindestens 20 vom Hundert der Kapitalanteile oder Stimmrechte an dem Unternehmen unmittelbar oder mittelbar hält, Mutterunternehmen ist oder beherrschenden Einfluß ausüben kann, oder zwischen einem gemischten Unternehmen und seinen Tochterunternehmen mit Sitz im Ausland, wenn die Übermittlung der Daten erforderlich ist, um Bestimmungen der Aufsicht nach Maßgabe der Bankenrichtlinie oder der Richtlinie 2002/87/EG über das Unternehmen mit Sitz im Ausland zu erfüllen. Die Bundesanstalt kann einem Institut die Übermittlung von Daten in einen Drittstaat untersagen.
 
 (2) Auf Ersuchen einer für die Aufsicht über ein Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums zuständigen Stelle hat die Bundesanstalt die Richtigkeit der von einem Unternehmen im Sinne des Absatzes 1 Satz 1 für die Aufsichtsstelle nach Maßgabe der Bankenrichtlinie oder der Richtlinie 2002/87/EG übermittelten Daten zu überprüfen oder zu gestatten, daß die ersuchende Stelle, ein Wirtschaftsprüfer oder ein Sachverständiger diese Daten überprüft; die Bundesanstalt kann nach pflichtgemäßem Ermessen gegenüber Aufsichtsstellen in Drittstaaten entsprechend verfahren, wenn Gegenseitigkeit gewährleistet ist. § 5 Abs. 2 des Verwaltungsverfahrensgesetzes über die Grenzen der Amtshilfe gilt entsprechend. Die Unternehmen im Sinne des Absatzes 1 Satz 1 haben die Prüfung zu dulden.
 
-(3) Die Bundesanstalt kann von Einlagenkreditinstituten, Wertpapierhandelsunternehmen, Kapitalanlagegesellschaften, Finanzholding-Gesellschaften oder gemischte Finanzholding-Gesellschaften mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums Auskünfte verlangen, welche die Aufsicht über Institute erleichtern, die Tochterunternehmen dieser Unternehmen sind und von den zuständigen Stellen des anderen Staates aus § 31 Abs. 3 Satz 1 oder Satz 4 entsprechenden Gründen nicht in die Beaufsichtigung auf zusammengefaßter Basis einbezogen werden. Satz 1 gilt entsprechend, wenn nachgeordnete Finanzkonglomeratsunternehmen von der als Koordinator zuständigen Stelle eines anderen Staates des Europäischen Wirtschaftsraums aus § 31 Abs. 5 Satz 1 oder Satz 3 entsprechenden Gründen nicht in die zusätzliche Aufsicht auf Konglomeratsebene einbezogen werden.
+(3) Die Bundesanstalt kann von Einlagenkreditinstituten, Wertpapierhandelsunternehmen, Kapitalverwaltungsgesellschaften, Finanzholding-Gesellschaften oder gemischte Finanzholding-Gesellschaften mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums Auskünfte verlangen, welche die Aufsicht über Institute erleichtern, die Tochterunternehmen dieser Unternehmen sind und von den zuständigen Stellen des anderen Staates aus § 31 Abs. 3 Satz 1 oder Satz 4 entsprechenden Gründen nicht in die Beaufsichtigung auf zusammengefaßter Basis einbezogen werden.
 
 (4) bis (6) (weggefallen)
 
@@ -4745,7 +4704,7 @@ ein Konzept zur Abwendung einer möglichen Gefahrenlage im Sinne des § 35 Absat
 Die Annahme, dass das Institut die Anforderungen des § 10 Absatz 1 oder Absatz 1b, des § 45b Absatz 1 Satz 2 oder des § 11 nicht dauerhaft erfüllen können wird, ist regelmäßig gerechtfertigt, wenn sich
 
 1.  
-die Gesamtkennziffer über das prozentuale Verhältnis der anrechenbaren Eigenmittel und der mit 12,5 multiplizierten Summe aus dem Gesamtanrechnungsbetrag für Adressrisiken, dem *Anrechungsbetrag* für das operationelle Risiko und der Summe der Anrechnungsbeträge für Marktrisikopositionen einschließlich der Optionsgeschäfte nach der Rechtsverordnung nach § 10 Absatz 1 Satz 9 von einem Meldestichtag zum nächsten um mindestens 10 Prozent oder die nach der Rechtsverordnung nach § 11 Absatz 1 zu ermittelnde Liquiditätskennziffer von einem Meldestichtag zum nächsten um mindestens 25 Prozent verringert hat und aufgrund dieser Entwicklung mit einem Unterschreiten der Mindestanforderungen innerhalb der nächsten zwölf Monate zu rechnen ist oder
+die Gesamtkennziffer über das prozentuale Verhältnis der anrechenbaren Eigenmittel und der mit 12,5 multiplizierten Summe aus dem Gesamtanrechnungsbetrag für Adressrisiken, dem *Anrechnungsbetrag* für das operationelle Risiko und der Summe der Anrechnungsbeträge für Marktrisikopositionen einschließlich der Optionsgeschäfte nach der Rechtsverordnung nach § 10 Absatz 1 Satz 9 von einem Meldestichtag zum nächsten um mindestens 10 Prozent oder die nach der Rechtsverordnung nach § 11 Absatz 1 zu ermittelnde Liquiditätskennziffer von einem Meldestichtag zum nächsten um mindestens 25 Prozent verringert hat und aufgrund dieser Entwicklung mit einem Unterschreiten der Mindestanforderungen innerhalb der nächsten zwölf Monate zu rechnen ist oder
 
 2.  
 die Gesamtkennziffer über das prozentuale Verhältnis der anrechenbaren Eigenmittel und der mit 12,5 multiplizierten Summe aus dem Gesamtanrechnungsbetrag für Adressrisiken, dem Anrechnungsbetrag für das operationelle Risiko und der Summe der Anrechnungsbeträge für Marktrisikopositionen einschließlich der Optionsgeschäfte nach der Rechtsverordnung nach § 10 Absatz 1 Satz 9 an mindestens drei aufeinanderfolgenden Meldestichtagen um jeweils mehr als 3 Prozent oder die nach der Rechtsverordnung nach § 11 Absatz 1 zu ermittelnde Liquiditätskennziffer an mindestens drei aufeinanderfolgenden Meldestichtagen um jeweils mehr als 10 Prozent verringert hat und aufgrund dieser Entwicklung mit einem Unterschreiten der Mindestanforderungen innerhalb der nächsten 18 Monate zu rechnen ist und keine Tatsachen offensichtlich sind, die die Annahme rechtfertigen, dass die Mindestanforderungen mit überwiegender Wahrscheinlichkeit nicht unterschritten werden.
@@ -4770,24 +4729,21 @@ die Gewährung von Krediten im Sinne von § 19 Absatz 1 untersagen oder beschrä
 anordnen, dass das Institut Maßnahmen zur Reduzierung von Risiken ergreift, soweit sich diese aus bestimmten Arten von Geschäften und Produkten oder der Nutzung bestimmter Systeme ergeben;
 
 6.  
-die Auszahlung variabler Vergütungsbestandteile untersagen oder auf einen bestimmten Anteil des Jahresergebnisses beschränken; dies gilt nicht für variable Vergütungsbestandteile, die durch Tarifvertrag oder in seinem Geltungsbereich durch Vereinbarung der Arbeitsvertragsparteien über die Anwendung der tarifvertraglichen Regelungen oder aufgrund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung vereinbart sind, und
+die Auszahlung variabler Vergütungsbestandteile untersagen oder auf einen bestimmten Anteil des Jahresergebnisses beschränken; dies gilt nicht für variable Vergütungsbestandteile, die durch Tarifvertrag oder in seinem Geltungsbereich durch Vereinbarung der Arbeitsvertragsparteien über die Anwendung der tarifvertraglichen Regelungen oder aufgrund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung vereinbart sind,
 
 7.  
-anordnen, dass das Institut darlegt, wie und in welchem Zeitraum die Eigenmittelausstattung oder Liquidität des Instituts nachhaltig wiederhergestellt werden soll (Restrukturierungsplan) und der Bundesanstalt und der Deutschen Bundesbank regelmäßig über den Fortschritt dieser Maßnahmen zu berichten ist.
+anordnen, dass das Institut darlegt, wie und in welchem Zeitraum die Eigenmittelausstattung oder Liquidität des Instituts nachhaltig wiederhergestellt werden soll (Restrukturierungsplan) und der Bundesanstalt und der Deutschen Bundesbank regelmäßig über den Fortschritt dieser Maßnahmen zu berichten ist und
+
+8.  
+anordnen, dass das Kreditinstitut eine oder mehrere Handlungsoptionen aus einem Sanierungsplan gemäß § 47a umsetzt.
 
 Der Restrukturierungsplan nach Satz 1 Nummer 7 muss transparent, plausibel und begründet sein. In ihm sind konkrete Ziele, Zwischenziele und Fristen für die Umsetzung der dargelegten Maßnahmen zu benennen, die von der Bundesanstalt überprüft werden können. Die Bundesanstalt kann jederzeit Einsicht in den Restrukturierungsplan und die zugehörigen Unterlagen nehmen. Die Bundesanstalt kann die Änderung des Restrukturierungsplans verlangen und hierfür Vorgaben machen, wenn sie die angegebenen Ziele, Zwischenziele und Umsetzungsfristen für nicht ausreichend hält oder das Institut sie nicht einhält.
 
 (3) Die Absätze 1 und 2 Satz 1 Nummer 1 bis 3 und 5 bis 7 sind auf übergeordnete Unternehmen im Sinne des § 10a Absatz 1 bis 5 sowie auf Institute im Sinne des § 10a Absatz 14 entsprechend anzuwenden, wenn die zusammengefassten Eigenmittel der gruppenangehörigen Unternehmen den Anforderungen des § 10 Absatz 1 oder Absatz 1b oder des § 45b Absatz 1 nicht entsprechen. Bei einem gruppenangehörigen Institut, das von der Ausnahmeregelung nach § 2a Absatz 1, 5 oder 6 Gebrauch macht, kann die Bundesanstalt die Anwendung dieser Ausnahmeregelung hinsichtlich der Vorschriften des § 10 sowie der §§ 13 und 13a vorübergehend insgesamt oder teilweise aussetzen.
 
-(4) Entsprechen bei einem Finanzkonglomerat die Eigenmittel nicht den Anforderungen des § 10b Absatz 1, kann die Bundesanstalt
+(4) (weggefallen)
 
-1.  
-gegenüber einem in der Banken- und Wertpapierdienstleistungsbranche tätigen übergeordneten Finanzkonglomeratsunternehmen im Sinne des § 10b Absatz 3 Satz 6 bis 8 oder Absatz 4 Maßnahmen nach Absatz 2 treffen und
-
-2.  
-gegenüber einer gemischten Finanzholding-Gesellschaft die erforderlichen und geeigneten Maßnahmen treffen; sie kann insbesondere Entnahmen durch den Inhaber oder Gesellschafter und die Ausschüttung von Gewinnen untersagen oder beschränken.
-
-(5) Die Bundesanstalt darf die in den Absätzen 2 bis 4 bezeichneten Anordnungen erst treffen, wenn das Institut oder die gemischte Finanzholding-Gesellschaft den Mangel nicht innerhalb einer von der Bundesanstalt zu bestimmenden Frist behoben hat. Soweit dies zur Verhinderung einer kurzfristig zu erwartenden Verschlechterung der Eigenmittelausstattung oder der Liquidität des Instituts erforderlich ist oder bereits Maßnahmen nach Absatz 1 Satz 1 ergriffen wurden, sind solche Anordnungen auch ohne vorherige Androhung mit Fristsetzung zulässig. Beschlüsse über die Gewinnausschüttung sind insoweit nichtig, als sie einer Anordnung nach den Absätzen 2 bis 4 widersprechen. Soweit Regelungen in Verträgen über Eigenmittelinstrumente einer Anordnung nach den Absätzen 2 bis 4 widersprechen, können aus ihnen keine Rechte hergeleitet werden. Im Falle einer Untersagung der Auszahlung von variablen Vergütungsbestandteilen gemäß Absatz 2 Satz 1 Nummer 6 kann die Bundesanstalt anordnen, dass die Ansprüche auf Gewährung variabler Vergütung ganz oder teilweise erlöschen, wenn
+(5) Die Bundesanstalt darf die in den Absätzen 2 und 3 bezeichneten Anordnungen erst treffen, wenn das Institut oder die gemischte Finanzholding-Gesellschaft den Mangel nicht innerhalb einer von der Bundesanstalt zu bestimmenden Frist behoben hat. Soweit dies zur Verhinderung einer kurzfristig zu erwartenden Verschlechterung der Eigenmittelausstattung oder der Liquidität des Instituts erforderlich ist oder bereits Maßnahmen nach Absatz 1 Satz 1 ergriffen wurden, sind solche Anordnungen auch ohne vorherige Androhung mit Fristsetzung zulässig. Beschlüsse über die Gewinnausschüttung sind insoweit nichtig, als sie einer Anordnung nach den Absätzen 2 und 3 widersprechen. Soweit Regelungen in Verträgen über Eigenmittelinstrumente einer Anordnung nach den Absätzen 2 und 3 widersprechen, können aus ihnen keine Rechte hergeleitet werden. Im Falle einer Untersagung der Auszahlung von variablen Vergütungsbestandteilen gemäß Absatz 2 Satz 1 Nummer 6 kann die Bundesanstalt anordnen, dass die Ansprüche auf Gewährung variabler Vergütung ganz oder teilweise erlöschen, wenn
 
 1.  
 das Institut innerhalb eines Zeitraums von zwei Jahren nach der Untersagung der Auszahlung finanzielle Leistungen des Restrukturierungsfonds oder des Finanzmarkstabilisierungsfonds in Anspruch nimmt und die Voraussetzungen für die Untersagung der Auszahlung bis zu diesem Zeitpunkt nicht oder allein aufgrund dieser Leistungen weggefallen sind,
@@ -4808,7 +4764,7 @@ anzunehmen ist, dass ohne die Gewährung finanzieller Leistungen des Restrukturi
 
 Die Sätze 5 und 6 gelten nicht, soweit die Ansprüche auf Gewährung variabler Vergütung vor dem 1. Januar 2011 entstanden sind. Institute müssen der Anordnungsbefugnis nach Absatz 2 Satz 1 Nummer 6 und der Regelung in Satz 5 in entsprechenden vertraglichen Vereinbarungen mit ihren Geschäftsleitern und Mitarbeitern Rechnung tragen. Soweit vertragliche Vereinbarungen über die Gewährung einer variablen Vergütung einer Anordnung nach Absatz 2 Satz 1 Nummer 6 oder der Regelung in Satz 5 entgegenstehen, können aus ihnen keine Rechte hergeleitet werden.
 
-(6) Die Bundesanstalt kann eine Maßnahme nach Absatz 1 bis 5 auch anordnen, wenn ein Institut, das übergeordnete Unternehmen einer Institutsgruppe oder einer Finanzholding-Gruppe die nach § 10 Absatz 1b Satz 2 angeordneten erhöhten Kapitalanforderungen nicht einhält.
+(6) Die Bundesanstalt kann eine Maßnahme nach Absatz 1 bis 5 auch anordnen, wenn ein Institut, das übergeordnete Unternehmen einer Institutsgruppe, einer Finanzholding-Gruppe oder einer gemischten Finanzholding-Gruppe die nach § 10 Absatz 1b Satz 2 angeordneten erhöhten Kapitalanforderungen nicht einhält.
 
 (7) Zur Umsetzung der Anordnungen nach Absatz 6 oder § 10 Absatz 1b Satz 2 gelten bis zur Feststellung des Erreichens der Eigenmittelanforderungen durch die Bundesanstalt für Beschlussfassungen der Anteilsinhaberversammlung des Instituts über Kapitalmaßnahmen die §§ 7 bis 7f, 9, 11, 11a, 14 und 15 des Finanzmarktstabilisierungsbeschleunigungsgesetzes entsprechend. Dies gilt auch dann, wenn andere private oder öffentliche Stellen als der Finanzmarktstabilisierungsfonds zur Erreichung der Kapitalanforderungen teilweise oder vollständig beitragen.
 
@@ -4816,21 +4772,19 @@ Die Sätze 5 und 6 gelten nicht, soweit die Ansprüche auf Gewährung variabler 
 
 ### § 45a Maßnahmen gegenüber Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften
 
-(1) Die Bundesanstalt kann einer Finanzholding-Gesellschaft an der Spitze einer Finanzholding-Gruppe im Sinne des § 10a Abs. 3 Satz 1 oder 2 oder § 13b Abs. 2 die Ausübung ihrer Stimmrechte an dem übergeordneten Unternehmen und den anderen nachgeordneten Unternehmen untersagen, wenn
+(1) Die Bundesanstalt kann einer Finanzholding-Gesellschaft an der Spitze einer Finanzholding-Gruppe im Sinne des § 10a Absatz 3 Satz 1 oder 2 oder § 13b Absatz 2 oder einer gemischten Finanzholding-Gesellschaft an der Spitze einer gemischten Finanzholding-Gruppe im Sinne des § 10a Absatz 3a Satz 1 oder 2 oder § 13b Absatz 2 die Ausübung ihrer Stimmrechte an dem übergeordneten Unternehmen und den anderen nachgeordneten Unternehmen untersagen, wenn
 
 1.  
-die Finanzholding-Gesellschaft dem übergeordneten Unternehmen nicht die für die Zusammenfassung nach § 10a oder § 13b erforderlichen Angaben gemäß § 10a Abs. 13 Satz 2 oder § 13b Abs. 5 in Verbindung mit § 10a Abs. 13 Satz 2 übermittelt, sofern nicht den Erfordernissen der bankaufsichtlichen Zusammenfassung in anderer Weise Rechnung getragen werden kann;
+die Finanzholding-Gesellschaft oder die gemischte Finanzholding-Gesellschaft dem übergeordneten Unternehmen nicht die für die Zusammenfassung nach § 10a oder § 13b erforderlichen Angaben gemäß § 10a Absatz 13 Satz 2 oder § 13b Absatz 5 in Verbindung mit § 10a Absatz 13 Satz 2 übermittelt, sofern nicht den Erfordernissen der bankaufsichtlichen Zusammenfassung in anderer Weise Rechnung getragen werden kann;
 
 2.  
-Tatsachen vorliegen, aus denen sich ergibt, dass eine Person, die die Geschäfte der Finanzholding-Gesellschaft tatsächlich führt, nicht zuverlässig ist oder nicht die zur Führung der Geschäfte erforderliche fachliche Eignung hat.
+Tatsachen vorliegen, aus denen sich ergibt, dass eine Person, die die Geschäfte der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft tatsächlich führt, nicht zuverlässig ist oder nicht die zur Führung der Geschäfte erforderliche fachliche Eignung hat.
 
-Satz 1 gilt entsprechend für eine gemischte Finanzholding-Gesellschaft, die dem nach § 10b Abs. 2 und § 13d Abs. 1 anzeigepflichtigen Unternehmen nicht die für die Beaufsichtigung auf Konglomeratsebene nach § 10b oder § 13d erforderlichen Angaben gemäß § 10b Abs. 7 Satz 2, auch in Verbindung mit § 13d Abs. 4 Satz 2, übermittelt oder wenn Tatsachen vorliegen, aus denen sich ergibt, dass eine Person, die die Geschäfte der gemischten Finanzholding-Gesellschaft tatsächlich führt, nicht zuverlässig ist oder nicht die zur Führung der Geschäfte erforderliche fachliche Eignung hat.
+(1a) Die Bundesanstalt kann in den Fällen des Absatzes 1 Satz 1 Nummer 2 auch gegenüber dem übergeordneten Unternehmen einer Finanzholding-Gruppe oder einer gemischten Finanzholding-Gruppe anordnen, Weisungen der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft nicht zu befolgen, sofern es keine gesellschaftsrechtlichen Möglichkeiten gibt, die Personen abzuberufen, die die Geschäfte der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft tatsächlich führen. Das Gleiche gilt, wenn solche Möglichkeiten zwar vorhanden sind, aber ihre Ausschöpfung erfolglos geblieben ist.
 
-(1a) Die Bundesanstalt kann in den Fällen des Absatzes 1 Satz 1 Nr. 2 oder des Absatzes 1 Satz 2 zweite Alternative auch gegenüber dem übergeordneten Unternehmen einer Finanzholding-Gruppe oder dem übergeordneten Finanzkonglomeratsunternehmen anordnen, Weisungen der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft nicht zu befolgen, sofern gesellschaftsrechtliche Möglichkeiten zur Abberufung der Personen, die die Geschäfte der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft tatsächlich führen, nicht zur Verfügung stehen oder solche zwar vorhanden sind, aber ihre Ausschöpfung erfolglos geblieben ist.
+(2) Im Falle der Untersagung nach Absatz 1 hat auf Antrag der Bundesanstalt das Gericht des Sitzes des übergeordneten Unternehmens nach § 10a Abs. 1 bis 5 einen Treuhänder zu bestellen, auf den es die Ausübung der Stimmrechte überträgt. Der Treuhänder hat bei der Ausübung der Stimmrechte den Interessen einer soliden und bankaufsichtskonformen Führung der betroffenen Unternehmen Rechnung zu tragen. Die Bundesanstalt kann aus wichtigem Grund die Bestellung eines anderen Treuhänders beantragen. Sind die Voraussetzungen des Absatzes 1 entfallen, hat die Bundesanstalt den Widerruf der Bestellung des Treuhänders zu beantragen. Der Treuhänder hat Anspruch auf Ersatz angemessener Auslagen und auf Vergütung für seine Tätigkeit. Das Gericht setzt auf Antrag des Treuhänders die Auslagen und die Vergütung fest; die Rechtsbeschwerde gegen die Vergütungsfestsetzung ist ausgeschlossen. Der Bund schießt die Auslagen und die Vergütung vor; für seine Aufwendungen haften die Finanzholding-Gesellschaft oder die gemischte Finanzholding-Gesellschaft und die betroffenen Unternehmen gesamtschuldnerisch.
 
-(2) Im Falle der Untersagung nach Absatz 1 hat auf Antrag der Bundesanstalt das Gericht des Sitzes des übergeordneten Unternehmens nach § 10a Abs. 1 bis 5 oder des übergeordneten Finanzkonglomeratsunternehmens nach § 10b Abs. 3 Satz 6 bis 8 oder Abs. 4 einen Treuhänder zu bestellen, auf den es die Ausübung der Stimmrechte überträgt. Der Treuhänder hat bei der Ausübung der Stimmrechte den Interessen einer soliden und bankaufsichtskonformen Führung der betroffenen Unternehmen Rechnung zu tragen. Die Bundesanstalt kann aus wichtigem Grund die Bestellung eines anderen Treuhänders beantragen. Sind die Voraussetzungen des Absatzes 1 entfallen, hat die Bundesanstalt den Widerruf der Bestellung des Treuhänders zu beantragen. Der Treuhänder hat Anspruch auf Ersatz angemessener Auslagen und auf Vergütung für seine Tätigkeit. Das Gericht setzt auf Antrag des Treuhänders die Auslagen und die Vergütung fest; die Rechtsbeschwerde gegen die Vergütungsfestsetzung ist ausgeschlossen. Der Bund schießt die Auslagen und die Vergütung vor; für seine Aufwendungen haften die Finanzholding-Gesellschaft oder die gemischte Finanzholding-Gesellschaft und die betroffenen Unternehmen gesamtschuldnerisch.
-
-(3) Solange die Untersagungsverfügung nach Absatz 1 vollziehbar ist, gelten die betroffenen Unternehmen nicht als nachgeordnete Unternehmen der Finanzholding-Gesellschaft im Sinne der §§ 10a und 13b. Satz 1 gilt in Bezug auf nachgeordnete Unternehmen einer gemischten Finanzholding-Gesellschaft im Sinne von § 10b Abs. 2 Satz 5 entsprechend.
+(3) Solange die Untersagungsverfügung nach Absatz 1 vollziehbar ist, gelten die betroffenen Unternehmen nicht als nachgeordnete Unternehmen der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft im Sinne der §§ 10a und 13b.
 
 ### § 45b Maßnahmen bei organisatorischen Mängeln
 
@@ -4847,7 +4801,7 @@ einzelne Geschäftsarten, namentlich die Annahme von Einlagen, Geldern oder Wert
 
 Die Bundesanstalt kann an Stelle der in Satz 1 genannten Maßnahmen oder zusammen mit diesen auch anordnen, dass das Institut Eigenmittelanforderungen einhalten muss, die über die Anforderungen der Rechtsverordnung nach § 10 Abs. 1 Satz 9 und eine Anordnung nach § 10 Abs. 1b hinausgehen.
 
-(2) Absatz 1 ist entsprechend auf das jeweilige übergeordnete Unternehmen im Sinne des § 10a Abs. 1 bis 5 sowie ein Institut im Sinne von § 10a Abs. 14 anzuwenden, wenn eine Institutsgruppe oder eine Finanzholding-Gruppe entgegen § 25a Abs. 1 und 1a nicht über eine ordnungsgemäße Geschäftsorganisation verfügt; Absatz 1 Nr. 4 findet mit der Maßgabe entsprechende Anwendung, dass die Bundesanstalt statt die Gewährung von Krediten zu untersagen oder zu beschränken die für die Institutsgruppe oder Finanzholding-Gruppe nach Maßgabe von § 13b geltenden Großkreditobergrenzen nach § 13 Abs. 3 Satz 5 und § 13a Abs. 3 Satz 4 und Abs. 4 Satz 5 herabsetzen kann.
+(2) Absatz 1 ist entsprechend auf das jeweilige übergeordnete Unternehmen im Sinne des § 10a Abs. 1 bis 5 sowie ein Institut im Sinne von § 10a Abs. 14 anzuwenden, wenn eine Institutsgruppe, eine Finanzholding-Gruppe oder gemischte Finanzholding-Gruppe entgegen § 25a Abs. 1 und 1a nicht über eine ordnungsgemäße Geschäftsorganisation verfügt; Absatz 1 Nr. 4 findet mit der Maßgabe entsprechende Anwendung, dass die Bundesanstalt statt die Gewährung von Krediten zu untersagen oder zu beschränken die für die Institutsgruppe, Finanzholding-Gruppe oder gemischte Finanzholding-Gruppe nach Maßgabe von § 13b geltenden Großkreditobergrenzen nach § 13 Abs. 3 Satz 5 und § 13a Abs. 3 Satz 4 und Abs. 4 Satz 5 herabsetzen kann.
 
 (3) (weggefallen)
 
@@ -4900,7 +4854,7 @@ Schadensersatzansprüche gegen Organmitglieder oder ehemalige Organmitglieder zu
 
 (7) Der Sonderbeauftragte haftet für Vorsatz und Fahrlässigkeit. Bei fahrlässigem Handeln beschränkt sich die Ersatzpflicht des Sonderbeauftragten auf 1 Million Euro. Handelt es sich um eine Aktiengesellschaft, deren Aktien zum Handel im regulierten Markt zugelassen sind, beschränkt sich die Ersatzpflicht auf 50 Millionen Euro.
 
-(8) Die Absätze 1 bis 7 gelten entsprechend für Finanzholding-Gesellschaften, die nach § 10a Absatz 3 Satz 6 oder 7 als übergeordnetes Unternehmen gelten und bezüglich der Personen, die die Geschäfte derartiger Finanzholding-Gesellschaften tatsächlich führen.
+(8) Die Absätze 1 bis 7 gelten entsprechend für Finanzholding-Gesellschaften oder gemischte Finanzholding-Gesellschaften, die nach § 10a Absatz 3 Satz 6 oder 7 oder § 10a Absatz 3a Satz 6 oder Satz 7 als übergeordnetes Unternehmen gelten und bezüglich der Personen, die die Geschäfte derartiger Finanzholding-Gesellschaften oder gemischter Finanzholding-Gesellschaften tatsächlich führen.
 
 ### § 46 Maßnahmen bei Gefahr
 
@@ -4934,7 +4888,7 @@ Die Bundesanstalt kann unter den Voraussetzungen des Satzes 1 Zahlungen an konze
 
 ### § 46b Insolvenzantrag
 
-(1) Wird ein Institut oder eine nach § 10a Abs. 3 Satz 6 oder Satz 7 als übergeordnetes Unternehmen geltende Finanzholding-Gesellschaft zahlungsunfähig oder tritt Überschuldung ein, so haben die Geschäftsleiter, bei einem in der Rechtsform des Einzelkaufmanns betriebenen Institut der Inhaber und die Personen, die die Geschäfte der Finanzholding-Gesellschaft tatsächlich führen, dies der Bundesanstalt unter Beifügung aussagefähiger Unterlagen unverzüglich anzuzeigen; die im ersten Halbsatz bezeichneten Personen haben eine solche Anzeige unter Beifügung entsprechender Unterlagen auch dann vorzunehmen, wenn das Institut oder die nach § 10a Abs. 3 Satz 6 oder Satz 7 als übergeordnetes Unternehmen geltende Finanzholding-Gesellschaft voraussichtlich nicht in der Lage sein wird, die bestehenden Zahlungspflichten im Zeitpunkt der Fälligkeit zu erfüllen (drohende Zahlungsunfähigkeit). Soweit diese Personen nach anderen Rechtsvorschriften verpflichtet sind, bei Zahlungsunfähigkeit oder Überschuldung die Eröffnung des Insolvenzverfahrens zu beantragen, tritt an die Stelle der Antragspflicht die Anzeigepflicht nach Satz 1. Das Insolvenzverfahren über das Vermögen eines Instituts oder einer nach § 10a Abs. 3 Satz 6 oder Satz 7 als übergeordnetes Unternehmen geltenden Finanzholding-Gesellschaft findet im Falle der Zahlungsunfähigkeit, der Überschuldung oder unter den Voraussetzungen des Satzes 5 auch im Falle der drohenden Zahlungsunfähigkeit statt. Der Antrag auf Eröffnung des Insolvenzverfahrens über das Vermögen des Instituts oder der nach § 10a Abs. 3 Satz 6 oder Satz 7 als übergeordnetes Unternehmen geltenden Finanzholding-Gesellschaft kann nur von der Bundesanstalt gestellt werden. Im Falle der drohenden Zahlungsunfähigkeit darf die Bundesanstalt den Antrag jedoch nur mit Zustimmung des Instituts und im Falle einer nach § 10a Absatz 3 Satz 6 oder Satz 7 als übergeordnetes Unternehmen geltenden Finanzholding-Gesellschaft mit deren Zustimmung stellen. Vor der Bestellung des Insolvenzverwalters hat das Insolvenzgericht die Bundesanstalt zu dessen Eignung zu hören. Der Bundesanstalt ist der Eröffnungsbeschluss besonders zuzustellen. Das Insolvenzgericht übersendet der Bundesanstalt alle weiteren, das Verfahren betreffenden Beschlüsse und erteilt auf Anfrage Auskunft zum Stand und Fortgang des Verfahrens. Die Bundesanstalt kann Einsicht in die Insolvenzakten nehmen.
+(1) Wird ein Institut oder eine nach § 10a Absatz 3 Satz 6 oder Satz 7 oder Absatz 3a Satz 6 oder Satz 7 als übergeordnetes Unternehmen geltende Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft zahlungsunfähig oder tritt Überschuldung ein, so haben die Geschäftsleiter, bei einem in der Rechtsform des Einzelkaufmanns betriebenen Institut der Inhaber und die Personen, die die Geschäfte der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellschaft tatsächlich führen, dies der Bundesanstalt unter Beifügung aussagefähiger Unterlagen unverzüglich anzuzeigen; die im ersten Halbsatz genannten Personen haben eine solche Anzeige unter Beifügung entsprechender Unterlagen auch dann vorzunehmen, wenn das Institut oder die nach § 10a Absatz 3 Satz 6 oder Satz 7 oder Absatz 3a Satz 6 oder Satz 7 als übergeordnetes Unternehmen geltende Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft voraussichtlich nicht in der Lage sein wird, die bestehenden Zahlungspflichten im Zeitpunkt der Fälligkeit zu erfüllen (drohende Zahlungsunfähigkeit). Soweit diese Personen nach anderen Rechtsvorschriften verpflichtet sind, bei Zahlungsunfähigkeit oder Überschuldung die Eröffnung des Insolvenzverfahrens zu beantragen, tritt an die Stelle der Antragspflicht die Anzeigepflicht nach Satz 1. Das Insolvenzverfahren über das Vermögen eines Instituts, einer nach § 10a Absatz 3 Satz 6 oder Satz 7 oder Absatz 3a Satz 6 oder Satz 7 als übergeordnetes Unternehmen geltenden Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft findet im Fall der Zahlungsunfähigkeit, der Überschuldung oder unter den Voraussetzungen des Satzes 5 auch im Fall der drohenden Zahlungsunfähigkeit statt. Der Antrag auf Eröffnung des Insolvenzverfahrens über das Vermögen des Instituts, der nach § 10a Absatz 3 Satz 6 oder Satz 7 oder Absatz 3a Satz 6 oder Satz 7 als übergeordnetes Unternehmen geltenden Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft kann nur von der Bundesanstalt gestellt werden. Im Fall der drohenden Zahlungsunfähigkeit darf die Bundesanstalt den Antrag jedoch nur mit Zustimmung des Instituts und im Fall einer nach § 10a Absatz 3 Satz 6 oder Satz 7 oder Absatz 3a Satz 6 oder Satz 7 als übergeordnetes Unternehmen geltenden Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft mit deren Zustimmung stellen. Vor der Bestellung des Insolvenzverwalters hat das Insolvenzgericht die Bundesanstalt zu dessen Eignung zu hören. Der Bundesanstalt ist der Eröffnungsbeschluss besonders zuzustellen. Das Insolvenzgericht übersendet der Bundesanstalt alle weiteren, das Verfahren betreffenden Beschlüsse und erteilt auf Anfrage Auskunft zum Stand und Fortgang des Verfahrens. Die Bundesanstalt kann Einsicht in die Insolvenzakten nehmen.
 
 (2) Wird über ein Institut, das Teilnehmer eines Systems im Sinne des § 24b Absatz 1 ist, ein Insolvenzverfahren eröffnet, hat die Bundesanstalt unverzüglich die Europäische Wertpapier- und Marktaufsichtsbehörde, den Europäischen Ausschuss für Systemrisiken und die Stellen zu informieren, die der Europäischen Kommission von den anderen Staaten des Europäischen Wirtschaftsraums benannt worden sind. Auf Systembetreiber im Sinne des § 24b Abs. 5 ist Satz 1 entsprechend anzuwenden.
 
@@ -4990,7 +4944,7 @@ welche Bedeutung die Anmeldung der Forderung für bevorrechtigte oder dinglich g
 
 (3) Der Insolvenzverwalter hat die Gläubiger regelmäßig in geeigneter Form über den Fortgang des Insolvenzverfahrens zu unterrichten.
 
-### § 47 Moratorium, Einstellung des Bank- und Börsenverkehrs
+### § 46g Moratorium, Einstellung des Bank- und Börsenverkehrs
 
 (1) Sind wirtschaftliche Schwierigkeiten bei Kreditinstituten zu befürchten, die schwerwiegende Gefahren für die Gesamtwirtschaft, insbesondere den geordneten Ablauf des allgemeinen Zahlungsverkehrs erwarten lassen, so kann die Bundesregierung durch Rechtsverordnung
 
@@ -5007,13 +4961,474 @@ anordnen, daß die Börsen im Sinne des Börsengesetzes vorübergehend geschloss
 
 (3) Trifft die Bundesregierung Maßnahmen nach Absatz 1, so hat sie durch Rechtsverordnung die Rechtsfolgen zu bestimmen, die sich hierdurch für Fristen und Termine auf dem Gebiet des bürgerlichen Rechts, des Handels-, Gesellschafts-, Wechsel-, Scheck- und Verfahrensrechts ergeben.
 
-### § 48 Wiederaufnahme des Bank- und Börsenverkehrs
+### § 46h Wiederaufnahme des Bank- und Börsenverkehrs
 
-(1) Die Bundesregierung kann nach Anhörung der Deutschen Bundesbank für die Zeit nach einer vorübergehenden Schließung der Kreditinstitute und Börsen gemäß § 47 Abs. 1 Nr. 2 und 3 durch Rechtsverordnung Vorschriften für die Wiederaufnahme des Zahlungs- und Überweisungsverkehrs sowie des Börsenverkehrs erlassen. Sie kann hierbei insbesondere bestimmen, daß die Auszahlung von Guthaben zeitweiligen Beschränkungen unterliegt. Für Geldbeträge, die nach einer vorübergehenden Schließung der Kreditinstitute angenommen werden, dürfen solche Beschränkungen nicht angeordnet werden.
+(1) Die Bundesregierung kann nach Anhörung der Deutschen Bundesbank für die Zeit nach einer vorübergehenden Schließung der Kreditinstitute und Börsen gemäß § 46g Absatz 1 Nummer 2 und 3 durch Rechtsverordnung Vorschriften für die Wiederaufnahme des Zahlungs- und Überweisungsverkehrs sowie des Börsenverkehrs erlassen. Sie kann hierbei insbesondere bestimmen, daß die Auszahlung von Guthaben zeitweiligen Beschränkungen unterliegt. Für Geldbeträge, die nach einer vorübergehenden Schließung der Kreditinstitute angenommen werden, dürfen solche Beschränkungen nicht angeordnet werden.
 
-(2) Die nach Absatz 1 sowie die nach § 47 Abs. 1 erlassenen Rechtsverordnungen treten, wenn sie nicht vorher aufgehoben worden sind, drei Monate nach ihrer Verkündung außer Kraft.
+(2) Die nach Absatz 1 sowie die nach § 46g Absatz 1 erlassenen Rechtsverordnungen treten, wenn sie nicht vorher aufgehoben worden sind, drei Monate nach ihrer Verkündung außer Kraft.
 
-4a. Maßnahmen gegenüber Kreditinstituten bei Gefahren für die Stabilität des Finanzsystems
+4a. Maßnahmen zur Vorbereitung und Durchführung der Sanierung und Abwicklung
+----------------------------------------------------------------------------
+
+### 
+
+### § 47 Sanierungsplan und Abwicklungsplanung bei potentiell systemgefährdenden Kreditinstituten und Finanzgruppen
+
+(1) Kreditinstitute, die die Bundesanstalt als potentiell systemgefährdend einstuft, haben einen Sanierungsplan aufzustellen. In dem Sanierungsplan haben sie darzulegen, mit welchen von dem Kreditinstitut zu treffenden Maßnahmen die finanzielle Stabilität des Kreditinstituts wiederhergestellt werden kann, falls sich seine Finanzlage wesentlich verschlechtert und diese Verschlechterung zu einer Bestandsgefährdung führen kann, wenn das Kreditinstitut dem nicht rechtzeitig durch geeignete Maßnahmen entgegenwirkt (Krisenfall). Ist das potentiell systemgefährdende Kreditinstitut Teil einer Institutsgruppe oder einer Finanzholding-Gruppe (für die Zwecke dieses Unterabschnitts Finanzgruppen) oder ist die Finanzgruppe potentiell systemgefährdend, gilt Satz 1 mit der Maßgabe, dass allein das übergeordnete Unternehmen einen Sanierungsplan zu erstellen hat, der sich auf die gesamte Finanzgruppe bezieht. Ein Kreditinstitut ist potentiell systemgefährdend, wenn seine Bestandsgefährdung eine Systemgefährdung im Sinne des § 48a Absatz 2 Nummer 1 in Verbindung mit § 48b Absatz 2 auslösen kann. Eine Finanzgruppe ist potentiell systemgefährdend, wenn die Bestandsgefährdung mindestens einer Gruppengesellschaft eine Systemgefährdung auslösen kann; die Regelungen in den §§ 48o und 48p gelten entsprechend. Die Einstufung als potentiell systemgefährdend trifft die Bundesanstalt im Einvernehmen mit der Deutschen Bundesbank anhand einer qualitativen und quantitativen Analyse unter Berücksichtigung insbesondere der Größe des Kreditinstituts, seiner inländischen und grenzüberschreitenden Geschäftstätigkeit, seiner Vernetztheit mit dem inländischen und weltweiten Finanzsystem und seiner Ersetzbarkeit hinsichtlich der von dem Kreditinstitut angebotenen Dienstleistungen und Finanzinfrastruktureinrichtungen.
+
+(2) Die Bundesanstalt ist für die Abwicklungsplanung zuständig. Die Abwicklungsplanung umfasst folgende Aufgaben:
+
+1.  
+Die Bewertung der Abwicklungsfähigkeit von Kreditinstituten und Finanzgruppen nach § 47d,
+
+2.  
+die Beseitigung von Hindernissen der Abwicklungsfähigkeit nach § 47e,
+
+3.  
+die Erstellung von Abwicklungsplänen nach Maßgabe der §§ 47f und 47g für potentiell systemgefährdende Kreditinstitute und Finanzgruppen,
+
+4.  
+die Wahrnehmung der Befugnisse nach § 47h und
+
+5.  
+die Vorbereitung von Maßnahmen der Bundesanstalt nach den §§ 48a bis 48s.
+
+### § 47a Ausgestaltung von Sanierungsplänen
+
+(1) Die Ausgestaltung des Sanierungsplans ist abhängig von Größe, Komplexität und Vernetzung des Kreditinstituts oder der Finanzgruppe sowie von Art, Umfang und Komplexität des Geschäftsmodells und des damit einhergehenden Risikos.
+
+(2) Der Sanierungsplan hat insbesondere folgende wesentliche Bestandteile zu enthalten:
+
+1.  
+eine Zusammenfassung der wesentlichen Inhalte des Sanierungsplans einschließlich einer Bewertung der Sanierungsfähigkeit des Kreditinstituts oder der Finanzgruppe;
+
+2.  
+eine strategische Analyse des Kreditinstituts oder der Finanzgruppe, die Folgendes zu enthalten hat:
+
+a)  
+eine Darstellung der Unternehmensstruktur und des Geschäftsmodells,
+
+b)  
+die Benennung der wesentlichen Geschäftsaktivitäten und kritischen Geschäftsaktivitäten sowie
+
+c)  
+eine Beschreibung der internen und externen Vernetzungsstrukturen;
+
+3.  
+eine Darstellung, welche Handlungsoptionen dem Kreditinstitut oder der Finanzgruppe zur Verfügung stehen, um im Krisenfall die finanzielle Stabilität wiederherzustellen;
+
+4.  
+eine Darstellung der Voraussetzungen und der wesentlichen Schritte für die Umsetzung von Handlungsoptionen. In diesem Zusammenhang sind auch die Folgen von Handlungsoptionen für die Arbeitnehmer und ihre Vertretungen zu beschreiben;
+
+5.  
+eine Darstellung der Hindernisse, die die Umsetzbarkeit der Handlungsoptionen einschränken oder ausschließen können sowie eine Darstellung, ob und wie diese Hindernisse überwunden werden können;
+
+6.  
+eine Darstellung von Szenarien für schwerwiegende Belastungen, die einen Krisenfall auslösen können, und deren Auswirkungen auf das Kreditinstitut oder die Finanzgruppe; die Belastungsszenarien sollen sowohl systemweite als auch das einzelne Kreditinstitut betreffende Ereignisse beinhalten, welche die kreditinstituts- oder gruppenspezifischen Gefährdungspotentiale abbilden;
+
+7.  
+die Festlegung von Indikatoren, die eine frühzeitige Durchführung von Handlungsoptionen zur Wiederherstellung der finanziellen Stabilität des Kreditinstituts oder der Finanzgruppe dergestalt ermöglichen, dass ein künftiger Krisenfall aus eigener Kraft und ohne Stabilisierungsmaßnahmen der öffentlichen Hand überwunden werden kann; Unterstützungsmaßnahmen zur Überwindung des Krisenfalls durch öffentliche oder private Eigentümer und private oder öffentliche Sicherungssysteme können bei der Darstellung angenommen werden, sofern entsprechende Zusagen der Eigentümer oder Sicherungssysteme bestehen oder Unterstützungsmaßnahmen dem in vergleichbaren Fällen üblichen Vorgehen entsprechen;
+
+8.  
+eine Prüfung der Wirksamkeit und Umsetzbarkeit des Sanierungsplans anhand der Belastungsszenarien;
+
+9.  
+einen Kommunikations- und Informationsplan, in dem die interne und die externe Kommunikation in Bezug auf die Umsetzung jeder der aufgezeigten Handlungsoptionen dargelegt wird, und
+
+10.  
+eine Aufstellung der vorbereitenden Maßnahmen, die das Kreditinstitut oder die Finanzgruppe getroffen hat oder zu treffen beabsichtigt, um die Umsetzung des Sanierungsplans zu erleichtern.
+
+(3) Weiterhin hat der Sanierungsplan folgende Anforderungen zu erfüllen:
+
+1.  
+Die Umsetzung der Handlungsoptionen muss geeignet sein, die Existenzfähigkeit und finanzielle Solidität des Kreditinstituts oder der Finanzgruppe nachhaltig wiederherzustellen und zu sichern.
+
+2.  
+Die Handlungsoptionen müssen in einem Krisenfall wirksam umgesetzt werden können, ohne dass dies erhebliche negative Auswirkungen auf das Finanzsystem haben darf.
+
+(4) Die Bundesanstalt fordert die Kreditinstitute, die sie nach Maßgabe von § 47 Absatz 1 im Einvernehmen mit der Deutschen Bundesbank als potentiell systemgefährdend eingestuft hat, auf, einen Sanierungsplan vorzulegen und bestimmt dafür eine Frist, die sechs Monate nicht überschreiten darf. Auf Antrag des Kreditinstituts kann die Bundesanstalt die Frist um bis zu sechs Monate verlängern. Die betreffenden Kreditinstitute haben ihren Sanierungsplan mindestens jährlich oder nach einer Änderung der Rechts- oder Organisationsstruktur des Kreditinstituts, ihrer Geschäftstätigkeit oder ihrer Finanzlage oder der allgemeinen Risikosituation, die sich wesentlich auf den Sanierungsplan auswirken könnte oder aus anderen Gründen dessen Änderung erforderlich macht, zu aktualisieren. Die Bundesanstalt kann von den betreffenden Kreditinstituten verlangen, dass sie ihre Sanierungspläne häufiger aktualisieren. Die Sätze 1 bis 3 finden auf das übergeordnete Unternehmen einer potentiell systemgefährdenden Finanzgruppe entsprechende Anwendung.
+
+(5) Jeder Geschäftsleiter im Sinne des § 1 Absatz 2 ist, unabhängig von der internen Zuständigkeitsregelung, für die Erstellung, die Implementierung und die Aktualisierung des Sanierungsplans sowie für dessen Umsetzung im Krisenfall verantwortlich.
+
+(6) Wesentliche Geschäftsaktivitäten im Sinne dieses Unterabschnitts sind solche, die die Vermögens-, Finanz- und Ertragslage des Kreditinstituts oder der Finanzgruppe in erheblicher Weise beeinflussen können. Wesentlich sind auch Geschäftsaktivitäten, die aus Sicht des Kreditinstituts oder der Finanzgruppe im Falle einer Störung zu einem erheblichen Ausfall von Einnahmen oder Gewinnen, erheblichen Verlusten oder zu einem erheblichen Verlust des Beteiligungswertes führen könnten. Kritische Geschäftsaktivitäten im Sinne dieses Unterabschnitts sind Geschäftstätigkeiten, deren Abbruch oder ungeordnete Abwicklung sich in erheblicher Weise negativ auf andere Unternehmen des Finanzsektors, auf die Finanzmärkte oder auf das allgemeine Vertrauen der Einleger und anderer Marktteilnehmer in die Funktionsfähigkeit des Finanzsystems auswirken könnte.
+
+### § 47b Maßnahmen bei Mängeln von Sanierungsplänen
+
+(1) Potentiell systemgefährdende Kreditinstitute haben der Bundesanstalt und der Deutschen Bundesbank ihre Sanierungspläne, auch nach jeder Aktualisierung, einzureichen.
+
+(2) Genügt der eingereichte Sanierungsplan nach Einschätzung der Bundesanstalt, die im Einvernehmen mit der Deutschen Bundesbank erfolgt, nicht den Anforderungen gemäß § 47a Absatz 1 bis 3, teilt die Bundesanstalt dem betreffenden Kreditinstitut die Mängel des Sanierungsplans mit. In diesem Fall fordert die Bundesanstalt das Kreditinstitut auf, innerhalb von drei Monaten einen überarbeiteten Plan vorzulegen. Darüber hinaus hat das Kreditinstitut darzulegen, wie die von der Bundesanstalt festgestellten Mängel beseitigt wurden.
+
+(3) Legt das betreffende Kreditinstitut keinen überarbeiteten Sanierungsplan vor oder wurden die festgestellten Mängel mit dem überarbeiteten Sanierungsplan nicht behoben, kann die Bundesanstalt anordnen, dass das Kreditinstitut innerhalb einer von der Bundesanstalt festgesetzten Frist alle zur Beseitigung der Mängel erforderlichen Maßnahmen zu treffen hat.
+
+(4) Deuten die festgestellten Mängel auf Hindernisse hin, die eine Sanierung in einem Krisenfall unmöglich machen oder wesentlich erschweren (Sanierungshindernisse), kann die Bundesanstalt insbesondere verlangen, dass die erforderlichen Maßnahmen getroffen werden, um:
+
+1.  
+die Verringerung des Risikoprofils des Kreditinstituts zu erleichtern,
+
+2.  
+rechtzeitige Rekapitalisierungsmaßnahmen zu ermöglichen,
+
+3.  
+Korrekturen an der Refinanzierungsstrategie zu ermöglichen oder
+
+4.  
+die Verfahren der Unternehmensführung so zu ändern, dass Handlungsoptionen aus dem Sanierungsplan rechtzeitig und zügig umgesetzt werden können.
+
+Vor Erlass einer Maßnahme prüft die Bundesanstalt, ob die Maßnahme erforderlich ist, weil sich die festgestellten Sanierungshindernisse bei einer drohenden Belastungssituation nicht mehr rechtzeitig beheben lassen und dementsprechend die Gefahr besteht, dass sich bei Eintritt eines Krisenfalls eine Bestandsgefährdung des Kreditinstituts nicht mehr wirksam vermeiden lässt, und ob die mit der Maßnahme verbundenen Belastungen in einem angemessenen Verhältnis zu der von einer Bestandsgefährdung ausgehenden Systemgefährdung stehen. Dem Kreditinstitut ist zuvor die Gelegenheit zu geben, selbst Abhilfe zu schaffen. Maßnahmen nach Satz 1 sind mit möglichen Maßnahmen nach § 47e Absatz 3 und 4 abzustimmen.
+
+(5) Die Absätze 1 bis 4 finden auf das übergeordnete Unternehmen einer potentiell systemgefährdenden Finanzgruppe entsprechende Anwendung.
+
+### § 47c Abwicklungseinheit
+
+(1) Die Abwicklungsplanung wird innerhalb der Bundesanstalt von einer gesonderten organisatorischen Einheit unabhängig von den Aufgaben der laufenden Institutsaufsicht wahrgenommen (Abwicklungseinheit). Die Abwicklungseinheit ist außerdem zuständig für die Beantragung der Durchführung des Reorganisationsverfahrens nach § 7 des Gesetzes zur Reorganisation von Kreditinstituten, für die Wahrnehmung der damit zusammenhängenden Befugnisse und für deren Vorbereitung sowie für die Aufgaben der Bundesanstalt nach den §§ 48a bis 48s. Der Abwicklungseinheit können auch Aufgaben im Zusammenhang mit der Erstellung und Bewertung von Sanierungsplänen und der Anordnung von Maßnahmen nach § 47b übertragen werden.
+
+(2) Zwischen der Abwicklungseinheit und den Bereichen der laufenden Aufsicht müssen gegenseitige Unterstützung und ein ungehinderter Informationsaustausch sichergestellt sein. Für die Zusammenarbeit mit der Deutschen Bundesbank nach diesem Unterabschnitt gilt § 7 entsprechend.
+
+(3) Die Bundesanstalt informiert die Bundesanstalt für Finanzmarktstabilisierung über den jeweils aktuellen Stand der Abwicklungsplanung.
+
+### § 47d Bewertung der Abwicklungsfähigkeit
+
+(1) Die Bundesanstalt bewertet fortlaufend, ob ein Kreditinstitut oder eine Finanzgruppe abwicklungsfähig ist.
+
+(2) Ein Kreditinstitut oder eine Finanzgruppe ist als abwicklungsfähig zu betrachten, wenn die Bundesanstalt nach Anhörung der Bundesanstalt für Finanzmarktstabilisierung zu der Einschätzung kommt, dass das Kreditinstitut oder die Mitglieder der Finanzgruppe, die Kreditinstitute sind,
+
+1.  
+ein reguläres Insolvenzverfahren durchlaufen können, ohne dass es zu einer Systemgefährdung im Sinne des § 48b Absatz 2 kommt, oder
+
+2.  
+durch Anwendung eines Abwicklungsinstruments so abgewickelt werden können, dass die in § 47f Absatz 2 genannten Abwicklungsziele unter Beachtung der in § 47f Absatz 4 genannten Grundsätze erreicht werden.
+
+Unter der Anwendung eines Abwicklungsinstruments ist insbesondere der Erlass einer Übertragungsanordnung nach den §§ 48a bis 48s zu verstehen, einschließlich sonstiger Maßnahmen nach diesem Gesetz, die unterstützend zu der Übertragungsanordnung angeordnet werden.
+
+(3) Bei der Bewertung der Abwicklungsfähigkeit eines Kreditinstituts oder einer Finanzgruppe ist auch die praktische Umsetzbarkeit einer Abwicklung zu berücksichtigen, sofern eine Abwicklung zur Vermeidung oder Beseitigung einer Systemgefährdung erforderlich ist. Insbesondere ist in diesem Fall zu prüfen:
+
+1.  
+inwieweit wesentliche Geschäftsaktivitäten und kritische Geschäftsaktivitäten bestimmten rechtlichen Einheiten der Finanzgruppe zugeordnet werden können;
+
+2.  
+inwieweit Rechts- und Unternehmensstrukturen an den wesentlichen Geschäftsaktivitäten und kritischen Geschäftsaktivitäten ausgerichtet sind, so dass eine Trennung möglich ist, insbesondere nicht durch interne Vernetzungen verhindert oder erschwert wird;
+
+3.  
+inwieweit Vorkehrungen getroffen sind, die gewährleisten, dass Personal, Infrastrukturen, Liquidität und Kapital in erforderlichem Maße vorhanden sind, um wesentliche Geschäftsaktivitäten und kritische Geschäftsaktivitäten im Falle einer Bestandsgefährdung zu stützen und aufrechtzuerhalten;
+
+4.  
+inwieweit:
+
+a)  
+das Kreditinstitut oder Mitglieder der Finanzgruppe Dienstleistungsvereinbarungen als Empfänger oder Erbringer von Dienstleistungen abgeschlossen haben, die auf die Geschäftsaktivitäten des Kreditinstituts, Mitglieder der Finanzgruppe oder Dritter Einfluss haben können, und
+
+b)  
+solche Dienstleistungsvereinbarungen im Falle einer Bestandsgefährdung oder einer Abwicklung des Kreditinstituts oder eines Mitglieds der Finanzgruppe in vollem Umfang durchsetzbar sind, unabhängig davon, ob das Kreditinstitut oder ein Mitglied der Finanzgruppe Empfänger oder Erbringer der Dienstleistung ist;
+
+5.  
+inwieweit das Kreditinstitut oder ein Mitglied der Finanzgruppe für den Fall einer Ausgliederung wesentlicher Geschäftsaktivitäten oder kritischer Geschäftsaktivitäten über ein Verfahren für die Übertragung der im Rahmen von Dienstleistungsvereinbarungen erbrachten oder empfangenen Dienste verfügt;
+
+6.  
+inwieweit Vorkehrungen getroffen sind, die einen dauerhaften Zugang zu Finanzmarktinfrastrukturen gewährleisten;
+
+7.  
+ob die technisch-organisatorische Ausstattung ausreichend ist, um zu gewährleisten, dass die Bundesanstalt jederzeit korrekte und vollständige Informationen über die wesentlichen Geschäftsaktivitäten und die kritischen Geschäftsaktivitäten erlangt;
+
+8.  
+ob das Kreditinstitut oder die Mitglieder der Finanzgruppe auf Grund der technisch-organisatorischen Ausstattung in der Lage sind, der Bundesanstalt jederzeit, auch unter sich rasch verändernden Bedingungen, die für eine wirksame Abwicklung des Kreditinstituts oder der Finanzgruppe wesentlichen Informationen bereitzustellen;
+
+9.  
+inwieweit das Kreditinstitut oder die Mitglieder der Finanzgruppe die technisch-organisatorische Ausstattung einem Stresstest auf der Grundlage von Szenarien, die von der Bundesanstalt vorgegeben oder gebilligt wurden, unterzogen haben;
+
+10.  
+inwieweit das Kreditinstitut oder die Mitglieder der Finanzgruppe die kontinuierliche Betriebsfähigkeit der technisch-organisatorischen Ausstattung gewährleisten können, und zwar sowohl für das betroffene Kreditinstitut oder die Mitglieder der betroffenen Finanzgruppe als auch, falls die wesentlichen Geschäftsaktivitäten oder kritischen Geschäftsaktivitäten von den übrigen Geschäftsaktivitäten getrennt werden, für einen potentiellen Rechtsträger, der das Kreditinstitut oder ein Mitglied der Finanzgruppe übernimmt;
+
+11.  
+inwieweit das Kreditinstitut oder die Mitglieder der Finanzgruppe angemessene Verfahren vorhalten, um zu gewährleisten, dass die Bundesanstalt Informationen erlangt oder erlangen kann, die für die Identifizierung der Einleger und der von den Einlagensicherungssystemen gedeckten Beträge erforderlich sind;
+
+12.  
+inwieweit mögliche gruppeninterne Bürgschafts-, Garantie- oder Sicherungsabreden getroffen und Gegengeschäfte zu Marktkonditionen abgeschlossen werden, inwieweit die Risikomanagementsysteme in Bezug auf solche Abreden zuverlässig sind und inwieweit sich durch solche Abreden die Ansteckungsgefahr innerhalb der Finanzgruppe erhöht;
+
+13.  
+inwieweit die Rechtsstruktur der Finanzgruppe, die Zahl der rechtlichen Einheiten, die Komplexität der Gruppenstruktur, einschließlich steuerlicher und bilanzieller Verbindungen oder Unternehmensverträge, oder die Schwierigkeit, Geschäftsaktivitäten auf rechtliche Einheiten auszurichten, die Abwicklungsfähigkeit beeinträchtigen oder beeinträchtigen können;
+
+14.  
+inwieweit sich, falls sich die Bewertung auf eine gemischte Finanzholding-Gesellschaft bezieht, die Abwicklung von Unternehmen der Finanzgruppe, bei denen es sich um Kreditinstitute, Finanzdienstleistungsinstitute oder andere Finanzunternehmen handelt, negativ auf die nicht im Finanzsektor operierenden Teile der Finanzgruppe auswirken könnte;
+
+15.  
+ob ausländische Behörden über Instrumente verfügen, die geeignet sind, die Anwendung der Abwicklungsinstrumente und Abwicklungsbefugnisse nach diesem Gesetz zu unterstützen, und welche Möglichkeiten für koordinierte Maßnahmen zwischen der Bundesanstalt und solchen Behörden im Ausland bestehen;
+
+16.  
+ob die Abwicklungsinstrumente und Abwicklungsbefugnisse angesichts der Struktur des Kreditinstituts oder der Finanzgruppe angewendet werden können;
+
+17.  
+inwieweit die Gruppenstruktur es der Bundesanstalt ermöglicht, die gesamte Finanzgruppe oder eine oder mehrere ihrer Einheiten ohne Systemgefährdung abzuwickeln;
+
+18.  
+auf welche Weise die Anwendung von Abwicklungsinstrumenten und Abwicklungsbefugnissen bei dem Kreditinstitut oder bei Mitgliedern der Finanzgruppe erleichtert oder in welchen Fällen ganz auf die Anwendung verzichtet werden könnte;
+
+19.  
+welche Erfolgsaussichten im Hinblick auf das Abwicklungsziel eine Anwendung von Abwicklungsinstrumenten und Abwicklungsbefugnissen hat angesichts der möglichen Auswirkungen auf Gläubiger, Gegenparteien, Kunden und Mitarbeiter, Erlaubnisse und Lizenzen sowie möglicher Maßnahmen von Behörden außerhalb der Bundesrepublik Deutschland;
+
+20.  
+ob die Auswirkungen angemessen bewertet werden können, die die Abwicklung des Kreditinstituts oder der Finanzgruppe, insbesondere die Anwendung von Abwicklungsinstrumenten oder Abwicklungsbefugnissen, auf das Finanzsystem und das Vertrauen der Finanzmärkte haben könnte;
+
+21.  
+ob die Ansteckung anderer Finanzmarktteilnehmer durch Anwendung der Abwicklungsinstrumente und Abwicklungsbefugnisse eingedämmt werden kann;
+
+22.  
+ob sich die Abwicklung des Kreditinstituts oder der Finanzgruppe, insbesondere die Anwendung von Abwicklungsinstrumenten oder Abwicklungsbefugnissen, wesentlich auf den Betrieb von Finanzmarktinfrastrukturen auswirken könnte und
+
+23.  
+inwieweit, sofern nur eine Abwicklung nach Absatz 2 Nummer 2 in Betracht kommt, Verluste von Anteilsinhabern des in Abwicklung befindlichen Instituts und seinen Gläubigern getragen werden können.
+
+(4) Die Bundesanstalt hat die Bewertung der Abwicklungsfähigkeit jährlich zu überprüfen und gegebenenfalls zu aktualisieren. Sie kann zusätzliche Bewertungen durchführen, insbesondere wenn sich Änderungen bei dem Kreditinstitut oder der Finanzgruppe oder in den Märkten, in denen das Kreditinstitut oder die Finanzgruppe tätig sind, ergeben haben, die einen Einfluss auf das Ergebnis der Bewertung haben könnten.
+
+(5) Die Bewertung der Abwicklungsfähigkeit einer Finanzgruppe, die in den Anwendungsbereich von Absatz 1 fällt, auch außerhalb der Bundesrepublik Deutschland tätig ist und im Falle einer Bestandsgefährdung auch außerhalb der Bundesrepublik Deutschland die Stabilität des Finanzsystems beeinträchtigen könnte, soll in Abstimmung mit den Abwicklungsbehörden der betroffenen Staaten im Europäischen Wirtschaftsraum oder der betroffenen Drittstaaten (Abwicklungskollegium) erfolgen. Bei der Bewertung der Abwicklungsfähigkeit eines entsprechenden Kreditinstituts, das nicht Mitglied einer grenzüberschreitend tätigen Finanzgruppe ist, aber auch außerhalb der Bundesrepublik Deutschland tätig ist, entscheidet die Bundesanstalt, ob eine solche Abstimmung erforderlich oder hilfreich ist. § 8e ist entsprechend anzuwenden.
+
+### § 47e Befugnisse zur Beseitigung von Hindernissen der Abwicklungsfähigkeit
+
+(1) Stellt die Bundesanstalt bei ihrer Bewertung gemäß § 47d und nach Anhörung der Deutschen Bundesbank bei einem potentiell systemgefährdenden Kreditinstitut Hindernisse in Bezug auf die Abwicklungsfähigkeit fest, teilt sie dies dem Kreditinstitut oder dem übergeordneten Unternehmen einer potentiell systemgefährdenden Finanzgruppe mit. Die Mitteilung benennt die festgestellten Hindernisse der Abwicklungsfähigkeit.
+
+(2) In der Mitteilung wird dem Adressaten eine angemessene Frist eingeräumt, um Maßnahmen vorzuschlagen, mit denen die genannten Hindernisse beseitigt werden sollen. Die Bundesanstalt bewertet nach Anhörung der Deutschen Bundesbank, ob die vorgeschlagenen Maßnahmen geeignet sind, die Hindernisse wirksam zu beseitigen. Die Bundesanstalt kann zuständige in- und ausländische Stellen beteiligen, wenn sie deren Beteiligung für erforderlich oder hilfreich hält. § 47d Absatz 5 ist entsprechend anzuwenden.
+
+(3) Gelangt die Bundesanstalt zu der Einschätzung, dass die Hindernisse durch die vorgeschlagenen Maßnahmen nicht wirksam beseitigt werden können, kann sie alternative Maßnahmen verlangen. Bei Erlass einer Maßnahme nach Satz 1 prüft die Bundesanstalt:
+
+1.  
+dass die Maßnahme im Einklang mit den in § 47f Absatz 2 genannten Abwicklungszielen steht,
+
+2.  
+ob die Maßnahme erforderlich ist, weil sich die festgestellten Abwicklungshindernisse bei Eintritt einer konkreten Gefahr nicht mehr rechtzeitig beheben lassen und auf Grund der Abwicklungshindernisse die Gefahr besteht, dass sich bei Eintritt eines Krisenfalls eine Systemgefährdung nicht mehr wirksam vermeiden lässt, und
+
+3.  
+dass die mit der Maßnahme verbundenen Belastungen in einem angemessenen Verhältnis zu der sonst drohenden Systemgefährdung und deren möglichen Auswirkungen stehen.
+
+(4) Unter den Voraussetzungen des Absatzes 3 kann die Bundesanstalt insbesondere verlangen, dass:
+
+1.  
+Dienstleistungsvereinbarungen innerhalb der Finanzgruppe oder mit Dritten zur Aufrechterhaltung wesentlicher Geschäftsaktivitäten oder kritischer Geschäftsaktivitäten geschlossen werden,
+
+2.  
+das Kreditinstitut oder, im Fall einer Finanzgruppe, ein oder mehrere Mitglieder der Finanzgruppe die maximalen individuellen und aggregierten Risikopositionen begrenzen,
+
+3.  
+bestehende oder von der Bundesanstalt neu begründete außerordentliche oder regelmäßige Informationspflichten eingehalten werden,
+
+4.  
+bestimmte Vermögensgegenstände veräußert werden,
+
+5.  
+bestehende oder geplante Geschäftsaktivitäten eingeschränkt oder eingestellt werden,
+
+6.  
+Änderungen an rechtlichen oder operativen Strukturen des Instituts oder der Finanzgruppe vorgenommen werden, um die Komplexität zu reduzieren und um zu gewährleisten, dass wesentliche Geschäftsaktivitäten oder kritische Geschäftsaktivitäten durch Anwendung von Abwicklungsinstrumenten oder Abwicklungsbefugnissen rechtlich und wirtschaftlich von anderen Funktionen getrennt werden können,
+
+7.  
+ein Mutterunternehmen, eine Mutterfinanzholding-Gesellschaft oder eine EU-Mutterfinanzholding-Gesellschaft gegründet wird,
+
+8.  
+Maßnahmen umgesetzt werden, die die Verlusttragfähigkeit erhöhen, und
+
+9.  
+sofern es sich bei einem Kreditinstitut um ein Tochterunternehmen einer gemischten Holdinggesellschaft handelt, die gemischte Holdinggesellschaft zur Kontrolle des Instituts eine getrennte Finanzholding-Gesellschaft errichtet, wenn dies erforderlich ist, um die Abwicklung des Kreditinstituts zu erleichtern und um zu verhindern, dass sich die Anwendung von Abwicklungsinstrumenten und Abwicklungsbefugnissen negativ auf die nicht im Finanzsektor operierenden Teile der Finanzgruppe auswirkt.
+
+Die Bundesanstalt soll die in den Nummern 4 bis 6 genannten Maßnahmen nur verlangen, nachdem dem Adressaten erneut Gelegenheit gegeben wurde, Maßnahmen zur Beseitigung der Hindernisse vorzuschlagen, und die vorgeschlagenen Maßnahmen nach Einschätzung der Bundesanstalt nicht geeignet sind, die Hindernisse wirksam zu beseitigen.
+
+(5) Die Bundesanstalt kann nach ihrem Ermessen das Abwicklungskollegium einbinden. Die Bundesanstalt teilt die Maßnahmen dem Adressaten der Mitteilung nach Absatz 1 mit und fordert ihn auf, diese Maßnahmen innerhalb einer von ihr festgesetzten Frist umzusetzen. Die Bundesanstalt informiert die Deutsche Bundesbank über die Maßnahme und deren Anordnung.
+
+### § 47f Erstellung eines Abwicklungsplans
+
+(1) Die Bundesanstalt erstellt einen Abwicklungsplan für jedes potentiell systemgefährdende Kreditinstitut, das nicht Teil einer potentiell systemgefährdenden Finanzgruppe ist, die einer Beaufsichtigung auf konsolidierter Basis nach Maßgabe der Bankenrichtlinie durch die Bundesanstalt unterliegt. Hat die Bewertung der Abwicklungsfähigkeit nach § 47d Hindernisse ergeben, die der Erstellung eines Abwicklungsplans entgegenstehen, sind diese Hindernisse zunächst nach § 47e zu beseitigen.
+
+(2) In dem Abwicklungsplan ist dem Abwicklungsziel, eine Systemgefährdung zu vermeiden oder deren Beseitigung zu erleichtern, Rechnung zu tragen. Soweit sie mit dem Ziel der Vermeidung oder erleichterten Beseitigung einer Systemgefährdung im Einklang stehen, sollen die folgenden weiteren Ziele berücksichtigt werden:
+
+1.  
+die Gewährleistung der Kontinuität kritischer Geschäftsaktivitäten;
+
+2.  
+die Vermeidung der Ansteckung anderer Finanzmarktteilnehmer;
+
+3.  
+das Bemühen, die Kosten einer Abwicklung für die Allgemeinheit möglichst gering zu halten, und der Schutz öffentlicher Mittel;
+
+4.  
+der Schutz der unter die Richtlinie 94/19/EG fallenden Einleger und der unter die Richtlinie 97/9/EG fallenden Anleger sowie
+
+5.  
+der Schutz der Gelder und Vermögenswerte der Kunden.
+
+(3) Der Abwicklungsplan sieht die Anwendung von Abwicklungsinstrumenten für den Fall vor, dass hinsichtlich des jeweiligen Kreditinstituts die Voraussetzungen des § 48a Absatz 2 vorliegen. Der Abwicklungsplan berücksichtigt verschiedene Szenarien, unter anderem auch die Fälle, dass die Bestandsgefährdung und ihre Ursachen sich auf das einzelne Kreditinstitut beschränken oder die Bestandsgefährdung in Zeiten allgemeiner finanzieller Instabilität oder systemweiter Ereignisse eintritt. Der Abwicklungsplan soll eine finanzielle Unterstützung nur in Form derjenigen Finanzierungsmechanismen vorsehen, die durch das Gesetz zur Errichtung eines Restrukturierungsfonds für Kreditinstitute (Restrukturierungsfondsgesetz) geschaffen worden sind.
+
+(4) Der Abwicklungsplan ist nach folgenden Grundsätzen zu erstellen:
+
+1.  
+Eine Inanspruchnahme außerordentlicher finanzieller Unterstützung aus öffentlichen Mitteln soll vermieden werden; die Mittel des Restrukturierungsfonds sollen effizient und sparsam eingesetzt werden.
+
+2.  
+Die Marktdisziplin auf den Finanzmärkten soll erhalten werden.
+
+3.  
+Verluste werden zunächst von den Anteilsinhabern des in Abwicklung befindlichen Kreditinstituts getragen.
+
+4.  
+Nach den Anteilsinhabern sollen die Gläubiger des in Abwicklung befindlichen Instituts nach Maßgabe der Regelungen der §§ 48a bis 48s die Verluste tragen, soweit dies mit den in Absatz 2 genannten Abwicklungszielen vereinbar ist.
+
+5.  
+Kein Gläubiger soll einen höheren Verlust tragen, als er bei einer Liquidation des Instituts in einem regulären Insolvenzverfahren erleiden würde. In diesem Zusammenhang ist es zulässig, zum Zeitpunkt des Einsatzes eines Abwicklungsinstruments eine pauschale Insolvenzquote auf der Basis der zu diesem Zeitpunkt ermittelten Kapitallücke zu ermitteln.
+
+6.  
+Jeder Geschäftsleiter des in Abwicklung befindlichen Kreditinstituts soll von der Geschäftsleitung ausgeschlossen werden, es sei denn, der Geschäftsleiter hat nach Einschätzung der Bundesanstalt nicht zur Entstehung einer Bestandsgefährdung beigetragen, oder der Ausschluss des Geschäftsleiters würde die Stabilität des Kreditinstituts zusätzlich gefährden.
+
+7.  
+Jeder Geschäftsleiter des in Abwicklung befindlichen Instituts trägt die Verluste in dem Umfang mit, der nach dem Zivil- und Strafrecht seiner individuellen Verantwortung für den Ausfall des Instituts entspricht.
+
+(5) Der Abwicklungsplan soll folgende Elemente enthalten:
+
+1.  
+eine Zusammenfassung der Hauptbestandteile des Abwicklungsplans,
+
+2.  
+eine zusammenfassende Darstellung der seit der ersten Erstellung oder der letzten Aktualisierung eingetretenen wesentlichen Veränderungen innerhalb des Kreditinstituts,
+
+3.  
+eine strategische Analyse, die insbesondere die folgenden Aspekte umfassen soll:
+
+a)  
+eine detaillierte Beschreibung der Organisationsstruktur einschließlich einer Aufstellung der rechtlichen Einheiten,
+
+b)  
+Angaben zur Eigentümerstruktur,
+
+c)  
+Angaben zum Sitz der Geschäftsleitung sowie Angaben zu den Erlaubnissen und Lizenzen jeder wesentlichen rechtlichen Einheit,
+
+d)  
+Zuordnung wesentlicher Geschäftsaktivitäten und kritischer Geschäftsaktivitäten zu den rechtlichen Einheiten,
+
+e)  
+Angaben zu den wesentlichen Geschäftspartnern und eine Analyse der Auswirkungen eines Ausfalls solcher Geschäftspartner auf die Lage der jeweiligen wesentlichen rechtlichen Einheit,
+
+f)  
+Angaben zu allen Finanzmarktinfrastrukturen, denen die jeweilige wesentliche rechtliche Einheit direkt oder indirekt angeschlossen ist, einschließlich der Zuordnung zu den wesentlichen Geschäftsaktivitäten und den kritischen Geschäftsaktivitäten,
+
+g)  
+Angaben zur technisch-organisatorischen Ausstattung der jeweiligen wesentlichen rechtlichen Einheit einschließlich der Angaben zu deren tatsächlichem und rechtlichem Rahmen, insbesondere zu Lizenzen, Dienstleistungsvereinbarungen, Wartung,
+
+h)  
+Angaben zum jeweils verantwortlichen Geschäftsleiter und zum unterhalb der Geschäftsleitung angesiedelten Ansprechpartner der jeweiligen wesentlichen rechtlichen Einheit und
+
+i)  
+alle wesentlichen von der jeweiligen wesentlichen rechtlichen Einheit mit Dritten geschlossenen Vereinbarungen, deren Beendigung durch die Anwendung eines Abwicklungsinstruments, einer Abwicklungsbefugnis, den Eintritt der Insolvenz oder eines vertraglich definierten Vorinsolvenzereignisses unmittelbar oder mittelbar ausgelöst werden könnte, und Angaben dazu, ob durch die Folgen der Beendigung die Anwendung eines Abwicklungsinstruments oder einer Abwicklungsbefugnis beeinträchtigt werden kann; Gleiches gilt, wenn der Dritte zwar nicht die Beendigung, aber sonstige für die jeweilige wesentliche rechtliche Einheit potentiell nachteilige Folgen wie zum Beispiel eine Vertragsstrafe auslösen kann;
+
+4.  
+Ausführungen dazu, wie wesentliche Geschäftsaktivitäten und kritische Geschäftsaktivitäten im erforderlichen Umfang rechtlich und wirtschaftlich von anderen Funktionen getrennt werden können, um deren Fortführung im Falle einer Abwicklung des Kreditinstituts zu gewährleisten,
+
+5.  
+eine Schätzung des Zeitrahmens für die Umsetzung jedes wesentlichen Bestandteils des Plans,
+
+6.  
+eine Darstellung der gemäß § 47d vorgenommenen Bewertung der Abwicklungsfähigkeit,
+
+7.  
+eine Beschreibung der nach § 47e verlangten Maßnahmen zur Beseitigung von Hindernissen für die Abwicklungsfähigkeit,
+
+8.  
+eine Beschreibung der Verfahren zur Ermittlung des Werts und der Marktfähigkeit der wesentlichen Geschäftsaktivitäten, der kritischen Geschäftsaktivitäten und der Vermögenswerte der jeweiligen wesentlichen rechtlichen Einheit im Abwicklungsfall,
+
+9.  
+eine detaillierte Beschreibung der Regelungen, durch die gewährleistet werden soll, dass die Informationen, Einschätzungen, Analysen und Gutachten, die gemäß § 47h zur Verfügung zu stellen sind, auf dem aktuellen Stand sind und der Bundesanstalt jederzeit zur Verfügung stehen,
+
+10.  
+Erläuterungen, wie die verschiedenen Abwicklungsmaßnahmen unter Berücksichtigung der Anforderungen nach Absatz 3 Satz 3 finanziert werden können,
+
+11.  
+eine detaillierte Beschreibung der verschiedenen Abwicklungsstrategien, die bei den unterschiedlichen Szenarien im Sinne des § 47d Absatz 2 Nummer 9 angewandt werden könnten,
+
+12.  
+Erläuterungen zu kritischen Vernetzungen,
+
+13.  
+eine Beschreibung der Optionen für die Aufrechterhaltung des Zugangs zu Finanzmarktinfrastrukturen,
+
+14.  
+sofern einschlägig, eine Darstellung der Einbeziehung und Mitwirkung ausländischer Behörden sowie
+
+15.  
+einen Plan für die Kommunikation mit den Medien und der Öffentlichkeit.
+
+Die Bundesanstalt kann weitere Bestandteile in den Abwicklungsplan aufnehmen.
+
+(6) Der Abwicklungsplan ist der Deutschen Bundesbank und der Bundesanstalt für Finanzmarktstabilisierung zur Stellungnahme vorzulegen. Er ist mindestens jährlich sowie nach wesentlichen Änderungen der Rechts- oder Organisationsstruktur des Kreditinstituts, seiner Geschäftstätigkeit oder seiner Finanzlage, die sich wesentlich auf die Umsetzbarkeit des Plans auswirken könnten, zu prüfen und gegebenenfalls zu aktualisieren. Gleiches gilt, wenn die Bewertung der Abwicklungsfähigkeit oder deren Überprüfung nach § 47d Absatz 4 ergibt, dass Änderungen des Abwicklungsplans geboten sind.
+
+(7) Die Erstellung des Abwicklungsplans in Bezug auf ein Kreditinstitut, das in den Anwendungsbereich von Absatz 1 fällt, auch im Ausland tätig ist und im Falle einer Bestandsgefahr die Stabilität eines ausländischen Finanzmarkts beeinträchtigen könnte, soll in einem Abwicklungskollegium erfolgen. § 8e ist entsprechend anzuwenden.
+
+(8) Die Bundesanstalt kann von der Erstellung eines Abwicklungsplans nach Absatz 1 absehen, wenn
+
+1.  
+das potentiell systemgefährdende Kreditinstitut Teil einer potentiell systemgefährdenden Gruppe ist, deren Beaufsichtigung auf konsolidierter Basis nach Maßgabe der Bankenrichtlinie zwar nicht durch die Bundesanstalt wahrgenommen wird, aber die Bundesanstalt insbesondere durch Teilnahme an einem Abwicklungskollegium zu der Einschätzung gelangt ist, dass ein durch Dritte erstellter Abwicklungsplan den Fall der Bestandsgefährdung des potentiell systemgefährdenden Kreditinstituts ausreichend abdeckt, und
+
+2.  
+die Bundesanstalt ihre Einschätzung ausreichend dokumentiert.
+
+### § 47g Gruppenabwicklungspläne
+
+(1) Die Bundesanstalt erstellt für jede potentiell systemgefährdende Finanzgruppe, die einer Beaufsichtigung auf konsolidierter Basis nach Maßgabe der Bankenrichtlinie durch die Bundesanstalt unterliegt, einen Abwicklungsplan (Gruppenabwicklungsplan). Vor Fertigstellung des Gruppenabwicklungsplans hört die Bundesanstalt die Deutsche Bundesbank und die Bundesanstalt für Finanzmarktstabilisierung an.
+
+(2) Der Gruppenabwicklungsplan soll folgende Mitglieder der Finanzgruppe abdecken:
+
+1.  
+sofern es sich bei der potentiell systemgefährdenden Finanzgruppe um eine Institutsgruppe handelt, das übergeordnete Unternehmen im Sinne des § 10a Absatz 1 Satz 1 und alle nachgeordneten Unternehmen im Sinne des § 10a Absatz 1 Satz 2, unabhängig davon, ob sie jeweils für sich genommen als potentiell systemgefährdend gelten,
+
+2.  
+sofern es sich bei der potentiell systemgefährdenden Finanzgruppe um eine Finanzholding-Gruppe handelt, die Finanzholding-Gesellschaft und alle nachgeordneten Unternehmen im Sinne des § 10a Absatz 1 Satz 2, unabhängig davon, ob sie jeweils für sich genommen als potentiell systemgefährdend gelten.
+
+(3) Der Gruppenabwicklungsplan sieht die Anwendung von Abwicklungsinstrumenten für den Fall vor, dass die Voraussetzungen des § 48o oder § 48p vorliegen. § 47f Absatz 1 Satz 2, Absatz 2, 3 Satz 2 und 3, Absatz 4, 6 und 7 sind auf Gruppenabwicklungspläne entsprechend anzuwenden.
+
+(4) Der Inhalt des Gruppenabwicklungsplans soll sich an den Vorgaben des § 47f Absatz 5 orientieren. Darüber hinaus soll die Bundesanstalt im Gruppenabwicklungsplan insbesondere:
+
+1.  
+einen Schwerpunkt auf die Darstellung der Zusammenarbeit und Koordination mit ausländischen Stellen legen sowie darauf, wer die Lasten international trägt, falls der Bestand der Finanzgruppe oder eines ihrer Mitglieder gefährdet ist. Es sollen insbesondere Angaben zu den zuständigen Aufsichts- und Abwicklungsbehörden der jeweiligen wesentlichen rechtlichen Einheit und zur möglichen Finanzierung der verschiedenen Abwicklungsmaßnahmen gemacht und gegebenenfalls Grundsätze für eine Aufteilung der Finanzierungsverantwortung zwischen Finanzierungsquellen in mehreren Staaten dargelegt werden;
+
+2.  
+die Maßnahmen darlegen, die für die Finanzgruppe als Ganzes oder für einen Teil der Finanzgruppe im Rahmen der vorgesehenen Szenarien zu treffen sind;
+
+3.  
+analysieren, inwieweit Abwicklungsinstrumente und Abwicklungsbefugnisse in international koordinierter Weise angewandt, ausgeübt und gegenseitig anerkannt werden können.
+
+### § 47h Mitwirkungspflichten; Verordnungsermächtigung
+
+(1) Kreditinstitute und Finanzgruppen haben der Bundesanstalt unverzüglich alle Informationen zur Verfügung zu stellen, die die Bundesanstalt im Rahmen der Abwicklungsplanung benötigt. Bei Bedarf kann die Bundesanstalt verlangen, dass einer entsprechenden Informationsübermittlung eine zusammenfassende Analyse beigefügt wird.
+
+(2) Darüber hinaus kann die Bundesanstalt auch Einschätzungen, Analysen und Gutachten und sonstige Formen der Mitwirkung anfordern, wenn sie nach Auffassung der Bundesanstalt für die Abwicklungsplanung erforderlich sind. Insbesondere kann die Bundesanstalt verlangen, dass Teile der im Rahmen der Abwicklungsplanung zu erstellenden Dokumente von dem jeweiligen Kreditinstitut oder dem übergeordneten Unternehmen der jeweiligen Finanzgruppe entworfen und der Bundesanstalt zur Verfügung gestellt werden.
+
+(3) Die Bundesanstalt ist nicht verpflichtet, die infolge der Absätze 1 und 2 entstandenen Kosten und Aufwendungen dem Kreditinstitut oder dem übergeordneten Unternehmen der Finanzgruppe zu ersetzen.
+
+(4) Das Bundesministerium der Finanzen kann im Benehmen mit der Deutschen Bundesbank durch Rechtsverordnung nähere Bestimmungen über Art, Umfang, Zeitpunkt und Form der Mitwirkungspflichten erlassen, die insbesondere auch regelmäßig bereitzustellende Informationen umfassen können, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist. Es kann diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt mit der Maßgabe übertragen, dass Rechtsverordnungen der Bundesanstalt im Einvernehmen mit der Deutschen Bundesbank ergehen. Vor Erlass der Rechtsverordnung sind die Spitzenverbände der Institute anzuhören.
+
+### § 47i Vertraulichkeit und Informationsaustausch
+
+(1) Vorbehaltlich der Regelung in Absatz 3 behandelt die Bundesanstalt die Ergebnisse der Abwicklungsplanung, das weitere Verfahren nach Bekanntgabe des Ergebnisses der Bewertung der Abwicklungsfähigkeit und die ihr im Zusammenhang mit der Abwicklungsplanung zur Verfügung stehenden Informationen, Einschätzungen, Analysen und Gutachten vertraulich. Die Abwicklungspläne müssen insbesondere nicht gegenüber dem Kreditinstitut oder der Finanzgruppe bekannt gegeben werden.
+
+(2) Die Sanierungspläne und die Ergebnisse der Abwicklungsplanung sind ihrem Wesen nach geheimhaltungsbedürftig im Sinne des § 99 Absatz 1 Satz 2 der Verwaltungsgerichtsordnung.
+
+(3) Die Bundesanstalt ist berechtigt, die ihr im Zusammenhang mit der Abwicklungsplanung vorliegenden Informationen, Einschätzungen, Analysen und Gutachten:
+
+1.  
+dem Bundesministerium der Finanzen, der Deutschen Bundesbank, der Bundesanstalt für Finanzmarktstabilisierung und dem Lenkungsausschuss der Bundesanstalt für Finanzmarktstabilisierung,
+
+2.  
+im Rahmen von Abwicklungskollegien den entsprechenden Mitgliedern sowie den zuständigen Stellen in anderen Staaten des Europäischen Wirtschaftsraums und in Drittstaaten, mit denen die Bundesanstalt im Rahmen von Aufsichtskollegien nach § 8e zusammenarbeitet,
+
+3.  
+Behörden, deren Urteil die Bundesanstalt nach § 47e Absatz 2 Satz 3 für erforderlich oder hilfreich hält, und
+
+4.  
+einer Einlagensicherungseinrichtung oder Anlegerentschädigungseinrichtung
+
+zur Verfügung zu stellen. In den Fällen der Nummern 2 und 3 gelten die Voraussetzungen des § 9 Absatz 1 Satz 6 bis 8 entsprechend.
+
+(4) Sanierungspläne sind vom Kreditinstitut vertraulich zu behandeln und nur an diejenigen Dritten weiterzugeben, die an der Erstellung und Umsetzung des Sanierungsplans beteiligt sind.
+
+### § 47j Rechtsschutz
+
+Feststellungen und Maßnahmen der Bundesanstalt nach § 47b Absatz 3 und nach § 47e gegen ein Kreditinstitut oder einem Mitglied einer Finanzgruppe können von dem Kreditinstitut oder dem jeweiligen Mitglied der entsprechenden Finanzgruppe innerhalb eines Monats nach Bekanntgabe vor dem für den Sitz der Bundesanstalt in Frankfurt am Main zuständigen Oberverwaltungsgericht angefochten werden. Ein Widerspruchsverfahren wird nicht durchgeführt.
+
+4b. Maßnahmen gegenüber Kreditinstituten bei Gefahren für die Stabilität des Finanzsystems
 ------------------------------------------------------------------------------------------
 
 ### 
@@ -5069,7 +5484,19 @@ die Art, der Umfang und die Zusammensetzung der von dem Institut eingegangenen R
 die Vernetzung mit anderen Finanzmarktteilnehmern,
 
 5.  
-die Verhältnisse auf den Finanzmärkten, insbesondere die von den Marktteilnehmern erwarteten Folgen eines Zusammenbruchs des Instituts auf andere Unternehmen des Finanzsektors, auf den Finanzmarkt und das Vertrauen der Einleger und Marktteilnehmer in die Funktionsfähigkeit des Finanzmarktes.
+die Verhältnisse auf den Finanzmärkten, insbesondere die von den Marktteilnehmern erwarteten Folgen eines Zusammenbruchs des Instituts auf andere Unternehmen des Finanzsektors, auf den Finanzmarkt und das Vertrauen der Einleger und Marktteilnehmer in die Funktionsfähigkeit des Finanzmarktes,
+
+6.  
+die Größe des Kreditinstituts,
+
+7.  
+die Ersetzbarkeit der von dem Institut angebotenen Dienstleistungen und technischen Systeme,
+
+8.  
+die Komplexität der vom Institut mit anderen Marktteilnehmern abgeschlossenen Geschäfte,
+
+9.  
+die Art, der Umfang und die Komplexität der vom Institut grenzüberschreitend abgeschlossenen Geschäfte sowie die Ersetzbarkeit der grenzüberschreitend angebotenen Dienstleistungen und technischen Systeme.
 
 (3) Die Bundesanstalt beurteilt nach Anhörung der Deutschen Bundesbank, ob eine Bestands- und Systemgefährdung im Sinne der Absätze 1 und 2 vorliegt und dokumentiert die gemeinsame Einschätzung schriftlich.
 
@@ -5248,9 +5675,9 @@ soweit bei einer partiellen Übertragung die Anforderungen des § 48k Absatz 2 S
 
 (1) Abweichend von § 48e Absatz 1 kann die Übertragungsanordnung vorsehen, dass nur ein Teil des Vermögens, der Verbindlichkeiten und der Rechtsverhältnisse auf den übernehmenden Rechtsträger übertragen wird (partielle Übertragung). In diesem Fall hat die Übertragungsanordnung abweichend von § 48e Absatz 1 Nummer 2 nur diejenigen Ausgliederungsgegenstände anzugeben, die von der Ausgliederung erfasst werden; alternativ können die Ausgliederungsgegenstände angegeben werden, die beim Institut verbleiben.
 
-(2) Ausgliederungsgegenstände, für die Finanzsicherheiten im Sinne des § 1 Absatz 17 bestellt sind, dürfen nur zusammen mit der Finanzsicherheit und Finanzsicherheiten dürfen nur zusammen mit den durch sie gesicherten Ausgliederungsgegenständen übertragen werden. Ausgliederungsgegenstände, die in ein System im Sinne des § 1 Absatz 16 oder ein System von Zentralbanken einbezogen sind, dürfen nicht ohne die für sie bestellten Sicherheiten und Sicherheiten nicht ohne die durch sie gesicherten Ausgliederungsgegenstände übertragen werden. Gegenstände, die einer nach § 206 Absatz 1 der Solvabilitätsverordnung berücksichtigungsfähigen Aufrechnungsvereinbarung unterliegen, dürfen nur in ihrer Gesamtheit und zusammen mit der Aufrechnungsvereinbarung und den Rahmenverträgen übertragen werden, in die die von der Aufrechnungsvereinbarung erfassten Schuldverhältnisse mittelbar oder unmittelbar eingebunden sind; § 48j Absatz 5 Satz 2 gilt entsprechend. Für die Auswahl der zu übertragenden Gegenstände ist § 48j Absatz 3 Satz 4 bis 6 und Absatz 6 entsprechend anzuwenden.
+(2) Ausgliederungsgegenstände, für die Finanzsicherheiten im Sinne des § 1 Absatz 17 bestellt sind, dürfen nur zusammen mit der Finanzsicherheit und Finanzsicherheiten dürfen nur zusammen mit den durch sie gesicherten Ausgliederungsgegenständen übertragen werden. Ausgliederungsgegenstände, die in ein System im Sinne des § 1 Absatz 16 oder ein System von Zentralbanken einbezogen sind, dürfen nicht ohne die für sie bestellten Sicherheiten und Sicherheiten nicht ohne die durch sie gesicherten Ausgliederungsgegenstände übertragen werden. Gegenstände, die einer nach § 206 Absatz 1 der Solvabilitätsverordnung berücksichtigungsfähigen Aufrechnungsvereinbarung unterliegen, dürfen nur in ihrer Gesamtheit und zusammen mit der Aufrechnungsvereinbarung und den Rahmenverträgen übertragen werden, in die die von der Aufrechnungsvereinbarung erfassten Schuldverhältnisse mittelbar oder unmittelbar eingebunden sind; § 48j Absatz 5 Satz 2 gilt entsprechend. Für die Auswahl der zu übertragenden Gegenstände ist § 48j Absatz 3 Satz 3 bis 5 und Absatz 6 entsprechend anzuwenden.
 
-(3) Der übernehmende Rechtsträger haftet für Verbindlichkeiten, die von einer Übertragungsanordnung nach Absatz 1 nicht erfasst werden, nur in Höhe des Betrags, den der Gläubiger im Rahmen der Abwicklung des Kreditinstituts erlöst haben würde, wenn die Ausgliederung unterblieben wäre.
+(3) Der übernehmende Rechtsträger haftet für Verbindlichkeiten, die von einer Übertragungsanordnung nach Absatz 1 nicht erfasst werden, nur in Höhe des Betrags, den der Gläubiger im Rahmen der Abwicklung des Kreditinstituts erlöst haben würde, wenn die Ausgliederung unterblieben wäre. Die Haftung besteht nur, soweit der Gläubiger von dem Kreditinstitut keine Befriedigung erlangen kann.
 
 (4) Verbleiben bei dem Kreditinstitut Gegenstände, auf deren Nutzung oder Mitnutzung der übernehmende Rechtsträger angewiesen ist, um die auf ihn übertragenen Unternehmensteile fortführen zu können, hat das Kreditinstitut dem übernehmenden Rechtsträger die Nutzung oder Mitnutzung gegen ein angemessenes Entgelt zu gestatten, bis der übernehmende Rechtsträger die betroffenen Gegenstände ersetzen kann. Ansprüche nach Satz 1 oder aus einem aufgrund der Verpflichtung nach Satz 1 geschlossenen Vertrag bleiben von einem über das Vermögen des Instituts eröffneten Insolvenzverfahren unberührt; Vertragsschluss und Erfüllungshandlungen sind nicht anfechtbar.
 
@@ -5331,17 +5758,17 @@ die Eröffnung eines Insolvenzverfahrens oder eines anderen, in der Rechtsordnun
 
 Hat die Bundesanstalt eine Übertragungsanordnung nach Satz 1 erlassen, gelten die §§ 48l bis 48n entsprechend.
 
-### § 48p Maßnahmen bei Finanzholding-Gruppen
+### § 48p Maßnahmen bei Finanzholding-Gruppen und gemischten Finanzholding-Gruppen
 
-Decken die einer Finanzholding-Gruppe zur Verfügung stehenden Eigenmittel die nach § 10 Absatz 1 oder 1b oder § 45b Absatz 1 Satz 2, Absatz 2 erforderlichen Eigenmittel zu weniger als 90 vom Hundert oder ist zu erwarten, dass eine solche Unterdeckung eintreten wird, wenn keine korrigierenden Maßnahmen ergriffen werden, kann die Bundesanstalt in entsprechender Anwendung der §§ 48a bis 48k auch gegenüber der Finanzholding-Gesellschaft eine Übertragungsanordnung erlassen. Die §§ 48l bis 48n sind entsprechend anzuwenden. § 48o Absatz 2 gilt entsprechend.
+Decken die einer Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe zur Verfügung stehenden Eigenmittel die nach § 10 Absatz 1 oder 1b oder § 45b Absatz 1 Satz 2, Absatz 2 erforderlichen Eigenmittel zu weniger als 90 vom Hundert oder ist zu erwarten, dass eine solche Unterdeckung eintreten wird, wenn keine korrigierenden Maßnahmen ergriffen werden, kann die Bundesanstalt in entsprechender Anwendung der §§ 48a bis 48k auch gegenüber der Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft eine Übertragungsanordnung erlassen. Die §§ 48l bis 48n sind entsprechend anzuwenden. § 48o Absatz 2 gilt entsprechend.
 
 ### § 48q Maßnahmen bei Finanzkonglomeraten
 
-Decken die einem Finanzkonglomerat zur Verfügung stehenden Eigenmittel die gemäß § 10b Absatz 1 erforderlichen Eigenmittel zu weniger als 90 vom Hundert oder ist zu erwarten, dass eine solche Unterdeckung eintreten wird, wenn keine korrigierenden Maßnahmen ergriffen werden, kann die Bundesanstalt in entsprechender Anwendung der §§ 48a bis 48k auch gegenüber dem übergeordneten Finanzkonglomeratsunternehmen sowie gegenüber der gemischten Finanzholding-Gesellschaft eine Übertragungsanordnung erlassen. Die §§ 48l bis 48n sind entsprechend anzuwenden. § 48o Absatz 2 gilt entsprechend.
+Decken die einem Finanzkonglomerat zur Verfügung stehenden Eigenmittel die gemäß § 17 Absatz 1 des Finanzkonglomerate-Aufsichtsgesetzes erforderlichen Eigenmittel zu weniger als 90 vom Hundert oder ist zu erwarten, dass eine solche Unterdeckung eintreten wird, wenn keine korrigierenden Maßnahmen ergriffen werden, kann die Bundesanstalt in entsprechender Anwendung der §§ 48a bis 48k auch gegenüber dem übergeordneten Finanzkonglomeratsunternehmen sowie gegenüber der gemischten Finanzholding-Gesellschaft eine Übertragungsanordnung erlassen. Die §§ 48l bis 48n sind entsprechend anzuwenden. § 48o Absatz 2 gilt entsprechend.
 
 ### § 48r Rechtsschutz
 
-(1) Die Übertragungsanordnung kann von dem Kreditinstitut binnen vier Wochen vor dem für den Sitz der Bundesanstalt in Frankfurt am Main zuständigen Oberverwaltungsgericht im ersten und letzten Rechtszug angefochten werden. Ein Widerspruchsverfahren wird nicht durchgeführt.
+(1) Eine Übertragungsanordnung und eine Rückübertragungsanordnung können von dem Kreditinstitut binnen eines Monats nach Bekanntgabe vor dem für den Sitz der Bundesanstalt in Frankfurt am Main zuständigen Oberverwaltungsgericht im ersten und letzten Rechtszug angefochten werden. Eine Rückübertragungsanordnung kann von dem übernehmenden Rechtsträger binnen eines Monats nach Bekanntgabe vor dem für den Sitz der Bundesanstalt in Frankfurt am Main zuständigen Oberverwaltungsgericht im ersten und letzten Rechtszug angefochten werden. Wird die Rückübertragungsanordnung sowohl von dem Kreditinstitut als auch dem übernehmenden Rechtsträger angefochten, sind die Verfahren miteinander zu verbinden. Ein Widerspruchsverfahren wird jeweils nicht durchgeführt. Nebenbestimmungen zu einer Übertragungsanordnung oder einer Rückübertragungsanordnung sind nicht isoliert anfechtbar.
 
 (2) Soweit geltend gemacht wird, dass die Übertragungsanordnung keine angemessene Gegenleistung für die Übernahme der Ausgliederungsgegenstände durch den übernehmenden Rechtsträger vorsehe, kann die Klage nur auf Anpassung der Gegenleistung gerichtet werden. Satz 1 gilt entsprechend für Klagen, mit denen geltend gemacht wird, dass die dem Institut nach § 48d Absatz 6 auferlegte Ausgleichsverbindlichkeit unangemessen hoch sei oder dass an ihre Stelle eine Gegenleistung treten müsse. War in der Übertragungsanordnung eine vorläufige Gegenleistung vorgesehen und weicht die endgültig festgesetzte Gegenleistung zu Lasten des übernehmenden Rechtsträgers von der vorläufigen Gegenleistung ab, kann auch der übernehmende Rechtsträger auf Anpassung der Gegenleistung klagen. Satz 3 gilt entsprechend für Rechtsmittel gegen ein Urteil, das die Gegenleistung zu Lasten des übernehmenden Rechtsträgers anpasst.
 
@@ -5351,7 +5778,7 @@ Decken die einem Finanzkonglomerat zur Verfügung stehenden Eigenmittel die gem�
 
 ### § 48s Beschränkung der Vollzugsfolgenbeseitigung; Entschädigung
 
-(1) Die Wirksamkeit einer gemäß § 48c Absatz 6 Satz 2 im Bundesanzeiger veröffentlichten Ausgliederung bleibt von einer Aufhebung der Übertragungsanordnung durch das Oberverwaltungsgericht unberührt. Die Beseitigung der Vollzugsfolgen kann insoweit nicht verlangt werden. Satz 2 gilt nicht, wenn die Folgenbeseitigung
+(1) Die Wirksamkeit einer gemäß § 48c Absatz 6 Satz 3 im Bundesanzeiger veröffentlichten Ausgliederung bleibt von einer Aufhebung der Übertragungsanordnung durch das Oberverwaltungsgericht unberührt. Die Beseitigung der Vollzugsfolgen kann insoweit nicht verlangt werden. Satz 2 gilt nicht, wenn die Folgenbeseitigung
 
 1.  
 nicht zu einer Systemgefährdung zu führen droht,
@@ -5364,6 +5791,8 @@ nicht unmöglich ist.
 
 (2) Soweit die Beseitigung der Vollzugsfolgen nach Absatz 1 Satz 2 ausgeschlossen ist, steht dem Kreditinstitut ein Anspruch auf Ausgleich der durch die Übertragungsanordnung entstandenen Nachteile zu. Der Anspruch steht dem Institut auch dann zu, wenn die Übertragungsanordnung nicht aufgehoben wird, weil das Handeln der Bundesanstalt nach § 48a Absatz 2 Satz 2 rechtmäßig ist und das Kreditinstitut die in dieser Vorschrift genannten Umstände nicht zu verantworten hat.
 
+(3) Absatz 1 findet auf die Aufhebung einer Rückübertragungsanordnung mit der Maßgabe entsprechende Anwendung, dass an die Stelle einer gemäß § 48c Absatz 6 Satz 3 im Bundesanzeiger veröffentlichten Ausgliederung die Bekanntgabe nach § 48j Absatz 2 tritt. Absatz 2 findet auf die Aufhebung einer Rückübertragungsanordnung mit der Maßgabe entsprechende Anwendung, dass an die Stelle des Kreditinstituts der übernehmende Rechtsträger und das Kreditinstitut treten.
+
 5. Vollziehbarkeit, Zwangsmittel, Umlage und Kosten
 ---------------------------------------------------
 
@@ -5371,7 +5800,7 @@ nicht unmöglich ist.
 
 ### § 49 Sofortige Vollziehbarkeit
 
-Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der Grundlage des § 2c Abs. 1b Satz 1 und 2, Abs. 2 Satz 1 und Abs. 4, des § 6a, des § 8a Absatz 3 bis 5, des § 10 Absatz 1b, des § 10b Abs. 5, des § 12a Abs. 2, des § 13 Abs. 3, des § 13a Abs. 3 bis 5, jeweils auch in Verbindung mit § 13b Abs. 4 Satz 2, des § 13c Abs. 3 Satz 4, des § 13d Abs. 4 Satz 5, des § 28 Abs. 1, des § 35 Abs. 2 Nr. 2 bis 6, der §§ 36, 37 und 44 Abs. 1, auch in Verbindung mit § 44b, Abs. 2 und 3a Satz 1, des § 44a Abs. 2 Satz 1, der §§ 44c, 45, des § 45a Abs. 1 und des § 45b Abs. 1, der §§ 45c, 46, 46b, 48a bis 48q, 53l und 53n Absatz 1 haben keine aufschiebende Wirkung.
+Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der Grundlage des § 2c Abs. 1b Satz 1 und 2, Abs. 2 Satz 1 und Abs. 4, des § 6a, des § 8a Absatz 3 bis 5, des § 10 Absatz 1b, des § 12a Abs. 2, des § 13 Abs. 3, des § 13a Abs. 3 bis 5, jeweils auch in Verbindung mit § 13b Abs. 4 Satz 2, des § 13c Abs. 3 Satz 4, des § 28 Abs. 1, des § 35 Abs. 2 Nr. 2 bis 6, der §§ 36, 37 und 44 Abs. 1, auch in Verbindung mit § 44b, Abs. 2 und 3a Satz 1, des § 44a Abs. 2 Satz 1, der §§ 44c, 45, des § 45a Abs. 1 und des § 45b Abs. 1, der §§ 45c, 46, 46b, 48a bis 48q, 53l und 53n Absatz 1 haben keine aufschiebende Wirkung.
 
 ### § 50
 
@@ -5387,87 +5816,16 @@ Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließl
 
 (4) Absatz 1 Satz 3 bis 5 in der Fassung des Gesetzes zur Änderung des Versicherungsaufsichtsgesetzes und anderer Gesetze vom 15. Dezember 2004 (BGBl. I S. 3416) ist für die Zeit vom 12. März 1999 bis zum 30. April 2002 auf die angefallenen Kosten des Bundesaufsichtsamtes für das Kreditwesen anzuwenden. Im Übrigen sind die Absätze 1 bis 3 für den Zeitraum bis zum 30. April 2002 in der bis zum 30. April 2002 geltenden Fassung auf die angefallenen Kosten des Bundesaufsichtsamtes für das Kreditwesen anzuwenden.
 
-Vierter Abschnitt Besondere Vorschriften für Finanzkonglomerate
----------------------------------------------------------------
+Vierter Abschnitt (weggefallen)
+-------------------------------
 
 ### 
 
-### § 51a Ermittlung eines Finanzkonglomerats; Schwellenwerte
+### § 51a (weggefallen)
 
-(1) Die Bundesanstalt ermittelt, ob branchenübergreifend tätige Gruppen von Unternehmen als Finanzkonglomerate einzustufen sind.
+### § 51b (weggefallen)
 
-(2) Eine Gruppe ist im Sinne des § 1 Abs. 20 Satz 1 Nr. 2 Halbsatz 2 vorwiegend in der Finanzbranche tätig, wenn der Anteil der Bilanzsumme der in der Finanzbranche tätigen Unternehmen der Gruppe an der Bilanzsumme der Gruppe insgesamt mehr als 40 vom Hundert beträgt.
-
-(3) Die konsolidierten oder aggregierten Tätigkeiten beziehungsweise die konsolidierten und aggregierten Tätigkeiten der Unternehmen der Versicherungsbranche sowie der Banken- und Wertpapierdienstleistungsbranche sind erheblich im Sinne des § 1 Abs. 20 Satz 1 Nr. 4, wenn
-
-1.  
-a)  
-der Anteil der Bilanzsumme der Unternehmen der Versicherungsbranche an der Bilanzsumme aller gruppenangehöriger Unternehmen beider Finanzbranchen und der Anteil der Solvabilitätsanforderungen der Unternehmen der Versicherungsbranche an den Gesamtsolvabilitätsanforderungen aller gruppenangehöriger Unternehmen beider Finanzbranchen im Durchschnitt mehr als 10 vom Hundert beträgt, und
-
-b)  
-der Anteil der Bilanzsumme der Unternehmen der Banken- und Wertpapierdienstleistungsbranche an der Bilanzsumme aller gruppenangehöriger Unternehmen beider Finanzbranchen und der Anteil der Solvabilitätsanforderungen der Unternehmen der Banken- und Wertpapierdienstleistungsbranche an den Gesamtsolvabilitätsanforderungen aller gruppenangehöriger Unternehmen beider Finanzbranchen im Durchschnitt mehr als 10 vom Hundert beträgt, oder
-
-2.  
-die Bilanzsumme der Unternehmen in der Versicherungsbranche sowie der Unternehmen in der Banken- und Wertpapierdienstleistungsbranche jeweils 6 Milliarden Euro übersteigen.
-
-(4) Die Bundesanstalt kann bei den Berechnungen nach den Absätzen 2 und 3 im Einzelfall einzelne konglomeratsangehörige Unternehmen unberücksichtigt lassen, wenn und solange
-
-1.  
-das Unternehmen sich in einem Drittstaat befindet, in dem Hindernisse für die Übermittlung der für die Berechnungen notwendigen Angaben bestehen,
-
-2.  
-vorbehaltlich des Satzes 2 die Einbeziehung des Unternehmens für die Aufsicht auf Konglomeratsebene ohne Bedeutung ist oder
-
-3.  
-die Einbeziehung des Unternehmens in die zusätzliche Beaufsichtigung auf Konglomeratsebene ungeeignet oder irreführend wäre.
-
-Erfüllen in den Fällen des Satzes 1 Nr. 2 mehrere konglomeratsangehörige Unternehmen die Voraussetzungen, sind sie in ihrer Gesamtheit für die zusätzliche Beaufsichtigung der Gruppe jedoch nicht von untergeordneter Bedeutung, hat die Bundesanstalt diese Unternehmen bei den Berechnungen nach den Absätzen 2 und 3 zu berücksichtigen.
-
-(5) Sinken bei einer nach Maßgabe des § 1 Abs. 20 sowie der Absätze 2 und 3 als Finanzkonglomerat ermittelten Unternehmensgruppe, die bereits der zusätzlichen Beaufsichtigung nach Maßgabe dieses Gesetzes unterliegt, die Anteile nach den Absätzen 2 und 3 Nr. 1 oder der Betrag nach Absatz 3 Nr. 2 während eines Geschäftsjahres unter die dort genannten Schwellenwerte, gilt die Gruppe weiter als Finanzkonglomerat, wenn in den drei darauf folgenden Geschäftsjahren
-
-1.  
-in Fällen des Absatzes 2 ein Schwellenwert von 35 vom Hundert;
-
-2.  
-in Fällen des Absatzes 3 Nr. 1 ein Schwellenwert von 8 vom Hundert;
-
-3.  
-in Fällen des Absatzes 3 Nr. 2 ein Schwellenwert von 5 Milliarden Euro überschritten wird.
-
-(6) Als Bilanzsumme im Sinne der Absätze 2 und 3 sind die anhand der Jahresabschlüsse ermittelten aggregierten Bilanzsummen der Unternehmen der Gruppe zugrunde zu legen. Unternehmen, an denen eine Beteiligung gehalten wird, sind in Höhe des Anteils ihrer Bilanzsummen anzurechnen, der dem von der Gruppe gehaltenen aggregierten proportionalen Anteil entspricht. Liegt ein konsolidierter Abschluss vor, ist dieser anstelle der aggregierten Bilanzsummen der Einzelabschlüsse der Unternehmen zugrunde zu legen. Abweichend von den Sätzen 1 und 2 kann die Bundesanstalt im Einzelfall zulassen, dass für die Berechnung der Schwellenwerte anstelle oder zusätzlich zu der Bilanzsumme die Ertragsstruktur oder die außerbilanziellen Geschäfte herangezogen werden. Die bei den Berechnungen zu berücksichtigenden Solvabilitätsanforderungen sind nach den §§ 10 und 10a dieses Gesetzes sowie den §§ 53c und 104g des Versicherungsaufsichtsgesetzes zu ermitteln; soweit ein Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums oder einem Drittstaat in die Berechnung einzubeziehen ist, das nicht bereits in der Berechnung nach § 10a dieses Gesetzes oder nach § 104g des Versicherungsaufsichtsgesetzes erfasst wird, sind insoweit die Bestimmungen über die Solvabilitätsanforderungen des jeweiligen Sitzstaates anzuwenden.
-
-### § 51b Feststellung eines Finanzkonglomerats
-
-(1) Die Bundesanstalt stellt fest, dass eine branchenübergreifend tätige Gruppe von Unternehmen ein Finanzkonglomerat ist. Sie teilt dem Mutterunternehmen an der Spitze der Gruppe die Feststellung als Finanzkonglomerat und das übergeordnete Finanzkonglomeratsunternehmen mit; steht an der Spitze der Gruppe kein Mutterunternehmen, teilt die Bundesanstalt dies dem in der Banken- und Wertpapierdienstleistungsbranche tätigen beaufsichtigten Finanzkonglomeratsunternehmen mit der höchsten Bilanzsumme mit, es sei denn, ein konglomeratsangehöriges Erstversicherungsunternehmen mit einer höheren Bilanzsumme ist nach § 104o Abs. 1 Satz 2 des Versicherungsaufsichtsgesetzes zu unterrichten.
-
-(2) Die Bundesanstalt hat die Feststellung einer Gruppe von Unternehmen als Finanzkonglomerat und die Bestimmung des übergeordneten Finanzkonglomeratsunternehmens aufzuheben, wenn die Voraussetzungen des § 1 Abs. 20 nicht mehr erfüllt sind, insbesondere in der Gruppe die maßgeblichen Anteile nach § 51a Abs. 2 und 3 Nr. 1 oder der Betrag nach § 51a Abs. 3 Nr. 2 absinken
-
-1.  
-in dem Fall des § 51a Abs. 2 unter einen Schwellenwert von 35 vom Hundert;
-
-2.  
-in dem Fall des § 51a Abs. 3 Nr. 1 unter einen Schwellenwert von 8 vom Hundert;
-
-3.  
-in dem Fall des § 51a Abs. 3 Nr. 2 unter einen Schwellenwert von 5 Milliarden Euro. Absatz 1 Satz 2 gilt entsprechend.
-
-(3) Vorbehaltlich des Absatzes 2 kann die Bundesanstalt in den Fällen des § 51a Abs. 5 während des maßgeblichen Zeitraums von drei Jahren die Feststellung einer Gruppe von Unternehmen als Finanzkonglomerat und die Bestimmung des übergeordneten Finanzkonglomeratsunternehmens aufheben; Absatz 1 Satz 2 gilt entsprechend.
-
-### § 51c Befreiungen
-
-Die Bundesanstalt kann widerruflich von der Feststellung einer Gruppe von Unternehmen als Finanzkonglomerat absehen oder das übergeordnete Finanzkonglomeratsunternehmen von den Verpflichtungen nach den §§ 13d und 25a Absatz 1b ganz oder teilweise freistellen, wenn
-
-1.  
-im Fall des § 51a Abs. 3 Nr. 2 die Gruppe den in § 51a Abs. 3 Nr. 1 genannten Schwellenwert nicht erreicht und die zusätzliche Beaufsichtigung auf Konglomeratsebene nicht erforderlich, ungeeignet oder irreführend ist; dies ist insbesondere anzunehmen, wenn
-
-a)  
-die relative Größe der am schwächsten vertretenen Finanzbranche gemessen entweder am durchschnittlichen Anteil nach § 51a Abs. 3 Nr. 1 oder an der Bilanzsumme oder den Solvabilitätsanforderungen dieser Finanzbranche höchstens 5 vom Hundert beträgt oder
-
-b)  
-der Marktanteil gemessen an der Bilanzsumme in der Banken- und Wertpapierdienstleistungsbranche und an den in der Versicherungsbranche gebuchten Bruttobeiträgen in keinem Vertragsstaat des Europäischen Wirtschaftsraums mehr als 5 vom Hundert beträgt;
-
-2.  
-die zur Feststellung als Finanzkonglomerat führende Überschreitung der Schwellenwerte in § 51a Abs. 2 und 3 ausschließlich auf eine erhebliche Änderung der Struktur der Gruppe zurückzuführen ist; die Freistellung ist auf einen Zeitraum von höchstens drei Jahren zu befristen, beginnend mit dem nächstfolgenden Geschäftsjahr.
+### § 51c (weggefallen)
 
 Fünfter Abschnitt Sondervorschriften
 ------------------------------------
@@ -5598,7 +5956,7 @@ das Unternehmen in die Beaufsichtigung des Mutterunternehmens auf konsolidierter
 
 Satz 1 gilt entsprechend für Tochterunternehmen von in Satz 1 genannten Unternehmen, welche die vorgenannten Bedingungen erfüllen. Die Absätze 2 bis 6 gelten entsprechend.
 
-(8) Die Bundesanstalt kann beantragen, dass eine inländische Zweigniederlassung eines Instituts mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums als bedeutend angesehen wird. Gehört das Institut einer Institutsgruppe oder Finanzholding-Gruppe an, an deren Spitze ein EU-Mutterinstitut oder eine EU-Mutterfinanzholding-Gesellschaft steht, richtet die Bundesanstalt den Antrag an die für die Beaufsichtigung der Gruppe auf zusammengefasster Basis zuständige Stelle, anderenfalls an die zuständige Stelle des Herkunftsstaates. Der Antrag ist zu begründen. Eine Zweigniederlassung ist insbesondere dann als bedeutend anzusehen, wenn
+(8) Die Bundesanstalt kann beantragen, dass eine inländische Zweigniederlassung eines Instituts mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums als bedeutend angesehen wird. Gehört das Institut einer Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe an, an deren Spitze ein EU-Mutterinstitut, eine EU-Mutterfinanzholding-Gesellschaft oder eine gemischte EU-Mutterfinanzholding-Gesellschaft steht, richtet die Bundesanstalt den Antrag an die für die Beaufsichtigung der Gruppe auf zusammengefasster Basis zuständige Stelle, anderenfalls an die zuständige Stelle des Herkunftsstaates. Der Antrag ist zu begründen. Eine Zweigniederlassung ist insbesondere dann als bedeutend anzusehen, wenn
 
 1.  
 ihr Marktanteil gemessen an den Einlagen 2 vom Hundert übersteigt,
@@ -5611,7 +5969,7 @@ ihr eine gewisse Größe und Bedeutung gemessen an der Kundenzahl innerhalb des 
 
 (9) Haben die Bundesanstalt, die zuständige Stelle des Herkunftsstaates sowie gegebenenfalls die für die Beaufsichtigung auf zusammengefasster Basis zuständige Stelle innerhalb von zwei Monaten nach Erhalt des Antrags keine einvernehmliche Entscheidung über die Einstufung der Zweigniederlassung als bedeutend getroffen, entscheidet die Bundesanstalt unter Berücksichtigung der Auffassungen und Vorbehalte der anderen zuständigen Stelle innerhalb von weiteren zwei Monaten selbst über die Einstufung einer Zweigniederlassung als bedeutend. Diese Entscheidung ist den anderen zuständigen Stellen schriftlich unter Angabe von Gründen mitzuteilen. Hat die Bundesanstalt oder eine zuständige Stelle in einem anderen Staat des Europäischen Wirtschaftsraums bis zum Ablauf der Zweimonatsfrist nach Satz 1 nach Maßgabe des Artikels 19 der Verordnung (EU) Nr. 1093/2010 die Europäische Bankenaufsichtsbehörde um Hilfe ersucht, stellt die Bundesanstalt ihre Entscheidung nach Satz 1 bis zu einem Beschluss der Europäischen Bankenaufsichtsbehörde gemäß Artikel 19 Absatz 3 der Verordnung (EU) Nr. 1093/2010 zurück und entscheidet dann in Übereinstimmung mit einem solchen Beschluss. Nach Ablauf der Zweimonatsfrist oder nachdem eine gemeinsame Entscheidung getroffen wurde, kann die Europäische Bankenaufsichtsbehörde nicht mehr um Hilfe ersucht werden.
 
-(10) Ist die Bundesanstalt auf Einzelinstitutsebene oder unterkonsolidierter Basis für die Beaufsichtigung von Tochterunternehmen eines EU-Mutterinstituts oder einer EU-Mutter-Finanzholding-Gesellschaft zuständig, für deren Beaufsichtigung auf zusammengefasster Basis sie nicht zuständig ist und kommt es innerhalb der viermonatigen Frist nicht zu einer gemeinsamen Entscheidung aller zuständigen Stellen über die Angemessenheit der Eigenmittelausstattung und das Erfordernis zusätzlicher Eigenmittelanforderungen, entscheidet die Bundesanstalt allein, ob die Eigenmittelausstattung der ihrer Beaufsichtigung unterliegenden Tochterunternehmen angemessen ist und ob zusätzliche Eigenmittelanforderungen erforderlich sind. Bei der Entscheidung berücksichtigt sie angemessen die Auffassungen und Vorbehalte der zuständigen Stelle, die die Aufsicht auf zusammengefasster Basis über die Institutsgruppe oder Finanzholding-Gruppe ausübt; die Entscheidung muss der Risikobewertung und den Auffassungen und Vorbehalten Rechnung tragen, die innerhalb der viermonatigen Frist von den anderen zuständigen Stellen geäußert wurden. Hat die Bundesanstalt oder eine zuständige Stelle in einem anderen Staat des Europäischen Wirtschaftsraums bis zum Ablauf der Viermonatsfrist nach § 8a Absatz 4 Satz 1 nach Maßgabe des Artikels 19 der Verordnung (EU) Nr. 1093/2010 die Europäische Bankenaufsichtsbehörde um Hilfe ersucht, stellt die Bundesanstalt ihre Entscheidung nach Satz 1 bis zu dem Beschluss der Europäischen Bankenaufsichtsbehörde gemäß Artikel 19 Absatz 3 der Verordnung (EU) Nr. 1093/2010 zurück und entscheidet dann in Übereinstimmung mit einem solchen Beschluss. Nach Ablauf der Viermonatsfrist oder nachdem eine gemeinsame Entscheidung getroffen wurde, kann die Europäische Bankenaufsichtsbehörde nicht mehr um Hilfe ersucht werden. Die Bundesanstalt übersendet der zuständigen Stelle, die die Aufsicht auf zusammengefasster Basis über die Institutsgruppe oder Finanzholding-Gruppe ausübt, die schriftliche Entscheidung unter Angabe der vollständigen Begründung. Wurde die Europäische Bankenaufsichtsbehörde angehört, berücksichtigt die Bundesanstalt deren Stellungnahme und begründet jede erhebliche Abweichung davon.
+(10) Ist die Bundesanstalt auf Einzelinstitutsebene oder unterkonsolidierter Basis für die Beaufsichtigung von Tochterunternehmen eines EU-Mutterinstituts, einer EU-Mutter-Finanzholding-Gesellschaft oder einer gemischten EU-Mutterfinanzholding-Gesellschaft zuständig, für deren Beaufsichtigung auf zusammengefasster Basis sie nicht zuständig ist und kommt es innerhalb der viermonatigen Frist nicht zu einer gemeinsamen Entscheidung aller zuständigen Stellen über die Angemessenheit der Eigenmittelausstattung und das Erfordernis zusätzlicher Eigenmittelanforderungen, entscheidet die Bundesanstalt allein, ob die Eigenmittelausstattung der ihrer Beaufsichtigung unterliegenden Tochterunternehmen angemessen ist und ob zusätzliche Eigenmittelanforderungen erforderlich sind. Bei der Entscheidung berücksichtigt sie angemessen die Auffassungen und Vorbehalte der zuständigen Stelle, die die Aufsicht auf zusammengefasster Basis über die Institutsgruppe, Finanzholding-Gruppe oder gemischte Finanzholding-Gruppe ausübt; die Entscheidung muss der Risikobewertung und den Auffassungen und Vorbehalten Rechnung tragen, die innerhalb der viermonatigen Frist von den anderen zuständigen Stellen geäußert wurden. Hat die Bundesanstalt oder eine zuständige Stelle in einem anderen Staat des Europäischen Wirtschaftsraums bis zum Ablauf der Viermonatsfrist nach § 8a Absatz 4 Satz 1 nach Maßgabe des Artikels 19 der Verordnung (EU) Nr. 1093/2010 die Europäische Bankenaufsichtsbehörde um Hilfe ersucht, stellt die Bundesanstalt ihre Entscheidung nach Satz 1 bis zu dem Beschluss der Europäischen Bankenaufsichtsbehörde gemäß Artikel 19 Absatz 3 der Verordnung (EU) Nr. 1093/2010 zurück und entscheidet dann in Übereinstimmung mit einem solchen Beschluss. Nach Ablauf der Viermonatsfrist oder nachdem eine gemeinsame Entscheidung getroffen wurde, kann die Europäische Bankenaufsichtsbehörde nicht mehr um Hilfe ersucht werden. Die Bundesanstalt übersendet der zuständigen Stelle, die die Aufsicht auf zusammengefasster Basis über die Institutsgruppe, Finanzholding-Gruppe oder gemischte Finanzholding-Gruppe ausübt, die schriftliche Entscheidung unter Angabe der vollständigen Begründung. Wurde die Europäische Bankenaufsichtsbehörde angehört, berücksichtigt die Bundesanstalt deren Stellungnahme und begründet jede erhebliche Abweichung davon.
 
 ### § 53c Unternehmen mit Sitz in einem Drittstaat
 
@@ -5634,17 +5992,11 @@ die zuständigen Behörden des Sitzstaates zu einer befriedigenden Zusammenarbei
 
 ### § 53d Mutterunternehmen mit Sitz in einem Drittstaat
 
-(1) Unterliegen Einlagenkreditinstitute oder Wertpapierhandelsunternehmen mit Sitz im Inland, die Tochterunternehmen eines Instituts oder einer Finanzholding-Gesellschaft mit Sitz in einem Drittstaat sind, in dem Drittstaat nicht einer den Bestimmungen dieses Gesetzes über die Beaufsichtigung auf konsolidierter Basis gleichwertigen Beaufsichtigung, kann die Bundesanstalt die Gruppe von Unternehmen als Institutsgruppe oder Finanzholding-Gruppe und ein Institut als übergeordnetes Unternehmen bestimmen; die Vorschriften dieses Gesetzes über die Beaufsichtigung auf konsolidierter Basis sind in diesem Fall entsprechend anzuwenden. Vor der Entscheidung über die Gleichwertigkeit der Beaufsichtigung nach Satz 1 hört die Bundesanstalt die Europäische Bankenaufsichtsbehörde an.
+(1) Unterliegen Einlagenkreditinstitute oder Wertpapierhandelsunternehmen mit Sitz im Inland, die Tochterunternehmen eines Instituts, einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft mit Sitz in einem Drittstaat sind, in dem Drittstaat nicht einer den Bestimmungen dieses Gesetzes über die Beaufsichtigung auf konsolidierter Basis gleichwertigen Beaufsichtigung, kann die Bundesanstalt die Gruppe von Unternehmen als Institutsgruppe, Finanzholding-Gruppe oder gemischte Finanzholding-Gruppe und ein Institut als übergeordnetes Unternehmen bestimmen; die Vorschriften dieses Gesetzes über die Beaufsichtigung auf konsolidierter Basis sind in diesem Fall entsprechend anzuwenden. Vor der Entscheidung über die Gleichwertigkeit der Beaufsichtigung nach Satz 1 hört die Bundesanstalt die Europäische Bankenaufsichtsbehörde an.
 
-(2) Absatz 1 gilt entsprechend für in der Banken- und Wertpapierdienstleistungsbranche tätige beaufsichtigte Finanzkonglomeratsunternehmen mit Sitz im Inland, die Tochterunternehmen eines beaufsichtigten Finanzkonglomeratsunternehmens oder einer gemischten Finanzholding-Gesellschaft mit Sitz in einem Drittstaat sind und in dem Drittstaat nicht einer den Bestimmungen dieses Gesetzes über die Beaufsichtigung von Finanzkonglomeraten gleichwertigen Beaufsichtigung unterliegen. Ist die Bundesanstalt nicht mit der von einer anderen relevanten zuständigen Stelle im Sinne des Artikels 18 Absatz 1 der Richtlinie 2002/87/EG getroffenen Entscheidung einverstanden, kann sie nach Maßgabe des Artikels 19 der Verordnung (EU) Nr. 1093/2010 die Europäische Bankenaufsichtsbehörde um Hilfe ersuchen.
+(2) (weggefallen)
 
-(3) Die Bundesanstalt kann abweichend von den Absätzen 1 und 2 im Einzelfall einer angemessenen Beaufsichtigung auf konsolidierter Basis oder auf Konglomeratsebene in anderer Weise Rechnung tragen. Sie kann insbesondere verlangen, dass
-
-1.  
-in Fällen des Absatzes 1 eine Finanzholding-Gesellschaft mit Sitz im Inland oder in einem anderen Staat des Europäischen Wirtschaftsraums gegründet wird, auf die die Vorschriften dieses Gesetzes über die Beaufsichtigung auf konsolidierter Basis entsprechend anzuwenden sind;
-
-2.  
-in Fällen des Absatzes 2 eine gemischte Finanzholding-Gesellschaft mit Sitz im Inland oder in einem anderen Staat des Europäischen Wirtschaftsraums gegründet wird, auf die die Vorschriften dieses Gesetzes über die zusätzliche Beaufsichtigung auf Konglomeratsebene entsprechend anzuwenden sind.
+(3) Die Bundesanstalt kann im Einzelfall abweichend von Absatz 1 einer angemessenen Beaufsichtigung auf konsolidierter Basis in anderer Weise Rechnung tragen. Sie kann insbesondere verlangen, dass eine Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft mit Sitz im Inland oder in einem anderen Staat des Europäischen Wirtschaftsraums gegründet wird, auf die die Vorschriften dieses Gesetzes über die Beaufsichtigung auf konsolidierter Basis entsprechend anzuwenden sind.
 
 (4) In den Fällen des Absatzes 3 unterrichtet die Bundesanstalt die betroffenen zuständigen Stellen im Europäischen Wirtschaftsraum über die gewählte Vorgehensweise. Die Pflichten aus § 7a Absatz 2 Nummer 3 und § 7b Absatz 3 Nummer 2 bleiben unberührt.
 
@@ -6005,10 +6357,16 @@ entgegen § 44 Abs. 1 Satz 4, auch in Verbindung mit § 44b Abs. 2 oder § 53b A
 entgegen § 44 Abs. 5 Satz 1 eine dort genannte Maßnahme nicht oder nicht rechtzeitig vornimmt,
 
 12.  
-einer vollziehbaren Anordnung nach § 46 Abs. 1 Satz 1, auch in Verbindung mit § 53b Abs. 3 Satz 1, zuwiderhandelt oder
+einer vollziehbaren Anordnung nach § 46 Abs. 1 Satz 1, auch in Verbindung mit § 53b Abs. 3 Satz 1, zuwiderhandelt,
 
 13.  
-einer Rechtsverordnung nach § 47 Abs. 1 Nr. 2 oder 3 oder § 48 Abs. 1 Satz 1 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+einer Rechtsverordnung nach § 46g Absatz 1 Nummer 2 oder Nummer 3 oder § 46h Absatz 1 Satz 1 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+
+14.  
+einer vollziehbaren Anordnung nach § 47b Absatz 3, auch in Verbindung mit Absatz 5, zuwiderhandelt oder
+
+15.  
+einer vollziehbaren Anordnung nach § 47e Absatz 3 Satz 1 zuwiderhandelt.
 
 (4) Ordnungswidrig handelt, wer gegen die Verordnung (EG) Nr. 1781/2006 des Europäischen Parlaments und des Rates vom 15. November 2006 über die Übermittlung von Angaben zum Auftraggeber bei Geldtransfers (ABl. EU Nr. L 345 S. 1) verstößt, indem er bei Geldtransfers vorsätzlich oder fahrlässig
 
@@ -6033,6 +6391,28 @@ entgegen Artikel 11 oder Artikel 13 Abs. 5 eine Angabe zum Auftraggeber nicht mi
 7.  
 entgegen Artikel 12 nicht dafür sorgt, dass alle Angaben zum Auftraggeber, die bei einem Geldtransfer übermittelt werden, bei der Weiterleitung erhalten bleiben.
 
+(4a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 3 Absatz 1 der Verordnung (EG) Nr. 924/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über grenzüberschreitende Zahlungen in der Gemeinschaft und zur Aufhebung der Verordnung (EG) Nr. 2560/2001 (ABl. L 266 vom 9.10.2009, S. 11), die durch die Verordnung (EU) Nr. 260/2012 (ABl. L 94 vom 30.3.2012, S. 22) geändert worden ist, ein anderes als das dort genannte Entgelt erhebt.
+
+(4b) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22) verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  
+entgegen Artikel 4 Absatz 2 Satz 1 nicht sicherstellt, dass die technische Interoperabilität des Zahlungssystems gewährleistet wird,
+
+2.  
+entgegen Artikel 4 Absatz 2 Satz 2 eine dort genannte Geschäftsregel beschließt,
+
+3.  
+entgegen Artikel 4 Absatz 3 die Abwicklung einer Überweisung oder einer Lastschrift durch ein technisches Hindernis behindert,
+
+4.  
+entgegen Artikel 5 Absatz 1 Satz 1 oder Absatz 2 eine Überweisung ausführt,
+
+5.  
+entgegen Artikel 5 Absatz 1 Satz 1 oder Absatz 3 Satz 1 eine Lastschrift ausführt oder
+
+6.  
+entgegen Artikel 5 Absatz 8 ein Entgelt für einen dort genannten Auslesevorgang erhebt.
+
 (4c) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
 
 1.  
@@ -6041,7 +6421,7 @@ entgegen Artikel 7 Absatz 1 Unterabsatz 1 das Clearing nicht übernimmt oder
 2.  
 entgegen Artikel 7 Absatz 2 einem Antrag nicht oder nicht rechtzeitig stattgibt oder diesen nicht oder nicht rechtzeitig ablehnt.
 
-(5) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1, 2 Nummer 3 Buchstabe a, Nummer 6, des Absatzes 3 Nummer 12 sowie des Absatzes 4c Nummer 1 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2 Nummer 1, 2 und 3 Buchstabe b, des Absatzes 3 Nummer 4 bis 10 sowie des Absatzes 4c Nummer 2 mit einer Geldbuße bis zu zweihunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+(5) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1, 2 Nummer 3 Buchstabe a, Nummer 6, des Absatzes 3 Nummer 12 und 15 sowie des Absatzes 4c Nummer 1 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2 Nummer 1, 2 und 3 Buchstabe b, des Absatzes 3 Nummer 4 bis 10 und 14 sowie des Absatzes 4c Nummer 2 mit einer Geldbuße bis zu zweihunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
 ### (XXXX) §§ 57 und 58 (weggefallen)
 
@@ -6157,41 +6537,29 @@ Bis zum 31. Dezember 1998 gelten für die Großkreditdefinitionsgrenze nach § 1
 
 ### § 64g Übergangsvorschriften zum Finanzkonglomeraterichtlinie-Umsetzungsgesetz
 
-(1) Bis zum Erlass der Rechtsverordnung nach § 13d Abs. 2
+(1) (weggefallen)
+
+(2) Bis zum Erlass der Rechtsverordnung nach § 13c Absatz 1 Satz 2 sind sämtliche während eines Kalenderjahres durchgeführten bedeutenden gruppeninternen Transaktionen mit gemischten Unternehmen oder deren Tochterunternehmen der Bundesanstalt und der Deutschen Bundesbank vor dem 16. Januar des darauffolgenden Jahres anzuzeigen. Gruppeninterne Transaktionen sind insbesondere
 
 1.  
-sind sämtliche während eines Kalenderjahres auftretende bedeutende Risikokonzentrationen der Bundesanstalt und der Deutschen Bundesbank vor dem 16. Januar des darauf folgenden Jahres anzuzeigen. Eine Risikokonzentration ist bedeutend, wenn das entsprechend der §§ 13 bis 13b, 19 und 20 dieses Gesetzes, jeweils auch in Verbindung mit der Rechtsverordnung nach § 22 dieses Gesetzes sowie des § 54 des Versicherungsaufsichtsgesetzes zu ermittelnde Adressenausfallrisiko, Kreditrisiko oder Anlagerisiko gegenüber einer nach Maßgabe des § 19 Abs. 2 dieses Gesetzes zu bestimmenden Adresse einzeln oder in der Summe 10 vom Hundert der Eigenkapitalanforderung auf Konglomeratsebene erreicht oder überschreitet;
-
-2.  
-hat das übergeordnete Finanzkonglomeratsunternehmen nach § 10b Abs. 3 Satz 6 bis 8 oder Abs. 4 der Bundesanstalt und der Deutschen Bundesbank die aus Versicherungsrisiken resultierenden, auf Basis des internen Risikomanagementsystems als bedeutend identifizierten, Risikokonzentrationen, die sich aus Großrisiken und Kumulrisiken sowie Risiken mit langer Entwicklungsphase bei unsicherer Ursachenkette ergeben, unverzüglich anzuzeigen. Soweit solche Risiken sich auch auf einzelne Adressen nach Nummer 1 unmittelbar auswirken, ist dies in der Anzeige, aufgeschlüsselt nach Einzeladressen, ebenfalls anzugeben. Das Versicherungsrisiko besteht in der möglichen Inanspruchnahme, die unter Berücksichtigung der vertraglichen Versicherungssumme unter Einbeziehung der Rückversicherung, der Schadenerfahrungen der Vergangenheit und mathematischer Modelle zu bestimmen ist;
-
-3.  
-hat das übergeordnete Finanzkonglomeratsunternehmen nach § 10b Abs. 3 Satz 6 bis 8 oder Abs. 4 die Bundesanstalt und die Deutsche Bundesbank über Risiken, die sich durch eine Kombination aus und durch Wechselwirkungen zwischen den einzelnen Risikoarten ergeben, unverzüglich zu unterrichten;
-
-4.  
-sind sämtliche während eines Kalenderjahres durchgeführte bedeutende gruppeninterne Transaktionen innerhalb eines Finanzkonglomerats der Bundesanstalt und der Deutschen Bundesbank vor dem 16. Januar des darauf folgenden Jahres anzuzeigen. Gruppeninterne Transaktionen sind insbesondere
-
-a)  
 Darlehen,
 
-b)  
+2.  
 Bürgschaften, Garantien und andere außerbilanzielle Geschäfte,
 
-c)  
-Geschäfte, die Eigenmittelbestandteile im Sinne der §§ 10 und 10a dieses Gesetzes sowie der §§ 53c und 104g des Versicherungsaufsichtgesetzes betreffen,
+3.  
+Geschäfte, die Eigenmittelbestandteile im Sinne der §§ 10, 10a, 53c und 104g des Versicherungsaufsichtsgesetzes betreffen,
 
-d)  
+4.  
 Kapitalanlagen,
 
-e)  
+5.  
 Rückversicherungsgeschäfte,
 
-f)  
+6.  
 Kostenteilungsvereinbarungen.
 
-Eine gruppeninterne Transaktion ist bedeutend, wenn die einzelne Transaktion 5 vom Hundert der Eigenkapitalanforderung auf Konglomeratsebene erreicht oder übersteigt. Mehrere Transaktionen desselben oder verschiedener konglomeratsangehöriger Unternehmen mit einem anderen konglomeratsangehörigen Unternehmen während eines Geschäftsjahres sind jeweils adressatenbezogen zusammenzufassen, auch wenn die einzelne Transaktion 5 vom Hundert der Eigenkapitalanforderung auf Konglomeratsebene nicht erreicht.
-
-(2) Bis zum Erlass der Rechtsverordnung nach § 13c Abs. 1 Satz 2 gilt Absatz 1 Nr. 4 für gruppeninterne Transaktionen mit gemischten Unternehmen oder deren Tochterunternehmen entsprechend.
+Eine gruppeninterne Transaktion ist bedeutend, wenn die einzelne Transaktion mindestens 5 Prozent der Eigenkapitalanforderung auf Gruppenebene erreicht oder übersteigt. Mehrere Transaktionen desselben oder verschiedener gruppenangehöriger Unternehmen mit einem anderen gruppenangehörigen Unternehmen während eines Geschäftsjahres sind jeweils adressatenbezogen zusammenzufassen, auch wenn die einzelne Transaktion 5 Prozent der Eigenkapitalanforderung auf Gruppenebene nicht erreicht.
 
 (3) Bis zu einer Ergänzung der Rechtsverordnung nach § 24 Abs. 4
 
@@ -6205,9 +6573,9 @@ b)
 zur Beurteilung der fachlichen Eignung der Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft tatsächlich führen sollen, die nach § 8 Satz 2 Nr. 1 der Anzeigenverordnung vom 29. Dezember 1997 (BGBl. I S. 3372), die zuletzt durch Artikel 8 des Gesetzes vom 15. August 2003 (BGBl. I S. 1657) geändert worden ist, genannten Unterlagen beizufügen;
 
 2.  
-gilt § 27 der Anzeigenverordnung vom 29. Dezember 1997 (BGBl. I S. 3372), die zuletzt durch Artikel 8 des Gesetzes vom 15. August 2003 (BGBl. I S. 1657) geändert worden ist, in Bezug auf Anzeigen einer gemischten Finanzholding-Gesellschaft nach § 12a Abs. 1 Satz 3 und § 24 Abs. 3a Satz 5 entsprechend.
+gilt § 27 der Anzeigenverordnung vom 29. Dezember 1997 (BGBl. I S. 3372), die zuletzt durch Artikel 8 des Gesetzes vom 15. August 2003 (BGBl. I S. 1657) geändert worden ist, in Bezug auf Anzeigen einer gemischten Finanzholding-Gesellschaft nach § 12a Abs. 1 Satz 3 entsprechend.
 
-(4) Die Ermittlung und Feststellung einer branchenübergreifend tätigen Unternehmensgruppe als Finanzkonglomerat nach den §§ 51a bis 51c in Verbindung mit § 1 Abs. 20 erfolgt erstmals auf der Grundlage der Jahresabschlüsse für das in 2003 beendete Geschäftsjahr; wesentliche Änderungen während des Geschäftsjahres 2004 hat die Bundesanstalt zu berücksichtigen. Die Bestimmungen des § 10b über die angemessene Eigenkapitalausstattung auf Konglomeratsebene sind erstmals auf der Grundlage der Rechnungslegung für das am 1. Januar 2005 beginnende Geschäftsjahr oder das während des Jahres 2005 beendete Geschäftsjahr anzuwenden. Anzeigen nach Absatz 1 Nr. 1 und 4 sind erstmals zum 16. Januar 2006 einzureichen.
+(4) (weggefallen)
 
 ### § 64h Übergangsvorschriften zum Gesetz zur Umsetzung der neu gefassten Bankenrichtlinie und der neu gefassten Kapitaladäquanzrichtlinie
 
@@ -6217,7 +6585,7 @@ gilt § 27 der Anzeigenverordnung vom 29. Dezember 1997 (BGBl. I S. 3372), die z
 
 (3) Besteht zum Zeitpunkt der Umstellung der Ermittlung der zusammengefassten Eigenmittelausstattung von dem Verfahren nach § 10a Abs. 6 auf das Verfahren nach § 10a Abs. 7 bei Beteiligungen, die bis zu diesem Zeitpunkt erworben wurden, ein aktivischer Unterschiedsbetrag im Sinne von § 10a Abs. 6 Satz 9, darf ein insoweit nach § 10a Abs. 6 Satz 10 begonnener Abzug mit der Maßgabe fortgesetzt werden, dass bis zum 31. Dezember 2015 an die Stelle des aktivischen Unterschiedsbetrags der Geschäfts- oder Firmenwert tritt und der Abzug ausschließlich vom Kernkapital erfolgt. Für Beteiligungen, die bis zum 31. Dezember 2006 eingegangen worden sind, darf weiterhin der aktivische Unterschiedsbetrag nach § 10a Abs. 6 Satz 10 abgezogen werden.
 
-(4) Ist ein übergeordnetes Institut einer Institutsgruppe im Sinne von § 10a Abs. 1 oder 2 nach den Vorschriften des Handelsgesetzbuchs verpflichtet, einen Konzernabschluss aufzustellen, darf es bei der Ermittlung der Angemessenheit der Eigenmittelausstattung der Institutsgruppe bis zum 31. Dezember 2015 abweichend von der Regelung des § 10a Abs. 7 das Verfahren nach § 10a Abs. 6 anwenden. Satz 1 gilt entsprechend, wenn das übergeordnete Unternehmen nach Artikel 4 der Verordnung (EG) Nr. 1606/2002 des Europäischen Parlaments und des Rates vom 19. Juli 2002 betreffend die Anwendung internationaler Rechnungslegungsstandards (ABl. EG Nr. L 243 S. 1) in der jeweils geltenden Fassung oder nach § 315a Abs. 2 des Handelsgesetzbuchs verpflichtet ist, bei der Aufstellung des Konzernabschlusses die nach den Artikeln 3 und 6 der genannten Verordnung übernommenen internationalen Rechnungslegungsstandards anzuwenden oder diese nach Maßgabe von § 315a Abs. 3 des Handelsgesetzbuchs anwendet. Die Sätze 1 und 2 gelten entsprechend für das übergeordnete Unternehmen einer Finanzholding-Gruppe im Sinne von § 10a Abs. 3, wenn die Finanzholding-Gesellschaft nach den Vorschriften des Handelsgesetzbuchs verpflichtet ist, einen Konzernabschluss aufzustellen, nach Artikel 4 der Verordnung (EG) Nr. 1606/2002 des Europäischen Parlaments und des Rates vom 19. Juli 2002 betreffend die Anwendung internationaler Rechnungslegungsstandards (ABl. EG Nr. L 243 S. 1) in der jeweils geltenden Fassung oder nach § 315a Abs. 2 des Handelsgesetzbuchs, bei der Aufstellung des Konzernabschlusses die nach den Artikeln 3 und 6 der genannten Verordnung übernommenen internationalen Rechnungslegungsstandards anzuwenden hat oder diese nach Maßgabe von § 315a Abs. 3 des Handelsgesetzbuchs anwendet. Wendet ein übergeordnetes Unternehmen das Verfahren nach § 10a Abs. 7 vor dem 31. Dezember 2015 an, hat es dieses Verfahren beizubehalten.
+(4) Ist ein übergeordnetes Institut einer Institutsgruppe im Sinne von § 10a Abs. 1 oder 2 nach den Vorschriften des Handelsgesetzbuchs verpflichtet, einen Konzernabschluss aufzustellen, darf es bei der Ermittlung der Angemessenheit der Eigenmittelausstattung der Institutsgruppe bis zum 31. Dezember 2015 abweichend von der Regelung des § 10a Abs. 7 das Verfahren nach § 10a Abs. 6 anwenden. Satz 1 gilt entsprechend, wenn das übergeordnete Unternehmen nach Artikel 4 der Verordnung (EG) Nr. 1606/2002 des Europäischen Parlaments und des Rates vom 19. Juli 2002 betreffend die Anwendung internationaler Rechnungslegungsstandards (ABl. EG Nr. L 243 S. 1) in der jeweils geltenden Fassung oder nach § 315a Abs. 2 des Handelsgesetzbuchs verpflichtet ist, bei der Aufstellung des Konzernabschlusses die nach den Artikeln 3 und 6 der genannten Verordnung übernommenen internationalen Rechnungslegungsstandards anzuwenden oder diese nach Maßgabe von § 315a Abs. 3 des Handelsgesetzbuchs anwendet. Die Sätze 1 und 2 gelten entsprechend für das übergeordnete Unternehmen einer Finanzholding-Gruppe im Sinne von § 10a Abs. 3 oder einer gemischten Finanzholding-Gruppe im Sinne von § 10a Absatz 3a, wenn die Finanzholding-Gesellschaft oder die gemischte Finanzholding-Gesellschaft nach den Vorschriften des Handelsgesetzbuchs verpflichtet ist, einen Konzernabschluss aufzustellen, nach Artikel 4 der Verordnung (EG) Nr. 1606/2002 des Europäischen Parlaments und des Rates vom 19. Juli 2002 betreffend die Anwendung internationaler Rechnungslegungsstandards (ABl. EG Nr. L 243 S. 1) in der jeweils geltenden Fassung oder nach § 315a Abs. 2 des Handelsgesetzbuchs, bei der Aufstellung des Konzernabschlusses die nach den Artikeln 3 und 6 der genannten Verordnung übernommenen internationalen Rechnungslegungsstandards anzuwenden hat oder diese nach Maßgabe von § 315a Abs. 3 des Handelsgesetzbuchs anwendet. Wendet ein übergeordnetes Unternehmen das Verfahren nach § 10a Abs. 7 vor dem 31. Dezember 2015 an, hat es dieses Verfahren beizubehalten.
 
 (5) Institute dürfen personenbezogene Daten, die sie vor dem 1. Januar 2007 erhoben haben, nach Maßgabe des § 10 Abs. 1 verwenden.
 
@@ -6282,6 +6650,16 @@ Für ein Unternehmen, das auf Grund der Erweiterung der Definition der Finanzins
 (2) § 29 Absatz 1 Satz 2 in der ab dem 16. Februar 2013 geltenden Fassung ist erstmals auf die Abschlussprüfung des Jahresabschlusses für ein Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2012 beginnt.
 
 (3) § 29 Absatz 1a in der ab dem 16. Februar 2013 geltenden Fassung ist erstmals auf die Abschlussprüfung des Jahresabschlusses für ein Geschäftsjahr anzuwenden, das nach dem Zeitpunkt beginnt, in dem das Kreditinstitut eine Erlaubnis nach Artikel 14 in Verbindung mit Artikel 17 der Verordnung (EU) Nr. 648/2012 erhalten hat.
+
+### § 64p Übergangsvorschrift zum Hochfrequenzhandelsgesetz
+
+Für ein Unternehmen, das auf Grund der Ausdehnung des Begriffs des Eigenhandels in § 1 Absatz 1a Satz 2 Nummer 4 am 15. Mai 2013 zum Finanzdienstleistungsinstitut wird, gilt die Erlaubnis für den Eigenhandel und das Eigengeschäft im Sinne des § 32 Absatz 1a als zu diesem Zeitpunkt vorläufig erteilt, wenn es bis zum 14. November 2013 einen vollständigen Erlaubnisantrag nach § 32 Absatz 1 Satz 1 und 2, auch in Verbindung mit einer Rechtsverordnung nach § 24 Absatz 4, stellt. Für ein Unternehmen, das nicht im Inland ansässig und kein Unternehmen im Sinne des § 53b Absatz 1 Satz 1 und 2 ist, gilt Satz 1 mit der Maßgabe, dass der vollständige Erlaubnisantrag bis zum 14. Februar 2014 zu stellen ist.
+
+### § 64q Übergangsvorschrift zum AIFM-Umsetzungsgesetz
+
+(1) Auf Finanzdienstleistungsinstitute, die durch die Änderung des § 1 und das Inkrafttreten des Kapitalanlagegesetzbuchs als Kapitalverwaltungsgesellschaften im Sinne des § 17 des Kapitalanlagegesetzbuchs oder als Anteile an Investmentvermögen im Sinne des § 1 Absatz 1 des Kapitalanlagegesetzbuchs gelten und die die Voraussetzungen von § 353 Absatz 1 bis 3 erfüllen, ist § 1 Absatz 1a in der bis zum 21. Juli 2013 geltenden Fassung weiterhin anzuwenden.
+
+(2) Auf Finanzdienstleistungsinstitute, die durch die Änderung des § 1 und das Inkrafttreten des Kapitalanlagegesetzbuchs als Kapitalverwaltungsgesellschaften im Sinne des § 17 des Kapitalanlagegesetzbuchs oder als Anteile an Investmentvermögen im Sinne des § 1 Absatz 1 des Kapitalanlagegesetzbuchs gelten, ist dieses Gesetz in der bis zum 21. Juli 2013 geltenden Fassung bis zur Stellung des Erlaubnisantrages gemäß § 22 des Kapitalanlagegesetzbuchs oder, wenn die Voraussetzungen des § 2 Absatz 4, 4a, 4b oder Absatz 5 des Kapitalanlagegesetzbuchs erfüllt sind, bis zur Registrierung gemäß § 44 des Kapitalanlagegesetzbuchs weiterhin anzuwenden.
 
 ### § 65
 
