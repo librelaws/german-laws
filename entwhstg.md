@@ -2,7 +2,7 @@ Gesetz über steuerliche Maßnahmen zur Förderung von privaten Kapitalanlagen i
 =============================================================================================================
 
 Neuf  
-Neugefaßt durch Bek. v. 21.5.1979 I 564,
+Neugefasst durch Bek. v. 21.5.1979 I 564,
 
 Stand  
 zuletzt geändert durch Art. 81 V v. 25.11.2003 I 2304
