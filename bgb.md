@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 10.5.2012 I 1084
+zuletzt geändert durch Art. 7 G v. 19.10.2012 I 2182
 
 ### 
 
@@ -1070,9 +1070,7 @@ Die Volljährigkeit tritt mit der Vollendung des 18. Lebensjahres ein.
 
 (2) Diese Vorschriften finden keine Anwendung auf Soldaten, die nur auf Grund der Wehrpflicht Wehrdienst leisten oder die nicht selbständig einen Wohnsitz begründen können.
 
-### § 10
-
-(weggefallen)
+### § 10 (weggefallen)
 
 ### § 11 Wohnsitz des Kindes
 
@@ -2303,6 +2301,9 @@ die Geltendmachung der Aufrechnung des Anspruchs im Prozess,
 6.  
 die Zustellung der Streitverkündung,
 
+6a.  
+die Zustellung der Anmeldung zu einem Musterverfahren für darin bezeichnete Ansprüche, soweit diesen der gleiche Lebenssachverhalt zugrunde liegt wie den Feststellungszielen des Musterverfahrens und wenn innerhalb von drei Monaten nach dem rechtskräftigen Ende des Musterverfahrens die Klage auf Leistung oder Feststellung der in der Anmeldung bezeichneten Ansprüche erhoben wird,
+
 7.  
 die Zustellung des Antrags auf Durchführung eines selbständigen Beweisverfahrens,
 
@@ -2329,7 +2330,7 @@ die Veranlassung der Bekanntgabe des erstmaligen Antrags auf Gewährung von Proz
 
 (2) Die Hemmung nach Absatz 1 endet sechs Monate nach der rechtskräftigen Entscheidung oder anderweitigen Beendigung des eingeleiteten Verfahrens. Gerät das Verfahren dadurch in Stillstand, dass die Parteien es nicht betreiben, so tritt an die Stelle der Beendigung des Verfahrens die letzte Verfahrenshandlung der Parteien, des Gerichts oder der sonst mit dem Verfahren befassten Stelle. Die Hemmung beginnt erneut, wenn eine der Parteien das Verfahren weiter betreibt.
 
-(3) Auf die Frist nach Absatz 1 Nr. 9, 12 und 13 finden die §§ 206, 210 und 211 entsprechende Anwendung.
+(3) Auf die Frist nach Absatz 1 Nr. 6a, 9, 12 und 13 finden die §§ 206, 210 und 211 entsprechende Anwendung.
 
 ### § 205 Hemmung der Verjährung bei Leistungsverweigerungsrecht
 
