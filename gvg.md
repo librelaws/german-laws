@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 9.5.1975 I 1077
 
 Stand  
-Zuletzt geändert durch Art. 2 G v. 23.4.2014 I 410
+Zuletzt geändert durch Art. 2 Abs. 2 G v. 21.1.2015 I 10
 
 ### 
 
@@ -394,7 +394,7 @@ Die Landesregierungen werden ermächtigt, durch Rechtsverordnung einem Amtsgeric
 (1) In Strafsachen sind die Amtsgerichte zuständig, wenn nicht
 
 1.  
-die Zuständigkeit des Landgerichts nach § 74 Abs. 2 oder § 74 a oder des Oberlandesgerichts nach § 120 begründet ist,
+die Zuständigkeit des Landgerichts nach § 74 Abs. 2 oder § 74 a oder des Oberlandesgerichts nach den §§ 120 oder 120b begründet ist,
 
 2.  
 im Einzelfall eine höhere Strafe als vier Jahre Freiheitsstrafe oder die Unterbringung des Beschuldigten in einem psychiatrischen Krankenhaus, allein oder neben einer Strafe, oder in der Sicherungsverwahrung (§§ 66 bis 66b des Strafgesetzbuches) zu erwarten ist oder
@@ -981,7 +981,7 @@ nach dem Arbeitnehmerüberlassungsgesetz und dem Schwarzarbeitsbekämpfungsgeset
 
 soweit zur Beurteilung des Falles besondere Kenntnisse des Wirtschaftslebens erforderlich sind,
 
-ist, soweit nach § 74 Abs. 1 als Gericht des ersten Rechtszuges und nach § 74 Abs. 3 für die Verhandlung und Entscheidung über das Rechtsmittel der Berufung gegen die Urteile des Schöffengerichts das Landgericht zuständig ist, eine Strafkammer als Wirtschaftsstrafkammer zuständig. § 120 bleibt unberührt.
+ist, soweit nach § 74 Abs. 1 als Gericht des ersten Rechtszuges und nach § 74 Abs. 3 für die Verhandlung und Entscheidung über das Rechtsmittel der Berufung gegen die Urteile des Schöffengerichts das Landgericht zuständig ist, eine Strafkammer als Wirtschaftsstrafkammer zuständig. Die §§ 120 und 120b bleiben unberührt.
 
 (2) In den Sachen, in denen die Wirtschaftsstrafkammer nach Absatz 1 zuständig ist, trifft sie auch die in § 73 Abs. 1 bezeichneten Entscheidungen.
 
@@ -1464,6 +1464,10 @@ Sie verweisen bei der Eröffnung des Hauptverfahrens die Sache in den Fällen de
 
 (2) Im Fall des § 66b des Strafgesetzbuches gilt § 462a Abs. 3 Satz 2 und 3 der Strafprozessordnung entsprechend.
 
+### § 120b
+
+In Strafsachen sind die Oberlandesgerichte, in deren Bezirk die Landesregierungen ihren Sitz haben, zuständig für die Verhandlung und Entscheidung im ersten Rechtszug bei Bestechlichkeit und Bestechung von Mandatsträgern (§ 108e des Strafgesetzbuches). § 120 Absatz 3 und 5 gilt entsprechend.
+
 ### § 121
 
 (1) Die Oberlandesgerichte sind in Strafsachen ferner zuständig für die Verhandlung und Entscheidung über die Rechtsmittel:
@@ -1649,7 +1653,7 @@ bei den Amtsgerichten durch einen oder mehrere Staatsanwälte oder Amtsanwälte.
 
 ### § 142a
 
-(1) Der Generalbundesanwalt übt in den zur Zuständigkeit von Oberlandesgerichten im ersten Rechtszug gehörenden Strafsachen (§ 120 Abs. 1 und 2) das Amt der Staatsanwaltschaft auch bei diesen Gerichten aus. Können in den Fällen des § 120 Abs. 1 die Beamten der Staatsanwaltschaft eines Landes und der Generalbundesanwalt sich nicht darüber einigen, wer von ihnen die Verfolgung zu übernehmen hat, so entscheidet der Generalbundesanwalt.
+(1) Der Generalbundesanwalt übt in den zur Zuständigkeit von Oberlandesgerichten im ersten Rechtszug gehörenden Strafsachen gemäß § 120 Absatz 1 und 2 das Amt der Staatsanwaltschaft auch bei diesen Gerichten aus. Können in den Fällen des § 120 Abs. 1 die Beamten der Staatsanwaltschaft eines Landes und der Generalbundesanwalt sich nicht darüber einigen, wer von ihnen die Verfolgung zu übernehmen hat, so entscheidet der Generalbundesanwalt.
 
 (2) Der Generalbundesanwalt gibt das Verfahren vor Einreichung einer Anklageschrift oder einer Antragsschrift (§ 440 der Strafprozeßordnung) an die Landesstaatsanwaltschaft ab,
 
@@ -1903,7 +1907,7 @@ Die Öffentlichkeit kann für die Hauptverhandlung oder für einen Teil davon au
 
 (1) Die Öffentlichkeit kann ausgeschlossen werden, soweit Umstände aus dem persönlichen Lebensbereich eines Prozessbeteiligten, eines Zeugen oder eines durch eine rechtswidrige Tat (§ 11 Absatz 1 Nummer 5 des Strafgesetzbuchs) Verletzten zur Sprache kommen, deren öffentliche Erörterung schutzwürdige Interessen verletzen würde. Das gilt nicht, soweit das Interesse an der öffentlichen Erörterung dieser Umstände überwiegt. Die besonderen Belastungen, die für Kinder und Jugendliche mit einer öffentlichen Hauptverhandlung verbunden sein können, sind dabei zu berücksichtigen. Entsprechendes gilt bei volljährigen Personen, die als Kinder oder Jugendliche durch die Straftat verletzt worden sind.
 
-(2) Die Öffentlichkeit soll ausgeschlossen werden, soweit in Verfahren wegen Straftaten gegen die sexuelle Selbstbestimmung (§§ 174 bis 184g des Strafgesetzbuchs) oder gegen das Leben (§§ 211 bis 222 des Strafgesetzbuchs), wegen Misshandlung von Schutzbefohlenen (§ 225 des Strafgesetzbuchs) oder wegen Straftaten gegen die persönliche Freiheit nach den §§ 232 bis 233a des Strafgesetzbuchs ein Zeuge unter 18 Jahren vernommen wird. Absatz 1 Satz 3 gilt entsprechend.
+(2) Die Öffentlichkeit soll ausgeschlossen werden, soweit in Verfahren wegen Straftaten gegen die sexuelle Selbstbestimmung (§§ 174 bis 184h des Strafgesetzbuchs) oder gegen das Leben (§§ 211 bis 222 des Strafgesetzbuchs), wegen Misshandlung von Schutzbefohlenen (§ 225 des Strafgesetzbuchs) oder wegen Straftaten gegen die persönliche Freiheit nach den §§ 232 bis 233a des Strafgesetzbuchs ein Zeuge unter 18 Jahren vernommen wird. Absatz 1 Satz 3 gilt entsprechend.
 
 (3) Die Öffentlichkeit ist auszuschließen, wenn die Voraussetzungen der Absätze 1 oder 2 vorliegen und der Ausschluss von der Person, deren Lebensbereich betroffen ist, beantragt wird. Für die Schlussanträge in Verfahren wegen der in Absatz 2 genannten Straftaten ist die Öffentlichkeit auszuschließen, ohne dass es eines hierauf gerichteten Antrags bedarf, wenn die Verhandlung unter den Voraussetzungen der Absätze 1 oder 2 oder des § 172 Nummer 4 ganz oder zum Teil unter Ausschluss der Öffentlichkeit stattgefunden hat.
 
@@ -2108,10 +2112,6 @@ Siebzehnter Titel Rechtsschutz bei überlangen Gerichtsverfahren und strafrechtl
 ---------------------------------------------------------------------------------------------------------
 
 ### 
-
-### § 198
-
-(weggefallen)
 
 ### § 198
 
