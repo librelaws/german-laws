@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 28.2.2005 I 487;
 
 Stand  
-zuletzt geändert durch Art. 7 G v. 18.7.2016 I 1679
+zuletzt geändert durch Art. 11 G v. 17.8.2017 I 3214
 
 ### 
 
@@ -55,7 +55,7 @@ Wird die Mitteilung nach § 11 Abs. 1 und 3 über die zentrale Stelle übermitte
 
 (1) Die Datensätze sind im XML-Format zu übermitteln.
 
-(2) Der codierte Zeichensatz für eine nach § 10a oder Abschnitt XI des Einkommensteuergesetzes oder nach einer im Abschnitt 2 dieser Verordnung vorzunehmenden Datenübermittlung hat den Anforderungen der DIN 66303, Ausgabe Juni 2000, zu entsprechen. Der Zeichensatz ist gemäß der Vorgabe der zentralen Stelle an den jeweiligen Stand der Technik anzupassen.
+(2) Der codierte Zeichensatz für eine nach § 10a oder Abschnitt XI des Einkommensteuergesetzes oder nach einer im Abschnitt 2 dieser Verordnung vorzunehmenden Datenübermittlung hat vorbehaltlich der Sätze 2 und 3 den Anforderungen der DIN 66303, Ausgabe Juni 2000, zu entsprechen. Die zentrale Stelle kann für einzelne oder alle Datensätze die Verwendung eines anderen Zeichensatzes und die dafür erforderliche Codierung bestimmen. Der Zeitpunkt der erstmaligen Verwendung wird mindestens sechs Monate vorher durch das Bundesministerium der Finanzen im Bundessteuerblatt bekannt gegeben.
 
 (3) Der codierte Zeichensatz für eine Datenübermittlung nach
 
@@ -68,7 +68,7 @@ Wird die Mitteilung nach § 11 Abs. 1 und 3 über die zentrale Stelle übermitte
 3.  
 den Abschnitten 3 und 4 dieser Verordnung
 
-hat den Anforderungen der ISO/IEC 8859-15, Ausgabe März 1999, zu entsprechen. Absatz 2 Satz 2 gilt entsprechend.
+hat vorbehaltlich des Satzes 2 den Anforderungen der ISO/IEC 8859-15, Ausgabe März 1999, zu entsprechen. Absatz 2 Satz 2 und 3 gilt entsprechend.
 
 ### § 2a DIN- und ISO/IEC-Normen
 
@@ -90,7 +90,7 @@ DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird, sind im Be
 
 (2) Die zentrale Stelle bestimmt den zu nutzenden Übertragungsweg. Hierbei soll der Übertragungsweg zugelassen werden, der von den an der Datenübermittlung Beteiligten gewünscht wird.
 
-(3) Die erforderlichen Daten können unter den Voraussetzungen des § 11 des Bundesdatenschutzgesetzes oder der vergleichbaren Vorschriften der Landesdatenschutzgesetze durch einen Auftragnehmer der übermittelnden Stelle an die zentrale Stelle übertragen werden. Geeignet ist ein Auftragnehmer, der die Anforderungen an den Datenschutz und die Datensicherheit gemäß dieser Verordnung erfüllt.
+(3) Die erforderlichen Daten können unter den Voraussetzungen der Artikel 28 und 29 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) in der jeweils geltenden Fassung durch einen Auftragnehmer der übermittelnden Stelle an die zentrale Stelle übertragen werden. Geeignet ist ein Auftragnehmer, der die Anforderungen an den Datenschutz und die Datensicherheit gemäß dieser Verordnung erfüllt.
 
 (4) Der nach Absatz 3 mit der Datenfernübertragung beauftragte Auftragnehmer gilt als Empfangsbevollmächtigter für Mitteilungen der zentralen Stelle an den Auftraggeber, solange dieser nicht widerspricht.
 
@@ -126,7 +126,7 @@ die Art der Verbindung.
 
 (5) Jede Änderung der in den Absätzen 1 bis 3 genannten Daten ist der zentralen Stelle von dem am Verfahren Beteiligten unter Angabe der Kundennummer (Absatz 4) unverzüglich anzuzeigen.
 
-(6) Die Absätze 1 und 3 bis 5 gelten für übermittelnde Stellen im Sinne des § 10 Absatz 2a und 4b des Einkommensteuergesetzes, für Mitteilungspflichtige (§ 22a Absatz 1 Satz 1 des Einkommensteuergesetzes) und für Träger der Sozialleistungen (§ 32b Absatz 3 des Einkommensteuergesetzes) entsprechend. Die Teilnahme der Arbeitgeber am maschinellen Anfrageverfahren der Identifikationsnummer (§ 139b der Abgabenordnung) nach § 41b Absatz 2 des Einkommensteuergesetzes setzt voraus, dass diese bereits durch die Finanzverwaltung authentifiziert wurden; eine weitere Identifikation bei der zentralen Stelle findet nicht statt.
+(6) Die Absätze 1 und 3 bis 5 gelten für die mitteilungspflichtigen Stellen im Sinne des § 10 Absatz 2a und 4b, § 22a Absatz 1 Satz 1 und § 32b Absatz 3 des Einkommensteuergesetzes entsprechend.
 
 Abschnitt 2 Vorschriften zur Altersvorsorge nach § 10a oder Abschnitt XI des Einkommensteuergesetzes
 ----------------------------------------------------------------------------------------------------
@@ -140,7 +140,7 @@ Unterabschnitt 1 Mitteilungs- und Anzeigepflichten
 
 ### § 6 Mitteilungspflichten des Arbeitgebers
 
-(1) Der Arbeitgeber hat der Versorgungseinrichtung (Pensionsfonds, Pensionskasse, Direktversicherung), die für ihn die betriebliche Altersversorgung durchführt, spätestens zwei Monate nach Ablauf des Kalenderjahres oder nach Beendigung des Dienstverhältnisses im Laufe des Kalenderjahres gesondert je Versorgungszusage mitzuteilen, in welcher Höhe die für den einzelnen Arbeitnehmer geleisteten Beiträge individuell besteuert wurden. Die Mitteilungspflicht des Arbeitgebers kann durch einen Auftragnehmer wahrgenommen werden.
+(1) Der Arbeitgeber hat der Versorgungseinrichtung (Pensionsfonds, Pensionskasse, Direktversicherung), die für ihn die betriebliche Altersversorgung durchführt, spätestens zwei Monate nach Ablauf des Kalenderjahres oder nach Beendigung des Dienstverhältnisses im Laufe des Kalenderjahres mitzuteilen, in welcher Höhe die für den einzelnen Arbeitnehmer geleisteten Beiträge individuell besteuert wurden. Die Mitteilungspflicht des Arbeitgebers kann durch einen Auftragnehmer wahrgenommen werden.
 
 (2) Eine Mitteilung nach Absatz 1 kann unterbleiben, wenn die Versorgungseinrichtung dem Arbeitgeber mitgeteilt hat, dass
 
@@ -311,9 +311,7 @@ Abschnitt 3 Vorschriften zu Rentenbezugsmitteilungen
 
 ### 
 
-### § 20 Aufzeichnungs- und Aufbewahrungspflichten
-
-Der Mitteilungspflichtige hat die übermittelten Daten aufzuzeichnen und die zugrunde liegenden Unterlagen für die Dauer von sechs Jahren nach dem Ende des Jahres, für das die Übermittlung erfolgt ist, geordnet aufzubewahren. § 19 Abs. 4 bis 6 gilt entsprechend.
+### § 20 (weggefallen)
 
 ### § 20a Vollstreckung von Bescheiden über Forderungen der zentralen Stelle
 
@@ -321,10 +319,10 @@ Der Mitteilungspflichtige hat die übermittelten Daten aufzuzeichnen und die zug
 
 ### § 21 Erprobung des Verfahrens
 
-(1) Die zentrale Stelle kann bei den Mitteilungspflichtigen Daten nach § 22a Abs. 1 Satz 1 des Einkommensteuergesetzes erheben zum Zweck der Erprobung
+(1) Die zentrale Stelle kann bei den mitteilungspflichtigen Stellen Daten nach § 22a Abs. 1 Satz 1 des Einkommensteuergesetzes erheben zum Zweck der Erprobung
 
 1.  
-des Verfahrens der Datenübermittlung von den Mitteilungspflichtigen an die zentrale Stelle,
+des Verfahrens der Datenübermittlung von den mitteilungspflichtigen Stellen an die zentrale Stelle,
 
 2.  
 der bei der zentralen Stelle einzusetzenden Programme,
@@ -335,16 +333,16 @@ der Weiterleitung an die Finanzverwaltung und
 4.  
 der Weiterverarbeitung der Daten in der Finanzverwaltung.
 
-(2) Das Bundeszentralamt für Steuern kann bei den Mitteilungspflichtigen Daten nach § 22a Abs. 2 Satz 3 des Einkommensteuergesetzes in Verbindung mit § 139b Abs. 3 der Abgabenordnung erheben zum Zweck der Erprobung
+(2) Das Bundeszentralamt für Steuern kann bei den mitteilungspflichtigen Stellen Daten nach § 22a Abs. 2 Satz 3 des Einkommensteuergesetzes in Verbindung mit § 139b Abs. 3 der Abgabenordnung erheben zum Zweck der Erprobung
 
 1.  
-des Verfahrens der Datenübermittlung von den Mitteilungspflichtigen an das Bundeszentralamt für Steuern,
+des Verfahrens der Datenübermittlung von den mitteilungspflichtigen Stellen an das Bundeszentralamt für Steuern,
 
 2.  
-des Verfahrens der Datenübermittlung von dem Bundeszentralamt für Steuern an die Mitteilungspflichtigen,
+des Verfahrens der Datenübermittlung von dem Bundeszentralamt für Steuern an die mitteilungspflichtigen Stellen,
 
 3.  
-der vom Bundeszentralamt für Steuern und der zentralen Stelle einzusetzenden Programme, mit denen den Mitteilungspflichtigen die Daten zur Verfügung gestellt werden.
+der vom Bundeszentralamt für Steuern und der zentralen Stelle einzusetzenden Programme, mit denen den mitteilungspflichtigen Stellen die Daten zur Verfügung gestellt werden.
 
 (3) Die Datenübermittlung erfolgt durch Datenfernübertragung; § 4 Abs. 1 gilt entsprechend.
 
@@ -355,31 +353,23 @@ Abschnitt 4 Vorschriften zum weiteren Datenaustausch mit der zentralen Stelle
 
 ### 
 
-### § 22 Aufzeichnungs- und Aufbewahrungspflichten
-
-Soweit nicht bereits eine Aufzeichnungs- und Aufbewahrungspflicht nach § 19 oder § 20 dieser Verordnung besteht, hat die übermittelnde Stelle die übermittelten Daten aufzuzeichnen und die zugrunde liegenden Unterlagen für die Dauer von sechs Jahren nach dem Ende des Jahres, in dem die Übermittlung erfolgt ist, geordnet aufzubewahren. § 19 Absatz 4 bis 6 gilt entsprechend.
+### § 22 (weggefallen)
 
 ### § 23 Erprobung des Verfahrens
 
-§ 21 Absatz 1 dieser Verordnung gilt für die Erprobung des Verfahrens nach § 10 Absatz 2a und 4b des Einkommensteuergesetzes entsprechend mit der Maßgabe, dass die zentrale Stelle bei den übermittelnden Stellen die Daten nach § 10 Absatz 2a und 4b des Einkommensteuergesetzes erheben kann.
+§ 21 Absatz 1 dieser Verordnung gilt für die Erprobung des Verfahrens nach § 10 Absatz 2a und 4b des Einkommensteuergesetzes entsprechend mit der Maßgabe, dass die zentrale Stelle bei den mitteilungspflichtigen Stellen die Daten nach § 10 Absatz 2a und 4b des Einkommensteuergesetzes erheben kann.
 
-### § 24 Mitteilungspflichten der übermittelnden Stellen gegenüber der zentralen Stelle
+### § 24 Mitteilungspflichten nach § 10 Absatz 4b des Einkommensteuergesetzes
 
-Die in § 10 Absatz 4b Satz 4 des Einkommensteuergesetzes genannten übermittelnden Stellen haben der zentralen Stelle bis zum 28. Februar des dem Jahr der Auszahlung oder der Rückforderung der steuerfreien Zuschüsse zu Vorsorgeaufwendungen im Sinne des § 10 Absatz 1 Nummer 2, 3 und 3a des Einkommensteuergesetzes oder der Erstattung von solchen Vorsorgeaufwendungen folgenden Jahres folgende Daten zu übermitteln:
+Die in § 10 Absatz 4b Satz 4 des Einkommensteuergesetzes genannten mitteilungspflichtigen Stellen haben der zentralen Stelle folgende Daten zu übermitteln:
 
 1.  
-Identifikationsnummer (§ 139b der Abgabenordnung), Familienname, Vorname, Geburtsdatum und Anschrift des Steuerpflichtigen;
+die Höhe der im jeweiligen Zahlungsjahr geleisteten und zurückgeforderten steuerfreien Zuschüsse und der erstatteten Vorsorgeaufwendungen, jeweils gesondert betragsmäßig nach Art der Vorsorgeaufwendungen ausgewiesen,
 
 2.  
-die Höhe der im jeweiligen Zahlungsjahr geleisteten und zurückgeforderten steuerfreien Zuschüsse und der erstatteten Vorsorgeaufwendungen, jeweils gesondert betragsmäßig nach Art der Vorsorgeaufwendungen ausgewiesen;
+den Beginn und das Ende des Zeitraums, für den der steuerfreie Zuschuss und die Erstattung der Vorsorgeaufwendungen erfolgt sind, und
 
 3.  
-Beginn und Ende des Zeitraums, für den der steuerfreie Zuschuss und die Erstattung der Vorsorgeaufwendungen erfolgt ist;
+das Jahr des Zuflusses oder Abflusses.
 
-4.  
-Jahr des Zuflusses oder Abflusses;
-
-5.  
-Bezeichnung und Anschrift der übermittelnden Stelle sowie deren Ordnungsbegriff.
-
-Eine Mitteilungspflicht nach Satz 1 besteht nicht, wenn die übermittelnde Stelle der Finanzverwaltung die Zahlung der geleisteten und zurückgeforderten steuerfreien Zuschüsse und der erstatteten Vorsorgeaufwendungen bereits auf Grund anderer Vorschriften elektronisch mitzuteilen hat. Stellt die übermittelnde Stelle fest, dass die an die zentrale Stelle übermittelten Daten unzutreffend sind, ist dies unverzüglich durch Übermittlung eines Datensatzes an die zentrale Stelle zu korrigieren oder zu stornieren. Die übermittelnde Stelle hat den Steuerpflichtigen darüber zu unterrichten, dass die Daten der zentralen Stelle mitgeteilt werden. Hierbei ist die Höhe der Beträge anzugeben, soweit sich diese nicht bereits aus dem Verwaltungsakt ergibt.
+Eine Mitteilungspflicht nach Satz 1 besteht nicht, wenn die mitteilungspflichtige Stelle der Finanzverwaltung die Zahlung der geleisteten und zurückgeforderten steuerfreien Zuschüsse und der erstatteten Vorsorgeaufwendungen bereits auf Grund anderer Vorschriften elektronisch mitzuteilen hat.
