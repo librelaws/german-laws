@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 29.7.1994 I 1993;
 
 Stand  
-zuletzt geändert durch Art. 300 V v. 31.8.2015 I 1474
+zuletzt geändert durch Art. 1 V v. 14.8.2017 I 3197
 
 ### 
 
@@ -820,7 +820,13 @@ und eine Einfuhrgenehmigung oder Einfuhrlizenz nicht erforderlich ist; der Anmel
 (weggefallen)
 
 6.  
-Teile und Zubehör für Maschinen, Apparate, Geräte, Beförderungsmittel und Instrumente der Kapitel 84 bis 90 des Deutschen Gebrauchs-Zolltarifs, die üblicherweise zur Ausrüstung gehören und zusammen mit dem Hauptgegenstand aus- oder eingehen, können nach Maßgabe des § 6 Abs. 1 mit der Warenbezeichnung und der Warennummer oder Codenummer des Hauptgegenstandes und dem Zusatz "einschließlich des üblicherweise zur Ausrüstung gehörenden Zubehörs und der Ersatzteile" angemeldet werden. Teile und Zubehör der vorgenannten Art, ausgenommen für Waren des Kapitels 89, die ohne den Hauptgegenstand aus- oder eingehen, können bei einem Gesamtwert bis einschließlich zweitausendfünfhundert Euro als Teile und Zubehör unter Angabe des Hauptgegenstandes, für den sie bestimmt sind, und nach Maßgabe des § 6 Abs. 1 mit einer für diese Waren vorgesehenen Warennummer oder Codenummer mit dem Zusatz "und andere in Betracht kommende Nummern" angemeldet werden. Beträgt der Gesamtwert mehr als zweitausendfünfhundert Euro, so sind die Waren mit den zutreffenden Warenarten und den dazugehörigen Mengen- und Wertangaben anzumelden, jedoch können Teile und Zubehör bis zu einem Wert von einschließlich eintausend Euro je Warenposition der Ware mit dem wertmäßig größten Anteil zugerechnet werden. Die Sätze 2 und 3 finden keine Anwendung auf Sendungen, die nicht aus mindestens drei verschiedenen Waren bestehen oder auf Sortimente von Waren, für die im Warenverzeichnis für die Außenhandelsstatistik Sammelnummern für Sortimente vorgesehen sind sowie auf Waren, für die eine Ein- oder Ausfuhrgenehmigung nach dem Außenwirtschaftsrecht erforderlich ist.
+Teile und Zubehör für Maschinen, Apparate, Geräte, Beförderungsmittel und Instrumente der Kapitel 84 bis 90 des Warenverzeichnisses für die Außenhandelsstatistik, die üblicherweise zur Ausrüstung gehören und zusammen mit dem Hauptgegenstand aus- oder eingehen, können nach Maßgabe des § 6 Absatz 1 mit der Warenbezeichnung und der Warennummer des Hauptgegenstands und dem Zusatz „einschließlich des üblicherweise zur Ausrüstung gehörenden Zubehörs und der Ersatzteile“ angemeldet werden. Bei der Anmeldung zur Intrahandelsstatistik ist nur die Angabe der Warennummer des Hauptgegenstands ohne Warenbezeichnung erforderlich. Gehen Teile und Zubehör nach Satz 1 ohne den Hauptgegenstand in einer Sendung aus oder ein und beträgt der statistische Gesamtwert der Sendung nicht mehr als 2 500 Euro, können sie mit den auf sie zutreffenden Warennummern des Warenverzeichnisses für die Außenhandelsstatistik angemeldet werden. Falls nicht bekannt ist, für welche Maschinen, Apparate, Geräte und Instrumente der Kapitel 84, 85 und 90 des Warenverzeichnisses für die Außenhandelsstatistik die Teile und das Zubehör bestimmt sind, dürfen mechanische Teile der Position 8487, elektrische Teile der Position 8548 und optische Teile und Zubehör der Position 9033 des Warenverzeichnisses für die Außenhandelsstatistik zugeordnet werden. Gehen Teile und Zubehör nach Satz 1 ohne den Hauptgegenstand in einer Sendung aus oder ein und beträgt der statistische Gesamtwert der Sendung mehr als 2 500 Euro, so sind die Teile und das Zubehör mit den auf sie zutreffenden Warennummern des Warenverzeichnisses für die Außenhandelsstatistik anzumelden, jedoch dürfen Teile und Zubehör bis zu einem statistischen Wert von einschließlich 1 000 Euro je Teil oder Zubehör, das jeweils einzeln durch verschiedene Warennummern der genannten Kapitel des Warenverzeichnisses für die Außenhandelsstatistik beschrieben wird, der Ware mit dem höchsten statistischen Wert zugerechnet werden. Die Sätze 3 und 5 gelten nicht für Waren der Kapitel 87 bis 89 des Warenverzeichnisses für die Außenhandelsstatistik.Die Sätze 1 bis 5 sind nicht anzuwenden auf
+
+a)  
+Sendungen, die aus weniger als drei Waren bestehen, die mit unterschiedlichen Warennummern des Warenverzeichnisses für die Außenhandelsstatistik einzureihen sind, sowie
+
+b)  
+Waren, für die aufgrund der Vorschriften des Zollrechts, des Außenwirtschaftsrechts, des Ursprungsrechts, der Rechtsvorschriften über ein- und ausfuhrrechtliche Verbote und Beschränkungen und aufgrund anderer Rechtsvorschriften eine detaillierte Einreihung der einzelnen Waren in die Kombinierte Nomenklatur erforderlich ist; die Zollstelle kann vom Anmelder im Rahmen der Zulässigkeitsprüfung eine detaillierte Zollanmeldung für entsprechende Waren und Bestimmungsländer verlangen.
 
 7.  
 (weggefallen)
@@ -915,9 +921,31 @@ Die Angabe der Länder und der Wertstellung entfällt.
 
 (4) Die Anmeldeschwellen, unterhalb derer Auskunftspflichtige von der Bereitstellung von Informationen zur Intrahandelsstatistik im Sinne des Artikels 10 Absatz 1 bis 3 der Verordnung (EG) Nr. 638/2004 befreit sind, werden jeweils bezogen auf den Wert der Warenverkehre des vorangegangenen Kalenderjahres für die Versendung auf fünfhunderttausend Euro und für den Eingang auf achthunderttausend Euro festgelegt. Werden die Schwellen im laufenden Kalenderjahr überschritten, müssen mit Beginn des Kalendermonats, in dem die Schwellen zum ersten Mal überschritten werden, entsprechende Meldungen abgegeben werden.
 
+(5) Das Statistische Bundesamt kann die vereinfachte Anmeldung von Zusammenstellungen unter einer Sammelwarennummer des Kapitels 99 des Warenverzeichnisses für die Außenhandelsstatistik zulassen. Diese zulassungspflichtigen Sammelwarennummern sind vorgesehen für die vereinfachte Anmeldung von
+
+1.  
+Zusammenstellungen von Kraft- und Luftfahrzeugteilen nach Artikel 18 der Verordnung (EG) Nr. 1982/2004 der Kommission vom 18. November 2004 zur Durchführung der Verordnung (EG) Nr. 638/2004 des Europäischen Parlaments und des Rates über die Gemeinschaftsstatistiken des Warenverkehrs zwischen Mitgliedstaaten und zur Aufhebung der Verordnungen (EG) Nr. 1901/2000 und (EWG) Nr. 3590/92 der Kommission (ABl. L 343 vom 19.11.2004, S. 3), die zuletzt durch die Verordnung (EU) Nr. 1093/2013 (ABl. L 294 vom 6.11.2013, S. 28) geändert worden ist.
+
+2.  
+Zusammenstellungen von geringwertigen Waren der Kapitel 01 bis 83, 91 und 92 sowie 94 bis 97 des Warenverzeichnisses für die Außenhandelsstatistik. Für diese Zusammenstellungen gilt:
+
+a)  
+Eine Zusammenstellung muss mindestens drei Waren dieser Kapitel enthalten, die mit unterschiedlichen Warennummern des Warenverzeichnisses für die Außenhandelsstatistik einzureihen sind und zusammen ein- oder ausgeführt werden.
+
+b)  
+Der Statistische Wert jeder einzelnen Ware einer Zusammenstellung darf 500 Euro nicht überschreiten. Bei Zusammenstellungen aus den Kapiteln 01 bis 24 darf der Statistische Wert jeder einzelnen Ware 200 Euro nicht überschreiten. Das Gewicht jeder einzelnen Ware darf 1 000 Kilogramm nicht überschreiten.
+
+c)  
+Für Warenlieferungen von Retouren, Restposten, Konkurswaren und gebrauchten Waren können bis zu einem statistischen Gesamtwert einer Sendung von 50 000 Euro ausnahmsweise einmalige vereinfachte Anmeldungen unter einer Sammelwarennummer des Kapitels 99 des Warenverzeichnisses für die Außenhandelsstatistik zugelassen werden.
+
+d)  
+Die Verwendung einer Sammelwarennummer ist nicht zulässig, wenn die Mindestanforderungen im Hinblick auf die Qualität der Ergebnisse der Außenhandelsstatistik nicht mehr gewährleistet werden können. Um diese Mindestanforderungen zu gewährleisten, wird die Nutzung der vereinfachten Anmeldung nur für Unternehmen zugelassen, deren Warenverkehre im vorangegangenen Kalenderjahr pro Verkehrsrichtung insgesamt den statistischen Wert von 3 Millionen Euro nicht überschritten haben.
+
+(6) Eine Genehmigung zur Verwendung einer zulassungspflichtigen Sammelwarennummer wird auf schriftlichen oder elektronischen Antrag des Ein- oder Ausführers erteilt. In dem Antrag ist die Erfüllung der Zulässigkeitskriterien mittels geeigneter Unterlagen zu belegen. Für die Verwendung einer solchen Sammelwarennummer kann das Statistische Bundesamt weitere Kriterien festlegen. Die Verwendung zulassungspflichtiger Sammelwarennummern darf untersagt werden, wenn Genehmigungen widerrechtlich verwendet wurden. Hilfslieferungen öffentlicher oder privater Stellen sowie Warensendungen, die in den Befreiungslisten zur Außenhandelsstatistik beschrieben werden, können unter der dafür vorgesehenen Sammelwarennummer des Kapitels 99 des Warenverzeichnisses für die Außenhandelsstatistik angemeldet werden. Sie unterliegen keiner Wertgrenze und bedürfen keiner Genehmigung des Statistischen Bundesamtes. Sammelwarennummern des Kapitels 99 des Warenverzeichnisses für die Außenhandelsstatistik dürfen nicht genutzt werden für Waren, für die aufgrund der Vorschriften des Zollrechts, des Außenwirtschaftsrechts, des Ursprungsrechts, der Rechtsvorschriften über ein- und ausfuhrrechtliche Verbote und Beschränkungen und aufgrund anderer Rechtsvorschriften eine detaillierte Einreihung der einzelnen Waren in die Kombinierte Nomenklatur erforderlich ist. Die Zollstelle kann vom Anmelder im Rahmen der Zulässigkeitsprüfung eine detaillierte Zollanmeldung für entsprechende Waren und Bestimmungsländer verlangen.
+
 ### § 30a Auskunftspflicht zur Erhebung des Statistischen Wertes im innergemeinschaftlichen Warenverkehr
 
-(1) Zur Ermittlung des Kreises der Auskunftspflichtigen für den Statistischen Wert bei Kauf- oder Verkaufsgeschäften einschließlich Kommissions- und Konsignationsgeschäften im innergemeinschaftlichen Warenverkehr im Sinne von Artikel 8 Absatz 2 der Verordnung (EG) Nr. 1982/2004 der Kommission vom 18. November 2004 zur Durchführung der Verordnung (EG) Nr. 638/2004 des Europäischen Parlaments und des Rates über die Gemeinschaftsstatistiken des Warenverkehrs zwischen Mitgliedstaaten und zur Aufhebung der Verordnungen (EG) Nr. 1901/2000 und (EWG) Nr. 3590/92 der Kommission (ABl. L 343 vom 19.11.2004, S. 3), die zuletzt durch die Verordnung (EU) Nr. 1093/2013 (ABl. L 294 vom 6.11.2013, S. 28) geändert worden ist, wird jährlich je ein Schwellenwert für den Wareneingang und die Warenversendung festgelegt. Auskunftspflichtige zur Intrahandelsstatistik, deren Kauf- oder Verkaufsgeschäfte, einschließlich Kommissions- und Konsignationsgeschäften, den jeweiligen Schwellenwert übersteigen, müssen im kommenden Kalenderjahr bei den betreffenden Geschäften den Statistischen Wert angeben.
+(1) Um zu ermitteln, wer verpflichtet ist, über den Statistischen Wert bei Kauf- oder Verkaufsgeschäften einschließlich Kommissions- und Konsignationsgeschäften im innergemeinschaftlichen Warenverkehr im Sinne des Artikels 8 Absatz 2 der Verordnung (EG) Nr. 1982/2004 Auskunft zu geben, wird jährlich ein Schwellenwert für den Wareneingang und für die Warenversendung festgelegt. Auskunftspflichtige zur Intrahandelsstatistik, deren Kauf- oder Verkaufsgeschäfte, einschließlich Kommissions- und Konsignationsgeschäften, den jeweiligen Schwellenwert übersteigen, müssen im kommenden Kalenderjahr bei den betreffenden Geschäften den Statistischen Wert angeben.
 
 (2) Diese Schwellenwerte sind so festzulegen, dass mit
 
