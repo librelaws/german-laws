@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 29.9.1976 I 2849;
 
 Stand  
-zuletzt geändert durch Art. 3 G v. 6.12.2011 I 2557
+zuletzt geändert durch Art. 1 G v. 29.5.2013 I 1386
 
 ### 
 
@@ -82,6 +82,61 @@ Jagdbezirke, in denen die Jagd ausgeübt werden darf, sind entweder Eigenjagdbez
 ### § 6 Befriedete Bezirke, Ruhen der Jagd
 
 Auf Grundflächen, die zu keinem Jagdbezirk gehören, und in befriedeten Bezirken ruht die Jagd. Eine beschränkte Ausübung der Jagd kann gestattet werden. Tiergärten fallen nicht unter die Vorschriften dieses Gesetzes.
+
+### § 6a Befriedung von Grundflächen aus ethischen Gründen
+
+(1) Grundflächen, die zu einem gemeinschaftlichen Jagdbezirk gehören und im Eigentum einer natürlichen Person stehen, sind auf Antrag des Grundeigentümers zu befriedeten Bezirken zu erklären (Befriedung), wenn der Grundeigentümer glaubhaft macht, dass er die Jagdausübung aus ethischen Gründen ablehnt. Eine Befriedung ist zu versagen, soweit Tatsachen die Annahme rechtfertigen, dass ein Ruhen der Jagd auf der vom Antrag umfassten Fläche bezogen auf den gesamten jeweiligen Jagdbezirk die Belange
+
+1.  
+der Erhaltung eines artenreichen und gesunden Wildbestandes sowie der Pflege und Sicherung seiner Lebensgrundlagen,
+
+2.  
+des Schutzes der Land-, Forst- und Fischereiwirtschaft vor übermäßigen Wildschäden,
+
+3.  
+des Naturschutzes und der Landschaftspflege,
+
+4.  
+des Schutzes vor Tierseuchen oder
+
+5.  
+der Abwendung sonstiger Gefahren für die öffentliche Sicherheit und Ordnung
+
+gefährdet. Ethische Gründe nach Satz 1 liegen insbesondere nicht vor, wenn der Antragsteller
+
+1.  
+selbst die Jagd ausübt oder die Ausübung der Jagd durch Dritte auf einem ihm gehörenden Grundstück duldet oder
+
+2.  
+zum Zeitpunkt der behördlichen Entscheidung einen Jagdschein gelöst oder beantragt hat.
+
+Der Antrag ist schriftlich oder zur Niederschrift bei der zuständigen Behörde zu stellen. Der Entscheidung über den Antrag hat neben der Anhörung des Antragstellers eine Anhörung der Jagdgenossenschaft, des Jagdpächters, angrenzender Grundeigentümer, des Jagdbeirats sowie der Träger öffentlicher Belange vorauszugehen.
+
+(2) Die Befriedung soll mit Wirkung zum Ende des Jagdpachtvertrages erfolgen. Sofern dies dem Antragsteller unter Abwägung mit den schutzwürdigen Belangen der Jagdgenossenschaft nicht zuzumuten ist, kann die Behörde einen früheren Zeitpunkt, der jedoch nicht vor Ende des Jagdjahres liegt, bestimmen. In den Fällen des Satzes 2 kann die Jagdgenossenschaft vom Grundeigentümer den Ersatz des Schadens verlangen, der ihr durch die vorzeitige Befriedung entsteht.
+
+(3) Die Befriedung kann räumlich auf einen Teil der Antragsfläche sowie zeitlich beschränkt werden, soweit dies zur Wahrung der Belange nach Absatz 1 Satz 2 erforderlich ist.
+
+(4) Die Befriedung erlischt vorbehaltlich der Sätze 2 und 3 drei Monate nach Übergang des Eigentums an der befriedeten Grundfläche auf einen Dritten. Stellt der Dritte während des Laufs der Frist nach Satz 1 einen Antrag auf erneute Befriedung, so erlischt die bestehende Befriedung mit dem Wirksamwerden der behördlichen Entscheidung über den Antrag. Verzichtet der Dritte vor Ablauf der Frist nach Satz 1 auf einen Antrag auf erneute Befriedung, so erlischt die bestehende Befriedung mit dem Zugang der Verzichtserklärung bei der zuständigen Behörde. Der Grundeigentümer hat den Eigentumswechsel der zuständigen Behörde anzuzeigen. Die Befriedung ist zu widerrufen, wenn
+
+1.  
+der Grundeigentümer schriftlich gegenüber der zuständigen Behörde den Verzicht auf die Befriedung erklärt oder
+
+2.  
+der Grundeigentümer die Jagd ausübt, einen Jagdschein löst oder die Ausübung der Jagd durch Dritte auf einem ihm gehörenden Grundstück duldet.
+
+Die Befriedung ist in der Regel zu widerrufen, wenn Tatsachen bekannt werden, die den Anspruch auf Erklärung zum befriedeten Bezirk entfallen lassen. Die Befriedung ist unter den Vorbehalt des Widerrufs zu stellen für den Fall, dass ein oder mehrere weitere begründete Anträge auf Befriedung in demselben Jagdbezirk gestellt werden und nicht allen Anträgen insgesamt ohne Gefährdung der Belange nach Absatz 1 Satz 2 stattgegeben werden kann. Im Übrigen gelten die verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten.
+
+(5) Die zuständige Behörde kann eine beschränkte Jagdausübung auf den für befriedet erklärten Grundflächen anordnen, soweit dies zur Vermeidung übermäßiger Wildschäden, der Gefahr von Tierseuchen, aus Gründen des Naturschutzes oder des Tierschutzes, der Seuchenhygiene, der Gewährleistung der Sicherheit des Verkehrs auf öffentlichen Verkehrswegen oder der Abwendung sonstiger Gefahren für die öffentliche Sicherheit und Ordnung erforderlich ist. Widerspruch und Klage gegen die Anordnung haben keine aufschiebende Wirkung. Kommt der Grundeigentümer der Anordnung nicht nach, so kann die zuständige Behörde für dessen Rechnung die Jagd ausüben lassen.
+
+(6) Wildschäden an Grundstücken, die zum gemeinschaftlichen Jagdbezirk gehören, hat der Grundeigentümer der befriedeten Grundfläche nach dem Verhältnis des Flächenanteils seiner Grundfläche an der Gesamtfläche des gemeinschaftlichen Jagdbezirks anteilig zu ersetzen. Dies gilt nicht, sofern das schädigende Wild auf der befriedeten Grundfläche nicht vorkommt oder der Schaden auch ohne die Befriedung der Grundfläche eingetreten wäre.
+
+(7) Der Grundeigentümer der befriedeten Fläche hat keinen Anspruch auf Ersatz von Wildschäden.
+
+(8) Die Grundsätze der Wildfolge sind im Verhältnis des gemeinschaftlichen Jagdbezirks zu der nach Absatz 1 für befriedet erklärten Grundfläche entsprechend anzuwenden. Einer Vereinbarung nach § 22a Absatz 2 bedarf es nicht. Der Grundeigentümer des für befriedet erklärten Grundstücks ist über die Notwendigkeit der Wildfolge, soweit Belange des Tierschutzes nicht entgegenstehen bereits vor Beginn der Wildfolge, unverzüglich in Kenntnis zu setzen.
+
+(9) Das Recht zur Aneignung von Wild nach § 1 Absatz 1 Satz 1 steht in den Fällen der nach Absatz 5 behördlich angeordneten Jagd und der Wildfolge nach Absatz 8 dem Jagdausübungsberechtigten des Jagdbezirks oder dem beauftragten Jäger zu.
+
+(10) Die Absätze 1 bis 9 sind auf Grundflächen, die einem Eigenjagdbezirk kraft Gesetzes oder auf Grund behördlicher Entscheidung angegliedert sind, entsprechend anzuwenden.
 
 2. Eigenjagdbezirke
 -------------------
@@ -229,7 +284,7 @@ IV. Abschnitt Jagdschein
 (1) Der Jagdschein ist zu versagen
 
 1.  
-Personen, die noch nicht sechzehn Jahre als sind;
+Personen, die noch nicht sechzehn Jahre alt sind;
 
 2.  
 Personen, bei denen Tatsachen die Annahme rechtfertigen, daß sie die erforderliche Zuverlässigkeit oder körperliche Eignung nicht besitzen;
