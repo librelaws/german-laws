@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 22.1.1982 I 21;
 
 Stand  
-Zuletzt geändert durch Art. 8 G v. 3.12.2015 I 2163
+zuletzt geändert durch Art. 6 Abs. 5 G v. 28.11.2018 I 2016
 
 ### 
 
@@ -240,7 +240,7 @@ Hinterbliebenenrente (§§ 38 bis 52),
 6.  
 Bestattungsgeld beim Tod von Hinterbliebenen (§ 53).
 
-(2) Auf Antrag werden folgende Leistungen nach diesem Gesetz durch ein Persönliches Budget nach § 17 Absatz 2 bis 4 des Neunten Buches Sozialgesetzbuch in Verbindung mit der Budgetverordnung erbracht:
+(2) Auf Antrag werden folgende Leistungen nach diesem Gesetz durch ein Persönliches Budget nach § 29 des Neunten Buches Sozialgesetzbuch erbracht:
 
 1.  
 Leistungen der Heil- und Krankenbehandlung,
@@ -421,11 +421,11 @@ Bei einzelnen Leistungen können auch die vollen Kosten übernommen werden. Empf
 
 ### § 14
 
-Beschädigte, bei denen Blindheit als Folge einer Schädigung anerkannt ist, erhalten monatlich 157 Euro zum Unterhalt eines Führhunds und als Beihilfe zu den Aufwendungen für fremde Führung.
+Beschädigte, bei denen Blindheit als Folge einer Schädigung anerkannt ist, erhalten monatlich 172 Euro zum Unterhalt eines Führhunds und als Beihilfe zu den Aufwendungen für fremde Führung.
 
 ### § 15
 
-Verursachen die anerkannten Folgen der Schädigung außergewöhnlichen Verschleiß an Kleidung oder Wäsche, so sind die dadurch entstehenden Kosten mit einem monatlichen Pauschbetrag von 19 bis 124 Euro zu ersetzen. Der Pauschbetrag ergibt sich aus der Multiplikation von 1,980 Euro mit der auf Grund einer Rechtsverordnung nach § 24a Buchstabe d für den jeweiligen Verschleißtatbestand festgesetzten Bewertungszahl. Die sich ergebenden Beträge sind bis 0,49 Euro auf volle Euro abzurunden und von 0,50 Euro an auf volle Euro aufzurunden. Übersteigen in besonderen Fällen die tatsächlichen Aufwendungen die höchste Stufe des Pauschbetrags, so sind sie erstattungsfähig.
+Verursachen die anerkannten Folgen der Schädigung außergewöhnlichen Verschleiß an Kleidung oder Wäsche, so sind die dadurch entstehenden Kosten mit einem monatlichen Pauschbetrag von 22 bis 141 Euro zu ersetzen. Der Pauschbetrag ergibt sich aus der Multiplikation von 2,171 Euro mit der auf Grund einer Rechtsverordnung nach § 24a Buchstabe d für den jeweiligen Verschleißtatbestand festgesetzten Bewertungszahl. Die sich ergebenden Beträge sind bis 0,49 Euro auf volle Euro abzurunden und von 0,50 Euro an auf volle Euro aufzurunden. Übersteigen in besonderen Fällen die tatsächlichen Aufwendungen die höchste Stufe des Pauschbetrags, so sind sie erstattungsfähig.
 
 ### § 16
 
@@ -709,7 +709,7 @@ wenn der Beschädigte den Lebensunterhalt des Familienmitglieds überwiegend bes
 
 (5) Leistungen der Kriegsopferfürsorge können auch erbracht werden, wenn über Art und Umfang der Versorgung noch nicht rechtskräftig entschieden, mit der Anerkennung eines Versorgungsanspruchs aber zu rechnen ist.
 
-(6) Der Anspruch auf Leistung in einer Einrichtung (§ 25b Abs. 1 Satz 2) oder auf Pflegegeld (§ 26c Abs. 8) steht, soweit die Leistung den Leistungsberechtigten erbracht worden wäre, nach ihrem Tode denjenigen zu, die die Hilfe erbracht oder die Pflege geleistet haben.
+(6) Der Anspruch auf Leistung in einer Einrichtung (§ 25b Abs. 1 Satz 2) oder auf Pflegegeld (§ 26c Absatz 1) steht, soweit die Leistung den Leistungsberechtigten erbracht worden wäre, nach ihrem Tode denjenigen zu, die die Hilfe erbracht oder die Pflege geleistet haben.
 
 ### § 25a
 
@@ -798,10 +798,22 @@ Pflichtbeiträge zur Sozialversicherung einschließlich der Beiträge zur Arbeit
 Beiträge zu öffentlichen oder privaten Versicherungen oder ähnlichen Einrichtungen, soweit diese Beiträge gesetzlich vorgeschrieben oder nach Grund und Höhe angemessen sind, sowie geförderte Altersvorsorgebeiträge nach § 82 des Einkommensteuergesetzes, soweit sie den Mindesteigenbeitrag nach § 86 des Einkommensteuergesetzes nicht überschreiten,
 
 4.  
-die mit der Erzielung des Einkommens verbundenen notwendigen Ausgaben,
+die mit der Erzielung des Einkommens verbundenen notwendigen Ausgaben.
 
-5.  
-das Arbeitsförderungsgeld und Erhöhungsbeträge des Arbeitsentgelts im Sinne von § 43 Satz 4 des Neunten Buches Sozialgesetzbuch.
+(3a) Bei der ergänzenden Hilfe zum Lebensunterhalt ist ferner ein Betrag von 100 Euro monatlich aus einer zusätzlichen Altersvorsorge der Leistungsberechtigten zuzüglich 30 vom Hundert des diesen Betrag übersteigenden Einkommens aus einer zusätzlichen Altersvorsorge der Leistungsberechtigten abzusetzen, höchstens jedoch 50 vom Hundert der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch.
+
+(3b) Einkommen aus einer zusätzlichen Altersvorsorge im Sinne des Absatzes 3a ist jedes monatlich bis zum Lebensende ausgezahlte Einkommen, auf das Leistungsberechtigte vor Erreichen der Regelaltersgrenze auf freiwilliger Grundlage Ansprüche erworben haben und das dazu bestimmt und geeignet ist, die Einkommenssituation der Leistungsberechtigten gegenüber möglichen Ansprüchen aus Zeiten einer Versicherungspflicht in der gesetzlichen Rentenversicherung nach den §§ 1 bis 4 des Sechsten Buches Sozialgesetzbuch, nach § 1 des Gesetzes über die Alterssicherung der Landwirte, aus beamtenrechtlichen Versorgungsansprüchen und aus Ansprüchen aus Zeiten einer Versicherungspflicht in einer Versicherungs- und Versorgungseinrichtung, die für Angehörige bestimmter Berufe errichtet ist, zu verbessern. Als Einkommen aus einer zusätzlichen Altersvorsorge gelten auch laufende Zahlungen aus
+
+1.  
+einer betrieblichen Altersversorgung im Sinne des Betriebsrentengesetzes,
+
+2.  
+einem nach § 5 des Altersvorsorgeverträge-Zertifizierungsgesetzes zertifizierten Altersvorsorgevertrag und
+
+3.  
+einem nach § 5a des Altersvorsorgeverträge-Zertifizierungsgesetzes zertifizierten Basisrentenvertrag.
+
+Werden bis zu zwölf Monatsleistungen aus einer zusätzlichen Altersvorsorge, insbesondere gemäß einer Vereinbarung nach § 10 Absatz 1 Nummer 2 Satz 3 erster Halbsatz des Einkommensteuergesetzes, zusammengefasst, so ist das Einkommen gleichmäßig auf den Zeitraum aufzuteilen, für den die Auszahlung erfolgte.
 
 (4) Leistungen, die auf Grund öffentlich-rechtlicher Vorschriften zu einem ausdrücklich genannten Zweck erbracht werden, sind nur so weit als Einkommen zu berücksichtigen, als die Kriegsopferfürsorge im Einzelfall demselben Zweck dient. Eine Entschädigung, die wegen eines Schadens, der nicht Vermögensschaden ist, nach § 253 des Bürgerlichen Gesetzbuchs geleistet wird, ist nicht als Einkommen zu berücksichtigen.
 
@@ -826,7 +838,7 @@ höchstens jedoch aus einem Betrag in Höhe von einem Zwölftel des Bemessungsbe
 
 (2) Bei minderjährigen unverheirateten Beschädigten ist zur Deckung des Bedarfs auch Einkommen der Eltern einzusetzen. Für den Einsatz des Einkommens gilt Absatz 1 entsprechend mit der Maßgabe, daß ein Familienzuschlag für einen Elternteil, wenn die Eltern zusammenleben, sowie für Beschädigte und für jede Person anzusetzen ist, die von den Eltern oder den Beschädigten bisher überwiegend unterhalten worden ist oder der sie nach der Entscheidung über die Leistung von Kriegsopferfürsorge unterhaltspflichtig werden. Leben die Eltern nicht zusammen, richtet sich die Einkommensgrenze nach dem Elternteil, bei dem die oder der Beschädigte lebt; leben die Eltern nicht zusammen und lebt die oder der Beschädigte bei keinem Elternteil, bestimmt sich die Einkommensgrenze nach Absatz 1; § 25d Abs. 2 Satz 2 ist anzuwenden.
 
-(3) Die Absätze 1 und 2 gelten nicht in den Fällen der §§ 26a, 27 Abs. 2 Satz 4 sowie des § 27a; § 26 Abs. 5 Satz 2, § 26b Abs. 4, § 26c Abs. 11, § 27 Abs. 2 letzter Satz und § 27d Abs. 5 bleiben unberührt.
+(3) Die Absätze 1 und 2 gelten nicht in den Fällen der §§ 26a, 27 Abs. 2 Satz 4 sowie des § 27a; § 26 Abs. 5 Satz 2, § 26b Abs. 4, § 26c Absatz 5, § 27 Abs. 2 letzter Satz und § 27d Abs. 5 bleiben unberührt.
 
 (4) Bei Aufenthalt in einer stationären oder teilstationären Einrichtung ist nach Ablauf von zwei Monaten nach Aufnahme in die Einrichtung Einkommen in Höhe der ersparten Aufwendungen für den häuslichen Lebensunterhalt insoweit einzusetzen, als es unter der maßgebenden Einkommensgrenze liegt und es unbillig wäre, vom Einsatz des Einkommens abzusehen. Darüber hinaus kann von Leistungsberechtigten, die auf voraussichtlich längere Zeit der Pflege in einer stationären Einrichtung bedürfen, der Einsatz von Einkommen unter der Einkommensgrenze verlangt werden, solange sie keine andere Person überwiegend unterhalten.
 
@@ -836,52 +848,60 @@ höchstens jedoch aus einem Betrag in Höhe von einem Zwölftel des Bemessungsbe
 
 (1) Einzusetzen ist das gesamte verwertbare Vermögen. Dies gilt auch für Ansparungen aus Leistungen nach diesem Gesetz. Leistungen der Kriegsopferfürsorge dürfen nicht von dem Einsatz oder von der Verwertung eines Vermögens abhängig gemacht werden, soweit dies für die Leistungsberechtigten, die das Vermögen einzusetzen haben, und für ihre unterhaltsberechtigten Angehörigen eine Härte bedeuten würde. Dies ist der Fall, wenn der Einsatz des Vermögens eine angemessene Lebensführung, die Aufrechterhaltung einer angemessenen Alterssicherung oder die Sicherstellung einer angemessenen Bestattung und Grabpflege wesentlich erschweren würde. Vermögenswerte aus Nachzahlungen von Renten nach diesem Gesetz bleiben für einen Zeitraum von einem Jahr unberücksichtigt. Im Übrigen gelten § 90 Absatz 2 Nummer 1 bis 7 und 9, § 91 des Zwölften Buches Sozialgesetzbuch sowie § 25c Absatz 3 entsprechend.
 
-(2) Als kleinere Barbeträge oder sonstige Geldwerte sind folgende Vomhundertsätze des Bemessungsbetrags nach § 33 Absatz 1 Satz 2 Buchstabe a zu berücksichtigen:
+(2) Als kleinere Barbeträge oder sonstige Geldwerte sind folgende Prozentsätze des Bemessungsbetrags nach § 33 Absatz 1 Satz 2 Buchstabe a zu berücksichtigen:
 
 1.  
-10 vom Hundert bei Erbringung ergänzender Hilfe zum Lebensunterhalt an Leistungsberechtigte einschließlich Sonderfürsorgeberechtigte, die das 60. Lebensjahr noch nicht vollendet haben,
+40 Prozent bei Erbringung von Pflegegeld nach § 26c Absatz 1 für Pflegebedürftige der Pflegegrade 4 oder 5, von Blindenhilfe nach § 27d Absatz 1 Nummer 4 sowie von allen Leistungen an Sonderfürsorgeberechtigte mit Ausnahme der ergänzenden Hilfe zum Lebensunterhalt,
 
 2.  
-20 vom Hundert bei Erbringung ergänzender Hilfe zum Lebensunterhalt an Leistungsberechtigte, die das 60. Lebensjahr vollendet haben, einschließlich Sonderfürsorgeberechtigte sowie an voll Erwerbsgeminderte oder Erwerbsunfähige im Sinne des Sechsten Buches Sozialgesetzbuch und den diesem Personenkreis vergleichbaren Invalidenrentnern,
+20 Prozent bei Erbringung aller übrigen Leistungen,
 
-3.  
-20 vom Hundert bei Erbringung aller übrigen Leistungen, außer für Sonderfürsorgeberechtigte, wenn nicht die Voraussetzungen für die Zuerkennung des gesetzlichen Schonbetrags in Höhe von 40 vom Hundert des Bemessungsbetrags vorliegen,
-
-4.  
-40 vom Hundert bei Erbringung von Pflegegeldleistungen an Schwerstpflegebedürftige nach § 26c Absatz 8 Satz 3, von Blindenhilfe nach § 27d Absatz 1 Nummer 4 sowie von allen übrigen Leistungen an Sonderfürsorgeberechtigte mit Ausnahme der ergänzenden Hilfe zum Lebensunterhalt,
-
-zuzüglich eines Betrags in Höhe von 4 vom Hundert des Bemessungsbetrags für den überwiegend unterhaltenen Ehegatten oder Lebenspartner und in Höhe von 2 vom Hundert für jede weitere vom Leistungsberechtigten allein oder zusammen mit dem Ehegatten oder Lebenspartner überwiegend allein unterhaltene Person.
+zuzüglich eines Betrags in Höhe von 20 Prozent des Bemessungsbetrags für den nicht getrennt lebenden Ehegatten oder Lebenspartner oder für den Partner einer eheähnlichen oder lebenspartnerschaftsähnlichen Gemeinschaft und in Höhe von 2 Prozent für jede weitere vom Leistungsberechtigten, seinem Ehegatten oder Lebenspartner oder dem Partner einer eheähnlichen oder lebenspartnerschaftsähnlichen Gemeinschaft überwiegend unterhaltene Person.
 
 (3) Selbst genutztes Wohneigentum im Sinne des § 17 Abs. 2 des Wohnraumförderungsgesetzes, das von Leistungsberechtigten allein oder zusammen mit Angehörigen ganz oder teilweise bewohnt wird, denen es nach dem Tod der Leistungsberechtigten als Wohnung dienen soll, ist nicht zu verwerten.
 
-(4) Bei minderjährigen unverheirateten Beschädigten ist zur Deckung des Bedarfs auch Vermögen der Eltern einzusetzen oder zu verwerten. Für den Einsatz und für die Verwertung von Vermögen gilt Absatz 2 entsprechend mit der Maßgabe, daß ein Betrag in Höhe von vier vom Hundert des Bemessungsbetrags für einen Elternteil, wenn die Eltern zusammenleben, sowie in Höhe von zwei vom Hundert für Beschädigte und für jede Person, die von den Eltern oder von Beschädigten überwiegend unterhalten wird, anzusetzen ist. Leben die Eltern nicht zusammen, ist nur Vermögen des Elternteils einzusetzen oder zu verwerten, bei dem Beschädigte leben. Leben die Eltern nicht zusammen und leben Beschädigte bei keinem Elternteil, gilt für den Einsatz und für die Verwertung von Vermögen Absatz 2.
+(4) Bei minderjährigen unverheirateten Beschädigten ist zur Deckung des Bedarfs auch Vermögen der Eltern oder eines Elternteils einzusetzen oder zu verwerten, bei denen die Beschädigten leben. Soweit das Vermögen der Eltern oder eines Elternteils einzusetzen oder zu verwerten ist, sind als kleinere Barbeträge oder sonstige Geldwerte abweichend von Absatz 2 folgende Prozentsätze des Bemessungsbetrags nach § 33 Absatz 1 Satz 2 Buchstabe a zu berücksichtigen:
 
-(5) Sind Beschädigte und ihre Ehegatten oder Lebenspartner oder sind beide Elternteile von minderjährigen unverheirateten Beschädigten blind oder behindert im Sinne des § 1 Absatz 1 Satz 2 der Verordnung zur Durchführung des § 90 Absatz 2 Nummer 9 des Zwölften Buches Sozialgesetzbuch, gelten die Absätze 2 und 4 mit der Maßgabe, dass für Ehegatten oder Lebenspartner von Beschädigten und für den Elternteil von minderjährigen unverheirateten Beschädigten ein Betrag in Höhe von 12 vom Hundert des Bemessungsbetrags anzusetzen ist.
+1.  
+2 Prozent für Beschädigte,
+
+2.  
+weitere 20 Prozent für Beschädigte bei Erbringung von Pflegegeld nach § 26c Absatz 1 für Pflegebedürftige der Pflegegrade 4 oder 5, von Blindenhilfe nach § 27d Absatz 1 Nummer 4 sowie von allen Leistungen an Sonderfürsorgeberechtigte mit Ausnahme der ergänzenden Hilfe zum Lebensunterhalt,
+
+3.  
+20 Prozent für jeden Elternteil, bei dem die Beschädigten leben, und für dessen nicht getrennt lebenden Ehegatten oder Lebenspartner oder für dessen Partner einer eheähnlichen oder lebenspartnerschaftsähnlichen Gemeinschaft sowie
+
+4.  
+2 Prozent für jede weitere Person, die von den Eltern oder einem Elternteil oder von dessen nicht getrennt lebendem Ehegatten oder Lebenspartner oder von dessen Partner einer eheähnlichen oder lebenspartnerschaftsähnlichen Gemeinschaft überwiegend unterhalten wird.
+
+Abweichend von Satz 1 ist das Vermögen der Eltern nicht einzusetzen oder zu verwerten, solange Beschädigte schwanger sind oder mindestens ein leibliches Kind bis zur Vollendung seines sechsten Lebensjahres betreuen. Leben Beschädigte bei keinem Elternteil oder liegt ein Fall des Satzes 3 vor, gilt für den Einsatz und für die Verwertung von Vermögen Absatz 2.
+
+(5) (weggefallen)
 
 ### § 26
 
-(1) Beschädigte erhalten Leistungen zur Teilhabe am Arbeitsleben nach den §§ 33 bis 38a des Neunten Buches Sozialgesetzbuch sowie im Eingangsverfahren und im Berufsbildungsbereich der Werkstätten für behinderte Menschen nach § 40 des Neunten Buches Sozialgesetzbuch.
+(1) Beschädigte erhalten Leistungen zur Teilhabe am Arbeitsleben nach den §§ 49 bis 55 des Neunten Buches Sozialgesetzbuch sowie Leistungen im Eingangsverfahren und im Berufsbildungsbereich der Werkstätten für behinderte Menschen nach § 57 des Neunten Buches Sozialgesetzbuch und entsprechende Leistungen bei anderen Leistungsanbietern nach § 60 des Neunten Buches Sozialgesetzbuch.
 
 (2) Bei Unterbringung von Beschädigten in einer Einrichtung der beruflichen Rehabilitation werden dort entstehende Aufwendungen vom Träger der Kriegsopferfürsorge als Sachleistungen getragen.
 
 (3) Zu den Leistungen zur Teilhabe am Arbeitsleben gehören auch Hilfen zur Gründung und Erhaltung einer selbständigen Existenz; Geldleistungen hierfür sollen in der Regel als Darlehen erbracht werden.
 
-(4) Die Leistungen zur Teilhabe am Arbeitsleben einschließlich der Leistungen im Eingangsverfahren und im Berufsbildungsbereich einer anerkannten Werkstatt für behinderte Menschen werden ergänzt durch:
+(4) Die Leistungen nach Absatz 1 werden ergänzt durch:
 
 1.  
 Übergangsgeld und Unterhaltsbeihilfe nach Maßgabe des § 26a,
 
 2.  
-Entrichtung von Beiträgen zur gesetzlichen Rentenversicherung für Zeiten des Bezuges von Übergangsgeld unter Beachtung des § 50 des Neunten Buches Sozialgesetzbuch, Erstattung der Aufwendungen zur Alterssicherung von nicht rentenversicherungspflichtigen Beschädigten für freiwillige Beiträge zur gesetzlichen Rentenversicherung, für Beiträge zu öffentlich-rechtlichen berufsständischen Versicherungs- und Versorgungseinrichtungen und zu öffentlichen oder privaten Versicherungsunternehmen auf Grund von Lebensversicherungsverträgen bis zur Höhe der Beiträge, die zur gesetzlichen Rentenversicherung für Zeiten des Bezuges von Übergangsgeld zu entrichten wären,
+Entrichtung von Beiträgen zur gesetzlichen Rentenversicherung für Zeiten des Bezuges von Übergangsgeld unter Beachtung des § 70 des Neunten Buches Sozialgesetzbuch, Erstattung der Aufwendungen zur Alterssicherung von nicht rentenversicherungspflichtigen Beschädigten für freiwillige Beiträge zur gesetzlichen Rentenversicherung, für Beiträge zu öffentlich-rechtlichen berufsständischen Versicherungs- und Versorgungseinrichtungen und zu öffentlichen oder privaten Versicherungsunternehmen auf Grund von Lebensversicherungsverträgen bis zur Höhe der Beiträge, die zur gesetzlichen Rentenversicherung für Zeiten des Bezuges von Übergangsgeld zu entrichten wären,
 
 3.  
-Haushaltshilfe nach § 54 des Neunten Buches Sozialgesetzbuch,
+Haushaltshilfe nach § 74 des Neunten Buches Sozialgesetzbuch,
 
 4.  
 sonstige Leistungen, die unter Berücksichtigung von Art und Schwere der Schädigung erforderlich sind, um das Ziel der Rehabilitation zu erreichen oder zu sichern,
 
 5.  
-Reisekosten nach § 53 des Neunten Buches Sozialgesetzbuch.
+Reisekosten nach § 73 des Neunten Buches Sozialgesetzbuch.
 
 (5) Soweit nach Absatz 1 oder Absatz 4 Nr. 4 Leistungen zum Erreichen des Arbeitsplatzes oder des Ortes einer Leistung zur Teilhabe am Arbeitsleben, insbesondere Hilfen zur Beschaffung und Unterhaltung eines Kraftfahrzeugs in Betracht kommen, kann zur Angleichung dieser Leistungen im Rahmen einer Rechtsverordnung nach § 27f der Einsatz von Einkommen abweichend von § 25e Abs. 1 und 2 sowie § 27d Abs. 5 bestimmt und von Einsatz und Verwertung von Vermögen ganz oder teilweise abgesehen werden. Im Übrigen ist bei den Leistungen zur Teilhabe am Arbeitsleben und den sie ergänzenden Leistungen mit Ausnahme der sonstigen Hilfen nach Absatz 4 Nr. 4 Einkommen und Vermögen nicht zu berücksichtigen; § 26a bleibt unberührt.
 
@@ -889,7 +909,7 @@ Reisekosten nach § 53 des Neunten Buches Sozialgesetzbuch.
 
 ### § 26a
 
-(1) Der Anspruch auf Übergangsgeld sowie die Höhe und Berechnung bestimmen sich nach Teil 1 Kapitel 6 des Neunten Buches Sozialgesetzbuch; im Übrigen gelten für die Berechnung des Übergangsgelds die §§ 16a, 16b und 16f entsprechend.
+(1) Der Anspruch auf Übergangsgeld sowie die Höhe und Berechnung bestimmen sich nach Teil 1 Kapitel 11 des Neunten Buches Sozialgesetzbuch; im Übrigen gelten für die Berechnung des Übergangsgelds die §§ 16a, 16b und 16f entsprechend.
 
 (2) Hat der Beschädigte Einkünfte im Sinne von § 16b Abs. 1 erzielt und unmittelbar vor Beginn der Leistung zur Teilhabe am Arbeitsleben kein Versorgungskrankengeld, Krankengeld, Verletztengeld oder Übergangsgeld bezogen, so gilt für die Berechnung des Übergangsgelds § 16b Abs. 2 bis 4 und Abs. 6 entsprechend. Bei Beschädigten, die Versorgung auf Grund einer Wehrdienstbeschädigung oder einer Zivildienstbeschädigung erhalten, sind der Berechnung des Regelentgelts die vor der Beendigung des Wehrdienstes bezogenen Einkünfte (Geld- und Sachbezüge) als Soldat, für Soldaten, die Wehrsold bezogen haben, und für Zivildienstleistende, zehn Achtel der vor der Beendigung des Wehrdienstes oder Zivildienstes bezogenen Einkünfte (Geld- und Sachbezüge) als Soldat oder Zivildienstleistender zugrunde zu legen, wenn
 
@@ -897,7 +917,7 @@ a)
 der Beschädigte vor Beginn des Wehrdienstes oder Zivildienstes kein Arbeitseinkommen erzielt hat oder
 
 b)  
-das nach § 46 Abs. 1 Satz 1 oder § 47 Abs. 1 des Neunten Buches Sozialgesetzbuch oder nach Absatz 2 Satz 1 zu berücksichtigende Entgelt niedriger ist.
+das nach § 66 Absatz 1 Satz 1 oder § 67 Absatz 1 des Neunten Buches Sozialgesetzbuch oder nach Absatz 2 Satz 1 zu berücksichtigende Entgelt niedriger ist.
 
 (3) Beschädigte, die vor Beginn der Leistung zur Teilhabe am Arbeitsleben beruflich nicht tätig gewesen sind, erhalten anstelle des Übergangsgelds eine Unterhaltsbeihilfe; das gilt nicht für Beschädigte im Sinne des Absatzes 2 Satz 2. Für die Bemessung der Unterhaltsbeihilfe sind die Vorschriften über Leistungen für den Lebensunterhalt bei Gewährung von Erziehungsbeihilfe entsprechend anzuwenden; § 25d Abs. 2 gilt nicht bei volljährigen Beschädigten. Bei Unterbringung von Beschädigten in einer Rehabilitationseinrichtung ist der Berechnung der Unterhaltsbeihilfe lediglich ein angemessener Betrag zur Abgeltung zusätzlicher weiterer Bedürfnisse und Aufwendungen aus weiterlaufenden unabweislichen Verpflichtungen zugrunde zu legen.
 
@@ -915,75 +935,37 @@ das nach § 46 Abs. 1 Satz 1 oder § 47 Abs. 1 des Neunten Buches Sozialgesetzbu
 
 ### § 26c
 
-(1) Beschädigten und Hinterbliebenen, die wegen einer körperlichen, geistigen oder seelischen Krankheit oder Behinderung für die gewöhnlichen und regelmäßig wiederkehrenden Verrichtungen im Ablauf des täglichen Lebens auf Dauer, voraussichtlich für mindestens sechs Monate, in erheblichem oder höherem Maße der Hilfe bedürfen, ist Hilfe zur Pflege zu erbringen. Hilfe zur Pflege ist auch Kranken und behinderten Menschen zu erbringen, die voraussichtlich für weniger als sechs Monate der Pflege bedürfen oder einen geringeren Bedarf als nach Satz 1 haben oder die der Hilfe für andere Verrichtungen als nach Absatz 5 bedürfen; für die Leistungen für eine stationäre oder teilstationäre Einrichtung gilt dies nur, wenn es nach der Besonderheit des Einzelfalles erforderlich ist, insbesondere ambulante oder teilstationäre Hilfen nicht zumutbar sind oder nicht ausreichen. § 35 bleibt unberührt.
+(1) Beschädigte und Hinterbliebene erhalten Hilfe zur Pflege in entsprechender Anwendung von § 13 des Zwölften Buches Sozialgesetzbuch sowie des Siebten Kapitels des Zwölften Buches Sozialgesetzbuch, soweit in den folgenden Absätzen nichts Abweichendes geregelt ist.
 
-(2) Die Hilfe zur Pflege umfasst häusliche Pflege, Pflegehilfsmittel, teilstationäre Pflege, Kurzzeitpflege und stationäre Pflege. Der Inhalt der Leistungen nach Satz 1 bestimmt sich nach den Regelungen der Sozialen Pflegeversicherung für die in § 28 Abs. 1 Nr. 1, 5 bis 8 des Elften Buches Sozialgesetzbuch aufgeführten Leistungen; § 28 Abs. 4 des Elften Buches Sozialgesetzbuch gilt entsprechend.
+(2) Der Hilfe zur Pflege gehen die Leistungen nach § 35 vor.
 
-(3) Krankheiten oder Behinderungen im Sinne des Absatzes 1 sind:
+(3) Stellen Pflegebedürftige ihre Pflege nach § 63b Absatz 6 des Zwölften Buches Sozialgesetzbuch durch von ihnen beschäftigte besondere Pflegekräfte sicher, gelten § 11 Absatz 3 des Fünften Buches Sozialgesetzbuch und § 34 Absatz 2 Satz 2 des Elften Buches Sozialgesetzbuch entsprechend.
 
-1.  
-Verluste, Lähmungen oder andere Funktionsstörungen am Stütz- und Bewegungsapparat,
+(4) § 64a Absatz 2 des Zwölften Buches Sozialgesetzbuch findet keine Anwendung.
 
-2.  
-Funktionsstörungen der inneren Organe oder der Sinnesorgane,
-
-3.  
-Störungen des Zentralnervensystems wie Antriebs-, Gedächtnis- oder Orientierungsstörungen sowie endogene Psychosen, Neurosen oder geistige Behinderungen,
-
-4.  
-andere Krankheiten oder Behinderungen, infolge derer Personen Pflegebedürftig im Sinne des Absatzes 1 sind.
-
-(4) Der Bedarf im Sinne des Absatzes 1 besteht in der Unterstützung, in der teilweisen oder vollständigen Übernahme der Verrichtungen im Ablauf des täglichen Lebens oder in Beaufsichtigung oder Anleitung mit dem Ziel der eigenständigen Übernahme dieser Verrichtungen.
-
-(5) Gewöhnliche und regelmäßig wiederkehrende Verrichtungen im Sinne des Absatzes 1 sind:
+(5) Bei der Festsetzung der Einkommensgrenze sind folgende Regelungen entsprechend anzuwenden:
 
 1.  
-im Bereich der Körperpflege das Waschen, Duschen, Baden, die Zahnpflege, das Kämmen, Rasieren, die Darm- oder Blasenentleerung,
+§ 27d Absatz 5 Satz 1 Nummer 1 und Satz 2 bei der Pflege in einer stationären Einrichtung, wenn sie voraussichtlich auf längere Zeit erforderlich ist, sowie bei der häuslichen Pflege von Pflegebedürftigen der Pflegegrade 2 oder 3 und
 
 2.  
-im Bereich der Ernährung das mundgerechte Zubereiten oder die Aufnahme der Nahrung,
+§ 27d Absatz 5 Satz 1 Nummer 2 sowie Satz 2 und 3 bei dem Pflegegeld für Pflegebedürftige der Pflegegrade 4 oder 5.
 
-3.  
-im Bereich der Mobilität das selbständige Aufstehen und Zu-Bett-Gehen, An- und Auskleiden, Gehen, Stehen, Treppensteigen oder das Verlassen und Wiederaufsuchen der Wohnung,
-
-4.  
-im Bereich der hauswirtschaftlichen Versorgung das Einkaufen, Kochen, Reinigen der Wohnung, Spülen, Wechseln und Waschen der Wäsche und Kleidung oder das Beheizen.
-
-(6) Die Verordnung nach § 16 des Elften Buches Sozialgesetzbuch, die Richtlinien der Pflegekassen nach § 17 des Elften Buches Sozialgesetzbuch, die Verordnung nach § 30 des Elften Buches Sozialgesetzbuch, die Rahmenverträge, Bundesempfehlungen und -vereinbarungen über die pflegerische Versorgung nach § 75 des Elften Buches Sozialgesetzbuch und die Maßstäbe und Grundsätze zur Sicherung und Weiterentwicklung der Pflegequalität nach § 113 des Elften Buches Sozialgesetzbuch finden zur näheren Bestimmung des Begriffs der Pflegebedürftigkeit, des Inhalts der Pflegeleistung, der Unterkunft und Verpflegung und zur Abgrenzung, Höhe und Anpassung der Pflegegelder nach Absatz 8 entsprechende Anwendung. Die Entscheidung der Pflegekasse über das Ausmaß der Pflegebedürftigkeit nach dem Elften Buch Sozialgesetzbuch ist auch der Entscheidung im Rahmen der Hilfe zur Pflege zugrunde zu legen, soweit sie auf Tatsachen beruht, die bei beiden Entscheidungen zu berücksichtigen sind.
-
-(7) Reicht im Falle des Absatzes 1 häusliche Pflege aus, soll der Träger der Kriegsopferfürsorge darauf hinwirken, daß die Pflege einschließlich der hauswirtschaftlichen Versorgung durch Personen, die den Pflegebedürftigen nahestehen, oder im Wege der Nachbarschaftshilfe übernommen werden. Das Nähere regeln die Absätze 8 bis 12. In einer stationären oder teilstationären Einrichtung erhalten Pflegebedürftige keine Leistungen zur häuslichen Pflege. Die Bestimmungen des § 63 Satz 4 bis 6 des Zwölften Buches Sozialgesetzbuch gelten entsprechend.
-
-(8) Pflegebedürftige, die bei der Körperpflege, der Ernährung oder der Mobilität für wenigstens zwei Verrichtungen aus einem oder mehreren Bereichen mindestens einmal täglich der Hilfe bedürfen und zusätzlich mehrfach in der Woche Hilfe bei der hauswirtschaftlichen Versorgung benötigen (erheblich Pflegebedürftige), erhalten ein Pflegegeld nach § 37 Abs. 1 Satz 3 Nr. 1 des Elften Buches Sozialgesetzbuch. Pflegebedürftige, die bei der Körperpflege, der Ernährung oder der Mobilität für mehrere Verrichtungen mindestens dreimal täglich zu verschiedenen Tageszeiten der Hilfe bedürfen und zusätzlich mehrfach in der Woche Hilfe bei der hauswirtschaftlichen Versorgung benötigen (Schwerpflegebedürftige), erhalten ein Pflegegeld nach § 37 Abs. 1 Satz 3 Nr. 2 des Elften Buches Sozialgesetzbuch. Pflegebedürftige, die bei der Körperpflege, der Ernährung oder der Mobilität für mehrere Verrichtungen täglich rund um die Uhr, auch nachts, der Hilfe bedürfen und zusätzlich mehrfach in der Woche Hilfe bei der hauswirtschaftlichen Versorgung benötigen (Schwerstpflegebedürftige), erhalten ein Pflegegeld nach § 37 Abs. 1 Satz 3 Nr. 3 des Elften Buches Sozialgesetzbuch. Bei pflegebedürftigen Kindern ist der infolge Krankheit oder Behinderung gegenüber einem gesunden gleichaltrigen Kind zusätzliche Pflegebedarf maßgebend.
-
-(9) Pflegebedürftigen im Sinne des Absatzes 1 sind die angemessenen Aufwendungen der Pflegeperson zu erstatten; auch können angemessene Beihilfen gewährt sowie Beiträge der Pflegeperson für eine angemessene Alterssicherung übernommen werden, wenn diese nicht anderweitig sichergestellt ist. Ist neben oder anstelle der Pflege nach Absatz 7 Satz 1 die Heranziehung einer besonderen Pflegekraft erforderlich oder eine Beratung oder zeitweilige Entlastung der Pflegeperson geboten, so sind die angemessenen Kosten zu übernehmen. Pflegebedürftigen, die Pflegegeld erhalten, sind zusätzlich die Aufwendungen für die Beiträge einer Pflegeperson oder einer besonderen Pflegekraft für eine angemessene Alterssicherung zu erstatten, wenn diese nicht anderweitig sichergestellt ist.
-
-(10) Leistungen nach den Absätzen 2, 8 und 9 Satz 3 werden nicht erbracht, soweit Pflegebedürftige gleichartige Leistungen nach anderen Vorschriften erhalten. Auf das Pflegegeld sind anzurechnen: Leistungen nach § 27d Abs. 1 Nr. 4 oder ihnen gleichartige Leistungen nach anderen Vorschriften mit 70 vom Hundert, Pflegegelder nach dem Elften Buch Sozialgesetzbuch jedoch in dem Umfang, in dem sie erbracht werden. Die Leistungen nach Absatz 9 werden neben den Leistungen nach Absatz 8 erbracht. Werden Leistungen nach Absatz 9 Satz 1 und 2 oder gleichartige Leistungen nach anderen Vorschriften erbracht, kann das Pflegegeld um bis zu zwei Drittel gekürzt werden. Bei teilstationärer Betreuung der Pflegebedürftigen kann das Pflegegeld angemessen gekürzt werden. Leistungen nach Absatz 9 Satz 1 und 2 werden insoweit nicht erbracht, als Pflegebedürftige in der Lage sind, entsprechende Leistungen nach anderen Vorschriften in Anspruch zu nehmen. § 11 Absatz 3 des Fünften Buches Sozialgesetzbuch, § 34 Absatz 2 Satz 2 des Elften Buches Sozialgesetzbuch und § 66 Absatz 4 Satz 2 des Zwölften Buches Sozialgesetzbuch gelten entsprechend. In diesen Fällen ist ein vorrangig nach dem Elften Buch Sozialgesetzbuch geleistetes Pflegegeld auf die Leistungen nach § 26c Absatz 9 Satz 1 und 2 anzurechnen. § 2 des Zwölften Buches Sozialgesetzbuch bleibt unberührt.
-
-(11) Bei der Festsetzung der Einkommensgrenze ist
-
-a)  
-bei Pflege in einer stationären Einrichtung, wenn sie voraussichtlich auf längere Zeit erforderlich ist, sowie bei häuslicher Pflege, wenn der in Absatz 8 Satz 1 oder 2 genannte Schweregrad der Hilflosigkeit besteht, § 27d Abs. 5 Satz 1 Nr. 1 und Satz 2,
-
-b)  
-bei dem Pflegegeld nach Absatz 8 Satz 3, § 27d Abs. 5 Satz 1 Nr. 2 sowie § 27d Abs. 5 Satz 2 und 3
-
-entsprechend anzuwenden.
-
-(12) Beschädigte haben bei der Hilfe zur Pflege für ein volljähriges Kind Einkommen und Vermögen bis zur Höhe des Betrages nach § 27h Abs. 2 Satz 3 einzusetzen, soweit das Einkommen die für die Leistung maßgebliche Einkommensgrenze nach § 25e Abs. 1 oder § 26c Abs. 11 oder das Vermögen die Vermögensgrenze nach § 25f übersteigt.
+(6) Werden Leistungen der Hilfe zur Pflege für ein volljähriges Kind der Beschädigten erbracht, haben Beschädigte Einkommen und Vermögen bis zur Höhe des Betrages nach § 27h Absatz 2 Satz 3 einzusetzen, soweit das Einkommen die für die Leistung maßgebliche Einkommensgrenze nach § 25e Absatz 1 oder § 26c Absatz 5 oder das Vermögen die Vermögensgrenze nach § 25f übersteigt.
 
 ### § 26d
 
-(1) Beschädigte und Hinterbliebene mit eigenem Haushalt sollen Leistungen zur Weiterführung des Haushalts erhalten, wenn keiner der Haushaltsangehörigen den Haushalt führen kann und die Weiterführung des Haushalts geboten ist. Die Leistungen sollen in der Regel nur vorübergehend erbracht werden. Satz 2 gilt nicht, wenn durch die Leistungen die Unterbringung in einer stationären Einrichtung vermieden oder aufgeschoben werden kann.
+(1) Beschädigte und Hinterbliebene mit eigenem Haushalt sollen Leistungen zur Weiterführung des Haushalts erhalten, wenn weder sie selbst noch Haushaltsangehörige, mit denen sie zusammenleben, den Haushalt führen können und die Weiterführung des Haushalts geboten ist. Der Träger der Kriegsopferfürsorge soll darauf hinwirken, dass die Weiterführung des Haushalts durch Personen, die den Beschädigten und Hinterbliebenen nahestehen, oder im Wege der Nachbarschaftshilfe übernommen wird. Die Leistungen sollen in der Regel nur vorübergehend erbracht werden. Satz 3 gilt nicht, wenn durch die Leistungen die Unterbringung in einer stationären Einrichtung vermieden oder aufgeschoben werden kann.
 
 (2) Die Leistungen umfassen die persönliche Betreuung von Haushaltsangehörigen sowie die sonstige zur Weiterführung des Haushalts erforderliche Tätigkeit.
 
-(3) § 26c Abs. 7 Satz 1 und Abs. 9 Satz 1 und 2 gilt entsprechend.
+(3) Beschädigten und Hinterbliebenen im Sinne des Absatzes 1 sind die angemessenen Aufwendungen für eine haushaltsführende Person zu erstatten. Es können auch angemessene Beihilfen geleistet sowie Beiträge der haushaltsführenden Person für eine angemessene Alterssicherung übernommen werden, wenn diese nicht anderweitig sichergestellt ist. Ist neben oder anstelle der Weiterführung des Haushalts die Heranziehung einer besonderen Person zur Haushaltsführung erforderlich oder eine Beratung oder eine zeitweilige Entlastung der haushaltsführenden Person geboten, sind die angemessenen Kosten zu übernehmen.
 
 (4) Die Leistungen können auch durch Übernahme der angemessenen Kosten für eine vorübergehende anderweitige Unterbringung von Haushaltsangehörigen erbracht werden, wenn diese Unterbringung in besonderen Fällen neben oder statt der Weiterführung des Haushalts geboten ist.
 
 ### § 26e
 
-(1) Altenhilfe soll außer den Leistungen nach den übrigen Bestimmungen dieses Gesetzes Beschädigten und Hinterbliebenen erbracht werden. Sie soll dazu beitragen, Schwierigkeiten, die durch das Alter entstehen, zu verhüten, zu überwinden oder zu mildern und Beschädigten und Hinterbliebenen im Alter die Möglichkeit zu erhalten, am Leben in der Gemeinschaft teilzunehmen.
+(1) Altenhilfe soll außer den Leistungen nach den übrigen Bestimmungen dieses Gesetzes Beschädigten und Hinterbliebenen erbracht werden. Sie soll dazu beitragen, Schwierigkeiten, die durch das Alter entstehen, zu verhüten, zu überwinden oder zu mildern und Beschädigten und Hinterbliebenen im Alter die Möglichkeit zu erhalten, selbstbestimmt am Leben in der Gemeinschaft teilzunehmen und ihre Fähigkeiten zur Selbsthilfe zu stärken.
 
 (2) Als Leistungen der Altenhilfe kommen vor allem in Betracht:
 
@@ -991,7 +973,7 @@ entsprechend anzuwenden.
 Leistungen bei der Beschaffung und zur Erhaltung einer Wohnung, die den Bedürfnissen des alten Menschen entspricht,
 
 2.  
-Beratung und Unterstützung in allen Fragen der Aufnahme in eine Einrichtung, die der Betreuung alter Menschen dient,
+Beratung und Unterstützung im Vor- und Umfeld von Pflege, insbesondere in allen Fragen des Angebots an Wohnformen bei Unterstützungs-, Betreuungs- oder Pflegebedarf sowie an Diensten, die Betreuung oder Pflege leisten,
 
 3.  
 Leistungen in allen Fragen der Inanspruchnahme altersgerechter Dienste,
@@ -1008,6 +990,8 @@ Leistungen zu einer sonstigen Betätigung und zum gesellschaftlichen Engagement.
 (3) Leistungen nach Absatz 1 sollen auch erbracht werden, wenn sie der Vorbereitung auf das Alter dienen.
 
 (4) Altenhilfe soll ohne Rücksicht auf vorhandenes Einkommen oder Vermögen erbracht werden, soweit im Einzelfall Beratung und Unterstützung erforderlich ist.
+
+(5) Die Leistungen der Altenhilfe sind mit den übrigen Leistungen dieses Gesetzes, den Leistungen der örtlichen Altenhilfe und der kommunalen Infrastruktur zur Vermeidung sowie Verringerung der Pflegebedürftigkeit und zur Inanspruchnahme der Leistungen der Eingliederungshilfe zu verzahnen. Die Ergebnisse der Gesamtplanung nach § 58 des Zwölften Buches Sozialgesetzbuch sowie die Grundsätze der Koordination, Kooperation und Konvergenz der Leistungen nach den Vorschriften des Neunten Buches Sozialgesetzbuch sind zu berücksichtigen.
 
 ### § 27
 
@@ -1056,7 +1040,7 @@ für einen der Dauer des Grundwehrdienstes entsprechenden Zeitraum.
 
 ### § 27a
 
-Ergänzende Hilfe zum Lebensunterhalt ist Beschädigten und Hinterbliebenen zu erbringen, soweit der Lebensunterhalt nicht aus den übrigen Leistungen nach diesem Gesetz und dem einzusetzenden Einkommen und Vermögen bestritten werden kann. Für die ergänzende Hilfe zum Lebensunterhalt gelten die Bestimmungen des Dritten Kapitels des Zwölften Buches Sozialgesetzbuch unter Berücksichtigung der besonderen Lage der Beschädigten oder Hinterbliebenen entsprechend. Abweichend von § 50 des Zehnten Buches Sozialgesetzbuch sind 56 vom Hundert der bei der Leistung nach Satz 1 berücksichtigten Kosten der Unterkunft, mit Ausnahme der Kosten zur Heizungs- und Warmwasserversorgung, nicht zu erstatten. Satz 3 gilt nicht im Fall des § 45 Abs. 2 Satz 3 des Zehnten Buches Sozialgesetzbuch oder wenn neben der Leistung nach Satz 1 gleichzeitig Wohngeld nach dem Wohngeldgesetz geleistet worden ist.
+Ergänzende Hilfe zum Lebensunterhalt ist Beschädigten und Hinterbliebenen zu erbringen, soweit der Lebensunterhalt nicht aus den übrigen Leistungen nach diesem Gesetz und dem einzusetzenden Einkommen und Vermögen bestritten werden kann. Für die ergänzende Hilfe zum Lebensunterhalt gelten die Bestimmungen des Dritten Kapitels des Zwölften Buches Sozialgesetzbuch unter Berücksichtigung der besonderen Lage der Beschädigten oder Hinterbliebenen entsprechend.
 
 ### § 27b
 
@@ -1085,7 +1069,7 @@ Hilfe zum Aufbau oder zur Sicherung der Lebensgrundlage,
 Hilfen zur Gesundheit,
 
 3.  
-Eingliederungshilfe für behinderte Menschen,
+Eingliederungshilfe für Menschen mit Behinderungen,
 
 4.  
 Blindenhilfe,
@@ -1108,10 +1092,10 @@ a)
 der Eingliederungshilfe für behinderte Menschen nach § 53 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in einer stationären oder teilstationären Einrichtung,
 
 b)  
-der Versorgung der in § 53 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch genannten Personen mit Körperersatzstücken sowie mit größeren orthopädischen oder größeren anderen Hilfsmitteln (§ 31 des Neunten Buches Sozialgesetzbuch),
+der Versorgung der in § 53 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch genannten Personen mit Körperersatzstücken sowie mit größeren orthopädischen oder größeren anderen Hilfsmitteln (§ 47 des Neunten Buches Sozialgesetzbuch),
 
 c)  
-der Hilfe zur Pflege in einer stationären oder teilstationären Einrichtung, wenn sie voraussichtlich auf längere Zeit erforderlich ist, sowie bei der häuslichen Pflege, wenn der in § 26c Abs. 8 Satz 1 und 2 genannte Schweregrad der Pflegebedürftigkeit besteht,
+der Hilfe zur Pflege in einer stationären oder teilstationären Einrichtung, wenn sie voraussichtlich auf längere Zeit erforderlich ist, sowie bei der häuslichen Pflege von Pflegebedürftigen der Pflegegrade 2 oder 3,
 
 2.  
 in Höhe von 8,5 vom Hundert des Bemessungsbetrages in den Fällen
@@ -1120,13 +1104,13 @@ a)
 der Blindenhilfe nach § 72 des Zwölften Buches Sozialgesetzbuch,
 
 b)  
-des Pflegegeldes nach § 26c Abs. 8 Satz 3.
+des Pflegegeldes für Pflegebedürftige der Pflegegrade 4 oder 5.
 
-Der Familienzuschlag beträgt 40 vom Hundert des Grundbetrags des § 25e Abs. 1 Nr. 1. Für den nicht getrennt lebenden Ehegatten oder Lebenspartner beträgt der Familienzuschlag in den Fällen des Satzes 1 Nr. 2 die Hälfte des Grundbetrags des Satzes 1 Nr. 1, wenn beide Lebenspartner blind oder behindert im Sinne des § 1 Abs. 1 Satz 2 der Verordnung zur Durchführung des § 90 Abs. 2 Nr. 9 des Zwölften Buches Sozialgesetzbuch sind.
+Der Familienzuschlag beträgt 40 vom Hundert des Grundbetrags des § 25e Abs. 1 Nr. 1. Für den nicht getrennt lebenden Ehegatten oder Lebenspartner beträgt der Familienzuschlag in den Fällen des Satzes 1 Nummer 2 die Hälfte des Grundbetrags des Satzes 1 Nummer 1, wenn beide Ehegatten oder Lebenspartner blind sind oder die Voraussetzungen des § 72 Absatz 5 des Zwölften Buches Sozialgesetzbuch erfüllen oder so schwer behindert sind, dass sie als Beschädigte die Pflegezulage nach den Stufen III bis VI nach § 35 Absatz 1 Satz 4 erhielten.
 
 (6) Größere orthopädische oder größere andere Hilfsmittel im Sinne des Absatzes 5 Satz 1 Nr. 1 Buchstabe b sind solche, deren Preis mindestens 180 Euro beträgt. Die Leistungen nach § 8 Abs. 1, § 9 Abs. 2 und § 10 Abs. 6 der Eingliederungshilfe-Verordnung gelten als Hilfe im Sinne des Absatzes 5 Satz 1 Nr. 1 Buchstabe b; das Gleiche gilt für die besondere Hilfe nach § 28 Abs. 1 Nr. 2 der Verordnung zur Kriegsopferfürsorge.
 
-(7) Bei der Eingliederungshilfe für ein behindertes Kind gilt § 26c Abs. 12 entsprechend.
+(7) Bei der Eingliederungshilfe für ein behindertes Kind gilt § 26c Absatz 6 entsprechend.
 
 ### § 27e
 
@@ -1148,7 +1132,7 @@ Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates durch Recht
 
 (1) Haben Beschädigte oder Hinterbliebene für die Zeit, für die Hilfe erbracht wird, nach bürgerlichem Recht einen Unterhaltsanspruch, geht dieser bis zur Höhe der geleisteten Aufwendungen zusammen mit dem unterhaltsrechtlichen Auskunftsanspruch auf den Träger der Kriegsopferfürsorge über. Der Übergang des Anspruchs ist ausgeschlossen, soweit der Unterhaltsanspruch durch laufende Zahlungen erfüllt wird. Gleiches gilt, wenn Unterhaltspflichtige mit Beschädigten oder Hinterbliebenen im zweiten oder in einem entfernteren Grad verwandt sind, sowie für Unterhaltsansprüche gegen Verwandte ersten Grades einer Beschädigten oder Hinterbliebenen, die schwanger ist oder ihr leibliches Kind bis zur Vollendung des 6. Lebensjahres betreut. § 115 des Zehnten Buches Sozialgesetzbuch geht der Regelung des Absatzes 1 Satz 1 vor.
 
-(2) Der Anspruch geht nur über, soweit Beschädigte und Hinterbliebene ihr Einkommen und Vermögen nach den Bestimmungen des § 25e Abs. 1, § 25f Abs. 1 bis 4, § 26b Abs. 4, § 26c Abs. 11 sowie § 27d Abs. 5 einzusetzen haben. Der Übergang des Anspruchs gegen einen nach bürgerlichem Recht Unterhaltspflichtigen ist ausgeschlossen, wenn dies eine unbillige Härte bedeuten würde. Der Anspruch volljähriger Unterhaltsberechtigter, die Eingliederungshilfe oder Hilfe zur Pflege erhalten, gegenüber ihren Eltern geht wegen Leistungen nach den §§ 26c und 27d nur in Höhe von bis zu 26 Euro monatlich, wegen Leistungen nach § 27a nur in Höhe von bis zu 20 Euro monatlich über. Es wird vermutet, dass der Anspruch in Höhe der genannten Beträge übergeht und mehrere Unterhaltspflichtige zu gleichen Teilen haften; die Vermutung kann widerlegt werden. Die in Satz 3 genannten Beträge verändern sich zum gleichen Zeitpunkt und um denselben Vomhundertsatz, um den sich das Kindergeld verändert.
+(2) Der Anspruch geht nur über, soweit Beschädigte und Hinterbliebene ihr Einkommen und Vermögen nach den Bestimmungen des § 25e Abs. 1, § 25f Abs. 1 bis 4, § 26b Abs. 4, § 26c Absatz 5 sowie § 27d Abs. 5 einzusetzen haben. Der Übergang des Anspruchs gegen einen nach bürgerlichem Recht Unterhaltspflichtigen ist ausgeschlossen, wenn dies eine unbillige Härte bedeuten würde. Der Anspruch volljähriger Unterhaltsberechtigter, die Eingliederungshilfe oder Hilfe zur Pflege erhalten, gegenüber ihren Eltern geht wegen Leistungen nach den §§ 26c und 27d nur in Höhe von bis zu 26 Euro monatlich, wegen Leistungen nach § 27a nur in Höhe von bis zu 20 Euro monatlich über. Es wird vermutet, dass der Anspruch in Höhe der genannten Beträge übergeht und mehrere Unterhaltspflichtige zu gleichen Teilen haften; die Vermutung kann widerlegt werden. Die in Satz 3 genannten Beträge verändern sich zum gleichen Zeitpunkt und um denselben Vomhundertsatz, um den sich das Kindergeld verändert.
 
 (3) Für die Vergangenheit kann der Träger der Kriegsopferfürsorge den übergegangenen Unterhalt außer unter den Voraussetzungen des Bürgerlichen Rechts nur von der Zeit an fordern, zu welcher er dem Unterhaltspflichtigen die Gewährung der Hilfe schriftlich mitgeteilt hat. Wenn die Hilfe voraussichtlich auf längere Zeit gewährt werden muß, kann der Träger der Kriegsopferfürsorge bis zur Höhe der bisherigen monatlichen Aufwendungen auch auf künftige Leistungen klagen.
 
@@ -1161,6 +1145,25 @@ Der erstattungsberechtigte Träger der Kriegsopferfürsorge kann die Feststellun
 ### § 27j
 
 Pflegebedürftige, die bis zum 31. März 1995 nach § 26c Abs. 6 in der bis zum 31. März 1995 geltenden Fassung Pflegegeld bezogen haben, erhalten das Pflegegeld insoweit weiter, als es den Pflegegeldanspruch nach § 37 des Elften Buches Sozialgesetzbuch übersteigt und die geltenden Vorschriften des Bundesversorgungsgesetzes ungeachtet des § 26c den Leistungsbezug nicht ausschließen; dabei bleibt eine Anrechnung der Geldleistung nach § 57 des Fünften Buches Sozialgesetzbuch in der bis zum 31. März 1995 geltenden Fassung außer Betracht. Gleiches gilt, soweit Pflegebedürftige, die bis zum 31. März 1995 Pflegegeld nach § 26c Abs. 6 in der bis zum 31. März 1995 geltenden Fassung und daneben Leistungen zur hauswirtschaftlichen Versorgung nach diesem Gesetz bezogen, deshalb geringere Leistungen für hauswirtschaftliche Versorgung nach diesem Gesetz erhalten, weil hierauf der auf die hauswirtschaftliche Versorgung entfallende Teil des Pflegegeldes nach dem Elften Buch Sozialgesetzbuch angerechnet wird.
+
+### § 27k
+
+(1) Pflegebedürftige, deren Pflegebedürftigkeit nach § 26c in der am 31. Dezember 2016 geltenden Fassung festgestellt worden ist und bei denen spätestens am 31. Dezember 2016 die Voraussetzungen auf Leistungen nach § 26c in der am 31. Dezember 2016 geltenden Fassung vorliegen, werden ab dem 1. Januar 2017 ohne erneute Antragstellung und ohne erneute Begutachtung wie folgt in die Pflegegrade übergeleitet:
+
+1.  
+Pflegebedürftige mit Pflegestufe I in den Pflegegrad 2,
+
+2.  
+Pflegebedürftige mit Pflegestufe II in den Pflegegrad 3,
+
+3.  
+Pflegebedürftige mit Pflegestufe III in den Pflegegrad 4.
+
+(2) Die Überleitung in die Pflegegrade nach § 140 des Elften Buches Sozialgesetzbuch ist für den Träger der Kriegsopferfürsorge bindend.
+
+### § 27l
+
+Einer Person, die am 31. Dezember 2016 einen Anspruch auf Leistungen nach § 26c in der am 31. Dezember 2016 geltenden Fassung hat, sind die ihr am 31. Dezember 2016 zustehenden Leistungen über den 31. Dezember 2016 hinaus bis zum Abschluss des von Amts wegen zu betreibenden Verfahrens zur Ermittlung und Feststellung des Pflegegrades und des notwendigen pflegerischen Bedarfs nach § 26c Absatz 1 in Verbindung mit § 63a des Zwölften Buches Sozialgesetzbuch in der ab dem 1. Januar 2017 geltenden Fassung weiter zu gewähren. Soweit Personen zugleich Leistungen nach dem Elften Buch Sozialgesetzbuch in der ab dem 1. Januar 2017 geltenden Fassung erhalten, sind diese anzurechnen; dies gilt nicht für die Zuschläge nach § 141 Absatz 2 des Elften Buches Sozialgesetzbuch sowie für den Entlastungsbetrag nach § 45b des Elften Buches Sozialgesetzbuch. Ergibt das Verfahren, dass für die Zeit ab dem 1. Januar 2017 die Leistungen für den notwendigen pflegerischen Bedarf, die nach § 26c in der ab dem 1. Januar 2017 geltenden Fassung zu gewähren sind, geringer sind als die nach Satz 1 gewährten Leistungen, so sind die nach Satz 1 gewährten höheren Leistungen nicht vom Leistungsbezieher zu erstatten; § 45 des Zehnten Buches Sozialgesetzbuch bleibt unberührt. Ergibt das Verfahren, dass für die Zeit ab dem 1. Januar 2017 die Leistungen für den notwendigen pflegerischen Bedarf, die nach § 26c in der ab dem 1. Januar 2017 geltenden Fassung zu gewähren sind, höher sind als die nach Satz 1 gewährten Leistungen, so sind die Leistungen rückwirkend nach § 26c in der ab dem 1. Januar 2017 geltenden Fassung zu gewähren.
 
 ### § 28
 
@@ -1194,7 +1197,7 @@ die Schädigung nachweisbar den weiteren Aufstieg im Beruf gehindert hat.
 
 (4) Einkommensverlust ist der Unterschiedsbetrag zwischen dem derzeitigen Bruttoeinkommen aus gegenwärtiger oder früherer Tätigkeit zuzüglich der Ausgleichsrente (derzeitiges Einkommen) und dem höheren Vergleichseinkommen. Haben Beschädigte Anspruch auf eine in der Höhe vom Einkommen beeinflußte Rente wegen Todes nach den Vorschriften anderer Sozialleistungsbereiche, ist abweichend von Satz 1 der Berechnung des Einkommensverlustes die Ausgleichsrente zugrunde zu legen, die sich ohne Berücksichtigung dieser Rente wegen Todes ergäbe. Ist die Rente aus der gesetzlichen Rentenversicherung gemindert, weil das Erwerbseinkommen in einem in der Vergangenheit liegenden Zeitraum, der nicht mehr als die Hälfte des Erwerbslebens umfaßt, schädigungsbedingt gemindert war, so ist die Rentenminderung abweichend von Satz 1 der Einkommensverlust. Das Ausmaß der Minderung wird ermittelt, indem der Rentenberechnung für Beschädigte Entgeltpunkte zugrunde gelegt werden, die sich ohne Berücksichtigung der Zeiten ergäben, in denen das Erwerbseinkommen der Beschädigten schädigungsbedingt gemindert ist.
 
-(5) Das Vergleichseinkommen errechnet sich nach den Sätzen 2 bis 5. Zur Ermittlung des Durchschnittseinkommens sind die Grundgehälter der Besoldungsgruppen der Bundesbesoldungsordnung A aus den vorletzten drei der Anpassung vorangegangenen Kalenderjahren heranzuziehen. Beträge des Durchschnittseinkommens bis 0,49 Euro sind auf volle Euro abzurunden und von 0,50 Euro an auf volle Euro aufzurunden. Der Mittelwert aus den drei Jahren ist um die Summe der Vomhundertsätze, um die sich das Durchschnittsentgelt der gesetzlichen Rentenversicherung in den beiden Kalenderjahren vor der Anpassung verändert hat, zu aktualisieren. Das Vergleichseinkommen ist jeweils vom Zeitpunkt der Rentenanpassung an maßgebend. Es ist durch das Bundesministerium für Arbeit und Soziales zu ermitteln und im Bundesanzeiger bekanntzugeben; die Beträge sind auf volle Euro aufzurunden. Abweichend von den Sätzen 1 bis 5 sind die Vergleichseinkommen der Tabellen 1 bis 4 der Bekanntmachung vom 14. Mai 1996 (BAnz. S. 6419) für die Zeit vom 1. Juli 1997 bis 30. Juni 1998 durch Anpassung der dort veröffentlichten Werte mit dem Vomhundertsatz zu ermitteln, der in § 56 Absatz 1 Satz 1 bestimmt ist; Satz 6 zweiter Halbsatz gilt entsprechend.
+(5) Das Vergleichseinkommen errechnet sich nach den Sätzen 2 bis 5. Zur Ermittlung des Durchschnittseinkommens sind die Grundgehälter der Besoldungsgruppen der Bundesbesoldungsordnung A aus den vorletzten drei der Anpassung vorangegangenen Kalenderjahren heranzuziehen. Beträge des Durchschnittseinkommens bis 0,49 Euro sind auf volle Euro abzurunden und von 0,50 Euro an auf volle Euro aufzurunden. Der Mittelwert aus den drei Jahren ist um den Prozentsatz anzupassen, der sich aus der Summe der für die Rentenanpassung des laufenden Jahres sowie des Vorjahres maßgebenden Veränderungsraten der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Absatz 2 in Verbindung mit § 228b des Sechsten Buches Sozialgesetzbuch) ergibt; die Veränderungsraten werden jeweils bestimmt, indem der Faktor für die Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer um eins vermindert und durch Vervielfältigung mit 100 in einen Prozentsatz umgerechnet wird. Das Vergleichseinkommen wird zum 1. Juli eines jeden Jahres neu festgesetzt; wenn das nach den Sätzen 1 bis 6 errechnete Vergleichseinkommen geringer ist, als das bisherige Vergleichseinkommen, bleibt es unverändert. Es ist durch das Bundesministerium für Arbeit und Soziales zu ermitteln und im Bundesanzeiger bekanntzugeben; die Beträge sind auf volle Euro aufzurunden. Abweichend von den Sätzen 1 bis 5 sind die Vergleichseinkommen der Tabellen 1 bis 4 der Bekanntmachung vom 14. Mai 1996 (BAnz. S. 6419) für die Zeit vom 1. Juli 1997 bis 30. Juni 1998 durch Anpassung der dort veröffentlichten Werte mit dem Vomhundertsatz zu ermitteln, der in § 56 Absatz 1 Satz 1 bestimmt ist; Satz 6 zweiter Halbsatz gilt entsprechend.
 
 (6) Berufsschadensausgleich nach Absatz 3 letzter Satzteil ist der Nettobetrag des Vergleicheinkommens (Absatz 7) abzüglich des Nettoeinkommens aus gegenwärtiger oder früherer Erwerbstätigkeit (Absatz 8), der Ausgleichsrente (§§ 32, 33) und des Ehegattenzuschlages (§ 33a). Absatz 4 Satz 2 gilt entsprechend.
 
@@ -1261,22 +1264,22 @@ wie in besonderen Fällen das Nettoeinkommen abweichend von Absatz 8 Satz 1 Nr. 
 
 |         |                       |
 |---------|-----------------------|
-| von  30 | in Höhe von 132 Euro, |
-| von  40 | in Höhe von 181 Euro, |
-| von  50 | in Höhe von 243 Euro, |
-| von  60 | in Höhe von 307 Euro, |
-| von  70 | in Höhe von 426 Euro, |
-| von  80 | in Höhe von 515 Euro, |
-| von  90 | in Höhe von 619 Euro, |
-| von 100 | in Höhe von 693 Euro. |
+| von 30  | in Höhe von 146 Euro, |
+| von 40  | in Höhe von 199 Euro, |
+| von 50  | in Höhe von 266 Euro, |
+| von 60  | in Höhe von 337 Euro, |
+| von 70  | in Höhe von 467 Euro, |
+| von 80  | in Höhe von 565 Euro, |
+| von 90  | in Höhe von 678 Euro, |
+| von 100 | in Höhe von 760 Euro. |
 
 Die Grundrente erhöht sich für Schwerbeschädigte, die das 65. Lebensjahr vollendet haben, bei einem Grad der Schädigungsfolgen
 
 |                   |             |
 |-------------------|-------------|
-| von 50 und 60     | um 27 Euro, |
-| von 70 und 80     | um 34 Euro, |
-| von mindestens 90 | um 41 Euro. |
+| von 50 und 60     | um 30 Euro, |
+| von 70 und 80     | um 37 Euro, |
+| von mindestens 90 | um 45 Euro. |
 
 (2) Schwerbeschädigung liegt vor, wenn ein Grad der Schädigungsfolgen von mindestens 50 festgestellt ist.
 
@@ -1284,14 +1287,14 @@ Die Grundrente erhöht sich für Schwerbeschädigte, die das 65. Lebensjahr voll
 
 (4) Beschädigte mit einem Grad der Schädigungsfolgen von 100, die durch die anerkannten Schädigungsfolgen gesundheitlich außergewöhnlich betroffen sind, erhalten eine monatliche Schwerstbeschädigtenzulage, die in folgenden Stufen gewährt wird:
 
-|           |            |
-|-----------|------------|
-| Stufe I   |  80 Euro,  |
-| Stufe II  | 165 Euro,  |
-| Stufe III | 246 Euro,  |
-| Stufe IV  | 329 Euro,  |
-| Stufe V   | 410 Euro,  |
-| Stufe VI  | 494 Euro.  |
+|           |           |
+|-----------|-----------|
+| Stufe I   | 88 Euro,  |
+| Stufe II  | 181 Euro, |
+| Stufe III | 269 Euro, |
+| Stufe IV  | 361 Euro, |
+| Stufe V   | 449 Euro, |
+| Stufe VI  | 542 Euro. |
 
 Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung den Personenkreis, der durch seine Schädigungsfolgen außergewöhnlich betroffen ist, sowie seine Einordnung in die Stufen I bis VI näher zu bestimmen.
 
@@ -1301,19 +1304,19 @@ Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates durch Recht
 
 (2) Die volle Ausgleichsrente beträgt monatlich bei einem Grad der Schädigungsfolgen
 
-|                 |            |
-|-----------------|------------|
-| von  50 oder 60 | 426 Euro,  |
-| von  70 oder 80 | 515 Euro,  |
-| von  90         | 619 Euro,  |
-| von 100         | 693 Euro.  |
+|                |           |
+|----------------|-----------|
+| von 50 oder 60 | 467 Euro, |
+| von 70 oder 80 | 565 Euro, |
+| von 90         | 678 Euro, |
+| von 100        | 760 Euro. |
 
 ### § 33
 
 (1) Die volle Ausgleichsrente ist um das anzurechnende Einkommen zu mindern. Dieses ist, ausgehend vom Bruttoeinkommen, nach der nach Absatz 6 zu erlassenden Rechtsverordnung stufenweise so zu ermitteln, daß
 
 a)  
-bei Einkünften aus gegenwärtiger Erwerbstätigkeit ein Betrag in Höhe von 1,5 vom Hundert sowie bei den übrigen Einkünften ein Betrag in Höhe von 0,65 vom Hundert des Bemessungsbetrags von 29 978 Euro, jeweils auf volle Euro aufgerundet, freibleibt (Freibetrag)und
+bei Einkünften aus gegenwärtiger Erwerbstätigkeit ein Betrag in Höhe von 1,5 vom Hundert sowie bei den übrigen Einkünften ein Betrag in Höhe von 0,65 vom Hundert des Bemessungsbetrags von 32 682 Euro, jeweils auf volle Euro aufgerundet, freibleibt (Freibetrag)und
 
 b)  
 dem Beschädigten mit einem Grad der Schädigungsfolgen von 100 Ausgleichsrente nur zusteht, wenn seine Einkünfte aus gegenwärtiger Erwerbstätigkeit niedriger sind als ein Betrag in Höhe von einem Zwölftel oder seine übrigen Einkünfte niedriger sind als ein Betrag in Höhe von einem Zwanzigstel des in Buchstabe a genannten Bemessungsbetrags, aufgerundet auf volle Euro (Einkommensgrenze); diese Einkommensgrenze schließt auch die Beträge des Bruttoeinkommens ein, die mit den genannten Beträgen die gleiche Stufe gemeinsam haben.
@@ -1350,7 +1353,7 @@ wie das Bruttoeinkommen zu ermitteln ist.
 
 ### § 33a
 
-(1) Schwerbeschädigte erhalten für den Ehegatten oder Lebenspartner einen Zuschlag von 77 Euro monatlich. Den Zuschlag erhalten auch Schwerbeschädigte, deren Ehe oder Lebenspartnerschaft aufgelöst oder für nichtig erklärt worden ist, wenn sie im eigenen Haushalt für ein Kind im Sinne des § 33b Abs. 1 Satz 1 und der Absätze 2 bis 4 sorgen. Steht keine Ausgleichsrente zu, so gilt § 33 entsprechend mit folgender Maßgabe:
+(1) Schwerbeschädigte erhalten für den Ehegatten oder Lebenspartner einen Zuschlag von 85 Euro monatlich. Den Zuschlag erhalten auch Schwerbeschädigte, deren Ehe oder Lebenspartnerschaft aufgelöst oder für nichtig erklärt worden ist, wenn sie im eigenen Haushalt für ein Kind im Sinne des § 33b Abs. 1 Satz 1 und der Absätze 2 bis 4 sorgen. Steht keine Ausgleichsrente zu, so gilt § 33 entsprechend mit folgender Maßgabe:
 
 a)  
 Das anzurechnende Einkommen ist nur insoweit zu berücksichtigen, als es nicht bereits zum Wegfall der Ausgleichsrente geführt hat.
@@ -1422,7 +1425,7 @@ Pflegezulage
 
 ### § 35
 
-(1) Solange Beschädigte infolge der Schädigung hilflos sind, wird eine Pflegezulage von 293 Euro (Stufe I) monatlich gezahlt. Hilflos im Sinne des Satzes 1 sind Beschädigte, wenn sie für eine Reihe von häufig und regelmäßig wiederkehrenden Verrichtungen zur Sicherung ihrer persönlichen Existenz im Ablauf eines jeden Tages fremder Hilfe dauernd bedürfen. Diese Voraussetzungen sind auch erfüllt, wenn die Hilfe in Form einer Überwachung oder Anleitung zu den in Satz 2 genannten Verrichtungen erforderlich ist oder wenn die Hilfe zwar nicht dauernd geleistet werden muß, jedoch eine ständige Bereitschaft zur Hilfeleistung erforderlich ist. Ist die Gesundheitsstörung so schwer, daß sie dauerndes Krankenlager oder dauernd außergewöhnliche Pflege erfordert, so ist die Pflegezulage je nach Lage des Falles unter Berücksichtigung des Umfangs der notwendigen Pflege auf 500, 711, 912, 1 185 oder 1 457 Euro (Stufen II, III, IV, V und VI) zu erhöhen. Für die Ermittlung der Hilflosigkeit und der Stufen der Pflegezulage sind die in der Verordnung zu § 30 Abs. 17 aufgestellten Grundsätze maßgebend. Blinde erhalten mindestens die Pflegezulage nach Stufe III. Hirnbeschädigte mit einem Grad der Schädigungsfolgen von 100 erhalten eine Pflegezulage mindestens nach Stufe I.
+(1) Solange Beschädigte infolge der Schädigung hilflos sind, wird eine Pflegezulage von 321 Euro (Stufe I) monatlich gezahlt. Hilflos im Sinne des Satzes 1 sind Beschädigte, wenn sie für eine Reihe von häufig und regelmäßig wiederkehrenden Verrichtungen zur Sicherung ihrer persönlichen Existenz im Ablauf eines jeden Tages fremder Hilfe dauernd bedürfen. Diese Voraussetzungen sind auch erfüllt, wenn die Hilfe in Form einer Überwachung oder Anleitung zu den in Satz 2 genannten Verrichtungen erforderlich ist oder wenn die Hilfe zwar nicht dauernd geleistet werden muß, jedoch eine ständige Bereitschaft zur Hilfeleistung erforderlich ist. Ist die Gesundheitsstörung so schwer, daß sie dauerndes Krankenlager oder dauernd außergewöhnliche Pflege erfordert, so ist die Pflegezulage je nach Lage des Falles unter Berücksichtigung des Umfangs der notwendigen Pflege auf 548, 779, 1 000, 1 299 oder 1 598 Euro (Stufen II, III, IV, V und VI) zu erhöhen. Für die Ermittlung der Hilflosigkeit und der Stufen der Pflegezulage sind die in der Verordnung zu § 30 Abs. 17 aufgestellten Grundsätze maßgebend. Blinde erhalten mindestens die Pflegezulage nach Stufe III. Hirnbeschädigte mit einem Grad der Schädigungsfolgen von 100 erhalten eine Pflegezulage mindestens nach Stufe I.
 
 (2) Wird fremde Hilfe im Sinne des Absatzes 1 von Dritten aufgrund eines Arbeitsvertrages geleistet und übersteigen die dafür aufzuwendenden angemessenen Kosten den Betrag der pauschalen Pflegezulage nach Absatz 1, wird die Pflegezulage um den übersteigenden Betrag erhöht. Leben Beschädigte mit ihren Ehegatten, Lebenspartnern oder einem Elternteil in häuslicher Gemeinschaft, ist die Pflegezulage so zu erhöhen, dass sie nur ein Viertel der von ihnen aufzuwendenden angemessenen Kosten aus der pauschalen Pflegezulage zu zahlen haben und ihnen mindestens die Hälfte der pauschalen Pflegezulage verbleibt. In Ausnahmefällen kann der verbleibende Anteil bis zum vollen Betrag der pauschalen Pflegezulage erhöht werden, wenn Ehegatten, Lebenspartner oder ein Elternteil von Pflegezulageempfängern mindestens der Stufe V neben den Dritten in außergewöhnlichem Umfang zusätzliche Hilfe leisten. Entstehen vorübergehend Kosten für fremde Hilfe, insbesondere infolge Krankheit der Pflegeperson, ist die Pflegezulage für jeweils höchstens sechs Wochen über Satz 2 hinaus so zu erhöhen, dass den Beschädigten die pauschale Pflegezulage in derselben Höhe wie vor der vorübergehenden Entstehung der Kosten verbleibt. Die Sätze 2 und 3 gelten nicht, wenn der Ehegatte, Lebenspartner oder Elternteil nicht nur vorübergehend keine Pflegeleistungen erbringt; § 40a Abs. 3 Satz 3 gilt.
 
@@ -1441,11 +1444,11 @@ Bestattungsgeld
 
 ### § 36
 
-(1) Beim Tod eines rentenberechtigten Beschädigten wird ein Bestattungsgeld gewährt. Es beträgt 1 674 Euro, wenn der Tod die Folge einer Schädigung ist, sonst 838 Euro. Der Tod gilt stets dann als Folge einer Schädigung, wenn ein Beschädigter an einem Leiden stirbt, das als Folge einer Schädigung rechtsverbindlich anerkannt und für das ihm im Zeitpunkt des Todes Rente zuerkannt war.
+(1) Beim Tod eines rentenberechtigten Beschädigten wird ein Bestattungsgeld gewährt. Es beträgt 1 835 Euro, wenn der Tod die Folge einer Schädigung ist, sonst 920 Euro. Der Tod gilt stets dann als Folge einer Schädigung, wenn ein Beschädigter an einem Leiden stirbt, das als Folge einer Schädigung rechtsverbindlich anerkannt und für das ihm im Zeitpunkt des Todes Rente zuerkannt war.
 
 (2) Vom Bestattungsgeld werden zunächst die Kosten der Bestattung bestritten und an den gezahlt, der die Bestattung besorgt hat. Das gilt auch, wenn die Kosten der Bestattung aus öffentlichen Mitteln bestritten worden sind. Bleibt ein Überschuß, so sind nacheinander der Ehegatte, der Lebenspartner, die Kinder, die Eltern, die Stiefeltern, die Pflegeeltern, die Enkel, die Großeltern, die Geschwister und die Geschwisterkinder bezugsberechtigt, wenn sie mit dem Verstorbenen zur Zeit des Todes in häuslicher Gemeinschaft gelebt haben. Fehlen solche Berechtigte, so wird der Überschuß nicht ausgezahlt.
 
-(3) Stirbt ein nichtrentenberechtigter Beschädigter an den Folgen einer Schädigung, so ist ein Bestattungsgeld bis zu 1 674 Euro zu zahlen, soweit Kosten der Bestattung entstanden sind.
+(3) Stirbt ein nichtrentenberechtigter Beschädigter an den Folgen einer Schädigung, so ist ein Bestattungsgeld bis zu 1 835 Euro zu zahlen, soweit Kosten der Bestattung entstanden sind.
 
 (4) Eine auf Grund anderer gesetzlicher Vorschriften für denselben Zweck zu gewährende Leistung ist auf das Bestattungsgeld anzurechnen.
 
@@ -1485,7 +1488,7 @@ Hinterbliebenenrente
 
 ### § 40
 
-Die Witwe oder der hinterbliebene Lebenspartner erhält eine Grundrente von 417 Euro monatlich.
+Die Witwe oder der hinterbliebene Lebenspartner erhält eine Grundrente von 457 Euro monatlich.
 
 ### § 40a
 
@@ -1530,7 +1533,7 @@ für mindestens ein Kind des Verstorbenen im Sinne des § 33b Abs. 2 oder ein ei
 
 Ausgleichsrente kann auch gewährt werden, wenn einer Witwe oder einem hinterbliebenen Lebenspartner aus anderen zwingenden Gründen die Ausübung einer Erwerbstätigkeit nicht möglich ist. Im Falle des Satzes 1 Buchstabe a gilt § 29 entsprechend.
 
-(2) Die volle Ausgleichsrente der Witwe oder des hinterbliebenen Lebenspartners beträgt monatlich 459 Euro.
+(2) Die volle Ausgleichsrente der Witwe oder des hinterbliebenen Lebenspartners beträgt monatlich 504 Euro.
 
 (3) Die volle Ausgleichsrente ist um das anzurechnende Einkommen zu mindern. Dieses ist, ausgehend vom Bruttoeinkommen, nach der nach Satz 4 in Verbindung mit § 33 Abs. 6 zu erlassenden Rechtsverordnung stufenweise so zu ermitteln, daß
 
@@ -1609,8 +1612,8 @@ Die Grundrente beträgt monatlich
 
 |                |           |
 |----------------|-----------|
-| bei Halbwaisen | 117 Euro, |
-| bei Vollwaisen | 220 Euro. |
+| bei Halbwaisen | 128 Euro, |
+| bei Vollwaisen | 241 Euro. |
 
 ### § 47
 
@@ -1618,8 +1621,8 @@ Die Grundrente beträgt monatlich
 
 |                |           |
 |----------------|-----------|
-| bei Halbwaisen | 206 Euro, |
-| bei Vollwaisen | 287 Euro. |
+| bei Halbwaisen | 226 Euro, |
+| bei Vollwaisen | 315 Euro. |
 
 (2) § 33 gilt mit Ausnahme von Absatz 1 Satz 2 Buchstabe b und Absatz 4 entsprechend.
 
@@ -1688,15 +1691,15 @@ Elternrente erhält, wer voll erwerbsgemindert oder erwerbsunfähig im Sinne des
 
 |                      |           |
 |----------------------|-----------|
-| bei einem Elternpaar | 564 Euro, |
-| bei einem Elternteil | 393 Euro. |
+| bei einem Elternpaar | 618 Euro, |
+| bei einem Elternteil | 431 Euro. |
 
 (2) Sind mehrere Kinder an den Folgen einer Schädigung gestorben, so erhöhen sich die in Absatz 1 genannten Beträge für jedes weitere Kind monatlich
 
 |                         |           |
 |-------------------------|-----------|
-| bei einem Elternpaar um | 103 Euro, |
-| bei einem Elternteil um | 77 Euro.  |
+| bei einem Elternpaar um | 113 Euro, |
+| bei einem Elternteil um | 85 Euro.  |
 
 Die Erhöhung wird auch gewährt für Kinder, die
 
@@ -1710,8 +1713,8 @@ infolge einer Schädigung im Sinne dieses Gesetzes oder von Gesetzen, die eine e
 
 |                         |           |
 |-------------------------|-----------|
-| bei einem Elternpaar um | 320 Euro, |
-| bei einem Elternteil um | 232 Euro. |
+| bei einem Elternpaar um | 351 Euro, |
+| bei einem Elternteil um | 255 Euro. |
 
 Absatz 2 Satz 2 gilt entsprechend.
 
@@ -1740,7 +1743,7 @@ Bestattungsgeld beim Tod von Hinterbliebenen
 
 ### § 53
 
-Beim Tod von versorgungsberechtigten Hinterbliebenen wird ein Bestattungsgeld nach Maßgabe der Vorschriften des § 36 gewährt. Es beträgt beim Tod einer Witwe oder des hinterbliebenen Lebenspartners, die mindestens ein waisenrenten- oder waisenbeihilfeberechtigtes Kind hinterlassen, 1 674 Euro, in allen übrigen Fällen 838 Euro.
+Beim Tod von versorgungsberechtigten Hinterbliebenen wird ein Bestattungsgeld nach Maßgabe der Vorschriften des § 36 gewährt. Es beträgt beim Tod einer Witwe oder des hinterbliebenen Lebenspartners, die mindestens ein waisenrenten- oder waisenbeihilfeberechtigtes Kind hinterlassen, 1 835 Euro, in allen übrigen Fällen 920 Euro.
 
 ### § 53a Beiträge zur Pflegeversicherung
 
@@ -1785,7 +1788,7 @@ Anpassung der Versorgungsbezüge
 
 ### § 56
 
-(1) Die Leistungen für Blinde (§ 14), der Pauschbetrag als Ersatz für Kleider- und Wäscheverschleiß (§ 15), die Grundrenten und die Schwerstbeschädigtenzulage (§ 31 Abs. 1 und 5, §§ 40 und 46), die Ausgleichs- und Elternrenten (§§ 32, 41, 47 und 51), der Ehegattenzuschlag (§ 33a), die Pflegezulage (§ 35) und das Bestattungsgeld (§§ 36, 53) werden jeweils entsprechend dem Vomhundertsatz angepaßt, um den sich die Renten der gesetzlichen Rentenversicherung verändern. Gleichzeitig wird der Bemessungsbetrag (§ 33 Abs. 1) entsprechend dem Vomhundertsatz angepaßt, um den sich die Bruttolöhne und -gehälter je Arbeitnehmer im Kalenderjahr vor der Anpassung gegenüber dem Vorjahr verändert hat; dabei sind die für die Bestimmung des aktuellen Rentenwerts in der gesetzlichen Rentenversicherung maßgebenden Daten zugrunde zu legen.
+(1) Die Leistungen für Blinde (§ 14), der Pauschbetrag als Ersatz für Kleider- und Wäscheverschleiß (§ 15), die Grundrenten und die Schwerstbeschädigtenzulage (§ 31 Abs. 1 und 4, §§ 40 und 46), die Ausgleichs- und Elternrenten (§§ 32, 41, 47 und 51), der Ehegattenzuschlag (§ 33a), die Pflegezulage (§ 35) und das Bestattungsgeld (§§ 36, 53) werden jeweils entsprechend dem Vomhundertsatz angepaßt, um den sich die Renten der gesetzlichen Rentenversicherung verändern. Gleichzeitig wird der Bemessungsbetrag (§ 33 Absatz 1) entsprechend dem Prozentsatz angepasst, um den sich die für die Rentenanpassung maßgebenden Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Absatz 2 in Verbindung mit § 228b des Sechsten Buches Sozialgesetzbuch) verändern.
 
 (2) Die Bundesregierung hat durch Rechtsverordnung mit Zustimmung des Bundesrates die in §§ 14, 15, 31 Absatz 1 und 4, 32, 33 Abs 1, 33a, 35, 36, 40, 41, 46, 47, 51 und 53 bestimmten Beträge entsprechend Absatz 1 jeweils zum gleichen Zeitpunkt, zu dem die Renten der gesetzlichen Rentenversicherung angepasst werden, zu ändern. Dabei sind in § 15 die dort genannten Pauschbeträge durch Multiplikation der niedrigsten und der höchsten Bewertungszahl mit dem Multiplikator zu ermitteln. Die sich nach Satz 1 und 2 ergebenden Beträge sind bis 0,49 Euro auf volle Euro abzurunden und ab 0,50 Euro auf volle Euro aufzurunden. Abweichend hiervon ist der Multiplikator in § 15 auf 3 Dezimalstellen nach dem Komma zu runden.
 
@@ -1884,7 +1887,7 @@ in der Person des Berechtigten ein von ihm zu vertretender wichtiger Grund, insb
 Krankenhilfe nach § 26b,
 
 2.  
-Hilfe zur Pflege nach § 26c Absatz 8,
+Pflegegeld nach § 26c Absatz 1,
 
 3.  
 ergänzende Hilfe zum Lebensunterhalt nach § 27a.
@@ -1895,7 +1898,7 @@ Dasselbe gilt für die mit Berechtigten nach Satz 1 in einem Haushalt lebenden A
 
 (3) Art, Form und Maß der Leistungen und der Einsatz von Einkommen und Vermögen richten sich nach den besonderen Verhältnissen des Aufenthaltsstaates unter Berücksichtigung der notwendigen Lebensbedürfnisse vor Ort. Die Träger der Kriegsopferfürsorge entscheiden nach pflichtgemäßem Ermessen über die Leistungserbringung.
 
-(4) Bei der Entscheidung über eine Leistung der Krankenhilfe nach § 26b und bei der Feststellung der Pflegestufe, die für Leistungen nach § 26c Absatz 8 erforderlich ist, kann das Zeugnis eines amtlich bestellten Arztes oder des Vertrauensarztes der zuständigen deutschen Auslandsvertretung hinzugezogen werden. Stehen solche Ärzte nicht zur Verfügung, kann das Zeugnis anderer Ärzte vor Ort hinzugezogen werden.
+(4) Bei der Entscheidung über eine Leistung der Krankenhilfe nach § 26b und bei der Feststellung des Pflegegrades, der für die Erbringung von Pflegegeld nach § 26c Absatz 1 erforderlich ist, kann das Zeugnis eines amtlich bestellten Arztes oder des Vertrauensarztes der zuständigen deutschen Auslandsvertretung hinzugezogen werden. Stehen solche Ärzte nicht zur Verfügung, kann das Zeugnis anderer Ärzte vor Ort hinzugezogen werden.
 
 (5) Sofern sich in einzelnen Fällen aus der Anwendung der Vorschrift des Absatzes 1 Satz 1 eine besondere Härte ergibt, können mit Zustimmung des zuständigen Bundesministeriums weitere in den §§ 26 bis 27d genannte Leistungen erbracht werden.
 
