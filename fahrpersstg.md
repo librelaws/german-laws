@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. 19.2.1987 I 640;
 
 Stand  
-zuletzt geändert durch Art. 2 G v. 31.7.2010 I 1057
+zuletzt geändert durch Art. 2 G v. 16.5.2017 I 1214
 
 ### 
 
@@ -27,16 +27,16 @@ von Kraftfahrzeugen mit einem zulässigen Gesamtgewicht, einschließlich Anhäng
 
 ### § 2 Rechtsverordnungen
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales mit Zustimmung des Bundesrates
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales mit Zustimmung des Bundesrates
 
 1.  
-zur Durchführung der Verordnung (EG) Nr. 2135/98 des Rates vom 24. September 1998 zur Änderung der Verordnung (EWG) Nr. 3821/85 und der Richtlinie 88/599/EWG (ABl. EG Nr. L 274 S. 1), der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates vom 15. März 2006 zur Harmonisierung bestimmter Sozialvorschriften im Straßenverkehr und zur Änderung der Verordnungen (EWG) Nr. 3821/85 und (EG) Nr. 2135/98 des Rates sowie zur Aufhebung der Verordnung (EWG) Nr. 3820/85 des Rates (ABl. EU Nr. L 102 S. 1), der Verordnung (EWG) Nr. 3821/85 des Rates vom 20. Dezember 1985 über das Kontrollgerät im Straßenverkehr (ABl. EG Nr. L 370 S. 8) sowie der Richtlinie 2006/22/EG des Europäischen Parlaments und des Rates vom 15. März 2006 über Mindestbedingungen für die Durchführung der Verordnungen (EWG) Nr. 3820/85 und (EWG) Nr. 3821/85 des Rates über Sozialvorschriften für Tätigkeiten im Kraftverkehr sowie zur Aufhebung der Richtlinie 88/599/EWG des Rates (ABl. EU Nr. L 102 S. 35), in der jeweils geltenden Fassung, Rechtsverordnungen
+zur Durchführung der Verordnung (EG) Nr. 2135/98 des Rates vom 24. September 1998 zur Änderung der Verordnung (EWG) Nr. 3821/85 und der Richtlinie 88/599/EWG (ABl. EG Nr. L 274 S. 1), der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates vom 15. März 2006 zur Harmonisierung bestimmter Sozialvorschriften im Straßenverkehr und zur Änderung der Verordnungen (EWG) Nr. 3821/85 und (EG) Nr. 2135/98 des Rates sowie zur Aufhebung der Verordnung (EWG) Nr. 3820/85 des Rates (ABl. EU Nr. L 102 S. 1), der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Fahrtenschreiber im Straßenverkehr, zur Aufhebung der Verordnung (EWG) Nr. 3821/85 des Rates über das Kontrollgerät im Straßenverkehr und zur Änderung der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates zur Harmonisierung bestimmter Sozialvorschriften im Straßenverkehr (ABl. L 60 vom 28.2.2014, S. 1) sowie der Richtlinie 2006/22/EG des Europäischen Parlaments und des Rates vom 15. März 2006 über Mindestbedingungen für die Durchführung der Verordnungen (EWG) Nr. 3820/85 und (EWG) Nr. 3821/85 des Rates über Sozialvorschriften für Tätigkeiten im Kraftverkehr sowie zur Aufhebung der Richtlinie 88/599/EWG des Rates (ABl. EU Nr. L 102 S. 35), in der jeweils geltenden Fassung, Rechtsverordnungen
 
 a)  
 über die Organisation, das Verfahren und die Mittel der Überwachung der Durchführung dieser Verordnungen,
 
 b)  
-über die Gestaltung und Behandlung der Tätigkeitsnachweise und Kontrollgeräte,
+über die Gestaltung und Behandlung der Tätigkeitsnachweise und Fahrtenschreiber,
 
 c)  
 über Ausnahmen von den Mindestaltersgrenzen für das Fahrpersonal sowie Ausnahmen von den Vorschriften über die ununterbrochene Lenkzeit, Fahrtunterbrechungen und Ruhezeiten,
@@ -45,9 +45,9 @@ d)
 über die Benutzung von Fahrzeugen und,
 
 e)  
-soweit es zur Durchsetzung der Rechtsakte der Europäischen Gemeinschaft erforderlich ist, zur Bezeichnung der Tatbestände, die als Ordnungswidrigkeiten nach § 8 Abs. 1 Nr. 1 Buchstabe b, Nr. 2 Buchstabe b und Nr. 4 Buchstabe b geahndet werden können,
+soweit es zur Durchsetzung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, zur Bezeichnung der Tatbestände, die als Ordnungswidrigkeiten nach § 8 Abs. 1 Nr. 1 Buchstabe b, Nr. 2 Buchstabe b und Nr. 4 Buchstabe b geahndet werden können,
 
-zu erlassen, soweit der Bundesrepublik Deutschland eine Regelung in den Artikeln 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21 und 22 der Verordnung (EG) Nr. 561/2006 sowie in den Artikeln 3, 15, 16 und 19 der Verordnung (EWG) Nr. 3821/85 und in deren Anhängen anheimgestellt oder auferlegt wird,
+zu erlassen, soweit der Bundesrepublik Deutschland eine Regelung in den Artikeln 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21 und 22 der Verordnung (EG) Nr. 561/2006, in den Artikeln 3, 21 bis 24, 26, 27, 29 und 32 bis 41 der Verordnung (EU) Nr. 165/2014 und in deren Anhängen anheimgestellt oder auferlegt wird,
 
 1a.  
 (weggefallen)
@@ -82,7 +82,7 @@ b)
 über Ruhezeiten und Ruhepausen,
 
 c)  
-über die Ausrüstung mit Kontrollgeräten und ihre Benutzung sowie über die Gestaltung und Behandlung der Tätigkeitsnachweise und
+über die Ausrüstung mit Fahrtenschreibern und ihre Benutzung sowie über die Gestaltung und Behandlung der Tätigkeitsnachweise und
 
 d)  
 über die Organisation, das Verfahren und die Mittel der Überwachung der Durchführung dieser Rechtsverordnungen,
@@ -91,19 +91,19 @@ e)
 über die Zulässigkeit tarifvertraglicher Regelungen über Arbeits-, Lenk-, Schicht- und Ruhezeiten sowie Ruhepausen und Fahrtunterbrechungen,
 
 4.  
-zur Führung eines zentralen Registers zum Nachweis der ausgestellten, abhanden gekommenen und beschädigten Fahrer-, Werkstatt-, Unternehmens- und Kontrollkarten (Zentrales Kontrollgerätkartenregister) eine Rechtsverordnung zu erlassen über
+zur Führung eines zentralen Registers zum Nachweis der ausgestellten, abhanden gekommenen und beschädigten Fahrer-, Werkstatt-, Unternehmens- und Kontrollkarten (Zentrales Fahrtenschreiberkartenregister) eine Rechtsverordnung zu erlassen über
 
 a)  
 die Speicherung der Identifizierungsdaten der Fahrer, Techniker, Unternehmen und Behörden, denen Fahrer-, Werkstatt-, Unternehmens- oder Kontrollkarten ausgestellt worden sind, und die Speicherung der Identifizierungsdaten der ausgestellten, verlorenen und defekten Fahrer-, Werkstatt-, Unternehmens- und Kontrollkarten,
 
 b)  
-die Übermittlung der Identifizierungsdaten, mit Ausnahme biometrischer Daten, an die öffentlichen Stellen, die für Verwaltungsmaßnahmen auf Grund der Verordnung (EWG) Nr. 3821/85 oder darauf beruhender Rechtsvorschriften oder für die Verfolgung von Straftaten oder Ordnungswidrigkeiten zuständig sind,
+die Übermittlung der Identifizierungsdaten, mit Ausnahme biometrischer Daten, an die öffentlichen Stellen, die für Verwaltungsmaßnahmen auf Grund, der Verordnung (EU) Nr. 165/2014 oder darauf beruhender Rechtsvorschriften oder für die Verfolgung von Straftaten oder Ordnungswidrigkeiten zuständig sind,
 
 c)  
 den automatisierten Abruf der Identifizierungsdaten, mit Ausnahme biometrischer Daten, durch die vorgenannten Stellen und zur Gewährleistung des Datenschutzes, insbesondere einer Kontrolle der Zulässigkeit der Abrufe, und der Datensicherheit,
 
 d)  
-die Löschung der Daten spätestens ein Jahr nach Ablauf der Gültigkeit der jeweiligen Karte,
+die Löschung der Daten spätestens fünf Jahre nach Ablauf der Gültigkeit der jeweiligen Karte,
 
 zu erlassen.
 
@@ -113,9 +113,9 @@ Mitglieder des Fahrpersonals dürfen als Arbeitnehmer nicht nach den zurückgele
 
 ### § 4 Aufsicht
 
-(1) Die Aufsicht über die Ausführung der Verordnungen (EG) Nr. 561/2006, (EWG) Nr. 3821/85 und der Verordnung (EG) Nr. 2135/98, des AETR sowie dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen obliegt den von den Landesregierungen bestimmten Behörden (Aufsichtsbehörden), soweit in diesem Gesetz nichts anderes bestimmt ist.
+(1) Die Aufsicht über die Ausführung der Verordnungen (EG) Nr. 561/2006, (EU) Nr. 165/2014 und der Verordnung (EG) Nr. 2135/98, des AETR sowie dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen obliegt den von den Landesregierungen bestimmten Behörden (Aufsichtsbehörden), soweit in diesem Gesetz nichts anderes bestimmt ist.
 
-(1a) Die Aufsichtsbehörde kann die erforderlichen Maßnahmen anordnen, die der Arbeitgeber zur Erfüllung der sich aus diesem Gesetz und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen ergebenden Pflichten zu treffen hat.
+(1a) Die Aufsichtsbehörde kann die erforderlichen Maßnahmen anordnen, die der Arbeitgeber, der Verlader, der Spediteur, der Reiseveranstalter, der Hauptauftragnehmer, der Unterauftragnehmer und die Fahrervermittlungsagentur zur Erfüllung der sich aus diesem Gesetz und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen ergebenden Pflichten zu treffen haben.
 
 (2) Unberührt bleibt die Zuständigkeit des Bundesamtes für Güterverkehr nach § 9 Abs. 2 dieses Gesetzes und nach § 11 Abs. 2 Nr. 3 Buchstabe a, § 12 Abs. 6 des Güterkraftverkehrsgesetzes.
 
@@ -127,7 +127,7 @@ die Auskünfte, die zur Ausführung der in Absatz 1 genannten Vorschriften erfor
 2.  
 die Unterlagen, die sich auf diese Angaben beziehen oder aus denen die Lohn- oder Gehaltszahlungen ersichtlich sind, zur Prüfung auszuhändigen oder einzusenden; werden die Unterlagen automatisiert gespeichert, sind sie den zuständigen Behörden auf deren Verlangen nach Maßgabe von Satz 12 durch Datenfernübertragung oder auf einem von der jeweiligen Behörde zu bestimmenden Datenträger nach Satz 11 zur Verfügung zu stellen.
 
-Mitglieder des Fahrpersonals haben die Schaublätter und Tätigkeitsnachweise der Vortage, die nicht mehr mitzuführen sind, unverzüglich dem Unternehmer auszuhändigen. Bei Einsatz eines Kontrollgerätes nach Anhang I B der Verordnung (EWG) Nr. 3821/85 hat der Unternehmer die auf der Fahrerkarte gespeicherten Daten in regelmäßigen Abständen zu kopieren. Hierzu haben ihm die Mitglieder des Fahrpersonals die jeweiligen Fahrerkarten zur Verfügung zu stellen. Der Unternehmer hat ferner die im Massenspeicher des Kontrollgerätes gespeicherten Daten in regelmäßigen Abständen zu kopieren. Der Unternehmer hat die von den Fahrerkarten und den Massenspeichern kopierten Daten unter Berücksichtigung der Grundsätze des Satzes 12 ein Jahr ab dem Zeitpunkt des Kopierens zu speichern. Der Unternehmer hat die Schaublätter im Sinne des Artikels 14 Abs. 2 der Verordnung (EWG) Nr. 3821/85 und die gemäß Artikel 16 Abs. 2 Satz 2 der Verordnung (EWG) Nr. 3821/85 sowie § 2 Abs. 3 Satz 1 und 2 der Fahrpersonalverordnung zu fertigenden Ausdrucke ein Jahr nach dem Ablauf der Mitführpflicht nach Artikel 15 Abs. 7 der Verordnung (EWG) Nr. 3821/85 aufzubewahren. Danach sind bis zum 31. März des auf das Kalenderjahr, in dem die Aufbewahrungsfrist endet, folgenden Kalenderjahres die Daten zu löschen und die Schaublätter und die gemäß Artikel 16 Abs. 2 Satz 2 der Verordnung (EWG) Nr. 3821/85 und § 2 Abs. 3 Satz 1 und 2 der Fahrpersonalverordnung zu fertigenden Ausdrucke zu vernichten, soweit sie nicht zur Erfüllung der Aufbewahrungspflichten nach § 16 Abs. 2 und § 21a Abs. 7 des Arbeitszeitgesetzes, § 147 Abs. 1 Nr. 5 in Verbindung mit Abs. 3 der Abgabenordnung und § 28f Abs. 1 Satz 1 des Vierten Buches Sozialgesetzbuch benötigt werden. Der Unternehmer hat dabei dafür Sorge zu tragen, dass eine lückenlose Dokumentation der Lenk- und Ruhezeiten gewährleistet ist und die Daten sowie die Schaublätter und die gemäß Artikel 16 Abs. 2 Satz 2 der Verordnung (EWG) Nr. 3821/85 und § 2 Abs. 3 Satz 1 und 2 der Fahrpersonalverordnung zu fertigenden Ausdrucke gegen Verlust und Beschädigung zu sichern. Er stellt den Mitgliedern des Fahrpersonals auf Verlangen eine Kopie der von ihrer Fahrerkarte kopierten Daten zur Verfügung. Artikel 10 Abs. 2 der Verordnung (EG) Nr. 561/2006 bleibt unberührt. Im Falle der Datenfernübertragung sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit, Unversehrtheit und Zurechenbarkeit der Daten gewährleisten; im Falle der Nutzung allgemein zugänglicher Netze sind dem jeweiligen Stand der Technik entsprechende Verschlüsselungsverfahren anzuwenden.
+Mitglieder des Fahrpersonals haben die Schaublätter und andere Tätigkeitsnachweise der Vortage, die nicht mehr mitzuführen sind, unverzüglich dem Unternehmer auszuhändigen. Bei Einsatz eines digitalen Fahrtenschreibers nach der Verordnung (EU) Nr. 165/2014 hat der Unternehmer die auf der Fahrerkarte gespeicherten Daten in regelmäßigen Abständen zu kopieren. Hierzu haben ihm die Mitglieder des Fahrpersonals die jeweiligen Fahrerkarten zur Verfügung zu stellen. Der Unternehmer hat ferner die im Massenspeicher des Fahrtenschreibers gespeicherten Daten in regelmäßigen Abständen zu kopieren. Der Unternehmer hat die von den Fahrerkarten und den Massenspeichern kopierten Daten unter Berücksichtigung der Grundsätze des Satzes 12 ein Jahr ab dem Zeitpunkt des Kopierens zu speichern. Der Unternehmer hat die Schaublätter im Sinne des Artikels 33 Absatz 2 der Verordnung (EU) Nr. 165/2014 und die gemäß Artikel 35 Absatz 2 und Artikel 37 Absatz 2 der Verordnung (EU) Nr. 165/2014 sowie § 2 Abs. 3 Satz 1 und 2 der Fahrpersonalverordnung zu fertigenden Ausdrucke und handschriftlichen Aufzeichnungen ein Jahr nach dem Ablauf der Mitführpflicht nach Artikel 36 Absatz 1 und 2 der Verordnung (EU) Nr. 165/2014 aufzubewahren. Danach sind bis zum 31. März des auf das Kalenderjahr, in dem die Aufbewahrungsfrist endet, folgenden Kalenderjahres die Daten zu löschen und die Schaublätter und die gemäß Artikel 35 Absatz 2 und Artikel 37 Absatz 2 der Verordnung (EU) Nr. 165/2014 und § 2 Abs. 3 Satz 1 und 2 der Fahrpersonalverordnung zu fertigenden Ausdrucke und handschriftlichen Aufzeichnungen zu vernichten, soweit sie nicht zur Erfüllung der Aufbewahrungspflichten nach § 16 Abs. 2 und § 21a Abs. 7 des Arbeitszeitgesetzes, § 147 Abs. 1 Nr. 5 in Verbindung mit Abs. 3 der Abgabenordnung, § 28f Abs. 1 Satz 1 des Vierten Buches Sozialgesetzbuch nach § 17 Absatz 2 des Gesetzes zur Regelung eines allgemeinen Mindestlohns, nach § 19 Absatz 2 des Arbeitnehmer-Entsendegesetzes oder nach § 17c Absatz 2 des Arbeitnehmerüberlassungsgesetzes benötigt werden. Der Unternehmer hat dabei dafür Sorge zu tragen, dass eine lückenlose Dokumentation der Lenk- und Ruhezeiten gewährleistet ist und die Daten sowie die Schaublätter und die gemäß Artikel 35 Absatz 2, Artikel 37 Absatz 2 der Verordnung (EU) Nr. 165/2014 und § 2 Abs. 3 Satz 1 und 2 der Fahrpersonalverordnung zu fertigenden Ausdrucke und handschriftlichen Aufzeichnungen gegen Verlust und Beschädigung zu sichern. Er stellt den Mitgliedern des Fahrpersonals auf Verlangen eine Kopie der von ihrer Fahrerkarte kopierten Daten zur Verfügung. Artikel 10 Abs. 2 der Verordnung (EG) Nr. 561/2006 bleibt unberührt. Im Falle der Datenfernübertragung sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit, Unversehrtheit und Zurechenbarkeit der Daten gewährleisten; im Falle der Nutzung allgemein zugänglicher Netze sind dem jeweiligen Stand der Technik entsprechende Verschlüsselungsverfahren anzuwenden.
 
 (4) Der zur Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
@@ -135,7 +135,7 @@ Mitglieder des Fahrpersonals haben die Schaublätter und Tätigkeitsnachweise de
 
 (6) (weggefallen)
 
-(7) Zuständige Behörde im Sinne des Artikels 4 des Anhangs zum AETR und der Artikel 7 und 12 Abs. 2 und 3 der Verordnung (EWG) Nr. 3821/85 ist das Kraftfahrt-Bundesamt.
+(7) Zuständige Behörde im Sinne des Artikels 4 des Anhangs zum AETR und der Artikel 15, 22 Absatz 3 und Artikel 24 Absatz 5 der Verordnung (EU) Nr. 165/2014 ist das Kraftfahrt-Bundesamt.
 
 ### § 4a Zuständigkeiten
 
@@ -143,27 +143,29 @@ Anträge auf Erteilung von Fahrer-, Werkstatt- oder Unternehmenskarten sind an d
 
 ### § 4b Fahrerlaubnisrechtliche Auskünfte
 
-Durch Abruf im automatisierten Verfahren dürfen aus dem Zentralen Fahrerlaubnisregister die nach § 49 Abs. 1 Nr. 1 bis 3, 5 bis 11 und 15 der Fahrerlaubnis-Verordnung gespeicherten Daten für Maßnahmen im Zusammenhang mit der Ausgabe und Kontrolle von Fahrerkarten nach der Verordnung (EWG) Nr. 3821/85 an die hierfür zuständigen Stellen im Inland sowie in einem Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum übermittelt werden.
+Durch Abruf im automatisierten Verfahren dürfen aus dem Zentralen Fahrerlaubnisregister die nach § 49 Absatz 1 Nummer 1 bis 3, 7 bis 13 und 17 der Fahrerlaubnis-Verordnung gespeicherten Daten für Maßnahmen im Zusammenhang mit der Ausgabe und Kontrolle von Fahrerkarten nach der Verordnung (EU) Nr. 165/2014 an die hierfür zuständigen Stellen im Inland sowie in einem Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum übermittelt werden.
 
-### § 4c Auskünfte aus dem Kontrollgerätkartenregister
+### § 4c Auskünfte aus dem Fahrtenschreiberkartenregister
 
-(1) Durch Abruf im automatisierten Verfahren dürfen aus dem Kontrollgerätkartenregister die nach § 12 der Fahrpersonalverordnung gespeicherten Daten für Maßnahmen im Zusammenhang mit der Ausgabe und Kontrolle von Fahrerkarten nach der Verordnung (EWG) Nr. 3821/85 an die hierfür zuständigen Behörden und Stellen im Inland, in einem Mitgliedstaat der Europäischen Union, in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum und in der Schweiz übermittelt werden.
+(1) Durch Abruf im automatisierten Verfahren dürfen aus dem Fahrtenschreiberkartenregister die nach § 12 der Fahrpersonalverordnung gespeicherten Daten für Maßnahmen im Zusammenhang mit der Ausgabe und Kontrolle von Fahrerkarten nach der Verordnung (EU) Nr. 165/2014 an die hierfür zuständigen Behörden und Stellen im Inland, in einem Mitgliedstaat der Europäischen Union, in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum und in der Schweiz übermittelt werden.
 
-(2) Die zuständigen Behörden und Stellen dürfen die nach § 12 der Fahrpersonalverordnung gespeicherten Daten im automatisierten Verfahren abrufen, soweit die Kenntnis dieser Daten für Maßnahmen im Zusammenhang mit der Ausgabe und Kontrolle von Fahrerkarten nach der Verordnung (EWG) Nr. 3821/85 erforderlich ist. Die Daten dürfen nur für diese Zwecke verwendet werden. Die Daten sind zu löschen, soweit sie zur Aufgabenerfüllung nicht mehr erforderlich sind.
+(2) Die zuständigen Behörden und Stellen dürfen die nach § 12 der Fahrpersonalverordnung gespeicherten Daten im automatisierten Verfahren abrufen, soweit die Kenntnis dieser Daten für Maßnahmen im Zusammenhang mit der Ausgabe und Kontrolle von Fahrerkarten nach der Verordnung (EU) Nr. 165/2014 erforderlich ist. Die Daten dürfen nur für diese Zwecke verwendet werden. Die Daten sind zu löschen, soweit sie zur Aufgabenerfüllung nicht mehr erforderlich sind.
 
-(3) Die für das Kontrollgerätkartenregister zuständige Stelle hat zu gewährleisten, dass die Übermittlung der Daten zumindest durch geeignete Stichprobenverfahren festgestellt und überprüft werden kann.
+(3) Die für das Fahrtenschreiberkartenregister zuständige Stelle hat zu gewährleisten, dass die Übermittlung der Daten zumindest durch geeignete Stichprobenverfahren festgestellt und überprüft werden kann.
 
 ### § 5 Anordnungsbefugnis, Sicherungsmaßnahmen, Zurückweisung an der Grenze
 
-(1) Werden bei einer Kontrolle auf Verlangen keine oder nicht vorschriftsmäßig geführte Tätigkeitsnachweise vorgelegt oder wird festgestellt, daß vorgeschriebene Unterbrechungen der Lenkzeit nicht eingelegt oder die höchstzulässige Tageslenkzeit überschritten oder einzuhaltende Mindestruhezeiten nicht genommen worden sind, können die zuständigen Behörden die Fortsetzung der Fahrt untersagen, bis die Voraussetzungen zur Weiterfahrt erfüllt sind. Tätigkeitsnachweise oder Kontrollgeräte, aus denen sich der Regelverstoß ergibt oder mit denen er begangen wurde, können zur Beweissicherung eingezogen werden; die Fahrerkarte darf während ihrer Gültigkeitsdauer nicht entzogen oder ihre Gültigkeit ausgesetzt werden, es sei denn, es wird festgestellt, dass die Karte gefälscht worden ist, der Fahrer eine Karte verwendet, deren Inhaber er nicht ist, oder die Ausstellung der Karte auf der Grundlage falscher Erklärungen oder gefälschter Dokumente erwirkt wurde.
+(1) Werden bei einer Kontrolle auf Verlangen keine oder nicht vorschriftsmäßig geführte Tätigkeitsnachweise vorgelegt oder wird festgestellt, daß vorgeschriebene Unterbrechungen der Lenkzeit nicht eingelegt oder die höchstzulässige Tageslenkzeit überschritten oder einzuhaltende Mindestruhezeiten nicht genommen worden sind, können die zuständigen Behörden die Fortsetzung der Fahrt untersagen, bis die Voraussetzungen zur Weiterfahrt erfüllt sind. Tätigkeitsnachweise oder Fahrtenschreiber, aus denen sich der Regelverstoß ergibt oder mit denen er begangen wurde, können zur Beweissicherung eingezogen werden; die Fahrerkarte darf während ihrer Gültigkeitsdauer nicht entzogen oder ihre Gültigkeit ausgesetzt werden, es sei denn, es wird festgestellt, dass die Karte gefälscht worden ist, der Fahrer eine Karte verwendet, deren Inhaber er nicht ist, oder die Ausstellung der Karte auf der Grundlage falscher Erklärungen oder gefälschter Dokumente erwirkt wurde.
+
+(1a) Ergeben sich bei einer Kontrolle konkrete Anhaltspunkte dafür, dass der Fahrtenschreiber nicht ordnungsgemäß funktioniert, kann die zuständige Behörde eine Prüfung des Fahrtenschreibers nach Maßgabe des § 57b Absatz 1 und 3 der Straßenverkehrs-Zulassungs-Ordnung anordnen. Abweichend von § 57b Absatz 1 Satz 1 der Straßenverkehrs-Zulassungs-Ordnung fallen dem Halter die Kosten der Prüfung nur zu Last, wenn festgestellt wird, dass Einbau, Zustand, Messgenauigkeit und Arbeitsweise des Fahrtenschreibers nicht vorschriftsmäßig sind.
 
 (2) Im grenzüberschreitenden Verkehr können Kraftfahrzeuge, die nicht in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zugelassen sind und in das Hoheitsgebiet der Bundesrepublik Deutschland einfahren wollen, in Fällen des Absatzes 1 an den Außengrenzen der Mitgliedstaaten der Europäischen Union zurückgewiesen werden.
 
-(3) Rechtsbehelfe gegen Anordnungen nach den Absätzen 1 und 2 sowie zur Durchsetzung der in § 4 Abs. 3 Satz 1 und Abs. 5 geregelten Pflichten haben keine aufschiebende Wirkung.
+(3) Rechtsbehelfe gegen Anordnungen nach den Absätzen 1, 1a und 2 sowie zur Durchsetzung der in § 4 Abs. 3 Satz 1 und Abs. 5 geregelten Pflichten haben keine aufschiebende Wirkung.
 
 ### § 6 Allgemeine Verwaltungsvorschriften
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales mit Zustimmung des Bundesrates zur Durchführung der in § 2 genannten oder auf § 2 beruhenden Vorschriften allgemeine Verwaltungsvorschriften erlassen, insbesondere über die Erteilung einer Verwarnung (§§ 56, 58 Abs. 2 des Gesetzes über Ordnungswidrigkeiten) wegen einer Ordnungswidrigkeit nach § 8 und darüber, in welchen Fällen eine solche Verwarnung nicht erteilt werden soll.
+Das Bundesministerium für Verkehr und digitale Infrastruktur kann im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales mit Zustimmung des Bundesrates zur Durchführung der in § 2 genannten oder auf § 2 beruhenden Vorschriften allgemeine Verwaltungsvorschriften erlassen, insbesondere über die Erteilung einer Verwarnung (§§ 56, 58 Abs. 2 des Gesetzes über Ordnungswidrigkeiten) wegen einer Ordnungswidrigkeit nach § 8 und darüber, in welchen Fällen eine solche Verwarnung nicht erteilt werden soll.
 
 ### § 7 Sicherheitsleistung
 
@@ -180,7 +182,7 @@ a)
 einer Rechtsverordnung nach § 2 Nr. 2 Buchstabe b oder Nr. 3 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 b)  
-einer Vorschrift der Verordnung (EG) Nr. 2135/98, der Verordnung (EWG) Nr. 3821/85 oder des AETR zuwiderhandelt, soweit eine Rechtsverordnung nach § 2 Nr. 1 Buchstabe e, Nr. 1a Buchstabe b oder Nr. 2 Buchstabe e für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+einer Vorschrift der Verordnung (EG) Nr. 2135/98, der Verordnung (EU) Nr. 165/2014 oder des AETR zuwiderhandelt, soweit eine Rechtsverordnung nach § 2 Nr. 1 Buchstabe e oder Nr. 2 Buchstabe e für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 c)  
 entgegen § 3 Satz 1 ein Mitglied des Fahrpersonals nach der zurückgelegten Fahrstrecke oder der Menge der beförderten Güter entlohnt,
@@ -198,13 +200,13 @@ g)
 entgegen § 4 Abs. 3 Satz 8 dort genannte Daten nicht oder nicht rechtzeitig löscht oder ein Schaublatt oder einen Ausdruck nicht oder nicht rechtzeitig vernichtet,
 
 h)  
-entgegen § 4 Abs. 3 Satz 9 nicht dafür Sorge trägt, dass eine lückenlose Dokumentation und Datensicherung erfolgt,
+entgegen § 4 Abs. 3 Satz 9 nicht dafür Sorge trägt, dass eine lückenlose Dokumentation oder Datensicherung erfolgt,
 
 i)  
 entgegen § 4 Abs. 5 Satz 5 eine Maßnahme nicht duldet oder
 
 j)  
-einer vollziehbaren Anordnung nach § 5 Abs. 1 Satz 1 oder § 7 zuwiderhandelt,
+einer vollziehbaren Anordnung nach § 5 Absatz 1 Satz 1 oder Absatz 1a Satz 1 oder § 7 zuwiderhandelt,
 
 2.  
 als Fahrer
@@ -213,7 +215,7 @@ a)
 einer Rechtsverordnung nach § 2 Nr. 2 Buchstabe b oder Nr. 3 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 b)  
-einer Vorschrift der Verordnung (EG) Nr. 2135/98, der Verordnung (EWG) Nr. 3821/85 oder des AETR zuwiderhandelt, soweit eine Rechtsverordnung nach § 2 Nr. 1 Buchstabe e, Nr. 1a Buchstabe b oder Nr. 2 Buchstabe e für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+einer Vorschrift der Verordnung (EG) Nr. 2135/98, der Verordnung (EU) Nr. 165/2014 oder des AETR zuwiderhandelt, soweit eine Rechtsverordnung nach § 2 Nr. 1 Buchstabe e oder Nr. 2 Buchstabe e für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 c)  
 entgegen § 4 Abs. 3 Satz 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder eine Unterlage nicht aushändigt,
@@ -228,7 +230,7 @@ f)
 entgegen § 4 Abs. 5 Satz 5 eine Maßnahme nicht duldet oder
 
 g)  
-einer vollziehbaren Anordnung nach § 5 Abs. 1 Satz 1 oder § 7 zuwiderhandelt oder
+einer vollziehbaren Anordnung nach § 5 Absatz 1 Satz 1 oder Absatz 1a Satz 1 oder § 7 zuwiderhandelt oder
 
 3.  
 als Fahrzeughalter entgegen § 4 Abs. 3 Satz 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder eine Unterlage nicht oder nicht rechtzeitig aushändigt, nicht oder nicht rechtzeitig einsendet oder nicht oder nicht rechtzeitig zur Verfügung stellt oder
@@ -240,11 +242,13 @@ a)
 einer Rechtsverordnung nach § 2 Nr. 2 Buchstabe b oder Nr. 3 Buchstabe c oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, oder
 
 b)  
-einer Vorschrift der Verordnung (EWG) Nr. 3821/85 oder des AETR zuwiderhandelt, soweit eine Rechtsverordnung nach § 2 Nr. 1 Buchstabe e oder Nr. 2 Buchstabe e für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+einer Vorschrift der Verordnung (EU) Nr. 165/2014 oder des AETR zuwiderhandelt, soweit eine Rechtsverordnung nach § 2 Nr. 1 Buchstabe e oder Nr. 2 Buchstabe e für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 und 3 mit einer Geldbuße bis zu fünfzehntausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 und 3 mit einer Geldbuße bis zu dreißigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-(3) Ordnungswidrigkeiten gemäß § 8 des Fahrpersonalgesetzes, die bis zum 10. April 2007 unter Geltung der Verordnung (EWG) Nr. 3820/85 begangen wurden, werden abweichend von § 4 Abs. 3 des Gesetzes über Ordnungswidrigkeiten nach den zum Zeitpunkt der Tat geltenden Bestimmungen geahndet.
+(3) Ordnungswidrigkeiten nach Absatz 1 Nummer 1 Buchstabe b, Nummer 2 Buchstabe b oder Nummer 4 Buchstabe b, die bis zum 1. März 2016 unter Geltung der Verordnung (EWG) Nr. 3821/85 begangen wurden, können abweichend von § 4 Absatz 3 des Gesetzes über Ordnungswidrigkeiten nach den zum Zeitpunkt der Tat geltenden Bestimmungen geahndet werden.
+
+(4) In den Fällen des Absatzes 1 Nummer 1 Buchstabe b, Nummer 2 Buchstabe b und Nummer 4 Buchstabe b kann eine Ordnungswidrigkeit wegen einer Zuwiderhandlung gegen das AETR auch dann geahndet werden, wenn die Ordnungswidrigkeit nicht im Geltungsbereich dieses Gesetzes begangen wurde.
 
 ### § 8a Bußgeldvorschriften
 
@@ -254,13 +258,15 @@ einer Vorschrift der Verordnung (EWG) Nr. 3821/85 oder des AETR zuwiderhandelt, 
 einen Schaffner oder Beifahrer einsetzt, der das in Artikel 5 genannte Mindestalter nicht erreicht hat,
 
 2.  
-nicht dafür sorgt, dass die in Artikel 6 Abs. 1 Satz 1, Abs. 2 und 3 genannten Lenkzeiten, die in Artikel 7 Satz 1 genannte Fahrtunterbrechung und die in Artikel 8 Abs. 2 Satz 1, Abs. 4 bis 7 genannten Ruhezeiten vom Fahrer eingehalten werden,
+nicht dafür sorgt, dass die in Artikel 6 Abs. 1 Satz 1, Abs. 2 oder 3 genannten Lenkzeiten, die in Artikel 7 Satz 1 genannte Fahrtunterbrechung oder die in Artikel 8 Abs. 2 Satz 1, Abs. 4 bis 7 genannten Ruhezeiten vom Fahrer eingehalten werden,
 
 3.  
 entgegen Artikel 16 Abs. 2 Satz 1 in Verbindung mit Abs. 3 Buchstabe a Halbsatz 1 einen Fahrplan oder einen Arbeitszeitplan nicht, nicht richtig oder nicht vollständig erstellt oder
 
 4.  
 entgegen Artikel 16 Abs. 3 Buchstabe c einen Arbeitszeitplan nicht oder nicht mindestens ein Jahr aufbewahrt.
+
+Im Fall von Satz 1 Nummer 2 sorgt der Unternehmer auch dann nicht dafür, dass die regelmäßige wöchentliche Ruhezeit nach Artikel 8 Absatz 6 eingehalten wird, wenn diese im Fahrzeug oder an einem Ort ohne geeignete Schlafmöglichkeit verbracht wird.
 
 (2) Ordnungswidrig handelt, wer als Fahrer gegen die Verordnung (EG) Nr. 561/2006 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -276,9 +282,11 @@ entgegen Artikel 12 Satz 2 Art oder Grund einer Abweichung nicht, nicht richtig,
 4.  
 entgegen Artikel 16 Abs. 2 Unterabs. 2 einen Auszug auf dem Arbeitszeitplan oder eine Ausfertigung des Linienfahrplans nicht mit sich führt.
 
+Im Fall von Satz 1 Nummer 1 wird die regelmäßige wöchentliche Ruhezeit nach Artikel 8 Absatz 6 auch dann nicht eingehalten, wenn diese im Fahrzeug oder an einem Ort ohne geeignete Schlafmöglichkeit verbracht wird.
+
 (3) Ordnungswidrig handelt, wer als Unternehmer, Verlader, Spediteur, Reiseveranstalter oder Fahrervermittler einen Beförderungszeitplan vertraglich vereinbart und nicht sicherstellt, dass dieser Beförderungszeitplan nicht gegen eine in Absatz 2 Nr. 1 genannte Vorschrift verstößt.
 
-(4) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 3 mit einer Geldbuße bis zu fünfzehntausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
+(4) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 3 mit einer Geldbuße bis zu dreißigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 (5) In den Fällen der Absätze 1 und 2 kann die Ordnungswidrigkeit auch dann geahndet werden, wenn sie nicht im Geltungsbereich dieses Gesetzes begangen wurde.
 
@@ -325,7 +333,7 @@ auf Ersuchen an Gerichte und die Behörden, die in Bezug auf die Aufgaben nach d
 3.  
 in den Fällen des § 9 Absatz 1 Satz 3 an die für die Kontrollen der Bestimmungen dieses Gesetzes auf dem Betriebsgelände zuständigen Verwaltungsbehörden.
 
-(2a) Die in Absatz 1 genannten Behörden haben Zuwiderhandlungen, die Anlass geben, an der Zuverlässigkeit des Unternehmers und der zur Führung der Kraftverkehrsgeschäfte bestellten Personen zu zweifeln, dem Unternehmen und der für das Unternehmen zuständigen Erlaubnisbehörde nach § 3 Abs. 7 des Güterkraftverkehrsgesetzes oder der Genehmigungsbehörde nach § 11 Abs. 1 des Personenbeförderungsgesetzes mitzuteilen. Zur Feststellung von Wiederholungsfällen haben sie die Zuwiderhandlungen der Angehörigen desselben Unternehmens zusammenzuführen.
+(2a) Die in Absatz 1 genannten Behörden haben Zuwiderhandlungen, die Anlass geben, an der Zuverlässigkeit des Unternehmers und der Verkehrsleiter zu zweifeln, dem Unternehmen und der für das Unternehmen zuständigen Erlaubnisbehörde nach § 3 Abs. 7 des Güterkraftverkehrsgesetzes oder der Genehmigungsbehörde nach § 11 Abs. 1 des Personenbeförderungsgesetzes mitzuteilen. Zur Feststellung von Wiederholungsfällen haben sie die Zuwiderhandlungen der Angehörigen desselben Unternehmens zusammenzuführen.
 
 (3) Eine Übermittlung unterbleibt, soweit hierdurch schutzwürdige Interessen des Betroffenen beeinträchtigt würden und nicht das öffentliche Interesse das Geheimhaltungsinteresse des Betroffenen überwiegt.
 
