@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 25.7.1997 I 1942;
 
 Stand  
-zuletzt geändert durch Art. 2 G v. 8.12.2007 I 2812
+zuletzt geändert durch Art. 2 G v. 17.7.2017 I 2531
 
 ### 
 
@@ -26,7 +26,7 @@ Erster Teil Aufbringung und Verwendung der Kohlenabgabe
 
 (2) Die zur Förderung des Bergarbeiterwohnungsbaues bis zum 31. Dezember 1996 zu Lasten des Treuhandvermögens eingegangenen Verpflichtungen bleiben von der Einstellung der Förderung nach Absatz 1 unberührt und werden durch die Treuhandstellen nach Maßgabe der getroffenen Vereinbarungen erfüllt.
 
-(3) Zur Abwicklung des Treuhandvermögens haben die Treuhandstellen den Überschuß der Einnahmen über die Ausgaben in Abstimmung mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung jeweils zum 30. Juni und 31. Dezember eines Jahres bis zur vollständigen Abwicklung des Treuhandvermögens an den Bundeshaushalt abzuführen. Das Aufkommen aus der Fehlbelegungsabgabe im Sinne des § 10 Abs. 2 Satz 2 des Gesetzes über den Abbau der Fehlsubventionierung im Wohnungswesen ist dem sozialen Wohnungsbau zuzuführen.
+(3) Zur Abwicklung des Treuhandvermögens haben die Treuhandstellen den Überschuß der Einnahmen über die Ausgaben in Abstimmung mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit jeweils zum 30. Juni und 31. Dezember eines Jahres bis zur vollständigen Abwicklung des Treuhandvermögens an den Bundeshaushalt abzuführen. Das Aufkommen aus der Fehlbelegungsabgabe im Sinne des § 10 Abs. 2 Satz 2 des Gesetzes über den Abbau der Fehlsubventionierung im Wohnungswesen ist dem sozialen Wohnungsbau zuzuführen.
 
 (4) Aus den Überschüssen stellt der Bund für den sozialen Wohnungsbau in den Haushaltsjahren 1997 und 1998 jeweils 250 Millionen Deutsche Mark, im Haushaltsjahr 1999 200 Millionen Deutsche Mark und im Haushaltsjahr 2000 150 Millionen Deutsche Mark als Verpflichtungsrahmen bereit, die im Bundeshaushaltsplan gesondert nachgewiesen werden. Aus dem Verpflichtungsrahmen von 250 Millionen Deutsche Mark für das Haushaltsjahr 1998 erhalten die kohlefördernden Länder einen Vorabanteil von 20 vom Hundert.
 
@@ -48,7 +48,7 @@ c)
 Witwen der vorgenannten Arbeitnehmer;
 
 d)  
-ehemalige sozialversicherte Arbeitnehmer des Kohlenbergbaues, die wegen einer im Zuge der Rationalisierung angeordneten oder durchgeführten Stillegung oder Teilstillegung des Kohlenbergwerks, bei dem sie beschäftigt waren, aus der Beschäftigung im Kohlenbergbau ausgeschieden sind, und deren Witwen. Dies gilt nur, wenn den betroffenen Arbeitnehmern eine anderweitige Beschäftigung im Kohlenbergbau zu zumutbaren Bedingungen nicht angeboten wurde. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen über die zumutbaren Bedingungen einer Weiterbeschäftigung im Kohlenbergbau nach den Gesichtspunkten des sozialen Besitzstandes, des zeitlichen Aufwandes und der räumlichen Entfernung zu einem anderweitigen Arbeitsplatz im Kohlenbergbau zu treffen.
+ehemalige sozialversicherte Arbeitnehmer des Kohlenbergbaues, die wegen einer im Zuge der Rationalisierung angeordneten oder durchgeführten Stillegung oder Teilstillegung des Kohlenbergwerks, bei dem sie beschäftigt waren, aus der Beschäftigung im Kohlenbergbau ausgeschieden sind, und deren Witwen. Dies gilt nur, wenn den betroffenen Arbeitnehmern eine anderweitige Beschäftigung im Kohlenbergbau zu zumutbaren Bedingungen nicht angeboten wurde. Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen über die zumutbaren Bedingungen einer Weiterbeschäftigung im Kohlenbergbau nach den Gesichtspunkten des sozialen Besitzstandes, des zeitlichen Aufwandes und der räumlichen Entfernung zu einem anderweitigen Arbeitsplatz im Kohlenbergbau zu treffen.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, daß Wohnungsberechtigte, die in den durch die Verordnung bezeichneten Gebieten eine Bergarbeiterwohnung bewohnen, die Wohnungsberechtigung für diese Wohnung nicht oder nur unter bestimmten Voraussetzungen verlieren, wenn sie nach Ablauf von fünf Jahren aus der Beschäftigung im Kohlenbergbau ausscheiden. In der Verordnung dürfen nur solche Gebiete bezeichnet werden, in denen in zumutbarer Entfernung von den Bergarbeiterwohnungen nicht mehr als ein Kohlenbergbauunternehmen tätig ist.
 
@@ -101,7 +101,7 @@ Zweiter Teil Verfahrensvorschriften
 
 ### § 12 Treuhandstellen
 
-Die treuhänderische Verwaltung des Treuhandvermögens wird von Stellen wahrgenommen, die das Bundesministerium für Verkehr, Bau und Stadtentwicklung beauftragt (Treuhandstellen). Die Treuhandstellen werden dem Bundesministerium für Verkehr, Bau und Stadtentwicklung von den für das Wohnungs- und Siedlungswesen zuständigen obersten Landesbehörden der Länder, in denen Kohlenbergbau betrieben wird, vorgeschlagen.
+Die treuhänderische Verwaltung des Treuhandvermögens wird von Stellen wahrgenommen, die das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit beauftragt (Treuhandstellen). Die Treuhandstellen werden dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit von den für das Wohnungs- und Siedlungswesen zuständigen obersten Landesbehörden der Länder, in denen Kohlenbergbau betrieben wird, vorgeschlagen.
 
 ### (XXXX) §§ 13 bis 15 (weggefallen)
 
@@ -111,7 +111,7 @@ Die treuhänderische Verwaltung des Treuhandvermögens wird von Stellen wahrgeno
 
 (1) Die Treuhandstelle hat das Treuhandvermögen für den Bund im Rahmen einer ordnungsgemäßen Geschäftsführung getrennt von anderem Vermögen zu verwalten.
 
-(2) Die Treuhandstelle sorgt für die Durchführung der abgeschlossenen Verträge und wickelt das Treuhandvermögen ab. Die bei der Durchführung dieser Aufgaben entstehenden notwendigen Verwaltungskosten der Treuhandstelle können, soweit sie nicht vom Darlehensnehmer zu tragen sind, mit Zustimmung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung aus Mitteln des Treuhandvermögens gedeckt werden.
+(2) Die Treuhandstelle sorgt für die Durchführung der abgeschlossenen Verträge und wickelt das Treuhandvermögen ab. Die bei der Durchführung dieser Aufgaben entstehenden notwendigen Verwaltungskosten der Treuhandstelle können, soweit sie nicht vom Darlehensnehmer zu tragen sind, mit Zustimmung des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit aus Mitteln des Treuhandvermögens gedeckt werden.
 
 ### § 17 Treuhandvermögen
 
@@ -119,11 +119,11 @@ Die treuhänderische Verwaltung des Treuhandvermögens wird von Stellen wahrgeno
 
 (2) Zu dem Treuhandvermögen gehören die Mittel, die das Bundesministerium für Raumordnung, Bauwesen und Städtebau bis zum 31. Dezember 1996 nach Maßgabe dieses Gesetzes in der bis zum 31. Dezember 1996 geltenden Fassung zur Verfügung gestellt hat. Zu dem Treuhandvermögen gehört auch, was die Treuhandstelle auf Grund eines zum Treuhandvermögen gehörenden Rechtes oder als Ersatz für die Zerstörung, Beschädigung oder Entziehung eines zum Treuhandvermögen gehörenden Gegenstandes oder mit Mitteln des Treuhandvermögens oder durch ein Rechtsgeschäft erwirbt, das sich auf das Treuhandvermögen bezieht.
 
-(3) Mittel, welche die Treuhandstelle darlehnsweise von einem Dritten erhält, gehören nur dann zu dem Treuhandvermögen, wenn das Bundesministerium für Verkehr, Bau und Stadtentwicklung der Darlehnsaufnahme zugestimmt hat.
+(3) Mittel, welche die Treuhandstelle darlehnsweise von einem Dritten erhält, gehören nur dann zu dem Treuhandvermögen, wenn das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit der Darlehnsaufnahme zugestimmt hat.
 
 ### § 18 Haftung des Treuhandvermögens
 
-(1) Die Treuhandstelle haftet Dritten mit dem Treuhandvermögen nur für Verbindlichkeiten, die sich auf das Treuhandvermögen beziehen; für Verbindlichkeiten aus einem von der Treuhandstelle aufgenommenen Darlehen haftet die Treuhandstelle mit dem Treuhandvermögen nur, wenn das Bundesministerium für Verkehr, Bau und Stadtentwicklung der Darlehnsaufnahme zugestimmt hat.
+(1) Die Treuhandstelle haftet Dritten mit dem Treuhandvermögen nur für Verbindlichkeiten, die sich auf das Treuhandvermögen beziehen; für Verbindlichkeiten aus einem von der Treuhandstelle aufgenommenen Darlehen haftet die Treuhandstelle mit dem Treuhandvermögen nur, wenn das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit der Darlehnsaufnahme zugestimmt hat.
 
 (2) Wird in das Treuhandvermögen wegen einer Verbindlichkeit, für welche die Treuhandstelle nicht mit dem Treuhandvermögen haftet, die Zwangsvollstreckung betrieben, so kann der Bund gegen die Zwangsvollstreckung nach Maßgabe des § 771 der Zivilprozeßordnung Widerspruch, die Treuhandstelle unter entsprechender Anwendung des § 767 Abs. 1 der Zivilprozeßordnung Einwendungen geltend machen.
 
@@ -135,7 +135,7 @@ Die treuhänderische Verwaltung des Treuhandvermögens wird von Stellen wahrgeno
 
 (1) Die Treuhandstellen unterstehen hinsichtlich des Treuhandvermögens der Aufsicht des Bundes.
 
-(2) Die Aufsicht wird durch das Bundesministerium für Verkehr, Bau und Stadtentwicklung ausgeübt.
+(2) Die Aufsicht wird durch das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit ausgeübt.
 
 (3) Die Treuhandstellen unterliegen hinsichtlich des Treuhandvermögens der Prüfung durch den Bundesrechnungshof.
 
@@ -156,9 +156,7 @@ Die Bergarbeiterwohnungen sind öffentlich geförderte Wohnungen im Sinne des §
 
 -
 
-### § 24 Bergmannswohnungen
-
-Auf Bergmannswohnungen im Sinne des § 3 Abs. 1 Buchstabe b des Gesetzes über Bergmannssiedlungen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 2330-5, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 1 des Gesetzes vom 8. Dezember 2007 (BGBl. I S. 2812) geändert worden ist, sind die Vorschriften des § 4 Abs. 1 Buchstabe d und der §§ 5 und 6 dieses Gesetzes entsprechend anzuwenden, soweit sich aus dem Gesetz über Bergmannssiedlungen nichts anderes ergibt.
+### § 24 (weggefallen)
 
 ### (XXXX) §§ 24a und 25 (weggefallen)
 
