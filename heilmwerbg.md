@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 19.10.1994 I 3068;
 
 Stand  
-zuletzt geändert durch Art. 5 G v. 19.10.2012 I 2192
+zuletzt geändert durch Art. 8a G v. 15.4.2015 I 583
 
 ### 
 
@@ -183,7 +183,7 @@ aus der Fachliteratur entnommene Zitate, Tabellen oder sonstige Darstellungen ni
 (1) Es ist unzulässig, Zuwendungen und sonstige Werbegaben (Waren oder Leistungen) anzubieten, anzukündigen oder zu gewähren oder als Angehöriger der Fachkreise anzunehmen, es sei denn, dass
 
 1.  
-es sich bei den Zuwendungen oder Werbegaben um Gegenstände von geringem Wert, die durch eine dauerhafte und deutlich sichtbare Bezeichnung des Werbenden oder des beworbenen Produktes oder beider gekennzeichnet sind, oder um geringwertige Kleinigkeiten handelt;
+es sich bei den Zuwendungen oder Werbegaben um Gegenstände von geringem Wert, die durch eine dauerhafte und deutlich sichtbare Bezeichnung des Werbenden oder des beworbenen Produktes oder beider gekennzeichnet sind, oder um geringwertige Kleinigkeiten handelt; Zuwendungen oder Werbegaben sind für Arzneimittel unzulässig, soweit sie entgegen den Preisvorschriften gewährt werden, die auf Grund des Arzneimittelgesetzes gelten;
 
 2.  
 die Zuwendungen oder Werbegaben in
@@ -232,7 +232,7 @@ Unzulässig ist eine Werbung für die Erkennung oder Behandlung von Krankheiten,
 
 (1) Für verschreibungspflichtige Arzneimittel darf nur bei Ärzten, Zahnärzten, Tierärzten, Apothekern und Personen, die mit diesen Arzneimitteln erlaubterweise Handel treiben, geworben werden.
 
-(2) Für Arzneimittel, die psychotrope Wirkstoffe mit der Gefahr der Abhängigkeit enthalten und die dazu bestimmt sind, bei Menschen die Schlaflosigkeit oder psychische Störungen zu beseitigen oder die Stimmungslage zu beeinflussen, darf außerhalb der Fachkreise nicht geworben werden.
+(2) Für Arzneimittel, die psychotrope Wirkstoffe mit der Gefahr der Abhängigkeit enthalten und die dazu bestimmt sind, bei Menschen die Schlaflosigkeit oder psychische Störungen zu beseitigen oder die Stimmungslage zu beeinflussen, darf außerhalb der Fachkreise nicht geworben werden. Dies gilt auch für Arzneimittel, die zur Notfallkontrazeption zugelassen sind.
 
 -
 -
