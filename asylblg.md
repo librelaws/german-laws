@@ -5,10 +5,10 @@ Neuf
 Neugefasst durch Bek. v. 5.8.1997 I 2022;
 
 Stand  
-Zuletzt geändert durch Art. 2 G v. 20.10.2015 I 1722
+Zuletzt geändert durch Art. 3 G v. 11.3.2016 I 390
 
 Hinweis  
-Änderung durch Art. 3 G v. 11.3.2016 I 390 (Nr. 12) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 3 Abs. 9 G v. 26.7.2016 I 1824 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -248,7 +248,13 @@ der § 99 über die Auskunftspflicht von Angehörigen, Unterhaltspflichtigen ode
 3.  
 die §§ 102 bis 114 über Erstattungsansprüche der Leistungsträger untereinander.
 
-§ 44 Absatz 4 Satz 1 des Zehnten Buches Sozialgesetzbuch gilt mit der Maßgabe, dass an die Stelle des Zeitraums von vier Jahren ein Zeitraum von einem Jahr tritt.
+§ 44 des Zehnten Buches Sozialgesetzbuch gilt jedoch nur mit der Maßgabe, dass
+
+1.  
+rechtswidrige nicht begünstigende Verwaltungsakte nach den Absätzen 1 und 2 nicht später als vier Jahre nach Ablauf des Jahres, in dem der Verwaltungsakt bekanntgegeben wurde, zurückzunehmen sind; ausreichend ist, wenn die Rücknahme innerhalb dieses Zeitraums beantragt wird,
+
+2.  
+anstelle des Zeitraums von vier Jahren nach Absatz 4 Satz 1 ein Zeitraum von einem Jahr tritt.
 
 (5) § 118 des Zwölften Buches Sozialgesetzbuch sowie die auf Grund des § 120 Abs. 1 des Zwölften Buches Sozialgesetzbuch oder des § 117 des Bundessozialhilfegesetzes erlassenen Rechtsverordnungen sind entsprechend anzuwenden.
 
