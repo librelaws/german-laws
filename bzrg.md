@@ -2,13 +2,10 @@ Gesetz über das Zentralregister und das Erziehungsregister (BZRG)
 =================================================================
 
 Neuf  
-Neugefasst durch Bek. v. 21.9.1984 I 1229, 1985 I 195
+Neugefasst durch Bek. v. 21.9.1984 I 1229, 1985 I 195;
 
 Stand  
-Zuletzt geändert durch Art. 5 G v. 23.6.2017 I 1822
-
-Hinweis  
-Änderung durch Art. 1 G v. 18.7.2017 I 2732 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+zuletzt geändert durch Art. 1 G v. 18.7.2017 I 2732
 
 ### 
 
@@ -514,7 +511,7 @@ eine Tätigkeit, die in einer Buchstabe a vergleichbaren Weise geeignet ist, Kon
 
 ### § 30b Europäisches Führungszeugnis
 
-(1) Personen, die in der Bundesrepublik Deutschland wohnen, aber die Staatsangehörigkeit eines anderen Mitgliedstaates der Europäischen Union besitzen, können beantragen, dass in ihr Führungszeugnis nach den §§ 30 oder 30a die Mitteilung über Eintragungen im Strafregister ihres Herkunftsmitgliedstaates vollständig und in der übermittelten Sprache aufgenommen wird (Europäisches Führungszeugnis). § 30 gilt entsprechend.
+(1) In das Führungszeugnis nach § 30 oder § 30a Absatz 1 von Personen, die die Staatsangehörigkeit eines anderen Mitgliedstaates der Europäischen Union besitzen, wird die Mitteilung über Eintragungen im Strafregister ihres Herkunftsmitgliedstaates vollständig und in der übermittelten Sprache aufgenommen (Europäisches Führungszeugnis), sofern der Herkunftsmitgliedstaat eine Übermittlung nach seinem Recht vorsieht. § 30 gilt entsprechend.
 
 (2) Die Registerbehörde ersucht den Herkunftsmitgliedstaat um Mitteilung der Eintragungen. Das Führungszeugnis soll spätestens 20 Werktage nach der Übermittlung des Ersuchens der Registerbehörde an den Herkunftsmitgliedstaat erteilt werden. Hat der Herkunftsmitgliedstaat keine Auskunft aus seinem Strafregister erteilt, ist hierauf im Führungszeugnis hinzuweisen.
 
@@ -1196,7 +1193,8 @@ der Freispruch wegen mangelnder Reife und die Einstellung des Verfahrens aus die
 7.  
 das Absehen von der Verfolgung nach § 45 des Jugendgerichtsgesetzes und die Einstellung des Verfahrens nach § 47 des Jugendgerichtsgesetzes,
 
-8.
+8.  
+(weggefallen)
 
 9.  
 vorläufige und endgültige Entscheidungen des Familiengerichts nach § 1666 Abs. 1 und § 1666a des Bürgerlichen Gesetzbuchs sowie Entscheidungen des Familiengerichts nach § 1837 Abs. 4 in Verbindung mit § 1666 Abs. 1 und § 1666a des Bürgerlichen Gesetzbuchs, welche die Sorge für die Person des Minderjährigen betreffen; ferner die Entscheidungen, durch welche die vorgenannten Entscheidungen aufgehoben oder geändert werden.
