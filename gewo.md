@@ -5,7 +5,10 @@ Neuf
 Neugefasst durch Bek. v. 22.2.1999 I 202;
 
 Stand  
-zuletzt geändert durch Art. 11 G v. 11.8.2014 I 1348
+Zuletzt geändert durch Art. 2 Abs. 7 G v. 17.2.2016 I 203
+
+Hinweis  
+Änderung durch Art. 10 G v. 11.3.2016 I 396 (Nr. 12) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -49,7 +52,6 @@ zuletzt geändert durch Art. 11 G v. 11.8.2014 I 1348
 | § 13a                                                              |
 | § 13b                                                              |
 | § 13c                                                              |
-| § 14                                                               |
 |                                                                    |
 | **Titel II**                                                       |
 | **Stehendes Gewerbe**                                              |
@@ -90,6 +92,8 @@ zuletzt geändert durch Art. 11 G v. 11.8.2014 I 1348
 | § 34f                                                              |
 | § 34g                                                              |
 | § 34h                                                              |
+| § 34i                                                              |
+| § 34j                                                              |
 | § 35                                                               |
 | §§ 35a und 35b                                                     |
 | § 36                                                               |
@@ -230,6 +234,7 @@ zuletzt geändert durch Art. 11 G v. 11.8.2014 I 1348
 | § 157                                                              |
 | § 158                                                              |
 | § 159                                                              |
+| § 160                                                              |
 
 Titel I Allgemeine Bestimmungen
 -------------------------------
@@ -276,9 +281,11 @@ In den Beschränkungen des Betriebs einzelner Gewerbe, welche auf den Zoll-, Ste
 
 (2) Absatz 1 gilt auch für Verfahren nach § 33a Absatz 1 und § 69 Absatz 1 und für Verfahren nach dem Gaststättengesetz, solange keine landesrechtlichen Regelungen bestehen.
 
-### § 6b Verfahren über eine einheitliche Stelle
+### § 6b Verfahren über eine einheitliche Stelle Europäischer Berufsausweis; Verordnungsermächtigung
 
-Verwaltungsverfahren nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung können über eine einheitliche Stelle nach den Vorschriften des Verwaltungsverfahrensgesetzes abgewickelt werden. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung im Einklang mit Artikel 2 Absatz 2 der Richtlinie 2006/123/EG bestimmte Verfahren von der Abwicklung über eine einheitliche Stelle auszuschließen.
+(1) Verwaltungsverfahren nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung können über eine einheitliche Stelle nach den Vorschriften des Verwaltungsverfahrensgesetzes abgewickelt werden. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung im Einklang mit Artikel 2 Absatz 2 der Richtlinie 2006/123/EG bestimmte Verfahren von der Abwicklung über eine einheitliche Stelle auszuschließen.
+
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Umsetzung der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L 354 vom 28.12.2013, S. 132) geändert worden ist, Regelungen zur Ausstellung eines Europäischen Berufsausweises und zur Durchführung des Verfahrens zur Anerkennung einer beruflichen Qualifikation auf der Grundlage eines Europäischen Berufsausweises zu erlassen.
 
 ### § 6c Informationspflichten für Dienstleistungserbringer
 
@@ -378,20 +385,24 @@ und keine Anhaltspunkte dafür bestehen, daß überwiegende schutzwürdige Inter
 
 ### § 11a Vermittlerregister
 
-(1) Jede Industrie- und Handelskammer (Registerbehörde) führt ein Register der nach § 34d Abs. 7, auch in Verbindung mit § 34e Abs. 2, § 34f Absatz 5 und § 34h Absatz 1 Satz 4 Eintragungspflichtigen. Die örtliche Zuständigkeit richtet sich nach dem Landesrecht. Zweck des Registers ist es insbesondere, der Allgemeinheit, vor allem Anlegern und Versicherungsunternehmen, die Überprüfung der Zulassung sowie des Umfangs der zugelassenen Tätigkeit der Eintragungspflichtigen zu ermöglichen. Die Registerbehörden bedienen sich bei der Führung des Registers der in § 32 Abs. 2 des Umweltauditgesetzes bezeichneten gemeinsamen Stelle (gemeinsame Stelle). Die Registerbehörde unterliegt der Aufsicht der obersten Landesbehörde.
+(1) Jede Industrie- und Handelskammer (Registerbehörde) führt ein Register der nach § 34d Abs. 7, auch in Verbindung mit § 34e Abs. 2, § 34f Absatz 5, § 34h Absatz 1 Satz 4 und § 34i Absatz 8 Eintragungspflichtigen. Die örtliche Zuständigkeit richtet sich nach dem Landesrecht. Zweck des Registers ist es insbesondere, der Allgemeinheit, vor allem Anlegern und Versicherungsunternehmen sowie Darlehensnehmern und Darlehensgebern, die Überprüfung der Zulassung sowie des Umfangs der zugelassenen Tätigkeit der Eintragungspflichtigen zu ermöglichen. Die Registerbehörden bedienen sich bei der Führung des Registers der in § 32 Abs. 2 des Umweltauditgesetzes bezeichneten gemeinsamen Stelle (gemeinsame Stelle). Die Registerbehörde unterliegt der Aufsicht der obersten Landesbehörde.
+
+(1a) In das Register sind auch die Daten zu den nach § 34i Absatz 4 von der Erlaubnispflicht befreiten Gewerbetreibenden einzutragen, die von den zuständigen Behörden eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum übermittelt werden. Erhält die Registerbehörde die Mitteilung, dass ein nach § 34i Absatz 4 von der Erlaubnispflicht befreiter Gewerbetreibender nicht mehr im Anwendungsbereich dieser Vorschrift tätig ist oder nicht mehr im Besitz der Erlaubnis eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum ist, so hat die Registerbehörde unverzüglich die gespeicherten Daten des Betroffenen zu löschen.
 
 (2) Auskünfte aus dem Register werden im Wege des automatisierten Abrufs über das Internet oder schriftlich erteilt. Die Registerbehörden gewährleisten, dass eine gleichzeitige Abfrage bei allen Registern nach Absatz 1 Satz 1 möglich ist.
 
-(3) Die für eine Untersagung nach § 35 zuständige Behörde teilt der Registerbehörde eine Untersagung unverzüglich mit. Bei Aufhebung der Erlaubnis nach § 34d Abs. 1 oder § 34e Abs. 1 oder der Erlaubnisbefreiung nach § 34d Abs. 3 oder einer Mitteilung nach Satz 1 oder § 80 Abs. 4 des Versicherungsaufsichtsgesetzes hat die Registerbehörde unverzüglich die zu dem Betroffenen gespeicherten Daten zu löschen. Der Familienname, der Vorname, die Registrierungsnummer sowie der Tag der Löschung werden im Register in einem täglich aktualisierten Verzeichnis gespeichert. Zugang zu diesem Verzeichnis erhalten nur Versicherungsunternehmen. Die Angaben werden einen Monat nach der Speicherung in diesem Verzeichnis gelöscht.
+(3) Die für eine Untersagung nach § 35 zuständige Behörde teilt der Registerbehörde eine Untersagung unverzüglich mit. Bei Aufhebung der Erlaubnis nach § 34d Abs. 1 oder § 34e Abs. 1 oder der Erlaubnisbefreiung nach § 34d Abs. 3 oder einer Mitteilung nach Satz 1 oder § 48 Absatz 5 des Versicherungsaufsichtsgesetzes hat die Registerbehörde unverzüglich die zu dem Betroffenen gespeicherten Daten zu löschen. Der Familienname, der Vorname, die Registrierungsnummer sowie der Tag der Löschung werden im Register in einem täglich aktualisierten Verzeichnis gespeichert. Zugang zu diesem Verzeichnis erhalten nur Versicherungsunternehmen. Die Angaben werden einen Monat nach der Speicherung in diesem Verzeichnis gelöscht.
 
 (3a) Die für die Erlaubniserteilung nach § 34f Absatz 1 zuständige Behörde teilt der Registerbehörde unverzüglich die für die Eintragung nach § 34f Absatz 5 erforderlichen Angaben sowie die Aufhebung der Erlaubnis nach § 34f Absatz 1 mit. Die für die Erlaubniserteilung nach § 34h Absatz 1 zuständige Behörde teilt der Registerbehörde unverzüglich die Angaben mit, die für die Eintragung nach § 34h Absatz 1 Satz 4 in Verbindung mit § 34f Absatz 5 erforderlich sind, sowie die Aufhebung der Erlaubnis nach § 34h Absatz 1. Bei Erhalt der Mitteilung über die Aufhebung der Erlaubnis nach § 34f Absatz 1 und § 34h Absatz 1 hat die Registerbehörde unverzüglich die zu dem Betroffenen gespeicherten Daten zu löschen.
 
-(4) Beabsichtigt ein nach § 34d Absatz 7, auch in Verbindung mit § 34e Absatz 2, Eintragungspflichtiger, in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum tätig zu werden, hat er dies zuvor der Registerbehörde mitzuteilen.
+(3b) Die für die Erlaubniserteilung nach § 34i Absatz 1 zuständige Behörde teilt der Registerbehörde unverzüglich die für die Eintragung nach § 34i Absatz 8 Nummer 1 erforderlichen Angaben, die Aufhebung der Erlaubnis nach § 34i Absatz 1 sowie die für die Eintragung nach § 34i Absatz 9 erforderlichen Angaben mit. Bei Erhalt der Mitteilung über die Aufhebung der Erlaubnis nach § 34i Absatz 1 hat die Registerbehörde die gespeicherten Daten des Betroffenen unverzüglich zu löschen. Bei Erhalt der Mitteilung, dass die Bekanntmachung nach § 34i Absatz 9 nicht mehr erforderlich ist, hat die Registerbehörde die gespeicherten Daten unverzüglich zu löschen; unabhängig von dieser Mitteilung hat die Registerbehörde die Daten aber spätestens nach fünf Jahren zu löschen.
 
-(5) Das Bundesministerium für Wirtschaft und Technologie kann durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften erlassen über die Einzelheiten der Registerführung, insbesondere über
+(4) Beabsichtigt ein nach § 34d Absatz 7, auch in Verbindung mit § 34e Absatz 2, und nach § 34i Absatz 8 Nummer 1 Eintragungspflichtiger, in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum tätig zu werden, hat er dies zuvor der Registerbehörde mitzuteilen.
+
+(5) Das Bundesministerium für Wirtschaft und Energie kann durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften erlassen über die Einzelheiten der Registerführung, insbesondere über
 
 1.  
-die in dem Register zu speichernden Angaben; gespeichert werden dürfen nur Angaben zur Identifizierung (insbesondere Familienname, Vorname, Geschäftsanschrift, Geburtstag und Registrierungsnummer), zur Zulassung und zum Umfang der zugelassenen Tätigkeit der Eintragungspflichtigen,
+die in dem Register zu speichernden Angaben; gespeichert werden dürfen nur Angaben zur Identifizierung (insbesondere Familienname, Vorname, Geschäftsanschrift, Geburtstag und Registrierungsnummer), zur Zulassung und zum Umfang der zugelassenen Tätigkeit der Eintragungspflichtigen und der nach § 34i Absatz 4 von der Erlaubnispflicht befreiten Gewerbetreibenden sowie bekanntzumachende Angaben nach Maßgabe des § 34i Absatz 9; gespeichert werden dürfen auch Angaben zur Identifizierung des Kreditinstituts, in dessen Namen der nach § 34i Absatz 4 von der Erlaubnispflicht befreite Gewerbetreibende handelt,
 
 2.  
 Angaben, die nicht allgemein zugänglich sein sollen, sowie die Stellen, die Zugang zu diesen Angaben erhalten.
@@ -399,22 +410,22 @@ Angaben, die nicht allgemein zugänglich sein sollen, sowie die Stellen, die Zug
 (6) Die Zusammenarbeit der zuständigen Stellen mit den zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union sowie der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum erfolgt nach folgenden Maßgaben:
 
 1.  
-Auf Ersuchen der zuständigen Behörde eines anderen Mitglied- oder Vertragsstaates übermittelt die zuständige Registerbehörde Informationen einschließlich personenbezogener Daten, die zur Überprüfung der Einhaltung der Voraussetzungen für die Tätigkeit als Versicherungsvermittler oder Versicherungsberater erforderlich sind, an die zuständige Behörde des anderen Mitglied- oder Vertragsstaates.
+Auf Ersuchen der zuständigen Behörde eines anderen Mitglied- oder Vertragsstaates übermittelt die zuständige Registerbehörde Informationen einschließlich personenbezogener Daten, die zur Überprüfung der Einhaltung der Voraussetzungen für die Tätigkeit als Versicherungsvermittler, Versicherungsberater oder Immobiliardarlehensvermittler erforderlich sind, an die zuständige Behörde des anderen Mitglied- oder Vertragsstaates.
 
 2.  
-Die Registerbehörde darf ohne Ersuchen der zuständigen Behörde eines anderen Mitglied- oder Vertragsstaates Informationen einschließlich personenbezogener Daten übermitteln, wenn Anhaltspunkte dafür vorliegen, dass die Kenntnis dieser Informationen für die Überprüfung der Einhaltung der Voraussetzungen für die Tätigkeit als Versicherungsvermittler oder Versicherungsberater erforderlich ist.
+Die Registerbehörde darf ohne Ersuchen der zuständigen Behörde eines anderen Mitglied- oder Vertragsstaates Informationen einschließlich personenbezogener Daten übermitteln, wenn Anhaltspunkte dafür vorliegen, dass die Kenntnis dieser Informationen für die Überprüfung der Einhaltung der Voraussetzungen für die Tätigkeit als Versicherungsvermittler, Versicherungsberater oder Immobiliardarlehensvermittler erforderlich ist.
 
 3.  
-Soweit von dem betreffenden Mitglied- oder Vertragsstaat nach Artikel 6 Abs. 2 der Richtlinie 2002/92/EG des Europäischen Parlaments und des Rates vom 9. Dezember 2002 über Versicherungsvermittlung (ABl. EG 2003 Nr. L 9 S. 3) gefordert, teilt die Registerbehörde im Falle des Absatzes 4 die Absicht des Eintragungspflichtigen der zuständigen Behörde des anderen Mitglied- oder Vertragsstaates mit und unterrichtet gleichzeitig den Eintragungspflichtigen. Zum Zwecke der Überwachung darf die Registerbehörde der zuständigen Behörde des anderen Mitglied- oder Vertragsstaates die zu dem Eintragungspflichtigen im Register gespeicherten Angaben übermitteln. Die zuständige Behörde eines anderen Mitglied- oder Vertragsstaates ist über Änderungen übermittelter Angaben zu unterrichten.
+Soweit von dem betreffenden Mitglied- oder Vertragsstaat nach Artikel 6 Absatz 2 der Richtlinie 2002/92/EG des Europäischen Parlaments und des Rates vom 9. Dezember 2002 über Versicherungsvermittlung (ABl. L 9 vom 15.1.2003, S. 3) gefordert, teilt die Registerbehörde im Falle des Absatzes 4 die Absicht des nach § 34d Absatz 7, auch in Verbindung mit § 34e Absatz 2, Eintragungspflichtigen der zuständigen Behörde des anderen Mitglied- oder Vertragsstaates mit und unterrichtet gleichzeitig den Eintragungspflichtigen über diese Mitteilung. Dieses Verfahren findet im Falle des Absatzes 4 auf die Absichtserklärung des nach § 34i Absatz 8 Nummer 1 Eintragungspflichtigen entsprechende Anwendung. Zum Zwecke der Überwachung darf die Registerbehörde der zuständigen Behörde des anderen Mitglied- oder Vertragsstaates die zu dem Eintragungspflichtigen im Register gespeicherten Angaben übermitteln. Die zuständige Behörde eines anderen Mitglied- oder Vertragsstaates ist über Änderungen übermittelter Angaben zu unterrichten.
 
 4.  
-Handelt es sich bei den nach Absatz 3 gelöschten Angaben um solche eines in einem anderen Mitglied- oder Vertragsstaat tätigen Gewerbetreibenden, so teilt die Registerbehörde der zuständigen Behörde des anderen Mitglied- oder Vertragsstaates die Löschung unverzüglich mit.
+Handelt es sich bei den nach den Absätzen 3 und 3b gelöschten Angaben um solche eines in einem anderen Mitglied- oder Vertragsstaat tätigen Gewerbetreibenden, so teilt die Registerbehörde der zuständigen Behörde des anderen Mitglied- oder Vertragsstaates die Löschung unverzüglich mit.
 
-Die Zusammenarbeit, insbesondere die Übermittlung von Informationen, erfolgt jeweils über das Bundesministerium für Wirtschaft und Technologie, das sich dabei der gemeinsamen Stelle bedient.
+Die Zusammenarbeit, insbesondere die Übermittlung von Informationen, erfolgt in Bezug auf die Tätigkeit von Versicherungsvermittlern und Versicherungsberatern jeweils über das Bundesministerium für Wirtschaft und Energie, das sich dabei der gemeinsamen Stelle bedient. In Bezug auf die Tätigkeit von Immobiliardarlehensvermittlern erfolgt die Zusammenarbeit, insbesondere die Übermittlung von Informationen, jeweils über das Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
-(7) Die Registerbehörde, die Bundesanstalt für Finanzdienstleistungsaufsicht und die für die Erlaubniserteilung nach § 34d Abs. 1 Satz 1, § 34e Abs. 1 Satz 1 und § 34f Absatz 1 Satz 1, auch in Verbindung mit § 34h Absatz 1 Satz 4, für die Untersagung nach § 35, die Entgegennahme der Gewerbeanzeige nach § 14 oder die Verfolgung von Ordnungswidrigkeiten nach dem Gesetz über Ordnungswidrigkeiten zuständigen Behörden dürfen einander auch ohne Ersuchen Informationen einschließlich personenbezogener Daten übermitteln, soweit dies zur Erfüllung ihrer jeweiligen mit der Tätigkeit von Versicherungsvermittlern und Versicherungsberatern sowie Finanzanlagenvermittlern und Honorar-Finanzanlagenberatern zusammenhängenden Aufgaben erforderlich ist. Die in Satz 1 genannten Stellen stellen der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung nach Maßgabe des Artikels 35 der Verordnung (EU) Nr. 1094/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung), zur Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des Beschlusses 2009/79/EG der Kommission (ABl. L 331 vom 15.12.2010, S. 48) auf Verlangen alle Informationen zur Verfügung, die zur Erfüllung von deren Aufgaben auf Grund der Verordnung (EU) Nr. 1094/2010 erforderlich sind.
+(7) Die Registerbehörde, die Bundesanstalt für Finanzdienstleistungsaufsicht und die Behörden, die für die Erlaubniserteilung nach § 34d Absatz 1 Satz 1, § 34e Absatz 1 Satz 1, § 34f Absatz 1 Satz 1, auch in Verbindung mit § 34h Absatz 1 Satz 4, und nach § 34i Absatz 1 Satz 1, für die Untersagung nach § 35, für die Entgegennahme der Gewerbeanzeige nach § 14 oder für die Verfolgung von Ordnungswidrigkeiten zuständig sind, dürfen einander auch ohne Ersuchen Informationen einschließlich personenbezogener Daten übermitteln. Satz 1 gilt nur, soweit dies zur Erfüllung der jeweiligen Aufgaben erforderlich ist, die jeweils mit der Tätigkeit von Versicherungsvermittlern, Versicherungsberatern, Finanzanlagenvermittlern, Honorar-Finanzanlagenberatern und Immobiliardarlehensvermittlern zusammenhängen. Die in Satz 1 genannten Stellen stellen der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung nach Maßgabe des Artikels 35 der Verordnung (EU) Nr. 1094/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung), zur Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des Beschlusses 2009/79/EG der Kommission (ABl. L 331 vom 15.12.2010, S. 48) auf Verlangen alle Informationen zur Verfügung, die zur Erfüllung von deren Aufgaben auf Grund der Verordnung (EU) Nr. 1094/2010 erforderlich sind.
 
-(8) Alle Personen, die im Rahmen des für Versicherungsvermittler und Versicherungsberater sowie Finanzanlagenvermittler und Honorar-Finanzanlagenberater geltenden Registrierungsverfahrens oder der Überprüfung der Einhaltung der Voraussetzungen für die Tätigkeit als Versicherungsvermittler oder Versicherungsberater sowie Finanzanlagenvermittler und Honorar-Finanzanlagenberater zur Entgegennahme oder Erteilung von Informationen verpflichtet sind, unterliegen dem Berufsgeheimnis. § 84 des Versicherungsaufsichtsgesetzes gilt entsprechend.
+(8) In Bezug auf Versicherungsvermittler, Versicherungsberater, Finanzanlagenvermittler, Honorar-Finanzanlagenberater und Immobiliardarlehensvermittler unterliegen alle Personen, die im Rahmen des Registrierungsverfahrens oder im Rahmen der Überprüfung der Einhaltung der Voraussetzungen für die Tätigkeit zur Entgegennahme oder Erteilung von Informationen verpflichtet sind, dem Berufsgeheimnis. § 84 des Versicherungsaufsichtsgesetzes gilt entsprechend.
 
 ### § 11b Übermittlung personenbezogener Daten innerhalb der Europäischen Union und des Europäischen Wirtschaftsraumes bei reglementierten Berufen
 
@@ -453,11 +464,11 @@ Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zur Erprobung v
 
 ### § 13a Anzeige der grenzüberschreitenden Erbringung von Dienstleistungen in reglementierten Berufen
 
-(1) Wer als Staatsangehöriger eines Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum eine gewerbliche Tätigkeit, deren Aufnahme oder Ausübung nach deutschem Recht einen Sachkunde- oder Unterrichtungsnachweis voraussetzt und zu deren Ausübung er in einem dieser Staaten rechtmäßig niedergelassen ist, im Inland nur vorübergehend und gelegentlich ausüben will, hat diese Absicht vorher schriftlich der für die Anerkennung der Berufsqualifikation zuständigen öffentlichen Stelle unter Beifügung der nach Absatz 5 erforderlichen Unterlagen anzuzeigen.
+(1) Wer als Staatsangehöriger eines Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum eine gewerbliche Tätigkeit, deren Aufnahme oder Ausübung nach deutschem Recht einen Sachkunde- oder Unterrichtungsnachweis voraussetzt und zu deren Ausübung er in einem dieser Staaten rechtmäßig niedergelassen ist, im Inland nur vorübergehend und gelegentlich ausüben will, hat diese Absicht vorher der für die Anerkennung der Berufsqualifikation zuständigen öffentlichen Stelle unter Beifügung der nach Absatz 5 erforderlichen Unterlagen anzuzeigen. Die Anzeige kann elektronisch erfolgen.
 
-(2) Die Tätigkeit darf sofort nach der Anzeige erbracht werden, wenn die Voraussetzungen nach Absatz 1 vorliegen und für die betreffende Tätigkeit keine Nachprüfung der Berufsqualifikation vorgeschrieben ist. Die zuständige öffentliche Stelle erteilt eine Eingangsbestätigung, aus der hervorgeht, ob die Voraussetzungen nach Absatz 1 vorliegen und ob die Nachprüfung der Berufsqualifikation erforderlich ist. Wird die Berufsqualifikation nachgeprüft, soll die zuständige öffentliche Stelle den Dienstleister innerhalb eines Monats ab Eingang der Anzeige und der vollständigen Unterlagen über das Ergebnis unterrichten. Bei einer Verzögerung unterrichtet die zuständige öffentliche Stelle den Dienstleister über die Gründe für die Verzögerung und über den Zeitplan für eine Entscheidung. Die Entscheidung ergeht spätestens innerhalb von zwei Monaten ab Eingang der vollständigen Unterlagen. Bestehen Zweifel an der Echtheit der vorgelegten Bescheinigungen und Ausbildungsnachweise oder an den dadurch verliehenen Rechten, ist der Fristablauf für die Dauer der Nachprüfung der Echtheit oder den dadurch verliehenen Rechten durch Nachfrage bei der zuständigen Stelle des Niederlassungsstaates gehemmt.
+(2) Die Tätigkeit darf sofort nach der Anzeige erbracht werden, wenn die Voraussetzungen nach Absatz 1 vorliegen und für die betreffende Tätigkeit keine Nachprüfung der Berufsqualifikation vorgeschrieben ist. Die zuständige öffentliche Stelle erteilt innerhalb eines Monats nach Eingang der Anzeige nach Absatz 1 eine Eingangsbestätigung, aus der hervorgeht, ob die Voraussetzungen nach Absatz 1 vorliegen und ob die Nachprüfung der Berufsqualifikation erforderlich ist. Wird die Berufsqualifikation nachgeprüft, soll die zuständige öffentliche Stelle den Dienstleister innerhalb eines Monats ab Eingang der Anzeige und der vollständigen Unterlagen über das Ergebnis unterrichten. Bei einer Verzögerung unterrichtet die zuständige öffentliche Stelle den Dienstleister über die Gründe für die Verzögerung und über den Zeitplan für eine Entscheidung. Die Entscheidung ergeht spätestens innerhalb von zwei Monaten ab Eingang der vollständigen Unterlagen. Bestehen Zweifel an der Echtheit der vorgelegten Bescheinigungen und Ausbildungsnachweise oder an den dadurch verliehenen Rechten, ist der Fristablauf für die Dauer der Nachprüfung der Echtheit oder den dadurch verliehenen Rechten durch Nachfrage bei der zuständigen Stelle des Niederlassungsstaates gehemmt.
 
-(3) Ergibt die Nachprüfung, dass ein wesentlicher Unterschied zwischen der Berufsqualifikation des Dienstleistungserbringers und der im Inland erforderlichen Ausbildung besteht, gibt die zuständige öffentliche Stelle dem Dienstleistungserbringer innerhalb eines Monats nach der Unterrichtung über das Ergebnis der Nachprüfung Gelegenheit, die für eine ausreichende berufliche Qualifikation erforderlichen Kenntnisse und Fähigkeiten insbesondere durch eine Eignungsprüfung nachzuweisen.
+(3) Ergibt die Nachprüfung, dass ein wesentlicher Unterschied zwischen der Berufsqualifikation des Dienstleistungserbringers und der im Inland erforderlichen Berufsqualifikation besteht, gibt die zuständige öffentliche Stelle dem Dienstleistungserbringer innerhalb eines Monats nach der Unterrichtung über das Ergebnis der Nachprüfung Gelegenheit, die für eine ausreichende berufliche Qualifikation erforderlichen Kenntnisse und Fähigkeiten insbesondere durch eine Eignungsprüfung nachzuweisen.
 
 (4) Hält die zuständige Stelle die in den Absätzen 2 und 3 festgesetzten Fristen nicht ein, darf die Dienstleistung erbracht werden.
 
@@ -477,12 +488,14 @@ a)
 sofern der Beruf im Niederlassungsstaat durch Rechts- und Verwaltungsvorschriften an den Besitz bestimmter beruflicher Qualifikationen gebunden ist, ein Nachweis der Berufsqualifikation, anderenfalls
 
 b)  
-ein Nachweis, dass die Tätigkeit im Niederlassungsstaat während der vorhergehenden zehn Jahre mindestens zwei Jahre lang ausgeübt worden ist;
+ein Nachweis, dass die Tätigkeit im Niederlassungsstaat während der vorhergehenden zehn Jahre mindestens ein Jahr lang ausgeübt worden ist;
 
 5.  
 ein Nachweis eines Versicherungsschutzes oder einer anderen Art des individuellen oder kollektiven Schutzes in Bezug auf die Berufshaftpflicht, sofern ein solcher für die betreffende Tätigkeit auch von Inländern gefordert wird.
 
-(6) Tritt eine wesentliche Änderung von Umständen ein, die die Voraussetzungen für die Dienstleistungserbringung betreffen, ist die Änderung schriftlich anzuzeigen und durch Unterlagen nachzuweisen. Ansonsten ist die Anzeige formlos alle zwölf Monate seit der letzten Anzeige zu wiederholen, solange die weitere Erbringung von Dienstleistungen beabsichtigt ist.
+Die Unterlagen können elektronisch übermittelt werden. Die zuständige Stelle kann den Dienstleistungserbringer im Fall begründeter Zweifel an der Echtheit der vorgelegten Unterlagen auffordern, beglaubigte Kopien vorzulegen. Eine solche Aufforderung hemmt den Lauf der Fristen nach Absatz 2 Satz 3 und 5 nicht.
+
+(6) Tritt eine wesentliche Änderung von Umständen ein, die die Voraussetzungen für die Dienstleistungserbringung betreffen, ist die Änderung anzuzeigen und durch Unterlagen nachzuweisen. Ansonsten ist die Anzeige formlos alle zwölf Monate seit der letzten Anzeige zu wiederholen, solange die weitere Erbringung von Dienstleistungen beabsichtigt ist.
 
 (7) Die Regelungen gelten entsprechend für Arbeitnehmer eines Gewerbebetriebs nach Absatz 1, soweit Sachkunde- oder Unterrichtungsnachweise auch für diese vorgeschrieben sind.
 
@@ -492,7 +505,7 @@ ein Nachweis eines Versicherungsschutzes oder einer anderen Art des individuelle
 
 (2) Soweit in diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung ein Nachweis darüber verlangt wird, dass ein Gewerbetreibender gegen die finanziellen Risiken seiner beruflichen Tätigkeit haftpflichtversichert ist, ist von Gewerbetreibenden aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum als Nachweis eine Bescheinigung über den Abschluss einer Berufshaftpflichtversicherung als hinreichend anzuerkennen, die von einem Kreditinstitut oder einem Versicherungsunternehmen in einem anderen Mitgliedstaat oder Vertragsstaat ausgestellt wurde, sofern die in diesem Staat abgeschlossene Berufshaftpflichtversicherung im Wesentlichen vergleichbar ist zu der, die von Inländern verlangt wird, und zwar hinsichtlich der Zweckbestimmung, der vorgesehenen Deckung bezüglich des versicherten Risikos, der Versicherungssumme und möglicher Ausnahmen von der Deckung. Bei nur teilweiser Gleichwertigkeit kann eine zusätzliche Sicherheit verlangt werden, die die nicht gedeckten Risiken absichert.
 
-(3) Absatz 2 gilt nicht, soweit Tätigkeiten nach den §§ 30, 31, 33c, 33d, 34, 34a, 34c Absatz 1 Satz 1 Nummer 2, den §§ 34d, 34e, 34f, 34h oder nach § 60a ausgeübt werden.
+(3) Absatz 2 gilt nicht, soweit Tätigkeiten nach den §§ 30, 31, 33c, 33d, 34, 34a, 34c Absatz 1 Satz 1 Nummer 2, den §§ 34d, 34e, 34f, 34h, 34i oder nach § 60a ausgeübt werden.
 
 ### § 13c Anerkennung von ausländischen Befähigungsnachweisen
 
@@ -507,11 +520,24 @@ im Fall einer im Ausbildungsstaat reglementierten beruflichen Tätigkeit die den
 3.  
 zwischen den nachgewiesenen ausländischen Berufsqualifikationen und der entsprechenden inländischen Berufsbildung keine wesentlichen Unterschiede bestehen.
 
-(2) Unterscheiden sich die diesen Nachweisen zugrunde liegenden Sachgebiete wesentlich von den in den jeweiligen gewerberechtlichen Verordnungen festgelegten Sachgebieten und gleichen die von der den Antrag stellenden Person im Rahmen ihrer Berufspraxis erworbenen Kenntnisse diesen wesentlichen Unterschied nicht aus, so ist die Erlaubnis zur Aufnahme der angestrebten Tätigkeit von der erfolgreichen Teilnahme an einer ergänzenden, diese Sachgebiete umfassenden Sachkundeprüfung (spezifische Sachkundeprüfung) oder einer ergänzenden, diese Sachgebiete umfassenden Unterrichtung (ergänzende Unterrichtung) abhängig. Für die spezifische Sachkundeprüfung und die ergänzende Unterrichtung gelten die in den jeweiligen gewerberechtlichen Verordnungen vorgeschriebenen Anforderungen und Verfahren.
+(2) Unterscheiden sich die diesen Nachweisen zugrunde liegenden Sachgebiete wesentlich von den in den jeweiligen gewerberechtlichen Verordnungen festgelegten Sachgebieten und gleichen die von der den Antrag stellenden Person im Rahmen ihrer Berufspraxis oder durch sonstige nachgewiesene einschlägige Qualifikationen erworbenen Kenntnisse Fähigkeiten und Kompetenzen diesen wesentlichen Unterschied nicht aus, so ist die Erlaubnis zur Aufnahme der angestrebten Tätigkeit von der erfolgreichen Teilnahme an einer ergänzenden, diese Sachgebiete umfassenden Sachkundeprüfung (spezifische Sachkundeprüfung) oder einer ergänzenden, diese Sachgebiete umfassenden Unterrichtung (ergänzende Unterrichtung) abhängig. Für die spezifische Sachkundeprüfung und die ergänzende Unterrichtung gelten die in den jeweiligen gewerberechtlichen Verordnungen vorgeschriebenen Anforderungen und Verfahren.
 
 (3) Ist für die angestrebte Tätigkeit nach der Gewerbeordnung eine Sachkundeprüfung vorgesehen, so ist der den Antrag stellenden Person nach ihrer Wahl statt der spezifischen Sachkundeprüfung die Teilnahme an einer ergänzenden Unterrichtung zu ermöglichen, sofern der Befähigungsnachweis von einem anderen Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ausgestellt worden ist und die jeweiligen gewerberechtlichen Verordnungen nicht etwas anderes vorsehen. Dies gilt auch für Nachweise, die von einem Drittstaat ausgestellt wurden, sofern diese Nachweise von einem in Satz 1 genannten Staat anerkannt worden sind und dieser Staat der den Antrag stellenden Person eine mindestens dreijährige Berufserfahrung in der angestrebten Tätigkeit bescheinigt. Die Maßnahmen nach Satz 1 sind so auszugestalten, dass sie eine der Sachkundeprüfung vergleichbare Beurteilung der Qualifikation erlauben. Ist für die angestrebte Tätigkeit nach der Gewerbeordnung eine Unterrichtung vorgesehen, kann die den Antrag stellende Person auf Wunsch an Stelle der ergänzenden Unterrichtung eine spezifische Sachkundeprüfung ablegen.
 
-(4) Dem Antrag auf Anerkennung sind folgende Unterlagen beizufügen:
+(3a) Die Entscheidung der zuständigen Stelle, die Aufnahme der angestrebten Tätigkeit von der erfolgreichen Teilnahme an einer spezifischen Sachkundeprüfung oder einer ergänzenden Unterrichtung nach Absatz 2 Satz 1 abhängig zu machen, ist gegenüber der den Antrag stellenden Person zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen. In der Begründung ist insbesondere anzugeben,
+
+1.  
+welche wesentlichen Unterschiede im Sinne des Absatzes 2 Satz 1 festgestellt wurden,
+
+2.  
+die Gründe, weshalb die Unterschiede im Sinne des Absatzes 2 Satz 1 nicht durch die von der den Antrag stellenden Person im Rahmen ihrer bisherigen Berufspraxis oder durch sonstige Befähigungsnachweise erworbenen und nachgewiesenen Kenntnisse, Fähigkeiten und Kompetenzen ausgeglichen werden, und
+
+3.  
+das Niveau der im Geltungsbereich dieses Gesetzes erforderlichen Berufsqualifikation gemäß der Klassifizierung in Artikel 11 der Richtlinie 2005/36/EG.
+
+Die zuständige Stelle muss der den Antrag stellenden Person die Möglichkeit geben, die spezifische Sachkundeprüfung oder die ergänzende Unterrichtung innerhalb von sechs Monaten ab dem Zugang der Entscheidung nach Absatz 2 Satz 1 zu absolvieren.
+
+(4) Der Antrag auf Anerkennung sowie die gemäß Satz 2 beizufügenden Unterlagen können elektronisch übermittelt werden. Dem Antrag sind folgende Unterlagen beizufügen:
 
 1.  
 eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten,
@@ -528,7 +554,7 @@ Nachweise über einschlägige Berufserfahrungen und sonstige Befähigungsnachwei
 5.  
 eine Bescheinigung darüber, dass die den Antrag stellende Person zur Ausübung des Berufs berechtigt ist, sofern der Beruf im Ausbildungsstaat reglementiert ist,
 
-soweit dies für die Beurteilung erforderlich ist. Die Aufnahme und Ausübung der Tätigkeit erfolgen im Übrigen unter den im Inland geltenden Voraussetzungen. Insbesondere können von der den Antrag stellenden Person Nachweise verlangt werden, die Rückschlüsse auf ihre Zuverlässigkeit, das Vorliegen geordneter Vermögensverhältnisse sowie auf erforderliche Mittel oder Sicherheiten erlauben, sofern dies in den jeweiligen gewerberechtlichen Verordnungen bestimmt ist. Die zuständige Stelle kann die den Antrag stellende Person auffordern, innerhalb einer angemessenen Frist Informationen zu Inhalt und Dauer der im Ausland absolvierten Berufsbildung sowie zu sonstigen Berufsqualifikationen vorzulegen, soweit dies zur Bewertung der Gleichwertigkeit erforderlich ist. § 13b Absatz 1 Satz 2 gilt entsprechend.
+soweit dies für die Beurteilung erforderlich ist. Die Aufnahme und Ausübung der Tätigkeit erfolgen im Übrigen unter den im Inland geltenden Voraussetzungen. Insbesondere können von der den Antrag stellenden Person Nachweise verlangt werden, die Rückschlüsse auf ihre Zuverlässigkeit, das Vorliegen geordneter Vermögensverhältnisse sowie auf erforderliche Mittel oder Sicherheiten erlauben, sofern dies in den jeweiligen gewerberechtlichen Verordnungen bestimmt ist. Die zuständige Stelle kann die den Antrag stellende Person auffordern, innerhalb einer angemessenen Frist Informationen zu Inhalt und Dauer der im Ausland absolvierten Berufsbildung sowie zu sonstigen Berufsqualifikationen vorzulegen, soweit dies zur Bewertung der Gleichwertigkeit erforderlich ist. § 13b Absatz 1 Satz 2 gilt entsprechend. Werden Unterlagen nach Satz 1 elektronisch übermittelt, kann die zuständige Behörde bei begründeten Zweifeln an der Echtheit der Unterlagen die den Antrag stellende Person auffordern, beglaubigte Kopien vorzulegen. Eine solche Aufforderung hemmt den Lauf der Fristen nach Absatz 5 Satz 1 bis 3 nicht.
 
 (5) Die zuständige Stelle bestätigt der den Antrag stellenden Person binnen eines Monats den Empfang der Unterlagen und teilt gegebenenfalls dabei mit, dass Unterlagen fehlen. Die Prüfung des Antrags auf Anerkennung muss spätestens drei Monate nach Einreichen der vollständigen Unterlagen abgeschlossen sein. Diese Frist kann in begründeten Fällen um einen Monat verlängert werden. Die Fristverlängerung ist der den Antrag stellenden Person rechtzeitig und unter Angabe der Gründe mitzuteilen. Bestehen begründete Zweifel an der Echtheit oder der inhaltlichen Richtigkeit der vorgelegten Unterlagen oder an den dadurch verliehenen Rechten oder benötigt die zuständige Stelle weitere Informationen, kann sie die den Antrag stellende Person auffordern, innerhalb einer angemessenen Frist weitere geeignete Unterlagen vorzulegen. Soweit die Unterlagen in einem Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ausgestellt wurden, kann sich die zuständige Stelle auch an die zuständige Stelle des Ausbildungsstaats wenden. Der Fristablauf ist solange gehemmt.
 
@@ -597,7 +623,7 @@ die für den Immissionsschutz zuständige Landesbehörde zur Durchführung arbei
 die für den technischen und sozialen Arbeitsschutz, einschließlich den Entgeltschutz nach dem Heimarbeitsgesetz zuständige Landesbehörde zur Durchführung ihrer Aufgaben,
 
 4.  
-das Eichamt zur Wahrnehmung der im Eichgesetz, in der Eichordnung sowie in der Fertigpackungsverordnung gesetzlich festgelegten Aufgaben,
+die nach Landesrecht zuständige Behörde zur Wahrnehmung der Aufgaben, die im Mess- und Eichgesetz und in den auf Grund des Mess- und Eichgesetzes ergangenen Rechtsverordnungen festgelegt sind,
 
 5.  
 die Bundesagentur für Arbeit zur Wahrnehmung der in § 405 Abs. 1 in Verbindung mit § 404 Abs. 2 des Dritten Buches Sozialgesetzbuch sowie der im Arbeitnehmerüberlassungsgesetz genannten Aufgaben,
@@ -646,7 +672,7 @@ Die Datenempfänger sowie die Verwendungszwecke, für die Abrufe zugelassen werd
 
 (13) Über die Gewerbeanzeigen nach Absatz 1 Satz 1 und 2 Nr. 3 werden monatliche Erhebungen als Bundesstatistik durchgeführt. Die Statistik nach Satz 1 soll als Informationsgrundlage für die Wirtschafts-, Wettbewerbs- und Strukturpolitik dienen. Für die Erhebungen besteht Auskunftspflicht. Auskunftspflichtig sind die Anzeigepflichtigen, die die Auskunftspflicht durch Erstattung der Anzeige erfüllen. Die zuständige Behörde übermittelt aus den Gewerbeanzeigen monatlich die Daten als Erhebungs- oder Hilfsmerkmale an die statistischen Ämter der Länder, die zur Führung der Statistik nach Satz 1 erforderlich sind. Die statistischen Ämter der Länder dürfen die Angaben zum eingetragenen Namen des Betriebes mit Rechtsform und zum Namen des Betriebsinhabers für die Bestimmung der Rechtsform bis zum Abschluss der nach § 12 Abs. 1 des Bundesstatistikgesetzes vorgesehenen Prüfung auswerten. Ferner dürfen sie nähere Angaben zu der angemeldeten Tätigkeit unmittelbar bei den Auskunftspflichtigen erfragen, soweit die gemeldete Tätigkeit sonst den Wirtschaftszweigen nach Anhang I der Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. EU Nr. L 393 S. 1) in der jeweils geltenden Fassung nicht zugeordnet werden kann.
 
-(14) Das Bundesministerium für Wirtschaft und Technologie erlässt mit Zustimmung des Bundesrates durch Rechtsverordnung zur Gewährleistung der ordnungsgemäßen Erfüllung der Anzeigepflicht nach Absatz 1, zur Regelung der Datenübermittlung nach Absatz 8 sowie zur Führung der Statistik nach Absatz 13 nähere Vorschriften. Die Rechtsverordnung
+(14) Das Bundesministerium für Wirtschaft und Energie erlässt mit Zustimmung des Bundesrates durch Rechtsverordnung zur Gewährleistung der ordnungsgemäßen Erfüllung der Anzeigepflicht nach Absatz 1, zur Regelung der Datenübermittlung nach Absatz 8 sowie zur Führung der Statistik nach Absatz 13 nähere Vorschriften. Die Rechtsverordnung
 
 1.  
 bestimmt insbesondere, welche erforderlichen Informationen in den Anzeigen nach Absatz 1 anzugeben sind,
@@ -694,7 +720,7 @@ B. Gewerbetreibende, die einer besonderen Genehmigung bedürfen
 (1) Gewerbetreibende oder sonstige Personen,
 
 1.  
-die einer Erlaubnis nach den §§ 30, 31, 33a, 33c, 33d, 33i, 34, 34a, 34b, 34c, 34d, 34e, 34f oder 34h bedürfen,
+die einer Erlaubnis nach den §§ 30, 31, 33a, 33c, 33d, 33i, 34, 34a, 34b, 34c, 34d, 34e, 34f, 34h oder 34i bedürfen oder nach § 34i Absatz 4 von der Erlaubnispflicht befreit sind,
 
 2.  
 die nach § 34b Abs. 5 oder § 36 öffentlich bestellt sind,
@@ -764,9 +790,9 @@ den Nachweis einer Betriebshaftpflichtversicherung nicht erbringt.
 
 § 34a Absatz 1 bis 4 ist nicht anzuwenden; § 34a Absatz 5 ist entsprechend anzuwenden.
 
-(3) Für Amtshandlungen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle im Zusammenhang mit der Zulassung von Bewachungsunternehmen auf Seeschiffen gemäß den Absätzen 1, 2 und 7 werden Gebühren und Auslagen erhoben. Durch Rechtsverordnung kann das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium des Innern ohne Zustimmung des Bundesrates die Gebührentatbestände und die Gebührenhöhe für die Amtshandlungen bestimmen und dabei feste Sätze, auch in Form von Zeitgebühren, oder Rahmensätze vorsehen. Die Gebührensätze sind so zu bemessen, dass der mit den Amtshandlungen verbundene gesamte Personal- und Sachaufwand gedeckt wird. Zu dem durch die Gebühren zu deckenden Personal- und Sachaufwand gehören auch die Kosten der Bundespolizei, die ihr durch die Beteiligung an dem Zulassungsverfahren nach Absatz 2 entstehen. Zusätzlich zu dem Verwaltungsaufwand kann der in Geld berechenbare wirtschaftliche Wert für den Gebührenschuldner angemessen berücksichtigt werden. Die Gebührenhöhe darf zu der Amtshandlung nicht außer Verhältnis stehen. Aus Gründen des öffentlichen Interesses oder der Billigkeit kann eine niedrigere Gebühr als die in den Sätzen 3 bis 5 vorgesehene Gebühr oder eine Gebührenbefreiung bestimmt werden. In der Verordnung können Auslagen auch abweichend von § 10 des Verwaltungskostengesetzes bestimmt werden.
+(3) Für Amtshandlungen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle im Zusammenhang mit der Zulassung von Bewachungsunternehmen auf Seeschiffen gemäß den Absätzen 1, 2 und 7 werden Gebühren und Auslagen erhoben. Durch Rechtsverordnung kann das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium des Innern ohne Zustimmung des Bundesrates die Gebührentatbestände und die Gebührenhöhe für die Amtshandlungen bestimmen und dabei feste Sätze, auch in Form von Zeitgebühren, oder Rahmensätze vorsehen. Die Gebührensätze sind so zu bemessen, dass der mit den Amtshandlungen verbundene gesamte Personal- und Sachaufwand gedeckt wird. Zu dem durch die Gebühren zu deckenden Personal- und Sachaufwand gehören auch die Kosten der Bundespolizei, die ihr durch die Beteiligung an dem Zulassungsverfahren nach Absatz 2 entstehen. Zusätzlich zu dem Verwaltungsaufwand kann der in Geld berechenbare wirtschaftliche Wert für den Gebührenschuldner angemessen berücksichtigt werden. Die Gebührenhöhe darf zu der Amtshandlung nicht außer Verhältnis stehen. Aus Gründen des öffentlichen Interesses oder der Billigkeit kann eine niedrigere Gebühr als die in den Sätzen 3 bis 5 vorgesehene Gebühr oder eine Gebührenbefreiung bestimmt werden. In der Verordnung können Auslagen auch abweichend von § 10 des Verwaltungskostengesetzes bestimmt werden.
 
-(4) Das Bundesministerium für Wirtschaft und Technologie kann im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium für Verkehr, Bau und Stadtentwicklung durch Rechtsverordnung ohne Zustimmung des Bundesrates
+(4) Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1.  
 die Anforderungen und das Verfahren für die Zulassung nach Absatz 1 sowie die Dauer der Zulassung festlegen,
@@ -798,7 +824,7 @@ den Umfang und die inhaltlichen Anforderungen an die nach Absatz 2 Satz 3 Nummer
 5.  
 die Anforderungen und Verfahren zur Anerkennung von Zulassungen aus anderen Staaten festlegen.
 
-Das Bundesministerium für Wirtschaft und Technologie kann die Ermächtigung nach Satz 1 ganz oder teilweise durch Rechtsverordnung unter Sicherstellung der Einvernehmensregelung auf das Bundesamt für Wirtschaft und Ausfuhrkontrolle übertragen; Rechtsverordnungen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle bedürfen in Abweichung von der Einvernehmensregelung nach Satz 1 nur des Einvernehmens des Bundespolizeipräsidiums und des Bundesamtes für Seeschifffahrt und Hydrographie. Rechtsverordnungen nach den Sätzen 1 und 2 bedürfen der Zustimmung des Bundestages. Hat sich der Bundestag nach Ablauf von drei Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, so gilt die Zustimmung als erteilt.
+Das Bundesministerium für Wirtschaft und Energie kann die Ermächtigung nach Satz 1 ganz oder teilweise durch Rechtsverordnung unter Sicherstellung der Einvernehmensregelung auf das Bundesamt für Wirtschaft und Ausfuhrkontrolle übertragen; Rechtsverordnungen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle bedürfen in Abweichung von der Einvernehmensregelung nach Satz 1 nur des Einvernehmens des Bundespolizeipräsidiums und des Bundesamtes für Seeschifffahrt und Hydrographie. Rechtsverordnungen nach den Sätzen 1 und 2 bedürfen der Zustimmung des Bundestages. Hat sich der Bundestag nach Ablauf von drei Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, so gilt die Zustimmung als erteilt.
 
 (5) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle und die Bundespolizei dürfen einander auch ohne Ersuchen Informationen einschließlich personenbezogener Daten übermitteln, soweit dies zur Erfüllung der Aufgaben nach Absatz 2 erforderlich ist. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle und die Bundespolizei dürfen die übermittelten Informationen nur im Rahmen der gesetzlichen Aufgabenerfüllung nach Absatz 1 verwenden. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle unterrichtet das Bundesamt für Seeschifffahrt und Hydrographie oder die auf Grund einer Rechtsverordnung nach § 3 Absatz 2 oder § 9 Absatz 1 Nummer 7 des Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 26. Juli 2002 (BGBl. I S. 2876), das zuletzt durch Artikel 2 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3069) geändert worden ist, bestimmte Behörde unverzüglich über die Zulassung von Bewachungsunternehmen, über Änderungen, ihre Beendigung sowie über sonstige das Zulassungsverfahren betreffende Tatsachen, soweit dies für die Erfüllung der Aufgaben nach § 1 Nummer 13 des Seeaufgabengesetzes erforderlich ist.
 
@@ -883,7 +909,7 @@ das Spiel nach den zur Prüfung eingereichten Bedingungen nicht wirtschaftlich b
 
 ### § 33f Ermächtigung zum Erlaß von Durchführungsvorschriften
 
-(1) Das Bundesministerium für Wirtschaft und Technologie kann zur Durchführung der §§ 33c, 33d, 33e und 33i im Einvernehmen mit dem Bundesministerium des Innern, dem Bundesministerium für Gesundheit und dem Bundesministerium für Familie, Senioren, Frauen und Jugend und mit Zustimmung des Bundesrates durch Rechtsverordnung zur Eindämmung der Betätigung des Spieltriebs, zum Schutze der Allgemeinheit und der Spieler sowie im Interesse des Jugendschutzes
+(1) Das Bundesministerium für Wirtschaft und Energie kann zur Durchführung der §§ 33c, 33d, 33e und 33i im Einvernehmen mit dem Bundesministerium des Innern, dem Bundesministerium für Gesundheit und dem Bundesministerium für Familie, Senioren, Frauen und Jugend und mit Zustimmung des Bundesrates durch Rechtsverordnung zur Eindämmung der Betätigung des Spieltriebs, zum Schutze der Allgemeinheit und der Spieler sowie im Interesse des Jugendschutzes
 
 1.  
 die Aufstellung von Spielgeräten oder die Veranstaltung von Spielen auf bestimmte Gewerbezweige, Betriebe oder Veranstaltungen beschränken und die Zahl der jeweils in einem Betrieb aufgestellten Spielgeräte oder veranstalteten anderen Spiele begrenzen,
@@ -930,7 +956,7 @@ die Anforderungen an den Unterrichtungsnachweis nach § 33c Absatz 2 Nummer 2 un
 (2) Durch Rechtsverordnung können ferner
 
 1.  
-das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium des Innern und mit Zustimmung des Bundesrates
+das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium des Innern und mit Zustimmung des Bundesrates
 
 a)  
 das Verfahren der Physikalisch-Technischen Bundesanstalt bei der Prüfung und Zulassung der Bauart von Spielgeräten sowie bei der Verlängerung der Aufstelldauer von Warenspielgeräten, die auf Volksfesten, Schützenfesten oder ähnlichen Veranstaltungen aufgestellt werden sollen, und die ihrer Konstruktion nach keine statistischen Prüfmethoden erforderlich machen, regeln und
@@ -939,7 +965,7 @@ b)
 Vorschriften über die Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen der Physikalisch-Technischen Bundesanstalt erlassen;
 
 2.  
-das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie und mit Zustimmung des Bundesrates
+das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und mit Zustimmung des Bundesrates
 
 a)  
 das Verfahren des Bundeskriminalamtes bei der Erteilung von Unbedenklichkeitsbescheinigungen regeln und
@@ -949,7 +975,7 @@ Vorschriften über die Gebühren und Auslagen für individuell zurechenbare öff
 
 ### § 33g Einschränkung und Ausdehnung der Erlaubnispflicht
 
-Das Bundesministerium für Wirtschaft und Technologie kann im Einvernehmen mit den Bundesministerien des Innern und für Familie, Senioren, Frauen und Jugend mit Zustimmung des Bundesrates durch Rechtsverordnung bestimmen, daß
+Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit den Bundesministerien des Innern und für Familie, Senioren, Frauen und Jugend mit Zustimmung des Bundesrates durch Rechtsverordnung bestimmen, daß
 
 1.  
 für die Veranstaltung bestimmter anderer Spiele im Sinne des § 33d Abs. 1 Satz 1 eine Erlaubnis nicht erforderlich ist, wenn diese Spiele überwiegend der Unterhaltung dienen und kein öffentliches Interesse an einer Erlaubnispflicht besteht,
@@ -995,7 +1021,7 @@ Tatsachen die Annahme rechtfertigen, daß der Antragsteller die für den Gewerbe
 2.  
 er die für den Gewerbebetrieb erforderlichen Mittel oder entsprechende Sicherheiten nicht nachweist.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie kann durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze der Allgemeinheit und der Verpfänder Vorschriften erlassen über den Umfang der Befugnisse und Verpflichtungen bei der Ausübung der in Absatz 1 genannten Gewerbe, insbesondere über
+(2) Das Bundesministerium für Wirtschaft und Energie kann durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze der Allgemeinheit und der Verpfänder Vorschriften erlassen über den Umfang der Befugnisse und Verpflichtungen bei der Ausübung der in Absatz 1 genannten Gewerbe, insbesondere über
 
 1.  
 den Geltungsbereich der Erlaubnis,
@@ -1011,7 +1037,7 @@ die Verpflichtung zur Buchführung einschließlich der Aufzeichnung von Daten ü
 
 Es kann ferner bestimmen, daß diese Vorschriften ganz oder teilweise auch auf nichtgewerblich betriebene Pfandleihanstalten Anwendung finden.
 
-(3) (weggefallen)
+(3) Sind nach Ablauf des Jahres, in dem das Pfand verwertet worden ist, drei Jahre verstrichen, so verfällt der Erlös zugunsten des Fiskus des Landes, in dem die Verpfändung erfolgt ist, wenn nicht ein Empfangsberechtigter sein Recht angemeldet hat.
 
 (4) Der gewerbsmäßige Ankauf beweglicher Sachen mit Gewährung des Rückkaufsrechts ist verboten.
 
@@ -1050,7 +1076,7 @@ Schutz vor Ladendieben,
 3.  
 Bewachungen im Einlassbereich von gastgewerblichen Diskotheken.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie kann mit Zustimmung des Bundesrates durch Rechtsverordnung
+(2) Das Bundesministerium für Wirtschaft und Energie kann mit Zustimmung des Bundesrates durch Rechtsverordnung
 
 1.  
 die Anforderungen und das Verfahren für den Unterrichtungsnachweis nach Absatz 1 Satz 3 Nr. 3 sowie Ausnahmen von der Erforderlichkeit des Unterrichtungsnachweises festlegen,
@@ -1127,7 +1153,7 @@ soweit sie zu den Waren gehören, die in offenen Verkaufsstellen feilgeboten wer
 
 (7) Einzelhändler und Hersteller von Waren dürfen im Einzelverkauf an den Letztverbraucher Waren, die sie in ihrem Geschäftsbetrieb führen, im Wege der Versteigerung nur als Inhaber einer Versteigerererlaubnis nach Maßgabe der für Versteigerer geltenden Vorschriften oder durch einen von ihnen beauftragten Versteigerer absetzen.
 
-(8) Das Bundesministerium für Wirtschaft und Technologie kann durch Rechtsverordnung mit Zustimmung des Bundesrates unter Berücksichtigung des Schutzes der Allgemeinheit sowie der Auftraggeber und der Bieter Vorschriften erlassen über
+(8) Das Bundesministerium für Wirtschaft und Energie kann durch Rechtsverordnung mit Zustimmung des Bundesrates unter Berücksichtigung des Schutzes der Allgemeinheit sowie der Auftraggeber und der Bieter Vorschriften erlassen über
 
 1.  
 den Umfang der Befugnisse und Verpflichtungen bei der Ausübung des Versteigerergewerbes, insbesondere über
@@ -1173,7 +1199,7 @@ Versteigerungen, zu denen als Bieter nur Personen zugelassen werden, die Waren d
 den Abschluss von Verträgen über Grundstücke, grundstücksgleiche Rechte, gewerbliche Räume oder Wohnräume vermitteln oder die Gelegenheit zum Abschluss solcher Verträge nachweisen,
 
 2.  
-den Abschluss von Darlehensverträgen vermitteln oder die Gelegenheit zum Abschluss solcher Verträge nachweisen,
+den Abschluss von Darlehensverträgen, mit Ausnahme von Verträgen im Sinne des § 34i Absatz 1 Satz 1, vermitteln oder die Gelegenheit zum Abschluss solcher Verträge nachweisen,
 
 3.  
 Bauvorhaben
@@ -1194,7 +1220,7 @@ Tatsachen die Annahme rechtfertigen, daß der Antragsteller oder eine der mit de
 2.  
 der Antragsteller in ungeordneten Vermögensverhältnissen lebt; dies ist in der Regel der Fall, wenn über das Vermögen des Antragstellers das Insolvenzverfahren eröffnet worden oder er in das vom Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2 Insolvenzordnung, § 882b Zivilprozeßordnung) eingetragen ist.
 
-(3) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze der Allgemeinheit und der Auftraggeber Vorschriften zu erlassen über den Umfang der Verpflichtungen des Gewerbetreibenden bei der Ausübung des Gewerbes, insbesondere über die Verpflichtungen
+(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze der Allgemeinheit und der Auftraggeber Vorschriften zu erlassen über den Umfang der Verpflichtungen des Gewerbetreibenden bei der Ausübung des Gewerbes, insbesondere über die Verpflichtungen
 
 1.  
 ausreichende Sicherheiten zu leisten oder eine zu diesem Zweck geeignete Versicherung abzuschließen, sofern der Gewerbetreibende Vermögenswerte des Auftraggebers erhält oder verwendet,
@@ -1261,7 +1287,7 @@ er seine Tätigkeit als Versicherungsvermittler unmittelbar im Auftrag eines ode
 für ihn eine Berufshaftpflichtversicherung nach Maßgabe des Absatzes 2 Nr. 3 besteht und
 
 3.  
-er zuverlässig sowie angemessen qualifiziert ist und nicht in ungeordneten Vermögensverhältnissen lebt; als Nachweis hierfür ist eine Erklärung der in Nummer 1 bezeichneten Auftraggeber ausreichend, mit dem Inhalt, dass sie sich verpflichten, die Anforderungen entsprechend § 80 Abs. 2 des Versicherungsaufsichtsgesetzes zu beachten und die für die Vermittlung der jeweiligen Versicherung angemessene Qualifikation des Antragstellers sicherzustellen, und dass ihnen derzeit nichts Gegenteiliges bekannt ist.
+er zuverlässig sowie angemessen qualifiziert ist und nicht in ungeordneten Vermögensverhältnissen lebt; als Nachweis hierfür ist eine Erklärung der in Nummer 1 bezeichneten Auftraggeber ausreichend, mit dem Inhalt, dass sie sich verpflichten, die Anforderungen entsprechend § 48 Absatz 2 des Versicherungsaufsichtsgesetzes zu beachten und die für die Vermittlung der jeweiligen Versicherung angemessene Qualifikation des Antragstellers sicherzustellen, und dass ihnen derzeit nichts Gegenteiliges bekannt ist.
 
 Absatz 1 Satz 2 gilt entsprechend.
 
@@ -1277,9 +1303,9 @@ durch das oder die Versicherungsunternehmen für ihn die uneingeschränkte Haftu
 
 (6) Gewerbetreibende nach den Absätzen 1, 3 und 4 dürfen direkt bei der Vermittlung mitwirkende Personen nur beschäftigen, wenn sie sicherstellen, dass diese Personen über die für die Vermittlung der jeweiligen Versicherung angemessene Qualifikation verfügen, und geprüft haben, ob sie zuverlässig sind.
 
-(7) Gewerbetreibende nach den Absätzen 1, 3 und 4 sind verpflichtet, sich unverzüglich nach Aufnahme ihrer Tätigkeit in das Register nach § 11a Abs. 1 eintragen zu lassen. Wesentliche Änderungen der im Register gespeicherten Angaben sind der Registerbehörde unverzüglich mitzuteilen. Im Falle des § 80 Abs. 3 des Versicherungsaufsichtsgesetzes wird mit der Mitteilung an die Registerbehörde zugleich die uneingeschränkte Haftung nach Absatz 4 Nr. 2 durch das Versicherungsunternehmen übernommen. Diese Haftung besteht nicht für Vermittlertätigkeiten nach Löschung der Angaben zu dem Gewerbetreibenden aus dem Register auf Grund einer Mitteilung nach § 80 Abs. 4 des Versicherungsaufsichtsgesetzes.
+(7) Gewerbetreibende nach den Absätzen 1, 3 und 4 sind verpflichtet, sich unverzüglich nach Aufnahme ihrer Tätigkeit in das Register nach § 11a Abs. 1 eintragen zu lassen. Wesentliche Änderungen der im Register gespeicherten Angaben sind der Registerbehörde unverzüglich mitzuteilen. Im Falle des § 48 Absatz 4 des Versicherungsaufsichtsgesetzes wird mit der Mitteilung an die Registerbehörde zugleich die uneingeschränkte Haftung nach Absatz 4 Nr. 2 durch das Versicherungsunternehmen übernommen. Diese Haftung besteht nicht für Vermittlertätigkeiten nach Löschung der Angaben zu dem Gewerbetreibenden aus dem Register auf Grund einer Mitteilung nach § 48 Absatz 5 des Versicherungsaufsichtsgesetzes.
 
-(8) Das Bundesministerium für Wirtschaft und Technologie kann im Einvernehmen mit dem Bundesministerium der Justiz, dem Bundesministerium der Finanzen und dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates zur Umsetzung der Richtlinie 2002/92/EG, zur Umsetzung der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. EU Nr. L 255 S. 22, 2007 Nr. L 271 S. 18) oder zum Schutze der Allgemeinheit und der Versicherungsnehmer Vorschriften erlassen über
+(8) Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates zur Umsetzung der Richtlinie 2002/92/EG, zur Umsetzung der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. EU Nr. L 255 S. 22, 2007 Nr. L 271 S. 18) oder zum Schutze der Allgemeinheit und der Versicherungsnehmer Vorschriften erlassen über
 
 1.  
 den Umfang der Verpflichtungen des Versicherungsvermittlers bei der Ausübung des Gewerbes, insbesondere über
@@ -1346,7 +1372,7 @@ als juristische Person ihren satzungsmäßigen Sitz oder, wenn sie gemäß dem f
 
 (2) § 34d Abs. 2 und 5 bis 8 und 11 sowie die auf Grund des § 34d Abs. 8 erlassenen Rechtsvorschriften gelten entsprechend.
 
-(3) Versicherungsberater dürfen keine Provision von Versicherungsunternehmen entgegennehmen. Das Bundesministerium für Wirtschaft und Technologie kann im Einvernehmen mit dem Bundesministerium der Justiz durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze der Allgemeinheit und der Versicherungsnehmer nähere Vorschriften über das Provisionsannahmeverbot erlassen. In der Rechtsverordnung nach Satz 2 kann insbesondere bestimmt werden, dass die Einhaltung des Provisionsannahmeverbotes auf Kosten des Versicherungsberaters regelmäßig oder aus besonderem Anlass zu überprüfen und der Prüfungsbericht der zuständigen Behörde vorzulegen ist, soweit es zur wirksamen Überwachung erforderlich ist; hierbei können die Einzelheiten der Prüfung, insbesondere deren Anlass, Zeitpunkt und Häufigkeit, die Auswahl, Bestellung und Abberufung der Prüfer, deren Rechte, Pflichten und Verantwortlichkeit, der Inhalt des Prüfberichts, die Verpflichtungen des Versicherungsberaters gegenüber dem Prüfer sowie das Verfahren bei Meinungsverschiedenheiten zwischen dem Prüfer und dem Versicherungsberater, geregelt werden. Zur Überwachung des Provisionsannahmeverbotes kann in der Rechtsverordnung bestimmt werden, dass der Versicherungsberater über die Einnahmen aus seiner Tätigkeit Aufzeichnungen zu führen hat.
+(3) Versicherungsberater dürfen keine Provision von Versicherungsunternehmen entgegennehmen. Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze der Allgemeinheit und der Versicherungsnehmer nähere Vorschriften über das Provisionsannahmeverbot erlassen. In der Rechtsverordnung nach Satz 2 kann insbesondere bestimmt werden, dass die Einhaltung des Provisionsannahmeverbotes auf Kosten des Versicherungsberaters regelmäßig oder aus besonderem Anlass zu überprüfen und der Prüfungsbericht der zuständigen Behörde vorzulegen ist, soweit es zur wirksamen Überwachung erforderlich ist; hierbei können die Einzelheiten der Prüfung, insbesondere deren Anlass, Zeitpunkt und Häufigkeit, die Auswahl, Bestellung und Abberufung der Prüfer, deren Rechte, Pflichten und Verantwortlichkeit, der Inhalt des Prüfberichts, die Verpflichtungen des Versicherungsberaters gegenüber dem Prüfer sowie das Verfahren bei Meinungsverschiedenheiten zwischen dem Prüfer und dem Versicherungsberater, geregelt werden. Zur Überwachung des Provisionsannahmeverbotes kann in der Rechtsverordnung bestimmt werden, dass der Versicherungsberater über die Einnahmen aus seiner Tätigkeit Aufzeichnungen zu führen hat.
 
 ### § 34f Finanzanlagenvermittler
 
@@ -1399,7 +1425,7 @@ Gewerbetreibende in Bezug auf Vermittlungs- und Beratungstätigkeiten nach Maßg
 
 ### § 34g Verordnungsermächtigung
 
-(1) Das Bundesministerium für Wirtschaft und Technologie hat im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze der Allgemeinheit und der Anleger Vorschriften zu erlassen über den Umfang der Verpflichtungen des Gewerbetreibenden bei der Ausübung des Gewerbes eines Finanzanlagenvermittlers und Honorar-Finanzanlagenberaters. Die Rechtsverordnung hat Vorschriften zu enthalten über
+(1) Das Bundesministerium für Wirtschaft und Energie hat im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze der Allgemeinheit und der Anleger Vorschriften zu erlassen über den Umfang der Verpflichtungen des Gewerbetreibenden bei der Ausübung des Gewerbes eines Finanzanlagenvermittlers und Honorar-Finanzanlagenberaters. Die Rechtsverordnung hat Vorschriften zu enthalten über
 
 1.  
 die Informationspflichten gegenüber dem Anleger, einschließlich einer Pflicht, Provisionen und andere Zuwendungen offenzulegen und dem Anleger ein Informationsblatt über die jeweilige Finanzanlage zur Verfügung zu stellen,
@@ -1433,7 +1459,10 @@ zum Umfang der und zu inhaltlichen Anforderungen an die nach § 34f Absatz 2 Num
 zu den Anforderungen und Verfahren, die zur Durchführung der Richtlinie 2005/36/EG auf Inhaber von Berufsqualifikationen angewendet werden sollen, die in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erworben wurden, sofern diese Personen im Inland vorübergehend oder dauerhaft als Finanzanlagenvermittler tätig werden wollen,
 
 6.  
-zu der Anforderung nach § 34h Absatz 2 Satz 2, der Empfehlung eine hinreichende Anzahl von auf dem Markt angebotenen Finanzanlagen zu Grunde zu legen.
+zu der Anforderung nach § 34h Absatz 2 Satz 2, der Empfehlung eine hinreichende Anzahl von auf dem Markt angebotenen Finanzanlagen zu Grunde zu legen,
+
+7.  
+zur Pflicht, die Einhaltung der in § 2a Absatz 3 des Vermögensanlagengesetzes genannten Betragsgrenzen zu prüfen.
 
 Außerdem kann der Gewerbetreibende in der Verordnung verpflichtet werden, die Einhaltung der nach Absatz 1 Satz 2 und Absatz 2 Satz 1 Nummer 1, 2 und 4 erlassenen Vorschriften auf seine Kosten regelmäßig sowie aus besonderem Anlass prüfen zu lassen und den Prüfungsbericht der zuständigen Behörde vorzulegen, soweit dies zur wirksamen Überwachung erforderlich ist. Hierbei können die Einzelheiten der Prüfung, insbesondere deren Anlass, Zeitpunkt und Häufigkeit, die Auswahl, Bestellung und Abberufung der Prüfer, deren Rechte, Pflichten und Verantwortlichkeit, der Inhalt des Prüfungsberichts, die Verpflichtungen der Gewerbetreibenden gegenüber dem Prüfer sowie das Verfahren bei Meinungsverschiedenheiten zwischen dem Prüfer und dem Gewerbetreibenden geregelt werden.
 
@@ -1444,6 +1473,98 @@ Außerdem kann der Gewerbetreibende in der Verordnung verpflichtet werden, die E
 (2) Gewerbetreibende nach Absatz 1 dürfen kein Gewerbe nach § 34f Absatz 1 ausüben. Sie müssen ihrer Empfehlung eine hinreichende Anzahl von auf dem Markt angebotenen Finanzanlagen zu Grunde legen, die von ihrer Erlaubnis umfasst sind und die nach Art und Anbieter oder Emittenten hinreichend gestreut und nicht beschränkt sind auf Anbieter oder Emittenten, die in einer engen Verbindung zu ihnen stehen oder zu denen in sonstiger Weise wirtschaftliche Verflechtungen bestehen.
 
 (3) Gewerbetreibende nach Absatz 1 dürfen sich die Erbringung der Beratung nur durch den Anleger vergüten lassen. Sie dürfen Zuwendungen eines Dritten, der nicht Anleger ist oder von dem Anleger zur Beratung beauftragt worden ist, im Zusammenhang mit der Beratung, insbesondere auf Grund einer Vermittlung als Folge der Beratung, nicht annehmen, es sei denn, die empfohlene Finanzanlage oder eine in gleicher Weise geeignete Finanzanlage ist ohne Zuwendung nicht erhältlich. Zuwendungen sind in diesem Fall unverzüglich nach Erhalt und ungemindert an den Kunden auszukehren. Vorschriften über die Entrichtung von Steuern und Abgaben bleiben davon unberührt.
+
+### § 34i Immobiliardarlehensvermittler
+
+(1) Wer gewerbsmäßig den Abschluss von Immobiliar-Verbraucherdarlehensverträgen im Sinne des § 491 Absatz 3 des Bürgerlichen Gesetzbuchs oder entsprechende entgeltliche Finanzierungshilfen im Sinne des § 506 des Bürgerlichen Gesetzbuchs vermitteln will oder Dritte zu solchen Verträgen beraten will (Immobiliardarlehensvermittler), bedarf der Erlaubnis der zuständigen Behörde. Die Erlaubnis kann inhaltlich beschränkt und mit Nebenbestimmungen verbunden werden, soweit dies zum Schutz der Allgemeinheit oder der Darlehensnehmer erforderlich ist; unter derselben Voraussetzung ist auch die nachträgliche Aufnahme, Änderung und Ergänzung von Nebenbestimmungen zulässig.
+
+(2) Die Erlaubnis ist zu versagen, wenn
+
+1.  
+Tatsachen die Annahme rechtfertigen, dass der Antragsteller oder eine der Personen, die mit der Leitung des Betriebes oder einer Zweigniederlassung beauftragt sind, die für den Gewerbebetrieb erforderliche Zuverlässigkeit nicht besitzt; die erforderliche Zuverlässigkeit besitzt in der Regel nicht, wer in den letzten fünf Jahren vor Antragstellung wegen eines Verbrechens oder wegen Diebstahls, Unterschlagung, Erpressung, Betruges, Untreue, Geldwäsche, Urkundenfälschung, Hehlerei, Wuchers oder einer Insolvenzstraftat rechtskräftig verurteilt worden ist,
+
+2.  
+der Antragsteller in ungeordneten Vermögensverhältnissen lebt; dies ist in der Regel der Fall, wenn über das Vermögen des Antragstellers das Insolvenzverfahren eröffnet worden oder er in das Schuldnerverzeichnis nach § 882b der Zivilprozessordnung eingetragen ist,
+
+3.  
+der Antragsteller den Nachweis einer Berufshaftpflichtversicherung oder gleichwertigen Garantie nicht erbringen kann,
+
+4.  
+der Antragsteller nicht durch eine vor der Industrie- und Handelskammer erfolgreich abgelegte Prüfung nachweist, dass er die Sachkunde über die fachlichen und rechtlichen Grundlagen sowie über die Kundenberatung besitzt, die für die Vermittlung von und Beratung zu Immobiliar-Verbraucherdarlehensverträgen oder entsprechenden entgeltlichen Finanzierungshilfen notwendig ist, oder
+
+5.  
+der Antragsteller seine Hauptniederlassung oder seinen Hauptsitz nicht im Inland hat oder seine Tätigkeit als Immobiliardarlehensvermittler nicht im Inland ausübt.
+
+(3) Keiner Erlaubnis nach Absatz 1 Satz 1 bedürfen Kreditinstitute, für die eine Erlaubnis nach § 32 Absatz 1 des Kreditwesengesetzes erteilt wurde, und Zweigstellen von Unternehmen im Sinne des § 53b Absatz 1 Satz 1 des Kreditwesengesetzes.
+
+(4) Keiner Erlaubnis nach Absatz 1 Satz 1 bedarf ein Immobiliardarlehensvermittler, der den Abschluss von Immobiliar-Verbraucherdarlehensverträgen oder entsprechenden entgeltlichen Finanzierungshilfen vermitteln oder Dritte zu solchen Verträgen beraten will und dabei im Umfang seiner Erlaubnis handelt, die nach Artikel 29 der Richtlinie 2014/17/EU des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Wohnimmobilienkreditverträge für Verbraucher und zur Änderung der Richtlinien 2008/48/EG und 2013/36/EU und der Verordnung (EU) Nr. 1093/2010 (ABl. L 60 vom 28.2.2014, S. 34) durch einen anderen Mitgliedstaat der Europäischen Union oder einen anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erteilt worden ist. Vor Aufnahme der Tätigkeit im Geltungsbereich dieses Gesetzes muss ein Verfahren nach Artikel 32 Absatz 3 der Richtlinie 2014/17/EU stattgefunden haben.
+
+(5) Gewerbetreibende nach den Absätzen 1 und 4, die eine unabhängige Beratung anbieten oder als unabhängiger Berater auftreten (Honorar-Immobiliardarlehensberater),
+
+1.  
+müssen für ihre Empfehlung für oder gegen einen Immobiliar-Verbraucherdarlehensvertrag oder eine entsprechende entgeltliche Finanzierungshilfe eine hinreichende Anzahl von entsprechenden auf dem Markt angebotenen Verträgen heranziehen und
+
+2.  
+dürfen vom Darlehensgeber keine Zuwendungen annehmen und von ihm in keiner Weise abhängig sein.
+
+(6) Gewerbetreibende nach Absatz 1 dürfen Personen, die bei der Vermittlung oder Beratung mitwirken oder in leitender Position für diese Tätigkeit verantwortlich sind, nur beschäftigen, wenn sie sicherstellen, dass diese Personen über einen Sachkundenachweis nach Absatz 2 Nummer 4 verfügen und wenn sie überprüft haben, dass diese Personen zuverlässig sind. Die Beschäftigung einer bei der Vermittlung oder Beratung mitwirkenden Person kann dem Gewerbetreibenden untersagt werden, wenn Tatsachen die Annahme rechtfertigen, dass die Person die für ihre Tätigkeit erforderliche Sachkunde oder Zuverlässigkeit nicht besitzt. Die Sätze 1 und 2 sind auf Gewerbetreibende nach Absatz 4, die ihre Tätigkeit im Inland über eine Zweigniederlassung ausüben, entsprechend anzuwenden.
+
+(7) Bei Gewerbetreibenden nach Absatz 1 darf die Struktur der Vergütung der in dem Gewerbebetrieb beschäftigten Personen deren Fähigkeit nicht beeinträchtigen, im besten Interesse des Darlehensnehmers zu handeln; insbesondere darf die Vergütungsstruktur nicht an Absatzziele gekoppelt sein.
+
+(8) Gewerbetreibende nach Absatz 1 sind verpflichtet,
+
+1.  
+sich unverzüglich nach Aufnahme ihrer Tätigkeit in das Register nach § 11a Absatz 1 eintragen zu lassen,
+
+2.  
+die unmittelbar bei der Vermittlung oder Beratung mitwirkenden oder die in leitender Position für diese Tätigkeit verantwortlichen Personen unverzüglich nach Aufnahme ihrer Tätigkeit in das Register nach § 11a Absatz 1 eintragen zu lassen und
+
+3.  
+Änderungen gegenüber den im Register gespeicherten Daten der Registerbehörde unverzüglich mitzuteilen.
+
+(9) Die zuständige Behörde kann jede in das Gewerbezentralregister nach § 149 Absatz 2 einzutragende, nicht mehr anfechtbare Entscheidung wegen Verstoßes gegen Bestimmungen dieses Gesetzes oder einer Rechtsverordnung nach § 34j öffentlich bekannt machen, sofern eine solche Bekanntgabe die Stabilität der Finanzmärkte nicht ernstlich gefährdet und den Beteiligten keinen unverhältnismäßig hohen Schaden zufügt. Die Bekanntmachung erfolgt durch Eintragung in das Register nach § 11a Absatz 1.
+
+### § 34j Verordnungsermächtigung
+
+(1) Das Bundesministerium für Wirtschaft und Energie kann durch Rechtsverordnung mit Zustimmung des Bundesrates zur Umsetzung der Richtlinie 2014/17/EU, zur Umsetzung der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L 354 vom 28.12.2013, S. 132) geändert worden ist, oder zum Schutz der Allgemeinheit und der Darlehensnehmer Vorschriften erlassen über
+
+1.  
+den Umfang der Verpflichtungen des Immobiliardarlehensvermittlers bei der Ausübung des Gewerbes, insbesondere über
+
+a)  
+die Pflicht, die erhaltenen Vermögenswerte des Darlehensnehmers getrennt zu verwalten,
+
+b)  
+die Pflicht, nach der Ausführung des Auftrags dem Darlehensnehmer Rechnung zu legen,
+
+c)  
+die Pflicht, der zuständigen Behörde Anzeige beim Wechsel der mit der Leitung des Betriebes oder einer Zweigniederlassung beauftragten Personen zu erstatten und hierbei bestimmte Angaben zu machen,
+
+d)  
+die Verhaltens- und Informationspflichten gegenüber dem Darlehensnehmer, einschließlich der Pflicht, Provisionen und andere Zuwendungen offenzulegen,
+
+e)  
+die Pflicht, Bücher zu führen und die notwendigen Daten über einzelne Geschäftsvorgänge sowie über die Darlehensnehmer aufzuzeichnen,
+
+2.  
+die Inhalte und das Verfahren für eine Sachkundeprüfung nach § 34i Absatz 2 Nummer 4, über die Ausnahmen von der Erforderlichkeit der Sachkundeprüfung, über die Gleichstellung anderer Berufsqualifikationen mit dem Nachweis der Sachkunde, über die örtliche Zuständigkeit der Industrie- und Handelskammern sowie über die Berufung eines Aufgabenauswahlausschusses,
+
+3.  
+den Umfang und die inhaltlichen Anforderungen an die nach § 34i Absatz 2 Nummer 3 erforderliche Haftpflichtversicherung und die gleichwertige Garantie, insbesondere über die Höhe der Mindestversicherungssumme, die nach dem in Artikel 29 Absatz 2 Buchstabe a der Richtlinie 2014/17/EU vorgesehenen Verfahren festgelegt wird; über die Bestimmung der zuständigen Stelle nach § 117 Absatz 2 des Versicherungsvertragsgesetzes; über den Nachweis des Bestehens einer Haftpflichtversicherung und einer gleichwertigen Garantie sowie über die Anzeigepflichten des Versicherungsunternehmens gegenüber den Behörden und den Versicherungsnehmern,
+
+4.  
+die Anforderungen und Verfahren, die zur Durchführung der Richtlinie 2005/36/EG Anwendung finden sollen auf Inhaber von Berufsqualifikationen, die in einem anderen Mitgliedstaat der Europäischen Union oder in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erworben worden sind und deren Inhaber im Inland vorübergehend oder dauerhaft als Immobiliardarlehensvermittler tätig werden wollen und nicht die Voraussetzungen des § 34i Absatz 4 erfüllen,
+
+5.  
+die Anforderungen und Verfahren für die grenzüberschreitende Verwaltungszusammenarbeit mit den zuständigen Behörden eines anderen Mitgliedstaates der Europäischen Union, mit den zuständigen Behörden eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum sowie der Europäischen Bankenaufsichtsbehörde im Sinne von Artikel 32 Absatz 3, Artikel 34 Absatz 2 bis 5, Artikel 36 und 37 der Richtlinie 2014/17/EU, insbesondere über
+
+a)  
+Einzelheiten des in § 11a Absatz 4 festgelegten Verfahrens,
+
+b)  
+Einzelheiten der Zusammenarbeit und des Informationsaustauschs mit den zuständigen Behörden eines anderen Mitgliedstaates der Europäischen Union, mit den zuständigen Behörden eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum sowie mit der Europäischen Bankenaufsichtsbehörde, einschließlich Einzelheiten der Befugnis der zuständigen Behörden des Herkunftsmitgliedstaates eines Gewerbetreibenden nach § 34i Absatz 4, in den Geschäftsräumen der Zweigniederlassung in Begleitung der für die Ausführung dieses Gesetzes zuständigen Behörden Prüfungen des Betriebs vorzunehmen, soweit es zum Zwecke der Überwachung erforderlich ist.
+
+(2) Gewerbetreibende nach § 34i Absatz 1 und 4 können in der Verordnung verpflichtet werden, die Einhaltung der nach Absatz 1 Nummer 1 erlassenen Vorschriften auf eigene Kosten aus besonderem Anlass prüfen zu lassen und den Prüfungsbericht der zuständigen Behörde vorzulegen, soweit dies zur wirksamen Überwachung erforderlich ist. Hierbei können die Einzelheiten der Prüfung, insbesondere deren Anlass, Zeitpunkt und Häufigkeit, die Auswahl, Bestellung und Abberufung der Prüfer, deren Rechte, Pflichten und Verantwortlichkeit, der Inhalt des Prüfungsberichts, die Verpflichtungen der Gewerbetreibenden gegenüber dem Prüfer sowie das Verfahren bei Meinungsverschiedenheiten zwischen dem Prüfer und dem Gewerbetreibenden geregelt werden.
 
 ### § 35 Gewerbeuntersagung wegen Unzuverlässigkeit
 
@@ -1645,7 +1766,7 @@ Die Befugnisse zum stehenden Gewerbebetrieb können durch Stellvertreter ausgeü
 
 ### § 47 Stellvertretung in besonderen Fällen
 
-Inwiefern für die nach den §§ 31, 33i, 34, 34a, 34b, 34c, 34d, 34e, 34f, 34h und 36 konzessionierten oder angestellten Personen eine Stellvertretung zulässig ist, hat in jedem einzelnen Falle die Behörde zu bestimmen, welcher die Konzessionierung oder Anstellung zusteht.
+Inwiefern für die nach den §§ 31, 33i, 34, 34a, 34b, 34c, 34d, 34e, 34f, 34h, 34i und 36 konzessionierten oder angestellten Personen eine Stellvertretung zulässig ist, hat in jedem einzelnen Falle die Behörde zu bestimmen, welcher die Konzessionierung oder Anstellung zusteht.
 
 ### § 48 Übertragung von Realgewerbeberechtigungen
 
@@ -1722,6 +1843,9 @@ ein nach Bundes- oder Landesrecht erlaubnispflichtiges Gewerbe ausübt, für des
 8.  
 im Sinne des § 34f Absatz 3 Nummer 4, auch in Verbindung mit § 34h Absatz 1 Satz 4, Finanzanlagen als Finanzanlagenvermittler vermittelt und Dritte über Finanzanlagen berät; das Gleiche gilt für die in dem Gewerbebetrieb beschäftigten Personen;
 
+8a.  
+im Sinne des § 34i Absatz 4, auch in Verbindung mit § 34i Absatz 5, Immobiliardarlehensverträge vermittelt und Dritte zu solchen Verträgen berät;
+
 9.  
 von einer nicht ortsfesten Verkaufsstelle oder einer anderen Einrichtung in regelmäßigen, kürzeren Zeitabständen an derselben Stelle Lebensmittel oder andere Waren des täglichen Bedarfs vertreibt; das Verbot des § 56 Abs. 1 Nr. 3 Buchstabe b findet keine Anwendung;
 
@@ -1755,7 +1879,7 @@ Wer als Gewerbetreibender auf Grund des § 55a Abs. 1 Nr. 3, 9 oder 10 einer Rei
 
 ### § 55f Haftpflichtversicherung
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze der Allgemeinheit und der Veranstaltungsteilnehmer für Tätigkeiten nach § 55 Abs. 1 Nr. 2, die mit besonderen Gefahren verbunden sind, Vorschriften über die Verpflichtung des Gewerbetreibenden zum Abschluß und zum Nachweis des Bestehens einer Haftpflichtversicherung zu erlassen.
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze der Allgemeinheit und der Veranstaltungsteilnehmer für Tätigkeiten nach § 55 Abs. 1 Nr. 2, die mit besonderen Gefahren verbunden sind, Vorschriften über die Verpflichtung des Gewerbetreibenden zum Abschluß und zum Nachweis des Bestehens einer Haftpflichtversicherung zu erlassen.
 
 ### § 56 Im Reisegewerbe verbotene Tätigkeiten
 
@@ -1829,7 +1953,7 @@ f)
 6.  
 der Abschluß sowie die Vermittlung von Rückkaufgeschäften (§ 34 Abs. 4) und die für den Darlehensnehmer entgeltliche Vermittlung von Darlehensgeschäften.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie kann durch Rechtsverordnung mit Zustimmung des Bundesrates Ausnahmen von den in Absatz 1 aufgeführten Beschränkungen zulassen, soweit hierdurch eine Gefährdung der Allgemeinheit oder der öffentlichen Sicherheit oder Ordnung nicht zu besorgen ist. Die gleiche Befugnis steht den Landesregierungen für den Bereich ihres Landes zu, solange und soweit das Bundesministerium für Wirtschaft und Technologie von seiner Ermächtigung keinen Gebrauch gemacht hat. Die zuständige Behörde kann im Einzelfall für ihren Bereich Ausnahmen von den Verboten des Absatzes 1 mit dem Vorbehalt des Widerrufs und für einen Zeitraum bis zu fünf Jahren zulassen, wenn sich aus der Person des Antragstellers oder aus sonstigen Umständen keine Bedenken ergeben; § 55 Abs. 3 und § 60c Abs. 1 gelten für die Ausnahmebewilligung entsprechend.
+(2) Das Bundesministerium für Wirtschaft und Energie kann durch Rechtsverordnung mit Zustimmung des Bundesrates Ausnahmen von den in Absatz 1 aufgeführten Beschränkungen zulassen, soweit hierdurch eine Gefährdung der Allgemeinheit oder der öffentlichen Sicherheit oder Ordnung nicht zu besorgen ist. Die gleiche Befugnis steht den Landesregierungen für den Bereich ihres Landes zu, solange und soweit das Bundesministerium für Wirtschaft und Energie von seiner Ermächtigung keinen Gebrauch gemacht hat. Die zuständige Behörde kann im Einzelfall für ihren Bereich Ausnahmen von den Verboten des Absatzes 1 mit dem Vorbehalt des Widerrufs und für einen Zeitraum bis zu fünf Jahren zulassen, wenn sich aus der Person des Antragstellers oder aus sonstigen Umständen keine Bedenken ergeben; § 55 Abs. 3 und § 60c Abs. 1 gelten für die Ausnahmebewilligung entsprechend.
 
 (3) Die Vorschriften des Absatzes 1 finden auf die in § 55b Abs. 1 bezeichneten gewerblichen Tätigkeiten keine Anwendung. Verboten ist jedoch das Feilbieten von Bäumen, Sträuchern und Rebenpflanzgut bei land- und forstwirtschaftlichen Betrieben sowie bei Betrieben des Obst-, Garten- und Weinanbaues.
 
@@ -1858,7 +1982,7 @@ Das Wanderlager darf an Ort und Stelle nur durch den in der Anzeige genannten Ve
 
 (1) Die Reisegewerbekarte ist zu versagen, wenn Tatsachen die Annahme rechtfertigen, daß der Antragsteller die für die beabsichtigte Tätigkeit erforderliche Zuverlässigkeit nicht besitzt.
 
-(2) Im Falle der Ausübung des Bewachungsgewerbes, des Gewerbes der Makler, Bauträger und Baubetreuer, des Versicherungsvermittlergewerbes, des Versicherungsberatergewerbes sowie des Gewerbes des Finanzanlagenvermittlers und Honorar-Finanzanlagenberaters gelten die Versagungsgründe der §§ 34a, 34c, 34d, auch in Verbindung mit § 34e, 34f oder 34h entsprechend.
+(2) Im Falle der Ausübung des Bewachungsgewerbes, des Gewerbes der Makler, Bauträger und Baubetreuer, des Versicherungsvermittlergewerbes, des Versicherungsberatergewerbes, des Gewerbes des Finanzanlagenvermittlers und Honorar-Finanzanlagenberaters sowie des Gewerbes des Immobiliardarlehensvermittlers gelten die Versagungsgründe der §§ 34a, 34c, 34d, auch in Verbindung mit § 34e, der §§ 34f, 34h oder 34i entsprechend.
 
 (3) Die Ausübung des Versteigerergewerbes als Reisegewerbe ist nur zulässig, wenn der Gewerbetreibende die nach § 34b Abs. 1 erforderliche Erlaubnis besitzt.
 
@@ -1912,7 +2036,7 @@ Für die Erteilung, die Versagung, die Rücknahme und den Widerruf der Reisegewe
 
 (1) Für die Ausübung des Reisegewerbes gilt § 29 entsprechend.
 
-(2) Für die Ausübung des Bewachungsgewerbes, des Versteigerergewerbes, des Gewerbes der Makler, Bauträger und Baubetreuer, des Versicherungsvermittlergewerbes, des Versicherungsberatergewerbes sowie des Gewerbes des Finanzanlagenvermittlers oder Honorar-Finanzanlagenberaters gelten § 34a Absatz 1 Satz 5 und Abs. 2 bis 5, § 34b Abs. 5 bis 8 und 10, § 34c Abs. 3 und 5, § 34d Abs. 6 bis 10, § 34e Abs. 2 bis 3, § 34f Absatz 4 bis 6, auch in Verbindung mit § 34h Absatz 1 Satz 4, und § 34g sowie die auf Grund des § 34a Abs. 2, des § 34b Abs. 8, des § 34c Abs. 3, des § 34d Abs. 8, des § 34e Abs. 3 und des § 34g erlassenen Rechtsvorschriften entsprechend. Die zuständige Behörde kann für die Versteigerung leicht verderblicher Waren für ihren Bezirk Ausnahmen zulassen.
+(2) Für die Ausübung des Bewachungsgewerbes, des Versteigerergewerbes, des Gewerbes der Makler, Bauträger und Baubetreuer, des Versicherungsvermittlergewerbes, des Versicherungsberatergewerbes, des Gewerbes des Finanzanlagenvermittlers oder Honorar-Finanzanlagenberaters sowie des Gewerbes des Immobiliardarlehensvermittlers gelten § 34a Absatz 1 Satz 5 und Absatz 2 bis 5, § 34b Absatz 5 bis 8 und 10, § 34c Absatz 3 und 5, § 34d Absatz 6 bis 10, § 34e Absatz 2 und 3, § 34f Absatz 4 bis 6, auch in Verbindung mit § 34h Absatz 1 Satz 4, die §§ 34g, 34i Absatz 5 bis 8 und § 34j sowie die auf Grund des § 34a Absatz 2, des § 34b Absatz 8, des § 34c Absatz 3, des § 34d Absatz 8, des § 34e Absatz 3 sowie der §§ 34g und 34j erlassenen Rechtsvorschriften entsprechend. Die zuständige Behörde kann für die Versteigerung leicht verderblicher Waren für ihren Bezirk Ausnahmen zulassen.
 
 ### (XXXX) §§ 62 und 63 (weggefallen)
 
@@ -2008,7 +2132,7 @@ die Veranstaltung, soweit es sich um einen Spezialmarkt oder einen Jahrmarkt han
 
 (1) Die zuständige Behörde kann einem Aussteller oder Anbieter die Teilnahme an einer bestimmten Veranstaltung oder einer oder mehreren Arten von Veranstaltungen im Sinne der §§ 64 bis 68 untersagen, wenn Tatsachen die Annahme rechtfertigen, daß er die hierfür erforderliche Zuverlässigkeit nicht besitzt.
 
-(2) Im Falle der selbständigen Ausübung des Bewachungsgewerbes, des Gewerbes der Makler, Bauträger und Baubetreuer, des Versicherungsvermittlergewerbes, des Versicherungsberatergewerbes sowie des Gewerbes des Finanzanlagenvermittlers und Honorar-Finanzanlagenberaters auf einer Veranstaltung im Sinne der §§ 64 bis 68 gelten die Versagungsgründe der §§ 34a, 34c oder 34d, auch in Verbindung mit § 34e, § 34f oder § 34h entsprechend.
+(2) Im Falle der selbständigen Ausübung des Bewachungsgewerbes, des Gewerbes der Makler, Bauträger und Baubetreuer, des Versicherungsvermittlergewerbes, des Versicherungsberatergewerbes, des Gewerbes des Finanzanlagenvermittlers und Honorar-Finanzanlagenberaters sowie des Gewerbes des Immobiliardarlehensvermittlers auf einer Veranstaltung im Sinne der §§ 64 bis 68 gelten die Versagungsgründe der §§ 34a, 34c oder 34d, auch in Verbindung mit § 34e, der §§ 34f, 34h oder 34i entsprechend.
 
 (3) Die selbständige Ausübung des Versteigerergewerbes auf einer Veranstaltung im Sinne der §§ 64 bis 68 ist nur zulässig, wenn der Gewerbetreibende die nach § 34b Abs. 1 erforderliche Erlaubnis besitzt.
 
@@ -2028,7 +2152,7 @@ Den Ländern bleibt es vorbehalten, Vorschriften zur Aufrechterhaltung der öffe
 
 (1) Für die Ausübung des Messe-, Ausstellungs- und Marktgewerbes gilt § 29 entsprechend.
 
-(2) Für die Ausübung des Bewachungsgewerbes, des Versteigerergewerbes, des Gewerbes der Makler, Bauträger und Baubetreuer, des Versicherungsvermittlergewerbes, des Versicherungsberatergewerbes sowie des Gewerbes des Finanzanlagenvermittlers und Honorar-Finanzanlagenberaters gelten § 34a Absatz 1 Satz 5 und Abs. 2 bis 5, § 34b Abs. 5 bis 8 und 10, § 34c Abs. 3 und 5, § 34d Abs. 6 bis 10, § 34e Abs. 2 bis 3*, § 34f Absatz 4 bis 6, § 34f Absatz 4 bis 6* sowie die auf Grund des § 34a Abs. 2, des § 34b Abs. 8, des § 34c Abs. 3, des § 34d Abs. 8, des § 34e Abs. 3 und des § 34g erlassenen Rechtsvorschriften entsprechend. Die zuständige Behörde kann für die Versteigerung leicht verderblicher Waren für ihren Bezirk Ausnahmen zulassen.
+(2) Für die Ausübung des Bewachungsgewerbes, des Versteigerergewerbes, des Gewerbes der Makler, Bauträger und Baubetreuer, des Versicherungsvermittlergewerbes, des Versicherungsberatergewerbes, des Gewerbes des Finanzanlagenvermittlers und Honorar-Finanzanlagenberaters sowie des Gewerbes des Immobiliardarlehensvermittlers gelten § 34a Absatz 1 Satz 5 und Absatz 2 bis 5, § 34b Absatz 5 bis 8 und 10, § 34c Absatz 3 und 5, § 34d Absatz 6 bis 10, § 34e Absatz 2 und 3, § 34f Absatz 4 bis 6, § 34i Absatz 5 bis 8 sowie die auf Grund des § 34a Absatz 2, des § 34b Absatz 8, des § 34c Absatz 3, des § 34d Absatz 8, des § 34e Absatz 3 sowie der §§ 34g und 34j erlassenen Rechtsvorschriften entsprechend. Die zuständige Behörde kann für die Versteigerung leicht verderblicher Waren für ihren Bezirk Ausnahmen zulassen.
 
 § 71b Abs. 2 Satz 1 Kursivdruck: Gem. Änderungsanweisung Art. 1 Nr. 5b G v. 4.3.2013 I 362 soll auch nach der Angabe "§ 34e Abs. 2 bis 3" ein Komma und die Wörter "§ 34f Absatz 4 bis 6" mWv 13.3.2013 eingefügt werden. Dies führt zu einer Wortdopplung.
 
@@ -2085,7 +2209,7 @@ Der Arbeitgeber kann Inhalt, Ort und Zeit der Arbeitsleistung nach billigem Erme
 
 (2) Die Verpflichtung zur Abrechnung entfällt, wenn sich die Angaben gegenüber der letzten ordnungsgemäßen Abrechnung nicht geändert haben.
 
-(3) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, das Nähere zum Inhalt und Verfahren einer Entgeltbescheinigung, die zu Zwecken nach dem Sozialgesetzbuch verwendet werden kann, durch Rechtsverordnung zu bestimmen. Der Arbeitnehmer kann vom Arbeitgeber zu anderen Zwecken eine weitere Entgeltbescheinigung verlangen, die sich auf die Angaben nach Absatz 1 beschränkt.
+(3) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, das Nähere zum Inhalt und Verfahren einer Entgeltbescheinigung, die zu Zwecken nach dem Sozialgesetzbuch sowie zur Vorlage bei den Sozial- und Familiengerichten verwendet werden kann, durch Rechtsverordnung zu bestimmen. Der Arbeitnehmer kann vom Arbeitgeber zu anderen Zwecken eine weitere Entgeltbescheinigung verlangen, die sich auf die Angaben nach Absatz 1 beschränkt.
 
 ### § 109 Zeugnis
 
@@ -2278,10 +2402,13 @@ k)
 nach § 34e Abs. 1 Satz 1 über Versicherungen berät,
 
 l)  
-nach § 34f Absatz 1 Satz 1 Anlageberatung oder Anlagevermittlung erbringt oder
+nach § 34f Absatz 1 Satz 1 Anlageberatung oder Anlagevermittlung erbringt,
 
 m)  
-nach § 34h Absatz 1 Satz 1 Anlageberatung erbringt,
+nach § 34h Absatz 1 Satz 1 Anlageberatung erbringt oder
+
+n)  
+nach § 34i Absatz 1 Satz 1 den Abschluss von Verträgen der dort bezeichneten Art vermittelt oder Dritte zu solchen Verträgen berät,
 
 2.  
 ohne Zulassung nach § 31 Absatz 1 Leben oder Eigentum fremder Personen auf einem Seeschiff bewacht,
@@ -2316,29 +2443,29 @@ ein Spielgerät ohne die nach § 33c Abs. 3 Satz 1 erforderliche Bestätigung de
 entgegen § 33c Absatz 3 Satz 4 eine Person beschäftigt,
 
 5.  
-einer vollziehbaren Auflage nach § 34c Abs. 1 Satz 2, § 34f Absatz 1 Satz 2 oder § 34h Absatz 1 Satz 2 zuwiderhandelt,
+einer vollziehbaren Auflage nach § 34c Abs. 1 Satz 2, § 34f Absatz 1 Satz 2, § 34h Absatz 1 Satz 2 oder § 34i Absatz 1 Satz 2 zuwiderhandelt,
 
 6.  
-einer Rechtsverordnung nach § 34c Abs. 3 oder § 34g Absatz 1 Satz 1 oder Absatz 2 Satz 1 Nummer 1, 2 oder 4 oder Satz 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+einer Rechtsverordnung nach § 34c Abs. 3 oder § 34g Absatz 1 Satz 1 oder Absatz 2 Satz 1 Nummer 1, 2 oder 4 oder Satz 2 oder § 34j oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 7.  
-entgegen § 34d Absatz 7 Satz 1, auch in Verbindung mit § 34e Absatz 2, oder § 34f Absatz 5 Satz 1 oder Absatz 6 Satz 1 eine Eintragung nicht vornehmen lässt,
+entgegen § 34d Absatz 7 Satz 1, auch in Verbindung mit § 34e Absatz 2, entgegen § 34f Absatz 5 Satz 1 oder Absatz 6 Satz 1 oder § 34i Absatz 8 Nummer 1 oder 2 eine Eintragung nicht vornehmen lässt,
 
 8.  
 entgegen § 34e Abs. 3 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach Satz 2, eine Provision entgegennimmt,
 
 9.  
-entgegen § 34f Absatz 5 Satz 1 oder Absatz 6 Satz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+entgegen § 34f Absatz 5 Satz 1 oder Absatz 6 Satz 2 oder § 34i Absatz 8 Nummer 3 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 10.  
-entgegen § 34h Absatz 3 Satz 2 eine Zuwendung annimmt oder
+entgegen § 34h Absatz 3 Satz 2 oder § 34i Absatz 5 eine Zuwendung annimmt oder
 
 11.  
 entgegen § 34h Absatz 3 Satz 3 eine Zuwendung nicht, nicht vollständig oder nicht rechtzeitig auskehrt.
 
 (3) Ordnungswidrig handelt ferner, wer vorsätzlich oder fahrlässig bei einer Versteigerung einer Vorschrift des § 34b Abs. 6 oder 7 zuwiderhandelt.
 
-(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 Buchstabe l und m und Nummer 2 mit einer Geldbuße bis zu fünfzigtausend Euro, in den Fällen des Absatzes 1 Nummer 1 Buchstabe a bis k, Nummer 3 und 4 und des Absatzes 2 Nummer 1, 1a und 5 bis 11 mit einer Geldbuße bis zu fünftausend Euro, in den Fällen des Absatzes 2 Nummer 1b und 2 bis 4a mit einer Geldbuße bis zu dreitausend Euro und in den Fällen des Absatzes 3 mit einer Geldbuße bis zu eintausend Euro geahndet werden.
+(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 Buchstabe l und m und Nummer 2 mit einer Geldbuße bis zu fünfzigtausend Euro, in den Fällen des Absatzes 1 Nummer 1 Buchstabe a bis k und n, Nummer 3 und 4 und des Absatzes 2 Nummer 1, 1a und 5 bis 11 mit einer Geldbuße bis zu fünftausend Euro, in den Fällen des Absatzes 2 Nummer 1b und 2 bis 4a mit einer Geldbuße bis zu dreitausend Euro und in den Fällen des Absatzes 3 mit einer Geldbuße bis zu eintausend Euro geahndet werden.
 
 (5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 Nummer 2 und 3 und des Absatzes 2 Nummer 1 das Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
@@ -2413,7 +2540,7 @@ zuwiderhandelt,
 einer Rechtsverordnung nach § 61a Abs. 2 Satz 1 in Verbindung mit § 34a Abs. 2, § 34b Abs. 8, § 34d Abs. 8 Satz 1 Nr. 1 oder 3, Satz 2 oder 3 oder § 34e Abs. 3 Satz 3 oder 4 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist oder
 
 9.  
-einer Rechtsverordnung nach § 61a Abs. 2 Satz 1 in Verbindung mit § 34c Abs. 3 oder mit § 34g Absatz 1 Satz 1 oder Absatz 2 Satz 1 Nummer 1, 2 oder 4 oder Satz 2 oder einer vollziehbaren Anordnung auf Grund dieser Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+einer Rechtsverordnung nach § 61a Absatz 2 Satz 1 in Verbindung mit § 34c Absatz 3, mit § 34g Absatz 1 Satz 1 oder Absatz 2 Satz 1 Nummer 1, 2 oder 4 oder Satz 2, mit § 34j Absatz 1 Nummer 1 oder 3 oder Absatz 2 oder einer vollziehbaren Anordnung auf Grund dieser Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 (3) Ordnungswidrig handelt ferner, wer vorsätzlich oder fahrlässig
 
@@ -2485,9 +2612,12 @@ einer Rechtsverordnung nach § 6c oder einer vollziehbaren Anordnung auf Grund e
 entgegen
 
 a)  
-§ 14 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, Absatz 2 oder einer Rechtsverordnung nach § 14 Absatz 14 Satz 2 Nummer 1, oder
+§ 13a Absatz 1 Satz 1 oder Absatz 6 Satz 2,
 
 b)  
+§ 14 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, Absatz 2 oder einer Rechtsverordnung nach § 14 Absatz 14 Satz 2 Nummer 1, oder
+
+c)  
 § 14 Absatz 3 Satz 1
 
 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
@@ -2526,7 +2656,7 @@ entgegen § 70a Abs. 3 das Versteigerergewerbe auf einer Veranstaltung im Sinne 
 einer Rechtsverordnung nach § 71b Abs. 2 Satz 1 in Verbindung mit § 34a Abs. 2, § 34b Abs. 8, § 34d Abs. 8 Satz 1 Nr. 1 oder 3, Satz 2 oder 3 oder § 34e Abs. 3 Satz 3 oder 4 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 11a.  
-einer Rechtsverordnung nach § 71b Abs. 2 Satz 1 in Verbindung mit § 34c Abs. 3 oder § 34g Absatz 1 Satz 1 oder Absatz 2 Satz 1 Nummer 1, 2 oder Nummer 4 oder Satz 2 oder einer vollziehbaren Anordnung auf Grund dieser Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist oder
+einer Rechtsverordnung nach § 71b Abs. 2 Satz 1 in Verbindung mit § 34c Abs. 3, § 34g Absatz 1 Satz 1 oder Absatz 2 Satz 1 Nummer 1, 2 oder Nummer 4 oder Satz 2 oder § 34j oder einer vollziehbaren Anordnung auf Grund dieser Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist oder
 
 12.  
 entgegen einer nach § 133 Abs. 2 Satz 1 ergangenen Rechtsverordnung die Berufsbezeichnung "Baumeister" oder eine Berufsbezeichnung führt, die das Wort "Baumeister" enthält und auf eine Tätigkeit im Baugewerbe hinweist.
@@ -2608,10 +2738,13 @@ b)
 die Ausübung eines Gewerbes, die Tätigkeit als Vertretungsberechtigter einer Gewerbetreibenden oder als mit der Leitung eines Gewerbebetriebes beauftragte Person oder der Betrieb oder die Leitung einer sonstigen wirtschaftlichen Unternehmung untersagt,
 
 c)  
-ein Antrag auf Erteilung eines Befähigungsscheines nach § 20 des Sprengstoffgesetzes abgelehnt oder ein erteilter Befähigungsschein entzogen oder
+ein Antrag auf Erteilung eines Befähigungsscheines nach § 20 des Sprengstoffgesetzes abgelehnt oder ein erteilter Befähigungsschein entzogen,
 
 d)  
-im Rahmen eines Gewerbebetriebes oder einer sonstigen wirtschaftlichen Unternehmung die Befugnis zur Einstellung oder Ausbildung von Auszubildenden entzogen oder die Beschäftigung, Beaufsichtigung, Anweisung oder Ausbildung von Kindern und Jugendlichen verboten
+im Rahmen eines Gewerbebetriebes oder einer sonstigen wirtschaftlichen Unternehmung die Befugnis zur Einstellung oder Ausbildung von Auszubildenden entzogen oder die Beschäftigung, Beaufsichtigung, Anweisung oder Ausbildung von Kindern und Jugendlichen verboten oder
+
+e)  
+die Führung von Kraftverkehrsgeschäften untersagt
 
 wird,
 
@@ -2668,7 +2801,7 @@ a)
 der Entscheidung über die in § 149 Abs. 2 Nr. 1 Buchstabe a und c bezeichneten Anträge,
 
 b)  
-der übrigen in § 149 Abs. 2 Nr. 1 Buchstabe a bis d bezeichneten Entscheidungen,
+der übrigen in § 149 Abs. 2 Nr. 1 Buchstabe a bis e bezeichneten Entscheidungen,
 
 c)  
 von Verwaltungsentscheidungen auf Grund des Straßenverkehrsgesetzes, des Fahrlehrergesetzes, des Fahrpersonalgesetzes, des Binnenschiffahrtsaufgabengesetzes oder der auf Grund dieser Gesetze erlassenen Rechtsvorschriften über Eintragungen, die das Personenbeförderungsgesetz oder das Güterkraftverkehrsgesetz betreffen,
@@ -2727,9 +2860,9 @@ erteilt.
 
 (9) Ist der Empfänger eine nicht-öffentliche Stelle, gilt § 38 des Bundesdatenschutzgesetzes mit der Maßgabe, daß die Aufsichtsbehörde die Ausführung der Vorschriften über den Datenschutz auch dann überwacht, wenn keine hinreichenden Anhaltspunkte für eine Verletzung dieser Vorschriften vorliegen oder wenn der Empfänger die personenbezogenen Informationen nicht in Dateien verarbeitet.
 
-### § 150c Auskunft an ausländischesowie über- und zwischenstaatliche Stellen
+### § 150c Auskunft an ausländische sowie über- und zwischenstaatliche Stellen
 
-(1) Ersuchen von Stellen eines anderen Staates sowie von über- und zwischenstaatlichen Stellen um Erteilung einer Auskunft aus dem Register werden nach den hierfür geltenden völkerrechtlichen Verträgen, soweit an ihnen nach Artikel 59 Absatz 2 Satz 1 des Grundgesetzes die gesetzgebenden Körperschaften mitgewirkt haben, von der Registerbehörde ausgeführt und mit Zustimmung des Bundesministeriums der Justiz bewilligt.
+(1) Ersuchen von Stellen eines anderen Staates sowie von über- und zwischenstaatlichen Stellen um Erteilung einer Auskunft aus dem Register werden nach den hierfür geltenden völkerrechtlichen Verträgen, soweit an ihnen nach Artikel 59 Absatz 2 Satz 1 des Grundgesetzes die gesetzgebenden Körperschaften mitgewirkt haben, von der Registerbehörde ausgeführt und mit Zustimmung des Bundesministeriums der Justiz und für Verbraucherschutz bewilligt.
 
 (2) Ersuchen eines anderen Mitgliedstaates der Europäischen Union um Erteilung einer Auskunft werden von der Registerbehörde ausgeführt und bewilligt. Die Auskunft kann, soweit kein völkerrechtlicher Vertrag im Sinne des Absatzes 1 vorliegt, dem ersuchenden Mitgliedstaat für die gleichen Zwecke und in gleichem Umfang wie gegenüber vergleichbaren deutschen Stellen erteilt werden. Der ausländische Empfänger ist darauf hinzuweisen, dass er die Auskunft nur zu dem Zweck verwenden darf, für den sie erteilt worden ist. Die Auskunftserteilung unterbleibt, wenn sie in Widerspruch zur Charta der Grundrechte der Europäischen Union steht.
 
@@ -2847,7 +2980,7 @@ zu tilgen.
 
 ### § 153b Verwaltungsvorschriften
 
-Die näheren Bestimmungen über den Aufbau des Registers trifft das Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie. Soweit die Bestimmungen die Erfassung und Aufbereitung der Daten sowie die Auskunftserteilung betreffen, werden sie von der Bundesregierung mit Zustimmung des Bundesrates getroffen.
+Die näheren Bestimmungen über den Aufbau des Registers trifft das Bundesministerium der Justiz und für Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie. Soweit die Bestimmungen die Erfassung und Aufbereitung der Daten sowie die Auskunftserteilung betreffen, werden sie von der Bundesregierung mit Zustimmung des Bundesrates getroffen.
 
 - Schlußbestimmungen
 --------------------
@@ -2892,9 +3025,15 @@ Für die Versagung der Auskunft zu Zwecken des Zeugenschutzes gilt § 44a des Bu
 
 (2) Gewerbetreibende, die am 1. Januar 2013 eine Erlaubnis für die Vermittlung des Abschlusses von Verträgen im Sinne des § 34c Absatz 1 Satz 1 Nummer 2 oder für die Anlageberatung nach § 34c Absatz 1 Satz 1 Nummer 3 haben und diese Tätigkeit nach dem 1. Januar 2013 weiterhin ausüben wollen, sind verpflichtet, bis zum 1. Juli 2013 eine Erlaubnis als Finanzanlagenvermittler nach § 34f Absatz 1 zu beantragen und sich selbst sowie die nach § 34f Absatz 6 einzutragenden Personen nach Erteilung der Erlaubnis gemäß § 34f Absatz 5 registrieren zu lassen. Die für die Erlaubniserteilung zuständige Stelle übermittelt dazu die erforderlichen Informationen an die Registerbehörde. Wird die Erlaubnis unter Vorlage der bisherigen Erlaubnisurkunde gemäß § 34c Absatz 1 Satz 1 Nummer 2 oder Nummer 3 beantragt, so erfolgt keine Prüfung der Zuverlässigkeit und der Vermögensverhältnisse nach § 34f Absatz 2 Nummer 1 und 2. Für den Nachweis der nach § 34f Absatz 2 Nummer 4 erforderlichen Sachkunde gilt Absatz 3. Die Erlaubnis nach § 34c Absatz 1 Satz 1 Nummer 2 oder Nummer 3 erlischt mit der bestandskräftigen Entscheidung über den Erlaubnisantrag nach § 34f Absatz 1 Satz 1, spätestens aber mit Ablauf der in Satz 1 genannten Frist. Bis zu diesem Zeitpunkt gilt die Erlaubnis nach § 34c Absatz 1 Satz 1 Nummer 2 oder Nummer 3 als Erlaubnis nach § 34f Absatz 1 Satz 1.
 
-(3) Gewerbetreibende im Sinne des Absatzes 2 sind verpflichtet, bis zum 1. Januar 2015 einen Sachkundenachweis nach § 34f Absatz 2 Nummer 4 gegenüber der zuständigen Behörde zu erbringen. Die Erlaubnis nach § 34f Absatz 1 Satz 1 erlischt, wenn der erforderliche Sachkundenachweis nach § 34f Absatz 2 Nummer 4 nicht bis zum Ablauf dieser Frist erbracht wird. Beschäftigte im Sinne des § 34f Absatz 4 sind verpflichtet, bis zum 1. Januar 2015 einen Sachkundenachweis nach § 34f Absatz 2 Nummer 4 zu erwerben. Personen, die seit dem 1. Januar 2006 ununterbrochen unselbstständig oder selbstständig als Anlagevermittler oder Anlageberater gemäß § 34c Absatz 1 Satz 1 Nummer 2 oder Nummer 3 in der bis zum 31. Dezember 2012 geltenden Fassung tätig waren, bedürfen keiner Sachkundeprüfung. Selbstständig tätige Anlagevermittler oder Anlageberater haben die ununterbrochene Tätigkeit durch Vorlage der erteilten Erlaubnis und die lückenlose Vorlage der Prüfungsberichte nach § 16 Absatz 1 Satz 1 der Makler- und Bauträgerverordnung in der am 31. Dezember 2012 geltenden Fassung nachzuweisen.
+(3) Gewerbetreibende im Sinne des Absatzes 2 sind verpflichtet, bis zum 1. Januar 2015 einen Sachkundenachweis nach § 34f Absatz 2 Nummer 4 gegenüber der zuständigen Behörde zu erbringen. Die Erlaubnis nach § 34f Absatz 1 Satz 1 erlischt, wenn der erforderliche Sachkundenachweis nach § 34f Absatz 2 Nummer 4 nicht bis zum Ablauf dieser Frist erbracht wird. Beschäftigte im Sinne des § 34f Absatz 4 sind verpflichtet, bis zum 1. Januar 2015 einen Sachkundenachweis nach § 34f Absatz 2 Nummer 4 zu erwerben. Personen, die seit dem 1. Januar 2006 ununterbrochen unselbstständig oder selbstständig als Anlagevermittler oder Anlageberater gemäß § 34c Absatz 1 Satz 1 Nummer 2 oder Nummer 3 in der bis zum 31. Dezember 2012 geltenden Fassung tätig waren, bedürfen keiner Sachkundeprüfung für die Produktkategorien der Erlaubnis nach § 34f Absatz 1, die bis zum 1. Januar 2015 beantragt wurde. Selbstständig tätige Anlagevermittler oder Anlageberater haben die ununterbrochene Tätigkeit durch Vorlage der erteilten Erlaubnis und die lückenlose Vorlage der Prüfungsberichte nach § 16 Absatz 1 Satz 1 der Makler- und Bauträgerverordnung in der am 31. Dezember 2012 geltenden Fassung nachzuweisen.
 
 (4) Für einen Gewerbetreibenden, der am 21. Juli 2013 eine Erlaubnis für die Anlageberatung oder die Vermittlung des Abschlusses von Verträgen gemäß § 34f Absatz 1 Satz 1 Nummer 1, 2 oder Nummer 3 in der bis zum 21. Juli 2013 geltenden Fassung hat, gilt die Erlaubnis für die Anlageberatung oder die Vermittlung des Abschlusses von Verträgen gemäß § 34f Absatz 1 Satz 1 in der ab dem 22. Juli 2013 geltenden Fassung als zu diesem Zeitpunkt erteilt. Für einen Gewerbetreibenden, der am 18. Juli 2014 eine Erlaubnis für die Anlageberatung oder die Vermittlung des Abschlusses von Verträgen gemäß § 34f Absatz 1 Satz 1 in der bis zum 19. Juli 2014 geltenden Fassung hat, gilt die Erlaubnis als für die Anlageberatung oder Anlagevermittlung gemäß § 34f Absatz 1 Satz 1 als zu diesem Zeitpunkt erteilt. Die Absätze 2 und 3 bleiben unberührt. Die Bezeichnungen der Erlaubnisse im Register nach § 34f Absatz 5 in Verbindung mit § 11a Absatz 1 werden von Amts wegen aktualisiert.
+
+(5) Gewerbetreibende, die am 10. Juli 2015 eine Erlaubnis nach § 34c Absatz 1 Satz 1 Nummer 2 für die Vermittlung von Darlehensverträgen oder die Gelegenheit zum Nachweis solcher Verträge haben und damit partiarische Darlehen oder Nachrangdarlehen vermitteln und die diese Tätigkeit nach dem 10. Juli 2015 weiterhin ausüben wollen, sind verpflichtet, bis zum 1. Januar 2016 eine Erlaubnis als Finanzanlagenvermittler nach § 34f Absatz 1 Satz 1 Nummer 3 zu beantragen und sich selbst sowie die nach § 34f Absatz 6 Satz 1 einzutragenden Personen nach Erteilung der Erlaubnis nach § 34f Absatz 5 und 6 registrieren zu lassen. Die für die Erlaubniserteilung zuständige Stelle übermittelt dazu die erforderlichen Informationen an die Registerbehörde. Wird die Erlaubnis unter Vorlage der bisherigen Erlaubnisurkunde nach § 34c Absatz 1 Satz 1 Nummer 2 beantragt, erfolgt keine Prüfung der Zuverlässigkeit und der Vermögensverhältnisse nach § 34f Absatz 2 Nummer 1 und 2. Die Erlaubnis ist auf die Vermittlung von partiarischen Darlehen und Nachrangdarlehen beschränkt. Für den Nachweis der nach § 34f Absatz 2 Nummer 4 erforderlichen Sachkunde ist Absatz 6 anzuwenden. Die Erlaubnis nach § 34c Absatz 1 Satz 1 Nummer 2 erlischt hinsichtlich der Vermittlung von partiarischen Darlehen oder Nachrangdarlehen mit der bestandskräftigen Entscheidung über den Erlaubnisantrag nach § 34f Absatz 1 Satz 1 Nummer 3, spätestens aber mit Ablauf der in Satz 1 genannten Frist. Bis zu diesem Zeitpunkt gilt die Erlaubnis nach § 34c Absatz 1 Satz 1 Nummer 2 als Erlaubnis nach § 34f Absatz 1 Satz 1 Nummer 3 für die Vermittlung partiarischer Darlehen und Nachrangdarlehen.
+
+(6) Gewerbetreibende im Sinne des Absatzes 5 sind verpflichtet, bis zum 1. Juli 2016 einen Sachkundenachweis nach § 34f Absatz 2 Nummer 4 gegenüber der zuständigen Behörde zu erbringen. Die nach Absatz 5 erteilte Erlaubnis erlischt, wenn der erforderliche Sachkundenachweis nicht bis zum Ablauf dieser Frist erbracht wird. Nach Erbringung des Sachkundenachweises ist dem Erlaubnisinhaber eine unbeschränkte Erlaubnis nach § 34f Absatz 1 Satz 1 Nummer 3 zu erteilen. Beschäftigte dieses Erlaubnisinhabers im Sinne des § 34f Absatz 4 Satz 1 sind verpflichtet, bis zum 1. Juli 2016 einen Sachkundenachweis nach § 34f Absatz 2 Nummer 4 zu erwerben.
+
+(7) Gewerbetreibende, die zu Vermögensanlagen im Sinne des § 1 Absatz 2 Nummer 7 des Vermögensanlagengesetzes Anlagevermittlung im Sinne des § 1 Absatz 1a Nummer 1 des Kreditwesengesetzes oder Anlageberatung im Sinne des § 1 Absatz 1a Nummer 1a des Kreditwesengesetzes erbringen wollen, bedürfen bis zum 15. Oktober 2015 keiner Erlaubnis nach § 34f Absatz 1 Satz 1 Nummer 3.
 
 ### § 158 Übergangsregelung zu § 14
 
@@ -2903,6 +3042,20 @@ Bis zum Inkrafttreten der in § 14 Absatz 14 genannten Rechtsverordnung sind die
 ### § 159 Übergangsvorschrift zu § 31
 
 Tätigkeiten im Sinne des § 31 Absatz 1 in der ab dem 1. Dezember 2013 geltenden Fassung können nach § 31 Absatz 2 in Verbindung mit nach § 31 Absatz 4 erlassenen Rechtsverordnungen bereits vor dem 1. Dezember 2013 zugelassen werden.
+
+### § 160 Übergangsregelungen zu den §§ 34c und 34i
+
+(1) Gewerbetreibende, die am 21. März 2016 eine Erlaubnis nach § 34c Absatz 1 Satz 1 haben, welche zur Vermittlung des Abschlusses von Darlehensverträgen berechtigt, und die Verträge über Immobiliardarlehen im Sinne des § 34i Absatz 1 weiterhin vermitteln wollen, müssen bis zum 21. März 2017 eine Erlaubnis als Immobiliardarlehensvermittler nach § 34i Absatz 1 erworben haben und sich selbst sowie die nach § 34i Absatz 8 Nummer 2 einzutragenden Personen registrieren lassen.
+
+(2) Wird die Erlaubnis unter Vorlage der bisherigen Erlaubnisurkunde beantragt, so erfolgt keine Prüfung der Zuverlässigkeit und der Vermögensverhältnisse nach § 34i Absatz 2 Nummer 1 und 2.
+
+(3) Personen, die seit dem 21. März 2011 ununterbrochen unselbständig oder selbständig eine Tätigkeit im Sinne des § 34i Absatz 1 Satz 1 ausüben, bedürfen keiner Sachkundeprüfung nach § 34i Absatz 2 Nummer 4, wenn sie bei Beantragung der Erlaubnis nach § 34i Absatz 1 die ununterbrochene Tätigkeit nachweisen können.
+
+(4) Die Erlaubnisse nach § 34c Absatz 1 Satz 1, die zur Vermittlung des Abschlusses von Darlehensverträgen berechtigen, erlöschen für die Vermittlung von Verträgen im Sinne des § 34i Absatz 1 Satz 1 mit der Erteilung der Erlaubnis nach § 34i Absatz 1 Satz 1, spätestens aber zum 21. März 2017. Bis zu diesem Zeitpunkt gelten diese Erlaubnisse als Erlaubnis nach § 34i Absatz 1 Satz 1.
+
+(5) Beschäftigte im Sinne des § 34i Absatz 6 sind verpflichtet, bis zum 21. März 2017 einen Sachkundenachweis nach § 34i Absatz 2 Nummer 4 zu erwerben. Absatz 3 ist entsprechend anzuwenden.
+
+(6) Bis zur Erteilung der Erlaubnis nach § 34i Absatz 1 findet das Verfahren des § 11a Absatz 4 auf Gewerbetreibende im Sinne des Absatzes 1 keine Anwendung.
 
 ### (XXXX) Anlage 1 bis 3 (weggefallen)
 
