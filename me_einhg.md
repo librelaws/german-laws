@@ -5,10 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 22.2.1985 I 408;
 
 Stand  
-zuletzt geändert durch Art. 4 Abs. 68 G v. 7.8.2013 I 3154
-
-Hinweis  
-Änderung durch Art. 291 V v. 31.8.2015 I 1474 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+zuletzt geändert durch Art. 291 V v. 31.8.2015 I 1474
 
 ### 
 
