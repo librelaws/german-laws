@@ -1210,7 +1210,7 @@ Vierter Abschnitt Gestaltung von Arbeitsplatz, Arbeitsablauf und Arbeitsumgebung
 
 ### § 90 Unterrichtungs- und Beratungsrechte
 
-Der Arbeitgeber hat den Betriebsrat über die Planung
+(1) Der Arbeitgeber hat den Betriebsrat über die Planung
 
 1.  
 von Neu-, Um- und Erweiterungsbauten von Fabrikations-, Verwaltungs- und sonstigen betrieblichen Räumen,
