@@ -5,16 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 7.8.2002 I 3146;
 
 Stand  
-zuletzt geändert durch Art. 11 G v. 19.10.2012 I 2192
-
-Hinweis  
-Änderung durch Art. 2 Abs. 80 G v. 7.8.2013 I 3154 (Nr. 48) noch nicht berücksichtigt
-
-Hinweis  
-Änderung durch Art. 4 Abs. 62 G v. 7.8.2013 I 3154 (Nr. 48) noch nicht berücksichtigt
-
-Sonst  
-Mittelbare Änderung durch Art. 11a G v. 19.10.2012 I 2192 ist berücksichtigt
+zuletzt geändert durch Art. 278 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -123,7 +114,7 @@ Zuständige Behörden, Rechtsverordnungen, sonstige Bestimmungen
 | § 32  | Aufgaben und Zuständigkeiten der Bundesoberbehörden im Medizinproduktebereich                                     |
 | § 33  | Datenbankgestütztes Informationssystem, Europäische Datenbank                                                     |
 | § 34  | Ausfuhr                                                                                                           |
-| § 35  | Kosten                                                                                                            |
+| § 35  | Gebühren und Auslagen                                                                                             |
 | § 36  | Zusammenarbeit der Behörden und Benannten Stellen im Europäischen Wirtschaftsraum und der Europäischen Kommission |
 | § 37  | Verordnungsermächtigungen                                                                                         |
 | § 37a | Allgemeine Verwaltungsvorschriften                                                                                |
@@ -451,7 +442,7 @@ Dritter Abschnitt Benannte Stellen und Bescheinigungen
 
 ### § 15 Benennung und Überwachung der Stellen, Anerkennung und Beauftragung von Prüflaboratorien
 
-(1) Das Bundesministerium für Gesundheit teilt dem Bundesministerium für Wirtschaft und Technologie die von der zuständigen Behörde für die Durchführung von Aufgaben im Zusammenhang mit der Konformitätsbewertung nach Maßgabe der Rechtsverordnung nach § 37 Abs. 1 benannten Stellen und deren Aufgabengebiete mit, die von diesem an die Europäische Kommission und die anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum weitergeleitet werden. Bei der zuständigen Behörde kann ein Antrag auf Benennung als Benannte Stelle gestellt werden. Voraussetzung für die Benennung ist, dass die Befähigung der Stelle zur Wahrnehmung ihrer Aufgaben sowie die Einhaltung der Kriterien des Anhangs 8 der Richtlinie 90/385/EWG, des Anhangs XI der Richtlinie 93/42/EWG oder des Anhangs IX der Richtlinie 98/79/EG entsprechend den Verfahren, für die sie benannt werden soll, durch die zuständige Behörde in einem Benennungsverfahren festgestellt wurden. Von den Stellen, die den Kriterien entsprechen, welche in den zur Umsetzung der einschlägigen harmonisierten Normen erlassenen einzelstaatlichen Normen festgelegt sind, wird angenommen, dass sie den einschlägigen Kriterien entsprechen. Die Benennung kann unter Auflagen erteilt werden und ist zu befristen. Erteilung, Ablauf, Rücknahme, Widerruf und Erlöschen der Benennung sind dem Bundesministerium für Gesundheit unverzüglich anzuzeigen.
+(1) Das Bundesministerium für Gesundheit teilt dem Bundesministerium für Wirtschaft und Energie die von der zuständigen Behörde für die Durchführung von Aufgaben im Zusammenhang mit der Konformitätsbewertung nach Maßgabe der Rechtsverordnung nach § 37 Abs. 1 benannten Stellen und deren Aufgabengebiete mit, die von diesem an die Europäische Kommission und die anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum weitergeleitet werden. Bei der zuständigen Behörde kann ein Antrag auf Benennung als Benannte Stelle gestellt werden. Voraussetzung für die Benennung ist, dass die Befähigung der Stelle zur Wahrnehmung ihrer Aufgaben sowie die Einhaltung der Kriterien des Anhangs 8 der Richtlinie 90/385/EWG, des Anhangs XI der Richtlinie 93/42/EWG oder des Anhangs IX der Richtlinie 98/79/EG entsprechend den Verfahren, für die sie benannt werden soll, durch die zuständige Behörde in einem Benennungsverfahren festgestellt wurden. Von den Stellen, die den Kriterien entsprechen, welche in den zur Umsetzung der einschlägigen harmonisierten Normen erlassenen einzelstaatlichen Normen festgelegt sind, wird angenommen, dass sie den einschlägigen Kriterien entsprechen. Die Benennung kann unter Auflagen erteilt werden und ist zu befristen. Erteilung, Ablauf, Rücknahme, Widerruf und Erlöschen der Benennung sind dem Bundesministerium für Gesundheit unverzüglich anzuzeigen.
 
 (2) Die zuständige Behörde überwacht die Einhaltung der in Absatz 1 für Benannte Stellen festgelegten Verpflichtungen und Anforderungen. Sie trifft die zur Beseitigung festgestellter Mängel oder zur Verhütung künftiger Verstöße notwendigen Anordnungen. Die Überwachung der Benannten Stellen, die an der Durchführung von Konformitätsbewertungsverfahren für Medizinprodukte, die ionisierende Strahlen erzeugen oder radioaktive Stoffe enthalten, beteiligt sind, wird insoweit im Auftrag des Bundes durch die Länder ausgeführt. Die zuständige Behörde kann von der Benannten Stelle und ihrem mit der Leitung und der Durchführung von Fachaufgaben beauftragten Personal die zur Erfüllung ihrer Überwachungsaufgaben erforderlichen Auskünfte und sonstige Unterstützung verlangen; sie ist befugt, die Benannte Stelle bei Überprüfungen zu begleiten. Ihre Beauftragten sind befugt, zu den Betriebs- und Geschäftszeiten Grundstücke und Geschäftsräume sowie Prüflaboratorien zu betreten und zu besichtigen und die Vorlage von Unterlagen insbesondere über die Erteilung der Bescheinigungen und zum Nachweis der Erfüllung der Anforderungen des Absatzes 1 Satz 2 zu verlangen. Das Betretungsrecht erstreckt sich auch auf Grundstücke des Herstellers, soweit die Überwachung dort erfolgt. § 26 Abs. 4 und 5 gilt entsprechend.
 
@@ -477,7 +468,7 @@ Dritter Abschnitt Benannte Stellen und Bescheinigungen
 
 (3) In den Fällen der Absätze 1 und 2 ist die bisherige Benannte Stelle verpflichtet, alle einschlägigen Informationen und Unterlagen der Benannten Stelle zur Verfügung zu stellen, mit der der Hersteller die Fortführung der Konformitätsbewertungsverfahren vereinbart.
 
-(4) Die zuständige Behörde teilt das Erlöschen, die Rücknahme und den Widerruf unverzüglich dem Bundesministerium für Gesundheit sowie den anderen zuständigen Behörden in Deutschland unter Angabe der Gründe und der für notwendig erachteten Maßnahmen mit. Das Bundesministerium für Gesundheit unterrichtet darüber unverzüglich das Bundesministerium für Wirtschaft und Technologie, das unverzüglich die Europäische Kommission und die anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum unterrichtet. Erlöschen, Rücknahme und Widerruf einer Benennung sind von der zuständigen Behörde auf deren Internetseite bekannt zu machen.
+(4) Die zuständige Behörde teilt das Erlöschen, die Rücknahme und den Widerruf unverzüglich dem Bundesministerium für Gesundheit sowie den anderen zuständigen Behörden in Deutschland unter Angabe der Gründe und der für notwendig erachteten Maßnahmen mit. Das Bundesministerium für Gesundheit unterrichtet darüber unverzüglich das Bundesministerium für Wirtschaft und Energie, das unverzüglich die Europäische Kommission und die anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum unterrichtet. Erlöschen, Rücknahme und Widerruf einer Benennung sind von der zuständigen Behörde auf deren Internetseite bekannt zu machen.
 
 (5) Die Absätze 1, 2 und 4 gelten für Konformitätsbewertungsstellen für Drittstaaten entsprechend.
 
@@ -968,9 +959,9 @@ Aufbau und Unterhaltung von Zugängen zu Datenbanken, die einen Bezug zu Medizin
 
 (2) Medizinprodukte, die einem Verbot nach § 4 Abs. 1 unterliegen, dürfen nur ausgeführt werden, wenn die zuständige Behörde des Bestimmungslandes die Einfuhr genehmigt hat, nachdem sie von der zuständigen Behörde über die jeweiligen Verbotsgründe informiert wurde.
 
-### § 35 Kosten
+### § 35 Gebühren und Auslagen
 
-Für Amtshandlungen nach diesem Gesetz und den zur Durchführung dieses Gesetzes erlassenen Rechtsverordnungen sind Kosten (Gebühren und Auslagen) nach Maßgabe der Rechtsverordnung nach § 37 Abs. 9 zu erheben. Soweit das Bundesministerium für Gesundheit von der Ermächtigung keinen Gebrauch macht, werden die Landesregierungen ermächtigt, entsprechende Vorschriften zu erlassen. Das Verwaltungskostengesetz findet Anwendung.
+Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und den zur Durchführung dieses Gesetzes erlassenen Rechtsverordnungen sind Gebühren und Auslagen nach Maßgabe der Rechtsverordnung nach § 37 Absatz 9 zu erheben.
 
 ### § 36 Zusammenarbeit der Behörden und Benannten Stellen im Europäischen Wirtschaftsraum und der Europäischen Kommission
 
@@ -1059,13 +1050,13 @@ zur Gewährleistung der Messsicherheit von Medizinprodukten mit Messfunktion die
 
 (8) Das Bundesministerium für Gesundheit wird ermächtigt, zur Gewährleistung einer ordnungsgemäßen Erhebung, Verarbeitung und Nutzung von Daten nach § 33 Abs. 1 und 2 durch Rechtsverordnung Näheres zu regeln, auch hinsichtlich der Art, des Umfangs und der Anforderungen an Daten. In dieser Rechtsverordnung können auch die Gebühren für Handlungen dieses Institutes festgelegt werden.
 
-(9) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung die gebührenpflichtigen Tatbestände nach § 35 zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den Amtshandlungen verbundene Personal- und Sachaufwand abgedeckt ist. In der Rechtsverordnung kann bestimmt werden, dass eine Gebühr auch für eine Amtshandlung erhoben werden kann, die nicht zu Ende geführt worden ist, wenn die Gründe hierfür von demjenigen zu vertreten sind, der die Amtshandlung veranlasst hat.
+(9) Das Bundesministerium für Gesundheit wird ermächtigt, für den Bereich der Bundesverwaltung durch Rechtsverordnung die gebührenpflichtigen Tatbestände nach § 35 zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand abgedeckt ist. In der Rechtsverordnung kann bestimmt werden, dass eine Gebühr auch für eine Leistung erhoben werden kann, die nicht zu Ende geführt worden ist, wenn die Gründe hierfür von demjenigen zu vertreten sind, der die Leistung veranlasst hat.
 
 (10) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung Regelungen zur Erfüllung von Verpflichtungen aus zwischenstaatlichen Vereinbarungen oder zur Durchführung von Rechtsakten des Rates oder der Europäischen Kommission, die Sachbereiche dieses Gesetzes betreffen, insbesondere sicherheitstechnische und medizinische Anforderungen, die Herstellung und sonstige Voraussetzungen des Inverkehrbringens, des Betreibens, des Anwendens, des Ausstellens, insbesondere Prüfungen, Produktionsüberwachung, Bescheinigungen, Kennzeichnung, Aufbewahrungs- und Mitteilungspflichten, behördliche Maßnahmen sowie Anforderungen an die Benennung und Überwachung von Benannten Stellen, zu treffen.
 
-(11) Die Rechtsverordnungen nach den Absätzen 1 bis 10 ergehen mit Zustimmung des Bundesrates und im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie. Sie ergehen im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit, soweit der Strahlenschutz betroffen ist oder es sich um Medizinprodukte handelt, bei deren Herstellung radioaktive Stoffe oder ionisierende Strahlen verwendet werden, und im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales, soweit der Arbeitsschutz betroffen ist und im Einvernehmen mit dem Bundesministerium des Innern, soweit der Datenschutz betroffen ist.
+(11) Die Rechtsverordnungen nach den Absätzen 1 bis 10 ergehen mit Zustimmung des Bundesrates und im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie. Sie ergehen im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit, soweit der Strahlenschutz betroffen ist oder es sich um Medizinprodukte handelt, bei deren Herstellung radioaktive Stoffe oder ionisierende Strahlen verwendet werden, und im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales, soweit der Arbeitsschutz betroffen ist und im Einvernehmen mit dem Bundesministerium des Innern, soweit der Datenschutz betroffen ist.
 
-(12) Die Rechtsverordnungen nach den Absätzen 6 und 10 bedürfen nicht der Zustimmung des Bundesrates bei Gefahr im Verzug oder wenn ihr unverzügliches Inkrafttreten zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist. Die Rechtsverordnungen nach den Absätzen 1 bis 3 können ohne Zustimmung des Bundesrates erlassen werden, wenn unvorhergesehene gesundheitliche Gefährdungen dies erfordern. Soweit die Rechtsverordnung nach Absatz 9 Kosten von Bundesbehörden betrifft, bedarf sie nicht der Zustimmung des Bundesrates. Die Rechtsverordnungen nach den Sätzen 1 und 2 bedürfen nicht des Einvernehmens mit den jeweils beteiligten Bundesministerien. Sie treten spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert werden. Soweit der Strahlenschutz betroffen ist, bleibt Absatz 11 unberührt.
+(12) Die Rechtsverordnungen nach den Absätzen 6 und 10 bedürfen nicht der Zustimmung des Bundesrates bei Gefahr im Verzug oder wenn ihr unverzügliches Inkrafttreten zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist. Die Rechtsverordnungen nach den Absätzen 1 bis 3 können ohne Zustimmung des Bundesrates erlassen werden, wenn unvorhergesehene gesundheitliche Gefährdungen dies erfordern. Soweit die Rechtsverordnung nach Absatz 9 Gebühren und Auslagen von Bundesbehörden betrifft, bedarf sie nicht der Zustimmung des Bundesrates. Die Rechtsverordnungen nach den Sätzen 1 und 2 bedürfen nicht des Einvernehmens mit den jeweils beteiligten Bundesministerien. Sie treten spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert werden. Soweit der Strahlenschutz betroffen ist, bleibt Absatz 11 unberührt.
 
 ### § 37a Allgemeine Verwaltungsvorschriften
 
@@ -1198,7 +1189,7 @@ entgegen § 31 Abs. 1 Satz 1, auch in Verbindung mit Satz 2, eine Tätigkeit aus
 entgegen § 31 Abs. 4 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise aufzeichnet oder nicht oder nicht rechtzeitig übermittelt oder
 
 16.  
-einer Rechtsverordnung nach § 37 Abs. 1, 2a, 3, 4 Satz 1 oder 3, Abs. 5 Nr. 1, 2 Buchstabe a oder b Doppelbuchstabe bb oder Nr. 3, Abs. 7 oder 8 Satz 1 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+einer Rechtsverordnung nach § 37 Abs. 1, 2a, 3, 4 Satz 1 oder 3, Abs. 5 Nr. 1, 1a, 2 Buchstabe a oder b Doppelbuchstabe bb oder Nr. 3, Abs. 7 oder 8 Satz 1 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
 
