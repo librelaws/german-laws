@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 11.3.2016 I 396
+zuletzt geändert durch Art. 3 G v. 24.5.2016 I 1190
 
 ### 
 
@@ -56,6 +56,8 @@ Richtlinie 2000/35/EG des Europäischen Parlaments und des Rates vom 29. Juni 20
      nicht mehr anzuwenden +++)
 (+++ Zur Anwendung im Beitrittsgebiet vgl. BGBEG Sechster Teil
      (Art. 230 bis Art. 235) +++)
+(+++ Zur Anwendung d. § 1906 Abs. 3 vgl. BVerfG vom 26.7.2016
+     - 1 BvL 8/15 - +++)
 (+++ Zur Anwendung d. § 311b Abs. 2 vgl. § 184 Satz 2 KAGB +++)
 (+++ Zur Anwendung d. §§ 271, 286, 288, 308 u. 310 vgl. § 34 BGBEG +++)
 (+++ Zur Nichtanwendung d. §§ 313, 314, 489, 490, 723 bis 725, 727, 728 
@@ -3270,7 +3272,7 @@ eine den anderen Vertragsteil bindende stillschweigende Verlängerung des Vertra
 c)  
 zu Lasten des anderen Vertragsteils eine längere Kündigungsfrist als drei Monate vor Ablauf der zunächst vorgesehenen oder stillschweigend verlängerten Vertragsdauer;
 
-dies gilt nicht für Verträge über die Lieferung als zusammengehörig verkaufter Sachen, für Versicherungsverträge sowie für Verträge zwischen den Inhabern urheberrechtlicher Rechte und Ansprüche und Verwertungsgesellschaften im Sinne des Gesetzes über die Wahrnehmung von Urheberrechten und verwandten Schutzrechten;
+dies gilt nicht für Verträge über die Lieferung als zusammengehörig verkaufter Sachen sowie für Versicherungsverträge;
 
 10.  
 (Wechsel des Vertragspartners)eine Bestimmung, wonach bei Kauf-, Darlehens-, Dienst- oder Werkverträgen ein Dritter anstelle des Verwenders in die sich aus dem Vertrag ergebenden Rechte und Pflichten eintritt oder eintreten kann, es sei denn, in der Bestimmung wird
@@ -3304,7 +3306,16 @@ den anderen Vertragsteil bestimmte Tatsachen bestätigen lässt;
 Buchstabe b gilt nicht für Empfangsbekenntnisse, die gesondert unterschrieben oder mit einer gesonderten qualifizierten elektronischen Signatur versehen sind;
 
 13.  
-(Form von Anzeigen und Erklärungen)eine Bestimmung, durch die Anzeigen oder Erklärungen, die dem Verwender oder einem Dritten gegenüber abzugeben sind, an eine strengere Form als die Schriftform oder an besondere Zugangserfordernisse gebunden werden;
+(Form von Anzeigen und Erklärungen)eine Bestimmung, durch die Anzeigen oder Erklärungen, die dem Verwender oder einem Dritten gegenüber abzugeben sind, gebunden werden
+
+a)  
+an eine strengere Form als die schriftliche Form in einem Vertrag, für den durch Gesetz notarielle Beurkundung vorgeschrieben ist oder
+
+b)  
+an eine strengere Form als die Textform in anderen als den in Buchstabe a genannten Verträgen oder
+
+c)  
+an besondere Zugangserfordernisse;
 
 14.  
 (Klageverzicht)eine Bestimmung, wonach der andere Vertragsteil seine Ansprüche gegen den Verwender gerichtlich nur geltend machen darf, nachdem er eine gütliche Einigung in einem Verfahren zur außergerichtlichen Streitbeilegung versucht hat.
@@ -15808,6 +15819,8 @@ der zu erwartende Nutzen der ärztlichen Zwangsmaßnahme die zu erwartenden Beei
 (4) Die Absätze 1 und 2 gelten entsprechend, wenn dem Betreuten, der sich in einer Anstalt, einem Heim oder einer sonstigen Einrichtung aufhält, ohne untergebracht zu sein, durch mechanische Vorrichtungen, Medikamente oder auf andere Weise über einen längeren Zeitraum oder regelmäßig die Freiheit entzogen werden soll.
 
 (5) Die Unterbringung durch einen Bevollmächtigten und die Einwilligung eines Bevollmächtigten in Maßnahmen nach den Absätzen 3 und 4 setzen voraus, dass die Vollmacht schriftlich erteilt ist und die in den Absätzen 1, 3 und 4 genannten Maßnahmen ausdrücklich umfasst. Im Übrigen gelten die Absätze 1 bis 4 entsprechend.
+
+(+++ § 1906 Abs. 3: Gem. BVerfG vom 26.7.2016 - 1 BvL 8/15 - auch auf stationär behandelte Betreute anzuwenden, die sich einer ärztlichen Zwangsbehandlung räumlich nicht entziehen können +++)
 
 ### § 1907 Genehmigung des Betreuungsgerichts bei der Aufgabe der Mietwohnung
 
