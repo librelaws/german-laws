@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 23.7.1993 I 1288, 1594;
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 12.7.2012 I 1501
+zuletzt geändert durch Art. 9 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -151,24 +151,19 @@ In jedem Wahlkreis wird ein Abgeordneter gewählt. Gewählt ist der Bewerber, de
 
 ### § 6 Wahl nach Landeslisten
 
-(1) *Die von der Gesamtzahl der Sitze (§ 1 Absatz 1) auf jedes Land entfallende Zahl der Sitze wird nach der Zahl der Wähler in jedem Land mit demselben Berechnungsverfahren ermittelt, das nach Absatz 2 Satz 2 bis 7 für die Verteilung der Sitze auf die Landeslisten angewandt wird.* Von der Zahl der auf das Land entfallenden Abgeordneten wird die Zahl der erfolgreichen Wahlkreisbewerber abgezogen, die in Satz 4 genannt sind. Für die Verteilung der nach Landeslisten zu besetzenden Sitze werden die für jede Landesliste abgegebenen Zweitstimmen zusammengezählt. Nicht berücksichtigt werden dabei die Zweitstimmen derjenigen Wähler, die ihre Erststimme für einen im Wahlkreis erfolgreichen Bewerber abgegeben haben, der gemäß § 20 Abs. 3 oder von einer Partei vorgeschlagen ist, die nach Absatz 6 bei der Sitzverteilung nicht berücksichtigt wird oder für die in dem betreffenden Land keine Landesliste zugelassen ist.
+(1) Für die Verteilung der nach Landeslisten zu besetzenden Sitze werden die für jede Landesliste abgegebenen Zweitstimmen zusammengezählt. Nicht berücksichtigt werden dabei die Zweitstimmen derjenigen Wähler, die ihre Erststimme für einen im Wahlkreis erfolgreichen Bewerber abgegeben haben, der gemäß § 20 Absatz 3 oder von einer Partei vorgeschlagen ist, die nach Absatz 3 bei der Sitzverteilung nicht berücksichtigt wird oder für die in dem betreffenden Land keine Landesliste zugelassen ist. Von der Gesamtzahl der Abgeordneten (§ 1 Absatz 1) wird die Zahl der erfolgreichen Wahlkreisbewerber abgezogen, die in Satz 2 genannt sind.
 
-(2) Die nach Absatz 1 Satz 2 verbleibenden Sitze werden auf die Landeslisten auf der Grundlage der nach Absatz 1 Satz 3 und 4 zu berücksichtigenden Zweitstimmen wie folgt verteilt. Jede Landesliste erhält so viele Sitze, wie sich nach Teilung der Summe ihrer erhaltenen Zweitstimmen durch einen Zuteilungsdivisor ergeben. Zahlenbruchteile unter 0,5 werden auf die darunter liegende ganze Zahl abgerundet, solche über 0,5 werden auf die darüber liegende ganze Zahl aufgerundet. Zahlenbruchteile, die gleich 0,5 sind, werden so aufgerundet oder abgerundet, dass die Gesamtzahl der zu vergebenden Sitze eingehalten wird; ergeben sich dabei mehrere mögliche Sitzzuteilungen, so entscheidet das vom Bundeswahlleiter zu ziehende Los. Der Zuteilungsdivisor ist so zu bestimmen, dass insgesamt so viele Sitze auf die Landeslisten entfallen, wie Sitze zu vergeben sind. Dazu wird zunächst die Gesamtzahl der Zweitstimmen aller zu berücksichtigenden Landeslisten durch die Gesamtzahl der nach Absatz 1 Satz 2 verbleibenden Sitze geteilt. Entfallen danach mehr Sitze auf die Landeslisten als Sitze zu vergeben sind, ist der Zuteilungsdivisor so heraufzusetzen, dass sich bei der Berechnung die zu vergebende Sitzzahl ergibt; entfallen zu wenig Sitze auf die Landeslisten, ist der Zuteilungsdivisor entsprechend herunterzusetzen.
+(2) In einer ersten Verteilung wird zunächst die Gesamtzahl der Sitze (§ 1 Absatz 1) in dem in Satz 2 bis 7 beschriebenen Berechnungsverfahren den Ländern nach deren Bevölkerungsanteil (§ 3 Absatz 1) und sodann in jedem Land die Zahl der dort nach Absatz 1 Satz 3 verbleibenden Sitze auf der Grundlage der zu berücksichtigenden Zweitstimmen den Landeslisten zugeordnet. Jede Landesliste erhält so viele Sitze, wie sich nach Teilung der Summe ihrer erhaltenen Zweitstimmen durch einen Zuteilungsdivisor ergeben. Zahlenbruchteile unter 0,5 werden auf die darunter liegende ganze Zahl abgerundet, solche über 0,5 werden auf die darüber liegende ganze Zahl aufgerundet. Zahlenbruchteile, die gleich 0,5 sind, werden so aufgerundet oder abgerundet, dass die Zahl der zu vergebenden Sitze eingehalten wird; ergeben sich dabei mehrere mögliche Sitzzuteilungen, so entscheidet das vom Bundeswahlleiter zu ziehende Los. Der Zuteilungsdivisor ist so zu bestimmen, dass insgesamt so viele Sitze auf die Landeslisten entfallen, wie Sitze zu vergeben sind. Dazu wird zunächst die Gesamtzahl der Zweitstimmen aller zu berücksichtigenden Landeslisten durch die Zahl der jeweils nach Absatz 1 Satz 3 verbleibenden Sitze geteilt. Entfallen danach mehr Sitze auf die Landeslisten, als Sitze zu vergeben sind, ist der Zuteilungsdivisor so heraufzusetzen, dass sich bei der Berechnung die zu vergebende Sitzzahl ergibt; entfallen zu wenig Sitze auf die Landeslisten, ist der Zuteilungsdivisor entsprechend herunterzusetzen.
 
-*(2a) Den Landeslisten einer Partei werden in der Reihenfolge der höchsten Reststimmenzahlen so viele weitere Sitze zugeteilt, wie nach Absatz 2 Satz 3 und 4 zweiter Halbsatz ganze Zahlen anfallen, wenn die Summe der positiven Abweichungen der auf die Landeslisten entfallenen Zweitstimmen von den im jeweiligen Land für die errungenen Sitze erforderlichen Zweitstimmen (Reststimmenzahl) durch die im Wahlgebiet für einen der zu vergebenden Sitze erforderliche Zweitstimmenzahl geteilt wird. Dabei werden Landeslisten, bei denen die Zahl der in den Wahlkreisen errungenen Sitze die Zahl der nach den Absätzen 2 und 3 zu verteilenden Sitze übersteigt, in der Reihenfolge der höchsten Zahlen und bis zu der Gesamtzahl der ihnen nach Absatz 5 verbleibenden Sitze vorrangig berücksichtigt. Die Gesamtzahl der Sitze (§ 1 Absatz 1) erhöht sich um die Unterschiedszahl.*
+(3) Bei Verteilung der Sitze auf die Landeslisten werden nur Parteien berücksichtigt, die mindestens 5 Prozent der im Wahlgebiet abgegebenen gültigen Zweitstimmen erhalten oder in mindestens drei Wahlkreisen einen Sitz errungen haben. Satz 1 findet auf die von Parteien nationaler Minderheiten eingereichten Listen keine Anwendung.
 
-(3) Erhält bei der Verteilung der Sitze nach den Absätzen 2 und 2a eine Partei, auf deren Landeslisten im Wahlgebiet mehr als die Hälfte der Gesamtzahl der Zweitstimmen aller zu berücksichtigenden Landeslisten entfallen ist, nicht mehr als die Hälfte der zu vergebenden Sitze, werden den Landeslisten dieser Partei in der Reihenfolge der höchsten Reststimmenzahlen weitere Sitze zugeteilt, bis auf die Landeslisten dieser Partei ein Sitz mehr als die Hälfte der im Wahlgebiet zu vergebenden Sitze entfällt. In einem solchen Falle erhöht sich die Gesamtzahl der Sitze (§ 1 Absatz 1) um die Unterschiedszahl.
+(4) Von der für jede Landesliste so ermittelten Sitzzahl wird die Zahl der von der Partei in den Wahlkreisen des Landes errungenen Sitze (§ 5) abgerechnet. In den Wahlkreisen errungene Sitze verbleiben einer Partei auch dann, wenn sie die nach den Absätzen 2 und 3 ermittelte Zahl übersteigen.
 
-(4) Von der für jede Landesliste so ermittelten Abgeordnetenzahl wird die Zahl der von der Partei in den Wahlkreisen des Landes errungenen Sitze abgerechnet. Die restlichen Sitze werden aus der Landesliste in der dort festgelegten Reihenfolge besetzt. Bewerber, die in einem Wahlkreis gewählt sind, bleiben auf der Landesliste unberücksichtigt. Entfallen auf eine Landesliste mehr Sitze als Bewerber benannt sind, so bleiben diese Sitze unbesetzt.
+(5) Die Zahl der nach Absatz 1 Satz 3 verbleibenden Sitze wird so lange erhöht, bis jede Partei bei der zweiten Verteilung der Sitze nach Absatz 6 Satz 1 mindestens die bei der ersten Verteilung nach den Absätzen 2 und 3 für sie ermittelten zuzüglich der in den Wahlkreisen errungenen Sitze erhält, die nicht nach Absatz 4 Satz 1 von der Zahl der für die Landesliste ermittelten Sitze abgerechnet werden können. Die Gesamtzahl der Sitze (§ 1 Absatz 1) erhöht sich um die Unterschiedszahl.
 
-(5) In den Wahlkreisen errungene Sitze verbleiben einer Partei auch dann, wenn sie die nach den Absätzen 2 bis 3 ermittelte Zahl übersteigen. In einem solchen Falle erhöht sich die Gesamtzahl der Sitze (§ 1 Abs. 1) um die Unterschiedszahl; eine erneute Berechnung nach den Absätzen 2 bis 3 findet nicht statt.
+(6) Die nach Absatz 5 Satz 1 zu vergebenden Sitze werden in jedem Fall bundesweit nach der Zahl der zu berücksichtigenden Zweitstimmen in dem in Absatz 2 Satz 2 bis 7 beschriebenen Berechnungsverfahren auf die nach Absatz 3 zu berücksichtigenden Parteien verteilt. In den Parteien werden die Sitze nach der Zahl der zu berücksichtigenden Zweitstimmen in dem in Absatz 2 Satz 2 bis 7 beschriebenen Berechnungsverfahren auf die Landeslisten verteilt; dabei wird jeder Landesliste mindestens die Zahl der in den Wahlkreisen des Landes von der Partei errungenen Sitze zugeteilt. Von der für jede Landesliste ermittelten Sitzzahl wird die Zahl der von der Partei in den Wahlkreisen des Landes errungenen Sitze (§ 5) abgerechnet. Die restlichen Sitze werden aus der Landesliste in der dort festgelegten Reihenfolge besetzt. Bewerber, die in einem Wahlkreis gewählt sind, bleiben auf der Landesliste unberücksichtigt. Entfallen auf eine Landesliste mehr Sitze, als Bewerber benannt sind, so bleiben diese Sitze unbesetzt.
 
-(6) Bei Verteilung der Sitze auf die Landeslisten werden nur Parteien berücksichtigt, die mindestens 5 vom Hundert der im Wahlgebiet abgegebenen gültigen Zweitstimmen erhalten oder in mindestens drei Wahlkreisen einen Sitz errungen haben. Satz 1 findet auf die von Parteien nationaler Minderheiten eingereichten Listen keine Anwendung.
-
-§ 6 Abs. 1 Satz 1 Kursivdruck: Eingef. durch Art. 1 Nr. 1 Buchst. a DBuchst. aa G v. 25.11.2011 I 2313 mWv 3.12.2011, in dieser Fassung mit Art. 21 Abs. 1 u. Art. 38 Abs. 1 Satz 1 GG unvereinbar und nichtig gem. BVerfGE v. 25.7.2012 I 1769 - 2 BvF 3/11, 2 BvR 2670/11, 2 BvE 9/11 -
-§ 6 Abs. 2a Kursivdruck: Eingef. durch Art. 1 Nr. 1 Buchst. c G v. 25.11.2011 I 2313 mWv 3.12.2011, in dieser Fassung mit Art. 21 Abs. 1 u. Art. 38 Abs. 1 Satz 1 GG unvereinbar und nichtig gem. BVerfGE v. 25.7.2012 I 1769 - 2 BvF 3/11, 2 BvR 2670/11, 2 BvE 9/11 -
-§ 6 Abs. 5 idF d. G v. 25.11.2011 I 2313: Nach Maßgabe der Gründe mit Art. 21 Abs. 1 u. Art. 38 Abs. 1 Satz 1 GG unvereinbar gem. BVerfGE v. 25.7.2012 I 1769 - 2 BvF 3/11, 2 BvR 2670/11, 2 BvE 9/11 -
-§ 6 Abs. 5 Satz 2 idF d. Bek v. 23.7.1993 I 1288, 1594: Mit GG (100-1) vereinbar gem. BVerfGEv. 10.4.1997 I 1340 - 2 BvF 1/95 -
+(7) Erhält bei der Verteilung der Sitze nach den Absätzen 2 bis 6 eine Partei, auf die mehr als die Hälfte der Gesamtzahl der Zweitstimmen aller zu berücksichtigenden Parteien entfallen ist, nicht mehr als die Hälfte der Sitze, werden ihr weitere Sitze zugeteilt, bis auf sie ein Sitz mehr als die Hälfte der Sitze entfällt. Die Sitze werden in der Partei entsprechend Absatz 6 Satz 2 bis 6 verteilt. In einem solchen Falle erhöht sich die nach Absatz 5 ermittelte Gesamtzahl der Sitze (§ 1 Absatz 1) um die Unterschiedszahl.
 
 ### § 7 (weggefallen)
 
@@ -235,7 +230,15 @@ seit mindestens drei Monaten in der Bundesrepublik Deutschland eine Wohnung inne
 3.  
 nicht nach § 13 vom Wahlrecht ausgeschlossen sind.
 
-(2) *Wahlberechtigt sind bei Vorliegen der sonstigen Voraussetzungen auch diejenigen Deutschen im Sinne des Artikels 116 Abs. 1 des Grundgesetzes, die am Wahltag außerhalb der Bundesrepublik Deutschland leben, sofern sie nach dem 23. Mai 1949 und vor ihrem Fortzug mindestens drei Monate ununterbrochen in der Bundesrepublik Deutschland eine Wohnung innegehabt oder sich sonst gewöhnlich aufgehalten haben.* Als Wohnung oder gewöhnlicher Aufenthalt im Sinne von Satz 1 gilt auch eine frühere Wohnung oder ein früherer Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet. Bei Rückkehr eines nach Satz 1 Wahlberechtigten in die Bundesrepublik Deutschland gilt die Dreimonatsfrist des Absatzes 1 Nr. 2 nicht.
+(2) Wahlberechtigt sind bei Vorliegen der sonstigen Voraussetzungen auch diejenigen Deutschen im Sinne des Artikels 116 Absatz 1 des Grundgesetzes, die am Wahltag außerhalb der Bundesrepublik Deutschland leben, sofern sie
+
+1.  
+nach Vollendung ihres vierzehnten Lebensjahres mindestens drei Monate ununterbrochen in der Bundesrepublik Deutschland eine Wohnung innegehabt oder sich sonst gewöhnlich aufgehalten haben und dieser Aufenthalt nicht länger als 25 Jahre zurückliegt oder
+
+2.  
+aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen in der Bundesrepublik Deutschland erworben haben und von ihnen betroffen sind.
+
+Als Wohnung oder gewöhnlicher Aufenthalt im Sinne von Satz 1 gilt auch eine frühere Wohnung oder ein früherer Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet. Bei Rückkehr eines nach Satz 1 Wahlberechtigten in die Bundesrepublik Deutschland gilt die Dreimonatsfrist des Absatzes 1 Nr. 2 nicht.
 
 (3) Wohnung im Sinne des Gesetzes ist jeder umschlossene Raum, der zum Wohnen oder Schlafen benutzt wird. Wohnwagen und Wohnschiffe sind jedoch nur dann als Wohnungen anzusehen, wenn sie nicht oder nur gelegentlich fortbewegt werden.
 
@@ -251,8 +254,6 @@ für Binnenschiffer sowie für die Angehörigen ihres Hausstandes das von ihnen 
 für im Vollzug gerichtlich angeordneter Freiheitsentziehung befindliche Personen sowie für andere Untergebrachte die Anstalt oder die entsprechende Einrichtung.
 
 (5) Bei der Berechnung der Dreimonatsfrist nach Absatz 1 Nr. 2 und Absatz 2 Satz 1 ist der Tag der Wohnungs- oder Aufenthaltsnahme in die Frist einzubeziehen.
-
-§ 12 Abs. 2 Satz 1 idF d. G v. 17.3.2008 I 394 Kursivdruck: Mit Art. 38 Abs. 1 Satz 1 GG unvereinbar und nichtig gem. BVerfGE v. 4.7.2012 I 1769 - 2 BvC 1/11, 2 BvC 2/11 -
 
 ### § 13 Ausschluß vom Wahlrecht
 
@@ -319,7 +320,7 @@ Der Bundespräsident bestimmt den Tag der Hauptwahl (Wahltag). Wahltag muß ein 
 
 ### § 17 Wählerverzeichnis und Wahlschein
 
-(1) Die Gemeindebehörden führen für jeden Wahlbezirk ein Verzeichnis der Wahlberechtigten. Jeder Wahlberechtigte hat das Recht, an den Werktagen vom 20. bis zum 16. Tag vor der Wahl während der allgemeinen Öffnungszeiten die Richtigkeit oder Vollständigkeit der zu seiner Person im Wählerverzeichnis eingetragenen Daten zu überprüfen. Zur Überprüfung der Richtigkeit oder Vollständigkeit der Daten von anderen im Wählerverzeichnis eingetragenen Personen haben Wahlberechtigte während des in Satz 2 genannten Zeitraumes nur dann ein Recht auf Einsicht in das Wählerverzeichnis, wenn sie Tatsachen glaubhaft machen, aus denen sich eine Unrichtigkeit oder Unvollständigkeit des Wählerverzeichnisses ergeben kann. Das Recht zur Überprüfung gemäß Satz 3 besteht nicht hinsichtlich der Daten von Wahlberechtigten, für die im Melderegister ein Sperrvermerk gemäß den § 21 Abs. 5 des Melderechtsrahmengesetzes entsprechenden Vorschriften der Landesmeldegesetze eingetragen ist.
+(1) Die Gemeindebehörden führen für jeden Wahlbezirk ein Verzeichnis der Wahlberechtigten. Jeder Wahlberechtigte hat das Recht, an den Werktagen vom 20. bis zum 16. Tag vor der Wahl während der allgemeinen Öffnungszeiten die Richtigkeit oder Vollständigkeit der zu seiner Person im Wählerverzeichnis eingetragenen Daten zu überprüfen. Zur Überprüfung der Richtigkeit oder Vollständigkeit der Daten von anderen im Wählerverzeichnis eingetragenen Personen haben Wahlberechtigte während des in Satz 2 genannten Zeitraumes nur dann ein Recht auf Einsicht in das Wählerverzeichnis, wenn sie Tatsachen glaubhaft machen, aus denen sich eine Unrichtigkeit oder Unvollständigkeit des Wählerverzeichnisses ergeben kann. Das Recht zur Überprüfung gemäß Satz 3 besteht nicht hinsichtlich der Daten von Wahlberechtigten, für die im Melderegister ein Sperrvermerk gemäß den § 51 Absatz 1 des Bundesmeldegesetzes entsprechenden Vorschriften der Landesmeldegesetze eingetragen ist.
 
 (2) Ein Wahlberechtigter, der im Wählerverzeichnis eingetragen ist, oder der aus einem von ihm nicht zu vertretenden Grund in das Wählerverzeichnis nicht aufgenommen worden ist, erhält auf Antrag einen Wahlschein.
 
@@ -549,7 +550,7 @@ das Verfahren für die amtliche Genehmigung der Verwendung sowie für die Rückn
 6.  
 die durch die Verwendung von Wahlgeräten bedingten Besonderheiten im Zusammenhang mit der Wahl.
 
-Die Rechtsverordnung ergeht in den Fällen der Nummern 1 und 3 im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie.
+Die Rechtsverordnung ergeht in den Fällen der Nummern 1 und 3 im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie.
 
 (4) Für die Betätigung eines Wahlgerätes gilt § 33 Abs. 1 Satz 1 und Abs. 2 entsprechend.
 
@@ -720,7 +721,7 @@ Feststellung der Verfassungswidrigkeit der Partei oder der Teilorganisation eine
 
 Verlustgründe nach anderen gesetzlichen Vorschriften bleiben unberührt.
 
-(2) Bei Ungültigkeit seiner Wahl im Wahlkreis bleibt der Abgeordnete Mitglied des Bundestages, wenn er zugleich auf einer Landesliste gewählt war, aber nach § 6 Abs. 4 Satz 3 unberücksichtigt geblieben ist.
+(2) Bei Ungültigkeit seiner Wahl im Wahlkreis bleibt der Abgeordnete Mitglied des Bundestages, wenn er zugleich auf einer Landesliste gewählt war, aber nach § 6 Absatz 6 Satz 5 unberücksichtigt geblieben ist.
 
 (3) Der Verzicht ist nur wirksam, wenn er zur Niederschrift des Präsidenten des Deutschen Bundestages, eines deutschen Notars, der seinen Sitz im Geltungsbereich dieses Gesetzes hat, oder eines zur Vornahme von Beurkundungen ermächtigten Bediensteten einer deutschen Auslandsvertretung erklärt wird. Die notarielle oder bei einer Auslandsvertretung abgegebene Verzichtserklärung hat der Abgeordnete dem Bundestagspräsidenten zu übermitteln. Der Verzicht kann nicht widerrufen werden.
 
@@ -748,7 +749,7 @@ im Falle der Nummer 4 durch den Präsidenten des Deutschen Bundestages in der Fo
 
 ### § 48 Berufung von Listennachfolgern und Ersatzwahlen
 
-(1) Wenn ein gewählter Bewerber stirbt oder dem Landeswahlleiter schriftlich die Ablehnung des Erwerbs der Mitgliedschaft erklärt oder wenn ein Abgeordneter stirbt oder sonst nachträglich aus dem Deutschen Bundestag ausscheidet, so wird der Sitz aus der Landesliste derjenigen Partei besetzt, für die der gewählte Bewerber oder ausgeschiedene Abgeordnete bei der Wahl aufgetreten ist. Dies gilt nicht, solange die Partei in dem betreffenden Land Mandate gemäß § 6 Abs. 5 Satz 1 innehat. Bei der Nachfolge bleiben diejenigen Listenbewerber unberücksichtigt, die seit dem Zeitpunkt der Aufstellung der Landesliste aus dieser Partei ausgeschieden oder Mitglied einer anderen Partei geworden sind. Unberücksichtigt bleiben ebenso Listenbewerber, die als gewählte Bewerber im Wahlkreis ihren Mitgliedschaftserwerb abgelehnt oder als Abgeordnete auf ihre Mitgliedschaft im Deutschen Bundestag verzichtet haben. Ist die Liste erschöpft, so bleibt der Sitz unbesetzt. Die Feststellung, wer als Listennachfolger eintritt, trifft der Landeswahlleiter. Er benachrichtigt den Listennachfolger und fordert ihn auf, binnen einer Woche schriftlich zu erklären, ob er die Nachfolge annimmt.
+(1) Wenn ein gewählter Bewerber stirbt oder dem Landeswahlleiter schriftlich die Ablehnung des Erwerbs der Mitgliedschaft erklärt oder wenn ein Abgeordneter stirbt oder sonst nachträglich aus dem Deutschen Bundestag ausscheidet, so wird der Sitz aus der Landesliste derjenigen Partei besetzt, für die der gewählte Bewerber oder ausgeschiedene Abgeordnete bei der Wahl aufgetreten ist. Bei der Nachfolge bleiben diejenigen Listenbewerber unberücksichtigt, die seit dem Zeitpunkt der Aufstellung der Landesliste aus dieser Partei ausgeschieden oder Mitglied einer anderen Partei geworden sind. Unberücksichtigt bleiben ebenso Listenbewerber, die als gewählte Bewerber im Wahlkreis ihren Mitgliedschaftserwerb abgelehnt oder als Abgeordnete auf ihre Mitgliedschaft im Deutschen Bundestag verzichtet haben. Ist die Liste erschöpft, so bleibt der Sitz unbesetzt. Die Feststellung, wer als Listennachfolger eintritt, trifft der Landeswahlleiter. Er benachrichtigt den Listennachfolger und fordert ihn auf, binnen einer Woche schriftlich zu erklären, ob er die Nachfolge annimmt.
 
 (2) Ist der Ausgeschiedene als Wahlkreisabgeordneter einer Wählergruppe oder einer Partei gewählt, für die im Land keine Landesliste zugelassen worden war, so findet Ersatzwahl im Wahlkreis statt. Die Ersatzwahl muß spätestens sechzig Tage nach dem Zeitpunkt des Ausscheidens stattfinden. Sie unterbleibt, wenn feststeht, daß innerhalb von sechs Monaten ein neuer Deutscher Bundestag gewählt wird. Die Ersatzwahl wird nach den allgemeinen Vorschriften durchgeführt. Den Wahltag bestimmt der Landeswahlleiter. § 41 gilt entsprechend.
 
@@ -812,9 +813,7 @@ bei Ordnungswidrigkeiten nach Absatz 1 Nr. 2 der Bundeswahlleiter.
 
 (+++ Hinweis: § 50 Abs. 3 Satz 2: Gem. V v. 29.9.2009 I 3220 wird mWv 1.1.2009 der feste Betrag für Gemeinden bis zu 100 000 Wahlberechtigten auf 0,48 Euro und für Gemeinden mit mehr als 100 000 Wahlberechtigten auf 0,74 Euro festgesetzt +++)
 
-### § 51
-
-(weggefallen)
+### § 51 (weggefallen)
 
 ### § 52 Bundeswahlordnung
 
@@ -983,17 +982,12 @@ Rendsburg-Eckernförde
 Vom Kreis Rendsburg-Eckernförde
 
 amtsfreie Gemeinden
-Büdelsdorf, Eckernförde, Hohenwestedt, Rendsburg, Wasbek
+Büdelsdorf, Eckernförde, Rendsburg, Wasbek
 
 Amt Achterwehr
 
 die Gemeinden
 Achterwehr, Bredenbek, Felde, Krummwisch, Melsdorf, Ottendorf, Quarnbek, Westensee
-
-Amt Aukrug
-
-die Gemeinden
-Arpsdorf, Aukrug, Ehndorf, Padenstedt
 
 Amt Bordesholm
 
@@ -1025,16 +1019,6 @@ Amt Fockbek
 die Gemeinden
 Alt Duvenstedt, Fockbek, Nübbel, Rickert
 
-Amt Hanerau-Hademarschen
-
-die Gemeinden
-Beldorf, Bendorf, Bornholt, Gokels, Hanerau-Hademarschen, Lütjenwestedt, Oldenbüttel, Seefeld, Steenfeld, Tackesdorf, Thaden
-
-Amt Hohenwestedt-Land
-
-die Gemeinden
-Beringstedt, Grauel, Heinkenborstel, Jahrsdorf, Meezen, Mörel, Nienborstel, Nindorf, Osterstedt, Rade b. Hohenwestedt, Remmels, Tappendorf, Todenbüttel, Wapelfeld
-
 Amt Hohner Harde
 
 die Gemeinden
@@ -1049,6 +1033,11 @@ Amt Jevenstedt
 
 die Gemeinden
 Brinjahe, Embühren, Haale, Hamweddel, Hörsten, Jevenstedt, Luhnstedt, Schülp b. Rendsburg, Stafstedt, Westerrönfeld
+
+Amt Mittelholstein
+
+die Gemeinden
+Arpsdorf, Aukrug, Beldorf, Bendorf, Beringstedt, Bornholt, Ehndorf, Gokels, Grauel, Hanerau-Hademarschen, Heinkenborstel, Hohenwestedt, Jahrsdorf, Lütjenwestedt, Meezen, Mörel, Nienborstel, Nindorf, Oldenbüttel, Osterstedt, Padenstedt, Rade b. Hohenwestedt, Remmels, Seefeld, Steenfeld, Tackesdorf, Tappendorf, Thaden, Todenbüttel, Wapelfeld
 
 Amt Molfsee
 
@@ -1370,22 +1359,22 @@ Barnin, Bülow, Crivitz, Demen, Friedrichsruhe, Tramm, Zapel
 Amt Eldenburg Lübz
 
 die Gemeinden
-Gallin-Kuppentin, Gischow, Granzin, Herzberg, Karbow-Vietlübbe,Kreien, Kritzow, Lübz, Lutheran, Marnitz, Passow, Siggelkow, Suckow, Tessenow, Wahlstorf, Werder
+Gallin-Kuppentin, Gischow, Granzin, Karbow-Vietlübbe, Kreien, Kritzow, Lübz, Lutheran, Marnitz, Passow, Siggelkow, Suckow, Tessenow, Wahlstorf, Werder
 
 Amt Goldberg-Mildenitz
 
 die Gemeinden
-Diestelow, Dobbertin, Goldberg, Mestlin, Neu Poserin, Techentin, Wendisch Waren
+Dobbertin, Goldberg, Mestlin, Neu Poserin, Techentin
 
 Amt Ostufer Schweriner See
 
 die Gemeinden
-Cambs, Dobin am See, Gneven, Godern, Langen Brütz, Leezen, Pinnow, Raben Steinfeld
+Cambs, Dobin am See, Gneven, Langen Brütz, Leezen, Pinnow, Raben Steinfeld
 
 Amt Parchimer Umland
 
 die Gemeinden
-Damm, Domsühl, Grebbin, Groß Godems, Groß Niendorf, Karrenzin, Lewitzrand, Rom, Severin, Spornitz, Stolpe, Ziegendorf, Zölkow
+Damm, Domsühl, Groß Godems, Karrenzin, Lewitzrand, Obere Warnow, Rom, Severin, Spornitz, Stolpe, Ziegendorf, Zölkow
 
 Amt Plau am See
 
@@ -1462,7 +1451,7 @@ Dummerstorf, Graal-Müritz, Sanitz
 Amt Carbäk
 
 die Gemeinden
-Broderstorf, Klein Kussewitz, Mandelshagen, Poppendorf, Roggentin, Steinfeld, Thulendorf
+Broderstorf, Klein Kussewitz, Poppendorf, Roggentin, Thulendorf
 
 Amt Rostocker Heide
 
@@ -1506,7 +1495,8 @@ Behrenhoff, Dargelin, Dersekow, Diedrichshagen, Hinrichshagen, Levenhagen, Mesek
 
 16
 
-Mecklenburgische Seenplatte I – Vorpommern-Greifswald II
+Mecklenburgische Seenplatte I –
+Vorpommern-Greifswald II
 
 Vom Landkreis Mecklenburgische Seenplatte
 
@@ -1543,7 +1533,7 @@ Anklam, Heringsdorf, Pasewalk, Strasburg (Uckermark), Ueckermünde
 Amt Am Peenestrom
 
 die Gemeinden
-Buddenhagen, Buggenhagen, Hohendorf, Krummin, Lassan, Lütow, Sauzin, Wolgast, Zemitz
+Buggenhagen, Krummin, Lassan, Lütow, Sauzin, Wolgast, Zemitz
 
 Amt Am Stettiner Haff
 
@@ -1553,7 +1543,7 @@ Ahlbeck, Altwarp, Eggesin, Grambin, Hintersee, Leopoldshagen, Liepgarten, Luckow
 Amt Anklam-Land
 
 die Gemeinden
-Bargischow, Blesewitz, Boldekow, Bugewitz, Butzow, Ducherow, Iven, Krien, Krusenfelde, Liepen, Medow, Neetzow, Neu Kosenow, Neuendorf A, Neuendorf B, Neuenkirchen, Postlow, Putzar, Rossin, Sarnow, Spantekow, Stolpe
+Bargischow, Blesewitz, Boldekow, Bugewitz, Butzow, Ducherow, Iven, Krien, Krusenfelde, Liepen, Medow, Neetzow, Neu Kosenow, Neuenkirchen, Postlow, Rossin, Sarnow, Spantekow, Stolpe
 
 Amt Jarmen-Tutow
 
@@ -1573,17 +1563,17 @@ Bergholz, Blankensee, Boock, Glasow, Grambow, Krackow, Löcknitz, Nadrensee, Pen
 Amt Peenetal/Loitz
 
 die Gemeinden
-Düvier, Görmin, Loitz, Sassen-Trantow
+Görmin, Loitz, Sassen-Trantow
 
 Amt Torgelow-Ferdinandshof
 
 die Gemeinden
-Altwigshagen, Ferdinandshof, Hammer a. d. Uecker, Heinrichsruh, Heinrichswalde, Rothemühl, Torgelow, Wilhelmsburg
+Altwigshagen, Ferdinandshof, Hammer a.d. Uecker, Heinrichsruh, Heinrichswalde, Rothemühl, Torgelow, Wilhelmsburg
 
 Amt Uecker-Randow-Tal
 
 die Gemeinden
-Blumenhagen, Brietzig, Damerow, Fahrenwalde, Groß Luckow, Jatznick, Klein Luckow, Koblentz, Krugsdorf, Nieden, Papendorf, Polzow, Rollwitz, Schönwalde, Viereck, Zerrenthin, Züsedom
+Brietzig, Fahrenwalde, Groß Luckow, Jatznick, Koblentz, Krugsdorf, Nieden, Papendorf, Polzow, Rollwitz, Schönwalde, Viereck, Zerrenthin
 
 Amt Usedom-Nord
 
@@ -1604,7 +1594,8 @@ Bandelin, Gribow, Groß Kiesow, Groß Polzin, Gützkow, Karlsburg, Klein Bünzow
 
 17
 
-Mecklenburgische Seenplatte II – Landkreis Rostock III
+Mecklenburgische Seenplatte II –
+Landkreis Rostock III
 
 Vom Landkreis Mecklenburgische Seenplatte
 
@@ -1639,7 +1630,7 @@ Blankensee, Blumenholz, Carpin, Godendorf, Grünow, Hohenzieritz, Klein Vielen, 
 Amt Penzliner Land
 
 die Gemeinden
-Ankershagen, Krukow, Lapitz, Mallin, Möllenhagen, Penzlin, Puchow
+Ankershagen, Kuckssee, Möllenhagen, Penzlin
 
 Amt Röbel-Müritz
 
@@ -1649,7 +1640,7 @@ Altenhof, Bollewick, Buchholz, Bütow, Fincken, Gotthun, Grabow-Below, Groß Kel
 Amt Seenlandschaft Waren
 
 die Gemeinden
-Grabowhöfe, Groß Dratow, Groß Gievitz, Groß Plasten, Hinrichshagen, Hohen Wangelin, Jabel, Kargow, Klink, Klocksin, Lansen-Schönau, Moltzow, Neu Gaarz, Schloen, Schwinkendorf, Torgelow am See, Varchentin, Vielist, Vollrathsruhe
+Dratow-Schloen, Grabowhöfe, Groß Plasten, Hohen Wangelin, Jabel, Kargow, Klink, Klocksin, Moltzow, Neu Gaarz, Peenehagen, Torgelow am See, Varchentin, Vollrathsruhe
 
 Amt Stavenhagen
 
@@ -2116,17 +2107,12 @@ Landkreis Schaumburg
 vom Landkreis Nienburg (Weser)
 
 die Gemeinden
-Stadt Nienburg (Weser), Stadt Rehburg-Loccum, Flecken Steyerberg, Stolzenau
+Stadt Nienburg (Weser), Stadt Rehburg-Loccum, Flecken Steyerberg
 
 Samtgemeinde Heemsen
 
 die Gemeinden
 Flecken Drakenburg, Haßbergen, Heemsen, Rohrsen
-
-Samtgemeinde Landesbergen
-
-die Gemeinden
-Estorf, Husum, Landesbergen, Leese
 
 Samtgemeinde Liebenau
 
@@ -2137,6 +2123,11 @@ Samtgemeinde Marklohe
 
 die Gemeinden
 Balge, Marklohe, Wietzen
+
+Samtgemeinde Mittelweser
+
+die Gemeinden
+Estorf, Husum, Landesbergen, Leese, Stolzenau
 
 Samtgemeinde Steimbke
 
@@ -2309,7 +2300,7 @@ Goslar – Northeim – Osterode
 Vom Landkreis Goslar
 
 die Gemeinden
-Stadt Bad Harzburg, Stadt Braunlage, Stadt Goslar, Bergstadt Sankt Andreasberg, Stadt Vienenburg
+Stadt Bad Harzburg, Stadt Braunlage, Stadt Goslar, Stadt Vienenburg
 
 Samtgemeinde Oberharz
 
@@ -2321,18 +2312,14 @@ Bergstadt Altenau, Bergstadt Clausthal-Zellerfeld, Schulenberg im Oberharz, Berg
 vom Landkreis Northeim
 
 die Gemeinden
-Stadt Bad Gandersheim, Stadt Dassel, Stadt Einbeck, Stadt Hardegsen, Kalefeld, Katlenburg-Lindau, Kreiensen, Stadt Moringen, Flecken Nörten-Hardenberg, Stadt Northeim
+Stadt Bad Gandersheim, Stadt Dassel, Stadt Einbeck, Stadt Hardegsen, Kalefeld, Katlenburg-Lindau, Stadt Moringen, Flecken Nörten-Hardenberg, Stadt Northeim
 
 (Übrige Gemeinden s. Wkr. 46)
 
 vom Landkreis Osterode am Harz
 
-die Gemeinde Stadt Osterode am Harz
-
-Samtgemeinde Bad Grund (Harz)
-
 die Gemeinden
-Bergstadt Bad Grund (Harz), Badenhausen, Eisdorf, Flecken Gittelde, Windhausen
+Bad Grund (Harz), Stadt Osterode am Harz
 
 Samtgemeinde Hattorf am Harz
 
@@ -2367,7 +2354,7 @@ Bremen I
 
 Von der kreisfreien Stadt Bremen
 
-der Stadtbezirk Ost (Ortsteile 311 bis 385)
+der Stadtbezirk Ost (Ortsteile 311 bis 385 und Stadtteil Oberneuland)
 
 vom Stadtbezirk Mitte
 
@@ -3606,12 +3593,7 @@ Bautzen I
 Vom Landkreis Bautzen
 
 die Gemeinden
-Bautzen, Burkau, Cunewalde, Demitz-Thumitz, Doberschau-Gaußig, Elsterheide, Elstra, Göda, Großdubrau, Haselbachtal, Hochkirch, Hoyerswerda, Königswartha, Kubschütz, Lauta, Lohsa, Neukirch/Lausitz, Oßling, Radibor, Schirgiswalde-Kirschau, Schmölln-Putzkau, Schwepnitz, Sohland a. d. Spree, Spreetal, Steinigtwolmsdorf, Weißenberg, Wilthen, Wittichenau
-
-Verwaltungsgemeinschaft Bernsdorf
-
-die Gemeinden
-Bernsdorf, Wiednitz
+Bautzen, Bernsdorf, Burkau, Cunewalde, Demitz-Thumitz, Doberschau-Gaußig, Elsterheide, Elstra, Göda, Großdubrau, Haselbachtal, Hochkirch, Hoyerswerda, Königswartha, Kubschütz, Lauta, Lohsa, Malschwitz, Neukirch/Lausitz, Oßling, Radibor, Schirgiswalde-Kirschau, Schmölln-Putzkau, Schwepnitz, Sohland a. d. Spree, Spreetal, Steinigtwolmsdorf, Weißenberg, Wilthen, Wittichenau
 
 Verwaltungsgemeinschaft Bischofswerda
 
@@ -3637,11 +3619,6 @@ Verwaltungsgemeinschaft Königsbrück
 
 die Gemeinden
 Königsbrück, Laußnitz, Neukirch
-
-Verwaltungsgemeinschaft Malschwitz
-
-die Gemeinden
-Guttau, Malschwitz
 
 Verwaltungsgemeinschaft Neschwitz
 
@@ -3716,17 +3693,7 @@ Mittelsachsen
 Vom Landkreis Mittelsachsen
 
 die Gemeinden
-Augustusburg, Bobritzsch, Bockelwitz, Brand-Erbisdorf, Döbeln, Eppendorf, Frankenberg/Sa., Frauenstein, Großhartmannsdorf, Großschirma, Großweitzschen, Hainichen, Halsbrücke, Hartha, Kriebstein, Leisnig, Leubsdorf, Mochau, Mulda/Sa., Neuhausen/Erzgeb., Niederwiesa, Oberschöna, Rechenberg-Bienenmühle, Reinsberg, Rossau, Striegistal
-
-Verwaltungsgemeinschaft Flöha
-
-die Gemeinden
-Falkenau, Flöha
-
-Verwaltungsgemeinschaft Freiberg
-
-die Gemeinden
-Freiberg, Hilbersdorf
+Augustusburg, Bobritzsch-Hilbersdorf, Brand-Erbisdorf, Döbeln, Eppendorf, Flöha, Frankenberg/Sa., Frauenstein, Freiberg, Großhartmannsdorf, Großschirma, Großweitzschen, Hainichen, Halsbrücke, Hartha, Kriebstein, Leisnig, Leubsdorf, Mochau, Mulda/Sa., Neuhausen/Erzgeb., Niederwiesa, Oberschöna, Oederan, Rechenberg-Bienenmühle, Reinsberg, Rossau, Roßwein, Striegistal, Waldheim
 
 Verwaltungsgemeinschaft Lichtenberg/Erzgeb.
 
@@ -3738,30 +3705,15 @@ Verwaltungsgemeinschaft Mittweida
 die Gemeinden
 Altmittweida, Mittweida
 
-Verwaltungsgemeinschaft Oederan
-
-die Gemeinden
-Frankenstein, Oederan
-
 Verwaltungsgemeinschaft Ostrau
 
 die Gemeinden
 Ostrau, Zschaitz-Ottewig
 
-Verwaltungsgemeinschaft Roßwein
-
-die Gemeinden
-Niederstriegis, Roßwein
-
 Verwaltungsgemeinschaft Sayda
 
 die Gemeinden
 Dorfchemnitz, Sayda
-
-Verwaltungsgemeinschaft Waldheim
-
-die Gemeinden
-Waldheim, Ziegra-Knobelsdorf
 
 (Übrige Gemeinden s. Wkr. 163)
 
@@ -3788,7 +3740,7 @@ Auerbach, Burkhardtsdorf, Gornsdorf
 Verwaltungsgemeinschaft Lugau
 
 die Gemeinden
-Erlbach-Kirchberg, Lugau/Erzgeb., Niederwürschnitz
+Lugau/Erzgeb., Niederwürschnitz
 
 Verwaltungsgemeinschaft Stollberg/Erzgeb.
 
@@ -3797,8 +3749,7 @@ Niederdorf, Stollberg/Erzgeb.
 
 von der Verwaltungsgemeinschaft Zwönitz
 
-die Gemeinden
-Hormersdorf, Zwönitz
+die Gemeinde Zwönitz
 
 (Übrige Gemeinden s. Wkr. 164)
 
@@ -3843,7 +3794,7 @@ Erzgebirgskreis I
 Vom Erzgebirgskreis
 
 die Gemeinden
-Amtsberg, Annaberg-Buchholz, Aue, Bad Schlema, Bernsbach, Breitenbrunn/Erzgeb., Crottendorf, Drebach, Ehrenfriedersdorf, Eibenstock, Gelenau/Erzgeb., Großolbersdorf, Großrückerswalde, Grünhain-Beierfeld, Jöhstadt, Johanngeorgenstadt, Lauter/Sa., Lengefeld, Lößnitz, Mildenau, Kurort Oberwiesenthal, Olbernhau, Pfaffroda, Pockau, Raschau-Markersbach, Schneeberg, Schönheide, Schwarzenberg/Erzgeb., Sehmatal, Stützengrün, Thermalbad Wiesenbad, Thum, Wolkenstein, Zöblitz
+Amtsberg, Annaberg-Buchholz, Aue, Bad Schlema, Breitenbrunn/Erzgeb., Crottendorf, Drebach, Ehrenfriedersdorf, Eibenstock, Gelenau/Erzgeb., Großolbersdorf, Großrückerswalde, Grünhain-Beierfeld, Jöhstadt, Johanngeorgenstadt, Lauter-Bernsbach, Lengefeld, Lößnitz, Marienberg, Mildenau, Kurort Oberwiesenthal, Olbernhau, Pfaffroda, Pockau, Raschau-Markersbach, Schneeberg, Schönheide, Schwarzenberg/Erzgeb., Sehmatal, Stützengrün, Thermalbad Wiesenbad, Thum, Wolkenstein
 
 Verwaltungsgemeinschaft Bärenstein
 
@@ -3854,11 +3805,6 @@ Verwaltungsgemeinschaft Geyer
 
 die Gemeinden
 Geyer, Tannenberg
-
-Verwaltungsgemeinschaft Marienberg
-
-die Gemeinden
-Marienberg, Pobershau
 
 Verwaltungsgemeinschaft Scheibenberg-Schlettau
 
@@ -4216,7 +4162,6 @@ Eichsfeld – Nordhausen –
 Unstrut-Hainich-Kreis I
 
 Landkreis Eichsfeld
-
 Landkreis Nordhausen
 
 vom Unstrut-Hainich-Kreis
@@ -4224,10 +4169,10 @@ vom Unstrut-Hainich-Kreis
 verwaltungsgemeinschaftsfreie Gemeinden
 Anrode, Dünwald, Mühlhausen/Thüringen, Unstruttal
 
-Verwaltungsgemeinschaft Hildebrandshausen/Lengenfeld unterm Stein
+Erfüllende Gemeinde Südeichsfeld
 
 die Gemeinden
-Hildebrandshausen, Lengenfeld unterm Stein, Rodeberg
+Rodeberg, Südeichsfeld (nur die Ortschaften Hildebrandshausen, Lengenfeld unterm Stein)
 
 (Übrige Gemeinden s. Wkr. 190)
 
@@ -4243,12 +4188,21 @@ Wartburgkreis
 vom Unstrut-Hainich-Kreis
 
 verwaltungsgemeinschaftsfreie Gemeinden
-Bad Langensalza, Heyerode, Katharinenberg, Menteroda, Weinbergen
+Bad Langensalza, Menteroda, Weinbergen
 
 Erfüllende Gemeinde Herbsleben
 
 die Gemeinden
 Großvargula, Herbsleben
+
+Erfüllende Gemeinde Südeichsfeld
+
+die Gemeinde Südeichsfeld (nur die Ortschaften Heyerode und Katharinenberg)
+
+Erfüllende Gemeinde Vogtei
+
+die Gemeinden
+Kammerforst, Oppershausen, Vogtei
 
 Verwaltungsgemeinschaft Bad Tennstedt
 
@@ -4264,11 +4218,6 @@ Verwaltungsgemeinschaft Unstrut-Hainich
 
 die Gemeinden
 Altengottern, Flarchheim, Großengottern, Heroldishausen, Mülverstedt, Schönstedt, Weberstedt
-
-Verwaltungsgemeinschaft Vogtei
-
-die Gemeinden
-Kammerforst, Langula, Niederdorla, Oberdorla, Oppershausen
 
 (Übrige Gemeinden s. Wkr. 189)
 
@@ -4289,7 +4238,7 @@ Apolda, Bad Berka, Blankenhain, Saaleplatte
 Erfüllende Gemeinde Bad Sulza
 
 die Gemeinden
-Auerstedt, Bad Sulza, Eberstedt, Flurstedt, Gebstedt, Großheringen, Ködderitzsch, Niedertrebra, Obertrebra, Rannstedt, Reisdorf, Schmiedehausen, Wickerstedt
+Bad Sulza, Eberstedt, Großheringen, Ködderitzsch, Niedertrebra, Obertrebra, Rannstedt, Schmiedehausen
 
 Verwaltungsgemeinschaft Berlstedt
 
@@ -4465,15 +4414,10 @@ Verbandsgemeinde Bad Ems
 die Gemeinden
 Arzbach, Bad Ems, Becheln, Dausenau, Fachbach, Frücht, Kemmenau, Miellen, Nievern
 
-Verbandsgemeinde Braubach
-
-die Gemeinden
-Braubach, Dachsenhausen, Filsen, Kamp-Bornhofen, Osterspai
-
 Verbandsgemeinde Loreley
 
 die Gemeinden
-Auel, Bornich, Dahlheim, Dörscheid, Kaub, Kestert, Lierschied, Lykershausen, Nochern, Patersberg, Prath, Reichenberg, Reitzenhain, Loreleystadt Sankt Goarshausen, Sauerthal, Weisel, Weyer
+Auel, Bornich, Braubach, Dachsenhausen, Dahlheim, Dörscheid, Filsen, Kamp-Bornhofen, Kaub, Kestert, Lierschied, Lykershausen, Nochern, Osterspai, Patersberg, Prath, Reichenberg, Reitzenhain, Loreleystadt Sankt Goarshausen, Sauerthal, Weisel, Weyer
 
 (Übrige Gemeinden s. Wkr. 205)
 
@@ -5054,7 +4998,7 @@ Kreisfreie Stadt Bamberg
 vom Landkreis Bamberg
 
 die Gemeinden
-Altendorf, Buttenheim, Frensdorf, Hallstadt, Hirschaid, Pettstadt, Pommersfelden, Schlüsselfeld, Strullendorf
+Altendorf, Buttenheim, Frensdorf, Hallstadt, Hirschaid, Pettstadt, Pommersfelden, Schlüsselfeld, Stegaurach, Strullendorf, Walsdorf
 
 Verwaltungsgemeinschaft Burgebrach
 
@@ -5070,11 +5014,6 @@ Verwaltungsgemeinschaft Lisberg
 
 die Gemeinden
 Lisberg, Priesendorf
-
-Verwaltungsgemeinschaft Stegaurach
-
-die Gemeinden
-Stegaurach, Walsdorf
 
 (Übrige Gemeinden s. Wkr. 240)
 
@@ -5315,7 +5254,7 @@ Mering, Schmiechen, Steindorf
 vom Landkreis Augsburg
 
 die Gemeinden
-Adelsried, Altenmünster, Aystetten, Biberbach, Bobingen, Diedorf, Dinkelscherben, Fischach, Gablingen, Gersthofen, Graben, Horgau, Kutzenhausen, Langweid a.Lech, Meitingen, Neusäß, Schwabmünchen, Stadtbergen, Thierhaupten, Wehringen, Zusmarshausen
+Adelsried, Altenmünster, Aystetten, Biberbach, Bobingen, Diedorf, Dinkelscherben, Fischach, Gablingen, Gersthofen, Graben, Horgau, Kutzenhausen, Langweid a. Lech, Meitingen, Neusäß, Schwabmünchen, Stadtbergen, Thierhaupten, Wehringen, Zusmarshausen
 
 Verwaltungsgemeinschaft Gessertshausen
 
@@ -5758,7 +5697,7 @@ Landkreis Lörrach
 vom Landkreis Breisgau-Hochschwarzwald
 
 die Gemeinden
-Auggen, Bad Krozingen, Badenweiler, Ballrechten-Dottingen, Buggingen, Eschbach, Hartheim, Heitersheim, Müllheim, Münstertal/Schwarzwald, Neuenburg am Rhein, Staufen im Breisgau, Sulzburg
+Auggen, Bad Krozingen, Badenweiler, Ballrechten-Dottingen, Buggingen, Eschbach, Hartheim am Rhein, Heitersheim, Müllheim, Münstertal/Schwarzwald, Neuenburg am Rhein, Staufen im Breisgau, Sulzburg
 
 (Übrige Gemeinden s. Wkr. 281, 288)
 
@@ -5980,4 +5919,4 @@ Friedrichsthal, Quierschied, Sulzbach/Saar
 
 (Übrige Gemeinden s. Wkr. 296, 298)
 
-Anlage Nr. 18 Kursivdruck: Die Schreibung des Stadtteils "Billbrock" lautet richtig "Billbrook"
+Anlage Wahlkreis Nr. 18 Kursivdruck: Die Schreibung des Stadtteils "Billbrock" lautet richtig "Billbrook"
