@@ -5,11 +5,13 @@ Neuf
 Neugefasst durch Bek. v. 22.11.1990 I 2506;
 
 Stand  
-zuletzt geändert durch Art. 2 Abs. 2 G v. 6.6.2013 I 1482
+zuletzt geändert durch Art. 30 V v. 31.8.2015 I 1474
 
 ### 
 
+```
 (+++ Textnachweis Geltung ab: 1.7.1978 +++)
+```
 
 ### Inhaltsübersicht
 
@@ -244,11 +246,11 @@ für den Bereich der Zollverwaltung auf das Bundesministerium der Finanzen,
 für den Bereich der für die Aufrechterhaltung der öffentlichen Sicherheit zuständigen Behörden oder Dienststellen sowie der Behörden des Strafvollzugs auf das Bundesministerium des Innern,
 
 4.  
-für alle übrigen Bereiche auf das Bundesministerium für Wirtschaft und Technologie
+für alle übrigen Bereiche auf das Bundesministerium für Wirtschaft und Energie
 
 zu übertragen.
 
-(3) Die Befugnis zur Erteilung und zum Widerruf der Genehmigung in den Fällen des § 4 Abs. 1 kann durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, auf das Bundesministerium für Verkehr, Bau und Stadtentwicklung übertragen werden, der diese Befugnis im Einvernehmen mit dem Auswärtigen Amt ausübt.
+(3) Die Befugnis zur Erteilung und zum Widerruf der Genehmigung in den Fällen des § 4 Abs. 1 kann durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, auf das Bundesministerium für Verkehr und digitale Infrastruktur übertragen werden, der diese Befugnis im Einvernehmen mit dem Auswärtigen Amt ausübt.
 
 (4) Die Bundesregierung wird ferner ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die erforderlichen Vorschriften zur näheren Regelung des Genehmigungsverfahrens zu erlassen.
 
@@ -330,17 +332,17 @@ wenn dies erforderlich ist, um Staatsgeheimnisse zu schützen.
 
 ### § 13a Umgang mit unbrauchbar gemachten Kriegswaffen
 
-Der Umgang mit unbrauchbar gemachten Kriegswaffen kann durch Rechtsverordnung des Bundesministeriums für Wirtschaft und Technologie, die der Zustimmung des Bundesrates nicht bedarf, beschränkt werden; insbesondere kann der Umgang verboten oder unter Genehmigungsvorbehalt gestellt werden. Unbrauchbar gemachte Kriegswaffen sind Kriegswaffen, die durch technische Veränderungen endgültig die Fähigkeit zum bestimmungsgemäßen Einsatz verloren haben und nicht mit allgemein gebräuchlichen Werkzeugen wieder funktionsfähig gemacht werden können. Durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, kann bestimmt werden, auf welche Weise Kriegswaffen unbrauchbar zu machen sind und in welcher Form ihre Unbrauchbarmachung nachzuweisen ist.
+Der Umgang mit unbrauchbar gemachten Kriegswaffen kann durch Rechtsverordnung des Bundesministeriums für Wirtschaft und Energie, die der Zustimmung des Bundesrates nicht bedarf, beschränkt werden; insbesondere kann der Umgang verboten oder unter Genehmigungsvorbehalt gestellt werden. Unbrauchbar gemachte Kriegswaffen sind Kriegswaffen, die durch technische Veränderungen endgültig die Fähigkeit zum bestimmungsgemäßen Einsatz verloren haben und nicht mit allgemein gebräuchlichen Werkzeugen wieder funktionsfähig gemacht werden können. Durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, kann bestimmt werden, auf welche Weise Kriegswaffen unbrauchbar zu machen sind und in welcher Form ihre Unbrauchbarmachung nachzuweisen ist.
 
 ### § 14 Überwachungsbehörden
 
 (1) Für die Überwachung der nach diesem Gesetz genehmigungsbedürftigen Handlungen und der Einhaltung der in § 12 genannten Pflichten ist
 
 1.  
-in den Fällen der §§ 2 und 3 Abs. 1 und 2 sowie des § 4a das Bundesministerium für Wirtschaft und Technologie und
+in den Fällen der §§ 2 und 3 Abs. 1 und 2 sowie des § 4a das Bundesministerium für Wirtschaft und Energie und
 
 2.  
-in den Fällen des § 4 das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+in den Fällen des § 4 das Bundesministerium für Verkehr und digitale Infrastruktur
 
 zuständig.
 
@@ -365,7 +367,7 @@ Besichtigungen vornehmen.
 
 (7) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die erforderlichen Vorschriften zur Durchführung der nach Absatz 3 zulässigen Überwachungsmaßnahmen zu erlassen und das Verfahren der Überwachungsbehörden zu regeln.
 
-(8) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, die ihm nach Absatz 1 zustehenden Überwachungsbefugnisse auf das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu übertragen.
+(8) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, die ihm nach Absatz 1 zustehenden Überwachungsbefugnisse auf das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu übertragen.
 
 ### § 15 Bundeswehr und andere Organe
 
@@ -661,7 +663,7 @@ als Inhaber einer Erlaubnis gemäß § 59 Absatz 4 des Waffengesetzes von 1972 a
 
 ### § 23 Verwaltungsbehörden
 
-Das Bundesministerium für Wirtschaft und Technologie, das Bundesministerium für Verkehr, Bau und Stadtentwicklung und das Bundesministerium der Finanzen sind, soweit sie nach § 14 Abs. 1 und 2 für die Überwachung zuständig sind, zugleich Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten. § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten gilt entsprechend.
+Das Bundesministerium für Wirtschaft und Energie, das Bundesministerium für Verkehr und digitale Infrastruktur und das Bundesministerium der Finanzen sind, soweit sie nach § 14 Abs. 1 und 2 für die Überwachung zuständig sind, zugleich Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten. § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten gilt entsprechend.
 
 ### § 24 Einziehung und Erweiterter Verfall
 
@@ -700,7 +702,7 @@ Soweit vor dem Tage des Wirksamwerdens des Beitritts staatliche Aufträge zur He
 2.  
 Bei Anweisungen im Sinne der Nummer 1 in bezug auf Staaten, die nicht Mitgliedstaaten des Warschauer Vertrages sind, können genehmigungsbedürftige, aber unaufschiebbare Handlungen vorläufig genehmigt werden; Absatz 1 Satz 2 und 3 gilt entsprechend.
 
-(3) Für den Fall, daß die Deutsche Demokratische Republik ein Gesetz zur Inkraftsetzung dieses Gesetzes erläßt, wird das Bundesministerium für Wirtschaft und Technologie ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Maßgaben der Absätze 1 und 2 und des § 26a so zu ändern, daß deren Ziele unter Berücksichtigung der neuen Rechtslage erreicht werden.
+(3) Für den Fall, daß die Deutsche Demokratische Republik ein Gesetz zur Inkraftsetzung dieses Gesetzes erläßt, wird das Bundesministerium für Wirtschaft und Energie ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Maßgaben der Absätze 1 und 2 und des § 26a so zu ändern, daß deren Ziele unter Berücksichtigung der neuen Rechtslage erreicht werden.
 
 ### § 27 Zwischenstaatliche Verträge
 
