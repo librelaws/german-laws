@@ -5,10 +5,13 @@ Neuf
 Neugefasst durch Bek. v. 9.9.1998 I 2776;
 
 Stand  
-Zuletzt geändert durch Art. 2 G v. 2.11.2015 I 1864
+Zuletzt geändert durch Art. 16 G v. 20.11.2015 I 2029
 
 Hinweis  
-Änderung durch Art. 16 G v. 20.11.2015 I 2029 (Nr. 46) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 2 G v. 3.3.2016 I 348 (Nr. 11) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 12 G v. 11.3.2016 I 396 (Nr. 12) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -22,6 +25,7 @@ Hinweis
      § 53 Abs. 3 EinSiG +++)
 (+++ Zur Anwendung d. § 23 vgl. § 33 KAGB +++)
 (+++ Zur Anwendung d. § 23a Abs 1 Satz 2 u. 5 u. Abs. 2 vgl. § 32 KAGB +++)
+(+++ Zur Anwendung d. § 24c Abs 4 vgl. § 305 Abs. 6 VAG 2016 +++)
 (+++ Zur Anwendung d. § 28 vgl. § 38 Abs. 2 KAGB +++)
 (+++ Zur Anwendung d. § 38 vgl. § 39 Abs. 4 KAGB +++)
 (+++ Zur Anwendung d. §§ 42 u. 43 vgl. § 3 Abs. 5 KAGB +++)
@@ -250,7 +254,7 @@ Hinweis
 <td>§ 18</td>
 </tr>
 <tr class="even">
-<td>§§ 18a und 18b</td>
+<td>§ 18a</td>
 </tr>
 <tr class="odd">
 <td>§ 19</td>
@@ -1204,7 +1208,7 @@ dient. Gehört der Sicherungsgeber zu den in Artikel 1 Abs. 2 Buchstabe e der Ri
 die Banken- und Wertpapierdienstleistungsbranche; dieser gehören Kreditinstitute im Sinne des Absatzes 1, Finanzdienstleistungsinstitute im Sinne des Absatzes 1a, Kapitalverwaltungsgesellschaften im Sinne des § 17 des Kapitalanlagegesetzbuchs, extern verwaltete Investmentgesellschaften im Sinne des § 1 Absatz 13 des Kapitalanlagegesetzbuchs, Finanzunternehmen im Sinne des Absatzes 3, Anbieter von Nebendienstleistungen oder entsprechende Unternehmen mit Sitz im Ausland sowie E-Geld-Institute im Sinne des § 1a Absatz 1 Nummer 5 des Zahlungsdiensteaufsichtsgesetzes sowie Zahlungsinstitute im Sinne des § 1 Abs. 1 Nr. 5 des Zahlungsdiensteaufsichtsgesetzes an;
 
 2.  
-die Versicherungsbranche; dieser gehören Erstversicherungsunternehmen, Rückversicherungsunternehmen im Sinne des § 104a Abs. 2 Nr. 3 des Versicherungsaufsichtsgesetzes, Versicherungs-Holdinggesellschaften im Sinne des § 104a Abs. 2 Nr. 4 des Versicherungsaufsichtsgesetzes oder entsprechende Unternehmen mit Sitz im Ausland an.
+die Versicherungsbranche; dieser gehören Erst- und Rückversicherungsunternehmen im Sinne des § 7 Nummer 33 des Versicherungsaufsichtsgesetzes, Versicherungs-Holdinggesellschaften im Sinne des § 7 Nummer 31 des Versicherungsaufsichtsgesetzes oder entsprechende Unternehmen mit Sitz im Ausland an; zu den Versicherungsunternehmen im Sinne des ersten Halbsatzes gehören weder die Sterbekassen noch die in § 1 Absatz 4 und § 3 des Versicherungsaufsichtsgesetzes genannten Unternehmen und Einrichtungen.
 
 (20) Finanzkonglomerat ist eine Gruppe oder Untergruppe von Unternehmen im Sinne des § 1 Absatz 2 des Finanzkonglomerate-Aufsichtsgesetzes.
 
@@ -1354,10 +1358,13 @@ die Sozialversicherungsträger und die Bundesagentur für Arbeit;
 die öffentliche Schuldenverwaltung des Bundes, eines seiner Sondervermögen, eines Landes oder eines anderen Staates des Europäischen Wirtschaftsraums und deren Zentralbanken, sofern diese nicht fremde Gelder als Einlagen oder andere rückzahlbare Gelder des Publikums annimmt oder das Kreditgeschäft betreibt;
 
 3b.  
-Kapitalverwaltungsgesellschaften und extern verwaltete Investmentgesellschaften, sofern sie die kollektive Vermögensverwaltung erbringen oder neben der kollektiven Vermögensverwaltung ausschließlich die in § 20 Absatz 2 und 3 des Kapitalanlagegesetzbuchs aufgeführten Dienstleistungen oder Nebendienstleistungen als Bankgeschäfte betreiben;
+Kapitalverwaltungsgesellschaften und extern verwaltete Investmentgesellschaften, sofern sie als Bankgeschäfte nur die kollektive Vermögensverwaltung, gegebenenfalls einschließlich der Gewährung von Gelddarlehen, oder daneben ausschließlich die in § 20 Absatz 2 und 3 des Kapitalanlagegesetzbuchs aufgeführten Dienstleistungen oder Nebendienstleistungen betreiben;
 
 3c.  
-EU-Verwaltungsgesellschaften und ausländische AIF-Verwaltungsgesellschaften, sofern sie die kollektive Vermögensverwaltung oder neben der kollektiven Vermögensverwaltung ausschließlich die in Artikel 6 Absatz 3 der Richtlinie 2009/65/EG oder die in Artikel 6 Absatz 4 der Richtlinie 2011/61/EU aufgeführten Dienstleistungen oder Nebendienstleistungen als Bankgeschäfte betreiben;
+EU-Verwaltungsgesellschaften und, unter der Voraussetzung, dass der Vertrieb der betreffenden Investmentvermögen im Inland nach dem Kapitalanlagegesetzbuch auf der Basis einer Vertriebsanzeige zulässig ist, ausländische AIF-Verwaltungsgesellschaften, sofern die EU-Verwaltungsgesellschaft oder die ausländische AIF-Verwaltungsgesellschaft als Bankgeschäfte nur die kollektive Vermögensverwaltung, gegebenenfalls einschließlich der Gewährung von Gelddarlehen, oder daneben ausschließlich die in Artikel 6 Absatz 3 der Richtlinie 2009/65/EG oder die in Artikel 6 Absatz 4 der Richtlinie 2011/61/EU aufgeführten Dienstleistungen oder Nebendienstleistungen betreibt; ein Vertrieb von ausländischen AIF oder EU-AIF an professionelle Anleger nach § 330 des Kapitalanlagegesetzbuchs gilt nicht als zulässiger Vertrieb im Sinne dieser Vorschrift;
+
+3d.  
+EU-Investmentvermögen und, unter der Voraussetzung, dass der Vertrieb der betreffenden Investmentvermögen im Inland nach dem Kapitalanlagegesetzbuch auf der Basis einer Vertriebsanzeige zulässig ist, ausländische AIF, sofern das EU-Investmentvermögen oder der ausländische AIF als Bankgeschäfte nur die kollektive Vermögensverwaltung, gegebenenfalls einschließlich der Gewährung von Gelddarlehen, oder daneben ausschließlich die in Artikel 6 Absatz 3 der Richtlinie 2009/65/EG oder die in Artikel 6 Absatz 4 der Richtlinie 2011/61/EU aufgeführten Dienstleistungen oder Nebendienstleistungen betreibt; ein Vertrieb von ausländischen AIF oder EU-AIF an professionelle Anleger nach § 330 des Kapitalanlagegesetzbuchs gilt nicht als zulässiger Vertrieb im Sinne dieser Vorschrift;
 
 4.  
 private und öffentlich-rechtliche Versicherungsunternehmen;
@@ -1424,10 +1431,10 @@ private und öffentlich-rechtliche Versicherungsunternehmen;
 Unternehmen, die Finanzdienstleistungen im Sinne des § 1 Abs. 1a Satz 2 ausschließlich innerhalb der Unternehmensgruppe erbringen;
 
 5a.  
-Kapitalverwaltungsgesellschaften und extern verwaltete Investmentgesellschaften, sofern sie die kollektive Vermögensverwaltung erbringen oder neben der kollektiven Vermögensverwaltung ausschließlich die in § 20 Absatz 2 und 3 des Kapitalanlagegesetzbuchs aufgeführten Dienstleistungen oder Nebendienstleistungen als Finanzdienstleistungen erbringen;
+Kapitalverwaltungsgesellschaften und extern verwaltete Investmentgesellschaften, sofern sie nur die kollektive Vermögensverwaltung erbringen oder neben der kollektiven Vermögensverwaltung ausschließlich die in § 20 Absatz 2 und 3 des Kapitalanlagegesetzbuchs aufgeführten Dienstleistungen oder Nebendienstleistungen als Finanzdienstleistungen erbringen;
 
 5b.  
-EU-Verwaltungsgesellschaften und ausländische AIF-Verwaltungsgesellschaften, sofern sie die kollektive Vermögensverwaltung erbringen oder neben der kollektiven Vermögensverwaltung ausschließlich die in Artikel 6 Absatz 3 der Richtlinie 2009/65/EG oder die in Artikel 6 Absatz 4 der Richtlinie 2011/61/EU aufgeführten Dienstleistungen oder Nebendienstleistungen als Finanzdienstleistungen erbringen;
+EU-Verwaltungsgesellschaften und ausländische AIF-Verwaltungsgesellschaften, sofern sie nur die kollektive Vermögensverwaltung erbringen oder neben der kollektiven Vermögensverwaltung ausschließlich die in Artikel 6 Absatz 3 der Richtlinie 2009/65/EG oder die in Artikel 6 Absatz 4 der Richtlinie 2011/61/EU aufgeführten Dienstleistungen oder Nebendienstleistungen als Finanzdienstleistungen erbringen;
 
 6.  
 Unternehmen, deren Finanzdienstleistung für andere ausschließlich in der Verwaltung eines Systems von Arbeitnehmerbeteiligungen an den eigenen oder an mit ihnen verbundenen Unternehmen besteht;
@@ -1453,7 +1460,7 @@ Kapitalverwaltungsgesellschaften, extern verwalteten Investmentgesellschaften, E
 e)  
 Anbietern oder Emittenten von Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes
 
-betreiben, sofern sich diese Finanzdienstleistungen auf Anteile oder Aktien an inländischen Investmentvermögen, die von einer Kapitalverwaltungsgesellschaft ausgegeben werden, die eine Erlaubnis nach § 7 oder § 97 Absatz 1 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung erhalten hat, die für den in § 345 Absatz 2 Satz 1, Absatz 3 Satz 2, in Verbindung mit Absatz 2 Satz 1, oder Absatz 4 Satz 1 des Kapitalanlagegesetzbuchs vorgesehenen Zeitraum noch fortbesteht oder eine Erlaubnis nach den §§ 20, 21 oder §§ 20, 22 des Kapitalanlagegesetzbuchs erhalten hat oder auf Anteile oder Aktien an EU-Investmentvermögen oder ausländischen AIF, die nach dem Kapitalanlagegesetzbuch vertrieben werden dürfen, oder auf Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes beschränken und die Unternehmen nicht befugt sind, sich bei der Erbringung dieser Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Anteilen von Kunden zu verschaffen, es sei denn, das Unternehmen beantragt und erhält eine entsprechende Erlaubnis nach § 32 Abs. 1; Anteile oder Aktien an Hedgefonds im Sinne von § 283 des Kapitalanlagegesetzbuchs gelten nicht als Anteile an Investmentvermögen im Sinne dieser Vorschrift;
+betreiben, sofern sich diese Finanzdienstleistungen auf Anteile oder Aktien an inländischen Investmentvermögen, die von einer Kapitalverwaltungsgesellschaft ausgegeben werden, die eine Erlaubnis nach § 7 oder § 97 Absatz 1 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung erhalten hat, die für den in § 345 Absatz 2 Satz 1, Absatz 3 Satz 2, in Verbindung mit Absatz 2 Satz 1, oder Absatz 4 Satz 1 des Kapitalanlagegesetzbuchs vorgesehenen Zeitraum noch fortbesteht, oder eine Erlaubnis nach den §§ 20, 21 oder §§ 20, 22 des Kapitalanlagegesetzbuchs erhalten hat oder die von einer EU-Verwaltungsgesellschaft ausgegeben werden, die eine Erlaubnis nach Artikel 6 der Richtlinie 2009/65/EG oder der Richtlinie 2011/61/EU erhalten hat, oder auf Anteile oder Aktien an EU-Investmentvermögen oder ausländischen AIF, die nach dem Kapitalanlagegesetzbuch vertrieben werden dürfen, mit Ausnahme solcher AIF, die nach § 330a des Kapitalanlagegesetzbuchs vertrieben werden dürfen, oder auf Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes beschränken und die Unternehmen nicht befugt sind, sich bei der Erbringung dieser Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Anteilen von Kunden zu verschaffen, es sei denn, das Unternehmen beantragt und erhält eine entsprechende Erlaubnis nach § 32 Abs. 1; Anteile oder Aktien an Hedgefonds im Sinne von § 283 des Kapitalanlagegesetzbuchs gelten nicht als Anteile an Investmentvermögen im Sinne dieser Vorschrift;
 
 9.  
 Unternehmen, die, ohne grenzüberschreitend tätig zu werden, Eigengeschäfte an Derivatemärkten im Sinne des Absatzes 1 Nr. 8 betreiben und an Kassamärkten nur zur Absicherung dieser Positionen handeln, Eigenhandel im Sinne des § 1 Absatz 1a Satz 2 Nummer 4 Buchstabe a bis c oder Abschlussvermittlung nur für andere Mitglieder dieser Derivatemärkte erbringen oder als Market Maker im Sinne des § 23 Abs. 4 des Wertpapierhandelsgesetzes im Wege des Eigenhandels im Sinne des § 1 Absatz 1a Satz 2 Nummer 4 Buchstabe a Preise für andere Mitglieder dieser Derivatemärkte stellen, sofern für die Erfüllung der Verträge, die diese Unternehmen schließen, Clearingmitglieder derselben Märkte oder Handelssysteme haften;
@@ -3072,7 +3079,7 @@ für Kredite, die um nicht mehr als 10 vom Hundert des nach Absatz 1 Satz 1 besc
 
 ### § 18 Kreditunterlagen
 
-(1) Ein Kreditinstitut darf einen Kredit, der insgesamt 750 000 Euro oder 10 vom Hundert des nach Artikel 4 Absatz 1 Nummer 71 der Verordnung (EU) Nr. 575/2013 anrechenbaren Eigenkapitals des Instituts überschreitet, nur gewähren, wenn es sich von dem Kreditnehmer die wirtschaftlichen Verhältnisse, insbesondere durch Vorlage der Jahresabschlüsse, offen legen lässt. Das Kreditinstitut kann hiervon absehen, wenn das Verlangen nach Offenlegung im Hinblick auf die gestellten Sicherheiten oder auf die Mitverpflichteten offensichtlich unbegründet wäre. Das Kreditinstitut kann von der laufenden Offenlegung absehen, wenn
+Ein Kreditinstitut darf einen Kredit, der insgesamt 750 000 Euro oder 10 vom Hundert des nach Artikel 4 Absatz 1 Nummer 71 der Verordnung (EU) Nr. 575/2013 anrechenbaren Eigenkapitals des Instituts überschreitet, nur gewähren, wenn es sich von dem Kreditnehmer die wirtschaftlichen Verhältnisse, insbesondere durch Vorlage der Jahresabschlüsse, offen legen lässt. Das Kreditinstitut kann hiervon absehen, wenn das Verlangen nach Offenlegung im Hinblick auf die gestellten Sicherheiten oder auf die Mitverpflichteten offensichtlich unbegründet wäre. Das Kreditinstitut kann von der laufenden Offenlegung absehen, wenn
 
 1.  
 der Kredit durch Grundpfandrechte auf Wohneigentum, das vom Kreditnehmer selbst genutzt wird, gesichert ist,
@@ -3094,13 +3101,43 @@ multilaterale Entwicklungsbanken oder internationale Organisationen, wenn sie un
 3.  
 Regionalregierungen oder örtliche Gebietskörperschaften in einem anderen Staat des Europäischen Wirtschaftsraums, ein Land, eine Gemeinde, einen Gemeindeverband, ein rechtlich unselbständiges Sondervermögen eines Landes, einer Gemeinde oder eines Gemeindeverbandes oder Einrichtungen des öffentlichen Bereichs, wenn sie ungesichert ein KSA-Risikogewicht von 0 Prozent erhalten würden.
 
-(2) Die Institute prüfen vor Abschluss eines Verbraucherdarlehensvertrags oder eines Vertrags über eine entgeltliche Finanzierungshilfe die Kreditwürdigkeit des Verbrauchers. Grundlage können Auskünfte des Verbrauchers und erforderlichenfalls Auskünfte von Stellen sein, die geschäftsmäßig personenbezogene Daten, die zur Bewertung der Kreditwürdigkeit von Verbrauchern genutzt werden dürfen, zum Zweck der Übermittlung erheben, speichern oder verändern. Bei Änderung des Nettodarlehensbetrags sind die Auskünfte auf den neuesten Stand zu bringen. Bei einer erheblichen Erhöhung des Nettodarlehensbetrags ist die Kreditwürdigkeit neu zu bewerten. Die Bestimmungen zum Schutz personenbezogener Daten bleiben unberührt.
-
 (+++ § 18: Zur Nichtanwendung vgl. § 2 Abs. 9a Satz 1 +++)
 
-### (XXXX) §§ 18a u. 18b (weggefallen)
+### § 18a Verbraucherdarlehen und entgeltliche Finanzierungshilfen; Verordnungsermächtigung
 
-### § 19 Begriff des Kredits für § 14 und des Kreditnehmers für die §§ 14, 15 und 18 Absatz 1
+(1) Die Kreditinstitute prüfen vor Abschluss eines Verbraucherdarlehensvertrags die Kreditwürdigkeit des Darlehensnehmers. Das Kreditinstitut darf den Verbraucherdarlehensvertrag nur abschließen, wenn aus der Kreditwürdigkeitsprüfung hervorgeht, dass bei einem Allgemein-Verbraucherdarlehensvertrag keine erheblichen Zweifel an der Kreditwürdigkeit bestehen und dass es bei einem Immobiliar-Verbraucherdarlehensvertrag wahrscheinlich ist, dass der Darlehensnehmer seinen Verpflichtungen, die im Zusammenhang mit dem Darlehensvertrag stehen, vertragsgemäß nachkommen wird.
+
+(2) Wird der Nettodarlehensbetrag nach Abschluss des Darlehensvertrags deutlich erhöht, so ist die Kreditwürdigkeit auf aktualisierter Grundlage neu zu prüfen, es sei denn, der Erhöhungsbetrag des Nettodarlehens wurde bereits in die ursprüngliche Kreditwürdigkeitsprüfung einbezogen.
+
+(3) Grundlage für die Kreditwürdigkeitsprüfung können Auskünfte des Darlehensnehmers und erforderlichenfalls Auskünfte von Stellen sein, die geschäftsmäßig personenbezogene Daten, die zur Bewertung der Kreditwürdigkeit von Verbrauchern genutzt werden dürfen, zum Zwecke der Übermittlung erheben, speichern, verändern oder nutzen. Das Kreditinstitut ist verpflichtet, die Informationen in angemessener Weise zu überprüfen, soweit erforderlich auch durch Einsichtnahme in unabhängig nachprüfbare Unterlagen.
+
+(4) Bei Immobiliar-Verbraucherdarlehensverträgen hat das Kreditinstitut die Kreditwürdigkeit des Darlehensnehmers auf der Grundlage notwendiger, ausreichender und angemessener Informationen zu Einkommen, Ausgaben sowie zu anderen finanziellen und wirtschaftlichen Umständen des Darlehensnehmers eingehend zu prüfen. Dabei hat das Kreditinstitut die Faktoren angemessen zu berücksichtigen, die für die Einschätzung relevant sind, ob der Darlehensnehmer seinen Verpflichtungen aus dem Darlehensvertrag voraussichtlich nachkommen kann. Die Kreditwürdigkeitsprüfung darf nicht hauptsächlich darauf gestützt werden, dass in den Fällen des § 491 Absatz 3 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs der Wert des Grundstücks oder in den Fällen des § 491 Absatz 3 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs der Wert des Grundstücks, grundstücksgleichen Rechts oder Gebäudes voraussichtlich zunimmt oder den Darlehensbetrag übersteigt.
+
+(5) Das Kreditinstitut ist verpflichtet, die Verfahren und Angaben, auf die sich die Kreditwürdigkeitsprüfung stützt, nach Maßgabe von § 25a Absatz 1 Satz 6 Nummer 2 zu dokumentieren und die Dokumentation aufzubewahren.
+
+(6) Die mit der Vergabe von Immobiliar-Verbraucherdarlehen befassten internen und externen Mitarbeiter müssen über angemessene Kenntnisse und Fähigkeiten in Bezug auf das Gestalten, Anbieten, Vermitteln, Abschließen von Immobiliar-Verbraucherdarlehensverträgen oder das Erbringen von Beratungsleistungen in Bezug auf diese Verträge verfügen und ihre Kenntnisse und Fähigkeiten auf aktuellem Stand halten.
+
+(7) Kreditinstitute, die grundpfandrechtlich oder durch eine Reallast besicherte Immobiliar-Verbraucherdarlehen vergeben, haben
+
+1.  
+bei der Bewertung der Immobilie zuverlässige Standards zu verwenden und
+
+2.  
+sicherzustellen, dass interne und externe Gutachter, die Immobilienbewertungen für sie vornehmen, fachlich kompetent und so unabhängig vom Darlehensvergabeprozess sind, dass sie eine objektive Bewertung vornehmen können.
+
+Das Kreditinstitut ist verpflichtet, Bewertungen für Immobilien, die als Sicherheit für Immobiliar-Verbraucherdarlehen dienen, nach Maßgabe von § 25a Absatz 1 Satz 6 Nummer 2 auf einem dauerhaften Datenträger zu dokumentieren und die Dokumentation aufzubewahren.
+
+(8) Soweit Kreditinstitute Beratungsleistungen gemäß § 511 des Bürgerlichen Gesetzbuchs zu Immobiliar-Verbraucherdarlehen oder Nebenleistungen gewähren, vermitteln oder erbringen, sind Informationen über die Umstände des Verbrauchers, von ihm angegebene konkrete Bedürfnisse und realistische Annahmen bezüglich der Risiken für die Situation des Verbrauchers während der Laufzeit des Darlehensvertrags zugrunde zu legen.
+
+(9) Die Bestimmungen zum Schutz personenbezogener Daten bleiben unberührt.
+
+(10) Die Absätze 1 bis 9 gelten auch für die jeweils entsprechenden entgeltlichen Finanzierungshilfen.
+
+(11) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über die nach Absatz 6 erforderlichen Kenntnisse und Fähigkeiten der mit der Darlehensvergabe befassten internen und externen Mitarbeiter zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die Bundesanstalt übertragen.
+
+### § 18b (weggefallen)
+
+### § 19 Begriff des Kredits für § 14 und des Kreditnehmers für die §§ 14, 15 und 18
 
 (1) Kredite im Sinne des § 14 sind Bilanzaktiva, Derivate mit Ausnahme der Stillhalterverpflichtungen aus Kaufoptionen sowie die dafür übernommenen Gewährleistungen und andere außerbilanzielle Geschäfte. Bilanzaktiva im Sinne des Satzes 1 sind
 
@@ -3208,7 +3245,7 @@ alle Unternehmen, die demselben Konzern im Sinne des § 18 des Aktiengesetzes an
 
 Die Zusammenfassungstatbestände nach den Nummern 1 bis 3 sind kumulativ anzuwenden.
 
-(3) Als ein Kreditnehmer im Sinne der §§ 15 und 18 Absatz 1 gelten zwei oder mehr natürliche oder juristische Personen, die gemäß Artikel 4 Absatz 1 Nummer 39 der Verordnung (EU) Nr. 575/2013 eine Gruppe verbundener Kunden bilden.
+(3) Als ein Kreditnehmer im Sinne der §§ 15 und 18 gelten zwei oder mehr natürliche oder juristische Personen, die gemäß Artikel 4 Absatz 1 Nummer 39 der Verordnung (EU) Nr. 575/2013 eine Gruppe verbundener Kunden bilden.
 
 (4) (weggefallen)
 
@@ -3243,9 +3280,9 @@ Verfügungen über gutgeschriebene Beträge aus dem Lastschrifteinzugsverfahren,
 
 ### (XXXX) §§ 20a bis 20c (weggefallen)
 
-### § 21 Begriff des Kredits für die §§ 15 bis 18 Absatz 1
+### § 21 Begriff des Kredits für die §§ 15 bis 18
 
-(1) Kredite im Sinne der §§ 15 bis 18 Absatz 1 sind
+(1) Kredite im Sinne der §§ 15 bis 18 sind
 
 1.  
 Gelddarlehen aller Art, entgeltlich erworbene Geldforderungen, Akzeptkredite sowie Forderungen aus Namensschuldverschreibungen mit Ausnahme der auf den Namen lautenden Pfandbriefe und Kommunalschuldverschreibungen;
@@ -3270,7 +3307,7 @@ Gegenstände, über die ein Institut als Leasinggeber Leasingverträge abgeschlo
 
 Zugunsten des Instituts bestehende Sicherheiten sowie Guthaben des Kreditnehmers bei dem Institut bleiben außer Betracht.
 
-(2) Als Kredite im Sinne der §§ 15 bis 18 Absatz 1 gelten nicht
+(2) Als Kredite im Sinne der §§ 15 bis 18 gelten nicht
 
 1.  
 Kredite an den Bund, ein rechtlich unselbständiges Sondervermögen des Bundes oder eines Landes, ein Land, eine Gemeinde oder einen Gemeindeverband;
@@ -3284,7 +3321,7 @@ von anderen Instituten angekaufte Wechsel, die von einem Institut angenommen, in
 4.  
 abgeschriebene Kredite.
 
-(3) § 15 Abs. 1 Satz 1 Nr. 6 bis 11 und § 18 Absatz 1 gelten nicht für
+(3) § 15 Abs. 1 Satz 1 Nr. 6 bis 11 und § 18 gelten nicht für
 
 1.  
 Kredite, soweit sie den Erfordernissen des § 14 und des § 16 Abs. 1 und 2 des Pfandbriefgesetzes entsprechen (Realkredite);
@@ -3298,7 +3335,7 @@ Kredite an eine inländische juristische Person des öffentlichen Rechts, die ni
 4.  
 Kredite, soweit sie vom Bund, einem Sondervermögen des Bundes, einem Land, einer Gemeinde oder einem Gemeindeverband verbürgt oder in anderer Weise gesichert sind (öffentlich verbürgte Kredite).
 
-(4) Als Kredite im Sinne des § 18 Absatz 1 gelten nicht
+(4) Als Kredite im Sinne des § 18 gelten nicht
 
 1.  
 Kredite auf Grund des entgeltlichen Erwerbs einer Forderung aus nicht bankmäßigen Handelsgeschäften, wenn
@@ -3399,7 +3436,7 @@ der Zeitpunkt der Eintragung,
 4.  
 falls ein Gegenstand als Sicherheit dient, den rechtlichen Grund, den Umfang, den Rang der Sicherheit und das Datum des Tages, an dem der den rechtlichen Grund für die Absicherung enthaltende Vertrag geschlossen wurde.
 
-In den Fällen der Nummern 1 und 4 genügt es, wenn Dritten, insbesondere dem Verwalter, dem Sachwalter, der Bundesanstalt oder einem Insolvenzverwalter die eindeutige Bestimmung der einzutragenden Angaben möglich ist. Ist der Übertragungsberechtigte eine Pfandbriefbank, so ist diese sowie der gemäß § 7 Abs. 1 des Pfandbriefgesetzes bestellte Treuhänder von der Eintragung zu unterrichten. Ist der Übertragungsberechtigte ein Versicherungsunternehmen, ist dieses sowie der nach § 70 des Versicherungsaufsichtsgesetzes bestellte Treuhänder von der Eintragung zu unterrichten.
+In den Fällen der Nummern 1 und 4 genügt es, wenn Dritten, insbesondere dem Verwalter, dem Sachwalter, der Bundesanstalt oder einem Insolvenzverwalter die eindeutige Bestimmung der einzutragenden Angaben möglich ist. Ist der Übertragungsberechtigte eine Pfandbriefbank, so ist diese sowie der gemäß § 7 Abs. 1 des Pfandbriefgesetzes bestellte Treuhänder von der Eintragung zu unterrichten. Ist der Übertragungsberechtigte ein Versicherungsunternehmen, ist dieses sowie der nach § 128 des Versicherungsaufsichtsgesetzes bestellte Treuhänder von der Eintragung zu unterrichten.
 
 (3) Soweit nach Absatz 2 erforderliche Angaben fehlen oder Eintragungen unrichtig sind oder keine eindeutige Bestimmung einzutragender Angaben zulassen, sind die betroffenen Gegenstände nicht ordnungsgemäß eingetragen.
 
@@ -3534,7 +3571,7 @@ Im Übrigen hat der Verwalter des Refinanzierungsregisters die inhaltliche Richt
 
 ### § 23 Werbung
 
-(1) Um Missständen bei der Werbung der Institute zu begegnen, kann die Bundesanstalt bestimmte Arten der Werbung untersagen.
+(1) Um Missständen bei der Werbung der Institute zu begegnen, kann die Bundesanstalt bestimmte Arten der Werbung untersagen. Ein Missstand liegt insbesondere vor, wenn Werbung für Verbraucherdarlehensverträge falsche Erwartungen in Bezug auf die Möglichkeit, ein Darlehen zu erhalten oder in Bezug auf die Kosten eines Darlehens weckt.
 
 (2) Vor allgemeinen Maßnahmen nach Absatz 1 sind die Spitzenverbände der Institute und des Verbraucherschutzes zu hören.
 
@@ -4498,7 +4535,7 @@ die Anzeigepflichten nach den §§ 11, 12a, 14 Absatz 1 sowie nach der Verordnun
 die Anforderungen
 
 a)  
-nach den §§ 10a, 10c bis 10i jeweils auch in Verbindung mit einer Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 5, nach den §§ 11, 13 bis 13c, 18, 25 Absatz 1 und 2, § 25a Absatz 1 Satz 3 jeweils auch in Verbindung mit einer Rechtsverordnung nach § 25 Absatz 3 und § 25a Absatz 5 auch in Verbindung mit einer Rechtsverordnung nach § 25a Absatz 6, nach § 25a Absatz 1 Satz 6 Nummer 1, Absatz 3, nach den §§ 25b, 25c Absatz 2 bis 4b, § 25d Absatz 3 bis 12, § 26a, nach den §§ 13 und 14 Absatz 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 22, nach § 51a Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51a Absatz 1, nach § 51b Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51b Absatz 2 und nach § 51c Absatz 1,
+nach den §§ 10a, 10c bis 10i jeweils auch in Verbindung mit einer Rechtsverordnung nach § 10 Absatz 1 Satz 1 Nummer 5, nach den §§ 11, 13 bis 13c, 18, 18a, 25 Absatz 1 und 2, § 25a Absatz 1 Satz 3 jeweils auch in Verbindung mit einer Rechtsverordnung nach § 25 Absatz 3 und § 25a Absatz 5 auch in Verbindung mit einer Rechtsverordnung nach § 25a Absatz 6, nach § 25a Absatz 1 Satz 6 Nummer 1, Absatz 3, nach den §§ 25b, 25c Absatz 2 bis 4b, § 25d Absatz 3 bis 12, § 26a, nach den §§ 13 und 14 Absatz 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 22, nach § 51a Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51a Absatz 1, nach § 51b Absatz 1 auch in Verbindung mit einer Rechtsverordnung nach § 51b Absatz 2 und nach § 51c Absatz 1,
 
 b)  
 nach den §§ 17, 20, 23, 25 und 27 des Finanzkonglomerate-Aufsichtsgesetzes,
@@ -5591,7 +5628,7 @@ die §§ 25i bis 25k, 25m, 37, 39 bis 42, 43 Abs. 2 und 3, § 44 Abs. 1 und 6, �
 9.  
 § 17 des Finanzdienstleistungsaufsichtsgesetzes.
 
-Ein Wertpapierhandelsunternehmen hat Änderungen des Geschäftsplanes, insbesondere der Art der geplanten Geschäfte und des organisatorischen Aufbaus der Zweigniederlassung, der Anschrift und der Leiter sowie der Sicherungseinrichtung im Herkunftsmitgliedstaat, dem das Wertpapierhandelsunternehmen angehört, der Bundesanstalt und der Deutschen Bundesbank mindestens einen Monat vor dem Wirksamwerden der Änderungen schriftlich anzuzeigen. Für die Tätigkeiten im Wege des grenzüberschreitenden Dienstleistungsverkehrs nach Absatz 1 Satz 1 und 2 gelten § 3, sofern es sich um ein CRR-Institut oder ein Wertpapierhandelsunternehmen handelt, die §§ 23a, 37, 44 Absatz 1 sowie die §§ 44c, 49 *dieses Gesetzes und § 17* des Finanzdienstleistungsaufsichtsgesetzes entsprechend. Auf Betreiber eines multilateralen Handelssystems, die im Wege des grenzüberschreitenden Dienstleistungsverkehrs im Inland einen Zugang anbieten, ist § 23a nicht anzuwenden.
+Ein Wertpapierhandelsunternehmen hat Änderungen des Geschäftsplanes, insbesondere der Art der geplanten Geschäfte und des organisatorischen Aufbaus der Zweigniederlassung, der Anschrift und der Leiter sowie der Sicherungseinrichtung im Herkunftsmitgliedstaat, dem das Wertpapierhandelsunternehmen angehört, der Bundesanstalt und der Deutschen Bundesbank mindestens einen Monat vor dem Wirksamwerden der Änderungen schriftlich anzuzeigen. Für die Tätigkeiten im Wege des grenzüberschreitenden Dienstleistungsverkehrs nach Absatz 1 Satz 1 und 2 gelten § 3, sofern es sich um ein CRR-Institut oder ein Wertpapierhandelsunternehmen handelt, die §§ 18a, 23a, 37, 44 Absatz 1 sowie die §§ 44c, 49 *dieses Gesetzes und § 17* des Finanzdienstleistungsaufsichtsgesetzes entsprechend. Auf Betreiber eines multilateralen Handelssystems, die im Wege des grenzüberschreitenden Dienstleistungsverkehrs im Inland einen Zugang anbieten, ist § 23a nicht anzuwenden.
 
 (4) Stellt die Aufsichtsbehörde fest, dass ein Unternehmen im Sinne des Absatzes 1 Satz 1 und 2 seinen Pflichten nach Absatz 3 oder der Verordnung (EU) Nr. 575/2013 nicht nachkommt oder es sehr wahrscheinlich ist, dass es diesen Verpflichtungen nicht nachkommen wird, unterrichtet die Aufsichtsbehörde unverzüglich die zuständigen Stellen des Herkunftsmitgliedstaates. Ergreift der Herkunftsmitgliedstaat keine Maßnahmen oder erweisen sich die Maßnahmen als unzureichend, kann sie nach Unterrichtung der zuständigen Stellen des Herkunftsmitgliedstaates die erforderlichen Maßnahmen ergreifen; erforderlichenfalls kann sie die Durchführung neuer Geschäfte im Inland untersagen.
 
