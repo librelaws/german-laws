@@ -5,10 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 8.3.1994 I 451, 1307;
 
 Stand  
-zuletzt geändert durch Art. 4 V v. 11.12.2014 I 2010
-
-Hinweis  
-Änderung durch Art. 2 Abs. 2 G v. 15.2.2016 I 198 (Nr. 8) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+zuletzt geändert durch Art. 27 V v. 5.7.2017 I 2272
 
 ### 
 
@@ -154,7 +151,7 @@ bis 50
 
 (1) Wer Maßbehältnisse herstellt, kann die Erteilung eines Herstellerzeichens beantragen.
 
-(2) Der Antrag ist schriftlich bei der Physikalisch-Technischen Bundesanstalt zu stellen.
+(2) Der Antrag ist schriftlich oder elektronisch bei der Physikalisch-Technischen Bundesanstalt zu stellen.
 
 (3) Die Physikalisch-Technische Bundesanstalt kann vom Antragsteller verlangen,
 
@@ -727,7 +724,7 @@ Sechster Abschnitt Ausnahmen, Nachschau, Ordnungswidrigkeiten, Übergangs- und S
 
 ### § 33a Ausnahmen
 
-Die Vorschriften dieser Verordnung gelten nicht für
+(1) Die Vorschriften dieser Verordnung gelten nicht für
 
 1.  
 Fertigpackungen, die zum Verbringen aus dem Geltungsbereich dieser Verordnung oder für die Ausrüstung von Seeschiffen bestimmt sind, ausgenommen Fertigpackungen mit dem EWG-Zeichen der Anlage 9,
@@ -741,9 +738,28 @@ Gratisproben, die als solche gekennzeichnet sind,
 4.  
 geeichte formbeständige Behältnisse.
 
+(2) Diese Verordnung ist nicht anzuwenden, soweit ihr Bestimmungen entgegenstehen aus
+
+1.  
+der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) oder
+
+2.  
+den auf die Verordnung (EU) Nr. 1169/2011 gestützten Rechtsakten der Europäischen Union.
+
+Dabei ist der Vorrang der nach Artikel 42 der Verordnung (EU) Nr. 1169/2011 der Europäischen Kommission mitgeteilten und im Bundesanzeiger durch das Bundesministerium für Wirtschaft und Energie bekannt gemachten nationalen Vorschriften zu beachten.
+
 ### § 34 Nachschau
 
-(1) Die Einhaltung der §§ 22 bis 24, 32 Abs. 1 bis 3 und § 33 Abs. 1 bis 3 ist von der zuständigen Behörde durch Stichproben zu prüfen. Die Prüfung kann bei der Herstellung oder dem Verbringen in den Geltungsbereich dieser Verordnung und in allen Stufen des Handels erfolgen. Für die Prüfung ist das Verfahren zur Prüfung der Füllmengen von Fertigpackungen der Anlagen 4a und 4b anzuwenden. Für die Prüfung von Fertigpackungen ungleicher Nennfüllmenge gelten die Sätze 1 und 2 entsprechend.
+(1) Die Einhaltung folgender Vorschriften ist von den zuständigen Behörden durch Stichproben zu prüfen:
+die Einhaltung
+
+1.  
+der §§ 22 bis 24, des § 32 Absatz 1 bis 3, des § 33 Absatz 1 bis 3 und
+
+2.  
+des Artikels 9 Absatz 1 Buchstabe e in Verbindung mit Artikel 23 Absatz 1 und 3 und in Verbindung mit Anhang IX Nummer 3 Satz 1, Nummer 4 und 5 Satz 1 der Verordnung (EU) Nr. 1169/2011 und des Artikels 9 Absatz 1 Buchstabe h der Verordnung (EU) Nr. 1169/2011.
+
+Die Prüfung kann bei der Herstellung oder dem Verbringen in den Geltungsbereich dieser Verordnung und in allen Stufen des Handels erfolgen. Für die Prüfung ist das Verfahren zur Prüfung der Füllmengen von Fertigpackungen der Anlagen 4a und 4b anzuwenden. Für die Prüfung von Fertigpackungen ungleicher Nennfüllmenge gelten die Sätze 1 und 2 entsprechend.
 
 (2) Die Einhaltung der Vorschriften des § 3 ist von der zuständigen Behörde durch Stichproben in den Betrieben zu prüfen, die Maßbehältnisse herstellen oder in den Geltungsbereich dieser Verordnung verbringen. Für die Prüfung ist das Verfahren zur Prüfung von Maßbehältnissen der Anlage 5 anzuwenden.
 
