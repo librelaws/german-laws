@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 7.4.1987 I 1074, 1319
 
 Stand  
-Zuletzt geändert durch Art. 151 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 1 G v. 21.12.2015 I 2525
 
 ### 
 
@@ -15,7 +15,7 @@ Zuletzt geändert durch Art. 151 V v. 31.8.2015 I 1474
      teilweise nicht mehr anzuwenden +++)
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
      Umsetzung der
-       EWGRL 439/91 (CELEX Nr: 391L0439) vgl. V v. 24.4.1998 I 747 +++)
+       EWGRL 439/91    (CELEX Nr: 391L0439) vgl. V v. 24.4.1998 I 747 +++)  
 (+++ Zur Anwendung d. § 100c vgl. OrgKVerbG Art. 5 +++)
 ```
 
@@ -200,55 +200,57 @@ Beschlagnahme,
 Rasterfahndung, Einsatz technischer
 Mittel, Einsatz Verdeckter Ermittler und Durchsuchung
 
-|        |                                                                                 |
-|--------|---------------------------------------------------------------------------------|
-| § 94   | Sicherstellung und Beschlagnahme von Gegenständen zu Beweiszwecken              |
-| § 95   | Herausgabepflicht                                                               |
-| § 96   | Amtlich verwahrte Schriftstücke                                                 |
-| § 97   | Beschlagnahmeverbot                                                             |
-| § 98   | Verfahren bei der Beschlagnahme                                                 |
-| § 98a  | Rasterfahndung                                                                  |
-| § 98b  | Verfahren bei der Rasterfahndung                                                |
-| § 98c  | Maschineller Abgleich mit vorhandenen Daten                                     |
-| §  99  | Postbeschlagnahme                                                               |
-| § 100  | Verfahren bei der Postbeschlagnahme                                             |
-| § 100a | Telekommunikationsüberwachung                                                   |
-| § 100b | Verfahren bei der Telekommunikationsüberwachung                                 |
-| § 100c | Akustische Wohnraumüberwachung                                                  |
-| § 100d | Verfahren bei der akustischen Wohnraumüberwachung                               |
-| § 100e | Berichtspflicht bei der akustischen Wohnraumüberwachung                         |
-| § 100f | Akustische Überwachung außerhalb von Wohnraum                                   |
-| § 100g | Erhebung von Verkehrsdaten                                                      |
-| § 100h | Weitere Maßnahmen außerhalb von Wohnraum                                        |
-| § 100i | Technische Ermittlungsmaßnahmen bei Mobilfunkendgeräten                         |
-| § 100j | Bestandsdatenauskunft                                                           |
-| § 101  | Verfahrensregelungen bei verdeckten Maßnahmen                                   |
-| § 102  | Durchsuchung bei Beschuldigten                                                  |
-| § 103  | Durchsuchung bei anderen Personen                                               |
-| § 104  | Durchsuchung von Räumen zur Nachtzeit                                           |
-| § 105  | Verfahren bei der Durchsuchung                                                  |
-| § 106  | Hinzuziehung des Inhabers eines Durchsuchungsobjekts                            |
-| § 107  | Durchsuchungsbescheinigung; Beschlagnahmeverzeichnis                            |
-| § 108  | Beschlagnahme anderer Gegenstände                                               |
-| § 109  | Kenntlichmachung beschlagnahmter Gegenstände                                    |
-| § 110  | Durchsicht von Papieren und elektronischen Speichermedien                       |
-| § 110a | Verdeckter Ermittler                                                            |
-| § 110b | Verfahren beim Einsatz eines Verdeckten Ermittlers                              |
-| § 110c | Befugnisse des Verdeckten Ermittlers                                            |
-| § 111  | Errichtung von Kontrollstellen an öffentlich zugänglichen Orten                 |
-| § 111a | Vorläufige Entziehung der Fahrerlaubnis                                         |
-| § 111b | Sicherstellung dem Verfall oder der Einziehung unterliegender Gegenstände       |
-| § 111c | Sicherstellung durch Beschlagnahme                                              |
-| § 111d | Sicherstellung durch dinglichen Arrest                                          |
-| § 111e | Verfahren bei der Beschlagnahme und dem dinglichen Arrest                       |
-| § 111f | Durchführung der Beschlagnahme und Vollziehung des dinglichen Arrestes          |
-| § 111g | Vorrangige Befriedigung von Ansprüchen des Verletzten bei der Beschlagnahme     |
-| § 111h | Vorrangige Befriedigung von Ansprüchen des Verletzten bei dem dinglichen Arrest |
-| § 111i | Aufrechterhaltung der Beschlagnahme für einen befristeten Zeitraum              |
-| § 111k | Herausgabe beweglicher Sachen an den Verletzten                                 |
-| § 111l | Notveräußerung beschlagnahmter oder gepfändeter Vermögenswerte                  |
-| § 111m | Beschlagnahme eines Druckwerks oder einer sonstigen Schrift                     |
-| § 111n | Verfahren bei der Beschlagnahme eines Druckwerks                                |
+|        |                                                                                                                              |
+|--------|------------------------------------------------------------------------------------------------------------------------------|
+| § 94   | Sicherstellung und Beschlagnahme von Gegenständen zu Beweiszwecken                                                           |
+| § 95   | Herausgabepflicht                                                                                                            |
+| § 96   | Amtlich verwahrte Schriftstücke                                                                                              |
+| § 97   | Beschlagnahmeverbot                                                                                                          |
+| § 98   | Verfahren bei der Beschlagnahme                                                                                              |
+| § 98a  | Rasterfahndung                                                                                                               |
+| § 98b  | Verfahren bei der Rasterfahndung                                                                                             |
+| § 98c  | Maschineller Abgleich mit vorhandenen Daten                                                                                  |
+| §  99  | Postbeschlagnahme                                                                                                            |
+| § 100  | Verfahren bei der Postbeschlagnahme                                                                                          |
+| § 100a | Telekommunikationsüberwachung                                                                                                |
+| § 100b | Verfahren bei der Telekommunikationsüberwachung                                                                              |
+| § 100c | Akustische Wohnraumüberwachung                                                                                               |
+| § 100d | Verfahren bei der akustischen Wohnraumüberwachung                                                                            |
+| § 100e | Berichtspflicht bei der akustischen Wohnraumüberwachung                                                                      |
+| § 100f | Akustische Überwachung außerhalb von Wohnraum                                                                                |
+| § 100g | Erhebung von Verkehrsdaten                                                                                                   |
+| § 100h | Weitere Maßnahmen außerhalb von Wohnraum                                                                                     |
+| § 100i | Technische Ermittlungsmaßnahmen bei Mobilfunkendgeräten                                                                      |
+| § 100j | Bestandsdatenauskunft                                                                                                        |
+| § 101  | Verfahrensregelungen bei verdeckten Maßnahmen                                                                                |
+| § 101a | Gerichtliche Entscheidung; Datenkennzeichnung und -auswertung; Benachrichtigungspflichten bei der Erhebung von Verkehrsdaten |
+| § 101b | Statistische Erfassung der Erhebung von Verkehrsdaten                                                                        |
+| § 102  | Durchsuchung bei Beschuldigten                                                                                               |
+| § 103  | Durchsuchung bei anderen Personen                                                                                            |
+| § 104  | Durchsuchung von Räumen zur Nachtzeit                                                                                        |
+| § 105  | Verfahren bei der Durchsuchung                                                                                               |
+| § 106  | Hinzuziehung des Inhabers eines Durchsuchungsobjekts                                                                         |
+| § 107  | Durchsuchungsbescheinigung; Beschlagnahmeverzeichnis                                                                         |
+| § 108  | Beschlagnahme anderer Gegenstände                                                                                            |
+| § 109  | Kenntlichmachung beschlagnahmter Gegenstände                                                                                 |
+| § 110  | Durchsicht von Papieren und elektronischen Speichermedien                                                                    |
+| § 110a | Verdeckter Ermittler                                                                                                         |
+| § 110b | Verfahren beim Einsatz eines Verdeckten Ermittlers                                                                           |
+| § 110c | Befugnisse des Verdeckten Ermittlers                                                                                         |
+| § 111  | Errichtung von Kontrollstellen an öffentlich zugänglichen Orten                                                              |
+| § 111a | Vorläufige Entziehung der Fahrerlaubnis                                                                                      |
+| § 111b | Sicherstellung dem Verfall oder der Einziehung unterliegender Gegenstände                                                    |
+| § 111c | Sicherstellung durch Beschlagnahme                                                                                           |
+| § 111d | Sicherstellung durch dinglichen Arrest                                                                                       |
+| § 111e | Verfahren bei der Beschlagnahme und dem dinglichen Arrest                                                                    |
+| § 111f | Durchführung der Beschlagnahme und Vollziehung des dinglichen Arrestes                                                       |
+| § 111g | Vorrangige Befriedigung von Ansprüchen des Verletzten bei der Beschlagnahme                                                  |
+| § 111h | Vorrangige Befriedigung von Ansprüchen des Verletzten bei dem dinglichen Arrest                                              |
+| § 111i | Aufrechterhaltung der Beschlagnahme für einen befristeten Zeitraum                                                           |
+| § 111k | Herausgabe beweglicher Sachen an den Verletzten                                                                              |
+| § 111l | Notveräußerung beschlagnahmter oder gepfändeter Vermögenswerte                                                               |
+| § 111m | Beschlagnahme eines Druckwerks oder einer sonstigen Schrift                                                                  |
+| § 111n | Verfahren bei der Beschlagnahme eines Druckwerks                                                                             |
 
 Neunter Abschnitt
 
@@ -787,13 +789,17 @@ Vierter Abschnitt
 
 Sonstige Befugnisse des Verletzten
 
-|        |                                                    |
-|--------|----------------------------------------------------|
-| § 406d | Auskunft über den Stand des Verfahrens             |
-| § 406e | Akteneinsicht; Auskunft                            |
-| § 406f | Verletztenbeistand                                 |
-| § 406g | Beistand des nebenklageberechtigten Verletzten     |
-| § 406h | Unterrichtung des Verletzten über seine Befugnisse |
+|        |                                                                                  |
+|--------|----------------------------------------------------------------------------------|
+| § 406d | Auskunft über den Stand des Verfahrens                                           |
+| § 406e | Akteneinsicht; Auskunft                                                          |
+| § 406f | Verletztenbeistand                                                               |
+| § 406g | Psychosoziale Prozessbegleitung                                                  |
+| § 406h | Beistand des nebenklageberechtigten Verletzten                                   |
+| § 406i | Unterrichtung des Verletzten über seine Befugnisse im Strafverfahren             |
+| § 406j | Unterrichtung des Verletzten über seine Befugnisse außerhalb des Strafverfahrens |
+| § 406k | Weitere Informationen                                                            |
+| § 406l | Befugnisse von Angehörigen und Erben von Verletzten                              |
 
 Sechstes Buch
 
@@ -1031,7 +1037,7 @@ Die sachliche Zuständigkeit der Gerichte wird durch das Gesetz über die Gerich
 
 ### § 3 Begriff des Zusammenhanges
 
-Ein Zusammenhang ist vorhanden, wenn eine Person mehrerer Straftaten beschuldigt wird oder wenn bei einer Tat mehrere Personen als Täter, Teilnehmer oder der Begünstigung, Strafvereitelung oder Hehlerei beschuldigt werden.
+Ein Zusammenhang ist vorhanden, wenn eine Person mehrerer Straftaten beschuldigt wird oder wenn bei einer Tat mehrere Personen als Täter, Teilnehmer oder der Datenhehlerei, Begünstigung, Strafvereitelung oder Hehlerei beschuldigt werden.
 
 ### § 4 Verbindung und Trennung rechtshängiger Strafsachen
 
@@ -1374,6 +1380,19 @@ Sechster Abschnitt Zeugen
 
 (2) Die Ladung der Zeugen geschieht unter Hinweis auf verfahrensrechtliche Bestimmungen, die dem Interesse des Zeugen dienen, auf vorhandene Möglichkeiten der Zeugenbetreuung und auf die gesetzlichen Folgen des Ausbleibens.
 
+(3) Ist der Zeuge zugleich der Verletzte, so sind die ihn betreffenden Verhandlungen, Vernehmungen und sonstigen Untersuchungshandlungen stets unter Berücksichtigung seiner besonderen Schutzbedürftigkeit durchzuführen. Insbesondere ist zu prüfen,
+
+1.  
+ob die dringende Gefahr eines schwerwiegenden Nachteils für das Wohl des Zeugen Maßnahmen nach den §§ 168e oder 247a erfordert,
+
+2.  
+ob überwiegende schutzwürdige Interessen des Zeugen den Ausschluss der Öffentlichkeit nach § 171b Absatz 1 des Gerichtsverfassungsgesetzes erfordern und
+
+3.  
+inwieweit auf nicht unerlässliche Fragen zum persönlichen Lebensbereich des Zeugen nach § 68a Absatz 1 verzichtet werden kann.
+
+Dabei sind die persönlichen Verhältnisse des Zeugen sowie Art und Umstände der Straftat zu berücksichtigen.
+
 ### § 49 Vernehmung des Bundespräsidenten
 
 Der Bundespräsident ist in seiner Wohnung zu vernehmen. Zur Hauptverhandlung wird er nicht geladen. Das Protokoll über seine gerichtliche Vernehmung ist in der Hauptverhandlung zu verlesen.
@@ -1430,7 +1449,7 @@ Geistliche über das, was ihnen in ihrer Eigenschaft als Seelsorger anvertraut w
 Verteidiger des Beschuldigten über das, was ihnen in dieser Eigenschaft anvertraut worden oder bekanntgeworden ist;
 
 3.  
-Rechtsanwälte, Patentanwälte, Notare, Wirtschaftsprüfer, vereidigte Buchprüfer, Steuerberater und Steuerbevollmächtigte, Ärzte, Zahnärzte, Psychologische Psychotherapeuten, Kinder- und Jugendlichenpsychotherapeuten, Apotheker und Hebammen über das, was ihnen in dieser Eigenschaft anvertraut worden oder bekanntgeworden ist, Rechtsanwälten stehen dabei sonstige Mitglieder einer Rechtsanwaltskammer gleich;
+Rechtsanwälte und sonstige Mitglieder einer Rechtsanwaltskammer, Patentanwälte, Notare, Wirtschaftsprüfer, vereidigte Buchprüfer, Steuerberater und Steuerbevollmächtigte, Ärzte, Zahnärzte, Psychologische Psychotherapeuten, Kinder- und Jugendlichenpsychotherapeuten, Apotheker und Hebammen über das, was ihnen in dieser Eigenschaft anvertraut worden oder bekanntgeworden ist; für Syndikusrechtsanwälte (§ 46 Absatz 2 der Bundesrechtsanwaltsordnung) und Syndikuspatentanwälte (§ 41a Absatz 2 der Patentanwaltsordnung) gilt dies vorbehaltlich des § 53a nicht hinsichtlich dessen, was ihnen in dieser Eigenschaft anvertraut worden oder bekanntgeworden ist;
 
 3a.  
 Mitglieder oder Beauftragte einer anerkannten Beratungsstelle nach den §§ 3 und 8 des Schwangerschaftskonfliktgesetzes über das, was ihnen in dieser Eigenschaft anvertraut worden oder bekanntgeworden ist;
@@ -1458,8 +1477,6 @@ eine Straftat gegen die sexuelle Selbstbestimmung nach den §§ 174 bis 176, 179
 eine Geldwäsche, eine Verschleierung unrechtmäßig erlangter Vermögenswerte nach § 261 Abs. 1 bis 4 des Strafgesetzbuches
 
 ist und die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes des Beschuldigten auf andere Weise aussichtslos oder wesentlich erschwert wäre. Der Zeuge kann jedoch auch in diesen Fällen die Aussage verweigern, soweit sie zur Offenbarung der Person des Verfassers oder Einsenders von Beiträgen und Unterlagen oder des sonstigen Informanten oder der ihm im Hinblick auf seine Tätigkeit nach Absatz 1 Satz 1 Nr. 5 gemachten Mitteilungen oder deren Inhalts führen würde.
-
-die anerkannten Beratungsstellen nach § 218b Abs. 2 Nr. 1 StGB stehen den anerkannten Beratungsstellen nach § 3 des G über die Aufklärung, Verhütung, Familienplanung und Beratung gleich gem. BVerfGE v. 4.8.1992 I 1585 - 2 BvQ 16/92 u. a. -;
 
 ### § 53a Zeugnisverweigerungsrecht der Berufshelfer
 
@@ -1529,7 +1546,7 @@ Von der Vereidigung ist abzusehen
 bei Personen, die zur Zeit der Vernehmung das 18. Lebensjahr noch nicht vollendet haben oder die wegen mangelnder Verstandesreife oder wegen einer psychischen Krankheit oder einer geistigen oder seelischen Behinderung vom Wesen und der Bedeutung des Eides keine genügende Vorstellung haben;
 
 2.  
-bei Personen, die der Tat, welche den Gegenstand der Untersuchung bildet, oder der Beteiligung an ihr oder der Begünstigung, Strafvereitelung oder Hehlerei verdächtig oder deswegen bereits verurteilt sind.
+bei Personen, die der Tat, welche den Gegenstand der Untersuchung bildet, oder der Beteiligung an ihr oder der Datenhehlerei, Begünstigung, Strafvereitelung oder Hehlerei verdächtig oder deswegen bereits verurteilt sind.
 
 ### § 61 Recht zur Eidesverweigerung
 
@@ -1628,7 +1645,7 @@ Wird der Zeuge, nachdem er eidlich vernommen worden ist, in demselben Vorverfahr
 (1) Zeugen können sich eines anwaltlichen Beistands bedienen. Einem zur Vernehmung des Zeugen erschienenen anwaltlichen Beistand ist die Anwesenheit gestattet. Er kann von der Vernehmung ausgeschlossen werden, wenn bestimmte Tatsachen die Annahme rechtfertigen, dass seine Anwesenheit die geordnete Beweiserhebung nicht nur unwesentlich beeinträchtigen würde. Dies wird in der Regel der Fall sein, wenn aufgrund bestimmter Tatsachen anzunehmen ist, dass
 
 1.  
-der Beistand an der zu untersuchenden Tat oder an einer mit ihr im Zusammenhang stehenden Begünstigung, Strafvereitelung oder Hehlerei beteiligt ist,
+der Beistand an der zu untersuchenden Tat oder an einer mit ihr im Zusammenhang stehenden Datenhehlerei, Begünstigung, Strafvereitelung oder Hehlerei beteiligt ist,
 
 2.  
 das Aussageverhalten des Zeugen dadurch beeinflusst wird, dass der Beistand nicht nur den Interessen des Zeugen verpflichtet erscheint, oder
@@ -1948,7 +1965,7 @@ Aufzeichnungen, welche die in § 53 Abs. 1 Satz 1 Nr. 1 bis 3b Genannten über d
 3.  
 andere Gegenstände einschließlich der ärztlichen Untersuchungsbefunde, auf die sich das Zeugnisverweigerungsrecht der in § 53 Abs. 1 Satz 1 Nr. 1 bis 3b Genannten erstreckt.
 
-(2) Diese Beschränkungen gelten nur, wenn die Gegenstände im Gewahrsam der zur Verweigerung des Zeugnisses Berechtigten sind, es sei denn, es handelt sich um eine elektronische Gesundheitskarte im Sinne des § 291a des Fünften Buches Sozialgesetzbuch. Der Beschlagnahme unterliegen auch nicht Gegenstände, auf die sich das Zeugnisverweigerungsrecht der Ärzte, Zahnärzte, Psychologischen Psychotherapeuten, Kinder- und Jugendlichenpsychotherapeuten, Apotheker und Hebammen erstreckt, wenn sie im Gewahrsam einer Krankenanstalt oder eines Dienstleisters, der für die Genannten personenbezogene Daten erhebt, verarbeitet oder nutzt, sind, sowie Gegenstände, auf die sich das Zeugnisverweigerungsrecht der in § 53 Abs. 1 Satz 1 Nr. 3a und 3b genannten Personen erstreckt, wenn sie im Gewahrsam der in dieser Vorschrift bezeichneten Beratungsstelle sind. Die Beschränkungen der Beschlagnahme gelten nicht, wenn bestimmte Tatsachen den Verdacht begründen, dass die zeugnisverweigerungsberechtigte Person an der Tat oder an einer Begünstigung, Strafvereitelung oder Hehlerei beteiligt ist, oder wenn es sich um Gegenstände handelt, die durch eine Straftat hervorgebracht oder zur Begehung einer Straftat gebraucht oder bestimmt sind oder die aus einer Straftat herrühren.
+(2) Diese Beschränkungen gelten nur, wenn die Gegenstände im Gewahrsam der zur Verweigerung des Zeugnisses Berechtigten sind, es sei denn, es handelt sich um eine elektronische Gesundheitskarte im Sinne des § 291a des Fünften Buches Sozialgesetzbuch. Der Beschlagnahme unterliegen auch nicht Gegenstände, auf die sich das Zeugnisverweigerungsrecht der Ärzte, Zahnärzte, Psychologischen Psychotherapeuten, Kinder- und Jugendlichenpsychotherapeuten, Apotheker und Hebammen erstreckt, wenn sie im Gewahrsam einer Krankenanstalt oder eines Dienstleisters, der für die Genannten personenbezogene Daten erhebt, verarbeitet oder nutzt, sind, sowie Gegenstände, auf die sich das Zeugnisverweigerungsrecht der in § 53 Abs. 1 Satz 1 Nr. 3a und 3b genannten Personen erstreckt, wenn sie im Gewahrsam der in dieser Vorschrift bezeichneten Beratungsstelle sind. Die Beschränkungen der Beschlagnahme gelten nicht, wenn bestimmte Tatsachen den Verdacht begründen, dass die zeugnisverweigerungsberechtigte Person an der Tat oder an einer Datenhehlerei, Begünstigung, Strafvereitelung oder Hehlerei beteiligt ist, oder wenn es sich um Gegenstände handelt, die durch eine Straftat hervorgebracht oder zur Begehung einer Straftat gebraucht oder bestimmt sind oder die aus einer Straftat herrühren.
 
 (3) Die Absätze 1 und 2 sind entsprechend anzuwenden, soweit die Hilfspersonen (§ 53a) der in § 53 Abs. 1 Satz 1 Nr. 1 bis 3b Genannten das Zeugnis verweigern dürfen.
 
@@ -2085,7 +2102,7 @@ l)
 gewerbsmäßige Hehlerei, Bandenhehlerei und gewerbsmäßige Bandenhehlerei nach den §§ 260 und 260a,
 
 m)  
-Geldwäsche und Verschleierung unrechtmäßig erlangter Vermögenswerte nach § 261 Abs. 1, 2 und 4,
+Geldwäsche und Verschleierung unrechtmäßig erlangter Vermögenswerte nach § 261 Abs. 1, 2 und 4; beruht die Strafbarkeit darauf, dass die Straflosigkeit nach § 261 Absatz 9 Satz 2 gemäß § 261 Absatz 9 Satz 3 ausgeschlossen ist, jedoch nur dann, wenn der Gegenstand aus einer der in den Nummern 1 bis 11 genannten schweren Straftaten herrührt,
 
 n)  
 Betrug und Computerbetrug unter den in § 263 Abs. 3 Satz 2 genannten Voraussetzungen und im Falle des § 263 Abs. 5, jeweils auch in Verbindung mit § 263a Abs. 2,
@@ -2121,11 +2138,11 @@ c)
 Steuerhehlerei im Falle des § 374 Abs. 2,
 
 3.  
-aus dem Arzneimittelgesetz:
-Straftaten nach § 95 Abs. 1 Nr. 2a unter den in § 95 Abs. 3 Satz 2 Nr. 2 Buchstabe b genannten Voraussetzungen,
+aus dem Anti-Doping-Gesetz:
+Straftaten nach § 4 Absatz 4 Nummer 2 Buchstabe b,
 
 4.  
-aus dem Asylverfahrensgesetz:
+aus dem Asylgesetz:
 
 a)  
 Verleitung zur missbräuchlichen Asylantragstellung nach § 84 Abs. 3,
@@ -2291,13 +2308,13 @@ k)
 gewerbsmäßige Hehlerei, Bandenhehlerei und gewerbsmäßige Bandenhehlerei nach den §§ 260, 260a,
 
 l)  
-besonders schwerer Fall der Geldwäsche, Verschleierung unrechtmäßig erlangter Vermögenswerte nach § 261 unter den in § 261 Abs. 4 Satz 2 genannten Voraussetzungen,
+besonders schwerer Fall der Geldwäsche, Verschleierung unrechtmäßig erlangter Vermögenswerte nach § 261 unter den in § 261 Abs. 4 Satz 2 genannten Voraussetzungen, beruht die Strafbarkeit darauf, dass die Straflosigkeit nach § 261 Absatz 9 Satz 2 gemäß § 261 Absatz 9 Satz 3 ausgeschlossen ist, jedoch nur dann, wenn der Gegenstand aus einer der in den Nummern 1 bis 7 genannten besonders schweren Straftaten herrührt,
 
 m)  
 besonders schwerer Fall der Bestechlichkeit und Bestechung nach § 335 Abs. 1 unter den in § 335 Abs. 2 Nr. 1 bis 3 genannten Voraussetzungen,
 
 2.  
-aus dem Asylverfahrensgesetz:
+aus dem Asylgesetz:
 
 a)  
 Verleitung zur missbräuchlichen Asylantragstellung nach § 84 Abs. 3,
@@ -2473,36 +2490,112 @@ die Kosten der Maßnahme, differenziert nach Kosten für Übersetzungsdienste un
 (1) Begründen bestimmte Tatsachen den Verdacht, dass jemand als Täter oder Teilnehmer
 
 1.  
-eine Straftat von auch im Einzelfall erheblicher Bedeutung, insbesondere eine in § 100a Abs. 2 bezeichnete Straftat, begangen hat, in Fällen, in denen der Versuch strafbar ist, zu begehen versucht hat oder durch eine Straftat vorbereitet hat oder
+eine Straftat von auch im Einzelfall erheblicher Bedeutung, insbesondere eine in § 100a Absatz 2 bezeichnete Straftat, begangen hat, in Fällen, in denen der Versuch strafbar ist, zu begehen versucht hat oder durch eine Straftat vorbereitet hat oder
 
 2.  
 eine Straftat mittels Telekommunikation begangen hat,
 
-so dürfen auch ohne Wissen des Betroffenen Verkehrsdaten (§ 96 Abs. 1, § 113a des Telekommunikationsgesetzes) erhoben werden, soweit dies für die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes des Beschuldigten erforderlich ist. Im Falle des Satzes 1 Nr. 2 ist die Maßnahme nur zulässig, wenn die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes des Beschuldigten auf andere Weise aussichtslos wäre und die Erhebung der Daten in einem angemessenen Verhältnis zur Bedeutung der Sache steht. Die Erhebung von Standortdaten in Echtzeit ist nur im Falle des Satzes 1 Nr. 1 zulässig.
+so dürfen Verkehrsdaten (§ 96 Absatz 1 des Telekommunikationsgesetzes) erhoben werden, soweit dies für die Erforschung des Sachverhalts erforderlich ist und die Erhebung der Daten in einem angemessenen Verhältnis zur Bedeutung der Sache steht. Im Fall des Satzes 1 Nummer 2 ist die Maßnahme nur zulässig, wenn die Erforschung des Sachverhalts auf andere Weise aussichtslos wäre. Die Erhebung von Standortdaten ist nach diesem Absatz nur für künftig anfallende Verkehrsdaten oder in Echtzeit und nur im Fall des Satzes 1 Nummer 1 zulässig, soweit sie für die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes des Beschuldigten erforderlich ist.
 
-(2) § 100a Abs. 3 und § 100b Abs. 1 bis 4 Satz 1 gelten entsprechend. Abweichend von § 100b Abs. 2 Satz 2 Nr. 2 genügt im Falle einer Straftat von erheblicher Bedeutung eine räumlich und zeitlich hinreichend bestimmte Bezeichnung der Telekommunikation, wenn die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes des Beschuldigten auf andere Weise aussichtslos oder wesentlich erschwert wäre.
-
-(3) Erfolgt die Erhebung von Verkehrsdaten nicht beim Telekommunikationsdiensteanbieter, bestimmt sie sich nach Abschluss des Kommunikationsvorgangs nach den allgemeinen Vorschriften.
-
-(4) Über Maßnahmen nach Absatz 1 ist entsprechend § 100b Abs. 5 jährlich eine Übersicht zu erstellen, in der anzugeben sind:
+(2) Begründen bestimmte Tatsachen den Verdacht, dass jemand als Täter oder Teilnehmer eine der in Satz 2 bezeichneten besonders schweren Straftaten begangen hat oder in Fällen, in denen der Versuch strafbar ist, eine solche Straftat zu begehen versucht hat, und wiegt die Tat auch im Einzelfall besonders schwer, dürfen die nach § 113b des Telekommunikationsgesetzes gespeicherten Verkehrsdaten erhoben werden, soweit die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes des Beschuldigten auf andere Weise wesentlich erschwert oder aussichtslos wäre und die Erhebung der Daten in einem angemessenen Verhältnis zur Bedeutung der Sache steht. Besonders schwere Straftaten im Sinne des Satzes 1 sind:
 
 1.  
-die Anzahl der Verfahren, in denen Maßnahmen nach Absatz 1 durchgeführt worden sind;
+aus dem Strafgesetzbuch:
+
+a)  
+Straftaten des Friedensverrats, des Hochverrats und der Gefährdung des demokratischen Rechtsstaates sowie des Landesverrats und der Gefährdung der äußeren Sicherheit nach den §§ 80, 81, 82, 89a, nach den §§ 94, 95 Absatz 3 und § 96 Absatz 1, jeweils auch in Verbindung mit § 97b, sowie nach den §§ 97a, 98 Absatz 1 Satz 2, § 99 Absatz 2 und den §§ 100, 100a Absatz 4,
+
+b)  
+besonders schwerer Fall des Landfriedensbruchs nach § 125a, Bildung krimineller Vereinigungen nach § 129 Absatz 1 in Verbindung mit Absatz 4 Halbsatz 2 und Bildung terroristischer Vereinigungen nach § 129a Absatz 1, 2, 4, 5 Satz 1 Alternative 1, jeweils auch in Verbindung mit § 129b Absatz 1,
+
+c)  
+Straftaten gegen die sexuelle Selbstbestimmung in den Fällen der §§ 176a, 176b, 177 Absatz 2 Satz 2 Nummer 2 und des § 179 Absatz 5 Nummer 2,
+
+d)  
+Verbreitung, Erwerb und Besitz kinder- und jugendpornographischer Schriften in den Fällen des § 184b Absatz 2, § 184c Absatz 2,
+
+e)  
+Mord und Totschlag nach den §§ 211 und 212,
+
+f)  
+Straftaten gegen die persönliche Freiheit in den Fällen der §§ 234, 234a Absatz 1, 2, §§ 239a, 239b und Menschenhandel zum Zweck der sexuellen Ausbeutung und zum Zweck der Ausbeutung der Arbeitskraft nach § 232 Absatz 3, 4 oder 5, § 233 Absatz 3, jeweils soweit es sich um Verbrechen handelt,
+
+g)  
+schwerer Bandendiebstahl nach § 244a Absatz 1, schwerer Raub nach § 250 Absatz 1 oder Absatz 2, Raub mit Todesfolge nach § 251, räuberische Erpressung nach § 255 und besonders schwerer Fall einer Erpressung nach § 253 unter den in § 253 Absatz 4 Satz 2 genannten Voraussetzungen, gewerbsmäßige Bandenhehlerei nach § 260a Absatz 1, besonders schwerer Fall der Geldwäsche und der Verschleierung unrechtmäßig erlangter Vermögenswerte nach § 261 unter den in § 261 Absatz 4 Satz 2 genannten Voraussetzungen,
+
+h)  
+gemeingefährliche Straftaten in den Fällen der §§ 306 bis 306c, 307 Absatz 1 bis 3, des § 308 Absatz 1 bis 3, des § 309 Absatz 1 bis 4, des § 310 Absatz 1, der §§ 313, 314, 315 Absatz 3, des § 315b Absatz 3 sowie der §§ 316a und 316c,
 
 2.  
-die Anzahl der Anordnungen von Maßnahmen nach Absatz 1, unterschieden nach Erst- und Verlängerungsanordnungen;
+aus dem Aufenthaltsgesetz:
+
+a)  
+Einschleusen von Ausländern nach § 96 Absatz 2,
+
+b)  
+Einschleusen mit Todesfolge oder gewerbs- und bandenmäßiges Einschleusen nach § 97,
 
 3.  
-die jeweils zugrunde liegende Anlassstraftat, unterschieden nach Absatz 1 Satz 1 Nr. 1 und 2;
+aus dem Außenwirtschaftsgesetz:Straftaten nach § 17 Absatz 1 bis 3 und § 18 Absatz 7 und 8,
 
 4.  
-die Anzahl der zurückliegenden Monate, für die Verkehrsdaten nach Absatz 1 abgefragt wurden, bemessen ab dem Zeitpunkt der Anordnung;
+aus dem Betäubungsmittelgesetz:
+
+a)  
+besonders schwerer Fall einer Straftat nach § 29 Absatz 1 Satz 1 Nummer 1, 5, 6, 10, 11 oder 13, Absatz 3 unter der in § 29 Absatz 3 Satz 2 Nummer 1 genannten Voraussetzung,
+
+b)  
+eine Straftat nach den §§ 29a, 30 Absatz 1 Nummer 1, 2, 4, § 30a,
 
 5.  
-die Anzahl der Maßnahmen, die ergebnislos geblieben sind, weil die abgefragten Daten ganz oder teilweise nicht verfügbar waren.
+aus dem Grundstoffüberwachungsgesetz:eine Straftat nach § 19 Absatz 1 unter den in § 19 Absatz 3 Satz 2 genannten Voraussetzungen,
 
-(+++ § 100g Abs. 4: Zur erstmaligen Anwendung für das Berichtsjahr 2008 vgl. § 12 Abs. 1 Satz 1 StPOEG +++)
-§ 100g Abs. 1 Satz 1: Soweit danach Verkehrsdaten nach § 113a des Telekommunikationsgesetzes erhoben werden dürfen gem. Entscheidungsformel mit GG unvereinbar und nichtig gem. BVerfGE v. 10.3.2010 I 272 - 1 BvR 256/08, 1 BvR 263/08, 1 BvR 586/08 -
+6.  
+aus dem Gesetz über die Kontrolle von Kriegswaffen:
+
+a)  
+eine Straftat nach § 19 Absatz 2 oder § 20 Absatz 1, jeweils auch in Verbindung mit § 21,
+
+b)  
+besonders schwerer Fall einer Straftat nach § 22a Absatz 1 in Verbindung mit Absatz 2,
+
+7.  
+aus dem Völkerstrafgesetzbuch:
+
+a)  
+Völkermord nach § 6,
+
+b)  
+Verbrechen gegen die Menschlichkeit nach § 7,
+
+c)  
+Kriegsverbrechen nach den §§ 8 bis 12,
+
+8.  
+aus dem Waffengesetz:
+
+a)  
+besonders schwerer Fall einer Straftat nach § 51 Absatz 1 in Verbindung mit Absatz 2,
+
+b)  
+besonders schwerer Fall einer Straftat nach § 52 Absatz 1 Nummer 1 in Verbindung mit Absatz 5.
+
+(3) Die Erhebung aller in einer Funkzelle angefallenen Verkehrsdaten (Funkzellenabfrage) ist nur zulässig,
+
+1.  
+wenn die Voraussetzungen des Absatzes 1 Satz 1 Nummer 1 erfüllt sind,
+
+2.  
+soweit die Erhebung der Daten in einem angemessenen Verhältnis zur Bedeutung der Sache steht und
+
+3.  
+soweit die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes des Beschuldigten auf andere Weise aussichtslos oder wesentlich erschwert wäre.
+
+Auf nach § 113b des Telekommunikationsgesetzes gespeicherte Verkehrsdaten darf für eine Funkzellenabfrage nur unter den Voraussetzungen des Absatzes 2 zurückgegriffen werden.
+
+(4) Die Erhebung von Verkehrsdaten nach Absatz 2, auch in Verbindung mit Absatz 3 Satz 2, die sich gegen eine der in § 53 Absatz 1 Satz 1 Nummer 1 bis 5 genannten Personen richtet und die voraussichtlich Erkenntnisse erbringen würde, über die diese das Zeugnis verweigern dürfte, ist unzulässig. Dennoch erlangte Erkenntnisse dürfen nicht verwendet werden. Aufzeichnungen hierüber sind unverzüglich zu löschen. Die Tatsache ihrer Erlangung und der Löschung der Aufzeichnungen ist aktenkundig zu machen. Die Sätze 2 bis 4 gelten entsprechend, wenn durch eine Ermittlungsmaßnahme, die sich nicht gegen eine in § 53 Absatz 1 Satz 1 Nummer 1 bis 5 genannte Person richtet, von dieser Person Erkenntnisse erlangt werden, über die sie das Zeugnis verweigern dürfte. § 160a Absatz 3 und 4 gilt entsprechend.
+
+(5) Erfolgt die Erhebung von Verkehrsdaten nicht beim Erbringer öffentlich zugänglicher Telekommunikationsdienste, bestimmt sie sich nach Abschluss des Kommunikationsvorgangs nach den allgemeinen Vorschriften.
 
 ### § 100h Weitere Maßnahmen außerhalb von Wohnraum
 
@@ -2546,7 +2639,7 @@ ermittelt werden, soweit dies für die Erforschung des Sachverhalts oder die Erm
 
 (1) Soweit dies für die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes eines Beschuldigten erforderlich ist, darf von demjenigen, der geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über die nach den §§ 95 und 111 des Telekommunikationsgesetzes erhobenen Daten verlangt werden (§ 113 Absatz 1 Satz 1 des Telekommunikationsgesetzes). Bezieht sich das Auskunftsverlangen nach Satz 1 auf Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 113 Absatz 1 Satz 2 des Telekommunikationsgesetzes), darf die Auskunft nur verlangt werden, wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen.
 
-(2) Die Auskunft nach Absatz 1 darf auch anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt werden (§ 113 Absatz 1 Satz 3 des Telekommunikationsgesetzes).
+(2) Die Auskunft nach Absatz 1 darf auch anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt werden (§ 113 Absatz 1 Satz 3, § 113c Absatz 1 Nummer 3 des Telekommunikationsgesetzes).
 
 (3) Auskunftsverlangen nach Absatz 1 Satz 2 dürfen nur auf Antrag der Staatsanwaltschaft durch das Gericht angeordnet werden. Bei Gefahr im Verzug kann die Anordnung auch durch die Staatsanwaltschaft oder ihre Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) getroffen werden. In diesem Fall ist die gerichtliche Entscheidung unverzüglich nachzuholen. Die Sätze 1 bis 3 finden keine Anwendung, wenn der Betroffene vom Auskunftsverlangen bereits Kenntnis hat oder haben muss oder wenn die Nutzung der Daten bereits durch eine gerichtliche Entscheidung gestattet wird. Das Vorliegen der Voraussetzungen nach Satz 4 ist aktenkundig zu machen.
 
@@ -2556,7 +2649,7 @@ ermittelt werden, soweit dies für die Erforschung des Sachverhalts oder die Erm
 
 ### § 101 Verfahrensregelungen bei verdeckten Maßnahmen
 
-(1) Für Maßnahmen nach den §§ 98a, 99, 100a, 100c bis 100i, 110a, 163d bis 163f gelten, soweit nichts anderes bestimmt ist, die nachstehenden Regelungen.
+(1) Für Maßnahmen nach den §§ 98a, 99, 100a, 100c bis 100f, 100h, 100i, 110a, 163d bis 163f gelten, soweit nichts anderes bestimmt ist, die nachstehenden Regelungen.
 
 (2) Entscheidungen und sonstige Unterlagen über Maßnahmen nach den §§ 100c, 100f, 100h Abs. 1 Nr. 2 und § 110a werden bei der Staatsanwaltschaft verwahrt. Zu den Akten sind sie erst zu nehmen, wenn die Voraussetzungen für eine Benachrichtigung nach Absatz 5 erfüllt sind.
 
@@ -2589,15 +2682,12 @@ Personen, die die überwachte Wohnung zur Zeit der Durchführung der Maßnahme i
 des § 100f die Zielperson sowie die erheblich mitbetroffenen Personen,
 
 6.  
-des § 100g die Beteiligten der betroffenen Telekommunikation,
-
-7.  
 des § 100h Abs. 1 die Zielperson sowie die erheblich mitbetroffenen Personen,
 
-8.  
+7.  
 des § 100i die Zielperson,
 
-9.  
+8.  
 des § 110a
 
 a)  
@@ -2609,16 +2699,16 @@ die erheblich mitbetroffenen Personen,
 c)  
 die Personen, deren nicht allgemein zugängliche Wohnung der Verdeckte Ermittler betreten hat,
 
-10.  
+9.  
 des § 163d die betroffenen Personen, gegen die nach Auswertung der Daten weitere Ermittlungen geführt wurden,
 
-11.  
+10.  
 des § 163e die Zielperson und die Person, deren personenbezogene Daten gemeldet worden sind,
 
-12.  
+11.  
 des § 163f die Zielperson sowie die erheblich mitbetroffenen Personen
 
-zu benachrichtigen. Dabei ist auf die Möglichkeit nachträglichen Rechtsschutzes nach Absatz 7 und die dafür vorgesehene Frist hinzuweisen. Die Benachrichtigung unterbleibt, wenn ihr überwiegende schutzwürdige Belange einer betroffenen Person entgegenstehen. Zudem kann die Benachrichtigung einer in Satz 1 Nr. 2, 3 und 6 bezeichneten Person, gegen die sich die Maßnahme nicht gerichtet hat, unterbleiben, wenn diese von der Maßnahme nur unerheblich betroffen wurde und anzunehmen ist, dass sie kein Interesse an einer Benachrichtigung hat. Nachforschungen zur Feststellung der Identität einer in Satz 1 bezeichneten Person sind nur vorzunehmen, wenn dies unter Berücksichtigung der Eingriffsintensität der Maßnahme gegenüber dieser Person, des Aufwands für die Feststellung ihrer Identität sowie der daraus für diese oder andere Personen folgenden Beeinträchtigungen geboten ist.
+zu benachrichtigen. Dabei ist auf die Möglichkeit nachträglichen Rechtsschutzes nach Absatz 7 und die dafür vorgesehene Frist hinzuweisen. Die Benachrichtigung unterbleibt, wenn ihr überwiegende schutzwürdige Belange einer betroffenen Person entgegenstehen. Zudem kann die Benachrichtigung einer in Satz 1 Nummer 2 und 3 bezeichneten Person, gegen die sich die Maßnahme nicht gerichtet hat, unterbleiben, wenn diese von der Maßnahme nur unerheblich betroffen wurde und anzunehmen ist, dass sie kein Interesse an einer Benachrichtigung hat. Nachforschungen zur Feststellung der Identität einer in Satz 1 bezeichneten Person sind nur vorzunehmen, wenn dies unter Berücksichtigung der Eingriffsintensität der Maßnahme gegenüber dieser Person, des Aufwands für die Feststellung ihrer Identität sowie der daraus für diese oder andere Personen folgenden Beeinträchtigungen geboten ist.
 
 (5) Die Benachrichtigung erfolgt, sobald dies ohne Gefährdung des Untersuchungszwecks, des Lebens, der körperlichen Unversehrtheit und der persönlichen Freiheit einer Person und von bedeutenden Vermögenswerten, im Fall des § 110a auch der Möglichkeit der weiteren Verwendung des Verdeckten Ermittlers möglich ist. Wird die Benachrichtigung nach Satz 1 zurückgestellt, sind die Gründe aktenkundig zu machen.
 
@@ -2628,9 +2718,79 @@ zu benachrichtigen. Dabei ist auf die Möglichkeit nachträglichen Rechtsschutze
 
 (8) Sind die durch die Maßnahme erlangten personenbezogenen Daten zur Strafverfolgung und für eine etwaige gerichtliche Überprüfung der Maßnahme nicht mehr erforderlich, so sind sie unverzüglich zu löschen. Die Löschung ist aktenkundig zu machen. Soweit die Löschung lediglich für eine etwaige gerichtliche Überprüfung der Maßnahme zurückgestellt ist, dürfen die Daten ohne Einwilligung der Betroffenen nur zu diesem Zweck verwendet werden; sie sind entsprechend zu sperren.
 
+### § 101a Gerichtliche Entscheidung; Datenkennzeichnung und -auswertung; Benachrichtigungspflichten bei der Erhebung von Verkehrsdaten
+
+(1) Bei Erhebungen von Verkehrsdaten nach § 100g gelten § 100a Absatz 3 und § 100b Absatz 1 bis 4 entsprechend mit der Maßgabe, dass
+
+1.  
+in der Entscheidungsformel nach § 100b Absatz 2 Satz 2 auch die zu übermittelnden Daten und der Zeitraum, für den sie übermittelt werden sollen, eindeutig anzugeben sind,
+
+2.  
+der nach § 100b Absatz 3 Satz 1 zur Auskunft Verpflichtete auch mitzuteilen hat, welche der von ihm übermittelten Daten nach § 113b des Telekommunikationsgesetzes gespeichert wurden.
+
+In den Fällen des § 100g Absatz 2, auch in Verbindung mit § 100g Absatz 3 Satz 2, findet abweichend von Satz 1 § 100b Absatz 1 Satz 2 und 3 keine Anwendung. Bei Funkzellenabfragen nach § 100g Absatz 3 genügt abweichend von § 100b Absatz 2 Satz 2 Nummer 2 eine räumlich und zeitlich eng begrenzte und hinreichend bestimmte Bezeichnung der Telekommunikation.
+
+(2) Wird eine Maßnahme nach § 100g angeordnet oder verlängert, sind in der Begründung einzelfallbezogen insbesondere die wesentlichen Erwägungen zur Erforderlichkeit und Angemessenheit der Maßnahme, auch hinsichtlich des Umfangs der zu erhebenden Daten und des Zeitraums, für den sie erhoben werden sollen, darzulegen.
+
+(3) Personenbezogene Daten, die durch Maßnahmen nach § 100g erhoben wurden, sind entsprechend zu kennzeichnen und unverzüglich auszuwerten. Bei der Kennzeichnung ist erkennbar zu machen, ob es sich um Daten handelt, die nach § 113b des Telekommunikationsgesetzes gespeichert waren. Nach einer Übermittlung an eine andere Stelle ist die Kennzeichnung durch diese aufrechtzuerhalten. Für die Löschung personenbezogener Daten gilt § 101 Absatz 8 entsprechend.
+
+(4) Verwertbare personenbezogene Daten, die durch Maßnahmen nach § 100g Absatz 2, auch in Verbindung mit § 100g Absatz 3 Satz 2, erhoben wurden, dürfen ohne Einwilligung der Beteiligten der betroffenen Telekommunikation nur für folgende andere Zwecke und nur nach folgenden Maßgaben verwendet werden:
+
+1.  
+in anderen Strafverfahren zur Aufklärung einer Straftat, auf Grund derer eine Maßnahme nach § 100g Absatz 2, auch in Verbindung mit § 100g Absatz 3 Satz 2, angeordnet werden könnte, oder zur Ermittlung des Aufenthalts der einer solchen Straftat beschuldigten Person,
+
+2.  
+Übermittlung zu Zwecken der Abwehr von konkreten Gefahren für Leib, Leben oder Freiheit einer Person oder für den Bestand des Bundes oder eines Landes (§ 113c Absatz 1 Nummer 2 des Telekommunikationsgesetzes).
+
+Die Stelle, die die Daten weiterleitet, macht die Weiterleitung und deren Zweck aktenkundig. Sind die Daten nach Satz 1 Nummer 2 nicht mehr zur Abwehr der Gefahr oder nicht mehr für eine vorgerichtliche oder gerichtliche Überprüfung der zur Gefahrenabwehr getroffenen Maßnahmen erforderlich, so sind Aufzeichnungen über diese Daten von der für die Gefahrenabwehr zuständigen Stelle unverzüglich zu löschen. Die Löschung ist aktenkundig zu machen. Soweit die Löschung lediglich für eine etwaige vorgerichtliche oder gerichtliche Überprüfung zurückgestellt ist, dürfen die Daten nur für diesen Zweck verwendet werden; für eine Verwendung zu anderen Zwecken sind sie zu sperren.
+
+(5) Sind verwertbare personenbezogene Daten, die nach § 113b des Telekommunikationsgesetzes gespeichert waren, durch eine entsprechende polizeirechtliche Maßnahme erlangt worden, dürfen sie in einem Strafverfahren ohne Einwilligung der Beteiligten der betroffenen Telekommunikation nur zur Aufklärung einer Straftat, auf Grund derer eine Maßnahme nach § 100g Absatz 2, auch in Verbindung mit Absatz 3 Satz 2, angeordnet werden könnte, oder zur Ermittlung des Aufenthalts der einer solchen Straftat beschuldigten Person verwendet werden.
+
+(6) Die Beteiligten der betroffenen Telekommunikation sind von der Erhebung der Verkehrsdaten nach § 100g zu benachrichtigen. § 101 Absatz 4 Satz 2 bis 5 und Absatz 5 bis 7 gilt entsprechend mit der Maßgabe, dass
+
+1.  
+das Unterbleiben der Benachrichtigung nach § 101 Absatz 4 Satz 3 der Anordnung des zuständigen Gerichts bedarf;
+
+2.  
+abweichend von § 101 Absatz 6 Satz 1 die Zurückstellung der Benachrichtigung nach § 101 Absatz 5 Satz 1 stets der Anordnung des zuständigen Gerichts bedarf und eine erstmalige Zurückstellung auf höchstens zwölf Monate zu befristen ist.
+
+### § 101b Statistische Erfassung der Erhebung von Verkehrsdaten
+
+Über Maßnahmen nach § 100g ist entsprechend § 100b Absatz 5 jährlich eine Übersicht zu erstellen, in der anzugeben sind
+
+1.  
+unterschieden nach Maßnahmen nach § 100g Absatz 1, 2 und 3
+
+a)  
+die Anzahl der Verfahren, in denen diese Maßnahmen durchgeführt wurden;
+
+b)  
+die Anzahl der Erstanordnungen, mit denen diese Maßnahmen angeordnet wurden;
+
+c)  
+die Anzahl der Verlängerungsanordnungen, mit denen diese Maßnahmen angeordnet wurden;
+
+2.  
+unterschieden für die Bereiche Festnetz-, Mobilfunk- und Internetdienste und jeweils untergliedert nach der Anzahl der zurückliegenden Wochen, für die die Erhebung von Verkehrsdaten angeordnet wurde, jeweils bemessen ab dem Zeitpunkt der Anordnung
+
+a)  
+die Anzahl der Anordnungen nach § 100g Absatz 1;
+
+b)  
+die Anzahl der Anordnungen nach § 100g Absatz 2;
+
+c)  
+die Anzahl der Anordnungen nach § 100g Absatz 3;
+
+d)  
+die Anzahl der Anordnungen, die teilweise ergebnislos geblieben sind, weil die abgefragten Daten teilweise nicht verfügbar waren;
+
+e)  
+die Anzahl der Anordnungen, die ergebnislos geblieben sind, weil keine Daten verfügbar waren.
+
 ### § 102 Durchsuchung bei Beschuldigten
 
-Bei dem, welcher als Täter oder Teilnehmer einer Straftat oder der Begünstigung, Strafvereitelung oder Hehlerei verdächtig ist, kann eine Durchsuchung der Wohnung und anderer Räume sowie seiner Person und der ihm gehörenden Sachen sowohl zum Zweck seiner Ergreifung als auch dann vorgenommen werden, wenn zu vermuten ist, daß die Durchsuchung zur Auffindung von Beweismitteln führen werde.
+Bei dem, welcher als Täter oder Teilnehmer einer Straftat oder der Datenhehlerei, Begünstigung, Strafvereitelung oder Hehlerei verdächtig ist, kann eine Durchsuchung der Wohnung und anderer Räume sowie seiner Person und der ihm gehörenden Sachen sowohl zum Zweck seiner Ergreifung als auch dann vorgenommen werden, wenn zu vermuten ist, daß die Durchsuchung zur Auffindung von Beweismitteln führen werde.
 
 ### § 103 Durchsuchung bei anderen Personen
 
@@ -3566,7 +3726,7 @@ an der Tat, die den Gegenstand der Untersuchung bildet, beteiligt ist,
 den Verkehr mit dem nicht auf freiem Fuß befindlichen Beschuldigten dazu mißbraucht, Straftaten zu begehen oder die Sicherheit einer Vollzugsanstalt erheblich zu gefährden, oder
 
 3.  
-eine Handlung begangen hat, die für den Fall der Verurteilung des Beschuldigten Begünstigung, Strafvereitelung oder Hehlerei wäre.
+eine Handlung begangen hat, die für den Fall der Verurteilung des Beschuldigten Datenhehlerei, Begünstigung, Strafvereitelung oder Hehlerei wäre.
 
 (2) Von der Mitwirkung in einem Verfahren, das eine Straftat nach § 129a, auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches zum Gegenstand hat, ist ein Verteidiger auch auszuschließen, wenn bestimmte Tatsachen den Verdacht begründen, daß er eine der in Absatz 1 Nr. 1 und 2 bezeichneten Handlungen begangen hat oder begeht.
 
@@ -3652,7 +3812,7 @@ ein Sicherungsverfahren durchgeführt wird;
 der bisherige Verteidiger durch eine Entscheidung von der Mitwirkung in dem Verfahren ausgeschlossen ist;
 
 9.  
-dem Verletzten nach den §§ 397a und 406g Absatz 3 und 4 ein Rechtsanwalt beigeordnet worden ist.
+dem Verletzten nach den §§ 397a und 406h Absatz 3 und 4 ein Rechtsanwalt beigeordnet worden ist.
 
 (2) In anderen Fällen bestellt der Vorsitzende auf Antrag oder von Amts wegen einen Verteidiger, wenn wegen der Schwere der Tat oder wegen der Schwierigkeit der Sach- oder Rechtslage die Mitwirkung eines Verteidigers geboten erscheint oder wenn ersichtlich ist, daß sich der Beschuldigte nicht selbst verteidigen kann. Dem Antrag eines hör- oder sprachbehinderten Beschuldigten ist zu entsprechen.
 
@@ -3975,7 +4135,7 @@ Zweiter Abschnitt Vorbereitung der öffentlichen Klage
 
 ### § 158 Strafanzeige; Strafantrag
 
-(1) Die Anzeige einer Straftat und der Strafantrag können bei der Staatsanwaltschaft, den Behörden und Beamten des Polizeidienstes und den Amtsgerichten mündlich oder schriftlich angebracht werden. Die mündliche Anzeige ist zu beurkunden.
+(1) Die Anzeige einer Straftat und der Strafantrag können bei der Staatsanwaltschaft, den Behörden und Beamten des Polizeidienstes und den Amtsgerichten mündlich oder schriftlich angebracht werden. Die mündliche Anzeige ist zu beurkunden. Dem Verletzten ist auf Antrag der Eingang seiner Anzeige schriftlich zu bestätigen. Die Bestätigung soll eine kurze Zusammenfassung der Angaben des Verletzten zu Tatzeit, Tatort und angezeigter Tat enthalten. Die Bestätigung kann versagt werden, soweit der Untersuchungszweck, auch in einem anderen Strafverfahren, gefährdet erscheint.
 
 (2) Bei Straftaten, deren Verfolgung nur auf Antrag eintritt, muß der Antrag bei einem Gericht oder der Staatsanwaltschaft schriftlich oder zu Protokoll, bei einer anderen Behörde schriftlich angebracht werden.
 
@@ -3986,6 +4146,8 @@ die Tat und die für ihre Verfolgung wesentlichen Umstände der zuständigen aus
 
 2.  
 der Unrechtsgehalt der Tat gering ist und der verletzten Person die Anzeige im Ausland möglich gewesen wäre.
+
+(4) Ist der Verletzte der deutschen Sprache nicht mächtig, erhält er die notwendige Hilfe bei der Verständigung, um die Anzeige in einer ihm verständlichen Sprache anzubringen. Die schriftliche Anzeigebestätigung nach Absatz 1 Satz 3 und 4 ist dem Verletzten in diesen Fällen auf Antrag in eine ihm verständliche Sprache zu übersetzen; Absatz 1 Satz 5 bleibt unberührt.
 
 ### § 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod
 
@@ -4011,9 +4173,9 @@ der Unrechtsgehalt der Tat gering ist und der verletzten Person die Anzeige im A
 
 (3) Die Absätze 1 und 2 sind entsprechend anzuwenden, soweit die in § 53a Genannten das Zeugnis verweigern dürften.
 
-(4) Die Absätze 1 bis 3 sind nicht anzuwenden, wenn bestimmte Tatsachen den Verdacht begründen, dass die zeugnisverweigerungsberechtigte Person an der Tat oder an einer Begünstigung, Strafvereitelung oder Hehlerei beteiligt ist. Ist die Tat nur auf Antrag oder nur mit Ermächtigung verfolgbar, ist Satz 1 in den Fällen des § 53 Abs. 1 Satz 1 Nr. 5 anzuwenden, sobald und soweit der Strafantrag gestellt oder die Ermächtigung erteilt ist.
+(4) Die Absätze 1 bis 3 sind nicht anzuwenden, wenn bestimmte Tatsachen den Verdacht begründen, dass die zeugnisverweigerungsberechtigte Person an der Tat oder an einer Datenhehlerei, Begünstigung, Strafvereitelung oder Hehlerei beteiligt ist. Ist die Tat nur auf Antrag oder nur mit Ermächtigung verfolgbar, ist Satz 1 in den Fällen des § 53 Abs. 1 Satz 1 Nr. 5 anzuwenden, sobald und soweit der Strafantrag gestellt oder die Ermächtigung erteilt ist.
 
-(5) Die §§ 97 und 100c Abs. 6 bleiben unberührt.
+(5) Die §§ 97, 100c Absatz 6 und § 100g Absatz 4 bleiben unberührt.
 
 ### § 160b Erörterung des Verfahrensstands mit den Verfahrensbeteiligten
 
@@ -4037,6 +4199,8 @@ Die Staatsanwaltschaft kann den Stand des Verfahrens mit den Verfahrensbeteiligt
 
 (4) Ersucht eine Staatsanwaltschaft eine andere Staatsanwaltschaft um die Vernehmung eines Zeugen oder Sachverständigen, so stehen die Befugnisse nach Absatz 2 Satz 1 auch der ersuchten Staatsanwaltschaft zu.
 
+(5) § 185 Absatz 1 und 2 des Gerichtsverfassungsgesetzes gilt entsprechend.
+
 ### § 162 Ermittlungsrichter
 
 (1) Erachtet die Staatsanwaltschaft die Vornahme einer gerichtlichen Untersuchungshandlung für erforderlich, so stellt sie ihre Anträge vor Erhebung der öffentlichen Klage bei dem Amtsgericht, in dessen Bezirk sie oder ihre den Antrag stellende Zweigstelle ihren Sitz hat. Hält sie daneben den Erlass eines Haft- oder Unterbringungsbefehls für erforderlich, so kann sie, unbeschadet der §§ 125, 126a, auch einen solchen Antrag bei dem in Satz 1 bezeichneten Gericht stellen. Für gerichtliche Vernehmungen und Augenscheinnahmen ist das Amtsgericht zuständig, in dessen Bezirk diese Untersuchungshandlungen vorzunehmen sind, wenn die Staatsanwaltschaft dies zur Beschleunigung des Verfahrens oder zur Vermeidung von Belastungen Betroffener dort beantragt.
@@ -4051,7 +4215,7 @@ Die Staatsanwaltschaft kann den Stand des Verfahrens mit den Verfahrensbeteiligt
 
 (2) Die Behörden und Beamten des Polizeidienstes übersenden ihre Verhandlungen ohne Verzug der Staatsanwaltschaft. Erscheint die schleunige Vornahme richterlicher Untersuchungshandlungen erforderlich, so kann die Übersendung unmittelbar an das Amtsgericht erfolgen.
 
-(3) Bei der Vernehmung eines Zeugen durch Beamte des Polizeidienstes sind § 52 Absatz 3, § 55 Absatz 2, § 57 Satz 1 und die §§ 58, 58a, 58b, 68 bis 69 entsprechend anzuwenden. Über eine Gestattung nach § 68 Absatz 3 Satz 1 und über die Beiordnung eines Zeugenbeistands entscheidet die Staatsanwaltschaft; im Übrigen trifft die erforderlichen Entscheidungen die die Vernehmung leitende Person. Bei Entscheidungen durch Beamte des Polizeidienstes nach § 68b Absatz 1 Satz 3 gilt § 161a Absatz 3 Satz 2 bis 4 entsprechend. Für die Belehrung des Sachverständigen durch Beamte des Polizeidienstes gelten § 52 Absatz 3 und § 55 Absatz 2 entsprechend. In den Fällen des § 81c Absatz 3 Satz 1 und 2 gilt § 52 Absatz 3 auch bei Untersuchungen durch Beamte des Polizeidienstes sinngemäß.
+(3) Bei der Vernehmung eines Zeugen durch Beamte des Polizeidienstes sind § 48 Absatz 3, § 52 Absatz 3, § 55 Absatz 2, § 57 Satz 1 und die §§ 58, 58a, 58b, 68 bis 69 entsprechend anzuwenden. Über eine Gestattung nach § 68 Absatz 3 Satz 1 und über die Beiordnung eines Zeugenbeistands entscheidet die Staatsanwaltschaft; im Übrigen trifft die erforderlichen Entscheidungen die die Vernehmung leitende Person. Bei Entscheidungen durch Beamte des Polizeidienstes nach § 68b Absatz 1 Satz 3 gilt § 161a Absatz 3 Satz 2 bis 4 entsprechend. Für die Belehrung des Sachverständigen durch Beamte des Polizeidienstes gelten § 52 Absatz 3 und § 55 Absatz 2 entsprechend. In den Fällen des § 81c Absatz 3 Satz 1 und 2 gilt § 52 Absatz 3 auch bei Untersuchungen durch Beamte des Polizeidienstes sinngemäß. § 185 Absatz 1 und 2 des Gerichtsverfassungsgesetzes gilt entsprechend.
 
 ### § 163a Vernehmung des Beschuldigten
 
@@ -4208,7 +4372,7 @@ Erwägt die Staatsanwaltschaft, die öffentliche Klage zu erheben, so vermerkt s
 
 ### § 171 Einstellungsbescheid
 
-Gibt die Staatsanwaltschaft einem Antrag auf Erhebung der öffentlichen Klage keine Folge oder verfügt sie nach dem Abschluß der Ermittlungen die Einstellung des Verfahrens, so hat sie den Antragsteller unter Angabe der Gründe zu bescheiden. In dem Bescheid ist der Antragsteller, der zugleich der Verletzte ist, über die Möglichkeit der Anfechtung und die dafür vorgesehene Frist (§ 172 Abs. 1) zu belehren.
+Gibt die Staatsanwaltschaft einem Antrag auf Erhebung der öffentlichen Klage keine Folge oder verfügt sie nach dem Abschluß der Ermittlungen die Einstellung des Verfahrens, so hat sie den Antragsteller unter Angabe der Gründe zu bescheiden. In dem Bescheid ist der Antragsteller, der zugleich der Verletzte ist, über die Möglichkeit der Anfechtung und die dafür vorgesehene Frist (§ 172 Abs. 1) zu belehren. § 187 Absatz 1 Satz 1 und Absatz 2 des Gerichtsverfassungsgesetzes gilt entsprechend für Verletzte, die nach § 395 der Strafprozessordnung berechtigt wären, sich der öffentlichen Klage mit der Nebenklage anzuschließen, soweit sie einen Antrag auf Übersetzung stellen.
 
 ### § 172 Beschwerde des Verletzten; Klageerzwingungsverfahren
 
@@ -4391,7 +4555,7 @@ Der Termin zur Hauptverhandlung wird von dem Vorsitzenden des Gerichts anberaumt
 
 ### § 214 Ladungen durch den Vorsitzenden; Herbeischaffung der Beweismittel
 
-(1) Die zur Hauptverhandlung erforderlichen Ladungen ordnet der Vorsitzende an. Zugleich veranlasst er die nach § 397 Absatz 2 Satz 3 und § 406g Absatz 1 Satz 4, Absatz 2 Satz 2 erforderlichen Benachrichtigungen vom Termin; § 406d Absatz 3 gilt entsprechend. Die Geschäftsstelle sorgt dafür, dass die Ladungen bewirkt und die Mitteilungen versandt werden.
+(1) Die zur Hauptverhandlung erforderlichen Ladungen ordnet der Vorsitzende an. Zugleich veranlasst er die nach § 397 Absatz 2 Satz 3, § 406d Absatz 1 und § 406h Absatz 2 Satz 2 erforderlichen Benachrichtigungen vom Termin; § 406d Absatz 4 gilt entsprechend. Die Geschäftsstelle sorgt dafür, dass die Ladungen bewirkt und die Mitteilungen versandt werden.
 
 (2) Ist anzunehmen, daß sich die Hauptverhandlung auf längere Zeit erstreckt, so soll der Vorsitzende die Ladung sämtlicher oder einzelner Zeugen und Sachverständigen zu einem späteren Zeitpunkt als dem Beginn der Hauptverhandlung anordnen.
 
@@ -5149,7 +5313,7 @@ Zweiter Abschnitt Beschwerde
 (4) Gegen Beschlüsse und Verfügungen des Bundesgerichtshofes ist keine Beschwerde zulässig. Dasselbe gilt für Beschlüsse und Verfügungen der Oberlandesgerichte; in Sachen, in denen die Oberlandesgerichte im ersten Rechtszug zuständig sind, ist jedoch die Beschwerde zulässig gegen Beschlüsse und Verfügungen, welche
 
 1.  
-die Verhaftung, einstweilige Unterbringung, Unterbringung zur Beobachtung, Beschlagnahme, Durchsuchung oder die in § 101 Abs. 1 bezeichneten Maßnahmen betreffen,
+die Verhaftung, einstweilige Unterbringung, Unterbringung zur Beobachtung, Beschlagnahme, Durchsuchung oder die in § 101 Abs. 1 oder § 101a Absatz 1 bezeichneten Maßnahmen betreffen,
 
 2.  
 die Eröffnung des Hauptverfahrens ablehnen oder das Verfahren wegen eines Verfahrenshindernisses einstellen,
@@ -5995,12 +6159,14 @@ die durch einen Antrag auf gerichtliche Entscheidung (§ 172) die Erhebung der �
 
 (2) Der Nebenkläger kann sich des Beistands eines Rechtsanwalts bedienen oder sich durch einen solchen vertreten lassen. Der Rechtsanwalt ist zur Anwesenheit in der Hauptverhandlung berechtigt. Er ist vom Termin der Hauptverhandlung zu benachrichtigen, wenn seine Wahl dem Gericht angezeigt oder er als Beistand bestellt wurde.
 
+(3) Ist der Nebenkläger der deutschen Sprache nicht mächtig, erhält er auf Antrag nach Maßgabe des § 187 Absatz 2 des Gerichtsverfassungsgesetzes eine Übersetzung schriftlicher Unterlagen, soweit dies zur Ausübung seiner strafprozessualen Rechte erforderlich ist.
+
 ### § 397a Bestellung eines Beistands; Prozesskostenhilfe
 
 (1) Dem Nebenkläger ist auf seinen Antrag ein Rechtsanwalt als Beistand zu bestellen, wenn er
 
 1.  
-durch ein Verbrechen nach den §§ 176a, 177, 179, 232 und 233 des Strafgesetzbuches verletzt ist,
+durch ein Verbrechen nach den §§ 177, 179, 232 und 233 des Strafgesetzbuches verletzt ist,
 
 2.  
 durch eine versuchte rechtswidrige Tat nach den §§ 211 und 212 des Strafgesetzbuches verletzt oder Angehöriger eines durch eine rechtswidrige Tat Getöteten im Sinne des § 395 Absatz 2 Nummer 1 ist,
@@ -6114,7 +6280,18 @@ Vierter Abschnitt Sonstige Befugnisse des Verletzten
 
 ### § 406d Auskunft über den Stand des Verfahrens
 
-(1) Dem Verletzten sind auf Antrag die Einstellung des Verfahrens und der Ausgang des gerichtlichen Verfahrens mitzuteilen, soweit es ihn betrifft.
+(1) Dem Verletzten ist, soweit es ihn betrifft, auf Antrag mitzuteilen:
+
+1.  
+die Einstellung des Verfahrens,
+
+2.  
+der Ort und Zeitpunkt der Hauptverhandlung sowie die gegen den Angeklagten erhobenen Beschuldigungen,
+
+3.  
+der Ausgang des gerichtlichen Verfahrens.
+
+Ist der Verletzte der deutschen Sprache nicht mächtig, so werden ihm auf Antrag Ort und Zeitpunkt der Hauptverhandlung in einer ihm verständlichen Sprache mitgeteilt.
 
 (2) Dem Verletzten ist auf Antrag mitzuteilen, ob
 
@@ -6125,9 +6302,16 @@ dem Verurteilten die Weisung erteilt worden ist, zu dem Verletzten keinen Kontak
 freiheitsentziehende Maßnahmen gegen den Beschuldigten oder den Verurteilten angeordnet oder beendet oder ob erstmalig Vollzugslockerungen oder Urlaub gewährt werden, wenn er ein berechtigtes Interesse darlegt und kein überwiegendes schutzwürdiges Interesse des Betroffenen am Ausschluss der Mitteilung vorliegt; in den in § 395 Absatz 1 Nummer 1 bis 5 genannten Fällen sowie in den Fällen des § 395 Absatz 3, in denen der Verletzte zur Nebenklage zugelassen wurde, bedarf es der Darlegung eines berechtigten Interesses nicht;
 
 3.  
+der Beschuldigte oder Verurteilte sich einer freiheitsentziehenden Maßnahme durch Flucht entzogen hat und welche Maßnahmen zum Schutz des Verletzten deswegen gegebenenfalls getroffen worden sind;
+
+4.  
 dem Verurteilten erneut Vollzugslockerung oder Urlaub gewährt wird, wenn dafür ein berechtigtes Interesse dargelegt oder ersichtlich ist und kein überwiegendes schutzwürdiges Interesse des Verurteilten am Ausschluss der Mitteilung vorliegt.
 
-(3) Mitteilungen können unterbleiben, sofern sie nicht unter einer Anschrift möglich sind, die der Verletzte angegeben hat. Hat der Verletzte einen Rechtsanwalt als Beistand gewählt, ist ihm ein solcher beigeordnet worden oder wird er durch einen solchen vertreten, so gilt § 145a entsprechend.
+Die Mitteilung erfolgt durch die Stelle, welche die Entscheidung gegenüber dem Beschuldigten oder Verurteilten getroffen hat; in den Fällen des Satzes 1 Nummer 3 erfolgt die Mitteilung durch die zuständige Staatsanwaltschaft.
+
+(3) Der Verletzte ist über die Informationsrechte aus Absatz 2 Satz 1 nach der Urteilsverkündung oder Einstellung des Verfahrens zu belehren. Über die Informationsrechte aus Absatz 2 Satz 1 Nummer 2 und 3 ist der Verletzte zudem bei Anzeigeerstattung zu belehren, wenn die Anordnung von Untersuchungshaft gegen den Beschuldigten zu erwarten ist.
+
+(4) Mitteilungen können unterbleiben, sofern sie nicht unter einer Anschrift möglich sind, die der Verletzte angegeben hat. Hat der Verletzte einen Rechtsanwalt als Beistand gewählt, ist ihm ein solcher beigeordnet worden oder wird er durch einen solchen vertreten, so gilt § 145a entsprechend.
 
 ### § 406e Akteneinsicht; Auskunft
 
@@ -6149,9 +6333,21 @@ dem Verurteilten erneut Vollzugslockerung oder Urlaub gewährt wird, wenn dafür
 
 (2) Bei einer Vernehmung von Verletzten ist auf deren Antrag einer zur Vernehmung erschienenen Person ihres Vertrauens die Anwesenheit zu gestatten, es sei denn, dass dies den Untersuchungszweck gefährden könnte. Die Entscheidung trifft die die Vernehmung leitende Person; die Entscheidung ist nicht anfechtbar. Die Gründe einer Ablehnung sind aktenkundig zu machen.
 
-### § 406g Beistand des nebenklageberechtigten Verletzten
+### § 406g Psychosoziale Prozessbegleitung
 
-(1) Nach § 395 zum Anschluss mit der Nebenklage Befugte können sich auch vor Erhebung der öffentlichen Klage und ohne Erklärung eines Anschlusses eines Rechtsanwalts als Beistand bedienen oder sich durch einen solchen vertreten lassen. Sie sind zur Anwesenheit in der Hauptverhandlung berechtigt, auch wenn sie als Zeugen vernommen werden sollen. Ist zweifelhaft, ob eine Person nebenklagebefugt ist, entscheidet über das Anwesenheitsrecht das Gericht nach Anhörung der Person und der Staatsanwaltschaft; die Entscheidung ist unanfechtbar. Nebenklagebefugte sind vom Termin der Hauptverhandlung zu benachrichtigen, wenn sie dies beantragt haben.
+*(1) Verletzte können sich des Beistands eines psychosozialen Prozessbegleiters bedienen. Dem psychosozialen Prozessbegleiter ist es gestattet, bei Vernehmungen des Verletzten und während der Hauptverhandlung gemeinsam mit dem Verletzten anwesend zu sein.*
+
+*(2) Die Grundsätze der psychosozialen Prozessbegleitung sowie die Anforderungen an die Qualifikation und die Vergütung des psychosozialen Prozessbegleiters richten sich nach dem Gesetz über die psychosoziale Prozessbegleitung im Strafverfahren vom 21. Dezember 2015 (BGBl. I S. 2525, 2529) in der jeweils geltenden Fassung.*
+
+*(3) Unter den in § 397a Absatz 1 Nummer 4 und 5 bezeichneten Voraussetzungen ist dem Verletzten auf seinen Antrag ein psychosozialer Prozessbegleiter beizuordnen. Unter den in § 397a Absatz 1 Nummer 1 bis 3 bezeichneten Voraussetzungen kann dem Verletzten auf seinen Antrag ein psychosozialer Prozessbegleiter beigeordnet werden, wenn die besondere Schutzbedürftigkeit des Verletzten dies erfordert. Die Beiordnung ist für den Verletzten kostenfrei. Für die Beiordnung gilt § 142 Absatz 1 entsprechend. Im Vorverfahren entscheidet das nach § 162 zuständige Gericht.*
+
+*(4) Einem nicht beigeordneten psychosozialen Prozessbegleiter kann die Anwesenheit bei einer Vernehmung des Verletzten untersagt werden, wenn dies den Untersuchungszweck gefährden könnte. Die Entscheidung trifft die die Vernehmung leitende Person; die Entscheidung ist nicht anfechtbar. Die Gründe einer Ablehnung sind aktenkundig zu machen.*
+
+§ 406g Kursivdruck: Eingef. durch Art. 1 Nr. 12 G v. 21.12.2015 I 2525 mWv 1.1.2017
+
+### § 406h Beistand des nebenklageberechtigten Verletzten
+
+(1) Nach § 395 zum Anschluss mit der Nebenklage Befugte können sich auch vor Erhebung der öffentlichen Klage und ohne Erklärung eines Anschlusses eines Rechtsanwalts als Beistand bedienen oder sich durch einen solchen vertreten lassen. Sie sind zur Anwesenheit in der Hauptverhandlung berechtigt, auch wenn sie als Zeugen vernommen werden sollen. Ist zweifelhaft, ob eine Person nebenklagebefugt ist, entscheidet über das Anwesenheitsrecht das Gericht nach Anhörung der Person und der Staatsanwaltschaft; die Entscheidung ist unanfechtbar.
 
 (2) Der Rechtsanwalt des Nebenklagebefugten ist zur Anwesenheit in der Hauptverhandlung berechtigt; Absatz 1 Satz 3 gilt entsprechend. Er ist vom Termin der Hauptverhandlung zu benachrichtigen, wenn seine Wahl dem Gericht angezeigt oder er als Beistand bestellt wurde. Die Sätze 1 und 2 gelten bei richterlichen Vernehmungen und der Einnahme richterlichen Augenscheins entsprechend, es sei denn, dass die Anwesenheit oder die Benachrichtigung des Rechtsanwalts den Untersuchungszweck gefährden könnte.
 
@@ -6178,26 +6374,78 @@ die Bewilligung von Prozeßkostenhilfe möglich erscheint, eine rechtzeitige Ent
 
 Für die Bestellung gelten § 142 Abs. 1 und § 162 entsprechend. Die Bestellung endet, wenn nicht innerhalb einer vom Richter zu bestimmenden Frist ein Antrag auf Bewilligung von Prozeßkostenhilfe gestellt oder wenn die Bewilligung von Prozeßkostenhilfe abgelehnt wird.
 
-### § 406h Unterrichtung des Verletzten über seine Befugnisse
+### § 406i Unterrichtung des Verletzten über seine Befugnisse im Strafverfahren
 
-Verletzte sind möglichst frühzeitig, regelmäßig schriftlich und soweit möglich in einer für sie verständlichen Sprache auf ihre aus den §§ 406d bis 406g folgenden Befugnisse und insbesondere auch darauf hinzuweisen, dass sie
+(1) Verletzte sind möglichst frühzeitig, regelmäßig schriftlich und soweit möglich in einer für sie verständlichen Sprache über ihre aus den §§ 406d bis 406h folgenden Befugnisse im Strafverfahren zu unterrichten und insbesondere auch auf Folgendes hinzuweisen:
 
 1.  
-sich unter den Voraussetzungen der §§ 395 und 396 dieses Gesetzes oder des § 80 Absatz 3 des Jugendgerichtsgesetzes der erhobenen öffentlichen Klage mit der Nebenklage anschließen und dabei nach § 397a beantragen können, dass ihnen ein anwaltlicher Beistand bestellt oder für dessen Hinzuziehung Prozesskostenhilfe bewilligt wird,
+sie können nach Maßgabe des § 158 eine Straftat zur Anzeige bringen oder einen Strafantrag stellen;
 
 2.  
-nach Maßgabe der §§ 403 bis 406c dieses Gesetzes und des § 81 des Jugendgerichtsgesetzes einen aus der Straftat erwachsenen vermögensrechtlichen Anspruch im Strafverfahren geltend machen können,
+sie können sich unter den Voraussetzungen der §§ 395 und 396 oder des § 80 Absatz 3 des Jugendgerichtsgesetzes der erhobenen öffentlichen Klage mit der Nebenklage anschließen und dabei
+
+a)  
+nach § 397a beantragen, dass ihnen ein anwaltlicher Beistand bestellt oder für dessen Hinzuziehung Prozesskostenhilfe bewilligt wird,
+
+b)  
+nach Maßgabe des § 397 Absatz 3 und der §§ 185 und 187 des Gerichtsverfassungsgesetzes einen Anspruch auf Dolmetschung und Übersetzung im Strafverfahren geltend machen;
 
 3.  
-nach Maßgabe des Opferentschädigungsgesetzes einen Versorgungsanspruch geltend machen können,
+sie können einen aus der Straftat erwachsenen vermögensrechtlichen Anspruch nach Maßgabe der §§ 403 bis 406c und des § 81 des Jugendgerichtsgesetzes im Strafverfahren geltend machen;
 
 4.  
-nach Maßgabe des Gewaltschutzgesetzes den Erlass von Anordnungen gegen den Beschuldigten beantragen können sowie
+sie können, soweit sie als Zeugen von der Staatsanwaltschaft oder dem Gericht vernommen werden, einen Anspruch auf Entschädigung nach Maßgabe des Justizvergütungs- und -entschädigungsgesetzes geltend machen;
 
 5.  
-Unterstützung und Hilfe durch Opferhilfeeinrichtungen erhalten können, etwa in Form einer Beratung oder einer psychosozialen Prozessbegleitung.
+sie können nach Maßgabe des § 155a eine Wiedergutmachung im Wege eines Täter-Opfer-Ausgleichs erreichen.
 
-Liegen die Voraussetzungen einer bestimmten Befugnis im Einzelfall offensichtlich nicht vor, kann der betreffende Hinweis unterbleiben. Gegenüber Verletzten, die keine zustellungsfähige Anschrift angegeben haben, besteht keine Hinweispflicht. Die Sätze 1 und 3 gelten auch für Angehörige und Erben von Verletzten, soweit ihnen die entsprechenden Befugnisse zustehen.
+(2) Liegen Anhaltspunkte für eine besondere Schutzbedürftigkeit des Verletzten vor, soll der Verletzte im weiteren Verfahren an geeigneter Stelle auf die Vorschriften hingewiesen werden, die seinem Schutze dienen, insbesondere auf § 68a Absatz 1, die §§ 247 und 247a sowie die §§ 171b und 172 Nummer 1a des Gerichtsverfassungsgesetzes.
+
+(3) Minderjährige Verletzte und ihre Vertreter sollten darüber hinaus im weiteren Verfahren an geeigneter Stelle auf die Vorschriften hingewiesen werden, die ihrem Schutze dienen, insbesondere auf die §§ 58a und 255a Absatz 2, wenn die Anwendung dieser Vorschriften in Betracht kommt, sowie auf § 241a.
+
+### § 406j Unterrichtung des Verletzten über seine Befugnisse außerhalb des Strafverfahrens
+
+Verletzte sind möglichst frühzeitig, regelmäßig schriftlich und soweit möglich in einer für sie verständlichen Sprache über folgende Befugnisse zu unterrichten, die sie außerhalb des Strafverfahrens haben:
+
+1.  
+sie können einen aus der Straftat erwachsenen vermögensrechtlichen Anspruch, soweit er nicht nach Maßgabe der §§ 403 bis 406c und des § 81 des Jugendgerichtsgesetzes im Strafverfahren geltend gemacht wird, auf dem Zivilrechtsweg geltend machen und dabei beantragen, dass ihnen für die Hinzuziehung eines anwaltlichen Beistands Prozesskostenhilfe bewilligt wird;
+
+2.  
+sie können nach Maßgabe des Gewaltschutzgesetzes den Erlass von Anordnungen gegen den Beschuldigten beantragen;
+
+3.  
+sie können nach Maßgabe des Opferentschädigungsgesetzes einen Versorgungsanspruch geltend machen;
+
+4.  
+sie können nach Maßgabe von Verwaltungsvorschriften des Bundes oder der Länder gegebenenfalls Entschädigungsansprüche geltend machen;
+
+5.  
+sie können Unterstützung und Hilfe durch Opferhilfeeinrichtungen erhalten, etwa
+
+a)  
+in Form einer Beratung,
+
+b)  
+durch Bereitstellung oder Vermittlung einer Unterkunft in einer Schutzeinrichtung oder
+
+c)  
+durch Vermittlung von therapeutischen Angeboten wie medizinischer oder psychologischer Hilfe oder weiteren verfügbaren Unterstützungsangeboten im psychosozialen Bereich.
+
+### § 406k Weitere Informationen
+
+(1) Die Informationen nach den §§ 406i und 406j sollen jeweils Angaben dazu enthalten,
+
+1.  
+an welche Stellen sich die Verletzten wenden können, um die beschriebenen Möglichkeiten wahrzunehmen, und
+
+2.  
+wer die beschriebenen Angebote gegebenenfalls erbringt.
+
+(2) Liegen die Voraussetzungen einer bestimmten Befugnis im Einzelfall offensichtlich nicht vor, kann die betreffende Unterrichtung unterbleiben. Gegenüber Verletzten, die keine zustellungsfähige Anschrift angegeben haben, besteht keine schriftliche Hinweispflicht.
+
+### § 406l Befugnisse von Angehörigen und Erben von Verletzten
+
+§ 406i Absatz 1 sowie die §§ 406j und 406k gelten auch für Angehörige und Erben von Verletzten, soweit ihnen die entsprechenden Befugnisse zustehen.
 
 Sechstes Buch Besondere Arten des Verfahrens
 --------------------------------------------
@@ -6951,7 +7199,7 @@ die Gebühren und Auslagen eines Rechtsanwalts, soweit sie nach § 91 Abs. 2 der
 
 ### § 464b Kostenfestsetzung
 
-Die Höhe der Kosten und Auslagen, die ein Beteiligter einem anderen Beteiligten zu erstatten hat, wird auf Antrag eines Beteiligten durch das Gericht des ersten Rechtszuges festgesetzt. Auf Antrag ist auszusprechen, dass die festgesetzten Kosten und Auslagen von der Anbringung des Festsetzungsantrags an zu verzinsen sind. Auf die Höhe des Zinssatzes, das Verfahren und auf die Vollstreckung der Entscheidung sind die Vorschriften der Zivilprozessordnung entsprechend anzuwenden.
+Die Höhe der Kosten und Auslagen, die ein Beteiligter einem anderen Beteiligten zu erstatten hat, wird auf Antrag eines Beteiligten durch das Gericht des ersten Rechtszuges festgesetzt. Auf Antrag ist auszusprechen, dass die festgesetzten Kosten und Auslagen von der Anbringung des Festsetzungsantrags an zu verzinsen sind. Auf die Höhe des Zinssatzes, das Verfahren und auf die Vollstreckung der Entscheidung sind die Vorschriften der Zivilprozessordnung entsprechend anzuwenden. Zur Bezeichnung des Nebenklägers kann im Kostenfestsetzungsbeschluss die Angabe der vollständigen Anschrift unterbleiben.
 
 ### § 464c Kosten bei Bestellung eines Dolmetschers oder Übersetzers für den Angeschuldigten
 
@@ -7044,7 +7292,7 @@ Widerklage erhoben worden ist.
 
 (2) Stellt das Gericht das Verfahren nach einer Vorschrift, die dies nach seinem Ermessen zuläßt, ein, so kann es die in Absatz 1 genannten notwendigen Auslagen ganz oder teilweise dem Angeschuldigten auferlegen, soweit dies aus besonderen Gründen der Billigkeit entspricht. Stellt das Gericht das Verfahren nach vorangegangener vorläufiger Einstellung (§ 153a) endgültig ein, gilt Absatz 1 entsprechend.
 
-(3) Die Absätze 1 und 2 gelten entsprechend für die notwendigen Auslagen, die einem zum Anschluß als Nebenkläger Berechtigten in Wahrnehmung seiner Befugnisse nach § 406g erwachsen sind. Gleiches gilt für die notwendigen Auslagen eines Privatklägers, wenn die Staatsanwaltschaft nach § 377 Abs. 2 die Verfolgung übernommen hat.
+(3) Die Absätze 1 und 2 gelten entsprechend für die notwendigen Auslagen, die einem zum Anschluß als Nebenkläger Berechtigten in Wahrnehmung seiner Befugnisse nach § 406h erwachsen sind. Gleiches gilt für die notwendigen Auslagen eines Privatklägers, wenn die Staatsanwaltschaft nach § 377 Abs. 2 die Verfolgung übernommen hat.
 
 (4) § 471 Abs. 4 Satz 2 gilt entsprechend.
 
@@ -7064,7 +7312,7 @@ Widerklage erhoben worden ist.
 
 ### § 473 Kosten bei zurückgenommenem oder erfolglosem Rechtsmittel; Kosten der Wiedereinsetzung
 
-(1) Die Kosten eines zurückgenommenen oder erfolglos eingelegten Rechtsmittels treffen den, der es eingelegt hat. Hat der Beschuldigte das Rechtsmittel erfolglos eingelegt oder zurückgenommen, so sind ihm die dadurch dem Nebenkläger oder dem zum Anschluß als Nebenkläger Berechtigten in Wahrnehmung seiner Befugnisse nach § 406g erwachsenen notwendigen Auslagen aufzuerlegen. Hat im Falle des Satzes 1 allein der Nebenkläger ein Rechtsmittel eingelegt oder durchgeführt, so sind ihm die dadurch erwachsenen notwendigen Auslagen des Beschuldigten aufzuerlegen. Für die Kosten des Rechtsmittels und die notwendigen Auslagen der Beteiligten gilt § 472a Abs. 2 entsprechend, wenn eine zulässig erhobene sofortige Beschwerde nach § 406a Abs. 1 Satz 1 durch eine den Rechtszug abschließende Entscheidung unzulässig geworden ist.
+(1) Die Kosten eines zurückgenommenen oder erfolglos eingelegten Rechtsmittels treffen den, der es eingelegt hat. Hat der Beschuldigte das Rechtsmittel erfolglos eingelegt oder zurückgenommen, so sind ihm die dadurch dem Nebenkläger oder dem zum Anschluß als Nebenkläger Berechtigten in Wahrnehmung seiner Befugnisse nach § 406h erwachsenen notwendigen Auslagen aufzuerlegen. Hat im Falle des Satzes 1 allein der Nebenkläger ein Rechtsmittel eingelegt oder durchgeführt, so sind ihm die dadurch erwachsenen notwendigen Auslagen des Beschuldigten aufzuerlegen. Für die Kosten des Rechtsmittels und die notwendigen Auslagen der Beteiligten gilt § 472a Abs. 2 entsprechend, wenn eine zulässig erhobene sofortige Beschwerde nach § 406a Abs. 1 Satz 1 durch eine den Rechtszug abschließende Entscheidung unzulässig geworden ist.
 
 (2) Hat im Falle des Absatzes 1 die Staatsanwaltschaft das Rechtsmittel zuungunsten des Beschuldigten oder eines Nebenbeteiligten (§ 431 Abs. 1 Satz 1, §§ 442, 444 Abs. 1 Satz 1) eingelegt, so sind die ihm erwachsenen notwendigen Auslagen der Staatskasse aufzuerlegen. Dasselbe gilt, wenn das von der Staatsanwaltschaft zugunsten des Beschuldigten oder eines Nebenbeteiligten eingelegte Rechtsmittel Erfolg hat.
 
@@ -7179,7 +7427,7 @@ für die Zwecke, für die eine Übermittlung nach § 18 des Bundesverfassungssch
 3.  
 nach Maßgabe des § 476.
 
-§ 100d Abs. 5, § 100i Abs. 2 Satz 2 und § 108 Abs. 2 und 3 bleiben unberührt.
+§ 100d Abs. 5, § 100i Abs. 2 Satz 2, § 101a Absatz 4 und 5 und § 108 Abs. 2 und 3 bleiben unberührt.
 
 (3) In Verfahren, in denen
 
@@ -7429,7 +7677,7 @@ einzutragen. Die Daten dürfen nur für Strafverfahren gespeichert und veränder
 
 (3) Die Staatsanwaltschaften teilen die einzutragenden Daten der Registerbehörde zu dem in Absatz 2 Satz 2 genannten Zweck mit. Auskünfte aus dem Verfahrensregister dürfen nur Strafverfolgungsbehörden für Zwecke eines Strafverfahrens erteilt werden. § 5 Abs. 5 Satz 1 Nr. 2 des Waffengesetzes und § 8a Absatz 5 Satz 1 Nummer 2 des Sprengstoffgesetzes bleiben unberührt; die Auskunft über die Eintragung wird insoweit im Einvernehmen mit der Staatsanwaltschaft, die die personenbezogenen Daten zur Eintragung in das Verfahrensregister mitgeteilt hat, erteilt, wenn hiervon eine Gefährdung des Untersuchungszwecks nicht zu besorgen ist.
 
-(4) Die in Absatz 2 Satz 1 Nr. 1 und 2 genannten Daten dürfen nach Maßgabe des § 18 Abs. 3 des Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 10 Abs. 2 des Gesetzes über den Militärischen Abschirmdienst und § 8 Abs. 3 des Gesetzes über den Bundesnachrichtendienst, auf Ersuchen auch an die Verfassungsschutzbehörden des Bundes und der Länder, das Amt für den Militärischen Abschirmdienst und den Bundesnachrichtendienst übermittelt werden. § 18 Abs. 5 Satz 2 des Bundesverfassungsschutzgesetzes gilt entsprechend.
+(4) Die in Absatz 2 Satz 1 Nummer 1 und 2 und, wenn dies erforderlich ist, Nummer 3 und 4 genannten Daten dürfen nach Maßgabe des § 18 Abs. 3 des Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 10 Abs. 2 des Gesetzes über den Militärischen Abschirmdienst und § 8 Abs. 3 des Gesetzes über den Bundesnachrichtendienst, auf Ersuchen auch an die Verfassungsschutzbehörden des Bundes und der Länder, den Militärischen Abschirmdienst und den Bundesnachrichtendienst übermittelt werden. § 18 Abs. 5 Satz 2 des Bundesverfassungsschutzgesetzes gilt entsprechend.
 
 (4a) Kann die Registerbehörde eine Mitteilung oder ein Ersuchen einem Datensatz nicht eindeutig zuordnen, übermittelt sie an die ersuchende Stelle zur Identitätsfeststellung Datensätze zu Personen mit ähnlichen Personalien. Nach erfolgter Identifizierung hat die ersuchende Stelle alle Daten, die sich nicht auf den Betroffenen beziehen, unverzüglich zu löschen. Ist eine Identifizierung nicht möglich, sind alle übermittelten Daten zu löschen. In der Rechtsverordnung nach § 494 Abs. 4 ist die Anzahl der Datensätze, die auf Grund eines Abrufs übermittelt werden dürfen, auf das für eine Identifizierung notwendige Maß zu begrenzen.
 
