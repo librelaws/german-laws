@@ -5,10 +5,10 @@ Neuf
 Neugefasst durch Bek. v. 15.10.2002 I 4167;
 
 Stand  
-zuletzt geändert durch Art. 10 G v. 23.12.2016 I 3191
+zuletzt geändert durch Art. 8 G v. 11.12.2018 I 2338
 
 Hinweis  
-Änderung durch Art. 4 G v. 27.6.2017 I 2074 (Nr. 43) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Mittelbare Änderung durch Art. 19 G v. 11.12.2018 I 2338 ist berücksichtigt
 
 ### 
 
@@ -35,6 +35,7 @@ Hinweis
 | **Abschnitt II**   |                                                            |
 |                    | **Bemessung der Gewerbesteuer**                            |
 |                    |                                                            |
+|                    |                                                            |
 |                    |                                                            |
 |                    |                                                            |
 |                    |                                                            |
@@ -223,7 +224,7 @@ b)
 bei Krankenhäusern im Erhebungszeitraum die in § 67 Abs. 1 oder 2 der Abgabenordnung bezeichneten Voraussetzungen erfüllt worden sind oder
 
 c)  
-bei Altenheimen, Altenwohnheimen und Pflegeheimen im Erhebungszeitraum mindestens 40 Prozent der Leistungen den in § 61 des Zwölften Buches Sozialgesetzbuch oder den in § 53 Nr. 2 der Abgabenordnung genannten Personen zugute gekommen sind oder
+bei Altenheimen, Altenwohnheimen und Pflegeheimen im Erhebungszeitraum mindestens 40 Prozent der Leistungen den in § 61a des Zwölften Buches Sozialgesetzbuch oder den in § 53 Nr. 2 der Abgabenordnung genannten Personen zugute gekommen sind oder
 
 d)  
 bei Einrichtungen zur vorübergehenden Aufnahme pflegebedürftiger Personen und bei Einrichtungen zur ambulanten Pflege kranker und pflegebedürftiger Personen im Erhebungszeitraum die Pflegekosten in mindestens 40 Prozent der Fälle von den gesetzlichen Trägern der Sozialversicherung oder Sozialhilfe ganz oder zum überwiegenden Teil getragen worden sind oder
@@ -241,7 +242,7 @@ Bürgschaftsbanken (Kreditgarantiegemeinschaften), wenn sie von der Körperschaf
 Unternehmensbeteiligungsgesellschaften, die nach dem Gesetz über Unternehmensbeteiligungsgesellschaften anerkannt sind. <sup>2</sup>Für Unternehmensbeteiligungsgesellschaften im Sinne des § 25 Abs. 1 des Gesetzes über Unternehmensbeteiligungsgesellschaften haben der Widerruf der Anerkennung und der Verzicht auf die Anerkennung Wirkung für die Vergangenheit, wenn nicht Aktien der Unternehmensbeteiligungsgesellschaft öffentlich angeboten worden sind; Entsprechendes gilt, wenn eine solche Gesellschaft nach § 25 Abs. 3 des Gesetzes über Unternehmensbeteiligungsgesellschaften die Anerkennung als Unternehmensbeteiligungsgesellschaft verliert. <sup>3</sup>Für offene Unternehmensbeteiligungsgesellschaften im Sinne des § 1a Abs. 2 Satz 1 des Gesetzes über Unternehmensbeteiligungsgesellschaften haben der Widerruf der Anerkennung und der Verzicht auf die Anerkennung innerhalb der in § 7 Abs. 1 Satz 1 des Gesetzes über Unternehmensbeteiligungsgesellschaften genannten Frist Wirkung für die Vergangenheit. <sup>4</sup>Bescheide über die Anerkennung, die Rücknahme oder den Widerruf der Anerkennung und über die Feststellung, ob Aktien der Unternehmensbeteiligungsgesellschaft im Sinne des § 25 Abs. 1 des Gesetzes über Unternehmensbeteiligungsgesellschaften öffentlich angeboten worden sind, sind Grundlagenbescheide im Sinne der Abgabenordnung; die Bekanntmachung der Aberkennung der Eigenschaft als Unternehmensbeteiligungsgesellschaft nach § 25 Abs. 3 des Gesetzes über Unternehmensbeteiligungsgesellschaften steht einem Grundlagenbescheid gleich;
 
 24.  
-die folgenden Kapitalbeteiligungsgesellschaften für die mittelständische Wirtschaft, soweit sich deren Geschäftsbetrieb darauf beschränkt, im öffentlichen Interesse mit Eigenmitteln oder mit staatlicher Hilfe Beteiligungen zu erwerben, wenn der von ihnen erzielte Gewinn ausschließlich und unmittelbar für die satzungsmäßigen Zwecke der Beteiligungsfinanzierung verwendet wird: Mittelständische Beteiligungsgesellschaft Baden-Württemberg GmbH, Kapitalbeteiligungsgesellschaft für die mittelständische Wirtschaft Bayerns mbH, MBG Mittelständische Beteiligungsgesellschaft Hessen GmbH, Mittelständische Beteiligungsgesellschaft Niedersachsen (MBG) mbH, Kapitalbeteiligungsgesellschaft für die mittelständische Wirtschaft in Nordrhein-Westfalen mbH, MBG Mittelständische Beteiligungsgesellschaft Rheinland-Pfalz mbH, Wagnisfinanzierungsgesellschaft für Technologieförderung in Rheinland-Pfalz mbH (WFT), Saarländische Kapitalbeteiligungsgesellschaft mbH, Gesellschaft für Wagniskapital Mittelständische Beteiligungsgesellschaft Schleswig-Holstein Gesellschaft mit beschränkter Haftung - MBG, Technologie-Beteiligungs-Gesellschaft mbH der Deutschen Ausgleichsbank, bgb Beteiligungsgesellschaft Berlin mbH für kleine und mittlere Betriebe, Mittelständische Beteiligungsgesellschaft Berlin-Brandenburg mbH, Mittelständische Beteiligungsgesellschaft Mecklenburg-Vorpommern mbH, Mittelständische Beteiligungsgesellschaft Sachsen mbH, Mittelständische Beteiligungsgesellschaft Sachsen-Anhalt mbH, Wagnisbeteiligungsgesellschaft Sachsen-Anhalt mbH, IBG Beteiligungsgesellschaft Sachsen-Anhalt mbH, Mittelständische Beteiligungsgesellschaft Thüringen (MBG) mbH;
+die folgenden Kapitalbeteiligungsgesellschaften für die mittelständische Wirtschaft, soweit sich deren Geschäftsbetrieb darauf beschränkt, im öffentlichen Interesse mit Eigenmitteln oder mit staatlicher Hilfe Beteiligungen zu erwerben, wenn der von ihnen erzielte Gewinn ausschließlich und unmittelbar für die satzungsmäßigen Zwecke der Beteiligungsfinanzierung verwendet wird: Mittelständische Beteiligungsgesellschaft Baden-Württemberg GmbH, BTG Beteiligungsgesellschaft Hamburg mbH, MBG Mittelständische Beteiligungsgesellschaft Hessen GmbH, Mittelständische Beteiligungsgesellschaft Niedersachsen (MBG) mbH, Kapitalbeteiligungsgesellschaft für die mittelständische Wirtschaft in Nordrhein-Westfalen mbH, MBG Mittelständische Beteiligungsgesellschaft Rheinland-Pfalz mbH, Wagnisfinanzierungsgesellschaft für Technologieförderung in Rheinland-Pfalz mbH (WFT), Saarländische Kapitalbeteiligungsgesellschaft mbH, Gesellschaft für Wagniskapital Mittelständische Beteiligungsgesellschaft Schleswig-Holstein Gesellschaft mit beschränkter Haftung - MBG, Technologie-Beteiligungs-Gesellschaft mbH der Deutschen Ausgleichsbank, bgb Beteiligungsgesellschaft Berlin mbH für kleine und mittlere Betriebe, Mittelständische Beteiligungsgesellschaft Berlin-Brandenburg mbH, Mittelständische Beteiligungsgesellschaft Mecklenburg-Vorpommern mbH, Mittelständische Beteiligungsgesellschaft Sachsen mbH, Mittelständische Beteiligungsgesellschaft Sachsen-Anhalt mbH, Wagnisbeteiligungsgesellschaft Sachsen-Anhalt mbH, IBG Beteiligungsgesellschaft Sachsen-Anhalt mbH, Mittelständische Beteiligungsgesellschaft Thüringen (MBG) mbH;
 
 25.  
 Wirtschaftsförderungsgesellschaften, wenn sie von der Körperschaftsteuer befreit sind;
@@ -264,7 +265,7 @@ die Auftragsforschung im Sinne des § 5 Abs. 1 Nr. 23 des Körperschaftsteuerges
 31.  
 die Global Legal Entity Identifier Stiftung, soweit sie von der Körperschaftsteuer befreit ist.
 
-(+++ § 3 Nr. 2 u. 31: Zur Anwendung vgl. § 36 Abs. 2 +++)
+(+++ § 3 Nr. 2, 20, 24 u. 31: Zur Anwendung vgl. § 36 Abs. 2 +++)
 
 ### § 4 Hebeberechtigte Gemeinde
 
@@ -306,6 +307,7 @@ soweit er nicht auf eine natürliche Person als unmittelbar beteiligter Mitunter
 
 (+++ § 7: Zur erstmaligen Anwendung vgl. § 36 Abs. 5 +++)
 (+++ § 7 Satz 8: Zur Anwendung vgl. § 36 Abs. 2a +++)
+§ 7 Satz 2 Nr. 2: Nach Maßgabe der Urteilsgründe mit Art. 3 Abs. 1 GG (100-1) vereinbar gem. BVerfGE v. 10.4.2018 - 1 BvR 1236/11 -
 
 ### § 7a Sonderregelung bei der Ermittlung des Gewerbeertrags einer Organgesellschaft
 
@@ -324,6 +326,27 @@ enthalten, sind § 15 Satz 1 Nummer 2 Satz 2 bis 4 des Körperschaftsteuergesetz
 (3) Die Absätze 1 und 2 gelten in den Fällen des § 15 Satz 2 des Körperschaftsteuergesetzes entsprechend.
 
 (+++ § 7a: Zur Anwendung vgl. § 36 Abs. 2b +++)
+
+### § 7b Sonderregelung bei der Ermittlung des Gewerbeertrags bei unternehmensbezogener Sanierung
+
+(1) Die §§ 3a und 3c Absatz 4 des Einkommensteuergesetzes sind vorbehaltlich der nachfolgenden Absätze bei der Ermittlung des Gewerbeertrags entsprechend anzuwenden.
+
+(2) Der nach Anwendung des § 3a Absatz 3 Satz 2 Nummer 1 des Einkommensteuergesetzes verbleibende geminderte Sanierungsertrag im Sinne des § 3a Absatz 3 Satz 1 des Einkommensteuergesetzes mindert nacheinander
+
+1.  
+den negativen Gewerbeertrag des Sanierungsjahrs des zu sanierenden Unternehmens,
+
+2.  
+Fehlbeträge im Sinne des § 10a Satz 3 und
+
+3.  
+im Sanierungsjahr ungeachtet des § 10a Satz 2 die nach § 10a Satz 6 zum Ende des vorangegangenen Erhebungszeitraums gesondert festgestellten Fehlbeträge; die in § 10a Satz 1 und 2 genannten Beträge werden der Minderung entsprechend aufgebraucht.
+
+Ein nach Satz 1 verbleibender Sanierungsertrag mindert die Beträge nach Satz 1 Nummer 1 bis 3 eines anderen Unternehmens, wenn dieses die erlassenen Schulden innerhalb eines Zeitraums von fünf Jahren vor dem Schuldenerlass auf das zu sanierende Unternehmen übertragen hat und soweit die entsprechenden Beträge zum Ablauf des Wirtschaftsjahrs der Übertragung bereits entstanden waren. Der verbleibende Sanierungsertrag nach Satz 2 ist zunächst um den Minderungsbetrag nach § 3a Absatz 3 Satz 2 Nummer 13 des Einkommensteuergesetzes zu kürzen. Bei der Minderung nach Satz 1 ist § 10a Satz 4 und 5 entsprechend anzuwenden. In Fällen des § 10a Satz 9 ist § 8 Absatz 9 Satz 9 des Körperschaftsteuergesetzes entsprechend anzuwenden. An den Feststellungen der vortragsfähigen Fehlbeträge nehmen nur die nach Anwendung der Sätze 1 und 2 verbleibenden Beträge teil.
+
+(3) In den Fällen des § 2 Absatz 2 Satz 2 ist § 15 Satz 1 Nummer 1a des Körperschaftsteuergesetzes entsprechend anzuwenden. Absatz 2 Satz 3 gilt entsprechend.
+
+(+++ § 7b: Zur Anwendung vgl. § 36 Abs. 2c +++)
 
 ### § 8 Hinzurechnungen
 
@@ -824,13 +847,13 @@ Abschnitt X Schlussvorschriften
 
 (1) Die vorstehende Fassung dieses Gesetzes ist, soweit in Absatz 2 nichts anderes bestimmt ist, erstmals für den Erhebungszeitraum 2016 anzuwenden.
 
-(2) <sup>1</sup>§ 3 Nummer 2 ist für die Hamburgische Investitions- und Förderbank erstmals für den Erhebungszeitraum 2013 anzuwenden. <sup>2</sup>Die Steuerbefreiung nach § 3 Nummer 2 in der bis zum 30. Juli 2014 geltenden Fassung ist für die Hamburgische Wohnungsbaukreditanstalt letztmals für den Erhebungszeitraum 2013 anzuwenden. <sup>3</sup>§ 3 Nummer 31 in der am 31. Dezember 2014 geltenden Fassung ist erstmals für den Erhebungszeitraum 2014 anzuwenden.
+(2) <sup>1</sup>§ 3 Nummer 2 ist für die Hamburgische Investitions- und Förderbank erstmals für den Erhebungszeitraum 2013 anzuwenden. <sup>2</sup>Die Steuerbefreiung nach § 3 Nummer 2 in der bis zum 30. Juli 2014 geltenden Fassung ist für die Hamburgische Wohnungsbaukreditanstalt letztmals für den Erhebungszeitraum 2013 anzuwenden. <sup>3</sup>§ 3 Nummer 20 Buchstabe c in der Fassung des Artikels 8 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) ist erstmals für den Erhebungszeitraum 2017 anzuwenden. <sup>4</sup>§ 3 Nummer 24 in der Fassung des Artikels 8 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) ist erstmals für den Erhebungszeitraum 2019 anzuwenden.<sup>5</sup>§ 3 Nummer 31 in der am 31. Dezember 2014 geltenden Fassung ist erstmals für den Erhebungszeitraum 2014 anzuwenden.
 
 (2a) § 7 Satz 8 in der am 1. Januar 2017 geltenden Fassung ist erstmals für den Erhebungszeitraum 2017 anzuwenden.
 
 (2b) § 7a in der am 1. Januar 2017 geltenden Fassung ist erstmals auf Gewinne aus Anteilen im Sinne des § 9 Nummer 2a, 7 oder 8 anzuwenden, die nach dem 31. Dezember 2016 zufließen, und auf Aufwendungen, die im unmittelbaren Zusammenhang mit diesen Gewinnen aus Anteilen stehen und nach diesem Zeitpunkt gewinnwirksam werden.
 
-(2c) zukünftig in Kraft
+(2c) <sup>1</sup>§ 7b in der Fassung des Artikels 4 des Gesetzes vom 27. Juni 2017 (BGBl. I S. 2074) ist erstmals in den Fällen anzuwenden, in denen die Schulden ganz oder teilweise nach dem 8. Februar 2017 erlassen wurden. <sup>2</sup>Satz 1 gilt bei einem Schuldenerlass nach dem 8. Februar 2017 nicht, wenn dem Steuerpflichtigen auf Antrag Billigkeitsmaßnahmen aus Gründen des Vertrauensschutzes für einen Sanierungsertrag auf Grundlage von § 163 Absatz 1 Satz 2 und den §§ 222, 227 der Abgabenordnung zu gewähren sind. <sup>3</sup>Auf Antrag des Steuerpflichtigen ist § 7b auch in den Fällen anzuwenden, in denen die Schulden vor dem 9. Februar 2017 erlassen wurden.
 
 (2d) § 10a Satz 10 in der am 1. Januar 2016 geltenden Fassung ist erstmals auf schädliche Beteiligungserwerbe im Sinne des § 8c des Körperschaftsteuergesetzes anzuwenden, die nach dem 31. Dezember 2015 erfolgen.
 
