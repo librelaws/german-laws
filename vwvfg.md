@@ -5,13 +5,22 @@ Neuf
 Neugefasst durch Bek. v. 23.1.2003 I 102
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 20.11.2015 I 2010
+zuletzt geändert durch Art. 5 G v. 29.3.2017 I 626
+
+Hinweis  
+Änderung durch Art. 11 Abs. 2 G v. 18.7.2017 I 2745 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 1.1.1977 +++)
 (+++ Maßgaben aufgrund des EinigVtr vgl. VwVfG Anhang EV +++)
+(+++ Zur Anwendung vgl. § 22 Abs. 1 Satz 1 EuPAG +++)
+(+++ Zur Anwendung d. §§ 8a u. 8e vgl. § 23 Abs. 1 EuPAG +++)
+(+++ Zur Anwendung d. §§ 42a Abs. 2 Satz 2 bis 4 vgl. § 13 Abs. 3 Satz 3 
+MessEG +++)
+(+++ Zur Anwendung d. §§ 42a Abs. 2 Satz 2 bis 4 vgl. § 22 Abs. 2 Satz 2 EuPAG 
++++)
 ```
 
 ### Inhaltsübersicht
@@ -111,6 +120,7 @@ Zustandekommen des Verwaltungsaktes
 |       |                                                                    |
 |-------|--------------------------------------------------------------------|
 | § 35  | Begriff des Verwaltungsaktes                                       |
+| § 35a | Vollständig automatisierter Erlass eines Verwaltungsaktes          |
 | § 36  | Nebenbestimmungen zum Verwaltungsakt                               |
 | § 37  | Bestimmtheit und Form des Verwaltungsaktes; Rechtsbehelfsbelehrung |
 | § 38  | Zusicherung                                                        |
@@ -348,7 +358,7 @@ in Angelegenheiten, bei denen sich die Zuständigkeit nicht aus den Nummern 1 bi
 
 (1) Die Übermittlung elektronischer Dokumente ist zulässig, soweit der Empfänger hierfür einen Zugang eröffnet.
 
-(2) Eine durch Rechtsvorschrift angeordnete Schriftform kann, soweit nicht durch Rechtsvorschrift etwas anderes bestimmt ist, durch die elektronische Form ersetzt werden. Der elektronischen Form genügt ein elektronisches Dokument, das mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz versehen ist. Die Signierung mit einem Pseudonym, das die Identifizierung der Person des Signaturschlüsselinhabers nicht unmittelbar durch die Behörde ermöglicht, ist nicht zulässig. Die Schriftform kann auch ersetzt werden
+(2) Eine durch Rechtsvorschrift angeordnete Schriftform kann, soweit nicht durch Rechtsvorschrift etwas anderes bestimmt ist, durch die elektronische Form ersetzt werden. Der elektronischen Form genügt ein elektronisches Dokument, das mit einer qualifizierten elektronischen Signatur versehen ist. Die Signierung mit einem Pseudonym, das die Identifizierung der Person des Signaturschlüsselinhabers nicht unmittelbar durch die Behörde ermöglicht, ist nicht zulässig. Die Schriftform kann auch ersetzt werden
 
 1.  
 durch unmittelbare Abgabe der Erklärung in einem elektronischen Formular, das von der Behörde in einem Eingabegerät oder über öffentlich zugängliche Netze zur Verfügung gestellt wird;
@@ -456,6 +466,8 @@ Abschnitt 3 Europäische Verwaltungszusammenarbeit
 
 (3) Die §§ 5, 7 und 8 Absatz 2 sind entsprechend anzuwenden, soweit Rechtsakte der Europäischen Gemeinschaft nicht entgegenstehen.
 
+(+++ § 8a: Zur Anwendung vgl. § 23 Abs. 1 EuPAG +++)
+
 ### § 8b Form und Behandlung der Ersuchen
 
 (1) Ersuchen sind in deutscher Sprache an Behörden anderer Mitgliedstaaten der Europäischen Union zu richten; soweit erforderlich, ist eine Übersetzung beizufügen. Die Ersuchen sind gemäß den gemeinschaftsrechtlichen Vorgaben und unter Angabe des maßgeblichen Rechtsakts zu begründen.
@@ -466,9 +478,13 @@ Abschnitt 3 Europäische Verwaltungszusammenarbeit
 
 (4) Einrichtungen und Hilfsmittel der Kommission zur Behandlung von Ersuchen sollen genutzt werden. Informationen sollen elektronisch übermittelt werden.
 
+(+++ § 8b: Zur Anwendung vgl. § 23 Abs. 1 EuPAG +++)
+
 ### § 8c Kosten der Hilfeleistung
 
 Ersuchende Behörden anderer Mitgliedstaaten der Europäischen Union haben Verwaltungsgebühren oder Auslagen nur zu erstatten, soweit dies nach Maßgabe von Rechtsakten der Europäischen Gemeinschaft verlangt werden kann.
+
+(+++ § 8ac: Zur Anwendung vgl. § 23 Abs. 1 EuPAG +++)
 
 ### § 8d Mitteilungen von Amts wegen
 
@@ -476,9 +492,13 @@ Ersuchende Behörden anderer Mitgliedstaaten der Europäischen Union haben Verwa
 
 (2) Übermittelt eine Behörde Angaben nach Absatz 1 an die Behörde eines anderen Mitgliedstaats der Europäischen Union, unterrichtet sie den Betroffenen über die Tatsache der Übermittlung, soweit Rechtsakte der Europäischen Gemeinschaft dies vorsehen; dabei ist auf die Art der Angaben sowie auf die Zweckbestimmung und die Rechtsgrundlage der Übermittlung hinzuweisen.
 
+(+++ § 8d: Zur Anwendung vgl. § 23 Abs. 1 EuPAG +++)
+
 ### § 8e Anwendbarkeit
 
 Die Regelungen dieses Abschnitts sind mit Inkrafttreten des jeweiligen Rechtsaktes der Europäischen Gemeinschaft, wenn dieser unmittelbare Wirkung entfaltet, im Übrigen mit Ablauf der jeweiligen Umsetzungsfrist anzuwenden. Sie gelten auch im Verhältnis zu den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, soweit Rechtsakte der Europäischen Gemeinschaft auch auf diese Staaten anzuwenden sind.
+
+(+++ § 8e: Zur Anwendung vgl. § 23 Abs. 1 EuPAG +++)
 
 Teil II Allgemeine Vorschriften über das Verwaltungsverfahren
 -------------------------------------------------------------
@@ -724,7 +744,7 @@ nur auf Antrag tätig werden darf und ein Antrag nicht vorliegt.
 
 ### § 24 Untersuchungsgrundsatz
 
-(1) Die Behörde ermittelt den Sachverhalt von Amts wegen. Sie bestimmt Art und Umfang der Ermittlungen; an das Vorbringen und an die Beweisanträge der Beteiligten ist sie nicht gebunden.
+(1) Die Behörde ermittelt den Sachverhalt von Amts wegen. Sie bestimmt Art und Umfang der Ermittlungen; an das Vorbringen und an die Beweisanträge der Beteiligten ist sie nicht gebunden.Setzt die Behörde automatische Einrichtungen zum Erlass von Verwaltungsakten ein, muss sie für den Einzelfall bedeutsame tatsächliche Angaben des Beteiligten berücksichtigen, die im automatischen Verfahren nicht ermittelt würden.
 
 (2) Die Behörde hat alle für den Einzelfall bedeutsamen, auch die für die Beteiligten günstigen Umstände zu berücksichtigen.
 
@@ -956,6 +976,10 @@ Abschnitt 1 Zustandekommen des Verwaltungsaktes
 
 Verwaltungsakt ist jede Verfügung, Entscheidung oder andere hoheitliche Maßnahme, die eine Behörde zur Regelung eines Einzelfalls auf dem Gebiet des öffentlichen Rechts trifft und die auf unmittelbare Rechtswirkung nach außen gerichtet ist. Allgemeinverfügung ist ein Verwaltungsakt, der sich an einen nach allgemeinen Merkmalen bestimmten oder bestimmbaren Personenkreis richtet oder die öffentlich-rechtliche Eigenschaft einer Sache oder ihre Benutzung durch die Allgemeinheit betrifft.
 
+### § 35a Vollständig automatisierter Erlass eines Verwaltungsaktes
+
+Ein Verwaltungsakt kann vollständig durch automatische Einrichtungen erlassen werden, sofern dies durch Rechtsvorschrift zugelassen ist und weder ein Ermessen noch ein Beurteilungsspielraum besteht.
+
 ### § 36 Nebenbestimmungen zum Verwaltungsakt
 
 (1) Ein Verwaltungsakt, auf den ein Anspruch besteht, darf mit einer Nebenbestimmung nur versehen werden, wenn sie durch Rechtsvorschrift zugelassen ist oder wenn sie sicherstellen soll, dass die gesetzlichen Voraussetzungen des Verwaltungsaktes erfüllt werden.
@@ -1036,6 +1060,8 @@ Ist die Behörde ermächtigt, nach ihrem Ermessen zu handeln, hat sie ihr Ermess
 
 (2) Ein schriftlicher Verwaltungsakt, der im Inland durch die Post übermittelt wird, gilt am dritten Tag nach der Aufgabe zur Post als bekannt gegeben. Ein Verwaltungsakt, der im Inland oder in das Ausland elektronisch übermittelt wird, gilt am dritten Tag nach der Absendung als bekannt gegeben. Dies gilt nicht, wenn der Verwaltungsakt nicht oder zu einem späteren Zeitpunkt zugegangen ist; im Zweifel hat die Behörde den Zugang des Verwaltungsaktes und den Zeitpunkt des Zugangs nachzuweisen.
 
+(2a) Mit Einwilligung des Beteiligten kann ein elektronischer Verwaltungsakt dadurch bekannt gegeben werden, dass er vom Beteiligten oder von seinem Bevollmächtigten über öffentlich zugängliche Netze abgerufen wird. Die Behörde hat zu gewährleisten, dass der Abruf nur nach Authentifizierung der berechtigten Person möglich ist und der elektronische Verwaltungsakt von ihr gespeichert werden kann. Der Verwaltungsakt gilt am Tag nach dem Abruf als bekannt gegeben. Wird der Verwaltungsakt nicht innerhalb von zehn Tagen nach Absendung einer Benachrichtigung über die Bereitstellung abgerufen, wird diese beendet. In diesem Fall ist die Bekanntgabe nicht bewirkt; die Möglichkeit einer erneuten Bereitstellung zum Abruf oder der Bekanntgabe auf andere Weise bleibt unberührt.
+
 (3) Ein Verwaltungsakt darf öffentlich bekannt gegeben werden, wenn dies durch Rechtsvorschrift zugelassen ist. Eine Allgemeinverfügung darf auch dann öffentlich bekannt gegeben werden, wenn eine Bekanntgabe an die Beteiligten untunlich ist.
 
 (4) Die öffentliche Bekanntgabe eines schriftlichen oder elektronischen Verwaltungsaktes wird dadurch bewirkt, dass sein verfügender Teil ortsüblich bekannt gemacht wird. In der ortsüblichen Bekanntmachung ist anzugeben, wo der Verwaltungsakt und seine Begründung eingesehen werden können. Der Verwaltungsakt gilt zwei Wochen nach der ortsüblichen Bekanntmachung als bekannt gegeben. In einer Allgemeinverfügung kann ein hiervon abweichender Tag, jedoch frühestens der auf die Bekanntmachung folgende Tag bestimmt werden.
@@ -1055,6 +1081,7 @@ Die Behörde kann Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigk
 (3) Auf Verlangen ist demjenigen, dem der Verwaltungsakt nach § 41 Abs. 1 hätte bekannt gegeben werden müssen, der Eintritt der Genehmigungsfiktion schriftlich zu bescheinigen.
 
 (+++ § 42a Abs. 2 Satz 2 bis 4: Zur Anwendung vgl. § 13 Abs. 3 Satz 3 MessEG +++)
+(+++ § 42a Abs. 2 Satz 2 bis 4: Zur Anwendung vgl. § 22 Abs. 2 Satz 2 EuPAG +++)
 
 Abschnitt 2 Bestandskraft des Verwaltungsaktes
 ----------------------------------------------
@@ -1539,7 +1566,7 @@ Nicht ortsansässige Betroffene, deren Person und Aufenthalt bekannt sind oder s
 
 (4) Der Planfeststellungsbeschluss ist dem Träger des Vorhabens, denjenigen, über deren Einwendungen entschieden worden ist, und den Vereinigungen, über deren Stellungnahmen entschieden worden ist, zuzustellen. Eine Ausfertigung des Beschlusses ist mit einer Rechtsbehelfsbelehrung und einer Ausfertigung des festgestellten Plans in den Gemeinden zwei Wochen zur Einsicht auszulegen; der Ort und die Zeit der Auslegung sind ortsüblich bekannt zu machen. Mit dem Ende der Auslegungsfrist gilt der Beschluss gegenüber den übrigen Betroffenen als zugestellt; darauf ist in der Bekanntmachung hinzuweisen.
 
-(5) Sind außer an den Träger des Vorhabens mehr als 50 Zustellungen nach Absatz 4 vorzunehmen, so können diese Zustellungen durch öffentliche Bekanntmachung ersetzt werden. Die öffentliche Bekanntmachung wird dadurch bewirkt, dass der verfügende Teil des Planfeststellungsbeschlusses, die Rechtsbehelfsbelehrung und ein Hinweis auf die Auslegung nach Absatz 4 Satz 2 im amtlichen Veröffentlichungsblatt der zuständigen Behörde und außerdem in örtlichen Tageszeitungen bekannt gemacht werden, die in dem Bereich verbreitet sind, in dem sich das Vorhaben voraussichtlich auswirken wird; auf Auflagen ist hinzuweisen. Mit dem Ende der Auslegungsfrist gilt der Beschluss den Betroffenen und denjenigen gegenüber, die Einwendungen erhoben haben, als zugestellt; hierauf ist in der Bekanntmachung hinzuweisen. Nach der öffentlichen Bekanntmachung kann der Planfeststellungsbeschluss bis zum Ablauf der Rechtsbehelfsfrist von den Betroffenen und von denjenigen, die Einwendungen erhoben haben, schriftlich angefordert werden; hierauf ist in der Bekanntmachung gleichfalls hinzuweisen.
+(5) Sind außer an den Träger des Vorhabens mehr als 50 Zustellungen nach Absatz 4 vorzunehmen, so können diese Zustellungen durch öffentliche Bekanntmachung ersetzt werden. Die öffentliche Bekanntmachung wird dadurch bewirkt, dass der verfügende Teil des Planfeststellungsbeschlusses, die Rechtsbehelfsbelehrung und ein Hinweis auf die Auslegung nach Absatz 4 Satz 2 im amtlichen Veröffentlichungsblatt der zuständigen Behörde und außerdem in örtlichen Tageszeitungen bekannt gemacht werden, die in dem Bereich verbreitet sind, in dem sich das Vorhaben voraussichtlich auswirken wird; auf Auflagen ist hinzuweisen. Mit dem Ende der Auslegungsfrist gilt der Beschluss den Betroffenen und denjenigen gegenüber, die Einwendungen erhoben haben, als zugestellt; hierauf ist in der Bekanntmachung hinzuweisen. Nach der öffentlichen Bekanntmachung kann der Planfeststellungsbeschluss bis zum Ablauf der Rechtsbehelfsfrist von den Betroffenen und von denjenigen, die Einwendungen erhoben haben, schriftlich oder elektronisch angefordert werden; hierauf ist in der Bekanntmachung gleichfalls hinzuweisen.
 
 (6) An Stelle eines Planfeststellungsbeschlusses kann eine Plangenehmigung erteilt werden, wenn
 
