@@ -5,13 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 28.8.1986 I 1455;
 
 Stand  
-zuletzt geändert durch Art. 3 G v. 4.4.2016 I 558
-
-Hinweis  
-Änderung durch Art. 6 Abs. 25 G v. 13.4.2017 I 872 (Nr. 22) mWv 1.7.2017 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 14 G v. 12.5.2017 I 1121 (Nr. 27) ist berücksichtigt
+zuletzt geändert durch Art. 10 G v. 17.7.2017 I 2541
 
 ### 
 
@@ -177,7 +171,20 @@ zur Schau gestellt, kann er, wenn er die Erfindung innerhalb einer Frist von sec
 
 (6) Soweit die Einsicht in das Register und die Akten nach Absatz 5 Satz 1 jedermann freisteht, kann die Einsichtnahme bei elektronischer Führung des Registers und der Akten auch über das Internet gewährt werden.
 
-(7) Die Einsicht nach den Absätzen 5 und 6 ist ausgeschlossen, soweit eine Rechtsvorschrift entgegensteht oder soweit das schutzwürdige Interesse des Betroffenen im Sinne des § 3 Absatz 1 des Bundesdatenschutzgesetzes offensichtlich überwiegt.
+(7) Die Einsicht nach den Absätzen 5 und 6 ist ausgeschlossen, soweit eine Rechtsvorschrift entgegensteht oder soweit das schutzwürdige Interesse der betroffenen Person im Sinne des Artikels 4 Nummer 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) in der jeweils geltenden Fassung offensichtlich überwiegt.
+
+(8) Soweit personenbezogene Daten im Register oder in öffentlich zugänglichen elektronischen Informationsdiensten des Deutschen Patent- und Markenamtes enthalten sind, bestehen nicht
+
+1.  
+das Recht auf Auskunft gemäß Artikel 15 Absatz 1 Buchstabe c der Verordnung (EU) 2016/679,
+
+2.  
+die Mitteilungspflicht gemäß Artikel 19 Satz 2 der Verordnung (EU) 2016/679 und
+
+3.  
+das Recht auf Widerspruch gemäß Artikel 21 Absatz 1 der Verordnung (EU) 2016/679.
+
+Das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU) 2016/679 wird dadurch erfüllt, dass die betroffene Person Einsicht in das Register oder in öffentlich zugängliche elektronische Informationsdienste des Deutschen Patent- und Markenamtes nehmen kann.
 
 ### § 9
 
