@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 23.9.2004 I 2414;
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 11.6.2013 I 1548
+Zuletzt geändert durch Art. 1 G v. 20.11.2014 I 1748
 
 ### 
 
@@ -1438,7 +1438,10 @@ die Belange der Verteidigung und des Zivilschutzes sowie der zivilen Anschlussnu
 die Ergebnisse eines von der Gemeinde beschlossenen städtebaulichen Entwicklungskonzeptes oder einer von ihr beschlossenen sonstigen städtebaulichen Planung,
 
 12.  
-die Belange des Hochwasserschutzes.
+die Belange des Hochwasserschutzes,
+
+13.  
+die Belange von Flüchtlingen oder Asylbegehrenden und ihrer Unterbringung.
 
 (7) Bei der Aufstellung der Bauleitpläne sind die öffentlichen und privaten Belange gegeneinander und untereinander gerecht abzuwägen.
 
@@ -1852,7 +1855,7 @@ Die Gemeinde kann städtebauliche Verträge auch mit einer juristischen Person a
 
 (1) Die Gemeinde kann durch einen vorhabenbezogenen Bebauungsplan die Zulässigkeit von Vorhaben bestimmen, wenn der Vorhabenträger auf der Grundlage eines mit der Gemeinde abgestimmten Plans zur Durchführung der Vorhaben und der Erschließungsmaßnahmen (Vorhaben- und Erschließungsplan) bereit und in der Lage ist und sich zur Durchführung innerhalb einer bestimmten Frist und zur Tragung der Planungs- und Erschließungskosten ganz oder teilweise vor dem Beschluss nach § 10 Abs. 1 verpflichtet (Durchführungsvertrag). Die Begründung des Planentwurfs hat die nach § 2a erforderlichen Angaben zu enthalten. Für die grenzüberschreitende Beteiligung ist eine Übersetzung der Angaben vorzulegen, soweit dies nach den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung notwendig ist. Für den vorhabenbezogenen Bebauungsplan nach Satz 1 gelten ergänzend die Absätze 2 bis 6.
 
-(2) Die Gemeinde hat auf Antrag des Vorhabenträgers über die Einleitung des Bebauungsplanverfahrens nach pflichtgemäßen Ermessen zu entscheiden. Auf Antrag des Vorhabenträgers oder sofern die Gemeinde es nach Einleitung des Bebauungsplanverfahrens für erforderlich hält, informiert die Gemeinde diesen über den voraussichtlich erforderlichen Untersuchungsrahmen der Umweltprüfung nach § 2 Abs. 4 unter Beteiligung der Behörden nach § 4 Abs. 1.
+(2) Die Gemeinde hat auf Antrag des Vorhabenträgers über die Einleitung des Bebauungsplanverfahrens nach pflichtgemäßem Ermessen zu entscheiden. Auf Antrag des Vorhabenträgers oder sofern die Gemeinde es nach Einleitung des Bebauungsplanverfahrens für erforderlich hält, informiert die Gemeinde diesen über den voraussichtlich erforderlichen Untersuchungsrahmen der Umweltprüfung nach § 2 Abs. 4 unter Beteiligung der Behörden nach § 4 Abs. 1.
 
 (3) Der Vorhaben- und Erschließungsplan wird Bestandteil des vorhabenbezogenen Bebauungsplans. Im Bereich des Vorhaben- und Erschließungsplans ist die Gemeinde bei der Bestimmung der Zulässigkeit der Vorhaben nicht an die Festsetzungen nach § 9 und nach der auf Grund von § 9a erlassenen Verordnung gebunden; die §§ 14 bis 18, 22 bis 28, 39 bis 79, 127 bis 135c sind nicht anzuwenden. Soweit der vorhabenbezogene Bebauungsplan auch im Bereich des Vorhaben- und Erschließungsplans Festsetzungen nach § 9 für öffentliche Zwecke trifft, kann gemäß § 85 Abs. 1 Nr. 1 enteignet werden.
 
@@ -2181,7 +2184,7 @@ Erster Abschnitt Zulässigkeit von Vorhaben
 (2) Von den Festsetzungen des Bebauungsplans kann befreit werden, wenn die Grundzüge der Planung nicht berührt werden und
 
 1.  
-Gründe des Wohls der Allgemeinheit die Befreiung erfordern oder
+Gründe des Wohls der Allgemeinheit, einschließlich des Bedarfs zur Unterbringung von Flüchtlingen oder Asylbegehrenden, die Befreiung erfordern oder
 
 2.  
 die Abweichung städtebaulich vertretbar ist oder
@@ -5642,7 +5645,7 @@ Zweiter Teil Schlussvorschriften
 
 ### 
 
-### § 246 Sonderregelungen für einzelne Länder
+### § 246 Sonderregelungen für einzelne Länder; Sonderregelungen für Flüchtlingsunterkünfte
 
 (1) In den Ländern Berlin und Hamburg entfallen die in § 6 Abs. 1, § 10 Abs. 2 und § 190 Abs. 1 vorgesehenen Genehmigungen oder Zustimmungen; das Land Bremen kann bestimmen, dass diese Genehmigungen oder Zustimmungen entfallen.
 
@@ -5659,6 +5662,12 @@ Zweiter Teil Schlussvorschriften
 (6) (weggefallen)
 
 (7) Die Länder können bestimmen, dass § 34 Abs. 1 Satz 1 bis zum 31. Dezember 2004 nicht für Einkaufszentren, großflächige Einzelhandelsbetriebe und sonstige großflächige Handelsbetriebe im Sinne des § 11 Abs. 3 der Baunutzungsverordnung anzuwenden ist. Wird durch eine Regelung nach Satz 1 die bis dahin zulässige Nutzung eines Grundstücks aufgehoben oder wesentlich geändert, ist § 238 entsprechend anzuwenden.
+
+(8) Bis zum 31. Dezember 2019 gilt § 34 Absatz 3a Satz 1 entsprechend für die Nutzungsänderung zulässigerweise errichteter Geschäfts-, Büro- oder Verwaltungsgebäude in bauliche Anlagen, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, und für deren Erweiterung, Änderung oder Erneuerung.
+
+(9) Bis zum 31. Dezember 2019 gilt die Rechtsfolge des § 35 Absatz 4 Satz 1 für Vorhaben entsprechend, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, wenn das Vorhaben im unmittelbaren räumlichen Zusammenhang mit nach § 30 Absatz 1 oder § 34 zu beurteilenden bebauten Flächen innerhalb des Siedlungsbereichs erfolgen soll.
+
+(10) Bis zum 31. Dezember 2019 kann in Gewerbegebieten (§ 8 der Baunutzungsverordnung, auch in Verbindung mit § 34 Absatz 2) für Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte oder sonstige Unterkünfte für Flüchtlinge oder Asylbegehrende von den Festsetzungen des Bebauungsplans befreit werden, wenn an dem Standort Anlagen für soziale Zwecke als Ausnahme zugelassen werden können oder allgemein zulässig sind und die Abweichung auch unter Würdigung nachbarlicher Interessen mit öffentlichen Belangen vereinbar ist. § 36 gilt entsprechend.
 
 ### § 246a Überschwemmungsgebiete, überschwemmungsgefährdete Gebiete
 
@@ -5686,11 +5695,13 @@ Anlässlich der Neubekanntmachung eines Flächennutzungsplans nach § 6 Abs. 6 s
 
 In Gebieten mit Bebauungsplänen oder Satzungen nach § 34 Absatz 4 Satz 1 Nummer 2 oder 3 sind bei Maßnahmen an bestehenden Gebäuden zum Zwecke der Energieeinsparung geringfügige Abweichungen von dem festgesetzten Maß der baulichen Nutzung, der Bauweise und der überbaubaren Grundstücksfläche zulässig, soweit dies mit nachbarlichen Interessen und baukulturellen Belangen vereinbar ist. Satz 1 gilt entsprechend für Anlagen zur Nutzung solarer Strahlungsenergie in, an und auf Dach- und Außenwandflächen. In den im Zusammenhang bebauten Ortsteilen gelten die Sätze 1 und 2 entsprechend für Abweichungen vom Erfordernis des Einfügens in die Eigenart der näheren Umgebung (§ 34 Absatz 1 Satz 1).
 
-### § 249 Sonderregelungen zur Windenergie in der Bauleitplanung
+### § 249 Sonderregelungen zur Windenergie
 
 (1) Werden in einem Flächennutzungsplan zusätzliche Flächen für die Nutzung von Windenergie dargestellt, folgt daraus nicht, dass die vorhandenen Darstellungen des Flächennutzungsplans zur Erzielung der Rechtswirkungen des § 35 Absatz 3 Satz 3 nicht ausreichend sind. Satz 1 gilt entsprechend bei der Änderung oder Aufhebung von Darstellungen zum Maß der baulichen Nutzung. Die Sätze 1 und 2 gelten für Bebauungspläne, die aus den Darstellungen des Flächennutzungsplans entwickelt werden, entsprechend.
 
 (2) Nach § 9 Absatz 2 Satz 1 Nummer 2 kann auch festgesetzt werden, dass die im Bebauungsplan festgesetzten Windenergieanlagen nur zulässig sind, wenn sichergestellt ist, dass nach der Errichtung der im Bebauungsplan festgesetzten Windenergieanlagen andere im Bebauungsplan bezeichnete Windenergieanlagen innerhalb einer im Bebauungsplan zu bestimmenden angemessenen Frist zurückgebaut werden. Die Standorte der zurückzubauenden Windenergieanlagen können auch außerhalb des Bebauungsplangebiets oder außerhalb des Gemeindegebiets liegen. Darstellungen im Flächennutzungsplan, die die Rechtswirkungen des § 35 Absatz 3 Satz 3 haben, können mit Bestimmungen entsprechend den Sätzen 1 und 2 mit Wirkung für die Zulässigkeit der Windenergieanlagen nach § 35 Absatz 1 Nummer 5 verbunden sein.
+
+(3) Die Länder können durch bis zum 31. Dezember 2015 zu verkündende Landesgesetze bestimmen, dass § 35 Absatz 1 Nummer 5 auf Vorhaben, die der Erforschung, Entwicklung oder Nutzung der Windenergie dienen, nur Anwendung findet, wenn sie einen bestimmten Abstand zu den im Landesgesetz bezeichneten zulässigen baulichen Nutzungen einhalten. Die Einzelheiten, insbesondere zur Abstandsfestlegung und zu den Auswirkungen der festgelegten Abstände auf Ausweisungen in geltenden Flächennutzungsplänen und Raumordnungsplänen, sind in den Landesgesetzen nach Satz 1 zu regeln. Die Länder können in den Landesgesetzen nach Satz 1 auch Abweichungen von den festgelegten Abständen zulassen.
 
 ### Anlage 1 (zu § 2 Abs. 4, §§ 2a und 4c)
 
