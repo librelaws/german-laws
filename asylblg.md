@@ -5,10 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 5.8.1997 I 2022;
 
 Stand  
-Zuletzt geändert durch Art. 20 Abs. 6 G v. 23.12.2016 I 3234
-
-Hinweis  
-Änderung durch Art. 4 G v. 17.7.2017 I 2541 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+zuletzt geändert durch Art. 4 G v. 17.7.2017 I 2541
 
 ### 
 
