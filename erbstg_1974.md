@@ -5,13 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 27.2.1997 I 378;
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 4.11.2016 I 2464
-
-Hinweis  
-Änderung durch Art. 4 G v. 23.6.2017 I 1682 (Nr. 39) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 6 G v. 18.7.2017 I 2730 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+zuletzt geändert durch Art. 18 G v. 11.12.2018 I 2338
 
 ### 
 
@@ -169,7 +163,7 @@ in allen anderen Fällen für den Vermögensanfall, der in Inlandsvermögen im S
 
 (3) (weggefallen)
 
-(+++ § 2: Zur Anwendung vgl. § 37 Abs. 7 +++)
+(+++ § 2: Zur Anwendung vgl. § 37 Abs. 7, 14 +++)
 
 ### § 3 Erwerb von Todes wegen
 
@@ -209,6 +203,8 @@ was als Entgelt für die Übertragung der Anwartschaft eines Nacherben gewährt 
 
 7.  
 was der Vertragserbe oder der Schlusserbe eines gemeinschaftlichen Testaments oder der Vermächtnisnehmer wegen beeinträchtigender Schenkungen des Erblassers (§§ 2287, 2288 Abs. 2 des Bürgerlichen Gesetzbuchs) von dem Beschenkten nach den Vorschriften über die ungerechtfertigte Bereicherung erlangt.
+
+(+++ § 3: Zur Anwendung vgl. Art. 97 § 37 Abs. 14 AOEG 1977 +++)
 
 ### § 4 Fortgesetzte Gütergemeinschaft
 
@@ -338,6 +334,7 @@ in den Fällen des § 1 Abs. 1 Nr. 4 in Zeitabständen von je 30 Jahren seit dem
 
 (2) In den Fällen der Aussetzung der Versteuerung nach § 25 Abs. 1 Buchstabe a gilt die Steuer für den Erwerb des belasteten Vermögens als mit dem Zeitpunkt des Erlöschens der Belastung entstanden.
 
+(+++ § 9: Zur Anwendung vgl. Art. 97 § 37 Abs. 14 AOEG 1977 +++)
 § 9 Abs. 1 Nr. 4 Satz 2: Mit GG vereinbar, soweit Stiftungen im Sinne von § 1 Abs. 1 Nr. 4 ErbStG betroffen sind, BVerfGE v. 8.3.1983 I 525 - 2 BvL 27/81 -
 
 Abschnitt 2 Wertermittlung
@@ -548,8 +545,7 @@ Die Steuerbefreiung fällt mit Wirkung für die Vergangenheit weg, wenn der Vere
 
 (3) Jede Befreiungsvorschrift ist für sich anzuwenden. In den Fällen des Absatzes 1 Nr. 2 und 3 kann der Erwerber der Finanzbehörde bis zur Unanfechtbarkeit der Steuerfestsetzung erklären, daß er auf die Steuerbefreiung verzichtet.
 
-(+++ § 13: Zur Anwendung vgl. § 37 Abs. 4 +++)
-(+++ § 13 Abs. 1 Nr. 16 Buchst. b u. c: Zur Anwendung vgl. § 37 Abs. 10 Satz 1 u. 2 +++)
+(+++ § 13: Zur Anwendung vgl. § 37 +++)
 
 ### § 13a Steuerbefreiung für Betriebsvermögen, Betriebe der Land- und Forstwirtschaft und Anteile an Kapitalgesellschaften
 
@@ -862,7 +858,7 @@ der übrigen Personen der Steuerklasse III in Höhe von 20 000 Euro.
 
 (2) In den Fällen der beschränkten Steuerpflicht (§ 2 Absatz 1 Nummer 3) wird der Freibetrag nach Absatz 1 um einen Teilbetrag gemindert. Dieser Teilbetrag entspricht dem Verhältnis der Summe der Werte des in demselben Zeitpunkt erworbenen, nicht der beschränkten Steuerpflicht unterliegenden Vermögens und derjenigen, nicht der beschränkten Steuerpflicht unterliegenden Vermögensvorteile, die innerhalb von zehn Jahren von derselben Person angefallen sind, zum Wert des Vermögens, das insgesamt innerhalb von zehn Jahren von derselben Person angefallenen ist. Die früheren Erwerbe sind mit ihrem früheren Wert anzusetzen.
 
-(+++ § 16: Zur Anwendung vgl. § 37 Abs. 4 u. 7 +++)
+(+++ § 16: Zur Anwendung vgl. § 37 Abs. 4, 7, 14 +++)
 
 ### § 17 Besonderer Versorgungsfreibetrag
 
@@ -889,7 +885,7 @@ Stehen dem Kind aus Anlaß des Todes des Erblassers nicht der Erbschaftsteuer un
 
 (3) In den Fällen der beschränkten Steuerpflicht (§ 2 Absatz 1 Nummer 3) wird der besondere Versorgungsfreibetrag nach Absatz 1 oder 2 gewährt, wenn durch die Staaten, in denen der Erblasser ansässig war oder der Erwerber ansässig ist, Amtshilfe geleistet wird. Amtshilfe ist der Auskunftsaustausch im Sinne oder entsprechend der Amtshilferichtlinie gemäß § 2 Absatz 11 des EU-Amtshilfegesetzes in der für den jeweiligen Stichtag der Steuerentstehung geltenden Fassung oder eines entsprechenden Nachfolgerechtsaktes.
 
-(+++ § 17: Zur Anwendung vgl. § 37 Abs. 4 +++)
+(+++ § 17: Zur Anwendung vgl. § 37 Abs. 4, 13 +++)
 
 ### § 18 Mitgliederbeiträge
 
@@ -994,9 +990,9 @@ des die Wertgrenze übersteigenden Betrags gedeckt werden kann.
 
 (4) Zur Ermittlung des Entlastungsbetrags ist für den steuerpflichtigen Erwerb zunächst die Steuer nach der tatsächlichen Steuerklasse des Erwerbers zu berechnen und nach Maßgabe des Absatzes 3 aufzuteilen. Für den steuerpflichtigen Erwerb ist dann die Steuer nach Steuerklasse I zu berechnen und nach Maßgabe des Absatzes 3 aufzuteilen. Der Entlastungsbetrag ergibt sich als Unterschiedsbetrag zwischen der auf Vermögen im Sinne des Absatzes 2 entfallenden Steuer nach den Sätzen 1 und 2.
 
-(5) Der Entlastungsbetrag fällt mit Wirkung für die Vergangenheit weg, soweit der Erwerber innerhalb von fünf Jahren gegen die Behaltensregelungen des § 13a verstößt. In den Fällen des § 13a Absatz 10 tritt an die Stelle der Frist nach Satz 1 eine Frist von sieben Jahren. Die Festsetzungsfrist für die Steuer endet nicht vor dem Ablauf des vierten Jahres, nachdem die Finanzbehörde von dem Verstoß gegen die Behaltensregelungen Kenntnis erlangt. § 13a Absatz 7 Satz 4 bis 6 gilt entsprechend.
+(5) Der Entlastungsbetrag fällt mit Wirkung für die Vergangenheit weg, soweit der Erwerber innerhalb von fünf Jahren gegen die Behaltensregelungen des § 13a verstößt. In den Fällen des § 13a Absatz 10 und des § 28a Absatz 1 tritt an die Stelle der Frist nach Satz 1 eine Frist von sieben Jahren. Die Festsetzungsfrist für die Steuer endet nicht vor dem Ablauf des vierten Jahres, nachdem die Finanzbehörde von dem Verstoß gegen die Behaltensregelungen Kenntnis erlangt. § 13a Absatz 7 Satz 4 bis 6 gilt entsprechend.
 
-(+++ § 19a: Zur Anwendung vgl. § 37 Abs. 12 +++)
+(+++ § 19a: Zur Anwendung vgl. § 37 Abs. 12, 16 +++)
 (+++ § 19a Abs. 5: Zur Anwendung vgl. § 37 Abs. 3 Satz 1 +++)
 
 Abschnitt 4 Steuerfestsetzung und Erhebung
@@ -1110,13 +1106,13 @@ mehr als 8 Jahre, aber nicht mehr als 10 Jahre
 
 ### § 28 Stundung
 
-(1) Gehört zum Erwerb von Todes wegen begünstigtes Vermögen im Sinne des § 13b Absatz 2, ist dem Erwerber die darauf entfallende Erbschaftsteuer auf Antrag bis zu sieben Jahre zu stunden. Der erste Jahresbetrag ist ein Jahr nach der Festsetzung der Steuer fällig und bis dahin zinslos zu stunden. Für die weiteren zu entrichtenden Jahresbeträge sind die §§ 234 und 238 der Abgabenordnung ab dem zweiten Jahr nach der Festsetzung der Steuer anzuwenden. § 222 der Abgabenordnung bleibt unberührt. Die Stundung endet, sobald der Erwerber, ausgehend vom Zeitpunkt der Entstehung der Steuer (§ 9), den Tatbestand nach § 13a Absatz 3 nicht einhält oder einen der Tatbestände nach § 13a Absatz 6 erfüllt. Wurde ein Antrag nach § 13a Absatz 10 oder nach § 28a Absatz 1 gestellt, ist bei der Anwendung des Satzes 3 § 13a Absatz 10 entsprechend anzuwenden. Satz 1 ist nicht auf die Erbschaftsteuer anzuwenden, die der Erwerber zu entrichten hat, weil er den Tatbestand nach § 13a Absatz 3 nicht eingehalten oder einen der Tatbestände nach § 13a Absatz 6 erfüllt hat. Die Stundung endet, sobald der Erwerber den Betrieb oder den Anteil daran überträgt oder aufgibt.
+(1) Gehört zum Erwerb von Todes wegen begünstigtes Vermögen im Sinne des § 13b Absatz 2, ist dem Erwerber die darauf entfallende Erbschaftsteuer auf Antrag bis zu sieben Jahre zu stunden. Der erste Jahresbetrag ist ein Jahr nach der Festsetzung der Steuer fällig und bis dahin zinslos zu stunden. Für die weiteren zu entrichtenden Jahresbeträge sind die §§ 234 und 238 der Abgabenordnung ab dem zweiten Jahr nach der Festsetzung der Steuer anzuwenden. § 222 der Abgabenordnung bleibt unberührt. Die Stundung endet, sobald der Erwerber, ausgehend vom Zeitpunkt der Entstehung der Steuer (§ 9), den Tatbestand nach § 13a Absatz 3 nicht einhält oder einen der Tatbestände nach § 13a Absatz 6 erfüllt. Wurde ein Antrag nach § 13a Absatz 10 oder nach § 28a Absatz 1 gestellt, ist bei der Anwendung des Satzes 5 § 13a Absatz 10 entsprechend anzuwenden. Satz 1 ist nicht auf die Erbschaftsteuer anzuwenden, die der Erwerber zu entrichten hat, weil er den Tatbestand nach § 13a Absatz 3 nicht eingehalten oder einen der Tatbestände nach § 13a Absatz 6 erfüllt hat. Die Stundung endet, sobald der Erwerber den Betrieb oder den Anteil daran überträgt oder aufgibt.
 
 (2) Absatz 1 findet in den Fällen des § 1 Abs. 1 Nr. 4 entsprechende Anwendung.
 
-(3) Gehört zum Erwerb begünstigtes Vermögen im Sinne des § 13d Absatz 3, ist dem Erwerber die darauf entfallende Erbschaftsteuer auf Antrag bis zu zehn Jahren zu stunden, soweit er die Steuer nur durch Veräußerung dieses Vermögens aufbringen kann. Satz 1 gilt entsprechend, wenn zum Erwerb ein Ein- oder Zweifamilienhaus oder Wohneigentum gehört, das der Erwerber nach dem Erwerb zu eigenen Wohnzwecken nutzt, längstens für die Dauer der Selbstnutzung. Nach Aufgabe der Selbstnutzung ist die Stundung unter den Voraussetzungen des Satzes 1 weiter zu gewähren. Die Stundung endet in den Fällen der Sätze 1 bis 3, soweit das erworbene Vermögen Gegenstand einer Schenkung im Sinne des § 7 ist. Absatz 1 Satz 2 und 3 gilt entsprechend.
+(3) Gehört zum Erwerb begünstigtes Vermögen im Sinne des § 13d Absatz 3, ist dem Erwerber die darauf entfallende Erbschaftsteuer auf Antrag bis zu zehn Jahren zu stunden, soweit er die Steuer nur durch Veräußerung dieses Vermögens aufbringen kann. Satz 1 gilt entsprechend, wenn zum Erwerb ein Ein- oder Zweifamilienhaus oder Wohneigentum gehört, das der Erwerber nach dem Erwerb zu eigenen Wohnzwecken nutzt, längstens für die Dauer der Selbstnutzung. Nach Aufgabe der Selbstnutzung ist die Stundung unter den Voraussetzungen des Satzes 1 weiter zu gewähren. Die Stundung endet in den Fällen der Sätze 1 bis 3, soweit das erworbene Vermögen Gegenstand einer Schenkung im Sinne des § 7 ist. Die §§ 234 und 238 der Abgabenordnung sind anzuwenden; bei Erwerben von Todes wegen erfolgt diese Stundung zinslos. § 222 der Abgabenordnung bleibt unberührt.
 
-(+++ § 28: Zur Anwendung vgl. § 37 Abs. 12 +++)
+(+++ § 28: Zur Anwendung vgl. § 37 Abs. 12, 16 +++)
 
 ### § 28a Verschonungsbedarfsprüfung
 
@@ -1141,19 +1137,28 @@ die Summe der maßgebenden jährlichen Lohnsummen des Betriebs, bei Beteiligunge
 der Erwerber innerhalb von sieben Jahren (Behaltensfrist) gegen die Behaltensbedingungen entsprechend § 13a Absatz 6 Satz 1 verstößt. § 13a Absatz 6 Satz 2 bis 4 gilt entsprechend;
 
 3.  
-der Erwerber innerhalb von zehn Jahren nach dem Zeitpunkt der Entstehung der Steuer (§ 9) weiteres Vermögen durch Schenkung oder von Todes wegen erhält, das verfügbares Vermögen im Sinne des Absatzes 2 darstellt. Der Erwerber kann erneut einen Antrag nach Absatz 1 stellen. Das verfügbare Vermögen nach Absatz 2 ist um 50 Prozent des gemeinen Werts des weiteren erworbenen Vermögens zu erhöhen.
+der Erwerber innerhalb von zehn Jahren nach dem Zeitpunkt der Entstehung der Steuer (§ 9) weiteres Vermögen durch Schenkung oder von Todes wegen erhält, das verfügbares Vermögen im Sinne des Absatzes 2 darstellt. Der Erwerber kann erneut einen Antrag nach Absatz 1 stellen. Das verfügbare Vermögen nach Absatz 2 ist um 50 Prozent des gemeinen Werts des weiteren erworbenen Vermögens zu erhöhen;
+
+4.  
+die den Erwerb oder Teile des Erwerbs oder das in Nummer 3 oder Absatz 2 Nummer 2 bezeichnete Vermögen oder Teile dieses Vermögens betreffenden Feststellungsbescheide im Sinne des § 151 Absatz 1 Satz 1 des Bewertungsgesetzes oder des § 13b Absatz 10 Satz 1 geändert werden oder erstmals ergehen und die festgestellten Werte von den dem Erlass zugrunde gelegten Werten abweichen. Gleiches gilt im Fall der Aufhebung eines Feststellungsbescheids. Der Erwerber kann erneut einen Antrag nach Absatz 1 stellen;
+
+5.  
+die dem Erlass zugrunde liegende Steuerfestsetzung geändert wird und dabei von den dem Erlass zugrunde gelegten Werten abgewichen wird. Der Erwerber kann erneut einen Antrag nach Absatz 1 stellen;
+
+6.  
+der Erlass gemäß Absatz 1 Satz 2 oder 3 ganz oder teilweise nicht mehr in Anspruch genommen werden kann. Der Erwerber kann erneut einen Antrag nach Absatz 1 stellen.
 
 Der Verwaltungsakt nach Absatz 1 Satz 1 steht unter dem Vorbehalt des Widerrufs (§ 120 Absatz 2 Nummer 3 der Abgabenordnung). Der Verwaltungsakt über den Erlass nach Absatz 1 Satz 1 ist bei Eintritt der auflösenden Bedingung nach Satz 1 mit Wirkung für die Vergangenheit ganz oder teilweise zu widerrufen; § 131 Absatz 4 der Abgabenordnung gilt entsprechend.
 
 (5) Der Erwerber ist verpflichtet, dem für die Erbschaftsteuer zuständigen Finanzamt innerhalb einer Frist von sechs Monaten nach Ablauf der Lohnsummenfrist das Unterschreiten der Mindestlohnsumme (Absatz 4 Satz 1 Nummer 1) anzuzeigen. In den Fällen des Absatzes 4 Satz 1 Nummer 2 und 3 ist der Erwerber verpflichtet, dem für die Erbschaftsteuer zuständigen Finanzamt den entsprechenden Sachverhalt innerhalb einer Frist von einem Monat, nachdem der jeweilige Tatbestand verwirklicht wurde, anzuzeigen. Die Anzeige ist eine Steuererklärung im Sinne der Abgabenordnung. Sie ist schriftlich abzugeben. Die Anzeige hat auch dann zu erfolgen, wenn der Vorgang nur teilweise zum Widerruf des Verwaltungsaktes nach Absatz 4 führt.
 
-(6) Die Zahlungsverjährungsfrist für die nach Anwendung des Absatzes 1 Satz 1 verbleibende Steuer endet nicht vor dem Ablauf des fünften Jahres, nachdem das für die Erbschaftsteuer zuständige Finanzamt von dem Unterschreiten der Mindestlohnsumme (Absatz 4 Satz 1 Nummer 1) oder dem Verwirklichen eines Tatbestands nach Absatz 4 Satz 1 Nummer 2 und 3 Kenntnis erlangt.
+(6) Die Zahlungsverjährungsfrist für die nach Anwendung des Absatzes 1 Satz 1 verbleibende Steuer endet nicht vor dem Ablauf des fünften Jahres, nachdem das für die Erbschaftsteuer zuständige Finanzamt von dem Unterschreiten der Mindestlohnsumme (Absatz 4 Satz 1 Nummer 1) oder dem Verwirklichen eines Tatbestands nach Absatz 4 Satz 1 Nummer 2, 3 und 6 Kenntnis erlangt. In den Fällen des Absatzes 4 Satz 1 Nummer 4 und 5 endet die Zahlungsverjährungsfrist nicht vor dem Ablauf des zweiten Jahres nach Bekanntgabe des Feststellungsbescheids oder des Steuerbescheids.
 
 (7) Die Absätze 1 bis 6 gelten in den Fällen des § 1 Absatz 1 Nummer 4 entsprechend.
 
 (8) Die Absätze 1 bis 7 gelten nicht, wenn ein Antrag nach § 13c gestellt wurde.
 
-(+++ § 28a: Zur Anwendung vgl. § 37 Abs. 12 +++)
+(+++ § 28a: Zur Anwendung vgl. § 37 Abs. 12, 16 +++)
 
 ### § 29 Erlöschen der Steuer in besonderen Fällen
 
@@ -1356,6 +1361,8 @@ Vorschriften durch Rechtsverordnung zu erlassen über die sich aus der Aufhebung
 (14) § 2 Absatz 1 Nummer 3, § 3 Absatz 2 Nummer 4, § 9 Absatz 1 Nummer 1 Buchstabe f, § 13 Absatz 1 Nummer 16 Buchstabe c Satz 2 und § 16 Absatz 1 und 2 in der am 25. Juni 2017 geltenden Fassung sind auf Erwerbe anzuwenden, für die die Steuer nach dem 24. Juni 2017 entsteht.
 
 (15) § 13 Absatz 1 Nummer 18 Buchstabe a in der Fassung des Artikels 6 des Gesetzes vom 18. Juli 2017 (BGBl. I S. 2730) ist auf Erwerbe anzuwenden, für die die Steuer nach dem 29. Juli 2017 entsteht.
+
+(16) Die §§ 19a und 28 in der Fassung des Artikels 18 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) finden auf Erwerbe Anwendung, für die die Steuer nach dem 14. Dezember 2018 entsteht. § 28a in der Fassung des Artikels 18 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) findet auf Erwerbe Anwendung, für die ein Erlass erstmals nach dem 14. Dezember 2018 ausgesprochen wurde.
 
 ### § 37a Sondervorschriften aus Anlass der Herstellung der Einheit Deutschlands
 
