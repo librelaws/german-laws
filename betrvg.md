@@ -5,7 +5,10 @@ Neuf
 Neugefasst durch Bek. v. 25.9.2001 I 2518;
 
 Stand  
-zuletzt geändert durch Art. 3 Abs. 4 G v. 20.4.2013 I 868
+zuletzt geändert durch Art. 3 G v. 21.2.2017 I 258
+
+Hinweis  
+Änderung durch Art. 6 G v. 17.7.2017 I 2509 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -998,7 +1001,7 @@ Erster Abschnitt Allgemeines
 
 ### § 78 Schutzbestimmungen
 
-Die Mitglieder des Betriebsrats, des Gesamtbetriebsrats, des Konzernbetriebsrats, der Jugend- und Auszubildendenvertretung, der Gesamt-Jugend- und Auszubildendenvertretung, der Konzern-Jugend- und Auszubildendenvertretung, des Wirtschaftsausschusses, der Bordvertretung, des Seebetriebsrats, der in § 3 Abs. 1 genannten Vertretungen der Arbeitnehmer, der Einigungsstelle, einer tariflichen Schlichtungsstelle (§ 76 Abs. 8) und einer betrieblichen Beschwerdestelle (§ 86) sowie Auskunftspersonen (§ 80 Abs. 2 Satz 3) dürfen in der Ausübung ihrer Tätigkeit nicht gestört oder behindert werden. Sie dürfen wegen ihrer Tätigkeit nicht benachteiligt oder begünstigt werden; dies gilt auch für ihre berufliche Entwicklung.
+Die Mitglieder des Betriebsrats, des Gesamtbetriebsrats, des Konzernbetriebsrats, der Jugend- und Auszubildendenvertretung, der Gesamt-Jugend- und Auszubildendenvertretung, der Konzern-Jugend- und Auszubildendenvertretung, des Wirtschaftsausschusses, der Bordvertretung, des Seebetriebsrats, der in § 3 Abs. 1 genannten Vertretungen der Arbeitnehmer, der Einigungsstelle, einer tariflichen Schlichtungsstelle (§ 76 Abs. 8) und einer betrieblichen Beschwerdestelle (§ 86) sowie Auskunftspersonen (§ 80 Absatz 2 Satz 4) dürfen in der Ausübung ihrer Tätigkeit nicht gestört oder behindert werden. Sie dürfen wegen ihrer Tätigkeit nicht benachteiligt oder begünstigt werden; dies gilt auch für ihre berufliche Entwicklung.
 
 ### § 78a Schutz Auszubildender in besonderen Fällen
 
@@ -1046,7 +1049,7 @@ die Vereinbarkeit von Familie und Erwerbstätigkeit zu fördern;
 Anregungen von Arbeitnehmern und der Jugend- und Auszubildendenvertretung entgegenzunehmen und, falls sie berechtigt erscheinen, durch Verhandlungen mit dem Arbeitgeber auf eine Erledigung hinzuwirken; er hat die betreffenden Arbeitnehmer über den Stand und das Ergebnis der Verhandlungen zu unterrichten;
 
 4.  
-die Eingliederung Schwerbehinderter und sonstiger besonders schutzbedürftiger Personen zu fördern;
+die Eingliederung schwerbehinderter Menschen einschließlich der Förderung des Abschlusses von Inklusionsvereinbarungen nach § 83 des Neunten Buches Sozialgesetzbuch und sonstiger besonders schutzbedürftiger Personen zu fördern;
 
 5.  
 die Wahl einer Jugend- und Auszubildendenvertretung vorzubereiten und durchzuführen und mit dieser zur Förderung der Belange der in § 60 Abs. 1 genannten Arbeitnehmer eng zusammenzuarbeiten; er kann von der Jugend- und Auszubildendenvertretung Vorschläge und Stellungnahmen anfordern;
@@ -1063,7 +1066,7 @@ die Beschäftigung im Betrieb zu fördern und zu sichern;
 9.  
 Maßnahmen des Arbeitsschutzes und des betrieblichen Umweltschutzes zu fördern.
 
-(2) Zur Durchführung seiner Aufgaben nach diesem Gesetz ist der Betriebsrat rechtzeitig und umfassend vom Arbeitgeber zu unterrichten; die Unterrichtung erstreckt sich auch auf die Beschäftigung von Personen, die nicht in einem Arbeitsverhältnis zum Arbeitgeber stehen. Dem Betriebsrat sind auf Verlangen jederzeit die zur Durchführung seiner Aufgaben erforderlichen Unterlagen zur Verfügung zu stellen; in diesem Rahmen ist der Betriebsausschuss oder ein nach § 28 gebildeter Ausschuss berechtigt, in die Listen über die Bruttolöhne und -gehälter Einblick zu nehmen. Soweit es zur ordnungsgemäßen Erfüllung der Aufgaben des Betriebsrats erforderlich ist, hat der Arbeitgeber ihm sachkundige Arbeitnehmer als Auskunftspersonen zur Verfügung zu stellen; er hat hierbei die Vorschläge des Betriebsrats zu berücksichtigen, soweit betriebliche Notwendigkeiten nicht entgegenstehen.
+(2) Zur Durchführung seiner Aufgaben nach diesem Gesetz ist der Betriebsrat rechtzeitig und umfassend vom Arbeitgeber zu unterrichten; die Unterrichtung erstreckt sich auch auf die Beschäftigung von Personen, die nicht in einem Arbeitsverhältnis zum Arbeitgeber stehen, und umfasst insbesondere den zeitlichen Umfang des Einsatzes, den Einsatzort und die Arbeitsaufgaben dieser Personen. Dem Betriebsrat sind auf Verlangen jederzeit die zur Durchführung seiner Aufgaben erforderlichen Unterlagen zur Verfügung zu stellen; in diesem Rahmen ist der Betriebsausschuss oder ein nach § 28 gebildeter Ausschuss berechtigt, in die Listen über die Bruttolöhne und -gehälter Einblick zu nehmen. Zu den erforderlichen Unterlagen gehören auch die Verträge, die der Beschäftigung der in Satz 1 genannten Personen zugrunde liegen. Soweit es zur ordnungsgemäßen Erfüllung der Aufgaben des Betriebsrats erforderlich ist, hat der Arbeitgeber ihm sachkundige Arbeitnehmer als Auskunftspersonen zur Verfügung zu stellen; er hat hierbei die Vorschläge des Betriebsrats zu berücksichtigen, soweit betriebliche Notwendigkeiten nicht entgegenstehen.
 
 (3) Der Betriebsrat kann bei der Durchführung seiner Aufgaben nach näherer Vereinbarung mit dem Arbeitgeber Sachverständige hinzuziehen, soweit dies zur ordnungsgemäßen Erfüllung seiner Aufgaben erforderlich ist.
 
@@ -1187,7 +1190,10 @@ die Errichtung von Sozialeinrichtungen, deren Wirkungsbereich auf den Betrieb, d
 Maßnahmen zur Förderung der Vermögensbildung;
 
 4.  
-Maßnahmen zur Integration ausländischer Arbeitnehmer sowie zur Bekämpfung von Rassismus und Fremdenfeindlichkeit im Betrieb.
+Maßnahmen zur Integration ausländischer Arbeitnehmer sowie zur Bekämpfung von Rassismus und Fremdenfeindlichkeit im Betrieb;
+
+5.  
+Maßnahmen zur Eingliederung schwerbehinderter Menschen.
 
 ### § 89 Arbeits- und betrieblicher Umweltschutz
 
@@ -1244,11 +1250,11 @@ Erster Unterabschnitt Allgemeine personelle Angelegenheiten
 
 ### § 92 Personalplanung
 
-(1) Der Arbeitgeber hat den Betriebsrat über die Personalplanung, insbesondere über den gegenwärtigen und künftigen Personalbedarf sowie über die sich daraus ergebenden personellen Maßnahmen und Maßnahmen der Berufsbildung anhand von Unterlagen rechtzeitig und umfassend zu unterrichten. Er hat mit dem Betriebsrat über Art und Umfang der erforderlichen Maßnahmen und über die Vermeidung von Härten zu beraten.
+(1) Der Arbeitgeber hat den Betriebsrat über die Personalplanung, insbesondere über den gegenwärtigen und künftigen Personalbedarf sowie über die sich daraus ergebenden personellen Maßnahmen einschließlich der geplanten Beschäftigung von Personen, die nicht in einem Arbeitsverhältnis zum Arbeitgeber stehen, und Maßnahmen der Berufsbildung anhand von Unterlagen rechtzeitig und umfassend zu unterrichten. Er hat mit dem Betriebsrat über Art und Umfang der erforderlichen Maßnahmen und über die Vermeidung von Härten zu beraten.
 
 (2) Der Betriebsrat kann dem Arbeitgeber Vorschläge für die Einführung einer Personalplanung und ihre Durchführung machen.
 
-(3) Die Absätze 1 und 2 gelten entsprechend für Maßnahmen im Sinne des § 80 Abs. 1 Nr. 2a und 2b, insbesondere für die Aufstellung und Durchführung von Maßnahmen zur Förderung der Gleichstellung von Frauen und Männern.
+(3) Die Absätze 1 und 2 gelten entsprechend für Maßnahmen im Sinne des § 80 Abs. 1 Nr. 2a und 2b, insbesondere für die Aufstellung und Durchführung von Maßnahmen zur Förderung der Gleichstellung von Frauen und Männern. Gleiches gilt für die Eingliederung schwerbehinderter Menschen nach § 80 Absatz 1 Nummer 4.
 
 ### § 92a Beschäftigungssicherung
 
@@ -1807,7 +1813,7 @@ eine Wahl des Betriebsrats, der Jugend- und Auszubildendenvertretung, der Bordve
 die Tätigkeit des Betriebsrats, des Gesamtbetriebsrats, des Konzernbetriebsrats, der Jugend- und Auszubildendenvertretung, der Gesamt-Jugend- und Auszubildendenvertretung, der Konzern-Jugend- und Auszubildendenvertretung, der Bordvertretung, des Seebetriebsrats, der in § 3 Abs. 1 bezeichneten Vertretungen der Arbeitnehmer, der Einigungsstelle, der in § 76 Abs. 8 bezeichneten tariflichen Schlichtungsstelle, der in § 86 bezeichneten betrieblichen Beschwerdestelle oder des Wirtschaftsausschusses behindert oder stört, oder
 
 3.  
-ein Mitglied oder ein Ersatzmitglied des Betriebsrats, des Gesamtbetriebsrats, des Konzernbetriebsrats, der Jugend- und Auszubildendenvertretung, der Gesamt-Jugend- und Auszubildendenvertretung, der Konzern-Jugend- und Auszubildendenvertretung, der Bordvertretung, des Seebetriebsrats, der in § 3 Abs. 1 bezeichneten Vertretungen der Arbeitnehmer, der Einigungsstelle, der in § 76 Abs. 8 bezeichneten Schlichtungsstelle, der in § 86 bezeichneten betrieblichen Beschwerdestelle oder des Wirtschaftsausschusses um seiner Tätigkeit willen oder eine Auskunftsperson nach § 80 Abs. 2 Satz 3 um ihrer Tätigkeit willen benachteiligt oder begünstigt.
+ein Mitglied oder ein Ersatzmitglied des Betriebsrats, des Gesamtbetriebsrats, des Konzernbetriebsrats, der Jugend- und Auszubildendenvertretung, der Gesamt-Jugend- und Auszubildendenvertretung, der Konzern-Jugend- und Auszubildendenvertretung, der Bordvertretung, des Seebetriebsrats, der in § 3 Abs. 1 bezeichneten Vertretungen der Arbeitnehmer, der Einigungsstelle, der in § 76 Abs. 8 bezeichneten Schlichtungsstelle, der in § 86 bezeichneten betrieblichen Beschwerdestelle oder des Wirtschaftsausschusses um seiner Tätigkeit willen oder eine Auskunftsperson nach § 80 Absatz 2 Satz 4 um ihrer Tätigkeit willen benachteiligt oder begünstigt.
 
 (2) Die Tat wird nur auf Antrag des Betriebsrats, des Gesamtbetriebsrats, des Konzernbetriebsrats, der Bordvertretung, des Seebetriebsrats, einer der in § 3 Abs. 1 bezeichneten Vertretungen der Arbeitnehmer, des Wahlvorstands, des Unternehmers oder einer im Betrieb vertretenen Gewerkschaft verfolgt.
 
@@ -1828,7 +1834,7 @@ Sachverständiger, der vom Betriebsrat nach § 80 Abs. 3 hinzugezogen oder von d
 Berater, der vom Betriebsrat nach § 111 Satz 2 hinzugezogen worden ist,
 
 3b.  
-Auskunftsperson, die dem Betriebsrat nach § 80 Abs. 2 Satz 3 zur Verfügung gestellt worden ist, oder
+Auskunftsperson, die dem Betriebsrat nach § 80 Absatz 2 Satz 4 zur Verfügung gestellt worden ist, oder
 
 4.  
 Arbeitnehmer, der vom Betriebsrat nach § 107 Abs. 3 Satz 3 oder vom Wirtschaftsausschuss nach § 108 Abs. 2 Satz 2 hinzugezogen worden ist,
