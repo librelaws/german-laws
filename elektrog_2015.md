@@ -5,12 +5,12 @@ Sonst
 Ersetzt V 2129-43 v. 16.3.2005 I 762 (ElektroG)
 
 Stand  
-Zuletzt geändert durch Art. 3 V v. 20.10.2015 I 1739
+Zuletzt geändert durch Art. 16 G v. 27.6.2017 I 1966
 
 ### 
 
 ```
-(+++ Textnachweis ab: 24.10.2015 +++)
+(+++ Textnachweis ab: 24.10.2015 +++) 
 ```
 
 Das G wurde als Artikel 1 des G v. 20.10.2015 I 1739 vom Bundestag beschlossen. Es ist gem. Art. 7 Abs. 1 Satz 1 dieses G am 24.10.2015 in Kraft getreten.
@@ -164,37 +164,25 @@ Dieses Gesetz legt Anforderungen an die Produktverantwortung nach § 23 des Krei
 
 ### § 2 Anwendungsbereich
 
-(1) Dieses Gesetz gilt für Elektro- und Elektronikgeräte, die unter eine der folgenden Kategorien fallen:
+(1) Dieses Gesetz gilt für sämtliche Elektro- und Elektronikgeräte. Sie sind in die folgenden Kategorien unterteilt:
 
 1.  
-Haushaltsgroßgeräte,
+Wärmeüberträger,
 
 2.  
-Haushaltskleingeräte,
+Bildschirme, Monitore und Geräte, die Bildschirme mit einer Oberfläche von mehr als 100 Quadratzentimetern enthalten,
 
 3.  
-Geräte der Informations- und Telekommunikationstechnik,
+Lampen,
 
 4.  
-Geräte der Unterhaltungselektronik und Photovoltaikmodule,
+Geräte, bei denen mindestens eine der äußeren Abmessungen mehr als 50 Zentimeter beträgt (Großgeräte),
 
 5.  
-Beleuchtungskörper,
+Geräte, bei denen keine der äußeren Abmessungen mehr als 50 Zentimeter beträgt (Kleingeräte), und
 
 6.  
-elektrische und elektronische Werkzeuge,
-
-7.  
-Spielzeug sowie Sport- und Freizeitgeräte,
-
-8.  
-Medizinprodukte,
-
-9.  
-Überwachungs- und Kontrollinstrumente,
-
-10.  
-automatische Ausgabegeräte.
+kleine Geräte der Informations- und Telekommunikationstechnik, bei denen keine der äußeren Abmessungen mehr als 50 Zentimeter beträgt.
 
 Elektro- und Elektronikgeräte im Sinne des Satzes 1 sind insbesondere die in Anlage 1 aufgeführten Geräte.
 
@@ -261,10 +249,13 @@ Altgeräte:Elektro- und Elektronikgeräte, die Abfall im Sinne des § 3 Absatz 1
 historische Altgeräte:
 
 a)  
-Altgeräte, die vor dem 13. August 2005 in Verkehr gebracht wurden, oder
+Altgeräte, die vor dem 13. August 2005 in Verkehr gebracht wurden,
 
 b)  
-Leuchten aus privaten Haushalten und Photovoltaikmodule, die Altgeräte sind und vor dem 24. Oktober 2015 in Verkehr gebracht wurden;
+Leuchten aus privaten Haushalten und Photovoltaikmodule, die Altgeräte sind und vor dem 24. Oktober 2015 in Verkehr gebracht wurden, oder
+
+c)  
+Altgeräte, die vor dem 15. August 2018 in Verkehr gebracht wurden, soweit sie vom Anwendungsbereich dieses Gesetzes in der Fassung vom 20. Oktober 2015 nicht erfasst waren;
 
 5.  
 Altgeräte aus privaten Haushalten:Altgeräte aus privaten Haushaltungen im Sinne des Kreislaufwirtschaftsgesetzes sowie Altgeräte aus sonstigen Herkunftsbereichen, soweit die Beschaffenheit und Menge der dort anfallenden Altgeräte mit der Beschaffenheit und Menge von üblicherweise in privaten Haushaltungen anfallenden Altgeräten vergleichbar ist; Elektro- und Elektronikgeräte, die sowohl von privaten Haushalten als auch von anderen Nutzern als privaten Haushalten genutzt werden, gelten, wenn sie Abfall werden, als Altgeräte aus privaten Haushalten;
@@ -294,7 +285,7 @@ b)
 Elektro- oder Elektronikgeräte anderer Hersteller unter ihrem eigenen Namen oder ihrer Marke im Geltungsbereich dieses Gesetzes anbietet oder gewerbsmäßig weiterverkauft, wobei der Anbieter oder Weiterverkäufer dann nicht als Hersteller anzusehen ist, wenn der Name oder die Marke des Herstellers gemäß Buchstabe a auf dem Gerät erscheint,
 
 c)  
-erstmals aus einem anderen Mitgliedstaat der Europäischen Union oder aus einem Drittland stammende Elektro-oder Elektronikgeräte auf dem Markt im Geltungsbereich dieses Gesetzes anbietet oder
+erstmals aus einem anderen Mitgliedstaat der Europäischen Union oder aus einem Drittland stammende Elektro- oder Elektronikgeräte auf dem Markt im Geltungsbereich dieses Gesetzes anbietet oder
 
 d)  
 Elektro- oder Elektronikgeräte unter Verwendung von Fernkommunikationsmitteln direkt Endnutzern im Geltungsbereich dieses Gesetzes anbietet und in einem anderen Mitgliedstaat der Europäischen Union oder einem Drittland niedergelassen ist;
@@ -423,7 +414,7 @@ die Teilnahme an Systemen, die für die Finanzierung der Entsorgung von Altgerä
 
 Eine Bürgschaft oder Garantie auf erstes Anfordern kann auch formularmäßig übernommen werden, ohne dass dadurch gegen die §§ 305 bis 310 des Bürgerlichen Gesetzbuchs verstoßen wird.
 
-(3) Absatz 1 gilt nicht für Elektro- oder Elektronikgeräte, für die der Hersteller oder im Fall der Bevollmächtigung nach § 8 dessen Bevollmächtigter glaubhaft macht, dass sie ausschließlich in anderen als privaten Haushalten genutzt werden oder dass solche Geräte gewöhnlich nicht in privaten Haushalten genutzt werden. Die Pflicht nach Absatz 1 gilt für Hersteller von Elektro- und Elektronikgeräten, die nicht vom Anwendungsbereich des Elektro- und Elektronikgerätegesetzes vom 16. März 2005 (BGBl. I S. 762), das zuletzt durch Artikel 14 des Gesetzes vom 20. September 2013 (BGBl. I S. 3642) geändert worden ist, erfasst waren, oder im Fall der Bevollmächtigung nach § 8 für ihre Bevollmächtigten nur in Bezug auf Geräte, die nach dem 24. Oktober 2015 in Verkehr gebracht wurden oder werden.
+(3) Absatz 1 gilt nicht für Elektro- oder Elektronikgeräte, für die der Hersteller oder im Fall der Bevollmächtigung nach § 8 dessen Bevollmächtigter glaubhaft macht, dass sie ausschließlich in anderen als privaten Haushalten genutzt werden oder dass solche Geräte gewöhnlich nicht in privaten Haushalten genutzt werden. Die Pflicht nach Absatz 1 gilt für Hersteller von Elektro- und Elektronikgeräten, die nicht vom Anwendungsbereich des Elektro- und Elektronikgerätegesetzes vom 16. März 2005 (BGBl. I S. 762), das zuletzt durch Artikel 14 des Gesetzes vom 20. September 2013 (BGBl. I S. 3642) geändert worden ist, erfasst waren, oder im Fall der Bevollmächtigung nach § 8 für ihre Bevollmächtigten nur in Bezug auf Geräte, die nach dem 24. Oktober 2015 in Verkehr gebracht wurden oder werden. Für Hersteller von Elektro- und Elektronikgeräten, die ab dem 15. August 2018 in den Anwendungsbereich dieses Gesetzes fallen, oder im Fall der Bevollmächtigung nach § 8 deren Bevollmächtigte gilt Absatz 1 in Bezug auf Geräte, die nach diesem Zeitpunkt in Verkehr gebracht werden.
 
 (4) Der Hersteller darf die Kosten für die Entsorgung von Elektro- und Elektronikgeräten gegenüber dem Endkunden nicht ausweisen.
 
@@ -489,35 +480,35 @@ Die Erfassung von Altgeräten aus privaten Haushalten darf nur von öffentlich-r
 
 (4) Bei der Anlieferung von Altgeräten darf kein Entgelt erhoben werden.
 
-(5) Die öffentlich-rechtlichen Entsorgungsträger können die kostenlose Annahme von Altgeräten ablehnen, die auf Grund einer Verunreinigung eine Gefahr für die Gesundheit und Sicherheit von Menschen darstellen. Satz 1 gilt insbesondere, sofern asbesthaltige Nachtspeicherheizgeräte nicht ordnungsgemäß durch Fachpersonal abgebaut und verpackt wurden oder beschädigt beim öffentlich-rechtlichen Entsorgungsträger angeliefert werden. Bei Anlieferungen von mehr als 20 Geräten der Gruppen 1, 2 und 6 nach § 14 Absatz 1 Satz 1 sind Anlieferungsort und -zeitpunkt vorab mit dem öffentlich-rechtlichen Entsorgungsträger abzustimmen. Die Überlassungspflichten privater Haushaltungen nach § 17 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes und die Entsorgungspflichten der öffentlich-rechtlichen Entsorgungsträger für Abfälle aus privaten Haushaltungen nach § 20 Absatz 1 und 2 des Kreislaufwirtschaftsgesetzes bleiben von den Sätzen 1 und 2 unberührt.
+(5) Die öffentlich-rechtlichen Entsorgungsträger können die kostenlose Annahme von Altgeräten ablehnen, die auf Grund einer Verunreinigung eine Gefahr für die Gesundheit und Sicherheit von Menschen darstellen. Satz 1 gilt insbesondere, sofern asbesthaltige Nachtspeicherheizgeräte nicht ordnungsgemäß durch Fachpersonal abgebaut und verpackt wurden oder beschädigt beim öffentlich-rechtlichen Entsorgungsträger angeliefert werden. Bei Anlieferungen von mehr als 20 Geräten der Gruppen 1, 4 und 6 nach § 14 Absatz 1 Satz 1 sind Anlieferungsort und -zeitpunkt vorab mit dem öffentlich-rechtlichen Entsorgungsträger abzustimmen. Die Überlassungspflichten privater Haushaltungen nach § 17 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes und die Entsorgungspflichten der öffentlich-rechtlichen Entsorgungsträger für Abfälle aus privaten Haushaltungen nach § 20 Absatz 1 und 2 des Kreislaufwirtschaftsgesetzes bleiben von den Sätzen 1 und 2 unberührt.
 
 ### § 14 Bereitstellen der abzuholenden Altgeräte durch die öffentlich-rechtlichen Entsorgungsträger
 
 (1) Die öffentlich-rechtlichen Entsorgungsträger stellen die von den Herstellern oder im Fall der Bevollmächtigung nach § 8 von deren Bevollmächtigten abzuholenden Altgeräte an von ihnen eingerichteten Übergabestellen in folgenden Gruppen in geeigneten Behältnissen unentgeltlich bereit:
 
 1.  
-Gruppe 1: Haushaltsgroßgeräte, automatische Ausgabegeräte,
+Gruppe 1: Wärmeüberträger,
 
 2.  
-Gruppe 2: Kühlgeräte, ölgefüllte Radiatoren,
+Gruppe 2: Bildschirme, Monitore und Geräte, die Bildschirme mit einer Oberfläche von mehr als 100 Quadratzentimetern enthalten,
 
 3.  
-Gruppe 3: Bildschirme, Monitore und TV-Geräte,
+Gruppe 3: Lampen,
 
 4.  
-Gruppe 4: Lampen,
+Gruppe 4: Großgeräte,
 
 5.  
-Gruppe 5: Haushaltskleingeräte, Informations- und Telekommunikationsgeräte, Geräte der Unterhaltungselektronik, Leuchten und sonstige Beleuchtungskörper sowie Geräte für die Ausbreitung oder Steuerung von Licht, elektrische und elektronische Werkzeuge, Spielzeuge, Sport- und Freizeitgeräte, Medizinprodukte, Überwachungs- und Kontrollinstrumente und
+Gruppe 5: Kleingeräte und kleine Geräte der Informations- und Telekommunikationstechnik,
 
 6.  
 Gruppe 6: Photovoltaikmodule.
 
-In der Gruppe 1 sind Nachtspeicherheizgeräte, die Asbest oder sechswertiges Chrom enthalten, und in der Gruppe 5 batteriebetriebene Altgeräte getrennt von den anderen Altgeräten in einem eigenen Behältnis zu sammeln.
+In der Gruppe 4 sind Nachtspeicherheizgeräte, die Asbest oder sechswertiges Chrom enthalten, und in den Gruppen 2, 4 und 5 batteriebetriebene Altgeräte getrennt von den anderen Altgeräten in einem eigenen Behältnis zu sammeln.
 
 (2) Die Behältnisse müssen so befüllt werden, dass ein Zerbrechen der Altgeräte möglichst vermieden wird. Die Altgeräte dürfen in den Behältnissen nicht mechanisch verdichtet werden.
 
-(3) Die öffentlich-rechtlichen Entsorgungsträger melden der Gemeinsamen Stelle die zur Abholung bereitstehenden Behältnisse, wenn bei den Gruppen 1 bis 3 und 5 eine Abholmenge von mindestens 30 Kubikmetern pro Gruppe, bei Nachtspeicherheizgeräten der Gruppe 1 und bei batteriebetriebenen Altgeräten der Gruppe 5 eine Abholmenge von mindestens fünf Kubikmetern, bei der Gruppe 4 eine Abholmenge von mindestens drei Kubikmetern und bei der Gruppe 6 eine Abholmenge von mindestens zweieinhalb Kubikmetern erreicht ist. Wenn bei der Gruppe 1 ein Behältnis mit Nachtspeicherheizgeräten zur Abholung bereitgestellt wird, ist dies der Gemeinsamen Stelle bei der Meldung nach Satz 1 mitzuteilen.
+(3) Die öffentlich-rechtlichen Entsorgungsträger melden der Gemeinsamen Stelle die zur Abholung bereitgestellten Behältnisse, wenn bei den Gruppen 1, 2, 4 und 5 eine Abholmenge von mindestens 30 Kubikmetern pro Gruppe, bei Nachtspeicherheizgeräten in der Gruppe 4 und bei batteriebetriebenen Altgeräten der Gruppen 2, 4 und 5 eine Abholmenge von mindestens fünf Kubikmetern, bei der Gruppe 3 eine Abholmenge von mindestens drei Kubikmetern und bei der Gruppe 6 eine Abholmenge von mindestens zweieinhalb Kubikmetern erreicht ist. Wenn bei der Gruppe 4 ein Behältnis mit Nachtspeicherheizgeräten zur Abholung bereitgestellt wird, ist dies der Gemeinsamen Stelle bei der Meldung nach Satz 1 mitzuteilen.
 
 (4) An der Sammelstelle sind eine Separierung von Altgeräten, eine nachträgliche Entnahme aus den Behältnissen sowie die Entfernung von Bauteilen aus oder von den Altgeräten unzulässig. Eine Veränderung des Inhalts der Behältnisse bis zum Eintreffen bei der Erstbehandlungsanlage ist unzulässig. Absatz 1 Satz 2 bleibt von dem Verbot nach Satz 1 unberührt.
 
@@ -527,7 +518,7 @@ In der Gruppe 1 sind Nachtspeicherheizgeräte, die Asbest oder sechswertiges Chr
 
 (1) Die Hersteller oder im Fall der Bevollmächtigung nach § 8 deren Bevollmächtigte müssen die Behältnisse nach § 14 unentgeltlich aufstellen und abdecken. Satz 1 gilt nicht im Fall des § 14 Absatz 5. Die öffentlich-rechtlichen Entsorgungsträger können das Aufstellen nicht abdeckbarer Behältnisse ablehnen und melden die Ablehnung der zuständigen Behörde. In diesem Fall gilt das Behältnis als nicht aufgestellt.
 
-(2) Die Behältnisse, außer denen für die Gruppen 4 und 6, müssen für die Aufnahme durch herkömmliche Abholfahrzeuge geeignet sein; Absatz 6 bleibt unberührt.
+(2) Die Behältnisse, außer denen für die Gruppen 3 und 6, müssen für die Aufnahme durch herkömmliche Abholfahrzeuge geeignet sein; Absatz 6 bleibt unberührt.
 
 (3) Die Behältnisse müssen so beschaffen sein, dass die dort enthaltenen Altgeräte bruchsicher gesammelt werden können.
 
@@ -557,7 +548,7 @@ In der Gruppe 1 sind Nachtspeicherheizgeräte, die Asbest oder sechswertiges Chr
 bei der Abgabe eines neuen Elektro- oder Elektronikgerätes an einen Endnutzer ein Altgerät des Endnutzers der gleichen Geräteart, das im Wesentlichen die gleichen Funktionen wie das neue Gerät erfüllt, am Ort der Abgabe oder in unmittelbarer Nähe hierzu unentgeltlich zurückzunehmen, und
 
 2.  
-Altgeräte, die in keiner äußeren Abmessung größer als 25 Zentimeter sind, in haushaltsüblichen Mengen entweder im Einzelhandelsgeschäft oder in unmittelbarer Nähe hierzu unentgeltlich zurückzunehmen; die Rücknahme darf nicht an den Kauf eines Elektro- oder Elektronikgerätes geknüpft werden.
+auf Verlangen des Endnutzers Altgeräte, die in keiner äußeren Abmessung größer als 25 Zentimeter sind, im Einzelhandelsgeschäft oder in unmittelbarer Nähe hierzu unentgeltlich zurückzunehmen; die Rücknahme darf nicht an den Kauf eines Elektro- und Elektronikgerätes geknüpft werden und ist auf fünf Altgeräte pro Geräteart beschränkt.
 
 Ort der Abgabe im Sinne von Satz 1 Nummer 1 ist auch der private Haushalt, sofern dort durch Auslieferung die Abgabe erfolgt. Der Endnutzer hat dem Vertreiber beim Abschluss des Kaufvertrages für das neue Elektro- und Elektronikgerät seine Absicht mitzuteilen, bei der Auslieferung des neuen Geräts ein Altgerät zurückzugeben.
 
@@ -678,7 +669,7 @@ auf Grund wasserrechtlicher Vorschriften von Sachverständigen im Rahmen der Üb
 (1) Altgeräte sind so zu behandeln, dass
 
 1.  
-bei Altgeräten der Kategorien 1 und 10
+bei Altgeräten der Kategorien 1 und 4
 
 a)  
 der Anteil der Verwertung mindestens 85 Prozent beträgt und
@@ -687,7 +678,7 @@ b)
 der Anteil der Vorbereitung zur Wiederverwendung und des Recyclings mindestens 80 Prozent beträgt,
 
 2.  
-bei Altgeräten der Kategorie 3 und 4
+bei Altgeräten der Kategorie 2
 
 a)  
 der Anteil der Verwertung mindestens 80 Prozent beträgt und
@@ -696,7 +687,7 @@ b)
 der Anteil der Vorbereitung zur Wiederverwendung und des Recyclings mindestens 70 Prozent beträgt,
 
 3.  
-bei Altgeräten der Kategorien 2 und 5 bis 9
+bei Altgeräten der Kategorien 5 und 6
 
 a)  
 der Anteil der Verwertung mindestens 75 Prozent beträgt und
@@ -705,7 +696,7 @@ b)
 der Anteil der Vorbereitung zur Wiederverwendung und des Recyclings mindestens 55 Prozent beträgt und
 
 4.  
-bei Gasentladungslampen der Anteil des Recyclings mindestens 80 Prozent beträgt.
+bei Altgeräten der Kategorie 3 der Anteil des Recyclings mindestens 80 Prozent beträgt.
 
 (2) Der nach Absatz 1 jeweils geforderte Anteil wird dadurch berechnet, dass für jede Gerätekategorie das Gewicht der Altgeräte, die nach ordnungsgemäßer Erstbehandlung der Verwertungsanlage zugeführt werden, durch das Gewicht aller getrennt erfassten Altgeräte dieser Gerätekategorie geteilt wird. Vorbereitende Maßnahmen einschließlich Sortierung und Lagerung vor der Verwertung bleiben im Hinblick auf die Berechnung der Anteile nach Absatz 1 unberücksichtigt.
 
@@ -952,7 +943,7 @@ seinem Anteil am Gesamtgewicht von Elektro- und Elektronikgeräten pro Gerätear
 
 (6) Die Grundlage für die Berechnung sind die Mitteilungen der Hersteller oder im Fall der Bevollmächtigung nach § 8 deren Bevollmächtigter nach § 27 Absatz 1 Satz 1 Nummer 1 und Absatz 3 Satz 1 bis 4. Dabei sind die nach § 27 Absatz 1 Satz 1 Nummer 2 mitgeteilten Mengen zu berücksichtigen. Berichtigungen der Mitteilungen nach § 27 Absatz 1 Satz 1 Nummer 1 und 2 werden berücksichtigt. Kommt der Hersteller seiner Meldepflicht nicht nach, kann die Gemeinsame Stelle die Menge seiner in Verkehr gebrachten Elektro- und Elektronikgeräte schätzen. Das Gewicht der von einem Hersteller oder im Fall der Bevollmächtigung nach § 8 dessen Bevollmächtigtem nach § 27 Absatz 1 Satz 1 Nummer 4 zurückgenommenen Altgeräte derjenigen Gerätearten, für die eine Garantie nach § 7 Absatz 1 nachzuweisen ist, wird auf seinen jeweiligen Anteil nach Absatz 5 Satz 2 oder 3 angerechnet. Satz 3 gilt entsprechend. Die Gemeinsame Stelle kann der zuständigen Behörde die von einzelnen Herstellern oder im Fall der Bevollmächtigung nach § 8 deren Bevollmächtigten nach § 27 Absatz 1 Satz 1 Nummer 2 und 4 mitgeteilten Mengen zur Entscheidung über die Berücksichtigung oder Anrechnung im Sinne der Sätze 2 und 5 vorlegen. Für nicht sortier- oder identifizierbare Altgeräte gilt Absatz 5 Satz 2 entsprechend.
 
-(7) Die Gemeinsame Stelle berechnet die zeitlich und örtlich gleichmäßige Verteilung der Abholpflicht auf alle registrierten Hersteller und Bevollmächtigten auf der Basis einer wissenschaftlich anerkannten Berechnungsweise, die durch ein Gutachten eines unabhängigen Sachverständigen bestätigt wurde. Die Berechnungsweise ist im Internet zu veröffentlichen. Die Gemeinsame Stelle meldet der zuständigen Behörde die ermittelte Abholpflicht sowie das in der Gruppe 1 zur Abholung bereitgestellte Behältnis mit Nachtspeicherheizgeräten.
+(7) Die Gemeinsame Stelle berechnet die zeitlich und örtlich gleichmäßige Verteilung der Abholpflicht auf alle registrierten Hersteller und Bevollmächtigten auf der Basis einer wissenschaftlich anerkannten Berechnungsweise, die durch ein Gutachten eines unabhängigen Sachverständigen bestätigt wurde. Die Berechnungsweise ist im Internet zu veröffentlichen. Die Gemeinsame Stelle meldet der zuständigen Behörde die ermittelte Abholpflicht sowie das in der Gruppe 4 zur Abholung bereitgestellte Behältnis mit Nachtspeicherheizgeräten.
 
 (8) Die Absätze 5 bis 7 gelten für die Berechnung der Verpflichtung zum Aufstellen von neuen Behältnissen nach § 15 Absatz 4 Satz 1 entsprechend.
 
@@ -1134,7 +1125,7 @@ die Anzeigen und Übermittlungen der Betreiber von Erstbehandlungsanlagen nach �
 
 Für diese Meldungen und Anzeigen gilt § 37 Absatz 3 Satz 1 bis 4 entsprechend. Die zuständige Behörde teilt die Meldungen und Anzeigen der Gemeinsamen Stelle mit. Die Mitteilungen der zuständigen Behörde an die Gemeinsame Stelle sollen den Formatvorgaben nach § 33 Absatz 1 Satz 4 entsprechen. Die zuständige Behörde prüft die Anzeigen nach § 25 Absatz 1 Satz 3 auf Plausibilität, insbesondere im Hinblick auf die Zuständigkeit des öffentlich-rechtlichen Entsorgungsträgers.
 
-(3) Erhält die zuständige Behörde eine Meldung der Gemeinsamen Stelle nach § 31 Absatz 7 Satz 3, trifft sie die im Einzelfall erforderlichen Anordnungen zur Sicherstellung der Erfüllung der Pflichten nach § 16 Absatz 1; hierbei berücksichtigt sie die von ihr geprüften Berechnungen der Gemeinsamen Stelle nach § 31 Absatz 5 bis 7. Erfolgt die Abholung nicht bis zur von der zuständigen Behörde festgesetzten Frist, gilt eine Nachfrist bis zum Ablauf des folgenden Werktages. Bei der Zuweisung informiert sie den jeweiligen verpflichteten Hersteller oder dessen Bevollmächtigten über die Bereitstellung eines Behältnisses für Nachtspeicherheizgeräte in der Gruppe 1.
+(3) Erhält die zuständige Behörde eine Meldung der Gemeinsamen Stelle nach § 31 Absatz 7 Satz 3, trifft sie die im Einzelfall erforderlichen Anordnungen zur Sicherstellung der Erfüllung der Pflichten nach § 16 Absatz 1; hierbei berücksichtigt sie die von ihr geprüften Berechnungen der Gemeinsamen Stelle nach § 31 Absatz 5 bis 7. Erfolgt die Abholung nicht bis zur von der zuständigen Behörde festgesetzten Frist, gilt eine Nachfrist bis zum Ablauf des folgenden Werktages. Bei der Zuweisung informiert sie den jeweiligen verpflichteten Hersteller oder dessen Bevollmächtigten über die Bereitstellung eines Behältnisses für Nachtspeicherheizgeräte in der Gruppe 4.
 
 (4) Die zuständige Behörde entscheidet auf Vorlage der Gemeinsamen Stelle nach § 31 Absatz 6 Satz 7 gegenüber dem Hersteller oder im Fall der Bevollmächtigung nach § 8 dessen Bevollmächtigten über die Berücksichtigung oder Anrechnung mitgeteilter Mengen bei der Berechnung nach § 31 Absatz 5.
 
@@ -1242,208 +1233,158 @@ entgegen § 16 Absatz 2 oder § 17 Absatz 5 Satz 1 jeweils in Verbindung mit § 
 13.  
 entgegen § 16 Absatz 3 ein leeres Behältnis nicht oder nicht rechtzeitig aufstellt,
 
+13a.  
+entgegen § 17 Absatz 1 Satz 1 Nummer 1 oder 2 erster Halbsatz ein Altgerät nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zurücknimmt,
+
 14.  
 entgegen § 21 Absatz 1 ohne Zertifizierung eine Erstbehandlung durchführt oder
 
 15.  
 entgegen § 27 Absatz 1, § 29 Absatz 1 oder § 30 Absatz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 bis 9 und 12 mit einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 bis 9, 12 und 13a mit einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 Nummer 1 bis 5, 7, 10, 13 und 15 das Umweltbundesamt. Für die Zusammenarbeit und den Informationsaustausch mit anderen Behörden, die Sanktionen im Sinne von Artikel 22 der Richtlinie 2012/19/EU verhängen oder Inspektionen und Überwachungen im Sinne von Artikel 23 der Richtlinie 2012/19/EU durchführen, gelten die §§ 8a bis 8e des Verwaltungsverfahrensgesetzes. Zur Zusammenarbeit und zum Informationsaustausch gehört auch die Gewährung des Zugangs zu den einschlägigen Unterlagen und Informationen über die Ergebnisse von Inspektionen. Für die Verwaltungszusammenarbeit und den Informationsaustausch sind auch elektronische Kommunikationsmittel zu nutzen.
 
-(4) In den Fällen des Absatzes 3 Satz 1 fließen auch die im gerichtlichen Verfahren angeordneten Geldbußen und die Geldbeträge, deren Verfall gerichtlich angeordnet wurde, derjenigen Bundeskasse zu, die auch die der Staatskasse auferlegten Kosten trägt.
+(4) In den Fällen des Absatzes 3 Satz 1 fließen auch die im gerichtlichen Verfahren angeordneten Geldbußen und die Geldbeträge, deren Einziehung nach § 29a des Gesetzes über Ordnungswidrigkeiten gerichtlich angeordnet wurde, derjenigen Bundeskasse zu, die auch die der Staatskasse auferlegten Kosten trägt.
 
 ### § 46 Übergangsvorschriften
 
-(1) Unbeschadet der Regelung in § 2 Absatz 1 registriert die zuständige Behörde Hersteller von Elektro- und Elektronikgeräten, soweit sie vom Anwendungsbereich dieses Gesetzes nach § 2 Absatz 1 nicht erfasst sind, oder im Fall der Bevollmächtigung nach § 8 die Bevollmächtigten solcher Hersteller auf deren Antrag gemäß § 37 Absatz 1 mit Wirkung zum 15. August 2018.
+(1) (weggefallen)
 
-(2) Abweichend von § 6 Absatz 2 Satz 1 dürfen Hersteller, die am 24. Oktober 2015 registriert sind, Elektro- und Elektronikgeräte entsprechend dieser Registrierung bis zum 24. Oktober 2017 in Verkehr bringen, sofern eine Neuzuordnung der Geräte zu den Gerätearten erfolgt, der Hersteller sich dadurch ab dem 1. Februar 2016 mit einer weiteren oder anderen Geräteart als zuvor registrieren lassen muss, und bis zum 24. Januar 2016 bei der zuständigen Behörde einen Antrag auf Registrierung gestellt hat. § 37 Absatz 5 bleibt unberührt.
+(2) Abweichend von § 6 Absatz 2 Satz 1 dürfen Hersteller, die am 15. August 2018 registriert sind, Elektro- und Elektronikgeräte entsprechend dieser Registrierung bis zum 1. Januar 2019 in Verkehr bringen, sofern eine Neuzuordnung der Geräte zu den Gerätearten erfolgt, der Hersteller sich dadurch ab dem 1. Dezember 2018 mit einer weiteren oder anderen Geräteart als zuvor registrieren lassen muss, und bis zum 15. November 2018 bei der zuständigen Behörde einen Antrag auf Registrierung gestellt hat. § 37 Absatz 5 bleibt unberührt.
 
 (3) Abweichend von § 7 Absatz 1 Satz 2 und Absatz 2 genügen vor dem 24. Oktober 2015 nachgewiesene Garantien für die Finanzierung und Entsorgung solcher Elektro- und Elektronikgeräte, die vor dem 24. Oktober 2015 in Verkehr gebracht wurden oder voraussichtlich bis 31. Dezember 2015 in Verkehr gebracht werden, als Nachweis einer Garantie im Sinne des § 7 Absatz 1 Satz 1.
 
 (4) Hersteller, die nicht im Geltungsbereich dieses Gesetzes niedergelassen sind, aber bereits vor Inkrafttreten dieses Gesetzes bei der zuständigen Behörde registriert sind, müssen innerhalb von sechs Monaten nach Inkrafttreten dieses Gesetzes eine Niederlassung im Geltungsbereich dieses Gesetzes einrichten oder einen Bevollmächtigten nach § 8 benennen.
 
-(5) § 14 Absatz 1 gilt erst ab dem 1. Februar 2016. Bis zum Ablauf des 31. Januar 2016 gilt § 9 Absatz 4 Satz 1 des Elektro- und Elektronikgerätegesetzes vom 16. März 2005.
+(5) § 14 Absatz 1 gilt erst ab dem 1. Dezember 2018. Bis zum Ablauf des 30. November 2018 gilt § 14 Absatz 1 dieses Gesetzes in der Fassung vom 20. Oktober 2015.
 
-(6) Abweichend von § 25 Absatz 1 Satz 3 kann ein öffentlich-rechtlicher Entsorgungsträger die Absicht der Optierung nach § 14 Absatz 5 Satz 1 drei Monate vor Beginn der eigenverantwortlichen Entsorgung anzeigen, jedoch spätestens bis zum 1. Februar 2016. Soweit ein öffentlich-rechtlicher Entsorgungsträger am 24. Oktober 2015 der Gemeinsamen Stelle nach § 9 Absatz 6 Satz 1 des Elektro- und Elektronikgerätegesetzes vom 16. März 2005 angezeigt hat, die gesamten Altgeräte einer Gruppe nach § 9 Absatz 4 des Elektro- und Elektronikgerätegesetzes vom 16. März 2005 für einen Zeitraum nach dem 24. Oktober 2015 von der Bereitstellung zur Abholung auszunehmen, gilt dies als Anzeige der Absicht der Optierung nach § 14 Absatz 5 Satz 1 für die Gruppe nach § 14 Absatz 1 Satz 1, die nach ihrer Nummer der Gruppe nach § 9 Absatz 4 des Elektro- und Elektronikgerätegesetzes vom 16. März 2005 entspricht, auf die sich die Anzeige nach § 9 Absatz 6 Satz 1 des Elektro- und Elektronikgerätegesetzes vom 16. März 2005 bezogen hat.
+(6) Soweit ein öffentlich-rechtlicher Entsorgungsträger am 15. August 2018 der zuständigen Behörde angezeigt hat, die gesamten Altgeräte einer Gruppe nach § 14 Absatz 1 dieses Gesetzes in der Fassung vom 20. Oktober 2015 von der Bereitstellung zur Abholung auszunehmen, gilt dies ab dem 1. Dezember 2018 als Anzeige der Absicht der Optierung nach § 14 Absatz 5 Satz 1
+
+1.  
+für die Gruppe 1, soweit die Absicht der Optierung im Hinblick auf Gruppe 2 nach § 14 Absatz 1 dieses Gesetzes in der Fassung vom 20. Oktober 2015,
+
+2.  
+für die Gruppe 2, soweit die Absicht der Optierung im Hinblick auf Gruppe 3 nach § 14 Absatz 1 dieses Gesetzes in der Fassung vom 20. Oktober 2015,
+
+3.  
+für die Gruppe 3, soweit die Absicht der Optierung im Hinblick auf Gruppe 4 nach § 14 Absatz 1 dieses Gesetzes in der Fassung vom 20. Oktober 2015,
+
+4.  
+für die Gruppe 4, soweit die Absicht der Optierung im Hinblick auf Gruppe 1 nach § 14 Absatz 1 dieses Gesetzes in der Fassung vom 20. Oktober 2015,
+
+5.  
+für die Gruppe 5, soweit die Absicht der Optierung im Hinblick auf Gruppe 5 nach § 14 Absatz 1 dieses Gesetzes in der Fassung vom 20. Oktober 2015 und
+
+6.  
+für die Gruppe 6, soweit die Absicht der Optierung im Hinblick auf Gruppe 6 nach § 14 Absatz 1 dieses Gesetzes in der Fassung vom 20. Oktober 2015
+
+angezeigt ist. Der öffentlich-rechtliche Entsorger kann bis zum Ablauf des 15. November 2018 der zuständigen Behörde anzeigen, im Hinblick auf welche andere Gruppe nach § 14 Absatz 1 die Optierung ab dem 1. Dezember 2018 als angezeigt gelten soll.
 
 (7) Vertreiber oder Hersteller, die bereits nach § 9 Absatz 7 oder 8 des Elektro- und Elektronikgerätegesetzes vom 16. März 2005 Altgeräte freiwillig zurücknehmen, müssen die Anzeige nach § 25 Absatz 2 oder 3 innerhalb von drei Monaten nach Inkrafttreten dieses Gesetzes erstatten. Vertreiber, die nach § 17 Absatz 1 und 2 zur Rücknahme verpflichtet sind, müssen die Rücknahmestellen innerhalb von neun Monaten nach Inkrafttreten dieses Gesetzes einrichten und gemäß § 25 Absatz 3 anzeigen. Betreiber von Erstbehandlungsanlagen, in denen zum Zeitpunkt des Inkrafttretens dieses Gesetzes eine Erstbehandlung bereits durchgeführt wird, müssen die Anzeige nach § 25 Absatz 4 innerhalb von drei Monaten nach Inkrafttreten dieses Gesetzes erstatten.
 
-(8) In den Fällen des Absatzes 1 oder des Absatzes 9 kann die zuständige Behörde bei der Ermittlung der Abhol- und Aufstellungspflicht gemäß § 31 Absatz 5 bis 7 Schätzungen entsprechend § 31 Absatz 6 Satz 4 vornehmen, sofern noch keine entsprechenden Meldepflichten des Herstellers oder im Fall der Bevollmächtigung nach § 8 dessen Bevollmächtigten bestehen. Bei der Ermittlung der Abhol- und Aufstellungspflicht bleiben ab dem 1. Februar 2016 vorangegangene Abhol- und Aufstellungspflichten außer Betracht, soweit sie im Hinblick auf die Gruppen nach § 9 Absatz 4 Satz 1 Nummer 2 bis 5 des Elektro- und Elektronikgerätegesetzes vom 16. März 2005 ermittelt worden sind.
+(8) In den Fällen des Absatzes 1 oder des Absatzes 9 kann die zuständige Behörde bei der Ermittlung der Abhol- und Aufstellungspflicht gemäß § 31 Absatz 5 bis 7 Schätzungen entsprechend § 31 Absatz 6 Satz 4 vornehmen, sofern noch keine entsprechenden Meldepflichten des Herstellers oder im Fall der Bevollmächtigung nach § 8 dessen Bevollmächtigten bestehen. Bei der Ermittlung der Abhol- und Aufstellungspflicht bleiben ab dem 1. Februar 2016 vorangegangene Abhol- und Aufstellungspflichten außer Betracht, soweit sie im Hinblick auf die Gruppen nach § 9 Absatz 4 Satz 1 Nummer 2 bis 5 des Elektro- und Elektronikgerätegesetzes vom 16. März 2005 ermittelt worden sind. Satz 2 gilt für die Gruppen nach § 14 Absatz 1 Nummer 1, 3 und 5 dieses Gesetzes in der Fassung vom 20. Oktober 2015 im Hinblick auf die vor dem 1. Dezember 2018 ermittelten Abhol- und Aufstellungspflichten entsprechend.
 
 (9) Die Vorschriften dieses Gesetzes im Hinblick auf Leuchten aus privaten Haushalten und Photovoltaikmodulen gelten erst ab dem 1. Februar 2016. Unbeschadet der Regelung in Satz 1 registriert die zuständige Behörde Hersteller von Leuchten aus privaten Haushalten oder Photovoltaikmodulen oder die Bevollmächtigten solcher Hersteller auf deren Antrag gemäß § 37 Absatz 1 mit Wirkung zum 1. Februar 2016.
 
 ### Anlage 1 (zu § 2 Absatz 1)
 
-(Fundstelle: BGBl. I 2015, 1760 - 1761)
+(Fundstelle: BGBl. I 2015, 1771)
 
 Nicht abschließende Liste mit
 Elektro- und Elektronikgeräten, die unter die Gerätekategorien des § 2 Absatz 1 fallen
 
 **1.**  
-**Haushaltsgroßgeräte**große Kühlgeräte
-Kühlschränke
+**Wärmeüberträger**Kühlschränke
 Gefriergeräte
-sonstige Großgeräte zur Kühlung, Konservierung
- und Lagerung von Lebensmitteln
-Waschmaschinen
+Geräte zur automatischen Abgabe von Kaltprodukten
+Klimageräte
+Entfeuchter
+Wärmepumpen
+Wärmepumpentrockner
+ölgefüllte Radiatoren
+sonstige Wärmeüberträger, bei denen andere
+Flüssigkeiten als Wasser für die Wärmeübertragung verwendet werden
+
+**2.**  
+**Bildschirme, Monitore und Geräte, die Bildschirme mit einer Oberfläche von mehr als 100 Quadratzentimeter enthalten**Bildschirme
+Fernsehgeräte
+LCD-Fotorahmen
+Monitore
+Laptops
+Notebooks
+
+**3.**  
+**Lampen**stabförmige Leuchtstofflampen
+Kompaktleuchtstofflampen
+Leuchtstofflampen
+Entladungslampen (einschließlich Hochdruck-Natriumdampflampen und Metalldampflampen)
+Niederdruck-Natriumdampflampen
+LED-Lampen
+
+**4.**  
+**Großgeräte**Waschmaschinen
 Wäschetrockner
 Geschirrspüler
 Elektroherde und -backöfen
 Elektrokochplatten
-elektrische Heizplatten
-Mikrowellengeräte
-sonstige elektrische oder elektronische Großgeräte
- zum Kochen oder zur sonstigen Verarbeitung von
- Lebensmitteln
-elektrische Heizgeräte
-elektrische Heizkörper
-Nachtspeicherheizgeräte
-ölgefüllte Radiatoren
-sonstige elektrische oder elektronische Großgeräte
- zum Beheizen von Räumen, Betten und Sitzmöbeln
-elektrische Ventilatoren
-Klimageräte
-sonstige Belüftungs-, Entlüftungs- und Klimatisie-
- rungsgeräte
-
-**2.**  
-**Haushaltskleingeräte**Staubsauger
-Teppichkehrmaschinen
-sonstige Reinigungsgeräte
-Geräte zum Nähen, Stricken, Weben oder zur sons-
- tigen Bearbeitung von Textilien
-Bügeleisen und sonstige Geräte zum Bügeln, Man-
- geln oder zur sonstigen Pflege von Kleidung
-Toaster
-Fritteusen
-Wasserkocher
-elektrische oder elektronische Mühlen, Kaffeema-
- schinen und Geräte zum Öffnen und Verschließen
- von Behältnissen und Verpackungen
-elektrische Messer
-Haarschneidegeräte, Haartrockner, elektrische
- Zahnbürsten, Rasierapparate, Massagegeräte
- und sonstige Geräte für die Körperpflege
-elektrische oder elektronische Wecker, Armband-
- uhren und Geräte zum Messen, Anzeigen oder
- Aufzeichnen der Zeit
-elektrische oder elektronische Waagen
-
-**3.**  
-**Geräte der Informations- und Telekommunikationstechnik**Zentrale Datenverarbeitung:Großrechner
-Minicomputer
-DruckerPC-Bereich:PCs (einschließlich CPU, Maus, Bildschirm und
- Tastatur)
-Laptops (einschließlich CPU, Maus, Bildschirm und
- Tastatur)
-Notebooks
-elektronische Notizbücher
-Drucker
+Leuchten
+Ton- oder Bildwiedergabegeräte
+Musikausrüstung (mit Ausnahme von Kirchenorgeln)
+Geräte zum Stricken und Weben
+Großrechner
+Großdrucker
 Kopiergeräte
-elektrische und elektronische Schreibmaschinen
-Taschen- und Tischrechner
-sonstige Produkte und Geräte zur Erfassung,
- Speicherung, Verarbeitung, Darstellung oder
- Übermittlung von Informationen mit elektronischen
- MittelnBenutzerendgeräte und -systeme:Faxgeräte
-Telexgeräte
-Telefone
-Münz- und Kartentelefone
-schnurlose Telefone
-Mobiltelefone
-Anrufbeantworter
-sonstige Produkte oder Geräte zur Übertragung
- von Tönen, Bildern oder sonstigen Informationen
- mit Telekommunikationsmitteln
+Geldspielautomaten
+medizinische Großgeräte
+große Überwachungs- und Kontrollinstrumente
+große Produkt- und Geldausgabeautomaten
+Photovoltaikmodule
+Nachtspeicherheizgeräte
 
-**4.**  
-**Geräte der Unterhaltungselektronik und Photovoltaikmodule**Radiogeräte
-Fernsehgeräte
+**5.**  
+**Kleingeräte**Staubsauger
+Teppichkehrmaschinen
+Nähmaschinen
+Leuchten
+Mikrowellengeräte
+Lüftungsgeräte
+Bügeleisen
+Toaster
+elektrische Messer
+Wasserkocher
+Uhren
+elektrische Rasierapparate
+Waagen
+Haar- und Körperpflegegeräte
+Radiogeräte
 Videokameras
 Videorekorder
 Hi-Fi-Anlagen
-Audio-Verstärker
 Musikinstrumente
-sonstige Produkte oder Geräte zur Aufnahme oder
- Wiedergabe von Tönen oder Bildern, einschließlich
- Signalen, oder andere Technologien zur Übertra-
- gung von Tönen und Bildern mit anderen als
- Telekommunikationsmitteln
-Photovoltaikmodule
-
-**5.**  
-**Beleuchtungskörper**Leuchten
-stabförmige Leuchtstofflampen
-Kompaktleuchtstofflampen
-Entladungslampen, einschließlich Hochdruck-
- Natriumdampflampen und Metalldampflampen
-Niederdruck-Natriumdampflampen
-LED-Lampen
-sonstige Beleuchtungskörper oder Geräte für die
- Ausbreitung oder Steuerung von Licht mit Aus-
- nahme von Glühlampen
-
-**6.**  
-**Elektrische und elektronische Werkzeuge**Bohrmaschinen
-Sägen
-Nähmaschinen
-Geräte zum Drehen, Fräsen, Schleifen, Zerkleinern,
- Sägen, Schneiden, Abscheren, Bohren, Lochen,
- Stanzen, Falzen, Biegen oder zur entsprechenden
- Bearbeitung von Holz, Metall und sonstigen
- Werkstoffen
-Niet-, Nagel- oder Schraubwerkzeuge oder Werk-
- zeuge zum Lösen von Niet-, Nagel- oder
- Schraubverbindungen oder für ähnliche Verwen-
- dungszwecke
-Schweiß- und Lötwerkzeuge oder Werkzeuge für
- ähnliche Verwendungszwecke
-Geräte zum Versprühen, Ausbringen, Verteilen oder
- zur sonstigen Verarbeitung von flüssigen oder
- gasförmigen Stoffen mit anderen Mitteln
-Rasenmäher und sonstige Gartengeräte
-
-**7.**  
-**Spielzeug sowie Sport- und Freizeitgeräte**elektrische Eisenbahnen oder Autorennbahnen
-Videospielkonsolen
-Videospiele
+Ton- oder Bildwiedergabegeräte
+elektrisches und elektronisches Spielzeug
+Sportgeräte
 Fahrrad-, Tauch-, Lauf-, Rudercomputer usw.
-Sportausrüstung mit elektrischen oder elektroni-
- schen Bauteilen
-Geldspielautomaten
-
-**8.**  
-**Medizinische Geräte**Geräte für Strahlentherapie
-Kardiologiegeräte
-Dialysegeräte
-Beatmungsgeräte
-nuklearmedizinische Geräte
-Laborgeräte für In-vitro-Diagnostik
-Analysegeräte
-Gefriergeräte
-Fertilisations-Testgeräte
-sonstige Geräte zur Erkennung, Vorbeugung, Über-
- wachung, Behandlung oder Linderung von
- Krankheiten, Verletzungen oder Behinderungen
-
-**9.**  
-**Überwachungs- und Kontrollinstrumente**Rauchmelder
+Rauchmelder
 Heizregler
 Thermostate
-Geräte zum Messen, Wiegen oder Regeln in Haushalt
- und Labor
-sonstige Überwachungs- und Kontrollinstrumente
- von Industrieanlagen (z. B. in Bedienpulten)
+elektrische und elektronische Kleinwerkzeuge
+medizinische Kleingeräte
+kleine Überwachungs- und Kontrollinstrumente
+kleine Produktausgabeautomaten
+Kleingeräte mit eingebauten Photovoltaikmodulen
 
-**10.**  
-**Ausgabeautomaten**Heißgetränkeautomaten
-Automaten für heiße oder kalte Flaschen oder Dosen
-Automaten für feste Produkte
-Geldautomaten
-sonstige Geräte zur automatischen Abgabe von
- Produkten
+**6.**  
+**Kleine IT- und Telekommunikationsgeräte**
+(keine äußere Abmessung beträgt mehr als 50 cm)Mobiltelefone
+GPS-Geräte
+Taschenrechner
+Router
+PCs
+Drucker
+Telefone
 
 ### Anlage 2 (zu § 6 Absatz 1)
 
@@ -1547,13 +1488,13 @@ Diese Stoffe, Gemische und Bauteile sind gemäß § 15 Absatz 2 des Kreislaufwir
 Bauteile, die radioaktive Stoffe enthalten, sind wie folgt zu behandeln:
 
 a)  
-Bauteile, die radioaktive Stoffe enthalten, ausgenommen Bauteile aus Konsumgütern, und die unter einer Genehmigung nach § 106 Absatz 1 der Strahlenschutzverordnung vom 20. Juli 2001 (BGBl. I S. 1714; 2002 I S. 1459), die durch Artikel 5 Absatz 7 des Gesetzes vom 24. Februar 2012 (BGBl. I S. 212) geändert worden ist, hergestellt oder nach § 108 der Strahlenschutzverordnung verbracht wurden und für die kein Rücknahmekonzept nach § 107 Absatz 1 Nummer 1 Buchstabe a und entsprechend § 109 der Strahlenschutzverordnung erforderlich ist, dürfen ohne weitere selektive Behandlung gemäß § 15 Absatz 2 des Kreislaufwirtschaftsgesetzes beseitigt oder verwertet werden.
+Bauteile aus Konsumgütern, die radioaktive Stoffe enthalten und die unter einer Genehmigung nach § 40 Absatz 1 des Strahlenschutzgesetzes hergestellt oder nach § 42 des Strahlenschutzgesetzes verbracht wurden und für die kein Rücknahmekonzept nach § 41 Absatz 1 Nummer 3 des Strahlenschutzgesetzes und entsprechend § 43 des Strahlenschutzgesetzes erforderlich ist, dürfen ohne weitere selektive Behandlung gemäß § 15 Absatz 2 des Kreislaufwirtschaftsgesetzes beseitigt oder verwertet werden.
 
 b)  
-Bauteile wie unter Buchstabe a, für die aber ein Rücknahmekonzept nach § 107 Absatz 1 Nummer 1 Buchstabe a und entsprechend § 109 der Strahlenschutzverordnung gefordert ist, sind vom Letztbesitzer entsprechend § 110 der Strahlenschutzverordnung an die in der Information nach § 107 Absatz 1 Nummer 3 der Strahlenschutzverordnung angegebene Stelle zurückzugeben.
+Bauteile wie unter Buchstabe a, für die aber ein Rücknahmekonzept nach § 41 Absatz 1 Nummer 3 des Strahlenschutzgesetzes und entsprechend § 43 des Strahlenschutzgesetzes gefordert ist, sind vom Letztbesitzer entsprechend § 44 des Strahlenschutzgesetzes an die in der Information nach § 41 Absatz 1 Nummer 5 des Strahlenschutzgesetzes angegebene Stelle zurückzugeben.
 
 c)  
-Alle übrigen Bauteile, die radioaktive Stoffe enthalten, sind unter Berücksichtigung der Strahlenschutzverordnung zu entsorgen.
+Alle übrigen Bauteile, die radioaktive Stoffe enthalten, sind unter Berücksichtigung des Strahlenschutzgesetzes und der auf dessen Grundlage erlassenen Rechtsverordnungen zu entsorgen.
 
 3.  
 Für Kondensatoren, die polychlorierte Biphenyle (PCB) enthalten, gilt § 2 Absatz 2 Nummer 2 der PCB/PCT-Abfallverordnung.
