@@ -2,10 +2,10 @@ Gesetz über das Zentralregister und das Erziehungsregister (BZRG)
 =================================================================
 
 Neuf  
-Neugefasst durch Bek. v. 21.9.1984 I 1229, 1985 I 195;
+Neugefasst durch Bek. v. 21.9.1984 I 1229, 1985 I 195
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 6.9.2013 I 3556
+Zuletzt geändert durch Art. 1 G v. 20.11.2015 I 2017
 
 ### 
 
@@ -304,15 +304,15 @@ die Verwaltungsbehörde eine befristete Entscheidung erlassen oder in der Mittei
 
 ### § 20 Mitteilungen, Berichtigungen, Sperrvermerke
 
-(1) Gerichte und Behörden teilen der Registerbehörde die in den §§ 4 bis 19 bezeichneten Entscheidungen, Feststellungen und Tatsachen mit. Stellen sie fest, dass die mitgeteilten Daten unrichtig sind, haben sie der Registerbehörde dies und, soweit und sobald sie bekannt sind, die richtigen Daten unverzüglich anzugeben. Stellt die Registerbehörde eine Unrichtigkeit fest, hat sie die mitteilende Stelle zu ersuchen, die richtigen Daten mitzuteilen. In beiden Fällen hat die Registerbehörde die unrichtige Eintragung zu berichtigen. Die mitteilende Stelle sowie Stellen, denen nachweisbar eine unrichtige Auskunft erteilt worden ist, sind hiervon zu unterrichten, sofern es sich nicht um eine offenbare Unrichtigkeit handelt.
+(1) Gerichte und Behörden teilen der Registerbehörde die in den §§ 4 bis 19 bezeichneten Entscheidungen, Feststellungen und Tatsachen mit. Stellen sie fest, dass die mitgeteilten Daten unrichtig sind, haben sie der Registerbehörde dies und, soweit und sobald sie bekannt sind, die richtigen Daten unverzüglich anzugeben. Stellt die Registerbehörde eine Unrichtigkeit fest, hat sie die mitteilende Stelle zu ersuchen, die richtigen Daten mitzuteilen. In beiden Fällen hat die Registerbehörde die unrichtige Eintragung zu berichtigen. Die mitteilende Stelle sowie Stellen, denen nachweisbar eine unrichtige Auskunft erteilt worden ist, sind hiervon zu unterrichten, sofern es sich nicht um eine offenbare Unrichtigkeit handelt. Die Unterrichtung der mitteilenden Stelle unterbleibt, wenn seit Eingang der Mitteilung nach Satz 1 mehr als zehn Jahre verstrichen sind. Dies gilt nicht bei Verurteilung zu lebenslanger Freiheitsstrafe sowie bei Anordnung der Unterbringung in der Sicherungsverwahrung oder in einem psychiatrischen Krankenhaus. Die Frist verlängert sich bei Verurteilung zu Freiheitsstrafe, Strafarrest oder Jugendstrafe um deren Dauer.
 
-(2) Legt der Betroffene schlüssig dar, dass eine Eintragung unrichtig ist, so hat die Registerbehörde die Eintragung mit einem Sperrvermerk zu versehen, solange sich weder die Richtigkeit noch die Unrichtigkeit der Eintragung feststellen lässt. Die Daten dürfen außer zur Prüfung der Richtigkeit und außer in den Fällen des Absatzes 3 Satz 1 ohne Einwilligung des Betroffenen nicht verarbeitet oder genutzt werden. Absatz 1 Satz 5 gilt entsprechend.
+(2) Legt der Betroffene schlüssig dar, dass eine Eintragung unrichtig ist, so hat die Registerbehörde die Eintragung mit einem Sperrvermerk zu versehen, solange sich weder die Richtigkeit noch die Unrichtigkeit der Eintragung feststellen lässt. Die Daten dürfen außer zur Prüfung der Richtigkeit und außer in den Fällen des Absatzes 3 Satz 1 ohne Einwilligung des Betroffenen nicht verarbeitet oder genutzt werden. Absatz 1 Satz 5 bis 8 gilt entsprechend.
 
 (3) Sind Eintragungen mit einem Sperrvermerk versehen, wird eine Auskunft über sie nur den in § 41 Abs. 1 Nr. 1, 3 bis 5 genannten Stellen erteilt. In der Auskunft ist auf den Sperrvermerk hinzuweisen. Im Übrigen wird nur auf den Sperrvermerk hingewiesen.
 
 ### § 20a Namensänderung
 
-(1) Die Meldebehörden haben der Registerbehörde bei Änderung des Geburtsnamens, Familiennamens oder Vornamens einer Person für die in den Absätzen 2 und 3 genannten Zwecke neben dem bisherigen Namen folgende weitere Daten zu übermitteln:
+(1) Die Meldebehörden haben der Registerbehörde bei Änderung des Geburtsnamens, Familiennamens, Vornamens oder Geburtsdatums einer Person für die in den Absätzen 2 und 3 genannten Zwecke neben dem bisherigen Namen folgende weitere Daten zu übermitteln:
 
 1.  
 Geburtsname,
@@ -340,7 +340,7 @@ Datum und Aktenzeichen des zugrundeliegenden Rechtsaktes.
 
 Die Mitteilung ist ungeachtet des Offenbarungsverbots nach § 5 Abs. 1 des Transsexuellengesetzes und des Adoptionsgeheimnisses nach § 1758 Abs. 1 des Bürgerlichen Gesetzbuchs zulässig.
 
-(2) Enthält das Register eine Eintragung über die Person, deren Geburtsname, Familienname oder Vorname sich geändert hat, oder ist über diese Person eine Nachricht über eine Ausschreibung zur Festnahme oder Aufenthaltsermittlung oder ein Suchvermerk niedergelegt, so ist der neue Name bei der Eintragung, der Ausschreibungsnachricht oder dem Suchvermerk zu vermerken.
+(2) Enthält das Register eine Eintragung über die Person, deren Geburtsname, Familienname, Vorname oder Geburtsdatum sich geändert hat, oder ist über diese Person eine Nachricht über eine Ausschreibung zur Festnahme oder Aufenthaltsermittlung oder ein Suchvermerk niedergelegt, so ist der neue Name und das geänderte Geburtsdatum bei der Eintragung, der Ausschreibungsnachricht oder dem Suchvermerk zu vermerken.
 
 (3) Eine Mitteilung nach Absatz 1 darf nur für die in Absatz 2, § 476 Abs. 1 Satz 1 der Strafprozeßordnung oder in § 153a Abs. 2 der Gewerbeordnung genannten Zwecke verwendet werden. Liegen diese Voraussetzungen nicht vor, so ist die Mitteilung von der Registerbehörde unverzüglich zu vernichten.
 
@@ -350,7 +350,7 @@ Die Mitteilung ist ungeachtet des Offenbarungsverbots nach § 5 Abs. 1 des Trans
 
 ### § 21a Automatisiertes Auskunftsverfahren
 
-Die Einrichtung eines automatisierten Verfahrens, das die Übermittlung personenbezogener Daten durch Abruf ermöglicht, ist zulässig, soweit diese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der Betroffenen wegen der Vielzahl der Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit angemessen ist und wenn gewährleistet ist, dass die Daten gegen den unbefugten Zugriff Dritter bei der Übermittlung wirksam geschützt werden. § 493 Absatz 2 und 3 Satz 1 und 2 der Strafprozessordnung gilt entsprechend.
+Die Einrichtung eines automatisierten Verfahrens, das die Übermittlung personenbezogener Daten durch Abruf ermöglicht, ist zulässig, soweit diese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der Betroffenen wegen der Vielzahl der Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit angemessen ist und wenn gewährleistet ist, dass die Daten gegen den unbefugten Zugriff Dritter bei der Übermittlung wirksam geschützt werden. § 493 Absatz 2 und 3 Satz 1 und 2 der Strafprozessordnung gilt entsprechend; für Auskunftsersuchen der Verfassungsschutzbehörden des Bundes und der Länder, des Bundesnachrichtendienstes und des Militärischen Abschirmdienstes gelten darüber hinaus § 492 Absatz 4a der Strafprozessordnung und § 8 der Verordnung über den Betrieb des Zentralen Staatsanwaltschaftlichen Verfahrensregisters entsprechend.
 
 ### § 22 Hinweispflicht der Registerbehörde
 
@@ -472,6 +472,24 @@ eine Tätigkeit, die in einer Buchstabe b vergleichbaren Weise geeignet ist, Kon
 
 (2) Die Registerbehörde ersucht den Herkunftsmitgliedstaat um Mitteilung der Eintragungen. Das Führungszeugnis soll spätestens 20 Werktage nach der Übermittlung des Ersuchens der Registerbehörde an den Herkunftsmitgliedstaat erteilt werden. Hat der Herkunftsmitgliedstaat keine Auskunft aus seinem Strafregister erteilt, ist hierauf im Führungszeugnis hinzuweisen.
 
+### § 30c Elektronische Antragstellung
+
+(1) Erfolgt die Antragstellung abweichend von § 30 Absatz 2 oder Absatz 3 elektronisch, ist der Antrag unter Nutzung des im Internet angebotenen Zugangs unmittelbar bei der Registerbehörde zu stellen. Der Antragsteller kann sich bei der Antragstellung nicht durch einen Bevollmächtigten vertreten lassen. Handelt der Antragsteller als gesetzlicher Vertreter, hat er seine Vertretungsmacht nachzuweisen.
+
+(2) Der elektronische Identitätsnachweis nach § 18 des Personalausweisgesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes ist zu führen. Dabei müssen aus dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises oder des elektronischen Aufenthaltstitels an die Registerbehörde übermittelt werden:
+
+1.  
+die Daten nach § 18 Absatz 3 Satz 1 des Personalausweisgesetzes oder nach § 78 Absatz 5 Satz 2 des Aufenthaltsgesetzes in Verbindung mit § 18 Absatz 3 Satz 1 des Personalausweisgesetzes und
+
+2.  
+Familienname, Geburtsname, Vornamen, Geburtsort sowie Geburtsdatum, Staatsangehörigkeit und Anschrift.
+
+Lässt das elektronische Speicher- und Verarbeitungsmedium die Übermittlung des Geburtsnamens nicht zu, ist der Geburtsname im Antrag anzugeben und nachzuweisen. Bei der Datenübermittlung ist ein dem jeweiligen Stand der Technik entsprechendes sicheres Verfahren zu verwenden, das die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet.
+
+(3) Vorzulegende Nachweise sind gleichzeitig mit dem Antrag elektronisch einzureichen und ihre Echtheit sowie inhaltliche Richtigkeit sind an Eides statt zu versichern. Bei vorzulegenden Schriftstücken kann die Registerbehörde im Einzelfall die Vorlage des Originals verlangen.
+
+(4) Die näheren Einzelheiten des elektronischen Verfahrens regelt die Registerbehörde. Im Übrigen gilt § 30 entsprechend.
+
 ### § 31 Erteilung des Führungszeugnisses und des erweiterten Führungszeugnisses an Behörden
 
 (1) Behörden erhalten über eine bestimmte Person ein Führungszeugnis, soweit sie es zur Erledigung ihrer hoheitlichen Aufgaben benötigen und eine Aufforderung an den Betroffenen, ein Führungszeugnis vorzulegen, nicht sachgemäß ist oder erfolglos bleibt. Die Behörde hat dem Betroffenen auf Verlangen Einsicht in das Führungszeugnis zu gewähren.
@@ -566,7 +584,7 @@ von einer Person, die in einer Rechtsvorschrift ausdrücklich als Verantwortlich
 
 begangen worden sind, wenn das Führungszeugnis für die in § 149 Abs. 2 Nr. 1 der Gewerbeordnung bezeichneten Entscheidungen bestimmt ist.
 
-(5) Soweit in Absatz 2 Nummer 3 bis 9 Ausnahmen für die Aufnahme von Eintragungen zugelassen werden, gelten diese nicht bei einer Verurteilung wegen einer Straftat nach den §§ 171, 180a, 181a, 183 bis 184f, 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs, wenn ein erweitertes Führungszeugnis nach § 30a oder § 31 Absatz 2 erteilt wird.
+(5) Soweit in Absatz 2 Nummer 3 bis 9 Ausnahmen für die Aufnahme von Eintragungen zugelassen werden, gelten diese nicht bei einer Verurteilung wegen einer Straftat nach den §§ 171, 180a, 181a, 183 bis 184g, 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs, wenn ein erweitertes Führungszeugnis nach § 30a oder § 31 Absatz 2 erteilt wird.
 
 ### § 33 Nichtaufnahme von Verurteilungen nach Fristablauf
 
@@ -611,7 +629,7 @@ zehn Jahre bei Verurteilungen wegen einer Straftat nach den §§ 174 bis 180 ode
 3.  
 fünf Jahre in den übrigen Fällen.
 
-(2) Die Frist, nach deren Ablauf eine Verurteilung wegen einer Straftat nach den §§ 171, 180a, 181a, 183 bis 184f, 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs zu einer Freiheitsstrafe oder Jugendstrafe von mehr als einem Jahr nicht mehr in ein erweitertes Führungszeugnis aufgenommen wird, beträgt zehn Jahre.
+(2) Die Frist, nach deren Ablauf eine Verurteilung wegen einer Straftat nach den §§ 171, 180a, 181a, 183 bis 184g, 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs zu einer Freiheitsstrafe oder Jugendstrafe von mehr als einem Jahr nicht mehr in ein erweitertes Führungszeugnis aufgenommen wird, beträgt zehn Jahre.
 
 (3) In den Fällen des Absatzes 1 Nr. 1 Buchstabe d, Nr. 2, Nr. 3 und des Absatzes 2 verlängert sich die Frist um die Dauer der Freiheitsstrafe, des Strafarrests oder der Jugendstrafe. Bei Erlaß des Restes einer lebenslangen Freiheitsstrafe verlängert sich die Frist um den zwischen dem Tag des ersten Urteils und dem Ende der Bewährungszeit liegenden Zeitraum, mindestens jedoch um zwanzig Jahre.
 
@@ -717,7 +735,7 @@ den Luftsicherheitsbehörden für Zwecke der Zuverlässigkeitsüberprüfung nach
 
 (2) (weggefallen)
 
-(3) Eintragungen nach § 17 und Verurteilungen zu Jugendstrafe, bei denen der Strafmakel als beseitigt erklärt ist, dürfen nicht nach Absatz 1 mitgeteilt werden; über sie wird nur noch den Strafgerichten und Staatsanwaltschaften für ein Strafverfahren gegen den Betroffenen Auskunft erteilt. Dies gilt nicht für Verurteilungen wegen einer Straftat nach den §§ 171, 174 bis 180a, 181a, 182 bis 184f, 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs.
+(3) Eintragungen nach § 17 und Verurteilungen zu Jugendstrafe, bei denen der Strafmakel als beseitigt erklärt ist, dürfen nicht nach Absatz 1 mitgeteilt werden; über sie wird nur noch den Strafgerichten und Staatsanwaltschaften für ein Strafverfahren gegen den Betroffenen Auskunft erteilt. Dies gilt nicht für Verurteilungen wegen einer Straftat nach den §§ 171, 174 bis 180a, 181a, 182 bis 184g, 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs.
 
 (4) Die Auskunft nach den Absätzen 1 und 3 wird nur auf ausdrückliches Ersuchen erteilt. Die in Absatz 1 genannten Stellen haben den Zweck anzugeben, für den die Auskunft benötigt wird; sie darf nur für diesen Zweck verwertet werden.
 
@@ -804,6 +822,11 @@ das Aktenzeichen, außer bei Führungszeugnissen nach § 30 Abs. 1.
 
 Oberste Bundes- oder Landesbehörden dürfen Eintragungen, die in ein Führungszeugnis nicht aufgenommen werden, einer nachgeordneten oder ihrer Aufsicht unterstehenden Behörde nur mitteilen, wenn dies zur Vermeidung von Nachteilen für den Bund oder ein Land unerläßlich ist oder wenn andernfalls die Erfüllung öffentlicher Aufgaben erheblich gefährdet oder erschwert würde.
 
+3. Auskünfte an Behörden
+------------------------
+
+### 
+
 ### § 43a Verfahrensübergreifende Mitteilungen von Amts wegen
 
 (1) In Verfahren nach den §§ 25, 39, 49, 55 Absatz 2 und § 63 Absatz 3 ist die Übermittlung personenbezogener Daten zulässig, wenn die Kenntnis der Daten aus der Sicht der übermittelnden Stelle
@@ -826,11 +849,6 @@ zur Erledigung eines Suchvermerks
 erforderlich ist.
 
 (2) Die §§ 18 bis 22 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gelten entsprechend.
-
-3. Auskünfte an Behörden
-------------------------
-
-### 
 
 ### § 44 Vertrauliche Behandlung der Auskünfte
 
@@ -911,7 +929,7 @@ c)
 Jugendstrafe von mehr als einem Jahr, außer in den Fällen der Nummer 1 Buchstabe d bis f,
 
 d)  
-Jugendstrafe bei Verurteilungen wegen einer Straftat nach den §§ 171, 180a, 181a, 183 bis 184f, 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs von mehr als einem Jahr in Fällen der Nummer 1 Buchstabe d bis f,
+Jugendstrafe bei Verurteilungen wegen einer Straftat nach den §§ 171, 180a, 181a, 183 bis 184g, 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs von mehr als einem Jahr in Fällen der Nummer 1 Buchstabe d bis f,
 
 3.  
 zwanzig Jahre bei Verurteilungen wegen einer Straftat nach den §§ 174 bis 180 oder 182 des Strafgesetzbuches zu einer Freiheitsstrafe oder Jugendstrafe von mehr als einem Jahr,
@@ -974,7 +992,15 @@ die Wiederaufnahme des früheren Verfahrens beantragt wird oder
 4.  
 der Betroffene die Zulassung zu einem Beruf oder einem Gewerbe, die Einstellung in den öffentlichen Dienst oder die Erteilung einer Waffenbesitzkarte, eines Munitionserwerbscheins, Waffenscheins, Jagdscheins oder einer Erlaubnis nach § 27 des Sprengstoffgesetzes beantragt, falls die Zulassung, Einstellung oder Erteilung der Erlaubnis sonst zu einer erheblichen Gefährdung der Allgemeinheit führen würde; das gleiche gilt, wenn der Betroffene die Aufhebung einer die Ausübung eines Berufes oder Gewerbes untersagenden Entscheidung beantragt.
 
-(2) Abweichend von § 51 Abs. 1 darf eine frühere Tat ferner in einem Verfahren berücksichtigt werden, das die Erteilung oder Entziehung einer Fahrerlaubnis zum Gegenstand hat, solange die Verurteilung nach den Vorschriften der §§ 28 bis 30b des Straßenverkehrsgesetzes verwertet werden darf. Außerdem dürfen für die Prüfung der Berechtigung zum Führen von Kraftfahrzeugen Entscheidungen der Gerichte nach den §§ 69 bis 69b des Strafgesetzbuches verwertet werden.
+(2) Abweichend von § 51 Absatz 1 darf eine frühere Tat ferner
+
+1.  
+in einem Verfahren, das die Erteilung oder Entziehung einer Fahrerlaubnis zum Gegenstand hat,
+
+2.  
+zur Ergreifung von Maßnahmen nach dem Fahreignungs-Bewertungssystem nach § 4 Absatz 5 des Straßenverkehrsgesetzes
+
+berücksichtigt werden, solange die Verurteilung nach den Vorschriften der §§ 28 bis 30b des Straßenverkehrsgesetzes verwertet werden darf. Außerdem dürfen für die Prüfung der Berechtigung zum Führen von Kraftfahrzeugen Entscheidungen der Gerichte nach den §§ 69 bis 69b des Strafgesetzbuches verwertet werden.
 
 Sechster Abschnitt Begrenzung von Offenbarungspflichten des Verurteilten
 ------------------------------------------------------------------------
@@ -1174,7 +1200,10 @@ den Jugendämtern und den Landesjugendämtern für die Wahrnehmung von Erziehung
 den Gnadenbehörden für Gnadensachen,
 
 5.  
-den für waffen- und sprengstoffrechtliche Erlaubnisse zuständigen Behörden mit der Maßgabe, dass nur Entscheidungen und Anordnungen nach § 60 Abs. 1 Nr. 1 bis 7 mitgeteilt werden dürfen.
+den für waffen- und sprengstoffrechtliche Erlaubnisse zuständigen Behörden mit der Maßgabe, dass nur Entscheidungen und Anordnungen nach § 60 Abs. 1 Nr. 1 bis 7 mitgeteilt werden dürfen,
+
+6.  
+den Verfassungsschutzbehörden des Bundes und der Länder, dem Bundesnachrichtendienst und dem Militärischen Abschirmdienst für die diesen Behörden übertragenen Sicherheitsaufgaben, wenn eine Auskunft nach § 41 Absatz 1 Nummer 3 im Einzelfall nicht ausreicht, und mit der Maßgabe, dass nur Entscheidungen und Anordnungen nach § 60 Absatz 1 Nummer 1 bis 7 mitgeteilt werden dürfen.
 
 (2) Soweit Behörden sowohl aus dem Zentralregister als auch aus dem Erziehungsregister Auskunft zu erteilen ist, werden auf ein Ersuchen um Auskunft aus dem Zentralregister (§ 41 Abs. 4) auch die in das Erziehungsregister aufgenommenen Eintragungen mitgeteilt.
 
@@ -1290,6 +1319,8 @@ Die bei dem Inkrafttreten dieses Gesetzes vorhandenen Eintragungen in der gerich
 (3) Eintragungen nach § 11, die vor dem 1. Oktober 2002 erfolgt sind, werden nach 20 Jahren aus dem Zentralregister entfernt. Die Frist beginnt mit dem Tag der Entscheidung oder Verfügung. § 24 Abs. 4 gilt entsprechend.
 
 (4) Verurteilungen wegen einer Straftat nach den §§ 171, 180a, 181a, 183 bis 184f, 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs, die vor dem 1. Mai 2010 in das Zentralregister eingetragen wurden, werden nach den Vorschriften dieses Gesetzes in der ab 1. Mai 2010 geltenden Fassung behandelt.
+
+(5) § 21a Satz 2 in der ab dem 26. November 2015 geltenden Fassung ist erst ab dem 30. April 2018 anzuwenden. Bis zum 30. April 2018 ist § 21a Satz 2 in der am 20. November 2015 geltenden Fassung weiter anzuwenden.
 
 ### § 70
 
