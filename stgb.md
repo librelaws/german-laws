@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 13.11.1998 I 3322;
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 20.11.2015 I 2025
+zuletzt geändert durch Art. 5 G v. 10.12.2015 I 2218
 
 ### 
 
@@ -533,6 +533,7 @@ Zuletzt geändert durch Art. 1 G v. 20.11.2015 I 2025
 |                                |
 |                                |
 | Fünfzehnter Abschnitt          |
+|                                |
 |                                |
 |                                |
 |                                |
@@ -1878,7 +1879,7 @@ Für die Einordnung als Straftat im Sinne von Satz 1 Nummer 1 Buchstabe b gilt �
 
 (4) Im Sinne des Absatzes 1 Satz 1 Nummer 2 gilt eine Verurteilung zu Gesamtstrafe als eine einzige Verurteilung. Ist Untersuchungshaft oder eine andere Freiheitsentziehung auf Freiheitsstrafe angerechnet, so gilt sie als verbüßte Strafe im Sinne des Absatzes 1 Satz 1 Nummer 3. Eine frühere Tat bleibt außer Betracht, wenn zwischen ihr und der folgenden Tat mehr als fünf Jahre verstrichen sind; bei Straftaten gegen die sexuelle Selbstbestimmung beträgt die Frist fünfzehn Jahre. In die Frist wird die Zeit nicht eingerechnet, in welcher der Täter auf behördliche Anordnung in einer Anstalt verwahrt worden ist. Eine Tat, die außerhalb des räumlichen Geltungsbereichs dieses Gesetzes abgeurteilt worden ist, steht einer innerhalb dieses Bereichs abgeurteilten Tat gleich, wenn sie nach deutschem Strafrecht eine Straftat der in Absatz 1 Satz 1 Nummer 1, in den Fällen des Absatzes 3 der in Absatz 3 Satz 1 bezeichneten Art wäre.
 
-§ 66: Nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 4.5.2011 I 1003 (2 BvR 2365/09 u. a.)
+§ 66 idF d. G v. 27.12.2003 I 3007 u. G v. 22.12.2010 I 2300: Nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 4.5.2011 I 1003 (2 BvR 2365/09 u. a.). Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 5.12.2012 I 2425 mwv 1.6.2013
 
 ### § 66a Vorbehalt der Unterbringung in der Sicherungsverwahrung
 
@@ -1906,7 +1907,7 @@ mit hinreichender Sicherheit feststellbar oder zumindest wahrscheinlich ist, das
 
 (3) Über die nach Absatz 1 oder 2 vorbehaltene Anordnung der Sicherungsverwahrung kann das Gericht im ersten Rechtszug nur bis zur vollständigen Vollstreckung der Freiheitsstrafe entscheiden; dies gilt auch, wenn die Vollstreckung des Strafrestes zur Bewährung ausgesetzt war und der Strafrest vollstreckt wird. Das Gericht ordnet die Sicherungsverwahrung an, wenn die Gesamtwürdigung des Verurteilten, seiner Tat oder seiner Taten und ergänzend seiner Entwicklung bis zum Zeitpunkt der Entscheidung ergibt, dass von ihm erhebliche Straftaten zu erwarten sind, durch welche die Opfer seelisch oder körperlich schwer geschädigt werden.
 
-§ 66a: IdF d. Art. 1 Nr. 3 G v. 22.12.2010 I 2300 mWv 1.1.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 4.5.2011 I 1003 (2 BvR 2365/09 u. a.)
+§ 66a: IdF d. Art. 1 Nr. 3 G v. 22.12.2010 I 2300 mWv 1.1.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 4.5.2011 I 1003 (2 BvR 2365/09 u. a.). Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 5.12.2012 I 2425 mwv 1.6.2013
 
 ### § 66b Nachträgliche Anordnung der Unterbringung in der Sicherungsverwahrung
 
@@ -1920,7 +1921,7 @@ die Gesamtwürdigung des Betroffenen, seiner Taten und ergänzend seiner Entwick
 
 Dies gilt auch, wenn im Anschluss an die Unterbringung nach § 63 noch eine daneben angeordnete Freiheitsstrafe ganz oder teilweise zu vollstrecken ist.
 
-§ 66b: Eingef. durch Art. 1 Nr. 2 G v. 23.7.2004 I 1838 mWv 29.7.2004; früherer Abs. 1 u. 2 aufgeh., früherer Abs. 3 jetzt einziger Text gem. Art. 1 Nr. 4 Buchst. a u. Buchst. b DBuchst. aa G v. 22.12.2010 I 2300 mWv 1.1.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 4.5.2011 I 1003 (2 BvR 2365/09 u. a.)
+§ 66b: Eingef. durch Art. 1 Nr. 2 G v. 23.7.2004 I 1838 mWv 29.7.2004; früherer Abs. 1 u. 2 aufgeh., früherer Abs. 3 jetzt einziger Text gem. Art. 1 Nr. 4 Buchst. a u. Buchst. b DBuchst. aa G v. 22.12.2010 I 2300 mWv 1.1.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 4.5.2011 I 1003 (2 BvR 2365/09 u. a.). Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 5.12.2012 I 2425 mwv 1.6.2013
 
 ### § 66c Ausgestaltung der Unterbringung in der Sicherungsverwahrung und des vorhergehenden Strafvollzugs
 
@@ -5190,6 +5191,20 @@ herstellt, sich oder einem anderen verschafft, verkauft, einem anderen überläs
 
 (2) § 149 Abs. 2 und 3 gilt entsprechend.
 
+### § 202d Datenhehlerei
+
+(1) Wer Daten (§ 202a Absatz 2), die nicht allgemein zugänglich sind und die ein anderer durch eine rechtswidrige Tat erlangt hat, sich oder einem anderen verschafft, einem anderen überlässt, verbreitet oder sonst zugänglich macht, um sich oder einen Dritten zu bereichern oder einen anderen zu schädigen, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+
+(2) Die Strafe darf nicht schwerer sein als die für die Vortat angedrohte Strafe.
+
+(3) Absatz 1 gilt nicht für Handlungen, die ausschließlich der Erfüllung rechtmäßiger dienstlicher oder beruflicher Pflichten dienen. Dazu gehören insbesondere
+
+1.  
+solche Handlungen von Amtsträgern oder deren Beauftragten, mit denen Daten ausschließlich der Verwertung in einem Besteuerungsverfahren, einem Strafverfahren oder einem Ordnungswidrigkeitenverfahren zugeführt werden sollen, sowie
+
+2.  
+solche beruflichen Handlungen der in § 53 Absatz 1 Satz 1 Nummer 5 der Strafprozessordnung genannten Personen, mit denen Daten entgegengenommen, ausgewertet oder veröffentlicht werden.
+
 ### § 203 Verletzung von Privatgeheimnissen
 
 (1) Wer unbefugt ein fremdes Geheimnis, namentlich ein zum persönlichen Lebensbereich gehörendes Geheimnis oder ein Betriebs- oder Geschäftsgeheimnis, offenbart, das ihm als
@@ -5257,9 +5272,9 @@ anvertraut worden oder sonst bekanntgeworden ist. Einem Geheimnis im Sinne des S
 
 ### § 205 Strafantrag
 
-(1) In den Fällen des § 201 Abs. 1 und 2 und der §§ 202, 203 und 204 wird die Tat nur auf Antrag verfolgt. Dies gilt auch in den Fällen der §§ 201a, 202a und 202b, es sei denn, dass die Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten hält.
+(1) In den Fällen des § 201 Abs. 1 und 2 und der §§ 202, 203 und 204 wird die Tat nur auf Antrag verfolgt. Dies gilt auch in den Fällen der §§ 201a, 202a, 202b und 202d, es sei denn, dass die Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten hält.
 
-(2) Stirbt der Verletzte, so geht das Antragsrecht nach § 77 Abs. 2 auf die Angehörigen über; dies gilt nicht in den Fällen der §§ 202a und 202b. Gehört das Geheimnis nicht zum persönlichen Lebensbereich des Verletzten, so geht das Antragsrecht bei Straftaten nach den §§ 203 und 204 auf die Erben über. Offenbart oder verwertet der Täter in den Fällen der §§ 203 und 204 das Geheimnis nach dem Tod des Betroffenen, so gelten die Sätze 1 und 2 sinngemäß.
+(2) Stirbt der Verletzte, so geht das Antragsrecht nach § 77 Abs. 2 auf die Angehörigen über; dies gilt nicht in den Fällen der §§ 202a, 202b und 202d. Gehört das Geheimnis nicht zum persönlichen Lebensbereich des Verletzten, so geht das Antragsrecht bei Straftaten nach den §§ 203 und 204 auf die Erben über. Offenbart oder verwertet der Täter in den Fällen der §§ 203 und 204 das Geheimnis nach dem Tod des Betroffenen, so gelten die Sätze 1 und 2 sinngemäß.
 
 ### § 206 Verletzung des Post- oder Fernmeldegeheimnisses
 
@@ -5328,9 +5343,11 @@ War der Totschläger ohne eigene Schuld durch eine ihm oder einem Angehörigen z
 
 (2) Der Versuch ist strafbar.
 
-### § 217 (weggefallen)
+### § 217 Geschäftsmäßige Förderung der Selbsttötung
 
--
+(1) Wer in der Absicht, die Selbsttötung eines anderen zu fördern, diesem hierzu geschäftsmäßig die Gelegenheit gewährt, verschafft oder vermittelt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+
+(2) Als Teilnehmer bleibt straffrei, wer selbst nicht geschäftsmäßig handelt und entweder Angehöriger des in Absatz 1 genannten anderen ist oder diesem nahesteht.
 
 ### § 218 Schwangerschaftsabbruch
 
