@@ -5,7 +5,10 @@ Neuf
 Neugefasst durch Bek. v. 26.5.1994 I 1114;
 
 Stand  
-zuletzt geändert durch Art. 4 G v. 15.12.2011 I 2714
+Zuletzt geändert durch Art. 4 G v. 15.12.2011 I 2714
+
+Hinweis  
+Änderung durch Art. 5 G v. 26.6.2013 I 1800 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -308,7 +311,7 @@ Eine Erklärung, durch die ein Eintragungsantrag zurückgenommen wird, bedarf de
 
 ### § 34
 
-(weggefallen)
+Eine durch Rechtsgeschäft erteilte Vertretungsmacht kann auch durch eine Bescheinigung nach § 21 Absatz 3 der Bundesnotarordnung nachgewiesen werden.
 
 ### § 35
 
@@ -320,15 +323,26 @@ Eine Erklärung, durch die ein Eintragungsantrag zurückgenommen wird, bedarf de
 
 ### § 36
 
-(1) Soll bei einem zum Nachlaß oder zu dem Gesamtgut einer ehelichen oder fortgesetzten Gütergemeinschaft gehörenden Grundstück oder Erbbaurecht einer der Beteiligten als Eigentümer oder Erbbauberechtigter eingetragen werden, so genügt zum Nachweis der Rechtsnachfolge und der zur Eintragung des Eigentumsübergangs erforderlichen Erklärungen der Beteiligten ein Zeugnis des Nachlaßgerichts oder des nach § 344 Abs. 5 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit zuständigen Amtsgerichts.
+(1) Soll bei einem zum Nachlass oder zu dem Gesamtgut einer Gütergemeinschaft gehörenden Grundstück oder Erbbaurecht einer der Beteiligten als Eigentümer oder Erbbauberechtigter eingetragen werden, so genügt zum Nachweis der Rechtsnachfolge und der zur Eintragung des Eigentumsübergangs erforderlichen Erklärungen der Beteiligten ein gerichtliches Zeugnis. Das Zeugnis erteilt
+
+1.  
+das Nachlassgericht, wenn das Grundstück oder das Erbbaurecht zu einem Nachlass gehört,
+
+2.  
+das nach § 343 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit zuständige Amtsgericht, wenn ein Anteil an dem Gesamtgut zu einem Nachlass gehört, und
+
+3.  
+im Übrigen das nach § 122 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit zuständige Amtsgericht.
 
 (2) Das Zeugnis darf nur ausgestellt werden, wenn:
 
 a)  
-die Voraussetzungen für die Erteilung eines Erbscheins vorliegen oder der Nachweis der ehelichen Gütergemeinschaft durch öffentliche Urkunden erbracht ist und
+die Voraussetzungen für die Erteilung eines Erbscheins vorliegen oder der Nachweis der Gütergemeinschaft durch öffentliche Urkunden erbracht ist und
 
 b)  
-die Abgabe der Erklärungen der Beteiligten in einer den Vorschriften der Grundbuchordnung entsprechenden Weise dem Nachlaßgericht oder dem nach § 344 Abs. 5 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit zuständigen Amtsgericht nachgewiesen ist.
+die Abgabe der Erklärungen der Beteiligten in einer den Vorschriften der Grundbuchordnung entsprechenden Weise dem nach Absatz 1 Satz 2 zuständigen Gericht nachgewiesen ist.
+
+(2a) Ist ein Erbschein über das Erbrecht sämtlicher Erben oder ein Zeugnis über die Fortsetzung der Gütergemeinschaft erteilt, so ist auch der Notar, der die Auseinandersetzung vermittelt hat, für die Erteilung des Zeugnisses nach Absatz 1 Satz 1 zuständig.
 
 (3) Die Vorschriften über die Zuständigkeit zur Entgegennahme der Auflassung bleiben unberührt.
 
@@ -1033,6 +1047,24 @@ auf seiten der grundbuchführenden Stelle die technischen Möglichkeiten der Ein
 (7) Genehmigungen nach Absatz 2 gelten in Ansehung der Voraussetzungen nach den Absätzen 1 und 2 Satz 3 Nr. 1 und 2 im gesamten Land, dessen Behörden sie erteilt haben. Sobald die technischen Voraussetzungen dafür gegeben sind, gelten sie auch im übrigen Bundesgebiet. Das Bundesministerium der Justiz stellt durch Rechtsverordnung mit Zustimmung des Bundesrates fest, wann und in welchen Teilen des Bundesgebiets diese Voraussetzungen gegeben sind. Anstelle der Genehmigungen können auch öffentlich-rechtliche Verträge oder Verwaltungsvereinbarungen geschlossen werden. Die Sätze 1 und 2 gelten entsprechend.
 
 (8) (weggefallen)
+
+### § 133a Erteilung von Grundbuchabdrucken durch Notare; Verordnungsermächtigung
+
+(1) Notare dürfen demjenigen, der ihnen ein berechtigtes Interesse im Sinne des § 12 darlegt, den Inhalt des Grundbuchs mitteilen. Die Mitteilung kann auch durch die Erteilung eines Grundbuchabdrucks erfolgen.
+
+(2) Die Mitteilung des Grundbuchinhalts im öffentlichen Interesse oder zu wissenschaftlichen und Forschungszwecken ist nicht zulässig.
+
+(3) Über die Mitteilung des Grundbuchinhalts führt der Notar ein Protokoll. Dem Eigentümer des Grundstücks oder dem Inhaber eines grundstücksgleichen Rechts ist auf Verlangen Auskunft aus diesem Protokoll zu geben.
+
+(4) Einer Protokollierung der Mitteilung bedarf es nicht, wenn
+
+1.  
+die Mitteilung der Vorbereitung oder Ausführung eines sonstigen Amtsgeschäfts nach § 20 oder § 24 Absatz 1 der Bundesnotarordnung dient oder
+
+2.  
+der Grundbuchinhalt dem Auskunftsberechtigten nach Absatz 3 Satz 2 mitgeteilt wird.
+
+(5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, dass abweichend von Absatz 1 der Inhalt von Grundbuchblättern, die von Grundbuchämtern des jeweiligen Landes geführt werden, nicht mitgeteilt werden darf. Dies gilt nicht, wenn die Mitteilung der Vorbereitung oder Ausführung eines sonstigen Amtsgeschäfts nach § 20 oder § 24 Absatz 1 der Bundesnotarordnung dient. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 ### § 134
 
