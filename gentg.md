@@ -5,10 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 16.12.1993 I 2066;
 
 Stand  
-Zuletzt geändert durch Art. 4 Abs. 13 G v. 18.7.2016 I 1666
-
-Sonst  
-Mittelbare Änderung durch Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
+Zuletzt geändert durch Art. 3 G v. 17.7.2017 I 2421
 
 ### 
 
@@ -1193,7 +1190,7 @@ Fünfter Teil Haftungsvorschriften
 
 (3) Hat bei der Entstehung des Schadens ein Verschulden des Geschädigten mitgewirkt, so gilt § 254 des Bürgerlichen Gesetzbuchs; im Falle der Sachbeschädigung steht das Verschulden desjenigen, der die tatsächliche Gewalt über die Sache ausübt, dem Verschulden des Geschädigten gleich. Die Haftung des Betreibers wird nicht gemindert, wenn der Schaden zugleich durch die Handlung eines Dritten verursacht worden ist; Absatz 2 Satz 2 gilt entsprechend.
 
-(4) Im Falle der Tötung ist Ersatz der Kosten der versuchten Heilung sowie des Vermögensnachteils zu leisten, den der Getötete dadurch erlitten hat, daß während der Krankheit seine Erwerbsfähigkeit aufgehoben oder gemindert war oder seine Bedürfnisse vermehrt waren. Der Ersatzpflichtige hat außerdem die Kosten der Beerdigung demjenigen zu ersetzen, der diese Kosten zu tragen hat. Stand der Getötete zur Zeit der Verletzung zu einem Dritten in einem Verhältnis, aus dem er diesem gegenüber kraft Gesetzes unterhaltspflichtig war oder unterhaltspflichtig werden konnte und ist dem Dritten infolge der Tötung das Recht auf Unterhalt entzogen, so hat der Ersatzpflichtige dem Dritten insoweit Schadensersatz zu leisten, als der Getötete während der mutmaßlichen Dauer seines Lebens zur Gewährung des Unterhalts verpflichtet gewesen wäre. Die Ersatzpflicht tritt auch ein, wenn der Dritte zur Zeit der Verletzung gezeugt, aber noch nicht geboren war.
+(4) Im Falle der Tötung ist Ersatz der Kosten der versuchten Heilung sowie des Vermögensnachteils zu leisten, den der Getötete dadurch erlitten hat, daß während der Krankheit seine Erwerbsfähigkeit aufgehoben oder gemindert war oder seine Bedürfnisse vermehrt waren. Der Ersatzpflichtige hat außerdem die Kosten der Beerdigung demjenigen zu ersetzen, der diese Kosten zu tragen hat. Stand der Getötete zur Zeit der Verletzung zu einem Dritten in einem Verhältnis, aus dem er diesem gegenüber kraft Gesetzes unterhaltspflichtig war oder unterhaltspflichtig werden konnte und ist dem Dritten infolge der Tötung das Recht auf Unterhalt entzogen, so hat der Ersatzpflichtige dem Dritten insoweit Schadensersatz zu leisten, als der Getötete während der mutmaßlichen Dauer seines Lebens zur Gewährung des Unterhalts verpflichtet gewesen wäre. Die Ersatzpflicht tritt auch ein, wenn der Dritte zur Zeit der Verletzung gezeugt, aber noch nicht geboren war. Der Ersatzpflichtige hat zudem dem Hinterbliebenen, der zur Zeit der Verletzung zu dem Getöteten in einem besonderen persönlichen Näheverhältnis stand, für das dem Hinterbliebenen zugefügte seelische Leid eine angemessene Entschädigung in Geld zu leisten. Ein besonderes persönliches Näheverhältnis wird vermutet, wenn der Hinterbliebene der Ehegatte, der Lebenspartner, ein Elternteil oder ein Kind des Getöteten war.
 
 (5) Im Falle der Verletzung des Körpers oder der Gesundheit ist Ersatz der Kosten der Heilung sowie des Vermögensnachteils zu leisten, den der Verletzte dadurch erleidet, daß infolge der Verletzung seine Erwerbsfähigkeit zeitweise oder dauernd aufgehoben oder gemindert oder eine Vermehrung seiner Bedürfnisse eingetreten ist. Wegen des Schadens, der nicht Vermögensschaden ist, kann auch eine billige Entschädigung in Geld gefordert werden.
 
