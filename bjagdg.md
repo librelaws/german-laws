@@ -5,7 +5,10 @@ Neuf
 Neugefasst durch Bek. v. 29.9.1976 I 2849;
 
 Stand  
-zuletzt geändert durch Art. 422 V v. 31.8.2015 I 1474
+zuletzt geändert durch Art. 2 G v. 14.11.2018 I 1850
+
+Sonst  
+Änderung durch Art. 3 Nr. 1 G v. 8.9.2017 I 3370 war nicht ausführbar, da zu diesem Zeitpunkt keine amtliche Inhaltsübersicht existierte
 
 ### 
 
@@ -380,7 +383,7 @@ b)
 auf alles übrige Schalenwild mit Büchsenpatronen unter einem Kaliber von 6,5 mm zu schießen; im Kaliber 6,5 mm und darüber müssen die Büchsenpatronen eine Auftreffenergie auf 100 m (E 100) von mindestens 2 000 Joule haben;
 
 c)  
-auf Wild mit halbautomatischen oder automatischen Waffen, die mehr als zwei Patronen in das Magazin aufnehmen können, zu schießen;
+mit halbautomatischen Langwaffen, die mit insgesamt mehr als drei Patronen geladen sind, sowie mit automatischen Waffen auf Wild zu schießen;
 
 d)  
 auf Wild mit Pistolen oder Revolvern zu schießen, ausgenommen im Falle der Bau- und Fallenjagd sowie zur Abgabe von Fangschüssen, wenn die Mündungsenergie der Geschosse mindestens 200 Joule beträgt;
@@ -473,7 +476,7 @@ Verboten ist, Wild, insbesondere soweit es in seinem Bestand gefährdet oder bed
 
 (3) Aus Gründen der Landeskultur können Schonzeiten für Wild gänzlich versagt werden (Wild ohne Schonzeit).
 
-(4) In den Setz- und Brutzeiten dürfen bis zum Selbständigwerden der Jungtiere die für die Aufzucht notwendigen Elterntiere, auch die von Wild ohne Schonzeit, nicht bejagt werden. Die Länder können für Schwarzwild, Wildkaninchen, Fuchs, Ringel- und Türkentaube, Silber- und Lachmöwe sowie für nach Landesrecht dem Jagdrecht unterliegende Tierarten aus den in Absatz 2 Satz 2 und Absatz 3 genannten Gründen Ausnahmen bestimmen. Die nach Landesrecht zuständige Behörde kann im Einzelfall das Aushorsten von Nestlingen und Ästlingen der Habichte für Beizzwecke aus den in Artikel 9 Absatz 1 Buchstabe c der Richtlinie 2009/147/EG genannten Gründen und nach den in Artikel 9 Absatz 2 der Richtlinie 2009/147/EG genannten Maßgaben genehmigen. Das Ausnehmen der Gelege von Federwild ist verboten. Die Länder können zulassen, daß Gelege in Einzelfällen zu wissenschaftlichen, Lehr- und Forschungszwecken oder für Zwecke der Aufzucht ausgenommen werden. Die Länder können ferner das Sammeln der Eier von Ringel- und Türkentauben sowie von Silber- und Lachmöwen aus den in Artikel 9 Absatz 1 der Richtlinie 2009/147/EG genannten Gründen und nach den in Artikel 9 Absatz 2 der Richtlinie 2009/147/EG genannten Maßgaben erlauben.
+(4) In den Setz- und Brutzeiten dürfen bis zum Selbständigwerden der Jungtiere die für die Aufzucht notwendigen Elterntiere, auch die von Wild ohne Schonzeit, nicht bejagt werden. Die Länder können für Schwarzwild, Wildkaninchen, Fuchs, Ringel- und Türkentaube, Silber- und Lachmöwe sowie für nach Landesrecht dem Jagdrecht unterliegende Tierarten aus den in Absatz 2 Satz 2 und Absatz 3 genannten Gründen sowie zur Bekämpfung von Tierseuchen Ausnahmen bestimmen. Die nach Landesrecht zuständige Behörde kann im Einzelfall das Aushorsten von Nestlingen und Ästlingen der Habichte für Beizzwecke aus den in Artikel 9 Absatz 1 Buchstabe c der Richtlinie 2009/147/EG genannten Gründen und nach den in Artikel 9 Absatz 2 der Richtlinie 2009/147/EG genannten Maßgaben genehmigen. Das Ausnehmen der Gelege von Federwild ist verboten. Die Länder können zulassen, daß Gelege in Einzelfällen zu wissenschaftlichen, Lehr- und Forschungszwecken oder für Zwecke der Aufzucht ausgenommen werden. Die Länder können ferner das Sammeln der Eier von Ringel- und Türkentauben sowie von Silber- und Lachmöwen aus den in Artikel 9 Absatz 1 der Richtlinie 2009/147/EG genannten Gründen und nach den in Artikel 9 Absatz 2 der Richtlinie 2009/147/EG genannten Maßgaben erlauben.
 
 § 22 Abs. 1 idF d. Bek. v. 29.9.1976 I 2849: Nordrhein-Westfalen - Abweichung durch § 1 der Landesjagdzeitenverordnung für Nordrhein-Westfalen (JagdzeitV NW 2015)v. 28.5.2015 GV. NRW S 468 mWv 29.5.2015 (vgl. BGBl. I 2015, 1040)
 § 22 Abs. 1 Satz 1 idF d. Bek. v. 29.9.1976 I 2849: Sachsen-Anhalt - Abweichung durch § 27 Abs. 1 Nr. 4 des Landesjagdgesetzes für Sachsen-Anhalt (LJagdG)v. 23.7.1991 GVBl. LSA S 186, zuletzt geändert durch Art. 1 des G v. 18.1.2011 GVBl. LSA S. 6 mWv 1.2.2011 (vgl. BGBl. I 2011, 1943)
@@ -538,6 +541,14 @@ Der Jagdausübungsberechtigte sowie der Eigentümer oder Nutzungsberechtigte ein
 (5) Die Länder können die Fütterung von Wild untersagen oder von einer Genehmigung abhängig machen.
 
 § 28 Abs. 2 idF d. Bek. v. 29.9.1976 I 2849: Sachsen-Anhalt - Abweichung durch § 2 Abs. 2 des Landesjagdgesetzes für Sachsen-Anhalt (LJagdG) v. 23.7.1991 GVBl. LSA S. 186, zuletzt geändert durch Art. 1 des G v. 18.1.2011 GVBl. LSA S. 6 mWv 1.2.2011 (vgl. BGBl. I 2011, 1943)
+
+### § 28a Invasive Arten
+
+(1) Dem Jagdausübungsberechtigten ist mit dessen Zustimmung für den Jagdbezirk, in dem er die Jagd ausüben darf, die Durchführung von Management- oder Beseitigungsmaßnahmen, die nach § 40e Absatz 2 Halbsatz 1 Bundesnaturschutzgesetz festgelegt worden sind, von der nach Landesrecht für Jagd zuständigen Behörde ganz oder teilweise zu übertragen oder die Mitwirkung an der Durchführung der Maßnahmen aufzuerlegen, soweit die Durchführung der Maßnahmen im Rahmen der Jagdausübung mit zulässigen jagdlichen Methoden und Mitteln möglich, zumutbar und wirksam ist. Im Übrigen ist der Jagdausübungsberechtigte zur Durchführung von Managementmaßnahmen nach § 40e Bundesnaturschutzgesetz nicht verpflichtet. Die Sätze 1 und 2 gelten entsprechend für Maßnahmen nach Artikel 17 der Verordnung (EU) Nr. 1143/2014 des Europäischen Parlaments und des Rates vom 22. Oktober 2014 über die Prävention und das Management der Einbringung und Ausbreitung invasiver gebietsfremder Arten (ABl. L 317 vom 4.11.2014, S. 35) für die in § 40e Absatz 2 Halbsatz 1 genannten Arten.
+
+(2) Soweit die Durchführung von Managementmaßnahmen nach Absatz 1 nicht vom Jagdausübungsberechtigten übernommen wird, oder soweit dieser die ihm übertragenen Maßnahmen oder die Mitwirkung daran nicht ordnungsgemäß ausführt, trifft die nach Landesrecht für Jagd zuständige Behörde nach Anhörung des Jagdausübungsberechtigten die notwendigen Anordnungen; sie kann insbesondere die Durchführung der Maßnahmen übernehmen oder einen Dritten mit deren Durchführung beauftragen. Maßnahmen unter Einsatz jagdlicher Mittel haben im Einvernehmen mit dem Jagdausübungsberechtigten zu erfolgen; sein Jagdrecht bleibt unberührt.
+
+(3) § 1 Absatz 1 Satz 2 ist auf Arten, für die Managementmaßnahmen nach § 40e oder Beseitigungsmaßnahmen nach § 40a des Bundesnaturschutzgesetzes festgelegt worden sind, nicht anzuwenden; § 22 Absatz 4 Satz 1 und 2 gilt entsprechend.
 
 2. Wildschadensersatz
 ---------------------
@@ -644,7 +655,7 @@ die behördliche Überwachung des gewerbsmäßigen Ankaufs, Verkaufs und Tausche
 2.  
 das Aufnehmen, die Pflege und die Aufzucht verletzten oder kranken Wildes und dessen Verbleib.
 
-(3) Die Vorschriften nach Absatz 1 Nr. 2 und 3 und Absatz 2 Nr. 2 können sich auch auf Eier oder sonstige Entwicklungsformen des Wildes, auf totes Wild, auf Teile des Wildes sowie auf die Nester und die aus Wild gewonnenen Erzeugnisse erstrecken.
+(3) Die Vorschriften nach Absatz 1 Nummer 2, 2a, 2b und 3 und Absatz 2 Nr. 2 können sich auch auf Eier oder sonstige Entwicklungsformen des Wildes, auf totes Wild, auf Teile des Wildes sowie auf die Nester und die aus Wild gewonnenen Erzeugnisse erstrecken.
 
 (4) Rechtsverordnungen nach Absatz 1 Nr. 1 bedürfen des Einvernehmens mit dem Bundesministerium für Wirtschaft und Energie; Rechtsverordnungen nach Absatz 1 Nr. 3 bedürfen des Einvernehmens mit dem Bundesministerium der Finanzen. Rechtsverordnungen nach Absatz 1 Nr. 2 bis 5 bedürfen, soweit sie Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union auf dem Gebiet des Artenschutzes oder Verpflichtungen aus internationalen Artenschutzübereinkommen zu beachten haben, des Einvernehmens mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit.
 
@@ -687,9 +698,9 @@ entgegen § 22 Abs. 4 Satz 1 ein Elterntier bejagt.
 
 ### § 38a Strafvorschriften
 
-(1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer einer Rechtsverordnung nach § 36 Absatz 1 Nummer 2a Buchstabe a oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Strafvorschrift verweist.
+(1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer einer Rechtsverordnung nach § 36 Absatz 1 Nummer 2a Buchstabe a, auch in Verbindung mit Absatz 3, oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Strafvorschrift verweist.
 
-(2) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer einer Rechtsverordnung nach § 36 Absatz 1 Nummer 2 Buchstabe a oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Strafvorschrift verweist.
+(2) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer einer Rechtsverordnung nach § 36 Absatz 1 Nummer 2 Buchstabe a, auch in Verbindung mit Absatz 3, oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Strafvorschrift verweist.
 
 (3) Erkennt der Täter in den Fällen des Absatzes 1 leichtfertig nicht, dass sich die Handlung auf Wild einer Art bezieht, die in § 36 Absatz 1 Nummer 2a Buchstabe a genannt ist, so ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 
@@ -746,7 +757,7 @@ entgegen § 22 Abs. 1 Satz 2 Wild nicht mit der Jagd verschont,
 als Jagdausübungsberechtigter das Auftreten einer Wildseuche nicht unverzüglich der zuständigen Behörde anzeigt oder den Weisungen der zuständigen Behörde zur Bekämpfung der Wildseuche nicht Folge leistet (§ 24);
 
 5.  
-einer Rechtsverordnung nach § 36 Absatz 1 Nummer 1, 2 Buchstabe b, Nummer 2a Buchstabe b, Nummer 2b bis 4 oder Nummer 5, Absatz 2 oder Absatz 5 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, oder
+einer Rechtsverordnung nach § 36 Absatz 1 Nummer 1, 2 Buchstabe b, auch in Verbindung mit Absatz 3, Nummer 2a Buchstabe b, auch in Verbindung mit Absatz 3, Nummer 2b, auch in Verbindung mit Absatz 3, Nummer 3, auch in Verbindung mit Absatz 3, Nummer 4 oder Nummer 5, Absatz 2 oder Absatz 5 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, oder
 
 6.  
 zur Jagd ausgerüstet unbefugt einen fremden Jagdbezirk außerhalb der zum allgemeinen Gebrauch bestimmten Wege betritt.
@@ -775,7 +786,7 @@ eingezogen werden.
 nach § 38 dieses Gesetzes,
 
 2.  
-nach den §§ 113, 114, 223 bis 227, 231, 239, 240 des Strafgesetzbuches, sofern derjenige, gegen den sich die Tat richtete, sich in Ausübung des Forst-, Feld-, Jagd- oder Fischereischutzes befand, oder
+nach den §§ 113 bis 115, 223 bis 227, 231, 239, 240 des Strafgesetzbuches, sofern derjenige, gegen den sich die Tat richtete, sich in Ausübung des Forst-, Feld-, Jagd- oder Fischereischutzes befand, oder
 
 3.  
 nach den §§ 292 bis 294 des Strafgesetzbuches
