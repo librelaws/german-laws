@@ -1,5 +1,5 @@
-Gesetz zu dem Vertrag vom 24. Juni 1994 über den Beitritt des Königreichs Norwegen, der Republik Österreich, der Republik Finnland und des Königreichs ()
-=========================================================================================================================================================
+Gesetz zu dem Vertrag vom 24. Juni 1994 über den Beitritt des Königreichs Norwegen, der Republik Österreich, der Republik Finnland und des Königreichs Schweden zur Europäischen Union ()
+=========================================================================================================================================================================================
 
 Sonst  
 Vertrag in Kraft gem. Bek. v. 30.8.1996 II 1486 mWv 1.1.1995
