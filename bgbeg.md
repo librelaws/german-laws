@@ -7,6 +7,15 @@ Neugefasst durch Bek. v. 21.9.1994 I 2494; 1997, 1061;
 Stand  
 zuletzt geändert durch Art. 2 Abs. 4 G v. 20.7.2017 I 2787
 
+Hinweis  
+Änderung durch Art. 2 G v. 17.12.2018 I 2573 (Nr. 47) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 2 G v. 18.12.2018 I 2639 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 2 G v. 18.12.2018 I 2648 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
@@ -70,33 +79,30 @@ c)
 Artikel 15 der Verordnung (EG) Nr. 4/2009 des Rates vom 18. Dezember 2008 über die Zuständigkeit, das anwendbare Recht, die Anerkennung und Vollstreckung von Entscheidungen und die Zusammenarbeit in Unterhaltssachen in Verbindung mit dem Haager Protokoll vom 23. November 2007 über das auf Unterhaltspflichten anzuwendende Recht,
 
 d)  
-die Verordnung (EU) Nr. 1259/2010 des Rates vom 20. Dezember 2010 zur Durchführung einer Verstärkten Zusammenarbeit im Bereich des auf die Ehescheidung und Trennung ohne Auflösung des Ehebandes anzuwendenden Rechts sowie
+die Verordnung (EU) Nr. 1259/2010 des Rates vom 20. Dezember 2010 zur Durchführung einer Verstärkten Zusammenarbeit im Bereich des auf die Ehescheidung und Trennung ohne Auflösung des Ehebandes anzuwendenden Rechts,
 
 e)  
-die Verordnung (EU) Nr. 650/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über die Zuständigkeit, das anzuwendende Recht, die Anerkennung und Vollstreckung von Entscheidungen und die Annahme und Vollstreckung öffentlicher Urkunden in Erbsachen sowie zur Einführung eines Europäischen Nachlasszeugnisses oder
+die Verordnung (EU) Nr. 650/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über die Zuständigkeit, das anzuwendende Recht, die Anerkennung und Vollstreckung von Entscheidungen und die Annahme und Vollstreckung öffentlicher Urkunden in Erbsachen sowie zur Einführung eines Europäischen Nachlasszeugnisses,
+
+f)  
+die Verordnung (EU) 2016/1103 des Rates vom 24. Juni 2016 zur Durchführung einer Verstärkten Zusammenarbeit im Bereich der Zuständigkeit, des anzuwendenden Rechts und der Anerkennung und Vollstreckung von Entscheidungen in Fragen des ehelichen Güterstands sowie
+
+g)  
+die Verordnung (EU) 2016/1104 des Rates vom 24. Juni 2016 zur Durchführung der Verstärkten Zusammenarbeit im Bereich der Zuständigkeit, des anzuwendenden Rechts und der Anerkennung und Vollstreckung von Entscheidungen in Fragen güterrechtlicher Wirkungen eingetragener Partnerschaften oder
 
 2.  
 Regelungen in völkerrechtlichen Vereinbarungen, soweit sie unmittelbar anwendbares innerstaatliches Recht geworden sind,
 
 maßgeblich sind, bestimmt sich das anzuwendende Recht bei Sachverhalten mit einer Verbindung zu einem ausländischen Staat nach den Vorschriften dieses Kapitels (Internationales Privatrecht).
 
-Art 3a Sachnormverweisung; Einzelstatut
----------------------------------------
-
-### 
-
-(1) Verweisungen auf Sachvorschriften beziehen sich auf die Rechtsnormen der maßgebenden Rechtsordnung unter Ausschluss derjenigen des Internationalen Privatrechts.
-
-(2) Soweit Verweisungen im Dritten Abschnitt das Vermögen einer Person dem Recht eines Staates unterstellen, beziehen sie sich nicht auf Gegenstände, die sich nicht in diesem Staat befinden und nach dem Recht des Staates, in dem sie sich befinden, besonderen Vorschriften unterliegen.
-
-Art 4 Rück- und Weiterverweisung; Rechtsspaltung
-------------------------------------------------
+Art 4 Verweisung
+----------------
 
 ### 
 
 (1) Wird auf das Recht eines anderen Staates verwiesen, so ist auch dessen Internationales Privatrecht anzuwenden, sofern dies nicht dem Sinn der Verweisung widerspricht. Verweist das Recht des anderen Staates auf deutsches Recht zurück, so sind die deutschen Sachvorschriften anzuwenden.
 
-(2) Soweit die Parteien das Recht eines Staates wählen können, können sie nur auf die Sachvorschriften verweisen.
+(2) Verweisungen auf Sachvorschriften beziehen sich auf die Rechtsnormen der maßgebenden Rechtsordnung unter Ausschluss derjenigen des Internationalen Privatrechts. Soweit die Parteien das Recht eines Staates wählen können, können sie nur auf die Sachvorschriften verweisen.
 
 (3) Wird auf das Recht eines Staates mit mehreren Teilrechtsordnungen verwiesen, ohne die maßgebende zu bezeichnen, so bestimmt das Recht dieses Staates, welche Teilrechtsordnung anzuwenden ist. Fehlt eine solche Regelung, so ist die Teilrechtsordnung anzuwenden, mit welcher der Sachverhalt am engsten verbunden ist.
 
@@ -250,92 +256,92 @@ Art 14 Allgemeine Ehewirkungen
 
 ### 
 
-(1) Die allgemeinen Wirkungen der Ehe unterliegen
+(1) Soweit allgemeine Ehewirkungen nicht in den Anwendungsbereich der Verordnung (EU) 2016/1103 fallen, unterliegen sie dem von den Ehegatten gewählten Recht. Wählbar sind
 
 1.  
-dem Recht des Staates, dem beide Ehegatten angehören oder während der Ehe zuletzt angehörten, wenn einer von ihnen diesem Staat noch angehört, sonst
+das Recht des Staates, in dem beide Ehegatten im Zeitpunkt der Rechtswahl ihren gewöhnlichen Aufenthalt haben,
 
 2.  
-dem Recht des Staates, in dem beide Ehegatten ihren gewöhnlichen Aufenthalt haben oder während der Ehe zuletzt hatten, wenn einer von ihnen dort noch seinen gewöhnlichen Aufenthalt hat, hilfsweise
+das Recht des Staates, in dem beide Ehegatten ihren gewöhnlichen Aufenthalt während der Ehe zuletzt hatten, wenn einer von ihnen im Zeitpunkt der Rechtswahl dort noch seinen gewöhnlichen Aufenthalt hat, oder
 
 3.  
-dem Recht des Staates, mit dem die Ehegatten auf andere Weise gemeinsam am engsten verbunden sind.
+ungeachtet des Artikels 5 Absatz 1 das Recht des Staates, dem ein Ehegatte im Zeitpunkt der Rechtswahl angehört.
 
-(2) Gehört ein Ehegatte mehreren Staaten an, so können die Ehegatten ungeachtet des Artikels 5 Abs. 1 das Recht eines dieser Staaten wählen, falls ihm auch der andere Ehegatte angehört.
+Die Rechtswahl muss notariell beurkundet werden. Wird sie nicht im Inland vorgenommen, so genügt es, wenn sie den Formerfordernissen für einen Ehevertrag nach dem gewählten Recht oder am Ort der Rechtswahl entspricht.
 
-(3) Ehegatten können das Recht des Staates wählen, dem ein Ehegatte angehört, wenn die Voraussetzungen des Absatzes 1 Nr. 1 nicht vorliegen und
-
-1.  
-kein Ehegatte dem Staat angehört, in dem beide Ehegatten ihren gewöhnlichen Aufenthalt haben, oder
-
-2.  
-die Ehegatten ihren gewöhnlichen Aufenthalt nicht in demselben Staat haben.
-
-Die Wirkungen der Rechtswahl enden, wenn die Ehegatten eine gemeinsame Staatsangehörigkeit erlangen.
-
-(4) Die Rechtswahl muß notariell beurkundet werden. Wird sie nicht im Inland vorgenommen, so genügt es, wenn sie den Formerfordernissen für einen Ehevertrag nach dem gewählten Recht oder am Ort der Rechtswahl entspricht.
-
-Art 15 Güterstand
------------------
-
-### 
-
-(1) Die güterrechtlichen Wirkungen der Ehe unterliegen dem bei der Eheschließung für die allgemeinen Wirkungen der Ehe maßgebenden Recht.
-
-(2) Die Ehegatten können für die güterrechtlichen Wirkungen ihrer Ehe wählen
+(2) Sofern die Ehegatten keine Rechtswahl getroffen haben, gilt
 
 1.  
-das Recht des Staates, dem einer von ihnen angehört,
+das Recht des Staates, in dem beide Ehegatten ihren gewöhnlichen Aufenthalt haben, sonst
 
 2.  
-das Recht des Staates, in dem einer von ihnen seinen gewöhnlichen Aufenthalt hat, oder
+das Recht des Staates, in dem beide Ehegatten ihren gewöhnlichen Aufenthalt während der Ehe zuletzt hatten, wenn einer von ihnen dort noch seinen gewöhnlichen Aufenthalt hat, sonst
 
 3.  
-für unbewegliches Vermögen das Recht des Lageorts.
+das Recht des Staates, dem beide Ehegatten angehören, sonst
 
-(3) Artikel 14 Abs. 4 gilt entsprechend.
+4.  
+das Recht des Staates, mit dem die Ehegatten auf andere Weise gemeinsam am engsten verbunden sind.
 
-(4) Die Vorschriften des Gesetzes über den ehelichen Güterstand von Vertriebenen und Flüchtlingen bleiben unberührt.
-
-Art 16 Schutz Dritter
----------------------
-
-### 
-
-(1) Unterliegen die güterrechtlichen Wirkungen einer Ehe dem Recht eines anderen Staates und hat einer der Ehegatten seinen gewöhnlichen Aufenthalt im Inland oder betreibt er hier ein Gewerbe, so ist § 1412 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden; der fremde gesetzliche Güterstand steht einem vertragsmäßigen gleich.
-
-(2) Auf im Inland vorgenommene Rechtsgeschäfte ist § 1357, auf hier befindliche bewegliche Sachen § 1362, auf ein hier betriebenes Erwerbsgeschäft sind die §§ 1431 und 1456 des Bürgerlichen Gesetzbuchs sinngemäß anzuwenden, soweit diese Vorschriften für gutgläubige Dritte günstiger sind als das fremde Recht.
-
-Art 17 Besondere Scheidungsfolgen; Entscheidung durch Gericht
--------------------------------------------------------------
+Art 15 (weggefallen)
+--------------------
 
 ### 
 
-(1) Vermögensrechtliche Scheidungsfolgen, die nicht von anderen Vorschriften dieses Abschnitts erfasst sind, unterliegen dem nach der Verordnung (EU) Nr. 1259/2010 auf die Scheidung anzuwendenden Recht.
-
-(2) Eine Ehe kann im Inland nur durch ein Gericht geschieden werden.
-
-(3) Der Versorgungsausgleich unterliegt dem nach der Verordnung (EU) Nr. 1259/2010 auf die Scheidung anzuwendenden Recht; er ist nur durchzuführen, wenn danach deutsches Recht anzuwenden ist und ihn das Recht eines der Staaten kennt, denen die Ehegatten im Zeitpunkt des Eintritts der Rechtshängigkeit des Scheidungsantrags angehören. Im Übrigen ist der Versorgungsausgleich auf Antrag eines Ehegatten nach deutschem Recht durchzuführen, wenn einer der Ehegatten in der Ehezeit ein Anrecht bei einem inländischen Versorgungsträger erworben hat, soweit die Durchführung des Versorgungsausgleichs insbesondere im Hinblick auf die beiderseitigen wirtschaftlichen Verhältnisse während der gesamten Ehezeit der Billigkeit nicht widerspricht.
-
-Art 17a Ehewohnung und Haushaltsgegenstände
--------------------------------------------
+Art 16 (weggefallen)
+--------------------
 
 ### 
 
-Die Nutzungsbefugnis für die im Inland belegene Ehewohnung und die im Inland befindlichen Haushaltsgegenstände sowie damit zusammenhängende Betretungs-, Näherungs- und Kontaktverbote unterliegen den deutschen Sachvorschriften.
+Art 17 Sonderregelungen zur Scheidung
+-------------------------------------
+
+### 
+
+(1) Soweit vermögensrechtliche Scheidungsfolgen nicht in den Anwendungsbereich der Verordnung (EU) 2016/1103 oder der Verordnung (EG) Nr. 4/2009 fallen oder von anderen Vorschriften dieses Abschnitts erfasst sind, unterliegen sie dem nach der Verordnung (EU) Nr. 1259/2010 auf die Scheidung anzuwendenden Recht.
+
+(2) Auf Scheidungen, die nicht in den Anwendungsbereich der Verordnung (EU) Nr. 1259/2010 fallen, finden die Vorschriften des Kapitels II dieser Verordnung mit folgenden Maßgaben entsprechende Anwendung:
+
+1.  
+Artikel 5 Absatz 1 Buchstabe d der Verordnung (EU) Nr. 1259/2010 ist nicht anzuwenden;
+
+2.  
+in Artikel 5 Absatz 2, Artikel 6 Absatz 2 und Artikel 8 Buchstabe a bis c der Verordnung (EU) Nr. 1259/2010 ist statt auf den Zeitpunkt der Anrufung des Gerichts auf den Zeitpunkt der Einleitung des Scheidungsverfahrens abzustellen;
+
+3.  
+abweichend von Artikel 5 Absatz 3 der Verordnung (EU) Nr. 1259/2010 können die Ehegatten die Rechtswahl auch noch im Laufe des Verfahrens in der durch Artikel 7 dieser Verordnung bestimmten Form vornehmen, wenn das gewählte Recht dies vorsieht;
+
+4.  
+im Fall des Artikels 8 Buchstabe d der Verordnung (EU) Nr. 1259/2010 ist statt des Rechts des angerufenen Gerichts das Recht desjenigen Staates anzuwenden, mit dem die Ehegatten im Zeitpunkt der Einleitung des Scheidungsverfahrens auf andere Weise gemeinsam am engsten verbunden sind, und
+
+5.  
+statt der Artikel 10 und 12 der Verordnung (EU) Nr. 1259/2010 findet Artikel 6 Anwendung.
+
+(3) Eine Ehe kann im Inland nur durch ein Gericht geschieden werden.
+
+(4) Der Versorgungsausgleich unterliegt dem nach der Verordnung (EU) Nr. 1259/2010 auf die Scheidung anzuwendenden Recht; er ist nur durchzuführen, wenn danach deutsches Recht anzuwenden ist und ihn das Recht eines der Staaten kennt, denen die Ehegatten im Zeitpunkt des Eintritts der Rechtshängigkeit des Scheidungsantrags angehören. Im Übrigen ist der Versorgungsausgleich auf Antrag eines Ehegatten nach deutschem Recht durchzuführen, wenn einer der Ehegatten in der Ehezeit ein Anrecht bei einem inländischen Versorgungsträger erworben hat, soweit die Durchführung des Versorgungsausgleichs insbesondere im Hinblick auf die beiderseitigen wirtschaftlichen Verhältnisse während der gesamten Ehezeit der Billigkeit nicht widerspricht.
+
+Art 17a Ehewohnung
+------------------
+
+### 
+
+Betretungs-, Näherungs- und Kontaktverbote, die mit einer im Inland belegenen Ehewohnung zusammenhängen, unterliegen den deutschen Sachvorschriften.
 
 Art 17b Eingetragene Lebenspartnerschaft und gleichgeschlechtliche Ehe
 ----------------------------------------------------------------------
 
 ### 
 
-(1) Die Begründung, die allgemeinen und die güterrechtlichen Wirkungen sowie die Auflösung einer eingetragenen Lebenspartnerschaft unterliegen den Sachvorschriften des Register führenden Staates. Der Versorgungsausgleich unterliegt dem nach Satz 1 anzuwendenden Recht; er ist nur durchzuführen, wenn danach deutsches Recht anzuwenden ist und das Recht eines der Staaten, denen die Lebenspartner im Zeitpunkt der Rechtshängigkeit des Antrags auf Aufhebung der Lebenspartnerschaft angehören, einen Versorgungsausgleich zwischen Lebenspartnern kennt. Im Übrigen ist der Versorgungsausgleich auf Antrag eines Lebenspartners nach deutschem Recht durchzuführen, wenn einer der Lebenspartner während der Zeit der Lebenspartnerschaft ein Anrecht bei einem inländischen Versorgungsträger erworben hat, soweit die Durchführung des Versorgungsausgleichs insbesondere im Hinblick auf die beiderseitigen wirtschaftlichen Verhältnisse während der gesamten Zeit der Lebenspartnerschaft der Billigkeit nicht widerspricht.
+(1) Die Begründung, die Auflösung und die nicht in den Anwendungsbereich der Verordnung (EU) 2016/1104 fallenden allgemeinen Wirkungen einer eingetragenen Lebenspartnerschaft unterliegen den Sachvorschriften des Register führenden Staates. Der Versorgungsausgleich unterliegt dem nach Satz 1 anzuwendenden Recht; er ist nur durchzuführen, wenn danach deutsches Recht anzuwenden ist und das Recht eines der Staaten, denen die Lebenspartner im Zeitpunkt der Rechtshängigkeit des Antrags auf Aufhebung der Lebenspartnerschaft angehören, einen Versorgungsausgleich zwischen Lebenspartnern kennt. Im Übrigen ist der Versorgungsausgleich auf Antrag eines Lebenspartners nach deutschem Recht durchzuführen, wenn einer der Lebenspartner während der Zeit der Lebenspartnerschaft ein Anrecht bei einem inländischen Versorgungsträger erworben hat, soweit die Durchführung des Versorgungsausgleichs insbesondere im Hinblick auf die beiderseitigen wirtschaftlichen Verhältnisse während der gesamten Zeit der Lebenspartnerschaft der Billigkeit nicht widerspricht.
 
-(2) Artikel 10 Abs. 2 und Artikel 17a gelten entsprechend. Unterliegen die allgemeinen Wirkungen der Lebenspartnerschaft dem Recht eines anderen Staates, so ist auf im Inland befindliche bewegliche Sachen § 8 Abs. 1 des Lebenspartnerschaftsgesetzes und auf im Inland vorgenommene Rechtsgeschäfte § 8 Abs. 2 des Lebenspartnerschaftsgesetzes in Verbindung mit § 1357 des Bürgerlichen Gesetzbuchs anzuwenden, soweit diese Vorschriften für gutgläubige Dritte günstiger sind als das fremde Recht. Unterliegen die güterrechtlichen Wirkungen einer eingetragenen Lebenspartnerschaft dem Recht eines anderen Staates und hat einer der Lebenspartner seinen gewöhnlichen Aufenthalt im Inland oder betreibt er hier ein Gewerbe, so ist § 7 Satz 2 des Lebenspartnerschaftsgesetzes in Verbindung mit § 1412 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden; der fremde Güterstand steht einem vertragsmäßigen gleich.
+(2) Artikel 10 Abs. 2 und Artikel 17a gelten entsprechend.
 
 (3) Bestehen zwischen denselben Personen eingetragene Lebenspartnerschaften in verschiedenen Staaten, so ist die zuletzt begründete Lebenspartnerschaft vom Zeitpunkt ihrer Begründung an für die in Absatz 1 umschriebenen Wirkungen und Folgen maßgebend.
 
-(4) Die Bestimmungen der Absätze 1 bis 3 gelten für die gleichgeschlechtliche Ehe entsprechend.
+(4) Gehören die Ehegatten demselben Geschlecht an oder gehört zumindest ein Ehegatte weder dem weiblichen noch dem männlichen Geschlecht an, so gelten die Absätze 1 bis 3 mit der Maßgabe entsprechend, dass sich das auf die Ehescheidung und auf die Trennung ohne Auflösung des Ehebandes anzuwendende Recht nach der Verordnung (EU) Nr. 1259/2010 richtet.Die güterrechtlichen Wirkungen unterliegen dem nach der Verordnung (EU) 2016/1103 anzuwendenden Recht.
+
+(5) Für die in Absatz 4 genannten Ehen gelten Artikel 13 Absatz 3, Artikel 17 Absatz 1 bis 3, Artikel 19 Absatz 1 Satz 3, Artikel 22 Absatz 1 Satz 2 und Absatz 3 Satz 1 sowie Artikel 46e entsprechend. Die Ehegatten können für die allgemeinen Ehewirkungen eine Rechtswahl gemäß Artikel 14 treffen.
 
 Art 18 (weggefallen)
 --------------------
@@ -347,7 +353,7 @@ Art 19 Abstammung
 
 ### 
 
-(1) Die Abstammung eines Kindes unterliegt dem Recht des Staates, in dem das Kind seinen gewöhnlichen Aufenthalt hat. Sie kann im Verhältnis zu jedem Elternteil auch nach dem Recht des Staates bestimmt werden, dem dieser Elternteil angehört. Ist die Mutter verheiratet, so kann die Abstammung ferner nach dem Recht bestimmt werden, dem die allgemeinen Wirkungen ihrer Ehe bei der Geburt nach Artikel 14 Abs. 1 unterliegen; ist die Ehe vorher durch Tod aufgelöst worden, so ist der Zeitpunkt der Auflösung maßgebend.
+(1) Die Abstammung eines Kindes unterliegt dem Recht des Staates, in dem das Kind seinen gewöhnlichen Aufenthalt hat. Sie kann im Verhältnis zu jedem Elternteil auch nach dem Recht des Staates bestimmt werden, dem dieser Elternteil angehört. Ist die Mutter verheiratet, so kann die Abstammung ferner nach dem Recht bestimmt werden, dem die allgemeinen Wirkungen ihrer Ehe bei der Geburt nach Artikel 14 Absatz 2 unterliegen; ist die Ehe vorher durch Tod aufgelöst worden, so ist der Zeitpunkt der Auflösung maßgebend.
 
 (2) Sind die Eltern nicht miteinander verheiratet, so unterliegen Verpflichtungen des Vaters gegenüber der Mutter auf Grund der Schwangerschaft dem Recht des Staates, in dem die Mutter ihren gewöhnlichen Aufenthalt hat.
 
@@ -370,7 +376,7 @@ Art 22 Annahme als Kind
 
 ### 
 
-(1) Die Annahme als Kind unterliegt dem Recht des Staates, dem der Annehmende bei der Annahme angehört. Die Annahme durch einen oder beide Ehegatten unterliegt dem Recht, das nach Artikel 14 Abs. 1 für die allgemeinen Wirkungen der Ehe maßgebend ist. Die Annahme durch einen Lebenspartner unterliegt dem Recht, das nach Artikel 17b Absatz 1 Satz 1 für die allgemeinen Wirkungen der Lebenspartnerschaft maßgebend ist.
+(1) Die Annahme als Kind unterliegt dem Recht des Staates, dem der Annehmende bei der Annahme angehört. Die Annahme durch einen oder beide Ehegatten unterliegt dem Recht, das nach Artikel 14 Absatz 2 für die allgemeinen Wirkungen der Ehe maßgebend ist. Die Annahme durch einen Lebenspartner unterliegt dem Recht, das nach Artikel 17b Absatz 1 Satz 1 für die allgemeinen Wirkungen der Lebenspartnerschaft maßgebend ist.
 
 (2) Die Folgen der Annahme in Bezug auf das Verwandtschaftsverhältnis zwischen dem Kind und dem Annehmenden sowie den Personen, zu denen das Kind in einem familienrechtlichen Verhältnis steht, unterliegen dem nach Absatz 1 anzuwendenden Recht.
 
@@ -537,8 +543,8 @@ Art 46 Wesentlich engere Verbindung
 
 Besteht mit dem Recht eines Staates eine wesentlich engere Verbindung als mit dem Recht, das nach den Artikeln 43 und 45 maßgebend wäre, so ist jenes Recht anzuwenden.
 
-Siebter Abschnitt Besondere Vorschriften zur Durchführung von Regelungen der Europäischen Union nach Artikel 3 Nr. 1
---------------------------------------------------------------------------------------------------------------------
+Siebter Abschnitt Besondere Vorschriften zur Durchführung und Umsetzung international-privatrechtlicher Regelungen der Europäischen Union
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 ### 
 
@@ -554,8 +560,8 @@ Art 46a Umweltschädigungen
 
 Die geschädigte Person kann das ihr nach Artikel 7 der Verordnung (EG) Nr. 864/2007 zustehende Recht, ihren Anspruch auf das Recht des Staates zu stützen, in dem das schadensbegründende Ereignis eingetreten ist, nur im ersten Rechtszug bis zum Ende des frühen ersten Termins oder dem Ende des schriftlichen Vorverfahrens ausüben.
 
-Zweiter Unterabschnitt Durchführung der Verordnung (EG) Nr. 593/2008
---------------------------------------------------------------------
+Zweiter Unterabschnitt Umsetzung international-privatrechtlicher Regelungen im Verbraucherschutz
+------------------------------------------------------------------------------------------------
 
 ### 
 
@@ -598,7 +604,39 @@ eine der betroffenen Immobilien im Hoheitsgebiet eines Mitgliedstaats der Europ�
 2.  
 im Falle eines Vertrags, der sich nicht unmittelbar auf eine Immobilie bezieht, der Unternehmer eine gewerbliche oder berufliche Tätigkeit in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ausübt oder diese Tätigkeit auf irgendeine Weise auf einen solchen Staat ausrichtet und der Vertrag in den Bereich dieser Tätigkeit fällt.
 
-Art 46c Pflichtversicherungsverträge
+Art 46c Pauschalreisen und verbundene Reiseleistungen
+-----------------------------------------------------
+
+### 
+
+(1) Hat der Reiseveranstalter im Zeitpunkt des Vertragsschlusses seine Niederlassung im Sinne des § 4 Absatz 3 der Gewerbeordnung weder in einem Mitgliedstaat der Europäischen Union noch in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum und
+
+1.  
+schließt der Reiseveranstalter in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum Pauschalreiseverträge oder bietet er in einem dieser Staaten an, solche Verträge zu schließen, oder
+
+2.  
+richtet der Reiseveranstalter seine Tätigkeit im Sinne der Nummer 1 auf einen Mitgliedstaat der Europäischen Union oder einen anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum aus,
+
+so sind die sachrechtlichen Vorschriften anzuwenden, die der in Nummer 1 oder Nummer 2 genannte Staat zur Umsetzung des Artikels 17 der Richtlinie (EU) 2015/2302 des Europäischen Parlaments und des Rates vom 25. November 2015 über Pauschalreisen und verbundene Reiseleistungen, zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie 2011/83/EU des Europäischen Parlaments und des Rates sowie zur Aufhebung der Richtlinie 90/314/EWG des Rates (ABl. L 326 vom 11.12.2015, S. 1) erlassen hat, sofern der Vertrag in den Bereich dieser Tätigkeit fällt.
+
+(2) Hat der Vermittler verbundener Reiseleistungen im Zeitpunkt des Vertragsschlusses seine Niederlassung im Sinne des § 4 Absatz 3 der Gewerbeordnung weder in einem Mitgliedstaat der Europäischen Union noch einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum und
+
+1.  
+vermittelt er verbundene Reiseleistungen in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder bietet er sie dort zur Vermittlung an oder
+
+2.  
+richtet er seine Vermittlungstätigkeit auf einen Mitgliedstaat der Europäischen Union oder einen anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum aus,
+
+so sind die sachrechtlichen Vorschriften anzuwenden, die der in Nummer 1 oder Nummer 2 genannte Staat zur Umsetzung des Artikels 19 Absatz 1 in Verbindung mit Artikel 17 und des Artikels 19 Absatz 3 der Richtlinie (EU) 2015/2302 erlassen hat, sofern der Vertrag in den Bereich dieser Tätigkeit fällt.
+
+(3) Hat der Vermittler verbundener Reiseleistungen in dem nach Artikel 251 § 1 maßgeblichen Zeitpunkt seine Niederlassung im Sinne des § 4 Absatz 3 der Gewerbeordnung weder in einem Mitgliedstaat der Europäischen Union noch in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum und richtet er seine Vermittlungstätigkeit auf einen Mitgliedstaat der Europäischen Union oder einen anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum aus, so sind die sachrechtlichen Vorschriften anzuwenden, die der Staat, auf den die Vermittlungstätigkeit ausgerichtet ist, zur Umsetzung des Artikels 19 Absatz 2 und 3 der Richtlinie (EU) 2015/2302 erlassen hat, sofern der in Aussicht genommene Vertrag in den Bereich dieser Tätigkeit fällt.
+
+Dritter Unterabschnitt Durchführung der Verordnung (EG) Nr. 593/2008
+--------------------------------------------------------------------
+
+### 
+
+Art 46d Pflichtversicherungsverträge
 ------------------------------------
 
 ### 
@@ -607,12 +645,12 @@ Art 46c Pflichtversicherungsverträge
 
 (2) Ein über eine Pflichtversicherung abgeschlossener Vertrag unterliegt deutschem Recht, wenn die gesetzliche Verpflichtung zu seinem Abschluss auf deutschem Recht beruht.
 
-Dritter Unterabschnitt Durchführung der Verordnung (EU) Nr. 1259/2010
+Vierter Unterabschnitt Durchführung der Verordnung (EU) Nr. 1259/2010
 ---------------------------------------------------------------------
 
 ### 
 
-Art 46d Rechtswahl
+Art 46e Rechtswahl
 ------------------
 
 ### 
@@ -1840,7 +1878,7 @@ dem Recht, dem die Ehegatten sich unterstellt haben oder von dessen Anwendung si
 3.  
 dem Recht des Staates, dem der Ehemann bei der Eheschließung angehörte.
 
-Für die Zeit nach dem 8. April 1983 ist Artikel 15 anzuwenden. Dabei tritt für Ehen, auf die vorher Satz 1 Nr. 3 anzuwenden war, an die Stelle des Zeitpunkts der Eheschließung der 9. April 1983. Soweit sich allein aus einem Wechsel des anzuwendenden Rechts zum Ablauf des 8. April 1983 Ansprüche wegen der Beendigung des früheren Güterstands ergeben würden, gelten sie bis zu dem in Absatz 1 genannten Tag als gestundet. Auf die güterrechtlichen Wirkungen von Ehen, die nach dem 8. April 1983 geschlossen worden sind, ist Artikel 15 anzuwenden. Die güterrechtlichen Wirkungen von Ehen, die vor dem 1. April 1953 geschlossen worden sind, bleiben unberührt; die Ehegatten können jedoch eine Rechtswahl nach Artikel 15 Abs. 2 und 3 treffen.
+Für die Zeit nach dem 8. April 1983 ist Artikel 15 in der bis einschließlich 28. Januar 2019 geltenden Fassung anzuwenden. Dabei tritt für Ehen, auf die vorher Satz 1 Nr. 3 anzuwenden war, an die Stelle des Zeitpunkts der Eheschließung der 9. April 1983. Soweit sich allein aus einem Wechsel des anzuwendenden Rechts zum Ablauf des 8. April 1983 Ansprüche wegen der Beendigung des früheren Güterstands ergeben würden, gelten sie bis zu dem in Absatz 1 genannten Tag als gestundet. Auf die güterrechtlichen Wirkungen von Ehen, die nach dem 8. April 1983 geschlossen worden sind, ist Artikel 15 in der bis einschließlich 28. Januar 2019 geltenden Fassung anzuwenden. Die güterrechtlichen Wirkungen von Ehen, die vor dem 1. April 1953 geschlossen worden sind, bleiben unberührt; die Ehegatten können jedoch eine Rechtswahl nach Artikel 15 Absatz 2 und 3 in der bis einschließlich 28. Januar 2019 geltenden Fassung treffen.
 
 (4) (weggefallen)
 
@@ -2590,6 +2628,13 @@ Für Verbraucherdarlehensverträge gemäß § 504 des Bürgerlichen Gesetzbuchs 
 Art 229
 -------
 
+### § 39 Übergangsvorschrift zum Gesetz zur Reform des Bauvertragsrechts, zur Änderung der kaufrechtlichen Mängelhaftung, zur Stärkung des zivilprozessualen Rechtsschutzes und zum maschinellen Siegel im Grundbuch- und Schiffsregisterverfahren
+
+Auf ein Schuldverhältnis, das vor dem 1. Januar 2018 entstanden ist, finden die Vorschriften dieses Gesetzes, des Bürgerlichen Gesetzbuchs und der Verordnung über Abschlagszahlungen bei Bauträgerverträgen in der bis zu diesem Tag geltenden Fassung Anwendung.
+
+Art 229
+-------
+
 ### § 40 Übergangsvorschrift zum Finanzaufsichtsrechtergänzungsgesetz
 
 (1) Das Bürgerliche Gesetzbuch ist in der bis zum 9. Juni 2017 geltenden Fassung auf folgende Verträge anzuwenden, wenn sie vor dem 10. Juni 2017 abgeschlossen wurden:
@@ -2614,6 +2659,13 @@ Art 229
 ### § 41 Übergangsvorschrift zum Gesetz zur Änderung von Vorschriften im Bereich des Internationalen Privat- und Zivilverfahrensrechts vom 11. Juni 2017
 
 Ist vor Inkrafttreten von Artikel 8 am 17. Juni 2017 eine Vollmacht erteilt oder eine Erklärung im Namen einer anderen Person gegenüber einem Dritten abgegeben oder für einen anderen entgegengenommen worden, bleibt das bisherige Internationale Privatrecht anwendbar.
+
+Art 229
+-------
+
+### § 42 Übergangsvorschrift zum Dritten Gesetz zur Änderung reiserechtlicher Vorschriften
+
+Auf einen vor dem 1. Juli 2018 abgeschlossenen Reisevertrag sind die Vorschriften dieses Gesetzes, des Bürgerlichen Gesetzbuchs, der BGB-Informationspflichten-Verordnung, des Unterlassungsklagengesetzes, der Gewerbeordnung und der Preisangabenverordnung in der bis zu diesem Tag geltenden Fassung weiter anzuwenden.
 
 Art 229
 -------
@@ -2664,6 +2716,65 @@ der minderjährige Ehegatte vor dem 22. Juli 1999 geboren worden ist, oder
 
 2.  
 die nach ausländischem Recht wirksame Ehe bis zur Volljährigkeit des minderjährigen Ehegatten geführt worden ist und kein Ehegatte seit der Eheschließung bis zur Volljährigkeit des minderjährigen Ehegatten seinen gewöhnlichen Aufenthalt in Deutschland hatte.
+
+Art 229
+-------
+
+### § 45 Übergangsvorschriften zum Gesetz zur Umsetzung der Zweiten Zahlungsdiensterichtlinie vom 17. Juli 2017
+
+(1) Auf Schuldverhältnisse, die die Ausführung von Zahlungsvorgängen zum Gegenstand haben und ab dem 13. Januar 2018 entstanden sind, sind nur das Bürgerliche Gesetzbuch und Artikel 248 in der ab dem 13. Januar 2018 geltenden Fassung anzuwenden.
+
+(2) Auf Schuldverhältnisse, die die Ausführung von Zahlungsvorgängen zum Gegenstand haben und vor dem 13. Januar 2018 entstanden sind, sind das Bürgerliche Gesetzbuch und Artikel 248 in der bis zum 13. Januar 2018 geltenden Fassung anzuwenden, soweit in den Absätzen 3 und 4 nichts anderes bestimmt ist.
+
+(3) Wenn bei einem Schuldverhältnis im Sinne von Absatz 2 erst ab dem 13. Januar 2018 mit der Abwicklung eines Zahlungsvorgangs begonnen worden ist, sind auf diesen Zahlungsvorgang nur das Bürgerliche Gesetzbuch und Artikel 248 in der ab dem 13. Januar 2018 geltenden Fassung anzuwenden.
+
+(4) § 675f Absatz 3 des Bürgerlichen Gesetzbuchs in der ab dem 13. Januar 2018 geltenden Fassung ist ab diesem Tag auch auf Schuldverhältnisse im Sinne von Absatz 2 anzuwenden.
+
+(5) § 270a des Bürgerlichen Gesetzbuchs ist auf alle Schuldverhältnisse anzuwenden, die ab dem 13. Januar 2018 entstanden sind.
+
+Art 229
+-------
+
+### § 46 Überleitungsvorschrift zum Gesetz zur Regelung des Rechts auf Kenntnis der Abstammung bei heterologer Verwendung von Samen
+
+§ 1600d Absatz 4 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden, wenn der Samen, mithilfe dessen das Kind gezeugt wurde, vor Inkrafttreten des Gesetzes zur Regelung des Rechts auf Kenntnis der Abstammung bei heterologer Verwendung von Samen vom 17. Juli 2017 (BGBl. I S. 2513) verwendet wurde.
+
+Art 229
+-------
+
+### § 47 Übergangsvorschrift zum Gesetz zum Internationalen Güterrecht und zur Änderung von Vorschriften des Internationalen Privatrechts vom 17. Dezember 2018
+
+(1) Die allgemeinen Wirkungen der Ehe bestimmen sich bis einschließlich 28. Januar 2019 nach Artikel 14 in der bis zu diesem Tag geltenden Fassung.
+
+(2) Haben die Ehegatten die Ehe vor dem 29. Januar 2019 geschlossen und ab diesem Zeitpunkt keine Rechtswahl nach der Verordnung (EU) 2016/1103 über das auf ihren Güterstand anzuwendende Recht getroffen, sind folgende Vorschriften jeweils in ihrer bis einschließlich 28. Januar 2019 geltenden Fassung weiter anzuwenden:
+
+1.  
+die Vorschriften des Gesetzes über den ehelichen Güterstand von Vertriebenen und Flüchtlingen;
+
+2.  
+die Artikel 3a, 15, 16, 17a sowie 17b Absatz 4.
+
+(3) Haben die Lebenspartner ihre eingetragene Partnerschaft vor dem 29. Januar 2019 eintragen lassen und ab diesem Zeitpunkt keine Rechtswahl nach der Verordnung (EU) 2016/1104 über das auf die güterrechtlichen Wirkungen ihrer eingetragenen Partnerschaft anzuwendende Recht getroffen, ist Artikel 17b Absatz 1 Satz 1 sowie Absatz 2 Satz 2 und 3 in der bis einschließlich 28. Januar 2019 geltenden Fassung weiter anzuwenden.
+
+(4) Fand die Geburt oder die Annahme als Kind vor dem 29. Januar 2019 statt, so sind Artikel 19 Absatz 1 Satz 3 und Artikel 22 Absatz 1 Satz 2 in ihrer bis einschließlich 28. Januar 2019 geltenden Fassung anwendbar.
+
+Art 229
+-------
+
+### § 48 Überleitungsvorschrift zum Gesetz zur Umsetzung des Gesetzes zur Einführung des Rechts auf Eheschließung für Personen gleichen Geschlechts
+
+Auf gleichgeschlechtliche Ehen und eingetragene Lebenspartnerschaften, die vor dem 1. Oktober 2017 im Ausland nach den Sachvorschriften des Register führenden Staates wirksam geschlossen oder begründet worden sind, findet Artikel 17b Absatz 4 in seiner bis einschließlich 30. September 2017 geltenden Fassung keine Anwendung.
+
+Art 229
+-------
+
+### § 49 Übergangsvorschriften zum Mietrechtsanpassungsgesetz vom 18. Dezember 2018
+
+(1) Auf ein bis einschließlich 31. Dezember 2018 entstandenes Mietverhältnis sind die §§ 555c und 559 des Bürgerlichen Gesetzbuchs in der bis dahin geltenden Fassung weiter anzuwenden, wenn dem Mieter bei Modernisierungsmaßnahmen die Mitteilung nach § 555c Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs bis einschließlich 31. Dezember 2018 zugegangen ist. Hat der Vermieter die Modernisierungsmaßnahme nicht oder nicht ordnungsgemäß nach § 555c Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs angekündigt, so gilt Satz 1 mit der Maßgabe, dass es an Stelle des Zugangs der Mitteilung nach § 555c Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs auf den Zugang der Mieterhöhungserklärung nach § 559b Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs ankommt. § 559c des Bürgerlichen Gesetzbuchs ist nur anzuwenden, wenn der Vermieter die Modernisierungsmaßnahme nach dem 31. Dezember 2018 angekündigt hat. § 559d des Bürgerlichen Gesetzbuchs ist nur anzuwenden auf ein Verhalten nach dem 31. Dezember 2018.
+
+(2) Auf ein bis einschließlich 31. Dezember 2018 entstandenes Mietverhältnis ist § 556g Absatz 1a des Bürgerlichen Gesetzbuchs nicht anzuwenden. § 556g Absatz 2 des Bürgerlichen Gesetzbuchs ist in der bis einschließlich 31. Dezember 2018 geltenden Fassung weiter auf Mietverhältnisse anzuwenden, die bis zu diesem Zeitpunkt im Anwendungsbereich der §§ 556d bis 556g des Bürgerlichen Gesetzbuchs abgeschlossen worden sind.
+
+(3) Auf ein bis einschließlich 31. Dezember 2018 entstandenes Mietverhältnis ist § 578 Absatz 3 des Bürgerlichen Gesetzbuchs nicht anzuwenden.
 
 Sechster Teil Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3494,7 +3605,7 @@ Art 236
 
 ### § 3 Güterstand
 
-Die güterrechtlichen Wirkungen von Ehen, die vor dem Wirksamwerden des Beitritts geschlossen worden sind, unterliegen von diesem Tag an dem Artikel 15; dabei tritt an die Stelle des Zeitpunkts der Eheschließung der Tag des Wirksamwerdens des Beitritts. Soweit sich allein aus einem Wechsel des anzuwendenden Rechts nach Satz 1 Ansprüche wegen der Beendigung des früheren Güterstandes ergeben würden, gelten sie bis zum Ablauf von zwei Jahren nach Wirksamwerden des Beitritts als gestundet.
+Die güterrechtlichen Wirkungen von Ehen, die vor dem Wirksamwerden des Beitritts geschlossen worden sind, unterliegen von diesem Tag an dem Artikel 15 in der bis einschließlich 28. Januar 2019 geltenden Fassung; dabei tritt an die Stelle des Zeitpunkts der Eheschließung der Tag des Wirksamwerdens des Beitritts. Soweit sich allein aus einem Wechsel des anzuwendenden Rechts nach Satz 1 Ansprüche wegen der Beendigung des früheren Güterstandes ergeben würden, gelten sie bis zum Ablauf von zwei Jahren nach Wirksamwerden des Beitritts als gestundet.
 
 Art 237 Bestandsschutz, Ausschlußfrist
 --------------------------------------
@@ -3532,28 +3643,10 @@ Siebter Teil Durchführung des Bürgerlichen Gesetzbuchs, Verordnungsermächtigu
 
 ### 
 
-Art 238 Reiserechtliche Vorschriften
-------------------------------------
+Art 238 (weggefallen)
+---------------------
 
 ### 
-
-(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates,
-
-1.  
-soweit es zum Schutz des Verbrauchers bei Reisen erforderlich ist, Vorschriften zu erlassen, durch die sichergestellt wird,
-
-a)  
-dass die Beschreibungen von Reisen keine irreführenden, sondern klare und genaue Angaben enthalten und
-
-b)  
-dass der Reiseveranstalter dem Verbraucher die notwendigen Informationen erteilt und
-
-2.  
-soweit es zum Schutz des Verbrauchers vor Zahlungen oder Reisen ohne die vorgeschriebene Sicherung erforderlich ist, den Inhalt und die Gestaltung der Sicherungsscheine nach § 651k Abs. 3 und der Nachweise nach § 651k Abs. 5 des Bürgerlichen Gesetzbuchs festzulegen und zu bestimmen, wie der Reisende über das Bestehen der Absicherung informiert wird.
-
-Zu dem in Satz 1 Nr. 1 genannten Zweck kann insbesondere bestimmt werden, welche Angaben in einem vom Veranstalter herausgegebenen Prospekt und in dem Reisevertrag enthalten sein müssen sowie welche Informationen der Reiseveranstalter dem Reisenden vor dem Vertragsabschluss und vor dem Antritt der Reise geben muss.
-
-(2) Der Kundengeldabsicherer (§ 651k Abs. 2 des Bürgerlichen Gesetzbuchs) ist verpflichtet, die Beendigung des Kundengeldabsicherungsvertrags der zuständigen Behörde unverzüglich mitzuteilen.
 
 Art 239 Länderöffnungsklausel
 -----------------------------
@@ -3628,7 +3721,7 @@ Art 244 Abschlagszahlungen beim Hausbau
 
 ### 
 
-Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates auch unter Abweichung von § 632a des Bürgerlichen Gesetzbuchs zu regeln, welche Abschlagszahlungen bei Werkverträgen verlangt werden können, die die Errichtung oder den Umbau eines Hauses oder eines vergleichbaren Bauwerks zum Gegenstand haben, insbesondere wie viele Abschläge vereinbart werden können, welche erbrachten Gewerke hierbei mit welchen Prozentsätzen der Gesamtbausumme angesetzt werden können, welcher Abschlag für eine in dem Vertrag enthaltene Verpflichtung zur Verschaffung des Eigentums angesetzt werden kann und welche Sicherheit dem Besteller hierfür zu leisten ist.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates auch unter Abweichung von § 632a oder § 650m des Bürgerlichen Gesetzbuchs zu regeln, welche Abschlagszahlungen bei Werkverträgen verlangt werden können, die die Errichtung oder den Umbau eines Hauses oder eines vergleichbaren Bauwerks zum Gegenstand haben, insbesondere wie viele Abschläge vereinbart werden können, welche erbrachten Gewerke hierbei mit welchen Prozentsätzen der Gesamtbausumme angesetzt werden können, welcher Abschlag für eine in dem Vertrag enthaltene Verpflichtung zur Verschaffung des Eigentums angesetzt werden kann und welche Sicherheit dem Besteller hierfür zu leisten ist.
 
 Art 245 (weggefallen)
 ---------------------
@@ -3760,10 +3853,10 @@ Der Unternehmer kann diese Informationspflichten dadurch erfüllen, dass er das 
 (3) Der Unternehmer hat den Verbraucher auch zu informieren, wenn
 
 1.  
-dem Verbraucher nach § 312g Absatz 2 Satz 1 Nummer 1, 2, 5 und 7 bis 13 des Bürgerlichen Gesetzbuchs ein Widerrufsrecht nicht zusteht, dass der Verbraucher seine Willenserklärung nicht widerrufen kann, oder
+dem Verbraucher nach § 312g Absatz 2 Nummer 1, 2, 5 und 7 bis 13 des Bürgerlichen Gesetzbuchs ein Widerrufsrecht nicht zusteht, dass der Verbraucher seine Willenserklärung nicht widerrufen kann, oder
 
 2.  
-das Widerrufsrecht des Verbrauchers nach § 312g Absatz 2 Satz 1 Nummer 3, 4 und 6 sowie § 356 Absatz 4 und 5 des Bürgerlichen Gesetzbuchs vorzeitig erlöschen kann, über die Umstände, unter denen der Verbraucher ein zunächst bestehendes Widerrufsrecht verliert.
+das Widerrufsrecht des Verbrauchers nach § 312g Absatz 2 Nummer 3, 4 und 6 sowie § 356 Absatz 4 und 5 des Bürgerlichen Gesetzbuchs vorzeitig erlöschen kann, über die Umstände, unter denen der Verbraucher ein zunächst bestehendes Widerrufsrecht verliert.
 
 Art 246a
 --------
@@ -4021,7 +4114,7 @@ den Gesamtbetrag,
 die Auszahlungsbedingungen,
 
 10.  
-alle sonstigen Kosten, insbesondere in Zusammenhang mit der Auszahlung oder der Verwendung eines Zahlungsauthentifizierungsinstruments, mit dem sowohl Zahlungsvorgänge als auch Abhebungen getätigt werden können, sowie die Bedingungen, unter denen die Kosten angepasst werden können,
+alle sonstigen Kosten, insbesondere in Zusammenhang mit der Auszahlung oder der Verwendung eines Zahlungsinstruments, mit dem sowohl Zahlungsvorgänge als auch Abhebungen getätigt werden können, sowie die Bedingungen, unter denen die Kosten angepasst werden können,
 
 11.  
 den Verzugszinssatz und die Art und Weise seiner etwaigen Anpassung sowie gegebenenfalls anfallende Verzugskosten,
@@ -4067,6 +4160,8 @@ den Anspruch auf Vorfälligkeitsentschädigung und dessen Berechnungsmethode, so
 gegebenenfalls den Zeitraum, für den sich der Darlehensgeber an die übermittelten Informationen bindet.
 
 (2) Weitere Hinweise des Darlehensgebers müssen räumlich getrennt von den Angaben nach Absatz 1 und nach den §§ 3 und 8 bis 13a übermittelt werden.
+
+(3) Wird in einem Allgemein-Verbraucherdarlehensvertrag auf einen Referenzwert im Sinne des Artikels 3 Absatz 1 Nummer 3 der Verordnung (EU) 2016/1011 des Europäischen Parlaments und des Rates vom 8. Juni 2016 über Indizes, die bei Finanzinstrumenten und Finanzkontrakten als Referenzwert oder zur Messung der Wertentwicklung eines Investmentfonds verwendet werden, und zur Änderung der Richtlinien 2008/48/EG und 2014/17/EU sowie der Verordnung (EU) Nr. 596/2014 (ABl. L 171 vom 29.6.2016, S. 1) Bezug genommen, teilt der Darlehensgeber dem Darlehensnehmer in einem gesonderten Dokument, das dem Formular „Europäische Standardinformationen für Verbraucherkredite“ beigefügt werden kann, die Bezeichnung des Referenzwerts und den Namen des Administrators sowie die möglichen Auswirkungen auf den Darlehensnehmer mit.
 
 Art 247
 -------
@@ -4477,10 +4572,13 @@ die Bedingungen, die für eine vorzeitige Rückzahlung gelten,
 Auskunft darüber, ob für den Vertragsschluss eine Bewertung des Werts des belasteten Grundstücks oder des Werts des zu erwerbenden oder zu erhaltenden Grundstücks, Gebäudes oder grundstücksgleichen Rechts erforderlich ist und, falls ja, wer dafür verantwortlich ist, dass die Bewertung durchgeführt wird, sowie Informationen darüber, ob dem Darlehensnehmer hierdurch Kosten entstehen,
 
 12.  
-Auskunft über die Nebenleistungen, die der Darlehensnehmer erwerben muss, damit ihm das Darlehen überhaupt oder nach den vorgesehenen Vertragsbedingungen gewährt wird, und gegebenenfalls einen Hinweis darauf, dass die Nebenleistungen von einem anderen Anbieter als dem Darlehensgeber erworben werden können, und
+Auskunft über die Nebenleistungen, die der Darlehensnehmer erwerben muss, damit ihm das Darlehen überhaupt oder nach den vorgesehenen Vertragsbedingungen gewährt wird, und gegebenenfalls einen Hinweis darauf, dass die Nebenleistungen von einem anderen Anbieter als dem Darlehensgeber erworben werden können,
 
 13.  
-eine allgemeine Warnung vor möglichen Konsequenzen für den Fall, dass der Darlehensnehmer die mit dem Darlehensvertrag eingegangenen Verpflichtungen nicht einhält.
+eine allgemeine Warnung vor möglichen Konsequenzen für den Fall, dass der Darlehensnehmer die mit dem Darlehensvertrag eingegangenen Verpflichtungen nicht einhält, und
+
+14.  
+falls Verträge angeboten werden, in denen auf einen Referenzwert im Sinne des Artikels 3 Absatz 1 Nummer 3 der Verordnung (EU) 2016/1011 Bezug genommen wird, die Bezeichnungen der Referenzwerte und die Namen der Administratoren sowie die möglichen Auswirkungen auf den Darlehensnehmer.
 
 Werden Verträge in einer anderen Währung als der Landeswährung des Darlehensnehmers nach § 503 Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs angeboten, so sind die in Betracht kommenden ausländischen Währungen anzugeben sowie die möglichen Konsequenzen eines Darlehens in Fremdwährung für den Darlehensnehmer zu erläutern.
 
@@ -4512,14 +4610,14 @@ Art 248
 
 ### § 1 Konkurrierende Informationspflichten
 
-Ist der Zahlungsdienstevertrag zugleich ein Fernabsatzvertrag oder ein außerhalb von Geschäftsräumen geschlossener Vertrag, so werden die Informationspflichten nach Artikel 246b § 1 Absatz 1 durch die Informationspflichten nach den §§ 2 bis 16 ersetzt. Dies gilt bei Fernabsatzverträgen nicht für die in Artikel 246b § 1 Absatz 1 Nummer 7 bis 12, 15 und 19 und bei außerhalb von Geschäftsräumen geschlossenen Verträgen nicht für die in Artikel 246b § 1 Absatz 1 Nummer 12 genannten Informationspflichten.
+Ist der Zahlungsdienstevertrag zugleich ein Fernabsatzvertrag oder ein außerhalb von Geschäftsräumen geschlossener Vertrag, so werden die Informationspflichten nach Artikel 246b § 1 Absatz 1 durch die Informationspflichten nach den §§ 2 bis 13 und 14 bis 16 ersetzt. Dies gilt bei Fernabsatzverträgen nicht für die in Artikel 246b § 1 Absatz 1 Nummer 7 bis 12, 15 und 19 und bei außerhalb von Geschäftsräumen geschlossenen Verträgen nicht für die in Artikel 246b § 1 Absatz 1 Nummer 12 genannten Informationspflichten.
 
 Art 248
 -------
 
 ### § 2 Allgemeine Form
 
-Die Informationen und Vertragsbedingungen sind in einer Amtssprache des Mitgliedstaats der Europäischen Union oder des Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum, in dem der Zahlungsdienst angeboten wird, oder in einer anderen zwischen den Parteien vereinbarten Sprache klar und verständlich abzufassen.
+Die Informationen und Vertragsbedingungen sind in einer Amtssprache des Mitgliedstaats der Europäischen Union oder des Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum, in dem der Zahlungsdienst angeboten wird, oder in einer anderen zwischen den Parteien vereinbarten Sprache in leicht verständlichen Worten und in klarer und verständlicher Form abzufassen.
 
 Abschnitt 2 Zahlungsdiensterahmenverträge
 -----------------------------------------
@@ -4556,25 +4654,28 @@ a)
 eine Beschreibung der wesentlichen Merkmale des zu erbringenden Zahlungsdienstes,
 
 b)  
-Informationen oder Kundenkennungen, die für die ordnungsgemäße Ausführung eines Zahlungsauftrags erforderlich sind,
+Informationen oder Kundenkennungen, die für die ordnungsgemäße Auslösung oder Ausführung eines Zahlungsauftrags erforderlich sind,
 
 c)  
-die Art und Weise der Zustimmung zur Ausführung eines Zahlungsvorgangs und des Widerrufs eines Zahlungsauftrags gemäß den §§ 675j und 675p des Bürgerlichen Gesetzbuchs,
+die Art und Weise der Zustimmung zur Auslösung eines Zahlungsauftrags oder zur Ausführung eines Zahlungsvorgangs und des Widerrufs eines Zahlungsauftrags gemäß den §§ 675j und 675p des Bürgerlichen Gesetzbuchs,
 
 d)  
 den Zeitpunkt, ab dem ein Zahlungsauftrag gemäß § 675n Abs. 1 des Bürgerlichen Gesetzbuchs als zugegangen gilt, und gegebenenfalls den vom Zahlungsdienstleister gemäß § 675n Abs. 1 Satz 3 festgelegten Zeitpunkt,
 
 e)  
-die maximale Ausführungsfrist für die zu erbringenden Zahlungsdienste und
+die maximale Ausführungsfrist für die zu erbringenden Zahlungsdienste,
 
 f)  
-die Angabe, ob die Möglichkeit besteht, Betragsobergrenzen für die Nutzung eines Zahlungsauthentifizierungsinstruments gemäß § 675k Abs. 1 des Bürgerlichen Gesetzbuchs zu vereinbaren,
+die Angabe, ob die Möglichkeit besteht, Betragsobergrenzen für die Nutzung eines Zahlungsinstruments gemäß § 675k Abs. 1 des Bürgerlichen Gesetzbuchs zu vereinbaren, und
+
+g)  
+im Falle von kartengebundenen Zahlungsinstrumenten, die mehrere Zahlungsmarken tragen, die Rechte des Zahlungsdienstnutzers gemäß Artikel 8 der Verordnung (EU) 2015/751 des Europäischen Parlaments und des Rates vom 29. April 2015 über Interbankenentgelte für kartengebundene Zahlungsvorgänge (ABl. L 123 vom 19.5.2015, S. 1),
 
 3.  
 zu Entgelten, Zinsen und Wechselkursen
 
 a)  
-alle Entgelte, die der Zahlungsdienstnutzer an den Zahlungsdienstleister zu entrichten hat, und gegebenenfalls deren Aufschlüsselung,
+alle Entgelte, die der Zahlungsdienstnutzer an den Zahlungsdienstleister zu entrichten hat, einschließlich derjenigen, die sich danach richten, wie und wie oft über die geforderten Informationen zu unterrichten ist, sowie gegebenenfalls eine Aufschlüsselung dieser Entgelte,
 
 b)  
 gegebenenfalls die zugrunde gelegten Zinssätze und Wechselkurse oder, bei Anwendung von Referenzzinssätzen und -wechselkursen, die Methode für die Berechnung der tatsächlichen Zinsen sowie der maßgebliche Stichtag und der Index oder die Grundlage für die Bestimmung des Referenzzinssatzes oder -wechselkurses, und
@@ -4586,7 +4687,7 @@ soweit vereinbart, das unmittelbare Wirksamwerden von Änderungen des Referenzzi
 zur Kommunikation
 
 a)  
-die Kommunikationsmittel, sofern sie zwischen den Parteien für die Informationsübermittlung und Anzeigepflichten vereinbart werden, einschließlich ihrer Anforderungen an die technische Ausstattung des Zahlungsdienstnutzers,
+die Kommunikationsmittel, deren Nutzung zwischen den Parteien für die Informationsübermittlung und Anzeigepflichten vereinbart wird, einschließlich der technischen Anforderungen an die Ausstattung und die Software des Zahlungsdienstnutzers,
 
 b)  
 Angaben dazu, wie und wie oft die nach diesem Artikel geforderten Informationen mitzuteilen oder zugänglich zu machen sind,
@@ -4601,31 +4702,34 @@ einen Hinweis auf das Recht des Zahlungsdienstnutzers gemäß § 5, Informatione
 zu den Schutz- und Abhilfemaßnahmen
 
 a)  
-gegebenenfalls eine Beschreibung, wie der Zahlungsdienstnutzer ein Zahlungsauthentifizierungsinstrument sicher verwahrt und wie er seine Anzeigepflicht gegenüber dem Zahlungsdienstleister gemäß § 675l Satz 2 des Bürgerlichen Gesetzbuchs erfüllt,
+gegebenenfalls eine Beschreibung, wie der Zahlungsdienstnutzer ein Zahlungsinstrument sicher aufbewahrt und wie er seine Anzeigepflicht gegenüber dem Zahlungsdienstleister gemäß § 675l Absatz 1 Satz 2 des Bürgerlichen Gesetzbuchs erfüllt,
 
 b)  
-soweit vereinbart, die Bedingungen, unter denen sich der Zahlungsdienstleister das Recht vorbehält, ein Zahlungsauthentifizierungsinstrument gemäß § 675k Abs. 2 des Bürgerlichen Gesetzbuchs zu sperren,
+eine Beschreibung des sicheren Verfahrens zur Unterrichtung des Zahlungsdienstnutzers durch den Zahlungsdienstleister im Falle vermuteten oder tatsächlichen Betrugs oder bei Sicherheitsrisiken,
 
 c)  
-Informationen zur Haftung des Zahlers gemäß § 675v des Bürgerlichen Gesetzbuchs einschließlich Angaben zum Höchstbetrag,
+soweit vereinbart, die Bedingungen, unter denen sich der Zahlungsdienstleister das Recht vorbehält, ein Zahlungsinstrument gemäß § 675k Abs. 2 des Bürgerlichen Gesetzbuchs zu sperren,
 
 d)  
-Angaben dazu, wie und innerhalb welcher Frist der Zahlungsdienstnutzer dem Zahlungsdienstleister nicht autorisierte oder fehlerhaft ausgeführte Zahlungsvorgänge gemäß § 676b des Bürgerlichen Gesetzbuchs anzeigen muss, sowie Informationen über die Haftung des Zahlungsdienstleisters bei nicht autorisierten Zahlungsvorgängen gemäß § 675u des Bürgerlichen Gesetzbuchs,
+Informationen zur Haftung des Zahlers gemäß § 675v des Bürgerlichen Gesetzbuchs einschließlich Angaben zum Höchstbetrag,
 
 e)  
-Informationen über die Haftung des Zahlungsdienstleisters bei der Ausführung von Zahlungsvorgängen gemäß § 675y des Bürgerlichen Gesetzbuchs und
+Angaben dazu, wie und innerhalb welcher Frist der Zahlungsdienstnutzer dem Zahlungsdienstleister nicht autorisierte oder fehlerhaft ausgelöste oder ausgeführte Zahlungsvorgänge gemäß § 676b des Bürgerlichen Gesetzbuchs anzeigen muss, sowie Informationen über die Haftung des Zahlungsdienstleisters bei nicht autorisierten Zahlungsvorgängen gemäß § 675u des Bürgerlichen Gesetzbuchs,
 
 f)  
+Informationen über die Haftung des Zahlungsdienstleisters bei der Auslösung oder Ausführung von Zahlungsvorgängen gemäß § 675y des Bürgerlichen Gesetzbuchs und
+
+g)  
 die Bedingungen für Erstattungen gemäß § 675x des Bürgerlichen Gesetzbuchs,
 
 6.  
 zu Änderungen der Bedingungen und Kündigung des Zahlungsdiensterahmenvertrags
 
 a)  
-soweit vereinbart, die Angabe, dass die Zustimmung des Zahlungsdienstnutzers zu einer Änderung der Bedingungen gemäß § 675g des Bürgerlichen Gesetzbuchs als erteilt gilt, wenn er dem Zahlungsdienstleister seine Ablehnung nicht vor dem Zeitpunkt angezeigt hat, zu dem die geänderten Bedingungen in Kraft treten sollen,
+soweit vereinbart, die Angabe, dass die Zustimmung des Zahlungsdienstnutzers zu einer Änderung der Vertragsbedingungen gemäß § 675g des Bürgerlichen Gesetzbuchs als erteilt gilt, wenn er dem Zahlungsdienstleister seine Ablehnung nicht vor dem Zeitpunkt angezeigt hat, zu dem die geänderten Vertragsbedingungen in Kraft treten sollen,
 
 b)  
-die Vertragslaufzeit und
+die Laufzeit des Zahlungsdiensterahmenvertrags und
 
 c)  
 einen Hinweis auf das Recht des Zahlungsdienstnutzers, den Vertrag zu kündigen, sowie auf sonstige kündigungsrelevante Vereinbarungen gemäß § 675g Abs. 2 und § 675h des Bürgerlichen Gesetzbuchs,
@@ -4634,7 +4738,7 @@ einen Hinweis auf das Recht des Zahlungsdienstnutzers, den Vertrag zu kündigen,
 die Vertragsklauseln über das auf den Zahlungsdiensterahmenvertrag anwendbare Recht oder über das zuständige Gericht und
 
 8.  
-einen Hinweis auf das Beschwerdeverfahren gemäß § 28 des Zahlungsdiensteaufsichtsgesetzes sowie auf das außergerichtliche Rechtsbehelfsverfahren nach § 14 des Unterlassungsklagengesetzes.
+einen Hinweis auf die Beschwerdeverfahren gemäß den §§ 60 bis 62 des Zahlungsdiensteaufsichtsgesetzes sowie auf das außergerichtliche Rechtsbehelfsverfahren gemäß § 14 des Unterlassungsklagengesetzes.
 
 (2) Wenn auf Verlangen des Zahlungsdienstnutzers der Zahlungsdiensterahmenvertrag unter Verwendung eines Fernkommunikationsmittels geschlossen wird, das dem Zahlungsdienstleister die Mitteilung der in Absatz 1 bestimmten Informationen und Vertragsbedingungen auf einem dauerhaften Datenträger nicht gestattet, hat der Zahlungsdienstleister dem Zahlungsdienstnutzer diese unverzüglich nach Abschluss des Vertrags in der in den §§ 2 und 3 vorgesehenen Form mitzuteilen.
 
@@ -4652,7 +4756,16 @@ Art 248
 
 ### § 6 Informationen vor Ausführung einzelner Zahlungsvorgänge
 
-Vor Ausführung eines einzelnen vom Zahler ausgelösten Zahlungsvorgangs teilt der Zahlungsdienstleister auf Verlangen des Zahlers die maximale Ausführungsfrist für diesen Zahlungsvorgang sowie die in Rechnung zu stellenden Entgelte und gegebenenfalls deren Aufschlüsselung mit.
+Vor Ausführung eines einzelnen vom Zahler ausgelösten Zahlungsvorgangs teilt der Zahlungsdienstleister auf Verlangen des Zahlers Folgendes mit:
+
+1.  
+die maximale Ausführungsfrist,
+
+2.  
+die dem Zahler in Rechnung zu stellenden Entgelte und
+
+3.  
+gegebenenfalls die Aufschlüsselung der Entgelte nach Nummer 2.
 
 Art 248
 -------
@@ -4668,7 +4781,7 @@ eine dem Zahlungsvorgang zugeordnete Kennung, die dem Zahler die Identifizierung
 den Zahlungsbetrag in der Währung, in der das Zahlungskonto des Zahlers belastet wird, oder in der Währung, die im Zahlungsauftrag verwendet wird,
 
 3.  
-gegebenenfalls den Betrag der für den Zahlungsvorgang zu entrichtenden Entgelte und deren Aufschlüsselung oder der vom Zahler zu entrichtenden Zinsen,
+die für den Zahlungsvorgang zu entrichtenden Entgelte und gegebenenfalls eine Aufschlüsselung der Beträge dieser Entgelte oder die vom Zahler zu entrichtenden Zinsen,
 
 4.  
 gegebenenfalls den Wechselkurs, den der Zahlungsdienstleister des Zahlers dem Zahlungsvorgang zugrunde gelegt hat, und den Betrag, der nach dieser Währungsumrechnung Gegenstand des Zahlungsvorgangs ist, und
@@ -4684,13 +4797,13 @@ Art 248
 Nach Ausführung eines einzelnen Zahlungsvorgangs teilt der Zahlungsdienstleister des Zahlungsempfängers diesem unverzüglich die folgenden Informationen mit:
 
 1.  
-eine dem Zahlungsvorgang zugeordnete Kennung, die dem Zahlungsempfänger die Identifizierung des betreffenden Zahlungsvorgangs und gegebenenfalls des Zahlers ermöglicht, sowie weitere mit dem Zahlungsvorgang übermittelte Angaben,
+eine dem Zahlungsvorgang zugeordnete Kennung, die dem Zahlungsempfänger die Identifizierung des Zahlungsvorgangs und des Zahlers ermöglicht, sowie alle weiteren mit dem Zahlungsvorgang übermittelten Angaben,
 
 2.  
 den Zahlungsbetrag in der Währung, in der dieser Betrag auf dem Zahlungskonto des Zahlungsempfängers gutgeschrieben wird,
 
 3.  
-gegebenenfalls den Betrag der für den Zahlungsvorgang zu entrichtenden Entgelte und deren Aufschlüsselung oder der vom Zahlungsempfänger zu entrichtenden Zinsen,
+den Betrag der für den Zahlungsvorgang zu entrichtenden Entgelte und gegebenenfalls deren Aufschlüsselung oder der vom Zahlungsempfänger zu entrichtenden Zinsen,
 
 4.  
 gegebenenfalls den Wechselkurs, den der Zahlungsdienstleister des Zahlungsempfängers dem Zahlungsvorgang zugrunde gelegt hat, und den Betrag, der vor dieser Währungsumrechnung Gegenstand des Zahlungsvorgangs war, und
@@ -4721,7 +4834,7 @@ Für die in den §§ 7, 8 und 9 Nr. 2 genannten Informationen können Zahlungsdi
 Art 248
 -------
 
-### § 11 Ausnahmen für Kleinbetragsinstrumente und elektronisches Geld
+### § 11 Ausnahmen für Kleinbetragsinstrumente und E-Geld
 
 (1) Bei Zahlungsdiensteverträgen über die Überlassung eines Kleinbetragsinstruments (§ 675i Abs. 1 des Bürgerlichen Gesetzbuchs) teilt der Zahlungsdienstleister dem Zahlungsdienstnutzer abweichend von den §§ 4 und 6 nur Folgendes mit:
 
@@ -4757,7 +4870,7 @@ Art 248
 
 ### § 12 Besondere Form
 
-Bei einem Einzelzahlungsvertrag, der nicht Gegenstand eines Zahlungsdiensterahmenvertrags ist, hat der Zahlungsdienstleister dem Zahlungsdienstnutzer die in § 13 genannten Informationen und Vertragsbedingungen in leicht zugänglicher Form zur Verfügung zu stellen. Auf Verlangen des Zahlungsdienstnutzers stellt ihm der Zahlungsdienstleister die Informationen und Vertragsbedingungen in Papierform oder auf einem anderen dauerhaften Datenträger zur Verfügung.
+Bei einem Einzelzahlungsvertrag, der nicht Gegenstand eines Zahlungsdiensterahmenvertrags ist, hat der Zahlungsdienstleister dem Zahlungsdienstnutzer die in § 13 genannten Informationen und Vertragsbedingungen hinsichtlich der von ihm zu erbringenden Zahlungsdienste in leicht zugänglicher Form zur Verfügung zu stellen. Auf Verlangen des Zahlungsdienstnutzers stellt ihm der Zahlungsdienstleister die Informationen und Vertragsbedingungen in Papierform oder auf einem anderen dauerhaften Datenträger zur Verfügung.
 
 Art 248
 -------
@@ -4767,7 +4880,7 @@ Art 248
 (1) Die folgenden vorvertraglichen Informationen und Vertragsbedingungen sind rechtzeitig vor Abgabe der Vertragserklärung des Zahlungsdienstnutzers zur Verfügung zu stellen:
 
 1.  
-die vom Zahlungsdienstnutzer mitzuteilenden Informationen oder Kundenkennungen, die für die ordnungsgemäße Ausführung eines Zahlungsauftrags erforderlich sind,
+die vom Zahlungsdienstnutzer mitzuteilenden Informationen oder Kundenkennungen, die für die ordnungsgemäße Auslösung oder Ausführung eines Zahlungsauftrags erforderlich sind,
 
 2.  
 die maximale Ausführungsfrist für den zu erbringenden Zahlungsdienst,
@@ -4778,18 +4891,45 @@ alle Entgelte, die der Zahlungsdienstnutzer an den Zahlungsdienstleister zu entr
 4.  
 gegebenenfalls der dem Zahlungsvorgang zugrunde zu legende tatsächliche Wechselkurs oder Referenzwechselkurs.
 
-Die anderen in § 4 Abs. 1 genannten Informationen sind, soweit sie für den Einzelzahlungsvertrag erheblich sind, dem Zahlungsdienstnutzer ebenfalls zur Verfügung zu stellen.
+(2) Ein Zahlungsauslösedienstleister hat dem Zahler rechtzeitig vor der Auslösung des Zahlungsvorgangs auch die folgenden Informationen zur Verfügung zu stellen:
 
-(2) Wenn auf Verlangen des Zahlungsdienstnutzers der Einzelzahlungsvertrag unter Verwendung eines Fernkommunikationsmittels geschlossen wird, das dem Zahlungsdienstleister die Informationsunterrichtung nach Absatz 1 nicht gestattet, hat der Zahlungsdienstleister den Zahlungsdienstnutzer unverzüglich nach Ausführung des Zahlungsvorgangs in der Form zu unterrichten, die in den §§ 2 und 12 vorgesehen ist.
+1.  
+den Namen des Zahlungsauslösedienstleisters, die Anschrift seiner Hauptverwaltung und gegebenenfalls die Anschrift seines Agenten oder seiner Zweigniederlassung in dem Mitgliedstaat, in dem der Zahlungsauslösedienst angeboten wird, sowie alle anderen Kontaktdaten einschließlich der E-Mail-Adresse, die für die Kommunikation mit dem Zahlungsauslösedienstleister von Belang sind, und
 
-(3) Die Pflichten gemäß Absatz 1 können auch erfüllt werden, indem eine Abschrift des Vertragsentwurfs übermittelt wird, die die nach Absatz 1 erforderlichen Informationen und Vertragsbedingungen enthält.
+2.  
+die Kontaktdaten der zuständigen Behörde.
+
+(3) Die anderen in § 4 Absatz 1 genannten Informationen sind, soweit sie für den Einzelzahlungsvertrag erheblich sind, dem Zahlungsdienstnutzer ebenfalls zur Verfügung zu stellen.
+
+(4) Wenn auf Verlangen des Zahlungsdienstnutzers der Einzelzahlungsvertrag unter Verwendung eines Fernkommunikationsmittels geschlossen wird, das dem Zahlungsdienstleister die Informationsunterrichtung nach Absatz 1 nicht gestattet, hat der Zahlungsdienstleister den Zahlungsdienstnutzer unverzüglich nach Ausführung des Zahlungsvorgangs in der Form zu unterrichten, die in den §§ 2 und 12 vorgesehen ist.
+
+(5) Die Pflichten gemäß Absatz 1 können auch erfüllt werden, indem eine Abschrift des Vertragsentwurfs übermittelt wird, die die nach Absatz 1 erforderlichen Informationen und Vertragsbedingungen enthält.
+
+Art 248
+-------
+
+### § 13a Informationen an den Zahler und den Zahlungsempfänger nach Auslösung des Zahlungsauftrags über einen Zahlungsauslösedienstleister
+
+Ein Zahlungsauslösedienstleister unterrichtet den Zahler und gegebenenfalls den Zahlungsempfänger unmittelbar nach der Auslösung des Zahlungsauftrags über
+
+1.  
+die erfolgreiche Auslösung des Zahlungsauftrags beim kontoführenden Zahlungsdienstleister des Zahlers,
+
+2.  
+die dem Zahlungsvorgang zugeordnete Kennung, die dem Zahler und dem Zahlungsempfänger die Identifizierung des Zahlungsvorgangs und dem Zahlungsempfänger gegebenenfalls die Identifizierung des Zahlers ermöglicht, sowie jede weitere mit dem Zahlungsvorgang übermittelte Angabe,
+
+3.  
+den Zahlungsbetrag,
+
+4.  
+gegebenenfalls die Höhe aller an den Zahlungsauslösedienstleister für den Zahlungsvorgang zu entrichtenden Entgelte sowie gegebenenfalls deren Aufschlüsselung.
 
 Art 248
 -------
 
 ### § 14 Informationen an den Zahler nach Zugang des Zahlungsauftrags
 
-Nach Zugang des Zahlungsauftrags unterrichtet der Zahlungsdienstleister des Zahlers diesen unverzüglich über
+Nach Zugang des Zahlungsauftrags unterrichtet der Zahlungsdienstleister des Zahlers diesen hinsichtlich der von ihm zu erbringenden Zahlungsdienste unverzüglich über
 
 1.  
 die dem Zahlungsvorgang zugeordnete Kennung, die dem Zahler die Identifizierung des betreffenden Zahlungsvorgangs ermöglicht, sowie gegebenenfalls Angaben zum Zahlungsempfänger,
@@ -4811,16 +4951,16 @@ Art 248
 
 ### § 15 Informationen an den Zahlungsempfänger nach Ausführung des Zahlungsvorgangs
 
-Nach Ausführung des Zahlungsvorgangs unterrichtet der Zahlungsdienstleister des Zahlungsempfängers diesen unverzüglich über
+Nach Ausführung des Zahlungsvorgangs unterrichtet der Zahlungsdienstleister des Zahlungsempfängers diesen hinsichtlich der von ihm erbrachten Zahlungsdienste unverzüglich über
 
 1.  
-die dem Zahlungsvorgang zugeordnete Kennung, die dem Zahlungsempfänger die Identifizierung des betreffenden Zahlungsvorgangs und gegebenenfalls des Zahlers ermöglicht, sowie weitere mit dem Zahlungsvorgang übermittelte Angaben,
+die dem Zahlungsvorgang zugeordnete Kennung, die dem Zahlungsempfänger die Identifizierung des betreffenden Zahlungsvorgangs und gegebenenfalls des Zahlers ermöglicht, sowie jede weitere mit dem Zahlungsvorgang übermittelte Angabe,
 
 2.  
 den Zahlungsbetrag in der Währung, in der er dem Zahlungsempfänger zur Verfügung steht,
 
 3.  
-die Höhe der vom Zahlungsempfänger für den Zahlungsvorgang zu entrichtenden Entgelte und gegebenenfalls deren Aufschlüsselung,
+die Höhe aller vom Zahlungsempfänger für den Zahlungsvorgang zu entrichtenden Entgelte und gegebenenfalls deren Aufschlüsselung,
 
 4.  
 gegebenenfalls den Wechselkurs, den der Zahlungsdienstleister des Zahlungsempfängers dem Zahlungsvorgang zugrunde gelegt hat, und den Betrag, der vor dieser Währungsumrechnung Gegenstand des Zahlungsvorgangs war, und
@@ -4831,12 +4971,12 @@ das Wertstellungsdatum der Gutschrift.
 Art 248
 -------
 
-### § 16 Informationen bei Einzelzahlung mittels rahmenvertraglich geregelten Zahlungsauthentifizierungsinstruments
+### § 16 Informationen bei Einzelzahlung mittels rahmenvertraglich geregelten Zahlungsinstruments
 
-Wird ein Zahlungsauftrag für eine Einzelzahlung über ein rahmenvertraglich geregeltes Zahlungsauthentifizierungsinstrument übermittelt, so ist nur der Zahlungsdienstleister, der Partei des Zahlungsdiensterahmenvertrags ist, verpflichtet, den Zahlungsdienstnutzer nach Maßgabe des Abschnitts 2 zu unterrichten.
+Wird ein Zahlungsauftrag für eine Einzelzahlung über ein rahmenvertraglich geregeltes Zahlungsinstrument übermittelt, so ist nur der Zahlungsdienstleister, der Partei des Zahlungsdiensterahmenvertrags ist, verpflichtet, den Zahlungsdienstnutzer nach Maßgabe des Abschnitts 2 zu unterrichten.
 
-Abschnitt 4 Informationspflichten von Zahlungsempfängern und Dritten
---------------------------------------------------------------------
+Abschnitt 4 Informationspflichten von Zahlungsempfängern, Bargeldabhebungsdienstleistern und Dritten
+----------------------------------------------------------------------------------------------------
 
 ### 
 
@@ -4845,16 +4985,23 @@ Art 248
 
 ### § 17 Informationspflichten des Zahlungsempfängers
 
-(1) Sollen Zahlungen mittels eines Zahlungsauthentifizierungsinstruments in einer anderen Währung als Euro erfolgen und wird vor der Auslösung des Zahlungsvorgangs vom Zahlungsempfänger eine Währungsumrechnung angeboten, muss der Zahlungsempfänger dem Zahler alle damit verbundenen Entgelte sowie den der Währungsumrechnung zugrunde gelegten Wechselkurs offenlegen.
+(1) Sollen Zahlungen mittels eines Zahlungsinstruments in einer anderen Währung als Euro erfolgen und wird vor der Auslösung des Zahlungsvorgangs vom Zahlungsempfänger eine Währungsumrechnung angeboten, muss der Zahlungsempfänger dem Zahler alle damit verbundenen Entgelte sowie den der Währungsumrechnung zugrunde gelegten Wechselkurs offenlegen.
 
-(2) Verlangt der Zahlungsempfänger für die Nutzung eines bestimmten Zahlungsauthentifizierungsinstruments ein Entgelt oder bietet er eine Ermäßigung an, so teilt er dies dem Zahler vor Auslösung des Zahlungsvorgangs mit.
+(2) Verlangt der Zahlungsempfänger für die Nutzung eines bestimmten Zahlungsinstruments ein Entgelt oder bietet er eine Ermäßigung an, so teilt er dies dem Zahler vor Auslösung des Zahlungsvorgangs mit.
+
+Art 248
+-------
+
+### § 17a Informationspflichten des Bargeldabhebungsdienstleisters
+
+Ein Dienstleister, der Bargeldabhebungsdienste erbringt, ist verpflichtet, den Kunden über alle Entgelte für eine Geldabhebung entsprechend § 13 Absatz 1 und 3, den §§ 14, 15 sowie 17 Absatz 1 sowohl vor der Abhebung als auch auf der Quittung nach dem Erhalt des Bargeldes zu unterrichten.
 
 Art 248
 -------
 
 ### § 18 Informationspflichten Dritter
 
-Verlangt ein Dritter, über welchen ein Zahlungsdienstnutzer einen Zahlungsvorgang auslösen kann, von diesem für die Nutzung eines bestimmten Zahlungsauthentifizierungsinstruments ein Entgelt, so teilt er dies dem Zahlungsdienstnutzer vor der Auslösung des Zahlungsvorgangs mit.
+Verlangt ein Dritter, über welchen ein Zahlungsdienstnutzer einen Zahlungsvorgang auslösen kann, von diesem für die Nutzung eines bestimmten Zahlungsinstruments ein Entgelt, so teilt er dies dem Zahlungsdienstnutzer vor der Auslösung des Zahlungsvorgangs mit.
 
 Art 248
 -------
@@ -4862,6 +5009,389 @@ Art 248
 ### § 19 Abweichende Vereinbarungen
 
 Handelt es sich bei dem Zahlungsdienstnutzer nicht um einen Verbraucher, so können die Parteien vereinbaren, dass die §§ 17 und 18 ganz oder teilweise nicht anzuwenden sind.
+
+Art 249 Informationspflichten bei Verbraucherbauverträgen
+---------------------------------------------------------
+
+### 
+
+Art 249
+-------
+
+### § 1 Informationspflichten bei Verbraucherbauverträgen
+
+Der Unternehmer ist nach § 650j des Bürgerlichen Gesetzbuchs verpflichtet, dem Verbraucher rechtzeitig vor Abgabe von dessen Vertragserklärung eine Baubeschreibung in Textform zur Verfügung zu stellen.
+
+Art 249
+-------
+
+### § 2 Inhalt der Baubeschreibung
+
+(1) In der Baubeschreibung sind die wesentlichen Eigenschaften des angebotenen Werks in klarer Weise darzustellen. Sie muss mindestens folgende Informationen enthalten:
+
+1.  
+allgemeine Beschreibung des herzustellenden Gebäudes oder der vorzunehmenden Umbauten, gegebenenfalls Haustyp und Bauweise,
+
+2.  
+Art und Umfang der angebotenen Leistungen, gegebenenfalls der Planung und der Bauleitung, der Arbeiten am Grundstück und der Baustelleneinrichtung sowie der Ausbaustufe,
+
+3.  
+Gebäudedaten, Pläne mit Raum- und Flächenangaben sowie Ansichten, Grundrisse und Schnitte,
+
+4.  
+gegebenenfalls Angaben zum Energie-, zum Brandschutz- und zum Schallschutzstandard sowie zur Bauphysik,
+
+5.  
+Angaben zur Beschreibung der Baukonstruktionen aller wesentlichen Gewerke,
+
+6.  
+gegebenenfalls Beschreibung des Innenausbaus,
+
+7.  
+gegebenenfalls Beschreibung der gebäudetechnischen Anlagen,
+
+8.  
+Angaben zu Qualitätsmerkmalen, denen das Gebäude oder der Umbau genügen muss,
+
+9.  
+gegebenenfalls Beschreibung der Sanitärobjekte, der Armaturen, der Elektroanlage, der Installationen, der Informationstechnologie und der Außenanlagen.
+
+(2) Die Baubeschreibung hat verbindliche Angaben zum Zeitpunkt der Fertigstellung des Werks zu enthalten. Steht der Beginn der Baumaßnahme noch nicht fest, ist ihre Dauer anzugeben.
+
+Art 249
+-------
+
+### § 3 Widerrufsbelehrung
+
+(1) Steht dem Verbraucher ein Widerrufsrecht nach § 650l Satz 1 des Bürgerlichen Gesetzbuchs zu, ist der Unternehmer verpflichtet, den Verbraucher vor Abgabe von dessen Vertragserklärung in Textform über sein Widerrufsrecht zu belehren. Die Widerrufsbelehrung muss deutlich gestaltet sein und dem Verbraucher seine wesentlichen Rechte in einer an das benutzte Kommunikationsmittel angepassten Weise deutlich machen. Sie muss Folgendes enthalten:
+
+1.  
+einen Hinweis auf das Recht zum Widerruf,
+
+2.  
+einen Hinweis darauf, dass der Widerruf durch Erklärung gegenüber dem Unternehmer erfolgt und keiner Begründung bedarf,
+
+3.  
+den Namen, die ladungsfähige Anschrift und die Telefonnummer desjenigen, gegenüber dem der Widerruf zu erklären ist, gegebenenfalls seine Telefaxnummer und E-Mail-Adresse,
+
+4.  
+einen Hinweis auf die Dauer und den Beginn der Widerrufsfrist sowie darauf, dass zur Fristwahrung die rechtzeitige Absendung der Widerrufserklärung genügt, und
+
+5.  
+einen Hinweis darauf, dass der Verbraucher dem Unternehmer Wertersatz nach § 357d des Bürgerlichen Gesetzbuchs schuldet, wenn die Rückgewähr der bis zum Widerruf erbrachten Leistung ihrer Natur nach ausgeschlossen ist.
+
+(2) Der Unternehmer kann seine Belehrungspflicht dadurch erfüllen, dass er dem Verbraucher das in Anlage 10 vorgesehene Muster für die Widerrufsbelehrung zutreffend ausgefüllt in Textform übermittelt.
+
+Art 250 Informationspflichten bei Pauschalreiseverträgen
+--------------------------------------------------------
+
+### 
+
+Art 250
+-------
+
+### § 1 Form und Zeitpunkt der vorvertraglichen Unterrichtung
+
+(1) Die Unterrichtung des Reisenden nach § 651d Absatz 1 und 5 sowie § 651v Absatz 1 des Bürgerlichen Gesetzbuchs muss erfolgen, bevor dieser seine Vertragserklärung abgibt. Die Informationen sind klar, verständlich und in hervorgehobener Weise mitzuteilen; werden sie schriftlich erteilt, müssen sie leserlich sein.
+
+(2) Änderungen der vorvertraglichen Informationen sind dem Reisenden vor Vertragsschluss klar, verständlich und in hervorgehobener Weise mitzuteilen.
+
+Art 250
+-------
+
+### § 2 Formblatt für die vorvertragliche Unterrichtung
+
+(1) Dem Reisenden ist gemäß dem in Anlage 11 enthaltenen Muster ein zutreffend ausgefülltes Formblatt zur Verfügung zu stellen.
+
+(2) Bei Verträgen nach § 651u des Bürgerlichen Gesetzbuchs ist anstelle des Formblatts gemäß dem in Anlage 11 enthaltenen Muster das zutreffend ausgefüllte Formblatt gemäß dem in Anlage 12 enthaltenen Muster zu verwenden.
+
+(3) Soll ein Pauschalreisevertrag telefonisch geschlossen werden, können die Informationen aus dem jeweiligen Formblatt abweichend von den Absätzen 1 und 2 auch telefonisch zur Verfügung gestellt werden.
+
+Art 250
+-------
+
+### § 3 Weitere Angaben bei der vorvertraglichen Unterrichtung
+
+Die Unterrichtung muss folgende Informationen enthalten, soweit sie für die in Betracht kommende Pauschalreise erheblich sind:
+
+1.  
+die wesentlichen Eigenschaften der Reiseleistungen, und zwar
+
+a)  
+Bestimmungsort oder, wenn die Pauschalreise mehrere Aufenthalte umfasst, die einzelnen Bestimmungsorte sowie die einzelnen Zeiträume (Datumsangaben und Anzahl der Übernachtungen),
+
+b)  
+Reiseroute,
+
+c)  
+Transportmittel (Merkmale und Klasse),
+
+d)  
+Ort, Tag und Zeit der Abreise und der Rückreise oder, sofern eine genaue Zeitangabe noch nicht möglich ist, ungefähre Zeit der Abreise und Rückreise, ferner Orte und Dauer von Zwischenstationen sowie die dort zu erreichenden Anschlussverbindungen,
+
+e)  
+Unterkunft (Lage, Hauptmerkmale und gegebenenfalls touristische Einstufung der Unterkunft nach den Regeln des jeweiligen Bestimmungslandes),
+
+f)  
+Mahlzeiten,
+
+g)  
+Besichtigungen, Ausflüge oder sonstige im Reisepreis inbegriffene Leistungen,
+
+h)  
+sofern dies nicht aus dem Zusammenhang hervorgeht, die Angabe, ob eine der Reiseleistungen für den Reisenden als Teil einer Gruppe erbracht wird, und wenn dies der Fall ist, sofern möglich, die Angabe der ungefähren Gruppengröße,
+
+i)  
+sofern die Nutzung touristischer Leistungen im Sinne des § 651a Absatz 3 Satz 1 Nummer 4 des Bürgerlichen Gesetzbuchs durch den Reisenden von einer wirksamen mündlichen Kommunikation abhängt, die Sprache, in der diese Leistungen erbracht werden, und
+
+j)  
+die Angabe, ob die Pauschalreise im Allgemeinen für Personen mit eingeschränkter Mobilität geeignet ist, sowie auf Verlangen des Reisenden genaue Informationen über eine solche Eignung unter Berücksichtigung der Bedürfnisse des Reisenden,
+
+2.  
+die Firma oder den Namen des Reiseveranstalters, die Anschrift des Ortes, an dem er niedergelassen ist, die Telefonnummer und gegebenenfalls die E-Mail-Adresse; diese Angaben sind gegebenenfalls auch bezüglich des Reisevermittlers zu erteilen,
+
+3.  
+den Reisepreis einschließlich Steuern und gegebenenfalls aller zusätzlichen Gebühren, Entgelte und sonstigen Kosten, oder, wenn sich diese Kosten vor Vertragsschluss nicht bestimmen lassen, die Angabe der Art von Mehrkosten, für die der Reisende gegebenenfalls noch aufkommen muss,
+
+4.  
+die Zahlungsmodalitäten einschließlich des Betrags oder des Prozentsatzes des Reisepreises, der als Anzahlung zu leisten ist, sowie des Zeitplans für die Zahlung des Restbetrags oder für die Stellung finanzieller Sicherheiten durch den Reisenden,
+
+5.  
+die für die Durchführung der Pauschalreise erforderliche Mindestteilnehmerzahl sowie die Angabe, bis zu welchem Zeitpunkt vor dem vertraglich vereinbarten Reisebeginn dem Reisenden die Rücktrittserklärung des Reiseveranstalters gemäß § 651h Absatz 4 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs zugegangen sein muss,
+
+6.  
+allgemeine Pass- und Visumerfordernisse des Bestimmungslands, einschließlich der ungefähren Fristen für die Erlangung von Visa, sowie gesundheitspolizeiliche Formalitäten,
+
+7.  
+den Hinweis, dass der Reisende vor Reisebeginn gegen Zahlung einer angemessenen Entschädigung oder gegebenenfalls einer vom Reiseveranstalter verlangten Entschädigungspauschale jederzeit vom Vertrag zurücktreten kann,
+
+8.  
+den Hinweis auf den möglichen Abschluss einer Reiserücktrittskostenversicherung oder einer Versicherung zur Deckung der Kosten einer Unterstützung einschließlich einer Rückbeförderung bei Unfall, Krankheit oder Tod.
+
+Art 250
+-------
+
+### § 4 Vorvertragliche Unterrichtung in den Fällen des § 651c des Bürgerlichen Gesetzbuchs
+
+Für Pauschalreiseverträge nach § 651c des Bürgerlichen Gesetzbuchs ist abweichend von § 2 Absatz 1 anstelle des Formblatts gemäß dem in Anlage 11 enthaltenen Muster das zutreffend ausgefüllte Formblatt gemäß dem in Anlage 13 enthaltenen Muster zu verwenden. Zur Unterrichtung nach § 3 sind verpflichtet
+
+1.  
+der als Reiseveranstalter anzusehende Unternehmer nur in Bezug auf die Reiseleistung, die er zu erbringen hat,
+
+2.  
+jeder andere Unternehmer, dem nach § 651c Absatz 1 Nummer 2 des Bürgerlichen Gesetzbuchs Daten übermittelt werden, in Bezug auf die von ihm zu erbringende Reiseleistung; er trägt gegenüber dem Reisenden die Beweislast für die Erfüllung seiner Informationspflichten.
+
+Art 250
+-------
+
+### § 5 Gestaltung des Vertrags
+
+Der Pauschalreisevertrag muss in einfacher und verständlicher Sprache abgefasst und, sofern er schriftlich geschlossen wird, leserlich sein.
+
+Art 250
+-------
+
+### § 6 Abschrift oder Bestätigung des Vertrags
+
+(1) Dem Reisenden ist bei oder unverzüglich nach Vertragsschluss auf einem dauerhaften Datenträger eine Abschrift oder Bestätigung des Vertrags zur Verfügung zu stellen. Der Reisende hat Anspruch auf eine Abschrift oder Bestätigung des Vertrags in Papierform, wenn der Vertragsschluss
+
+1.  
+bei gleichzeitiger körperlicher Anwesenheit der Vertragsschließenden erfolgte oder
+
+2.  
+außerhalb von Geschäftsräumen erfolgte (§ 312b des Bürgerlichen Gesetzbuchs); wenn der Reisende zustimmt, kann für die Abschrift oder die Bestätigung des Vertrags auch ein anderer dauerhafter Datenträger verwendet werden.
+
+(2) Die Abschrift oder Bestätigung des Vertrags muss klar, verständlich und in hervorgehobener Weise den vollständigen Vertragsinhalt wiedergeben und außer den in § 3 genannten Informationen die folgenden Angaben enthalten:
+
+1.  
+besondere Vorgaben des Reisenden, denen der Reiseveranstalter zugestimmt hat,
+
+2.  
+den Hinweis, dass der Reiseveranstalter
+
+a)  
+für die ordnungsgemäße Erbringung aller von dem Vertrag umfassten Reiseleistungen verantwortlich ist und
+
+b)  
+gemäß § 651q des Bürgerlichen Gesetzbuchs zum Beistand verpflichtet ist, wenn sich der Reisende in Schwierigkeiten befindet,
+
+3.  
+den Namen des Kundengeldabsicherers sowie dessen Kontaktdaten einschließlich der Anschrift des Ortes, an dem er niedergelassen ist; im Fall des § 651s des Bürgerlichen Gesetzbuchs sind diese Angaben zu erteilen in Bezug auf die Einrichtung, die den Insolvenzschutz bietet, und gegebenenfalls in Bezug auf die zuständige Behörde,
+
+4.  
+Namen, Anschrift, Telefonnummer, E-Mail-Adresse und gegebenenfalls Faxnummer des Vertreters des Reiseveranstalters vor Ort, einer Kontaktstelle oder eines anderen Dienstes, an den oder die sich der Reisende wenden kann, um schnell mit dem Reiseveranstalter Verbindung aufzunehmen, wenn der Reisende
+
+a)  
+Beistand nach § 651q des Bürgerlichen Gesetzbuchs benötigt oder
+
+b)  
+einen aufgetretenen Reisemangel anzeigen will,
+
+5.  
+den Hinweis auf die Obliegenheit des Reisenden, dem Reiseveranstalter einen aufgetretenen Reisemangel unverzüglich anzuzeigen,
+
+6.  
+bei Minderjährigen, die ohne Begleitung durch einen Elternteil oder eine andere berechtigte Person reisen, Angaben darüber, wie eine unmittelbare Verbindung zu dem Minderjährigen oder zu dem an dessen Aufenthaltsort für ihn Verantwortlichen hergestellt werden kann; dies gilt nicht, wenn der Vertrag keine Beherbergung des Minderjährigen umfasst,
+
+7.  
+Informationen
+
+a)  
+zu bestehenden internen Beschwerdeverfahren,
+
+b)  
+gemäß § 36 des Verbraucherstreitbeilegungsgesetzes zur Teilnahme an alternativen Streitbeilegungsverfahren und
+
+c)  
+zur Online-Streitbeilegungsplattform gemäß Artikel 14 der Verordnung (EU) Nr. 524/2013 des Europäischen Parlaments und des Rates vom 21. Mai 2013 über die Online-Beilegung verbraucherrechtlicher Streitigkeiten und zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie 2009/22/EG (ABl. L 165 vom 18.6.2013, S. 1),
+
+8.  
+den Hinweis auf das Recht des Reisenden, den Vertrag gemäß § 651e des Bürgerlichen Gesetzbuchs auf einen anderen Reisenden zu übertragen.
+
+Art 250
+-------
+
+### § 7 Reiseunterlagen, Unterrichtung vor Reisebeginn
+
+(1) Der Reiseveranstalter hat dem Reisenden rechtzeitig vor Reisebeginn die notwendigen Reiseunterlagen zu übermitteln, insbesondere notwendige Buchungsbelege, Gutscheine, Beförderungsausweise und Eintrittskarten.
+
+(2) Der Reiseveranstalter hat den Reisenden rechtzeitig vor Reisebeginn zu unterrichten über die Abreise- und Ankunftszeiten sowie gegebenenfalls die Zeiten für die Abfertigung vor der Beförderung, die Orte und Dauer von Zwischenstationen sowie die dort zu erreichenden Anschlussverbindungen. Eine besondere Mitteilung nach Satz 1 ist nicht erforderlich, soweit diese Informationen bereits in einer dem Reisenden zur Verfügung gestellten Abschrift oder Bestätigung des Vertrags gemäß § 6 oder in einer Information des Reisenden nach § 8 Absatz 2 enthalten sind und inzwischen keine Änderungen eingetreten sind.
+
+Art 250
+-------
+
+### § 8 Mitteilungspflichten anderer Unternehmer und Information des Reisenden nach Vertragsschluss in den Fällen des § 651c des Bürgerlichen Gesetzbuchs
+
+(1) Schließt ein Unternehmer, dem nach § 651c Absatz 1 Nummer 2 des Bürgerlichen Gesetzbuchs Daten übermittelt werden, mit dem Reisenden einen Vertrag über eine Reiseleistung ab, hat er den als Reiseveranstalter anzusehenden Unternehmer über den Umstand des Vertragsschlusses zu unterrichten und diesem in Bezug auf die von ihm zu erbringende Reiseleistung die Informationen zur Verfügung zu stellen, die zur Erfüllung der Verpflichtungen als Reiseveranstalter erforderlich sind.
+
+(2) Der als Reiseveranstalter anzusehende Unternehmer hat dem Reisenden die in § 6 Absatz 2 Nummer 1 bis 8 genannten Angaben klar, verständlich und in hervorgehobener Weise auf einem dauerhaften Datenträger zur Verfügung zu stellen, sobald er von dem anderen Unternehmer gemäß Absatz 1 über den Umstand des Vertragsschlusses unterrichtet wurde.
+
+Art 250
+-------
+
+### § 9 Weitere Informationspflichten bei Verträgen über Gastschulaufenthalte
+
+Über die in § 6 Absatz 2 bestimmten Angaben hinaus hat der Reiseveranstalter dem Reisenden folgende Informationen zu erteilen:
+
+1.  
+Namen, Anschrift, Telefonnummer und gegebenenfalls E-Mail-Adresse der Gastfamilie, in welcher der Gastschüler untergebracht ist, einschließlich Veränderungen,
+
+2.  
+Namen und Erreichbarkeit eines Ansprechpartners im Aufnahmeland, bei dem auch Abhilfe verlangt werden kann, einschließlich Veränderungen, und
+
+3.  
+Abhilfeverlangen des Gastschülers und die vom Reiseveranstalter ergriffenen Maßnahmen.
+
+Art 250
+-------
+
+### § 10 Unterrichtung bei erheblichen Vertragsänderungen
+
+Beabsichtigt der Reiseveranstalter eine Vertragsänderung nach § 651g Absatz 1 des Bürgerlichen Gesetzbuchs, hat er den Reisenden unverzüglich nach Kenntnis von dem Änderungsgrund auf einem dauerhaften Datenträger klar, verständlich und in hervorgehobener Weise zu informieren über
+
+1.  
+die angebotene Vertragsänderung, die Gründe hierfür sowie
+
+a)  
+im Fall einer Erhöhung des Reisepreises über deren Berechnung,
+
+b)  
+im Fall einer sonstigen Vertragsänderung über die Auswirkungen dieser Änderung auf den Reisepreis gemäß § 651g Absatz 3 Satz 2 des Bürgerlichen Gesetzbuchs,
+
+2.  
+die Frist, innerhalb derer der Reisende ohne Zahlung einer Entschädigung vom Vertrag zurücktreten oder das Angebot zur Vertragsänderung annehmen kann,
+
+3.  
+den Umstand, dass das Angebot zur Vertragsänderung als angenommen gilt, wenn der Reisende sich nicht innerhalb der Frist erklärt, und
+
+4.  
+die gegebenenfalls als Ersatz angebotene Pauschalreise und deren Reisepreis.
+
+Art 251 Informationspflichten bei Vermittlung verbundener Reiseleistungen
+-------------------------------------------------------------------------
+
+### 
+
+Art 251
+-------
+
+### § 1 Form und Zeitpunkt der Unterrichtung
+
+Die Unterrichtung des Reisenden nach § 651w Absatz 2 des Bürgerlichen Gesetzbuchs muss erfolgen, bevor dieser eine Vertragserklärung betreffend einen Vertrag über eine Reiseleistung abgibt, dessen Zustandekommen bewirkt, dass eine Vermittlung verbundener Reiseleistungen erfolgt ist. Die Informationen sind klar, verständlich und in hervorgehobener Weise mitzuteilen.
+
+Art 251
+-------
+
+### § 2 Formblatt für die Unterrichtung des Reisenden
+
+Dem Reisenden ist gemäß den in den Anlagen 14 bis 17 enthaltenen Mustern ein zutreffend ausgefülltes Formblatt zur Verfügung zu stellen, und zwar
+
+1.  
+sofern der Vermittler verbundener Reiseleistungen ein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Beförderungsvertrag geschlossen hat:
+
+a)  
+ein Formblatt gemäß dem Muster in Anlage 14, wenn die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt,
+
+b)  
+ein Formblatt gemäß dem Muster in Anlage 15, wenn die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt,
+
+2.  
+sofern es sich bei dem Vermittler verbundener Reiseleistungen nicht um einen Beförderer handelt, mit dem der Reisende einen die Rückbeförderung umfassenden Beförderungsvertrag geschlossen hat:
+
+a)  
+ein Formblatt gemäß dem Muster in Anlage 16, wenn die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt,
+
+b)  
+ein Formblatt gemäß dem Muster in Anlage 17, wenn die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt.
+
+Erfolgt die Vermittlung verbundener Reiseleistungen in den Fällen von Satz 1 Nummer 1 und 2 Buchstabe b bei gleichzeitiger körperlicher Anwesenheit des Reisenden und des Vermittlers verbundener Reiseleistungen, hat der Vermittler verbundener Reiseleistungen abweichend von Satz 1 die in den betreffenden Formblättern enthaltenen Informationen in einer der Vermittlungssituation angepassten Weise zur Verfügung zu stellen. Entsprechendes gilt, wenn die Vermittlung verbundener Reiseleistungen weder bei gleichzeitiger körperlicher Anwesenheit des Reisenden und des Vermittlers verbundener Reiseleistungen noch online erfolgt.
+
+Art 252 Sicherungsschein; Mitteilungspflicht des Kundengeldabsicherers
+----------------------------------------------------------------------
+
+### 
+
+(1) Der Sicherungsschein nach § 651r Absatz 4 Satz 1, auch in Verbindung mit § 651w Absatz 3 Satz 4, des Bürgerlichen Gesetzbuchs ist gemäß dem in Anlage 18 enthaltenen Muster zu erstellen und dem Reisenden zutreffend ausgefüllt in Textform zu übermitteln. Von dem Muster darf in Format und Schriftgröße abgewichen werden. Auf dem Sicherungsschein darf die Firma oder ein Kennzeichen des Kundengeldabsicherers oder seines Beauftragten abgedruckt werden. Enthält die Urkunde neben dem Sicherungsschein weitere Angaben oder Texte, muss sich der Sicherungsschein deutlich hiervon abheben.
+
+(2) Bei Pauschalreisen ist der Sicherungsschein der Bestätigung oder der Abschrift des Vertrags anzuheften oder auf ihrer Rückseite abzudrucken. Der Sicherungsschein kann auch elektronisch mit der Bestätigung oder Abschrift des Vertrags verbunden werden. Bei Pauschalreisen nach § 651c des Bürgerlichen Gesetzbuchs ist der Sicherungsschein zu übermitteln, sobald der als Reiseveranstalter anzusehende Unternehmer nach Artikel 250 § 8 Absatz 1 über den Umstand eines weiteren Vertragsschlusses unterrichtet worden ist.
+
+(3) Bei Vermittlung verbundener Reiseleistungen ist der Sicherungsschein zu übermitteln, sobald der Vermittler verbundener Reiseleistungen nach § 651w Absatz 5 des Bürgerlichen Gesetzbuchs über den Umstand eines weiteren Vertragsschlusses unterrichtet worden ist.
+
+(4) Ein Reisevermittler ist dem Reisenden gegenüber verpflichtet, den Sicherungsschein auf seine Gültigkeit hin zu überprüfen, wenn er ihn dem Reisenden übermittelt.
+
+(5) Der Kundengeldabsicherer (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs) ist verpflichtet, die Beendigung des Kundengeldabsicherungsvertrags der zuständigen Behörde unverzüglich mitzuteilen.
+
+Art 253 Zentrale Kontaktstelle
+------------------------------
+
+### 
+
+Art 253
+-------
+
+### § 1 Zentrale Kontaktstelle; Informationen über die Insolvenzsicherung
+
+(1) Die Aufgaben der zentralen Kontaktstelle nach Artikel 18 Absatz 2 bis 4 der Richtlinie (EU) 2015/2302 nimmt das Bundesamt für Justiz wahr.
+
+(2) Das Bundesamt für Justiz stellt den zentralen Kontaktstellen anderer Mitgliedstaaten oder sonstiger Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum alle notwendigen Informationen über die gesetzlichen Anforderungen an die Verpflichtung von Reiseveranstaltern und Vermittlern verbundener Reiseleistungen zur Insolvenzsicherung (§§ 651r bis 651t, 651w Absatz 3 des Bürgerlichen Gesetzbuchs) zur Verfügung.
+
+Art 253
+-------
+
+### § 2 Ausgehende Ersuchen
+
+Das Bundesamt für Justiz leitet Auskunftsersuchen der zuständigen Behörden zur Klärung von Zweifeln, ob ein Reiseveranstalter oder ein Vermittler verbundener Reiseleistungen mit Sitz in einem anderen Mitgliedstaat oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum seiner Verpflichtung zur Insolvenzsicherung (§§ 651s, 651w Absatz 3 des Bürgerlichen Gesetzbuchs) nachgekommen ist, an die zentrale Kontaktstelle des Niederlassungsstaats weiter.
+
+Art 253
+-------
+
+### § 3 Eingehende Ersuchen
+
+(1) Auskunftsersuchen zentraler Kontaktstellen anderer Mitgliedstaaten oder sonstiger Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zur Klärung von Zweifeln, ob ein Reiseveranstalter oder ein Vermittler verbundener Reiseleistungen mit Sitz im Inland seiner Verpflichtung zur Insolvenzsicherung (§§ 651r, 651w Absatz 3 des Bürgerlichen Gesetzbuchs) nachgekommen ist, leitet das Bundesamt für Justiz unverzüglich an die zuständige Behörde weiter.
+
+(2) Die zuständige Behörde ergreift unverzüglich die zur Klärung erforderlichen Maßnahmen und teilt dem Bundesamt für Justiz das Ergebnis mit. Das Bundesamt für Justiz leitet die Mitteilung der zuständigen Behörde unverzüglich an die zentrale Kontaktstelle des anderen Staats weiter.
+
+(3) Sofern das Ersuchen innerhalb von 15 Arbeitstagen nach Eingang noch nicht abschließend beantwortet werden kann, erteilt das Bundesamt für Justiz der zentralen Kontaktstelle des anderen Staats innerhalb dieser Frist eine erste Antwort.
 
 -
 -
@@ -6294,4 +6824,653 @@ Gestaltungshinweise:
 | \*\*   | Dieser Klammerzusatz entfällt bei durchgängiger genauer Bezeichnung des Vertrags/Geschäfts.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | \*\*\* | Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende Geschäft kann nach erstmaliger genauer Bezeichnung im Weiteren durch Verwendung der allgemeinen Bezeichnung des jeweiligen Vertrags/Geschäfts (verbundener Vertrag, angegebenes Geschäft, zusammenhängender Vertrag) erfolgen.                                                                                                                                                                                                                                                                                                                                                                                    |
 
+-
+-
 
+### Anlage 10 (zu Artikel 249 § 3)Muster für die Widerrufsbelehrung bei Verbraucherbauverträgen
+
+(Fundstelle: BGBl. I 2017, 979)
+
+|                                                                                                                                                                                                                                                                                                          |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Widerrufsbelehrung**                                                                                                                                                                                                                                                                                   |
+| **Widerrufsrecht**                                                                                                                                                                                                                                                                                       |
+| Sie haben das Recht, binnen 14 Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen.                                                                                                                                                                                                               |
+| Die Widerrufsfrist beträgt 14 Tage ab dem Tag des Vertragsabschlusses. Sie beginnt nicht zu laufen, bevor Sie diese Belehrung in Textform erhalten haben.                                                                                                                                                |
+| Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (\*) mittels einer eindeutigen Erklärung (z. B. Brief, Telefax oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren.                                                                                                            |
+| Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Erklärung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.                                                                                                                                                       |
+| **Folgen des Widerrufs**                                                                                                                                                                                                                                                                                 |
+| Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, unverzüglich zurückzuzahlen.                                                                                                                                                                       |
+| Sie müssen uns im Falle des Widerrufs alle Leistungen zurückgeben, die Sie bis zum Widerruf von uns erhalten haben. Ist die Rückgewähr einer Leistung ihrer Natur nach ausgeschlossen, lassen sich etwa verwendete Baumaterialien nicht ohne Zerstörung entfernen, müssen Sie Wertersatz dafür bezahlen. |
+
+|                         |
+|-------------------------|
+| **Gestaltungshinweis:** |
+| \*                      |
+
+-
+-
+
+### Anlage 11 (zu Artikel 250 § 2 Absatz 1)Muster für das Formblatt zur Unterrichtung des Reisenden bei einer Pauschalreise nach § 651a des Bürgerlichen Gesetzbuchs
+
+(Fundstelle: BGBl. I 2017, 2409 — 2410)
+
+|                                                                                                                                                                                                                                                       |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Bei der Ihnen angebotenen Kombination von Reiseleistungen handelt es sich um eine Pauschalreise im Sinne der Richtlinie (EU) 2015/2302.                                                                                                               |
+| Daher können Sie alle EU-Rechte in Anspruch nehmen, die für Pauschalreisen gelten. Das Unternehmen   trägt die volle Verantwortung für die ordnungsgemäße Durchführung der gesamten Pauschalreise.                                                    |
+| Zudem verfügt das Unternehmen   über die gesetzlich vorgeschriebene Absicherung für die Rückzahlung Ihrer Zahlungen und, falls der Transport in der Pauschalreise inbegriffen ist, zur Sicherstellung Ihrer Rückbeförderung im Fall seiner Insolvenz. |
+|                                                                                                                                                                                                                                                       |
+
+<table>
+<colgroup>
+<col width="100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>  Wichtigste Rechte nach der Richtlinie (EU) 2015/2302
+<dl>
+<dt>–</dt>
+<dd>Die Reisenden erhalten alle wesentlichen Informationen über die Pauschalreise vor Abschluss des Pauschalreisevertrags.
+</dd>
+<dt>–</dt>
+<dd>Es haftet immer mindestens ein Unternehmer für die ordnungsgemäße Erbringung aller im Vertrag inbegriffenen Reiseleistungen.
+</dd>
+<dt>–</dt>
+<dd>Die Reisenden erhalten eine Notruftelefonnummer oder Angaben zu einer Kontaktstelle, über die sie sich mit dem Reiseveranstalter oder dem Reisebüro in Verbindung setzen können.
+</dd>
+<dt>–</dt>
+<dd>Die Reisenden können die Pauschalreise – innerhalb einer angemessenen Frist und unter Umständen unter zusätzlichen Kosten – auf eine andere Person übertragen.
+</dd>
+<dt>–</dt>
+<dd>Der Preis der Pauschalreise darf nur erhöht werden, wenn bestimmte Kosten (zum Beispiel Treibstoffpreise) sich erhöhen und wenn dies im Vertrag ausdrücklich vorgesehen ist, und in jedem Fall bis spätestens 20 Tage vor Beginn der Pauschalreise. Wenn die Preiserhöhung 8 % des Pauschalreisepreises übersteigt, kann der Reisende vom Vertrag zurücktreten. Wenn sich ein Reiseveranstalter das Recht auf eine Preiserhöhung vorbehält, hat der Reisende das Recht auf eine Preissenkung, wenn die entsprechenden Kosten sich verringern.
+</dd>
+<dt>–</dt>
+<dd>Die Reisenden können ohne Zahlung einer Rücktrittsgebühr vom Vertrag zurücktreten und erhalten eine volle Erstattung aller Zahlungen, wenn einer der wesentlichen Bestandteile der Pauschalreise mit Ausnahme des Preises erheblich geändert wird. Wenn der für die Pauschalreise verantwortliche Unternehmer die Pauschalreise vor Beginn der Pauschalreise absagt, haben die Reisenden Anspruch auf eine Kostenerstattung und unter Umständen auf eine Entschädigung.
+</dd>
+<dt>–</dt>
+<dd>Die Reisenden können bei Eintritt außergewöhnlicher Umstände vor Beginn der Pauschalreise ohne Zahlung einer Rücktrittsgebühr vom Vertrag zurücktreten, beispielsweise wenn am Bestimmungsort schwerwiegende Sicherheitsprobleme bestehen, die die Pauschalreise voraussichtlich beeinträchtigen.
+</dd>
+<dt>–</dt>
+<dd>Zudem können die Reisenden jederzeit vor Beginn der Pauschalreise gegen Zahlung einer angemessenen und vertretbaren Rücktrittsgebühr vom Vertrag zurücktreten.
+</dd>
+<dt>–</dt>
+<dd>Können nach Beginn der Pauschalreise wesentliche Bestandteile der Pauschalreise nicht vereinbarungsgemäß durchgeführt werden, so sind dem Reisenden angemessene andere Vorkehrungen ohne Mehrkosten anzubieten. Der Reisende kann ohne Zahlung einer Rücktrittsgebühr vom Vertrag zurücktreten (in der Bundesrepublik Deutschland heißt dieses Recht „Kündigung“), wenn Leistungen nicht gemäß dem Vertrag erbracht werden und dies erhebliche Auswirkungen auf die Erbringung der vertraglichen Pauschalreiseleistungen hat und der Reiseveranstalter es versäumt, Abhilfe zu schaffen.
+</dd>
+<dt>–</dt>
+<dd>Der Reisende hat Anspruch auf eine Preisminderung und/oder Schadenersatz, wenn die Reiseleistungen nicht oder nicht ordnungsgemäß erbracht werden.
+</dd>
+<dt>–</dt>
+<dd>Der Reiseveranstalter leistet dem Reisenden Beistand, wenn dieser sich in Schwierigkeiten befindet.
+</dd>
+<dt>–</dt>
+<dd>Im Fall der Insolvenz des Reiseveranstalters oder – in einigen Mitgliedstaaten – des Reisevermittlers werden Zahlungen zurückerstattet. Tritt die Insolvenz des Reiseveranstalters oder, sofern einschlägig, des Reisevermittlers nach Beginn der Pauschalreise ein und ist die Beförderung Bestandteil der Pauschalreise, so wird die Rückbeförderung der Reisenden gewährleistet.   hat eine Insolvenzabsicherung mit   abgeschlossen.* Die Reisenden können diese Einrichtung oder gegebenenfalls die zuständige Behörde (   ) kontaktieren, wenn ihnen Leistungen aufgrund der Insolvenz von   verweigert werden.*
+</dd>
+</dl></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+</tbody>
+</table>
+
+**Gestaltungshinweise:**
+
+  
+Bei Tagesreisen, deren Reisepreis 500 Euro übersteigt, ist anstelle des vorangegangenen Satzes der folgende Satz einzufügen: „Bei der Ihnen angebotenen Kombination von Reiseleistungen handelt es sich um eine Tagesreise, die nach den Vorschriften des Bürgerlichen Gesetzbuchs wie eine Pauschalreise im Sinne der Richtlinie (EU) 2015/2302 behandelt wird.“
+
+  
+Hier ist die Firma/der Name des Reiseveranstalters einzufügen.
+
+  
+Werden die Informationen auf einer Webseite für den elektronischen Geschäftsverkehr zur Verfügung gestellt, ist hier die mit den Wörtern „Weiterführende Informationen zu Ihren wichtigsten Rechten nach der Richtlinie (EU) 2015/2302“ beschriftete Hyperlink-Schaltfläche einzufügen, nach deren Betätigung die Informationen zu   zur Verfügung gestellt werden.
+
+  
+Die Informationen über die wichtigsten Rechte nach der Richtlinie (EU) 2015/2302 werden entweder nach Betätigung der Hyperlink-Schaltfläche zu   zur Verfügung gestellt oder, wenn die Informationen nicht auf einer Webseite für den elektronischen Geschäftsverkehr zur Verfügung gestellt werden, den Informationen im ersten Kasten unmittelbar unterhalb des Kastens angefügt.
+
+  
+Hier ist einzufügen:
+
+a)  
+wenn ein Fall des § 651s des Bürgerlichen Gesetzbuchs vorliegt: Name der Einrichtung, die den Insolvenzschutz bietet,
+
+b)  
+in allen anderen Fällen: Name des Kundengeldabsicherers (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs).
+
+  
+Hier sind einzufügen:
+
+a)  
+wenn ein Fall des § 651s des Bürgerlichen Gesetzbuchs vorliegt: Kontaktdaten der Einrichtung, die den Insolvenzschutz bietet, und gegebenenfalls Name und Kontaktdaten der zuständigen Behörde, jeweils einschließlich der Anschrift des Ortes, an dem sie ihren Sitz hat, der E-Mail-Adresse und der Telefonnummer,
+
+b)  
+in allen anderen Fällen: Kontaktdaten des Kundengeldabsicherers (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs) einschließlich der Anschrift des Ortes, an dem er niedergelassen ist, der E-Mail-Adresse und der Telefonnummer.
+
+  
+Hier ist einzufügen:
+
+a)  
+wenn die Informationen auf einer Webseite für den elektronischen Geschäftsverkehr zur Verfügung gestellt werden: die mit den Wörtern „Richtlinie (EU) 2015/2302 in der in das nationale Recht umgesetzten Form“ beschriftete Hyperlink-Schaltfläche, nach deren Betätigung eine Weiterleitung auf die Webseite www.umsetzung-richtlinie-eu2015-2302.de erfolgt,
+
+b)  
+wenn die Informationen nicht auf einer Webseite für den elektronischen Geschäftsverkehr zur Verfügung gestellt werden: „Webseite, auf der die Richtlinie (EU) 2015/2302 in der in das nationale Recht umgesetzten Form zu finden ist: www.umsetzung-richtlinie-eu2015-2302.de“.
+
+Besteht gemäß § 651r Absatz 1 des Bürgerlichen Gesetzbuchs keine Verpflichtung des Reiseveranstalters zur Insolvenzsicherung, weil der Reiseveranstalter vor Beendigung der Pauschalreise keine Zahlungen des Reisenden auf den Reisepreis annimmt und der Vertrag keine Rückbeförderung des Reisenden umfasst, entfallen diese Sätze.
+
+-
+-
+
+### Anlage 12 (zu Artikel 250 § 2 Absatz 2)Muster für das Formblatt zur Unterrichtung des Reisenden bei Verträgen über Gastschulaufenthalte nach § 651u des Bürgerlichen Gesetzbuchs
+
+(Fundstelle: BGBl. I 2017, 2411 — 2412)
+
+|                                                                                                                                                                                                                                                                                                      |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Auf den Ihnen angebotenen Vertrag finden die Vorschriften des Bürgerlichen Gesetzbuchs über Pauschalreisen entsprechende Anwendung.                                                                                                                                                                  |
+| Daher können Sie Rechte in Anspruch nehmen, die für Pauschalreisen gelten. Bei einem Gastschulaufenthalt gelten darüber hinaus die besonderen Bestimmungen des § 651u Absatz 2 bis 4 des Bürgerlichen Gesetzbuchs, insbesondere für den Rücktritt vom Vertrag vor Reisebeginn und für die Kündigung. |
+| Das Unternehmen   verfügt über die gesetzlich vorgeschriebene Absicherung für den Fall seiner Insolvenz. Die Absicherung umfasst die Rückzahlung Ihrer Zahlungen und, falls der Vertrag die Beförderung umfasst, die Sicherstellung der Rückbeförderung.\*                                           |
+|                                                                                                                                                                                                                                                                                                      |
+
+<table>
+<colgroup>
+<col width="100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>  Ihre wichtigsten Rechte nach den Vorschriften des Bürgerlichen Gesetzbuchs
+<dl>
+<dt>–</dt>
+<dd>Die Reisenden, d. h. in aller Regel nicht die Gastschüler selbst, sondern die Vertragspartner des Reiseveranstalters, erhalten alle wesentlichen Informationen über die Pauschalreise vor Abschluss des Vertrags.
+</dd>
+<dt>–</dt>
+<dd>Es haftet immer mindestens ein Unternehmer für die ordnungsgemäße Erbringung der von dem Vertrag umfassten Reiseleistungen.
+</dd>
+<dt>–</dt>
+<dd>Die Reisenden erhalten eine Notruftelefonnummer oder Angaben zu einer Kontaktstelle, über die sie sich mit dem Reiseveranstalter oder dem Reisebüro in Verbindung setzen können.
+</dd>
+<dt>–</dt>
+<dd>Die Reisenden können die Pauschalreise – innerhalb einer angemessenen Frist und unter Umständen unter zusätzlichen Kosten – auf eine andere Person übertragen.
+</dd>
+<dt>–</dt>
+<dd>Der Reisepreis darf nur erhöht werden, wenn bestimmte Kosten (zum Beispiel Treibstoffpreise) sich erhöhen und die Preiserhöhung im Vertrag ausdrücklich vorgesehen ist. Eine Preiserhöhung ist nur wirksam, wenn die Unterrichtung des Reisenden nicht später als 20 Tage vor Reisebeginn erfolgt. Übersteigt die Preiserhöhung 8 % des Reisepreises, kann der Reisende vom Vertrag zurücktreten. Wenn sich ein Reiseveranstalter das Recht auf eine Preiserhöhung vorbehält, hat der Reisende das Recht auf eine Preissenkung, wenn die entsprechenden Kosten sich verringern.
+</dd>
+<dt>–</dt>
+<dd>Die Reisenden können ohne Zahlung einer Rücktrittsgebühr vom Vertrag zurücktreten und erhalten eine volle Erstattung aller Zahlungen, wenn einer der wesentlichen Bestandteile der Pauschalreise mit Ausnahme des Preises erheblich geändert wird. Wenn der Reiseveranstalter die Pauschalreise vor Reisebeginn absagt, haben die Reisenden Anspruch auf eine Kostenerstattung und unter Umständen auf eine Entschädigung.
+</dd>
+<dt>–</dt>
+<dd>Die Reisenden können bei Eintritt außergewöhnlicher Umstände vor Reisebeginn ohne Zahlung einer Rücktrittsgebühr vom Vertrag zurücktreten, beispielsweise wenn am Bestimmungsort schwerwiegende Sicherheitsprobleme bestehen, die die Pauschalreise voraussichtlich beeinträchtigen.
+</dd>
+<dt>–</dt>
+<dd>Zudem können die Reisenden vor Reisebeginn jederzeit, d. h. ohne weitere Voraussetzungen, vom Vertrag zurücktreten, gegebenenfalls gegen Zahlung einer angemessenen Rücktrittsgebühr.
+</dd>
+<dt>–</dt>
+<dd>Der Reisende kann den Vertrag bis zur Beendigung der Reise auch jederzeit kündigen. Der Reiseveranstalter ist dann berechtigt, den vereinbarten Reisepreis abzüglich ersparter Aufwendungen zu verlangen. Der Reiseveranstalter ist verpflichtet, die infolge der Kündigung notwendigen Maßnahmen zu treffen. Er hat insbesondere, falls der Vertrag die Beförderung des Gastschülers umfasst, für dessen Rückbeförderung zu sorgen. Die Mehrkosten trägt in diesem Fall der Reisende.
+</dd>
+<dt>–</dt>
+<dd>Kann nach Reisebeginn ein erheblicher Teil der Reiseleistungen nicht vereinbarungsgemäß durchgeführt werden, so sind dem Reisenden ohne Mehrkosten angemessene Ersatzleistungen anzubieten. Der Reisende kann den Vertrag kostenfrei kündigen, wenn Leistungen nicht gemäß dem Vertrag erbracht werden, die Pauschalreise hierdurch erheblich beeinträchtigt wird und der Reiseveranstalter es versäumt, Abhilfe zu schaffen. In diesem Fall trägt der Reiseveranstalter die Mehrkosten für eine gegebenenfalls zu veranlassende Rückbeförderung des Gastschülers.
+</dd>
+<dt>–</dt>
+<dd>Der Reisende hat Anspruch auf eine Preisminderung und/oder Schadenersatz, wenn die Leistungen nicht oder nicht ordnungsgemäß erbracht werden.
+</dd>
+<dt>–</dt>
+<dd>Der Reiseveranstalter leistet dem Reisenden bzw. dem Gastschüler Beistand, wenn dieser sich in Schwierigkeiten befindet.
+</dd>
+<dt>–</dt>
+<dd>Im Fall der Insolvenz des Reiseveranstalters werden Zahlungen zurückerstattet. Tritt die Insolvenz des Reiseveranstalters nach Reisebeginn ein und ist die Beförderung Bestandteil der Pauschalreise, so wird die Rückbeförderung des Gastschülers gewährleistet.     hat eine Insolvenzabsicherung mit     abgeschlossen.* Die Reisenden können diese Einrichtung oder gegebenenfalls die zuständige Behörde (  ) kontaktieren, wenn ihnen Leistungen aufgrund der Insolvenz von   verweigert werden.*
+</dd>
+</dl></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+</tbody>
+</table>
+
+**Gestaltungshinweise:**
+
+  
+Hier ist die Firma/der Name des Reiseveranstalters einzufügen.
+
+  
+Werden die Informationen auf einer Webseite für den elektronischen Geschäftsverkehr zur Verfügung gestellt, ist hier die mit den Wörtern „Weiterführende Informationen zu Ihren wichtigsten Rechten nach den Vorschriften des Bürgerlichen Gesetzbuchs“ beschriftete Hyperlink-Schaltfläche einzufügen, nach deren Betätigung die Informationen zu   zur Verfügung gestellt werden.
+
+  
+Die Informationen über die wichtigsten Rechte werden entweder nach Betätigung der Hyperlink-Schaltfläche zu   zur Verfügung gestellt oder, wenn die Informationen nicht auf einer Webseite für den elektronischen Geschäftsverkehr zur Verfügung gestellt werden, den Informationen im ersten Kasten unmittelbar unterhalb des Kastens angefügt.
+
+  
+Hier ist einzufügen:
+
+a)  
+wenn ein Fall des § 651s des Bürgerlichen Gesetzbuchs vorliegt: Name der Einrichtung, die den Insolvenzschutz bietet,
+
+b)  
+in allen anderen Fällen: Name des Kundengeldabsicherers (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs).
+
+  
+Hier sind einzufügen:
+
+a)  
+wenn ein Fall des § 651s des Bürgerlichen Gesetzbuchs vorliegt: Kontaktdaten der Einrichtung, die den Insolvenzschutz bietet, und gegebenenfalls Name und Kontaktdaten der zuständigen Behörde, jeweils einschließlich der Anschrift des Ortes, an dem sie ihren Sitz hat, der E-Mail-Adresse und der Telefonnummer,
+
+b)  
+in allen anderen Fällen: Kontaktdaten des Kundengeldabsicherers (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs) einschließlich der Anschrift des Ortes, an dem er niedergelassen ist, der E-Mail-Adresse und der Telefonnummer.
+
+  
+Hier ist einzufügen:
+
+a)  
+wenn die Informationen auf einer Webseite für den elektronischen Geschäftsverkehr zur Verfügung gestellt werden: die mit den Wörtern „Weiterleitung zur Gesamtausgabe des Bürgerlichen Gesetzbuchs“ beschriftete Hyperlink-Schaltfläche, nach deren Betätigung eine Weiterleitung auf die Webseite www.gesetze-im-internet.de/bgb erfolgt,
+
+b)  
+wenn die Informationen nicht auf einer Webseite für den elektronischen Geschäftsverkehr zur Verfügung gestellt werden: „Webseite, auf welcher die Gesamtausgabe des Bürgerlichen Gesetzbuchs zu finden ist: www.gesetze-im-internet.de/bgb“.
+
+Besteht gemäß § 651r Absatz 1 des Bürgerlichen Gesetzbuchs keine Verpflichtung des Reiseveranstalters zur Insolvenzsicherung, weil der Reiseveranstalter vor Beendigung der Pauschalreise keine Zahlungen des Reisenden auf den Reisepreis annimmt und der Vertrag keine Rückbeförderung des Reisenden umfasst, entfallen diese Sätze.
+
+-
+-
+
+### Anlage 13 (zu Artikel 250 § 4)Muster für das Formblatt zur Unterrichtung des Reisenden bei einer Pauschalreise nach § 651c des Bürgerlichen Gesetzbuchs
+
+(Fundstelle: BGBl. I 2017, 2413 — 2414)
+
+|                                                                                                                                                                                                                                                                          |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wenn Sie innerhalb von 24 Stunden ab Eingang der Buchungsbestätigung des Unternehmens   einen Vertrag mit dem Unternehmen   schließen, handelt es sich bei den von   und   zu erbringenden Reiseleistungen um eine Pauschalreise im Sinne der Richtlinie (EU) 2015/2302. |
+| Daher können Sie alle EU-Rechte in Anspruch nehmen, die für Pauschalreisen gelten. Das Unternehmen   trägt die volle Verantwortung für die ordnungsgemäße Durchführung der gesamten Pauschalreise.                                                                       |
+| Zudem verfügt das Unternehmen   über die gesetzlich vorgeschriebene Absicherung für die Rückzahlung Ihrer Zahlungen und, falls der Transport in der Pauschalreise inbegriffen ist, zur Sicherstellung Ihrer Rückbeförderung im Fall seiner Insolvenz.                    |
+|                                                                                                                                                                                                                                                                          |
+
+<table>
+<colgroup>
+<col width="100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>  Wichtigste Rechte nach der Richtlinie (EU) 2015/2302
+<dl>
+<dt>–</dt>
+<dd>Die Reisenden erhalten alle wesentlichen Informationen über die Pauschalreise vor Abschluss des Pauschalreisevertrags.
+</dd>
+<dt>–</dt>
+<dd>Es haftet immer mindestens ein Unternehmer für die ordnungsgemäße Erbringung aller im Vertrag inbegriffenen Reiseleistungen.
+</dd>
+<dt>–</dt>
+<dd>Die Reisenden erhalten eine Notruftelefonnummer oder Angaben zu einer Kontaktstelle, über die sie sich mit dem Reiseveranstalter oder dem Reisebüro in Verbindung setzen können.
+</dd>
+<dt>–</dt>
+<dd>Die Reisenden können die Pauschalreise – innerhalb einer angemessenen Frist und unter Umständen unter zusätzlichen Kosten – auf eine andere Person übertragen.
+</dd>
+<dt>–</dt>
+<dd>Der Preis der Pauschalreise darf nur erhöht werden, wenn bestimmte Kosten (zum Beispiel Treibstoffpreise) sich erhöhen und wenn dies im Vertrag ausdrücklich vorgesehen ist, und in jedem Fall bis spätestens 20 Tage vor Beginn der Pauschalreise. Wenn die Preiserhöhung 8 % des Pauschalreisepreises übersteigt, kann der Reisende vom Vertrag zurücktreten. Wenn sich ein Reiseveranstalter das Recht auf eine Preiserhöhung vorbehält, hat der Reisende das Recht auf eine Preissenkung, wenn die entsprechenden Kosten sich verringern.
+</dd>
+<dt>–</dt>
+<dd>Die Reisenden können ohne Zahlung einer Rücktrittsgebühr vom Vertrag zurücktreten und erhalten eine volle Erstattung aller Zahlungen, wenn einer der wesentlichen Bestandteile der Pauschalreise mit Ausnahme des Preises erheblich geändert wird. Wenn der für die Pauschalreise verantwortliche Unternehmer die Pauschalreise vor Beginn der Pauschalreise absagt, haben die Reisenden Anspruch auf eine Kostenerstattung und unter Umständen auf eine Entschädigung.
+</dd>
+<dt>–</dt>
+<dd>Die Reisenden können bei Eintritt außergewöhnlicher Umstände vor Beginn der Pauschalreise ohne Zahlung einer Rücktrittsgebühr vom Vertrag zurücktreten, beispielsweise wenn am Bestimmungsort schwerwiegende Sicherheitsprobleme bestehen, die die Pauschalreise voraussichtlich beeinträchtigen.
+</dd>
+<dt>–</dt>
+<dd>Zudem können die Reisenden jederzeit vor Beginn der Pauschalreise gegen Zahlung einer angemessenen und vertretbaren Rücktrittsgebühr vom Vertrag zurücktreten.
+</dd>
+<dt>–</dt>
+<dd>Können nach Beginn der Pauschalreise wesentliche Bestandteile der Pauschalreise nicht vereinbarungsgemäß durchgeführt werden, so sind dem Reisenden angemessene andere Vorkehrungen ohne Mehrkosten anzubieten. Der Reisende kann ohne Zahlung einer Rücktrittsgebühr vom Vertrag zurücktreten (in der Bundesrepublik Deutschland heißt dieses Recht „Kündigung“), wenn Leistungen nicht gemäß dem Vertrag erbracht werden und dies erhebliche Auswirkungen auf die Erbringung der vertraglichen Pauschalreiseleistungen hat und der Reiseveranstalter es versäumt, Abhilfe zu schaffen.
+</dd>
+<dt>–</dt>
+<dd>Der Reisende hat Anspruch auf eine Preisminderung und/oder Schadenersatz, wenn die Reiseleistungen nicht oder nicht ordnungsgemäß erbracht werden.
+</dd>
+<dt>–</dt>
+<dd>Der Reiseveranstalter leistet dem Reisenden Beistand, wenn dieser sich in Schwierigkeiten befindet.
+</dd>
+<dt>–</dt>
+<dd>Im Fall der Insolvenz des Reiseveranstalters oder – in einigen Mitgliedstaaten – des Reisevermittlers werden Zahlungen zurückerstattet. Tritt die Insolvenz des Reiseveranstalters oder, sofern einschlägig, des Reisevermittlers nach Beginn der Pauschalreise ein und ist die Beförderung Bestandteil der Pauschalreise, so wird die Rückbeförderung der Reisenden gewährleistet.   hat eine Insolvenzabsicherung mit   abgeschlossen.* Die Reisenden können diese Einrichtung oder gegebenenfalls die zuständige Behörde (  ) kontaktieren, wenn ihnen Leistungen aufgrund der Insolvenz von   verweigert werden.*
+</dd>
+</dl></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+</tbody>
+</table>
+
+**Gestaltungshinweise:**
+
+  
+Hier ist die Firma/der Name des als Reiseveranstalter anzusehenden Unternehmers (§ 651c Absatz 1 des Bürgerlichen Gesetzbuchs) einzufügen.
+
+  
+Hier ist die Firma/der Name jedes anderen Unternehmers einzutragen, dem nach § 651c Absatz 1 Nummer 2 des Bürgerlichen Gesetzbuchs Daten übermittelt werden.
+
+  
+Hier ist die mit den Wörtern „Weiterführende Informationen zu Ihren wichtigsten Rechten nach der Richtlinie (EU) 2015/2302“ beschriftete Hyperlink-Schaltfläche einzufügen, nach deren Betätigung die Informationen zu   zur Verfügung gestellt werden.
+
+  
+Die Informationen über die wichtigsten Rechte nach der Richtlinie (EU) 2015/2302 werden nach Betätigung der Hyperlink-Schaltfläche zu   zur Verfügung gestellt.
+
+  
+Hier ist einzufügen:
+
+a)  
+wenn ein Fall des § 651s des Bürgerlichen Gesetzbuchs vorliegt: Name der Einrichtung, die den Insolvenzschutz bietet,
+
+b)  
+in allen anderen Fällen: Name des Kundengeldabsicherers (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs).
+
+  
+Hier sind einzufügen:
+
+a)  
+wenn ein Fall des § 651s des Bürgerlichen Gesetzbuchs vorliegt: Kontaktdaten der Einrichtung, die den Insolvenzschutz bietet, und gegebenenfalls Name und Kontaktdaten der zuständigen Behörde, jeweils einschließlich der Anschrift des Ortes, an dem sie ihren Sitz hat, der E-Mail-Adresse und der Telefonnummer,
+
+b)  
+in allen anderen Fällen: Kontaktdaten des Kundengeldabsicherers (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs) einschließlich der Anschrift des Ortes, an dem er niedergelassen ist, der E-Mail-Adresse und der Telefonnummer.
+
+  
+Hier ist die mit den Wörtern „Richtlinie (EU) 2015/2302 in der in das nationale Recht umgesetzten Form“ beschriftete Hyperlink-Schaltfläche einzufügen, nach deren Betätigung eine Weiterleitung auf die Webseite www.umsetzung-richtlinie-eu2015-2302.de erfolgt.
+
+Besteht gemäß § 651r Absatz 1 des Bürgerlichen Gesetzbuchs keine Verpflichtung des als Reiseveranstalter anzusehenden Unternehmers zur Insolvenzsicherung, weil der als Reiseveranstalter anzusehende Unternehmer vor Beendigung der Pauschalreise keine Zahlungen des Reisenden auf den Reisepreis annimmt und der Vertrag keine Rückbeförderung des Reisenden umfasst, entfallen diese Sätze.
+
+-
+-
+
+### Anlage 14 (zu Artikel 251 § 2 Satz 1 Nummer 1 Buchstabe a)Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen ein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt
+
+(Fundstelle: BGBl. I 2017, 2415)
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Bei Buchung zusätzlicher Reiseleistungen für Ihre Reise über   im Anschluss an die Auswahl und Zahlung einer Reiseleistung können Sie die nach der Richtlinie (EU) 2015/2302 für Pauschalreisen geltenden Rechte NICHT in Anspruch nehmen.                                                                                                                                                                                                                                                                                                                 |
+| Daher ist     nicht für die ordnungsgemäße Erbringung solcher zusätzlichen Reiseleistungen verantwortlich. Bei Problemen wenden Sie sich bitte an den jeweiligen Leistungserbringer.                                                                                                                                                                                                                                                                                                                                                                       |
+| Bei Buchung zusätzlicher Reiseleistungen bei demselben Besuch des Buchungsportals   werden diese Reiseleistungen jedoch Teil verbundener Reiseleistungen. In diesem Fall verfügt   über die nach dem EU-Recht vorgeschriebene Absicherung für die Erstattung Ihrer Zahlungen an   für Dienstleistungen, die aufgrund der Insolvenz von   nicht erbracht wurden, sowie erforderlichenfalls für Ihre Rückbeförderung an den Abreiseort. Beachten Sie bitte, dass dies im Fall einer Insolvenz des betreffenden Leistungserbringers keine Erstattung bewirkt. |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+
+|                                                                                                                                                                                 |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   hat eine Insolvenzabsicherung mit   abgeschlossen.                                                                                                                            |
+| Die Reisenden können diese Einrichtung oder gegebenenfalls die zuständige Behörde (  ) kontaktieren, wenn ihnen Reiseleistungen aufgrund der Insolvenz von   verweigert werden. |
+| Hinweis: Diese Insolvenzabsicherung gilt nicht für Verträge mit anderen Parteien als  , die trotz der Insolvenz des Unternehmens   erfüllt werden können.                       |
+|                                                                                                                                                                                 |
+
+**Gestaltungshinweise:**
+
+  
+Hier ist entweder „unser Unternehmen“ oder „das Unternehmen (einsetzen: Firma/Name des Vermittlers verbundener Reiseleistungen)“ einzufügen.
+
+  
+Hier ist entweder „unseres Unternehmens“ oder „des Unternehmens (einsetzen: Firma/Name des Vermittlers verbundener Reiseleistungen)“ einzufügen.
+
+  
+Hier ist die Firma/der Name des Vermittlers verbundener Reiseleistungen einzufügen.
+
+  
+Hier ist die mit den Wörtern „Weiterführende Informationen zum Insolvenzschutz“ beschriftete Hyperlink-Schaltfläche einzufügen, nach deren Betätigung die Informationen im zweiten Kasten zur Verfügung gestellt werden.
+
+  
+Hier ist einzufügen:
+
+a)  
+wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des Bürgerlichen Gesetzbuchs vorliegt: Name der Einrichtung, die den Insolvenzschutz bietet,
+
+b)  
+in allen anderen Fällen: Name des Kundengeldabsicherers (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs).
+
+  
+Hier sind einzufügen:
+
+a)  
+wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des Bürgerlichen Gesetzbuchs vorliegt: Kontaktdaten der Einrichtung, die den Insolvenzschutz bietet, und gegebenenfalls Name und Kontaktdaten der zuständigen Behörde, jeweils einschließlich der Anschrift des Ortes, an dem sie ihren Sitz hat, der E-Mail-Adresse und der Telefonnummer,
+
+b)  
+in allen anderen Fällen: Kontaktdaten des Kundengeldabsicherers (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs) einschließlich der Anschrift des Ortes, an dem er niedergelassen ist, der E-Mail-Adresse und der Telefonnummer.
+
+  
+Hier ist die mit den Wörtern „Richtlinie (EU) 2015/2302 in der in das nationale Recht umgesetzten Form“ beschriftete Hyperlink-Schaltfläche einzufügen, nach deren Betätigung eine Weiterleitung auf die Webseite www.umsetzung-richtlinie-eu2015-2302.de erfolgt.
+
+-
+-
+
+### Anlage 15 (zu Artikel 251 § 2 Satz 1 Nummer 1 Buchstabe b)Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen ein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt
+
+(Fundstelle: BGBl. I 2017, 2416)
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Bei Buchung zusätzlicher Reiseleistungen für Ihre Reise über diesen Link oder diese Links können Sie die nach der Richtlinie (EU) 2015/2302 für Pauschalreisen geltenden Rechte NICHT in Anspruch nehmen.                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Daher ist   nicht für die ordnungsgemäße Erbringung solcher zusätzlichen Reiseleistungen verantwortlich. Bei Problemen wenden Sie sich bitte an den jeweiligen Leistungserbringer.                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Bei der Buchung zusätzlicher Reiseleistungen über diesen Link oder diese Links innerhalb von 24 Stunden nach Bestätigung Ihrer Buchung durch   werden diese Reiseleistungen jedoch Teil verbundener Reiseleistungen. In diesem Fall verfügt   über die nach dem EU-Recht vorgeschriebene Absicherung für die Erstattung Ihrer Zahlungen an   für Dienstleistungen, die aufgrund der Insolvenz von   nicht erbracht wurden, sowie erforderlichenfalls für Ihre Rückbeförderung an den Abreiseort. Beachten Sie bitte, dass dies im Fall einer Insolvenz des betreffenden Leistungserbringers keine Erstattung bewirkt. |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+|                                                                                                                                                                                 |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   hat eine Insolvenzabsicherung mit   abgeschlossen.                                                                                                                            |
+| Die Reisenden können diese Einrichtung oder gegebenenfalls die zuständige Behörde (  ) kontaktieren, wenn ihnen Reiseleistungen aufgrund der Insolvenz von   verweigert werden. |
+| Hinweis: Diese Insolvenzabsicherung gilt nicht für Verträge mit anderen Parteien als  , die trotz der Insolvenz des Unternehmens   erfüllt werden können.                       |
+|                                                                                                                                                                                 |
+
+**Gestaltungshinweise:**
+
+  
+Hier ist entweder „unser Unternehmen“ oder „das Unternehmen (einsetzen: Firma/Name des Vermittlers verbundener Reiseleistungen)“ einzufügen.
+
+  
+Hier ist die Firma/der Name des Vermittlers verbundener Reiseleistungen einzufügen.
+
+  
+Hier ist die mit den Wörtern „Weiterführende Informationen zum Insolvenzschutz“ beschriftete Hyperlink-Schaltfläche einzufügen, nach deren Betätigung die Informationen im zweiten Kasten zur Verfügung gestellt werden.
+
+  
+Hier ist einzufügen:
+
+a)  
+wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des Bürgerlichen Gesetzbuchs vorliegt: Name der Einrichtung, die den Insolvenzschutz bietet,
+
+b)  
+in allen anderen Fällen: Name des Kundengeldabsicherers (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs).
+
+  
+Hier sind einzufügen:
+
+a)  
+wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des Bürgerlichen Gesetzbuchs vorliegt: Kontaktdaten der Einrichtung, die den Insolvenzschutz bietet, und gegebenenfalls Name und Kontaktdaten der zuständigen Behörde, jeweils einschließlich der Anschrift des Ortes, an dem sie ihren Sitz hat, der E-Mail-Adresse und der Telefonnummer,
+
+b)  
+in allen anderen Fällen: Kontaktdaten des Kundengeldabsicherers (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs) einschließlich der Anschrift des Ortes, an dem er niedergelassen ist, der E-Mail-Adresse und der Telefonnummer.
+
+  
+Hier ist die mit den Wörtern „Richtlinie (EU) 2015/2302 in der in das nationale Recht umgesetzten Form“ beschriftete Hyperlink-Schaltfläche einzufügen, nach deren Betätigung eine Weiterleitung auf die Webseite www.umsetzung-richtlinie-eu2015-2302.de erfolgt.
+
+-
+-
+
+### Anlage 16 (zu Artikel 251 § 2 Satz 1 Nummer 2 Buchstabe a)Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen kein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt
+
+(Fundstelle: BGBl. I 2017, 2417 — 2418)
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Bei Buchung zusätzlicher Reiseleistungen für Ihre Reise über   im Anschluss an die Auswahl und Zahlung einer Reiseleistung können Sie die nach der Richtlinie (EU) 2015/2302 für Pauschalreisen geltenden Rechte NICHT in Anspruch nehmen.                                                                                                                                                                                                                       |
+| Daher ist   nicht für die ordnungsgemäße Erbringung solcher zusätzlichen Reiseleistungen verantwortlich. Bei Problemen wenden Sie sich bitte an den jeweiligen Leistungserbringer.                                                                                                                                                                                                                                                                               |
+| Bei Buchung zusätzlicher Reiseleistungen bei demselben Besuch   werden diese Reiseleistungen jedoch Teil verbundener Reiseleistungen. In diesem Fall verfügt   über die nach dem EU-Recht vorgeschriebene Absicherung für die Erstattung Ihrer Zahlungen an   für Dienstleistungen, die aufgrund der Insolvenz von   nicht erbracht wurden. Beachten Sie bitte, dass dies im Fall einer Insolvenz des betreffenden Leistungserbringers keine Erstattung bewirkt. |
+|   \*                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+
+|                                                                                                                                                                                   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   hat eine Insolvenzabsicherung mit   abgeschlossen.\*                                                                                                                            |
+| Die Reisenden können diese Einrichtung oder gegebenenfalls die zuständige Behörde (  ) kontaktieren, wenn ihnen Reiseleistungen aufgrund der Insolvenz von   verweigert werden.\* |
+| Hinweis: Diese Insolvenzabsicherung gilt nicht für Verträge mit anderen Parteien als  , die trotz der Insolvenz des Unternehmens   erfüllt werden können.\*                       |
+|   \*                                                                                                                                                                              |
+
+**Gestaltungshinweise:**
+
+  
+Hier ist entweder „unser Unternehmen“ oder „das Unternehmen (einsetzen: Firma/Name des Vermittlers verbundener Reiseleistungen)“ einzufügen.
+
+  
+Hier ist einzufügen:
+
+a)  
+wenn die Informationen auf einer Webseite für den elektronischen Geschäftsverkehr zur Verfügung gestellt werden: entweder „des Buchungsportals unseres Unternehmens“ oder „des Buchungsportals des Unternehmens (einsetzen: Firma/Name des Vermittlers verbundener Reiseleistungen)“,
+
+b)  
+wenn die Informationen bei gleichzeitiger körperlicher Anwesenheit des Reisenden und des Vermittlers verbundener Reiseleistungen zur Verfügung gestellt werden: entweder „unseres Unternehmens oder bei demselben Kontakt mit diesem“ oder „des Unternehmens (einsetzen: Firma/Name des Vermittlers verbundener Reiseleistungen) oder bei demselben Kontakt mit diesem“.
+
+  
+Hier ist die Firma/der Name des Vermittlers verbundener Reiseleistungen einzufügen.
+
+  
+Werden die Informationen auf einer Webseite für den elektronischen Geschäftsverkehr zur Verfügung gestellt, ist hier die mit den Wörtern „Weiterführende Informationen zum Insolvenzschutz“ beschriftete Hyperlink-Schaltfläche einzufügen, nach deren Betätigung die Informationen im zweiten Kasten zur Verfügung gestellt werden. Werden die Informationen bei gleichzeitiger körperlicher Anwesenheit des Reisenden und des Vermittlers verbundener Reiseleistungen zur Verfügung gestellt, werden die Informationen im zweiten Kasten unmittelbar unterhalb des ersten Kastens angefügt.
+
+  
+Hier ist einzufügen:
+
+a)  
+wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des Bürgerlichen Gesetzbuchs vorliegt: Name der Einrichtung, die den Insolvenzschutz bietet,
+
+b)  
+in allen anderen Fällen: Name des Kundengeldabsicherers (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs).
+
+  
+Hier sind einzufügen:
+
+a)  
+wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des Bürgerlichen Gesetzbuchs vorliegt: Kontaktdaten der Einrichtung, die den Insolvenzschutz bietet, und gegebenenfalls Name und Kontaktdaten der zuständigen Behörde, jeweils einschließlich der Anschrift des Ortes, an dem sie ihren Sitz hat, der E-Mail-Adresse und der Telefonnummer,
+
+b)  
+in allen anderen Fällen: Kontaktdaten des Kundengeldabsicherers (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs) einschließlich der Anschrift des Ortes, an dem er niedergelassen ist, der E-Mail-Adresse und der Telefonnummer.
+
+  
+Hier ist einzufügen:
+
+a)  
+wenn die Informationen auf einer Webseite für den elektronischen Geschäftsverkehr zur Verfügung gestellt werden: die mit den Wörtern „Richtlinie (EU) 2015/2302 in der in das nationale Recht umgesetzten Form“ beschriftete Hyperlink-Schaltfläche, nach deren Betätigung eine Weiterleitung auf die Webseite www.umsetzung-richtlinie-eu2015-2302.de erfolgt,
+
+b)  
+wenn die Informationen bei gleichzeitiger körperlicher Anwesenheit des Reisenden und des Vermittlers verbundener Reiseleistungen zur Verfügung gestellt werden: „Webseite, auf der die Richtlinie (EU) 2015/2302 in der in das nationale Recht umgesetzten Form zu finden ist: www.umsetzung-richtlinie-eu2015-2302.de“.
+
+Besteht gemäß § 651w Absatz 3 des Bürgerlichen Gesetzbuchs keine Verpflichtung des Vermittlers verbundener Reiseleistungen zur Insolvenzsicherung, weil er Zahlungen des Reisenden auf Vergütungen für Reiseleistungen nicht oder erst nach deren Erbringung annimmt, entfallen diese Absätze. Gleiches gilt, soweit solche Zahlungen aufgrund einer vom Leistungserbringer erteilten Inkassovollmacht des Vermittlers verbundener Reiseleistungen auf einem insolvenzfesten Treuhandkonto gutgeschrieben werden.
+
+-
+-
+
+### Anlage 17 (zu Artikel 251 § 2 Satz 1 Nummer 2 Buchstabe b)Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen kein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt
+
+(Fundstelle: BGBl. I 2017, 2419)
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Bei Buchung zusätzlicher Reiseleistungen für Ihre Reise über diesen Link oder diese Links können Sie die nach der Richtlinie (EU) 2015/2302 für Pauschalreisen geltenden Rechte NICHT in Anspruch nehmen.                                                                                                                                                                                                                                                                                                                                       |
+| Daher ist   nicht für die ordnungsgemäße Erbringung solcher zusätzlichen Reiseleistungen verantwortlich. Bei Problemen wenden Sie sich bitte an den jeweiligen Leistungserbringer.                                                                                                                                                                                                                                                                                                                                                              |
+| Bei der Buchung zusätzlicher Reiseleistungen über diesen Link oder diese Links innerhalb von 24 Stunden nach Bestätigung Ihrer Buchung durch   werden diese Reiseleistungen jedoch Teil verbundener Reiseleistungen. In diesem Fall verfügt   über die nach dem EU-Recht vorgeschriebene Absicherung für die Erstattung Ihrer Zahlungen an   für Dienstleistungen, die aufgrund der Insolvenz von   nicht erbracht wurden. Beachten Sie bitte, dass dies im Fall einer Insolvenz des betreffenden Leistungserbringers keine Erstattung bewirkt. |
+|   \*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+
+|                                                                                                                                                                                   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   hat eine Insolvenzabsicherung mit   abgeschlossen.\*                                                                                                                            |
+| Die Reisenden können diese Einrichtung oder gegebenenfalls die zuständige Behörde (  ) kontaktieren, wenn ihnen Reiseleistungen aufgrund der Insolvenz von   verweigert werden.\* |
+| Hinweis: Diese Insolvenzabsicherung gilt nicht für Verträge mit anderen Parteien als  , die trotz der Insolvenz des Unternehmens   erfüllt werden können.\*                       |
+|   \*                                                                                                                                                                              |
+
+**Gestaltungshinweise:**
+
+  
+Hier ist entweder „unser Unternehmen“ oder „das Unternehmen (einsetzen: Firma/Name des Vermittlers verbundener Reiseleistungen)“ einzufügen.
+
+  
+Hier ist die Firma/der Name des Vermittlers verbundener Reiseleistungen einzufügen.
+
+  
+Hier ist die mit den Wörtern „Weiterführende Informationen zum Insolvenzschutz“ beschriftete Hyperlink-Schaltfläche einzufügen, nach deren Betätigung die Informationen im zweiten Kasten zur Verfügung gestellt werden.
+
+  
+Hier ist einzufügen:
+
+a)  
+wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des Bürgerlichen Gesetzbuchs vorliegt: Name der Einrichtung, die den Insolvenzschutz bietet,
+
+b)  
+in allen anderen Fällen: Name des Kundengeldabsicherers (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs).
+
+  
+Hier sind einzufügen:
+
+a)  
+wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des Bürgerlichen Gesetzbuchs vorliegt: Kontaktdaten der Einrichtung, die den Insolvenzschutz bietet, und gegebenenfalls Name und Kontaktdaten der zuständigen Behörde, jeweils einschließlich der Anschrift des Ortes, an dem sie ihren Sitz hat, der E-Mail-Adresse und der Telefonnummer,
+
+b)  
+in allen anderen Fällen: Kontaktdaten des Kundengeldabsicherers (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs) einschließlich der Anschrift des Ortes, an dem er niedergelassen ist, der E-Mail-Adresse und der Telefonnummer.
+
+  
+Hier ist die mit den Wörtern „Richtlinie (EU) 2015/2302 in der in das nationale Recht umgesetzten Form“ beschriftete Hyperlink-Schaltfläche einzufügen, nach deren Betätigung eine Weiterleitung auf die Webseite www.umsetzung-richtlinie-eu2015-2302.de erfolgt.
+
+Besteht gemäß § 651w Absatz 3 des Bürgerlichen Gesetzbuchs keine Verpflichtung des Vermittlers verbundener Reiseleistungen zur Insolvenzsicherung, weil er Zahlungen des Reisenden auf Vergütungen für Reiseleistungen nicht oder erst nach deren Erbringung annimmt, entfallen diese Absätze. Gleiches gilt, soweit solche Zahlungen aufgrund einer vom Leistungserbringer erteilten Inkassovollmacht des Vermittlers verbundener Reiseleistungen auf einem insolvenzfesten Treuhandkonto gutgeschrieben werden.
+
+-
+-
+
+### Anlage 18 (zu Artikel 252 Absatz 1)Muster für den Sicherungsschein
+
+(Fundstelle: BGBl. I 2017, 2420)
+
+<table>
+<tbody>
+<tr class="odd">
+<td>(gegebenenfalls einsetzen Sicherungsscheinnummer)</td>
+</tr>
+<tr class="even">
+<td><strong>Sicherungsschein für</strong><br />
+<strong>  Pauschalreisen</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>gemäß   § 651r des Bürgerlichen Gesetzbuchs</strong></td>
+</tr>
+<tr class="even">
+<td>               für ..........               </td>
+</tr>
+<tr class="odd">
+<td>(einsetzen: Namen des Reisenden, die Wörter „den umseitig bezeichneten Reisenden“ oder die Buchungsnummer) </td>
+</tr>
+<tr class="even">
+<td>(gegebenenfalls einsetzen: Geltungsdauer des Sicherungsscheins) </td>
+</tr>
+<tr class="odd">
+<td>Dem Reisenden steht im Fall der Insolvenz   gegenüber dem unten angegebenen Kundengeldabsicherer unter den gesetzlichen Voraussetzungen ein unmittelbarer Anspruch im Sinne des § 651r Absatz 4 des Bürgerlichen Gesetzbuchs zu.</td>
+</tr>
+<tr class="even">
+<td>Die Haftung des Kundengeldabsicherers ist begrenzt. Er haftet für alle durch ihn in einem Geschäftsjahr insgesamt zu erstattenden Beträge nur bis zu einem Betrag von 110 Mio. Euro. Sollte diese Summe nicht für alle Reisenden ausreichen, so verringert sich der Erstattungsbetrag in dem Verhältnis, in dem ihr Gesamtbetrag zum Höchstbetrag steht. </td>
+</tr>
+<tr class="odd">
+<td>Bei Rückfragen wenden Sie sich an: (mindestens einsetzen: Namen, Anschrift und Telefonnummer der anzusprechenden Stelle; falls diese nicht für die Schadensabwicklung zuständig ist, auch Namen, Anschrift und Telefonnummer der dafür zuständigen Stelle).</td>
+</tr>
+<tr class="even">
+<td>(einsetzen: Namen, ladungsfähige Anschrift des Kundengeldabsicherers)</td>
+</tr>
+<tr class="odd">
+<td>Kundengeldabsicherer</td>
+</tr>
+</tbody>
+</table>
+
+**Gestaltungshinweise:**
+
+  
+Hier ist bei einer Vermittlung verbundener Reiseleistungen (§ 651w des Bürgerlichen Gesetzbuchs) anstelle des nachfolgenden Wortes „Pauschalreisen“ Folgendes einzufügen: „verbundene Reiseleistungen“.
+
+  
+Hier ist bei einer Vermittlung verbundener Reiseleistungen (§ 651w des Bürgerlichen Gesetzbuchs) anstelle der nachfolgenden Angabe „§ 651r“ Folgendes einzufügen: „den §§ 651r und 651w“.
+
+  
+Diese Angaben können entfallen. In diesem Falle ist folgender Satz einzufügen: „Dieser Sicherungsschein gilt für den Buchenden und alle Reiseteilnehmer. “
+
+  
+Falls der Sicherungsschein befristet ist, muss die Frist mindestens den Zeitraum vom Vertragsschluss bis zur Beendigung der Reise umfassen.
+
+  
+Hier ist einzufügen:
+
+a)  
+wenn ein Pauschalreisevertrag vorliegt: entweder die Wörter „des umseitig bezeichneten Reiseveranstalters“ oder „der“/„des“ und sodann Firma/Name und Anschrift des Reiseveranstalters,
+
+b)  
+wenn eine Vermittlung verbundener Reiseleistungen (§ 651w des Bürgerlichen Gesetzbuchs) vorliegt: „der“/„des“ und sodann Firma/Name und Anschrift des Vermittlers verbundener Reiseleistungen.
+
+  
+Dieser Absatz entfällt bei Kundengeldabsicherungen, bei denen die Haftungsbeschränkung nach § 651r Absatz 3 des Bürgerlichen Gesetzbuchs nicht vereinbart wird.
