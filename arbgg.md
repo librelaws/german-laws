@@ -2,10 +2,10 @@ Arbeitsgerichtsgesetz ()
 ========================
 
 Neuf  
-Neugefasst durch Bek. v. 2.7.1979 I 853, 1036;
+Neugefasst durch Bek. v. 2.7.1979 I 853, 1036
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 10.10.2013 I 3786
+Zuletzt geändert durch Art. 170 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -133,7 +133,13 @@ Angelegenheiten aus dem SCE-Beteiligungsgesetz vom 14. August 2006 (BGBl. I S. 1
 Angelegenheiten aus dem Gesetz über die Mitbestimmung der Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung vom 21. Dezember 2006 (BGBl. I S. 3332) mit Ausnahme der §§ 34 und 35 und nach den §§ 23 bis 28 nur insoweit, als über die Wahl von Vertretern der Arbeitnehmer in das Aufsichts- oder Verwaltungsorgan sowie deren Abberufung mit Ausnahme der Abberufung nach § 103 Abs. 3 des Aktiengesetzes zu entscheiden ist;
 
 4.  
-die Entscheidung über die Tariffähigkeit und die Tarifzuständigkeit einer Vereinigung.
+die Entscheidung über die Tariffähigkeit und die Tarifzuständigkeit einer Vereinigung;
+
+5.  
+die Entscheidung über die Wirksamkeit einer Allgemeinverbindlicherklärung nach § 5 des Tarifvertragsgesetzes, einer Rechtsverordnung nach § 7 oder § 7a des Arbeitnehmer-Entsendegesetzes und einer Rechtsverordnung nach § 3a des Arbeitnehmerüberlassungsgesetzes;
+
+6.  
+die Entscheidung über den nach § 4a Absatz 2 Satz 2 des Tarifvertragsgesetzes im Betrieb anwendbaren Tarifvertrag.
 
 (2) In Streitigkeiten nach diesen Vorschriften findet das Beschlußverfahren statt.
 
@@ -151,7 +157,7 @@ In den Fällen des § 2 Abs. 1 und 2 kann die Arbeitsgerichtsbarkeit nach Maßga
 
 (2) Beamte sind als solche keine Arbeitnehmer.
 
-(3) Handelsvertreter gelten nur dann als Arbeitnehmer im Sinne dieses Gesetzes, wenn sie zu dem Personenkreis gehören, für den nach § 92a des Handelsgesetzbuchs die untere Grenze der vertraglichen Leistungen des Unternehmers festgesetzt werden kann, und wenn sie während der letzten sechs Monate des Vertragsverhältnisses, bei kürzerer Vertragsdauer während dieser, im Durchschnitt monatlich nicht mehr als 1.000 Euro auf Grund des Vertragsverhältnisses an Vergütung einschließlich Provision und Ersatz für im regelmäßigen Geschäftsbetrieb entstandene Aufwendungen bezogen haben. Das Bundesministerium für Arbeit und Soziales und das Bundesministerium der Justiz können im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie die in Satz 1 bestimmte Vergütungsgrenze durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, den jeweiligen Lohn- und Preisverhältnissen anpassen.
+(3) Handelsvertreter gelten nur dann als Arbeitnehmer im Sinne dieses Gesetzes, wenn sie zu dem Personenkreis gehören, für den nach § 92a des Handelsgesetzbuchs die untere Grenze der vertraglichen Leistungen des Unternehmers festgesetzt werden kann, und wenn sie während der letzten sechs Monate des Vertragsverhältnisses, bei kürzerer Vertragsdauer während dieser, im Durchschnitt monatlich nicht mehr als 1.000 Euro auf Grund des Vertragsverhältnisses an Vergütung einschließlich Provision und Ersatz für im regelmäßigen Geschäftsbetrieb entstandene Aufwendungen bezogen haben. Das Bundesministerium für Arbeit und Soziales und das Bundesministerium der Justiz und für Verbraucherschutz können im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie die in Satz 1 bestimmte Vergütungsgrenze durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, den jeweiligen Lohn- und Preisverhältnissen anpassen.
 
 ### § 6 Besetzung der Gerichte für Arbeitssachen
 
@@ -180,13 +186,13 @@ Den Vorsitz in den Kammern der Arbeitsgerichte führen die Berufsrichter.
 
 ### § 7 Geschäftsstelle, Aufbringung der Mittel
 
-(1) Bei jedem Gericht für Arbeitssachen wird eine Geschäftsstelle eingerichtet, die mit der erforderlichen Zahl von Urkundsbeamten besetzt wird. Die Einrichtung der Geschäftsstelle bestimmt bei dem Bundesarbeitsgericht das Bundesministerium für Arbeit und Soziales im Benehmen mit dem Bundesministerium der Justiz. Die Einrichtung der Geschäftsstelle bestimmt bei den Arbeitsgerichten und Landesarbeitsgerichten die zuständige oberste Landesbehörde.
+(1) Bei jedem Gericht für Arbeitssachen wird eine Geschäftsstelle eingerichtet, die mit der erforderlichen Zahl von Urkundsbeamten besetzt wird. Die Einrichtung der Geschäftsstelle bestimmt bei dem Bundesarbeitsgericht das Bundesministerium für Arbeit und Soziales im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz. Die Einrichtung der Geschäftsstelle bestimmt bei den Arbeitsgerichten und Landesarbeitsgerichten die zuständige oberste Landesbehörde.
 
 (2) Die Kosten der Arbeitsgerichte und der Landesarbeitsgerichte trägt das Land, das sie errichtet. Die Kosten des Bundesarbeitsgerichts trägt der Bund.
 
 ### § 8 Gang des Verfahrens
 
-(1) Im ersten Rechtszug sind die Arbeitsgerichte zuständig.
+(1) Im ersten Rechtszug sind die Arbeitsgerichte zuständig, soweit durch Gesetz nichts anderes bestimmt ist.
 
 (2) Gegen die Urteile der Arbeitsgerichte findet die Berufung an die Landesarbeitsgerichte nach Maßgabe des § 64 Abs. 1 statt.
 
@@ -210,7 +216,7 @@ Den Vorsitz in den Kammern der Arbeitsgerichte führen die Berufsrichter.
 
 ### § 10 Parteifähigkeit
 
-Parteifähig im arbeitsgerichtlichen Verfahren sind auch Gewerkschaften und Vereinigungen von Arbeitgebern sowie Zusammenschlüsse solcher Verbände; in den Fällen des § 2a Abs. 1 Nr. 1 bis 3f sind auch die nach dem Betriebsverfassungsgesetz, dem Sprecherausschussgesetz, dem Mitbestimmungsgesetz, dem Mitbestimmungsergänzungsgesetz, dem Drittelbeteiligungsgesetz, dem § 139 des Neunten Buches Sozialgesetzbuch, dem § 51 des Berufsbildungsgesetzes und den zu diesen Gesetzen ergangenen Rechtsverordnungen sowie die nach dem Gesetz über Europäische Betriebsräte, dem SE-Beteiligungsgesetz, dem SCE-Beteiligungsgesetz und dem Gesetz über die Mitbestimmung der Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung beteiligten Personen und Stellen Beteiligte. Parteifähig im arbeitsgerichtlichen Verfahren sind in den Fällen des § 2a Abs. 1 Nr. 4 auch die beteiligten Vereinigungen von Arbeitnehmern und Arbeitgebern sowie die oberste Arbeitsbehörde des Bundes oder derjenigen Länder, auf deren Bereich sich die Tätigkeit der Vereinigung erstreckt.
+Parteifähig im arbeitsgerichtlichen Verfahren sind auch Gewerkschaften und Vereinigungen von Arbeitgebern sowie Zusammenschlüsse solcher Verbände; in den Fällen des § 2a Abs. 1 Nr. 1 bis 3f sind auch die nach dem Betriebsverfassungsgesetz, dem Sprecherausschussgesetz, dem Mitbestimmungsgesetz, dem Mitbestimmungsergänzungsgesetz, dem Drittelbeteiligungsgesetz, dem § 139 des Neunten Buches Sozialgesetzbuch, dem § 51 des Berufsbildungsgesetzes und den zu diesen Gesetzen ergangenen Rechtsverordnungen sowie die nach dem Gesetz über Europäische Betriebsräte, dem SE-Beteiligungsgesetz, dem SCE-Beteiligungsgesetz und dem Gesetz über die Mitbestimmung der Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung beteiligten Personen und Stellen Beteiligte. Parteifähig im arbeitsgerichtlichen Verfahren sind in den Fällen des § 2a Abs. 1 Nr. 4 auch die beteiligten Vereinigungen von Arbeitnehmern und Arbeitgebern sowie die oberste Arbeitsbehörde des Bundes oder derjenigen Länder, auf deren Bereich sich die Tätigkeit der Vereinigung erstreckt. Parteifähig im arbeitsgerichtlichen Verfahren sind in den Fällen des § 2a Absatz 1 Nummer 5 auch die oberste Arbeitsbehörde des Bundes oder die oberste Arbeitsbehörde eines Landes, soweit ihr nach § 5 Absatz 6 des Tarifvertragsgesetzes Rechte übertragen sind.
 
 ### § 11 Prozessvertretung
 
@@ -513,7 +519,7 @@ Dritter Abschnitt Bundesarbeitsgericht
 
 (1a) (weggefallen)
 
-(2) Die Geschäfte der Verwaltung und Dienstaufsicht führt das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der Justiz. Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen mit dem Bundesministerium der Justiz Geschäfte der Verwaltung und Dienstaufsicht auf den Präsidenten des Bundesarbeitsgerichts übertragen.
+(2) Die Geschäfte der Verwaltung und Dienstaufsicht führt das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz. Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz Geschäfte der Verwaltung und Dienstaufsicht auf den Präsidenten des Bundesarbeitsgerichts übertragen.
 
 ### § 41 Zusammensetzung, Senate
 
@@ -521,11 +527,11 @@ Dritter Abschnitt Bundesarbeitsgericht
 
 (2) Jeder Senat wird in der Besetzung mit einem Vorsitzenden, zwei berufsrichterlichen Beisitzern und je einem ehrenamtlichen Richter aus den Kreisen der Arbeitnehmer und der Arbeitgeber tätig.
 
-(3) Die Zahl der Senate bestimmt das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der Justiz.
+(3) Die Zahl der Senate bestimmt das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz.
 
 ### § 42 Bundesrichter
 
-(1) Für die Berufung der Bundesrichter (Präsident, Vorsitzende Richter und berufsrichterliche Beisitzer nach § 41 Abs. 1 Satz 1) gelten die Vorschriften des Richterwahlgesetzes. Zuständiges Ministerium im Sinne des § 1 Abs. 1 des Richterwahlgesetzes ist das Bundesministerium für Arbeit und Soziales; es entscheidet im Benehmen mit dem Bundesministerium der Justiz.
+(1) Für die Berufung der Bundesrichter (Präsident, Vorsitzende Richter und berufsrichterliche Beisitzer nach § 41 Abs. 1 Satz 1) gelten die Vorschriften des Richterwahlgesetzes. Zuständiges Ministerium im Sinne des § 1 Abs. 1 des Richterwahlgesetzes ist das Bundesministerium für Arbeit und Soziales; es entscheidet im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz.
 
 (2) Die zu berufenden Personen müssen das fünfunddreißigste Lebensjahr vollendet haben.
 
@@ -809,6 +815,8 @@ Von diesen Maßnahmen sind die Parteien zu benachrichtigen.
 
 (2) Zeugen und Sachverständige werden nur beeidigt, wenn die Kammer dies im Hinblick auf die Bedeutung des Zeugnisses für die Entscheidung des Rechtsstreits für notwendig erachtet. Im Falle des § 377 Abs. 3 der Zivilprozeßordnung ist die eidesstattliche Versicherung nur erforderlich, wenn die Kammer sie aus dem gleichen Grund für notwendig hält.
 
+(3) Insbesondere über die Zahl der in einem Arbeitsverhältnis stehenden Mitglieder oder das Vertretensein einer Gewerkschaft in einem Betrieb kann Beweis auch durch die Vorlegung öffentlicher Urkunden angetreten werden.
+
 ### § 59 Versäumnisverfahren
 
 Gegen ein Versäumnisurteil kann eine Partei, gegen die das Urteil ergangen ist, binnen einer Notfrist von einer Woche nach seiner Zustellung Einspruch einlegen. Der Einspruch wird beim Arbeitsgericht schriftlich oder durch Abgabe einer Erklärung zur Niederschrift der Geschäftsstelle eingelegt. Hierauf ist die Partei zugleich mit der Zustellung des Urteils schriftlich hinzuweisen. § 345 der Zivilprozeßordnung bleibt unberührt.
@@ -857,7 +865,7 @@ Gegen ein Versäumnisurteil kann eine Partei, gegen die das Urteil ergangen ist,
 
 (1) Urteile der Arbeitsgerichte, gegen die Einspruch oder Berufung zulässig ist, sind vorläufig vollstreckbar. Macht der Beklagte glaubhaft, daß die Vollstreckung ihm einen nicht zu ersetzenden Nachteil bringen würde, so hat das Arbeitsgericht auf seinen Antrag die vorläufige Vollstreckbarkeit im Urteil auszuschließen. In den Fällen des § 707 Abs. 1 und des § 719 Abs. 1 der Zivilprozeßordnung kann die Zwangsvollstreckung nur unter derselben Voraussetzung eingestellt werden. Die Einstellung der Zwangsvollstreckung nach Satz 3 erfolgt ohne Sicherheitsleistung. Die Entscheidung ergeht durch unanfechtbaren Beschluss.
 
-(2) Im übrigen finden auf die Zwangsvollstreckung einschließlich des Arrests und der einstweiligen Verfügung die Vorschriften des Achten Buchs der Zivilprozeßordnung Anwendung. Die Entscheidung über den Antrag auf Erlaß einer einstweiligen Verfügung kann in dringenden Fällen, auch dann, wenn der Antrag zurückzuweisen ist, ohne mündliche Verhandlung ergehen.
+(2) Im übrigen finden auf die Zwangsvollstreckung einschließlich des Arrests und der einstweiligen Verfügung die Vorschriften des Achten Buchs der Zivilprozeßordnung Anwendung. Die Entscheidung über den Antrag auf Erlaß einer einstweiligen Verfügung kann in dringenden Fällen, auch dann, wenn der Antrag zurückzuweisen ist, ohne mündliche Verhandlung ergehen. Eine in das Schutzschriftenregister nach § 945a Absatz 1 der Zivilprozessordnung eingestellte Schutzschrift gilt auch als bei allen Arbeitsgerichten der Länder eingereicht.
 
 ### § 63 Übermittlung von Urteilen in Tarifvertragssachen
 
@@ -1188,7 +1196,7 @@ Das Gericht entscheidet nach seiner freien, aus dem Gesamtergebnis des Verfahren
 
 (1) Soweit sich aus Absatz 2 nichts anderes ergibt, findet aus rechtskräftigen Beschlüssen der Arbeitsgerichte oder gerichtlichen Vergleichen, durch die einem Beteiligten eine Verpflichtung auferlegt wird, die Zwangsvollstreckung statt. Beschlüsse der Arbeitsgerichte in vermögensrechtlichen Streitigkeiten sind vorläufig vollstreckbar; § 62 Abs. 1 Satz 2 bis 5 ist entsprechend anzuwenden. Für die Zwangsvollstreckung gelten die Vorschriften des Achten Buches der Zivilprozeßordnung entsprechend mit der Maßgabe, daß der nach dem Beschluß Verpflichtete als Schuldner, derjenige, der die Erfüllung der Verpflichtung auf Grund des Beschlusses verlangen kann, als Gläubiger gilt und in den Fällen des § 23 Abs. 3, des § 98 Abs. 5 sowie der §§ 101 und 104 des Betriebsverfassungsgesetzes eine Festsetzung von Ordnungs- oder Zwangshaft nicht erfolgt.
 
-(2) Der Erlaß einer einstweiligen Verfügung ist zulässig. Für das Verfahren gelten die Vorschriften des Achten Buches der Zivilprozeßordnung über die einstweilige Verfügung entsprechend mit der Maßgabe, daß die Entscheidungen durch Beschluß der Kammer ergehen, erforderliche Zustellungen von Amts wegen erfolgen und ein Anspruch auf Schadensersatz nach § 945 der Zivilprozeßordnung in Angelegenheiten des Betriebsverfassungsgesetzes nicht besteht.
+(2) Der Erlaß einer einstweiligen Verfügung ist zulässig. Für das Verfahren gelten die Vorschriften des Achten Buches der Zivilprozeßordnung über die einstweilige Verfügung entsprechend mit der Maßgabe, daß die Entscheidungen durch Beschluß der Kammer ergehen, erforderliche Zustellungen von Amts wegen erfolgen und ein Anspruch auf Schadensersatz nach § 945 der Zivilprozeßordnung in Angelegenheiten des Betriebsverfassungsgesetzes nicht besteht. Eine in das Schutzschriftenregister nach § 945a Absatz 1 der Zivilprozessordnung eingestellte Schutzschrift gilt auch als bei allen Arbeitsgerichten der Länder eingereicht.
 
 ### § 86
 
@@ -1293,31 +1301,61 @@ Vierter Unterabschnitt Beschlußverfahren in besonderen Fällen
 
 ### 
 
-### § 97 Entscheidung über die Tariffähigkeit und Tarifzuständigkeit einer Vereinigung
+### § 97 Entscheidung über die Tariffähigkeit oder Tarifzuständigkeit einer Vereinigung
 
 (1) In den Fällen des § 2a Abs. 1 Nr. 4 wird das Verfahren auf Antrag einer räumlich und sachlich zuständigen Vereinigung von Arbeitnehmern oder von Arbeitgebern oder der obersten Arbeitsbehörde des Bundes oder der obersten Arbeitsbehörde eines Landes, auf dessen Gebiet sich die Tätigkeit der Vereinigung erstreckt, eingeleitet.
 
-(2) Für das Verfahren sind die §§ 80 bis 84, 87 bis 96a entsprechend anzuwenden.
+(2) Für Verfahren nach § 2a Absatz 1 Nummer 4 ist das Landesarbeitsgericht zuständig, in dessen Bezirk die Vereinigung, über deren Tariffähigkeit oder Tarifzuständigkeit zu entscheiden ist, ihren Sitz hat.
 
-(3) Die Vorschrift des § 63 über die Übersendung von Urteilen gilt entsprechend für die rechtskräftigen Beschlüsse von Gerichten für Arbeitssachen im Verfahren nach § 2a Abs. 1 Nr. 4.
+(2a) Für das Verfahren sind § 80 Absatz 1, 2 Satz 1 und Absatz 3, §§ 81, 83 Absatz 1 und 2 bis 4, §§ 83a, 84 Satz 1 und 2, § 90 Absatz 3, § 91 Absatz 2 und §§ 92 bis 96 entsprechend anzuwenden. Für die Vertretung der Beteiligten gilt § 11 Absatz 4 und 5 entsprechend.
 
-(4) In den Fällen des § 2a Abs. 1 Nr. 4 findet eine Wiederaufnahme des Verfahrens auch dann statt, wenn die Entscheidung über die Tariffähigkeit und Tarifzuständigkeit darauf beruht, daß ein Beteiligter absichtlich unrichtige Angaben oder Aussagen gemacht hat. § 581 der Zivilprozeßordnung findet keine Anwendung.
+(3) Der rechtskräftige Beschluss über die Tariffähigkeit oder Tarifzuständigkeit einer Vereinigung wirkt für und gegen jedermann. Die Vorschrift des § 63 über die Übersendung von Urteilen gilt entsprechend für die rechtskräftigen Beschlüsse von Gerichten für Arbeitssachen im Verfahren nach § 2a Abs. 1 Nr. 4.
+
+(4) In den Fällen des § 2a Abs. 1 Nr. 4 findet eine Wiederaufnahme des Verfahrens auch dann statt, wenn die Entscheidung über die Tariffähigkeit oder Tarifzuständigkeit darauf beruht, daß ein Beteiligter absichtlich unrichtige Angaben oder Aussagen gemacht hat. § 581 der Zivilprozeßordnung findet keine Anwendung.
 
 (5) Hängt die Entscheidung eines Rechtsstreits davon ab, ob eine Vereinigung tariffähig oder ob die Tarifzuständigkeit der Vereinigung gegeben ist, so hat das Gericht das Verfahren bis zur Erledigung des Beschlußverfahrens nach § 2a Abs. 1 Nr. 4 auszusetzen. Im Falle des Satzes 1 sind die Parteien des Rechtsstreits auch im Beschlußverfahren nach § 2a Abs. 1 Nr. 4 antragsberechtigt.
 
-### § 98 Entscheidung über die Besetzung der Einigungsstelle
+### § 98 Entscheidung über die Wirksamkeit einer Allgemeinverbindlicherklärung oder einer Rechtsverordnung
 
-(1) In den Fällen des § 76 Abs. 2 Satz 2 und 3 des Betriebsverfassungsgesetzes entscheidet der Vorsitzende allein. Wegen fehlender Zuständigkeit der Einigungsstelle können die Anträge nur zurückgewiesen werden, wenn die Einigungsstelle offensichtlich unzuständig ist. Für das Verfahren gelten die §§ 80 bis 84 entsprechend. Die Einlassungs- und Ladungsfristen betragen 48 Stunden. Ein Richter darf nur dann zum Vorsitzenden der Einigungsstelle bestellt werden, wenn aufgrund der Geschäftsverteilung ausgeschlossen ist, dass er mit der Überprüfung, der Auslegung oder der Anwendung des Spruchs der Einigungsstelle befasst wird. Der Beschluss des Vorsitzenden soll den Beteiligten innerhalb von zwei Wochen nach Eingang des Antrags zugestellt werden; er ist den Beteiligten spätestens innerhalb von vier Wochen nach diesem Zeitpunkt zuzustellen.
+(1) In den Fällen des § 2a Absatz 1 Nummer 5 wird das Verfahren eingeleitet auf Antrag
 
-(2) Gegen die Entscheidungen des Vorsitzenden findet die Beschwerde an das Landesarbeitsgericht statt. Die Beschwerde ist innerhalb einer Frist von zwei Wochen einzulegen und zu begründen. Für das Verfahren gelten § 87 Abs. 2 und 3 und die §§ 88 bis 90 Abs. 1 und 2 sowie § 91 Abs. 1 und 2 entsprechend mit der Maßgabe, dass an die Stelle der Kammer des Landesarbeitsgericht der Vorsitzende tritt. Gegen dessen Entscheidungen findet kein Rechtsmittel statt.
+1.  
+jeder natürlichen oder juristischen Person oder
 
-### § 99
+2.  
+einer Gewerkschaft oder einer Vereinigung von Arbeitgebern,
 
-(weggefallen)
+die nach Bekanntmachung der Allgemeinverbindlicherklärung oder der Rechtsverordnung geltend macht, durch die Allgemeinverbindlicherklärung oder die Rechtsverordnung oder deren Anwendung in ihren Rechten verletzt zu sein oder in absehbarer Zeit verletzt zu werden.
+
+(2) Für Verfahren nach § 2a Absatz 1 Nummer 5 ist das Landesarbeitsgericht zuständig, in dessen Bezirk die Behörde ihren Sitz hat, die den Tarifvertrag für allgemeinverbindlich erklärt hat oder die Rechtsverordnung erlassen hat.
+
+(3) Für das Verfahren sind § 80 Absatz 1, 2 Satz 1 und Absatz 3, §§ 81, 83 Absatz 1 und 2 bis 4, §§ 83a, 84 Satz 1 und 2, § 90 Absatz 3, § 91 Absatz 2 und §§ 92 bis 96 entsprechend anzuwenden. Für die Vertretung der Beteiligten gilt § 11 Absatz 4 und 5 entsprechend. In dem Verfahren ist die Behörde, die den Tarifvertrag für allgemeinverbindlich erklärt hat oder die Rechtsverordnung erlassen hat, Beteiligte.
+
+(4) Der rechtskräftige Beschluss über die Wirksamkeit einer Allgemeinverbindlicherklärung oder einer Rechtsverordnung wirkt für und gegen jedermann. Rechtskräftige Beschlüsse von Gerichten für Arbeitssachen im Verfahren nach § 2a Absatz 1 Nummer 5 sind alsbald der obersten Arbeitsbehörde des Bundes in vollständiger Form abschriftlich zu übersenden oder elektronisch zu übermitteln. Soweit eine Allgemeinverbindlicherklärung oder eine Rechtsverordnung rechtskräftig als wirksam oder unwirksam festgestellt wird, ist die Entscheidungsformel durch die oberste Arbeitsbehörde des Bundes im Bundesanzeiger bekannt zu machen.
+
+(5) In den Fällen des § 2a Absatz 1 Nummer 5 findet eine Wiederaufnahme des Verfahrens auch dann statt, wenn die Entscheidung über die Wirksamkeit einer Allgemeinverbindlicherklärung oder einer Rechtsverordnung darauf beruht, dass ein Beteiligter absichtlich unrichtige Angaben oder Aussagen gemacht hat. § 581 der Zivilprozessordnung findet keine Anwendung.
+
+(6) Hängt die Entscheidung eines Rechtsstreits davon ab, ob eine Allgemeinverbindlicherklärung oder eine Rechtsverordnung wirksam ist, so hat das Gericht das Verfahren bis zur Erledigung des Beschlussverfahrens nach § 2a Absatz 1 Nummer 5 auszusetzen. Im Falle des Satzes 1 sind die Parteien des Rechtsstreits auch im Beschlussverfahren nach § 2a Absatz 1 Nummer 5 antragsberechtigt.
+
+### § 99 Entscheidung über den nach § 4a Absatz 2 Satz 2 des Tarifvertragsgesetzes im Betrieb anwendbaren Tarifvertrag
+
+(1) In den Fällen des § 2a Absatz 1 Nummer 6 wird das Verfahren auf Antrag einer Tarifvertragspartei eines kollidierenden Tarifvertrags eingeleitet.
+
+(2) Für das Verfahren sind die §§ 80 bis 82 Absatz 1 Satz 1, die §§ 83 bis 84 und 87 bis 96a entsprechend anzuwenden.
+
+(3) Der rechtskräftige Beschluss über den nach § 4a Absatz 2 Satz 2 des Tarifvertragsgesetzes im Betrieb anwendbaren Tarifvertrag wirkt für und gegen jedermann.
+
+(4) In den Fällen des § 2a Absatz 1 Nummer 6 findet eine Wiederaufnahme des Verfahrens auch dann statt, wenn die Entscheidung über den nach § 4a Absatz 2 Satz 2 des Tarifvertragsgesetzes im Betrieb anwendbaren Tarifvertrag darauf beruht, dass ein Beteiligter absichtlich unrichtige Angaben oder Aussagen gemacht hat. § 581 der Zivilprozessordnung findet keine Anwendung.
 
 ### § 100
 
 (weggefallen)
+
+### § 100 Entscheidung über die Besetzung der Einigungsstelle
+
+(1) In den Fällen des § 76 Abs. 2 Satz 2 und 3 des Betriebsverfassungsgesetzes entscheidet der Vorsitzende allein. Wegen fehlender Zuständigkeit der Einigungsstelle können die Anträge nur zurückgewiesen werden, wenn die Einigungsstelle offensichtlich unzuständig ist. Für das Verfahren gelten die §§ 80 bis 84 entsprechend. Die Einlassungs- und Ladungsfristen betragen 48 Stunden. Ein Richter darf nur dann zum Vorsitzenden der Einigungsstelle bestellt werden, wenn aufgrund der Geschäftsverteilung ausgeschlossen ist, dass er mit der Überprüfung, der Auslegung oder der Anwendung des Spruchs der Einigungsstelle befasst wird. Der Beschluss des Vorsitzenden soll den Beteiligten innerhalb von zwei Wochen nach Eingang des Antrags zugestellt werden; er ist den Beteiligten spätestens innerhalb von vier Wochen nach diesem Zeitpunkt zuzustellen.
+
+(2) Gegen die Entscheidungen des Vorsitzenden findet die Beschwerde an das Landesarbeitsgericht statt. Die Beschwerde ist innerhalb einer Frist von zwei Wochen einzulegen und zu begründen. Für das Verfahren gelten § 87 Abs. 2 und 3 und die §§ 88 bis 90 Abs. 1 und 2 sowie § 91 Abs. 1 und 2 entsprechend mit der Maßgabe, dass an die Stelle der Kammer des Landesarbeitsgericht der Vorsitzende tritt. Gegen dessen Entscheidungen findet kein Rechtsmittel statt.
 
 Vierter Teil Schiedsvertrag in Arbeitsstreitigkeiten
 ----------------------------------------------------
@@ -1430,9 +1468,9 @@ Fünfter Teil Übergangs- und Schlußvorschriften
 
 (2) Zur Beilegung von Streitigkeiten zwischen Ausbildenden und Auszubildenden aus einem bestehenden Berufsausbildungsverhältnis können im Bereich des Handwerks die Handwerksinnungen, im übrigen die zuständigen Stellen im Sinne des Berufsbildungsgesetzes Ausschüsse bilden, denen Arbeitgeber und Arbeitnehmer in gleicher Zahl angehören müssen. Der Ausschuß hat die Parteien mündlich zu hören. Wird der von ihm gefällte Spruch nicht innerhalb einer Woche von beiden Parteien anerkannt, so kann binnen zwei Wochen nach ergangenem Spruch Klage beim zuständigen Arbeitsgericht erhoben werden. § 9 Abs. 5 gilt entsprechend. Der Klage muß in allen Fällen die Verhandlung vor dem Ausschuß vorangegangen sein. Aus Vergleichen, die vor dem Ausschuß geschlossen sind, und aus Sprüchen des Ausschusses, die von beiden Seiten anerkannt sind, findet die Zwangsvollstreckung statt. Die §§ 107 und 109 gelten entsprechend.
 
-### § 112
+### § 112 Übergangsregelung
 
-(weggefallen)
+Für Beschlussverfahren nach § 2a Absatz 1 Nummer 4, die bis zum Ablauf des 15. August 2014 anhängig gemacht worden sind, gilt § 97 in der an diesem Tag geltenden Fassung bis zum Abschluss des Verfahrens durch einen rechtskräftigen Beschluss fort.
 
 ### § 113
 
