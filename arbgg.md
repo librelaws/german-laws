@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 2.7.1979 I 853, 1036
 
 Stand  
-Zuletzt geändert durch Art. 170 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 19 Abs. 6 G v. 23.12.2016 I 3234
 
 ### 
 
@@ -1082,7 +1082,7 @@ Das Bundesarbeitsgericht ist an die Zulassung gebunden. Die Ablehnung der Zulass
 
 ### § 77 Revisionsbeschwerde
 
-Gegen den Beschluss des Landesarbeitsgerichts, der die Berufung als unzulässig verwirft, findet die Rechtsbeschwerde nur statt, wenn das Landesarbeitsgericht sie in dem Beschluss zugelassen hat. Für die Zulassung der Rechtsbeschwerde gilt § 72 Abs. 2 entsprechend. Über die Rechtsbeschwerde entscheidet das Bundesarbeitsgericht ohne Zuziehung der ehrenamtlichen Richter. Die Vorschriften der Zivilprozessordnung über die Rechtsbeschwerde gelten entsprechend.
+Gegen den Beschluss des Landesarbeitsgerichts, der die Berufung als unzulässig verwirft, findet die Revisionsbeschwerde statt, wenn das Landesarbeitsgericht sie in dem Beschluss oder das Bundesarbeitsgericht sie zugelassen hat. Für die Zulassung der Revisionsbeschwerde gelten § 72 Absatz 2 und § 72a entsprechend. Über die Nichtzulassungsbeschwerde und die Revisionsbeschwerde entscheidet das Bundesarbeitsgericht ohne Hinzuziehung der ehrenamtlichen Richter. Die Vorschriften der Zivilprozessordnung über die Rechtsbeschwerde gelten entsprechend.
 
 Vierter Unterabschnitt Beschwerdeverfahren, Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 ------------------------------------------------------------------------------------------------------
