@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 11.12.1974 I 3427;
 
 Stand  
-zuletzt geändert durch Art. 3 G v. 26.6.2013 I 1805
+zuletzt geändert durch Art. 7 G v. 17.7.2015 I 1332
 
 ### 
 
@@ -1792,7 +1792,7 @@ gegen ihn Untersuchungshaft oder einstweilige Unterbringung gemäß § 126a der 
 
 (2) Der Erziehungsberechtigte und der gesetzliche Vertreter dürfen nicht zum Beistand bestellt werden, wenn hierdurch ein Nachteil für die Erziehung zu erwarten wäre.
 
-(3) Dem Beistand kann Akteneinsicht gewährt werden. Im übrigen hat er in der Hauptverhandlung die Rechte eines Verteidigers.
+(3) Dem Beistand kann Akteneinsicht gewährt werden. Im übrigen hat er in der Hauptverhandlung die Rechte eines Verteidigers. Zu einer Vertretung des Angeklagten ist er nicht befugt.
 
 ### § 70 Mitteilungen
 
