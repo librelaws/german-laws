@@ -5,10 +5,10 @@ Neuf
 Neugefasst durch Bek. v. 24.9.1998 I 3074; 2006, 2095;
 
 Stand  
-zuletzt geändert durch Art. 33 G v. 20.12.2011 I 2854
+zuletzt geändert durch Art. 2 G v. 5.12.2012 I 2415
 
 Hinweis  
-Änderung durch Art. 2 G v. 5.12.2012 I 2415 (Nr. 57) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 19 G v. 25.7.2013 I 2749 (Nr. 43) noch nicht berücksichtigt
 
 ### 
 
@@ -2202,7 +2202,7 @@ Dritter Abschnitt Schlußvorschriften
 
 ### Anlage A Verzeichnis der Gewerbe, die als zulassungspflichtige Handwerke betrieben werden können (§ 1 Abs. 2)
 
-(Fundstelle: BGBl. I 2003, 2945 - 2946; bzgl. einzelner Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2003, 2945 - 2946; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Nr.
 
@@ -2675,8 +2675,8 @@ Text siehe: HwWahlO
 
 ### Anlage D zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung) Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes und in der Lehrlingsrolle
 
-Fundstelle des Originaltextes: BGBl. I 1998, 3110 - 3111;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+(Fundstelle: BGBl. I 1998, 3110 - 3111;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 I.  
 In der Handwerksrolle dürfen folgende Daten gespeichert werden:
@@ -2826,25 +2826,25 @@ e)
 Buchstabe c) Satz 1 findet auf Gewerbetreibende, die ein handwerksähnliches Gewerbe betreiben, entsprechende Anwendung.
 
 f)  
-Die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet bestehenden Organisationen des Handwerks sind bis 31. Dezember 1991 den Bestimmungen der Handwerksordnung entsprechend anzupassen; bis dahin gelten sie als Organisationen im Sinne der Handwerksordnung. Dasselbe gilt für die bestehenden Facharbeiter- und Meisterprüfungskommissionen; bis zum 31. Dezember 1991 gelten sie als Prüfungsausschüsse im Sinne der Handwerksordnung. Die Handwerkskammern haben unverzüglich, spätestens jedoch bis zum 31. Dezember 1991, die Voraussetzungen für die Beteiligung der Gesellen entsprechend den Bestimmungen der Handwerksordnung zu schaffen.
+*Die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages genannten Gebiet bestehenden Organisationen des Handwerks sind bis 31. Dezember 1991 den Bestimmungen der Handwerksordnung entsprechend anzupassen; bis dahin gelten sie als Organisationen im Sinne der Handwerksordnung. Dasselbe gilt für die bestehenden Facharbeiter- und Meisterprüfungskommissionen; bis zum 31. Dezember 1991 gelten sie als Prüfungsausschüsse im Sinne der Handwerksordnung. Die Handwerkskammern haben unverzüglich, spätestens jedoch bis zum 31. Dezember 1991, die Voraussetzungen für die Beteiligung der Gesellen entsprechend den Bestimmungen der Handwerksordnung zu schaffen.*
 
 g)  
-Am Tage des Wirksamwerdens des Beitritts bestehende Lehrverhältnisse werden nach den bisherigen Vorschriften zu Ende geführt, es sei denn, die Parteien des Lehrvertrages vereinbaren die Fortsetzung der Berufsausbildung in einem Handwerk der Anlage A der Handwerksordnung.
+*Am Tage des Wirksamwerdens des Beitritts bestehende Lehrverhältnisse werden nach den bisherigen Vorschriften zu Ende geführt, es sei denn, die Parteien des Lehrvertrages vereinbaren die Fortsetzung der Berufsausbildung in einem Handwerk der Anlage A der Handwerksordnung.*
 
 h)  
-Lehrlinge, die ihre Berufsausbildung nach bisherigem Recht durchlaufen, werden nach den bisherigen Rechtsvorschriften geprüft, soweit nicht der Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften für Verfahren und Zuständigkeit erläßt.
+*Lehrlinge, die ihre Berufsausbildung nach bisherigem Recht durchlaufen, werden nach den bisherigen Rechtsvorschriften geprüft, soweit nicht der Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften für Verfahren und Zuständigkeit erläßt.*
 
 i)  
 Die am Tage des Wirksamwerdens des Beitritts laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.
 
 k)  
-Die Handwerkskammern können bis zum 1. Dezember 1995 Ausnahmen von den nach § 25 der Handwerksordnung erlassenen Rechtsverordnungen zulassen, wenn die gesetzten Anforderungen noch nicht erfüllt werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft kann im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Befugnis nach Satz 1 einschränken oder aufheben.
+*Die Handwerkskammern können bis zum 1. Dezember 1995 Ausnahmen von den nach § 25 der Handwerksordnung erlassenen Rechtsverordnungen zulassen, wenn die gesetzten Anforderungen noch nicht erfüllt werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft kann im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Befugnis nach Satz 1 einschränken oder aufheben.*
 
 l)  
-Die Rechtsverordnungen nach § 27a Abs. 1 und § 40 der Handwerksordnung bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
+*Die Rechtsverordnungen nach § 27a Abs. 1 und § 40 der Handwerksordnung bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.*
 
 m)  
-Der Bundesminister für Wirtschaft bestimmt durch Rechtsverordnung nach § 46 Abs. 3 der Handwerksordnung, welche Prüfungen an Ausbildungseinrichtungen der Nationalen Volksarmee nach Maßgabe des § 3 Abs. 2 der Verordnung über die Anerkennung von Prüfungen bei der Eintragung in die Handwerksrolle und bei der Ablegung der Meisterprüfung im Handwerk vom 2. November 1982 (BGBl. I S. 1475) als Voraussetzung für die Befreiung von Teil II der Meisterprüfung im Handwerk anerkannt werden.
+*Der Bundesminister für Wirtschaft bestimmt durch Rechtsverordnung nach § 46 Abs. 3 der Handwerksordnung, welche Prüfungen an Ausbildungseinrichtungen der Nationalen Volksarmee nach Maßgabe des § 3 Abs. 2 der Verordnung über die Anerkennung von Prüfungen bei der Eintragung in die Handwerksrolle und bei der Ablegung der Meisterprüfung im Handwerk vom 2. November 1982 (BGBl. I S. 1475) als Voraussetzung für die Befreiung von Teil II der Meisterprüfung im Handwerk anerkannt werden.*
 
 n)  
 Der Bundesminister für Wirtschaft kann durch Rechtsverordnung nach § 7 Abs. 2 der Handwerksordnung bestimmen, welche Prüfungen von Meistern der volkseigenen Industrie, die bis zum 31. Dezember 1991 abgelegt worden sind, mit welcher Maßgabe als ausreichende Voraussetzung für die Eintragung in die Handwerksrolle anerkannt werden.
@@ -2854,3 +2854,5 @@ Prüfungszeugnisse nach der Systematik der Ausbildungsberufe sowie der Systemati
 
 2.  
 bis 4. ...
+
+Anhang EV Kap. V Sachgeb. B Abschn. III Nr. 1 Buchst. f bis h, k bis m Kursivdruck: Maßgaben nicht mehr anzuwenden gem. Art. 1 Nr. 4 Buchst. a DBuchst. aa G v. 21.1.2013 I 91 mWv 29.1.2013
