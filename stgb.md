@@ -5,22 +5,22 @@ Neuf
 Neugefasst durch Bek. v. 13.11.1998 I 3322;
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 30.5.2016 I 1254
+zuletzt geändert durch Art. 1 G v. 1.3.2017 I 386
 
 Hinweis  
-Änderung durch Art. 16 Abs. 8 G v. 30.6.2016 I 1514 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 1 G v. 11.4.2017 I 815 (Nr. 20) mWv 19.4.2017 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Hinweis  
-Änderung durch Art. 1 G v. 8.7.2016 I 1610 (Nr. 34) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 1 G v. 13.4.2017 I 872 (Nr. 22) mWv 1.7.2017 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Hinweis  
-Änderung durch Art. 16 G v. 18.7.2016 I 1679 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 1 G v. 23.5.2017 I 1226 (Nr. 30) mWv 30.5.2017 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Hinweis  
-Änderung durch Art. 8 G v. 26.7.2016 I 1818 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 1 G v. 11.6.2017 I 1612 (Nr. 37) mWv 1.7.2017 ist berücksichtigt
 
 Hinweis  
-Änderung durch Art. 1 G v. 11.10.2016 I 2226 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 22 Abs. 5 G v. 23.6.2017 I 1693 (Nr. 39) mWv 3.1.2018 noch nicht berücksichtigt
 
 ### 
 
@@ -265,6 +265,7 @@ Hinweis
 |                      |
 |                      |
 |                      |
+|                      |
 | Vierter Abschnitt    |
 |                      |
 |                      |
@@ -410,6 +411,7 @@ Hinweis
 |                                |
 |                                |
 |                                |
+|                                |
 | Siebenter Abschnitt            |
 |                                |
 |                                |
@@ -498,6 +500,8 @@ Hinweis
 |                                |
 |                                |
 | Dreizehnter Abschnitt          |
+|                                |
+|                                |
 |                                |
 |                                |
 |                                |
@@ -660,6 +664,9 @@ Hinweis
 |                                |
 |                                |
 | Zweiundzwanzigster Abschnitt   |
+|                                |
+|                                |
+|                                |
 |                                |
 |                                |
 |                                |
@@ -861,7 +868,7 @@ Eine Tat kann nur bestraft werden, wenn die Strafbarkeit gesetzlich bestimmt war
 
 (4) Ein Gesetz, das nur für eine bestimmte Zeit gelten soll, ist auf Taten, die während seiner Geltung begangen sind, auch dann anzuwenden, wenn es außer Kraft getreten ist. Dies gilt nicht, soweit ein Gesetz etwas anderes bestimmt.
 
-(5) Für Verfall, Einziehung und Unbrauchbarmachung gelten die Absätze 1 bis 4 entsprechend.
+(5) Für Einziehung und Unbrauchbarmachung gelten die Absätze 1 bis 4 entsprechend.
 
 (6) Über Maßregeln der Besserung und Sicherung ist, wenn gesetzlich nichts anderes bestimmt ist, nach dem Gesetz zu entscheiden, das zur Zeit der Entscheidung gilt.
 
@@ -878,7 +885,7 @@ Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für Taten, die
 Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für folgende Taten, die im Ausland begangen werden:
 
 1.  
-Vorbereitung eines Angriffskrieges (§ 80);
+weggefallen
 
 2.  
 Hochverrat (§§ 81 bis 83);
@@ -920,7 +927,7 @@ in den Fällen des § 237, wenn der Täter zur Zeit der Tat Deutscher ist oder w
 Verletzung von Betriebs- oder Geschäftsgeheimnissen eines im räumlichen Geltungsbereich dieses Gesetzes liegenden Betriebs, eines Unternehmens, das dort seinen Sitz hat, oder eines Unternehmens mit Sitz im Ausland, das von einem Unternehmen mit Sitz im räumlichen Geltungsbereich dieses Gesetzes abhängig ist und mit diesem einen Konzern bildet;
 
 8.  
-Straftaten gegen die sexuelle Selbstbestimmung in den Fällen des § 174 Absatz 1, 2 und 4, der §§ 176 bis 179 und des § 182, wenn der Täter zur Zeit der Tat Deutscher ist;
+Straftaten gegen die sexuelle Selbstbestimmung in den Fällen des § 174 Absatz 1, 2 und 4, der §§ 176 bis 178 und des § 182, wenn der Täter zur Zeit der Tat Deutscher ist;
 
 9.  
 Straftaten gegen das Leben
@@ -942,6 +949,9 @@ in den Fällen des § 226a, wenn der Täter zur Zeit der Tat Deutscher ist oder 
 
 10.  
 falsche uneidliche Aussage, Meineid und falsche Versicherung an Eides Statt (§§ 153 bis 156) in einem Verfahren, das im räumlichen Geltungsbereich dieses Gesetzes bei einem Gericht oder einer anderen deutschen Stelle anhängig ist, die zur Abnahme von Eiden oder eidesstattlichen Versicherungen zuständig ist;
+
+10a.  
+Sportwettbetrug und Manipulation von berufssportlichen Wettbewerben (§§ 265c und 265d), wenn sich die Tat auf einen Wettbewerb bezieht, der im Inland stattfindet;
 
 11.  
 Straftaten gegen die Umwelt in den Fällen der §§ 324, 326, 330 und 330a, die im Bereich der deutschen ausschließlichen Wirtschaftszone begangen werden, soweit völkerrechtliche Übereinkommen zum Schutze des Meeres ihre Verfolgung als Straftaten gestatten;
@@ -1108,7 +1118,7 @@ Unternehmen einer Tat:deren Versuch und deren Vollendung;
 Behörde:auch ein Gericht;
 
 8.  
-Maßnahme:jede Maßregel der Besserung und Sicherung, der Verfall, die Einziehung und die Unbrauchbarmachung;
+Maßnahme:jede Maßregel der Besserung und Sicherung, die Einziehung und die Unbrauchbarmachung;
 
 9.  
 Entgelt:jede in einem Vermögensvorteil bestehende Gegenleistung.
@@ -1355,7 +1365,7 @@ Geldstrafe
 
 ### § 41 Geldstrafe neben Freiheitsstrafe
 
-Hat der Täter sich durch die Tat bereichert oder zu bereichern versucht, so kann neben einer Freiheitsstrafe eine sonst nicht oder nur wahlweise angedrohte Geldstrafe verhängt werden, wenn dies auch unter Berücksichtigung der persönlichen und wirtschaftlichen Verhältnisse des Täters angebracht ist. Dies gilt nicht, wenn das Gericht nach § 43a eine Vermögensstrafe verhängt.
+Hat der Täter sich durch die Tat bereichert oder zu bereichern versucht, so kann neben einer Freiheitsstrafe eine sonst nicht oder nur wahlweise angedrohte Geldstrafe verhängt werden, wenn dies auch unter Berücksichtigung der persönlichen und wirtschaftlichen Verhältnisse des Täters angebracht ist.
 
 ### § 42 Zahlungserleichterungen
 
@@ -1365,18 +1375,12 @@ Ist dem Verurteilten nach seinen persönlichen oder wirtschaftlichen Verhältnis
 
 An die Stelle einer uneinbringlichen Geldstrafe tritt Freiheitsstrafe. Einem Tagessatz entspricht ein Tag Freiheitsstrafe. Das Mindestmaß der Ersatzfreiheitsstrafe ist ein Tag.
 
-Vermögensstrafe
----------------
+(weggefallen)
+-------------
 
 ### 
 
-### § 43a Verhängung der Vermögensstrafe
-
-(1) Verweist das Gesetz auf diese Vorschrift, so kann das Gericht neben einer lebenslangen oder einer zeitigen Freiheitsstrafe von mehr als zwei Jahren auf Zahlung eines Geldbetrages erkennen, dessen Höhe durch den Wert des Vermögens des Täters begrenzt ist (Vermögensstrafe). Vermögensvorteile, deren Verfall angeordnet wird, bleiben bei der Bewertung des Vermögens außer Ansatz. Der Wert des Vermögens kann geschätzt werden.
-
-(2) § 42 gilt entsprechend.
-
-(3) Das Gericht bestimmt eine Freiheitsstrafe, die im Fall der Uneinbringlichkeit an die Stelle der Vermögensstrafe tritt (Ersatzfreiheitsstrafe). Das Höchstmaß der Ersatzfreiheitsstrafe ist zwei Jahre, ihr Mindestmaß ein Monat.
+### § 43a (weggefallen)
 
 § 43a: Gem. BVerfGE v. 20.3.2002 I 1340 (2 BvR 794/95) mit GG (100-1) Art. 103 Abs. 2 unvereinbar und nichtig
 
@@ -1534,7 +1538,7 @@ Dritter Titel Strafbemessung bei mehreren Gesetzesverletzungen
 
 (3) Geldstrafe kann das Gericht unter den Voraussetzungen des § 41 neben Freiheitsstrafe gesondert verhängen.
 
-(4) Läßt eines der anwendbaren Gesetze die Vermögensstrafe zu, so kann das Gericht auf sie neben einer lebenslangen oder einer zeitigen Freiheitsstrafe von mehr als zwei Jahren gesondert erkennen. Im übrigen muß oder kann auf Nebenstrafen, Nebenfolgen und Maßnahmen (§ 11 Abs. 1 Nr. 8) erkannt werden, wenn eines der anwendbaren Gesetze sie vorschreibt oder zuläßt.
+(4) Auf Nebenstrafen, Nebenfolgen und Maßnahmen (§ 11 Absatz 1 Nummer 8) muss oder kann erkannt werden, wenn eines der anwendbaren Gesetze dies vorschreibt oder zulässt.
 
 ### § 53 Tatmehrheit
 
@@ -1542,15 +1546,13 @@ Dritter Titel Strafbemessung bei mehreren Gesetzesverletzungen
 
 (2) Trifft Freiheitsstrafe mit Geldstrafe zusammen, so wird auf eine Gesamtstrafe erkannt. Jedoch kann das Gericht auf Geldstrafe auch gesondert erkennen; soll in diesen Fällen wegen mehrerer Straftaten Geldstrafe verhängt werden, so wird insoweit auf eine Gesamtgeldstrafe erkannt.
 
-(3) Hat der Täter nach dem Gesetz, nach welchem § 43a Anwendung findet, oder im Fall des § 52 Abs. 4 als Einzelstrafe eine lebenslange oder eine zeitige Freiheitsstrafe von mehr als zwei Jahren verwirkt, so kann das Gericht neben der nach Absatz 1 oder 2 zu bildenden Gesamtstrafe gesondert eine Vermögensstrafe verhängen; soll in diesen Fällen wegen mehrerer Straftaten Vermögensstrafe verhängt werden, so wird insoweit auf eine Gesamtvermögensstrafe erkannt. § 43a Abs. 3 gilt entsprechend.
-
-(4) § 52 Abs. 3 und 4 Satz 2 gilt sinngemäß.
+(3) § 52 Abs. 3 und 4 gilt sinngemäß.
 
 ### § 54 Bildung der Gesamtstrafe
 
 (1) Ist eine der Einzelstrafen eine lebenslange Freiheitsstrafe, so wird als Gesamtstrafe auf lebenslange Freiheitsstrafe erkannt. In allen übrigen Fällen wird die Gesamtstrafe durch Erhöhung der verwirkten höchsten Strafe, bei Strafen verschiedener Art durch Erhöhung der ihrer Art nach schwersten Strafe gebildet. Dabei werden die Person des Täters und die einzelnen Straftaten zusammenfassend gewürdigt.
 
-(2) Die Gesamtstrafe darf die Summe der Einzelstrafen nicht erreichen. Sie darf bei zeitigen Freiheitsstrafen fünfzehn Jahre, bei Vermögensstrafen den Wert des Vermögens des Täters und bei Geldstrafe siebenhundertzwanzig Tagessätze nicht übersteigen; § 43a Abs. 1 Satz 3 gilt entsprechend.
+(2) Die Gesamtstrafe darf die Summe der Einzelstrafen nicht erreichen. Sie darf bei zeitigen Freiheitsstrafen fünfzehn Jahre und bei Geldstrafe siebenhundertzwanzig Tagessätze nicht übersteigen.
 
 (3) Ist eine Gesamtstrafe aus Freiheits- und Geldstrafe zu bilden, so entspricht bei der Bestimmung der Summe der Einzelstrafen ein Tagessatz einem Tag Freiheitsstrafe.
 
@@ -1558,7 +1560,7 @@ Dritter Titel Strafbemessung bei mehreren Gesetzesverletzungen
 
 (1) Die §§ 53 und 54 sind auch anzuwenden, wenn ein rechtskräftig Verurteilter, bevor die gegen ihn erkannte Strafe vollstreckt, verjährt oder erlassen ist, wegen einer anderen Straftat verurteilt wird, die er vor der früheren Verurteilung begangen hat. Als frühere Verurteilung gilt das Urteil in dem früheren Verfahren, in dem die zugrundeliegenden tatsächlichen Feststellungen letztmals geprüft werden konnten.
 
-(2) Vermögensstrafen, Nebenstrafen, Nebenfolgen und Maßnahmen (§ 11 Abs. 1 Nr. 8), auf die in der früheren Entscheidung erkannt war, sind aufrechtzuerhalten, soweit sie nicht durch die neue Entscheidung gegenstandslos werden. Dies gilt auch, wenn die Höhe der Vermögensstrafe, auf die in der früheren Entscheidung erkannt war, den Wert des Vermögens des Täters zum Zeitpunkt der neuen Entscheidung übersteigt.
+(2) Nebenstrafen, Nebenfolgen und Maßnahmen (§ 11 Abs. 1 Nr. 8), auf die in der früheren Entscheidung erkannt war, sind aufrechtzuerhalten, soweit sie nicht durch die neue Entscheidung gegenstandslos werden.
 
 Vierter Titel Strafaussetzung zur Bewährung
 -------------------------------------------
@@ -1716,7 +1718,7 @@ und die übrigen Voraussetzungen des Absatzes 1 erfüllt sind.
 
 (5) Die §§ 56f und 56g gelten entsprechend. Das Gericht widerruft die Strafaussetzung auch dann, wenn die verurteilte Person in der Zeit zwischen der Verurteilung und der Entscheidung über die Strafaussetzung eine Straftat begangen hat, die von dem Gericht bei der Entscheidung über die Strafaussetzung aus tatsächlichen Gründen nicht berücksichtigt werden konnte und die im Fall ihrer Berücksichtigung zur Versagung der Strafaussetzung geführt hätte; als Verurteilung gilt das Urteil, in dem die zugrunde liegenden tatsächlichen Feststellungen letztmals geprüft werden konnten.
 
-(6) Das Gericht kann davon absehen, die Vollstreckung des Restes einer zeitigen Freiheitsstrafe zur Bewährung auszusetzen, wenn die verurteilte Person unzureichende oder falsche Angaben über den Verbleib von Gegenständen macht, die dem Verfall unterliegen oder nur deshalb nicht unterliegen, weil der verletzten Person aus der Tat ein Anspruch der in § 73 Abs. 1 Satz 2 bezeichneten Art erwachsen ist.
+(6) Das Gericht kann davon absehen, die Vollstreckung des Restes einer zeitigen Freiheitsstrafe zur Bewährung auszusetzen, wenn die verurteilte Person unzureichende oder falsche Angaben über den Verbleib von Gegenständen macht, die der Einziehung von Taterträgen unterliegen.
 
 (7) Das Gericht kann Fristen von höchstens sechs Monaten festsetzen, vor deren Ablauf ein Antrag der verurteilten Person, den Strafrest zur Bewährung auszusetzen, unzulässig ist.
 
@@ -1771,7 +1773,7 @@ die Verteidigung der Rechtsordnung die Verurteilung zu Strafe nicht gebietet.
 
 § 56 Abs. 1 Satz 2 gilt entsprechend.
 
-(2) Neben der Verwarnung kann auf Verfall, Einziehung oder Unbrauchbarmachung erkannt werden. Neben Maßregeln der Besserung und Sicherung ist die Verwarnung mit Strafvorbehalt nicht zulässig.
+(2) Neben der Verwarnung kann auf Einziehung oder Unbrauchbarmachung erkannt werden. Neben Maßregeln der Besserung und Sicherung ist die Verwarnung mit Strafvorbehalt nicht zulässig.
 
 ### § 59a Bewährungszeit, Auflagen und Weisungen
 
@@ -1892,7 +1894,7 @@ Für die Einordnung als Straftat im Sinne von Satz 1 Nummer 1 Buchstabe b gilt �
 
 (2) Hat jemand drei Straftaten der in Absatz 1 Satz 1 Nummer 1 genannten Art begangen, durch die er jeweils Freiheitsstrafe von mindestens einem Jahr verwirkt hat, und wird er wegen einer oder mehrerer dieser Taten zu Freiheitsstrafe von mindestens drei Jahren verurteilt, so kann das Gericht unter der in Absatz 1 Satz 1 Nummer 4 bezeichneten Voraussetzung neben der Strafe die Sicherungsverwahrung auch ohne frühere Verurteilung oder Freiheitsentziehung (Absatz 1 Satz 1 Nummer 2 und 3) anordnen.
 
-(3) Wird jemand wegen eines die Voraussetzungen nach Absatz 1 Satz 1 Nummer 1 Buchstabe a oder b erfüllenden Verbrechens oder wegen einer Straftat nach den §§ 174 bis 174c, 176, 179 Abs. 1 bis 4, §§ 180, 182, 224, 225 Abs. 1 oder 2 oder wegen einer vorsätzlichen Straftat nach § 323a, soweit die im Rausch begangene Tat eine der vorgenannten rechtswidrigen Taten ist, zu Freiheitsstrafe von mindestens zwei Jahren verurteilt, so kann das Gericht neben der Strafe die Sicherungsverwahrung anordnen, wenn der Täter wegen einer oder mehrerer solcher Straftaten, die er vor der neuen Tat begangen hat, schon einmal zu Freiheitsstrafe von mindestens drei Jahren verurteilt worden ist und die in Absatz 1 Satz 1 Nummer 3 und 4 genannten Voraussetzungen erfüllt sind. Hat jemand zwei Straftaten der in Satz 1 bezeichneten Art begangen, durch die er jeweils Freiheitsstrafe von mindestens zwei Jahren verwirkt hat und wird er wegen einer oder mehrerer dieser Taten zu Freiheitsstrafe von mindestens drei Jahren verurteilt, so kann das Gericht unter den in Absatz 1 Satz 1 Nummer 4 bezeichneten Voraussetzungen neben der Strafe die Sicherungsverwahrung auch ohne frühere Verurteilung oder Freiheitsentziehung (Absatz 1 Satz 1 Nummer 2 und 3) anordnen. Die Absätze 1 und 2 bleiben unberührt.
+(3) Wird jemand wegen eines die Voraussetzungen nach Absatz 1 Satz 1 Nummer 1 Buchstabe a oder b erfüllenden Verbrechens oder wegen einer Straftat nach § 89a Absatz 1 bis 3, § 89c Absatz 1 bis 3, § 129a Absatz 5 Satz 1 erste Alternative, auch in Verbindung mit § 129b Absatz 1, den §§ 174 bis 174c, 176, 177 Absatz 2 Nummer 1, Absatz 3 und 6, §§ 180, 182, 224, 225 Abs. 1 oder 2 oder wegen einer vorsätzlichen Straftat nach § 323a, soweit die im Rausch begangene Tat eine der vorgenannten rechtswidrigen Taten ist, zu Freiheitsstrafe von mindestens zwei Jahren verurteilt, so kann das Gericht neben der Strafe die Sicherungsverwahrung anordnen, wenn der Täter wegen einer oder mehrerer solcher Straftaten, die er vor der neuen Tat begangen hat, schon einmal zu Freiheitsstrafe von mindestens drei Jahren verurteilt worden ist und die in Absatz 1 Satz 1 Nummer 3 und 4 genannten Voraussetzungen erfüllt sind. Hat jemand zwei Straftaten der in Satz 1 bezeichneten Art begangen, durch die er jeweils Freiheitsstrafe von mindestens zwei Jahren verwirkt hat und wird er wegen einer oder mehrerer dieser Taten zu Freiheitsstrafe von mindestens drei Jahren verurteilt, so kann das Gericht unter den in Absatz 1 Satz 1 Nummer 4 bezeichneten Voraussetzungen neben der Strafe die Sicherungsverwahrung auch ohne frühere Verurteilung oder Freiheitsentziehung (Absatz 1 Satz 1 Nummer 2 und 3) anordnen. Die Absätze 1 und 2 bleiben unberührt.
 
 (4) Im Sinne des Absatzes 1 Satz 1 Nummer 2 gilt eine Verurteilung zu Gesamtstrafe als eine einzige Verurteilung. Ist Untersuchungshaft oder eine andere Freiheitsentziehung auf Freiheitsstrafe angerechnet, so gilt sie als verbüßte Strafe im Sinne des Absatzes 1 Satz 1 Nummer 3. Eine frühere Tat bleibt außer Betracht, wenn zwischen ihr und der folgenden Tat mehr als fünf Jahre verstrichen sind; bei Straftaten gegen die sexuelle Selbstbestimmung beträgt die Frist fünfzehn Jahre. In die Frist wird die Zeit nicht eingerechnet, in welcher der Täter auf behördliche Anordnung in einer Anstalt verwahrt worden ist. Eine Tat, die außerhalb des räumlichen Geltungsbereichs dieses Gesetzes abgeurteilt worden ist, steht einer innerhalb dieses Bereichs abgeurteilten Tat gleich, wenn sie nach deutschem Strafrecht eine Straftat der in Absatz 1 Satz 1 Nummer 1, in den Fällen des Absatzes 3 der in Absatz 3 Satz 1 bezeichneten Art wäre.
 
@@ -1987,7 +1989,7 @@ in enger Zusammenarbeit mit staatlichen oder freien Trägern eine nachsorgende B
 
 (6) Das Gericht bestimmt, dass eine Anrechnung nach Absatz 4 auch auf eine verfahrensfremde Strafe erfolgt, wenn deren Vollzug für die verurteilte Person eine unbillige Härte wäre. Bei dieser Entscheidung sind insbesondere das Verhältnis der Dauer des bisherigen Freiheitsentzugs zur Dauer der verhängten Strafen, der erzielte Therapieerfolg und seine konkrete Gefährdung sowie das Verhalten der verurteilten Person im Vollstreckungsverfahren zu berücksichtigen. Die Anrechnung ist in der Regel ausgeschlossen, wenn die der verfahrensfremden Strafe zugrunde liegende Tat nach der Anordnung der Maßregel begangen worden ist. Absatz 5 Satz 2 gilt entsprechend.
 
-§ 67 Abs. 4: Früherer Satz 2 aufgeh. durch Art. 1 Nr. 2 Buchst. c G v. 16.7.2007 I 1327 mWv 20.7.2007; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 27.3.2012 I 1021 (2 BvR 2258/09)
+§ 67 Abs. 4: Früherer Satz 2 aufgeh. durch Art. 1 Nr. 2 Buchst. c G v. 16.7.2007 I 1327 mWv 20.7.2007; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 27.3.2012 I 1021 (2 BvR 2258/09). Zur Umsetzung der Anforderungen des BVerfG vgl. G v. 8.7.2016 I 1610 mWv 1.8.2016
 
 ### § 67a Überweisung in den Vollzug einer anderen Maßregel
 
@@ -2163,7 +2165,7 @@ sich zu bestimmten Zeiten oder in bestimmten Abständen bei einer Ärztin oder e
 12.  
 die für eine elektronische Überwachung ihres Aufenthaltsortes erforderlichen technischen Mittel ständig in betriebsbereitem Zustand bei sich zu führen und deren Funktionsfähigkeit nicht zu beeinträchtigen.
 
-Das Gericht hat in seiner Weisung das verbotene oder verlangte Verhalten genau zu bestimmen. Eine Weisung nach Satz 1 Nummer 12 ist nur zulässig, wenn
+Das Gericht hat in seiner Weisung das verbotene oder verlangte Verhalten genau zu bestimmen. Eine Weisung nach Satz 1 Nummer 12 ist, unbeschadet des Satzes 5, nur zulässig, wenn
 
 1.  
 die Führungsaufsicht auf Grund der vollständigen Vollstreckung einer Freiheitsstrafe oder Gesamtfreiheitsstrafe von mindestens drei Jahren oder auf Grund einer erledigten Maßregel eingetreten ist,
@@ -2177,7 +2179,7 @@ die Gefahr besteht, dass die verurteilte Person weitere Straftaten der in § 66 
 4.  
 die Weisung erforderlich erscheint, um die verurteilte Person durch die Möglichkeit der Datenverwendung nach § 463a Absatz 4 Satz 2 der Strafprozessordnung, insbesondere durch die Überwachung der Erfüllung einer nach Satz 1 Nummer 1 oder 2 auferlegten Weisung, von der Begehung weiterer Straftaten der in § 66 Absatz 3 Satz 1 genannten Art abzuhalten.
 
-Die Voraussetzungen von Satz 3 Nummer 1 in Verbindung mit Nummer 2 liegen unabhängig davon vor, ob die dort genannte Führungsaufsicht nach § 68e Absatz 1 Satz 1 beendet ist.
+Die Voraussetzungen von Satz 3 Nummer 1 in Verbindung mit Nummer 2 liegen unabhängig davon vor, ob die dort genannte Führungsaufsicht nach § 68e Absatz 1 Satz 1 beendet ist. Abweichend von Satz 3 Nummer 1 genügt eine Freiheits- oder Gesamtfreiheitsstrafe von zwei Jahren, wenn diese wegen einer oder mehrerer Straftaten verhängt worden ist, die unter den Ersten oder Siebenten Abschnitt des Besonderen Teils fallen; zu den in Satz 3 Nummer 2 bis 4 genannten Straftaten gehört auch eine Straftat nach § 129a Absatz 5 Satz 2, auch in Verbindung mit § 129b Absatz 1.
 
 (2) Das Gericht kann der verurteilten Person für die Dauer der Führungsaufsicht oder für eine kürzere Zeit weitere Weisungen erteilen, insbesondere solche, die sich auf Ausbildung, Arbeit, Freizeit, die Ordnung der wirtschaftlichen Verhältnisse oder die Erfüllung von Unterhaltspflichten beziehen. Das Gericht kann die verurteilte Person insbesondere anweisen, sich psychiatrisch, psycho- oder sozialtherapeutisch betreuen und behandeln zu lassen (Therapieweisung). Die Betreuung und Behandlung kann durch eine forensische Ambulanz erfolgen. § 56c Abs. 3 gilt entsprechend, auch für die Weisung, sich Alkohol- oder Suchtmittelkontrollen zu unterziehen, die mit körperlichen Eingriffen verbunden sind.
 
@@ -2380,154 +2382,161 @@ Gemeinsame Vorschriften
 
 (3) Werden mehrere freiheitsentziehende Maßregeln angeordnet, so bestimmt das Gericht die Reihenfolge der Vollstreckung. Vor dem Ende des Vollzugs einer Maßregel ordnet das Gericht jeweils den Vollzug der nächsten an, wenn deren Zweck die Unterbringung noch erfordert. § 67c Abs. 2 Satz 4 und 5 ist anzuwenden.
 
-Siebenter Titel Verfall und Einziehung
---------------------------------------
+Siebenter Titel Einziehung
+--------------------------
 
 ### 
 
-### § 73 Voraussetzungen des Verfalls
+### § 73 Einziehung von Taterträgen bei Tätern und Teilnehmern
 
-(1) Ist eine rechtswidrige Tat begangen worden und hat der Täter oder Teilnehmer für die Tat oder aus ihr etwas erlangt, so ordnet das Gericht dessen Verfall an. Dies gilt nicht, soweit dem Verletzten aus der Tat ein Anspruch erwachsen ist, dessen Erfüllung dem Täter oder Teilnehmer den Wert des aus der Tat Erlangten entziehen würde.
+(1) Hat der Täter oder Teilnehmer durch eine rechtswidrige Tat oder für sie etwas erlangt, so ordnet das Gericht dessen Einziehung an.
 
-(2) Die Anordnung des Verfalls erstreckt sich auf die gezogenen Nutzungen. Sie kann sich auch auf die Gegenstände erstrecken, die der Täter oder Teilnehmer durch die Veräußerung eines erlangten Gegenstandes oder als Ersatz für dessen Zerstörung, Beschädigung oder Entziehung oder auf Grund eines erlangten Rechts erworben hat.
+(2) Hat der Täter oder Teilnehmer Nutzungen aus dem Erlangten gezogen, so ordnet das Gericht auch deren Einziehung an.
 
-(3) Hat der Täter oder Teilnehmer für einen anderen gehandelt und hat dadurch dieser etwas erlangt, so richtet sich die Anordnung des Verfalls nach den Absätzen 1 und 2 gegen ihn.
+(3) Das Gericht kann auch die Einziehung der Gegenstände anordnen, die der Täter oder Teilnehmer erworben hat
 
-(4) Der Verfall eines Gegenstandes wird auch angeordnet, wenn er einem Dritten gehört oder zusteht, der ihn für die Tat oder sonst in Kenntnis der Tatumstände gewährt hat.
+1.  
+durch Veräußerung des Erlangten oder als Ersatz für dessen Zerstörung, Beschädigung oder Entziehung oder
 
-### § 73a Verfall des Wertersatzes
+2.  
+auf Grund eines erlangten Rechts.
 
-Soweit der Verfall eines bestimmten Gegenstandes wegen der Beschaffenheit des Erlangten oder aus einem anderen Grunde nicht möglich ist oder von dem Verfall eines Ersatzgegenstandes nach § 73 Abs. 2 Satz 2 abgesehen wird, ordnet das Gericht den Verfall eines Geldbetrags an, der dem Wert des Erlangten entspricht. Eine solche Anordnung trifft das Gericht auch neben dem Verfall eines Gegenstandes, soweit dessen Wert hinter dem Wert des zunächst Erlangten zurückbleibt.
+### § 73a Erweiterte Einziehung von Taterträgen bei Tätern und Teilnehmern
 
-### § 73b Schätzung
+(1) Ist eine rechtswidrige Tat begangen worden, so ordnet das Gericht die Einziehung von Gegenständen des Täters oder Teilnehmers auch dann an, wenn diese Gegenstände durch andere rechtswidrige Taten oder für sie erlangt worden sind.
 
-Der Umfang des Erlangten und dessen Wert sowie die Höhe des Anspruchs, dessen Erfüllung dem Täter oder Teilnehmer das aus der Tat Erlangte entziehen würde, können geschätzt werden.
+(2) Hat sich der Täter oder Teilnehmer vor der Anordnung der Einziehung nach Absatz 1 an einer anderen rechtswidrigen Tat beteiligt und ist erneut über die Einziehung seiner Gegenstände zu entscheiden, berücksichtigt das Gericht hierbei die bereits ergangene Anordnung.
 
-### § 73c Härtevorschrift
+### § 73b Einziehung von Taterträgen bei anderen
 
-(1) Der Verfall wird nicht angeordnet, soweit er für den Betroffenen eine unbillige Härte wäre. Die Anordnung kann unterbleiben, soweit der Wert des Erlangten zur Zeit der Anordnung in dem Vermögen des Betroffenen nicht mehr vorhanden ist oder wenn das Erlangte nur einen geringen Wert hat.
+(1) Die Anordnung der Einziehung nach den §§ 73 und 73a richtet sich gegen einen anderen, der nicht Täter oder Teilnehmer ist, wenn
 
-(2) Für die Bewilligung von Zahlungserleichterungen gilt § 42 entsprechend.
+1.  
+er durch die Tat etwas erlangt hat und der Täter oder Teilnehmer für ihn gehandelt hat,
 
-### § 73d Erweiterter Verfall
+2.  
+ihm das Erlangte
 
-(1) Ist eine rechtswidrige Tat nach einem Gesetz begangen worden, das auf diese Vorschrift verweist, so ordnet das Gericht den Verfall von Gegenständen des Täters oder Teilnehmers auch dann an, wenn die Umstände die Annahme rechtfertigen, daß diese Gegenstände für rechtswidrige Taten oder aus ihnen erlangt worden sind. Satz 1 ist auch anzuwenden, wenn ein Gegenstand dem Täter oder Teilnehmer nur deshalb nicht gehört oder zusteht, weil er den Gegenstand für eine rechtswidrige Tat oder aus ihr erlangt hat. § 73 Abs. 1 Satz 2, auch in Verbindung mit § 73b, und § 73 Abs. 2 gelten entsprechend.
+a)  
+unentgeltlich oder ohne rechtlichen Grund übertragen wurde oder
 
-(2) Ist der Verfall eines bestimmten Gegenstandes nach der Tat ganz oder teilweise unmöglich geworden, so finden insoweit die §§ 73a und 73b sinngemäß Anwendung.
+b)  
+übertragen wurde und er erkannt hat oder hätte erkennen müssen, dass das Erlangte aus einer rechtswidrigen Tat herrührt, oder
 
-(3) Ist nach Anordnung des Verfalls nach Absatz 1 wegen einer anderen rechtswidrigen Tat, die der Täter oder Teilnehmer vor der Anordnung begangen hat, erneut über den Verfall von Gegenständen des Täters oder Teilnehmers zu entscheiden, so berücksichtigt das Gericht hierbei die bereits ergangene Anordnung.
+3.  
+das Erlangte auf ihn
 
-(4) § 73c gilt entsprechend.
+a)  
+als Erbe übergegangen ist oder
+
+b)  
+als Pflichtteilsberechtigter oder Vermächtnisnehmer übertragen worden ist.
+
+Satz 1 Nummer 2 und 3 findet keine Anwendung, wenn das Erlangte zuvor einem Dritten, der nicht erkannt hat oder hätte erkennen müssen, dass das Erlangte aus einer rechtswidrigen Tat herrührt, entgeltlich und mit rechtlichem Grund übertragen wurde.
+
+(2) Erlangt der andere unter den Voraussetzungen des Absatzes 1 Satz 1 Nummer 2 oder Nummer 3 einen Gegenstand, der dem Wert des Erlangten entspricht, oder gezogene Nutzungen, so ordnet das Gericht auch deren Einziehung an.
+
+(3) Unter den Voraussetzungen des Absatzes 1 Satz 1 Nummer 2 oder Nummer 3 kann das Gericht auch die Einziehung dessen anordnen, was erworben wurde
+
+1.  
+durch Veräußerung des erlangten Gegenstandes oder als Ersatz für dessen Zerstörung, Beschädigung oder Entziehung oder
+
+2.  
+auf Grund eines erlangten Rechts.
+
+### § 73c Einziehung des Wertes von Taterträgen
+
+Ist die Einziehung eines Gegenstandes wegen der Beschaffenheit des Erlangten oder aus einem anderen Grund nicht möglich oder wird von der Einziehung eines Ersatzgegenstandes nach § 73 Absatz 3 oder nach § 73b Absatz 3 abgesehen, so ordnet das Gericht die Einziehung eines Geldbetrages an, der dem Wert des Erlangten entspricht. Eine solche Anordnung trifft das Gericht auch neben der Einziehung eines Gegenstandes, soweit dessen Wert hinter dem Wert des zunächst Erlangten zurückbleibt.
+
+### § 73d Bestimmung des Wertes des Erlangten; Schätzung
+
+(1) Bei der Bestimmung des Wertes des Erlangten sind die Aufwendungen des Täters, Teilnehmers oder des anderen abzuziehen. Außer Betracht bleibt jedoch das, was für die Begehung der Tat oder für ihre Vorbereitung aufgewendet oder eingesetzt worden ist, soweit es sich nicht um Leistungen zur Erfüllung einer Verbindlichkeit gegenüber dem Verletzten der Tat handelt.
+
+(2) Umfang und Wert des Erlangten einschließlich der abzuziehenden Aufwendungen können geschätzt werden.
 
 (+++ § 73d: Zur Anwendung vgl. § 184b F ab 27.12.2003 +++)
 
-### § 73e Wirkung des Verfalls
+### § 73e Ausschluss der Einziehung des Tatertrages oder des Wertersatzes
 
-(1) Wird der Verfall eines Gegenstandes angeordnet, so geht das Eigentum an der Sache oder das verfallene Recht mit der Rechtskraft der Entscheidung auf den Staat über, wenn es dem von der Anordnung Betroffenen zu dieser Zeit zusteht. Rechte Dritter an dem Gegenstand bleiben bestehen.
+(1) Die Einziehung nach den §§ 73 bis 73c ist ausgeschlossen, soweit der Anspruch, der dem Verletzten aus der Tat auf Rückgewähr des Erlangten oder auf Ersatz des Wertes des Erlangten erwachsen ist, erloschen ist.
 
-(2) Vor der Rechtskraft wirkt die Anordnung als Veräußerungsverbot im Sinne des § 136 des Bürgerlichen Gesetzbuches; das Verbot umfaßt auch andere Verfügungen als Veräußerungen.
+(2) In den Fällen des § 73b, auch in Verbindung mit § 73c, ist die Einziehung darüber hinaus ausgeschlossen, soweit der Wert des Erlangten zur Zeit der Anordnung nicht mehr im Vermögen des Betroffenen vorhanden ist, es sei denn, dem Betroffenen waren die Umstände, welche die Anordnung der Einziehung gegen den Täter oder Teilnehmer ansonsten zugelassen hätten, zum Zeitpunkt des Wegfalls der Bereicherung bekannt oder infolge von Leichtfertigkeit unbekannt.
 
-### § 74 Voraussetzungen der Einziehung
+### § 74 Einziehung von Tatprodukten, Tatmitteln und Tatobjekten bei Tätern und Teilnehmern
 
-(1) Ist eine vorsätzliche Straftat begangen worden, so können Gegenstände, die durch sie hervorgebracht oder zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind, eingezogen werden.
+(1) Gegenstände, die durch eine vorsätzliche Tat hervorgebracht (Tatprodukte) oder zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind (Tatmittel), können eingezogen werden.
 
-(2) Die Einziehung ist nur zulässig, wenn
+(2) Gegenstände, auf die sich eine Straftat bezieht (Tatobjekte), unterliegen der Einziehung nach der Maßgabe besonderer Vorschriften.
 
-1.  
-die Gegenstände zur Zeit der Entscheidung dem Täter oder Teilnehmer gehören oder zustehen oder
+(3) Die Einziehung ist nur zulässig, wenn die Gegenstände zur Zeit der Entscheidung dem Täter oder Teilnehmer gehören oder zustehen. Das gilt auch für die Einziehung, die durch eine besondere Vorschrift über Absatz 1 hinaus vorgeschrieben oder zugelassen ist.
 
-2.  
-die Gegenstände nach ihrer Art und den Umständen die Allgemeinheit gefährden oder die Gefahr besteht, daß sie der Begehung rechtswidriger Taten dienen werden.
+### § 74a Einziehung von Tatprodukten, Tatmitteln und Tatobjekten bei anderen
 
-(3) Unter den Voraussetzungen des Absatzes 2 Nr. 2 ist die Einziehung der Gegenstände auch zulässig, wenn der Täter ohne Schuld gehandelt hat.
-
-(4) Wird die Einziehung durch eine besondere Vorschrift über Absatz 1 hinaus vorgeschrieben oder zugelassen, so gelten die Absätze 2 und 3 entsprechend.
-
-### § 74a Erweiterte Voraussetzungen der Einziehung
-
-Verweist das Gesetz auf diese Vorschrift, so dürfen die Gegenstände abweichend von § 74 Abs. 2 Nr. 1 auch dann eingezogen werden, wenn derjenige, dem sie zur Zeit der Entscheidung gehören oder zustehen,
+Verweist ein Gesetz auf diese Vorschrift, können Gegenstände abweichend von § 74 Absatz 3 auch dann eingezogen werden, wenn derjenige, dem sie zur Zeit der Entscheidung gehören oder zustehen,
 
 1.  
-wenigstens leichtfertig dazu beigetragen hat, daß die Sache oder das Recht Mittel oder Gegenstand der Tat oder ihrer Vorbereitung gewesen ist, oder
+mindestens leichtfertig dazu beigetragen hat, dass sie als Tatmittel verwendet worden oder Tatobjekt gewesen sind, oder
 
 2.  
-die Gegenstände in Kenntnis der Umstände, welche die Einziehung zugelassen hätten, in verwerflicher Weise erworben hat.
+sie in Kenntnis der Umstände, welche die Einziehung zugelassen hätten, in verwerflicher Weise erworben hat.
 
 (+++ § 74a: Zur Anwendung vgl. § 184b F ab 27.12.2003 u. § 201a +++)
 
-### § 74b Grundsatz der Verhältnismäßigkeit
+### § 74b Sicherungseinziehung
 
-(1) Ist die Einziehung nicht vorgeschrieben, so darf sie in den Fällen des § 74 Abs. 2 Nr. 1 und des § 74a nicht angeordnet werden, wenn sie zur Bedeutung der begangenen Tat und zum Vorwurf, der den von der Einziehung betroffenen Täter oder Teilnehmer oder in den Fällen des § 74a den Dritten trifft, außer Verhältnis steht.
-
-(2) Das Gericht ordnet in den Fällen der §§ 74 und 74a an, daß die Einziehung vorbehalten bleibt, und trifft eine weniger einschneidende Maßnahme, wenn der Zweck der Einziehung auch durch sie erreicht werden kann. In Betracht kommt namentlich die Anweisung,
+(1) Gefährden Gegenstände nach ihrer Art und nach den Umständen die Allgemeinheit oder besteht die Gefahr, dass sie der Begehung rechtswidriger Taten dienen werden, können sie auch dann eingezogen werden, wenn
 
 1.  
-die Gegenstände unbrauchbar zu machen,
+der Täter oder Teilnehmer ohne Schuld gehandelt hat oder
 
 2.  
-an den Gegenständen bestimmte Einrichtungen oder Kennzeichen zu beseitigen oder die Gegenstände sonst zu ändern oder
+die Gegenstände einem anderen als dem Täter oder Teilnehmer gehören oder zustehen.
 
-3.  
-über die Gegenstände in bestimmter Weise zu verfügen.
+(2) In den Fällen des Absatzes 1 Nummer 2 wird der andere aus der Staatskasse unter Berücksichtigung des Verkehrswertes des eingezogenen Gegenstandes angemessen in Geld entschädigt. Das Gleiche gilt, wenn der eingezogene Gegenstand mit dem Recht eines anderen belastet ist, das durch die Entscheidung erloschen oder beeinträchtigt ist.
 
-Wird die Anweisung befolgt, so wird der Vorbehalt der Einziehung aufgehoben; andernfalls ordnet das Gericht die Einziehung nachträglich an.
+(3) Eine Entschädigung wird nicht gewährt, wenn
 
-(3) Ist die Einziehung nicht vorgeschrieben, so kann sie auf einen Teil der Gegenstände beschränkt werden.
+1.  
+der nach Absatz 2 Entschädigungsberechtigte
 
-### § 74c Einziehung des Wertersatzes
+a)  
+mindestens leichtfertig dazu beigetragen hat, dass der Gegenstand als Tatmittel verwendet worden oder Tatobjekt gewesen ist, oder
 
-(1) Hat der Täter oder Teilnehmer den Gegenstand, der ihm zur Zeit der Tat gehörte oder zustand und auf dessen Einziehung hätte erkannt werden können, vor der Entscheidung über die Einziehung verwertet, namentlich veräußert oder verbraucht, oder hat er die Einziehung des Gegenstandes sonst vereitelt, so kann das Gericht die Einziehung eines Geldbetrags gegen den Täter oder Teilnehmer bis zu der Höhe anordnen, die dem Wert des Gegenstandes entspricht.
+b)  
+den Gegenstand oder das Recht an dem Gegenstand in Kenntnis der Umstände, welche die Einziehung zulassen, in verwerflicher Weise erworben hat oder
 
-(2) Eine solche Anordnung kann das Gericht auch neben der Einziehung eines Gegenstandes oder an deren Stelle treffen, wenn ihn der Täter oder Teilnehmer vor der Entscheidung über die Einziehung mit dem Recht eines Dritten belastet hat, dessen Erlöschen ohne Entschädigung nicht angeordnet werden kann oder im Falle der Einziehung nicht angeordnet werden könnte (§ 74e Abs. 2 und § 74f); trifft das Gericht die Anordnung neben der Einziehung, so bemißt sich die Höhe des Wertersatzes nach dem Wert der Belastung des Gegenstandes.
+2.  
+es nach den Umständen, welche die Einziehung begründet haben, auf Grund von Rechtsvorschriften außerhalb des Strafrechts zulässig wäre, dem Entschädigungsberechtigten den Gegenstand oder das Recht an dem Gegenstand ohne Entschädigung dauerhaft zu entziehen.
+
+Abweichend von Satz 1 kann eine Entschädigung jedoch gewährt werden, wenn es eine unbillige Härte wäre, sie zu versagen.
+
+### § 74c Einziehung des Wertes von Tatprodukten, Tatmitteln und Tatobjekten bei Tätern und Teilnehmern
+
+(1) Ist die Einziehung eines bestimmten Gegenstandes nicht möglich, weil der Täter oder Teilnehmer diesen veräußert, verbraucht oder die Einziehung auf andere Weise vereitelt hat, so kann das Gericht gegen ihn die Einziehung eines Geldbetrages anordnen, der dem Wert des Gegenstandes entspricht.
+
+(2) Eine solche Anordnung kann das Gericht auch neben oder statt der Einziehung eines Gegenstandes treffen, wenn ihn der Täter oder Teilnehmer vor der Entscheidung über die Einziehung mit dem Recht eines Dritten belastet hat, dessen Erlöschen nicht oder ohne Entschädigung nicht angeordnet werden kann (§ 74b Absatz 2 und 3 und § 75 Absatz 2). Trifft das Gericht die Anordnung neben der Einziehung, bemisst sich die Höhe des Wertersatzes nach dem Wert der Belastung des Gegenstandes.
 
 (3) Der Wert des Gegenstandes und der Belastung kann geschätzt werden.
 
-(4) Für die Bewilligung von Zahlungserleichterungen gilt § 42.
-
 ### § 74d Einziehung von Schriften und Unbrauchbarmachung
 
-(1) Schriften (§ 11 Abs. 3), die einen solchen Inhalt haben, daß jede vorsätzliche Verbreitung in Kenntnis ihres Inhalts den Tatbestand eines Strafgesetzes verwirklichen würde, werden eingezogen, wenn mindestens ein Stück durch eine rechtswidrige Tat verbreitet oder zur Verbreitung bestimmt worden ist. Zugleich wird angeordnet, daß die zur Herstellung der Schriften gebrauchten oder bestimmten Vorrichtungen, wie Platten, Formen, Drucksätze, Druckstöcke, Negative oder Matrizen, unbrauchbar gemacht werden.
+(1) Schriften (§ 11 Absatz 3), die einen solchen Inhalt haben, dass jede vorsätzliche Verbreitung in Kenntnis ihres Inhalts den Tatbestand eines Strafgesetzes verwirklichen würde, werden eingezogen, wenn mindestens ein Stück durch eine rechtswidrige Tat verbreitet oder zur Verbreitung bestimmt worden ist. Zugleich wird angeordnet, dass die zur Herstellung der Schriften gebrauchten oder bestimmten Vorrichtungen, die Vorlage für die Vervielfältigung waren oder sein sollten, unbrauchbar gemacht werden.
 
 (2) Die Einziehung erstreckt sich nur auf die Stücke, die sich im Besitz der bei ihrer Verbreitung oder deren Vorbereitung mitwirkenden Personen befinden oder öffentlich ausgelegt oder beim Verbreiten durch Versenden noch nicht dem Empfänger ausgehändigt worden sind.
 
-(3) Absatz 1 gilt entsprechend bei Schriften (§ 11 Abs. 3), die einen solchen Inhalt haben, daß die vorsätzliche Verbreitung in Kenntnis ihres Inhalts nur bei Hinzutreten weiterer Tatumstände den Tatbestand eines Strafgesetzes verwirklichen würde. Die Einziehung und Unbrauchbarmachung werden jedoch nur angeordnet, soweit
+(3) Absatz 1 gilt entsprechend für Schriften (§ 11 Absatz 3), die einen solchen Inhalt haben, dass die vorsätzliche Verbreitung in Kenntnis ihres Inhalts nur bei Hinzutreten weiterer Tatumstände den Tatbestand eines Strafgesetzes verwirklichen würde. Die Einziehung und Unbrauchbarmachung werden jedoch nur angeordnet, soweit
 
 1.  
-die Stücke und die in Absatz 1 Satz 2 bezeichneten Gegenstände sich im Besitz des Täters, Teilnehmers oder eines anderen befinden, für den der Täter oder Teilnehmer gehandelt hat, oder von diesen Personen zur Verbreitung bestimmt sind und
+die Stücke und die in Absatz 1 Satz 2 bezeichneten Vorrichtungen sich im Besitz des Täters, des Teilnehmers oder eines anderen befinden, für den der Täter oder Teilnehmer gehandelt hat, oder von diesen Personen zur Verbreitung bestimmt sind und
 
 2.  
-die Maßnahmen erforderlich sind, um ein gesetzwidriges Verbreiten durch diese Personen zu verhindern.
+die Maßnahmen erforderlich sind, um ein gesetzwidriges Verbreiten durch die in Nummer 1 bezeichneten Personen zu verhindern.
 
-(4) Dem Verbreiten im Sinne der Absätze 1 bis 3 steht es gleich, wenn eine Schrift (§ 11 Abs. 3) oder mindestens ein Stück der Schrift durch Ausstellen, Anschlagen, Vorführen oder in anderer Weise öffentlich zugänglich gemacht wird.
+(4) Dem Verbreiten im Sinne der Absätze 1 bis 3 steht es gleich, wenn eine Schrift (§ 11 Absatz 3) oder mindestens ein Stück der Schrift durch Ausstellen, Anschlagen, Vorführen oder in anderer Weise öffentlich zugänglich gemacht wird.
 
-(5) § 74b Abs. 2 und 3 gilt entsprechend.
+(5) Stand das Eigentum an der Sache zur Zeit der Rechtskraft der Entscheidung über die Einziehung oder Unbrauchbarmachung einem anderen als dem Täter oder Teilnehmer zu oder war der Gegenstand mit dem Recht eines Dritten belastet, das durch die Entscheidung erloschen oder beeinträchtigt ist, wird dieser aus der Staatskasse unter Berücksichtigung des Verkehrswertes angemessen in Geld entschädigt. § 74b Absatz 3 gilt entsprechend.
 
-### § 74e Wirkung der Einziehung
-
-(1) Wird ein Gegenstand eingezogen, so geht das Eigentum an der Sache oder das eingezogene Recht mit der Rechtskraft der Entscheidung auf den Staat über.
-
-(2) Rechte Dritter an dem Gegenstand bleiben bestehen. Das Gericht ordnet jedoch das Erlöschen dieser Rechte an, wenn es die Einziehung darauf stützt, daß die Voraussetzungen des § 74 Abs. 2 Nr. 2 vorliegen. Es kann das Erlöschen des Rechts eines Dritten auch dann anordnen, wenn diesem eine Entschädigung nach § 74f Abs. 2 Nr. 1 oder 2 nicht zu gewähren ist.
-
-(3) § 73e Abs. 2 gilt entsprechend für die Anordnung der Einziehung und die Anordnung des Vorbehalts der Einziehung, auch wenn sie noch nicht rechtskräftig ist.
-
-### § 74f Entschädigung
-
-(1) Stand das Eigentum an der Sache oder das eingezogene Recht zur Zeit der Rechtskraft der Entscheidung über die Einziehung oder Unbrauchbarmachung einem Dritten zu oder war der Gegenstand mit dem Recht eines Dritten belastet, das durch die Entscheidung erloschen oder beeinträchtigt ist, so wird der Dritte aus der Staatskasse unter Berücksichtigung des Verkehrswertes angemessen in Geld entschädigt.
-
-(2) Eine Entschädigung wird nicht gewährt, wenn
-
-1.  
-der Dritte wenigstens leichtfertig dazu beigetragen hat, daß die Sache oder das Recht Mittel oder Gegenstand der Tat oder ihrer Vorbereitung gewesen ist,
-
-2.  
-der Dritte den Gegenstand oder das Recht an dem Gegenstand in Kenntnis der Umstände, welche die Einziehung oder Unbrauchbarmachung zulassen, in verwerflicher Weise erworben hat oder
-
-3.  
-es nach den Umständen, welche die Einziehung oder Unbrauchbarmachung begründet haben, auf Grund von Rechtsvorschriften außerhalb des Strafrechts zulässig wäre, den Gegenstand dem Dritten ohne Entschädigung dauernd zu entziehen.
-
-(3) In den Fällen des Absatzes 2 kann eine Entschädigung gewährt werden, soweit es eine unbillige Härte wäre, sie zu versagen.
-
-### § 75 Sondervorschrift für Organe und Vertreter
+### § 74e Sondervorschrift für Organe und Vertreter
 
 Hat jemand
 
@@ -2546,32 +2555,154 @@ als Generalbevollmächtigter oder in leitender Stellung als Prokurist oder Handl
 5.  
 als sonstige Person, die für die Leitung des Betriebs oder Unternehmens einer juristischen Person oder einer in Nummer 2 oder 3 genannten Personenvereinigung verantwortlich handelt, wozu auch die Überwachung der Geschäftsführung oder die sonstige Ausübung von Kontrollbefugnissen in leitender Stellung gehört,
 
-eine Handlung vorgenommen, die ihm gegenüber unter den übrigen Voraussetzungen der §§ 74 bis 74c und 74f die Einziehung eines Gegenstandes oder des Wertersatzes zulassen oder den Ausschluß der Entschädigung begründen würde, so wird seine Handlung bei Anwendung dieser Vorschriften dem Vertretenen zugerechnet. § 14 Abs. 3 gilt entsprechend.
+eine Handlung vorgenommen, die ihm gegenüber unter den übrigen Voraussetzungen der §§ 74 bis 74c die Einziehung eines Gegenstandes oder des Wertersatzes zulassen oder den Ausschluss der Entschädigung begründen würde, wird seine Handlung bei Anwendung dieser Vorschriften dem Vertretenen zugerechnet. § 14 Absatz 3 gilt entsprechend.
+
+### § 74f Grundsatz der Verhältnismäßigkeit
+
+(1) Ist die Einziehung nicht vorgeschrieben, so darf sie in den Fällen der §§ 74 und 74a nicht angeordnet werden, wenn sie zur begangenen Tat und zum Vorwurf, der den von der Einziehung Betroffenen trifft, außer Verhältnis stünde. In den Fällen der §§ 74 bis 74b und 74d ordnet das Gericht an, dass die Einziehung vorbehalten bleibt, wenn ihr Zweck auch durch eine weniger einschneidende Maßnahme erreicht werden kann. In Betracht kommt insbesondere die Anweisung,
+
+1.  
+die Gegenstände unbrauchbar zu machen,
+
+2.  
+an den Gegenständen bestimmte Einrichtungen oder Kennzeichen zu beseitigen oder die Gegenstände sonst zu ändern oder
+
+3.  
+über die Gegenstände in bestimmter Weise zu verfügen.
+
+Wird die Anweisung befolgt, wird der Vorbehalt der Einziehung aufgehoben; andernfalls ordnet das Gericht die Einziehung nachträglich an. Ist die Einziehung nicht vorgeschrieben, kann sie auf einen Teil der Gegenstände beschränkt werden.
+
+(2) In den Fällen der Unbrauchbarmachung nach § 74d Absatz 1 Satz 2 und Absatz 3 gilt Absatz 1 Satz 2 und 3 entsprechend.
+
+### § 75 Wirkung der Einziehung
+
+(1) Wird die Einziehung eines Gegenstandes angeordnet, so geht das Eigentum an der Sache oder das Recht mit der Rechtskraft der Entscheidung auf den Staat über, wenn der Gegenstand
+
+1.  
+dem von der Anordnung Betroffenen zu dieser Zeit gehört oder zusteht oder
+
+2.  
+einem anderen gehört oder zusteht, der ihn für die Tat oder andere Zwecke in Kenntnis der Tatumstände gewährt hat.
+
+In anderen Fällen geht das Eigentum an der Sache oder das Recht mit Ablauf von sechs Monaten nach der Mitteilung der Rechtskraft der Einziehungsanordnung auf den Staat über, es sei denn, dass vorher derjenige, dem der Gegenstand gehört oder zusteht, sein Recht bei der Vollstreckungsbehörde anmeldet.
+
+(2) Im Übrigen bleiben Rechte Dritter an dem Gegenstand bestehen. In den in § 74b bezeichneten Fällen ordnet das Gericht jedoch das Erlöschen dieser Rechte an. In den Fällen der §§ 74 und 74a kann es das Erlöschen des Rechts eines Dritten anordnen, wenn der Dritte
+
+1.  
+wenigstens leichtfertig dazu beigetragen hat, dass der Gegenstand als Tatmittel verwendet worden oder Tatobjekt gewesen ist, oder
+
+2.  
+das Recht an dem Gegenstand in Kenntnis der Umstände, welche die Einziehung zulassen, in verwerflicher Weise erworben hat.
+
+(3) Bis zum Übergang des Eigentums an der Sache oder des Rechts wirkt die Anordnung der Einziehung oder die Anordnung des Vorbehalts der Einziehung als Veräußerungsverbot im Sinne des § 136 des Bürgerlichen Gesetzbuchs.
+
+(4) In den Fällen des § 111d Absatz 1 Satz 2 der Strafprozessordnung findet § 91 der Insolvenzordnung keine Anwendung.
 
 Gemeinsame Vorschriften
 -----------------------
 
 ### 
 
-### § 76 Nachträgliche Anordnung von Verfall oder Einziehung des Wertersatzes
+### § 76 Nachträgliche Anordnung der Einziehung des Wertersatzes
 
-Ist die Anordnung des Verfalls oder der Einziehung eines Gegenstandes nicht ausführbar oder unzureichend, weil nach der Anordnung eine der in §§ 73a, 73d Abs. 2 oder § 74c bezeichneten Voraussetzungen eingetreten oder bekanntgeworden ist, so kann das Gericht den Verfall oder die Einziehung des Wertersatzes nachträglich anordnen.
+Ist die Anordnung der Einziehung eines Gegenstandes unzureichend oder nicht ausführbar, weil nach der Anordnung eine der in den §§ 73c oder 74c bezeichneten Voraussetzungen eingetreten oder bekanntgeworden ist, so kann das Gericht die Einziehung des Wertersatzes nachträglich anordnen.
 
-### § 76a Selbständige Anordnung
+### § 76a Selbständige Einziehung
 
-(1) Kann wegen der Straftat aus tatsächlichen Gründen keine bestimmte Person verfolgt oder verurteilt werden, so muß oder kann auf Verfall oder Einziehung des Gegenstandes oder des Wertersatzes oder auf Unbrauchbarmachung selbständig erkannt werden, wenn die Voraussetzungen, unter denen die Maßnahme vorgeschrieben oder zugelassen ist, im übrigen vorliegen.
+(1) Kann wegen der Straftat keine bestimmte Person verfolgt oder verurteilt werden, so ordnet das Gericht die Einziehung oder die Unbrauchbarmachung selbständig an, wenn die Voraussetzungen, unter denen die Maßnahme vorgeschrieben ist, im Übrigen vorliegen. Ist sie zugelassen, so kann das Gericht die Einziehung unter den Voraussetzungen des Satzes 1 selbständig anordnen. Die Einziehung wird nicht angeordnet, wenn Antrag, Ermächtigung oder Strafverlangen fehlen oder bereits rechtskräftig über sie entschieden worden ist.
 
-(2) Unter den Voraussetzungen des § 74 Abs. 2 Nr. 2, Abs. 3 und des § 74d ist Absatz 1 auch dann anzuwenden, wenn
+(2) Unter den Voraussetzungen der §§ 73, 73b und 73c ist die selbständige Anordnung der Einziehung des Tatertrages und die selbständige Einziehung des Wertes des Tatertrages auch dann zulässig, wenn die Verfolgung der Straftat verjährt ist. Unter den Voraussetzungen der §§ 74b und 74d gilt das Gleiche für die selbständige Anordnung der Sicherungseinziehung, der Einziehung von Schriften und der Unbrauchbarmachung.
+
+(3) Absatz 1 ist auch anzuwenden, wenn das Gericht von Strafe absieht oder wenn das Verfahren nach einer Vorschrift eingestellt wird, die dies nach dem Ermessen der Staatsanwaltschaft oder des Gerichts oder im Einvernehmen beider zulässt.
+
+(4) Ein aus einer rechtswidrigen Tat herrührender Gegenstand, der in einem Verfahren wegen des Verdachts einer in Satz 3 genannten Straftat sichergestellt worden ist, soll auch dann selbständig eingezogen werden, wenn der von der Sicherstellung Betroffene nicht wegen der Straftat verfolgt oder verurteilt werden kann. Wird die Einziehung eines Gegenstandes angeordnet, so geht das Eigentum an der Sache oder das Recht mit der Rechtskraft der Entscheidung auf den Staat über; § 75 Absatz 3 gilt entsprechend. Straftaten im Sinne des Satzes 1 sind
 
 1.  
-die Verfolgung der Straftat verjährt ist oder
+aus diesem Gesetz:
+
+a)  
+Vorbereitung einer schweren staatsgefährdenden Gewalttat nach § 89a und Terrorismusfinanzierung nach § 89c Absatz 1 bis 4,
+
+b)  
+Bildung krimineller Vereinigungen nach § 129 Absatz 1 und Bildung terroristischer Vereinigungen nach § 129a Absatz 1, 2, 4, 5, jeweils auch in Verbindung mit § 129b Absatz 1,
+
+c)  
+Zuhälterei nach § 181a Absatz 1, auch in Verbindung mit Absatz 3,
+
+d)  
+Verbreitung, Erwerb und Besitz kinderpornografischer Schriften in den Fällen des § 184b Absatz 2,
+
+e)  
+gewerbs- und bandenmäßige Begehung des Menschenhandels, der Zwangsprostitution und der Zwangsarbeit nach den §§ 232 bis 232b sowie bandenmäßige Ausbeutung der Arbeitskraft und Ausbeutung unter Ausnutzung einer Freiheitsberaubung nach den §§ 233 und 233a,
+
+f)  
+Geldwäsche und Verschleierung unrechtmäßig erlangter Vermögenswerte nach § 261 Absatz 1, 2 und 4,
 
 2.  
-sonst aus rechtlichen Gründen keine bestimmte Person verfolgt werden kann und das Gesetz nichts anderes bestimmt.
+aus der Abgabenordnung:
 
-Einziehung oder Unbrauchbarmachung dürfen jedoch nicht angeordnet werden, wenn Antrag, Ermächtigung oder Strafverlangen fehlen.
+a)  
+Steuerhinterziehung unter den in § 370 Absatz 3 Nummer 5 genannten Voraussetzungen,
 
-(3) Absatz 1 ist auch anzuwenden, wenn das Gericht von Strafe absieht oder wenn das Verfahren nach einer Vorschrift eingestellt wird, die dies nach dem Ermessen der Staatsanwaltschaft oder des Gerichts oder im Einvernehmen beider zuläßt.
+b)  
+gewerbsmäßiger, gewaltsamer und bandenmäßiger Schmuggel nach § 373,
+
+c)  
+Steuerhehlerei im Fall des § 374 Absatz 2,
+
+3.  
+aus dem Asylgesetz:
+
+a)  
+Verleitung zur missbräuchlichen Asylantragstellung nach § 84 Absatz 3,
+
+b)  
+gewerbs- und bandenmäßige Verleitung zur missbräuchlichen Asylantragstellung nach § 84a,
+
+4.  
+aus dem Aufenthaltsgesetz:
+
+a)  
+Einschleusen von Ausländern nach § 96 Absatz 2,
+
+b)  
+Einschleusen mit Todesfolge sowie gewerbs- und bandenmäßiges Einschleusen nach § 97,
+
+5.  
+aus dem Außenwirtschaftsgesetz:vorsätzliche Straftaten nach den §§ 17 und 18,
+
+6.  
+aus dem Betäubungsmittelgesetz:
+
+a)  
+Straftaten nach einer in § 29 Absatz 3 Satz 2 Nummer 1 in Bezug genommenen Vorschrift unter den dort genannten Voraussetzungen,
+
+b)  
+Straftaten nach den §§ 29a, 30 Absatz 1 Nummer 1, 2 und 4 sowie den §§ 30a und 30b,
+
+7.  
+aus dem Gesetz über die Kontrolle von Kriegswaffen:
+
+a)  
+Straftaten nach § 19 Absatz 1 bis 3 und § 20 Absatz 1 und 2 sowie § 20a Absatz 1 bis 3, jeweils auch in Verbindung mit § 21,
+
+b)  
+Straftaten nach § 22a Absatz 1 bis 3,
+
+8.  
+aus dem Waffengesetz:
+
+a)  
+Straftaten nach § 51 Absatz 1 bis 3,
+
+b)  
+Straftaten nach § 52 Absatz 1 Nummer 1 und 2 Buchstabe c und d sowie Absatz 5 und 6.
+
+### § 76b Verjährung der Einziehung von Taterträgen und des Wertes von Taterträgen
+
+(1) Die erweiterte und die selbständige Einziehung des Tatertrages oder des Wertes des Tatertrages nach den §§ 73a und 76a verjähren in 30 Jahren. Die Verjährung beginnt mit der Beendigung der rechtswidrigen Tat, durch oder für die der Täter oder Teilnehmer oder der andere im Sinne des § 73b etwas erlangt hat. Die §§ 78b und 78c gelten entsprechend.
+
+(2) In den Fällen des § 78 Absatz 2 und des § 5 des Völkerstrafgesetzbuches verjähren die erweiterte und die selbständige Einziehung des Tatertrages oder des Wertes des Tatertrages nach den §§ 73a und 76a nicht.
 
 Vierter Abschnitt Strafantrag, Ermächtigung, Strafverlangen
 -----------------------------------------------------------
@@ -2636,7 +2767,7 @@ Erster Titel Verfolgungsverjährung
 
 ### § 78 Verjährungsfrist
 
-(1) Die Verjährung schließt die Ahndung der Tat und die Anordnung von Maßnahmen (§ 11 Abs. 1 Nr. 8) aus. § 76a Abs. 2 Satz 1 Nr. 1 bleibt unberührt.
+(1) Die Verjährung schließt die Ahndung der Tat und die Anordnung von Maßnahmen (§ 11 Abs. 1 Nr. 8) aus. § 76a Absatz 2 bleibt unberührt.
 
 (2) Verbrechen nach § 211 (Mord) verjähren nicht.
 
@@ -2668,7 +2799,7 @@ Die Verjährung beginnt, sobald die Tat beendet ist. Tritt ein zum Tatbestand ge
 (1) Die Verjährung ruht
 
 1.  
-bis zur Vollendung des 30. Lebensjahres des Opfers bei Straftaten nach den §§ 174 bis 174c, 176 bis 179, 180 Absatz 3, §§ 182, 225, 226a und 237,
+bis zur Vollendung des 30. Lebensjahres des Opfers bei Straftaten nach den §§ 174 bis 174c, 176 bis 178, 180 Absatz 3, §§ 182, 225, 226a und 237,
 
 2.  
 solange nach dem Gesetz die Verfolgung nicht begonnen oder nicht fortgesetzt werden kann; dies gilt nicht, wenn die Tat nur deshalb nicht verfolgt werden kann, weil Antrag, Ermächtigung oder Strafverlangen fehlen.
@@ -2791,7 +2922,7 @@ fünf Jahre in den sonstigen Fällen der Führungsaufsicht sowie bei der ersten 
 2.  
 zehn Jahre bei den übrigen Maßnahmen.
 
-(5) Ist auf Freiheitsstrafe und Geldstrafe zugleich oder ist neben einer Strafe auf eine freiheitsentziehende Maßregel, auf Verfall, Einziehung oder Unbrauchbarmachung erkannt, so verjährt die Vollstreckung der einen Strafe oder Maßnahme nicht früher als die der anderen. Jedoch hindert eine zugleich angeordnete Sicherungsverwahrung die Verjährung der Vollstreckung von Strafen oder anderen Maßnahmen nicht.
+(5) Ist auf Freiheitsstrafe und Geldstrafe zugleich oder ist neben einer Strafe auf eine freiheitsentziehende Maßregel, auf Einziehung oder Unbrauchbarmachung erkannt, so verjährt die Vollstreckung der einen Strafe oder Maßnahme nicht früher als die der anderen. Jedoch hindert eine zugleich angeordnete Sicherungsverwahrung die Verjährung der Vollstreckung von Strafen oder anderen Maßnahmen nicht.
 
 (6) Die Verjährung beginnt mit der Rechtskraft der Entscheidung.
 
@@ -2812,7 +2943,7 @@ b)
 Aussetzung zur Bewährung durch richterliche Entscheidung oder im Gnadenweg oder
 
 c)  
-Zahlungserleichterung bei Geldstrafe, Verfall oder Einziehung
+Zahlungserleichterung bei Geldstrafe oder Einziehung
 
 bewilligt ist,
 
@@ -2838,13 +2969,11 @@ Erster Titel Friedensverrat
 
 ### 
 
-### § 80 Vorbereitung eines Angriffskrieges
+### § 80 (weggefallen)
 
-Wer einen Angriffskrieg (Artikel 26 Abs. 1 des Grundgesetzes), an dem die Bundesrepublik Deutschland beteiligt sein soll, vorbereitet und dadurch die Gefahr eines Krieges für die Bundesrepublik Deutschland herbeiführt, wird mit lebenslanger Freiheitsstrafe oder mit Freiheitsstrafe nicht unter zehn Jahren bestraft.
+### § 80a Aufstacheln zum Verbrechen der Aggression
 
-### § 80a Aufstacheln zum Angriffskrieg
-
-Wer im räumlichen Geltungsbereich dieses Gesetzes öffentlich, in einer Versammlung oder durch Verbreiten von Schriften (§ 11 Abs. 3) zum Angriffskrieg (§ 80) aufstachelt, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
+Wer im räumlichen Geltungsbereich dieses Gesetzes öffentlich, in einer Versammlung oder durch Verbreiten von Schriften (§ 11 Abs. 3) zum Verbrechen der Aggression (§ 13 des Völkerstrafgesetzbuches) aufstachelt, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
 
 Zweiter Titel Hochverrat
 ------------------------
@@ -3057,7 +3186,7 @@ Gegenstände oder Stoffe sich verschafft oder verwahrt, die für die Herstellung
 
 (5) In minder schweren Fällen ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
-(6) Das Gericht kann Führungsaufsicht anordnen (§ 68 Abs. 1); § 73d ist anzuwenden.
+(6) Das Gericht kann Führungsaufsicht anordnen (§ 68 Abs. 1).
 
 (7) Das Gericht kann die Strafe nach seinem Ermessen mildern (§ 49 Abs. 2) oder von einer Bestrafung nach dieser Vorschrift absehen, wenn der Täter freiwillig die weitere Vorbereitung der schweren staatsgefährdenden Gewalttat aufgibt und eine von ihm verursachte und erkannte Gefahr, dass andere diese Tat weiter vorbereiten oder sie ausführen, abwendet oder wesentlich mindert oder wenn er freiwillig die Vollendung dieser Tat verhindert. Wird ohne Zutun des Täters die bezeichnete Gefahr abgewendet oder wesentlich gemindert oder die Vollendung der schweren staatsgefährdenden Gewalttat verhindert, genügt sein freiwilliges und ernsthaftes Bemühen, dieses Ziel zu erreichen.
 
@@ -3375,7 +3504,7 @@ Gegenstände, die durch die Tat hervorgebracht oder zu ihrer Begehung oder Vorbe
 2.  
 Gegenstände, die Staatsgeheimnisse sind, und Gegenstände der in § 100a bezeichneten Art, auf die sich die Tat bezieht,
 
-eingezogen werden. § 74a ist anzuwenden. Gegenstände der in Satz 1 Nr. 2 bezeichneten Art werden auch ohne die Voraussetzungen des § 74 Abs. 2 eingezogen, wenn dies erforderlich ist, um die Gefahr eines schweren Nachteils für die äußere Sicherheit der Bundesrepublik Deutschland abzuwenden; dies gilt auch dann, wenn der Täter ohne Schuld gehandelt hat.
+eingezogen werden. § 74a ist anzuwenden. Gegenstände der in Satz 1 Nr. 2 bezeichneten Art werden auch ohne die Voraussetzungen des § 74 Absatz 3 Satz 1 und des § 74b eingezogen, wenn dies erforderlich ist, um die Gefahr eines schweren Nachteils für die äußere Sicherheit der Bundesrepublik Deutschland abzuwenden; dies gilt auch dann, wenn der Täter ohne Schuld gehandelt hat.
 
 Dritter Abschnitt Straftaten gegen ausländische Staaten
 -------------------------------------------------------
@@ -3647,7 +3776,7 @@ Gegenstände, die durch die Tat hervorgebracht oder zu ihrer Begehung oder Vorbe
 2.  
 Abbildungen, Beschreibungen und Aufnahmen, auf die sich eine Straftat nach § 109g bezieht,
 
-eingezogen werden. § 74a ist anzuwenden. Gegenstände der in Satz 1 Nr. 2 bezeichneten Art werden auch ohne die Voraussetzungen des § 74 Abs. 2 eingezogen, wenn das Interesse der Landesverteidigung es erfordert; dies gilt auch dann, wenn der Täter ohne Schuld gehandelt hat.
+eingezogen werden. § 74a ist anzuwenden. Gegenstände der in Satz 1 Nr. 2 bezeichneten Art werden auch ohne die Voraussetzungen des § 74 Absatz 3 Satz 1 und des § 74b eingezogen, wenn das Interesse der Landesverteidigung es erfordert; dies gilt auch dann, wenn der Täter ohne Schuld gehandelt hat.
 
 Sechster Abschnitt Widerstand gegen die Staatsgewalt
 ----------------------------------------------------
@@ -3670,29 +3799,40 @@ Sechster Abschnitt Widerstand gegen die Staatsgewalt
 
 ### § 113 Widerstand gegen Vollstreckungsbeamte
 
-(1) Wer einem Amtsträger oder Soldaten der Bundeswehr, der zur Vollstreckung von Gesetzen, Rechtsverordnungen, Urteilen, Gerichtsbeschlüssen oder Verfügungen berufen ist, bei der Vornahme einer solchen Diensthandlung mit Gewalt oder durch Drohung mit Gewalt Widerstand leistet oder ihn dabei tätlich angreift, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+(1) Wer einem Amtsträger oder Soldaten der Bundeswehr, der zur Vollstreckung von Gesetzen, Rechtsverordnungen, Urteilen, Gerichtsbeschlüssen oder Verfügungen berufen ist, bei der Vornahme einer solchen Diensthandlung mit Gewalt oder durch Drohung mit Gewalt Widerstand leistet, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 (2) In besonders schweren Fällen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu fünf Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn
 
 1.  
-der Täter oder ein anderer Beteiligter eine Waffe oder ein anderes gefährliches Werkzeug bei sich führt, um diese oder dieses bei der Tat zu verwenden, oder
+der Täter oder ein anderer Beteiligter eine Waffe oder ein anderes gefährliches Werkzeug bei sich führt,
 
 2.  
-der Täter durch eine Gewalttätigkeit den Angegriffenen in die Gefahr des Todes oder einer schweren Gesundheitsschädigung bringt.
+der Täter durch eine Gewalttätigkeit den Angegriffenen in die Gefahr des Todes oder einer schweren Gesundheitsschädigung bringt oder
+
+3.  
+die Tat mit einem anderen Beteiligten gemeinschaftlich begangen wird.
 
 (3) Die Tat ist nicht nach dieser Vorschrift strafbar, wenn die Diensthandlung nicht rechtmäßig ist. Dies gilt auch dann, wenn der Täter irrig annimmt, die Diensthandlung sei rechtmäßig.
 
 (4) Nimmt der Täter bei Begehung der Tat irrig an, die Diensthandlung sei nicht rechtmäßig, und konnte er den Irrtum vermeiden, so kann das Gericht die Strafe nach seinem Ermessen mildern (§ 49 Abs. 2) oder bei geringer Schuld von einer Bestrafung nach dieser Vorschrift absehen. Konnte der Täter den Irrtum nicht vermeiden und war ihm nach den ihm bekannten Umständen auch nicht zuzumuten, sich mit Rechtsbehelfen gegen die vermeintlich rechtswidrige Diensthandlung zu wehren, so ist die Tat nicht nach dieser Vorschrift strafbar; war ihm dies zuzumuten, so kann das Gericht die Strafe nach seinem Ermessen mildern (§ 49 Abs. 2) oder von einer Bestrafung nach dieser Vorschrift absehen.
 
-### § 114 Widerstand gegen Personen, die Vollstreckungsbeamten gleichstehen
+### § 114 Tätlicher Angriff auf Vollstreckungsbeamte
 
-(1) Der Diensthandlung eines Amtsträgers im Sinne des § 113 stehen Vollstreckungshandlungen von Personen gleich, die die Rechte und Pflichten eines Polizeibeamten haben oder Ermittlungspersonen der Staatsanwaltschaft sind, ohne Amtsträger zu sein.
+(1) Wer einen Amtsträger oder Soldaten der Bundeswehr, der zur Vollstreckung von Gesetzen, Rechtsverordnungen, Urteilen, Gerichtsbeschlüssen oder Verfügungen berufen ist, bei einer Diensthandlung tätlich angreift, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
 
-(2) § 113 gilt entsprechend zum Schutz von Personen, die zur Unterstützung bei der Diensthandlung zugezogen sind.
+(2) § 113 Absatz 2 gilt entsprechend.
 
-(3) Nach § 113 wird auch bestraft, wer bei Unglücksfällen oder gemeiner Gefahr oder Not Hilfeleistende der Feuerwehr, des Katastrophenschutzes oder eines Rettungsdienstes durch Gewalt oder durch Drohung mit Gewalt behindert oder sie dabei tätlich angreift.
+(3) § 113 Absatz 3 und 4 gilt entsprechend, wenn die Diensthandlung eine Vollstreckungshandlung im Sinne des § 113 Absatz 1 ist.
 
-### (XXXX) §§ 115 bis 119 (weggefallen)
+### § 115 Widerstand gegen oder tätlicher Angriff auf Personen, die Vollstreckungsbeamten gleichstehen
+
+(1) Zum Schutz von Personen, die die Rechte und Pflichten eines Polizeibeamten haben oder Ermittlungspersonen der Staatsanwaltschaft sind, ohne Amtsträger zu sein, gelten die §§ 113 und 114 entsprechend.
+
+(2) Zum Schutz von Personen, die zur Unterstützung bei der Diensthandlung hinzugezogen sind, gelten die §§ 113 und 114 entsprechend.
+
+(3) Nach § 113 wird auch bestraft, wer bei Unglücksfällen, gemeiner Gefahr oder Not Hilfeleistende der Feuerwehr, des Katastrophenschutzes oder eines Rettungsdienstes durch Gewalt oder durch Drohung mit Gewalt behindert. Nach § 114 wird bestraft, wer die Hilfeleistenden in diesen Situationen tätlich angreift.
+
+### (XXXX) §§ 116 bis 119 (weggefallen)
 
 ### § 120 Gefangenenbefreiung
 
@@ -3763,9 +3903,9 @@ Gewalttätigkeiten gegen Menschen oder Sachen oder
 2.  
 Bedrohungen von Menschen mit einer Gewalttätigkeit,
 
-die aus einer Menschenmenge in einer die öffentliche Sicherheit gefährdenden Weise mit vereinten Kräften begangen werden, als Täter oder Teilnehmer beteiligt oder wer auf die Menschenmenge einwirkt, um ihre Bereitschaft zu solchen Handlungen zu fördern, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht ist.
+die aus einer Menschenmenge in einer die öffentliche Sicherheit gefährdenden Weise mit vereinten Kräften begangen werden, als Täter oder Teilnehmer beteiligt oder wer auf die Menschenmenge einwirkt, um ihre Bereitschaft zu solchen Handlungen zu fördern, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
-(2) Soweit die in Absatz 1 Nr. 1, 2 bezeichneten Handlungen in § 113 mit Strafe bedroht sind, gilt § 113 Abs. 3, 4 sinngemäß.
+(2) Soweit die in Absatz 1 Nr. 1, 2 bezeichneten Handlungen in § 113 mit Strafe bedroht sind, gilt § 113 Abs. 3, 4 sinngemäß. Dies gilt auch in Fällen des § 114, wenn die Diensthandlung eine Vollstreckungshandlung im Sinne des § 113 Absatz 1 ist.
 
 ### § 125a Besonders schwerer Fall des Landfriedensbruchs
 
@@ -3775,7 +3915,7 @@ In besonders schweren Fällen des § 125 Abs. 1 ist die Strafe Freiheitsstrafe v
 eine Schußwaffe bei sich führt,
 
 2.  
-eine andere Waffe oder ein anderes gefährliches Werkzeug bei sich führt, um diese oder dieses bei der Tat zu verwenden,
+eine andere Waffe oder ein anderes gefährliches Werkzeug bei sich führt,
 
 3.  
 durch eine Gewalttätigkeit einen anderen in die Gefahr des Todes oder einer schweren Gesundheitsschädigung bringt oder
@@ -3899,11 +4039,11 @@ zu begehen, oder wer sich an einer solchen Vereinigung als Mitglied beteiligt, w
 
 (9) In den Fällen der Absätze 1, 2, 4 und 5 kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
 
-### § 129b Kriminelle und terroristische Vereinigungen im Ausland; Erweiterter Verfall und Einziehung
+### § 129b Kriminelle und terroristische Vereinigungen im Ausland; Einziehung
 
 (1) Die §§ 129 und 129a gelten auch für Vereinigungen im Ausland. Bezieht sich die Tat auf eine Vereinigung außerhalb der Mitgliedstaaten der Europäischen Union, so gilt dies nur, wenn sie durch eine im räumlichen Geltungsbereich dieses Gesetzes ausgeübte Tätigkeit begangen wird oder wenn der Täter oder das Opfer Deutscher ist oder sich im Inland befindet. In den Fällen des Satzes 2 wird die Tat nur mit Ermächtigung des Bundesministeriums der Justiz und für Verbraucherschutz verfolgt. Die Ermächtigung kann für den Einzelfall oder allgemein auch für die Verfolgung künftiger Taten erteilt werden, die sich auf eine bestimmte Vereinigung beziehen. Bei der Entscheidung über die Ermächtigung zieht das Ministerium in Betracht, ob die Bestrebungen der Vereinigung gegen die Grundwerte einer die Würde des Menschen achtenden staatlichen Ordnung oder gegen das friedliche Zusammenleben der Völker gerichtet sind und bei Abwägung aller Umstände als verwerflich erscheinen.
 
-(2) In den Fällen der §§ 129 und 129a, jeweils auch in Verbindung mit Absatz 1, sind die §§ 73d und 74a anzuwenden.
+(2) In den Fällen der §§ 129 und 129a, jeweils auch in Verbindung mit Absatz 1, ist § 74a anzuwenden.
 
 ### § 130 Volksverhetzung
 
@@ -4061,7 +4201,7 @@ Wer wissentlich ein dienstliches Schriftstück, das zur Bekanntmachung öffentli
 (1) Wer von dem Vorhaben oder der Ausführung
 
 1.  
-einer Vorbereitung eines Angriffskrieges (§ 80),
+(weggefallen)
 
 2.  
 eines Hochverrats in den Fällen der §§ 81 bis 83 Abs. 1,
@@ -4073,7 +4213,7 @@ eines Landesverrats oder einer Gefährdung der äußeren Sicherheit in den Fäll
 einer Geld- oder Wertpapierfälschung in den Fällen der §§ 146, 151, 152 oder einer Fälschung von Zahlungskarten mit Garantiefunktion und Vordrucken für Euroschecks in den Fällen des § 152b Abs. 1 bis 3,
 
 5.  
-eines Mordes (§ 211) oder Totschlags (§ 212) oder eines Völkermordes (§ 6 des Völkerstrafgesetzbuches) oder eines Verbrechens gegen die Menschlichkeit (§ 7 des Völkerstrafgesetzbuches) oder eines Kriegsverbrechens (§§ 8, 9, 10, 11 oder 12 des Völkerstrafgesetzbuches),
+eines Mordes (§ 211) oder Totschlags (§ 212) oder eines Völkermordes (§ 6 des Völkerstrafgesetzbuches) oder eines Verbrechens gegen die Menschlichkeit (§ 7 des Völkerstrafgesetzbuches) oder eines Kriegsverbrechens (§§ 8, 9, 10, 11 oder 12 des Völkerstrafgesetzbuches) oder eines Verbrechens der Aggression (§ 13 des Völkerstrafgesetzbuches),
 
 6.  
 einer Straftat gegen die persönliche Freiheit in den Fällen des § 232 Absatz 3 Satz 2, des § 232a Absatz 3, 4 oder 5, des § 232b Absatz 3 oder 4, des § 233a Absatz 3 oder 4, jeweils soweit es sich um Verbrechen handelt, der §§ 234, 234a, 239a oder 239b,
@@ -4121,7 +4261,7 @@ handelt. Unter denselben Voraussetzungen ist ein Rechtsanwalt, Verteidiger, Arzt
 
 ### § 140 Belohnung und Billigung von Straftaten
 
-Wer eine der in § 138 Abs. 1 Nr. 1 bis 4 und in § 126 Abs. 1 genannten rechtswidrigen Taten oder eine rechtswidrige Tat nach § 176 Abs. 3, nach den §§ 176a und 176b, nach den §§ 177 und 178 oder nach § 179 Abs. 3, 5 und 6, nachdem sie begangen oder in strafbarer Weise versucht worden ist,
+Wer eine der in § 138 Absatz 1 Nummer 2 bis 4 und 5 letzte Alternative in § 126 Abs. 1 genannten rechtswidrigen Taten oder eine rechtswidrige Tat nach § 176 Abs. 3, nach den §§ 176a und 176b, nach § 177 Absatz 4 bis 8 oder nach § 178, nachdem sie begangen oder in strafbarer Weise versucht worden ist,
 
 1.  
 belohnt oder
@@ -4312,11 +4452,9 @@ die Fälschungsmittel, soweit sie noch vorhanden und zur Fälschung brauchbar si
 
 (3) Wird ohne Zutun des Täters die Gefahr, daß andere die Tat weiter vorbereiten oder sie ausführen, abgewendet oder die Vollendung der Tat verhindert, so genügt an Stelle der Voraussetzungen des Absatzes 2 Nr. 1 das freiwillige und ernsthafte Bemühen des Täters, dieses Ziel zu erreichen.
 
-### § 150 Erweiterter Verfall und Einziehung
+### § 150 Einziehung
 
-(1) In den Fällen der §§ 146, 148 Abs. 1, der Vorbereitung einer Geldfälschung nach § 149 Abs. 1, der §§ 152a und 152b ist § 73d anzuwenden, wenn der Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
-
-(2) Ist eine Straftat nach diesem Abschnitt begangen worden, so werden das falsche Geld, die falschen oder entwerteten Wertzeichen und die in § 149 bezeichneten Fälschungsmittel eingezogen.
+Ist eine Straftat nach diesem Abschnitt begangen worden, so werden das falsche Geld, die falschen oder entwerteten Wertzeichen und die in § 149 bezeichneten Fälschungsmittel eingezogen.
 
 ### § 151 Wertpapiere
 
@@ -4365,7 +4503,7 @@ die von einem Kreditinstitut oder Finanzdienstleistungsinstitut herausgegeben wu
 2.  
 durch Ausgestaltung oder Codierung besonders gegen Nachahmung gesichert sind.
 
-(5) § 149, soweit er sich auf die Fälschung von Wertzeichen bezieht, und § 150 Abs. 2 gelten entsprechend.
+(5) § 149, soweit er sich auf die Fälschung von Wertzeichen bezieht, und § 150 gelten entsprechend.
 
 ### § 152b Fälschung von Zahlungskarten mit Garantiefunktion und Vordrucken für Euroschecks
 
@@ -4383,7 +4521,7 @@ die es ermöglichen, den Aussteller im Zahlungsverkehr zu einer garantierten Zah
 2.  
 durch Ausgestaltung oder Codierung besonders gegen Nachahmung gesichert sind.
 
-(5) § 149, soweit er sich auf die Fälschung von Geld bezieht, und § 150 Abs. 2 gelten entsprechend.
+(5) § 149, soweit er sich auf die Fälschung von Geld bezieht, und § 150 gelten entsprechend.
 
 Neunter Abschnitt Falsche uneidliche Aussage und Meineid
 --------------------------------------------------------
@@ -4680,30 +4818,51 @@ der Täter das Kind durch die Tat in die Gefahr einer schweren Gesundheitsschäd
 
 Verursacht der Täter durch den sexuellen Mißbrauch (§§ 176 und 176a) wenigstens leichtfertig den Tod des Kindes, so ist die Strafe lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.
 
-### § 177 Sexuelle Nötigung; Vergewaltigung
+### § 177 Sexueller Übergriff; sexuelle Nötigung; Vergewaltigung
 
-(1) Wer eine andere Person
+(1) Wer gegen den erkennbaren Willen einer anderen Person sexuelle Handlungen an dieser Person vornimmt oder von ihr vornehmen lässt oder diese Person zur Vornahme oder Duldung sexueller Handlungen an oder von einem Dritten bestimmt, wird mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren bestraft.
+
+(2) Ebenso wird bestraft, wer sexuelle Handlungen an einer anderen Person vornimmt oder von ihr vornehmen lässt oder diese Person zur Vornahme oder Duldung sexueller Handlungen an oder von einem Dritten bestimmt, wenn
 
 1.  
-mit Gewalt,
+der Täter ausnutzt, dass die Person nicht in der Lage ist, einen entgegenstehenden Willen zu bilden oder zu äußern,
 
 2.  
-durch Drohung mit gegenwärtiger Gefahr für Leib oder Leben oder
+der Täter ausnutzt, dass die Person auf Grund ihres körperlichen oder psychischen Zustands in der Bildung oder Äußerung des Willens erheblich eingeschränkt ist, es sei denn, er hat sich der Zustimmung dieser Person versichert,
 
 3.  
-unter Ausnutzung einer Lage, in der das Opfer der Einwirkung des Täters schutzlos ausgeliefert ist,
+der Täter ein Überraschungsmoment ausnutzt,
 
-nötigt, sexuelle Handlungen des Täters oder eines Dritten an sich zu dulden oder an dem Täter oder einem Dritten vorzunehmen, wird mit Freiheitsstrafe nicht unter einem Jahr bestraft.
+4.  
+der Täter eine Lage ausnutzt, in der dem Opfer bei Widerstand ein empfindliches Übel droht, oder
 
-(2) In besonders schweren Fällen ist die Strafe Freiheitsstrafe nicht unter zwei Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn
+5.  
+der Täter die Person zur Vornahme oder Duldung der sexuellen Handlung durch Drohung mit einem empfindlichen Übel genötigt hat.
+
+(3) Der Versuch ist strafbar.
+
+(4) Auf Freiheitsstrafe nicht unter einem Jahr ist zu erkennen, wenn die Unfähigkeit, einen Willen zu bilden oder zu äußern, auf einer Krankheit oder Behinderung des Opfers beruht.
+
+(5) Auf Freiheitsstrafe nicht unter einem Jahr ist zu erkennen, wenn der Täter
 
 1.  
-der Täter mit dem Opfer den Beischlaf vollzieht oder ähnliche sexuelle Handlungen an dem Opfer vornimmt oder an sich von ihm vornehmen läßt, die dieses besonders erniedrigen, insbesondere, wenn sie mit einem Eindringen in den Körper verbunden sind (Vergewaltigung), oder
+gegenüber dem Opfer Gewalt anwendet,
+
+2.  
+dem Opfer mit gegenwärtiger Gefahr für Leib oder Leben droht oder
+
+3.  
+eine Lage ausnutzt, in der das Opfer der Einwirkung des Täters schutzlos ausgeliefert ist.
+
+(6) In besonders schweren Fällen ist auf Freiheitsstrafe nicht unter zwei Jahren zu erkennen. Ein besonders schwerer Fall liegt in der Regel vor, wenn
+
+1.  
+der Täter mit dem Opfer den Beischlaf vollzieht oder vollziehen lässt oder ähnliche sexuelle Handlungen an dem Opfer vornimmt oder von ihm vornehmen lässt, die dieses besonders erniedrigen, insbesondere wenn sie mit einem Eindringen in den Körper verbunden sind (Vergewaltigung), oder
 
 2.  
 die Tat von mehreren gemeinschaftlich begangen wird.
 
-(3) Auf Freiheitsstrafe nicht unter drei Jahren ist zu erkennen, wenn der Täter
+(7) Auf Freiheitsstrafe nicht unter drei Jahren ist zu erkennen, wenn der Täter
 
 1.  
 eine Waffe oder ein anderes gefährliches Werkzeug bei sich führt,
@@ -4712,9 +4871,9 @@ eine Waffe oder ein anderes gefährliches Werkzeug bei sich führt,
 sonst ein Werkzeug oder Mittel bei sich führt, um den Widerstand einer anderen Person durch Gewalt oder Drohung mit Gewalt zu verhindern oder zu überwinden, oder
 
 3.  
-das Opfer durch die Tat in die Gefahr einer schweren Gesundheitsschädigung bringt.
+das Opfer in die Gefahr einer schweren Gesundheitsschädigung bringt.
 
-(4) Auf Freiheitsstrafe nicht unter fünf Jahren ist zu erkennen, wenn der Täter
+(8) Auf Freiheitsstrafe nicht unter fünf Jahren ist zu erkennen, wenn der Täter
 
 1.  
 bei der Tat eine Waffe oder ein anderes gefährliches Werkzeug verwendet oder
@@ -4722,51 +4881,19 @@ bei der Tat eine Waffe oder ein anderes gefährliches Werkzeug verwendet oder
 2.  
 das Opfer
 
-  
 a)  
-bei der Tat körperlich schwer mißhandelt oder
+bei der Tat körperlich schwer misshandelt oder
 
 b)  
 durch die Tat in die Gefahr des Todes bringt.
 
-(5) In minder schweren Fällen des Absatzes 1 ist auf Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, in minder schweren Fällen der Absätze 3 und 4 auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren zu erkennen.
+(9) In minder schweren Fällen der Absätze 1 und 2 ist auf Freiheitsstrafe von drei Monaten bis zu drei Jahren, in minder schweren Fällen der Absätze 4 und 5 ist auf Freiheitsstrafe von sechs Monaten bis zu zehn Jahren, in minder schweren Fällen der Absätze 7 und 8 ist auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren zu erkennen.
 
-### § 178 Sexuelle Nötigung und Vergewaltigung mit Todesfolge
+### § 178 Sexueller Übergriff, sexuelle Nötigung und Vergewaltigung mit Todesfolge
 
-Verursacht der Täter durch die sexuelle Nötigung oder Vergewaltigung (§ 177) wenigstens leichtfertig den Tod des Opfers, so ist die Strafe lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.
+Verursacht der Täter durch den sexuellen Übergriff, die sexuelle Nötigung oder Vergewaltigung (§ 177) wenigstens leichtfertig den Tod des Opfers, so ist die Strafe lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.
 
-### § 179 Sexueller Mißbrauch widerstandsunfähiger Personen
-
-(1) Wer eine andere Person, die
-
-1.  
-wegen einer geistigen oder seelischen Krankheit oder Behinderung einschließlich einer Suchtkrankheit oder wegen einer tiefgreifenden Bewußtseinsstörung oder
-
-2.  
-körperlich
-
-zum Widerstand unfähig ist, dadurch mißbraucht, daß er unter Ausnutzung der Widerstandsunfähigkeit sexuelle Handlungen an ihr vornimmt oder an sich von ihr vornehmen läßt, wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft.
-
-(2) Ebenso wird bestraft, wer eine widerstandsunfähige Person (Absatz 1) dadurch mißbraucht, daß er sie unter Ausnutzung der Widerstandsunfähigkeit dazu bestimmt, sexuelle Handlungen an einem Dritten vorzunehmen oder von einem Dritten an sich vornehmen zu lassen.
-
-(3) In besonders schweren Fällen ist auf Freiheitsstrafe nicht unter einem Jahr zu erkennen.
-
-(4) Der Versuch ist strafbar.
-
-(5) Auf Freiheitsstrafe nicht unter zwei Jahren ist zu erkennen, wenn
-
-1.  
-der Täter mit dem Opfer den Beischlaf vollzieht oder ähnliche sexuelle Handlungen an ihm vornimmt oder an sich von ihm vornehmen läßt, die mit einem Eindringen in den Körper verbunden sind,
-
-2.  
-die Tat von mehreren gemeinschaftlich begangen wird oder
-
-3.  
-der Täter das Opfer durch die Tat in die Gefahr einer schweren Gesundheitsschädigung oder einer erheblichen Schädigung der körperlichen oder seelischen Entwicklung bringt.
-
-(6) In minder schweren Fällen des Absatzes 5 ist auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren zu erkennen.
-
-(7) § 177 Abs. 4 Nr. 2 und § 178 gelten entsprechend.
+### § 179 (weggefallen)
 
 ### § 180 Förderung sexueller Handlungen Minderjähriger
 
@@ -4820,9 +4947,7 @@ und im Hinblick darauf Beziehungen zu ihr unterhält, die über den Einzelfall h
 
 In den Fällen der §§ 174 bis 174c, 176 bis 180, 181a und 182 kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
 
-### § 181c Vermögensstrafe und Erweiterter Verfall
-
-In den Fällen des § 181a Abs. 1 Nr. 2 sind die §§ 43a, 73d anzuwenden, wenn der Täter als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat. § 73d ist auch dann anzuwenden, wenn der Täter gewerbsmäßig handelt.
+### § 181c (weggefallen)
 
 ### § 182 Sexueller Mißbrauch von Jugendlichen
 
@@ -4972,7 +5097,7 @@ Aufgaben, die sich aus Vereinbarungen mit einer zuständigen staatlichen Stelle 
 3.  
 dienstliche oder berufliche Pflichten.
 
-(6) In den Fällen des Absatzes 2 ist § 73d anzuwenden. Gegenstände, auf die sich eine Straftat nach Absatz 1 Nummer 2 oder 3 oder Absatz 3 bezieht, werden eingezogen. § 74a ist anzuwenden.
+(6) Gegenstände, auf die sich eine Straftat nach Absatz 1 Nummer 2 oder 3 oder Absatz 3 bezieht, werden eingezogen. § 74a ist anzuwenden.
 
 ### § 184c Verbreitung, Erwerb und Besitz jugendpornographischer Schriften
 
@@ -5010,7 +5135,7 @@ eine jugendpornographische Schrift herstellt, bezieht, liefert, vorrätig hält,
 
 (1) Nach den §§ 184 bis 184c wird auch bestraft, wer einen pornographischen Inhalt mittels Rundfunk oder Telemedien einer anderen Person oder der Öffentlichkeit zugänglich macht. In den Fällen des § 184 Absatz 1 ist Satz 1 bei einer Verbreitung mittels Telemedien nicht anzuwenden, wenn durch technische oder sonstige Vorkehrungen sichergestellt ist, dass der pornographische Inhalt Personen unter achtzehn Jahren nicht zugänglich ist. § 184b Absatz 5 und 6 gilt entsprechend.
 
-(2) Nach § 184b Absatz 3 wird auch bestraft, wer es unternimmt, einen kinderpornographischen Inhalt mittels Telemedien abzurufen. Nach § 184c Absatz 3 wird auch bestraft, wer es unternimmt, einen jugendpornographischen Inhalt mittels Telemedien abzurufen; § 184c Absatz 4 gilt entsprechend. § 184b Absatz 5 und 6 Satz 2 gilt entsprechend.
+(2) Nach § 184b Absatz 3 wird auch bestraft, wer es unternimmt, einen kinderpornographischen Inhalt mittels Telemedien abzurufen. Nach § 184c Absatz 3 wird auch bestraft, wer es unternimmt, einen jugendpornographischen Inhalt mittels Telemedien abzurufen; § 184c Absatz 4 gilt entsprechend. § 184b Absatz 5 und 6 Satz 1 gilt entsprechend.
 
 ### § 184e Veranstaltung und Besuch kinder- und jugendpornographischer Darbietungen
 
@@ -5043,6 +5168,18 @@ sexuelle Handlungennur solche, die im Hinblick auf das jeweils geschützte Recht
 
 2.  
 sexuelle Handlungen vor einer anderen Personnur solche, die vor einer anderen Person vorgenommen werden, die den Vorgang wahrnimmt.
+
+### § 184i Sexuelle Belästigung
+
+(1) Wer eine andere Person in sexuell bestimmter Weise körperlich berührt und dadurch belästigt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft, wenn nicht die Tat in anderen Vorschriften mit schwererer Strafe bedroht ist.
+
+(2) In besonders schweren Fällen ist die Freiheitsstrafe von drei Monaten bis zu fünf Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn die Tat von mehreren gemeinschaftlich begangen wird.
+
+(3) Die Tat wird nur auf Antrag verfolgt, es sei denn, dass die Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten hält.
+
+### § 184j Straftaten aus Gruppen
+
+Wer eine Straftat dadurch fördert, dass er sich an einer Personengruppe beteiligt, die eine andere Person zur Begehung einer Straftat an ihr bedrängt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft, wenn von einem Beteiligten der Gruppe eine Straftat nach den §§ 177 oder 184i begangen wird und die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht ist.
 
 Vierzehnter Abschnitt Beleidigung
 ---------------------------------
@@ -5402,7 +5539,7 @@ seit der Empfängnis nicht mehr als zwölf Wochen vergangen sind.
 
 (2) Der mit Einwilligung der Schwangeren von einem Arzt vorgenommene Schwangerschaftsabbruch ist nicht rechtswidrig, wenn der Abbruch der Schwangerschaft unter Berücksichtigung der gegenwärtigen und zukünftigen Lebensverhältnisse der Schwangeren nach ärztlicher Erkenntnis angezeigt ist, um eine Gefahr für das Leben oder die Gefahr einer schwerwiegenden Beeinträchtigung des körperlichen oder seelischen Gesundheitszustandes der Schwangeren abzuwenden, und die Gefahr nicht auf eine andere für sie zumutbare Weise abgewendet werden kann.
 
-(3) Die Voraussetzungen des Absatzes 2 gelten bei einem Schwangerschaftsabbruch, der mit Einwilligung der Schwangeren von einem Arzt vorgenommen wird, auch als erfüllt, wenn nach ärztlicher Erkenntnis an der Schwangeren eine rechtswidrige Tat nach den §§ 176 bis 179 des Strafgesetzbuches begangen worden ist, dringende Gründe für die Annahme sprechen, daß die Schwangerschaft auf der Tat beruht, und seit der Empfängnis nicht mehr als zwölf Wochen vergangen sind.
+(3) Die Voraussetzungen des Absatzes 2 gelten bei einem Schwangerschaftsabbruch, der mit Einwilligung der Schwangeren von einem Arzt vorgenommen wird, auch als erfüllt, wenn nach ärztlicher Erkenntnis an der Schwangeren eine rechtswidrige Tat nach den §§ 176 bis 178 des Strafgesetzbuches begangen worden ist, dringende Gründe für die Annahme sprechen, daß die Schwangerschaft auf der Tat beruht, und seit der Empfängnis nicht mehr als zwölf Wochen vergangen sind.
 
 (4) Die Schwangere ist nicht nach § 218 strafbar, wenn der Schwangerschaftsabbruch nach Beratung (§ 219) von einem Arzt vorgenommen worden ist und seit der Empfängnis nicht mehr als zweiundzwanzig Wochen verstrichen sind. Das Gericht kann von Strafe nach § 218 absehen, wenn die Schwangere sich zur Zeit des Eingriffs in besonderer Bedrängnis befunden hat.
 
@@ -5818,11 +5955,9 @@ bei der Begehung von mit Strafe bedrohten Handlungen durch diese Person.
 
 (4) In minder schweren Fällen des Absatzes 1 ist auf Freiheitsstrafe von drei Monaten bis zu fünf Jahren, in minder schweren Fällen des Absatzes 3 auf Freiheitsstrafe von sechs Monaten bis zu zehn Jahren zu erkennen.
 
-### § 233b Führungsaufsicht, Erweiterter Verfall
+### § 233b Führungsaufsicht
 
-(1) In den Fällen der §§ 232, 232a Absatz 1 bis 5, der §§ 232b, 233 Absatz 1 bis 4 und des § 233a kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
-
-(2) In den Fällen der §§ 232, 232a Absatz 1 bis 5 und der §§ 232b bis 233a ist § 73d anzuwenden, wenn der Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
+In den Fällen der §§ 232, 232a Absatz 1 bis 5, der §§ 232b, 233 Absatz 1 bis 4 und des § 233a kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
 
 ### § 234 Menschenraub
 
@@ -5912,24 +6047,28 @@ das Kind oder die vermittelte Person durch die Tat in die Gefahr einer erheblich
 
 ### § 238 Nachstellung
 
-(1) Wer einem Menschen unbefugt nachstellt, indem er beharrlich
+(1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer einer anderen Person in einer Weise unbefugt nachstellt, die geeignet ist, deren Lebensgestaltung schwerwiegend zu beeinträchtigen, indem er beharrlich
 
 1.  
-seine räumliche Nähe aufsucht,
+die räumliche Nähe dieser Person aufsucht,
 
 2.  
-unter Verwendung von Telekommunikationsmitteln oder sonstigen Mitteln der Kommunikation oder über Dritte Kontakt zu ihm herzustellen versucht,
+unter Verwendung von Telekommunikationsmitteln oder sonstigen Mitteln der Kommunikation oder über Dritte Kontakt zu dieser Person herzustellen versucht,
 
 3.  
-unter missbräuchlicher Verwendung von dessen personenbezogenen Daten Bestellungen von Waren oder Dienstleistungen für ihn aufgibt oder Dritte veranlasst, mit diesem Kontakt aufzunehmen,
+unter missbräuchlicher Verwendung von personenbezogenen Daten dieser Person
+
+a)  
+Bestellungen von Waren oder Dienstleistungen für sie aufgibt oder
+
+b)  
+Dritte veranlasst, Kontakt mit ihr aufzunehmen, oder
 
 4.  
-ihn mit der Verletzung von Leben, körperlicher Unversehrtheit, Gesundheit oder Freiheit seiner selbst oder einer ihm nahe stehenden Person bedroht oder
+diese Person mit der Verletzung von Leben, körperlicher Unversehrtheit, Gesundheit oder Freiheit ihrer selbst, eines ihrer Angehörigen oder einer anderen ihr nahestehenden Person bedroht oder
 
 5.  
-eine andere vergleichbare Handlung vornimmt
-
-und dadurch seine Lebensgestaltung schwerwiegend beeinträchtigt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+eine andere vergleichbare Handlung vornimmt.
 
 (2) Auf Freiheitsstrafe von drei Monaten bis zu fünf Jahren ist zu erkennen, wenn der Täter das Opfer, einen Angehörigen des Opfers oder eine andere dem Opfer nahe stehende Person durch die Tat in die Gefahr des Todes oder einer schweren Gesundheitsschädigung bringt.
 
@@ -5986,12 +6125,9 @@ In den Fällen der §§ 239a und 239b kann das Gericht Führungsaufsicht anordne
 (4) In besonders schweren Fällen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu fünf Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn der Täter
 
 1.  
-eine andere Person zu einer sexuellen Handlung nötigt,
-
-2.  
 eine Schwangere zum Schwangerschaftsabbruch nötigt oder
 
-3.  
+2.  
 seine Befugnisse oder seine Stellung als Amtsträger mißbraucht.
 
 ### § 241 Bedrohung
@@ -6071,7 +6207,7 @@ einen Diebstahl begeht, bei dem er zur Ausführung der Tat in eine Wohnung einbr
 
 (3) In minder schweren Fällen ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
-(4) In den Fällen des Absatzes 1 Nummer 2 ist § 73d anzuwenden.
+(4) (weggefallen)
 
 ### § 244a Schwerer Bandendiebstahl
 
@@ -6079,7 +6215,7 @@ einen Diebstahl begeht, bei dem er zur Ausführung der Tat in eine Wohnung einbr
 
 (2) In minder schweren Fällen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu fünf Jahren.
 
-(3) Die §§ 43a, 73d sind anzuwenden.
+(3) (weggefallen)
 
 ### § 245 Führungsaufsicht
 
@@ -6200,11 +6336,9 @@ Wer, bei einem Diebstahl auf frischer Tat betroffen, gegen eine Person Gewalt ve
 
 Wird die Erpressung durch Gewalt gegen eine Person oder unter Anwendung von Drohungen mit gegenwärtiger Gefahr für Leib oder Leben begangen, so ist der Täter gleich einem Räuber zu bestrafen.
 
-### § 256 Führungsaufsicht, Vermögensstrafe und Erweiterter Verfall
+### § 256 Führungsaufsicht
 
-(1) In den Fällen der §§ 249 bis 255 kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
-
-(2) In den Fällen der §§ 253 und 255 sind die §§ 43a, 73d anzuwenden, wenn der Täter als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat. § 73d ist auch dann anzuwenden, wenn der Täter gewerbsmäßig handelt.
+In den Fällen der §§ 249 bis 255 kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
 
 Einundzwanzigster Abschnitt Begünstigung und Hehlerei
 -----------------------------------------------------
@@ -6265,7 +6399,7 @@ begeht.
 
 (2) Der Versuch ist strafbar.
 
-(3) In den Fällen des Absatzes 1 Nr. 2 sind die §§ 43a, 73d anzuwenden. § 73d ist auch in den Fällen des Absatzes 1 Nr. 1 anzuwenden.
+(3) (weggefallen)
 
 ### § 260a Gewerbsmäßige Bandenhehlerei
 
@@ -6273,11 +6407,11 @@ begeht.
 
 (2) In minder schweren Fällen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu fünf Jahren.
 
-(3) Die §§ 43a, 73d sind anzuwenden.
+(3) (weggefallen)
 
 ### § 261 Geldwäsche; Verschleierung unrechtmäßig erlangter Vermögenswerte
 
-(1) Wer einen Gegenstand, der aus einer in Satz 2 genannten rechtswidrigen Tat herrührt, verbirgt, dessen Herkunft verschleiert oder die Ermittlung der Herkunft, das Auffinden, den Verfall, die Einziehung oder die Sicherstellung eines solchen Gegenstandes vereitelt oder gefährdet, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft. Rechtswidrige Taten im Sinne des Satzes 1 sind
+(1) Wer einen Gegenstand, der aus einer in Satz 2 genannten rechtswidrigen Tat herrührt, verbirgt, dessen Herkunft verschleiert oder die Ermittlung der Herkunft, das Auffinden, die Einziehung oder die Sicherstellung eines solchen Gegenstandes vereitelt oder gefährdet, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft. Rechtswidrige Taten im Sinne des Satzes 1 sind
 
 1.  
 Verbrechen,
@@ -6298,7 +6432,7 @@ Vergehen nach § 373 und nach § 374 Abs. 2 der Abgabenordnung, jeweils auch in 
 Vergehen
 
 a)  
-nach den §§ 152a, 181a, 232 Absatz 1 bis 3 Satz 1 und Absatz 4, § 232a Absatz 1 und 2, § 232b Absatz 1 und 2, § 233 Absatz 1 bis 3, § 233a Absatz 1 und 2, den §§ 242, 246, 253, 259, 263 bis 264, 266, 267, 269, 271, 284, 299, 326 Abs. 1, 2 und 4, § 328 Abs. 1, 2 und 4 sowie § 348,
+nach den §§ 152a, 181a, 232 Absatz 1 bis 3 Satz 1 und Absatz 4, § 232a Absatz 1 und 2, § 232b Absatz 1 und 2, § 233 Absatz 1 bis 3, § 233a Absatz 1 und 2, den §§ 242, 246, 253, 259, 263 bis 264, 265c, 266, 267, 269, 271, 284, 299, 326 Abs. 1, 2 und 4, § 328 Abs. 1, 2 und 4 sowie § 348,
 
 b)  
 nach § 96 des Aufenthaltsgesetzes, § 84 des Asylgesetzes, nach § 370 der Abgabenordnung, nach § 38 Absatz 1 bis 4 des Wertpapierhandelsgesetzes sowie nach den §§ 143, 143a und 144 des Markengesetzes, den §§ 106 bis 108b des Urheberrechtsgesetzes, § 25 des Gebrauchsmustergesetzes, den §§ 51 und 65 des Designgesetzes, § 142 des Patentgesetzes, § 10 des Halbleiterschutzgesetzes und § 39 des Sortenschutzgesetzes,
@@ -6326,7 +6460,7 @@ verwahrt oder für sich oder einen Dritten verwendet, wenn er die Herkunft des G
 
 (6) Die Tat ist nicht nach Absatz 2 strafbar, wenn zuvor ein Dritter den Gegenstand erlangt hat, ohne hierdurch eine Straftat zu begehen.
 
-(7) Gegenstände, auf die sich die Straftat bezieht, können eingezogen werden. § 74a ist anzuwenden. § 73d ist anzuwenden, wenn der Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung einer Geldwäsche verbunden hat.
+(7) Gegenstände, auf die sich die Straftat bezieht, können eingezogen werden. § 74a ist anzuwenden.
 
 (8) Den in den Absätzen 1, 2 und 5 bezeichneten Gegenständen stehen solche gleich, die aus einer im Ausland begangenen Tat der in Absatz 1 bezeichneten Art herrühren, wenn die Tat auch am Tatort mit Strafe bedroht ist.
 
@@ -6382,13 +6516,13 @@ einen Versicherungsfall vortäuscht, nachdem er oder ein anderer zu diesem Zweck
 
 (6) Das Gericht kann Führungsaufsicht anordnen (§ 68 Abs. 1).
 
-(7) Die §§ 43a und 73d sind anzuwenden, wenn der Täter als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung von Straftaten nach den §§ 263 bis 264 oder 267 bis 269 verbunden hat. § 73d ist auch dann anzuwenden, wenn der Täter gewerbsmäßig handelt.
+(7) (weggefallen)
 
 ### § 263a Computerbetrug
 
 (1) Wer in der Absicht, sich oder einem Dritten einen rechtswidrigen Vermögensvorteil zu verschaffen, das Vermögen eines anderen dadurch beschädigt, daß er das Ergebnis eines Datenverarbeitungsvorgangs durch unrichtige Gestaltung des Programms, durch Verwendung unrichtiger oder unvollständiger Daten, durch unbefugte Verwendung von Daten oder sonst durch unbefugte Einwirkung auf den Ablauf beeinflußt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
-(2) § 263 Abs. 2 bis 7 gilt entsprechend.
+(2) § 263 Abs. 2 bis 6 gilt entsprechend.
 
 (3) Wer eine Straftat nach Absatz 1 vorbereitet, indem er Computerprogramme, deren Zweck die Begehung einer solchen Tat ist, herstellt, sich oder einem anderen verschafft, feilhält, verwahrt oder einem anderen überlässt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
@@ -6510,6 +6644,59 @@ Betriebe und Unternehmen unabhängig von ihrem Gegenstand solche, die nach Art u
 
 2.  
 Kredite Gelddarlehen aller Art, Akzeptkredite, der entgeltliche Erwerb und die Stundung von Geldforderungen, die Diskontierung von Wechseln und Schecks und die Übernahme von Bürgschaften, Garantien und sonstigen Gewährleistungen.
+
+### § 265c Sportwettbetrug
+
+(1) Wer als Sportler oder Trainer einen Vorteil für sich oder einen Dritten als Gegenleistung dafür fordert, sich versprechen lässt oder annimmt, dass er den Verlauf oder das Ergebnis eines Wettbewerbs des organisierten Sports zugunsten des Wettbewerbsgegners beeinflusse und infolgedessen ein rechtswidriger Vermögensvorteil durch eine auf diesen Wettbewerb bezogene öffentliche Sportwette erlangt werde, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+
+(2) Ebenso wird bestraft, wer einem Sportler oder Trainer einen Vorteil für diesen oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, dass er den Verlauf oder das Ergebnis eines Wettbewerbs des organisierten Sports zugunsten des Wettbewerbsgegners beeinflusse und infolgedessen ein rechtswidriger Vermögensvorteil durch eine auf diesen Wettbewerb bezogene öffentliche Sportwette erlangt werde.
+
+(3) Wer als Schieds-, Wertungs- oder Kampfrichter einen Vorteil für sich oder einen Dritten als Gegenleistung dafür fordert, sich versprechen lässt oder annimmt, dass er den Verlauf oder das Ergebnis eines Wettbewerbs des organisierten Sports in regelwidriger Weise beeinflusse und infolgedessen ein rechtswidriger Vermögensvorteil durch eine auf diesen Wettbewerb bezogene öffentliche Sportwette erlangt werde, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+
+(4) Ebenso wird bestraft, wer einem Schieds-, Wertungs- oder Kampfrichter einen Vorteil für diesen oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, dass er den Verlauf oder das Ergebnis eines Wettbewerbs des organisierten Sports in regelwidriger Weise beeinflusse und infolgedessen ein rechtswidriger Vermögensvorteil durch eine auf diesen Wettbewerb bezogene öffentliche Sportwette erlangt werde.
+
+(5) Ein Wettbewerb des organisierten Sports im Sinne dieser Vorschrift ist jede Sportveranstaltung im Inland oder im Ausland,
+
+1.  
+die von einer nationalen oder internationalen Sportorganisation oder in deren Auftrag oder mit deren Anerkennung organisiert wird und
+
+2.  
+bei der Regeln einzuhalten sind, die von einer nationalen oder internationalen Sportorganisation mit verpflichtender Wirkung für ihre Mitgliedsorganisationen verabschiedet wurden.
+
+(6) Trainer im Sinne dieser Vorschrift ist, wer bei dem sportlichen Wettbewerb über den Einsatz und die Anleitung von Sportlern entscheidet. Einem Trainer stehen Personen gleich, die aufgrund ihrer beruflichen oder wirtschaftlichen Stellung wesentlichen Einfluss auf den Einsatz oder die Anleitung von Sportlern nehmen können.
+
+### § 265d Manipulation von berufssportlichen Wettbewerben
+
+(1) Wer als Sportler oder Trainer einen Vorteil für sich oder einen Dritten als Gegenleistung dafür fordert, sich versprechen lässt oder annimmt, dass er den Verlauf oder das Ergebnis eines berufssportlichen Wettbewerbs in wettbewerbswidriger Weise zugunsten des Wettbewerbsgegners beeinflusse, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+
+(2) Ebenso wird bestraft, wer einem Sportler oder Trainer einen Vorteil für diesen oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, dass er den Verlauf oder das Ergebnis eines berufssportlichen Wettbewerbs in wettbewerbswidriger Weise zugunsten des Wettbewerbsgegners beeinflusse.
+
+(3) Wer als Schieds-, Wertungs- oder Kampfrichter einen Vorteil für sich oder einen Dritten als Gegenleistung dafür fordert, sich versprechen lässt oder annimmt, dass er den Verlauf oder das Ergebnis eines berufssportlichen Wettbewerbs in regelwidriger Weise beeinflusse, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+
+(4) Ebenso wird bestraft, wer einem Schieds-, Wertungs- oder Kampfrichter einen Vorteil für diesen oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, dass er den Verlauf oder das Ergebnis eines berufssportlichen Wettbewerbs in regelwidriger Weise beeinflusse.
+
+(5) Ein berufssportlicher Wettbewerb im Sinne dieser Vorschrift ist jede Sportveranstaltung im Inland oder im Ausland,
+
+1.  
+die von einem Sportbundesverband oder einer internationalen Sportorganisation veranstaltet oder in deren Auftrag oder mit deren Anerkennung organisiert wird,
+
+2.  
+bei der Regeln einzuhalten sind, die von einer nationalen oder internationalen Sportorganisation mit verpflichtender Wirkung für ihre Mitgliedsorganisationen verabschiedet wurden, und
+
+3.  
+an der überwiegend Sportler teilnehmen, die durch ihre sportliche Betätigung unmittelbar oder mittelbar Einnahmen von erheblichem Umfang erzielen.
+
+(6) § 265c Absatz 6 gilt entsprechend.
+
+### § 265e Besonders schwere Fälle des Sportwettbetrugs und der Manipulation von berufssportlichen Wettbewerben
+
+In besonders schweren Fällen wird eine Tat nach den §§ 265c und 265d mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft. Ein besonders schwerer Fall liegt in der Regel vor, wenn
+
+1.  
+die Tat sich auf einen Vorteil großen Ausmaßes bezieht oder
+
+2.  
+der Täter gewerbsmäßig handelt oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
 
 ### § 266 Untreue
 
@@ -6723,11 +6910,9 @@ Wer, um eine Behörde oder eine Versicherungsgesellschaft über seinen oder eine
 
 (2) Einem Ausweispapier stehen Zeugnisse und andere Urkunden gleich, die im Verkehr als Ausweis verwendet werden.
 
-### § 282 Vermögensstrafe, Erweiterter Verfall und Einziehung
+### § 282 Einziehung
 
-(1) In den Fällen der §§ 267 bis 269, 275 und 276 sind die §§ 43a und 73d anzuwenden, wenn der Täter als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat. § 73d ist auch dann anzuwenden, wenn der Täter gewerbsmäßig handelt.
-
-(2) Gegenstände, auf die sich eine Straftat nach § 267, § 268, § 271 Abs. 2 und 3, § 273 oder § 276, dieser auch in Verbindung mit § 276a, oder nach § 279 bezieht, können eingezogen werden. In den Fällen des § 275, auch in Verbindung mit § 276a, werden die dort bezeichneten Fälschungsmittel eingezogen.
+Gegenstände, auf die sich eine Straftat nach § 267, § 268, § 271 Abs. 2 und 3, § 273 oder § 276, dieser auch in Verbindung mit § 276a, oder nach § 279 bezieht, können eingezogen werden. In den Fällen des § 275, auch in Verbindung mit § 276a, werden die dort bezeichneten Fälschungsmittel eingezogen.
 
 Vierundzwanzigster Abschnitt Insolvenzstraftaten
 ------------------------------------------------
@@ -6886,11 +7071,9 @@ wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
 
 Wer sich an einem öffentlichen Glücksspiel (§ 284) beteiligt, wird mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu einhundertachtzig Tagessätzen bestraft.
 
-### § 286 Vermögensstrafe, Erweiterter Verfall und Einziehung
+### § 286 Einziehung
 
-(1) In den Fällen des § 284 Abs. 3 Nr. 2 sind die §§ 43a, 73d anzuwenden. § 73d ist auch in den Fällen des § 284 Abs. 3 Nr. 1 anzuwenden.
-
-(2) In den Fällen der §§ 284 und 285 werden die Spieleinrichtungen und das auf dem Spieltisch oder in der Bank vorgefundene Geld eingezogen, wenn sie dem Täter oder Teilnehmer zur Zeit der Entscheidung gehören. Andernfalls können die Gegenstände eingezogen werden; § 74a ist anzuwenden.
+In den Fällen der §§ 284 und 285 werden die Spieleinrichtungen und das auf dem Spieltisch oder in der Bank vorgefundene Geld eingezogen, wenn sie dem Täter oder Teilnehmer zur Zeit der Entscheidung gehören. Andernfalls können die Gegenstände eingezogen werden; § 74a ist anzuwenden.
 
 ### § 287 Unerlaubte Veranstaltung einer Lotterie oder einer Ausspielung
 
@@ -7001,7 +7184,7 @@ Jagd- und Fischereigeräte, Hunde und andere Tiere, die der Täter oder Teilnehm
 (1) Wer ohne Wissen des Reeders oder des Schiffsführers oder als Schiffsführer ohne Wissen des Reeders eine Sache an Bord eines deutschen Schiffes bringt oder nimmt, deren Beförderung
 
 1.  
-für das Schiff oder die Ladung die Gefahr einer Beschlagnahme oder Einziehung oder
+für das Schiff oder die Ladung die Gefahr einer Beschlagnahme oder Einziehung (§§ 74 bis 74f) oder
 
 2.  
 für den Reeder oder den Schiffsführer die Gefahr einer Bestrafung
@@ -7091,9 +7274,7 @@ der Täter gewerbsmäßig handelt oder als Mitglied einer Bande, die sich zur fo
 
 (2) Das Recht, den Strafantrag nach Absatz 1 zu stellen, haben in den Fällen des § 299 Absatz 1 Nummer 1 und Absatz 2 Nummer 1 neben dem Verletzten auch die in § 8 Absatz 3 Nummer 2 und 4 des Gesetzes gegen den unlauteren Wettbewerb bezeichneten Verbände und Kammern.
 
-### § 302 Erweiterter Verfall
-
-In den Fällen der §§ 299, 299a und 299b ist § 73d anzuwenden, wenn der Täter gewerbsmäßig handelt oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
+### § 302 (weggefallen)
 
 Siebenundzwanzigster Abschnitt Sachbeschädigung
 -----------------------------------------------
@@ -7807,9 +7988,11 @@ eingezogen werden.
 
 Wer wissentlich einem anderen, der auf Grund behördlicher Anordnung oder ohne seine Einwilligung zu einer Entziehungskur in einer Anstalt untergebracht ist, ohne Erlaubnis des Anstaltsleiters oder seines Beauftragten alkoholische Getränke oder andere berauschende Mittel verschafft oder überläßt oder ihn zum Genuß solcher Mittel verleitet, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-### § 323c Unterlassene Hilfeleistung
+### § 323c Unterlassene Hilfeleistung; Behinderung von hilfeleistenden Personen
 
-Wer bei Unglücksfällen oder gemeiner Gefahr oder Not nicht Hilfe leistet, obwohl dies erforderlich und ihm den Umständen nach zuzumuten, insbesondere ohne erhebliche eigene Gefahr und ohne Verletzung anderer wichtiger Pflichten möglich ist, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
+(1) Wer bei Unglücksfällen oder gemeiner Gefahr oder Not nicht Hilfe leistet, obwohl dies erforderlich und ihm den Umständen nach zuzumuten, insbesondere ohne erhebliche eigene Gefahr und ohne Verletzung anderer wichtiger Pflichten möglich ist, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
+
+(2) Ebenso wird bestraft, wer in diesen Situationen eine Person behindert, die einem Dritten Hilfe leistet oder leisten will.
 
 Neunundzwanzigster Abschnitt Straftaten gegen die Umwelt
 --------------------------------------------------------
@@ -7902,15 +8085,7 @@ einen Bestand von Tieren oder Pflanzen zu gefährden,
 
 außerhalb einer dafür zugelassenen Anlage oder unter wesentlicher Abweichung von einem vorgeschriebenen oder zugelassenen Verfahren sammelt, befördert, behandelt, verwertet, lagert, ablagert, ablässt, beseitigt, handelt, makelt oder sonst bewirtschaftet, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
-(2) Ebenso wird bestraft, wer
-
-1.  
-Abfälle im Sinne des Artikels 2 Nummer 1 der Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen (ABl. L 190 vom 12.7.2006, S. 1, L 318 vom 28.11.2008, S. 15), die zuletzt durch die Verordnung (EU) Nr. 135/2012 (ABl. L 46 vom 17.2.2012, S. 30) geändert worden ist, in nicht unerheblicher Menge, sofern es sich um ein illegales Verbringen von Abfällen im Sinne des Artikels 2 Nummer 35 der Verordnung (EG) Nr. 1013/2006 handelt, oder
-
-2.  
-sonstige Abfälle im Sinne des Absatzes 1 entgegen einem Verbot oder ohne die erforderliche Genehmigung
-
-in den, aus dem oder durch den Geltungsbereich dieses Gesetzes verbringt.
+(2) Ebenso wird bestraft, wer Abfälle im Sinne des Absatzes 1 entgegen einem Verbot oder ohne die erforderliche Genehmigung in den, aus dem oder durch den Geltungsbereich dieses Gesetzes verbringt.
 
 (3) Wer radioaktive Abfälle unter Verletzung verwaltungsrechtlicher Pflichten nicht abliefert, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
@@ -8322,9 +8497,7 @@ Der Vornahme einer Diensthandlung oder einer richterlichen Handlung im Sinne der
 
 Die Vergütung eines Schiedsrichters ist nur dann ein Vorteil im Sinne der §§ 331 bis 335, wenn der Schiedsrichter sie von einer Partei hinter dem Rücken der anderen fordert, sich versprechen läßt oder annimmt oder wenn sie ihm eine Partei hinter dem Rücken der anderen anbietet, verspricht oder gewährt.
 
-### § 338 Erweiterter Verfall
-
-In den Fällen der §§ 332 und 334, jeweils auch in Verbindung mit den §§ 335a bis 337, ist § 73d anzuwenden, wenn der Täter gewerbsmäßig handelt oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
+### § 338 (weggefallen)
 
 ### § 339 Rechtsbeugung
 
@@ -8504,20 +8677,20 @@ die Anklageschrift oder andere amtliche Schriftstücke eines Strafverfahrens, ei
 Verhältnisse eines anderen, die ihm als Amtsträger
 
 a)  
-in einem Verwaltungsverfahren oder einem gerichtlichen Verfahren in Steuersachen,
+in einem Verwaltungsverfahren, einem Rechnungsprüfungsverfahren oder einem gerichtlichen Verfahren in Steuersachen,
 
 b)  
 in einem Strafverfahren wegen einer Steuerstraftat oder in einem Bußgeldverfahren wegen einer Steuerordnungswidrigkeit,
 
 c)  
-aus anderem Anlaß durch Mitteilung einer Finanzbehörde oder durch die gesetzlich vorgeschriebene Vorlage eines Steuerbescheids oder einer Bescheinigung über die bei der Besteuerung getroffenen Feststellungen
+aus anderem Anlass durch Mitteilung einer Finanzbehörde oder durch die gesetzlich vorgeschriebene Vorlage eines Steuerbescheids oder einer Bescheinigung über die bei der Besteuerung getroffenen Feststellungen
 
-bekanntgeworden sind, oder
+bekannt geworden sind, oder
 
 2.  
-ein fremdes Betriebs- oder Geschäftsgeheimnis, das ihm als Amtsträger in einem der in Nummer 1 genannten Verfahren bekanntgeworden ist,
+ein fremdes Betriebs- oder Geschäftsgeheimnis, das ihm als Amtsträger in einem der in Nummer 1 genannten Verfahren bekannt geworden ist,
 
-offenbart oder verwertet, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
+offenbart oder verwertet, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft. Verhältnisse eines anderen oder ein fremdes Betriebs- oder Geschäftsgeheimnis sind dem Täter auch dann als Amtsträger in einem in Satz 1 Nummer 1 genannten Verfahren bekannt geworden, wenn sie sich aus Daten ergeben, zu denen er Zugang hatte und die er unbefugt abgerufen hat.
 
 (2) Den Amtsträgern im Sinne des Absatzes 1 stehen gleich
 
