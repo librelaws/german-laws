@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Stand  
-zuletzt geändert durch Art. 16 G v. 29.6.2015 I 1042
+zuletzt geändert durch Art. 1 G v. 11.3.2016 I 396
 
 ### 
 
@@ -358,7 +358,15 @@ Ratenlieferungsverträge zwischen einem Unternehmer und einem Verbraucher
 
 Untertitel 4
 
+Beratungsleistungen bei Immobiliar-Verbraucherdarlehensverträgen
+
+Untertitel 5
+
 Unabdingbarkeit, Anwendung auf Existenzgründer
+
+Untertitel 6
+
+Unentgeltliche Darlehensverträge und unentgeltliche Finanzierungshilfen zwischen einem Unternehmer und einem Verbraucher
 
 Titel 4
 
@@ -486,7 +494,7 @@ Allgemeine Vorschriften
 
 Untertitel 2
 
-Vermittlung von Verbraucherdarlehensverträgen
+Vermittlung von Verbraucherdarlehensverträgen und entgeltlichen Finanzierungshilfen
 
 Untertitel 3
 
@@ -2350,7 +2358,15 @@ die Zustellung des Antrags im vereinfachten Verfahren über den Unterhalt Minder
 die Zustellung des Mahnbescheids im Mahnverfahren oder des Europäischen Zahlungsbefehls im Europäischen Mahnverfahren nach der Verordnung (EG) Nr. 1896/2006 des Europäischen Parlaments und des Rates vom 12. Dezember 2006 zur Einführung eines Europäischen Mahnverfahrens (ABl. EU Nr. L 399 S. 1),
 
 4.  
-die Veranlassung der Bekanntgabe des Güteantrags, der bei einer durch die Landesjustizverwaltung eingerichteten oder anerkannten Gütestelle oder, wenn die Parteien den Einigungsversuch einvernehmlich unternehmen, bei einer sonstigen Gütestelle, die Streitbeilegungen betreibt, eingereicht ist; wird die Bekanntgabe demnächst nach der Einreichung des Antrags veranlasst, so tritt die Hemmung der Verjährung bereits mit der Einreichung ein,
+die Veranlassung der Bekanntgabe eines Antrags, mit dem der Anspruch geltend gemacht wird, bei einer
+
+a)  
+staatlichen oder staatlich anerkannten Streitbeilegungsstelle oder
+
+b)  
+anderen Streitbeilegungsstelle, wenn das Verfahren im Einvernehmen mit dem Antragsgegner betrieben wird;
+
+die Verjährung wird schon durch den Eingang des Antrags bei der Streitbeilegungsstelle gehemmt, wenn der Antrag demnächst bekannt gegeben wird,
 
 5.  
 die Geltendmachung der Aufrechnung des Anspruchs im Prozess,
@@ -2377,7 +2393,7 @@ die Anmeldung des Anspruchs im Insolvenzverfahren oder im Schifffahrtsrechtliche
 den Beginn des schiedsrichterlichen Verfahrens,
 
 12.  
-die Einreichung des Antrags bei einer Behörde, wenn die Zulässigkeit der Klage von der Vorentscheidung dieser Behörde abhängt und innerhalb von drei Monaten nach Erledigung des Gesuchs die Klage erhoben wird; dies gilt entsprechend für bei einem Gericht oder bei einer in Nummer 4 bezeichneten Gütestelle zu stellende Anträge, deren Zulässigkeit von der Vorentscheidung einer Behörde abhängt,
+die Einreichung des Antrags bei einer Behörde, wenn die Zulässigkeit der Klage von der Vorentscheidung dieser Behörde abhängt und innerhalb von drei Monaten nach Erledigung des Gesuchs die Klage erhoben wird; dies gilt entsprechend für bei einem Gericht oder bei einer in Nummer 4 bezeichneten Streitbeilegungsstelle zu stellende Anträge, deren Zulässigkeit von der Vorentscheidung einer Behörde abhängt,
 
 13.  
 die Einreichung des Antrags bei dem höheren Gericht, wenn dieses das zuständige Gericht zu bestimmen hat und innerhalb von drei Monaten nach Erledigung des Gesuchs die Klage erhoben oder der Antrag, für den die Gerichtsstandsbestimmung zu erfolgen hat, gestellt wird, und
@@ -2800,7 +2816,7 @@ Der Schuldner ist zu Teilleistungen nicht berechtigt.
 
 (1) Eine Vereinbarung, nach der der Gläubiger die Erfüllung einer Entgeltforderung erst nach mehr als 60 Tagen nach Empfang der Gegenleistung verlangen kann, ist nur wirksam, wenn sie ausdrücklich getroffen und im Hinblick auf die Belange des Gläubigers nicht grob unbillig ist. Geht dem Schuldner nach Empfang der Gegenleistung eine Rechnung oder gleichwertige Zahlungsaufstellung zu, tritt der Zeitpunkt des Zugangs dieser Rechnung oder Zahlungsaufstellung an die Stelle des in Satz 1 genannten Zeitpunkts des Empfangs der Gegenleistung. Es wird bis zum Beweis eines anderen Zeitpunkts vermutet, dass der Zeitpunkt des Zugangs der Rechnung oder Zahlungsaufstellung auf den Zeitpunkt des Empfangs der Gegenleistung fällt; hat der Gläubiger einen späteren Zeitpunkt benannt, so tritt dieser an die Stelle des Zeitpunkts des Empfangs der Gegenleistung.
 
-(2) Ist der Schuldner ein öffentlicher Auftraggeber im Sinne von § 98 Nummer 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen, so ist abweichend von Absatz 1
+(2) Ist der Schuldner ein öffentlicher Auftraggeber im Sinne von § 99 Nummer 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen, so ist abweichend von Absatz 1
 
 1.  
 eine Vereinbarung, nach der der Gläubiger die Erfüllung einer Entgeltforderung erst nach mehr als 30 Tagen nach Empfang der Gegenleistung verlangen kann, nur wirksam, wenn die Vereinbarung ausdrücklich getroffen und aufgrund der besonderen Natur oder der Merkmale des Schuldverhältnisses sachlich gerechtfertigt ist;
@@ -3288,7 +3304,10 @@ den anderen Vertragsteil bestimmte Tatsachen bestätigen lässt;
 Buchstabe b gilt nicht für Empfangsbekenntnisse, die gesondert unterschrieben oder mit einer gesonderten qualifizierten elektronischen Signatur versehen sind;
 
 13.  
-(Form von Anzeigen und Erklärungen)eine Bestimmung, durch die Anzeigen oder Erklärungen, die dem Verwender oder einem Dritten gegenüber abzugeben sind, an eine strengere Form als die Schriftform oder an besondere Zugangserfordernisse gebunden werden.
+(Form von Anzeigen und Erklärungen)eine Bestimmung, durch die Anzeigen oder Erklärungen, die dem Verwender oder einem Dritten gegenüber abzugeben sind, an eine strengere Form als die Schriftform oder an besondere Zugangserfordernisse gebunden werden;
+
+14.  
+(Klageverzicht)eine Bestimmung, wonach der andere Vertragsteil seine Ansprüche gegen den Verwender gerichtlich nur geltend machen darf, nachdem er eine gütliche Einigung in einem Verfahren zur außergerichtlichen Streitbeilegung versucht hat.
 
 ### § 310 Anwendungsbereich
 
@@ -3607,7 +3626,7 @@ notariell beurkundete Verträge; dies gilt für Fernabsatzverträge über Finanz
 
 Die Ausnahme nach Satz 1 Nummer 9 gilt nicht für Verträge über Reiseleistungen nach § 651a, wenn diese außerhalb von Geschäftsräumen geschlossen worden sind, es sei denn, die mündlichen Verhandlungen, auf denen der Vertragsschluss beruht, sind auf vorhergehende Bestellung des Verbrauchers geführt worden.
 
-(3) Das Widerrufsrecht besteht ferner nicht bei Verträgen, bei denen dem Verbraucher bereits auf Grund der §§ 495, 506 bis 512 ein Widerrufsrecht nach § 355 zusteht, und nicht bei außerhalb von Geschäftsräumen geschlossenen Verträgen, bei denen dem Verbraucher bereits nach § 305 Absatz 1 bis 6 des Kapitalanlagegesetzbuchs ein Widerrufsrecht zusteht.
+(3) Das Widerrufsrecht besteht ferner nicht bei Verträgen, bei denen dem Verbraucher bereits auf Grund der §§ 495, 506 bis 513 ein Widerrufsrecht nach § 355 zusteht, und nicht bei außerhalb von Geschäftsräumen geschlossenen Verträgen, bei denen dem Verbraucher bereits nach § 305 Absatz 1 bis 6 des Kapitalanlagegesetzbuchs ein Widerrufsrecht zusteht.
 
 ### § 312h Kündigung und Vollmacht zur Kündigung
 
@@ -4039,7 +4058,7 @@ bei einem Vertrag, der die nicht in einem begrenzten Volumen oder in einer besti
 
 (3) Die Widerrufsfrist beginnt nicht, bevor der Unternehmer den Verbraucher entsprechend den Anforderungen des Artikels 246a § 1 Absatz 2 Satz 1 Nummer 1 oder des Artikels 246b § 2 Absatz 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche unterrichtet hat. Das Widerrufsrecht erlischt spätestens zwölf Monate und 14 Tage nach dem in Absatz 2 oder § 355 Absatz 2 Satz 2 genannten Zeitpunkt. Satz 2 ist auf Verträge über Finanzdienstleistungen nicht anwendbar.
 
-(4) Das Widerrufsrecht erlischt bei einem Vertrag zur Erbringung von Dienstleistungen auch dann, wenn der Unternehmer die Dienstleistung vollständig erbracht hat und mit der Ausführung der Dienstleistung erst begonnen hat, nachdem der Verbraucher dazu seine ausdrückliche Zustimmung gegeben hat und gleichzeitig seine Kenntnis davon bestätigt hat, dass er sein Widerrufsrecht bei vollständiger Vertragserfüllung durch den Unternehmer verliert. Bei einem Vertrag über die Erbringung von Finanzdienstleistungen erlischt das Widerrufsrecht abweichend von Satz 1, wenn der Vertrag von beiden Seiten auf ausdrücklichen Wunsch des Verbrauchers vollständig erfüllt ist, bevor der Verbraucher sein Widerrufsrecht ausübt.
+(4) Das Widerrufsrecht erlischt bei einem Vertrag zur Erbringung von Dienstleistungen auch dann, wenn der Unternehmer die Dienstleistung vollständig erbracht hat und mit der Ausführung der Dienstleistung erst begonnen hat, nachdem der Verbraucher dazu seine ausdrückliche Zustimmung gegeben hat und gleichzeitig seine Kenntnis davon bestätigt hat, dass er sein Widerrufsrecht bei vollständiger Vertragserfüllung durch den Unternehmer verliert. Bei einem außerhalb von Geschäftsräumen geschlossenen Vertrag muss die Zustimmung des Verbrauchers auf einem dauerhaften Datenträger übermittelt werden. Bei einem Vertrag über die Erbringung von Finanzdienstleistungen erlischt das Widerrufsrecht abweichend von Satz 1, wenn der Vertrag von beiden Seiten auf ausdrücklichen Wunsch des Verbrauchers vollständig erfüllt ist, bevor der Verbraucher sein Widerrufsrecht ausübt.
 
 (5) Das Widerrufsrecht erlischt bei einem Vertrag über die Lieferung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten auch dann, wenn der Unternehmer mit der Ausführung des Vertrags begonnen hat, nachdem der Verbraucher
 
@@ -4051,27 +4070,33 @@ seine Kenntnis davon bestätigt hat, dass er durch seine Zustimmung mit Beginn d
 
 ### § 356a Widerrufsrecht bei Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, bei Vermittlungsverträgen und Tauschsystemverträgen
 
-(1) Die Widerrufsfrist beginnt mit dem Zeitpunkt des Vertragsschlusses oder des Abschlusses eines Vorvertrags. Erhält der Verbraucher die Vertragsurkunde oder die Abschrift des Vertrags erst nach Vertragsschluss, beginnt die Widerrufsfrist mit dem Zeitpunkt des Erhalts.
+(1) Der Widerruf ist in Textform zu erklären.
 
-(2) Sind dem Verbraucher die in § 482 Absatz 1 bezeichneten vorvertraglichen Informationen oder das in Artikel 242 § 1 Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichnete Formblatt vor Vertragsschluss nicht, nicht vollständig oder nicht in der in § 483 Absatz 1 vorgeschriebenen Sprache überlassen worden, so beginnt die Widerrufsfrist abweichend von Absatz 1 erst mit dem vollständigen Erhalt der vorvertraglichen Informationen und des Formblatts in der vorgeschriebenen Sprache. Das Widerrufsrecht erlischt spätestens drei Monate und 14 Tage nach dem in Absatz 1 genannten Zeitpunkt.
+(2) Die Widerrufsfrist beginnt mit dem Zeitpunkt des Vertragsschlusses oder des Abschlusses eines Vorvertrags. Erhält der Verbraucher die Vertragsurkunde oder die Abschrift des Vertrags erst nach Vertragsschluss, beginnt die Widerrufsfrist mit dem Zeitpunkt des Erhalts.
 
-(3) Ist dem Verbraucher die in § 482a bezeichnete Widerrufsbelehrung vor Vertragsschluss nicht, nicht vollständig oder nicht in der in § 483 Absatz 1 vorgeschriebenen Sprache überlassen worden, so beginnt die Widerrufsfrist abweichend von Absatz 1 erst mit dem vollständigen Erhalt der Widerrufsbelehrung in der vorgeschriebenen Sprache. Das Widerrufsrecht erlischt gegebenenfalls abweichend von Absatz 2 Satz 2 spätestens zwölf Monate und 14 Tage nach dem in Absatz 1 genannten Zeitpunkt.
+(3) Sind dem Verbraucher die in § 482 Absatz 1 bezeichneten vorvertraglichen Informationen oder das in Artikel 242 § 1 Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichnete Formblatt vor Vertragsschluss nicht, nicht vollständig oder nicht in der in § 483 Absatz 1 vorgeschriebenen Sprache überlassen worden, so beginnt die Widerrufsfrist abweichend von Absatz 2 erst mit dem vollständigen Erhalt der vorvertraglichen Informationen und des Formblatts in der vorgeschriebenen Sprache. Das Widerrufsrecht erlischt spätestens drei Monate und 14 Tage nach dem in Absatz 2 genannten Zeitpunkt.
 
-(4) Hat der Verbraucher einen Teilzeit-Wohnrechtevertrag und einen Tauschsystemvertrag abgeschlossen und sind ihm diese Verträge zum gleichen Zeitpunkt angeboten worden, so beginnt die Widerrufsfrist für beide Verträge mit dem nach Absatz 1 für den Teilzeit-Wohnrechtevertrag geltenden Zeitpunkt. Die Absätze 2 und 3 gelten entsprechend.
+(4) Ist dem Verbraucher die in § 482a bezeichnete Widerrufsbelehrung vor Vertragsschluss nicht, nicht vollständig oder nicht in der in § 483 Absatz 1 vorgeschriebenen Sprache überlassen worden, so beginnt die Widerrufsfrist abweichend von Absatz 2 erst mit dem vollständigen Erhalt der Widerrufsbelehrung in der vorgeschriebenen Sprache. Das Widerrufsrecht erlischt gegebenenfalls abweichend von Absatz 3 Satz 2 spätestens zwölf Monate und 14 Tage nach dem in Absatz 2 genannten Zeitpunkt.
+
+(5) Hat der Verbraucher einen Teilzeit-Wohnrechtevertrag und einen Tauschsystemvertrag abgeschlossen und sind ihm diese Verträge zum gleichen Zeitpunkt angeboten worden, so beginnt die Widerrufsfrist für beide Verträge mit dem nach Absatz 2 für den Teilzeit-Wohnrechtevertrag geltenden Zeitpunkt. Die Absätze 3 und 4 gelten entsprechend.
 
 ### § 356b Widerrufsrecht bei Verbraucherdarlehensverträgen
 
 (1) Die Widerrufsfrist beginnt auch nicht, bevor der Darlehensgeber dem Darlehensnehmer eine für diesen bestimmte Vertragsurkunde, den schriftlichen Antrag des Darlehensnehmers oder eine Abschrift der Vertragsurkunde oder seines Antrags zur Verfügung gestellt hat.
 
-(2) Enthält die dem Darlehensnehmer nach Absatz 1 zur Verfügung gestellte Urkunde die Pflichtangaben nach § 492 Absatz 2 nicht, beginnt die Frist erst mit Nachholung dieser Angaben gemäß § 492 Absatz 6. In diesem Fall beträgt die Widerrufsfrist einen Monat.
+(2) Enthält bei einem Allgemein-Verbraucherdarlehensvertrag die dem Darlehensnehmer nach Absatz 1 zur Verfügung gestellte Urkunde die Pflichtangaben nach § 492 Absatz 2 nicht, beginnt die Frist erst mit Nachholung dieser Angaben gemäß § 492 Absatz 6. Enthält bei einem Immobiliar-Verbraucherdarlehensvertrag die dem Darlehensnehmer nach Absatz 1 zur Verfügung gestellte Urkunde die Pflichtangaben zum Widerrufsrecht nach § 492 Absatz 2 in Verbindung mit Artikel 247 § 6 Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche nicht, beginnt die Frist erst mit Nachholung dieser Angaben gemäß § 492 Absatz 6. In den Fällen der Sätze 1 und 2 beträgt die Widerrufsfrist einen Monat. Das Widerrufsrecht bei einem Immobiliar-Verbraucherdarlehensvertrag erlischt spätestens zwölf Monate und 14 Tage nach dem Vertragsschluss oder nach dem in Absatz 1 genannten Zeitpunkt, wenn dieser nach dem Vertragsschluss liegt.
 
-(3) Die Widerrufsfrist beginnt im Falle des § 494 Absatz 7 erst, wenn der Darlehensnehmer die dort bezeichnete Abschrift des Vertrags erhalten hat.
+(3) Die Widerrufsfrist beginnt im Falle des § 494 Absatz 7 bei einem Allgemein-Verbraucherdarlehensvertrag erst, wenn der Darlehensnehmer die dort bezeichnete Abschrift des Vertrags erhalten hat.
 
 ### § 356c Widerrufsrecht bei Ratenlieferungsverträgen
 
 (1) Bei einem Ratenlieferungsvertrag, der weder im Fernabsatz noch außerhalb von Geschäftsräumen geschlossenen wird, beginnt die Widerrufsfrist nicht, bevor der Unternehmer den Verbraucher gemäß Artikel 246 Absatz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche über sein Widerrufsrecht unterrichtet hat.
 
 (2) § 356 Absatz 1 gilt entsprechend. Das Widerrufsrecht erlischt spätestens zwölf Monate und 14 Tage nach dem in § 355 Absatz 2 Satz 2 genannten Zeitpunkt.
+
+### § 356d Widerrufsrecht des Verbrauchers bei unentgeltlichen Darlehensverträgen und unentgeltlichen Finanzierungshilfen
+
+Bei einem Vertrag, durch den ein Unternehmer einem Verbraucher ein unentgeltliches Darlehen oder eine unentgeltliche Finanzierungshilfe gewährt, beginnt die Widerrufsfrist abweichend von § 355 Absatz 2 Satz 2 nicht, bevor der Unternehmer den Verbraucher entsprechend den Anforderungen des § 514 Absatz 2 Satz 3 über dessen Widerrufsrecht unterrichtet hat. Das Widerrufsrecht erlischt spätestens zwölf Monate und 14 Tage nach dem Vertragsschluss oder nach dem in Satz 1 genannten Zeitpunkt, wenn dieser nach dem Vertragsschluss liegt.
 
 ### § 357 Rechtsfolgen des Widerrufs von außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
 
@@ -4121,7 +4146,7 @@ ausdrücklich zugestimmt hat, dass der Unternehmer vor Ende der Widerrufsfrist m
 
 Ist im Vertrag eine Gegenleistung bestimmt, ist sie bei der Berechnung des Wertersatzes zu Grunde zu legen. Ist der vereinbarte Gesamtpreis unverhältnismäßig hoch, ist der Wertersatz auf der Grundlage des Marktwerts der erbrachten Leistung zu berechnen.
 
-(3) Im Falle des Widerrufs von Verbraucherdarlehensverträgen hat der Darlehensnehmer für den Zeitraum zwischen der Auszahlung und der Rückzahlung des Darlehens den vereinbarten Sollzins zu entrichten. Ist das Darlehen durch ein Grundpfandrecht gesichert, kann nachgewiesen werden, dass der Wert des Gebrauchsvorteils niedriger war als der vereinbarte Sollzins. In diesem Fall ist nur der niedrigere Betrag geschuldet. Im Falle des Widerrufs von Verträgen über eine entgeltliche Finanzierungshilfe, die nicht von der Ausnahme des § 506 Absatz 4 erfasst sind, gilt auch Absatz 2 entsprechend mit der Maßgabe, dass an die Stelle der Unterrichtung über das Widerrufsrecht die Pflichtangaben nach Artikel 247 § 12 Absatz 1 in Verbindung mit § 6 Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche, die das Widerrufsrecht betreffen, treten. Darüber hinaus hat der Darlehensnehmer dem Darlehensgeber nur die Aufwendungen zu ersetzen, die der Darlehensgeber gegenüber öffentlichen Stellen erbracht hat und nicht zurückverlangen kann.
+(3) Im Falle des Widerrufs von Verbraucherdarlehensverträgen hat der Darlehensnehmer für den Zeitraum zwischen der Auszahlung und der Rückzahlung des Darlehens den vereinbarten Sollzins zu entrichten. Bei einem Immobiliar-Verbraucherdarlehen kann nachgewiesen werden, dass der Wert des Gebrauchsvorteils niedriger war als der vereinbarte Sollzins. In diesem Fall ist nur der niedrigere Betrag geschuldet. Im Falle des Widerrufs von Verträgen über eine entgeltliche Finanzierungshilfe, die nicht von der Ausnahme des § 506 Absatz 4 erfasst sind, gilt auch Absatz 2 entsprechend mit der Maßgabe, dass an die Stelle der Unterrichtung über das Widerrufsrecht die Pflichtangaben nach Artikel 247 § 12 Absatz 1 in Verbindung mit § 6 Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche, die das Widerrufsrecht betreffen, treten. Darüber hinaus hat der Darlehensnehmer dem Darlehensgeber nur die Aufwendungen zu ersetzen, die der Darlehensgeber gegenüber öffentlichen Stellen erbracht hat und nicht zurückverlangen kann.
 
 ### § 357b Rechtsfolgen des Widerrufs von Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, Vermittlungsverträgen und Tauschsystemverträgen
 
@@ -4137,7 +4162,7 @@ Für die Rückgewähr der empfangenen Leistungen gilt § 357 Absatz 1 bis 5 ents
 
 (1) Hat der Verbraucher seine auf den Abschluss eines Vertrags über die Lieferung einer Ware oder die Erbringung einer anderen Leistung durch einen Unternehmer gerichtete Willenserklärung wirksam widerrufen, so ist er auch an seine auf den Abschluss eines mit diesem Vertrag verbundenen Darlehensvertrags gerichtete Willenserklärung nicht mehr gebunden.
 
-(2) Hat der Verbraucher seine auf den Abschluss eines Verbraucherdarlehensvertrags gerichtete Willenserklärung auf Grund des § 495 Absatz 1 wirksam widerrufen, so ist er auch an seine auf den Abschluss eines mit diesem Verbraucherdarlehensvertrag verbundenen Vertrags über die Lieferung einer Ware oder die Erbringung einer anderen Leistung gerichtete Willenserklärung nicht mehr gebunden.
+(2) Hat der Verbraucher seine auf den Abschluss eines Darlehensvertrags gerichtete Willenserklärung auf Grund des § 495 Absatz 1 oder des § 514 Absatz 2 Satz 1 wirksam widerrufen, so ist er auch nicht mehr an diejenige Willenserklärung gebunden, die auf den Abschluss eines mit diesem Darlehensvertrag verbundenen Vertrags über die Lieferung einer Ware oder die Erbringung einer anderen Leistung gerichtet ist.
 
 (3) Ein Vertrag über die Lieferung einer Ware oder über die Erbringung einer anderen Leistung und ein Darlehensvertrag nach den Absätzen 1 oder 2 sind verbunden, wenn das Darlehen ganz oder teilweise der Finanzierung des anderen Vertrags dient und beide Verträge eine wirtschaftliche Einheit bilden. Eine wirtschaftliche Einheit ist insbesondere anzunehmen, wenn der Unternehmer selbst die Gegenleistung des Verbrauchers finanziert, oder im Falle der Finanzierung durch einen Dritten, wenn sich der Darlehensgeber bei der Vorbereitung oder dem Abschluss des Darlehensvertrags der Mitwirkung des Unternehmers bedient. Bei einem finanzierten Erwerb eines Grundstücks oder eines grundstücksgleichen Rechts ist eine wirtschaftliche Einheit nur anzunehmen, wenn der Darlehensgeber selbst dem Verbraucher das Grundstück oder das grundstücksgleiche Recht verschafft oder wenn er über die Zurverfügungstellung von Darlehen hinaus den Erwerb des Grundstücks oder grundstücksgleichen Rechts durch Zusammenwirken mit dem Unternehmer fördert, indem er sich dessen Veräußerungsinteressen ganz oder teilweise zu Eigen macht, bei der Planung, Werbung oder Durchführung des Projekts Funktionen des Veräußerers übernimmt oder den Veräußerer einseitig begünstigt.
 
@@ -4147,7 +4172,7 @@ Für die Rückgewähr der empfangenen Leistungen gilt § 357 Absatz 1 bis 5 ents
 
 ### § 359 Einwendungen bei verbundenen Verträgen
 
-(1) Der Verbraucher kann die Rückzahlung des Darlehens verweigern, soweit Einwendungen aus dem verbundenen Vertrag ihn gegenüber dem Unternehmer, mit dem er den verbundenen Vertrag geschlossen hat, zur Verweigerung seiner Leistung berechtigen würden. Dies gilt nicht bei Einwendungen, die auf einer zwischen diesem Unternehmer und dem Verbraucher nach Abschluss des Verbraucherdarlehensvertrags vereinbarten Vertragsänderung beruhen. Kann der Verbraucher Nacherfüllung verlangen, so kann er die Rückzahlung des Darlehens erst verweigern, wenn die Nacherfüllung fehlgeschlagen ist.
+(1) Der Verbraucher kann die Rückzahlung des Darlehens verweigern, soweit Einwendungen aus dem verbundenen Vertrag ihn gegenüber dem Unternehmer, mit dem er den verbundenen Vertrag geschlossen hat, zur Verweigerung seiner Leistung berechtigen würden. Dies gilt nicht bei Einwendungen, die auf einer Vertragsänderung beruhen, welche zwischen diesem Unternehmer und dem Verbraucher nach Abschluss des Darlehensvertrags vereinbart wurde. Kann der Verbraucher Nacherfüllung verlangen, so kann er die Rückzahlung des Darlehens erst verweigern, wenn die Nacherfüllung fehlgeschlagen ist.
 
 (2) Absatz 1 ist nicht anzuwenden auf Darlehensverträge, die der Finanzierung des Erwerbs von Finanzinstrumenten dienen, oder wenn das finanzierte Entgelt weniger als 200 Euro beträgt.
 
@@ -4155,7 +4180,7 @@ Für die Rückgewähr der empfangenen Leistungen gilt § 357 Absatz 1 bis 5 ents
 
 (1) Hat der Verbraucher seine auf den Abschluss eines Vertrags gerichtete Willenserklärung wirksam widerrufen und liegen die Voraussetzungen für einen verbundenen Vertrag nicht vor, so ist er auch an seine auf den Abschluss eines damit zusammenhängenden Vertrags gerichtete Willenserklärung nicht mehr gebunden. Auf die Rückabwicklung des zusammenhängenden Vertrags ist § 358 Absatz 4 Satz 1 bis 3 entsprechend anzuwenden. Widerruft der Verbraucher einen Teilzeit-Wohnrechtevertrag oder einen Vertrag über ein langfristiges Urlaubsprodukt, hat er auch für den zusammenhängenden Vertrag keine Kosten zu tragen; § 357b Absatz 1 Satz 2 und 3 gilt entsprechend.
 
-(2) Ein zusammenhängender Vertrag liegt vor, wenn er einen Bezug zu dem widerrufenen Vertrag aufweist und eine Leistung betrifft, die von dem Unternehmer des widerrufenen Vertrags oder einem Dritten auf der Grundlage einer Vereinbarung zwischen dem Dritten und dem Unternehmer des widerrufenen Vertrags erbracht wird. Ein Verbraucherdarlehensvertrag ist auch dann ein zusammenhängender Vertrag, wenn das Darlehen ausschließlich der Finanzierung des widerrufenen Vertrags dient und die Leistung des Unternehmers aus dem widerrufenen Vertrag in dem Verbraucherdarlehensvertrag genau angegeben ist.
+(2) Ein zusammenhängender Vertrag liegt vor, wenn er einen Bezug zu dem widerrufenen Vertrag aufweist und eine Leistung betrifft, die von dem Unternehmer des widerrufenen Vertrags oder einem Dritten auf der Grundlage einer Vereinbarung zwischen dem Dritten und dem Unternehmer des widerrufenen Vertrags erbracht wird. Ein Darlehensvertrag ist auch dann ein zusammenhängender Vertrag, wenn das Darlehen, das ein Unternehmer einem Verbraucher gewährt, ausschließlich der Finanzierung des widerrufenen Vertrags dient und die Leistung des Unternehmers aus dem widerrufenen Vertrag in dem Darlehensvertrag genau angegeben ist.
 
 ### § 361 Weitere Ansprüche, abweichende Vereinbarungen und Beweislast
 
@@ -5087,9 +5112,9 @@ Kapitel 2 Besondere Vorschriften für Verbraucherdarlehensverträge
 
 ### § 491 Verbraucherdarlehensvertrag
 
-(1) Die Vorschriften dieses Kapitels gelten für entgeltliche Darlehensverträge zwischen einem Unternehmer als Darlehensgeber und einem Verbraucher als Darlehensnehmer (Verbraucherdarlehensvertrag), soweit in den Absätzen 2 oder 3 oder in den §§ 503 bis 505 nichts anderes bestimmt ist.
+(1) Die Vorschriften dieses Kapitels gelten für Verbraucherdarlehensverträge, soweit nichts anderes bestimmt ist. Verbraucherdarlehensverträge sind Allgemein-Verbraucherdarlehensverträge und Immobiliar-Verbraucherdarlehensverträge.
 
-(2) Keine Verbraucherdarlehensverträge sind Verträge,
+(2) Allgemein-Verbraucherdarlehensverträge sind entgeltliche Darlehensverträge zwischen einem Unternehmer als Darlehensgeber und einem Verbraucher als Darlehensnehmer. Keine Allgemein-Verbraucherdarlehensverträge sind Verträge,
 
 1.  
 bei denen der Nettodarlehensbetrag (Artikel 247 § 3 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche) weniger als 200 Euro beträgt,
@@ -5104,17 +5129,32 @@ bei denen der Darlehensnehmer das Darlehen binnen drei Monaten zurückzuzahlen h
 die von Arbeitgebern mit ihren Arbeitnehmern als Nebenleistung zum Arbeitsvertrag zu einem niedrigeren als dem marktüblichen effektiven Jahreszins (§ 6 der Preisangabenverordnung) abgeschlossen werden und anderen Personen nicht angeboten werden,
 
 5.  
-die nur mit einem begrenzten Personenkreis auf Grund von Rechtsvorschriften in öffentlichem Interesse abgeschlossen werden, wenn im Vertrag für den Darlehensnehmer günstigere als marktübliche Bedingungen und höchstens der marktübliche Sollzinssatz vereinbart sind.
+die nur mit einem begrenzten Personenkreis auf Grund von Rechtsvorschriften in öffentlichem Interesse abgeschlossen werden, wenn im Vertrag für den Darlehensnehmer günstigere als marktübliche Bedingungen und höchstens der marktübliche Sollzinssatz vereinbart sind,
 
-(3) § 358 Abs. 2 und 4 sowie die §§ 491a bis 495 sind nicht auf Darlehensverträge anzuwenden, die in ein nach den Vorschriften der Zivilprozessordnung errichtetes gerichtliches Protokoll aufgenommen oder durch einen gerichtlichen Beschluss über das Zustandekommen und den Inhalt eines zwischen den Parteien geschlossenen Vergleichs festgestellt sind, wenn in das Protokoll oder den Beschluss der Sollzinssatz, die bei Abschluss des Vertrags in Rechnung gestellten Kosten des Darlehens sowie die Voraussetzungen aufgenommen worden sind, unter denen der Sollzinssatz oder die Kosten angepasst werden können.
+6.  
+bei denen es sich um Immobiliar-Verbraucherdarlehensverträge gemäß Absatz 3 handelt.
+
+(3) Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensverträge zwischen einem Unternehmer als Darlehensgeber und einem Verbraucher als Darlehensnehmer, die
+
+1.  
+durch ein Grundpfandrecht oder eine Reallast besichert sind oder
+
+2.  
+für den Erwerb oder die Erhaltung des Eigentumsrechts an Grundstücken, an bestehenden oder zu errichtenden Gebäuden oder für den Erwerb oder die Erhaltung von grundstücksgleichen Rechten bestimmt sind.
+
+Keine Immobiliar-Verbraucherdarlehensverträge sind Verträge gemäß Absatz 2 Satz 2 Nummer 4. Auf Immobiliar-Verbraucherdarlehensverträge gemäß Absatz 2 Satz 2 Nummer 5 ist nur § 491a Absatz 4 anwendbar.
+
+(4) § 358 Abs. 2 und 4 sowie die §§ 491a bis 495 und 505a bis 505d sind nicht auf Darlehensverträge anzuwenden, die in ein nach den Vorschriften der Zivilprozessordnung errichtetes gerichtliches Protokoll aufgenommen oder durch einen gerichtlichen Beschluss über das Zustandekommen und den Inhalt eines zwischen den Parteien geschlossenen Vergleichs festgestellt sind, wenn in das Protokoll oder den Beschluss der Sollzinssatz, die bei Abschluss des Vertrags in Rechnung gestellten Kosten des Darlehens sowie die Voraussetzungen aufgenommen worden sind, unter denen der Sollzinssatz oder die Kosten angepasst werden können.
 
 ### § 491a Vorvertragliche Informationspflichten bei Verbraucherdarlehensverträgen
 
-(1) Der Darlehensgeber hat den Darlehensnehmer bei einem Verbraucherdarlehensvertrag über die sich aus Artikel 247 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergebenden Einzelheiten in der dort vorgesehenen Form zu unterrichten.
+(1) Der Darlehensgeber ist verpflichtet, den Darlehensnehmer nach Maßgabe des Artikels 247 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu informieren.
 
-(2) Der Darlehensnehmer kann vom Darlehensgeber einen Entwurf des Verbraucherdarlehensvertrags verlangen. Dies gilt nicht, solange der Darlehensgeber zum Vertragsabschluss nicht bereit ist.
+(2) Der Darlehensnehmer kann vom Darlehensgeber einen Entwurf des Verbraucherdarlehensvertrags verlangen. Dies gilt nicht, solange der Darlehensgeber zum Vertragsabschluss nicht bereit ist. Unterbreitet der Darlehensgeber bei einem Immobiliar-Verbraucherdarlehensvertrag dem Darlehensnehmer ein Angebot oder einen bindenden Vorschlag für bestimmte Vertragsbestimmungen, so muss er dem Darlehensnehmer anbieten, einen Vertragsentwurf auszuhändigen oder zu übermitteln; besteht kein Widerrufsrecht nach § 495, ist der Darlehensgeber dazu verpflichtet, dem Darlehensnehmer einen Vertragsentwurf auszuhändigen oder zu übermitteln.
 
-(3) Der Darlehensgeber ist verpflichtet, dem Darlehensnehmer vor Abschluss eines Verbraucherdarlehensvertrags angemessene Erläuterungen zu geben, damit der Darlehensnehmer in die Lage versetzt wird, zu beurteilen, ob der Vertrag dem von ihm verfolgten Zweck und seinen Vermögensverhältnissen gerecht wird. Hierzu sind gegebenenfalls die vorvertraglichen Informationen gemäß Absatz 1, die Hauptmerkmale der vom Darlehensgeber angebotenen Verträge sowie ihre vertragstypischen Auswirkungen auf den Darlehensnehmer, einschließlich der Folgen bei Zahlungsverzug, zu erläutern.
+(3) Der Darlehensgeber ist verpflichtet, dem Darlehensnehmer vor Abschluss eines Verbraucherdarlehensvertrags angemessene Erläuterungen zu geben, damit der Darlehensnehmer in die Lage versetzt wird, zu beurteilen, ob der Vertrag dem von ihm verfolgten Zweck und seinen Vermögensverhältnissen gerecht wird. Hierzu sind gegebenenfalls die vorvertraglichen Informationen gemäß Absatz 1, die Hauptmerkmale der vom Darlehensgeber angebotenen Verträge sowie ihre vertragstypischen Auswirkungen auf den Darlehensnehmer, einschließlich der Folgen bei Zahlungsverzug, zu erläutern. Werden mit einem Immobiliar-Verbraucherdarlehensvertrag Finanzprodukte oder -dienstleistungen im Paket angeboten, so muss dem Darlehensnehmer erläutert werden, ob sie gesondert gekündigt werden können und welche Folgen die Kündigung hat.
+
+(4) Bei einem Immobiliar-Verbraucherdarlehensvertrag entsprechend § 491 Absatz 2 Satz 2 Nummer 5 ist der Darlehensgeber verpflichtet, den Darlehensnehmer rechtzeitig vor Abgabe von dessen Vertragserklärung auf einem dauerhaften Datenträger über die Merkmale gemäß den Abschnitten 3, 4 und 13 des in Artikel 247 § 1 Absatz 2 Satz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannten Musters zu informieren. Artikel 247 § 1 Absatz 2 Satz 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche findet Anwendung.
 
 ### § 492 Schriftform, Vertragsinhalt
 
@@ -5130,19 +5170,88 @@ die nur mit einem begrenzten Personenkreis auf Grund von Rechtsvorschriften in �
 
 (6) Enthält der Vertrag die Angaben nach Absatz 2 nicht oder nicht vollständig, können sie nach wirksamem Vertragsschluss oder in den Fällen des § 494 Absatz 2 Satz 1 nach Gültigwerden des Vertrags auf einem dauerhaften Datenträger nachgeholt werden. Hat das Fehlen von Angaben nach Absatz 2 zu Änderungen der Vertragsbedingungen gemäß § 494 Absatz 2 Satz 2 bis Absatz 6 geführt, kann die Nachholung der Angaben nur dadurch erfolgen, dass der Darlehensnehmer die nach § 494 Absatz 7 erforderliche Abschrift des Vertrags erhält. In den sonstigen Fällen muss der Darlehensnehmer spätestens im Zeitpunkt der Nachholung der Angaben eine der in § 356b Absatz 1 genannten Unterlagen erhalten. Mit der Nachholung der Angaben nach Absatz 2 ist der Darlehensnehmer auf einem dauerhaften Datenträger darauf hinzuweisen, dass die Widerrufsfrist von einem Monat nach Erhalt der nachgeholten Angaben beginnt.
 
+(7) Die Vereinbarung eines veränderlichen Sollzinssatzes, der sich nach einem Index oder Referenzzinssatz richtet, ist nur wirksam, wenn der Index oder Referenzzinssatz objektiv, eindeutig bestimmt und für Darlehensgeber und Darlehensnehmer verfügbar und überprüfbar ist.
+
+### § 492a Kopplungsgeschäfte bei Immobiliar-Verbraucherdarlehensverträgen
+
+(1) Der Darlehensgeber darf den Abschluss eines Immobiliar-Verbraucherdarlehenvertrags unbeschadet des § 492b nicht davon abhängig machen, dass der Darlehensnehmer oder ein Dritter weitere Finanzprodukte oder -dienstleistungen erwirbt (Kopplungsgeschäft). Ist der Darlehensgeber zum Abschluss des Immobiliar-Verbraucherdarlehensvertrags bereit, ohne dass der Verbraucher weitere Finanzprodukte oder -dienstleistungen erwirbt, liegt ein Kopplungsgeschäft auch dann nicht vor, wenn die Bedingungen für den Immobiliar-Verbraucherdarlehensvertrag von denen abweichen, zu denen er zusammen mit den weiteren Finanzprodukten oder -dienstleistungen angeboten wird.
+
+(2) Soweit ein Kopplungsgeschäft unzulässig ist, sind die mit dem Immobiliar-Verbraucherdarlehensvertrag gekoppelten Geschäfte nichtig; die Wirksamkeit des Immobiliar-Verbraucherdarlehensvertrags bleibt davon unberührt.
+
+### § 492b Zulässige Kopplungsgeschäfte
+
+(1) Ein Kopplungsgeschäft ist zulässig, wenn der Darlehensgeber den Abschluss eines Immobiliar-Verbraucherdarlehensvertrags davon abhängig macht, dass der Darlehensnehmer, ein Familienangehöriger des Darlehensnehmers oder beide zusammen
+
+1.  
+ein Zahlungs- oder ein Sparkonto eröffnen, dessen einziger Zweck die Ansammlung von Kapital ist, um
+
+a)  
+das Immobiliar-Verbraucherdarlehen zurückzuzahlen oder zu bedienen,
+
+b)  
+die erforderlichen Mittel für die Gewährung des Darlehens bereitzustellen oder
+
+c)  
+als zusätzliche Sicherheit für den Darlehensgeber für den Fall eines Zahlungsausfalls zu dienen;
+
+2.  
+ein Anlageprodukt oder ein privates Rentenprodukt erwerben oder behalten, das
+
+a)  
+in erster Linie als Ruhestandseinkommen dient und
+
+b)  
+bei Zahlungsausfall als zusätzliche Sicherheit für den Darlehensgeber dient oder das der Ansammlung von Kapital dient, um damit das Immobiliar-Verbraucherdarlehen zurückzuzahlen oder zu bedienen oder um damit die erforderlichen Mittel für die Gewährung des Darlehens bereitzustellen;
+
+3.  
+einen weiteren Darlehensvertrag abschließen, bei dem das zurückzuzahlende Kapital auf einem vertraglich festgelegten Prozentsatz des Werts der Immobilie beruht, die diese zum Zeitpunkt der Rückzahlung oder Rückzahlungen des Kapitals (Darlehensvertrag mit Wertbeteiligung) hat.
+
+(2) Ein Kopplungsgeschäft ist zulässig, wenn der Darlehensgeber den Abschluss eines Immobiliar-Verbraucherdarlehensvertrags davon abhängig macht, dass der Darlehensnehmer im Zusammenhang mit dem Immobiliar-Verbraucherdarlehensvertrag eine einschlägige Versicherung abschließt und dem Darlehensnehmer gestattet ist, diese Versicherung auch bei einem anderen als bei dem vom Darlehensgeber bevorzugten Anbieter abzuschließen.
+
+(3) Ein Kopplungsgeschäft ist zulässig, wenn die für den Darlehensgeber zuständige Aufsichtsbehörde die weiteren Finanzprodukte oder -dienstleistungen sowie deren Kopplung mit dem Immobiliar-Verbraucherdarlehensvertrag genehmigt hat.
+
 ### § 493 Informationen während des Vertragsverhältnisses
 
 (1) Ist in einem Verbraucherdarlehensvertrag der Sollzinssatz gebunden und endet die Sollzinsbindung vor der für die Rückzahlung bestimmten Zeit, unterrichtet der Darlehensgeber den Darlehensnehmer spätestens drei Monate vor Ende der Sollzinsbindung darüber, ob er zu einer neuen Sollzinsbindungsabrede bereit ist. Erklärt sich der Darlehensgeber hierzu bereit, muss die Unterrichtung den zum Zeitpunkt der Unterrichtung vom Darlehensgeber angebotenen Sollzinssatz enthalten.
 
 (2) Der Darlehensgeber unterrichtet den Darlehensnehmer spätestens drei Monate vor Beendigung eines Verbraucherdarlehensvertrags darüber, ob er zur Fortführung des Darlehensverhältnisses bereit ist. Erklärt sich der Darlehensgeber zur Fortführung bereit, muss die Unterrichtung die zum Zeitpunkt der Unterrichtung gültigen Pflichtangaben gemäß § 491a Abs. 1 enthalten.
 
-(3) Die Anpassung des Sollzinssatzes eines Verbraucherdarlehensvertrags mit veränderlichem Sollzinssatz wird erst wirksam, nachdem der Darlehensgeber den Darlehensnehmer über die Einzelheiten unterrichtet hat, die sich aus Artikel 247 § 15 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergeben. Abweichende Vereinbarungen über die Wirksamkeit sind im Rahmen des Artikels 247 § 15 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zulässig.
+(3) Die Anpassung des Sollzinssatzes eines Verbraucherdarlehensvertrags mit veränderlichem Sollzinssatz wird erst wirksam, nachdem der Darlehensgeber den Darlehensnehmer über die Einzelheiten unterrichtet hat, die sich aus Artikel 247 § 15 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergeben. Abweichende Vereinbarungen über die Wirksamkeit sind im Rahmen des Artikels 247 § 15 Absatz 2 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zulässig.
 
-(4) Wurden Forderungen aus dem Darlehensvertrag abgetreten, treffen die Pflichten aus den Absätzen 1 bis 3 auch den neuen Gläubiger, wenn nicht der bisherige Darlehensgeber mit dem neuen Gläubiger vereinbart hat, dass im Verhältnis zum Darlehensnehmer weiterhin allein der bisherige Darlehensgeber auftritt.
+(4) Bei einem Vertrag über ein Immobiliar-Verbraucherdarlehen in Fremdwährung gemäß § 503 Absatz 1 Satz 1, auch in Verbindung mit Satz 3, hat der Darlehensgeber den Darlehensnehmer unverzüglich zu informieren, wenn der Wert des noch zu zahlenden Restbetrags oder der Wert der regelmäßigen Raten in der Landeswährung des Darlehensnehmers um mehr als 20 Prozent gegenüber dem Wert steigt, der bei Zugrundelegung des Wechselkurses bei Vertragsabschluss gegeben wäre. Die Information
+
+1.  
+ist auf einem dauerhaften Datenträger zu übermitteln,
+
+2.  
+hat die Angabe über die Veränderung des Restbetrags in der Landeswährung des Darlehensnehmers zu enthalten,
+
+3.  
+hat den Hinweis auf die Möglichkeit einer Währungsumstellung aufgrund des § 503 und die hierfür geltenden Bedingungen und gegebenenfalls die Erläuterung weiterer Möglichkeiten zur Begrenzung des Wechselkursrisikos zu enthalten und
+
+4.  
+ist so lange in regelmäßigen Abständen zu erteilen, bis die Differenz von 20 Prozent wieder unterschritten wird.
+
+Die Sätze 1 und 2 sind entsprechend anzuwenden, wenn ein Immobiliar-Verbraucherdarlehensvertrag in der Währung des Mitgliedstaats der Europäischen Union, in dem der Darlehensnehmer bei Vertragsschluss seinen Wohnsitz hat, geschlossen wurde und der Darlehensnehmer zum Zeitpunkt der maßgeblichen Kreditwürdigkeitsprüfung in einer anderen Währung überwiegend sein Einkommen bezieht oder Vermögenswerte hält, aus denen das Darlehen zurückgezahlt werden soll.
+
+(5) Wenn der Darlehensnehmer eines Immobiliar-Verbraucherdarlehensvertrags dem Darlehensgeber mitteilt, dass er eine vorzeitige Rückzahlung des Darlehens beabsichtigt, ist der Darlehensgeber verpflichtet, ihm unverzüglich die für die Prüfung dieser Möglichkeit erforderlichen Informationen auf einem dauerhaften Datenträger zu übermitteln. Diese Informationen müssen insbesondere folgende Angaben enthalten:
+
+1.  
+Auskunft über die Zulässigkeit der vorzeitigen Rückzahlung,
+
+2.  
+im Fall der Zulässigkeit die Höhe des zurückzuzahlenden Betrags und
+
+3.  
+gegebenenfalls die Höhe einer Vorfälligkeitsentschädigung.
+
+Soweit sich die Informationen auf Annahmen stützen, müssen diese nachvollziehbar und sachlich gerechtfertigt sein und als solche dem Darlehensnehmer gegenüber offengelegt werden.
+
+(6) Wurden Forderungen aus dem Darlehensvertrag abgetreten, treffen die Pflichten aus den Absätzen 1 bis 5 auch den neuen Gläubiger, wenn nicht der bisherige Darlehensgeber mit dem neuen Gläubiger vereinbart hat, dass im Verhältnis zum Darlehensnehmer weiterhin allein der bisherige Darlehensgeber auftritt.
 
 ### § 494 Rechtsfolgen von Formmängeln
 
-(1) Der Verbraucherdarlehensvertrag und die auf Abschluss eines solchen Vertrags vom Verbraucher erteilte Vollmacht sind nichtig, wenn die Schriftform insgesamt nicht eingehalten ist oder wenn eine der in Artikel 247 §§ 6 und 9 bis 13 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche für den Verbraucherdarlehensvertrag vorgeschriebenen Angaben fehlt.
+(1) Der Verbraucherdarlehensvertrag und die auf Abschluss eines solchen Vertrags vom Verbraucher erteilte Vollmacht sind nichtig, wenn die Schriftform insgesamt nicht eingehalten ist oder wenn eine der in Artikel 247 §§ 6 und 10 bis 13 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche für den Verbraucherdarlehensvertrag vorgeschriebenen Angaben fehlt.
 
 (2) Ungeachtet eines Mangels nach Absatz 1 wird der Verbraucherdarlehensvertrag gültig, soweit der Darlehensnehmer das Darlehen empfängt oder in Anspruch nimmt. Jedoch ermäßigt sich der dem Verbraucherdarlehensvertrag zugrunde gelegte Sollzinssatz auf den gesetzlichen Zinssatz, wenn die Angabe des Sollzinssatzes, des effektiven Jahreszinses oder des Gesamtbetrags fehlt.
 
@@ -5152,11 +5261,11 @@ die nur mit einem begrenzten Personenkreis auf Grund von Rechtsvorschriften in �
 
 (5) Wurden Teilzahlungen vereinbart, ist deren Höhe vom Darlehensgeber unter Berücksichtigung der verminderten Zinsen oder Kosten neu zu berechnen.
 
-(6) Fehlen im Vertrag Angaben zur Laufzeit oder zum Kündigungsrecht, ist der Darlehensnehmer jederzeit zur Kündigung berechtigt. Fehlen Angaben zu Sicherheiten, können sie nicht gefordert werden. Satz 2 gilt nicht, wenn der Nettodarlehensbetrag 75 000 Euro übersteigt.
+(6) Fehlen im Vertrag Angaben zur Laufzeit oder zum Kündigungsrecht, ist der Darlehensnehmer jederzeit zur Kündigung berechtigt. Fehlen Angaben zu Sicherheiten, so können Sicherheiten nicht gefordert werden; dies gilt nicht bei Allgemein-Verbraucherdarlehensverträgen, wenn der Nettodarlehensbetrag 75 000 Euro übersteigt. Fehlen Angaben zum Umwandlungsrecht bei Immobiliar-Verbraucherdarlehen in Fremdwährung, so kann das Umwandlungsrecht jederzeit ausgeübt werden.
 
 (7) Der Darlehensgeber stellt dem Darlehensnehmer eine Abschrift des Vertrags zur Verfügung, in der die Vertragsänderungen berücksichtigt sind, die sich aus den Absätzen 2 bis 6 ergeben.
 
-### § 495 Widerrufsrecht
+### § 495 Widerrufsrecht; Bedenkzeit
 
 (1) Dem Darlehensnehmer steht bei einem Verbraucherdarlehensvertrag ein Widerrufsrecht nach § 355 zu.
 
@@ -5171,11 +5280,13 @@ die notariell zu beurkunden sind, wenn der Notar bestätigt, dass die Rechte des
 3.  
 die § 504 Abs. 2 oder § 505 entsprechen.
 
+(3) Bei Immobiliar-Verbraucherdarlehensverträgen ist dem Darlehensnehmer in den Fällen des Absatzes 2 vor Vertragsschluss eine Bedenkzeit von zumindest sieben Tagen einzuräumen. Während des Laufs der Frist ist der Darlehensgeber an sein Angebot gebunden. Die Bedenkzeit beginnt mit der Aushändigung des Vertragsangebots an den Darlehensnehmer.
+
 ### § 496 Einwendungsverzicht, Wechsel- und Scheckverbot
 
 (1) Eine Vereinbarung, durch die der Darlehensnehmer auf das Recht verzichtet, Einwendungen, die ihm gegenüber dem Darlehensgeber zustehen, gemäß § 404 einem Abtretungsgläubiger entgegenzusetzen oder eine ihm gegen den Darlehensgeber zustehende Forderung gemäß § 406 auch dem Abtretungsgläubiger gegenüber aufzurechnen, ist unwirksam.
 
-(2) Wird eine Forderung des Darlehensgebers aus einem Darlehensvertrag an einen Dritten abgetreten oder findet in der Person des Darlehensgebers ein Wechsel statt, ist der Darlehensnehmer unverzüglich darüber sowie über die Kontaktdaten des neuen Gläubigers nach Artikel 246b § 1 Absatz 1 Nummer 1, 3 und 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu unterrichten. Die Unterrichtung ist bei Abtretungen entbehrlich, wenn der bisherige Darlehensgeber mit dem neuen Gläubiger vereinbart hat, dass im Verhältnis zum Darlehensnehmer weiterhin allein der bisherige Darlehensgeber auftritt. Fallen die Voraussetzungen des Satzes 2 fort, ist die Unterrichtung unverzüglich nachzuholen.
+(2) Wird eine Forderung des Darlehensgebers aus einem Verbraucherdarlehensvertrag an einen Dritten abgetreten oder findet in der Person des Darlehensgebers ein Wechsel statt, ist der Darlehensnehmer unverzüglich darüber sowie über die Kontaktdaten des neuen Gläubigers nach Artikel 246b § 1 Absatz 1 Nummer 1, 3 und 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu unterrichten. Die Unterrichtung ist bei Abtretungen entbehrlich, wenn der bisherige Darlehensgeber mit dem neuen Gläubiger vereinbart hat, dass im Verhältnis zum Darlehensnehmer weiterhin allein der bisherige Darlehensgeber auftritt. Fallen die Voraussetzungen des Satzes 2 fort, ist die Unterrichtung unverzüglich nachzuholen.
 
 (3) Der Darlehensnehmer darf nicht verpflichtet werden, für die Ansprüche des Darlehensgebers aus dem Verbraucherdarlehensvertrag eine Wechselverbindlichkeit einzugehen. Der Darlehensgeber darf vom Darlehensnehmer zur Sicherung seiner Ansprüche aus dem Verbraucherdarlehensvertrag einen Scheck nicht entgegennehmen. Der Darlehensnehmer kann vom Darlehensgeber jederzeit die Herausgabe eines Wechsels oder Schecks, der entgegen Satz 1 oder 2 begeben worden ist, verlangen. Der Darlehensgeber haftet für jeden Schaden, der dem Darlehensnehmer aus einer solchen Wechsel- oder Scheckbegebung entsteht.
 
@@ -5187,31 +5298,41 @@ die § 504 Abs. 2 oder § 505 entsprechen.
 
 (3) Zahlungen des Darlehensnehmers, die zur Tilgung der gesamten fälligen Schuld nicht ausreichen, werden abweichend von § 367 Abs. 1 zunächst auf die Kosten der Rechtsverfolgung, dann auf den übrigen geschuldeten Betrag (Absatz 1) und zuletzt auf die Zinsen (Absatz 2) angerechnet. Der Darlehensgeber darf Teilzahlungen nicht zurückweisen. Die Verjährung der Ansprüche auf Darlehensrückzahlung und Zinsen ist vom Eintritt des Verzugs nach Absatz 1 an bis zu ihrer Feststellung in einer in § 197 Abs. 1 Nr. 3 bis 5 bezeichneten Art gehemmt, jedoch nicht länger als zehn Jahre von ihrer Entstehung an. Auf die Ansprüche auf Zinsen findet § 197 Abs. 2 keine Anwendung. Die Sätze 1 bis 4 finden keine Anwendung, soweit Zahlungen auf Vollstreckungstitel geleistet werden, deren Hauptforderung auf Zinsen lautet.
 
-(4) (weggefallen)
+(4) Bei Immobiliar-Verbraucherdarlehensverträgen beträgt der Verzugszinssatz abweichend von Absatz 1 für das Jahr 2,5 Prozentpunkte über dem Basiszinssatz. Die Absätze 2 und 3 Satz 1, 2, 4 und 5 sind auf Immobiliar-Verbraucherdarlehensverträge nicht anzuwenden.
 
 ### § 498 Gesamtfälligstellung bei Teilzahlungsdarlehen
 
-Wegen Zahlungsverzugs des Darlehensnehmers kann der Darlehensgeber den Verbraucherdarlehensvertrag bei einem Darlehen, das in Teilzahlungen zu tilgen ist, nur kündigen, wenn
+(1) Der Darlehensgeber kann den Verbraucherdarlehensvertrag bei einem Darlehen, das in Teilzahlungen zu tilgen ist, wegen Zahlungsverzugs des Darlehensnehmers nur dann kündigen, wenn
 
 1.  
-der Darlehensnehmer mit mindestens zwei aufeinander folgenden Teilzahlungen ganz oder teilweise und mit mindestens 10 Prozent, bei einer Laufzeit des Verbraucherdarlehensvertrags von mehr als drei Jahren mit mindestens 5 Prozent des Nennbetrags des Darlehens in Verzug ist und
+der Darlehensnehmer
+
+a)  
+mit mindestens zwei aufeinander folgenden Teilzahlungen ganz oder teilweise in Verzug ist,
+
+b)  
+bei einer Vertragslaufzeit bis zu drei Jahren mit mindestens 10 Prozent oder bei einer Vertragslaufzeit von mehr als drei Jahren mit mindestens 5 Prozent des Nennbetrags des Darlehens in Verzug ist und
 
 2.  
 der Darlehensgeber dem Darlehensnehmer erfolglos eine zweiwöchige Frist zur Zahlung des rückständigen Betrags mit der Erklärung gesetzt hat, dass er bei Nichtzahlung innerhalb der Frist die gesamte Restschuld verlange.
 
 Der Darlehensgeber soll dem Darlehensnehmer spätestens mit der Fristsetzung ein Gespräch über die Möglichkeiten einer einverständlichen Regelung anbieten.
 
+(2) Bei einem Immobiliar-Verbraucherdarlehensvertrag muss der Darlehensnehmer abweichend von Absatz 1 Satz 1 Nummer 1 Buchstabe b mit mindestens 2,5 Prozent des Nennbetrags des Darlehens in Verzug sein.
+
 ### § 499 Kündigungsrecht des Darlehensgebers; Leistungsverweigerung
 
-(1) In einem Verbraucherdarlehensvertrag ist eine Vereinbarung über ein Kündigungsrecht des Darlehensgebers unwirksam, wenn eine bestimmte Vertragslaufzeit vereinbart wurde oder die Kündigungsfrist zwei Monate unterschreitet.
+(1) In einem Allgemein-Verbraucherdarlehensvertrag ist eine Vereinbarung über ein Kündigungsrecht des Darlehensgebers unwirksam, wenn eine bestimmte Vertragslaufzeit vereinbart wurde oder die Kündigungsfrist zwei Monate unterschreitet.
 
-(2) Der Darlehensgeber ist bei entsprechender Vereinbarung berechtigt, die Auszahlung eines Darlehens, bei dem eine Zeit für die Rückzahlung nicht bestimmt ist, aus einem sachlichen Grund zu verweigern. Beabsichtigt der Darlehensgeber dieses Recht auszuüben, hat er dies dem Darlehensnehmer unverzüglich mitzuteilen und ihn über die Gründe möglichst vor, spätestens jedoch unverzüglich nach der Rechtsausübung zu unterrichten. Die Unterrichtung über die Gründe unterbleibt, soweit hierdurch die öffentliche Sicherheit oder Ordnung gefährdet würde.
+(2) Der Darlehensgeber ist bei entsprechender Vereinbarung berechtigt, die Auszahlung eines Allgemein-Verbraucherdarlehens, bei dem eine Zeit für die Rückzahlung nicht bestimmt ist, aus einem sachlichen Grund zu verweigern. Beabsichtigt der Darlehensgeber dieses Recht auszuüben, hat er dies dem Darlehensnehmer unverzüglich mitzuteilen und ihn über die Gründe möglichst vor, spätestens jedoch unverzüglich nach der Rechtsausübung zu unterrichten. Die Unterrichtung über die Gründe unterbleibt, soweit hierdurch die öffentliche Sicherheit oder Ordnung gefährdet würde.
+
+(3) Der Darlehensgeber kann einen Verbraucherdarlehensvertrag nicht allein deshalb kündigen, auf andere Weise beenden oder seine Änderung verlangen, weil die vom Darlehensnehmer vor Vertragsschluss gemachten Angaben unvollständig waren oder weil die Kreditwürdigkeitsprüfung des Darlehensnehmers nicht ordnungsgemäß durchgeführt wurde. Satz 1 findet keine Anwendung, soweit der Mangel der Kreditwürdigkeitsprüfung darauf beruht, dass der Darlehensnehmer dem Darlehensgeber für die Kreditwürdigkeitsprüfung relevante Informationen wissentlich vorenthalten oder diese gefälscht hat.
 
 ### § 500 Kündigungsrecht des Darlehensnehmers; vorzeitige Rückzahlung
 
-(1) Der Darlehensnehmer kann einen Verbraucherdarlehensvertrag, bei dem eine Zeit für die Rückzahlung nicht bestimmt ist, ganz oder teilweise kündigen, ohne eine Frist einzuhalten. Eine Vereinbarung über eine Kündigungsfrist von mehr als einem Monat ist unwirksam.
+(1) Der Darlehensnehmer kann einen Allgemein-Verbraucherdarlehensvertrag, bei dem eine Zeit für die Rückzahlung nicht bestimmt ist, ganz oder teilweise kündigen, ohne eine Frist einzuhalten. Eine Vereinbarung über eine Kündigungsfrist von mehr als einem Monat ist unwirksam.
 
-(2) Der Darlehensnehmer kann seine Verbindlichkeiten aus einem Verbraucherdarlehensvertrag jederzeit ganz oder teilweise vorzeitig erfüllen.
+(2) Der Darlehensnehmer kann seine Verbindlichkeiten aus einem Verbraucherdarlehensvertrag jederzeit ganz oder teilweise vorzeitig erfüllen. Abweichend von Satz 1 kann der Darlehensnehmer eines Immobiliar-Verbraucherdarlehensvertrags, für den ein gebundener Sollzinssatz vereinbart wurde, seine Verbindlichkeiten im Zeitraum der Sollzinsbindung nur dann ganz oder teilweise vorzeitig erfüllen, wenn hierfür ein berechtigtes Interesse des Darlehensnehmers besteht.
 
 ### § 501 Kostenermäßigung
 
@@ -5219,13 +5340,7 @@ Soweit der Darlehensnehmer seine Verbindlichkeiten vorzeitig erfüllt oder die R
 
 ### § 502 Vorfälligkeitsentschädigung
 
-(1) Der Darlehensgeber kann im Fall der vorzeitigen Rückzahlung eine angemessene Vorfälligkeitsentschädigung für den unmittelbar mit der vorzeitigen Rückzahlung zusammenhängenden Schaden verlangen, wenn der Darlehensnehmer zum Zeitpunkt der Rückzahlung Zinsen zu einem bei Vertragsabschluss vereinbarten, gebundenen Sollzinssatz schuldet. Die Vorfälligkeitsentschädigung darf folgende Beträge jeweils nicht überschreiten:
-
-1.  
-1 Prozent beziehungsweise, wenn der Zeitraum zwischen der vorzeitigen und der vereinbarten Rückzahlung ein Jahr nicht übersteigt, 0,5 Prozent des vorzeitig zurückgezahlten Betrags,
-
-2.  
-den Betrag der Sollzinsen, den der Darlehensnehmer in dem Zeitraum zwischen der vorzeitigen und der vereinbarten Rückzahlung entrichtet hätte.
+(1) Der Darlehensgeber kann im Fall der vorzeitigen Rückzahlung eine angemessene Vorfälligkeitsentschädigung für den unmittelbar mit der vorzeitigen Rückzahlung zusammenhängenden Schaden verlangen, wenn der Darlehensnehmer zum Zeitpunkt der Rückzahlung Zinsen zu einem gebundenen Sollzinssatz schuldet. Bei Allgemein-Verbraucherdarlehensverträgen gilt Satz 1 nur, wenn der gebundene Sollzinssatz bei Vertragsabschluss vereinbart wurde.
 
 (2) Der Anspruch auf Vorfälligkeitsentschädigung ist ausgeschlossen, wenn
 
@@ -5235,29 +5350,90 @@ die Rückzahlung aus den Mitteln einer Versicherung bewirkt wird, die auf Grund 
 2.  
 im Vertrag die Angaben über die Laufzeit des Vertrags, das Kündigungsrecht des Darlehensnehmers oder die Berechnung der Vorfälligkeitsentschädigung unzureichend sind.
 
-### § 503 Immobiliardarlehensverträge
+(3) Bei Allgemein-Verbraucherdarlehensverträgen darf die Vorfälligkeitsentschädigung folgende Beträge jeweils nicht überschreiten:
 
-(1) § 497 Abs. 2 und 3 Satz 1, 2, 4 und 5 sowie die §§ 499, 500 und 502 sind nicht anzuwenden auf Verträge, bei denen die Zurverfügungstellung des Darlehens von der Sicherung durch ein Grundpfandrecht abhängig gemacht wird und zu Bedingungen erfolgt, die für grundpfandrechtlich abgesicherte Verträge und deren Zwischenfinanzierung üblich sind; der Sicherung durch ein Grundpfandrecht steht es gleich, wenn von einer solchen Sicherung nach § 7 Abs. 3 bis 5 des Gesetzes über Bausparkassen abgesehen wird.
+1.  
+1 Prozent des vorzeitig zurückgezahlten Betrags oder, wenn der Zeitraum zwischen der vorzeitigen und der vereinbarten Rückzahlung ein Jahr nicht überschreitet, 0,5 Prozent des vorzeitig zurückgezahlten Betrags,
 
-(2) Der Verzugszinssatz beträgt abweichend von § 497 Abs. 1 für das Jahr 2,5 Prozentpunkte über dem Basiszinssatz.
+2.  
+den Betrag der Sollzinsen, den der Darlehensnehmer in dem Zeitraum zwischen der vorzeitigen und der vereinbarten Rückzahlung entrichtet hätte.
 
-(3) § 498 Satz 1 Nr. 1 gilt mit der Maßgabe, dass der Darlehensnehmer mit mindestens zwei aufeinander folgenden Teilzahlungen ganz oder teilweise und mit mindestens 2,5 Prozent des Nennbetrags des Darlehens in Verzug sein muss.
+### § 503 Umwandlung bei Immobiliar-Verbraucherdarlehen in Fremdwährung
+
+(1) Bei einem nicht auf die Währung des Mitgliedstaats der Europäischen Union, in dem der Darlehensnehmer bei Vertragsschluss seinen Wohnsitz hat (Landeswährung des Darlehensnehmers), geschlossenen Immobiliar-Verbraucherdarlehensvertrag (Immobiliar-Verbraucherdarlehensvertrag in Fremdwährung) kann der Darlehensnehmer die Umwandlung des Darlehens in die Landeswährung des Darlehensnehmers verlangen. Das Recht auf Umwandlung besteht dann, wenn der Wert des ausstehenden Restbetrags oder der Wert der regelmäßigen Raten in der Landeswährung des Darlehensnehmers auf Grund der Änderung des Wechselkurses um mehr als 20 Prozent über dem Wert liegt, der bei Zugrundelegung des Wechselkurses bei Vertragsabschluss gegeben wäre. Im Darlehensvertrag kann abweichend von Satz 1 vereinbart werden, dass die Landeswährung des Darlehensnehmers ausschließlich oder ergänzend die Währung ist, in der er zum Zeitpunkt der maßgeblichen Kreditwürdigkeitsprüfung überwiegend sein Einkommen bezieht oder Vermögenswerte hält, aus denen das Darlehen zurückgezahlt werden soll.
+
+(2) Die Umstellung des Darlehens hat zu dem Wechselkurs zu erfolgen, der dem am Tag des Antrags auf Umstellung geltenden Marktwechselkurs entspricht. Satz 1 gilt nur, wenn im Darlehensvertrag nicht etwas anderes vereinbart wurde.
 
 ### § 504 Eingeräumte Überziehungsmöglichkeit
 
 (1) Ist ein Verbraucherdarlehen in der Weise gewährt, dass der Darlehensgeber in einem Vertragsverhältnis über ein laufendes Konto dem Darlehensnehmer das Recht einräumt, sein Konto in bestimmter Höhe zu überziehen (Überziehungsmöglichkeit), hat der Darlehensgeber den Darlehensnehmer in regelmäßigen Zeitabständen über die Angaben zu unterrichten, die sich aus Artikel 247 § 16 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergeben. Ein Anspruch auf Vorfälligkeitsentschädigung aus § 502 ist ausgeschlossen. § 493 Abs. 3 ist nur bei einer Erhöhung des Sollzinssatzes anzuwenden und gilt entsprechend bei einer Erhöhung der vereinbarten sonstigen Kosten. § 499 Abs. 1 ist nicht anzuwenden.
 
-(2) Ist in einer Überziehungsmöglichkeit vereinbart, dass nach der Auszahlung die Laufzeit höchstens drei Monate beträgt oder der Darlehensgeber kündigen kann, ohne eine Frist einzuhalten, sind § 491a Abs. 3, die §§ 495, 499 Abs. 2 und § 500 Abs. 1 Satz 2 nicht anzuwenden. § 492 Abs. 1 ist nicht anzuwenden, wenn außer den Sollzinsen keine weiteren laufenden Kosten vereinbart sind, die Sollzinsen nicht in kürzeren Zeiträumen als drei Monaten fällig werden und der Darlehensgeber dem Darlehensnehmer den Vertragsinhalt spätestens unverzüglich nach Vertragsabschluss auf einem dauerhaften Datenträger mitteilt.
+(2) Ist in einer Überziehungsmöglichkeit in Form des Allgemein-Verbraucherdarlehensvertrags vereinbart, dass nach der Auszahlung die Laufzeit höchstens drei Monate beträgt oder der Darlehensgeber kündigen kann, ohne eine Frist einzuhalten, sind § 491a Abs. 3, die §§ 495, 499 Abs. 2 und § 500 Abs. 1 Satz 2 nicht anzuwenden. § 492 Abs. 1 ist nicht anzuwenden, wenn außer den Sollzinsen keine weiteren laufenden Kosten vereinbart sind, die Sollzinsen nicht in kürzeren Zeiträumen als drei Monaten fällig werden und der Darlehensgeber dem Darlehensnehmer den Vertragsinhalt spätestens unverzüglich nach Vertragsabschluss auf einem dauerhaften Datenträger mitteilt.
+
+### § 504a Beratungspflicht bei Inanspruchnahme der Überziehungsmöglichkeit
+
+(1) Der Darlehensgeber hat dem Darlehensnehmer eine Beratung gemäß Absatz 2 anzubieten, wenn der Darlehensnehmer eine ihm eingeräumte Überziehungsmöglichkeit ununterbrochen über einen Zeitraum von sechs Monaten und durchschnittlich in Höhe eines Betrags in Anspruch genommen hat, der 75 Prozent des vereinbarten Höchstbetrags übersteigt. Wenn der Rechnungsabschluss für das laufende Konto vierteljährlich erfolgt, ist der maßgebliche Zeitpunkt für das Vorliegen der Voraussetzungen nach Satz 1 der jeweilige Rechnungsabschluss. Das Beratungsangebot ist dem Darlehensnehmer in Textform auf dem Kommunikationsweg zu unterbreiten, der für den Kontakt mit dem Darlehensnehmer üblicherweise genutzt wird. Das Beratungsangebot ist zu dokumentieren.
+
+(2) Nimmt der Darlehensnehmer das Angebot an, ist eine Beratung zu möglichen kostengünstigen Alternativen zur Inanspruchnahme der Überziehungsmöglichkeit und zu möglichen Konsequenzen einer weiteren Überziehung des laufenden Kontos durchzuführen sowie gegebenenfalls auf geeignete Beratungseinrichtungen hinzuweisen. Die Beratung hat in Form eines persönlichen Gesprächs zu erfolgen. Für dieses können auch Fernkommunikationsmittel genutzt werden. Der Ort und die Zeit des Beratungsgesprächs sind zu dokumentieren.
+
+(3) Nimmt der Darlehensnehmer das Beratungsangebot nicht an oder wird ein Vertrag über ein geeignetes kostengünstigeres Finanzprodukt nicht geschlossen, hat der Darlehensgeber das Beratungsangebot bei erneutem Vorliegen der Voraussetzungen nach Absatz 1 zu wiederholen. Dies gilt nicht, wenn der Darlehensnehmer ausdrücklich erklärt, keine weiteren entsprechenden Beratungsangebote erhalten zu wollen.
 
 ### § 505 Geduldete Überziehung
 
 (1) Vereinbart ein Unternehmer in einem Vertrag mit einem Verbraucher über ein laufendes Konto ohne eingeräumte Überziehungsmöglichkeit ein Entgelt für den Fall, dass er eine Überziehung des Kontos duldet, müssen in diesem Vertrag die Angaben nach Artikel 247 § 17 Abs. 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche in Textform enthalten sein und dem Verbraucher in regelmäßigen Zeitabständen auf einem dauerhaften Datenträger mitgeteilt werden. Satz 1 gilt entsprechend, wenn ein Darlehensgeber mit einem Darlehensnehmer in einem Vertrag über ein laufendes Konto mit eingeräumter Überziehungsmöglichkeit ein Entgelt für den Fall vereinbart, dass er eine Überziehung des Kontos über die vertraglich bestimmte Höhe hinaus duldet.
 
-(2) Kommt es im Fall des Absatzes 1 zu einer erheblichen Überziehung von mehr als einem Monat, unterrichtet der Darlehensgeber den Darlehensnehmer unverzüglich auf einem dauerhaften Datenträger über die sich aus Artikel 247 § 17 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergebenden Einzelheiten.
+(2) Kommt es im Fall des Absatzes 1 zu einer erheblichen Überziehung von mehr als einem Monat, unterrichtet der Darlehensgeber den Darlehensnehmer unverzüglich auf einem dauerhaften Datenträger über die sich aus Artikel 247 § 17 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergebenden Einzelheiten. Wenn es im Fall des Absatzes 1 zu einer ununterbrochenen Überziehung von mehr als drei Monaten gekommen ist und der durchschnittliche Überziehungsbetrag die Hälfte des durchschnittlichen monatlichen Geldeingangs innerhalb der letzten drei Monate auf diesem Konto übersteigt, so gilt § 504a entsprechend. Wenn der Rechnungsabschluss für das laufende Konto vierteljährlich erfolgt, ist der maßgebliche Zeitpunkt für das Vorliegen der Voraussetzungen nach Satz 1 der jeweilige Rechnungsabschluss.
 
 (3) Verstößt der Unternehmer gegen Absatz 1 oder Absatz 2, kann der Darlehensgeber über die Rückzahlung des Darlehens hinaus Kosten und Zinsen nicht verlangen.
 
-(4) Die §§ 491a bis 496 und 499 bis 502 sind auf Verbraucherdarlehensverträge, die unter den in Absatz 1 genannten Voraussetzungen zustande kommen, nicht anzuwenden.
+(4) Die §§ 491a bis 496 und 499 bis 502 sind auf Allgemein-Verbraucherdarlehensverträge, die unter den in Absatz 1 genannten Voraussetzungen zustande kommen, nicht anzuwenden.
+
+### § 505a Pflicht zur Kreditwürdigkeitsprüfung bei Verbraucherdarlehensverträgen
+
+(1) Der Darlehensgeber hat vor dem Abschluss eines Verbraucherdarlehensvertrags die Kreditwürdigkeit des Darlehensnehmers zu prüfen. Der Darlehensgeber darf den Verbraucherdarlehensvertrag nur abschließen, wenn aus der Kreditwürdigkeitsprüfung hervorgeht, dass bei einem Allgemein-Verbraucherdarlehensvertrag keine erheblichen Zweifel daran bestehen und dass es bei einem Immobiliar-Verbraucherdarlehensvertrag wahrscheinlich ist, dass der Darlehensnehmer seinen Verpflichtungen, die im Zusammenhang mit dem Darlehensvertrag stehen, vertragsgemäß nachkommen wird.
+
+(2) Wird der Nettodarlehensbetrag nach Abschluss des Darlehensvertrags deutlich erhöht, so ist die Kreditwürdigkeit auf aktualisierter Grundlage neu zu prüfen, es sei denn, der Erhöhungsbetrag des Nettodarlehens wurde bereits in die ursprüngliche Kreditwürdigkeitsprüfung einbezogen.
+
+### § 505b Grundlage der Kreditwürdigkeitsprüfung bei Verbraucherdarlehensverträgen
+
+(1) Bei Allgemein-Verbraucherdarlehensverträgen können Grundlage für die Kreditwürdigkeitsprüfung Auskünfte des Darlehensnehmers und erforderlichenfalls Auskünfte von Stellen sein, die geschäftsmäßig personenbezogene Daten, die zur Bewertung der Kreditwürdigkeit von Verbrauchern genutzt werden dürfen, zum Zweck der Übermittlung erheben, speichern, verändern oder nutzen.
+
+(2) Bei Immobiliar-Verbraucherdarlehensverträgen hat der Darlehensgeber die Kreditwürdigkeit des Darlehensnehmers auf der Grundlage notwendiger, ausreichender und angemessener Informationen zu Einkommen, Ausgaben sowie anderen finanziellen und wirtschaftlichen Umständen des Darlehensnehmers eingehend zu prüfen. Dabei hat der Darlehensgeber die Faktoren angemessen zu berücksichtigen, die für die Einschätzung relevant sind, ob der Darlehensnehmer seinen Verpflichtungen aus dem Darlehensvertrag voraussichtlich nachkommen kann. Die Kreditwürdigkeitsprüfung darf nicht hauptsächlich darauf gestützt werden, dass in den Fällen des § 491 Absatz 3 Satz 1 Nummer 1 der Wert des Grundstücks oder in den Fällen des § 491 Absatz 3 Satz 1 Nummer 2 der Wert des Grundstücks, Gebäudes oder grundstücksgleichen Rechts voraussichtlich zunimmt oder den Darlehensbetrag übersteigt.
+
+(3) Der Darlehensgeber ermittelt die gemäß Absatz 2 erforderlichen Informationen aus einschlägigen internen oder externen Quellen, wozu auch Auskünfte des Darlehensnehmers gehören. Der Darlehensgeber berücksichtigt auch die Auskünfte, die einem Darlehensvermittler erteilt wurden. Der Darlehensgeber ist verpflichtet, die Informationen in angemessener Weise zu überprüfen, soweit erforderlich auch durch Einsichtnahme in unabhängig nachprüfbare Unterlagen.
+
+(4) Bei Immobiliar-Verbraucherdarlehensverträgen ist der Darlehensgeber verpflichtet, die Verfahren und Angaben, auf die sich die Kreditwürdigkeitsprüfung stützt, festzulegen, zu dokumentieren und die Dokumentation aufzubewahren.
+
+(5) Die Bestimmungen zum Schutz personenbezogener Daten bleiben unberührt.
+
+### § 505c Weitere Pflichten bei grundpfandrechtlich oder durch Reallast besicherten Immobiliar-Verbraucherdarlehensverträgen
+
+Darlehensgeber, die grundpfandrechtlich oder durch Reallast besicherte Immobiliar-Verbraucherdarlehen vergeben, haben
+
+1.  
+bei der Bewertung von Wohnimmobilien zuverlässige Standards anzuwenden und
+
+2.  
+sicherzustellen, dass interne und externe Gutachter, die Immobilienbewertungen für sie vornehmen, fachlich kompetent und so unabhängig vom Darlehensvergabeprozess sind, dass sie eine objektive Bewertung vornehmen können, und
+
+3.  
+Bewertungen für Immobilien, die als Sicherheit für Immobiliar-Verbraucherdarlehen dienen, auf einem dauerhaften Datenträger zu dokumentieren und aufzubewahren.
+
+### § 505d Verstoß gegen die Pflicht zur Kreditwürdigkeitsprüfung
+
+(1) Hat der Darlehensgeber gegen die Pflicht zur Kreditwürdigkeitsprüfung verstoßen, so ermäßigt sich
+
+1.  
+ein im Darlehensvertrag vereinbarter gebundener Sollzins auf den marktüblichen Zinssatz am Kapitalmarkt für Anlagen in Hypothekenpfandbriefe und öffentliche Pfandbriefe, deren Laufzeit derjenigen der Sollzinsbindung entspricht und
+
+2.  
+ein im Darlehensvertrag vereinbarter veränderlicher Sollzins auf den marktüblichen Zinssatz, zu dem europäische Banken einander Anleihen in Euro mit einer Laufzeit von drei Monaten gewähren.
+
+Maßgeblicher Zeitpunkt für die Bestimmung des marktüblichen Zinssatzes gemäß Satz 1 ist der Zeitpunkt des Vertragsschlusses sowie gegebenenfalls jeweils der Zeitpunkt vertraglich vereinbarter Zinsanpassungen. Der Darlehensnehmer kann den Darlehensvertrag jederzeit fristlos kündigen; ein Anspruch auf eine Vorfälligkeitsentschädigung besteht nicht. Der Darlehensgeber stellt dem Darlehensnehmer eine Abschrift des Vertrags zur Verfügung, in der die Vertragsänderungen berücksichtigt sind, die sich aus den Sätzen 1 bis 3 ergeben. Die Sätze 1 bis 4 finden keine Anwendung, wenn bei einer ordnungsgemäßen Kreditwürdigkeitsprüfung der Darlehensvertrag hätte geschlossen werden dürfen.
+
+(2) Kann der Darlehensnehmer Pflichten, die im Zusammenhang mit dem Darlehensvertrag stehen, nicht vertragsgemäß erfüllen, so kann der Darlehensgeber keine Ansprüche wegen Pflichtverletzung geltend machen, wenn die Pflichtverletzung auf einem Umstand beruht, der bei ordnungsgemäßer Kreditwürdigkeitsprüfung dazu geführt hätte, dass der Darlehensvertrag nicht hätte geschlossen werden dürfen.
+
+(3) Die Absätze 1 und 2 finden keine Anwendung, soweit der Mangel der Kreditwürdigkeitsprüfung darauf beruht, dass der Darlehensnehmer dem Darlehensgeber vorsätzlich oder grob fahrlässig Informationen im Sinne des § 505b Absatz 1 bis 3 unrichtig erteilt oder vorenthalten hat.
 
 Untertitel 2 Finanzierungshilfen zwischen einem Unternehmer und einem Verbraucher
 ---------------------------------------------------------------------------------
@@ -5266,7 +5442,7 @@ Untertitel 2 Finanzierungshilfen zwischen einem Unternehmer und einem Verbrauche
 
 ### § 506 Zahlungsaufschub, sonstige Finanzierungshilfe
 
-(1) Die Vorschriften der §§ 358 bis 360 und 491a bis 502 sind mit Ausnahme des § 492 Abs. 4 und vorbehaltlich der Absätze 3 und 4 auf Verträge entsprechend anzuwenden, durch die ein Unternehmer einem Verbraucher einen entgeltlichen Zahlungsaufschub oder eine sonstige entgeltliche Finanzierungshilfe gewährt.
+(1) Die für Allgemein-Verbraucherdarlehensverträge geltenden Vorschriften der §§ 358 bis 360 und 491a bis 502 sowie 505a bis 505d sind mit Ausnahme des § 492 Abs. 4 und vorbehaltlich der Absätze 3 und 4 auf Verträge entsprechend anzuwenden, durch die ein Unternehmer einem Verbraucher einen entgeltlichen Zahlungsaufschub oder eine sonstige entgeltliche Finanzierungshilfe gewährt. Bezieht sich der entgeltliche Zahlungsaufschub oder die sonstige entgeltliche Finanzierungshilfe auf den Erwerb oder die Erhaltung des Eigentumsrechts an Grundstücken, an bestehenden oder zu errichtenden Gebäuden oder auf den Erwerb oder die Erhaltung von grundstücksgleichen Rechten oder ist der Anspruch des Unternehmers durch ein Grundpfandrecht oder eine Reallast besichert, so sind die für Immobiliar-Verbraucherdarlehensverträge geltenden, in Satz 1 genannten Vorschriften sowie § 503 entsprechend anwendbar. Ein unentgeltlicher Zahlungsaufschub gilt als entgeltlicher Zahlungsaufschub gemäß Satz 2, wenn er davon abhängig gemacht wird, dass die Forderung durch ein Grundpfandrecht oder eine Reallast besichert wird.
 
 (2) Verträge zwischen einem Unternehmer und einem Verbraucher über die entgeltliche Nutzung eines Gegenstandes gelten als entgeltliche Finanzierungshilfe, wenn vereinbart ist, dass
 
@@ -5283,11 +5459,11 @@ Auf Verträge gemäß Satz 1 Nr. 3 sind § 500 Abs. 2 und § 502 nicht anzuwende
 
 (3) Für Verträge, die die Lieferung einer bestimmten Sache oder die Erbringung einer bestimmten anderen Leistung gegen Teilzahlungen zum Gegenstand haben (Teilzahlungsgeschäfte), gelten vorbehaltlich des Absatzes 4 zusätzlich die in den §§ 507 und 508 geregelten Besonderheiten.
 
-(4) Die Vorschriften dieses Untertitels sind in dem in § 491 Abs. 2 und 3 bestimmten Umfang nicht anzuwenden. Soweit nach der Vertragsart ein Nettodarlehensbetrag (§ 491 Abs. 2 Nr. 1) nicht vorhanden ist, tritt an seine Stelle der Barzahlungspreis oder, wenn der Unternehmer den Gegenstand für den Verbraucher erworben hat, der Anschaffungspreis.
+(4) Die Vorschriften dieses Untertitels sind in dem in § 491 Absatz 2 Satz 2 Nummer 1 bis 5, Absatz 3 Satz 2 und Absatz 4 bestimmten Umfang nicht anzuwenden. Soweit nach der Vertragsart ein Nettodarlehensbetrag (§ 491 Absatz 2 Satz 2 Nummer 1) nicht vorhanden ist, tritt an seine Stelle der Barzahlungspreis oder, wenn der Unternehmer den Gegenstand für den Verbraucher erworben hat, der Anschaffungspreis.
 
 ### § 507 Teilzahlungsgeschäfte
 
-(1) § 494 Abs. 1 bis 3 und 6 Satz 3 ist auf Teilzahlungsgeschäfte nicht anzuwenden. Gibt der Verbraucher sein Angebot zum Vertragsabschluss im Fernabsatz auf Grund eines Verkaufsprospekts oder eines vergleichbaren elektronischen Mediums ab, aus dem der Barzahlungspreis, der Sollzinssatz, der effektive Jahreszins, ein Tilgungsplan anhand beispielhafter Gesamtbeträge sowie die zu stellenden Sicherheiten und Versicherungen ersichtlich sind, ist auch § 492 Abs. 1 nicht anzuwenden, wenn der Unternehmer dem Verbraucher den Vertragsinhalt spätestens unverzüglich nach Vertragsabschluss auf einem dauerhaften Datenträger mitteilt.
+(1) § 494 Abs. 1 bis 3 und 6 Satz 2 zweiter Halbsatz ist auf Teilzahlungsgeschäfte nicht anzuwenden. Gibt der Verbraucher sein Angebot zum Vertragsabschluss im Fernabsatz auf Grund eines Verkaufsprospekts oder eines vergleichbaren elektronischen Mediums ab, aus dem der Barzahlungspreis, der Sollzinssatz, der effektive Jahreszins, ein Tilgungsplan anhand beispielhafter Gesamtbeträge sowie die zu stellenden Sicherheiten und Versicherungen ersichtlich sind, ist auch § 492 Abs. 1 nicht anzuwenden, wenn der Unternehmer dem Verbraucher den Vertragsinhalt spätestens unverzüglich nach Vertragsabschluss auf einem dauerhaften Datenträger mitteilt.
 
 (2) Das Teilzahlungsgeschäft ist nichtig, wenn die vorgeschriebene Schriftform des § 492 Abs. 1 nicht eingehalten ist oder im Vertrag eine der in Artikel 247 §§ 6, 12 und 13 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vorgeschriebenen Angaben fehlt. Ungeachtet eines Mangels nach Satz 1 wird das Teilzahlungsgeschäft gültig, wenn dem Verbraucher die Sache übergeben oder die Leistung erbracht wird. Jedoch ist der Barzahlungspreis höchstens mit dem gesetzlichen Zinssatz zu verzinsen, wenn die Angabe des Gesamtbetrags oder des effektiven Jahreszinses fehlt. Ist ein Barzahlungspreis nicht genannt, so gilt im Zweifel der Marktpreis als Barzahlungspreis. Ist der effektive Jahreszins zu niedrig angegeben, so vermindert sich der Gesamtbetrag um den Prozentsatz, um den der effektive Jahreszins zu niedrig angegeben ist.
 
@@ -5295,11 +5471,9 @@ Auf Verträge gemäß Satz 1 Nr. 3 sind § 500 Abs. 2 und § 502 nicht anzuwende
 
 ### § 508 Rücktritt bei Teilzahlungsgeschäften
 
-Der Unternehmer kann von einem Teilzahlungsgeschäft wegen Zahlungsverzugs des Verbrauchers nur unter den in § 498 Satz 1 bezeichneten Voraussetzungen zurücktreten. Dem Nennbetrag entspricht der Gesamtbetrag. Der Verbraucher hat dem Unternehmer auch die infolge des Vertrags gemachten Aufwendungen zu ersetzen. Bei der Bemessung der Vergütung von Nutzungen einer zurückzugewährenden Sache ist auf die inzwischen eingetretene Wertminderung Rücksicht zu nehmen. Nimmt der Unternehmer die auf Grund des Teilzahlungsgeschäfts gelieferte Sache wieder an sich, gilt dies als Ausübung des Rücktrittsrechts, es sei denn, der Unternehmer einigt sich mit dem Verbraucher, diesem den gewöhnlichen Verkaufswert der Sache im Zeitpunkt der Wegnahme zu vergüten. Satz 5 gilt entsprechend, wenn ein Vertrag über die Lieferung einer Sache mit einem Verbraucherdarlehensvertrag verbunden ist (§ 358 Absatz 3) und wenn der Darlehensgeber die Sache an sich nimmt; im Fall des Rücktritts bestimmt sich das Rechtsverhältnis zwischen dem Darlehensgeber und dem Verbraucher nach den Sätzen 3 und 4.
+Der Unternehmer kann von einem Teilzahlungsgeschäft wegen Zahlungsverzugs des Verbrauchers nur unter den in § 498 Absatz 1 Satz 1 bezeichneten Voraussetzungen zurücktreten. Dem Nennbetrag entspricht der Gesamtbetrag. Der Verbraucher hat dem Unternehmer auch die infolge des Vertrags gemachten Aufwendungen zu ersetzen. Bei der Bemessung der Vergütung von Nutzungen einer zurückzugewährenden Sache ist auf die inzwischen eingetretene Wertminderung Rücksicht zu nehmen. Nimmt der Unternehmer die auf Grund des Teilzahlungsgeschäfts gelieferte Sache wieder an sich, gilt dies als Ausübung des Rücktrittsrechts, es sei denn, der Unternehmer einigt sich mit dem Verbraucher, diesem den gewöhnlichen Verkaufswert der Sache im Zeitpunkt der Wegnahme zu vergüten. Satz 5 gilt entsprechend, wenn ein Vertrag über die Lieferung einer Sache mit einem Verbraucherdarlehensvertrag verbunden ist (§ 358 Absatz 3) und wenn der Darlehensgeber die Sache an sich nimmt; im Fall des Rücktritts bestimmt sich das Rechtsverhältnis zwischen dem Darlehensgeber und dem Verbraucher nach den Sätzen 3 und 4.
 
-### § 509 Prüfung der Kreditwürdigkeit
-
-Vor dem Abschluss eines Vertrags über eine entgeltliche Finanzierungshilfe hat der Unternehmer die Kreditwürdigkeit des Verbrauchers zu bewerten. Grundlage für die Bewertung können Auskünfte des Verbrauchers und erforderlichenfalls Auskünfte von Stellen sein, die geschäftsmäßig personenbezogene Daten, die zur Bewertung der Kreditwürdigkeit von Verbrauchern genutzt werden dürfen, zum Zweck der Übermittlung erheben, speichern oder verändern. Die Bestimmungen zum Schutz personenbezogener Daten bleiben unberührt.
+### § 509 (weggefallen)
 
 Untertitel 3 Ratenlieferungsverträge zwischen einem Unternehmer und einem Verbraucher
 -------------------------------------------------------------------------------------
@@ -5323,22 +5497,48 @@ Dies gilt nicht, wenn dem Verbraucher die Möglichkeit verschafft wird, die Vert
 
 (2) Dem Verbraucher steht vorbehaltlich des Absatzes 3 bei Verträgen nach Absatz 1, die weder im Fernabsatz noch außerhalb von Geschäftsräumen geschlossen werden, ein Widerrufsrecht nach § 355 zu.
 
-(3) Das Widerrufsrecht nach Absatz 2 gilt nicht in dem in § 491 Absatz 2 und 3 bestimmten Umfang. Dem in § 491 Absatz 2 Nummer 1 genannten Nettodarlehensbetrag entspricht die Summe aller vom Verbraucher bis zum frühestmöglichen Kündigungszeitpunkt zu entrichtenden Teilzahlungen.
+(3) Das Widerrufsrecht nach Absatz 2 gilt nicht in dem in § 491 Absatz 2 Satz 2 Nummer 1 bis 5, Absatz 3 Satz 2 und Absatz 4 bestimmten Umfang. Dem in § 491 Absatz 2 Satz 2 Nummer 1 genannten Nettodarlehensbetrag entspricht die Summe aller vom Verbraucher bis zum frühestmöglichen Kündigungszeitpunkt zu entrichtenden Teilzahlungen.
 
-Untertitel 4 Unabdingbarkeit, Anwendung auf Existenzgründer
+Untertitel 4 Beratungsleistungen bei Immobiliar-Verbraucherdarlehensverträgen
+-----------------------------------------------------------------------------
+
+### 
+
+### § 511 Beratungsleistungen bei Immobiliar-Verbraucherdarlehensverträgen
+
+(1) Bevor der Darlehensgeber dem Darlehensnehmer individuelle Empfehlungen zu einem oder mehreren Geschäften erteilt, die im Zusammenhang mit einem Immobiliar-Verbraucherdarlehensvertrag stehen (Beratungsleistungen), hat er den Darlehensnehmer über die sich aus Artikel 247 § 18 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergebenden Einzelheiten in der dort vorgesehenen Form zu informieren.
+
+(2) Vor Erbringung der Beratungsleistung hat sich der Darlehensgeber über den Bedarf, die persönliche und finanzielle Situation sowie über die Präferenzen und Ziele des Darlehensnehmers zu informieren, soweit dies für eine passende Empfehlung eines Darlehensvertrags erforderlich ist. Auf Grundlage dieser aktuellen Informationen und unter Zugrundelegung realistischer Annahmen hinsichtlich der Risiken, die für den Darlehensnehmer während der Laufzeit des Darlehensvertrags zu erwarten sind, hat der Darlehensgeber eine ausreichende Zahl an Darlehensverträgen zumindest aus seiner Produktpalette auf ihre Geeignetheit zu prüfen.
+
+(3) Der Darlehensgeber hat dem Darlehensnehmer auf Grund der Prüfung gemäß Absatz 2 ein geeignetes oder mehrere geeignete Produkte zu empfehlen oder ihn darauf hinzuweisen, dass er kein Produkt empfehlen kann. Die Empfehlung oder der Hinweis ist dem Darlehensnehmer auf einem dauerhaften Datenträger zur Verfügung zu stellen.
+
+Untertitel 5 Unabdingbarkeit, Anwendung auf Existenzgründer
 -----------------------------------------------------------
 
 ### 
 
-### § 511 Abweichende Vereinbarungen
+### § 512 Abweichende Vereinbarungen
 
-Von den Vorschriften der §§ 491 bis 510 darf, soweit nicht ein anderes bestimmt ist, nicht zum Nachteil des Verbrauchers abgewichen werden. Diese Vorschriften finden auch Anwendung, wenn sie durch anderweitige Gestaltungen umgangen werden.
+Von den Vorschriften der §§ 491 bis 511 darf, soweit nicht ein anderes bestimmt ist, nicht zum Nachteil des Verbrauchers abgewichen werden. Diese Vorschriften finden auch Anwendung, wenn sie durch anderweitige Gestaltungen umgangen werden.
 
-### § 512 Anwendung auf Existenzgründer
+### § 513 Anwendung auf Existenzgründer
 
-Die §§ 491 bis 511 gelten auch für natürliche Personen, die sich ein Darlehen, einen Zahlungsaufschub oder eine sonstige Finanzierungshilfe für die Aufnahme einer gewerblichen oder selbständigen beruflichen Tätigkeit gewähren lassen oder zu diesem Zweck einen Ratenlieferungsvertrag schließen, es sei denn, der Nettodarlehensbetrag oder Barzahlungspreis übersteigt 75 000 Euro.
+Die §§ 491 bis 512 gelten auch für natürliche Personen, die sich ein Darlehen, einen Zahlungsaufschub oder eine sonstige Finanzierungshilfe für die Aufnahme einer gewerblichen oder selbständigen beruflichen Tätigkeit gewähren lassen oder zu diesem Zweck einen Ratenlieferungsvertrag schließen, es sei denn, der Nettodarlehensbetrag oder Barzahlungspreis übersteigt 75 000 Euro.
 
-### (XXXX) §§ 513 bis 515 (weggefallen)
+Untertitel 6 Unentgeltliche Darlehensverträge und unentgeltliche Finanzierungshilfen zwischen einem Unternehmer und einem Verbraucher
+-------------------------------------------------------------------------------------------------------------------------------------
+
+### 
+
+### § 514 Unentgeltliche Darlehensverträge
+
+(1) § 497 Absatz 1 und 3 sowie § 498 und die §§ 505a bis 505c sowie 505d Absatz 2 bis 4 sind entsprechend auf Verträge anzuwenden, durch die ein Unternehmer einem Verbraucher ein unentgeltliches Darlehen gewährt. Dies gilt nicht in dem in § 491 Absatz 2 Satz 2 Nummer 1 bestimmten Umfang.
+
+(2) Bei unentgeltlichen Darlehensverträgen gemäß Absatz 1 steht dem Verbraucher ein Widerrufsrecht nach § 355 zu. Dies gilt nicht, wenn bereits ein Widerrufsrecht nach § 312g Absatz 1 besteht, und nicht bei Verträgen, die § 495 Absatz 2 Nummer 1 entsprechen. Der Unternehmer hat den Verbraucher rechtzeitig vor der Abgabe von dessen Willenserklärung gemäß Artikel 246 Absatz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche über sein Widerrufsrecht zu unterrichten. Der Unternehmer kann diese Pflicht dadurch erfüllen, dass er dem Verbraucher das in der Anlage 9 zum Einführungsgesetz zum Bürgerlichen Gesetzbuche vorgesehene Muster für die Widerrufsbelehrung ordnungsgemäß ausgefüllt in Textform übermittelt.
+
+### § 515 Unentgeltliche Finanzierungshilfen
+
+§ 514 sowie die §§ 358 bis 360 gelten entsprechend, wenn ein Unternehmer einem Verbraucher einen unentgeltlichen Zahlungsaufschub oder eine sonstige unentgeltliche Finanzierungshilfe gewährt.
 
 Titel 4 Schenkung
 -----------------
@@ -6123,9 +6323,9 @@ Kapitel 4 Wechsel der Vertragsparteien
 
 ### § 563 Eintrittsrecht bei Tod des Mieters
 
-(1) Der Ehegatte, der mit dem Mieter einen gemeinsamen Haushalt führt, tritt mit dem Tod des Mieters in das Mietverhältnis ein. Dasselbe gilt für den Lebenspartner.
+(1) Der Ehegatte oder Lebenspartner, der mit dem Mieter einen gemeinsamen Haushalt führt, tritt mit dem Tod des Mieters in das Mietverhältnis ein.
 
-(2) Leben in dem gemeinsamen Haushalt Kinder des Mieters, treten diese mit dem Tod des Mieters in das Mietverhältnis ein, wenn nicht der Ehegatte eintritt. Der Eintritt des Lebenspartners bleibt vom Eintritt der Kinder des Mieters unberührt. Andere Familienangehörige, die mit dem Mieter einen gemeinsamen Haushalt führen, treten mit dem Tod des Mieters in das Mietverhältnis ein, wenn nicht der Ehegatte oder der Lebenspartner eintritt. Dasselbe gilt für Personen, die mit dem Mieter einen auf Dauer angelegten gemeinsamen Haushalt führen.
+(2) Leben in dem gemeinsamen Haushalt Kinder des Mieters, treten diese mit dem Tod des Mieters in das Mietverhältnis ein, wenn nicht der Ehegatte oder Lebenspartner eintritt. Andere Familienangehörige, die mit dem Mieter einen gemeinsamen Haushalt führen, treten mit dem Tod des Mieters in das Mietverhältnis ein, wenn nicht der Ehegatte oder der Lebenspartner eintritt. Dasselbe gilt für Personen, die mit dem Mieter einen auf Dauer angelegten gemeinsamen Haushalt führen.
 
 (3) Erklären eingetretene Personen im Sinne des Absatzes 1 oder 2 innerhalb eines Monats, nachdem sie vom Tod des Mieters Kenntnis erlangt haben, dem Vermieter, dass sie das Mietverhältnis nicht fortsetzen wollen, gilt der Eintritt als nicht erfolgt. Für geschäftsunfähige oder in der Geschäftsfähigkeit beschränkte Personen gilt § 210 entsprechend. Sind mehrere Personen in das Mietverhältnis eingetreten, so kann jeder die Erklärung für sich abgeben.
 
@@ -7606,36 +7806,49 @@ Der Anspruch auf den Mäklerlohn und den Ersatz von Aufwendungen ist ausgeschlos
 
 Ist für den Nachweis der Gelegenheit zum Abschluss eines Dienstvertrags oder für die Vermittlung eines solchen Vertrags ein unverhältnismäßig hoher Mäklerlohn vereinbart worden, so kann er auf Antrag des Schuldners durch Urteil auf den angemessenen Betrag herabgesetzt werden. Nach der Entrichtung des Lohnes ist die Herabsetzung ausgeschlossen.
 
-Untertitel 2 Vermittlung von Verbraucherdarlehensverträgen
-----------------------------------------------------------
+Untertitel 2 Vermittlung von Verbraucherdarlehensverträgen und entgeltlichen Finanzierungshilfen
+------------------------------------------------------------------------------------------------
 
 ### 
 
 ### § 655a Darlehensvermittlungsvertrag
 
-(1) Für einen Vertrag, nach dem es ein Unternehmer unternimmt, einem Verbraucher gegen ein vom Verbraucher oder einem Dritten zu leistendes Entgelt einen Verbraucherdarlehensvertrag oder eine entgeltliche Finanzierungshilfe zu vermitteln oder ihm die Gelegenheit zum Abschluss eines solchen Vertrags nachzuweisen, gelten vorbehaltlich des Satzes 2 die folgenden Vorschriften. Dies gilt nicht in dem in § 491 Abs. 2 bestimmten Umfang.
+(1) Für einen Vertrag, nach dem es ein Unternehmer unternimmt, einem Verbraucher
 
-(2) Der Darlehensvermittler hat den Verbraucher über die sich aus Artikel 247 § 13 Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergebenden Einzelheiten in der dort vorgesehenen Form zu unterrichten. Der Darlehensvermittler ist gegenüber dem Verbraucher zusätzlich wie ein Darlehensgeber gemäß § 491a verpflichtet. Satz 2 gilt nicht für Warenlieferanten oder Dienstleistungserbringer, die in lediglich untergeordneter Funktion als Darlehensvermittler tätig werden, etwa indem sie als Nebenleistung den Abschluss eines verbundenen Verbraucherdarlehensvertrags vermitteln.
+1.  
+gegen eine vom Verbraucher oder einem Dritten zu leistende Vergütung einen Verbraucherdarlehensvertrag oder eine entgeltliche Finanzierungshilfe zu vermitteln,
+
+2.  
+die Gelegenheit zum Abschluss eines Vertrags nach Nummer 1 nachzuweisen oder
+
+3.  
+auf andere Weise beim Abschluss eines Vertrags nach Nummer 1 behilflich zu sein,
+
+gelten vorbehaltlich des Satzes 2 die folgenden Vorschriften dieses Untertitels. Bei entgeltlichen Finanzierungshilfen, die den Ausnahmen des § 491 Absatz 2 Satz 2 Nummer 1 bis 5 und Absatz 3 Satz 2 entsprechen, gelten die Vorschriften dieses Untertitels nicht.
+
+(2) Der Darlehensvermittler ist verpflichtet, den Verbraucher nach Maßgabe des Artikels 247 § 13 Absatz 2 und § 13b Absatz 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu informieren. Der Darlehensvermittler ist gegenüber dem Verbraucher zusätzlich wie ein Darlehensgeber gemäß § 491a verpflichtet. Satz 2 gilt nicht für Warenlieferanten oder Dienstleistungserbringer, die in lediglich untergeordneter Funktion als Darlehensvermittler von Allgemein-Verbraucherdarlehen oder von entsprechenden entgeltlichen Finanzierungshilfen tätig werden, etwa indem sie als Nebenleistung den Abschluss eines verbundenen Verbraucherdarlehensvertrags vermitteln.
+
+(3) Bietet der Darlehensvermittler im Zusammenhang mit der Vermittlung eines Immobiliar-Verbraucherdarlehensvertrags oder entsprechender entgeltlicher Finanzierungshilfen Beratungsleistungen gemäß § 511 Absatz 1 an, so gilt § 511 entsprechend. § 511 Absatz 2 Satz 2 gilt entsprechend mit der Maßgabe, dass der Darlehensvermittler eine ausreichende Zahl von am Markt verfügbaren Darlehensverträgen zu prüfen hat. Ist der Darlehensvermittler nur im Namen und unter der unbeschränkten und vorbehaltlosen Verantwortung nur eines Darlehensgebers oder einer begrenzten Zahl von Darlehensgebern tätig, die am Markt keine Mehrheit darstellt, so braucht der Darlehensvermittler abweichend von Satz 2 nur Darlehensverträge aus der Produktpalette dieser Darlehensgeber zu berücksichtigen.
 
 ### § 655b Schriftform bei einem Vertrag mit einem Verbraucher
 
 (1) Der Darlehensvermittlungsvertrag mit einem Verbraucher bedarf der schriftlichen Form. Der Vertrag darf nicht mit dem Antrag auf Hingabe des Darlehens verbunden werden. Der Darlehensvermittler hat dem Verbraucher den Vertragsinhalt in Textform mitzuteilen.
 
-(2) Ein Darlehensvermittlungsvertrag mit einem Verbraucher, der den Anforderungen des Absatzes 1 Satz 1 und 2 nicht genügt oder vor dessen Abschluss die Pflichten aus Artikel 247 § 13 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche nicht erfüllt worden sind, ist nichtig.
+(2) Ein Darlehensvermittlungsvertrag mit einem Verbraucher, der den Anforderungen des Absatzes 1 Satz 1 und 2 nicht genügt oder vor dessen Abschluss die Pflichten aus Artikel 247 § 13 Abs. 2 sowie § 13b Absatz 1 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche nicht erfüllt worden sind, ist nichtig.
 
 ### § 655c Vergütung
 
-Der Verbraucher ist zur Zahlung der Vergütung nur verpflichtet, wenn infolge der Vermittlung oder des Nachweises des Darlehensvermittlers das Darlehen an den Verbraucher geleistet wird und ein Widerruf des Verbrauchers nach § 355 nicht mehr möglich ist. Soweit der Verbraucherdarlehensvertrag mit Wissen des Darlehensvermittlers der vorzeitigen Ablösung eines anderen Darlehens (Umschuldung) dient, entsteht ein Anspruch auf die Vergütung nur, wenn sich der effektive Jahreszins nicht erhöht; bei der Berechnung des effektiven Jahreszinses für das abzulösende Darlehen bleiben etwaige Vermittlungskosten außer Betracht.
+Der Verbraucher ist zur Zahlung der Vergütung für die Tätigkeiten nach § 655a Absatz 1 nur verpflichtet, wenn infolge der Vermittlung, des Nachweises oder auf Grund der sonstigen Tätigkeit des Darlehensvermittlers das Darlehen an den Verbraucher geleistet wird und ein Widerruf des Verbrauchers nach § 355 nicht mehr möglich ist. Soweit der Verbraucherdarlehensvertrag mit Wissen des Darlehensvermittlers der vorzeitigen Ablösung eines anderen Darlehens (Umschuldung) dient, entsteht ein Anspruch auf die Vergütung nur, wenn sich der effektive Jahreszins nicht erhöht; bei der Berechnung des effektiven Jahreszinses für das abzulösende Darlehen bleiben etwaige Vermittlungskosten außer Betracht.
 
 ### § 655d Nebenentgelte
 
-Der Darlehensvermittler darf für Leistungen, die mit der Vermittlung des Verbraucherdarlehensvertrags oder dem Nachweis der Gelegenheit zum Abschluss eines Verbraucherdarlehensvertrags zusammenhängen, außer der Vergütung nach § 655c Satz 1 ein Entgelt nicht vereinbaren. Jedoch kann vereinbart werden, dass dem Darlehensvermittler entstandene, erforderliche Auslagen zu erstatten sind. Dieser Anspruch darf die Höhe oder die Höchstbeträge, die der Darlehensvermittler dem Verbraucher gemäß Artikel 247 § 13 Absatz 2 Satz 1 Nummer 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche mitgeteilt hat, nicht übersteigen.
+Der Darlehensvermittler darf für Leistungen, die mit der Vermittlung des Verbraucherdarlehensvertrags oder dem Nachweis der Gelegenheit zum Abschluss eines Verbraucherdarlehensvertrags zusammenhängen, außer der Vergütung nach § 655c Satz 1 sowie eines gegebenenfalls vereinbarten Entgelts für Beratungsleistungen ein Entgelt nicht vereinbaren. Jedoch kann vereinbart werden, dass dem Darlehensvermittler entstandene, erforderliche Auslagen zu erstatten sind. Dieser Anspruch darf die Höhe oder die Höchstbeträge, die der Darlehensvermittler dem Verbraucher gemäß Artikel 247 § 13 Absatz 2 Satz 1 Nummer 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche mitgeteilt hat, nicht übersteigen.
 
 ### § 655e Abweichende Vereinbarungen, Anwendung auf Existenzgründer
 
 (1) Von den Vorschriften dieses Untertitels darf nicht zum Nachteil des Verbrauchers abgewichen werden. Die Vorschriften dieses Untertitels finden auch Anwendung, wenn sie durch anderweitige Gestaltungen umgangen werden.
 
-(2) Existenzgründer im Sinne des § 512 stehen Verbrauchern in diesem Untertitel gleich.
+(2) Existenzgründer im Sinne des § 513 stehen Verbrauchern in diesem Untertitel gleich.
 
 Untertitel 3 Ehevermittlung
 ---------------------------
@@ -7783,7 +7996,7 @@ Artikel 3 bis 5 der Richtlinie 98/26/EG des Europäischen Parlaments und des Rat
 
 ### § 675a Informationspflichten
 
-Wer zur Besorgung von Geschäften öffentlich bestellt ist oder sich dazu öffentlich erboten hat, stellt für regelmäßig anfallende standardisierte Geschäftsvorgänge (Standardgeschäfte) schriftlich, in geeigneten Fällen auch elektronisch, unentgeltlich Informationen über Entgelte und Auslagen der Geschäftsbesorgung zur Verfügung, soweit nicht eine Preisfestsetzung nach § 315 erfolgt oder die Entgelte und Auslagen gesetzlich verbindlich geregelt sind.
+Wer zur Besorgung von Geschäften öffentlich bestellt ist oder sich dazu öffentlich erboten hat, stellt für regelmäßig anfallende standardisierte Geschäftsvorgänge (Standardgeschäfte) unentgeltlich Informationen über Entgelte und Auslagen der Geschäftsbesorgung in Textform zur Verfügung, soweit nicht eine Preisfestsetzung nach § 315 erfolgt oder die Entgelte und Auslagen gesetzlich verbindlich geregelt sind.
 
 ### § 675b Aufträge zur Übertragung von Wertpapieren in Systemen
 
@@ -11613,9 +11826,9 @@ Titel 1 Verlöbnis
 
 ### 
 
-### § 1297 Unklagbarkeit, Nichtigkeit eines Strafversprechens
+### § 1297 Kein Antrag auf Eingehung der Ehe, Nichtigkeit eines Strafversprechens
 
-(1) Aus einem Verlöbnis kann nicht auf Eingehung der Ehe geklagt werden.
+(1) Aus einem Verlöbnis kann kein Antrag auf Eingehung der Ehe gestellt werden.
 
 (2) Das Versprechen einer Strafe für den Fall, dass die Eingehung der Ehe unterbleibt, ist nichtig.
 
@@ -12157,7 +12370,7 @@ Handlungen der in § 1365 oder § 1375 Absatz 2 bezeichneten Art zu befürchten 
 der andere Ehegatte längere Zeit hindurch die wirtschaftlichen Verpflichtungen, die sich aus dem ehelichen Verhältnis ergeben, schuldhaft nicht erfüllt hat und anzunehmen ist, dass er sie auch in Zukunft nicht erfüllen wird, oder
 
 4.  
-der andere Ehegatte sich ohne ausreichenden Grund beharrlich weigert oder sich ohne ausreichenden Grund bis zur Erhebung der Klage auf Auskunft beharrlich geweigert hat, ihn über den Bestand seines Vermögens zu unterrichten.
+der andere Ehegatte sich ohne ausreichenden Grund beharrlich weigert oder sich ohne ausreichenden Grund bis zur Stellung des Antrags auf Auskunft beharrlich geweigert hat, ihn über den Bestand seines Vermögens zu unterrichten.
 
 ### § 1386 Vorzeitige Aufhebung der Zugewinngemeinschaft
 
@@ -12165,7 +12378,7 @@ Jeder Ehegatte kann unter entsprechender Anwendung des § 1385 die vorzeitige Au
 
 ### § 1387 Berechnungszeitpunkt des Zugewinns und Höhe der Ausgleichsforderung bei vorzeitigem Ausgleich oder vorzeitiger Aufhebung
 
-In den Fällen der §§ 1385 und 1386 tritt für die Berechnung des Zugewinns und für die Höhe der Ausgleichsforderung an die Stelle der Beendigung des Güterstands der Zeitpunkt, in dem die entsprechenden Klagen erhoben sind.
+In den Fällen der §§ 1385 und 1386 tritt für die Berechnung des Zugewinns und für die Höhe der Ausgleichsforderung an die Stelle der Beendigung des Güterstands der Zeitpunkt, in dem die entsprechenden Anträge gestellt sind.
 
 ### § 1388 Eintritt der Gütertrennung
 
@@ -12443,9 +12656,9 @@ Die Vorschrift des § 1441 Nr. 2, 3 gilt nicht, wenn die Verbindlichkeiten zu de
 
 (2) Was der Ehegatte, der das Gesamtgut nicht verwaltet, zum Gesamtgut oder was er zum Vorbehaltsgut oder Sondergut des anderen Ehegatten schuldet, braucht er erst nach der Beendigung der Gütergemeinschaft zu leisten; er hat die Schuld jedoch schon vorher zu berichtigen, soweit sein Vorbehaltsgut und sein Sondergut hierzu ausreichen.
 
-### § 1447 Aufhebungsklage des nicht verwaltenden Ehegatten
+### § 1447 Aufhebungsantrag des nicht verwaltenden Ehegatten
 
-Der Ehegatte, der das Gesamtgut nicht verwaltet, kann auf Aufhebung der Gütergemeinschaft klagen,
+Der Ehegatte, der das Gesamtgut nicht verwaltet, kann die Aufhebung der Gütergemeinschaft beantragen,
 
 1.  
 wenn seine Rechte für die Zukunft dadurch erheblich gefährdet werden können, dass der andere Ehegatte zur Verwaltung des Gesamtguts unfähig ist oder sein Recht, das Gesamtgut zu verwalten, missbraucht,
@@ -12459,9 +12672,9 @@ wenn das Gesamtgut durch Verbindlichkeiten, die in der Person des anderen Ehegat
 4.  
 wenn die Verwaltung des Gesamtguts in den Aufgabenkreis des Betreuers des anderen Ehegatten fällt.
 
-### § 1448 Aufhebungsklage des Verwalters
+### § 1448 Aufhebungsantrag des Verwalters
 
-Der Ehegatte, der das Gesamtgut verwaltet, kann auf Aufhebung der Gütergemeinschaft klagen, wenn das Gesamtgut infolge von Verbindlichkeiten des anderen Ehegatten, die diesem im Verhältnis der Ehegatten zueinander zur Last fallen, in solchem Maße überschuldet ist, dass ein späterer Erwerb erheblich gefährdet wird.
+Der Ehegatte, der das Gesamtgut verwaltet, kann die Aufhebung der Gütergemeinschaft beantragen, wenn das Gesamtgut infolge von Verbindlichkeiten des anderen Ehegatten, die diesem im Verhältnis der Ehegatten zueinander zur Last fallen, in solchem Maße überschuldet ist, dass ein späterer Erwerb erheblich gefährdet wird.
 
 ### § 1449 Wirkung der richterlichen Aufhebungsentscheidung
 
@@ -12607,9 +12820,9 @@ Im Verhältnis der Ehegatten zueinander fallen die Kosten der Ausstattung eines 
 
 Was ein Ehegatte zum Gesamtgut oder was er zum Vorbehaltsgut oder Sondergut des anderen Ehegatten schuldet, braucht er erst nach Beendigung der Gütergemeinschaft zu leisten; soweit jedoch das Vorbehaltsgut und das Sondergut des Schuldners ausreichen, hat er die Schuld schon vorher zu berichtigen.
 
-### § 1469 Aufhebungsklage
+### § 1469 Aufhebungsantrag
 
-Jeder Ehegatte kann auf Aufhebung der Gütergemeinschaft klagen,
+Jeder Ehegatte kann die Aufhebung der Gütergemeinschaft beantragen,
 
 1.  
 wenn seine Rechte für die Zukunft dadurch erheblich gefährdet werden können, dass der andere Ehegatte ohne seine Mitwirkung Verwaltungshandlungen vornimmt, die nur gemeinschaftlich vorgenommen werden dürfen,
@@ -12702,7 +12915,7 @@ die Rechte, die mit dem Tode eines Ehegatten erlöschen oder deren Erwerb durch 
 
 ### § 1479 Auseinandersetzung nach richterlicher Aufhebungsentscheidung
 
-Wird die Gütergemeinschaft auf Grund der §§ 1447, 1448 oder des § 1469 durch richterliche Entscheidung aufgehoben, so kann der Ehegatte, der die richterliche Entscheidung erwirkt hat, verlangen, dass die Auseinandersetzung so erfolgt, wie wenn der Anspruch auf Auseinandersetzung in dem Zeitpunkt rechtshängig geworden wäre, in dem die Klage auf Aufhebung der Gütergemeinschaft erhoben ist.
+Wird die Gütergemeinschaft auf Grund der §§ 1447, 1448 oder des § 1469 durch richterliche Entscheidung aufgehoben, so kann der Ehegatte, der die richterliche Entscheidung erwirkt hat, verlangen, dass die Auseinandersetzung so erfolgt, wie wenn der Anspruch auf Auseinandersetzung in dem Zeitpunkt rechtshängig geworden wäre, in dem der Antrag auf Aufhebung der Gütergemeinschaft gestellt ist.
 
 ### § 1480 Haftung nach der Teilung gegenüber Dritten
 
@@ -12807,9 +13020,9 @@ Stirbt ein anteilsberechtigter Abkömmling, so gehört sein Anteil an dem Gesamt
 
 (2) Wird der überlebende Ehegatte für tot erklärt oder wird seine Todeszeit nach den Vorschriften des Verschollenheitsgesetzes festgestellt, so endet die fortgesetzte Gütergemeinschaft mit dem Zeitpunkt, der als Zeitpunkt des Todes gilt.
 
-### § 1495 Aufhebungsklage eines Abkömmlings
+### § 1495 Aufhebungsantrag eines Abkömmlings
 
-Ein anteilsberechtigter Abkömmling kann gegen den überlebenden Ehegatten auf Aufhebung der fortgesetzten Gütergemeinschaft klagen,
+Ein anteilsberechtigter Abkömmling kann gegen den überlebenden Ehegatten die Aufhebung der fortgesetzten Gütergemeinschaft beantragen,
 
 1.  
 wenn seine Rechte für die Zukunft dadurch erheblich gefährdet werden können, dass der überlebende Ehegatte zur Verwaltung des Gesamtguts unfähig ist oder sein Recht, das Gesamtgut zu verwalten, missbraucht,
@@ -12825,7 +13038,7 @@ wenn der überlebende Ehegatte die elterliche Sorge für den Abkömmling verwirk
 
 ### § 1496 Wirkung der richterlichen Aufhebungsentscheidung
 
-Die Aufhebung der fortgesetzten Gütergemeinschaft tritt in den Fällen des § 1495 mit der Rechtskraft der richterlichen Entscheidung ein. Sie tritt für alle Abkömmlinge ein, auch wenn die richterliche Entscheidung auf die Klage eines der Abkömmlinge ergangen ist.
+Die Aufhebung der fortgesetzten Gütergemeinschaft tritt in den Fällen des § 1495 mit der Rechtskraft der richterlichen Entscheidung ein. Sie tritt für alle Abkömmlinge ein, auch wenn die richterliche Entscheidung auf den Antrag eines der Abkömmlinge ergangen ist.
 
 ### § 1497 Rechtsverhältnis bis zur Auseinandersetzung
 
@@ -12898,7 +13111,7 @@ Das Nachlassgericht hat dem überlebenden Ehegatten auf Antrag ein Zeugnis über
 
 ### § 1509 Ausschließung der fortgesetzten Gütergemeinschaft durch letztwillige Verfügung
 
-Jeder Ehegatte kann für den Fall, dass die Ehe durch seinen Tod aufgelöst wird, die Fortsetzung der Gütergemeinschaft durch letztwillige Verfügung ausschließen, wenn er berechtigt ist, dem anderen Ehegatten den Pflichtteil zu entziehen oder auf Aufhebung der Gütergemeinschaft zu klagen. Das Gleiche gilt, wenn der Ehegatte berechtigt ist, die Aufhebung der Ehe zu beantragen, und den Antrag gestellt hat. Auf die Ausschließung finden die Vorschriften über die Entziehung des Pflichtteils entsprechende Anwendung.
+Jeder Ehegatte kann für den Fall, dass die Ehe durch seinen Tod aufgelöst wird, die Fortsetzung der Gütergemeinschaft durch letztwillige Verfügung ausschließen, wenn er berechtigt ist, dem anderen Ehegatten den Pflichtteil zu entziehen oder die Aufhebung der Gütergemeinschaft zu beantragen. Das Gleiche gilt, wenn der Ehegatte berechtigt ist, die Aufhebung der Ehe zu beantragen, und den Antrag gestellt hat. Auf die Ausschließung finden die Vorschriften über die Entziehung des Pflichtteils entsprechende Anwendung.
 
 ### § 1510 Wirkung der Ausschließung
 
@@ -13449,7 +13662,7 @@ verlangen, dass diese in eine genetische Abstammungsuntersuchung einwilligen und
 
 (1) § 1592 Nr. 1 und 2 und § 1593 gelten nicht, wenn auf Grund einer Anfechtung rechtskräftig festgestellt ist, dass der Mann nicht der Vater des Kindes ist.
 
-(2) § 1592 Nr. 1 und § 1593 gelten auch nicht, wenn das Kind nach Anhängigkeit eines Scheidungsantrags geboren wird und ein Dritter spätestens bis zum Ablauf eines Jahres nach Rechtskraft des dem Scheidungsantrag stattgebenden Urteils die Vaterschaft anerkennt; § 1594 Abs. 2 ist nicht anzuwenden. Neben den nach den §§ 1595 und 1596 notwendigen Erklärungen bedarf die Anerkennung der Zustimmung des Mannes, der im Zeitpunkt der Geburt mit der Mutter des Kindes verheiratet ist; für diese Zustimmung gelten § 1594 Abs. 3 und 4, § 1596 Abs. 1 Satz 1 bis 3, Abs. 3 und 4, § 1597 Abs. 1 und 2 und § 1598 Abs. 1 entsprechend. Die Anerkennung wird frühestens mit Rechtskraft des dem Scheidungsantrag stattgebenden Urteils wirksam.
+(2) § 1592 Nr. 1 und § 1593 gelten auch nicht, wenn das Kind nach Anhängigkeit eines Scheidungsantrags geboren wird und ein Dritter spätestens bis zum Ablauf eines Jahres nach Rechtskraft des dem Scheidungsantrag stattgebenden Beschlusses die Vaterschaft anerkennt; § 1594 Abs. 2 ist nicht anzuwenden. Neben den nach den §§ 1595 und 1596 notwendigen Erklärungen bedarf die Anerkennung der Zustimmung des Mannes, der im Zeitpunkt der Geburt mit der Mutter des Kindes verheiratet ist; für diese Zustimmung gelten § 1594 Abs. 3 und 4, § 1596 Abs. 1 Satz 1 bis 3, Abs. 3 und 4, § 1597 Abs. 1 und 2 und § 1598 Abs. 1 entsprechend. Die Anerkennung wird frühestens mit Rechtskraft des dem Scheidungsantrag stattgebenden Beschlusses wirksam.
 
 ### § 1600 Anfechtungsberechtigte
 
@@ -13637,9 +13850,9 @@ Werden für Aufwendungen infolge eines Körper- oder Gesundheitsschadens Soziall
 
 (3) Eine Geldrente ist monatlich im Voraus zu zahlen. Der Verpflichtete schuldet den vollen Monatsbetrag auch dann, wenn der Berechtigte im Laufe des Monats stirbt.
 
-### § 1612a Mindestunterhalt minderjähriger Kinder
+### § 1612a Mindestunterhalt minderjähriger Kinder; Verordnungsermächtigung
 
-(1) Ein minderjähriges Kind kann von einem Elternteil, mit dem es nicht in einem Haushalt lebt, den Unterhalt als Prozentsatz des jeweiligen Mindestunterhalts verlangen. Der Mindestunterhalt richtet sich nach dem doppelten Freibetrag für das sächliche Existenzminimum eines Kindes (Kinderfreibetrag) nach § 32 Abs. 6 Satz 1 des Einkommensteuergesetzes. Er beträgt monatlich entsprechend dem Alter des Kindes
+(1) Ein minderjähriges Kind kann von einem Elternteil, mit dem es nicht in einem Haushalt lebt, den Unterhalt als Prozentsatz des jeweiligen Mindestunterhalts verlangen. Der Mindestunterhalt richtet sich nach dem steuerfrei zu stellenden sächlichen Existenzminimum des minderjährigen Kindes. Er beträgt monatlich entsprechend dem Alter des Kindes
 
 1.  
 für die Zeit bis zur Vollendung des sechsten Lebensjahrs (erste Altersstufe) 87 Prozent,
@@ -13650,13 +13863,15 @@ für die Zeit vom siebten bis zur Vollendung des zwölften Lebensjahrs (zweite A
 3.  
 für die Zeit vom 13. Lebensjahr an (dritte Altersstufe) 117 Prozent
 
-eines Zwölftels des doppelten Kinderfreibetrags.
+des steuerfrei zu stellenden sächlichen Existenzminimums des minderjährigen Kindes.
 
 (2) Der Prozentsatz ist auf eine Dezimalstelle zu begrenzen; jede weitere sich ergebende Dezimalstelle wird nicht berücksichtigt. Der sich bei der Berechnung des Unterhalts ergebende Betrag ist auf volle Euro aufzurunden.
 
 (3) Der Unterhalt einer höheren Altersstufe ist ab dem Beginn des Monats maßgebend, in dem das Kind das betreffende Lebensjahr vollendet.
 
-(4) u. (5) (weggefallen)
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz hat den Mindestunterhalt erstmals zum 1. Januar 2016 und dann alle zwei Jahre durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, festzulegen.
+
+(5) (weggefallen)
 
 ### § 1612b Deckung des Barbedarfs durch Kindergeld
 
@@ -13772,12 +13987,12 @@ Das Kind erhält den Ehenamen seiner Eltern als Geburtsnamen.
 
 ### § 1617c Name bei Namensänderung der Eltern
 
-(1) Bestimmen die Eltern einen Ehenamen, nachdem das Kind das fünfte Lebensjahr vollendet hat, so erstreckt sich der Ehename auf den Geburtsnamen des Kindes nur dann, wenn es sich der Namensgebung anschließt. Ein in der Geschäftsfähigkeit beschränktes Kind, welches das 14. Lebensjahr vollendet hat, kann die Erklärung nur selbst abgeben; es bedarf hierzu der Zustimmung seines gesetzlichen Vertreters. Die Erklärung ist gegenüber dem Standesamt abzugeben; sie muss öffentlich beglaubigt werden.
+(1) Bestimmen die Eltern einen Ehenamen oder Lebenspartnerschaftsnamen, nachdem das Kind das fünfte Lebensjahr vollendet hat, so erstreckt sich der Ehename oder Lebenspartnerschaftsname auf den Geburtsnamen des Kindes nur dann, wenn es sich der Namensgebung anschließt. Ein in der Geschäftsfähigkeit beschränktes Kind, welches das 14. Lebensjahr vollendet hat, kann die Erklärung nur selbst abgeben; es bedarf hierzu der Zustimmung seines gesetzlichen Vertreters. Die Erklärung ist gegenüber dem Standesamt abzugeben; sie muss öffentlich beglaubigt werden.
 
 (2) Absatz 1 gilt entsprechend,
 
 1.  
-wenn sich der Ehename, der Geburtsname eines Kindes geworden ist, ändert oder
+wenn sich der Ehename oder Lebenspartnerschaftsname, der Geburtsname eines Kindes geworden ist, ändert oder
 
 2.  
 wenn sich in den Fällen der §§ 1617, 1617a und 1617b der Familienname eines Elternteils, der Geburtsname eines Kindes geworden ist, auf andere Weise als durch Eheschließung oder Begründung einer Lebenspartnerschaft ändert.
@@ -13804,7 +14019,7 @@ Macht ein dem elterlichen Hausstand angehörendes volljähriges Kind zur Bestrei
 
 ### § 1624 Ausstattung aus dem Elternvermögen
 
-(1) Was einem Kind mit Rücksicht auf seine Verheiratung oder auf die Erlangung einer selbständigen Lebensstellung zur Begründung oder zur Erhaltung der Wirtschaft oder der Lebensstellung von dem Vater oder der Mutter zugewendet wird (Ausstattung), gilt, auch wenn eine Verpflichtung nicht besteht, nur insoweit als Schenkung, als die Ausstattung das den Umständen, insbesondere den Vermögensverhältnissen des Vaters oder der Mutter, entsprechende Maß übersteigt.
+(1) Was einem Kind mit Rücksicht auf seine Verheiratung, auf seine Begründung einer Lebenspartnerschaft oder auf die Erlangung einer selbständigen Lebensstellung zur Begründung oder zur Erhaltung der Wirtschaft oder der Lebensstellung von dem Vater oder der Mutter zugewendet wird (Ausstattung), gilt, auch wenn eine Verpflichtung nicht besteht, nur insoweit als Schenkung, als die Ausstattung das den Umständen, insbesondere den Vermögensverhältnissen des Vaters oder der Mutter, entsprechende Maß übersteigt.
 
 (2) Die Verpflichtung des Ausstattenden zur Gewährleistung wegen eines Mangels im Recht oder wegen eines Fehlers der Sache bestimmt sich, auch soweit die Ausstattung nicht als Schenkung gilt, nach den für die Gewährleistungspflicht des Schenkers geltenden Vorschriften.
 
@@ -13882,7 +14097,15 @@ Können sich die Eltern in einer einzelnen Angelegenheit oder in einer bestimmte
 
 (2a) Der Vater und die Mutter können das Kind in einem gerichtlichen Verfahren nach § 1598a Abs. 2 nicht vertreten.
 
-(3) Sind die Eltern des Kindes miteinander verheiratet, so kann ein Elternteil, solange die Eltern getrennt leben oder eine Ehesache zwischen ihnen anhängig ist, Unterhaltsansprüche des Kindes gegen den anderen Elternteil nur im eigenen Namen geltend machen. Eine von einem Elternteil erwirkte gerichtliche Entscheidung und ein zwischen den Eltern geschlossener gerichtlicher Vergleich wirken auch für und gegen das Kind.
+(3) Sind die Eltern des Kindes miteinander verheiratet oder besteht zwischen ihnen eine Lebenspartnerschaft, so kann ein Elternteil Unterhaltsansprüche des Kindes gegen den anderen Elternteil nur im eigenen Namen geltend machen, solange
+
+1.  
+die Eltern getrennt leben oder
+
+2.  
+eine Ehesache oder eine Lebenspartnerschaftssache im Sinne von § 269 Absatz 1 Nummer 1 oder 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit zwischen ihnen anhängig ist.
+
+Eine von einem Elternteil erwirkte gerichtliche Entscheidung und ein zwischen den Eltern geschlossener gerichtlicher Vergleich wirken auch für und gegen das Kind.
 
 ### § 1629a Beschränkung der Minderjährigenhaftung
 
@@ -18226,7 +18449,7 @@ Verzichtet ein Abkömmling oder ein Seitenverwandter des Erblassers auf das gese
 
 (1) Verzichtet jemand zugunsten eines anderen auf das gesetzliche Erbrecht, so ist im Zweifel anzunehmen, dass der Verzicht nur für den Fall gelten soll, dass der andere Erbe wird.
 
-(2) Verzichtet ein Abkömmling des Erblassers auf das gesetzliche Erbrecht, so ist im Zweifel anzunehmen, dass der Verzicht nur zugunsten der anderen Abkömmlinge und des Ehegatten des Erblassers gelten soll.
+(2) Verzichtet ein Abkömmling des Erblassers auf das gesetzliche Erbrecht, so ist im Zweifel anzunehmen, dass der Verzicht nur zugunsten der anderen Abkömmlinge und des Ehegatten oder Lebenspartners des Erblassers gelten soll.
 
 ### § 2351 Aufhebung des Erbverzichts
 
