@@ -5,13 +5,13 @@ Neuf
 Neugefasst durch Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Stand  
-zuletzt geändert durch Art. 12 G v. 19.10.2013 I 3836
+zuletzt geändert Art. 5 G v. 21.7.2014 I 1133
 
 Hinweis  
-Änderung durch Art. 1 G v. 23.6.2014 I 787 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 6 G v. 23.12.2014 I 2462 (Nr. 64) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Sonst  
-Ergänzung auf Grund der Sozialversicherungs-Rechengrößenverordnung v. 2.12.2013 I 4038 ist berücksichtigt
+Ergänzung auf Grund der Sozialversicherungs-Rechengrößenverordnung v. 1.12.2014 I 1957 ist berücksichtigt
 
 ### 
 
@@ -1050,7 +1050,7 @@ in der sie aufgrund gesetzlicher Pflicht Wehrdienst oder Zivildienst leisten,
 in der sie sich in einem Wehrdienstverhältnis besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes befinden, wenn sich der Einsatzunfall während einer Zeit ereignet hat, in der sie nach Nummer 2 versicherungspflichtig waren,
 
 3.  
-für die sie von einem Leistungsträger Krankengeld, Verletztengeld, Versorgungskrankengeld, Übergangsgeld oder Arbeitslosengeld beziehen, wenn sie im letzten Jahr vor Beginn der Leistung zuletzt versicherungspflichtig waren; der Zeitraum von einem Jahr verlängert sich um Anrechnungszeiten wegen des Bezugs von Arbeitslosengeld II,
+für die sie von einem Leistungsträger Krankengeld, Verletztengeld, Versorgungskrankengeld, Übergangsgeld, Arbeitslosengeld oder von der sozialen oder einer privaten Pflegeversicherung Pflegeunterstützungsgeld beziehen, wenn sie im letzten Jahr vor Beginn der Leistung zuletzt versicherungspflichtig waren; der Zeitraum von einem Jahr verlängert sich um Anrechnungszeiten wegen des Bezugs von Arbeitslosengeld II,
 
 3a.  
 für die sie von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Landesebene, soweit das Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben beziehen, wenn sie im letzten Jahr vor Beginn dieser Zahlung zuletzt versicherungspflichtig waren; der Zeitraum von einem Jahr verlängert sich um Anrechnungszeiten wegen des Bezugs von Arbeitslosengeld II,
@@ -3303,9 +3303,9 @@ Dritter Abschnitt Zusatzleistungen
 
 (1) Rentenbezieher, die freiwillig in der gesetzlichen Krankenversicherung oder bei einem Krankenversicherungsunternehmen, das der deutschen Aufsicht unterliegt, versichert sind, erhalten zu ihrer Rente einen Zuschuss zu den Aufwendungen für die Krankenversicherung. Dies gilt nicht, wenn sie gleichzeitig in einer in- oder ausländischen gesetzlichen Krankenversicherung pflichtversichert sind.
 
-(2) Für Rentenbezieher, die freiwillig in der gesetzlichen Krankenversicherung versichert sind, wird der monatliche Zuschuss in Höhe des halben Betrages geleistet, der sich aus der Anwendung des um 0,9 Beitragssatzpunkte verminderten allgemeinen Beitragssatzes der gesetzlichen Krankenversicherung auf den Zahlbetrag der Rente ergibt.
+(2) Für Rentenbezieher, die freiwillig in der gesetzlichen Krankenversicherung versichert sind, wird der monatliche Zuschuss in Höhe des halben Betrages geleistet, der sich aus der Anwendung des allgemeinen Beitragssatzes der gesetzlichen Krankenversicherung auf den Zahlbetrag der Rente ergibt.
 
-(3) Für Rentenbezieher, die bei einem Krankenversicherungsunternehmen versichert sind, das der deutschen Aufsicht unterliegt, wird der monatliche Zuschuss in Höhe des halben Betrages geleistet, der sich aus der Anwendung des um 0,9 Beitragssatzpunkte verminderten allgemeinen Beitragssatzes der gesetzlichen Krankenversicherung auf den Zahlbetrag der Rente ergibt. Der monatliche Zuschuss wird auf die Hälfte der tatsächlichen Aufwendungen für die Krankenversicherung begrenzt. Beziehen Rentner mehrere Renten, wird ein begrenzter Zuschuss von den Rentenversicherungsträgern anteilig nach dem Verhältnis der Höhen der Renten geleistet. Er kann auch in einer Summe zu einer dieser Renten geleistet werden.
+(3) Für Rentenbezieher, die bei einem Krankenversicherungsunternehmen versichert sind, das der deutschen Aufsicht unterliegt, wird der monatliche Zuschuss in Höhe des halben Betrages geleistet, der sich aus der Anwendung des allgemeinen Beitragssatzes der gesetzlichen Krankenversicherung auf den Zahlbetrag der Rente ergibt. Der monatliche Zuschuss wird auf die Hälfte der tatsächlichen Aufwendungen für die Krankenversicherung begrenzt. Beziehen Rentner mehrere Renten, wird ein begrenzter Zuschuss von den Rentenversicherungsträgern anteilig nach dem Verhältnis der Höhen der Renten geleistet. Er kann auch in einer Summe zu einer dieser Renten geleistet werden.
 
 (4) Rentenbezieher, die freiwillig in der gesetzlichen Krankenversicherung und bei einem Krankenversicherungsunternehmen versichert sind, das der deutschen Aufsicht unterliegt, erhalten zu ihrer Rente ausschließlich einen Zuschuss nach Absatz 2.
 
@@ -4761,7 +4761,7 @@ Die Darstellungen zu der Nummer 4 sind erstmals im Jahre 2005 vorzulegen.
 der Beitragssatz in der allgemeinen Rentenversicherung in der mittleren Variante der 15-jährigen Vorausberechnungen des Rentenversicherungsberichts bis zum Jahre 2020 20 vom Hundert oder bis zum Jahre 2030 22 vom Hundert überschreitet,
 
 2.  
-der Verhältniswert aus einer jahresdurchschnittlichen verfügbaren Standardrente und dem verfügbaren Durchschnittsentgelt in der mittleren Variante der 15-jährigen Vorausberechnungen des Rentenversicherungsberichts (Sicherungsniveau vor Steuern) bis zum Jahr 2020 46 vom Hundert oder bis zum Jahr 2030 43 vom Hundert unterschreitet; verfügbare Standardrente ist die Regelaltersrente aus der allgemeinen Rentenversicherung mit 45 Entgeltpunkten ohne Berücksichtigung der auf sie entfallenden Steuern, gemindert um den allgemeinen Beitragsanteil zur Krankenversicherung und den Beitrag zur Pflegeversicherung; verfügbares Durchschnittsentgelt ist das Durchschnittsentgelt ohne Berücksichtigung der darauf entfallenden Steuern, gemindert um den durchschnittlich zu entrichtenden Arbeitnehmersozialbeitrag einschließlich des durchschnittlichen Aufwands zur zusätzlichen Altersvorsorge.
+der Verhältniswert aus einer jahresdurchschnittlichen verfügbaren Standardrente und dem verfügbaren Durchschnittsentgelt in der mittleren Variante der 15-jährigen Vorausberechnungen des Rentenversicherungsberichts (Sicherungsniveau vor Steuern) bis zum Jahr 2020 46 vom Hundert oder bis zum Jahr 2030 43 vom Hundert unterschreitet; verfügbare Standardrente ist die Regelaltersrente aus der allgemeinen Rentenversicherung mit 45 Entgeltpunkten ohne Berücksichtigung der auf sie entfallenden Steuern, gemindert um den allgemeinen Beitragsanteil sowie den durchschnittlichen Zusatzbeitrag zur Krankenversicherung und den Beitrag zur Pflegeversicherung; verfügbares Durchschnittsentgelt ist das Durchschnittsentgelt ohne Berücksichtigung der darauf entfallenden Steuern, gemindert um den durchschnittlich zu entrichtenden Arbeitnehmersozialbeitrag einschließlich des durchschnittlichen Aufwands zur zusätzlichen Altersvorsorge.
 
 Die Bundesregierung soll den gesetzgebenden Körperschaften geeignete Maßnahmen vorschlagen, wenn sich zeigt, dass durch die Förderung der freiwilligen zusätzlichen Altersvorsorge eine ausreichende Verbreitung nicht erreicht werden kann.
 
@@ -4918,10 +4918,10 @@ bei Personen, deren Beschäftigung nach dem Einkommensteuerrecht als selbständi
 
 (8) Bei Arbeitnehmern, die eine geringfügige Beschäftigung ausüben, ist beitragspflichtige Einnahme das Arbeitsentgelt, mindestens jedoch der Betrag in Höhe von 175 Euro.
 
-(9) Bei Arbeitnehmern, die in einer Beschäftigung Leistungen der Entgeltsicherung nach § 417 des Dritten Buches erhalten, gilt auch der Unterschiedsbetrag zwischen dem Arbeitsentgelt aus der Beschäftigung während des Bezugs der Leistungen zur Entgeltsicherung und 90 vom Hundert des für das Arbeitslosengeld maßgeblichen Bemessungsentgelts im Sinne des § 417 des Dritten Buches, jedoch höchstens bis zur Beitragsbemessungsgrenze, als beitragspflichtige Einnahme. Während des Bezugs von Kurzarbeitergeld gilt weiterhin der nach Satz 1 ermittelte Unterschiedsbetrag als beitragspflichtige Einnahme. Für Personen, die nach § 3 Satz 1 Nr. 3 für die Zeit des Bezugs von Krankengeld, Versorgungskrankengeld, Verletztengeld oder Übergangsgeld versichert sind, und für Personen, die für die Zeit der Arbeitsunfähigkeit oder der Ausführung von Leistungen zur Teilhabe, in der sie Krankentagegeld von einem privaten Krankenversicherungsunternehmen erhalten, nach § 4 Abs. 3 Satz 1 Nr. 2 versichert sind, gilt Satz 1 entsprechend.
+(9) (weggefallen)
 
 (10) Bei Arbeitnehmern, die gegen ein monatliches Arbeitsentgelt bis zum oberen Grenzbetrag der Gleitzone (§ 20 Abs. 2 Viertes Buch) mehr als geringfügig beschäftigt sind, ist beitragspflichtige Einnahme der Betrag, der sich aus folgender Formel ergibt:
-Dabei ist AE das Arbeitsentgelt und F der Faktor, der sich ergibt, wenn der Wert 30 vom Hundert durch den Gesamtsozialversicherungsbeitragssatz des Kalenderjahres, in dem der Anspruch auf das Arbeitsentgelt entstanden ist, geteilt wird. Der Gesamtsozialversicherungsbeitragssatz eines Kalenderjahres ergibt sich aus der Summe der zum 1. Januar desselben Kalenderjahres geltenden Beitragssätze in der allgemeinen Rentenversicherung, in der gesetzlichen Pflegeversicherung sowie zur Arbeitsförderung und des allgemeinen Beitragssatzes in der gesetzlichen Krankenversicherung. Für die Zeit vom 1. Juli 2006 bis zum 31. Dezember 2006 beträgt der Faktor F 0,7160. Der Gesamtsozialversicherungsbeitragssatz und der Faktor F sind vom Bundesministerium für Arbeit und Soziales bis zum 31. Dezember eines Jahres für das folgende Kalenderjahr im Bundesanzeiger bekannt zu geben. Abweichend von Satz 1 ist beitragspflichtige Einnahme das Arbeitsentgelt aus der versicherungspflichtigen Beschäftigung, wenn der Arbeitnehmer dies schriftlich gegenüber dem Arbeitgeber erklärt. Die Erklärung kann nur mit Wirkung für die Zukunft und bei mehreren Beschäftigungen nach Satz 1 nur einheitlich abgegeben werden und ist für die Dauer der Beschäftigungen bindend. Satz 1 gilt nicht für Personen, die zu ihrer Berufsausbildung beschäftigt sind.
+Dabei ist AE das Arbeitsentgelt und F der Faktor, der sich ergibt, wenn der Wert 30 vom Hundert durch den Gesamtsozialversicherungsbeitragssatz des Kalenderjahres, in dem der Anspruch auf das Arbeitsentgelt entstanden ist, geteilt wird. Der Gesamtsozialversicherungsbeitragssatz eines Kalenderjahres ergibt sich aus der Summe der zum 1. Januar desselben Kalenderjahres geltenden Beitragssätze in der allgemeinen Rentenversicherung, in der gesetzlichen Pflegeversicherung sowie zur Arbeitsförderung und des um den durchschnittlichen Zusatzbeitragssatz erhöhten allgemeinen Beitragssatzes in der gesetzlichen Krankenversicherung. Für die Zeit vom 1. Juli 2006 bis zum 31. Dezember 2006 beträgt der Faktor F 0,7160. Der Gesamtsozialversicherungsbeitragssatz und der Faktor F sind vom Bundesministerium für Arbeit und Soziales bis zum 31. Dezember eines Jahres für das folgende Kalenderjahr im Bundesanzeiger bekannt zu geben. Abweichend von Satz 1 ist beitragspflichtige Einnahme das Arbeitsentgelt aus der versicherungspflichtigen Beschäftigung, wenn der Arbeitnehmer dies schriftlich gegenüber dem Arbeitgeber erklärt. Die Erklärung kann nur mit Wirkung für die Zukunft und bei mehreren Beschäftigungen nach Satz 1 nur einheitlich abgegeben werden und ist für die Dauer der Beschäftigungen bindend. Satz 1 gilt nicht für Personen, die zu ihrer Berufsausbildung beschäftigt sind.
 
 ### § 164
 
@@ -4980,6 +4980,12 @@ bei Personen, die Teilarbeitslosengeld oder Teilübergangsgeld beziehen, 80 vom 
 
 2d.  
 bei Personen, die von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Landesebene, soweit Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben beziehen, das diesen Leistungen zugrunde liegende Arbeitsentgelt oder Arbeitseinkommen,
+
+2e.  
+bei Personen, die Krankengeld nach § 45 Absatz 1 des Fünften Buches oder Verletztengeld nach § 45 Absatz 4 des Siebten Buches in Verbindung mit § 45 Absatz 1 des Fünften Buches beziehen, 80 vom Hundert des während der Freistellung ausgefallenen, laufenden Arbeitsentgelts oder des der Leistung zugrunde liegenden Arbeitseinkommens,
+
+2f.  
+bei Personen, die Pflegeunterstützungsgeld beziehen, 80 vom Hundert des während der Freistellung ausgefallenen, laufenden Arbeitsentgelts,
 
 3.  
 bei Beziehern von Vorruhestandsgeld das Vorruhestandsgeld,
@@ -5082,13 +5088,7 @@ a)
 von der Bundesagentur oder, im Fall der Leistungserbringung nach § 10 Abs. 2 Satz 2 des Altersteilzeitgesetzes, von den Arbeitgebern, wenn die Voraussetzungen des § 4 des Altersteilzeitgesetzes vorliegen,
 
 b)  
-von den Arbeitgebern, wenn die Voraussetzungen des § 4 des Altersteilzeitgesetzes nicht vorliegen,
-
-8.  
-bei Arbeitnehmern, die in einer Beschäftigung Leistungen der Entgeltsicherung nach § 417 des Dritten Buches erhalten, für den sich nach § 163 Abs. 9 Satz 1 ergebenden Unterschiedsbetrag von der Bundesagentur für Arbeit,
-
-9.  
-bei Arbeitnehmern, die nach § 417 Absatz 6 des Dritten Buches einen Zuschuss zum Kurzarbeitergeld, Krankengeld, Versorgungskrankengeld, Verletztengeld, Übergangsgeld oder Krankentagegeld erhalten, für den sich nach § 163 Abs. 9 Satz 2 und 3 ergebenden Unterschiedsbetrag von der Bundesagentur für Arbeit.
+von den Arbeitgebern, wenn die Voraussetzungen des § 4 des Altersteilzeitgesetzes nicht vorliegen.
 
 (2) Wird infolge einmalig gezahlten Arbeitsentgelts die in Absatz 1 Nr. 2 genannte Grenze von 20 vom Hundert der monatlichen Bezugsgröße überschritten, tragen die Versicherten und die Arbeitgeber die Beiträge von dem diese Grenze übersteigenden Teil des Arbeitsentgelts jeweils zur Hälfte; im Übrigen tragen die Arbeitgeber den Beitrag allein.
 
@@ -5132,6 +5132,20 @@ Krankengeld nach § 44a des Fünften Buches beziehen, vom Leistungsträger,
 d)  
 für Personen, die Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben erhalten, von der Stelle, die die Leistung erbringt; wird die Leistung von mehreren Stellen erbracht, sind die Beiträge entsprechend anteilig zu tragen,
 
+e)  
+Pflegeunterstützungsgeld beziehen, von den Beziehern der Leistung zur Hälfte, soweit sie auf die Leistung entfallen, im Übrigen
+
+aa)  
+von der Pflegekasse, wenn der Pflegebedürftige in der sozialen Pflegeversicherung versichert ist,
+
+bb)  
+von dem privaten Versicherungsunternehmen, wenn der Pflegebedürftige in der sozialen Pflegeversicherung versicherungsfrei ist,
+
+cc)  
+von der Festsetzungsstelle für die Beihilfe oder dem Dienstherrn und der Pflegekasse oder dem privaten Versicherungsunternehmen anteilig, wenn der Pflegebedürftige Anspruch auf Beihilfe oder Heilfürsorge hat und in der sozialen Pflegeversicherung oder bei einem privaten Versicherungsunternehmen versichert ist; ist ein Träger der Rentenversicherung Festsetzungsstelle für die Beihilfe, gelten die Beiträge insoweit als gezahlt; dies gilt auch im Verhältnis der Rentenversicherungsträger untereinander;
+
+die Beiträge werden von den Stellen, die die Leistung zu erbringen haben, allein getragen, wenn die Bezieher der Leistung zur Berufsausbildung beschäftigt sind und das der Leistung zugrunde liegende Arbeitsentgelt auf den Monat bezogen 450 Euro nicht übersteigt; Doppelbuchstabe cc gilt entsprechend,
+
 3.  
 bei Bezug von Vorruhestandsgeld von den Beziehern und den zur Zahlung des Vorruhestandsgeldes Verpflichteten je zur Hälfte,
 
@@ -5153,7 +5167,7 @@ in der sozialen Pflegeversicherung versicherungsfreien Pflegebedürftigen pflege
 c)  
 Pflegebedürftigen pflegen, der wegen Pflegebedürftigkeit Beihilfeleistungen oder Leistungen der Heilfürsorge und Leistungen einer Pflegekasse oder eines privaten Versicherungsunternehmens erhält, von der Festsetzungsstelle für die Beihilfe oder vom Dienstherrn und der Pflegekasse oder dem privaten Versicherungsunternehmen anteilig; ist ein Träger der Rentenversicherung Festsetzungsstelle für die Beihilfe, gelten die Beiträge insoweit als gezahlt; dies gilt auch im Verhältnis der Rentenversicherungsträger untereinander.
 
-(2) Bezieher von Krankengeld oder Verletztengeld, die in der knappschaftlichen Rentenversicherung versichert sind, tragen die Beiträge in Höhe des Vomhundertsatzes, den sie zu tragen hätten, wenn sie in der allgemeinen Rentenversicherung versichert wären; im Übrigen tragen die Beiträge die Leistungsträger. Satz 1 gilt entsprechend für Bezieher von Vorruhestandsgeld, die in der knappschaftlichen Rentenversicherung versichert sind.
+(2) Bezieher von Krankengeld, Pflegeunterstützungsgeld oder Verletztengeld, die in der knappschaftlichen Rentenversicherung versichert sind, tragen die Beiträge in Höhe des Vomhundertsatzes, den sie zu tragen hätten, wenn sie in der allgemeinen Rentenversicherung versichert wären; im Übrigen tragen die Beiträge die Leistungsträger. Satz 1 gilt entsprechend für Bezieher von Vorruhestandsgeld, die in der knappschaftlichen Rentenversicherung versichert sind.
 
 ### § 171 Freiwillig Versicherte
 
@@ -5234,9 +5248,9 @@ die antragstellenden Stellen.
 
 ### § 176 Beitragszahlung und Abrechnung bei Bezug von Sozialleistungen, bei Leistungen im Eingangsverfahren und im Berufsbildungsbereich anerkannter Werkstätten für behinderte Menschen
 
-(1) Soweit Personen, die Krankengeld oder Verletztengeld beziehen, an den Beiträgen zur Rentenversicherung beteiligt sind, zahlen die Leistungsträger die Beiträge an die Träger der Rentenversicherung. Für den Beitragsabzug gilt § 28g Satz 1 des Vierten Buches entsprechend.
+(1) Soweit Personen, die Krankengeld, Pflegeunterstützungsgeld oder Verletztengeld beziehen, an den Beiträgen zur Rentenversicherung beteiligt sind, zahlen die Leistungsträger die Beiträge an die Träger der Rentenversicherung. Als Leistungsträger gelten bei Bezug von Pflegeunterstützungsgeld auch private Versicherungsunternehmen, Festsetzungsstellen für die Beihilfe und Dienstherren. Für den Beitragsabzug gilt § 28g Satz 1 des Vierten Buches entsprechend.
 
-(2) Das Nähere über Zahlung und Abrechnung der Beiträge für Bezieher von Sozialleistungen können die Leistungsträger und die Deutsche Rentenversicherung Bund durch Vereinbarung regeln.
+(2) Das Nähere über Zahlung und Abrechnung der Beiträge für Bezieher von Sozialleistungen können die Leistungsträger und die Deutsche Rentenversicherung Bund durch Vereinbarung regeln. Bei Bezug von Pflegeunterstützungsgeld gilt § 176a entsprechend.
 
 (3) Ist ein Träger der Rentenversicherung Träger der Rehabilitation, gelten die Beiträge als gezahlt. Satz 1 gilt entsprechend bei Leistungen im Eingangsverfahren und im Berufsbildungsbereich anerkannter Werkstätten für behinderte Menschen.
 
@@ -5549,7 +5563,7 @@ Eine Meldung nach § 28a Abs. 1 bis 3 des Vierten Buches haben zu erstatten
 für Seelotsen die Lotsenbrüderschaften,
 
 2.  
-für Personen, für die Beiträge aus Sozialleistungen zu zahlen sind, die Leistungsträger,
+für Personen, für die Beiträge aus Sozialleistungen zu zahlen sind, die Leistungsträger und für Bezieher von Pflegeunterstützungsgeld die soziale oder private Pflegeversicherung,
 
 3.  
 für Personen, die Vorruhestandsgeld beziehen, die zur Zahlung des Vorruhestandsgeldes Verpflichteten,
@@ -10781,8 +10795,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 10   | 31 144               |
 | 11   | 32 100               |
 | 12   | 33 002               |
-| 13   |                      |
+| 13   | 33 659               |
 | 14   |                      |
+| 15   |                      |
 
 -----
 
@@ -10880,6 +10895,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 1.1.2012-31.12.2012 | 67 200                        |                                     |
 | 1.1.2013-31.12.2013 | 69 600                        |                                     |
 | 1.1.2014-31.12.2014 | 71 400                        |                                     |
+| 1.1.2015–31.12.2015 | 72 600                        |                                     |
 
 ### Anlage 2a Jährliche Beitragsbemessungsgrenzen des Beitrittsgebiets in Euro/DM
 
@@ -11024,6 +11040,11 @@ Rentenversicherung</td>
 <td>1.1.2014 - 31.12.2014</td>
 <td>60 000</td>
 <td>73 800</td>
+</tr>
+<tr class="even">
+<td>1.1.2015 - 31.12.2015</td>
+<td>62 400</td>
+<td>76 200</td>
 </tr>
 </tbody>
 </table>
@@ -12455,8 +12476,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 2010             | 1,1726          |                             |
 | 2011             | 1,1740          |                             |
 | 2012             | 1,1785          |                             |
-| 2013             |                 | 1,1767                      |
+| 2013             | 1,1762          |                             |
 | 2014             |                 | 1,1873                      |
+| 2015             |                 | 1,1717                      |
 
 ### Anlage 11 Verdienst für freiwillige Beiträge im Beitrittsgebiet
 
