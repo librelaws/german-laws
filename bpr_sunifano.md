@@ -30,14 +30,14 @@ c)
 Generalmajor, Konteradmiral, Generalstabsarzt, Admiralstabsarzt;
 
 d)  
-Brigadegeneral, Flotillenadmiral, Generalarzt, Admiralarzt, Generalapotheker;
+Brigadegeneral, Flottillenadmiral, Generalarzt, Admiralarzt, Generalapotheker;
 
 2.  
 a)  
 Oberst, Kapitän zur See, Oberstarzt, Flottenarzt, Oberstapotheker, Flottenapotheker, Oberstveterinär;
 
 b)  
-Oberstleutnant, Fregattenkapitän, Oberfeldarzt, Flotillenarzt, Oberfeldapotheker, Flotillenapotheker, Oberfeldveterinär;
+Oberstleutnant, Fregattenkapitän, Oberfeldarzt, Flottillenarzt, Oberfeldapotheker, Flottillenapotheker, Oberfeldveterinär;
 
 c)  
 Major, Korvettenkapitän, Oberstabsarzt, Oberstabsapotheker, Oberstabsveterinär;
@@ -282,7 +282,7 @@ u)
 Kapitän zur Seevier mittelbreite Ärmelstreifen auf beiden Unterärmeln;
 
 v)  
-Flotillenadmiralein handbreiter, darüber ein schmaler Ärmelstreifen auf beiden Unterärmeln;
+Flottillenadmiralein handbreiter, darüber ein schmaler Ärmelstreifen auf beiden Unterärmeln;
 
 w)  
 Konteradmiralein handbreiter, darüber ein mittelbreiter Ärmelstreifen auf beiden Unterärmeln;
