@@ -5,10 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 4.11.1975 I 2735;
 
 Stand  
-zuletzt geändert durch Art. 18 G v. 31.8.2013 I 3533
-
-Hinweis  
-Änderung durch Art. 20 G v. 25.7.2014 I 1266 (Nr. 36) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+zuletzt geändert durch Art. 9 G v. 31.3.2016 I 518
 
 ### 
 
@@ -793,7 +790,7 @@ eine sachgemäße Ausübung der Hilfeleistung in Steuersachen im Rahmen der Befu
 für die Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr. 11 neben dem Mitgliedsbeitrag kein besonderes Entgelt erhoben wird;
 
 6.  
-die Anwendung der Vorschriften des § 27 Abs. 1 und 3 sowie der §§ 32 und 33 des Bürgerlichen Gesetzbuches nicht ausgeschlossen ist;
+die Anwendung der Vorschriften des § 27 Absatz 1 und 3 Satz 1 sowie der §§ 32 und 33 des Bürgerlichen Gesetzbuches nicht ausgeschlossen ist;
 
 7.  
 Verträge des Vereins mit Mitgliedern des Vorstands oder deren Angehörigen der Zustimmung oder Genehmigung der Mitgliederversammlung bedürfen;
@@ -2139,9 +2136,9 @@ Zweiter Unterabschnitt Die Gerichte
 
 (5) § 6 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt entsprechend.
 
-(6) Die Absätze 1 bis 5 finden auf die ehrenamtlichen Richter des Senats für Steuerberater- und Steuerbevollmächtigtensachen beim Bundesgerichtshof mit der Maßgabe Anwendung, daß an Stelle der Steuerberaterkammern die Bundessteuerberaterkammer und an Stelle der Landesjustizverwaltung das Bundesministerium der Justiz treten.
+(6) Die Absätze 1 bis 5 finden auf die ehrenamtlichen Richter des Senats für Steuerberater- und Steuerbevollmächtigtensachen beim Bundesgerichtshof mit der Maßgabe Anwendung, daß an Stelle der Steuerberaterkammern die Bundessteuerberaterkammer und an Stelle der Landesjustizverwaltung das Bundesministerium der Justiz und für Verbraucherschutz treten.
 
-(7) Die Landesjustizverwaltung kann die Befugnisse, die ihr nach den Absätzen 2 und 3 zustehen, auf nachgeordnete Behörden übertragen.
+(7) Die Landesregierungen werden ermächtigt, die Aufgaben und Befugnisse, die den Landesjustizverwaltungen nach den Absätzen 2 und 3 zustehen, durch Rechtsverordnung auf diesen nachgeordnete Behörden zu übertragen. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 ### § 100 Voraussetzungen für die Berufung zum Beisitzer und Recht zur Ablehnung
 
@@ -2162,7 +2159,7 @@ wer in gesundheitlicher Hinsicht beeinträchtigt ist.
 
 ### § 101 Enthebung vom Amt des Beisitzers
 
-(1) Ein Steuerberater oder Steuerbevollmächtigter ist in den Fällen der §§ 95 und 96 auf Antrag der für die Ernennung zuständigen Behörde, im Falle des § 97 auf Antrag des Bundesministeriums der Justiz seines Amtes als Beisitzer zu entheben,
+(1) Ein Steuerberater oder Steuerbevollmächtigter ist in den Fällen der §§ 95 und 96 auf Antrag der für die Ernennung zuständigen Behörde, im Falle des § 97 auf Antrag des Bundesministeriums der Justiz und für Verbraucherschutz seines Amtes als Beisitzer zu entheben,
 
 1.  
 wenn nachträglich bekannt wird, daß er nicht hätte zum Beisitzer berufen werden dürfen;
@@ -2353,7 +2350,7 @@ Für die Verhandlungen und Entscheidungen über Beschwerden ist der Senat für S
 
 (3) Die Berufung kann nur schriftlich gerechtfertigt werden.
 
-(4) Auf das Verfahren sind im übrigen neben den Vorschriften der Strafprozeßordnung über die Berufung die §§ 121 bis 125 dieses Gesetzes sinngemäß anzuwenden. Hat der Steuerberater oder Steuerbevollmächtigte die Berufung eingelegt, so ist bei seiner Abwesenheit in der Hauptverhandlung § 329 Abs. 1 Satz 1 und 2 und Abs. 3 der Strafprozessordnung entsprechend anzuwenden, falls der Steuerberater oder Steuerbevollmächtigte ordnungsgemäß geladen und in der Ladung ausdrücklich auf die sich aus seiner Abwesenheit ergebende Rechtsfolge hingewiesen wurde.
+(4) Auf das Verfahren sind im übrigen neben den Vorschriften der Strafprozeßordnung über die Berufung die §§ 121 bis 125 dieses Gesetzes sinngemäß anzuwenden. Hat der Steuerberater oder Steuerbevollmächtigte die Berufung eingelegt, so ist bei seiner Abwesenheit in der Hauptverhandlung § 329 Absatz 1 Satz 1 und 4 sowie Absatz 7 der Strafprozessordnung entsprechend anzuwenden, falls der Steuerberater oder Steuerbevollmächtigte ordnungsgemäß geladen und in der Ladung ausdrücklich auf die sich aus seiner Abwesenheit ergebende Rechtsfolge hingewiesen wurde.
 
 ### § 128 Mitwirkung der Staatsanwaltschaft im zweiten Rechtszug
 
@@ -2792,7 +2789,7 @@ Der Senat der Freien und Hansestadt Hamburg wird ermächtigt, die Vorschriften d
 
 ### Anlage (zu § 146 Satz 1)Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2006, 3434 u. 3435)
+(Fundstelle: BGBl. I 2006, 3434 u. 3435; bzgl. einzelner Änderungen vgl. Fußnote)
 
 <table>
 <colgroup>
