@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 23.9.2004 I 2414;
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 20.11.2014 I 1748
+Zuletzt geändert durch Art. 6 G v. 20.10.2015 I 1722
 
 ### 
 
@@ -1786,7 +1786,7 @@ Flächen, deren Böden erheblich mit umweltgefährdenden Stoffen belastet sind.
 
 ### § 9a Verordnungsermächtigung
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Vorschriften zu erlassen über
+Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Vorschriften zu erlassen über
 
 1.  
 Darstellungen und Festsetzungen in den Bauleitplänen über
@@ -5663,11 +5663,41 @@ Zweiter Teil Schlussvorschriften
 
 (7) Die Länder können bestimmen, dass § 34 Abs. 1 Satz 1 bis zum 31. Dezember 2004 nicht für Einkaufszentren, großflächige Einzelhandelsbetriebe und sonstige großflächige Handelsbetriebe im Sinne des § 11 Abs. 3 der Baunutzungsverordnung anzuwenden ist. Wird durch eine Regelung nach Satz 1 die bis dahin zulässige Nutzung eines Grundstücks aufgehoben oder wesentlich geändert, ist § 238 entsprechend anzuwenden.
 
-(8) Bis zum 31. Dezember 2019 gilt § 34 Absatz 3a Satz 1 entsprechend für die Nutzungsänderung zulässigerweise errichteter Geschäfts-, Büro- oder Verwaltungsgebäude in bauliche Anlagen, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, und für deren Erweiterung, Änderung oder Erneuerung.
+(8) Bis zum 31. Dezember 2019 gilt § 34 Absatz 3a Satz 1 entsprechend für die Nutzungsänderung zulässigerweise errichteter baulicher Anlagen in bauliche Anlagen, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, und für deren Erweiterung, Änderung oder Erneuerung.
 
 (9) Bis zum 31. Dezember 2019 gilt die Rechtsfolge des § 35 Absatz 4 Satz 1 für Vorhaben entsprechend, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, wenn das Vorhaben im unmittelbaren räumlichen Zusammenhang mit nach § 30 Absatz 1 oder § 34 zu beurteilenden bebauten Flächen innerhalb des Siedlungsbereichs erfolgen soll.
 
 (10) Bis zum 31. Dezember 2019 kann in Gewerbegebieten (§ 8 der Baunutzungsverordnung, auch in Verbindung mit § 34 Absatz 2) für Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte oder sonstige Unterkünfte für Flüchtlinge oder Asylbegehrende von den Festsetzungen des Bebauungsplans befreit werden, wenn an dem Standort Anlagen für soziale Zwecke als Ausnahme zugelassen werden können oder allgemein zulässig sind und die Abweichung auch unter Würdigung nachbarlicher Interessen mit öffentlichen Belangen vereinbar ist. § 36 gilt entsprechend.
+
+(11) Soweit in den Baugebieten nach den §§ 2 bis 7 der Baunutzungsverordnung (auch in Verbindung mit § 34 Absatz 2) Anlagen für soziale Zwecke als Ausnahme zugelassen werden können, gilt § 31 Absatz 1 mit der Maßgabe, dass dort bis zum 31. Dezember 2019 Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte oder sonstige Unterkünfte für Flüchtlinge oder Asylbegehrende in der Regel zugelassen werden sollen. Satz 1 gilt entsprechend für in übergeleiteten Plänen festgesetzte Baugebiete, die den in Satz 1 genannten Baugebieten vergleichbar sind.
+
+(12) Bis zum 31. Dezember 2019 kann für die auf längstens drei Jahre zu befristende
+
+1.  
+Errichtung mobiler Unterkünfte für Flüchtlinge oder Asylbegehrende,
+
+2.  
+Nutzungsänderung zulässigerweise errichteter baulicher Anlagen in Gewerbe- und Industriegebieten sowie in Sondergebieten nach den §§ 8 bis 11 der Baunutzungsverordnung (auch in Verbindung mit § 34 Absatz 2) in Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte oder sonstige Unterkünfte für Flüchtlinge oder Asylbegehrende
+
+von den Festsetzungen des Bebauungsplans befreit werden, wenn die Befreiung auch unter Würdigung nachbarlicher Interessen mit den öffentlichen Belangen vereinbar ist. § 36 gilt entsprechend.
+
+(13) Im Außenbereich (§ 35) gilt unbeschadet des Absatzes 9 bis zum 31. Dezember 2019 die Rechtsfolge des § 35 Absatz 4 Satz 1 entsprechend für
+
+1.  
+die auf längstens drei Jahre zu befristende Errichtung mobiler Unterkünfte für Flüchtlinge oder Asylbegehrende,
+
+2.  
+die Nutzungsänderung zulässigerweise errichteter baulicher Anlagen, auch wenn deren bisherige Nutzung aufgegeben wurde, in Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte oder sonstige Unterkünfte für Flüchtlinge oder Asylbegehrende, einschließlich einer erforderlichen Erneuerung oder Erweiterung.
+
+Für Vorhaben nach Satz 1 gilt § 35 Absatz 5 Satz 2 Halbsatz 1 und Satz 3 entsprechend. Wird zum Zeitpunkt einer Nutzungsänderung nach Satz 1 Nummer 2 eine Nutzung zulässigerweise ausgeübt, kann diese im Anschluss wieder aufgenommen werden; im Übrigen gelten für eine nachfolgende Nutzungsänderung die allgemeinen Regeln. Die Rückbauverpflichtung nach Satz 2 entfällt, wenn eine nach Satz 3 zulässige Nutzung aufgenommen wird oder wenn sich die Zulässigkeit der nachfolgenden Nutzung aus § 30 Absatz 1, 2 oder § 33 ergibt. Die Sicherstellung der Rückbauverpflichtung nach Satz 2 in entsprechender Anwendung des § 35 Absatz 5 Satz 3 ist nicht erforderlich, wenn Vorhabenträger ein Land oder eine Gemeinde ist.
+
+(14) Soweit auch bei Anwendung der Absätze 8 bis 13 dringend benötigte Unterkunftsmöglichkeiten im Gebiet der Gemeinde, in der sie entstehen sollen, nicht oder nicht rechtzeitig bereitgestellt werden können, kann bei Aufnahmeeinrichtungen, Gemeinschaftsunterkünften oder sonstigen Unterkünften für Flüchtlinge oder Asylbegehrende bis zum 31. Dezember 2019 von den Vorschriften dieses Gesetzbuchs oder den aufgrund dieses Gesetzbuchs erlassenen Vorschriften in erforderlichem Umfang abgewichen werden. Zuständig ist die höhere Verwaltungsbehörde. Die Gemeinde ist anzuhören; diese Anhörung tritt auch an die Stelle des in § 14 Absatz 2 Satz 2 vorgesehenen Einvernehmens. Satz 3 findet keine Anwendung, wenn Vorhabenträger die Gemeinde oder in deren Auftrag ein Dritter ist. Für Vorhaben nach Satz 1 gilt § 35 Absatz 5 Satz 2 Halbsatz 1 und Satz 3 entsprechend. Absatz 13 Satz 3 gilt entsprechend. Die Rückbauverpflichtung nach Satz 5 entfällt, wenn eine nach Satz 6 zulässige Nutzung aufgenommen wird oder wenn sich die Zulässigkeit der nachfolgenden Nutzung aus § 30 Absatz 1, 2 oder § 33 ergibt. Die Sicherstellung der Rückbauverpflichtung nach Satz 5 in entsprechender Anwendung des § 35 Absatz 5 Satz 3 ist nicht erforderlich, wenn Vorhabenträger ein Land oder eine Gemeinde ist. Wenn Vorhabenträger ein Land oder in dessen Auftrag ein Dritter ist, gilt § 37 Absatz 3 entsprechend; im Übrigen findet § 37 bis zum 31. Dezember 2019 auf Vorhaben nach Satz 1 keine Anwendung.
+
+(15) In Verfahren zur Genehmigung von baulichen Anlagen, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, gilt bis zum 31. Dezember 2019 das Einvernehmen abweichend von § 36 Absatz 2 Satz 2 (auch in Verbindung mit Absatz 10 Satz 2 und Absatz 12 Satz 2) als erteilt, wenn es nicht innerhalb eines Monats verweigert wird.
+
+(16) Bei Vorhaben nach den Absätzen 9 und 13 gilt § 18 Absatz 3 Satz 2 des Bundesnaturschutzgesetzes bis zum 31. Dezember 2019 entsprechend.
+
+(17) Die Befristung bis zum 31. Dezember 2019 in den Absätzen 8 bis 16 bezieht sich nicht auf die Geltungsdauer einer Genehmigung, sondern auf den Zeitraum, bis zu dessen Ende im bauaufsichtlichen Zulassungsverfahren von den Vorschriften Gebrauch gemacht werden kann.
 
 ### § 246a Überschwemmungsgebiete, überschwemmungsgefährdete Gebiete
 
@@ -5782,10 +5812,10 @@ die Risiken für die Umwelt, einschließlich der menschlichen Gesundheit (zum Be
 2.4  
 den Umfang und die räumliche Ausdehnung der Auswirkungen;
 
-2.6  
+2.5  
 die Bedeutung und die Sensibilität des voraussichtlich betroffenen Gebiets auf Grund der besonderen natürlichen Merkmale, des kulturellen Erbes, der Intensität der Bodennutzung des Gebiets jeweils unter Berücksichtigung der Überschreitung von Umweltqualitätsnormen und Grenzwerten;
 
-2.5  
+2.6  
 folgende Gebiete:
 
 2.6.1  
