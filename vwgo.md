@@ -5,7 +5,19 @@ Neuf
 Neugefasst durch Bek. v. 19.3.1991 I 686
 
 Stand  
-Zuletzt geändert durch Art. 13 G v. 8.7.2014 I 890
+Zuletzt geändert durch Art. 4 G v. 30.6.2017 I 2193 mWv 6.7.2017
+
+Hinweis  
+Änderung durch Art. 20 G v. 5.7.2017 I 2208 (Nr. 45) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 21 G v. 5.7.2017 I 2208 (Nr. 45) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 11 Abs. 24 G v. 18.7.2017 I 2745 ist berücksichtigt
+
+Hinweis  
+Änderung durch Art. 5 Abs. 2 G v. 8.10.2017 I 3546 ist berücksichtigt
 
 ### 
 
@@ -85,7 +97,7 @@ die Verlegung eines Gerichtssitzes,
 die Zuweisung einzelner Sachgebiete an ein Verwaltungsgericht für die Bezirke mehrerer Verwaltungsgerichte,
 
 4a)  
-die Zuweisung von Verfahren, bei denen sich die örtliche Zuständigkeit nach § 52 Nr. 2 Satz 1, 2 oder 4 bestimmt, an ein anderes Verwaltungsgericht oder an mehrere Verwaltungsgerichte des Landes,
+die Zuweisung von Verfahren, bei denen sich die örtliche Zuständigkeit nach § 52 Nr. 2 Satz 1, 2 oder 5 bestimmt, an ein anderes Verwaltungsgericht oder an mehrere Verwaltungsgerichte des Landes,
 
 5.  
 die Errichtung einzelner Kammern des Verwaltungsgerichts oder einzelner Senate des Oberverwaltungsgerichts an anderen Orten,
@@ -196,11 +208,20 @@ Bei dem Oberverwaltungsgericht und bei dem Verwaltungsgericht können auf Lebens
 
 ### § 17
 
-Bei den Verwaltungsgerichten können Richter auf Probe oder Richter kraft Auftrags verwendet werden.
+Bei den Verwaltungsgerichten können auch folgende Richter verwendet werden:
+
+1.  
+Richter auf Probe,
+
+2.  
+Richter kraft Auftrags und
+
+3.  
+Richter auf Zeit.
 
 ### § 18
 
--
+Zur Deckung eines nur vorübergehenden Personalbedarfs kann ein Beamter auf Lebenszeit mit der Befähigung zum Richteramt für die Dauer von mindestens zwei Jahren, längstens jedoch für die Dauer seines Hauptamts, zum Richter auf Zeit ernannt werden. § 15 Absatz 1 Satz 1 und 3 sowie Absatz 2 des Deutschen Richtergesetzes ist entsprechend anzuwenden.
 
 3. Abschnitt Ehrenamtliche Richter
 ----------------------------------
@@ -435,10 +456,10 @@ Das Verwaltungsgericht entscheidet im ersten Rechtszug über alle Streitigkeiten
 Das Oberverwaltungsgericht entscheidet über das Rechtsmittel
 
 1.  
-der Berufung gegen Urteile des Verwaltungsgerichts,
+der Berufung gegen Urteile des Verwaltungsgerichts und
 
 2.  
-der Beschwerde gegen andere Entscheidungen des Verwaltungsgerichts und
+der Beschwerde gegen andere Entscheidungen des Verwaltungsgerichts.
 
 3.  
 (weggefallen)
@@ -455,7 +476,7 @@ von anderen im Rang unter dem Landesgesetz stehenden Rechtsvorschriften, sofern 
 
 (2) Den Antrag kann jede natürliche oder juristische Person, die geltend macht, durch die Rechtsvorschrift oder deren Anwendung in ihren Rechten verletzt zu sein oder in absehbarer Zeit verletzt zu werden, sowie jede Behörde innerhalb eines Jahres nach Bekanntmachung der Rechtsvorschrift stellen. Er ist gegen die Körperschaft, Anstalt oder Stiftung zu richten, welche die Rechtsvorschrift erlassen hat. Das Oberverwaltungsgericht kann dem Land und anderen juristischen Personen des öffentlichen Rechts, deren Zuständigkeit durch die Rechtsvorschrift berührt wird, Gelegenheit zur Äußerung binnen einer zu bestimmenden Frist geben. § 65 Abs. 1 und 4 und § 66 sind entsprechend anzuwenden.
 
-(2a) Der Antrag einer natürlichen oder juristischen Person, der einen Bebauungsplan oder eine Satzung nach § 34 Abs. 4 Satz 1 Nr. 2 und 3 oder § 35 Abs. 6 des Baugesetzbuchs zum Gegenstand hat, ist unzulässig, wenn die den Antrag stellende Person nur Einwendungen geltend macht, die sie im Rahmen der öffentlichen Auslegung (§ 3 Abs. 2 des Baugesetzbuchs) oder im Rahmen der Beteiligung der betroffenen Öffentlichkeit (§ 13 Abs. 2 Nr. 2 und § 13a Abs. 2 Nr. 1 des Baugesetzbuchs) nicht oder verspätet geltend gemacht hat, aber hätte geltend machen können, und wenn auf diese Rechtsfolge im Rahmen der Beteiligung hingewiesen worden ist.
+(2a) (weggefallen)
 
 (3) Das Oberverwaltungsgericht prüft die Vereinbarkeit der Rechtsvorschrift mit Landesrecht nicht, soweit gesetzlich vorgesehen ist, daß die Rechtsvorschrift ausschließlich durch das Verfassungsgericht eines Landes nachprüfbar ist.
 
@@ -479,7 +500,10 @@ die Bearbeitung, Verarbeitung und sonstige Verwendung von Kernbrennstoffen auße
 die Errichtung, den Betrieb und die Änderung von Kraftwerken mit Feuerungsanlagen für feste, flüssige und gasförmige Brennstoffe mit einer Feuerungswärmeleistung von mehr als dreihundert Megawatt,
 
 4.  
-Planfeststellungsverfahren für die Errichtung und den Betrieb oder die Änderung von Hochspannungsfreileitungen mit einer Nennspannung von 110 Kilovolt oder mehr, Erd- und Seekabeln jeweils mit einer Nennspannung von 110 Kilovolt oder Gasversorgungsleitungen mit einem Durchmesser von mehr als 300 Millimeter sowie jeweils die Änderung ihrer Linienführung,
+Planfeststellungsverfahren gemäß § 43 des Energiewirtschaftsgesetzes, soweit nicht die Zuständigkeit des Bundesverwaltungsgerichts nach § 50 Absatz 1 Nummer 6 begründet ist,
+
+4a.  
+Planfeststellungsverfahren für die Errichtung, den Betrieb und die Änderung von Einrichtungen nach § 45 Absatz 1 des Windenergie-auf-See-Gesetzes,
 
 5.  
 Verfahren für die Errichtung, den Betrieb und die wesentliche Änderung von ortsfesten Anlagen zur Verbrennung oder thermischen Zersetzung von Abfällen mit einer jährlichen Durchsatzleistung (effektive Leistung) von mehr als einhunderttausend Tonnen und von ortsfesten Anlagen, in denen ganz oder teilweise Abfälle im Sinne des § 48 des Kreislaufwirtschaftsgesetzes gelagert oder abgelagert werden,
@@ -494,7 +518,10 @@ Planfeststellungsverfahren für den Bau oder die Änderung der Strecken von Stra
 Planfeststellungsverfahren für den Bau oder die Änderung von Bundesfernstraßen,
 
 9.  
-Planfeststellungsverfahren für den Neubau oder den Ausbau von Bundeswasserstraßen.
+Planfeststellungsverfahren für den Neubau oder den Ausbau von Bundeswasserstraßen und
+
+10.  
+Planfeststellungsverfahren für Maßnahmen des öffentlichen Küsten- oder Hochwasserschutzes.
 
 Satz 1 gilt auch für Streitigkeiten über Genehmigungen, die anstelle einer Planfeststellung erteilt werden, sowie für Streitigkeiten über sämtliche für das Vorhaben erforderlichen Genehmigungen und Erlaubnisse, auch soweit sie Nebeneinrichtungen betreffen, die mit ihm in einem räumlichen und betrieblichen Zusammenhang stehen. Die Länder können durch Gesetz vorschreiben, daß über Streitigkeiten, die Besitzeinweisungen in den Fällen des Satzes 1 betreffen, das Oberverwaltungsgericht im ersten Rechtszug entscheidet.
 
@@ -532,7 +559,7 @@ der Beschwerde nach § 99 Abs. 2 und § 133 Abs. 1 dieses Gesetzes sowie nach §
 über Klagen, denen Vorgänge im Geschäftsbereich des Bundesnachrichtendienstes zugrunde liegen,
 
 5.  
-über Klagen gegen Maßnahmen und Entscheidungen nach § 44a des Abgeordnetengesetzes und der Verhaltensregeln für Mitglieder des Deutschen Bundestages,
+über Klagen gegen Maßnahmen und Entscheidungen nach § 44a des Abgeordnetengesetzes, nach den Verhaltensregeln für Mitglieder des Deutschen Bundestages, nach § 6b des Bundesministergesetzes und nach § 7 des Gesetzes über die Rechtsverhältnisse der Parlamentarischen Staatssekretäre in Verbindung mit § 6b des Bundesministergesetzes,
 
 6.  
 über sämtliche Streitigkeiten, die Planfeststellungsverfahren und Plangenehmigungsverfahren für Vorhaben betreffen, die in dem Allgemeinen Eisenbahngesetz, dem Bundesfernstraßengesetz, dem Bundeswasserstraßengesetz, dem Energieleitungsausbaugesetz, dem Bundesbedarfsplangesetz oder dem Magnetschwebebahnplanungsgesetz bezeichnet sind.
@@ -557,7 +584,7 @@ Für die örtliche Zuständigkeit gilt folgendes:
 In Streitigkeiten, die sich auf unbewegliches Vermögen oder ein ortsgebundenes Recht oder Rechtsverhältnis beziehen, ist nur das Verwaltungsgericht örtlich zuständig, in dessen Bezirk das Vermögen oder der Ort liegt.
 
 2.  
-Bei Anfechtungsklagen gegen den Verwaltungsakt einer Bundesbehörde oder einer bundesunmittelbaren Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts ist das Verwaltungsgericht örtlich zuständig, in dessen Bezirk die Bundesbehörde, die Körperschaft, Anstalt oder Stiftung ihren Sitz hat, vorbehaltlich der Nummern 1 und 4. Dies gilt auch bei Verpflichtungsklagen in den Fällen des Satzes 1. In Streitigkeiten nach dem Asylverfahrensgesetz ist jedoch das Verwaltungsgericht örtlich zuständig, in dessen Bezirk der Ausländer nach dem Asylverfahrensgesetz seinen Aufenthalt zu nehmen hat; ist eine örtliche Zuständigkeit danach nicht gegeben, bestimmt sie sich nach Nummer 3.Für Klagen gegen den Bund auf Gebieten, die in die Zuständigkeit der diplomatischen und konsularischen Auslandsvertretungen der Bundesrepublik Deutschland fallen, ist das Verwaltungsgericht örtlich zuständig, in dessen Bezirk die Bundesregierung ihren Sitz hat.
+Bei Anfechtungsklagen gegen den Verwaltungsakt einer Bundesbehörde oder einer bundesunmittelbaren Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts ist das Verwaltungsgericht örtlich zuständig, in dessen Bezirk die Bundesbehörde, die Körperschaft, Anstalt oder Stiftung ihren Sitz hat, vorbehaltlich der Nummern 1 und 4. Dies gilt auch bei Verpflichtungsklagen in den Fällen des Satzes 1. In Streitigkeiten nach dem Asylgesetz ist jedoch das Verwaltungsgericht örtlich zuständig, in dessen Bezirk der Ausländer nach dem Asylgesetz seinen Aufenthalt zu nehmen hat; ist eine örtliche Zuständigkeit danach nicht gegeben, bestimmt sie sich nach Nummer 3. Soweit ein Land, in dem der Ausländer seinen Aufenthalt zu nehmen hat, von der Möglichkeit nach § 83 Absatz 3 des Asylgesetzes Gebrauch gemacht hat, ist das Verwaltungsgericht örtlich zuständig, das nach dem Landesrecht für Streitigkeiten nach dem Asylgesetz betreffend den Herkunftsstaat des Ausländers zuständig ist. Für Klagen gegen den Bund auf Gebieten, die in die Zuständigkeit der diplomatischen und konsularischen Auslandsvertretungen der Bundesrepublik Deutschland fallen, ist das Verwaltungsgericht örtlich zuständig, in dessen Bezirk die Bundesregierung ihren Sitz hat.
 
 3.  
 Bei allen anderen Anfechtungsklagen vorbehaltlich der Nummern 1 und 4 ist das Verwaltungsgericht örtlich zuständig, in dessen Bezirk der Verwaltungsakt erlassen wurde. Ist er von einer Behörde, deren Zuständigkeit sich auf mehrere Verwaltungsgerichtsbezirke erstreckt, oder von einer gemeinsamen Behörde mehrerer oder aller Länder erlassen, so ist das Verwaltungsgericht zuständig, in dessen Bezirk der Beschwerte seinen Sitz oder Wohnsitz hat. Fehlt ein solcher innerhalb des Zuständigkeitsbereichs der Behörde, so bestimmt sich die Zuständigkeit nach Nummer 5. Bei Anfechtungsklagen gegen Verwaltungsakte einer von den Ländern mit der Vergabe von Studienplätzen beauftragten Behörde ist jedoch das Verwaltungsgericht örtlich zuständig, in dessen Bezirk die Behörde ihren Sitz hat. Dies gilt auch bei Verpflichtungsklagen in den Fällen der Sätze 1, 2 und 4.
@@ -615,15 +642,15 @@ Teil II Verfahren
 
 ### § 55a
 
-(1) Die Beteiligten können dem Gericht elektronische Dokumente übermitteln, soweit dies für den jeweiligen Zuständigkeitsbereich durch Rechtsverordnung der Bundesregierung oder der Landesregierungen zugelassen worden ist. Die Rechtsverordnung bestimmt den Zeitpunkt, von dem an Dokumente an ein Gericht elektronisch übermittelt werden können, sowie die Art und Weise, in der elektronische Dokumente einzureichen sind. Für Dokumente, die einem schriftlich zu unterzeichnenden Schriftstück gleichstehen, ist eine qualifizierte elektronische Signatur nach § 2 Nr. 3 des Signaturgesetzes vorzuschreiben. Neben der qualifizierten elektronischen Signatur kann auch ein anderes sicheres Verfahren zugelassen werden, das die Authentizität und die Integrität des übermittelten elektronischen Dokuments sicherstellt. Die Landesregierungen können die Ermächtigung auf die für die Verwaltungsgerichtsbarkeit zuständigen obersten Landesbehörden übertragen. Die Zulassung der elektronischen Übermittlung kann auf einzelne Gerichte oder Verfahren beschränkt werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates.
+(1) Die Beteiligten können dem Gericht elektronische Dokumente übermitteln, soweit dies für den jeweiligen Zuständigkeitsbereich durch Rechtsverordnung der Bundesregierung oder der Landesregierungen zugelassen worden ist. Die Rechtsverordnung bestimmt den Zeitpunkt, von dem an Dokumente an ein Gericht elektronisch übermittelt werden können, sowie die Art und Weise, in der elektronische Dokumente einzureichen sind. Für Dokumente, die einem schriftlich zu unterzeichnenden Schriftstück gleichstehen, ist eine qualifizierte elektronische Signatur vorzuschreiben. Neben der qualifizierten elektronischen Signatur kann auch ein anderes sicheres Verfahren zugelassen werden, das die Authentizität und die Integrität des übermittelten elektronischen Dokuments sicherstellt. Die Landesregierungen können die Ermächtigung auf die für die Verwaltungsgerichtsbarkeit zuständigen obersten Landesbehörden übertragen. Die Zulassung der elektronischen Übermittlung kann auf einzelne Gerichte oder Verfahren beschränkt werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates.
 
 (2) Ein elektronisches Dokument ist dem Gericht zugegangen, wenn es in der von der Rechtsverordnung nach Absatz 1 Satz 1 und 2 bestimmten Art und Weise übermittelt worden ist und wenn die für den Empfang bestimmte Einrichtung es aufgezeichnet hat. Die Vorschriften dieses Gesetzes über die Beifügung von Abschriften für die übrigen Beteiligten finden keine Anwendung. Genügt das Dokument nicht den Anforderungen, ist dies dem Absender unter Angabe der für das Gericht geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen.
 
-(3) Soweit eine handschriftliche Unterzeichnung durch den Richter oder den Urkundsbeamten der Geschäftsstelle vorgeschrieben ist, genügt dieser Form die Aufzeichnung als elektronisches Dokument, wenn die verantwortenden Personen am Ende des Dokuments ihren Namen hinzufügen und das Dokument mit einer qualifizierten elektronischen Signatur nach § 2 Nr. 3 des Signaturgesetzes versehen.
+(3) Soweit eine handschriftliche Unterzeichnung durch den Richter oder den Urkundsbeamten der Geschäftsstelle vorgeschrieben ist, genügt dieser Form die Aufzeichnung als elektronisches Dokument, wenn die verantwortenden Personen am Ende des Dokuments ihren Namen hinzufügen und das Dokument mit einer qualifizierten elektronischen Signatur versehen.
 
 ### § 55b
 
-(1) Die Prozessakten können elektronisch geführt werden. Die Bundesregierung und die Landesregierungen bestimmen jeweils für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an die Prozessakten elektronisch geführt werden. In der Rechtsverordnung sind die organisatorisch-technischen Rahmenbedingungen für die Bildung, Führung und Verwahrung der elektronischen Akten festzulegen. Die Landesregierungen können die Ermächtigung auf die für die Verwaltungsgerichtsbarkeit zuständigen obersten Landesbehörden übertragen. Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder Verfahren beschränkt werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates.
+(1) Die Prozessakten können elektronisch geführt werden. Die Bundesregierung und die Landesregierungen bestimmen jeweils für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an die Prozessakten elektronisch geführt werden. In der Rechtsverordnung sind die organisatorisch-technischen Rahmenbedingungen für die Bildung, Führung und Verwahrung der elektronischen Akten festzulegen. Die Landesregierungen können die Ermächtigung auf die für die Verwaltungsgerichtsbarkeit zuständigen obersten Landesbehörden übertragen. Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren die Prozessakten elektronisch zu führen sind. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates.
 
 (2) Dokumente, die nicht der Form entsprechen, in der die Akte geführt wird, sind in die entsprechende Form zu übertragen und in dieser Form zur Akte zu nehmen, soweit die Rechtsverordnung nach Absatz 1 nichts anderes bestimmt.
 
@@ -635,7 +662,7 @@ Teil II Verfahren
 
 ### § 55c Formulare; Verordnungsermächtigung
 
-Das Bundesministerium der Justiz kann durch Rechtsverordnung mit Zustimmung des Bundesrates elektronische Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in den Formularen enthaltenen Angaben ganz oder teilweise in strukturierter maschinenlesbarer Form zu übermitteln sind. Die Formulare sind auf einer in der Rechtsverordnung zu bestimmenden Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die Rechtsverordnung kann bestimmen, dass eine Identifikation des Formularverwenders abweichend von § 55a Absatz 3 auch durch Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen kann.
+Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsverordnung mit Zustimmung des Bundesrates elektronische Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in den Formularen enthaltenen Angaben ganz oder teilweise in strukturierter maschinenlesbarer Form zu übermitteln sind. Die Formulare sind auf einer in der Rechtsverordnung zu bestimmenden Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die Rechtsverordnung kann bestimmen, dass eine Identifikation des Formularverwenders abweichend von § 55a Absatz 3 auch durch Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen kann.
 
 ### § 56
 
@@ -1103,11 +1130,7 @@ Das Gericht darf über das Klagebegehren nicht hinausgehen, ist aber an die Fass
 
 ### § 90
 
-(1) Durch Erhebung der Klage wird die Streitsache rechtshängig.
-
-(2) (weggefallen)
-
-(3) (weggefallen)
+Durch Erhebung der Klage wird die Streitsache rechtshängig. In Verfahren nach dem Siebzehnten Titel des Gerichtsverfassungsgesetzes wegen eines überlangen Gerichtsverfahrens wird die Streitsache erst mit Zustellung der Klage rechtshängig.
 
 ### § 91
 
@@ -1171,7 +1194,7 @@ Soweit dieses Gesetz nicht abweichende Vorschriften enthält, sind auf die Bewei
 
 (1) Die Beteiligten können die Gerichtsakten und die dem Gericht vorgelegten Akten einsehen.
 
-(2) Beteiligte können sich auf ihre Kosten durch die Geschäftsstelle Ausfertigungen, Auszüge, Ausdrucke und Abschriften erteilen lassen. Nach dem Ermessen des Vorsitzenden kann der nach § 67 Abs. 2 Satz 1 und 2 Nr. 3 bis 6 bevollmächtigten Person die Mitnahme der Akte in die Wohnung oder Geschäftsräume, der elektronische Zugriff auf den Inhalt der Akten gestattet oder der Inhalt der Akten elektronisch übermittelt werden. § 87a Abs. 3 gilt entsprechend. Bei einem elektronischen Zugriff auf den Inhalt der Akten ist sicherzustellen, dass der Zugriff nur durch die nach § 67 Abs. 2 Satz 1 und 2 Nr. 3 bis 6 bevollmächtigte Person erfolgt. Für die Übermittlung von elektronischen Dokumenten ist die Gesamtheit der Dokumente mit einer qualifizierten elektronischen Signatur nach § 2 Nr. 3 des Signaturgesetzes zu versehen und gegen unbefugte Kenntnisnahme zu schützen.
+(2) Beteiligte können sich auf ihre Kosten durch die Geschäftsstelle Ausfertigungen, Auszüge, Ausdrucke und Abschriften erteilen lassen. Nach dem Ermessen des Vorsitzenden kann der nach § 67 Abs. 2 Satz 1 und 2 Nr. 3 bis 6 bevollmächtigten Person die Mitnahme der Akte in die Wohnung oder Geschäftsräume, der elektronische Zugriff auf den Inhalt der Akten gestattet oder der Inhalt der Akten elektronisch übermittelt werden. § 87a Abs. 3 gilt entsprechend. Bei einem elektronischen Zugriff auf den Inhalt der Akten ist sicherzustellen, dass der Zugriff nur durch die nach § 67 Abs. 2 Satz 1 und 2 Nr. 3 bis 6 bevollmächtigte Person erfolgt. Für die Übermittlung von elektronischen Dokumenten ist die Gesamtheit der Dokumente mit einer qualifizierten elektronischen Signatur zu versehen und gegen unbefugte Kenntnisnahme zu schützen.
 
 (3) In die Entwürfe zu Urteilen, Beschlüssen und Verfügungen, die Arbeiten zu ihrer Vorbereitung und die Dokumente, die Abstimmungen betreffen, wird Akteneinsicht nach Absatz 1 und 2 nicht gewährt.
 
@@ -1399,7 +1422,7 @@ wenn die Rechtssache besondere tatsächliche oder rechtliche Schwierigkeiten auf
 wenn die Rechtssache grundsätzliche Bedeutung hat,
 
 4.  
-wenn das Urteil von einer Entscheidung des Oberverwaltungsgerichts, des Bundesverwaltungsgerichts, des gemeinsamen Senats der obersten Gerichtshöfe des Bundes oder des Bundesverfassungsgerichts abweicht und auf dieser Abweichung beruht oder
+wenn das Urteil von einer Entscheidung des Oberverwaltungsgerichts, des Bundesverwaltungsgerichts, des Gemeinsamen Senats der obersten Gerichtshöfe des Bundes oder des Bundesverfassungsgerichts abweicht und auf dieser Abweichung beruht oder
 
 5.  
 wenn ein der Beurteilung des Berufungsgerichts unterliegender Verfahrensmangel geltend gemacht wird und vorliegt, auf dem die Entscheidung beruhen kann.
@@ -1410,7 +1433,7 @@ wenn ein der Beurteilung des Berufungsgerichts unterliegender Verfahrensmangel g
 
 (2) Die Berufung ist, wenn sie von dem Verwaltungsgericht zugelassen worden ist, innerhalb eines Monats nach Zustellung des vollständigen Urteils bei dem Verwaltungsgericht einzulegen. Die Berufung muss das angefochtene Urteil bezeichnen.
 
-(3) Die Berufung ist in den Fällen des Absatzes 2 innerhalb von zwei Monaten nach Zustellung des vollständigen Urteils zu begründen. Die Begründung ist, sofern sie nicht zugleich mit der Einlegung der Berufung erfolgt, bei dem Oberverwaltungsgericht einzureichen. Die Begründungsfrist kann auf einen vor ihrem Ablauf gestellten Antrag von dem Vorsitzenden des Senats verlängert werden. Die Begründung muss einen bestimmten Antrag enthalten sowie die im Einzelnen anzuführenden Gründe der Anfechtung (Berufungsgründe).\* Mangelt es an einem dieser Erfordernisse, so ist die Berufung unzulässig.
+(3) Die Berufung ist in den Fällen des Absatzes 2 innerhalb von zwei Monaten nach Zustellung des vollständigen Urteils zu begründen. Die Begründung ist, sofern sie nicht zugleich mit der Einlegung der Berufung erfolgt, bei dem Oberverwaltungsgericht einzureichen. Die Begründungsfrist kann auf einen vor ihrem Ablauf gestellten Antrag von dem Vorsitzenden des Senats verlängert werden. Die Begründung muss einen bestimmten Antrag enthalten sowie die im Einzelnen anzuführenden Gründe der Anfechtung (Berufungsgründe). Mangelt es an einem dieser Erfordernisse, so ist die Berufung unzulässig.
 
 (4) Wird die Berufung nicht in dem Urteil des Verwaltungsgerichts zugelassen, so ist die Zulassung innerhalb eines Monats nach Zustellung des vollständigen Urteils zu beantragen. Der Antrag ist bei dem Verwaltungsgericht zu stellen. Er muss das angefochtene Urteil bezeichnen. Innerhalb von zwei Monaten nach Zustellung des vollständigen Urteils sind die Gründe darzulegen, aus denen die Berufung zuzulassen ist. Die Begründung ist, soweit sie nicht bereits mit dem Antrag vorgelegt worden ist, bei dem Oberverwaltungsgericht einzureichen. Die Stellung des Antrags hemmt die Rechtskraft des Urteils.
 
@@ -1891,7 +1914,11 @@ Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält, sind das G
 
 (2) Bei Kriegsteilnehmern gilt die Voraussetzung des Absatzes 1 als erfüllt, wenn sie den für sie geltenden besonderen Vorschriften genügt haben.
 
-### (XXXX) §§ 175 bis 177 (weggefallen)
+### § 175
+
+§ 43 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt entsprechend.
+
+### (XXXX) §§ 176 bis 177 (weggefallen)
 
 ### (XXXX) §§ 178 und 179
 
