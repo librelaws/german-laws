@@ -5,7 +5,22 @@ Neuf
 Neugefasst durch Bek. v. 13.11.1998 I 3322;
 
 Stand  
-zuletzt geändert durch Art. 5 G v. 10.12.2015 I 2218
+zuletzt geändert durch Art. 1 G v. 30.5.2016 I 1254
+
+Hinweis  
+Änderung durch Art. 16 Abs. 8 G v. 30.6.2016 I 1514 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 1 G v. 8.7.2016 I 1610 (Nr. 34) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 16 G v. 18.7.2016 I 1679 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 8 G v. 26.7.2016 I 1818 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 1 G v. 11.10.2016 I 2226 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -603,6 +618,8 @@ zuletzt geändert durch Art. 5 G v. 10.12.2015 I 2218
 |                                |
 |                                |
 |                                |
+|                                |
+|                                |
 | Neunzehnter Abschnitt          |
 |                                |
 |                                |
@@ -705,6 +722,8 @@ zuletzt geändert durch Art. 5 G v. 10.12.2015 I 2218
 |                                |
 |                                |
 | Sechsundzwanzigster Abschnitt  |
+|                                |
+|                                |
 |                                |
 |                                |
 |                                |
@@ -980,7 +999,7 @@ Kernenergie-, Sprengstoff- und Strahlungsverbrechen in den Fällen der §§ 307 
 Angriffe auf den Luft- und Seeverkehr (§ 316c);
 
 4.  
-Menschenhandel zum Zweck der sexuellen Ausbeutung und zum Zweck der Ausbeutung der Arbeitskraft sowie Förderung des Menschenhandels (§§ 232 bis 233a);
+Menschenhandel (§ 232);
 
 5.  
 unbefugter Vertrieb von Betäubungsmitteln;
@@ -1834,11 +1853,11 @@ Freiheitsentziehende Maßregeln
 
 ### § 63 Unterbringung in einem psychiatrischen Krankenhaus
 
-Hat jemand eine rechtswidrige Tat im Zustand der Schuldunfähigkeit (§ 20) oder der verminderten Schuldfähigkeit (§ 21) begangen, so ordnet das Gericht die Unterbringung in einem psychiatrischen Krankenhaus an, wenn die Gesamtwürdigung des Täters und seiner Tat ergibt, daß von ihm infolge seines Zustandes erhebliche rechtswidrige Taten zu erwarten sind und er deshalb für die Allgemeinheit gefährlich ist.
+Hat jemand eine rechtswidrige Tat im Zustand der Schuldunfähigkeit (§ 20) oder der verminderten Schuldfähigkeit (§ 21) begangen, so ordnet das Gericht die Unterbringung in einem psychiatrischen Krankenhaus an, wenn die Gesamtwürdigung des Täters und seiner Tat ergibt, daß von ihm infolge seines Zustandes erhebliche rechtswidrige Taten, durch welche die Opfer seelisch oder körperlich erheblich geschädigt oder erheblich gefährdet werden oder schwerer wirtschaftlicher Schaden angerichtet wird, zu erwarten sind und er deshalb für die Allgemeinheit gefährlich ist. Handelt es sich bei der begangenen rechtswidrigen Tat nicht um eine im Sinne von Satz 1 erhebliche Tat, so trifft das Gericht eine solche Anordnung nur, wenn besondere Umstände die Erwartung rechtfertigen, dass der Täter infolge seines Zustandes derartige erhebliche rechtswidrige Taten begehen wird.
 
 ### § 64 Unterbringung in einer Entziehungsanstalt
 
-Hat eine Person den Hang, alkoholische Getränke oder andere berauschende Mittel im Übermaß zu sich zu nehmen, und wird sie wegen einer rechtswidrigen Tat, die sie im Rausch begangen hat oder die auf ihren Hang zurückgeht, verurteilt oder nur deshalb nicht verurteilt, weil ihre Schuldunfähigkeit erwiesen oder nicht auszuschließen ist, so soll das Gericht die Unterbringung in einer Entziehungsanstalt anordnen, wenn die Gefahr besteht, dass sie infolge ihres Hanges erhebliche rechtswidrige Taten begehen wird. Die Anordnung ergeht nur, wenn eine hinreichend konkrete Aussicht besteht, die Person durch die Behandlung in einer Entziehungsanstalt zu heilen oder über eine erhebliche Zeit vor dem Rückfall in den Hang zu bewahren und von der Begehung erheblicher rechtswidriger Taten abzuhalten, die auf ihren Hang zurückgehen.
+Hat eine Person den Hang, alkoholische Getränke oder andere berauschende Mittel im Übermaß zu sich zu nehmen, und wird sie wegen einer rechtswidrigen Tat, die sie im Rausch begangen hat oder die auf ihren Hang zurückgeht, verurteilt oder nur deshalb nicht verurteilt, weil ihre Schuldunfähigkeit erwiesen oder nicht auszuschließen ist, so soll das Gericht die Unterbringung in einer Entziehungsanstalt anordnen, wenn die Gefahr besteht, dass sie infolge ihres Hanges erhebliche rechtswidrige Taten begehen wird. Die Anordnung ergeht nur, wenn eine hinreichend konkrete Aussicht besteht, die Person durch die Behandlung in einer Entziehungsanstalt innerhalb der Frist nach § 67d Absatz 1 Satz 1 oder 3 zu heilen oder über eine erhebliche Zeit vor dem Rückfall in den Hang zu bewahren und von der Begehung erheblicher rechtswidriger Taten abzuhalten, die auf ihren Hang zurückgehen.
 
 ### § 65 (weggefallen)
 
@@ -1966,6 +1985,8 @@ in enger Zusammenarbeit mit staatlichen oder freien Trägern eine nachsorgende B
 
 (5) Wird die Maßregel vor der Strafe oder vor einem Rest der Strafe vollzogen, so kann das Gericht die Vollstreckung des Strafrestes unter den Voraussetzungen des § 57 Abs. 1 Satz 1 Nr. 2 und 3 zur Bewährung aussetzen, wenn die Hälfte der Strafe erledigt ist. Wird der Strafrest nicht ausgesetzt, so wird der Vollzug der Maßregel fortgesetzt; das Gericht kann jedoch den Vollzug der Strafe anordnen, wenn Umstände in der Person des Verurteilten es angezeigt erscheinen lassen.
 
+(6) Das Gericht bestimmt, dass eine Anrechnung nach Absatz 4 auch auf eine verfahrensfremde Strafe erfolgt, wenn deren Vollzug für die verurteilte Person eine unbillige Härte wäre. Bei dieser Entscheidung sind insbesondere das Verhältnis der Dauer des bisherigen Freiheitsentzugs zur Dauer der verhängten Strafen, der erzielte Therapieerfolg und seine konkrete Gefährdung sowie das Verhalten der verurteilten Person im Vollstreckungsverfahren zu berücksichtigen. Die Anrechnung ist in der Regel ausgeschlossen, wenn die der verfahrensfremden Strafe zugrunde liegende Tat nach der Anordnung der Maßregel begangen worden ist. Absatz 5 Satz 2 gilt entsprechend.
+
 § 67 Abs. 4: Früherer Satz 2 aufgeh. durch Art. 1 Nr. 2 Buchst. c G v. 16.7.2007 I 1327 mWv 20.7.2007; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 27.3.2012 I 1021 (2 BvR 2258/09)
 
 ### § 67a Überweisung in den Vollzug einer anderen Maßregel
@@ -2002,7 +2023,7 @@ setzt das Gericht die Vollstreckung der Unterbringung zur Bewährung aus; mit de
 
 (1) Die Unterbringung in einer Entziehungsanstalt darf zwei Jahre nicht übersteigen. Die Frist läuft vom Beginn der Unterbringung an. Wird vor einer Freiheitsstrafe eine daneben angeordnete freiheitsentziehende Maßregel vollzogen, so verlängert sich die Höchstfrist um die Dauer der Freiheitsstrafe, soweit die Zeit des Vollzugs der Maßregel auf die Strafe angerechnet wird.
 
-(2) Ist keine Höchstfrist vorgesehen oder ist die Frist noch nicht abgelaufen, so setzt das Gericht die weitere Vollstreckung der Unterbringung zur Bewährung aus, wenn zu erwarten ist, daß der Untergebrachte außerhalb des Maßregelvollzugs keine rechtswidrigen Taten mehr begehen wird. Gleiches gilt, wenn das Gericht nach Beginn der Vollstreckung der Unterbringung in der Sicherungsverwahrung feststellt, dass die weitere Vollstreckung unverhältnismäßig wäre, weil dem Untergebrachten nicht spätestens bis zum Ablauf einer vom Gericht bestimmten Frist von höchstens sechs Monaten ausreichende Betreuung im Sinne des § 66c Absatz 1 Nummer 1 angeboten worden ist; eine solche Frist hat das Gericht, wenn keine ausreichende Betreuung angeboten wird, unter Angabe der anzubietenden Maßnahmen bei der Prüfung der Aussetzung der Vollstreckung festzusetzen. Mit der Aussetzung nach Satz 1 oder 2 tritt Führungsaufsicht ein.
+(2) Ist keine Höchstfrist vorgesehen oder ist die Frist noch nicht abgelaufen, so setzt das Gericht die weitere Vollstreckung der Unterbringung zur Bewährung aus, wenn zu erwarten ist, daß der Untergebrachte außerhalb des Maßregelvollzugs keine erheblichen rechtswidrigen Taten mehr begehen wird. Gleiches gilt, wenn das Gericht nach Beginn der Vollstreckung der Unterbringung in der Sicherungsverwahrung feststellt, dass die weitere Vollstreckung unverhältnismäßig wäre, weil dem Untergebrachten nicht spätestens bis zum Ablauf einer vom Gericht bestimmten Frist von höchstens sechs Monaten ausreichende Betreuung im Sinne des § 66c Absatz 1 Nummer 1 angeboten worden ist; eine solche Frist hat das Gericht, wenn keine ausreichende Betreuung angeboten wird, unter Angabe der anzubietenden Maßnahmen bei der Prüfung der Aussetzung der Vollstreckung festzusetzen. Mit der Aussetzung nach Satz 1 oder 2 tritt Führungsaufsicht ein.
 
 (3) Sind zehn Jahre der Unterbringung in der Sicherungsverwahrung vollzogen worden, so erklärt das Gericht die Maßregel für erledigt, wenn nicht die Gefahr besteht, daß der Untergebrachte erhebliche Straftaten begehen wird, durch welche die Opfer seelisch oder körperlich schwer geschädigt werden. Mit der Entlassung aus dem Vollzug der Unterbringung tritt Führungsaufsicht ein.
 
@@ -2010,7 +2031,7 @@ setzt das Gericht die Vollstreckung der Unterbringung zur Bewährung aus; mit de
 
 (5) Das Gericht erklärt die Unterbringung in einer Entziehungsanstalt für erledigt, wenn die Voraussetzungen des § 64 Satz 2 nicht mehr vorliegen. Mit der Entlassung aus dem Vollzug der Unterbringung tritt Führungsaufsicht ein.
 
-(6) Stellt das Gericht nach Beginn der Vollstreckung der Unterbringung in einem psychiatrischen Krankenhaus fest, dass die Voraussetzungen der Maßregel nicht mehr vorliegen oder die weitere Vollstreckung der Maßregel unverhältnismäßig wäre, so erklärt es sie für erledigt. Mit der Entlassung aus dem Vollzug der Unterbringung tritt Führungsaufsicht ein. Das Gericht ordnet den Nichteintritt der Führungsaufsicht an, wenn zu erwarten ist, dass der Betroffene auch ohne sie keine Straftaten mehr begehen wird.
+(6) Stellt das Gericht nach Beginn der Vollstreckung der Unterbringung in einem psychiatrischen Krankenhaus fest, dass die Voraussetzungen der Maßregel nicht mehr vorliegen oder die weitere Vollstreckung der Maßregel unverhältnismäßig wäre, so erklärt es sie für erledigt. Dauert die Unterbringung sechs Jahre, ist ihre Fortdauer in der Regel nicht mehr verhältnismäßig, wenn nicht die Gefahr besteht, dass der Untergebrachte infolge seines Zustandes erhebliche rechtswidrige Taten begehen wird, durch welche die Opfer seelisch oder körperlich schwer geschädigt werden oder in die Gefahr einer schweren körperlichen oder seelischen Schädigung gebracht werden. Sind zehn Jahre der Unterbringung vollzogen, gilt Absatz 3 Satz 1 entsprechend. Mit der Entlassung aus dem Vollzug der Unterbringung tritt Führungsaufsicht ein. Das Gericht ordnet den Nichteintritt der Führungsaufsicht an, wenn zu erwarten ist, dass der Betroffene auch ohne sie keine Straftaten mehr begehen wird.
 
 § 67d Abs. 3 idF d. G v. 26.1.1998 I 160: Mit GG (100-1) vereinbar gem. BVerfGE v. 5.2.2004 I 1069 (2 BvR 2029/01)
 
@@ -2889,7 +2910,7 @@ einer Partei, von der das Bundesverfassungsgericht festgestellt hat, daß sie Er
 
 aufrechterhält, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft. Der Versuch ist strafbar.
 
-(2) Wer sich in einer Partei der in Absatz 1 bezeichneten Art als Mitglied betätigt oder wer ihren organisatorischen Zusammenhalt unterstützt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+(2) Wer sich in einer Partei der in Absatz 1 bezeichneten Art als Mitglied betätigt oder wer ihren organisatorischen Zusammenhalt oder ihre weitere Betätigung unterstützt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 (3) Wer einer anderen Sachentscheidung des Bundesverfassungsgerichts, die im Verfahren nach Artikel 21 Abs. 2 des Grundgesetzes oder im Verfahren nach § 33 Abs. 2 des Parteiengesetzes erlassen ist, oder einer vollziehbaren Maßnahme zuwiderhandelt, die im Vollzug einer in einem solchen Verfahren ergangenen Sachentscheidung getroffen ist, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft. Den in Satz 1 bezeichneten Verfahren steht ein Verfahren nach Artikel 18 des Grundgesetzes gleich.
 
@@ -2909,7 +2930,7 @@ einer Vereinigung, die unanfechtbar verboten ist, weil sie sich gegen die verfas
 
 aufrechterhält, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft. Der Versuch ist strafbar.
 
-(2) Wer sich in einer Partei oder Vereinigung der in Absatz 1 bezeichneten Art als Mitglied betätigt oder wer ihren organisatorischen Zusammenhalt unterstützt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+(2) Wer sich in einer Partei oder Vereinigung der in Absatz 1 bezeichneten Art als Mitglied betätigt oder wer ihren organisatorischen Zusammenhalt oder ihre weitere Betätigung unterstützt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 (3) § 84 Abs. 4 und 5 gilt entsprechend.
 
@@ -3776,7 +3797,7 @@ einen Mord (§ 211), Totschlag (§ 212) oder Völkermord (§ 6 des Völkerstrafg
 eine schwere Körperverletzung (§ 226),
 
 4.  
-eine Straftat gegen die persönliche Freiheit in den Fällen des § 232 Abs. 3, 4 oder Abs. 5, des § 233 Abs. 3, jeweils soweit es sich um Verbrechen handelt, der §§ 234, 234a, 239a oder 239b,
+eine Straftat gegen die persönliche Freiheit in den Fällen des § 232 Absatz 3 Satz 2, des § 232a Absatz 3, 4 oder 5, des § 232b Absatz 3 oder 4, des § 233a Absatz 3 oder 4, jeweils soweit es sich um Verbrechen handelt, der §§ 234, 234a, 239a oder 239b,
 
 5.  
 einen Raub oder eine räuberische Erpressung (§§ 249 bis 251 oder 255),
@@ -3876,7 +3897,7 @@ zu begehen, oder wer sich an einer solchen Vereinigung als Mitglied beteiligt, w
 
 (8) Neben einer Freiheitsstrafe von mindestens sechs Monaten kann das Gericht die Fähigkeit, öffentliche Ämter zu bekleiden, und die Fähigkeit, Rechte aus öffentlichen Wahlen zu erlangen, aberkennen (§ 45 Abs. 2).
 
-(9) In den Fällen der Absätze 1, 2 und 4 kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
+(9) In den Fällen der Absätze 1, 2, 4 und 5 kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
 
 ### § 129b Kriminelle und terroristische Vereinigungen im Ausland; Erweiterter Verfall und Einziehung
 
@@ -4055,7 +4076,7 @@ einer Geld- oder Wertpapierfälschung in den Fällen der §§ 146, 151, 152 oder
 eines Mordes (§ 211) oder Totschlags (§ 212) oder eines Völkermordes (§ 6 des Völkerstrafgesetzbuches) oder eines Verbrechens gegen die Menschlichkeit (§ 7 des Völkerstrafgesetzbuches) oder eines Kriegsverbrechens (§§ 8, 9, 10, 11 oder 12 des Völkerstrafgesetzbuches),
 
 6.  
-einer Straftat gegen die persönliche Freiheit in den Fällen des § 232 Abs. 3, 4 oder Abs. 5, des § 233 Abs. 3, jeweils soweit es sich um Verbrechen handelt, der §§ 234, 234a, 239a oder 239b,
+einer Straftat gegen die persönliche Freiheit in den Fällen des § 232 Absatz 3 Satz 2, des § 232a Absatz 3, 4 oder 5, des § 232b Absatz 3 oder 4, des § 233a Absatz 3 oder 4, jeweils soweit es sich um Verbrechen handelt, der §§ 234, 234a, 239a oder 239b,
 
 7.  
 eines Raubes oder einer räuberischen Erpressung (§§ 249 bis 251 oder 255) oder
@@ -5625,63 +5646,183 @@ Achtzehnter Abschnitt Straftaten gegen die persönliche Freiheit
 
 ### 
 
-### § 232 Menschenhandel zum Zweck der sexuellen Ausbeutung
+### § 232 Menschenhandel
 
-(1) Wer eine andere Person unter Ausnutzung einer Zwangslage oder der Hilflosigkeit, die mit ihrem Aufenthalt in einem fremden Land verbunden ist, zur Aufnahme oder Fortsetzung der Prostitution oder dazu bringt, sexuelle Handlungen, durch die sie ausgebeutet wird, an oder vor dem Täter oder einem Dritten vorzunehmen oder von dem Täter oder einem Dritten an sich vornehmen zu lassen, wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft. Ebenso wird bestraft, wer eine Person unter einundzwanzig Jahren zur Aufnahme oder Fortsetzung der Prostitution oder zu den sonst in Satz 1 bezeichneten sexuellen Handlungen bringt.
-
-(2) Der Versuch ist strafbar.
-
-(3) Auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren ist zu erkennen, wenn
+(1) Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren wird bestraft, wer eine andere Person unter Ausnutzung ihrer persönlichen oder wirtschaftlichen Zwangslage oder ihrer Hilflosigkeit, die mit dem Aufenthalt in einem fremden Land verbunden ist, oder wer eine andere Person unter einundzwanzig Jahren anwirbt, befördert, weitergibt, beherbergt oder aufnimmt, wenn
 
 1.  
-das Opfer der Tat ein Kind (§ 176 Abs. 1) ist,
+diese Person ausgebeutet werden soll
+
+a)  
+bei der Ausübung der Prostitution oder bei der Vornahme sexueller Handlungen an oder vor dem Täter oder einer dritten Person oder bei der Duldung sexueller Handlungen an sich selbst durch den Täter oder eine dritte Person,
+
+b)  
+durch eine Beschäftigung,
+
+c)  
+bei der Ausübung der Bettelei oder
+
+d)  
+bei der Begehung von mit Strafe bedrohten Handlungen durch diese Person,
 
 2.  
-der Täter das Opfer bei der Tat körperlich schwer misshandelt oder durch die Tat in die Gefahr des Todes bringt oder
+diese Person in Sklaverei, Leibeigenschaft, Schuldknechtschaft oder in Verhältnissen, die dem entsprechen oder ähneln, gehalten werden soll oder
 
 3.  
-der Täter die Tat gewerbsmäßig oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat, begeht.
+dieser Person rechtswidrig ein Organ entnommen werden soll.
 
-(4) Nach Absatz 3 wird auch bestraft, wer
+Ausbeutung durch eine Beschäftigung im Sinne des Satzes 1 Nummer 1 Buchstabe b liegt vor, wenn die Beschäftigung aus rücksichtslosem Gewinnstreben zu Arbeitsbedingungen erfolgt, die in einem auffälligen Missverhältnis zu den Arbeitsbedingungen solcher Arbeitnehmer stehen, welche der gleichen oder einer vergleichbaren Beschäftigung nachgehen (ausbeuterische Beschäftigung).
+
+(2) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird bestraft, wer eine andere Person, die in der in Absatz 1 Satz 1 Nummer 1 bis 3 bezeichneten Weise ausgebeutet werden soll,
 
 1.  
-eine andere Person mit Gewalt, durch Drohung mit einem empfindlichen Übel oder durch List zur Aufnahme oder Fortsetzung der Prostitution oder zu den sonst in Absatz 1 Satz 1 bezeichneten sexuellen Handlungen bringt oder
+mit Gewalt, durch Drohung mit einem empfindlichen Übel oder durch List anwirbt, befördert, weitergibt, beherbergt oder aufnimmt oder
 
 2.  
-sich einer anderen Person mit Gewalt, durch Drohung mit einem empfindlichen Übel oder durch List bemächtigt, um sie zur Aufnahme oder Fortsetzung der Prostitution oder zu den sonst in Absatz 1 Satz 1 bezeichneten sexuellen Handlungen zu bringen.
+entführt oder sich ihrer bemächtigt oder ihrer Bemächtigung durch eine dritte Person Vorschub leistet.
 
-(5) In minder schweren Fällen des Absatzes 1 ist auf Freiheitsstrafe von drei Monaten bis zu fünf Jahren, in minder schweren Fällen der Absätze 3 und 4 ist auf Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu erkennen.
+(3) In den Fällen des Absatzes 1 ist auf Freiheitsstrafe von sechs Monaten bis zu zehn Jahren zu erkennen, wenn
 
-### § 233 Menschenhandel zum Zweck der Ausbeutung der Arbeitskraft
+1.  
+das Opfer zur Zeit der Tat unter achtzehn Jahren alt ist,
 
-(1) Wer eine andere Person unter Ausnutzung einer Zwangslage oder der Hilflosigkeit, die mit ihrem Aufenthalt in einem fremden Land verbunden ist, in Sklaverei, Leibeigenschaft oder Schuldknechtschaft oder zur Aufnahme oder Fortsetzung einer Beschäftigung bei ihm oder einem Dritten zu Arbeitsbedingungen, die in einem auffälligen Missverhältnis zu den Arbeitsbedingungen anderer Arbeitnehmerinnen oder Arbeitnehmer stehen, welche die gleiche oder eine vergleichbare Tätigkeit ausüben, bringt, wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft. Ebenso wird bestraft, wer eine Person unter einundzwanzig Jahren in Sklaverei, Leibeigenschaft oder Schuldknechtschaft oder zur Aufnahme oder Fortsetzung einer in Satz 1 bezeichneten Beschäftigung bringt.
+2.  
+der Täter das Opfer bei der Tat körperlich schwer misshandelt oder durch die Tat oder eine während der Tat begangene Handlung wenigstens leichtfertig in die Gefahr des Todes oder einer schweren Gesundheitsschädigung bringt oder
+
+3.  
+der Täter gewerbsmäßig handelt oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
+
+In den Fällen des Absatzes 2 ist auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren zu erkennen, wenn einer der in Satz 1 Nummer 1 bis 3 bezeichneten Umstände vorliegt.
+
+(4) In den Fällen der Absätze 1, 2 und 3 Satz 1 ist der Versuch strafbar.
+
+### § 232a Zwangsprostitution
+
+(1) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird bestraft, wer eine andere Person unter Ausnutzung ihrer persönlichen oder wirtschaftlichen Zwangslage oder ihrer Hilflosigkeit, die mit dem Aufenthalt in einem fremden Land verbunden ist, oder wer eine andere Person unter einundzwanzig Jahren veranlasst,
+
+1.  
+die Prostitution aufzunehmen oder fortzusetzen oder
+
+2.  
+sexuelle Handlungen, durch die sie ausgebeutet wird, an oder vor dem Täter oder einer dritten Person vorzunehmen oder von dem Täter oder einer dritten Person an sich vornehmen zu lassen.
 
 (2) Der Versuch ist strafbar.
 
-(3) § 232 Abs. 3 bis 5 gilt entsprechend.
+(3) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird bestraft, wer eine andere Person mit Gewalt, durch Drohung mit einem empfindlichen Übel oder durch List zu der Aufnahme oder Fortsetzung der Prostitution oder den in Absatz 1 Nummer 2 bezeichneten sexuellen Handlungen veranlasst.
 
-### § 233a Förderung des Menschenhandels
+(4) In den Fällen des Absatzes 1 ist auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren und in den Fällen des Absatzes 3 auf Freiheitsstrafe nicht unter einem Jahr zu erkennen, wenn einer der in § 232 Absatz 3 Satz 1 Nummer 1 bis 3 bezeichneten Umstände vorliegt.
 
-(1) Wer einem Menschenhandel nach § 232 oder § 233 Vorschub leistet, indem er eine andere Person anwirbt, befördert, weitergibt, beherbergt oder aufnimmt, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
+(5) In minder schweren Fällen des Absatzes 1 ist auf Freiheitsstrafe von drei Monaten bis zu fünf Jahren zu erkennen, in minder schweren Fällen der Absätze 3 und 4 auf Freiheitsstrafe von sechs Monaten bis zu zehn Jahren.
+
+(6) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird bestraft, wer an einer Person, die Opfer
+
+1.  
+eines Menschenhandels nach § 232 Absatz 1 Satz 1 Nummer 1 Buchstabe a, auch in Verbindung mit § 232 Absatz 2, oder
+
+2.  
+einer Tat nach den Absätzen 1 bis 5
+
+geworden ist und der Prostitution nachgeht, gegen Entgelt sexuelle Handlungen vornimmt oder von ihr an sich vornehmen lässt und dabei deren persönliche oder wirtschaftliche Zwangslage oder deren Hilflosigkeit, die mit dem Aufenthalt in einem fremden Land verbunden ist, ausnutzt. Nach Satz 1 wird nicht bestraft, wer eine Tat nach Satz 1 Nummer 1 oder 2, die zum Nachteil der Person, die nach Satz 1 der Prostitution nachgeht, begangen wurde, freiwillig bei der zuständigen Behörde anzeigt oder freiwillig eine solche Anzeige veranlasst, wenn nicht diese Tat zu diesem Zeitpunkt ganz oder zum Teil bereits entdeckt war und der Täter dies wusste oder bei verständiger Würdigung der Sachlage damit rechnen musste.
+
+### § 232b Zwangsarbeit
+
+(1) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird bestraft, wer eine andere Person unter Ausnutzung ihrer persönlichen oder wirtschaftlichen Zwangslage oder ihrer Hilflosigkeit, die mit dem Aufenthalt in einem fremden Land verbunden ist, oder wer eine andere Person unter einundzwanzig Jahren veranlasst,
+
+1.  
+eine ausbeuterische Beschäftigung (§ 232 Absatz 1 Satz 2) aufzunehmen oder fortzusetzen,
+
+2.  
+sich in Sklaverei, Leibeigenschaft, Schuldknechtschaft oder in Verhältnisse, die dem entsprechen oder ähneln, zu begeben oder
+
+3.  
+die Bettelei, bei der sie ausgebeutet wird, aufzunehmen oder fortzusetzen.
+
+(2) Der Versuch ist strafbar.
+
+(3) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird bestraft, wer eine andere Person mit Gewalt, durch Drohung mit einem empfindlichen Übel oder durch List veranlasst,
+
+1.  
+eine ausbeuterische Beschäftigung (§ 232 Absatz 1 Satz 2) aufzunehmen oder fortzusetzen,
+
+2.  
+sich in Sklaverei, Leibeigenschaft, Schuldknechtschaft oder in Verhältnisse, die dem entsprechen oder ähneln, zu begeben oder
+
+3.  
+die Bettelei, bei der sie ausgebeutet wird, aufzunehmen oder fortzusetzen.
+
+(4) § 232a Absatz 4 und 5 gilt entsprechend.
+
+### § 233 Ausbeutung der Arbeitskraft
+
+(1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer eine andere Person unter Ausnutzung ihrer persönlichen oder wirtschaftlichen Zwangslage oder ihrer Hilflosigkeit, die mit dem Aufenthalt in einem fremden Land verbunden ist, oder wer eine andere Person unter einundzwanzig Jahren ausbeutet
+
+1.  
+durch eine Beschäftigung nach § 232 Absatz 1 Satz 2,
+
+2.  
+bei der Ausübung der Bettelei oder
+
+3.  
+bei der Begehung von mit Strafe bedrohten Handlungen durch diese Person.
 
 (2) Auf Freiheitsstrafe von sechs Monaten bis zu zehn Jahren ist zu erkennen, wenn
 
 1.  
-das Opfer der Tat ein Kind (§ 176 Abs. 1) ist,
+das Opfer zur Zeit der Tat unter achtzehn Jahren alt ist,
 
 2.  
-der Täter das Opfer bei der Tat körperlich schwer misshandelt oder durch die Tat in die Gefahr des Todes bringt oder
+der Täter das Opfer bei der Tat körperlich schwer misshandelt oder durch die Tat oder eine während der Tat begangene Handlung wenigstens leichtfertig in die Gefahr des Todes oder einer schweren Gesundheitsschädigung bringt,
 
 3.  
-der Täter die Tat mit Gewalt oder durch Drohung mit einem empfindlichen Übel oder gewerbsmäßig oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat, begeht.
+der Täter das Opfer durch das vollständige oder teilweise Vorenthalten der für die Tätigkeit des Opfers üblichen Gegenleistung in wirtschaftliche Not bringt oder eine bereits vorhandene wirtschaftliche Not erheblich vergrößert oder
+
+4.  
+der Täter als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
 
 (3) Der Versuch ist strafbar.
 
+(4) In minder schweren Fällen des Absatzes 1 ist auf Freiheitsstrafe bis zu zwei Jahren oder auf Geldstrafe zu erkennen, in minder schweren Fällen des Absatzes 2 auf Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
+
+(5) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer einer Tat nach Absatz 1 Nummer 1 Vorschub leistet durch die
+
+1.  
+Vermittlung einer ausbeuterischen Beschäftigung (§ 232 Absatz 1 Satz 2),
+
+2.  
+Vermietung von Geschäftsräumen oder
+
+3.  
+Vermietung von Räumen zum Wohnen an die auszubeutende Person.
+
+Satz 1 gilt nicht, wenn die Tat bereits nach anderen Vorschriften mit schwererer Strafe bedroht ist.
+
+### § 233a Ausbeutung unter Ausnutzung einer Freiheitsberaubung
+
+(1) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird bestraft, wer eine andere Person einsperrt oder auf andere Weise der Freiheit beraubt und sie in dieser Lage ausbeutet
+
+1.  
+bei der Ausübung der Prostitution,
+
+2.  
+durch eine Beschäftigung nach § 232 Absatz 1 Satz 2,
+
+3.  
+bei der Ausübung der Bettelei oder
+
+4.  
+bei der Begehung von mit Strafe bedrohten Handlungen durch diese Person.
+
+(2) Der Versuch ist strafbar.
+
+(3) In den Fällen des Absatzes 1 ist auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren zu erkennen, wenn einer der in § 233 Absatz 2 Nummer 1 bis 4 bezeichneten Umstände vorliegt.
+
+(4) In minder schweren Fällen des Absatzes 1 ist auf Freiheitsstrafe von drei Monaten bis zu fünf Jahren, in minder schweren Fällen des Absatzes 3 auf Freiheitsstrafe von sechs Monaten bis zu zehn Jahren zu erkennen.
+
 ### § 233b Führungsaufsicht, Erweiterter Verfall
 
-(1) In den Fällen der §§ 232 bis § 233a kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
+(1) In den Fällen der §§ 232, 232a Absatz 1 bis 5, der §§ 232b, 233 Absatz 1 bis 4 und des § 233a kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
 
-(2) In den Fällen der §§ 232 bis 233a ist § 73d anzuwenden, wenn der Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
+(2) In den Fällen der §§ 232, 232a Absatz 1 bis 5 und der §§ 232b bis 233a ist § 73d anzuwenden, wenn der Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
 
 ### § 234 Menschenraub
 
@@ -6157,10 +6298,10 @@ Vergehen nach § 373 und nach § 374 Abs. 2 der Abgabenordnung, jeweils auch in 
 Vergehen
 
 a)  
-nach den §§ 152a, 181a, 232 Abs. 1 und 2, § 233 Abs. 1 und 2, §§ 233a, 242, 246, 253, 259, 263 bis 264, 266, 267, 269, 271, 284, 299, 326 Abs. 1, 2 und 4, § 328 Abs. 1, 2 und 4 sowie § 348,
+nach den §§ 152a, 181a, 232 Absatz 1 bis 3 Satz 1 und Absatz 4, § 232a Absatz 1 und 2, § 232b Absatz 1 und 2, § 233 Absatz 1 bis 3, § 233a Absatz 1 und 2, den §§ 242, 246, 253, 259, 263 bis 264, 266, 267, 269, 271, 284, 299, 326 Abs. 1, 2 und 4, § 328 Abs. 1, 2 und 4 sowie § 348,
 
 b)  
-nach § 96 des Aufenthaltsgesetzes, § 84 des Asylgesetzes, nach § 370 der Abgabenordnung, nach § 38 Absatz 1 bis 3 und 5 des Wertpapierhandelsgesetzes sowie nach den §§ 143, 143a und 144 des Markengesetzes, den §§ 106 bis 108b des Urheberrechtsgesetzes, § 25 des Gebrauchsmustergesetzes, den §§ 51 und 65 des Designgesetzes, § 142 des Patentgesetzes, § 10 des Halbleiterschutzgesetzes und § 39 des Sortenschutzgesetzes,
+nach § 96 des Aufenthaltsgesetzes, § 84 des Asylgesetzes, nach § 370 der Abgabenordnung, nach § 38 Absatz 1 bis 4 des Wertpapierhandelsgesetzes sowie nach den §§ 143, 143a und 144 des Markengesetzes, den §§ 106 bis 108b des Urheberrechtsgesetzes, § 25 des Gebrauchsmustergesetzes, den §§ 51 und 65 des Designgesetzes, § 142 des Patentgesetzes, § 10 des Halbleiterschutzgesetzes und § 39 des Sortenschutzgesetzes,
 
 die gewerbsmäßig oder von einem Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat, begangen worden sind, und
 
@@ -6904,15 +7045,45 @@ einen Vorteil für diesen oder einen Dritten als Gegenleistung dafür anbietet, 
 2.  
 ohne Einwilligung des Unternehmens einen Vorteil für diesen oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, dass er bei dem Bezug von Waren oder Dienstleistungen eine Handlung vornehme oder unterlasse und dadurch seine Pflichten gegenüber dem Unternehmen verletze.
 
-### § 300 Besonders schwere Fälle der Bestechlichkeit und Bestechung im geschäftlichen Verkehr
+### § 299a Bestechlichkeit im Gesundheitswesen
 
-In besonders schweren Fällen wird eine Tat nach § 299 mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft. Ein besonders schwerer Fall liegt in der Regel vor, wenn
+Wer als Angehöriger eines Heilberufs, der für die Berufsausübung oder die Führung der Berufsbezeichnung eine staatlich geregelte Ausbildung erfordert, im Zusammenhang mit der Ausübung seines Berufs einen Vorteil für sich oder einen Dritten als Gegenleistung dafür fordert, sich versprechen lässt oder annimmt, dass er
+
+1.  
+bei der Verordnung von Arznei-, Heil- oder Hilfsmitteln oder von Medizinprodukten,
+
+2.  
+bei dem Bezug von Arznei- oder Hilfsmitteln oder von Medizinprodukten, die jeweils zur unmittelbaren Anwendung durch den Heilberufsangehörigen oder einen seiner Berufshelfer bestimmt sind, oder
+
+3.  
+bei der Zuführung von Patienten oder Untersuchungsmaterial
+
+einen anderen im inländischen oder ausländischen Wettbewerb in unlauterer Weise bevorzuge, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+
+### § 299b Bestechung im Gesundheitswesen
+
+Wer einem Angehörigen eines Heilberufs im Sinne des § 299a im Zusammenhang mit dessen Berufsausübung einen Vorteil für diesen oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, dass er
+
+1.  
+bei der Verordnung von Arznei-, Heil- oder Hilfsmitteln oder von Medizinprodukten,
+
+2.  
+bei dem Bezug von Arznei- oder Hilfsmitteln oder von Medizinprodukten, die jeweils zur unmittelbaren Anwendung durch den Heilberufsangehörigen oder einen seiner Berufshelfer bestimmt sind, oder
+
+3.  
+bei der Zuführung von Patienten oder Untersuchungsmaterial
+
+ihn oder einen anderen im inländischen oder ausländischen Wettbewerb in unlauterer Weise bevorzuge, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+
+### § 300 Besonders schwere Fälle der Bestechlichkeit und Bestechung im geschäftlichen Verkehr und im Gesundheitswesen
+
+In besonders schweren Fällen wird eine Tat nach den §§ 299, 299a und 299b mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft. Ein besonders schwerer Fall liegt in der Regel vor, wenn
 
 1.  
 die Tat sich auf einen Vorteil großen Ausmaßes bezieht oder
 
 2.  
-der Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
+der Täter gewerbsmäßig handelt oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
 
 ### § 301 Strafantrag
 
@@ -6922,7 +7093,7 @@ der Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fo
 
 ### § 302 Erweiterter Verfall
 
-In den Fällen des § 299 ist § 73d anzuwenden, wenn der Täter gewerbsmäßig handelt oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
+In den Fällen der §§ 299, 299a und 299b ist § 73d anzuwenden, wenn der Täter gewerbsmäßig handelt oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
 
 Siebenundzwanzigster Abschnitt Sachbeschädigung
 -----------------------------------------------
