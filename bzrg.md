@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 21.9.1984 I 1229, 1985 I 195;
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 15.12.2011 I 2714
+zuletzt geändert durch Art. 1 G v. 6.9.2013 I 3556
 
 ### 
 
@@ -350,7 +350,7 @@ Die Mitteilung ist ungeachtet des Offenbarungsverbots nach § 5 Abs. 1 des Trans
 
 ### § 21a Automatisiertes Auskunftsverfahren
 
-Die Einrichtung eines automatisierten Verfahrens, das die Übermittlung personenbezogener Daten durch Abruf ermöglicht, ist zulässig, soweit diese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der Betroffenen wegen der Vielzahl der Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit angemessen ist und wenn gewährleistet ist, dass die Daten gegen den unbefugten Zugriff Dritter bei der Übermittlung wirksam geschützt werden. § 493 Abs. 2, Abs. 3 Satz 1 und 2 der Strafprozessordnung gilt entsprechend.
+Die Einrichtung eines automatisierten Verfahrens, das die Übermittlung personenbezogener Daten durch Abruf ermöglicht, ist zulässig, soweit diese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der Betroffenen wegen der Vielzahl der Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit angemessen ist und wenn gewährleistet ist, dass die Daten gegen den unbefugten Zugriff Dritter bei der Übermittlung wirksam geschützt werden. § 493 Absatz 2 und 3 Satz 1 und 2 der Strafprozessordnung gilt entsprechend.
 
 ### § 22 Hinweispflicht der Registerbehörde
 
@@ -435,7 +435,7 @@ Dritter Abschnitt Auskunft aus dem Register
 
 (1) Jeder Person, die das 14. Lebensjahr vollendet hat, wird auf Antrag ein Zeugnis über den sie betreffenden Inhalt des Registers erteilt (Führungszeugnis). Hat der Betroffene einen gesetzlichen Vertreter, so ist auch dieser antragsberechtigt. Ist der Betroffene geschäftsunfähig, so ist nur sein gesetzlicher Vertreter antragsberechtigt.
 
-(2) Der Antrag ist bei der Meldebehörde zu stellen. Der Antragsteller hat seine Identität und, wenn er als gesetzlicher Vertreter handelt, seine Vertretungsmacht nachzuweisen. Der Betroffene und sein gesetzlicher Vertreter können sich bei der Antragstellung nicht durch einen Bevollmächtigten vertreten lassen. Die Meldebehörde nimmt die Gebühr für das Führungszeugnis entgegen, behält davon zwei Fünftel ein und führt den Restbetrag an die Bundeskasse ab.
+(2) Wohnt der Antragsteller innerhalb des Geltungsbereichs dieses Gesetzes, so ist der Antrag bei der Meldebehörde zu stellen; sofern der Antragsteller nicht persönlich erscheint, ist eine schriftliche Antragstellung mit amtlich oder öffentlich beglaubigter Unterschrift des Antragstellers zulässig. Der Antragsteller hat seine Identität und, wenn er als gesetzlicher Vertreter handelt, seine Vertretungsmacht nachzuweisen. Der Betroffene und sein gesetzlicher Vertreter können sich bei der Antragstellung nicht durch einen Bevollmächtigten vertreten lassen. Die Meldebehörde nimmt die Gebühr für das Führungszeugnis entgegen, behält davon zwei Fünftel ein und führt den Restbetrag an die Bundeskasse ab.
 
 (3) Wohnt der Antragsteller außerhalb des Geltungsbereichs dieses Gesetzes, so kann er den Antrag unmittelbar bei der Registerbehörde stellen. Absatz 2 Satz 2 und 3 gilt entsprechend.
 
@@ -686,7 +686,7 @@ den obersten Bundes- und Landesbehörden,
 den Verfassungsschutzbehörden des Bundes und der Länder, dem Bundesnachrichtendienst und dem Militärischen Abschirmdienst für die diesen Behörden übertragenen Sicherheitsaufgaben,
 
 4.  
-den Finanzbehörden für die Verfolgung von Straftaten, die zu ihrer Zuständigkeit gehört,
+den Finanzbehörden für die Verfolgung von Straftaten, die zu ihrer Zuständigkeit gehören,
 
 5.  
 den Kriminaldienst verrichtenden Dienststellen der Polizei für Zwecke der Verhütung und Verfolgung von Straftaten,
@@ -719,13 +719,13 @@ den Luftsicherheitsbehörden für Zwecke der Zuverlässigkeitsüberprüfung nach
 
 (3) Eintragungen nach § 17 und Verurteilungen zu Jugendstrafe, bei denen der Strafmakel als beseitigt erklärt ist, dürfen nicht nach Absatz 1 mitgeteilt werden; über sie wird nur noch den Strafgerichten und Staatsanwaltschaften für ein Strafverfahren gegen den Betroffenen Auskunft erteilt. Dies gilt nicht für Verurteilungen wegen einer Straftat nach den §§ 171, 174 bis 180a, 181a, 182 bis 184f, 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs.
 
-(4) Die Auskunft nach den Absätzen 1 bis 3 wird nur auf ausdrückliches Ersuchen erteilt. Die in Absatz 1 genannten Stellen haben den Zweck anzugeben, für den die Auskunft benötigt wird; sie darf nur für diesen Zweck verwertet werden.
+(4) Die Auskunft nach den Absätzen 1 und 3 wird nur auf ausdrückliches Ersuchen erteilt. Die in Absatz 1 genannten Stellen haben den Zweck anzugeben, für den die Auskunft benötigt wird; sie darf nur für diesen Zweck verwertet werden.
 
 (5) (weggefallen)
 
 ### § 42 Auskunft an den Betroffenen
 
-Einer Person, die das 14. Lebensjahr vollendet hat, wird auf Antrag mitgeteilt, welche Eintragungen über sie im Register enthalten sind. § 30 Abs. 1 Satz 2, 3 gilt entsprechend. Erfolgt die Mitteilung nicht durch Einsichtnahme bei der Registerbehörde, so ist sie, wenn der Antragsteller im Geltungsbereich dieses Gesetzes wohnt, an ein von ihm benanntes Amtsgericht zu senden, bei dem er die Mitteilung persönlich einsehen kann. Befindet sich der Betroffene in amtlichem Gewahrsam einer Justizbehörde, so tritt die Anstaltsleitung an die Stelle des Amtsgerichts. Wohnt der Antragsteller außerhalb des Geltungsbereichs dieses Gesetzes, so ist die Mitteilung, an eine von ihm benannte amtliche Vertretung der Bundesrepublik Deutschland zu senden, bei der er die Mitteilung persönlich einsehen kann. Nach Einsichtnahme ist die Mitteilung vom Amtsgericht, der Anstaltsleitung oder der amtlichen Vertretung der Bundesrepublik Deutschland zu vernichten.
+Einer Person, die das 14. Lebensjahr vollendet hat, wird auf Antrag mitgeteilt, welche Eintragungen über sie im Register enthalten sind. § 30 Abs. 1 Satz 2, 3 gilt entsprechend. Erfolgt die Mitteilung nicht durch Einsichtnahme bei der Registerbehörde, so ist sie, wenn der Antragsteller im Geltungsbereich dieses Gesetzes wohnt, an ein von ihm benanntes Amtsgericht zu senden, bei dem er die Mitteilung persönlich einsehen kann. Befindet sich der Betroffene in amtlichem Gewahrsam einer Justizbehörde, so tritt die Anstaltsleitung an die Stelle des Amtsgerichts. Wohnt der Antragsteller außerhalb des Geltungsbereichs dieses Gesetzes, so ist die Mitteilung an eine von ihm benannte amtliche Vertretung der Bundesrepublik Deutschland zu senden, bei der er die Mitteilung persönlich einsehen kann. Nach Einsichtnahme ist die Mitteilung vom Amtsgericht, der Anstaltsleitung oder der amtlichen Vertretung der Bundesrepublik Deutschland zu vernichten.
 
 ### § 42a Auskunft für wissenschaftliche Zwecke
 
@@ -902,13 +902,13 @@ durch welche eine Maßnahme (§ 11 Abs. 1 Nr. 8 des Strafgesetzbuchs) mit Ausnah
 zehn Jahrebei Verurteilungen zu
 
 a)  
-Geldstrafe und Freiheitsstrafe oder Strafarrest von nicht mehr als drei Monaten, wenn die Voraussetzungen der Nummer 1 Buchstaben a und b nicht vorliegen,
+Geldstrafe und Freiheitsstrafe oder Strafarrest von nicht mehr als drei Monaten, wenn die Voraussetzungen der Nummer 1 Buchstabe a und b nicht vorliegen,
 
 b)  
 Freiheitsstrafe oder Strafarrest von mehr als drei Monaten, aber nicht mehr als einem Jahr, wenn die Vollstreckung der Strafe oder eines Strafrestes gerichtlich oder im Gnadenweg zur Bewährung ausgesetzt worden und im Register nicht außerdem Freiheitsstrafe, Strafarrest oder Jugendstrafe eingetragen ist,
 
 c)  
-Jugendstrafe von mehr als einem Jahr, außer in den Fällen der Nummer 1 Buchstaben d bis f,
+Jugendstrafe von mehr als einem Jahr, außer in den Fällen der Nummer 1 Buchstabe d bis f,
 
 d)  
 Jugendstrafe bei Verurteilungen wegen einer Straftat nach den §§ 171, 180a, 181a, 183 bis 184f, 225, 232 bis 233a, 234, 235 oder § 236 des Strafgesetzbuchs von mehr als einem Jahr in Fällen der Nummer 1 Buchstabe d bis f,
@@ -921,7 +921,7 @@ fünfzehn Jahrein allen übrigen Fällen.
 
 (2) Die Aussetzung der Strafe oder eines Strafrestes zur Bewährung oder die Beseitigung des Strafmakels bleiben bei der Berechnung der Frist unberücksichtigt, wenn diese Entscheidungen widerrufen worden sind.
 
-(3) In den Fällen des Absatzes 1 Nr. 1 Buchstabe e, Nr. 2 Buchstabe c und d, Nr. 3, Nr. 4 verlängert sich die Frist um die Dauer der Freiheitsstrafe, des Strafarrestes oder der Jugendstrafe.
+(3) In den Fällen des Absatzes 1 Nr. 1 Buchstabe e, Nr. 2 Buchstabe c und d sowie Nummer 3 und 4 verlängert sich die Frist um die Dauer der Freiheitsstrafe, des Strafarrestes oder der Jugendstrafe.
 
 ### § 47 Feststellung der Frist und Ablaufhemmung
 
