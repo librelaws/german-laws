@@ -1,5 +1,5 @@
-Verordnung über Vermarktungsnormen für Fischereierzeugnisse (Artikel 1 der Verordnung über Vermarktungsnormen für Fischereierzeugnisse und zur Änderung der Wein-Verordnung) ()
-===============================================================================================================================================================================
+Verordnung über Vermarktungsnormen für Fischereierzeugnisse ()
+==============================================================
 
 Neuf  
 Neugefasst durch Bek. v. 22.12.1997 I 3368;
