@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 3.2.1995 I 180;
 
 Stand  
-zuletzt geändert durch Art. 4 G v. 9.12.2006 I 2819
+zuletzt geändert durch Art. 14 V v. 29.11.2018 I 2034
 
 ### 
 
@@ -17,47 +17,48 @@ Die V wurde aufgrund des § 7 Abs. 4 Satz 3 u. Abs. 5, des § 7a Abs. 2 u. des �
 
 ### Inhaltsübersicht
 
-|       |                                                              |
-|-------|--------------------------------------------------------------|
-|       | Erster Abschnitt                                             |
-|       | Anwendungsbereich, Antrag und Unterlagen                     |
-| § 1   | Anwendungsbereich                                            |
-| § 1a  | Gegenstand der Umweltverträglichkeitsprüfung                 |
-| § 1b  | Unterrichtung über voraussichtlich beizubringende Unterlagen |
-| § 2   | Form und Inhalt des Antrags                                  |
-| § 3   | Art und Umfang der Unterlagen                                |
-|       | Zweiter Abschnitt                                            |
-|       | Beteiligung Dritter und anderer Behörden                     |
-| § 4   | Bekanntmachung des Vorhabens                                 |
-| § 5   | Inhalt der Bekanntmachung                                    |
-| § 6   | Auslegung von Antrag und Unterlagen                          |
-| § 7   | Einwendungen                                                 |
-| § 7a  | Verfahren bei grenzüberschreitenden Umweltauswirkungen       |
-|       | Dritter Abschnitt                                            |
-|       | Erörterungstermin                                            |
-| § 8   | Gegenstand und Zweck                                         |
-| § 9   | Besondere Einwendungen                                       |
-| § 10  | Wegfall                                                      |
-| § 11  | Verlegung                                                    |
-| § 12  | Verlauf                                                      |
-| § 13  | Niederschrift                                                |
-|       | Vierter Abschnitt                                            |
-|       | Genehmigung                                                  |
-| § 14  | Sachprüfung                                                  |
-| § 14a | Zusammenfassende Darstellung; Bewertung                      |
-| § 15  | Entscheidung                                                 |
-| § 16  | Inhalt des Genehmigungsbescheides                            |
-| § 17  | Zustellung durch öffentliche Bekanntmachung                  |
-|       | Fünfter Abschnitt                                            |
-|       | Besondere Vorschriften                                       |
-| § 18  | Teilgenehmigung                                              |
-| § 19  | Vorbescheid                                                  |
-| § 19a | Raumordnungsverfahren und Genehmigungsverfahren              |
-| § 19b | Genehmigungen nach § 7 Abs. 3 des Atomgesetzes               |
-|       | Sechster Abschnitt                                           |
-|       | Schlußvorschriften                                           |
-| § 20  | Übergangsvorschrift                                          |
-| § 21  | Inkrafttreten                                                |
+|       |                                                                             |
+|-------|-----------------------------------------------------------------------------|
+|       | Erster Abschnitt                                                            |
+|       | Anwendungsbereich, Antrag und Unterlagen                                    |
+| § 1   | Anwendungsbereich                                                           |
+| § 1a  | Gegenstand der Umweltverträglichkeitsprüfung                                |
+| § 1b  | Unterrichtung über voraussichtlich beizubringende Unterlagen                |
+| § 2   | Form und Inhalt des Antrags                                                 |
+| § 3   | Art und Umfang der Unterlagen                                               |
+|       | Zweiter Abschnitt                                                           |
+|       | Beteiligung Dritter und anderer Behörden                                    |
+| § 4   | Bekanntmachung des Vorhabens                                                |
+| § 5   | Inhalt der Bekanntmachung                                                   |
+| § 6   | Auslegung von Antrag und Unterlagen                                         |
+| § 6a  | Geheimhaltung und Datenschutz sowie Schutz der Rechte am geistigen Eigentum |
+| § 7   | Einwendungen                                                                |
+| § 7a  | Verfahren bei grenzüberschreitenden Umweltauswirkungen                      |
+|       | Dritter Abschnitt                                                           |
+|       | Erörterungstermin                                                           |
+| § 8   | Gegenstand und Zweck                                                        |
+| § 9   | Besondere Einwendungen                                                      |
+| § 10  | Wegfall                                                                     |
+| § 11  | Verlegung                                                                   |
+| § 12  | Verlauf                                                                     |
+| § 13  | Niederschrift                                                               |
+|       | Vierter Abschnitt                                                           |
+|       | Genehmigung                                                                 |
+| § 14  | Sachprüfung                                                                 |
+| § 14a | Zusammenfassende Darstellung; Bewertung                                     |
+| § 15  | Entscheidung                                                                |
+| § 16  | Inhalt des Genehmigungsbescheides                                           |
+| § 17  | Zustellung durch öffentliche Bekanntmachung                                 |
+|       | Fünfter Abschnitt                                                           |
+|       | Besondere Vorschriften                                                      |
+| § 18  | Teilgenehmigung                                                             |
+| § 19  | Vorbescheid                                                                 |
+| § 19a | Raumordnungsverfahren und Genehmigungsverfahren                             |
+| § 19b | Genehmigungen nach § 7 Abs. 3 des Atomgesetzes                              |
+|       | Sechster Abschnitt                                                          |
+|       | Schlußvorschriften                                                          |
+| § 20  | Übergangsvorschrift                                                         |
+| § 21  | Inkrafttreten                                                               |
 
 Erster Abschnitt Anwendungsbereich, Antrag und Unterlagen
 ---------------------------------------------------------
@@ -70,13 +71,36 @@ Für die in § 7 Abs. 1 und 5 des Atomgesetzes genannten Anlagen ist das Verfahr
 
 ### § 1a Gegenstand der Umweltverträglichkeitsprüfung
 
-Die Umweltverträglichkeitsprüfung umfasst die Ermittlung, Beschreibung und Bewertung der für die Prüfung der Zulassungsvoraussetzungen bedeutsamen Auswirkungen eines UVP-pflichtigen Vorhabens auf Menschen, einschließlich der menschlichen Gesundheit, Tiere, Pflanzen und die biologische Vielfalt, Boden, Wasser, Luft, Klima und Landschaft, Kulturgüter und sonstige Sachgüter, sowie die Wechselwirkung zwischen den vorgenannten Schutzgütern.
+Die Umweltverträglichkeitsprüfung umfasst die Ermittlung, Beschreibung und Bewertung der für die Prüfung der Zulassungsvoraussetzungen bedeutsamen Auswirkungen eines UVP-pflichtigen Vorhabens auf
+
+1.  
+Menschen, insbesondere die menschliche Gesundheit,
+
+2.  
+Tiere, Pflanzen und die biologische Vielfalt,
+
+3.  
+Fläche, Boden, Wasser, Luft, Klima und Landschaft,
+
+4.  
+kulturelles Erbe und sonstige Sachgüter sowie
+
+5.  
+die Wechselwirkungen zwischen den in den Nummern 1 bis 4 genannten Schutzgütern.
+
+§ 2 Absatz 2 des Gesetzes über die Umweltverträglichkeitsprüfung bleibt unberührt.
 
 ### § 1b Unterrichtung über voraussichtlich beizubringende Unterlagen
 
-(1) Sofern der Träger eines UVP-pflichtigen Vorhabens die Genehmigungsbehörde vor Beginn des Genehmigungsverfahrens darum ersucht oder sofern die Genehmigungsbehörde es nach Beginn des Genehmigungsverfahrens für erforderlich hält, unterrichtet diese ihn entsprechend dem Planungsstand des Vorhabens und auf der Grundlage geeigneter Angaben zum Vorhaben frühzeitig über Art und Umfang der voraussichtlich nach den §§ 2 und 3 beizubringenden Unterlagen. Vor der Unterrichtung gibt die Genehmigungsbehörde dem Träger des Vorhabens sowie den nach § 7 Abs. 4 Satz 1 des Atomgesetzes zu beteiligenden Behörden Gelegenheit zu einer Besprechung über Art und Umfang der Unterlagen. Die Besprechung soll sich auch auf Gegenstand, Umfang und Methoden der Umweltverträglichkeitsprüfung sowie sonstige für die Durchführung der Umweltverträglichkeitsprüfung erhebliche Fragen erstrecken. Sachverständige und Dritte können hinzugezogen werden. Verfügen die Genehmigungsbehörde oder die zu beteiligenden Behörden über Informationen, die für die Beibringung der in § 3 genannten Unterlagen zweckdienlich sind, sollen sie diese Informationen dem Träger des Vorhabens zur Verfügung stellen, soweit nicht Rechte Dritter entgegenstehen.
+(1) Auf Antrag oder wenn die zuständige Behörde es für zweckmäßig hält, unterrichtet und berät die zuständige Behörde den Träger des UVP-pflichtigen Vorhabens frühzeitig entsprechend dem Planungsstand über Inhalt, Umfang und Detailtiefe der Angaben, die der Vorhabenträger voraussichtlich in den UVP-Bericht aufnehmen muss (Untersuchungsrahmen).
 
-(2) Bedarf ein UVP-pflichtiges Vorhaben der Zulassung durch mehrere Behörden, obliegen der atomrechtlichen Genehmigungsbehörde die in Absatz 1 und § 14a Abs. 1 beschriebenen Aufgaben nur, wenn sie auf Grund des § 14 Abs. 1 Satz 1 des Gesetzes über die Umweltverträglichkeitsprüfung als federführende Behörde bestimmt ist. Sie hat diese Aufgaben im Zusammenwirken zumindest mit den anderen Zulassungsbehörden und der Naturschutzbehörde wahrzunehmen, deren Aufgabenbereich durch das Vorhaben berührt wird. Im übrigen bleibt die Befugnis der Länder unberührt, der federführenden Behörde auf Grund des § 14 Abs. 1 Satz 2 des Gesetzes über die Umweltverträglichkeitsprüfung weitere Zuständigkeiten zu übertragen.
+(2) Der Träger des UVP-pflichtigen Vorhabens hat der zuständigen Behörde geeignete Unterlagen zu den Merkmalen des Vorhabens, einschließlich seiner Größe und Leistung, und des Standorts sowie zu den möglichen Umweltauswirkungen vorzulegen.
+
+(3) Die Unterrichtung und Beratung kann sich auch auf weitere Gesichtspunkte des Verfahrens, insbesondere auf dessen zeitlichen Ablauf, auf die zu beteiligenden Behörden oder die Einholung von Sachverständigengutachten erstrecken. Verfügen die Genehmigungsbehörde oder die zu beteiligenden Behörden über Informationen, die für die Beibringung der in § 3 genannten Unterlagen zweckdienlich sind, stellen sie die Informationen dem Vorhabenträger zur Verfügung.
+
+(4) Vor der Unterrichtung über den Untersuchungsrahmen gibt die Genehmigungsbehörde dem Vorhabenträger sowie den nach § 7 Absatz 4 Satz 1 des Atomgesetzes zu beteiligenden Behörden Gelegenheit zu einer Besprechung. Die Besprechung soll sich auch auf den Gegenstand, den Umfang und die Methoden der Umweltverträglichkeitsprüfung sowie sonstige für die Durchführung der Umweltverträglichkeitsprüfung erhebliche Fragen erstrecken. Zur Besprechung können Sachverständige, nach § 7a in Verbindung mit § 55 des Gesetzes über die Umweltverträglichkeitsprüfung zu beteiligende Behörden, nach § 3 des Umwelt-Rechtsbehelfsgesetzes anerkannte Umweltvereinigungen sowie sonstige Dritte hinzugezogen werden. Das Ergebnis der Besprechung wird von der zuständigen Behörde dokumentiert.
+
+(5) Bedarf ein UVP-pflichtiges Vorhaben der Zulassung durch mehrere Behörden, obliegen der atomrechtlichen Genehmigungsbehörde die in Absatz 1 und 2 sowie § 14a Abs. 1 beschriebenen Aufgaben nur, wenn sie auf Grund des § 31 Absatz 1 Satz 1 des Gesetzes über die Umweltverträglichkeitsprüfung als federführende Behörde bestimmt ist. Sie hat diese Aufgaben im Zusammenwirken zumindest mit den anderen Zulassungsbehörden und der für Naturschutz- und Landschaftspflege zuständigen Behörde wahrzunehmen, deren Aufgabenbereich durch das Vorhaben berührt wird. Im übrigen bleibt die Befugnis der Länder unberührt, der federführenden Behörde auf Grund des § 31 Absatz 2 Satz 2 des Gesetzes über die Umweltverträglichkeitsprüfung weitere Zuständigkeiten zu übertragen.
 
 ### § 2 Form und Inhalt des Antrags
 
@@ -113,7 +137,7 @@ d)
 eine Beschreibung der Umwelt und ihrer Bestandteile;
 
 e)  
-Angaben über die mit der Anlage und ihrem Betrieb verbundene Direktstrahlung und Abgabe radioaktiver Stoffe, einschließlich der Freisetzungen aus der Anlage bei Störfällen im Sinne der §§ 49 und 50 der Strahlenschutzverordnung (Auslegungsstörfälle);
+Angaben über die mit der Anlage und ihrem Betrieb verbundene Direktstrahlung und Abgabe radioaktiver Stoffe, einschließlich der Freisetzungen aus der Anlage bei Störfällen im Sinne des § 104 der Strahlenschutzverordnung (Auslegungsstörfälle);
 
 f)  
 eine Beschreibung der Auswirkungen der unter Buchstabe e dargestellten Direktstrahlung und Abgabe radioaktiver Stoffe auf die in § 1a dargelegten Schutzgüter, einschließlich der Wechselwirkungen mit sonstigen Stoffen;
@@ -151,17 +175,11 @@ zur geordneten Beseitigung radioaktiver Reststoffe oder abgebauter radioaktiver 
 9.  
 Angaben über sonstige Umweltauswirkungen des Vorhabens, die zur Prüfung nach § 7 Abs. 2 Nr. 6 des Atomgesetzes für die im Einzelfall in der Genehmigungsentscheidung eingeschlossenen Zulassungsentscheidungen oder für von der Genehmigungsbehörde zu treffende Entscheidungen nach Vorschriften über Naturschutz und Landschaftspflege erforderlich sind; die Anforderungen an den Inhalt der Angaben bestimmen sich nach den für die genannten Entscheidungen jeweils maßgeblichen Rechtsvorschriften.
 
-(2) Bei UVP-pflichtigen Vorhaben sind dem Antrag folgende Unterlagen zusätzlich beizufügen:
-
-1.  
-eine Übersicht über die wichtigsten, vom Antragsteller geprüften technischen Verfahrensalternativen, einschließlich der Angabe der wesentlichen Auswahlgründe, soweit diese Angaben für die Beurteilung der Zulässigkeit des Vorhabens nach § 7 des Atomgesetzes bedeutsam sein können;
-
-2.  
-Hinweise auf Schwierigkeiten, die bei der Zusammenstellung der Angaben für die Prüfung nach § 1a aufgetreten sind, insbesondere soweit diese Schwierigkeiten auf fehlenden Kenntnissen und Prüfmethoden oder auf technischen Lücken beruhen.
+(2) Bei UVP-pflichtigen Vorhaben hat der Antragsteller dem Antrag einen UVP-Bericht beizufügen, der die Angaben enthält, die nach § 16 des Gesetzes über die Umweltverträglichkeitsprüfung erforderlich sind.
 
 (3) Die Angaben nach Absatz 1 Nr. 3 sind getrennt vorzulegen. Enthalten die übrigen in Absatz 1 oder 2 genannten Unterlagen ein Geschäfts- oder Betriebsgeheimnis, so sind sie entsprechend zu kennzeichnen und ebenfalls getrennt vorzulegen. Ihr Inhalt muß in den nach § 6 auszulegenden Unterlagen, soweit es ohne Preisgabe des Geheimnisses geschehen kann, so ausführlich dargestellt sein, daß es Dritten möglich ist, zu beurteilen, ob und in welchem Umfang sie von den Auswirkungen der Anlage betroffen werden können.
 
-(4) Der Antragsteller hat der Genehmigungsbehörde außer den Unterlagen nach den Absätzen 1, 2 und 3 Satz 3 eine allgemein verständliche, für die Auslegung geeignete Kurzbeschreibung der Anlage und der voraussichtlichen Auswirkungen auf die Allgemeinheit und die Nachbarschaft vorzulegen. Bei UVP-pflichtigen Vorhaben erstreckt sich die Kurzbeschreibung auch auf alle Angaben nach Absatz 1 Nr. 1, 8 und 9 sowie Absatz 2 Nr. 1. Er hat ferner ein Verzeichnis der dem Antrag beigefügten Unterlagen vorzulegen, in dem die Unterlagen, die Geschäfts- oder Betriebsgeheimnisse enthalten, besonders gekennzeichnet sind.
+(4) Der Antragsteller hat der Genehmigungsbehörde außer den Unterlagen nach den Absätzen 1, 2 und 3 Satz 3 eine allgemein verständliche, für die Auslegung geeignete Kurzbeschreibung der Anlage und der voraussichtlichen Auswirkungen auf die Allgemeinheit und die Nachbarschaft vorzulegen. Bei UVP-pflichtigen Vorhaben erstreckt sich die Kurzbeschreibung auch auf eine allgemein verständliche, nichttechnische Zusammenfassung nach § 16 Absatz 1 Satz 1 Nummer 7 des Gesetzes über die Umweltverträglichkeitsprüfung. Er hat ferner ein Verzeichnis der dem Antrag beigefügten Unterlagen vorzulegen, in dem die Unterlagen, die Geschäfts- oder Betriebsgeheimnisse enthalten, besonders gekennzeichnet sind.
 
 (5) Reichen die Unterlagen für die Prüfung nicht aus, so hat sie der Antragsteller auf Verlangen der Genehmigungsbehörde innerhalb einer angemessenen Frist zu ergänzen.
 
@@ -177,7 +195,7 @@ Zweiter Abschnitt Beteiligung Dritter und anderer Behörden
 (2) Wird das Vorhaben während des Genehmigungsverfahrens wesentlich geändert, so darf die Genehmigungsbehörde von einer zusätzlichen Bekanntmachung und Auslegung absehen, wenn im Sicherheitsbericht keine zusätzlichen oder anderen Umstände darzulegen wären, die nachteilige Auswirkungen für Dritte besorgen lassen. Dies ist insbesondere dann der Fall, wenn erkennbar ist, daß nachteilige Auswirkungen für Dritte durch die zur Vorsorge gegen Schäden getroffenen oder vom Träger des Vorhabens vorgesehenen Maßnahmen ausgeschlossen werden oder die sicherheitstechnischen Nachteile der Änderung im Verhältnis zu den sicherheitstechnischen Vorteilen gering sind. Eine zusätzliche Bekanntmachung und Auslegung (§ 6) ist erforderlich bei
 
 1.  
-Änderungen, die eine Erhöhung der für den bestimmungsgemäßen Betrieb je Jahr vorgesehenen Aktivitätsabgaben und eine Erhöhung der Immissionen um mehr als 5 vom Hundert auf mehr als 75 vom Hundert der Dosisgrenzwerte des § 47 Abs. 1 der Strahlenschutzverordnung zur Folge haben können,
+Änderungen, die eine Erhöhung der für den bestimmungsgemäßen Betrieb je Jahr vorgesehenen Aktivitätsabgaben und eine Erhöhung der Immissionen um mehr als 5 vom Hundert auf mehr als 75 vom Hundert der Dosisgrenzwerte des § 99 Absatz 1 der Strahlenschutzverordnung zur Folge haben können,
 
 2.  
 Änderung der Konzeption der Anlage oder der räumlichen Anordnung von Bauwerken, sofern die Änderungen im Rahmen der Beherrschung von Auslegungsstörfällen zu einer sicherheitstechnisch bedeutsamen Erhöhung der ursprünglich angenommenen Beanspruchung von Anlageteilen führen können; bei der Beurteilung der sicherheitstechnischen Bedeutung ist Satz 2 entsprechend anzuwenden,
@@ -224,7 +242,25 @@ darauf hinzuweisen, daß die Zustellung der Entscheidung über die Einwendungen 
 
 (3) Zwischen dem Ende der Auslegungsfrist und dem Erörterungstermin soll mindestens ein Monat liegen.
 
-(4) Betrifft der Antrag ein UVP-pflichtiges Vorhaben, muss die Bekanntmachung zusätzlich einen Hinweis auf die UVP-Pflicht des Vorhabens, auf die Art einer möglichen Entscheidung zum Abschluss des Genehmigungsverfahrens und erforderlichenfalls auf die Durchführung einer grenzüberschreitenden Beteiligung nach § 7a sowie die Angabe, welche Unterlagen nach § 3 vorgelegt wurden, enthalten. Ferner ist die Behörde, bei der weitere Informationen über das Vorhaben erhältlich sein werden und der Fragen übermittelt werden können, anzugeben.
+(4) Betrifft der Antrag ein UVP-pflichtiges Vorhaben, muss die Bekanntmachung zusätzlich folgende Angaben enthalten:
+
+1.  
+einen Hinweis auf die UVP-Pflicht des Vorhabens,
+
+2.  
+die Art einer möglichen Entscheidung zum Abschluss des Genehmigungsverfahrens,
+
+3.  
+erforderlichenfalls einen Hinweis auf die Durchführung einer grenzüberschreitenden Beteiligung nach § 7a,
+
+4.  
+die Angabe, dass ein UVP-Bericht nach § 3 Absatz 2 vorgelegt wurde,
+
+5.  
+die Bezeichnung der entscheidungserheblichen Berichte und Empfehlungen betreffend das Vorhaben, die der Genehmigungsbehörde zum Zeitpunkt des Beginns des Beteiligungsverfahrens vorliegen,
+
+6.  
+die Behörde, bei der weitere Informationen über das Vorhaben erhältlich sein werden und der Fragen übermittelt werden können.
 
 ### § 6 Auslegung von Antrag und Unterlagen
 
@@ -239,29 +275,31 @@ der Sicherheitsbericht nach § 3 Abs. 1 Nr. 1,
 3.  
 die Kurzbeschreibung nach § 3 Abs. 4.
 
-(2) Betrifft der Antrag ein UVP-pflichtiges Vorhaben, sind zusätzlich die Unterlagen nach § 3 Abs. 1 Nr. 8 und 9 und Abs. 2 sowie die entscheidungserheblichen Berichte und Empfehlungen betreffend das Vorhaben, die der Genehmigungsbehörde zum Zeitpunkt des Beginns des Beteiligungsverfahrens vorgelegen haben, auszulegen. Weitere Informationen, die für die Entscheidung über die Zulässigkeit des Vorhabens von Bedeutung sein können und die der zuständigen Behörde erst nach Beginn des Beteiligungsverfahrens vorliegen, sind der Öffentlichkeit nach den Bestimmungen des Bundes und der Länder über den Zugang zu Umweltinformationen zugänglich zu machen.
+(2) Betrifft der Antrag ein UVP-pflichtiges Vorhaben, sind zusätzlich der UVP-Bericht nach § 3 Absatz 2 sowie die entscheidungserheblichen Berichte und Empfehlungen betreffend das Vorhaben, die der Genehmigungsbehörde zum Zeitpunkt des Beginns des Beteiligungsverfahrens vorgelegen haben, auszulegen. Weitere Informationen, die für die Entscheidung über die Zulässigkeit des Vorhabens von Bedeutung sein können und die der zuständigen Behörde erst nach Beginn des Beteiligungsverfahrens vorliegen, sind der Öffentlichkeit nach den Bestimmungen des Bundes und der Länder über den Zugang zu Umweltinformationen zugänglich zu machen.
 
 (3) Auf Verlangen eines Dritten ist diesem eine Abschrift oder Vervielfältigung der Kurzbeschreibung zu überlassen.
 
 (4) Die Genehmigungsbehörde gewährt während der Dauer des Zulassungsverfahrens Akteneinsicht nach pflichtgemäßem Ermessen; § 29 Abs. 1 Satz 3, Abs. 2 und 3 des Verwaltungsverfahrensgesetzes findet entsprechende Anwendung. Sonstige Rechte auf den Zugang zu Informationen in anderen Rechtsvorschriften bleiben unberührt.
 
+(5) § 27a des Verwaltungsverfahrensgesetzes und die entsprechenden Vorschriften der Verwaltungsverfahrensgesetze der Länder gelten mit der Maßgabe, dass die Zugänglichmachung des Inhalts der Bekanntmachung nach § 5 und der nach § 6 Absatz 2 Satz 1 auszulegenden Unterlagen im Internet auch über das einschlägige zentrale Internetportal nach § 20 des Gesetzes über die Umweltverträglichkeitsprüfung erfolgt.
+
+### § 6a Geheimhaltung und Datenschutz sowie Schutz der Rechte am geistigen Eigentum
+
+(1) Die Rechtsvorschriften über Geheimhaltung und Datenschutz sowie den Schutz der Rechte am geistigen Eigentum bleiben unberührt. Insbesondere sind Urkunden, Akten und elektronische Dokumente geheim zu halten, wenn das Bekanntwerden ihres Inhalts dem Wohl des Bundes oder eines Landes Nachteile bereiten würde oder wenn die Vorgänge nach einem Gesetz oder ihrem Wesen nach geheim gehalten werden müssen.
+
+(2) Soweit die in § 6 Absatz 2 Satz 1 genannten Unterlagen Informationen der in Absatz 1 genannten Art enthalten, kennzeichnet der Vorhabenträger diese Informationen und legt zusätzlich eine Darstellung vor, die den Inhalt der Unterlagen ohne Preisgabe des Geheimnisses beschreibt. Die Inhaltsdarstellung muss so ausführlich sein, dass Dritten die Beurteilung ermöglicht wird, ob und in welchem Umfang sie von den Umweltauswirkungen des Vorhabens betroffen werden können.
+
+(3) Geheimhaltungsbedürftige Unterlagen sind bei der Auslegung durch die Inhaltsdarstellung zu ersetzen.
+
 ### § 7 Einwendungen
 
-(1) Einwendungen können während der Auslegungsfrist schriftlich oder zur Niederschrift bei der Genehmigungsbehörde oder der in der Bekanntmachung nach § 5 Abs. 1 Satz 2 Nr. 2 bezeichneten Stelle erhoben werden. Mit Ablauf der Auslegungsfrist werden alle Einwendungen ausgeschlossen, die nicht auf besonderen privatrechtlichen Titeln beruhen.
+(1) Einwendungen können während der Auslegungsfrist schriftlich oder zur Niederschrift bei der Genehmigungsbehörde oder der in der Bekanntmachung nach § 5 Abs. 1 Satz 2 Nr. 2 bezeichneten Stelle erhoben werden. Mit Ablauf der Auslegungsfrist werden für das Genehmigungsverfahren alle Einwendungen ausgeschlossen, die nicht auf besonderen privatrechtlichen Titeln beruhen.
 
 (2) Der Inhalt der Einwendungen ist dem Antragsteller bekanntzugeben. Den nach § 7 Abs. 4 Satz 1 des Atomgesetzes beteiligten Behörden ist der Inhalt der Einwendungen bekanntzugeben, die ihren Zuständigkeitsbereich berühren.
 
 ### § 7a Verfahren bei grenzüberschreitenden Umweltauswirkungen
 
-(1) Wenn ein UVP-pflichtiges Vorhaben erhebliche nach § 3 Abs. 1 Nr. 1 oder 9 zu beschreibende Auswirkungen auf in § 1a genannte Schutzgüter in einem anderen Staat haben kann oder ein anderer Staat, der möglicherweise von den Auswirkungen erheblich berührt wird, darum ersucht, so werden die von dem anderen Staat benannten Behörden im Hinblick auf die Prüfung nach § 1a zum gleichen Zeitpunkt und im gleichen Umfang wie die nach § 7 Abs. 4 Satz 1 des Atomgesetzes zu beteiligenden Behörden über das Vorhaben unterrichtet; dabei ist der zuständigen Behörde des anderen Staates eine angemessene Frist für die Mitteilung einzuräumen, ob eine Beteiligung an dem Verfahren gewünscht wird. Wenn der andere Staat die zu beteiligenden Behörden nicht benannt hat, ist die oberste für Umweltangelegenheiten zuständige Behörde des anderen Staates zu unterrichten. Die Genehmigungsbehörde hat darauf hinzuwirken, dass das Vorhaben in dem Staat auf geeignete Weise bekannt gemacht wird, dabei angegeben wird, bei welcher Behörde Einwendungen erhoben werden können, und dabei darauf hingewiesen wird, dass mit Ablauf der Einwendungsfrist alle Einwendungen ausgeschlossen sind, die nicht auf besonderen privatrechtlichen Titeln beruhen. Rechtsvorschriften zur Geheimhaltung, insbesondere zum Schutz von Geschäfts- und Betriebsgeheimnissen, bleiben unberührt; entgegenstehende Rechte Dritter sind zu beachten. Ebenfalls unberührt bleiben die Vorschriften des Bundesdatenschutzgesetzes und der Landesdatenschutzgesetze zur Datenübermittlung an Stellen außerhalb des Geltungsbereichs des Grundgesetzes. Die Genehmigungsbehörde gibt den zu beteiligenden Behörden des anderen Staates auf der Grundlage der übersandten Unterlagen nach den §§ 2 und 3 Gelegenheit, innerhalb angemessener Frist vor der Entscheidung über den Antrag ihre Stellungnahmen abzugeben; die dort ansässige Öffentlichkeit ist im Hinblick auf ihre weitere Beteiligung am Genehmigungsverfahren der inländischen Öffentlichkeit gleichgestellt.
-
-(2) Die Genehmigungsbehörde kann verlangen, dass ihr der Antragsteller eine Übersetzung der Kurzbeschreibung nach § 3 Abs. 4 sowie, soweit erforderlich, weiterer für die grenzüberschreitende Beteiligung bedeutsamer Angaben zum Vorhaben, insbesondere zu grenzüberschreitenden Umweltauswirkungen, zur Verfügung stellt, sofern im Verhältnis zu dem anderen Staat die Voraussetzungen der Grundsätze von Gegenseitigkeit und Gleichwertigkeit erfüllt sind.
-
-(3) Soweit erforderlich oder soweit der andere Staat darum ersucht, führen die zuständigen obersten Bundes- und Landesbehörden innerhalb eines vereinbarten, angemessenen Zeitrahmens mit dem anderen Staat Konsultationen insbesondere über die grenzüberschreitenden Umweltauswirkungen des Vorhabens und über die Maßnahmen zu deren Vermeidung oder Verminderung durch.
-
-(4) Die Genehmigungsbehörde übermittelt den beteiligten Behörden des anderen Staates die Entscheidung über den Antrag einschließlich der Begründung und einer Rechtsbehelfsbelehrung. Sofern die Voraussetzungen der Grundsätze von Gegenseitigkeit und Gleichwertigkeit erfüllt sind, kann sie eine Übersetzung des Genehmigungsbescheids beifügen. Die Genehmigungsbehörde hat darauf hinzuwirken, dass die Entscheidung über den Antrag der beteiligten Öffentlichkeit in dem anderen Staat auf geeignete Weise bekannt und der Inhalt der Entscheidung mit Begründung und einer Rechtsbehelfsbelehrung zugänglich gemacht wird.
-
-(5) Weiter gehende Regelungen zur Umsetzung völkerrechtlicher Verpflichtungen von Bund und Ländern bleiben unberührt.
+Für das Verfahren zur grenzüberschreitenden Umweltverträglichkeitsprüfung gelten die Vorschriften der Abschnitte 1 und 3 des Teils 5 des Gesetzes über die Umweltverträglichkeitsprüfung entsprechend.
 
 Dritter Abschnitt Erörterungstermin
 -----------------------------------
@@ -340,11 +378,22 @@ Vierter Abschnitt Genehmigung
 
 Die Prüfung durch die Genehmigungsbehörde erstreckt sich außer auf die Genehmigungsvoraussetzungen des § 7 Abs. 2 des Atomgesetzes auch auf die Beachtung der übrigen das Vorhaben betreffenden öffentlich-rechtlichen Vorschriften.
 
-### § 14a Zusammenfassende Darstellung, Bewertung
+### § 14a Zusammenfassende Darstellung, begründete Bewertung
 
-(1) Bei UVP-pflichtigen Vorhaben erarbeitet die Genehmigungsbehörde auf der Grundlage der Unterlagen nach § 3, der behördlichen Stellungnahmen nach § 7 Abs. 4 Satz 1 des Atomgesetzes und nach § 7a, der Ergebnisse eigener Ermittlungen sowie der Äußerungen und Einwendungen Dritter eine zusammenfassende Darstellung der für die Entscheidung über den Genehmigungsantrag bedeutsamen Auswirkungen des Vorhabens auf in § 1a genannte Schutzgüter einschließlich der Wechselwirkungen. Die zusammenfassende Darstellung kann in der Begründung der Entscheidung über die Zulässigkeit des Vorhabens erfolgen. Bedarf das Vorhaben der Zulassung durch mehrere Behörden, gilt § 1b Abs. 2.
+(1) Bei UVP-pflichtigen Vorhaben erarbeitet die zuständige Behörde eine zusammenfassende Darstellung
 
-(2) Die Genehmigungsbehörde bewertet die Auswirkungen des Vorhabens auf in § 1a genannte Schutzgüter auf der Grundlage der zusammenfassenden Darstellung nach den für ihre Entscheidung maßgeblichen Rechts- und Verwaltungsvorschriften. Bedarf das Vorhaben der Zulassung durch mehrere Behörden, wirkt die Genehmigungsbehörde an der Gesamtbewertung durch alle Zulassungsbehörden nach § 14 Abs. 2 des Gesetzes über die Umweltverträglichkeitsprüfung mit. Ist die atomrechtliche Genehmigungsbehörde federführende Behörde, so hat sie das Zusammenwirken aller Zulassungsbehörden sicherzustellen. die Genehmigungsbehörde hat die vorgenommene Bewertung oder Gesamtbewertung bei der Entscheidung über den Antrag nach Maßgabe der hierfür geltenden Rechtsvorschriften zu berücksichtigen.
+1.  
+der für die Entscheidung über die Genehmigung des Vorhabens bedeutsamen Auswirkungen des Vorhabens auf die in § 1a genannten Schutzgüter einschließlich der Wechselwirkungen,
+
+2.  
+der Merkmale des Vorhabens und des Standorts, mit denen erhebliche nachteilige Umweltauswirkungen ausgeschlossen, vermindert oder ausgeglichen werden sollen sowie
+
+3.  
+der Maßnahmen, mit denen erhebliche nachteilige Umweltauswirkungen ausgeschlossen, vermindert oder ausgeglichen werden sollen, sowie der Ersatzmaßnahmen bei Eingriffen in Natur und Landschaft.
+
+Die Erarbeitung erfolgt auf der Grundlage des UVP-Berichts nach § 3 Absatz 2, der behördlichen Stellungnahmen nach § 7 Absatz 4 Satz 1 des Atomgesetzes sowie der Äußerungen und Einwendungen Dritter. Die Ergebnisse eigener Ermittlungen sind einzubeziehen. Bedarf das Vorhaben der Zulassung durch mehrere Behörden, gilt § 1b Absatz 5.
+
+(2) Die Genehmigungsbehörde bewertet die Auswirkungen des Vorhabens auf in § 1a genannte Schutzgüter auf der Grundlage der zusammenfassenden Darstellung nach den für ihre Entscheidung maßgeblichen Rechts- und Verwaltungsvorschriften im Hinblick auf eine wirksame Umweltvorsorge. Die Bewertung ist zu begründen. Bedarf das Vorhaben der Zulassung durch mehrere Behörden, wirkt die Genehmigungsbehörde an der Gesamtbewertung durch alle Zulassungsbehörden nach § 31 Absatz 4 des Gesetzes über die Umweltverträglichkeitsprüfung mit. Ist die atomrechtliche Genehmigungsbehörde federführende Behörde, so hat sie das Zusammenwirken aller Zulassungsbehörden sicherzustellen. Die Genehmigungsbehörde hat die vorgenommene Bewertung oder Gesamtbewertung bei der Entscheidung über den Antrag nach Maßgabe der hierfür geltenden Rechtsvorschriften zu berücksichtigen. Bei der Entscheidung über die Genehmigung des UVP-pflichtigen Vorhabens müssen die zusammenfassende Darstellung und die begründete Bewertung nach Einschätzung der Genehmigungsbehörde noch hinreichend aktuell sein.
 
 ### § 15 Entscheidung
 
@@ -383,11 +432,33 @@ den Hinweis, daß der Genehmigungsbescheid unbeschadet der Entscheidungen andere
 2.  
 die Rechtsbehelfsbelehrung.
 
-### § 17 Zustellung durch öffentliche Bekanntmachung
+(3) Bei UVP-pflichtigen Vorhaben muss der Bescheid über die Angaben nach Absatz 1 und 2 hinaus zumindest folgende Angaben enthalten:
+
+1.  
+eine Beschreibung der vorgesehenen umweltbezogenen Überwachungsmaßnahmen,
+
+2.  
+eine Begründung, aus der die wesentlichen tatsächlichen und rechtlichen Gründe hervorgehen, die die Behörde zu ihrer Entscheidung bewogen haben; hierzu gehören:
+
+a)  
+Angaben über das Verfahren zur Beteiligung der Öffentlichkeit,
+
+b)  
+die zusammenfassende Darstellung nach § 14a Absatz 1,
+
+c)  
+die begründete Bewertung nach § 14a Absatz 2,
+
+d)  
+eine Erläuterung, auf welche Art und Weise die begründete Bewertung, insbesondere die Angaben des UVP-Berichts nach § 3 Absatz 2, die behördlichen Stellungnahmen nach § 7 Absatz 4 Satz 1 des Atomgesetzes und die behördlichen Stellungnahmen nach § 7a sowie die Einwendungen der Öffentlichkeit nach den §§ 7 und 7a in der Entscheidung berücksichtigt wurden oder auf welche Art und Weise ihnen anderweitig Rechnung getragen wurde.
+
+Wird das Vorhaben nicht zugelassen, so müssen im Bescheid die dafür wesentlichen Gründe erläutert werden.
+
+### § 17 Zustellung durch öffentliche Bekanntmachung und Auslegung des Bescheids
 
 (1) Die öffentliche Bekanntmachung wird dadurch bewirkt, daß der verfügende Teil des Bescheides und die Rechtsbehelfsbelehrung in der in § 4 Abs. 1 vorgesehenen Weise bekanntgemacht werden; auf Auflagen ist hinzuweisen.
 
-(2) Eine Ausfertigung des gesamten Bescheides ist bei der Genehmigungsbehörde und bei der in § 6 Abs. 1 genannten sonstigen Stelle vom Tage nach der Bekanntmachung an zwei Wochen zur Einsicht auszulegen. Maßgebend für die Festsetzung des Beginns der Frist ist der voraussichtliche Tag der Ausgabe des Veröffentlichungsblattes oder der Tageszeitung, die zuletzt erscheint. In der öffentlichen Bekanntmachung ist anzugeben, wo und wann der Bescheid und seine Begründung eingesehen und nach Absatz 3 angefordert werden können. Mit dem Ende der Auslegungsfrist gilt der Bescheid auch gegenüber Dritten, die keine Einwendungen erhoben haben, als zugestellt; darauf ist in der Bekanntmachung hinzuweisen.
+(2) Eine Ausfertigung des gesamten Bescheides ist bei der Genehmigungsbehörde und bei der in § 6 Abs. 1 genannten sonstigen Stelle vom Tage nach der Bekanntmachung an zwei Wochen zur Einsicht auszulegen. Maßgebend für die Festsetzung des Beginns der Frist ist der voraussichtliche Tag der Ausgabe des Veröffentlichungsblattes oder der Tageszeitung, die zuletzt erscheint. In der öffentlichen Bekanntmachung ist anzugeben, wo und wann der Bescheid und seine Begründung eingesehen und nach Absatz 3 angefordert werden können. Mit dem Ende der Auslegungsfrist gilt der Bescheid auch gegenüber Dritten, die keine Einwendungen erhoben haben, als zugestellt; darauf ist in der Bekanntmachung hinzuweisen. Bei UVP-pflichtigen Vorhaben gilt § 6 Absatz 5 entsprechend.
 
 (3) Nach der öffentlichen Bekanntmachung können der Bescheid und seine Begründung bis zum Ablauf der Rechtsbehelfsfrist von den Personen, die Einwendungen erhoben haben, schriftlich angefordert werden.
 
@@ -445,7 +516,7 @@ die Rechtsbehelfsbelehrung.
 
 ### § 19a Raumordnungsverfahren und Genehmigungsverfahren
 
-(1) Die Genehmigungsbehörde hat die im Raumordnungsverfahren oder einem anderen raumordnerischen Verfahren (raumordnerisches Verfahren) nach § 16 Abs. 1 des Gesetzes über die Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Auswirkungen eines UVP-pflichtigen Vorhabens auf die Umwelt nach Maßgabe des § 14a Abs. 2 bei der Entscheidung über den Antrag zu berücksichtigen.
+(1) Die Genehmigungsbehörde hat die im Raumordnungsverfahren oder einem anderen raumordnerischen Verfahren (raumordnerisches Verfahren) nach § 49 Absatz 1 des Gesetzes über die Umweltverträglichkeitsprüfung ermittelten, beschriebenen und bewerteten Auswirkungen eines UVP-pflichtigen Vorhabens auf die Umwelt nach Maßgabe des § 14a Abs. 2 bei der Entscheidung über den Antrag zu berücksichtigen.
 
 (2) Genehmigungsverfahren soll hinsichtlich der im raumordnerischen Verfahren ermittelten und beschriebenen Auswirkungen auf in § 1a Abs. 2 genannte Schutzgüter von den Anforderungen des § 7 Abs. 4 Satz 1 des Atomgesetzes sowie der §§ 1b, 3, 7a und 14a Abs. 1 insoweit abgesehen werden, als diese Verfahrensschritte bereits im raumordnerischen Verfahren erfolgt sind.
 
@@ -466,7 +537,13 @@ Sechster Abschnitt Schlußvorschriften
 
 (1) Verfahren, die vor dem Inkrafttreten einer Änderung dieser Verordnung begonnen worden sind, sind nach den Vorschriften der geänderten Verordnung zu Ende zu führen. Eine Wiederholung von Verfahrensabschnitten ist nicht erforderlich.
 
-(2) Abweichend von Absatz 1 sind Genehmigungsverfahren für Vorhaben, auf die das Gesetz über die Umweltverträglichkeitsprüfung in der am 3. August 2001 in Kraft getretenen Fassung keine Anwendung findet, nach den bis zum vorgenannten Datum geltenden Vorschriften zu Ende zu führen.
+(2) Abweichend von Absatz 1 sind Genehmigungsverfahren für UVP-pflichtige Vorhaben nach dieser Verordnung in der vor dem 16. Mai 2017 und nach dem Gesetz über die Umweltverträglichkeitsprüfung in der vor dem 16. Mai 2017 geltenden Fassung dieses Gesetzes zu Ende zu führen, wenn vor diesem Zeitpunkt
+
+1.  
+das Verfahren zur Unterrichtung über voraussichtlich beizubringende Unterlagen nach § 1b in der vor diesem Zeitpunkt geltenden Fassung dieser Verordnung eingeleitet wurde oder
+
+2.  
+die Unterlagen nach § 3 der vor diesem Zeitpunkt geltenden Fassung dieser Verordnung vorgelegt wurden.
 
 ### § 21
 
