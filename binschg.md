@@ -2,10 +2,10 @@ Gesetz über die Aufgaben des Bundes auf dem Gebiet der Binnenschiffahrt (BinSch
 =====================================================================================
 
 Neuf  
-Neugefasst durch Bek. v. 5.7.2001 I 2026;
+Neugefasst durch Bek. v. 5.7.2001 I 2026
 
 Stand  
-zuletzt geändert durch Art. 2 Abs. 125 G v. 22.11.2011 I 3044
+zuletzt geändert durch Art. 1 G v. 17.11.2015 I 1946
 
 ### 
 
@@ -40,7 +40,7 @@ die Regelung und Überwachung des im Rahmen einer wirtschaftlichen Unternehmung 
 
 (2) Zuständig für die Verwaltungsaufgaben sind die Behörden der Wasser- und Schifffahrtsverwaltung des Bundes. Sie können im Rahmen des Absatzes 1 Nr. 2 und 5 nach pflichtgemäßem Ermessen die notwendigen Maßnahmen zur Abwehr von Gefahren und schädlichen Umwelteinwirkungen sowie zur Beseitigung von Störungen auf den Bundeswasserstraßen treffen. Die in Rechtsverordnungen nach § 3 Abs. 1 Nr. 4 für die funktechnische Sicherheit betreffende Aufgaben als zuständig bestimmte Behörde bedient sich der Hilfe der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur).
 
-(3) Soweit auf Grund dieses Gesetzes oder auf Grund dieses Gesetzes erlassener Rechtsverordnungen Zeugnisse oder andere Dokumente ausgestellt werden, deren Ausstellung schriftlich zu beantragen ist oder die auszuhändigen, vorzulegen oder mitzuführen sind, ist die elektronische Form ausgeschlossen, sofern nicht durch Rechtsverordnung etwas anderes ausdrücklich geregelt ist.
+(3) (weggefallen)
 
 ### § 2 Erlaubnis zur Fahrt
 
@@ -123,6 +123,9 @@ die Anforderungen an die Besetzung der Wasserfahrzeuge und Schwimmkörper nach A
 6.  
 die Anforderungen an die Befähigung und Eignung der Besatzungsmitglieder,
 
+6a.  
+die Voraussetzungen und das Verfahren, nach denen die Befähigungszeugnisse und sonstigen Erlaubnisse erteilt, entzogen oder deren Ruhen angeordnet, Fahrverbote erteilt und Urkunden über Befähigungszeugnisse und sonstige Erlaubnisse vorläufig sichergestellt oder eingezogen werden können;
+
 7.  
 die Anforderungen an die Befähigung und Eignung der Binnenlotsen sowie die Ausübung ihrer Tätigkeit,
 
@@ -192,7 +195,7 @@ a)
 Wasserfahrzeuge, Schwimmkörper und schwimmende Anlagen der Bundeswehr,
 
 b)  
-überwachungsbedürftige Anlagen im Sinne des § 2 Nummer 30 des Produktsicherheitsgesetzes; die Ermächtigung erstreckt sich jedoch auf die Arten von Druckbehältern und Druckgasbehältern, für die eine Verordnung für solche Anlagen nicht erlassen ist.
+überwachungsbedürftige Anlagen im Sinne des § 2 Nummer 30 des Geräte- und Produktsicherheitsgesetzes; die Ermächtigung erstreckt sich jedoch auf die Arten von Druckbehältern und Druckgasbehältern, für die eine Verordnung für solche Anlagen nicht erlassen ist.
 
 ### § 3a Beleihung von juristischen Personen
 
@@ -226,11 +229,11 @@ Die Befugnisse können einer Wasser- und Schifffahrtsdirektion für den Bezirk m
 
 (2) Beteiligungspflichten in Form des Benehmens oder der Anhörung, die in einer übertragbaren Ermächtigung vorgesehen sind, gehen mit deren Übertragung auf die Wasser- und Schifffahrtsdirektionen über, soweit die übertragende Rechtsverordnung nichts anderes bestimmt.
 
-### § 4 Kosten
+### § 4 Gebühren und Auslagen
 
-(1) Für Amtshandlungen nach den §§ 1 und 2 und den auf Grund des § 3 Abs. 1 bis 4, §§ 3a und 3d erlassenen Rechtsverordnungen werden Kosten (Gebühren und Auslagen) erhoben. Die Pflicht zur Auslagenerstattung umfasst neben den nach § 10 Abs. 1 des Verwaltungskostengesetzes zu erhebenden Auslagen auch die Kosten für die zentrale Herstellung von Befähigungszeugnissen und die auf die Kosten entfallende Umsatzsteuer.
+(1) Für individuell zurechenbare öffentliche Leistungen nach den §§ 1 und 2 und den auf Grund des § 3 Absatz 1 bis 4, den §§ 3a und 3d erlassenen Rechtsverordnungen werden Gebühren und Auslagen erhoben. Die Pflicht zur Auslagenerstattung umfasst neben den nach § 10 Absatz 1 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung zu erhebenden Auslagen auch die Kosten für die zentrale Herstellung von Befähigungszeugnissen und die auf die Gebühren und Auslagen entfallende Umsatzsteuer.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung die Gebühren für die einzelnen Amtshandlungen im Sinne des Absatzes 1 zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den Amtshandlungen verbundene Personal- und Sachaufwand gedeckt wird; bei begünstigenden Amtshandlungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden.
+(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung die Gebühren für die einzelnen individuell zurechenbaren öffentlichen Leistungen im Sinne des Absatzes 1 zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand gedeckt wird; bei begünstigenden individuell zurechenbaren öffentlichen Leistungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden.
 
 ### § 5 Hamburger Hafen
 
@@ -347,7 +350,7 @@ Bau- und Verwendungsmerkmale mit den dazu erforderlichen Eintragungen aus den Sc
 Durchführung von Verwaltungsaufgaben
 
 a)  
-nach diesem Gesetz, der Gefahrgutverordnung Binnenschifffahrt vom 21. Dezember 1994 (BGBl. I S. 3971), zuletzt geändert durch die Verordnung vom 22. Dezember 1998 (BGBl. I S. 4049) oder der Verordnung zur Inkraftsetzung der Verordnung über die Beförderung gefährlicher Güter auf dem Rhein und der Verordnung über die Beförderung gefährlicher Güter auf der Mosel vom 21. Dezember 1994 (BGBl. 1994 II S. 3830), zuletzt geändert durch die Verordnung vom 22. Dezember 1998 (BGBl. 1998 II S. 3000) in ihrer jeweils geltenden Fassung oder
+nach diesem Gesetz, dem Gefahrgutbeförderungsgesetz und der auf Grund des Gefahrgutbeförderungsgesetzes erlassenen Rechtsverordnungen oder
 
 b)  
 auf Grund dieses Gesetzes oder des Seeaufgabengesetzes erlassener Rechtsvorschriften oder
@@ -358,7 +361,7 @@ auf Grund der Landeswassergesetze oder auf Grund dieser Gesetze erlassener Recht
 d)  
 auf Grund des Gesetzes zur Sicherung von Verkehrsleistungen vom 23. Juli 2004 (BGBl. I S. 1865), zuletzt geändert durch Artikel 304 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407),
 
-an die Dienststellen der Wasser- und Schifffahrtsverwaltung des Bundes oder der Wasserschutzpolizeien der Länder, an die obersten Dienststellen der Wasser- und Schifffahrtsverwaltungen der Länder, an die Binnenschifffahrts-Berufsgenossenschaft, an die See-Berufsgenossenschaft und an den Germanischen Lloyd,
+an die Dienststellen der Wasser- und Schifffahrtsverwaltung des Bundes oder der Wasserschutzpolizeien der Länder, an die obersten Dienststellen der Wasser- und Schifffahrtsverwaltungen der Länder, an die Berufsgenossenschaft für Transport und Verkehrswirtschaft und an die jeweilige deutsche Niederlassung der im Anhang VII der Anlage zur Binnenschiffsuntersuchungsordnung aufgeführten Klassifikationsgesellschaften,
 
 2.  
 Überprüfung von Angaben, die im Zusammenhang mit der Beantragung und Ausstellung der in Artikel 2 Abs. 3 der Revidierten Rheinschifffahrtsakte genannten Urkunde gemacht werden, an die vom Bundesministerium für Verkehr, Bau und Stadtentwicklung zu bestimmende Stelle,
@@ -367,11 +370,14 @@ an die Dienststellen der Wasser- und Schifffahrtsverwaltung des Bundes oder der 
 Verfolgung von Straftaten, die im Zusammenhang mit dem Schiffsverkehr oder sonst im Zusammenhang mit Wasserfahrzeugen oder Dokumenten, die das Schiff, seine Ladung oder Besatzung betreffen, stehen, oder Ordnungswidrigkeiten auf dem Gebiet der Schifffahrt an Gerichte, Staatsanwaltschaften, das Bundeskriminalamt als Strafverfolgungsbehörde, die Dienststellen der Wasser- und Schifffahrtsverwaltung des Bundes und der Wasserschutzpolizeien der Länder,
 
 4.  
-Überprüfung von Angaben in Zusammenhang mit den Regelungen des Energiesteuergesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen über den Bezug von steuerbegünstigten Kraftstoffen für die Schifffahrt an Dienststellen der Zollverwaltung des Bundes
+Überprüfung von Angaben in Zusammenhang mit den Regelungen des Energiesteuergesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen über den Bezug von steuerbegünstigten Kraftstoffen für die Schifffahrt an Dienststellen der Zollverwaltung des Bundes,
+
+5.  
+Durchführung der Marktbeobachtung nach § 14 des Güterkraftverkehrsgesetzes an das Bundesamt für Güterverkehr
 
 übermittelt werden.
 
-(6) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen übermittelt werden an die hierfür zuständigen Stellen anderer Staaten, soweit dies
+(6) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen übermittelt werden an die hierfür zuständigen Stellen anderer Staaten oder der Europäischen Union sowie an über- oder zwischenstaatliche Stellen oder internationale Organisationen, soweit dies
 
 1.  
 für Verwaltungsmaßnahmen auf dem Gebiet der Schifffahrt,
@@ -384,7 +390,9 @@ zur Verfolgung von Straftaten, die im Zusammenhang mit dem Schiffsverkehr oder s
 
 erforderlich ist. Der Empfänger ist darauf hinzuweisen, dass die Daten nur zu dem Zweck verarbeitet und genutzt werden dürfen, zu dem sie übermittelt worden sind. Die Übermittlung von personenbezogenen Daten ist auch dann, wenn beim Empfänger ein angemessener Datenschutzstandard nicht gewährleistet ist, zulässig, soweit sie zur Abwehr von erheblichen Gefahren für die Sicherheit des Schiffsverkehrs oder bei begründetem Verdacht für die Verhinderung oder Verfolgung von Straftaten nach dem Kriegswaffenkontrollgesetz oder dem Betäubungsmittelgesetz, die jeweils mit Freiheitsstrafe nicht unter einem Jahr bedroht sind, erforderlich ist.
 
-(7) Die nach Absatz 2 gespeicherten personenbezogenen Daten sind zu löschen, soweit sie für die Aufgaben nach Absatz 1 nicht mehr erforderlich sind, spätestens jedoch fünf Jahre, nachdem das Schiff entweder untergegangen und als endgültig verloren anzusehen oder nachdem es ausbesserungsunfähig geworden ist.
+(7) Die nach Absatz 1 zuständige Stelle übermittelt die in Anlage P des Anhangs II der Anlage zur Binnenschiffsuntersuchungsordnung genannten Angaben und alle Änderungen in automatisierter Form an die Europäische Kommision zur dortigen Einstellung in die von ihr geführte elektronische Schiffsdatenbank. Satz 1 gilt entsprechend, soweit die Europäische Kommission eine dritte Stelle mit der Führung der elektronischen Schiffsdatenbnak beauftragt.
+
+(8) Die nach Absatz 2 gespeicherten personenbezogenen Daten sind zu löschen, soweit sie für die Aufgaben nach Absatz 1 nicht mehr erforderlich sind, spätestens jedoch fünf Jahre, nachdem das Wasserfahrzeug entweder untergegangen und als endgültig verloren anzusehen oder nachdem es ausbesserungsunfähig geworden ist.
 
 ### § 10 Amtliche Mitteilung
 
