@@ -16,6 +16,7 @@ zuletzt geändert durch Art. 13 G v. 27.12.2003 I 3022
 ```
 
 Überschrift: IdF d. Art. 13 Nr. 1 G v. 27.12.2003 I 3022 mWv 1.1.2005
+
 Diese Verordnung wurde auf Grund Art. 2 § 1 V v. 15.1.1975 I 267 vom Bundesminister für Jugend, Familie und Gesundheit erlassen.
 
 Abschnitt I Personenkreis
