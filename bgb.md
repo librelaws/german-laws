@@ -5,13 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 20.2.2013 I 277
-
-Hinweis  
-Änderung durch Art. 1 G v. 11.3.2013 I 434 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 6 G v. 21.3.2013 I 556 (Nr. 15) noch nicht berücksichtigt
+zuletzt geändert durch Art. 7 G v. 7.5.2013 I 1122
 
 ### 
 
@@ -360,6 +354,10 @@ Mietverhältnisse über Wohnraum
 Kapitel 1
 
 Allgemeine Vorschriften
+
+Kapitel 1a
+
+Erhaltungs- und Modernisierungsmaßnahmen
 
 Kapitel 2
 
@@ -785,6 +783,10 @@ Unterkapitel 5
 
 Fortgesetzte Gütergemeinschaft
 
+Kapitel 4
+
+Wahl-Zugewinngemeinschaft
+
 Untertitel 3
 
 Güterrechtsregister
@@ -1177,11 +1179,17 @@ Durch die Satzung kann bestimmt werden, dass neben dem Vorstand für gewisse Ges
 
 Der Verein ist für den Schaden verantwortlich, den der Vorstand, ein Mitglied des Vorstands oder ein anderer verfassungsmäßig berufener Vertreter durch eine in Ausführung der ihm zustehenden Verrichtungen begangene, zum Schadensersatz verpflichtende Handlung einem Dritten zufügt.
 
-### § 31a Haftung von Vorstandsmitgliedern
+### § 31a Haftung von Organmitgliedern und besonderen Vertretern
 
-(1) Ein Vorstand, der unentgeltlich tätig ist oder für seine Tätigkeit eine Vergütung erhält, die 500 Euro jährlich nicht übersteigt, haftet dem Verein für einen in Wahrnehmung seiner Vorstandspflichten verursachten Schaden nur bei Vorliegen von Vorsatz oder grober Fahrlässigkeit. Satz 1 gilt auch für die Haftung gegenüber den Mitgliedern des Vereins.
+(1) Sind Organmitglieder oder besondere Vertreter unentgeltlich tätig oder erhalten sie für ihre Tätigkeit eine Vergütung, die 720 Euro jährlich nicht übersteigt, haften sie dem Verein für einen bei der Wahrnehmung ihrer Pflichten verursachten Schaden nur bei Vorliegen von Vorsatz oder grober Fahrlässigkeit. Satz 1 gilt auch für die Haftung gegenüber den Mitgliedern des Vereins. Ist streitig, ob ein Organmitglied oder ein besonderer Vertreter einen Schaden vorsätzlich oder grob fahrlässig verursacht hat, trägt der Verein oder das Vereinsmitglied die Beweislast.
 
-(2) Ist ein Vorstand nach Absatz 1 Satz 1 einem anderen zum Ersatz eines in Wahrnehmung seiner Vorstandspflichten verursachten Schadens verpflichtet, so kann er von dem Verein die Befreiung von der Verbindlichkeit verlangen. Satz 1 gilt nicht, wenn der Schaden vorsätzlich oder grob fahrlässig verursacht wurde.
+(2) Sind Organmitglieder oder besondere Vertreter nach Absatz 1 Satz 1 einem anderen zum Ersatz eines Schadens verpflichtet, den sie bei der Wahrnehmung ihrer Pflichten verursacht haben, so können sie von dem Verein die Befreiung von der Verbindlichkeit verlangen. Satz 1 gilt nicht, wenn der Schaden vorsätzlich oder grob fahrlässig verursacht wurde.
+
+### § 31b Haftung von Vereinsmitgliedern
+
+(1) Sind Vereinsmitglieder unentgeltlich für den Verein tätig oder erhalten sie für ihre Tätigkeit eine Vergütung, die 720 Euro jährlich nicht übersteigt, haften sie dem Verein für einen Schaden, den sie bei der Wahrnehmung der ihnen übertragenen satzungsgemäßen Vereinsaufgaben verursachen, nur bei Vorliegen von Vorsatz oder grober Fahrlässigkeit. § 31a Absatz 1 Satz 3 ist entsprechend anzuwenden.
+
+(2) Sind Vereinsmitglieder nach Absatz 1 Satz 1 einem anderen zum Ersatz eines Schadens verpflichtet, den sie bei der Wahrnehmung der ihnen übertragenen satzungsgemäßen Vereinsaufgaben verursacht haben, so können sie von dem Verein die Befreiung von der Verbindlichkeit verlangen. Satz 1 gilt nicht, wenn die Vereinsmitglieder den Schaden vorsätzlich oder grob fahrlässig verursacht haben.
 
 ### § 32 Mitgliederversammlung; Beschlussfassung
 
@@ -1493,13 +1501,13 @@ Untertitel 2 Stiftungen
 
 (1) Zur Entstehung einer rechtsfähigen Stiftung sind das Stiftungsgeschäft und die Anerkennung durch die zuständige Behörde des Landes erforderlich, in dem die Stiftung ihren Sitz haben soll.
 
-(2) Die Stiftung ist als rechtsfähig anzuerkennen, wenn das Stiftungsgeschäft den Anforderungen des § 81 Abs. 1 genügt, die dauernde und nachhaltige Erfüllung des Stiftungszwecks gesichert erscheint und der Stiftungszweck das Gemeinwohl nicht gefährdet.
+(2) Die Stiftung ist als rechtsfähig anzuerkennen, wenn das Stiftungsgeschäft den Anforderungen des § 81 Abs. 1 genügt, die dauernde und nachhaltige Erfüllung des Stiftungszwecks gesichert erscheint und der Stiftungszweck das Gemeinwohl nicht gefährdet. Bei einer Stiftung, die für eine bestimmte Zeit errichtet und deren Vermögen für die Zweckverfolgung verbraucht werden soll (Verbrauchsstiftung), erscheint die dauernde Erfüllung des Stiftungszwecks gesichert, wenn die Stiftung für einen im Stiftungsgeschäft festgelegten Zeitraum bestehen soll, der mindestens zehn Jahre umfasst.
 
 (3) Vorschriften der Landesgesetze über kirchliche Stiftungen bleiben unberührt. Das gilt entsprechend für Stiftungen, die nach den Landesgesetzen kirchlichen Stiftungen gleichgestellt sind.
 
 ### § 81 Stiftungsgeschäft
 
-(1) Das Stiftungsgeschäft unter Lebenden bedarf der schriftlichen Form. Es muss die verbindliche Erklärung des Stifters enthalten, ein Vermögen zur Erfüllung eines von ihm vorgegebenen Zweckes zu widmen. Durch das Stiftungsgeschäft muss die Stiftung eine Satzung erhalten mit Regelungen über
+(1) Das Stiftungsgeschäft unter Lebenden bedarf der schriftlichen Form. Es muss die verbindliche Erklärung des Stifters enthalten, ein Vermögen zur Erfüllung eines von ihm vorgegebenen Zweckes zu widmen, das auch zum Verbrauch bestimmt werden kann. Durch das Stiftungsgeschäft muss die Stiftung eine Satzung erhalten mit Regelungen über
 
 1.  
 den Namen der Stiftung,
@@ -5229,6 +5237,8 @@ Untertitel 1 Allgemeine Vorschriften für Mietverhältnisse
 
 (1) Hat die Mietsache zur Zeit der Überlassung an den Mieter einen Mangel, der ihre Tauglichkeit zum vertragsgemäßen Gebrauch aufhebt, oder entsteht während der Mietzeit ein solcher Mangel, so ist der Mieter für die Zeit, in der die Tauglichkeit aufgehoben ist, von der Entrichtung der Miete befreit. Für die Zeit, während der die Tauglichkeit gemindert ist, hat er nur eine angemessen herabgesetzte Miete zu entrichten. Eine unerhebliche Minderung der Tauglichkeit bleibt außer Betracht.
 
+(1a) Für die Dauer von drei Monaten bleibt eine Minderung der Tauglichkeit außer Betracht, soweit diese auf Grund einer Maßnahme eintritt, die einer energetischen Modernisierung nach § 555b Nummer 1 dient.
+
 (2) Absatz 1 Satz 1 und 2 gilt auch, wenn eine zugesicherte Eigenschaft fehlt oder später wegfällt.
 
 (3) Wird dem Mieter der vertragsgemäße Gebrauch der Mietsache durch das Recht eines Dritten ganz oder zum Teil entzogen, so gelten die Absätze 1 und 2 entsprechend.
@@ -5419,7 +5429,7 @@ Wird der Mietvertrag für längere Zeit als ein Jahr nicht in schriftlicher Form
 
 (1) Hat der Mieter dem Vermieter für die Erfüllung seiner Pflichten Sicherheit zu leisten, so darf diese vorbehaltlich des Absatzes 3 Satz 4 höchstens das Dreifache der auf einen Monat entfallenden Miete ohne die als Pauschale oder als Vorauszahlung ausgewiesenen Betriebskosten betragen.
 
-(2) Ist als Sicherheit eine Geldsumme bereitzustellen, so ist der Mieter zu drei gleichen monatlichen Teilzahlungen berechtigt. Die erste Teilzahlung ist zu Beginn des Mietverhältnisses fällig.
+(2) Ist als Sicherheit eine Geldsumme bereitzustellen, so ist der Mieter zu drei gleichen monatlichen Teilzahlungen berechtigt. Die erste Teilzahlung ist zu Beginn des Mietverhältnisses fällig. Die weiteren Teilzahlungen werden zusammen mit den unmittelbar folgenden Mietzahlungen fällig.
 
 (3) Der Vermieter hat eine ihm als Sicherheit überlassene Geldsumme bei einem Kreditinstitut zu dem für Spareinlagen mit dreimonatiger Kündigungsfrist üblichen Zinssatz anzulegen. Die Vertragsparteien können eine andere Anlageform vereinbaren. In beiden Fällen muss die Anlage vom Vermögen des Vermieters getrennt erfolgen und stehen die Erträge dem Mieter zu. Sie erhöhen die Sicherheit. Bei Wohnraum in einem Studenten- oder Jugendwohnheim besteht für den Vermieter keine Pflicht, die Sicherheitsleistung zu verzinsen.
 
@@ -5439,17 +5449,7 @@ Wird der Mietvertrag für längere Zeit als ein Jahr nicht in schriftlicher Form
 
 (3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
 
-### § 554 Duldung von Erhaltungs- und Modernisierungsmaßnahmen
-
-(1) Der Mieter hat Maßnahmen zu dulden, die zur Erhaltung der Mietsache erforderlich sind.
-
-(2) Maßnahmen zur Verbesserung der Mietsache, zur Einsparung von Energie oder Wasser oder zur Schaffung neuen Wohnraums hat der Mieter zu dulden. Dies gilt nicht, wenn die Maßnahme für ihn, seine Familie oder einen anderen Angehörigen seines Haushalts eine Härte bedeuten würde, die auch unter Würdigung der berechtigten Interessen des Vermieters und anderer Mieter in dem Gebäude nicht zu rechtfertigen ist. Dabei sind insbesondere die vorzunehmenden Arbeiten, die baulichen Folgen, vorausgegangene Aufwendungen des Mieters und die zu erwartende Mieterhöhung zu berücksichtigen. Die zu erwartende Mieterhöhung ist nicht als Härte anzusehen, wenn die Mietsache lediglich in einen Zustand versetzt wird, wie er allgemein üblich ist.
-
-(3) Bei Maßnahmen nach Absatz 2 Satz 1 hat der Vermieter dem Mieter spätestens drei Monate vor Beginn der Maßnahme deren Art sowie voraussichtlichen Umfang und Beginn, voraussichtliche Dauer und die zu erwartende Mieterhöhung in Textform mitzuteilen. Der Mieter ist berechtigt, bis zum Ablauf des Monats, der auf den Zugang der Mitteilung folgt, außerordentlich zum Ablauf des nächsten Monats zu kündigen. Diese Vorschriften gelten nicht bei Maßnahmen, die nur mit einer unerheblichen Einwirkung auf die vermieteten Räume verbunden sind und nur zu einer unerheblichen Mieterhöhung führen.
-
-(4) Aufwendungen, die der Mieter infolge einer Maßnahme nach Absatz 1 oder 2 Satz 1 machen musste, hat der Vermieter in angemessenem Umfang zu ersetzen. Auf Verlangen hat er Vorschuss zu leisten.
-
-(5) Eine zum Nachteil des Mieters von den Absätzen 2 bis 4 abweichende Vereinbarung ist unwirksam.
+### § 554 (weggefallen)
 
 ### § 554a Barrierefreiheit
 
@@ -5462,6 +5462,104 @@ Wird der Mietvertrag für längere Zeit als ein Jahr nicht in schriftlicher Form
 ### § 555 Unwirksamkeit einer Vertragsstrafe
 
 Eine Vereinbarung, durch die sich der Vermieter eine Vertragsstrafe vom Mieter versprechen lässt, ist unwirksam.
+
+Kapitel 1a Erhaltungs- und Modernisierungsmaßnahmen
+---------------------------------------------------
+
+### 
+
+### § 555a Erhaltungsmaßnahmen
+
+(1) Der Mieter hat Maßnahmen zu dulden, die zur Instandhaltung oder Instandsetzung der Mietsache erforderlich sind (Erhaltungsmaßnahmen).
+
+(2) Erhaltungsmaßnahmen sind dem Mieter rechtzeitig anzukündigen, es sei denn, sie sind nur mit einer unerheblichen Einwirkung auf die Mietsache verbunden oder ihre sofortige Durchführung ist zwingend erforderlich.
+
+(3) Aufwendungen, die der Mieter infolge einer Erhaltungsmaßnahme machen muss, hat der Vermieter in angemessenem Umfang zu ersetzen. Auf Verlangen hat er Vorschuss zu leisten.
+
+(4) Eine zum Nachteil des Mieters von Absatz 2 oder 3 abweichende Vereinbarung ist unwirksam.
+
+### § 555b Modernisierungsmaßnahmen
+
+Modernisierungsmaßnahmen sind bauliche Veränderungen,
+
+1.  
+durch die in Bezug auf die Mietsache Endenergie nachhaltig eingespart wird (energetische Modernisierung),
+
+2.  
+durch die nicht erneuerbare Primärenergie nachhaltig eingespart oder das Klima nachhaltig geschützt wird, sofern nicht bereits eine energetische Modernisierung nach Nummer 1 vorliegt,
+
+3.  
+durch die der Wasserverbrauch nachhaltig reduziert wird,
+
+4.  
+durch die der Gebrauchswert der Mietsache nachhaltig erhöht wird,
+
+5.  
+durch die die allgemeinen Wohnverhältnisse auf Dauer verbessert werden,
+
+6.  
+die auf Grund von Umständen durchgeführt werden, die der Vermieter nicht zu vertreten hat, und die keine Erhaltungsmaßnahmen nach § 555a sind, oder
+
+7.  
+durch die neuer Wohnraum geschaffen wird.
+
+### § 555c Ankündigung von Modernisierungsmaßnahmen
+
+(1) Der Vermieter hat dem Mieter eine Modernisierungsmaßnahme spätestens drei Monate vor ihrem Beginn in Textform anzukündigen (Modernisierungsankündigung). Die Modernisierungsankündigung muss Angaben enthalten über:
+
+1.  
+die Art und den voraussichtlichen Umfang der Modernisierungsmaßnahme in wesentlichen Zügen,
+
+2.  
+den voraussichtlichen Beginn und die voraussichtliche Dauer der Modernisierungsmaßnahme,
+
+3.  
+den Betrag der zu erwartenden Mieterhöhung, sofern eine Erhöhung nach § 559 verlangt werden soll, sowie die voraussichtlichen künftigen Betriebskosten.
+
+(2) Der Vermieter soll den Mieter in der Modernisierungsankündigung auf die Form und die Frist des Härteeinwands nach § 555d Absatz 3 Satz 1 hinweisen.
+
+(3) In der Modernisierungsankündigung für eine Modernisierungsmaßnahme nach § 555b Nummer 1 und 2 kann der Vermieter insbesondere hinsichtlich der energetischen Qualität von Bauteilen auf allgemein anerkannte Pauschalwerte Bezug nehmen.
+
+(4) Die Absätze 1 bis 3 gelten nicht für Modernisierungsmaßnahmen, die nur mit einer unerheblichen Einwirkung auf die Mietsache verbunden sind und nur zu einer unerheblichen Mieterhöhung führen.
+
+(5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+
+### § 555d Duldung von Modernisierungsmaßnahmen, Ausschlussfrist
+
+(1) Der Mieter hat eine Modernisierungsmaßnahme zu dulden.
+
+(2) Eine Duldungspflicht nach Absatz 1 besteht nicht, wenn die Modernisierungsmaßnahme für den Mieter, seine Familie oder einen Angehörigen seines Haushalts eine Härte bedeuten würde, die auch unter Würdigung der berechtigten Interessen sowohl des Vermieters als auch anderer Mieter in dem Gebäude sowie von Belangen der Energieeinsparung und des Klimaschutzes nicht zu rechtfertigen ist. Die zu erwartende Mieterhöhung sowie die voraussichtlichen künftigen Betriebskosten bleiben bei der Abwägung im Rahmen der Duldungspflicht außer Betracht; sie sind nur nach § 559 Absatz 4 und 5 bei einer Mieterhöhung zu berücksichtigen.
+
+(3) Der Mieter hat dem Vermieter Umstände, die eine Härte im Hinblick auf die Duldung oder die Mieterhöhung begründen, bis zum Ablauf des Monats, der auf den Zugang der Modernisierungsankündigung folgt, in Textform mitzuteilen. Der Lauf der Frist beginnt nur, wenn die Modernisierungsankündigung den Vorschriften des § 555c entspricht.
+
+(4) Nach Ablauf der Frist sind Umstände, die eine Härte im Hinblick auf die Duldung oder die Mieterhöhung begründen, noch zu berücksichtigen, wenn der Mieter ohne Verschulden an der Einhaltung der Frist gehindert war und er dem Vermieter die Umstände sowie die Gründe der Verzögerung unverzüglich in Textform mitteilt. Umstände, die eine Härte im Hinblick auf die Mieterhöhung begründen, sind nur zu berücksichtigen, wenn sie spätestens bis zum Beginn der Modernisierungsmaßnahme mitgeteilt werden.
+
+(5) Hat der Vermieter in der Modernisierungsankündigung nicht auf die Form und die Frist des Härteeinwands hingewiesen (§ 555c Absatz 2), so bedarf die Mitteilung des Mieters nach Absatz 3 Satz 1 nicht der dort bestimmten Form und Frist. Absatz 4 Satz 2 gilt entsprechend.
+
+(6) § 555a Absatz 3 gilt entsprechend.
+
+(7) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+
+### § 555e Sonderkündigungsrecht des Mieters bei Modernisierungsmaßnahmen
+
+(1) Nach Zugang der Modernisierungsankündigung kann der Mieter das Mietverhältnis außerordentlich zum Ablauf des übernächsten Monats kündigen. Die Kündigung muss bis zum Ablauf des Monats erfolgen, der auf den Zugang der Modernisierungsankündigung folgt.
+
+(2) § 555c Absatz 4 gilt entsprechend.
+
+(3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+
+### § 555f Vereinbarungen über Erhaltungs- oder Modernisierungsmaßnahmen
+
+Die Vertragsparteien können nach Abschluss des Mietvertrags aus Anlass von Erhaltungs- oder Modernisierungsmaßnahmen Vereinbarungen treffen, insbesondere über die
+
+1.  
+zeitliche und technische Durchführung der Maßnahmen,
+
+2.  
+Gewährleistungsrechte und Aufwendungsersatzansprüche des Mieters,
+
+3.  
+künftige Höhe der Miete.
 
 Kapitel 2 Die Miete
 -------------------
@@ -5554,9 +5652,9 @@ Unterkapitel 2 Regelungen über die Miethöhe
 
 (1) Der Vermieter kann die Zustimmung zu einer Erhöhung der Miete bis zur ortsüblichen Vergleichsmiete verlangen, wenn die Miete in dem Zeitpunkt, zu dem die Erhöhung eintreten soll, seit 15 Monaten unverändert ist. Das Mieterhöhungsverlangen kann frühestens ein Jahr nach der letzten Mieterhöhung geltend gemacht werden. Erhöhungen nach den §§ 559 bis 560 werden nicht berücksichtigt.
 
-(2) Die ortsübliche Vergleichsmiete wird gebildet aus den üblichen Entgelten, die in der Gemeinde oder einer vergleichbaren Gemeinde für Wohnraum vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage in den letzten vier Jahren vereinbart oder, von Erhöhungen nach § 560 abgesehen, geändert worden sind. Ausgenommen ist Wohnraum, bei dem die Miethöhe durch Gesetz oder im Zusammenhang mit einer Förderzusage festgelegt worden ist.
+(2) Die ortsübliche Vergleichsmiete wird gebildet aus den üblichen Entgelten, die in der Gemeinde oder einer vergleichbaren Gemeinde für Wohnraum vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage einschließlich der energetischen Ausstattung und Beschaffenheit in den letzten vier Jahren vereinbart oder, von Erhöhungen nach § 560 abgesehen, geändert worden sind. Ausgenommen ist Wohnraum, bei dem die Miethöhe durch Gesetz oder im Zusammenhang mit einer Förderzusage festgelegt worden ist.
 
-(3) Bei Erhöhungen nach Absatz 1 darf sich die Miete innerhalb von drei Jahren, von Erhöhungen nach den §§ 559 bis 560 abgesehen, nicht um mehr als 20 vom Hundert erhöhen (Kappungsgrenze).
+(3) Bei Erhöhungen nach Absatz 1 darf sich die Miete innerhalb von drei Jahren, von Erhöhungen nach den §§ 559 bis 560 abgesehen, nicht um mehr als 20 vom Hundert erhöhen (Kappungsgrenze). Der Prozentsatz nach Satz 1 beträgt 15 vom Hundert, wenn die ausreichende Versorgung der Bevölkerung mit Mietwohnungen zu angemessenen Bedingungen in einer Gemeinde oder einem Teil einer Gemeinde besonders gefährdet ist und diese Gebiete nach Satz 3 bestimmt sind. Die Landesregierungen werden ermächtigt, diese Gebiete durch Rechtsverordnung für die Dauer von jeweils höchstens fünf Jahren zu bestimmen.
 
 (4) Die Kappungsgrenze gilt nicht,
 
@@ -5630,21 +5728,33 @@ entsprechende Entgelte für einzelne vergleichbare Wohnungen; hierbei genügt di
 
 Eine Mietdatenbank ist eine zur Ermittlung der ortsüblichen Vergleichsmiete fortlaufend geführte Sammlung von Mieten, die von der Gemeinde oder von Interessenvertretern der Vermieter und der Mieter gemeinsam geführt oder anerkannt wird und aus der Auskünfte gegeben werden, die für einzelne Wohnungen einen Schluss auf die ortsübliche Vergleichsmiete zulassen.
 
-### § 559 Mieterhöhung bei Modernisierung
+### § 559 Mieterhöhung nach Modernisierungsmaßnahmen
 
-(1) Hat der Vermieter bauliche Maßnahmen durchgeführt, die den Gebrauchswert der Mietsache nachhaltig erhöhen, die allgemeinen Wohnverhältnisse auf Dauer verbessern oder nachhaltig Einsparungen von Energie oder Wasser bewirken (Modernisierung), oder hat er andere bauliche Maßnahmen auf Grund von Umständen durchgeführt, die er nicht zu vertreten hat, so kann er die jährliche Miete um 11 vom Hundert der für die Wohnung aufgewendeten Kosten erhöhen.
+(1) Hat der Vermieter Modernisierungsmaßnahmen im Sinne des § 555b Nummer 1, 3, 4, 5 oder 6 durchgeführt, so kann er die jährliche Miete um 11 Prozent der für die Wohnung aufgewendeten Kosten erhöhen.
 
-(2) Sind die baulichen Maßnahmen für mehrere Wohnungen durchgeführt worden, so sind die Kosten angemessen auf die einzelnen Wohnungen aufzuteilen.
+(2) Kosten, die für Erhaltungsmaßnahmen erforderlich gewesen wären, gehören nicht zu den aufgewendeten Kosten nach Absatz 1; sie sind, soweit erforderlich, durch Schätzung zu ermitteln.
 
-(3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
+(3) Werden Modernisierungsmaßnahmen für mehrere Wohnungen durchgeführt, so sind die Kosten angemessen auf die einzelnen Wohnungen aufzuteilen.
+
+(4) Die Mieterhöhung ist ausgeschlossen, soweit sie auch unter Berücksichtigung der voraussichtlichen künftigen Betriebskosten für den Mieter eine Härte bedeuten würde, die auch unter Würdigung der berechtigten Interessen des Vermieters nicht zu rechtfertigen ist. Eine Abwägung nach Satz 1 findet nicht statt, wenn
+
+1.  
+die Mietsache lediglich in einen Zustand versetzt wurde, der allgemein üblich ist, oder
+
+2.  
+die Modernisierungsmaßnahme auf Grund von Umständen durchgeführt wurde, die der Vermieter nicht zu vertreten hatte.
+
+(5) Umstände, die eine Härte nach Absatz 4 Satz 1 begründen, sind nur zu berücksichtigen, wenn sie nach § 555d Absatz 3 bis 5 rechtzeitig mitgeteilt worden sind. Die Bestimmungen über die Ausschlussfrist nach Satz 1 sind nicht anzuwenden, wenn die tatsächliche Mieterhöhung die angekündigte um mehr als 10 Prozent übersteigt.
+
+(6) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
 
 ### § 559a Anrechnung von Drittmitteln
 
 (1) Kosten, die vom Mieter oder für diesen von einem Dritten übernommen oder die mit Zuschüssen aus öffentlichen Haushalten gedeckt werden, gehören nicht zu den aufgewendeten Kosten im Sinne des § 559.
 
-(2) Werden die Kosten für die baulichen Maßnahmen ganz oder teilweise durch zinsverbilligte oder zinslose Darlehen aus öffentlichen Haushalten gedeckt, so verringert sich der Erhöhungsbetrag nach § 559 um den Jahresbetrag der Zinsermäßigung. Dieser wird errechnet aus dem Unterschied zwischen dem ermäßigten Zinssatz und dem marktüblichen Zinssatz für den Ursprungsbetrag des Darlehens. Maßgebend ist der marktübliche Zinssatz für erstrangige Hypotheken zum Zeitpunkt der Beendigung der Maßnahmen. Werden Zuschüsse oder Darlehen zur Deckung von laufenden Aufwendungen gewährt, so verringert sich der Erhöhungsbetrag um den Jahresbetrag des Zuschusses oder Darlehens.
+(2) Werden die Kosten für die Modernisierungsmaßnahmen ganz oder teilweise durch zinsverbilligte oder zinslose Darlehen aus öffentlichen Haushalten gedeckt, so verringert sich der Erhöhungsbetrag nach § 559 um den Jahresbetrag der Zinsermäßigung. Dieser wird errechnet aus dem Unterschied zwischen dem ermäßigten Zinssatz und dem marktüblichen Zinssatz für den Ursprungsbetrag des Darlehens. Maßgebend ist der marktübliche Zinssatz für erstrangige Hypotheken zum Zeitpunkt der Beendigung der Modernisierungsmaßnahmen. Werden Zuschüsse oder Darlehen zur Deckung von laufenden Aufwendungen gewährt, so verringert sich der Erhöhungsbetrag um den Jahresbetrag des Zuschusses oder Darlehens.
 
-(3) Ein Mieterdarlehen, eine Mietvorauszahlung oder eine von einem Dritten für den Mieter erbrachte Leistung für die baulichen Maßnahmen stehen einem Darlehen aus öffentlichen Haushalten gleich. Mittel der Finanzierungsinstitute des Bundes oder eines Landes gelten als Mittel aus öffentlichen Haushalten.
+(3) Ein Mieterdarlehen, eine Mietvorauszahlung oder eine von einem Dritten für den Mieter erbrachte Leistung für die Modernisierungsmaßnahmen stehen einem Darlehen aus öffentlichen Haushalten gleich. Mittel der Finanzierungsinstitute des Bundes oder eines Landes gelten als Mittel aus öffentlichen Haushalten.
 
 (4) Kann nicht festgestellt werden, in welcher Höhe Zuschüsse oder Darlehen für die einzelnen Wohnungen gewährt worden sind, so sind sie nach dem Verhältnis der für die einzelnen Wohnungen aufgewendeten Kosten aufzuteilen.
 
@@ -5652,9 +5762,15 @@ Eine Mietdatenbank ist eine zur Ermittlung der ortsüblichen Vergleichsmiete for
 
 ### § 559b Geltendmachung der Erhöhung, Wirkung der Erhöhungserklärung
 
-(1) Die Mieterhöhung nach § 559 ist dem Mieter in Textform zu erklären. Die Erklärung ist nur wirksam, wenn in ihr die Erhöhung auf Grund der entstandenen Kosten berechnet und entsprechend den Voraussetzungen der §§ 559 und 559a erläutert wird.
+(1) Die Mieterhöhung nach § 559 ist dem Mieter in Textform zu erklären. Die Erklärung ist nur wirksam, wenn in ihr die Erhöhung auf Grund der entstandenen Kosten berechnet und entsprechend den Voraussetzungen der §§ 559 und 559a erläutert wird. § 555c Absatz 3 gilt entsprechend.
 
-(2) Der Mieter schuldet die erhöhte Miete mit Beginn des dritten Monats nach dem Zugang der Erklärung. Die Frist verlängert sich um sechs Monate, wenn der Vermieter dem Mieter die zu erwartende Erhöhung der Miete nicht nach § 554 Abs. 3 Satz 1 mitgeteilt hat oder wenn die tatsächliche Mieterhöhung mehr als 10 vom Hundert höher ist als die mitgeteilte.
+(2) Der Mieter schuldet die erhöhte Miete mit Beginn des dritten Monats nach dem Zugang der Erklärung. Die Frist verlängert sich um sechs Monate, wenn
+
+1.  
+der Vermieter dem Mieter die Modernisierungsmaßnahme nicht nach den Vorschriften des § 555c Absatz 1 und 3 bis 5 angekündigt hat oder
+
+2.  
+die tatsächliche Mieterhöhung die angekündigte um mehr als 10 Prozent übersteigt.
 
 (3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
 
@@ -5815,6 +5931,8 @@ Unterkapitel 1 Allgemeine Vorschriften
 (1) Ein wichtiger Grund im Sinne des § 543 Abs. 1 liegt für den Mieter auch vor, wenn der gemietete Wohnraum so beschaffen ist, dass seine Benutzung mit einer erheblichen Gefährdung der Gesundheit verbunden ist. Dies gilt auch, wenn der Mieter die Gefahr bringende Beschaffenheit bei Vertragsschluss gekannt oder darauf verzichtet hat, die ihm wegen dieser Beschaffenheit zustehenden Rechte geltend zu machen.
 
 (2) Ein wichtiger Grund im Sinne des § 543 Abs. 1 liegt ferner vor, wenn eine Vertragspartei den Hausfrieden nachhaltig stört, so dass dem Kündigenden unter Berücksichtigung aller Umstände des Einzelfalls, insbesondere eines Verschuldens der Vertragsparteien, und unter Abwägung der beiderseitigen Interessen die Fortsetzung des Mietverhältnisses bis zum Ablauf der Kündigungsfrist oder bis zur sonstigen Beendigung des Mietverhältnisses nicht zugemutet werden kann.
+
+(2a) Ein wichtiger Grund im Sinne des § 543 Absatz 1 liegt ferner vor, wenn der Mieter mit einer Sicherheitsleistung nach § 551 in Höhe eines Betrages im Verzug ist, der der zweifachen Monatsmiete entspricht. Die als Pauschale oder als Vorauszahlung ausgewiesenen Betriebskosten sind bei der Berechnung der Monatsmiete nach Satz 1 nicht zu berücksichtigen. Einer Abhilfefrist oder einer Abmahnung nach § 543 Absatz 3 Satz 1 bedarf es nicht. Absatz 3 Nummer 2 Satz 1 sowie § 543 Absatz 2 Satz 2 sind entsprechend anzuwenden.
 
 (3) Ergänzend zu § 543 Abs. 2 Satz 1 Nr. 3 gilt:
 
@@ -6047,7 +6165,19 @@ Kapitel 6 Besonderheiten bei der Bildung von Wohnungseigentum an vermieteten Woh
 
 (1) Ist an vermieteten Wohnräumen nach der Überlassung an den Mieter Wohnungseigentum begründet und das Wohnungseigentum veräußert worden, so kann sich ein Erwerber auf berechtigte Interessen im Sinne des § 573 Abs. 2 Nr. 2 oder 3 erst nach Ablauf von drei Jahren seit der Veräußerung berufen.
 
-(2) Die Frist nach Absatz 1 beträgt bis zu zehn Jahre, wenn die ausreichende Versorgung der Bevölkerung mit Mietwohnungen zu angemessenen Bedingungen in einer Gemeinde oder einem Teil einer Gemeinde besonders gefährdet ist und diese Gebiete nach Satz 2 bestimmt sind. Die Landesregierungen werden ermächtigt, diese Gebiete und die Frist nach Satz 1 durch Rechtsverordnung für die Dauer von jeweils höchstens zehn Jahren zu bestimmen.
+(1a) Die Kündigungsbeschränkung nach Absatz 1 gilt entsprechend, wenn vermieteter Wohnraum nach der Überlassung an den Mieter
+
+1.  
+an eine Personengesellschaft oder an mehrere Erwerber veräußert worden ist oder
+
+2.  
+zu Gunsten einer Personengesellschaft oder mehrerer Erwerber mit einem Recht belastet worden ist, durch dessen Ausübung dem Mieter der vertragsgemäße Gebrauch entzogen wird.
+
+Satz 1 ist nicht anzuwenden, wenn die Gesellschafter oder Erwerber derselben Familie oder demselben Haushalt angehören oder vor Überlassung des Wohnraums an den Mieter Wohnungseigentum begründet worden ist.
+
+(2) Die Frist nach Absatz 1 oder nach Absatz 1a beträgt bis zu zehn Jahre, wenn die ausreichende Versorgung der Bevölkerung mit Mietwohnungen zu angemessenen Bedingungen in einer Gemeinde oder einem Teil einer Gemeinde besonders gefährdet ist und diese Gebiete nach Satz 2 bestimmt sind. Die Landesregierungen werden ermächtigt, diese Gebiete und die Frist nach Satz 1 durch Rechtsverordnung für die Dauer von jeweils höchstens zehn Jahren zu bestimmen.
+
+(2a) Wird nach einer Veräußerung oder Belastung im Sinne des Absatzes 1a Wohnungseigentum begründet, so beginnt die Frist, innerhalb der eine Kündigung nach § 573 Absatz 2 Nummer 2 oder 3 ausgeschlossen ist, bereits mit der Veräußerung oder Belastung nach Absatz 1a.
 
 (3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
 
@@ -6060,7 +6190,7 @@ Untertitel 3 Mietverhältnisse über andere Sachen
 
 (1) Auf Mietverhältnisse über Grundstücke sind die Vorschriften der §§ 550, 562 bis 562d, 566 bis 567b sowie 570 entsprechend anzuwenden.
 
-(2) Auf Mietverhältnisse über Räume, die keine Wohnräume sind, sind die in Absatz 1 genannten Vorschriften sowie § 552 Abs. 1, § 554 Abs. 1 bis 4 und § 569 Abs. 2 entsprechend anzuwenden. Sind die Räume zum Aufenthalt von Menschen bestimmt, so gilt außerdem § 569 Abs. 1 entsprechend.
+(2) Auf Mietverhältnisse über Räume, die keine Wohnräume sind, sind die in Absatz 1 genannten Vorschriften sowie § 552 Abs. 1, § 555a Absatz 1 bis 3, §§ 555b, 555c Absatz 1 bis 4, § 555d Absatz 1 bis 6, § 555e Absatz 1 und 2, § 555f und § 569 Abs. 2 entsprechend anzuwenden. § 556c Absatz 1 und 2 sowie die auf Grund des § 556c Absatz 3 erlassene Rechtsverordnung sind entsprechend anzuwenden, abweichende Vereinbarungen sind zulässig. Sind die Räume zum Aufenthalt von Menschen bestimmt, so gilt außerdem § 569 Abs. 1 entsprechend.
 
 ### § 578a Mietverhältnisse über eingetragene Schiffe
 
@@ -6070,7 +6200,7 @@ Untertitel 3 Mietverhältnisse über andere Sachen
 
 ### § 579 Fälligkeit der Miete
 
-(1) Die Miete für ein Grundstück, ein im Schiffsregister eingetragenes Schiff und für bewegliche Sachen ist am Ende der Mietzeit zu entrichten. Ist die Miete nach Zeitabschnitten bemessen, so ist sie nach Ablauf der einzelnen Zeitabschnitte zu entrichten. Die Miete für ein Grundstück ist, sofern sie nicht nach kürzeren Zeitabschnitten bemessen ist, jeweils nach Ablauf eines Kalendervierteljahrs am ersten Werktag des folgenden Monats zu entrichten.
+(1) Die Miete für ein Grundstück und für bewegliche Sachen ist am Ende der Mietzeit zu entrichten. Ist die Miete nach Zeitabschnitten bemessen, so ist sie nach Ablauf der einzelnen Zeitabschnitte zu entrichten. Die Miete für ein Grundstück ist, sofern sie nicht nach kürzeren Zeitabschnitten bemessen ist, jeweils nach Ablauf eines Kalendervierteljahrs am ersten Werktag des folgenden Monats zu entrichten.
 
 (2) Für Mietverhältnisse über Räume gilt § 556b Abs. 1 entsprechend.
 
@@ -6080,7 +6210,7 @@ Stirbt der Mieter, so ist sowohl der Erbe als auch der Vermieter berechtigt, das
 
 ### § 580a Kündigungsfristen
 
-(1) Bei einem Mietverhältnis über Grundstücke, über Räume, die keine Geschäftsräume sind, oder über im Schiffsregister eingetragene Schiffe ist die ordentliche Kündigung zulässig,
+(1) Bei einem Mietverhältnis über Grundstücke, über Räume, die keine Geschäftsräume sind, ist die ordentliche Kündigung zulässig,
 
 1.  
 wenn die Miete nach Tagen bemessen ist, an jedem Tag zum Ablauf des folgenden Tages;
@@ -6089,7 +6219,7 @@ wenn die Miete nach Tagen bemessen ist, an jedem Tag zum Ablauf des folgenden Ta
 wenn die Miete nach Wochen bemessen ist, spätestens am ersten Werktag einer Woche zum Ablauf des folgenden Sonnabends;
 
 3.  
-wenn die Miete nach Monaten oder längeren Zeitabschnitten bemessen ist, spätestens am dritten Werktag eines Kalendermonats zum Ablauf des übernächsten Monats, bei einem Mietverhältnis über gewerblich genutzte unbebaute Grundstücke oder im Schiffsregister eingetragene Schiffe jedoch nur zum Ablauf eines Kalendervierteljahrs.
+wenn die Miete nach Monaten oder längeren Zeitabschnitten bemessen ist, spätestens am dritten Werktag eines Kalendermonats zum Ablauf des übernächsten Monats, bei einem Mietverhältnis über gewerblich genutzte unbebaute Grundstücke jedoch nur zum Ablauf eines Kalendervierteljahrs.
 
 (2) Bei einem Mietverhältnis über Geschäftsräume ist die ordentliche Kündigung spätestens am dritten Werktag eines Kalendervierteljahres zum Ablauf des nächsten Kalendervierteljahrs zulässig.
 
@@ -12517,7 +12647,16 @@ Jeder Ehegatte kann den Betrag, den er nach § 1512 oder nach § 1513 Abs. 1 ein
 
 Anordnungen, die mit den Vorschriften der §§ 1483 bis 1517 in Widerspruch stehen, können von den Ehegatten weder durch letztwillige Verfügung noch durch Vertrag getroffen werden. Das Recht der Ehegatten, den Vertrag, durch den sie die Fortsetzung der Gütergemeinschaft vereinbart haben, durch Ehevertrag aufzuheben, bleibt unberührt.
 
-### (XXXX) §§ 1519 bis 1557 (weggefallen)
+Kapitel 4 Wahl-Zugewinngemeinschaft
+-----------------------------------
+
+### 
+
+### § 1519 Vereinbarung durch Ehevertrag
+
+Vereinbaren die Ehegatten durch Ehevertrag den Güterstand der Wahl-Zugewinngemeinschaft, so gelten die Vorschriften des Abkommens vom 4. Februar 2010 zwischen der Bundesrepublik Deutschland und der Französischen Republik über den Güterstand der Wahl-Zugewinngemeinschaft. § 1368 gilt entsprechend. § 1412 ist nicht anzuwenden.
+
+### (XXXX) §§ 1520 bis 1557 (weggefallen)
 
 Untertitel 3 Güterrechtsregister
 --------------------------------
@@ -13381,19 +13520,20 @@ Titel 5 Elterliche Sorge
 
 ### § 1626a Elterliche Sorge nicht miteinander verheirateter Eltern; Sorgeerklärungen
 
-(1) Sind die Eltern bei der Geburt des Kindes nicht miteinander verheiratet, so steht ihnen die elterliche Sorge dann gemeinsam zu, wenn sie
+(1) Sind die Eltern bei der Geburt des Kindes nicht miteinander verheiratet, so steht ihnen die elterliche Sorge gemeinsam zu,
 
 1.  
-erklären, dass sie die Sorge gemeinsam übernehmen wollen (Sorgeerklärungen), oder
+wenn sie erklären, dass sie die Sorge gemeinsam übernehmen wollen (Sorgeerklärungen),
 
 2.  
-einander heiraten.
+wenn sie einander heiraten oder
 
-(2) Im Übrigen hat die Mutter die elterliche Sorge.
+3.  
+soweit ihnen das Familiengericht die elterliche Sorge gemeinsam überträgt.
 
-(+++ § 1626a: Zur Anwendung vgl. BVerfGE v. 21.7.2010 I 1173 - 1 BvR 420/09 - +++)
-§ 1626a idF v. 16.12.1997: Nach Maßgabe der Entscheidungsformel mit Art. 6 Abs. 2 u. 5 (GG 100-1) unvereinbar gem. BVerfGE v. 29.1.2003 I 274 - 1 BvL 20/99, 1 BvR 933/01 -
-§ 1626a Abs. 1 Nr. 1 idF v. 16.12.1997: Mit Art. 6 Abs. 2 GG (100-1) unvereinbar gem. BVerfGE v. 21.7.2010 I 1173 - 1 BvR 420/09 -
+(2) Das Familiengericht überträgt gemäß Absatz 1 Nummer 3 auf Antrag eines Elternteils die elterliche Sorge oder einen Teil der elterlichen Sorge beiden Eltern gemeinsam, wenn die Übertragung dem Kindeswohl nicht widerspricht. Trägt der andere Elternteil keine Gründe vor, die der Übertragung der gemeinsamen elterlichen Sorge entgegenstehen können, und sind solche Gründe auch sonst nicht ersichtlich, wird vermutet, dass die gemeinsame elterliche Sorge dem Kindeswohl nicht widerspricht.
+
+(3) Im Übrigen hat die Mutter die elterliche Sorge.
 
 ### § 1626b Besondere Wirksamkeitsvoraussetzungen der Sorgeerklärung
 
@@ -13401,7 +13541,7 @@ einander heiraten.
 
 (2) Die Sorgeerklärung kann schon vor der Geburt des Kindes abgegeben werden.
 
-(3) Eine Sorgeerklärung ist unwirksam, soweit eine gerichtliche Entscheidung über die elterliche Sorge nach den §§ 1671, 1672 getroffen oder eine solche Entscheidung nach § 1696 Abs. 1 geändert wurde..
+(3) Eine Sorgeerklärung ist unwirksam, soweit eine gerichtliche Entscheidung über die elterliche Sorge nach den § 1626a Absatz 1 Nummer 3 oder § 1671 getroffen oder eine solche Entscheidung nach § 1696 Absatz 1 Satz 1 geändert wurde.
 
 ### § 1626c Persönliche Abgabe; beschränkt geschäftsfähiger Elternteil
 
@@ -13413,7 +13553,7 @@ einander heiraten.
 
 (1) Sorgeerklärungen und Zustimmungen müssen öffentlich beurkundet werden.
 
-(2) Die beurkundende Stelle teilt die Abgabe von Sorgeerklärungen und Zustimmungen unter Angabe des Geburtsdatums und des Geburtsorts des Kindes sowie des Namens, den das Kind zur Zeit der Beurkundung seiner Geburt geführt hat, dem nach § 87c Abs. 6 Satz 2 des Achten Buches Sozialgesetzbuch zuständigen Jugendamt zum Zwecke der Auskunftserteilung nach § 58a des Achten Buches Sozialgesetzbuch unverzüglich mit.
+(2) Die beurkundende Stelle teilt die Abgabe von Sorgeerklärungen und Zustimmungen unter Angabe des Geburtsdatums und des Geburtsorts des Kindes sowie des Namens, den das Kind zur Zeit der Beurkundung seiner Geburt geführt hat, dem nach § 87c Abs. 6 Satz 2 des Achten Buches Sozialgesetzbuch zuständigen Jugendamt zu den in § 58a des Achten Buches Sozialgesetzbuch genannten Zwecken unverzüglich mit.
 
 ### § 1626e Unwirksamkeit
 
@@ -13627,28 +13767,29 @@ die teilweise oder vollständige Entziehung der elterlichen Sorge.
 
 ### (XXXX) §§ 1668 bis 1670 (weggefallen)
 
-### § 1671 Getrenntleben bei gemeinsamer elterlicher Sorge
+### § 1671 Übertragung der Alleinsorge bei Getrenntleben der Eltern
 
-(1) Leben Eltern, denen die elterliche Sorge gemeinsam zusteht, nicht nur vorübergehend getrennt, so kann jeder Elternteil beantragen, dass ihm das Familiengericht die elterliche Sorge oder einen Teil der elterlichen Sorge allein überträgt.
-
-(2) Dem Antrag ist stattzugeben, soweit
+(1) Leben Eltern nicht nur vorübergehend getrennt und steht ihnen die elterliche Sorge gemeinsam zu, so kann jeder Elternteil beantragen, dass ihm das Familiengericht die elterliche Sorge oder einen Teil der elterlichen Sorge allein überträgt. Dem Antrag ist stattzugeben, soweit
 
 1.  
-der andere Elternteil zustimmt, es sei denn, dass das Kind das 14. Lebensjahr vollendet hat und der Übertragung widerspricht, oder
+der andere Elternteil zustimmt, es sei denn, das Kind hat das 14. Lebensjahr vollendet und widerspricht der Übertragung, oder
 
 2.  
 zu erwarten ist, dass die Aufhebung der gemeinsamen Sorge und die Übertragung auf den Antragsteller dem Wohl des Kindes am besten entspricht.
 
-(3) Dem Antrag ist nicht stattzugeben, soweit die elterliche Sorge auf Grund anderer Vorschriften abweichend geregelt werden muss.
+(2) Leben Eltern nicht nur vorübergehend getrennt und steht die elterliche Sorge nach § 1626a Absatz 3 der Mutter zu, so kann der Vater beantragen, dass ihm das Familiengericht die elterliche Sorge oder einen Teil der elterlichen Sorge allein überträgt. Dem Antrag ist stattzugeben, soweit
 
-### § 1672 Getrenntleben bei elterlicher Sorge der Mutter
+1.  
+die Mutter zustimmt, es sei denn, die Übertragung widerspricht dem Wohl des Kindes oder das Kind hat das 14. Lebensjahr vollendet und widerspricht der Übertragung, oder
 
-(1) Leben die Eltern nicht nur vorübergehend getrennt und steht die elterliche Sorge nach § 1626a Abs. 2 der Mutter zu, so kann der Vater mit Zustimmung der Mutter beantragen, dass ihm das Familiengericht die elterliche Sorge oder einen Teil der elterlichen Sorge allein überträgt. Dem Antrag ist stattzugeben, wenn die Übertragung dem Wohl des Kindes dient.
+2.  
+eine gemeinsame Sorge nicht in Betracht kommt und zu erwarten ist, dass die Übertragung auf den Vater dem Wohl des Kindes am besten entspricht.
 
-(2) Soweit eine Übertragung nach Absatz 1 stattgefunden hat, kann das Familiengericht auf Antrag eines Elternteils mit Zustimmung des anderen Elternteils entscheiden, dass die elterliche Sorge den Eltern gemeinsam zusteht, wenn dies dem Wohl des Kindes nicht widerspricht. Das gilt auch, soweit die Übertragung nach Absatz 1 wieder aufgehoben wurde.
+(3) Ruht die elterliche Sorge der Mutter nach § 1751 Absatz 1 Satz 1, so gilt der Antrag des Vaters auf Übertragung der gemeinsamen elterlichen Sorge nach § 1626a Absatz 2 als Antrag nach Absatz 2. Dem Antrag ist stattzugeben, soweit die Übertragung der elterlichen Sorge auf den Vater dem Wohl des Kindes nicht widerspricht.
 
-(+++ § 1672: Zur Anwendung vgl. BVerfGE v. 21.7.2010 I 1173 - 1 BvR 420/09 - +++)
-§ 1672 Abs. 1 idF v. 16.12.1997: Mit Art. 6 Abs. 2 GG (100-1) unvereinbar gem. BVerfGE v. 21.7.2010 I 1173 - 1 BvR 420/09 -
+(4) Den Anträgen nach den Absätzen 1 und 2 ist nicht stattzugeben, soweit die elterliche Sorge auf Grund anderer Vorschriften abweichend geregelt werden muss.
+
+### § 1672 (weggefallen)
 
 ### § 1673 Ruhen der elterlichen Sorge bei rechtlichem Hindernis
 
@@ -13676,9 +13817,9 @@ Die elterliche Sorge eines Elternteils endet, wenn er für tot erklärt oder sei
 
 ### § 1678 Folgen der tatsächlichen Verhinderung oder des Ruhens für den anderen Elternteil
 
-(1) Ist ein Elternteil tatsächlich verhindert, die elterliche Sorge auszuüben, oder ruht seine elterliche Sorge, so übt der andere Teil die elterliche Sorge allein aus; dies gilt nicht, wenn die elterliche Sorge dem Elternteil nach § 1626a Abs. 2, § 1671 oder § 1672 Abs. 1 allein zustand.
+(1) Ist ein Elternteil tatsächlich verhindert, die elterliche Sorge auszuüben, oder ruht seine elterliche Sorge, so übt der andere Teil die elterliche Sorge allein aus; dies gilt nicht, wenn die elterliche Sorge dem Elternteil nach § 1626a Absatz 3 oder § 1671 allein zustand.
 
-(2) Ruht die elterliche Sorge des Elternteils, dem sie nach § 1626a Abs. 2 allein zustand, und besteht keine Aussicht, dass der Grund des Ruhens wegfallen werde, so hat das Familiengericht die elterliche Sorge dem anderen Elternteil zu übertragen, wenn dies dem Wohl des Kindes dient.
+(2) Ruht die elterliche Sorge des Elternteils, dem sie gemäß § 1626a Absatz 3 oder § 1671 allein zustand, und besteht keine Aussicht, dass der Grund des Ruhens wegfallen werde, so hat das Familiengericht die elterliche Sorge dem anderen Elternteil zu übertragen, wenn dies dem Wohl des Kindes nicht widerspricht.
 
 ### § 1679
 
@@ -13688,9 +13829,9 @@ Die elterliche Sorge eines Elternteils endet, wenn er für tot erklärt oder sei
 
 (1) Stand die elterliche Sorge den Eltern gemeinsam zu und ist ein Elternteil gestorben, so steht die elterliche Sorge dem überlebenden Elternteil zu.
 
-(2) Ist ein Elternteil, dem die elterliche Sorge gemäß § 1671 oder § 1672 Abs. 1 allein zustand, gestorben, so hat das Familiengericht die elterliche Sorge dem überlebenden Elternteil zu übertragen, wenn dies dem Wohl des Kindes nicht widerspricht. Stand die elterliche Sorge der Mutter gemäß § 1626a Abs. 2 allein zu, so hat das Familiengericht die elterliche Sorge dem Vater zu übertragen, wenn dies dem Wohl des Kindes dient.
+(2) Ist ein Elternteil, dem die elterliche Sorge gemäß § 1626a Absatz 3 oder § 1671 allein zustand, gestorben, so hat das Familiengericht die elterliche Sorge dem überlebenden Elternteil zu übertragen, wenn dies dem Wohl des Kindes nicht widerspricht.
 
-(3) Absatz 1 und Absatz 2 Satz 2 gelten entsprechend, soweit einem Elternteil, dem die elterliche Sorge gemeinsam mit dem anderen Elternteil oder gemäß § 1626a Abs. 2 allein zustand, die elterliche Sorge entzogen wird.
+(3) Die Absätze 1 und 2 gelten entsprechend, soweit einem Elternteil die elterliche Sorge entzogen wird.
 
 ### § 1681 Todeserklärung eines Elternteils
 
@@ -13768,7 +13909,7 @@ Sind die Eltern verhindert, die elterliche Sorge auszuüben, so hat das Familien
 
 ### § 1696 Abänderung gerichtlicher Entscheidungen und gerichtlich gebilligter Vergleiche
 
-(1) Eine Entscheidung zum Sorge- oder Umgangsrecht oder ein gerichtlich gebilligter Vergleich ist zu ändern, wenn dies aus triftigen, das Wohl des Kindes nachhaltig berührenden Gründen angezeigt ist. § 1672 Abs. 2, § 1680 Abs. 2 Satz 1 sowie § 1681 Abs. 1 und 2 bleiben unberührt.
+(1) Eine Entscheidung zum Sorge- oder Umgangsrecht oder ein gerichtlich gebilligter Vergleich ist zu ändern, wenn dies aus triftigen, das Wohl des Kindes nachhaltig berührenden Gründen angezeigt ist. Entscheidungen nach § 1626a Absatz 2 können gemäß § 1671 Absatz 1 geändert werden; § 1671 Absatz 4 gilt entsprechend. § 1678 Absatz 2, § 1680 Absatz 2 sowie § 1681 Absatz 1 und 2 bleiben unberührt.
 
 (2) Eine Maßnahme nach den §§ 1666 bis 1667 oder einer anderen Vorschrift des Bürgerlichen Gesetzbuchs, die nur ergriffen werden darf, wenn dies zur Abwendung einer Kindeswohlgefährdung oder zum Wohl des Kindes erforderlich ist (kindesschutzrechtliche Maßnahme), ist aufzuheben, wenn eine Gefahr für das Wohl des Kindes nicht mehr besteht oder die Erforderlichkeit der Maßnahme entfallen ist.
 
@@ -13887,16 +14028,16 @@ Die Annahme darf nicht ausgesprochen werden, wenn ihr überwiegende Interessen d
 
 (2) Die Einwilligung kann erst erteilt werden, wenn das Kind acht Wochen alt ist. Sie ist auch dann wirksam, wenn der Einwilligende die schon feststehenden Annehmenden nicht kennt.
 
-(3) Sind die Eltern nicht miteinander verheiratet und haben sie keine Sorgeerklärungen abgegeben,
+(3) Steht nicht miteinander verheirateten Eltern die elterliche Sorge nicht gemeinsam zu, so
 
 1.  
 kann die Einwilligung des Vaters bereits vor der Geburt erteilt werden;
 
 2.  
-darf, wenn der Vater die Übertragung der Sorge nach § 1672 Abs. 1 beantragt hat, eine Annahme erst ausgesprochen werden, nachdem über den Antrag des Vaters entschieden worden ist;
+kann der Vater durch öffentlich beurkundete Erklärung darauf verzichten, die Übertragung der Sorge nach § 1626a Absatz 2 und § 1671 Absatz 2 zu beantragen; § 1750 gilt sinngemäß mit Ausnahme von Absatz 1 Satz 2 und Absatz 4 Satz 1;
 
 3.  
-kann der Vater darauf verzichten, die Übertragung der Sorge nach § 1672 Abs. 1 zu beantragen. Die Verzichtserklärung muss öffentlich beurkundet werden. § 1750 gilt sinngemäß mit Ausnahme von Absatz 4 Satz 1.
+darf, wenn der Vater die Übertragung der Sorge nach § 1626a Absatz 2 oder § 1671 Absatz 2 beantragt hat, eine Annahme erst ausgesprochen werden, nachdem über den Antrag des Vaters entschieden worden ist.
 
 (4) Die Einwilligung eines Elternteils ist nicht erforderlich, wenn er zur Abgabe einer Erklärung dauernd außerstande oder sein Aufenthalt dauernd unbekannt ist.
 
@@ -13908,7 +14049,7 @@ kann der Vater darauf verzichten, die Übertragung der Sorge nach § 1672 Abs. 1
 
 (3) Die Einwilligung eines Elternteils kann ferner ersetzt werden, wenn er wegen einer besonders schweren psychischen Krankheit oder einer besonders schweren geistigen oder seelischen Behinderung zur Pflege und Erziehung des Kindes dauernd unfähig ist und wenn das Kind bei Unterbleiben der Annahme nicht in einer Familie aufwachsen könnte und dadurch in seiner Entwicklung schwer gefährdet wäre.
 
-(4) In den Fällen des § 1626a Abs. 2 hat das Familiengericht die Einwilligung des Vaters zu ersetzen, wenn das Unterbleiben der Annahme dem Kind zu unverhältnismäßigem Nachteil gereichen würde.
+(4) In den Fällen des § 1626a Absatz 3 hat das Familiengericht die Einwilligung des Vaters zu ersetzen, wenn das Unterbleiben der Annahme dem Kind zu unverhältnismäßigem Nachteil gereichen würde.
 
 ### § 1749 Einwilligung des Ehegatten
 
@@ -13930,11 +14071,11 @@ kann der Vater darauf verzichten, die Übertragung der Sorge nach § 1672 Abs. 1
 
 ### § 1751 Wirkung der elterlichen Einwilligung, Verpflichtung zum Unterhalt
 
-(1) Mit der Einwilligung eines Elternteils in die Annahme ruht die elterliche Sorge dieses Elternteils; die Befugnis zum persönlichen Umgang mit dem Kind darf nicht ausgeübt werden. Das Jugendamt wird Vormund; dies gilt nicht, wenn der andere Elternteil die elterliche Sorge allein ausübt oder wenn bereits ein Vormund bestellt ist. Eine bestehende Pflegschaft bleibt unberührt. Für den Annehmenden gilt während der Zeit der Adoptionspflege § 1688 Abs. 1 und 3 entsprechend. Hat die Mutter in die Annahme eingewilligt, so bedarf ein Antrag des Vaters nach § 1672 Abs. 1 nicht ihrer Zustimmung.
+(1) Mit der Einwilligung eines Elternteils in die Annahme ruht die elterliche Sorge dieses Elternteils; die Befugnis zum persönlichen Umgang mit dem Kind darf nicht ausgeübt werden. Das Jugendamt wird Vormund; dies gilt nicht, wenn der andere Elternteil die elterliche Sorge allein ausübt oder wenn bereits ein Vormund bestellt ist. Eine bestehende Pflegschaft bleibt unberührt. Für den Annehmenden gilt während der Zeit der Adoptionspflege § 1688 Abs. 1 und 3 entsprechend.
 
 (2) Absatz 1 ist nicht anzuwenden auf einen Ehegatten, dessen Kind vom anderen Ehegatten angenommen wird.
 
-(3) Hat die Einwilligung eines Elternteils ihre Kraft verloren, so hat das Vormundschaftsgericht die elterliche Sorge dem Elternteil zu übertragen, wenn und soweit dies dem Wohl des Kindes nicht widerspricht.
+(3) Hat die Einwilligung eines Elternteils ihre Kraft verloren, so hat das Familiengericht die elterliche Sorge dem Elternteil zu übertragen, wenn und soweit dies dem Wohl des Kindes nicht widerspricht.
 
 (4) Der Annehmende ist dem Kind vor den Verwandten des Kindes zur Gewährung des Unterhalts verpflichtet, sobald die Eltern des Kindes die erforderliche Einwilligung erteilt haben und das Kind in die Obhut des Annehmenden mit dem Ziel der Annahme aufgenommen ist. Will ein Ehegatte ein Kind seines Ehegatten annehmen, so sind die Ehegatten dem Kind vor den anderen Verwandten des Kindes zur Gewährung des Unterhalts verpflichtet, sobald die erforderliche Einwilligung der Eltern des Kindes erteilt und das Kind in die Obhut der Ehegatten aufgenommen ist.
 
