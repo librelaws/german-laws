@@ -5,10 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 23.9.1975 I 2535
 
 Stand  
-Zuletzt geändert durch Art. 7 G v. 19.10.2013 I 3836
-
-Hinweis  
-Änderung durch Art. 12 G v. 8.7.2014 I 890 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 2 G v. 10.12.2014 I 2187
 
 ### 
 
@@ -235,7 +232,7 @@ Klagen aufgrund von Verträgen nach den §§ 73b und 73c des Fünften Buches Soz
 
 (2) Die Vorschlagslisten für die ehrenamtlichen Richter, die in den Kammern für Angelegenheiten des Vertragsarztrechts mitwirken, werden nach Bezirken von den Kassenärztlichen und Kassenzahnärztlichen Vereinigungen und von den Zusammenschlüssen der Krankenkassen aufgestellt.
 
-(3) Für die Kammern für Angelegenheiten des sozialen Entschädigungsrechts und des Schwerbehindertenrechts werden die Vorschlagslisten für die mit dem sozialen Entschädigungsrecht oder dem Recht der Teilhabe behinderter Menschen vertrauen Personen von den Landesversorgungsämtern oder nach Maßgabe des Landesrechts von den Stellen aufgestellt, denen deren Aufgaben übertragen worden sind oder die für die Durchführung des Bundesversorgungsgesetzes oder des Rechts der Teilhabe behinderter Menschen zuständig sind. Die Vorschlagslisten für die Versorgungsberechtigten, die behinderten Menschen und die Versicherten werden aufgestellt von den im Gerichtsbezirk vertretenen Vereinigungen, deren satzungsgemäße Aufgaben die gemeinschaftliche Interessenvertretung, die Beratung und Vertretung der Leistungsempfänger nach dem sozialen Entschädigungsrecht oder der behinderten Menschen wesentlich umfassen und die unter Berücksichtigung von Art und Umfang ihrer bisherigen Tätigkeit sowie ihres Mitgliederkreises die Gewähr für eine sachkundige Erfüllung dieser Aufgaben bieten. Vorschlagsberechtigt nach Satz 2 sind auch die Gewerkschaften und selbständige Vereinigungen von Arbeitnehmern mit sozial- oder berufspolitischer Zwecksetzung.
+(3) Für die Kammern für Angelegenheiten des sozialen Entschädigungsrechts und des Schwerbehindertenrechts werden die Vorschlagslisten für die mit dem sozialen Entschädigungsrecht oder dem Recht der Teilhabe behinderter Menschen vertrauten Personen von den Landesversorgungsämtern oder nach Maßgabe des Landesrechts von den Stellen aufgestellt, denen deren Aufgaben übertragen worden sind oder die für die Durchführung des Bundesversorgungsgesetzes oder des Rechts der Teilhabe behinderter Menschen zuständig sind. Die Vorschlagslisten für die Versorgungsberechtigten, die behinderten Menschen und die Versicherten werden aufgestellt von den im Gerichtsbezirk vertretenen Vereinigungen, deren satzungsgemäße Aufgaben die gemeinschaftliche Interessenvertretung, die Beratung und Vertretung der Leistungsempfänger nach dem sozialen Entschädigungsrecht oder der behinderten Menschen wesentlich umfassen und die unter Berücksichtigung von Art und Umfang ihrer bisherigen Tätigkeit sowie ihres Mitgliederkreises die Gewähr für eine sachkundige Erfüllung dieser Aufgaben bieten. Vorschlagsberechtigt nach Satz 2 sind auch die Gewerkschaften und selbständige Vereinigungen von Arbeitnehmern mit sozial- oder berufspolitischer Zwecksetzung.
 
 (4) Die Vorschlagslisten für die ehrenamtlichen Richter, die in den Kammern für Angelegenheiten der Sozialhilfe und des Asylbewerberleistungsgesetzes mitwirken, werden von den Kreisen und den kreisfreien Städten aufgestellt.
 
@@ -431,7 +428,7 @@ Klagen gegen Entscheidungen und Richtlinien des Gemeinsamen Bundesausschusses (�
 
 (1) Bei den Landessozialgerichten werden Senate für Angelegenheiten der Sozialversicherung, der Arbeitsförderung einschließlich der übrigen Aufgaben der Bundesagentur für Arbeit, für Angelegenheiten der Grundsicherung für Arbeitsuchende, für Angelegenheiten der Sozialhilfe und des Asylbewerberleistungsgesetzes sowie für Angelegenheiten des sozialen Entschädigungsrechts und des Schwerbehindertenrechts gebildet. Für Angelegenheiten der Knappschaftsversicherung einschließlich der Unfallversicherung für den Bergbau sowie für Verfahren wegen eines überlangen Gerichtsverfahrens (§ 202 Satz 2) kann jeweils ein eigener Senat gebildet werden.
 
-(2) Für die Angelegenheiten des Vertragsarztrechts und für Antragsverfahren nach § 55a ist ein eigener Senat zu bilden.
+(2) Für die Angelegenheiten des Vertragsarztrechts und für Antragsverfahren nach § 55a ist jeweils ein eigener Senat zu bilden.
 
 (3) Die beteiligten Länder können die Ausdehnung des Bezirks eines Senats auf das Gebiet oder auf Gebietsteile mehrerer Länder vereinbaren.
 
@@ -919,7 +916,7 @@ Die §§ 59 bis 65 der Zivilprozeßordnung über die Streitgenossenschaft und di
 
 (1) Das Gericht kann von Amts wegen oder auf Antrag andere, deren berechtigte Interessen durch die Entscheidung berührt werden, beiladen. In Angelegenheiten des sozialen Entschädigungsrechts ist die Bundesrepublik Deutschland auf Antrag beizuladen.
 
-(2) Sind an dem streitigen Rechtsverhältnis Dritte derart beteiligt, daß die Entscheidung auch ihnen gegenüber nur einheitlich ergehen kann oder ergibt sich im Verfahren, daß bei der Ablehnung des Anspruchs ein anderer Versicherungsträger, ein Träger der Grundsicherung für Arbeitsuchende, ein Träger der Sozialhilfe oder in Angelegenheiten des sozialen Entschädigungsrechts ein Land als leistungspflichtig in Betracht kommt, so sind sie beizuladen.
+(2) Sind an dem streitigen Rechtsverhältnis Dritte derart beteiligt, daß die Entscheidung auch ihnen gegenüber nur einheitlich ergehen kann oder ergibt sich im Verfahren, daß bei der Ablehnung des Anspruchs ein anderer Versicherungsträger, ein Träger der Grundsicherung für Arbeitsuchende, ein Träger der Sozialhilfe, ein Träger der Leistungen nach dem Asylbewerberleistungsgesetz oder in Angelegenheiten des sozialen Entschädigungsrechts ein Land als leistungspflichtig in Betracht kommt, so sind sie beizuladen.
 
 (2a) Kommt nach Absatz 2 erste Alternative die Beiladung von mehr als 20 Personen in Betracht, kann das Gericht durch Beschluss anordnen, dass nur solche Personen beigeladen werden, die dies innerhalb einer bestimmten Frist beantragen. Der Beschluss ist unanfechtbar. Er ist im Bundesanzeiger bekannt zu machen. Er muss außerdem in im gesamten Bundesgebiet verbreiteten Tageszeitungen veröffentlicht werden. Die Bekanntmachung kann zusätzlich in einem von dem Gericht für Bekanntmachungen bestimmten Informations- und Kommunikationssystem erfolgen. Die Frist muss mindestens drei Monate seit der Bekanntgabe betragen. Es ist jeweils anzugeben, an welchem Tag die Antragsfrist abläuft. Für die Wiedereinsetzung in den vorigen Stand wegen Fristversäumnis gilt § 67 entsprechend. Das Gericht soll Personen, die von der Entscheidung erkennbar in besonderem Maße betroffen werden, auch ohne Antrag beiladen.
 
@@ -927,7 +924,7 @@ Die §§ 59 bis 65 der Zivilprozeßordnung über die Streitgenossenschaft und di
 
 (4) Der Beigeladene kann innerhalb der Anträge der anderen Beteiligten selbständig Angriffs- und Verteidigungsmittel geltend machen und alle Verfahrenshandlungen wirksam vornehmen. Abweichende Sachanträge kann er nur dann stellen, wenn eine Beiladung nach Absatz 2 vorliegt.
 
-(5) Ein Versicherungsträger, ein Träger der Grundsicherung für Arbeitsuchende, ein Träger der Sozialhilfe oder in Angelegenheiten des sozialen Entschädigungsrechts ein Land kann nach Beiladung verurteilt werden.
+(5) Ein Versicherungsträger, ein Träger der Grundsicherung für Arbeitsuchende, ein Träger der Sozialhilfe, ein Träger der Leistungen nach dem Asylbewerberleistungsgesetz oder in Angelegenheiten des sozialen Entschädigungsrechts ein Land kann nach Beiladung verurteilt werden.
 
 Zweiter Unterabschnitt Beweissicherungsverfahren
 ------------------------------------------------
@@ -1502,7 +1499,7 @@ im Falle des § 75 Abs. 2a die Personen, die einen Antrag auf Beiladung nicht od
 
 (1) Für Beschlüsse gelten § 128 Abs. 1 Satz 1, die §§ 134 und 138, nach mündlicher Verhandlung auch die §§ 129, 132, 135 und 136 entsprechend.
 
-(2) Beschlüsse sind zu begründen, wenn sie durch Rechtsmittel angefochten werden können oder über ein Rechtsbehelf entscheiden. Beschlüsse über die Wiederherstellung der aufschiebenden Wirkung und über einstweilige Anordnungen (§ 86b) sowie Beschlüsse nach Erledigung des Rechtsstreits in der Hauptsache sind stets zu begründen. Beschlüsse, die über ein Rechtsmittel entscheiden, bedürfen keiner weiteren Begründung, soweit das Gericht das Rechtsmittel aus den Gründen der angefochtenen Entscheidung als unbegründet zurückweist.
+(2) Beschlüsse sind zu begründen, wenn sie durch Rechtsmittel angefochten werden können oder über einen Rechtsbehelf entscheiden. Beschlüsse über die Wiederherstellung der aufschiebenden Wirkung und über einstweilige Anordnungen (§ 86b) sowie Beschlüsse nach Erledigung des Rechtsstreits in der Hauptsache sind stets zu begründen. Beschlüsse, die über ein Rechtsmittel entscheiden, bedürfen keiner weiteren Begründung, soweit das Gericht das Rechtsmittel aus den Gründen der angefochtenen Entscheidung als unbegründet zurückweist.
 
 (3) Ausfertigungen der Beschlüsse sind von dem Urkundsbeamten der Geschäftsstelle zu unterschreiben.
 
