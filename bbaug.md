@@ -7,6 +7,9 @@ Neugefasst durch Bek. v. 23.9.2004 I 2414;
 Stand  
 Zuletzt geändert durch Art. 1 G v 22.7.2011 I 1509
 
+Hinweis  
+Änderung durch Art. 1 G v. 11.6.2013 I 1548 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
@@ -1813,10 +1816,10 @@ Vierter Abschnitt Zusammenarbeit mit Privaten; vereinfachtes Verfahren
 (1) Die Gemeinde kann städtebauliche Verträge schließen. Gegenstände eines städtebaulichen Vertrages können insbesondere sein:
 
 1.  
-die Vorbereitung oder Durchführung städtebaulicher Maßnahmen durch den Vertragspartner auf eigene Kosten; dazu gehören auch die Neuordnung der Grundstücksverhältnisse, die Bodensanierung und sonstige vorbereitende Maßnahmen sowie die Ausarbeitung der städtebaulichen Planungen sowie erforderlichenfalls des Umweltberichts; die Verantwortung der Gemeinde für das gesetzlich vorgesehene Planaufstellungsverfahren bleibt unberührt;
+die Vorbereitung oder Durchführung städtebaulicher Maßnahmen durch den Vertragspartner auf eigene Kosten; dazu gehören auch die Neuordnung der Grundstücksverhältnisse, die Bodensanierung und sonstige vorbereitende Maßnahmen, die Erschließung durch nach Bundes- oder nach Landesrecht beitragsfähige sowie nicht beitragsfähige Erschließungsanlagen sowie die Ausarbeitung der städtebaulichen Planungen sowie erforderlichenfalls des Umweltberichts; die Verantwortung der Gemeinde für das gesetzlich vorgesehene Planaufstellungsverfahren bleibt unberührt;
 
 2.  
-die Förderung und Sicherung der mit der Bauleitplanung verfolgten Ziele, insbesondere die Grundstücksnutzung, auch hinsichtlich einer Befristung oder einer Bedingung, die Durchführung des Ausgleichs im Sinne des § 1a Abs. 3, die Deckung des Wohnbedarfs von Bevölkerungsgruppen mit besonderen Wohnraumversorgungsproblemen sowie des Wohnbedarfs der ortsansässigen Bevölkerung;
+die Förderung und Sicherung der mit der Bauleitplanung verfolgten Ziele, insbesondere die Grundstücksnutzung, auch hinsichtlich einer Befristung oder einer Bedingung, die Durchführung des Ausgleichs im Sinne des § 1a Absatz 3, die Berücksichtigung baukultureller Belange, die Deckung des Wohnbedarfs von Bevölkerungsgruppen mit besonderen Wohnraumversorgungsproblemen sowie des Wohnbedarfs der ortsansässigen Bevölkerung;
 
 3.  
 die Übernahme von Kosten oder sonstigen Aufwendungen, die der Gemeinde für städtebauliche Maßnahmen entstehen oder entstanden sind und die Voraussetzung oder Folge des geplanten Vorhabens sind; dazu gehört auch die Bereitstellung von Grundstücken;
@@ -1827,7 +1830,9 @@ entsprechend den mit den städtebaulichen Planungen und Maßnahmen verfolgten Zi
 5.  
 entsprechend den mit den städtebaulichen Planungen und Maßnahmen verfolgten Zielen und Zwecken die Anforderungen an die energetische Qualität von Gebäuden.
 
-(2) Die vereinbarten Leistungen müssen den gesamten Umständen nach angemessen sein. Die Vereinbarung einer vom Vertragspartner zu erbringenden Leistung ist unzulässig, wenn er auch ohne sie einen Anspruch auf die Gegenleistung hätte.
+Die Gemeinde kann städtebauliche Verträge auch mit einer juristischen Person abschließen, an der sie beteiligt ist.
+
+(2) Die vereinbarten Leistungen müssen den gesamten Umständen nach angemessen sein. Die Vereinbarung einer vom Vertragspartner zu erbringenden Leistung ist unzulässig, wenn er auch ohne sie einen Anspruch auf die Gegenleistung hätte. Trägt oder übernimmt der Vertragspartner Kosten oder sonstige Aufwendungen, ist unbeschadet des Satzes 1 eine Eigenbeteiligung der Gemeinde nicht erforderlich.
 
 (3) Ein städtebaulicher Vertrag bedarf der Schriftform, soweit nicht durch Rechtsvorschriften eine andere Form vorgeschrieben ist.
 
@@ -3652,15 +3657,9 @@ Erster Abschnitt Allgemeine Vorschriften
 
 (4) Die Unterhaltung der Erschließungsanlagen richtet sich nach landesrechtlichen Vorschriften.
 
-### § 124 Erschließungsvertrag
+### § 124 Erschließungspflicht nach abgelehntem Vertragsangebot
 
-(1) Die Gemeinde kann die Erschließung durch Vertrag auf einen Dritten übertragen.
-
-(2) Gegenstand des Erschließungsvertrages können nach Bundes- oder nach Landesrecht beitragsfähige sowie nicht beitragsfähige Erschließungsanlagen in einem bestimmten Erschließungsgebiet in der Gemeinde sein. Der Dritte kann sich gegenüber der Gemeinde verpflichten, die Erschließungskosten ganz oder teilweise zu tragen; dies gilt unabhängig davon, ob die Erschließungsanlagen nach Bundes- oder Landesrecht beitragsfähig sind. § 129 Abs. 1 Satz 3 ist nicht anzuwenden.
-
-(3) Die vertraglich vereinbarten Leistungen müssen den gesamten Umständen nach angemessen sein und in sachlichem Zusammenhang mit der Erschließung stehen. Hat die Gemeinde einen Bebauungsplan im Sinne des § 30 Abs. 1 erlassen und lehnt sie das zumutbare Angebot eines Dritten ab, die im Bebauungsplan vorgesehene Erschließung vorzunehmen, ist sie verpflichtet, die Erschließung selbst durchzuführen.
-
-(4) Der Erschließungsvertrag bedarf der Schriftform, soweit nicht durch Rechtsvorschriften eine andere Form vorgeschrieben ist.
+Hat die Gemeinde einen Bebauungsplan im Sinne des § 30 Absatz 1 erlassen und lehnt sie das zumutbare Angebot zum Abschluss eines städtebaulichen Vertrags über die Erschließung ab, ist sie verpflichtet, die Erschließung selbst durchzuführen.
 
 ### § 125 Bindung an den Bebauungsplan
 
@@ -5561,7 +5560,7 @@ er entrichtet worden, aber der Beitragsbescheid noch nicht unanfechtbar geworden
 
 (7) Ist vor dem 1. Juli 1987 über die Stundung des Beitrags für landwirtschaftlich genutzte Grundstücke (§ 135 Abs. 4 des Bundesbaugesetzes) entschieden und ist die Entscheidung noch nicht unanfechtbar geworden, ist § 135 Abs. 4 dieses Gesetzbuchs anzuwenden.
 
-(8) § 124 Abs. 2 Satz 2 ist auch auf Kostenvereinbarungen in Erschließungsverträgen anzuwenden, die vor dem 1. Mai 1993 geschlossen worden sind. Auf diese Verträge ist § 129 Abs. 1 Satz 3 weiterhin anzuwenden.
+(8) § 124 Absatz 2 Satz 2 in der bis zum 21. Juni 2013 geltenden Fassung ist auch auf Kostenvereinbarungen in Erschließungsverträgen anzuwenden, die vor dem 1. Mai 1993 geschlossen worden sind. Auf diese Verträge ist § 129 Abs. 1 Satz 3 weiterhin anzuwenden.
 
 (9) Für Erschließungsanlagen oder Teile von Erschließungsanlagen in dem in Artikel 3 des Einigungsvertrags genannten Gebiet, die vor dem Wirksamwerden des Beitritts bereits hergestellt worden sind, kann nach diesem Gesetz ein Erschließungsbeitrag nicht erhoben werden. Bereits hergestellte Erschließungsanlagen oder Teile von Erschließungsanlagen sind die einem technischen Ausbauprogramm oder den örtlichen Ausbaugepflogenheiten entsprechend fertiggestellten Erschließungsanlagen oder Teile von Erschließungsanlagen. Leistungen, die Beitragspflichtige für die Herstellung von Erschließungsanlagen oder Teilen von Erschließungsanlagen erbracht haben, sind auf den Erschließungsbeitrag anzurechnen. Die Landesregierungen werden ermächtigt, bei Bedarf Überleitungsregelungen durch Rechtsverordnung zu treffen.
 
@@ -5595,9 +5594,15 @@ er entrichtet worden, aber der Beitragsbescheid noch nicht unanfechtbar geworden
 
 (3) Für die zur Förderung städtebaulicher Maßnahmen bis zum 1. September 2006 geschlossenen Verwaltungsvereinbarungen über die Gewährung von Finanzhilfen des Bundes an die Länder nach Artikel 104a Abs. 4 des Grundgesetzes in seiner bis zum 1. September 2006 geltenden Fassung ist § 164b in seiner bis zum 12. September 2006 geltenden Fassung bis zum 31. Dezember 2019 anzuwenden.
 
-### § 245a
+### § 245a Überleitungsvorschriften aus Anlass des Gesetzes zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts
 
-(weggefallen)
+*(1) Die Regelungen zur Zulässigkeit von Anlagen zur Kinderbetreuung sowie von Anlagen zur Nutzung solarer Strahlungsenergie und Kraft-Wärme-Kopplungsanlagen in § 3 Absatz 2 Nummer 2 und § 14 Absatz 3 der Baunutzungsverordnung in der ab dem 20. September 2013 geltenden Fassung gelten vorbehaltlich des Satzes 2 und des Absatzes 2 auch für Bebauungspläne, die auf der Grundlage der Baunutzungsverordnung in einer Fassung vor dem 20. September 2013 in Kraft getreten sind. Satz 1 gilt nicht in Bezug auf Anlagen zur Kinderbetreuung, wenn vor dem 20. September 2013 die ausnahmsweise Zulässigkeit dieser Anlagen nach § 3 Absatz 3 Nummer 2 der Baunutzungsverordnung in der vom 27. Januar 1990 bis zum 20. September 2013 geltenden Fassung durch Festsetzungen nach § 1 Absatz 6 Nummer 1, Absatz 8 und 9 der Baunutzungsverordnung ausgeschlossen worden ist.*
+
+(2) Die sich aus § 3 Absatz 2 Nummer 2 und § 14 Absatz 3 der Baunutzungsverordnung in der ab dem 20. September 2013 geltenden Fassung in Verbindung mit Absatz 1 Satz 1 ergebende Zulässigkeit von Anlagen zur Kinderbetreuung sowie von Anlagen zur Nutzung solarer Strahlungsenergie und von Kraft-Wärme-Kopplungsanlagen kann durch Änderung der Bebauungspläne nach Maßgabe der Vorschriften der Baunutzungsverordnung eingeschränkt oder ausgeschlossen werden; hierauf sind die Vorschriften dieses Gesetzbuchs über die Aufstellung der Bauleitpläne, einschließlich der §§ 14 bis 18, anzuwenden. Das Verfahren für die Änderung von Bebauungsplänen nach Satz 1 kann vor dem 20. September 2013 eingeleitet werden.
+
+*(3) Darstellungen in Flächennutzungsplänen, die vor dem 20. September 2013 in Bezug auf bauliche Anlagen zur Tierhaltung im Sinne des § 35 Absatz 1 Nummer 4 die Rechtswirkungen des § 35 Absatz 3 Satz 3 erzielt haben, haben diese Rechtswirkungen auch in Bezug auf bauliche Anlagen zur Tierhaltung im Sinne der ab dem 20. September 2013 geltenden Fassung des § 35 Absatz 1 Nummer 4. Wenn ein Fortgelten der Rechtswirkungen nach Satz 1 der ursprünglichen planerischen Zielsetzung widerspricht, stellt die Gemeinde dies in einem Beschluss fest, der ortsüblich bekannt zu machen ist. Mit der ortsüblichen Bekanntmachung des Beschlusses gelten die entsprechenden Darstellungen als aufgehoben; der Flächennutzungsplan ist im Wege der Berichtigung anzupassen.*
+
+*(4) Soweit für Zulassungsentscheidungen über Anlagen zur Tierhaltung, die dem § 35 Absatz 1 Nummer 4 unterfallen, vor Ablauf des 4. Juli 2012 bei der zuständigen Behörde ein Antrag eingegangen ist, ist § 35 Absatz 1 Nummer 4 in seiner bis zum 20. September 2013 geltenden Fassung anzuwenden.*
 
 ### § 245b Überleitungsvorschriften für Vorhaben im Außenbereich
 
