@@ -11,7 +11,8 @@ zuletzt geändert durch Art. 1 V v. 11.6.2008 I 1079
 
 ```
 (+++ Textnachweis Geltung ab: 13.10.1985 +++)
-(+++ Maßgaben aufgrund des EinigVtr vgl. FertigPackV 1981 Anhang EV +++)
+(+++ Maßgaben aufgrund des EinigVtr vgl. FertigPackV 1981 Anhang EV;
+     Maßgaben nicht mehr anzuwenden +++)
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
      Umsetzung der
        EGRL 58/95 (CELEX Nr: 395L0058) vgl. V v. 21.8.1996  I 1333 +++)
@@ -925,13 +926,11 @@ Diese Verordnung dient der Umsetzung der Richtlinie 2007/45/EG des Europäischen
 
 -
 
-### Anlage 3
-
-(weggefallen)
+### Anlage 3 (weggefallen)
 
 ### Anlage 4a (zu § 34 Abs. 1)Verfahren zur Prüfung der Füllmengen nach Gewicht oder Volumen gekennzeichneter Fertigpackungen durch die zuständigen Behörden
 
-(Fundstelle des Originaltextes: BGBl. I 1994, 484 - 487;
+(Fundstelle: BGBl. I 1994, 484 - 487;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1.  
@@ -1232,7 +1231,7 @@ Unverpackte Backwaren und Verkaufseinheiten gleichen Gewichts ohne UmhüllungDie
 
 ### Anlage 4b (zu § 34 Abs. 1)Verfahren zur Prüfung der Füllmengen nach Länge, Fläche oder Stückzahl gekennzeichneter Fertigpackungen durch die zuständigen Behörden
 
-(Fundstelle des Originaltextes: BGBl. I 1994, 488 - 489)
+(Fundstelle: BGBl. I 1994, 488 - 489)
 
 1.  
 Ort der PrüfungFertigpackungen sind in der Regel beim Hersteller oder beim Einführer zu prüfen. Die Prüfung soll grundsätzlich im Abfüllbetrieb vorgenommen werden. Sie kann auch in einem Lager sowie in den Räumen der zuständigen Behörde erfolgen.
@@ -1367,7 +1366,7 @@ Verkaufseinheiten gleicher Länge oder gleicher Fläche ohne UmhüllungDie Vorsc
 
 ### Anlage 5 (zu § 34 Abs. 2)Verfahren zur Prüfung von Maßbehältnissen durch die zuständigen Behörden
 
-(Fundstelle des Originaltextes: BGBl. I 1994, 490)
+(Fundstelle: BGBl. I 1994, 490)
 
 1.  
 Ort der PrüfungMaßbehältnisse sind in der Regel beim Hersteller der Flaschen oder beim Importeur zu prüfen. Die Prüfung soll grundsätzlich bei der Herstellung vorgenommen werden, sie kann auch im Lager erfolgen.
@@ -1409,9 +1408,7 @@ Wenn das Kontrollergebnis nicht zufriedenstellend ist, kann eine zweite Prüfung
 6.  
 Die Nachschau der Herstellung und Einfuhr von Maßbehältnissen (§ 16 des Eichgesetzes sowie § 34 Abs. 2 dieser Verordnung) hat in der Regel mindestens einmal jährlich zu erfolgen. Bei Maßbehältnissen, die mit dem Zeichen nach Anlage 8 gekennzeichnet sind und in einem anderen Mitgliedstaat der Europäischen Gemeinschaften oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum hergestellt worden sind, erfolgt die Nachschau in der Regel nur aus besonderem Anlaß. Das gleiche gilt für Maßbehältnisse, die über einen anderen Mitgliedstaat der Europäischen Gemeinschaften oder über einen anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum in den Geltungsbereich dieser Verordnung eingeführt worden sind.
 
-### Anlage 6
-
-(weggefallen)
+### Anlage 6 (weggefallen)
 
 ### Anlage 7 Geeignete Kontrollmeßgeräte im Sinne des § 27 und geeignete Waagen im Sinne des § 31 Fertigpackungsverordnung
 
@@ -1514,7 +1511,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ### Anlage 9
 
-(Fundstelle des Originaltextes: BGBl. I 1994, 492)
+(Fundstelle: BGBl. I 1994, 492)
 
 |                                |
 |--------------------------------|
@@ -1522,20 +1519,4 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | ![](bgbl1_1994_j0451_0050.jpg) |
 | Mindesthöhe des Zeichens: 3 mm |
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1002) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
-...
-Fertigpackungsverordnung vom 18. Dezember 1981 (BGBl. I S. 1585), zuletzt geändert durch Verordnung vom 28. Mai 1990 (BGBl. I S. 991),
-mit folgenden Maßgaben:
-
-  
-a)  
-Fertigpackungen dürfen in dem in Artikel 3 des Vertrages genannten Gebiet mit einer von den Vorschriften des § 16 des Eichgesetzes und der §§ 6 bis 11, 18 und 20 der Fertigpackungsverordnung abweichenden, den am Tage des Wirksamwerdens des Beitritts dort geltenden Vorschriften entsprechenden Füllmengenangabe bis zum 31. Dezember 1992 erstmals in den Verkehr gebracht und unbefristet weiter abgegeben werden.
-
-b)  
-Fertigpackungen mit den in Anlage 1 Nr. 1a und 2a zur Fertigpackungsverordnung genannten Erzeugnissen mit einer Nennfüllmenge von 0,7 l dürfen in dem in Artikel 3 des Vertrages genannten Gebiet bis zum 31. Dezember 1992 erstmals in den Verkehr gebracht und unbefristet weiter abgegeben werden. Fertigpackungen mit den in Anlage 1 Nr. 2b, 5 und 6 zur Fertigpackungsverordnung genannten Erzeugnissen dürfen in diesem Gebiet bis zum 31. Dezember 1992 mit einer in diesen Nummern nicht zugelassenen Nennfüllmenge erstmals in den Verkehr gebracht und unbefristet weiter abgegeben werden, wenn die Nennfüllmenge der Fertigpackungen einem Wert entspricht, mit dem das betreffende Erzeugnis vor dem Tage des Wirksamwerdens des Beitritts in diesem Gebiet in Fertigpackungen in den Verkehr gebracht werden durfte.
-
-c)  
-Bei Fertigpackungen gleicher Nennfüllmenge, die in dem in Artikel 3 des Vertrages genannten Gebiet angeboten werden oder für die dort unter Angabe von Preisen geworben wird, ist die Angabe des Grundpreises nicht erforderlich, wenn die Fertigpackungen vor dem 31. Dezember 1992 erstmals in den Verkehr gebracht werden und die Nennfüllmenge der Fertigpackungen einem Wert entspricht, mit dem das betreffende Erzeugnis vor dem Tage des Wirksamwerdens des Beitritts in diesem Gebiet in Fertigpackungen in den Verkehr gebracht werden durfte.
