@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 25.9.2001 I 2518;
 
 Stand  
-zuletzt geändert durch Art. 9 G v. 29.7.2009 I 2424
+zuletzt geändert durch Art. 3 Abs. 4 G v. 20.4.2013 I 868
 
 ### 
 
@@ -13,14 +13,14 @@ zuletzt geändert durch Art. 9 G v. 29.7.2009 I 2424
 
 ```
 (+++ Textnachweis Geltung ab: 1.1.1975 +++)
-(+++ Maßgaben aufgrund EinigVtr vgl. BetrVG Anhang EV +++)
+(+++ Maßgaben aufgrund EinigVtr vgl. BetrVG Anhang EV;
+     nicht mehr anzuwenden gem. Art. 109 Nr. 3 Buchst. a
+     DBuchst. hh G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)
 (+++ Amtliche Hinweise des Normgebers auf EG-Recht:
      Umsetzung der
        EGRL 23/2001  (CELEX Nr: 301L0023)
        EGRL 78/2000  (CELEX Nr: 300L0078) vgl. G v. 23.7.2001 I 1852 +++)
 ```
-
-(+++ Maßgaben aufgrund EinigVtr nicht mehr anzuwenden gem. Art. 109 Nr. 3 Buchst. a DBuchst. hh G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)
 
 ### Inhaltsübersicht
 
