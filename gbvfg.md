@@ -2,10 +2,10 @@ Verordnung zur Durchführung der Grundbuchordnung (GBV)
 ======================================================
 
 Neuf  
-Neugefasst durch Bek. v. 24.1.1995 I 114
+Neugefasst durch Bek. v. 24.1.1995 I 114;
 
 Stand  
-Zuletzt geändert durch Art. 4 G v. 3.12.2015 I 2161
+zuletzt geändert durch Art. 11 Abs. 19 G v. 18.7.2017 I 2745
 
 ### 
 
@@ -1227,7 +1227,7 @@ Dies gilt nicht für elektronische Dokumente des Grundbuchamts.
 
 (1) Wird ein in Papierform vorliegendes Schriftstück in ein elektronisches Dokument übertragen und in dieser Form anstelle der Papierurkunde in die Grundakte übernommen, ist vorbehaltlich des Absatzes 2 durch geeignete Vorkehrungen sicherzustellen, dass die Wiedergabe auf dem Bildschirm mit dem Schriftstück inhaltlich und bildlich übereinstimmt. Bei dem elektronischen Dokument ist zu vermerken, wann und durch wen die Übertragung vorgenommen wurde; zuständig ist der Urkundsbeamte der Geschäftsstelle.
 
-(2) Bei der Übertragung einer in Papierform eingereichten Urkunde, auf die eine aktuelle Grundbucheintragung Bezug nimmt, hat der Urkundsbeamte der Geschäftsstelle bei dem elektronischen Dokument zu vermerken, dass die Wiedergabe auf dem Bildschirm mit dem Schriftstück inhaltlich und bildlich übereinstimmt. Durchstreichungen, Änderungen, Einschaltungen, Radierungen oder andere Mängel des Schriftstücks sollen in dem Vermerk angegeben werden. Das elektronische Dokument ist von dem Urkundsbeamten der Geschäftsstelle mit seinem Namen und einer qualifizierten elektronischen Signatur nach dem Signaturgesetz zu versehen. Ein Vermerk kann unterbleiben, soweit die in Satz 2 genannten Tatsachen aus dem elektronischen Dokument eindeutig ersichtlich sind.
+(2) Bei der Übertragung einer in Papierform eingereichten Urkunde, auf die eine aktuelle Grundbucheintragung Bezug nimmt, hat der Urkundsbeamte der Geschäftsstelle bei dem elektronischen Dokument zu vermerken, dass die Wiedergabe auf dem Bildschirm mit dem Schriftstück inhaltlich und bildlich übereinstimmt. Durchstreichungen, Änderungen, Einschaltungen, Radierungen oder andere Mängel des Schriftstücks sollen in dem Vermerk angegeben werden. Das elektronische Dokument ist von dem Urkundsbeamten der Geschäftsstelle mit seinem Namen und einer qualifizierten elektronischen Signatur zu versehen. Ein Vermerk kann unterbleiben, soweit die in Satz 2 genannten Tatsachen aus dem elektronischen Dokument eindeutig ersichtlich sind.
 
 ### § 98 Übertragung elektronischer Dokumente in die Papierform oder in andere Dateiformate
 
