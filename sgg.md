@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 23.9.1975 I 2535
 
 Stand  
-Zuletzt geändert durch Art. 2 G v. 10.12.2014 I 2187
+Zuletzt geändert durch Art. 8 G v. 15.04.2015 I 583
 
 ### 
 
@@ -660,6 +660,8 @@ Rechtsbehelfe gegen behördliche Verfahrenshandlungen können nur gleichzeitig m
 
 (6) Für Antragsverfahren nach § 55a ist das Landessozialgericht örtlich zuständig, in dessen Bezirk die Körperschaft, die die Rechtsvorschrift erlassen hat, ihren Sitz hat.
 
+(7) In Angelegenheiten nach § 7a des Vierten Buches Sozialgesetzbuch ist das Sozialgericht örtlich zuständig, in dessen Bezirk der Auftraggeber seinen Sitz oder in Ermangelung dessen seinen Wohnsitz hat. Hat dieser seinen Sitz oder in Ermangelung dessen seinen Wohnsitz im Ausland, ist das Sozialgericht örtlich zuständig, in dessen Bezirk der Auftragnehmer seinen Wohnsitz oder in Ermangelung dessen seinen Aufenthaltsort hat.
+
 ### § 57a
 
 (1) In Vertragsarztangelegenheiten der gesetzlichen Krankenversicherung ist, wenn es sich um Fragen der Zulassung oder Ermächtigung nach Vertragsarztrecht handelt, das Sozialgericht zuständig, in dessen Bezirk der Vertragsarzt, der Vertragszahnarzt oder der Psychotherapeut seinen Sitz hat.
@@ -691,7 +693,7 @@ wenn in einem Rechtsstreit verschiedene Gerichte sich rechtskräftig für zustä
 wenn verschiedene Gerichte, von denen eines für den Rechtsstreit zuständig ist, sich rechtskräftig für unzuständig erklärt haben,
 
 5.  
-wenn eine örtliche Zuständigkeit nach § 57 nicht gegeben ist.
+wenn eine örtliche Zuständigkeit weder nach den §§ 57 bis 57b noch nach einer anderen gesetzlichen Zuständigkeitsbestimmung gegeben ist.
 
 (2) Zur Feststellung der Zuständigkeit kann jedes mit dem Rechtsstreit befaßte Gericht und jeder am Rechtsstreit Beteiligte das im Rechtszug höhere Gericht anrufen, das ohne mündliche Verhandlung entscheiden kann.
 
@@ -1459,7 +1461,7 @@ die Rechtsmittelbelehrung.
 
 ### § 137
 
-Die Ausfertigungen des Urteils sind von dem Urkundsbeamten der Geschäftsstelle zu unterschreiben und mit dem Gerichtssiegel zu versehen. Ausfertigungen, Auszüge und Abschriften eines als elektronisches Dokument (§ 65a Abs. 3) vorliegenden Urteils können von einem Urteilsausdruck gemäß § 65b Abs. 4 erteilt werden. Auszüge und Abschriften eines in Papierform vorliegenden Urteils können durch Telekopie oder als elektronisches Dokument (§ 65a Abs. 3) erteilt werden. Die Telekopie hat eine Wiedergabe der Unterschrift des Urkundsbeamten der Geschäftsstelle sowie des Gerichtssiegels zu enthalten. Das elektronische Dokument ist mit einer qualifizierten elektronischen Signatur des Urkundsbeamten der Geschäftsstelle zu versehen.
+Die Ausfertigungen des Urteils sind von dem Urkundsbeamten der Geschäftsstelle zu unterschreiben und mit dem Gerichtssiegel zu versehen. Ausfertigungen, Auszüge und Abschriften eines als elektronisches Dokument (§ 65a Abs. 3) vorliegenden Urteils können von einem Urteilsausdruck gemäß § 65b Abs. 4 erteilt werden. Auszüge und Abschriften eines in Papierform vorliegenden Urteils können durch Telekopie oder als elektronisches Dokument (§ 65a Abs. 3) erteilt werden. Die Telekopie hat eine Wiedergabe des Gerichtssiegels, die Telekopie zur Erteilung eines Auszugs zusätzlich die Unterschrift des Urkundsbeamten der Geschäftsstelle zu enthalten. Das elektronische Dokument ist mit einer qualifizierten elektronischen Signatur des Urkundsbeamten der Geschäftsstelle zu versehen.
 
 ### § 138
 
