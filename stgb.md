@@ -5,12 +5,13 @@ Neuf
 Neugefasst durch Bek. v. 13.11.1998 I 3322;
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 23.4.2014 I 410
+Zuletzt geändert durch Art. 1 G v. 20.11.2015 I 2025
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 1.1.1982 +++)
+(+++ Zur Anwendung d. §§ 73d u. 74a vgl. § 184b F ab 27.12.2003 u. § 201a +++) 
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
      Umsetzung der
        EWGRL 439/91      (CELEX Nr: 31991L0439)  vgl. G v. 24.4.1998 I 747
@@ -316,6 +317,7 @@ zuletzt geändert durch Art. 1 G v. 23.4.2014 I 410
 |                                |
 |                                |
 |                                |
+|                                |
 | Vierter Titel                  |
 |                                |
 |                                |
@@ -481,6 +483,7 @@ zuletzt geändert durch Art. 1 G v. 23.4.2014 I 410
 |                                |
 |                                |
 | Dreizehnter Abschnitt          |
+|                                |
 |                                |
 |                                |
 |                                |
@@ -807,6 +810,7 @@ zuletzt geändert durch Art. 1 G v. 23.4.2014 I 410
 |                                |
 |                                |
 |                                |
+|                                |
 
 Allgemeiner Teil
 ----------------
@@ -851,7 +855,7 @@ Das deutsche Strafrecht gilt für Taten, die im Inland begangen werden.
 
 Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für Taten, die auf einem Schiff oder in einem Luftfahrzeug begangen werden, das berechtigt ist, die Bundesflagge oder das Staatszugehörigkeitszeichen der Bundesrepublik Deutschland zu führen.
 
-### § 5 Auslandstaten gegen inländische Rechtsgüter
+### § 5 Auslandstaten mit besonderem Inlandsbezug
 
 Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für folgende Taten, die im Ausland begangen werden:
 
@@ -883,25 +887,40 @@ b)
 in den Fällen der §§ 109a, 109d und 109h, wenn der Täter Deutscher ist und seine Lebensgrundlage im räumlichen Geltungsbereich dieses Gesetzes hat;
 
 6.  
-Verschleppung und politische Verdächtigung (§§ 234a, 241a), wenn die Tat sich gegen einen Deutschen richtet, der im Inland seinen Wohnsitz oder gewöhnlichen Aufenthalt hat;
+Straftaten gegen die persönliche Freiheit
 
-6a.  
-Entziehung eines Kindes in den Fällen des § 235 Abs. 2 Nr. 2, wenn die Tat sich gegen eine Person richtet, die im Inland ihren Wohnsitz oder gewöhnlichen Aufenthalt hat;
+a)  
+in den Fällen der §§ 234a und 241a, wenn die Tat sich gegen eine Person richtet, die zur Zeit der Tat Deutsche ist und ihren Wohnsitz oder gewöhnlichen Aufenthalt im Inland hat,
+
+b)  
+in den Fällen des § 235 Absatz 2 Nummer 2, wenn die Tat sich gegen eine Person richtet, die zur Zeit der Tat ihren Wohnsitz oder gewöhnlichen Aufenthalt im Inland hat, und
+
+c)  
+in den Fällen des § 237, wenn der Täter zur Zeit der Tat Deutscher ist oder wenn die Tat sich gegen eine Person richtet, die zur Zeit der Tat ihren Wohnsitz oder gewöhnlichen Aufenthalt im Inland hat;
 
 7.  
 Verletzung von Betriebs- oder Geschäftsgeheimnissen eines im räumlichen Geltungsbereich dieses Gesetzes liegenden Betriebs, eines Unternehmens, das dort seinen Sitz hat, oder eines Unternehmens mit Sitz im Ausland, das von einem Unternehmen mit Sitz im räumlichen Geltungsbereich dieses Gesetzes abhängig ist und mit diesem einen Konzern bildet;
 
 8.  
-Straftaten gegen die sexuelle Selbstbestimmung
-
-a)  
-in den Fällen des § 174 Abs. 1 und 3, wenn der Täter und der, gegen den die Tat begangen wird, zur Zeit der Tat Deutsche sind und ihre Lebensgrundlage im Inland haben, und
-
-b)  
-in den Fällen der §§ 176 bis 176b und 182, wenn der Täter Deutscher ist;
+Straftaten gegen die sexuelle Selbstbestimmung in den Fällen des § 174 Absatz 1, 2 und 4, der §§ 176 bis 179 und des § 182, wenn der Täter zur Zeit der Tat Deutscher ist;
 
 9.  
-Abbruch der Schwangerschaft (§ 218), wenn der Täter zur Zeit der Tat Deutscher ist und seine Lebensgrundlage im räumlichen Geltungsbereich dieses Gesetzes hat;
+Straftaten gegen das Leben
+
+a)  
+in den Fällen des § 218 Absatz 2 Satz 2 Nummer 1 und Absatz 4 Satz 1, wenn der Täter zur Zeit der Tat Deutscher ist, und
+
+b)  
+in den übrigen Fällen des § 218, wenn der Täter zur Zeit der Tat Deutscher ist und seine Lebensgrundlage im Inland hat;
+
+9a.  
+Straftaten gegen die körperliche Unversehrtheit
+
+a)  
+in den Fällen des § 226 Absatz 1 Nummer 1 in Verbindung mit Absatz 2 bei Verlust der Fortpflanzungsfähigkeit, wenn der Täter zur Zeit der Tat Deutscher ist, und
+
+b)  
+in den Fällen des § 226a, wenn der Täter zur Zeit der Tat Deutscher ist oder wenn die Tat sich gegen eine Person richtet, die zur Zeit der Tat ihren Wohnsitz oder gewöhnlichen Aufenthalt im Inland hat;
 
 10.  
 falsche uneidliche Aussage, Meineid und falsche Versicherung an Eides Statt (§§ 153 bis 156) in einem Verfahren, das im räumlichen Geltungsbereich dieses Gesetzes bei einem Gericht oder einer anderen deutschen Stelle anhängig ist, die zur Abnahme von Eiden oder eidesstattlichen Versicherungen zuständig ist;
@@ -921,10 +940,31 @@ Taten, die ein Ausländer als Amtsträger oder für den öffentlichen Dienst bes
 14.  
 Taten, die jemand gegen einen Amtsträger, einen für den öffentlichen Dienst besonders Verpflichteten oder einen Soldaten der Bundeswehr während der Ausübung ihres Dienstes oder in Beziehung auf ihren Dienst begeht;
 
-14a.  
-Abgeordnetenbestechung (§ 108e), wenn der Täter zur Zeit der Tat Deutscher ist oder die Tat gegenüber einem Deutschen begangen wird;
-
 15.  
+Straftaten im Amt nach den §§ 331 bis 337, wenn
+
+a)  
+der Täter zur Zeit der Tat Deutscher ist,
+
+b)  
+der Täter zur Zeit der Tat Europäischer Amtsträger ist und seine Dienststelle ihren Sitz im Inland hat,
+
+c)  
+die Tat gegenüber einem Amtsträger, einem für den öffentlichen Dienst besonders Verpflichteten oder einem Soldaten der Bundeswehr begangen wird oder
+
+d)  
+die Tat gegenüber einem Europäischen Amtsträger oder Schiedsrichter, der zur Zeit der Tat Deutscher ist, oder einer nach § 335a gleichgestellten Person begangen wird, die zur Zeit der Tat Deutsche ist;
+
+16.  
+Bestechlichkeit und Bestechung von Mandatsträgern (§ 108e), wenn
+
+a)  
+der Täter zur Zeit der Tat Mitglied einer deutschen Volksvertretung oder Deutscher ist oder
+
+b)  
+die Tat gegenüber einem Mitglied einer deutschen Volksvertretung oder einer Person, die zur Zeit der Tat Deutsche ist, begangen wird;
+
+17.  
 Organ- und Gewebehandel (§ 18 des Transplantationsgesetzes), wenn der Täter zur Zeit der Tat Deutscher ist.
 
 ### § 6 Auslandstaten gegen international geschützte Rechtsgüter
@@ -947,7 +987,7 @@ Menschenhandel zum Zweck der sexuellen Ausbeutung und zum Zweck der Ausbeutung d
 unbefugter Vertrieb von Betäubungsmitteln;
 
 6.  
-Verbreitung pornographischer Schriften in den Fällen der §§ 184a, 184b Abs. 1 bis 3 und § 184c Abs. 1 bis 3, jeweils auch in Verbindung mit § 184d Satz 1;
+Verbreitung pornographischer Schriften in den Fällen der §§ 184a, 184b Absatz 1 und 2 und § 184c Absatz 1 und 2, jeweils auch in Verbindung mit § 184d Absatz 1 Satz 1;
 
 7.  
 Geld- und Wertpapierfälschung (§§ 146, 151 und 152), Fälschung von Zahlungskarten mit Garantiefunktion und Vordrucken für Euroschecks (§ 152b Abs. 1 bis 4) sowie deren Vorbereitung (§§ 149, 151, 152 und 152b Abs. 5);
@@ -1013,6 +1053,18 @@ in einem sonstigen öffentlich-rechtlichen Amtsverhältnis steht oder
 
 c)  
 sonst dazu bestellt ist, bei einer Behörde oder bei einer sonstigen Stelle oder in deren Auftrag Aufgaben der öffentlichen Verwaltung unbeschadet der zur Aufgabenerfüllung gewählten Organisationsform wahrzunehmen;
+
+2a.  
+Europäischer Amtsträger:wer
+
+a)  
+Mitglied der Europäischen Kommission, der Europäischen Zentralbank, des Rechnungshofs oder eines Gerichts der Europäischen Union ist,
+
+b)  
+Beamter oder sonstiger Bediensteter der Europäischen Union oder einer auf der Grundlage des Rechts der Europäischen Union geschaffenen Einrichtung ist oder
+
+c)  
+mit der Wahrnehmung von Aufgaben der Europäischen Union oder von Aufgaben einer auf der Grundlage des Rechts der Europäischen Union geschaffenen Einrichtung beauftragt ist;
 
 3.  
 Richter:wer nach deutschem Recht Berufsrichter oder ehrenamtlicher Richter ist;
@@ -1372,7 +1424,7 @@ Zweiter Titel Strafbemessung
 (2) Bei der Zumessung wägt das Gericht die Umstände, die für und gegen den Täter sprechen, gegeneinander ab. Dabei kommen namentlich in Betracht:
 
   
-die Beweggründe und die Ziele des Täters,die Gesinnung, die aus der Tat spricht, und der bei der Tat aufgewendete Wille,das Maß der Pflichtwidrigkeit,die Art der Ausführung und die verschuldeten Auswirkungen der Tat,das Vorleben des Täters, seine persönlichen und wirtschaftlichen Verhältnisse sowiesein Verhalten nach der Tat, besonders sein Bemühen, den Schaden wiedergutzumachen, sowie das Bemühen des Täters, einen Ausgleich mit dem Verletzten zu erreichen.
+die Beweggründe und die Ziele des Täters, besonders auch rassistische, fremdenfeindliche oder sonstige menschenverachtende,die Gesinnung, die aus der Tat spricht, und der bei der Tat aufgewendete Wille,das Maß der Pflichtwidrigkeit,die Art der Ausführung und die verschuldeten Auswirkungen der Tat,das Vorleben des Täters, seine persönlichen und wirtschaftlichen Verhältnisse sowiesein Verhalten nach der Tat, besonders sein Bemühen, den Schaden wiedergutzumachen, sowie das Bemühen des Täters, einen Ausgleich mit dem Verletzten zu erreichen.
 
 (3) Umstände, die schon Merkmale des gesetzlichen Tatbestandes sind, dürfen nicht berücksichtigt werden.
 
@@ -2347,6 +2399,8 @@ Der Umfang des Erlangten und dessen Wert sowie die Höhe des Anspruchs, dessen E
 
 (4) § 73c gilt entsprechend.
 
+(+++ § 73d: Zur Anwendung vgl. § 184b F ab 27.12.2003 +++)
+
 ### § 73e Wirkung des Verfalls
 
 (1) Wird der Verfall eines Gegenstandes angeordnet, so geht das Eigentum an der Sache oder das verfallene Recht mit der Rechtskraft der Entscheidung auf den Staat über, wenn es dem von der Anordnung Betroffenen zu dieser Zeit zusteht. Rechte Dritter an dem Gegenstand bleiben bestehen.
@@ -2378,6 +2432,8 @@ wenigstens leichtfertig dazu beigetragen hat, daß die Sache oder das Recht Mitt
 
 2.  
 die Gegenstände in Kenntnis der Umstände, welche die Einziehung zugelassen hätten, in verwerflicher Weise erworben hat.
+
+(+++ § 74a: Zur Anwendung vgl. § 184b F ab 27.12.2003 u. § 201a +++)
 
 ### § 74b Grundsatz der Verhältnismäßigkeit
 
@@ -2526,7 +2582,7 @@ Vierter Abschnitt Strafantrag, Ermächtigung, Strafverlangen
 
 (1) Eine Tat, die nur auf Antrag verfolgbar ist, wird nicht verfolgt, wenn der Antragsberechtigte es unterläßt, den Antrag bis zum Ablauf einer Frist von drei Monaten zu stellen. Fällt das Ende der Frist auf einen Sonntag, einen allgemeinen Feiertag oder einen Sonnabend, so endet die Frist mit Ablauf des nächsten Werktags.
 
-(2) Die Frist beginnt mit Ablauf des Tages, an dem der Berechtigte von der Tat und der Person des Täters Kenntnis erlangt. Hängt die Verfolgbarkeit der Tat auch von einer Entscheidung über die Nichtigkeit oder Auflösung einer Ehe ab, so beginnt die Frist nicht vor Ablauf des Tages, an dem der Berechtigte von der Rechtskraft der Entscheidung Kenntnis erlangt. Für den Antrag des gesetzlichen Vertreters und des Sorgeberechtigten kommt es auf dessen Kenntnis an.
+(2) Die Frist beginnt mit Ablauf des Tages, an dem der Berechtigte von der Tat und der Person des Täters Kenntnis erlangt. Für den Antrag des gesetzlichen Vertreters und des Sorgeberechtigten kommt es auf dessen Kenntnis an.
 
 (3) Sind mehrere antragsberechtigt oder mehrere an der Tat beteiligt, so läuft die Frist für und gegen jeden gesondert.
 
@@ -2592,7 +2648,7 @@ Die Verjährung beginnt, sobald die Tat beendet ist. Tritt ein zum Tatbestand ge
 (1) Die Verjährung ruht
 
 1.  
-bis zur Vollendung des 21. Lebensjahres des Opfers bei Straftaten nach den §§ 174 bis 174c, 176 bis 179, 225 und 226a,
+bis zur Vollendung des 30. Lebensjahres des Opfers bei Straftaten nach den §§ 174 bis 174c, 176 bis 179, 180 Absatz 3, §§ 182, 225, 226a und 237,
 
 2.  
 solange nach dem Gesetz die Verfolgung nicht begonnen oder nicht fortgesetzt werden kann; dies gilt nicht, wenn die Tat nur deshalb nicht verfolgt werden kann, weil Antrag, Ermächtigung oder Strafverlangen fehlen.
@@ -2624,6 +2680,8 @@ bis zum Eingang der Ablehnung dieses Ersuchens durch den ausländischen Staat be
 bis zur Rücknahme dieses Ersuchens.
 
 Lässt sich das Datum des Zugangs des Ersuchens beim ausländischen Staat nicht ermitteln, gilt das Ersuchen nach Ablauf von einem Monat seit der Absendung oder Übergabe an den ausländischen Staat als zugegangen, sofern nicht die ersuchende Behörde Kenntnis davon erlangt, dass das Ersuchen dem ausländischen Staat tatsächlich nicht oder erst zu einem späteren Zeitpunkt zugegangen ist. Satz 1 gilt nicht für ein Auslieferungsersuchen, für das im ersuchten Staat auf Grund des Rahmenbeschlusses des Rates vom 13. Juni 2002 über den Europäischen Haftbefehl und die Übergabeverfahren zwischen den Mitgliedstaaten (ABl. EG Nr. L 190 S. 1) oder auf Grund völkerrechtlicher Vereinbarung eine § 83c des Gesetzes über die internationale Rechtshilfe in Strafsachen vergleichbare Fristenregelung besteht.
+
+(6) In den Fällen des § 78 Absatz 3 Nummer 1 bis 3 ruht die Verjährung ab der Übergabe der Person an den Internationalen Strafgerichtshof oder den Vollstreckungsstaat bis zu ihrer Rückgabe an die deutschen Behörden oder bis zu ihrer Freilassung durch den Internationalen Strafgerichtshof oder den Vollstreckungsstaat.
 
 § 78b Abs. 2 Nr. 1: Mit dem GG vereinbar, BVerfGE v. 15.11.1978 I 1967 - 2 BvL 13/77 -
 
@@ -2966,17 +3024,16 @@ ganz oder zum Teil außer Tätigkeit gesetzt oder den bestimmungsmäßigen Zweck
 eine andere Person unterweist oder sich unterweisen lässt in der Herstellung von oder im Umgang mit Schusswaffen, Sprengstoffen, Spreng- oder Brandvorrichtungen, Kernbrenn- oder sonstigen radioaktiven Stoffen, Stoffen, die Gift enthalten oder hervorbringen können, anderen gesundheitsschädlichen Stoffen, zur Ausführung der Tat erforderlichen besonderen Vorrichtungen oder in sonstigen Fertigkeiten, die der Begehung einer der in Absatz 1 genannten Straftaten dienen,
 
 2.  
-Waffen, Stoffe oder Vorrichtungen der in Nummer 1 bezeichneten Art herstellt, sich oder einem anderen verschafft, verwahrt oder einem anderen überlässt,
+Waffen, Stoffe oder Vorrichtungen der in Nummer 1 bezeichneten Art herstellt, sich oder einem anderen verschafft, verwahrt oder einem anderen überlässt oder
 
 3.  
-Gegenstände oder Stoffe sich verschafft oder verwahrt, die für die Herstellung von Waffen, Stoffen oder Vorrichtungen der in Nummer 1 bezeichneten Art wesentlich sind, oder
+Gegenstände oder Stoffe sich verschafft oder verwahrt, die für die Herstellung von Waffen, Stoffen oder Vorrichtungen der in Nummer 1 bezeichneten Art wesentlich sind.
 
-4.  
-für deren Begehung nicht unerhebliche Vermögenswerte sammelt, entgegennimmt oder zur Verfügung stellt.
+(2a) Absatz 1 ist auch anzuwenden, wenn der Täter eine schwere staatsgefährdende Gewalttat vorbereitet, indem er es unternimmt, zum Zweck der Begehung einer schweren staatsgefährdenden Gewalttat oder der in Absatz 2 Nummer 1 genannten Handlungen aus der Bundesrepublik Deutschland auszureisen, um sich in einen Staat zu begeben, in dem Unterweisungen von Personen im Sinne des Absatzes 2 Nummer 1 erfolgen.
 
 (3) Absatz 1 gilt auch, wenn die Vorbereitung im Ausland begangen wird. Wird die Vorbereitung außerhalb der Mitgliedstaaten der Europäischen Union begangen, gilt dies nur, wenn sie durch einen Deutschen oder einen Ausländer mit Lebensgrundlage im Inland begangen wird oder die vorbereitete schwere staatsgefährdende Gewalttat im Inland oder durch oder gegen einen Deutschen begangen werden soll.
 
-(4) In den Fällen des Absatzes 3 Satz 2 bedarf die Verfolgung der Ermächtigung durch das Bundesministerium der Justiz. Wird die Vorbereitung in einem anderen Mitgliedstaat der Europäischen Union begangen, bedarf die Verfolgung der Ermächtigung durch das Bundesministerium der Justiz, wenn die Vorbereitung weder durch einen Deutschen erfolgt noch die vorbereitete schwere staatsgefährdende Gewalttat im Inland noch durch oder gegen einen Deutschen begangen werden soll.
+(4) In den Fällen des Absatzes 3 Satz 2 bedarf die Verfolgung der Ermächtigung durch das Bundesministerium der Justiz und für Verbraucherschutz. Wird die Vorbereitung in einem anderen Mitgliedstaat der Europäischen Union begangen, bedarf die Verfolgung der Ermächtigung durch das Bundesministerium der Justiz und für Verbraucherschutz, wenn die Vorbereitung weder durch einen Deutschen erfolgt noch die vorbereitete schwere staatsgefährdende Gewalttat im Inland noch durch oder gegen einen Deutschen begangen werden soll.
 
 (5) In minder schweren Fällen ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
@@ -2992,7 +3049,7 @@ für deren Begehung nicht unerhebliche Vermögenswerte sammelt, entgegennimmt od
 
 (3) Absatz 1 gilt auch, wenn das Aufnehmen oder Unterhalten von Beziehungen im Ausland erfolgt. Außerhalb der Mitgliedstaaten der Europäischen Union gilt dies nur, wenn das Aufnehmen oder Unterhalten von Beziehungen durch einen Deutschen oder einen Ausländer mit Lebensgrundlage im Inland begangen wird.
 
-(4) Die Verfolgung bedarf der Ermächtigung durch das Bundesministerium der Justiz
+(4) Die Verfolgung bedarf der Ermächtigung durch das Bundesministerium der Justiz und für Verbraucherschutz
 
 1.  
 in den Fällen des Absatzes 3 Satz 2 oder
@@ -3001,6 +3058,48 @@ in den Fällen des Absatzes 3 Satz 2 oder
 wenn das Aufnehmen oder Unterhalten von Beziehungen in einem anderen Mitgliedstaat der Europäischen Union nicht durch einen Deutschen begangen wird.
 
 (5) Ist die Schuld gering, so kann das Gericht von einer Bestrafung nach dieser Vorschrift absehen.
+
+### § 89c Terrorismusfinanzierung
+
+(1) Wer Vermögenswerte sammelt, entgegennimmt oder zur Verfügung stellt mit dem Wissen oder in der Absicht, dass diese von einer anderen Person zur Begehung
+
+1.  
+eines Mordes (§ 211), eines Totschlags (§ 212), eines Völkermordes (§ 6 des Völkerstrafgesetzbuches), eines Verbrechens gegen die Menschlichkeit (§ 7 des Völkerstrafgesetzbuches), eines Kriegsverbrechens (§§ 8, 9, 10, 11 oder 12 des Völkerstrafgesetzbuches), einer Körperverletzung nach § 224 oder einer Körperverletzung, die einem anderen Menschen schwere körperliche oder seelische Schäden, insbesondere der in § 226 bezeichneten Art, zufügt,
+
+2.  
+eines erpresserischen Menschenraubes (§ 239a) oder einer Geiselnahme (§ 239b),
+
+3.  
+von Straftaten nach den §§ 303b, 305, 305a oder gemeingefährlicher Straftaten in den Fällen der §§ 306 bis 306c oder 307 Absatz 1 bis 3, des § 308 Absatz 1 bis 4, des § 309 Absatz 1 bis 5, der §§ 313, 314 oder 315 Absatz 1, 3 oder 4, des § 316b Absatz 1 oder 3 oder des § 316c Absatz 1 bis 3 oder des § 317 Absatz 1,
+
+4.  
+von Straftaten gegen die Umwelt in den Fällen des § 330a Absatz 1 bis 3,
+
+5.  
+von Straftaten nach § 19 Absatz 1 bis 3, § 20 Absatz 1 oder 2, § 20a Absatz 1 bis 3, § 19 Absatz 2 Nummer 2 oder Absatz 3 Nummer 2, § 20 Absatz 1 oder 2 oder § 20a Absatz 1 bis 3, jeweils auch in Verbindung mit § 21, oder nach § 22a Absatz 1 bis 3 des Gesetzes über die Kontrolle von Kriegswaffen,
+
+6.  
+von Straftaten nach § 51 Absatz 1 bis 3 des Waffengesetzes,
+
+7.  
+einer Straftat nach § 328 Absatz 1 oder 2 oder § 310 Absatz 1 oder 2,
+
+8.  
+einer Straftat nach § 89a Absatz 2a
+
+verwendet werden sollen, wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft. Satz 1 ist in den Fällen der Nummern 1 bis 7 nur anzuwenden, wenn die dort bezeichnete Tat dazu bestimmt ist, die Bevölkerung auf erhebliche Weise einzuschüchtern, eine Behörde oder eine internationale Organisation rechtswidrig mit Gewalt oder durch Drohung mit Gewalt zu nötigen oder die politischen, verfassungsrechtlichen, wirtschaftlichen oder sozialen Grundstrukturen eines Staates oder einer internationalen Organisation zu beseitigen oder erheblich zu beeinträchtigen, und durch die Art ihrer Begehung oder ihre Auswirkungen einen Staat oder eine internationale Organisation erheblich schädigen kann.
+
+(2) Ebenso wird bestraft, wer unter der Voraussetzung des Absatzes 1 Satz 2 Vermögenswerte sammelt, entgegennimmt oder zur Verfügung stellt, um selbst eine der in Absatz 1 Satz 1 genannten Straftaten zu begehen.
+
+(3) Die Absätze 1 und 2 gelten auch, wenn die Tat im Ausland begangen wird. Wird sie außerhalb der Mitgliedstaaten der Europäischen Union begangen, gilt dies nur, wenn sie durch einen Deutschen oder einen Ausländer mit Lebensgrundlage im Inland begangen wird oder die finanzierte Straftat im Inland oder durch oder gegen einen Deutschen begangen werden soll.
+
+(4) In den Fällen des Absatzes 3 Satz 2 bedarf die Verfolgung der Ermächtigung durch das Bundesministerium der Justiz und für Verbraucherschutz. Wird die Tat in einem anderen Mitgliedstaat der Europäischen Union begangen, bedarf die Verfolgung der Ermächtigung durch das Bundesministerium der Justiz und für Verbraucherschutz, wenn die Tat weder durch einen Deutschen begangen wird noch die finanzierte Straftat im Inland noch durch oder gegen einen Deutschen begangen werden soll.
+
+(5) Sind die Vermögenswerte bei einer Tat nach Absatz 1 oder 2 geringwertig, so ist auf Freiheitsstrafe von drei Monaten bis zu fünf Jahren zu erkennen.
+
+(6) Das Gericht mildert die Strafe (§ 49 Absatz 1) oder kann von Strafe absehen, wenn die Schuld des Täters gering ist.
+
+(7) Das Gericht kann die Strafe nach seinem Ermessen mildern (§ 49 Absatz 2) oder von einer Bestrafung nach dieser Vorschrift absehen, wenn der Täter freiwillig die weitere Vorbereitung der Tat aufgibt und eine von ihm verursachte und erkannte Gefahr, dass andere diese Tat weiter vorbereiten oder sie ausführen, abwendet oder wesentlich mindert oder wenn er freiwillig die Vollendung dieser Tat verhindert. Wird ohne Zutun des Täters die bezeichnete Gefahr abgewendet oder wesentlich gemindert oder die Vollendung der Tat verhindert, genügt sein freiwilliges und ernsthaftes Bemühen, dieses Ziel zu erreichen.
 
 ### § 90 Verunglimpfung des Bundespräsidenten
 
@@ -3404,13 +3503,43 @@ Neben einer Freiheitsstrafe von mindestens sechs Monaten wegen einer Straftat na
 
 ### § 108d Geltungsbereich
 
-Die §§ 107 bis 108c gelten für Wahlen zu den Volksvertretungen, für die Wahl der Abgeordneten des Europäischen Parlaments, für sonstige Wahlen und Abstimmungen des Volkes im Bund, in den Ländern, Gemeinden und Gemeindeverbänden sowie für Urwahlen in der Sozialversicherung. Einer Wahl oder Abstimmung steht das Unterschreiben eines Wahlvorschlags oder das Unterschreiben für ein Volksbegehren gleich.
+Die §§ 107 bis 108c gelten für Wahlen zu den Volksvertretungen, für die Wahl der Abgeordneten des Europäischen Parlaments, für sonstige Wahlen und Abstimmungen des Volkes im Bund, in den Ländern, in kommunalen Gebietskörperschaften, für Wahlen und Abstimmungen in Teilgebieten eines Landes oder einer kommunalen Gebietskörperschaft sowie für Urwahlen in der Sozialversicherung. Einer Wahl oder Abstimmung steht das Unterschreiben eines Wahlvorschlags oder das Unterschreiben für ein Volksbegehren gleich.
 
-### § 108e Abgeordnetenbestechung
+### § 108e Bestechlichkeit und Bestechung von Mandatsträgern
 
-(1) Wer es unternimmt, für eine Wahl oder Abstimmung im Europäischen Parlament oder in einer Volksvertretung des Bundes, der Länder, Gemeinden oder Gemeindeverbände eine Stimme zu kaufen oder zu verkaufen, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+(1) Wer als Mitglied einer Volksvertretung des Bundes oder der Länder einen ungerechtfertigten Vorteil für sich oder einen Dritten als Gegenleistung dafür fordert, sich versprechen lässt oder annimmt, dass er bei der Wahrnehmung seines Mandates eine Handlung im Auftrag oder auf Weisung vornehme oder unterlasse, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
-(2) Neben einer Freiheitsstrafe von mindestens sechs Monaten wegen einer Straftat nach Absatz 1 kann das Gericht die Fähigkeit, Rechte aus öffentlichen Wahlen zu erlangen, und das Recht, in öffentlichen Angelegenheiten zu wählen oder zu stimmen, aberkennen.
+(2) Ebenso wird bestraft, wer einem Mitglied einer Volksvertretung des Bundes oder der Länder einen ungerechtfertigten Vorteil für dieses Mitglied oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, dass es bei der Wahrnehmung seines Mandates eine Handlung im Auftrag oder auf Weisung vornehme oder unterlasse.
+
+(3) Den in den Absätzen 1 und 2 genannten Mitgliedern gleich stehen Mitglieder
+
+1.  
+einer Volksvertretung einer kommunalen Gebietskörperschaft,
+
+2.  
+eines in unmittelbarer und allgemeiner Wahl gewählten Gremiums einer für ein Teilgebiet eines Landes oder einer kommunalen Gebietskörperschaft gebildeten Verwaltungseinheit,
+
+3.  
+der Bundesversammlung,
+
+4.  
+des Europäischen Parlaments,
+
+5.  
+einer parlamentarischen Versammlung einer internationalen Organisation und
+
+6.  
+eines Gesetzgebungsorgans eines ausländischen Staates.
+
+(4) Ein ungerechtfertigter Vorteil liegt insbesondere nicht vor, wenn die Annahme des Vorteils im Einklang mit den für die Rechtsstellung des Mitglieds maßgeblichen Vorschriften steht. Keinen ungerechtfertigten Vorteil stellen dar
+
+1.  
+ein politisches Mandat oder eine politische Funktion sowie
+
+2.  
+eine nach dem Parteiengesetz oder entsprechenden Gesetzen zulässige Spende.
+
+(5) Neben einer Freiheitsstrafe von mindestens sechs Monaten kann das Gericht die Fähigkeit, Rechte aus öffentlichen Wahlen zu erlangen, und das Recht, in öffentlichen Angelegenheiten zu wählen oder zu stimmen, aberkennen.
 
 Fünfter Abschnitt Straftaten gegen die Landesverteidigung
 ---------------------------------------------------------
@@ -3752,7 +3881,7 @@ zu begehen, oder wer sich an einer solchen Vereinigung als Mitglied beteiligt, w
 
 ### § 129b Kriminelle und terroristische Vereinigungen im Ausland; Erweiterter Verfall und Einziehung
 
-(1) Die §§ 129 und 129a gelten auch für Vereinigungen im Ausland. Bezieht sich die Tat auf eine Vereinigung außerhalb der Mitgliedstaaten der Europäischen Union, so gilt dies nur, wenn sie durch eine im räumlichen Geltungsbereich dieses Gesetzes ausgeübte Tätigkeit begangen wird oder wenn der Täter oder das Opfer Deutscher ist oder sich im Inland befindet. In den Fällen des Satzes 2 wird die Tat nur mit Ermächtigung des Bundesministeriums der Justiz verfolgt. Die Ermächtigung kann für den Einzelfall oder allgemein auch für die Verfolgung künftiger Taten erteilt werden, die sich auf eine bestimmte Vereinigung beziehen. Bei der Entscheidung über die Ermächtigung zieht das Ministerium in Betracht, ob die Bestrebungen der Vereinigung gegen die Grundwerte einer die Würde des Menschen achtenden staatlichen Ordnung oder gegen das friedliche Zusammenleben der Völker gerichtet sind und bei Abwägung aller Umstände als verwerflich erscheinen.
+(1) Die §§ 129 und 129a gelten auch für Vereinigungen im Ausland. Bezieht sich die Tat auf eine Vereinigung außerhalb der Mitgliedstaaten der Europäischen Union, so gilt dies nur, wenn sie durch eine im räumlichen Geltungsbereich dieses Gesetzes ausgeübte Tätigkeit begangen wird oder wenn der Täter oder das Opfer Deutscher ist oder sich im Inland befindet. In den Fällen des Satzes 2 wird die Tat nur mit Ermächtigung des Bundesministeriums der Justiz und für Verbraucherschutz verfolgt. Die Ermächtigung kann für den Einzelfall oder allgemein auch für die Verfolgung künftiger Taten erteilt werden, die sich auf eine bestimmte Vereinigung beziehen. Bei der Entscheidung über die Ermächtigung zieht das Ministerium in Betracht, ob die Bestrebungen der Vereinigung gegen die Grundwerte einer die Würde des Menschen achtenden staatlichen Ordnung oder gegen das friedliche Zusammenleben der Völker gerichtet sind und bei Abwägung aller Umstände als verwerflich erscheinen.
 
 (2) In den Fällen der §§ 129 und 129a, jeweils auch in Verbindung mit Absatz 1, sind die §§ 73d und 74a anzuwenden.
 
@@ -3771,70 +3900,83 @@ wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
 (2) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
 1.  
-Schriften (§ 11 Absatz 3), die zum Hass gegen eine vorbezeichnete Gruppe, Teile der Bevölkerung oder gegen einen Einzelnen wegen seiner Zugehörigkeit zu einer vorbezeichneten Gruppe oder zu einem Teil der Bevölkerung aufstacheln, zu Gewalt- oder Willkürmaßnahmen gegen sie auffordern oder ihre Menschenwürde dadurch angreifen, dass sie beschimpft, böswillig verächtlich gemacht oder verleumdet werden,
+eine Schrift (§ 11 Absatz 3) verbreitet oder der Öffentlichkeit zugänglich macht oder einer Person unter achtzehn Jahren eine Schrift (§ 11 Absatz 3) anbietet, überlässt oder zugänglich macht, die
 
 a)  
-verbreitet,
+zum Hass gegen eine in Absatz 1 Nummer 1 bezeichnete Gruppe, gegen Teile der Bevölkerung oder gegen einen Einzelnen wegen seiner Zugehörigkeit zu einer in Absatz 1 Nummer 1 bezeichneten Gruppe oder zu einem Teil der Bevölkerung aufstachelt,
 
 b)  
-öffentlich ausstellt, anschlägt, vorführt oder sonst zugänglich macht,
+zu Gewalt- oder Willkürmaßnahmen gegen in Buchstabe a genannte Personen oder Personenmehrheiten auffordert oder
 
 c)  
-einer Person unter achtzehn Jahren anbietet, überlässt oder zugänglich macht oder
-
-d)  
-herstellt, bezieht, liefert, vorrätig hält, anbietet, ankündigt, anpreist, einzuführen oder auszuführen unternimmt, um sie oder aus ihnen gewonnene Stücke im Sinne der Buchstaben a bis c zu verwenden oder einem anderen eine solche Verwendung zu ermöglichen, oder
+die Menschenwürde von in Buchstabe a genannten Personen oder Personenmehrheiten dadurch angreift, dass diese beschimpft, böswillig verächtlich gemacht oder verleumdet werden,
 
 2.  
-eine Darbietung des in Nummer 1 bezeichneten Inhalts durch Rundfunk, Medien- oder Teledienste verbreitet.
+einen in Nummer 1 Buchstabe a bis c bezeichneten Inhalt mittels Rundfunk oder Telemedien einer Person unter achtzehn Jahren oder der Öffentlichkeit zugänglich macht oder
+
+3.  
+eine Schrift (§ 11 Absatz 3) des in Nummer 1 Buchstabe a bis c bezeichneten Inhalts herstellt, bezieht, liefert, vorrätig hält, anbietet, bewirbt oder es unternimmt, diese Schrift ein- oder auszuführen, um sie oder aus ihr gewonnene Stücke im Sinne der Nummer 1 oder Nummer 2 zu verwenden oder einer anderen Person eine solche Verwendung zu ermöglichen.
 
 (3) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer eine unter der Herrschaft des Nationalsozialismus begangene Handlung der in § 6 Abs. 1 des Völkerstrafgesetzbuches bezeichneten Art in einer Weise, die geeignet ist, den öffentlichen Frieden zu stören, öffentlich oder in einer Versammlung billigt, leugnet oder verharmlost.
 
 (4) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer öffentlich oder in einer Versammlung den öffentlichen Frieden in einer die Würde der Opfer verletzenden Weise dadurch stört, dass er die nationalsozialistische Gewalt- und Willkürherrschaft billigt, verherrlicht oder rechtfertigt.
 
-(5) Absatz 2 gilt auch für Schriften (§ 11 Abs. 3) des in den Absätzen 3 und 4 bezeichneten Inhalts.
+(5) Absatz 2 Nummer 1 und 3 gilt auch für eine Schrift (§ 11 Absatz 3) des in den Absätzen 3 und 4 bezeichneten Inhalts. Nach Absatz 2 Nummer 2 wird auch bestraft, wer einen in den Absätzen 3 und 4 bezeichneten Inhalt mittels Rundfunk oder Telemedien einer Person unter achtzehn Jahren oder der Öffentlichkeit zugänglich macht.
 
-(6) In den Fällen des Absatzes 2, auch in Verbindung mit Absatz 5, und in den Fällen der Absätze 3 und 4 gilt § 86 Abs. 3 entsprechend.
+(6) In den Fällen des Absatzes 2 Nummer 1 und 2, auch in Verbindung mit Absatz 5, ist der Versuch strafbar.
+
+(7) In den Fällen des Absatzes 2, auch in Verbindung mit Absatz 5, und in den Fällen der Absätze 3 und 4 gilt § 86 Abs. 3 entsprechend.
 
 ### § 130a Anleitung zu Straftaten
 
-(1) Wer eine Schrift (§ 11 Abs. 3), die geeignet ist, als Anleitung zu einer in § 126 Abs. 1 genannten rechtswidrigen Tat zu dienen, und nach ihrem Inhalt bestimmt ist, die Bereitschaft anderer zu fördern oder zu wecken, eine solche Tat zu begehen, verbreitet, öffentlich ausstellt, anschlägt, vorführt oder sonst zugänglich macht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+(1) Wer eine Schrift (§ 11 Abs. 3), die geeignet ist, als Anleitung zu einer in § 126 Abs. 1 genannten rechtswidrigen Tat zu dienen, und nach ihrem Inhalt bestimmt ist, die Bereitschaft anderer zu fördern oder zu wecken, eine solche Tat zu begehen, verbreitet oder der Öffentlichkeit zugänglich macht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 (2) Ebenso wird bestraft, wer
 
 1.  
-eine Schrift (§ 11 Abs. 3), die geeignet ist, als Anleitung zu einer in § 126 Abs. 1 genannten rechtswidrigen Tat zu dienen, verbreitet, öffentlich ausstellt, anschlägt, vorführt oder sonst zugänglich macht oder
+eine Schrift (§ 11 Abs. 3), die geeignet ist, als Anleitung zu einer in § 126 Abs. 1 genannten rechtswidrigen Tat zu dienen, verbreitet oder der Öffentlichkeit zugänglich macht oder
 
 2.  
 öffentlich oder in einer Versammlung zu einer in § 126 Abs. 1 genannten rechtswidrigen Tat eine Anleitung gibt,
 
 um die Bereitschaft anderer zu fördern oder zu wecken, eine solche Tat zu begehen.
 
-(3) § 86 Abs. 3 gilt entsprechend.
+(3) Nach Absatz 1 wird auch bestraft, wer einen in Absatz 1 oder Absatz 2 Nummer 1 bezeichneten Inhalt mittels Rundfunk oder Telemedien der Öffentlichkeit zugänglich macht.
+
+(4) § 86 Abs. 3 gilt entsprechend.
 
 ### § 131 Gewaltdarstellung
 
-(1) Wer Schriften (§ 11 Abs. 3), die grausame oder sonst unmenschliche Gewalttätigkeiten gegen Menschen oder menschenähnliche Wesen in einer Art schildern, die eine Verherrlichung oder Verharmlosung solcher Gewalttätigkeiten ausdrückt oder die das Grausame oder Unmenschliche des Vorgangs in einer die Menschenwürde verletzenden Weise darstellt,
+(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
 1.  
-verbreitet,
+eine Schrift (§ 11 Absatz 3), die grausame oder sonst unmenschliche Gewalttätigkeiten gegen Menschen oder menschenähnliche Wesen in einer Art schildert, die eine Verherrlichung oder Verharmlosung solcher Gewalttätigkeiten ausdrückt oder die das Grausame oder Unmenschliche des Vorgangs in einer die Menschenwürde verletzenden Weise darstellt,
+
+a)  
+verbreitet oder der Öffentlichkeit zugänglich macht,
+
+b)  
+einer Person unter achtzehn Jahren anbietet, überlässt oder zugänglich macht oder
 
 2.  
-öffentlich ausstellt, anschlägt, vorführt oder sonst zugänglich macht,
+einen in Nummer 1 bezeichneten Inhalt mittels Rundfunk oder Telemedien
+
+a)  
+einer Person unter achtzehn Jahren oder
+
+b)  
+der Öffentlichkeit
+
+zugänglich macht oder
 
 3.  
-einer Person unter achtzehn Jahren anbietet, überläßt oder zugänglich macht oder
+eine Schrift (§ 11 Absatz 3) des in Nummer 1 bezeichneten Inhalts herstellt, bezieht, liefert, vorrätig hält, anbietet, bewirbt oder es unternimmt, diese Schrift ein- oder auszuführen, um sie oder aus ihr gewonnene Stücke im Sinne der Nummer 1 Buchstabe a oder b oder der Nummer 2 zu verwenden oder einer anderen Person eine solche Verwendung zu ermöglichen.
 
-4.  
-herstellt, bezieht, liefert, vorrätig hält, anbietet, ankündigt, anpreist, einzuführen oder auszuführen unternimmt, um sie oder aus ihnen gewonnene Stücke im Sinne der Nummern 1 bis 3 zu verwenden oder einem anderen eine solche Verwendung zu ermöglichen,
+In den Fällen des Satzes 1 Nummer 1 und 2 ist der Versuch strafbar.
 
-wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
+(2) Absatz 1 gilt nicht, wenn die Handlung der Berichterstattung über Vorgänge des Zeitgeschehens oder der Geschichte dient.
 
-(2) Ebenso wird bestraft, wer eine Darbietung des in Absatz 1 bezeichneten Inhalts durch Rundfunk, Medien- oder Teledienste verbreitet.
-
-(3) Die Absätze 1 und 2 gelten nicht, wenn die Handlung der Berichterstattung über Vorgänge des Zeitgeschehens oder der Geschichte dient.
-
-(4) Absatz 1 Nr. 3 ist nicht anzuwenden, wenn der zur Sorge für die Person Berechtigte handelt; dies gilt nicht, wenn der Sorgeberechtigte durch das Anbieten, Überlassen oder Zugänglichmachen seine Erziehungspflicht gröblich verletzt.
+(3) Absatz 1 Satz 1 Nummer 1 Buchstabe b, Nummer 2 Buchstabe a ist nicht anzuwenden, wenn der zur Sorge für die Person Berechtigte handelt; dies gilt nicht, wenn der Sorgeberechtigte durch das Anbieten, Überlassen oder Zugänglichmachen seine Erziehungspflicht gröblich verletzt.
 
 ### § 132 Amtsanmaßung
 
@@ -4371,9 +4513,17 @@ Zwölfter Abschnitt Straftaten gegen den Personenstand, die Ehe und die Familie
 
 Wer seine Fürsorge- oder Erziehungspflicht gegenüber einer Person unter sechzehn Jahren gröblich verletzt und dadurch den Schutzbefohlenen in die Gefahr bringt, in seiner körperlichen oder psychischen Entwicklung erheblich geschädigt zu werden, einen kriminellen Lebenswandel zu führen oder der Prostitution nachzugehen, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
-### § 172 Doppelehe
+### § 172 Doppelehe; doppelte Lebenspartnerschaft
 
-Wer eine Ehe schließt, obwohl er verheiratet ist, oder wer mit einem Verheirateten eine Ehe schließt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer verheiratet ist oder eine Lebenspartnerschaft führt und
+
+1.  
+mit einer dritten Person eine Ehe schließt oder
+
+2.  
+gemäß § 1 Absatz 1 des Lebenspartnerschaftsgesetzes gegenüber der für die Begründung der Lebenspartnerschaft zuständigen Stelle erklärt, mit einer dritten Person eine Lebenspartnerschaft führen zu wollen.
+
+Ebenso wird bestraft, wer mit einer dritten Person, die verheiratet ist oder eine Lebenspartnerschaft führt, die Ehe schließt oder gemäß § 1 Absatz 1 des Lebenspartnerschaftsgesetzes gegenüber der für die Begründung der Lebenspartnerschaft zuständigen Stelle erklärt, mit dieser dritten Person eine Lebenspartnerschaft führen zu wollen.
 
 ### § 173 Beischlaf zwischen Verwandten
 
@@ -4399,11 +4549,19 @@ an einer Person unter sechzehn Jahren, die ihm zur Erziehung, zur Ausbildung ode
 an einer Person unter achtzehn Jahren, die ihm zur Erziehung, zur Ausbildung oder zur Betreuung in der Lebensführung anvertraut oder im Rahmen eines Dienst- oder Arbeitsverhältnisses untergeordnet ist, unter Mißbrauch einer mit dem Erziehungs-, Ausbildungs-, Betreuungs-, Dienst- oder Arbeitsverhältnis verbundenen Abhängigkeit oder
 
 3.  
-an seinem noch nicht achtzehn Jahre alten leiblichen oder angenommenen Kind
+an einer Person unter achtzehn Jahren, die sein leiblicher oder rechtlicher Abkömmling ist oder der seines Ehegatten, seines Lebenspartners oder einer Person, mit der er in eheähnlicher oder lebenspartnerschaftsähnlicher Gemeinschaft lebt,
 
 vornimmt oder an sich von dem Schutzbefohlenen vornehmen läßt, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
 
-(2) Wer unter den Voraussetzungen des Absatzes 1 Nr. 1 bis 3
+(2) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird eine Person bestraft, der in einer dazu bestimmten Einrichtung die Erziehung, Ausbildung oder Betreuung in der Lebensführung von Personen unter achtzehn Jahren anvertraut ist, und die sexuelle Handlungen
+
+1.  
+an einer Person unter sechzehn Jahren, die zu dieser Einrichtung in einem Rechtsverhältnis steht, das ihrer Erziehung, Ausbildung oder Betreuung in der Lebensführung dient, vornimmt oder an sich von ihr vornehmen lässt oder
+
+2.  
+unter Ausnutzung ihrer Stellung an einer Person unter achtzehn Jahren, die zu dieser Einrichtung in einem Rechtsverhältnis steht, das ihrer Erziehung, Ausbildung oder Betreuung in der Lebensführung dient, vornimmt oder an sich von ihr vornehmen lässt.
+
+(3) Wer unter den Voraussetzungen des Absatzes 1 oder 2
 
 1.  
 sexuelle Handlungen vor dem Schutzbefohlenen vornimmt oder
@@ -4413,9 +4571,9 @@ den Schutzbefohlenen dazu bestimmt, daß er sexuelle Handlungen vor ihm vornimmt
 
 um sich oder den Schutzbefohlenen hierdurch sexuell zu erregen, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
-(3) Der Versuch ist strafbar.
+(4) Der Versuch ist strafbar.
 
-(4) In den Fällen des Absatzes 1 Nr. 1 oder des Absatzes 2 in Verbindung mit Absatz 1 Nr. 1 kann das Gericht von einer Bestrafung nach dieser Vorschrift absehen, wenn bei Berücksichtigung des Verhaltens des Schutzbefohlenen das Unrecht der Tat gering ist.
+(5) In den Fällen des Absatzes 1 Nummer 1, des Absatzes 2 Nummer 1 oder des Absatzes 3 in Verbindung mit Absatz 1 Nummer 1 oder mit Absatz 2 Nummer 1 kann das Gericht von einer Bestrafung nach dieser Vorschrift absehen, wenn das Unrecht der Tat gering ist.
 
 ### § 174a Sexueller Mißbrauch von Gefangenen, behördlich Verwahrten oder Kranken und Hilfsbedürftigen in Einrichtungen
 
@@ -4460,10 +4618,16 @@ sexuelle Handlungen vor einem Kind vornimmt,
 ein Kind dazu bestimmt, dass es sexuelle Handlungen vornimmt, soweit die Tat nicht nach Absatz 1 oder Absatz 2 mit Strafe bedroht ist,
 
 3.  
-auf ein Kind durch Schriften (§ 11 Abs. 3) einwirkt, um es zu sexuellen Handlungen zu bringen, die es an oder vor dem Täter oder einem Dritten vornehmen oder von dem Täter oder einem Dritten an sich vornehmen lassen soll, oder
+auf ein Kind mittels Schriften (§ 11 Absatz 3) oder mittels Informations- oder Kommunikationstechnologie einwirkt, um
+
+a)  
+das Kind zu sexuellen Handlungen zu bringen, die es an oder vor dem Täter oder einer dritten Person vornehmen oder von dem Täter oder einer dritten Person an sich vornehmen lassen soll, oder
+
+b)  
+um eine Tat nach § 184b Absatz 1 Nummer 3 oder nach § 184b Absatz 3 zu begehen, oder
 
 4.  
-auf ein Kind durch Vorzeigen pornographischer Abbildungen oder Darstellungen, durch Abspielen von Tonträgern pornographischen Inhalts oder durch entsprechende Reden einwirkt.
+auf ein Kind durch Vorzeigen pornographischer Abbildungen oder Darstellungen, durch Abspielen von Tonträgern pornographischen Inhalts, durch Zugänglichmachen pornographischer Inhalte mittels Informations- und Kommunikationstechnologie oder durch entsprechende Reden einwirkt.
 
 (5) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird bestraft, wer ein Kind für eine Tat nach den Absätzen 1 bis 4 anbietet oder nachzuweisen verspricht oder wer sich mit einem anderen zu einer solchen Tat verabredet.
 
@@ -4484,7 +4648,7 @@ die Tat von mehreren gemeinschaftlich begangen wird oder
 3.  
 der Täter das Kind durch die Tat in die Gefahr einer schweren Gesundheitsschädigung oder einer erheblichen Schädigung der körperlichen oder seelischen Entwicklung bringt.
 
-(3) Mit Freiheitsstrafe nicht unter zwei Jahren wird bestraft, wer in den Fällen des § 176 Abs. 1 bis 3, 4 Nr. 1 oder Nr. 2 oder des § 176 Abs. 6 als Täter oder anderer Beteiligter in der Absicht handelt, die Tat zum Gegenstand einer pornographischen Schrift (§ 11 Abs. 3) zu machen, die nach § 184b Abs. 1 bis 3 verbreitet werden soll.
+(3) Mit Freiheitsstrafe nicht unter zwei Jahren wird bestraft, wer in den Fällen des § 176 Abs. 1 bis 3, 4 Nr. 1 oder Nr. 2 oder des § 176 Abs. 6 als Täter oder anderer Beteiligter in der Absicht handelt, die Tat zum Gegenstand einer pornographischen Schrift (§ 11 Abs. 3) zu machen, die nach § 184b Absatz 1 oder 2 verbreitet werden soll.
 
 (4) In minder schweren Fällen des Absatzes 1 ist auf Freiheitsstrafe von drei Monaten bis zu fünf Jahren, in minder schweren Fällen des Absatzes 2 auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren zu erkennen.
 
@@ -4630,7 +4794,7 @@ und im Hinblick darauf Beziehungen zu ihr unterhält, die über den Einzelfall h
 
 (2) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer die persönliche oder wirtschaftliche Unabhängigkeit einer anderen Person dadurch beeinträchtigt, dass er gewerbsmäßig die Prostitutionsausübung der anderen Person durch Vermittlung sexuellen Verkehrs fördert und im Hinblick darauf Beziehungen zu ihr unterhält, die über den Einzelfall hinausgehen.
 
-(3) Nach den Absätzen 1 und 2 wird auch bestraft, wer die in Absatz 1 Nr. 1 und 2 genannten Handlungen oder die in Absatz 2 bezeichnete Förderung gegenüber seinem Ehegatten vornimmt.
+(3) Nach den Absätzen 1 und 2 wird auch bestraft, wer die in Absatz 1 Nr. 1 und 2 genannten Handlungen oder die in Absatz 2 bezeichnete Förderung gegenüber seinem Ehegatten oder Lebenspartner vornimmt.
 
 ### § 181b Führungsaufsicht
 
@@ -4662,7 +4826,7 @@ sexuelle Handlungen an ihr vornimmt oder an sich von ihr vornehmen läßt oder
 2.  
 diese dazu bestimmt, sexuelle Handlungen an einem Dritten vorzunehmen oder von einem Dritten an sich vornehmen zu lassen,
 
-und dabei die fehlende Fähigkeit des Opfers zur sexuellen Selbstbestimmung ausnutzt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+und dabei die ihr gegenüber fehlende Fähigkeit des Opfers zur sexuellen Selbstbestimmung ausnutzt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 (4) Der Versuch ist strafbar.
 
@@ -4684,7 +4848,7 @@ und dabei die fehlende Fähigkeit des Opfers zur sexuellen Selbstbestimmung ausn
 nach einer anderen Vorschrift, die im Höchstmaß Freiheitsstrafe bis zu einem Jahr oder Geldstrafe androht, oder
 
 2.  
-nach § 174 Abs. 2 Nr. 1 oder § 176 Abs. 4 Nr. 1
+nach § 174 Absatz 3 Nummer 1 oder § 176 Abs. 4 Nr. 1
 
 bestraft wird.
 
@@ -4694,13 +4858,13 @@ Wer öffentlich sexuelle Handlungen vornimmt und dadurch absichtlich oder wissen
 
 ### § 184 Verbreitung pornographischer Schriften
 
-(1) Wer pornographische Schriften (§ 11 Abs. 3)
+(1) Wer eine pornographische Schrift (§ 11 Absatz 3)
 
 1.  
 einer Person unter achtzehn Jahren anbietet, überläßt oder zugänglich macht,
 
 2.  
-an einem Ort, der Personen unter achtzehn Jahren zugänglich ist oder von ihnen eingesehen werden kann, ausstellt, anschlägt, vorführt oder sonst zugänglich macht,
+an einem Ort, der Personen unter achtzehn Jahren zugänglich ist oder von ihnen eingesehen werden kann, zugänglich macht,
 
 3.  
 im Einzelhandel außerhalb von Geschäftsräumen, in Kiosken oder anderen Verkaufsstellen, die der Kunde nicht zu betreten pflegt, im Versandhandel oder in gewerblichen Leihbüchereien oder Lesezirkeln einem anderen anbietet oder überläßt,
@@ -4712,7 +4876,7 @@ im Wege gewerblicher Vermietung oder vergleichbarer gewerblicher Gewährung des 
 im Wege des Versandhandels einzuführen unternimmt,
 
 5.  
-öffentlich an einem Ort, der Personen unter achtzehn Jahren zugänglich ist oder von ihnen eingesehen werden kann, oder durch Verbreiten von Schriften außerhalb des Geschäftsverkehrs mit dem einschlägigen Handel anbietet, ankündigt oder anpreist,
+öffentlich an einem Ort, der Personen unter achtzehn Jahren zugänglich ist oder von ihnen eingesehen werden kann, oder durch Verbreiten von Schriften außerhalb des Geschäftsverkehrs mit dem einschlägigen Handel anbietet oder bewirbt,
 
 6.  
 an einen anderen gelangen läßt, ohne von diesem hierzu aufgefordert zu sein,
@@ -4721,10 +4885,10 @@ an einen anderen gelangen läßt, ohne von diesem hierzu aufgefordert zu sein,
 in einer öffentlichen Filmvorführung gegen ein Entgelt zeigt, das ganz oder überwiegend für diese Vorführung verlangt wird,
 
 8.  
-herstellt, bezieht, liefert, vorrätig hält oder einzuführen unternimmt, um sie oder aus ihnen gewonnene Stücke im Sinne der Nummern 1 bis 7 zu verwenden oder einem anderen eine solche Verwendung zu ermöglichen, oder
+herstellt, bezieht, liefert, vorrätig hält oder einzuführen unternimmt, um sie oder aus ihr gewonnene Stücke im Sinne der Nummern 1 bis 7 zu verwenden oder einer anderen Person eine solche Verwendung zu ermöglichen, oder
 
 9.  
-auszuführen unternimmt, um sie oder aus ihnen gewonnene Stücke im Ausland unter Verstoß gegen die dort geltenden Strafvorschriften zu verbreiten oder öffentlich zugänglich zu machen oder eine solche Verwendung zu ermöglichen,
+auszuführen unternimmt, um sie oder aus ihr gewonnene Stücke im Ausland unter Verstoß gegen die dort geltenden Strafvorschriften zu verbreiten oder der Öffentlichkeit zugänglich zu machen oder eine solche Verwendung zu ermöglichen,
 
 wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
@@ -4736,76 +4900,109 @@ wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 ### § 184a Verbreitung gewalt- oder tierpornographischer Schriften
 
-Wer pornographische Schriften (§ 11 Abs. 3), die Gewalttätigkeiten oder sexuelle Handlungen von Menschen mit Tieren zum Gegenstand haben,
+Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer eine pornographische Schrift (§ 11 Absatz 3), die Gewalttätigkeiten oder sexuelle Handlungen von Menschen mit Tieren zum Gegenstand hat,
 
 1.  
-verbreitet,
+verbreitet oder der Öffentlichkeit zugänglich macht oder
 
 2.  
-öffentlich ausstellt, anschlägt, vorführt oder sonst zugänglich macht oder
+herstellt, bezieht, liefert, vorrätig hält, anbietet, bewirbt oder es unternimmt, diese Schrift ein- oder auszuführen, um sie oder aus ihr gewonnene Stücke im Sinne der Nummer 1 oder des § 184d Absatz 1 Satz 1 zu verwenden oder einer anderen Person eine solche Verwendung zu ermöglichen.
 
-3.  
-herstellt, bezieht, liefert, vorrätig hält, anbietet, ankündigt, anpreist, einzuführen oder auszuführen unternimmt, um sie oder aus ihnen gewonnene Stücke im Sinne der Nummer 1 oder Nummer 2 zu verwenden oder einem anderen eine solche Verwendung zu ermöglichen,
-
-wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+In den Fällen des Satzes 1 Nummer 1 ist der Versuch strafbar.
 
 ### § 184b Verbreitung, Erwerb und Besitz kinderpornographischer Schriften
 
-(1) Wer pornographische Schriften (§ 11 Abs. 3), die sexuelle Handlungen von, an oder vor Kindern (§ 176 Abs. 1) zum Gegenstand haben (kinderpornographische Schriften),
+(1) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird bestraft, wer
 
 1.  
-verbreitet,
+eine kinderpornographische Schrift verbreitet oder der Öffentlichkeit zugänglich macht; kinderpornographisch ist eine pornographische Schrift (§ 11 Absatz 3), wenn sie zum Gegenstand hat:
+
+a)  
+sexuelle Handlungen von, an oder vor einer Person unter vierzehn Jahren (Kind),
+
+b)  
+die Wiedergabe eines ganz oder teilweise unbekleideten Kindes in unnatürlich geschlechtsbetonter Körperhaltung oder
+
+c)  
+die sexuell aufreizende Wiedergabe der unbekleideten Genitalien oder des unbekleideten Gesäßes eines Kindes,
 
 2.  
-öffentlich ausstellt, anschlägt, vorführt oder sonst zugänglich macht oder
+es unternimmt, einer anderen Person den Besitz an einer kinderpornographischen Schrift, die ein tatsächliches oder wirklichkeitsnahes Geschehen wiedergibt, zu verschaffen,
 
 3.  
-herstellt, bezieht, liefert, vorrätig hält, anbietet, ankündigt, anpreist, einzuführen oder auszuführen unternimmt, um sie oder aus ihnen gewonnene Stücke im Sinne der Nummer 1 oder Nummer 2 zu verwenden oder einem anderen eine solche Verwendung zu ermöglichen,
+eine kinderpornographische Schrift, die ein tatsächliches Geschehen wiedergibt, herstellt oder
 
-wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
+4.  
+eine kinderpornographische Schrift herstellt, bezieht, liefert, vorrätig hält, anbietet, bewirbt oder es unternimmt, diese Schrift ein- oder auszuführen, um sie oder aus ihr gewonnene Stücke im Sinne der Nummer 1 oder 2 oder des § 184d Absatz 1 Satz 1 zu verwenden oder einer anderen Person eine solche Verwendung zu ermöglichen, soweit die Tat nicht nach Nummer 3 mit Strafe bedroht ist.
 
-(2) Ebenso wird bestraft, wer es unternimmt, einem anderen den Besitz von kinderpornographischen Schriften zu verschaffen, die ein tatsächliches oder wirklichkeitsnahes Geschehen wiedergeben.
+(2) Handelt der Täter in den Fällen des Absatzes 1 gewerbsmäßig oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat, und gibt die Schrift in den Fällen des Absatzes 1 Nummer 1, 2 und 4 ein tatsächliches oder wirklichkeitsnahes Geschehen wieder, so ist auf Freiheitsstrafe von sechs Monaten bis zu zehn Jahren zu erkennen.
 
-(3) In den Fällen des Absatzes 1 oder des Absatzes 2 ist auf Freiheitsstrafe von sechs Monaten bis zu zehn Jahren zu erkennen, wenn der Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat, und die kinderpornographischen Schriften ein tatsächliches oder wirklichkeitsnahes Geschehen wiedergeben.
+(3) Wer es unternimmt, sich den Besitz an einer kinderpornographischen Schrift, die ein tatsächliches oder wirklichkeitsnahes Geschehen wiedergibt, zu verschaffen, oder wer eine solche Schrift besitzt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
-(4) Wer es unternimmt, sich den Besitz von kinderpornographischen Schriften zu verschaffen, die ein tatsächliches oder wirklichkeitsnahes Geschehen wiedergeben, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft. Ebenso wird bestraft, wer die in Satz 1 bezeichneten Schriften besitzt.
+(4) Der Versuch ist strafbar; dies gilt nicht für Taten nach Absatz 1 Nummer 2 und 4 sowie Absatz 3.
 
-(5) Die Absätze 2 und 4 gelten nicht für Handlungen, die ausschließlich der Erfüllung rechtmäßiger dienstlicher oder beruflicher Pflichten dienen.
+(5) Absatz 1 Nummer 2 und Absatz 3 gelten nicht für Handlungen, die ausschließlich der rechtmäßigen Erfüllung von Folgendem dienen:
 
-(6) In den Fällen des Absatzes 3 ist § 73d anzuwenden. Gegenstände, auf die sich eine Straftat nach Absatz 2 oder Absatz 4 bezieht, werden eingezogen. § 74a ist anzuwenden.
+1.  
+staatliche Aufgaben,
+
+2.  
+Aufgaben, die sich aus Vereinbarungen mit einer zuständigen staatlichen Stelle ergeben, oder
+
+3.  
+dienstliche oder berufliche Pflichten.
+
+(6) In den Fällen des Absatzes 2 ist § 73d anzuwenden. Gegenstände, auf die sich eine Straftat nach Absatz 1 Nummer 2 oder 3 oder Absatz 3 bezieht, werden eingezogen. § 74a ist anzuwenden.
 
 ### § 184c Verbreitung, Erwerb und Besitz jugendpornographischer Schriften
 
-(1) Wer pornographische Schriften (§ 11 Abs. 3), die sexuelle Handlungen von, an oder vor Personen von vierzehn bis achtzehn Jahren zum Gegenstand haben (jugendpornographische Schriften),
+(1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
 1.  
-verbreitet,
+eine jugendpornographische Schrift verbreitet oder der Öffentlichkeit zugänglich macht; jugendpornographisch ist eine pornographische Schrift (§ 11 Absatz 3), wenn sie zum Gegenstand hat:
+
+a)  
+sexuelle Handlungen von, an oder vor einer vierzehn, aber noch nicht achtzehn Jahre alten Person oder
+
+b)  
+die Wiedergabe einer ganz oder teilweise unbekleideten vierzehn, aber noch nicht achtzehn Jahre alten Person in unnatürlich geschlechtsbetonter Körperhaltung,
 
 2.  
-öffentlich ausstellt, anschlägt, vorführt oder sonst zugänglich macht oder
+es unternimmt, einer anderen Person den Besitz an einer jugendpornographischen Schrift, die ein tatsächliches oder wirklichkeitsnahes Geschehen wiedergibt, zu verschaffen,
 
 3.  
-herstellt, bezieht, liefert, vorrätig hält, anbietet, ankündigt, anpreist, einzuführen oder auszuführen unternimmt, um sie oder aus ihnen gewonnene Stücke im Sinne der Nummer 1 oder Nummer 2 zu verwenden oder einem anderen eine solche Verwendung zu ermöglichen,
+eine jugendpornographische Schrift, die ein tatsächliches Geschehen wiedergibt, herstellt oder
 
-wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+4.  
+eine jugendpornographische Schrift herstellt, bezieht, liefert, vorrätig hält, anbietet, bewirbt oder es unternimmt, diese Schrift ein- oder auszuführen, um sie oder aus ihr gewonnene Stücke im Sinne der Nummer 1 oder 2 oder des § 184d Absatz 1 Satz 1 zu verwenden oder einer anderen Person eine solche Verwendung zu ermöglichen, soweit die Tat nicht nach Nummer 3 mit Strafe bedroht ist.
 
-(2) Ebenso wird bestraft, wer es unternimmt, einem anderen den Besitz von jugendpornographischen Schriften zu verschaffen, die ein tatsächliches oder wirklichkeitsnahes Geschehen wiedergeben.
+(2) Handelt der Täter in den Fällen des Absatzes 1 gewerbsmäßig oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat, und gibt die Schrift in den Fällen des Absatzes 1 Nummer 1, 2 und 4 ein tatsächliches oder wirklichkeitsnahes Geschehen wieder, so ist auf Freiheitsstrafe von drei Monaten bis zu fünf Jahren zu erkennen.
 
-(3) In den Fällen des Absatzes 1 oder des Absatzes 2 ist auf Freiheitsstrafe von drei Monaten bis zu fünf Jahren zu erkennen, wenn der Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat, und die jugendpornographischen Schriften ein tatsächliches oder wirklichkeitsnahes Geschehen wiedergeben.
+(3) Wer es unternimmt, sich den Besitz an einer jugendpornographischen Schrift, die ein tatsächliches Geschehen wiedergibt, zu verschaffen, oder wer eine solche Schrift besitzt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
-(4) Wer es unternimmt, sich den Besitz von jugendpornographischen Schriften zu verschaffen, die ein tatsächliches Geschehen wiedergeben, oder wer solche Schriften besitzt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft. Satz 1 ist nicht anzuwenden auf Handlungen von Personen in Bezug auf solche jugendpornographischen Schriften, die sie im Alter von unter achtzehn Jahren mit Einwilligung der dargestellten Personen hergestellt haben.
+(4) Absatz 1 Nummer 3, auch in Verbindung mit Absatz 5, und Absatz 3 sind nicht anzuwenden auf Handlungen von Personen in Bezug auf solche jugendpornographischen Schriften, die sie ausschließlich zum persönlichen Gebrauch mit Einwilligung der dargestellten Personen hergestellt haben.
 
-(5) § 184b Abs. 5 und 6 gilt entsprechend.
+(5) Der Versuch ist strafbar; dies gilt nicht für Taten nach Absatz 1 Nummer 2 und 4 sowie Absatz 3.
 
-### § 184d Verbreitung pornographischer Darbietungen durch Rundfunk, Medien- oder Teledienste
+(6) § 184b Absatz 5 und 6 gilt entsprechend.
 
-Nach den §§ 184 bis 184c wird auch bestraft, wer eine pornographische Darbietung durch Rundfunk, Medien- oder Teledienste verbreitet. In den Fällen des § 184 Abs. 1 ist Satz 1 bei einer Verbreitung durch Medien- oder Teledienste nicht anzuwenden, wenn durch technische oder sonstige Vorkehrungen sichergestellt ist, dass die pornographische Darbietung Personen unter achtzehn Jahren nicht zugänglich ist.
+### § 184d Zugänglichmachen pornographischer Inhalte mittels Rundfunk oder Telemedien; Abruf kinder- und jugendpornographischer Inhalte mittels Telemedien
 
-### § 184e Ausübung der verbotenen Prostitution
+(1) Nach den §§ 184 bis 184c wird auch bestraft, wer einen pornographischen Inhalt mittels Rundfunk oder Telemedien einer anderen Person oder der Öffentlichkeit zugänglich macht. In den Fällen des § 184 Absatz 1 ist Satz 1 bei einer Verbreitung mittels Telemedien nicht anzuwenden, wenn durch technische oder sonstige Vorkehrungen sichergestellt ist, dass der pornographische Inhalt Personen unter achtzehn Jahren nicht zugänglich ist. § 184b Absatz 5 und 6 gilt entsprechend.
+
+(2) Nach § 184b Absatz 3 wird auch bestraft, wer es unternimmt, einen kinderpornographischen Inhalt mittels Telemedien abzurufen. Nach § 184c Absatz 3 wird auch bestraft, wer es unternimmt, einen jugendpornographischen Inhalt mittels Telemedien abzurufen; § 184c Absatz 4 gilt entsprechend. § 184b Absatz 5 und 6 Satz 2 gilt entsprechend.
+
+### § 184e Veranstaltung und Besuch kinder- und jugendpornographischer Darbietungen
+
+(1) Nach § 184b Absatz 1 wird auch bestraft, wer eine kinderpornographische Darbietung veranstaltet. Nach § 184c Absatz 1 wird auch bestraft, wer eine jugendpornographische Darbietung veranstaltet.
+
+(2) Nach § 184b Absatz 3 wird auch bestraft, wer eine kinderpornographische Darbietung besucht. Nach § 184c Absatz 3 wird auch bestraft, wer eine jugendpornographische Darbietung besucht. § 184b Absatz 5 Nummer 1 und 3 gilt entsprechend.
+
+### § 184f Ausübung der verbotenen Prostitution
 
 Wer einem durch Rechtsverordnung erlassenen Verbot, der Prostitution an bestimmten Orten überhaupt oder zu bestimmten Tageszeiten nachzugehen, beharrlich zuwiderhandelt, wird mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu einhundertachtzig Tagessätzen bestraft.
 
-### § 184f Jugendgefährdende Prostitution
+### § 184g Jugendgefährdende Prostitution
 
 Wer der Prostitution
 
@@ -4817,7 +5014,7 @@ in einem Haus, in dem Personen unter achtzehn Jahren wohnen,
 
 in einer Weise nachgeht, die diese Personen sittlich gefährdet, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-### § 184g Begriffsbestimmungen
+### § 184h Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
 
@@ -4825,7 +5022,7 @@ Im Sinne dieses Gesetzes sind
 sexuelle Handlungennur solche, die im Hinblick auf das jeweils geschützte Rechtsgut von einiger Erheblichkeit sind,
 
 2.  
-sexuelle Handlungen vor einem anderennur solche, die vor einem anderen vorgenommen werden, der den Vorgang wahrnimmt.
+sexuelle Handlungen vor einer anderen Personnur solche, die vor einer anderen Person vorgenommen werden, die den Vorgang wahrnimmt.
 
 Vierzehnter Abschnitt Beleidigung
 ---------------------------------
@@ -4872,7 +5069,7 @@ Tadelnde Urteile über wissenschaftliche, künstlerische oder gewerbliche Leistu
 
 ### § 194 Strafantrag
 
-(1) Die Beleidigung wird nur auf Antrag verfolgt. Ist die Tat durch Verbreiten oder öffentliches Zugänglichmachen einer Schrift (§ 11 Abs. 3), in einer Versammlung oder durch eine Darbietung im Rundfunk begangen, so ist ein Antrag nicht erforderlich, wenn der Verletzte als Angehöriger einer Gruppe unter der nationalsozialistischen oder einer anderen Gewalt- und Willkürherrschaft verfolgt wurde, diese Gruppe Teil der Bevölkerung ist und die Beleidigung mit dieser Verfolgung zusammenhängt. Die Tat kann jedoch nicht von Amts wegen verfolgt werden, wenn der Verletzte widerspricht. Der Widerspruch kann nicht zurückgenommen werden. Stirbt der Verletzte, so gehen das Antragsrecht und das Widerspruchsrecht auf die in § 77 Abs. 2 bezeichneten Angehörigen über.
+(1) Die Beleidigung wird nur auf Antrag verfolgt. Ist die Tat durch Verbreiten oder öffentliches Zugänglichmachen einer Schrift (§ 11 Abs. 3), in einer Versammlung oder dadurch begangen, dass beleidigende Inhalte mittels Rundfunk oder Telemedien der Öffentlichkeit zugänglich gemacht worden sind, so ist ein Antrag nicht erforderlich, wenn der Verletzte als Angehöriger einer Gruppe unter der nationalsozialistischen oder einer anderen Gewalt- und Willkürherrschaft verfolgt wurde, diese Gruppe Teil der Bevölkerung ist und die Beleidigung mit dieser Verfolgung zusammenhängt. Die Tat kann jedoch nicht von Amts wegen verfolgt werden, wenn der Verletzte widerspricht. Der Widerspruch kann nicht zurückgenommen werden. Stirbt der Verletzte, so gehen das Antragsrecht und das Widerspruchsrecht auf die in § 77 Abs. 2 bezeichneten Angehörigen über.
 
 (2) Ist das Andenken eines Verstorbenen verunglimpft, so steht das Antragsrecht den in § 77 Abs. 2 bezeichneten Angehörigen zu. Ist die Tat durch Verbreiten oder öffentliches Zugänglichmachen einer Schrift (§ 11 Abs. 3), in einer Versammlung oder durch eine Darbietung im Rundfunk begangen, so ist ein Antrag nicht erforderlich, wenn der Verstorbene sein Leben als Opfer der nationalsozialistischen oder einer anderen Gewalt- und Willkürherrschaft verloren hat und die Verunglimpfung damit zusammenhängt. Die Tat kann jedoch nicht von Amts wegen verfolgt werden, wenn ein Antragsberechtigter der Verfolgung widerspricht. Der Widerspruch kann nicht zurückgenommen werden.
 
@@ -4925,13 +5122,33 @@ Die Tat nach Satz 1 Nr. 2 ist nur strafbar, wenn die öffentliche Mitteilung gee
 
 ### § 201a Verletzung des höchstpersönlichen Lebensbereichs durch Bildaufnahmen
 
-(1) Wer von einer anderen Person, die sich in einer Wohnung oder einem gegen Einblick besonders geschützten Raum befindet, unbefugt Bildaufnahmen herstellt oder überträgt und dadurch deren höchstpersönlichen Lebensbereich verletzt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
+(1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer
 
-(2) Ebenso wird bestraft, wer eine durch eine Tat nach Absatz 1 hergestellte Bildaufnahme gebraucht oder einem Dritten zugänglich macht.
+1.  
+von einer anderen Person, die sich in einer Wohnung oder einem gegen Einblick besonders geschützten Raum befindet, unbefugt eine Bildaufnahme herstellt oder überträgt und dadurch den höchstpersönlichen Lebensbereich der abgebildeten Person verletzt,
 
-(3) Wer eine befugt hergestellte Bildaufnahme von einer anderen Person, die sich in einer Wohnung oder einem gegen Einblick besonders geschützten Raum befindet, wissentlich unbefugt einem Dritten zugänglich macht und dadurch deren höchstpersönlichen Lebensbereich verletzt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
+2.  
+eine Bildaufnahme, die die Hilflosigkeit einer anderen Person zur Schau stellt, unbefugt herstellt oder überträgt und dadurch den höchstpersönlichen Lebensbereich der abgebildeten Person verletzt,
 
-(4) Die Bildträger sowie Bildaufnahmegeräte oder andere technische Mittel, die der Täter oder Teilnehmer verwendet hat, können eingezogen werden. § 74a ist anzuwenden.
+3.  
+eine durch eine Tat nach den Nummern 1 oder 2 hergestellte Bildaufnahme gebraucht oder einer dritten Person zugänglich macht oder
+
+4.  
+eine befugt hergestellte Bildaufnahme der in den Nummern 1 oder 2 bezeichneten Art wissentlich unbefugt einer dritten Person zugänglich macht und dadurch den höchstpersönlichen Lebensbereich der abgebildeten Person verletzt.
+
+(2) Ebenso wird bestraft, wer unbefugt von einer anderen Person eine Bildaufnahme, die geeignet ist, dem Ansehen der abgebildeten Person erheblich zu schaden, einer dritten Person zugänglich macht.
+
+(3) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer eine Bildaufnahme, die die Nacktheit einer anderen Person unter achtzehn Jahren zum Gegenstand hat,
+
+1.  
+herstellt oder anbietet, um sie einer dritten Person gegen Entgelt zu verschaffen, oder
+
+2.  
+sich oder einer dritten Person gegen Entgelt verschafft.
+
+(4) Absatz 1 Nummer 2, auch in Verbindung mit Absatz 1 Nummer 3 oder Nummer 4, Absatz 2 und 3 gelten nicht für Handlungen, die in Wahrnehmung überwiegender berechtigter Interessen erfolgen, namentlich der Kunst oder der Wissenschaft, der Forschung oder der Lehre, der Berichterstattung über Vorgänge des Zeitgeschehens oder der Geschichte oder ähnlichen Zwecken dienen.
+
+(5) Die Bildträger sowie Bildaufnahmegeräte oder andere technische Mittel, die der Täter oder Teilnehmer verwendet hat, können eingezogen werden. § 74a ist anzuwenden.
 
 ### § 202 Verletzung des Briefgeheimnisses
 
@@ -4969,7 +5186,7 @@ Passwörter oder sonstige Sicherungscodes, die den Zugang zu Daten (§ 202a Abs.
 2.  
 Computerprogramme, deren Zweck die Begehung einer solchen Tat ist,
 
-herstellt, sich oder einem anderen verschafft, verkauft, einem anderen überlässt, verbreitet oder sonst zugänglich macht, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
+herstellt, sich oder einem anderen verschafft, verkauft, einem anderen überlässt, verbreitet oder sonst zugänglich macht, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
 (2) § 149 Abs. 2 und 3 gilt entsprechend.
 
@@ -5040,7 +5257,7 @@ anvertraut worden oder sonst bekanntgeworden ist. Einem Geheimnis im Sinne des S
 
 ### § 205 Strafantrag
 
-(1) In den Fällen des § 201 Abs. 1 und 2 und der §§ 201a, 202, 203 und 204 wird die Tat nur auf Antrag verfolgt. Dies gilt auch in den Fällen der §§ 202a und 202b, es sei denn, dass die Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten hält.
+(1) In den Fällen des § 201 Abs. 1 und 2 und der §§ 202, 203 und 204 wird die Tat nur auf Antrag verfolgt. Dies gilt auch in den Fällen der §§ 201a, 202a und 202b, es sei denn, dass die Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten hält.
 
 (2) Stirbt der Verletzte, so geht das Antragsrecht nach § 77 Abs. 2 auf die Angehörigen über; dies gilt nicht in den Fällen der §§ 202a und 202b. Gehört das Geheimnis nicht zum persönlichen Lebensbereich des Verletzten, so geht das Antragsrecht bei Straftaten nach den §§ 203 und 204 auf die Erben über. Offenbart oder verwertet der Täter in den Fällen der §§ 203 und 204 das Geheimnis nach dem Tod des Betroffenen, so gelten die Sätze 1 und 2 sinngemäß.
 
@@ -5913,7 +6130,7 @@ Verbrechen,
 Vergehen nach
 
 a)  
-§ 332 Abs. 1, auch in Verbindung mit Abs. 3, und § 334,
+den §§ 108e, 332 Absatz 1 und 3 sowie § 334, jeweils auch in Verbindung mit § 335a,
 
 b)  
 § 29 Abs. 1 Satz 1 Nr. 1 des Betäubungsmittelgesetzes und § 19 Abs. 1 Nr. 1 des Grundstoffüberwachungsgesetzes,
@@ -5925,15 +6142,15 @@ Vergehen nach § 373 und nach § 374 Abs. 2 der Abgabenordnung, jeweils auch in 
 Vergehen
 
 a)  
-nach den §§ 152a, 181a, 232 Abs. 1 und 2, § 233 Abs. 1 und 2, §§ 233a, 242, 246, 253, 259, 263 bis 264, 266, 267, 269, 271, 284, 326 Abs. 1, 2 und 4, § 328 Abs. 1, 2 und 4 sowie § 348,
+nach den §§ 152a, 181a, 232 Abs. 1 und 2, § 233 Abs. 1 und 2, §§ 233a, 242, 246, 253, 259, 263 bis 264, 266, 267, 269, 271, 284, 299, 326 Abs. 1, 2 und 4, § 328 Abs. 1, 2 und 4 sowie § 348,
 
 b)  
-nach § 96 des Aufenthaltsgesetzes, § 84 des Asylverfahrensgesetzes, nach § 370 der Abgabenordnung, nach § 38 Absatz 1 bis 3 und 5 des Wertpapierhandelsgesetzes sowie nach den §§ 143, 143a und 144 des Markengesetzes, den §§ 106 bis 108b des Urheberrechtsgesetzes, § 25 des Gebrauchsmustergesetzes, den §§ 51 und 65 des Designgesetzes, § 142 des Patentgesetzes, § 10 des Halbleiterschutzgesetzes und § 39 des Sortenschutzgesetzes,
+nach § 96 des Aufenthaltsgesetzes, § 84 des Asylgesetzes, nach § 370 der Abgabenordnung, nach § 38 Absatz 1 bis 3 und 5 des Wertpapierhandelsgesetzes sowie nach den §§ 143, 143a und 144 des Markengesetzes, den §§ 106 bis 108b des Urheberrechtsgesetzes, § 25 des Gebrauchsmustergesetzes, den §§ 51 und 65 des Designgesetzes, § 142 des Patentgesetzes, § 10 des Halbleiterschutzgesetzes und § 39 des Sortenschutzgesetzes,
 
 die gewerbsmäßig oder von einem Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat, begangen worden sind, und
 
 5.  
-Vergehen nach § 89a und nach den §§ 129 und 129a Abs. 3 und 5, jeweils auch in Verbindung mit § 129b Abs. 1, sowie von einem Mitglied einer kriminellen oder terroristischen Vereinigung (§§ 129, 129a, jeweils auch in Verbindung mit § 129b Abs. 1) begangene Vergehen.
+Vergehen nach den §§ 89a und 89c und nach den §§ 129 und 129a Abs. 3 und 5, jeweils auch in Verbindung mit § 129b Abs. 1, sowie von einem Mitglied einer kriminellen oder terroristischen Vereinigung (§§ 129, 129a, jeweils auch in Verbindung mit § 129b Abs. 1) begangene Vergehen.
 
 Satz 1 gilt in den Fällen der gewerbsmäßigen oder bandenmäßigen Steuerhinterziehung nach § 370 der Abgabenordnung für die durch die Steuerhinterziehung ersparten Aufwendungen und unrechtmäßig erlangten Steuererstattungen und -vergütungen sowie in den Fällen des Satzes 2 Nr. 3 auch für einen Gegenstand, hinsichtlich dessen Abgaben hinterzogen worden sind.
 
@@ -5957,15 +6174,15 @@ verwahrt oder für sich oder einen Dritten verwendet, wenn er die Herkunft des G
 
 (8) Den in den Absätzen 1, 2 und 5 bezeichneten Gegenständen stehen solche gleich, die aus einer im Ausland begangenen Tat der in Absatz 1 bezeichneten Art herrühren, wenn die Tat auch am Tatort mit Strafe bedroht ist.
 
-(9) Nach den Absätzen 1 bis 5 wird nicht bestraft, wer
+(9) Nach den Absätzen 1 bis 5 wird nicht bestraft,
 
 1.  
-die Tat freiwillig bei der zuständigen Behörde anzeigt oder freiwillig eine solche Anzeige veranlaßt, wenn nicht die Tat in diesem Zeitpunkt ganz oder zum Teil bereits entdeckt war und der Täter dies wußte oder bei verständiger Würdigung der Sachlage damit rechnen mußte, und
+wer die Tat freiwillig bei der zuständigen Behörde anzeigt oder freiwillig eine solche Anzeige veranlasst, wenn nicht die Tat zu diesem Zeitpunkt bereits ganz oder zum Teil entdeckt war und der Täter dies wusste oder bei verständiger Würdigung der Sachlage damit rechnen musste, und
 
 2.  
-in den Fällen des Absatzes 1 oder 2 unter den in Nummer 1 genannten Voraussetzungen die Sicherstellung des Gegenstandes bewirkt, auf den sich die Straftat bezieht.
+in den Fällen des Absatzes 1 oder des Absatzes 2 unter den in Nummer 1 genannten Voraussetzungen die Sicherstellung des Gegenstandes bewirkt, auf den sich die Straftat bezieht.
 
-Nach den Absätzen 1 bis 5 wird außerdem nicht bestraft, wer wegen Beteiligung an der Vortat strafbar ist.
+Nach den Absätzen 1 bis 5 wird außerdem nicht bestraft, wer wegen Beteiligung an der Vortat strafbar ist. Eine Straflosigkeit nach Satz 2 ist ausgeschlossen, wenn der Täter oder Teilnehmer einen Gegenstand, der aus einer in Absatz 1 Satz 2 genannten rechtswidrigen Tat herrührt, in den Verkehr bringt und dabei die rechtswidrige Herkunft des Gegenstandes verschleiert.
 
 (10) (weggefallen)
 
@@ -5998,7 +6215,7 @@ einen Vermögensverlust großen Ausmaßes herbeiführt oder in der Absicht hande
 eine andere Person in wirtschaftliche Not bringt,
 
 4.  
-seine Befugnisse oder seine Stellung als Amtsträger mißbraucht oder
+seine Befugnisse oder seine Stellung als Amtsträger oder Europäischer Amtsträger mißbraucht oder
 
 5.  
 einen Versicherungsfall vortäuscht, nachdem er oder ein anderer zu diesem Zweck eine Sache von bedeutendem Wert in Brand gesetzt oder durch eine Brandlegung ganz oder teilweise zerstört oder ein Schiff zum Sinken oder Stranden gebracht hat.
@@ -6043,10 +6260,10 @@ in einem Subventionsverfahren eine durch unrichtige oder unvollständige Angaben
 aus grobem Eigennutz oder unter Verwendung nachgemachter oder verfälschter Belege für sich oder einen anderen eine nicht gerechtfertigte Subvention großen Ausmaßes erlangt,
 
 2.  
-seine Befugnisse oder seine Stellung als Amtsträger mißbraucht oder
+seine Befugnisse oder seine Stellung als Amtsträger oder Europäischer Amtsträger mißbraucht oder
 
 3.  
-die Mithilfe eines Amtsträgers ausnutzt, der seine Befugnisse oder seine Stellung mißbraucht.
+die Mithilfe eines Amtsträgers oder Europäischen Amtsträgers ausnutzt, der seine Befugnisse oder seine Stellung mißbraucht.
 
 (3) § 263 Abs. 5 gilt entsprechend.
 
@@ -6212,7 +6429,7 @@ einen Vermögensverlust großen Ausmaßes herbeiführt,
 durch eine große Zahl von unechten oder verfälschten Urkunden die Sicherheit des Rechtsverkehrs erheblich gefährdet oder
 
 4.  
-seine Befugnisse oder seine Stellung als Amtsträger mißbraucht.
+seine Befugnisse oder seine Stellung als Amtsträger oder Europäischer Amtsträger mißbraucht.
 
 (4) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in minder schweren Fällen mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren wird bestraft, wer die Urkundenfälschung als Mitglied einer Bande, die sich zur fortgesetzten Begehung von Straftaten nach den §§ 263 bis 264 oder 267 bis 269 verbunden hat, gewerbsmäßig begeht.
 
@@ -6648,7 +6865,7 @@ Sechsundzwanzigster Abschnitt Straftaten gegen den Wettbewerb
 
 ### § 298 Wettbewerbsbeschränkende Absprachen bei Ausschreibungen
 
-(1) Wer bei einer Ausschreibung über Waren oder gewerbliche Leistungen ein Angebot abgibt, das auf einer rechtswidrigen Absprache beruht, die darauf abzielt, den Veranstalter zur Annahme eines bestimmten Angebots zu veranlassen, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+(1) Wer bei einer Ausschreibung über Waren oder Dienstleistungen ein Angebot abgibt, das auf einer rechtswidrigen Absprache beruht, die darauf abzielt, den Veranstalter zur Annahme eines bestimmten Angebots zu veranlassen, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 (2) Der Ausschreibung im Sinne des Absatzes 1 steht die freihändige Vergabe eines Auftrages nach vorausgegangenem Teilnahmewettbewerb gleich.
 
@@ -6656,11 +6873,21 @@ Sechsundzwanzigster Abschnitt Straftaten gegen den Wettbewerb
 
 ### § 299 Bestechlichkeit und Bestechung im geschäftlichen Verkehr
 
-(1) Wer als Angestellter oder Beauftragter eines geschäftlichen Betriebes im geschäftlichen Verkehr einen Vorteil für sich oder einen Dritten als Gegenleistung dafür fordert, sich versprechen läßt oder annimmt, daß er einen anderen bei dem Bezug von Waren oder gewerblichen Leistungen im Wettbewerb in unlauterer Weise bevorzuge, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+(1) Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer im geschäftlichen Verkehr als Angestellter oder Beauftragter eines Unternehmens
 
-(2) Ebenso wird bestraft, wer im geschäftlichen Verkehr zu Zwecken des Wettbewerbs einem Angestellten oder Beauftragten eines geschäftlichen Betriebes einen Vorteil für diesen oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, daß er ihn oder einen anderen bei dem Bezug von Waren oder gewerblichen Leistungen in unlauterer Weise bevorzuge.
+1.  
+einen Vorteil für sich oder einen Dritten als Gegenleistung dafür fordert, sich versprechen lässt oder annimmt, dass er bei dem Bezug von Waren oder Dienstleistungen einen anderen im inländischen oder ausländischen Wettbewerb in unlauterer Weise bevorzuge, oder
 
-(3) Die Absätze 1 und 2 gelten auch für Handlungen im ausländischen Wettbewerb.
+2.  
+ohne Einwilligung des Unternehmens einen Vorteil für sich oder einen Dritten als Gegenleistung dafür fordert, sich versprechen lässt oder annimmt, dass er bei dem Bezug von Waren oder Dienstleistungen eine Handlung vornehme oder unterlasse und dadurch seine Pflichten gegenüber dem Unternehmen verletze.
+
+(2) Ebenso wird bestraft, wer im geschäftlichen Verkehr einem Angestellten oder Beauftragten eines Unternehmens
+
+1.  
+einen Vorteil für diesen oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, dass er bei dem Bezug von Waren oder Dienstleistungen ihn oder einen anderen im inländischen oder ausländischen Wettbewerb in unlauterer Weise bevorzuge, oder
+
+2.  
+ohne Einwilligung des Unternehmens einen Vorteil für diesen oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, dass er bei dem Bezug von Waren oder Dienstleistungen eine Handlung vornehme oder unterlasse und dadurch seine Pflichten gegenüber dem Unternehmen verletze.
 
 ### § 300 Besonders schwere Fälle der Bestechlichkeit und Bestechung im geschäftlichen Verkehr
 
@@ -6676,13 +6903,11 @@ der Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fo
 
 (1) Die Bestechlichkeit und Bestechung im geschäftlichen Verkehr nach § 299 wird nur auf Antrag verfolgt, es sei denn, daß die Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten hält.
 
-(2) Das Recht, den Strafantrag nach Absatz 1 zu stellen, hat neben dem Verletzten jeder der in § 8 Abs. 3 Nr. 1, 2 und 4 des Gesetzes gegen den unlauteren Wettbewerb bezeichneten Gewerbetreibenden, Verbände und Kammern.
+(2) Das Recht, den Strafantrag nach Absatz 1 zu stellen, haben in den Fällen des § 299 Absatz 1 Nummer 1 und Absatz 2 Nummer 1 neben dem Verletzten auch die in § 8 Absatz 3 Nummer 2 und 4 des Gesetzes gegen den unlauteren Wettbewerb bezeichneten Verbände und Kammern.
 
-### § 302 Vermögensstrafe und Erweiterter Verfall
+### § 302 Erweiterter Verfall
 
-(1) In den Fällen des § 299 Abs. 1 ist § 73d anzuwenden, wenn der Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
-
-(2) In den Fällen des § 299 Abs. 2 sind die §§ 43a, 73d anzuwenden, wenn der Täter als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat. § 73d ist auch dann anzuwenden, wenn der Täter gewerbsmäßig handelt.
+In den Fällen des § 299 ist § 73d anzuwenden, wenn der Täter gewerbsmäßig handelt oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
 
 Siebenundzwanzigster Abschnitt Sachbeschädigung
 -----------------------------------------------
@@ -7641,10 +7866,10 @@ und dadurch den jeweiligen Schutzzweck nicht unerheblich beeinträchtigt, wird m
 (4) Wer unter Verletzung verwaltungsrechtlicher Pflichten in einem Natura 2000-Gebiet einen für die Erhaltungsziele oder den Schutzzweck dieses Gebietes maßgeblichen
 
 1.  
-Lebensraum einer Art, die in Artikel 4 Absatz 2 oder Anhang I der Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über die Erhaltung der wildlebenden Vogelarten (ABl. L 20 vom 26.1.2010, S. 7) oder in Anhang II der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie 2006/105/EG (ABl. L 363 vom 20.12.2006, S. 368) geändert worden ist, aufgeführt ist, oder
+Lebensraum einer Art, die in Artikel 4 Absatz 2 oder Anhang I der Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über die Erhaltung der wildlebenden Vogelarten (ABl. L 20 vom 26.1.2010, S. 7) oder in Anhang II der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie 2013/17/EU (ABl. L 158 vom 10.6.2013, S. 193) geändert worden ist, aufgeführt ist, oder
 
 2.  
-natürlichen Lebensraumtyp, der in Anhang I der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie 2006/105/EG (ABl. L 363 vom 20.12.2006, S. 368) geändert worden ist, aufgeführt ist,
+natürlichen Lebensraumtyp, der in Anhang I der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie 2013/17/EU (ABl. L 158 vom 10.6.2013, S. 193) geändert worden ist, aufgeführt ist,
 
 erheblich schädigt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
@@ -7784,17 +8009,17 @@ Dreißigster Abschnitt Straftaten im Amt
 
 ### § 331 Vorteilsannahme
 
-(1) Ein Amtsträger oder ein für den öffentlichen Dienst besonders Verpflichteter, der für die Dienstausübung einen Vorteil für sich oder einen Dritten fordert, sich versprechen läßt oder annimmt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+(1) Ein Amtsträger, ein Europäischer Amtsträger oder ein für den öffentlichen Dienst besonders Verpflichteter, der für die Dienstausübung einen Vorteil für sich oder einen Dritten fordert, sich versprechen läßt oder annimmt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
-(2) Ein Richter oder Schiedsrichter, der einen Vorteil für sich oder einen Dritten als Gegenleistung dafür fordert, sich versprechen läßt oder annimmt, daß er eine richterliche Handlung vorgenommen hat oder künftig vornehme, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft. Der Versuch ist strafbar.
+(2) Ein Richter, Mitglied eines Gerichts der Europäischen Union oder Schiedsrichter, der einen Vorteil für sich oder einen Dritten als Gegenleistung dafür fordert, sich versprechen läßt oder annimmt, daß er eine richterliche Handlung vorgenommen hat oder künftig vornehme, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft. Der Versuch ist strafbar.
 
 (3) Die Tat ist nicht nach Absatz 1 strafbar, wenn der Täter einen nicht von ihm geforderten Vorteil sich versprechen läßt oder annimmt und die zuständige Behörde im Rahmen ihrer Befugnisse entweder die Annahme vorher genehmigt hat oder der Täter unverzüglich bei ihr Anzeige erstattet und sie die Annahme genehmigt.
 
 ### § 332 Bestechlichkeit
 
-(1) Ein Amtsträger oder ein für den öffentlichen Dienst besonders Verpflichteter, der einen Vorteil für sich oder einen Dritten als Gegenleistung dafür fordert, sich versprechen läßt oder annimmt, daß er eine Diensthandlung vorgenommen hat oder künftig vornehme und dadurch seine Dienstpflichten verletzt hat oder verletzen würde, wird mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren bestraft. In minder schweren Fällen ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe. Der Versuch ist strafbar.
+(1) Ein Amtsträger, ein Europäischer Amtsträger oder ein für den öffentlichen Dienst besonders Verpflichteter, der einen Vorteil für sich oder einen Dritten als Gegenleistung dafür fordert, sich versprechen läßt oder annimmt, daß er eine Diensthandlung vorgenommen hat oder künftig vornehme und dadurch seine Dienstpflichten verletzt hat oder verletzen würde, wird mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren bestraft. In minder schweren Fällen ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe. Der Versuch ist strafbar.
 
-(2) Ein Richter oder Schiedsrichter, der einen Vorteil für sich oder einen Dritten als Gegenleistung dafür fordert, sich versprechen läßt oder annimmt, daß er eine richterliche Handlung vorgenommen hat oder künftig vornehme und dadurch seine richterlichen Pflichten verletzt hat oder verletzen würde, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft. In minder schweren Fällen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu fünf Jahren.
+(2) Ein Richter, Mitglied eines Gerichts der Europäischen Union oder Schiedsrichter, der einen Vorteil für sich oder einen Dritten als Gegenleistung dafür fordert, sich versprechen läßt oder annimmt, daß er eine richterliche Handlung vorgenommen hat oder künftig vornehme und dadurch seine richterlichen Pflichten verletzt hat oder verletzen würde, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft. In minder schweren Fällen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu fünf Jahren.
 
 (3) Falls der Täter den Vorteil als Gegenleistung für eine künftige Handlung fordert, sich versprechen läßt oder annimmt, so sind die Absätze 1 und 2 schon dann anzuwenden, wenn er sich dem anderen gegenüber bereit gezeigt hat,
 
@@ -7806,17 +8031,17 @@ soweit die Handlung in seinem Ermessen steht, sich bei Ausübung des Ermessens d
 
 ### § 333 Vorteilsgewährung
 
-(1) Wer einem Amtsträger, einem für den öffentlichen Dienst besonders Verpflichteten oder einem Soldaten der Bundeswehr für die Dienstausübung einen Vorteil für diesen oder einen Dritten anbietet, verspricht oder gewährt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+(1) Wer einem Amtsträger, einem Europäischen Amtsträger, einem für den öffentlichen Dienst besonders Verpflichteten oder einem Soldaten der Bundeswehr für die Dienstausübung einen Vorteil für diesen oder einen Dritten anbietet, verspricht oder gewährt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
-(2) Wer einem Richter oder Schiedsrichter einen Vorteil für diesen oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, daß er eine richterliche Handlung vorgenommen hat oder künftig vornehme, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+(2) Wer einem Richter, Mitglied eines Gerichts der Europäischen Union oder Schiedsrichter einen Vorteil für diesen oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, daß er eine richterliche Handlung vorgenommen hat oder künftig vornehme, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 (3) Die Tat ist nicht nach Absatz 1 strafbar, wenn die zuständige Behörde im Rahmen ihrer Befugnisse entweder die Annahme des Vorteils durch den Empfänger vorher genehmigt hat oder sie auf unverzügliche Anzeige des Empfängers genehmigt.
 
 ### § 334 Bestechung
 
-(1) Wer einem Amtsträger, einem für den öffentlichen Dienst besonders Verpflichteten oder einem Soldaten der Bundeswehr einen Vorteil für diesen oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, daß er eine Diensthandlung vorgenommen hat oder künftig vornehme und dadurch seine Dienstpflichten verletzt hat oder verletzen würde, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft. In minder schweren Fällen ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
+(1) Wer einem Amtsträger, einem Europäischen Amtsträger, einem für den öffentlichen Dienst besonders Verpflichteten oder einem Soldaten der Bundeswehr einen Vorteil für diesen oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, daß er eine Diensthandlung vorgenommen hat oder künftig vornehme und dadurch seine Dienstpflichten verletzt hat oder verletzen würde, wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft. In minder schweren Fällen ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 
-(2) Wer einem Richter oder Schiedsrichter einen Vorteil für diesen oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, daß er eine richterliche Handlung
+(2) Wer einem Richter, Mitglied eines Gerichts der Europäischen Union oder Schiedsrichter einen Vorteil für diesen oder einen Dritten als Gegenleistung dafür anbietet, verspricht oder gewährt, daß er eine richterliche Handlung
 
 1.  
 vorgenommen und dadurch seine richterlichen Pflichten verletzt hat oder
@@ -7865,19 +8090,55 @@ der Täter fortgesetzt Vorteile annimmt, die er als Gegenleistung dafür geforde
 3.  
 der Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
 
+### § 335a Ausländische und internationale Bedienstete
+
+(1) Für die Anwendung der §§ 332 und 334, jeweils auch in Verbindung mit § 335, auf eine Tat, die sich auf eine künftige richterliche Handlung oder eine künftige Diensthandlung bezieht, stehen gleich:
+
+1.  
+einem Richter:ein Mitglied eines ausländischen und eines internationalen Gerichts;
+
+2.  
+einem sonstigen Amtsträger:
+
+a)  
+ein Bediensteter eines ausländischen Staates und eine Person, die beauftragt ist, öffentliche Aufgaben für einen ausländischen Staat wahrzunehmen;
+
+b)  
+ein Bediensteter einer internationalen Organisation und eine Person, die beauftragt ist, Aufgaben einer internationalen Organisation wahrzunehmen;
+
+c)  
+ein Soldat eines ausländischen Staates und ein Soldat, der beauftragt ist, Aufgaben einer internationalen Organisation wahrzunehmen.
+
+(2) Für die Anwendung der §§ 331 und 333 auf eine Tat, die sich auf eine künftige richterliche Handlung oder eine künftige Diensthandlung bezieht, stehen gleich:
+
+1.  
+einem Richter:ein Mitglied des Internationalen Strafgerichtshofes;
+
+2.  
+einem sonstigen Amtsträger:ein Bediensteter des Internationalen Strafgerichtshofes.
+
+(3) Für die Anwendung des § 333 Absatz 1 und 3 auf eine Tat, die sich auf eine künftige Diensthandlung bezieht, stehen gleich:
+
+1.  
+einem Soldaten der Bundeswehr:ein Soldat der in der Bundesrepublik Deutschland stationierten Truppen der nichtdeutschen Vertragsstaaten des Nordatlantikpaktes, die sich zur Zeit der Tat im Inland aufhalten;
+
+2.  
+einem sonstigen Amtsträger:ein Bediensteter dieser Truppen;
+
+3.  
+einem für den öffentlichen Dienst besonders Verpflichteten:eine Person, die bei den Truppen beschäftigt oder für sie tätig und auf Grund einer allgemeinen oder besonderen Anweisung einer höheren Dienststelle der Truppen zur gewissenhaften Erfüllung ihrer Obliegenheiten förmlich verpflichtet worden ist.
+
 ### § 336 Unterlassen der Diensthandlung
 
-Der Vornahme einer Diensthandlung oder einer richterlichen Handlung im Sinne der §§ 331 bis 335 steht das Unterlassen der Handlung gleich.
+Der Vornahme einer Diensthandlung oder einer richterlichen Handlung im Sinne der §§ 331 bis 335a steht das Unterlassen der Handlung gleich.
 
 ### § 337 Schiedsrichtervergütung
 
 Die Vergütung eines Schiedsrichters ist nur dann ein Vorteil im Sinne der §§ 331 bis 335, wenn der Schiedsrichter sie von einer Partei hinter dem Rücken der anderen fordert, sich versprechen läßt oder annimmt oder wenn sie ihm eine Partei hinter dem Rücken der anderen anbietet, verspricht oder gewährt.
 
-### § 338 Vermögensstrafe und Erweiterter Verfall
+### § 338 Erweiterter Verfall
 
-(1) In den Fällen des § 332, auch in Verbindung mit den §§ 336 und 337, ist § 73d anzuwenden, wenn der Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
-
-(2) In den Fällen des § 334, auch in Verbindung mit den §§ 336 und 337, sind die §§ 43a, 73d anzuwenden, wenn der Täter als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat. § 73d ist auch dann anzuwenden, wenn der Täter gewerbsmäßig handelt.
+In den Fällen der §§ 332 und 334, jeweils auch in Verbindung mit den §§ 335a bis 337, ist § 73d anzuwenden, wenn der Täter gewerbsmäßig handelt oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
 
 ### § 339 Rechtsbeugung
 
