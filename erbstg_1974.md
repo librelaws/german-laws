@@ -592,6 +592,7 @@ in § 13b Abs. 4 tritt an die Stelle des Prozentsatzes für die Begünstigung vo
 (9) Die Absätze 1 bis 8 gelten in den Fällen des § 1 Abs. 1 Nr. 4 entsprechend.
 
 (+++ § 13a: Zur Anwendung vgl. § 37 Abs. 3, 6, 8 +++)
+§ 13a idF d. G v. 22.12.2009 I 3950 iVm § 19 Abs. 1 idF d. Bek. v. 27.2.1997 u. in den seither geltenden Fasssungen v. 19.12.2000, 24.12.2008, 22.12.2009 u. 7.12.2011: Mit Art. 3 Abs. 1 GG zum 1.1.2009 unvereinbar gem. Nr. 1 BVerfGE v. 17.12.2014, 2015 I 4- 1 BvL 21/12 -; das bisherige Recht ist bis zu einer Neuregelung anwendbar; der Gesetzgeber ist verpflichtet, eine Neuregelung bis zum 30.6.2016 zu schaffen, vgl. Nr. 2 BVerfGE v. 17.12.2014, 2015 I 4 - 1 BvL 21/12 -
 
 ### § 13b Begünstigtes Vermögen
 
@@ -658,6 +659,7 @@ Kommt Satz 1 nicht zur Anwendung, gehört solches Verwaltungsvermögen im Sinne 
 (4) Begünstigt sind 85 Prozent des in Absatz 1 genannten Vermögens.
 
 (+++ § 13b: Zur Anwendung vgl. § 37 Abs. 4, 6, 8 +++)
+§ 13b idF d. G v. 24.12.2008 I 3018 iVm § 19 Abs. 1 idF d. Bek. v. 27.2.1997 u. in den seither geltenden Fasssungen v. 19.12.2000, 24.12.2008, 22.12.2009 u. 7.12.2011: Mit Art. 3 Abs. 1 GG zum 1.1.2009 unvereinbar gem. Nr. 1 BVerfGE v. 17.12.2014, 2015 I 4- 1 BvL 21/12 -; das bisherige Recht ist bis zu einer Neuregelung anwendbar; der Gesetzgeber ist verpflichtet, eine Neuregelung bis zum 30.6.2016 zu schaffen, vgl. Nr. 2 BVerfGE v. 17.12.2014, 2015 I 4 - 1 BvL 21/12 -
 
 ### § 13c Steuerbefreiung für zu Wohnzwecken vermietete Grundstücke
 
