@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 26.2.1997 I 418, 1804;
 
 Stand  
-zuletzt geändert durch Art. 9 G v. 1.11.2011 I 2131
+zuletzt geändert durch Art. 26 G v. 26.6.2013 I 1809
 
 ### 
 
@@ -73,6 +73,8 @@ ein Rechtsgeschäft, das den Anspruch auf Übertragung unmittelbar oder mittelba
 4.  
 der Übergang unmittelbar oder mittelbar von mindestens 95 vom Hundert der Anteile der Gesellschaft auf einen anderen, wenn kein schuldrechtliches Geschäft im Sinne der Nummer 3 vorausgegangen ist.
 
+(3a) Soweit eine Besteuerung nach Absatz 2a und Absatz 3 nicht in Betracht kommt, gilt als Rechtsvorgang im Sinne des Absatzes 3 auch ein solcher, aufgrund dessen ein Rechtsträger unmittelbar oder mittelbar oder teils unmittelbar, teils mittelbar eine wirtschaftliche Beteiligung in Höhe von mindestens 95 vom Hundert an einer Gesellschaft, zu deren Vermögen ein inländisches Grundstück gehört, innehat. Die wirtschaftliche Beteiligung ergibt sich aus der Summe der unmittelbaren und mittelbaren Beteiligungen am Kapital oder am Vermögen der Gesellschaft. Für die Ermittlung der mittelbaren Beteiligungen sind die Vomhundertsätze am Kapital oder am Vermögen der Gesellschaften zu multiplizieren.
+
 (4) Im Sinne des Absatzes 3 gelten
 
 1.  
@@ -89,9 +91,11 @@ juristische Personen, die nach dem Gesamtbild der tatsächlichen Verhältnisse f
 
 (5) Bei einem Tauschvertrag, der für beide Vertragsteile den Anspruch auf Übereignung eines Grundstücks begründet, unterliegt der Steuer sowohl die Vereinbarung über die Leistung des einen als auch die Vereinbarung über die Leistung des anderen Vertragsteils.
 
-(6) Ein in Absatz 1, 2 oder 3 bezeichneter Rechtsvorgang unterliegt der Steuer auch dann, wenn ihm ein in einem anderen dieser Absätze bezeichneter Rechtsvorgang vorausgegangen ist. Die Steuer wird jedoch nur insoweit erhoben, als die Bemessungsgrundlage für den späteren Rechtsvorgang den Betrag übersteigt, von dem beim vorausgegangenen Rechtsvorgang die Steuer berechnet worden ist.
+(6) Ein in Absatz 1, 2, 3 oder Absatz 3a bezeichneter Rechtsvorgang unterliegt der Steuer auch dann, wenn ihm ein in einem anderen dieser Absätze bezeichneter Rechtsvorgang vorausgegangen ist. Die Steuer wird jedoch nur insoweit erhoben, als die Bemessungsgrundlage für den späteren Rechtsvorgang den Betrag übersteigt, von dem beim vorausgegangenen Rechtsvorgang die Steuer berechnet worden ist.
 
 (7) (weggefallen)
+
+(+++ § 1: Zur Anwendung vgl. § 23 Abs. 3, 6, 7, 11 +++)
 
 ### § 2 Grundstücke
 
@@ -155,6 +159,8 @@ der Erwerb eines zum Gesamtgut gehörigen Grundstücks durch Teilnehmer an einer
 8.  
 der Rückerwerb eines Grundstücks durch den Treugeber bei Auflösung des Treuhandverhältnisses. Voraussetzung ist, daß für den Rechtsvorgang, durch den der Treuhänder den Anspruch auf Übereignung des Grundstücks oder das Eigentum an dem Grundstück erlangt hatte, die Steuer entrichtet worden ist. Die Anwendung der Vorschrift des § 16 Abs. 2 bleibt unberührt.
 
+(+++ § 3 Nr. 3 bis 7: Zur Anwendung vgl. § 23 Abs. 9 +++)
+
 ### § 4 Besondere Ausnahmen von der Besteuerung
 
 Von der Besteuerung sind ausgenommen:
@@ -169,22 +175,12 @@ der Erwerb eines Grundstücks durch einen ausländischen Staat, wenn das Grundst
 der Erwerb eines Grundstücks durch einen ausländischen Staat oder eine ausländische kulturelle Einrichtung, wenn das Grundstück für kulturelle Zwecke bestimmt ist und Gegenseitigkeit gewährt wird;
 
 4.  
-der Erwerb eines Grundstücks durch eine Kapitalgesellschaft, wenn das Grundstück vor dem 1. Januar 1999 nach den Vorschriften des Gesetzes über die Spaltung der von der Treuhandanstalt verwalteten Unternehmen vom 5. April 1991 (BGBl. I S. 854) oder im Zusammenhang mit der Umstrukturierung der Treuhandanstalt im Wege der Übertragung von Beteiligungen durch die auf Grund des § 23a des Treuhandgesetzes erlassenen Rechtsverordnungen oder im Wege der Vermögenszuordnung nach dem Vermögenszuordnungsgesetz auf die Kapitalgesellschaft übergeht. Ausgenommen ist der Übergang eines Grundstücks, das die Treuhandanstalt von Dritten erworben hat. Dritte sind nicht Kapitalgesellschaften, deren Aktien oder Geschäftsanteile sich unmittelbar oder mittelbar mehrheitlich in der Hand der Treuhandanstalt befinden;
+der Übergang von Grundstücken gemäß § 1 Absatz 1 Nummer 3 und von Gesellschaftsanteilen gemäß § 1 Absatz 3 Nummer 2 und 4 als unmittelbare Rechtsfolge eines Zusammenschlusses kommunaler Gebietskörperschaften, der durch Vereinbarung der beteiligten Gebietskörperschaften mit Zustimmung der nach Landesrecht zuständigen Stelle oder durch Gesetz zustande kommt, sowie Rechtsgeschäfte über Grundstücke gemäß § 1 Absatz 1 Nummer 1 und über Gesellschaftsanteile gemäß § 1 Absatz 3 Nummer 1 und 3 aus Anlass der Aufhebung der Kreisfreiheit einer Gemeinde;
 
 5.  
-der Erwerb eines Grundstücks, das nach Artikel 21 und 22 des Einigungsvertrages in das Eigentum einer Kommune übergegangen ist, wenn der Erwerb vor dem 1. Januar 1999 durch eine Wohnungsgesellschaft erfolgt, deren Anteile sich ausschließlich in der Hand der übertragenden Kommunen befinden;
-
-6.  
-der Erwerb eines Grundstücks durch den Bund, ein Land, eine Gemeinde oder einen Gemeindeverband, wenn das Grundstück vor dem 1. Januar 1999 im Rahmen der Zuordnung des Verwaltungs- oder Finanzvermögens nach den Vorschriften der Artikel 21 und 22 des Einigungsvertrages übertragen wird;
-
-7.  
-der Erwerb eines Grundstücks durch eine Wohnungsgenossenschaft, wenn das Grundstück vor dem 1. Januar 1999 im Rahmen der Zuordnung nach § 1 Abs. 1 und 2 und § 2 des Wohnungsgenossenschafts-Vermögensgesetzes durch Zuordnungsbescheid nach § 1 Abs. 6 des Wohnungsgenossenschafts-Vermögensgesetzes übertragen wird;
-
-8.  
-der Erwerb eines in den Ländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt, Thüringen oder Berlin belegenen Grundstücks durch Verschmelzung oder Spaltung nach dem Umwandlungsgesetz oder durch einen Vorgang, der einer solchen Verschmelzung oder Spaltung entspricht, soweit an der Verschmelzung oder Spaltung nur Wohnungsgesellschaften oder Wohnungsgenossenschaften beteiligt sind, wenn die Verschmelzung oder Spaltung nach dem 31. Dezember 2003 und vor dem 1. Januar 2007 erfolgt;
-
-9.  
 der Erwerb eines Grundstücks von einer juristischen Person des öffentlichen Rechts sowie der Rückerwerb des Grundstücks durch die juristische Person des öffentlichen Rechts, wenn das Grundstück im Rahmen einer Öffentlich Privaten Partnerschaft für einen öffentlichen Dienst oder Gebrauch im Sinne des § 3 Abs. 2 des Grundsteuergesetzes benutzt wird und zwischen dem Erwerber und der juristischen Person des öffentlichen Rechts die Rückübertragung des Grundstücks am Ende des Vertragszeitraums vereinbart worden ist. Die Ausnahme von der Besteuerung entfällt mit Wirkung für die Vergangenheit, wenn die juristische Person des öffentlichen Rechts auf die Rückübertragung des Grundstücks verzichtet oder das Grundstück nicht mehr für einen öffentlichen Dienst oder Gebrauch genutzt wird.
+
+(+++ § 4: Zur Anwendung vgl. § 23 Abs. 5, 11 +++)
 
 ### § 5 Übergang auf eine Gesamthand
 
@@ -206,7 +202,9 @@ der Erwerb eines Grundstücks von einer juristischen Person des öffentlichen Re
 
 ### § 6a Steuervergünstigung bei Umstrukturierungen im Konzern
 
-Für einen nach § 1 Absatz 1 Nummer 3, Absatz 2a oder 3 steuerbaren Rechtsvorgang aufgrund einer Umwandlung im Sinne des § 1 Absatz 1 Nummer 1 bis 3 des Umwandlungsgesetzes wird die Steuer nicht erhoben; für die aufgrund einer Umwandlung übergehende Verwertungsbefugnis wird die Steuer nach § 1 Absatz 2 insoweit nicht erhoben. Satz 1 gilt auch für entsprechende Umwandlungen aufgrund des Rechts eines Mitgliedstaats der Europäischen Union oder eines Staats, auf den das Abkommen über den Europäischen Wirtschaftsraum Anwendung findet. Satz 1 gilt nur, wenn an dem Umwandlungsvorgang ausschließlich ein herrschendes Unternehmen und ein oder mehrere von diesem herrschenden Unternehmen abhängige Gesellschaften oder mehrere von einem herrschenden Unternehmen abhängige Gesellschaften beteiligt sind. Im Sinne von Satz 3 abhängig ist eine Gesellschaft, an deren Kapital oder Gesellschaftsvermögen das herrschende Unternehmen innerhalb von fünf Jahren vor dem Rechtsvorgang und fünf Jahren nach dem Rechtsvorgang unmittelbar oder mittelbar oder teils unmittelbar, teils mittelbar zu mindestens 95 vom Hundert ununterbrochen beteiligt ist.
+Für einen nach § 1 Absatz 1 Nummer 3 Satz 1, Absatz 2, 2a, 3 oder Absatz 3a steuerbaren Rechtsvorgang aufgrund einer Umwandlung im Sinne des § 1 Absatz 1 Nummer 1 bis 3 des Umwandlungsgesetzes, bei Einbringungen sowie bei anderen Erwerbsvorgängen auf gesellschaftsvertraglicher Grundlage wird die Steuer nicht erhoben. Satz 1 gilt auch für entsprechende Umwandlungen aufgrund des Rechts eines Mitgliedstaats der Europäischen Union oder eines Staats, auf den das Abkommen über den Europäischen Wirtschaftsraum Anwendung findet. Satz 1 gilt nur, wenn an dem Umwandlungsvorgang ausschließlich ein herrschendes Unternehmen und ein oder mehrere von diesem herrschenden Unternehmen abhängige Gesellschaften oder mehrere von einem herrschenden Unternehmen abhängige Gesellschaften beteiligt sind. Im Sinne von Satz 3 abhängig ist eine Gesellschaft, an deren Kapital oder Gesellschaftsvermögen das herrschende Unternehmen innerhalb von fünf Jahren vor dem Rechtsvorgang und fünf Jahren nach dem Rechtsvorgang unmittelbar oder mittelbar oder teils unmittelbar, teils mittelbar zu mindestens 95 vom Hundert ununterbrochen beteiligt ist.
+
+(+++ § 6a: Zur Anwendung vgl. § 23 Abs. 8, 10, 11 +++)
 
 ### § 7 Umwandlung von gemeinschaftlichem Eigentum in Flächeneigentum
 
@@ -234,9 +232,11 @@ wenn eine Gegenleistung nicht vorhanden oder nicht zu ermitteln ist;
 bei Umwandlungen auf Grund eines Bundes- oder Landesgesetzes, bei Einbringungen sowie bei anderen Erwerbsvorgängen auf gesellschaftsvertraglicher Grundlage;
 
 3.  
-in den Fällen des § 1 Abs. 2a und 3.
+in den Fällen des § 1 Absatz 2a, 3 und 3a.
 
 Erstreckt sich der Erwerbsvorgang auf ein noch zu errichtendes Gebäude oder beruht die Änderung des Gesellschafterbestandes im Sinne des § 1 Abs. 2a auf einem vorgefaßten Plan zur Bebauung eines Grundstücks, ist der Wert des Grundstücks abweichend von § 138 Abs. 1 Satz 1 des Bewertungsgesetzes nach den tatsächlichen Verhältnissen im Zeitpunkt der Fertigstellung des Gebäudes maßgebend.
+
+(+++ § 8 Abs. 2: Zur Anwendung vgl. § 23 Abs. 4, 6, 11 +++)
 
 ### § 9 Gegenleistung
 
@@ -332,7 +332,13 @@ b)
 mehrerer Unternehmen oder Personen:diese Beteiligten;
 
 6.  
-bei Änderung des Gesellschafterbestandes einer Personengesellschaft:die Personengesellschaft.
+bei Änderung des Gesellschafterbestandes einer Personengesellschaft:die Personengesellschaft;
+
+7.  
+bei der wirtschaftlichen Beteiligung von mindestens 95 vom Hundert an einer Gesellschaft:
+der Rechtsträger, der die wirtschaftliche Beteiligung innehat.
+
+(+++ § 13: Zur Anwendung vgl. § 23 Abs. 3, 6, 11 +++)
 
 ### § 14 Entstehung der Steuer in besonderen Fällen
 
@@ -384,7 +390,9 @@ wenn die Herabsetzung (Minderung) auf Grund des § 437 des Bürgerlichen Gesetzb
 
 (4) Tritt ein Ereignis ein, das nach den Absätzen 1 bis 3 die Aufhebung oder Änderung einer Steuerfestsetzung begründet, endet die Festsetzungsfrist (§§ 169 bis 171 der Abgabenordnung) insoweit nicht vor Ablauf eines Jahres nach dem Eintritt des Ereignisses.
 
-(5) Die Vorschriften der Absätze 1 bis 4 gelten nicht, wenn einer der in § 1 Abs. 2, 2a und 3 bezeichneten Erwerbsvorgänge rückgängig gemacht wird, der nicht ordnungsmäßig angezeigt (§§ 18, 19) war.
+(5) Die Vorschriften der Absätze 1 bis 4 gelten nicht, wenn einer der in § 1 Absatz 2, 2a, 3 und 3a bezeichneten Erwerbsvorgänge rückgängig gemacht wird, der nicht ordnungsmäßig angezeigt (§§ 18, 19) war.
+
+(+++ § 16: Zur Anwendung vgl. § 23 Abs. 3, 6, 7, 11 +++)
 
 Siebenter Abschnitt Örtliche Zuständigkeit, Feststellung von Besteuerungsgrundlagen, Anzeigepflichten und Erteilung der Unbedenklichkeitsbescheinigung
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -403,7 +411,7 @@ Siebenter Abschnitt Örtliche Zuständigkeit, Feststellung von Besteuerungsgrund
 bei Grundstückserwerben durch Umwandlungen auf Grund eines Bundes- oder Landesgesetzes durch das Finanzamt, in dessen Bezirk sich die Geschäftsleitung des Erwerbers befindet, und
 
 2.  
-in den Fällen des § 1 Abs. 2a und 3 durch das Finanzamt, in dessen Bezirk sich die Geschäftsleitung der Gesellschaft befindet,
+in den Fällen des § 1 Absatz 2a, 3 und 3a durch das Finanzamt, in dessen Bezirk sich die Geschäftsleitung der Gesellschaft befindet,
 
 gesondert festgestellt, wenn ein außerhalb des Bezirks dieser Finanzämter liegendes Grundstück oder ein auf das Gebiet eines anderen Landes sich erstreckender Teil eines im Bezirk dieser Finanzämter liegenden Grundstücks betroffen wird. Befindet sich die Geschäftsleitung nicht im Geltungsbereich des Gesetzes und werden in verschiedenen Finanzamtsbezirken liegende Grundstücke oder in verschiedenen Ländern liegende Grundstücksteile betroffen, so stellt das nach Absatz 2 zuständige Finanzamt die Besteuerungsgrundlagen gesondert fest.
 
@@ -418,6 +426,8 @@ der Erwerb steuerfrei ist oder
 die anteilige Besteuerungsgrundlage für den Erwerb des in einem anderen Land liegenden Grundstücksteils 2.500 Euro nicht übersteigt.
 
 Wird von der gesonderten Feststellung abgesehen, so ist in den Fällen der Nummer 2 die anteilige Besteuerungsgrundlage denen der anderen für die Besteuerung zuständigen Finanzämter nach dem Verhältnis ihrer Anteile hinzuzurechnen.
+
+(+++ § 17 Abs. 3: Zur Anwendung vgl. § 23 Abs. 3, 6, 11 +++)
 
 ### § 18 Anzeigepflicht der Gerichte, Behörden und Notare
 
@@ -473,6 +483,9 @@ Rechtsgeschäfte, die den Anspruch auf Übertragung von mindestens 95 vom Hunder
 7.  
 die Übertragung von mindestens 95 vom Hundert der Anteile einer Gesellschaft auf einen anderen, wenn zum Vermögen der Gesellschaft ein Grundstück gehört (§ 1 Abs. 3 Nr. 4);
 
+7a.  
+Rechtsvorgänge, aufgrund derer ein Rechtsträger unmittelbar oder mittelbar oder teils unmittelbar, teils mittelbar eine wirtschaftliche Beteiligung in Höhe von mindestens 95 vom Hundert an einer Gesellschaft, zu deren Vermögen ein inländisches Grundstück gehört, innehat (§ 1 Absatz 3a);
+
 8.  
 Entscheidungen im Sinne von § 18 Abs. 1 Satz 1 Nr. 3. Die Anzeigepflicht besteht auch beim Wechsel im Grundstückseigentum auf Grund einer Eintragung im Handels-, Genossenschafts- oder Vereinsregister.
 
@@ -496,13 +509,15 @@ Leistungen, die ein anderer als der Erwerber des Grundstücks dem Veräußerer a
 Änderungen von Beherrschungsverhältnissen im Sinne des § 6a Satz 4;
 
 5.  
-Änderungen in der Nutzung oder den Verzicht auf Rückübertragung, wenn der Grundstückserwerb nach § 4 Nr. 9 von der Besteuerung ausgenommen war.
+Änderungen in der Nutzung oder den Verzicht auf Rückübertragung, wenn der Grundstückserwerb nach § 4 Nummer 5 von der Besteuerung ausgenommen war.
 
 (3) Die Anzeigepflichtigen haben innerhalb von zwei Wochen, nachdem sie von dem anzeigepflichtigen Vorgang Kenntnis erhalten haben, den Vorgang anzuzeigen, und zwar auch dann, wenn der Vorgang von der Besteuerung ausgenommen ist.
 
 (4) Die Anzeigen sind an das für die Besteuerung, in den Fällen des § 17 Abs. 2 und 3 an das für die gesonderte Feststellung zuständige Finanzamt zu richten. Ist über den anzeigepflichtigen Vorgang eine privatschriftliche Urkunde aufgenommen worden, so ist der Anzeige eine Abschrift der Urkunde beizufügen.
 
 (5) Die Anzeigen sind Steuererklärungen im Sinne der Abgabenordnung. Sie sind schriftlich abzugeben. Sie können gemäß § 87a der Abgabenordnung in elektronischer Form übermittelt werden.
+
+(+++ § 19: Zur Anwendung vgl. § 23 Abs. 3, 6, 7, 8, 11 +++)
 
 ### § 20 Inhalt der Anzeigen
 
@@ -532,7 +547,12 @@ den Namen der Urkundsperson.
 die Firma, den Ort der Geschäftsführung sowie die Wirtschafts-Identifikationsnummer der Gesellschaft gemäß § 139c der Abgabenordnung,
 
 2.  
-die Bezeichnung des oder der Gesellschaftsanteile.
+die Bezeichnung des oder der Gesellschaftsanteile;
+
+3.  
+bei mehreren beteiligten Rechtsträgern eine Beteiligungsübersicht.
+
+(+++ § 20 Abs. 2: Zur Anwendung vgl. § 23 Abs. 11 +++)
 
 ### § 21 Urkundenaushändigung
 
@@ -576,9 +596,11 @@ Neunter Abschnitt Übergangs- und Schlußvorschriften
 
 (8) Die §§ 6a und 19 Absatz 2 Nummer 4a in der Fassung des Artikels 7 des Gesetzes vom 22. Dezember 2009 (BGBl. I S. 3950) sind erstmals auf Erwerbsvorgänge anzuwenden, die nach dem 31. Dezember 2009 verwirklicht werden. § 6a ist nicht anzuwenden, wenn ein im Zeitraum vom 1. Januar 2008 bis 31. Dezember 2009 verwirklichter Erwerbsvorgang rückgängig gemacht wird und deshalb nach § 16 Absatz 1 oder 2 die Steuer nicht zu erheben oder eine Steuerfestsetzung aufzuheben oder zu ändern ist.
 
-(9) § 3 Nummer 3 bis 7 in der Fassung des Artikels 29 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) ist erstmals auf Erwerbsvorgänge anzuwenden, die nach dem 13. Dezember 2010 verwirklicht werden.
+(9) Soweit Steuerbescheide für Erwerbsvorgänge von Lebenspartnern noch nicht bestandskräftig sind, ist § 3 Nummer 3 bis 7 in der Fassung des Artikels 29 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) erstmals auf Erwerbsvorgänge anzuwenden, die nach dem 31. Juli 2001 verwirklicht werden.
 
 (10) § 6a Satz 4 in der Fassung des Artikels 12 des Gesetzes vom 22. Juni 2011 (BGBl. I S. 1126) ist erstmals auf Erwerbsvorgänge anzuwenden, die nach dem 31. Dezember 2009 verwirklicht werden.
+
+(11) § 1 Absatz 3a und 6 Satz 1, § 4 Nummer 4 und 5, § 6a Satz 1, § 8 Absatz 2 Satz 1 Nummer 3, § 13 Nummer 7, § 16 Absatz 5, § 17 Absatz 3 Satz 1 Nummer 2, § 19 Absatz 1 Satz 1 Nummer 7a und Absatz 2 Nummer 5, § 20 Absatz 2 Nummer 3 in der Fassung des Artikels 26 des Gesetzes vom 26. Juni 2013 (BGBl. I S. 1809) sind erstmals auf Erwerbsvorgänge anzuwenden, die nach dem 6. Juni 2013 verwirklicht werden.
 
 ### (XXXX) §§ 24 bis 27 (weggefallen)
 
