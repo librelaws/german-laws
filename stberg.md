@@ -5,11 +5,15 @@ Neuf
 Neugefasst durch Bek. v. 4.11.1975 I 2735;
 
 Stand  
-zuletzt geändert durch Art. 19 G v. 6.12.2011 I 2515
+zuletzt geändert durch Art. 18 G v. 31.8.2013 I 3533
+
+Hinweis  
+Änderung durch Art. 20 G v. 25.7.2014 I 1266 (Nr. 36) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
 ```
+ 
 (+++ Textnachweis Geltung ab: 29.8.1980 +++)
 (+++ Amtliche Hinweise des Normgebers auf EG-Recht: 
      Umsetzung der 
@@ -53,6 +57,7 @@ zuletzt geändert durch Art. 19 G v. 6.12.2011 I 2515
 | Vergütung                                                                                                                                                                                                                  |
 | Erfolgshonorar                                                                                                                                                                                                             |
 | Mitteilungen über Pflichtverletzungen und andere Informationen                                                                                                                                                             |
+| Mitteilung über den Ausgang eines Bußgeldverfahrens wegen unbefugter Hilfeleistung in Steuersachen                                                                                                                         |
 | Erhebung und Verwendung personenbezogener Daten                                                                                                                                                                            |
 | Hilfeleistung im Abgabenrecht fremder Staaten                                                                                                                                                                              |
 |                                                                                                                                                                                                                            |
@@ -164,6 +169,7 @@ zuletzt geändert durch Art. 19 G v. 6.12.2011 I 2515
 | Mitteilung der Ablehnung eines Auftrags                                                                                                                                                                                    |
 | Gebührenordnung                                                                                                                                                                                                            |
 | Pflicht zur Übernahme einer Prozessvertretung                                                                                                                                                                              |
+| Pflicht zur Übernahme der Beratungshilfe                                                                                                                                                                                   |
 | Handakten                                                                                                                                                                                                                  |
 | Berufshaftpflichtversicherung                                                                                                                                                                                              |
 | Vertragliche Begrenzung von Ersatzansprüchen                                                                                                                                                                               |
@@ -338,6 +344,7 @@ zuletzt geändert durch Art. 19 G v. 6.12.2011 I 2515
 |                                                                                                                                                                                                                            |
 | Verwaltungsverfahren und finanzgerichtliches Verfahren                                                                                                                                                                     |
 | Gebühren                                                                                                                                                                                                                   |
+| Laufbahngruppenregelungen der Länder                                                                                                                                                                                       |
 | Ermächtigung zur Neubekanntmachung des Gesetzes                                                                                                                                                                            |
 | Fortgeltung bisheriger Vorschriften                                                                                                                                                                                        |
 | Freie und Hansestadt Hamburg                                                                                                                                                                                               |
@@ -365,7 +372,7 @@ Erster Unterabschnitt Anwendungsbereich
 (1) Dieses Gesetz ist anzuwenden auf die Hilfeleistung
 
 1.  
-in Angelegenheiten, die durch Bundesrecht, Recht der Europäischen Gemeinschaften oder der Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum geregelte Steuern und Vergütungen betreffen, soweit diese durch Bundesfinanzbehörden oder durch Landesfinanzbehörden verwaltet werden,
+in Angelegenheiten, die durch Bundesrecht, Recht der Europäischen Union oder der Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum geregelte Steuern und Vergütungen betreffen, soweit diese durch Bundesfinanzbehörden oder durch Landesfinanzbehörden verwaltet werden,
 
 2.  
 in Angelegenheiten, die die Realsteuern oder die Grunderwerbsteuer betreffen,
@@ -411,7 +418,7 @@ Zur geschäftsmäßigen Hilfeleistung in Steuersachen sind befugt:
 Steuerberater, Steuerbevollmächtigte, Rechtsanwälte, niedergelassene europäische Rechtsanwälte, Wirtschaftsprüfer und vereidigte Buchprüfer,
 
 2.  
-Partnerschaftsgesellschaften, deren Partner ausschließlich die in Nummer 1 und 4 genannten Personen sind,
+Partnerschaftsgesellschaften, deren Partner ausschließlich die in Nummer 1 genannten Personen sind,
 
 3.  
 Steuerberatungsgesellschaften, Rechtsanwaltsgesellschaften, Wirtschaftsprüfungsgesellschaften und Buchprüfungsgesellschaften.
@@ -590,7 +597,7 @@ keine Einkünfte aus Land- und Forstwirtschaft, aus Gewerbebetrieb oder aus selb
 c)  
 Einnahmen aus anderen Einkunftsarten haben, die insgesamt die Höhe von dreizehntausend Euro, im Falle der Zusammenveranlagung von sechsundzwanzigtausend Euro, nicht übersteigen und im Veranlagungsverfahren zu erklären sind oder auf Grund eines Antrags des Steuerpflichtigen erklärt werden. An die Stelle der Einnahmen tritt in Fällen des § 20 Absatz 2 des Einkommensteuergesetzes der Gewinn im Sinne des § 20 Absatz 4 des Einkommensteuergesetzes und in den Fällen des § 23 Absatz 1 des Einkommensteuergesetzes der Gewinn im Sinne des § 23 Absatz 3 Satz 1 des Einkommensteuergesetzes; Verluste bleiben unberücksichtigt.
 
-Die Befugnis erstreckt sich nur auf die Hilfeleistung bei der Einkommensteuer und ihren Zuschlagsteuern. Soweit zulässig, berechtigt sie auch zur Hilfeleistung bei der Eigenheimzulage und der Investitionszulage nach den §§ 3 bis 4 des Investitionszulagengesetzes 1999, bei mit Kinderbetreuungskosten im Sinne von § 9 Abs. 5, § 9c Abs. 2 und 3 des Einkommensteuergesetzes sowie bei mit haushaltsnahen Beschäftigungsverhältnissen im Sinne des § 35a des Einkommensteuergesetzes zusammenhängenden Arbeitgeberaufgaben sowie zur Hilfe bei Sachverhalten des Familienleistungsausgleichs im Sinne des Einkommensteuergesetzes und der sonstigen Zulagen und Prämien, auf die die Vorschriften der Abgabenordnung anzuwenden sind. Mitglieder, die arbeitslos geworden sind, dürfen weiterhin beraten werden.
+Die Befugnis erstreckt sich nur auf die Hilfeleistung bei der Einkommensteuer und ihren Zuschlagsteuern. Soweit zulässig, berechtigt sie auch zur Hilfeleistung bei der Eigenheimzulage und der Investitionszulage nach den §§ 3 bis 4 des Investitionszulagengesetzes 1999, bei mit Kinderbetreuungskosten im Sinne von § 10 Absatz 1 Nummer 5 des Einkommensteuergesetzes sowie bei mit haushaltsnahen Beschäftigungsverhältnissen im Sinne des § 35a des Einkommensteuergesetzes zusammenhängenden Arbeitgeberaufgaben sowie zur Hilfe bei Sachverhalten des Familienleistungsausgleichs im Sinne des Einkommensteuergesetzes und der sonstigen Zulagen und Prämien, auf die die Vorschriften der Abgabenordnung anzuwenden sind. Mitglieder, die arbeitslos geworden sind, dürfen weiterhin beraten werden.
 
 12.  
 inländische Kapitalanlagegesellschaften sowie Personen, Gesellschaften und andere Gesamthandsgemeinschaften, soweit sie in Vertretung der Gläubiger von Kapitalerträgen Sammelanträge auf Erstattung von Kapitalertragsteuer nach § 45b des Einkommensteuergesetzes stellen,
@@ -627,7 +634,15 @@ Dritter Unterabschnitt Verbot und Untersagung
 
 (2) Werden den Finanzbehörden oder den Steuerberaterkammern Tatsachen bekannt, die den Verdacht begründen, dass eine Person oder Vereinigung entgegen Absatz 1 geschäftsmäßig Hilfe in Steuersachen leistet, so haben sie diese Tatsachen der für das Bußgeldverfahren zuständigen Stelle mitteilen.
 
-(3) Werden den Finanzbehörden oder den Steuerberaterkammern Tatsachen bekannt, die den Verdacht begründen, dass Personen, die geschäftsmäßig Hilfe in Steuersachen leisten, entgegen § 132a Abs. 1 Nr. 2 des Strafgesetzbuches die Berufsbezeichnungen „Steuerberater“, „Steuerbevollmächtigter“, „Rechtsanwalt“, „Wirtschaftsprüfer“ oder „vereidigter Buchprüfer“ oder Vereinigungen, die geschäftsmäßig Hilfe in Steuersachen leisten, entgegen § 161 dieses Gesetzes die Bezeichnungen „Steuerberatungsgesellschaft“, „Lohnsteuerhilfeverein“ oder „Landwirtschaftliche Buchstelle“ oder entgegen § 133 der Wirtschaftsprüferordnung die Bezeichnungen „Wirtschaftsprüfungsgesellschaft“ oder „Buchprüfungsgesellschaft“ unbefugt führen, haben sie diese Tatsachen der für das Strafverfahren, das Bußgeldverfahren oder ein berufsaufsichtliches Verfahren zuständigen Stelle mitzuteilen; § 83 dieses Gesetzes und § 30 der Abgabenordnung stehen dem nicht entgegen.
+(3) Die Finanzbehörden oder die Steuerberaterkammern haben der für das Strafverfahren, das Bußgeldverfahren oder ein berufsaufsichtliches Verfahren zuständigen Stelle ihnen bekannte Tatsachen mitzuteilen, die den Verdacht begründen, dass
+
+1.  
+Personen, die geschäftsmäßig Hilfe in Steuersachen leisten, entgegen § 132a Absatz 1 Nummer 2 des Strafgesetzbuches die Berufsbezeichnungen „Steuerberater“, „Steuerbevollmächtigter“, „Rechtsanwalt“, „Wirtschaftsprüfer“ oder „vereidigter Buchprüfer“ führen,
+
+2.  
+Vereinigungen, die geschäftsmäßig Hilfe in Steuersachen leisten, entgegen § 161 dieses Gesetzes unbefugt die Bezeichnungen „Steuerberatungsgesellschaft“, „Lohnsteuerhilfeverein“, „Landwirtschaftliche Buchstelle“ oder unbefugt den Zusatz „und Partner“, „Partnerschaft“ (§ 2 Absatz 1 Satz 1 des Partnerschaftsgesellschaftsgesetzes), „mit beschränkter Berufshaftung“ oder jeweilige Abkürzungen (§ 8 Absatz 4 des Partnerschaftsgesellschaftsgesetzes) oder entgegen § 133 der Wirtschaftsprüferordnung die Bezeichnungen „Wirtschaftsprüfungsgesellschaft“ oder „Buchprüfungsgesellschaft“ führen.
+
+§ 83 dieses Gesetzes und § 30 der Abgabenordnung stehen den Mitteilungen nicht entgegen.
 
 § 5 Abs. 1 Satz 1: IVm § 1 Abs. 2 Nr. 2, §§ 2 bis 4 StBerG mit Art. 12 Abs. 1 GG 100-1 unvereinbar, soweit die geschäftsmäßige Erledigung der laufenden Lohnbuchhaltung (Lohnbuchhaltung mit Ausnahme des Einrichtens der Lohnkonten u. der Abschlußarbeiten nach §§ 41b, 42b EStG 611-1) Personen untersagt wird, die eine kaufmännische Gehilfenprüfung bestanden haben, BVerfGE v. 27.1.1982 I 545 - 1 BvR 807/80 -
 
@@ -662,7 +677,7 @@ wenn eine Tätigkeit nach den §§ 4 und 6 oder eine Tätigkeit als Arbeitnehmer
 
 (2) Die für die Finanzverwaltung zuständige oberste Landesbehörde kann den in § 4 Nr. 7 bezeichneten Vereinigungen im Einvernehmen mit den fachlich beteiligten obersten Landesbehörden die Hilfeleistung in Steuersachen ganz oder teilweise untersagen, wenn eine sachgemäße Tätigkeit nicht gewährleistet ist. Dies gilt nicht, wenn eine der in § 3 Nr. 1 aufgeführten Personen die Hilfeleistung in Steuersachen leitet.
 
-(3) Örtlich zuständig ist die Finanzbehörde, in deren Bezirk die Person oder Vereinigung, deren Tätigkeit untersagt werden soll, ihre Geschäftsleitung hat, hilfsweise in deren Bezirk die Tätigkeit vorwiegend ausgeübt wird.
+(3) Örtlich zuständig ist die Finanzbehörde, in deren Bezirk die Person oder Vereinigung, deren Tätigkeit untersagt werden soll, ihre Geschäftsleitung hat, hilfsweise in deren Bezirk die Tätigkeit vorwiegend ausgeübt wird. Ergibt sich die örtliche Zuständigkeit nicht aus Satz 1, ist die Finanzbehörde zuständig, in deren Bezirk der Anlass für die Amtshandlung besteht.
 
 Vierter Unterabschnitt Sonstige Vorschriften
 --------------------------------------------
@@ -722,6 +737,12 @@ für die Überprüfung der Pflichten eines Beratungsstellenleiters im Sinne des 
 erforderlich sind, der für die Entscheidung zuständigen Stelle, soweit hierdurch schutzwürdige Interessen des Betroffenen nicht beeinträchtigt werden oder das öffentliche Interesse das Geheimhaltungsinteresse der Beteiligten überwiegt. Die Übermittlung unterbleibt, wenn besondere gesetzliche Verwendungsregelungen entgegenstehen; § 83 dieses Gesetzes und § 30 der Abgabenordnung stehen dem nicht entgegen.
 
 (3) Soweit natürliche oder juristische Personen über weitere Qualifikationen im Sinne von § 3 verfügen, dürfen Finanzbehörden und Steuerberaterkammern Informationen im Sinne des Absatzes 2 und nach Maßgabe dieser Vorschrift auch an andere zuständige Stellen übermitteln, soweit ihre Kenntnis aus der Sicht der übermittelnden Stelle für die Verwirklichung der Rechtsfolgen erforderlich ist.
+
+### § 10a Mitteilung über den Ausgang eines Bußgeldverfahrens wegen unbefugter Hilfeleistung in Steuersachen
+
+(1) Liegen tatsächliche Anhaltspunkte dafür vor, das die unbefugte Hilfeleistung in Steuersachen fortgesetzt wird, sind die Finanzbehörden verpflichtet, die Steuerberaterkammer, in deren Bezirk die Person Hilfe in Steuersachen geleistet hat, über den Ausgang eines nach § 160 eingeleiteten Bußgeldverfahrens zu unterrichten und ihr die Tatsachen mitzuteilen, die für die Geltendmachung von Ansprüchen nach den Vorschriften des Gesetzes gegen den unlauteren Wettbewerb erforderlich sind. § 30 der Abgabenordnung steht dem nicht entgegen.
+
+(2) Wird die Hilfe in Steuersachen in verschiedenen Kammerbezirken geleistet, ist die Mitteilung an die Steuerberaterkammer zu richten, in deren Bezirk die Person ihre Geschäftsleitung unterhält, hilfsweise in deren Bezirk die Tätigkeit vorwiegend ausgeübt wird. Ergibt sich die örtliche Zuständigkeit einer Steuerberaterkammer nicht aus Absatz 1 Satz 1 oder Absatz 2 Satz 1, ist die Steuerberaterkammer zuständig, in deren Kammerbezirk die Finanzbehörde, die das Bußgeldverfahren nach § 160 eingeleitet hat, ihren Sitz hat.
 
 ### § 11 Erhebung und Verwendung personenbezogener Daten
 
@@ -840,7 +861,7 @@ a)
 gegen Pflichten nach diesem Gesetz in nachhaltiger Weise verstoßen wurde oder
 
 b)  
-der Lohnsteuerhilfeverein in Vermögensverfall geraten ist; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen des Lohnsteuerhilfevereins eröffnet oder der Lohnsteuerhilfeverein in das vom Insolvenzgericht oder vom Vollstreckungsgericht zu führende Schuldnerverzeichnis (§ 26 Abs. 2 der Insolvenzordnung; § 915 der Zivilprozessordnung) eingetragen ist.
+der Lohnsteuerhilfeverein in Vermögensverfall geraten ist; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen des Lohnsteuerhilfevereins eröffnet oder der Lohnsteuerhilfeverein in das vom Vollstreckungsgericht zu führende Schuldnerverzeichnis (§ 26 Abs. 2 der Insolvenzordnung; § 882b der Zivilprozessordnung) eingetragen ist.
 
 (3) Vor der Rücknahme oder dem Widerruf ist der Lohnsteuerhilfeverein zu hören.
 
@@ -1111,7 +1132,7 @@ Bewertungsrecht, Erbschaftsteuer und Grundsteuer,
 Verbrauch- und Verkehrsteuern, Grundzüge des Zollrechts,
 
 5.  
-Handelsrecht sowie Grundzüge des Bürgerlichen Rechts, des Gesellschaftsrechts, des Insolvenzrechts und des Rechts der Europäischen Gemeinschaft,
+Handelsrecht sowie Grundzüge des Bürgerlichen Rechts, des Gesellschaftsrechts, des Insolvenzrechts und des Rechts der Europäischen Union,
 
 6.  
 Betriebswirtschaft und Rechnungswesen,
@@ -1333,7 +1354,7 @@ infolge strafgerichtlicher Verurteilung die Fähigkeit zur Bekleidung öffentlic
 nicht die vorgeschriebene Haftpflichtversicherung gegen die Haftpflichtgefahren aus seiner Berufstätigkeit unterhält;
 
 4.  
-in Vermögensverfall geraten ist, es sei denn, daß dadurch die Interessen der Auftraggeber nicht gefährdet sind; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen des Steuerberaters oder Steuerbevollmächtigten eröffnet oder der Steuerberater oder Steuerbevollmächtigte in das vom Insolvenzgericht oder vom Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2 der Insolvenzordnung; § 915 der Zivilprozeßordnung) eingetragen ist;
+in Vermögensverfall geraten ist, es sei denn, daß dadurch die Interessen der Auftraggeber nicht gefährdet sind; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen des Steuerberaters oder Steuerbevollmächtigten eröffnet oder der Steuerberater oder Steuerbevollmächtigte in das vom Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2 der Insolvenzordnung; § 882b der Zivilprozeßordnung) eingetragen ist;
 
 5.  
 seine berufliche Niederlassung in das Ausland verlegt, ohne daß ein Zustellungsbevollmächtigter mit Wohnsitz im Inland benannt worden ist. Name und Anschrift sowie jede Änderung der Person oder der Anschrift des Zustellungsbevollmächtigten sind der zuständigen Steuerberaterkammer unverzüglich mitzuteilen. Der Steuerberater oder Steuerbevollmächtigte bleibt Mitglied der Steuerberaterkammer, der er bisher angehört hat;
@@ -1474,7 +1495,7 @@ andere Voraussetzungen für die Anerkennung der Gesellschaft nachträglich fortf
 
 es sei denn, dass die Gesellschaft innerhalb einer angemessenen, von der zuständigen Steuerberaterkammer zu bestimmenden Frist den dem Gesetz entsprechenden Zustand herbeiführt. Die Frist beträgt bei Fortfall der in § 50a genannten Voraussetzungen wegen eines Erbfalls mindestens fünf Jahre.
 
-(2a) Die Anerkennung ist ferner zu widerrufen, wenn die Gesellschaft in Vermögensverfall geraten ist, es sei denn, dass dadurch die Interessen der Auftraggeber nicht gefährdet sind; der Vermögensverfall wird vermutet, wenn die Gesellschaft in das vom Insolvenzgericht oder vom Vollstreckungsgericht zu führende Schuldnerverzeichnis (§ 26 Abs. 2 der Insolvenzordnung, § 915 der Zivilprozessordnung) eingetragen ist.
+(2a) Die Anerkennung ist ferner zu widerrufen, wenn die Gesellschaft in Vermögensverfall geraten ist, es sei denn, dass dadurch die Interessen der Auftraggeber nicht gefährdet sind; der Vermögensverfall wird vermutet, wenn die Gesellschaft in das vom Vollstreckungsgericht zu führende Schuldnerverzeichnis (§ 26 Abs. 2 der Insolvenzordnung, § 882b der Zivilprozessordnung) eingetragen ist.
 
 (3) Vor der Rücknahme oder dem Widerruf ist die Steuerberatungsgesellschaft zu hören.
 
@@ -1625,6 +1646,10 @@ zu richten.
 
 Steuerberater haben im Verfahren vor den Gerichten der Finanzgerichtsbarkeit die Vertretung eines Beteiligten zu übernehmen, wenn sie diesem zur vorläufig unentgeltlichen Wahrnehmung der Rechte auf Grund des § 142 der Finanzgerichtsordnung beigeordnet sind. Der Steuerberater kann beantragen, die Beiordnung aufzuheben, wenn hierfür wichtige Gründe vorliegen.
 
+### § 65a Pflicht zur Übernahme der Beratungshilfe
+
+Steuerberater und Steuerbevollmächtigte sind verpflichtet, die in dem Beratungshilfegesetz vorgesehene Beratungshilfe zu übernehmen. Sie können die Beratungshilfe im Einzelfall aus wichtigem Grund ablehnen.
+
 ### § 66 Handakten
 
 (1) Der Steuerberater oder Steuerbevollmächtigte hat die Handakten für die Dauer von zehn Jahren nach Beendigung des Auftrages aufzubewahren. Diese Verpflichtung erlischt mit der Übergabe der Handakten an den Auftraggeber, spätestens jedoch binnen sechs Monaten, nachdem der Auftraggeber die Aufforderung des Steuerberaters oder Steuerbevollmächtigten erhalten hat, die Handakten in Empfang zu nehmen.
@@ -1637,7 +1662,13 @@ Steuerberater haben im Verfahren vor den Gerichten der Finanzgerichtsbarkeit die
 
 ### § 67 Berufshaftpflichtversicherung
 
-Selbständige Steuerberater und Steuerbevollmächtigte müssen gegen die aus ihrer Berufstätigkeit sich ergebenden Haftpflichtgefahren angemessen versichert sein. Zuständige Stelle im Sinne des § 117 Abs. 2 des Versicherungsvertragsgesetzes ist die Steuerberaterkammer. Die Steuerberaterkammer erteilt Dritten zur Geltendmachung von Schadensersatzansprüchen auf Antrag Auskunft über den Namen, die Adresse und die Versicherungsnummer der Berufshaftpflichtversicherung des Steuerberaters, Steuerbevollmächtigten oder der Steuerberatungsgesellschaft, soweit der Steuerberater, Steuerbevollmächtigte oder die Steuerberatungsgesellschaft kein überwiegendes schutzwürdiges Interesse an der Nichterteilung der Auskunft hat.
+(1) Selbstständige Steuerberater, Steuerbevollmächtigte und Partnerschaftsgesellschaften, auch solche mit beschränkter Berufshaftung nach § 8 Absatz 4 des Partnerschaftsgesellschaftsgesetzes, müssen gegen die aus ihrer Berufstätigkeit sich ergebenden Haftpflichtgefahren angemessen versichert sein.
+
+(2) Partnerschaftsgesellschaften mit beschränkter Berufshaftung erfüllen die Voraussetzungen nach § 8 Absatz 4 Satz 1 des Partnerschaftsgesellschaftsgesetzes, wenn sie eine Berufshaftpflichtversicherung unterhalten, deren Mindestversicherungssumme eine Million Euro beträgt. Die Leistungen des Versicherers für alle innerhalb eines Versicherungsjahres verursachten Schäden können auf den Betrag der Mindestversicherungssumme, vervielfacht mit der Zahl der Partner, begrenzt werden. Die Jahreshöchstleistung für alle in einem Versicherungsjahr verursachten Schäden muss jedoch mindestens vier Millionen Euro betragen.
+
+(3) Zuständige Stelle im Sinne des § 117 Absatz 2 des Versicherungsvertragsgesetzes ist die Steuerberaterkammer.
+
+(4) Die Steuerberaterkammer erteilt Dritten zur Geltendmachung von Schadensersatzansprüchen auf Antrag Auskunft über den Namen, die Adresse und die Versicherungsnummer der Berufshaftpflichtversicherung des Steuerberaters, des Steuerbevollmächtigten, der Steuerberatungsgesellschaft oder der Partnerschaftsgesellschaft, soweit der Steuerberater, der Steuerbevollmächtigte, die Steuerberatungsgesellschaft oder die Partnerschaftsgesellschaft kein überwiegendes schutzwürdiges Interesse an der Nichterteilung der Auskunft hat.
 
 ### § 67a Vertragliche Begrenzung von Ersatzansprüchen
 
@@ -1648,6 +1679,8 @@ durch schriftliche Vereinbarung im Einzelfall bis zur Höhe der Mindestversicher
 
 2.  
 durch vorformulierte Vertragsbedingungen auf den vierfachen Betrag der Mindestversicherungssumme, wenn insoweit Versicherungsschutz besteht.
+
+Für Berufsausübungsgesellschaften gilt Satz 1 entsprechend.
 
 (2) Die persönliche Haftung auf Schadensersatz kann durch vorformulierte Vertragsbedingungen beschränkt werden auf die Mitglieder einer Sozietät, die das Mandat im Rahmen ihrer eigenen beruflichen Befugnisse bearbeiten und namentlich bezeichnet sind. Die Zustimmungserklärung zu einer solchen Beschränkung darf keine anderen Erklärungen enthalten und muß vom Auftraggeber unterschrieben sein.
 
@@ -1782,6 +1815,8 @@ die Wahrnehmung der den Steuerberaterkammern zugewiesenen Aufgaben des Zweiten u
 
 (10) Die nach Absatz 9 zuständige Kasse trägt abweichend von § 105 Absatz 2 des Gesetzes über Ordnungswidrigkeiten die notwendigen Auslagen. Sie ist auch ersatzpflichtig im Sinne des § 110 Absatz 4 des Gesetzes über Ordnungswidrigkeiten.
 
+(11) Die Steuerberaterkammer hat die Aufgabe, in den Fällen des § 160 Absatz 1 Ansprüche nach den Vorschriften des Gesetzes gegen den unlauteren Wettbewerb geltend zu machen, wenn Anhaltspunkte dafür vorliegen, dass die unbefugte Hilfeleistung in Steuersachen fortgesetzt wird.
+
 ### § 77 Vorstand
 
 Der Vorstand der Steuerberaterkammer wird von den Mitgliedern gewählt. Zum Mitglied des Vorstandes kann nur gewählt werden, wer persönliches Mitglied der Kammer ist.
@@ -1808,7 +1843,7 @@ Jede Steuerberaterkammer gibt sich ihre Satzung selbst. Die Satzung bedarf der G
 
 (1) Die Mitglieder sind verpflichtet, Beiträge nach Maßgabe einer Beitragsordnung zu leisten. Die Beitragsordnung bedarf der Genehmigung durch die Aufsichtsbehörde. Die Höhe der Beiträge bestimmt die Mitgliederversammlung. Für die Verjährung des Anspruchs der Steuerberaterkammer auf Zahlung von Beiträgen sind die für die Gebühren geltenden Vorschriften entsprechend anzuwenden.
 
-(2) Die Steuerberaterkammer kann für die Inanspruchnahme von besonderen Einrichtungen oder Tätigkeiten oder für Amtshandlungen nach dem Zweiten und Sechsten Abschnitt des Zweiten Teils dieses Gesetzes Gebühren nach Maßgabe einer Gebührenordnung erheben. Die Gebührenordnung bedarf der Genehmigung der Aufsichtsbehörde. Die Gebühren entstehen mit Inanspruchnahme der besonderen Einrichtung oder Tätigkeit, bei Amtshandlungen, die einen Antrag voraussetzen, mit dessen Eingang bei der Steuerberaterkammer, bei anderen Amtshandlungen mit der Beendigung der Amtshandlung. Der 2. Abschnitt des Verwaltungskostengesetzes ist entsprechend anzuwenden. Im Übrigen gilt das jeweilige Verwaltungsgebührenrecht des Landes.
+(2) Die Steuerberaterkammer kann für die Inanspruchnahme von besonderen Einrichtungen oder Tätigkeiten oder für Amtshandlungen nach dem Zweiten und Sechsten Abschnitt des Zweiten Teils dieses Gesetzes Gebühren nach Maßgabe einer Gebührenordnung erheben. Die Gebührenordnung bedarf der Genehmigung der Aufsichtsbehörde. Die Gebühren entstehen mit Inanspruchnahme der besonderen Einrichtung oder Tätigkeit, bei Amtshandlungen, die einen Antrag voraussetzen, mit dessen Eingang bei der Steuerberaterkammer, bei anderen Amtshandlungen mit der Beendigung der Amtshandlung. Der 2. Abschnitt des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung ist entsprechend anzuwenden. Im Übrigen gilt das jeweilige Verwaltungsgebührenrecht des Landes.
 
 (3) (weggefallen)
 
@@ -1935,7 +1970,7 @@ der besonderen Pflichten gegenüber Auftraggebern, insbesondere in Zusammenhang 
 der Vereinbarung, Berechnung, Sicherung und Beitreibung von Gebühren und Auslagen;
 
 10.  
-der Pflichten in Prozeßkostenhilfesachen;
+der Pflichten in Prozeßkostenhilfe- und Beratungshilfesachen;
 
 11.  
 der Voraussetzung des Führens von Bezeichnungen, die auf besondere Kenntnis bestimmter Steuerrechtsgebiete hinweisen;
@@ -2178,7 +2213,7 @@ Der Steuerberater oder Steuerbevollmächtigte darf zur Durchführung des berufsg
 
 (1) Zu Verteidigern im berufsgerichtlichen Verfahren vor dem Landgericht und vor dem Oberlandesgericht können außer den in § 138 Abs. 1 der Strafprozeßordnung genannten Personen auch Steuerberater oder Steuerbevollmächtigte gewählt werden.
 
-(2) § 140 Abs. 1 Nr. 1 bis 3, 6 und 7 der Strafprozeßordnung ist auf die Verteidigung im berufsgerichtlichen Verfahren nicht anzuwenden.
+(2) § 140 Abs. 1 Nr. 1 bis 3, 6, 7 und 9 der Strafprozeßordnung ist auf die Verteidigung im berufsgerichtlichen Verfahren nicht anzuwenden.
 
 ### § 108 Akteneinsicht des Steuerberaters oder Steuerbevollmächtigten
 
@@ -2733,6 +2768,10 @@ Vierter Teil Schlußvorschriften
 
 (2) Wird ein Antrag vor der Entscheidung zurückgenommen, ist die Gebühr zur Hälfte zu erstatten.
 
+### § 164c Laufbahngruppenregelungen der Länder
+
+Soweit in diesem Gesetz die Bezeichnung gehobener und höherer Dienst verwendet wird, richtet sich die Zuordnung der Beamten zu einer dieser Laufbahngruppen in den Ländern, die durch landesrechtliche Regelungen die zuvor bezeichneten Laufbahngruppen zusammengefasst oder abweichend bezeichnet haben, nach den Zugangsvoraussetzungen für die Einstellung als Inspektor oder Regierungsrat. Beamte, die durch eine Qualifizierungsmaßnahme die Voraussetzungen für die Verleihung des Amtes eines Oberinspektors erfüllen oder denen auf Grund einer Qualifizierungsmaßnahme ein Amt verliehen worden ist, das vor Verleihung des Amtes eines Oberinspektors durchlaufen werden muss, sind dem gehobenen Dienst, Beamte, die durch eine Qualifizierungsmaßnahme die Voraussetzungen für die Verleihung des Amtes eines Oberregierungsrates erfüllen, sind dem höheren Dienst zuzuordnen.
+
 ### § 165 Ermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetzes und der zu diesem Gesetz erlassenen Durchführungsverordnungen in der jeweils geltenden Fassung mit neuem Datum und in neuer Paragraphenfolge bekanntzumachen und dabei Unstimmigkeiten des Wortlauts zu beseitigen.
@@ -2751,9 +2790,9 @@ Der Senat der Freien und Hansestadt Hamburg wird ermächtigt, die Vorschriften d
 
 (2) § 166 Abs. 2 tritt am Tage nach der Verkündung des Gesetzes in Kraft.
 
-### Anlage (zu § 146 Satz 1) Gebührenverzeichnis
+### Anlage (zu § 146 Satz 1)Gebührenverzeichnis
 
-(Fundstelle des Originaltextes: BGBl. I 2006, 3434 u. 3435)
+(Fundstelle: BGBl. I 2006, 3434 u. 3435)
 
 <table>
 <colgroup>
