@@ -28,7 +28,7 @@ unterliegen hinsichtlich dieser Tätigkeit nicht den Vorschriften dieser Verordn
 
 ### § 2 Sicherheitsleistung, Versicherung
 
-(1) Bevor der Gewerbetreibende zur Ausführung des Auftrages Vermögenswerte des Auftraggebers erhält oder zu deren Verwendung ermächtigt wird, hat er dem Auftraggeber in Höhe dieser Vermögenswerte Sicherheit zu leisten oder eine zu diesem Zweck geeignete Versicherung abzuschließen; dies gilt nicht in den Fällen des § 34c Abs. 1 Satz 1 Nr. 4 Buchstabe a der Gewerbeordnung, sofern dem Auftraggeber Eigentum an einem Grundstück übertragen oder ein Erbbaurecht bestellt oder übertragen werden soll. Zu sichern sind Schadensersatzansprüche des Auftraggebers wegen etwaiger von dem Gewerbetreibenden und den Personen, die er zur Verwendung der Vermögenswerte ermächtigt hat, vorsätzlich begangener unerlaubter Handlungen, die sich gegen die in Satz 1 bezeichneten Vermögenswerte richten.
+(1) Bevor der Gewerbetreibende zur Ausführung des Auftrages Vermögenswerte des Auftraggebers erhält oder zu deren Verwendung ermächtigt wird, hat er dem Auftraggeber in Höhe dieser Vermögenswerte Sicherheit zu leisten oder eine zu diesem Zweck geeignete Versicherung abzuschließen; dies gilt nicht in den Fällen des § 34c Absatz 1 Satz 1 Nummer 3 Buchstabe a der Gewerbeordnung, sofern dem Auftraggeber Eigentum an einem Grundstück übertragen oder ein Erbbaurecht bestellt oder übertragen werden soll. Zu sichern sind Schadensersatzansprüche des Auftraggebers wegen etwaiger von dem Gewerbetreibenden und den Personen, die er zur Verwendung der Vermögenswerte ermächtigt hat, vorsätzlich begangener unerlaubter Handlungen, die sich gegen die in Satz 1 bezeichneten Vermögenswerte richten.
 
 (2) Die Sicherheit kann nur durch die Stellung eines Bürgen geleistet werden. Als Bürge können nur Körperschaften des öffentlichen Rechts mit Sitz im Geltungsbereich dieser Verordnung, Kreditinstitute, die im Inland zum Geschäftsbetrieb befugt sind, sowie Versicherungsunternehmen bestellt werden, die zum Betrieb der Bürgschaftsversicherung im Inland befugt sind. Die Bürgschaftserklärung muß den Verzicht auf die Einrede der Vorausklage enthalten. Die Bürgschaft darf nicht vor dem Zeitpunkt ablaufen, der sich aus Absatz 5 ergibt.
 
@@ -45,13 +45,13 @@ die allgemeinen Versicherungsbedingungen dem Zweck dieser Verordnung gerecht wer
 (5) Die Sicherheiten und Versicherungen sind aufrechtzuerhalten
 
 1.  
-in den Fällen des § 34c Absatz 1 Satz 1 Nummer 1, 1a und 2 der Gewerbeordnung, bis der Gewerbetreibende die Vermögenswerte an den in dem Auftrag bestimmten Empfänger übermittelt hat,
+in den Fällen des § 34c Absatz 1 Satz 1 Nummer 1 und 2 der Gewerbeordnung, bis der Gewerbetreibende die Vermögenswerte an den in dem Auftrag bestimmten Empfänger übermittelt hat,
 
 2.  
-in den Fällen des § 34c Abs. 1 Satz 1 Nr. 4 Buchstabe a der Gewerbeordnung, sofern ein Nutzungsverhältnis begründet werden soll, bis zur Einräumung des Besitzes und Begründung des Nutzungsverhältnisses,
+in den Fällen des § 34c Absatz 1 Satz 1 Nummer 3 Buchstabe a der Gewerbeordnung, sofern ein Nutzungsverhältnis begründet werden soll, bis zur Einräumung des Besitzes und Begründung des Nutzungsverhältnisses,
 
 3.  
-in den Fällen des § 34c Abs. 1 Satz 1 Nr. 4 Buchstabe b der Gewerbeordnung bis zur Rechnungslegung; sofern die Rechnungslegungspflicht gemäß § 8 Abs. 2 entfällt, endet die Sicherungspflicht mit der vollständigen Fertigstellung des Bauvorhabens.
+in den Fällen des § 34c Absatz 1 Satz 1 Nummer 3 Buchstabe b der Gewerbeordnung bis zur Rechnungslegung; sofern die Rechnungslegungspflicht gemäß § 8 Abs. 2 entfällt, endet die Sicherungspflicht mit der vollständigen Fertigstellung des Bauvorhabens.
 
 Erhält der Gewerbetreibende Vermögenswerte des Auftraggebers in Teilbeträgen, oder wird er ermächtigt, hierüber in Teilbeträgen zu verfügen, endet die Verpflichtung aus Absatz 1 Satz 1, erster Halbsatz, in bezug auf die Teilbeträge, sobald er dem Auftraggeber die ordnungsgemäße Verwendung dieser Vermögenswerte nachgewiesen hat; die Sicherheiten und Versicherungen für den letzten Teilbetrag sind bis zu dem in Satz 1 bestimmten Zeitpunkt aufrechtzuerhalten.
 
@@ -59,7 +59,7 @@ Erhält der Gewerbetreibende Vermögenswerte des Auftraggebers in Teilbeträgen,
 
 ### § 3 Besondere Sicherungspflichten für Bauträger
 
-(1) Der Gewerbetreibende darf in den Fällen des § 34c Abs. 1 Satz 1 Nr. 4 Buchstabe a der Gewerbeordnung, sofern dem Auftraggeber Eigentum an einem Grundstück übertragen oder ein Erbbaurecht bestellt oder übertragen werden soll, Vermögenswerte des Auftraggebers zur Ausführung des Auftrages erst entgegennehmen oder sich zu deren Verwendung ermächtigen lassen, wenn
+(1) Der Gewerbetreibende darf in den Fällen des § 34c Absatz 1 Satz 1 Nummer 3 Buchstabe a der Gewerbeordnung, sofern dem Auftraggeber Eigentum an einem Grundstück übertragen oder ein Erbbaurecht bestellt oder übertragen werden soll, Vermögenswerte des Auftraggebers zur Ausführung des Auftrages erst entgegennehmen oder sich zu deren Verwendung ermächtigen lassen, wenn
 
 1.  
 der Vertrag zwischen dem Gewerbetreibenden und dem Auftraggeber rechtswirksam ist und die für seinen Vollzug erforderlichen Genehmigungen vorliegen, diese Voraussetzungen durch eine schriftliche Mitteilung des Notars bestätigt und dem Gewerbetreibenden keine vertraglichen Rücktrittsrechte eingeräumt sind,
@@ -141,19 +141,19 @@ vom der restlichen Vertragssumme
 
 Sofern einzelne der in Satz 2 Nr. 2 genannten Leistungen nicht anfallen, wird der jeweilige Vomhundertsatz anteilig auf die übrigen Raten verteilt. Betrifft das Bauvorhaben einen Altbau, so gelten die Sätze 1 und 2 mit der Maßgabe entsprechend, daß der hiernach zu errechnende Teilbetrag für schon erbrachte Leistungen mit Vorliegen der Voraussetzungen des Absatzes 1 entgegengenommen werden kann.
 
-(3) Der Gewerbetreibende darf in den Fällen des § 34c Abs. 1 Satz 1 Nr. 4 Buchstabe a der Gewerbeordnung, sofern ein Nutzungsverhältnis begründet werden soll, Vermögenswerte des Auftraggebers zur Ausführung des Auftrages in Höhe von 20 vom Hundert der Vertragssumme nach Vertragsabschluß entgegennehmen oder sich zu deren Verwendung ermächtigen lassen; im übrigen gelten Absatz 1 Satz 1 Nr. 1 und 4 und Absatz 2 entsprechend.
+(3) Der Gewerbetreibende darf in den Fällen des § 34c Absatz 1 Satz 1 Nummer 3 Buchstabe a der Gewerbeordnung, sofern ein Nutzungsverhältnis begründet werden soll, Vermögenswerte des Auftraggebers zur Ausführung des Auftrages in Höhe von 20 vom Hundert der Vertragssumme nach Vertragsabschluß entgegennehmen oder sich zu deren Verwendung ermächtigen lassen; im übrigen gelten Absatz 1 Satz 1 Nr. 1 und 4 und Absatz 2 entsprechend.
 
 ### § 4 Verwendung von Vermögenswerten des Auftraggebers
 
 (1) Der Gewerbetreibende darf Vermögenswerte des Auftraggebers, die er erhalten hat oder zu deren Verwendung er ermächtigt worden ist, nur verwenden
 
 1.  
-in den Fällen des § 34c Absatz 1 Satz 1 Nummer 1, 1a und 2 der Gewerbeordnung zur Erfüllung des Vertrages, der durch die Vermittlung oder die Nachweistätigkeit des Gewerbetreibenden zustande gekommen ist,
+in den Fällen des § 34c Absatz 1 Satz 1 Nummer 1 und 2 der Gewerbeordnung zur Erfüllung des Vertrages, der durch die Vermittlung oder die Nachweistätigkeit des Gewerbetreibenden zustande gekommen ist,
 
 2.  
-in den Fällen des § 34c Abs. 1 Satz 1 Nr. 4 der Gewerbeordnung zur Vorbereitung und Durchführung des Bauvorhabens, auf das sich der Auftrag bezieht; als Bauvorhaben gilt das einzelne Gebäude, bei Einfamilienreihenhäusern die einzelne Reihe.
+in den Fällen des § 34c Absatz 1 Satz 1 Nummer 3 der Gewerbeordnung zur Vorbereitung und Durchführung des Bauvorhabens, auf das sich der Auftrag bezieht; als Bauvorhaben gilt das einzelne Gebäude, bei Einfamilienreihenhäusern die einzelne Reihe.
 
-(2) Der Gewerbetreibende darf in den Fällen des § 34c Abs. 1 Satz 1 Nr. 4 Buchstabe b der Gewerbeordnung, in denen er das Bauvorhaben für mehrere Auftraggeber vorbereitet und durchführt, die Vermögenswerte der Auftraggeber nur im Verhältnis der Kosten der einzelnen Einheiten zu den Gesamtkosten des Bauvorhabens verwenden.
+(2) Der Gewerbetreibende darf in den Fällen des § 34c Absatz 1 Satz 1 Nummer 3 Buchstabe b der Gewerbeordnung, in denen er das Bauvorhaben für mehrere Auftraggeber vorbereitet und durchführt, die Vermögenswerte der Auftraggeber nur im Verhältnis der Kosten der einzelnen Einheiten zu den Gesamtkosten des Bauvorhabens verwenden.
 
 ### § 5 Hilfspersonal
 
@@ -169,7 +169,7 @@ Ermächtigt der Gewerbetreibende andere Personen, Vermögenswerte des Auftraggeb
 
 ### § 7 Ausnahmevorschrift
 
-(1) Gewerbetreibende im Sinne des § 34c Abs. 1 Satz 1 Nr. 4 Buchstabe a der Gewerbeordnung, die dem Auftraggeber Eigentum an einem Grundstück zu übertragen oder ein Erbbaurecht zu bestellen oder zu übertragen haben, sind von den Verpflichtungen des § 3 Abs. 1 und 2, des § 4 Abs. 1 und der §§ 5 und 6, die übrigen Gewerbetreibenden im Sinne des § 34c Abs. 1 der Gewerbeordnung sind von den Verpflichtungen des § 2, des § 3 Abs. 3 und der §§ 4 bis 6 freigestellt, sofern sie Sicherheit für alle etwaigen Ansprüche des Auftraggebers auf Rückgewähr oder Auszahlung seiner Vermögenswerte im Sinne des § 2 Abs. 1 Satz 1 geleistet haben. § 2 Abs. 2, Abs. 4 Satz 2 und 3 und Abs. 5 Satz 1 gilt entsprechend. In den Fällen des § 34c Abs. 1 Satz 1 Nr. 4 Buchstabe a der Gewerbeordnung, in denen dem Auftraggeber Eigentum an einem Grundstück übertragen oder ein Erbbaurecht bestellt oder übertragen werden soll, ist die Sicherheit aufrechtzuerhalten, bis die Voraussetzungen des § 3 Abs. 1 erfüllt sind und das Vertragsobjekt vollständig fertiggestellt ist. Ein Austausch der Sicherungen der §§ 2 bis 6 und derjenigen des § 7 ist zulässig.
+(1) Gewerbetreibende im Sinne des § 34c Absatz 1 Satz 1 Nummer 3 Buchstabe a der Gewerbeordnung, die dem Auftraggeber Eigentum an einem Grundstück zu übertragen oder ein Erbbaurecht zu bestellen oder zu übertragen haben, sind von den Verpflichtungen des § 3 Abs. 1 und 2, des § 4 Abs. 1 und der §§ 5 und 6, die übrigen Gewerbetreibenden im Sinne des § 34c Abs. 1 der Gewerbeordnung sind von den Verpflichtungen des § 2, des § 3 Abs. 3 und der §§ 4 bis 6 freigestellt, sofern sie Sicherheit für alle etwaigen Ansprüche des Auftraggebers auf Rückgewähr oder Auszahlung seiner Vermögenswerte im Sinne des § 2 Abs. 1 Satz 1 geleistet haben. § 2 Abs. 2, Abs. 4 Satz 2 und 3 und Abs. 5 Satz 1 gilt entsprechend. In den Fällen des § 34c Absatz 1 Satz 1 Nummer 3 Buchstabe a der Gewerbeordnung, in denen dem Auftraggeber Eigentum an einem Grundstück übertragen oder ein Erbbaurecht bestellt oder übertragen werden soll, ist die Sicherheit aufrechtzuerhalten, bis die Voraussetzungen des § 3 Abs. 1 erfüllt sind und das Vertragsobjekt vollständig fertiggestellt ist. Ein Austausch der Sicherungen der §§ 2 bis 6 und derjenigen des § 7 ist zulässig.
 
 (2) Der Gewerbetreibende ist von den in Absatz 1 Satz 1 erwähnten Verpflichtungen auch dann freigestellt, wenn es sich bei dem Auftraggeber um
 
@@ -221,7 +221,7 @@ Art, Höhe und Umfang der vom Gewerbetreibenden für die Vermögenswerte zu leis
 f)  
 Vertragsdauer.
 
-(3) Aus den Aufzeichnungen und Unterlagen von Gewerbetreibenden im Sinne des § 34c Absatz 1 Satz 1 Nummer 1, 2 und 3 der Gewerbeordnung müssen ferner folgende Angaben ersichtlich sein, soweit sie im Einzelfall in Betracht kommen,
+(3) Aus den Aufzeichnungen und Unterlagen von Gewerbetreibenden im Sinne des § 34c Absatz 1 Satz 1 Nummer 1 der Gewerbeordnung müssen ferner folgende Angaben ersichtlich sein, soweit sie im Einzelfall in Betracht kommen,
 
 1.  
 bei der Vermittlung oder dem Nachweis der Gelegenheit zum Abschluß von Verträgen über den Erwerb von Grundstücken oder grundstücksgleichen Rechten: Lage, Größe und Nutzungsmöglichkeit des Grundstücks, Art, Alter und Zustand des Gebäudes, Ausstattung, Wohn- und Nutzfläche, Zahl der Zimmer, Höhe der Kaufpreisforderung einschließlich zu übernehmender Belastungen, Name, Vorname und Anschrift des Veräußerers;
@@ -230,71 +230,9 @@ bei der Vermittlung oder dem Nachweis der Gelegenheit zum Abschluß von Verträg
 bei der Vermittlung oder dem Nachweis der Gelegenheit zum Abschluß von Verträgen über die Nutzung von Grundstücken oder grundstücksgleichen Rechten: Lage, Größe und Nutzungsmöglichkeit des Grundstücks, Art, Alter und Zustand des Gebäudes, Ausstattung, Wohn- und Nutzfläche, Zahl der Zimmer, Höhe der Mietforderung sowie gegebenenfalls Höhe eines Baukostenzuschusses, einer Kaution, einer Mietvorauszahlung, eines Mieterdarlehens oder einer Abstandssumme, Name, Vorname und Anschrift des Vermieters;
 
 3.  
-bei der Vermittlung oder dem Nachweis der Gelegenheit zum Abschluß von Verträgen über die Nutzung von gewerblichen Räumen oder Wohnräumen: Lage des Grundstücks und der Räume, Ausstattung, Nutz- und Wohnfläche, Zahl der Räume, Höhe der Mietforderung sowie gegebenenfalls Höhe eines Baukostenzuschusses, einer Kaution, einer Mietvorauszahlung, eines Mieterdarlehens oder einer Abstandssumme, Name, Vorname und Anschrift des Vermieters;
+bei der Vermittlung oder dem Nachweis der Gelegenheit zum Abschluß von Verträgen über die Nutzung von gewerblichen Räumen oder Wohnräumen: Lage des Grundstücks und der Räume, Ausstattung, Nutz- und Wohnfläche, Zahl der Räume, Höhe der Mietforderung sowie gegebenenfalls Höhe eines Baukostenzuschusses, einer Kaution, einer Mietvorauszahlung, eines Mieterdarlehens oder einer Abstandssumme, Name, Vorname und Anschrift des Vermieters.
 
-4.  
-(weggefallen)
-
-5.  
-bei der Vermittlung von Verträgen über den Erwerb von Anteilen an Investmentvermögen, die von einer inländischen Kapitalanlagegesellschaft oder Investmentaktiengesellschaft im Sinne der §§ 96 bis 111a des Investmentgesetzes ausgegeben werden, oder von ausländischen Investmentanteilen, die nach dem Investmentgesetz öffentlich vertrieben werden dürfen, oder der auf diese bezogenen Anlageberatung: Firma und Sitz der Kapitalanlagegesellschaft, Investmentaktiengesellschaft oder ausländischen Investmentgesellschaft, je ein Stück der Vertragsbedingungen oder der Satzung, des ausführlichen und gegebenenfalls des vereinfachten Verkaufsprospektes sowie der Jahres- und Halbjahresberichte für das Investmentvermögen, jeweils in deutscher Sprache (§ 121 Abs. 1 und 3 sowie § 123 des Investmentgesetzes); bei der Vermittlung von Verträgen über den Erwerb von ausländischen Investmentanteilen, die im Geltungsbereich des Investmentgesetzes öffentlich vertrieben werden dürfen, oder bei der auf diese bezogenen Anlageberatung außerdem Angaben darüber, ob die ausländische Investmentgesellschaft in ihrem Sitzstaat im Hinblick auf das Investmentgeschäft einer staatlichen Aufsicht untersteht, ob und seit wann die ausländische Investmentgesellschaft zum öffentlichen Vertrieb ihrer Investmentanteile berechtigt ist sowie ob und wann die Bundesanstalt für Finanzdienstleistungsaufsicht den öffentlichen Vertrieb untersagt hat oder die Berechtigung zum öffentlichen Vertrieb durch Verzicht erloschen ist;
-
-6.  
-bei der Vermittlung von Verträgen über den Erwerb von sonstigen öffentlich angebotenen Vermögensanlagen, die für gemeinsame Rechnung der Anleger verwaltet werden, sowie über den Erwerb von öffentlich angebotenen Anteilen an einer Kommanditgesellschaft oder der jeweils auf diese bezogenen Anlageberatung:
-
-a)  
-die Kosten, die insgesamt jeweils von jeder Zahlung des Erwerbers abgezogen werden;
-
-b)  
-die laufenden Kosten, die darüber hinaus jährlich nach den Vertragsbedingungen einbehalten werden;
-
-c)  
-(weggefallen)
-
-d)  
-ob rechtsverbindlich öffentliche Finanzierungshilfen zugesagt worden sind;
-
-e)  
-ob die eingezahlten Gelder von einem Kreditinstitut treuhänderisch verwaltet werden, sowie Firma und Sitz dieses Kreditinstituts;
-
-f)  
-ob bei einer Kommanditgesellschaft die Kapitalanteile von Kommanditisten als Treuhänder für die Anleger gehalten werden, sowie Name, Vorname oder Firma und Anschrift oder Sitz dieser Treuhänder;
-
-g)  
-wie hoch der Anteil der Fremdfinanzierung an der gesamten Finanzierung ist, ob die Kredite fest zugesagt sind und von wem;
-
-h)  
-ob ein Kontrollorgan für die Geschäftsführung bestellt ist und welche Befugnisse es hat;
-
-i)  
-ob die Haftung des Erwerbers auf die Einlage beschränkt ist;
-
-j)  
-ob weitere Zahlungsverpflichtungen für den Erwerber bestehen oder entstehen können;
-
-k)  
-Firma und Sitz des Unternehmens, das die angebotene Vermögensanlage verwaltet, oder der Gesellschaft, deren Anteile angeboten werden;
-
-7.  
-bei der Vermittlung von Verträgen über den Erwerb von öffentlich angebotenen Anteilen an einer Kapitalgesellschaft oder verbrieften Forderungen gegen eine Kapitalgesellschaft oder Kommanditgesellschaft oder der jeweils auf diese bezogenen Anlageberatung:
-
-a)  
-Firma, Sitz und Zeitpunkt der Gründung der Gesellschaft;
-
-b)  
-ob und an welchen Börsen die Anteile oder Forderungen gehandelt werden;
-
-c)  
-ob ein Emissionsprospekt und ein Börsenprospekt vorliegen;
-
-d)  
-nach welchem Recht sich die Beziehungen zwischen dem Erwerber und der Gesellschaft richten;
-
-e)  
-sämtliche mit dem Erwerb verbundenen Kosten;
-
-bei verbrieften Forderungen außerdem Angaben über Zinssatz, Ausgabekurs, Tilgungs- und Rückzahlungsbedingungen und Sicherheiten.
-
-(4) Aus den Aufzeichnungen und Unterlagen von Gewerbetreibenden im Sinne des § 34c Abs. 1 Satz 1 Nr. 4 der Gewerbeordnung müssen zusätzlich zu den Angaben nach Absatz 2 folgende Angaben ersichtlich sein, soweit sie im Einzelfall in Betracht kommen,
+(4) Aus den Aufzeichnungen und Unterlagen von Gewerbetreibenden im Sinne des § 34c Absatz 1 Satz 1 Nummer 3 der Gewerbeordnung müssen zusätzlich zu den Angaben nach Absatz 2 folgende Angaben ersichtlich sein, soweit sie im Einzelfall in Betracht kommen,
 
 1.  
 bei Bauvorhaben, die ganz oder teilweise zur Veräußerung bestimmt sind: Lage und Größe des Baugrundstücks, das Bauvorhaben mit den von der Bauaufsicht genehmigten Plänen nebst Baubeschreibung, sofern das Bauvorhaben nicht genehmigungspflichtig ist, neben den vorerwähnten Plänen und der Baubeschreibung die Bestätigung der Behörde oder des Gewerbetreibenden gemäß § 3 Abs. 1 Satz 1 Nr. 4 Buchstabe a oder b, der Zeitpunkt der Fertigstellung, die Kaufsache, die Kaufpreisforderung, die Belastungen, die Finanzierung, soweit sie nicht vom Erwerber erbracht werden soll;
@@ -338,20 +276,21 @@ Nachweis, daß dem Auftraggeber die in § 11 bezeichneten Angaben rechtzeitig un
 
 ### § 11 Informationspflicht und Werbung
 
-(1) Der Gewerbetreibende hat dem Auftraggeber schriftlich und in deutscher Sprache folgende Angaben mitzuteilen, soweit sie im Einzelfall in Betracht kommen:
+Der Gewerbetreibende hat dem Auftraggeber schriftlich und in deutscher Sprache folgende Angaben mitzuteilen, soweit sie im Einzelfall in Betracht kommen:
 
 1.  
-in den Fällen des § 34c Abs. 1 Satz 1 Nr. 1 der Gewerbeordnung unmittelbar nach der Annahme des Auftrages die in § 10 Abs. 2 Nr. 2 Buchstaben a und f erwähnten Angaben und spätestens bei Aufnahme der Vertragsverhandlungen über den vermittelten oder nachgewiesenen Vertragsgegenstand die in § 10 Abs. 2 Nr. 2 Buchstabe b bis e und Abs. 3 Nr. 1 bis 3 erwähnten Angaben,
+in den Fällen des § 34c Absatz 1 Satz 1 Nummer 1 der Gewerbeordnung
+
+a)  
+unmittelbar nach der Annahme des Auftrags die in § 10 Absatz 2 Nummer 2 Buchstabe a und f genannten Angaben und
+
+b)  
+spätestens bei Aufnahme der Vertragsverhandlungen über den vermittelten oder nachgewiesenen Vertragsgegenstand die in § 10 Absatz 2 Nummer 2 Buchstabe b bis e und Absatz 3 Nummer 1 bis 3 genannten Angaben,
 
 2.  
-in den Fällen des § 34c Abs. 1 Satz 1 Nr. 2 und 3 der Gewerbeordnung vor der Annahme des Auftrages die in § 10 Abs. 2 Nr. 2 und Abs. 3 Nr. 6 und 7 erwähnten Angaben,
-
-3.  
-in den Fällen des § 34c Abs. 1 Satz 1 Nr. 4 der Gewerbeordnung spätestens bis zur Annahme des Auftrages die in § 10 Abs. 2 Nr. 2 und Abs. 4 erwähnten Angaben. Vor diesem Zeitpunkt hat der Gewerbetreibende dem Auftraggeber die Angaben zu machen, die zur Beurteilung des Auftrages nach dem jeweiligen Verhandlungsstand erforderlich sind. Im Falle des § 10 Abs. 4 Nr. 3 entfällt die Verpflichtung, soweit die Angaben vom Auftraggeber stammen.
+in den Fällen des § 34c Absatz 1 Satz 1 Nummer 3 der Gewerbeordnung spätestens bis zur Annahme des Auftrags die in § 10 Absatz 2 Nummer 2 und Absatz 4 genannten Angaben; vor diesem Zeitpunkt hat der Gewerbetreibende dem Auftraggeber die Angaben zu machen, die zur Beurteilung des Auftrags nach dem jeweiligen Verhandlungsstand erforderlich sind; im Fall des § 10 Absatz 4 Nummer 3 entfällt die Verpflichtung, soweit die Angaben vom Auftraggeber stammen.
 
 Ist der Auftraggeber eine natürliche Person, kann er die Übermittlung der Angaben in der Amtssprache eines Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum verlangen, wenn er in diesem Mitgliedstaat oder Vertragsstaat seinen Wohnsitz hat.
-
-(2) In den Fällen des § 34c Abs. 1 Satz 1 Nr. 2 und 3 der Gewerbeordnung gelten beim Vertrieb von Anteilen an Investmentvermögen im Sinne des Investmentgesetzes § 121 Abs. 1 und 3 sowie § 123 des Investmentgesetzes entsprechend. Für die von dem Gewerbetreibenden nach § 34c Abs. 1 Satz 1 Nr. 2 und 3 der Gewerbeordnung verwandte oder veranlasste Werbung in Textform für den Erwerb von Anteilen eines Investmentvermögens im Sinne des Investmentgesetzes gilt § 124 Absatz 1 bis 2a des Investmentgesetzes entsprechend.
 
 ### § 12 Unzulässigkeit abweichender Vereinbarungen
 
@@ -373,7 +312,7 @@ Der Gewerbetreibende darf seine Verpflichtungen nach den §§ 2 bis 8 sowie die 
 
 ### § 16 Prüfungen
 
-(1) Gewerbetreibende im Sinne des § 34c Abs. 1 Satz 1 Nr. 2 und 4 der Gewerbeordnung haben auf ihre Kosten die Einhaltung der sich aus den §§ 2 bis 14 ergebenden Verpflichtungen für jedes Kalenderjahr durch einen geeigneten Prüfer prüfen zu lassen und der zuständigen Behörde den Prüfungsbericht bis spätestens zum 31. Dezember des darauffolgenden Jahres zu übermitteln. Sofern der Gewerbetreibende im Berichtszeitraum keine nach § 34c Abs. 1 Satz 1 der Gewerbeordnung erlaubnispflichtige Tätigkeit ausgeübt hat, hat der spätestens bis zu dem in Satz 1 genannten Termin anstelle des Prüfungsberichts eine entsprechende Erklärung zu übermitteln. Der Prüfungsbericht muß einen Vermerk darüber enthalten, ob Verstöße des Gewerbetreibenden festgestellt worden sind. Verstöße sind in dem Vermerk aufzuzeigen. Der Prüfer hat den Vermerk mit Angabe von Ort und Datum zu unterzeichnen.
+(1) Gewerbetreibende im Sinne des § 34c Absatz 1 Satz 1 Nummer 3 der Gewerbeordnung haben auf ihre Kosten die Einhaltung der sich aus den §§ 2 bis 14 ergebenden Verpflichtungen für jedes Kalenderjahr durch einen geeigneten Prüfer prüfen zu lassen und der zuständigen Behörde den Prüfungsbericht bis spätestens zum 31. Dezember des darauffolgenden Jahres zu übermitteln. Sofern der Gewerbetreibende im Berichtszeitraum keine nach § 34c Abs. 1 Satz 1 der Gewerbeordnung erlaubnispflichtige Tätigkeit ausgeübt hat, hat er spätestens bis zu dem in Satz 1 genannten Termin anstelle des Prüfungsberichts eine entsprechende Erklärung zu übermitteln. Der Prüfungsbericht muß einen Vermerk darüber enthalten, ob Verstöße des Gewerbetreibenden festgestellt worden sind. Verstöße sind in dem Vermerk aufzuzeigen. Der Prüfer hat den Vermerk mit Angabe von Ort und Datum zu unterzeichnen.
 
 (2) Die zuständige Behörde ist befugt, Gewerbetreibende im Sinne des § 34c Abs. 1 der Gewerbeordnung auf deren Kosten aus besonderem Anlaß im Rahmen einer außerordentlichen Prüfung durch einen geeigneten Prüfer überprüfen zu lassen. Der Prüfer wird von der zuständigen Behörde bestimmt. Absatz 1 Satz 3 bis 5 gilt entsprechend.
 
@@ -394,7 +333,7 @@ sie die Voraussetzungen des § 63b Abs. 5 des Gesetzes betreffend die Erwerbs- u
 c)  
 sie sich für ihre Prüfungstätigkeit selbständiger Wirtschaftsprüfer oder vereidigter Buchprüfer oder einer Wirtschaftsprüfungs- oder Buchprüfungsgesellschaft bedienen.
 
-Bei Gewerbetreibenden im Sinne des § 34c Abs. 1 Satz 1 Nr. 1 und 1a der Gewerbeordnung können mit der Prüfung nach Absatz 2 auch andere Personen, die öffentlich bestellt oder zugelassen worden sind und die auf Grund ihrer Vorbildung und Erfahrung in der Lage sind, eine ordnungsgemäße Prüfung in dem jeweiligen Gewerbebetrieb durchzuführen, sowie deren Zusammenschlüsse betraut werden. § 13a Absatz 1 und 2 Satz 1 und 2, Absatz 5 bis 7 der Gewerbeordnung gilt für die in Satz 2 genannten Personen, die mit der Prüfung betraut werden können, entsprechend. Ungeeignet für eine Prüfung sind Personen, bei denen die Besorgnis der Befangenheit besteht.
+Bei Gewerbetreibenden im Sinne des § 34c Absatz 1 Satz 1 Nummer 1 und 2 der Gewerbeordnung können mit der Prüfung nach Absatz 2 auch andere Personen, die öffentlich bestellt oder zugelassen worden sind und die auf Grund ihrer Vorbildung und Erfahrung in der Lage sind, eine ordnungsgemäße Prüfung in dem jeweiligen Gewerbebetrieb durchzuführen, sowie deren Zusammenschlüsse betraut werden. § 13a Absatz 1 und 2 Satz 1 und 2, Absatz 5 bis 7 der Gewerbeordnung gilt für die in Satz 2 genannten Personen, die mit der Prüfung betraut werden können, entsprechend. Ungeeignet für eine Prüfung sind Personen, bei denen die Besorgnis der Befangenheit besteht.
 
 ### § 17 Rechte und Pflichten der an der Prüfung Beteiligten
 
@@ -434,7 +373,7 @@ entgegen § 9 die Anzeige nicht, nicht richtig, nicht vollständig oder nicht re
 entgegen § 10 Abs. 1 bis 5 erforderliche Aufzeichnungen nicht, nicht richtig, nicht vollständig, nicht ordnungsgemäß oder nicht rechtzeitig macht oder Unterlagen oder Belege nicht oder nicht übersichtlich sammelt,
 
 8.  
-entgegen § 11 Abs. 1 Satz 1 Nr. 1 bis 3 dem Auftraggeber die dort bezeichneten Angaben nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig mitteilt,
+entgegen § 11 Satz 1 Nummer 1 oder 2 dem Auftraggeber die dort bezeichneten Angaben nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig mitteilt,
 
 9.  
 (weggefallen)
@@ -457,15 +396,13 @@ den Duldungs- oder Mitwirkungspflichten des § 17 Abs. 1 nicht, nicht ausreichen
 
 ### § 19 Anwendung bei grenzüberschreitender Dienstleistungserbringung
 
-(1) Üben Gewerbetreibende von einer Niederlassung in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum aus im Geltungsbereich dieser Verordnung vorübergehend selbständig gewerbsmäßig eine Tätigkeit nach § 34c Absatz 1 Satz 1 Nummer 1 oder Nummer 4 der Gewerbeordnung aus, sind die §§ 8 bis 11, 14 bis 17, 18 Absatz 1 Nummer 6 bis 13, jeweils auch in Verbindung mit § 18 Absatz 2 und 3, insoweit nicht anwendbar. § 4 Absatz 2 der Gewerbeordnung gilt entsprechend.
+(1) Üben Gewerbetreibende von einer Niederlassung in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum aus im Geltungsbereich dieser Verordnung vorübergehend selbständig gewerbsmäßig eine Tätigkeit nach § 34c Absatz 1 Satz 1 Nummer 1 oder Nummer 3 der Gewerbeordnung aus, sind die §§ 8 bis 11, 14 bis 17, 18 Absatz 1 Nummer 6 bis 13, jeweils auch in Verbindung mit § 18 Absatz 2 und 3, insoweit nicht anwendbar. § 4 Absatz 2 der Gewerbeordnung gilt entsprechend.
 
-(2) In den Fällen des § 34c Absatz 1 Satz 1 Nummer 1 oder Nummer 4 der Gewerbeordnung sind die §§ 2, 4 bis 8, 10 bis 18 Absatz 1 Nummer 1, 2, 4, 5 und 7 bis 13, jeweils auch in Verbindung mit § 18 Absatz 2 und 3, auch anzuwenden, wenn der im Inland niedergelassene Gewerbetreibende die Dienstleistungsfreiheit in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum in Anspruch nimmt und dort vorübergehend selbständig gewerbsmäßig tätig wird.
+(2) In den Fällen des § 34c Absatz 1 Satz 1 Nummer 1 oder Nummer 3 der Gewerbeordnung sind die §§ 2, 4 bis 8, 10 bis 18 Absatz 1 Nummer 1, 2, 4, 5 und 7 bis 13, jeweils auch in Verbindung mit § 18 Absatz 2 und 3, auch anzuwenden, wenn der im Inland niedergelassene Gewerbetreibende die Dienstleistungsfreiheit in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum in Anspruch nimmt und dort vorübergehend selbständig gewerbsmäßig tätig wird.
 
 ### § 20 Übergangsvorschriften
 
-(1) Gewerbetreibende, die Vermögenswerte des Auftraggebers nach den §§ 3 oder 7 Abs. 1 in der bis zum 28. Februar 1991 geltenden Fassung abzusichern haben, können die Verträge weiterhin nach diesen Vorschriften abwickeln.
-
-(2) Betreuungsunternehmen im Sinne des § 37 Abs. 2 des Zweiten Wohnungsbaugesetzes und des § 22c Abs. 2 des Wohnungsbaugesetzes für das Saarland, die diese Eigenschaft verlieren, dürfen Vermögenswerte des Auftraggebers von diesem Zeitpunkt an nur noch unter den Voraussetzungen der §§ 2 bis 7 entgegennehmen oder sich zu deren Verwendung ermächtigten lassen.
+Gewerbetreibende, die Vermögenswerte des Auftraggebers nach den §§ 3 oder 7 Abs. 1 in der bis zum 28. Februar 1991 geltenden Fassung abzusichern haben, können die Verträge weiterhin nach diesen Vorschriften abwickeln.
 
 ### § 21 Berlin-Klausel
 
