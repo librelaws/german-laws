@@ -7,6 +7,9 @@ Neugefasst durch Bek. v. 25.8.1969 I 1317
 Stand  
 zuletzt geändert durch Art. 3 Abs. 2 G v. 20.4.2013 I 868
 
+Hinweis  
+Änderung durch Art. 4 G v. 17.7.2017 I 2509 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
