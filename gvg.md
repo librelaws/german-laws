@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 9.5.1975 I 1077
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 2 G v. 21.1.2015 I 10
+Zuletzt geändert durch Art. 2 G v. 21.12.2015 I 2525
 
 ### 
 
@@ -32,9 +32,7 @@ Die richterliche Gewalt wird durch unabhängige, nur dem Gesetz unterworfene Ger
 
 Unter Aufsicht des Richters können Referendare Rechtshilfeersuchen erledigen und außer in Strafsachen Verfahrensbeteiligte anhören, Beweise erheben und die mündliche Verhandlung leiten. Referendare sind nicht befugt, eine Beeidigung anzuordnen oder einen Eid abzunehmen.
 
-### § 11
-
-(weggefallen)
+### § 11 (weggefallen)
 
 ### § 12
 
@@ -52,9 +50,7 @@ Durch Landesrecht können einem Gericht für die Bezirke mehrerer Gerichte Sache
 
 Als besondere Gerichte werden Gerichte der Schiffahrt für die in den Staatsverträgen bezeichneten Angelegenheiten zugelassen.
 
-### § 15
-
-(weggefallen)
+### § 15 (weggefallen)
 
 ### § 16
 
@@ -416,8 +412,6 @@ wenn sie im Wege der Privatklage verfolgt werden oder
 2.  
 wenn eine höhere Strafe als Freiheitsstrafe von zwei Jahren nicht zu erwarten ist.
 
-3.
-
 ### § 26
 
 (1) Für Straftaten Erwachsener, durch die ein Kind oder ein Jugendlicher verletzt oder unmittelbar gefährdet wird, sowie für Verstöße Erwachsener gegen Vorschriften, die dem Jugendschutz oder der Jugenderziehung dienen, sind neben den für allgemeine Strafsachen zuständigen Gerichten auch die Jugendgerichte zuständig. Die §§ 24 und 25 gelten entsprechend.
@@ -426,9 +420,7 @@ wenn eine höhere Strafe als Freiheitsstrafe von zwei Jahren nicht zu erwarten i
 
 (3) Die Absätze 1 und 2 gelten entsprechend für die Beantragung gerichtlicher Untersuchungshandlungen im Ermittlungsverfahren.
 
-### § 26a
-
-(weggefallen)
+### § 26a (weggefallen)
 
 ### § 27
 
@@ -774,7 +766,7 @@ für Ansprüche, die auf eine falsche, irreführende oder unterlassene öffentli
 für Verfahren nach
 
 a)  
-§ 324 des Handelsgesetzbuchs,
+(weggefallen)
 
 b)  
 den §§ 98, 99, 132, 142, 145, 258, 260, 293c und 315 des Aktiengesetzes,
@@ -809,9 +801,7 @@ den §§ 39a und 39b des Wertpapiererwerbs- und Übernahmegesetzes.
 
 (2) Die Strafkammern erledigen außerdem die in der Strafprozeßordnung den Landgerichten zugewiesenen Geschäfte.
 
-### § 73a
-
-(weggefallen)
+### § 73a (weggefallen)
 
 ### § 74
 
@@ -938,7 +928,7 @@ der Verschleppung (§ 234a des Strafgesetzbuches) und
 6.  
 der politischen Verdächtigung (§ 241a des Strafgesetzbuches).
 
-(2) Die Zuständigkeit des Landgerichts entfällt, wenn der Generalbundesanwalt wegen der besonderen Bedeutung des Falles vor der Eröffnung des Hauptverfahrens die Verfolgung übernimmt, es sei denn, daß durch Abgabe nach § 142a Abs. 4 oder durch Verweisung nach § 120 Abs. 2 Satz 2 die Zuständigkeit des Landgerichts begründet wird.
+(2) Die Zuständigkeit des Landgerichts entfällt, wenn der Generalbundesanwalt wegen der besonderen Bedeutung des Falles vor der Eröffnung des Hauptverfahrens die Verfolgung übernimmt, es sei denn, daß durch Abgabe nach § 142a Abs. 4 oder durch Verweisung nach § 120 Absatz 2 Satz 3 die Zuständigkeit des Landgerichts begründet wird.
 
 (3) In den Sachen, in denen die Strafkammer nach Absatz 1 zuständig ist, trifft sie auch die in § 73 Abs. 1 bezeichneten Entscheidungen.
 
@@ -1085,7 +1075,7 @@ nach den §§ 462a, 463 der Strafprozeßordnung, soweit sich nicht aus der Straf
 nach den § 50 Abs. 5, §§ 109, 138 Abs. 3 des Strafvollzugsgesetzes,
 
 3.  
-nach den §§ 50, 58 Abs. 2 und § 71 Abs. 4 des Gesetzes über die internationale Rechtshilfe in Strafsachen.
+nach den §§ 50, 58 Absatz 2, § 84g Absatz 1, den §§ 84j, 90h Absatz 1, § 90j Absatz 1 und 2 und § 90k Absatz 1 und 2 des Gesetzes über die internationale Rechtshilfe in Strafsachen.
 
 Ist nach § 454b Abs. 3 der Strafprozeßordnung über die Aussetzung der Vollstreckung mehrerer Freiheitsstrafen gleichzeitig zu entscheiden, so entscheidet eine Strafvollstreckungskammer über die Aussetzung der Vollstreckung aller Strafen.
 
@@ -1105,12 +1095,12 @@ in den sonstigen Fällen mit einem Richter.
 
 (2) Die Mitglieder der Strafvollstreckungskammern werden vom Präsidium des Landgerichts aus der Zahl der Mitglieder des Landgerichts und der in seinem Bezirk angestellten Richter beim Amtsgericht bestellt.
 
+### (XXXX) §§ 79 bis 92 (weggefallen)
+
 Sechster Titel Schwurgerichte
 -----------------------------
 
 ### 
-
-### (XXXX) §§ 79 bis 92 (weggefallen)
 
 Siebenter Titel Kammern für Handelssachen
 -----------------------------------------
@@ -1295,9 +1285,7 @@ An Seeplätzen können *ehrenamtliche Richter* auch aus dem Kreis der Schiffahrt
 
 §§ 110, 112 u. 113 Abs. 1 Kursivdruck: Jetzt "Handelsrichter", vgl. § 45a Deutsches Richtergesetz 301-1
 
-### § 111
-
-(weggefallen)
+### § 111 (weggefallen)
 
 ### § 112
 
@@ -1336,9 +1324,7 @@ Achter Titel Oberlandesgerichte
 
 Die Oberlandesgerichte werden mit einem Präsidenten sowie mit Vorsitzenden Richtern und weiteren Richtern besetzt.
 
-### § 115a
-
-(weggefallen)
+### § 115a (weggefallen)
 
 ### § 116
 
@@ -1419,7 +1405,7 @@ bei den in § 74a Abs. 1 bezeichneten Straftaten, wenn der Generalbundesanwalt w
 bei Mord (§ 211 des Strafgesetzbuches), Totschlag (§ 212 des Strafgesetzbuches) und den in § 129a Abs. 1 Nr. 2 und Abs. 2 des Strafgesetzbuches bezeichneten Straftaten, wenn ein Zusammenhang mit der Tätigkeit einer nicht oder nicht nur im Inland bestehenden Vereinigung besteht, deren Zweck oder Tätigkeit die Begehung von Straftaten dieser Art zum Gegenstand hat, und der Generalbundesanwalt wegen der besonderen Bedeutung des Falles die Verfolgung übernimmt,
 
 3.  
-bei Mord (§ 211 des Strafgesetzbuchs), Totschlag (§ 212 des Strafgesetzbuchs), erpresserischem Menschenraub (§ 239a des Strafgesetzbuchs), Geiselnahme (§ 239b des Strafgesetzbuchs), schwerer und besonders schwerer Brandstiftung (§§ 306a und 306b des Strafgesetzbuchs), Brandstiftung mit Todesfolge (§ 306c des Strafgesetzbuchs), Herbeiführen einer Explosion durch Kernenergie in den Fällen des § 307 Abs. 1 und 3 Nr. 1 des Strafgesetzbuchs, Herbeiführen einer Sprengstoffexplosion in den Fällen des § 308 Abs. 1 bis 3 des Strafgesetzbuchs, Missbrauch ionisierender Strahlen in den Fällen des § 309 Abs. 1 bis 4 des Strafgesetzbuchs, Vorbereitung eines Explosions- oder Strahlungsverbrechens in den Fällen des § 310 Abs. 1 Nr. 1 bis 3 des Strafgesetzbuchs, Herbeiführen einer Überschwemmung in den Fällen des § 313 Abs. 2 in Verbindung mit § 308 Abs. 2 und 3 des Strafgesetzbuchs, gemeingefährlicher Vergiftung in den Fällen des § 314 Abs. 2 in Verbindung mit § 308 Abs. 2 und 3 des Strafgesetzbuchs und Angriff auf den Luft- und Seeverkehr in den Fällen des § 316c Abs. 1 und 3 des Strafgesetzbuchs, wenn die Tat nach den Umständen bestimmt und geeignet ist,
+bei Mord (§ 211 des Strafgesetzbuchs), Totschlag (§ 212 des Strafgesetzbuchs), erpresserischem Menschenraub (§ 239a des Strafgesetzbuchs), Geiselnahme (§ 239b des Strafgesetzbuchs), schwerer und besonders schwerer Brandstiftung (§§ 306a und 306b des Strafgesetzbuchs), Brandstiftung mit Todesfolge (§ 306c des Strafgesetzbuchs), Herbeiführen einer Explosion durch Kernenergie in den Fällen des § 307 Abs. 1 und 3 Nr. 1 des Strafgesetzbuchs, Herbeiführen einer Sprengstoffexplosion in den Fällen des § 308 Abs. 1 bis 3 des Strafgesetzbuchs, Missbrauch ionisierender Strahlen in den Fällen des § 309 Abs. 1 bis 4 des Strafgesetzbuchs, Vorbereitung eines Explosions- oder Strahlungsverbrechens in den Fällen des § 310 Abs. 1 Nr. 1 bis 3 des Strafgesetzbuchs, Herbeiführen einer Überschwemmung in den Fällen des § 313 Abs. 2 in Verbindung mit § 308 Abs. 2 und 3 des Strafgesetzbuchs, gemeingefährlicher Vergiftung in den Fällen des § 314 Abs. 2 in Verbindung mit § 308 Abs. 2 und 3 des Strafgesetzbuchs und Angriff auf den Luft- und Seeverkehr in den Fällen des § 316c Abs. 1 und 3 des Strafgesetzbuchs, wenn die Tat nach den Umständen geeignet ist,
 
 a)  
 den Bestand oder die Sicherheit eines Staates zu beeinträchtigen,
@@ -1446,7 +1432,7 @@ bestimmt und geeignet ist, das friedliche Zusammenleben der Völker zu stören,
 
 und der Generalbundesanwalt wegen der besonderen Bedeutung des Falles die Verfolgung übernimmt.
 
-Sie verweisen bei der Eröffnung des Hauptverfahrens die Sache in den Fällen der Nummer 1 an das Landgericht, in den Fällen der Nummern 2 bis 4 an das Land- oder Amtsgericht, wenn eine besondere Bedeutung des Falles nicht vorliegt.
+Eine besondere Bedeutung des Falles ist auch anzunehmen, wenn in den Fällen des Satzes 1 eine Ermittlungszuständigkeit des Generalbundesanwalts wegen des länderübergreifenden Charakters der Tat geboten erscheint. Die Oberlandesgerichte verweisen bei der Eröffnung des Hauptverfahrens die Sache in den Fällen der Nummer 1 an das Landgericht, in den Fällen der Nummern 2 bis 4 an das Land- oder Amtsgericht, wenn eine besondere Bedeutung des Falles nicht vorliegt.
 
 (3) In den Sachen, in denen diese Oberlandesgerichte nach Absatz 1 oder 2 zuständig sind, treffen sie auch die in § 73 Abs. 1 bezeichneten Entscheidungen. Sie entscheiden ferner über die Beschwerde gegen Verfügungen der Ermittlungsrichter der Oberlandesgerichte (§ 169 Abs. 1 Satz 1 der Strafprozeßordnung) in den in § 304 Abs. 5 der Strafprozeßordnung bezeichneten Fällen.
 
@@ -1526,7 +1512,7 @@ Der Bundesgerichtshof wird mit einem Präsidenten sowie mit Vorsitzenden Richter
 
 ### § 125
 
-(1) Die Mitglieder des Bundesgerichtshofes werden durch den Bundesminister der Justiz gemeinsam mit dem Richterwahlausschuß gemäß dem Richterwahlgesetz berufen und vom Bundespräsidenten ernannt.
+(1) Die Mitglieder des Bundesgerichtshofes werden durch den Bundesminister der Justiz und für Verbraucherschutz gemeinsam mit dem Richterwahlausschuß gemäß dem Richterwahlgesetz berufen und vom Bundespräsidenten ernannt.
 
 (2) Zum Mitglied des Bundesgerichtshofes kann nur berufen werden, wer das fünfunddreißigste Lebensjahr vollendet hat.
 
@@ -1534,17 +1520,13 @@ Der Bundesgerichtshof wird mit einem Präsidenten sowie mit Vorsitzenden Richter
 
 ### § 130
 
-(1) Bei dem Bundesgerichtshof werden Zivil- und Strafsenate gebildet und Ermittlungsrichter bestellt. Ihre Zahl bestimmt der Bundesminister der Justiz.
+(1) Bei dem Bundesgerichtshof werden Zivil- und Strafsenate gebildet und Ermittlungsrichter bestellt. Ihre Zahl bestimmt der Bundesminister der Justiz und für Verbraucherschutz.
 
-(2) Der Bundesminister der Justiz wird ermächtigt, Zivil- und Strafsenate auch außerhalb des Sitzes des Bundesgerichtshofes zu bilden und die Dienstsitze für Ermittlungsrichter des Bundesgerichtshofes zu bestimmen.
+(2) Der Bundesminister der Justiz und für Verbraucherschutz wird ermächtigt, Zivil- und Strafsenate auch außerhalb des Sitzes des Bundesgerichtshofes zu bilden und die Dienstsitze für Ermittlungsrichter des Bundesgerichtshofes zu bestimmen.
 
-### § 131
+### § 131 (weggefallen)
 
-(weggefallen)
-
-### § 131a
-
-(weggefallen)
+### § 131a (weggefallen)
 
 ### § 132
 
@@ -1564,13 +1546,9 @@ Der Bundesgerichtshof wird mit einem Präsidenten sowie mit Vorsitzenden Richter
 
 In Zivilsachen ist der Bundesgerichtshof zuständig für die Verhandlung und Entscheidung über die Rechtsmittel der Revision, der Sprungrevision, der Rechtsbeschwerde und der Sprungrechtsbeschwerde.
 
-### § 134
+### § 134 (weggefallen)
 
-(weggefallen)
-
-### § 134a
-
-(weggefallen)
+### § 134a (weggefallen)
 
 ### § 135
 
@@ -1578,13 +1556,9 @@ In Zivilsachen ist der Bundesgerichtshof zuständig für die Verhandlung und Ent
 
 (2) Der Bundesgerichtshof entscheidet ferner über Beschwerden gegen Beschlüsse und Verfügungen der Oberlandesgerichte in den in § 138 d Abs. 6 Satz 1, § 304 Abs. 4 Satz 2 und § 310 Abs. 1 der Strafprozeßordnung bezeichneten Fällen sowie über Beschwerden gegen Verfügungen des Ermittlungsrichters des Bundesgerichtshofes (§ 169 Abs. 1 Satz 2 der Strafprozeßordnung) in den in § 304 Abs. 5 der Strafprozeßordnung bezeichneten Fällen.
 
-### § 136
+### § 136 (weggefallen)
 
-(weggefallen)
-
-### § 137
-
-(weggefallen)
+### § 137 (weggefallen)
 
 ### § 138
 
@@ -1653,7 +1627,7 @@ bei den Amtsgerichten durch einen oder mehrere Staatsanwälte oder Amtsanwälte.
 
 ### § 142a
 
-(1) Der Generalbundesanwalt übt in den zur Zuständigkeit von Oberlandesgerichten im ersten Rechtszug gehörenden Strafsachen gemäß § 120 Absatz 1 und 2 das Amt der Staatsanwaltschaft auch bei diesen Gerichten aus. Können in den Fällen des § 120 Abs. 1 die Beamten der Staatsanwaltschaft eines Landes und der Generalbundesanwalt sich nicht darüber einigen, wer von ihnen die Verfolgung zu übernehmen hat, so entscheidet der Generalbundesanwalt.
+(1) Der Generalbundesanwalt übt in den zur Zuständigkeit von Oberlandesgerichten im ersten Rechtszug gehörenden Strafsachen gemäß § 120 Absatz 1 und 2 das Amt der Staatsanwaltschaft auch bei diesen Gerichten aus. Für die Übernahme der Strafverfolgung durch den Generalbundesanwalt genügt es, dass zureichende tatsächliche Anhaltspunkte für die seine Zuständigkeit begründenden Voraussetzungen gegeben sind. Vorgänge, die Anlass zu der Prüfung einer Übernahme der Strafverfolgung durch den Generalbundesanwalt geben, übersendet die Staatsanwaltschaft diesem unverzüglich. Können in den Fällen des § 120 Abs. 1 die Beamten der Staatsanwaltschaft eines Landes und der Generalbundesanwalt sich nicht darüber einigen, wer von ihnen die Verfolgung zu übernehmen hat, so entscheidet der Generalbundesanwalt.
 
 (2) Der Generalbundesanwalt gibt das Verfahren vor Einreichung einer Anklageschrift oder einer Antragsschrift (§ 440 der Strafprozeßordnung) an die Landesstaatsanwaltschaft ab,
 
@@ -1683,7 +1657,7 @@ wenn die Tat die Interessen des Bundes in besonderem Maße berührt oder
 2.  
 wenn es im Interesse der Rechtseinheit geboten ist, daß der Generalbundesanwalt die Tat verfolgt.
 
-(4) Der Generalbundesanwalt gibt eine Sache, die er nach § 120 Abs. 2 Nr. 2 bis 4 oder § 74a Abs. 2 übernommen hat, wieder an die Landesstaatsanwaltschaft ab, wenn eine besondere Bedeutung des Falles nicht mehr vorliegt.
+(4) Der Generalbundesanwalt gibt eine Sache, die er nach § 120 Abs. 2 Satz 1 Nr. 2 bis 4 oder § 74a Abs. 2 übernommen hat, wieder an die Landesstaatsanwaltschaft ab, wenn eine besondere Bedeutung des Falles nicht mehr vorliegt.
 
 ### § 143
 
@@ -1691,7 +1665,7 @@ wenn es im Interesse der Rechtseinheit geboten ist, daß der Generalbundesanwalt
 
 (2) Ein unzuständiger Beamter der Staatsanwaltschaft hat sich den innerhalb seines Bezirks vorzunehmenden Amtshandlungen zu unterziehen, bei denen Gefahr im Verzug ist.
 
-(3) Können die Beamten der Staatsanwaltschaft verschiedener Länder sich nicht darüber einigen, wer von ihnen die Verfolgung zu übernehmen hat, so entscheidet der ihnen gemeinsam vorgesetzte Beamte der Staatsanwaltschaft, sonst der Generalbundesanwalt.
+(3) Können die Staatsanwaltschaften verschiedener Länder sich nicht darüber einigen, welche von ihnen die Verfolgung zu übernehmen hat, so entscheidet der Generalbundesanwalt. Er entscheidet auf Antrag einer Staatsanwaltschaft auch, wenn die Staatsanwaltschaften verschiedener Länder sich nicht über die Verbindung zusammenhängender Strafsachen einigen.
 
 (4) Den Beamten einer Staatsanwaltschaft kann für die Bezirke mehrerer Land- oder Oberlandesgerichte die Zuständigkeit für die Verfolgung bestimmter Arten von Strafsachen, die Strafvollstreckung in diesen Sachen sowie die Bearbeitung von Rechtshilfeersuchen von Stellen außerhalb des räumlichen Geltungsbereichs dieses Gesetzes zugewiesen werden, sofern dies für eine sachdienliche Förderung oder schnellere Erledigung der Verfahren zweckmäßig ist; in diesen Fällen erstreckt sich die örtliche Zuständigkeit der Beamten der Staatsanwaltschaft in den ihnen zugewiesenen Sachen auf alle Gerichte der Bezirke, für die ihnen diese Sachen zugewiesen sind.
 
@@ -1707,9 +1681,7 @@ Besteht die Staatsanwaltschaft eines Gerichts aus mehreren Beamten, so handeln d
 
 (2) Amtsanwälte können das Amt der Staatsanwaltschaft nur bei den Amtsgerichten versehen.
 
-### § 145a
-
-(weggefallen)
+### § 145a (weggefallen)
 
 ### § 146
 
@@ -1720,7 +1692,7 @@ Die Beamten der Staatsanwaltschaft haben den dienstlichen Anweisungen ihres Vorg
 Das Recht der Aufsicht und Leitung steht zu:
 
 1.  
-dem Bundesminister der Justiz hinsichtlich des Generalbundesanwalts und der Bundesanwälte;
+dem Bundesminister der Justiz und für Verbraucherschutz hinsichtlich des Generalbundesanwalts und der Bundesanwälte;
 
 2.  
 der Landesjustizverwaltung hinsichtlich aller staatsanwaltschaftlichen Beamten des betreffenden Landes;
@@ -1734,7 +1706,7 @@ Der Generalbundesanwalt und die Bundesanwälte sind Beamte.
 
 ### § 149
 
-Der Generalbundesanwalt und die Bundesanwälte werden auf Vorschlag des Bundesministers der Justiz, der der Zustimmung des Bundesrates bedarf, vom Bundespräsidenten ernannt.
+Der Generalbundesanwalt und die Bundesanwälte werden auf Vorschlag des Bundesministers der Justiz und für Verbraucherschutz, der der Zustimmung des Bundesrates bedarf, vom Bundespräsidenten ernannt.
 
 ### § 150
 
@@ -1783,7 +1755,7 @@ Zwölfter Titel Zustellungs- u. Vollstreckungsbeamte
 
 ### § 154
 
-Die Dienst- und Geschäftsverhältnisse der mit den Zustellungen, Ladungen und Vollstreckungen zu betrauenden Beamten (Gerichtsvollzieher) werden bei dem Bundesgerichtshof durch den Bundesminister der Justiz, bei den Landesgerichten durch die Landesjustizverwaltung bestimmt.
+Die Dienst- und Geschäftsverhältnisse der mit den Zustellungen, Ladungen und Vollstreckungen zu betrauenden Beamten (Gerichtsvollzieher) werden bei dem Bundesgerichtshof durch den Bundesminister der Justiz und für Verbraucherschutz, bei den Landesgerichten durch die Landesjustizverwaltung bestimmt.
 
 ### § 155
 
@@ -1862,9 +1834,7 @@ Soll eine Freiheitsstrafe in dem Bezirk eines anderen Gerichts vollstreckt oder 
 
 (2) Gebühren oder andere öffentliche Abgaben, denen die von der ersuchenden Behörde übersendeten Schriftstücke (Urkunden, Protokolle) nach dem Recht der ersuchten Behörde unterliegen, bleiben außer Ansatz.
 
-### § 165
-
-(weggefallen)
+### § 165 (weggefallen)
 
 ### § 166
 
@@ -1895,9 +1865,7 @@ Die Verhandlung vor dem erkennenden Gericht einschließlich der Verkündung der 
 
 (2) Das Rechtsbeschwerdegericht kann die Öffentlichkeit zulassen, soweit nicht das Interesse eines Beteiligten an der nicht öffentlichen Erörterung überwiegt.
 
-### § 171
-
-(weggefallen)
+### § 171 (weggefallen)
 
 ### § 171a
 
@@ -1907,7 +1875,7 @@ Die Öffentlichkeit kann für die Hauptverhandlung oder für einen Teil davon au
 
 (1) Die Öffentlichkeit kann ausgeschlossen werden, soweit Umstände aus dem persönlichen Lebensbereich eines Prozessbeteiligten, eines Zeugen oder eines durch eine rechtswidrige Tat (§ 11 Absatz 1 Nummer 5 des Strafgesetzbuchs) Verletzten zur Sprache kommen, deren öffentliche Erörterung schutzwürdige Interessen verletzen würde. Das gilt nicht, soweit das Interesse an der öffentlichen Erörterung dieser Umstände überwiegt. Die besonderen Belastungen, die für Kinder und Jugendliche mit einer öffentlichen Hauptverhandlung verbunden sein können, sind dabei zu berücksichtigen. Entsprechendes gilt bei volljährigen Personen, die als Kinder oder Jugendliche durch die Straftat verletzt worden sind.
 
-(2) Die Öffentlichkeit soll ausgeschlossen werden, soweit in Verfahren wegen Straftaten gegen die sexuelle Selbstbestimmung (§§ 174 bis 184h des Strafgesetzbuchs) oder gegen das Leben (§§ 211 bis 222 des Strafgesetzbuchs), wegen Misshandlung von Schutzbefohlenen (§ 225 des Strafgesetzbuchs) oder wegen Straftaten gegen die persönliche Freiheit nach den §§ 232 bis 233a des Strafgesetzbuchs ein Zeuge unter 18 Jahren vernommen wird. Absatz 1 Satz 3 gilt entsprechend.
+(2) Die Öffentlichkeit soll ausgeschlossen werden, soweit in Verfahren wegen Straftaten gegen die sexuelle Selbstbestimmung (§§ 174 bis 184h des Strafgesetzbuchs) oder gegen das Leben (§§ 211 bis 222 des Strafgesetzbuchs), wegen Misshandlung von Schutzbefohlenen (§ 225 des Strafgesetzbuchs) oder wegen Straftaten gegen die persönliche Freiheit nach den §§ 232 bis 233a des Strafgesetzbuchs ein Zeuge unter 18 Jahren vernommen wird. Absatz 1 Satz 4 gilt entsprechend.
 
 (3) Die Öffentlichkeit ist auszuschließen, wenn die Voraussetzungen der Absätze 1 oder 2 vorliegen und der Ausschluss von der Person, deren Lebensbereich betroffen ist, beantragt wird. Für die Schlussanträge in Verfahren wegen der in Absatz 2 genannten Straftaten ist die Öffentlichkeit auszuschließen, ohne dass es eines hierauf gerichteten Antrags bedarf, wenn die Verhandlung unter den Voraussetzungen der Absätze 1 oder 2 oder des § 172 Nummer 4 ganz oder zum Teil unter Ausschluss der Öffentlichkeit stattgefunden hat.
 
@@ -2057,7 +2025,7 @@ Auf den Dolmetscher sind die Vorschriften über Ausschließung und Ablehnung der
 
 (1) Eine blinde oder sehbehinderte Person kann Schriftsätze und andere Dokumente in einer für sie wahrnehmbaren Form bei Gericht einreichen. Sie kann nach Maßgabe der Rechtsverordnung nach Absatz 2 verlangen, dass ihr Schriftsätze und andere Dokumente eines gerichtlichen Verfahrens barrierefrei zugänglich gemacht werden. Ist der blinden oder sehbehinderten Person Akteneinsicht zu gewähren, kann sie verlangen, dass ihr die Akteneinsicht nach Maßgabe der Rechtsverordnung nach Absatz 2 barrierefrei gewährt wird. Ein Anspruch im Sinne der Sätze 1 bis 3 steht auch einer blinden oder sehbehinderten Person zu, die von einer anderen Person mit der Wahrnehmung ihrer Rechte beauftragt oder hierfür bestellt worden ist. Auslagen für die barrierefreie Zugänglichmachung nach diesen Vorschriften werden nicht erhoben.
 
-(2) Das Bundesministerium der Justiz bestimmt durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, unter welchen Voraussetzungen und in welcher Weise die in Absatz 1 genannten Dokumente und Dokumente, die von den Parteien zur Akte gereicht werden, einer blinden oder sehbehinderten Person zugänglich gemacht werden, sowie ob und wie diese Person bei der Wahrnehmung ihrer Rechte mitzuwirken hat.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz bestimmt durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, unter welchen Voraussetzungen und in welcher Weise die in Absatz 1 genannten Dokumente und Dokumente, die von den Parteien zur Akte gereicht werden, einer blinden oder sehbehinderten Person zugänglich gemacht werden, sowie ob und wie diese Person bei der Wahrnehmung ihrer Rechte mitzuwirken hat.
 
 (3) Sind elektronische Formulare eingeführt (§ 130c der Zivilprozessordnung, § 14a des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, § 46f des Arbeitsgerichtsgesetzes, § 65c des Sozialgerichtsgesetzes, § 55c der Verwaltungsgerichtsordnung, § 52c der Finanzgerichtsordnung), sind diese blinden oder sehbehinderten Personen barrierefrei zugänglich zu machen. Dabei sind die Standards von § 3 der Barrierefreie-Informationstechnik-Verordnung vom 12. September 2011 (BGBl. I S. 1843) in der jeweils geltenden Fassung maßgebend.
 
