@@ -5,13 +5,13 @@ Neuf
 Neugefasst durch Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Stand  
-zuletzt geändert durch Art. 9 Abs. 3 G v. 3.4.2013 I 610
+zuletzt geändert durch Art. 12 G v. 19.10.2013 I 3836
 
 Hinweis  
-Änderung durch Art. 3 G v. 29.8.2013 I 3484 (Nr. 54) noch nicht berücksichtigt
+Änderung durch Art. 1 G v. 23.6.2014 I 787 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Sonst  
-Ergänzung auf Grund der Sozialversicherungs-Rechengrößenverordnung v. 26.11.2012 I 2361 ist berücksichtigt
+Ergänzung auf Grund der Sozialversicherungs-Rechengrößenverordnung v. 2.12.2013 I 4038 ist berücksichtigt
 
 ### 
 
@@ -617,6 +617,7 @@ Das G wurde vom Bundestag mit Zustimmung des Bundesrates beschlossen.
 | § 235                                                                                                                                    |
 | § 236                                                                                                                                    |
 | § 236a                                                                                                                                   |
+| § 236b                                                                                                                                   |
 | § 237                                                                                                                                    |
 | § 237a                                                                                                                                   |
 | § 238                                                                                                                                    |
@@ -896,6 +897,7 @@ Das G wurde vom Bundestag mit Zustimmung des Bundesrates beschlossen.
 | Leistungen an Berechtigte im Ausland                                                                                                     |
 |                                                                                                                                          |
 | § 317                                                                                                                                    |
+| § 317a                                                                                                                                   |
 | § 318                                                                                                                                    |
 | § 319                                                                                                                                    |
 |                                                                                                                                          |
@@ -1726,7 +1728,7 @@ haben.
 
 ### § 41 Altersrente und Kündigungsschutz
 
-Der Anspruch des Versicherten auf eine Rente wegen Alters ist nicht als ein Grund anzusehen, der die Kündigung eines Arbeitsverhältnisses durch den Arbeitgeber nach dem Kündigungsschutzgesetz bedingen kann. Eine Vereinbarung, die die Beendigung des Arbeitsverhältnisses eines Arbeitnehmers ohne Kündigung zu einem Zeitpunkt vorsieht, zu dem der Arbeitnehmer vor Erreichen der Regelaltersgrenze eine Rente wegen Alters beantragen kann, gilt dem Arbeitnehmer gegenüber als auf das Erreichen der Regelaltersgrenze abgeschlossen, es sei denn, dass die Vereinbarung innerhalb der letzten drei Jahre vor diesem Zeitpunkt abgeschlossen oder von dem Arbeitnehmer innerhalb der letzten drei Jahre vor diesem Zeitpunkt bestätigt worden ist.
+Der Anspruch des Versicherten auf eine Rente wegen Alters ist nicht als ein Grund anzusehen, der die Kündigung eines Arbeitsverhältnisses durch den Arbeitgeber nach dem Kündigungsschutzgesetz bedingen kann. Eine Vereinbarung, die die Beendigung des Arbeitsverhältnisses eines Arbeitnehmers ohne Kündigung zu einem Zeitpunkt vorsieht, zu dem der Arbeitnehmer vor Erreichen der Regelaltersgrenze eine Rente wegen Alters beantragen kann, gilt dem Arbeitnehmer gegenüber als auf das Erreichen der Regelaltersgrenze abgeschlossen, es sei denn, dass die Vereinbarung innerhalb der letzten drei Jahre vor diesem Zeitpunkt abgeschlossen oder von dem Arbeitnehmer innerhalb der letzten drei Jahre vor diesem Zeitpunkt bestätigt worden ist. Sieht eine Vereinbarung die Beendigung des Arbeitsverhältnisses mit dem Erreichen der Regelaltersgrenze vor, können die Arbeitsvertragsparteien durch Vereinbarung während des Arbeitsverhältnisses den Beendigungszeitpunkt, gegebenenfalls auch mehrfach, hinausschieben.
 
 ### § 42 Vollrente und Teilrente
 
@@ -2017,10 +2019,27 @@ Altersrente für schwerbehinderte Menschen.
 (3a) Auf die Wartezeit von 45 Jahren werden Kalendermonate angerechnet mit
 
 1.  
-Pflichtbeiträgen für eine versicherte Beschäftigung oder Tätigkeit, wobei § 55 Abs. 2 nicht für Zeiten anzuwenden ist, in denen Versicherte wegen des Bezugs von Arbeitslosengeld versicherungspflichtig waren, und
+Pflichtbeiträgen für eine versicherte Beschäftigung oder Tätigkeit,
 
 2.  
-Berücksichtigungszeiten.
+Berücksichtigungszeiten,
+
+3.  
+Zeiten des Bezugs von
+
+a)  
+Entgeltersatzleistungen der Arbeitsförderung,
+
+b)  
+Leistungen bei Krankheit und
+
+c)  
+Übergangsgeld,
+
+soweit sie Pflichtbeitragszeiten oder Anrechnungszeiten sind; dabei werden Zeiten nach Buchstabe a in den letzten zwei Jahren vor Rentenbeginn nicht berücksichtigt, es sei denn, der Bezug von Entgeltersatzleistungen der Arbeitsförderung ist durch eine Insolvenz oder vollständige Geschäftsaufgabe des Arbeitgebers bedingt, und
+
+4.  
+freiwilligen Beiträgen, wenn mindestens 18 Jahre mit Zeiten nach Nummer 1 vorhanden sind; dabei werden Zeiten freiwilliger Beitragszahlung in den letzten zwei Jahren vor Rentenbeginn nicht berücksichtigt, wenn gleichzeitig Anrechnungszeiten wegen Arbeitslosigkeit vorliegen.
 
 Kalendermonate, die durch Versorgungsausgleich oder Rentensplitting ermittelt werden, werden nicht angerechnet.
 
@@ -2144,7 +2163,7 @@ den Vorschriften über die Versicherungspflicht nicht unterliegt,
 während der Erziehungszeit zu den in § 5 Absatz 4 genannten Personen gehören oder
 
 3.  
-während der Erziehungszeit Anwartschaften auf Versorgung im Alter nach beamtenrechtlichen Vorschriften oder Grundsätzen oder entsprechenden kirchenrechtlichen Regelungen oder nach den Regelungen einer berufsständischen Versorgungseinrichtung aufgrund der Erziehung erworben haben, die systembezogen gleichwertig berücksichtigt wird wie die Kindererziehung nach diesem Buch.
+während der Erziehungszeit Anwartschaften auf Versorgung im Alter aufgrund der Erziehung erworben haben, wenn diese nach den für sie geltenden besonderen Versorgungsregelungen systembezogen annähernd gleichwertig berücksichtigt wird wie die Kindererziehung nach diesem Buch; als in diesem Sinne systembezogen annähernd gleichwertig gilt eine Versorgung nach beamtenrechtlichen Vorschriften oder Grundsätzen oder entsprechenden kirchenrechtlichen Regelungen.
 
 (5) Die Kindererziehungszeit beginnt nach Ablauf des Monats der Geburt und endet nach 36 Kalendermonaten. Wird während dieses Zeitraums vom erziehenden Elternteil ein weiteres Kind erzogen, für das ihm eine Kindererziehungszeit anzurechnen ist, wird die Kindererziehungszeit für dieses und jedes weitere Kind um die Anzahl an Kalendermonaten der gleichzeitigen Erziehung verlängert.
 
@@ -2206,7 +2225,7 @@ Berufsvorbereitende Bildungsmaßnahmen sind alle beruflichen Bildungsmaßnahmen,
 
 ### § 59 Zurechnungszeit
 
-(1) Zurechnungszeit ist die Zeit, die bei einer Rente wegen Erwerbsminderung oder einer Rente wegen Todes hinzugerechnet wird, wenn der Versicherte das 60. Lebensjahr noch nicht vollendet hat.
+(1) Zurechnungszeit ist die Zeit, die bei einer Rente wegen Erwerbsminderung oder einer Rente wegen Todes hinzugerechnet wird, wenn der Versicherte das 62. Lebensjahr noch nicht vollendet hat.
 
 (2) Die Zurechnungszeit beginnt
 
@@ -2222,7 +2241,7 @@ bei einer Witwenrente, Witwerrente oder Waisenrente mit dem Tod des Versicherten
 4.  
 bei einer Erziehungsrente mit Beginn dieser Rente.
 
-Die Zurechnungszeit endet mit Vollendung des 60. Lebensjahres.
+Die Zurechnungszeit endet mit Vollendung des 62. Lebensjahres.
 
 ### § 60 Zuordnung beitragsfreier Zeiten zur knappschaftlichen Rentenversicherung
 
@@ -2544,7 +2563,7 @@ Berücksichtigungszeiten, die auch beitragsfreie Zeiten sind, und
 3.  
 Beitragszeiten oder Berücksichtigungszeiten, in denen eine Rente aus eigener Versicherung bezogen worden ist,
 
-durch die Anzahl der belegungsfähigen Monate geteilt wird. Dabei sind von den belegungsfähigen Monaten aus der Grundbewertung die bei der Vergleichsbewertung außer Betracht gebliebenen Kalendermonate mit Entgeltpunkten abzusetzen.
+durch die Anzahl der belegungsfähigen Monate geteilt wird; bei Renten wegen verminderter Erwerbsfähigkeit werden außerdem Entgeltpunkte für die letzten vier Jahre bis zum Eintritt der hierfür maßgebenden Minderung der Erwerbsfähigkeit nicht berücksichtigt, wenn sich dadurch ein höherer Wert aus der Vergleichsbewertung ergibt. Dabei sind von den belegungsfähigen Monaten aus der Grundbewertung die bei der Vergleichsbewertung außer Betracht gebliebenen Kalendermonate mit Entgeltpunkten abzusetzen.
 
 ### § 74 Begrenzte Gesamtleistungsbewertung
 
@@ -3449,21 +3468,13 @@ Bundesgebiets-Beitragszeiten sind Beitragszeiten, für die Beiträge nach Bundes
 
 (2) Der Zuschlag an persönlichen Entgeltpunkten bei Waisenrenten von Berechtigten wird allein aus Bundesgebiets-Beitragszeiten ermittelt.
 
-(3) Die persönlichen Entgeltpunkte von Berechtigten, die nicht Angehörige eines Mitgliedstaates der Europäischen Union, Angehörige eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder Staatsangehörige der Schweiz sind, werden zu 70 vom Hundert berücksichtigt. Satz 1 gilt nicht bei Hinterbliebenenrenten, wenn der verstorbene Versicherte Angehöriger eines Mitgliedstaates der Europäischen Union, Angehöriger eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder Staatsangehöriger der Schweiz war.
+(3) (weggefallen)
 
-(4) Absatz 3 Satz 1 gilt nicht für Berechtigte, die Inhaber
-
-1.  
-einer in der Bundesrepublik Deutschland ausgestellten Blauen Karte EU nach der Richtlinie 2009/50/EG des Rates vom 25. Mai 2009 über die Bedingungen für die Einreise und den Aufenthalt von Drittstaatsangehörigen zur Ausübung einer hochqualifizierten Beschäftigung (ABl. L 155 vom 18.6.2009, S. 17) oder
-
-2.  
-einer Niederlassungserlaubnis nach § 19 des Aufenthaltsgesetzes
-
-sind oder waren, und deren Hinterbliebene.
+(4) (weggefallen)
 
 ### § 114 Besonderheiten
 
-(1) Die persönlichen Entgeltpunkte von Berechtigten, die Angehörige eines Mitgliedstaates der Europäischen Union, Angehörige eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder Staatsangehörige der Schweiz sind, werden zusätzlich ermittelt aus
+(1) Die persönlichen Entgeltpunkte von Berechtigten werden zusätzlich ermittelt aus
 
 1.  
 Entgeltpunkten für beitragsfreie Zeiten,
@@ -3476,7 +3487,7 @@ Abschlägen an Entgeltpunkten aus einem durchgeführten Versorgungsausgleich ode
 
 Die nach Satz 1 ermittelten Entgeltpunkte werden dabei in dem Verhältnis berücksichtigt, in dem die Entgeltpunkte für Bundesgebiets-Beitragszeiten und die nach § 272 Abs. 1 Nr. 1 sowie § 272 Abs. 3 Satz 1 ermittelten Entgeltpunkte zu allen Entgeltpunkten für Beitragszeiten einschließlich Beschäftigungszeiten nach dem Fremdrentengesetz stehen.
 
-(2) Der Zuschlag an persönlichen Entgeltpunkten bei Waisenrenten von Berechtigten, die Angehörige eines Mitgliedstaates der Europäischen Union, Angehörige eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder Staatsangehörige der Schweiz sind, wird zusätzlich aus
+(2) Der Zuschlag an persönlichen Entgeltpunkten bei Waisenrenten von Berechtigten wird zusätzlich aus
 
 1.  
 beitragsfreien Zeiten in dem sich nach Absatz 1 Satz 2 ergebenden Verhältnis und
@@ -3486,17 +3497,9 @@ Berücksichtigungszeiten im Inland
 
 ermittelt.
 
-(3) Absatz 1 gilt auch bei Hinterbliebenenrenten und Absatz 2 gilt auch bei Waisenrenten, wenn der verstorbene Versicherte Angehöriger eines Mitgliedstaates der Europäischen Union, Angehöriger eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder Staatsangehöriger der Schweiz war.
+(3) (weggefallen)
 
-(4) Die Absätze 1 und 2 gelten auch für Berechtigte, die Inhaber
-
-1.  
-einer in der Bundesrepublik Deutschland ausgestellten Blauen Karte EU nach der Richtlinie 2009/50/EG oder
-
-2.  
-einer Niederlassungserlaubnis nach § 19 des Aufenthaltsgesetzes
-
-sind oder waren, und deren Hinterbliebene.
+(4) (weggefallen)
 
 Sechster Abschnitt Durchführung
 -------------------------------
@@ -4501,7 +4504,7 @@ Der Rentenversicherungsträger darf die Versicherungsnummer, den Familiennamen, 
 
 (2) Der Träger der Rentenversicherung darf Daten, aus denen die Art einer Erkrankung erkennbar ist, zusammen mit anderen Daten in einer gemeinsamen Datei nur speichern, wenn durch technische und organisatorische Maßnahmen sichergestellt ist, dass die Daten über eine Erkrankung nur den Personen zugänglich sind, die sie zur Erfüllung ihrer Aufgaben benötigen.
 
-(3) Die Einrichtung eines automatisierten Verfahrens, das die Übermittlung von Sozialdaten aus Dateien der Träger der Rentenversicherung durch Abruf ermöglicht, ist nur zwischen den Trägern der Rentenversicherung sowie mit der gesetzlichen Krankenversicherung, der Bundesagentur für Arbeit, der Deutschen Rentenversicherung Knappschaft-Bahn-See, soweit sie bei geringfügig Beschäftigten Aufgaben nach dem Einkommensteuergesetz durchführt, der Deutschen Post AG, soweit sie mit der Berechnung oder Auszahlung von Sozialleistungen betraut ist, und den Versicherungsämtern und Gemeindebehörden, soweit sie mit der Aufnahme von Anträgen auf Leistungen aus der gesetzlichen Rentenversicherung betraut sind, zulässig; dabei dürfen auch Vermittlungsstellen eingeschaltet werden. Sie ist mit Leistungsträgern außerhalb des Geltungsbereichs dieses Gesetzbuchs zulässig, soweit diese Daten zur Feststellung von Leistungen nach über- und zwischenstaatlichem Recht erforderlich sind und nicht Grund zur Annahme besteht, dass dadurch schutzwürdige Belange der davon betroffenen Personen beeinträchtigt werden. Die Übermittlung darf auch durch Abruf im automatisierten Verfahren erfolgen, ohne dass es einer Genehmigung nach § 79 Abs. 1 des Zehnten Buches bedarf.
+(3) Die Einrichtung eines automatisierten Verfahrens, das die Übermittlung von Sozialdaten aus Dateien der Träger der Rentenversicherung durch Abruf ermöglicht, ist nur zwischen den Trägern der Rentenversicherung sowie mit der gesetzlichen Krankenversicherung, der Bundesagentur für Arbeit oder in den Fällen des § 6a des Zweiten Buches den zugelassenen kommunalen Trägern, der Deutschen Rentenversicherung Knappschaft-Bahn-See, soweit sie bei geringfügig Beschäftigten Aufgaben nach dem Einkommensteuergesetz durchführt, der Deutschen Post AG, soweit sie mit der Berechnung oder Auszahlung von Sozialleistungen betraut ist, und den Versicherungsämtern und Gemeindebehörden, soweit sie mit der Aufnahme von Anträgen auf Leistungen aus der gesetzlichen Rentenversicherung betraut sind, zulässig; dabei dürfen auch Vermittlungsstellen eingeschaltet werden. Sie ist mit Leistungsträgern außerhalb des Geltungsbereichs dieses Gesetzbuchs zulässig, soweit diese Daten zur Feststellung von Leistungen nach über- und zwischenstaatlichem Recht erforderlich sind und nicht Grund zur Annahme besteht, dass dadurch schutzwürdige Belange der davon betroffenen Personen beeinträchtigt werden. Die Übermittlung darf auch durch Abruf im automatisierten Verfahren erfolgen, ohne dass es einer Genehmigung nach § 79 Abs. 1 des Zehnten Buches bedarf.
 
 (4) Die Träger der Rentenversicherung dürfen der Datenstelle oder der Deutschen Rentenversicherung Bund Sozialdaten nur übermitteln, soweit dies zur Führung einer Datei bei der Datenstelle oder zur Erfüllung einer anderen gesetzlich vorgeschriebenen oder zugelassenen Aufgabe erforderlich ist. Die Einschränkungen des Satzes 1 gelten nicht, wenn die Sozialdaten in einer anonymisierten Form übermittelt werden.
 
@@ -4762,7 +4765,7 @@ der Verhältniswert aus einer jahresdurchschnittlichen verfügbaren Standardrent
 
 Die Bundesregierung soll den gesetzgebenden Körperschaften geeignete Maßnahmen vorschlagen, wenn sich zeigt, dass durch die Förderung der freiwilligen zusätzlichen Altersvorsorge eine ausreichende Verbreitung nicht erreicht werden kann.
 
-(4) Die Bundesregierung hat den gesetzgebenden Körperschaften vom Jahre 2010 an alle vier Jahre über die Entwicklung der Beschäftigung älterer Arbeitnehmer zu berichten und eine Einschätzung darüber abzugeben, ob die Anhebung der Regelaltersgrenze unter Berücksichtigung der Entwicklung der Arbeitsmarktlage sowie der wirtschaftlichen und sozialen Situation älterer Arbeitnehmer weiterhin vertretbar erscheint und die getroffenen gesetzlichen Regelungen bestehen bleiben können. In diesem Bericht sind zur Beibehaltung eines Sicherungsniveauziels vor Steuern von 46 vom Hundert über das Jahr 2020 hinaus von der Bundesregierung entsprechende Maßnahmen unter Wahrung der Beitragssatzstabilität vorzuschlagen.
+(4) Die Bundesregierung hat den gesetzgebenden Körperschaften vom Jahre 2010 an alle vier Jahre über die Entwicklung der Beschäftigung älterer Arbeitnehmer zu berichten und eine Einschätzung darüber abzugeben, ob die Anhebung der Regelaltersgrenze unter Berücksichtigung der Entwicklung der Arbeitsmarktlage sowie der wirtschaftlichen und sozialen Situation älterer Arbeitnehmer weiterhin vertretbar erscheint und die getroffenen gesetzlichen Regelungen bestehen bleiben können. In diesem Bericht sind zur Beibehaltung eines Sicherungsniveauziels vor Steuern von 46 vom Hundert über das Jahr 2020 hinaus von der Bundesregierung entsprechende Maßnahmen unter Wahrung der Beitragssatzstabilität vorzuschlagen. Die Bundesregierung berichtet zudem vom Jahre 2018 an über die Auswirkungen der Altersrente für besonders langjährig Versicherte in der Fassung des RV-Leistungsverbesserungsgesetzes, insbesondere über den Umfang der Inanspruchnahme und die Erfüllung der Zugangsvoraussetzungen vor dem Hintergrund der Berücksichtigung von Zeiten des Arbeitslosengeldbezugs und macht Vorschläge für eine Weiterentwicklung dieser Rentenart.
 
 ### § 155 Aufgabe des Sozialbeirats
 
@@ -5893,7 +5896,7 @@ Erster Unterabschnitt Beteiligung des Bundes
 
 (1) Der Bund leistet zu den Ausgaben der allgemeinen Rentenversicherung Zuschüsse.
 
-(2) Der Bundeszuschuss zu den Ausgaben der allgemeinen Rentenversicherung ändert sich im jeweils folgenden Kalenderjahr in dem Verhältnis, in dem die Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Abs. 2 Satz 1) im vergangenen Kalenderjahr zu den entsprechenden Bruttolöhnen und -gehältern im vorvergangenen Kalenderjahr stehen. Bei Veränderungen des Beitragssatzes ändert sich der Bundeszuschuss zusätzlich in dem Verhältnis, in dem der Beitragssatz des Jahres, für das er bestimmt wird, zum Beitragssatz des Vorjahres steht. Bei Anwendung von Satz 2 ist jeweils der Beitragssatz zugrunde zu legen, der sich ohne Berücksichtigung des zusätzlichen Bundeszuschusses nach Absatz 3 und des Erhöhungsbetrags nach Absatz 4 ergeben würde.
+(2) Der Bundeszuschuss zu den Ausgaben der allgemeinen Rentenversicherung ändert sich im jeweils folgenden Kalenderjahr in dem Verhältnis, in dem die Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Abs. 2 Satz 1) im vergangenen Kalenderjahr zu den entsprechenden Bruttolöhnen und -gehältern im vorvergangenen Kalenderjahr stehen. Bei Veränderungen des Beitragssatzes ändert sich der Bundeszuschuss zusätzlich in dem Verhältnis, in dem der Beitragssatz des Jahres, für das er bestimmt wird, zum Beitragssatz des Vorjahres steht. Bei Anwendung von Satz 2 ist jeweils der Beitragssatz zugrunde zu legen, der sich ohne Berücksichtigung des zusätzlichen Bundeszuschusses nach Absatz 3 und des Erhöhungsbetrags nach Absatz 4 ergeben würde. Der Bundeszuschuss wird in den Jahren 2019 bis 2022 um jeweils 400 Millionen Euro erhöht; diese Beträge sind jeweils bei den Änderungen des Bundeszuschusses in den darauf folgenden Kalenderjahren nach den Sätzen 1 bis 3 zu berücksichtigen.
 
 (2a) Der allgemeine Bundeszuschuss wird für das Jahr 2006 um 170 Millionen Euro und ab dem Jahr 2007 um jeweils 340 Millionen Euro pauschal vermindert. Abweichungen des pauschalierten Minderungsbetrages von den tatsächlichen zusätzlichen Einnahmen eines Kalenderjahres durch Mehreinnahmen aus der Begrenzung der Sozialversicherungsfreiheit für Sonn-, Feiertags- und Nachtzuschläge auf einen Stundenlohn bis zu 25 Euro und aufgrund der Erhöhung der Pauschalabgaben für geringfügige Beschäftigung ohne Versicherungspflicht im gewerblichen Bereich von 12 vom Hundert auf 15 vom Hundert des Arbeitsentgelts in der gesetzlichen Rentenversicherung sind mit dem Bundeszuschuss nach Absatz 2 des auf die Abrechnung folgenden Haushaltsjahres zu verrechnen; Ausgangsbetrag für den Bundeszuschuss ist der jeweils zuletzt festgestellte Bundeszuschuss nach Absatz 2 ohne Minderungsbetrag. Abweichend von Satz 1 beträgt der pauschalierte Minderungsbetrag im Jahr 2013 1,34 Milliarden Euro und in den Jahren 2014 bis 2016 jeweils 1,59 Milliarden Euro.
 
@@ -6754,6 +6757,120 @@ berufsunfähig oder erwerbsunfähig nach dem am 31. Dezember 2000 geltenden Rech
 
 3.  
 die Wartezeit von 35 Jahren erfüllt haben.
+
+### § 236b Altersrente für besonders langjährig Versicherte
+
+(1) Versicherte, die vor dem 1. Januar 1964 geboren sind, haben frühestens Anspruch auf Altersrente für besonders langjährig Versicherte, wenn sie
+
+1.  
+das 63. Lebensjahr vollendet und
+
+2.  
+die Wartezeit von 45 Jahren erfüllt
+
+haben.
+
+(2) Versicherte, die vor dem 1. Januar 1953 geboren sind, haben Anspruch auf diese Altersrente nach Vollendung des 63. Lebensjahres. Für Versicherte, die nach dem 31. Dezember 1952 geboren sind, wird die Altersgrenze von 63 Jahren wie folgt angehoben:
+
+Versicherte
+Geburtsjahr
+
+Anhebung
+um Monate
+
+auf Alter
+
+Jahr
+
+Monat
+
+1953
+
+ 2
+
+63
+
+ 2
+
+1954
+
+ 4
+
+63
+
+ 4
+
+1955
+
+ 6
+
+63
+
+ 6
+
+1956
+
+ 8
+
+63
+
+ 8
+
+1957
+
+10
+
+63
+
+10
+
+1958
+
+12
+
+64
+
+ 0
+
+1959
+
+14
+
+64
+
+ 2
+
+1960
+
+16
+
+64
+
+ 4
+
+1961
+
+18
+
+64
+
+ 6
+
+1962
+
+20
+
+64
+
+ 8
+
+1963
+
+22
+
+64
+
+10.
 
 ### § 237 Altersrente wegen Arbeitslosigkeit oder nach Altersteilzeitarbeit
 
@@ -7812,7 +7929,7 @@ Altersrente für Frauen.
 
 (2) Auf die Wartezeit von 15 Jahren werden Kalendermonate mit Beitragszeiten und Ersatzzeiten angerechnet.
 
-(3) Auf die Wartezeit von 45 Jahren werden Pflichtbeitragszeiten nicht angerechnet, in denen Versicherte wegen des Bezugs von Arbeitslosenhilfe oder Arbeitslosengeld II versicherungspflichtig waren.
+(3) Auf die Wartezeit von 45 Jahren werden Zeiten des Bezugs von Arbeitslosenhilfe und Arbeitslosengeld II nicht angerechnet. Zeiten vor dem 1. Januar 2001, für die der Bezug von Leistungen nach § 51 Absatz 3a Nummer 3 Buchstabe a mit Ausnahme der Arbeitslosenhilfe oder nach Buchstabe b glaubhaft gemacht ist, werden auf die Wartezeit von 45 Jahren angerechnet. Als Mittel der Glaubhaftmachung können auch Versicherungen an Eides statt zugelassen werden. Der Träger der Rentenversicherung ist für die Abnahme eidesstattlicher Versicherungen zuständig.
 
 ### § 244a Wartezeiterfüllung durch Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger versicherungsfreier Beschäftigung
 
@@ -7909,7 +8026,7 @@ Zeiten der freiwilligen Versicherung vor dem 1. Januar 1991 nach der Verordnung 
 
 ### § 249 Beitragszeiten wegen Kindererziehung
 
-(1) Die Kindererziehungszeit für ein vor dem 1. Januar 1992 geborenes Kind endet zwölf Kalendermonate nach Ablauf des Monats der Geburt.
+(1) Die Kindererziehungszeit für ein vor dem 1. Januar 1992 geborenes Kind endet 24 Kalendermonate nach Ablauf des Monats der Geburt.
 
 (2) Bei der Anrechnung einer Kindererziehungszeit steht der Erziehung im Inland die Erziehung im jeweiligen Geltungsbereich der Reichsversicherungsgesetze gleich. Dies gilt nicht, wenn Beitragszeiten während desselben Zeitraums aufgrund einer Versicherungslastregelung mit einem anderen Staat nicht in die Versicherungslast der Bundesrepublik Deutschland fallen würden.
 
@@ -7921,7 +8038,9 @@ Zeiten der freiwilligen Versicherung vor dem 1. Januar 1991 nach der Verordnung 
 
 (6) Ist die Mutter vor dem 1. Januar 1986 gestorben, wird die Kindererziehungszeit insgesamt dem Vater zugeordnet.
 
-(7) (weggefallen)
+(7) Bei Folgerenten, die die Voraussetzungen nach § 88 Absatz 1 oder 2 erfüllen und für die ein Zuschlag an persönlichen Entgeltpunkten nach § 307d zu berücksichtigen ist, endet die Kindererziehungszeit für ein vor dem 1. Januar 1992 geborenes Kind zwölf Kalendermonate nach Ablauf des Monats der Geburt.
+
+(8) Die Anrechnung einer Kindererziehungszeit nach Absatz 1 ist ab dem 13. Kalendermonat nach Ablauf des Monats der Geburt ausgeschlossen, wenn für den Versicherten für dasselbe Kind ein Zuschlag an persönlichen Entgeltpunkten nach § 307d zu berücksichtigen ist. Satz 1 gilt entsprechend, wenn für einen anderen Versicherten oder Hinterbliebenen für dasselbe Kind ein Zuschlag an persönlichen Entgeltpunkten nach § 307d zu berücksichtigen ist oder zu berücksichtigen war.
 
 ### § 249a Beitragszeiten wegen Kindererziehung im Beitrittsgebiet
 
@@ -8133,9 +8252,7 @@ Dabei werden Zeiten, für die eine Nachversicherung nur wegen eines fehlenden An
 
 (2) Der Anteil der pauschalen Anrechnungszeit, der auf einen Zeitabschnitt entfällt, ist die volle Anzahl an Monaten, die sich ergibt, wenn die pauschale Anrechnungszeit mit der für ihre Ermittlung maßgebenden verbleibenden Zeit in diesem Zeitabschnitt (Teillücke) vervielfältigt und durch die Gesamtlücke geteilt wird.
 
-### § 253a Zurechnungszeit
-
-Bei Beginn einer Rente vor dem 1. Januar 2004 endet die Zurechnungszeit mit dem vollendeten 55. Lebensjahr. Die darüber hinausgehende Zeit bis zum vollendeten 60. Lebensjahr wird in Abhängigkeit vom Beginn der Rente in dem in Anlage 23 geregelten Umfang zusätzlich als Zurechnungszeit berücksichtigt.
+### § 253a (weggefallen)
 
 ### § 254 Zuordnung beitragsfreier Zeiten zur knappschaftlichen Rentenversicherung
 
@@ -9080,7 +9197,7 @@ gezahlt worden sind. Kindererziehungszeiten sind Bundesgebiets-Beitragszeiten, w
 
 ### § 272 Besonderheiten
 
-(1) Die persönlichen Entgeltpunkte von Berechtigten, die Angehörige eines Mitgliedstaates der Europäischen Union, Angehörige eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder Staatsangehörige der Schweiz sind, die vor dem 19. Mai 1950 geboren sind und vor dem 19. Mai 1990 ihren gewöhnlichen Aufenthalt im Ausland genommen haben, werden zusätzlich ermittelt aus
+(1) Die persönlichen Entgeltpunkte von Berechtigten, die vor dem 19. Mai 1950 geboren sind und vor dem 19. Mai 1990 ihren gewöhnlichen Aufenthalt im Ausland genommen haben, werden zusätzlich ermittelt aus
 
 1.  
 Entgeltpunkten für Beitragszeiten nach dem Fremdrentengesetz, begrenzt auf die Höhe der Entgeltpunkte für Bundesgebiets-Beitragszeiten,
@@ -9093,8 +9210,6 @@ dem Abschlag an Entgeltpunkten aus einem durchgeführten Versorgungsausgleich od
 
 4.  
 dem Zuschlag an persönlichen Entgeltpunkten bei Waisenrenten aus Beitragszeiten nach dem Fremdrentengesetz in dem sich nach Nummer 3 ergebenden Verhältnis.
-
-Satz 1 gilt auch bei Hinterbliebenenrenten, wenn der verstorbene Versicherte Angehöriger eines Mitgliedstaates der Europäischen Union, Angehöriger eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder Staatsangehöriger der Schweiz war.
 
 (2) Entgeltpunkte für Beitragszeiten nach dem Fremdrentengesetz, die nach Absatz 1 aufgrund von Entgeltpunkten (Ost) zusätzlich zu berücksichtigen sind, gelten als Entgeltpunkte (Ost).
 
@@ -9284,7 +9399,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 ### § 276b Gleitzone
 
-(1) Für Arbeitnehmer, die am 31. Dezember 2012 in einer mehr als geringfügigen Beschäftigung nach § 8 Absatz 1 Nummer 1 oder § 8a in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten Buches versicherungspflichtig waren, die die Merkmale einer geringfügigen Beschäftigung nach diesen Vorschriften in der ab dem 31. Dezember 2012 geltenden Fassung erfüllt, gilt für diese Beschäftigung weiterhin § 163 Absatz 10 mit Maßgabe folgender Formel:
+(1) Für Arbeitnehmer, die am 31. Dezember 2012 in einer mehr als geringfügigen Beschäftigung nach § 8 Absatz 1 Nummer 1 oder § 8a in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten Buches versicherungspflichtig waren, die die Merkmale einer geringfügigen Beschäftigung nach diesen Vorschriften in der ab dem 1. Januar 2013 geltenden Fassung erfüllt, gilt für diese Beschäftigung weiterhin § 163 Absatz 10 mit Maßgabe folgender Formel:
 
 F x 400 + (2 – F) x (AE – 400).
 
@@ -9584,6 +9699,100 @@ Vierter Titel Berechnungsgrundlagen
 
 (2) Abweichend von der Regelung über die Veränderung der jährlichen Ausgaben für Leistungen zur Teilhabe (§ 220 Abs. 1) wird die Höhe dieser Ausgaben für das Kalenderjahr 1997 auf die Höhe der zuvor um 600 Millionen Deutsche Mark verminderten entsprechenden Ausgaben für das Kalenderjahr 1993 begrenzt. Der nach Satz 1 maßgebende Betrag wird für das Jahr 1998 um 450 Millionen Deutsche Mark und für das Jahr 1999 um 900 Millionen Deutsche Mark erhöht. Nach Inkrafttreten des Gesetzes zur Zuständigkeitsverlagerung der bisher von der Rentenversicherung erbrachten Leistung "Stationäre Heilbehandlung für Kinder" in die gesetzliche Krankenversicherung wird von den in Satz 2 genannten Erhöhungsbeträgen jährlich der Betrag von 210 Millionen Deutsche Mark abgesetzt. Bei der Festsetzung der Ausgaben für Leistungen zur Teilhabe (§ 220 Abs. 1) für das Jahr 2000 ist der nach den Sätzen 1 bis 3 für das Jahr 1999 maßgebende Betrag zugrunde zu legen.
 
+(3) Die jährlichen Ausgaben für Leistungen zur Teilhabe werden in der Zeit vom 1. Januar 2014 bis zum 31. Dezember 2050 bedarfsgerecht unter Berücksichtigung einer Demografiekomponente fortgeschrieben. Die Demografiekomponente ist zusätzlich zur voraussichtlichen Entwicklung der Bruttolöhne und -gehälter je Arbeitnehmer bei der Festsetzung der jährlichen Ausgaben für Leistungen zur Teilhabe nach § 220 Absatz 1 Satz 1 als gesonderter Faktor zu berücksichtigen. Der Faktor wird wie folgt festgesetzt:
+
+Jahr
+
+Demografiekomponente
+
+2014
+2015
+2016
+2017
+
+1,0192
+1,0126
+1,0073
+1,0026
+
+2018
+2019
+2020
+2021
+2022
+
+0,9975
+0,9946
+0,9938
+0,9936
+0,9935
+
+2023
+2024
+2025
+2026
+2027
+
+0,9938
+0,9931
+0,9929
+0,9943
+0,9919
+
+2028
+2029
+2030
+2031
+2032
+
+0,9907
+0,9887
+0,9878
+0,9863
+0,9875
+
+2033
+2034
+2035
+2036
+2037
+
+0,9893
+0,9907
+0,9914
+0,9934
+0,9924
+
+2038
+2039
+2040
+2041
+2042
+
+0,9948
+0,9963
+0,9997
+1,0033
+1,0051
+
+2043
+2044
+2045
+2046
+2047
+2048
+2049
+2050
+
+1,0063
+1,0044
+1,0032
+1,0028
+1,0009
+0,9981
+0,9979
+0,9978.
+
 ### § 287c
 
 (weggefallen)
@@ -9736,11 +9945,11 @@ Hatte eine Mutter am 18. Mai 1990 ihren gewöhnlichen Aufenthalt im Beitrittsgeb
 
 ### § 295 Höhe der Leistung
 
-Monatliche Höhe der Leistung für Kindererziehung ist der jeweils für die Berechnung von Renten maßgebende aktuelle Rentenwert.
+Monatliche Höhe der Leistung für Kindererziehung ist das Zweifache des für die Berechnung von Renten jeweils maßgebenden aktuellen Rentenwerts.
 
 ### § 295a Höhe der Leistung im Beitrittsgebiet
 
-Monatliche Höhe der Leistung für Kindererziehung für Geburten im Beitrittsgebiet ist der jeweils für die Berechnung von Renten maßgebende aktuelle Rentenwert (Ost). Dies gilt nicht für Mütter, die ihren gewöhnlichen Aufenthalt am 18. Mai 1990 entweder
+Monatliche Höhe der Leistung für Kindererziehung für Geburten im Beitrittsgebiet ist das Zweifache des für die Berechnung von Renten jeweils maßgebenden aktuellen Rentenwerts (Ost). Dies gilt nicht für Mütter, die ihren gewöhnlichen Aufenthalt am 18. Mai 1990 entweder
 
 1.  
 im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet oder
@@ -9855,7 +10064,7 @@ Dritter Unterabschnitt Anspruchsvoraussetzungen für einzelne Renten
 
 (6) Bestand am 31. Dezember 2002 Anspruch auf eine Altersrente und dem Arbeitsentgelt oder Arbeitseinkommen aus einer Beschäftigung oder selbständigen Tätigkeit vergleichbares Einkommen mit Ausnahme von Vorruhestandsgeld, gilt für diese Rente dieses vergleichbare Einkommen nicht als Hinzuverdienst.
 
-(7) Besteht Anspruch auf eine Rente wegen Alters und eine Aufwandsentschädigung für kommunale Ehrenbeamte, für ehrenamtlich in kommunalen Vertretungskörperschaften Tätige oder für Mitglieder der Selbstverwaltungsorgane, Versichertenälteste oder Vertrauenspersonen der Sozialversicherungsträger, gilt die Aufwandsentschädigung bis zum 30. September 2015 weiterhin nicht als Hinzuverdienst, soweit kein konkreter Verdienstausfall ersetzt wird.
+(7) Besteht Anspruch auf eine Rente wegen Alters und eine Aufwandsentschädigung für kommunale Ehrenbeamte, für ehrenamtlich in kommunalen Vertretungskörperschaften Tätige oder für Mitglieder der Selbstverwaltungsorgane, Versichertenälteste oder Vertrauenspersonen der Sozialversicherungsträger, gilt die Aufwandsentschädigung bis zum 30. September 2017 weiterhin nicht als Hinzuverdienst, soweit kein konkreter Verdienstausfall ersetzt wird.
 
 ### § 302a Renten wegen verminderter Erwerbsfähigkeit und Bergmannsvollrenten
 
@@ -10045,9 +10254,21 @@ Entgeltpunkte (Ost) für ständige Arbeiten unter Tage sind die bei der Rentenne
 
 (3) Unterschreitet der Monatsbetrag der nach Absatz 1 neu berechneten Rente den Monatsbetrag der zuletzt vor der Neuberechnung gezahlten Rente, wird dieser solange weitergezahlt, bis die neu berechnete Rente den weiterzuzahlenden Betrag erreicht.
 
-### § 307d
+### § 307d Zuschlag an persönlichen Entgeltpunkten für Kindererziehung
 
-(weggefallen)
+(1) Bestand am 30. Juni 2014 Anspruch auf eine Rente, wird ein Zuschlag an persönlichen Entgeltpunkten für Kindererziehung für ein vor dem 1. Januar 1992 geborenes Kind berücksichtigt, wenn
+
+1.  
+in der Rente eine Kindererziehungszeit für den zwölften Kalendermonat nach Ablauf des Monats der Geburt angerechnet wurde,
+
+2.  
+kein Anspruch nach den §§ 294 und 294a besteht.
+
+(2) Der Zuschlag beträgt für jedes Kind einen persönlichen Entgeltpunkt. Sind für Kindererziehungszeiten ausschließlich Entgeltpunkte (Ost) zugeordnet worden, beträgt der Zuschlag für jedes Kind einen persönlichen Entgeltpunkt (Ost). Ist die Kindererziehungszeit nach Absatz 1 Nummer 1 in der knappschaftlichen Rentenversicherung berücksichtigt worden, wird der Zuschlag an persönlichen Entgeltpunkten und persönlichen Entgeltpunkten (Ost) mit 0,75 vervielfältigt.
+
+(3) Folgt auf eine Rente mit einem Zuschlag nach Absatz 1 eine Rente, die die Voraussetzungen nach § 88 Absatz 1 oder 2 erfüllt, ist der Zuschlag an persönlichen Entgeltpunkten nach den Absätzen 1 und 2 weiter zu berücksichtigen.
+
+(4) Der Zuschlag nach Absatz 1 ist nicht zu berücksichtigen, wenn die Anrechnung von Kindererziehungszeiten nach § 56 Absatz 4 in der Fassung ab dem 1. Juli 2014 ganz oder teilweise ausgeschlossen ist.
 
 ### § 308 Umstellungsrenten
 
@@ -10230,7 +10451,7 @@ der monatlichen Bezugsgröße, vervielfältigt mit den Entgeltpunkten (§ 66 Abs
 
 (7) Bestand am 31. Dezember 2002 Anspruch auf eine Rente wegen verminderter Erwerbsfähigkeit und dem Arbeitsentgelt oder Arbeitseinkommen aus einer Beschäftigung oder selbständigen Tätigkeit vergleichbares Einkommen mit Ausnahme von Vorruhestandsgeld, gilt für diese Rente dieses vergleichbare Einkommen bis zum 31. Dezember 2007 nicht als Hinzuverdienst.
 
-(8) Besteht Anspruch auf eine Rente wegen verminderter Erwerbsfähigkeit und eine Aufwandsentschädigung für kommunale Ehrenbeamte, für ehrenamtlich in kommunalen Vertretungskörperschaften Tätige oder für Mitglieder der Selbstverwaltungsorgane, Versichertenälteste oder Vertrauenspersonen der Sozialversicherungsträger, gilt die Aufwandsentschädigung bis zum 30. September 2015 weiterhin nicht als Hinzuverdienst, soweit kein konkreter Verdienstausfall ersetzt wird.
+(8) Besteht Anspruch auf eine Rente wegen verminderter Erwerbsfähigkeit und eine Aufwandsentschädigung für kommunale Ehrenbeamte, für ehrenamtlich in kommunalen Vertretungskörperschaften Tätige oder für Mitglieder der Selbstverwaltungsorgane, Versichertenälteste oder Vertrauenspersonen der Sozialversicherungsträger, gilt die Aufwandsentschädigung bis zum 30. September 2017 weiterhin nicht als Hinzuverdienst, soweit kein konkreter Verdienstausfall ersetzt wird.
 
 ### § 313a Renten wegen verminderter Erwerbsfähigkeit und Arbeitslosengeld
 
@@ -10311,13 +10532,19 @@ Siebter Unterabschnitt Leistungen an Berechtigte im Ausland
 
 (1) Bestand Anspruch auf Leistung einer Rente vor dem Zeitpunkt, von dem an geänderte Vorschriften über Leistungen an Berechtigte im Ausland gelten, wird die Rente allein aus Anlass der Rechtsänderung nicht neu berechnet. Dies gilt nicht, wenn dem Berechtigten die Rente aus Beitragszeiten im Beitrittsgebiet nicht oder nicht in vollem Umfang gezahlt werden konnte. Die Rente ist mindestens aus den bisherigen persönlichen Entgeltpunkten weiterzuleisten.
 
-(2) Eine Rente an einen Hinterbliebenen, der Angehöriger eines Mitgliedstaates der Europäischen Union, Angehöriger eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder Staatsangehöriger der Schweiz ist, ist mindestens aus den persönlichen Entgeltpunkten des verstorbenen Versicherten zu leisten, aus denen seine Rente geleistet worden ist, wenn er am 31. Dezember 1991 Anspruch auf Leistung einer Rente ins Ausland hatte und diese Rente bis zu seinem Tode bezogen hat.
+(2) Eine Rente an einen Hinterbliebenen ist mindestens aus den persönlichen Entgeltpunkten des verstorbenen Versicherten zu leisten, aus denen seine Rente geleistet worden ist, wenn er am 31. Dezember 1991 Anspruch auf Leistung einer Rente ins Ausland hatte und diese Rente bis zu seinem Tode bezogen hat.
 
-(2a) Bestand am 31. Dezember 1991 Anspruch auf eine Rente und ist diese Rente aufgrund einer nach dem 31. Dezember 1991 eingetretenen Änderung in den Verhältnissen, die für die Anwendung der Vorschriften über Leistungen an Berechtigte im Ausland von Bedeutung sind, neu festzustellen, ist bei der Neufeststellung das am 1. Januar 1992 geltende Recht anzuwenden. Hierbei sind für Berechtigte, die Angehörige eines Mitgliedstaates der Europäischen Union, Angehörige eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder Staatsangehörige der Schweiz sind, mindestens die nach § 307 ermittelten persönlichen Entgeltpunkte in dem in § 114 Abs. 1 Satz 2 genannten Verhältnis zugrunde zu legen. Satz 2 gilt auch bei Hinterbliebenenrenten, wenn der verstorbene Versicherte Angehöriger eines Mitgliedstaates der Europäischen Union, Angehöriger eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder Staatsangehöriger der Schweiz war.
+(2a) Bestand am 31. Dezember 1991 Anspruch auf eine Rente und ist diese Rente aufgrund einer nach dem 31. Dezember 1991 eingetretenen Änderung in den Verhältnissen, die für die Anwendung der Vorschriften über Leistungen an Berechtigte im Ausland von Bedeutung sind, neu festzustellen, ist bei der Neufeststellung das am 1. Januar 1992 geltende Recht anzuwenden. Hierbei sind für Berechtigte mindestens die nach § 307 ermittelten persönlichen Entgeltpunkte in dem in § 114 Abs. 1 Satz 2 genannten Verhältnis zugrunde zu legen.
 
 (3) Bestand am 31. Dezember 1991 Anspruch auf eine Rente, bei der der Anspruch oder die Höhe von der Minderung der Erwerbsfähigkeit abhängig war, und wurde hierbei die jeweilige Arbeitsmarktlage berücksichtigt oder hätte sie berücksichtigt werden können, gilt dies auch weiterhin.
 
 (4) Berechtigte erhalten eine Rente wegen Berufsunfähigkeit nur, wenn sie auf diese Rente bereits für die Zeit, in der sie ihren gewöhnlichen Aufenthalt noch im Inland gehabt haben, einen Anspruch hatten.
+
+### § 317a Neufeststellung
+
+(1) Eine nach den Vorschriften dieses Buches berechnete Rente, in der die persönlichen Entgeltpunkte zu 70 vom Hundert berücksichtigt wurden, wird ab dem 1. Oktober 2013 neu festgestellt. Bei der Neufeststellung sind die §§ 113, 114 und 272 in der am 1. Oktober 2013 geltenden Fassung anzuwenden.
+
+(2) Bestand vor dem 31. Dezember 1991 Anspruch auf eine Rente, in der der Rentenbetrag zu 70 vom Hundert berücksichtigt wurde, wird diese auf Antrag ab 1. Oktober 2013 neu festgestellt. Bei der Neufeststellung sind das am 1. Januar 1992 geltende Recht und die §§ 113, 114 und 272 in der am 1. Oktober 2013 geltenden Fassung anzuwenden.
 
 ### § 318 Ermessensleistungen an besondere Personengruppen
 
@@ -10553,8 +10780,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 09   | 30 506               |
 | 10   | 31 144               |
 | 11   | 32 100               |
-| 12   |                      |
+| 12   | 33 002               |
 | 13   |                      |
+| 14   |                      |
 
 -----
 
@@ -10650,7 +10878,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 1.1.2010-31.12.2010 | 66 000                        |                                     |
 | 1.1.2011-31.12.2011 | 66 000                        |                                     |
 | 1.1.2012-31.12.2012 | 67 200                        |                                     |
-| 1.1.2013–31.12.2013 | 69 600                        |                                     |
+| 1.1.2013-31.12.2013 | 69 600                        |                                     |
+| 1.1.2014-31.12.2014 | 71 400                        |                                     |
 
 ### Anlage 2a Jährliche Beitragsbemessungsgrenzen des Beitrittsgebiets in Euro/DM
 
@@ -10790,6 +11019,11 @@ Rentenversicherung</td>
 <td>1.1.2013 - 31.12.2013</td>
 <td>58 800</td>
 <td>72 600</td>
+</tr>
+<tr class="odd">
+<td>1.1.2014 - 31.12.2014</td>
+<td>60 000</td>
+<td>73 800</td>
 </tr>
 </tbody>
 </table>
@@ -12220,8 +12454,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 2009             | 1,1712          |                             |
 | 2010             | 1,1726          |                             |
 | 2011             | 1,1740          |                             |
-| 2012             |                 | 1,1754                      |
+| 2012             | 1,1785          |                             |
 | 2013             |                 | 1,1767                      |
+| 2014             |                 | 1,1873                      |
 
 ### Anlage 11 Verdienst für freiwillige Beiträge im Beitrittsgebiet
 
