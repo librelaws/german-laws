@@ -5,10 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 23.9.2004 I 2414;
 
 Stand  
-Zuletzt geändert durch Art. 1 G v 22.7.2011 I 1509
-
-Hinweis  
-Änderung durch Art. 1 G v. 11.6.2013 I 1548 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 1 G v. 11.6.2013 I 1548
 
 ### 
 
@@ -5029,7 +5026,7 @@ Erster Teil Wertermittlung
 
 (2) Die Gutachterausschüsse bestehen aus einem Vorsitzenden und ehrenamtlichen weiteren Gutachtern.
 
-(3) Der Vorsitzende und die weiteren Gutachter sollen in der Ermittlung von Grundstückswerten oder sonstigen Wertermittlungen sachkundig und erfahren sein und dürfen nicht hauptamtlich mit der Verwaltung der Grundstücke der Gebietskörperschaft, für deren Bereich der Gutachterausschuss gebildet ist, befasst sein. Für die Ermittlung der Bodenrichtwerte ist ein Bediensteter der zuständigen Finanzbehörde mit Erfahrung in der steuerlichen Bewertung von Grundstücken als Gutachter vorzusehen.
+(3) Der Vorsitzende und die weiteren Gutachter sollen in der Ermittlung von Grundstückswerten oder sonstigen Wertermittlungen sachkundig und erfahren sein und dürfen nicht hauptamtlich mit der Verwaltung der Grundstücke der Gebietskörperschaft, für deren Bereich der Gutachterausschuss gebildet ist, befasst sein. Zur Ermittlung der Bodenrichtwerte sowie der in § 193 Absatz 5 Satz 2 genannten sonstigen für die Wertermittlung erforderlichen Daten ist ein Bediensteter der zuständigen Finanzbehörde mit Erfahrung in der steuerlichen Bewertung von Grundstücken als Gutachter hinzuzuziehen.
 
 (4) Die Gutachterausschüsse bedienen sich einer Geschäftsstelle.
 
@@ -5103,7 +5100,9 @@ Der Verkehrswert (Marktwert) wird durch den Preis bestimmt, der in dem Zeitpunkt
 
 (1) Für den Bereich einer oder mehrerer höherer Verwaltungsbehörden sind Obere Gutachterausschüsse oder Zentrale Geschäftsstellen zu bilden, wenn in dem Bereich der höheren Verwaltungsbehörde mehr als zwei Gutachterausschüsse gebildet sind. Auf die Oberen Gutachterausschüsse sind die Vorschriften über die Gutachterausschüsse entsprechend anzuwenden.
 
-(2) Der Obere Gutachterausschuss oder die Zentrale Geschäftsstelle haben insbesondere die Aufgabe, überregionale Auswertungen und Analysen des Grundstücksmarktgeschehens zu erstellen. Der Obere Gutachterausschuss hat auf Antrag eines Gerichts ein Obergutachten zu erstatten, wenn schon das Gutachten eines Gutachterausschusses vorliegt.
+(2) Der Obere Gutachterausschuss oder die Zentrale Geschäftsstelle haben insbesondere die Aufgabe, überregionale Auswertungen und Analysen des Grundstücksmarktgeschehens zu erstellen, auch um zu einer bundesweiten Grundstücksmarkttransparenz beizutragen. Ist nach Absatz 1 kein Oberer Gutachterausschuss oder keine Zentrale Geschäftsstelle zu bilden, gilt Satz 1 für die Gutachterausschüsse entsprechend.
+
+(3) Der Obere Gutachterausschuss hat auf Antrag eines Gerichts ein Obergutachten zu erstatten, wenn schon das Gutachten eines Gutachterausschusses vorliegt.
 
 ### § 199 Ermächtigungen
 
