@@ -5,7 +5,28 @@ Neuf
 Neugefasst durch Bek. v. 7.4.1987 I 1074, 1319
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 21.12.2015 I 2525
+Zuletzt geändert durch Art. 2 Abs. 4 G v. 16.6.2017 I 1634
+
+Hinweis  
+Änderung durch Art. 1 G v. 5.7.2017 I 2208 (Nr. 45) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 2 G v. 5.7.2017 I 2208 (Nr. 45) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 2 G v. 17.7.2017 I 2440 ist berücksichtigt
+
+Hinweis  
+Änderung durch Art. 2 G v. 17.7.2017 I 2442 ist berücksichtigt
+
+Hinweis  
+Änderung durch Art. 11 Abs. 17 G v. 18.7.2017 I 2745 ist berücksichtigt
+
+Hinweis  
+Änderung durch Art. 3 G v. 17.8.2017 I 3202 (Nr. 58) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 1 G v. 27.8.2017 I 3295 ist berücksichtigt
 
 ### 
 
@@ -15,7 +36,9 @@ Zuletzt geändert durch Art. 1 G v. 21.12.2015 I 2525
      teilweise nicht mehr anzuwenden +++)
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
      Umsetzung der
-       EWGRL 439/91    (CELEX Nr: 391L0439) vgl. V v. 24.4.1998 I 747 +++)  
+       EWGRL 439/91    (CELEX Nr: 391L0439) vgl. G v. 24.4.1998 I 747 
+     Umsetzung der
+       EURL 48/2013    (CELEX Nr: 32013L0048) vgl. G v. 27.8.2017 I 3295 +++)  
 (+++ Zur Anwendung d. § 100c vgl. OrgKVerbG Art. 5 +++)
 ```
 
@@ -213,10 +236,10 @@ Mittel, Einsatz Verdeckter Ermittler und Durchsuchung
 | §  99  | Postbeschlagnahme                                                                                                            |
 | § 100  | Verfahren bei der Postbeschlagnahme                                                                                          |
 | § 100a | Telekommunikationsüberwachung                                                                                                |
-| § 100b | Verfahren bei der Telekommunikationsüberwachung                                                                              |
+| § 100b | Online-Durchsuchung                                                                                                          |
 | § 100c | Akustische Wohnraumüberwachung                                                                                               |
-| § 100d | Verfahren bei der akustischen Wohnraumüberwachung                                                                            |
-| § 100e | Berichtspflicht bei der akustischen Wohnraumüberwachung                                                                      |
+| § 100d | Kernbereich privater Lebensgestaltung; Zeugnisverweigerungsberechtigte                                                       |
+| § 100e | Verfahren bei Maßnahmen nach den §§ 100a bis 100c                                                                            |
 | § 100f | Akustische Überwachung außerhalb von Wohnraum                                                                                |
 | § 100g | Erhebung von Verkehrsdaten                                                                                                   |
 | § 100h | Weitere Maßnahmen außerhalb von Wohnraum                                                                                     |
@@ -224,7 +247,7 @@ Mittel, Einsatz Verdeckter Ermittler und Durchsuchung
 | § 100j | Bestandsdatenauskunft                                                                                                        |
 | § 101  | Verfahrensregelungen bei verdeckten Maßnahmen                                                                                |
 | § 101a | Gerichtliche Entscheidung; Datenkennzeichnung und -auswertung; Benachrichtigungspflichten bei der Erhebung von Verkehrsdaten |
-| § 101b | Statistische Erfassung der Erhebung von Verkehrsdaten                                                                        |
+| § 101b | Statistische Erfassung; Berichtspflichten                                                                                    |
 | § 102  | Durchsuchung bei Beschuldigten                                                                                               |
 | § 103  | Durchsuchung bei anderen Personen                                                                                            |
 | § 104  | Durchsuchung von Räumen zur Nachtzeit                                                                                        |
@@ -239,18 +262,22 @@ Mittel, Einsatz Verdeckter Ermittler und Durchsuchung
 | § 110c | Befugnisse des Verdeckten Ermittlers                                                                                         |
 | § 111  | Errichtung von Kontrollstellen an öffentlich zugänglichen Orten                                                              |
 | § 111a | Vorläufige Entziehung der Fahrerlaubnis                                                                                      |
-| § 111b | Sicherstellung dem Verfall oder der Einziehung unterliegender Gegenstände                                                    |
-| § 111c | Sicherstellung durch Beschlagnahme                                                                                           |
-| § 111d | Sicherstellung durch dinglichen Arrest                                                                                       |
-| § 111e | Verfahren bei der Beschlagnahme und dem dinglichen Arrest                                                                    |
-| § 111f | Durchführung der Beschlagnahme und Vollziehung des dinglichen Arrestes                                                       |
-| § 111g | Vorrangige Befriedigung von Ansprüchen des Verletzten bei der Beschlagnahme                                                  |
-| § 111h | Vorrangige Befriedigung von Ansprüchen des Verletzten bei dem dinglichen Arrest                                              |
-| § 111i | Aufrechterhaltung der Beschlagnahme für einen befristeten Zeitraum                                                           |
-| § 111k | Herausgabe beweglicher Sachen an den Verletzten                                                                              |
-| § 111l | Notveräußerung beschlagnahmter oder gepfändeter Vermögenswerte                                                               |
-| § 111m | Beschlagnahme eines Druckwerks oder einer sonstigen Schrift                                                                  |
-| § 111n | Verfahren bei der Beschlagnahme eines Druckwerks                                                                             |
+| § 111b | Beschlagnahme zur Sicherung der Einziehung oder Unbrauchbarmachung                                                           |
+| § 111c | Vollziehung der Beschlagnahme                                                                                                |
+| § 111d | Wirkung der Vollziehung der Beschlagnahme; Rückgabe beweglicher Sachen                                                       |
+| § 111e | Vermögensarrest zur Sicherung der Wertersatzeinziehung                                                                       |
+| § 111f | Vollziehung des Vermögensarrestes                                                                                            |
+| § 111g | Aufhebung der Vollziehung des Vermögensarrestes                                                                              |
+| § 111h | Wirkung der Vollziehung des Vermögensarrestes                                                                                |
+| § 111i | Insolvenzverfahren                                                                                                           |
+| § 111j | Verfahren bei der Anordnung der Beschlagnahme und des Vermögensarrestes                                                      |
+| § 111k | Verfahren bei der Vollziehung der Beschlagnahme und des Vermögensarrestes                                                    |
+| § 111l | Mitteilungen                                                                                                                 |
+| § 111m | Verwaltung beschlagnahmter oder gepfändeter Gegenstände                                                                      |
+| § 111n | Herausgabe beweglicher Sachen                                                                                                |
+| § 111o | Verfahren bei der Herausgabe                                                                                                 |
+| § 111p | Notveräußerung                                                                                                               |
+| § 111q | Beschlagnahme von Schriften und Vorrichtungen                                                                                |
 
 Neunter Abschnitt
 
@@ -841,36 +868,34 @@ Beschleunigtes Verfahren
 | § 418 | Durchführung der Hauptverhandlung   |
 | § 419 | Entscheidung des Gerichts; Strafmaß |
 | § 420 | Beweisaufnahme                      |
-| § 421 | (weggefallen)                       |
-| § 422 | (weggefallen)                       |
-| § 423 | (weggefallen)                       |
-| § 424 | (weggefallen)                       |
-| § 425 | (weggefallen)                       |
-| § 426 | (weggefallen)                       |
-| § 427 | (weggefallen)                       |
-| § 428 | (weggefallen)                       |
-| § 429 | (weggefallen)                       |
 
 Dritter Abschnitt
 
 Verfahren bei Einziehung und Vermögensbeschlagnahme
 
-|       |                                                                                   |
-|-------|-----------------------------------------------------------------------------------|
-| § 430 | Beschränkung auf andere Rechtsfolgen                                              |
-| § 431 | Einziehungsbeteiligung                                                            |
-| § 432 | Anhörung von möglichen Einziehungsbeteiligten im vorbereitenden Verfahren         |
-| § 433 | Stellung des Einziehungsbeteiligten im Hauptverfahren                             |
-| § 434 | Vertretung des Einziehungsbeteiligten                                             |
-| § 435 | Terminsnachricht an Einziehungsbeteiligte                                         |
-| § 436 | Durchführung der Hauptverhandlung                                                 |
-| § 437 | Überprüfungsumfang im Rechtsmittelverfahren                                       |
-| § 438 | Einziehung durch Strafbefehl                                                      |
-| § 439 | Nachverfahren                                                                     |
-| § 440 | Selbständiges Einziehungsverfahren                                                |
-| § 441 | Verfahren bei Einziehung im Nachverfahren oder selbständigen Einziehungsverfahren |
-| § 442 | Der Einziehung gleichstehende Rechtsfolgen; Verfallsbeteiligte                    |
-| § 443 | Vermögensbeschlagnahme                                                            |
+|                |                                                                           |
+|----------------|---------------------------------------------------------------------------|
+| § 421          | Absehen von der Einziehung                                                |
+| § 422          | Abtrennung der Einziehung                                                 |
+| § 423          | Einziehung nach Abtrennung                                                |
+| § 424          | Einziehungsbeteiligte am Strafverfahren                                   |
+| § 425          | Absehen von der Verfahrensbeteiligung                                     |
+| § 426          | Anhörung von möglichen Einziehungsbeteiligten im vorbereitenden Verfahren |
+| § 427          | Befugnisse des Einziehungsbeteiligten im Hauptverfahren                   |
+| § 428          | Vertretung des Einziehungsbeteiligten                                     |
+| § 429          | Terminsnachricht an den Einziehungsbeteiligten                            |
+| § 430          | Stellung in der Hauptverhandlung                                          |
+| § 431          | Rechtsmittelverfahren                                                     |
+| § 432          | Einziehung durch Strafbefehl                                              |
+| § 433          | Nachverfahren                                                             |
+| § 434          | Entscheidung im Nachverfahren                                             |
+| § 435          | Selbständiges Einziehungsverfahren                                        |
+| § 436          | Entscheidung im selbständigen Einziehungsverfahren                        |
+| § 437          | Besondere Regelungen für das selbständige Einziehungsverfahren            |
+| § 438          | Nebenbetroffene am Strafverfahren                                         |
+| § 439          | Der Einziehung gleichstehende Rechtsfolgen                                |
+| § §440 bis 442 | (weggefallen)                                                             |
+| § 443          | Vermögensbeschlagnahme                                                    |
 
 Vierter Abschnitt
 
@@ -916,15 +941,22 @@ Strafvollstreckung
 | § 456c | Aufschub und Aussetzung des Berufsverbotes                                                       |
 | § 457  | Ermittlungshandlungen; Vorführungsbefehl, Vollstreckungshaftbefehl                               |
 | § 458  | Gerichtliche Entscheidungen bei Strafvollstreckung                                               |
-| § 459  | Vollstreckung der Geldstrafe; Anwendung der Justizbeitreibungsordnung                            |
+| § 459  | Vollstreckung der Geldstrafe; Anwendung des Justizbeitreibungsgesetzes                           |
 | § 459a | Bewilligung von Zahlungserleichterungen                                                          |
 | § 459b | Anrechnung von Teilbeträgen                                                                      |
 | § 459c | Beitreibung der Geldstrafe                                                                       |
 | § 459d | Unterbleiben der Vollstreckung einer Geldstrafe                                                  |
 | § 459e | Vollstreckung der Ersatzfreiheitsstrafe                                                          |
 | § 459f | Unterbleiben der Vollstreckung einer Ersatzfreiheitsstrafe                                       |
-| § 459g | Vollstreckung der Nebenfolgen; Anwendung der Justizbeitreibungsordnung                           |
-| § 459h | Einwendungen gegen vollstreckungsbehördliche Entscheidungen; Zuständigkeit                       |
+| § 459g | Vollstreckung von Nebenfolgen                                                                    |
+| § 459h | Entschädigung des Verletzten                                                                     |
+| § 459i | Mitteilungen                                                                                     |
+| § 459j | Verfahren bei Rückübertragung und Herausgabe                                                     |
+| § 459k | Verfahren bei Auskehrung des Verwertungserlöses                                                  |
+| § 459l | Ansprüche des Betroffenen                                                                        |
+| § 459m | Entschädigung in sonstigen Fällen                                                                |
+| § 459n | Zahlungen auf Wertersatzeinziehung                                                               |
+| § 459o | Einwendungen gegen vollstreckungsrechtliche Entscheidungen                                       |
 | § 460  | Nachträgliche Gesamtstrafenbildung                                                               |
 | § 461  | Anrechnung des Aufenthalts in einem Krankenhaus                                                  |
 | § 462  | Verfahren bei gerichtlichen Entscheidungen; sofortige Beschwerde                                 |
@@ -1006,7 +1038,7 @@ Dateiregelungen
 Dritter Abschnitt
 
 Länderübergreifendes
-staatsanwaltliches Verfahrensregister
+staatsanwaltschaftliches Verfahrensregister
 
 |       |                                                                        |
 |-------|------------------------------------------------------------------------|
@@ -1196,7 +1228,7 @@ Nach dem letzten Wort des Angeklagten ist die Ablehnung nicht mehr zulässig.
 
 ### § 26 Ablehnungsverfahren
 
-(1) Das Ablehnungsgesuch ist bei dem Gericht, dem der Richter angehört, anzubringen; es kann vor der Geschäftsstelle zu Protokoll erklärt werden. § 257a findet keine Anwendung.
+(1) Das Ablehnungsgesuch ist bei dem Gericht, dem der Richter angehört, anzubringen; es kann vor der Geschäftsstelle zu Protokoll erklärt werden. Das Gericht kann dem Antragsteller aufgeben, ein in der Hauptverhandlung angebrachtes Ablehnungsgesuch innerhalb einer angemessenen Frist schriftlich zu begründen.
 
 (2) Der Ablehnungsgrund und in den Fällen des § 25 Abs. 2 die Voraussetzungen des rechtzeitigen Vorbringens sind glaubhaft zu machen. Der Eid ist als Mittel der Glaubhaftmachung ausgeschlossen. Zur Glaubhaftmachung kann auf das Zeugnis des abgelehnten Richters Bezug genommen werden.
 
@@ -1210,7 +1242,7 @@ Nach dem letzten Wort des Angeklagten ist die Ablehnung nicht mehr zulässig.
 die Ablehnung verspätet ist,
 
 2.  
-ein Grund zur Ablehnung oder ein Mittel zur Glaubhaftmachung nicht angegeben wird oder
+ein Grund zur Ablehnung oder ein Mittel zur Glaubhaftmachung nicht oder nicht innerhalb der nach § 26 Absatz 1 Satz 2 bestimmten Frist angegeben wird oder
 
 3.  
 durch die Ablehnung offensichtlich das Verfahren nur verschleppt oder nur verfahrensfremde Zwecke verfolgt werden sollen.
@@ -1235,9 +1267,11 @@ durch die Ablehnung offensichtlich das Verfahren nur verschleppt oder nur verfah
 
 ### § 29 Vornahme unaufschiebbarer Amtshandlungen
 
-(1) Ein abgelehnter Richter hat vor Erledigung des Ablehnungsgesuchs nur solche Handlungen vorzunehmen, die keinen Aufschub gestatten.
+(1) Ein abgelehnter Richter hat vor Erledigung des Ablehnungsgesuchs nur solche Handlungen vorzunehmen, die keinen Aufschub gestatten. Wird ein Richter vor Beginn der Hauptverhandlung abgelehnt und würde eine Entscheidung über die Ablehnung den Beginn der Hauptverhandlung verzögern, kann diese vor der Entscheidung über die Ablehnung durchgeführt werden, bis der Staatsanwalt den Anklagesatz verlesen hat.
 
 (2) Wird ein Richter während der Hauptverhandlung abgelehnt und würde die Entscheidung über die Ablehnung (§§ 26a, 27) eine Unterbrechung der Hauptverhandlung erfordern, so kann diese so lange fortgesetzt werden, bis eine Entscheidung über die Ablehnung ohne Verzögerung der Hauptverhandlung möglich ist; über die Ablehnung ist spätestens bis zum Beginn des übernächsten Verhandlungstages und stets vor Beginn der Schlußvorträge zu entscheiden. Wird die Ablehnung für begründet erklärt und muß die Hauptverhandlung nicht deshalb ausgesetzt werden, so ist ihr nach der Anbringung des Ablehnungsgesuchs liegender Teil zu wiederholen; dies gilt nicht für solche Handlungen, die keinen Aufschub gestatten. Nach Anbringung des Ablehnungsgesuchs dürfen Entscheidungen, die auch außerhalb der Hauptverhandlung ergehen können, unter Mitwirkung des Abgelehnten nur getroffen werden, wenn sie keinen Aufschub gestatten.
+
+(3) Hat das Gericht dem Antragsteller gemäß § 26 Absatz 1 Satz 2 aufgegeben, das Ablehnungsgesuch innerhalb einer bestimmten Frist schriftlich zu begründen, gilt Absatz 2 mit der Maßgabe entsprechend, dass über die Ablehnung spätestens bis zum Beginn des übernächsten Verhandlungstages nach Eingang der schriftlichen Begründung und stets vor Beginn der Schlussanträge zu entscheiden ist.
 
 ### § 30 Ablehnung eines Richters bei Selbstanzeige und von Amts wegen
 
@@ -1324,7 +1358,7 @@ Zustellungen an die Staatsanwaltschaft erfolgen durch Vorlegung der Urschrift de
 
 ### § 41a Elektronischer Rechtsverkehr mit Gerichten und Staatsanwaltschaften
 
-(1) An das Gericht oder die Staatsanwaltschaft gerichtete Erklärungen, Anträge oder deren Begründung, die nach diesem Gesetz ausdrücklich schriftlich abzufassen oder zu unterzeichnen sind, können als elektronisches Dokument eingereicht werden, wenn dieses mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz versehen und für die Bearbeitung durch das Gericht oder die Staatsanwaltschaft geeignet ist. In der Rechtsverordnung nach Absatz 2 kann neben der qualifizierten elektronischen Signatur auch ein anderes sicheres Verfahren zugelassen werden, das die Authentizität und die Integrität des übermittelten elektronischen Dokuments sicherstellt. Ein elektronisches Dokument ist eingegangen, sobald die für den Empfang bestimmte Einrichtung des Gerichts oder der Staatsanwaltschaft es aufgezeichnet hat. Ist ein übermitteltes elektronisches Dokument zur Bearbeitung nicht geeignet, ist dies dem Absender unter Angabe der geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen. Von dem elektronischen Dokument ist unverzüglich ein Aktenausdruck zu fertigen.
+(1) An das Gericht oder die Staatsanwaltschaft gerichtete Erklärungen, Anträge oder deren Begründung, die nach diesem Gesetz ausdrücklich schriftlich abzufassen oder zu unterzeichnen sind, können als elektronisches Dokument eingereicht werden, wenn dieses mit einer qualifizierten elektronischen Signatur versehen und für die Bearbeitung durch das Gericht oder die Staatsanwaltschaft geeignet ist. In der Rechtsverordnung nach Absatz 2 kann neben der qualifizierten elektronischen Signatur auch ein anderes sicheres Verfahren zugelassen werden, das die Authentizität und die Integrität des übermittelten elektronischen Dokuments sicherstellt. Ein elektronisches Dokument ist eingegangen, sobald die für den Empfang bestimmte Einrichtung des Gerichts oder der Staatsanwaltschaft es aufgezeichnet hat. Ist ein übermitteltes elektronisches Dokument zur Bearbeitung nicht geeignet, ist dies dem Absender unter Angabe der geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen. Von dem elektronischen Dokument ist unverzüglich ein Aktenausdruck zu fertigen.
 
 (2) Die Bundesregierung und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische Dokumente bei den Gerichten und Staatsanwaltschaften eingereicht werden können, sowie die für die Bearbeitung der Dokumente geeignete Form. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Die Zulassung der elektronischen Form kann auf einzelne Gerichte oder Staatsanwaltschaften oder Verfahren beschränkt werden.
 
@@ -1471,7 +1505,7 @@ Die in Satz 1 Nr. 5 genannten Personen dürfen das Zeugnis verweigern über die 
 eine Straftat des Friedensverrats und der Gefährdung des demokratischen Rechtsstaats oder des Landesverrats und der Gefährdung der äußeren Sicherheit (§§ 80a, 85, 87, 88, 95, auch in Verbindung mit § 97b, §§ 97a, 98 bis 100a des Strafgesetzbuches),
 
 2.  
-eine Straftat gegen die sexuelle Selbstbestimmung nach den §§ 174 bis 176, 179 des Strafgesetzbuches oder
+eine Straftat gegen die sexuelle Selbstbestimmung nach den §§ 174 bis 176, 177 Absatz 2 Nummer 1 des Strafgesetzbuches oder
 
 3.  
 eine Geldwäsche, eine Verschleierung unrechtmäßig erlangter Vermögenswerte nach § 261 Abs. 1 bis 4 des Strafgesetzbuches
@@ -1512,7 +1546,7 @@ Vor der Vernehmung werden die Zeugen zur Wahrheit ermahnt und über die strafrec
 
 (1) Die Zeugen sind einzeln und in Abwesenheit der später zu hörenden Zeugen zu vernehmen.
 
-(2) Eine Gegenüberstellung mit anderen Zeugen oder mit dem Beschuldigten im Vorverfahren ist zulässig, wenn es für das weitere Verfahren geboten erscheint.
+(2) Eine Gegenüberstellung mit anderen Zeugen oder mit dem Beschuldigten im Vorverfahren ist zulässig, wenn es für das weitere Verfahren geboten erscheint. Bei einer Gegenüberstellung mit dem Beschuldigten ist dem Verteidiger die Anwesenheit gestattet. Von dem Termin ist der Verteidiger vorher zu benachrichtigen. Auf die Verlegung eines Termins wegen Verhinderung hat er keinen Anspruch.
 
 ### § 58a Aufzeichnung der Vernehmung in Bild und Ton
 
@@ -1758,7 +1792,7 @@ Ist damit zu rechnen, daß die Unterbringung des Beschuldigten in einem psychiat
 
 (1) Eine körperliche Untersuchung des Beschuldigten darf zur Feststellung von Tatsachen angeordnet werden, die für das Verfahren von Bedeutung sind. Zu diesem Zweck sind Entnahmen von Blutproben und andere körperliche Eingriffe, die von einem Arzt nach den Regeln der ärztlichen Kunst zu Untersuchungszwecken vorgenommen werden, ohne Einwilligung des Beschuldigten zulässig, wenn kein Nachteil für seine Gesundheit zu befürchten ist.
 
-(2) Die Anordnung steht dem Richter, bei Gefährdung des Untersuchungserfolges durch Verzögerung auch der Staatsanwaltschaft und ihren Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) zu.
+(2) Die Anordnung steht dem Richter, bei Gefährdung des Untersuchungserfolges durch Verzögerung auch der Staatsanwaltschaft und ihren Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) zu. Die Entnahme einer Blutprobe bedarf abweichend von Satz 1 keiner richterlichen Anordnung, wenn bestimmte Tatsachen den Verdacht begründen, dass eine Straftat nach § 315a Absatz 1 Nummer 1, Absatz 2 und 3, § 315c Absatz 1 Nummer 1 Buchstabe a, Absatz 2 und 3 oder § 316 des Strafgesetzbuchs begangen worden ist.
 
 (3) Dem Beschuldigten entnommene Blutproben oder sonstige Körperzellen dürfen nur für Zwecke des der Entnahme zugrundeliegenden oder eines anderen anhängigen Strafverfahrens verwendet werden; sie sind unverzüglich zu vernichten, sobald sie hierfür nicht mehr erforderlich sind.
 
@@ -1788,9 +1822,9 @@ Soweit es für die Zwecke der Durchführung des Strafverfahrens oder für die Zw
 
 ### § 81e Molekulargenetische Untersuchung
 
-(1) An dem durch Maßnahmen nach § 81a Abs. 1 erlangten Material dürfen auch molekulargenetische Untersuchungen durchgeführt werden, soweit sie zur Feststellung der Abstammung oder der Tatsache, ob aufgefundenes Spurenmaterial von dem Beschuldigten oder dem Verletzten stammt, erforderlich sind; hierbei darf auch das Geschlecht der Person bestimmt werden. Untersuchungen nach Satz 1 sind auch zulässig für entsprechende Feststellungen an dem durch Maßnahmen nach § 81c erlangten Material. Feststellungen über andere als die in Satz 1 bezeichneten Tatsachen dürfen nicht erfolgen; hierauf gerichtete Untersuchungen sind unzulässig.
+(1) An dem durch Maßnahmen nach § 81a Absatz 1 oder § 81c erlangten Material dürfen mittels molekulargenetischer Untersuchung das DNA-Identifizierungsmuster, die Abstammung und das Geschlecht der Person festgestellt und diese Feststellungen mit Vergleichsmaterial abgeglichen werden, soweit dies zur Erforschung des Sachverhalts erforderlich ist. Andere Feststellungen dürfen nicht erfolgen; hierauf gerichtete Untersuchungen sind unzulässig.
 
-(2) Nach Absatz 1 zulässige Untersuchungen dürfen auch an aufgefundenem, sichergestelltem oder beschlagnahmtem Spurenmaterial durchgeführt werden. Absatz 1 Satz 3 und § 81a Abs. 3 erster Halbsatz gelten entsprechend.
+(2) Nach Absatz 1 zulässige Untersuchungen dürfen auch an aufgefundenem, sichergestelltem oder beschlagnahmtem Material durchgeführt werden. Absatz 1 Satz 2 und § 81a Abs. 3 erster Halbsatz gelten entsprechend. Ist bekannt, von welcher Person das Material stammt, gilt § 81f Absatz 1 entsprechend.
 
 ### § 81f Verfahren bei der molekulargenetischen Untersuchung
 
@@ -1851,18 +1885,24 @@ diese zur Feststellung des DNA-Identifizierungsmusters und des Geschlechts molek
 3.  
 die festgestellten DNA-Identifizierungsmuster mit den DNA-Identifizierungsmustern von Spurenmaterial automatisiert abgeglichen werden,
 
-soweit dies zur Feststellung erforderlich ist, ob das Spurenmaterial von diesen Personen stammt, und die Maßnahme insbesondere im Hinblick auf die Anzahl der von ihr betroffenen Personen nicht außer Verhältnis zur Schwere der Tat steht.
+soweit dies zur Feststellung erforderlich ist, ob das Spurenmaterial von diesen Personen oder von ihren Verwandten in gerader Linie oder in der Seitenlinie bis zum dritten Grad stammt, und die Maßnahme insbesondere im Hinblick auf die Anzahl der von ihr betroffenen Personen nicht außer Verhältnis zur Schwere der Tat steht.
 
 (2) Eine Maßnahme nach Absatz 1 bedarf der gerichtlichen Anordnung. Diese ergeht schriftlich. Sie muss die betroffenen Personen anhand bestimmter Prüfungsmerkmale bezeichnen und ist zu begründen. Einer vorherigen Anhörung der betroffenen Personen bedarf es nicht. Die Entscheidung, mit der die Maßnahme angeordnet wird, ist nicht anfechtbar.
 
-(3) Für die Durchführung der Maßnahme gelten § 81f Abs. 2 und § 81g Abs. 2 entsprechend. Soweit die Aufzeichnungen über die durch die Maßnahme festgestellten DNA-Identifizierungsmuster zur Aufklärung des Verbrechens nicht mehr erforderlich sind, sind sie unverzüglich zu löschen. Die Löschung ist zu dokumentieren.
+(3) Für die Durchführung der Maßnahme gilt § 81f Absatz 2 entsprechend. Die entnommenen Körperzellen sind unverzüglich zu vernichten, sobald sie für die Untersuchung nach Absatz 1 nicht mehr benötigt werden. Soweit die Aufzeichnungen über die durch die Maßnahme festgestellten DNA-Identifizierungsmuster zur Erforschung des Sachverhalts nicht mehr erforderlich sind, sind sie unverzüglich zu löschen. Die Vernichtung und die Löschung sind zu dokumentieren.
 
-(4) Die betroffenen Personen sind schriftlich darüber zu belehren, dass die Maßnahme nur mit ihrer Einwilligung durchgeführt werden darf. Hierbei sind sie auch darauf hinzuweisen, dass
+(4) Die betroffenen Personen sind schriftlich darüber zu belehren, dass die Maßnahme nur mit ihrer Einwilligung durchgeführt werden darf. Vor Erteilung der Einwilligung sind sie schriftlich auch darauf hinzuweisen, dass
 
 1.  
-die entnommenen Körperzellen ausschließlich für die Untersuchung nach Absatz 1 verwendet und unverzüglich vernichtet werden, sobald sie hierfür nicht mehr erforderlich sind, und
+die entnommenen Körperzellen ausschließlich zur Feststellung des DNA-Identifizierungsmusters, der Abstammung und des Geschlechts untersucht werden und dass sie unverzüglich vernichtet werden, sobald sie hierfür nicht mehr erforderlich sind,
 
 2.  
+das Untersuchungsergebnis mit den DNA-Identifizierungsmustern von Spurenmaterial automatisiert daraufhin abgeglichen wird, ob das Spurenmaterial von ihnen oder von ihren Verwandten in gerader Linie oder in der Seitenlinie bis zum dritten Grad stammt,
+
+3.  
+das Ergebnis des Abgleichs zu Lasten der betroffenen Person oder mit ihr in gerader Linie oder in der Seitenlinie bis zum dritten Grad verwandter Personen verwertet werden darf und
+
+4.  
 die festgestellten DNA-Identifizierungsmuster nicht zur Identitätsfeststellung in künftigen Strafverfahren beim Bundeskriminalamt gespeichert werden.
 
 ### § 82 Form der Erstattung eines Gutachtens im Vorverfahren
@@ -1941,6 +1981,8 @@ Achter Abschnitt Beschlagnahme, Überwachung des Fernmeldeverkehrs, Rasterfahndu
 (2) Befinden sich die Gegenstände in dem Gewahrsam einer Person und werden sie nicht freiwillig herausgegeben, so bedarf es der Beschlagnahme.
 
 (3) Die Absätze 1 und 2 gelten auch für Führerscheine, die der Einziehung unterliegen.
+
+(4) Die Herausgabe beweglicher Sachen richtet sich nach den §§ 111n und 111o.
 
 ### § 95 Herausgabepflicht
 
@@ -2060,13 +2102,15 @@ die Tat auch im Einzelfall schwer wiegt und
 3.  
 die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes des Beschuldigten auf andere Weise wesentlich erschwert oder aussichtslos wäre.
 
+Die Überwachung und Aufzeichnung der Telekommunikation darf auch in der Weise erfolgen, dass mit technischen Mitteln in von dem Betroffenen genutzte informationstechnische Systeme eingegriffen wird, wenn dies notwendig ist, um die Überwachung und Aufzeichnung insbesondere in unverschlüsselter Form zu ermöglichen. Auf dem informationstechnischen System des Betroffenen gespeicherte Inhalte und Umstände der Kommunikation dürfen überwacht und aufgezeichnet werden, wenn sie auch während des laufenden Übertragungsvorgangs im öffentlichen Telekommunikationsnetz in verschlüsselter Form hätten überwacht und aufgezeichnet werden können.
+
 (2) Schwere Straftaten im Sinne des Absatzes 1 Nr. 1 sind:
 
 1.  
 aus dem Strafgesetzbuch:
 
 a)  
-Straftaten des Friedensverrats, des Hochverrats und der Gefährdung des demokratischen Rechtsstaates sowie des Landesverrats und der Gefährdung der äußeren Sicherheit nach den §§ 80 bis 82, 84 bis 86, 87 bis 89a, 89c Absatz 1 bis 4, 94 bis 100a,
+Straftaten des Friedensverrats, des Hochverrats und der Gefährdung des demokratischen Rechtsstaates sowie des Landesverrats und der Gefährdung der äußeren Sicherheit nach den §§ 80a bis 82, 84 bis 86, 87 bis 89a, 89c Absatz 1 bis 4, 94 bis 100a,
 
 b)  
 Bestechlichkeit und Bestechung von Mandatsträgern nach § 108e,
@@ -2081,7 +2125,7 @@ e)
 Geld- und Wertzeichenfälschung nach den §§ 146 und 151, jeweils auch in Verbindung mit § 152, sowie nach § 152a Abs. 3 und § 152b Abs. 1 bis 4,
 
 f)  
-Straftaten gegen die sexuelle Selbstbestimmung in den Fällen der §§ 176a, 176b, 177 Abs. 2 Nr. 2 und des § 179 Abs. 5 Nr. 2,
+Straftaten gegen die sexuelle Selbstbestimmung in den Fällen der §§ 176a, 176b und, unter den in § 177 Absatz 6 Satz 2 Nummer 2 genannten Voraussetzungen, des § 177,
 
 g)  
 Verbreitung, Erwerb und Besitz kinder- und jugendpornographischer Schriften nach § 184b Absatz 1 und 2, § 184c Absatz 2,
@@ -2090,7 +2134,7 @@ h)
 Mord und Totschlag nach den §§ 211 und 212,
 
 i)  
-Straftaten gegen die persönliche Freiheit nach den §§ 232 bis 233a, 234, 234a, 239a und 239b,
+Straftaten gegen die persönliche Freiheit nach den §§ 232, 232a Absatz 1 bis 5, den §§ 232b, 233 Absatz 2, den §§ 233a, 234, 234a, 239a und 239b,
 
 j)  
 Bandendiebstahl nach § 244 Abs. 1 Nr. 2 und schwerer Bandendiebstahl nach § 244a,
@@ -2111,18 +2155,21 @@ o)
 Subventionsbetrug unter den in § 264 Abs. 2 Satz 2 genannten Voraussetzungen und im Falle des § 264 Abs. 3 in Verbindung mit § 263 Abs. 5,
 
 p)  
-Straftaten der Urkundenfälschung unter den in § 267 Abs. 3 Satz 2 genannten Voraussetzungen und im Fall des § 267 Abs. 4, jeweils auch in Verbindung mit § 268 Abs. 5 oder § 269 Abs. 3, sowie nach § 275 Abs. 2 und § 276 Abs. 2,
+Sportwettbetrug und Manipulation von berufssportlichen Wettbewerben unter den in § 265e Satz 2 genannten Voraussetzungen,
 
 q)  
-Bankrott unter den in § 283a Satz 2 genannten Voraussetzungen,
+Straftaten der Urkundenfälschung unter den in § 267 Abs. 3 Satz 2 genannten Voraussetzungen und im Fall des § 267 Abs. 4, jeweils auch in Verbindung mit § 268 Abs. 5 oder § 269 Abs. 3, sowie nach § 275 Abs. 2 und § 276 Abs. 2,
 
 r)  
-Straftaten gegen den Wettbewerb nach § 298 und, unter den in § 300 Satz 2 genannten Voraussetzungen, nach § 299,
+Bankrott unter den in § 283a Satz 2 genannten Voraussetzungen,
 
 s)  
-gemeingefährliche Straftaten in den Fällen der §§ 306 bis 306c, 307 Abs. 1 bis 3, des § 308 Abs. 1 bis 3, des § 309 Abs. 1 bis 4, des § 310 Abs. 1, der §§ 313, 314, 315 Abs. 3, des § 315b Abs. 3 sowie der §§ 316a und 316c,
+Straftaten gegen den Wettbewerb nach § 298 und, unter den in § 300 Satz 2 genannten Voraussetzungen, nach § 299,
 
 t)  
+gemeingefährliche Straftaten in den Fällen der §§ 306 bis 306c, 307 Abs. 1 bis 3, des § 308 Abs. 1 bis 3, des § 309 Abs. 1 bis 4, des § 310 Abs. 1, der §§ 313, 314, 315 Abs. 3, des § 315b Abs. 3 sowie der §§ 316a und 316c,
+
+u)  
 Bestechlichkeit und Bestechung nach den §§ 332 und 334,
 
 2.  
@@ -2185,6 +2232,10 @@ Straftaten nach § 19 Abs. 1 bis 3 und § 20 Abs. 1 und 2 sowie § 20a Abs. 1 bi
 b)  
 Straftaten nach § 22a Abs. 1 bis 3,
 
+9a.  
+aus dem Neue-psychoaktive-Stoffe-Gesetz:
+Straftaten nach § 4 Absatz 3 Nummer 1 Buchstabe a,
+
 10.  
 aus dem Völkerstrafgesetzbuch:
 
@@ -2196,6 +2247,9 @@ Verbrechen gegen die Menschlichkeit nach § 7,
 
 c)  
 Kriegsverbrechen nach den §§ 8 bis 12,
+
+d)  
+Verbrechen der Aggression nach § 13,
 
 11.  
 aus dem Waffengesetz:
@@ -2206,85 +2260,72 @@ Straftaten nach § 51 Abs. 1 bis 3,
 b)  
 Straftaten nach § 52 Abs. 1 Nr. 1 und 2 Buchstabe c und d sowie Abs. 5 und 6.
 
-(3) Die Anordnung darf sich nur gegen den Beschuldigten oder gegen Personen richten, von denen auf Grund bestimmter Tatsachen anzunehmen ist, dass sie für den Beschuldigten bestimmte oder von ihm herrührende Mitteilungen entgegennehmen oder weitergeben oder dass der Beschuldigte ihren Anschluss benutzt.
+(3) Die Anordnung darf sich nur gegen den Beschuldigten oder gegen Personen richten, von denen auf Grund bestimmter Tatsachen anzunehmen ist, dass sie für den Beschuldigten bestimmte oder von ihm herrührende Mitteilungen entgegennehmen oder weitergeben oder dass der Beschuldigte ihren Anschluss oder ihr informationstechnisches System benutzt.
 
-(4) Liegen tatsächliche Anhaltspunkte für die Annahme vor, dass durch eine Maßnahme nach Absatz 1 allein Erkenntnisse aus dem Kernbereich privater Lebensgestaltung erlangt würden, ist die Maßnahme unzulässig. Erkenntnisse aus dem Kernbereich privater Lebensgestaltung, die durch eine Maßnahme nach Absatz 1 erlangt wurden, dürfen nicht verwertet werden. Aufzeichnungen hierüber sind unverzüglich zu löschen. Die Tatsache ihrer Erlangung und Löschung ist aktenkundig zu machen.
+(4) Auf Grund der Anordnung einer Überwachung und Aufzeichnung der Telekommunikation hat jeder, der Telekommunikationsdienste erbringt oder daran mitwirkt, dem Gericht, der Staatsanwaltschaft und ihren im Polizeidienst tätigen Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) diese Maßnahmen zu ermöglichen und die erforderlichen Auskünfte unverzüglich zu erteilen. Ob und in welchem Umfang hierfür Vorkehrungen zu treffen sind, bestimmt sich nach dem Telekommunikationsgesetz und der Telekommunikations-Überwachungsverordnung. § 95 Absatz 2 gilt entsprechend.
 
-### § 100b Verfahren bei der Telekommunikationsüberwachung
-
-(1) Maßnahmen nach § 100a dürfen nur auf Antrag der Staatsanwaltschaft durch das Gericht angeordnet werden. Bei Gefahr im Verzug kann die Anordnung auch durch die Staatsanwaltschaft getroffen werden. Soweit die Anordnung der Staatsanwaltschaft nicht binnen drei Werktagen von dem Gericht bestätigt wird, tritt sie außer Kraft. Die Anordnung ist auf höchstens drei Monate zu befristen. Eine Verlängerung um jeweils nicht mehr als drei Monate ist zulässig, soweit die Voraussetzungen der Anordnung unter Berücksichtigung der gewonnenen Ermittlungsergebnisse fortbestehen.
-
-(2) Die Anordnung ergeht schriftlich. In ihrer Entscheidungsformel sind anzugeben:
+(5) Bei Maßnahmen nach Absatz 1 Satz 2 und 3 ist technisch sicherzustellen, dass
 
 1.  
-soweit möglich, der Name und die Anschrift des Betroffenen, gegen den sich die Maßnahme richtet,
-
-2.  
-die Rufnummer oder eine andere Kennung des zu überwachenden Anschlusses oder des Endgerätes, sofern sich nicht aus bestimmten Tatsachen ergibt, dass diese zugleich einem anderen Endgerät zugeordnet ist,
-
-3.  
-Art, Umfang und Dauer der Maßnahme unter Benennung des Endzeitpunktes.
-
-(3) Auf Grund der Anordnung hat jeder, der Telekommunikationsdienste erbringt oder daran mitwirkt, dem Gericht, der Staatsanwaltschaft und ihren im Polizeidienst tätigen Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) die Maßnahmen nach § 100a zu ermöglichen und die erforderlichen Auskünfte unverzüglich zu erteilen. Ob und in welchem Umfang hierfür Vorkehrungen zu treffen sind, bestimmt sich nach dem Telekommunikationsgesetz und der Telekommunikations-Überwachungsverordnung. § 95 Abs. 2 gilt entsprechend.
-
-(4) Liegen die Voraussetzungen der Anordnung nicht mehr vor, so sind die auf Grund der Anordnung ergriffenen Maßnahmen unverzüglich zu beenden. Nach Beendigung der Maßnahme ist das anordnende Gericht über deren Ergebnisse zu unterrichten.
-
-(5) Die Länder und der Generalbundesanwalt berichten dem Bundesamt für Justiz kalenderjährlich jeweils bis zum 30. Juni des dem Berichtsjahr folgenden Jahres über in ihrem Zuständigkeitsbereich angeordnete Maßnahmen nach § 100a. Das Bundesamt für Justiz erstellt eine Übersicht zu den im Berichtsjahr bundesweit angeordneten Maßnahmen und veröffentlicht diese im Internet. 1)
-
-(6) In den Berichten nach Absatz 5 sind anzugeben:
-
-1.  
-die Anzahl der Verfahren, in denen Maßnahmen nach § 100a Abs. 1 angeordnet worden sind;
-
-2.  
-die Anzahl der Überwachungsanordnungen nach § 100a Abs. 1, unterschieden nach
+ausschließlich überwacht und aufgezeichnet werden können:
 
 a)  
-Erst- und Verlängerungsanordnungen sowie
+die laufende Telekommunikation (Absatz 1 Satz 2), oder
 
 b)  
-Festnetz-, Mobilfunk- und Internettelekommunikation;
+Inhalte und Umstände der Kommunikation, die ab dem Zeitpunkt der Anordnung nach § 100e Absatz 1 auch während des laufenden Übertragungsvorgangs im öffentlichen Telekommunikationsnetz hätten überwacht und aufgezeichnet werden können (Absatz 1 Satz 3),
+
+2.  
+an dem informationstechnischen System nur Veränderungen vorgenommen werden, die für die Datenerhebung unerlässlich sind, und
 
 3.  
-die jeweils zugrunde liegende Anlassstraftat nach Maßgabe der Unterteilung in § 100a Abs. 2.
+die vorgenommenen Veränderungen bei Beendigung der Maßnahme, soweit technisch möglich, automatisiert rückgängig gemacht werden.
 
------
-1) Amtlicher Hinweis: Die Internetadresse des Bundesamtes für Justiz lautet: www.bundesjustizamt.de
+Das eingesetzte Mittel ist nach dem Stand der Technik gegen unbefugte Nutzung zu schützen. Kopierte Daten sind nach dem Stand der Technik gegen Veränderung, unbefugte Löschung und unbefugte Kenntnisnahme zu schützen.
 
-(+++ § 100b Abs. 5 u. 6: Zur Anwendung vgl. § 12 Abs. 1 StPOEG +++)
+(6) Bei jedem Einsatz des technischen Mittels sind zu protokollieren
 
-### § 100c Akustische Wohnraumüberwachung
+1.  
+die Bezeichnung des technischen Mittels und der Zeitpunkt seines Einsatzes,
 
-(1) Auch ohne Wissen der Betroffenen darf das in einer Wohnung nichtöffentlich gesprochene Wort mit technischen Mitteln abgehört und aufgezeichnet werden, wenn
+2.  
+die Angaben zur Identifizierung des informationstechnischen Systems und die daran vorgenommenen nicht nur flüchtigen Veränderungen,
+
+3.  
+die Angaben, die die Feststellung der erhobenen Daten ermöglichen, und
+
+4.  
+die Organisationseinheit, die die Maßnahme durchführt.
+
+### § 100b Online-Durchsuchung
+
+(1) Auch ohne Wissen des Betroffenen darf mit technischen Mitteln in ein von dem Betroffenen genutztes informationstechnisches System eingegriffen und dürfen Daten daraus erhoben werden (Online-Durchsuchung), wenn
 
 1.  
 bestimmte Tatsachen den Verdacht begründen, dass jemand als Täter oder Teilnehmer eine in Absatz 2 bezeichnete besonders schwere Straftat begangen oder in Fällen, in denen der Versuch strafbar ist, zu begehen versucht hat,
 
 2.  
-die Tat auch im Einzelfall besonders schwer wiegt,
+die Tat auch im Einzelfall besonders schwer wiegt und
 
 3.  
-auf Grund tatsächlicher Anhaltspunkte anzunehmen ist, dass durch die Überwachung Äußerungen des Beschuldigten erfasst werden, die für die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes eines Mitbeschuldigten von Bedeutung sind, und
+die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes des Beschuldigten auf andere Weise wesentlich erschwert oder aussichtslos wäre.
 
-4.  
-die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes eines Mitbeschuldigten auf andere Weise unverhältnismäßig erschwert oder aussichtslos wäre.
-
-(2) Besonders schwere Straftaten im Sinne des Absatzes 1 Nr. 1 sind:
+(2) Besonders schwere Straftaten im Sinne des Absatzes 1 Nummer 1 sind:
 
 1.  
 aus dem Strafgesetzbuch:
 
 a)  
-Straftaten des Friedensverrats, des Hochverrats und der Gefährdung des demokratischen Rechtsstaates sowie des Landesverrats und der Gefährdung der äußeren Sicherheit nach den §§ 80, 81, 82, 89a, 89c Absatz 1 bis 4, nach den §§ 94, 95 Abs. 3 und § 96 Abs. 1, jeweils auch in Verbindung mit § 97b, sowie nach den §§ 97a, 98 Abs. 1 Satz 2, § 99 Abs. 2 und den §§ 100, 100a Abs. 4,
+Straftaten des Hochverrats und der Gefährdung des demokratischen Rechtsstaates sowie des Landesverrats und der Gefährdung der äußeren Sicherheit nach den §§ 81, 82, 89a, 89c Absatz 1 bis 4, nach den §§ 94, 95 Absatz 3 und § 96 Absatz 1, jeweils auch in Verbindung mit § 97b, sowie nach den §§ 97a, 98 Absatz 1 Satz 2, § 99 Absatz 2 und den §§ 100, 100a Absatz 4,
 
 b)  
-Bildung krimineller Vereinigungen nach § 129 Abs. 1 in Verbindung mit Abs. 4 Halbsatz 2 und Bildung terroristischer Vereinigungen nach § 129a Abs. 1, 2, 4, 5 Satz 1 Alternative 1, jeweils auch in Verbindung mit § 129b Abs. 1,
+Bildung krimineller Vereinigungen nach § 129 Absatz 1 in Verbindung mit Absatz 5 Satz 3 und Bildung terroristischer Vereinigungen nach § 129a Absatz 1, 2, 4, 5 Satz 1 erste Alternative, jeweils auch in Verbindung mit § 129b Absatz 1,
 
 c)  
-Geld- und Wertzeichenfälschung nach den §§ 146 und 151, jeweils auch in Verbindung mit § 152, sowie nach § 152a Abs. 3 und § 152b Abs. 1 bis 4,
+Geld- und Wertzeichenfälschung nach den §§ 146 und 151, jeweils auch in Verbindung mit § 152, sowie nach § 152a Absatz 3 und § 152b Absatz 1 bis 4,
 
 d)  
-Straftaten gegen die sexuelle Selbstbestimmung in den Fällen des § 176a Abs. 2 Nr. 2 oder Abs. 3, § 177 Abs. 2 Nr. 2 oder § 179 Abs. 5 Nr. 2,
+Straftaten gegen die sexuelle Selbstbestimmung in den Fällen des § 176a Absatz 2 Nummer 2 oder Absatz 3 und, unter den in § 177 Absatz 6 Satz 2 Nummer 2 genannten Voraussetzungen, des § 177,
 
 e)  
 Verbreitung, Erwerb und Besitz kinderpornografischer Schriften in den Fällen des § 184b Absatz 2,
@@ -2293,40 +2334,40 @@ f)
 Mord und Totschlag nach den §§ 211, 212,
 
 g)  
-Straftaten gegen die persönliche Freiheit in den Fällen der §§ 234, 234a Abs. 1, 2, §§ 239a, 239b und Menschenhandel zum Zweck der sexuellen Ausbeutung und zum Zweck der Ausbeutung der Arbeitskraft nach § 232 Abs. 3, Abs. 4 oder Abs. 5, § 233 Abs. 3, jeweils soweit es sich um Verbrechen handelt,
+Straftaten gegen die persönliche Freiheit in den Fällen der §§ 234, 234a Absatz 1, 2, der §§ 239a, 239b und Menschenhandel nach § 232 Absatz 3, Zwangsprostitution und Zwangsarbeit nach § 232a Absatz 3, 4 oder 5 zweiter Halbsatz, § 232b Absatz 3 oder 4 in Verbindung mit § 232a Absatz 4 oder 5 zweiter Halbsatz und Ausbeutung unter Ausnutzung einer Freiheitsberaubung nach § 233a Absatz 3 oder 4 zweiter Halbsatz,
 
 h)  
-Bandendiebstahl nach § 244 Abs. 1 Nr. 2 und schwerer Bandendiebstahl nach § 244a,
+Bandendiebstahl nach § 244 Absatz 1 Nummer 2 und schwerer Bandendiebstahl nach § 244a,
 
 i)  
-schwerer Raub und Raub mit Todesfolge nach § 250 Abs. 1 oder Abs. 2, § 251,
+schwerer Raub und Raub mit Todesfolge nach § 250 Absatz 1 oder Absatz 2, § 251,
 
 j)  
-räuberische Erpressung nach § 255 und besonders schwerer Fall einer Erpressung nach § 253 unter den in § 253 Abs. 4 Satz 2 genannten Voraussetzungen,
+räuberische Erpressung nach § 255 und besonders schwerer Fall einer Erpressung nach § 253 unter den in § 253 Absatz 4 Satz 2 genannten Voraussetzungen,
 
 k)  
 gewerbsmäßige Hehlerei, Bandenhehlerei und gewerbsmäßige Bandenhehlerei nach den §§ 260, 260a,
 
 l)  
-besonders schwerer Fall der Geldwäsche, Verschleierung unrechtmäßig erlangter Vermögenswerte nach § 261 unter den in § 261 Abs. 4 Satz 2 genannten Voraussetzungen, beruht die Strafbarkeit darauf, dass die Straflosigkeit nach § 261 Absatz 9 Satz 2 gemäß § 261 Absatz 9 Satz 3 ausgeschlossen ist, jedoch nur dann, wenn der Gegenstand aus einer der in den Nummern 1 bis 7 genannten besonders schweren Straftaten herrührt,
+besonders schwerer Fall der Geldwäsche, Verschleierung unrechtmäßig erlangter Vermögenswerte nach § 261 unter den in § 261 Absatz 4 Satz 2 genannten Voraussetzungen; beruht die Strafbarkeit darauf, dass die Straflosigkeit nach § 261 Absatz 9 Satz 2 gemäß § 261 Absatz 9 Satz 3 ausgeschlossen ist, jedoch nur dann, wenn der Gegenstand aus einer der in den Nummern 1 bis 7 genannten besonders schweren Straftaten herrührt,
 
 m)  
-besonders schwerer Fall der Bestechlichkeit und Bestechung nach § 335 Abs. 1 unter den in § 335 Abs. 2 Nr. 1 bis 3 genannten Voraussetzungen,
+besonders schwerer Fall der Bestechlichkeit und Bestechung nach § 335 Absatz 1 unter den in § 335 Absatz 2 Nummer 1 bis 3 genannten Voraussetzungen,
 
 2.  
 aus dem Asylgesetz:
 
 a)  
-Verleitung zur missbräuchlichen Asylantragstellung nach § 84 Abs. 3,
+Verleitung zur missbräuchlichen Asylantragstellung nach § 84 Absatz 3,
 
 b)  
-gewerbs- und bandenmäßige Verleitung zur missbräuchlichen Asylantragstellung nach § 84a Abs. 1,
+gewerbs- und bandenmäßige Verleitung zur missbräuchlichen Asylantragstellung nach § 84a Absatz 1,
 
 3.  
 aus dem Aufenthaltsgesetz:
 
 a)  
-Einschleusen von Ausländern nach § 96 Abs. 2,
+Einschleusen von Ausländern nach § 96 Absatz 2,
 
 b)  
 Einschleusen mit Todesfolge oder gewerbs- und bandenmäßiges Einschleusen nach § 97,
@@ -2335,19 +2376,19 @@ Einschleusen mit Todesfolge oder gewerbs- und bandenmäßiges Einschleusen nach 
 aus dem Betäubungsmittelgesetz:
 
 a)  
-besonders schwerer Fall einer Straftat nach § 29 Abs. 1 Satz 1 Nr. 1, 5, 6, 10, 11 oder 13, Abs. 3 unter der in § 29 Abs. 3 Satz 2 Nr. 1 genannten Voraussetzung,
+besonders schwerer Fall einer Straftat nach § 29 Absatz 1 Satz 1 Nummer 1, 5, 6, 10, 11 oder 13, Absatz 3 unter der in § 29 Absatz 3 Satz 2 Nummer 1 genannten Voraussetzung,
 
 b)  
-eine Straftat nach den §§ 29a, 30 Abs. 1 Nr. 1, 2, 4, § 30a,
+eine Straftat nach den §§ 29a, 30 Absatz 1 Nummer 1, 2, 4, § 30a,
 
 5.  
 aus dem Gesetz über die Kontrolle von Kriegswaffen:
 
 a)  
-eine Straftat nach § 19 Abs. 2 oder § 20 Abs. 1, jeweils auch in Verbindung mit § 21,
+eine Straftat nach § 19 Absatz 2 oder § 20 Absatz 1, jeweils auch in Verbindung mit § 21,
 
 b)  
-besonders schwerer Fall einer Straftat nach § 22a Abs. 1 in Verbindung mit Abs. 2,
+besonders schwerer Fall einer Straftat nach § 22a Absatz 1 in Verbindung mit Absatz 2,
 
 6.  
 aus dem Völkerstrafgesetzbuch:
@@ -2361,55 +2402,100 @@ Verbrechen gegen die Menschlichkeit nach § 7,
 c)  
 Kriegsverbrechen nach den §§ 8 bis 12,
 
+d)  
+Verbrechen der Aggression nach § 13,
+
 7.  
 aus dem Waffengesetz:
 
 a)  
-besonders schwerer Fall einer Straftat nach § 51 Abs. 1 in Verbindung mit Abs. 2,
+besonders schwerer Fall einer Straftat nach § 51 Absatz 1 in Verbindung mit Absatz 2,
 
 b)  
-besonders schwerer Fall einer Straftat nach § 52 Abs. 1 Nr. 1 in Verbindung mit Abs. 5.
+besonders schwerer Fall einer Straftat nach § 52 Absatz 1 Nummer 1 in Verbindung mit Absatz 5.
 
-(3) Die Maßnahme darf sich nur gegen den Beschuldigten richten und nur in Wohnungen des Beschuldigten durchgeführt werden. In Wohnungen anderer Personen ist die Maßnahme nur zulässig, wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass
+(3) Die Maßnahme darf sich nur gegen den Beschuldigten richten. Ein Eingriff in informationstechnische Systeme anderer Personen ist nur zulässig, wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass
 
 1.  
-der in der Anordnung nach § 100d Abs. 2 bezeichnete Beschuldigte sich dort aufhält und
+der in der Anordnung nach § 100e Absatz 3 bezeichnete Beschuldigte informationstechnische Systeme der anderen Person benutzt, und
+
+2.  
+die Durchführung des Eingriffs in informationstechnische Systeme des Beschuldigten allein nicht zur Erforschung des Sachverhalts oder zur Ermittlung des Aufenthaltsortes eines Mitbeschuldigten führen wird.
+
+Die Maßnahme darf auch durchgeführt werden, wenn andere Personen unvermeidbar betroffen werden.
+
+(4) § 100a Absatz 5 und 6 gilt mit Ausnahme von Absatz 5 Satz 1 Nummer 1 entsprechend.
+
+(+++ § 100b Abs. 5 u. 6: Zur Anwendung vgl. § 12 Abs. 1 StPOEG +++)
+
+### § 100c Akustische Wohnraumüberwachung
+
+(1) Auch ohne Wissen der Betroffenen darf das in einer Wohnung nichtöffentlich gesprochene Wort mit technischen Mitteln abgehört und aufgezeichnet werden, wenn
+
+1.  
+bestimmte Tatsachen den Verdacht begründen, dass jemand als Täter oder Teilnehmer eine in § 100b Absatz 2 bezeichnete besonders schwere Straftat begangen oder in Fällen, in denen der Versuch strafbar ist, zu begehen versucht hat,
+
+2.  
+die Tat auch im Einzelfall besonders schwer wiegt,
+
+3.  
+auf Grund tatsächlicher Anhaltspunkte anzunehmen ist, dass durch die Überwachung Äußerungen des Beschuldigten erfasst werden, die für die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes eines Mitbeschuldigten von Bedeutung sind, und
+
+4.  
+die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes eines Mitbeschuldigten auf andere Weise unverhältnismäßig erschwert oder aussichtslos wäre.
+
+(2) Die Maßnahme darf sich nur gegen den Beschuldigten richten und nur in Wohnungen des Beschuldigten durchgeführt werden. In Wohnungen anderer Personen ist die Maßnahme nur zulässig, wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass
+
+1.  
+der in der Anordnung nach § 100e Absatz 3 bezeichnete Beschuldigte sich dort aufhält und
 
 2.  
 die Maßnahme in Wohnungen des Beschuldigten allein nicht zur Erforschung des Sachverhalts oder zur Ermittlung des Aufenthaltsortes eines Mitbeschuldigten führen wird.
 
 Die Maßnahme darf auch durchgeführt werden, wenn andere Personen unvermeidbar betroffen werden.
 
-(4) Die Maßnahme darf nur angeordnet werden, soweit auf Grund tatsächlicher Anhaltspunkte, insbesondere zu der Art der zu überwachenden Räumlichkeiten und dem Verhältnis der zu überwachenden Personen zueinander, anzunehmen ist, dass durch die Überwachung Äußerungen, die dem Kernbereich privater Lebensgestaltung zuzurechnen sind, nicht erfasst werden. Gespräche in Betriebs- oder Geschäftsräumen sind in der Regel nicht dem Kernbereich privater Lebensgestaltung zuzurechnen. Das Gleiche gilt für Gespräche über begangene Straftaten und Äußerungen, mittels derer Straftaten begangen werden.
+### § 100d Kernbereich privater Lebensgestaltung; Zeugnisverweigerungsberechtigte
 
-(5) Das Abhören und Aufzeichnen ist unverzüglich zu unterbrechen, soweit sich während der Überwachung Anhaltspunkte dafür ergeben, dass Äußerungen, die dem Kernbereich privater Lebensgestaltung zuzurechnen sind, erfasst werden. Aufzeichnungen über solche Äußerungen sind unverzüglich zu löschen. Erkenntnisse über solche Äußerungen dürfen nicht verwertet werden. Die Tatsache der Erfassung der Daten und ihrer Löschung ist zu dokumentieren. Ist eine Maßnahme nach Satz 1 unterbrochen worden, so darf sie unter den in Absatz 4 genannten Voraussetzungen fortgeführt werden. Im Zweifel ist über die Unterbrechung oder Fortführung der Maßnahme unverzüglich eine Entscheidung des Gerichts herbeizuführen; § 100d Abs. 4 gilt entsprechend.
+(1) Liegen tatsächliche Anhaltspunkte für die Annahme vor, dass durch eine Maßnahme nach den §§ 100a bis 100c allein Erkenntnisse aus dem Kernbereich privater Lebensgestaltung erlangt werden, ist die Maßnahme unzulässig.
 
-(6) In den Fällen des § 53 ist eine Maßnahme nach Absatz 1 unzulässig; ergibt sich während oder nach Durchführung der Maßnahme, dass ein Fall des § 53 vorliegt, gilt Absatz 5 Satz 2 bis 4 entsprechend. In den Fällen der §§ 52 und 53a dürfen aus einer Maßnahme nach Absatz 1 gewonnene Erkenntnisse nur verwertet werden, wenn dies unter Berücksichtigung der Bedeutung des zugrunde liegenden Vertrauensverhältnisses nicht außer Verhältnis zum Interesse an der Erforschung des Sachverhalts oder der Ermittlung des Aufenthaltsortes eines Beschuldigten steht. § 160a Abs. 4 gilt entsprechend.
+(2) Erkenntnisse aus dem Kernbereich privater Lebensgestaltung, die durch eine Maßnahme nach den §§ 100a bis 100c erlangt wurden, dürfen nicht verwertet werden. Aufzeichnungen über solche Erkenntnisse sind unverzüglich zu löschen. Die Tatsache ihrer Erlangung und Löschung ist zu dokumentieren.
 
-(7) Soweit ein Verwertungsverbot nach Absatz 5 in Betracht kommt, hat die Staatsanwaltschaft unverzüglich eine Entscheidung des anordnenden Gerichts über die Verwertbarkeit der erlangten Erkenntnisse herbeizuführen. Soweit das Gericht eine Verwertbarkeit verneint, ist dies für das weitere Verfahren bindend.
+(3) Bei Maßnahmen nach § 100b ist, soweit möglich, technisch sicherzustellen, dass Daten, die den Kernbereich privater Lebensgestaltung betreffen, nicht erhoben werden. Erkenntnisse, die durch Maßnahmen nach § 100b erlangt wurden und den Kernbereich privater Lebensgestaltung betreffen, sind unverzüglich zu löschen oder von der Staatsanwaltschaft dem anordnenden Gericht zur Entscheidung über die Verwertbarkeit und Löschung der Daten vorzulegen. Die Entscheidung des Gerichts über die Verwertbarkeit ist für das weitere Verfahren bindend.
 
-### § 100d Verfahren bei der akustischen Wohnraumüberwachung
+(4) Maßnahmen nach § 100c dürfen nur angeordnet werden, soweit auf Grund tatsächlicher Anhaltspunkte anzunehmen ist, dass durch die Überwachung Äußerungen, die dem Kernbereich privater Lebensgestaltung zuzurechnen sind, nicht erfasst werden. Das Abhören und Aufzeichnen ist unverzüglich zu unterbrechen, wenn sich während der Überwachung Anhaltspunkte dafür ergeben, dass Äußerungen, die dem Kernbereich privater Lebensgestaltung zuzurechnen sind, erfasst werden. Ist eine Maßnahme unterbrochen worden, so darf sie unter den in Satz 1 genannten Voraussetzungen fortgeführt werden. Im Zweifel hat die Staatsanwaltschaft über die Unterbrechung oder Fortführung der Maßnahme unverzüglich eine Entscheidung des Gerichts herbeizuführen; § 100e Absatz 5 gilt entsprechend. Auch soweit für bereits erlangte Erkenntnisse ein Verwertungsverbot nach Absatz 2 in Betracht kommt, hat die Staatsanwaltschaft unverzüglich eine Entscheidung des Gerichts herbeizuführen. Absatz 3 Satz 4 gilt entsprechend.
 
-(1) Maßnahmen nach § 100c dürfen nur auf Antrag der Staatsanwaltschaft durch die in § 74a Abs. 4 des Gerichtsverfassungsgesetzes genannte Kammer des Landgerichts angeordnet werden, in dessen Bezirk die Staatsanwaltschaft ihren Sitz hat. Bei Gefahr im Verzug kann diese Anordnung auch durch den Vorsitzenden getroffen werden. Dessen Anordnung tritt außer Kraft, wenn sie nicht binnen drei Werktagen von der Strafkammer bestätigt wird. Die Anordnung ist auf höchstens einen Monat zu befristen. Eine Verlängerung um jeweils nicht mehr als einen Monat ist zulässig, soweit die Voraussetzungen unter Berücksichtigung der gewonnenen Ermittlungsergebnisse fortbestehen. Ist die Dauer der Anordnung auf insgesamt sechs Monate verlängert worden, so entscheidet über weitere Verlängerungen das Oberlandesgericht.
+(5) In den Fällen des § 53 sind Maßnahmen nach den §§ 100b und 100c unzulässig; ergibt sich während oder nach Durchführung der Maßnahme, dass ein Fall des § 53 vorliegt, gilt Absatz 2 entsprechend. In den Fällen der §§ 52 und 53a dürfen aus Maßnahmen nach den §§ 100b und 100c gewonnene Erkenntnisse nur verwertet werden, wenn dies unter Berücksichtigung der Bedeutung des zugrunde liegenden Vertrauensverhältnisses nicht außer Verhältnis zum Interesse an der Erforschung des Sachverhalts oder der Ermittlung des Aufenthaltsortes eines Beschuldigten steht. § 160a Absatz 4 gilt entsprechend.
 
-(2) Die Anordnung ergeht schriftlich. In der Anordnung sind anzugeben:
+### § 100e Verfahren bei Maßnahmen nach den §§ 100a bis 100c
+
+(1) Maßnahmen nach § 100a dürfen nur auf Antrag der Staatsanwaltschaft durch das Gericht angeordnet werden. Bei Gefahr im Verzug kann die Anordnung auch durch die Staatsanwaltschaft getroffen werden. Soweit die Anordnung der Staatsanwaltschaft nicht binnen drei Werktagen von dem Gericht bestätigt wird, tritt sie außer Kraft. Die Anordnung ist auf höchstens drei Monate zu befristen. Eine Verlängerung um jeweils nicht mehr als drei Monate ist zulässig, soweit die Voraussetzungen der Anordnung unter Berücksichtigung der gewonnenen Ermittlungsergebnisse fortbestehen.
+
+(2) Maßnahmen nach den §§ 100b und 100c dürfen nur auf Antrag der Staatsanwaltschaft durch die in § 74a Absatz 4 des Gerichtsverfassungsgesetzes genannte Kammer des Landgerichts angeordnet werden, in dessen Bezirk die Staatsanwaltschaft ihren Sitz hat. Bei Gefahr im Verzug kann diese Anordnung auch durch den Vorsitzenden getroffen werden. Dessen Anordnung tritt außer Kraft, wenn sie nicht binnen drei Werktagen von der Strafkammer bestätigt wird. Die Anordnung ist auf höchstens einen Monat zu befristen. Eine Verlängerung um jeweils nicht mehr als einen Monat ist zulässig, soweit die Voraussetzungen unter Berücksichtigung der gewonnenen Ermittlungsergebnisse fortbestehen. Ist die Dauer der Anordnung auf insgesamt sechs Monate verlängert worden, so entscheidet über weitere Verlängerungen das Oberlandesgericht.
+
+(3) Die Anordnung ergeht schriftlich. In ihrer Entscheidungsformel sind anzugeben:
 
 1.  
-soweit möglich, der Name und die Anschrift des Beschuldigten, gegen den sich die Maßnahme richtet,
+soweit möglich, der Name und die Anschrift des Betroffenen, gegen den sich die Maßnahme richtet,
 
 2.  
 der Tatvorwurf, auf Grund dessen die Maßnahme angeordnet wird,
 
 3.  
-die zu überwachende Wohnung oder die zu überwachenden Wohnräume,
+Art, Umfang, Dauer und Endzeitpunkt der Maßnahme,
 
 4.  
-Art, Umfang und Dauer der Maßnahme,
+die Art der durch die Maßnahme zu erhebenden Informationen und ihre Bedeutung für das Verfahren,
 
 5.  
-die Art der durch die Maßnahme zu erhebenden Informationen und ihre Bedeutung für das Verfahren.
+bei Maßnahmen nach § 100a die Rufnummer oder eine andere Kennung des zu überwachenden Anschlusses oder des Endgerätes, sofern sich nicht aus bestimmten Tatsachen ergibt, dass diese zugleich einem anderen Endgerät zugeordnet ist; im Fall des § 100a Absatz 1 Satz 2 und 3 eine möglichst genaue Bezeichnung des informationstechnischen Systems, in das eingegriffen werden soll,
 
-(3) In der Begründung der Anordnung oder Verlängerung sind deren Voraussetzungen und die wesentlichen Abwägungsgesichtspunkte darzulegen. Insbesondere sind einzelfallbezogen anzugeben:
+6.  
+bei Maßnahmen nach § 100b eine möglichst genaue Bezeichnung des informationstechnischen Systems, aus dem Daten erhoben werden sollen,
+
+7.  
+bei Maßnahmen nach § 100c die zu überwachende Wohnung oder die zu überwachenden Wohnräume.
+
+(4) In der Begründung der Anordnung oder Verlängerung von Maßnahmen nach den §§ 100a bis 100c sind deren Voraussetzungen und die wesentlichen Abwägungsgesichtspunkte darzulegen. Insbesondere sind einzelfallbezogen anzugeben:
 
 1.  
 die bestimmten Tatsachen, die den Verdacht begründen,
@@ -2418,62 +2504,20 @@ die bestimmten Tatsachen, die den Verdacht begründen,
 die wesentlichen Erwägungen zur Erforderlichkeit und Verhältnismäßigkeit der Maßnahme,
 
 3.  
-die tatsächlichen Anhaltspunkte im Sinne des § 100c Abs. 4 Satz 1.
+bei Maßnahmen nach § 100c die tatsächlichen Anhaltspunkte im Sinne des § 100d Absatz 4 Satz 1.
 
-(4) Das anordnende Gericht ist über den Verlauf und die Ergebnisse der Maßnahme zu unterrichten. Liegen die Voraussetzungen der Anordnung nicht mehr vor, so hat das Gericht den Abbruch der Maßnahme anzuordnen, sofern der Abbruch nicht bereits durch die Staatsanwaltschaft veranlasst wurde. Die Anordnung des Abbruchs der Maßnahme kann auch durch den Vorsitzenden erfolgen.
+(5) Liegen die Voraussetzungen der Anordnung nicht mehr vor, so sind die auf Grund der Anordnung ergriffenen Maßnahmen unverzüglich zu beenden. Das anordnende Gericht ist nach Beendigung der Maßnahme über deren Ergebnisse zu unterrichten. Bei Maßnahmen nach den §§ 100b und 100c ist das anordnende Gericht auch über den Verlauf zu unterrichten. Liegen die Voraussetzungen der Anordnung nicht mehr vor, so hat das Gericht den Abbruch der Maßnahme anzuordnen, sofern der Abbruch nicht bereits durch die Staatsanwaltschaft veranlasst wurde. Die Anordnung des Abbruchs einer Maßnahme nach den §§ 100b und 100c kann auch durch den Vorsitzenden erfolgen.
 
-(5) Personenbezogene Daten aus einer akustischen Wohnraumüberwachung dürfen für andere Zwecke nach folgenden Maßgaben verwendet werden:
-
-1.  
-Die durch eine Maßnahme nach § 100c erlangten verwertbaren personenbezogenen Daten dürfen in anderen Strafverfahren ohne Einwilligung der insoweit überwachten Personen nur zur Aufklärung einer Straftat, auf Grund derer die Maßnahme nach § 100c angeordnet werden könnte, oder zur Ermittlung des Aufenthalts der einer solchen Straftat beschuldigten Person verwendet werden.
-
-2.  
-Die Verwendung der durch eine Maßnahme nach § 100c erlangten personenbezogenen Daten, auch solcher nach § 100c Abs. 6 Satz 1 Halbsatz 2, zu Zwecken der Gefahrenabwehr ist nur zur Abwehr einer im Einzelfall bestehenden Lebensgefahr oder einer dringenden Gefahr für Leib oder Freiheit einer Person oder Gegenstände von bedeutendem Wert, die der Versorgung der Bevölkerung dienen, von kulturell herausragendem Wert oder in § 305 des Strafgesetzbuches genannt sind, zulässig. Die durch eine Maßnahme nach § 100c erlangten und verwertbaren personenbezogenen Daten dürfen auch zur Abwehr einer im Einzelfall bestehenden dringenden Gefahr für sonstige bedeutende Vermögenswerte verwendet werden. Sind die Daten zur Abwehr der Gefahr oder für eine vorgerichtliche oder gerichtliche Überprüfung der zur Gefahrenabwehr getroffenen Maßnahmen nicht mehr erforderlich, so sind Aufzeichnungen über diese Daten von der für die Gefahrenabwehr zuständigen Stelle unverzüglich zu löschen. Die Löschung ist aktenkundig zu machen. Soweit die Löschung lediglich für eine etwaige vorgerichtliche oder gerichtliche Überprüfung zurückgestellt ist, dürfen die Daten nur für diesen Zweck verwendet werden; für eine Verwendung zu anderen Zwecken sind sie zu sperren.
-
-3.  
-Sind verwertbare personenbezogene Daten durch eine entsprechende polizeirechtliche Maßnahme erlangt worden, dürfen sie in einem Strafverfahren ohne Einwilligung der insoweit überwachten Personen nur zur Aufklärung einer Straftat, auf Grund derer die Maßnahme nach § 100c angeordnet werden könnte, oder zur Ermittlung des Aufenthalts der einer solchen Straftat beschuldigten Person verwendet werden.
-
-### § 100e Berichtspflicht bei der akustischen Wohnraumüberwachung
-
-(1) Für die nach § 100c angeordneten Maßnahmen gilt § 100b Abs. 5 entsprechend. Vor der Veröffentlichung im Internet berichtet die Bundesregierung dem Deutschen Bundestag über die im jeweils vorangegangenen Kalenderjahr nach § 100c angeordneten Maßnahmen.
-
-(2) In den Berichten nach Absatz 1 sind anzugeben:
+(6) Die durch Maßnahmen nach den §§ 100b und 100c erlangten und verwertbaren personenbezogenen Daten dürfen für andere Zwecke nach folgenden Maßgaben verwendet werden:
 
 1.  
-die Anzahl der Verfahren, in denen Maßnahmen nach § 100c Abs. 1 angeordnet worden sind;
+Die Daten dürfen in anderen Strafverfahren ohne Einwilligung der insoweit überwachten Personen nur zur Aufklärung einer Straftat, auf Grund derer Maßnahmen nach § 100b oder § 100c angeordnet werden könnten, oder zur Ermittlung des Aufenthalts der einer solchen Straftat beschuldigten Person verwendet werden.
 
 2.  
-die jeweils zugrunde liegende Anlassstraftat nach Maßgabe der Unterteilung in § 100c Abs. 2;
+Die Verwendung der Daten, auch solcher nach § 100d Absatz 5 Satz 1 zweiter Halbsatz, zu Zwecken der Gefahrenabwehr ist nur zur Abwehr einer im Einzelfall bestehenden Lebensgefahr oder einer dringenden Gefahr für Leib oder Freiheit einer Person, für die Sicherheit oder den Bestand des Staates oder für Gegenstände von bedeutendem Wert, die der Versorgung der Bevölkerung dienen, von kulturell herausragendem Wert oder in § 305 des Strafgesetzbuches genannt sind, zulässig. Die Daten dürfen auch zur Abwehr einer im Einzelfall bestehenden dringenden Gefahr für sonstige bedeutende Vermögenswerte verwendet werden. Sind die Daten zur Abwehr der Gefahr oder für eine vorgerichtliche oder gerichtliche Überprüfung der zur Gefahrenabwehr getroffenen Maßnahmen nicht mehr erforderlich, so sind Aufzeichnungen über diese Daten von der für die Gefahrenabwehr zuständigen Stelle unverzüglich zu löschen. Die Löschung ist aktenkundig zu machen. Soweit die Löschung lediglich für eine etwaige vorgerichtliche oder gerichtliche Überprüfung zurückgestellt ist, dürfen die Daten nur für diesen Zweck verwendet werden; für eine Verwendung zu anderen Zwecken sind sie zu sperren.
 
 3.  
-ob das Verfahren einen Bezug zur Verfolgung organisierter Kriminalität aufweist;
-
-4.  
-die Anzahl der überwachten Objekte je Verfahren nach Privatwohnungen und sonstigen Wohnungen sowie nach Wohnungen des Beschuldigten und Wohnungen dritter Personen;
-
-5.  
-die Anzahl der überwachten Personen je Verfahren nach Beschuldigten und nichtbeschuldigten Personen;
-
-6.  
-die Dauer der einzelnen Überwachung nach Dauer der Anordnung, Dauer der Verlängerung und Abhördauer;
-
-7.  
-wie häufig eine Maßnahme nach § 100c Abs. 5, § 100d Abs. 4 unterbrochen oder abgebrochen worden ist;
-
-8.  
-ob eine Benachrichtigung der Betroffenen (§ 101 Abs. 4 bis 6) erfolgt ist oder aus welchen Gründen von einer Benachrichtigung abgesehen worden ist;
-
-9.  
-ob die Überwachung Ergebnisse erbracht hat, die für das Verfahren relevant sind oder voraussichtlich relevant sein werden;
-
-10.  
-ob die Überwachung Ergebnisse erbracht hat, die für andere Strafverfahren relevant sind oder voraussichtlich relevant sein werden;
-
-11.  
-wenn die Überwachung keine relevanten Ergebnisse erbracht hat: die Gründe hierfür, differenziert nach technischen Gründen und sonstigen Gründen;
-
-12.  
-die Kosten der Maßnahme, differenziert nach Kosten für Übersetzungsdienste und sonstigen Kosten.
+Sind verwertbare personenbezogene Daten durch eine entsprechende polizeirechtliche Maßnahme erlangt worden, dürfen sie in einem Strafverfahren ohne Einwilligung der insoweit überwachten Personen nur zur Aufklärung einer Straftat, auf Grund derer die Maßnahmen nach § 100b oder § 100c angeordnet werden könnten, oder zur Ermittlung des Aufenthalts der einer solchen Straftat beschuldigten Person verwendet werden.
 
 ### § 100f Akustische Überwachung außerhalb von Wohnraum
 
@@ -2483,7 +2527,7 @@ die Kosten der Maßnahme, differenziert nach Kosten für Übersetzungsdienste un
 
 (3) Die Maßnahme darf auch durchgeführt werden, wenn Dritte unvermeidbar betroffen werden.
 
-(4) § 100b Abs. 1, 4 Satz 1 und § 100d Abs. 2 gelten entsprechend.
+(4) § 100e Absatz 1, 3, 5 Satz 1 gilt entsprechend.
 
 ### § 100g Erhebung von Verkehrsdaten
 
@@ -2503,13 +2547,13 @@ so dürfen Verkehrsdaten (§ 96 Absatz 1 des Telekommunikationsgesetzes) erhoben
 aus dem Strafgesetzbuch:
 
 a)  
-Straftaten des Friedensverrats, des Hochverrats und der Gefährdung des demokratischen Rechtsstaates sowie des Landesverrats und der Gefährdung der äußeren Sicherheit nach den §§ 80, 81, 82, 89a, nach den §§ 94, 95 Absatz 3 und § 96 Absatz 1, jeweils auch in Verbindung mit § 97b, sowie nach den §§ 97a, 98 Absatz 1 Satz 2, § 99 Absatz 2 und den §§ 100, 100a Absatz 4,
+Straftaten des Hochverrats und der Gefährdung des demokratischen Rechtsstaates sowie des Landesverrats und der Gefährdung der äußeren Sicherheit nach den §§ 81, 82, 89a, nach den §§ 94, 95 Absatz 3 und § 96 Absatz 1, jeweils auch in Verbindung mit § 97b, sowie nach den §§ 97a, 98 Absatz 1 Satz 2, § 99 Absatz 2 und den §§ 100, 100a Absatz 4,
 
 b)  
-besonders schwerer Fall des Landfriedensbruchs nach § 125a, Bildung krimineller Vereinigungen nach § 129 Absatz 1 in Verbindung mit Absatz 4 Halbsatz 2 und Bildung terroristischer Vereinigungen nach § 129a Absatz 1, 2, 4, 5 Satz 1 Alternative 1, jeweils auch in Verbindung mit § 129b Absatz 1,
+besonders schwerer Fall des Landfriedensbruchs nach § 125a, Bildung krimineller Vereinigungen nach § 129 Absatz 1 in Verbindung mit Absatz 5 Satz 3 und Bildung terroristischer Vereinigungen nach § 129a Absatz 1, 2, 4, 5 Satz 1 Alternative 1, jeweils auch in Verbindung mit § 129b Absatz 1,
 
 c)  
-Straftaten gegen die sexuelle Selbstbestimmung in den Fällen der §§ 176a, 176b, 177 Absatz 2 Satz 2 Nummer 2 und des § 179 Absatz 5 Nummer 2,
+Straftaten gegen die sexuelle Selbstbestimmung in den Fällen der §§ 176a, 176b und, unter den in § 177 Absatz 6 Satz 2 Nummer 2 genannten Voraussetzungen, des § 177,
 
 d)  
 Verbreitung, Erwerb und Besitz kinder- und jugendpornographischer Schriften in den Fällen des § 184b Absatz 2, § 184c Absatz 2,
@@ -2518,10 +2562,10 @@ e)
 Mord und Totschlag nach den §§ 211 und 212,
 
 f)  
-Straftaten gegen die persönliche Freiheit in den Fällen der §§ 234, 234a Absatz 1, 2, §§ 239a, 239b und Menschenhandel zum Zweck der sexuellen Ausbeutung und zum Zweck der Ausbeutung der Arbeitskraft nach § 232 Absatz 3, 4 oder 5, § 233 Absatz 3, jeweils soweit es sich um Verbrechen handelt,
+Straftaten gegen die persönliche Freiheit in den Fällen der §§ 234, 234a Absatz 1, 2, §§ 239a, 239b und Zwangsprostitution und Zwangsarbeit nach § 232a Absatz 3, 4 oder 5 zweiter Halbsatz, § 232b Absatz 3 oder 4 in Verbindung mit § 232a Absatz 4 oder 5 zweiter Halbsatz und Ausbeutung unter Ausnutzung einer Freiheitsberaubung nach § 233a Absatz 3 oder 4 zweiter Halbsatz,
 
 g)  
-schwerer Bandendiebstahl nach § 244a Absatz 1, schwerer Raub nach § 250 Absatz 1 oder Absatz 2, Raub mit Todesfolge nach § 251, räuberische Erpressung nach § 255 und besonders schwerer Fall einer Erpressung nach § 253 unter den in § 253 Absatz 4 Satz 2 genannten Voraussetzungen, gewerbsmäßige Bandenhehlerei nach § 260a Absatz 1, besonders schwerer Fall der Geldwäsche und der Verschleierung unrechtmäßig erlangter Vermögenswerte nach § 261 unter den in § 261 Absatz 4 Satz 2 genannten Voraussetzungen,
+Einbruchdiebstahl in eine dauerhaft genutzte Privatwohnung nach § 244 Absatz 4, schwerer Bandendiebstahl nach § 244a Absatz 1, schwerer Raub nach § 250 Absatz 1 oder Absatz 2, Raub mit Todesfolge nach § 251, räuberische Erpressung nach § 255 und besonders schwerer Fall einer Erpressung nach § 253 unter den in § 253 Absatz 4 Satz 2 genannten Voraussetzungen, gewerbsmäßige Bandenhehlerei nach § 260a Absatz 1, besonders schwerer Fall der Geldwäsche und der Verschleierung unrechtmäßig erlangter Vermögenswerte nach § 261 unter den in § 261 Absatz 4 Satz 2 genannten Voraussetzungen,
 
 h)  
 gemeingefährliche Straftaten in den Fällen der §§ 306 bis 306c, 307 Absatz 1 bis 3, des § 308 Absatz 1 bis 3, des § 309 Absatz 1 bis 4, des § 310 Absatz 1, der §§ 313, 314, 315 Absatz 3, des § 315b Absatz 3 sowie der §§ 316a und 316c,
@@ -2570,6 +2614,9 @@ Verbrechen gegen die Menschlichkeit nach § 7,
 
 c)  
 Kriegsverbrechen nach den §§ 8 bis 12,
+
+d)  
+Verbrechen der Aggression nach § 13,
 
 8.  
 aus dem Waffengesetz:
@@ -2633,7 +2680,7 @@ ermittelt werden, soweit dies für die Erforschung des Sachverhalts oder die Erm
 
 (2) Personenbezogene Daten Dritter dürfen anlässlich solcher Maßnahmen nur erhoben werden, wenn dies aus technischen Gründen zur Erreichung des Zwecks nach Absatz 1 unvermeidbar ist. Über den Datenabgleich zur Ermittlung der gesuchten Geräte- und Kartennummer hinaus dürfen sie nicht verwendet werden und sind nach Beendigung der Maßnahme unverzüglich zu löschen.
 
-(3) § 100a Abs. 3 und § 100b Abs. 1 Satz 1 bis 3, Abs. 2 Satz 1 und Abs. 4 Satz 1 gelten entsprechend. Die Anordnung ist auf höchstens sechs Monate zu befristen. Eine Verlängerung um jeweils nicht mehr als sechs weitere Monate ist zulässig, soweit die in Absatz 1 bezeichneten Voraussetzungen fortbestehen.
+(3) § 100a Abs. 3 und § 100e Absatz 1 Satz 1 bis 3, Absatz 3 Satz 1 und Absatz 5 Satz 1 gelten entsprechend. Die Anordnung ist auf höchstens sechs Monate zu befristen. Eine Verlängerung um jeweils nicht mehr als sechs weitere Monate ist zulässig, soweit die in Absatz 1 bezeichneten Voraussetzungen fortbestehen.
 
 ### § 100j Bestandsdatenauskunft
 
@@ -2649,9 +2696,9 @@ ermittelt werden, soweit dies für die Erforschung des Sachverhalts oder die Erm
 
 ### § 101 Verfahrensregelungen bei verdeckten Maßnahmen
 
-(1) Für Maßnahmen nach den §§ 98a, 99, 100a, 100c bis 100f, 100h, 100i, 110a, 163d bis 163f gelten, soweit nichts anderes bestimmt ist, die nachstehenden Regelungen.
+(1) Für Maßnahmen nach den §§ 98a, 99, 100a bis 100f, 100h, 100i, 110a, 163d bis 163f gelten, soweit nichts anderes bestimmt ist, die nachstehenden Regelungen.
 
-(2) Entscheidungen und sonstige Unterlagen über Maßnahmen nach den §§ 100c, 100f, 100h Abs. 1 Nr. 2 und § 110a werden bei der Staatsanwaltschaft verwahrt. Zu den Akten sind sie erst zu nehmen, wenn die Voraussetzungen für eine Benachrichtigung nach Absatz 5 erfüllt sind.
+(2) Entscheidungen und sonstige Unterlagen über Maßnahmen nach den §§ 100b, 100c, 100f, 100h Abs. 1 Nr. 2 und § 110a werden bei der Staatsanwaltschaft verwahrt. Zu den Akten sind sie erst zu nehmen, wenn die Voraussetzungen für eine Benachrichtigung nach Absatz 5 erfüllt sind.
 
 (3) Personenbezogene Daten, die durch Maßnahmen nach Absatz 1 erhoben wurden, sind entsprechend zu kennzeichnen. Nach einer Übermittlung an eine andere Stelle ist die Kennzeichnung durch diese aufrechtzuerhalten.
 
@@ -2667,6 +2714,9 @@ des § 99 der Absender und der Adressat der Postsendung,
 des § 100a die Beteiligten der überwachten Telekommunikation,
 
 4.  
+des § 100b die Zielperson sowie die erheblich mitbetroffenen Personen,
+
+5.  
 des § 100c
 
 a)  
@@ -2678,16 +2728,16 @@ sonstige überwachte Personen,
 c)  
 Personen, die die überwachte Wohnung zur Zeit der Durchführung der Maßnahme innehatten oder bewohnten,
 
-5.  
+6.  
 des § 100f die Zielperson sowie die erheblich mitbetroffenen Personen,
 
-6.  
+7.  
 des § 100h Abs. 1 die Zielperson sowie die erheblich mitbetroffenen Personen,
 
-7.  
+8.  
 des § 100i die Zielperson,
 
-8.  
+9.  
 des § 110a
 
 a)  
@@ -2699,20 +2749,20 @@ die erheblich mitbetroffenen Personen,
 c)  
 die Personen, deren nicht allgemein zugängliche Wohnung der Verdeckte Ermittler betreten hat,
 
-9.  
+10.  
 des § 163d die betroffenen Personen, gegen die nach Auswertung der Daten weitere Ermittlungen geführt wurden,
 
-10.  
+11.  
 des § 163e die Zielperson und die Person, deren personenbezogene Daten gemeldet worden sind,
 
-11.  
+12.  
 des § 163f die Zielperson sowie die erheblich mitbetroffenen Personen
 
 zu benachrichtigen. Dabei ist auf die Möglichkeit nachträglichen Rechtsschutzes nach Absatz 7 und die dafür vorgesehene Frist hinzuweisen. Die Benachrichtigung unterbleibt, wenn ihr überwiegende schutzwürdige Belange einer betroffenen Person entgegenstehen. Zudem kann die Benachrichtigung einer in Satz 1 Nummer 2 und 3 bezeichneten Person, gegen die sich die Maßnahme nicht gerichtet hat, unterbleiben, wenn diese von der Maßnahme nur unerheblich betroffen wurde und anzunehmen ist, dass sie kein Interesse an einer Benachrichtigung hat. Nachforschungen zur Feststellung der Identität einer in Satz 1 bezeichneten Person sind nur vorzunehmen, wenn dies unter Berücksichtigung der Eingriffsintensität der Maßnahme gegenüber dieser Person, des Aufwands für die Feststellung ihrer Identität sowie der daraus für diese oder andere Personen folgenden Beeinträchtigungen geboten ist.
 
 (5) Die Benachrichtigung erfolgt, sobald dies ohne Gefährdung des Untersuchungszwecks, des Lebens, der körperlichen Unversehrtheit und der persönlichen Freiheit einer Person und von bedeutenden Vermögenswerten, im Fall des § 110a auch der Möglichkeit der weiteren Verwendung des Verdeckten Ermittlers möglich ist. Wird die Benachrichtigung nach Satz 1 zurückgestellt, sind die Gründe aktenkundig zu machen.
 
-(6) Erfolgt die nach Absatz 5 zurückgestellte Benachrichtigung nicht binnen zwölf Monaten nach Beendigung der Maßnahme, bedürfen weitere Zurückstellungen der gerichtlichen Zustimmung. Das Gericht bestimmt die Dauer weiterer Zurückstellungen. Es kann dem endgültigen Absehen von der Benachrichtigung zustimmen, wenn die Voraussetzungen für eine Benachrichtigung mit an Sicherheit grenzender Wahrscheinlichkeit auch in Zukunft nicht eintreten werden. Sind mehrere Maßnahmen in einem engen zeitlichen Zusammenhang durchgeführt worden, so beginnt die in Satz 1 genannte Frist mit der Beendigung der letzten Maßnahme. Im Fall des § 100c beträgt die in Satz 1 genannte Frist sechs Monate.
+(6) Erfolgt die nach Absatz 5 zurückgestellte Benachrichtigung nicht binnen zwölf Monaten nach Beendigung der Maßnahme, bedürfen weitere Zurückstellungen der gerichtlichen Zustimmung. Das Gericht bestimmt die Dauer weiterer Zurückstellungen. Es kann dem endgültigen Absehen von der Benachrichtigung zustimmen, wenn die Voraussetzungen für eine Benachrichtigung mit an Sicherheit grenzender Wahrscheinlichkeit auch in Zukunft nicht eintreten werden. Sind mehrere Maßnahmen in einem engen zeitlichen Zusammenhang durchgeführt worden, so beginnt die in Satz 1 genannte Frist mit der Beendigung der letzten Maßnahme. Bei Maßnahmen nach den §§ 100b und 100c beträgt die in Satz 1 genannte Frist sechs Monate.
 
 (7) Gerichtliche Entscheidungen nach Absatz 6 trifft das für die Anordnung der Maßnahme zuständige Gericht, im Übrigen das Gericht am Sitz der zuständigen Staatsanwaltschaft. Die in Absatz 4 Satz 1 genannten Personen können bei dem nach Satz 1 zuständigen Gericht auch nach Beendigung der Maßnahme bis zu zwei Wochen nach ihrer Benachrichtigung die Überprüfung der Rechtmäßigkeit der Maßnahme sowie der Art und Weise ihres Vollzugs beantragen. Gegen die Entscheidung ist die sofortige Beschwerde statthaft. Ist die öffentliche Klage erhoben und der Angeklagte benachrichtigt worden, entscheidet über den Antrag das mit der Sache befasste Gericht in der das Verfahren abschließenden Entscheidung.
 
@@ -2720,15 +2770,15 @@ zu benachrichtigen. Dabei ist auf die Möglichkeit nachträglichen Rechtsschutze
 
 ### § 101a Gerichtliche Entscheidung; Datenkennzeichnung und -auswertung; Benachrichtigungspflichten bei der Erhebung von Verkehrsdaten
 
-(1) Bei Erhebungen von Verkehrsdaten nach § 100g gelten § 100a Absatz 3 und § 100b Absatz 1 bis 4 entsprechend mit der Maßgabe, dass
+(1) Bei Erhebungen von Verkehrsdaten nach § 100g gelten § 100a Absatz 3 und 4 und § 100e entsprechend mit der Maßgabe, dass
 
 1.  
-in der Entscheidungsformel nach § 100b Absatz 2 Satz 2 auch die zu übermittelnden Daten und der Zeitraum, für den sie übermittelt werden sollen, eindeutig anzugeben sind,
+in der Entscheidungsformel nach § 100e Absatz 3 Satz 2 auch die zu übermittelnden Daten und der Zeitraum, für den sie übermittelt werden sollen, eindeutig anzugeben sind,
 
 2.  
-der nach § 100b Absatz 3 Satz 1 zur Auskunft Verpflichtete auch mitzuteilen hat, welche der von ihm übermittelten Daten nach § 113b des Telekommunikationsgesetzes gespeichert wurden.
+der nach § 100a Absatz 4 Satz 1 zur Auskunft Verpflichtete auch mitzuteilen hat, welche der von ihm übermittelten Daten nach § 113b des Telekommunikationsgesetzes gespeichert wurden.
 
-In den Fällen des § 100g Absatz 2, auch in Verbindung mit § 100g Absatz 3 Satz 2, findet abweichend von Satz 1 § 100b Absatz 1 Satz 2 und 3 keine Anwendung. Bei Funkzellenabfragen nach § 100g Absatz 3 genügt abweichend von § 100b Absatz 2 Satz 2 Nummer 2 eine räumlich und zeitlich eng begrenzte und hinreichend bestimmte Bezeichnung der Telekommunikation.
+In den Fällen des § 100g Absatz 2, auch in Verbindung mit § 100g Absatz 3 Satz 2, findet abweichend von Satz 1 § 100e Absatz 1 Satz 2 keine Anwendung. Bei Funkzellenabfragen nach § 100g Absatz 3 genügt abweichend von § 100e Absatz 3 Satz 2 Nummer 5 eine räumlich und zeitlich eng begrenzte und hinreichend bestimmte Bezeichnung der Telekommunikation.
 
 (2) Wird eine Maßnahme nach § 100g angeordnet oder verlängert, sind in der Begründung einzelfallbezogen insbesondere die wesentlichen Erwägungen zur Erforderlichkeit und Angemessenheit der Maßnahme, auch hinsichtlich des Umfangs der zu erhebenden Daten und des Zeitraums, für den sie erhoben werden sollen, darzulegen.
 
@@ -2754,9 +2804,83 @@ das Unterbleiben der Benachrichtigung nach § 101 Absatz 4 Satz 3 der Anordnung 
 2.  
 abweichend von § 101 Absatz 6 Satz 1 die Zurückstellung der Benachrichtigung nach § 101 Absatz 5 Satz 1 stets der Anordnung des zuständigen Gerichts bedarf und eine erstmalige Zurückstellung auf höchstens zwölf Monate zu befristen ist.
 
-### § 101b Statistische Erfassung der Erhebung von Verkehrsdaten
+### § 101b Statistische Erfassung; Berichtspflichten
 
-Über Maßnahmen nach § 100g ist entsprechend § 100b Absatz 5 jährlich eine Übersicht zu erstellen, in der anzugeben sind
+(1) Die Länder und der Generalbundesanwalt berichten dem Bundesamt für Justiz kalenderjährlich jeweils bis zum 30. Juni des dem Berichtsjahr folgenden Jahres über in ihrem Zuständigkeitsbereich angeordnete Maßnahmen nach den §§ 100a, 100b, 100c und 100g. Das Bundesamt für Justiz erstellt eine Übersicht zu den im Berichtsjahr bundesweit angeordneten Maßnahmen und veröffentlicht diese im Internet. Über die im jeweils vorangegangenen Kalenderjahr nach § 100c angeordneten Maßnahmen berichtet die Bundesregierung dem Deutschen Bundestag vor der Veröffentlichung im Internet.
+
+(2) In den Übersichten über Maßnahmen nach § 100a sind anzugeben:
+
+1.  
+die Anzahl der Verfahren, in denen Maßnahmen nach § 100a Absatz 1 angeordnet worden sind;
+
+2.  
+die Anzahl der Überwachungsanordnungen nach § 100a Absatz 1, unterschieden nach Erst- und Verlängerungsanordnungen;
+
+3.  
+die jeweils zugrunde liegende Anlassstraftat nach der Unterteilung in § 100a Absatz 2;
+
+4.  
+die Anzahl der Verfahren, in denen ein Eingriff in ein von dem Betroffenen genutztes informationstechnisches System nach § 100a Absatz 1 Satz 2 und 3
+
+a)  
+im richterlichen Beschluss angeordnet wurde und
+
+b)  
+tatsächlich durchgeführt wurde.
+
+(3) In den Übersichten über Maßnahmen nach § 100b sind anzugeben:
+
+1.  
+die Anzahl der Verfahren, in denen Maßnahmen nach § 100b Absatz 1 angeordnet worden sind;
+
+2.  
+die Anzahl der Überwachungsanordnungen nach § 100b Absatz 1, unterschieden nach Erst- und Verlängerungsanordnungen;
+
+3.  
+die jeweils zugrunde liegende Anlassstraftat nach Maßgabe der Unterteilung in § 100b Absatz 2;
+
+4.  
+die Anzahl der Verfahren, in denen ein Eingriff in ein vom Betroffenen genutztes informationstechnisches System tatsächlich durchgeführt wurde.
+
+(4) In den Berichten über Maßnahmen nach § 100c sind anzugeben:
+
+1.  
+die Anzahl der Verfahren, in denen Maßnahmen nach § 100c Absatz 1 angeordnet worden sind;
+
+2.  
+die jeweils zugrunde liegende Anlassstraftat nach Maßgabe der Unterteilung in § 100b Absatz 2;
+
+3.  
+ob das Verfahren einen Bezug zur Verfolgung organisierter Kriminalität aufweist;
+
+4.  
+die Anzahl der überwachten Objekte je Verfahren nach Privatwohnungen und sonstigen Wohnungen sowie nach Wohnungen des Beschuldigten und Wohnungen dritter Personen;
+
+5.  
+die Anzahl der überwachten Personen je Verfahren nach Beschuldigten und nichtbeschuldigten Personen;
+
+6.  
+die Dauer der einzelnen Überwachung nach Dauer der Anordnung, Dauer der Verlängerung und Abhördauer;
+
+7.  
+wie häufig eine Maßnahme nach § 100d Absatz 4, § 100e Absatz 5 unterbrochen oder abgebrochen worden ist;
+
+8.  
+ob eine Benachrichtigung der Betroffenen (§ 101 Absatz 4 bis 6) erfolgt ist oder aus welchen Gründen von einer Benachrichtigung abgesehen worden ist;
+
+9.  
+ob die Überwachung Ergebnisse erbracht hat, die für das Verfahren relevant sind oder voraussichtlich relevant sein werden;
+
+10.  
+ob die Überwachung Ergebnisse erbracht hat, die für andere Strafverfahren relevant sind oder voraussichtlich relevant sein werden;
+
+11.  
+wenn die Überwachung keine relevanten Ergebnisse erbracht hat: die Gründe hierfür, differenziert nach technischen Gründen und sonstigen Gründen;
+
+12.  
+die Kosten der Maßnahme, differenziert nach Kosten für Übersetzungsdienste und sonstigen Kosten.
+
+(5) In den Übersichten über Maßnahmen nach § 100g sind anzugeben:
 
 1.  
 unterschieden nach Maßnahmen nach § 100g Absatz 1, 2 und 3
@@ -2771,7 +2895,7 @@ c)
 die Anzahl der Verlängerungsanordnungen, mit denen diese Maßnahmen angeordnet wurden;
 
 2.  
-unterschieden für die Bereiche Festnetz-, Mobilfunk- und Internetdienste und jeweils untergliedert nach der Anzahl der zurückliegenden Wochen, für die die Erhebung von Verkehrsdaten angeordnet wurde, jeweils bemessen ab dem Zeitpunkt der Anordnung
+untergliedert nach der Anzahl der zurückliegenden Wochen, für die die Erhebung von Verkehrsdaten angeordnet wurde, jeweils bemessen ab dem Zeitpunkt der Anordnung
 
 a)  
 die Anzahl der Anordnungen nach § 100g Absatz 1;
@@ -2908,176 +3032,141 @@ Verdeckte Ermittler dürfen unter Verwendung ihrer Legende eine Wohnung mit dem 
 
 (6) In anderen als in Absatz 3 Satz 2 genannten ausländischen Führerscheinen ist die vorläufige Entziehung der Fahrerlaubnis zu vermerken. Bis zur Eintragung dieses Vermerkes kann der Führerschein beschlagnahmt werden (§ 94 Abs. 3, § 98).
 
-### § 111b Sicherstellung dem Verfall oder der Einziehung unterliegender Gegenstände
+### § 111b Beschlagnahme zur Sicherung der Einziehung oder Unbrauchbarmachung
 
-(1) Gegenstände können durch Beschlagnahme nach § 111c sichergestellt werden, wenn Gründe für die Annahme vorhanden sind, daß die Voraussetzungen für ihren Verfall oder ihre Einziehung vorliegen. § 94 Abs. 3 bleibt unberührt.
+(1) Ist die Annahme begründet, dass die Voraussetzungen der Einziehung oder Unbrauchbarmachung eines Gegenstandes vorliegen, so kann er zur Sicherung der Vollstreckung beschlagnahmt werden. Liegen dringende Gründe für diese Annahme vor, so soll die Beschlagnahme angeordnet werden. § 94 Absatz 3 bleibt unberührt.
 
-(2) Sind Gründe für die Annahme vorhanden, daß die Voraussetzungen des Verfalls von Wertersatz oder der Einziehung von Wertersatz vorliegen, kann zu deren Sicherung nach § 111d der dingliche Arrest angeordnet werden.
+(2) Die §§ 102 bis 110 gelten entsprechend.
 
-(3) Liegen dringende Gründe nicht vor, so hebt das Gericht die Anordnung der in Absatz 1 Satz 1 und Absatz 2 genannten Maßnahmen spätestens nach sechs Monaten auf. Begründen bestimmte Tatsachen den Tatverdacht und reicht die in Satz 1 bezeichnete Frist wegen der besonderen Schwierigkeit oder des besonderen Umfangs der Ermittlungen oder wegen eines anderen wichtigen Grundes nicht aus, so kann das Gericht auf Antrag der Staatsanwaltschaft die Maßnahme verlängern, wenn die genannten Gründe ihre Fortdauer rechtfertigen. Ohne Vorliegen dringender Gründe darf die Maßnahme über zwölf Monate hinaus nicht aufrechterhalten werden.
+### § 111c Vollziehung der Beschlagnahme
 
-(4) Die §§ 102 bis 110 gelten entsprechend.
+(1) Die Beschlagnahme einer beweglichen Sache wird dadurch vollzogen, dass die Sache in Gewahrsam genommen wird. Die Beschlagnahme kann auch dadurch vollzogen werden, dass sie durch Siegel oder in anderer Weise kenntlich gemacht wird.
 
-(5) Die Absätze 1 bis 4 gelten entsprechend, soweit der Verfall nur deshalb nicht angeordnet werden kann, weil die Voraussetzungen des § 73 Abs. 1 Satz 2 des Strafgesetzbuches vorliegen.
+(2) Die Beschlagnahme einer Forderung oder eines anderen Vermögensrechtes, das nicht den Vorschriften über die Zwangsvollstreckung in das unbewegliche Vermögen unterliegt, wird durch Pfändung vollzogen. Die Vorschriften der Zivilprozessordnung über die Zwangsvollstreckung in Forderungen und andere Vermögensrechte sind insoweit sinngemäß anzuwenden. Die Aufforderung zur Abgabe der in § 840 Absatz 1 der Zivilprozessordnung bezeichneten Erklärungen ist in den Pfändungsbeschluss aufzunehmen.
 
-### § 111c Sicherstellung durch Beschlagnahme
+(3) Die Beschlagnahme eines Grundstücks oder eines Rechts, das den Vorschriften über die Zwangsvollstreckung in das unbewegliche Vermögen unterliegt, wird durch ihre Eintragung im Grundbuch vollzogen. Die Vorschriften des Gesetzes über die Zwangsversteigerung und Zwangsverwaltung über den Umfang der Beschlagnahme bei der Zwangsversteigerung gelten entsprechend.
 
-(1) Die Beschlagnahme einer beweglichen Sache wird in den Fällen des § 111b dadurch bewirkt, daß die Sache in Gewahrsam genommen oder die Beschlagnahme durch Siegel oder in anderer Weise kenntlich gemacht wird.
+(4) Die Beschlagnahme eines Schiffes, eines Schiffsbauwerks oder eines Luftfahrzeugs wird nach Absatz 1 vollzogen. Ist der Gegenstand im Schiffs- oder Schiffsbauregister oder im Register für Pfandrechte an Luftfahrzeugen eingetragen, ist die Beschlagnahme in diesem Register einzutragen. Zu diesem Zweck können eintragungsfähige Schiffsbauwerke oder Luftfahrzeuge zur Eintragung angemeldet werden; die Vorschriften, die bei der Anmeldung durch eine Person, die auf Grund eines vollstreckbaren Titels eine Eintragung im Register verlangen kann, anzuwenden sind, gelten hierbei entsprechend.
 
-(2) Die Beschlagnahme eines Grundstückes oder eines Rechtes, das den Vorschriften über die Zwangsvollstreckung in das unbewegliche Vermögen unterliegt, wird dadurch bewirkt, daß ein Vermerk über die Beschlagnahme in das Grundbuch eingetragen wird. Die Vorschriften des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung über den Umfang der Beschlagnahme bei der Zwangsversteigerung gelten entsprechend.
+### § 111d Wirkung der Vollziehung der Beschlagnahme; Rückgabe beweglicher Sachen
 
-(3) Die Beschlagnahme einer Forderung oder eines anderen Vermögensrechtes, das nicht den Vorschriften über die Zwangsvollstreckung in das unbewegliche Vermögen unterliegt, wird durch Pfändung bewirkt. Die Vorschriften der Zivilprozeßordnung über die Zwangsvollstreckung in Forderungen und andere Vermögensrechte sind insoweit sinngemäß anzuwenden. Mit der Beschlagnahme ist die Aufforderung zur Abgabe der in § 840 Abs. 1 der Zivilprozeßordnung bezeichneten Erklärungen zu verbinden.
+(1) Die Vollziehung der Beschlagnahme eines Gegenstandes hat die Wirkung eines Veräußerungsverbotes im Sinne des § 136 des Bürgerlichen Gesetzbuchs. Die Wirkung der Beschlagnahme wird von der Eröffnung des Insolvenzverfahrens über das Vermögen des Betroffenen nicht berührt; Maßnahmen nach § 111c können in einem solchen Verfahren nicht angefochten werden.
 
-(4) Die Beschlagnahme von Schiffen, Schiffsbauwerken und Luftfahrzeugen wird nach Absatz 1 bewirkt. Bei solchen Schiffen, Schiffsbauwerken und Luftfahrzeugen, die im Schiffsregister, Schiffsbauregister oder Register für Pfandrechte an Luftfahrzeugen eingetragen sind, ist die Beschlagnahme im Register einzutragen. Nicht eingetragene, aber eintragungsfähige Schiffsbauwerke oder Luftfahrzeuge können zu diesem Zweck zur Eintragung angemeldet werden; die Vorschriften, die bei der Anmeldung durch eine Person, die auf Grund eines vollstreckbaren Titels eine Eintragung in das Register verlangen kann, anzuwenden sind, gelten hierbei entsprechend.
+(2) Eine beschlagnahmte bewegliche Sache kann dem Betroffenen zurückgegeben werden, wenn er einen den Wert der Sache entsprechenden Geldbetrag beibringt. Der beigebrachte Betrag tritt an die Stelle der Sache. Sie kann dem Betroffenen auch unter dem Vorbehalt jederzeitigen Widerrufs zur vorläufigen weiteren Benutzung bis zum Abschluss des Verfahrens überlassen werden; die Maßnahme kann davon abhängig gemacht werden, dass der Betroffene Sicherheit leistet oder bestimmte Auflagen erfüllt.
 
-(5) Die Beschlagnahme eines Gegenstandes nach den Absätzen 1 bis 4 hat die Wirkung eines Veräußerungsverbotes im Sinne des § 136 des Bürgerlichen Gesetzbuches; das Verbot umfaßt auch andere Verfügungen als Veräußerungen.
+### § 111e Vermögensarrest zur Sicherung der Wertersatzeinziehung
 
-(6) Eine beschlagnahmte bewegliche Sache kann dem Betroffenen
+(1) Ist die Annahme begründet, dass die Voraussetzungen der Einziehung von Wertersatz vorliegen, so kann zur Sicherung der Vollstreckung der Vermögensarrest in das bewegliche und unbewegliche Vermögen des Betroffenen angeordnet werden. Liegen dringende Gründe für diese Annahme vor, so soll der Vermögensarrest angeordnet werden.
 
-1.  
-gegen sofortige Erlegung des Wertes zurückgegeben oder
+(2) Der Vermögensarrest kann auch zur Sicherung der Vollstreckung einer Geldstrafe und der voraussichtlichen Kosten des Strafverfahrens angeordnet werden, wenn gegen den Beschuldigten ein Urteil ergangen oder ein Strafbefehl erlassen worden ist.
 
-2.  
-unter dem Vorbehalt jederzeitigen Widerrufs zur vorläufigen weiteren Benutzung bis zum Abschluß des Verfahrens überlassen
+(3) Zur Sicherung der Vollstreckungskosten ergeht kein Arrest.
 
-werden. Der nach Satz 1 Nr. 1 erlegte Betrag tritt an die Stelle der Sache. Die Maßnahme nach Satz 1 Nr. 2 kann davon abhängig gemacht werden, daß der Betroffene Sicherheit leistet oder bestimmte Auflagen erfüllt.
+(4) In der Anordnung ist der zu sichernde Anspruch unter Angabe des Geldbetrages zu bezeichnen. Zudem ist in der Anordnung ein Geldbetrag festzusetzen, durch dessen Hinterlegung der Betroffene die Vollziehung des Arrestes abwenden und die Aufhebung der Vollziehung des Arrestes verlangen kann; § 108 Absatz 1 der Zivilprozessordnung gilt entsprechend.
 
-### § 111d Sicherstellung durch dinglichen Arrest
+(5) Die §§ 102 bis 110 gelten entsprechend.
 
-(1) Wegen des Verfalls oder der Einziehung von Wertersatz, wegen einer Geldstrafe oder der voraussichtlich entstehenden Kosten des Strafverfahrens kann der dingliche Arrest angeordnet werden. Wegen einer Geldstrafe und der voraussichtlich entstehenden Kosten darf der Arrest erst angeordnet werden, wenn gegen den Beschuldigten ein auf Strafe lautendes Urteil ergangen ist. Zur Sicherung der Vollstreckungskosten sowie geringfügiger Beträge ergeht kein Arrest.
+(6) Die Möglichkeit einer Anordnung nach § 324 der Abgabenordnung steht einer Anordnung nach Absatz 1 nicht entgegen.
 
-(2) Die §§ 917 und 920 Abs. 1 sowie die §§ 923, 928, 930 bis 932 und 934 Abs. 1 der Zivilprozeßordnung gelten sinngemäß.
+### § 111f Vollziehung des Vermögensarrestes
 
-(3) Ist der Arrest wegen einer Geldstrafe oder der voraussichtlich entstehenden Kosten angeordnet worden, so ist eine Vollziehungsmaßnahme auf Antrag des Beschuldigten aufzuheben, soweit der Beschuldigte den Pfandgegenstand zur Aufbringung der Kosten seiner Verteidigung, seines Unterhalts oder des Unterhalts seiner Familie benötigt.
+(1) Der Vermögensarrest in eine bewegliche Sache, in eine Forderung oder ein anderes Vermögensrecht, das nicht der Zwangsvollstreckung in das unbewegliche Vermögen unterliegt, wird durch Pfändung vollzogen. Die §§ 928 und 930 der Zivilprozessordnung gelten sinngemäß. § 111c Absatz 2 Satz 3 gilt entsprechend.
 
-### § 111e Verfahren bei der Beschlagnahme und dem dinglichen Arrest
+(2) Der Vermögensarrest in ein Grundstück oder ein Recht, das den Vorschriften über die Zwangsvollstreckung in das unbewegliche Vermögen unterliegt, wird durch Eintragung einer Sicherungshypothek bewirkt. Die §§ 928 und 932 der Zivilprozessordung gelten sinngemäß.
 
-(1) Zu der Anordnung der Beschlagnahme (§ 111c) und des Arrestes (§ 111d) ist nur das Gericht, bei Gefahr im Verzug auch die Staatsanwaltschaft befugt. Zur Anordnung der Beschlagnahme einer beweglichen Sache (§ 111c Abs. 1) sind bei Gefahr im Verzuge auch die Ermittlungspersonen der Staatsanwaltschaft (§ 152 des Gerichtsverfassungsgesetzes) befugt.
+(3) Der Vermögensarrest in ein Schiff, ein Schiffsbauwerk oder ein Luftfahrzeug wird nach Absatz 1 bewirkt. Ist der Gegenstand im Schiffs- oder Schiffsbauregister oder im Register für Pfandrechte an Luftfahrzeugen eingetragen, gelten die §§ 928 und 931 der Zivilprozessordung sinngemäß.
 
-(2) Hat die Staatsanwaltschaft die Beschlagnahme oder den Arrest angeordnet, so beantragt sie innerhalb einer Woche die gerichtliche Bestätigung der Anordnung. Dies gilt nicht, wenn die Beschlagnahme einer beweglichen Sache angeordnet ist. Der Betroffene kann in allen Fällen jederzeit die Entscheidung des Gerichts beantragen.
+(4) In den Fällen der Absätze 2 und 3 Satz 2 wird auch das Veräußerungsverbot nach § 111h Absatz 1 Satz 1 in Verbindung mit § 136 des Bürgerlichen Gesetzbuchs eingetragen.
 
-(3) Der Vollzug der Beschlagnahme und des Arrestes ist dem durch die Tat Verletzten, soweit er bekannt ist oder im Verlauf des Verfahrens bekannt wird, unverzüglich durch die Staatsanwaltschaft mitzuteilen.
+### § 111g Aufhebung der Vollziehung des Vermögensarrestes
 
-(4) Die Mitteilung kann durch einmalige Bekanntmachung im Bundesanzeiger erfolgen, wenn eine Mitteilung gegenüber jedem einzelnen Verletzten mit unverhältnismäßigem Aufwand verbunden wäre oder wenn zu vermuten ist, dass noch unbekannten Verletzten aus der Tat Ansprüche erwachsen sind. Zusätzlich kann die Mitteilung auch in anderer geeigneter Weise veröffentlicht werden. Personendaten dürfen nur veröffentlicht werden, soweit ihre Angabe unerlässlich ist, um den Verletzten zur Durchsetzung ihrer Ansprüche den Zugriff auf die gesicherten Vermögenswerte zu ermöglichen. Nach Beendigung der Sicherungsmaßnahmen veranlasst die Staatsanwaltschaft die Löschung der im Bundesanzeiger vorgenommenen Veröffentlichung.
+(1) Hinterlegt der Betroffene den nach § 111e Absatz 4 festgesetzten Geldbetrag, wird die Vollziehungsmaßnahme aufgehoben.
 
-### § 111f Durchführung der Beschlagnahme und Vollziehung des dinglichen Arrestes
+(2) Ist der Arrest wegen einer Geldstrafe oder der voraussichtlich entstehenden Kosten des Strafverfahrens angeordnet worden, so ist eine Vollziehungsmaßnahme auf Antrag des Beschuldigten aufzuheben, soweit der Beschuldigte den Pfandgegenstand zur Aufbringung der Kosten seiner Verteidigung, seines Unterhalts oder des Unterhalts seiner Familie benötigt.
 
-(1) Die Durchführung der Beschlagnahme (§ 111c) obliegt der Staatsanwaltschaft, bei beweglichen Sachen (§ 111c Abs. 1) auch deren Ermittlungspersonen. § 98 Abs. 4 gilt entsprechend.
+### § 111h Wirkung der Vollziehung des Vermögensarrestes
 
-(2) Die erforderlichen Eintragungen in das Grundbuch sowie in die in § 111c Abs. 4 genannten Register werden auf Ersuchen der Staatsanwaltschaft oder des Gerichts bewirkt, welches die Beschlagnahme angeordnet hat. Entsprechendes gilt für die in § 111c Abs. 4 erwähnten Anmeldungen.
+(1) Die Vollziehung des Vermögensarrestes in einen Gegenstand hat die Wirkung eines Veräußerungsverbots im Sinne des § 136 des Bürgerlichen Gesetzbuchs. Für das Sicherungsrecht, das in Vollziehung des Vermögensarrestes entsteht, gilt § 80 Absatz 2 Satz 2 der Insolvenzordnung.
 
-(3) Soweit ein Arrest nach den Vorschriften über die Pfändung in bewegliche Sachen zu vollziehen ist, kann dies durch die in § 2 der Justizbeitreibungsordnung bezeichnete Behörde, den Gerichtsvollzieher, die Staatsanwaltschaft oder durch deren Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) bewirkt werden. Absatz 2 gilt entsprechend. Für die Anordnung der Pfändung eines eingetragenen Schiffes oder Schiffsbauwerkes sowie für die Pfändung einer Forderung aufgrund des Arrestes gemäß § 111d ist die Staatsanwaltschaft oder auf deren Antrag das Gericht, das den Arrest angeordnet hat, zuständig.
+(2) Zwangsvollstreckungen in Gegenstände, die im Wege der Arrestvollziehung gepfändet worden sind, sind während der Dauer der Arrestvollziehung nicht zulässig. Die Vollziehung einer Arrestanordnung nach § 324 der Abgabenordnung bleibt unberührt, soweit der Arrestanspruch aus der Straftat erwachsen ist.
 
-(4) Für die Zustellung gilt § 37 Abs. 1 mit der Maßgabe, dass auch die Ermittlungspersonen der Staatsanwaltschaft (§ 152 des Gerichtsverfassungsgesetzes) mit der Ausführung beauftragt werden können.
+### § 111i Insolvenzverfahren
 
-(5) Gegen Maßnahmen, die in Vollziehung der Beschlagnahme oder des Arrestes getroffen werden, kann der Betroffene jederzeit die Entscheidung des Gerichts beantragen.
+(1) Ist mindestens einem Verletzten aus der Tat ein Anspruch auf Ersatz des Wertes des Erlangten erwachsen und wird das Insolvenzverfahren über das Vermögen des Arrestschuldners eröffnet, so erlischt das Sicherungsrecht nach § 111h Absatz 1 an dem Gegenstand oder an dem durch dessen Verwertung erzielten Erlös, sobald dieser vom Insolvenzbeschlag erfasst wird. Das Sicherungsrecht erlischt nicht an Gegenständen, die in einem Staat belegen sind, in dem die Eröffnung des Insolvenzverfahrens nicht anerkannt wird. Die Sätze 1 und 2 gelten entsprechend für das Pfandrecht an der nach § 111g Absatz 1 hinterlegten Sicherheit.
 
-### § 111g Vorrangige Befriedigung von Ansprüchen des Verletzten bei der Beschlagnahme
+(2) Gibt es mehrere Verletzte und reicht der Wert des in Vollziehung des Vermögensarrestes gesicherten Gegenstandes oder des durch dessen Verwertung erzielten Erlöses nicht aus, um die Ansprüche der Verletzten auf Ersatz des Wertes des Erlangten, die ihnen aus der Tat erwachsen sind und von ihnen gegenüber der Staatsanwaltschaft geltend gemacht werden, zu befriedigen, stellt die Staatsanwaltschaft einen Antrag auf Eröffnung des Insolvenzverfahrens über das Vermögen des Arrestschuldners. Die Staatsanwaltschaft sieht von der Stellung eines Eröffnungsantrags ab, wenn begründete Zweifel daran bestehen, dass das Insolvenzverfahren auf Grund des Antrags eröffnet wird.
 
-(1) Die Beschlagnahme eines Gegenstandes nach § 111c und die Vollziehung des Arrestes nach § 111d wirken nicht gegen eine Verfügung des Verletzten, die auf Grund eines aus der Straftat erwachsenen Anspruches im Wege der Zwangsvollstreckung oder der Arrestvollziehung erfolgt.
+(3) Verbleibt bei der Schlussverteilung ein Überschuss, so erwirbt der Staat bis zur Höhe des Vermögensarrestes ein Pfandrecht am Anspruch des Schuldners auf Herausgabe des Überschusses. In diesem Umfang hat der Insolvenzverwalter den Überschuss an die Staatsanwaltschaft herauszugeben.
 
-(2) Die Zwangsvollstreckung oder Arrestvollziehung nach Absatz 1 bedarf der Zulassung durch das Gericht, das für die Anordnung der Beschlagnahme (§ 111c) oder des Arrestes (§ 111d) zuständig ist. Die Entscheidung ergeht durch Beschluß, der von der Staatsanwaltschaft, dem Beschuldigten und dem Verletzten mit sofortiger Beschwerde angefochten werden kann. Die Zulassung ist zu versagen, wenn der Verletzte nicht glaubhaft macht, daß der Anspruch aus der Straftat erwachsen ist. § 294 der Zivilprozeßordnung ist anzuwenden.
+### § 111j Verfahren bei der Anordnung der Beschlagnahme und des Vermögensarrestes
 
-(3) Das Veräußerungsverbot nach § 111c Abs. 5 gilt vom Zeitpunkt der Beschlagnahme an auch zugunsten von Verletzten, die während der Dauer der Beschlagnahme in den beschlagnahmten Gegenstand die Zwangsvollstreckung betreiben oder den Arrest vollziehen. Die Eintragung des Veräußerungsverbotes im Grundbuch zugunsten des Staates gilt für die Anwendung des § 892 Abs. 1 Satz 2 des Bürgerlichen Gesetzbuches auch als Eintragung zugunsten solcher Verletzter, die während der Dauer der Beschlagnahme als Begünstigte aus dem Veräußerungsverbot in das Grundbuch eingetragen werden. Der Nachweis, daß der Anspruch aus der Straftat erwachsen ist, kann gegenüber dem Grundbuchamt durch Vorlage des Zulassungsbeschlusses geführt werden. Die Sätze 2 und 3 gelten sinngemäß für das Veräußerungsverbot bei den in § 111c Abs. 4 genannten Schiffen, Schiffsbauwerken und Luftfahrzeugen. Die Wirksamkeit des Veräußerungsverbotes zugunsten des Verletzten wird durch die Aufhebung der Beschlagnahme nicht berührt. Die Sätze 1 und 5 gelten entsprechend für die Wirkung des Pfandrechts, das durch die Vollziehung eines Arrestes (§ 111d) in das bewegliche Vermögen entstanden ist.
+(1) Beschlagnahme und Vermögensarrest werden durch das Gericht angeordnet. Bei Gefahr im Verzug kann die Anordnung auch durch die Staatsanwaltschaft erfolgen. Unter der Voraussetzung des Satzes 2 sind zur Beschlagnahme einer beweglichen Sache auch die Ermittlungspersonen der Staatsanwaltschaft (§ 152 des Gerichtsverfassungsgesetzes) befugt.
 
-(4) Unterliegt der Gegenstand, der beschlagnahmt oder aufgrund des Arrestes gepfändet worden ist, aus anderen als den in § 73 Abs. 1 Satz 2 des Strafgesetzbuches bezeichneten Gründen nicht dem Verfall oder ist die Zulassung zu Unrecht erfolgt, so ist der Verletzte Dritten zum Ersatz des Schadens verpflichtet, der ihnen dadurch entsteht, daß das Veräußerungsverbot nach Absatz 3 zu seinen Gunsten gilt.
+(2) Hat die Staatsanwaltschaft die Beschlagnahme oder den Arrest angeordnet, so beantragt sie innerhalb einer Woche die gerichtliche Bestätigung der Anordnung. Dies gilt nicht, wenn die Beschlagnahme einer beweglichen Sache angeordnet ist. Der Betroffene kann in allen Fällen die Entscheidung des Gerichts beantragen. Die Zuständigkeit des Gerichts bestimmt sich nach § 162.
 
-(5) Die Absätze 1 bis 4 gelten entsprechend, wenn der Verfall eines Gegenstandes angeordnet, die Anordnung aber noch nicht rechtskräftig ist. Sie gelten nicht, wenn der Gegenstand der Einziehung unterliegt.
+### § 111k Verfahren bei der Vollziehung der Beschlagnahme und des Vermögensarrestes
 
-### § 111h Vorrangige Befriedigung von Ansprüchen des Verletzten bei dem dinglichen Arrest
+(1) Beschlagnahme und Vermögensarrest werden durch die Staatsanwaltschaft vollzogen. Soweit ein Arrest nach den Vorschriften über die Pfändung in bewegliche Sachen zu vollziehen ist, kann dies durch die in § 2 des Justizbeitreibungsgesetzes bezeichnete Behörde, den Gerichtsvollzieher, die Staatsanwaltschaft oder durch deren Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) vollzogen werden. Die Beschlagnahme beweglicher Sachen kann auch durch die Ermittlungspersonen der Staatsanwaltschaft (§ 152 des Gerichtsverfassungsgesetzes) vollzogen werden. § 98 Absatz 4 gilt entsprechend.
 
-(1) Betreibt der Verletzte wegen eines aus der Straftat erwachsenen Anspruches die Zwangsvollstreckung oder vollzieht er einen Arrest in ein Grundstück, in welches ein Arrest nach § 111d vollzogen ist, so kann er verlangen, daß die durch den Vollzug dieses Arrestes begründete Sicherungshypothek hinter seinem Recht im Rang zurücktritt. Der dem vortretenden Recht eingeräumte Rang geht nicht dadurch verloren, daß der Arrest aufgehoben wird. Die Zustimmung des Eigentümers zur Rangänderung ist nicht erforderlich. Im übrigen ist § 880 des Bürgerlichen Gesetzbuches sinngemäß anzuwenden.
+(2) Für die Zustellung gilt § 37 Absatz 1 mit der Maßgabe, dass auch die Ermittlungspersonen der Staatsanwaltschaft (§ 152 des Gerichtsverfassungsgesetzes) mit der Ausführung beauftragt werden können. Für Zustellungen an ein im Inland zum Geschäftsbetrieb befugtes Kreditinstitut gilt § 174 der Zivilprozessordnung entsprechend.
 
-(2) Die Rangänderung bedarf der Zulassung durch den Richter, der für den Arrest (§ 111d) zuständig ist. § 111g Abs. 2 Satz 2 bis 4 und Abs. 3 Satz 3 ist entsprechend anzuwenden.
+(3) Gegen Maßnahmen, die in Vollziehung der Beschlagnahme oder des Vermögensarrestes getroffen werden, kann der Betroffene die Entscheidung des nach § 162 zuständigen Gerichts beantragen.
 
-(3) Ist die Zulassung zu Unrecht erfolgt, so ist der Verletzte Dritten zum Ersatz des Schadens verpflichtet, der ihnen durch die Rangänderung entsteht.
+### § 111l Mitteilungen
 
-(4) Die Absätze 1 bis 3 gelten entsprechend, wenn der Arrest nach § 111d in ein Schiff, Schiffsbauwerk oder Luftfahrzeug im Sinne des § 111c Abs. 4 Satz 2 vollzogen ist.
+(1) Die Staatsanwaltschaft teilt die Vollziehung der Beschlagnahme oder des Vermögensarrestes dem Verletzten mit.
 
-### § 111i Aufrechterhaltung der Beschlagnahme für einen befristeten Zeitraum
+(2) In den Fällen der Beschlagnahme einer beweglichen Sache ist die Mitteilung mit dem Hinweis auf den Regelungsgehalt des Verfahrens über die Herausgabe nach den §§ 111n und 111o zu verbinden.
 
-(1) Das Gericht kann anordnen, dass die Beschlagnahme nach § 111c oder der Arrest nach § 111d für die Dauer von höchstens drei Monaten aufrechterhalten wird, soweit das Verfahren nach den §§ 430 und 442 Abs. 1 auf die anderen Rechtsfolgen beschränkt worden ist und die sofortige Aufhebung gegenüber dem Verletzten unbillig wäre.
+(3) Wird ein Vermögensarrest vollzogen, so fordert die Staatsanwaltschaft den Verletzten zugleich mit der Mitteilung auf zu erklären, ob und in welcher Höhe er den Anspruch auf Ersatz des Wertes des Erlangten, der ihm aus der Tat erwachsen ist, geltend machen wolle. Die Mitteilung ist mit dem Hinweis auf den Regelungsgehalt des § 111h Absatz 2 und der Verfahren nach § 111i Absatz 2, § 459h Absatz 2 sowie § 459k zu verbinden.
 
-(2) Hat das Gericht lediglich deshalb nicht auf Verfall erkannt, weil Ansprüche eines Verletzten im Sinne des § 73 Abs. 1 Satz 2 des Strafgesetzbuchs entgegenstehen, kann es dies im Urteil feststellen. In diesem Fall hat es das Erlangte zu bezeichnen. Liegen insoweit die Voraussetzungen des § 73a des Strafgesetzbuchs vor, stellt es im Urteil den Geldbetrag fest, der dem Wert des Erlangten entspricht. Soweit
+(4) Die Mitteilung kann durch einmalige Bekanntmachung im Bundesanzeiger erfolgen, wenn eine Mitteilung gegenüber jedem einzelnen Verletzten mit unverhältnismäßigem Aufwand verbunden wäre. Zusätzlich kann die Mitteilung auch in anderer geeigneter Weise veröffentlicht werden. Gleiches gilt, wenn der Verletzte unbekannt oder unbekannten Aufenthalts ist. Personendaten dürfen nur veröffentlicht werden, soweit ihre Angabe zur Wahrung der Rechte der Verletzten unerlässlich ist. Nach Beendigung der Sicherungsmaßnahmen veranlasst die Staatsanwaltschaft die Löschung der Bekanntmachung.
 
-1.  
-der Verletzte bereits im Wege der Zwangsvollstreckung oder der Arrestvollziehung verfügt hat,
+### § 111m Verwaltung beschlagnahmter oder gepfändeter Gegenstände
 
-2.  
-der Verletzte nachweislich aus Vermögen befriedigt wurde, das nicht beschlagnahmt oder im Wege der Arrestvollziehung gepfändet worden ist, oder
+(1) Die Verwaltung von Gegenständen, die nach § 111c beschlagnahmt oder auf Grund eines Vermögensarrestes nach § 111f gepfändet worden sind, obliegt der Staatsanwaltschaft. Sie kann ihre Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) oder den Gerichtsvollzieher mit der Verwaltung beauftragen. In geeigneten Fällen kann auch eine andere Person mit der Verwaltung beauftragt werden.
 
-3.  
-dem Verletzten die erlangte Sache nach § 111k herausgegeben worden ist,
+(2) Gegen Maßnahmen, die im Rahmen der Verwaltung nach Absatz 1 getroffen werden, kann der Betroffene die Entscheidung des nach § 162 zuständigen Gerichts beantragen.
 
-ist dies im Rahmen der nach den Sätzen 2 und 3 zu treffenden Feststellungen in Abzug zu bringen.
+### § 111n Herausgabe beweglicher Sachen
 
-(3) Soweit das Gericht nach Absatz 2 verfährt, hält es die Beschlagnahme (§ 111c) des im Sinne des Absatzes 2 Satz 2 und 4 Erlangten sowie den dinglichen Arrest (§ 111d) bis zur Höhe des nach Absatz 2 Satz 3 und 4 festgestellten Betrages durch Beschluss für drei Jahre aufrecht. Die Frist beginnt mit Rechtskraft des Urteils. Sichergestellte Vermögenswerte soll es bezeichnen. § 917 der Zivilprozessordnung ist nicht anzuwenden. Soweit der Verletzte innerhalb der Frist nachweislich aus Vermögen befriedigt wird, das nicht beschlagnahmt oder im Wege der Arrestvollziehung gepfändet worden ist, hebt das Gericht die Beschlagnahme (§ 111c) oder den dinglichen Arrest (§ 111d) auf Antrag des Betroffenen auf.
+(1) Wird eine bewegliche Sache, die nach § 94 beschlagnahmt oder auf andere Weise sichergestellt oder nach § 111c Absatz 1 beschlagnahmt worden ist, für Zwecke des Strafverfahrens nicht mehr benötigt, so wird sie an den letzten Gewahrsamsinhaber herausgegeben.
 
-(4) Die Anordnung nach Absatz 3 sowie der Eintritt der Rechtskraft sind dem durch die Tat Verletzten unverzüglich durch das Gericht mitzuteilen. Die Mitteilung ist zu verbinden mit dem Hinweis auf die in Absatz 5 genannten Folgen und auf die Möglichkeit, Ansprüche im Wege der Zwangsvollstreckung oder Arrestvollziehung durchzusetzen. § 111e Abs. 4 Satz 1 bis 3 gilt entsprechend.
+(2) Abweichend von Absatz 1 wird die Sache an den Verletzten herausgegeben, dem sie durch die Straftat entzogen worden ist, wenn dieser bekannt ist.
 
-(5) Mit Ablauf der in Absatz 3 genannten Frist erwirbt der Staat die nach Absatz 2 bezeichneten Vermögenswerte entsprechend § 73e Abs. 1 des Strafgesetzbuchs sowie einen Zahlungsanspruch in Höhe des nach Absatz 2 festgestellten Betrages, soweit nicht
+(3) Steht der Herausgabe an den letzten Gewahrsamsinhaber oder den Verletzten der Anspruch eines Dritten entgegen, wird die Sache an den Dritten herausgegeben, wenn dieser bekannt ist.
 
-1.  
-der Verletzte zwischenzeitlich wegen seiner Ansprüche im Wege der Zwangsvollstreckung oder der Arrestvollziehung verfügt hat,
+Die Herausgabe erfolgt nur, wenn ihre Voraussetzungen offenkundig sind.
 
-2.  
-der Verletzte nachweislich aus Vermögen befriedigt worden ist, das nicht beschlagnahmt oder im Wege der Arrestvollziehung gepfändet worden war,
+### § 111o Verfahren bei der Herausgabe
 
-3.  
-zwischenzeitlich Sachen nach § 111k an den Verletzten herausgegeben oder hinterlegt worden sind oder
+(1) Über die Herausgabe entscheidet im vorbereitenden Verfahren und nach rechtskräftigem Abschluss des Verfahrens die Staatsanwaltschaft, im Übrigen das mit der Sache befasste Gericht.
 
-4.  
-Sachen nach § 111k an den Verletzten herauszugeben gewesen wären und dieser die Herausgabe vor Ablauf der in Absatz 3 genannten Frist beantragt hat.
+(2) Gegen die Verfügung der Staatsanwaltschaft und ihrer Ermittlungspersonen können die Betroffenen die Entscheidung des nach § 162 zuständigen Gerichts beantragen.
 
-Zugleich kann der Staat das durch die Vollziehung des dinglichen Arrestes begründete Pfandrecht nach den Vorschriften des Achten Buches der Zivilprozessordnung verwerten. Der Erlös sowie hinterlegtes Geld fallen dem Staat zu. Mit der Verwertung erlischt der nach Satz 1 entstandene Zahlungsanspruch auch insoweit, als der Verwertungserlös hinter der Höhe des Anspruchs zurückbleibt.
+### § 111p Notveräußerung
 
-(6) Das Gericht des ersten Rechtszugs stellt den Eintritt und den Umfang des staatlichen Rechtserwerbs nach Absatz 5 Satz 1 durch Beschluss fest. § 111l Abs. 4 gilt entsprechend. Der Beschluss kann mit der sofortigen Beschwerde angefochten werden. Nach Rechtskraft des Beschlusses veranlasst das Gericht die Löschung der im Bundesanzeiger nach Absatz 4 vorgenommenen Veröffentlichungen.
+(1) Ein Gegenstand, der nach § 111c beschlagnahmt oder nach § 111f gepfändet worden ist, kann veräußert werden, wenn sein Verderb oder ein erheblicher Wertverlust droht oder seine Aufbewahrung, Pflege oder Erhaltung mit erheblichen Kosten oder Schwierigkeiten verbunden ist (Notveräußerung). Der Erlös tritt an die Stelle des veräußerten Gegenstandes.
 
-(7) Soweit der Verurteilte oder der von der Beschlagnahme oder dem dinglichen Arrest Betroffene die hierdurch gesicherten Ansprüche des Verletzten nach Ablauf der in Absatz 3 genannten Frist befriedigt, kann er bis zur Höhe des dem Staat zugeflossenen Verwertungserlöses Ausgleich verlangen. Der Ausgleich ist ausgeschlossen,
+(2) Die Notveräußerung wird durch die Staatsanwaltschaft angeordnet. Ihren Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) steht diese Befugnis zu, wenn der Gegenstand zu verderben droht, bevor die Entscheidung der Staatsanwaltschaft herbeigeführt werden kann.
 
-1.  
-soweit der Zahlungsanspruch des Staates nach Absatz 5 Satz 1 unter Anrechnung des vom Staat vereinnahmten Erlöses entgegensteht oder
+(3) Die von der Beschlagnahme oder Pfändung Betroffenen sollen vor der Anordnung gehört werden. Die Anordnung sowie Zeit und Ort der Veräußerung sind ihnen, soweit dies ausführbar erscheint, mitzuteilen.
 
-2.  
-wenn seit dem Ablauf der in Absatz 3 genannten Frist drei Jahre verstrichen sind.
+(4) Die Durchführung der Notveräußerung obliegt der Staatsanwaltschaft. Die Staatsanwaltschaft kann damit auch ihre Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) beauftragen. Für die Notveräußerung gelten im Übrigen die Vorschriften der Zivilprozessordnung über die Verwertung von Gegenständen sinngemäß.
 
-(8) In den Fällen des § 76a Abs. 1 oder 3 des Strafgesetzbuchs sind die Absätze 2 bis 7 auf das Verfahren nach den §§ 440 und 441 in Verbindung mit § 442 Abs. 1 entsprechend anzuwenden.
+(5) Gegen die Notveräußerung und ihre Durchführung kann der Betroffene die Entscheidung des nach § 162 zuständigen Gerichts beantragen. Das Gericht, in dringenden Fällen der Vorsitzende, kann die Aussetzung der Veräußerung anordnen.
 
-### § 111k Herausgabe beweglicher Sachen an den Verletzten
+### § 111q Beschlagnahme von Schriften und Vorrichtungen
 
-Wird eine bewegliche Sache, die nach § 94 beschlagnahmt oder sonst sichergestellt oder nach § 111c Abs. 1 beschlagnahmt worden ist, für Zwecke des Strafverfahrens nicht mehr benötigt, so soll sie dem Verletzten, dem sie durch die Straftat entzogen worden ist, herausgegeben werden, wenn er bekannt ist und Ansprüche Dritter nicht entgegenstehen. § 111f Abs. 5 ist anzuwenden. Die Staatsanwaltschaft kann die Entscheidung des Gerichts herbeiführen, wenn das Recht des Verletzten nicht offenkundig ist.
-
-### § 111l Notveräußerung beschlagnahmter oder gepfändeter Vermögenswerte
-
-(1) Vermögenswerte, die nach § 111c beschlagnahmt oder aufgrund eines Arrestes (§ 111d) gepfändet worden sind, dürfen vor der Rechtskraft des Urteils veräußert werden, wenn ihr Verderb oder eine wesentliche Minderung ihres Wertes droht oder ihre Aufbewahrung, Pflege oder Erhaltung mit unverhältnismäßigen Kosten oder Schwierigkeiten verbunden ist. In den Fällen des § 111i Abs. 2 können Vermögenswerte, die aufgrund eines Arrestes (§ 111d) gepfändet worden sind, nach Rechtskraft des Urteils veräußert werden, wenn dies zweckmäßig erscheint. Der Erlös tritt an deren Stelle.
-
-(2) Im vorbereitenden Verfahren und nach Rechtskraft des Urteils wird die Notveräußerung durch die Staatsanwaltschaft angeordnet. Ihren Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) steht diese Befugnis zu, wenn der Gegenstand zu verderben droht, bevor die Entscheidung der Staatsanwaltschaft herbeigeführt werden kann.
-
-(3) Nach Erhebung der öffentlichen Klage trifft die Anordnung das mit der Hauptsache befaßte Gericht. Der Staatsanwaltschaft steht diese Befugnis zu, wenn der Gegenstand zu verderben droht, bevor die Entscheidung des Gerichts herbeigeführt werden kann; Absatz 2 Satz 2 gilt entsprechend.
-
-(4) Der Beschuldigte, der Eigentümer und andere, denen Rechte an der Sache zustehen, sollen vor der Anordnung gehört werden. Die Anordnung sowie Zeit und Ort der Veräußerung sind ihnen, soweit dies ausführbar erscheint, mitzuteilen.
-
-(5) Die Notveräußerung wird nach den Vorschriften der Zivilprozeßordnung über die Verwertung einer gepfändeten Sache durchgeführt. An die Stelle des Vollstreckungsgerichts (§ 764 der Zivilprozeßordnung) tritt in den Fällen der Absätze 2 und 3 Satz 2 die Staatsanwaltschaft, in den Fällen des Absatzes 3 Satz 1 das mit der Hauptsache befaßte Gericht. Die nach § 825 der Zivilprozeßordnung zulässige Verwertung kann von Amts wegen oder auf Antrag der in Absatz 4 genannten Personen, im Falle des Absatzes 3 Satz 1 auch auf Antrag der Staatsanwaltschaft, gleichzeitig mit der Notveräußerung oder nachträglich angeordnet werden. Wenn dies zweckmäßig erscheint, kann die Notveräußerung auf andere Weise und durch eine andere Person als den Gerichtsvollzieher erfolgen.
-
-(6) Gegen Anordnungen der Staatsanwaltschaft oder ihrer Ermittlungspersonen kann der Betroffene gerichtliche Entscheidung durch das nach § 162 zuständige Gericht beantragen. Die §§ 297 bis 300, 302, 306 bis 309, 311a und 473a gelten entsprechend. Das Gericht, in dringenden Fällen der Vorsitzende, kann die Aussetzung der Veräußerung anordnen.
-
-### § 111m Beschlagnahme eines Druckwerks oder einer sonstigen Schrift
-
-(1) Die Beschlagnahme eines Druckwerks, einer sonstigen Schrift oder eines Gegenstandes im Sinne des § 74d des Strafgesetzbuches darf nach § 111b Abs. 1 nicht angeordnet werden, wenn ihre nachteiligen Folgen, insbesondere die Gefährdung des öffentlichen Interesses an unverzögerter Verbreitung offenbar außer Verhältnis zu der Bedeutung der Sache stehen.
+(1) Die Beschlagnahme einer Schrift oder einer Vorrichtung im Sinne des § 74d des Strafgesetzbuches darf nach § 111b Absatz 1 nicht angeordnet werden, wenn ihre nachteiligen Folgen, insbesondere die Gefährdung des öffentlichen Interesses an unverzögerter Verbreitung, offenbar außer Verhältnis zu der Bedeutung der Sache stehen.
 
 (2) Ausscheidbare Teile der Schrift, die nichts Strafbares enthalten, sind von der Beschlagnahme auszuschließen. Die Beschlagnahme kann in der Anordnung weiter beschränkt werden.
 
-(3) In der Anordnung der Beschlagnahme sind die Stellen der Schrift, die zur Beschlagnahme Anlaß geben, zu bezeichnen.
+(3) Die Beschlagnahme kann dadurch abgewendet werden, dass der Betroffene den Teil der Schrift, der zur Beschlagnahme Anlass gibt, von der Vervielfältigung oder der Verbreitung ausschließt.
 
-(4) Die Beschlagnahme kann dadurch abgewendet werden, daß der Betroffene den Teil der Schrift, der zur Beschlagnahme Anlaß gibt, von der Vervielfältigung oder der Verbreitung ausschließt.
+(4) Die Beschlagnahme einer periodisch erscheinenden Schrift oder einer zu deren Herstellung gebrauchten oder bestimmten Vorrichtung im Sinne des § 74d des Strafgesetzbuches ordnet das Gericht an. Die Beschlagnahme einer anderen Schrift oder einer zu deren Herstellung gebrauchten oder bestimmten Vorrichtung im Sinne des § 74d des Strafgesetzbuches kann bei Gefahr in Verzug auch die Staatsanwaltschaft anordnen. Die Anordnung der Staatsanwaltschaft tritt außer Kraft, wenn sie nicht binnen drei Tagen von dem Gericht bestätigt wird. In der Anordnung der Beschlagnahme sind die Stellen der Schrift, die zur Beschlagnahme Anlass geben, zu bezeichnen.
 
-### § 111n Verfahren bei der Beschlagnahme eines Druckwerks
-
-(1) Die Beschlagnahme eines periodischen Druckwerks oder eines ihm gleichstehenden Gegenstandes im Sinne des § 74d des Strafgesetzbuches darf nur durch den Richter angeordnet werden. Die Beschlagnahme eines anderen Druckwerks oder eines sonstigen Gegenstandes im Sinne des § 74d des Strafgesetzbuches kann bei Gefahr im Verzug auch durch die Staatsanwaltschaft angeordnet werden. Die Anordnung der Staatsanwaltschaft tritt außer Kraft, wenn sie nicht binnen drei Tagen von dem Richter bestätigt wird.
-
-(2) Die Beschlagnahme ist aufzuheben, wenn nicht binnen zwei Monaten die öffentliche Klage erhoben oder die selbständige Einziehung beantragt ist. Reicht die in Satz 1 bezeichnete Frist wegen des besonderen Umfanges der Ermittlungen nicht aus, so kann das Gericht auf Antrag der Staatsanwaltschaft die Frist um weitere zwei Monate verlängern. Der Antrag kann einmal wiederholt werden.
-
-(3) Solange weder die öffentliche Klage erhoben noch die selbständige Einziehung beantragt worden ist, ist die Beschlagnahme aufzuheben, wenn die Staatsanwaltschaft es beantragt.
+(5) Eine Beschlagnahme nach Absatz 4 ist aufzuheben, wenn nicht binnen zwei Monaten die öffentliche Klage erhoben oder die selbständige Einziehung beantragt ist. Reicht die in Satz 1 bezeichnete Frist wegen des besonderen Umfanges der Ermittlungen nicht aus, kann das Gericht auf Antrag der Staatsanwaltschaft die Frist um weitere zwei Monate verlängern. Der Antrag kann einmal wiederholt werden. Vor Erhebung der öffentlichen Klage oder vor Beantragung der selbständigen Einziehung ist die Beschlagnahme aufzuheben, wenn die Staatsanwaltschaft dies beantragt.
 
 Neunter Abschnitt Verhaftung und vorläufige Festnahme
 -----------------------------------------------------
@@ -3110,17 +3199,17 @@ andere zu solchem Verhalten veranlassen,
 
 und wenn deshalb die Gefahr droht, daß die Ermittlung der Wahrheit erschwert werde (Verdunkelungsgefahr).
 
-(3) Gegen den Beschuldigten, der einer Straftat nach § 6 Abs. 1 Nr. 1 des Völkerstrafgesetzbuches oder § 129a Abs. 1 oder Abs. 2, auch in Verbindung mit § 129b Abs. 1, oder nach den §§ 211, 212, 226, 306b oder 306c des Strafgesetzbuches oder, soweit durch die Tat Leib oder Leben eines anderen gefährdet worden ist, nach § 308 Abs. 1 bis 3 des Strafgesetzbuches dringend verdächtig ist, darf die Untersuchungshaft auch angeordnet werden, wenn ein Haftgrund nach Absatz 2 nicht besteht.
+(3) Gegen den Beschuldigten, der einer Straftat nach § 6 Absatz 1 Nummer 1 oder § 13 Absatz 1 des Völkerstrafgesetzbuches oder § 129a Abs. 1 oder Abs. 2, auch in Verbindung mit § 129b Abs. 1, oder nach den §§ 211, 212, 226, 306b oder 306c des Strafgesetzbuches oder, soweit durch die Tat Leib oder Leben eines anderen gefährdet worden ist, nach § 308 Abs. 1 bis 3 des Strafgesetzbuches dringend verdächtig ist, darf die Untersuchungshaft auch angeordnet werden, wenn ein Haftgrund nach Absatz 2 nicht besteht.
 
 ### § 112a Haftgrund der Wiederholungsgefahr
 
 (1) Ein Haftgrund besteht auch, wenn der Beschuldigte dringend verdächtig ist,
 
 1.  
-eine Straftat nach den §§ 174, 174a, 176 bis 179 oder nach § 238 Abs. 2 und 3 des Strafgesetzbuches oder
+eine Straftat nach den §§ 174, 174a, 176 bis 178 oder nach § 238 Abs. 2 und 3 des Strafgesetzbuches oder
 
 2.  
-wiederholt oder fortgesetzt eine die Rechtsordnung schwerwiegend beeinträchtigende Straftat nach den §§ 89a, 89c Absatz 1 bis 4, nach § 125a, nach den §§ 224 bis 227, nach den §§ 243, 244, 249 bis 255, 260, nach § 263, nach den §§ 306 bis 306c oder § 316a des Strafgesetzbuches oder nach § 29 Abs. 1 Nr. 1, 4, 10 oder Abs. 3, § 29a Abs. 1, § 30 Abs. 1, § 30a Abs. 1 des Betäubungsmittelgesetzes
+wiederholt oder fortgesetzt eine die Rechtsordnung schwerwiegend beeinträchtigende Straftat nach den §§ 89a, 89c Absatz 1 bis 4, nach § 125a, nach den §§ 224 bis 227, nach den §§ 243, 244, 249 bis 255, 260, nach § 263, nach den §§ 306 bis 306c oder § 316a des Strafgesetzbuches oder nach § 29 Absatz 1 Satz 1 Nummer 1, 10 oder Abs. 3, § 29a Abs. 1, § 30 Abs. 1, § 30a Abs. 1 des Betäubungsmittelgesetzes oder nach § 4 Absatz 3 Nummer 1 Buchstabe a des Neue-psychoaktive-Stoffe-Gesetzes
 
 begangen zu haben, und bestimmte Tatsachen die Gefahr begründen, daß er vor rechtskräftiger Aburteilung weitere erhebliche Straftaten gleicher Art begehen oder die Straftat fortsetzen werde, die Haft zur Abwendung der drohenden Gefahr erforderlich und in den Fällen der Nummer 2 eine Freiheitsstrafe von mehr als einem Jahr zu erwarten ist. In die Beurteilung des dringenden Verdachts einer Tatbegehung im Sinne des Satzes 1 Nummer 2 sind auch solche Taten einzubeziehen, die Gegenstand anderer, auch rechtskräftig abgeschlossener, Verfahren sind oder waren.
 
@@ -3190,7 +3279,7 @@ in den Fällen des § 140 Absatz 1 und 2 die Bestellung eines Verteidigers nach 
 das Recht hat, die Untersuchung durch einen Arzt oder eine Ärztin seiner Wahl zu verlangen,
 
 6.  
-einen Angehörigen oder eine Person seines Vertrauens benachrichtigen kann, soweit der Zweck der Untersuchung dadurch nicht gefährdet wird,
+einen Angehörigen oder eine Person seines Vertrauens benachrichtigen kann, soweit der Zweck der Untersuchung dadurch nicht erheblich gefährdet wird,
 
 7.  
 nach Maßgabe des § 147 Absatz 7 beantragen kann, Auskünfte und Abschriften aus den Akten zu erhalten, soweit er keinen Verteidiger hat, und
@@ -3211,7 +3300,7 @@ Der Beschuldigte ist auf das Akteneinsichtsrecht des Verteidigers nach § 147 hi
 
 ### § 114c Benachrichtigung von Angehörigen
 
-(1) Einem verhafteten Beschuldigten ist unverzüglich Gelegenheit zu geben, einen Angehörigen oder eine Person seines Vertrauens zu benachrichtigen, sofern der Zweck der Untersuchung dadurch nicht gefährdet wird.
+(1) Einem verhafteten Beschuldigten ist unverzüglich Gelegenheit zu geben, einen Angehörigen oder eine Person seines Vertrauens zu benachrichtigen, sofern der Zweck der Untersuchung dadurch nicht erheblich gefährdet wird.
 
 (2) Wird gegen einen verhafteten Beschuldigten nach der Vorführung vor das Gericht Haft vollzogen, hat das Gericht die unverzügliche Benachrichtigung eines seiner Angehörigen oder einer Person seines Vertrauens anzuordnen. Die gleiche Pflicht besteht bei jeder weiteren Entscheidung über die Fortdauer der Haft.
 
@@ -3682,7 +3771,7 @@ Der Beschuldigte ist unverzüglich dem Richter vorzuführen und von diesem zu ve
 
 ### § 136 Erste Vernehmung
 
-(1) Bei Beginn der ersten Vernehmung ist dem Beschuldigten zu eröffnen, welche Tat ihm zu Last gelegt wird und welche Strafvorschriften in Betracht kommen. Er ist darauf hinzuweisen, daß es ihm nach dem Gesetz freistehe, sich zu der Beschuldigung zu äußern oder nicht zur Sache auszusagen und jederzeit, auch schon vor seiner Vernehmung, einen von ihm zu wählenden Verteidiger zu befragen. Er ist ferner darüber zu belehren, daß er zu seiner Entlastung einzelne Beweiserhebungen beantragen und unter den Voraussetzungen des § 140 Absatz 1 und 2 die Bestellung eines Verteidigers nach Maßgabe des § 141 Absatz 1 und 3 beanspruchen kann. In geeigneten Fällen soll der Beschuldigte auch darauf, dass er sich schriftlich äußern kann, sowie auf die Möglichkeit eines Täter-Opfer-Ausgleichs hingewiesen werden.
+(1) Bei Beginn der ersten Vernehmung ist dem Beschuldigten zu eröffnen, welche Tat ihm zu Last gelegt wird und welche Strafvorschriften in Betracht kommen. Er ist darauf hinzuweisen, daß es ihm nach dem Gesetz freistehe, sich zu der Beschuldigung zu äußern oder nicht zur Sache auszusagen und jederzeit, auch schon vor seiner Vernehmung, einen von ihm zu wählenden Verteidiger zu befragen. Möchte der Beschuldigte vor seiner Vernehmung einen Verteidiger befragen, sind ihm Informationen zur Verfügung zu stellen, die es ihm erleichtern, einen Verteidiger zu kontaktieren. Auf bestehende anwaltliche Notdienste ist dabei hinzuweisen.Er ist ferner darüber zu belehren, daß er zu seiner Entlastung einzelne Beweiserhebungen beantragen und unter den Voraussetzungen des § 140 Absatz 1 und 2 die Bestellung eines Verteidigers nach Maßgabe des § 141 Absatz 1 und 3 beanspruchen kann; zu Letzterem ist er dabei auf die Kostenfolge des § 465 hinzuweisen. In geeigneten Fällen soll der Beschuldigte auch darauf, dass er sich schriftlich äußern kann, sowie auf die Möglichkeit eines Täter-Opfer-Ausgleichs hingewiesen werden.
 
 (2) Die Vernehmung soll dem Beschuldigten Gelegenheit geben, die gegen ihn vorliegenden Verdachtsgründe zu beseitigen und die zu seinen Gunsten sprechenden Tatsachen geltend zu machen.
 
@@ -3824,9 +3913,9 @@ dem Verletzten nach den §§ 397a und 406h Absatz 3 und 4 ein Rechtsanwalt beige
 
 (2) Ergibt sich erst später, daß ein Verteidiger notwendig ist, so wird er sofort bestellt.
 
-(3) Der Verteidiger kann auch schon während des Vorverfahrens bestellt werden. Die Staatsanwaltschaft beantragt dies, wenn nach ihrer Auffassung in dem gerichtlichen Verfahren die Mitwirkung eines Verteidigers nach § 140 Abs. 1 oder 2 notwendig sein wird. Nach dem Abschluß der Ermittlungen (§ 169a) ist er auf Antrag der Staatsanwaltschaft zu bestellen. Im Fall des § 140 Abs. 1 Nr. 4 wird der Verteidiger unverzüglich nach Beginn der Vollstreckung bestellt.
+(3) Der Verteidiger kann auch schon während des Vorverfahrens bestellt werden. Die Staatsanwaltschaft beantragt dies, wenn nach ihrer Auffassung in dem gerichtlichen Verfahren die Mitwirkung eines Verteidigers nach § 140 Abs. 1 oder 2 notwendig sein wird. Nach dem Abschluß der Ermittlungen (§ 169a) ist er auf Antrag der Staatsanwaltschaft zu bestellen. Das Gericht, bei dem eine richterliche Vernehmung durchzuführen ist, bestellt dem Beschuldigten einen Verteidiger, wenn die Staatsanwaltschaft dies beantragt oder wenn die Mitwirkung eines Verteidigers aufgrund der Bedeutung der Vernehmung zur Wahrung der Rechte des Beschuldigten geboten erscheint. Im Fall des § 140 Abs. 1 Nr. 4 wird der Verteidiger unverzüglich nach Beginn der Vollstreckung bestellt.
 
-(4) Über die Bestellung entscheidet der Vorsitzende des Gerichts, das für das Hauptverfahren zuständig oder bei dem das Verfahren anhängig ist, oder das Gericht, das für eine von der Staatsanwaltschaft gemäß § 162 Absatz 1 Satz 1 oder Satz 3 beantragte richterliche Vernehmung zuständig ist, wenn die Staatsanwaltschaft dies zur Beschleunigung des Verfahrens für erforderlich hält; im Fall des § 140 Absatz 1 Nummer 4 entscheidet das nach § 126 oder § 275a Absatz 6 zuständige Gericht.
+(4) Über die Bestellung entscheidet der Vorsitzende des Gerichts, bei dem das Verfahren anhängig ist. Vor Erhebung der Anklage entscheidet das Amtsgericht, in dessen Bezirk die Staatsanwaltschaft oder ihre zuständige Zweigstelle ihren Sitz hat, oder das nach § 162 Absatz 1 Satz 3 zuständige Gericht; im Fall des § 140 Absatz 1 Nummer 4 entscheidet das nach § 126 oder § 275a Absatz 6 zuständige Gericht.
 
 ### § 142 Auswahl des zu bestellenden Pflichtverteidigers
 
@@ -3963,7 +4052,7 @@ an einem Aufbauseminar nach § 2b Abs. 2 Satz 2 oder an einem Fahreignungssemina
 
 Zur Erfüllung der Auflagen und Weisungen setzt die Staatsanwaltschaft dem Beschuldigten eine Frist, die in den Fällen des Satzes 2 Nummer 1 bis 3, 5 und 7 höchstens sechs Monate, in den Fällen des Satzes 2 Nummer 4 und 6 höchstens ein Jahr beträgt. Die Staatsanwaltschaft kann Auflagen und Weisungen nachträglich aufheben und die Frist einmal für die Dauer von drei Monaten verlängern; mit Zustimmung des Beschuldigten kann sie auch Auflagen und Weisungen nachträglich auferlegen und ändern. Erfüllt der Beschuldigte die Auflagen und Weisungen, so kann die Tat nicht mehr als Vergehen verfolgt werden. Erfüllt der Beschuldigte die Auflagen und Weisungen nicht, so werden Leistungen, die er zu ihrer Erfüllung erbracht hat, nicht erstattet. § 153 Abs. 1 Satz 2 gilt in den Fällen des Satzes 2 Nummer 1 bis 6 entsprechend. § 246a Absatz 2 gilt entsprechend.
 
-(2) Ist die Klage bereits erhoben, so kann das Gericht mit Zustimmung der Staatsanwaltschaft und des Angeschuldigten das Verfahren bis zum Ende der Hauptverhandlung, in der die tatsächlichen Feststellungen letztmals geprüft werden können, vorläufig einstellen und zugleich dem Angeschuldigten die in Absatz 1 Satz 1 und 2 bezeichneten Auflagen und Weisungen erteilen. Absatz 1 Satz 3 bis 6 und 8 gilt entsprechend. Die Entscheidung nach Satz 1 ergeht durch Beschluß. Der Beschluß ist nicht anfechtbar. Satz 4 gilt auch für eine Feststellung, daß gemäß Satz 1 erteilte Auflagen und Weisungen erfüllt worden sind.
+(2) Ist die Klage bereits erhoben, so kann das Gericht mit Zustimmung der Staatsanwaltschaft und des Angeschuldigten das Verfahren vorläufig einstellen und zugleich dem Angeschuldigten die in Absatz 1 Satz 1 und 2 bezeichneten Auflagen und Weisungen erteilen. Absatz 1 Satz 3 bis 6 und 8 gilt entsprechend. Die Entscheidung nach Satz 1 ergeht durch Beschluß. Der Beschluß ist nicht anfechtbar. Satz 4 gilt auch für eine Feststellung, daß gemäß Satz 1 erteilte Auflagen und Weisungen erfüllt worden sind.
 
 (3) Während des Laufes der für die Erfüllung der Auflagen und Weisungen gesetzten Frist ruht die Verjährung.
 
@@ -4012,9 +4101,9 @@ Für Taten, die nach dem Völkerstrafgesetzbuch strafbar sind, gilt § 153f.
 
 ### § 153f Absehen von der Verfolgung bei Straftaten nach dem Völkerstrafgesetzbuch
 
-(1) Die Staatsanwaltschaft kann von der Verfolgung einer Tat, die nach den §§ 6 bis 14 des Völkerstrafgesetzbuches strafbar ist, in den Fällen des § 153c Abs. 1 Nr. 1 und 2 absehen, wenn sich der Beschuldigte nicht im Inland aufhält und ein solcher Aufenthalt auch nicht zu erwarten ist. Ist in den Fällen des § 153c Abs. 1 Nr. 1 der Beschuldigte Deutscher, so gilt dies jedoch nur dann, wenn die Tat vor einem internationalen Gerichtshof oder durch einen Staat, auf dessen Gebiet die Tat begangen oder dessen Angehöriger durch die Tat verletzt wurde, verfolgt wird.
+(1) Die Staatsanwaltschaft kann von der Verfolgung einer Tat, die nach den §§ 6 bis 15 des Völkerstrafgesetzbuches strafbar ist, in den Fällen des § 153c Abs. 1 Nr. 1 und 2 absehen, wenn sich der Beschuldigte nicht im Inland aufhält und ein solcher Aufenthalt auch nicht zu erwarten ist. Ist in den Fällen des § 153c Abs. 1 Nr. 1 der Beschuldigte Deutscher, so gilt dies jedoch nur dann, wenn die Tat vor einem internationalen Gerichtshof oder durch einen Staat, auf dessen Gebiet die Tat begangen oder dessen Angehöriger durch die Tat verletzt wurde, verfolgt wird.
 
-(2) Die Staatsanwaltschaft kann insbesondere von der Verfolgung einer Tat, die nach den §§ 6 bis 14 des Völkerstrafgesetzbuches strafbar ist, in den Fällen des § 153c Abs. 1 Nr. 1 und 2 absehen, wenn
+(2) Die Staatsanwaltschaft kann insbesondere von der Verfolgung einer Tat, die nach den §§ 6 bis 12, 14 und 15 des Völkerstrafgesetzbuches strafbar ist, in den Fällen des § 153c Abs. 1 Nr. 1 und 2 absehen, wenn
 
 1.  
 kein Tatverdacht gegen einen Deutschen besteht,
@@ -4080,7 +4169,7 @@ nicht beträchtlich ins Gewicht, so kann die Verfolgung auf die übrigen Teile d
 
 (1) Ist eine Nötigung oder Erpressung (§§ 240, 253 des Strafgesetzbuches) durch die Drohung begangen worden, eine Straftat zu offenbaren, so kann die Staatsanwaltschaft von der Verfolgung der Tat, deren Offenbarung angedroht worden ist, absehen, wenn nicht wegen der Schwere der Tat eine Sühne unerläßlich ist.
 
-(2) Zeigt das Opfer einer Nötigung oder Erpressung (§§ 240, 253 des Strafgesetzbuches) diese an (§ 158) und wird hierdurch bedingt ein vom Opfer begangenes Vergehen bekannt, so kann die Staatsanwaltschaft von der Verfolgung des Vergehens absehen, wenn nicht wegen der Schwere der Tat eine Sühne unerlässlich ist.
+(2) Zeigt das Opfer einer Nötigung oder Erpressung oder eines Menschenhandels (§§ 240, 253, 232 des Strafgesetzbuches) diese Straftat an (§ 158) und wird hierdurch bedingt ein vom Opfer begangenes Vergehen bekannt, so kann die Staatsanwaltschaft von der Verfolgung des Vergehens absehen, wenn nicht wegen der Schwere der Tat eine Sühne unerlässlich ist.
 
 ### § 154d Verfolgung bei zivil- oder verwaltungsrechtlicher Vorfrage
 
@@ -4175,7 +4264,7 @@ der Unrechtsgehalt der Tat gering ist und der verletzten Person die Anzeige im A
 
 (4) Die Absätze 1 bis 3 sind nicht anzuwenden, wenn bestimmte Tatsachen den Verdacht begründen, dass die zeugnisverweigerungsberechtigte Person an der Tat oder an einer Datenhehlerei, Begünstigung, Strafvereitelung oder Hehlerei beteiligt ist. Ist die Tat nur auf Antrag oder nur mit Ermächtigung verfolgbar, ist Satz 1 in den Fällen des § 53 Abs. 1 Satz 1 Nr. 5 anzuwenden, sobald und soweit der Strafantrag gestellt oder die Ermächtigung erteilt ist.
 
-(5) Die §§ 97, 100c Absatz 6 und § 100g Absatz 4 bleiben unberührt.
+(5) Die §§ 97, 100d Absatz 5 und § 100g Absatz 4 bleiben unberührt.
 
 ### § 160b Erörterung des Verfahrensstands mit den Verfahrensbeteiligten
 
@@ -4185,7 +4274,7 @@ Die Staatsanwaltschaft kann den Stand des Verfahrens mit den Verfahrensbeteiligt
 
 (1) Zu dem in § 160 Abs. 1 bis 3 bezeichneten Zweck ist die Staatsanwaltschaft befugt, von allen Behörden Auskunft zu verlangen und Ermittlungen jeder Art entweder selbst vorzunehmen oder durch die Behörden und Beamten des Polizeidienstes vornehmen zu lassen, soweit nicht andere gesetzliche Vorschriften ihre Befugnisse besonders regeln. Die Behörden und Beamten des Polizeidienstes sind verpflichtet, dem Ersuchen oder Auftrag der Staatsanwaltschaft zu genügen, und in diesem Falle befugt, von allen Behörden Auskunft zu verlangen.
 
-(2) Ist eine Maßnahme nach diesem Gesetz nur bei Verdacht bestimmter Straftaten zulässig, so dürfen die auf Grund einer entsprechenden Maßnahme nach anderen Gesetzen erlangten personenbezogenen Daten ohne Einwilligung der von der Maßnahme betroffenen Personen zu Beweiszwecken im Strafverfahren nur zur Aufklärung solcher Straftaten verwendet werden, zu deren Aufklärung eine solche Maßnahme nach diesem Gesetz hätte angeordnet werden dürfen. § 100d Abs. 5 Nr. 3 bleibt unberührt.
+(2) Ist eine Maßnahme nach diesem Gesetz nur bei Verdacht bestimmter Straftaten zulässig, so dürfen die auf Grund einer entsprechenden Maßnahme nach anderen Gesetzen erlangten personenbezogenen Daten ohne Einwilligung der von der Maßnahme betroffenen Personen zu Beweiszwecken im Strafverfahren nur zur Aufklärung solcher Straftaten verwendet werden, zu deren Aufklärung eine solche Maßnahme nach diesem Gesetz hätte angeordnet werden dürfen. § 100e Absatz 6 Nummer 3 bleibt unberührt.
 
 (3) In oder aus einer Wohnung erlangte personenbezogene Daten aus einem Einsatz technischer Mittel zur Eigensicherung im Zuge nicht offener Ermittlungen auf polizeirechtlicher Grundlage dürfen unter Beachtung des Grundsatzes der Verhältnismäßigkeit zu Beweiszwecken nur verwendet werden (Artikel 13 Abs. 5 des Grundgesetzes), wenn das Amtsgericht (§ 162 Abs. 1), in dessen Bezirk die anordnende Stelle ihren Sitz hat, die Rechtmäßigkeit der Maßnahme festgestellt hat; bei Gefahr im Verzug ist die richterliche Entscheidung unverzüglich nachzuholen.
 
@@ -4215,7 +4304,29 @@ Die Staatsanwaltschaft kann den Stand des Verfahrens mit den Verfahrensbeteiligt
 
 (2) Die Behörden und Beamten des Polizeidienstes übersenden ihre Verhandlungen ohne Verzug der Staatsanwaltschaft. Erscheint die schleunige Vornahme richterlicher Untersuchungshandlungen erforderlich, so kann die Übersendung unmittelbar an das Amtsgericht erfolgen.
 
-(3) Bei der Vernehmung eines Zeugen durch Beamte des Polizeidienstes sind § 48 Absatz 3, § 52 Absatz 3, § 55 Absatz 2, § 57 Satz 1 und die §§ 58, 58a, 58b, 68 bis 69 entsprechend anzuwenden. Über eine Gestattung nach § 68 Absatz 3 Satz 1 und über die Beiordnung eines Zeugenbeistands entscheidet die Staatsanwaltschaft; im Übrigen trifft die erforderlichen Entscheidungen die die Vernehmung leitende Person. Bei Entscheidungen durch Beamte des Polizeidienstes nach § 68b Absatz 1 Satz 3 gilt § 161a Absatz 3 Satz 2 bis 4 entsprechend. Für die Belehrung des Sachverständigen durch Beamte des Polizeidienstes gelten § 52 Absatz 3 und § 55 Absatz 2 entsprechend. In den Fällen des § 81c Absatz 3 Satz 1 und 2 gilt § 52 Absatz 3 auch bei Untersuchungen durch Beamte des Polizeidienstes sinngemäß. § 185 Absatz 1 und 2 des Gerichtsverfassungsgesetzes gilt entsprechend.
+(3) Zeugen sind verpflichtet, auf Ladung vor Ermittlungspersonen der Staatsanwaltschaft zu erscheinen und zur Sache auszusagen, wenn der Ladung ein Auftrag der Staatsanwaltschaft zugrunde liegt. Soweit nichts anderes bestimmt ist, gelten die Vorschriften des Sechsten Abschnitts des Ersten Buches entsprechend. Die eidliche Vernehmung bleibt dem Gericht vorbehalten.
+
+(4) Die Staatsanwaltschaft entscheidet
+
+1.  
+über die Zeugeneigenschaft oder das Vorliegen von Zeugnis- oder Auskunftsverweigerungsrechten, sofern insoweit Zweifel bestehen oder im Laufe der Vernehmung aufkommen,
+
+2.  
+über eine Gestattung nach § 68 Absatz 3 Satz 1, Angaben zur Person nicht oder nur über eine frühere Identität zu machen,
+
+3.  
+über die Beiordnung eines Zeugenbeistands nach § 68b Absatz 2 und
+
+4.  
+bei unberechtigtem Ausbleiben oder unberechtigter Weigerung des Zeugen über die Verhängung der in den §§ 51 und 70 vorgesehenen Maßregeln; dabei bleibt die Festsetzung der Haft dem nach § 162 zuständigen Gericht vorbehalten.
+
+Im Übrigen trifft die erforderlichen Entscheidungen die die Vernehmung leitende Person.
+
+(5) Gegen Entscheidungen von Beamten des Polizeidienstes nach § 68b Absatz 1 Satz 3 sowie gegen Entscheidungen der Staatsanwaltschaft nach Absatz 4 Satz 1 Nummer 3 und 4 kann gerichtliche Entscheidung durch das nach § 162 zuständige Gericht beantragt werden. Die §§ 297 bis 300, 302, 306 bis 309, 311a und 473a gelten jeweils entsprechend. Gerichtliche Entscheidungen nach Satz 1 sind unanfechtbar.
+
+(6) Für die Belehrung des Sachverständigen durch Beamte des Polizeidienstes gelten § 52 Absatz 3 und § 55 Absatz 2 entsprechend. In den Fällen des § 81c Absatz 3 Satz 1 und 2 gilt § 52 Absatz 3 auch bei Untersuchungen durch Beamte des Polizeidienstes sinngemäß.
+
+(7) § 185 Absatz 1 und 2 des Gerichtsverfassungsgesetzes gilt entsprechend.
 
 ### § 163a Vernehmung des Beschuldigten
 
@@ -4225,7 +4336,7 @@ Die Staatsanwaltschaft kann den Stand des Verfahrens mit den Verfahrensbeteiligt
 
 (3) Der Beschuldigte ist verpflichtet, auf Ladung vor der Staatsanwaltschaft zu erscheinen. Die §§ 133 bis 136a und 168c Abs. 1 und 5 gelten entsprechend. Über die Rechtmäßigkeit der Vorführung entscheidet auf Antrag des Beschuldigten das nach § 162 zuständige Gericht. Die §§ 297 bis 300, 302, 306 bis 309, 311a und 473a gelten entsprechend. Die Entscheidung des Gerichts ist unanfechtbar.
 
-(4) Bei der ersten Vernehmung des Beschuldigten durch Beamte des Polizeidienstes ist dem Beschuldigten zu eröffnen, welche Tat ihm zur Last gelegt wird. Im übrigen sind bei der Vernehmung des Beschuldigten durch Beamte des Polizeidienstes § 136 Abs. 1 Satz 2 bis 4, Abs. 2, 3 und § 136a anzuwenden.
+(4) Bei der ersten Vernehmung des Beschuldigten durch Beamte des Polizeidienstes ist dem Beschuldigten zu eröffnen, welche Tat ihm zur Last gelegt wird. Im übrigen sind bei der Vernehmung des Beschuldigten durch Beamte des Polizeidienstes § 136 Absatz 1 Satz 2 bis 6, Abs. 2, 3 und § 136a anzuwenden. § 168c Absatz 1 und 5 gilt für den Verteidiger entsprechend.
 
 (5) § 187 Absatz 1 bis 3 und § 189 Absatz 4 des Gerichtsverfassungsgesetzes gelten entsprechend.
 
@@ -4255,7 +4366,7 @@ eine der in § 100a Abs. 2 Nr. 6 bis 9 und 11 bezeichneten Straftaten
 
 begangen worden ist, so dürfen die anläßlich einer grenzpolizeilichen Kontrolle, im Falle der Nummer 1 auch die bei einer Personenkontrolle nach § 111 anfallenden Daten über die Identität von Personen sowie Umstände, die für die Aufklärung der Straftat oder für die Ergreifung des Täters von Bedeutung sein können, in einer Datei gespeichert werden, wenn Tatsachen die Annahme rechtfertigen, daß die Auswertung der Daten zur Ergreifung des Täters oder zur Aufklärung der Straftat führen kann und die Maßnahme nicht außer Verhältnis zur Bedeutung der Sache steht. Dies gilt auch, wenn im Falle des Satzes 1 Pässe und Personalausweise automatisch gelesen werden. Die Übermittlung der Daten ist nur an Strafverfolgungsbehörden zulässig.
 
-(2) Maßnahmen der in Absatz 1 bezeichneten Art dürfen nur durch den Richter, bei Gefahr im Verzug auch durch die Staatsanwaltschaft und ihre Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) angeordnet werden. Hat die Staatsanwaltschaft oder eine ihrer Ermittlungspersonen die Anordnung getroffen, so beantragt die Staatsanwaltschaft unverzüglich die richterliche Bestätigung der Anordnung. § 100b Abs. 1 Satz 3 gilt entsprechend.
+(2) Maßnahmen der in Absatz 1 bezeichneten Art dürfen nur durch den Richter, bei Gefahr im Verzug auch durch die Staatsanwaltschaft und ihre Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) angeordnet werden. Hat die Staatsanwaltschaft oder eine ihrer Ermittlungspersonen die Anordnung getroffen, so beantragt die Staatsanwaltschaft unverzüglich die richterliche Bestätigung der Anordnung. § 100e Absatz 1 Satz 3 gilt entsprechend.
 
 (3) Die Anordnung ergeht schriftlich. Sie muß die Personen, deren Daten gespeichert werden sollen, nach bestimmten Merkmalen oder Eigenschaften so genau bezeichnen, wie dies nach der zur Zeit der Anordnung vorhandenen Kenntnis von dem oder den Tatverdächtigen möglich ist. Art und Dauer der Maßnahmen sind festzulegen. Die Anordnung ist räumlich zu begrenzen und auf höchstens drei Monate zu befristen. Eine einmalige Verlängerung um nicht mehr als drei weitere Monate ist zulässig, soweit die in Absatz 1 bezeichneten Voraussetzungen fortbestehen.
 
@@ -4271,7 +4382,7 @@ begangen worden ist, so dürfen die anläßlich einer grenzpolizeilichen Kontrol
 
 (3) Im Falle eines Antreffens können auch personenbezogene Daten eines Begleiters der ausgeschriebenen Person, des Führers eines nach Absatz 2 ausgeschriebenen Fahrzeuges oder des Nutzers eines nach Absatz 2 ausgeschriebenen Containers gemeldet werden.
 
-(4) Die Ausschreibung zur polizeilichen Beobachtung darf nur durch das Gericht angeordnet werden. Bei Gefahr im Verzug kann die Anordnung auch durch die Staatsanwaltschaft getroffen werden. Hat die Staatsanwaltschaft die Anordnung getroffen, so beantragt sie unverzüglich die gerichtliche Bestätigung der Anordnung. § 100b Abs. 1 Satz 3 gilt entsprechend. Die Anordnung ist auf höchstens ein Jahr zu befristen. Eine Verlängerung um jeweils nicht mehr als drei Monate ist zulässig, soweit die Voraussetzungen der Anordnung fortbestehen.
+(4) Die Ausschreibung zur polizeilichen Beobachtung darf nur durch das Gericht angeordnet werden. Bei Gefahr im Verzug kann die Anordnung auch durch die Staatsanwaltschaft getroffen werden. Hat die Staatsanwaltschaft die Anordnung getroffen, so beantragt sie unverzüglich die gerichtliche Bestätigung der Anordnung. § 100e Absatz 1 Satz 3 gilt entsprechend. Die Anordnung ist auf höchstens ein Jahr zu befristen. Eine Verlängerung um jeweils nicht mehr als drei Monate ist zulässig, soweit die Voraussetzungen der Anordnung fortbestehen.
 
 ### § 163f Längerfristige Observation
 
@@ -4288,7 +4399,7 @@ Die Maßnahme darf nur angeordnet werden, wenn die Erforschung des Sachverhalts 
 
 (2) Die Maßnahme darf auch durchgeführt werden, wenn Dritte unvermeidbar betroffen werden.
 
-(3) Die Maßnahme darf nur durch das Gericht, bei Gefahr im Verzug auch durch die Staatsanwaltschaft und ihre Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) angeordnet werden. Die Anordnung der Staatsanwaltschaft oder ihrer Ermittlungspersonen tritt außer Kraft, wenn sie nicht binnen drei Werktagen von dem Gericht bestätigt wird. § 100b Abs. 1 Satz 4 und 5, Abs. 2 Satz 1 gilt entsprechend.
+(3) Die Maßnahme darf nur durch das Gericht, bei Gefahr im Verzug auch durch die Staatsanwaltschaft und ihre Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) angeordnet werden. Die Anordnung der Staatsanwaltschaft oder ihrer Ermittlungspersonen tritt außer Kraft, wenn sie nicht binnen drei Werktagen von dem Gericht bestätigt wird. § 100e Absatz 1 Satz 4 und 5, Absatz 3 Satz 1 gilt entsprechend.
 
 (4) (weggefallen)
 
@@ -4328,15 +4439,15 @@ In den Fällen der §§ 165 und 166 gebührt der Staatsanwaltschaft die weitere 
 
 (1) Das Ergebnis der Untersuchungshandlungen der Ermittlungsbehörden ist aktenkundig zu machen.
 
-(2) Über die Vernehmung des Beschuldigten, der Zeugen und Sachverständigen soll ein Protokoll nach den §§ 168 und 168a aufgenommen werden, soweit dies ohne erhebliche Verzögerung der Ermittlungen geschehen kann.
+(2) Über die Vernehmung des Beschuldigten, der Zeugen und Sachverständigen soll ein Protokoll nach den §§ 168 und 168a aufgenommen werden, soweit dies ohne erhebliche Verzögerung der Ermittlungen geschehen kann. Wird über die Vernehmung des Beschuldigten kein Protokoll gefertigt, ist die Teilnahme seines Verteidigers an der Vernehmung aktenkundig zu machen.
 
-(3) Die Belehrung des Beschuldigten vor seiner Vernehmung nach § 136 Absatz 1 sowie § 163a ist zu dokumentieren.
+(3) Die Belehrung des Beschuldigten vor seiner Vernehmung nach § 136 Absatz 1 sowie § 163a ist zu dokumentieren. Dies gilt auch für die Entscheidung des Beschuldigten darüber, ob er vor seiner Vernehmung einen vom ihm zu wählenden Verteidiger befragen möchte.
 
 ### § 168c Anwesenheitsrecht bei richterlichen Vernehmungen
 
-(1) Bei der richterlichen Vernehmung des Beschuldigten ist der Staatsanwaltschaft und dem Verteidiger die Anwesenheit gestattet.
+(1) Bei der richterlichen Vernehmung des Beschuldigten ist der Staatsanwaltschaft und dem Verteidiger die Anwesenheit gestattet. Diesen ist nach der Vernehmung Gelegenheit zu geben, sich dazu zu erklären oder Fragen an den Beschuldigten zu stellen. Ungeeignete oder nicht zur Sache gehörende Fragen oder Erklärungen können zurückgewiesen werden.
 
-(2) Bei der richterlichen Vernehmung eines Zeugen oder Sachverständigen ist der Staatsanwaltschaft, dem Beschuldigten und dem Verteidiger die Anwesenheit gestattet.
+(2) Bei der richterlichen Vernehmung eines Zeugen oder Sachverständigen ist der Staatsanwaltschaft, dem Beschuldigten und dem Verteidiger die Anwesenheit gestattet. Diesen ist nach der Vernehmung Gelegenheit zu geben, sich dazu zu erklären oder Fragen an die vernommene Person zu stellen. Ungeeignete oder nicht zur Sache gehörende Fragen oder Erklärungen können zurückgewiesen werden. § 241a gilt entsprechend.
 
 (3) Der Richter kann einen Beschuldigten von der Anwesenheit bei der Verhandlung ausschließen, wenn dessen Anwesenheit den Untersuchungszweck gefährden würde. Dies gilt namentlich dann, wenn zu befürchten ist, daß ein Zeuge in Gegenwart des Beschuldigten nicht die Wahrheit sagen werde.
 
@@ -4551,7 +4662,9 @@ Nach Eröffnung des Hauptverfahrens gilt § 202a entsprechend.
 
 ### § 213 Bestimmung eines Termins zur Hauptverhandlung
 
-Der Termin zur Hauptverhandlung wird von dem Vorsitzenden des Gerichts anberaumt.
+(1) Der Termin zur Hauptverhandlung wird von dem Vorsitzenden des Gerichts anberaumt.
+
+(2) In besonders umfangreichen erstinstanzlichen Verfahren vor dem Land- oder Oberlandesgericht, in denen die Hauptverhandlung voraussichtlich länger als zehn Tage dauern wird, soll der Vorsitzende den äußeren Ablauf der Hauptverhandlung vor der Terminbestimmung mit dem Verteidiger, der Staatsanwaltschaft und dem Nebenklägervertreter abstimmen.
 
 ### § 214 Ladungen durch den Vorsitzenden; Herbeischaffung der Beweismittel
 
@@ -4718,7 +4831,7 @@ Findet die Hauptverhandlung gegen mehrere Angeklagte statt, so kann durch Gerich
 
 ### § 232 Durchführung der Hauptverhandlung trotz Ausbleibens des Angeklagten
 
-(1) Die Hauptverhandlung kann ohne den Angeklagten durchgeführt werden, wenn er ordnungsgemäß geladen und in der Ladung darauf hingewiesen worden ist, daß in seiner Abwesenheit verhandelt werden kann, und wenn nur Geldstrafe bis zu einhundertachtzig Tagessätzen, Verwarnung mit Strafvorbehalt, Fahrverbot, Verfall, Einziehung, Vernichtung oder Unbrauchbarmachung, allein oder nebeneinander, zu erwarten ist. Eine höhere Strafe oder eine Maßregel der Besserung und Sicherung darf in diesem Verfahren nicht verhängt werden. Die Entziehung der Fahrerlaubnis ist zulässig, wenn der Angeklagte in der Ladung auf diese Möglichkeit hingewiesen worden ist.
+(1) Die Hauptverhandlung kann ohne den Angeklagten durchgeführt werden, wenn er ordnungsgemäß geladen und in der Ladung darauf hingewiesen worden ist, daß in seiner Abwesenheit verhandelt werden kann, und wenn nur Geldstrafe bis zu einhundertachtzig Tagessätzen, Verwarnung mit Strafvorbehalt, Fahrverbot, Einziehung, Vernichtung oder Unbrauchbarmachung, allein oder nebeneinander, zu erwarten ist. Eine höhere Strafe oder eine Maßregel der Besserung und Sicherung darf in diesem Verfahren nicht verhängt werden. Die Entziehung der Fahrerlaubnis ist zulässig, wenn der Angeklagte in der Ladung auf diese Möglichkeit hingewiesen worden ist.
 
 (2) Auf Grund einer Ladung durch öffentliche Bekanntmachung findet die Hauptverhandlung ohne den Angeklagten nicht statt.
 
@@ -4728,7 +4841,7 @@ Findet die Hauptverhandlung gegen mehrere Angeklagte statt, so kann durch Gerich
 
 ### § 233 Entbindung des Angeklagten von der Pflicht zum Erscheinen
 
-(1) Der Angeklagte kann auf seinen Antrag von der Verpflichtung zum Erscheinen in der Hauptverhandlung entbunden werden, wenn nur Freiheitsstrafe bis zu sechs Monaten, Geldstrafe bis zu einhundertachtzig Tagessätzen, Verwarnung mit Strafvorbehalt, Fahrverbot, Verfall, Einziehung, Vernichtung oder Unbrauchbarmachung, allein oder nebeneinander, zu erwarten ist. Eine höhere Strafe oder eine Maßregel der Besserung und Sicherung darf in seiner Abwesenheit nicht verhängt werden. Die Entziehung der Fahrerlaubnis ist zulässig.
+(1) Der Angeklagte kann auf seinen Antrag von der Verpflichtung zum Erscheinen in der Hauptverhandlung entbunden werden, wenn nur Freiheitsstrafe bis zu sechs Monaten, Geldstrafe bis zu einhundertachtzig Tagessätzen, Verwarnung mit Strafvorbehalt, Fahrverbot, Einziehung, Vernichtung oder Unbrauchbarmachung, allein oder nebeneinander, zu erwarten ist. Eine höhere Strafe oder eine Maßregel der Besserung und Sicherung darf in seiner Abwesenheit nicht verhängt werden. Die Entziehung der Fahrerlaubnis ist zulässig.
 
 (2) Wird der Angeklagte von der Verpflichtung zum Erscheinen in der Hauptverhandlung entbunden, so muß er durch einen beauftragten oder ersuchten Richter über die Anklage vernommen werden. Dabei wird er über die bei Verhandlung in seiner Abwesenheit zulässigen Rechtsfolgen belehrt sowie befragt, ob er seinen Antrag auf Befreiung vom Erscheinen in der Hauptverhandlung aufrechterhalte. Statt eines Ersuchens oder einer Beauftragung nach Satz 1 kann außerhalb der Hauptverhandlung auch das Gericht die Vernehmung über die Anklage in der Weise durchführen, dass sich der Angeklagte an einem anderen Ort als das Gericht aufhält und die Vernehmung zeitgleich in Bild und Ton an den Ort, an dem sich der Angeklagte aufhält, und in das Sitzungszimmer übertragen wird.
 
@@ -4800,7 +4913,7 @@ Zweifel über die Zulässigkeit einer Frage entscheidet in allen Fällen das Ger
 
 (4) Der Vorsitzende teilt mit, ob Erörterungen nach den §§ 202a, 212 stattgefunden haben, wenn deren Gegenstand die Möglichkeit einer Verständigung (§ 257c) gewesen ist und wenn ja, deren wesentlichen Inhalt. Diese Pflicht gilt auch im weiteren Verlauf der Hauptverhandlung, soweit sich Änderungen gegenüber der Mitteilung zu Beginn der Hauptverhandlung ergeben haben.
 
-(5) Sodann wird der Angeklagte darauf hingewiesen, daß es ihm freistehe, sich zu der Anklage zu äußern oder nicht zur Sache auszusagen. Ist der Angeklagte zur Äußerung bereit, so wird er nach Maßgabe des § 136 Abs. 2 zur Sache vernommen. Vorstrafen des Angeklagten sollen nur insoweit festgestellt werden, als sie für die Entscheidung von Bedeutung sind. Wann sie festgestellt werden, bestimmt der Vorsitzende.
+(5) Sodann wird der Angeklagte darauf hingewiesen, daß es ihm freistehe, sich zu der Anklage zu äußern oder nicht zur Sache auszusagen. Ist der Angeklagte zur Äußerung bereit, so wird er nach Maßgabe des § 136 Abs. 2 zur Sache vernommen. Auf Antrag erhält der Verteidiger in besonders umfangreichen erstinstanzlichen Verfahren vor dem Land- oder Oberlandesgericht, in denen die Hauptverhandlung voraussichtlich länger als zehn Tage dauern wird, Gelegenheit, vor der Vernehmung des Angeklagten für diesen eine Erklärung zur Anklage abzugeben, die den Schlussvortrag nicht vorwegnehmen darf. Der Vorsitzende kann dem Verteidiger aufgeben, die weitere Erklärung schriftlich einzureichen, wenn ansonsten der Verfahrensablauf erheblich verzögert würde; § 249 Absatz 2 Satz 1 gilt entsprechend. Vorstrafen des Angeklagten sollen nur insoweit festgestellt werden, als sie für die Entscheidung von Bedeutung sind. Wann sie festgestellt werden, bestimmt der Vorsitzende.
 
 ### § 244 Beweisaufnahme; Untersuchungsgrundsatz; Ablehnung von Beweisanträgen
 
@@ -4814,7 +4927,7 @@ Zweifel über die Zulässigkeit einer Frage entscheidet in allen Fällen das Ger
 
 (5) Ein Beweisantrag auf Einnahme eines Augenscheins kann abgelehnt werden, wenn der Augenschein nach dem pflichtgemäßen Ermessen des Gerichts zur Erforschung der Wahrheit nicht erforderlich ist. Unter derselben Voraussetzung kann auch ein Beweisantrag auf Vernehmung eines Zeugen abgelehnt werden, dessen Ladung im Ausland zu bewirken wäre.
 
-(6) Die Ablehnung eines Beweisantrages bedarf eines Gerichtsbeschlusses.
+(6) Die Ablehnung eines Beweisantrages bedarf eines Gerichtsbeschlusses. Nach Abschluss der von Amts wegen vorgesehenen Beweisaufnahme kann der Vorsitzende eine angemessene Frist zum Stellen von Beweisanträgen bestimmen. Beweisanträge, die nach Fristablauf gestellt werden, können im Urteil beschieden werden; dies gilt nicht, wenn die Stellung des Beweisantrags vor Fristablauf nicht möglich war. Wird ein Beweisantrag nach Fristablauf gestellt, sind die Tatsachen, die die Einhaltung der Frist unmöglich gemacht haben, mit dem Antrag glaubhaft zu machen.
 
 ### § 245 Umfang der Beweisaufnahme; präsente Beweismittel
 
@@ -4872,9 +4985,12 @@ Beruht der Beweis einer Tatsache auf der Wahrnehmung einer Person, so ist diese 
 wenn der Angeklagte einen Verteidiger hat und der Staatsanwalt, der Verteidiger und der Angeklagte damit einverstanden sind;
 
 2.  
-wenn der Zeuge, Sachverständige oder Mitbeschuldigte verstorben ist oder aus einem anderen Grunde in absehbarer Zeit gerichtlich nicht vernommen werden kann;
+wenn die Verlesung lediglich der Bestätigung eines Geständnisses des Angeklagten dient und der Angeklagte, der keinen Verteidiger hat, sowie der Staatsanwalt der Verlesung zustimmen;
 
 3.  
+wenn der Zeuge, Sachverständige oder Mitbeschuldigte verstorben ist oder aus einem anderen Grunde in absehbarer Zeit gerichtlich nicht vernommen werden kann;
+
+4.  
 soweit die Niederschrift oder Urkunde das Vorliegen oder die Höhe eines Vermögensschadens betrifft.
 
 (2) Die Vernehmung eines Zeugen, Sachverständigen oder Mitbeschuldigten darf durch die Verlesung der Niederschrift über seine frühere richterliche Vernehmung auch ersetzt werden, wenn
@@ -4904,7 +5020,7 @@ Die Aussage eines vor der Hauptverhandlung vernommenen Zeugen, der erst in der H
 
 ### § 254 Verlesung eines richterlichen Protokolls bei Geständnis oder Widersprüchen
 
-(1) Erklärungen des Angeklagten, die in einem richterlichen Protokoll enthalten sind, können zum Zweck der Beweisaufnahme über ein Geständnis verlesen werden.
+(1) Erklärungen des Angeklagten, die in einem richterlichen Protokoll oder in einer Bild-Ton-Aufzeichnung einer Vernehmung enthalten sind, können zum Zweck der Beweisaufnahme über ein Geständnis verlesen beziehungsweise vorgeführt werden.
 
 (2) Dasselbe kann geschehen, wenn ein in der Vernehmung hervortretender Widerspruch mit der früheren Aussage nicht auf andere Weise ohne Unterbrechung der Hauptverhandlung festgestellt oder behoben werden kann.
 
@@ -4916,7 +5032,7 @@ In den Fällen der §§ 253 und 254 ist die Verlesung und ihr Grund auf Antrag d
 
 (1) Für die Vorführung der Bild-Ton-Aufzeichnung einer Zeugenvernehmung gelten die Vorschriften zur Verlesung einer Niederschrift über eine Vernehmung gemäß §§ 251, 252, 253 und 255 entsprechend.
 
-(2) In Verfahren wegen Straftaten gegen die sexuelle Selbstbestimmung (§§ 174 bis 184h des Strafgesetzbuches) oder gegen das Leben (§§ 211 bis 222 des Strafgesetzbuches), wegen Misshandlung von Schutzbefohlenen (§ 225 des Strafgesetzbuches) oder wegen Straftaten gegen die persönliche Freiheit nach den §§ 232 bis 233a des Strafgesetzbuches kann die Vernehmung eines Zeugen unter 18 Jahren durch die Vorführung der Bild-Ton-Aufzeichnung seiner früheren richterlichen Vernehmung ersetzt werden, wenn der Angeklagte und sein Verteidiger Gelegenheit hatten, an dieser mitzuwirken. Dies gilt auch für Zeugen, die Verletzte einer dieser Straftaten sind und zur Zeit der Tat unter 18 Jahre alt waren. Das Gericht hat bei seiner Entscheidung auch die schutzwürdigen Interessen des Zeugen zu berücksichtigen und den Grund für die Vorführung bekanntzugeben. Eine ergänzende Vernehmung des Zeugen ist zulässig.
+(2) In Verfahren wegen Straftaten gegen die sexuelle Selbstbestimmung (§§ 174 bis 184j des Strafgesetzbuches) oder gegen das Leben (§§ 211 bis 222 des Strafgesetzbuches), wegen Misshandlung von Schutzbefohlenen (§ 225 des Strafgesetzbuches) oder wegen Straftaten gegen die persönliche Freiheit nach den §§ 232 bis 233a des Strafgesetzbuches kann die Vernehmung eines Zeugen unter 18 Jahren durch die Vorführung der Bild-Ton-Aufzeichnung seiner früheren richterlichen Vernehmung ersetzt werden, wenn der Angeklagte und sein Verteidiger Gelegenheit hatten, an dieser mitzuwirken. Dies gilt auch für Zeugen, die Verletzte einer dieser Straftaten sind und zur Zeit der Tat unter 18 Jahre alt waren. Das Gericht hat bei seiner Entscheidung auch die schutzwürdigen Interessen des Zeugen zu berücksichtigen und den Grund für die Vorführung bekanntzugeben. Eine ergänzende Vernehmung des Zeugen ist zulässig.
 
 ### § 256 Verlesung der Erklärungen von Behörden und Sachverständigen
 
@@ -4935,7 +5051,7 @@ c)
 der Ärzte eines gerichtsärztlichen Dienstes mit Ausschluss von Leumundszeugnissen,
 
 2.  
-ärztliche Atteste über Körperverletzungen, die nicht zu den schweren gehören,
+unabhängig vom Tatvorwurf ärztliche Atteste über Körperverletzungen,
 
 3.  
 ärztliche Berichte zur Entnahme von Blutproben,
@@ -5030,9 +5146,18 @@ Das Gericht kann in der Hauptverhandlung den Stand des Verfahrens mit den Verfah
 
 (1) Der Angeklagte darf nicht auf Grund eines anderen als des in der gerichtlich zugelassenen Anklage angeführten Strafgesetzes verurteilt werden, ohne daß er zuvor auf die Veränderung des rechtlichen Gesichtspunktes besonders hingewiesen und ihm Gelegenheit zur Verteidigung gegeben worden ist.
 
-(2) Ebenso ist zu verfahren, wenn sich erst in der Verhandlung vom Strafgesetz besonders vorgesehene Umstände ergeben, welche die Strafbarkeit erhöhen oder die Anordnung einer Maßregel der Besserung und Sicherung rechtfertigen.
+(2) Ebenso ist zu verfahren, wenn
 
-(3) Bestreitet der Angeklagte unter der Behauptung, auf die Verteidigung nicht genügend vorbereitet zu sein, neu hervorgetretene Umstände, welche die Anwendung eines schwereren Strafgesetzes gegen den Angeklagten zulassen als des in der gerichtlich zugelassenen Anklage angeführten oder die zu den im zweiten Absatz bezeichneten gehören, so ist auf seinen Antrag die Hauptverhandlung auszusetzen.
+1.  
+sich erst in der Verhandlung vom Strafgesetz besonders vorgesehene Umstände ergeben, welche die Strafbarkeit erhöhen oder die Anordnung einer Maßnahme oder die Verhängung einer Nebenstrafe oder Nebenfolge rechtfertigen,
+
+2.  
+das Gericht von einer in der Verhandlung mitgeteilten vorläufigen Bewertung der Sach- oder Rechtslage abweichen will oder
+
+3.  
+der Hinweis auf eine veränderte Sachlage zur genügenden Verteidigung des Angeklagten erforderlich ist.
+
+(3) Bestreitet der Angeklagte unter der Behauptung, auf die Verteidigung nicht genügend vorbereitet zu sein, neu hervorgetretene Umstände, welche die Anwendung eines schwereren Strafgesetzes gegen den Angeklagten zulassen als des in der gerichtlich zugelassenen Anklage angeführten oder die zu den in Absatz 2 Nummer 1 bezeichneten gehören, so ist auf seinen Antrag die Hauptverhandlung auszusetzen.
 
 (4) Auch sonst hat das Gericht auf Antrag oder von Amts wegen die Hauptverhandlung auszusetzen, falls dies infolge der veränderten Sachlage zur genügenden Vorbereitung der Anklage oder der Verteidigung angemessen erscheint.
 
@@ -5325,7 +5450,7 @@ die Hauptverhandlung in Abwesenheit des Angeklagten (§ 231a) anordnen oder die 
 die Akteneinsicht betreffen oder
 
 5.  
-den Widerruf der Strafaussetzung, den Widerruf des Straferlasses und die Verurteilung zu der vorbehaltenen Strafe (§ 453 Abs. 2 Satz 3), die Anordnung vorläufiger Maßnahmen zur Sicherung des Widerrufs (§ 453c), die Aussetzung des Strafrestes und deren Widerruf (§ 454 Abs. 3 und 4), die Wiederaufnahme des Verfahrens (§ 372 Satz 1) oder den Verfall, die Einziehung oder die Unbrauchbarmachung nach den §§ 440, 441 Abs. 2 und § 442 betreffen;
+den Widerruf der Strafaussetzung, den Widerruf des Straferlasses und die Verurteilung zu der vorbehaltenen Strafe (§ 453 Abs. 2 Satz 3), die Anordnung vorläufiger Maßnahmen zur Sicherung des Widerrufs (§ 453c), die Aussetzung des Strafrestes und deren Widerruf (§ 454 Abs. 3 und 4), die Wiederaufnahme des Verfahrens (§ 372 Satz 1) oder die Einziehung oder die Unbrauchbarmachung nach den §§ 435, 436 Absatz 2 in Verbindung mit § 434 Absatz 2 und § 439 betreffen;
 
 § 138d Abs. 6 bleibt unberührt.
 
@@ -5378,7 +5503,7 @@ eine Verhaftung,
 eine einstweilige Unterbringung oder
 
 3.  
-eine Anordnung des dinglichen Arrestes nach § 111b Abs. 2 in Verbindung mit § 111d über einen Betrag von mehr als 20.000 Euro
+einen Vermögensarrest nach § 111e über einen Betrag von mehr als 20 000 Euro
 
 betreffen.
 
@@ -5419,7 +5544,7 @@ Gegen die Urteile des Strafrichters und des Schöffengerichts ist Berufung zulä
 
 (1) Die Berufung muß bei dem Gericht des ersten Rechtszuges binnen einer Woche nach Verkündung des Urteils zu Protokoll der Geschäftsstelle oder schriftlich eingelegt werden.
 
-(2) Hat die Verkündung des Urteils nicht in Anwesenheit des Angeklagten stattgefunden, so beginnt für diesen die Frist mit der Zustellung, sofern nicht in den Fällen der §§ 234, 387 Abs. 1, § 411 Abs. 2 und § 434 Abs. 1 Satz 1 die Verkündung in Anwesenheit des Verteidigers mit schriftlicher Vertretungsvollmacht stattgefunden hat.
+(2) Hat die Verkündung des Urteils nicht in Anwesenheit des Angeklagten stattgefunden, so beginnt für diesen die Frist mit der Zustellung, sofern nicht in den Fällen der §§ 234, 387 Abs. 1, § 411 Abs. 2 und § 428 Absatz 1 Satz 1 die Verkündung in Anwesenheit des Verteidigers mit schriftlicher Vertretungsvollmacht stattgefunden hat.
 
 ### § 315 Berufung und Wiedereinsetzungsantrag
 
@@ -5661,7 +5786,7 @@ Ist nach § 329 Absatz 2 verfahren worden, kann der Angeklagte die Revision gege
 
 ### § 347 Zustellung; Gegenerklärung; Vorlage der Akten an das Revisionsgericht
 
-(1) Ist die Revision rechtzeitig eingelegt und sind die Revisionsanträge rechtzeitig und in der vorgeschriebenen Form angebracht, so ist die Revisionsschrift dem Gegner des Beschwerdeführers zuzustellen. Diesem steht frei, binnen einer Woche eine schriftliche Gegenerklärung einzureichen. Der Angeklagte kann letztere auch zu Protokoll der Geschäftsstelle abgeben.
+(1) Ist die Revision rechtzeitig eingelegt und sind die Revisionsanträge rechtzeitig und in der vorgeschriebenen Form angebracht, so ist die Revisionsschrift dem Gegner des Beschwerdeführers zuzustellen. Diesem steht frei, binnen einer Woche eine schriftliche Gegenerklärung einzureichen. Wird das Urteil wegen eines Verfahrensmangels angefochten, so gibt der Staatsanwalt in dieser Frist eine Gegenerklärung ab, wenn anzunehmen ist, dass dadurch die Prüfung der Revisionsbeschwerde erleichtert wird. Der Angeklagte kann die Gegenerklärung auch zu Protokoll der Geschäftsstelle abgeben.
 
 (2) Nach Eingang der Gegenerklärung oder nach Ablauf der Frist sendet die Staatsanwaltschaft die Akten an das Revisionsgericht.
 
@@ -5929,7 +6054,7 @@ eine Verletzung des Briefgeheimnisses (§ 202 des Strafgesetzbuches),
 eine Körperverletzung (§§ 223 und 229 des Strafgesetzbuches),
 
 5.  
-eine Nachstellung (§ 238 Abs. 1 des Strafgesetzbuches) oder eine Bedrohung (§ 241 des Strafgesetzbuches),
+eine Bedrohung (§ 241 des Strafgesetzbuches),
 
 5a.  
 eine Bestechlichkeit oder Bestechung im geschäftlichen Verkehr (§ 299 des Strafgesetzbuches),
@@ -6032,7 +6157,7 @@ Ist die Klage vorschriftsmäßig erhoben, so teilt das Gericht sie dem Beschuldi
 
 (3) Das Recht der Akteneinsicht kann der Privatkläger nur durch einen Anwalt ausüben. § 147 Abs. 4 und 7 sowie § 477 Abs. 5 gelten entsprechend.
 
-(4) In den Fällen der §§ 154a und 430 ist deren Absatz 3 Satz 2 nicht anzuwenden.
+(4) In den Fällen der §§ 154a und 421 ist deren Absatz 3 Satz 2 nicht anzuwenden.
 
 (5) Im Revisionsverfahren ist ein Antrag des Privatklägers nach § 349 Abs. 2 nicht erforderlich. § 349 Abs. 3 ist nicht anzuwenden.
 
@@ -6114,7 +6239,7 @@ Zweiter Abschnitt Nebenklage
 (1) Der erhobenen öffentlichen Klage oder dem Antrag im Sicherungsverfahren kann sich mit der Nebenklage anschließen, wer verletzt ist durch eine rechtswidrige Tat nach
 
 1.  
-den §§ 174 bis 182 des Strafgesetzbuches,
+den §§ 174 bis 182, 184i und 184j des Strafgesetzbuches,
 
 2.  
 den §§ 211 und 212 des Strafgesetzbuches, die versucht wurde,
@@ -6139,7 +6264,7 @@ deren Kinder, Eltern, Geschwister, Ehegatten oder Lebenspartner durch eine recht
 2.  
 die durch einen Antrag auf gerichtliche Entscheidung (§ 172) die Erhebung der öffentlichen Klage herbeigeführt haben.
 
-(3) Wer durch eine andere rechtswidrige Tat, insbesondere nach den §§ 185 bis 189, 229, 244 Absatz 1 Nummer 3, §§ 249 bis 255 und 316a des Strafgesetzbuches, verletzt ist, kann sich der erhobenen öffentlichen Klage mit der Nebenklage anschließen, wenn dies aus besonderen Gründen, insbesondere wegen der schweren Folgen der Tat, zur Wahrnehmung seiner Interessen geboten erscheint.
+(3) Wer durch eine andere rechtswidrige Tat, insbesondere nach den §§ 185 bis 189, 229, 244 Absatz 1 Nummer 3, Absatz 4, §§ 249 bis 255 und 316a des Strafgesetzbuches, verletzt ist, kann sich der erhobenen öffentlichen Klage mit der Nebenklage anschließen, wenn dies aus besonderen Gründen, insbesondere wegen der schweren Folgen der Tat, zur Wahrnehmung seiner Interessen geboten erscheint.
 
 (4) Der Anschluss ist in jeder Lage des Verfahrens zulässig. Er kann nach ergangenem Urteil auch zur Einlegung von Rechtsmitteln geschehen.
 
@@ -6166,7 +6291,10 @@ die durch einen Antrag auf gerichtliche Entscheidung (§ 172) die Erhebung der �
 (1) Dem Nebenkläger ist auf seinen Antrag ein Rechtsanwalt als Beistand zu bestellen, wenn er
 
 1.  
-durch ein Verbrechen nach den §§ 177, 179, 232 und 233 des Strafgesetzbuches verletzt ist,
+durch ein Verbrechen nach den §§ 177, 179, 232 bis 232b und 233a des Strafgesetzbuches verletzt ist,
+
+1a.  
+durch eine Straftat nach § 184j verletzt ist und der Begehung dieser Straftat ein Verbrechen nach § 177 des Strafgesetzbuches zugrunde liegt,
 
 2.  
 durch eine versuchte rechtswidrige Tat nach den §§ 211 und 212 des Strafgesetzbuches verletzt oder Angehöriger eines durch eine rechtswidrige Tat Getöteten im Sinne des § 395 Absatz 2 Nummer 1 ist,
@@ -6175,7 +6303,7 @@ durch eine versuchte rechtswidrige Tat nach den §§ 211 und 212 des Strafgesetz
 durch ein Verbrechen nach den §§ 226, 226a, 234 bis 235, 238 bis 239b, 249, 250, 252, 255 und 316a des Strafgesetzbuches verletzt ist, das bei ihm zu schweren körperlichen oder seelischen Schäden geführt hat oder voraussichtlich führen wird,
 
 4.  
-durch eine rechtswidrige Tat nach den §§ 174 bis 182 und 225 des Strafgesetzbuchs verletzt ist und er zur Zeit der Tat das 18. Lebensjahr noch nicht vollendet hatte oder seine Interessen selbst nicht ausreichend wahrnehmen kann oder
+durch eine rechtswidrige Tat nach den §§ 174 bis 182, 184i, 184j und 225 des Strafgesetzbuchs verletzt ist und er zur Zeit der Tat das 18. Lebensjahr noch nicht vollendet hatte oder seine Interessen selbst nicht ausreichend wahrnehmen kann oder
 
 5.  
 durch eine rechtswidrige Tat nach den §§ 221, 226, 226a, 232 bis 235, 237, 238 Absatz 2 und 3, §§ 239a, 239b, 240 Absatz 4, §§ 249, 250, 252, 255 und 316a des Strafgesetzbuches verletzt ist und er bei Antragstellung das 18. Lebensjahr noch nicht vollendet hat oder seine Interessen selbst nicht ausreichend wahrnehmen kann.
@@ -6335,21 +6463,19 @@ Die Mitteilung erfolgt durch die Stelle, welche die Entscheidung gegenüber dem 
 
 ### § 406g Psychosoziale Prozessbegleitung
 
-*(1) Verletzte können sich des Beistands eines psychosozialen Prozessbegleiters bedienen. Dem psychosozialen Prozessbegleiter ist es gestattet, bei Vernehmungen des Verletzten und während der Hauptverhandlung gemeinsam mit dem Verletzten anwesend zu sein.*
+(1) Verletzte können sich des Beistands eines psychosozialen Prozessbegleiters bedienen. Dem psychosozialen Prozessbegleiter ist es gestattet, bei Vernehmungen des Verletzten und während der Hauptverhandlung gemeinsam mit dem Verletzten anwesend zu sein.
 
-*(2) Die Grundsätze der psychosozialen Prozessbegleitung sowie die Anforderungen an die Qualifikation und die Vergütung des psychosozialen Prozessbegleiters richten sich nach dem Gesetz über die psychosoziale Prozessbegleitung im Strafverfahren vom 21. Dezember 2015 (BGBl. I S. 2525, 2529) in der jeweils geltenden Fassung.*
+(2) Die Grundsätze der psychosozialen Prozessbegleitung sowie die Anforderungen an die Qualifikation und die Vergütung des psychosozialen Prozessbegleiters richten sich nach dem Gesetz über die psychosoziale Prozessbegleitung im Strafverfahren vom 21. Dezember 2015 (BGBl. I S. 2525, 2529) in der jeweils geltenden Fassung.
 
-*(3) Unter den in § 397a Absatz 1 Nummer 4 und 5 bezeichneten Voraussetzungen ist dem Verletzten auf seinen Antrag ein psychosozialer Prozessbegleiter beizuordnen. Unter den in § 397a Absatz 1 Nummer 1 bis 3 bezeichneten Voraussetzungen kann dem Verletzten auf seinen Antrag ein psychosozialer Prozessbegleiter beigeordnet werden, wenn die besondere Schutzbedürftigkeit des Verletzten dies erfordert. Die Beiordnung ist für den Verletzten kostenfrei. Für die Beiordnung gilt § 142 Absatz 1 entsprechend. Im Vorverfahren entscheidet das nach § 162 zuständige Gericht.*
+(3) Unter den in § 397a Absatz 1 Nummer 4 und 5 bezeichneten Voraussetzungen ist dem Verletzten auf seinen Antrag ein psychosozialer Prozessbegleiter beizuordnen. Unter den in § 397a Absatz 1 Nummer 1 bis 3 bezeichneten Voraussetzungen kann dem Verletzten auf seinen Antrag ein psychosozialer Prozessbegleiter beigeordnet werden, wenn die besondere Schutzbedürftigkeit des Verletzten dies erfordert. Die Beiordnung ist für den Verletzten kostenfrei. Für die Beiordnung gilt § 142 Absatz 1 entsprechend. Im Vorverfahren entscheidet das nach § 162 zuständige Gericht.
 
-*(4) Einem nicht beigeordneten psychosozialen Prozessbegleiter kann die Anwesenheit bei einer Vernehmung des Verletzten untersagt werden, wenn dies den Untersuchungszweck gefährden könnte. Die Entscheidung trifft die die Vernehmung leitende Person; die Entscheidung ist nicht anfechtbar. Die Gründe einer Ablehnung sind aktenkundig zu machen.*
-
-§ 406g Kursivdruck: Eingef. durch Art. 1 Nr. 12 G v. 21.12.2015 I 2525 mWv 1.1.2017
+(4) Einem nicht beigeordneten psychosozialen Prozessbegleiter kann die Anwesenheit bei einer Vernehmung des Verletzten untersagt werden, wenn dies den Untersuchungszweck gefährden könnte. Die Entscheidung trifft die die Vernehmung leitende Person; die Entscheidung ist nicht anfechtbar. Die Gründe einer Ablehnung sind aktenkundig zu machen.
 
 ### § 406h Beistand des nebenklageberechtigten Verletzten
 
 (1) Nach § 395 zum Anschluss mit der Nebenklage Befugte können sich auch vor Erhebung der öffentlichen Klage und ohne Erklärung eines Anschlusses eines Rechtsanwalts als Beistand bedienen oder sich durch einen solchen vertreten lassen. Sie sind zur Anwesenheit in der Hauptverhandlung berechtigt, auch wenn sie als Zeugen vernommen werden sollen. Ist zweifelhaft, ob eine Person nebenklagebefugt ist, entscheidet über das Anwesenheitsrecht das Gericht nach Anhörung der Person und der Staatsanwaltschaft; die Entscheidung ist unanfechtbar.
 
-(2) Der Rechtsanwalt des Nebenklagebefugten ist zur Anwesenheit in der Hauptverhandlung berechtigt; Absatz 1 Satz 3 gilt entsprechend. Er ist vom Termin der Hauptverhandlung zu benachrichtigen, wenn seine Wahl dem Gericht angezeigt oder er als Beistand bestellt wurde. Die Sätze 1 und 2 gelten bei richterlichen Vernehmungen und der Einnahme richterlichen Augenscheins entsprechend, es sei denn, dass die Anwesenheit oder die Benachrichtigung des Rechtsanwalts den Untersuchungszweck gefährden könnte.
+(2) Der Rechtsanwalt des Nebenklagebefugten ist zur Anwesenheit in der Hauptverhandlung berechtigt; Absatz 1 Satz 3 gilt entsprechend. Er ist vom Termin der Hauptverhandlung zu benachrichtigen, wenn seine Wahl dem Gericht angezeigt oder er als Beistand bestellt wurde. Die Sätze 1 und 2 gelten bei richterlichen Vernehmungen und der Einnahme richterlichen Augenscheins entsprechend, es sei denn, dass die Anwesenheit oder die Benachrichtigung des Rechtsanwalts den Untersuchungszweck gefährden könnte. Nach richterlichen Vernehmungen ist dem Rechtsanwalt Gelegenheit zu geben, sich dazu zu erklären oder Fragen an die vernommene Person zu stellen. Ungeeignete oder nicht zur Sache gehörende Fragen oder Erklärungen können zurückgewiesen werden. § 241a gilt entsprechend.
 
 (3) § 397a gilt entsprechend für
 
@@ -6464,7 +6590,7 @@ Erster Abschnitt Verfahren bei Strafbefehlen
 (2) Durch Strafbefehl dürfen nur die folgenden Rechtsfolgen der Tat, allein oder nebeneinander, festgesetzt werden:
 
 1.  
-Geldstrafe, Verwarnung mit Strafvorbehalt, Fahrverbot, Verfall, Einziehung, Vernichtung, Unbrauchbarmachung, Bekanntgabe der Verurteilung und Geldbuße gegen eine juristische Person oder Personenvereinigung,
+Geldstrafe, Verwarnung mit Strafvorbehalt, Fahrverbot, Einziehung, Vernichtung, Unbrauchbarmachung, Bekanntgabe der Verurteilung und Geldbuße gegen eine juristische Person oder Personenvereinigung,
 
 2.  
 Entziehung der Fahrerlaubnis, bei der die Sperre nicht mehr als zwei Jahre beträgt,
@@ -6522,7 +6648,7 @@ die Festsetzung der Rechtsfolgen,
 7.  
 die Belehrung über die Möglichkeit des Einspruchs und die dafür vorgeschriebene Frist und Form sowie den Hinweis, daß der Strafbefehl rechtskräftig und vollstreckbar wird, soweit gegen ihn kein Einspruch nach § 410 eingelegt wird.
 
-Wird gegen den Angeklagten eine Freiheitsstrafe verhängt, wird er mit Strafvorbehalt verwarnt oder wird gegen ihn ein Fahrverbot angeordnet, so ist er zugleich nach § 268a Abs. 3 oder § 268c Satz 1 zu belehren. § 111i Abs. 2 sowie § 267 Abs. 6 Satz 2 gelten entsprechend.
+Wird gegen den Angeklagten eine Freiheitsstrafe verhängt, wird er mit Strafvorbehalt verwarnt oder wird gegen ihn ein Fahrverbot angeordnet, so ist er zugleich nach § 268a Abs. 3 oder § 268c Satz 1 zu belehren. § 267 Abs. 6 Satz 2 gilt entsprechend.
 
 (2) Der Strafbefehl wird auch dem gesetzlichen Vertreter des Angeklagten mitgeteilt.
 
@@ -6622,154 +6748,219 @@ Im Verfahren vor dem Strafrichter und dem Schöffengericht stellt die Staatsanwa
 
 (4) Im Verfahren vor dem Strafrichter bestimmt dieser unbeschadet des § 244 Abs. 2 den Umfang der Beweisaufnahme.
 
-### (XXXX) §§ 421 bis 429 (weggefallen)
-
 Dritter Abschnitt Verfahren bei Einziehung und Vermögensbeschlagnahme
 ---------------------------------------------------------------------
 
 ### 
 
-### § 430 Beschränkung auf andere Rechtsfolgen
+### § 421 Absehen von der Einziehung
 
-(1) Fällt die Einziehung neben der zu erwartenden Strafe oder Maßregel der Besserung und Sicherung nicht ins Gewicht oder würde das Verfahren, soweit es die Einziehung betrifft, einen unangemessenen Aufwand erfordern oder die Herbeiführung der Entscheidung über die anderen Rechtsfolgen der Tat unangemessen erschweren, so kann das Gericht mit Zustimmung der Staatsanwaltschaft in jeder Lage des Verfahrens die Verfolgung der Tat auf die anderen Rechtsfolgen beschränken.
-
-(2) Im vorbereitenden Verfahren kann die Staatsanwaltschaft die Beschränkung vornehmen. Die Beschränkung ist aktenkundig zu machen.
-
-(3) Das Gericht kann die Beschränkung in jeder Lage des Verfahrens wieder aufheben. Einem darauf gerichteten Antrag der Staatsanwaltschaft ist zu entsprechen. Wird die Beschränkung wieder aufgehoben, so gilt § 265 entsprechend.
-
-### § 431 Einziehungsbeteiligung
-
-(1) Ist im Strafverfahren über die Einziehung eines Gegenstandes zu entscheiden und erscheint glaubhaft, daß
+(1) Das Gericht kann mit Zustimmung der Staatsanwaltschaft von der Einziehung absehen, wenn
 
 1.  
-der Gegenstand einem anderen als dem Angeschuldigten gehört oder zusteht oder
+das Erlangte nur einen geringen Wert hat,
 
 2.  
-ein anderer an dem Gegenstand ein sonstiges Recht hat, dessen Erlöschen im Falle der Einziehung angeordnet werden könnte (§ 74e Abs. 2 Satz 2 und 3 des Strafgesetzbuches),
+die Einziehung neben der zu erwartenden Strafe oder Maßregel der Besserung und Sicherung nicht ins Gewicht fällt oder
 
-so ordnet das Gericht an, daß der andere an dem Verfahren beteiligt wird, soweit es die Einziehung betrifft (Einziehungsbeteiligter). Das Gericht kann von der Anordnung absehen, wenn infolge bestimmter Tatsachen anzunehmen ist, daß die Beteiligung nicht ausführbar ist. Das Gericht kann von der Anordnung auch dann absehen, wenn eine Partei, Vereinigung oder Einrichtung außerhalb des räumlichen Geltungsbereichs dieses Gesetzes zu beteiligen wäre, die Bestrebungen gegen den Bestand oder die Sicherheit der Bundesrepublik Deutschland oder gegen einen der in § 92 Abs. 2 des Strafgesetzbuches bezeichneten Verfassungsgrundsätze verfolgt, und wenn den Umständen nach anzunehmen ist, daß diese Partei, Vereinigung oder Einrichtung oder einer ihrer Mittelsmänner den Gegenstand zur Förderung ihrer Bestrebungen zur Verfügung gestellt hat; in diesem Falle genügt es, vor der Entscheidung über die Einziehung des Gegenstandes den Besitzer der Sache oder den zur Verfügung über das Recht Befugten zu hören, wenn dies ausführbar ist.
+3.  
+das Verfahren, soweit es die Einziehung betrifft, einen unangemessenen Aufwand erfordern oder die Herbeiführung der Entscheidung über die anderen Rechtsfolgen der Tat unangemessen erschweren würde.
 
-(2) Das Gericht kann anordnen, daß sich die Beteiligung nicht auf die Frage der Schuld des Angeschuldigten erstreckt, wenn
+(2) Das Gericht kann die Wiedereinbeziehung in jeder Lage des Verfahrens anordnen. Einem darauf gerichteten Antrag der Staatsanwaltschaft hat es zu entsprechen. § 265 gilt entsprechend.
+
+(3) Im vorbereitenden Verfahren kann die Staatsanwaltschaft das Verfahren auf die anderen Rechtsfolgen beschränken. Die Beschränkung ist aktenkundig zu machen.
+
+### § 422 Abtrennung der Einziehung
+
+Würde die Herbeiführung einer Entscheidung über die Einziehung nach den §§ 73 bis 73c des Strafgesetzbuches die Entscheidung über die anderen Rechtsfolgen der Tat unangemessen erschweren oder verzögern, kann das Gericht das Verfahren über die Einziehung abtrennen. Das Gericht kann die Verbindung in jeder Lage des Verfahrens wieder anordnen.
+
+### § 423 Einziehung nach Abtrennung
+
+(1) Trennt das Gericht das Verfahren nach § 422 ab, trifft es die Entscheidung über die Einziehung nach der Rechtskraft des Urteils in der Hauptsache. Das Gericht ist an die Entscheidung in der Hauptsache und die tatsächlichen Feststellungen, auf denen diese beruht, gebunden.
+
+(2) Die Entscheidung über die Einziehung soll spätestens sechs Monate nach dem Eintritt der Rechtskraft des Urteils in der Hauptsache getroffen werden.
+
+(3) Das Gericht entscheidet durch Beschluss. Die Entscheidung ist mit sofortiger Beschwerde anfechtbar.
+
+(4) Abweichend von Absatz 3 kann das Gericht anordnen, dass die Entscheidung auf Grund mündlicher Verhandlung durch Urteil ergeht. Das Gericht muss die Anordnung nach Satz 1 treffen, wenn die Staatsanwaltschaft oder derjenige, gegen den sich die Einziehung richtet, dies beantragt. Die §§ 324 und 427 bis 431 gelten entsprechend; ergänzend finden die Vorschriften über die Hauptverhandlung entsprechende Anwendung.
+
+### § 424 Einziehungsbeteiligte am Strafverfahren
+
+(1) Richtet sich die Einziehung gegen eine Person, die nicht Beschuldigter ist, so wird sie auf Anordnung des Gerichts am Strafverfahren beteiligt, soweit dieses die Einziehung betrifft (Einziehungsbeteiligter).
+
+(2) Die Anordnung der Verfahrensbeteiligung unterbleibt, wenn derjenige, der von ihr betroffen wäre, bei Gericht oder bei der Staatsanwaltschaft schriftlich oder zu Protokoll oder bei einer anderen Behörde schriftlich erklärt, dass er gegen die Einziehung des Gegenstandes keine Einwendungen vorbringen wolle. War die Anordnung zum Zeitpunkt der Erklärung bereits ergangen, wird sie aufgehoben.
+
+(3) Die Verfahrensbeteiligung kann bis zum Ausspruch der Einziehung und, wenn eine zulässige Berufung eingelegt ist, bis zur Beendigung der Schlussvorträge im Berufungsverfahren angeordnet werden.
+
+(4) Der Beschluss, durch den die Verfahrensbeteiligung angeordnet wird, kann nicht angefochten werden. Wird die Verfahrensbeteiligung abgelehnt, ist sofortige Beschwerde zulässig.
+
+(5) Durch die Verfahrensbeteiligung wird der Fortgang des Verfahrens nicht aufgehalten.
+
+### § 425 Absehen von der Verfahrensbeteiligung
+
+(1) In den Fällen der §§ 74a und 74b des Strafgesetzbuches kann das Gericht von der Anordnung der Verfahrensbeteiligung absehen, wenn wegen bestimmter Tatsachen anzunehmen ist, dass sie nicht ausgeführt werden kann.
+
+(2) Absatz 1 gilt entsprechend, wenn
 
 1.  
-die Einziehung im Falle des Absatzes 1 Nr. 1 nur unter der Voraussetzung in Betracht kommt, daß der Gegenstand dem Angeschuldigten gehört oder zusteht, oder
+eine Partei, Vereinigung oder Einrichtung außerhalb des räumlichen Geltungsbereichs dieses Gesetzes zu beteiligen wäre, die Bestrebungen gegen den Bestand oder die Sicherheit der Bundesrepublik Deutschland oder gegen einen der in § 92 Absatz 2 des Strafgesetzbuches bezeichneten Verfassungsgrundsätze verfolgt, und
 
 2.  
-der Gegenstand nach den Umständen, welche die Einziehung begründen können, dem Einziehungsbeteiligten auch auf Grund von Rechtsvorschriften außerhalb des Strafrechts ohne Entschädigung dauernd entzogen werden könnte.
+den Umständen nach anzunehmen ist, dass diese Partei, Vereinigung oder Einrichtung oder einer ihrer Mittelsmänner den Gegenstand zur Förderung ihrer Bestrebungen zur Verfügung gestellt hat.
 
-(3) Ist über die Einziehung des Wertersatzes gegen eine juristische Person oder eine Personenvereinigung zu entscheiden (§ 75 in Verbindung mit § 74c des Strafgesetzbuches), so ordnet das Gericht deren Beteiligung an.
+Vor der Entscheidung über die Einziehung des Gegenstandes ist der Besitzer der Sache oder der zur Verfügung über das Recht Befugte zu hören, wenn dies ausführbar ist.
 
-(4) Die Verfahrensbeteiligung kann bis zum Ausspruch der Einziehung und, wenn eine zulässige Berufung eingelegt ist, bis zur Beendigung der Schlußvorträge im Berufungsverfahren angeordnet werden.
+### § 426 Anhörung von möglichen Einziehungsbeteiligten im vorbereitenden Verfahren
 
-(5) Der Beschluß, durch den die Verfahrensbeteiligung angeordnet wird, kann nicht angefochten werden. Wird die Verfahrensbeteiligung abgelehnt oder eine Anordnung nach Absatz 2 getroffen, so ist sofortige Beschwerde zulässig.
+(1) Ergeben sich im vorbereitenden Verfahren Anhaltspunkte dafür, dass jemand als Einziehungsbeteiligter in Betracht kommt, ist er zu hören. Dies gilt nur, wenn die Anhörung ausführbar erscheint. § 425 Absatz 2 gilt entsprechend.
 
-(6) Erklärt jemand bei Gericht oder bei der Staatsanwaltschaft schriftlich oder zu Protokoll oder bei einer anderen Behörde schriftlich, daß er gegen die Einziehung des Gegenstandes keine Einwendungen vorbringen wolle, so wird seine Verfahrensbeteiligung nicht angeordnet oder die Anordnung wieder aufgehoben.
+(2) Erklärt derjenige, der als Einziehungsbeteiligter in Betracht kommt, dass er gegen die Einziehung Einwendungen vorbringen wolle, gelten im Fall seiner Vernehmung die Vorschriften über die Vernehmung des Beschuldigten insoweit entsprechend, als seine Verfahrensbeteiligung in Betracht kommt.
 
-(7) Durch die Verfahrensbeteiligung wird der Fortgang des Verfahrens nicht aufgehalten.
+### § 427 Befugnisse des Einziehungsbeteiligten im Hauptverfahren
 
-### § 432 Anhörung von möglichen Einziehungsbeteiligten im vorbereitenden Verfahren
-
-(1) Ergeben sich im vorbereitenden Verfahren Anhaltspunkte dafür, daß jemand als Einziehungsbeteiligter in Betracht kommt, so ist er zu hören, wenn dies ausführbar erscheint. § 431 Abs. 1 Satz 3 gilt entsprechend.
-
-(2) Erklärt derjenige, der als Einziehungsbeteiligter in Betracht kommt, daß er gegen die Einziehung Einwendungen vorbringen wolle, und erscheint glaubhaft, daß er ein Recht an dem Gegenstand hat, so gelten, falls er vernommen wird, die Vorschriften über die Vernehmung des Beschuldigten insoweit entsprechend, als seine Verfahrensbeteiligung in Betracht kommt.
-
-### § 433 Stellung des Einziehungsbeteiligten im Hauptverfahren
-
-(1) Von der Eröffnung des Hauptverfahrens an hat der Einziehungsbeteiligte, soweit dieses Gesetz nichts anderes bestimmt, die Befugnisse, die einem Angeklagten zustehen. Im beschleunigten Verfahren gilt dies vom Beginn der Hauptverhandlung, im Strafbefehlsverfahren vom Erlaß des Strafbefehls an.
+(1) Von der Eröffnung des Hauptverfahrens an hat der Einziehungsbeteiligte, soweit dieses Gesetz nichts anderes bestimmt, die Befugnisse, die einem Angeklagten zustehen. Im beschleunigten Verfahren gilt dies vom Beginn der Hauptverhandlung, im Strafbefehlsverfahren vom Erlass des Strafbefehls an.
 
 (2) Das Gericht kann zur Aufklärung des Sachverhalts das persönliche Erscheinen des Einziehungsbeteiligten anordnen. Bleibt der Einziehungsbeteiligte, dessen persönliches Erscheinen angeordnet ist, ohne genügende Entschuldigung aus, so kann das Gericht seine Vorführung anordnen, wenn er unter Hinweis auf diese Möglichkeit durch Zustellung geladen worden ist.
 
-### § 434 Vertretung des Einziehungsbeteiligten
+### § 428 Vertretung des Einziehungsbeteiligten
 
-(1) Der Einziehungsbeteiligte kann sich in jeder Lage des Verfahrens auf Grund einer schriftlichen Vollmacht durch einen Rechtsanwalt oder eine andere Person, die als Verteidiger gewählt werden kann, vertreten lassen. Die für die Verteidigung geltenden Vorschriften der §§ 137 bis 139, 145a bis 149 und 218 sind entsprechend anzuwenden.
+(1) Der Einziehungsbeteiligte kann sich in jeder Lage des Verfahrens durch einen Rechtsanwalt mit nachgewiesener Vertretungsvollmacht vertreten lassen. Die für die Verteidigung geltenden Vorschriften der §§ 137 bis 139, 145a bis 149 und 218 sind entsprechend anzuwenden.
 
-(2) Das Gericht kann dem Einziehungsbeteiligten einen Rechtsanwalt oder eine andere Person, die als Verteidiger bestellt werden darf, beiordnen, wenn die Sach- oder Rechtslage schwierig ist oder wenn der Einziehungsbeteiligte seine Rechte nicht selbst wahrnehmen kann.
+(2) Der Vorsitzende bestellt dem Einziehungsbeteiligten auf Antrag oder von Amts wegen einen Rechtsanwalt, wenn wegen der Schwierigkeit der Sach- oder Rechtslage, soweit sie die Einziehung betrifft, die Mitwirkung eines Rechtsanwalts geboten erscheint oder wenn ersichtlich ist, dass der Einziehungsbeteiligte seine Rechte nicht selbst wahrnehmen kann. § 140 Absatz 2 Satz 2 gilt entsprechend.
 
-### § 435 Terminsnachricht an Einziehungsbeteiligte
+(3) Für das vorbereitende Verfahren gilt Absatz 1 entsprechend.
+
+### § 429 Terminsnachricht an den Einziehungsbeteiligten
 
 (1) Dem Einziehungsbeteiligten wird der Termin zur Hauptverhandlung durch Zustellung bekanntgemacht; § 40 gilt entsprechend.
 
-(2) Mit der Terminsnachricht wird ihm, soweit er an dem Verfahren beteiligt ist, die Anklageschrift und in den Fällen des § 207 Abs. 2 der Eröffnungsbeschluß mitgeteilt.
+(2) Mit der Terminsnachricht wird dem Einziehungsbeteiligten, soweit er an dem Verfahren beteiligt ist, die Anklageschrift und in den Fällen des § 207 Absatz 2 der Eröffnungsbeschluss mitgeteilt.
 
-(3) Zugleich wird der Einziehungsbeteiligte darauf hingewiesen, daß
+(3) Zugleich wird der Einziehungsbeteiligte darauf hingewiesen, dass
 
 1.  
-auch ohne ihn verhandelt werden kann und
+auch ohne ihn verhandelt werden kann,
 
 2.  
+er sich durch einen Rechtsanwalt mit nachgewiesener Vertretungsvollmacht vertreten lassen kann und
+
+3.  
 über die Einziehung auch ihm gegenüber entschieden wird.
 
-### § 436 Durchführung der Hauptverhandlung
+### § 430 Stellung in der Hauptverhandlung
 
-(1) Bleibt der Einziehungsbeteiligte in der Hauptverhandlung trotz ordnungsgemäßer Terminsnachricht aus, so kann ohne ihn verhandelt werden. § 235 ist nicht anzuwenden.
+(1) Bleibt der Einziehungsbeteiligte in der Hauptverhandlung trotz ordnungsgemäßer Terminsnachricht aus, kann ohne ihn verhandelt werden; § 235 ist nicht anzuwenden. Gleiches gilt, wenn sich der Einziehungsbeteiligte aus der Hauptverhandlung entfernt oder bei der Fortsetzung einer unterbrochenen Hauptverhandlung ausbleibt.
 
-(2) Auf Beweisanträge des Einziehungsbeteiligten zur Frage der Schuld des Angeklagten ist § 244 Abs. 3 Satz 2, Abs. 4 bis 6 nicht anzuwenden.
+(2) Auf Beweisanträge des Einziehungsbeteiligten zur Frage der Schuld des Angeklagten ist § 244 Absatz 3 Satz 2, Absatz 4 bis 6 nicht anzuwenden.
 
-(3) Ordnet das Gericht die Einziehung auf Grund von Umständen an, die einer Entschädigung des Einziehungsbeteiligten entgegenstehen, so spricht es zugleich aus, daß dem Einziehungsbeteiligten eine Entschädigung nicht zusteht. Dies gilt nicht, wenn das Gericht eine Entschädigung des Einziehungsbeteiligten für geboten hält, weil es eine unbillige Härte wäre, sie zu versagen; in diesem Falle entscheidet es zugleich über die Höhe der Entschädigung (§ 74f Abs. 3 des Strafgesetzbuches). Das Gericht weist den Einziehungsbeteiligten zuvor auf die Möglichkeit einer solchen Entscheidung hin und gibt ihm Gelegenheit, sich zu äußern.
+(3) Ordnet das Gericht die Einziehung eines Gegenstandes nach § 74b Absatz 1 des Strafgesetzbuches an, ohne dass eine Entschädigung nach § 74b Absatz 2 des Strafgesetzbuches zu gewähren ist, spricht es zugleich aus, dass dem Einziehungsbeteiligten eine Entschädigung nicht zusteht. Dies gilt nicht, wenn das Gericht eine Entschädigung des Einziehungsbeteiligten nach § 74b Absatz 3 Satz 2 des Strafgesetzbuches für geboten hält; in diesem Fall entscheidet es zugleich über die Höhe der Entschädigung. Das Gericht weist den Einziehungsbeteiligten zuvor auf die Möglichkeit einer solchen Entscheidung hin und gibt ihm Gelegenheit, sich zu äußern.
 
-(4) War der Einziehungsbeteiligte bei der Verkündung des Urteils nicht zugegen und auch nicht vertreten, so ist ihm das Urteil zuzustellen. Das Gericht kann anordnen, daß Teile des Urteils, welche die Einziehung nicht betreffen, ausgeschieden werden.
+(4) War der Einziehungsbeteiligte bei der Verkündung des Urteils nicht zugegen und auch nicht vertreten, so ist ihm das Urteil zuzustellen. Das Gericht kann anordnen, dass Teile des Urteils, welche die Einziehung nicht betreffen, ausgeschieden werden.
 
-### § 437 Überprüfungsumfang im Rechtsmittelverfahren
+### § 431 Rechtsmittelverfahren
 
-(1) Im Rechtsmittelverfahren erstreckt sich die Prüfung, ob die Einziehung dem Einziehungsbeteiligten gegenüber gerechtfertigt ist, auf den Schuldspruch des angefochtenen Urteils nur, wenn der Einziehungsbeteiligte insoweit Einwendungen vorbringt und im vorausgegangenen Verfahren ohne sein Verschulden zum Schuldspruch nicht gehört worden ist. Erstreckt sich hiernach die Prüfung auch auf den Schuldspruch, so legt das Gericht die zur Schuld getroffenen Feststellungen zugrunde, soweit nicht das Vorbringen des Einziehungsbeteiligten eine erneute Prüfung erfordert.
+(1) Im Rechtsmittelverfahren erstreckt sich die Prüfung, ob die Einziehung dem Einziehungsbeteiligten gegenüber gerechtfertigt ist, auf den Schuldspruch des angefochtenen Urteils nur, wenn der Einziehungsbeteiligte
+
+1.  
+insoweit Einwendungen vorbringt und
+
+2.  
+im vorausgegangenen Verfahren ohne sein Verschulden zum Schuldspruch nicht gehört worden ist.
+
+Erstreckt sich hiernach die Prüfung auch auf den Schuldspruch, legt das Gericht die zur Schuld getroffenen Feststellungen zugrunde, soweit nicht das Vorbringen des Einziehungsbeteiligten eine erneute Prüfung erfordert.
 
 (2) Im Berufungsverfahren gilt Absatz 1 nicht, wenn zugleich auf ein Rechtsmittel eines anderen Beteiligten über den Schuldspruch zu entscheiden ist.
 
 (3) Im Revisionsverfahren sind die Einwendungen gegen den Schuldspruch innerhalb der Begründungsfrist vorzubringen.
 
-(4) Wird nur die Entscheidung über die Höhe der Entschädigung angefochten, so kann über das Rechtsmittel durch Beschluß entschieden werden, wenn die Beteiligten nicht widersprechen. Das Gericht weist sie zuvor auf die Möglichkeit eines solchen Verfahrens und des Widerspruchs hin und gibt ihnen Gelegenheit, sich zu äußern.
+(4) Wird nur die Entscheidung über die Höhe der Entschädigung angefochten, kann über das Rechtsmittel durch Beschluss entschieden werden, wenn die Beteiligten nicht widersprechen. Das Gericht weist sie zuvor auf die Möglichkeit eines solchen Verfahrens und des Widerspruchs hin und gibt ihnen Gelegenheit, sich zu äußern.
 
-### § 438 Einziehung durch Strafbefehl
+### § 432 Einziehung durch Strafbefehl
 
-(1) Wird die Einziehung durch Strafbefehl angeordnet, so wird der Strafbefehl auch dem Einziehungsbeteiligten zugestellt. § 435 Abs. 3 Nr. 2 gilt entsprechend.
+(1) Wird die Einziehung durch Strafbefehl angeordnet, so wird der Strafbefehl auch dem Einziehungsbeteiligten zugestellt, soweit er an dem Verfahren beteiligt ist. § 429 Absatz 3 Nummer 2 gilt entsprechend.
 
-(2) Ist nur über den Einspruch des Einziehungsbeteiligten zu entscheiden, so gelten § 439 Abs. 3 Satz 1 und § 441 Abs. 2 und 3 entsprechend.
+(2) Ist nur über den Einspruch des Einziehungsbeteiligten zu entscheiden, so gilt § 434 Absatz 2 und 3 entsprechend.
 
-### § 439 Nachverfahren
+### § 433 Nachverfahren
 
-(1) Ist die Einziehung eines Gegenstandes rechtskräftig angeordnet worden und macht jemand glaubhaft, daß er
-
-1.  
-zur Zeit der Rechtskraft der Entscheidung ein Recht an dem Gegenstand gehabt hat, das infolge der Entscheidung beeinträchtigt ist oder nicht mehr besteht, und
-
-2.  
-ohne sein Verschulden weder im Verfahren des ersten Rechtszuges noch im Berufungsverfahren die Rechte des Einziehungsbeteiligten hat wahrnehmen können,
-
-so kann er in einem Nachverfahren geltend machen, daß die Einziehung ihm gegenüber nicht gerechtfertigt sei. § 360 gilt entsprechend.
+(1) Ist die Einziehung rechtskräftig angeordnet worden und macht jemand glaubhaft, dass er seine Rechte als Einziehungsbeteiligter ohne sein Verschulden weder im Verfahren des ersten Rechtszuges noch im Berufungsverfahren hat wahrnehmen können, so kann er in einem Nachverfahren geltend machen, dass die Einziehung ihm gegenüber nicht gerechtfertigt sei.
 
 (2) Das Nachverfahren ist binnen eines Monats nach Ablauf des Tages zu beantragen, an dem der Antragsteller von der rechtskräftigen Entscheidung Kenntnis erlangt hat. Der Antrag ist unzulässig, wenn seit Eintritt der Rechtskraft zwei Jahre verstrichen sind und die Vollstreckung beendet ist.
 
-(3) Das Gericht prüft den Schuldspruch nicht nach, wenn nach den Umständen, welche die Einziehung begründet haben, im Strafverfahren eine Anordnung nach § 431 Abs. 2 zulässig gewesen wäre. Im übrigen gilt § 437 Abs. 1 entsprechend.
+(3) Durch den Antrag auf Durchführung des Nachverfahrens wird die Vollstreckung der Anordnung der Einziehung nicht gehemmt; das Gericht kann jedoch einen Aufschub sowie eine Unterbrechung der Vollstreckung anordnen. Wird in den Fällen des § 73b des Strafgesetzbuches, auch in Verbindung mit § 73c des Strafgesetzbuches, unter den Voraussetzungen des Absatzes 1 ein Nachverfahren beantragt, sollen bis zu dessen Abschluss Vollstreckungsmaßnahmen gegen den Antragsteller unterbleiben.
 
-(4) Wird das vom Antragsteller behauptete Recht nicht erwiesen, so ist der Antrag unbegründet.
+(4) Für den Umfang der Prüfung gilt § 431 Absatz 1 entsprechend. Wird das vom Antragsteller behauptete Recht nicht erwiesen, ist der Antrag unbegründet.
 
-(5) Vor der Entscheidung kann das Gericht mit Zustimmung der Staatsanwaltschaft die Anordnung der Einziehung aufheben, wenn das Nachverfahren einen unangemessenen Aufwand erfordern würde.
+(5) Vor der Entscheidung kann das Gericht unter den Voraussetzungen des § 421 Absatz 1 mit Zustimmung der Staatsanwaltschaft die Anordnung der Einziehung aufheben.
 
-(6) Eine Wiederaufnahme des Verfahrens nach § 359 Nr. 5 zu dem Zweck, die Einwendungen nach Absatz 1 geltend zu machen, ist ausgeschlossen.
+(6) Eine Wiederaufnahme des Verfahrens nach § 359 Nummer 5 zu dem Zweck, die Einwendungen nach Absatz 1 geltend zu machen, ist ausgeschlossen.
 
-### § 440 Selbständiges Einziehungsverfahren
+### § 434 Entscheidung im Nachverfahren
 
-(1) Die Staatsanwaltschaft und der Privatkläger können den Antrag stellen, die Einziehung selbständig anzuordnen, wenn dies gesetzlich zulässig und die Anordnung nach dem Ergebnis der Ermittlungen zu erwarten ist.
+(1) Die Entscheidung über die Einziehung im Nachverfahren trifft das Gericht des ersten Rechtszuges.
 
-(2) In dem Antrag ist der Gegenstand zu bezeichnen. Ferner ist anzugeben, welche Tatsachen die Zulässigkeit der selbständigen Einziehung begründen. Im übrigen gilt § 200 entsprechend.
+(2) Das Gericht entscheidet durch Beschluss, gegen den sofortige Beschwerde zulässig ist.
 
-(3) Die §§ 431 bis 436 und 439 gelten entsprechend.
+(3) Über einen zulässigen Antrag wird auf Grund mündlicher Verhandlung durch Urteil entschieden, wenn die Staatsanwaltschaft oder sonst der Antragsteller es beantragt oder das Gericht dies anordnet; die Vorschriften über die Hauptverhandlung gelten entsprechend. Wer gegen das Urteil eine zulässige Berufung eingelegt hat, kann gegen das Berufungsurteil nicht mehr Revision einlegen.
 
-### § 441 Verfahren bei Einziehung im Nachverfahren oder selbständigen Einziehungsverfahren
+(4) Ist durch Urteil entschieden, so gilt § 431 Absatz 4 entsprechend.
 
-(1) Die Entscheidung über die Einziehung im Nachverfahren (§ 439) trifft das Gericht des ersten Rechtszuges, die Entscheidung über die selbständige Einziehung (§ 440) das Gericht, das im Falle der Strafverfolgung einer bestimmten Person zuständig wäre. Für die Entscheidung über die selbständige Einziehung ist örtlich zuständig auch das Gericht, in dessen Bezirk der Gegenstand sichergestellt worden ist.
+### § 435 Selbständiges Einziehungsverfahren
 
-(2) Das Gericht entscheidet durch Beschluß, gegen den sofortige Beschwerde zulässig ist.
+(1) Die Staatsanwaltschaft und der Privatkläger können den Antrag stellen, die Einziehung selbständig anzuordnen, wenn dies gesetzlich zulässig und die Anordnung nach dem Ergebnis der Ermittlungen zu erwarten ist. Die Staatsanwaltschaft kann insbesondere von dem Antrag absehen, wenn das Erlangte nur einen geringen Wert hat oder das Verfahren einen unangemessenen Aufwand erfordern würde.
 
-(3) Über einen zulässigen Antrag wird jedoch auf Grund mündlicher Verhandlung durch Urteil entschieden, wenn die Staatsanwaltschaft oder sonst ein Beteiligter es beantragt oder das Gericht es anordnet; die Vorschriften über die Hauptverhandlung gelten entsprechend. Wer gegen das Urteil eine zulässige Berufung eingelegt hat, kann gegen das Berufungsurteil nicht mehr Revision einlegen.
+(2) In dem Antrag ist der Gegenstand oder der Geldbetrag, der dessen Wert entspricht, zu bezeichnen. Ferner ist anzugeben, welche Tatsachen die Zulässigkeit der selbständigen Einziehung begründen. Im Übrigen gilt § 200 entsprechend.
 
-(4) Ist durch Urteil entschieden, so gilt § 437 Abs. 4 entsprechend.
+(3) Für das weitere Verfahren gelten die §§ 201 bis 204, 207, 210 und 211 entsprechend, soweit dies ausführbar ist. Im Übrigen finden die §§ 424 bis 430 und 433 entsprechende Anwendung.
 
-### § 442 Der Einziehung gleichstehende Rechtsfolgen; Verfallsbeteiligte
+### § 436 Entscheidung im selbständigen Einziehungsverfahren
 
-(1) Verfall, Vernichtung, Unbrauchbarmachung und Beseitigung eines gesetzwidrigen Zustandes stehen im Sinne der §§ 430 bis 441 der Einziehung gleich.
+(1) Die Entscheidung über die selbständige Einziehung trifft das Gericht, das im Fall der Strafverfolgung einer bestimmten Person zuständig wäre. Für die Entscheidung über die selbständige Einziehung ist örtlich zuständig auch das Gericht, in dessen Bezirk der Gegenstand sichergestellt worden ist.
 
-(2) Richtet sich der Verfall nach § 73 Abs. 3 oder § 73a des Strafgesetzbuches gegen einen anderen als den Angeschuldigten, so ordnet das Gericht an, daß der andere an dem Verfahren beteiligt wird. Er kann seine Einwendungen gegen die Anordnung des Verfalls im Nachverfahren geltend machen, wenn er ohne sein Verschulden weder im Verfahren des ersten Rechtszuges noch im Berufungsverfahren imstande war, die Rechte des Verfahrensbeteiligten wahrzunehmen. Wird unter diesen Voraussetzungen ein Nachverfahren beantragt, so sollen bis zu dessen Abschluß Vollstreckungsmaßnahmen gegen den Antragsteller unterbleiben.
+(2) § 423 Absatz 1 Satz 2 und § 434 Absatz 2 bis 4 gelten entsprechend.
+
+### § 437 Besondere Regelungen für das selbständige Einziehungsverfahren
+
+Bei der Entscheidung über die selbständige Einziehung nach § 76a Absatz 4 des Strafgesetzbuches kann das Gericht seine Überzeugung davon, dass der Gegenstand aus einer rechtswidrigen Tat herrührt, insbesondere auf ein grobes Missverhältnis zwischen dem Wert des Gegenstandes und den rechtmäßigen Einkünften des Betroffenen stützen. Darüber hinaus kann es bei seiner Entscheidung insbesondere auch berücksichtigen
+
+1.  
+das Ergebnis der Ermittlungen zu der Tat, die Anlass für das Verfahren war,
+
+2.  
+die Umstände, unter denen der Gegenstand aufgefunden und sichergestellt worden ist, sowie
+
+3.  
+die sonstigen persönlichen und wirtschaftlichen Verhältnisse des Betroffenen.
+
+### § 438 Nebenbetroffene am Strafverfahren
+
+(1) Ist über die Einziehung eines Gegenstandes zu entscheiden, ordnet das Gericht an, dass eine Person, die weder Angeschuldigte ist noch als Einziehungsbeteiligte in Betracht kommt, als Nebenbetroffene an dem Verfahren beteiligt wird, soweit es die Einziehung betrifft, wenn es glaubhaft erscheint, dass
+
+1.  
+dieser Person der Gegenstand gehört oder zusteht oder
+
+2.  
+diese Person an dem Gegenstand ein sonstiges Recht hat, dessen Erlöschen nach § 75 Absatz 2 Satz 2 und 3 des Strafgesetzbuches im Falle der Einziehung angeordnet werden könnte.
+
+Für die Anordnung der Verfahrensbeteiligung gelten § 424 Absatz 2 bis 5 und § 425 entsprechend.
+
+(2) Das Gericht kann anordnen, dass sich die Beteiligung nicht auf die Frage der Schuld des Angeschuldigten erstreckt, wenn
+
+1.  
+die Einziehung im Fall des Absatzes 1 Nummer 1 nur unter der Voraussetzung in Betracht kommt, dass der Gegenstand demjenigen gehört oder zusteht, gegen den sich die Einziehung richtet, oder
+
+2.  
+der Gegenstand nach den Umständen, welche die Einziehung begründen können, auch auf Grund von Rechtsvorschriften außerhalb des Strafrechts ohne Entschädigung dauerhaft entzogen werden könnte.
+
+§ 424 Absatz 4 Satz 2 gilt entsprechend.
+
+(3) Im Übrigen gelten die §§ 426 bis 434 entsprechend mit der Maßgabe, dass in den Fällen des § 432 Absatz 2 und des § 433 das Gericht den Schuldspruch nicht nachprüft, wenn nach den Umständen, welche die Einziehung begründet haben, eine Anordnung nach Absatz 2 zulässig wäre.
+
+### § 439 Der Einziehung gleichstehende Rechtsfolgen
+
+Vernichtung, Unbrauchbarmachung und Beseitigung eines gesetzwidrigen Zustandes stehen im Sinne der §§ 421 bis 436 der Einziehung gleich.
+
+### (XXXX)§§ 440 bis 442 (weggefallen)
 
 ### § 443 Vermögensbeschlagnahme
 
@@ -6800,11 +6991,11 @@ Vierter Abschnitt Verfahren bei Festsetzung von Geldbußen gegen juristische Per
 
 ### § 444 Verfahren
 
-(1) Ist im Strafverfahren über die Festsetzung einer Geldbuße gegen eine juristische Person oder eine Personenvereinigung zu entscheiden (§ 30 des Gesetzes über Ordnungswidrigkeiten), so ordnet das Gericht deren Beteiligung an dem Verfahren an, soweit es die Tat betrifft. § 431 Abs. 4, 5 gilt entsprechend.
+(1) Ist im Strafverfahren über die Festsetzung einer Geldbuße gegen eine juristische Person oder eine Personenvereinigung zu entscheiden (§ 30 des Gesetzes über Ordnungswidrigkeiten), so ordnet das Gericht deren Beteiligung an dem Verfahren an, soweit es die Tat betrifft. § 424 Absatz 3 und 4 gilt entsprechend.
 
-(2) Die juristische Person oder die Personenvereinigung wird zur Hauptverhandlung geladen; bleibt ihr Vertreter ohne genügende Entschuldigung aus, so kann ohne sie verhandelt werden. Für ihre Verfahrensbeteiligung gelten im übrigen die §§ 432 bis 434, 435 Abs. 2 und 3 Nr. 1, § 436 Abs. 2 und 4, § 437 Abs. 1 bis 3, § 438 Abs. 1 und, soweit nur über ihren Einspruch zu entscheiden ist, § 441 Abs. 2 und 3 sinngemäß.
+(2) Die juristische Person oder die Personenvereinigung wird zur Hauptverhandlung geladen; bleibt ihr Vertreter ohne genügende Entschuldigung aus, so kann ohne sie verhandelt werden. Für ihre Verfahrensbeteiligung gelten im übrigen die §§ 426 bis 428, 429 Absatz 2 und 3 Nummer 1, § 430 Absatz 2 und 4, § 431 Absatz 1 bis 3, § 432 Absatz 1 und, soweit nur über ihren Einspruch zu entscheiden ist, § 434 Absatz 2 und 3 sinngemäß.
 
-(3) Für das selbständige Verfahren gelten die §§ 440 und 441 Abs. 1 bis 3 sinngemäß. Örtlich zuständig ist auch das Gericht, in dessen Bezirk die juristische Person oder die Personenvereinigung ihren Sitz oder eine Zweigniederlassung hat.
+(3) Für das selbständige Verfahren gelten die §§ 435, 436 Absatz 1 und 2 in Verbindung mit § 434 Absatz 2 oder 3 sinngemäß. Örtlich zuständig ist auch das Gericht, in dessen Bezirk die juristische Person oder die Personenvereinigung ihren Sitz oder eine Zweigniederlassung hat.
 
 ### (XXXX) §§ 445 bis 448 (weggefallen)
 
@@ -6934,7 +7125,9 @@ bei lebenslanger Freiheitsstrafe fünfzehn Jahre
 
 der Strafe verbüßt sind. Dies gilt nicht für Strafreste, die auf Grund Widerrufs ihrer Aussetzung vollstreckt werden. Treten die Voraussetzungen für eine Unterbrechung der zunächst zu vollstreckenden Freiheitsstrafe bereits vor Vollstreckbarkeit der später zu vollstreckenden Freiheitsstrafe ein, erfolgt die Unterbrechung rückwirkend auf den Zeitpunkt des Eintritts der Vollstreckbarkeit.
 
-(3) Hat die Vollstreckungsbehörde die Vollstreckung nach Absatz 2 unterbrochen, so trifft das Gericht die Entscheidungen nach den §§ 57 und 57a des Strafgesetzbuches erst, wenn über die Aussetzung der Vollstreckung der Reste aller Strafen gleichzeitig entschieden werden kann.
+(3) Auf Antrag des Verurteilten kann die Vollstreckungsbehörde von der Unterbrechung der Vollstreckung von Freiheitsstrafen in den Fällen des Absatzes 2 Satz 1 Nummer 1 oder Nummer 2 absehen, wenn zu erwarten ist, dass nach deren vollständiger Verbüßung die Voraussetzungen einer Zurückstellung der Strafvollstreckung nach § 35 des Betäubungsmittelgesetzes für eine weitere zu vollstreckende Freiheitsstrafe erfüllt sein werden.
+
+(4) Hat die Vollstreckungsbehörde die Vollstreckung nach Absatz 2 unterbrochen, so trifft das Gericht die Entscheidungen nach den §§ 57 und 57a des Strafgesetzbuches erst, wenn über die Aussetzung der Vollstreckung der Reste aller Strafen gleichzeitig entschieden werden kann.
 
 ### § 455 Strafausstand wegen Vollzugsuntauglichkeit
 
@@ -7001,13 +7194,13 @@ und zu erwarten ist, daß die Krankheit voraussichtlich für eine erhebliche Zei
 
 (1) Wenn über die Auslegung eines Strafurteils oder über die Berechnung der erkannten Strafe Zweifel entstehen oder wenn Einwendungen gegen die Zulässigkeit der Strafvollstreckung erhoben werden, so ist die Entscheidung des Gerichts herbeizuführen.
 
-(2) Das Gericht entscheidet ferner, wenn in den Fällen des § 454b Abs. 1 und 2 sowie der §§ 455, 456 und 456c Abs. 2 Einwendungen gegen die Entscheidung der Vollstreckungsbehörde erhoben werden oder wenn die Vollstreckungsbehörde anordnet, daß an einem Ausgelieferten, Abgeschobenen, Zurückgeschobenen oder Zurückgewiesenen die Vollstreckung einer Strafe oder einer Maßregel der Besserung und Sicherung nachgeholt werden soll, und Einwendungen gegen diese Anordnung erhoben werden.
+(2) Das Gericht entscheidet ferner, wenn in den Fällen des § 454b Absatz 1 bis 3 sowie der §§ 455, 456 und 456c Abs. 2 Einwendungen gegen die Entscheidung der Vollstreckungsbehörde erhoben werden oder wenn die Vollstreckungsbehörde anordnet, daß an einem Ausgelieferten, Abgeschobenen, Zurückgeschobenen oder Zurückgewiesenen die Vollstreckung einer Strafe oder einer Maßregel der Besserung und Sicherung nachgeholt werden soll, und Einwendungen gegen diese Anordnung erhoben werden.
 
 (3) Der Fortgang der Vollstreckung wird hierdurch nicht gehemmt; das Gericht kann jedoch einen Aufschub oder eine Unterbrechung der Vollstreckung anordnen. In den Fällen des § 456c Abs. 2 kann das Gericht eine einstweilige Anordnung treffen.
 
-### § 459 Vollstreckung der Geldstrafe; Anwendung der Justizbeitreibungsordnung
+### § 459 Vollstreckung der Geldstrafe; Anwendung des Justizbeitreibungsgesetzes
 
-Für die Vollstreckung der Geldstrafe gelten die Vorschriften der Justizbeitreibungsordnung, soweit dieses Gesetz nichts anderes bestimmt.
+Für die Vollstreckung der Geldstrafe gelten die Vorschriften des Justizbeitreibungsgesetzes, soweit dieses Gesetz nichts anderes bestimmt.
 
 ### § 459a Bewilligung von Zahlungserleichterungen
 
@@ -7059,19 +7252,77 @@ und die Vollstreckung der Geldstrafe die Wiedereingliederung des Verurteilten er
 
 Das Gericht ordnet an, daß die Vollstreckung der Ersatzfreiheitsstrafe unterbleibt, wenn die Vollstreckung für den Verurteilten eine unbillige Härte wäre.
 
-### § 459g Vollstreckung der Nebenfolgen; Anwendung der Justizbeitreibungsordnung
+### § 459g Vollstreckung von Nebenfolgen
 
-(1) Ist der Verfall, die Einziehung oder die Unbrauchbarmachung einer Sache angeordnet worden, so wird die Anordnung dadurch vollstreckt, daß die Sache dem Verurteilten oder dem Verfalls- oder Einziehungsbeteiligten weggenommen wird. Für die Vollstreckung gelten die Vorschriften der Justizbeitreibungsordnung.
+(1) Die Anordnung der Einziehung oder der Unbrauchbarmachung einer Sache wird dadurch vollstreckt, dass die Sache demjenigen, gegen den sich die Anordnung richtet, weggenommen wird. Für die Vollstreckung gelten die Vorschriften des Justizbeitreibungsgesetzes.
 
-(2) Für die Vollstreckung von Nebenfolgen, die zu einer Geldzahlung verpflichten, gelten die §§ 459, 459a, 459c Abs. 1 und 2 und § 459d entsprechend.
+(2) Für die Vollstreckung der Nebenfolgen, die zu einer Geldzahlung verpflichten, gelten die §§ 459, 459a sowie 459c Absatz 1 und 2 entsprechend.
 
-### § 459h Einwendungen gegen vollstreckungsbehördliche Entscheidungen; Zuständigkeit
+(3) Die §§ 102 bis 110, 111c Absatz 1 und 2, § 111f Absatz 1, § 111k Absatz 1 und 2 sowie § 131 Absatz 1 gelten entsprechend.
 
-Über Einwendungen gegen die Entscheidungen der Vollstreckungsbehörde nach den §§ 459a, 459c, 459e und 459g entscheidet das Gericht.
+(4) Das Gericht ordnet den Ausschluss der Vollstreckung der Einziehung nach den §§ 73 bis 73c des Strafgesetzbuches an, soweit der Anspruch, der dem Verletzten aus der Tat auf Rückgewähr des Erlangten oder auf Ersatz des Wertes des Erlangten erwachsen ist, erloschen ist.
+
+(5) In den Fällen des Absatzes 2 unterbleibt auf Anordnung des Gerichts die Vollstreckung, soweit der Wert des Erlangten nicht mehr im Vermögen des Betroffenen vorhanden ist oder die Vollstreckung sonst unverhältnismäßig wäre. Die Vollstreckung wird wieder aufgenommen, wenn nachträglich Umstände bekannt werden oder eintreten, die einer Anordnung nach Satz 1 entgegenstehen.
+
+### § 459h Entschädigung des Verletzten
+
+(1) Ein nach den §§ 73 bis 73b des Strafgesetzbuches eingezogener Gegenstand wird dem Verletzten, dem ein Anspruch auf Rückgewähr des Erlangten erwachsen ist, oder dessen Rechtsnachfolger zurückübertragen. Gleiches gilt, wenn der Gegenstand nach § 76a Absatz 1 des Strafgesetzbuches, auch in Verbindung mit § 76a Absatz 3 des Strafgesetzbuches, eingezogen worden ist. In den Fällen des § 75 Absatz 1 Satz 2 des Strafgesetzbuches wird der eingezogene Gegenstand dem Verletzten oder dessen Rechtsnachfolger herausgegeben, wenn dieser sein Recht fristgerecht bei der Vollstreckungsbehörde angemeldet hat.
+
+(2) Hat das Gericht die Einziehung des Wertersatzes nach den §§ 73c und 76a Absatz 1 Satz 1 des Strafgesetzbuches, auch in Verbindung mit § 76a Absatz 3 des Strafgesetzbuches, angeordnet, wird der Erlös aus der Verwertung der auf Grund des Vermögensarrestes oder der Einziehungsanordnung gepfändeten Gegenstände an den Verletzten, dem ein Anspruch auf Ersatz des Wertes des Erlangten aus der Tat erwachsen ist, oder an dessen Rechtsnachfolger ausgekehrt. § 111i gilt entsprechend.
+
+### § 459i Mitteilungen
+
+(1) Der Eintritt der Rechtskraft der Einziehungsanordnung nach den §§ 73 bis 73c und 76a Absatz 1 Satz 1 des Strafgesetzbuches, auch in Verbindung mit § 76a Absatz 3 des Strafgesetzbuches, wird dem Verletzten unverzüglich mitgeteilt. Die Mitteilung ist zuzustellen; § 111l Absatz 4 gilt entsprechend.
+
+(2) Die Mitteilung ist im Fall der Einziehung des Gegenstandes mit dem Hinweis auf den Anspruch nach § 459h Absatz 1 und auf das Verfahren nach § 459j zu verbinden. Im Fall der Einziehung des Wertersatzes ist sie mit dem Hinweis auf den Anspruch nach § 459h Absatz 2 und das Verfahren nach den §§ 459k bis 459m zu verbinden.
+
+### § 459j Verfahren bei Rückübertragung und Herausgabe
+
+(1) Der Verletzte oder dessen Rechtsnachfolger hat seinen Anspruch auf Rückübertragung oder Herausgabe nach § 459h Absatz 1 binnen sechs Monaten nach der Mitteilung der Rechtskraft der Einziehungsanordnung bei der Vollstreckungsbehörde anzumelden.
+
+(2) Ergibt sich die Anspruchsberechtigung des Antragstellers ohne weiteres aus der Einziehungsanordnung und den ihr zugrundeliegenden Feststellungen, so wird der eingezogene Gegenstand an den Antragsteller zurückübertragen oder herausgegeben. Andernfalls bedarf es der Zulassung durch das Gericht. Das Gericht lässt die Rückübertragung oder Herausgabe nach Maßgabe des § 459h Absatz 1 zu. Die Zulassung ist zu versagen, wenn der Antragsteller seine Anspruchsberechtigung nicht glaubhaft macht; § 294 der Zivilprozessordnung ist anzuwenden.
+
+(3) Vor der Entscheidung über die Rückübertragung oder Herausgabe ist derjenige, gegen den sich die Anordnung der Einziehung richtet, zu hören. Dies gilt nur, wenn die Anhörung ausführbar erscheint.
+
+(4) Bei Versäumung der in Absatz 1 Satz 1 genannten Frist ist unter den in den §§ 44 und 45 bezeichneten Voraussetzungen die Wiedereinsetzung in den vorigen Stand zu gewähren.
+
+(5) Unbeschadet des Verfahrens nach Absatz 1 kann der Verletzte oder dessen Rechtsnachfolger seinen Anspruch auf Rückübertragung oder Herausgabe nach § 459h Absatz 1 geltend machen, indem er ein vollstreckbares Endurteil im Sinne des § 704 der Zivilprozessordnung oder einen anderen Vollstreckungstitel im Sinne des § 794 der Zivilprozessordnung vorlegt, aus dem sich der geltend gemachte Anspruch ergibt.
+
+### § 459k Verfahren bei Auskehrung des Verwertungserlöses
+
+(1) Der Verletzte oder dessen Rechtsnachfolger hat seinen Anspruch auf Auskehrung des Verwertungserlöses nach § 459h Absatz 2 binnen sechs Monaten nach der Mitteilung der Rechtskraft der Einziehungsanordnung bei der Vollstreckungsbehörde anzumelden. Bei der Anmeldung ist die Höhe des Anspruchs zu bezeichnen.
+
+(2) Ergeben sich die Anspruchsberechtigung des Antragstellers und die Anspruchshöhe ohne weiteres aus der Einziehungsanordnung und den ihr zugrunde liegenden Feststellungen, so wird der Verwertungserlös in diesem Umfang an den Antragsteller ausgekehrt. Andernfalls bedarf es der Zulassung durch das Gericht. Das Gericht lässt die Auskehrung des Verwertungserlöses nach Maßgabe des § 459h Absatz 2 zu. Die Zulassung ist zu versagen, wenn der Antragsteller seine Anspruchsberechtigung nicht glaubhaft macht; § 294 der Zivilprozessordnung ist anzuwenden.
+
+(3) Vor der Entscheidung über die Auskehrung ist derjenige, gegen den sich die Anordnung der Einziehung richtet, zu hören. Dies gilt nur, wenn die Anhörung ausführbar erscheint.
+
+(4) Bei Versäumung der in Absatz 1 Satz 1 genannten Frist ist unter den in den §§ 44 und 45 bezeichneten Voraussetzungen die Wiedereinsetzung in den vorigen Stand zu gewähren.
+
+(5) Unbeschadet des Verfahrens nach Absatz 1 kann der Verletzte oder dessen Rechtsnachfolger seinen Anspruch auf Auskehrung des Verwertungserlöses nach § 459h Absatz 2 geltend machen, indem er ein vollstreckbares Endurteil im Sinne des § 704 der Zivilprozessordnung oder einen anderen Vollstreckungstitel im Sinne des § 794 der Zivilprozessordnung vorlegt, aus dem sich der geltend gemachte Anspruch ergibt. Einem vollstreckbaren Endurteil im Sinne des § 704 der Zivilprozessordnung stehen bestandskräftige öffentlich-rechtliche Vollstreckungstitel über Geldforderungen gleich.
+
+### § 459l Ansprüche des Betroffenen
+
+(1) Legt derjenige, gegen den sich die Anordnung der Einziehung richtet, ein vollstreckbares Endurteil im Sinne des § 704 der Zivilprozessordnung oder einen anderen Vollstreckungstitel im Sinne des § 794 der Zivilprozessordnung vor, aus dem sich ergibt, dass dem Verletzten aus der Tat ein Anspruch auf Rückgewähr des Erlangten erwachsen ist, kann er verlangen, dass der eingezogene Gegenstand nach Maßgabe des § 459h Absatz 1 an den Verletzten oder dessen Rechtsnachfolger zurückübertragen oder herausgegeben wird. § 459j Absatz 2 gilt entsprechend.
+
+(2) Befriedigt derjenige, gegen den sich die Anordnung der Einziehung des Wertersatzes richtet, den Anspruch, der dem Verletzten aus der Tat auf Rückgewähr des Erlangten oder auf Ersatz des Wertes des Erlangten erwachsen ist, kann er im Umfang der Befriedigung Ausgleich aus dem Verwertungserlös verlangen, soweit unter den Voraussetzungen des § 459k Absatz 2 Satz 1 der Verwertungserlös an den Verletzten nach § 459h Absatz 2 auszukehren gewesen wäre. § 459k Absatz 2 Satz 2 bis 4 gilt entsprechend. Die Befriedigung des Anspruchs muss in allen Fällen durch eine Quittung des Verletzten oder dessen Rechtsnachfolgers glaubhaft gemacht werden. Der Verletzte oder dessen Rechtsnachfolger ist vor der Entscheidung über den Ausgleichsanspruch zu hören, wenn dies ausführbar erscheint.
+
+### § 459m Entschädigung in sonstigen Fällen
+
+(1) In den Fällen des § 111i Absatz 3 wird der Überschuss an den Verletzten oder dessen Rechtsnachfolger ausgekehrt, der ein vollstreckbares Endurteil im Sinne des § 704 der Zivilprozessordnung oder einen anderen Vollstreckungstitel im Sinne des § 794 der Zivilprozessordnung vorlegt, aus dem sich der geltend gemachte Anspruch ergibt. § 459k Absatz 2 und 5 Satz 2 gilt entsprechend. Die Auskehrung ist ausgeschlossen, wenn zwei Jahre seit der Aufhebung des Insolvenzverfahrens verstrichen sind. In den Fällen des § 111i Absatz 2 gelten die Sätze 1 bis 3 entsprechend, wenn ein Insolvenzverfahren nicht durchgeführt wird.
+
+(2) Absatz 1 Satz 1 und 2 gilt entsprechend, wenn nach Aufhebung des Insolvenzverfahrens oder nach Abschluss der Auskehrung des Verwertungserlöses bei der Vollstreckung der Wertersatzeinziehung nach den §§ 73c und 76a Absatz 1 Satz 1 des Strafgesetzbuches, auch in Verbindung mit § 76a Absatz 3 des Strafgesetzbuches, ein Gegenstand gepfändet wird.
+
+### § 459n Zahlungen auf Wertersatzeinziehung
+
+Leistet derjenige, gegen den sich die Anordnung richtet, Zahlungen auf die Anordnung der Einziehung des Wertersatzes nach den §§ 73c und 76a Absatz 1 Satz 1 des Strafgesetzbuches, auch in Verbindung mit § 76a Absatz 3 des Strafgesetzbuches, so gelten § 459h Absatz 2 sowie die §§ 459k und 459m entsprechend.
+
+### § 459o Einwendungen gegen vollstreckungsrechtliche Entscheidungen
+
+Über Einwendungen gegen die Entscheidung der Vollstreckungsbehörde nach den §§ 459a, 459c, 459e sowie 459g bis 459m entscheidet das Gericht.
 
 ### § 460 Nachträgliche Gesamtstrafenbildung
 
-Ist jemand durch verschiedene rechtskräftige Urteile zu Strafen verurteilt worden und sind dabei die Vorschriften über die Zuerkennung einer Gesamtstrafe (§ 55 des Strafgesetzbuches) außer Betracht geblieben, so sind die erkannten Strafen durch eine nachträgliche gerichtliche Entscheidung auf eine Gesamtstrafe zurückzuführen. Werden mehrere Vermögensstrafen auf eine Gesamtvermögensstrafe zurückgeführt, so darf diese die Höhe der verwirkten höchsten Strafe auch dann nicht unterschreiten, wenn deren Höhe den Wert des Vermögens des Verurteilten zum Zeitpunkt der nachträglichen gerichtlichen Entscheidung übersteigt.
+Ist jemand durch verschiedene rechtskräftige Urteile zu Strafen verurteilt worden und sind dabei die Vorschriften über die Zuerkennung einer Gesamtstrafe (§ 55 des Strafgesetzbuches) außer Betracht geblieben, so sind die erkannten Strafen durch eine nachträgliche gerichtliche Entscheidung auf eine Gesamtstrafe zurückzuführen.
 
 ### § 461 Anrechnung des Aufenthalts in einem Krankenhaus
 
@@ -7081,7 +7332,7 @@ Ist jemand durch verschiedene rechtskräftige Urteile zu Strafen verurteilt word
 
 ### § 462 Verfahren bei gerichtlichen Entscheidungen; sofortige Beschwerde
 
-(1) Die nach § 450a Abs. 3 Satz 1 und den §§ 458 bis 461 notwendig werdenden gerichtlichen Entscheidungen trifft das Gericht ohne mündliche Verhandlung durch Beschluß. Dies gilt auch für die Wiederverleihung verlorener Fähigkeiten und Rechte (§ 45b des Strafgesetzbuches), die Aufhebung des Vorbehalts der Einziehung und die nachträgliche Anordnung der Einziehung eines Gegenstandes (§ 74b Abs. 2 Satz 3 des Strafgesetzbuches), die nachträgliche Anordnung von Verfall oder Einziehung des Wertersatzes (§ 76 des Strafgesetzbuches) sowie für die Verlängerung der Verjährungsfrist (§ 79b des Strafgesetzbuches).
+(1) Die nach § 450a Abs. 3 Satz 1 und den §§ 458 bis 461 notwendig werdenden gerichtlichen Entscheidungen trifft das Gericht ohne mündliche Verhandlung durch Beschluß. Dies gilt auch für die Wiederverleihung verlorener Fähigkeiten und Rechte (§ 45b des Strafgesetzbuches), die Aufhebung des Vorbehalts der Einziehung und die nachträgliche Anordnung der Einziehung eines Gegenstandes (§ 74f Absatz 1 Satz 4 des Strafgesetzbuches), die nachträgliche Anordnung der Einziehung des Wertersatzes (§ 76 des Strafgesetzbuches) sowie für die Verlängerung der Verjährungsfrist (§ 79b des Strafgesetzbuches).
 
 (2) Vor der Entscheidung sind die Staatsanwaltschaft und der Verurteilte zu hören. Ordnet das Gericht eine mündliche Anhörung an, so kann es bestimmen, dass sich der Verurteilte dabei an einem anderen Ort als das Gericht aufhält und die Anhörung zeitgleich in Bild und Ton an den Ort, an dem sich der Verurteilte aufhält, und in das Sitzungszimmer übertragen wird. Das Gericht kann von der Anhörung des Verurteilten in den Fällen einer Entscheidung nach § 79b des Strafgesetzbuches absehen, wenn infolge bestimmter Tatsachen anzunehmen ist, daß die Anhörung nicht ausführbar ist.
 
@@ -7109,11 +7360,11 @@ Ist jemand durch verschiedene rechtskräftige Urteile zu Strafen verurteilt word
 
 (3) § 454 Abs. 1, 3 und 4 gilt auch für die nach § 67c Abs. 1, § 67d Abs. 2 und 3, § 67e Abs. 3, den §§ 68e, 68f Abs. 2 und § 72 Abs. 3 des Strafgesetzbuches zu treffenden Entscheidungen. In den Fällen des § 68e des Strafgesetzbuches bedarf es einer mündlichen Anhörung des Verurteilten nicht. § 454 Abs. 2 findet in den Fällen des § 67d Absatz 2 und 3 und des § 72 Absatz 3 des Strafgesetzbuches unabhängig von den dort genannten Straftaten sowie bei Prüfung der Voraussetzungen des § 67c Absatz 1 Satz 1 Nummer 1 des Strafgesetzbuches auch unabhängig davon, ob das Gericht eine Aussetzung erwägt, entsprechende Anwendung, soweit das Gericht über die Vollstreckung der Sicherungsverwahrung zu entscheiden hat; im Übrigen findet § 454 Abs. 2 bei den dort genannten Straftaten Anwendung. Zur Vorbereitung der Entscheidung nach § 67d Abs. 3 des Strafgesetzbuches sowie der nachfolgenden Entscheidungen nach § 67d Abs. 2 des Strafgesetzbuches hat das Gericht das Gutachten eines Sachverständigen namentlich zu der Frage einzuholen, ob von dem Verurteilten weiterhin erhebliche rechtswidrige Taten zu erwarten sind. Ist die Unterbringung in der Sicherungsverwahrung angeordnet worden, bestellt das Gericht dem Verurteilten, der keinen Verteidiger hat, rechtzeitig vor einer Entscheidung nach § 67c Absatz 1 des Strafgesetzbuches einen Verteidiger.
 
-(4) Im Rahmen der Überprüfungen nach § 67e des Strafgesetzbuches soll das Gericht nach jeweils fünf Jahren vollzogener Unterbringung in einem psychiatrischen Krankenhaus (§ 63) das Gutachten eines Sachverständigen einholen. Der Sachverständige darf weder im Rahmen des Vollzugs der Unterbringung mit der Behandlung der untergebrachten Person befasst gewesen sein noch in dem psychiatrischen Krankenhaus arbeiten, in dem sich die untergebrachte Person befindet. Dem Sachverständigen ist Einsicht in die Patientendaten des Krankenhauses über die untergebrachte Person zu gewähren. § 454 Abs. 2 gilt entsprechend. Der untergebrachten Person, die keinen Verteidiger hat, bestellt das Gericht für das Verfahren nach Satz 1 einen Verteidiger.
+(4) Im Rahmen der Überprüfung der Unterbringung in einem psychiatrischen Krankenhaus (§ 63 des Strafgesetzbuches) nach § 67e des Strafgesetzbuches ist eine gutachterliche Stellungnahme der Maßregelvollzugseinrichtung einzuholen, in der der Verurteilte untergebracht ist. Das Gericht soll nach jeweils drei Jahren, ab einer Dauer der Unterbringung von sechs Jahren nach jeweils zwei Jahren vollzogener Unterbringung in einem psychiatrischen Krankenhaus das Gutachten eines Sachverständigen einholen. Der Sachverständige darf weder im Rahmen des Vollzugs der Unterbringung mit der Behandlung der untergebrachten Person befasst gewesen sein noch in dem psychiatrischen Krankenhaus arbeiten, in dem sich die untergebrachte Person befindet, noch soll er das letzte Gutachten bei einer vorangegangenen Überprüfung erstellt haben. Der Sachverständige, der für das erste Gutachten im Rahmen einer Überprüfung der Unterbringung herangezogen wird, soll auch nicht das Gutachten in dem Verfahren erstellt haben, in dem die Unterbringung oder deren späterer Vollzug angeordnet worden ist. Mit der Begutachtung sollen nur ärztliche oder psychologische Sachverständige beauftragt werden, die über forensisch-psychiatrische Sachkunde und Erfahrung verfügen. Dem Sachverständigen ist Einsicht in die Patientendaten des Krankenhauses über die untergebrachte Person zu gewähren. § 454 Abs. 2 gilt entsprechend. Der untergebrachten Person, die keinen Verteidiger hat, bestellt das Gericht für die Überprüfung der Unterbringung, bei der nach Satz 2 das Gutachten eines Sachverständigen eingeholt werden soll, einen Verteidiger.
 
 (5) § 455 Abs. 1 ist nicht anzuwenden, wenn die Unterbringung in einem psychiatrischen Krankenhaus angeordnet ist. Ist die Unterbringung in einer Entziehungsanstalt oder in der Sicherungsverwahrung angeordnet worden und verfällt der Verurteilte in Geisteskrankheit, so kann die Vollstreckung der Maßregel aufgeschoben werden. § 456 ist nicht anzuwenden, wenn die Unterbringung des Verurteilten in der Sicherungsverwahrung angeordnet ist.
 
-(6) § 462 gilt auch für die nach § 67 Abs. 3 und Abs. 5 Satz 2, den §§ 67a und 67c Abs. 2, § 67d Abs. 5 und 6, den §§ 67g, 67h und 69a Abs. 7 sowie den §§ 70a und 70b des Strafgesetzbuches zu treffenden Entscheidungen. Das Gericht erklärt die Anordnung von Maßnahmen nach § 67h Abs. 1 Satz 1 und 2 des Strafgesetzbuchs für sofort vollziehbar, wenn erhebliche rechtswidrige Taten des Verurteilten drohen.
+(6) § 462 gilt auch für die nach § 67 Absatz 3, 5 Satz 2 und Absatz 6, den §§ 67a und 67c Abs. 2, § 67d Abs. 5 und 6, den §§ 67g, 67h und 69a Abs. 7 sowie den §§ 70a und 70b des Strafgesetzbuches zu treffenden Entscheidungen. In den Fällen des § 67d Absatz 6 des Strafgesetzbuches ist der Verurteilte mündlich zu hören. Das Gericht erklärt die Anordnung von Maßnahmen nach § 67h Abs. 1 Satz 1 und 2 des Strafgesetzbuchs für sofort vollziehbar, wenn erhebliche rechtswidrige Taten des Verurteilten drohen.
 
 (7) Für die Anwendung des § 462a Abs. 1 steht die Führungsaufsicht in den Fällen des § 67c Abs. 1, des § 67d Abs. 2 bis 6 und des § 68f des Strafgesetzbuches der Aussetzung eines Strafrestes gleich.
 
@@ -7142,7 +7393,7 @@ zur Ahndung eines Verstoßes gegen eine Weisung nach § 68b Absatz 1 Satz 1 Numm
 zur Abwehr einer erheblichen gegenwärtigen Gefahr für das Leben, die körperliche Unversehrtheit, die persönliche Freiheit oder die sexuelle Selbstbestimmung Dritter oder
 
 5.  
-zur Verfolgung einer Straftat der in § 66 Absatz 3 Satz 1 des Strafgesetzbuches genannten Art.
+zur Verfolgung einer Straftat der in § 66 Absatz 3 Satz 1 des Strafgesetzbuches genannten Art oder einer Straftat nach § 129a Absatz 5 Satz 2, auch in Verbindung mit § 129b Absatz 1 des Strafgesetzbuches.
 
 Zur Einhaltung der Zweckbindung nach Satz 2 hat die Verarbeitung der Daten zur Feststellung von Verstößen nach Satz 2 Nummer 1 in Verbindung mit § 68b Absatz 1 Satz 1 Nummer 1 oder 2 des Strafgesetzbuches automatisiert zu erfolgen und sind die Daten gegen unbefugte Kenntnisnahme besonders zu sichern. Die Aufsichtsstelle kann die Erhebung und Verarbeitung der Daten durch die Behörden und Beamten des Polizeidienstes vornehmen lassen; diese sind verpflichtet, dem Ersuchen der Aufsichtsstelle zu genügen. Die in Satz 1 genannten Daten sind spätestens zwei Monate nach ihrer Erhebung zu löschen, soweit sie nicht für die in Satz 2 genannten Zwecke verwendet werden. Bei jedem Abruf der Daten sind zumindest der Zeitpunkt, die abgerufenen Daten und der Bearbeiter zu protokollieren; § 488 Absatz 3 Satz 5 gilt entsprechend. Werden innerhalb der Wohnung der verurteilten Person über den Umstand ihrer Anwesenheit hinausgehende Aufenthaltsdaten erhoben, dürfen diese nicht verwertet werden und sind unverzüglich nach Kenntnisnahme zu löschen. Die Tatsache ihrer Kenntnisnahme und Löschung ist zu dokumentieren.
 
@@ -7199,7 +7450,7 @@ die Gebühren und Auslagen eines Rechtsanwalts, soweit sie nach § 91 Abs. 2 der
 
 ### § 464b Kostenfestsetzung
 
-Die Höhe der Kosten und Auslagen, die ein Beteiligter einem anderen Beteiligten zu erstatten hat, wird auf Antrag eines Beteiligten durch das Gericht des ersten Rechtszuges festgesetzt. Auf Antrag ist auszusprechen, dass die festgesetzten Kosten und Auslagen von der Anbringung des Festsetzungsantrags an zu verzinsen sind. Auf die Höhe des Zinssatzes, das Verfahren und auf die Vollstreckung der Entscheidung sind die Vorschriften der Zivilprozessordnung entsprechend anzuwenden. Zur Bezeichnung des Nebenklägers kann im Kostenfestsetzungsbeschluss die Angabe der vollständigen Anschrift unterbleiben.
+Die Höhe der Kosten und Auslagen, die ein Beteiligter einem anderen Beteiligten zu erstatten hat, wird auf Antrag eines Beteiligten durch das Gericht des ersten Rechtszuges festgesetzt. Auf Antrag ist auszusprechen, dass die festgesetzten Kosten und Auslagen von der Anbringung des Festsetzungsantrags an zu verzinsen sind. Auf die Höhe des Zinssatzes, das Verfahren und auf die Vollstreckung der Entscheidung sind die Vorschriften der Zivilprozessordnung entsprechend anzuwenden. Abweichend von § 311 Absatz 2 beträgt die Frist zur Einlegung der sofortigen Beschwerde zwei Wochen. Zur Bezeichnung des Nebenklägers kann im Kostenfestsetzungsbeschluss die Angabe der vollständigen Anschrift unterbleiben.
 
 ### § 464c Kosten bei Bestellung eines Dolmetschers oder Übersetzers für den Angeschuldigten
 
@@ -7213,7 +7464,7 @@ Die Auslagen der Staatskasse und die notwendigen Auslagen der Beteiligten könne
 
 (1) Die Kosten des Verfahrens hat der Angeklagte insoweit zu tragen, als sie durch das Verfahren wegen einer Tat entstanden sind, wegen derer er verurteilt oder eine Maßregel der Besserung und Sicherung gegen ihn angeordnet wird. Eine Verurteilung im Sinne dieser Vorschrift liegt auch dann vor, wenn der Angeklagte mit Strafvorbehalt verwarnt wird oder das Gericht von Strafe absieht.
 
-(2) Sind durch Untersuchungen zur Aufklärung bestimmter belastender oder entlastender Umstände besondere Auslagen entstanden und sind diese Untersuchungen zugunsten des Angeklagten ausgegangen, so hat das Gericht die entstandenen Auslagen teilweise oder auch ganz der Staatskasse aufzuerlegen, wenn es unbillig wäre, den Angeklagten damit zu belasten. Dies gilt namentlich dann, wenn der Angeklagte wegen einzelner abtrennbarer Teile einer Tat oder wegen einzelner von mehreren Gesetzesverletzungen nicht verurteilt wird. Die Sätze 1 und 2 gelten entsprechend für die notwendigen Auslagen des Angeklagten.
+(2) Sind durch Untersuchungen zur Aufklärung bestimmter belastender oder entlastender Umstände besondere Auslagen entstanden und sind diese Untersuchungen zugunsten des Angeklagten ausgegangen, so hat das Gericht die entstandenen Auslagen teilweise oder auch ganz der Staatskasse aufzuerlegen, wenn es unbillig wäre, den Angeklagten damit zu belasten. Dies gilt namentlich dann, wenn der Angeklagte wegen einzelner abtrennbarer Teile einer Tat oder wegen einzelner von mehreren Gesetzesverletzungen nicht verurteilt wird. Die Sätze 1 und 2 gelten entsprechend für die notwendigen Auslagen des Angeklagten. Das Gericht kann anordnen, dass die Erhöhung der Gerichtsgebühren im Falle der Beiordnung eines psychosozialen Prozessbegleiters ganz oder teilweise unterbleibt, wenn es unbillig wäre, den Angeklagten damit zu belasten.
 
 (3) Stirbt ein Verurteilter vor eingetretener Rechtskraft des Urteils, so haftet sein Nachlaß nicht für die Kosten.
 
@@ -7247,7 +7498,7 @@ wegen einer Straftat nur deshalb nicht verurteilt wird, weil ein Verfahrenshinde
 
 (1) Nimmt die Staatsanwaltschaft die öffentliche Klage zurück und stellt sie das Verfahren ein, so hat das Gericht, bei dem die öffentliche Klage erhoben war, auf Antrag der Staatsanwaltschaft oder des Angeschuldigten die diesem erwachsenen notwendigen Auslagen der Staatskasse aufzuerlegen. § 467 Abs. 2 bis 5 gilt sinngemäß.
 
-(2) Die einem Nebenbeteiligten (§ 431 Abs. 1 Satz 1, §§ 442, 444 Abs. 1 Satz 1) erwachsenen notwendigen Auslagen kann das Gericht in den Fällen des Absatzes 1 Satz 1 auf Antrag der Staatsanwaltschaft oder des Nebenbeteiligten der Staatskasse oder einem anderen Beteiligten auferlegen.
+(2) Die einem Nebenbeteiligten (§ 424 Absatz 1, § 438 Absatz 1, §§ 439, 444 Abs. 1 Satz 1) erwachsenen notwendigen Auslagen kann das Gericht in den Fällen des Absatzes 1 Satz 1 auf Antrag der Staatsanwaltschaft oder des Nebenbeteiligten der Staatskasse oder einem anderen Beteiligten auferlegen.
 
 (3) Die Entscheidung nach den Absätzen 1 und 2 ist unanfechtbar.
 
@@ -7257,7 +7508,7 @@ Bei wechselseitigen Beleidigungen wird die Verurteilung eines oder beider Teile 
 
 ### § 469 Kostentragungspflicht des Anzeigenden bei leichtfertiger oder vorsätzlicher Erstattung einer unwahren Anzeige
 
-(1) Ist ein, wenn auch nur außergerichtliches Verfahren durch eine vorsätzlich oder leichtfertig erstattete unwahre Anzeige veranlaßt worden, so hat das Gericht dem Anzeigenden, nachdem er gehört worden ist, die Kosten des Verfahrens und die dem Beschuldigten erwachsenen notwendigen Auslagen aufzuerlegen. Die einem Nebenbeteiligten (§ 431 Abs. 1 Satz 1, §§ 442, 444 Abs. 1 Satz 1) erwachsenen notwendigen Auslagen kann das Gericht dem Anzeigenden auferlegen.
+(1) Ist ein, wenn auch nur außergerichtliches Verfahren durch eine vorsätzlich oder leichtfertig erstattete unwahre Anzeige veranlaßt worden, so hat das Gericht dem Anzeigenden, nachdem er gehört worden ist, die Kosten des Verfahrens und die dem Beschuldigten erwachsenen notwendigen Auslagen aufzuerlegen. Die einem Nebenbeteiligten (§ 424 Absatz 1, § 438 Absatz 1, §§ 439, 444 Abs. 1 Satz 1) erwachsenen notwendigen Auslagen kann das Gericht dem Anzeigenden auferlegen.
 
 (2) War noch kein Gericht mit der Sache befaßt, so ergeht die Entscheidung auf Antrag der Staatsanwaltschaft durch das Gericht, das für die Eröffnung des Hauptverfahrens zuständig gewesen wäre.
 
@@ -7265,7 +7516,7 @@ Bei wechselseitigen Beleidigungen wird die Verurteilung eines oder beider Teile 
 
 ### § 470 Kosten bei Zurücknahme des Strafantrags
 
-Wird das Verfahren wegen Zurücknahme des Antrags, durch den es bedingt war, eingestellt, so hat der Antragsteller die Kosten sowie die dem Beschuldigten und einem Nebenbeteiligten (§ 431 Abs. 1 Satz 1, §§ 442, 444 Abs. 1 Satz 1) erwachsenen notwendigen Auslagen zu tragen. Sie können dem Angeklagten oder einem Nebenbeteiligten auferlegt werden, soweit er sich zur Übernahme bereit erklärt, der Staatskasse, soweit es unbillig wäre, die Beteiligten damit zu belasten.
+Wird das Verfahren wegen Zurücknahme des Antrags, durch den es bedingt war, eingestellt, so hat der Antragsteller die Kosten sowie die dem Beschuldigten und einem Nebenbeteiligten (§ 424 Absatz 1, § 438 Absatz 1, §§ 439, 444 Abs. 1 Satz 1) erwachsenen notwendigen Auslagen zu tragen. Sie können dem Angeklagten oder einem Nebenbeteiligten auferlegt werden, soweit er sich zur Übernahme bereit erklärt, der Staatskasse, soweit es unbillig wäre, die Beteiligten damit zu belasten.
 
 ### § 471 Kosten bei Privatklage
 
@@ -7288,7 +7539,7 @@ Widerklage erhoben worden ist.
 
 ### § 472 Notwendige Auslagen des Nebenklägers
 
-(1) Die dem Nebenkläger erwachsenen notwendigen Auslagen sind dem Angeklagten aufzuerlegen, wenn er wegen einer Tat verurteilt wird, die den Nebenkläger betrifft. Hiervon kann ganz oder teilweise abgesehen werden, soweit es unbillig wäre, den Angeklagten damit zu belasten.
+(1) Die dem Nebenkläger erwachsenen notwendigen Auslagen sind dem Angeklagten aufzuerlegen, wenn er wegen einer Tat verurteilt wird, die den Nebenkläger betrifft. Die notwendigen Auslagen für einen psychosozialen Prozessbegleiter des Nebenklägers können dem Angeklagten nur bis zu der Höhe auferlegt werden, in der sich im Falle der Beiordnung des psychosozialen Prozessbegleiters die Gerichtsgebühren erhöhen würden. Von der Auferlegung der notwendigen Auslagen kann ganz oder teilweise abgesehen werden, soweit es unbillig wäre, den Angeklagten damit zu belasten.
 
 (2) Stellt das Gericht das Verfahren nach einer Vorschrift, die dies nach seinem Ermessen zuläßt, ein, so kann es die in Absatz 1 genannten notwendigen Auslagen ganz oder teilweise dem Angeschuldigten auferlegen, soweit dies aus besonderen Gründen der Billigkeit entspricht. Stellt das Gericht das Verfahren nach vorangegangener vorläufiger Einstellung (§ 153a) endgültig ein, gilt Absatz 1 entsprechend.
 
@@ -7304,7 +7555,7 @@ Widerklage erhoben worden ist.
 
 ### § 472b Kosten und notwendige Auslagen bei Nebenbeteiligung
 
-(1) Wird der Verfall, die Einziehung, der Vorbehalt der Einziehung, die Vernichtung, Unbrauchbarmachung oder Beseitigung eines gesetzwidrigen Zustandes angeordnet, so können dem Nebenbeteiligten die durch seine Beteiligung erwachsenen besonderen Kosten auferlegt werden. Die dem Nebenbeteiligten erwachsenen notwendigen Auslagen können, soweit es der Billigkeit entspricht, dem Angeklagten, im selbständigen Verfahren auch einem anderen Nebenbeteiligten auferlegt werden.
+(1) Wird die Einziehung, der Vorbehalt der Einziehung, die Vernichtung, Unbrauchbarmachung oder Beseitigung eines gesetzwidrigen Zustandes angeordnet, so können dem Nebenbeteiligten die durch seine Beteiligung erwachsenen besonderen Kosten auferlegt werden. Die dem Nebenbeteiligten erwachsenen notwendigen Auslagen können, soweit es der Billigkeit entspricht, dem Angeklagten, im selbständigen Verfahren auch einem anderen Nebenbeteiligten auferlegt werden.
 
 (2) Wird eine Geldbuße gegen eine juristische Person oder eine Personenvereinigung festgesetzt, so hat diese die Kosten des Verfahrens entsprechend den §§ 465, 466 zu tragen.
 
@@ -7314,7 +7565,7 @@ Widerklage erhoben worden ist.
 
 (1) Die Kosten eines zurückgenommenen oder erfolglos eingelegten Rechtsmittels treffen den, der es eingelegt hat. Hat der Beschuldigte das Rechtsmittel erfolglos eingelegt oder zurückgenommen, so sind ihm die dadurch dem Nebenkläger oder dem zum Anschluß als Nebenkläger Berechtigten in Wahrnehmung seiner Befugnisse nach § 406h erwachsenen notwendigen Auslagen aufzuerlegen. Hat im Falle des Satzes 1 allein der Nebenkläger ein Rechtsmittel eingelegt oder durchgeführt, so sind ihm die dadurch erwachsenen notwendigen Auslagen des Beschuldigten aufzuerlegen. Für die Kosten des Rechtsmittels und die notwendigen Auslagen der Beteiligten gilt § 472a Abs. 2 entsprechend, wenn eine zulässig erhobene sofortige Beschwerde nach § 406a Abs. 1 Satz 1 durch eine den Rechtszug abschließende Entscheidung unzulässig geworden ist.
 
-(2) Hat im Falle des Absatzes 1 die Staatsanwaltschaft das Rechtsmittel zuungunsten des Beschuldigten oder eines Nebenbeteiligten (§ 431 Abs. 1 Satz 1, §§ 442, 444 Abs. 1 Satz 1) eingelegt, so sind die ihm erwachsenen notwendigen Auslagen der Staatskasse aufzuerlegen. Dasselbe gilt, wenn das von der Staatsanwaltschaft zugunsten des Beschuldigten oder eines Nebenbeteiligten eingelegte Rechtsmittel Erfolg hat.
+(2) Hat im Falle des Absatzes 1 die Staatsanwaltschaft das Rechtsmittel zuungunsten des Beschuldigten oder eines Nebenbeteiligten (§ 424 Absatz 1, §§ 439, 444 Abs. 1 Satz 1) eingelegt, so sind die ihm erwachsenen notwendigen Auslagen der Staatskasse aufzuerlegen. Dasselbe gilt, wenn das von der Staatsanwaltschaft zugunsten des Beschuldigten oder eines Nebenbeteiligten eingelegte Rechtsmittel Erfolg hat.
 
 (3) Hat der Beschuldigte oder ein anderer Beteiligter das Rechtsmittel auf bestimmte Beschwerdepunkte beschränkt und hat ein solches Rechtsmittel Erfolg, so sind die notwendigen Auslagen des Beteiligten der Staatskasse aufzuerlegen.
 
@@ -7328,7 +7579,7 @@ Widerklage erhoben worden ist.
 auf Wiederaufnahme des durch ein rechtskräftiges Urteil abgeschlossenen Verfahrens oder
 
 2.  
-auf ein Nachverfahren (§ 439)
+auf ein Nachverfahren (§ 433)
 
 verursacht worden sind.
 
@@ -7363,7 +7614,7 @@ diesen Stellen in sonstigen Fällen auf Grund einer besonderen Vorschrift von Am
 3.  
 die Auskünfte zur Vorbereitung von Maßnahmen erforderlich sind, nach deren Erlass auf Grund einer besonderen Vorschrift von Amts wegen personenbezogene Daten aus Strafverfahren an diese Stellen übermittelt werden dürfen.
 
-Die Erteilung von Auskünften an die Nachrichtendienste richtet sich nach § 18 des Bundesverfassungsschutzgesetzes, § 10 des MAD-Gesetzes und § 8 des BND-Gesetzes sowie den entsprechenden landesrechtlichen Vorschriften.
+Die Erteilung von Auskünften an die Nachrichtendienste richtet sich nach § 18 des Bundesverfassungsschutzgesetzes, § 10 des MAD-Gesetzes und § 23 des BND-Gesetzes sowie den entsprechenden landesrechtlichen Vorschriften.
 
 (3) Unter den Voraussetzungen des Absatzes 2 kann Akteneinsicht gewährt werden, wenn die Erteilung von Auskünften einen unverhältnismäßigen Aufwand erfordern würde oder die Akteneinsicht begehrende Stelle unter Angabe von Gründen erklärt, dass die Erteilung einer Auskunft zur Erfüllung ihrer Aufgabe nicht ausreichen würde.
 
@@ -7427,7 +7678,7 @@ für die Zwecke, für die eine Übermittlung nach § 18 des Bundesverfassungssch
 3.  
 nach Maßgabe des § 476.
 
-§ 100d Abs. 5, § 100i Abs. 2 Satz 2, § 101a Absatz 4 und 5 und § 108 Abs. 2 und 3 bleiben unberührt.
+§ 100e Absatz 6, § 100i Abs. 2 Satz 2, § 101a Absatz 4 und 5 und § 108 Abs. 2 und 3 bleiben unberührt.
 
 (3) In Verfahren, in denen
 
@@ -7474,7 +7725,7 @@ Besondere gesetzliche Bestimmungen, die die Übermittlung personenbezogener Date
 
 ### § 481 Verwendung personenbezogener Daten für polizeiliche Zwecke
 
-(1) Die Polizeibehörden dürfen nach Maßgabe der Polizeigesetze personenbezogene Daten aus Strafverfahren verwenden. Zu den dort genannten Zwecken dürfen Strafverfolgungsbehörden und Gerichte an Polizeibehörden personenbezogene Daten aus Strafverfahren übermitteln oder Akteneinsicht gewähren. Die Sätze 1 und 2 gelten nicht in den Fällen, in denen die Polizei ausschließlich zum Schutz privater Rechte tätig wird.
+(1) Die Polizeibehörden dürfen nach Maßgabe der Polizeigesetze personenbezogene Daten aus Strafverfahren verwenden. Zu den dort genannten Zwecken dürfen Strafverfolgungsbehörden und Gerichte an Polizeibehörden personenbezogene Daten aus Strafverfahren übermitteln oder Akteneinsicht gewähren. Mitteilungen nach Satz 2 können auch durch Bewährungshelfer erfolgen, wenn dies zur Abwehr einer dringenden Gefahr für ein bedeutendes Rechtsgut erforderlich und eine rechtzeitige Übermittlung durch die in Satz 2 genannten Stellen nicht gewährleistet ist. Die Sätze 1 und 2 gelten nicht in den Fällen, in denen die Polizei ausschließlich zum Schutz privater Rechte tätig wird.
 
 (2) Die Verwendung ist unzulässig, soweit besondere bundesgesetzliche oder entsprechende landesgesetzliche Verwendungsregelungen entgegenstehen.
 
@@ -7542,7 +7793,7 @@ Gerichte, Strafverfolgungsbehörden einschließlich Vollstreckungsbehörden, Bew
 
 ### § 487 Übermittlung gespeicherter Daten; Auskunft aus einer Datei
 
-(1) Die nach den §§ 483 bis 485 gespeicherten Daten dürfen den zuständigen Stellen übermittelt werden, soweit dies für die in diesen Vorschriften genannten Zwecke, für Zwecke eines Gnadenverfahrens oder der internationalen Rechtshilfe in Strafsachen erforderlich ist. § 477 Abs. 2 und § 485 Satz 3 gelten entsprechend.
+(1) Die nach den §§ 483 bis 485 gespeicherten Daten dürfen den zuständigen Stellen übermittelt werden, soweit dies für die in diesen Vorschriften genannten Zwecke, für Zwecke eines Gnadenverfahrens, des Vollzugs von freiheitsentziehenden Maßnahmen oder der internationalen Rechtshilfe in Strafsachen erforderlich ist. § 477 Abs. 2 und § 485 Satz 3 gelten entsprechend. Bewährungshelfer dürfen personenbezogene Daten von Verurteilten, die unter Aufsicht gestellt sind, an die Einrichtungen des Justiz- und Maßregelvollzugs übermitteln, wenn diese Daten für den Vollzug der Freiheitsentziehung, insbesondere zur Förderung der Vollzugs- und Behandlungsplanung oder der Entlassungsvorbereitung, erforderlich sind.
 
 (2) Außerdem kann Auskunft aus einer Datei erteilt werden, soweit nach den Vorschriften dieses Gesetzes Akteneinsicht oder Auskunft aus den Akten gewährt werden könnte. Entsprechendes gilt für Mitteilungen nach den §§ 479, 480 und 481 Abs. 1 Satz 2.
 
@@ -7647,8 +7898,8 @@ Dies gilt nicht für Dateien, die nur vorübergehend vorgehalten und innerhalb v
 
 (2) Ist der Betroffene bei einer gemeinsamen Datei nicht in der Lage, die speichernde Stelle festzustellen, so kann er sich an jede beteiligte speicherungsberechtigte Stelle wenden. Über die Erteilung einer Auskunft entscheidet diese im Einvernehmen mit der Stelle, die die Daten eingegeben hat.
 
-Dritter Abschnitt Länderübergreifendes staatsanwaltliches Verfahrensregister
-----------------------------------------------------------------------------
+Dritter Abschnitt Länderübergreifendes staatsanwaltschaftliches Verfahrensregister
+----------------------------------------------------------------------------------
 
 ### 
 
@@ -7675,9 +7926,9 @@ die Einleitung des Verfahrens sowie die Verfahrenserledigungen bei der Staatsanw
 
 einzutragen. Die Daten dürfen nur für Strafverfahren gespeichert und verändert werden.
 
-(3) Die Staatsanwaltschaften teilen die einzutragenden Daten der Registerbehörde zu dem in Absatz 2 Satz 2 genannten Zweck mit. Auskünfte aus dem Verfahrensregister dürfen nur Strafverfolgungsbehörden für Zwecke eines Strafverfahrens erteilt werden. § 5 Abs. 5 Satz 1 Nr. 2 des Waffengesetzes und § 8a Absatz 5 Satz 1 Nummer 2 des Sprengstoffgesetzes bleiben unberührt; die Auskunft über die Eintragung wird insoweit im Einvernehmen mit der Staatsanwaltschaft, die die personenbezogenen Daten zur Eintragung in das Verfahrensregister mitgeteilt hat, erteilt, wenn hiervon eine Gefährdung des Untersuchungszwecks nicht zu besorgen ist.
+(3) Die Staatsanwaltschaften teilen die einzutragenden Daten der Registerbehörde zu dem in Absatz 2 Satz 2 genannten Zweck mit. Auskünfte aus dem Verfahrensregister dürfen nur Strafverfolgungsbehörden für Zwecke eines Strafverfahrens erteilt werden. § 5 Abs. 5 Satz 1 Nr. 2 des Waffengesetzes, § 8a Absatz 5 Satz 1 Nummer 2 des Sprengstoffgesetzes und § 12 Absatz 1 Nummer 2 des Sicherheitsüberprüfungsgesetzes bleiben unberührt; die Auskunft über die Eintragung wird insoweit im Einvernehmen mit der Staatsanwaltschaft, die die personenbezogenen Daten zur Eintragung in das Verfahrensregister mitgeteilt hat, erteilt, wenn hiervon eine Gefährdung des Untersuchungszwecks nicht zu besorgen ist.
 
-(4) Die in Absatz 2 Satz 1 Nummer 1 und 2 und, wenn dies erforderlich ist, Nummer 3 und 4 genannten Daten dürfen nach Maßgabe des § 18 Abs. 3 des Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 10 Abs. 2 des Gesetzes über den Militärischen Abschirmdienst und § 8 Abs. 3 des Gesetzes über den Bundesnachrichtendienst, auf Ersuchen auch an die Verfassungsschutzbehörden des Bundes und der Länder, den Militärischen Abschirmdienst und den Bundesnachrichtendienst übermittelt werden. § 18 Abs. 5 Satz 2 des Bundesverfassungsschutzgesetzes gilt entsprechend.
+(4) Die in Absatz 2 Satz 1 Nummer 1 und 2 und, wenn dies erforderlich ist, Nummer 3 und 4 genannten Daten dürfen nach Maßgabe des § 18 Abs. 3 des Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 10 Abs. 2 des Gesetzes über den Militärischen Abschirmdienst und § 23 Absatz 3 des BND-Gesetzes, auf Ersuchen auch an die Verfassungsschutzbehörden des Bundes und der Länder, den Militärischen Abschirmdienst und den Bundesnachrichtendienst übermittelt werden. § 18 Abs. 5 Satz 2 des Bundesverfassungsschutzgesetzes gilt entsprechend.
 
 (4a) Kann die Registerbehörde eine Mitteilung oder ein Ersuchen einem Datensatz nicht eindeutig zuordnen, übermittelt sie an die ersuchende Stelle zur Identitätsfeststellung Datensätze zu Personen mit ähnlichen Personalien. Nach erfolgter Identifizierung hat die ersuchende Stelle alle Daten, die sich nicht auf den Betroffenen beziehen, unverzüglich zu löschen. Ist eine Identifizierung nicht möglich, sind alle übermittelten Daten zu löschen. In der Rechtsverordnung nach § 494 Abs. 4 ist die Anzahl der Datensätze, die auf Grund eines Abrufs übermittelt werden dürfen, auf das für eine Identifizierung notwendige Maß zu begrenzen.
 
