@@ -5,12 +5,16 @@ Neuf
 Neugefasst durch Bek. v. 24.9.1998 I 3074; 2006, 2095;
 
 Stand  
-zuletzt geändert durch Art. 283 V v. 31.8.2015 I 1474
+zuletzt geändert durch Art. 104 G v. 29.3.2017 I 626
+
+Hinweis  
+Änderung durch Art. 6 G v. 30.6.2017 I 2143 (Nr. 44) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 1.10.1984 +++)
+(+++ Zur Anwendung vgl. § 125 F bis zum 5.4.2017 +++)
 (+++ Zur Anwendung d. § 42c Abs. 2 vgl. § 22 LmhFortbPrüfV +++)
 (+++ Maßgaben aufgrund EinigVtr vgl. HwO Anhang EV +++)
 ```
@@ -168,13 +172,15 @@ Zweiter Abschnitt Handwerksrolle
 
 (1) Die Handwerkskammer hat ein Verzeichnis zu führen, in welches die Inhaber von Betrieben zulassungspflichtiger Handwerke ihres Bezirks nach Maßgabe der Anlage D Abschnitt I zu diesem Gesetz mit dem von ihnen zu betreibenden Handwerk oder bei Ausübung mehrerer Handwerke mit diesen Handwerken einzutragen sind (Handwerksrolle).
 
-(2) Eine Einzelauskunft aus der Handwerksrolle ist jedem zu erteilen, der ein berechtigtes Interesse glaubhaft darlegt. Eine listenmäßige Übermittlung von Daten aus der Handwerksrolle an nicht-öffentliche Stellen ist unbeschadet des Absatzes 4 zulässig, wenn sie zur Erfüllung der Aufgaben der Handwerkskammer erforderlich ist oder wenn der Auskunftbegehrende ein berechtigtes Interesse an der Kenntnis der zu übermittelnden Daten glaubhaft darlegt und kein Grund zu der Annahme besteht, daß der Betroffene ein schutzwürdiges Interesse an dem Ausschluß der Übermittlung hat. Ein solcher Grund besteht nicht, wenn Vor- und Familienname des Betriebsinhabers oder des gesetzlichen Vertreters oder des Betriebsleiters oder des für die technische Leitung des Betriebes verantwortlichen persönlich haftenden Gesellschafters, die Firma, das ausgeübte Handwerk oder die Anschrift der gewerblichen Niederlassung übermittelt werden. Die Übermittlung von Daten nach den Sätzen 2 und 3 ist nicht zulässig, wenn der Gewerbetreibende widersprochen hat. Auf die Widerspruchsmöglichkeit sind die Gewerbetreibenden vor der ersten Übermittlung schriftlich hinzuweisen.
+(2) Eine Einzelauskunft aus der Handwerksrolle ist jedem zu erteilen, der ein berechtigtes Interesse glaubhaft darlegt. Eine listenmäßige Übermittlung von Daten aus der Handwerksrolle an nicht-öffentliche Stellen ist unbeschadet des Absatzes 4 zulässig, wenn sie zur Erfüllung der Aufgaben der Handwerkskammer erforderlich ist oder wenn der Auskunftbegehrende ein berechtigtes Interesse an der Kenntnis der zu übermittelnden Daten glaubhaft darlegt und kein Grund zu der Annahme besteht, daß der Betroffene ein schutzwürdiges Interesse an dem Ausschluß der Übermittlung hat. Ein solcher Grund besteht nicht, wenn Vor- und Familienname des Betriebsinhabers oder des gesetzlichen Vertreters oder des Betriebsleiters oder des für die technische Leitung des Betriebes verantwortlichen persönlich haftenden Gesellschafters, die Firma, das ausgeübte Handwerk oder die Anschrift der gewerblichen Niederlassung übermittelt werden. Die Übermittlung von Daten nach den Sätzen 2 und 3 ist nicht zulässig, wenn der Gewerbetreibende widersprochen hat. Auf die Widerspruchsmöglichkeit sind die Gewerbetreibenden vor der ersten Übermittlung schriftlich oder elektronisch hinzuweisen. Von der Datenübermittlung ausgeschlossen sind die Wohnanschriften der Betriebsinhaber und der Betriebsleiter sowie deren elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer, Telefonnummer.
 
 (3) Öffentlichen Stellen sind auf Ersuchen Daten aus der Handwerksrolle zu übermitteln, soweit die Kenntnis tatsächlicher oder rechtlicher Verhältnisse des Inhabers eines Betriebs eines zulassungspflichtigen Handwerks (§ 1 Abs. 1) zur Erfüllung ihrer Aufgaben erforderlich ist.
 
 (4) Der Empfänger darf die übermittelten Daten nur für den Zweck verarbeiten oder nutzen, zu dessen Erfüllung sie ihm übermittelt werden.
 
 (5) Für das Verändern und Sperren der Daten in der Handwerksrolle gelten die Datenschutzgesetze der Länder.
+
+(+++ § 6 Abs. 2: Zur Anwendung vgl. § 125 F bis 5.4.2017 +++)
 
 ### § 7
 
@@ -234,10 +240,13 @@ Die ausgeübte Tätigkeit muss zumindest eine wesentliche Tätigkeit des zulassu
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung von Richtlinien der Europäischen Union über die Anerkennung von Berufsqualifikationen im Rahmen der Niederlassungsfreiheit, des freien Dienstleistungsverkehrs und der Arbeitnehmerfreizügigkeit und zur Durchführung des Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum (BGBl. 1993 II S. 267) sowie des Abkommens zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit vom 21. Juni 1999 (ABl. EG 2002 Nr. L 114 S. 6) zu bestimmen,
 
 1.  
-unter welchen Voraussetzungen einem Staatsangehörigen eines Mitgliedstaates der Europäischen Union, eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz, der im Inland zur Ausübung eines zulassungspflichtigen Handwerks eine gewerbliche Niederlassung unterhalten oder als Betriebsleiter tätig werden will, eine Ausnahmebewilligung zur Eintragung in die Handwerksrolle zu erteilen ist und
+unter welchen Voraussetzungen einem Staatsangehörigen eines Mitgliedstaates der Europäischen Union, eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz, der im Inland zur Ausübung eines zulassungspflichtigen Handwerks eine gewerbliche Niederlassung unterhalten oder als Betriebsleiter tätig werden will, eine Ausnahmebewilligung zur Eintragung in die Handwerksrolle zu erteilen ist,
 
 2.  
-unter welchen Voraussetzungen einem Staatsangehörigen eines der vorgenannten Staaten, der im Inland keine gewerbliche Niederlassung unterhält, die grenzüberschreitende Dienstleistungserbringung in einem zulassungspflichtigen Handwerk gestattet ist.
+unter welchen Voraussetzungen einem Staatsangehörigen eines der vorgenannten Staaten, der im Inland keine gewerbliche Niederlassung unterhält, die grenzüberschreitende Dienstleistungserbringung in einem zulassungspflichtigen Handwerk gestattet ist und
+
+3.  
+wie die Verfahren zur Ausstellung des Europäischen Berufsausweises und zur Anerkennung von Berufsqualifikationen in den in den Nummern 1 und 2 genannten Fällen unter Verwendung von Europäischen Berufsausweisen sowie die Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22), die zuletzt durch den Delegierten Beschluss (EU) 2016/790 (ABl. L 134 vom 24.5.2016, S. 135) geändert worden ist, ausgestaltet sind.
 
 In den in Satz 1 Nr. 1 genannten Fällen bleibt § 8 Abs. 1 unberührt; § 8 Abs. 2 bis 4 gilt entsprechend. In den in Satz 1 Nr. 2 genannten Fällen ist § 1 Abs. 1 nicht anzuwenden.
 
@@ -301,7 +310,7 @@ Ist einem Gewerbetreibenden die Eintragung in die Handwerksrolle abgelehnt worde
 
 ### § 17
 
-(1) Die in der Handwerksrolle eingetragenen oder in diese einzutragenden Gewerbetreibenden sind verpflichtet, der Handwerkskammer die für die Prüfung der Eintragungsvoraussetzungen erforderliche Auskunft über Art und Umfang ihres Betriebs, über die Betriebsstätte, über die Zahl der im Betrieb beschäftigten gelernten und ungelernten Personen und über handwerkliche Prüfungen des Betriebsinhabers und des Betriebsleiters sowie über die vertragliche und praktische Ausgestaltung des Betriebsleiterverhältnisses zu erteilen sowie auf Verlangen hierüber Nachweise vorzulegen. Auskünfte, Nachweise und Informationen, die für die Prüfung der Eintragungsvoraussetzungen nach Satz 1 nicht erforderlich sind, dürfen von der Handwerkskammer nicht, auch nicht für Zwecke der Verfolgung von Straftaten oder Ordnungswidrigkeiten, verwertet werden. Die Handwerkskammer kann für die Erteilung der Auskunft eine Frist setzen.
+(1) Die in der Handwerksrolle eingetragenen oder in diese einzutragenden Gewerbetreibenden sind verpflichtet, der Handwerkskammer die für die Prüfung der Eintragungsvoraussetzungen erforderliche Auskunft über Art und Umfang ihres Betriebs, über die Betriebsstätte, über die Zahl der im Betrieb beschäftigten gelernten und ungelernten Personen und über handwerkliche Prüfungen des Betriebsinhabers und des Betriebsleiters sowie über die vertragliche und praktische Ausgestaltung des Betriebsleiterverhältnisses zu erteilen sowie auf Verlangen sämtliche Dokumente vorzulegen, die zur Prüfung der Eintragung in die Handwerksrolle und zur Aufrechterhaltung der Eintragung in der Handwerksrolle erforderlich sind. Auskünfte, Nachweise und Informationen, die für die Prüfung der Eintragungsvoraussetzungen nach Satz 1 nicht erforderlich sind, dürfen von der Handwerkskammer nicht, auch nicht für Zwecke der Verfolgung von Straftaten oder Ordnungswidrigkeiten, verwertet werden. Die Handwerkskammer kann für die Erteilung der Auskunft eine Frist setzen.
 
 (2) Die Beauftragten der Handwerkskammer sind nach Maßgabe des § 29 Abs. 2 der Gewerbeordnung befugt, zu dem in Absatz 1 bezeichneten Zweck Grundstücke und Geschäftsräume des Auskunftspflichtigen zu betreten und dort Prüfungen und Besichtigungen vorzunehmen. Der Auskunftspflichtige hat diese Maßnahmen zu dulden. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
 
@@ -492,12 +501,11 @@ dass auf die durch die Ausbildungsordnung geregelte Berufsausbildung eine andere
 dass über das in Absatz 1 Nr. 3 beschriebene Ausbildungsberufsbild hinaus zusätzliche berufliche Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt werden können, die die berufliche Handlungsfähigkeit ergänzen oder erweitern,
 
 6.  
-dass Teile der Berufsausbildung in geeigneten Einrichtungen außerhalb der Ausbildungsstätte durchgeführt werden, wenn und soweit es die Berufsausbildung erfordert (überbetriebliche Berufsausbildung),
-
-7.  
-dass Lehrlinge (Auszubildende) einen schriftlichen Ausbildungsnachweis zu führen haben.
+dass Teile der Berufsausbildung in geeigneten Einrichtungen außerhalb der Ausbildungsstätte durchgeführt werden, wenn und soweit es die Berufsausbildung erfordert (überbetriebliche Berufsausbildung).
 
 Im Rahmen der Ordnungsverfahren soll stets geprüft werden, ob Regelungen nach Nummer 1, 2 und 4 sinnvoll und möglich sind.
+
+(+++ § 26 Abs. 2: Zur Anwendung vgl. § 125 F bis 5.4.2017 +++)
 
 ### § 27
 
@@ -652,7 +660,7 @@ Der Prüfungsausschuß wählt aus seiner Mitte einen Vorsitzenden und dessen Ste
 wer die Ausbildungszeit zurückgelegt hat oder wessen Ausbildungszeit nicht später als zwei Monate nach dem Prüfungstermin endet,
 
 2.  
-wer an vorgeschriebenen Zwischenprüfungen teilgenommen sowie vorgeschriebene schriftliche Ausbildungsnachweise geführt hat und
+wer an vorgeschriebenen Zwischenprüfungen teilgenommen sowie einen vom Ausbilder und Auszubildenden abgezeichneten Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes vorgelegt hat und
 
 3.  
 wessen Berufsausbildungsverhältnis in die Lehrlingsrolle eingetragen oder aus einem Grund nicht eingetragen ist, den weder der Lehrling (Auszubildende) noch dessen gesetzlicher Vertreter zu vertreten hat.
@@ -667,6 +675,8 @@ systematisch, insbesondere im Rahmen einer sachlichen und zeitlichen Gliederung 
 
 3.  
 durch Lernortkooperation einen angemessenen Anteil an fachpraktischer Ausbildung gewährleistet.
+
+(+++ § 36 Abs. 1: Zur Anwendung vgl. § 125 F bis 5.4.2017 +++)
 
 ### § 36a
 
@@ -908,7 +918,7 @@ Achter Abschnitt Berufsbildungsausschuß
 (2) Wichtige Angelegenheiten, in denen der Berufsbildungsausschuss anzuhören ist, sind insbesondere:
 
 1.  
-Erlass von Verwaltungsgrundsätzen über die Eignung von Ausbildungs- und Umschulungsstätten, für das Führen von schriftlichen Ausbildungsnachweisen, für die Verkürzung der Ausbildungsdauer, für die vorzeitige Zulassung zur Gesellenprüfung, für die Durchführung der Prüfungen, zur Durchführung von über- und außerbetrieblicher Ausbildung sowie Verwaltungsrichtlinien zur beruflichen Bildung,
+Erlass von Verwaltungsgrundsätzen über die Eignung von Ausbildungs- und Umschulungsstätten, für das Führen von Ausbildungsnachweisen nach § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes, für die Verkürzung der Ausbildungsdauer, für die vorzeitige Zulassung zur Gesellenprüfung, für die Durchführung der Prüfungen, zur Durchführung von über- und außerbetrieblicher Ausbildung sowie Verwaltungsrichtlinien zur beruflichen Bildung,
 
 2.  
 Umsetzung der vom Landesausschuss für Berufsbildung (§ 82 des Berufsbildungsgesetzes) empfohlenen Maßnahmen,
@@ -950,6 +960,8 @@ Arbeitsmarktfragen, soweit sie die Berufsbildung im Zuständigkeitsbereich der H
 (5) Die Vorschläge und Stellungnahmen des Berufsbildungsausschusses gelten vorbehaltlich der Vorschrift des Satzes 2 als von der Vollversammlung angenommen, wenn sie nicht mit einer Mehrheit von drei Vierteln der Mitglieder der Vollversammlung in ihrer nächsten Sitzung geändert oder abgelehnt werden. Beschlüsse, zu deren Durchführung die für Berufsbildung im laufenden Haushalt vorgesehenen Mittel nicht ausreichen oder zu deren Durchführung in folgenden Haushaltsjahren Mittel bereitgestellt werden müssen, die die Ausgaben für Berufsbildung des laufenden Haushalts nicht unwesentlich übersteigen, bedürfen der Zustimmung der Vollversammlung.
 
 (6) Abweichend von § 43 Abs. 1 haben die Lehrkräfte Stimmrecht bei Beschlüssen zu Angelegenheiten der Berufsausbildungsvorbereitung und Berufsausbildung, soweit sich die Beschlüsse unmittelbar auf die Organisation der schulischen Berufsbildung (§ 2 Abs. 1 Nr. 2 des Berufsbildungsgesetzes) auswirken.
+
+(+++ § 44 Abs. 2: Zur Anwendung vgl. § 125 F bis 5.4.2017 +++)
 
 ### § 44a
 
@@ -1089,7 +1101,7 @@ die Antragstellerin oder der Antragsteller diese Unterschiede nicht durch sonsti
 
 (4) Kann die Antragstellerin oder der Antragsteller die für die Feststellung der Gleichwertigkeit erforderlichen Nachweise nicht oder nur teilweise vorlegen, bestehen Zweifel an der Echtheit oder Richtigkeit der Nachweise oder sind diese inhaltlich nicht ausreichend, kann die Handwerkskammer, insbesondere in Fällen, in denen bei der Gleichwertigkeitsfeststellung Berufserfahrung herangezogen wird, die für einen Vergleich mit der Meisterprüfung in dem zu betreibenden zulassungspflichtigen Handwerk relevanten beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten der Antragstellerin oder des Antragstellers im Rahmen geeigneter Verfahren feststellen. Geeignete Verfahren sind insbesondere Arbeitsproben, Fachgespräche sowie praktische und theoretische Prüfungen.
 
-(5) Sofern die Gleichwertigkeit wegen wesentlicher Unterschiede zu der entsprechenden Meisterprüfung nicht festgestellt werden kann, kann die Handwerkskammer zur Feststellung der Gleichwertigkeit die Teilnahme an einem Anpassungslehrgang, der Gegenstand einer Bewertung ist, oder das Ablegen einer Eignungsprüfung verlangen.
+(5) Sofern die Gleichwertigkeit wegen wesentlicher Unterschiede zu der entsprechenden Meisterprüfung nicht festgestellt werden kann, kann die Handwerkskammer zur Feststellung der Gleichwertigkeit die Teilnahme an einem Anpassungslehrgang, der Gegenstand einer Bewertung ist, oder das Ablegen einer Eignungsprüfung verlangen. Verlangt die Handwerkskammer eine Eignungsprüfung, soll sie ermöglichen, dass diese innerhalb von sechs Monaten abgelegt werden kann.
 
 (6) § 8 Absatz 2 und 3 Satz 2 und 3 gilt entsprechend. Im Übrigen sind die Vorschriften des Berufsqualifikationsfeststellungsgesetzes über reglementierte Berufe sowie § 17 anzuwenden.
 
@@ -1710,7 +1722,7 @@ die Behörden in der Förderung des Handwerks durch Anregungen, Vorschläge und 
 die Handwerksrolle (§ 6) zu führen,
 
 4.  
-die Berufsausbildung zu regeln (§ 41), Vorschriften hierfür zu erlassen, ihre Durchführung zu überwachen (§ 41a) sowie eine Lehrlingsrolle (§ 28 Satz 1) zu führen,
+die Berufsausbildung zu regeln (§ 41), Vorschriften hierfür zu erlassen, ihre Durchführung zu überwachen (§ 41a) sowie eine Lehrlingsrolle (§ 28 Absatz 1) zu führen,
 
 4a.  
 Vorschriften für Prüfungen im Rahmen einer beruflichen Fortbildung oder Umschulung zu erlassen und Prüfungsausschüsse hierfür zu errichten,
@@ -1726,6 +1738,9 @@ die Gleichwertigkeit festzustellen (§§ 40a, 50b, 51e)
 
 7.  
 die technische und betriebswirtschaftliche Fortbildung der Meister und Gesellen zur Erhaltung und Steigerung der Leistungsfähigkeit des Handwerks in Zusammenarbeit mit den Innungsverbänden zu fördern, die erforderlichen Einrichtungen hierfür zu schaffen oder zu unterstützen und zu diesem Zweck eine Gewerbeförderungsstelle zu unterhalten,
+
+7a.  
+Maßnahmen zur Förderung und Durchführung der Berufsbildung, insbesondere der Berufsausbildungsvorbereitung, Berufsausbildung, beruflichen Fortbildung und beruflichen Umschulung, sowie der technischen und betriebswirtschaftlichen Weiterbildung, insbesondere Sachkundenachweise und Sachkundeprüfungen nach gesetzlichen Vorschriften, nach Vorschriften der Unfallversicherungsträger oder nach technischen Normvorschriften in Zusammenarbeit mit den Innungsverbänden anzubieten,
 
 8.  
 Sachverständige zur Erstattung von Gutachten über Waren, Leistungen und Preise von Handwerkern zu bestellen und zu vereidigen,
@@ -1948,7 +1963,7 @@ die Aufstellung, Prüfung und Abnahme der Jahresrechnung sowie über die Übertr
 die Voraussetzungen und die Form einer Änderung der Satzung,
 
 12.  
-die Organe, in denen die Bekanntmachungen der Handwerkskammer zu veröffentlichen sind.
+die Organe einschließlich elektronischer Medien, in denen die Bekanntmachungen der Handwerkskammer zu veröffentlichen sind.
 
 (3) Die Satzung darf keine Bestimmung enthalten, die mit den in diesem Gesetz bezeichneten Aufgaben der Handwerkskammer nicht in Verbindung steht oder gesetzlichen Vorschriften zuwiderläuft.
 
@@ -2003,7 +2018,7 @@ die Festsetzung der den Mitgliedern zu gewährenden Entschädigung (§ 94),
 14.  
 die Änderung der Satzung.
 
-(2) Die nach Absatz 1 Nr. 3 bis 7, 10 bis 12 und 14 gefaßten Beschlüsse bedürfen der Genehmigung durch die oberste Landesbehörde. Die Beschlüsse nach Absatz 1 Nr. 5, 10 bis 12 und 14 sind in den für die Bekanntmachungen der Handwerkskammern bestimmten Organen (§ 105 Abs. 2 Nr. 12) zu veröffentlichen.
+(2) Die nach Absatz 1 Nr. 3 bis 7, 10 bis 12 und 14 gefaßten Beschlüsse bedürfen der Genehmigung durch die oberste Landesbehörde. Die Beschlüsse nach Absatz 1 Nr. 5, 10 bis 12 und 14 sind in den für die Bekanntmachungen der Handwerkskammern bestimmten Organen einschließlich der elektronischen Medien (§ 105 Abs. 2 Nr. 12) zu veröffentlichen.
 
 ### § 107
 
@@ -2196,7 +2211,7 @@ Dritter Abschnitt Schlußvorschriften
 
 ### § 125
 
-(Inkrafttreten)
+Auf Ausbildungsverträge, die vor dem 30. September 2017 abgeschlossen wurden oder bis zu diesem Zeitpunkt abgeschlossen werden, sind § 6 Absatz 2 Satz 5, § 26 Absatz 2 Satz 1, § 36 Absatz 1 Nummer 2 und § 44 Absatz 2 Nummer 1 in ihrer bis zum 5. April 2017 geltenden Fassung weiter anzuwenden.
 
 ### Anlage A Verzeichnis der Gewerbe, die als zulassungspflichtige Handwerke betrieben werden können (§ 1 Abs. 2)
 
@@ -2304,7 +2319,7 @@ Fleischer
 Augenoptiker
 
 34  
-Hörgeräteakustiker
+Hörakustiker
 
 35  
 Orthopädietechniker
@@ -2671,7 +2686,7 @@ Schlagzeugmacher
 
 Text siehe: HwWahlO
 
-### Anlage D zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung) Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes und in der Lehrlingsrolle
+### Anlage D zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung)Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes und in der Lehrlingsrolle
 
 (Fundstelle: BGBl. I 1998, 3110 - 3111;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2683,10 +2698,10 @@ In der Handwerksrolle dürfen folgende Daten gespeichert werden:
 bei natürlichen Personen
 
 a)  
-Name, Vorname, Geburtsname, Geburtsdatum und Staatsangehörigkeit des Betriebsinhabers, bei nicht voll geschäftsfähigen Personen auch der Name, Vorname des gesetzlichen Vertreters; im Falle des § 4 Abs. 2 oder im Falle des § 7 Abs. 1 Satz 1 der Handwerksordnung sind auch Name, Vorname, Geburtsdatum und Staatsangehörigkeit des Betriebsleiters sowie die für ihn in Betracht kommenden Angaben nach Buchstabe e einzutragen;
+Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer, des Betriebsinhabers, bei nicht voll geschäftsfähigen Personen auch der Name, Vorname des gesetzlichen Vertreters; im Falle des § 4 Absatz 2 oder im Falle des § 7 Absatz 1 Satz 1 der Handwerksordnung sind auch der Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Internet-Adresse, Telefaxnummer oder Telefonnummer, des Betriebsleiters sowie die für ihn in Betracht kommenden Angaben nach Buchstabe e einzutragen;
 
 b)  
-die Firma, wenn der selbständige Handwerker eine Firma führt, die sich auf den Handwerksbetrieb bezieht;
+die Firma, wenn der selbständige Handwerker eine Firma führt, die sich auf den Handwerksbetrieb bezieht, die Webseite des Handwerksbetriebes sowie dessen Etablissementbezeichnung;
 
 c)  
 Ort und Straße der gewerblichen Niederlassung;
@@ -2704,16 +2719,16 @@ der Zeitpunkt der Eintragung in die Handwerksrolle;
 bei juristischen Personen
 
 a)  
-die Firma oder der Name der juristischen Person sowie Ort und Straße der gewerblichen Niederlassung;
+die Firma oder der Name der juristischen Person, deren Internetseite und Firmierung sowie Ort und Straße der gewerblichen Niederlassung;
 
 b)  
-Name, Vorname, Geburtsdatum und Staatsangehörigkeit der gesetzlichen Vertreter;
+Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer, der gesetzlichen Vertreter;
 
 c)  
 das zu betreibende Handwerk oder bei Ausübung mehrerer Handwerke diese Handwerke;
 
 d)  
-Name, Vorname, Geburtsdatum und Staatsangehörigkeit des Betriebsleiters sowie die für ihn in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
+Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer, des Betriebsleiters sowie die für ihn in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
 
 e)  
 der Zeitpunkt der Eintragung in die Handwerksrolle;
@@ -2722,13 +2737,13 @@ der Zeitpunkt der Eintragung in die Handwerksrolle;
 bei Personengesellschaften
 
 a)  
-bei Personenhandelsgesellschaften die Firma, bei Gesellschaften des Bürgerlichen Rechts die Bezeichnung, unter der sie das Handwerk betreiben, sowie der Ort und die Straße der gewerblichen Niederlassung;
+bei Personenhandelsgesellschaften die Firma, bei Gesellschaften des Bürgerlichen Rechts die Bezeichnung, unter der sie das Handwerk betreiben, deren Webseite und Firmierung sowie der Ort und die Straße der gewerblichen Niederlassung;
 
 b)  
-Name, Vorname, Geburtsdatum und Staatsangehörigkeit des für die technische Leitung des Betriebes verantwortlichen persönlich haftenden Gesellschafters oder im Falle des § 7 Abs. 1 Satz 1 des Betriebsleiters, Angaben über eine Vertretungsbefugnis und die für ihn in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
+Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer, des für die technische Leitung des Betriebes verantwortlichen persönlich haftenden Gesellschafters oder im Falle des § 7 Absatz 1 Satz 1 des Betriebsleiters Angaben über eine Vertretungsbefugnis und die für ihn in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
 
 c)  
-Name, Vorname, Geburtsdatum und Staatsangehörigkeit der übrigen Gesellschafter, Angaben über eine Vertretungsbefugnis und die für sie in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
+Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer, der übrigen Gesellschafter, Angaben über eine Vertretungsbefugnis und die für ihn in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
 
 d)  
 das zu betreibende Handwerk oder bei Ausübung mehrerer Handwerke diese Handwerke;
@@ -2749,10 +2764,10 @@ c)
 Bezeichnung oder Firma und Gegenstand sowie Ort und Straße der gewerblichen Niederlassung des Unternehmens, mit dem der Nebenbetrieb verbunden ist;
 
 d)  
-Bezeichnung oder Firma sowie Ort und Straße der gewerblichen Niederlassung des Nebenbetriebs;
+Bezeichnung oder Firma, deren Internetseite und Firmierung sowie Ort und Straße der gewerblichen Niederlassung des Nebenbetriebs;
 
 e)  
-Name, Vorname, Geburtsdatum und Staatsangehörigkeit des Leiters des Nebenbetriebs und die für ihn in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
+Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit, Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer, des Leiters des Nebenbetriebes und die für ihn in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
 
 f)  
 der Zeitpunkt der Eintragung in die Handwerksrolle.
@@ -2773,13 +2788,13 @@ b)
 die nicht in der Handwerksrolle eingetragen sind:Die der Eintragung nach Abschnitt I Nummer 1 Buchstabe a entsprechenden Daten mit Ausnahme der Daten zum Betriebsleiter zum Zeitpunkt der Eintragung in die Handwerksrolle und der Angaben zu Abschnitt I Nummer 1 Buchstabe e, soweit sie für die Zwecke der Lehrlingsrolle erforderlich sind;
 
 2.  
-bei den Ausbildern:Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Art der fachlichen Eignung;
+bei den Ausbildern:Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer, Art der fachlichen Eignung;
 
 3.  
 bei den Auszubildenden
 
 a)  
-beim Lehrling:Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Staatsangehörigkeit, allgemeinbildender Schulabschluss, vorausgegangene Teilnahme an berufsvorbereitender Qualifizierung oder beruflicher Grundbildung, berufliche Vorbildung, Anschrift des Lehrlings,
+beim Lehrling:Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Staatsangehörigkeit, allgemeinbildender Schulabschluss, vorausgegangene Teilnahme an berufsvorbereitender Qualifizierung oder beruflicher Grundbildung, berufliche Vorbildung, Anschrift des Lehrlings und dessen elektronische Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer,
 
 b)  
 erforderlichenfalls bei gesetzlichen Vertretern:Name, Vorname und Anschrift;
