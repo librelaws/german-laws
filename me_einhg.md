@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 22.2.1985 I 408;
 
 Stand  
-zuletzt geändert durch Art. 291 V v. 31.8.2015 I 1474
+zuletzt geändert durch Art. 4 Abs. 65 G v. 18.7.2016 I 1666
 
 ### 
 
