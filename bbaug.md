@@ -5,13 +5,42 @@ Neuf
 Neugefasst durch Bek. v. 23.9.2004 I 2414;
 
 Stand  
-Zuletzt geändert durch Art. 6 G v. 20.10.2015 I 1722
+zuletzt geändert durch Art. 1 G v. 4.5.2017 I 1057
+
+Hinweis  
+Änderung durch Art. 6 G v. 29.5.2017 I 1298 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 2 G v. 30.6.2017 I 2193 (Nr. 44) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 2 Abs. 3 G v. 20.7.2017 I 2808 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
+
+Dieses Gesetz dient der Umsetzung folgender Richtlinien:
+
+1.  
+Richtlinie 79/409/EWG des Rates vom 2. April 1979 über die Erhaltung der wild lebenden Vogelarten (ABl. EG Nr. L 103 S. 1), zuletzt geändert durch Verordnung (EG) Nr. 807/2003 des Rates vom 14. April 2003 (ABl. EU Nr. L 122 S. 36);
+
+2.  
+Richtlinie 85/337/EWG des Rates vom 27. Juni 1985 über die Umweltverträglichkeitsprüfung bei bestimmten öffentlichen und privaten Projekten (ABl. EG Nr. L 175 S. 40), zuletzt geändert durch Richtlinie 2003/35/EG des Europäischen Parlaments und des Rates vom 26. Mai 2003 (ABl. EU Nr. L 156 S. 17);
+
+3.  
+Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (ABl. EG Nr. L 206 S. 7), zuletzt geändert durch Verordnung (EG) Nr. 1882/2003 des Europäischen Parlaments und des Rates vom 29. September 2003 (ABl. EU Nr. L 284 S. 1);
+
+4.  
+Richtlinie 2001/42/EG des Europäischen Parlaments und des Rates vom 27. Juni 2001 über die Prüfung der Umweltauswirkungen bestimmter Pläne und Programme (ABl. EG Nr. L 197 S. 30).
 
 ```
 (+++ Textnachweis Geltung ab: 1.8.1979 +++)
 (+++ Änderungen aufgrund EinigVtr vgl. § 246a +++)
+(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
+     Umsetzung der
+       EWGRL 409/79            (CELEX Nr: 31979L0319)
+       EWGRL 337/85            (CELEX Nr: 31985L0337)
+       EWGRL 43/92             (CELEX Nr: 31992L0043)
+       EGRL 42/2001            (CELEX Nr: 32001L0042) +++)
 ```
 
 Überschrift: IdF d. Art. 1 Nr. 1 G v. 8.12.1986 I 2191 mWv 1.7.1987
@@ -21,1311 +50,2219 @@ Zuletzt geändert durch Art. 6 G v. 20.10.2015 I 1722
 <table>
 <tbody>
 <tr class="odd">
-<td>Erstes Kapitel</td>
+<td></td>
+<td><strong>Erstes Kapitel</strong></td>
+<td></td>
 </tr>
 <tr class="even">
-<td>Allgemeines Städtebaurecht</td>
+<td></td>
+<td><strong>Allgemeines Städtebaurecht</strong></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
+<td></td>
 <td>Erster Teil</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td>Bauleitplanung ..........................</td>
+<td></td>
+<td>Bauleitplanung</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Erster Abschnitt</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Allgemeine Vorschriften</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 1</td>
+<td>Aufgabe, Begriff und Grundsätze der Bauleitplanung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 1a</td>
+<td>Ergänzende Vorschriften zum Umweltschutz</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 2</td>
+<td>Aufstellung der Bauleitpläne</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 2a</td>
+<td>Begründung zum Bauleitplanentwurf, Umweltbericht</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 3</td>
+<td>Beteiligung der Öffentlichkeit</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 4</td>
+<td>Beteiligung der Behörden</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 4a</td>
+<td>Gemeinsame Vorschriften zur Beteiligung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 4b</td>
+<td>Einschaltung eines Dritten</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 4c</td>
+<td>Überwachung</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Zweiter Abschnitt</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Vorbereitender Bauleitplan<br />
+(Flächennutzungsplan)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 5</td>
+<td>Inhalt des Flächennutzungsplans</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 6</td>
+<td>Genehmigung des Flächennutzungsplans</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 6a</td>
+<td>Zusammenfassende Erklärung zum Flächennutzungsplan; Einstellen in das Internet</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 7</td>
+<td>Anpassung an den Flächennutzungsplan</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Dritter Abschnitt</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Verbindlicher Bauleitplan<br />
+(Bebauungsplan)</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 8</td>
+<td>Zweck des Bebauungsplans</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 9</td>
+<td>Inhalt des Bebauungsplans</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 9a</td>
+<td>Verordnungsermächtigung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 10</td>
+<td>Beschluss, Genehmigung und Inkrafttreten des Bebauungsplans</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 10a</td>
+<td>Zusammenfassende Erklärung zum Bebauungsplan; Einstellen in das Internet</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Vierter Abschnitt</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Zusammenarbeit mit Privaten;<br />
+vereinfachtes Verfahren</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 11</td>
+<td>Städtebaulicher Vertrag</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 12</td>
+<td>Vorhaben- und Erschließungsplan</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 13</td>
+<td>Vereinfachtes Verfahren</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 13a</td>
+<td>Bebauungspläne der Innenentwicklung</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 13b</td>
+<td>Einbeziehung von Außenbereichsflächen in das beschleunigte Verfahren</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
+<td></td>
 <td>Zweiter Teil</td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
+<td></td>
 <td>Sicherung der Bauleitplanung</td>
-</tr>
-<tr class="odd">
-<td> </td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Erster Abschnitt</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Veränderungssperre und<br />
+Zurückstellung von Baugesuchen</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 14</td>
+<td>Veränderungssperre</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 15</td>
+<td>Zurückstellung von Baugesuchen</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 16</td>
+<td>Beschluss über die Veränderungssperre</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 17</td>
+<td>Geltungsdauer der Veränderungssperre</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 18</td>
+<td>Entschädigung bei Veränderungssperre</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Zweiter Abschnitt</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Teilung von Grundstücken;<br />
+Gebiete mit Fremdenverkehrsfunktionen</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 19</td>
+<td>Teilung von Grundstücken</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 20</td>
+<td>(weggefallen)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 21</td>
+<td>(weggefallen)</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 22</td>
+<td>Sicherung von Gebieten mit Fremdenverkehrsfunktionen</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 23</td>
+<td>(weggefallen)</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Dritter Abschnitt</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Gesetzliche Vorkaufsrechte der Gemeinde</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 24</td>
+<td>Allgemeines Vorkaufsrecht</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 25</td>
+<td>Besonderes Vorkaufsrecht</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 26</td>
+<td>Ausschluss des Vorkaufsrechts</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 27</td>
+<td>Abwendung des Vorkaufsrechts</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 27a</td>
+<td>Ausübung des Vorkaufsrechts zugunsten Dritter</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 28</td>
+<td>Verfahren und Entschädigung</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
+<td></td>
 <td>Dritter Teil</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Regelung der baulichen und<br />
+sonstigen Nutzung; Entschädigung</td>
+<td></td>
 </tr>
 <tr class="even">
-<td>Regelung der baulichen und sonstigen Nutzung; Entschädigung</td>
+<td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Erster Abschnitt</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Zulässigkeit von Vorhaben</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 29</td>
+<td>Begriff des Vorhabens; Geltung von Rechtsvorschriften</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 30</td>
+<td>Zulässigkeit von Vorhaben im Geltungsbereich eines Bebauungsplans</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 31</td>
+<td>Ausnahmen und Befreiungen</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 32</td>
+<td>Nutzungsbeschränkungen auf künftigen Gemeinbedarfs-, Verkehrs-, Versorgungs- und Grünflächen</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 33</td>
+<td>Zulässigkeit von Vorhaben während der Planaufstellung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 34</td>
+<td>Zulässigkeit von Vorhaben innerhalb der im Zusammenhang bebauten Ortsteile</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 35</td>
+<td>Bauen im Außenbereich</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 36</td>
+<td>Beteiligung der Gemeinde und der höheren Verwaltungsbehörde</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 37</td>
+<td>Bauliche Maßnahmen des Bundes und der Länder</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 38</td>
+<td>Bauliche Maßnahmen von überörtlicher Bedeutung auf Grund von Planfeststellungsverfahren; öffentlich zugängliche Abfallbeseitigungsanlagen</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Zweiter Abschnitt</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Entschädigung</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 39</td>
+<td>Vertrauensschaden</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 40</td>
+<td>Entschädigung in Geld oder durch Übernahme</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 41</td>
+<td>Entschädigung bei Begründung von Geh-, Fahr- und Leitungsrechten und bei Bindungen für Bepflanzungen</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 42</td>
+<td>Entschädigung bei Änderung oder Aufhebung einer zulässigen Nutzung</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 43</td>
+<td>Entschädigung und Verfahren</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 44</td>
+<td>Entschädigungspflichtige, Fälligkeit und Erlöschen der Entschädigungsansprüche</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
+<td></td>
 <td>Vierter Teil</td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
+<td></td>
 <td>Bodenordnung</td>
-</tr>
-<tr class="even">
-<td> </td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Erster Abschnitt</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Umlegung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 45</td>
+<td>Zweck und Anwendungsbereich</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 46</td>
+<td>Zuständigkeit und Voraussetzungen</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 47</td>
+<td>Umlegungsbeschluss</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 48</td>
+<td>Beteiligte</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 49</td>
+<td>Rechtsnachfolge</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 50</td>
+<td>Bekanntmachung des Umlegungsbeschlusses</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 51</td>
+<td>Verfügungs- und Veränderungssperre</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 52</td>
+<td>Umlegungsgebiet</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 53</td>
+<td>Bestandskarte und Bestandsverzeichnis</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 54</td>
+<td>Benachrichtigungen und Umlegungsvermerk</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 55</td>
+<td>Umlegungsmasse und Verteilungsmasse</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 56</td>
+<td>Verteilungsmaßstab</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 57</td>
+<td>Verteilung nach Werten</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 58</td>
+<td>Verteilung nach Flächen</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 59</td>
+<td>Zuteilung und Abfindung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 60</td>
+<td>Abfindung und Ausgleich für bauliche Anlagen, Anpflanzungen und sonstige Einrichtungen</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 61</td>
+<td>Aufhebung, Änderung und Begründung von Rechten</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 62</td>
+<td>Gemeinschaftliches Eigentum; besondere rechtliche Verhältnisse</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 63</td>
+<td>Übergang von Rechtsverhältnissen auf die Abfindung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 64</td>
+<td>Geldleistungen</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 65</td>
+<td>Hinterlegung und Verteilungsverfahren</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 66</td>
+<td>Aufstellung und Inhalt des Umlegungsplans</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 67</td>
+<td>Umlegungskarte</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 68</td>
+<td>Umlegungsverzeichnis</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 69</td>
+<td>Bekanntmachung des Umlegungsplans, Einsichtnahme</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 70</td>
+<td>Zustellung des Umlegungsplans</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 71</td>
+<td>Inkrafttreten des Umlegungsplans</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 72</td>
+<td>Wirkungen der Bekanntmachung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 73</td>
+<td>Änderung des Umlegungsplans</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 74</td>
+<td>Berichtigung der öffentlichen Bücher</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 75</td>
+<td>Einsichtnahme in den Umlegungsplan</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 76</td>
+<td>Vorwegnahme der Entscheidung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 77</td>
+<td>Vorzeitige Besitzeinweisung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 78</td>
+<td>Verfahrens- und Sachkosten</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 79</td>
+<td>Abgaben- und Auslagenbefreiung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Zweiter Abschnitt</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Vereinfachte Umlegung</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 80</td>
+<td>Zweck, Anwendungsbereich, Zuständigkeiten</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 81</td>
+<td>Geldleistungen</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 82</td>
+<td>Beschluss über die vereinfachte Umlegung</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 83</td>
+<td>Bekanntmachung und Rechtswirkungen der vereinfachten Umlegung</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 84</td>
+<td>Berichtigung der öffentlichen Bücher</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
+<td></td>
 <td>Fünfter Teil</td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
+<td></td>
 <td>Enteignung</td>
-</tr>
-<tr class="odd">
-<td> </td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Erster Abschnitt</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Zulässigkeit der Enteignung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 85</td>
+<td>Enteignungszweck</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 86</td>
+<td>Gegenstand der Enteignung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 87</td>
+<td>Voraussetzungen für die Zulässigkeit der Enteignung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 88</td>
+<td>Enteignung aus zwingenden städtebaulichen Gründen</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 89</td>
+<td>Veräußerungspflicht</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 90</td>
+<td>Enteignung von Grundstücken zur Entschädigung in Land</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 91</td>
+<td>Ersatz für entzogene Rechte</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 92</td>
+<td>Umfang, Beschränkung und Ausdehnung der Enteignung</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Zweiter Abschnitt</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Entschädigung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 93</td>
+<td>Entschädigungsgrundsätze</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 94</td>
+<td>Entschädigungsberechtigter und Entschädigungsverpflichteter</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 95</td>
+<td>Entschädigung für den Rechtsverlust</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 96</td>
+<td>Entschädigung für andere Vermögensnachteile</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 97</td>
+<td>Behandlung der Rechte der Nebenberechtigten</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 98</td>
+<td>Schuldübergang</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 99</td>
+<td>Entschädigung in Geld</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 100</td>
+<td>Entschädigung in Land</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 101</td>
+<td>Entschädigung durch Gewährung anderer Rechte</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 102</td>
+<td>Rückenteignung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 103</td>
+<td>Entschädigung für die Rückenteignung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Dritter Abschnitt</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Enteignungsverfahren</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 104</td>
+<td>Enteignungsbehörde</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 105</td>
+<td>Enteignungsantrag</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 106</td>
+<td>Beteiligte</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 107</td>
+<td>Vorbereitung der mündlichen Verhandlung</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 108</td>
+<td>Einleitung des Enteignungsverfahrens und Anberaumung des Termins zur mündlichen Verhandlung; Enteignungsvermerk</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 109</td>
+<td>Genehmigungspflicht</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 110</td>
+<td>Einigung</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 111</td>
+<td>Teileinigung</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 112</td>
+<td>Entscheidung der Enteignungsbehörde</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 113</td>
+<td>Enteignungsbeschluss</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 114</td>
+<td>Lauf der Verwendungsfrist</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 115</td>
+<td>Verfahren bei der Entschädigung durch Gewährung anderer Rechte</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 116</td>
+<td>Vorzeitige Besitzeinweisung</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 117</td>
+<td>Ausführung des Enteignungsbeschlusses</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 118</td>
+<td>Hinterlegung</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 119</td>
+<td>Verteilungsverfahren</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 120</td>
+<td>Aufhebung des Enteignungsbeschlusses</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 121</td>
+<td>Kosten</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 122</td>
+<td>Vollstreckbarer Titel</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
+<td></td>
 <td>Sechster Teil</td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
+<td></td>
 <td>Erschließung</td>
-</tr>
-<tr class="odd">
-<td> </td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Erster Abschnitt</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Allgemeine Vorschriften</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 123</td>
+<td>Erschließungslast</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 124</td>
+<td>Erschließungspflicht nach abgelehntem Vertragsangebot</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 125</td>
+<td>Bindung an den Bebauungsplan</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 126</td>
+<td>Pflichten des Eigentümers</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Zweiter Abschnitt</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Erschließungsbeitrag</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 127</td>
+<td>Erhebung des Erschließungsbeitrags</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 128</td>
+<td>Umfang des Erschließungsaufwands</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 129</td>
+<td>Beitragsfähiger Erschließungsaufwand</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 130</td>
+<td>Art der Ermittlung des beitragsfähigen Erschließungsaufwands</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 131</td>
+<td>Maßstäbe für die Verteilung des Erschließungsaufwands</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 132</td>
+<td>Regelung durch Satzung</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 133</td>
+<td>Gegenstand und Entstehung der Beitragspflicht</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 134</td>
+<td>Beitragspflichtiger</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 135</td>
+<td>Fälligkeit und Zahlung des Beitrags</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
+<td></td>
 <td>Siebter Teil</td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
+<td></td>
 <td>Maßnahmen für den Naturschutz</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 135a</td>
+<td>Pflichten des Vorhabenträgers; Durchführung durch die Gemeinde; Kostenerstattung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 135b</td>
+<td>Verteilungsmaßstäbe für die Abrechnung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 135c</td>
+<td>Satzungsrecht</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td></td>
+<td><strong>Zweites Kapitel</strong></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td></td>
+<td><strong>Besonderes Städtebaurecht</strong></td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td>Zweites Kapitel</td>
-</tr>
-<tr class="even">
-<td>Besonderes Städtebaurecht</td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
+<td></td>
 <td>Erster Teil</td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
+<td></td>
 <td>Städtebauliche Sanierungsmaßnahmen</td>
-</tr>
-<tr class="even">
-<td> </td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Erster Abschnitt</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Allgemeine Vorschriften</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 136</td>
+<td>Städtebauliche Sanierungsmaßnahmen</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 137</td>
+<td>Beteiligung und Mitwirkung der Betroffenen</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 138</td>
+<td>Auskunftspflicht</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 139</td>
+<td>Beteiligung und Mitwirkung öffentlicher Aufgabenträger</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Zweiter Abschnitt</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Vorbereitung und Durchführung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 140</td>
+<td>Vorbereitung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 141</td>
+<td>Vorbereitende Untersuchungen</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 142</td>
+<td>Sanierungssatzung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 143</td>
+<td>Bekanntmachung der Sanierungssatzung, Sanierungsvermerk</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 144</td>
+<td>Genehmigungspflichtige Vorhaben und Rechtsvorgänge</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 145</td>
+<td>Genehmigung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 146</td>
+<td>Durchführung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 147</td>
+<td>Ordnungsmaßnahmen</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 148</td>
+<td>Baumaßnahmen</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 149</td>
+<td>Kosten- und Finanzierungsübersicht</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 150</td>
+<td>Ersatz für Änderungen von Einrichtungen, die der öffentlichen Versorgung dienen</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 151</td>
+<td>Abgaben- und Auslagenbefreiung</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Dritter Abschnitt</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Besondere sanierungsrechtliche Vorschriften</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 152</td>
+<td>Anwendungsbereich</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 153</td>
+<td>Bemessung von Ausgleichs- und Entschädigungsleistungen, Kaufpreise, Umlegung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 154</td>
+<td>Ausgleichsbetrag des Eigentümers</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 155</td>
+<td>Anrechung auf den Ausgleichsbetrag, Absehen</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 156</td>
+<td>Überleitungsvorschriften zur förmlichen Festlegung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 156a</td>
+<td>Kosten und Finanzierung der Sanierungsmaßnahme</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Vierter Abschnitt</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Sanierungsträger und andere Beauftragte</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 157</td>
+<td>Erfüllung von Aufgaben für die Gemeinde</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 158</td>
+<td>Voraussetzungen für die Beauftragung als Sanierungsträger</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 159</td>
+<td>Erfüllung der Aufgaben als Sanierungsträger</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 160</td>
+<td>Treuhandvermögen</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 161</td>
+<td>Sicherung des Treuhandvermögens</td>
+<td></td>
+</tr>
+<tr class="even">
+<td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Fünfter Abschnitt</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Abschluss der Sanierung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 162</td>
+<td>Aufhebung der Sanierungssatzung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 163</td>
+<td>Fortfall von Rechtswirkungen für einzelne Grundstücke</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 164</td>
+<td>Anspruch auf Rückübertragung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Sechster Abschnitt</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Städtebauförderung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 164a</td>
+<td>Einsatz von Städtebauförderungsmitteln</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 164b</td>
+<td>Verwaltungsvereinbarung</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
+<td></td>
 <td>Zweiter Teil</td>
+<td></td>
 </tr>
 <tr class="odd">
+<td></td>
 <td>Städtebauliche Entwicklungsmaßnahmen</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 165</td>
+<td>Städtebauliche Entwicklungsmaßnahmen</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 166</td>
+<td>Zuständigkeit und Aufgaben</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 167</td>
+<td>Erfüllung von Aufgaben für die Gemeinde; Entwicklungsträger</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 168</td>
+<td>Übernahmeverlangen</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 169</td>
+<td>Besondere Vorschriften für den städtebaulichen Entwicklungsbereich</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 170</td>
+<td>Sonderregelung für Anpassungsgebiete</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 171</td>
+<td>Kosten und Finanzierung der Entwicklungsmaßnahme</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
+<td></td>
 <td>Dritter Teil</td>
+<td></td>
 </tr>
 <tr class="odd">
+<td></td>
 <td>Stadtumbau</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 171a</td>
+<td>Stadtumbaumaßnahmen</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 171b</td>
+<td>Stadtumbaugebiet, städtebauliches Entwicklungskonzept</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 171c</td>
+<td>Stadtumbauvertrag</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 171d</td>
+<td>Sicherung von Durchführungsmaßnahmen</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
+<td></td>
 <td>Vierter Teil</td>
+<td></td>
 </tr>
 <tr class="even">
+<td></td>
 <td>Soziale Stadt</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 171e</td>
+<td>Maßnahmen der Sozialen Stadt</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td></td>
 <td>Fünfter Teil</td>
+<td></td>
 </tr>
 <tr class="even">
+<td></td>
 <td>Private Initiativen</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td> § 171f</td>
+<td>Private Initiativen zur Stadtentwicklung, Landesrecht</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td></td>
 <td>Sechster Teil</td>
+<td></td>
 </tr>
 <tr class="even">
+<td></td>
 <td>Erhaltungssatzung und städtebauliche Gebote</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Erster Abschnitt</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Erhaltungssatzung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 172</td>
+<td>Erhaltung baulicher Anlagen und der Eigenart von Gebieten (Erhaltungssatzung)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 173</td>
+<td>Genehmigung, Übernahmeanspruch</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 174</td>
+<td>Ausnahmen</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Zweiter Abschnitt</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Städtebauliche Gebote</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 175</td>
+<td>Allgemeines</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 176</td>
+<td>Baugebot</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 177</td>
+<td>Modernisierungs- und Instandsetzungsgebot</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 178</td>
+<td>Pflanzgebot</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 179</td>
+<td>Rückbau- und Entsiegelungsgebot</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
+<td></td>
 <td>Siebter Teil</td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
+<td></td>
 <td>Sozialplan und Härteausgleich</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 180</td>
+<td>Sozialplan</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 181</td>
+<td>Härteausgleich</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
+<td></td>
 <td>Achter Teil</td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
+<td></td>
 <td>Miet- und Pachtverhältnisse</td>
-</tr>
-<tr class="even">
-<td> </td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 182</td>
+<td>Aufhebung von Miet- oder Pachtverhältnissen</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 183</td>
+<td>Aufhebung von Miet- oder Pachtverhältnissen über unbebaute Grundstücke</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 184</td>
+<td>Aufhebung anderer Vertragsverhältnisse</td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 185</td>
+<td>Entschädigung bei Aufhebung von Miet- oder Pachtverhältnissen</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
+<td>§ 186</td>
+<td>Verlängerung von Miet- oder Pachtverhältnissen</td>
+<td></td>
 </tr>
 <tr class="even">
+<td> </td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
 <td>Neunter Teil</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Städtebauliche Maßnahmen<br />
+im Zusammenhang mit Maßnahmen<br />
+zur Verbesserung der Agrarstruktur</td>
+<td></td>
 </tr>
 <tr class="odd">
-<td>Städtebauliche Maßnahmen im Zusammenhang mit<br />
-Maßnahmen zur Verbesserung der Agrarstruktur</td>
+<td>§ 187</td>
+<td>Abstimmung von Maßnahmen; Bauleitplanung und Maßnahmen zur Verbesserung der Agrarstruktur</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 188</td>
+<td>Bauleitplanung und Flurbereinigung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 189</td>
+<td>Ersatzlandbeschaffung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 190</td>
+<td>Flurbereinigung aus Anlass einer städtebaulichen Maßnahme</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 191</td>
+<td>Vorschriften über den Verkehr mit land- und forstwirtschaftlichen Grundstücken</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><strong>Drittes Kapitel</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><strong>Sonstige Vorschriften</strong></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td>Drittes Kapitel</td>
-</tr>
-<tr class="odd">
-<td>Sonstige Vorschriften</td>
-</tr>
-<tr class="even">
+<td></td>
 <td>Erster Teil</td>
+<td></td>
 </tr>
 <tr class="odd">
+<td></td>
 <td>Wertermittlung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 192</td>
+<td>Gutachterausschuss</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 193</td>
+<td>Aufgaben des Gutachterausschusses</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 194</td>
+<td>Verkehrswert</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 195</td>
+<td>Kaufpreissammlung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 196</td>
+<td>Bodenrichtwerte</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 197</td>
+<td>Befugnisse des Gutachterausschusses</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 198</td>
+<td>Oberer Gutachterausschuss</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 199</td>
+<td>Ermächtigungen</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
+<td></td>
 <td>Zweiter Teil</td>
+<td></td>
 </tr>
 <tr class="even">
-<td>Allgemeine Vorschriften; Zuständigkeiten; Verwaltungsverfahren; Planerhaltung</td>
+<td></td>
+<td>Allgemeine Vorschriften; Zuständigkeiten;<br />
+Verwaltungsverfahren; Planerhaltung</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Erster Abschnitt</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Allgemeine Vorschriften</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 200</td>
+<td>Grundstücke; Rechte an Grundstücken; Baulandkataster</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 200a</td>
+<td>Ersatzmaßnahmen</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 201</td>
+<td>Begriff der Landwirtschaft</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 202</td>
+<td>Schutz des Mutterbodens</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Zweiter Abschnitt</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Zuständigkeiten</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 203</td>
+<td>Abweichende Zuständigkeitsregelung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 204</td>
+<td>Gemeinsamer Flächennutzungsplan, Bauleitplanung bei Bildung von Planungsverbänden und bei Gebiets- oder Bestandsänderung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 205</td>
+<td>Planungsverbände</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 206</td>
+<td>Örtliche und sachliche Zuständigkeit</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Dritter Abschnitt</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Verwaltungsverfahren</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 207</td>
+<td>Von Amts wegen bestellter Vertreter</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 208</td>
+<td>Anordnungen zur Erforschung des Sachverhalts</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 209</td>
+<td>Vorarbeiten auf Grundstücken</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 210</td>
+<td>Wiedereinsetzung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 211</td>
+<td>Belehrung über Rechtsbehelfe</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 212</td>
+<td>Vorverfahren</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 212a</td>
+<td>Entfall der aufschiebenden Wirkung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 213</td>
+<td>Ordnungswidrigkeiten</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td>Vierter Abschnitt</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td>Planerhaltung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 214</td>
+<td>Beachtlichkeit der Verletzung von Vorschriften über die Aufstellung des Flächennutzungsplans und der Satzungen; ergänzendes Verfahren</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 215</td>
+<td>Frist für die Geltendmachung der Verletzung von Vorschriften</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 215a</td>
+<td>(weggefallen)</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 216</td>
+<td>Aufgaben im Genehmigungsverfahren</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
+<td></td>
 <td>Dritter Teil</td>
+<td></td>
 </tr>
 <tr class="odd">
+<td></td>
 <td>Verfahren vor den Kammern (Senaten)<br />
 für Baulandsachen</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 217</td>
+<td>Antrag auf gerichtliche Entscheidung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 218</td>
+<td>Wiedereinsetzung in den vorigen Stand</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 219</td>
+<td>Örtliche Zuständigkeit der Landgerichte</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 220</td>
+<td>Zusammensetzung der Kammern für Baulandsachen</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 221</td>
+<td>Allgemeine Verfahrensvorschriften</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 222</td>
+<td>Beteiligte</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 223</td>
+<td>Anfechtung von Ermessensentscheidungen</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 224</td>
+<td>Entfall der aufschiebenden Wirkung bei Antrag auf gerichtliche Entscheidung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 225</td>
+<td>Vorzeitige Ausführungsanordnung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 226</td>
+<td>Urteil</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 227</td>
+<td>Säumnis eines Beteiligten</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 228</td>
+<td>Kosten des Verfahrens</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 229</td>
+<td>Berufung, Beschwerde</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 230</td>
+<td>Revision</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 231</td>
+<td>Einigung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 232</td>
+<td>Weitere Zuständigkeit der Kammern (Senate) für Baulandsachen</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><strong>Viertes Kapitel</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><strong>Überleitungs- und Schlussvorschriften</strong></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td>Viertes Kapitel</td>
-</tr>
-<tr class="even">
-<td>Überleitungs- und Schlussvorschriften</td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
+<td></td>
 <td>Erster Teil</td>
+<td></td>
 </tr>
 <tr class="odd">
+<td></td>
 <td>Überleitungsvorschriften</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 233</td>
+<td>Allgemeine Überleitungsvorschriften</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 234</td>
+<td>Überleitungsvorschriften für das Vorkaufsrecht</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 235</td>
+<td>Überleitungsvorschriften für städtebauliche Sanierungs- und Entwicklungsmaßnahmen</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 236</td>
+<td>Überleitungsvorschriften für das Baugebot und die Erhaltung baulicher Anlagen</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 237</td>
+<td>(weggefallen)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 238</td>
+<td>Überleitungsvorschrift für Entschädigungen</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 239</td>
+<td>Überleitungsvorschrift für die Grenzregelung</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 240</td>
+<td>(weggefallen)</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 241</td>
+<td>(weggefallen)</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 242</td>
+<td>Überleitungsvorschriften für die Erschließung</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 243</td>
+<td>Überleitungsvorschriften für das Maßnahmengesetz zum Baugesetzbuch und das Bundesnaturschutzgesetz</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 244</td>
+<td>Überleitungsvorschriften für das Europarechtsanpassungsgesetz Bau</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 245</td>
+<td>Überleitungsvorschriften für den Stadtumbau, die Soziale Stadt und die Förderung städtebaulicher Maßnahmen</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 245a</td>
+<td>Überleitungsvorschriften aus Anlass des Gesetzes zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 245b</td>
+<td>Überleitungsvorschriften für Vorhaben im Außenbereich</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 245c</td>
+<td>Überleitungsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinie 2014/52/EU im Städtebaurecht und zur Stärkung des neuen Zusammenlebens in der Stadt</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
+<td></td>
 <td>Zweiter Teil</td>
+<td></td>
 </tr>
 <tr class="even">
+<td></td>
 <td>Schlussvorschriften</td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-</tr>
-<tr class="even">
 <td></td>
 </tr>
 <tr class="odd">
+<td>§ 246</td>
+<td>Sonderregelungen für einzelne Länder; Sonderregelungen für Flüchtlingsunterkünfte</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 246a</td>
+<td>Überschwemmungsgebiete, überschwemmungsgefährdete Gebiete</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 247</td>
+<td>Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>§ 248</td>
+<td>Sonderregelung zur sparsamen und effizienten Nutzung von Energie</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>§ 249</td>
+<td>Sonderregelungen zur Windenergie</td>
 <td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td>Anlage 1</td>
+<td>(zu § 2 Abs. 4, §§ 2a und 4c)</td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td>Anlage 2</td>
+<td>(zu § 13a Abs. 1 Satz 2 Nr. 2)</td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1355,7 +2292,7 @@ Erster Abschnitt Allgemeine Vorschriften
 
 (4) Die Bauleitpläne sind den Zielen der Raumordnung anzupassen.
 
-(5) Die Bauleitpläne sollen eine nachhaltige städtebauliche Entwicklung, die die sozialen, wirtschaftlichen und umweltschützenden Anforderungen auch in Verantwortung gegenüber künftigen Generationen miteinander in Einklang bringt, und eine dem Wohl der Allgemeinheit dienende sozialgerechte Bodennutzung gewährleisten. Sie sollen dazu beitragen, eine menschenwürdige Umwelt zu sichern, die natürlichen Lebensgrundlagen zu schützen und zu entwickeln sowie den Klimaschutz und die Klimaanpassung, insbesondere auch in der Stadtentwicklung, zu fördern, sowie die städtebauliche Gestalt und das Orts- und Landschaftsbild baukulturell zu erhalten und zu entwickeln. Hierzu soll die städtebauliche Entwicklung vorrangig durch Maßnahmen der Innenentwicklung erfolgen.
+(5) Die Bauleitpläne sollen eine nachhaltige städtebauliche Entwicklung, die die sozialen, wirtschaftlichen und umweltschützenden Anforderungen auch in Verantwortung gegenüber künftigen Generationen miteinander in Einklang bringt, und eine dem Wohl der Allgemeinheit dienende sozialgerechte Bodennutzung unter Berücksichtigung der Wohnbedürfnisse der Bevölkerung gewährleisten. Sie sollen dazu beitragen, eine menschenwürdige Umwelt zu sichern, die natürlichen Lebensgrundlagen zu schützen und zu entwickeln sowie den Klimaschutz und die Klimaanpassung, insbesondere auch in der Stadtentwicklung, zu fördern, sowie die städtebauliche Gestalt und das Orts- und Landschaftsbild baukulturell zu erhalten und zu entwickeln. Hierzu soll die städtebauliche Entwicklung vorrangig durch Maßnahmen der Innenentwicklung erfolgen.
 
 (6) Bei der Aufstellung der Bauleitpläne sind insbesondere zu berücksichtigen:
 
@@ -1363,7 +2300,7 @@ Erster Abschnitt Allgemeine Vorschriften
 die allgemeinen Anforderungen an gesunde Wohn- und Arbeitsverhältnisse und die Sicherheit der Wohn- und Arbeitsbevölkerung,
 
 2.  
-die Wohnbedürfnisse der Bevölkerung, die Schaffung und Erhaltung sozial stabiler Bewohnerstrukturen, die Eigentumsbildung weiter Kreise der Bevölkerung und die Anforderungen Kosten sparenden Bauens sowie die Bevölkerungsentwicklung,
+die Wohnbedürfnisse der Bevölkerung, insbesondere auch von Familien mit mehreren Kindern, die Schaffung und Erhaltung sozial stabiler Bewohnerstrukturen, die Eigentumsbildung weiter Kreise der Bevölkerung und die Anforderungen Kosten sparenden Bauens sowie die Bevölkerungsentwicklung,
 
 3.  
 die sozialen und kulturellen Bedürfnisse der Bevölkerung, insbesondere die Bedürfnisse der Familien, der jungen, alten und behinderten Menschen, unterschiedliche Auswirkungen auf Frauen und Männer sowie die Belange des Bildungswesens und von Sport, Freizeit und Erholung,
@@ -1381,7 +2318,7 @@ die von den Kirchen und Religionsgesellschaften des öffentlichen Rechts festges
 die Belange des Umweltschutzes, einschließlich des Naturschutzes und der Landschaftspflege, insbesondere
 
 a)  
-die Auswirkungen auf Tiere, Pflanzen, Boden, Wasser, Luft, Klima und das Wirkungsgefüge zwischen ihnen sowie die Landschaft und die biologische Vielfalt,
+die Auswirkungen auf Tiere, Pflanzen, Fläche, Boden, Wasser, Luft, Klima und das Wirkungsgefüge zwischen ihnen sowie die Landschaft und die biologische Vielfalt,
 
 b)  
 die Erhaltungsziele und der Schutzzweck der Natura 2000-Gebiete im Sinne des Bundesnaturschutzgesetzes,
@@ -1405,7 +2342,10 @@ h)
 die Erhaltung der bestmöglichen Luftqualität in Gebieten, in denen die durch Rechtsverordnung zur Erfüllung von Rechtsakten der Europäischen Union festgelegten Immissionsgrenzwerte nicht überschritten werden,
 
 i)  
-die Wechselwirkungen zwischen den einzelnen Belangen des Umweltschutzes nach den Buchstaben a, c und d,
+die Wechselwirkungen zwischen den einzelnen Belangen des Umweltschutzes nach den Buchstaben a bis d,
+
+j)  
+unbeschadet des § 50 Satz 1 des Bundes-Immissionsschutzgesetzes, die Auswirkungen, die aufgrund der Anfälligkeit der nach dem Bebauungsplan zulässigen Vorhaben für schwere Unfälle oder Katastrophen zu erwarten sind, auf die Belange nach den Buchstaben a bis d und i,
 
 8.  
 die Belange
@@ -1438,7 +2378,7 @@ die Belange der Verteidigung und des Zivilschutzes sowie der zivilen Anschlussnu
 die Ergebnisse eines von der Gemeinde beschlossenen städtebaulichen Entwicklungskonzeptes oder einer von ihr beschlossenen sonstigen städtebaulichen Planung,
 
 12.  
-die Belange des Hochwasserschutzes,
+die Belange des Küsten- oder Hochwasserschutzes und der Hochwasservorsorge, insbesondere die Vermeidung und Verringerung von Hochwasserschäden,
 
 13.  
 die Belange von Flüchtlingen oder Asylbegehrenden und ihrer Unterbringung.
@@ -1493,13 +2433,15 @@ die Unterrichtung und Erörterung bereits zuvor auf anderer Grundlage erfolgt si
 
 An die Unterrichtung und Erörterung schließt sich das Verfahren nach Absatz 2 auch an, wenn die Erörterung zu einer Änderung der Planung führt.
 
-(2) Die Entwürfe der Bauleitpläne sind mit der Begründung und den nach Einschätzung der Gemeinde wesentlichen, bereits vorliegenden umweltbezogenen Stellungnahmen für die Dauer eines Monats öffentlich auszulegen. Ort und Dauer der Auslegung sowie Angaben dazu, welche Arten umweltbezogener Informationen verfügbar sind, sind mindestens eine Woche vorher ortsüblich bekannt zu machen; dabei ist darauf hinzuweisen, dass Stellungnahmen während der Auslegungsfrist abgegeben werden können, dass nicht fristgerecht abgegebene Stellungnahmen bei der Beschlussfassung über den Bauleitplan unberücksichtigt bleiben können und, bei Aufstellung eines Bebauungsplans, dass ein Antrag nach § 47 der Verwaltungsgerichtsordnung unzulässig ist, wenn mit ihm nur Einwendungen geltend gemacht werden, die vom Antragsteller im Rahmen der Auslegung nicht oder verspätet geltend gemacht wurden, aber hätten geltend gemacht werden können. Die nach § 4 Abs. 2 Beteiligten sollen von der Auslegung benachrichtigt werden. Die fristgemäß abgegebenen Stellungnahmen sind zu prüfen; das Ergebnis ist mitzuteilen. Haben mehr als 50 Personen Stellungnahmen mit im Wesentlichen gleichem Inhalt abgegeben, kann die Mitteilung dadurch ersetzt werden, dass diesen Personen die Einsicht in das Ergebnis ermöglicht wird; die Stelle, bei der das Ergebnis der Prüfung während der Dienststunden eingesehen werden kann, ist ortsüblich bekannt zu machen. Bei der Vorlage der Bauleitpläne nach § 6 oder § 10 Abs. 2 sind die nicht berücksichtigten Stellungnahmen mit einer Stellungnahme der Gemeinde beizufügen.
+(2) Die Entwürfe der Bauleitpläne sind mit der Begründung und den nach Einschätzung der Gemeinde wesentlichen, bereits vorliegenden umweltbezogenen Stellungnahmen für die Dauer eines Monats, mindestens jedoch für die Dauer von 30 Tagen, oder bei Vorliegen eines wichtigen Grundes für die Dauer einer angemessenen längeren Frist öffentlich auszulegen. Ort und Dauer der Auslegung sowie Angaben dazu, welche Arten umweltbezogener Informationen verfügbar sind, sind mindestens eine Woche vorher ortsüblich bekannt zu machen; dabei ist darauf hinzuweisen, dass Stellungnahmen während der Auslegungsfrist abgegeben werden können und dass nicht fristgerecht abgegebene Stellungnahmen bei der Beschlussfassung über den Bauleitplan unberücksichtigt bleiben können. Die nach § 4 Abs. 2 Beteiligten sollen von der Auslegung benachrichtigt werden. Die fristgemäß abgegebenen Stellungnahmen sind zu prüfen; das Ergebnis ist mitzuteilen. Haben mehr als 50 Personen Stellungnahmen mit im Wesentlichen gleichem Inhalt abgegeben, kann die Mitteilung dadurch ersetzt werden, dass diesen Personen die Einsicht in das Ergebnis ermöglicht wird; die Stelle, bei der das Ergebnis der Prüfung während der Dienststunden eingesehen werden kann, ist ortsüblich bekannt zu machen. Bei der Vorlage der Bauleitpläne nach § 6 oder § 10 Abs. 2 sind die nicht berücksichtigten Stellungnahmen mit einer Stellungnahme der Gemeinde beizufügen.
+
+(3) Bei Flächennutzungsplänen ist ergänzend zu dem Hinweis nach Absatz 2 Satz 2 Halbsatz 2 darauf hinzuweisen, dass eine Vereinigung im Sinne des § 4 Absatz 3 Satz 1 Nummer 2 des Umwelt-Rechtsbehelfsgesetzes in einem Rechtsbehelfsverfahren nach § 7 Absatz 2 des Umwelt-Rechtsbehelfsgesetzes gemäß § 7 Absatz 3 Satz 1 des Umwelt-Rechtsbehelfsgesetzes mit allen Einwendungen ausgeschlossen ist, die sie im Rahmen der Auslegungsfrist nicht oder nicht rechtzeitig geltend gemacht hat, aber hätte geltend machen können.
 
 ### § 4 Beteiligung der Behörden
 
 (1) Die Behörden und sonstigen Träger öffentlicher Belange, deren Aufgabenbereich durch die Planung berührt werden kann, sind entsprechend § 3 Abs. 1 Satz 1 Halbsatz 1 zu unterrichten und zur Äußerung auch im Hinblick auf den erforderlichen Umfang und Detaillierungsgrad der Umweltprüfung nach § 2 Abs. 4 aufzufordern. Hieran schließt sich das Verfahren nach Absatz 2 auch an, wenn die Äußerung zu einer Änderung der Planung führt.
 
-(2) Die Gemeinde holt die Stellungnahmen der Behörden und sonstigen Träger öffentlicher Belange, deren Aufgabenbereich durch die Planung berührt werden kann, zum Planentwurf und der Begründung ein. Sie haben ihre Stellungnahmen innerhalb eines Monats abzugeben; die Gemeinde soll diese Frist bei Vorliegen eines wichtigen Grundes angemessen verlängern. In den Stellungnahmen sollen sich die Behörden und sonstigen Träger öffentlicher Belange auf ihren Aufgabenbereich beschränken; sie haben auch Aufschluss über von ihnen beabsichtigte oder bereits eingeleitete Planungen und sonstige Maßnahmen sowie deren zeitliche Abwicklung zu geben, die für die städtebauliche Entwicklung und Ordnung des Gebiets bedeutsam sein können. Verfügen sie über Informationen, die für die Ermittlung und Bewertung des Abwägungsmaterials zweckdienlich sind, haben sie diese Informationen der Gemeinde zur Verfügung zu stellen.
+(2) Die Gemeinde holt die Stellungnahmen der Behörden und sonstigen Träger öffentlicher Belange, deren Aufgabenbereich durch die Planung berührt werden kann, zum Planentwurf und der Begründung ein. Sie haben ihre Stellungnahmen innerhalb eines Monats abzugeben, wobei jedoch die Frist zur Abgabe von Stellungnahmen 30 Tage nicht unterschreiten darf; die Gemeinde soll diese Frist bei Vorliegen eines wichtigen Grundes angemessen verlängern. In den Stellungnahmen sollen sich die Behörden und sonstigen Träger öffentlicher Belange auf ihren Aufgabenbereich beschränken; sie haben auch Aufschluss über von ihnen beabsichtigte oder bereits eingeleitete Planungen und sonstige Maßnahmen sowie deren zeitliche Abwicklung zu geben, die für die städtebauliche Entwicklung und Ordnung des Gebiets bedeutsam sein können. Verfügen sie über Informationen, die für die Ermittlung und Bewertung des Abwägungsmaterials zweckdienlich sind, haben sie diese Informationen der Gemeinde zur Verfügung zu stellen.
 
 (3) Nach Abschluss des Verfahrens zur Aufstellung des Bauleitplans unterrichten die Behörden die Gemeinde, sofern nach den ihnen vorliegenden Erkenntnissen die Durchführung des Bauleitplans erhebliche, insbesondere unvorhergesehene nachteilige Auswirkungen auf die Umwelt hat.
 
@@ -1511,7 +2453,7 @@ An die Unterrichtung und Erörterung schließt sich das Verfahren nach Absatz 2 
 
 (3) Wird der Entwurf des Bauleitplans nach dem Verfahren nach § 3 Abs. 2 oder § 4 Abs. 2 geändert oder ergänzt, ist er erneut auszulegen und sind die Stellungnahmen erneut einzuholen. Dabei kann bestimmt werden, dass Stellungnahmen nur zu den geänderten oder ergänzten Teilen abgegeben werden können; hierauf ist in der erneuten Bekanntmachung nach § 3 Abs. 2 Satz 2 hinzuweisen. Die Dauer der Auslegung und die Frist zur Stellungnahme kann angemessen verkürzt werden. Werden durch die Änderung oder Ergänzung des Entwurfs des Bauleitplans die Grundzüge der Planung nicht berührt, kann die Einholung der Stellungnahmen auf die von der Änderung oder Ergänzung betroffene Öffentlichkeit sowie die berührten Behörden und sonstigen Träger öffentlicher Belange beschränkt werden.
 
-(4) Bei der Öffentlichkeits- und Behördenbeteiligung können ergänzend elektronische Informationstechnologien genutzt werden. Soweit die Gemeinde den Entwurf des Bauleitplans und die Begründung in das Internet einstellt, können die Stellungnahmen der Behörden und sonstigen Träger öffentlicher Belange durch Mitteilung von Ort und Dauer der öffentlichen Auslegung nach § 3 Abs. 2 und der Internetadresse eingeholt werden; die Mitteilung kann im Wege der elektronischen Kommunikation erfolgen, soweit der Empfänger hierfür einen Zugang eröffnet hat. Die Gemeinde hat bei Anwendung von Satz 2 Halbsatz 1 der Behörde oder dem sonstigen Träger öffentlicher Belange auf dessen Verlangen einen Entwurf des Bauleitplans und der Begründung zu übermitteln; § 4 Abs. 2 Satz 2 bleibt unberührt.
+(4) Der Inhalt der ortsüblichen Bekanntmachung nach § 3 Absatz 2 Satz 2 und die nach § 3 Absatz 2 Satz 1 auszulegenden Unterlagen sind zusätzlich in das Internet einzustellen und über ein zentrales Internetportal des Landes zugänglich zu machen. Die Stellungnahmen der Behörden und sonstigen Träger öffentlicher Belange können durch Mitteilung von Ort und Dauer der öffentlichen Auslegung nach § 3 Absatz 2 und der Internetadresse, unter der der Inhalt der Bekanntmachung und die Unterlagen nach Satz 1 im Internet eingesehen werden können, eingeholt werden; die Mitteilung kann elektronisch übermittelt werden. In den Fällen des Satzes 2 hat die Gemeinde der Behörde oder einem sonstigen Träger öffentlicher Belange auf Verlangen den Entwurf des Bauleitplans und der Begründung in Papierform zu übermitteln; § 4 Absatz 2 Satz 2 bleibt unberührt.
 
 (5) Bei Bauleitplänen, die erhebliche Auswirkungen auf Nachbarstaaten haben können, sind die Gemeinden und Behörden des Nachbarstaates nach den Grundsätzen der Gegenseitigkeit und Gleichwertigkeit zu unterrichten. Abweichend von Satz 1 ist bei Bauleitplänen, die erhebliche Umweltauswirkungen auf einen anderen Staat haben können, dieser nach den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung zu beteiligen; für die Stellungnahmen der Öffentlichkeit und Behörden des anderen Staates, einschließlich der Rechtsfolgen nicht rechtzeitig abgegebener Stellungnahmen, sind abweichend von den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung die Vorschriften dieses Gesetzbuchs entsprechend anzuwenden. Ist bei Bauleitplänen eine grenzüberschreitende Beteiligung nach Satz 2 erforderlich, ist hierauf bei der Bekanntmachung nach § 3 Abs. 2 Satz 2 hinzuweisen.
 
@@ -1523,7 +2465,7 @@ Die Gemeinde kann insbesondere zur Beschleunigung des Bauleitplanverfahrens die 
 
 ### § 4c Überwachung
 
-Die Gemeinden überwachen die erheblichen Umweltauswirkungen, die auf Grund der Durchführung der Bauleitpläne eintreten, um insbesondere unvorhergesehene nachteilige Auswirkungen frühzeitig zu ermitteln und in der Lage zu sein, geeignete Maßnahmen zur Abhilfe zu ergreifen. Sie nutzen dabei die im Umweltbericht nach Nummer 3 Buchstabe b der Anlage 1 zu diesem Gesetzbuch angegebenen Überwachungsmaßnahmen und die Informationen der Behörden nach § 4 Abs. 3.
+Die Gemeinden überwachen die erheblichen Umweltauswirkungen, die auf Grund der Durchführung der Bauleitpläne eintreten, um insbesondere unvorhergesehene nachteilige Auswirkungen frühzeitig zu ermitteln und in der Lage zu sein, geeignete Maßnahmen zur Abhilfe zu ergreifen; Gegenstand der Überwachung ist auch die Durchführung von Darstellungen oder Festsetzungen nach § 1a Absatz 3 Satz 2 und von Maßnahmen nach § 1a Absatz 3 Satz 4. Sie nutzen dabei die im Umweltbericht nach Nummer 3 Buchstabe b der Anlage 1 zu diesem Gesetzbuch angegebenen Überwachungsmaßnahmen und die Informationen der Behörden nach § 4 Abs. 3.
 
 Zweiter Abschnitt Vorbereitender Bauleitplan (Flächennutzungsplan)
 ------------------------------------------------------------------
@@ -1613,9 +2555,15 @@ für bauliche Nutzungen vorgesehene Flächen, deren Böden erheblich mit umweltg
 
 (4) Über die Genehmigung ist binnen drei Monaten zu entscheiden; die höhere Verwaltungsbehörde kann räumliche und sachliche Teile des Flächennutzungsplans vorweg genehmigen. Aus wichtigen Gründen kann die Frist auf Antrag der Genehmigungsbehörde von der zuständigen übergeordneten Behörde verlängert werden, in der Regel jedoch nur bis zu drei Monaten. Die Gemeinde ist von der Fristverlängerung in Kenntnis zu setzen. Die Genehmigung gilt als erteilt, wenn sie nicht innerhalb der Frist unter Angabe von Gründen abgelehnt wird.
 
-(5) Die Erteilung der Genehmigung ist ortsüblich bekannt zu machen. Mit der Bekanntmachung wird der Flächennutzungsplan wirksam. Ihm ist eine zusammenfassende Erklärung beizufügen über die Art und Weise, wie die Umweltbelange und die Ergebnisse der Öffentlichkeits- und Behördenbeteiligung in dem Flächennutzungsplan berücksichtigt wurden, und aus welchen Gründen der Plan nach Abwägung mit den geprüften, in Betracht kommenden anderweitigen Planungsmöglichkeiten gewählt wurde. Jedermann kann den Flächennutzungsplan, die Begründung und die zusammenfassende Erklärung einsehen und über deren Inhalt Auskunft verlangen.
+(5) Die Erteilung der Genehmigung ist ortsüblich bekannt zu machen. Mit der Bekanntmachung wird der Flächennutzungsplan wirksam. Jedermann kann den Flächennutzungsplan, die Begründung und die zusammenfassende Erklärung nach § 6a Absatz 1 einsehen und über deren Inhalt Auskunft verlangen.
 
 (6) Mit dem Beschluss über eine Änderung oder Ergänzung des Flächennutzungsplans kann die Gemeinde auch bestimmen, dass der Flächennutzungsplan in der Fassung, die er durch die Änderung oder Ergänzung erfahren hat, neu bekannt zu machen ist.
+
+### § 6a Zusammenfassende Erklärung zum Flächennutzungsplan; Einstellen in das Internet
+
+(1) Dem wirksamen Flächennutzungsplan ist eine zusammenfassende Erklärung beizufügen über die Art und Weise, wie die Umweltbelange und die Ergebnisse der Öffentlichkeits- und Behördenbeteiligung in dem Flächennutzungsplan berücksichtigt wurden, und über die Gründe, aus denen der Plan nach Abwägung mit den geprüften, in Betracht kommenden anderweitigen Planungsmöglichkeiten gewählt wurde.
+
+(2) Der wirksame Flächennutzungsplan mit der Begründung und der zusammenfassenden Erklärung soll ergänzend auch in das Internet eingestellt und über ein zentrales Internetportal des Landes zugänglich gemacht werden.
 
 ### § 7 Anpassung an den Flächennutzungsplan
 
@@ -1689,7 +2637,17 @@ die Flächen für die Abfall- und Abwasserbeseitigung, einschließlich der Rück
 die öffentlichen und privaten Grünflächen, wie Parkanlagen, Dauerkleingärten, Sport-, Spiel-, Zelt- und Badeplätze, Friedhöfe;
 
 16.  
-die Wasserflächen sowie die Flächen für die Wasserwirtschaft, für Hochwasserschutzanlagen und für die Regelung des Wasserabflusses;
+a)  
+die Wasserflächen und die Flächen für die Wasserwirtschaft,
+
+b)  
+die Flächen für Hochwasserschutzanlagen und für die Regelung des Wasserabflusses,
+
+c)  
+Gebiete, in denen bei der Errichtung baulicher Anlagen bestimmte bauliche oder technische Maßnahmen getroffen werden müssen, die der Vermeidung oder Verringerung von Hochwasserschäden einschließlich Schäden durch Starkregen dienen, sowie die Art dieser Maßnahmen,
+
+d)  
+die Flächen, die auf einem Baugrundstück für die natürliche Versickerung von Wasser aus Niederschlägen freigehalten werden müssen, um insbesondere Hochwasserschäden, einschließlich Schäden durch Starkregen, vorzubeugen;
 
 17.  
 die Flächen für Aufschüttungen, Abgrabungen oder für die Gewinnung von Steinen, Erden und anderen Bodenschätzen;
@@ -1720,10 +2678,13 @@ a)
 zum Schutz vor schädlichen Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes bestimmte Luft verunreinigende Stoffe nicht oder nur beschränkt verwendet werden dürfen,
 
 b)  
-bei der Errichtung von Gebäuden oder bestimmten sonstigen baulichen Anlagen bestimmte bauliche und sonstige technische Maßnahmen für die Erzeugung, Nutzung oder Speicherung von Strom, Wärme oder Kälte aus erneuerbaren Energien oder Kraft-Wärme-Kopplung getroffen werden müssen;
+bei der Errichtung von Gebäuden oder bestimmten sonstigen baulichen Anlagen bestimmte bauliche und sonstige technische Maßnahmen für die Erzeugung, Nutzung oder Speicherung von Strom, Wärme oder Kälte aus erneuerbaren Energien oder Kraft-Wärme-Kopplung getroffen werden müssen,
+
+c)  
+bei der Errichtung, Änderung oder Nutzungsänderung von nach Art, Maß oder Nutzungsintensität zu bestimmenden Gebäuden oder sonstigen baulichen Anlagen in der Nachbarschaft von Betriebsbereichen nach § 3 Absatz 5a des Bundes-Immissionsschutzgesetzes bestimmte bauliche und sonstige technische Maßnahmen, die der Vermeidung oder Minderung der Folgen von Störfällen dienen, getroffen werden müssen;
 
 24.  
-die von der Bebauung freizuhaltenden Schutzflächen und ihre Nutzung, die Flächen für besondere Anlagen und Vorkehrungen zum Schutz vor schädlichen Umwelteinwirkungen und sonstigen Gefahren im Sinne des Bundes-Immissionsschutzgesetzes sowie die zum Schutz vor solchen Einwirkungen oder zur Vermeidung oder Minderung solcher Einwirkungen zu treffenden baulichen und sonstigen technischen Vorkehrungen;
+die von der Bebauung freizuhaltenden Schutzflächen und ihre Nutzung, die Flächen für besondere Anlagen und Vorkehrungen zum Schutz vor schädlichen Umwelteinwirkungen und sonstigen Gefahren im Sinne des Bundes-Immissionsschutzgesetzes sowie die zum Schutz vor solchen Einwirkungen oder zur Vermeidung oder Minderung solcher Einwirkungen zu treffenden baulichen und sonstigen technischen Vorkehrungen, einschließlich von Maßnahmen zum Schutz vor schädlichen Umwelteinwirkungen durch Geräusche, wobei die Vorgaben des Immissionsschutzrechts unberührt bleiben;
 
 25.  
 für einzelne Flächen oder für ein Bebauungsplangebiet oder Teile davon sowie für Teile baulicher Anlagen mit Ausnahme der für landwirtschaftliche Nutzungen oder Wald festgesetzten Flächen
@@ -1760,6 +2721,8 @@ eine Beeinträchtigung von Wohnnutzungen oder anderen schutzbedürftigen Anlagen
 eine Beeinträchtigung der sich aus der vorhandenen Nutzung ergebenden städtebaulichen Funktion des Gebiets, insbesondere durch eine städtebaulich nachteilige Häufung von Vergnügungsstätten,
 
 zu verhindern.
+
+(2c) Für im Zusammenhang bebaute Ortsteile nach § 34 und für Gebiete nach § 30 in der Nachbarschaft von Betriebsbereichen nach § 3 Absatz 5a des Bundes-Immissionsschutzgesetzes kann zur Vermeidung oder Verringerung der Folgen von Störfällen für bestimmte Nutzungen, Arten von Nutzungen oder für nach Art, Maß oder Nutzungsintensität zu bestimmende Gebäude oder sonstige bauliche Anlagen in einem Bebauungsplan festgesetzt werden, dass diese zulässig, nicht zulässig oder nur ausnahmsweise zulässig sind; die Festsetzungen können für Teile des räumlichen Geltungsbereichs des Bebauungsplans unterschiedlich getroffen werden.
 
 (3) Bei Festsetzungen nach Absatz 1 kann auch die Höhenlage festgesetzt werden. Festsetzungen nach Absatz 1 für übereinanderliegende Geschosse und Ebenen und sonstige Teile baulicher Anlagen können gesondert getroffen werden; dies gilt auch, soweit Geschosse, Ebenen und sonstige Teile baulicher Anlagen unterhalb der Geländeoberfläche vorgesehen sind.
 
@@ -1815,9 +2778,15 @@ die Ausarbeitung der Bauleitpläne einschließlich der dazugehörigen Unterlagen
 
 (2) Bebauungspläne nach § 8 Abs. 2 Satz 2, Abs. 3 Satz 2 und Abs. 4 bedürfen der Genehmigung der höheren Verwaltungsbehörde. § 6 Abs. 2 und 4 ist entsprechend anzuwenden.
 
-(3) Die Erteilung der Genehmigung oder, soweit eine Genehmigung nicht erforderlich ist, der Beschluss des Bebauungsplans durch die Gemeinde ist ortsüblich bekannt zu machen. Der Bebauungsplan ist mit der Begründung und der zusammenfassenden Erklärung nach Absatz 4 zu jedermanns Einsicht bereitzuhalten; über den Inhalt ist auf Verlangen Auskunft zu geben. In der Bekanntmachung ist darauf hinzuweisen, wo der Bebauungsplan eingesehen werden kann. Mit der Bekanntmachung tritt der Bebauungsplan in Kraft. Die Bekanntmachung tritt an die Stelle der sonst für Satzungen vorgeschriebenen Veröffentlichung.
+(3) Die Erteilung der Genehmigung oder, soweit eine Genehmigung nicht erforderlich ist, der Beschluss des Bebauungsplans durch die Gemeinde ist ortsüblich bekannt zu machen. Der Bebauungsplan ist mit der Begründung und der zusammenfassenden Erklärung nach § 10a Absatz 1 zu jedermanns Einsicht bereitzuhalten; über den Inhalt ist auf Verlangen Auskunft zu geben. In der Bekanntmachung ist darauf hinzuweisen, wo der Bebauungsplan eingesehen werden kann. Mit der Bekanntmachung tritt der Bebauungsplan in Kraft. Die Bekanntmachung tritt an die Stelle der sonst für Satzungen vorgeschriebenen Veröffentlichung.
 
-(4) Dem Bebauungsplan ist eine zusammenfassende Erklärung beizufügen über die Art und Weise, wie die Umweltbelange und die Ergebnisse der Öffentlichkeits- und Behördenbeteiligung in dem Bebauungsplan berücksichtigt wurden, und aus welchen Gründen der Plan nach Abwägung mit den geprüften, in Betracht kommenden anderweitigen Planungsmöglichkeiten gewählt wurde.
+(4) (weggefallen)
+
+### § 10a Zusammenfassende Erklärung zum Bebauungsplan; Einstellen in das Internet
+
+(1) Dem in Kraft getretenen Bebauungsplan ist eine zusammenfassende Erklärung beizufügen über die Art und Weise, wie die Umweltbelange und die Ergebnisse der Öffentlichkeits- und Behördenbeteiligung in dem Bebauungsplan berücksichtigt wurden, und über die Gründe, aus denen der Plan nach Abwägung mit den geprüften, in Betracht kommenden anderweitigen Planungsmöglichkeiten gewählt wurde.
+
+(2) Der in Kraft getretene Bebauungsplan mit der Begründung und der zusammenfassenden Erklärung soll ergänzend auch in das Internet eingestellt und über ein zentrales Internetportal des Landes zugänglich gemacht werden.
 
 Vierter Abschnitt Zusammenarbeit mit Privaten; vereinfachtes Verfahren
 ----------------------------------------------------------------------
@@ -1832,7 +2801,7 @@ Vierter Abschnitt Zusammenarbeit mit Privaten; vereinfachtes Verfahren
 die Vorbereitung oder Durchführung städtebaulicher Maßnahmen durch den Vertragspartner auf eigene Kosten; dazu gehören auch die Neuordnung der Grundstücksverhältnisse, die Bodensanierung und sonstige vorbereitende Maßnahmen, die Erschließung durch nach Bundes- oder nach Landesrecht beitragsfähige sowie nicht beitragsfähige Erschließungsanlagen sowie die Ausarbeitung der städtebaulichen Planungen sowie erforderlichenfalls des Umweltberichts; die Verantwortung der Gemeinde für das gesetzlich vorgesehene Planaufstellungsverfahren bleibt unberührt;
 
 2.  
-die Förderung und Sicherung der mit der Bauleitplanung verfolgten Ziele, insbesondere die Grundstücksnutzung, auch hinsichtlich einer Befristung oder einer Bedingung, die Durchführung des Ausgleichs im Sinne des § 1a Absatz 3, die Berücksichtigung baukultureller Belange, die Deckung des Wohnbedarfs von Bevölkerungsgruppen mit besonderen Wohnraumversorgungsproblemen sowie des Wohnbedarfs der ortsansässigen Bevölkerung;
+die Förderung und Sicherung der mit der Bauleitplanung verfolgten Ziele, insbesondere die Grundstücksnutzung, auch hinsichtlich einer Befristung oder einer Bedingung, die Durchführung des Ausgleichs im Sinne des § 1a Absatz 3, die Berücksichtigung baukultureller Belange, die Deckung des Wohnbedarfs von Bevölkerungsgruppen mit besonderen Wohnraumversorgungsproblemen sowie der Erwerb angemessenen Wohnraums durch einkommensschwächere und weniger begüterte Personen der örtlichen Bevölkerung;
 
 3.  
 die Übernahme von Kosten oder sonstigen Aufwendungen, die der Gemeinde für städtebauliche Maßnahmen entstehen oder entstanden sind und die Voraussetzung oder Folge des geplanten Vorhabens sind; dazu gehört auch die Bereitstellung von Grundstücken;
@@ -1867,15 +2836,20 @@ Die Gemeinde kann städtebauliche Verträge auch mit einer juristischen Person a
 
 (6) Wird der Vorhaben- und Erschließungsplan nicht innerhalb der Frist nach Absatz 1 durchgeführt, soll die Gemeinde den Bebauungsplan aufheben. Aus der Aufhebung können Ansprüche des Vorhabenträgers gegen die Gemeinde nicht geltend gemacht werden. Bei der Aufhebung kann das vereinfachte Verfahren nach § 13 angewendet werden.
 
+(7) Soll in bisherigen Erholungssondergebieten nach § 10 der Baunutzungsverordnung auch Wohnnutzung zugelassen werden, kann die Gemeinde nach Maßgabe der Absätze 1 bis 6 einen vorhabenbezogenen Bebauungsplan aufstellen, der insbesondere die Zulässigkeit von baulichen Anlagen zu Wohnzwecken in diesen Gebieten regelt.
+
 ### § 13 Vereinfachtes Verfahren
 
 (1) Werden durch die Änderung oder Ergänzung eines Bauleitplans die Grundzüge der Planung nicht berührt oder wird durch die Aufstellung eines Bebauungsplans in einem Gebiet nach § 34 der sich aus der vorhandenen Eigenart der näheren Umgebung ergebende Zulässigkeitsmaßstab nicht wesentlich verändert oder enthält er lediglich Festsetzungen nach § 9 Absatz 2a oder Absatz 2b, kann die Gemeinde das vereinfachte Verfahren anwenden, wenn
 
 1.  
-die Zulässigkeit von Vorhaben, die einer Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung nach Anlage 1 zum Gesetz über die Umweltverträglichkeitsprüfung oder nach Landesrecht unterliegen, nicht vorbereitet oder begründet wird und
+die Zulässigkeit von Vorhaben, die einer Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung nach Anlage 1 zum Gesetz über die Umweltverträglichkeitsprüfung oder nach Landesrecht unterliegen, nicht vorbereitet oder begründet wird,
 
 2.  
-keine Anhaltspunkte für eine Beeinträchtigung der in § 1 Abs. 6 Nr. 7 Buchstabe b genannten Schutzgüter bestehen.
+keine Anhaltspunkte für eine Beeinträchtigung der in § 1 Abs. 6 Nr. 7 Buchstabe b genannten Schutzgüter bestehen und
+
+3.  
+keine Anhaltspunkte dafür bestehen, dass bei der Planung Pflichten zur Vermeidung oder Begrenzung der Auswirkungen von schweren Unfällen nach § 50 Satz 1 des Bundes-Immissionsschutzgesetzes zu beachten sind.
 
 (2) Im vereinfachten Verfahren kann
 
@@ -1890,7 +2864,7 @@ den berührten Behörden und sonstigen Trägern öffentlicher Belange Gelegenhei
 
 Wird nach Satz 1 Nr. 2 die betroffene Öffentlichkeit beteiligt, gilt die Hinweispflicht des § 3 Abs. 2 Satz 2 Halbsatz 2 entsprechend.
 
-(3) Im vereinfachten Verfahren wird von der Umweltprüfung nach § 2 Abs. 4, von dem Umweltbericht nach § 2a, von der Angabe nach § 3 Abs. 2 Satz 2, welche Arten umweltbezogener Informationen verfügbar sind, sowie von der zusammenfassenden Erklärung nach § 6 Abs. 5 Satz 3 und § 10 Abs. 4 abgesehen; § 4c ist nicht anzuwenden. Bei der Beteiligung nach Absatz 2 Nr. 2 ist darauf hinzuweisen, dass von einer Umweltprüfung abgesehen wird.
+(3) Im vereinfachten Verfahren wird von der Umweltprüfung nach § 2 Abs. 4, von dem Umweltbericht nach § 2a, von der Angabe nach § 3 Abs. 2 Satz 2, welche Arten umweltbezogener Informationen verfügbar sind, sowie von der zusammenfassenden Erklärung nach § 6a Absatz 1 und § 10a Absatz 1 abgesehen; § 4c ist nicht anzuwenden. Bei der Beteiligung nach Absatz 2 Nr. 2 ist darauf hinzuweisen, dass von einer Umweltprüfung abgesehen wird.
 
 ### § 13a Bebauungspläne der Innenentwicklung
 
@@ -1902,7 +2876,7 @@ weniger als 20 000 Quadratmetern, wobei die Grundflächen mehrerer Bebauungspl�
 2.  
 20 000 Quadratmetern bis weniger als 70 000 Quadratmetern, wenn auf Grund einer überschlägigen Prüfung unter Berücksichtigung der in Anlage 2 dieses Gesetzes genannten Kriterien die Einschätzung erlangt wird, dass der Bebauungsplan voraussichtlich keine erheblichen Umweltauswirkungen hat, die nach § 2 Abs. 4 Satz 4 in der Abwägung zu berücksichtigen wären (Vorprüfung des Einzelfalls); die Behörden und sonstigen Träger öffentlicher Belange, deren Aufgabenbereiche durch die Planung berührt werden können, sind an der Vorprüfung des Einzelfalls zu beteiligen.
 
-Wird in einem Bebauungsplan weder eine zulässige Grundfläche noch eine Größe der Grundfläche festgesetzt, ist bei Anwendung des Satzes 2 die Fläche maßgeblich, die bei Durchführung des Bebauungsplans voraussichtlich versiegelt wird. Das beschleunigte Verfahren ist ausgeschlossen, wenn durch den Bebauungsplan die Zulässigkeit von Vorhaben begründet wird, die einer Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung nach dem Gesetz über die Umweltverträglichkeitsprüfung oder nach Landesrecht unterliegen. Das beschleunigte Verfahren ist auch ausgeschlossen, wenn Anhaltspunkte für eine Beeinträchtigung der in § 1 Abs. 6 Nr. 7 Buchstabe b genannten Schutzgüter bestehen.
+Wird in einem Bebauungsplan weder eine zulässige Grundfläche noch eine Größe der Grundfläche festgesetzt, ist bei Anwendung des Satzes 2 die Fläche maßgeblich, die bei Durchführung des Bebauungsplans voraussichtlich versiegelt wird. Das beschleunigte Verfahren ist ausgeschlossen, wenn durch den Bebauungsplan die Zulässigkeit von Vorhaben begründet wird, die einer Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung nach dem Gesetz über die Umweltverträglichkeitsprüfung oder nach Landesrecht unterliegen. Das beschleunigte Verfahren ist auch ausgeschlossen, wenn Anhaltspunkte für eine Beeinträchtigung der in § 1 Absatz 6 Nummer 7 Buchstabe b genannten Schutzgüter oder dafür bestehen, dass bei der Planung Pflichten zur Vermeidung oder Begrenzung der Auswirkungen von schweren Unfällen nach § 50 Satz 1 des Bundes-Immissionsschutzgesetzes zu beachten sind.
 
 (2) Im beschleunigten Verfahren
 
@@ -1929,6 +2903,10 @@ wo sich die Öffentlichkeit über die allgemeinen Ziele und Zwecke sowie die wes
 Die Bekanntmachung nach Satz 1 kann mit der ortsüblichen Bekanntmachung nach § 2 Abs. 1 Satz 2 verbunden werden. In den Fällen des Absatzes 1 Satz 2 Nr. 2 erfolgt die Bekanntmachung nach Satz 1 nach Abschluss der Vorprüfung des Einzelfalls.
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für die Änderung und Ergänzung eines Bebauungsplans.
+
+### § 13b Einbeziehung von Außenbereichsflächen in das beschleunigte Verfahren
+
+Bis zum 31. Dezember 2019 gilt § 13a entsprechend für Bebauungspläne mit einer Grundfläche im Sinne des § 13a Absatz 1 Satz 2 von weniger als 10 000 Quadratmetern, durch die die Zulässigkeit von Wohnnutzungen auf Flächen begründet wird, die sich an im Zusammenhang bebaute Ortsteile anschließen. Das Verfahren zur Aufstellung eines Bebauungsplans nach Satz 1 kann nur bis zum 31. Dezember 2019 förmlich eingeleitet werden; der Satzungsbeschluss nach § 10 Absatz 1 ist bis zum 31. Dezember 2021 zu fassen.
 
 Zweiter Teil Sicherung der Bauleitplanung
 -----------------------------------------
@@ -2013,17 +2991,34 @@ Zweiter Abschnitt Teilung von Grundstücken; Gebiete mit Fremdenverkehrsfunktion
 
 ### § 22 Sicherung von Gebieten mit Fremdenverkehrsfunktionen
 
-(1) Die Gemeinden, die oder deren Teile überwiegend durch den Fremdenverkehr geprägt sind, können in einem Bebauungsplan oder durch eine sonstige Satzung bestimmen, dass zur Sicherung der Zweckbestimmung von Gebieten mit Fremdenverkehrsfunktionen die Begründung oder Teilung von Wohnungseigentum oder Teileigentum (§ 1 des Wohnungseigentumsgesetzes) der Genehmigung unterliegt. Dies gilt entsprechend für die in den §§ 30 und 31 des Wohnungseigentumsgesetzes bezeichneten Rechte. Voraussetzung für die Bestimmung ist, dass durch die Begründung oder Teilung der Rechte die vorhandene oder vorgesehene Zweckbestimmung des Gebiets für den Fremdenverkehr und dadurch die geordnete städtebauliche Entwicklung beeinträchtigt werden kann. Die Zweckbestimmung eines Gebiets für den Fremdenverkehr ist insbesondere anzunehmen bei Kurgebieten, Gebieten für die Fremdenbeherbergung, Wochenend- und Ferienhausgebieten, die im Bebauungsplan festgesetzt sind, und bei im Zusammenhang bebauten Ortsteilen, deren Eigenart solchen Gebieten entspricht, sowie bei sonstigen Gebieten mit Fremdenverkehrsfunktionen, die durch Beherbergungsbetriebe und Wohngebäude mit Fremdenbeherbergung geprägt sind.
+(1) Die Gemeinden, die oder deren Teile überwiegend durch den Fremdenverkehr geprägt sind, können in einem Bebauungsplan oder durch eine sonstige Satzung bestimmen, dass zur Sicherung der Zweckbestimmung von Gebieten mit Fremdenverkehrsfunktionen Folgendes der Genehmigung unterliegt:
 
-(2) Die Gemeinde hat die Satzung ortsüblich bekannt zu machen. Sie kann die Bekanntmachung auch in entsprechender Anwendung des § 10 Abs. 3 Satz 2 bis 5 vornehmen. Die Gemeinde teilt dem Grundbuchamt den Beschluss über die Satzung, das Datum ihres Inkrafttretens sowie die genaue Bezeichnung der betroffenen Grundstücke vor ihrer Bekanntmachung rechtzeitig mit. Von der genauen Bezeichnung der betroffenen Grundstücke kann abgesehen werden, wenn die gesamte Gemarkung betroffen ist und die Gemeinde dies dem Grundbuchamt mitteilt.
+1.  
+die Begründung oder Teilung von Wohnungseigentum oder Teileigentum nach § 1 des Wohnungseigentumsgesetzes,
+
+2.  
+die Begründung der in den §§ 30 und 31 des Wohnungseigentumsgesetzes bezeichneten Rechte,
+
+3.  
+die Begründung von Bruchteilseigentum nach § 1008 des Bürgerlichen Gesetzbuchs an Grundstücken mit Wohngebäuden oder Beherbergungsbetrieben, wenn zugleich nach § 1010 Absatz 1 des Bürgerlichen Gesetzbuchs im Grundbuch als Belastung eingetragen werden soll, dass Räume einem oder mehreren Miteigentümern zur ausschließlichen Benutzung zugewiesen sind und die Aufhebung der Gemeinschaft ausgeschlossen ist,
+
+4.  
+bei bestehendem Bruchteilseigentum nach § 1008 des Bürgerlichen Gesetzbuchs an Grundstücken mit Wohngebäuden oder Beherbergungsbetrieben eine im Grundbuch als Belastung einzutragende Regelung nach § 1010 Absatz 1 des Bürgerlichen Gesetzbuchs, wonach Räume einem oder mehreren Miteigentümern zur ausschließlichen Benutzung zugewiesen sind und die Aufhebung der Gemeinschaft ausgeschlossen ist,
+
+5.  
+die Nutzung von Räumen in Wohngebäuden oder Beherbergungsbetrieben als Nebenwohnung, wenn die Räume insgesamt an mehr als der Hälfte der Tage eines Jahres unbewohnt sind.
+
+Voraussetzung für die Bestimmung ist, dass durch die Begründung oder Teilung der Rechte, durch die Regelung nach § 1010 des Bürgerlichen Gesetzbuchs oder durch die Nutzung als Nebenwohnung die vorhandene oder vorgesehene Zweckbestimmung des Gebiets für den Fremdenverkehr und dadurch die geordnete städtebauliche Entwicklung beeinträchtigt werden kann. Die Zweckbestimmung eines Gebiets für den Fremdenverkehr ist insbesondere anzunehmen bei Kurgebieten, Gebieten für die Fremdenbeherbergung, Wochenend- und Ferienhausgebieten, die im Bebauungsplan festgesetzt sind, und bei im Zusammenhang bebauten Ortsteilen, deren Eigenart solchen Gebieten entspricht, sowie bei sonstigen Gebieten mit Fremdenverkehrsfunktionen, die durch Beherbergungsbetriebe und Wohngebäude mit Fremdenbeherbergung geprägt sind.
+
+(2) Die Gemeinde hat die Satzung ortsüblich bekannt zu machen. Sie kann die Bekanntmachung auch in entsprechender Anwendung des § 10 Abs. 3 Satz 2 bis 5 vornehmen. Für Bestimmungen nach Absatz 1 Satz 1 Nummer 1 bis 4 teilt die Gemeinde dem Grundbuchamt den Beschluss über die Satzung, das Datum ihres Inkrafttretens sowie die genaue Bezeichnung der betroffenen Grundstücke vor ihrer Bekanntmachung rechtzeitig mit. Von der genauen Bezeichnung der betroffenen Grundstücke kann in den Fällen des Absatzes 1 Satz 1 Nummer 1 und 2 abgesehen werden, wenn die gesamte Gemarkung betroffen ist und die Gemeinde dies dem Grundbuchamt mitteilt.
 
 (3) (weggefallen)
 
-(4) Die Genehmigung darf nur versagt werden, wenn durch die Begründung oder Teilung der Rechte die Zweckbestimmung des Gebiets für den Fremdenverkehr und dadurch die städtebauliche Entwicklung und Ordnung beeinträchtigt wird. Die Genehmigung ist zu erteilen, wenn sie erforderlich ist, damit Ansprüche Dritter erfüllt werden können, zu deren Sicherung vor dem Wirksamwerden des Genehmigungsvorbehalts eine Vormerkung im Grundbuch eingetragen oder der Antrag auf Eintragung einer Vormerkung beim Grundbuchamt eingegangen ist; die Genehmigung kann auch von dem Dritten beantragt werden. Die Genehmigung kann erteilt werden, um wirtschaftliche Nachteile zu vermeiden, die für den Eigentümer eine besondere Härte bedeuten.
+(4) Die Genehmigung darf nur versagt werden, wenn durch die Begründung oder Teilung der Rechte, durch die Regelung nach § 1010 des Bürgerlichen Gesetzbuchs oder durch die Nutzung als Nebenwohnung die Zweckbestimmung des Gebiets für den Fremdenverkehr und dadurch die städtebauliche Entwicklung und Ordnung beeinträchtigt wird. Die Genehmigung nach Absatz 1 Satz 1 Nummer 1 bis 4 ist zu erteilen, wenn sie erforderlich ist, damit Ansprüche Dritter erfüllt werden können, zu deren Sicherung vor dem Wirksamwerden des Genehmigungsvorbehalts eine Vormerkung im Grundbuch eingetragen oder der Antrag auf Eintragung einer Vormerkung beim Grundbuchamt eingegangen ist; die Genehmigung kann auch von dem Dritten beantragt werden. Die Genehmigung kann erteilt werden, um wirtschaftliche Nachteile zu vermeiden, die für den Eigentümer eine besondere Härte bedeuten.
 
 (5) Über die Genehmigung entscheidet die Baugenehmigungsbehörde im Einvernehmen mit der Gemeinde. Über die Genehmigung ist innerhalb eines Monats nach Eingang des Antrags bei der Baugenehmigungsbehörde zu entscheiden. Kann die Prüfung des Antrags in dieser Zeit nicht abgeschlossen werden, ist die Frist vor ihrem Ablauf in einem dem Antragsteller mitzuteilenden Zwischenbescheid um den Zeitraum zu verlängern, der notwendig ist, um die Prüfung abschließen zu können; höchstens jedoch um drei Monate. Die Genehmigung gilt als erteilt, wenn sie nicht innerhalb der Frist versagt wird. Darüber hat die Baugenehmigungsbehörde auf Antrag eines Beteiligten ein Zeugnis auszustellen. Das Einvernehmen gilt als erteilt, wenn es nicht binnen zwei Monaten nach Eingang des Ersuchens der Genehmigungsbehörde verweigert wird; dem Ersuchen gegenüber der Gemeinde steht die Einreichung des Antrags bei der Gemeinde gleich, wenn sie nach Landesrecht vorgeschrieben ist.
 
-(6) Bei einem Grundstück, das im Geltungsbereich einer Satzung nach Absatz 1 liegt, darf das Grundbuchamt die von Absatz 1 erfassten Eintragungen in das Grundbuch nur vornehmen, wenn der Genehmigungsbescheid oder ein Zeugnis gemäß Absatz 5 Satz 5 vorgelegt wird oder wenn die Freistellungserklärung der Gemeinde gemäß Absatz 8 beim Grundbuchamt eingegangen ist. Ist dennoch eine Eintragung in das Grundbuch vorgenommen worden, kann die Baugenehmigungsbehörde, falls die Genehmigung erforderlich war, das Grundbuchamt um die Eintragung eines Widerspruchs ersuchen; § 53 Abs. 1 der Grundbuchordnung bleibt unberührt. Der Widerspruch ist zu löschen, wenn die Baugenehmigungsbehörde darum ersucht oder die Genehmigung erteilt ist.
+(6) Bei einem Grundstück, das im Geltungsbereich einer Satzung nach Absatz 1 liegt, darf das Grundbuchamt die von Absatz 1 Satz 1 Nummer 1 bis 4 erfassten Eintragungen in das Grundbuch nur vornehmen, wenn der Genehmigungsbescheid oder ein Zeugnis gemäß Absatz 5 Satz 5 vorgelegt wird oder wenn die Freistellungserklärung der Gemeinde gemäß Absatz 8 beim Grundbuchamt eingegangen ist. Ist dennoch eine Eintragung in das Grundbuch vorgenommen worden, kann die Baugenehmigungsbehörde, falls die Genehmigung erforderlich war, das Grundbuchamt um die Eintragung eines Widerspruchs ersuchen; § 53 Abs. 1 der Grundbuchordnung bleibt unberührt. Der Widerspruch ist zu löschen, wenn die Baugenehmigungsbehörde darum ersucht oder die Genehmigung erteilt ist.
 
 (7) Wird die Genehmigung versagt, kann der Eigentümer von der Gemeinde unter den Voraussetzungen des § 40 Abs. 2 die Übernahme des Grundstücks verlangen. § 43 Abs. 1, 4 und 5 sowie § 44 Abs. 3 und 4 sind entsprechend anzuwenden.
 
@@ -2229,7 +3224,16 @@ die Erschließung gesichert ist.
 (3a) Vom Erfordernis des Einfügens in die Eigenart der näheren Umgebung nach Absatz 1 Satz 1 kann im Einzelfall abgewichen werden, wenn die Abweichung
 
 1.  
-der Erweiterung, Änderung, Nutzungsänderung oder Erneuerung eines zulässigerweise errichteten Gewerbe- oder Handwerksbetriebs, einschließlich der Nutzungsänderung zu Wohnzwecken, oder der Erweiterung, Änderung oder Erneuerung einer zulässigerweise errichteten, Wohnzwecken dienenden baulichen Anlage dient,
+einem der nachfolgend genannten Vorhaben dient:
+
+a)  
+der Erweiterung, Änderung, Nutzungsänderung oder Erneuerung eines zulässigerweise errichteten Gewerbe- oder Handwerksbetriebs,
+
+b)  
+der Erweiterung, Änderung oder Erneuerung eines zulässigerweise errichteten, Wohnzwecken dienenden Gebäudes oder
+
+c)  
+der Nutzungsänderung einer zulässigerweise errichteten baulichen Anlage zu Wohnzwecken, einschließlich einer erforderlichen Änderung oder Erneuerung,
 
 2.  
 städtebaulich vertretbar ist und
@@ -2261,7 +3265,7 @@ sie mit einer geordneten städtebaulichen Entwicklung vereinbar sind,
 die Zulässigkeit von Vorhaben, die einer Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung nach Anlage 1 zum Gesetz über die Umweltverträglichkeitsprüfung oder nach Landesrecht unterliegen, nicht begründet wird und
 
 3.  
-keine Anhaltspunkte für eine Beeinträchtigung der in § 1 Abs. 6 Nr. 7 Buchstabe b genannten Schutzgüter bestehen.
+keine Anhaltspunkte für eine Beeinträchtigung der in § 1 Absatz 6 Nummer 7 Buchstabe b genannten Schutzgüter oder dafür bestehen, dass bei der Planung Pflichten zur Vermeidung oder Begrenzung der Auswirkungen von schweren Unfällen nach § 50 Satz 1 des Bundes-Immissionsschutzgesetzes zu beachten sind.
 
 In den Satzungen nach Absatz 4 Satz 1 Nr. 2 und 3 können einzelne Festsetzungen nach § 9 Abs. 1 und 3 Satz 1 sowie Abs. 4 getroffen werden. § 9 Absatz 6 und § 31 sind entsprechend anzuwenden. Auf die Satzung nach Absatz 4 Satz 1 Nr. 3 sind ergänzend § 1a Abs. 2 und 3 und § 9 Abs. 1a entsprechend anzuwenden; ihr ist eine Begründung mit den Angaben entsprechend § 2a Satz 2 Nr. 1 beizufügen.
 
@@ -2412,7 +3416,7 @@ sie mit einer geordneten städtebaulichen Entwicklung vereinbar ist,
 die Zulässigkeit von Vorhaben, die einer Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung nach Anlage 1 zum Gesetz über die Umweltverträglichkeitsprüfung oder nach Landesrecht unterliegen, nicht begründet wird und
 
 3.  
-keine Anhaltspunkte für eine Beeinträchtigung der in § 1 Abs. 6 Nr. 7 Buchstabe b genannten Schutzgüter bestehen.
+keine Anhaltspunkte für eine Beeinträchtigung der in § 1 Absatz 6 Nummer 7 Buchstabe b genannten Schutzgüter oder dafür bestehen, dass bei der Planung Pflichten zur Vermeidung oder Begrenzung der Auswirkungen von schweren Unfällen nach § 50 Satz 1 des Bundes-Immissionsschutzgesetzes zu beachten sind.
 
 Bei Aufstellung der Satzung sind die Vorschriften über die Öffentlichkeits- und Behördenbeteiligung nach § 13 Abs. 2 Satz 1 Nr. 2 und 3 sowie Satz 2 entsprechend anzuwenden. § 10 Abs. 3 ist entsprechend anzuwenden. Von der Satzung bleibt die Anwendung des Absatzes 4 unberührt.
 
@@ -4796,7 +5800,7 @@ ohne die Genehmigung Ansprüche Dritter auf Übertragung von Wohnungseigentum od
 das Gebäude im Zeitpunkt der Antragstellung zur Begründung von Wohnungseigentum oder Teileigentum nicht zu Wohnzwecken genutzt wird oder
 
 6.  
-sich der Eigentümer verpflichtet, innerhalb von sieben Jahren ab der Begründung von Wohnungseigentum Wohnungen nur an die Mieter zu veräußern; eine Frist nach § 577a Abs. 2 Satz 1 des Bürgerlichen Gesetzbuchs verkürzt sich um sieben Jahre. Die Frist nach § 577a Abs. 1 des Bürgerlichen Gesetzbuchs entfällt.
+sich der Eigentümer verpflichtet, innerhalb von sieben Jahren ab der Begründung von Wohnungseigentum Wohnungen nur an die Mieter zu veräußern; eine Frist nach § 577a Abs. 2 Satz 1 des Bürgerlichen Gesetzbuchs verkürzt sich um fünf Jahre; die Frist nach § 577a Abs. 1 des Bürgerlichen Gesetzbuchs entfällt.
 
 In den Fällen des Satzes 3 Nr. 6 kann in der Genehmigung bestimmt werden, dass auch die Veräußerung von Wohnungseigentum an dem Gebäude während der Dauer der Verpflichtung der Genehmigung der Gemeinde bedarf. Diese Genehmigungspflicht kann auf Ersuchen der Gemeinde in das Wohnungsgrundbuch eingetragen werden; sie erlischt nach Ablauf der Verpflichtung.
 
@@ -4808,7 +5812,7 @@ In den Fällen des Satzes 3 Nr. 6 kann in der Genehmigung bestimmt werden, dass 
 
 (2) Wird in den Fällen des § 172 Abs. 3 die Genehmigung versagt, kann der Eigentümer von der Gemeinde unter den Voraussetzungen des § 40 Abs. 2 die Übernahme des Grundstücks verlangen. § 43 Abs. 1, 4 und 5 sowie § 44 Abs. 3 und 4 sind entsprechend anzuwenden.
 
-(3) Vor der Entscheidung über den Genehmigungsantrag hat die Gemeinde mit dem Eigentümer oder sonstigen zur Unterhaltung Verpflichteten die für die Entscheidung erheblichen Tatsachen zu erörtern. In den Fällen des § 172 Abs. 4 und 5 hat sie auch Mieter, Pächter und sonstige Nutzungsberechtigte zu hören.
+(3) Vor der Entscheidung über den Genehmigungsantrag hat die Gemeinde mit dem Eigentümer oder sonstigen zur Unterhaltung Verpflichteten die für die Entscheidung erheblichen Tatsachen zu erörtern. In den Fällen des § 172 Abs. 4 und 5 hat sie auch Mieter, Pächter und sonstige Nutzungsberechtigte zu hören. In den Fällen des § 172 Absatz 4 Satz 3 Nummer 6 hat sie die nach Satz 2 anzuhörenden Personen über die Erteilung einer Genehmigung zu informieren.
 
 (4) Die landesrechtlichen Vorschriften, insbesondere über den Schutz und die Erhaltung von Denkmälern, bleiben unberührt.
 
@@ -5307,7 +6311,9 @@ einer in einem Bebauungsplan nach § 9 Abs. 1 Nr. 25 Buchstabe b festgesetzten B
 4.  
 eine bauliche Anlage im Geltungsbereich einer Erhaltungssatzung (§ 172 Abs. 1 Satz 1) oder einer Satzung über die Durchführung von Stadtumbaumaßnahmen (§ 171d Abs. 1) ohne Genehmigung rückbaut oder ändert.
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 und 2 mit einer Geldbuße bis zu fünfhundert Euro, im Falle des Absatzes 1 Nr. 3 mit einer Geldbuße bis zu zehntausend Euro und im Falle des Absatzes 1 Nr. 4 mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
+(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig ohne Genehmigung nach § 22 Absatz 1 Satz 1 Nummer 5 einen dort genannten Raum als Nebenwohnung nutzt.
+
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 mit einer Geldbuße bis zu fünfzigtausend Euro, in den Fällen des Absatzes 1 Nummer 4 mit einer Geldbuße bis zu dreißigtausend Euro, in den Fällen des Absatzes 1 Nummer 3 mit einer Geldbuße bis zu zehntausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu tausend Euro geahndet werden.
 
 Vierter Abschnitt Planerhaltung
 -------------------------------
@@ -5322,7 +6328,28 @@ Vierter Abschnitt Planerhaltung
 entgegen § 2 Abs. 3 die von der Planung berührten Belange, die der Gemeinde bekannt waren oder hätten bekannt sein müssen, in wesentlichen Punkten nicht zutreffend ermittelt oder bewertet worden sind und wenn der Mangel offensichtlich und auf das Ergebnis des Verfahrens von Einfluss gewesen ist;
 
 2.  
-die Vorschriften über die Öffentlichkeits- und Behördenbeteiligung nach § 3 Abs. 2, § 4 Abs. 2, § 4a Abs. 3 und 5 Satz 2, § 13 Abs. 2 Satz 1 Nr. 2 und 3 (auch in Verbindung mit § 13a Abs. 2 Nr. 1), § 22 Abs. 9 Satz 2, § 34 Abs. 6 Satz 1 sowie § 35 Abs. 6 Satz 5 verletzt worden sind; dabei ist unbeachtlich, wenn bei Anwendung der Vorschriften einzelne Personen, Behörden oder sonstige Träger öffentlicher Belange nicht beteiligt worden sind, die entsprechenden Belange jedoch unerheblich waren oder in der Entscheidung berücksichtigt worden sind, oder einzelne Angaben dazu, welche Arten umweltbezogener Informationen verfügbar sind, gefehlt haben, oder der Hinweis nach § 3 Abs. 2 Satz 2 Halbsatz 2 (auch in Verbindung mit § 13 Abs. 2 Satz 2 und § 13a Abs. 2 Nr. 1) gefehlt hat, oder bei Anwendung des § 13 Abs. 3 Satz 2 die Angabe darüber, dass von einer Umweltprüfung abgesehen wird, unterlassen wurde, oder bei Anwendung des § 4a Abs. 3 Satz 4 oder des § 13 (auch in Verbindung mit § 13a Abs. 2 Nr. 1) die Voraussetzungen für die Durchführung der Beteiligung nach diesen Vorschriften verkannt worden sind;
+die Vorschriften über die Öffentlichkeits- und Behördenbeteiligung nach § 3 Absatz 2, § 4 Absatz 2, § 4a Absatz 3, Absatz 4 Satz 1 und Absatz 5 Satz 2, nach § 13 Absatz 2 Satz 1 Nummer 2 und 3, auch in Verbindung mit § 13a Absatz 2 Nummer 1 und § 13b, nach § 22 Absatz 9 Satz 2, § 34 Absatz 6 Satz 1 sowie § 35 Absatz 6 Satz 5 verletzt worden sind; dabei ist unbeachtlich, wenn
+
+a)  
+bei Anwendung der Vorschriften einzelne Personen, Behörden oder sonstige Träger öffentlicher Belange nicht beteiligt worden sind, die entsprechenden Belange jedoch unerheblich waren oder in der Entscheidung berücksichtigt worden sind,
+
+b)  
+einzelne Angaben dazu, welche Arten umweltbezogener Informationen verfügbar sind, gefehlt haben,
+
+c)  
+(weggefallen)
+
+d)  
+bei Vorliegen eines wichtigen Grundes nach § 3 Absatz 2 Satz 1 nicht für die Dauer einer angemessenen längeren Frist ausgelegt worden ist und die Begründung für die Annahme des Nichtvorliegens eines wichtigen Grundes nachvollziehbar ist,
+
+e)  
+bei Anwendung des § 4a Absatz 4 Satz 1 der Inhalt der Bekanntmachung und die auszulegenden Unterlagen zwar in das Internet eingestellt, aber nicht über das zentrale Internetportal des Landes zugänglich sind,
+
+f)  
+bei Anwendung des § 13 Absatz 3 Satz 2 die Angabe darüber, dass von einer Umweltprüfung abgesehen wird, unterlassen wurde oder
+
+g)  
+bei Anwendung des § 4a Absatz 3 Satz 4 oder des § 13, auch in Verbindung mit § 13a Absatz 2 Nummer 1 und § 13b, die Voraussetzungen für die Durchführung der Beteiligung nach diesen Vorschriften verkannt worden sind;
 
 3.  
 die Vorschriften über die Begründung des Flächennutzungsplans und der Satzungen sowie ihrer Entwürfe nach §§ 2a, 3 Abs. 2, § 5 Abs. 1 Satz 2 Halbsatz 2 und Abs. 5, § 9 Abs. 8 und § 22 Abs. 10 verletzt worden sind; dabei ist unbeachtlich, wenn die Begründung des Flächennutzungsplans oder der Satzung oder ihr Entwurf unvollständig ist; abweichend von Halbsatz 2 ist eine Verletzung von Vorschriften in Bezug auf den Umweltbericht unbeachtlich, wenn die Begründung hierzu nur in unwesentlichen Punkten unvollständig ist;
@@ -5346,7 +6373,7 @@ der Bebauungsplan aus einem Flächennutzungsplan entwickelt worden ist, dessen U
 4.  
 im Parallelverfahren gegen § 8 Abs. 3 verstoßen worden ist, ohne dass die geordnete städtebauliche Entwicklung beeinträchtigt worden ist.
 
-(2a) Für Bebauungspläne, die im beschleunigten Verfahren nach § 13a aufgestellt worden sind, gilt ergänzend zu den Absätzen 1 und 2 Folgendes:
+(2a) Für Bebauungspläne, die im beschleunigten Verfahren nach § 13a, auch in Verbindung mit § 13b, aufgestellt worden sind, gilt ergänzend zu den Absätzen 1 und 2 Folgendes:
 
 1.  
 (weggefallen)
@@ -5636,9 +6663,13 @@ er entrichtet worden, aber der Beitragsbescheid noch nicht unanfechtbar geworden
 
 (2) Die Länder können bestimmen, dass die Frist nach § 35 Abs. 4 Satz 1 Nr. 1 Buchstabe c nicht anzuwenden ist.
 
-### § 245c
+### § 245c Überleitungsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinie 2014/52/EU im Städtebaurecht und zur Stärkung des neuen Zusammenlebens in der Stadt
 
-(weggefallen)
+(1) Abweichend von § 233 Absatz 1 Satz 1 können Verfahren nach diesem Gesetz, die förmlich vor dem 13. Mai 2017 eingeleitet worden sind, nur dann nach den vor dem 13. Mai 2017 geltenden Rechtsvorschriften abgeschlossen werden, wenn die Beteiligung der Behörden und der sonstigen Träger öffentlicher Belange nach § 4 Absatz 1 Satz 1 oder nach sonstigen Vorschriften dieses Gesetzes vor dem 16. Mai 2017 eingeleitet worden ist. § 233 Absatz 1 Satz 2 bleibt unberührt.
+
+(2) Bebauungspläne oder Satzungen mit Regelungen nach § 22 Absatz 1 Satz 1 Nummer 3 und 4 finden keine Anwendung, wenn die Regelung nach § 1010 Absatz 1 des Bürgerlichen Gesetzbuchs vor dem 13. Mai 2017 getroffen worden ist. Bebauungspläne oder Satzungen mit Regelungen nach § 22 Absatz 1 Satz 1 Nummer 5 finden keine Anwendung, wenn die Nutzung als Nebenwohnung vor dem 13. Mai 2017 aufgenommen worden ist.
+
+(3) § 34 Absatz 2 findet auf Baugebiete nach § 6a der Baunutzungsverordnung keine Anwendung.
 
 Zweiter Teil Schlussvorschriften
 --------------------------------
@@ -5733,45 +6764,79 @@ In Gebieten mit Bebauungsplänen oder Satzungen nach § 34 Absatz 4 Satz 1 Numme
 
 (3) Die Länder können durch bis zum 31. Dezember 2015 zu verkündende Landesgesetze bestimmen, dass § 35 Absatz 1 Nummer 5 auf Vorhaben, die der Erforschung, Entwicklung oder Nutzung der Windenergie dienen, nur Anwendung findet, wenn sie einen bestimmten Abstand zu den im Landesgesetz bezeichneten zulässigen baulichen Nutzungen einhalten. Die Einzelheiten, insbesondere zur Abstandsfestlegung und zu den Auswirkungen der festgelegten Abstände auf Ausweisungen in geltenden Flächennutzungsplänen und Raumordnungsplänen, sind in den Landesgesetzen nach Satz 1 zu regeln. Die Länder können in den Landesgesetzen nach Satz 1 auch Abweichungen von den festgelegten Abständen zulassen.
 
-### Anlage 1 (zu § 2 Abs. 4, §§ 2a und 4c)
+### Anlage 1 (zu § 2 Absatz 4 und den §§ 2a und 4c)
 
-Der Umweltbericht nach § 2 Abs. 4 und § 2a Satz 2 Nr. 2 besteht aus
+(Fundstelle: BGBl I 2017, 1061 - 1062)
+
+Der Umweltbericht nach § 2 Absatz 4 und § 2a Satz 2 Nummer 2 hat folgende Bestandteile:
 
 1.  
-einer Einleitung mit folgenden Angaben:
+Eine Einleitung mit folgenden Angaben:
 
 a)  
-Kurzdarstellung des Inhalts und der wichtigsten Ziele des Bauleitplans, einschließlich der Beschreibung der Festsetzungen des Plans mit Angaben über Standorte, Art und Umfang sowie Bedarf an Grund und Boden der geplanten Vorhaben, und
+Kurzdarstellung des Inhalts und der wichtigsten Ziele des Bauleitplans, einschließlich einer Beschreibung der Festsetzungen des Plans mit Angaben über Standorte, Art und Umfang sowie Bedarf an Grund und Boden der geplanten Vorhaben;
 
 b)  
-Darstellung der in einschlägigen Fachgesetzen und Fachplänen festgelegten Ziele des Umweltschutzes, die für den Bauleitplan von Bedeutung sind, und der Art, wie diese Ziele und die Umweltbelange bei der Aufstellung berücksichtigt wurden,
+Darstellung der in einschlägigen Fachgesetzen und Fachplänen festgelegten Ziele des Umweltschutzes, die für den Bauleitplan von Bedeutung sind, und der Art, wie diese Ziele und die Umweltbelange bei der Aufstellung des Bauleitplans berücksichtigt wurden;
 
 2.  
-einer Beschreibung und Bewertung der Umweltauswirkungen, die in der Umweltprüfung nach § 2 Abs. 4 Satz 1 ermittelt wurden, mit Angaben der
+eine Beschreibung und Bewertung der erheblichen Umweltauswirkungen, die in der Umweltprüfung nach § 2 Absatz 4 Satz 1 ermittelt wurden; hierzu gehören folgende Angaben:
 
 a)  
-Bestandsaufnahme der einschlägigen Aspekte des derzeitigen Umweltzustands, einschließlich der Umweltmerkmale der Gebiete, die voraussichtlich erheblich beeinflusst werden,
+eine Bestandsaufnahme der einschlägigen Aspekte des derzeitigen Umweltzustands (Basisszenario), einschließlich der Umweltmerkmale der Gebiete, die voraussichtlich erheblich beeinflusst werden, und eine Übersicht über die voraussichtliche Entwicklung des Umweltzustands bei Nichtdurchführung der Planung, soweit diese Entwicklung gegenüber dem Basisszenario mit zumutbarem Aufwand auf der Grundlage der verfügbaren Umweltinformationen und wissenschaftlichen Erkenntnisse abgeschätzt werden kann;
 
 b)  
-Prognose über die Entwicklung des Umweltzustands bei Durchführung der Planung und bei Nichtdurchführung der Planung,
+eine Prognose über die Entwicklung des Umweltzustands bei Durchführung der Planung; hierzu sind, soweit möglich, insbesondere die möglichen erheblichen Auswirkungen während der Bau- und Betriebsphase der geplanten Vorhaben auf die Belange nach § 1 Absatz 6 Nummer 7 Buchstabe a bis i zu beschreiben, unter anderem infolge
+
+aa)  
+des Baus und des Vorhandenseins der geplanten Vorhaben, soweit relevant einschließlich Abrissarbeiten,
+
+bb)  
+der Nutzung natürlicher Ressourcen, insbesondere Fläche, Boden, Wasser, Tiere, Pflanzen und biologische Vielfalt, wobei soweit möglich die nachhaltige Verfügbarkeit dieser Ressourcen zu berücksichtigen ist,
+
+cc)  
+der Art und Menge an Emissionen von Schadstoffen, Lärm, Erschütterungen, Licht, Wärme und Strahlung sowie der Verursachung von Belästigungen,
+
+dd)  
+der Art und Menge der erzeugten Abfälle und ihrer Beseitigung und Verwertung,
+
+ee)  
+der Risiken für die menschliche Gesundheit, das kulturelle Erbe oder die Umwelt (zum Beispiel durch Unfälle oder Katastrophen),
+
+ff)  
+der Kumulierung mit den Auswirkungen von Vorhaben benachbarter Plangebiete unter Berücksichtigung etwaiger bestehender Umweltprobleme in Bezug auf möglicherweise betroffene Gebiete mit spezieller Umweltrelevanz oder auf die Nutzung von natürlichen Ressourcen,
+
+gg)  
+der Auswirkungen der geplanten Vorhaben auf das Klima (zum Beispiel Art und Ausmaß der Treibhausgasemissionen) und der Anfälligkeit der geplanten Vorhaben gegenüber den Folgen des Klimawandels,
+
+hh)  
+der eingesetzten Techniken und Stoffe;
+
+die Beschreibung nach Halbsatz 2 soll sich auf die direkten und die etwaigen indirekten, sekundären, kumulativen, grenzüberschreitenden, kurzfristigen, mittelfristigen und langfristigen, ständigen und vorübergehenden sowie positiven und negativen Auswirkungen der geplanten Vorhaben erstrecken; die Beschreibung nach Halbsatz 2 soll zudem den auf Ebene der Europäischen Union oder auf Bundes-, Landes- oder kommunaler Ebene festgelegten Umweltschutzzielen Rechnung tragen;
 
 c)  
-geplanten Maßnahmen zur Vermeidung, Verringerung und zum Ausgleich der nachteiligen Auswirkungen und
+eine Beschreibung der geplanten Maßnahmen, mit denen festgestellte erhebliche nachteilige Umweltauswirkungen vermieden, verhindert, verringert oder soweit möglich ausgeglichen werden sollen, sowie gegebenenfalls geplante Überwachungsmaßnahmen. In dieser Beschreibung ist zu erläutern, inwieweit erhebliche nachteilige Auswirkungen auf die Umwelt vermieden, verhindert, verringert oder ausgeglichen werden, wobei sowohl die Bauphase als auch die Betriebsphase abzudecken ist;
 
 d)  
-in Betracht kommenden anderweitigen Planungsmöglichkeiten, wobei die Ziele und der räumliche Geltungsbereich des Bauleitplans zu berücksichtigen sind,
+in Betracht kommende anderweitige Planungsmöglichkeiten, wobei die Ziele und der räumliche Geltungsbereich des Bauleitplans zu berücksichtigen sind, und die Angabe der wesentlichen Gründe für die getroffene Wahl;
+
+e)  
+eine Beschreibung der erheblichen nachteiligen Auswirkungen nach § 1 Absatz 6 Nummer 7 Buchstabe j; zur Vermeidung von Mehrfachprüfungen können die vorhandenen Ergebnisse anderer rechtlich vorgeschriebener Prüfungen genutzt werden; soweit angemessen, sollte diese Beschreibung Maßnahmen zur Verhinderung oder Verminderung der erheblichen nachteiligen Auswirkungen solcher Ereignisse auf die Umwelt sowie Einzelheiten in Bezug auf die Bereitschafts- und vorgesehenen Bekämpfungsmaßnahmen für derartige Krisenfälle erfassen;
 
 3.  
-folgenden zusätzlichen Angaben:
+zusätzliche Angaben:
 
 a)  
-Beschreibung der wichtigsten Merkmale der verwendeten technischen Verfahren bei der Umweltprüfung sowie Hinweise auf Schwierigkeiten, die bei der Zusammenstellung der Angaben aufgetreten sind, zum Beispiel technische Lücken oder fehlende Kenntnisse,
+eine Beschreibung der wichtigsten Merkmale der verwendeten technischen Verfahren bei der Umweltprüfung sowie Hinweise auf Schwierigkeiten, die bei der Zusammenstellung der Angaben aufgetreten sind, zum Beispiel technische Lücken oder fehlende Kenntnisse,
 
 b)  
-Beschreibung der geplanten Maßnahmen zur Überwachung der erheblichen Auswirkungen der Durchführung des Bauleitplans auf die Umwelt und
+eine Beschreibung der geplanten Maßnahmen zur Überwachung der erheblichen Auswirkungen der Durchführung des Bauleitplans auf die Umwelt,
 
 c)  
-allgemein verständliche Zusammenfassung der erforderlichen Angaben nach dieser Anlage.
+eine allgemein verständliche Zusammenfassung der erforderlichen Angaben nach dieser Anlage,
+
+d)  
+eine Referenzliste der Quellen, die für die im Bericht enthaltenen Beschreibungen und Bewertungen herangezogen wurden.
 
 ### Anlage 2 (zu § 13a Abs. 1 Satz 2 Nr. 2)
 
@@ -5783,7 +6848,7 @@ Nachstehende Kriterien sind anzuwenden, soweit auf Anlage 2 Bezug genommen wird.
 Merkmale des Bebauungsplans, insbesondere in Bezug auf
 
 1.1  
-das Ausmaß, in dem der Bebauungsplan einen Rahmen im Sinne des § 14b Abs. 3 des Gesetzes über die Umweltverträglichkeitsprüfung setzt;
+das Ausmaß, in dem der Bebauungsplan einen Rahmen im Sinne des § 35 Absatz 3 des Gesetzes über die Umweltverträglichkeitsprüfung setzt;
 
 1.2  
 das Ausmaß, in dem der Bebauungsplan andere Pläne und Programme beeinflusst;
