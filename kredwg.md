@@ -5,13 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 9.9.1998 I 2776;
 
 Stand  
-Zuletzt geändert durch Art. 16 G v. 20.11.2015 I 2029
-
-Hinweis  
-Änderung durch Art. 2 G v. 3.3.2016 I 348 (Nr. 11) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 12 G v. 11.3.2016 I 396 (Nr. 12) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 14 Abs. 2 G v. 10.5.2016 I 1142
 
 ### 
 
@@ -21,6 +15,7 @@ Hinweis
 (+++ Zur Anwendung vgl. § 64h Abs. 6 u. 7 +++)
 (+++ Zur Anwendung vgl. § 64o Abs. 2 u. 3 +++)
 (+++ Zur Anwendung vgl. § 64r Abs. 1 bis 18 +++)
+(+++ Zur Anwendung vgl. § 71 Abs. 3 u. 4 +++)
 (+++ Zur Anwendung d. § 9 vgl. § 5 Abs. 5a u. § 8 KAGB u. 
      § 53 Abs. 3 EinSiG +++)
 (+++ Zur Anwendung d. § 23 vgl. § 33 KAGB +++)
@@ -3134,8 +3129,6 @@ Das Kreditinstitut ist verpflichtet, Bewertungen für Immobilien, die als Sicher
 (10) Die Absätze 1 bis 9 gelten auch für die jeweils entsprechenden entgeltlichen Finanzierungshilfen.
 
 (11) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über die nach Absatz 6 erforderlichen Kenntnisse und Fähigkeiten der mit der Darlehensvergabe befassten internen und externen Mitarbeiter zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die Bundesanstalt übertragen.
-
-### § 18b (weggefallen)
 
 ### § 19 Begriff des Kredits für § 14 und des Kreditnehmers für die §§ 14, 15 und 18
 
