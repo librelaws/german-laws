@@ -5,7 +5,13 @@ Neuf
 Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Stand  
-zuletzt geändert durch Art. 3 G v. 24.5.2016 I 1190
+zuletzt geändert durch Art. 2 G v. 21.2.2017 I 258
+
+Hinweis  
+Änderung durch Art. 1 G v. 28.4.2017 I 969 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 6 G v. 6.6.2017 I 1495 (Nr. 34) mWv 10.6.2017 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -56,7 +62,7 @@ Richtlinie 2000/35/EG des Europäischen Parlaments und des Rates vom 29. Juni 20
      nicht mehr anzuwenden +++)
 (+++ Zur Anwendung im Beitrittsgebiet vgl. BGBEG Sechster Teil
      (Art. 230 bis Art. 235) +++)
-(+++ Zur Anwendung d. § 1906 Abs. 3 vgl. BVerfG vom 26.7.2016
+(+++ Zur Anwendung d. § 1906 Abs. 3 vgl. BVerfGE vom 26.7.2016
      - 1 BvL 8/15 - +++)
 (+++ Zur Anwendung d. § 311b Abs. 2 vgl. § 184 Satz 2 KAGB +++)
 (+++ Zur Anwendung d. §§ 271, 286, 288, 308 u. 310 vgl. § 34 BGBEG +++)
@@ -5143,7 +5149,7 @@ die von Arbeitgebern mit ihren Arbeitnehmern als Nebenleistung zum Arbeitsvertra
 die nur mit einem begrenzten Personenkreis auf Grund von Rechtsvorschriften in öffentlichem Interesse abgeschlossen werden, wenn im Vertrag für den Darlehensnehmer günstigere als marktübliche Bedingungen und höchstens der marktübliche Sollzinssatz vereinbart sind,
 
 6.  
-bei denen es sich um Immobiliar-Verbraucherdarlehensverträge gemäß Absatz 3 handelt.
+bei denen es sich um Immobiliar-Verbraucherdarlehensverträge oder Immobilienverzehrkreditverträge gemäß Absatz 3 handelt.
 
 (3) Immobiliar-Verbraucherdarlehensverträge sind entgeltliche Darlehensverträge zwischen einem Unternehmer als Darlehensgeber und einem Verbraucher als Darlehensnehmer, die
 
@@ -5153,9 +5159,15 @@ durch ein Grundpfandrecht oder eine Reallast besichert sind oder
 2.  
 für den Erwerb oder die Erhaltung des Eigentumsrechts an Grundstücken, an bestehenden oder zu errichtenden Gebäuden oder für den Erwerb oder die Erhaltung von grundstücksgleichen Rechten bestimmt sind.
 
-Keine Immobiliar-Verbraucherdarlehensverträge sind Verträge gemäß Absatz 2 Satz 2 Nummer 4. Auf Immobiliar-Verbraucherdarlehensverträge gemäß Absatz 2 Satz 2 Nummer 5 ist nur § 491a Absatz 4 anwendbar.
+Keine Immobiliar-Verbraucherdarlehensverträge sind Verträge gemäß Absatz 2 Satz 2 Nummer 4. Auf Immobiliar-Verbraucherdarlehensverträge gemäß Absatz 2 Satz 2 Nummer 5 ist nur § 491a Absatz 4 anwendbar. Keine Immobiliar-Verbraucherdarlehensverträge sind Immobilienverzehrkreditverträge, bei denen der Kreditgeber
 
-(4) § 358 Abs. 2 und 4 sowie die §§ 491a bis 495 und 505a bis 505d sind nicht auf Darlehensverträge anzuwenden, die in ein nach den Vorschriften der Zivilprozessordnung errichtetes gerichtliches Protokoll aufgenommen oder durch einen gerichtlichen Beschluss über das Zustandekommen und den Inhalt eines zwischen den Parteien geschlossenen Vergleichs festgestellt sind, wenn in das Protokoll oder den Beschluss der Sollzinssatz, die bei Abschluss des Vertrags in Rechnung gestellten Kosten des Darlehens sowie die Voraussetzungen aufgenommen worden sind, unter denen der Sollzinssatz oder die Kosten angepasst werden können.
+1.  
+pauschale oder regelmäßige Zahlungen leistet oder andere Formen der Kreditauszahlung vornimmt und im Gegenzug nur einen Betrag aus dem künftigen Erlös des Verkaufs einer Wohnimmobilie erhält oder ein Recht an einer Wohnimmobilie erwirbt und
+
+2.  
+erst nach dem Tod des Verbrauchers eine Rückzahlung fordert, außer der Verbraucher verstößt gegen die Vertragsbestimmungen, was dem Kreditgeber erlaubt, den Vertrag zu kündigen.
+
+(4) § 358 Abs. 2 und 4 sowie die §§ 491a bis 495 und 505a bis 505e sind nicht auf Darlehensverträge anzuwenden, die in ein nach den Vorschriften der Zivilprozessordnung errichtetes gerichtliches Protokoll aufgenommen oder durch einen gerichtlichen Beschluss über das Zustandekommen und den Inhalt eines zwischen den Parteien geschlossenen Vergleichs festgestellt sind, wenn in das Protokoll oder den Beschluss der Sollzinssatz, die bei Abschluss des Vertrags in Rechnung gestellten Kosten des Darlehens sowie die Voraussetzungen aufgenommen worden sind, unter denen der Sollzinssatz oder die Kosten angepasst werden können.
 
 ### § 491a Vorvertragliche Informationspflichten bei Verbraucherdarlehensverträgen
 
@@ -5219,7 +5231,7 @@ einen weiteren Darlehensvertrag abschließen, bei dem das zurückzuzahlende Kapi
 
 (2) Ein Kopplungsgeschäft ist zulässig, wenn der Darlehensgeber den Abschluss eines Immobiliar-Verbraucherdarlehensvertrags davon abhängig macht, dass der Darlehensnehmer im Zusammenhang mit dem Immobiliar-Verbraucherdarlehensvertrag eine einschlägige Versicherung abschließt und dem Darlehensnehmer gestattet ist, diese Versicherung auch bei einem anderen als bei dem vom Darlehensgeber bevorzugten Anbieter abzuschließen.
 
-(3) Ein Kopplungsgeschäft ist zulässig, wenn die für den Darlehensgeber zuständige Aufsichtsbehörde die weiteren Finanzprodukte oder -dienstleistungen sowie deren Kopplung mit dem Immobiliar-Verbraucherdarlehensvertrag genehmigt hat.
+(3) Ein Kopplungsgeschäft ist zulässig, wenn die für den Darlehensgeber zuständige Aufsichtsbehörde die weiteren Finanzprodukte oder -dienstleistungen sowie deren Kopplung mit dem Immobiliar-Verbraucherdarlehensvertrag nach § 18a Absatz 8a des Kreditwesengesetzes genehmigt hat.
 
 ### § 493 Informationen während des Vertragsverhältnisses
 
@@ -5409,7 +5421,7 @@ den Betrag der Sollzinsen, den der Darlehensnehmer in dem Zeitraum zwischen der 
 
 (1) Bei Allgemein-Verbraucherdarlehensverträgen können Grundlage für die Kreditwürdigkeitsprüfung Auskünfte des Darlehensnehmers und erforderlichenfalls Auskünfte von Stellen sein, die geschäftsmäßig personenbezogene Daten, die zur Bewertung der Kreditwürdigkeit von Verbrauchern genutzt werden dürfen, zum Zweck der Übermittlung erheben, speichern, verändern oder nutzen.
 
-(2) Bei Immobiliar-Verbraucherdarlehensverträgen hat der Darlehensgeber die Kreditwürdigkeit des Darlehensnehmers auf der Grundlage notwendiger, ausreichender und angemessener Informationen zu Einkommen, Ausgaben sowie anderen finanziellen und wirtschaftlichen Umständen des Darlehensnehmers eingehend zu prüfen. Dabei hat der Darlehensgeber die Faktoren angemessen zu berücksichtigen, die für die Einschätzung relevant sind, ob der Darlehensnehmer seinen Verpflichtungen aus dem Darlehensvertrag voraussichtlich nachkommen kann. Die Kreditwürdigkeitsprüfung darf nicht hauptsächlich darauf gestützt werden, dass in den Fällen des § 491 Absatz 3 Satz 1 Nummer 1 der Wert des Grundstücks oder in den Fällen des § 491 Absatz 3 Satz 1 Nummer 2 der Wert des Grundstücks, Gebäudes oder grundstücksgleichen Rechts voraussichtlich zunimmt oder den Darlehensbetrag übersteigt.
+(2) Bei Immobiliar-Verbraucherdarlehensverträgen hat der Darlehensgeber die Kreditwürdigkeit des Darlehensnehmers auf der Grundlage notwendiger, ausreichender und angemessener Informationen zu Einkommen, Ausgaben sowie anderen finanziellen und wirtschaftlichen Umständen des Darlehensnehmers eingehend zu prüfen. Dabei hat der Darlehensgeber die Faktoren angemessen zu berücksichtigen, die für die Einschätzung relevant sind, ob der Darlehensnehmer seinen Verpflichtungen aus dem Darlehensvertrag voraussichtlich nachkommen kann. Die Kreditwürdigkeitsprüfung darf sich nicht hauptsächlich darauf stützen, dass der Wert der Wohnimmobilie den Darlehensbetrag übersteigt, oder auf die Annahme, dass der Wert der Wohnimmobilie zunimmt, es sei denn, der Darlehensvertrag dient zum Bau oder zur Renovierung der Wohnimmobilie.
 
 (3) Der Darlehensgeber ermittelt die gemäß Absatz 2 erforderlichen Informationen aus einschlägigen internen oder externen Quellen, wozu auch Auskünfte des Darlehensnehmers gehören. Der Darlehensgeber berücksichtigt auch die Auskünfte, die einem Darlehensvermittler erteilt wurden. Der Darlehensgeber ist verpflichtet, die Informationen in angemessener Weise zu überprüfen, soweit erforderlich auch durch Einsichtnahme in unabhängig nachprüfbare Unterlagen.
 
@@ -5446,6 +5458,16 @@ Maßgeblicher Zeitpunkt für die Bestimmung des marktüblichen Zinssatzes gemä�
 
 (3) Die Absätze 1 und 2 finden keine Anwendung, soweit der Mangel der Kreditwürdigkeitsprüfung darauf beruht, dass der Darlehensnehmer dem Darlehensgeber vorsätzlich oder grob fahrlässig Informationen im Sinne des § 505b Absatz 1 bis 3 unrichtig erteilt oder vorenthalten hat.
 
+### § 505e Verordnungsermächtigung
+
+Das Bundesministerium der Finanzen und das Bundesministerium der Justiz und für Verbraucherschutz werden ermächtigt, durch gemeinsame Rechtsverordnung ohne Zustimmung des Bundesrates Leitlinien zu den Kriterien und Methoden der Kreditwürdigkeitsprüfung bei Immobiliar-Verbraucherdarlehensverträgen nach den §§ 505a und 505b Absatz 2 bis 4 festzulegen. Durch die Rechtsverordnung können insbesondere Leitlinien festgelegt werden
+
+1.  
+zu den Faktoren, die für die Einschätzung relevant sind, ob der Darlehensnehmer seinen Verpflichtungen aus dem Darlehensvertrag voraussichtlich nachkommen kann,
+
+2.  
+zu den anzuwendenden Verfahren und der Erhebung und Prüfung von Informationen.
+
 Untertitel 2 Finanzierungshilfen zwischen einem Unternehmer und einem Verbraucher
 ---------------------------------------------------------------------------------
 
@@ -5453,7 +5475,7 @@ Untertitel 2 Finanzierungshilfen zwischen einem Unternehmer und einem Verbrauche
 
 ### § 506 Zahlungsaufschub, sonstige Finanzierungshilfe
 
-(1) Die für Allgemein-Verbraucherdarlehensverträge geltenden Vorschriften der §§ 358 bis 360 und 491a bis 502 sowie 505a bis 505d sind mit Ausnahme des § 492 Abs. 4 und vorbehaltlich der Absätze 3 und 4 auf Verträge entsprechend anzuwenden, durch die ein Unternehmer einem Verbraucher einen entgeltlichen Zahlungsaufschub oder eine sonstige entgeltliche Finanzierungshilfe gewährt. Bezieht sich der entgeltliche Zahlungsaufschub oder die sonstige entgeltliche Finanzierungshilfe auf den Erwerb oder die Erhaltung des Eigentumsrechts an Grundstücken, an bestehenden oder zu errichtenden Gebäuden oder auf den Erwerb oder die Erhaltung von grundstücksgleichen Rechten oder ist der Anspruch des Unternehmers durch ein Grundpfandrecht oder eine Reallast besichert, so sind die für Immobiliar-Verbraucherdarlehensverträge geltenden, in Satz 1 genannten Vorschriften sowie § 503 entsprechend anwendbar. Ein unentgeltlicher Zahlungsaufschub gilt als entgeltlicher Zahlungsaufschub gemäß Satz 2, wenn er davon abhängig gemacht wird, dass die Forderung durch ein Grundpfandrecht oder eine Reallast besichert wird.
+(1) Die für Allgemein-Verbraucherdarlehensverträge geltenden Vorschriften der §§ 358 bis 360 und 491a bis 502 sowie 505a bis 505e sind mit Ausnahme des § 492 Abs. 4 und vorbehaltlich der Absätze 3 und 4 auf Verträge entsprechend anzuwenden, durch die ein Unternehmer einem Verbraucher einen entgeltlichen Zahlungsaufschub oder eine sonstige entgeltliche Finanzierungshilfe gewährt. Bezieht sich der entgeltliche Zahlungsaufschub oder die sonstige entgeltliche Finanzierungshilfe auf den Erwerb oder die Erhaltung des Eigentumsrechts an Grundstücken, an bestehenden oder zu errichtenden Gebäuden oder auf den Erwerb oder die Erhaltung von grundstücksgleichen Rechten oder ist der Anspruch des Unternehmers durch ein Grundpfandrecht oder eine Reallast besichert, so sind die für Immobiliar-Verbraucherdarlehensverträge geltenden, in Satz 1 genannten Vorschriften sowie § 503 entsprechend anwendbar. Ein unentgeltlicher Zahlungsaufschub gilt als entgeltlicher Zahlungsaufschub gemäß Satz 2, wenn er davon abhängig gemacht wird, dass die Forderung durch ein Grundpfandrecht oder eine Reallast besichert wird.
 
 (2) Verträge zwischen einem Unternehmer und einem Verbraucher über die entgeltliche Nutzung eines Gegenstandes gelten als entgeltliche Finanzierungshilfe, wenn vereinbart ist, dass
 
@@ -5530,7 +5552,7 @@ Untertitel 5 Unabdingbarkeit, Anwendung auf Existenzgründer
 
 ### § 512 Abweichende Vereinbarungen
 
-Von den Vorschriften der §§ 491 bis 511 darf, soweit nicht ein anderes bestimmt ist, nicht zum Nachteil des Verbrauchers abgewichen werden. Diese Vorschriften finden auch Anwendung, wenn sie durch anderweitige Gestaltungen umgangen werden.
+Von den Vorschriften der §§ 491 bis 511, 514 und 515 darf, soweit nicht ein anderes bestimmt ist, nicht zum Nachteil des Verbrauchers abgewichen werden. Diese Vorschriften finden auch Anwendung, wenn sie durch anderweitige Gestaltungen umgangen werden.
 
 ### § 513 Anwendung auf Existenzgründer
 
@@ -5543,7 +5565,7 @@ Untertitel 6 Unentgeltliche Darlehensverträge und unentgeltliche Finanzierungsh
 
 ### § 514 Unentgeltliche Darlehensverträge
 
-(1) § 497 Absatz 1 und 3 sowie § 498 und die §§ 505a bis 505c sowie 505d Absatz 2 bis 4 sind entsprechend auf Verträge anzuwenden, durch die ein Unternehmer einem Verbraucher ein unentgeltliches Darlehen gewährt. Dies gilt nicht in dem in § 491 Absatz 2 Satz 2 Nummer 1 bestimmten Umfang.
+(1) § 497 Absatz 1 und 3 sowie § 498 und die §§ 505a bis 505c sowie 505d Absatz 2 und 3 sowie § 505e sind entsprechend auf Verträge anzuwenden, durch die ein Unternehmer einem Verbraucher ein unentgeltliches Darlehen gewährt. Dies gilt nicht in dem in § 491 Absatz 2 Satz 2 Nummer 1 bestimmten Umfang.
 
 (2) Bei unentgeltlichen Darlehensverträgen gemäß Absatz 1 steht dem Verbraucher ein Widerrufsrecht nach § 355 zu. Dies gilt nicht, wenn bereits ein Widerrufsrecht nach § 312g Absatz 1 besteht, und nicht bei Verträgen, die § 495 Absatz 2 Nummer 1 entsprechen. Der Unternehmer hat den Verbraucher rechtzeitig vor der Abgabe von dessen Willenserklärung gemäß Artikel 246 Absatz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche über sein Widerrufsrecht zu unterrichten. Der Unternehmer kann diese Pflicht dadurch erfüllen, dass er dem Verbraucher das in der Anlage 9 zum Einführungsgesetz zum Bürgerlichen Gesetzbuche vorgesehene Muster für die Widerrufsbelehrung ordnungsgemäß ausgefüllt in Textform übermittelt.
 
@@ -7129,7 +7151,13 @@ Untertitel 1 Dienstvertrag
 
 (2) Gegenstand des Dienstvertrags können Dienste jeder Art sein.
 
-### (XXXX) §§ 611a und 611b (weggefallen)
+### § 611a Arbeitsvertrag
+
+(1) Durch den Arbeitsvertrag wird der Arbeitnehmer im Dienste eines anderen zur Leistung weisungsgebundener, fremdbestimmter Arbeit in persönlicher Abhängigkeit verpflichtet. Das Weisungsrecht kann Inhalt, Durchführung, Zeit und Ort der Tätigkeit betreffen. Weisungsgebunden ist, wer nicht im Wesentlichen frei seine Tätigkeit gestalten und seine Arbeitszeit bestimmen kann. Der Grad der persönlichen Abhängigkeit hängt dabei auch von der Eigenart der jeweiligen Tätigkeit ab. Für die Feststellung, ob ein Arbeitsvertrag vorliegt, ist eine Gesamtbetrachtung aller Umstände vorzunehmen. Zeigt die tatsächliche Durchführung des Vertragsverhältnisses, dass es sich um ein Arbeitsverhältnis handelt, kommt es auf die Bezeichnung im Vertrag nicht an.
+
+(2) Der Arbeitgeber ist zur Zahlung der vereinbarten Vergütung verpflichtet.
+
+### § 611b (weggefallen)
 
 ### § 612 Vergütung
 
@@ -15820,7 +15848,7 @@ der zu erwartende Nutzen der ärztlichen Zwangsmaßnahme die zu erwartenden Beei
 
 (5) Die Unterbringung durch einen Bevollmächtigten und die Einwilligung eines Bevollmächtigten in Maßnahmen nach den Absätzen 3 und 4 setzen voraus, dass die Vollmacht schriftlich erteilt ist und die in den Absätzen 1, 3 und 4 genannten Maßnahmen ausdrücklich umfasst. Im Übrigen gelten die Absätze 1 bis 4 entsprechend.
 
-(+++ § 1906 Abs. 3: Gem. BVerfG vom 26.7.2016 - 1 BvL 8/15 - auch auf stationär behandelte Betreute anzuwenden, die sich einer ärztlichen Zwangsbehandlung räumlich nicht entziehen können +++)
+(+++ § 1906 Abs. 3: Gem. BVerfGE vom 26.7.2016 - 1 BvL 8/15 - auch auf stationär behandelte Betreute anzuwenden, die sich einer ärztlichen Zwangsbehandlung räumlich nicht entziehen können +++)
 
 ### § 1907 Genehmigung des Betreuungsgerichts bei der Aufgabe der Mietwohnung
 
