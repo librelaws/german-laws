@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 18.11.2004 I 2855;
 
 Stand  
-Zuletzt geändert durch Art. 5a G v. 13.5.2015 I 706
+Zuletzt geändert durch Art. 87 G v. 29.3.2017 I 626
 
 ### 
 
@@ -31,7 +31,7 @@ Zuletzt geändert durch Art. 5a G v. 13.5.2015 I 706
 
 ### § 2 Antrag
 
-(1) Die Elternzeit soll, wenn sie unmittelbar nach der Geburt des Kindes oder nach Ablauf der Mutterschutzfrist (§ 5 Abs. 1 Satz 1 der Mutterschutzverordnung für Soldatinnen) beginnen soll, sechs Wochen, andernfalls acht Wochen vor Beginn schriftlich beantragt werden. Dabei ist anzugeben, für welche Zeiträume innerhalb von zwei Jahren Elternzeit beantragt wird. Nimmt die Mutter die Elternzeit im Anschluss an die Mutterschutzfrist, wird die Zeit der Mutterschutzfrist nach § 5 Abs. 1 der Mutterschutzverordnung für Soldatinnen auf den Zweijahreszeitraum nach Satz 2 angerechnet. Nimmt die Mutter die Elternzeit im Anschluss an einen auf die Mutterschutzfrist folgenden Erholungsurlaub, werden die Zeit der Mutterschutzfrist nach § 5 Abs. 1 der Mutterschutzverordnung für Soldatinnen und die Zeit des Erholungsurlaubs auf den Zweijahreszeitraum nach Satz 2 angerechnet.
+(1) Die Elternzeit soll, wenn sie unmittelbar nach der Geburt des Kindes oder nach Ablauf der Mutterschutzfrist (§ 5 Abs. 1 Satz 1 der Mutterschutzverordnung für Soldatinnen) beginnen soll, sechs Wochen, andernfalls acht Wochen vor Beginn schriftlich oder elektronisch beantragt werden. Dabei ist anzugeben, für welche Zeiträume innerhalb von zwei Jahren Elternzeit beantragt wird. Nimmt die Mutter die Elternzeit im Anschluss an die Mutterschutzfrist, wird die Zeit der Mutterschutzfrist nach § 5 Abs. 1 der Mutterschutzverordnung für Soldatinnen auf den Zweijahreszeitraum nach Satz 2 angerechnet. Nimmt die Mutter die Elternzeit im Anschluss an einen auf die Mutterschutzfrist folgenden Erholungsurlaub, werden die Zeit der Mutterschutzfrist nach § 5 Abs. 1 der Mutterschutzverordnung für Soldatinnen und die Zeit des Erholungsurlaubs auf den Zweijahreszeitraum nach Satz 2 angerechnet.
 
 (2) Können Soldatinnen und Soldaten aus einem von ihnen nicht zu vertretenden Grund eine sich unmittelbar an das Beschäftigungsverbot des § 6 Abs. 1 des Mutterschutzgesetzes oder des § 5 Abs. 1 der Mutterschutzverordnung für Soldatinnen anschließende Elternzeit nicht rechtzeitig beantragen, können sie dies innerhalb einer Woche nach Wegfall des Grundes nachholen.
 
