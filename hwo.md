@@ -5,10 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 24.9.1998 I 3074; 2006, 2095;
 
 Stand  
-zuletzt geändert durch Art. 2 G v. 5.12.2012 I 2415
-
-Hinweis  
-Änderung durch Art. 19 G v. 25.7.2013 I 2749 (Nr. 43) noch nicht berücksichtigt
+zuletzt geändert durch Art. 19 G v. 25.7.2013 I 2749
 
 ### 
 
@@ -577,7 +574,7 @@ für Auszubildende unter 18 Jahren die ärztliche Bescheinigung über die Erstun
 
 ### § 30
 
-(1) Der Ausbildende hat unverzüglich nach Abschluß des Berufsausbildungsvertrags die Eintragung in die Lehrlingsrolle zu beantragen. Eine Ausfertigung der Vertragsniederschrift ist beizufügen. Entsprechendes gilt bei Änderungen des wesentlichen Vertragsinhalts.
+(1) Der Ausbildende hat unverzüglich nach Abschluß des Berufsausbildungsvertrags die Eintragung in die Lehrlingsrolle zu beantragen. Der Antrag kann schriftlich oder elektronisch gestellt werden; eine Kopie der Vertragsniederschrift ist jeweils beizufügen. Auf einen betrieblichen Ausbildungsplan im Sinne des § 11 Absatz 1 Satz 2 Nummer 1 des Berufsbildungsgesetzes, der der zuständigen Stelle bereits vorliegt, kann dabei Bezug genommen werden. Entsprechendes gilt bei Änderungen des wesentlichen Vertragsinhalts.
 
 (2) Der Ausbildende hat anzuzeigen
 
