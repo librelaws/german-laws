@@ -2,13 +2,15 @@ Richtlinien für die Fragestunde und für die schriftlichen Einzelfragen (Anlage
 ======================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Nr. 8 Bek. v. 30.9.1995 I 1246
+Zuletzt geändert durch Nr. 8 Beschluß d. Bundestages gem. Bek. v. 30.9.1995 I 1246
 
 ### 
 
+```
+ 
 (+++ Textnachweis ab: 1.10.1980 +++)
-
 (+++ Text der Geschäftsordnung siehe: BTGO 1980 +++)
+```
 
 ### I. Fragerecht
 
