@@ -2,25 +2,22 @@ Bürgerliches Gesetzbuch (BGB)
 =============================
 
 Neuf  
-Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
+Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738
 
 Stand  
-zuletzt geändert durch Art. 7 G v. 7.5.2013 I 1122
-
-Hinweis  
-Änderung durch Art. 10 u. Art 12 Abs. 3 G v. 26.6.2013 I 1800 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 4 G v. 26.6.2013 I 1805 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 4 G v. 4.7.2013 I 1981 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 4 G v. 4.7.2013 I 1981
 
 Hinweis  
 Änderung durch Art. 1 G v. 4.7.2013 I 2176 (Nr. 36) ist berücksichtigt
 
 Hinweis  
-Mittelbare Änderung durch Art. 44 Nr. 3 Buchst. c G v. 23.7.2013 I 2586 (Nr. 42) noch nicht berücksichtigt
+Änderung durch Art. 3 G v. 28.8.2013 I 3393 (Nr. 53) noch nicht berücksichtigt
+
+Hinweis  
+Änderung durch Art. 6 G v. 28.8.2013 I 3458 (Nr. 53) noch nicht berücksichtigt
+
+Hinweis  
+Änderung durch Art. 1 G v. 20.9.2013 I 3642 (Nr. 58) noch nicht berücksichtigt
 
 ### 
 
@@ -15966,11 +15963,11 @@ Der Erbe muss zu der Aufnahme des Inventars eine zuständige Behörde oder einen
 
 ### § 2003 Amtliche Aufnahme des Inventars
 
-(1) Auf Antrag des Erben hat das Nachlassgericht entweder das Inventar selbst aufzunehmen oder die Aufnahme einer zuständigen Behörde oder einem zuständigen Beamten oder Notar zu übertragen. Durch die Stellung des Antrags wird die Inventarfrist gewahrt.
+(1) Die amtliche Aufnahme des Inventars erfolgt auf Antrag des Erben durch einen vom Nachlassgericht beauftragten Notar. Sind nach Landesrecht die Aufgaben der Nachlassgerichte den Notaren übertragen, so hat der zuständige Notar das Inventar selbst aufzunehmen. Durch die Stellung des Antrags wird die Inventarfrist gewahrt.
 
 (2) Der Erbe ist verpflichtet, die zur Aufnahme des Inventars erforderliche Auskunft zu erteilen.
 
-(3) Das Inventar ist von der Behörde, dem Beamten oder dem Notar bei dem Nachlassgericht einzureichen.
+(3) Das Inventar ist von dem Notar bei dem Nachlassgericht einzureichen.
 
 ### § 2004 Bezugnahme auf ein vorhandenes Inventar
 
