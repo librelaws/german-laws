@@ -83,8 +83,6 @@ I. Teil Verfassung und Zuständigkeit des Bundesverfassungsgerichts
 
 (5) Ein Wahlvorschlag wird mit mindestens acht Stimmen der Mitglieder des Wahlausschusses beschlossen.
 
-§ 6: Die indirekte Wahl der Bundesverfassungsrichter durch den Deutschen Bundestag gem. § 6 BVerfGG ist verfassungsgemäß gem. BVerfGE v. 19.6.2012 (2 BvC 2/10)
-
 ### § 7
 
 Die vom Bundesrat zu berufenden Richter werden mit zwei Dritteln der Stimmen des Bundesrates gewählt.
@@ -204,7 +202,7 @@ in den ihm sonst durch Bundesgesetz zugewiesenen Fällen (Artikel 93 Abs. 3 des 
 
 (1) Der Erste Senat des Bundesverfassungsgerichts ist zuständig für Normenkontrollverfahren (§ 13 Nr. 6 und 11), in denen überwiegend die Unvereinbarkeit einer Vorschrift mit Grundrechten oder Rechten aus den Artikeln 33, 101, 103 und 104 des Grundgesetzes geltend gemacht wird, sowie für Verfassungsbeschwerden mit Ausnahme der Verfassungsbeschwerden nach § 91 und der Verfassungsbeschwerden aus dem Bereich des Wahlrechts. Das Gleiche gilt, wenn eine Landesregierung zusammen mit einem Normenkontrollantrag (§ 13 Nr. 6) nach Satz 1 einen Antrag nach § 13 Nr. 6a oder 6b stellt.
 
-(2) Der Zweite Senat des Bundesverfassungsgerichts ist zuständig in den Fällen des § 13 Nr. 1 bis 5, 6a bis 11a, 12 und 14, ferner für Normenkontrollverfahren und Verfassungsbeschwerden, die nicht dem Ersten Senat zugewiesen sind.
+(2) Der Zweite Senat des Bundesverfassungsgerichts ist zuständig in den Fällen des § 13 Nr. 1 bis 5, 6a bis 9, 11a, 12 und 14, ferner für Normenkontrollverfahren und Verfassungsbeschwerden, die nicht dem Ersten Senat zugewiesen sind.
 
 (3) In den Fällen des § 13 Nr. 10 und 13 bestimmt sich die Zuständigkeit der Senate nach der Regel der Absätze 1 und 2.
 
