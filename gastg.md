@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 20.11.1998 I 3418;
 
 Stand  
-zuletzt geändert durch Art. 286 V v. 31.8.2015 I 1474
+zuletzt geändert durch Art. 14 G v. 10.3.2017 I 420
 
 ### 
 
@@ -221,7 +221,7 @@ Aus besonderem Anlaß kann der gewerbsmäßige Ausschank alkoholischer Getränke
 Verboten ist,
 
 1.  
-Branntwein oder überwiegend branntweinhaltige Lebensmittel durch Automaten feilzuhalten,
+Alkohol im Sinne des § 1 Absatz 2 Nummer 1 des Alkoholsteuergesetzes vom 21. Juni 2013 (BGBl. I S. 1650, 1651), das zuletzt durch Artikel 6 des Gesetzes vom 10. März 2017 (BGBl. I S. 420) geändert worden ist, in der jeweils geltenden Fassung, oder überwiegend alkoholhaltige Lebensmittel durch Automaten feilzuhalten,
 
 2.  
 in Ausübung eines Gewerbes alkoholische Getränke an erkennbar Betrunkene zu verabreichen,
@@ -270,7 +270,7 @@ im Gaststättengewerbe das Verabreichen alkoholfreier Getränke von der Bestellu
 
 (1) Soweit in Bayern und Rheinland-Pfalz der Ausschank selbsterzeugter Getränke ohne Erlaubnis gestattet ist, bedarf es hierfür auch künftig keiner Erlaubnis. Die Landesregierungen können zur Aufrechterhaltung der öffentlichen Sicherheit oder Ordnung durch Rechtsverordnung allgemeine Voraussetzungen für den Ausschank aufstellen, insbesondere die Dauer des Ausschanks innerhalb des Jahres bestimmen und die Art der Betriebsführung regeln. Die Landesregierungen können durch Rechtsverordnung die Ermächtigung auf oberste Landesbehörden übertragen.
 
-(2) Die in Bayern bestehenden Kommunbrauberechtigungen sowie die in Rheinland-Pfalz bestehende Berechtigung zum Ausschank selbsterzeugten Branntweins erlöschen, wenn sie seit zehn Jahren nicht mehr ausgeübt worden sind.
+(2) Die in Bayern bestehenden Kommunbrauberechtigungen sowie die in Rheinland-Pfalz bestehende Berechtigung zum Ausschank selbsterzeugten Alkohols im Sinne des Alkoholsteuergesetzes erlöschen, wenn sie seit zehn Jahren nicht mehr ausgeübt worden sind.
 
 ### § 27 (weggefallen)
 
@@ -303,7 +303,7 @@ als Inhaber einer Schankwirtschaft, Speisewirtschaft oder öffentlichen Vergnüg
 entgegen einem Verbot nach § 19 alkoholische Getränke verabreicht,
 
 8.  
-einem Verbot des § 20 Nr. 1 über das Feilhalten von Branntwein oder überwiegend branntweinhaltigen Lebensmitteln zuwiderhandelt oder entgegen dem Verbot des § 20 Nr. 3 das Verabreichen von Speisen von der Bestellung von Getränken abhängig macht oder entgegen dem Verbot des § 20 Nr. 4 das Verabreichen alkoholfreier Getränke von der Bestellung alkoholischer Getränke abhängig macht,
+einem Verbot des § 20 Nr. 1 über das Feilhalten von Alkohol oder überwiegend alkoholhaltigen Lebensmitteln zuwiderhandelt oder entgegen dem Verbot des § 20 Nr. 3 das Verabreichen von Speisen von der Bestellung von Getränken abhängig macht oder entgegen dem Verbot des § 20 Nr. 4 das Verabreichen alkoholfreier Getränke von der Bestellung alkoholischer Getränke abhängig macht,
 
 9.  
 entgegen dem Verbot des § 20 Nr. 2 in Ausübung eines Gewerbes alkoholische Getränke verabreicht oder in den Fällen des § 20 Nr. 4 bei Nichtbestellung alkoholischer Getränke die Preise erhöht,
