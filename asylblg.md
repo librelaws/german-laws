@@ -5,10 +5,10 @@ Neuf
 Neugefasst durch Bek. v. 5.8.1997 I 2022;
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 11.3.2016 I 390
+Zuletzt geändert durch Art. 20 Abs. 6 G v. 23.12.2016 I 3234
 
 Hinweis  
-Änderung durch Art. 3 Abs. 9 G v. 26.7.2016 I 1824 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 4 G v. 17.7.2017 I 2541 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -72,11 +72,27 @@ Für minderjährige Kinder, die eine Aufenthaltserlaubnis nach § 25 Absatz 5 de
 
 (3) Absatz 2 gilt entsprechend für Leistungsberechtigte nach § 1 Absatz 1 Nummer 4 und 5, bei denen aus von ihnen selbst zu vertretenden Gründen aufenthaltsbeendende Maßnahmen nicht vollzogen werden können. Für sie endet der Anspruch auf Leistungen nach den §§ 2, 3 und 6 mit dem auf die Vollziehbarkeit einer Abschiebungsandrohung oder Vollziehbarkeit einer Abschiebungsanordnung folgenden Tag. Für Leistungsberechtigte nach § 1 Absatz 1 Nummer 6, soweit es sich um Familienangehörige der in Satz 1 genannten Personen handelt, gilt Absatz 1 entsprechend.
 
-(4) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1 oder 5, für die in Abweichung von der Regelzuständigkeit nach der Verordnung (EU) Nr. 604/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (ABl. L 180 vom 29.6.2013, S. 31) nach einer Verteilung durch die Europäische Union ein anderer Mitgliedstaat oder ein am Verteilmechanismus teilnehmender Drittstaat, der die Verordnung (EU) Nr. 604/2013 anwendet, zuständig ist, erhalten ebenfalls nur Leistungen nach Absatz 2.
+(4) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1 oder 5, für die in Abweichung von der Regelzuständigkeit nach der Verordnung (EU) Nr. 604/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (ABl. L 180 vom 29.6.2013, S. 31) nach einer Verteilung durch die Europäische Union ein anderer Mitgliedstaat oder ein am Verteilmechanismus teilnehmender Drittstaat, der die Verordnung (EU) Nr. 604/2013 anwendet, zuständig ist, erhalten ebenfalls nur Leistungen nach Absatz 2. Satz 1 gilt entsprechend für Leistungsberechtigte nach § 1 Absatz 1 Nummer 1 oder 5, denen bereits von einem anderen Mitgliedstaat der Europäischen Union oder einem am Verteilmechanismus teilnehmenden Drittstaat im Sinne von Satz 1 internationaler Schutz oder aus anderen Gründen ein Aufenthaltsrecht gewährt worden ist, wenn der internationale Schutz oder das aus anderen Gründen gewährte Aufenthaltsrecht fortbesteht.
+
+(5) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1 oder 7 erhalten nur Leistungen entsprechend Absatz 2 Satz 2 bis 4, wenn sie
+
+1.  
+ihrer Mitwirkungspflicht nach § 15 Absatz 2 Nummer 4 des Asylgesetzes nicht nachkommen,
+
+2.  
+ihre Mitwirkungspflicht nach § 15 Absatz 2 Nummer 5 des Asylgesetzes verletzen, indem sie erforderliche Unterlagen zu ihrer Identitätsklärung, die in ihrem Besitz sind, nicht vorlegen, aushändigen oder überlassen,
+
+3.  
+den gewährten Termin zur förmlichen Antragstellung bei der zuständigen Außenstelle des Bundesamtes für Migration und Flüchtlinge oder dem Bundesamt für Migration und Flüchtlinge nicht wahrgenommen haben oder
+
+4.  
+den Tatbestand nach § 30 Absatz 3 Nummer 2 zweite Alternative des Asylgesetzes verwirklichen, indem sie Angaben über ihre Identität oder Staatsangehörigkeit verweigern,
+
+es sei denn, sie haben die Verletzung der Mitwirkungspflichten oder die Nichtwahrnehmung des Termins nicht zu vertreten oder ihnen war die Einhaltung der Mitwirkungspflichten oder die Wahrnehmung des Termins aus wichtigen Gründen nicht möglich. Die Anspruchseinschränkung nach Satz 1 endet, sobald sie die fehlende Mitwirkungshandlung erbracht oder den Termin zur förmlichen Antragstellung wahrgenommen haben.
 
 ### § 2 Leistungen in besonderen Fällen
 
-(1) Abweichend von den §§ 3 bis 7 ist das Zwölfte Buch Sozialgesetzbuch auf diejenigen Leistungsberechtigten entsprechend anzuwenden, die sich seit 15 Monaten ohne wesentliche Unterbrechung im Bundesgebiet aufhalten und die Dauer des Aufenthalts nicht rechtsmissbräuchlich selbst beeinflusst haben.
+(1) Abweichend von den §§ 3 und 4 sowie 6 bis 7 ist das Zwölfte Buch Sozialgesetzbuch auf diejenigen Leistungsberechtigten entsprechend anzuwenden, die sich seit 15 Monaten ohne wesentliche Unterbrechung im Bundesgebiet aufhalten und die Dauer des Aufenthalts nicht rechtsmissbräuchlich selbst beeinflusst haben.
 
 (2) Bei der Unterbringung von Leistungsberechtigten nach Absatz 1 in einer Gemeinschaftsunterkunft bestimmt die zuständige Behörde die Form der Leistung auf Grund der örtlichen Umstände.
 
@@ -136,7 +152,7 @@ Anstelle der Geldleistungen können, soweit es nach den Umständen erforderlich 
 
 (6) Leistungen in Geld oder Geldeswert sollen dem Leistungsberechtigten oder einem volljährigen berechtigten Mitglied des Haushalts persönlich ausgehändigt werden. Stehen die Leistungen nicht für einen vollen Monat zu, wird die Leistung anteilig erbracht; dabei wird der Monat mit 30 Tagen berechnet. Geldleistungen dürfen längstens einen Monat im Voraus erbracht werden. Von Satz 3 kann nicht durch Landesrecht abgewichen werden.
 
-(+++ Die Beträge nach Absatz 1 Satz 8 und Absatz 2 Satz 2 ergeben sich für die Zeit ab dem 1.1.2016 aus Bek. v. 26.10.2015 I 1793 +++)
+(+++ Die Beträge nach Absatz 2 Satz 2 ergeben sich für die Zeit ab dem 1.1.2016 aus Bek. v. 26.10.2015 I 1793 +++)
 
 ### § 4 Leistungen bei Krankheit, Schwangerschaft und Geburt
 
@@ -150,13 +166,52 @@ Anstelle der Geldleistungen können, soweit es nach den Umständen erforderlich 
 
 (1) In Aufnahmeeinrichtungen im Sinne des § 44 des Asylgesetzes und in vergleichbaren Einrichtungen sollen Arbeitsgelegenheiten insbesondere zur Aufrechterhaltung und Betreibung der Einrichtung zur Verfügung gestellt werden; von der Bereitstellung dieser Arbeitsgelegenheiten unberührt bleibt die Verpflichtung der Leistungsberechtigten, Tätigkeiten der Selbstversorgung zu erledigen. Im übrigen sollen soweit wie möglich Arbeitsgelegenheiten bei staatlichen, bei kommunalen und bei gemeinnützigen Trägern zur Verfügung gestellt werden, sofern die zu leistende Arbeit sonst nicht, nicht in diesem Umfang oder nicht zu diesem Zeitpunkt verrichtet werden würde.
 
-(2) Für die zu leistende Arbeit nach Absatz 1 Satz 1 erster Halbsatz und Absatz 1 Satz 2 wird eine Aufwandsentschädigung von 1,05 Euro je Stunde ausgezahlt.
+(2) Für die zu leistende Arbeit nach Absatz 1 Satz 1 erster Halbsatz und Absatz 1 Satz 2 wird eine Aufwandsentschädigung von 80 Cent je Stunde ausgezahlt, soweit der Leistungsberechtigte nicht im Einzelfall höhere notwendige Aufwendungen nachweist, die ihm durch die Wahrnehmung der Arbeitsgelegenheit entstehen.
 
-(3) Die Arbeitsgelegenheit ist zeitlich und räumlich so auszugestalten, daß sie auf zumutbare Weise und zumindest stundenweise ausgeübt werden kann.
+(3) Die Arbeitsgelegenheit ist zeitlich und räumlich so auszugestalten, daß sie auf zumutbare Weise und zumindest stundenweise ausgeübt werden kann. § 11 Absatz 4 des Zwölften Buches Sozialgesetzbuch gilt entsprechend. Ein sonstiger wichtiger Grund im Sinne von § 11 Absatz 4 Satz 1 Nummer 3 des Zwölften Buches Sozialgesetzbuch kann insbesondere auch dann vorliegen, wenn die oder der Leistungsberechtigte eine Beschäftigung auf dem allgemeinen Arbeitsmarkt, eine Berufsausbildung oder ein Studium aufnimmt oder aufgenommen hat.
 
-(4) Arbeitsfähige, nicht erwerbstätige Leistungsberechtigte, die nicht mehr im schulpflichtigen Alter sind, sind zur Wahrnehmung einer zur Verfügung gestellten Arbeitsgelegenheit verpflichtet. Bei unbegründeter Ablehnung einer solchen Tätigkeit besteht kein Anspruch auf Leistungen nach diesem Gesetz. Der Leistungsberechtigte ist vorher entsprechend zu belehren.
+(4) Arbeitsfähige, nicht erwerbstätige Leistungsberechtigte, die nicht mehr im schulpflichtigen Alter sind, sind zur Wahrnehmung einer zur Verfügung gestellten Arbeitsgelegenheit verpflichtet. Bei unbegründeter Ablehnung einer solchen Tätigkeit besteht kein Anspruch auf Leistungen nach den §§ 2, 3 und 6; § 1a Absatz 2 Satz 2 bis 4 ist entsprechend anzuwenden. Der Leistungsberechtigte ist vorher entsprechend zu belehren.
 
 (5) Ein Arbeitsverhältnis im Sinne des Arbeitsrechts und ein Beschäftigungsverhältnis im Sinne der gesetzlichen Kranken- und Rentenversicherung werden nicht begründet. § 61 Abs. 1 des Asylgesetzes sowie asyl- und ausländerrechtliche Auflagen über das Verbot und die Beschränkung einer Erwerbstätigkeit stehen einer Tätigkeit nach den Absätzen 1 bis 4 nicht entgegen. Die Vorschriften über den Arbeitsschutz sowie die Grundsätze der Beschränkung der Arbeitnehmerhaftung finden entsprechende Anwendung.
+
+### § 5a Arbeitsgelegenheiten auf der Grundlage des Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen
+
+(1) Arbeitsfähige, nicht erwerbstätige Leistungsberechtigte, die das 18. Lebensjahr vollendet haben und nicht der Vollzeitschulpflicht unterliegen, können von den nach diesem Gesetz zuständigen Behörden zu ihrer Aktivierung in Arbeitsgelegenheiten zugewiesen werden, die im Rahmen des von der Bundesagentur für Arbeit (Bundesagentur) durchgeführten Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen gegen Mehraufwandsentschädigung bereitgestellt werden (Flüchtlingsintegrationsmaßnahme). Satz 1 findet keine Anwendung auf Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, die aus einem sicheren Herkunftsstaat nach § 29a des Asylgesetzes stammen, sowie auf Leistungsberechtigte nach § 1 Absatz 1 Nummer 4 und 5.
+
+(2) Leistungsberechtigte nach Absatz 1 Satz 1 sind zur Wahrnehmung einer für sie zumutbaren Flüchtlingsintegrationsmaßnahme, der sie nach Absatz 1 zugewiesen wurden, verpflichtet; § 11 Absatz 4 des Zwölften Buches Sozialgesetzbuch gilt für die Beurteilung der Zumutbarkeit entsprechend. Ein sonstiger wichtiger Grund im Sinne von § 11 Absatz 4 Satz 1 Nummer 3 des Zwölften Buches Sozialgesetzbuch kann insbesondere auch dann vorliegen, wenn die leistungsberechtigte Person eine Beschäftigung auf dem allgemeinen Arbeitsmarkt, eine Berufsausbildung oder ein Studium aufnimmt oder aufgenommen hat.
+
+(3) Leistungsberechtigte, die sich entgegen ihrer Verpflichtung nach Absatz 2 trotz schriftlicher Belehrung über die Rechtsfolgen weigern, eine für sie zumutbare Flüchtlingsintegrationsmaßnahme aufzunehmen oder fortzuführen oder die deren Anbahnung durch ihr Verhalten verhindern, haben keinen Anspruch auf Leistungen nach den §§ 2, 3 und 6. § 1a Absatz 2 Satz 2 bis 4 ist entsprechend anzuwenden. Die Rechtsfolge nach den Sätzen 1 und 2 tritt nicht ein, wenn die leistungsberechtigte Person einen wichtigen Grund für ihr Verhalten darlegt und nachweist.
+
+(4) Die Auswahl geeigneter Teilnehmerinnen und Teilnehmer soll vor einer Entscheidung über die Zuweisung nach Absatz 1 Satz 1 mit den Trägern der Flüchtlingsintegrationsmaßnahme (Maßnahmeträgern) abgestimmt werden. Hierzu übermitteln die nach diesem Gesetz zuständigen Behörden den Maßnahmeträgern auf deren Ersuchen hin die erforderlichen Daten über Leistungsberechtigte, die für die Teilnahme an einer Flüchtlingsintegrationsmaßnahme in Betracht kommen.
+
+(5) Die nach diesem Gesetz zuständigen Behörden dürfen die für die Erfüllung ihrer Aufgaben nach den Absätzen 1, 3 und 4 erforderlichen personenbezogenen Daten von Leistungsberechtigten erheben, einschließlich Angaben
+
+1.  
+zum Bildungsstand, zur beruflichen Qualifikation und zum Vorliegen einer Beschäftigung,
+
+2.  
+zu Sprachkenntnissen und
+
+3.  
+zur Durchführung eines Integrationskurses nach § 43 des Aufenthaltsgesetzes oder einer Maßnahme der berufsbezogenen Deutschsprachförderung nach § 45a des Aufenthaltsgesetzes.
+
+Die nach diesem Gesetz zuständigen Behörden dürfen den Maßnahmeträgern die in Satz 1 genannten Daten übermitteln, soweit dies für die Erfüllung ihrer Aufgaben nach den Absätzen 1, 3 und 4 erforderlich ist.
+
+(6) Maßnahmeträger dürfen den nach diesem Gesetz zuständigen Behörden die in Absatz 5 Satz 1 genannten Daten übermitteln, soweit dies für die Auswahl der Teilnehmerinnen und Teilnehmer, die Erteilung einer Zuweisung in die Maßnahme, die Feststellung der ordnungsgemäßen Teilnahme oder die Bescheinigung der erfolgreichen Teilnahme erforderlich ist. Maßnahmeträger haben den nach diesem Gesetz zuständigen Behörden unverzüglich Auskünfte über Tatsachen zu erteilen, die Anlass für eine Leistungsabsenkung nach Absatz 3 geben könnten und die deshalb für die Leistungen nach diesem Gesetz erheblich sind.
+
+### § 5b Sonstige Maßnahmen zur Integration
+
+(1) Die nach diesem Gesetz zuständige Behörde kann arbeitsfähige, nicht erwerbstätige Leistungsberechtigte, die das 18. Lebensjahr vollendet haben und der Vollzeitschulpflicht nicht mehr unterliegen und zu dem in § 44 Absatz 4 Satz 2 Nummer 1 bis 3 des Aufenthaltsgesetzes genannten Personenkreis gehören, schriftlich verpflichten, an einem Integrationskurs nach § 43 des Aufenthaltsgesetzes teilzunehmen.
+
+(2) Leistungsberechtigte nach Absatz 1 haben keinen Anspruch auf Leistungen nach den §§ 2, 3 und 6, wenn sie sich trotz schriftlicher Belehrung über die Rechtsfolgen weigern, einen für sie zumutbaren Integrationskurs aus von ihnen zu vertretenen Gründen aufzunehmen oder ordnungsgemäß am Integrationskurs teilzunehmen. § 1a Absatz 2 Satz 2 bis 4 ist entsprechend anzuwenden. § 11 Absatz 4 des Zwölften Buches Sozialgesetzbuch gilt für die Beurteilung der Zumutbarkeit entsprechend. Ein sonstiger wichtiger Grund im Sinne von § 11 Absatz 4 Satz 1 Nummer 3 des Zwölften Buches Sozialgesetzbuch kann insbesondere auch dann vorliegen, wenn die leistungsberechtigte Person eine Beschäftigung auf dem allgemeinen Arbeitsmarkt, eine Berufsausbildung oder ein Studium aufnimmt oder aufgenommen hat. Die Rechtsfolge nach den Sätzen 1 und 2 tritt nicht ein, wenn die leistungsberechtigte Person einen wichtigen Grund für ihr Verhalten darlegt und nachweist.
+
+(3) Die nach diesem Gesetz zuständige Behörde darf die für die Erfüllung ihrer Aufgaben nach den Absätzen 1 und 2 erforderlichen personenbezogenen Daten von Leistungsberechtigten erheben, einschließlich Angaben
+
+1.  
+zu Sprachkenntnissen und
+
+2.  
+zur Durchführung eines Integrationskurses nach § 43 des Aufenthaltsgesetzes oder einer Maßnahme der berufsbezogenen Deutschsprachförderung nach § 45a des Aufenthaltsgesetzes.
 
 ### § 6 Sonstige Leistungen
 
@@ -188,10 +243,16 @@ eine Grundrente nach dem Bundesversorgungsgesetz und nach den Gesetzen, die eine
 eine Rente oder Beihilfe nach dem Bundesentschädigungsgesetz für Schaden an Leben sowie an Körper oder Gesundheit bis zur Höhe der vergleichbaren Grundrente nach dem Bundesversorgungsgesetz,
 
 4.  
-eine Entschädigung, die wegen eines Schadens, der nicht Vermögensschaden ist, nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs geleistet wird, und
+eine Entschädigung, die wegen eines Schadens, der nicht Vermögensschaden ist, nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs geleistet wird,
 
 5.  
-eine Aufwandsentschädigung nach § 5 Absatz 2.
+eine Aufwandsentschädigung nach § 5 Absatz 2,
+
+6.  
+eine Mehraufwandsentschädigung, die Leistungsberechtigten im Rahmen einer Flüchtlingsintegrationsmaßnahme im Sinne von § 5a ausgezahlt wird und
+
+7.  
+ein Fahrtkostenzuschuss, der den Leistungsberechtigten von dem Bundesamt für Migration und Flüchtlinge zur Sicherstellung ihrer Teilnahme an einem Integrationskurs nach § 43 des Aufenthaltsgesetzes oder an der berufsbezogenen Deutschsprachförderung nach § 45a des Aufenthaltsgesetzes gewährt wird.
 
 (3) Einkommen aus Erwerbstätigkeit bleiben bei Anwendung des Absatzes 1 in Höhe von 25 vom Hundert außer Betracht, höchstens jedoch in Höhe von 50 vom Hundert der maßgeblichen Bedarfsstufe des Geldbetrags zur Deckung aller notwendigen persönlichen Bedarfe nach § 3 Absatz 1 und des notwendigen Bedarfs nach § 3 Absatz 2, jeweils in Verbindung mit § 3 Absatz 4. Von den Einkommen nach Absatz 1 Satz 1 sind ferner abzusetzen
 
@@ -215,9 +276,7 @@ die mit der Erzielung des Einkommens verbundenen notwendigen Ausgaben.
 
 Von Leistungsberechtigten kann wegen der ihnen und ihren Familienangehörigen zu gewährenden Leistungen nach diesem Gesetz Sicherheit verlangt werden, soweit Vermögen im Sinne von § 7 Abs. 1 Satz 1 vorhanden ist. Die Anordnung der Sicherheitsleistung kann ohne vorherige Vollstreckungsandrohung im Wege des unmittelbaren Zwangs erfolgen.
 
-### § 7b Erstattung
-
-Abweichend von § 50 des Zehnten Buches Sozialgesetzbuch sind 56 vom Hundert der bei der Leistung nach den §§ 2 und 3 berücksichtigten Kosten für Unterkunft, mit Ausnahme der Kosten für Heizungs- und Warmwasserversorgung, nicht zu erstatten. Satz 1 gilt nicht im Fall des § 45 Abs. 2 Satz 3 des Zehnten Buches Sozialgesetzbuch oder wenn neben der Leistung nach den §§ 2 und 3 gleichzeitig Wohngeld nach dem Wohngeldgesetz geleistet worden ist oder wenn kein Wohnraum im Sinne des § 2 des Wohngeldgesetzes bewohnt wird.
+### § 7b (weggefallen)
 
 ### § 8 Leistungen bei Verpflichtung Dritter
 
@@ -256,7 +315,7 @@ rechtswidrige nicht begünstigende Verwaltungsakte nach den Absätzen 1 und 2 ni
 2.  
 anstelle des Zeitraums von vier Jahren nach Absatz 4 Satz 1 ein Zeitraum von einem Jahr tritt.
 
-(5) § 118 des Zwölften Buches Sozialgesetzbuch sowie die auf Grund des § 120 Abs. 1 des Zwölften Buches Sozialgesetzbuch oder des § 117 des Bundessozialhilfegesetzes erlassenen Rechtsverordnungen sind entsprechend anzuwenden.
+(5) Die §§ 117 und 118 des Zwölften Buches Sozialgesetzbuch sowie die auf Grund des § 120 Abs. 1 des Zwölften Buches Sozialgesetzbuch oder des § 117 des Bundessozialhilfegesetzes erlassenen Rechtsverordnungen sind entsprechend anzuwenden.
 
 ### § 10 Bestimmungen durch Landesregierungen
 
@@ -304,6 +363,14 @@ für Leistungsberechtigte nach § 1 Absatz 1 Nummer 5, die aus einem sicheren Dr
 für Leistungsberechtigte nach § 1 Absatz 1 Nummer 7, die einer Wohnverpflichtung nach § 71 Absatz 2 Satz 2 oder § 71a Absatz 2 Satz 1 des Asylgesetzes in Verbindung mit den §§ 47 bis 50 des Asylgesetzes unterliegen.
 
 (3) Die zuständige Behörde überprüft die Personen, die Leistungen nach diesem Gesetz beziehen, auf Übereinstimmung der ihr vorliegenden Daten mit den der Ausländerbehörde über diese Personen vorliegenden Daten. Sie darf für die Überprüfung nach Satz 1 Name, Vorname (Rufname), Geburtsdatum, Geburtsort, Staatsangehörigkeiten, Geschlecht, Familienstand, Anschrift, Aufenthaltsstatus und Aufenthaltszeiten dieser Personen sowie die für diese Personen eingegangenen Verpflichtungen nach § 68 des Aufenthaltsgesetzes der zuständigen Ausländerbehörde übermitteln. Die Ausländerbehörde führt den Abgleich mit den nach Satz 2 übermittelten Daten durch und übermittelt der zuständigen Behörde die Ergebnisse des Abgleichs. Die Ausländerbehörde übermittelt der zuständigen Behörde ferner Änderungen der in Satz 2 genannten Daten. Die Überprüfungen können auch regelmäßig im Wege des automatisierten Datenabgleichs durchgeführt werden.
+
+(4) Keine aufschiebende Wirkung haben Widerspruch und Anfechtungsklage gegen einen Verwaltungsakt, mit dem
+
+1.  
+eine Leistung nach diesem Gesetz ganz oder teilweise entzogen oder die Leistungsbewilligung aufgehoben wird oder
+
+2.  
+eine Einschränkung des Leistungsanspruchs nach § 1a oder § 11 Absatz 2a festgestellt wird.
 
 ### § 12 Asylbewerberleistungsstatistik
 
