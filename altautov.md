@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 21.6.2002 I 2214;
 
 Stand  
-Zuletzt geändert durch Art. 5 Abs. 18 G v. 24.2.2012 I 212
+Zuletzt geändert durch Art. 3 V v. 5.12.2013 I 4043
 
 ### 
 
@@ -642,7 +642,7 @@ Dokumentation
 Betreiber von Demontagebetrieben haben entsprechend den allgemeinen Anforderungen nach Nummer 3.2.1.5 ein Betriebstagebuch über Erfassung, Trockenlegung, Demontage, Wiederverwendung, stoffliche und energetische Verwertung, thermische Behandlung und über den sonstigen Verbleib der Bauteile, der Materialien und Stoffe zu führen.
 
 3.3.2  
-In diesem Betriebstagebuch sind alle für den Betrieb der Anlage wesentlichen Daten festzuhalten, die zur Transparenz und Nachvollziehbarkeit einer umweltverträglichen Altfahrzeugverwertung erforderlich sind. Sämtliche ein- und ausgehenden Mengenströme mit entsprechenden Entsorgungsnachweisen, Begleitscheinen, Transportgenehmigungen und Übernahmescheinen sowie Betriebsstörungen, deren Ursache und daraus gezogene Konsequenzen müssen im Betriebstagebuch notiert werden.
+In diesem Betriebstagebuch sind alle für den Betrieb der Anlage wesentlichen Daten festzuhalten, die zur Transparenz und Nachvollziehbarkeit einer umweltverträglichen Altfahrzeugverwertung erforderlich sind. Sämtliche ein- und ausgehenden Mengenströme mit entsprechenden Entsorgungsnachweisen, Begleitscheinen, Anzeigen und Erlaubnissen zum Sammeln und Befördern von Abfällen und Übernahmescheinen sowie Betriebsstörungen, deren Ursache und daraus gezogene Konsequenzen müssen im Betriebstagebuch notiert werden.
 
 3.3.3  
 Zu den erforderlichen Dokumentationspflichten gehören insbesondere
