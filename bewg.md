@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 1.2.1991 I 230;
 
 Stand  
-zuletzt geändert durch Art. 9 G v. 2.11.2015 I 1834
+zuletzt geändert durch Art. 2 G v. 4.11.2016 I 2464
 
 ### 
 
@@ -1513,11 +1513,13 @@ bei Grundstücken mit Behelfsbauten und bei Grundstücken mit Gebäuden in einer
 
 § 76 Abs. 1 u. Abs. 3 Nr. 1: Mit GG 100-1 vereinbar, soweit die im Sachwertverfahren zu ermittelnden Einheitswerte vom Einfamilienhäusern über dem Wertniveau der Einfamilienhäuser liegen, die im Ertragswertverfahren zu bewerten sind, BVerfGE v. 10.2.1987 I 646.
 
-### § 77 Mindestwert \*)
+### § 77 Mindestwert
 
 Der für ein bebautes Grundstück anzusetzende Wert darf nicht geringer sein als der Wert, mit dem der Grund und Boden allein als unbebautes Grundstück zu bewerten wäre. Müssen Gebäude oder Gebäudeteile wegen ihres baulichen Zustands abgebrochen werden, so sind die Abbruchkosten zu berücksichtigen.
+
 -----
-\*) Nach Artikel 7 des Steueränderungsgesetzes 1969 vom 18. August 1969 (BGBl. I S. 1211) ist § 77 im Hauptfeststellungszeitraum 1964 in folgender Fassung anzuwenden:
+
+Nach Artikel 7 des Steueränderungsgesetzes 1969 vom 18. August 1969 (BGBl. I S. 1211) ist § 77 im Hauptfeststellungszeitraum 1964 in folgender Fassung anzuwenden:
 "Der für ein bebautes Grundstück anzusetzende Wert darf nicht geringer sein als 50 vom Hundert des Werts, mit dem der Grund und Boden allein als unbebautes Grundstück zu bewerten wäre."
 
 b) Verfahren
@@ -3442,11 +3444,11 @@ hinzuzurechnen oder abzuziehen sind auch sonstige wirtschaftlich nicht begründe
 
 ### § 203 Kapitalisierungsfaktor
 
-(1) Der in diesem Verfahren anzuwendende Kapitalisierungszinssatz setzt sich zusammen aus einem Basiszins und einem Zuschlag von 4,5 Prozent.
+(1) Der in diesem Verfahren anzuwendende Kapitalisierungsfaktor beträgt 13,75.
 
-(2) Der Basiszins ist aus der langfristig erzielbaren Rendite öffentlicher Anleihen abzuleiten. Dabei ist auf den Zinssatz abzustellen, den die Deutsche Bundesbank anhand der Zinsstrukturdaten jeweils auf den ersten Börsentag des Jahres errechnet. Dieser Zinssatz ist für alle Wertermittlungen auf Bewertungsstichtage in diesem Jahr anzuwenden. Das Bundesministerium der Finanzen veröffentlicht den maßgebenden Zinssatz im Bundessteuerblatt.
+(2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den Kapitalisierungsfaktor an die Entwicklung der Zinsstrukturdaten anzupassen.
 
-(3) Der Kapitalisierungsfaktor ist der Kehrwert des Kapitalisierungszinssatzes.
+(+++ § 203: Zur Anwendung vgl. § 205 Abs. 11 +++)
 
 Dritter Teil Schlussbestimmungen
 --------------------------------
@@ -3478,6 +3480,8 @@ Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetze
 (9) § 154 Absatz 1 Satz 1 Nummer 3 und Satz 2 in der am 6. November 2015 geltenden Fassung ist auf Bewertungsstichtage nach dem 31. Dezember 2015 anzuwenden.
 
 (10) Die §§ 190, 195 Absatz 2 Satz 4 und 5 sowie die Anlagen 22, 24 und 25 in der am 6. November 2015 geltenden Fassung sind auf Bewertungsstichtage nach dem 31. Dezember 2015 anzuwenden.
+
+(11) § 203 in der Fassung des Artikels 2 des Gesetzes vom 4. November 2016 (BGBl. I S. 2464) ist auf Bewertungsstichtage nach dem 31. Dezember 2015 anzuwenden.
 
 ### Anlage 1 (zu § 51)Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf
 
