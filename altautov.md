@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 21.6.2002 I 2214;
 
 Stand  
-Zuletzt geändert durch Art. 3 V v. 5.12.2013 I 4043
+Zuletzt geändert durch Art. 3 V v. 2.12.2016 I 2770
 
 ### 
 
@@ -214,7 +214,7 @@ auf Grund wasserrechtlicher Vorschriften durch Sachverständige im Rahmen der Ü
 
 (4) Absatz 3 Satz 1 bis 6 gilt bei der Anerkennung gemäß § 2 Abs. 2 Nr. 2 entsprechend.
 
-(5) Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie Empfehlungen zur einheitlichen Durchführung der Überprüfung bekanntgeben.
+(5) Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie Empfehlungen zur einheitlichen Durchführung der Überprüfung bekanntgeben.
 
 ### § 6 Sachverständige
 
@@ -519,7 +519,7 @@ Bei gestapelten, vorbehandelten Altfahrzeugen muss die Standsicherheit des Stape
 Die Anforderungen nach den Nummern 3.2.1.2 und 3.2.1.3 gelten für den innerbetrieblichen Transport entsprechend.
 
 3.2.1.5  
-Der Betreiber hat ein Betriebstagebuch schriftlich zu führen und ein Betriebshandbuch schriftlich zu erstellen. Die Anforderungen an das Betriebstagebuch ergeben sich aus den Dokumentationspflichten nach Nummer 3.3. Das Betriebshandbuch muss insbesondere die Bestimmungen über die Behandlung und Lagerung der Altfahrzeuge sowie Arbeits- und Betriebsanweisungen enthalten.Die Anforderungen gemäß TA Abfall Nummer 5.4 (GMBl. 1991 S. 147) gelten entsprechend. An die Stelle von Nummer 5.4.3.1 der TA Abfall treten die Anforderungen nach § 5 Abs. 1 der Entsorgungsfachbetriebeverordnung vom 10. September 1996 (BGBl. I S. 1421).
+Der Betreiber hat ein Betriebstagebuch schriftlich zu führen und ein Betriebshandbuch schriftlich zu erstellen. Die Anforderungen an das Betriebstagebuch ergeben sich aus den Dokumentationspflichten nach Nummer 3.3. Das Betriebshandbuch muss insbesondere die Bestimmungen über die Behandlung und Lagerung der Altfahrzeuge sowie Arbeits- und Betriebsanweisungen enthalten.Die Anforderungen gemäß TA Abfall Nummer 5.4 (GMBl. 1991 S. 147) gelten entsprechend. An die Stelle von Nummer 5.4.3.1 der TA Abfall treten die Anforderungen nach § 5 Absatz 1 der Entsorgungsfachbetriebeverordnung vom 2. Dezember 2016 in der jeweils geltenden Fassung.
 
 3.2.2  
 Vorbehandlung
@@ -562,7 +562,7 @@ Motorenöl, Getriebeöl, Differenzialöl, Hydrauliköl und Stoßdämpferöl, sof
 Satz 2 gilt nicht für Bauteile, die als Ersatzteile wiederverwendet werden sollen, z. B. Motoren und Getriebe, wenn diese anschließend unverzüglich ausgebaut werden.Bauteile und Materialien, von denen eine Gefahr für Grund- und Oberflächenwasser ausgehen kann, sind auf den dafür vorgesehenen befestigten und überdachten Flächen zu lagern. Stoffe, die nach der Allgemeinen Verwaltungsvorschrift zum Wasserhaushaltsgesetz über die Einstufung wassergefährdender Stoffe in Wassergefährdungsklassen (VwVwS, BAnz. Nr. 98a vom 29. Mai 1999) als wassergefährdend eingestuft werden oder einzustufen sind, sind in dafür zugelassenen Behältern unter Beachtung der erlassenen Verordnungen der Länder zum Umgang mit wassergefährdenden Stoffen und über Fachbetriebe (AnlagenV - VAwS) abzufüllen und zu lagern.
 
 3.2.2.2  
-Die Vorbehandlung nach Nummer 3.2.2.1 hat nach dem Stand der Technik zu erfolgen. Bei der Trockenlegung ist insbesondere die Tropffreiheit aller Aggregate zu erzielen. Alle Öffnungen, aus denen Flüssigkeiten austreten können, sind dicht zu verschließen. Von Satz 3 kann abgewichen werden, wenn die Restkarossen auf einer stoffundurchlässigen Fläche gelagert werden, die den allgemein anerkannten Regeln nach Wasserrecht entspricht.Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie den jeweiligen Stand der Technik bekannt geben.
+Die Vorbehandlung nach Nummer 3.2.2.1 hat nach dem Stand der Technik zu erfolgen. Bei der Trockenlegung ist insbesondere die Tropffreiheit aller Aggregate zu erzielen. Alle Öffnungen, aus denen Flüssigkeiten austreten können, sind dicht zu verschließen. Von Satz 3 kann abgewichen werden, wenn die Restkarossen auf einer stoffundurchlässigen Fläche gelagert werden, die den allgemein anerkannten Regeln nach Wasserrecht entspricht.Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie den jeweiligen Stand der Technik bekannt geben.
 
 3.2.2.3  
 Für die Entnahme der Kraftstoffe sind dem Stand der Technik entsprechende, für die Entnahme von Kältemitteln geschlossene Systeme zu verwenden. Beim Umgang mit brennbaren Flüssigkeiten sind die einschlägigen Bestimmungen einzuhalten wie z. B. die Gefahrstoffverordnung, die Verordnung über brennbare Flüssigkeiten und Regelungen zum Explosionsschutz.
