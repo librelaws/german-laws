@@ -5,12 +5,15 @@ Neuf
 Neugefasst durch Bek. v. 25.8.1969 I 1317
 
 Stand  
-zuletzt geändert durch Art. 3 G v. 26.3.2008 I 444
+zuletzt geändert durch Art. 3 Abs. 2 G v. 20.4.2013 I 868
 
 ### 
 
-(+++ Textnachweis Geltung ab: 30. 4.1978 +++)
-(+++ Maßgaben aufgrund EinigVtr nicht mehr anzuwenden gem. Art. 109 Nr. 3 Buchst. a DBuchst. dd G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)
+```
+(+++ Textnachweis Geltung ab: 30.4.1978 +++)
+(+++ Maßgaben aufgrund EinigVtr nicht mehr anzuwenden gem. Art. 109 
+     Nr. 3 Buchst. a DBuchst. dd G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)
+```
 
 Erster Abschnitt Allgemeiner Kündigungsschutz
 ---------------------------------------------
