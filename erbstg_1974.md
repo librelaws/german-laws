@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 27.2.1997 I 378;
 
 Stand  
-zuletzt geändert durch Art. 30 G v. 26.6.2013 I 1809
+zuletzt geändert durch Art. 10 G v. 2.11.2015 I 1834
 
 ### 
 
@@ -509,10 +509,10 @@ a)
 an inländische Religionsgesellschaften des öffentlichen Rechts oder an inländische jüdische Kultusgemeinden,
 
 b)  
-an inländische Körperschaften, Personenvereinigungen und Vermögensmassen, die nach der Satzung, dem Stiftungsgeschäft oder der sonstigen Verfassung und nach ihrer tatsächlichen Geschäftsführung ausschließlich und unmittelbar kirchlichen, gemeinnützigen oder mildtätigen Zwecken dienen. Die Befreiung fällt mit Wirkung für die Vergangenheit weg, wenn die Voraussetzungen für die Anerkennung der Körperschaft, Personenvereinigung oder Vermögensmasse als kirchliche, gemeinnützige oder mildtätige Institution innerhalb von zehn Jahren nach der Zuwendung entfallen und das Vermögen nicht begünstigten Zwecken zugeführt wird,
+an inländische Körperschaften, Personenvereinigungen und Vermögensmassen, die nach der Satzung, dem Stiftungsgeschäft oder der sonstigen Verfassung und nach ihrer tatsächlichen Geschäftsführung ausschließlich und unmittelbar kirchlichen, gemeinnützigen oder mildtätigen Zwecken im Sinne der §§ 52 bis 54 der Abgabenordnung dienen. Die Befreiung fällt mit Wirkung für die Vergangenheit weg, wenn die Voraussetzungen für die Anerkennung der Körperschaft, Personenvereinigung oder Vermögensmasse als kirchliche, gemeinnützige oder mildtätige Institution innerhalb von zehn Jahren nach der Zuwendung entfallen und das Vermögen nicht begünstigten Zwecken zugeführt wird,
 
 c)  
-an ausländische Religionsgesellschaften, Körperschaften, Personenvereinigungen und Vermögensmassen der in den Buchstaben a und b bezeichneten Art unter der Voraussetzung, daß der ausländische Staat für Zuwendungen an deutsche Rechtsträger der in den Buchstaben a und b bezeichneten Art eine entsprechende Steuerbefreiung gewährt und das Bundesministerium der Finanzen dies durch förmlichen Austausch entsprechender Erklärungen mit dem ausländischen Staat feststellt;
+an ausländische Religionsgesellschaften, Körperschaften, Personenvereinigungen und Vermögensmassen der in den Buchstaben a und b bezeichneten Art, die nach § 5 Absatz 1 Nummer 9 des Körperschaftsteuergesetzes in Verbindung mit § 5 Absatz 2 Nummer 2 zweiter Halbsatz des Körperschaftsteuergesetzes steuerbefreit wären, wenn sie inländische Einkünfte erzielen würden, und wenn durch die Staaten, in denen die Zuwendungsempfänger belegen sind, Amtshilfe und Unterstützung bei der Beitreibung geleistet werden. Amtshilfe ist der Auskunftsaustausch im Sinne oder entsprechend der Amtshilferichtlinie gemäß § 2 Absatz 2 des EU-Amtshilfegesetzes. Beitreibung ist die gegenseitige Unterstützung bei der Beitreibung von Forderungen im Sinne oder entsprechend der Beitreibungsrichtlinie einschließlich der in diesem Zusammenhang anzuwendenden Durchführungsbestimmungen in den für den jeweiligen Stichtag der Steuerentstehung geltenden Fassungen oder eines entsprechenden Nachfolgerechtsaktes. Werden die steuerbegünstigten Zwecke des Zuwendungsempfängers im Sinne des Satzes 1 nur im Ausland verwirklicht, ist für die Steuerbefreiung Voraussetzung, dass natürliche Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt im Geltungsbereich dieses Gesetzes haben, gefördert werden oder dass die Tätigkeit dieses Zuwendungsempfängers neben der Verwirklichung der steuerbegünstigten Zwecke auch zum Ansehen der Bundesrepublik Deutschland beitragen kann. Buchstabe b Satz 2 gilt entsprechend;
 
 17.  
 Zuwendungen, die ausschließlich kirchlichen, gemeinnützigen oder mildtätigen Zwecken gewidmet sind, sofern die Verwendung zu dem bestimmten Zweck gesichert ist;
@@ -539,6 +539,7 @@ Die Steuerbefreiung fällt mit Wirkung für die Vergangenheit weg, wenn der Vere
 (3) Jede Befreiungsvorschrift ist für sich anzuwenden. In den Fällen des Absatzes 1 Nr. 2 und 3 kann der Erwerber der Finanzbehörde bis zur Unanfechtbarkeit der Steuerfestsetzung erklären, daß er auf die Steuerbefreiung verzichtet.
 
 (+++ § 13: Zur Anwendung vgl. § 37 Abs. 4 +++)
+(+++ § 13 Abs. 1 Nr. 16 Buchst. b u. c: Zur Anwendung vgl. § 37 Abs. 10 Satz 1 u. 2 +++)
 
 ### § 13a Steuerbefreiung für Betriebsvermögen, Betriebe der Land- und Forstwirtschaft und Anteile an Kapitalgesellschaften
 
@@ -1057,7 +1058,7 @@ soweit Vermögensgegenstände, die von Todes wegen (§ 3) oder durch Schenkung u
 (4) Die Anzeige soll folgende Angaben enthalten:
 
 1.  
-Vorname und Familienname, Beruf, Wohnung des Erblassers oder Schenkers und des Erwerbers;
+Vorname und Familienname, Identifikationsnummer (§ 139b der Abgabenordnung), Beruf, Wohnung des Erblassers oder Schenkers und des Erwerbers;
 
 2.  
 Todestag und Sterbeort des Erblassers oder Zeitpunkt der Ausführung der Schenkung;
@@ -1073,6 +1074,8 @@ persönliches Verhältnis des Erwerbers zum Erblasser oder zum Schenker wie Verw
 
 6.  
 frühere Zuwendungen des Erblassers oder Schenkers an den Erwerber nach Art, Wert und Zeitpunkt der einzelnen Zuwendung.
+
+(+++ § 30 Abs. 4 Nr. 1: Zur Anwendung vgl. § 37 Abs. 10 Satz 1 +++)
 
 ### § 31 Steuererklärung
 
@@ -1122,10 +1125,12 @@ wenn der Erblasser zur Zeit seines Todes Angehöriger eines ausländischen Staat
 die Standesämter:die Sterbefälle;
 
 2.  
-die Gerichte und die Notare:die Erteilung von Erbscheinen, Testamentsvollstreckerzeugnissen und Zeugnissen über die Fortsetzung der Gütergemeinschaft, die Beschlüsse über Todeserklärungen sowie die Anordnung von Nachlaßpflegschaften und Nachlaßverwaltungen;
+die Gerichte und die Notare:die Erteilung von Erbscheinen, Europäischen Nachlasszeugnissen, Testamentsvollstreckerzeugnissen und Zeugnissen über die Fortsetzung der Gütergemeinschaft, die Beschlüsse über Todeserklärungen sowie die Anordnung von Nachlaßpflegschaften und Nachlaßverwaltungen;
 
 3.  
 die Gerichte, die Notare und die deutschen Konsuln:die eröffneten Verfügungen von Todes wegen, die abgewickelten Erbauseinandersetzungen, die beurkundeten Vereinbarungen der Gütergemeinschaft und die beurkundeten Schenkungen und Zweckzuwendungen.
+
+(+++ § 34 Abs. 2 Nr. 2: Zur Anwendung vgl. § 37 Abs. 9 +++)
 
 ### § 35 Örtliche Zuständigkeit
 
@@ -1209,6 +1214,10 @@ Vorschriften durch Rechtsverordnung zu erlassen über die sich aus der Aufhebung
 (7) § 2 Absatz 1 Nummer 1 und 3 und Absatz 3, § 7 Absatz 8, § 15 Absatz 4, § 16 Absatz 1 und 2, § 19 Absatz 2, § 21 Absatz 1 und § 35 Absatz 4 in der Fassung des Artikels 11 des Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2592) finden auf Erwerbe Anwendung, für die die Steuer nach dem 13. Dezember 2011 entsteht. § 2 Absatz 1 Nummer 1 und 3 und Absatz 3, § 16 Absatz 1 und 2, § 19 Absatz 2, § 21 Absatz 1 und § 35 Absatz 4 in der Fassung des Artikels 11 des Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2592) finden auf Antrag auch auf Erwerbe Anwendung, für die die Steuer vor dem 14. Dezember 2011 entsteht, soweit Steuerbescheide noch nicht bestandskräftig sind.
 
 (8) § 13a Absatz 1 Satz 4, Absatz 4 Satz 5 und § 13b Absatz 2 in der Fassung des Artikels 30 des Gesetzes vom 26. Juni 2013 (BGBl. I S. 1809) sind auf Erwerbe anzuwenden, für die die Steuer nach dem 6. Juni 2013 entsteht.
+
+(9) § 34 Absatz 2 Nummer 2 in der Fassung des Artikels 17 des Gesetzes vom 29. Juni 2015 (BGBl. I S. 1042) ist auf Erwerbe anzuwenden, für die die Steuer nach dem 16. August 2015 entsteht.
+
+(10) § 13 Absatz 1 Nummer 16 Buchstabe b und c und § 30 Absatz 4 Nummer 1 in der am 6. November 2015 geltenden Fassung sind auf Erwerbe anzuwenden, für die die Steuer nach dem 5. November 2015 entstanden ist. § 13 Absatz 1 Nummer 16 Buchstabe b und c in der am 6. November 2015 geltenden Fassung ist auch auf Erwerbe anzuwenden, für die die Steuer vor dem 6. November 2015 entsteht, soweit Steuerbescheide noch nicht bestandskräftig sind.
 
 ### § 37a Sondervorschriften aus Anlass der Herstellung der Einheit Deutschlands
 
