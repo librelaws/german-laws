@@ -2,10 +2,10 @@ Grundbuchordnung ()
 ===================
 
 Neuf  
-Neugefasst durch Bek. v. 26.5.1994 I 1114
+Neugefasst durch Bek. v. 26.5.1994 I 1114;
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 3.12.2015 I 2161
+zuletzt geändert durch Art. 11 Abs. 18 G v. 18.7.2017 I 2745
 
 ### 
 
@@ -20,7 +20,7 @@ Erster Abschnitt Allgemeine Vorschriften
 
 ### § 1
 
-(1) Die Grundbücher, die auch als Loseblattgrundbuch geführt werden können, werden von den Amtsgerichten geführt (Grundbuchämter). Diese sind für die in ihrem Bezirk liegenden Grundstücke zuständig. Die abweichenden Vorschriften der §§ 149 und 150 für Baden-Württemberg und das in Artikel 3 des Einigungsvertrages genannte Gebiet bleiben unberührt.
+(1) Die Grundbücher, die auch als Loseblattgrundbuch geführt werden können, werden von den Amtsgerichten geführt (Grundbuchämter). Diese sind für die in ihrem Bezirk liegenden Grundstücke zuständig. Die abweichenden Vorschriften des § 150 für das in Artikel 3 des Einigungsvertrages genannte Gebiet bleiben unberührt.
 
 (2) Liegt ein Grundstück in dem Bezirk mehrerer Grundbuchämter, so ist das zuständige Grundbuchamt nach § 5 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit zu bestimmen.
 
@@ -235,6 +235,8 @@ Die Berichtigung des Grundbuchs durch Eintragung eines Berechtigten darf auch vo
 
 (2) Ist die zu einer Eintragung erforderliche Erklärung von einem Notar beurkundet oder beglaubigt, so gilt dieser als ermächtigt, im Namen eines Antragsberechtigten die Eintragung zu beantragen.
 
+(3) Die zu einer Eintragung erforderlichen Erklärungen sind vor ihrer Einreichung für das Grundbuchamt von einem Notar auf Eintragungsfähigkeit zu prüfen. Dies gilt nicht, wenn die Erklärung von einer öffentlichen Behörde abgegeben wird.
+
 ### § 16
 
 (1) Einem Eintragungsantrag, dessen Erledigung an einen Vorbehalt geknüpft wird, soll nicht stattgegeben werden.
@@ -303,7 +305,7 @@ In der Eintragungsbewilligung oder, wenn eine solche nicht erforderlich ist, in 
 
 (2) (weggefallen)
 
-(3) Erklärungen oder Ersuchen einer Behörde, auf Grund deren eine Eintragung vorgenommen werden soll, sind zu unterschreiben und mit Siegel oder Stempel zu versehen.
+(3) Erklärungen oder Ersuchen einer Behörde, auf Grund deren eine Eintragung vorgenommen werden soll, sind zu unterschreiben und mit Siegel oder Stempel zu versehen. Anstelle der Siegelung kann maschinell ein Abdruck des Dienstsiegels eingedruckt oder aufgedruckt werden.
 
 ### § 29a
 
@@ -660,7 +662,7 @@ Das Rechtsbeschwerdegericht ist an die Zulassung gebunden.
 
 (3) Die Vorschrift des § 44 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit über die Fortführung des Verfahrens bei Verletzung des Anspruchs auf rechtliches Gehör ist entsprechend anzuwenden.
 
-(4) Die Bundesregierung und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische Akten geführt und elektronische Dokumente bei Gericht eingereicht werden können. Die Bundesregierung und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung die organisatorisch-technischen Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der elektronischen Akten und die für die Bearbeitung der Dokumente geeignete Form. Die Rechtsverordnungen der Bundesregierung bedürfen nicht der Zustimmung des Bundesrates. Die Landesregierungen können die Ermächtigungen durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Die Zulassung der elektronischen Akte und der elektronischen Form kann auf einzelne Gerichte oder Verfahren beschränkt werden.
+(4) Die Bundesregierung und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische Akten geführt werden können. Die Bundesregierung und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung die organisatorisch-technischen Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der elektronischen Akten. Die Rechtsverordnungen der Bundesregierung bedürfen nicht der Zustimmung des Bundesrates. Die Landesregierungen können die Ermächtigungen durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder Verfahren beschränkt werden.
 
 Fünfter Abschnitt Verfahren des Grundbuchamts in besonderen Fällen
 ------------------------------------------------------------------
@@ -1188,7 +1190,7 @@ Ein Verstoß gegen eine nach Satz 2 Nummer 4 begründete Verpflichtung steht dem
 (1) Ist eine zur Eintragung erforderliche Erklärung oder eine andere Voraussetzung der Eintragung durch eine öffentliche oder öffentlich beglaubigte Urkunde nachzuweisen, so kann diese als ein mit einem einfachen elektronischen Zeugnis nach § 39a des Beurkundungsgesetzes versehenes elektronisches Dokument übermittelt werden. Der Nachweis kann auch durch die Übermittlung eines öffentlichen elektronischen Dokuments (§ 371a Absatz 3 Satz 1 der Zivilprozessordnung) geführt werden, wenn
 
 1.  
-das Dokument mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz versehen ist und
+das Dokument mit einer qualifizierten elektronischen Signatur versehen ist und
 
 2.  
 das der Signatur zugrunde liegende qualifizierte Zertifikat oder ein zugehöriges qualifiziertes Attributzertifikat die Behörde oder die Eigenschaft als mit öffentlichem Glauben versehene Person erkennen lässt.
@@ -1201,12 +1203,12 @@ Ein etwaiges Erfordernis, dem Grundbuchamt den Besitz der Urschrift oder einer A
 das Dokument den Namen der ausstellenden Person enthalten und die Behörde erkennen lassen,
 
 2.  
-das Dokument von der ausstellenden Person mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz versehen sein und
+das Dokument von der ausstellenden Person mit einer qualifizierten elektronischen Signatur versehen sein und
 
 3.  
 das der Signatur zugrunde liegende qualifizierte Zertifikat oder ein zugehöriges qualifiziertes Attributzertifikat die Behörde erkennen lassen.
 
-(3) Erklärungen, für die durch Rechtsvorschrift die Schriftform vorgeschrieben ist, können als elektronisches Dokument übermittelt werden, wenn dieses den Namen der ausstellenden Person enthält und mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz versehen ist.
+(3) Erklärungen, für die durch Rechtsvorschrift die Schriftform vorgeschrieben ist, können als elektronisches Dokument übermittelt werden, wenn dieses den Namen der ausstellenden Person enthält und mit einer qualifizierten elektronischen Signatur versehen ist.
 
 (4) Eintragungsanträge sowie sonstige Erklärungen, die nicht den Formvorschriften der Absätze 1 bis 3 unterliegen, können als elektronisches Dokument übermittelt werden, wenn dieses den Namen der ausstellenden Person enthält. Die §§ 30 und 31 gelten mit der Maßgabe, dass die in der Form des § 29 nachzuweisenden Erklärungen als elektronische Dokumente gemäß den Absätzen 1 und 2 übermittelt werden können.
 
@@ -1228,7 +1230,7 @@ das der Signatur zugrunde liegende qualifizierte Zertifikat oder ein zugehörige
 
 ### § 140 Entscheidungen, Verfügungen und Mitteilungen
 
-(1) Wird die Grundakte vollständig oder teilweise elektronisch geführt, können Entscheidungen und Verfügungen in elektronischer Form erlassen werden. Sie sind von der ausstellenden Person mit ihrem Namen zu versehen, Beschlüsse und Zwischenverfügungen zusätzlich mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung den Zeitpunkt zu bestimmen, von dem an Entscheidungen und Verfügungen in elektronischer Form zu erlassen sind; die Anordnung kann auf einzelne Grundbuchämter beschränkt werden. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
+(1) Wird die Grundakte vollständig oder teilweise elektronisch geführt, können Entscheidungen und Verfügungen in elektronischer Form erlassen werden. Sie sind von der ausstellenden Person mit ihrem Namen zu versehen, Beschlüsse und Zwischenverfügungen zusätzlich mit einer qualifizierten elektronischen Signatur. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung den Zeitpunkt zu bestimmen, von dem an Entscheidungen und Verfügungen in elektronischer Form zu erlassen sind; die Anordnung kann auf einzelne Grundbuchämter beschränkt werden. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 (2) Den in § 174 Absatz 1 der Zivilprozessordnung genannten Empfängern können Entscheidungen, Verfügungen und Mitteilungen durch die Übermittlung elektronischer Dokumente bekannt gegeben werden. Im Übrigen ist die Übermittlung elektronischer Dokumente zulässig, wenn der Empfänger dem ausdrücklich zugestimmt hat. Die Dokumente sind gegen unbefugte Kenntnisnahme zu schützen. Bei der Übermittlung von Beschlüssen und Zwischenverfügungen sind die Dokumente mit einer elektronischen Signatur zu versehen, die die Prüfung der Herkunft und der Unverfälschtheit der durch sie signierten Daten ermöglicht.
 
@@ -1276,6 +1278,8 @@ Neunter Abschnitt Übergangs- und Schlußbestimmungen
 
 (3) Vereinigungen und Zuschreibungen zwischen Grundstücken und Rechten, für die nach Landesrecht die Vorschriften über Grundstücke gelten, sollen nicht vorgenommen werden.
 
+(4) § 15 Absatz 3 gilt nicht, soweit die zu einer Eintragung erforderlichen Erklärungen von einer gemäß § 68 des Beurkundungsgesetzes nach Landesrecht zuständigen Person oder Stelle öffentlich beglaubigt worden sind.
+
 ### § 144
 
 (1) Die Vorschriften des § 20 und des § 22 Abs. 2 über das Erbbaurecht sowie die Vorschrift des § 49 sind auf die in den Artikeln *63*, 68 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichneten Rechte entsprechend anzuwenden.
@@ -1319,11 +1323,7 @@ Die Rechtsverordnung soll nur erlassen werden, wenn die Voraussetzungen des § 1
 
 ### § 149
 
-(1) Die in Baden-Württemberg bestehenden landesrechtlichen Vorschriften über die Grundbuchämter und die Zuständigkeit der dort tätigen Personen sowie über die sich hieraus ergebenden Besonderheiten bleiben unberührt; dies gilt auch für die Vorschriften über die Zahl der erforderlichen Unterschriften unter den Grundbucheintragungen und auf den Hypotheken-, Grundschuld- und Rentenschuldbriefen sowie für Regelungen, die von den §§ 12c, 13 Abs. 3 und § 44 Abs. 1 Satz 2 und 3 abweichen. Unberührt bleiben auch Artikel 1 Abs. 1 des Gesetzes über die Ermächtigung des Landes Baden-Württemberg zur Rechtsbereinigung vom 17. Dezember 1974 (BGBl. I S. 3602) sowie die §§ 35 und 36 des Rechtspflegergesetzes.
-
-(2) § 29 Abs. 1 und 3 der Grundbuchordnung gilt auch im Lande Baden-Württemberg in der Fassung, die für das übrige Bundesgebiet maßgebend ist.
-
-(3) Die Regierung des Landes Baden-Württemberg wird ermächtigt, durch Rechtsverordnung zu bestimmen, dass § 12 Absatz 4 und § 12a Absatz 3 in Baden-Württemberg erst ab einem späteren Zeitpunkt, spätestens ab 1. Januar 2018, anzuwenden sind. Die Anordnung kann auf einzelne Grundbuchämter beschränkt werden. Die Landesregierung kann die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltung übertragen.
+In Baden-Württemberg können die Gewährung von Einsicht in das maschinell geführte Grundbuch und in die elektronische Grundakte sowie die Erteilung von Ausdrucken hieraus im Wege der Organleihe auch bei den Gemeinden erfolgen. Zuständig ist der Ratschreiber, der mindestens die Befähigung zum mittleren Verwaltungs- oder Justizdienst haben muss. Er wird insoweit als Urkundsbeamter der Geschäftsstelle des Grundbuchamts tätig, in dessen Bezirk er bestellt ist. § 153 Absatz 5 Satz 1 des Gerichtsverfassungsgesetzes gilt entsprechend. Das Nähere wird durch Landesgesetz geregelt.
 
 ### § 150
 
@@ -1370,6 +1370,10 @@ sonstige im Grundbuch eingetragene Lasten und Beschränkungen
 zu verfügen, deren Eintragung vor dem 1. Juli 1990 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet beantragt worden ist. Dabei kann bestimmt werden, dass § 39 nicht anzuwenden ist und dass es der Vorlage eines Hypotheken-, Grundschuld- oder Rentenschuldbriefes nicht bedarf.
 
 (6) § 134a tritt am 31. Dezember 2020 außer Kraft.
+
+### § 151
+
+Für Erklärungen, die bis einschließlich 8. Juni 2017 beurkundet oder beglaubigt wurden, findet § 15 Absatz 3 keine Anwendung.
 
 ### Anlage (zu § 126 Abs. 1 Satz 2 Nr. 3)
 
