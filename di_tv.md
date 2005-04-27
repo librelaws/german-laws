@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 28.4.2005 I 1161;
 
 Stand  
-Zuletzt geändert durch Art. 60 V v. 31.8.2015 I 1474
+zuletzt geändert durch Art. 22 V v. 5.7.2017 I 2272
 
 ### 
 
@@ -1045,9 +1045,9 @@ Sechster Abschnitt Schlussvorschriften
 
 Die Vorschriften der Butterverordnung und der Honigverordnung bleiben unberührt. Die Vorschriften anderer Rechtsverordnungen über die Herstellung und das Inverkehrbringen von Lebensmitteln bleiben insoweit unberührt, als nicht die Vorschriften dieser Verordnung entgegenstehen.
 
-### § 27a (weggefallen)
+### § 27a
 
--
+Soweit in dieser Verordnung auf die Lebensmittel-Kennzeichnungsverordnung oder Vorschriften der Lebensmittel-Kennzeichnungsverordnung verwiesen wird, ist die Lebensmittel-Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden Fassung weiter anzuwenden.
 
 ### § 28 (weggefallen)
 
