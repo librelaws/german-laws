@@ -18,7 +18,7 @@ Auf Grund der §§ 64, 65 des Bereinigungsgesetzes für deutsche Auslandsbonds v
 
 ### § 1 Höhe der Verwaltungsabgabe
 
-(1) Die Aussteller von Auslandsbonds haben als Verwaltungsabgabe für das Bereinigungsverfahren sieben vom Tausend des Bemessungsbetrags (Absätze 2, 3) zu entrichten. § 2 der Fünften Durchführungsverordnung vom 28. Juli 1953 (Bundesgesetzbl. I S. 717) über die Verwaltungsabgabe für das Verfahren der Sammelanerkennung bleibt unberührt.
+(1) Die Aussteller von Auslandsbonds haben als Verwaltungsabgabe für das Bereinigungsverfahren sieben vom Tausend des Bemessungsbetrages (Absätze 2, 3) zu entrichten. § 2 der Fünften Durchführungsverordnung vom 28. Juli 1953 (Bundesgesetzbl. I S. 717) über die Verwaltungsabgabe für das Verfahren der Sammelanerkennung bleibt unberührt.
 
 (2) Als Bemessungsbetrag gilt der Nennbetrag der ausgestellten Auslandsbonds unter Abzug
 
@@ -53,15 +53,15 @@ Auf die Verwaltungsabgabe nach § 1 werden die Beträge angerechnet, die als Abs
 
 ### § 3 Erhebung der Verwaltungsabgabe
 
-(1) Über die nach den §§ 1, 2 zu entrichtenden Beträge erläßt das Amt für Wertpapierbereinigung gegen die Aussteller einen Zahlungsbescheid. Für die Zustellung des Zahlungsbescheids gelten die Vorschriften des Verwaltungszustellungsgesetzes.
+(1) Über die nach den §§ 1, 2 zu entrichtenden Beträge erläßt das Amt für Wertpapierbereinigung gegen die Aussteller einen Zahlungsbescheid. Für die Zustellung des Zahlungsbescheides gelten die Vorschriften des Verwaltungszustellungsgesetzes.
 
-(2) Die Zahlungen sind innerhalb eines Monats nach Zustellung des Zahlungsbescheids an die Bundeshauptkasse zu leisten. Ein Drittel der entrichteten Beträge ist von der Bundeshauptkasse unverzüglich an das Land abzuführen, in dem der Aussteller seinen Sitz hat.
+(2) Die Zahlungen sind innerhalb eines Monats nach Zustellung des Zahlungsbescheides an die Bundeshauptkasse zu leisten. Ein Drittel der entrichteten Beträge ist von der Bundeshauptkasse unverzüglich an das Land abzuführen, in dem der Aussteller seinen Sitz hat.
 
 (3) Die von den Ausstellern zu entrichtenden Beträge werden auf Antrag des Amtes für Wertpapierbereinigung durch die Finanzämter nach den Vorschriften der Abgabenordnung und ihrer Nebengesetze beigetrieben.
 
 (4) Den Ausstellern stehen gegen den Zahlungsbescheid Rechtsmittel nach den Vorschriften über das Berufungsverfahren der Abgabenordnung zu. Über den Einspruch entscheidet das Amt für Wertpapierbereinigung. Die Zuständigkeit der Finanzgerichte bestimmt sich nach dem Sitz der Aussteller.
 
-(5) Die allgemeinen Vorschriften des Zweiten Teils der Abgabenordnung gelten sinngemäß, soweit nichts anderes bestimmt ist.
+(5) Die allgemeinen Vorschriften des Zweiten Teiles der Abgabenordnung gelten sinngemäß, soweit nichts anderes bestimmt ist.
 
 (+++ § 3 Abs. 1 Satz 1, Abs. 3 u. Abs. 4 Satz 2: Vgl. V v. 8.5.1964 4139-1-7 +++)
 
