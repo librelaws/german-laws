@@ -23,7 +23,7 @@ Abschnitt I Verwaltungsabgabe
 
 ### § 1 Verwaltungsabgabe für das allgemeine Bereinigungsverfahren
 
-(1) Die Aussteller von Auslandsbonds haben als Abschlag auf die Verwaltungsabgabe (§ 64 des Gesetzes) drei vom Tausend des vorläufigen Bemessungsbetrags (Absätze 2, 3) zu entrichten.
+(1) Die Aussteller von Auslandsbonds haben als Abschlag auf die Verwaltungsabgabe (§ 64 des Gesetzes) drei vom Tausend des vorläufigen Bemessungsbetrages (Absätze 2, 3) zu entrichten.
 
 (2) Als vorläufiger Bemessungsbetrag gilt der Nennbetrag der ausgestellten Auslandsbonds unter Abzug
 
@@ -95,7 +95,7 @@ Abschnitt II Vorschußverpflichtung der Aussteller
 
 ### § 5 Vorschußverpflichtung
 
-(1) Auf Verlangen der zuständigen Auslandsbevollmächtigten haben die Aussteller von Auslandsbonds auf die Zahlungen, die von den Auslandsbevollmächtigten nach § 63 Abs. 5 Satz 1, Abs. 6 des Gesetzes für ihre Rechnung zu leisten sind, Vorschüsse in Höhe von fünf vom Tausend des vorläufigen Bemessungsbetrags (§ 1 Abs. 2, 3) zu entrichten.
+(1) Auf Verlangen der zuständigen Auslandsbevollmächtigten haben die Aussteller von Auslandsbonds auf die Zahlungen, die von den Auslandsbevollmächtigten nach § 63 Abs. 5 Satz 1, Abs. 6 des Gesetzes für ihre Rechnung zu leisten sind, Vorschüsse in Höhe von fünf vom Tausend des vorläufigen Bemessungsbetrages (§ 1 Abs. 2, 3) zu entrichten.
 
 (2) Die Aussteller können die nach Absatz 1 entrichteten Beträge zurückfordern, soweit sie die nach § 63 Abs. 5 Satz 1, Abs. 6 für ihre Rechnung geleisteten Zahlungen übersteigen und sobald feststeht, daß eine weitere Inanspruchnahme auf Erstattung von Aufwendungen nicht mehr zu erwarten ist.
 
