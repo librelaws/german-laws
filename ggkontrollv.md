@@ -2,10 +2,10 @@ Verordnung über die Kontrollen von Gefahrguttransporten auf der Straße und in 
 ===========================================================================================================
 
 Neuf  
-Neugefasst durch Bek. v. 26.10.2005 I 3104;
+Neugefasst durch Bek. v. 26.10.2005 I 3104
 
 Stand  
-geändert durch Art. 482 V v. 31.10.2006 I 2407
+Zuletzt geändert durch Art. 488 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -70,11 +70,11 @@ Im Sinne dieser Verordnung bezeichnet der Begriff
 
 (2) Wird vor Durchführung einer Beförderung ein Verstoß gegen die Vorschriften über die Beförderung gefährlicher Güter festgestellt, kann die zuständige Behörde die Fahrt so lange untersagen, bis die Beförderung vorschriftsmäßig durchgeführt werden kann; sie kann auch andere geeignete Maßnahmen ergreifen.
 
-(3) § 3 Abs. 3 Satz 4 und Abs. 4 bis 7 gilt entsprechend.
+(3) § 3 Absatz 3 Satz 2 und Abs. 4 bis 7 gilt entsprechend.
 
 ### § 5 Berichtswesen
 
-(1) Die zuständige oberste Landesbehörde oder eine von ihr beauftragte Stelle und das Bundesamt für Güterverkehr übermitteln dem Bundesministerium für Verkehr, Bau und Stadtentwicklung für jedes Kalenderjahr, spätestens sechs Monate nach dessen Ablauf, einen nach dem Muster in der Anlage 5 erstellten Bericht über die Anwendung dieser Verordnung mit folgenden Angaben:
+(1) Die zuständige oberste Landesbehörde oder eine von ihr beauftragte Stelle und das Bundesamt für Güterverkehr übermitteln dem Bundesministerium für Verkehr und digitale Infrastruktur für jedes Kalenderjahr, spätestens sechs Monate nach dessen Ablauf, einen nach dem Muster in der Anlage 5 erstellten Bericht über die Anwendung dieser Verordnung mit folgenden Angaben:
 
 1.  
 Anzahl der kontrollierten Fahrzeuge, aufgeschlüsselt nach der Zulassung in Deutschland, in anderen Mitgliedstaaten der Europäischen Union oder in Drittländern,
@@ -88,7 +88,7 @@ Anzahl der festgestellten Verstöße und die Art der Verstöße,
 4.  
 Anzahl und Art der veranlassten Sanktionen.
 
-(2) Das Bundesamt für Güterverkehr erstellt aufgrund der Berichte nach Absatz 1 einen zusammengefassten Bericht und übersendet diesen dem Bundesministerium für Verkehr, Bau und Stadtentwicklung zur Weiterleitung an die Kommission der Europäischen Gemeinschaften.
+(2) Das Bundesamt für Güterverkehr erstellt aufgrund der Berichte nach Absatz 1 einen zusammengefassten Bericht und übersendet diesen dem Bundesministerium für Verkehr und digitale Infrastruktur zur Weiterleitung an die Kommission der Europäischen Gemeinschaften.
 
 ### Anlage 1 (zu § 3 Abs. 3 Satz 1)Prüfliste
 
