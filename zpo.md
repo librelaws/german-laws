@@ -5,7 +5,22 @@ Neuf
 Neugefasst durch Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781
 
 Stand  
-Zuletzt geändert durch Art. 2 G v. 5.7.2016 I 1578
+Zuletzt geändert durch Art. 1 G v. 11.6.2017 I 1607
+
+Hinweis  
+Änderung durch Art. 11 G v. 5.7.2017 I 2208 (Nr. 45) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 12 G v. 5.7.2017 I 2208 (Nr. 45) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Mittelbare Änderung durch Art. 31 G v. 5.7.2017 I 2208 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Mittelbare Änderung durch Art. 32 G v. 5.7.2017 I 2208 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 11 Abs. 15 G v. 18.7.2017 I 2745 ist berücksichtigt
 
 ### 
 
@@ -858,6 +873,7 @@ Gem. BVerfGE v. 7.10.2003, 2004 I 124 - 1 BvR 10/99 - war die Zivilprozessordnun
 | § 752                                                                                                                |
 | § 753                                                                                                                |
 | § 754                                                                                                                |
+| § 754a                                                                                                               |
 | § 755                                                                                                                |
 | § 756                                                                                                                |
 | § 757                                                                                                                |
@@ -1141,6 +1157,39 @@ Gem. BVerfGE v. 7.10.2003, 2004 I 124 - 1 BvR 10/99 - war die Zivilprozessordnun
 | § 945a                                                                                                               |
 | § 945b                                                                                                               |
 |                                                                                                                      |
+| ** Abschnitt 6**                                                                                                     |
+| ** Grenzüberschreitende vorläufige Kontenpfändung**                                                                  |
+|                                                                                                                      |
+|                                                                                                                      |
+|                                                                                                                      |
+|                                                                                                                      |
+| § 946                                                                                                                |
+| § 947                                                                                                                |
+| § 948                                                                                                                |
+| § 949                                                                                                                |
+|                                                                                                                      |
+|                                                                                                                      |
+|                                                                                                                      |
+|                                                                                                                      |
+| § 950                                                                                                                |
+| § 951                                                                                                                |
+| § 952                                                                                                                |
+|                                                                                                                      |
+|                                                                                                                      |
+|                                                                                                                      |
+|                                                                                                                      |
+| § 953                                                                                                                |
+| § 954                                                                                                                |
+| § 955                                                                                                                |
+| § 956                                                                                                                |
+| § 957                                                                                                                |
+|                                                                                                                      |
+|                                                                                                                      |
+|                                                                                                                      |
+|                                                                                                                      |
+| § 958                                                                                                                |
+| § 959                                                                                                                |
+|                                                                                                                      |
 | **Buch 9**                                                                                                           |
 | **(weggefallen)**                                                                                                    |
 |                                                                                                                      |
@@ -1277,6 +1326,7 @@ Gem. BVerfGE v. 7.10.2003, 2004 I 124 - 1 BvR 10/99 - war die Zivilprozessordnun
 |                                                                                                                      |
 |                                                                                                                      |
 | § 1092                                                                                                               |
+| § 1092a                                                                                                              |
 |                                                                                                                      |
 |                                                                                                                      |
 |                                                                                                                      |
@@ -1298,6 +1348,7 @@ Gem. BVerfGE v. 7.10.2003, 2004 I 124 - 1 BvR 10/99 - war die Zivilprozessordnun
 | § 1102                                                                                                               |
 | § 1103                                                                                                               |
 | § 1104                                                                                                               |
+| § 1104a                                                                                                              |
 |                                                                                                                      |
 |                                                                                                                      |
 |                                                                                                                      |
@@ -1944,7 +1995,7 @@ volljährige Familienangehörige (§ 15 der Abgabenordnung, § 11 des Lebenspart
 Verbraucherzentralen und andere mit öffentlichen Mitteln geförderte Verbraucherverbände bei der Einziehung von Forderungen von Verbrauchern im Rahmen ihres Aufgabenbereichs,
 
 4.  
-Personen, die Inkassodienstleistungen erbringen (registrierte Personen nach § 10 Abs. 1 Satz 1 Nr. 1 des Rechtsdienstleistungsgesetzes) im Mahnverfahren bis zur Abgabe an das Streitgericht, bei Vollstreckungsanträgen im Verfahren der Zwangsvollstreckung in das bewegliche Vermögen wegen Geldforderungen einschließlich des Verfahrens zur Abnahme der eidesstattlichen Versicherung und des Antrags auf Erlass eines Haftbefehls, jeweils mit Ausnahme von Verfahrenshandlungen, die ein streitiges Verfahren einleiten oder innerhalb eines streitigen Verfahrens vorzunehmen sind.
+Personen, die Inkassodienstleistungen erbringen (registrierte Personen nach § 10 Abs. 1 Satz 1 Nr. 1 des Rechtsdienstleistungsgesetzes) im Mahnverfahren bis zur Abgabe an das Streitgericht, bei Vollstreckungsanträgen im Verfahren der Zwangsvollstreckung in das bewegliche Vermögen wegen Geldforderungen einschließlich des Verfahrens zur Abnahme der Vermögensauskunft und der eidesstattlichen Versicherung sowie des Antrags auf Erlass eines Haftbefehls, jeweils mit Ausnahme von Verfahrenshandlungen, die ein streitiges Verfahren einleiten oder innerhalb eines streitigen Verfahrens vorzunehmen sind.
 
 Bevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organe und mit der Prozessvertretung beauftragten Vertreter.
 
@@ -2291,7 +2342,7 @@ eine juristische Person oder parteifähige Vereinigung, die im Inland, in einem 
 
 (1) Die Bewilligung der Prozesskostenhilfe erfolgt für jeden Rechtszug besonders. In einem höheren Rechtszug ist nicht zu prüfen, ob die Rechtsverfolgung oder Rechtsverteidigung hinreichende Aussicht auf Erfolg bietet oder mutwillig erscheint, wenn der Gegner das Rechtsmittel eingelegt hat.
 
-(2) Die Bewilligung von Prozesskostenhilfe für die Zwangsvollstreckung in das bewegliche Vermögen umfasst alle Vollstreckungshandlungen im Bezirk des Vollstreckungsgerichts einschließlich des Verfahrens auf Abgabe der eidesstattlichen Versicherung.
+(2) Die Bewilligung von Prozesskostenhilfe für die Zwangsvollstreckung in das bewegliche Vermögen umfasst alle Vollstreckungshandlungen im Bezirk des Vollstreckungsgerichts einschließlich des Verfahrens auf Abgabe der Vermögensauskunft und der eidesstattlichen Versicherung.
 
 ### § 120 Festsetzung von Zahlungen
 
@@ -2452,6 +2503,9 @@ Die vorbereitenden Schriftsätze sollen enthalten:
 1.  
 die Bezeichnung der Parteien und ihrer gesetzlichen Vertreter nach Namen, Stand oder Gewerbe, Wohnort und Parteistellung; die Bezeichnung des Gerichts und des Streitgegenstandes; die Zahl der Anlagen;
 
+1a.  
+die für eine Übermittlung elektronischer Dokumente erforderlichen Angaben, sofern eine solche möglich ist;
+
 2.  
 die Anträge, welche die Partei in der Gerichtssitzung zu stellen beabsichtigt;
 
@@ -2469,7 +2523,7 @@ die Unterschrift der Person, die den Schriftsatz verantwortet, bei Übermittlung
 
 ### § 130a Elektronisches Dokument
 
-(1) Soweit für vorbereitende Schriftsätze und deren Anlagen, für Anträge und Erklärungen der Parteien sowie für Auskünfte, Aussagen, Gutachten und Erklärungen Dritter die Schriftform vorgesehen ist, genügt dieser Form die Aufzeichnung als elektronisches Dokument, wenn dieses für die Bearbeitung durch das Gericht geeignet ist. Die verantwortende Person soll das Dokument mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz versehen. Ist ein übermitteltes elektronisches Dokument für das Gericht zur Bearbeitung nicht geeignet, ist dies dem Absender unter Angabe der geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen.
+(1) Soweit für vorbereitende Schriftsätze und deren Anlagen, für Anträge und Erklärungen der Parteien sowie für Auskünfte, Aussagen, Gutachten und Erklärungen Dritter die Schriftform vorgesehen ist, genügt dieser Form die Aufzeichnung als elektronisches Dokument, wenn dieses für die Bearbeitung durch das Gericht geeignet ist. Die verantwortende Person soll das Dokument mit einer qualifizierten elektronischen Signatur versehen. Ist ein übermitteltes elektronisches Dokument für das Gericht zur Bearbeitung nicht geeignet, ist dies dem Absender unter Angabe der geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen.
 
 (2) Die Bundesregierung und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische Dokumente bei den Gerichten eingereicht werden können, sowie die für die Bearbeitung der Dokumente geeignete Form. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Die Zulassung der elektronischen Form kann auf einzelne Gerichte oder Verfahren beschränkt werden.
 
@@ -2819,7 +2873,7 @@ Soll durch die Zustellung eine Frist gewahrt werden oder die Verjährung neu beg
 
 (3) Eine in Papierform zuzustellende Abschrift kann auch durch maschinelle Bearbeitung beglaubigt werden. Anstelle der handschriftlichen Unterzeichnung ist die Abschrift mit dem Gerichtssiegel zu versehen. Dasselbe gilt, wenn eine Abschrift per Telekopie zugestellt wird.
 
-(4) Ein Schriftstück kann in beglaubigter elektronischer Abschrift zugestellt werden. Die Abschrift ist mit einer qualifizierten elektronischen Signatur des Urkundsbeamten der Geschäftsstelle zu versehen.
+(4) Ein Schriftstück oder ein elektronisches Dokument kann in beglaubigter elektronischer Abschrift zugestellt werden. Die Abschrift ist mit einer qualifizierten elektronischen Signatur des Urkundsbeamten der Geschäftsstelle zu versehen.
 
 (5) Ein nach § 130b errichtetes gerichtliches elektronisches Dokument kann in Urschrift zugestellt werden; einer Beglaubigung bedarf es nicht.
 
@@ -2853,7 +2907,7 @@ Ein Schriftstück kann dem Adressaten oder seinem rechtsgeschäftlich bestellten
 
 (3) An die in Absatz 1 Genannten kann auch ein elektronisches Dokument zugestellt werden. Gleiches gilt für andere Verfahrensbeteiligte, wenn sie der Übermittlung elektronischer Dokumente ausdrücklich zugestimmt haben. Für die Übermittlung ist das Dokument mit einer elektronischen Signatur zu versehen und gegen unbefugte Kenntnisnahme Dritter zu schützen. Die Übermittlung kann auch über De-Mail-Dienste im Sinne von § 1 des De-Mail-Gesetzes erfolgen.
 
-(4) Zum Nachweis der Zustellung genügt das mit Datum und Unterschrift des Adressaten versehene Empfangsbekenntnis, das an das Gericht zurückzusenden ist. Das Empfangsbekenntnis kann schriftlich, durch Telekopie oder als elektronisches Dokument (§ 130a) zurückgesandt werden. Wird es als elektronisches Dokument erteilt, soll es mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz versehen werden.
+(4) Zum Nachweis der Zustellung genügt das mit Datum und Unterschrift des Adressaten versehene Empfangsbekenntnis, das an das Gericht zurückzusenden ist. Das Empfangsbekenntnis kann schriftlich, durch Telekopie oder als elektronisches Dokument (§ 130a) zurückgesandt werden. Wird es als elektronisches Dokument erteilt, soll es mit einer qualifizierten elektronischen Signatur versehen werden.
 
 ### § 175 Zustellung durch Einschreiben mit Rückschein
 
@@ -2932,19 +2986,27 @@ Name, Vorname und Unterschrift des Zustellers sowie die Angabe des beauftragten 
 
 ### § 183 Zustellung im Ausland
 
-(1) Eine Zustellung im Ausland ist nach den bestehenden völkerrechtlichen Vereinbarungen vorzunehmen. Wenn Schriftstücke auf Grund völkerrechtlicher Vereinbarungen unmittelbar durch die Post übersandt werden dürfen, so soll durch Einschreiben mit Rückschein zugestellt werden, anderenfalls die Zustellung auf Ersuchen des Vorsitzenden des Prozessgerichts unmittelbar durch die Behörden des fremden Staates erfolgen.
+(1) Soweit nicht unmittelbar anwendbare Regelungen der Europäischen Union in ihrer jeweils geltenden Fassung, insbesondere
 
-(2) Ist eine Zustellung nach Absatz 1 nicht möglich, ist durch die zuständige diplomatische oder konsularische Vertretung des Bundes oder die sonstige zuständige Behörde zuzustellen. Nach Satz 1 ist insbesondere zu verfahren, wenn völkerrechtliche Vereinbarungen nicht bestehen, die zuständigen Stellen des betreffenden Staates zur Rechtshilfe nicht bereit sind oder besondere Gründe eine solche Zustellung rechtfertigen.
+1.  
+die Verordnung (EG) Nr. 1393/2007 des Europäischen Parlaments und des Rates vom 13. November 2007 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen in den Mitgliedstaaten („Zustellung von Schriftstücken“) und zur Aufhebung der Verordnung (EG) Nr. 1348/2000 des Rates (ABl. L 324 vom 10.12.2007, S. 79), die durch die Verordnung (EU) Nr. 517/2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist, sowie
 
-(3) An einen Deutschen, der das Recht der Immunität genießt und zu einer Vertretung der Bundesrepublik Deutschland im Ausland gehört, erfolgt die Zustellung auf Ersuchen des Vorsitzenden des Prozessgerichts durch die zuständige Auslandsvertretung.
+2.  
+das Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen (ABl. L 300 vom 17.11.2005, S. 55)
 
-(4) Zum Nachweis der Zustellung nach Absatz 1 Satz 2 Halbsatz 1 genügt der Rückschein. Die Zustellung nach Absatz 1 Satz 2 Halbsatz 2 und den Absätzen 2 und 3 wird durch das Zeugnis der ersuchten Behörde nachgewiesen.
+maßgeblich sind, gelten für die Zustellung im Ausland die nachfolgenden Absätze 2 bis 5. Für die Durchführung der in Satz 1 genannten Regelungen gelten § 1067 Absatz 1, § 1068 Absatz 1 und § 1069 Absatz 1.
 
-(5) Die Vorschriften der Verordnung (EG) Nr. 1393/2007 des Europäischen Parlaments und des Rates vom 13. November 2007 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen in den Mitgliedstaaten und zur Aufhebung der Verordnung (EG) Nr. 1348/2000 bleiben unberührt. Für die Durchführung gelten § 1068 Abs. 1 und § 1069 Abs. 1.
+(2) Eine Zustellung im Ausland ist nach den bestehenden völkerrechtlichen Vereinbarungen vorzunehmen. Wenn Schriftstücke auf Grund völkerrechtlicher Vereinbarungen unmittelbar durch die Post übersandt werden dürfen, so soll durch Einschreiben mit Rückschein zugestellt werden, anderenfalls die Zustellung auf Ersuchen des Vorsitzenden des Prozessgerichts unmittelbar durch die Behörden des fremden Staates erfolgen.
+
+(3) Ist eine Zustellung nach Absatz 2 nicht möglich, ist durch die zuständige diplomatische oder konsularische Vertretung des Bundes oder die sonstige zuständige Behörde zuzustellen. Nach Satz 1 ist insbesondere zu verfahren, wenn völkerrechtliche Vereinbarungen nicht bestehen, die zuständigen Stellen des betreffenden Staates zur Rechtshilfe nicht bereit sind oder besondere Gründe eine solche Zustellung rechtfertigen.
+
+(4) An entsandte Beschäftige einer deutschen Auslandsvertretung und die in ihrer Privatwohnung lebenden Personen erfolgt die Zustellung auf Ersuchen des Vorsitzenden des Prozessgerichts durch die zuständige Auslandsvertretung.
+
+(5) Zum Nachweis der Zustellung nach Absatz 2 Satz 2 erster Halbsatz genügt der Rückschein. Die Zustellung nach Absatz 2 Satz 2 zweiter Halbsatz und den Absätzen 3 und 4 wird durch das Zeugnis der ersuchten Behörde nachgewiesen.
 
 ### § 184 Zustellungsbevollmächtigter; Zustellung durch Aufgabe zur Post
 
-(1) Das Gericht kann bei der Zustellung nach § 183 anordnen, dass die Partei innerhalb einer angemessenen Frist einen Zustellungsbevollmächtigten benennt, der im Inland wohnt oder dort einen Geschäftsraum hat, falls sie nicht einen Prozessbevollmächtigten bestellt hat. Wird kein Zustellungsbevollmächtigter benannt, so können spätere Zustellungen bis zur nachträglichen Benennung dadurch bewirkt werden, dass das Schriftstück unter der Anschrift der Partei zur Post gegeben wird.
+(1) Das Gericht kann bei der Zustellung nach § 183 Absatz 2 bis 5 anordnen, dass die Partei innerhalb einer angemessenen Frist einen Zustellungsbevollmächtigten benennt, der im Inland wohnt oder dort einen Geschäftsraum hat, falls sie nicht einen Prozessbevollmächtigten bestellt hat. Wird kein Zustellungsbevollmächtigter benannt, so können spätere Zustellungen bis zur nachträglichen Benennung dadurch bewirkt werden, dass das Schriftstück unter der Anschrift der Partei zur Post gegeben wird.
 
 (2) Das Schriftstück gilt zwei Wochen nach Aufgabe zur Post als zugestellt. Das Gericht kann eine längere Frist bestimmen. In der Anordnung nach Absatz 1 ist auf diese Rechtsfolgen hinzuweisen. Zum Nachweis der Zustellung ist in den Akten zu vermerken, zu welcher Zeit und unter welcher Anschrift das Schriftstück zur Post gegeben wurde.
 
@@ -3013,7 +3075,7 @@ Ist eine Zustellung auf Betreiben der Parteien zugelassen oder vorgeschrieben, f
 
 ### § 192 Zustellung durch Gerichtsvollzieher
 
-(1) Die von den Parteien zu betreibenden Zustellungen erfolgen durch den Gerichtsvollzieher nach Maßgabe der §§ 193 und 194.
+(1) Die von den Parteien zu betreibenden Zustellungen erfolgen unbeschadet der Zustellung im Ausland nach § 183 durch den Gerichtsvollzieher nach Maßgabe der §§ 193 und 194.
 
 (2) Die Partei übergibt dem Gerichtsvollzieher das zuzustellende Schriftstück mit den erforderlichen Abschriften. Der Gerichtsvollzieher beglaubigt die Abschriften; er kann fehlende Abschriften selbst herstellen.
 
@@ -3519,7 +3581,7 @@ Anordnungen nach den §§ 142, 144 treffen.
 
 (2) Die Ladung ist dem Beklagten mit der Klageschrift zuzustellen, wenn das Gericht einen frühen ersten Verhandlungstermin bestimmt.
 
-(3) Zwischen der Zustellung der Klageschrift und dem Termin zur mündlichen Verhandlung muss ein Zeitraum von mindestens zwei Wochen liegen (Einlassungsfrist). Ist die Zustellung im Ausland vorzunehmen, so hat der Vorsitzende bei der Festsetzung des Termins die Einlassungsfrist zu bestimmen.
+(3) Zwischen der Zustellung der Klageschrift und dem Termin zur mündlichen Verhandlung muss ein Zeitraum von mindestens zwei Wochen liegen (Einlassungsfrist). Ist die Zustellung im Ausland vorzunehmen, so beträgt die Einlassungsfrist einen Monat. Der Vorsitzende kann auch eine längere Frist bestimmen.
 
 ### § 275 Früher erster Termin
 
@@ -3533,7 +3595,7 @@ Anordnungen nach den §§ 142, 144 treffen.
 
 ### § 276 Schriftliches Vorverfahren
 
-(1) Bestimmt der Vorsitzende keinen frühen ersten Termin zur mündlichen Verhandlung, so fordert er den Beklagten mit der Zustellung der Klage auf, wenn er sich gegen die Klage verteidigen wolle, dies binnen einer Notfrist von zwei Wochen nach Zustellung der Klageschrift dem Gericht schriftlich anzuzeigen; der Kläger ist von der Aufforderung zu unterrichten. Zugleich ist dem Beklagten eine Frist von mindestens zwei weiteren Wochen zur schriftlichen Klageerwiderung zu setzen. Ist die Zustellung der Klage im Ausland vorzunehmen, so bestimmt der Vorsitzende die Frist nach Satz 1.
+(1) Bestimmt der Vorsitzende keinen frühen ersten Termin zur mündlichen Verhandlung, so fordert er den Beklagten mit der Zustellung der Klage auf, wenn er sich gegen die Klage verteidigen wolle, dies binnen einer Notfrist von zwei Wochen nach Zustellung der Klageschrift dem Gericht schriftlich anzuzeigen; der Kläger ist von der Aufforderung zu unterrichten. Zugleich ist dem Beklagten eine Frist von mindestens zwei weiteren Wochen zur schriftlichen Klageerwiderung zu setzen. Ist die Zustellung der Klage im Ausland vorzunehmen, so beträgt die Frist nach Satz 1 einen Monat. Der Vorsitzende kann in diesem Fall auch eine längere Frist bestimmen.
 
 (2) Mit der Aufforderung ist der Beklagte über die Folgen einer Versäumung der ihm nach Absatz 1 Satz 1 gesetzten Frist sowie darüber zu belehren, dass er die Erklärung, der Klage entgegentreten zu wollen, nur durch den zu bestellenden Rechtsanwalt abgeben kann. Die Belehrung über die Möglichkeit des Erlasses eines Versäumnisurteils nach § 331 Abs. 3 hat die Rechtsfolgen aus den §§ 91 und 708 Nr. 2 zu umfassen.
 
@@ -3724,9 +3786,9 @@ welchen Zeitpunkt die Signaturprüfung für die Anbringung der Signatur ausweist
 
 (3) Das elektronische Dokument ist mindestens bis zum rechtskräftigen Abschluss des Verfahrens zu speichern.
 
-### § 298a Elektronische Akte
+### § 298a Elektronische Akte; Verordnungsermächtigung
 
-(1) Die Prozessakten können elektronisch geführt werden. Die Bundesregierung und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische Akten geführt werden sowie die hierfür geltenden organisatorisch-technischen Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der elektronischen Akten. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder Verfahren beschränkt werden.
+(1) Die Prozessakten können elektronisch geführt werden. Die Bundesregierung und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische Akten geführt werden sowie die hierfür geltenden organisatorisch-technischen Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der elektronischen Akten. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren die Akten elektronisch zu führen sind.
 
 (2) In Papierform eingereichte Schriftstücke und sonstige Unterlagen sollen zur Ersetzung der Urschrift in ein elektronisches Dokument übertragen werden. Die Unterlagen sind, sofern sie in Papierform weiter benötigt werden, mindestens bis zum rechtskräftigen Abschluss des Verfahrens aufzubewahren.
 
@@ -4144,7 +4206,9 @@ Der Partei, gegen die ein Versäumnisurteil erlassen ist, steht gegen das Urteil
 
 (1) Die Einspruchsfrist beträgt zwei Wochen; sie ist eine Notfrist und beginnt mit der Zustellung des Versäumnisurteils.
 
-(2) Muss die Zustellung im Ausland oder durch öffentliche Bekanntmachung erfolgen, so hat das Gericht die Einspruchsfrist im Versäumnisurteil oder nachträglich durch besonderen Beschluss zu bestimmen.
+(2) Muss die Zustellung im Ausland erfolgen, so beträgt die Einspruchsfrist einen Monat. Das Gericht kann im Versäumnisurteil auch eine längere Frist bestimmen.
+
+(3) Muss die Zustellung durch öffentliche Bekanntmachung erfolgen, so hat das Gericht die Einspruchsfrist im Versäumnisurteil oder nachträglich durch besonderen Beschluss zu bestimmen.
 
 ### § 340 Einspruchsschrift
 
@@ -4425,7 +4489,7 @@ Vor der Erledigung des Beweisbeschlusses kann keine Partei dessen Änderung auf 
 
 (1) Soll die Beweisaufnahme im Ausland erfolgen, so hat der Vorsitzende die zuständige Behörde um Aufnahme des Beweises zu ersuchen.
 
-(2) Kann die Beweisaufnahme durch einen Bundeskonsul erfolgen, so ist das Ersuchen an diesen zu richten.
+(2) Kann die Beweisaufnahme durch einen Konsularbeamten erfolgen, so ist das Ersuchen an diesen zu richten.
 
 (3) Die Vorschriften der Verordnung (EG) Nr. 1206/2001 des Rates vom 28. Mai 2001 über die Zusammenarbeit zwischen den Gerichten der Mitgliedstaaten auf dem Gebiet der Beweisaufnahme in Zivil- oder Handelssachen bleiben unberührt. Für die Durchführung gelten die §§ 1072 und 1073.
 
@@ -4484,7 +4548,7 @@ Titel 6 Beweis durch Augenschein
 
 ### § 371a Beweiskraft elektronischer Dokumente
 
-(1) Auf private elektronische Dokumente, die mit einer qualifizierten elektronischen Signatur versehen sind, finden die Vorschriften über die Beweiskraft privater Urkunden entsprechende Anwendung. Der Anschein der Echtheit einer in elektronischer Form vorliegenden Erklärung, der sich auf Grund der Prüfung nach dem Signaturgesetz ergibt, kann nur durch Tatsachen erschüttert werden, die ernstliche Zweifel daran begründen, dass die Erklärung vom Signaturschlüssel-Inhaber abgegeben worden ist.
+(1) Auf private elektronische Dokumente, die mit einer qualifizierten elektronischen Signatur versehen sind, finden die Vorschriften über die Beweiskraft privater Urkunden entsprechende Anwendung. Der Anschein der Echtheit einer in elektronischer Form vorliegenden Erklärung, der sich auf Grund der Prüfung der qualifizierten elektronischen Signatur nach Artikel 32 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73) ergibt, kann nur durch Tatsachen erschüttert werden, die ernstliche Zweifel daran begründen, dass die Erklärung von der verantwortenden Person abgegeben worden ist.
 
 (2) Hat sich eine natürliche Person bei einem ihr allein zugeordneten De-Mail-Konto sicher angemeldet (§ 4 Absatz 1 Satz 2 des De-Mail-Gesetzes), so kann für eine von diesem De-Mail-Konto versandte elektronische Nachricht der Anschein der Echtheit, der sich aus der Überprüfung der Absenderbestätigung gemäß § 5 Absatz 5 des De-Mail-Gesetzes ergibt, nur durch Tatsachen erschüttert werden, die ernstliche Zweifel daran begründen, dass die Nachricht von dieser Person mit diesem Inhalt versandt wurde.
 
@@ -4775,11 +4839,13 @@ Der Beweis wird durch die Bezeichnung der zu begutachtenden Punkte angetreten.
 
 (1) Die Auswahl der zuzuziehenden Sachverständigen und die Bestimmung ihrer Anzahl erfolgt durch das Prozessgericht. Es kann sich auf die Ernennung eines einzigen Sachverständigen beschränken. An Stelle der zuerst ernannten Sachverständigen kann es andere ernennen.
 
-(2) Sind für gewisse Arten von Gutachten Sachverständige öffentlich bestellt, so sollen andere Personen nur dann gewählt werden, wenn besondere Umstände es erfordern.
+(2) Vor der Ernennung können die Parteien zur Person des Sachverständigen gehört werden.
 
-(3) Das Gericht kann die Parteien auffordern, Personen zu bezeichnen, die geeignet sind, als Sachverständige vernommen zu werden.
+(3) Sind für gewisse Arten von Gutachten Sachverständige öffentlich bestellt, so sollen andere Personen nur dann gewählt werden, wenn besondere Umstände es erfordern.
 
-(4) Einigen sich die Parteien über bestimmte Personen als Sachverständige, so hat das Gericht dieser Einigung Folge zu geben; das Gericht kann jedoch die Wahl der Parteien auf eine bestimmte Anzahl beschränken.
+(4) Das Gericht kann die Parteien auffordern, Personen zu bezeichnen, die geeignet sind, als Sachverständige vernommen zu werden.
+
+(5) Einigen sich die Parteien über bestimmte Personen als Sachverständige, so hat das Gericht dieser Einigung Folge zu geben; das Gericht kann jedoch die Wahl der Parteien auf eine bestimmte Anzahl beschränken.
 
 ### § 404a Leitung der Tätigkeit des Sachverständigen
 
@@ -4817,15 +4883,17 @@ Das Prozessgericht kann den mit der Beweisaufnahme betrauten Richter zur Ernennu
 
 ### § 407a Weitere Pflichten des Sachverständigen
 
-(1) Der Sachverständige hat unverzüglich zu prüfen, ob der Auftrag in sein Fachgebiet fällt und ohne die Hinzuziehung weiterer Sachverständiger erledigt werden kann. Ist das nicht der Fall, so hat der Sachverständige das Gericht unverzüglich zu verständigen.
+(1) Der Sachverständige hat unverzüglich zu prüfen, ob der Auftrag in sein Fachgebiet fällt und ohne die Hinzuziehung weiterer Sachverständiger sowie innerhalb der vom Gericht gesetzten Frist erledigt werden kann. Ist das nicht der Fall, so hat der Sachverständige das Gericht unverzüglich zu verständigen.
 
-(2) Der Sachverständige ist nicht befugt, den Auftrag auf einen anderen zu übertragen. Soweit er sich der Mitarbeit einer anderen Person bedient, hat er diese namhaft zu machen und den Umfang ihrer Tätigkeit anzugeben, falls es sich nicht um Hilfsdienste von untergeordneter Bedeutung handelt.
+(2) Der Sachverständige hat unverzüglich zu prüfen, ob ein Grund vorliegt, der geeignet ist, Misstrauen gegen seine Unparteilichkeit zu rechtfertigen. Der Sachverständige hat dem Gericht solche Gründe unverzüglich mitzuteilen. Unterlässt er dies, kann gegen ihn ein Ordnungsgeld festgesetzt werden.
 
-(3) Hat der Sachverständige Zweifel an Inhalt und Umfang des Auftrages, so hat er unverzüglich eine Klärung durch das Gericht herbeizuführen. Erwachsen voraussichtlich Kosten, die erkennbar außer Verhältnis zum Wert des Streitgegenstandes stehen oder einen angeforderten Kostenvorschuss erheblich übersteigen, so hat der Sachverständige rechtzeitig hierauf hinzuweisen.
+(3) Der Sachverständige ist nicht befugt, den Auftrag auf einen anderen zu übertragen. Soweit er sich der Mitarbeit einer anderen Person bedient, hat er diese namhaft zu machen und den Umfang ihrer Tätigkeit anzugeben, falls es sich nicht um Hilfsdienste von untergeordneter Bedeutung handelt.
 
-(4) Der Sachverständige hat auf Verlangen des Gerichts die Akten und sonstige für die Begutachtung beigezogene Unterlagen sowie Untersuchungsergebnisse unverzüglich herauszugeben oder mitzuteilen. Kommt er dieser Pflicht nicht nach, so ordnet das Gericht die Herausgabe an.
+(4) Hat der Sachverständige Zweifel an Inhalt und Umfang des Auftrages, so hat er unverzüglich eine Klärung durch das Gericht herbeizuführen. Erwachsen voraussichtlich Kosten, die erkennbar außer Verhältnis zum Wert des Streitgegenstandes stehen oder einen angeforderten Kostenvorschuss erheblich übersteigen, so hat der Sachverständige rechtzeitig hierauf hinzuweisen.
 
-(5) Das Gericht soll den Sachverständigen auf seine Pflichten hinweisen.
+(5) Der Sachverständige hat auf Verlangen des Gerichts die Akten und sonstige für die Begutachtung beigezogene Unterlagen sowie Untersuchungsergebnisse unverzüglich herauszugeben oder mitzuteilen. Kommt er dieser Pflicht nicht nach, so ordnet das Gericht die Herausgabe an.
+
+(6) Das Gericht soll den Sachverständigen auf seine Pflichten hinweisen.
 
 ### § 408 Gutachtenverweigerungsrecht
 
@@ -4849,11 +4917,11 @@ Das Prozessgericht kann den mit der Beweisaufnahme betrauten Richter zur Ernennu
 
 ### § 411 Schriftliches Gutachten
 
-(1) Wird schriftliche Begutachtung angeordnet, soll das Gericht dem Sachverständigen eine Frist setzen, innerhalb derer er das von ihm unterschriebene Gutachten zu übermitteln hat.
+(1) Wird schriftliche Begutachtung angeordnet, setzt das Gericht dem Sachverständigen eine Frist, innerhalb derer er das von ihm unterschriebene Gutachten zu übermitteln hat.
 
-(2) Versäumt ein zur Erstattung des Gutachtens verpflichteter Sachverständiger die Frist, so kann gegen ihn ein Ordnungsgeld festgesetzt werden. Das Ordnungsgeld muss vorher unter Setzung einer Nachfrist angedroht werden. Im Falle wiederholter Fristversäumnis kann das Ordnungsgeld in der gleichen Weise noch einmal festgesetzt werden. § 409 Abs. 2 gilt entsprechend.
+(2) Versäumt ein zur Erstattung des Gutachtens verpflichteter Sachverständiger die Frist, so soll gegen ihn ein Ordnungsgeld festgesetzt werden. Das Ordnungsgeld muss vorher unter Setzung einer Nachfrist angedroht werden. Im Falle wiederholter Fristversäumnis kann das Ordnungsgeld in der gleichen Weise noch einmal festgesetzt werden. Das einzelne Ordnungsgeld darf 3 000 Euro nicht übersteigen. § 409 Abs. 2 gilt entsprechend.
 
-(3) Das Gericht kann das Erscheinen des Sachverständigen anordnen, damit er das schriftliche Gutachten erläutere.
+(3) Das Gericht kann das Erscheinen des Sachverständigen anordnen, damit er das schriftliche Gutachten erläutere. Das Gericht kann auch eine schriftliche Erläuterung oder Ergänzung des Gutachtens anordnen.
 
 (4) Die Parteien haben dem Gericht innerhalb eines angemessenen Zeitraums ihre Einwendungen gegen das Gutachten, die Begutachtung betreffende Anträge und Ergänzungsfragen zu dem schriftlichen Gutachten mitzuteilen. Das Gericht kann ihnen hierfür eine Frist setzen; § 296 Abs. 1, 4 gilt entsprechend.
 
@@ -6363,9 +6431,9 @@ wenn die Geltendmachung des Anspruchs von einer noch nicht erbrachten Gegenleist
 3.  
 wenn die Zustellung des Mahnbescheids durch öffentliche Bekanntmachung erfolgen müsste.
 
-(3) Müsste der Mahnbescheid im Ausland zugestellt werden, findet das Mahnverfahren nur statt, soweit das Anerkennungs- und Vollstreckungsausführungsgesetz vom 19. Februar 2001 (BGBl. I S. 288) dies vorsieht.
+(3) Müsste der Mahnbescheid im Ausland zugestellt werden, so findet das Mahnverfahren nur insoweit statt, als das Anerkennungs- und Vollstreckungsausführungsgesetz in der Fassung der Bekanntmachung vom 30. November 2015 (BGBl. I S. 2146) und das Auslandsunterhaltsgesetz vom 23. Mai 2011 (BGBl. I S. 898), das zuletzt durch Artikel 5 des Gesetzes vom 20. November 2015 (BGBl. I S. 2018) geändert worden ist, dies vorsehen oder die Zustellung in einem Mitgliedstaat der Europäischen Union erfolgen soll.
 
-(4) Die Vorschriften der Verordnung (EG) Nr. 1896/2006 des Europäischen Parlaments und des Rates vom 12. Dezember 2006 zur Einführung eines Europäischen Mahnverfahrens bleiben unberührt. Für die Durchführung gelten die §§ 1087 bis 1096.
+(4) Die Vorschriften der Verordnung (EG) Nr. 1896/2006 des Europäischen Parlaments und des Rates vom 12. Dezember 2006 zur Einführung eines Europäischen Mahnverfahrens (ABl. L 399 vom 30.12.2006, S. 1; L 46 vom 21.2.2008, S. 52; L 333 vom 11.12.2008, S. 17), die zuletzt durch die Verordnung (EU) 2015/2421 (ABl. L 341 vom 24.12.2015, S. 1) geändert worden ist, bleiben unberührt. Für die Durchführung gelten die §§ 1087 bis 1096.
 
 ### § 689 Zuständigkeit; maschinelle Bearbeitung
 
@@ -6925,13 +6993,15 @@ Auf die Erteilung einer vollstreckbaren Ausfertigung eines für oder gegen den E
 
 Vollstreckt der Gläubiger im Fall des § 751 Abs. 2 nur wegen eines Teilbetrages, so bemisst sich die Höhe der Sicherheitsleistung nach dem Verhältnis des Teilbetrages zum Gesamtbetrag. Darf der Schuldner in den Fällen des § 709 die Vollstreckung gemäß § 712 Abs. 1 Satz 1 abwenden, so gilt für ihn Satz 1 entsprechend.
 
-### § 753 Vollstreckung durch Gerichtsvollzieher
+### § 753 Vollstreckung durch Gerichtsvollzieher; Verordnungsermächtigung
 
 (1) Die Zwangsvollstreckung wird, soweit sie nicht den Gerichten zugewiesen ist, durch Gerichtsvollzieher durchgeführt, die sie im Auftrag des Gläubigers zu bewirken haben.
 
 (2) Der Gläubiger kann wegen Erteilung des Auftrags zur Zwangsvollstreckung die Mitwirkung der Geschäftsstelle in Anspruch nehmen. Der von der Geschäftsstelle beauftragte Gerichtsvollzieher gilt als von dem Gläubiger beauftragt.
 
-(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates verbindliche Formulare für den Auftrag nach Absatz 2 einzuführen. Für elektronisch eingereichte Aufträge können besondere Formulare vorgesehen werden.
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates verbindliche Formulare für den Auftrag einzuführen. Für elektronisch eingereichte Aufträge können besondere Formulare vorgesehen werden.
+
+(4) § 130a Absatz 1 und 2 gilt für die elektronische Einreichung von Aufträgen beim Gerichtsvollzieher entsprechend.
 
 ### § 754 Vollstreckungsauftrag und vollstreckbare Ausfertigung
 
@@ -6939,9 +7009,37 @@ Vollstreckt der Gläubiger im Fall des § 751 Abs. 2 nur wegen eines Teilbetrage
 
 (2) Dem Schuldner und Dritten gegenüber wird der Gerichtsvollzieher zur Vornahme der Zwangsvollstreckung und der in Absatz 1 bezeichneten Handlungen durch den Besitz der vollstreckbaren Ausfertigung ermächtigt. Der Mangel oder die Beschränkung des Auftrags kann diesen Personen gegenüber von dem Gläubiger nicht geltend gemacht werden.
 
+### § 754a Vereinfachter Vollstreckungsauftrag bei Vollstreckungsbescheiden
+
+(1) Im Fall eines elektronisch eingereichten Auftrags zur Zwangsvollstreckung aus einem Vollstreckungsbescheid, der einer Vollstreckungsklausel nicht bedarf, ist bei der Zwangsvollstreckung wegen Geldforderungen die Übermittlung der Ausfertigung des Vollstreckungsbescheides entbehrlich, wenn
+
+1.  
+die sich aus dem Vollstreckungsbescheid ergebende fällige Geldforderung einschließlich titulierter Nebenforderungen und Kosten nicht mehr als 5 000 Euro beträgt; Kosten der Zwangsvollstreckung sind bei der Berechnung der Forderungshöhe nur zu berücksichtigen, wenn sie allein Gegenstand des Vollstreckungsauftrags sind;
+
+2.  
+die Vorlage anderer Urkunden als der Ausfertigung des Vollstreckungsbescheides nicht vorgeschrieben ist;
+
+3.  
+der Gläubiger dem Auftrag eine Abschrift des Vollstreckungsbescheides nebst Zustellungsbescheinigung als elektronisches Dokument beifügt und
+
+4.  
+der Gläubiger versichert, dass ihm eine Ausfertigung des Vollstreckungsbescheides und eine Zustellungsbescheinigung vorliegen und die Forderung in Höhe des Vollstreckungsauftrags noch besteht.
+
+Sollen Kosten der Zwangsvollstreckung vollstreckt werden, sind dem Auftrag zusätzlich zu den in Satz 1 Nummer 3 genannten Dokumenten eine nachprüfbare Aufstellung der Kosten und entsprechende Belege als elektronisches Dokument beizufügen.
+
+(2) Hat der Gerichtsvollzieher Zweifel an dem Vorliegen einer Ausfertigung des Vollstreckungsbescheides oder der übrigen Vollstreckungsvoraussetzungen, teilt er dies dem Gläubiger mit und führt die Zwangsvollstreckung erst durch, nachdem der Gläubiger die Ausfertigung des Vollstreckungsbescheides übermittelt oder die übrigen Vollstreckungsvoraussetzungen nachgewiesen hat.
+
+(3) § 130a Absatz 2 bleibt unberührt.
+
 ### § 755 Ermittlung des Aufenthaltsorts des Schuldners
 
-(1) Ist der Wohnsitz oder gewöhnliche Aufenthaltsort des Schuldners nicht bekannt, darf der Gerichtsvollzieher auf Grund des Vollstreckungsauftrags und der Übergabe der vollstreckbaren Ausfertigung zur Ermittlung des Aufenthaltsorts des Schuldners bei der Meldebehörde die gegenwärtigen Anschriften sowie Angaben zur Haupt- und Nebenwohnung des Schuldners erheben.
+(1) Ist der Wohnsitz oder gewöhnliche Aufenthaltsort des Schuldners nicht bekannt, darf der Gerichtsvollzieher auf Grund des Vollstreckungsauftrags und der Übergabe der vollstreckbaren Ausfertigung zur Ermittlung des Aufenthaltsorts des Schuldners bei der Meldebehörde die gegenwärtigen Anschriften sowie Angaben zur Haupt- und Nebenwohnung des Schuldners erheben. Der Gerichtsvollzieher darf auch beauftragt werden, die gegenwärtigen Anschriften, den Ort der Hauptniederlassung oder den Sitz des Schuldners zu erheben
+
+1.  
+durch Einsicht in das Handels-, Genossenschafts-, Partnerschafts-, Unternehmens- oder Vereinsregister oder
+
+2.  
+durch Einholung einer Auskunft bei den nach Landesrecht für die Durchführung der Aufgaben nach § 14 Absatz 1 der Gewerbeordnung zuständigen Behörden.
 
 (2) Soweit der Aufenthaltsort des Schuldners nach Absatz 1 nicht zu ermitteln ist, darf der Gerichtsvollzieher
 
@@ -6954,7 +7052,9 @@ bei den Trägern der gesetzlichen Rentenversicherung die dort bekannte derzeitig
 3.  
 bei dem Kraftfahrt-Bundesamt die Halterdaten nach § 33 Abs. 1 Satz 1 Nr. 2 des Straßenverkehrsgesetzes
 
-erheben. Ist der Schuldner Unionsbürger, darf der Gerichtsvollzieher die Daten nach Satz 1 Nummer 1 nur erheben, wenn ihm tatsächliche Anhaltspunkte für die Vermutung der Feststellung des Nichtbestehens oder des Verlusts des Freizügigkeitsrechts vorliegen. Eine Übermittlung der Daten nach Satz 1 Nummer 1 an den Gerichtsvollzieher ist ausgeschlossen, wenn der Schuldner Unionsbürger ist, für den eine Feststellung des Nichtbestehens oder des Verlusts des Freizügigkeitsrechts nicht vorliegt.Die Daten nach Satz 1 Nr. 2 und 3 darf der Gerichtsvollzieher nur erheben, wenn die zu vollstreckenden Ansprüche mindestens 500 Euro betragen; Kosten der Zwangsvollstreckung und Nebenforderungen sind bei der Berechnung nur zu berücksichtigen, wenn sie allein Gegenstand des Vollstreckungsauftrags sind.
+erheben. Ist der Schuldner Unionsbürger, darf der Gerichtsvollzieher die Daten nach Satz 1 Nummer 1 nur erheben, wenn ihm tatsächliche Anhaltspunkte für die Vermutung der Feststellung des Nichtbestehens oder des Verlusts des Freizügigkeitsrechts vorliegen. Eine Übermittlung der Daten nach Satz 1 Nummer 1 an den Gerichtsvollzieher ist ausgeschlossen, wenn der Schuldner Unionsbürger ist, für den eine Feststellung des Nichtbestehens oder des Verlusts des Freizügigkeitsrechts nicht vorliegt.
+
+(3) Nach Absatz 1 oder Absatz 2 erhobene Daten, die innerhalb der letzten drei Monate bei dem Gerichtsvollzieher eingegangen sind, darf dieser auch in einem Zwangsvollstreckungsverfahren eines weiteren Gläubigers gegen denselben Schuldner nutzen, wenn die Voraussetzungen für die Datenerhebung auch bei diesem Gläubiger vorliegen.
 
 ### § 756 Zwangsvollstreckung bei Leistung Zug um Zug
 
@@ -7280,7 +7380,7 @@ aus für vollstreckbar erklärten Europäischen Zahlungsbefehlen nach der Verord
 aus Titeln, die in einem anderen Mitgliedstaat der Europäischen Union nach der Verordnung (EG) Nr. 805/2004 des Europäischen Parlaments und des Rates vom 21. April 2004 zur Einführung eines Europäischen Vollstreckungstitels für unbestrittene Forderungen als Europäische Vollstreckungstitel bestätigt worden sind;
 
 8.  
-aus Titeln, die in einem anderen Mitgliedstaat der Europäischen Union im Verfahren nach der Verordnung (EG) Nr. 861/2007 des Europäischen Parlaments und des Rates vom 11. Juli 2007 zur Einführung eines europäischen Verfahrens für geringfügige Forderungen ergangen sind;
+aus Titeln, die in einem anderen Mitgliedstaat der Europäischen Union im Verfahren nach der Verordnung (EG) Nr. 861/2007 des Europäischen Parlaments und des Rates vom 11. Juli 2007 zur Einführung eines europäischen Verfahrens für geringfügige Forderungen (ABl. L 199 vom 31.7.2007, S. 1; L 141 vom 5.6.2015, S. 118), die zuletzt durch die Verordnung (EU) 2015/2421 (ABl. L 341 vom 24.12.2015, S. 1) geändert worden ist, ergangen sind;
 
 9.  
 aus Titeln eines anderen Mitgliedstaats der Europäischen Union, die nach der Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen zu vollstrecken sind.
@@ -7462,7 +7562,7 @@ Sachen, die nach § 811 Abs. 1 Nr. 1 und 2 der Pfändung offensichtlich nicht un
 
 ### § 802d Erneute Vermögensauskunft
 
-(1) Ein Schuldner, der die Vermögensauskunft nach § 802c dieses Gesetzes oder nach § 284 der Abgabenordnung innerhalb der letzten zwei Jahre abgegeben hat, ist zur erneuten Abgabe nur verpflichtet, wenn ein Gläubiger Tatsachen glaubhaft macht, die auf eine wesentliche Veränderung der Vermögensverhältnisse des Schuldners schließen lassen. Andernfalls leitet der Gerichtsvollzieher dem Gläubiger einen Ausdruck des letzten abgegebenen Vermögensverzeichnisses zu. Der Gläubiger darf die erlangten Daten nur zu Vollstreckungszwecken nutzen und hat die Daten nach Zweckerreichung zu löschen; hierauf ist er vom Gerichtsvollzieher hinzuweisen. Von der Zuleitung eines Ausdrucks nach Satz 2 setzt der Gerichtsvollzieher den Schuldner in Kenntnis und belehrt ihn über die Möglichkeit der Eintragung in das Schuldnerverzeichnis (§ 882c).
+(1) Ein Schuldner, der die Vermögensauskunft nach § 802c dieses Gesetzes oder nach § 284 der Abgabenordnung innerhalb der letzten zwei Jahre abgegeben hat, ist zur erneuten Abgabe nur verpflichtet, wenn ein Gläubiger Tatsachen glaubhaft macht, die auf eine wesentliche Veränderung der Vermögensverhältnisse des Schuldners schließen lassen. Andernfalls leitet der Gerichtsvollzieher dem Gläubiger einen Ausdruck des letzten abgegebenen Vermögensverzeichnisses zu; ein Verzicht des Gläubigers auf die Zuleitung ist unbeachtlich. Der Gläubiger darf die erlangten Daten nur zu Vollstreckungszwecken nutzen und hat die Daten nach Zweckerreichung zu löschen; hierauf ist er vom Gerichtsvollzieher hinzuweisen. Von der Zuleitung eines Ausdrucks nach Satz 2 setzt der Gerichtsvollzieher den Schuldner in Kenntnis und belehrt ihn über die Möglichkeit der Eintragung in das Schuldnerverzeichnis (§ 882c).
 
 (2) Anstelle der Zuleitung eines Ausdrucks kann dem Gläubiger auf Antrag das Vermögensverzeichnis als elektronisches Dokument übermittelt werden, wenn dieses mit einer qualifizierten elektronischen Signatur versehen und gegen unbefugte Kenntnisnahme geschützt ist.
 
@@ -7474,7 +7574,7 @@ Sachen, die nach § 811 Abs. 1 Nr. 1 und 2 der Pfändung offensichtlich nicht un
 
 ### § 802f Verfahren zur Abnahme der Vermögensauskunft
 
-(1) Zur Abnahme der Vermögensauskunft setzt der Gerichtsvollzieher dem Schuldner für die Begleichung der Forderung eine Frist von zwei Wochen. Zugleich bestimmt er für den Fall, dass die Forderung nach Fristablauf nicht vollständig beglichen ist, einen Termin zur Abgabe der Vermögensauskunft alsbald nach Fristablauf und lädt den Schuldner zu diesem Termin in seine Geschäftsräume. Der Schuldner hat die zur Abgabe der Vermögensauskunft erforderlichen Unterlagen im Termin beizubringen.
+(1) Zur Abnahme der Vermögensauskunft setzt der Gerichtsvollzieher dem Schuldner für die Begleichung der Forderung eine Frist von zwei Wochen. Zugleich bestimmt er für den Fall, dass die Forderung nach Fristablauf nicht vollständig beglichen ist, einen Termin zur Abgabe der Vermögensauskunft alsbald nach Fristablauf und lädt den Schuldner zu diesem Termin in seine Geschäftsräume. Der Schuldner hat die zur Abgabe der Vermögensauskunft erforderlichen Unterlagen im Termin beizubringen. Der Fristsetzung nach Satz 1 bedarf es nicht, wenn der Gerichtsvollzieher den Schuldner bereits zuvor zur Zahlung aufgefordert hat und seit dieser Aufforderung zwei Wochen verstrichen sind, ohne dass die Aufforderung Erfolg hatte.
 
 (2) Abweichend von Absatz 1 kann der Gerichtsvollzieher bestimmen, dass die Abgabe der Vermögensauskunft in der Wohnung des Schuldners stattfindet. Der Schuldner kann dieser Bestimmung binnen einer Woche gegenüber dem Gerichtsvollzieher widersprechen. Andernfalls gilt der Termin als pflichtwidrig versäumt, wenn der Schuldner in diesem Termin aus Gründen, die er zu vertreten hat, die Vermögensauskunft nicht abgibt.
 
@@ -7482,7 +7582,7 @@ Sachen, die nach § 811 Abs. 1 Nr. 1 und 2 der Pfändung offensichtlich nicht un
 
 (4) Zahlungsaufforderungen, Ladungen, Bestimmungen und Belehrungen nach den Absätzen 1 bis 3 sind dem Schuldner zuzustellen, auch wenn dieser einen Prozessbevollmächtigten bestellt hat; einer Mitteilung an den Prozessbevollmächtigten bedarf es nicht. Dem Gläubiger ist die Terminsbestimmung nach Maßgabe des § 357 Abs. 2 mitzuteilen.
 
-(5) Der Gerichtsvollzieher errichtet eine Aufstellung mit den nach § 802c Absatz 1 und 2 erforderlichen Angaben als elektronisches Dokument (Vermögensverzeichnis). Diese Angaben sind dem Schuldner vor Abgabe der Versicherung nach § 802c Abs. 3 vorzulesen oder zur Durchsicht auf einem Bildschirm wiederzugeben. Dem Schuldner ist auf Verlangen ein Ausdruck zu erteilen.
+(5) Der Gerichtsvollzieher errichtet in einem elektronischen Dokument eine Aufstellung mit den nach § 802c Absatz 1 und 2 erforderlichen Angaben (Vermögensverzeichnis). Diese Angaben sind dem Schuldner vor Abgabe der Versicherung nach § 802c Abs. 3 vorzulesen oder zur Durchsicht auf einem Bildschirm wiederzugeben. Dem Schuldner ist auf Verlangen ein Ausdruck zu erteilen.
 
 (6) Der Gerichtsvollzieher hinterlegt das Vermögensverzeichnis bei dem zentralen Vollstreckungsgericht nach § 802k Abs. 1 und leitet dem Gläubiger unverzüglich einen Ausdruck zu. Der Ausdruck muss den Vermerk enthalten, dass er mit dem Inhalt des Vermögensverzeichnisses übereinstimmt; § 802d Abs. 1 Satz 3 und Abs. 2 gilt entsprechend.
 
@@ -7490,7 +7590,7 @@ Sachen, die nach § 811 Abs. 1 Nr. 1 und 2 der Pfändung offensichtlich nicht un
 
 (1) Auf Antrag des Gläubigers erlässt das Gericht gegen den Schuldner, der dem Termin zur Abgabe der Vermögensauskunft unentschuldigt fernbleibt oder die Abgabe der Vermögensauskunft gemäß § 802c ohne Grund verweigert, zur Erzwingung der Abgabe einen Haftbefehl. In dem Haftbefehl sind der Gläubiger, der Schuldner und der Grund der Verhaftung zu bezeichnen. Einer Zustellung des Haftbefehls vor seiner Vollziehung bedarf es nicht.
 
-(2) Die Verhaftung des Schuldners erfolgt durch einen Gerichtsvollzieher. Dem Schuldner ist der Haftbefehl bei der Verhaftung in beglaubigter Abschrift zu übergeben.
+(2) Die Verhaftung des Schuldners erfolgt durch einen Gerichtsvollzieher. Der Gerichtsvollzieher händigt dem Schuldner von Amts wegen bei der Verhaftung eine beglaubigte Abschrift des Haftbefehls aus.
 
 ### § 802h Unzulässigkeit der Haftvollstreckung
 
@@ -7560,11 +7660,15 @@ das Bundeszentralamt für Steuern ersuchen, bei den Kreditinstituten die in § 9
 3.  
 beim Kraftfahrt-Bundesamt die Fahrzeug- und Halterdaten nach § 33 Abs. 1 des Straßenverkehrsgesetzes zu einem Fahrzeug, als dessen Halter der Schuldner eingetragen ist, erheben.
 
-Die Erhebung oder das Ersuchen ist nur zulässig, soweit dies zur Vollstreckung erforderlich ist und die zu vollstreckenden Ansprüche mindestens 500 Euro betragen; Kosten der Zwangsvollstreckung und Nebenforderungen sind bei der Berechnung nur zu berücksichtigen, wenn sie allein Gegenstand des Vollstreckungsauftrags sind.
+Die Erhebung oder das Ersuchen ist nur zulässig, soweit dies zur Vollstreckung erforderlich ist.
 
 (2) Daten, die für die Zwecke der Vollstreckung nicht erforderlich sind, hat der Gerichtsvollzieher unverzüglich zu löschen oder zu sperren. Die Löschung ist zu protokollieren.
 
 (3) Über das Ergebnis einer Erhebung oder eines Ersuchens nach Absatz 1 setzt der Gerichtsvollzieher den Gläubiger unter Beachtung des Absatzes 2 unverzüglich und den Schuldner innerhalb von vier Wochen nach Erhalt in Kenntnis. § 802d Abs. 1 Satz 3 und Abs. 2 gilt entsprechend.
+
+(4) Nach Absatz 1 Satz 1 erhobene Daten, die innerhalb der letzten drei Monate bei dem Gerichtsvollzieher eingegangen sind, darf dieser auch einem weiteren Gläubiger übermitteln, wenn die Voraussetzungen für die Datenerhebung auch bei diesem Gläubiger vorliegen. Der Gerichtsvollzieher hat dem weiteren Gläubiger die Tatsache, dass die Daten in einem anderen Verfahren erhoben wurden, und den Zeitpunkt ihres Eingangs bei ihm mitzuteilen. Eine erneute Auskunft ist auf Antrag des weiteren Gläubigers einzuholen, wenn Anhaltspunkte dafür vorliegen, dass seit dem Eingang der Auskunft eine Änderung der Vermögensverhältnisse, über die nach Absatz 1 Satz 1 Auskunft eingeholt wurde, eingetreten ist.
+
+(5) Übermittelt der Gerichtsvollzieher Daten nach Absatz 4 Satz 1 an einen weiteren Gläubiger, so hat er den Schuldner davon innerhalb von vier Wochen nach der Übermittlung in Kenntnis zu setzen; § 802d Absatz 1 Satz 3 und Absatz 2 gilt entsprechend.
 
 Titel 2 Zwangsvollstreckung in das bewegliche Vermögen
 ------------------------------------------------------
@@ -7891,7 +7995,7 @@ Untertitel 3 Zwangsvollstreckung in Forderungen und andere Vermögensrechte
 
 (1) Soll eine Geldforderung gepfändet werden, so hat das Gericht dem Drittschuldner zu verbieten, an den Schuldner zu zahlen. Zugleich hat das Gericht an den Schuldner das Gebot zu erlassen, sich jeder Verfügung über die Forderung, insbesondere ihrer Einziehung, zu enthalten. Die Pfändung mehrerer Geldforderungen gegen verschiedene Drittschuldner soll auf Antrag des Gläubigers durch einheitlichen Beschluss ausgesprochen werden, soweit dies für Zwecke der Vollstreckung geboten erscheint und kein Grund zu der Annahme besteht, dass schutzwürdige Interessen der Drittschuldner entgegenstehen.
 
-(2) Der Gläubiger hat den Beschluss dem Drittschuldner zustellen zu lassen. Der Gerichtsvollzieher hat den Beschluss mit einer Abschrift der Zustellungsurkunde dem Schuldner sofort zuzustellen, sofern nicht eine öffentliche Zustellung erforderlich wird. An Stelle einer an den Schuldner im Ausland zu bewirkenden Zustellung erfolgt die Zustellung durch Aufgabe zur Post.
+(2) Der Gläubiger hat den Beschluss dem Drittschuldner zustellen zu lassen. Der Gerichtsvollzieher hat den Beschluss mit einer Abschrift der Zustellungsurkunde dem Schuldner sofort zuzustellen, sofern nicht eine öffentliche Zustellung erforderlich wird. An Stelle einer an den Schuldner im Ausland zu bewirkenden Zustellung erfolgt die Zustellung durch Aufgabe zur Post, sofern die Zustellung weder nach der Verordnung (EG) Nr. 1393/2007 noch nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- und Handelssachen vom 19. Oktober 2005 (ABl. L 300 vom 17.11.2005, S. 55, L 120 vom 5.5.2006, S. 23) zu bewirken ist.
 
 (3) Mit der Zustellung des Beschlusses an den Drittschuldner ist die Pfändung als bewirkt anzusehen.
 
@@ -7902,7 +8006,7 @@ Untertitel 3 Zwangsvollstreckung in Forderungen und andere Vermögensrechte
 (1) Im Fall eines elektronischen Antrags zur Zwangsvollstreckung aus einem Vollstreckungsbescheid, der einer Vollstreckungsklausel nicht bedarf, ist bei Pfändung und Überweisung einer Geldforderung (§§ 829, 835) die Übermittlung der Ausfertigung des Vollstreckungsbescheides entbehrlich, wenn
 
 1.  
-die sich aus dem Vollstreckungsbescheid ergebende fällige Geldforderung nicht mehr als 5 000 Euro beträgt; Kosten der Zwangsvollstreckung und Nebenforderungen sind bei der Berechnung der Forderungshöhe nur zu berücksichtigen, wenn sie allein Gegenstand des Vollstreckungsantrags sind;
+die sich aus dem Vollstreckungsbescheid ergebende fällige Geldforderung einschließlich titulierter Nebenforderungen und Kosten nicht mehr als 5 000 Euro beträgt; Kosten der Zwangsvollstreckung sind bei der Berechnung der Forderungshöhe nur zu berücksichtigen, wenn sie allein Gegenstand des Vollstreckungsantrags sind;
 
 2.  
 die Vorlage anderer Urkunden als der Ausfertigung des Vollstreckungsbescheides nicht vorgeschrieben ist;
@@ -8044,7 +8148,7 @@ Der Gläubiger kann auf die durch Pfändung und Überweisung zur Einziehung erwo
 
 ### § 845 Vorpfändung
 
-(1) Schon vor der Pfändung kann der Gläubiger auf Grund eines vollstreckbaren Schuldtitels durch den Gerichtsvollzieher dem Drittschuldner und dem Schuldner die Benachrichtigung, dass die Pfändung bevorstehe, zustellen lassen mit der Aufforderung an den Drittschuldner, nicht an den Schuldner zu zahlen, und mit der Aufforderung an den Schuldner, sich jeder Verfügung über die Forderung, insbesondere ihrer Einziehung, zu enthalten. Der Gerichtsvollzieher hat die Benachrichtigung mit den Aufforderungen selbst anzufertigen, wenn er von dem Gläubiger hierzu ausdrücklich beauftragt worden ist. An Stelle einer an den Schuldner im Ausland zu bewirkenden Zustellung erfolgt die Zustellung durch Aufgabe zur Post.
+(1) Schon vor der Pfändung kann der Gläubiger auf Grund eines vollstreckbaren Schuldtitels durch den Gerichtsvollzieher dem Drittschuldner und dem Schuldner die Benachrichtigung, dass die Pfändung bevorstehe, zustellen lassen mit der Aufforderung an den Drittschuldner, nicht an den Schuldner zu zahlen, und mit der Aufforderung an den Schuldner, sich jeder Verfügung über die Forderung, insbesondere ihrer Einziehung, zu enthalten. Der Gerichtsvollzieher hat die Benachrichtigung mit den Aufforderungen selbst anzufertigen, wenn er von dem Gläubiger hierzu ausdrücklich beauftragt worden ist. An Stelle einer an den Schuldner im Ausland zu bewirkenden Zustellung erfolgt die Zustellung durch Aufgabe zur Post, sofern die Zustellung weder nach der Verordnung (EG) Nr. 1393/2007 noch nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- und Handelssachen zu bewirken ist.
 
 (2) Die Benachrichtigung an den Drittschuldner hat die Wirkung eines Arrestes (§ 930), sofern die Pfändung der Forderung innerhalb eines Monats bewirkt wird. Die Frist beginnt mit dem Tag, an dem die Benachrichtigung zugestellt ist.
 
@@ -8230,7 +8334,7 @@ Trifft eine Pfändung, eine Abtretung oder eine sonstige Verfügung wegen eines 
 (1) Das Vollstreckungsgericht kann dem Schuldner auf Antrag von dem nach den Bestimmungen der §§ 850c, 850d und 850i pfändbaren Teil seines Arbeitseinkommens einen Teil belassen, wenn
 
 a)  
-der Schuldner nachweist, dass bei Anwendung der Pfändungsfreigrenzen entsprechend der Anlage zu diesem Gesetz (zu § 850c) der notwendige Lebensunterhalt im Sinne des Dritten und Elften Kapitels des Zwölften Buches Sozialgesetzbuch oder nach Kapitel 3 Abschnitt 2 des Zweiten Buches Sozialgesetzbuch für sich und für die Personen, denen er Unterhalt zu gewähren hat, nicht gedeckt ist,
+der Schuldner nachweist, dass bei Anwendung der Pfändungsfreigrenzen entsprechend der Anlage zu diesem Gesetz (zu § 850c) der notwendige Lebensunterhalt im Sinne des Dritten, Vierten und Elften Kapitels des Zwölften Buches Sozialgesetzbuch oder nach Kapitel 3 Abschnitt 2 des Zweiten Buches Sozialgesetzbuch für sich und für die Personen, denen er Unterhalt zu gewähren hat, nicht gedeckt ist,
 
 b)  
 besondere Bedürfnisse des Schuldners aus persönlichen oder beruflichen Gründen oder
@@ -8279,7 +8383,7 @@ a)
 der Schuldner einer oder mehreren Personen aufgrund gesetzlicher Verpflichtung Unterhalt gewährt oder
 
 b)  
-der Schuldner Geldleistungen nach dem Zweiten oder Zwölften Buch Sozialgesetzbuch für mit ihm in einer Gemeinschaft im Sinne des § 7 Abs. 3 des Zweiten Buches Sozialgesetzbuch oder der §§ 19, 20, 36 Satz 1 oder 43 des Zwölften Buches Sozialgesetzbuch lebende Personen, denen er nicht aufgrund gesetzlicher Vorschriften zum Unterhalt verpflichtet ist, entgegennimmt;
+der Schuldner Geldleistungen nach dem Zweiten oder Zwölften Buch Sozialgesetzbuch für mit ihm in einer Gemeinschaft im Sinne des § 7 Abs. 3 des Zweiten Buches Sozialgesetzbuch oder der §§ 19, 20, 39 Satz 1 oder 43 des Zwölften Buches Sozialgesetzbuch lebende Personen, denen er nicht aufgrund gesetzlicher Vorschriften zum Unterhalt verpflichtet ist, entgegennimmt;
 
 2.  
 einmalige Geldleistungen im Sinne des § 54 Abs. 2 des Ersten Buches Sozialgesetzbuch und Geldleistungen zum Ausgleich des durch einen Körper- oder Gesundheitsschaden bedingten Mehraufwandes im Sinne des § 54 Abs. 3 Nr. 3 des Ersten Buches Sozialgesetzbuch;
@@ -8638,13 +8742,15 @@ eine Vollstreckung nach dem Inhalt des Vermögensverzeichnisses offensichtlich n
 3.  
 der Schuldner dem Gerichtsvollzieher nicht innerhalb eines Monats nach Abgabe der Vermögensauskunft oder Bekanntgabe der Zuleitung nach § 802d Abs. 1 Satz 2 die vollständige Befriedigung des Gläubigers nachweist, auf dessen Antrag die Vermögensauskunft erteilt oder dem die erteilte Auskunft zugeleitet wurde. Dies gilt nicht, solange ein Zahlungsplan nach § 802b festgesetzt und nicht hinfällig ist.
 
-(2) Die Eintragungsanordnung soll kurz begründet werden. Sie ist dem Schuldner zuzustellen, soweit sie ihm nicht mündlich bekannt gegeben und in das Protokoll aufgenommen wird (§ 763).
+Die Anordnung der Eintragung des Schuldners in das Schuldnerverzeichnis ist Teil des Vollstreckungsverfahrens.
 
-(3) Die Eintragungsanordnung hat die in § 882b Abs. 2 und 3 genannten Daten zu enthalten. Sind dem Gerichtsvollzieher die nach § 882b Abs. 2 Nr. 1 bis 3 im Schuldnerverzeichnis anzugebenden Daten nicht bekannt, holt er Auskünfte bei den in § 755 Abs. 1 und 2 Satz 1 Nr. 1 genannten Stellen ein oder sieht das Handelsregister ein, um die erforderlichen Daten zu beschaffen.
+(2) Die Eintragungsanordnung soll kurz begründet werden. Der Gerichtsvollzieher stellt sie dem Schuldner von Amts wegen zu, soweit sie ihm nicht mündlich bekannt gegeben und in das Protokoll aufgenommen wird (§ 763 Absatz 1). Über die Bewilligung der öffentlichen Zustellung entscheidet abweichend von § 186 Absatz 1 Satz 1 der Gerichtsvollzieher.
+
+(3) Die Eintragungsanordnung hat die in § 882b Abs. 2 und 3 genannten Daten zu enthalten. Sind dem Gerichtsvollzieher die nach § 882b Abs. 2 Nr. 1 bis 3 im Schuldnerverzeichnis anzugebenden Daten nicht bekannt, holt er Auskünfte bei den in § 755 Abs. 1 und 2 Satz 1 Nr. 1 genannten Stellen ein, um die erforderlichen Daten zu beschaffen.
 
 ### § 882d Vollziehung der Eintragungsanordnung
 
-(1) Gegen die Eintragungsanordnung nach § 882c kann der Schuldner binnen zwei Wochen seit Bekanntgabe Widerspruch beim zuständigen Vollstreckungsgericht einlegen. Der Widerspruch hemmt nicht die Vollziehung. Nach Ablauf der Frist des Satzes 1 übermittelt der Gerichtsvollzieher die Anordnung unverzüglich elektronisch dem zentralen Vollstreckungsgericht nach § 882h Abs. 1. Dieses veranlasst die Eintragung des Schuldners.
+(1) Gegen die Eintragungsanordnung nach § 882c kann der Schuldner binnen zwei Wochen seit Bekanntgabe Widerspruch beim zuständigen Vollstreckungsgericht einlegen. Der Widerspruch hemmt nicht die Vollziehung. Nach Ablauf der Frist des Satzes 1 übermittelt der Gerichtsvollzieher die Anordnung unverzüglich elektronisch dem zentralen Vollstreckungsgericht nach § 882h Abs. 1. Dieses veranlasst die Eintragung des Schuldners. Wird dem Gerichtsvollzieher vor der Übermittlung der Anordnung nach Satz 3 bekannt, dass die Voraussetzungen für die Eintragung nicht oder nicht mehr vorliegen, hebt er die Anordnung auf und unterrichtet den Schuldner hierüber.
 
 (2) Auf Antrag des Schuldners kann das Vollstreckungsgericht anordnen, dass die Eintragung einstweilen ausgesetzt wird. Das zentrale Vollstreckungsgericht nach § 882h Abs. 1 hat von einer Eintragung abzusehen, wenn ihm die Ausfertigung einer vollstreckbaren Entscheidung vorgelegt wird, aus der sich ergibt, dass die Eintragungsanordnung einstweilen ausgesetzt ist.
 
@@ -8671,7 +8777,7 @@ die Ausfertigung einer vollstreckbaren Entscheidung vorgelegt wird, aus der sich
 
 ### § 882f Einsicht in das Schuldnerverzeichnis
 
-Die Einsicht in das Schuldnerverzeichnis ist jedem gestattet, der darlegt, Angaben nach § 882b zu benötigen:
+(1) Die Einsicht in das Schuldnerverzeichnis ist jedem gestattet, der darlegt, Angaben nach § 882b zu benötigen:
 
 1.  
 für Zwecke der Zwangsvollstreckung;
@@ -8689,7 +8795,10 @@ um wirtschaftliche Nachteile abzuwenden, die daraus entstehen können, dass Schu
 für Zwecke der Strafverfolgung und der Strafvollstreckung;
 
 6.  
-zur Auskunft über ihn selbst betreffende Eintragungen.
+zur Auskunft über ihn selbst betreffende Eintragungen;
+
+7.  
+für Zwecke der Dienstaufsicht über Justizbedienstete, die mit dem Schuldnerverzeichnis befasst sind.
 
 Die Informationen dürfen nur für den Zweck verwendet werden, für den sie übermittelt worden sind; sie sind nach Zweckerreichung zu löschen. Nichtöffentliche Stellen sind darauf bei der Übermittlung hinzuweisen.
 
@@ -9099,7 +9208,133 @@ Erweist sich die Anordnung eines Arrestes oder einer einstweiligen Verfügung al
 
 Das Bundesministerium der Justiz und für Verbraucherschutz hat durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Bestimmungen über die Einrichtung und Führung des Registers, über die Einreichung von Schutzschriften zum Register, über den Abruf von Schutzschriften aus dem Register sowie über die Einzelheiten der Datenübermittlung und -speicherung sowie der Datensicherheit und der Barrierefreiheit zu treffen.
 
-### (XXXX) §§ 946 bis 1024 (weggefallen)
+Abschnitt 6 Grenzüberschreitende vorläufige Kontenpfändung
+----------------------------------------------------------
+
+### 
+
+Titel 1 Erlass des Beschlusses zur vorläufigen Kontenpfändung
+-------------------------------------------------------------
+
+### 
+
+### § 946 Zuständigkeit
+
+(1) Für den Erlass des Beschlusses zur vorläufigen Kontenpfändung nach der Verordnung (EU) Nr. 655/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 zur Einführung eines Verfahrens für einen Europäischen Beschluss zur vorläufigen Kontenpfändung im Hinblick auf die Erleichterung der grenzüberschreitenden Eintreibung von Forderungen in Zivil- und Handelssachen (ABl. L 189 vom 27.6.2014, S. 59) ist das Gericht der Hauptsache zuständig. Die §§ 943 und 944 gelten entsprechend.
+
+(2) Hat der Gläubiger bereits eine öffentliche Urkunde (Artikel 4 Nummer 10 der Verordnung (EU) Nr. 655/2014) erwirkt, in der der Schuldner verpflichtet wird, die Forderung zu erfüllen, ist das Gericht zuständig, in dessen Bezirk die Urkunde errichtet worden ist.
+
+### § 947 Verfahren
+
+(1) Der Gläubiger kann sich in dem Verfahren auf Erlass des Beschlusses zur vorläufigen Kontenpfändung aller Beweismittel sowie der Versicherung an Eides statt bedienen. Nur eine Beweisaufnahme, die sofort erfolgen kann, ist statthaft.
+
+(2) Das Gericht darf die ihm nach Artikel 14 Absatz 6 der Verordnung (EU) Nr. 655/2014 übermittelten Kontoinformationen für die Zwecke des jeweiligen Verfahrens auf Erlass eines Beschlusses zur vorläufigen Kontenpfändung speichern, übermitteln und nutzen. Soweit übermittelte Kontoinformationen für den Erlass des Beschlusses zur vorläufigen Kontenpfändung nicht erforderlich sind, sind sie unverzüglich zu sperren oder zu löschen. Die Löschung ist zu protokollieren. § 802d Absatz 1 Satz 3 gilt entsprechend.
+
+### § 948 Ersuchen um Einholung von Kontoinformationen
+
+(1) Zuständige Auskunftsbehörde gemäß Artikel 14 der Verordnung (EU) Nr. 655/2014 für die Einholung von Kontoinformationen ist das Bundesamt für Justiz.
+
+(2) Zum Zweck der Einholung von Kontoinformationen nach Artikel 14 der Verordnung (EU) Nr. 655/2014 darf das Bundesamt für Justiz das Bundeszentralamt für Steuern ersuchen, bei den Kreditinstituten die in § 93b Absatz 1 der Abgabenordnung bezeichneten Daten abzurufen (§ 93 Absatz 8 der Abgabenordnung).
+
+(3) Das Bundesamt für Justiz protokolliert die eingehenden Ersuchen um Einholung von Kontoinformationen gemäß Artikel 14 der Verordnung (EU) Nr. 655/2014. Zu protokollieren sind ebenfalls die Bezeichnung der ersuchenden Stelle eines anderen Mitgliedstaates der Europäischen Union, der Abruf der in § 93b Absatz 1 der Abgabenordnung bezeichneten Daten und der Zeitpunkt des Eingangs dieser Daten sowie die Weiterleitung der eingegangenen Daten an die ersuchende Stelle. Das Bundesamt für Justiz löscht den Inhalt der eingeholten Kontoinformationen unverzüglich nach deren Übermittlung an die ersuchende Stelle; die Löschung ist zu protokollieren.
+
+### § 949 Nicht rechtzeitige Einleitung des Hauptsacheverfahrens
+
+(1) Ein im Inland erlassener Beschluss zur vorläufigen Kontenpfändung wird nach Artikel 10 Absatz 2 Unterabsatz 1 der Verordnung (EU) Nr. 655/2014 durch Beschluss widerrufen.
+
+(2) Zuständige Stelle, an die gemäß Artikel 10 Absatz 2 Unterabsatz 3 der Verordnung (EU) Nr. 655/2014 das Widerrufsformblatt zu übermitteln ist, ist das Amtsgericht, in dessen Bezirk das Vollstreckungsverfahren stattfinden soll oder stattgefunden hat. Ist ein in einem anderen Mitgliedstaat der Europäischen Union erlassener Beschluss zur vorläufigen Kontenpfändung im Inland zu vollziehen, hat das Amtsgericht nach Satz 1 den Beschluss, durch den das Gericht den Beschluss zur vorläufigen Kontenpfändung widerrufen hat, der Bank im Sinne des Artikels 4 Nummer 2 der Verordnung (EU) Nr. 655/2014 zuzustellen.
+
+Titel 2 Vollziehung des Beschlusses zur vorläufigen Kontenpfändung
+------------------------------------------------------------------
+
+### 
+
+### § 950 Anwendbare Vorschriften
+
+Auf die Vollziehung des Beschlusses zur vorläufigen Kontenpfändung sind die Vorschriften des Achten Buchs über die Zwangsvollstreckung sowie § 930 Absatz 1 Satz 2 entsprechend anzuwenden, soweit die Verordnung (EU) Nr. 655/2014 und die §§ 951 bis 957 keine abweichenden Vorschriften enthalten.
+
+### § 951 Vollziehung von im Inland erlassenen Beschlüssen
+
+(1) Ist ein im Inland erlassener Beschluss zur vorläufigen Kontenpfändung im Inland zu vollziehen, hat der Gläubiger, der seinen Wohnsitz in einem anderen Mitgliedstaat der Europäischen Union hat, den Beschluss der Bank zustellen zu lassen. Ist der Beschluss in einem anderen Mitgliedstaat der Europäischen Union zu vollziehen, hat der Gläubiger die Zustellung gemäß Artikel 23 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 655/2014 an die Bank zu veranlassen.
+
+(2) Das Gericht, das den Beschluss erlassen hat, lässt dem Schuldner den Beschluss nach Artikel 28 der Verordnung (EU) Nr. 655/2014 zustellen; diese Zustellung gilt als Zustellung auf Betreiben des Gläubigers (§ 191). Eine Übersetzung oder Transliteration, die nach Artikel 28 Absatz 5 in Verbindung mit Artikel 49 Absatz 1 der Verordnung (EU) Nr. 655/2014 erforderlich ist, hat der Gläubiger bereitzustellen.
+
+### § 952 Vollziehung von in einem anderen Mitgliedstaat erlassenen Beschlüssen
+
+(1) Zuständige Stelle ist
+
+1.  
+in den in Artikel 23 Absatz 3, 5 und 6, Artikel 25 Absatz 3 und Artikel 27 Absatz 2 der Verordnung (EU) Nr. 655/2014 bezeichneten Fällen das Amtsgericht, in dessen Bezirk das Vollstreckungsverfahren stattfinden soll oder stattgefunden hat,
+
+2.  
+in den in Artikel 28 Absatz 3 der Verordnung (EU) Nr. 655/2014 bezeichneten Fällen das Amtsgericht, in dessen Bezirk der Schuldner seinen Wohnsitz hat.
+
+(2) Das nach Absatz 1 Nummer 1 zuständige Amtsgericht hat
+
+1.  
+in den in Artikel 23 Absatz 3 der Verordnung (EU) Nr. 655/2014 bezeichneten Fällen der Bank den Beschluss zur vorläufigen Kontenpfändung zuzustellen,
+
+2.  
+in den in Artikel 27 Absatz 2 der Verordnung (EU) Nr. 655/2014 bezeichneten Fällen der Bank die Freigabeerklärung des Gläubigers zuzustellen.
+
+Titel 3 Rechtsbehelfe
+---------------------
+
+### 
+
+### § 953 Rechtsbehelfe des Gläubigers
+
+(1) Gegen die Ablehnung des Antrags auf Erlass eines Beschlusses zur vorläufigen Kontenpfändung und gegen den Widerruf des Beschlusses zur vorläufigen Kontenpfändung (§ 949 Absatz 1), soweit sie durch das Gericht des ersten Rechtszuges erfolgt sind, findet die sofortige Beschwerde statt.
+
+(2) Die in Artikel 21 Absatz 2 Satz 1 der Verordnung (EU) Nr. 655/2014 bezeichnete Frist von 30 Tagen für die Einlegung des Rechtsbehelfs beginnt mit der Zustellung der Entscheidung an den Gläubiger. Dies gilt auch in den Fällen des § 321a Absatz 2 für die Ablehnung des Antrags auf Erlass des Beschlusses durch das Berufungsgericht.
+
+(3) Die sofortige Beschwerde gegen den Widerruf des Beschlusses zur vorläufigen Kontenpfändung ist innerhalb einer Notfrist von einem Monat ab Zustellung einzulegen.
+
+### § 954 Rechtsbehelfe nach den Artikeln 33 bis 35 der Verordnung (EU) Nr. 655/2014
+
+(1) Über den Rechtsbehelf des Schuldners gegen einen im Inland erlassenen Beschluss zur vorläufigen Kontenpfändung nach Artikel 33 Absatz 1 der Verordnung (EU) Nr. 655/2014 (Widerspruch) entscheidet das Gericht, das den Beschluss erlassen hat. Die Entscheidung ergeht durch Beschluss. Die Sätze 1 und 2 gelten entsprechend für den Widerspruch des Schuldners gemäß Artikel 33 Absatz 2 der Verordnung (EU) Nr. 655/2014 gegen die Entscheidung nach Artikel 12 der Verordnung (EU) Nr. 655/2014.
+
+(2) Über den Rechtsbehelf des Schuldners wegen Einwendungen gegen die Vollziehung eines Beschlusses zur vorläufigen Kontenpfändung im Inland nach Artikel 34 der Verordnung (EU) Nr. 655/2014 entscheidet das Vollstreckungsgericht (§ 764 Absatz 2). Für den Antrag nach Artikel 34 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 655/2014 gelten § 850k Absatz 4 und § 850l entsprechend.
+
+(3) Über Rechtsbehelfe, die nach Artikel 35 Absatz 3 und 4 der Verordnung (EU) Nr. 655/2014 im Vollstreckungsmitgliedstaat eingelegt werden, entscheidet ebenfalls das Vollstreckungsgericht. Sofern nach Artikel 35 der Verordnung (EU) Nr. 655/2014 das Gericht zuständig ist, das den Beschluss zur vorläufigen Kontenpfändung erlassen hat, ergeht die Entscheidung durch Beschluss.
+
+(4) Zuständige Stelle ist in den Fällen des Artikels 36 Absatz 5 Unterabsatz 2 der Verordnung (EU) Nr. 655/2014 das Amtsgericht, in dessen Bezirk das Vollstreckungsverfahren stattfinden soll oder stattgefunden hat. Dieses hat den Beschluss der Bank zuzustellen.
+
+### § 955 Sicherheitsleistung nach Artikel 38 der Verordnung (EU) Nr. 655/2014
+
+Für die Entscheidung über Anträge des Schuldners auf Beendigung der Vollstreckung wegen erbrachter Sicherheitsleistung nach Artikel 38 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 655/2014 ist das Vollstreckungsgericht zuständig. Die Entscheidung nach Artikel 38 Absatz 1 der Verordnung (EU) Nr. 655/2014 ergeht durch Beschluss.
+
+### § 956 Rechtsmittel gegen die Entscheidungen nach § 954 Absatz 1 bis 3 und § 955
+
+(1) Gegen die Entscheidungen des Vollstreckungsgerichts nach § 954 Absatz 2 und 3 Satz 1 sowie nach § 955 Satz 1 findet die sofortige Beschwerde statt. Dies gilt auch für Entscheidungen des Gerichts des ersten Rechtszugs in den Fällen des § 954 Absatz 1 und 3 Satz 2 sowie des § 955 Satz 2.
+
+(2) Die sofortige Beschwerde ist innerhalb einer Notfrist von einem Monat ab Zustellung der Entscheidung einzulegen.
+
+### § 957 Ausschluss der Rechtsbeschwerde
+
+In Verfahren zur grenzüberschreitenden vorläufigen Kontenpfändung nach der Verordnung (EU) Nr. 655/2014 findet die Rechtsbeschwerde nicht statt.
+
+Titel 4 Schadensersatz; Verordnungsermächtigung
+-----------------------------------------------
+
+### 
+
+### § 958 Schadensersatz
+
+Erweist sich die Anordnung eines Beschlusses zur vorläufigen Kontenpfändung, der im Inland vollzogen worden ist, als von Anfang an ungerechtfertigt, so ist der Gläubiger verpflichtet, dem Schuldner den Schaden zu ersetzen, der ihm aus der Vollziehung des Beschlusses oder dadurch entsteht, dass er Sicherheit leistet, um die Freigabe der vorläufig gepfändeten Gelder oder die Beendigung der Vollstreckung zu erwirken. Im Übrigen richtet sich die Haftung des Gläubigers gegenüber dem Schuldner nach Artikel 13 Absatz 1 und 2 der Verordnung (EU) Nr. 655/2014.
+
+### § 959 Verordnungsermächtigung
+
+(1) Die Landesregierungen können die Aufgaben nach Artikel 10 Absatz 2, Artikel 23 Absatz 3, 5 und 6, Artikel 25 Absatz 3, Artikel 27 Absatz 2, Artikel 28 Absatz 3 sowie Artikel 36 Absatz 5 Unterabsatz 2 und 3 der Verordnung (EU) Nr. 655/2014 einem Amtsgericht für die Bezirke mehrerer Amtsgerichte durch Rechtsverordnung zuweisen.
+
+(2) Die Landesregierungen können die Ermächtigung nach Absatz 1 durch Rechtsverordnung einer obersten Landesbehörde übertragen.
+
+Buch 9 (weggefallen)
+--------------------
+
+### 
+
+### (XXXX) §§ 960 bis 1024 (weggefallen)
 
 Buch 10 Schiedsrichterliches Verfahren
 --------------------------------------
@@ -9552,15 +9787,17 @@ Abschnitt 1 Zustellung nach der Verordnung (EG) Nr. 1393/2007
 
 ### § 1067 Zustellung durch diplomatische oder konsularische Vertretungen
 
-Eine Zustellung nach Artikel 13 der Verordnung (EG) Nr. 1393/2007, die in der Bundesrepublik Deutschland bewirkt werden soll, ist nur zulässig, wenn der Adressat des zuzustellenden Schriftstücks Staatsangehöriger des Übermittlungsstaats ist.
+(1) Eine Zustellung nach Artikel 13 der Verordnung (EG) Nr. 1393/2007 durch eine deutsche Auslandsvertretung an eine Person, die nicht die deutsche Staatsangehörigkeit besitzt, wird nur vorgenommen, sofern der Mitgliedstaat, in dem die Zustellung erfolgen soll, dies nicht durch eine Erklärung nach Artikel 23 Absatz 1 der Verordnung (EG) Nr. 1393/2007 ausgeschlossen hat.
+
+(2) Eine Zustellung nach Artikel 13 der Verordnung (EG) Nr. 1393/2007, die in der Bundesrepublik Deutschland bewirkt werden soll, ist nur zulässig, wenn der Adressat des zuzustellenden Schriftstücks Staatsangehöriger des Übermittlungsstaats ist.
 
 ### § 1068 Zustellung durch die Post
 
 (1) Zum Nachweis der Zustellung nach Artikel 14 der Verordnung (EG) Nr. 1393/2007 genügt der Rückschein oder der gleichwertige Beleg.
 
-(2) Ein Schriftstück, dessen Zustellung eine deutsche Empfangsstelle im Rahmen von Artikel 7 Abs. 1 der Verordnung (EG) Nr. 1393/2007 zu bewirken oder zu veranlassen hat, kann ebenfalls durch Einschreiben mit Rückschein zugestellt werden.
+(2) Sofern die ausländische Übermittlungsstelle keine besondere, im deutschen Recht vorgesehene Form der Zustellung wünscht, kann ein Schriftstück, dessen Zustellung eine deutsche Empfangsstelle im Rahmen von Artikel 7 Absatz 1 der Verordnung (EG) Nr. 1393/2007 zu bewirken oder zu veranlassen hat, ebenfalls durch Einschreiben mit Rückschein zugestellt werden.
 
-### § 1069 Zuständigkeiten
+### § 1069 Zuständigkeiten; Verordnungsermächtigungen
 
 (1) Für Zustellungen im Ausland sind als deutsche Übermittlungsstelle im Sinne von Artikel 2 Abs. 1 der Verordnung (EG) Nr. 1393/2007 zuständig:
 
@@ -9570,15 +9807,15 @@ für gerichtliche Schriftstücke das die Zustellung betreibende Gericht und
 2.  
 für außergerichtliche Schriftstücke dasjenige Amtsgericht, in dessen Bezirk die Person, welche die Zustellung betreibt, ihren Wohnsitz oder gewöhnlichen Aufenthalt hat; bei notariellen Urkunden auch dasjenige Amtsgericht, in dessen Bezirk der beurkundende Notar seinen Amtssitz hat; bei juristischen Personen tritt an die Stelle des Wohnsitzes oder des gewöhnlichen Aufenthalts der Sitz; die Landesregierungen können die Aufgaben der Übermittlungsstelle einem Amtsgericht für die Bezirke mehrerer Amtsgerichte durch Rechtsverordnung zuweisen.
 
-(2) Für Zustellungen in der Bundesrepublik Deutschland ist als deutsche Empfangsstelle im Sinne von Artikel 2 Abs. 2 der Verordnung (EG) Nr. 1393/2007 dasjenige Amtsgericht zuständig, in dessen Bezirk das Schriftstück zugestellt werden soll. Die Landesregierungen können die Aufgaben der Empfangsstelle einem Amtsgericht für die Bezirke mehrerer Amtsgerichte durch Rechtsverordnung zuweisen.
+(2) Für Zustellungen in der Bundesrepublik Deutschland ist als deutsche Empfangsstelle im Sinne von Artikel 2 Abs. 2 der Verordnung (EG) Nr. 1393/2007 die Geschäftsstelle desjenigen Amtsgerichts zuständig, in dessen Bezirk das Schriftstück zugestellt werden soll. Die Landesregierungen können die Aufgaben der Empfangsstelle einem Amtsgericht für die Bezirke mehrerer Amtsgerichte durch Rechtsverordnung zuweisen.
 
 (3) Die Landesregierungen bestimmen durch Rechtsverordnung die Stelle, die in dem jeweiligen Land als deutsche Zentralstelle im Sinne von Artikel 3 Satz 1 der Verordnung (EG) Nr. 1393/2007 zuständig ist. Die Aufgaben der Zentralstelle können in jedem Land nur einer Stelle zugewiesen werden.
 
 (4) Die Landesregierungen können die Befugnis zum Erlass einer Rechtsverordnung nach Absatz 1 Nr. 2, Absatz 2 Satz 2 und Absatz 3 Satz 1 einer obersten Landesbehörde übertragen.
 
-### § 1070 (weggefallen)
+### § 1070 Zustellung nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen
 
--
+Wenn die Verordnung (EG) Nr. 1393/2007 im Verhältnis zu Dänemark auf Grund des Artikels 2 Absatz 1 des Abkommens zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen anwendbar ist, gelten die Vorschriften der §§ 1067 bis 1069 entsprechend.
 
 ### § 1071 (weggefallen)
 
@@ -9768,7 +10005,7 @@ Titel 2 Einspruch gegen den Europäischen Zahlungsbefehl
 
 ### § 1090 Verfahren nach Einspruch
 
-(1) Im Fall des Artikels 17 Abs. 1 der Verordnung (EG) Nr. 1896/2006 fordert das Gericht den Antragsteller mit der Mitteilung nach Artikel 17 Abs. 3 der Verordnung (EG) Nr. 1896/2006 auf, das Gericht zu bezeichnen, das für die Durchführung des streitigen Verfahrens zuständig ist. Das Gericht setzt dem Antragsteller hierfür eine nach den Umständen angemessene Frist und weist ihn darauf hin, dass dem für die Durchführung des streitigen Verfahrens bezeichneten Gericht die Prüfung seiner Zuständigkeit vorbehalten bleibt. Die Aufforderung ist dem Antragsgegner mitzuteilen.
+(1) Im Fall des Artikels 17 Abs. 1 der Verordnung (EG) Nr. 1896/2006 fordert das Gericht den Antragsteller mit der Mitteilung nach Artikel 17 Abs. 3 der Verordnung (EG) Nr. 1896/2006 auf, das Gericht zu bezeichnen, das für die Durchführung des streitigen Verfahrens zuständig ist. Das Gericht setzt dem Antragsteller hierfür eine nach den Umständen angemessene Frist und weist ihn darauf hin, dass dem für die Durchführung des streitigen Verfahrens bezeichneten Gericht die Prüfung seiner Zuständigkeit vorbehalten bleibt. Die Aufforderung ist dem Antragsgegner mitzuteilen. Für den Fall, dass der Antragsteller nicht innerhalb der ihm hierfür nach Satz 2 gesetzten Frist das für die Durchführung des streitigen Verfahrens zuständige Gericht benennt, ist der Europäische Zahlungsbefehl aufzuheben. Hierdurch endet das Verfahren nach der Verordnung (EG) Nr. 1896/2006.
 
 (2) Nach Eingang der Mitteilung des Antragstellers nach Absatz 1 Satz 1 gibt das Gericht, das den Europäischen Zahlungsbefehl erlassen hat, das Verfahren von Amts wegen an das vom Antragsteller bezeichnete Gericht ab. § 696 Abs. 1 Satz 3 bis 5, Abs. 2, 4 und 5 sowie § 698 gelten entsprechend.
 
@@ -9793,6 +10030,22 @@ Titel 3 Überprüfung des Europäischen Zahlungsbefehls in Ausnahmefällen
 
 (4) Eine Wiedereinsetzung in die Frist nach Artikel 16 Abs. 2 der Verordnung (EG) Nr. 1896/2006 findet nicht statt.
 
+### § 1092a Rechtsbehelf bei Nichtzustellung oder bei nicht ordnungsgemäßer Zustellung des Europäischen Zahlungsbefehls
+
+(1) Der Antragsgegner kann die Aufhebung des Europäischen Zahlungsbefehls beantragen, wenn ihm der Europäische Zahlungsbefehl
+
+1.  
+nicht zugestellt wurde oder
+
+2.  
+in einer nicht den Anforderungen der Artikel 13 bis 15 der Verordnung (EG) Nr. 1896/2006 genügenden Weise zugestellt wurde.
+
+Der Antrag muss innerhalb eines Monats ab dem Zeitpunkt gestellt werden, zu dem der Antragsgegner Kenntnis vom Erlass des Europäischen Zahlungsbefehls oder des Zustellungsmangels gehabt hat oder hätte haben können. Gibt das Gericht dem Antrag aus einem der in Satz 1 genannten Gründe statt, wird der Europäische Zahlungsbefehl für nichtig erklärt.
+
+(2) Hat das Gericht zum Zeitpunkt der Antragstellung nach Absatz 1 Satz 1 den Europäischen Zahlungsbefehl bereits nach Artikel 18 der Verordnung (EG) Nr. 1896/2006 für vollstreckbar erklärt und gibt es dem Antrag nunmehr statt, so erklärt es die Zwangsvollstreckung aus dem Zahlungsbefehl für unzulässig. Absatz 1 Satz 3 gilt entsprechend.
+
+(3) Die Entscheidung ergeht durch Beschluss. Der Beschluss ist unanfechtbar. § 1092 Absatz 2 bis 4 findet entsprechende Anwendung.
+
 Titel 4 Zwangsvollstreckung aus dem Europäischen Zahlungsbefehl
 ---------------------------------------------------------------
 
@@ -9808,7 +10061,7 @@ Hat der Gläubiger nach Artikel 21 Abs. 2 Buchstabe b der Verordnung (EG) Nr. 18
 
 ### § 1095 Vollstreckungsschutz und Vollstreckungsabwehrklage gegen den im Inland erlassenen Europäischen Zahlungsbefehl
 
-(1) Wird die Überprüfung eines im Inland erlassenen Europäischen Zahlungsbefehls nach Artikel 20 der Verordnung (EG) Nr. 1896/2006 beantragt, gilt § 707 entsprechend. Für die Entscheidung über den Antrag nach § 707 ist das Gericht zuständig, das über den Antrag nach Artikel 20 der Verordnung (EG) Nr. 1896/2006 entscheidet.
+(1) Wird die Überprüfung eines im Inland erlassenen Europäischen Zahlungsbefehls nach Artikel 20 der Verordnung (EG) Nr. 1896/2006 oder dessen Aufhebung nach § 1092a beantragt, gilt § 707 entsprechend. Für die Entscheidung über den Antrag nach § 707 ist das Gericht zuständig, das über den Antrag nach Artikel 20 der Verordnung (EG) Nr. 1896/2006 entscheidet.
 
 (2) Einwendungen, die den Anspruch selbst betreffen, sind nur insoweit zulässig, als die Gründe, auf denen sie beruhen, nach Zustellung des Europäischen Zahlungsbefehls entstanden sind und durch Einspruch nach Artikel 16 der Verordnung (EG) Nr. 1896/2006 nicht mehr geltend gemacht werden können.
 
@@ -9846,15 +10099,15 @@ Die Frist zur Erklärung der Annahmeverweigerung nach Artikel 6 Abs. 3 der Veror
 
 ### § 1100 Mündliche Verhandlung
 
-(1) Das Gericht kann den Parteien sowie ihren Bevollmächtigten und Beiständen gestatten, sich während einer Verhandlung an einem anderen Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen. § 128a Abs. 1 Satz 2 und Abs. 3 bleibt unberührt.
+(1) Das Gericht kann den Parteien sowie ihren Bevollmächtigten und Beiständen gestatten, sich während einer Verhandlung an einem anderen Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen. § 128a Abs. 1 Satz 2 und Abs. 3 Satz 1 bleibt unberührt.
 
 (2) Die Bestimmung eines frühen ersten Termins zur mündlichen Verhandlung (§ 275) ist ausgeschlossen.
 
 ### § 1101 Beweisaufnahme
 
-(1) Das Gericht kann die Beweise in der ihm geeignet erscheinenden Art aufnehmen, soweit Artikel 9 Abs. 2 und 3 der Verordnung (EG) Nr. 861/2007 nichts anderes bestimmt.
+(1) Das Gericht kann die Beweise in der ihm geeignet erscheinenden Art aufnehmen, soweit Artikel 9 Abs. 2 bis 4 der Verordnung (EG) Nr. 861/2007 nichts anderes bestimmt.
 
-(2) Das Gericht kann einem Zeugen, Sachverständigen oder einer Partei gestatten, sich während einer Vernehmung an einem anderen Ort aufzuhalten. § 128a Abs. 2 Satz 2, 3 und Abs. 3 bleibt unberührt.
+(2) Das Gericht kann einem Zeugen, Sachverständigen oder einer Partei gestatten, sich während einer Vernehmung an einem anderen Ort aufzuhalten. § 128a Abs. 2 Satz 2, 3 und Abs. 3 Satz 1 bleibt unberührt.
 
 ### § 1102 Urteil
 
@@ -9866,9 +10119,13 @@ Urteile bedürfen keiner Verkündung. Die Verkündung eines Urteils wird durch d
 
 ### § 1104 Abhilfe bei unverschuldeter Säumnis des Beklagten
 
-(1) Liegen die Voraussetzungen des Artikels 18 Abs. 1 der Verordnung (EG) Nr. 861/2007 vor, wird das Verfahren fortgeführt; es wird in die Lage zurückversetzt, in der es sich vor Erlass des Urteils befand. Auf Antrag stellt das Gericht die Nichtigkeit des Urteils durch Beschluss fest.
+(1) Liegen die Voraussetzungen des Artikels 18 Abs. 1 und 2 der Verordnung (EG) Nr. 861/2007 vor, wird das Verfahren fortgeführt; es wird in die Lage zurückversetzt, in der es sich vor Erlass des Urteils befand. Auf Antrag stellt das Gericht die Nichtigkeit des Urteils durch Beschluss fest.
 
-(2) Der Beklagte hat die tatsächlichen Voraussetzungen des Artikels 18 Abs. 1 der Verordnung (EG) Nr. 861/2007 glaubhaft zu machen.
+(2) Der Beklagte hat die tatsächlichen Voraussetzungen des Artikels 18 Abs. 1 und 2 der Verordnung (EG) Nr. 861/2007 glaubhaft zu machen.
+
+### § 1104a Gemeinsame Gerichte
+
+Die Landesregierungen werden ermächtigt, durch Rechtsverordnung einem Amtsgericht für die Bezirke mehrerer Amtsgerichte und einem Landgericht für die Bezirke mehrerer Landgerichte die Angelegenheiten in europäischen Verfahren für geringfügige Forderungen nach der Verordnung (EG) Nr. 861/2007 zuzuweisen, wenn dies der sachlichen Förderung der Verfahren dient. Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
 Titel 2 Zwangsvollstreckung
 ---------------------------
