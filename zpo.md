@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 11.3.2016 I 396
+Zuletzt geändert durch Art. 2 G v. 5.7.2016 I 1578
 
 ### 
 
