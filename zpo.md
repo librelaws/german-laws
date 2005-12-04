@@ -2,10 +2,10 @@ Zivilprozessordnung ()
 ======================
 
 Neuf  
-Neugefasst durch Bek. v. 5.12.2005 I 3202; 2006, 431; 2007, 1781
+Neugefasst durch Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 10.10.2013 I 3786
+Zuletzt geändert durch Art. 1 G v. 8.7.2014 I 890
 
 ### 
 
@@ -1306,6 +1306,23 @@ Gem. BVerfGE v. 7.10.2003, 2004 I 124 - 1 BvR 10/99 - war die Zivilprozessordnun
 | § 1107                                                                                                               |
 | § 1108                                                                                                               |
 | § 1109                                                                                                               |
+|                                                                                                                      |
+| **Abschnitt 7**                                                                                                      |
+| **Anerkennung und Vollstreckung nach der Verordnung (EU) Nr. 1215/2012**                                             |
+|                                                                                                                      |
+|                                                                                                                      |
+|                                                                                                                      |
+| § 1110                                                                                                               |
+| § 1111                                                                                                               |
+|                                                                                                                      |
+|                                                                                                                      |
+|                                                                                                                      |
+| § 1112                                                                                                               |
+| § 1113                                                                                                               |
+| § 1114                                                                                                               |
+| § 1115                                                                                                               |
+| § 1116                                                                                                               |
+| § 1117                                                                                                               |
 
 Buch 1 Allgemeine Vorschriften
 ------------------------------
@@ -2923,7 +2940,7 @@ Name, Vorname und Unterschrift des Zustellers sowie die Angabe des beauftragten 
 
 (4) Zum Nachweis der Zustellung nach Absatz 1 Satz 2 Halbsatz 1 genügt der Rückschein. Die Zustellung nach Absatz 1 Satz 2 Halbsatz 2 und den Absätzen 2 und 3 wird durch das Zeugnis der ersuchten Behörde nachgewiesen.
 
-(5) Die Vorschriften der Verordnung (EG) Nr. 1393/2007 des Europäischen Parlaments und des Rates vom 13. November 2007 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen in den Mitgliedstaaten und zur Aufhebung der Verordnung (EG) Nr. 1348/2000 (ABl. EU Nr. L 324 S. 79) bleiben unberührt. Für die Durchführung gelten § 1068 Abs. 1 und § 1069 Abs. 1.
+(5) Die Vorschriften der Verordnung (EG) Nr. 1393/2007 des Europäischen Parlaments und des Rates vom 13. November 2007 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen in den Mitgliedstaaten und zur Aufhebung der Verordnung (EG) Nr. 1348/2000 bleiben unberührt. Für die Durchführung gelten § 1068 Abs. 1 und § 1069 Abs. 1.
 
 ### § 184 Zustellungsbevollmächtigter; Zustellung durch Aufgabe zur Post
 
@@ -4410,7 +4427,7 @@ Vor der Erledigung des Beweisbeschlusses kann keine Partei dessen Änderung auf 
 
 (2) Kann die Beweisaufnahme durch einen Bundeskonsul erfolgen, so ist das Ersuchen an diesen zu richten.
 
-(3) Die Vorschriften der Verordnung (EG) Nr. 1206/2001 des Rates vom 28. Mai 2001 über die Zusammenarbeit zwischen den Gerichten der Mitgliedstaaten auf dem Gebiet der Beweisaufnahme in Zivil- oder Handelssachen (ABl. EG Nr. L 174 S. 1) bleiben unberührt. Für die Durchführung gelten die §§ 1072 und 1073.
+(3) Die Vorschriften der Verordnung (EG) Nr. 1206/2001 des Rates vom 28. Mai 2001 über die Zusammenarbeit zwischen den Gerichten der Mitgliedstaaten auf dem Gebiet der Beweisaufnahme in Zivil- oder Handelssachen bleiben unberührt. Für die Durchführung gelten die §§ 1072 und 1073.
 
 ### § 364 Parteimitwirkung bei Beweisaufnahme im Ausland
 
@@ -6348,7 +6365,7 @@ wenn die Zustellung des Mahnbescheids durch öffentliche Bekanntmachung erfolgen
 
 (3) Müsste der Mahnbescheid im Ausland zugestellt werden, findet das Mahnverfahren nur statt, soweit das Anerkennungs- und Vollstreckungsausführungsgesetz vom 19. Februar 2001 (BGBl. I S. 288) dies vorsieht.
 
-(4) Die Vorschriften der Verordnung (EG) Nr. 1896/2006 des Europäischen Parlaments und des Rates vom 12. Dezember 2006 zur Einführung eines Europäischen Mahnverfahrens (ABl. EU Nr. L 399 S. 1) bleiben unberührt. Für die Durchführung gelten die §§ 1087 bis 1096.
+(4) Die Vorschriften der Verordnung (EG) Nr. 1896/2006 des Europäischen Parlaments und des Rates vom 12. Dezember 2006 zur Einführung eines Europäischen Mahnverfahrens bleiben unberührt. Für die Durchführung gelten die §§ 1087 bis 1096.
 
 ### § 689 Zuständigkeit; maschinelle Bearbeitung
 
@@ -7245,7 +7262,16 @@ aus Beschlüssen nach § 796b oder § 796c;
 aus Urkunden, die von einem deutschen Gericht oder von einem deutschen Notar innerhalb der Grenzen seiner Amtsbefugnisse in der vorgeschriebenen Form aufgenommen sind, sofern die Urkunde über einen Anspruch errichtet ist, der einer vergleichsweisen Regelung zugänglich, nicht auf Abgabe einer Willenserklärung gerichtet ist und nicht den Bestand eines Mietverhältnisses über Wohnraum betrifft, und der Schuldner sich in der Urkunde wegen des zu bezeichnenden Anspruchs der sofortigen Zwangsvollstreckung unterworfen hat;
 
 6.  
-aus für vollstreckbar erklärten Europäischen Zahlungsbefehlen.
+aus für vollstreckbar erklärten Europäischen Zahlungsbefehlen nach der Verordnung (EG) Nr. 1896/2006;
+
+7.  
+aus Titeln, die in einem anderen Mitgliedstaat der Europäischen Union nach der Verordnung (EG) Nr. 805/2004 des Europäischen Parlaments und des Rates vom 21. April 2004 zur Einführung eines Europäischen Vollstreckungstitels für unbestrittene Forderungen als Europäische Vollstreckungstitel bestätigt worden sind;
+
+8.  
+aus Titeln, die in einem anderen Mitgliedstaat der Europäischen Union im Verfahren nach der Verordnung (EG) Nr. 861/2007 des Europäischen Parlaments und des Rates vom 11. Juli 2007 zur Einführung eines europäischen Verfahrens für geringfügige Forderungen ergangen sind;
+
+9.  
+aus Titeln eines anderen Mitgliedstaats der Europäischen Union, die nach der Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen zu vollstrecken sind.
 
 (2) Soweit nach den Vorschriften der §§ 737, 743, des § 745 Abs. 2 und des § 748 Abs. 2 die Verurteilung eines Beteiligten zur Duldung der Zwangsvollstreckung erforderlich ist, wird sie dadurch ersetzt, dass der Beteiligte in einer nach Absatz 1 Nr. 5 aufgenommenen Urkunde die sofortige Zwangsvollstreckung in die seinem Recht unterworfenen Gegenstände bewilligt.
 
@@ -7263,7 +7289,7 @@ aus für vollstreckbar erklärten Europäischen Zahlungsbefehlen.
 
 ### § 795 Anwendung der allgemeinen Vorschriften auf die weiteren Vollstreckungstitel
 
-Auf die Zwangsvollstreckung aus den in § 794 erwähnten Schuldtiteln sind die Vorschriften der §§ 724 bis 793 entsprechend anzuwenden, soweit nicht in den §§ 795a bis 800 abweichende Vorschriften enthalten sind. Auf die Zwangsvollstreckung aus den in § 794 Abs. 1 Nr. 2 erwähnten Schuldtiteln ist § 720a entsprechend anzuwenden, wenn die Schuldtitel auf Urteilen beruhen, die nur gegen Sicherheitsleistung vorläufig vollstreckbar sind. Für die Zwangsvollstreckung aus für vollstreckbar erklärten Europäischen Zahlungsbefehlen gelten ergänzend die §§ 1093 bis 1096.
+Auf die Zwangsvollstreckung aus den in § 794 erwähnten Schuldtiteln sind die Vorschriften der §§ 724 bis 793 entsprechend anzuwenden, soweit nicht in den §§ 795a bis 800, 1079 bis 1086, 1093 bis 1096 und 1107 bis 1117 abweichende Vorschriften enthalten sind. Auf die Zwangsvollstreckung aus den in § 794 Abs. 1 Nr. 2 erwähnten Schuldtiteln ist § 720a entsprechend anzuwenden, wenn die Schuldtitel auf Urteilen beruhen, die nur gegen Sicherheitsleistung vorläufig vollstreckbar sind. Die Vorschriften der in § 794 Absatz 1 Nummer 6 bis 9 genannten Verordnungen bleiben unberührt.
 
 ### § 795a Zwangsvollstreckung aus Kostenfestsetzungsbeschluss
 
@@ -9505,7 +9531,7 @@ Abschnitt 1 Zustellung nach der Verordnung (EG) Nr. 1393/2007
 
 ### § 1067 Zustellung durch diplomatische oder konsularische Vertretungen
 
-Eine Zustellung nach Artikel 13 der Verordnung (EG) Nr. 1393/2007 des Europäischen Parlaments und des Rates vom 13. November 2007 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen in den Mitgliedstaaten und zur Aufhebung der Verordnung (EG) Nr. 1348/2000 (ABl. EU Nr. L 324 S. 79), die in der Bundesrepublik Deutschland bewirkt werden soll, ist nur zulässig, wenn der Adressat des zuzustellenden Schriftstücks Staatsangehöriger des Übermittlungsstaats ist.
+Eine Zustellung nach Artikel 13 der Verordnung (EG) Nr. 1393/2007, die in der Bundesrepublik Deutschland bewirkt werden soll, ist nur zulässig, wenn der Adressat des zuzustellenden Schriftstücks Staatsangehöriger des Übermittlungsstaats ist.
 
 ### § 1068 Zustellung durch die Post
 
@@ -9544,7 +9570,7 @@ Abschnitt 2 Beweisaufnahme nach der Verordnung (EG) Nr. 1206/2001
 
 ### § 1072 Beweisaufnahme in den Mitgliedstaaten der Europäischen Union
 
-Soll die Beweisaufnahme nach der Verordnung (EG) Nr. 1206/2001 des Rates vom 28. Mai 2001 über die Zusammenarbeit zwischen den Gerichten der Mitgliedstaaten auf dem Gebiet der Beweisaufnahme in Zivil- oder Handelssachen (ABl. EG Nr. L 174 S. 1) erfolgen, so kann das Gericht
+Soll die Beweisaufnahme nach der Verordnung (EG) Nr. 1206/2001 erfolgen, so kann das Gericht
 
 1.  
 unmittelbar das zuständige Gericht eines anderen Mitgliedstaats um Aufnahme des Beweises ersuchen oder
@@ -9641,7 +9667,7 @@ Artikel 9 Abs. 1, Artikel 24 Abs. 1, Artikel 25 Abs. 1 und
 2.  
 Artikel 6 Abs. 2 und 3
 
-der Verordnung (EG) Nr. 805/2004 des Europäischen Parlaments und des Rates vom 21. April 2004 zur Einführung eines Europäischen Vollstreckungstitels für unbestrittene Forderungen (ABl. EU Nr. L 143 S. 15) sind die Gerichte, Behörden oder Notare zuständig, denen die Erteilung einer vollstreckbaren Ausfertigung des Titels obliegt.
+der Verordnung (EG) Nr. 805/2004 sind die Gerichte, Behörden oder Notare zuständig, denen die Erteilung einer vollstreckbaren Ausfertigung des Titels obliegt.
 
 ### § 1080 Entscheidung
 
@@ -9684,7 +9710,7 @@ Die Zwangsvollstreckung ist entsprechend den §§ 775 und 776 auch dann einzuste
 
 ### § 1086 Vollstreckungsabwehrklage
 
-(1) Für Klagen nach § 767 ist das Gericht ausschließlich örtlich zuständig, in dessen Bezirk der Schuldner seinen Wohnsitz hat, oder, wenn er im Inland keinen Wohnsitz hat, das Gericht, in dessen Bezirk die Zwangsvollstreckung stattfinden soll oder stattgefunden hat. Der Sitz von Gesellschaften oder juristischen Personen steht dem Wohnsitz gleich.
+(1) Für Klagen nach § 795 Satz 1 in Verbindung mit § 767 ist das Gericht ausschließlich örtlich zuständig, in dessen Bezirk der Schuldner seinen Wohnsitz hat, oder, wenn er im Inland keinen Wohnsitz hat, das Gericht, in dessen Bezirk die Zwangsvollstreckung stattfinden soll oder stattgefunden hat. Der Sitz von Gesellschaften oder juristischen Personen steht dem Wohnsitz gleich.
 
 (2) § 767 Abs. 2 ist entsprechend auf gerichtliche Vergleiche und öffentliche Urkunden anzuwenden.
 
@@ -9700,7 +9726,7 @@ Titel 1 Allgemeine Vorschriften
 
 ### § 1087 Zuständigkeit
 
-Für die Bearbeitung von Anträgen auf Erlass und Überprüfung sowie die Vollstreckbarerklärung eines Europäischen Zahlungsbefehls nach der Verordnung (EG) Nr. 1896/2006 des Europäischen Parlaments und des Rates vom 12. Dezember 2006 zur Einführung eines Europäischen Mahnverfahrens (ABl. EU Nr. L 399 S. 1) ist das Amtsgericht Wedding in Berlin ausschließlich zuständig.
+Für die Bearbeitung von Anträgen auf Erlass und Überprüfung sowie die Vollstreckbarerklärung eines Europäischen Zahlungsbefehls nach der Verordnung (EG) Nr. 1896/2006 ist das Amtsgericht Wedding in Berlin ausschließlich zuständig.
 
 ### § 1088 Maschinelle Bearbeitung
 
@@ -9769,7 +9795,7 @@ Hat der Gläubiger nach Artikel 21 Abs. 2 Buchstabe b der Verordnung (EG) Nr. 18
 
 (1) Für Anträge auf Verweigerung der Zwangsvollstreckung nach Artikel 22 Abs. 1 der Verordnung (EG) Nr. 1896/2006 gilt § 1084 Abs. 1 und 2 entsprechend. Für Anträge auf Aussetzung oder Beschränkung der Zwangsvollstreckung nach Artikel 23 der Verordnung (EG) Nr. 1896/2006 ist § 1084 Abs. 1 und 3 entsprechend anzuwenden.
 
-(2) Für Anträge auf Verweigerung der Zwangsvollstreckung nach Artikel 22 Abs. 2 der Verordnung (EG) Nr. 1896/2006 gilt § 1086 Abs. 1 entsprechend. Für Klagen nach § 767 sind § 1086 Abs. 1 und § 1095 Abs. 2 entsprechend anzuwenden.
+(2) Für Anträge auf Verweigerung der Zwangsvollstreckung nach Artikel 22 Abs. 2 der Verordnung (EG) Nr. 1896/2006 gilt § 1086 Abs. 1 entsprechend. Für Klagen nach § 795 Satz 1 in Verbindung mit § 767 sind § 1086 Abs. 1 und § 1095 Abs. 2 entsprechend anzuwenden.
 
 Abschnitt 6 Europäisches Verfahren für geringfügige Forderungen nach der Verordnung (EG) Nr. 861/2007
 -----------------------------------------------------------------------------------------------------
@@ -9783,7 +9809,7 @@ Titel 1 Erkenntnisverfahren
 
 ### § 1097 Einleitung und Durchführung des Verfahrens
 
-(1) Die Formblätter gemäß der Verordnung (EG) Nr. 861/2007 des Europäischen Parlaments und des Rates vom 11. Juli 2007 zur Einführung eines europäischen Verfahrens für geringfügige Forderungen (ABl. EU Nr. L 199 S. 1) und andere Anträge oder Erklärungen können als Schriftsatz, als Telekopie oder nach Maßgabe des § 130a als elektronisches Dokument bei Gericht eingereicht werden.
+(1) Die Formblätter gemäß der Verordnung (EG) Nr. 861/2007 und andere Anträge oder Erklärungen können als Schriftsatz, als Telekopie oder nach Maßgabe des § 130a als elektronisches Dokument bei Gericht eingereicht werden.
 
 (2) Im Fall des Artikels 4 Abs. 3 der Verordnung (EG) Nr. 861/2007 wird das Verfahren über die Klage ohne Anwendung der Vorschriften der Verordnung (EG) Nr. 861/2007 fortgeführt.
 
@@ -9853,6 +9879,76 @@ Hat der Gläubiger nach Artikel 21 Abs. 2 Buchstabe b der Verordnung (EG) Nr. 86
 (1) Auf Anträge nach Artikel 22 der Verordnung (EG) Nr. 861/2007 ist § 1084 Abs. 1 und 2 entsprechend anzuwenden. Auf Anträge nach Artikel 23 der Verordnung (EG) Nr. 861/2007 ist § 1084 Abs. 1 und 3 entsprechend anzuwenden.
 
 (2) § 1086 gilt entsprechend.
+
+Abschnitt 7 Anerkennung und Vollstreckung nach der Verordnung (EU) Nr. 1215/2012
+--------------------------------------------------------------------------------
+
+### 
+
+Titel 1 Bescheinigung über inländische Titel
+--------------------------------------------
+
+### 
+
+### § 1110 Zuständigkeit
+
+Für die Ausstellung der Bescheinigung nach den Artikeln 53 und 60 der Verordnung (EU) Nr. 1215/2012 sind die Gerichte oder Notare zuständig, denen die Erteilung einer vollstreckbaren Ausfertigung des Titels obliegt.
+
+### § 1111 Verfahren
+
+(1) Bescheinigungen nach den Artikeln 53 und 60 der Verordnung (EU) Nr. 1215/2012 sind ohne Anhörung des Schuldners auszustellen. In den Fällen des § 726 Absatz 1 und der §§ 727 bis 729 kann der Schuldner vor der Ausstellung der Bescheinigung gehört werden. Eine Ausfertigung der Bescheinigung ist dem Schuldner von Amts wegen zuzustellen.
+
+(2) Für die Anfechtbarkeit der Entscheidung über die Ausstellung der Bescheinigung nach Absatz 1 gelten die Vorschriften über die Anfechtbarkeit der Entscheidung über die Erteilung der Vollstreckungsklausel entsprechend.
+
+Titel 2 Anerkennung und Vollstreckung ausländischer Titel im Inland
+-------------------------------------------------------------------
+
+### 
+
+### § 1112 Entbehrlichkeit der Vollstreckungsklausel
+
+Aus einem Titel, der in einem anderen Mitgliedstaat der Europäischen Union vollstreckbar ist, findet die Zwangsvollstreckung im Inland statt, ohne dass es einer Vollstreckungsklausel bedarf.
+
+### § 1113 Übersetzung oder Transliteration
+
+Hat eine Partei nach Artikel 57 der Verordnung (EU) Nr. 1215/2012 eine Übersetzung oder eine Transliteration vorzulegen, so ist diese in deutscher Sprache abzufassen und von einer in einem Mitgliedstaat der Europäischen Union hierzu befugten Person zu erstellen.
+
+### § 1114 Anfechtung der Anpassung eines Titels
+
+Für die Anfechtung der Anpassung eines Titels (Artikel 54 der Verordnung (EU) Nr. 1215/2012) sind folgende Rechtsgrundlagen entsprechend anzuwenden:
+
+1.  
+im Fall von Maßnahmen des Gerichtsvollziehers oder des Vollstreckungsgerichts § 766,
+
+2.  
+im Fall von Entscheidungen des Vollstreckungsgerichts oder von Vollstreckungsmaßnahmen des Prozessgerichts § 793 und
+
+3.  
+im Fall von Vollstreckungsmaßnahmen des Grundbuchamts § 71 der Grundbuchordnung.
+
+### § 1115 Versagung der Anerkennung oder der Vollstreckung
+
+(1) Für Anträge auf Versagung der Anerkennung oder der Vollstreckung (Artikel 45 Absatz 4 und Artikel 47 Absatz 1 der Verordnung (EU) Nr. 1215/2012) ist das Landgericht ausschließlich zuständig.
+
+(2) Örtlich zuständig ist ausschließlich das Landgericht, in dessen Bezirk der Schuldner seinen Wohnsitz hat. Hat der Schuldner im Inland keinen Wohnsitz, ist ausschließlich das Landgericht zuständig, in dessen Bezirk die Zwangsvollstreckung durchgeführt werden soll. Der Sitz von Gesellschaften und juristischen Personen steht dem Wohnsitz gleich.
+
+(3) Der Antrag auf Versagung kann bei dem zuständigen Landgericht schriftlich eingereicht oder mündlich zu Protokoll der Geschäftsstelle erklärt werden.
+
+(4) Über den Antrag auf Versagung entscheidet der Vorsitzende einer Zivilkammer durch Beschluss. Der Beschluss ist zu begründen und kann ohne mündliche Verhandlung ergehen. Der Antragsgegner ist vor der Entscheidung zu hören.
+
+(5) Gegen die Entscheidung findet die sofortige Beschwerde statt. Die Notfrist des § 569 Absatz 1 Satz 1 beträgt einen Monat und beginnt mit der Zustellung der Entscheidung. Gegen den Beschluss des Beschwerdegerichts findet die Rechtsbeschwerde statt.
+
+(6) Über den Antrag auf Aussetzung oder Beschränkung der Vollstreckung und den Antrag, die Vollstreckung von der Leistung einer Sicherheit abhängig zu machen (Artikel 44 Absatz 1 der Verordnung (EU) Nr. 1215/2012), wird durch einstweilige Anordnung entschieden. Die Entscheidung ist unanfechtbar.
+
+### § 1116 Wegfall oder Beschränkung der Vollstreckbarkeit im Ursprungsmitgliedstaat
+
+Auf Antrag des Schuldners (Artikel 44 Absatz 2 der Verordnung (EU) Nr. 1215/2012) ist die Zwangsvollstreckung entsprechend § 775 Nummer 1 und 2 und § 776 auch dann einzustellen oder zu beschränken, wenn der Schuldner eine Entscheidung eines Gerichts des Ursprungsmitgliedstaats über die Nichtvollstreckbarkeit oder über die Beschränkung der Vollstreckbarkeit vorlegt. Auf Verlangen des Vollstreckungsorgans ist eine Übersetzung der Entscheidung vorzulegen. § 1108 gilt entsprechend.
+
+### § 1117 Vollstreckungsabwehrklage
+
+(1) Für Klagen nach § 795 Satz 1 in Verbindung mit § 767 gilt § 1086 Absatz 1 entsprechend.
+
+(2) Richtet sich die Klage gegen die Vollstreckung aus einem gerichtlichen Vergleich oder einer öffentlichen Urkunde, ist § 767 Absatz 2 nicht anzuwenden.
 
 ### Anlage (zu § 850c) \*)
 
