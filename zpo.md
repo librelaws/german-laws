@@ -7,6 +7,9 @@ Neugefasst durch Bek. v. 5.12.2005 I 3202 (2006 I 431) (2007 I 1781)
 Stand  
 zuletzt geändert durch Art. 2 G v. 21.7.2012 I 1577
 
+Hinweis  
+Änderung durch Art. 2 G v. 19.10.2012 I 2182 (Nr. 50) noch nicht berücksichtigt
+
 ### 
 
 ```
