@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 8.7.2014 I 890
+Zuletzt geändert durch Art. 3 G v. 11.3.2016 I 396
 
 ### 
 
@@ -1426,7 +1426,7 @@ Der allgemeine Gerichtsstand des Fiskus wird durch den Sitz der Behörde bestimm
 
 ### § 19 Mehrere Gerichtsbezirke am Behördensitz
 
-Ist der Ort, an dem eine Behörde ihren Sitz hat, in mehrere Gerichtsbezirke geteilt, so wird der Bezirk, der im Sinne der §§ 17, 18 als Sitz der Behörde gilt, für die Bundesbehörden von dem Bundesminister der Justiz, im Übrigen von der Landesjustizverwaltung durch allgemeine Anordnung bestimmt.
+Ist der Ort, an dem eine Behörde ihren Sitz hat, in mehrere Gerichtsbezirke geteilt, so wird der Bezirk, der im Sinne der §§ 17, 18 als Sitz der Behörde gilt, für die Bundesbehörden von dem Bundesministerium der Justiz und für Verbraucherschutz, im Übrigen von der Landesjustizverwaltung durch allgemeine Anordnung bestimmt.
 
 ### § 19a Allgemeiner Gerichtsstand des Insolvenzverwalters
 
@@ -2249,7 +2249,7 @@ Mehrbedarfe nach § 21 des Zweiten Buches Sozialgesetzbuch und nach § 30 des Zw
 5.  
 weitere Beträge, soweit dies mit Rücksicht auf besondere Belastungen angemessen ist; § 1610a des Bürgerlichen Gesetzbuchs gilt entsprechend.
 
-Maßgeblich sind die Beträge, die zum Zeitpunkt der Bewilligung der Prozesskostenhilfe gelten. Das Bundesministerium der Justiz gibt bei jeder Neufestsetzung oder jeder Fortschreibung die maßgebenden Beträge nach Satz 3 Nummer 1 Buchstabe b und Nummer 2 im Bundesgesetzblatt bekannt. Diese Beträge sind, soweit sie nicht volle Euro ergeben, bis zu 0,49 Euro abzurunden und von 0,50 Euro an aufzurunden. Die Unterhaltsfreibeträge nach Satz 3 Nr. 2 vermindern sich um eigenes Einkommen der unterhaltsberechtigten Person. Wird eine Geldrente gezahlt, so ist sie an Stelle des Freibetrages abzusetzen, soweit dies angemessen ist.
+Maßgeblich sind die Beträge, die zum Zeitpunkt der Bewilligung der Prozesskostenhilfe gelten. Das Bundesministerium der Justiz und für Verbraucherschutz gibt bei jeder Neufestsetzung oder jeder Fortschreibung die maßgebenden Beträge nach Satz 3 Nummer 1 Buchstabe b und Nummer 2 im Bundesgesetzblatt bekannt. Diese Beträge sind, soweit sie nicht volle Euro ergeben, bis zu 0,49 Euro abzurunden und von 0,50 Euro an aufzurunden. Die Unterhaltsfreibeträge nach Satz 3 Nr. 2 vermindern sich um eigenes Einkommen der unterhaltsberechtigten Person. Wird eine Geldrente gezahlt, so ist sie an Stelle des Freibetrages abzusetzen, soweit dies angemessen ist.
 
 (2) Von dem nach den Abzügen verbleibenden Teil des monatlichen Einkommens (einzusetzendes Einkommen) sind Monatsraten in Höhe der Hälfte des einzusetzenden Einkommens festzusetzen; die Monatsraten sind auf volle Euro abzurunden. Beträgt die Höhe einer Monatsrate weniger als 10 Euro, ist von der Festsetzung von Monatsraten abzusehen. Bei einem einzusetzenden Einkommen von mehr als 600 Euro beträgt die Monatsrate 300 Euro zuzüglich des Teils des einzusetzenden Einkommens, der 600 Euro übersteigt. Unabhängig von der Zahl der Rechtszüge sind höchstens 48 Monatsraten aufzubringen.
 
@@ -2275,7 +2275,7 @@ eine juristische Person oder parteifähige Vereinigung, die im Inland, in einem 
 
 (2) Dem Antrag sind eine Erklärung der Partei über ihre persönlichen und wirtschaftlichen Verhältnisse (Familienverhältnisse, Beruf, Vermögen, Einkommen und Lasten) sowie entsprechende Belege beizufügen. Die Erklärung und die Belege dürfen dem Gegner nur mit Zustimmung der Partei zugänglich gemacht werden; es sei denn, der Gegner hat gegen den Antragsteller nach den Vorschriften des bürgerlichen Rechts einen Anspruch auf Auskunft über Einkünfte und Vermögen des Antragstellers. Dem Antragsteller ist vor der Übermittlung seiner Erklärung an den Gegner Gelegenheit zur Stellungnahme zu geben. Er ist über die Übermittlung seiner Erklärung zu unterrichten.
 
-(3) Das Bundesministerium der Justiz wird ermächtigt, zur Vereinfachung und Vereinheitlichung des Verfahrens durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für die Erklärung einzuführen. Die Formulare enthalten die nach § 120a Absatz 2 Satz 4 erforderliche Belehrung.
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, zur Vereinfachung und Vereinheitlichung des Verfahrens durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für die Erklärung einzuführen. Die Formulare enthalten die nach § 120a Absatz 2 Satz 4 erforderliche Belehrung.
 
 (4) Soweit Formulare für die Erklärung eingeführt sind, muss sich die Partei ihrer bedienen.
 
@@ -2481,7 +2481,7 @@ Soweit dieses Gesetz dem Richter, dem Rechtspfleger, dem Urkundsbeamten der Gesc
 
 ### § 130c Formulare; Verordnungsermächtigung
 
-Das Bundesministerium der Justiz kann durch Rechtsverordnung mit Zustimmung des Bundesrates elektronische Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in den Formularen enthaltenen Angaben ganz oder teilweise in strukturierter maschinenlesbarer Form zu übermitteln sind. Die Formulare sind auf einer in der Rechtsverordnung zu bestimmenden Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die Rechtsverordnung kann bestimmen, dass eine Identifikation des Formularverwenders abweichend von § 130a Absatz 3 auch durch Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen kann.
+Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsverordnung mit Zustimmung des Bundesrates elektronische Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in den Formularen enthaltenen Angaben ganz oder teilweise in strukturierter maschinenlesbarer Form zu übermitteln sind. Die Formulare sind auf einer in der Rechtsverordnung zu bestimmenden Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die Rechtsverordnung kann bestimmen, dass eine Identifikation des Formularverwenders abweichend von § 130a Absatz 3 auch durch Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen kann.
 
 ### § 131 Beifügung von Urkunden
 
@@ -3000,7 +3000,7 @@ Lässt sich die formgerechte Zustellung eines Dokuments nicht nachweisen oder is
 
 ### § 190 Einheitliche Zustellungsformulare
 
-Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vereinfachung und Vereinheitlichung der Zustellung Formulare einzuführen.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vereinfachung und Vereinheitlichung der Zustellung Formulare einzuführen.
 
 Untertitel 2 Zustellungen auf Betreiben der Parteien
 ----------------------------------------------------
@@ -3787,7 +3787,7 @@ Ist ein Zwischenstreit zur Entscheidung reif, so kann die Entscheidung durch Zwi
 
 (1) Durch die Geltendmachung der dem Erben nach den §§ 2014, 2015 des Bürgerlichen Gesetzbuchs zustehenden Einreden wird eine unter dem Vorbehalt der beschränkten Haftung ergehende Verurteilung des Erben nicht ausgeschlossen.
 
-(2) Das Gleiche gilt für die Geltendmachung der Einreden, die im Falle der fortgesetzten Gütergemeinschaft dem überlebenden Ehegatten nach dem § 1489 Abs. 2 und den §§ 2014, 2015 des Bürgerlichen Gesetzbuchs zustehen.
+(2) Das Gleiche gilt für die Geltendmachung der Einreden, die im Falle der fortgesetzten Gütergemeinschaft dem überlebenden Ehegatten oder Lebenspartner nach dem § 1489 Abs. 2 und den §§ 2014, 2015 des Bürgerlichen Gesetzbuchs zustehen.
 
 ### § 305a Urteil unter Vorbehalt seerechtlich beschränkter Haftung
 
@@ -6355,7 +6355,7 @@ Buch 7 Mahnverfahren
 (2) Das Mahnverfahren findet nicht statt:
 
 1.  
-für Ansprüche eines Unternehmers aus einem Vertrag gemäß den §§ 491 bis 509 des Bürgerlichen Gesetzbuchs, wenn der gemäß § 492 Abs. 2 des Bürgerlichen Gesetzbuchs anzugebende effektive Jahreszins den bei Vertragsschluss geltenden Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs um mehr als zwölf Prozentpunkte übersteigt;
+für Ansprüche eines Unternehmers aus einem Vertrag gemäß den §§ 491 bis 508 des Bürgerlichen Gesetzbuchs, wenn der gemäß § 492 Abs. 2 des Bürgerlichen Gesetzbuchs anzugebende effektive Jahreszins den bei Vertragsschluss geltenden Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs um mehr als zwölf Prozentpunkte übersteigt;
 
 2.  
 wenn die Geltendmachung des Anspruchs von einer noch nicht erbrachten Gegenleistung abhängig ist;
@@ -6386,7 +6386,7 @@ die Bezeichnung der Parteien, ihrer gesetzlichen Vertreter und der Prozessbevoll
 die Bezeichnung des Gerichts, bei dem der Antrag gestellt wird;
 
 3.  
-die Bezeichnung des Anspruchs unter bestimmter Angabe der verlangten Leistung; Haupt- und Nebenforderungen sind gesondert und einzeln zu bezeichnen, Ansprüche aus Verträgen gemäß den §§ 491 bis 509 des Bürgerlichen Gesetzbuchs, auch unter Angabe des Datums des Vertragsabschlusses und des gemäß § 492 Abs. 2 des Bürgerlichen Gesetzbuchs anzugebenden effektiven Jahreszinses;
+die Bezeichnung des Anspruchs unter bestimmter Angabe der verlangten Leistung; Haupt- und Nebenforderungen sind gesondert und einzeln zu bezeichnen, Ansprüche aus Verträgen gemäß den §§ 491 bis 508 des Bürgerlichen Gesetzbuchs, auch unter Angabe des Datums des Vertragsabschlusses und des gemäß § 492 Abs. 2 des Bürgerlichen Gesetzbuchs anzugebenden effektiven Jahreszinses;
 
 4.  
 die Erklärung, dass der Anspruch nicht von einer Gegenleistung abhängt oder dass die Gegenleistung erbracht ist;
@@ -6544,11 +6544,11 @@ beschränkt sich der Widerspruch auf den Antrag, dem Beklagten die Ausführung s
 
 (1) Bei maschineller Bearbeitung werden Beschlüsse, Verfügungen, Ausfertigungen und Vollstreckungsklauseln mit dem Gerichtssiegel versehen; einer Unterschrift bedarf es nicht.
 
-(2) Der Bundesminister der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den Verfahrensablauf zu regeln, soweit dies für eine einheitliche maschinelle Bearbeitung der Mahnverfahren erforderlich ist (Verfahrensablaufplan).
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den Verfahrensablauf zu regeln, soweit dies für eine einheitliche maschinelle Bearbeitung der Mahnverfahren erforderlich ist (Verfahrensablaufplan).
 
 ### § 703c Formulare; Einführung der maschinellen Bearbeitung
 
-(1) Der Bundesminister der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vereinfachung des Mahnverfahrens und zum Schutze der in Anspruch genommenen Partei Formulare einzuführen. Für
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vereinfachung des Mahnverfahrens und zum Schutze der in Anspruch genommenen Partei Formulare einzuführen. Für
 
 1.  
 Mahnverfahren bei Gerichten, die die Verfahren maschinell bearbeiten,
@@ -6845,25 +6845,31 @@ Zur Zwangsvollstreckung in das Gesellschaftsvermögen einer nach § 705 des Bür
 
 ### § 740 Zwangsvollstreckung in das Gesamtgut
 
-(1) Leben die Ehegatten in Gütergemeinschaft und verwaltet einer von ihnen das Gesamtgut allein, so ist zur Zwangsvollstreckung in das Gesamtgut ein Urteil gegen diesen Ehegatten erforderlich und genügend.
+(1) Leben die Ehegatten oder Lebenspartner in Gütergemeinschaft und verwaltet einer von ihnen das Gesamtgut allein, so ist zur Zwangsvollstreckung in das Gesamtgut ein Urteil gegen diesen Ehegatten oder Lebenspartner erforderlich und genügend.
 
-(2) Verwalten die Ehegatten das Gesamtgut gemeinschaftlich, so ist die Zwangsvollstreckung in das Gesamtgut nur zulässig, wenn beide Ehegatten zur Leistung verurteilt sind.
+(2) Verwalten die Ehegatten oder Lebenspartner das Gesamtgut gemeinschaftlich, so ist die Zwangsvollstreckung in das Gesamtgut nur zulässig, wenn beide Ehegatten oder Lebenspartner zur Leistung verurteilt sind.
 
 ### § 741 Zwangsvollstreckung in das Gesamtgut bei Erwerbsgeschäft
 
-Betreibt ein Ehegatte, der in Gütergemeinschaft lebt und das Gesamtgut nicht oder nicht allein verwaltet, selbständig ein Erwerbsgeschäft, so ist zur Zwangsvollstreckung in das Gesamtgut ein gegen ihn ergangenes Urteil genügend, es sei denn, dass zur Zeit des Eintritts der Rechtshängigkeit der Einspruch des anderen Ehegatten gegen den Betrieb des Erwerbsgeschäfts oder der Widerruf seiner Einwilligung zu dem Betrieb im Güterrechtsregister eingetragen war.
+Betreibt ein Ehegatte oder Lebenspartner, der in Gütergemeinschaft lebt und das Gesamtgut nicht oder nicht allein verwaltet, selbständig ein Erwerbsgeschäft, so ist zur Zwangsvollstreckung in das Gesamtgut ein gegen ihn ergangenes Urteil genügend, es sei denn, dass zur Zeit des Eintritts der Rechtshängigkeit der Einspruch des anderen Ehegatten oder Lebenspartners gegen den Betrieb des Erwerbsgeschäfts oder der Widerruf seiner Einwilligung zu dem Betrieb im Güterrechtsregister eingetragen war.
 
 ### § 742 Vollstreckbare Ausfertigung bei Gütergemeinschaft während des Rechtsstreits
 
-Ist die Gütergemeinschaft erst eingetreten, nachdem ein von einem Ehegatten oder gegen einen Ehegatten geführter Rechtsstreit rechtshängig geworden ist, und verwaltet dieser Ehegatte das Gesamtgut nicht oder nicht allein, so sind auf die Erteilung einer in Ansehung des Gesamtgutes vollstreckbaren Ausfertigung des Urteils für oder gegen den anderen Ehegatten die Vorschriften der §§ 727, 730 bis 732 entsprechend anzuwenden.
+Ist die Gütergemeinschaft erst eingetreten, nachdem ein von einem Ehegatten oder Lebenspartner oder gegen einen Ehegatten oder Lebenspartner geführter Rechtsstreit rechtshängig geworden ist, und verwaltet dieser Ehegatte oder Lebenspartner das Gesamtgut nicht oder nicht allein, so sind auf die Erteilung einer in Ansehung des Gesamtgutes vollstreckbaren Ausfertigung des Urteils für oder gegen den anderen Ehegatten oder Lebenspartner die Vorschriften der §§ 727, 730 bis 732 entsprechend anzuwenden.
 
 ### § 743 Beendete Gütergemeinschaft
 
-Nach der Beendigung der Gütergemeinschaft ist vor der Auseinandersetzung die Zwangsvollstreckung in das Gesamtgut nur zulässig, wenn beide Ehegatten zu der Leistung oder der eine Ehegatte zu der Leistung und der andere zur Duldung der Zwangsvollstreckung verurteilt sind.
+Nach der Beendigung der Gütergemeinschaft ist vor der Auseinandersetzung die Zwangsvollstreckung in das Gesamtgut nur zulässig, wenn
+
+1.  
+beide Ehegatten oder Lebenspartner zu der Leistung verurteilt sind oder
+
+2.  
+der eine Ehegatte oder Lebenspartner zu der Leistung verurteilt ist und der andere zur Duldung der Zwangsvollstreckung.
 
 ### § 744 Vollstreckbare Ausfertigung bei beendeter Gütergemeinschaft
 
-Ist die Beendigung der Gütergemeinschaft nach der Beendigung eines Rechtsstreits des Ehegatten eingetreten, der das Gesamtgut allein verwaltet, so sind auf die Erteilung einer in Ansehung des Gesamtgutes vollstreckbaren Ausfertigung des Urteils gegen den anderen Ehegatten die Vorschriften der §§ 727, 730 bis 732 entsprechend anzuwenden.
+Ist die Beendigung der Gütergemeinschaft nach der Beendigung eines Rechtsstreits des Ehegatten oder Lebenspartners eingetreten, der das Gesamtgut allein verwaltet, so sind auf die Erteilung einer in Ansehung des Gesamtgutes vollstreckbaren Ausfertigung des Urteils gegen den anderen Ehegatten oder Lebenspartner die Vorschriften der §§ 727, 730 bis 732 entsprechend anzuwenden.
 
 ### § 744a Zwangsvollstreckung bei Eigentums- und Vermögensgemeinschaft
 
@@ -6871,9 +6877,15 @@ Leben die Ehegatten gemäß Artikel 234 § 4 Abs. 2 des Einführungsgesetzes zum
 
 ### § 745 Zwangsvollstreckung bei fortgesetzter Gütergemeinschaft
 
-(1) Im Falle der fortgesetzten Gütergemeinschaft ist zur Zwangsvollstreckung in das Gesamtgut ein gegen den überlebenden Ehegatten ergangenes Urteil erforderlich und genügend.
+(1) Im Falle der fortgesetzten Gütergemeinschaft ist zur Zwangsvollstreckung in das Gesamtgut ein gegen den überlebenden Ehegatten oder Lebenspartner ergangenes Urteil erforderlich und genügend.
 
-(2) Nach der Beendigung der fortgesetzten Gütergemeinschaft gelten die Vorschriften der §§ 743, 744 mit der Maßgabe, dass an die Stelle des Ehegatten, der das Gesamtgut allein verwaltet, der überlebende Ehegatte, an die Stelle des anderen Ehegatten die anteilsberechtigten Abkömmlinge treten.
+(2) Nach der Beendigung der fortgesetzten Gütergemeinschaft gelten die §§ 743 und 744 mit der Maßgabe, dass
+
+1.  
+an die Stelle desjenigen Ehegatten oder Lebenspartners, der das Gesamtgut allein verwaltet, der überlebende Ehegatte oder Lebenspartner tritt und
+
+2.  
+an die Stelle des anderen Ehegatten oder Lebenspartners die anteilsberechtigten Abkömmlinge treten.
 
 ### § 746
 
@@ -6919,7 +6931,7 @@ Vollstreckt der Gläubiger im Fall des § 751 Abs. 2 nur wegen eines Teilbetrage
 
 (2) Der Gläubiger kann wegen Erteilung des Auftrags zur Zwangsvollstreckung die Mitwirkung der Geschäftsstelle in Anspruch nehmen. Der von der Geschäftsstelle beauftragte Gerichtsvollzieher gilt als von dem Gläubiger beauftragt.
 
-(3) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates verbindliche Formulare für den Auftrag nach Absatz 2 einzuführen. Für elektronisch eingereichte Aufträge können besondere Formulare vorgesehen werden.
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates verbindliche Formulare für den Auftrag nach Absatz 2 einzuführen. Für elektronisch eingereichte Aufträge können besondere Formulare vorgesehen werden.
 
 ### § 754 Vollstreckungsauftrag und vollstreckbare Ausfertigung
 
@@ -6976,7 +6988,7 @@ erheben. Ist der Schuldner Unionsbürger, darf der Gerichtsvollzieher die Daten 
 
 (5) Die Anordnung nach Absatz 1 ist bei der Zwangsvollstreckung vorzuzeigen.
 
-(6) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für den Antrag auf Erlass einer richterlichen Durchsuchungsanordnung nach Absatz 1 einzuführen. Soweit nach Satz 1 Formulare eingeführt sind, muss sich der Antragsteller ihrer bedienen. Für Verfahren bei Gerichten, die die Verfahren elektronisch bearbeiten, und für Verfahren bei Gerichten, die die Verfahren nicht elektronisch bearbeiten, können unterschiedliche Formulare eingeführt werden.
+(6) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für den Antrag auf Erlass einer richterlichen Durchsuchungsanordnung nach Absatz 1 einzuführen. Soweit nach Satz 1 Formulare eingeführt sind, muss sich der Antragsteller ihrer bedienen. Für Verfahren bei Gerichten, die die Verfahren elektronisch bearbeiten, und für Verfahren bei Gerichten, die die Verfahren nicht elektronisch bearbeiten, können unterschiedliche Formulare eingeführt werden.
 
 ### § 759 Zuziehung von Zeugen
 
@@ -7097,9 +7109,9 @@ Solange ein Veräußerungsverbot der in den §§ 135, 136 des Bürgerlichen Gese
 
 Ein Gegenstand, der zu einer Vorerbschaft gehört, soll nicht im Wege der Zwangsvollstreckung veräußert oder überwiesen werden, wenn die Veräußerung oder die Überweisung im Falle des Eintritts der Nacherbfolge nach § 2115 des Bürgerlichen Gesetzbuchs dem Nacherben gegenüber unwirksam ist. Der Nacherbe kann nach Maßgabe des § 771 Widerspruch erheben.
 
-### § 774 Drittwiderspruchsklage des Ehegatten
+### § 774 Drittwiderspruchsklage des Ehegatten oder Lebenspartners
 
-Findet nach § 741 die Zwangsvollstreckung in das Gesamtgut statt, so kann ein Ehegatte nach Maßgabe des § 771 Widerspruch erheben, wenn das gegen den anderen Ehegatten ergangene Urteil in Ansehung des Gesamtgutes ihm gegenüber unwirksam ist.
+Findet nach § 741 die Zwangsvollstreckung in das Gesamtgut statt, so kann ein Ehegatte oder Lebenspartner nach Maßgabe des § 771 Widerspruch erheben, wenn das gegen den anderen Ehegatten oder Lebenspartner ergangene Urteil in Ansehung des Gesamtgutes ihm gegenüber unwirksam ist.
 
 ### § 775 Einstellung oder Beschränkung der Zwangsvollstreckung
 
@@ -7521,7 +7533,7 @@ Zur Einsicht befugt sind ferner Vollstreckungsgerichte, Insolvenzgerichte und Re
 
 (3) Die Landesregierungen bestimmen durch Rechtsverordnung, welches Gericht die Aufgaben des zentralen Vollstreckungsgerichts nach Absatz 1 wahrzunehmen hat. Sie können diese Befugnis auf die Landesjustizverwaltungen übertragen. Das zentrale Vollstreckungsgericht nach Absatz 1 kann andere Stellen mit der Datenverarbeitung beauftragen; die jeweiligen datenschutzrechtlichen Bestimmungen über die Verarbeitung personenbezogener Daten im Auftrag sind anzuwenden.
 
-(4) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Inhalts, der Form, Aufnahme, Übermittlung, Verwaltung und Löschung der Vermögensverzeichnisse nach § 802f Abs. 5 dieses Gesetzes und nach § 284 Abs. 7 der Abgabenordnung oder gleichwertigen Regelungen im Sinne von Absatz 1 Satz 2 sowie der Einsichtnahme, insbesondere durch ein automatisiertes Abrufverfahren, zu regeln. Die Rechtsverordnung hat geeignete Regelungen zur Sicherung des Datenschutzes und der Datensicherheit vorzusehen. Insbesondere ist sicherzustellen, dass die Vermögensverzeichnisse
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Inhalts, der Form, Aufnahme, Übermittlung, Verwaltung und Löschung der Vermögensverzeichnisse nach § 802f Abs. 5 dieses Gesetzes und nach § 284 Abs. 7 der Abgabenordnung oder gleichwertigen Regelungen im Sinne von Absatz 1 Satz 2 sowie der Einsichtnahme, insbesondere durch ein automatisiertes Abrufverfahren, zu regeln. Die Rechtsverordnung hat geeignete Regelungen zur Sicherung des Datenschutzes und der Datensicherheit vorzusehen. Insbesondere ist sicherzustellen, dass die Vermögensverzeichnisse
 
 1.  
 bei der Übermittlung an das zentrale Vollstreckungsgericht nach Absatz 1 sowie bei der Weitergabe an die anderen Stellen nach Absatz 3 Satz 3 gegen unbefugte Kenntnisnahme geschützt sind,
@@ -7883,7 +7895,7 @@ Untertitel 3 Zwangsvollstreckung in Forderungen und andere Vermögensrechte
 
 (3) Mit der Zustellung des Beschlusses an den Drittschuldner ist die Pfändung als bewirkt anzusehen.
 
-(4) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für den Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses einzuführen. Soweit nach Satz 1 Formulare eingeführt sind, muss sich der Antragsteller ihrer bedienen. Für Verfahren bei Gerichten, die die Verfahren elektronisch bearbeiten, und für Verfahren bei Gerichten, die die Verfahren nicht elektronisch bearbeiten, können unterschiedliche Formulare eingeführt werden.
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für den Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses einzuführen. Soweit nach Satz 1 Formulare eingeführt sind, muss sich der Antragsteller ihrer bedienen. Für Verfahren bei Gerichten, die die Verfahren elektronisch bearbeiten, und für Verfahren bei Gerichten, die die Verfahren nicht elektronisch bearbeiten, können unterschiedliche Formulare eingeführt werden.
 
 ### § 829a Vereinfachter Vollstreckungsantrag bei Vollstreckungsbescheiden
 
@@ -8101,7 +8113,7 @@ Aufwandsentschädigungen, Auslösungsgelder und sonstige soziale Zulagen für au
 Weihnachtsvergütungen bis zum Betrag der Hälfte des monatlichen Arbeitseinkommens, höchstens aber bis zum Betrag von 500 Euro;
 
 5.  
-Heirats- und Geburtsbeihilfen, sofern die Vollstreckung wegen anderer als der aus Anlass der Heirat oder der Geburt entstandenen Ansprüche betrieben wird;
+Geburtsbeihilfen sowie Beihilfen aus Anlass der Eingehung einer Ehe oder Begründung einer Lebenspartnerschaft, sofern die Vollstreckung wegen anderer als der aus Anlass der Geburt, der Eingehung einer Ehe oder der Begründung einer Lebenspartnerschaft entstandenen Ansprüche betrieben wird;
 
 6.  
 Erziehungsgelder, Studienbeihilfen und ähnliche Bezüge;
@@ -8170,7 +8182,7 @@ für die zweite bis fünfte Person.
 
 (2) Übersteigt das Arbeitseinkommen den Betrag, bis zu dessen Höhe es je nach der Zahl der Personen, denen der Schuldner Unterhalt gewährt, nach Absatz 1 unpfändbar ist, so ist es hinsichtlich des überschießenden Betrages zu einem Teil unpfändbar, und zwar in Höhe von drei Zehnteln, wenn der Schuldner keiner der in Absatz 1 genannten Personen Unterhalt gewährt, zwei weiteren Zehnteln für die erste Person, der Unterhalt gewährt wird, und je einem weiteren Zehntel für die zweite bis fünfte Person. Der Teil des Arbeitseinkommens, der 2 851 Euro<sup>13)</sup> monatlich (658 Euro<sup>14)</sup> wöchentlich, 131,58 Euro<sup>15)</sup> täglich) übersteigt, bleibt bei der Berechnung des unpfändbaren Betrages unberücksichtigt.
 
-(2a) Die unpfändbaren Beträge nach Absatz 1 und Absatz 2 Satz 2 ändern sich jeweils zum 1. Juli eines jeden zweiten Jahres, erstmalig zum 1. Juli 2003, entsprechend der im Vergleich zum jeweiligen Vorjahreszeitraum sich ergebenden prozentualen Entwicklung des Grundfreibetrages nach § 32a Abs. 1 Nr. 1 des Einkommensteuergesetzes; der Berechnung ist die am 1. Januar des jeweiligen Jahres geltende Fassung des § 32a Abs. 1 Nr. 1 des Einkommensteuergesetzes zugrunde zu legen. Das Bundesministerium der Justiz gibt die maßgebenden Beträge rechtzeitig im Bundesgesetzblatt bekannt.
+(2a) Die unpfändbaren Beträge nach Absatz 1 und Absatz 2 Satz 2 ändern sich jeweils zum 1. Juli eines jeden zweiten Jahres, erstmalig zum 1. Juli 2003, entsprechend der im Vergleich zum jeweiligen Vorjahreszeitraum sich ergebenden prozentualen Entwicklung des Grundfreibetrages nach § 32a Abs. 1 Nr. 1 des Einkommensteuergesetzes; der Berechnung ist die am 1. Januar des jeweiligen Jahres geltende Fassung des § 32a Abs. 1 Nr. 1 des Einkommensteuergesetzes zugrunde zu legen. Das Bundesministerium der Justiz und für Verbraucherschutz gibt die maßgebenden Beträge rechtzeitig im Bundesgesetzblatt bekannt.
 
 (3) Bei der Berechnung des nach Absatz 2 pfändbaren Teils des Arbeitseinkommens ist das Arbeitseinkommen, gegebenenfalls nach Abzug des nach Absatz 2 Satz 2 pfändbaren Betrages, wie aus der Tabelle ersichtlich, die diesem Gesetz als Anlage beigefügt ist, nach unten abzurunden, und zwar bei Auszahlung für Monate auf einen durch 10 Euro, bei Auszahlung für Wochen auf einen durch 2,50 Euro oder bei Auszahlung für Tage auf einen durch 50 Cent teilbaren Betrag. Im Pfändungsbeschluss genügt die Bezugnahme auf die Tabelle.
 
@@ -8230,7 +8242,7 @@ und überwiegende Belange des Gläubigers nicht entgegenstehen.
 
 (2) Wird die Zwangsvollstreckung wegen einer Forderung aus einer vorsätzlich begangenen unerlaubten Handlung betrieben, so kann das Vollstreckungsgericht auf Antrag des Gläubigers den pfändbaren Teil des Arbeitseinkommens ohne Rücksicht auf die in § 850c vorgesehenen Beschränkungen bestimmen; dem Schuldner ist jedoch so viel zu belassen, wie er für seinen notwendigen Unterhalt und zur Erfüllung seiner laufenden gesetzlichen Unterhaltspflichten bedarf.
 
-(3) Wird die Zwangsvollstreckung wegen anderer als der in Absatz 2 und in § 850d bezeichneten Forderungen betrieben, so kann das Vollstreckungsgericht in den Fällen, in denen sich das Arbeitseinkommen des Schuldners auf mehr als monatlich 2 815 Euro<sup>1)</sup> (wöchentlich 641 Euro<sup>2)</sup>, täglich 123,50 Euro<sup>3)</sup>) beläuft, über die Beträge hinaus, die nach § 850c pfändbar wären, auf Antrag des Gläubigers die Pfändbarkeit unter Berücksichtigung der Belange des Gläubigers und des Schuldners nach freiem Ermessen festsetzen. Dem Schuldner ist jedoch mindestens so viel zu belassen, wie sich bei einem Arbeitseinkommen von monatlich 2 815 Euro<sup>1)</sup> (wöchentlich 641 Euro<sup>2)</sup>, täglich 123,50 Euro<sup>3)</sup>) aus § 850c ergeben würde. Die Beträge nach den Sätzen 1 und 2 werden entsprechend der in § 850c Abs. 2a getroffenen Regelung jeweils zum 1. Juli eines jeden zweiten Jahres, erstmalig zum 1. Juli 2003, geändert. Das Bundesministerium der Justiz gibt die maßgebenden Beträge rechtzeitig im Bundesgesetzblatt bekannt.
+(3) Wird die Zwangsvollstreckung wegen anderer als der in Absatz 2 und in § 850d bezeichneten Forderungen betrieben, so kann das Vollstreckungsgericht in den Fällen, in denen sich das Arbeitseinkommen des Schuldners auf mehr als monatlich 2 815 Euro<sup>1)</sup> (wöchentlich 641 Euro<sup>2)</sup>, täglich 123,50 Euro<sup>3)</sup>) beläuft, über die Beträge hinaus, die nach § 850c pfändbar wären, auf Antrag des Gläubigers die Pfändbarkeit unter Berücksichtigung der Belange des Gläubigers und des Schuldners nach freiem Ermessen festsetzen. Dem Schuldner ist jedoch mindestens so viel zu belassen, wie sich bei einem Arbeitseinkommen von monatlich 2 815 Euro<sup>1)</sup> (wöchentlich 641 Euro<sup>2)</sup>, täglich 123,50 Euro<sup>3)</sup>) aus § 850c ergeben würde. Die Beträge nach den Sätzen 1 und 2 werden entsprechend der in § 850c Abs. 2a getroffenen Regelung jeweils zum 1. Juli eines jeden zweiten Jahres, erstmalig zum 1. Juli 2003, geändert. Das Bundesministerium der Justiz und für Verbraucherschutz gibt die maßgebenden Beträge rechtzeitig im Bundesgesetzblatt bekannt.
 \_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Die Beträge haben sich infolge der Bekanntmachung zu § 850c der Zivilprozessordnung (Pfändungsfreigrenzenbekanntmachung 2005) vom 25. Februar 2005 (BGBl. I S. 493) geändert:
@@ -8345,7 +8357,7 @@ Monatliche Leistungen in Form einer lebenslangen Rente oder monatlicher Ratenzah
 
 (1) Der Pflichtteilsanspruch ist der Pfändung nur unterworfen, wenn er durch Vertrag anerkannt oder rechtshängig geworden ist.
 
-(2) Das Gleiche gilt für den nach § 528 des Bürgerlichen Gesetzbuchs dem Schenker zustehenden Anspruch auf Herausgabe des Geschenkes sowie für den Anspruch eines Ehegatten auf den Ausgleich des Zugewinns.
+(2) Das Gleiche gilt für den nach § 528 des Bürgerlichen Gesetzbuchs dem Schenker zustehenden Anspruch auf Herausgabe des Geschenkes sowie für den Anspruch eines Ehegatten oder Lebenspartners auf den Ausgleich des Zugewinns.
 
 ### § 853 Mehrfache Pfändung einer Geldforderung
 
@@ -8417,7 +8429,7 @@ Betrifft der Anspruch eine unbewegliche Sache, so ist der Drittschuldner berecht
 
 ### § 860 Pfändung von Gesamtgutanteilen
 
-(1) Bei dem Güterstand der Gütergemeinschaft ist der Anteil eines Ehegatten an dem Gesamtgut und an den einzelnen dazu gehörenden Gegenständen der Pfändung nicht unterworfen. Das Gleiche gilt bei der fortgesetzten Gütergemeinschaft von den Anteilen des überlebenden Ehegatten und der Abkömmlinge.
+(1) Bei dem Güterstand der Gütergemeinschaft ist der Anteil eines Ehegatten oder Lebenspartners an dem Gesamtgut und an den einzelnen dazu gehörenden Gegenständen der Pfändung nicht unterworfen. Das Gleiche gilt bei der fortgesetzten Gütergemeinschaft von den Anteilen des überlebenden Ehegatten oder Lebenspartners und der Abkömmlinge.
 
 (2) Nach der Beendigung der Gemeinschaft ist der Anteil an dem Gesamtgut zugunsten der Gläubiger des Anteilsberechtigten der Pfändung unterworfen.
 
@@ -8706,7 +8718,7 @@ Antragsteller, deren berechtigtem Interesse durch Einzeleinsicht in die Länders
 
 (7) In den Fällen des Absatzes 2 Nr. 2 und 3 sowie des Absatzes 5 gilt für nichtöffentliche Stellen § 38 des Bundesdatenschutzgesetzes mit der Maßgabe, dass die Aufsichtsbehörde auch die Verarbeitung und Nutzung dieser personenbezogenen Daten in oder aus Akten überwacht.Entsprechendes gilt für nichtöffentliche Stellen, die von den in Absatz 2 genannten Stellen Auskünfte erhalten haben.
 
-(8) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+(8) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  
 Vorschriften über den Bezug von Abdrucken nach den Absätzen 1 und 2 und das Bewilligungsverfahren sowie den Bezug von Listen nach Absatz 5 zu erlassen;
@@ -8726,7 +8738,7 @@ zur Durchsetzung der Vernichtungs- und Löschungspflichten im Fall des Widerrufs
 
 (2) Die Landesregierungen bestimmen durch Rechtsverordnung, welches Gericht die Aufgaben des zentralen Vollstreckungsgerichts nach Absatz 1 wahrzunehmen hat. § 802k Abs. 3 Satz 2 und 3 gilt entsprechend. Die Führung des Schuldnerverzeichnisses stellt eine Angelegenheit der Justizverwaltung dar.
 
-(3) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten zu Form und Übermittlung der Eintragungsanordnungen nach § 882b Abs. 1 und der Entscheidungen nach § 882d Abs. 3 Satz 2 dieses Gesetzes und § 284 Abs. 10 Satz 2 der Abgabenordnung oder gleichwertigen Regelungen im Sinne von § 882b Abs. 1 Nr. 2 Halbsatz 2 dieses Gesetzes sowie zum Inhalt des Schuldnerverzeichnisses und zur Ausgestaltung der Einsicht insbesondere durch ein automatisiertes Abrufverfahren zu regeln. Die Rechtsverordnung hat geeignete Regelungen zur Sicherung des Datenschutzes und der Datensicherheit vorzusehen. Insbesondere ist sicherzustellen, dass die Daten
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten zu Form und Übermittlung der Eintragungsanordnungen nach § 882b Abs. 1 und der Entscheidungen nach § 882d Abs. 3 Satz 2 dieses Gesetzes und § 284 Abs. 10 Satz 2 der Abgabenordnung oder gleichwertigen Regelungen im Sinne von § 882b Abs. 1 Nr. 2 Halbsatz 2 dieses Gesetzes sowie zum Inhalt des Schuldnerverzeichnisses und zur Ausgestaltung der Einsicht insbesondere durch ein automatisiertes Abrufverfahren zu regeln. Die Rechtsverordnung hat geeignete Regelungen zur Sicherung des Datenschutzes und der Datensicherheit vorzusehen. Insbesondere ist sicherzustellen, dass die Daten
 
 1.  
 bei der elektronischen Übermittlung an das zentrale Vollstreckungsgericht nach Absatz 1 sowie bei der Weitergabe an eine andere Stelle nach Absatz 2 Satz 2 gegen unbefugte Kenntnisnahme geschützt sind,
@@ -9075,9 +9087,17 @@ In dringenden Fällen kann der Vorsitzende über die in diesem Abschnitt erwähn
 
 Erweist sich die Anordnung eines Arrestes oder einer einstweiligen Verfügung als von Anfang an ungerechtfertigt oder wird die angeordnete Maßregel auf Grund des § 926 Abs. 2 oder des § 942 Abs. 3 aufgehoben, so ist die Partei, welche die Anordnung erwirkt hat, verpflichtet, dem Gegner den Schaden zu ersetzen, der ihm aus der Vollziehung der angeordneten Maßregel oder dadurch entsteht, dass er Sicherheit leistet, um die Vollziehung abzuwenden oder die Aufhebung der Maßregel zu erwirken.
 
+### § 945a Einreichung von Schutzschriften
+
+(1) Die Landesjustizverwaltung Hessen führt für die Länder ein zentrales, länderübergreifendes elektronisches Register für Schutzschriften (Schutzschriftenregister). Schutzschriften sind vorbeugende Verteidigungsschriftsätze gegen erwartete Anträge auf Arrest oder einstweilige Verfügung.
+
+(2) Eine Schutzschrift gilt als bei allen ordentlichen Gerichten der Länder eingereicht, sobald sie in das Schutzschriftenregister eingestellt ist. Schutzschriften sind sechs Monate nach ihrer Einstellung zu löschen.
+
+(3) Die Gerichte erhalten Zugriff auf das Register über ein automatisiertes Abrufverfahren. Die Verwendung der Daten ist auf das für die Erfüllung der gesetzlichen Aufgaben Erforderliche zu beschränken. Abrufvorgänge sind zu protokollieren.
+
 ### § 945b Verordnungsermächtigung
 
-Das Bundesministerium der Justiz hat durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Bestimmungen über die Einrichtung und Führung des Registers, über die Einreichung von Schutzschriften zum Register, über den Abruf von Schutzschriften aus dem Register, über die Erhebung von Gebühren sowie über die Einzelheiten der Datenübermittlung und -speicherung sowie der Datensicherheit und der Barrierefreiheit zu treffen.
+Das Bundesministerium der Justiz und für Verbraucherschutz hat durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Bestimmungen über die Einrichtung und Führung des Registers, über die Einreichung von Schutzschriften zum Register, über den Abruf von Schutzschriften aus dem Register sowie über die Einzelheiten der Datenübermittlung und -speicherung sowie der Datensicherheit und der Barrierefreiheit zu treffen.
 
 ### (XXXX) §§ 946 bis 1024 (weggefallen)
 
@@ -9620,7 +9640,7 @@ Für die grenzüberschreitende Prozesskostenhilfe innerhalb der Europäischen Un
 
 (1) Für die Entgegennahme und Übermittlung von Anträgen natürlicher Personen auf grenzüberschreitende Prozesskostenhilfe ist das Amtsgericht zuständig, in dessen Bezirk der Antragsteller seinen Wohnsitz oder gewöhnlichen Aufenthalt hat (Übermittlungsstelle). Die Landesregierungen können die Aufgaben der Übermittlungsstelle einem Amtsgericht für die Bezirke mehrerer Amtsgerichte durch Rechtsverordnung zuweisen. Sie können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. § 21 Satz 1 des Auslandsunterhaltsgesetzes bleibt unberührt.
 
-(2) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die in Artikel 16 Abs. 1 der Richtlinie 2003/8/EG vorgesehenen Standardformulare für Anträge auf grenzüberschreitende Prozesskostenhilfe und für deren Übermittlung einzuführen. Soweit Standardformulare für Anträge auf grenzüberschreitende Prozesskostenhilfe und für deren Übermittlung eingeführt sind, müssen sich der Antragsteller und die Übermittlungsstelle ihrer bedienen.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die in Artikel 16 Abs. 1 der Richtlinie 2003/8/EG vorgesehenen Standardformulare für Anträge auf grenzüberschreitende Prozesskostenhilfe und für deren Übermittlung einzuführen. Soweit Standardformulare für Anträge auf grenzüberschreitende Prozesskostenhilfe und für deren Übermittlung eingeführt sind, müssen sich der Antragsteller und die Übermittlungsstelle ihrer bedienen.
 
 (3) Die Übermittlungsstelle kann die Übermittlung durch Beschluss vollständig oder teilweise ablehnen, wenn der Antrag offensichtlich unbegründet ist oder offensichtlich nicht in den Anwendungsbereich der Richtlinie 2003/8/EG fällt. Sie kann von Amts wegen Übersetzungen von dem Antrag beigefügten fremdsprachigen Anlagen fertigen, soweit dies zur Vorbereitung einer Entscheidung nach Satz 1 erforderlich ist. Gegen die ablehnende Entscheidung findet die sofortige Beschwerde nach Maßgabe des § 127 Abs. 2 Satz 2 und 3 statt.
 
