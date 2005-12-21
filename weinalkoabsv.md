@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 22.12.2005 I 3664;
 
 Stand  
-geändert durch Art. 2 Abs. 99 G v. 22.12.2011 I 3044
+zuletzt geändert durch Art. 2 Abs. 23 G v. 6.6.2013 I 1482
 
 ### 
 
@@ -154,7 +154,7 @@ Soll Alkohol aus einem Interventionslager in einen anderen Mitgliedstaat der Eur
 
 ### § 11 Ausfuhr
 
-(1) Soll Alkohol aus einem Interventionslager in unverändertem Zustand ausgeführt werden, übersendet die Bundesanstalt jeweils eine Durchschrift des Abholscheins an die Zollstelle, in deren Bezirk der Alkohol ausgelagert wird. Der Abnehmer hat den Alkohol unverzüglich der in Satz 1 genannten Zollstelle nach § 9 der Außenwirtschaftsverordnung zu übermitteln und anzumelden und dabei ein Kontrollexemplar T5 in zwei Stücken unter Angabe der übernommenen Menge des Alkohols, der Nummer des Abholscheins sowie mit den nach den in § 1 genannten Rechtsakten vorgeschriebenen Eintragungen vorzulegen.
+(1) Soll Alkohol aus einem Interventionslager in unverändertem Zustand ausgeführt werden, übersendet die Bundesanstalt jeweils eine Durchschrift des Abholscheins an die Zollstelle, in deren Bezirk der Alkohol ausgelagert wird. Der Abnehmer hat den Alkohol unverzüglich der in Satz 1 genannten Zollstelle nach § 12 der Außenwirtschaftsverordnung zu übermitteln und anzumelden und dabei ein Kontrollexemplar T5 in zwei Stücken unter Angabe der übernommenen Menge des Alkohols, der Nummer des Abholscheins sowie mit den nach den in § 1 genannten Rechtsakten vorgeschriebenen Eintragungen vorzulegen.
 
 (2) Soll Alkohol aus einem Interventionslager nach Verarbeitung ausgeführt werden, so gilt Absatz 1 entsprechend. Zusätzlich sind in dem Kontrollexemplar T5 anzugeben
 
