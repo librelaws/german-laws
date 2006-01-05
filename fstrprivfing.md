@@ -2,7 +2,16 @@ Gesetz über den Bau und die Finanzierung von Bundesfernstraßen durch Private (
 ===========================================================================================
 
 Neuf  
-Neugefasst durch Bek. v. 6.1.2006 I 49
+Neugefasst durch Bek. v. 6.1.2006 I 49;
+
+Stand  
+zuletzt geändert durch Art. 20 G v. 14.8.2017 I 3122
+
+Hinweis  
+Änderung durch Art. 6 G v. 29.11.2018 I 2237 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 8 Nr. 2 G v. 29.11.2018 I 2237 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -48,7 +57,7 @@ Brücken, Tunneln und Gebirgspässen im Zuge von Bundesautobahnen und Bundesstra
 2.  
 mehrstreifigen Bundesstraßen mit getrennten Fahrbahnen für den Richtungsverkehr mit Kraftfahrzeugen.
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit den betroffenen Landesregierungen und ohne Zustimmung des Bundesrates die Strecken festzulegen, die nach Maßgabe dieses Gesetzes und der hierzu ergangenen Rechtsverordnungen gebaut, erhalten, betrieben und finanziert werden sollen.
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit den betroffenen Landesregierungen und ohne Zustimmung des Bundesrates die Strecken festzulegen, die nach Maßgabe dieses Gesetzes und der hierzu ergangenen Rechtsverordnungen gebaut, erhalten, betrieben und finanziert werden sollen.
 
 (2) Die Mautgebühren richten sich nach den Kosten für Bau, Erhaltung, Betrieb und weiteren Ausbau der jeweiligen Strecke. In diesem Rahmen müssen sie zumindest unter Berücksichtigung von Wegstrecke und der Fahrzeugart in einem angemessenen Verhältnis zu dem durchschnittlichen Vorteil der Benutzung stehen. Die Höhe der Mautgebühren kann auch von der Häufigkeit und dem Zeitpunkt der Benutzung abhängig gemacht werden.
 
@@ -60,7 +69,7 @@ Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, d
 
 ### § 4 Mautbemessungs- und -kalkulationsverordnung
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen über die Bemessung der Mautgebühren und die Kalkulation des Mautgebührensatzes nach § 3 Abs. 2 bis 5 zu erlassen.
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen über die Bemessung der Mautgebühren und die Kalkulation des Mautgebührensatzes nach § 3 Abs. 2 bis 5 zu erlassen.
 
 ### § 5 Mautgebührenverordnung
 
@@ -92,7 +101,7 @@ bei der Berechnung der Mautgebühr die Maßstäbe nach § 3 Abs. 2 bis 5 und der
 
 (3) Der Private kann jederzeit bei der obersten Landesstraßenbaubehörde beantragen, eine neue Mautgebühr zu genehmigen. Der Private hat einen Anspruch auf die Genehmigung, soweit sich die der genehmigten Mautgebühr zu Grunde liegenden Tatsachen wesentlich geändert haben.
 
-(4) Vor Erteilung der Genehmigung hat die oberste Landesstraßenbaubehörde die Zustimmung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung einzuholen.
+(4) Vor Erteilung der Genehmigung hat die oberste Landesstraßenbaubehörde die Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur einzuholen.
 
 (5) Die Genehmigung kann unbeschadet der verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf auch widerrufen werden, wenn der Private den Widerruf beantragt.
 
@@ -169,7 +178,7 @@ der Name der Person, die die Strecke benutzt.
 
 (5) Hat der Private mit einer anderen Stelle einen Vertrag über die Be- und Abrechnung der Mautgebühr geschlossen, sind die Vorschriften über Datenverarbeitung im Auftrag anzuwenden. Die Absätze 2 und 3 gelten für den Auftragnehmer entsprechend.
 
-(6) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung erlässt nach Anhörung der jeweils zuständigen obersten Landesstraßenbaubehörde durch Rechtsverordnung mit Zustimmung des Bundesrates ergänzende Bestimmungen über Art und Umfang der Erhebung, Verarbeitung und Nutzung der Daten nach Absatz 3 für die vom Privaten jeweils eingesetzten Verfahren.
+(6) Das Bundesministerium für Verkehr und digitale Infrastruktur erlässt nach Anhörung der jeweils zuständigen obersten Landesstraßenbaubehörde durch Rechtsverordnung mit Zustimmung des Bundesrates ergänzende Bestimmungen über Art und Umfang der Erhebung, Verarbeitung und Nutzung der Daten nach Absatz 3 für die vom Privaten jeweils eingesetzten Verfahren.
 
 ### § 10 Nachweis und Kontrolle der Mautgebührenentrichtung
 
@@ -228,7 +237,7 @@ eine nach § 6 Abs. 1 erteilte Genehmigung über die Höhe des Entgelts wirksam 
 
 nicht mehr anzuwenden. Die zuständige oberste Landesstraßenbaubehörde hat den nach Satz 1 maßgeblichen Tag im Bundesanzeiger bekannt zu machen.
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates eine auf Grund des § 3a Abs. 2 in Verbindung mit § 3 Abs. 2 bis 5 in der jeweils bis zum 7. September 2005 geltenden Fassung erlassene Rechtsverordnung, die nach Absatz 2 Satz 1 nicht mehr anzuwenden ist, aufzuheben.
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates eine auf Grund des § 3a Abs. 2 in Verbindung mit § 3 Abs. 2 bis 5 in der jeweils bis zum 7. September 2005 geltenden Fassung erlassene Rechtsverordnung, die nach Absatz 2 Satz 1 nicht mehr anzuwenden ist, aufzuheben.
 
 ### § 14
 
