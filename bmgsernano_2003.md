@@ -7,6 +7,9 @@ AnO nicht mehr anzuwenden, soweit sie Regelungen für die Beamtinnen und Beamten
 Aufh  
 AnO nicht mehr anzuwenden, soweit sie Regelungen für die Beamtinnen und Beamten der Bundeszentrale für gesundheitliche Aufklärung, des Deutschen Instituts für medizinische Dokumentation und Information, des Bundesinstituts für Arzneimittel und Medizinprodukte, des Paul-Ehrlich-Instituts und des Robert Koch-Instituts enthält, vgl. Abschn. II Satz 2 AnO v. 11.7.2012 I 1529 mWv 19.7.2012
 
+Stand  
+Geändert durch Art. 2 AnO v. 9.12.2014 I 2401
+
 ### 
 
 ```
@@ -24,12 +27,6 @@ die Direktorin oder den Direktor der Bundeszentrale für gesundheitliche Aufklä
 
 -  
 die Direktorin oder den Direktor des Deutschen Instituts für medizinische Dokumentation und Information,
-
--  
-die Präsidentin oder den Präsidenten des Bundessozialgerichts,
-
--  
-die Präsidentin oder den Präsidenten des Bundesversicherungsamtes,
 
 -  
 die Präsidentin und Professorin oder den Präsidenten und Professor des Bundesinstituts für Arzneimittel und Medizinprodukte,
