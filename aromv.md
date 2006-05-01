@@ -1,11 +1,11 @@
-Aromenverordnung (Artikel 22 d. Verordnung zur Neuordnung lebensmittelrechtlicher Kennzeichnungsvorschriften) ()
-================================================================================================================
+Aromenverordnung ()
+===================
 
 Neuf  
 Neugefasst durch Bek. v. 2.5.2006 I 1127;
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 29.9.2011 I 1996
+Zuletzt geändert durch Art. 3 V v. 5.7.2017 I 2272
 
 ### 
 
@@ -18,7 +18,7 @@ Zuletzt geändert durch Art. 1 V v. 29.9.2011 I 1996
        EWGRL 487/81 (CELEX Nr: 381L0487) +++)
 ```
 
-Die V ist auf Grund d. § 2 Abs. 3 Nr. 1, § 9 Abs. 1 Nr. 5 u. Abs. 3, §§ 10, 12 Abs. 1 Nr. 1, Abs. 2 Nr. 1 u. Abs. 3, § 16 Abs. 1 Satz 2 sowie § 19 Nr. 1, 2 u. 4 Buchst. a bis d G v. 15.8.1974 I 1945 vom Bundesminister für Jugend, Familie und Gesundheit im Einvernehmen mit den Bundesministern für Ernährung, Landwirtschaft u. Forsten u. für Wirtschaft erlassen u. in Kraft gem. Art. 27 V v. 22.12.1981 I 1625 mWv 31.12.1981. Die §§ 2 u. 6 Abs. 1 u. Anlage 1 sind auf Grund § 9 Abs. 1 Nr. 1 Buchst. a G v. 15.8.1974 I 1945 durch V v. 2.4.1985 I 631 neu erlassen.
+Die V wurde als Artikel 22 der V v. 22.12.1981 I 1625 von den Bundesministern für Jugend, Familie und Gesundheit und für Ernährung, Landwirtschaft u. Forsten im Einvernehmen mit den Bundesministern für Jugend, Familie und Gesundheit, für Ernährung, Landwirtschaft u. Forsten, für Wirtschaft und für Finanzen beschlossen. Die V ist auf Grund d. § 2 Abs. 3 Nr. 1, § 9 Abs. 1 Nr. 5 u. Abs. 3, §§ 10, 12 Abs. 1 Nr. 1, Abs. 2 Nr. 1 u. Abs. 3, § 16 Abs. 1 Satz 2 sowie § 19 Nr. 1, 2 u. 4 Buchst. a bis d G v. 15.8.1974 I 1945 vom Bundesminister für Jugend, Familie und Gesundheit im Einvernehmen mit den Bundesministern für Ernährung, Landwirtschaft u. Forsten u. für Wirtschaft erlassen u. in Kraft gem. Art. 27 V v. 22.12.1981 I 1625 mWv 31.12.1981. Die §§ 2 u. 6 Abs. 1 u. Anlage 1 sind auf Grund § 9 Abs. 1 Nr. 1 Buchst. a G v. 15.8.1974 I 1945 durch V v. 2.4.1985 I 631 neu erlassen.
 
 ### § 1 Begriffsbestimmung
 
@@ -65,7 +65,7 @@ Aromen, die zur Abgabe an Verbraucherinnen und Verbraucher im Sinne des § 3 Num
 
 ### § 5 Verkehrsverbot
 
-Aromen und alkoholfreie Erfrischungsgetränke, die Chinin oder dessen Salze enthalten, dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn sie durch die Angabe "chininhaltig" kenntlich gemacht sind. Satz 1 gilt nicht für alkoholfreie Erfrischungsgetränke, die nach den Vorschriften der Lebensmittel-Kennzeichnungsverordnung zu kennzeichnen sind.
+Aromen und alkoholfreie Erfrischungsgetränke, die Chinin oder dessen Salze enthalten, dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn sie durch die Angabe "chininhaltig" kenntlich gemacht sind. Satz 1 gilt nicht für alkoholfreie Erfrischungsgetränke, die zu kennzeichnen sind nach der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) in der jeweils geltenden Fassung.
 
 ### § 5a (weggefallen)
 
