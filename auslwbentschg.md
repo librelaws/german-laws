@@ -40,7 +40,7 @@ Ausführungsgesetz zum Schuldenabkommen ist das Gesetz zur Ausführung des Abkom
 Regelungsangebot ist ein dem Artikel 3 Buchstabe g des Schuldenabkommens entsprechendes Regelungsangebot; als Regelungsangebot im Sinne dieses Gesetzes gilt auch ein Angebot nach Anlage I des Schuldenabkommens;
 
 7.  
-Umtauschstücke sind Wertpapiere, die im Umtausch gegen die bei Annahme des Regelungsangebots eingereichten Auslandsbonds ausgegeben worden sind, sowie Auslandsbonds, denen die Regelungsbedingungen nach Annahme des Regelungsangebots aufgedruckt worden sind (Artikel 15 Abs. 2 Buchstabe a Nr. i und ii des Schuldenabkommens).
+Umtauschstücke sind Wertpapiere, die im Umtausch gegen die bei Annahme des Regelungsangebotes eingereichten Auslandsbonds ausgegeben worden sind, sowie Auslandsbonds, denen die Regelungsbedingungen nach Annahme des Regelungsangebotes aufgedruckt worden sind (Artikel 15 Abs. 2 Buchstabe a Nr. i und ii des Schuldenabkommens).
 
 ### § 2 Geltung des Bereinigungsgesetzes
 
@@ -67,7 +67,7 @@ Zweiter Abschnitt Entschädigungsansprüche aus Feststellungsbescheiden
 
 (2) Der Entschädigungsanspruch umfaßt nach Maßgabe des § 3 auch die Ansprüche aus den vor dem 15. März 1945 fällig gewordenen Zinsscheinen, für die der Entschädigungsberechtigte bei sinngemäßer Anwendung der für die Erteilung von Feststellungsbescheiden geltenden Vorschriften des Bereinigungsgesetzes einen Feststellungsbescheid hätte beanspruchen können.
 
-(3) Wenn der Aussteller das Vorliegen der in Absatz 2 genannten Voraussetzungen bestreitet, kann der Entschädigungsanspruch aus den vor dem 15. März 1945 fällig gewordenen Zinsscheinen nur geltend gemacht werden, nachdem die Kammer für Wertpapierbereinigung den Feststellungsbescheid durch rechtskräftige Entscheidung auf die Zinsscheine erstreckt hat. Für die Erstreckung gelten die für die Erteilung von Feststellungsbescheiden maßgebenden Vorschriften des Bereinigungsgesetzes sinngemäß; für den Lauf der Anmeldefristen (§ 37 Abs. 2 in Verbindung mit § 21 Abs. 1 AuslWBG) tritt an die Stelle des Stichtags der Beginn der Leistungspflicht (§ 5).
+(3) Wenn der Aussteller das Vorliegen der in Absatz 2 genannten Voraussetzungen bestreitet, kann der Entschädigungsanspruch aus den vor dem 15. März 1945 fällig gewordenen Zinsscheinen nur geltend gemacht werden, nachdem die Kammer für Wertpapierbereinigung den Feststellungsbescheid durch rechtskräftige Entscheidung auf die Zinsscheine erstreckt hat. Für die Erstreckung gelten die für die Erteilung von Feststellungsbescheiden maßgebenden Vorschriften des Bereinigungsgesetzes sinngemäß; für den Lauf der Anmeldefristen (§ 37 Abs. 2 in Verbindung mit § 21 Abs. 1 AuslWBG) tritt an die Stelle des Stichtages der Beginn der Leistungspflicht (§ 5).
 
 (4) Die Absätze 1 bis 3 gelten sinngemäß, wenn nach den Bedingungen, die für Auslandsbonds der im Feststellungsbescheid bezeichneten Art gelten, Zinsen gegen Vorlegung und Abstempelung der Stammurkunde zu zahlen waren.
 
@@ -77,7 +77,7 @@ Zweiter Abschnitt Entschädigungsansprüche aus Feststellungsbescheiden
 
 (2) Leistungen, die den Inhabern anerkannter Auslandsbonds der im Feststellungsbescheid bezeichneten Art nach dem Regelungsangebot zu einem früheren Zeitpunkt zustanden, werden zu Beginn der Leistungspflicht fällig. Eine Verzinsung dieser Leistungen für die Zwischenzeit kann nicht beansprucht werden.
 
-(3) Soweit es nach einem Regelungsangebot, das Barablösung vorsieht, für die Dauer der Verzinsung auf den Zeitpunkt der Anerkennung ankommt, tritt an die Stelle dieses Zeitpunkts der Beginn der Leistungspflicht.
+(3) Soweit es nach einem Regelungsangebot, das Barablösung vorsieht, für die Dauer der Verzinsung auf den Zeitpunkt der Anerkennung ankommt, tritt an die Stelle dieses Zeitpunktes der Beginn der Leistungspflicht.
 
 (4) Schweben zu Beginn der Leistungspflicht Anmeldungen oder gerichtliche Verfahren, in denen Auslandsbonds des Ausstellers oder Zinsscheine von solchen Auslandsbonds geltend gemacht werden, so kann der Aussteller seine Leistungen vorläufig zurückbehalten, soweit er unter Berücksichtigung der geltend gemachten Auslandsbonds oder Zinsscheine eine Kürzung des Entschädigungsanspruchs nach § 53 Abs. 2 AuslWBG verlangen könnte. Die nach Satz 1 zurückbehaltenen Leistungen sind unverzüglich nachzuholen, wenn mit einer Kürzung des Entschädigungsanspruchs nicht mehr zu rechnen ist; Absatz 2 Satz 2 gilt sinngemäß.
 
@@ -87,7 +87,7 @@ Zweiter Abschnitt Entschädigungsansprüche aus Feststellungsbescheiden
 
 (1) Nach Beginn der Leistungspflicht ist das Recht des Ausstellers, eine Kürzung des Entschädigungsanspruchs nach § 53 Abs. 2 AuslWBG zu verlangen, ausgeschlossen, es sei denn, daß der Aussteller seine Leistungen nach § 5 Abs. 4 zurückbehalten hat.
 
-(2) Der Entschädigungsberechtigte hat dem Aussteller für den Ausschluß nachträglicher Kürzungen einen einmaligen Ablösungsbetrag in Höhe von zwei vom Hundert des Kapitalbetrags des Entschädigungsanspruchs einschließlich der nach dem Regelungsangebot zum Kapital geschlagenen Zinsen zu zahlen. Der Ablösungsbetrag wird mit Beginn der Leistungspflicht fällig; der Aussteller kann ihn bei Zahlungen, die er auf den Entschädigungsanspruch leistet, einbehalten.
+(2) Der Entschädigungsberechtigte hat dem Aussteller für den Ausschluß nachträglicher Kürzungen einen einmaligen Ablösungsbetrag in Höhe von zwei vom Hundert des Kapitalbetrages des Entschädigungsanspruchs einschließlich der nach dem Regelungsangebot zum Kapital geschlagenen Zinsen zu zahlen. Der Ablösungsbetrag wird mit Beginn der Leistungspflicht fällig; der Aussteller kann ihn bei Zahlungen, die er auf den Entschädigungsanspruch leistet, einbehalten.
 
 (3) Soweit Ablösungsbeträge, die dem Aussteller nach Absatz 2 zustehen, zum Ausgleich eines durch Absatz 1 ausgeschlossenen Kürzungsrechts nicht ausreichen, kann der Aussteller von den anderen Ausstellern von Auslandsbonds Ausgleichszahlungen bis zur Höhe der ihnen zustehenden Ablösungsbeträge verlangen. Die Verpflichtung eines auf Ausgleich in Anspruch genommenen Ausstellers bemißt sich nach dem Verhältnis der ihm zustehenden Ablösungsbeträge zu dem Gesamtbetrag der allen Ausstellern zustehenden Ablösungsbeträge; dabei sind Ablösungsbeträge, die zum Ausgleich für ein nach Absatz 1 ausgeschlossenes Kürzungsrecht in Anspruch genommen worden sind, nicht zu berücksichtigen.
 
@@ -128,15 +128,15 @@ Dritter Abschnitt Entschädigungsansprüche für Tilgungsstücke
 
 ### § 11 Inhalt des Entschädigungsanspruchs
 
-(1) Die Vorschriften dieses Gesetzes über Entschädigungsansprüche aus Feststellungsbescheiden mit Ausnahme des § 4 Abs. 3, des § 5 Abs. 1 und der §§ 6, 8, 9 sind auf Entschädigungsansprüche für Tilgungsstücke sinngemäß anzuwenden, wenn der Entschädigungsberechtigte dieser Regelung innerhalb von fünf Jahren nach dem Inkrafttreten des Gesetzes oder nach Abgabe des Regelungsangebots zustimmt. Die Zustimmung muß dem Aussteller schriftlich erklärt werden; sie kann nicht unter einer Bedingung oder Zeitbestimmung erfolgen. Die Leistungspflicht des Ausstellers beginnt zwei Monate nach der Zustimmung des Entschädigungsberechtigten, frühestens jedoch zwei Monate nach Abgabe des Regelungsangebots.
+(1) Die Vorschriften dieses Gesetzes über Entschädigungsansprüche aus Feststellungsbescheiden mit Ausnahme des § 4 Abs. 3, des § 5 Abs. 1 und der §§ 6, 8, 9 sind auf Entschädigungsansprüche für Tilgungsstücke sinngemäß anzuwenden, wenn der Entschädigungsberechtigte dieser Regelung innerhalb von fünf Jahren nach dem Inkrafttreten des Gesetzes oder nach Abgabe des Regelungsangebots zustimmt. Die Zustimmung muß dem Aussteller schriftlich erklärt werden; sie kann nicht unter einer Bedingung oder Zeitbestimmung erfolgen. Die Leistungspflicht des Ausstellers beginnt zwei Monate nach der Zustimmung des Entschädigungsberechtigten, frühestens jedoch zwei Monate nach Abgabe des Regelungsangebotes.
 
-(2) Stimmt der Entschädigungsberechtigte der Regelung nach Absatz 1 Satz 1 nicht zu, so kann er von dem Aussteller die Geldleistungen verlangen, die ihm bei Anerkennung des Auslandsbonds, aus dem der Entschädigungsanspruch herrührt, ohne Annahme des Regelungsangebots zustehen würden. Die Vorschriften dieses Gesetzes mit Ausnahme des § 18 Abs. 2 und 4 finden in diesem Fall auf den Entschädigungsanspruch keine Anwendung; § 54 Abs. 1, 2 AuslWBG bleibt unberührt. Vor dem Zeitpunkt, in dem alle Verpflichtungen aus dem Schuldenabkommen und seinen Anlagen erledigt sind, darf der Aussteller Zahlungen auf den Entschädigungsanspruch nicht bewirken; § 12 Abs. 2 und 4 des Ausführungsgesetzes zum Schuldenabkommen gilt sinngemäß.
+(2) Stimmt der Entschädigungsberechtigte der Regelung nach Absatz 1 Satz 1 nicht zu, so kann er von dem Aussteller die Geldleistungen verlangen, die ihm bei Anerkennung des Auslandsbonds, aus dem der Entschädigungsanspruch herrührt, ohne Annahme des Regelungsangebots zustehen würden. Die Vorschriften dieses Gesetzes mit Ausnahme des § 18 Abs. 2 und 4 finden in diesem Falle auf den Entschädigungsanspruch keine Anwendung; § 54 Abs. 1, 2 AuslWBG bleibt unberührt. Vor dem Zeitpunkt, in dem alle Verpflichtungen aus dem Schuldenabkommen und seinen Anlagen erledigt sind, darf der Aussteller Zahlungen auf den Entschädigungsanspruch nicht bewirken; § 12 Abs. 2 und 4 des Ausführungsgesetzes zum Schuldenabkommen gilt sinngemäß.
 
 (3) Auf Dritte, die als Schuldner für Auslandsbonds unmittelbar haften, finden die für den Aussteller geltenden Vorschriften des Absatzes 2 sinngemäß Anwendung.
 
 ### § 12 Fälligkeit der Entschädigungsansprüche
 
-Hat sich der Aussteller in seinem Regelungsangebot zur Barablösung verpflichtet, so kann er innerhalb von zwei Monaten nach dem Inkrafttreten dieses Gesetzes oder nach Abgabe des Regelungsangebots die Endfälligkeit der Entschädigungsansprüche durch schriftliche Erklärung gegenüber dem Entschädigungsberechtigten hinausschieben, soweit dies nach dem Schuldenabkommen und seinen Anlagen für die Art von Auslandsbonds zulässig ist, zu der die Tilgungsstücke gehören; für Arten von Auslandsbonds, die unter die Anlage II des Schuldenabkommens fallen, darf eine spätere Endfälligkeit als der 31. Dezember 1967 nicht bestimmt werden. Macht der Aussteller von dieser Befugnis Gebrauch, so ist er zu den Geldleistungen verpflichtet, die sich aus dem Schuldenabkommen und seinen Anlagen für Verpflichtungen aus der Art von Auslandsbonds ergeben, zu der die Tilgungsstücke gehören.
+Hat sich der Aussteller in seinem Regelungsangebot zur Barablösung verpflichtet, so kann er innerhalb von zwei Monaten nach dem Inkrafttreten dieses Gesetzes oder nach Abgabe des Regelungsangebotes die Endfälligkeit der Entschädigungsansprüche durch schriftliche Erklärung gegenüber dem Entschädigungsberechtigten hinausschieben, soweit dies nach dem Schuldenabkommen und seinen Anlagen für die Art von Auslandsbonds zulässig ist, zu der die Tilgungsstücke gehören; für Arten von Auslandsbonds, die unter die Anlage II des Schuldenabkommens fallen, darf eine spätere Endfälligkeit als der 31. Dezember 1967 nicht bestimmt werden. Macht der Aussteller von dieser Befugnis Gebrauch, so ist er zu den Geldleistungen verpflichtet, die sich aus dem Schuldenabkommen und seinen Anlagen für Verpflichtungen aus der Art von Auslandsbonds ergeben, zu der die Tilgungsstücke gehören.
 
 ### § 13 Kürzungsrecht des Ausstellers nach Leistung
 
@@ -152,7 +152,7 @@ Der Aussteller kann sein Kürzungsrecht (§ 54 Abs. 2 Satz 1 in Verbindung mit �
 
 ### § 15 Gerichtsstand
 
-(1) Für Klagen aus Entschädigungsansprüchen für Tilgungsstücke ist das Landgericht Berlin ohne Rücksicht auf den Wert des Streitgegenstands ausschließlich zuständig.
+(1) Für Klagen aus Entschädigungsansprüchen für Tilgungsstücke ist das Landgericht Berlin ohne Rücksicht auf den Wert des Streitgegenstandes ausschließlich zuständig.
 
 (2) Absatz 1 gilt sinngemäß für Klagen auf Feststellung des Bestehens oder Nichtbestehens von Entschädigungsansprüchen für Tilgungsstücke.
 
