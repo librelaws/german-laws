@@ -5,10 +5,10 @@ Neuf
 Neugefasst durch Bek. v. 16.10.2006 I 2230;
 
 Stand  
-zuletzt geändert durch Art. 17 G v. 24.4.2015 I 642
+zuletzt geändert durch Art. 7 G v. 31.3.2016 I 518
 
 Hinweis  
-Änderung durch Art. 7 G v. 31.3.2016 I 518 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 10 G v. 10.5.2016 I 1142 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -109,6 +109,7 @@ Hinweis
 | § 55                                                       |
 | § 56                                                       |
 | § 57                                                       |
+| § 57a                                                      |
 | § 58                                                       |
 | § 59                                                       |
 | § 60                                                       |
@@ -222,8 +223,10 @@ Hinweis
 | § 149                                                      |
 | § 150                                                      |
 | § 151                                                      |
+| § 151a                                                     |
 | § 152                                                      |
-| §§ 153 und 154                                             |
+| § 153                                                      |
+| § 154                                                      |
 |                                                            |
 | Abschnitt 10                                               |
 | Schlussvorschriften                                        |
@@ -241,6 +244,7 @@ Hinweis
 | § 166                                                      |
 | § 167                                                      |
 | § 168                                                      |
+| § 169                                                      |
 
 Abschnitt 1 Errichtung der Genossenschaft
 -----------------------------------------
@@ -707,7 +711,7 @@ Die für Mitglieder des Vorstands gegebenen Vorschriften gelten auch für Stellv
 
 (3) Die Bestellung zum Mitglied des Aufsichtsrats kann auch vor Ablauf des Zeitraums, für welchen es gewählt ist, durch die Generalversammlung widerrufen werden. Der Beschluss bedarf einer Mehrheit, die mindestens drei Viertel der abgegebenen Stimmen umfasst.
 
-(4) Bei einer Genossenschaft, die kapitalmarktorientiert im Sinn des § 264d des Handelsgesetzbuchs ist, muss mindestens ein unabhängiges Mitglied des Aufsichtsrats über Sachverstand in Rechnungslegung oder Abschlussprüfung verfügen.
+(4) Bei einer Genossenschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes ist, müssen die Mitglieder des Aufsichtsrats in ihrer Gesamtheit mit dem Sektor, in dem die Genossenschaft tätig ist, vertraut sein; mindestens ein Mitglied muss über Sachverstand auf den Gebieten Rechnungslegung oder Abschlussprüfung verfügen.
 
 ### § 37 Unvereinbarkeit von Ämtern
 
@@ -719,7 +723,7 @@ Die für Mitglieder des Vorstands gegebenen Vorschriften gelten auch für Stellv
 
 (1) Der Aufsichtsrat hat den Vorstand bei dessen Geschäftsführung zu überwachen. Er kann zu diesem Zweck von dem Vorstand jederzeit Auskünfte über alle Angelegenheiten der Genossenschaft verlangen und die Bücher und Schriften der Genossenschaft sowie den Bestand der Genossenschaftskasse und die Bestände an Wertpapieren und Waren einsehen und prüfen. Er kann einzelne seiner Mitglieder beauftragen, die Einsichtnahme und Prüfung durchzuführen. Auch ein einzelnes Mitglied des Aufsichtsrats kann Auskünfte, jedoch nur an den Aufsichtsrat, verlangen. Der Aufsichtsrat hat den Jahresabschluss, den Lagebericht und den Vorschlag für die Verwendung des Jahresüberschusses oder die Deckung des Jahresfehlbetrags zu prüfen; über das Ergebnis der Prüfung hat er der Generalversammlung vor der Feststellung des Jahresabschlusses zu berichten.
 
-(1a) Der Aufsichtsrat kann einen Prüfungsausschuss bestellen, der sich mit der Überwachung des Rechnungslegungsprozesses sowie der Wirksamkeit des internen Kontrollsystems, des Risikomanagementsystems und des internen Revisionssystems befasst. Richtet der Aufsichtsrat einer Genossenschaft, die kapitalmarktorientiert im Sinn des § 264d des Handelsgesetzbuchs ist, einen Prüfungsausschuss ein, so muss diesem mindestens ein Mitglied angehören, welches die Voraussetzungen des § 36 Abs. 4 erfüllt.
+(1a) Der Aufsichtsrat kann einen Prüfungsausschuss bestellen, der sich mit der Überwachung des Rechnungslegungsprozesses sowie der Wirksamkeit des internen Kontrollsystems, des Risikomanagementsystems und des internen Revisionssystems sowie der Abschlussprüfung befasst. Der Prüfungsausschuss kann Empfehlungen oder Vorschläge zur Gewährleistung der Integrität des Rechnungslegungsprozesses unterbreiten. Richtet der Aufsichtsrat einer Genossenschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes ist, einen Prüfungsausschuss ein, so muss dieser die Voraussetzungen des § 36 Absatz 4 erfüllen. Artikel 6 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) findet mit der Maßgabe Anwendung, dass die Erklärung bezogen auf die gesetzlichen Vertreter des Verbandes und die vom Verband beschäftigten Personen, die das Ergebnis der Prüfung beeinflussen können, abzugeben ist.
 
 (2) Der Aufsichtsrat hat eine Generalversammlung einzuberufen, wenn dies im Interesse der Genossenschaft erforderlich ist. Ist nach der Satzung kein Aufsichtsrat zu bilden, gilt § 44.
 
@@ -875,9 +879,9 @@ Abschnitt 4 Prüfung und Prüfungsverbände
 
 (1) Zwecks Feststellung der wirtschaftlichen Verhältnisse und der Ordnungsmäßigkeit der Geschäftsführung sind die Einrichtungen, die Vermögenslage sowie die Geschäftsführung der Genossenschaft einschließlich der Führung der Mitgliederliste mindestens in jedem zweiten Geschäftsjahr zu prüfen. Bei Genossenschaften, deren Bilanzsumme 2 Millionen Euro übersteigt, muss die Prüfung in jedem Geschäftsjahr stattfinden.
 
-(2) Im Rahmen der Prüfung nach Absatz 1 ist bei Genossenschaften, deren Bilanzsumme eine Million Euro und deren Umsatzerlöse 2 Millionen Euro übersteigen, der Jahresabschluss unter Einbeziehung der Buchführung und des Lageberichts zu prüfen. § 316 Abs. 3, § 317 Abs. 1 Satz 2 und 3, Abs. 2 des Handelsgesetzbuchs sind entsprechend anzuwenden. Bei der Prüfung großer Genossenschaften im Sinn des § 58 Abs. 2 ist § 317 Abs. 5 und 6 des Handelsgesetzbuchs entsprechend anzuwenden.
+(2) Im Rahmen der Prüfung nach Absatz 1 ist bei Genossenschaften, deren Bilanzsumme eine Million Euro und deren Umsatzerlöse 2 Millionen Euro übersteigen, der Jahresabschluss unter Einbeziehung der Buchführung und des Lageberichts zu prüfen. § 316 Abs. 3, § 317 Abs. 1 Satz 2 und 3, Abs. 2 des Handelsgesetzbuchs sind entsprechend anzuwenden; Artikel 17 der Verordnung (EU) Nr. 537/2014 findet keine Anwendung. Bei der Prüfung großer Genossenschaften im Sinn des § 58 Abs. 2 ist § 317 Abs. 5 und 6 des Handelsgesetzbuchs entsprechend anzuwenden.
 
-(3) Für Genossenschaften, die kapitalmarktorientiert im Sinn des § 264d des Handelsgesetzbuchs sind und keinen Aufsichtsrat haben, gilt § 324 des Handelsgesetzbuchs entsprechend.
+(3) Für Genossenschaften, die kapitalmarktorientiert im Sinn des § 264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes sind und keinen Aufsichtsrat haben, gilt § 324 des Handelsgesetzbuchs entsprechend.
 
 ### § 54 Pflichtmitgliedschaft im Prüfungsverband
 
@@ -885,7 +889,7 @@ Die Genossenschaft muss einem Verband angehören, dem das Prüfungsrecht verlieh
 
 ### § 54a Wechsel des Prüfungsverbandes
 
-(1) Scheidet eine Genossenschaft aus dem Verband aus, so hat der Verband das Registergericht unverzüglich zu benachrichtigen. Das Registergericht hat eine Frist zu bestimmen, innerhalb derer die Genossenschaft die Mitgliedschaft bei einem Verband zu erwerben hat.
+(1) Scheidet eine Genossenschaft aus dem Verband aus, so hat der Verband das Registergericht unverzüglich zu benachrichtigen. Das Registergericht hat eine Frist zu bestimmen, innerhalb derer die Genossenschaft die Mitgliedschaft bei einem Verband zu erwerben hat. Die Artikel 16 und 19 der Verordnung (EU) Nr. 537/2014 finden keine Anwendung.
 
 (2) Weist die Genossenschaft nicht innerhalb der gesetzten Frist dem Registergericht nach, dass sie die Mitgliedschaft erworben hat, so hat das Registergericht von Amts wegen nach Anhörung des Vorstands die Auflösung der Genossenschaft auszusprechen. § 80 Abs. 2 findet Anwendung.
 
@@ -918,15 +922,17 @@ eigenständige versicherungsmathematische oder Bewertungsleistungen erbracht hat
 
 sofern diese Tätigkeiten nicht von untergeordneter Bedeutung sind; dies gilt auch, wenn eine dieser Tätigkeiten von einem Unternehmen für die zu prüfende Genossenschaft ausgeübt wird, bei dem der gesetzliche Vertreter des Verbandes oder die vom Verband beschäftigte Person als gesetzlicher Vertreter, Arbeitnehmer, Mitglied des Aufsichtsrats oder Gesellschafter, der mehr als 20 Prozent der den Gesellschaftern zustehenden Stimmrechte besitzt, diese Tätigkeit ausübt oder deren Ergebnis beeinflussen kann.
 
-Satz 2 Nr. 2 ist auf Mitglieder des Aufsichtsorgans des Verbandes nicht anzuwenden, sofern sichergestellt ist, dass der Prüfer die Prüfung unabhängig von den Weisungen durch das Aufsichtsorgan durchführen kann. Die Sätze 2 und 3 gelten auch, wenn der Ehegatte oder der Lebenspartner einen Ausschlussgrund erfüllt. Nimmt die zu prüfende Genossenschaft einen organisierten Markt im Sinne des § 2 Abs. 5 des Wertpapierhandelsgesetzes in Anspruch, ist über die in den Sätzen 1 bis 4 genannten Gründe hinaus § 319a Abs. 1 des Handelsgesetzbuchs auf die in Satz 1 genannten Vertreter und Personen des Verbandes entsprechend anzuwenden.
+Satz 2 Nr. 2 ist auf Mitglieder des Aufsichtsorgans des Verbandes nicht anzuwenden, sofern sichergestellt ist, dass der Prüfer die Prüfung unabhängig von den Weisungen durch das Aufsichtsorgan durchführen kann. Die Sätze 2 und 3 gelten auch, wenn der Ehegatte oder der Lebenspartner einen Ausschlussgrund erfüllt. Ist die zu prüfende Genossenschaft kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder ist sie ein CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, sind über die in den Sätzen 1 bis 4 genannten Gründe hinaus § 319a Absatz 1 und 3 des Handelsgesetzbuchs sowie Artikel 5 Absatz 1, 4 Unterabsatz 1 und Absatz 5 der Verordnung (EU) Nr. 537/2014 auf die in Satz 1 genannten Vertreter und Personen des Verbandes entsprechend anzuwenden; auf den Verband findet Artikel 5 der Verordnung (EU) Nr. 537/2014 keine Anwendung.
+
+(2a) Artikel 4 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 findet auf alle in Absatz 2 Satz 1 genannten Vertreter und Personen des Verbandes entsprechende Anwendung; auf den Verband findet Artikel 4 Absatz 2 und 3 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 keine Anwendung. Artikel 4 Absatz 3 Unterabsatz 2 der Verordnung (EU) Nr. 537/2014 findet keine Anwendung.
 
 (3) Der Verband kann sich eines von ihm nicht angestellten Prüfers bedienen, wenn dies im Einzelfall notwendig ist, um eine gesetzmäßige sowie sach- und termingerechte Prüfung zu gewährleisten. Der Verband darf jedoch nur einen anderen Prüfungsverband, einen Wirtschaftsprüfer oder eine Wirtschaftsprüfungsgesellschaft mit der Prüfung beauftragen.
 
-(4) Führt ein Prüfungsverband die gesetzlich vorgeschriebene Abschlussprüfung bei einem Unternehmen durch, das kapitalmarktorientiert im Sinn des § 264d des Handelsgesetzbuchs ist, hat er einen Transparenzbericht zu veröffentlichen. § 55c der Wirtschaftsprüferordnung gilt entsprechend.
+(4) (weggefallen)
 
 ### § 56 Ruhen des Prüfungsrechts des Verbandes
 
-(1) Das Prüfungsrecht des Verbandes ruht, wenn der Verband über keine wirksame Bescheinigung über die Teilnahme an der nach § 63e Abs. 1 erforderlichen Qualitätskontrolle verfügt, es sei denn, dass eine Ausnahmegenehmigung nach § 63e Abs. 3 erteilt worden ist.
+(1) Die Aufsichtsbehörde kann das Ruhen des Prüfungsrechts des Verbandes anordnen, wenn dieser sich einer angeordneten Untersuchung nach § 64 Absatz 2 Satz 2 Nummer 4 entzieht oder wenn nach den Ergebnissen einer solchen Untersuchung ein Ruhen des Prüfungsrechts erforderlich erscheint, um weitere Feststellungen dazu treffen zu können, ob der Verband seine Aufgaben ordnungsgemäß erfüllt. Das Prüfungsrecht eines Verbandes, der sich nach § 63e Absatz 1 einer Qualitätskontrolle zu unterziehen hat, ruht, wenn der Verband nicht mehr gemäß § 40a Absatz 1 Satz 1 der Wirtschaftsprüferordnung im Register eingetragen ist.
 
 (2) Ruht das Prüfungsrecht des Verbandes, so hat der Spitzenverband, dem der Verband angehört, auf Antrag des Vorstands der Genossenschaft oder des Verbandes einen anderen Prüfungsverband, einen Wirtschaftsprüfer oder eine Wirtschaftsprüfungsgesellschaft als Prüfer zu bestellen. Bestellt der Spitzenverband keinen Prüfer oder gehört der Verband keinem Spitzenverband an, so hat das Registergericht auf Antrag des Vorstands der Genossenschaft oder des Verbandes einen Prüfer im Sinne des Satzes 1 zu bestellen. Der Vorstand ist verpflichtet, die Anträge unverzüglich zu stellen, soweit diese nicht vom Verband gestellt werden.
 
@@ -942,17 +948,23 @@ Satz 2 Nr. 2 ist auf Mitglieder des Aufsichtsorgans des Verbandes nicht anzuwend
 
 (4) In unmittelbarem Zusammenhang mit der Prüfung soll der Prüfer in einer gemeinsamen Sitzung des Vorstands und des Aufsichtsrats der Genossenschaft über das voraussichtliche Ergebnis der Prüfung mündlich berichten. Er kann zu diesem Zwecke verlangen, dass der Vorstand oder der Vorsitzende des Aufsichtsrats zu einer solchen Sitzung einladen; wird seinem Verlangen nicht entsprochen, so kann er selbst Vorstand und Aufsichtsrat unter Mitteilung des Sachverhalts berufen.
 
-(5) Ist nach der Satzung kein Aufsichtsrat zu bilden, werden die Rechte und Pflichten des Aufsichtsratsvorsitzenden nach den Absätzen 2 bis 4 durch einen von der Generalversammlung aus ihrer Mitte gewählten Bevollmächtigten wahrgenommen.
+(5) Ist eine Genossenschaft kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder ist sie ein CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, so hat der Prüfer an einer gemeinsamen Sitzung des Vorstands und des Aufsichtsrats der Genossenschaft über das voraussichtliche Ergebnis der Prüfung teilzunehmen und über die wesentlichen Ergebnisse seiner Prüfung, insbesondere über wesentliche Schwächen des internen Kontroll- und des Risikomanagementsystems bezogen auf den Rechnungslegungsprozess, zu berichten. Er informiert über Umstände, die seine Befangenheit besorgen lassen, und über Leistungen, die er zusätzlich zu den Prüfungsleistungen erbracht hat.
+
+(6) Ist nach der Satzung kein Aufsichtsrat zu bilden, werden die Rechte und Pflichten des Aufsichtsratsvorsitzenden nach den Absätzen 2 bis 4 durch einen von der Generalversammlung aus ihrer Mitte gewählten Bevollmächtigten wahrgenommen.
+
+### § 57a Prüfungsbegleitende Qualitätssicherung
+
+Ist die zu prüfende Genossenschaft kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder ist sie ein CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes mit einer Bilanzsumme von mehr als 3 Milliarden Euro, hat in entsprechender Anwendung des Artikels 8 der Verordnung (EU) Nr. 537/2014 eine prüfungsbegleitende Qualitätssicherung stattzufinden. Die prüfungsbegleitende Qualitätssicherung darf nur von solchen fachlich und persönlich geeigneten Personen wahrgenommen werden, die an der Durchführung der Prüfung nicht beteiligt sind.
 
 ### § 58 Prüfungsbericht
 
 (1) Der Verband hat über das Ergebnis der Prüfung schriftlich zu berichten. Auf den Prüfungsbericht ist, soweit er den Jahresabschluss und den Lagebericht betrifft, § 321 Abs. 1 bis 3 sowie 4a des Handelsgesetzbuchs entsprechend anzuwenden.
 
-(2) Auf die Prüfung von Genossenschaften, die die Größenmerkmale des § 267 Abs. 3 des Handelsgesetzbuchs erfüllen, ist § 322 des Handelsgesetzbuchs über den Bestätigungsvermerk entsprechend anzuwenden.
+(2) Auf die Prüfung von Genossenschaften, die die Größenmerkmale des § 267 Abs. 3 des Handelsgesetzbuchs erfüllen, ist § 322 des Handelsgesetzbuchs über den Bestätigungsvermerk entsprechend anzuwenden. Artikel 10 Absatz 2 Buchstabe g der Verordnung (EU) Nr. 537/2014 findet auf alle in § 55 Absatz 2 Satz 1 genannten Vertreter und Personen des Verbandes entsprechende Anwendung; auf den Verband findet Artikel 10 Absatz 2 Buchstabe g der Verordnung (EU) Nr. 537/2014 keine Anwendung.
 
-(3) Der Verband hat den Prüfungsbericht zu unterzeichnen und dem Vorstand der Genossenschaft sowie dem Vorsitzenden des Aufsichtsrats vorzulegen; § 57 Abs. 5 ist entsprechend anzuwenden. Jedes Mitglied des Aufsichtsrats hat den Inhalt des Prüfungsberichts zur Kenntnis zu nehmen.
+(3) Der Verband hat den Prüfungsbericht zu unterzeichnen und dem Vorstand der Genossenschaft sowie dem Vorsitzenden des Aufsichtsrats vorzulegen; § 57 Absatz 6 ist entsprechend anzuwenden, Artikel 11 Absatz 1, 2 Satz 1 und Absatz 4 der Verordnung (EU) Nr. 537/2014 ist nicht anzuwenden. Jedes Mitglied des Aufsichtsrats hat den Inhalt des Prüfungsberichts zur Kenntnis zu nehmen.
 
-(4) Über das Ergebnis der Prüfung haben Vorstand und Aufsichtsrat der Genossenschaft in gemeinsamer Sitzung unverzüglich nach Eingang des Prüfungsberichts zu beraten. Verband und Prüfer sind berechtigt, an der Sitzung teilzunehmen; der Vorstand ist verpflichtet, den Verband von der Sitzung in Kenntnis zu setzen.
+(4) Über das Ergebnis der Prüfung haben Vorstand und Aufsichtsrat der Genossenschaft in gemeinsamer Sitzung unverzüglich nach Eingang des Prüfungsberichts zu beraten; ist die Genossenschaft kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder ist sie CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, so hat der Aufsichtsrat darzulegen, wie die Prüfung sowie die Befassung des Aufsichtsrats oder Prüfungsausschusses mit der Abschlussprüfung dazu beigetragen hat, dass die Rechnungslegung ordnungsgemäß ist. Verband und Prüfer sind berechtigt, an der Sitzung teilzunehmen; der Vorstand ist verpflichtet, den Verband von der Sitzung in Kenntnis zu setzen.
 
 ### § 59 Prüfungsbescheinigung; Befassung der Generalversammlung
 
@@ -996,7 +1008,7 @@ Das Prüfungsrecht wird dem Verband durch die zuständige oberste Landesbehörde
 
 ### § 63b Rechtsform, Mitglieder und Zweck des Prüfungsverbandes
 
-(1) Der Verband soll die Rechtsform des eingetragenen Vereins haben.
+(1) Der Verband soll die Rechtsform des eingetragenen Vereins haben. Eine andere Rechtsform ist nur zulässig, wenn sichergestellt ist, dass der Verband ohne Gewinnerzielungsabsicht handelt.
 
 (2) Mitglieder des Verbandes können nur eingetragene Genossenschaften und ohne Rücksicht auf ihre Rechtsform solche Unternehmen oder andere Vereinigungen sein, die sich ganz oder überwiegend in der Hand eingetragener Genossenschaften befinden oder dem Genossenschaftswesen dienen. Ob diese Voraussetzungen vorliegen, entscheidet im Zweifelsfall die Aufsichtsbehörde. Sie kann Ausnahmen von der Vorschrift des Satzes 1 zulassen, wenn ein wichtiger Grund vorliegt.
 
@@ -1024,7 +1036,7 @@ den Sitz;
 4.  
 den Bezirk.
 
-(2) Die Satzung soll ferner Bestimmungen enthalten über Auswahl und Befähigungsnachweis der anzustellenden Prüfer, über Art und Umfang der Prüfungen sowie, soweit der Prüfungsverband Abschlussprüfungen von Genossenschaften im Sinn des § 58 Abs. 2, im Sinn des § 340k Abs. 2 Satz 1 des Handelsgesetzbuchs, im Sinn des Artikels 25 Abs. 1 Satz 1 des Einführungsgesetzes zum Handelsgesetzbuch durchführt oder den Konzernabschluss einer Genossenschaft nach § 14 Abs. 1 des Publizitätsgesetzes prüft, über die Registrierung als Abschlussprüfer, über die Bindung an die Berufsgrundsätze und die Beachtung der Prüfungsstandards entsprechend den für Wirtschaftsprüfungsgesellschaften geltenden Bestimmungen, über Berufung, Sitz, Aufgaben und Befugnisse des Vorstands und über die sonstigen Organe des Verbandes.
+(2) Die Satzung soll ferner Bestimmungen enthalten über Auswahl und Befähigungsnachweis der anzustellenden Prüfer, über Art und Umfang der Prüfungen sowie, soweit der Prüfungsverband gesetzlich vorgeschriebene Abschlussprüfungen von Genossenschaften im Sinne des § 53 Absatz 2, im Sinn des § 340k Abs. 2 Satz 1 des Handelsgesetzbuchs, im Sinn des Artikels 25 Abs. 1 Satz 1 des Einführungsgesetzes zum Handelsgesetzbuch durchführt oder den Konzernabschluss einer Genossenschaft nach § 14 Abs. 1 des Publizitätsgesetzes prüft, über die Registrierung als Abschlussprüfer, über die Bindung an die Berufsgrundsätze und die Beachtung der Prüfungsstandards entsprechend den für Wirtschaftsprüfungsgesellschaften geltenden Bestimmungen, über Berufung, Sitz, Aufgaben und Befugnisse des Vorstands und über die sonstigen Organe des Verbandes.
 
 (3) Änderungen der Satzung, die nach den Absätzen 1 und 2 notwendige Bestimmungen zum Gegenstand haben, sind der Aufsichtsbehörde unverzüglich anzuzeigen.
 
@@ -1034,13 +1046,13 @@ Der Verband hat den Registergerichten, in deren Bezirk die ihm angehörenden Gen
 
 ### § 63e Qualitätskontrolle für Prüfungsverbände
 
-(1) Die Prüfungsverbände sind verpflichtet, sich im Abstand von jeweils sechs Jahren einer Qualitätskontrolle nach Maßgabe der §§ 63f und 63g zu unterziehen. Prüft ein Prüfungsverband auch eine Genossenschaft, eine in Artikel 25 Abs. 1 Satz 1 Nr. 1 des Einführungsgesetzes zum Handelsgesetzbuch genannte Gesellschaft oder ein in Artikel 25 Abs. 1 Satz 1 Nr. 2 des Einführungsgesetzes zum Handelsgesetzbuch genanntes Unternehmen, die einen organisierten Markt im Sinne des § 2 Abs. 5 des Wertpapierhandelsgesetzes in Anspruch nehmen, verringert sich der Abstand auf drei Jahre. Ein Prüfungsverband, der keine in § 53 Abs. 2 Satz 1 bezeichneten Genossenschaften prüft, ist nicht verpflichtet, sich einer Qualitätskontrolle zu unterziehen.
+(1) Die Prüfungsverbände sind verpflichtet, sich im Abstand von jeweils sechs Jahren einer Qualitätskontrolle nach Maßgabe der §§ 63f und 63g zu unterziehen. Prüft ein Prüfungsverband auch eine Genossenschaft, eine in Artikel 25 Abs. 1 Satz 1 Nr. 1 des Einführungsgesetzes zum Handelsgesetzbuch genannte Gesellschaft oder ein in Artikel 25 Abs. 1 Satz 1 Nr. 2 des Einführungsgesetzes zum Handelsgesetzbuch genanntes Unternehmen, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder ein CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes sind, verringert sich der Abstand auf drei Jahre. Ein Prüfungsverband, der keine gesetzlich vorgeschriebene Abschlussprüfung durchführt, ist nicht verpflichtet, sich einer Qualitätskontrolle zu unterziehen.
 
-(2) Die Qualitätskontrolle dient der Überwachung, ob die Grundsätze und Maßnahmen zur Qualitätssicherung nach Maßgabe der gesetzlichen Vorschriften insgesamt und bei der Durchführung einzelner Aufträge eingehalten werden. Sie erstreckt sich auf die Prüfungen nach § 53 Abs. 1 und 2 bei den in § 53 Abs. 2 Satz 1 bezeichneten Genossenschaften und die Prüfungen bei den in Artikel 25 Abs. 1 Satz 1 des Einführungsgesetzes zum Handelsgesetzbuche genannten Gesellschaften und Unternehmen.
+(2) Die Qualitätskontrolle dient der Überwachung, ob die Grundsätze und Maßnahmen zur Qualitätssicherung nach Maßgabe der gesetzlichen Vorschriften insgesamt und bei der Durchführung einzelner Aufträge eingehalten werden. Sie erstreckt sich auf die Prüfungen nach § 53 Abs. 1 und 2 bei den in § 53 Abs. 2 Satz 1 bezeichneten Genossenschaften und die Prüfungen bei den in Artikel 25 Abs. 1 Satz 1 des Einführungsgesetzes zum Handelsgesetzbuche genannten Gesellschaften und Unternehmen, die keine kleinen Kapitalgesellschaften im Sinne des § 267 Absatz 1 des Handelsgesetzbuchs sind.
 
-(3) Zur Vermeidung von Härtefällen kann die Wirtschaftsprüferkammer auf Antrag befristete Ausnahmen von der Verpflichtung nach Absatz 1 genehmigen. Die Ausnahmegenehmigung kann wiederholt erteilt werden. Die Wirtschaftsprüferkammer kann vor ihrer Entscheidung eine Stellungnahme der nach § 63 Aufsichtsbehörde einholen.
+(3) Der Prüfungsverband hat der Aufsichtsbehörde die erfolgte Durchführung einer Qualitätskontrolle mitzuteilen.
 
-(4) Ein Prüfungsverband, der erstmalig eine der Qualitätskontrolle unterfallende Prüfung durchführt, muss spätestens bei Beginn der Prüfung über eine wirksame Bescheinigung über die Teilnahme an der Qualitätskontrolle oder über eine Ausnahmegenehmigung verfügen; im Falle einer Ausnahmegenehmigung ist die Qualitätskontrolle spätestens drei Jahre nach Beginn der ersten Prüfung durchzuführen.
+(4) Ein Prüfungsverband, der erstmalig eine gesetzlich vorgeschriebene Abschlussprüfung durchführt, hat sich spätestens drei Jahre nach deren Beginn einer Qualitätskontrolle zu unterziehen.
 
 ### § 63f Prüfer für Qualitätskontrolle
 
@@ -1055,23 +1067,23 @@ ihm das Prüfungsrecht seit mindestens drei Jahren zusteht;
 mindestens ein Mitglied seines Vorstands oder ein nach § 30 des Bürgerlichen Gesetzbuchs bestellter besonderer Vertreter ein Wirtschaftsprüfer ist, der als Prüfer für Qualitätskontrolle nach § 57a Abs. 3 der Wirtschaftsprüferordnung registriert ist;
 
 3.  
-der Prüfungsverband über eine wirksame Bescheinigung über die Teilnahme an der Qualitätskontrolle verfügt.
+der Prüfungsverband nach § 40a Absatz 1 Satz 1 der Wirtschaftsprüferordnung eingetragen ist.
 
 Wird einem Prüfungsverband der Auftrag zur Durchführung einer Qualitätskontrolle erteilt, so muss der für die Qualitätskontrolle verantwortliche Wirtschaftsprüfer die Voraussetzungen des Satzes 1 Nr. 2 erfüllen.
 
-(3) § 57a Abs. 4 der Wirtschaftsprüferordnung ist entsprechend anzuwenden.
+(3) § 57a Absatz 3a Satz 1 und Absatz 4 der Wirtschaftsprüferordnung ist entsprechend anzuwenden.
 
 ### § 63g Durchführung der Qualitätskontrolle
 
 (1) Der Prüfungsverband muss Mitglied der Wirtschaftsprüferkammer nach Maßgabe des § 58 Abs. 2 Satz 2 der Wirtschaftsprüferordnung sein. Er erteilt einem Prüfer für Qualitätskontrolle den Auftrag zur Durchführung der Qualitätskontrolle. § 57a Abs. 7 der Wirtschaftsprüferordnung über die Kündigung des Auftrags ist entsprechend anzuwenden.
 
-(2) Auf das Prüfungsverfahren sind § 57a Abs. 5, Abs. 6 Satz 1 bis 4 und 6 bis 9 sowie Abs. 8, §§ 57b bis 57e Abs. 1, Abs. 2 Satz 1 bis 7 und Abs. 3, § 66a Abs. 1 Satz 1, Abs. 3 Satz 1 bis 3, Abs. 5 Satz 1, Abs. 6 Satz 5 und § 66b der Wirtschaftsprüferordnung entsprechend anzuwenden. Soweit dies zur Durchführung der Qualitätskontrolle erforderlich ist, ist die Pflicht zur Verschwiegenheit nach § 62 Abs. 1 eingeschränkt.
+(2) Auf das Prüfungsverfahren sind § 57a Absatz 5, 5b, 6, 6a Satz 1 sowie Absatz 8, die §§ 57b bis 57e Absatz 1, 2 Satz 1, 2 und 4 und Absatz 3 Satz 1, § 66a Absatz 1 Satz 1, Absatz 3 Satz 1 bis 3, Absatz 5 Satz 1 und § 66b der Wirtschaftsprüferordnung entsprechend anzuwenden. Die Ergebnisse einer Inspektion nach § 63h sind im Rahmen der Qualitätskontrolle zu berücksichtigen. Soweit dies zur Durchführung der Qualitätskontrolle erforderlich ist, ist die Pflicht zur Verschwiegenheit nach § 62 Abs. 1 eingeschränkt.
 
-(3) Erkennt die Wirtschaftsprüferkammer, dass eine Teilnahmebescheinigung nach § 57a Abs. 6 Satz 7 der Wirtschaftsprüferordnung widerrufen oder eine Teilnahmebescheinigung nach § 57a Abs. 6 Satz 9 der Wirtschaftsprüferordnung nicht erteilt werden soll, so ist der Vorgang der Aufsichtsbehörde vor der Entscheidung vorzulegen. Die Kommission für Qualitätskontrolle nach § 57e Abs. 1 der Wirtschaftsprüferordnung hat die zuständige Behörde unverzüglich zu unterrichten, wenn die Erteilung der Bescheinigung nach § 57a Abs. 6 Satz 9 der Wirtschaftsprüferordnung versagt oder nach § 57e Abs. 2 Satz 3, 4 und 6 oder Abs. 3 Satz 2 der Wirtschaftsprüferordnung widerrufen worden ist.
+(3) Die Kommission für Qualitätskontrolle nach § 57e Absatz 1 der Wirtschaftsprüferordnung hat die zuständige Aufsichtsbehörde unverzüglich zu unterrichten, wenn ein Prüfungsverband wegen fehlender Durchführung der Qualitätskontrolle aus dem Register nach § 40a der Wirtschaftsprüferordnung gelöscht werden soll.
 
-### § 63h Sonderuntersuchungen
+### § 63h Inspektionen
 
-Führt ein Prüfungsverband die gesetzlich vorgeschriebene Abschlussprüfung bei einem Unternehmen durch, das kapitalmarktorientiert im Sinn des § 264d des Handelsgesetzbuchs ist, können bei diesem Prüfungsverband Sonderuntersuchungen in entsprechender Anwendung des § 61a Satz 2 Nr. 2, § 62b der Wirtschaftsprüferordnung stichprobenartig ohne besonderen Anlass durchgeführt werden. § 57e Abs. 6 Satz 2, § 62 Abs. 4, § 66a Abs. 1 Satz 1, Abs. 3, 5 Satz 1, Abs. 6 Satz 5, Abs. 8, 9, 10 und 11 und § 66b der Wirtschaftsprüferordnung gelten entsprechend. Die Wirtschaftsprüferkammer hat der Aufsichtsbehörde das Ergebnis der Sonderuntersuchung mitzuteilen.
+Führt ein Prüfungsverband die gesetzlich vorgeschriebene Abschlussprüfung bei einem Unternehmen durch, das kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs ist, können bei diesem Prüfungsverband Inspektionen in entsprechender Anwendung des § 62b der Wirtschaftsprüferordnung stichprobenartig ohne besonderen Anlass durchgeführt werden. § 57e Absatz 6 Satz 2, § 62 Absatz 4 und 5 sowie die §§ 66a und 66b der Wirtschaftsprüferordnung gelten entsprechend. Die Wirtschaftsprüferkammer hat der Aufsichtsbehörde das Ergebnis der Inspektion mitzuteilen. Im Übrigen findet Artikel 26 der Verordnung (EU) Nr. 537/2014 keine Anwendung.
 
 ### § 64 Staatsaufsicht
 
@@ -1091,9 +1103,9 @@ an der Mitgliederversammlung des Verbandes durch einen Beauftragten teilzunehmen
 4.  
 bei Bedarf Untersuchungen bei dem Verband durchzuführen und hierzu Dritte heranzuziehen.
 
-Die mit der Durchführung von Aufsichtsmaßnahmen betrauten Personen und die mit Untersuchungen beauftragten Dritten sind berechtigt, die Geschäftsräume des Verbandes während der Geschäfts- und Arbeitszeiten zu betreten, um Untersuchungen vorzunehmen oder sonst Feststellungen zu treffen, die zur Ausübung der Aufsicht erforderlich sind.
+Die mit der Durchführung von Aufsichtsmaßnahmen betrauten Personen und die mit Untersuchungen beauftragten Dritten sind berechtigt, die Geschäftsräume des Verbandes während der Geschäfts- und Arbeitszeiten zu betreten, um Untersuchungen vorzunehmen oder sonst Feststellungen zu treffen, die zur Ausübung der Aufsicht erforderlich sind. Bei einem Verband, der nur solche Genossenschaften prüft, die nicht unter § 53 Absatz 2 Satz 1 fallen, hat die Aufsichtsbehörde mindestens alle zehn Jahre eine Untersuchung nach Satz 2 Nummer 4 durchzuführen, es sei denn, der Verband weist die freiwillige Durchführung einer Qualitätskontrolle oder einer anderen geeigneten Organisationsuntersuchung nach.
 
-(3) Für Amtshandlungen nach dieser Vorschrift kann die zuständige Behörde zur Deckung des Verwaltungsaufwands Kosten (Gebühren und Auslagen) erheben. Die Landesregierungen werden ermächtigt, durch Verordnung die Gebührentatbestände sowie die Gebührenhöhe festzulegen. Sie können die Ermächtigung auf die zuständigen obersten Landesbehörden übertragen.
+(3) Für Amtshandlungen nach dieser Vorschrift kann die zuständige Behörde zur Deckung des Verwaltungsaufwands Kosten (Gebühren und Auslagen) erheben. Die Landesregierungen werden ermächtigt, durch Verordnung die Gebührentatbestände sowie die Gebührenhöhe festzulegen. Sie können die Ermächtigung auf die zuständigen obersten Landesbehörden übertragen. Die Kosten, die der Aufsichtsbehörde durch eine nach Absatz 2 Satz 2 Nummer 4 vorgenommene Untersuchung entstehen, sind ihr von dem betroffenen Verband gesondert zu erstatten und auf Verlangen vorzuschießen.
 
 ### § 64a Entziehung des Prüfungsrechts
 
@@ -1730,6 +1742,16 @@ bekannt geworden ist, unbefugt offenbart, im Falle der Nummer 2 jedoch nur, wenn
 
 (3) Die Tat wird nur auf Antrag der Genossenschaft verfolgt. Hat ein Mitglied des Vorstands oder ein Liquidator die Tat begangen, so ist der Aufsichtsrat, hat ein Mitglied des Aufsichtsrats die Tat begangen, so sind der Vorstand oder die Liquidatoren antragsberechtigt.
 
+### § 151a Verletzung der Pflichten bei Abschlussprüfungen
+
+Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als Mitglied des Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Genossenschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes ist,
+
+1.  
+eine in § 152 Absatz 1a bezeichnete Handlung begeht und dafür einen Vermögensvorteil erhält oder sich versprechen lässt oder
+
+2.  
+eine in § 152 Absatz 1a bezeichnete Handlung beharrlich wiederholt.
+
 ### § 152 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
@@ -1740,9 +1762,19 @@ besondere Vorteile als Gegenleistung dafür fordert, sich versprechen lässt ode
 2.  
 besondere Vorteile als Gegenleistung dafür anbietet, verspricht oder gewährt, dass jemand bei einer Abstimmung in der Generalversammlung oder der Vertreterversammlung oder bei der Wahl der Vertreter nicht oder in einem bestimmten Sinne stimme.
 
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
+(1a) Ordnungswidrig handelt, wer als Mitglied des Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Genossenschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes ist, die Unabhängigkeit der in § 55 Absatz 2 Satz 1 genannten Vertreter und Personen nicht nach Maßgabe des Artikels 5 Absatz 4 Unterabsatz 1 Satz 1 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) in Verbindung mit § 55 Absatz 2 Satz 5 oder nach Maßgabe des Artikels 6 Absatz 2 der Verordnung (EU) Nr. 537/2014 in Verbindung mit § 38 Absatz 1a Satz 4 überwacht.
 
-### (XXXX) §§ 153 und 154 (weggefallen)
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1a mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
+
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1a bei CRR-Kreditinstituten im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes die Bundesanstalt für Finanzdienstleistungsaufsicht, im Übrigen das Bundesamt für Justiz.
+
+### § 153 Mitteilungen an die Abschlussprüferaufsichtsstelle
+
+(1) Die nach § 152 Absatz 3 zuständige Verwaltungsbehörde übermittelt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle alle Bußgeldentscheidungen nach § 152 Absatz 1a.
+
+(2) In Strafverfahren, die eine Straftat nach § 151a zum Gegenstand haben, übermittelt die Staatsanwaltschaft im Falle der Erhebung der öffentlichen Klage der Abschlussprüferaufsichtsstelle die das Verfahren abschließende Entscheidung. Ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf das eingelegte Rechtsmittel zu übermitteln.
+
+### § 154 (weggefallen)
 
 Abschnitt 10 Schlussvorschriften
 --------------------------------
@@ -1818,3 +1850,7 @@ Am 31. Dezember 1989 als gemeinnützige Wohnungsunternehmen oder als Organe der 
 ### § 168 Übergangsvorschrift zu dem Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
 
 Die Festlegungen nach § 9 Absatz 3 Satz 1 und 3 sowie Absatz 4 Satz 1 und 3 haben erstmals bis spätestens 30. September 2015 zu erfolgen. Die nach § 9 Absatz 3 Satz 3 und Absatz 4 Satz 3 erstmals festzulegende Frist darf nicht länger als bis zum 30. Juni 2017 dauern.
+
+### § 169 Übergangsvorschrift zum Abschlussprüfungsreformgesetz
+
+§ 36 Absatz 4 und § 38 Absatz 1a Satz 3 jeweils in der Fassung des Abschlussprüfungsreformgesetzes vom 10. Mai 2016 (BGBl. I S. 1142) müssen so lange nicht angewandt werden, wie alle Mitglieder des Aufsichtsrats und des Prüfungsausschusses vor dem 17. Juni 2016 bestellt worden sind.
