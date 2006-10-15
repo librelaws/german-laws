@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 16.10.2006 I 2268;
 
 Stand  
-zuletzt geändert durch Art. 13 Abs. 19 G v. 25.5.2009 I 1102
+zuletzt geändert durch Art. 8 G v. 10.12.2014 I 2091
 
 ### 
 
@@ -315,7 +315,7 @@ bb)
 die Auflösung, Fortsetzung und die Nichtigkeit der Genossenschaft oder Europäischen Genossenschaft; das Erlöschen der Firma, die Löschung der Genossenschaft oder Europäischen Genossenschaft sowie Löschungen von Amts wegen;
 
 cc)  
-Eintragungen nach dem Umwandlungsgesetz;
+Eintragungen nach dem Umwandlungsgesetz und nach dem Sanierungs- und Abwicklungsgesetz;
 
 dd)  
 die Nichtigkeit von Beschlüssen der Generalversammlung.
