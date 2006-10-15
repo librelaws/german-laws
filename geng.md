@@ -5,16 +5,20 @@ Neuf
 Neugefasst durch Bek. v. 16.10.2006 I 2230;
 
 Stand  
-zuletzt geändert durch Art. 8 G v. 15.7.2013 I 2379
+zuletzt geändert durch Art. 5 G v. 10.12.2014 I 2085
+
+Hinweis  
+Änderung durch Art. 17 G v. 24.4.2015 I 642 (Nr. 17) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
 ```
 (+++ Textnachweis ab: 1.1.1986 +++)
+(+++ Zur Anwendung vgl. § 120 Abs. 2 (F 2014-12-10) +++)
 (+++ Zur Anwendung vgl. § 167 +++)
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
      Umsetzung der
-       EGRL 43/2006    (CELEX Nr: 306L0043) vgl. G v. 25. 5.2009 I 1102 +++)
+       EGRL 43/2006    (CELEX Nr: 32006L0043) vgl. G v. 25.5.2009 I 1102 +++)
 ```
 
 Überschrift: Kurzüberschrift u. Buchstabenabkürzung eingef. durch Art. 3 Abs. 1 Nr. 1 G v. 14.8.2006 I 1911 mWv 18.8.2006
@@ -236,6 +240,7 @@ zuletzt geändert durch Art. 8 G v. 15.7.2013 I 2379
 | § 165                                                      |
 | § 166                                                      |
 | § 167                                                      |
+| § 168                                                      |
 
 Abschnitt 1 Errichtung der Genossenschaft
 -----------------------------------------
@@ -341,6 +346,10 @@ die Ausdehnung des Geschäftsbetriebes auf Personen, welche nicht Mitglieder der
 (1) Die Genossenschaft muss einen Vorstand und einen Aufsichtsrat haben. Bei Genossenschaften mit nicht mehr als 20 Mitgliedern kann durch Bestimmung in der Satzung auf einen Aufsichtsrat verzichtet werden. In diesem Fall nimmt die Generalversammlung die Rechte und Pflichten des Aufsichtsrats wahr, soweit in diesem Gesetz nichts anderes bestimmt ist.
 
 (2) Die Mitglieder des Vorstands und des Aufsichtsrats müssen Mitglieder der Genossenschaft und natürliche Personen sein. Gehören der Genossenschaft eingetragene Genossenschaften als Mitglieder an, können deren Mitglieder, sofern sie natürliche Personen sind, in den Vorstand oder Aufsichtsrat der Genossenschaft berufen werden; gehören der Genossenschaft andere juristische Personen oder Personengesellschaften an, gilt dies für deren zur Vertretung befugte Personen.
+
+(3) Der Vorstand einer Genossenschaft, die der Mitbestimmung unterliegt, legt für den Frauenanteil in den beiden Führungsebenen unterhalb des Vorstands Zielgrößen fest. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
+
+(4) Ist bei einer Genossenschaft, die der Mitbestimmung unterliegt, ein Aufsichtsrat bestellt, legt dieser für den Frauenanteil im Aufsichtsrat und im Vorstand Zielgrößen fest. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
 
 ### § 10 Genossenschaftsregister
 
@@ -531,7 +540,7 @@ Die Satzung kann bestimmen, dass der Gewinn nicht verteilt, sondern der gesetzli
 
 (1) Werden der Geschäftsanteil oder die auf ihn zu leistenden Einzahlungen herabgesetzt oder die für die Einzahlungen festgesetzten Fristen verlängert, so ist der wesentliche Inhalt des Beschlusses der Generalversammlung durch das Gericht bei der Bekanntmachung der Eintragung in das Genossenschaftsregister anzugeben.
 
-(2) Den Gläubigern der Genossenschaft ist, wenn sie sich binnen sechs Monaten nach der Bekanntmachung bei der Genossenschaft zu diesem Zweck melden, Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können. In der Bekanntmachung ist darauf hinzuweisen.
+(2) Den Gläubigern der Genossenschaft ist, wenn sie sich binnen sechs Monaten nach der Bekanntmachung bei der Genossenschaft zu diesem Zweck melden, Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können. In der Bekanntmachung ist darauf hinzuweisen. Das Recht, Sicherheitsleistung zu verlangen, steht Gläubigern nicht zu, die im Fall der Insolvenz ein Recht auf vorzugsweise Befriedigung aus einer Deckungsmasse haben, die nach gesetzlicher Vorschrift zu ihrem Schutz errichtet und staatlich überwacht ist.
 
 (3) Mitglieder, die zur Zeit der Eintragung des Beschlusses der Genossenschaft angehörten, können sich auf die Änderung erst berufen, wenn die Bekanntmachung erfolgt ist und die Gläubiger, die sich rechtzeitig gemeldet haben, wegen der erhobenen Ansprüche befriedigt oder sichergestellt sind.
 
@@ -1463,6 +1472,8 @@ die Überwachung der Erfüllung eines Insolvenzplans und die Aufhebung der Über
 
 (5) Gegen die Nachschüsse kann das Mitglied eine Forderung an die Genossenschaft aufrechnen, sofern die Voraussetzungen vorliegen, unter denen es als Insolvenzgläubiger Befriedigung wegen der Forderung aus den Nachschüssen zu beanspruchen hat.
 
+(+++ § 105: Zur Anwendung vgl. § 120 Abs. 2 (F 2014-12-10) +++)
+
 ### § 106 Vorschussberechnung
 
 (1) Der Insolvenzverwalter hat unverzüglich, nachdem die Vermögensübersicht nach § 153 der Insolvenzordnung auf der Geschäftsstelle niedergelegt ist, zu berechnen, wie viel die Mitglieder zur Deckung des aus der Vermögensübersicht ersichtlichen Fehlbetrags vorzuschießen haben. Sind in der Vermögensübersicht Fortführungs- und Stilllegungswerte nebeneinander angegeben, ist der Fehlbetrag maßgeblich, der sich auf der Grundlage der Stilllegungswerte ergibt.
@@ -1471,11 +1482,15 @@ die Überwachung der Erfüllung eines Insolvenzplans und die Aufhebung der Über
 
 (3) Die Berechnung ist dem Insolvenzgericht mit dem Antrag einzureichen, dieselbe für vollstreckbar zu erklären. Dem Antrag ist eine beglaubigte Abschrift der Mitgliederliste und, sofern das Genossenschaftsregister nicht bei dem Insolvenzgericht geführt wird, eine beglaubigte Abschrift der Satzung beizufügen.
 
+(+++ § 106: Zur Anwendung vgl. § 120 Abs. 2 (F 2014-12-10) +++)
+
 ### § 107 Gerichtliche Erklärung über die Vorschussberechnung
 
 (1) Zur Erklärung über die Berechnung bestimmt das Gericht einen Termin, welcher nicht über zwei Wochen hinaus anberaumt werden darf. Der Termin ist öffentlich bekannt zu machen; die in der Berechnung aufgeführten Mitglieder sind besonders zu laden.
 
 (2) Die Berechnung ist spätestens drei Tage vor dem Termin auf der Geschäftsstelle zur Einsicht der Beteiligten niederzulegen. Hierauf ist in der Bekanntmachung und den Ladungen hinzuweisen.
+
+(+++ § 107: Zur Anwendung vgl. § 120 Abs. 2 (F 2014-12-10) +++)
 
 ### § 108 Erklärungstermin
 
@@ -1485,11 +1500,15 @@ die Überwachung der Erfüllung eines Insolvenzplans und die Aufhebung der Über
 
 (3) Gegen die Entscheidung findet ein Rechtsmittel nicht statt.
 
+(+++ § 108: Zur Anwendung vgl. § 120 Abs. 2 (F 2014-12-10) +++)
+
 ### § 108a Abtretbarkeit von Ansprüchen der Genossenschaft
 
 (1) Der Insolvenzverwalter kann die Ansprüche der Genossenschaft auf rückständige Einzahlungen auf den Geschäftsanteil, auf anteilige Fehlbeträge nach § 73 Abs. 2 Satz 4 und auf Nachschüsse mit Genehmigung des Insolvenzgerichts abtreten.
 
 (2) Die Genehmigung soll nur nach Anhörung des Prüfungsverbandes und nur dann erteilt werden, wenn der Anspruch an eine genossenschaftliche Zentralbank oder an eine der Prüfung durch einen Prüfungsverband unterstehende Stelle abgetreten wird.
+
+(+++ § 108a: Zur Anwendung vgl. § 120 Abs. 2 (F 2014-12-10) +++)
 
 ### § 109 Einziehung der Vorschüsse
 
@@ -1499,15 +1518,21 @@ die Überwachung der Erfüllung eines Insolvenzplans und die Aufhebung der Über
 
 (3) Für die in den Fällen der §§ 731, 767, 768 der Zivilprozessordnung zu erhebenden Klagen ist das Amtsgericht, bei welchem das Insolvenzverfahren anhängig ist und, wenn der Streitgegenstand zur Zuständigkeit der Amtsgerichte nicht gehört, das Landgericht ausschließlich zuständig, zu dessen Bezirk das Insolvenzgericht gehört.
 
+(+++ § 109: Zur Anwendung vgl. § 120 Abs. 2 (F 2014-12-10) +++)
+
 ### § 110 Hinterlegung oder Anlage der Vorschüsse
 
 Die eingezogenen Beträge sind nach Maßgabe des § 149 der Insolvenzordnung zu hinterlegen oder anzulegen.
+
+(+++ § 110: Zur Anwendung vgl. § 120 Abs. 2 (F 2014-12-10) +++)
 
 ### § 111 Anfechtungsklage
 
 (1) Jedes Mitglied ist befugt, die für vollstreckbar erklärte Berechnung im Wege der Klage anzufechten. Die Klage ist gegen den Insolvenzverwalter zu richten. Sie findet nur binnen der Notfrist eines Monats seit Verkündung der Entscheidung und nur insoweit statt, als der Kläger den Anfechtungsgrund in dem nach § 107 Abs. 1 anberaumten Termin geltend gemacht hat oder ohne sein Verschulden geltend zu machen außerstande war.
 
 (2) Das rechtskräftige Urteil wirkt für und gegen alle beitragspflichtigen Mitglieder.
+
+(+++ § 111: Zur Anwendung vgl. § 120 Abs. 2 (F 2014-12-10) +++)
 
 ### § 112 Verfahren bei Anfechtungsklage
 
@@ -1519,17 +1544,23 @@ Die eingezogenen Beträge sind nach Maßgabe des § 149 der Insolvenzordnung zu 
 
 (4) Die §§ 769 und 770 der Zivilprozessordnung über die Einstellung der Zwangsvollstreckung und die Aufhebung der Vollstreckungsmaßregeln finden entsprechende Anwendung.
 
+(+++ § 112: Zur Anwendung vgl. § 120 Abs. 2 (F 2014-12-10) +++)
+
 ### § 112a Vergleich über Nachschüsse
 
 (1) Der Insolvenzverwalter kann über den von dem Mitglied zu leistenden Nachschuss einen Vergleich abschließen. Der Vergleich bedarf zu seiner Wirksamkeit der Zustimmung des Gläubigerausschusses, wenn ein solcher bestellt ist, und der Bestätigung durch das Insolvenzgericht.
 
 (2) Der Vergleich wird hinfällig, wenn das Mitglied mit seiner Erfüllung in Verzug gerät.
 
+(+++ § 112a: Zur Anwendung vgl. § 120 Abs. 2 (F 2014-12-10) +++)
+
 ### § 113 Zusatzberechnung
 
 (1) Soweit infolge des Unvermögens einzelner Mitglieder zur Leistung von Beiträgen der zu deckende Gesamtbetrag nicht erreicht wird oder auf Grund des auf eine Anfechtungsklage ergehenden Urteils oder aus anderen Gründen die Berechnung abzuändern ist, hat der Insolvenzverwalter eine Zusatzberechnung aufzustellen. Die Vorschriften der §§ 106 bis 112a gelten auch für die Zusatzberechnung.
 
 (2) Die Aufstellung einer Zusatzberechnung ist erforderlichenfalls zu wiederholen.
+
+(+++ § 113: Zur Anwendung vgl. § 120 Abs. 2 (F 2014-12-10) +++)
 
 ### § 114 Nachschussberechnung
 
@@ -1539,6 +1570,8 @@ Die eingezogenen Beträge sind nach Maßgabe des § 149 der Insolvenzordnung zu 
 
 (3) Die Nachschussberechnung unterliegt den Vorschriften der §§ 106 bis 109, 111 bis 113, der Vorschrift des § 106 Abs. 2 mit der Maßgabe, dass auf Mitglieder, deren Unvermögen zur Leistung von Beiträgen sich herausgestellt hat, Beiträge nicht verteilt werden.
 
+(+++ § 114: Zur Anwendung vgl. § 120 Abs. 2 (F 2014-12-10) +++)
+
 ### § 115 Nachtragsverteilung
 
 (1) Der Insolvenzverwalter hat, nachdem die Nachschussberechnung für vollstreckbar erklärt ist, unverzüglich den gemäß § 110 vorhandenen Bestand und, so oft von den noch einzuziehenden Beiträgen hinreichender Bestand eingegangen ist, diesen im Wege der Nachtragsverteilung nach § 203 der Insolvenzordnung unter die Gläubiger zu verteilen. Soweit es keiner Nachschussberechnung bedarf, hat der Insolvenzverwalter die Verteilung unverzüglich vorzunehmen, nachdem die Feststellung nach § 114 Abs. 1 auf der Geschäftsstelle des Gerichts niedergelegt ist.
@@ -1547,15 +1580,21 @@ Die eingezogenen Beträge sind nach Maßgabe des § 149 der Insolvenzordnung zu 
 
 (3) Die zur Befriedigung der Gläubiger nicht erforderlichen Überschüsse hat der Insolvenzverwalter an die Mitglieder zurückzuzahlen.
 
+(+++ § 115: Zur Anwendung vgl. § 120 Abs. 2 (F 2014-12-10) +++)
+
 ### § 115a Abschlagsverteilung der Nachschüsse
 
 (1) Nimmt die Abwicklung des Insolvenzverfahrens voraussichtlich längere Zeit in Anspruch, so kann der Insolvenzverwalter mit Zustimmung des Gläubigerausschusses, wenn ein solcher bestellt ist, und des Insolvenzgerichts die nach § 110 eingezogenen Beträge schon vor dem in § 115 Abs. 1 bezeichneten Zeitpunkt im Wege der Abschlagsverteilung nach den §§ 187 bis 195 der Insolvenzordnung an die Gläubiger verteilen. Eine Abschlagsverteilung soll unterbleiben, soweit nach dem Verhältnis der Schulden zu dem Vermögen mit einer Erstattung eingezogener Beträge an Mitglieder nach § 105 Abs. 4 oder § 115 Abs. 3 zu rechnen ist.
 
 (2) Sollte sich dennoch nach Befriedigung der Gläubiger ein Überschuss aus der Insolvenzmasse ergeben, so sind die zuviel gezahlten Beträge den Mitgliedern aus dem Überschuss zu erstatten.
 
+(+++ § 115a: Zur Anwendung vgl. § 120 Abs. 2 (F 2014-12-10) +++)
+
 ### § 115b Nachschusspflicht ausgeschiedener Mitglieder
 
 Sobald mit Sicherheit anzunehmen ist, dass die in § 105 Abs. 1 bezeichneten Insolvenzgläubiger auch nicht durch Einziehung der Nachschüsse von den Mitgliedern Befriedigung oder Sicherstellung erlangen, sind die hierzu erforderlichen Beiträge von den innerhalb der letzten 18 Monate vor dem Antrag auf Eröffnung des Insolvenzverfahrens oder nach diesem Antrag ausgeschiedenen Mitgliedern, welche nicht schon nach § 75 oder § 76 Abs. 4 der Nachschusspflicht unterliegen, nach Maßgabe des § 105 zur Insolvenzmasse zu leisten.
+
+(+++ § 115b: Zur Anwendung vgl. § 120 Abs. 2 (F 2014-12-10) +++)
 
 ### § 115c Beitragspflicht ausgeschiedener Mitglieder
 
@@ -1628,7 +1667,9 @@ Bestimmt die Satzung, dass die Mitglieder beschränkt auf eine Haftsumme Nachsch
 
 ### § 120 Herabsetzung der Haftsumme
 
-Für die Herabsetzung der Haftsumme gilt § 22 Abs. 1 bis 3 sinngemäß.
+(1) Für die Herabsetzung der Haftsumme gilt § 22 Abs. 1 bis 3 sinngemäß. Das Recht nach § 22 Absatz 2 Satz 1 steht den Gläubigern jedoch nur zu, wenn sie glaubhaft machen, dass durch die Herabsetzung der Haftsumme die Erfüllung ihrer Forderung gefährdet wird.
+
+(2) Wird über das Vermögen der Genossenschaft mit herabgesetzter Haftsumme binnen zwei Jahren nach dem Tag, an dem die Eintragung der Haftsummenherabsetzung in das Genossenschaftsregister bekannt gemacht worden ist, das Insolvenzverfahren eröffnet, so ist jedes Mitglied, dessen Nachschusspflicht durch die Herabsetzung der Haftsumme reduziert wurde, in der Höhe zu Nachschüssen verpflichtet, wie es vor Herabsetzung der Haftsumme zu leisten verpflichtet war. Die §§ 105 bis 115b sind mit der Maßgabe entsprechend anzuwenden, dass nur solche Verbindlichkeiten zu berücksichtigen sind, die bereits im Zeitpunkt der Herabsetzung der Haftsumme begründet waren.
 
 ### § 121 Haftsumme bei mehreren Geschäftsanteilen
 
@@ -1773,3 +1814,7 @@ Am 31. Dezember 1989 als gemeinnützige Wohnungsunternehmen oder als Organe der 
 (1) § 36 Abs. 4 und § 38 Abs. 1a Satz 2 in der Fassung des Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102) finden keine Anwendung, solange alle Mitglieder des Aufsichtsrats und des Prüfungsausschusses vor dem 29. Mai 2009 bestellt worden sind.
 
 (2) § 53 Abs. 3 in der Fassung des Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102) ist erstmals ab dem 1. Januar 2010 anzuwenden.
+
+### § 168 Übergangsvorschrift zu dem Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+
+Die Festlegungen nach § 9 Absatz 3 Satz 1 und 3 sowie Absatz 4 Satz 1 und 3 haben erstmals bis spätestens 30. September 2015 zu erfolgen. Die nach § 9 Absatz 3 Satz 3 und Absatz 4 Satz 3 erstmals festzulegende Frist darf nicht länger als bis zum 30. Juni 2017 dauern.
