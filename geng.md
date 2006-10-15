@@ -5,10 +5,10 @@ Neuf
 Neugefasst durch Bek. v. 16.10.2006 I 2230;
 
 Stand  
-zuletzt geändert durch Art. 5 G v. 10.12.2014 I 2085
+zuletzt geändert durch Art. 17 G v. 24.4.2015 I 642
 
 Hinweis  
-Änderung durch Art. 17 G v. 24.4.2015 I 642 (Nr. 17) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 7 G v. 31.3.2016 I 518 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
