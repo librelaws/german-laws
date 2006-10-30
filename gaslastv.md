@@ -1,0 +1,501 @@
+Verordnung über die Sicherstellung der Gasversorgung (GasLastV)
+===============================================================
+
+Stand  
+Zuletzt geändert durch Art. 377 V v. 31.10.2006 I 2407
+
+### 
+
+```
+(+++ Textnachweis ab: 25.7.1976 +++)
+(+++ Zur Anwendung vgl. § 11 Abs. 2 u. 3 +++)
+```
+
+### Eingangsformel
+
+Auf Grund des § 1 Abs. 1 Satz 1 Nr. 1, 2 Buchstabe a, Nr. 5 bis 7, des § 4 Abs. 1, § 5 Abs. 1, § 8 Abs. 6, der §§ 9 und 21 Nr. 2 des Wirtschaftssicherstellungsgesetzes in der Fassung der Bekanntmachung vom 3. Oktober 1968 (Bundesgesetzbl. I S. 1069), zuletzt geändert durch Artikel 27 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (Bundesgesetzbl. I S. 705), wird von der Bundesregierung und auf Grund des § 4 Abs. 3 des Energiewirtschaftsgesetzes vom 13. Dezember 1935 (Reichsgesetzbl. I S. 1451), zuletzt geändert durch Artikel 18 des Zuständigkeitslockerungsgesetzes vom 10. März 1975 (Bundesgesetzbl. I S. 685), in Verbindung mit Artikel 129 Abs. 1 des Grundgesetzes vom Bundesminister für Wirtschaft mit Zustimmung des Bundesrates verordnet:
+
+### § 1
+
+(1) Zur Sicherstellung der öffentlichen Gasversorgung wird eine Lastverteilung für Gas eingerichtet.
+
+(2) Gas im Sinne dieser Verordnung sind brennbare, verdichtete oder verflüssigte Gase, die für eine Verwendung in der öffentlichen Gasversorgung mittelbar oder unmittelbar geeignet sind.
+
+(3) Auf Flüssiggas ist diese Verordnung insoweit anzuwenden, als es für die leitungsgebundene öffentliche Gasversorgung verwendet wird.
+
+### § 2
+
+Die Lastverteilung obliegt
+
+1.  
+den obersten Wirtschaftsbehörden der Länder als Gebietslastverteilern; durch Landesrecht können höheren und unteren Verwaltungsbehörden sowie den Gemeinden als Gruppen-, Bezirks- und Bereichslastverteilern Aufgaben der Lastverteilung übertragen werden;
+
+2.  
+dem Bundesministerium für Wirtschaft und Technologie als Bundeslastverteiler.
+
+### § 3
+
+(1) Beim Bundesministerium für Wirtschaft und Technologie und bei den obersten Wirtschaftsbehörden der Länder sind besondere Stellen einzurichten. Sie tragen die Bezeichnungen
+
+  
+Bundeslastverteilerstelle für Gas,Gebietslastverteilerstelle für Gas.
+
+(2) Soweit nach § 2 Nr. 1 Gruppen-, Bezirks- oder Bereichslastverteiler bestimmt werden, sind bei diesen ebenfalls besondere Stellen einzurichten. Sie tragen die Bezeichnungen
+
+  
+Gruppenlastverteilerstelle für Gas,Bezirkslastverteilerstelle für Gas,Bereichslastverteilerstelle für Gas.
+
+### § 4
+
+(1) Die Grenzen der Gebietslastverteilung ergeben sich aus der Anlage zu dieser Verordnung. Die Befugnis, diese Grenzen durch Rechtsverordnung zu ändern, wird auf das Bundesministerium für Wirtschaft und Technologie übertragen.
+
+(2) Die Grenzen der Gruppen-, Bezirks- und Bereichslastverteilung bestimmen sich nach Landesrecht.
+
+### § 5
+
+(1) Die Lastverteiler können Verfügungen erlassen
+
+1.  
+an Unternehmen und Betriebe, die Gas erzeugen, beziehen oder abgeben, über
+
+a)  
+die Gewinnung, Herstellung, den Bezug, die Bearbeitung, Verarbeitung, Umwandlung, Lagerung, Weiterleitung, Zuteilung, Abgabe, Verwendung, Einfuhr und Ausfuhr von Gas;
+
+b)  
+die Herstellung, Instandhaltung, Abgabe, Verbringung, Verwendung, Instandsetzung und Veränderung von ortsfesten und beweglichen Anlagen und Produktionsmitteln, die für die Gasversorgung erforderlich sind;
+
+c)  
+die Lagerung, Vorratshaltung, Abgabe und Verwendung von Waren der gewerblichen Wirtschaft, die für eine Versorgung mit Gas erforderlich sind;
+
+2.  
+an Verbraucher über die Zuteilung, den Bezug und die Verwendung von Gas sowie den Ausschluß vom Bezug von Gas.
+
+(2) Die Lastverteiler können Unternehmen und Betriebe, die Gas erzeugen, beziehen oder abgeben, sowie Verbraucher durch Verfügung verpflichten, innerhalb einer bestimmten Frist bestehende Verträge des in Absatz 1 bezeichneten Inhalts zu ändern oder neue Verträge dieses Inhalts abzuschließen, soweit das angestrebte Verhalten durch Anwendung bestehender Verträge nicht oder nicht rechtzeitig verwirklicht werden kann. In der Verfügung ist für eine Leistung das übliche Entgelt oder, in Ermangelung eines solchen, ein angemessenes Entgelt festzusetzen; für die übrigen Vertragsbedingungen gilt Entsprechendes. Kommt ein solcher Vertrag nicht fristgemäß zustande, so können die Lastverteiler ihn durch Verfügung begründen.
+
+(3) Die Lastverteiler dürfen Verfügungen nach den Absätzen 1 und 2 nur erlassen, soweit diese erforderlich sind, um eine Gefährdung der öffentlichen Versorgung mit Gas zu beheben oder zu verhindern oder um die Auswirkungen einer Störung der Versorgung zu mindern. Bestehende Verträge und die Zweckbestimmung von Eigenanlagen sind möglichst zu berücksichtigen.
+
+(4) Der Bundeslastverteiler darf Verfügungen nur nach Maßgabe des § 9 des Wirtschaftssicherstellungsgesetzes erlassen.
+
+(5) Bezirks- und Bereichslastverteiler dürfen Verfügungen nach Absatz 1 Nr. 1 Buchstaben b und c sowie Verfügungen nach Absatz 2, die Verträge des in Absatz 1 Nr. 1 Buchstaben b und c bezeichneten Inhalts betreffen, nur erlassen, wenn die Lage ein sofortiges Handeln erfordert oder wenn die Verbindungen zu den übergeordneten Lastverteilern unterbrochen sind.
+
+(6) Die Verfügungen sind zu befristen, soweit sich ihre Geltungsdauer nicht schon aus ihrem Inhalt ergibt. Sie werden unwirksam, sobald diese Verordnung aufgehoben oder außer Anwendung gesetzt wird. Entsprechendes gilt für Verträge, die auf Grund einer Verfügung nach Absatz 2 Satz 1 geschlossen oder durch eine Verfügung nach Absatz 2 Satz 3 begründet worden sind. Verträge, die auf Grund oder durch eine Verfügung nach Absatz 2 geändert worden sind, leben mit ihrem ursprünglichen Inhalt wieder auf.
+
+### § 6
+
+Örtlich zuständig ist der Lastverteiler, in dessen Bezirk
+
+1.  
+die von einer Verfügung nach § 5 Abs. 1 Nr. 1 betroffene Betriebsstätte eines Unternehmens oder Betriebes liegt; zu den Betriebsstätten gehören auch die nicht mit Betriebspersonal besetzten, der Versorgung von Verbrauchern mit Gas dienenden Anlagen;
+
+2.  
+die von einer Verfügung nach § 5 Abs. 1 Nr. 2 betroffene Betriebsstätte eines Verbrauchers liegt.
+
+### § 6a
+
+(1) Der Leiter einer Lastverteilerstelle muß mit der technischen Lastverteilung sowie den versorgungstechnischen Gegebenheiten und der Verbrauchsstruktur seiner Lastverteilung gut vertraut sein.
+
+(2) Zum Leiter einer Lastverteilerstelle kann ein leitender Angehöriger des Gasversorgungsunternehmens bestellt werden, dem die Belieferung des jeweiligen Lastverteilungsgebietes ganz oder teilweise obliegt. Das Beschäftigungsverhältnis zu seinem Gasversorgungsunternehmen bleibt unberührt. Die Vorschriften der Verwaltungsverfahrensgesetze über in Verwaltungsverfahren ausgeschlossene Personen, die bei einem Beteiligten gegen Entgelt beschäftigt sind oder bei ihm als Mitglied des Vorstandes, des Aufsichtsrates oder eines gleichartigen Organs tätig sind, sowie über die Besorgnis der Befangenheit sind insoweit nicht anzuwenden.
+
+(3) Der zum Leiter einer Gebiets-, Gruppen-, Bezirks- oder Bereichslastverteilerstelle bestellte Angehörige des Gasversorgungsunternehmens kann in das Ehrenbeamtenverhältnis berufen werden. Die nähere Ausgestaltung des Ehrenbeamtenverhältnisses regelt das Landesrecht.
+
+(4) Die Absätze 1 bis 3 gelten auch für die Vertreter des Leiters der Lastverteilerstelle.
+
+### § 7
+
+Einer Anzeige nach § 5 des Energiewirtschaftsgesetzes oder einer Genehmigung nach § 4 Abs. 1 des Energiewirtschaftsgesetzes bedarf es nicht, soweit die anzeige- oder genehmigungspflichtige Tätigkeit durch eine Verfügung nach § 5 Abs. 1 Nr. 1 dieser Verordnung angeordnet worden ist.
+
+### § 8
+
+Wer vorsätzlich oder fahrlässig einer vollziehbaren Verfügung nach § 5 Abs. 1 zuwiderhandelt, begeht eine Zuwiderhandlung im Sinne des § 18 des Wirtschaftssicherstellungsgesetzes, die nach dem Wirtschaftsstrafgesetz 1954 geahndet wird.
+
+### § 9
+
+Zuständige Verwaltungsbehörde im Sinne des § 21 Nr. 2 des Wirtschaftssicherstellungsgesetzes ist die Behörde, welche die Verfügung nach § 5 erlassen hat.
+
+### § 10
+
+Die Senate der Länder Bremen und Hamburg werden ermächtigt, die Vorschriften dieser Verordnung über die Zuständigkeit von Behörden dem besonderen Verwaltungsaufbau ihrer Länder anzupassen.
+
+### § 11
+
+(1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
+
+(2) Sie darf gemäß § 2 Abs. 1 des Wirtschaftssicherstellungsgesetzes nur nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann angewandt werden, wenn es das Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung bestimmt.
+
+(3) Die §§ 2 und 4 sind mit dem Inkrafttreten anwendbar.
+
+### Anlage zu § 4 Abs. 1 Satz 1 der Gaslastverteilungs-Verordnung
+
+Fundstelle des Originaltextes: BGBl. I 2002, 390 - 394
+
+Die aus versorgungstechnischen Gründen gebildeten Lastverteilungsgebiete I bis VII (Gebietsstand 1. März 1996) umfassen:
+
+|                                                                                                                                                    |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Lastverteilungsgebiet I                                                                                                                            |
+|                                                                                                                                                    |
+| Bremen,                                                                                                                                            |
+| Hamburg,                                                                                                                                           |
+| Schleswig-Holstein,                                                                                                                                |
+| Niedersachsen                                                                                                                                      |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Hessen                                                                                                                                             |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Mecklenburg-Vorpommern                                                                                                                             |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Sachsen-Anhalt                                                                                                                                     |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Lastverteilungsgebiet II                                                                                                                           |
+|                                                                                                                                                    |
+| Nordrhein-Westfalen                                                                                                                                |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Niedersachsen                                                                                                                                      |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Rheinland-Pfalz                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Hessen                                                                                                                                             |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Lastverteilungsgebiet III                                                                                                                          |
+|                                                                                                                                                    |
+| Hessen                                                                                                                                             |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Niedersachsen                                                                                                                                      |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Rheinland-Pfalz                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Bayern                                                                                                                                             |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Thüringen                                                                                                                                          |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Lastverteilungsgebiet IV                                                                                                                           |
+|                                                                                                                                                    |
+| Saarland,                                                                                                                                          |
+| Rheinland-Pfalz                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Lastverteilungsgebiet V                                                                                                                            |
+|                                                                                                                                                    |
+| Baden-Württemberg                                                                                                                                  |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Bayern                                                                                                                                             |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Rheinland-Pfalz                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Hessen                                                                                                                                             |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Lastverteilungsgebiet VIa                                                                                                                          |
+|                                                                                                                                                    |
+| Baden-Württemberg                                                                                                                                  |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Bayern                                                                                                                                             |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Thüringen                                                                                                                                          |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Lastverteilungsgebiet VIb                                                                                                                          |
+|                                                                                                                                                    |
+| Bayern                                                                                                                                             |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Lastverteilungsgebiet VII                                                                                                                          |
+|                                                                                                                                                    |
+| Berlin,                                                                                                                                            |
+| Brandenburg,                                                                                                                                       |
+| Mecklenburg-Vorpommern (ohne die zum Lastverteilungsgebiet I gehörenden Gemeinden/Städte aus den Landkreisen Nordwestmecklenburg und Ludwigslust), |
+| Sachsen                                                                                                                                            |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Sachsen-Anhalt                                                                                                                                     |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Thüringen (ohne den zum Lastverteilungsgebiet III gehörenden Landkreis Eichsfeld)                                                                  |
+|                                                                                                                                                    |
+| Bayern                                                                                                                                             |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+| Hessen                                                                                                                                             |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+|                                                                                                                                                    |
+
+
