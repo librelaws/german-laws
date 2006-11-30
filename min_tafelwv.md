@@ -744,10 +744,6 @@ Zyanid
 
 0,070
 
-### Anlage 5
-
--
-
 ### Anlage 5 (zu § 6a Abs. 2)
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1034)
