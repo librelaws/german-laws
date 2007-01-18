@@ -2,7 +2,10 @@ Verordnung über radioaktive oder mit ionisierenden Strahlen behandelte Arzneimi
 ============================================================================================
 
 Neuf  
-Neugefasst durch Bek. v. 19.1.2007 I 48
+Neugefasst durch Bek. v. 19.1.2007 I 48;
+
+Stand  
+zuletzt geändert durch Art. 5 V v. 29.11.2018 I 2034
 
 ### 
 
@@ -53,7 +56,7 @@ b)
 § 2 Abs. 2 Nr. 1a bis 4 des Arzneimittelgesetzes nicht mehr als 5 x 10(hoch)4 Gray betragen hat und
 
 4.  
-die Arzneimittel durch die zuständige Bundesoberbehörde im Hinblick auf die Behandlung mit ionisierenden Strahlen zur Verminderung der Keimzahl oder zur Inaktivierung von Blutbestandteilen oder Tumormaterial oder zur Modifizierung von Bestandteilen nach § 25 Abs. 1 des Arzneimittelgesetzes zugelassen worden sind oder nach § 21 Abs. 2 Nr. 1a, 1b, 1c, 2, 5 oder 6 des Arzneimittelgesetzes ohne Zulassung in den Verkehr gebracht werden dürfen.
+die Arzneimittel durch die zuständige Bundesoberbehörde im Hinblick auf die Behandlung mit ionisierenden Strahlen zur Verminderung der Keimzahl oder zur Inaktivierung von Blutbestandteilen oder Tumormaterial oder zur Modifizierung von Bestandteilen nach § 25 Abs. 1 des Arzneimittelgesetzes zugelassen oder nach § 4b Absatz 3 des Arzneimittelgesetzes oder § 21a Absatz 1 des Arzneimittelgesetzes genehmigt worden sind oder nach § 21 Abs. 2 Nr. 1a, 1b, 1c, 2, 5 oder 6 des Arzneimittelgesetzes ohne Zulassung in den Verkehr gebracht werden dürfen.
 
 Einer Zulassung nach Satz 1 Nr. 4 bedarf es nicht für
 
@@ -117,7 +120,7 @@ sowie für radioaktive Arzneimittel, die in einer Krankenhausapotheke oder krank
 Radioaktive Arzneimittel im Sinne des § 4 Abs. 8 des Arzneimittelgesetzes dürfen im Geltungsbereich dieser Verordnung nur in den Verkehr gebracht werden, wenn
 
 1.  
-die Behältnisse und äußeren Umhüllungen gemäß § 68 der Strahlenschutzverordnung vom 20. Juli 2001 (BGBl. I S. 1714, 2002 I S. 1459), die zuletzt durch § 3 Abs. 31 des Gesetzes vom 1. September 2005 (BGBl. I S. 2618, 2653) geändert worden ist, gekennzeichnet sind; auf den Behältnissen sind Name und Anschrift des Herstellers anzugeben. Anforderungen an radioaktive Arzneimittel und ihre Verpackungen, deren Kennzeichnung und Beförderung mit Straßen-, Schienen-, Magnetbahn-, See- und Luftfahrzeugen nach den internationalen, europäischen und nationalen verkehrsrechtlichen Vorschriften für die Beförderung gefährlicher Güter bleiben unberührt,
+die Behältnisse und äußeren Umhüllungen gemäß der §§ 91 und 92 der Strahlenschutzverordnung gekennzeichnet sind; auf den Behältnissen sind Name und Anschrift des Herstellers anzugeben. Anforderungen an radioaktive Arzneimittel und ihre Verpackungen, deren Kennzeichnung und Beförderung mit Straßen-, Schienen-, Magnetbahn-, See- und Luftfahrzeugen nach den internationalen, europäischen und nationalen verkehrsrechtlichen Vorschriften für die Beförderung gefährlicher Güter bleiben unberührt,
 
 2.  
 auf den Behältnissen und äußeren Umhüllungen die Gesamtaktivität pro Behältnis benannt und ein definierter Kalibrierzeitpunkt, auf den sich die angegebenen Aktivitäten beziehen, und überdies der Verfallszeitpunkt mit Datum und Uhrzeit angegeben wurde. Die Kennzeichnung der Behältnisse hat auch einen Hinweis auf in die Packungsbeilage aufgenommene Angaben zum Umgang mit radioaktiven Arzneimitteln, deren Entsorgung und, falls notwendig, spezielle Warnhinweise zu umfassen,
@@ -128,9 +131,9 @@ die §§ 10, 11 und 11a des Arzneimittelgesetzes auf radioaktive Arzneimittel, d
 4.  
 im Fall von für klinische Prüfungen vorgesehenen radioaktiven Arzneimitteln die Vorschriften der §§ 5 und 6 der GCP-Verordnung vom 9. August 2004 (BGBl. I S. 2081) entsprechend angewandt wurden.
 
-### § 4 Verhältnis zur Strahlenschutz- und Röntgenverordnung
+### § 4 Verhältnis zum Strahlenschutzgesetz
 
-Die Vorschriften der Strahlenschutzverordnung und der Röntgenverordnung bleiben unberührt.
+Die Vorschriften des Strahlenschutzgesetzes und der darauf gestützten Rechtsverordnungen bleiben unberührt.
 
 ### § 5 Ordnungswidrigkeiten
 
