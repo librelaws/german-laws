@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 10.8.2007 I 1902;
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 6.9.2013 I 3554
+Zuletzt geändert durch Art. 10 G v. 20.11.2015 I 2010
 
 ### 
 
@@ -134,7 +134,7 @@ wer für mindestens drei Jahre mit dem Inhaber einer Funktion im Sinne von Buchs
 
 (1) Deutscher Volkszugehöriger im Sinne dieses Gesetzes ist, wer sich in seiner Heimat zum deutschen Volkstum bekannt hat, sofern dieses Bekenntnis durch bestimmte Merkmale wie Abstammung, Sprache, Erziehung, Kultur bestätigt wird.
 
-(2) Wer nach dem 31. Dezember 1923 geboren worden ist, ist deutscher Volkszugehöriger, wenn er von einem deutschen Staatsangehörigen oder deutschen Volkszugehörigen abstammt und sich bis zum Verlassen der Aussiedlungsgebiete durch eine entsprechende Nationalitätenerklärung oder auf andere Weise zum deutschen Volkstum bekannt oder nach dem Recht des Herkunftsstaates zur deutschen Nationalität gehört hat. Das Bekenntnis auf andere Weise kann insbesondere durch den Nachweis ausreichender deutscher Sprachkenntnisse entsprechend dem Niveau B 1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen oder durch den Nachweis familiär vermittelter Deutschkenntnisse erbracht werden. Das Bekenntnis zum deutschen Volkstum muss bestätigt werden durch den Nachweis der Fähigkeit, zum Zeitpunkt der verwaltungsbehördlichen Entscheidung über den Aufnahmeantrag, in Fällen des § 27 Absatz 2 im Zeitpunkt der Begründung des ständigen Aufenthalts im Geltungsbereich dieses Gesetzes, zumindest ein einfaches Gespräch auf Deutsch führen zu können, es sei denn, der Aufnahmebewerber kann diese Fähigkeit wegen einer körperlichen, geistigen oder seelischen Krankheit oder wegen einer Behinderung im Sinne des § 2 Absatz 1 Satz 1 des Neunten Buches Sozialgesetzbuch nicht besitzen. Ein Bekenntnis zum deutschen Volkstum wird unterstellt, wenn es unterblieben ist, weil es mit Gefahr für Leib und Leben oder schwerwiegenden beruflichen oder wirtschaftlichen Nachteilen verbunden war, jedoch auf Grund der Gesamtumstände der Wille unzweifelhaft ist, der deutschen Volksgruppe und keiner anderen anzugehören.
+(2) Wer nach dem 31. Dezember 1923 geboren worden ist, ist deutscher Volkszugehöriger, wenn er von einem deutschen Staatsangehörigen oder deutschen Volkszugehörigen abstammt und sich bis zum Verlassen der Aussiedlungsgebiete durch eine entsprechende Nationalitätenerklärung oder auf andere Weise zum deutschen Volkstum bekannt oder nach dem Recht des Herkunftsstaates zur deutschen Nationalität gehört hat. Das Bekenntnis auf andere Weise kann insbesondere durch den Nachweis ausreichender deutscher Sprachkenntnisse entsprechend dem Niveau B 1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen oder durch den Nachweis familiär vermittelter Deutschkenntnisse erbracht werden. Das Bekenntnis zum deutschen Volkstum muss bestätigt werden durch den Nachweis der Fähigkeit, zum Zeitpunkt der verwaltungsbehördlichen Entscheidung über den Aufnahmeantrag, in Fällen des § 27 Absatz 1 Satz 2 im Zeitpunkt der Begründung des ständigen Aufenthalts im Geltungsbereich dieses Gesetzes, zumindest ein einfaches Gespräch auf Deutsch führen zu können, es sei denn, der Aufnahmebewerber kann diese Fähigkeit wegen einer körperlichen, geistigen oder seelischen Krankheit oder wegen einer Behinderung im Sinne des § 2 Absatz 1 Satz 1 des Neunten Buches Sozialgesetzbuch nicht besitzen. Ein Bekenntnis zum deutschen Volkstum wird unterstellt, wenn es unterblieben ist, weil es mit Gefahr für Leib und Leben oder schwerwiegenden beruflichen oder wirtschaftlichen Nachteilen verbunden war, jedoch auf Grund der Gesamtumstände der Wille unzweifelhaft ist, der deutschen Volksgruppe und keiner anderen anzugehören.
 
 Zweiter Abschnitt Verteilung, Rechte und Vergünstigungen
 --------------------------------------------------------
@@ -398,7 +398,7 @@ im Falle der Führung eines gemeinsamen Familiennamens durch Ehegatten einen Ehe
 5.  
 den Familiennamen in einer deutschen Übersetzung annehmen, sofern die Übersetzung einen im deutschen Sprachraum in Betracht kommenden Familiennamen ergibt.
 
-Wird in den Fällen der Nummern 3 bis 5 der Familienname als Ehename geführt, so kann die Erklärung während des Bestehens der Ehe nur von beiden Ehegatten abgegeben werden. Auf den Geburtsnamen eines Abkömmlings, welcher das fünfte Lebensjahr vollendet hat, erstreckt sich die Namensänderung nur dann, wenn er sich der Namensänderung durch Erklärung gegenüber dem Bundesverwaltungsamt im Verteilungsverfahren oder dem Standesamt anschließt. Ein in der Geschäftsfähigkeit beschränktes Kind, welches das vierzehnte Lebensjahr vollendet hat, kann die Erklärung nur selbst abgeben; es bedarf hierzu der Zustimmung seines gesetzlichen Vertreters.
+Wird in den Fällen der Nummern 3 bis 5 der Familienname als Ehename geführt, so kann die Erklärung während des Bestehens der Ehe nur von beiden Ehegatten abgegeben werden. Auf den Geburtsnamen eines Abkömmlings, welcher das fünfte Lebensjahr vollendet hat, erstreckt sich die Namensänderung nur dann, wenn er sich der Namensänderung durch Erklärung gegenüber dem Bundesverwaltungsamt im Verteilungsverfahren oder dem Standesamt anschließt. Ein in der Geschäftsfähigkeit beschränktes Kind, welches das 14. Lebensjahr vollendet hat, kann die Erklärung nur selbst abgeben; es bedarf hierzu der Zustimmung seines gesetzlichen Vertreters.
 
 (2) Die Erklärungen nach Absatz 1 müssen öffentlich beglaubigt oder beurkundet werden, wenn sie nicht bei der Eheschließung gegenüber einem deutschen Standesamt abgegeben werden. Im Verteilungsverfahren kann auch das Bundesverwaltungsamt die Erklärungen öffentlich beglaubigen oder beurkunden. Gebühren und Auslagen werden nicht erhoben.
 
@@ -459,17 +459,15 @@ Achter Abschnitt Übergangs- und Schlussvorschriften
 
 ### § 100a Übergangsregelung
 
-(1) Auch Anträge nach § 15 Abs. 1 sind nach dem Recht zu bescheiden, das nach dem 7. September 2001 gilt.
-
-(2) Die Spätaussiedlereigenschaft von Personen aus Estland, Lettland oder Litauen, die vor dem 24. Mai 2007 einen Aufnahmebescheid nach § 26 erhalten haben, bestimmt sich weiter nach den §§ 4 und 5 in der vor dem 24. Mai 2007 geltenden Fassung mit der Maßgabe, dass kein Ausschlussgrund nach § 5 Nr. 1 Buchstabe d oder Buchstabe e vorliegt.
+Die Spätaussiedlereigenschaft von Personen aus Estland, Lettland oder Litauen, die vor dem 24. Mai 2007 einen Aufnahmebescheid nach § 26 erhalten haben, bestimmt sich weiter nach den §§ 4 und 5 in der vor dem 24. Mai 2007 geltenden Fassung mit der Maßgabe, dass kein Ausschlussgrund nach § 5 Nr. 1 Buchstabe d oder Buchstabe e vorliegt.
 
 ### § 100b Anwendungsvorschrift
 
 § 4 Abs. 3 Satz 2 ist in der bis zum 1. Januar 2005 geltenden Fassung auf Ehegatten, die bis zu diesem Zeitpunkt in den Aufnahmebescheid einbezogen worden sind und deren Ehe mit dem Spätaussiedler zum Zeitpunkt des Verlassens der Aussiedlungsgebiete noch keine drei Jahre bestanden hat, anzuwenden. Werden Ehegatten im Sinne des Satzes 1 nach dem 24. Mai 2007 im Geltungsbereich des Gesetzes aufgenommen, ist ihnen eine Bescheinigung nach § 15 Abs. 2 auszustellen, aus der hervorgeht, dass sie den Status im Sinne des Artikels 116 Abs. 1 des Grundgesetzes nicht erworben haben.
 
-### § 101 (weggefallen)
+### § 101 Geltung für Lebenspartner
 
--
+Die für Ehegatten geltenden Vorschriften dieses Gesetzes gelten entsprechend für Lebenspartner.
 
 ### § 102 (weggefallen)
 
