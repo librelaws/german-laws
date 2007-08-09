@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 10.8.2007 I 1902;
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 4.12.2011 I 2426
+Zuletzt geändert durch Art. 5 G v. 23.10.2012 I 2246
 
 ### 
 
@@ -211,9 +211,9 @@ durch schriftliche, an Eides statt abzugebende Erklärungen von zwei Personen, d
 
 (1) Wer als Spätaussiedler aus den Aussiedlungsgebieten innerhalb von zwei Monaten nach dem Verlassen dieser Gebiete im Geltungsbereich dieses Gesetzes seinen ständigen Aufenthalt genommen hat, erhält einmalig Leistungen wie ein Versicherter der gesetzlichen Krankenversicherung, wenn der Leistungsgrund am Tag der Aufenthaltsnahme gegeben ist oder innerhalb von drei Monaten danach eintritt.
 
-(2) Die Leistungen bei Krankheit nach den §§ 27 bis 43a des Fünften Buches Sozialgesetzbuch sowie Zuschüsse zur Versorgung mit Zahnersatz nach § 55 des Fünften Buches Sozialgesetzbuch und die im Zusammenhang mit diesen Leistungen notwendigen Fahrkosten (§ 60 des Fünften Buches Sozialgesetzbuch) werden längstens für die ersten 78 Wochen von dem Tag der Aufenthaltsnahme im Geltungsbereich dieses Gesetzes an gewährt, Krankengeld und Mutterschaftsgeld nach § 200 der Reichsversicherungsordnung längstens für 182 Tage, die anderen Leistungen bis zum Ablauf der Frist von drei Monaten nach Absatz 1 Satz 1. Leistungen zur Entbindung einschließlich Mutterschaftsgeld werden gewährt, wenn die Entbindung in der Frist von drei Monaten nach Absatz 1 Satz 1 liegt.
+(2) Die Leistungen bei Krankheit nach den §§ 27 bis 43a des Fünften Buches Sozialgesetzbuch sowie Zuschüsse zur Versorgung mit Zahnersatz nach § 55 des Fünften Buches Sozialgesetzbuch und die im Zusammenhang mit diesen Leistungen notwendigen Fahrkosten (§ 60 des Fünften Buches Sozialgesetzbuch) werden längstens für die ersten 78 Wochen von dem Tag der Aufenthaltsnahme im Geltungsbereich dieses Gesetzes an gewährt, Krankengeld und Mutterschaftsgeld nach § 24i des Fünften Buches Sozialgesetzbuch längstens für 182 Tage, die anderen Leistungen bis zum Ablauf der Frist von drei Monaten nach Absatz 1 Satz 1. Leistungen zur Entbindung einschließlich Mutterschaftsgeld werden gewährt, wenn die Entbindung in der Frist von drei Monaten nach Absatz 1 Satz 1 liegt.
 
-(3) Krankengeld (§§ 44 bis 51 des Fünften Buches Sozialgesetzbuch) und Mutterschaftsgeld (§ 200 der Reichsversicherungsordnung) erhalten Berechtigte nur, wenn sie bis zum Verlassen der in Absatz 1 genannten Gebiete
+(3) Krankengeld (§§ 44 bis 51 des Fünften Buches Sozialgesetzbuch) und Mutterschaftsgeld (§ 24i des Fünften Buches Sozialgesetzbuch) erhalten Berechtigte nur, wenn sie bis zum Verlassen der in Absatz 1 genannten Gebiete
 
 1.  
 in einem Arbeitsverhältnis gestanden haben,
