@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 4.9.2007 I 2206
 
 Stand  
-zuletzt geändert durch Art. 2a G v. 19.10.2012 I 2192
+zuletzt geändert durch Art. 5d G v. 15.7.2013 I 2423
 
 ### 
 
@@ -777,6 +777,16 @@ nach Maßgabe der Vorschriften des Fünften Buches Sozialgesetzbuch Maßnahmen z
 
 § 9a Absatz 2 Nummer 2 und 3 gilt entsprechend.
 
+(3) Die nach Absatz 2 Satz 1 Nummer 1 für die Organvermittlung erforderlichen Angaben sind von einem Arzt oder einer von diesem beauftragten Person zu erheben, zu dokumentieren und an die Vermittlungsstelle nach Maßgabe des § 13 Absatz 3 Satz 3 zu übermitteln. Den in Satz 1 genannten Personen ist es verboten,
+
+1.  
+für eine Meldung nach § 13 Absatz 3 Satz 3 den Gesundheitszustand eines Patienten unrichtig zu erheben oder unrichtig zu dokumentieren oder
+
+2.  
+bei der Meldung nach § 13 Absatz 3 Satz 3 einen unrichtigen Gesundheitszustand eines Patienten zu übermitteln,
+
+um Patienten bei der Führung der einheitlichen Warteliste nach § 12 Absatz 3 Satz 2 zu bevorzugen.
+
 ### § 10a Organ- und Spendercharakterisierung, Transport von Organen, Verordnungsermächtigung zur Organ- und Spendercharakterisierung und zum Transport
 
 (1) Die von der Koordinierungsstelle beauftragte Person stellt unter ärztlicher Beratung und Anleitung sicher, dass die Organe für eine Übertragung nur freigegeben werden, wenn nach ärztlicher Beurteilung die Organ- und Spendercharakterisierung nach dem Stand der medizinischen Wissenschaft und Technik ergeben hat, dass das Organ für eine Übertragung geeignet ist. Die sachdienlichen Angaben über den Spender, die zur Bewertung seiner Eignung zur Organspende erforderlich sind, und die sachdienlichen Angaben über die Merkmale des Organs, die zur Beurteilung nach Satz 1 erforderlich sind, werden nach Maßgabe einer Rechtsverordnung nach Absatz 4 erhoben, um eine ordnungsgemäße Risikobewertung vorzunehmen, die Risiken für den Organempfänger so gering wie möglich zu halten und die Organvermittlung zu optimieren. Bei der Erhebung dieser Angaben werden, soweit dies möglich und angemessen ist, auch die nächsten Angehörigen im Rahmen der Unterrichtung nach § 3 Absatz 3 Satz 1 oder der Befragung nach § 4 Absatz 1 Satz 1 oder weitere Personen, die Angaben zum Organspender machen können, befragt. Die Sätze 1 und 2 gelten entsprechend für die Erhebung der sachdienlichen Angaben vor der Entnahme und Übertragung eines Organs eines lebenden Spenders durch den verantwortlichen Arzt des Transplantationszentrums.
@@ -1051,7 +1061,9 @@ die Anforderungen an die Aufzeichnung der Lebendorganspenden nach § 10 Absatz 2
 
 Die Einhaltung des Standes der Erkenntnisse der medizinischen Wissenschaft wird vermutet, wenn die Richtlinien der Bundesärztekammer beachtet worden sind.
 
-(2) Die Bundesärztekammer legt das Verfahren für die Erarbeitung der Richtlinien nach Absatz 1 und für die Beschlussfassung fest. Bei der Erarbeitung der Richtlinien ist die angemessene Beteiligung von Sachverständigen der betroffenen Fach- und Verkehrskreise‚ einschließlich des Spitzenverbandes Bund der Krankenkassen, der Deutschen Krankenhausgesellschaft, der Deutschen Transplantationsgesellschaft, der Koordinierungsstelle nach § 11, der Vermittlungsstelle nach § 12 und der zuständigen Behörden der Länder vorzusehen. Darüber hinaus sollen bei der Erarbeitung der Richtlinien nach Absatz 1 Satz 1 Nr. 1, 1a und 5 Ärzte, die weder an der Entnahme noch an der Übertragung von Organen beteiligt sind, noch Weisungen eines Arztes unterstehen, der an solchen Maßnahmen beteiligt ist, bei der Erarbeitung der Richtlinien nach Absatz 1 Satz 1 Nr. 2 und 5 Personen mit der Befähigung zum Richteramt und Personen aus dem Kreis der Patienten, bei der Erarbeitung von Richtlinien nach Absatz 1 Satz 1 Nr. 5 ferner Personen aus dem Kreis der Angehörigen von Organspendern nach § 3 oder § 4 angemessen vertreten sein.
+(2) Die Bundesärztekammer legt das Verfahren für die Erarbeitung der Richtlinien nach Absatz 1 und für die Beschlussfassung fest. Die Richtlinien nach Absatz 1 sind zu begründen; dabei ist insbesondere die Feststellung des Standes der Erkenntnisse der medizinischen Wissenschaft nachvollziehbar darzulegen. Bei der Erarbeitung der Richtlinien ist die angemessene Beteiligung von Sachverständigen der betroffenen Fach- und Verkehrskreise‚ einschließlich des Spitzenverbandes Bund der Krankenkassen, der Deutschen Krankenhausgesellschaft, der Deutschen Transplantationsgesellschaft, der Koordinierungsstelle nach § 11, der Vermittlungsstelle nach § 12 und der zuständigen Behörden der Länder vorzusehen. Darüber hinaus sollen bei der Erarbeitung der Richtlinien nach Absatz 1 Satz 1 Nr. 1, 1a und 5 Ärzte, die weder an der Entnahme noch an der Übertragung von Organen beteiligt sind, noch Weisungen eines Arztes unterstehen, der an solchen Maßnahmen beteiligt ist, bei der Erarbeitung der Richtlinien nach Absatz 1 Satz 1 Nr. 2 und 5 Personen mit der Befähigung zum Richteramt und Personen aus dem Kreis der Patienten, bei der Erarbeitung von Richtlinien nach Absatz 1 Satz 1 Nr. 5 ferner Personen aus dem Kreis der Angehörigen von Organspendern nach § 3 oder § 4 angemessen vertreten sein.
+
+(3) Die Richtlinien nach Absatz 1 sowie deren Änderungen sind dem Bundesministerium für Gesundheit zur Genehmigung vorzulegen. Das Bundesministerium für Gesundheit kann von der Bundesärztekammer im Rahmen des Genehmigungsverfahrens zusätzliche Informationen und ergänzende Stellungnahmen anfordern.
 
 ### § 16a Verordnungsermächtigung
 
@@ -1140,6 +1152,8 @@ wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 (2) Wer entgegen § 3 Abs. 1 Satz 1 oder Abs. 2, § 4 Abs. 1 Satz 2 oder § 4a Abs. 1 Satz 1 ein Organ oder Gewebe entnimmt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
+(2a) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer absichtlich entgegen § 10 Absatz 3 Satz 2 den Gesundheitszustand eines Patienten erhebt, dokumentiert oder übermittelt.
+
 (3) Wer
 
 1.  
@@ -1153,7 +1167,7 @@ entgegen § 14 Abs. 2 Satz 1, auch in Verbindung mit Satz 2, oder Satz 3 persone
 
 wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-(4) In den Fällen der Absätze 1 und 2 ist der Versuch strafbar.
+(4) In den Fällen der Absätze 1, 2 und 2a ist der Versuch strafbar.
 
 (5) Handelt der Täter in den Fällen des Absatzes 2 fahrlässig, ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
