@@ -1494,8 +1494,32 @@ Der Bundesminister für Verkehr
 
 ### Anlage 1 (zu § 20)Kennzeichnung und Sicherung von Bahnübergängen
 
-(Inhalt: nicht darstellbare Verkehrszeichen,
-Fundstelle: BGBl. I 1987, Nr 58, Anlageband S. 2)
+(Fundstelle: BGBl. I 1987, Nr 58, Anlageband S. 2)
+
+<table>
+<tbody>
+<tr class="odd">
+<td><img src="bgbl1_1987_j5802_0010.jpg" /></td>
+<td>Bild 1 Andreaskreuz<br />
+<br />
+Der Blitzpfeil in der Mitte des Andreaskreuzes zeigt an, daß die Strecke elektrische Fahrleitung hat</td>
+</tr>
+<tr class="even">
+<td><img src="bgbl1_1987_j5802_0020.jpg" /></td>
+<td>Bild 2 Lichtzeichen<br />
+<br />
+Bei beengten Verhältnissen darf das Andreaskreuz neben oder über dem Lichtzeichen angebracht sein</td>
+</tr>
+<tr class="odd">
+<td><img src="bgbl1_1987_j5802_0030.jpg" /></td>
+<td>Bild 3 Lichtzeichen mit Halbschranke<br />
+<br />
+Bei beengten Verhältnissen gelten die Angaben zu Bild 2 entsprechend.<br />
+<br />
+Die Halbschranke darf auch senkrecht gestreift sein.</td>
+</tr>
+</tbody>
+</table>
 
 ### Anlage 2 (zu § 36)Grenzwerte für Bremsungen
 
@@ -1545,7 +1569,7 @@ Die Grenzwerte a und s der Tabellen 1 und 2 gelten für leere Fahrzeuge auf gera
 <td></td>
 </tr>
 <tr class="even">
-<td>3,62 (hoch) 2 x 2 s</td>
+<td>3,6 (hoch) 2 x 2 s</td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1665,12 +1689,17 @@ m/s (hoch) 2</td>
 
 ### Anlage 3 (zu § 47 Abs. 2 Nr. 2)Sinnbild zur Kenntlichmachung von Sitzplätzen für behinderte und andere sitzplatzbedürftige Personen
 
-(Inhalt: nicht darstellbare Abbildung,
-Fundstelle: BGBl. I 1987, Nr 58, Anlageband S. 4)
+(Fundstelle: BGBl. I 1987, Nr 58, Anlageband S. 4)
+
+|                                            |
+|--------------------------------------------|
+| ![](bgbl1_1987_j5804_0010.jpg)             |
+| Farbe des Sinnbildes und der Bildumrandung |
+| Farbe des Untergrundes                     |
 
 ### Anlage 4 (zu den §§ 21, 40, 51)Signale
 
-Fundstelle des Originaltextes: Anlageband zu BGBl. I 1987, Nr. 58
+(Fundstelle des Originaltextes: Anlageband zu BGBl. I 1987, Nr. 58)
 
 |           |
 |-----------|
@@ -1688,5 +1717,221 @@ Fundstelle des Originaltextes: Anlageband zu BGBl. I 1987, Nr. 58
 | 11.       |
 | 12.       |
 
-(weiterer Inhalt: nicht darstellbare Signalbilder,
-Fundstelle: BGBl. I 1987, Nr 58, Anlageband S. 6 - 28)
+(Fundstelle: BGBl. I 1987, Nr 58, Anlageband S. 6 - 28)
+
+**1.**  
+**Hauptsignale** (Fahren auf Zugsicherung)
+
+|             |                                    |                                        |                                                                                               |
+|-------------|------------------------------------|----------------------------------------|-----------------------------------------------------------------------------------------------|
+| Bezeichnung | Signalbild                         | Bedeutung                              | Erläuterung                                                                                   |
+| H 0         | Ein rotes Licht                    | Halt                                   |                                                                                               |
+|             | ![](bgbl1_1987_j5806_0010.jpg)     |                                        |                                                                                               |
+| H 1         | Ein grünes Licht                   | Fahrt                                  | Signale H 1 und H 2 können auch in Verbindung mit Geschwindigkeitssignalen G 2 gegeben werden |
+|             | ![](bgbl1_1987_j5806_0020.jpg)     |                                        |                                                                                               |
+| H 2         | Ein grünes über einem gelbem Licht | Fahrt mit Geschwindigkeitsbeschränkung |                                                                                               |
+|             | ![](bgbl1_1987_j5806_0030.jpg)     |                                        |                                                                                               |
+
+**2.**  
+**Vorankündigungssignale** (Fahren auf Zugsicherung)
+
+|             |                                                                        |                                                                                 |             |
+|-------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------|-------------|
+| Bezeichnung | Signalbild                                                             | Bedeutung                                                                       | Erläuterung |
+| V 0         | Zwei gelbe Lichter nach rechts steigend                                | Am folgenden Hauptsignal ist Halt zu erwarten                                   |             |
+|             | ![](bgbl1_1987_j5807_0010.jpg)                                         |                                                                                 |             |
+| V 1         | Zwei grüne Lichter nach rechts steigend                                | Am folgenden Hauptsignal ist Fahrt zu erwarten                                  |             |
+|             | ![](bgbl1_1987_j5807_0020.jpg)                                         |                                                                                 |             |
+| V 2         | Ein grünes und ein gelbes Licht von links nach rechts stärker steigend | Am folgenden Hauptsignal ist Fahrt mit Geschwindigkeitsbeschränkung zu erwarten |             |
+|             | ![](bgbl1_1987_j5807_0030.jpg)                                         |                                                                                 |             |
+
+Bei beschränktem Raum können die Lichter senkrecht untereinander angeordnet sein, wenn keine Verwechslungen mit anderen Signalbildern zu befürchten sind.
+
+**3.**  
+**Fahrsignale** (Fahren auf Sicht)
+
+|             |                                                          |                                                                                      |             |
+|-------------|----------------------------------------------------------|--------------------------------------------------------------------------------------|-------------|
+| Bezeichnung | Signalbild                                               | Bedeutung                                                                            | Erläuterung |
+| F 0         | Ein weißer waagerechter Lichtbalken                      | Halt                                                                                 |             |
+|             | ![](bgbl1_1987_j5808_0010.jpg)                           |                                                                                      |             |
+| F 1         | Ein weißer senkrechter Lichtbalken                       | Fahrt freigegeben nur geradeaus                                                      |             |
+|             | ![](bgbl1_1987_j5808_0020.jpg)                           |                                                                                      |             |
+| F 2         | Ein weißer schräg nach rechts oben weisender Lichtbalken | Fahrt freigegeben nur nach rechts                                                    |             |
+|             | ![](bgbl1_1987_j5808_0030.jpg)                           |                                                                                      |             |
+| F 3         | Ein weißer schräg nach links oben weisender Lichtbalken  | Fahrt freigegeben nur nach links                                                     |             |
+|             | ![](bgbl1_1987_j5809_0040.jpg)                           |                                                                                      |             |
+| F 4         | Ein weißer Lichtpunkt                                    | Halt zu erwarten                                                                     |             |
+|             | ![](bgbl1_1987_j5809_0050.jpg)                           |                                                                                      |             |
+| F 5         | Ein weißes Lichtdreieck mit Spitze nach unten            | Fahrt freigegeben unter Beachtung der Abbiegeregeln nach § 9 Straßenverkehrs-Ordnung |             |
+|             | ![](bgbl1_1987_j5809_0060.jpg)                           |                                                                                      |             |
+
+**4.**  
+**Abfertigungssignale**
+
+|             |                                                                                          |                 |             |
+|-------------|------------------------------------------------------------------------------------------|-----------------|-------------|
+| Bezeichnung | Signalbild                                                                               | Bedeutung       | Erläuterung |
+| A 1         | ein weiß- oder gelbleuchtendes T                                                         | Türen schließen |             |
+|             | ![](bgbl1_1987_j5810_0010.jpg)                                                           |                 |             |
+| A 2 a       | Ein kurzes akustisches oder ein optisches oder ein akustisches und ein optisches Zeichen | Abfahren        |             |
+|             | ![](bgbl1_1987_j5810_0020.jpg)                                                           |                 |             |
+| A 2 b       | Ein weiß- oder grünleuchtender Ring                                                      |                 |             |
+|             | ![](bgbl1_1987_j5810_0030.jpg)                                                           |                 |             |
+
+**5.**  
+**Zugsignale**
+
+|             |                                                       |                      |                                                                          |
+|-------------|-------------------------------------------------------|----------------------|--------------------------------------------------------------------------|
+| Bezeichnung | Signalbild                                            | Bedeutung            | Erläuterung                                                              |
+| Z 1         | An der Spitze eines Zuges drei weiße Lichter          | Spitzensignal        | Die Stirnleuchte des Spitzensignals kann die Linienbezeichnung enthalten |
+|             | ![](bgbl1_1987_j5811_0010.jpg)                        |                      |                                                                          |
+| Z 2         | Am Zugschluß zwei rote Lichter                        | Schlußsignal         |                                                                          |
+|             | ![](bgbl1_1987_j5811_0020.jpg)                        |                      |                                                                          |
+| Z 3         | Am Zugschluß zwei gelbe oder rote Lichter             | Bremssignal          |                                                                          |
+|             | ![](bgbl1_1987_j5812_0010.jpg)                        |                      |                                                                          |
+| Z 4         | Gelbe Blinklichter an einer der beiden Längsseiten    | Fahrtrichtungssignal |                                                                          |
+|             | ![](bgbl1_1987_j5812_0020.jpg)                        |                      |                                                                          |
+| Z 5         | Gelbe Blinklichter gleichzeitig an beiden Längsseiten | Warnblinksignal      | Zeigt an, daß der Zug liegengeblieben ist                                |
+|             | ![](bgbl1_1987_j5813_0010.jpg)                        |                      |                                                                          |
+
+**6.**  
+**Geschwindigkeitssignale**
+
+|             |                                                                                               |                                              |                                                                                                                  |
+|-------------|-----------------------------------------------------------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Bezeichnung | Signalbild                                                                                    | Bedeutung                                    | Erläuterung                                                                                                      |
+| G 1 a       | Eine dreieckige, auf der Spitze stehende gelbe Tafel mit weißem Rand und schwarzer Kennziffer | Ankündigung der Geschwindigkeitsbeschränkung | Geschwindigkeitsbeschränkung ist jede Änderung der zulässigen Geschwindigkeit nach unten                         |
+|             | ![](bgbl1_1987_j5814_0010.jpg)                                                                |                                              |                                                                                                                  |
+|             | Bei beschränktem Raum kann eine Dreieckspitze nach oben zeigen                                |                                              |                                                                                                                  |
+| G 1 b       | Eine weißleuchtende Kennziffer                                                                |                                              |                                                                                                                  |
+|             | ![](bgbl1_1987_j5814_0020.jpg)                                                                |                                              |                                                                                                                  |
+| G 2 a       | Eine rechteckige gelbe Tafel mit weißem Rand und schwarzer Kennziffer                         | Beginn der Geschwindigkeitsbeschränkung      |                                                                                                                  |
+|             | ![](bgbl1_1987_j5814_0030.jpg)                                                                |                                              |                                                                                                                  |
+| G 2 b       | eine weißleuchtende Kennziffer                                                                |                                              |                                                                                                                  |
+|             | ![](bgbl1_1987_j5814_0040.jpg)                                                                |                                              |                                                                                                                  |
+| G 3         | Eine rechteckige weiße Tafel mit schwarzem E                                                  | Ende der Geschwindigkeitsbeschränkung        | Geschwindigkeitsbeschränkung ist jede Änderung der zulässigen Geschwindigkeit nach unten                         |
+|             | ![](bgbl1_1987_j5815_0010.jpg)                                                                |                                              |                                                                                                                  |
+| G 4         | Eine rechteckige weiße Tafel mit schwarzem Rand und schwarzer Kennziffer                      | Beginn der Geschwindigkeitsbegrenzung        | Zeigt Änderungen der zulässigen Geschwindigkeit nach oben an; kann auch anstelle von Signal G 3 verwendet werden |
+|             | ![](bgbl1_1987_j5815_0020.jpg)                                                                |                                              |                                                                                                                  |
+
+Die Kennziffern der Signale G 1, G 2 und G 4 bedeuten, daß der angegebene Wert in km/h als Geschwindigkeit zugelassen ist; werden einstellige Kennziffern verwendet, gilt deren zehnfacher Wert als zulässige Geschwindigkeit.
+
+**7.**  
+**Schutzsignale**
+
+|             |                                                                                                                                              |              |                                                                                                 |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------|
+| Bezeichnung | Signalbild                                                                                                                                   | Bedeutung    | Erläuterung                                                                                     |
+| Sh 1        | Eine quadratische gelbe Tafel mit waagerechtem grünen Streifen                                                                               | Zwangshalt   | Kennzeichnet Stellen, an denen bei Fahren auf Sicht an jedem Fall anzuhalten ist                |
+|             | ![](bgbl1_1987_j5816_0010.jpg)                                                                                                               |              |                                                                                                 |
+| Sh 2        | Eine rechteckige rote Tafel mit weißem Rand                                                                                                  | Schutzhalt   | Weiterfahrt ist unzulässig                                                                      |
+|             | ![](bgbl1_1987_j5816_0020.jpg)                                                                                                               |              |                                                                                                 |
+| Sh 3 a      | Mindestens 3 kurze akustische Zeichen schnell hintereinander                                                                                 | Nothalt      | Der Zug ist auf kürzestem Weg anzuhalten                                                        |
+|             | ![](bgbl1_1987_j5817_0010.jpg)                                                                                                               |              |                                                                                                 |
+| Sh 3 b      | Eine weiß-rot-weiße Fahne oder der Arm im Kreis bewegt                                                                                       |              |                                                                                                 |
+|             | ![](bgbl1_1987_j5817_0020.jpg)                                                                                                               |              |                                                                                                 |
+| Sh 3 c      | Eine Laterne, möglichst rot abgeblendet, oder ein leuchtender Gegenstand im Kreis bewegt                                                     |              |                                                                                                 |
+|             | ![](bgbl1_1987_j5817_0030.jpg)                                                                                                               |              |                                                                                                 |
+| Sh 3 d      | Ein rotes Blinklicht oder mehrere rote Lichter untereinander                                                                                 |              |                                                                                                 |
+|             | ![](bgbl1_1987_j5817_0040.jpg)                                                                                                               |              |                                                                                                 |
+| Sh 4        | Eine rechteckige weiße Tafel mit schwarzem L                                                                                                 | Läuten       | Den örtlichen Gegebenheiten entsprechend sind akustische Warnsignale zu geben                   |
+|             | ![](bgbl1_1987_j5818_0010.jpg)                                                                                                               |              |                                                                                                 |
+| Sh 5        | Ein mäßig langer Ton oder Läutezeichen                                                                                                       | Achtung      | Signal Sh 5 wird gegeben, um Personen zu warnen                                                 |
+|             | ![](bgbl1_1987_j5818_0020.jpg)                                                                                                               |              |                                                                                                 |
+| Sh 6        | Ein rot-weißes Zeichen oder entsprechende Markierung im Gleisbereich                                                                         | Grenzzeichen | Kennzeichnet die Grenze, bis zu der bei zusammenlaufenden Gleisen das Gleis besetzt werden darf |
+|             | ![](bgbl1_1987_j5818_0030.jpg)                                                                                                               |              |                                                                                                 |
+| Sh 7        | Eine rechteckige schwarze Tafel mit weißem H oder eine rechteckige weiße Tafel mit schwarzem H oder entsprechende Markierung im Gleisbereich | Haltetafel   | Kennzeichnet die Stelle, an der die Spitze des Zuges halten soll                                |
+|             | ![](bgbl1_1987_j5818_0040.jpg)                                                                                                               |              |                                                                                                 |
+
+**8.**  
+**Rangiersignale**
+
+|             |                                                                                                              |             |                                        |
+|-------------|--------------------------------------------------------------------------------------------------------------|-------------|----------------------------------------|
+| Bezeichnung | Signalbild                                                                                                   | Bedeutung   | Erläuterung                            |
+| R 1         | Ein mäßig langer Ton und senkrechte Bewegungen des Armes, bei Dunkelheit mit einer weißen Laterne            | Wegfahren   | Rangierbewegung vom Signalgebenden weg |
+|             | ![](bgbl1_1987_j5819_0010.jpg)                                                                               |             |                                        |
+| R 2         | Zwei mäßig lange Töne und waagerechte langsame Bewegungen des Armes, bei Dunkelheit mit einer weißen Laterne | Herkommen   | Rangierbewegung zum Signalgebenden hin |
+|             | ![](bgbl1_1987_j5819_0020.jpg)                                                                               |             |                                        |
+| R 3         | Drei kurze Töne und kreisförmige Bewegungen des Armes, bei Dunkelheit mit einer weißen Laterne               | Rangierhalt |                                        |
+|             | ![](bgbl1_1987_j5819_0030.jpg)                                                                               |             |                                        |
+
+**9.**  
+**Schaltsignale**
+
+|             |                                                                                                                                                                                       |                                                 |                                                                                            |
+|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Bezeichnung | Signalbild                                                                                                                                                                            | Bedeutung                                       | Erläuterung                                                                                |
+| St 1        | Eine quadratische blaue Tafel mit einem weißen S                                                                                                                                      | Signalkontakt                                   | Am Signal St 1 ist ein Signalkontakt zu betätigen                                          |
+|             | ![](bgbl1_1987_j5820_0010.jpg)                                                                                                                                                        |                                                 |                                                                                            |
+| St 2        | Eine quadratische blaue Tafel mit einem weißen W                                                                                                                                      | Weichenkontakt                                  | Am Signal St 2 ist die Weichensteuerung zu betätigen                                       |
+|             | ![](bgbl1_1987_j5820_0020.jpg)                                                                                                                                                        |                                                 |                                                                                            |
+| St 3        | Eine quadratische, auf der Spitze stehende blaue Tafel mit schwarzem und weißem Rand und einem zerlegten weißen U                                                                     | Ausschalten                                     | Vom Signal St 3 an muß der Fahrstrom ausgeschaltet sein                                    |
+|             | ![](bgbl1_1987_j5820_0030.jpg)                                                                                                                                                        |                                                 |                                                                                            |
+| St 4        | Eine quadratische, auf der Spitze stehende blaue Tafel mit schwarzem und weißem Rand und einem geschlossenen weißen U                                                                 | Einschalten erlaubt                             | Vom Signal St 4 ab darf der Fahrstrom eingeschaltet werden                                 |
+|             | ![](bgbl1_1987_j5821_0010.jpg)                                                                                                                                                        |                                                 |                                                                                            |
+| St 5        | Eine quadratische, auf der Spitze stehende blaue Tafel mi schwarzem und weißem Rand und einem waagerechten weißen Streifen                                                            | Stromabnehmer abziehen                          | Vom Signal St 5 ab muß der Stromabnehmer abgezogen sein                                    |
+|             | ![](bgbl1_1987_j5821_0020.jpg)                                                                                                                                                        |                                                 |                                                                                            |
+| St 6        | Eine quadratische, auf der Spitze stehende blaue Tafel mit schwarzem und weißem Rand und einem senkrechten weißen Streifen                                                            | Stromabnehmer anlegen                           | Vom Signal St 6 ab darf der Stromabnehmer wieder angelegt sein                             |
+|             | ![](bgbl1_1987_j5822_0010.jpg)                                                                                                                                                        |                                                 |                                                                                            |
+| St 7        | Eine quadratische blaue Tafel mit einem weißen T                                                                                                                                      | Streckentrenner                                 | Am Signal St 7 ist der Fahrstrom kurz abzuschalten                                         |
+|             | ![](bgbl1_1987_j5822_0020.jpg)                                                                                                                                                        |                                                 |                                                                                            |
+| St 8        | Eine quadratische, auf der Spitze stehende blaue Tafel mit schwarzem und weißem Rand und einem auf der Spitze stehenden quadratischen weißen Rahmen mit innenliegendem weißen Quadrat | Halt für Fahrzeuge mit angelegtem Stromabnehmer | Fahrten über Signal St 8 hinaus sind für Fahrzeuge mit angelegtem Stromabnehmer unzulässig |
+|             | ![](bgbl1_1987_j5822_0030.jpg)                                                                                                                                                        |                                                 |                                                                                            |
+
+**10.**  
+**Weichensignale**
+
+|             |                                                                                                      |                                                                   |                                                                                                                    |
+|-------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| Bezeichnung | Signalbild                                                                                           | Bedeutung                                                         | Erläuterung                                                                                                        |
+| W 1         | Ein weiß leuchtender Winkel mit Spitze nach oben                                                     | Weiche steht für Fahrt geradeaus mit höchstens 15 km/h            | Kraftschlüssige Endlage der beweglichen Weichenteile (Weiche ohne Verschluß)                                       |
+|             | ![](bgbl1_1987_j5823_0010.jpg)                                                                       |                                                                   |                                                                                                                    |
+| W 2         | Ein weiß leuchtender Winkel mit Spitze nach rechts                                                   | Weiche steht für Fahrt nach rechts mit höchstens 15 km/h          |                                                                                                                    |
+|             | ![](bgbl1_1987_j5823_0020.jpg)                                                                       |                                                                   |                                                                                                                    |
+| W 3         | Ein weiß leuchtender Winkel mit Spitze nach links                                                    | Weiche steht für Fahrt nach links mit höchstens 15 km/h           |                                                                                                                    |
+|             | ![](bgbl1_1987_j5823_0030.jpg)                                                                       |                                                                   |                                                                                                                    |
+| W 11        | Ein weiß leuchtender Winkel mit Spitze nach oben und Basisbalken unten                               | Weiche steht für Fahrt geradeaus mit zulässiger Geschwindigkeit   | Die beweglichen Teile der Weiche sind in der jeweiligen Endlage formschlüssig festgelegt (Weiche ist verschlossen) |
+|             | ![](bgbl1_1987_j5824_0010.jpg)                                                                       |                                                                   |                                                                                                                    |
+| W 12        | Ein weiß leuchtender Winkel mit Spitze nach rechts und Basisbalken links                             | Weiche steht für Fahrt nach rechts mit zulässiger Geschwindigkeit |                                                                                                                    |
+|             | ![](bgbl1_1987_j5824_0020.jpg)                                                                       |                                                                   |                                                                                                                    |
+| W 13        | Ein weiß leuchtender Winkel mit Spitze nach links und Basisbalken rechts                             | Weiche steht für Fahrt nach links mit zulässiger Geschwindigkeit  |                                                                                                                    |
+|             | ![](bgbl1_1987_j5824_0030.jpg)                                                                       |                                                                   |                                                                                                                    |
+| W 14        | Ein weißer Winkel mit Spitze nach unten und Basisbalken oben auf einer quadratischen schwarzen Tafel | Weiche darf nicht aufgefahren werden                              |                                                                                                                    |
+|             | ![](bgbl1_1987_j5824_0040.jpg)                                                                       |                                                                   |                                                                                                                    |
+
+**11.**  
+**Überwachungssignale für Bahnübergänge**
+
+|             |                                                                                               |                                                                              |                                                                                      |
+|-------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Bezeichnung | Signalbild                                                                                    | Bedeutung                                                                    | Erläuterung                                                                          |
+| Bü 0        | Ein schwarz-weiß schräg gestreiftes, rückstrahlendes Mastschild                               | Halt vor dem Bahnübergang; Weiterfahrt nur, wenn es die Verkehrslage erlaubt | Bü 0 zeigt an, daß die technische Sicherung des Bahnübergangs ausgefallen ist        |
+|             | ![](bgbl1_1987_j5825_0010.jpg)                                                                |                                                                              |                                                                                      |
+| Bü 1        | Ein weißes Blinklicht über einem schwarz-weiß schräg gestreiften, rückstrahlenden Mastschild  | Der Bahnübergang darf befahren werden                                        | Bü 1 zeigt an, daß die technische Sicherung des Bahnübergangs ordnungsgemäß arbeitet |
+|             | ![](bgbl1_1987_j5825_0020.jpg)                                                                |                                                                              |                                                                                      |
+| Bü 2        | Eine rechteckige schwarze Tafel mit vier auf den Spitzen übereinander stehenden weißen Rauten | Ein Überwachungssignal ist zu erwarten                                       |                                                                                      |
+|             | ![](bgbl1_1987_j5825_0030.jpg)                                                                |                                                                              |                                                                                      |
+
+**12.**  
+**Sondersignale**
+
+|             |                                                                                                                                |                                       |                                                                                                                                      |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Bezeichnung | Signalbild                                                                                                                     | Bedeutung                             | Erläuterung                                                                                                                          |
+| So 1        | Eine quadratische weiße Tafel mit zwei schwarzen Punkten untereinander                                                         | Beginn einer Strecke mit Zugsicherung | Übergang vom Fahren auf Sicht zum Fahren auf Zugsicherung                                                                            |
+|             | ![](bgbl1_1987_j5826_0010.jpg)                                                                                                 |                                       |                                                                                                                                      |
+| So 2        | Eine quadratische weiße Tafel mit zwei schwarzen Punkten untereinander und einem nach rechts steigenden roten Diagonalstreifen | Ende einer Strecke mit Zugsicherung   | Übergang vom Fahren auf Zugsicherung zum Fahren auf Sicht                                                                            |
+|             | ![](bgbl1_1987_j5826_0020.jpg)                                                                                                 |                                       |                                                                                                                                      |
+| So 3        | Ein schwarz-weißer Erkennungsstreifen                                                                                          | Standortkennzeichen                   | Gibt den Standort von Hauptsignalen an                                                                                               |
+|             | ![](bgbl1_1987_j5827_0010.jpg)                                                                                                 |                                       |                                                                                                                                      |
+| So 4        | Ein gelb-weißes Mastschild                                                                                                     | Auftragsschild                        | Gibt den Auftrag, am Signal H 0 unter Beachtung besonderer Anordnungen, die in einer Dienstanweisung festgelegt sind, vorbeizufahren |
+|             | ![](bgbl1_1987_j5827_0020.jpg)                                                                                                 |                                       |                                                                                                                                      |
+| So 5        | Eine quadratische gelbe Tafel mit grünem Diagonalkreuz                                                                         | Begegnungsverbot — Anfang —           | Bei Begegnungsverbot für bestimmte Fahrzeuge und Richtungen können Zusatzschilder verwendet werden                                   |
+|             | ![](bgbl1_1987_j5828_0010.jpg)                                                                                                 |                                       |                                                                                                                                      |
+| So 6        | Eine quadratische gelbe Tafel mit grünem Rand                                                                                  | Begegnungsverbot — Ende —             |                                                                                                                                      |
+|             | ![](bgbl1_1987_j5828_0020.jpg)                                                                                                 |                                       |                                                                                                                                      |
+
+
