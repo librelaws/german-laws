@@ -5,7 +5,13 @@ Neuf
 Neugefasst durch Bek. v. 25.2.2008 I 162
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 23.12.2014 I 2439
+Zuletzt geändert durch Art. 2 Abs. 1 G v. 17.2.2016 I 203
+
+Hinweis  
+Änderung durch Art. 2 G v. 11.3.2016 I 390 (Nr. 12) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 1 G v. 11.3.2016 I 394 (Nr. 12) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -102,10 +108,11 @@ Abschnitt 3
 Aufenthalt zum
 Zweck der Ausbildung
 
-|      |                                   |
-|------|-----------------------------------|
-| § 16 | Studium; Sprachkurse; Schulbesuch |
-| § 17 | Sonstige Ausbildungszwecke        |
+|       |                                                 |
+|-------|-------------------------------------------------|
+| § 16  | Studium; Sprachkurse; Schulbesuch               |
+| § 17  | Sonstige Ausbildungszwecke                      |
+| § 17a | Anerkennung ausländischer Berufsqualifikationen |
 
 Abschnitt 4
 
@@ -128,15 +135,16 @@ Abschnitt 5
 Aufenthalt aus völkerrechtlichen,
 humanitären oder politischen Gründen
 
-|       |                                                                                                                  |
-|-------|------------------------------------------------------------------------------------------------------------------|
-| § 22  | Aufnahme aus dem Ausland                                                                                         |
-| § 23  | Aufenthaltsgewährung durch die obersten Landesbehörden; Aufnahme bei besonders gelagerten politischen Interessen |
-| § 23a | Aufenthaltsgewährung in Härtefällen                                                                              |
-| § 24  | Aufenthaltsgewährung zum vorübergehenden Schutz                                                                  |
-| § 25  | Aufenthalt aus humanitären Gründen                                                                               |
-| § 25a | Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden                                       |
-| § 26  | Dauer des Aufenthalts                                                                                            |
+|       |                                                                                                                                                     |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| § 22  | Aufnahme aus dem Ausland                                                                                                                            |
+| § 23  | Aufenthaltsgewährung durch die obersten Landesbehörden; Aufnahme bei besonders gelagerten politischen Interessen; Neuansiedlung von Schutzsuchenden |
+| § 23a | Aufenthaltsgewährung in Härtefällen                                                                                                                 |
+| § 24  | Aufenthaltsgewährung zum vorübergehenden Schutz                                                                                                     |
+| § 25  | Aufenthalt aus humanitären Gründen                                                                                                                  |
+| § 25a | Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden                                                                          |
+| § 25b | Aufenthaltsgewährung bei nachhaltiger Integration                                                                                                   |
+| § 26  | Dauer des Aufenthalts                                                                                                                               |
 
 Abschnitt 6
 
@@ -180,12 +188,13 @@ Kapitel 3
 
 Integration
 
-|       |                                                       |
-|-------|-------------------------------------------------------|
-| § 43  | Integrationskurs                                      |
-| § 44  | Berechtigung zur Teilnahme an einem Integrationskurs  |
-| § 44a | Verpflichtung zur Teilnahme an einem Integrationskurs |
-| § 45  | Integrationsprogramm                                  |
+|       |                                                                |
+|-------|----------------------------------------------------------------|
+| § 43  | Integrationskurs                                               |
+| § 44  | Berechtigung zur Teilnahme an einem Integrationskurs           |
+| § 44a | Verpflichtung zur Teilnahme an einem Integrationskurs          |
+| § 45  | Integrationsprogramm                                           |
+| § 45a | Berufsbezogene Deutschsprachförderung; Verordnungsermächtigung |
 
 Kapitel 4
 
@@ -196,6 +205,7 @@ Ordnungsrechtliche Vorschriften
 | § 46  | Ordnungsverfügungen                                   |
 | § 47  | Verbot und Beschränkung der politischen Betätigung    |
 | § 48  | Ausweisrechtliche Pflichten                           |
+| § 48a | Erhebung von Zugangsdaten                             |
 | § 49  | Überprüfung, Feststellung und Sicherung der Identität |
 | § 49a | Fundpapier-Datenbank                                  |
 | § 49b | Inhalt der Fundpapier-Datenbank                       |
@@ -225,23 +235,19 @@ Fortgeltung von Beschränkungen</td>
 </tr>
 <tr class="even">
 <td>§ 53</td>
-<td>Zwingende Ausweisung</td>
+<td>Ausweisung</td>
 </tr>
 <tr class="odd">
 <td>§ 54</td>
-<td>Ausweisung im Regelfall</td>
+<td>Ausweisungsinteresse</td>
 </tr>
 <tr class="even">
-<td>§ 54a</td>
-<td>Überwachung ausgewiesener Ausländer aus Gründen der inneren Sicherheit</td>
+<td>§ 55</td>
+<td>Bleibeinteresse</td>
 </tr>
 <tr class="odd">
-<td>§ 55</td>
-<td>Ermessensausweisung</td>
-</tr>
-<tr class="even">
 <td>§ 56</td>
-<td>Besonderer Ausweisungsschutz</td>
+<td>Überwachung ausgewiesener Ausländer aus Gründen der inneren Sicherheit</td>
 </tr>
 </tbody>
 </table>
@@ -261,6 +267,7 @@ Durchsetzung der Ausreisepflicht
 | § 61  | Räumliche Beschränkung, Wohnsitzauflage, Ausreiseeinrichtungen |
 | § 62  | Abschiebungshaft                                               |
 | § 62a | Vollzug der Abschiebungshaft                                   |
+| § 62b | Ausreisegewahrsam                                              |
 
 Kapitel 6
 
@@ -285,15 +292,17 @@ Abschnitt 1
 
 Zuständigkeiten
 
-|       |                                                                                                  |
-|-------|--------------------------------------------------------------------------------------------------|
-| § 71  | Zuständigkeit                                                                                    |
-| § 71a | Zuständigkeit und Unterrichtung                                                                  |
-| § 72  | Beteiligungserfordernisse                                                                        |
-| § 72a | Abgleich von Visumantragsdaten zu Sicherheitszwecken                                             |
-| § 73  | Sonstige Beteiligungserfordernisse im Visumverfahren und bei der Erteilung von Aufenthaltstiteln |
-| § 73a | Unterrichtung über die Erteilung von Visa                                                        |
-| § 74  | Beteiligung des Bundes; Weisungsbefugnis                                                         |
+|       |                                                                                                                                    |
+|-------|------------------------------------------------------------------------------------------------------------------------------------|
+| § 71  | Zuständigkeit                                                                                                                      |
+| § 71a | Zuständigkeit und Unterrichtung                                                                                                    |
+| § 72  | Beteiligungserfordernisse                                                                                                          |
+| § 72a | Abgleich von Visumantragsdaten zu Sicherheitszwecken                                                                               |
+| § 73  | Sonstige Beteiligungserfordernisse im Visumverfahren, im Registrier- und Asylverfahren und bei der Erteilung von Aufenthaltstiteln |
+| § 73a | Unterrichtung über die Erteilung von Visa                                                                                          |
+| § 73b | Überprüfung der Zuverlässigkeit von im Visumverfahren tätigen Personen und Organisationen                                          |
+| § 73c | Zusammenarbeit mit externen Dienstleistungserbringern                                                                              |
+| § 74  | Beteiligung des Bundes; Weisungsbefugnis                                                                                           |
 
 Abschnitt 1a
 
@@ -323,7 +332,7 @@ Verwaltungsverfahren
 | § 78  | Dokumente mit elektronischem Speicher- und Verarbeitungsmedium                      |
 | § 78a | Vordrucke für Aufenthaltstitel in Ausnahmefällen, Ausweisersatz und Bescheinigungen |
 | § 79  | Entscheidung über den Aufenthalt                                                    |
-| § 80  | Handlungsfähigkeit Minderjähriger                                                   |
+| § 80  | Handlungsfähigkeit                                                                  |
 | § 81  | Beantragung des Aufenthaltstitels                                                   |
 | § 82  | Mitwirkung des Ausländers                                                           |
 | § 83  | Beschränkung der Anfechtbarkeit                                                     |
@@ -445,21 +454,22 @@ Kapitel 10
 Verordnungsermächtigungen;
 Übergangs- und Schlussvorschriften
 
-|        |                                                                            |
-|--------|----------------------------------------------------------------------------|
-| § 99   | Verordnungsermächtigung                                                    |
-| § 100  | Sprachliche Anpassung                                                      |
-| § 101  | Fortgeltung bisheriger Aufenthaltsrechte                                   |
-| § 102  | Fortgeltung ausländerrechtlicher Maßnahmen und Anrechnung                  |
-| § 103  | Anwendung bisherigen Rechts                                                |
-| § 104  | Übergangsregelungen                                                        |
-| § 104a | Altfallregelung                                                            |
-| § 104b | Aufenthaltsrecht für integrierte Kinder von geduldeten Ausländern          |
-| § 105  | Fortgeltung von Arbeitsgenehmigungen                                       |
-| § 105a | Bestimmungen zum Verwaltungsverfahren                                      |
-| § 105b | Übergangsvorschrift für Aufenthaltstitel nach einheitlichem Vordruckmuster |
-| § 106  | Einschränkung von Grundrechten                                             |
-| § 107  | Stadtstaatenklausel                                                        |
+|        |                                                                                                      |
+|--------|------------------------------------------------------------------------------------------------------|
+| § 99   | Verordnungsermächtigung                                                                              |
+| § 100  | Sprachliche Anpassung                                                                                |
+| § 101  | Fortgeltung bisheriger Aufenthaltsrechte                                                             |
+| § 102  | Fortgeltung ausländerrechtlicher Maßnahmen und Anrechnung                                            |
+| § 103  | Anwendung bisherigen Rechts                                                                          |
+| § 104  | Übergangsregelungen                                                                                  |
+| § 104a | Altfallregelung                                                                                      |
+| § 104b | Aufenthaltsrecht für integrierte Kinder von geduldeten Ausländern                                    |
+| § 105  | Fortgeltung von Arbeitsgenehmigungen                                                                 |
+| § 105a | Bestimmungen zum Verwaltungsverfahren                                                                |
+| § 105b | Übergangsvorschrift für Aufenthaltstitel nach einheitlichem Vordruckmuster                           |
+| § 105c | Überleitung von Maßnahmen zur Überwachung ausgewiesener Ausländer aus Gründen der inneren Sicherheit |
+| § 106  | Einschränkung von Grundrechten                                                                       |
+| § 107  | Stadtstaatenklausel                                                                                  |
 
 Kapitel 1 Allgemeine Bestimmungen
 ---------------------------------
@@ -502,10 +512,13 @@ Erziehungsgeld,
 Elterngeld,
 
 5.  
-Leistungen der Ausbildungsförderung nach dem Dritten Buch Sozialgesetzbuch, dem Bundesausbildungsförderungsgesetz und dem Aufstiegsfortbildungsförderungsgesetz und
+Leistungen der Ausbildungsförderung nach dem Dritten Buch Sozialgesetzbuch, dem Bundesausbildungsförderungsgesetz und dem Aufstiegsfortbildungsförderungsgesetz,
 
 6.  
-öffentlichen Mitteln, die auf Beitragsleistungen beruhen oder die gewährt werden, um den Aufenthalt im Bundesgebiet zu ermöglichen.
+öffentlichen Mitteln, die auf Beitragsleistungen beruhen oder die gewährt werden, um den Aufenthalt im Bundesgebiet zu ermöglichen und
+
+7.  
+Leistungen nach dem Unterhaltsvorschussgesetz.
 
 Ist der Ausländer in einer gesetzlichen Krankenversicherung krankenversichert, hat er ausreichenden Krankenversicherungsschutz. Bei der Erteilung oder Verlängerung einer Aufenthaltserlaubnis zum Familiennachzug werden Beiträge der Familienangehörigen zum Haushaltseinkommen berücksichtigt. Der Lebensunterhalt gilt für die Erteilung einer Aufenthaltserlaubnis nach § 16 als gesichert, wenn der Ausländer über monatliche Mittel in Höhe des monatlichen Bedarfs, der nach den §§ 13 und 13a Abs. 1 des Bundesausbildungsförderungsgesetzes bestimmt wird, verfügt. Für die Erteilung einer Aufenthaltserlaubnis nach § 20 gilt ein Betrag in Höhe von zwei Dritteln der Bezugsgröße im Sinne des § 18 des Vierten Buches Sozialgesetzbuch als ausreichend zur Deckung der Kosten der Lebenshaltung. Das Bundesministerium des Innern gibt die Mindestbeträge nach den Sätzen 5 und 6 für jedes Kalenderjahr jeweils bis zum 31. Dezember des Vorjahres im Bundesanzeiger bekannt.
 
@@ -543,6 +556,28 @@ Richtlinie 2004/83/EG des Rates vom 29. April 2004 über Mindestnormen für die 
 
 2.  
 Richtlinie 2011/95/EU des Europäischen Parlaments und des Rates vom 13. Dezember 2011 über Normen für die Anerkennung von Drittstaatsangehörigen oder Staatenlosen als Personen mit Anspruch auf internationalen Schutz, für einen einheitlichen Status für Flüchtlinge oder für Personen mit Anrecht auf subsidiären Schutz und für den Inhalt des zu gewährenden Schutzes (ABl. L 337 vom 20.12.2011, S. 9).
+
+(14) Konkrete Anhaltspunkte im Sinne von § 62 Absatz 3 Satz 1 Nummer 5 können sein:
+
+1.  
+der Ausländer hat sich bereits in der Vergangenheit einem behördlichen Zugriff entzogen, indem er seinen Aufenthaltsort trotz Hinweises auf die Anzeigepflicht nicht nur vorübergehend gewechselt hat, ohne der zuständigen Behörde eine Anschrift anzugeben, unter der er erreichbar ist,
+
+2.  
+der Ausländer täuscht über seine Identität, insbesondere durch Unterdrückung oder Vernichtung von Identitäts- oder Reisedokumenten oder das Vorgeben einer falschen Identität,
+
+3.  
+der Ausländer hat gesetzliche Mitwirkungshandlungen zur Feststellung der Identität verweigert oder unterlassen und aus den Umständen des Einzelfalls kann geschlossen werden, dass er einer Abschiebung aktiv entgegenwirken will,
+
+4.  
+der Ausländer hat zu seiner unerlaubten Einreise erhebliche Geldbeträge an einen Dritten für dessen Handlung nach § 96 aufgewandt, die für ihn nach den Umständen derart maßgeblich sind, dass darauf geschlossen werden kann, dass er die Abschiebung verhindern wird, damit die Aufwendungen nicht vergeblich waren,
+
+5.  
+der Ausländer hat ausdrücklich erklärt, dass er sich der Abschiebung entziehen will oder
+
+6.  
+der Ausländer hat, um sich der bevorstehenden Abschiebung zu entziehen, sonstige konkrete Vorbereitungshandlungen von vergleichbarem Gewicht vorgenommen, die nicht durch Anwendung unmittelbaren Zwangs überwunden werden können.
+
+(15) Soweit Artikel 28 der Verordnung (EU) Nr. 604/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (ABl. L 180 vom 29.6.2013, S. 31), der die Inhaftnahme zum Zwecke der Überstellung betrifft, maßgeblich ist, gelten die in Absatz 14 genannten Anhaltspunkte entsprechend als objektive Kriterien für die Annahme einer Fluchtgefahr im Sinne von Artikel 2 Buchstabe n der Verordnung (EU) Nr. 604/2013. Ein entsprechender Anhaltspunkt kann auch gegeben sein, wenn der Ausländer einen Mitgliedstaat vor Abschluss eines dort laufenden Verfahrens zur Zuständigkeitsbestimmung oder zur Prüfung eines Antrags auf internationalen Schutz verlassen hat und die Umstände der Feststellung im Bundesgebiet konkret darauf hindeuten, dass er den zuständigen Mitgliedstaat in absehbarer Zeit nicht aufsuchen will. Auf das Verfahren auf Anordnung von Haft zur Überstellung nach der Verordnung (EU) Nr. 604/2013 finden die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend Anwendung, soweit das Verfahren in der Verordnung (EU) Nr. 604/2013 nicht abweichend geregelt ist.
 
 Kapitel 2 Einreise und Aufenthalt im Bundesgebiet
 -------------------------------------------------
@@ -600,7 +635,7 @@ der Lebensunterhalt gesichert ist,
 die Identität und, falls er nicht zur Rückkehr in einen anderen Staat berechtigt ist, die Staatsangehörigkeit des Ausländers geklärt ist,
 
 2.  
-kein Ausweisungsgrund vorliegt,
+kein Ausweisungsinteresse besteht,
 
 3.  
 soweit kein Anspruch auf Erteilung eines Aufenthaltstitels besteht, der Aufenthalt des Ausländers nicht aus einem sonstigen Grund Interessen der Bundesrepublik Deutschland beeinträchtigt oder gefährdet und
@@ -618,21 +653,21 @@ die für die Erteilung maßgeblichen Angaben bereits im Visumantrag gemacht hat.
 
 Hiervon kann abgesehen werden, wenn die Voraussetzungen eines Anspruchs auf Erteilung erfüllt sind oder es auf Grund besonderer Umstände des Einzelfalls nicht zumutbar ist, das Visumverfahren nachzuholen.
 
-(3) In den Fällen der Erteilung eines Aufenthaltstitels nach den §§ 24, 25 Abs. 1 bis 3 sowie § 26 Abs. 3 ist von der Anwendung der Absätze 1 und 2, in den Fällen des § 25 Absatz 4a und 4b von der Anwendung des Absatzes 1 Nr. 1 bis 2 und 4 sowie des Absatzes 2 abzusehen. In den übrigen Fällen der Erteilung eines Aufenthaltstitels nach Kapitel 2 Abschnitt 5 kann von der Anwendung der Absätze 1 und 2 abgesehen werden. Wird von der Anwendung des Absatzes 1 Nr. 2 abgesehen, kann die Ausländerbehörde darauf hinweisen, dass eine Ausweisung wegen einzeln zu bezeichnender Ausweisungsgründe, die Gegenstand eines noch nicht abgeschlossenen Straf- oder anderen Verfahrens sind, möglich ist.
+(3) In den Fällen der Erteilung eines Aufenthaltstitels nach den §§ 24, 25 Abs. 1 bis 3 sowie § 26 Abs. 3 ist von der Anwendung der Absätze 1 und 2, in den Fällen des § 25 Absatz 4a und 4b von der Anwendung des Absatzes 1 Nr. 1 bis 2 und 4 sowie des Absatzes 2 abzusehen. In den übrigen Fällen der Erteilung eines Aufenthaltstitels nach Kapitel 2 Abschnitt 5 kann von der Anwendung der Absätze 1 und 2 abgesehen werden. Wird von der Anwendung des Absatzes 1 Nr. 2 abgesehen, kann die Ausländerbehörde darauf hinweisen, dass eine Ausweisung wegen einzeln zu bezeichnender Ausweisungsinteressen, die Gegenstand eines noch nicht abgeschlossenen Straf- oder anderen Verfahrens sind, möglich ist.
 
-(4) Die Erteilung eines Aufenthaltstitels ist zu versagen, wenn einer der Ausweisungsgründe nach § 54 Nr. 5 bis 5b vorliegt. Von Satz 1 können in begründeten Einzelfällen Ausnahmen zugelassen werden, wenn sich der Ausländer gegenüber den zuständigen Behörden offenbart und glaubhaft von seinem sicherheitsgefährdenden Handeln Abstand nimmt. Das Bundesministerium des Innern oder die von ihm bestimmte Stelle kann in begründeten Einzelfällen vor der Einreise des Ausländers für den Grenzübertritt und einen anschließenden Aufenthalt von bis zu sechs Monaten Ausnahmen von Satz 1 zulassen.
+(4) Die Erteilung eines Aufenthaltstitels ist zu versagen, wenn ein Ausweisungsinteresse im Sinne von § 54 Absatz 1 Nummer 2 oder 4 besteht. Von Satz 1 können in begründeten Einzelfällen Ausnahmen zugelassen werden, wenn sich der Ausländer gegenüber den zuständigen Behörden offenbart und glaubhaft von seinem sicherheitsgefährdenden Handeln Abstand nimmt. Das Bundesministerium des Innern oder die von ihm bestimmte Stelle kann in begründeten Einzelfällen vor der Einreise des Ausländers für den Grenzübertritt und einen anschließenden Aufenthalt von bis zu sechs Monaten Ausnahmen von Satz 1 zulassen.
 
 ### § 6 Visum
 
 (1) Einem Ausländer können nach Maßgabe der Verordnung (EG) Nr. 810/2009 folgende Visa erteilt werden:
 
 1.  
-ein Visum für die Durchreise durch das Hoheitsgebiet der Schengen-Staaten oder für geplante Aufenthalte in diesem Gebiet von bis zu drei Monaten innerhalb einer Frist von sechs Monaten von dem Tag der ersten Einreise an (Schengen-Visum),
+ein Visum für die Durchreise durch das Hoheitsgebiet der Schengen-Staaten oder für geplante Aufenthalte in diesem Gebiet von bis zu 90 Tagen je Zeitraum von 180 Tagen (Schengen-Visum),
 
 2.  
 ein Flughafentransitvisum für die Durchreise durch die internationalen Transitzonen der Flughäfen.
 
-(2) Schengen-Visa können nach Maßgabe der Verordnung (EG) Nr. 810/2009 bis zu einer Gesamtaufenthaltsdauer von drei Monaten innerhalb einer Frist von sechs Monaten von dem Tag der ersten Einreise an verlängert werden. Für weitere drei Monate innerhalb der betreffenden Sechsmonatsfrist kann ein Schengen-Visum aus den in Artikel 33 der Verordnung (EG) Nr. 810/2009/EG genannten Gründen, zur Wahrung politischer Interessen der Bundesrepublik Deutschland oder aus völkerrechtlichen Gründen als nationales Visum verlängert werden.
+(2) Schengen-Visa können nach Maßgabe der Verordnung (EG) Nr. 810/2009 bis zu einer Gesamtaufenthaltsdauer von 90 Tagen je Zeitraum von 180 Tagen verlängert werden. Für weitere 90 Tage innerhalb des betreffenden Zeitraums von 180 Tagen kann ein Schengen-Visum aus den in Artikel 33 der Verordnung (EG) Nr. 810/2009/EG genannten Gründen, zur Wahrung politischer Interessen der Bundesrepublik Deutschland oder aus völkerrechtlichen Gründen als nationales Visum verlängert werden.
 
 (3) Für längerfristige Aufenthalte ist ein Visum für das Bundesgebiet (nationales Visum) erforderlich, das vor der Einreise erteilt wird. Die Erteilung richtet sich nach den für die Aufenthaltserlaubnis, die Blaue Karte EU, die Niederlassungserlaubnis und die Erlaubnis zum Daueraufenthalt – EU geltenden Vorschriften. Die Dauer des rechtmäßigen Aufenthalts mit einem nationalen Visum wird auf die Zeiten des Besitzes einer Aufenthaltserlaubnis, Blauen Karte EU, Niederlassungserlaubnis oder Erlaubnis zum Daueraufenthalt – EU angerechnet.
 
@@ -815,13 +850,35 @@ Bei Ehegatten, die in ehelicher Lebensgemeinschaft leben, genügt es, wenn die V
 
 (2) Ein nach der Einreise des Ausländers von der Ausländerbehörde erteilter oder verlängerter Aufenthaltstitel kann nach den Vorschriften dieses Gesetzes ungeachtet des Umstandes verlängert werden, dass der Ausländer einen Asylantrag gestellt hat.
 
-(3) Einem Ausländer, dessen Asylantrag unanfechtbar abgelehnt worden ist oder der seinen Asylantrag zurückgenommen hat, darf vor der Ausreise ein Aufenthaltstitel nur nach Maßgabe des Abschnitts 5 erteilt werden. Sofern der Asylantrag nach § 30 Abs. 3 Nummer 1 bis 6 des Asylverfahrensgesetzes abgelehnt wurde, darf vor der Ausreise kein Aufenthaltstitel erteilt werden. Die Sätze 1 und 2 finden im Falle eines Anspruchs auf Erteilung eines Aufenthaltstitels keine Anwendung; Satz 2 ist ferner nicht anzuwenden, wenn der Ausländer die Voraussetzungen für die Erteilung einer Aufenthaltserlaubnis nach § 25 Abs. 3 erfüllt.
+(3) Einem Ausländer, dessen Asylantrag unanfechtbar abgelehnt worden ist oder der seinen Asylantrag zurückgenommen hat, darf vor der Ausreise ein Aufenthaltstitel nur nach Maßgabe des Abschnitts 5 erteilt werden. Sofern der Asylantrag nach § 30 Abs. 3 Nummer 1 bis 6 des Asylgesetzes abgelehnt wurde, darf vor der Ausreise kein Aufenthaltstitel erteilt werden. Die Sätze 1 und 2 finden im Falle eines Anspruchs auf Erteilung eines Aufenthaltstitels keine Anwendung; Satz 2 ist ferner nicht anzuwenden, wenn der Ausländer die Voraussetzungen für die Erteilung einer Aufenthaltserlaubnis nach § 25 Abs. 3 erfüllt.
 
 ### § 11 Einreise- und Aufenthaltsverbot
 
-(1) Ein Ausländer, der ausgewiesen, zurückgeschoben oder abgeschoben worden ist, darf nicht erneut in das Bundesgebiet einreisen und sich darin aufhalten. Ihm wird auch bei Vorliegen der Voraussetzungen eines Anspruchs nach diesem Gesetz kein Aufenthaltstitel erteilt. Die in den Sätzen 1 und 2 bezeichneten Wirkungen werden auf Antrag befristet. Die Frist ist unter Berücksichtigung der Umstände des Einzelfalls festzusetzen und darf fünf Jahre nur überschreiten, wenn der Ausländer auf Grund einer strafrechtlichen Verurteilung ausgewiesen worden ist oder wenn von ihm eine schwerwiegende Gefahr für die öffentliche Sicherheit oder Ordnung ausgeht. Bei der Bemessung der Länge der Frist wird berücksichtigt, ob der Ausländer rechtzeitig und freiwillig ausgereist ist. Die Frist beginnt mit der Ausreise. Eine Befristung erfolgt nicht, wenn ein Ausländer wegen eines Verbrechens gegen den Frieden, eines Kriegsverbrechens oder eines Verbrechens gegen die Menschlichkeit oder auf Grund einer Abschiebungsanordnung nach § 58a aus dem Bundesgebiet abgeschoben wurde. Die oberste Landesbehörde kann im Einzelfall Ausnahmen von Satz 7 zulassen.
+(1) Ein Ausländer, der ausgewiesen, zurückgeschoben oder abgeschoben worden ist, darf weder erneut in das Bundesgebiet einreisen, noch sich darin aufhalten, noch darf ihm, selbst im Falle eines Anspruchs nach diesem Gesetz, ein Aufenthaltstitel erteilt werden (Einreise- und Aufenthaltsverbot).
 
-(2) Vor Ablauf der nach Absatz 1 Satz 3 festgelegten Frist kann außer in den Fällen des Absatzes 1 Satz 7 dem Ausländer ausnahmsweise erlaubt werden, das Bundesgebiet kurzfristig zu betreten, wenn zwingende Gründe seine Anwesenheit erfordern oder die Versagung der Erlaubnis eine unbillige Härte bedeuten würde. Im Falle des Absatzes 1 Satz 7 gilt Absatz 1 Satz 8 entsprechend.
+(2) Das Einreise- und Aufenthaltsverbot ist von Amts wegen zu befristen. Die Frist beginnt mit der Ausreise. Im Falle der Ausweisung ist die Frist gemeinsam mit der Ausweisungsverfügung festzusetzen. Ansonsten soll die Frist mit der Abschiebungsandrohung, spätestens aber bei der Ab- oder Zurückschiebung festgesetzt werden. Die Befristung kann zur Abwehr einer Gefahr für die öffentliche Sicherheit und Ordnung mit einer Bedingung versehen werden, insbesondere einer nachweislichen Straf- oder Drogenfreiheit. Tritt die Bedingung bis zum Ablauf der Frist nicht ein, gilt eine von Amts wegen zusammen mit der Befristung nach Satz 5 angeordnete längere Befristung.
+
+(3) Über die Länge der Frist wird nach Ermessen entschieden. Sie darf fünf Jahre nur überschreiten, wenn der Ausländer auf Grund einer strafrechtlichen Verurteilung ausgewiesen worden ist oder wenn von ihm eine schwerwiegende Gefahr für die öffentliche Sicherheit und Ordnung ausgeht. Diese Frist soll zehn Jahre nicht überschreiten.
+
+(4) Das Einreise- und Aufenthaltsverbot kann zur Wahrung schutzwürdiger Belange des Ausländers oder, soweit es der Zweck des Einreise- und Aufenthaltsverbots nicht mehr erfordert, aufgehoben oder die Frist nach Absatz 2 verkürzt werden. Das Einreise- und Aufenthaltsverbot soll aufgehoben werden, wenn die Voraussetzungen für die Erteilung eines Aufenthaltstitels nach Kapitel 2 Abschnitt 5 vorliegen. Die Frist nach Absatz 2 kann aus Gründen der öffentlichen Sicherheit und Ordnung verlängert werden. Absatz 3 gilt entsprechend.
+
+(5) Eine Befristung oder eine Aufhebung des Einreise- und Aufenthaltsverbots erfolgt nicht, wenn der Ausländer wegen eines Verbrechens gegen den Frieden, eines Kriegsverbrechens oder eines Verbrechens gegen die Menschlichkeit ausgewiesen oder auf Grund einer Abschiebungsanordnung nach § 58a aus dem Bundesgebiet abgeschoben wurde. Die oberste Landesbehörde kann im Einzelfall Ausnahmen von Satz 1 zulassen.
+
+(6) Gegen einen Ausländer, der seiner Ausreisepflicht nicht innerhalb einer ihm gesetzten Ausreisefrist nachgekommen ist, kann ein Einreise- und Aufenthaltsverbot angeordnet werden, es sei denn, der Ausländer ist unverschuldet an der Ausreise gehindert oder die Überschreitung der Ausreisefrist ist nicht erheblich. Die Absätze 1 bis 5 gelten entsprechend. Das Einreise- und Aufenthaltsverbot ist mit seiner Anordnung nach Satz 1 zu befristen. Bei der ersten Anordnung des Einreise- und Aufenthaltsverbots nach Satz 1 soll die Frist ein Jahr nicht überschreiten. Im Übrigen soll die Frist drei Jahre nicht überschreiten. Ein Einreise- und Aufenthaltsverbot wird nicht angeordnet, wenn Gründe für eine vorübergehende Aussetzung der Abschiebung nach § 60a vorliegen, die der Ausländer nicht verschuldet hat.
+
+(7) Gegen einen Ausländer,
+
+1.  
+dessen Asylantrag nach § 29a Absatz 1 des Asylgesetzes als offensichtlich unbegründet abgelehnt wurde, dem kein subsidiärer Schutz zuerkannt wurde, das Vorliegen der Voraussetzungen für ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 nicht festgestellt wurde und der keinen Aufenthaltstitel besitzt oder
+
+2.  
+dessen Antrag nach § 71 oder § 71a des Asylgesetzes wiederholt nicht zur Durchführung eines weiteren Asylverfahrens geführt hat,
+
+kann das Bundesamt für Migration und Flüchtlinge ein Einreise- und Aufenthaltsverbot anordnen. Das Einreise- und Aufenthaltsverbot wird mit Bestandskraft der Entscheidung über den Asylantrag wirksam. Die Absätze 1 bis 5 gelten entsprechend. Das Einreise- und Aufenthaltsverbot ist mit seiner Anordnung nach Satz 1 zu befristen. Bei der ersten Anordnung des Einreise- und Aufenthaltsverbots nach Satz 1 soll die Frist ein Jahr nicht überschreiten. Im Übrigen soll die Frist drei Jahre nicht überschreiten.
+
+(8) Vor Ablauf des Einreise- und Aufenthaltsverbots kann, außer in den Fällen des Absatzes 5 Satz 1, dem Ausländer ausnahmsweise erlaubt werden, das Bundesgebiet kurzfristig zu betreten, wenn zwingende Gründe seine Anwesenheit erfordern oder die Versagung der Erlaubnis eine unbillige Härte bedeuten würde. Im Falle des Absatzes 5 Satz 1 gilt Absatz 5 Satz 2 entsprechend.
+
+(9) Reist ein Ausländer entgegen einem Einreise- und Aufenthaltsverbot in das Bundesgebiet ein, wird der Ablauf einer festgesetzten Frist für die Dauer des Aufenthalts im Bundesgebiet gehemmt. Die Frist kann in diesem Fall verlängert werden, längstens jedoch um die Dauer der ursprünglichen Befristung. Der Ausländer ist auf diese Möglichkeit bei der erstmaligen Befristung hinzuweisen. Für eine nach Satz 2 verlängerte Frist gelten die Absätze 3 und 4 Satz 1 entsprechend.
 
 ### § 12 Geltungsbereich; Nebenbestimmungen
 
@@ -844,7 +901,7 @@ Abschnitt 2 Einreise
 
 (1) Die Einreise in das Bundesgebiet und die Ausreise aus dem Bundesgebiet sind nur an den zugelassenen Grenzübergangsstellen und innerhalb der festgesetzten Verkehrsstunden zulässig, soweit nicht auf Grund anderer Rechtsvorschriften oder zwischenstaatlicher Vereinbarungen Ausnahmen zugelassen sind. Ausländer sind verpflichtet, bei der Einreise und der Ausreise einen anerkannten und gültigen Pass oder Passersatz gemäß § 3 Abs. 1 mitzuführen und sich der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs zu unterziehen.
 
-(2) An einer zugelassenen Grenzübergangsstelle ist ein Ausländer erst eingereist, wenn er die Grenze überschritten und die Grenzübergangsstelle passiert hat. Lassen die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden einen Ausländer vor der Entscheidung über die Zurückweisung (§ 15 dieses Gesetzes, §§ 18, 18a des Asylverfahrensgesetzes) oder während der Vorbereitung, Sicherung oder Durchführung dieser Maßnahme die Grenzübergangsstelle zu einem bestimmten vorübergehenden Zweck passieren, so liegt keine Einreise im Sinne des Satzes 1 vor, solange ihnen eine Kontrolle des Aufenthalts des Ausländers möglich bleibt. Im Übrigen ist ein Ausländer eingereist, wenn er die Grenze überschritten hat.
+(2) An einer zugelassenen Grenzübergangsstelle ist ein Ausländer erst eingereist, wenn er die Grenze überschritten und die Grenzübergangsstelle passiert hat. Lassen die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden einen Ausländer vor der Entscheidung über die Zurückweisung (§ 15 dieses Gesetzes, §§ 18, 18a des Asylgesetzes) oder während der Vorbereitung, Sicherung oder Durchführung dieser Maßnahme die Grenzübergangsstelle zu einem bestimmten vorübergehenden Zweck passieren, so liegt keine Einreise im Sinne des Satzes 1 vor, solange ihnen eine Kontrolle des Aufenthalts des Ausländers möglich bleibt. Im Übrigen ist ein Ausländer eingereist, wenn er die Grenze überschritten hat.
 
 ### § 14 Unerlaubte Einreise; Ausnahme-Visum
 
@@ -860,7 +917,7 @@ den nach § 4 erforderlichen Aufenthaltstitel nicht besitzt,
 zwar ein nach § 4 erforderliches Visum bei Einreise besitzt, dieses aber durch Drohung, Bestechung oder Kollusion erwirkt oder durch unrichtige oder unvollständige Angaben erschlichen wurde und deshalb mit Wirkung für die Vergangenheit zurückgenommen oder annulliert wird, oder
 
 3.  
-nach § 11 Abs. 1 nicht einreisen darf, es sei denn, er besitzt eine Betretenserlaubnis nach § 11 Abs. 2.
+nach § 11 Absatz 1, 6 oder 7 nicht einreisen darf, es sei denn, er besitzt eine Betretenserlaubnis nach § 11 Absatz 8.
 
 (2) Die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden können Ausnahme-Visa und Passersatzpapiere ausstellen.
 
@@ -871,7 +928,7 @@ nach § 11 Abs. 1 nicht einreisen darf, es sei denn, er besitzt eine Betretenser
 (2) Ein Ausländer kann an der Grenze zurückgewiesen werden, wenn
 
 1.  
-ein Ausweisungsgrund vorliegt,
+ein Ausweisungsinteresse besteht,
 
 2.  
 der begründete Verdacht besteht, dass der Aufenthalt nicht dem angegebenen Zweck dient,
@@ -884,7 +941,7 @@ er die Voraussetzungen für die Einreise in das Hoheitsgebiet der Vertragspartei
 
 (3) Ein Ausländer, der für einen vorübergehenden Aufenthalt im Bundesgebiet vom Erfordernis eines Aufenthaltstitels befreit ist, kann zurückgewiesen werden, wenn er nicht die Voraussetzungen des § 3 Abs. 1 und des § 5 Abs. 1 erfüllt.
 
-(4) § 60 Abs. 1 bis 3, 5 und 7 bis 9 ist entsprechend anzuwenden. Ein Ausländer, der einen Asylantrag gestellt hat, darf nicht zurückgewiesen werden, solange ihm der Aufenthalt im Bundesgebiet nach den Vorschriften des Asylverfahrensgesetzes gestattet ist.
+(4) § 60 Abs. 1 bis 3, 5 und 7 bis 9 ist entsprechend anzuwenden. Ein Ausländer, der einen Asylantrag gestellt hat, darf nicht zurückgewiesen werden, solange ihm der Aufenthalt im Bundesgebiet nach den Vorschriften des Asylgesetzes gestattet ist.
 
 (5) Ein Ausländer soll zur Sicherung der Zurückweisung auf richterliche Anordnung in Haft (Zurückweisungshaft) genommen werden, wenn eine Zurückweisungsentscheidung ergangen ist und diese nicht unmittelbar vollzogen werden kann. Im Übrigen ist § 62 Absatz 4 entsprechend anzuwenden. In den Fällen, in denen der Richter die Anordnung oder die Verlängerung der Haft ablehnt, findet Absatz 1 keine Anwendung.
 
@@ -896,9 +953,9 @@ er die Voraussetzungen für die Einreise in das Hoheitsgebiet der Vertragspartei
 
 (2) Die Ausländerbehörden können die Ausländer verpflichten, sich zu der Behörde zu begeben, die die Verteilung veranlasst. Dies gilt nicht, wenn dem Vorbringen nach Absatz 1 Satz 6 Rechnung zu tragen ist. Gegen eine nach Satz 1 getroffene Verpflichtung findet kein Widerspruch statt. Die Klage hat keine aufschiebende Wirkung.
 
-(3) Die zentrale Verteilungsstelle benennt der Behörde, die die Verteilung veranlasst hat, die nach den Sätzen 2 und 3 zur Aufnahme verpflichtete Aufnahmeeinrichtung. Hat das Land, dessen Behörde die Verteilung veranlasst hat, seine Aufnahmequote nicht erfüllt, ist die dieser Behörde nächstgelegene aufnahmefähige Aufnahmeeinrichtung des Landes aufnahmepflichtig. Andernfalls ist die von der zentralen Verteilungsstelle auf Grund der Aufnahmequote nach § 45 des Asylverfahrensgesetzes und der vorhandenen freien Unterbringungsmöglichkeiten bestimmte Aufnahmeeinrichtung zur Aufnahme verpflichtet. § 46 Abs. 4 und 5 des Asylverfahrensgesetzes sind entsprechend anzuwenden.
+(3) Die zentrale Verteilungsstelle benennt der Behörde, die die Verteilung veranlasst hat, die nach den Sätzen 2 und 3 zur Aufnahme verpflichtete Aufnahmeeinrichtung. Hat das Land, dessen Behörde die Verteilung veranlasst hat, seine Aufnahmequote nicht erfüllt, ist die dieser Behörde nächstgelegene aufnahmefähige Aufnahmeeinrichtung des Landes aufnahmepflichtig. Andernfalls ist die von der zentralen Verteilungsstelle auf Grund der Aufnahmequote nach § 45 des Asylgesetzes und der vorhandenen freien Unterbringungsmöglichkeiten bestimmte Aufnahmeeinrichtung zur Aufnahme verpflichtet. § 46 Abs. 4 und 5 des Asylgesetzes sind entsprechend anzuwenden.
 
-(4) Die Behörde, die die Verteilung nach Absatz 3 veranlasst hat, ordnet in den Fällen des Absatzes 3 Satz 3 an, dass der Ausländer sich zu der durch die Verteilung festgelegten Aufnahmeeinrichtung zu begeben hat; in den Fällen des Absatzes 3 Satz 2 darf sie dies anordnen. Die Ausländerbehörde übermittelt das Ergebnis der Anhörung an die die Verteilung veranlassende Stelle, die die Zahl der Ausländer unter Angabe der Herkunftsländer und das Ergebnis der Anhörung der zentralen Verteilungsstelle mitteilt. Ehegatten sowie Eltern und ihre minderjährigen ledigen Kinder sind als Gruppe zu melden und zu verteilen. Der Ausländer hat in dieser Aufnahmeeinrichtung zu wohnen, bis er innerhalb des Landes weiterverteilt wird, längstens jedoch bis zur Aussetzung der Abschiebung oder bis zur Erteilung eines Aufenthaltstitels; die §§ 12 und 61 Abs. 1 bleiben unberührt. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Verteilung innerhalb des Landes zu regeln, soweit dies nicht auf der Grundlage dieses Gesetzes durch Landesgesetz geregelt wird; § 50 Abs. 4 des Asylverfahrensgesetzes findet entsprechende Anwendung. Die Landesregierungen können die Ermächtigung auf andere Stellen des Landes übertragen. Gegen eine nach Satz 1 getroffene Anordnung findet kein Widerspruch statt. Die Klage hat keine aufschiebende Wirkung. Die Sätze 7 und 8 gelten entsprechend, wenn eine Verteilungsanordnung auf Grund eines Landesgesetzes oder einer Rechtsverordnung nach Satz 5 ergeht.
+(4) Die Behörde, die die Verteilung nach Absatz 3 veranlasst hat, ordnet in den Fällen des Absatzes 3 Satz 3 an, dass der Ausländer sich zu der durch die Verteilung festgelegten Aufnahmeeinrichtung zu begeben hat; in den Fällen des Absatzes 3 Satz 2 darf sie dies anordnen. Die Ausländerbehörde übermittelt das Ergebnis der Anhörung an die die Verteilung veranlassende Stelle, die die Zahl der Ausländer unter Angabe der Herkunftsländer und das Ergebnis der Anhörung der zentralen Verteilungsstelle mitteilt. Ehegatten sowie Eltern und ihre minderjährigen ledigen Kinder sind als Gruppe zu melden und zu verteilen. Der Ausländer hat in dieser Aufnahmeeinrichtung zu wohnen, bis er innerhalb des Landes weiterverteilt wird, längstens jedoch bis zur Aussetzung der Abschiebung oder bis zur Erteilung eines Aufenthaltstitels; die §§ 12 und 61 Abs. 1 bleiben unberührt. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Verteilung innerhalb des Landes zu regeln, soweit dies nicht auf der Grundlage dieses Gesetzes durch Landesgesetz geregelt wird; § 50 Abs. 4 des Asylgesetzes findet entsprechende Anwendung. Die Landesregierungen können die Ermächtigung auf andere Stellen des Landes übertragen. Gegen eine nach Satz 1 getroffene Anordnung findet kein Widerspruch statt. Die Klage hat keine aufschiebende Wirkung. Die Sätze 7 und 8 gelten entsprechend, wenn eine Verteilungsanordnung auf Grund eines Landesgesetzes oder einer Rechtsverordnung nach Satz 5 ergeht.
 
 (5) Die zuständigen Behörden können dem Ausländer nach der Verteilung erlauben, seine Wohnung in einem anderen Land zu nehmen. Nach erlaubtem Wohnungswechsel wird der Ausländer von der Quote des abgebenden Landes abgezogen und der des aufnehmenden Landes angerechnet.
 
@@ -953,6 +1010,26 @@ Ein Ausländer, der einen Aufenthaltstitel nach Satz 1 Nr. 2 beantragt, hat der 
 
 (3) Nach erfolgreichem Abschluss der qualifizierten Berufsausbildung kann die Aufenthaltserlaubnis bis zu einem Jahr zur Suche eines diesem Abschluss angemessenen Arbeitsplatzes, sofern er nach den Bestimmungen der §§ 18 und 21 von Ausländern besetzt werden darf, verlängert werden. Die Aufenthaltserlaubnis berechtigt während dieses Zeitraums zur Ausübung einer Erwerbstätigkeit. § 9 findet keine Anwendung.
 
+### § 17a Anerkennung ausländischer Berufsqualifikationen
+
+(1) Einem Ausländer kann zum Zweck der Anerkennung seiner im Ausland erworbenen Berufsqualifikation eine Aufenthaltserlaubnis für die Durchführung einer Bildungsmaßnahme und einer sich daran anschließenden Prüfung für die Dauer von bis zu 18 Monaten erteilt werden, wenn von einer nach den Regelungen des Bundes oder der Länder für die berufliche Anerkennung zuständigen Stelle festgestellt wurde, dass Anpassungsmaßnahmen oder weitere Qualifikationen
+
+1.  
+für die Feststellung der Gleichwertigkeit der Berufsqualifikation mit einer inländischen Berufsqualifikation oder
+
+2.  
+in einem im Inland reglementierten Beruf für die Erteilung der Befugnis zur Berufsausübung oder für die Erteilung der Erlaubnis zum Führen der Berufsbezeichnung
+
+erforderlich sind. Die Bildungsmaßnahme muss geeignet sein, dem Ausländer die Anerkennung der Berufsqualifikation oder den Berufszugang zu ermöglichen. Wird die Bildungsmaßnahme überwiegend betrieblich durchgeführt, setzt die Erteilung voraus, dass die Bundesagentur für Arbeit nach § 39 zugestimmt hat oder durch Rechtsverordnung nach § 42 oder zwischenstaatliche Vereinbarung bestimmt ist, dass die Teilnahme an der Bildungsmaßnahme ohne Zustimmung der Bundesagentur für Arbeit zulässig ist. Beschränkungen bei der Erteilung der Zustimmung durch die Bundesagentur für Arbeit sind in die Aufenthaltserlaubnis zu übernehmen.
+
+(2) Die Aufenthaltserlaubnis berechtigt zur Ausübung einer von der Bildungsmaßnahme unabhängigen Beschäftigung bis zu zehn Stunden je Woche.
+
+(3) Die Aufenthaltserlaubnis berechtigt zur Ausübung einer zeitlich nicht eingeschränkten Beschäftigung, deren Anforderungen in einem engen Zusammenhang mit den in der späteren Beschäftigung verlangten berufsfachlichen Kenntnissen stehen, wenn ein konkretes Arbeitsplatzangebot für eine spätere Beschäftigung in dem anzuerkennenden oder von der beantragten Befugnis zur Berufsausübung oder von der beantragten Erlaubnis zum Führen der Berufsbezeichnung erfassten Beruf vorliegt, dieser Arbeitsplatz nach den Bestimmungen der §§ 18 bis 20 von Ausländern besetzt werden darf und die Bundesagentur für Arbeit nach § 39 zugestimmt hat oder durch Rechtsverordnung nach § 42 oder zwischenstaatliche Vereinbarung bestimmt ist, dass die Beschäftigung ohne Zustimmung der Bundesagentur für Arbeit zulässig ist. Beschränkungen bei der Erteilung der Zustimmung durch die Bundesagentur für Arbeit sind in die Aufenthaltserlaubnis zu übernehmen.
+
+(4) Nach der Feststellung der Gleichwertigkeit der Berufsqualifikation, der Erteilung der Befugnis zur Berufsausübung oder der Erteilung der Erlaubnis zum Führen der Berufsbezeichnung kann die Aufenthaltserlaubnis bis zu einem Jahr zur Suche eines der anerkannten Berufsqualifikation entsprechenden Arbeitsplatzes, sofern er nach den Bestimmungen der §§ 18 bis 20 von Ausländern besetzt werden darf, verlängert werden. Die Aufenthaltserlaubnis berechtigt während dieser Zeit zur Ausübung einer Erwerbstätigkeit. § 9 findet keine Anwendung.
+
+(5) Einem Ausländer kann zum Ablegen einer Prüfung zur Anerkennung seiner ausländischen Berufsqualifikation eine Aufenthaltserlaubnis erteilt werden, wenn ein konkretes Arbeitsplatzangebot für eine spätere Beschäftigung in dem anzuerkennenden oder von der beantragten Befugnis zur Berufsausübung oder zum Führen der Berufsbezeichnung erfassten Beruf vorliegt, dieser Arbeitsplatz nach den Bestimmungen der §§ 18 bis 20 von Ausländern besetzt werden darf und die Bundesagentur für Arbeit nach § 39 zugestimmt hat oder durch Rechtsverordnung nach § 42 oder zwischenstaatliche Vereinbarung bestimmt ist, dass die Beschäftigung ohne Zustimmung der Bundesagentur für Arbeit zulässig ist. Beschränkungen bei der Erteilung der Zustimmung durch die Bundesagentur für Arbeit sind in die Aufenthaltserlaubnis zu übernehmen. Die Absätze 2 bis 4 finden keine Anwendung.
+
 Abschnitt 4 Aufenthalt zum Zweck der Erwerbstätigkeit
 -----------------------------------------------------
 
@@ -1004,7 +1081,7 @@ behördliche Maßnahmen zur Aufenthaltsbeendigung nicht vorsätzlich hinausgezö
 keine Bezüge zu extremistischen oder terroristischen Organisationen hat und diese auch nicht unterstützt und
 
 7.  
-nicht wegen einer im Bundesgebiet begangenen vorsätzlichen Straftat verurteilt wurde, wobei Geldstrafen von insgesamt bis zu 50 Tagessätzen oder bis zu 90 Tagessätzen wegen Straftaten, die nach dem Aufenthaltsgesetz oder dem Asylverfahrensgesetz nur von Ausländern begangen werden können, grundsätzlich außer Betracht bleiben.
+nicht wegen einer im Bundesgebiet begangenen vorsätzlichen Straftat verurteilt wurde, wobei Geldstrafen von insgesamt bis zu 50 Tagessätzen oder bis zu 90 Tagessätzen wegen Straftaten, die nach dem Aufenthaltsgesetz oder dem Asylgesetz nur von Ausländern begangen werden können, grundsätzlich außer Betracht bleiben.
 
 (2) Über die Zustimmung der Bundesagentur für Arbeit nach Absatz 1 wird ohne Vorrangprüfung nach § 39 Abs. 2 Satz 1 Nr. 1 entschieden. § 18 Abs. 2 Satz 2 und Abs. 5 gilt entsprechend. Die Aufenthaltserlaubnis berechtigt nach Ausübung einer zweijährigen der beruflichen Qualifikation entsprechenden Beschäftigung zu jeder Beschäftigung.
 
@@ -1129,7 +1206,7 @@ eine Abschiebung des Ausländers.
 
 (4) Die Aufenthaltserlaubnis wird für mindestens ein Jahr erteilt. Wenn das Forschungsvorhaben in einem kürzeren Zeitraum durchgeführt wird, wird die Aufenthaltserlaubnis abweichend von Satz 1 auf die Dauer des Forschungsvorhabens befristet.
 
-(5) Ausländern, die einen Aufenthaltstitel eines anderen Mitgliedstaates der Europäischen Union zum Zweck der Forschung nach der Richtlinie 2005/71/EG besitzen, ist zur Durchführung von Teilen des Forschungsvorhabens im Bundesgebiet eine Aufenthaltserlaubnis oder ein Visum zu erteilen. Für einen Aufenthalt von mehr als drei Monaten wird die Aufenthaltserlaubnis nur erteilt, wenn die Voraussetzungen nach Absatz 1 erfüllt sind. § 9 ist nicht anzuwenden.
+(5) Ausländern, die einen Aufenthaltstitel eines anderen Mitgliedstaates der Europäischen Union zum Zweck der Forschung nach der Richtlinie 2005/71/EG besitzen, ist zur Durchführung von Teilen des Forschungsvorhabens im Bundesgebiet eine Aufenthaltserlaubnis oder ein Visum zu erteilen. Für einen Aufenthalt von mehr als 90 Tagen wird die Aufenthaltserlaubnis nur erteilt, wenn die Voraussetzungen nach Absatz 1 erfüllt sind. § 9 ist nicht anzuwenden.
 
 (6) Eine Aufenthaltserlaubnis nach den Absätzen 1 und 5 Satz 2 berechtigt zur Aufnahme der Forschungstätigkeit bei der in der Aufnahmevereinbarung bezeichneten Forschungseinrichtung und zur Aufnehme von Tätigkeiten in der Lehre. Änderungen des Forschungsvorhabens während des Aufenthalts führen nicht zum Wegfall dieser Berechtigung. Ein Ausländer, der die Voraussetzungen nach Absatz 5 Satz 1 erfüllt, darf für einen Zeitraum von drei Monaten innerhalb von zwölf Monaten eine Erwerbstätigkeit nach Satz 1 auch ohne Aufenthaltstitel ausüben.
 
@@ -1186,7 +1263,7 @@ Abschnitt 5 Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gr�
 
 Einem Ausländer kann für die Aufnahme aus dem Ausland aus völkerrechtlichen oder dringenden humanitären Gründen eine Aufenthaltserlaubnis erteilt werden. Eine Aufenthaltserlaubnis ist zu erteilen, wenn das Bundesministerium des Innern oder die von ihm bestimmte Stelle zur Wahrung politischer Interessen der Bundesrepublik Deutschland die Aufnahme erklärt hat. Im Falle des Satzes 2 berechtigt die Aufenthaltserlaubnis zur Ausübung einer Erwerbstätigkeit.
 
-### § 23 Aufenthaltsgewährung durch die obersten Landesbehörden; Aufnahme bei besonders gelagerten politischen Interessen
+### § 23 Aufenthaltsgewährung durch die obersten Landesbehörden; Aufnahme bei besonders gelagerten politischen Interessen; Neuansiedlung von Schutzsuchenden
 
 (1) Die oberste Landesbehörde kann aus völkerrechtlichen oder humanitären Gründen oder zur Wahrung politischer Interessen der Bundesrepublik Deutschland anordnen, dass Ausländern aus bestimmten Staaten oder in sonstiger Weise bestimmten Ausländergruppen eine Aufenthaltserlaubnis erteilt wird. Die Anordnung kann unter der Maßgabe erfolgen, dass eine Verpflichtungserklärung nach § 68 abgegeben wird. Zur Wahrung der Bundeseinheitlichkeit bedarf die Anordnung des Einvernehmens mit dem Bundesministerium des Innern.
 
@@ -1194,9 +1271,11 @@ Einem Ausländer kann für die Aufnahme aus dem Ausland aus völkerrechtlichen o
 
 (3) Die Anordnung kann vorsehen, dass § 24 ganz oder teilweise entsprechende Anwendung findet.
 
+(4) Das Bundesministerium des Innern kann im Rahmen der Neuansiedlung von Schutzsuchenden im Benehmen mit den obersten Landesbehörden anordnen, dass das Bundesamt für Migration und Flüchtlinge bestimmten, für eine Neuansiedlung ausgewählten Schutzsuchenden (Resettlement-Flüchtlinge) eine Aufnahmezusage erteilt. Absatz 2 Satz 2 bis 5 und § 24 Absatz 3 bis 5 gelten entsprechend.
+
 ### § 23a Aufenthaltsgewährung in Härtefällen
 
-(1) Die oberste Landesbehörde darf anordnen, dass einem Ausländer, der vollziehbar ausreisepflichtig ist, abweichend von den in diesem Gesetz festgelegten Erteilungs- und Verlängerungsvoraussetzungen für einen Aufenthaltstitel sowie von den §§ 10 und 11 eine Aufenthaltserlaubnis erteilt wird, wenn eine von der Landesregierung durch Rechtsverordnung eingerichtete Härtefallkommission darum ersucht (Härtefallersuchen). Die Anordnung kann im Einzelfall unter Berücksichtigung des Umstandes erfolgen, ob der Lebensunterhalt des Ausländers gesichert ist oder eine Verpflichtungserklärung nach § 68 abgegeben wird. Die Annahme eines Härtefalls ist in der Regel ausgeschlossen, wenn der Ausländer Straftaten von erheblichem Gewicht begangen hat. Die Befugnis zur Aufenthaltsgewährung steht ausschließlich im öffentlichen Interesse und begründet keine eigenen Rechte des Ausländers.
+(1) Die oberste Landesbehörde darf anordnen, dass einem Ausländer, der vollziehbar ausreisepflichtig ist, abweichend von den in diesem Gesetz festgelegten Erteilungs- und Verlängerungsvoraussetzungen für einen Aufenthaltstitel sowie von den §§ 10 und 11 eine Aufenthaltserlaubnis erteilt wird, wenn eine von der Landesregierung durch Rechtsverordnung eingerichtete Härtefallkommission darum ersucht (Härtefallersuchen). Die Anordnung kann im Einzelfall unter Berücksichtigung des Umstandes erfolgen, ob der Lebensunterhalt des Ausländers gesichert ist oder eine Verpflichtungserklärung nach § 68 abgegeben wird. Die Annahme eines Härtefalls ist in der Regel ausgeschlossen, wenn der Ausländer Straftaten von erheblichem Gewicht begangen hat oder wenn ein Rückführungstermin bereits konkret feststeht. Die Befugnis zur Aufenthaltsgewährung steht ausschließlich im öffentlichen Interesse und begründet keine eigenen Rechte des Ausländers.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung eine Härtefallkommission nach Absatz 1 einzurichten, das Verfahren, Ausschlussgründe und qualifizierte Anforderungen an eine Verpflichtungserklärung nach Absatz 1 Satz 2 einschließlich vom Verpflichtungsgeber zu erfüllender Voraussetzungen zu bestimmen sowie die Anordnungsbefugnis nach Absatz 1 Satz 1 auf andere Stellen zu übertragen. Die Härtefallkommissionen werden ausschließlich im Wege der Selbstbefassung tätig. Dritte können nicht verlangen, dass eine Härtefallkommission sich mit einem bestimmten Einzelfall befasst oder eine bestimmte Entscheidung trifft. Die Entscheidung für ein Härtefallersuchen setzt voraus, dass nach den Feststellungen der Härtefallkommission dringende humanitäre oder persönliche Gründe die weitere Anwesenheit des Ausländers im Bundesgebiet rechtfertigen.
 
@@ -1206,11 +1285,11 @@ Einem Ausländer kann für die Aufnahme aus dem Ausland aus völkerrechtlichen o
 
 (1) Einem Ausländer, dem auf Grund eines Beschlusses des Rates der Europäischen Union gemäß der Richtlinie 2001/55/EG vorübergehender Schutz gewährt wird und der seine Bereitschaft erklärt hat, im Bundesgebiet aufgenommen zu werden, wird für die nach den Artikeln 4 und 6 der Richtlinie bemessene Dauer des vorübergehenden Schutzes eine Aufenthaltserlaubnis erteilt.
 
-(2) Die Gewährung von vorübergehendem Schutz ist ausgeschlossen, wenn die Voraussetzungen des § 3 Abs. 2 des Asylverfahrensgesetzes oder des § 60 Abs. 8 Satz 1 vorliegen; die Aufenthaltserlaubnis ist zu versagen.
+(2) Die Gewährung von vorübergehendem Schutz ist ausgeschlossen, wenn die Voraussetzungen des § 3 Abs. 2 des Asylgesetzes oder des § 60 Abs. 8 Satz 1 vorliegen; die Aufenthaltserlaubnis ist zu versagen.
 
 (3) Die Ausländer im Sinne des Absatzes 1 werden auf die Länder verteilt. Die Länder können Kontingente für die Aufnahme zum vorübergehenden Schutz und die Verteilung vereinbaren. Die Verteilung auf die Länder erfolgt durch das Bundesamt für Migration und Flüchtlinge. Solange die Länder für die Verteilung keinen abweichenden Schlüssel vereinbart haben, gilt der für die Verteilung von Asylbewerbern festgelegte Schlüssel.
 
-(4) Die oberste Landesbehörde oder die von ihr bestimmte Stelle erlässt eine Zuweisungsentscheidung. Die Landesregierungen werden ermächtigt, die Verteilung innerhalb der Länder durch Rechtsverordnung zu regeln, sie können die Ermächtigung durch Rechtsverordnung auf andere Stellen übertragen; § 50 Abs. 4 des Asylverfahrensgesetzes findet entsprechende Anwendung. Ein Widerspruch gegen die Zuweisungsentscheidung findet nicht statt. Die Klage hat keine aufschiebende Wirkung.
+(4) Die oberste Landesbehörde oder die von ihr bestimmte Stelle erlässt eine Zuweisungsentscheidung. Die Landesregierungen werden ermächtigt, die Verteilung innerhalb der Länder durch Rechtsverordnung zu regeln, sie können die Ermächtigung durch Rechtsverordnung auf andere Stellen übertragen; § 50 Abs. 4 des Asylgesetzes findet entsprechende Anwendung. Ein Widerspruch gegen die Zuweisungsentscheidung findet nicht statt. Die Klage hat keine aufschiebende Wirkung.
 
 (5) Der Ausländer hat keinen Anspruch darauf, sich in einem bestimmten Land oder an einem bestimmten Ort aufzuhalten. Er hat seine Wohnung und seinen gewöhnlichen Aufenthalt an dem Ort zu nehmen, dem er nach den Absätzen 3 und 4 zugewiesen wurde.
 
@@ -1222,9 +1301,9 @@ Einem Ausländer kann für die Aufnahme aus dem Ausland aus völkerrechtlichen o
 
 (1) Einem Ausländer ist eine Aufenthaltserlaubnis zu erteilen, wenn er als Asylberechtigter anerkannt ist. Dies gilt nicht, wenn der Ausländer aus schwerwiegenden Gründen der öffentlichen Sicherheit und Ordnung ausgewiesen worden ist. Bis zur Erteilung der Aufenthaltserlaubnis gilt der Aufenthalt als erlaubt. Die Aufenthaltserlaubnis berechtigt zur Ausübung einer Erwerbstätigkeit.
 
-(2) Einem Ausländer ist eine Aufenthaltserlaubnis zu erteilen, wenn das Bundesamt für Migration und Flüchtlinge die Flüchtlingseigenschaft im Sinne des § 3 Absatz 1 des Asylverfahrensgesetzes oder subsidiären Schutz im Sinne des § 4 Absatz 1 des Asylverfahrensgesetzes zuerkannt hat. Absatz 1 Satz 2 bis 4 gilt entsprechend.
+(2) Einem Ausländer ist eine Aufenthaltserlaubnis zu erteilen, wenn das Bundesamt für Migration und Flüchtlinge die Flüchtlingseigenschaft im Sinne des § 3 Absatz 1 des Asylgesetzes oder subsidiären Schutz im Sinne des § 4 Absatz 1 des Asylgesetzes zuerkannt hat. Absatz 1 Satz 2 bis 4 gilt entsprechend.
 
-(3) Einem Ausländer soll eine Aufenthaltserlaubnis erteilt werden, wenn ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 vorliegt. Die Aufenthaltserlaubnis wird nicht erteilt, wenn die Ausreise in einen anderen Staat möglich und zumutbar ist, der Ausländer wiederholt oder gröblich gegen entsprechende Mitwirkungspflichten verstößt oder schwerwiegende Gründe die Annahme rechtfertigen, dass der Ausländer
+(3) Einem Ausländer soll eine Aufenthaltserlaubnis erteilt werden, wenn ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 vorliegt. Die Aufenthaltserlaubnis wird nicht erteilt, wenn die Ausreise in einen anderen Staat möglich und zumutbar ist oder der Ausländer wiederholt oder gröblich gegen entsprechende Mitwirkungspflichten verstößt. Sie wird ferner nicht erteilt, wenn schwerwiegende Gründe die Annahme rechtfertigen, dass der Ausländer
 
 1.  
 ein Verbrechen gegen den Frieden, ein Kriegsverbrechen oder ein Verbrechen gegen die Menschlichkeit im Sinne der internationalen Vertragswerke begangen hat, die ausgearbeitet worden sind, um Bestimmungen bezüglich dieser Verbrechen festzulegen,
@@ -1240,10 +1319,10 @@ eine Gefahr für die Allgemeinheit oder eine Gefahr für die Sicherheit der Bund
 
 (4) Einem nicht vollziehbar ausreisepflichtigen Ausländer kann für einen vorübergehenden Aufenthalt eine Aufenthaltserlaubnis erteilt werden, solange dringende humanitäre oder persönliche Gründe oder erhebliche öffentliche Interessen seine vorübergehende weitere Anwesenheit im Bundesgebiet erfordern. Eine Aufenthaltserlaubnis kann abweichend von § 8 Abs. 1 und 2 verlängert werden, wenn auf Grund besonderer Umstände des Einzelfalls das Verlassen des Bundesgebiets für den Ausländer eine außergewöhnliche Härte bedeuten würde.
 
-(4a) Einem Ausländer, der Opfer einer Straftat nach den §§ 232, 233 oder § 233a des Strafgesetzbuches wurde, kann abweichend von § 11 Abs. 1, auch wenn er vollziehbar ausreisepflichtig ist, für einen vorübergehenden Aufenthalt eine Aufenthaltserlaubnis erteilt werden. Die Aufenthaltserlaubnis darf nur erteilt werden, wenn
+(4a) Einem Ausländer, der Opfer einer Straftat nach den §§ 232, 233 oder § 233a des Strafgesetzbuches wurde, soll, auch wenn er vollziehbar ausreisepflichtig ist, für einen Aufenthalt eine Aufenthaltserlaubnis erteilt werden. Die Aufenthaltserlaubnis darf nur erteilt werden, wenn
 
 1.  
-seine vorübergehende Anwesenheit im Bundesgebiet für ein Strafverfahren wegen dieser Straftat von der Staatsanwaltschaft oder dem Strafgericht für sachgerecht erachtet wird, weil ohne seine Angaben die Erforschung des Sachverhalts erschwert wäre,
+seine Anwesenheit im Bundesgebiet für ein Strafverfahren wegen dieser Straftat von der Staatsanwaltschaft oder dem Strafgericht für sachgerecht erachtet wird, weil ohne seine Angaben die Erforschung des Sachverhalts erschwert wäre,
 
 2.  
 er jede Verbindung zu den Personen, die beschuldigt werden, die Straftat begangen zu haben, abgebrochen hat und
@@ -1251,7 +1330,9 @@ er jede Verbindung zu den Personen, die beschuldigt werden, die Straftat begange
 3.  
 er seine Bereitschaft erklärt hat, in dem Strafverfahren wegen der Straftat als Zeuge auszusagen.
 
-(4b) Einem Ausländer, der Opfer einer Straftat nach § 10 Absatz 1 oder § 11 Absatz 1 Nummer 3 des Schwarzarbeitsbekämpfungsgesetzes oder nach § 15a des Arbeitnehmerüberlassungsgesetzes wurde, kann abweichend von § 11 Absatz 1, auch wenn er vollziehbar ausreisepflichtig ist, für einen vorübergehenden Aufenthalt eine Aufenthaltserlaubnis erteilt werden. Die Aufenthaltserlaubnis darf nur erteilt werden, wenn
+Nach Beendigung des Strafverfahrens soll die Aufenthaltserlaubnis verlängert werden, wenn humanitäre oder persönliche Gründe oder öffentliche Interessen die weitere Anwesenheit des Ausländers im Bundesgebiet erfordern.
+
+(4b) Einem Ausländer, der Opfer einer Straftat nach § 10 Absatz 1 oder § 11 Absatz 1 Nummer 3 des Schwarzarbeitsbekämpfungsgesetzes oder nach § 15a des Arbeitnehmerüberlassungsgesetzes wurde, kann, auch wenn er vollziehbar ausreisepflichtig ist, für einen vorübergehenden Aufenthalt eine Aufenthaltserlaubnis erteilt werden. Die Aufenthaltserlaubnis darf nur erteilt werden, wenn
 
 1.  
 die vorübergehende Anwesenheit des Ausländers im Bundesgebiet für ein Strafverfahren wegen dieser Straftat von der Staatsanwaltschaft oder dem Strafgericht für sachgerecht erachtet wird, weil ohne seine Angaben die Erforschung des Sachverhalts erschwert wäre, und
@@ -1261,24 +1342,30 @@ der Ausländer seine Bereitschaft erklärt hat, in dem Strafverfahren wegen der 
 
 Die Aufenthaltserlaubnis kann verlängert werden, wenn dem Ausländer von Seiten des Arbeitgebers die zustehende Vergütung noch nicht vollständig geleistet wurde und es für den Ausländer eine besondere Härte darstellen würde, seinen Vergütungsanspruch aus dem Ausland zu verfolgen.
 
-(5) Einem Ausländer, der vollziehbar ausreisepflichtig ist, kann abweichend von § 11 Abs. 1 eine Aufenthaltserlaubnis erteilt werden, wenn seine Ausreise aus rechtlichen oder tatsächlichen Gründen unmöglich ist und mit dem Wegfall der Ausreisehindernisse in absehbarer Zeit nicht zu rechnen ist. Die Aufenthaltserlaubnis soll erteilt werden, wenn die Abschiebung seit 18 Monaten ausgesetzt ist. Eine Aufenthaltserlaubnis darf nur erteilt werden, wenn der Ausländer unverschuldet an der Ausreise gehindert ist. Ein Verschulden des Ausländers liegt insbesondere vor, wenn er falsche Angaben macht oder über seine Identität oder Staatsangehörigkeit täuscht oder zumutbare Anforderungen zur Beseitigung der Ausreisehindernisse nicht erfüllt.
+(5) Einem Ausländer, der vollziehbar ausreisepflichtig ist, kann eine Aufenthaltserlaubnis erteilt werden, wenn seine Ausreise aus rechtlichen oder tatsächlichen Gründen unmöglich ist und mit dem Wegfall der Ausreisehindernisse in absehbarer Zeit nicht zu rechnen ist. Die Aufenthaltserlaubnis soll erteilt werden, wenn die Abschiebung seit 18 Monaten ausgesetzt ist. Eine Aufenthaltserlaubnis darf nur erteilt werden, wenn der Ausländer unverschuldet an der Ausreise gehindert ist. Ein Verschulden des Ausländers liegt insbesondere vor, wenn er falsche Angaben macht oder über seine Identität oder Staatsangehörigkeit täuscht oder zumutbare Anforderungen zur Beseitigung der Ausreisehindernisse nicht erfüllt.
 
 ### § 25a Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden
 
-(1) Einem geduldeten Ausländer, der in Deutschland geboren wurde oder vor Vollendung des 14. Lebensjahres eingereist ist, kann eine Aufenthaltserlaubnis erteilt werden, wenn
+(1) Einem jugendlichen oder heranwachsenden geduldeten Ausländer soll eine Aufenthaltserlaubnis erteilt werden, wenn
 
 1.  
-er sich seit sechs Jahren ununterbrochen erlaubt, geduldet oder mit einer Aufenthaltsgestattung im Bundesgebiet aufhält,
+er sich seit vier Jahren ununterbrochen erlaubt, geduldet oder mit einer Aufenthaltsgestattung im Bundesgebiet aufhält,
 
 2.  
-er sechs Jahre erfolgreich im Bundesgebiet eine Schule besucht oder in Deutschland einen anerkannten Schul- oder Berufsabschluss erworben hat und
+er im Bundesgebiet in der Regel seit vier Jahren erfolgreich eine Schule besucht oder einen anerkannten Schul- oder Berufsabschluss erworben hat,
 
 3.  
-der Antrag auf Erteilung der Aufenthaltserlaubnis nach Vollendung des 15. und vor Vollendung des 21. Lebensjahres gestellt wird,
+der Antrag auf Erteilung der Aufenthaltserlaubnis vor Vollendung des 21. Lebensjahres gestellt wird,
 
-sofern gewährleistet erscheint, dass er sich aufgrund seiner bisherigen Ausbildung und Lebensverhältnisse in die Lebensverhältnisse der Bundesrepublik Deutschland einfügen kann. Solange sich der Jugendliche oder der Heranwachsende in einer schulischen oder beruflichen Ausbildung oder einem Hochschulstudium befindet, schließt die Inanspruchnahme öffentlicher Leistungen zur Sicherstellung des eigenen Lebensunterhalts die Erteilung der Aufenthaltserlaubnis nicht aus. Die Erteilung einer Aufenthaltserlaubnis ist zu versagen, wenn die Abschiebung aufgrund eigener falscher Angaben des Ausländers oder aufgrund seiner Täuschung über seine Identität oder Staatsangehörigkeit ausgesetzt ist.
+4.  
+es gewährleistet erscheint, dass er sich auf Grund seiner bisherigen Ausbildung und Lebensverhältnisse in die Lebensverhältnisse der Bundesrepublik Deutschland einfügen kann und
 
-(2) Den Eltern oder einem allein personensorgeberechtigten Elternteil eines minderjährigen Ausländers, der eine Aufenthaltserlaubnis nach Absatz 1 besitzt, kann eine Aufenthaltserlaubnis erteilt werden, wenn
+5.  
+keine konkreten Anhaltspunkte dafür bestehen, dass der Ausländer sich nicht zur freiheitlichen demokratischen Grundordnung der Bundesrepublik Deutschland bekennt.
+
+Solange sich der Jugendliche oder der Heranwachsende in einer schulischen oder beruflichen Ausbildung oder einem Hochschulstudium befindet, schließt die Inanspruchnahme öffentlicher Leistungen zur Sicherstellung des eigenen Lebensunterhalts die Erteilung der Aufenthaltserlaubnis nicht aus. Die Erteilung einer Aufenthaltserlaubnis ist zu versagen, wenn die Abschiebung aufgrund eigener falscher Angaben des Ausländers oder aufgrund seiner Täuschung über seine Identität oder Staatsangehörigkeit ausgesetzt ist.
+
+(2) Den Eltern oder einem personensorgeberechtigten Elternteil eines minderjährigen Ausländers, der eine Aufenthaltserlaubnis nach Absatz 1 besitzt, kann eine Aufenthaltserlaubnis erteilt werden, wenn
 
 1.  
 die Abschiebung nicht aufgrund falscher Angaben oder aufgrund von Täuschungen über die Identität oder Staatsangehörigkeit oder mangels Erfüllung zumutbarer Anforderungen an die Beseitigung von Ausreisehindernissen verhindert oder verzögert wird und
@@ -1286,19 +1373,68 @@ die Abschiebung nicht aufgrund falscher Angaben oder aufgrund von Täuschungen �
 2.  
 der Lebensunterhalt eigenständig durch Erwerbstätigkeit gesichert ist.
 
-Minderjährigen Kindern eines Ausländers, der eine Aufenthaltserlaubnis nach Satz 1 besitzt, kann eine Aufenthaltserlaubnis erteilt werden, wenn sie mit ihm in familiärer Lebensgemeinschaft leben.
+Minderjährigen Kindern eines Ausländers, der eine Aufenthaltserlaubnis nach Satz 1 besitzt, kann eine Aufenthaltserlaubnis erteilt werden, wenn sie mit ihm in familiärer Lebensgemeinschaft leben. Dem Ehegatten oder Lebenspartner, der mit einem Begünstigten nach Absatz 1 in familiärer Lebensgemeinschaft lebt, soll unter den Voraussetzungen nach Satz 1 eine Aufenthaltserlaubnis erteilt werden. § 31 gilt entsprechend. Dem minderjährigen ledigen Kind, das mit einem Begünstigten nach Absatz 1 in familiärer Lebensgemeinschaft lebt, soll eine Aufenthaltserlaubnis erteilt werden.
 
-(3) Die Erteilung einer Aufenthaltserlaubnis nach Absatz 2 ist ausgeschlossen, wenn der Ausländer wegen einer im Bundesgebiet begangenen vorsätzlichen Straftat verurteilt wurde, wobei Geldstrafen von insgesamt bis zu 50 Tagessätzen oder bis zu 90 Tagessätzen wegen Straftaten, die nach diesem Gesetz oder dem Asylverfahrensgesetz nur von Ausländern begangen werden können, grundsätzlich außer Betracht bleiben.
+(3) Die Erteilung einer Aufenthaltserlaubnis nach Absatz 2 ist ausgeschlossen, wenn der Ausländer wegen einer im Bundesgebiet begangenen vorsätzlichen Straftat verurteilt wurde, wobei Geldstrafen von insgesamt bis zu 50 Tagessätzen oder bis zu 90 Tagessätzen wegen Straftaten, die nach diesem Gesetz oder dem Asylgesetz nur von Ausländern begangen werden können, grundsätzlich außer Betracht bleiben.
+
+(4) Die Aufenthaltserlaubnis kann abweichend von § 10 Absatz 3 Satz 2 erteilt werden und berechtigt zur Ausübung einer Erwerbstätigkeit.
+
+### § 25b Aufenthaltsgewährung bei nachhaltiger Integration
+
+(1) Einem geduldeten Ausländer soll abweichend von § 5 Absatz 1 Nummer 1 und Absatz 2 eine Aufenthaltserlaubnis erteilt werden, wenn er sich nachhaltig in die Lebensverhältnisse der Bundesrepublik Deutschland integriert hat. Dies setzt regelmäßig voraus, dass der Ausländer
+
+1.  
+sich seit mindestens acht Jahren oder, falls er zusammen mit einem minderjährigen ledigen Kind in häuslicher Gemeinschaft lebt, seit mindestens sechs Jahren ununterbrochen geduldet, gestattet oder mit einer Aufenthaltserlaubnis im Bundesgebiet aufgehalten hat,
+
+2.  
+sich zur freiheitlichen demokratischen Grundordnung der Bundesrepublik Deutschland bekennt und über Grundkenntnisse der Rechts- und Gesellschaftsordnung und der Lebensverhältnisse im Bundesgebiet verfügt,
+
+3.  
+seinen Lebensunterhalt überwiegend durch Erwerbstätigkeit sichert oder bei der Betrachtung der bisherigen Schul-, Ausbildungs-, Einkommens- sowie der familiären Lebenssituation zu erwarten ist, dass er seinen Lebensunterhalt im Sinne von § 2 Absatz 3 sichern wird, wobei der Bezug von Wohngeld unschädlich ist,
+
+4.  
+über hinreichende mündliche Deutschkenntnisse im Sinne des Niveaus A2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen verfügt und
+
+5.  
+bei Kindern im schulpflichtigen Alter deren tatsächlichen Schulbesuch nachweist.
+
+Ein vorübergehender Bezug von Sozialleistungen ist für die Lebensunterhaltssicherung in der Regel unschädlich bei
+
+1.  
+Studierenden an einer staatlichen oder staatlich anerkannten Hochschule sowie Auszubildenden in anerkannten Lehrberufen oder in staatlich geförderten Berufsvorbereitungsmaßnahmen,
+
+2.  
+Familien mit minderjährigen Kindern, die vorübergehend auf ergänzende Sozialleistungen angewiesen sind,
+
+3.  
+Alleinerziehenden mit minderjährigen Kindern, denen eine Arbeitsaufnahme nach § 10 Absatz 1 Nummer 3 des Zweiten Buches Sozialgesetzbuch nicht zumutbar ist oder
+
+4.  
+Ausländern, die pflegebedürftige nahe Angehörige pflegen.
+
+(2) Die Erteilung einer Aufenthaltserlaubnis nach Absatz 1 ist zu versagen, wenn
+
+1.  
+der Ausländer die Aufenthaltsbeendigung durch vorsätzlich falsche Angaben, durch Täuschung über die Identität oder Staatsangehörigkeit oder Nichterfüllung zumutbarer Anforderungen an die Mitwirkung bei der Beseitigung von Ausreisehindernissen verhindert oder verzögert oder
+
+2.  
+ein Ausweisungsinteresse im Sinne von § 54 Absatz 1 oder Absatz 2 Nummer 1 und 2 besteht.
+
+(3) Von den Voraussetzungen des Absatzes 1 Satz 2 Nummer 3 und 4 wird abgesehen, wenn der Ausländer sie wegen einer körperlichen, geistigen oder seelischen Krankheit oder Behinderung oder aus Altersgründen nicht erfüllen kann.
+
+(4) Dem Ehegatten, dem Lebenspartner und minderjährigen ledigen Kindern, die mit einem Begünstigten nach Absatz 1 in familiärer Lebensgemeinschaft leben, soll unter den Voraussetzungen des Absatzes 1 Satz 2 Nummer 2 bis 5 eine Aufenthaltserlaubnis erteilt werden. Die Absätze 2, 3 und 5 finden Anwendung. § 31 gilt entsprechend.
+
+(5) Die Aufenthaltserlaubnis wird abweichend von § 26 Absatz 1 Satz 1 längstens für zwei Jahre erteilt und verlängert. Sie kann abweichend von § 10 Absatz 3 Satz 2 erteilt werden und berechtigt zur Ausübung einer Erwerbstätigkeit. § 25a bleibt unberührt.
 
 ### § 26 Dauer des Aufenthalts
 
-(1) Die Aufenthaltserlaubnis nach diesem Abschnitt kann für jeweils längstens drei Jahre erteilt und verlängert werden, in den Fällen des § 25 Abs. 4 Satz 1 und Abs. 5 jedoch für längstens sechs Monate, solange sich der Ausländer noch nicht mindestens 18 Monate rechtmäßig im Bundesgebiet aufgehalten hat. Asylberechtigten und Ausländern, denen die Flüchtlingseigenschaft im Sinne des § 3 Absatz 1 des Asylverfahrensgesetzes zuerkannt worden ist, wird die Aufenthaltserlaubnis für drei Jahre erteilt. Subsidiär Schutzberechtigten im Sinne des § 4 Absatz 1 des Asylverfahrensgesetzes wird die Aufenthaltserlaubnis für ein Jahr erteilt, bei Verlängerung für zwei weitere Jahre. Ausländern, die die Voraussetzungen des § 25 Absatz 3 erfüllen, wird die Aufenthaltserlaubnis für mindestens ein Jahr erteilt. Die Aufenthaltserlaubnisse nach § 25 Absatz 4a und 4b werden für jeweils sechs Monate erteilt und verlängert; in begründeten Fällen ist eine längere Geltungsdauer zulässig.
+(1) Die Aufenthaltserlaubnis nach diesem Abschnitt kann für jeweils längstens drei Jahre erteilt und verlängert werden, in den Fällen des § 25 Abs. 4 Satz 1 und Abs. 5 jedoch für längstens sechs Monate, solange sich der Ausländer noch nicht mindestens 18 Monate rechtmäßig im Bundesgebiet aufgehalten hat. Asylberechtigten und Ausländern, denen die Flüchtlingseigenschaft im Sinne des § 3 Absatz 1 des Asylgesetzes zuerkannt worden ist, wird die Aufenthaltserlaubnis für drei Jahre erteilt. Subsidiär Schutzberechtigten im Sinne des § 4 Absatz 1 des Asylgesetzes wird die Aufenthaltserlaubnis für ein Jahr erteilt, bei Verlängerung für zwei weitere Jahre. Ausländern, die die Voraussetzungen des § 25 Absatz 3 erfüllen, wird die Aufenthaltserlaubnis für mindestens ein Jahr erteilt. Die Aufenthaltserlaubnisse nach § 25 Absatz 4a Satz 1 und Absatz 4b werden jeweils für ein Jahr, Aufenthaltserlaubnisse nach § 25 Absatz 4a Satz 3 jeweils für zwei Jahre erteilt und verlängert; in begründeten Einzelfällen ist eine längere Geltungsdauer zulässig.
 
 (2) Die Aufenthaltserlaubnis darf nicht verlängert werden, wenn das Ausreisehindernis oder die sonstigen einer Aufenthaltsbeendigung entgegenstehenden Gründe entfallen sind.
 
-(3) Einem Ausländer, der seit drei Jahren eine Aufenthaltserlaubnis nach § 25 Absatz 1 oder Absatz 2 Satz 1 erste Alternative besitzt, ist eine Niederlassungserlaubnis zu erteilen, wenn das Bundesamt für Migration und Flüchtlinge gemäß § 73 Abs. 2a des Asylverfahrensgesetzes mitgeteilt hat, dass die Voraussetzungen für den Widerruf oder die Rücknahme nicht vorliegen.
+(3) Einem Ausländer, der seit drei Jahren eine Aufenthaltserlaubnis nach § 25 Absatz 1 oder 2 Satz 1 erste Alternative besitzt, ist eine Niederlassungserlaubnis zu erteilen, es sei denn, das Bundesamt für Migration und Flüchtlinge hat nach § 73 Absatz 2a des Asylgesetzes mitgeteilt, dass die Voraussetzungen für den Widerruf oder die Rücknahme vorliegen. Einem Ausländer, der seit drei Jahren eine Aufenthaltserlaubnis nach § 23 Absatz 4 besitzt, ist eine Niederlassungserlaubnis zu erteilen, es sei denn, es liegen die Voraussetzungen für eine Rücknahme vor.
 
-(4) Im Übrigen kann einem Ausländer, der seit sieben Jahren eine Aufenthaltserlaubnis nach diesem Abschnitt besitzt, eine Niederlassungserlaubnis erteilt werden, wenn die in § 9 Abs. 2 Satz 1 Nr. 2 bis 9 bezeichneten Voraussetzungen vorliegen. § 9 Abs. 2 Satz 2 bis 6 gilt entsprechend. Die Aufenthaltszeit des der Erteilung der Aufenthaltserlaubnis vorangegangenen Asylverfahrens wird abweichend von § 55 Abs. 3 des Asylverfahrensgesetzes auf die Frist angerechnet. Für Kinder, die vor Vollendung des 18. Lebensjahres nach Deutschland eingereist sind, kann § 35 entsprechend angewandt werden.
+(4) Im Übrigen kann einem Ausländer, der eine Aufenthaltserlaubnis nach diesem Abschnitt besitzt, eine Niederlassungserlaubnis erteilt werden, wenn die in § 9 Abs. 2 Satz 1 bezeichneten Voraussetzungen vorliegen. § 9 Abs. 2 Satz 2 bis 6 gilt entsprechend. Die Aufenthaltszeit des der Erteilung der Aufenthaltserlaubnis vorangegangenen Asylverfahrens wird abweichend von § 55 Abs. 3 des Asylgesetzes auf die Frist angerechnet. Für Kinder, die vor Vollendung des 18. Lebensjahres nach Deutschland eingereist sind, kann § 35 entsprechend angewandt werden.
 
 Abschnitt 6 Aufenthalt aus familiären Gründen
 ---------------------------------------------
@@ -1340,7 +1476,7 @@ Elternteil eines minderjährigen ledigen Deutschen zur Ausübung der Personensor
 
 zu erteilen, wenn der Deutsche seinen gewöhnlichen Aufenthalt im Bundesgebiet hat. Sie ist abweichend von § 5 Abs. 1 Nr. 1 in den Fällen des Satzes 1 Nr. 2 und 3 zu erteilen. Sie soll in der Regel abweichend von § 5 Abs. 1 Nr. 1 in den Fällen des Satzes 1 Nr. 1 erteilt werden. Sie kann abweichend von § 5 Abs. 1 Nr. 1 dem nicht personensorgeberechtigten Elternteil eines minderjährigen ledigen Deutschen erteilt werden, wenn die familiäre Gemeinschaft schon im Bundesgebiet gelebt wird. § 30 Abs. 1 Satz 1 Nr. 1 und 2, Satz 3 und Abs. 2 Satz 1 ist in den Fällen des Satzes 1 Nr. 1 entsprechend anzuwenden.
 
-(2) Dem Ausländer ist in der Regel eine Niederlassungserlaubnis zu erteilen, wenn er drei Jahre im Besitz einer Aufenthaltserlaubnis ist, die familiäre Lebensgemeinschaft mit dem Deutschen im Bundesgebiet fortbesteht, kein Ausweisungsgrund vorliegt und er über ausreichende Kenntnisse der deutschen Sprache verfügt. § 9 Absatz 2 Satz 2 bis 5 gilt entsprechend. Im Übrigen wird die Aufenthaltserlaubnis verlängert, solange die familiäre Lebensgemeinschaft fortbesteht.
+(2) Dem Ausländer ist in der Regel eine Niederlassungserlaubnis zu erteilen, wenn er drei Jahre im Besitz einer Aufenthaltserlaubnis ist, die familiäre Lebensgemeinschaft mit dem Deutschen im Bundesgebiet fortbesteht, kein Ausweisungsinteresse besteht und er über ausreichende Kenntnisse der deutschen Sprache verfügt. § 9 Absatz 2 Satz 2 bis 5 gilt entsprechend. Im Übrigen wird die Aufenthaltserlaubnis verlängert, solange die familiäre Lebensgemeinschaft fortbesteht.
 
 (3) Die §§ 31 und 34 finden mit der Maßgabe Anwendung, dass an die Stelle des Aufenthaltstitels des Ausländers der gewöhnliche Aufenthalt des Deutschen im Bundesgebiet tritt. Die einem Elternteil eines minderjährigen ledigen Deutschen zur Ausübung der Personensorge erteilte Aufenthaltserlaubnis ist auch nach Eintritt der Volljährigkeit des Kindes zu verlängern, solange das Kind mit ihm in familiärer Lebensgemeinschaft lebt und das Kind sich in einer Ausbildung befindet, die zu einem anerkannten schulischen oder beruflichen Bildungsabschluss oder Hochschulabschluss führt.
 
@@ -1358,17 +1494,17 @@ der Ausländer eine Niederlassungserlaubnis, Erlaubnis zum Daueraufenthalt – E
 2.  
 ausreichender Wohnraum zur Verfügung stehen.
 
-(2) Bei dem Ehegatten und dem minderjährigen ledigen Kind eines Ausländers, der eine Aufenthaltserlaubnis nach § 25 Abs. 1 oder 2 oder eine Niederlassungserlaubnis nach § 26 Abs. 3 besitzt, kann von den Voraussetzungen des § 5 Abs. 1 Nr. 1 und des Absatzes 1 Nr. 2 abgesehen werden. In den Fällen des Satzes 1 ist von diesen Voraussetzungen abzusehen, wenn
+(2) Bei dem Ehegatten und dem minderjährigen ledigen Kind eines Ausländers, der eine Aufenthaltserlaubnis nach § 23 Absatz 4, § 25 Absatz 1 oder 2, eine Niederlassungserlaubnis nach § 26 Absatz 3 oder nach Erteilung einer Aufenthaltserlaubnis nach § 25 Absatz 2 Satz 1 zweite Alternative eine Niederlassungserlaubnis nach § 26 Absatz 4 besitzt, kann von den Voraussetzungen des § 5 Absatz 1 Nummer 1 und des Absatzes 1 Nummer 2 abgesehen werden. In den Fällen des Satzes 1 ist von diesen Voraussetzungen abzusehen, wenn
 
 1.  
-der im Zuge des Familiennachzugs erforderliche Antrag auf Erteilung eines Aufenthaltstitels innerhalb von drei Monaten nach unanfechtbarer Anerkennung als Asylberechtigter oder unanfechtbarer Zuerkennung der Flüchtlingseigenschaft gestellt wird und
+der im Zuge des Familiennachzugs erforderliche Antrag auf Erteilung eines Aufenthaltstitels innerhalb von drei Monaten nach unanfechtbarer Anerkennung als Asylberechtigter oder unanfechtbarer Zuerkennung der Flüchtlingseigenschaft oder subsidiären Schutzes oder nach Erteilung einer Aufenthaltserlaubnis nach § 23 Absatz 4 gestellt wird und
 
 2.  
 die Herstellung der familiären Lebensgemeinschaft in einem Staat, der nicht Mitgliedstaat der Europäischen Union ist und zu dem der Ausländer oder seine Familienangehörigen eine besondere Bindung haben, nicht möglich ist.
 
 Die in Satz 2 Nr. 1 genannte Frist wird auch durch die rechtzeitige Antragstellung des Ausländers gewahrt.
 
-(3) Die Aufenthaltserlaubnis darf dem Ehegatten und dem minderjährigen Kind eines Ausländers, der eine Aufenthaltserlaubnis nach den §§ 22, 23 Abs. 1 oder § 25 Absatz 2 Satz 1 zweite Alternative oder Absatz 3 besitzt, nur aus völkerrechtlichen oder humanitären Gründen oder zur Wahrung politischer Interessen der Bundesrepublik Deutschland erteilt werden. § 26 Abs. 4 gilt entsprechend. Ein Familiennachzug wird in den Fällen des § 25 Abs. 4 bis 5, § 25a Absatz 1 und 2, § 104a Abs. 1 Satz 1 und § 104b nicht gewährt.
+(3) Die Aufenthaltserlaubnis darf dem Ehegatten und dem minderjährigen Kind eines Ausländers, der eine Aufenthaltserlaubnis nach den §§ 22, 23 Absatz 1 oder Absatz 2 oder § 25 Absatz 3 oder Absatz 4a Satz 1, § 25a Absatz 1 oder § 25b Absatz 1 besitzt, nur aus völkerrechtlichen oder humanitären Gründen oder zur Wahrung politischer Interessen der Bundesrepublik Deutschland erteilt werden. § 26 Abs. 4 gilt entsprechend. Ein Familiennachzug wird in den Fällen des § 25 Absatz 4, 4b und 5, § 25a Absatz 2, § 25b Absatz 4, § 104a Abs. 1 Satz 1 und § 104b nicht gewährt.
 
 (4) Die Aufenthaltserlaubnis wird dem Ehegatten und dem minderjährigen ledigen Kind eines Ausländers oder dem minderjährigen ledigen Kind seines Ehegatten abweichend von § 5 Abs. 1 und § 27 Abs. 3 erteilt, wenn dem Ausländer vorübergehender Schutz nach § 24 Abs. 1 gewährt wurde und
 
@@ -1430,7 +1566,7 @@ die Voraussetzungen des Satzes 1 Nr. 3 Buchstabe f vorliegen.
 Satz 1 Nr. 2 ist für die Erteilung der Aufenthaltserlaubnis unbeachtlich, wenn
 
 1.  
-der Ausländer einen Aufenthaltstitel nach § 25 Abs. 1 oder Abs. 2 oder § 26 Abs. 3 besitzt und die Ehe bereits bestand, als der Ausländer seinen Lebensmittelpunkt in das Bundesgebiet verlegt hat,
+der Ausländer, der einen Aufenthaltstitel nach § 23 Absatz 4, § 25 Absatz 1 oder 2, § 26 Absatz 3 oder nach Erteilung einer Aufenthaltserlaubnis nach § 25 Absatz 2 Satz 1 zweite Alternative eine Niederlassungserlaubnis nach § 26 Absatz 4 besitzt und die Ehe bereits bestand, als der Ausländer seinen Lebensmittelpunkt in das Bundesgebiet verlegt hat,
 
 2.  
 der Ehegatte wegen einer körperlichen, geistigen oder seelischen Krankheit oder Behinderung nicht in der Lage ist, einfache Kenntnisse der deutschen Sprache nachzuweisen,
@@ -1439,10 +1575,13 @@ der Ehegatte wegen einer körperlichen, geistigen oder seelischen Krankheit oder
 bei dem Ehegatten ein erkennbar geringer Integrationsbedarf im Sinne einer nach § 43 Abs. 4 erlassenen Rechtsverordnung besteht oder dieser aus anderen Gründen nach der Einreise keinen Anspruch nach § 44 auf Teilnahme am Integrationskurs hätte,
 
 4.  
-der Ausländer wegen seiner Staatsangehörigkeit auch für einen Aufenthalt, der kein Kurzaufenthalt ist, visumfrei in das Bundesgebiet einreisen und sich darin aufhalten darf oder
+der Ausländer wegen seiner Staatsangehörigkeit auch für einen Aufenthalt, der kein Kurzaufenthalt ist, visumfrei in das Bundesgebiet einreisen und sich darin aufhalten darf,
 
 5.  
-der Ausländer im Besitz einer Blauen Karte EU ist.
+der Ausländer im Besitz einer Blauen Karte EU ist oder
+
+6.  
+es dem Ehegatten auf Grund besonderer Umstände des Einzelfalles nicht möglich oder nicht zumutbar ist, vor der Einreise Bemühungen zum Erwerb einfacher Kenntnisse der deutschen Sprache zu unternehmen.
 
 (2) Die Aufenthaltserlaubnis kann zur Vermeidung einer besonderen Härte abweichend von Absatz 1 Satz 1 Nr. 1 erteilt werden. Besitzt der Ausländer eine Aufenthaltserlaubnis, kann von den anderen Voraussetzungen des Absatzes 1 Satz 1 Nr. 3 Buchstabe e abgesehen werden.
 
@@ -1475,7 +1614,7 @@ und der Ausländer bis dahin im Besitz einer Aufenthaltserlaubnis, Niederlassung
 (2) Hat das minderjährige ledige Kind bereits das 16. Lebensjahr vollendet und verlegt es seinen Lebensmittelpunkt nicht zusammen mit seinen Eltern oder dem allein personensorgeberechtigten Elternteil in das Bundesgebiet, gilt Absatz 1 nur, wenn es die deutsche Sprache beherrscht oder gewährleistet erscheint, dass es sich auf Grund seiner bisherigen Ausbildung und Lebensverhältnisse in die Lebensverhältnisse in der Bundesrepublik Deutschland einfügen kann. Satz 1 gilt nicht, wenn
 
 1.  
-der Ausländer eine Aufenthaltserlaubnis nach § 25 Absatz 1 oder 2 oder eine Niederlassungserlaubnis nach § 26 Absatz 3 besitzt oder
+der Ausländer eine Aufenthaltserlaubnis nach § 23 Absatz 4, § 25 Absatz 1 oder 2, eine Niederlassungserlaubnis nach § 26 Absatz 3 oder nach Erteilung einer Aufenthaltserlaubnis nach § 25 Absatz 2 Satz 1 zweite Alternative eine Niederlassungserlaubnis nach § 26 Absatz 4 besitzt oder
 
 2.  
 der Ausländer oder sein mit ihm in familiärer Lebensgemeinschaft lebender Ehegatte eine Niederlassungserlaubnis nach § 19 oder eine Blaue Karte EU besitzt.
@@ -1514,7 +1653,7 @@ sein Lebensunterhalt gesichert ist oder er sich in einer Ausbildung befindet, di
 (3) Ein Anspruch auf Erteilung einer Niederlassungserlaubnis nach Absatz 1 besteht nicht, wenn
 
 1.  
-ein auf dem persönlichen Verhalten des Ausländers beruhender Ausweisungsgrund vorliegt,
+ein auf dem persönlichen Verhalten des Ausländers beruhendes Ausweisungsinteresse besteht,
 
 2.  
 der Ausländer in den letzten drei Jahren wegen einer vorsätzlichen Straftat zu einer Jugendstrafe von mindestens sechs oder einer Freiheitsstrafe von mindestens drei Monaten oder einer Geldstrafe von mindestens 90 Tagessätzen verurteilt worden oder wenn die Verhängung einer Jugendstrafe ausgesetzt ist oder
@@ -1528,7 +1667,7 @@ In den Fällen des Satzes 1 kann die Niederlassungserlaubnis erteilt oder die Au
 
 ### § 36 Nachzug der Eltern und sonstiger Familienangehöriger
 
-(1) Den Eltern eines minderjährigen Ausländers, der eine Aufenthaltserlaubnis nach § 25 Abs. 1 oder Abs. 2 oder eine Niederlassungserlaubnis nach § 26 Abs. 3 besitzt, ist abweichend von § 5 Abs. 1 Nr. 1 und § 29 Abs. 1 Nr. 2 eine Aufenthaltserlaubnis zu erteilen, wenn sich kein personensorgeberechtigter Elternteil im Bundesgebiet aufhält.
+(1) Den Eltern eines minderjährigen Ausländers, der eine Aufenthaltserlaubnis nach § 23 Absatz 4, § 25 Absatz 1 oder 2, eine Niederlassungserlaubnis nach § 26 Absatz 3 oder nach Erteilung einer Aufenthaltserlaubnis nach § 25 Absatz 2 Satz 1 zweite Alternative eine Niederlassungserlaubnis nach § 26 Absatz 4 besitzt, ist abweichend von § 5 Absatz 1 Nummer 1 und § 29 Absatz 1 Nummer 2 eine Aufenthaltserlaubnis zu erteilen, wenn sich kein personensorgeberechtigter Elternteil im Bundesgebiet aufhält.
 
 (2) Sonstigen Familienangehörigen eines Ausländers kann zum Familiennachzug eine Aufenthaltserlaubnis erteilt werden, wenn es zur Vermeidung einer außergewöhnlichen Härte erforderlich ist. Auf volljährige Familienangehörige sind § 30 Abs. 3 und § 31, auf minderjährige Familienangehörige ist § 34 entsprechend anzuwenden.
 
@@ -1562,7 +1701,7 @@ Die Aufenthaltserlaubnis berechtigt zur Ausübung einer Erwerbstätigkeit.
 wenn der Ausländer ausgewiesen worden war oder ausgewiesen werden konnte, als er das Bundesgebiet verließ,
 
 2.  
-wenn ein Ausweisungsgrund vorliegt oder
+wenn ein Ausweisungsinteresse besteht oder
 
 3.  
 solange der Ausländer minderjährig und seine persönliche Betreuung im Bundesgebiet nicht gewährleistet ist.
@@ -1593,7 +1732,7 @@ Der Antrag auf Erteilung eines Aufenthaltstitels nach Satz 1 ist innerhalb von s
 
 ### § 38a Aufenthaltserlaubnis für in anderen Mitgliedstaaten der Europäischen Union langfristig Aufenthaltsberechtigte
 
-(1) Einem Ausländer, der in einem anderen Mitgliedstaat der Europäischen Union die Rechtsstellung eines langfristig Aufenthaltsberechtigten innehat, wird eine Aufenthaltserlaubnis erteilt, wenn er sich länger als drei Monate im Bundesgebiet aufhalten will. § 8 Abs. 2 ist nicht anzuwenden.
+(1) Einem Ausländer, der in einem anderen Mitgliedstaat der Europäischen Union die Rechtsstellung eines langfristig Aufenthaltsberechtigten innehat, wird eine Aufenthaltserlaubnis erteilt, wenn er sich länger als 90 Tage im Bundesgebiet aufhalten will. § 8 Abs. 2 ist nicht anzuwenden.
 
 (2) Absatz 1 ist nicht anzuwenden auf Ausländer, die
 
@@ -1639,7 +1778,7 @@ und der Ausländer nicht zu ungünstigeren Arbeitsbedingungen als vergleichbare 
 
 (5) Die Bundesagentur für Arbeit kann der Erteilung einer Niederlassungserlaubnis nach § 19 zustimmen, wenn sich durch die Beschäftigung des Ausländers nachteilige Auswirkungen auf den Arbeitsmarkt nicht ergeben.
 
-(6) Staatsangehörigen derjenigen Staaten, die nach dem Vertrag vom 9. Dezember 2011 über den Beitritt der Republik Kroatien zur Europäischen Union (BGBl. 2013 II S. 586) der Europäischen Union beigetreten sind, kann von der Bundesagentur für Arbeit eine Beschäftigung, die eine qualifizierte Berufsausbildung voraussetzt, unter den Voraussetzungen des Absatzes 2 erlaubt werden, soweit nach Maßgabe dieser Verträge von den Rechtsvorschriften der Europäischen Union abweichende Regelungen Anwendung finden. Ihnen ist Vorrang gegenüber zum Zweck der Beschäftigung einreisenden Staatsangehörigen aus Drittstaaten zu gewähren.
+(6) (weggefallen)
 
 ### § 40 Versagungsgründe
 
@@ -1714,7 +1853,7 @@ Kapitel 3 Integration
 
 (3) Der Integrationskurs umfasst einen Basis- und einen Aufbausprachkurs von jeweils gleicher Dauer zur Erlangung ausreichender Sprachkenntnisse sowie einen Orientierungskurs zur Vermittlung von Kenntnissen der Rechtsordnung, der Kultur und der Geschichte in Deutschland. Der Integrationskurs wird vom Bundesamt für Migration und Flüchtlinge koordiniert und durchgeführt, das sich hierzu privater oder öffentlicher Träger bedienen kann. Für die Teilnahme am Integrationskurs sollen Kosten in angemessenem Umfang unter Berücksichtigung der Leistungsfähigkeit erhoben werden. Zur Zahlung ist auch derjenige verpflichtet, der dem Ausländer zur Gewährung des Lebensunterhalts verpflichtet ist.
 
-(4) Die Bundesregierung wird ermächtigt, nähere Einzelheiten des Integrationskurses, insbesondere die Grundstruktur, die Dauer, die Lerninhalte und die Durchführung der Kurse, die Vorgaben bezüglich der Auswahl und Zulassung der Kursträger sowie die Voraussetzungen und die Rahmenbedingungen für die ordnungsgemäße und erfolgreiche Teilnahme und ihre Bescheinigung einschließlich der Kostentragung sowie die erforderliche Datenübermittlung zwischen den beteiligten Stellen und die Datenverarbeitung durch das Bundesamt für Migration und Flüchtlinge nach § 88a Absatz 1 durch eine Rechtsverordnung ohne Zustimmung des Bundesrates zu regeln. Hiervon ausgenommen sind die Prüfungs- und Nachweismodalitäten der Abschlusstests zu den Integrationskursen, die das Bundesministerium des Innern durch Rechtsverordnung ohne Zustimmung des Bundesrates regelt.
+(4) Die Bundesregierung wird ermächtigt, nähere Einzelheiten des Integrationskurses, insbesondere die Grundstruktur, die Dauer, die Lerninhalte und die Durchführung der Kurse, die Vorgaben bezüglich der Auswahl und Zulassung der Kursträger sowie die Voraussetzungen und die Rahmenbedingungen für die ordnungsgemäße und erfolgreiche Teilnahme und ihre Bescheinigung einschließlich der Kostentragung sowie die erforderliche Datenübermittlung zwischen den beteiligten Stellen und die Datenverarbeitung durch das Bundesamt für Migration und Flüchtlinge nach § 88a Absatz 1 und 1a durch eine Rechtsverordnung ohne Zustimmung des Bundesrates zu regeln. Hiervon ausgenommen sind die Prüfungs- und Nachweismodalitäten der Abschlusstests zu den Integrationskursen, die das Bundesministerium des Innern durch Rechtsverordnung ohne Zustimmung des Bundesrates regelt.
 
 (5) (weggefallen)
 
@@ -1732,13 +1871,13 @@ b)
 zum Zweck des Familiennachzugs (§§ 28, 29, 30, 32, 36),
 
 c)  
-aus humanitären Gründen nach § 25 Abs. 1 oder Abs. 2,
+aus humanitären Gründen nach § 25 Absatz 1, 2, 4a Satz 3 oder § 25b,
 
 d)  
 als langfristig Aufenthaltsberechtigter nach § 38a oder
 
 2.  
-ein Aufenthaltstitel nach § 23 Abs. 2
+ein Aufenthaltstitel nach § 23 Abs. 2 oder Absatz 4
 
 erteilt wird. Von einem dauerhaften Aufenthalt ist in der Regel auszugehen, wenn der Ausländer eine Aufenthaltserlaubnis von mindestens einem Jahr erhält oder seit über 18 Monaten eine Aufenthaltserlaubnis besitzt, es sei denn, der Aufenthalt ist vorübergehender Natur.
 
@@ -1757,7 +1896,18 @@ wenn der Ausländer bereits über ausreichende Kenntnisse der deutschen Sprache 
 
 Die Berechtigung zur Teilnahme am Orientierungskurs bleibt im Falle des Satzes 1 Nr. 3 hiervon unberührt.
 
-(4) Ein Ausländer, der einen Teilnahmeanspruch nicht oder nicht mehr besitzt, kann im Rahmen verfügbarer Kursplätze zur Teilnahme zugelassen werden. Diese Regelung findet entsprechend auf deutsche Staatsangehörige Anwendung, wenn sie nicht über ausreichende Kenntnisse der deutschen Sprache verfügen und in besonderer Weise integrationsbedürftig sind.
+(4) Ein Ausländer, der einen Teilnahmeanspruch nicht oder nicht mehr besitzt, kann im Rahmen verfügbarer Kursplätze zur Teilnahme zugelassen werden. Diese Regelung findet entsprechend auf deutsche Staatsangehörige Anwendung, wenn sie nicht über ausreichende Kenntnisse der deutschen Sprache verfügen und in besonderer Weise integrationsbedürftig sind, sowie auf Ausländer, die
+
+1.  
+eine Aufenthaltsgestattung besitzen und bei denen ein rechtmäßiger und dauerhafter Aufenthalt zu erwarten ist,
+
+2.  
+eine Duldung nach § 60a Absatz 2 Satz 3 besitzen oder
+
+3.  
+eine Aufenthaltserlaubnis nach § 25 Absatz 5 besitzen.
+
+Bei einem Asylbewerber, der aus einem sicheren Herkunftsstaat nach § 29a des Asylgesetzes stammt, wird vermutet, dass ein rechtmäßiger und dauerhafter Aufenthalt nicht zu erwarten ist.
 
 ### § 44a Verpflichtung zur Teilnahme an einem Integrationskurs
 
@@ -1800,6 +1950,14 @@ deren Teilnahme auf Dauer unmöglich oder unzumutbar ist.
 ### § 45 Integrationsprogramm
 
 Der Integrationskurs soll durch weitere Integrationsangebote des Bundes und der Länder, insbesondere sozialpädagogische und migrationsspezifische Beratungsangebote, ergänzt werden. Das Bundesministerium des Innern oder die von ihm bestimmte Stelle entwickelt ein bundesweites Integrationsprogramm, in dem insbesondere die bestehenden Integrationsangebote von Bund, Ländern, Kommunen und privaten Trägern für Ausländer und Spätaussiedler festgestellt und Empfehlungen zur Weiterentwicklung der Integrationsangebote vorgelegt werden. Bei der Entwicklung des bundesweiten Integrationsprogramms sowie der Erstellung von Informationsmaterialien über bestehende Integrationsangebote werden die Länder, die Kommunen und die Ausländerbeauftragten von Bund, Ländern und Kommunen sowie der Beauftragte der Bundesregierung für Aussiedlerfragen beteiligt. Darüber hinaus sollen Religionsgemeinschaften, Gewerkschaften, Arbeitgeberverbände, die Träger der freien Wohlfahrtspflege sowie sonstige gesellschaftliche Interessenverbände beteiligt werden.
+
+### § 45a Berufsbezogene Deutschsprachförderung; Verordnungsermächtigung
+
+(1) Die Integration in den Arbeitsmarkt kann durch Maßnahmen der berufsbezogenen Deutschsprachförderung unterstützt werden. Diese Maßnahmen bauen in der Regel auf der allgemeinen Sprachförderung der Integrationskurse auf. Die berufsbezogene Deutschsprachförderung wird vom Bundesamt für Migration und Flüchtlinge koordiniert und durchgeführt. Das Bundesamt für Migration und Flüchtlinge bedient sich zur Durchführung der Maßnahmen privater oder öffentlicher Träger.
+
+(2) Ein Ausländer ist zur Teilnahme an einer Maßnahme der berufsbezogenen Deutschsprachförderung verpflichtet, wenn er Leistungen nach dem Zweiten Buch Sozialgesetzbuch bezieht und die Teilnahme an der Maßnahme in einer Eingliederungsvereinbarung nach dem Zweiten Buch Sozialgesetzbuch vorgesehen ist. Leistungen zur Eingliederung in Arbeit nach dem Zweiten Buch Sozialgesetzbuch und Leistungen der aktiven Arbeitsförderung nach dem Dritten Buch Sozialgesetzbuch bleiben unberührt. Die berufsbezogene Deutschsprachförderung ist ausgeschlossen für einen Ausländer, der eine Aufenthaltsgestattung nach dem Asylgesetz besitzt und bei dem ein dauerhafter und rechtmäßiger Aufenthalt nicht zu erwarten ist. Bei einem Asylbewerber, der aus einem sicheren Herkunftsstaat nach § 29a des Asylgesetzes stammt, wird vermutet, dass ein rechtmäßiger und dauerhafter Aufenthalt nicht zu erwarten ist.
+
+(3) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates im Einvernehmen mit dem Bundesministerium des Innern nähere Einzelheiten der berufsbezogenen Deutschsprachförderung, insbesondere die Grundstruktur, die Zielgruppen, die Dauer, die Lerninhalte und die Durchführung der Kurse, die Vorgaben bezüglich der Auswahl und Zulassung der Kursträger sowie die Voraussetzungen und die Rahmenbedingungen für den Zugang und die ordnungsgemäße und erfolgreiche Teilnahme einschließlich ihrer Abschlusszertifikate und der Kostentragung sowie die erforderliche Datenübermittlung zwischen den beteiligten Stellen und die Datenverarbeitung durch das Bundesamt für Migration und Flüchtlinge nach § 88a Absatz 3 zu regeln.
 
 Kapitel 4 Ordnungsrechtliche Vorschriften
 -----------------------------------------
@@ -1853,9 +2011,19 @@ auf Verlangen den mit dem Vollzug des Ausländerrechts betrauten Behörden vorzu
 
 (2) Ein Ausländer, der einen Pass oder Passersatz weder besitzt noch in zumutbarer Weise erlangen kann, genügt der Ausweispflicht mit der Bescheinigung über einen Aufenthaltstitel oder die Aussetzung der Abschiebung, wenn sie mit den Angaben zur Person und einem Lichtbild versehen und als Ausweisersatz bezeichnet ist.
 
-(3) Besitzt der Ausländer keinen gültigen Pass oder Passersatz, ist er verpflichtet, an der Beschaffung des Identitätspapiers mitzuwirken sowie alle Urkunden und sonstigen Unterlagen, die für die Feststellung seiner Identität und Staatsangehörigkeit und für die Feststellung und Geltendmachung einer Rückführungsmöglichkeit in einen anderen Staat von Bedeutung sein können und in deren Besitz er ist, den mit der Ausführung dieses Gesetzes betrauten Behörden auf Verlangen vorzulegen, auszuhändigen und zu überlassen. Kommt der Ausländer seiner Verpflichtung nach Satz 1 nicht nach und bestehen tatsächliche Anhaltspunkte, dass er im Besitz solcher Unterlagen ist, können er und die von ihm mitgeführten Sachen durchsucht werden. Der Ausländer hat die Maßnahme zu dulden.
+(3) Besitzt der Ausländer keinen gültigen Pass oder Passersatz, ist er verpflichtet, an der Beschaffung des Identitätspapiers mitzuwirken sowie alle Urkunden, sonstigen Unterlagen und Datenträger, die für die Feststellung seiner Identität und Staatsangehörigkeit und für die Feststellung und Geltendmachung einer Rückführungsmöglichkeit in einen anderen Staat von Bedeutung sein können und in deren Besitz er ist, den mit der Ausführung dieses Gesetzes betrauten Behörden auf Verlangen vorzulegen, auszuhändigen und zu überlassen. Kommt der Ausländer seiner Verpflichtung nicht nach und bestehen tatsächliche Anhaltspunkte, dass er im Besitz solcher Unterlagen oder Datenträger ist, können er und die von ihm mitgeführten Sachen durchsucht werden. Der Ausländer hat die Maßnahme zu dulden.
+
+(3a) Die Auswertung von Datenträgern ist nur zulässig, soweit dies für die Feststellung der Identität und Staatsangehörigkeit des Ausländers und für die Feststellung und Geltendmachung einer Rückführungsmöglichkeit in einen anderen Staat nach Maßgabe von Absatz 3 erforderlich ist und der Zweck der Maßnahme nicht durch mildere Mittel erreicht werden kann. Liegen tatsächliche Anhaltspunkte für die Annahme vor, dass durch die Auswertung von Datenträgern allein Erkenntnisse aus dem Kernbereich privater Lebensgestaltung erlangt würden, ist die Maßnahme unzulässig. Der Ausländer hat die notwendigen Zugangsdaten für eine zulässige Auswertung von Datenträgern zur Verfügung zu stellen. Die Datenträger dürfen nur von einem Bediensteten ausgewertet werden, der die Befähigung zum Richteramt hat. Erkenntnisse aus dem Kernbereich privater Lebensgestaltung, die durch die Auswertung von Datenträgern erlangt werden, dürfen nicht verwertet werden. Aufzeichnungen hierüber sind unverzüglich zu löschen. Die Tatsache ihrer Erlangung und Löschung ist aktenkundig zu machen. Sind die durch die Auswertung der Datenträger erlangten personenbezogenen Daten für die Zwecke nach Satz 1 nicht mehr erforderlich, sind sie unverzüglich zu löschen.
 
 (4) Wird nach § 5 Abs. 3 oder § 33 von der Erfüllung der Passpflicht (§ 3 Abs. 1) abgesehen, wird ein Ausweisersatz ausgestellt. Absatz 3 bleibt hiervon unberührt.
+
+### § 48a Erhebung von Zugangsdaten
+
+(1) Soweit der Ausländer die notwendigen Zugangsdaten für die Auswertung von Endgeräten, die er für telekommunikative Zwecke eingesetzt hat, nicht zur Verfügung stellt, darf von demjenigen, der geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über die Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§ 113 Absatz 1 Satz 2 des Telekommunikationsgesetzes), verlangt werden, wenn die gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen.
+
+(2) Der Ausländer ist von dem Auskunftsverlangen vorher in Kenntnis zu setzen.
+
+(3) Auf Grund eines Auskunftsverlangens nach Absatz 1 hat derjenige, der geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt, die zur Auskunftserteilung erforderlichen Daten unverzüglich zu übermitteln. Für die Entschädigung der Diensteanbieter ist § 23 Absatz 1 des Justizvergütungs- und -entschädigungsgesetzes entsprechend anzuwenden.
 
 ### § 49 Überprüfung, Feststellung und Sicherung der Identität
 
@@ -1885,7 +2053,7 @@ wenn sonstige Anhaltspunkte den Verdacht begründen, dass der Ausländer nach ei
 bei Ausländern, die vollziehbar ausreisepflichtig sind, sofern die Zurückschiebung oder Abschiebung in Betracht kommt;
 
 4.  
-wenn der Ausländer in einen in § 26a Abs. 2 des Asylverfahrensgesetzes genannten Drittstaat zurückgewiesen oder zurückgeschoben wird;
+wenn der Ausländer in einen in § 26a Abs. 2 des Asylgesetzes genannten Drittstaat zurückgewiesen oder zurückgeschoben wird;
 
 5.  
 bei der Beantragung eines nationalen Visums;
@@ -1902,9 +2070,9 @@ wenn ein Versagungsgrund nach § 5 Abs. 4 festgestellt worden ist.
 
 (7) Zur Bestimmung des Herkunftsstaates oder der Herkunftsregion des Ausländers kann das gesprochene Wort des Ausländers auf Ton- oder Datenträger aufgezeichnet werden. Diese Erhebung darf nur erfolgen, wenn der Ausländer vorher darüber in Kenntnis gesetzt wurde.
 
-(8) Die Identität eines Ausländers, der das 14. Lebensjahr vollendet hat und in Verbindung mit der unerlaubten Einreise aus einem Drittstaat kommend aufgegriffen und nicht zurückgewiesen wird, ist durch Abnahme der Abdrücke aller zehn Finger zu sichern.
+(8) Die Identität eines Ausländers, der in Verbindung mit der unerlaubten Einreise aufgegriffen und nicht zurückgewiesen wird, ist durch erkennungsdienstliche Maßnahmen zu sichern. Nach Satz 1 dürfen nur Lichtbilder und Abdrucke aller zehn Finger aufgenommen werden. Die Identität eines Ausländers, der das 14. Lebensjahr noch nicht vollendet hat, ist unter den Voraussetzungen des Satzes 1 nur durch das Aufnehmen eines Lichtbildes zu sichern.
 
-(9) Die Identität eines Ausländers, der das 14. Lebensjahr vollendet hat und sich ohne erforderlichen Aufenthaltstitel im Bundesgebiet aufhält, ist durch Abnahme der Abdrücke aller zehn Finger zu sichern, wenn Anhaltspunkte dafür vorliegen, dass er einen Asylantrag in einem Mitgliedstaat der Europäischen Union gestellt hat.
+(9) Die Identität eines Ausländers, der sich ohne erforderlichen Aufenthaltstitel im Bundesgebiet aufhält, ist durch erkennungsdienstliche Maßnahmen zu sichern. Nach Satz 1 dürfen nur Lichtbilder und Abdrucke aller zehn Finger aufgenommen werden. Die Identität eines Ausländers, der das 14. Lebensjahr noch nicht vollendet hat, ist unter den Voraussetzungen des Satzes 1 nur durch das Aufnehmen eines Lichtbildes zu sichern.
 
 (10) Der Ausländer hat die Maßnahmen nach den Absätzen 1 und 3 bis 9 zu dulden.
 
@@ -2010,7 +2178,7 @@ Abschnitt 1 Begründung der Ausreisepflicht
 
 (5) Der Pass oder Passersatz eines ausreisepflichtigen Ausländers soll bis zu dessen Ausreise in Verwahrung genommen werden.
 
-(6) Ein Ausländer kann zum Zweck der Aufenthaltsbeendigung in den Fahndungshilfsmitteln der Polizei zur Aufenthaltsermittlung und Festnahme ausgeschrieben werden, wenn sein Aufenthalt unbekannt ist. Ein ausgewiesener, zurückgeschobener oder abgeschobener Ausländer kann zum Zweck der Einreiseverweigerung zur Zurückweisung und für den Fall des Antreffens im Bundesgebiet zur Festnahme ausgeschrieben werden. Für Ausländer, die gemäß § 15a verteilt worden sind, gilt § 66 des Asylverfahrensgesetzes entsprechend.
+(6) Ein Ausländer kann zum Zweck der Aufenthaltsbeendigung in den Fahndungshilfsmitteln der Polizei zur Aufenthaltsermittlung und Festnahme ausgeschrieben werden, wenn sein Aufenthalt unbekannt ist. Ein Ausländer, gegen den ein Einreise- und Aufenthaltsverbot nach § 11 besteht, kann zum Zweck der Einreiseverweigerung zur Zurückweisung und für den Fall des Antreffens im Bundesgebiet zur Festnahme ausgeschrieben werden. Für Ausländer, die gemäß § 15a verteilt worden sind, gilt § 66 des Asylgesetzes entsprechend.
 
 ### § 51 Beendigung der Rechtmäßigkeit des Aufenthalts; Fortgeltung von Beschränkungen
 
@@ -2043,15 +2211,15 @@ wenn der Ausländer ausgereist und nicht innerhalb von sechs Monaten oder einer 
 8.  
 wenn ein Ausländer nach Erteilung eines Aufenthaltstitels gemäß der §§ 22, 23 oder § 25 Abs. 3 bis 5 einen Asylantrag stellt;
 
-ein für mehrere Einreisen oder mit einer Geltungsdauer von mehr als drei Monaten erteiltes Visum erlischt nicht nach den Nummern 6 und 7.
+ein für mehrere Einreisen oder mit einer Geltungsdauer von mehr als 90 Tagen erteiltes Visum erlischt nicht nach den Nummern 6 und 7.
 
-(2) Die Niederlassungserlaubnis eines Ausländers, der sich mindestens 15 Jahre rechtmäßig im Bundesgebiet aufgehalten hat sowie die Niederlassungserlaubnis seines mit ihm in ehelicher Lebensgemeinschaft lebenden Ehegatten erlöschen nicht nach Absatz 1 Nr. 6 und 7, wenn deren Lebensunterhalt gesichert ist und kein Ausweisungsgrund nach § 54 Nr. 5 bis 7 oder § 55 Abs. 2 Nr. 8 bis 11 vorliegt. Die Niederlassungserlaubnis eines mit einem Deutschen in ehelicher Lebensgemeinschaft lebenden Ausländers erlischt nicht nach Absatz 1 Nr. 6 und 7, wenn kein Ausweisungsgrund nach § 54 Nr. 5 bis 7 oder § 55 Abs. 2 Nr. 8 bis 11 vorliegt. Zum Nachweis des Fortbestandes der Niederlassungserlaubnis stellt die Ausländerbehörde am Ort des letzten gewöhnlichen Aufenthalts auf Antrag eine Bescheinigung aus.
+(2) Die Niederlassungserlaubnis eines Ausländers, der sich mindestens 15 Jahre rechtmäßig im Bundesgebiet aufgehalten hat sowie die Niederlassungserlaubnis seines mit ihm in ehelicher Lebensgemeinschaft lebenden Ehegatten erlöschen nicht nach Absatz 1 Nr. 6 und 7, wenn deren Lebensunterhalt gesichert ist und kein Ausweisungsinteresse nach § 54 Absatz 1 Nummer 2 bis 5 oder Absatz 2 Nummer 5 bis 7 besteht. Die Niederlassungserlaubnis eines mit einem Deutschen in ehelicher Lebensgemeinschaft lebenden Ausländers erlischt nicht nach Absatz 1 Nr. 6 und 7, wenn kein Ausweisungsinteresse nach § 54 Absatz 1 Nummer 2 bis 5 oder Absatz 2 Nummer 5 bis 7 besteht. Zum Nachweis des Fortbestandes der Niederlassungserlaubnis stellt die Ausländerbehörde am Ort des letzten gewöhnlichen Aufenthalts auf Antrag eine Bescheinigung aus.
 
 (3) Der Aufenthaltstitel erlischt nicht nach Absatz 1 Nr. 7, wenn die Frist lediglich wegen Erfüllung der gesetzlichen Wehrpflicht im Heimatstaat überschritten wird und der Ausländer innerhalb von drei Monaten nach der Entlassung aus dem Wehrdienst wieder einreist.
 
 (4) Nach Absatz 1 Nr. 7 wird in der Regel eine längere Frist bestimmt, wenn der Ausländer aus einem seiner Natur nach vorübergehenden Grunde ausreisen will und eine Niederlassungserlaubnis besitzt oder wenn der Aufenthalt außerhalb des Bundesgebiets Interessen der Bundesrepublik Deutschland dient. Abweichend von Absatz 1 Nummer 6 und 7 erlischt der Aufenthaltstitel eines Ausländers nicht, wenn er die Voraussetzungen des § 37 Absatz 1 Satz 1 Nummer 1 erfüllt, rechtswidrig mit Gewalt oder Drohung mit einem empfindlichen Übel zur Eingehung der Ehe genötigt und von der Rückkehr nach Deutschland abgehalten wurde und innerhalb von drei Monaten nach Wegfall der Zwangslage, spätestens jedoch innerhalb von zehn Jahren seit der Ausreise, wieder einreist.
 
-(5) Die Befreiung vom Erfordernis des Aufenthaltstitels entfällt, wenn der Ausländer ausgewiesen, zurückgeschoben oder abgeschoben wird; § 11 Abs. 1 findet entsprechende Anwendung.
+(5) Die Befreiung vom Erfordernis des Aufenthaltstitels entfällt, wenn der Ausländer ausgewiesen, zurückgeschoben oder abgeschoben wird; § 11 Absatz 2 bis 5 findet entsprechende Anwendung.
 
 (6) Räumliche und sonstige Beschränkungen und Auflagen nach diesem und nach anderen Gesetzen bleiben auch nach Wegfall des Aufenthaltstitels oder der Aussetzung der Abschiebung in Kraft, bis sie aufgehoben werden oder der Ausländer seiner Ausreisepflicht nachgekommen ist.
 
@@ -2080,7 +2248,7 @@ der Ausländer die Rechtsstellung eines langfristig Aufenthaltsberechtigten in e
 
 Auf die in Satz 1 Nr. 3 und 4 genannten Fälle sind die Absätze 2 bis 4 entsprechend anzuwenden.
 
-(10) Abweichend von Absatz 1 Nummer 7 beträgt die Frist für die Blaue Karte EU und die Aufenthaltserlaubnisse nach den §§ 30, 32, 33 oder 36, die den Familienangehörigen eines Inhabers einer Blauen Karte EU erteilt worden sind, zwölf Monate.
+(10) Abweichend von Absatz 1 Nummer 7 beträgt die Frist für die Blaue Karte EU und die Aufenthaltserlaubnisse nach den §§ 30, 32, 33 oder 36, die den Familienangehörigen eines Inhabers einer Blauen Karte EU erteilt worden sind, zwölf Monate. Gleiches gilt für die Niederlassungserlaubnis eines Ausländers, der sich mindestens 15 Jahre rechtmäßig im Bundesgebiet aufgehalten hat sowie die Niederlassungserlaubnis eines mit ihm in ehelicher Lebensgemeinschaft lebenden Ehegatten, wenn sie das 60. Lebensjahr vollendet haben.
 
 ### § 52 Widerruf
 
@@ -2108,7 +2276,7 @@ b)
 der Ausländer einen der Ausschlussgründe nach § 25 Abs. 3 Satz 2 Nummer 1 bis 4 erfüllt oder
 
 c)  
-in den Fällen des § 42 Satz 1 des Asylverfahrensgesetzes die Feststellung aufgehoben oder unwirksam wird.
+in den Fällen des § 42 Satz 1 des Asylgesetzes die Feststellung aufgehoben oder unwirksam wird.
 
 In den Fällen des Satzes 1 Nr. 4 und 5 kann auch der Aufenthaltstitel der mit dem Ausländer in familiärer Gemeinschaft lebenden Familienangehörigen widerrufen werden, wenn diesen kein eigenständiger Anspruch auf den Aufenthaltstitel zusteht.
 
@@ -2142,12 +2310,9 @@ der Ausländer nicht mehr die Voraussetzungen erfüllt, unter denen ihm eine Auf
 der Ausländer nicht bereit war oder nicht mehr bereit ist, im Strafverfahren auszusagen,
 
 2.  
-die Angaben des Ausländers, auf die in § 25 Absatz 4a Satz 2 Nummer 1 oder Absatz 4b Satz 2 Nummer 1 Bezug genommen wird, nach Mitteilung der Staatsanwaltschaft oder des Strafgerichts mit hinreichender Wahrscheinlichkeit als falsch anzusehen sind,
+die Angaben des Ausländers, auf die in § 25 Absatz 4a Satz 2 Nummer 1 oder Absatz 4b Satz 2 Nummer 1 Bezug genommen wird, nach Mitteilung der Staatsanwaltschaft oder des Strafgerichts mit hinreichender Wahrscheinlichkeit als falsch anzusehen sind oder
 
 3.  
-das Strafverfahren, in dem der Ausländer als Zeuge aussagen sollte, eingestellt wurde oder
-
-4.  
 der Ausländer auf Grund sonstiger Umstände nicht mehr die Voraussetzungen für die Erteilung eines Aufenthaltstitels nach § 25 Absatz 4a oder Absatz 4b erfüllt.
 
 Eine Aufenthaltserlaubnis nach § 25 Absatz 4a Satz 1 soll auch dann widerrufen werden, wenn der Ausländer freiwillig wieder Verbindung zu den Personen nach § 25 Absatz 4a Satz 2 Nummer 2 aufgenommen hat.
@@ -2156,162 +2321,148 @@ Eine Aufenthaltserlaubnis nach § 25 Absatz 4a Satz 1 soll auch dann widerrufen 
 
 (7) (weggefallen)
 
-### § 53 Zwingende Ausweisung
+### § 53 Ausweisung
 
-Ein Ausländer wird ausgewiesen, wenn er
+(1) Ein Ausländer, dessen Aufenthalt die öffentliche Sicherheit und Ordnung, die freiheitliche demokratische Grundordnung oder sonstige erhebliche Interessen der Bundesrepublik Deutschland gefährdet, wird ausgewiesen, wenn die unter Berücksichtigung aller Umstände des Einzelfalles vorzunehmende Abwägung der Interessen an der Ausreise mit den Interessen an einem weiteren Verbleib des Ausländers im Bundesgebiet ergibt, dass das öffentliche Interesse an der Ausreise überwiegt.
 
-1.  
-wegen einer oder mehrerer vorsätzlicher Straftaten rechtskräftig zu einer Freiheits- oder Jugendstrafe von mindestens drei Jahren verurteilt worden ist oder wegen vorsätzlicher Straftaten innerhalb von fünf Jahren zu mehreren Freiheits- oder Jugendstrafen von zusammen mindestens drei Jahren rechtskräftig verurteilt oder bei der letzten rechtskräftigen Verurteilung Sicherungsverwahrung angeordnet worden ist,
+(2) Bei der Abwägung nach Absatz 1 sind nach den Umständen des Einzelfalles insbesondere die Dauer seines Aufenthalts, seine persönlichen, wirtschaftlichen und sonstigen Bindungen im Bundesgebiet und im Herkunftsstaat oder in einem anderen zur Aufnahme bereiten Staat, die Folgen der Ausweisung für Familienangehörige und Lebenspartner sowie die Tatsache, ob sich der Ausländer rechtstreu verhalten hat, zu berücksichtigen.
 
-2.  
-wegen einer vorsätzlichen Straftat nach dem Betäubungsmittelgesetz, wegen Landfriedensbruches unter den in § 125a Satz 2 des Strafgesetzbuches genannten Voraussetzungen oder wegen eines im Rahmen einer verbotenen öffentlichen Versammlung oder eines verbotenen Aufzugs begangenen Landfriedensbruches gemäß § 125 des Strafgesetzbuches rechtskräftig zu einer Jugendstrafe von mindestens zwei Jahren oder zu einer Freiheitsstrafe verurteilt und die Vollstreckung der Strafe nicht zur Bewährung ausgesetzt worden ist oder
+(3) Ein Ausländer, der als Asylberechtigter anerkannt ist, der im Bundesgebiet die Rechtsstellung eines ausländischen Flüchtlings genießt, der einen von einer Behörde der Bundesrepublik Deutschland ausgestellten Reiseausweis nach dem Abkommen vom 28. Juli 1951 über die Rechtsstellung der Flüchtlinge (BGBl. 1953 II S. 559) besitzt, dem nach dem Assoziationsabkommen EWG/Türkei ein Aufenthaltsrecht zusteht oder der eine Erlaubnis zum Daueraufenthalt – EU besitzt, darf nur ausgewiesen werden, wenn das persönliche Verhalten des Betroffenen gegenwärtig eine schwerwiegende Gefahr für die öffentliche Sicherheit und Ordnung darstellt, die ein Grundinteresse der Gesellschaft berührt und die Ausweisung für die Wahrung dieses Interesses unerlässlich ist.
 
-3.  
-wegen Einschleusens von Ausländern gemäß § 96 oder § 97 rechtskräftig zu einer Freiheitsstrafe verurteilt und die Vollstreckung der Strafe nicht zur Bewährung ausgesetzt worden ist.
-
-### § 54 Ausweisung im Regelfall
-
-Ein Ausländer wird in der Regel ausgewiesen, wenn
+(4) Ein Ausländer, der einen Asylantrag gestellt hat, kann nur unter der Bedingung ausgewiesen werden, dass das Asylverfahren unanfechtbar ohne Anerkennung als Asylberechtigter oder ohne die Zuerkennung internationalen Schutzes (§ 1 Absatz 1 Nummer 2 des Asylgesetzes) abgeschlossen wird. Von der Bedingung wird abgesehen, wenn
 
 1.  
-er wegen einer oder mehrerer vorsätzlicher Straftaten rechtskräftig zu einer Jugendstrafe von mindestens zwei Jahren oder zu einer Freiheitsstrafe verurteilt und die Vollstreckung der Strafe nicht zur Bewährung ausgesetzt worden ist,
+ein Sachverhalt vorliegt, der nach Absatz 3 eine Ausweisung rechtfertigt oder
 
 2.  
-er wegen Einschleusens von Ausländern gemäß § 96 oder § 97 rechtskräftig verurteilt ist,
+eine nach den Vorschriften des Asylgesetzes erlassene Abschiebungsandrohung vollziehbar geworden ist.
+
+### § 54 Ausweisungsinteresse
+
+(1) Das Ausweisungsinteresse im Sinne von § 53 Absatz 1 wiegt besonders schwer, wenn der Ausländer
+
+1.  
+wegen einer oder mehrerer vorsätzlicher Straftaten rechtskräftig zu einer Freiheits- oder Jugendstrafe von mindestens zwei Jahren verurteilt worden ist oder bei der letzten rechtskräftigen Verurteilung Sicherungsverwahrung angeordnet worden ist,
+
+1a.  
+wegen einer oder mehrerer vorsätzlicher Straftaten gegen das Leben, die körperliche Unversehrtheit, die sexuelle Selbstbestimmung, das Eigentum oder wegen Widerstands gegen Vollstreckungsbeamte rechtskräftig zu einer Freiheits- oder Jugendstrafe von mindestens einem Jahr verurteilt worden ist, sofern die Straftat mit Gewalt, unter Anwendung von Drohung mit Gefahr für Leib oder Leben oder mit List begangen worden ist; bei serienmäßiger Begehung von Straftaten gegen das Eigentum wiegt das Ausweisungsinteresse auch dann besonders schwer, wenn der Täter keine Gewalt, Drohung oder List angewendet hat,
+
+2.  
+die freiheitliche demokratische Grundordnung oder die Sicherheit der Bundesrepublik Deutschland gefährdet; hiervon ist auszugehen, wenn Tatsachen die Schlussfolgerung rechtfertigen, dass er einer Vereinigung angehört oder angehört hat, die den Terrorismus unterstützt oder er eine derartige Vereinigung unterstützt oder unterstützt hat oder er eine in § 89a Absatz 1 des Strafgesetzbuchs bezeichnete schwere staatsgefährdende Gewalttat nach § 89a Absatz 2 des Strafgesetzbuchs vorbereitet oder vorbereitet hat, es sei denn, der Ausländer nimmt erkennbar und glaubhaft von seinem sicherheitsgefährdenden Handeln Abstand,
 
 3.  
-er den Vorschriften des Betäubungsmittelgesetzes zuwider ohne Erlaubnis Betäubungsmittel anbaut, herstellt, einführt, durchführt oder ausführt, veräußert, an einen anderen abgibt oder in sonstiger Weise in Verkehr bringt oder mit ihnen handelt oder wenn er zu einer solchen Handlung anstiftet oder Beihilfe leistet,
+zu den Leitern eines Vereins gehörte, der unanfechtbar verboten wurde, weil seine Zwecke oder seine Tätigkeit den Strafgesetzen zuwiderlaufen oder er sich gegen die verfassungsmäßige Ordnung oder den Gedanken der Völkerverständigung richtet,
 
 4.  
-er sich im Rahmen einer verbotenen oder aufgelösten öffentlichen Versammlung oder eines verbotenen oder aufgelösten Aufzugs an Gewalttätigkeiten gegen Menschen oder Sachen, die aus einer Menschenmenge in einer die öffentliche Sicherheit gefährdenden Weise mit vereinten Kräften begangen werden, als Täter oder Teilnehmer beteiligt,
+sich zur Verfolgung politischer oder religiöser Ziele an Gewalttätigkeiten beteiligt oder öffentlich zur Gewaltanwendung aufruft oder mit Gewaltanwendung droht oder
 
 5.  
-Tatsachen die Schlussfolgerung rechtfertigen, dass er einer Vereinigung angehört oder angehört hat, die den Terrorismus unterstützt, oder er eine derartige Vereinigung unterstützt oder unterstützt hat; auf zurückliegende Mitgliedschaften oder Unterstützungshandlungen kann die Ausweisung nur gestützt werden, soweit diese eine gegenwärtige Gefährlichkeit begründen,
+zu Hass gegen Teile der Bevölkerung aufruft; hiervon ist auszugehen, wenn er auf eine andere Person gezielt und andauernd einwirkt, um Hass auf Angehörige bestimmter ethnischer Gruppen oder Religionen zu erzeugen oder zu verstärken oder öffentlich, in einer Versammlung oder durch Verbreiten von Schriften in einer Weise, die geeignet ist, die öffentliche Sicherheit und Ordnung zu stören,
 
-5a.  
-er die freiheitliche demokratische Grundordnung oder die Sicherheit der Bundesrepublik Deutschland gefährdet oder sich bei der Verfolgung politischer Ziele an Gewalttätigkeiten beteiligt oder öffentlich zur Gewaltanwendung aufruft oder mit Gewaltanwendung droht,
+a)  
+gegen Teile der Bevölkerung zu Willkürmaßnahmen aufstachelt,
 
-5b.  
-Tatsachen die Schlussfolgerung rechtfertigen, dass er eine in § 89a Abs. 1 des Strafgesetzbuchs bezeichnete schwere staatsgefährdende Gewalttat gemäß § 89a Abs. 2 des Strafgesetzbuchs vorbereitet oder vorbereitet hat; auf zurückliegende Vorbereitungshandlungen kann die Ausweisung nur gestützt werden, soweit diese eine besondere und gegenwärtige Gefährlichkeit begründen,
+b)  
+Teile der Bevölkerung böswillig verächtlich macht und dadurch die Menschenwürde anderer angreift oder
 
-6.  
-er in einer Befragung, die der Klärung von Bedenken gegen die Einreise oder den weiteren Aufenthalt dient, der deutschen Auslandsvertretung oder der Ausländerbehörde gegenüber frühere Aufenthalte in Deutschland oder anderen Staaten verheimlicht oder in wesentlichen Punkten falsche oder unvollständige Angaben über Verbindungen zu Personen oder Organisationen macht, die der Unterstützung des Terrorismus verdächtig sind; die Ausweisung auf dieser Grundlage ist nur zulässig, wenn der Ausländer vor der Befragung ausdrücklich auf den sicherheitsrechtlichen Zweck der Befragung und die Rechtsfolgen falscher oder unvollständiger Angaben hingewiesen wurde; oder
+c)  
+Verbrechen gegen den Frieden, gegen die Menschlichkeit, ein Kriegsverbrechen oder terroristische Taten von vergleichbarem Gewicht billigt oder dafür wirbt,
 
-7.  
-er zu den Leitern eines Vereins gehörte, der unanfechtbar verboten wurde, weil seine Zwecke oder seine Tätigkeit den Strafgesetzen zuwiderlaufen oder er sich gegen die verfassungsmäßige Ordnung oder den Gedanken der Völkerverständigung richtet.
+es sei denn, der Ausländer nimmt erkennbar und glaubhaft von seinem Handeln Abstand.
 
-### § 54a Überwachung ausgewiesener Ausländer aus Gründen der inneren Sicherheit
-
-(1) Ein Ausländer, gegen den eine vollziehbare Ausweisungsverfügung nach § 54 Nr. 5, 5a oder Nr. 5b oder eine vollziehbare Abschiebungsanordnung nach § 58a besteht, unterliegt der Verpflichtung, sich mindestens einmal wöchentlich bei der für seinen Aufenthaltsort zuständigen polizeilichen Dienststelle zu melden, soweit die Ausländerbehörde nichts anderes bestimmt. Ist ein Ausländer auf Grund anderer als der in Satz 1 genannten Ausweisungsgründe vollziehbar ausreisepflichtig, kann eine Satz 1 entsprechende Meldepflicht angeordnet werden, wenn dies zur Abwehr einer Gefahr für die öffentliche Sicherheit und Ordnung erforderlich ist.
-
-(2) Sein Aufenthalt ist auf den Bezirk der Ausländerbehörde beschränkt, soweit die Ausländerbehörde keine abweichenden Festlegungen trifft.
-
-(3) Er kann verpflichtet werden, in einem anderen Wohnort oder in bestimmten Unterkünften auch außerhalb des Bezirks der Ausländerbehörde zu wohnen, wenn dies geboten erscheint, um die Fortführung von Bestrebungen, die zur Ausweisung geführt haben, zu erschweren oder zu unterbinden und die Einhaltung vereinsrechtlicher oder sonstiger gesetzlicher Auflagen und Verpflichtungen besser überwachen zu können.
-
-(4) Um die Fortführung von Bestrebungen, die zur Ausweisung geführt haben, zu erschweren oder zu unterbinden, kann der Ausländer auch verpflichtet werden, bestimmte Kommunikationsmittel oder -dienste nicht zu nutzen, soweit ihm Kommunikationsmittel verbleiben und die Beschränkung notwendig ist, um schwere Gefahren für die innere Sicherheit oder für Leib und Leben Dritter abzuwehren.
-
-(5) Die Verpflichtungen nach den Absätzen 1 bis 4 ruhen, wenn sich der Ausländer in Haft befindet. Eine Anordnung nach den Absätzen 3 und 4 ist sofort vollziehbar.
-
-### § 55 Ermessensausweisung
-
-(1) Ein Ausländer kann ausgewiesen werden, wenn sein Aufenthalt die öffentliche Sicherheit und Ordnung oder sonstige erhebliche Interessen der Bundesrepublik Deutschland beeinträchtigt.
-
-(2) Ein Ausländer kann nach Absatz 1 insbesondere ausgewiesen werden, wenn er
+(2) Das Ausweisungsinteresse im Sinne von § 53 Absatz 1 wiegt schwer, wenn der Ausländer
 
 1.  
+wegen einer oder mehrerer vorsätzlicher Straftaten rechtskräftig zu einer Freiheitsstrafe von mindestens einem Jahr verurteilt worden ist,
+
+1a.  
+wegen einer oder mehrerer vorsätzlicher Straftaten gegen das Leben, die körperliche Unversehrtheit, die sexuelle Selbstbestimmung, das Eigentum oder wegen Widerstands gegen Vollstreckungsbeamte rechtskräftig zu einer Freiheits- oder Jugendstrafe verurteilt worden ist, sofern die Straftat mit Gewalt, unter Anwendung von Drohung mit Gefahr für Leib oder Leben oder mit List begangen worden ist; bei serienmäßiger Begehung von Straftaten gegen das Eigentum wiegt das Ausweisungsinteresse auch dann schwer, wenn der Täter keine Gewalt, Drohung oder List angewendet hat,
+
+2.  
+wegen einer oder mehrerer vorsätzlicher Straftaten rechtskräftig zu einer Jugendstrafe von mindestens einem Jahr verurteilt und die Vollstreckung der Strafe nicht zur Bewährung ausgesetzt worden ist,
+
+3.  
+als Täter oder Teilnehmer den Tatbestand des § 29 Absatz 1 Satz 1 Nummer 1 des Betäubungsmittelgesetzes verwirklicht oder dies versucht,
+
+4.  
+Heroin, Kokain oder ein vergleichbar gefährliches Betäubungsmittel verbraucht und nicht zu einer erforderlichen seiner Rehabilitation dienenden Behandlung bereit ist oder sich ihr entzieht,
+
+5.  
+eine andere Person in verwerflicher Weise, insbesondere unter Anwendung oder Androhung von Gewalt, davon abhält, am wirtschaftlichen, kulturellen oder gesellschaftlichen Leben in der Bundesrepublik Deutschland teilzuhaben,
+
+6.  
+eine andere Person zur Eingehung der Ehe nötigt oder dies versucht,
+
+7.  
+in einer Befragung, die der Klärung von Bedenken gegen die Einreise oder den weiteren Aufenthalt dient, der deutschen Auslandsvertretung oder der Ausländerbehörde gegenüber frühere Aufenthalte in Deutschland oder anderen Staaten verheimlicht oder in wesentlichen Punkten vorsätzlich keine, falsche oder unvollständige Angaben über Verbindungen zu Personen oder Organisationen macht, die der Unterstützung des Terrorismus oder der Gefährdung der freiheitlichen demokratischen Grundordnung oder der Sicherheit der Bundesrepublik Deutschland verdächtig sind; die Ausweisung auf dieser Grundlage ist nur zulässig, wenn der Ausländer vor der Befragung ausdrücklich auf den sicherheitsrechtlichen Zweck der Befragung und die Rechtsfolgen verweigerter, falscher oder unvollständiger Angaben hingewiesen wurde,
+
+8.  
 in einem Verwaltungsverfahren, das von Behörden eines Schengen-Staates durchgeführt wurde, im In- oder Ausland
 
 a)  
 falsche oder unvollständige Angaben zur Erlangung eines deutschen Aufenthaltstitels, eines Schengen-Visums, eines Flughafentransitvisums, eines Passersatzes, der Zulassung einer Ausnahme von der Passpflicht oder der Aussetzung der Abschiebung gemacht hat oder
 
 b)  
-trotz bestehender Rechtspflicht nicht an Maßnahmen der für die Durchführung dieses Gesetzes oder des Schengener Durchführungsübereinkommens zuständigen Behörden mitgewirkt hat,
-
-soweit der Ausländer zuvor auf die Rechtsfolgen solcher Handlungen hingewiesen wurde,
-
-1a.  
-gegenüber einem Arbeitgeber falsche oder unvollständige Angaben bei Abschluss eines Arbeitsvertrages gemacht und dadurch eine Niederlassungserlaubnis nach § 19 Abs. 2 Nr. 3 erhalten hat,
-
-2.  
-einen nicht nur vereinzelten oder geringfügigen Verstoß gegen Rechtsvorschriften oder gerichtliche oder behördliche Entscheidungen oder Verfügungen begangen oder außerhalb des Bundesgebiets eine Straftat begangen hat, die im Bundesgebiet als vorsätzliche Straftat anzusehen ist,
-
-3.  
-gegen eine für die Ausübung der Gewerbsunzucht geltende Rechtsvorschrift oder behördliche Verfügung verstößt,
-
-4.  
-Heroin, Cocain oder ein vergleichbar gefährliches Betäubungsmittel verbraucht und nicht zu einer erforderlichen seiner Rehabilitation dienenden Behandlung bereit ist oder sich ihr entzieht,
-
-5.  
-durch sein Verhalten die öffentliche Gesundheit gefährdet oder längerfristig obdachlos ist,
-
-6.  
-für sich, seine Familienangehörigen oder für sonstige Haushaltsangehörige Sozialhilfe in Anspruch nimmt,
-
-7.  
-Hilfe zur Erziehung außerhalb der eigenen Familie oder Hilfe für junge Volljährige nach dem Achten Buch Sozialgesetzbuch erhält; das gilt nicht für einen Minderjährigen, dessen Eltern oder dessen allein personensorgeberechtigter Elternteil sich rechtmäßig im Bundesgebiet aufhalten,
-
-8.  
-a)  
-öffentlich, in einer Versammlung oder durch Verbreiten von Schriften ein Verbrechen gegen den Frieden, ein Kriegsverbrechen, ein Verbrechen gegen die Menschlichkeit oder terroristische Taten von vergleichbarem Gewicht in einer Weise billigt oder dafür wirbt, die geeignet ist, die öffentliche Sicherheit und Ordnung zu stören, oder
-
-b)  
-in einer Weise, die geeignet ist, die öffentliche Sicherheit und Ordnung zu stören, zum Hass gegen Teile der Bevölkerung aufstachelt oder zu Gewalt- oder Willkürmaßnahmen gegen sie auffordert oder die Menschenwürde anderer dadurch angreift, dass er Teile der Bevölkerung beschimpft, böswillig verächtlich macht oder verleumdet,
+trotz bestehender Rechtspflicht nicht an Maßnahmen der für die Durchführung dieses Gesetzes oder des Schengener Durchführungsübereinkommens zuständigen Behörden mitgewirkt hat, soweit der Ausländer zuvor auf die Rechtsfolgen solcher Handlungen hingewiesen wurde oder
 
 9.  
-auf ein Kind oder einen Jugendlichen gezielt und andauernd einwirkt, um Hass auf Angehörige anderer ethnischer Gruppen oder Religionen zu erzeugen oder zu verstärken,
+einen nicht nur vereinzelten oder geringfügigen Verstoß gegen Rechtsvorschriften oder gerichtliche oder behördliche Entscheidungen oder Verfügungen begangen oder außerhalb des Bundesgebiets eine Handlung begangen hat, die im Bundesgebiet als vorsätzliche schwere Straftat anzusehen ist.
 
-10.  
-eine andere Person in verwerflicher Weise, insbesondere unter Anwendung oder Androhung von Gewalt, davon abhält, am wirtschaftlichen, kulturellen oder gesellschaftlichen Leben in der Bundesrepublik Deutschland teilzuhaben oder
+### § 55 Bleibeinteresse
 
-11.  
-eine andere Person zur Eingehung der Ehe nötigt oder dies versucht.
-
-(3) Bei der Entscheidung über die Ausweisung sind zu berücksichtigen
-
-1.  
-die Dauer des rechtmäßigen Aufenthalts und die schutzwürdigen persönlichen, wirtschaftlichen und sonstigen Bindungen des Ausländers im Bundesgebiet,
-
-2.  
-die Folgen der Ausweisung für die Familienangehörigen oder Lebenspartner des Ausländers, die sich rechtmäßig im Bundesgebiet aufhalten und mit ihm in familiärer oder lebenspartnerschaftlicher Lebensgemeinschaft leben,
-
-3.  
-die in § 60a Abs. 2 und 2b genannten Voraussetzungen für die Aussetzung der Abschiebung.
-
-### § 56 Besonderer Ausweisungsschutz
-
-(1) Ein Ausländer, der
+(1) Das Bleibeinteresse im Sinne von § 53 Absatz 1 wiegt besonders schwer, wenn der Ausländer
 
 1.  
 eine Niederlassungserlaubnis besitzt und sich seit mindestens fünf Jahren rechtmäßig im Bundesgebiet aufgehalten hat,
 
-1a.  
-eine Erlaubnis zum Daueraufenthalt – EU besitzt,
-
 2.  
-eine Aufenthaltserlaubnis besitzt und im Bundesgebiet geboren oder als Minderjähriger in das Bundesgebiet eingereist ist und sich mindestens fünf Jahre rechtmäßig im Bundesgebiet aufgehalten hat,
+eine Aufenthaltserlaubnis besitzt und im Bundesgebiet geboren oder als Minderjähriger in das Bundesgebiet eingereist ist und sich seit mindestens fünf Jahren rechtmäßig im Bundesgebiet aufgehalten hat,
 
 3.  
-eine Aufenthaltserlaubnis besitzt, sich mindestens fünf Jahre rechtmäßig im Bundesgebiet aufgehalten hat und mit einem der in den Nummern 1 bis 2 bezeichneten Ausländer in ehelicher oder lebenspartnerschaftlicher Lebensgemeinschaft lebt,
+eine Aufenthaltserlaubnis besitzt, sich seit mindestens fünf Jahren rechtmäßig im Bundesgebiet aufgehalten hat und mit einem der in den Nummern 1 und 2 bezeichneten Ausländer in ehelicher oder lebenspartnerschaftlicher Lebensgemeinschaft lebt,
 
 4.  
-mit einem deutschen Familienangehörigen oder Lebenspartner in familiärer oder lebenspartnerschaftlicher Lebensgemeinschaft lebt,
+mit einem deutschen Familienangehörigen oder Lebenspartner in familiärer oder lebenspartnerschaftlicher Lebensgemeinschaft lebt, sein Personensorgerecht für einen minderjährigen ledigen Deutschen oder mit diesem sein Umgangsrecht ausübt,
 
 5.  
-als Asylberechtigter anerkannt ist, im Bundesgebiet die Rechtsstellung eines ausländischen Flüchtlings genießt oder einen von einer Behörde der Bundesrepublik Deutschland ausgestellten Reiseausweis nach dem Abkommen vom 28. Juli 1951 über die Rechtsstellung der Flüchtlinge (BGBl. 1953 II S. 559) besitzt,
+die Rechtsstellung eines subsidiär Schutzberechtigten im Sinne des § 4 Absatz 1 des Asylgesetzes genießt oder
 
-genießt besonderen Ausweisungsschutz. Er wird nur aus schwerwiegenden Gründen der öffentlichen Sicherheit und Ordnung ausgewiesen. Schwerwiegende Gründe der öffentlichen Sicherheit und Ordnung liegen in der Regel in den Fällen der §§ 53 und 54 Nr. 5 bis 5b und 7 vor. Liegen die Voraussetzungen des § 53 vor, so wird der Ausländer in der Regel ausgewiesen. Liegen die Voraussetzungen des § 54 vor, so wird über seine Ausweisung nach Ermessen entschieden.
+6.  
+eine Aufenthaltserlaubnis nach § 23 Absatz 4, den §§ 24, 25 Absatz 4a Satz 3 oder nach § 29 Absatz 2 oder 4 besitzt.
 
-(2) Über die Ausweisung eines Heranwachsenden, der im Bundesgebiet aufgewachsen ist und eine Niederlassungserlaubnis besitzt, sowie über die Ausweisung eines Minderjährigen, der eine Aufenthaltserlaubnis oder Niederlassungserlaubnis besitzt, wird in den Fällen der §§ 53 und 54 nach Ermessen entschieden. Soweit die Eltern oder der allein personensorgeberechtigte Elternteil des Minderjährigen sich rechtmäßig im Bundesgebiet aufhalten, wird der Minderjährige nur in den Fällen des § 53 ausgewiesen; über die Ausweisung wird nach Ermessen entschieden. Der Satz 1 ist nicht anzuwenden, wenn der Heranwachsende wegen serienmäßiger Begehung nicht unerheblicher vorsätzlicher Straftaten, wegen schwerer Straftaten oder einer besonders schweren Straftat rechtskräftig verurteilt worden ist.
-
-(3) Ein Ausländer, der eine Aufenthaltserlaubnis nach § 24 oder § 29 Abs. 4 besitzt, kann nur unter den Voraussetzungen des § 24 Abs. 2 ausgewiesen werden.
-
-(4) Ein Ausländer, der einen Asylantrag gestellt hat, kann nur unter der Bedingung ausgewiesen werden, dass das Asylverfahren unanfechtbar ohne Anerkennung als Asylberechtigter oder ohne die Zuerkennung internationalen Schutzes (§ 1 Absatz 1 Nummer 2 des Asylverfahrensgesetzes) abgeschlossen wird. Von der Bedingung wird abgesehen, wenn
+(2) Das Bleibeinteresse im Sinne von § 53 Absatz 1 wiegt insbesondere schwer, wenn
 
 1.  
-ein Sachverhalt vorliegt, der nach Absatz 1 eine Ausweisung rechtfertigt, oder
+der Ausländer minderjährig ist und eine Aufenthaltserlaubnis besitzt,
 
 2.  
-eine nach den Vorschriften des Asylverfahrensgesetzes erlassene Abschiebungsandrohung vollziehbar geworden ist.
+der Ausländer eine Aufenthaltserlaubnis besitzt und sich seit mindestens fünf Jahren im Bundesgebiet aufhält,
+
+3.  
+der Ausländer sein Personensorgerecht für einen im Bundesgebiet rechtmäßig sich aufhaltenden ledigen Minderjährigen oder mit diesem sein Umgangsrecht ausübt,
+
+4.  
+der Ausländer minderjährig ist und sich die Eltern oder ein personensorgeberechtigter Elternteil rechtmäßig im Bundesgebiet aufhalten beziehungsweise aufhält,
+
+5.  
+die Belange oder das Wohl eines Kindes zu berücksichtigen sind beziehungsweise ist oder
+
+6.  
+der Ausländer eine Aufenthaltserlaubnis nach § 25 Absatz 4a Satz 1 besitzt.
+
+(3) Aufenthalte auf der Grundlage von § 81 Absatz 3 Satz 1 und Absatz 4 Satz 1 werden als rechtmäßiger Aufenthalt im Sinne der Absätze 1 und 2 nur berücksichtigt, wenn dem Antrag auf Erteilung oder Verlängerung des Aufenthaltstitels entsprochen wurde.
+
+### § 56 Überwachung ausgewiesener Ausländer aus Gründen der inneren Sicherheit
+
+(1) Ein Ausländer, gegen den eine Ausweisungsverfügung auf Grund eines Ausweisungsinteresses nach § 54 Absatz 1 Nummer 2 bis 5 oder eine Abschiebungsanordnung nach § 58a besteht, unterliegt der Verpflichtung, sich mindestens einmal wöchentlich bei der für seinen Aufenthaltsort zuständigen polizeilichen Dienststelle zu melden, soweit die Ausländerbehörde nichts anderes bestimmt. Ist ein Ausländer auf Grund anderer als der in Satz 1 genannten Ausweisungsinteressen vollziehbar ausreisepflichtig, kann eine dem Satz 1 entsprechende Meldepflicht angeordnet werden, wenn dies zur Abwehr einer Gefahr für die öffentliche Sicherheit und Ordnung erforderlich ist.
+
+(2) Sein Aufenthalt ist auf den Bezirk der Ausländerbehörde beschränkt, soweit die Ausländerbehörde keine abweichenden Festlegungen trifft.
+
+(3) Er kann verpflichtet werden, in einem anderen Wohnort oder in bestimmten Unterkünften auch außerhalb des Bezirks der Ausländerbehörde zu wohnen, wenn dies geboten erscheint, um die Fortführung von Bestrebungen, die zur Ausweisung geführt haben, zu erschweren oder zu unterbinden und die Einhaltung vereinsrechtlicher oder sonstiger gesetzlicher Auflagen und Verpflichtungen besser überwachen zu können.
+
+(4) Um die Fortführung von Bestrebungen, die zur Ausweisung nach § 54 Absatz 1 Nummer 2 bis 5 oder zu einer Abschiebungsanordnung nach § 58a geführt haben, zu erschweren oder zu unterbinden, kann der Ausländer auch verpflichtet werden, zu bestimmten Personen oder Personen einer bestimmten Gruppe keinen Kontakt aufzunehmen, mit ihnen nicht zu verkehren, sie nicht zu beschäftigen, auszubilden oder zu beherbergen und bestimmte Kommunikationsmittel oder Dienste nicht zu nutzen, soweit ihm Kommunikationsmittel verbleiben und die Beschränkungen notwendig sind, um eine erhebliche Gefahr für die innere Sicherheit oder für Leib und Leben Dritter abzuwehren.
+
+(5) Die Verpflichtungen nach den Absätzen 1 bis 4 ruhen, wenn sich der Ausländer in Haft befindet. Eine Anordnung nach den Absätzen 3 und 4 ist sofort vollziehbar.
 
 Abschnitt 2 Durchsetzung der Ausreisepflicht
 --------------------------------------------
@@ -2356,7 +2507,7 @@ sich auf richterliche Anordnung in Haft oder in sonstigem öffentlichen Gewahrsa
 innerhalb der ihm gesetzten Ausreisefrist nicht ausgereist ist,
 
 3.  
-nach § 53 oder § 54 ausgewiesen worden ist,
+auf Grund eines besonders schwerwiegenden Ausweisungsinteresses nach § 54 Absatz 1 in Verbindung mit § 53 ausgewiesen worden ist,
 
 4.  
 mittellos ist,
@@ -2398,11 +2549,11 @@ der Aufenthaltstitel nach § 51 Absatz 1 Nummer 3 bis 5 erloschen ist oder
 2.  
 der Ausländer bereits unter Wahrung der Erfordernisse des § 77 auf das Bestehen seiner Ausreisepflicht hingewiesen worden ist.
 
-Die Ausreisefrist kann unter Berücksichtigung der besonderen Umstände des Einzelfalls angemessen verlängert oder für einen längeren Zeitraum festgesetzt werden. § 60a Absatz 2 bleibt unberührt. Die Ausreisefrist wird unterbrochen, wenn die Vollziehbarkeit der Ausreisepflicht oder der Abschiebungsandrohung entfällt.
+Die Ausreisefrist kann unter Berücksichtigung der besonderen Umstände des Einzelfalls angemessen verlängert oder für einen längeren Zeitraum festgesetzt werden. § 60a Absatz 2 bleibt unberührt. Wenn die Vollziehbarkeit der Ausreisepflicht oder der Abschiebungsandrohung entfällt, wird die Ausreisefrist unterbrochen und beginnt nach Wiedereintritt der Vollziehbarkeit erneut zu laufen. Einer erneuten Fristsetzung bedarf es nicht. Nach Ablauf der Frist zur freiwilligen Ausreise darf der Termin der Abschiebung dem Ausländer nicht angekündigt werden.
 
 (2) In der Androhung soll der Staat bezeichnet werden, in den der Ausländer abgeschoben werden soll, und der Ausländer darauf hingewiesen werden, dass er auch in einen anderen Staat abgeschoben werden kann, in den er einreisen darf oder der zu seiner Übernahme verpflichtet ist.
 
-(3) Dem Erlass der Androhung steht das Vorliegen von Abschiebungsverboten nicht entgegen. In der Androhung ist der Staat zu bezeichnen, in den der Ausländer nicht abgeschoben werden darf. Stellt das Verwaltungsgericht das Vorliegen eines Abschiebungsverbots fest, so bleibt die Rechtmäßigkeit der Androhung im Übrigen unberührt.
+(3) Dem Erlass der Androhung steht das Vorliegen von Abschiebungsverboten und Gründen für die vorübergehende Aussetzung der Abschiebung nicht entgegen. In der Androhung ist der Staat zu bezeichnen, in den der Ausländer nicht abgeschoben werden darf. Stellt das Verwaltungsgericht das Vorliegen eines Abschiebungsverbots fest, so bleibt die Rechtmäßigkeit der Androhung im Übrigen unberührt.
 
 (4) Nach dem Eintritt der Unanfechtbarkeit der Abschiebungsandrohung bleiben für weitere Entscheidungen der Ausländerbehörde über die Abschiebung oder die Aussetzung der Abschiebung Umstände unberücksichtigt, die einer Abschiebung in den in der Abschiebungsandrohung bezeichneten Staat entgegenstehen und die vor dem Eintritt der Unanfechtbarkeit der Abschiebungsandrohung eingetreten sind; sonstige von dem Ausländer geltend gemachte Umstände, die der Abschiebung oder der Abschiebung in diesen Staat entgegenstehen, können unberücksichtigt bleiben. Die Vorschriften, nach denen der Ausländer die im Satz 1 bezeichneten Umstände gerichtlich im Wege der Klage oder im Verfahren des vorläufigen Rechtsschutzes nach der Verwaltungsgerichtsordnung geltend machen kann, bleiben unberührt.
 
@@ -2424,9 +2575,9 @@ Die Ausländerbehörde oder eine durch sie beauftragte Stelle unterrichtet den A
 
 ### § 60 Verbot der Abschiebung
 
-(1) In Anwendung des Abkommens vom 28. Juli 1951 über die Rechtsstellung der Flüchtlinge (BGBl. 1953 II S. 559) darf ein Ausländer nicht in einen Staat abgeschoben werden, in dem sein Leben oder seine Freiheit wegen seiner Rasse, Religion, Nationalität, seiner Zugehörigkeit zu einer bestimmten sozialen Gruppe oder wegen seiner politischen Überzeugung bedroht ist. Dies gilt auch für Asylberechtigte und Ausländer, denen die Flüchtlingseigenschaft unanfechtbar zuerkannt wurde oder die aus einem anderen Grund im Bundesgebiet die Rechtsstellung ausländischer Flüchtlinge genießen oder die außerhalb des Bundesgebiets als ausländische Flüchtlinge nach dem Abkommen über die Rechtsstellung der Flüchtlinge anerkannt sind. Wenn der Ausländer sich auf das Abschiebungsverbot nach diesem Absatz beruft, stellt das Bundesamt für Migration und Flüchtlinge außer in den Fällen des Satzes 2 in einem Asylverfahren fest, ob die Voraussetzungen des Satzes 1 vorliegen und dem Ausländer die Flüchtlingseigenschaft zuzuerkennen ist. Die Entscheidung des Bundesamtes kann nur nach den Vorschriften des Asylverfahrensgesetzes angefochten werden.
+(1) In Anwendung des Abkommens vom 28. Juli 1951 über die Rechtsstellung der Flüchtlinge (BGBl. 1953 II S. 559) darf ein Ausländer nicht in einen Staat abgeschoben werden, in dem sein Leben oder seine Freiheit wegen seiner Rasse, Religion, Nationalität, seiner Zugehörigkeit zu einer bestimmten sozialen Gruppe oder wegen seiner politischen Überzeugung bedroht ist. Dies gilt auch für Asylberechtigte und Ausländer, denen die Flüchtlingseigenschaft unanfechtbar zuerkannt wurde oder die aus einem anderen Grund im Bundesgebiet die Rechtsstellung ausländischer Flüchtlinge genießen oder die außerhalb des Bundesgebiets als ausländische Flüchtlinge nach dem Abkommen über die Rechtsstellung der Flüchtlinge anerkannt sind. Wenn der Ausländer sich auf das Abschiebungsverbot nach diesem Absatz beruft, stellt das Bundesamt für Migration und Flüchtlinge außer in den Fällen des Satzes 2 in einem Asylverfahren fest, ob die Voraussetzungen des Satzes 1 vorliegen und dem Ausländer die Flüchtlingseigenschaft zuzuerkennen ist. Die Entscheidung des Bundesamtes kann nur nach den Vorschriften des Asylgesetzes angefochten werden.
 
-(2) Ein Ausländer darf nicht in einen Staat abgeschoben werden, in dem ihm der in § 4 Absatz 1 des Asylverfahrensgesetzes bezeichnete ernsthafte Schaden droht. Absatz 1 Satz 3 und 4 gilt entsprechend.
+(2) Ein Ausländer darf nicht in einen Staat abgeschoben werden, in dem ihm der in § 4 Absatz 1 des Asylgesetzes bezeichnete ernsthafte Schaden droht. Absatz 1 Satz 3 und 4 gilt entsprechend.
 
 (3) Darf ein Ausländer nicht in einen Staat abgeschoben werden, weil dieser Staat den Ausländer wegen einer Straftat sucht und die Gefahr der Verhängung oder der Vollstreckung der Todesstrafe besteht, finden die Vorschriften über die Auslieferung entsprechende Anwendung.
 
@@ -2436,11 +2587,11 @@ Die Ausländerbehörde oder eine durch sie beauftragte Stelle unterrichtet den A
 
 (6) Die allgemeine Gefahr, dass einem Ausländer in einem anderen Staat Strafverfolgung und Bestrafung drohen können und, soweit sich aus den Absätzen 2 bis 5 nicht etwas anderes ergibt, die konkrete Gefahr einer nach der Rechtsordnung eines anderen Staates gesetzmäßigen Bestrafung stehen der Abschiebung nicht entgegen.
 
-(7) Von der Abschiebung eines Ausländers in einen anderen Staat soll abgesehen werden, wenn dort für diesen Ausländer eine erhebliche konkrete Gefahr für Leib, Leben oder Freiheit besteht. Gefahren nach Satz 1, denen die Bevölkerung oder die Bevölkerungsgruppe, der der Ausländer angehört, allgemein ausgesetzt ist, sind bei Anordnungen nach § 60a Abs. 1 Satz 1 zu berücksichtigen.
+(7) Von der Abschiebung eines Ausländers in einen anderen Staat soll abgesehen werden, wenn dort für diesen Ausländer eine erhebliche konkrete Gefahr für Leib, Leben oder Freiheit besteht. Eine erhebliche konkrete Gefahr aus gesundheitlichen Gründen liegt nur vor bei lebensbedrohlichen oder schwerwiegenden Erkrankungen, die sich durch die Abschiebung wesentlich verschlechtern würden. Es ist nicht erforderlich, dass die medizinische Versorgung im Zielstaat mit der Versorgung in der Bundesrepublik Deutschland gleichwertig ist. Eine ausreichende medizinische Versorgung liegt in der Regel auch vor, wenn diese nur in einem Teil des Zielstaats gewährleistet ist. Gefahren nach Satz 1, denen die Bevölkerung oder die Bevölkerungsgruppe, der der Ausländer angehört, allgemein ausgesetzt ist, sind bei Anordnungen nach § 60a Abs. 1 Satz 1 zu berücksichtigen.
 
-(8) Absatz 1 findet keine Anwendung, wenn der Ausländer aus schwerwiegenden Gründen als eine Gefahr für die Sicherheit der Bundesrepublik Deutschland anzusehen ist oder eine Gefahr für die Allgemeinheit bedeutet, weil er wegen eines Verbrechens oder besonders schweren Vergehens rechtskräftig zu einer Freiheitsstrafe von mindestens drei Jahren verurteilt worden ist. Das Gleiche gilt, wenn der Ausländer die Voraussetzungen des § 3 Abs. 2 des Asylverfahrensgesetzes erfüllt.
+(8) Absatz 1 findet keine Anwendung, wenn der Ausländer aus schwerwiegenden Gründen als eine Gefahr für die Sicherheit der Bundesrepublik Deutschland anzusehen ist oder eine Gefahr für die Allgemeinheit bedeutet, weil er wegen eines Verbrechens oder besonders schweren Vergehens rechtskräftig zu einer Freiheitsstrafe von mindestens drei Jahren verurteilt worden ist. Das Gleiche gilt, wenn der Ausländer die Voraussetzungen des § 3 Abs. 2 des Asylgesetzes erfüllt. Von der Anwendung des Absatzes 1 kann abgesehen werden, wenn der Ausländer eine Gefahr für die Allgemeinheit bedeutet, weil er wegen einer oder mehrerer vorsätzlicher Straftaten gegen das Leben, die körperliche Unversehrtheit, die sexuelle Selbstbestimmung, das Eigentum oder wegen Widerstands gegen Vollstreckungsbeamte rechtskräftig zu einer Freiheits- oder Jugendstrafe von mindestens einem Jahr verurteilt worden ist, sofern die Straftat mit Gewalt, unter Anwendung von Drohung mit Gefahr für Leib oder Leben oder mit List begangen worden ist.
 
-(9) In den Fällen des Absatzes 8 kann einem Ausländer, der einen Asylantrag gestellt hat, abweichend von den Vorschriften des Asylverfahrensgesetzes die Abschiebung angedroht und diese durchgeführt werden. Die Absätze 2 bis 7 bleiben unberührt.
+(9) In den Fällen des Absatzes 8 kann einem Ausländer, der einen Asylantrag gestellt hat, abweichend von den Vorschriften des Asylgesetzes die Abschiebung angedroht und diese durchgeführt werden. Die Absätze 2 bis 7 bleiben unberührt.
 
 (10) Soll ein Ausländer abgeschoben werden, bei dem die Voraussetzungen des Absatzes 1 vorliegen, kann nicht davon abgesehen werden, die Abschiebung anzudrohen und eine angemessene Ausreisefrist zu setzen. In der Androhung sind die Staaten zu bezeichnen, in die der Ausländer nicht abgeschoben werden darf.
 
@@ -2448,19 +2599,36 @@ Die Ausländerbehörde oder eine durch sie beauftragte Stelle unterrichtet den A
 
 ### § 60a Vorübergehende Aussetzung der Abschiebung (Duldung)
 
-(1) Die oberste Landesbehörde kann aus völkerrechtlichen oder humanitären Gründen oder zur Wahrung politischer Interessen der Bundesrepublik Deutschland anordnen, dass die Abschiebung von Ausländern aus bestimmten Staaten oder von in sonstiger Weise bestimmten Ausländergruppen allgemein oder in bestimmte Staaten für längstens sechs Monate ausgesetzt wird. Für einen Zeitraum von länger als sechs Monaten gilt § 23 Abs. 1.
+(1) Die oberste Landesbehörde kann aus völkerrechtlichen oder humanitären Gründen oder zur Wahrung politischer Interessen der Bundesrepublik Deutschland anordnen, dass die Abschiebung von Ausländern aus bestimmten Staaten oder von in sonstiger Weise bestimmten Ausländergruppen allgemein oder in bestimmte Staaten für längstens drei Monate ausgesetzt wird. Für einen Zeitraum von länger als sechs Monaten gilt § 23 Abs. 1.
 
-(2) Die Abschiebung eines Ausländers ist auszusetzen, solange die Abschiebung aus tatsächlichen oder rechtlichen Gründen unmöglich ist und keine Aufenthaltserlaubnis erteilt wird. Die Abschiebung eines Ausländers ist auch auszusetzen, wenn seine vorübergehende Anwesenheit im Bundesgebiet für ein Strafverfahren wegen eines Verbrechens von der Staatsanwaltschaft oder dem Strafgericht für sachgerecht erachtet wird, weil ohne seine Angaben die Erforschung des Sachverhalts erschwert wäre. Einem Ausländer kann eine Duldung erteilt werden, wenn dringende humanitäre oder persönliche Gründe oder erhebliche öffentliche Interessen seine vorübergehende weitere Anwesenheit im Bundesgebiet erfordern.
+(2) Die Abschiebung eines Ausländers ist auszusetzen, solange die Abschiebung aus tatsächlichen oder rechtlichen Gründen unmöglich ist und keine Aufenthaltserlaubnis erteilt wird. Die Abschiebung eines Ausländers ist auch auszusetzen, wenn seine vorübergehende Anwesenheit im Bundesgebiet für ein Strafverfahren wegen eines Verbrechens von der Staatsanwaltschaft oder dem Strafgericht für sachgerecht erachtet wird, weil ohne seine Angaben die Erforschung des Sachverhalts erschwert wäre. Einem Ausländer kann eine Duldung erteilt werden, wenn dringende humanitäre oder persönliche Gründe oder erhebliche öffentliche Interessen seine vorübergehende weitere Anwesenheit im Bundesgebiet erfordern. Dringende persönliche Gründe im Sinne von Satz 3 können insbesondere vorliegen, wenn der Ausländer eine qualifizierte Berufsausbildung in Deutschland vor Vollendung des 21. Lebensjahres aufnimmt oder aufgenommen hat und nicht aus einem sicheren Herkunftsstaat nach § 29a des Asylgesetzes stammt. In den Fällen nach Satz 4 kann die Duldung für die Aufnahme einer Berufsausbildung für ein Jahr erteilt werden. Eine nach Satz 4 erteilte Duldung soll unabhängig vom Alter für jeweils ein Jahr verlängert werden, wenn die Berufsausbildung noch fortdauert und in einem angemessenen Zeitraum mit ihrem Abschluss zu rechnen ist.
 
 (2a) Die Abschiebung eines Ausländers wird für eine Woche ausgesetzt, wenn seine Zurückschiebung oder Abschiebung gescheitert ist, Abschiebungshaft nicht angeordnet wird und die Bundesrepublik Deutschland auf Grund einer Rechtsvorschrift, insbesondere des Artikels 6 Abs. 1 der Richtlinie 2003/110/EG des Rates vom 25. November 2003 über die Unterstützung bei der Durchbeförderung im Rahmen von Rückführungsmaßnahmen auf dem Luftweg (ABl. EU Nr. L 321 S. 26), zu seiner Rückübernahme verpflichtet ist. Die Aussetzung darf nicht nach Satz 1 verlängert werden. Die Einreise des Ausländers ist zuzulassen.
 
 (2b) Solange ein Ausländer, der eine Aufenthaltserlaubnis nach § 25a Absatz 1 besitzt, minderjährig ist, soll die Abschiebung seiner Eltern oder eines allein personensorgeberechtigten Elternteils sowie der minderjährigen Kinder, die mit den Eltern oder dem allein personensorgeberechtigten Elternteil in familiärer Lebensgemeinschaft leben, ausgesetzt werden.
+
+(2c) Es wird vermutet, dass der Abschiebung gesundheitliche Gründe nicht entgegenstehen. Der Ausländer muss eine Erkrankung, die die Abschiebung beeinträchtigen kann, durch eine qualifizierte ärztliche Bescheinigung glaubhaft machen. Diese ärztliche Bescheinigung soll insbesondere die tatsächlichen Umstände, auf deren Grundlage eine fachliche Beurteilung erfolgt ist, die Methode der Tatsachenerhebung, die fachlich-medizinische Beurteilung des Krankheitsbildes (Diagnose), den Schweregrad der Erkrankung sowie die Folgen, die sich nach ärztlicher Beurteilung aus der krankheitsbedingten Situation voraussichtlich ergeben, enthalten.
+
+(2d) Der Ausländer ist verpflichtet, der zuständigen Behörde die ärztliche Bescheinigung nach Absatz 2c unverzüglich vorzulegen. Verletzt der Ausländer die Pflicht zur unverzüglichen Vorlage einer solchen ärztlichen Bescheinigung, darf die zuständige Behörde das Vorbringen des Ausländers zu seiner Erkrankung nicht berücksichtigen, es sei denn, der Ausländer war unverschuldet an der Einholung einer solchen Bescheinigung gehindert oder es liegen anderweitig tatsächliche Anhaltspunkte für das Vorliegen einer lebensbedrohlichen oder schwerwiegenden Erkrankung, die sich durch die Abschiebung wesentlich verschlechtern würde, vor. Legt der Ausländer eine Bescheinigung vor und ordnet die Behörde daraufhin eine ärztliche Untersuchung an, ist die Behörde berechtigt, die vorgetragene Erkrankung nicht zu berücksichtigen, wenn der Ausländer der Anordnung ohne zureichenden Grund nicht Folge leistet. Der Ausländer ist auf die Verpflichtungen und auf die Rechtsfolgen einer Verletzung dieser Verpflichtungen nach diesem Absatz hinzuweisen.
 
 (3) Die Ausreisepflicht eines Ausländers, dessen Abschiebung ausgesetzt ist, bleibt unberührt.
 
 (4) Über die Aussetzung der Abschiebung ist dem Ausländer eine Bescheinigung auszustellen.
 
 (5) Die Aussetzung der Abschiebung erlischt mit der Ausreise des Ausländers. Sie wird widerrufen, wenn die der Abschiebung entgegenstehenden Gründe entfallen. Der Ausländer wird unverzüglich nach dem Erlöschen ohne erneute Androhung und Fristsetzung abgeschoben, es sei denn, die Aussetzung wird erneuert. Ist die Abschiebung länger als ein Jahr ausgesetzt, ist die durch Widerruf vorgesehene Abschiebung mindestens einen Monat vorher anzukündigen; die Ankündigung ist zu wiederholen, wenn die Aussetzung für mehr als ein Jahr erneuert wurde.
+
+(6) Einem Ausländer, der eine Duldung besitzt, darf die Ausübung einer Erwerbstätigkeit nicht erlaubt werden, wenn
+
+1.  
+er sich in das Inland begeben hat, um Leistungen nach dem Asylbewerberleistungsgesetz zu erlangen,
+
+2.  
+aufenthaltsbeendende Maßnahmen bei ihm aus Gründen, die er selbst zu vertreten hat, nicht vollzogen werden können oder
+
+3.  
+er Staatsangehöriger eines sicheren Herkunftsstaates nach § 29a des Asylgesetzes ist und sein nach dem 31. August 2015 gestellter Asylantrag abgelehnt wurde.
+
+Zu vertreten hat ein Ausländer die Gründe nach Satz 1 Nummer 2 insbesondere, wenn er das Abschiebungshindernis durch eigene Täuschung über seine Identität oder Staatsangehörigkeit oder durch eigene falsche Angaben selbst herbeiführt.
 
 ### § 61 Räumliche Beschränkung, Wohnsitzauflage, Ausreiseeinrichtungen
 
@@ -2511,11 +2679,13 @@ er aus von ihm zu vertretenden Gründen zu einem für die Abschiebung angekündi
 er sich in sonstiger Weise der Abschiebung entzogen hat oder
 
 5.  
-der begründete Verdacht besteht, dass er sich der Abschiebung entziehen will.
+im Einzelfall Gründe vorliegen, die auf den in § 2 Absatz 14 festgelegten Anhaltspunkten beruhen und deshalb der begründete Verdacht besteht, dass er sich der Abschiebung durch Flucht entziehen will (Fluchtgefahr).
 
-Der Ausländer kann für die Dauer von längstens zwei Wochen in Sicherungshaft genommen werden, wenn die Ausreisefrist abgelaufen ist und feststeht, dass die Abschiebung durchgeführt werden kann. Von der Anordnung der Sicherungshaft nach Satz 1 Nr. 1 kann ausnahmsweise abgesehen werden, wenn der Ausländer glaubhaft macht, dass er sich der Abschiebung nicht entziehen will. Die Sicherungshaft ist unzulässig, wenn feststeht, dass aus Gründen, die der Ausländer nicht zu vertreten hat, die Abschiebung nicht innerhalb der nächsten drei Monate durchgeführt werden kann. Ist die Abschiebung aus Gründen, die der Ausländer zu vertreten hat, gescheitert, bleibt die Anordnung nach Satz 1 bis zum Ablauf der Anordnungsfrist unberührt.
+Von der Anordnung der Sicherungshaft nach Satz 1 Nr. 1 kann ausnahmsweise abgesehen werden, wenn der Ausländer glaubhaft macht, dass er sich der Abschiebung nicht entziehen will. Die Sicherungshaft ist unzulässig, wenn feststeht, dass aus Gründen, die der Ausländer nicht zu vertreten hat, die Abschiebung nicht innerhalb der nächsten drei Monate durchgeführt werden kann.
 
 (4) Die Sicherungshaft kann bis zu sechs Monaten angeordnet werden. Sie kann in Fällen, in denen der Ausländer seine Abschiebung verhindert, um höchstens zwölf Monate verlängert werden. Eine Vorbereitungshaft ist auf die Gesamtdauer der Sicherungshaft anzurechnen.
+
+(4a) Ist die Abschiebung gescheitert, bleibt die Anordnung bis zum Ablauf der Anordnungsfrist unberührt, sofern die Voraussetzungen für die Haftanordnung unverändert fortbestehen.
 
 (5) Die für den Haftantrag zuständige Behörde kann einen Ausländer ohne vorherige richterliche Anordnung festhalten und vorläufig in Gewahrsam nehmen, wenn
 
@@ -2532,15 +2702,31 @@ Der Ausländer ist unverzüglich dem Richter zur Entscheidung über die Anordnun
 
 ### § 62a Vollzug der Abschiebungshaft
 
-(1) Die Abschiebungshaft wird grundsätzlich in speziellen Hafteinrichtungen vollzogen. Sind spezielle Hafteinrichtungen im Land nicht vorhanden, kann sie in diesem Land in sonstigen Haftanstalten vollzogen werden; die Abschiebungsgefangenen sind in diesem Fall getrennt von Strafgefangenen unterzubringen. Werden mehrere Angehörige einer Familie inhaftiert, so sind diese getrennt von den übrigen Abschiebungsgefangenen unterzubringen. Ihnen ist ein angemessenes Maß an Privatsphäre zu gewährleisten.
+(1) Die Abschiebungshaft wird grundsätzlich in speziellen Hafteinrichtungen vollzogen. Sind spezielle Hafteinrichtungen im Bundesgebiet nicht vorhanden, kann sie in sonstigen Haftanstalten vollzogen werden; die Abschiebungsgefangenen sind in diesem Fall getrennt von Strafgefangenen unterzubringen. Werden mehrere Angehörige einer Familie inhaftiert, so sind diese getrennt von den übrigen Abschiebungsgefangenen unterzubringen. Ihnen ist ein angemessenes Maß an Privatsphäre zu gewährleisten.
 
-(2) Den Abschiebungsgefangenen wird gestattet, mit Rechtsvertretern, Familienangehörigen und den zuständigen Konsularbehörden Kontakt aufzunehmen.
+(2) Den Abschiebungsgefangenen wird gestattet, mit Rechtsvertretern, Familienangehörigen, den zuständigen Konsularbehörden und einschlägig tätigen Hilfs- und Unterstützungsorganisationen Kontakt aufzunehmen.
 
-(3) Bei minderjährigen Abschiebungsgefangenen sind unter Beachtung der Maßgaben in Artikel 17 der Richtlinie 2008/115/EG des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über gemeinsame Normen und Verfahren in den Mitgliedstaaten zur Rückführung illegal aufhältiger Drittstaatsangehöriger (ABl. L 348 vom 24.12.2008, S. 98) alterstypische Belange zu berücksichtigen.
+(3) Bei minderjährigen Abschiebungsgefangenen sind unter Beachtung der Maßgaben in Artikel 17 der Richtlinie 2008/115/EG des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über gemeinsame Normen und Verfahren in den Mitgliedstaaten zur Rückführung illegal aufhältiger Drittstaatsangehöriger (ABl. L 348 vom 24.12.2008, S. 98) alterstypische Belange zu berücksichtigen. Der Situation schutzbedürftiger Personen ist besondere Aufmerksamkeit zu widmen.
 
-(4) Mitarbeitern von einschlägig tätigen Hilfs- und Unterstützungsorganisationen soll auf Antrag gestattet werden, Abschiebungsgefangene auf deren Wunsch hin zu besuchen.
+(4) Mitarbeitern von einschlägig tätigen Hilfs- und Unterstützungsorganisationen soll auf Antrag gestattet werden, Abschiebungsgefangene zu besuchen.
 
 (5) Abschiebungsgefangene sind über ihre Rechte und Pflichten und über die in der Einrichtung geltenden Regeln zu informieren.
+
+### § 62b Ausreisegewahrsam
+
+(1) Unabhängig von den Voraussetzungen der Sicherungshaft nach § 62 Absatz 3 kann ein Ausländer zur Sicherung der Durchführbarkeit der Abschiebung auf richterliche Anordnung für die Dauer von längstens vier Tagen in Gewahrsam genommen werden, wenn
+
+1.  
+die Ausreisefrist abgelaufen ist, es sei denn, der Ausländer ist unverschuldet an der Ausreise gehindert oder die Überschreitung der Ausreisefrist ist nicht erheblich und
+
+2.  
+der Ausländer ein Verhalten gezeigt hat, das erwarten lässt, dass er die Abschiebung erschweren oder vereiteln wird, indem er fortgesetzt seine gesetzlichen Mitwirkungspflichten verletzt hat oder über seine Identität oder Staatsangehörigkeit getäuscht hat (Ausreisegewahrsam).
+
+Von der Anordnung des Ausreisegewahrsams ist abzusehen, wenn der Ausländer glaubhaft macht oder wenn offensichtlich ist, dass er sich der Abschiebung nicht entziehen will. Der Ausreisegewahrsam ist unzulässig, wenn feststeht, dass die Abschiebung nicht innerhalb der Anordnungsfrist nach Satz 1 durchgeführt werden kann.
+
+(2) Der Ausreisegewahrsam wird im Transitbereich eines Flughafens oder in einer Unterkunft vollzogen, von wo aus die Ausreise des Ausländers möglich ist.
+
+(3) § 62 Absatz 1 und 4a und § 62a finden entsprechend Anwendung.
 
 Kapitel 6 Haftung und Gebühren
 ------------------------------
@@ -2551,9 +2737,9 @@ Kapitel 6 Haftung und Gebühren
 
 (1) Ein Beförderungsunternehmer darf Ausländer nur in das Bundesgebiet befördern, wenn sie im Besitz eines erforderlichen Passes und eines erforderlichen Aufenthaltstitels sind.
 
-(2) Das Bundesministerium des Innern oder die von ihm bestimmte Stelle kann im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung einem Beförderungsunternehmer untersagen, Ausländer entgegen Absatz 1 in das Bundesgebiet zu befördern und für den Fall der Zuwiderhandlung ein Zwangsgeld androhen. Widerspruch und Klage haben keine aufschiebende Wirkung; dies gilt auch hinsichtlich der Festsetzung des Zwangsgeldes.
+(2) Das Bundesministerium des Innern oder die von ihm bestimmte Stelle kann im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur einem Beförderungsunternehmer untersagen, Ausländer entgegen Absatz 1 in das Bundesgebiet zu befördern und für den Fall der Zuwiderhandlung ein Zwangsgeld androhen. Widerspruch und Klage haben keine aufschiebende Wirkung; dies gilt auch hinsichtlich der Festsetzung des Zwangsgeldes.
 
-(3) Das Zwangsgeld gegen den Beförderungsunternehmer beträgt für jeden Ausländer, den er einer Verfügung nach Absatz 2 zuwider befördert, mindestens 1.000 und höchstens 5.000 Euro. Das Zwangsgeld kann durch das Bundesministerium des Innern oder die von ihm bestimmte Stelle festgesetzt und beigetrieben werden.
+(3) Das Zwangsgeld gegen den Beförderungsunternehmer beträgt für jeden Ausländer, den er einer Verfügung nach Absatz 2 zuwider befördert, mindestens 1 000 und höchstens 5 000 Euro. Das Zwangsgeld kann durch das Bundesministerium des Innern oder die von ihm bestimmte Stelle festgesetzt und beigetrieben werden.
 
 (4) Das Bundesministerium des Innern oder die von ihm bestimmte Stelle kann mit Beförderungsunternehmern Regelungen zur Umsetzung der in Absatz 1 genannten Pflicht vereinbaren.
 
@@ -2561,7 +2747,7 @@ Kapitel 6 Haftung und Gebühren
 
 (1) Wird ein Ausländer zurückgewiesen, so hat ihn der Beförderungsunternehmer, der ihn an die Grenze befördert hat, unverzüglich außer Landes zu bringen.
 
-(2) Die Verpflichtung nach Absatz 1 besteht für die Dauer von drei Jahren hinsichtlich der Ausländer, die ohne erforderlichen Pass, Passersatz oder erforderlichen Aufenthaltstitel in das Bundesgebiet befördert werden und die bei der Einreise nicht zurückgewiesen werden, weil sie sich auf politische Verfolgung, Verfolgung im Sinne des § 3 Absatz 1 des Asylverfahrensgesetzes oder die Gefahr eines ernsthaften Schadens im Sinne des § 4 Absatz 1 des Asylverfahrensgesetzes oder die in § 60 Abs. 2, 3, 5 oder Abs. 7 bezeichneten Umstände berufen. Sie erlischt, wenn dem Ausländer ein Aufenthaltstitel nach diesem Gesetz erteilt wird.
+(2) Die Verpflichtung nach Absatz 1 besteht für die Dauer von drei Jahren hinsichtlich der Ausländer, die ohne erforderlichen Pass, Passersatz oder erforderlichen Aufenthaltstitel in das Bundesgebiet befördert werden und die bei der Einreise nicht zurückgewiesen werden, weil sie sich auf politische Verfolgung, Verfolgung im Sinne des § 3 Absatz 1 des Asylgesetzes oder die Gefahr eines ernsthaften Schadens im Sinne des § 4 Absatz 1 des Asylgesetzes oder die in § 60 Abs. 2, 3, 5 oder Abs. 7 bezeichneten Umstände berufen. Sie erlischt, wenn dem Ausländer ein Aufenthaltstitel nach diesem Gesetz erteilt wird.
 
 (3) Der Beförderungsunternehmer hat den Ausländer auf Verlangen der mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden in den Staat, der das Reisedokument ausgestellt hat oder aus dem er befördert wurde, oder in einen sonstigen Staat zu bringen, in dem seine Einreise gewährleistet ist.
 
@@ -2713,7 +2899,7 @@ Abschnitt 1 Zuständigkeiten
 (3) Die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden sind zuständig für
 
 1.  
-die Zurückweisung und die Zurückschiebung an der Grenze,
+die Zurückweisung und die Zurückschiebung an der Grenze, einschließlich der Überstellung von Drittstaatsangehörigen auf Grundlage der Verordnung (EU) Nr. 604/2013, wenn der Ausländer von der Grenzbehörde im grenznahen Raum in unmittelbarem zeitlichen Zusammenhang mit einer unerlaubten Einreise angetroffen wird,
 
 1a.  
 Abschiebungen an der Grenze, sofern der Ausländer bei oder nach der unerlaubten Einreise über eine Grenze im Sinne des Artikels 2 Nummer 1 der Verordnung (EG) Nr. 562/2006 (Binnengrenze) aufgegriffen wird,
@@ -2722,7 +2908,7 @@ Abschiebungen an der Grenze, sofern der Ausländer bei oder nach der unerlaubten
 Abschiebungen an der Grenze, sofern der Ausländer bereits unerlaubt eingereist ist, sich danach weiter fortbewegt hat und in einem anderen Grenzraum oder auf einem als Grenzübergangsstelle zugelassenen oder nicht zugelassenen Flughafen, Flug- oder Landeplatz oder See- oder Binnenhafen aufgegriffen wird,
 
 1c.  
-die Befristung der Wirkungen auf Grund der von ihnen vorgenommenen Ab- und Zurückschiebungen nach § 11 Absatz 1 und 2,
+die Befristung der Wirkungen auf Grund der von ihnen vorgenommenen Ab- und Zurückschiebungen nach § 11 Absatz 2, 4 und 8,
 
 1d.  
 die Rückführungen von Ausländern aus anderen und in andere Staaten und
@@ -2755,12 +2941,12 @@ die Prüfung an der Grenze, ob Beförderungsunternehmer und sonstige Dritte die 
 sonstige ausländerrechtliche Maßnahmen und Entscheidungen, soweit sich deren Notwendigkeit an der Grenze ergibt und sie vom Bundesministerium des Innern hierzu allgemein oder im Einzelfall ermächtigt sind,
 
 7.  
-die Beschaffung von Heimreisedokumenten für Ausländer einzelner Staaten im Wege der Amtshilfe,
+die Beschaffung von Heimreisedokumenten für Ausländer im Wege der Amtshilfe,
 
 8.  
 die Erteilung von in Rechtsvorschriften der Europäischen Union vorgesehenen Vermerken und Bescheinigungen vom Datum und Ort der Einreise über die Außengrenze eines Mitgliedstaates, der den Schengen-Besitzstand vollständig anwendet; die Zuständigkeit der Ausländerbehörden oder anderer durch die Länder bestimmter Stellen wird hierdurch nicht ausgeschlossen.
 
-(4) Für die erforderlichen Maßnahmen nach den §§ 48 und 49 Abs. 2 bis 9 sind die Ausländerbehörden, die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden und, soweit es zur Erfüllung ihrer Aufgaben nach Absatz 5 erforderlich ist, die Polizeien der Länder zuständig. In den Fällen des § 49 Abs. 4 sind auch die Behörden zuständig, die die Verteilung nach § 15a veranlassen. In den Fällen des § 49 Abs. 5 Nr. 5 sind die vom Auswärtigen Amt ermächtigten Auslandsvertretungen zuständig.
+(4) Für die erforderlichen Maßnahmen nach den §§ 48, 48a und 49 Absatz 2 bis 9 sind die Ausländerbehörden, die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden und die Polizeien der Länder zuständig. In den Fällen des § 49 Abs. 4 sind auch die Behörden zuständig, die die Verteilung nach § 15a veranlassen. In den Fällen des § 49 Abs. 5 Nr. 5 sind die vom Auswärtigen Amt ermächtigten Auslandsvertretungen zuständig.
 
 (5) Für die Zurückschiebung sowie die Durchsetzung der Verlassenspflicht des § 12 Abs. 3 und die Durchführung der Abschiebung und, soweit es zur Vorbereitung und Sicherung dieser Maßnahmen erforderlich ist, die Festnahme und Beantragung der Haft sind auch die Polizeien der Länder zuständig.
 
@@ -2776,19 +2962,19 @@ die Erteilung von in Rechtsvorschriften der Europäischen Union vorgesehenen Ver
 
 ### § 72 Beteiligungserfordernisse
 
-(1) Eine Betretenserlaubnis (§ 11 Abs. 2) darf nur mit Zustimmung der für den vorgesehenen Aufenthaltsort zuständigen Ausländerbehörde erteilt werden. Die Behörde, die den Ausländer ausgewiesen, abgeschoben oder zurückgeschoben hat, ist in der Regel zu beteiligen.
+(1) Eine Betretenserlaubnis (§ 11 Absatz 8) darf nur mit Zustimmung der für den vorgesehenen Aufenthaltsort zuständigen Ausländerbehörde erteilt werden. Die Behörde, die den Ausländer ausgewiesen, abgeschoben oder zurückgeschoben hat, ist in der Regel zu beteiligen.
 
 (2) Über das Vorliegen eines zielstaatsbezogenen Abschiebungsverbots nach § 60 Absatz 5 oder 7 und das Vorliegen eines Ausschlusstatbestandes nach § 25 Abs. 3 Satz 2 Nummer 1 bis 4 entscheidet die Ausländerbehörde nur nach vorheriger Beteiligung des Bundesamtes für Migration und Flüchtlinge.
 
-(3) Räumliche Beschränkungen, Auflagen und Bedingungen, Befristungen nach § 11 Abs. 1 Satz 3, Anordnungen nach § 47 und sonstige Maßnahmen gegen einen Ausländer, der nicht im Besitz eines erforderlichen Aufenthaltstitels ist, dürfen von einer anderen Behörde nur im Einvernehmen mit der Behörde geändert oder aufgehoben werden, die die Maßnahme angeordnet hat. Satz 1 findet keine Anwendung, wenn der Aufenthalt des Ausländers nach den Vorschriften des Asylverfahrensgesetzes auf den Bezirk der anderen Ausländerbehörde beschränkt ist.
+(3) Räumliche Beschränkungen, Auflagen und Bedingungen, Befristungen nach 11 Absatz 2 Satz 1, Anordnungen nach § 47 und sonstige Maßnahmen gegen einen Ausländer, der nicht im Besitz eines erforderlichen Aufenthaltstitels ist, dürfen von einer anderen Behörde nur im Einvernehmen mit der Behörde geändert oder aufgehoben werden, die die Maßnahme angeordnet hat. Satz 1 findet keine Anwendung, wenn der Aufenthalt des Ausländers nach den Vorschriften des Asylgesetzes auf den Bezirk der anderen Ausländerbehörde beschränkt ist.
 
-(4) Ein Ausländer, gegen den öffentliche Klage erhoben oder ein strafrechtliches Ermittlungsverfahren eingeleitet ist, darf nur im Einvernehmen mit der zuständigen Staatsanwaltschaft ausgewiesen und abgeschoben werden. Ein Ausländer, der zu schützende Person im Sinne des Zeugenschutz-Harmonisierungsgesetzes ist, darf nur im Einvernehmen mit der Zeugenschutzdienststelle ausgewiesen oder abgeschoben werden.
+(4) Ein Ausländer, gegen den öffentliche Klage erhoben oder ein strafrechtliches Ermittlungsverfahren eingeleitet ist, darf nur im Einvernehmen mit der zuständigen Staatsanwaltschaft ausgewiesen und abgeschoben werden. Ein Ausländer, der zu schützende Person im Sinne des Zeugenschutz-Harmonisierungsgesetzes ist, darf nur im Einvernehmen mit der Zeugenschutzdienststelle ausgewiesen oder abgeschoben werden. Des Einvernehmens der Staatsanwaltschaft nach Satz 1 bedarf es nicht, wenn nur ein geringes Strafverfolgungsinteresse besteht. Dies ist der Fall, wenn die Erhebung der öffentlichen Klage oder die Einleitung eines Ermittlungsverfahrens wegen einer Straftat nach § 95 dieses Gesetzes oder nach § 9 des Gesetzes über die allgemeine Freizügigkeit von Unionsbürgern und begleitender Straftaten nach dem Strafgesetzbuch mit geringem Unrechtsgehalt erfolgt ist. Insoweit sind begleitende Straftaten mit geringem Unrechtsgehalt Straftaten nach § 113 Absatz 1, den §§ 123, 185, 223, 242, 263 Absatz 1, 2 und 4, den §§ 265a, 267 Absatz 1 und 2, § 271 Absatz 1, 2 und 4, den §§ 273, 274, 281, 303 des Strafgesetzbuches, es sei denn, diese Strafgesetze werden durch verschiedene Handlungen mehrmals verletzt oder es wird ein Strafantrag gestellt.
 
 (5) § 45 des Achten Buches Sozialgesetzbuch gilt nicht für Ausreiseeinrichtungen und Einrichtungen, die der vorübergehenden Unterbringung von Ausländern dienen, denen aus völkerrechtlichen, humanitären oder politischen Gründen eine Aufenthaltserlaubnis erteilt oder bei denen die Abschiebung ausgesetzt wird.
 
 (6) Vor einer Entscheidung über die Erteilung, die Verlängerung oder den Widerruf eines Aufenthaltstitels nach § 25 Abs. 4a oder 4b und die Festlegung, Aufhebung oder Verkürzung einer Ausreisefrist nach § 59 Absatz 7 ist die für das in § 25 Abs. 4a oder 4b in Bezug genommene Strafverfahren zuständige Staatsanwaltschaft oder das mit ihm befasste Strafgericht zu beteiligen, es sei denn, es liegt ein Fall des § 87 Abs. 5 Nr. 1 vor. Sofern der Ausländerbehörde die zuständige Staatsanwaltschaft noch nicht bekannt ist, beteiligt sie vor einer Entscheidung über die Festlegung, Aufhebung oder Verkürzung einer Ausreisefrist nach § 59 Absatz 7 die für den Aufenthaltsort zuständige Polizeibehörde.
 
-(7) Zur Prüfung des Vorliegens der Voraussetzungen der §§ 18, 18b, 19 und 19a kann die Ausländerbehörde die Bundesagentur für Arbeit auch dann beteiligen, wenn sie deren Zustimmung nicht bedarf.
+(7) Zur Prüfung des Vorliegens der Voraussetzungen der §§ 17a, 18, 18b, 19 und 19a kann die Ausländerbehörde die Bundesagentur für Arbeit auch dann beteiligen, wenn sie deren Zustimmung nicht bedarf.
 
 ### § 72a Abgleich von Visumantragsdaten zu Sicherheitszwecken
 
@@ -2824,21 +3010,41 @@ Die Daten der in Satz 1 genannten Personen werden nach Kennzeichnung durch die B
 
 (9) Die Daten nach Absatz 2 Satz 2 werden berichtigt, wenn sie in der Antiterrordatei berichtigt werden. Sie werden gelöscht, wenn die Voraussetzungen ihrer Speicherung nach Absatz 2 Satz 1 entfallen sind oder die Daten in der Antiterrordatei gelöscht wurden. Für die Prüfung des weiteren Vorliegens der Voraussetzungen für die Speicherung der Daten nach Absatz 2 Satz 2 gilt § 11 Absatz 4 des Antiterrordateigesetzes entsprechend.
 
-### § 73 Sonstige Beteiligungserfordernisse im Visumverfahren und bei der Erteilung von Aufenthaltstiteln
+### § 73 Sonstige Beteiligungserfordernisse im Visumverfahren, im Registrier- und Asylverfahren und bei der Erteilung von Aufenthaltstiteln
 
-(1) Daten, die im Visumverfahren von der deutschen Auslandsvertretung oder von der für die Entgegennahme des Visumantrags zuständigen Auslandsvertretung eines anderen Schengen-Staates zur visumantragstellenden Person, zum Einlader und zu Personen, die durch Abgabe einer Verpflichtungserklärung oder in anderer Weise die Sicherung des Lebensunterhalts garantieren, oder zu sonstigen Referenzpersonen im Inland erhoben werden, können über die zuständige Stelle zur Feststellung von Versagungsgründen nach § 5 Abs. 4 oder zur Prüfung von sonstigen Sicherheitsbedenken an den Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, den Militärischen Abschirmdienst, das Bundeskriminalamt und das Zollkriminalamt übermittelt werden. Das Verfahren nach § 21 des Ausländerzentralregistergesetzes bleibt unberührt. In den Fällen des § 14 Abs. 2 kann die jeweilige mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörde die im Visumverfahren erhobenen Daten an die in Satz 1 genannten Behörden übermitteln.
+(1) Daten, die im Visumverfahren von der deutschen Auslandsvertretung oder von der für die Entgegennahme des Visumantrags zuständigen Auslandsvertretung eines anderen Schengen-Staates zur visumantragstellenden Person, zum Einlader und zu Personen, die durch Abgabe einer Verpflichtungserklärung oder in anderer Weise die Sicherung des Lebensunterhalts garantieren, oder zu sonstigen Referenzpersonen im Inland erhoben werden, können über das Bundesverwaltungsamt zur Feststellung von Versagungsgründen nach § 5 Abs. 4 oder zur Prüfung von sonstigen Sicherheitsbedenken an den Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, den Militärischen Abschirmdienst, das Bundeskriminalamt und das Zollkriminalamt übermittelt werden. Das Verfahren nach § 21 des Ausländerzentralregistergesetzes bleibt unberührt. In den Fällen des § 14 Abs. 2 kann die jeweilige mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörde die im Visumverfahren erhobenen Daten an die in Satz 1 genannten Behörden übermitteln.
 
-(2) Die Ausländerbehörden können zur Feststellung von Versagungsgründen gemäß § 5 Abs. 4 oder zur Prüfung von sonstigen Sicherheitsbedenken vor der Erteilung oder Verlängerung eines Aufenthaltstitels oder einer Duldung oder Aufenthaltsgestattung die bei ihnen gespeicherten personenbezogenen Daten zu den betroffenen Personen über das Bundesverwaltungsamt an den Bundesnachrichtendienst, den Militärischen Abschirmdienst, das Bundeskriminalamt und das Zollkriminalamt sowie an das Landesamt für Verfassungsschutz und das Landeskriminalamt oder die zuständigen Behörden der Polizei übermitteln. Das Bundesamt für Verfassungsschutz kann bei Übermittlungen an die Landesämter für Verfassungsschutz technische Unterstützung leisten.
+(1a) Daten, die zur Sicherung, Feststellung und Überprüfung der Identität nach § 16 Absatz 1 Satz 1 des Asylgesetzes und § 49 zu Personen im Sinne des § 2 Absatz 1a des AZR-Gesetzes erhoben werden, können über das Bundesverwaltungsamt zur Feststellung von Versagungsgründen nach § 3 Absatz 2, § 4 Absatz 2 des Asylgesetzes, § 60 Absatz 8 Satz 1 sowie § 5 Absatz 4 oder zur Prüfung von sonstigen Sicherheitsbedenken an den Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, den Militärischen Abschirmdienst, das Bundeskriminalamt und das Zollkriminalamt übermittelt werden. Zu diesen Zwecken ist auch ein Abgleich mit weiteren Datenbeständen beim Bundesverwaltungsamt zulässig.
 
-(3) Die in den Absätzen 1 und 2 genannten Sicherheitsbehörden und Nachrichtendienste teilen der zuständigen Stelle unverzüglich mit, ob Versagungsgründe nach § 5 Abs. 4 oder sonstige Sicherheitsbedenken vorliegen; bei der Übermittlung von Mitteilungen der Landesämter für Verfassungsschutz zu Anfragen der Ausländerbehörden nach Absatz 2 kann das Bundesamt für Verfassungsschutz technische Unterstützung leisten. Die deutschen Auslandsvertretungen und Ausländerbehörden übermitteln den in Satz 1 genannten Sicherheitsbehörden und Nachrichtendiensten unverzüglich die Gültigkeitsdauer der erteilten und verlängerten Aufenthaltstitel; werden den in Satz 1 genannten Behörden während des Gültigkeitszeitraums des Aufenthaltstitels Versagungsgründe nach § 5 Abs. 4 oder sonstige Sicherheitsbedenken bekannt, teilen sie dies der zuständigen Ausländerbehörde oder der zuständigen Auslandsvertretung unverzüglich mit. Die in Satz 1 genannten Behörden dürfen die übermittelten Daten speichern und nutzen, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Übermittlungsregelungen nach anderen Gesetzen bleiben unberührt.
+(2) Die Ausländerbehörden können zur Feststellung von Versagungsgründen gemäß § 5 Abs. 4 oder zur Prüfung von sonstigen Sicherheitsbedenken vor der Erteilung oder Verlängerung eines Aufenthaltstitels oder einer Duldung oder Aufenthaltsgestattung die bei ihnen gespeicherten personenbezogenen Daten zu den betroffenen Personen über das Bundesverwaltungsamt an den Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, den Militärischen Abschirmdienst, das Bundeskriminalamt und das Zollkriminalamt sowie an das Landesamt für Verfassungsschutz und das Landeskriminalamt oder die zuständigen Behörden der Polizei übermitteln. Das Bundesamt für Verfassungsschutz kann bei Übermittlungen an die Landesämter für Verfassungsschutz technische Unterstützung leisten.
 
-(4) Das Bundesministerium des Innern bestimmt im Einvernehmen mit dem Auswärtigen Amt und unter Berücksichtigung der aktuellen Sicherheitslage durch allgemeine Verwaltungsvorschrift, in welchen Fällen gegenüber Staatsangehörigen bestimmter Staaten sowie Angehörigen von in sonstiger Weise bestimmten Personengruppen von der Ermächtigung des Absatzes 1 Gebrauch gemacht wird.
+(3) Die in den Absätzen 1 und 2 genannten Sicherheitsbehörden und Nachrichtendienste teilen dem Bundesverwaltungsamt unverzüglich mit, ob Versagungsgründe nach § 5 Abs. 4 oder sonstige Sicherheitsbedenken vorliegen; bei der Übermittlung von Mitteilungen der Landesämter für Verfassungsschutz zu Anfragen der Ausländerbehörden nach Absatz 2 kann das Bundesamt für Verfassungsschutz technische Unterstützung leisten. Die deutschen Auslandsvertretungen und Ausländerbehörden übermitteln den in Satz 1 genannten Sicherheitsbehörden und Nachrichtendiensten unverzüglich die Gültigkeitsdauer der erteilten und verlängerten Aufenthaltstitel; werden den in Satz 1 genannten Behörden während des Gültigkeitszeitraums des Aufenthaltstitels Versagungsgründe nach § 5 Abs. 4 oder sonstige Sicherheitsbedenken bekannt, teilen sie dies der zuständigen Ausländerbehörde oder der zuständigen Auslandsvertretung unverzüglich mit. Die in Satz 1 genannten Behörden dürfen die übermittelten Daten speichern und nutzen, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Übermittlungsregelungen nach anderen Gesetzen bleiben unberührt.
+
+(3a) Die in Absatz 1a genannten Sicherheitsbehörden und Nachrichtendienste teilen dem Bundesverwaltungsamt unverzüglich mit, ob Versagungsgründe nach § 3 Absatz 2, § 4 Absatz 2 des Asylgesetzes, § 60 Absatz 8 Satz 1 sowie nach § 5 Absatz 4 oder sonstige Sicherheitsbedenken vorliegen. Das Bundesverwaltungsamt stellt den für das Asylverfahren sowie für aufenthaltsrechtliche Entscheidungen zuständigen Behörden diese Information umgehend zur Verfügung. Die infolge der Übermittlung nach Absatz 1a und den Sätzen 1 und 2 erforderlichen weiteren Übermittlungen zwischen den in Satz 1 genannten Behörden und den für das Asylverfahren sowie für die aufenthaltsrechtlichen Entscheidungen zuständigen Behörden dürfen über das Bundesverwaltungsamt erfolgen. Die in Satz 1 genannten Behörden dürfen die ihnen übermittelten Daten speichern und nutzen, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Das Bundesverwaltungsamt speichert die übermittelten Daten, solange es für Zwecke des Sicherheitsabgleiches erforderlich ist. Übermittlungsregelungen nach anderen Gesetzen bleiben unberührt.
+
+(4) Das Bundesministerium des Innern bestimmt im Einvernehmen mit dem Auswärtigen Amt und unter Berücksichtigung der aktuellen Sicherheitslage durch allgemeine Verwaltungsvorschriften, in welchen Fällen gegenüber Staatsangehörigen bestimmter Staaten sowie Angehörigen von in sonstiger Weise bestimmten Personengruppen von der Ermächtigung der Absätze 1 und 1a Gebrauch gemacht wird.
 
 ### § 73a Unterrichtung über die Erteilung von Visa
 
 (1) Unterrichtungen der anderen Schengen-Staaten über erteilte Visa gemäß Artikel 31 der Verordnung (EG) Nr. 810/2009 können über die zuständige Stelle an den Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, den Militärischen Abschirmdienst, das Bundeskriminalamt und das Zollkriminalamt zur Prüfung übermittelt werden, ob der Einreise und dem Aufenthalt des Visuminhabers die in § 5 Absatz 4 genannten Gründe oder sonstige Sicherheitsbedenken entgegenstehen. Unterrichtungen der deutschen Auslandsvertretungen über erteilte Visa, deren Erteilung nicht bereits eine Datenübermittlung gemäß § 73 Absatz 1 vorangegangen ist, können zu dem in Satz 1 genannten Zweck über die zuständige Stelle an die in Satz 1 genannten Behörden übermittelt werden; Daten zu anderen Personen als dem Visuminhaber werden nicht übermittelt. § 73 Absatz 3 Satz 3 und 4 gilt entsprechend.
 
 (2) Das Bundesministerium des Innern bestimmt im Benehmen mit dem Auswärtigen Amt und unter Berücksichtigung der aktuellen Sicherheitslage durch allgemeine Verwaltungsvorschrift, in welchen Fällen gegenüber Staatsangehörigen bestimmter Staaten sowie Angehörigen von in sonstiger Weise bestimmten Personengruppen von der Ermächtigung des Absatzes 1 Gebrauch gemacht wird.
+
+### § 73b Überprüfung der Zuverlässigkeit von im Visumverfahren tätigen Personen und Organisationen
+
+(1) Das Auswärtige Amt überprüft die Zuverlässigkeit von Personen auf Sicherheitsbedenken, denen im Visumverfahren die Erfüllung einer oder mehrerer Aufgaben, insbesondere die Erfassung der biometrischen Identifikatoren, anvertraut ist oder werden soll und die nicht entsandte Angehörige des Auswärtigen Dienstes sind (Betroffene). Anlassbezogen und in regelmäßigen Abständen unterzieht das Auswärtige Amt die Zuverlässigkeit des in Satz 1 genannten Personenkreises einer Wiederholungsprüfung. Die Überprüfung der Zuverlässigkeit erfolgt nach vorheriger schriftlicher Zustimmung des Betroffenen.
+
+(2) Zur Überprüfung der Zuverlässigkeit erhebt die deutsche Auslandsvertretung Namen, Vornamen, Geburtsnamen und sonstige Namen, Geschlecht, Geburtsdatum und -ort, Staatsangehörigkeit, Wohnsitz und Angaben zum Identitätsdokument (insbesondere Art und Nummer) des Betroffenen und übermittelt diese über das Auswärtige Amt zur Prüfung von Sicherheitsbedenken an die Polizeivollzugs- und Verfassungsschutzbehörden des Bundes, den Bundesnachrichtendienst, den Militärischen Abschirmdienst, das Bundeskriminalamt und das Zollkriminalamt. Die in Satz 1 genannten Sicherheitsbehörden und Nachrichtendienste teilen dem Auswärtigen Amt unverzüglich mit, ob Sicherheitsbedenken vorliegen.
+
+(3) Die in Absatz 2 genannten Sicherheitsbehörden und Nachrichtendienste dürfen die übermittelten Daten nach den für sie geltenden Gesetzen für andere Zwecke verarbeiten, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Übermittlungsregelungen nach anderen Gesetzen bleiben unberührt.
+
+(4) Ohne eine abgeschlossene Zuverlässigkeitsüberprüfung, bei der keine Erkenntnisse über eine mögliche Unzuverlässigkeit zutage treten, darf der Betroffene seine Tätigkeit im Visumverfahren nicht aufnehmen.
+
+(5) Ist der Betroffene für eine juristische Person, insbesondere einen externen Dienstleistungserbringer tätig, überprüft das Auswärtige Amt auch die Zuverlässigkeit der juristischen Person anhand von Firma, Bezeichnung, Handelsregistereintrag der juristischen Person nebst vollständiger Anschrift (lokale Niederlassung und Hauptsitz). Das Auswärtige Amt überprüft auch die Zuverlässigkeit des Inhabers und der Geschäftsführer der juristischen Person in dem für die Zusammenarbeit vorgesehenen Land. Absatz 1 Satz 2 und 3 und die Absätze 2 bis 4 gelten entsprechend.
+
+### § 73c Zusammenarbeit mit externen Dienstleistungserbringern
+
+Die deutschen Auslandsvertretungen können im Verfahren zur Beantragung nationaler Visa nach Kapitel 2 Abschnitt 3 und 4 mit einem externen Dienstleistungserbringer entsprechend Artikel 43 der Verordnung (EG) Nr. 810/2009 zusammenarbeiten.
 
 ### § 74 Beteiligung des Bundes; Weisungsbefugnis
 
@@ -2878,7 +3084,7 @@ Koordinierung der Informationen über den Aufenthalt zum Zweck der Erwerbstätig
 
 2.  
 a)  
-Entwicklung von Grundstruktur und Lerninhalten des Integrationskurses nach § 43 Abs. 3,
+Entwicklung von Grundstruktur und Lerninhalten des Integrationskurses nach § 43 Abs. 3 und der berufsbezogenen Deutschsprachförderung nach § 45a,
 
 b)  
 deren Durchführung und
@@ -2902,7 +3108,7 @@ Führung des Registers nach § 91a;
 Koordinierung der Programme und Mitwirkung an Projekten zur Förderung der freiwilligen Rückkehr sowie Auszahlung hierfür bewilligter Mittel;
 
 8.  
-die Durchführung des Aufnahmeverfahrens nach § 23 Abs. 2 und die Verteilung der nach § 23 sowie der nach § 22 Satz 2 aufgenommenen Ausländer auf die Länder;
+die Durchführung des Aufnahmeverfahrens nach § 23 Abs. 2 und 4 und die Verteilung der nach § 23 sowie der nach § 22 Satz 2 aufgenommenen Ausländer auf die Länder;
 
 9.  
 Durchführung einer migrationsspezifischen Beratung nach § 45 Satz 1, soweit sie nicht durch andere Stellen wahrgenommen wird; hierzu kann es sich privater oder öffentlicher Träger bedienen;
@@ -2911,7 +3117,10 @@ Durchführung einer migrationsspezifischen Beratung nach § 45 Satz 1, soweit si
 Anerkennung von Forschungseinrichtungen zum Abschluss von Aufnahmevereinbarungen nach § 20; hierbei wird das Bundesamt für Migration und Flüchtlinge durch einen Beirat für Forschungsmigration unterstützt;
 
 11.  
-Koordinierung der Informationsübermittlung und Auswertung von Erkenntnissen der Bundesbehörden, insbesondere des Bundeskriminalamtes und des Bundesamtes für Verfassungsschutz, zu Ausländern, bei denen wegen Gefährdung der öffentlichen Sicherheit ausländer-, asyl- oder staatsangehörigkeitsrechtliche Maßnahmen in Betracht kommen.
+Koordinierung der Informationsübermittlung und Auswertung von Erkenntnissen der Bundesbehörden, insbesondere des Bundeskriminalamtes und des Bundesamtes für Verfassungsschutz, zu Ausländern, bei denen wegen Gefährdung der öffentlichen Sicherheit ausländer-, asyl- oder staatsangehörigkeitsrechtliche Maßnahmen in Betracht kommen;
+
+12.  
+Befristung eines Einreise- und Aufenthaltsverbots nach § 11 Absatz 2 im Fall einer Abschiebungsandrohung nach den §§ 34, 35 des Asylgesetzes oder einer Abschiebungsanordnung nach § 34a des Asylgesetzes sowie die Anordnung und Befristung eines Einreise- und Aufenthaltsverbots nach § 11 Absatz 7.
 
 ### § 76
 
@@ -2951,19 +3160,19 @@ die Aussetzung der Abschiebung,
 Beschränkungen des Aufenthalts nach § 12 Absatz 4,
 
 7.  
-die Anordnungen nach den §§ 47 und 54a,
+die Anordnungen nach den §§ 47 und 56,
 
 8.  
 die Rücknahme und der Widerruf von Verwaltungsakten nach diesem Gesetz sowie
 
 9.  
-die Entscheidung über einen Antrag auf Befristung nach § 11 Absatz 1 Satz 3.
+die Entscheidung über die Anordnung eines Einreise- und Aufenthaltsverbots nach § 11 Absatz 6 oder 7 und über die Befristung eines Einreise- und Aufenthaltsverbots nach § 11.
 
 Einem Verwaltungsakt, mit dem ein Aufenthaltstitel versagt oder mit dem ein Aufenthaltstitel zum Erlöschen gebracht wird, sowie der Entscheidung über einen Antrag auf Befristung nach § 11 Absatz 1 Satz 3 ist eine Erklärung beizufügen. Mit dieser Erklärung wird der Ausländer über den Rechtsbehelf, der gegen den Verwaltungsakt gegeben ist, und über die Stelle, bei der dieser Rechtsbehelf einzulegen ist, sowie über die einzuhaltende Frist belehrt; in anderen Fällen ist die vorgenannte Erklärung der Androhung der Abschiebung beizufügen.
 
 (2) Die Versagung und die Beschränkung eines Visums und eines Passersatzes vor der Einreise bedürfen keiner Begründung und Rechtsbehelfsbelehrung; die Versagung an der Grenze bedarf auch nicht der Schriftform. Formerfordernisse für die Versagung von Schengen-Visa richten sich nach der Verordnung (EG) Nr. 810/2009.
 
-(3) Wird der Ausländer nicht durch einen Bevollmächtigten vertreten, ist ihm auf Antrag eine Übersetzung der Entscheidungsformel des Verwaltungsaktes, mit dem der Aufenthaltstitel versagt oder mit dem der Aufenthaltstitel zum Erlöschen gebracht oder mit dem über einen Antrag auf Befristung nach § 11 Absatz 1 Satz 3 entschieden wird, und der Rechtsbehelfsbelehrung kostenfrei in einer Sprache zur Verfügung zu stellen, die der Ausländer versteht oder bei der vernünftigerweise davon ausgegangen werden kann, dass er sie versteht. Besteht die Ausreisepflicht aus einem anderen Grund, ist Satz 1 auf die Androhung der Abschiebung sowie auf die Rechtsbehelfsbelehrung, die dieser nach Absatz 1 Satz 3 beizufügen ist, entsprechend anzuwenden. Die Übersetzung kann in mündlicher oder in schriftlicher Form zur Verfügung gestellt werden. Eine Übersetzung muss dem Ausländer dann nicht vorgelegt werden, wenn er unerlaubt in das Bundesgebiet eingereist ist oder auf Grund einer strafrechtlichen Verurteilung ausgewiesen worden ist. Die Sätze 1 bis 3 sind nicht anzuwenden, wenn der Ausländer noch nicht eingereist oder bereits ausgereist ist.
+(3) Dem Ausländer ist auf Antrag eine Übersetzung der Entscheidungsformel des Verwaltungsaktes, mit dem der Aufenthaltstitel versagt oder mit dem der Aufenthaltstitel zum Erlöschen gebracht oder mit dem eine Befristungsentscheidung nach § 11 getroffen wird, und der Rechtsbehelfsbelehrung kostenfrei in einer Sprache zur Verfügung zu stellen, die der Ausländer versteht oder bei der vernünftigerweise davon ausgegangen werden kann, dass er sie versteht. Besteht die Ausreisepflicht aus einem anderen Grund, ist Satz 1 auf die Androhung der Abschiebung sowie auf die Rechtsbehelfsbelehrung, die dieser nach Absatz 1 Satz 3 beizufügen ist, entsprechend anzuwenden. Die Übersetzung kann in mündlicher oder in schriftlicher Form zur Verfügung gestellt werden. Eine Übersetzung muss dem Ausländer dann nicht vorgelegt werden, wenn er unerlaubt in das Bundesgebiet eingereist ist oder auf Grund einer strafrechtlichen Verurteilung ausgewiesen worden ist. In den Fällen des Satzes 4 erhält der Ausländer ein Standardformular mit Erläuterungen, die in mindestens fünf der am häufigsten verwendeten oder verstandenen Sprachen bereitgehalten werden. Die Sätze 1 bis 3 sind nicht anzuwenden, wenn der Ausländer noch nicht eingereist oder bereits ausgereist ist.
 
 ### § 78 Dokumente mit elektronischem Speicher- und Verarbeitungsmedium
 
@@ -3219,15 +3428,15 @@ der in einem Verfahren, welches die Anfechtung der Vaterschaft nach § 1600 Abs.
 
 die Erteilung oder Verlängerung eines Aufenthaltstitels, ist die Entscheidung über den Aufenthaltstitel bis zum Abschluss des Verfahrens, im Falle einer gerichtlichen Entscheidung bis zu deren Rechtskraft auszusetzen, es sei denn, über den Aufenthaltstitel kann ohne Rücksicht auf den Ausgang des Verfahrens entschieden werden. Im Fall des § 1600 Abs. 1 Nr. 5 des Bürgerlichen Gesetzbuchs ist das Verfahren ab Eingang der Mitteilung nach § 87 Abs. 6 oder nach § 90 Abs. 5 auszusetzen.
 
-### § 80 Handlungsfähigkeit Minderjähriger
+### § 80 Handlungsfähigkeit
 
-(1) Fähig zur Vornahme von Verfahrenshandlungen nach diesem Gesetz ist ein Ausländer, der das 16. Lebensjahr vollendet hat, sofern er nicht nach Maßgabe des Bürgerlichen Gesetzbuchs geschäftsunfähig oder im Falle seiner Volljährigkeit in dieser Angelegenheit zu betreuen und einem Einwilligungsvorbehalt zu unterstellen wäre.
+(1) Fähig zur Vornahme von Verfahrenshandlungen nach diesem Gesetz ist ein Ausländer, der volljährig ist, sofern er nicht nach Maßgabe des Bürgerlichen Gesetzbuchs geschäftsunfähig oder in dieser Angelegenheit zu betreuen und einem Einwilligungsvorbehalt zu unterstellen wäre.
 
 (2) Die mangelnde Handlungsfähigkeit eines Minderjährigen steht seiner Zurückweisung und Zurückschiebung nicht entgegen. Das Gleiche gilt für die Androhung und Durchführung der Abschiebung in den Herkunftsstaat, wenn sich sein gesetzlicher Vertreter nicht im Bundesgebiet aufhält oder dessen Aufenthaltsort im Bundesgebiet unbekannt ist.
 
 (3) Bei der Anwendung dieses Gesetzes sind die Vorschriften des Bürgerlichen Gesetzbuchs dafür maßgebend, ob ein Ausländer als minderjährig oder volljährig anzusehen ist. Die Geschäftsfähigkeit und die sonstige rechtliche Handlungsfähigkeit eines nach dem Recht seines Heimatstaates volljährigen Ausländers bleiben davon unberührt.
 
-(4) Die gesetzlichen Vertreter eines Ausländers, der das 16. Lebensjahr noch nicht vollendet hat, und sonstige Personen, die an Stelle der gesetzlichen Vertreter den Ausländer im Bundesgebiet betreuen, sind verpflichtet, für den Ausländer die erforderlichen Anträge auf Erteilung und Verlängerung des Aufenthaltstitels und auf Erteilung und Verlängerung des Passes, des Passersatzes und des Ausweisersatzes zu stellen.
+(4) Die gesetzlichen Vertreter eines Ausländers, der minderjährig ist, und sonstige Personen, die an Stelle der gesetzlichen Vertreter den Ausländer im Bundesgebiet betreuen, sind verpflichtet, für den Ausländer die erforderlichen Anträge auf Erteilung und Verlängerung des Aufenthaltstitels und auf Erteilung und Verlängerung des Passes, des Passersatzes und des Ausweisersatzes zu stellen.
 
 ### § 81 Beantragung des Aufenthaltstitels
 
@@ -3251,7 +3460,7 @@ die Erteilung oder Verlängerung eines Aufenthaltstitels, ist die Entscheidung �
 
 (4) Soweit es zur Vorbereitung und Durchführung von Maßnahmen nach diesem Gesetz und nach ausländerrechtlichen Bestimmungen in anderen Gesetzen erforderlich ist, kann angeordnet werden, dass ein Ausländer bei der zuständigen Behörde sowie den Vertretungen oder ermächtigten Bediensteten des Staates, dessen Staatsangehörigkeit er vermutlich besitzt, persönlich erscheint sowie eine ärztliche Untersuchung zur Feststellung der Reisefähigkeit durchgeführt wird. Kommt der Ausländer einer Anordnung nach Satz 1 nicht nach, kann sie zwangsweise durchgesetzt werden. § 40 Abs. 1 und 2, die §§ 41, 42 Abs. 1 Satz 1 und 3 des Bundespolizeigesetzes finden entsprechende Anwendung.
 
-(5) Der Ausländer, für den nach diesem Gesetz, dem Asylverfahrensgesetz oder den zur Durchführung dieser Gesetze erlassenen Bestimmungen ein Dokument ausgestellt werden soll, hat auf Verlangen
+(5) Der Ausländer, für den nach diesem Gesetz, dem Asylgesetz oder den zur Durchführung dieser Gesetze erlassenen Bestimmungen ein Dokument ausgestellt werden soll, hat auf Verlangen
 
 1.  
 ein aktuelles Lichtbild nach Maßgabe einer nach § 99 Abs. 1 Nr. 13 und 13a erlassenen Rechtsverordnung vorzulegen oder bei der Aufnahme eines solchen Lichtbildes mitzuwirken und
@@ -3269,6 +3478,8 @@ Das Lichtbild und die Fingerabdrücke dürfen in Dokumente nach Satz 1 eingebrac
 
 (2) Gegen die Versagung der Aussetzung der Abschiebung findet kein Widerspruch statt.
 
+(3) Gegen die Anordnung und Befristung eines Einreise- und Aufenthaltsverbots durch das Bundesamt für Migration und Flüchtlinge findet kein Widerspruch statt.
+
 ### § 84 Wirkungen von Widerspruch und Klage
 
 (1) Widerspruch und Klage gegen
@@ -3276,22 +3487,33 @@ Das Lichtbild und die Fingerabdrücke dürfen in Dokumente nach Satz 1 eingebrac
 1.  
 die Ablehnung eines Antrages auf Erteilung oder Verlängerung des Aufenthaltstitels,
 
+1a.  
+Maßnahmen nach § 49,
+
 2.  
-die Auflage nach § 61 Abs. 1 Satz 1, in einer Ausreiseeinrichtung Wohnung zu nehmen,
+die Auflage nach § 61 Absatz 1e, in einer Ausreiseeinrichtung Wohnung zu nehmen,
 
 3.  
 die Änderung oder Aufhebung einer Nebenbestimmung, die die Ausübung einer Erwerbstätigkeit betrifft,
 
 4.  
-den Widerruf des Aufenthaltstitels des Ausländers nach § 52 Abs. 1 Satz 1 Nr. 4 in den Fällen des § 75 Absatz 2 Satz 1 des Asylverfahrensgesetzes,
+den Widerruf des Aufenthaltstitels des Ausländers nach § 52 Abs. 1 Satz 1 Nr. 4 in den Fällen des § 75 Absatz 2 Satz 1 des Asylgesetzes,
 
 5.  
-den Widerruf oder die Rücknahme der Anerkennung von Forschungseinrichtungen für den Abschluss von Aufnahmevereinbarungen nach § 20 sowie
+den Widerruf oder die Rücknahme der Anerkennung von Forschungseinrichtungen für den Abschluss von Aufnahmevereinbarungen nach § 20,
 
 6.  
-die Ausreiseuntersagung nach § 46 Absatz 2 Satz 1
+die Ausreiseuntersagung nach § 46 Absatz 2 Satz 1,
+
+7.  
+die Befristung eines Einreise- und Aufenthaltsverbots nach § 11 sowie
+
+8.  
+die Anordnung eines Einreise- und Aufenthaltsverbots nach § 11 Absatz 6
 
 haben keine aufschiebende Wirkung.
+
+Die Klage gegen die Anordnung eines Einreise- und Aufenthaltsverbots nach § 11 Absatz 7 hat keine aufschiebende Wirkung.
 
 (2) Widerspruch und Klage lassen unbeschadet ihrer aufschiebenden Wirkung die Wirksamkeit der Ausweisung und eines sonstigen Verwaltungsaktes, der die Rechtmäßigkeit des Aufenthalts beendet, unberührt. Für Zwecke der Aufnahme oder Ausübung einer Erwerbstätigkeit gilt der Aufenthaltstitel als fortbestehend, solange die Frist zur Erhebung des Widerspruchs oder der Klage noch nicht abgelaufen ist, während eines gerichtlichen Verfahrens über einen zulässigen Antrag auf Anordnung oder Wiederherstellung der aufschiebenden Wirkung oder solange der eingelegte Rechtsbehelf aufschiebende Wirkung hat. Eine Unterbrechung der Rechtmäßigkeit des Aufenthalts tritt nicht ein, wenn der Verwaltungsakt durch eine behördliche oder unanfechtbare gerichtliche Entscheidung aufgehoben wird.
 
@@ -3358,7 +3580,7 @@ der Familiengerichte über die gerichtliche Entscheidung.
 wenn der Ausländer die öffentliche Gesundheit gefährdet und besondere Schutzmaßnahmen zum Ausschluss der Gefährdung nicht möglich sind oder von dem Ausländer nicht eingehalten werden oder
 
 2.  
-soweit die Daten für die Feststellung erforderlich sind, ob die in § 55 Abs. 2 Nr. 4 bezeichneten Voraussetzungen vorliegen.
+soweit die Daten für die Feststellung erforderlich sind, ob die in § 54 Absatz 2 Nummer 4 bezeichneten Voraussetzungen vorliegen.
 
 (3) Personenbezogene Daten, die nach § 30 der Abgabenordnung dem Steuergeheimnis unterliegen, dürfen übermittelt werden, wenn der Ausländer gegen eine Vorschrift des Steuerrechts einschließlich des Zollrechts und des Monopolrechts oder des Außenwirtschaftsrechts oder gegen Einfuhr-, Ausfuhr-, Durchfuhr- oder Verbringungsverbote oder -beschränkungen verstoßen hat und wegen dieses Verstoßes ein strafrechtliches Ermittlungsverfahren eingeleitet oder eine Geldbuße von mindestens fünfhundert Euro verhängt worden ist. In den Fällen des Satzes 1 dürfen auch die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden unterrichtet werden, wenn ein Ausreiseverbot nach § 46 Abs. 2 erlassen werden soll.
 
@@ -3366,23 +3588,27 @@ soweit die Daten für die Feststellung erforderlich sind, ob die in § 55 Abs. 2
 
 ### § 88a Verarbeitung von Daten im Zusammenhang mit Integrationsmaßnahmen
 
-(1) Bei der Durchführung von Integrationskursen ist eine Übermittlung von teilnehmerbezogenen Daten, insbesondere von Daten der Bestätigung der Teilnahmeberechtigung, der Zulassung zur Teilnahme nach § 44 Absatz 4 sowie der Anmeldung zu und der Teilnahme an einem Integrationskurs, durch die Ausländerbehörde, den Träger der Grundsicherung für Arbeitsuchende, das Bundesverwaltungsamt und die für die Durchführung der Integrationskurse zugelassenen privaten und öffentlichen Träger an das Bundesamt für Migration und Flüchtlinge zulässig, soweit sie für die Erteilung einer Zulassung oder Berechtigung zum Integrationskurs, die Feststellung der ordnungsgemäßen Teilnahme, die Feststellung der Erfüllung der Teilnahmeverpflichtung nach § 44a Absatz 1 Satz 1, die Bescheinigung der erfolgreichen Teilnahme oder die Abrechnung und Durchführung der Integrationskurse erforderlich ist. Die für die Durchführung der Integrationskurse zugelassenen privaten und öffentlichen Träger dürfen die zuständige Ausländerbehörde oder den zuständigen Träger der Grundsicherung für Arbeitsuchende über eine nicht ordnungsgemäße Teilnahme eines nach § 44a Absatz 1 Satz 1 zur Teilnahme verpflichteten Ausländers informieren. Das Bundesamt für Migration und Flüchtlinge darf die nach Satz 1 übermittelten Daten auf Ersuchen an Ausländerbehörden, Träger der Grundsicherung für Arbeitsuchende und Staatsangehörigkeitsbehörden weitergeben, soweit dies für die Erteilung einer Zulassung oder Berechtigung zum Integrationskurs, zur Kontrolle der Erfüllung der Teilnahmeverpflichtung, für die Verlängerung einer Aufenthaltserlaubnis, für die Erteilung einer Niederlassungserlaubnis oder einer Erlaubnis zum Daueraufenthalt – EU, zur Überwachung der Eingliederungsvereinbarung oder zur Durchführung des Einbürgerungsverfahrens erforderlich ist. Darüber hinaus ist eine Verarbeitung von personenbezogenen Daten durch das Bundesamt für Migration und Flüchtlinge nur für die Durchführung und Abrechnung der Integrationskurse zulässig.
+(1) Bei der Durchführung von Integrationskursen ist eine Übermittlung von teilnehmerbezogenen Daten, insbesondere von Daten der Bestätigung der Teilnahmeberechtigung, der Zulassung zur Teilnahme nach § 44 Absatz 4 sowie der Anmeldung zu und der Teilnahme an einem Integrationskurs, durch die Ausländerbehörde, die Bundesagentur für Arbeit, den Träger der Grundsicherung für Arbeitsuchende, das Bundesverwaltungsamt und die für die Durchführung der Integrationskurse zugelassenen privaten und öffentlichen Träger an das Bundesamt für Migration und Flüchtlinge zulässig, soweit sie für die Erteilung einer Zulassung oder Berechtigung zum Integrationskurs, die Feststellung der ordnungsgemäßen Teilnahme, die Feststellung der Erfüllung der Teilnahmeverpflichtung nach § 44a Absatz 1 Satz 1, die Bescheinigung der erfolgreichen Teilnahme oder die Abrechnung und Durchführung der Integrationskurse erforderlich ist. Die für die Durchführung der Integrationskurse zugelassenen privaten und öffentlichen Träger dürfen die zuständige Ausländerbehörde, die Bundesagentur für Arbeit oder den zuständigen Träger der Grundsicherung für Arbeitsuchende über eine nicht ordnungsgemäße Teilnahme eines nach § 44a Absatz 1 Satz 1 zur Teilnahme verpflichteten Ausländers informieren. Das Bundesamt für Migration und Flüchtlinge darf die nach Satz 1 übermittelten Daten auf Ersuchen an Ausländerbehörden, die Bundesagentur für Arbeit oder Träger der Grundsicherung für Arbeitsuchende und Staatsangehörigkeitsbehörden weitergeben, soweit dies für die Erteilung einer Zulassung oder Berechtigung zum Integrationskurs, zur Kontrolle der Erfüllung der Teilnahmeverpflichtung, für die Verlängerung einer Aufenthaltserlaubnis, für die Erteilung einer Niederlassungserlaubnis oder einer Erlaubnis zum Daueraufenthalt – EU, zur Überwachung der Eingliederungsvereinbarung oder zur Durchführung des Einbürgerungsverfahrens erforderlich ist. Darüber hinaus ist eine Verarbeitung von personenbezogenen Daten durch das Bundesamt für Migration und Flüchtlinge nur für die Durchführung und Abrechnung der Integrationskurse zulässig.
+
+(1a) Absatz 1 gilt entsprechend für die Nutzung von Daten aus dem Asylverfahren beim Bundesamt für Migration und Flüchtlinge, soweit die Nutzung für die Entscheidung über die Zulassung zum Integrationskurs erforderlich ist. Zur Feststellung der Voraussetzungen des § 44 Absatz 4 Satz 2 Nummer 2 im Rahmen der Entscheidung über die Zulassung zum Integrationskurs gilt dies entsprechend auch für die Nutzung von Daten aus dem Ausländerzentralregister.
 
 (2) Bedient sich das Bundesamt für Migration und Flüchtlinge gemäß § 75 Nummer 9 privater oder öffentlicher Träger, um ein migrationsspezifisches Beratungsangebot durchzuführen, ist eine Übermittlung von aggregierten Daten über das Beratungsgeschehen von den Trägern an das Bundesamt für Migration und Flüchtlinge zulässig.
 
+(3) Bei der Durchführung von Maßnahmen der berufsbezogenen Deutschsprachförderung nach § 45a ist eine Übermittlung teilnehmerbezogener Daten über die Anmeldung, die Dauer der Teilnahme und die Art des Abschlusses der Maßnahme durch die Ausländerbehörde, die Bundesagentur für Arbeit, den Träger der Grundsicherung für Arbeitsuchende, das Bundesverwaltungsamt und die mit der Durchführung der Maßnahmen betrauten privaten und öffentlichen Träger an das Bundesamt für Migration und Flüchtlinge zulässig, soweit dies für die Erteilung einer Zulassung zur Maßnahme, die Feststellung und Bescheinigung der ordnungsgemäßen Teilnahme oder die Durchführung und Abrechnung der Maßnahme erforderlich ist. Das Bundesamt für Migration und Flüchtlinge darf die nach Satz 1 übermittelten Daten auf Ersuchen an die Ausländerbehörde, die Bundesagentur für Arbeit, den Träger der Grundsicherung für Arbeitsuchende und die Staatsangehörigkeitsbehörden weitergeben, soweit dies für die Erteilung einer Zulassung oder Berechtigung zur Maßnahme, zur Kontrolle der ordnungsgemäßen Teilnahme, für die Erteilung einer Niederlassungserlaubnis oder einer Erlaubnis zum Daueraufenthalt-EU, zur Überwachung der Eingliederungsvereinbarung oder zur Durchführung des Einbürgerungsverfahrens erforderlich ist. Die mit der Durchführung der berufsbezogenen Deutschsprachförderung betrauten privaten und öffentlichen Träger dürfen die zuständige Ausländerbehörde, die Bundesagentur für Arbeit oder den zuständigen Träger der Grundsicherung für Arbeitsuchende über eine nicht ordnungsgemäße Teilnahme informieren.
+
 ### § 89 Verfahren bei identitätsüberprüfenden, -feststellenden und -sichernden Maßnahmen
 
-(1) Das Bundeskriminalamt leistet Amtshilfe bei der Auswertung der nach § 49 von den mit der Ausführung dieses Gesetzes betrauten Behörden erhobenen und nach § 73 übermittelten Daten. Die nach § 49 Abs. 3 bis 5 erhobenen Daten werden getrennt von anderen erkennungsdienstlichen Daten gespeichert. Die Daten nach § 49 Abs. 7 werden bei der aufzeichnenden Behörde gespeichert.
+(1) Das Bundeskriminalamt leistet Amtshilfe bei der Auswertung der nach § 49 von den mit der Ausführung dieses Gesetzes betrauten Behörden erhobenen und nach § 73 übermittelten Daten. Es darf hierfür auch von ihm zur Erfüllung seiner Aufgaben gespeicherte erkennungsdienstliche Daten verwenden. Die nach § 49 Abs. 3 bis 5 sowie 8 und 9 erhobenen Daten werden getrennt von anderen erkennungsdienstlichen Daten gespeichert. Die Daten nach § 49 Abs. 7 werden bei der aufzeichnenden Behörde gespeichert.
 
-(2) Die Nutzung der nach § 49 Abs. 3 bis 5 oder 7 erhobenen Daten ist auch zulässig zur Feststellung der Identität oder der Zuordnung von Beweismitteln im Rahmen der Strafverfolgung und der polizeilichen Gefahrenabwehr. Sie dürfen, soweit und solange es erforderlich ist, den für diese Maßnahmen zuständigen Behörden übermittelt oder überlassen werden.
+(2) Die Nutzung der nach § 49 Absatz 3 bis 5 oder Absatz 7 bis 9 erhobenen Daten ist auch zulässig zur Feststellung der Identität oder der Zuordnung von Beweismitteln im Rahmen der Strafverfolgung oder zur polizeilichen Gefahrenabwehr. Sie dürfen, soweit und solange es erforderlich ist, den für diese Maßnahmen zuständigen Behörden übermittelt oder überlassen werden.
 
-(3) Die nach § 49 Abs. 1 erhobenen Daten sind von allen Behörden unmittelbar nach Beendigung der Prüfung der Echtheit des Dokuments oder der Identität des Inhabers zu löschen. Die nach § 49 Abs. 3 bis 5 oder 7 erhobenen Daten sind von allen Behörden, die sie speichern, zu löschen, wenn
+(3) Die nach § 49 Abs. 1 erhobenen Daten sind von allen Behörden unmittelbar nach Beendigung der Prüfung der Echtheit des Dokuments oder der Identität des Inhabers zu löschen. Die nach § 49 Abs. 3 bis 5, 7, 8 oder 9 erhobenen Daten sind von allen Behörden, die sie speichern, zu löschen, wenn
 
 1.  
 dem Ausländer ein gültiger Pass oder Passersatz ausgestellt und von der Ausländerbehörde ein Aufenthaltstitel erteilt worden ist,
 
 2.  
-seit der letzten Ausreise oder versuchten unerlaubten Einreise zehn Jahre vergangen sind,
+seit der letzten Ausreise, der versuchten unerlaubten Einreise oder der Beendigung des unerlaubten Aufenthalts zehn Jahre vergangen sind,
 
 3.  
 in den Fällen des § 49 Abs. 5 Nr. 3 und 4 seit der Zurückweisung oder Zurückschiebung drei Jahre vergangen sind oder
@@ -3409,7 +3635,7 @@ Die Löschung ist zu protokollieren.
 (6) Das Bundesverwaltungsamt gleicht auf Ersuchen
 
 1.  
-einer zur Feststellung der Identität oder Staatsangehörigkeit eines Ausländers nach § 16 Abs. 2 des Asylverfahrensgesetzes zuständigen Behörde und
+einer zur Feststellung der Identität oder Staatsangehörigkeit eines Ausländers nach § 16 Abs. 2 des Asylgesetzes zuständigen Behörde und
 
 2.  
 einer für die Strafverfolgung oder die polizeiliche Gefahrenabwehr zuständigen Behörde zur Feststellung der Identität eines Ausländers oder der Zuordnung von Beweismitteln
@@ -3723,7 +3949,7 @@ die Öffentlichkeit zu den in den Nummern 1 bis 9 genannten Aufgabenbereichen zu
 
 (1) Die Beauftragte wird bei Rechtsetzungsvorhaben der Bundesregierung oder einzelner Bundesministerien sowie bei sonstigen Angelegenheiten, die ihren Aufgabenbereich betreffen, möglichst frühzeitig beteiligt. Sie kann der Bundesregierung Vorschläge machen und Stellungnahmen zuleiten. Die Bundesministerien unterstützen die Beauftragte bei der Erfüllung ihrer Aufgaben.
 
-(2) Die Beauftragte erstattet dem Deutschen Bundestag mindestens alle zwei Jahre einen Bericht über die Lage der Ausländer in Deutschland.
+(2) Die Beauftragte für Migration, Flüchtlinge und Integration erstattet dem Deutschen Bundestag mindestens alle zwei Jahre einen Bericht.
 
 (3) Liegen der Beauftragten hinreichende Anhaltspunkte vor, dass öffentliche Stellen des Bundes Verstöße im Sinne des § 93 Nr. 3 begehen oder sonst die gesetzlichen Rechte von Ausländern nicht wahren, so kann sie eine Stellungnahme anfordern. Sie kann diese Stellungnahme mit einer eigenen Bewertung versehen und der öffentlichen und deren vorgesetzter Stelle zuleiten. Die öffentlichen Stellen des Bundes sind verpflichtet, Auskunft zu erteilen und Fragen zu beantworten. Personenbezogene Daten übermitteln die öffentlichen Stellen nur, wenn sich der Betroffene selbst mit der Bitte, in seiner Sache gegenüber der öffentlichen Stelle tätig zu werden, an die Beauftragte gewandt hat oder die Einwilligung des Ausländers anderweitig nachgewiesen ist.
 
@@ -3764,7 +3990,7 @@ entgegen § 49 Abs. 2 eine Angabe nicht, nicht richtig oder nicht vollständig m
 entgegen § 49 Abs. 10 eine dort genannte Maßnahme nicht duldet,
 
 6a.  
-entgegen § 54a wiederholt einer Meldepflicht nicht nachkommt, wiederholt gegen räumliche Beschränkungen des Aufenthalts oder sonstige Auflagen verstößt oder trotz wiederholten Hinweises auf die rechtlichen Folgen einer Weigerung der Verpflichtung zur Wohnsitznahme nicht nachkommt oder entgegen § 54a Abs. 4 bestimmte Kommunikationsmittel nutzt,
+entgegen § 56 wiederholt einer Meldepflicht nicht nachkommt, wiederholt gegen räumliche Beschränkungen des Aufenthalts oder sonstige Auflagen verstößt oder trotz wiederholten Hinweises auf die rechtlichen Folgen einer Weigerung der Verpflichtung zur Wohnsitznahme nicht nachkommt oder entgegen § 56 Abs. 4 bestimmte Kommunikationsmittel nutzt oder bestimmte Kontaktverbote nicht beachtet,
 
 7.  
 wiederholt einer räumlichen Beschränkung nach § 61 Abs. 1 oder Absatz 1c zuwiderhandelt oder
@@ -3777,7 +4003,7 @@ im Bundesgebiet einer überwiegend aus Ausländern bestehenden Vereinigung oder 
 (2) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
 1.  
-entgegen § 11 Abs. 1 Satz 1
+entgegen § 11 Absatz 1 oder in Zuwiderhandlung einer vollziehbaren Anordnung nach § 11 Absatz 6 Satz 1 oder Absatz 7 Satz 1
 
 a)  
 in das Bundesgebiet einreist oder
@@ -3786,7 +4012,7 @@ b)
 sich darin aufhält oder
 
 2.  
-unrichtige oder unvollständige Angaben macht oder benutzt, um für sich oder einen anderen einen Aufenthaltstitel oder eine Duldung zu beschaffen oder eine so beschaffte Urkunde wissentlich zur Täuschung im Rechtsverkehr gebraucht.
+unrichtige oder unvollständige Angaben macht oder benutzt, um für sich oder einen anderen einen Aufenthaltstitel oder eine Duldung zu beschaffen oder das Erlöschen oder die nachträgliche Beschränkung des Aufenthaltstitels oder der Duldung abzuwenden oder eine so beschaffte Urkunde wissentlich zur Täuschung im Rechtsverkehr gebraucht.
 
 (3) In den Fällen des Absatzes 1 Nr. 3 und der Absätze 1a und 2 Nr. 1 Buchstabe a ist der Versuch strafbar.
 
@@ -3798,7 +4024,7 @@ unrichtige oder unvollständige Angaben macht oder benutzt, um für sich oder ei
 
 ### § 96 Einschleusen von Ausländern
 
-(1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer einen anderen anstiftet oder ihm dazu Hilfe leistet, eine Handlung
+(1) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren, in minder schweren Fällen mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer einen anderen anstiftet oder ihm dazu Hilfe leistet, eine Handlung
 
 1.  
 nach § 95 Abs. 1 Nr. 3 oder Abs. 2 Nr. 1 Buchstabe a zu begehen und
@@ -3839,7 +4065,7 @@ sie den in § 95 Abs. 1 Nr. 2 oder 3 oder Abs. 2 Nr. 1 bezeichneten Handlungen e
 2.  
 der Täter einen Ausländer unterstützt, der nicht die Staatsangehörigkeit eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum besitzt.
 
-(5) In den Fällen des Absatzes 2 Nr. 1, auch in Verbindung mit Absatz 4, und des Absatzes 2 Nr. 2 bis 5 ist § 73d des Strafgesetzbuches anzuwenden.
+(5) § 74a des Strafgesetzbuchs ist anzuwenden. In den Fällen des Absatzes 2 Nr. 1, auch in Verbindung mit Absatz 4, und des Absatzes 2 Nr. 2 bis 5 ist § 73d des Strafgesetzbuches anzuwenden.
 
 ### § 97 Einschleusen mit Todesfolge; gewerbs- und bandenmäßiges Einschleusen
 
@@ -3849,7 +4075,7 @@ der Täter einen Ausländer unterstützt, der nicht die Staatsangehörigkeit ein
 
 (3) In minder schweren Fällen des Absatzes 1 ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in minder schweren Fällen des Absatzes 2 Freiheitsstrafe von sechs Monaten bis zu zehn Jahren.
 
-(4) § 73d des Strafgesetzbuches ist anzuwenden.
+(4) Die §§ 73d und 74a des Strafgesetzbuchs sind anzuwenden.
 
 ### § 98 Bußgeldvorschriften
 
@@ -3864,7 +4090,7 @@ entgegen § 4 Abs. 5 Satz 1 einen Nachweis nicht führt,
 entgegen § 13 Abs. 1 Satz 2 sich der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs nicht unterzieht,
 
 3.  
-entgegen § 48 Abs. 1 oder 3 Satz 1 eine dort genannte Urkunde oder Unterlage nicht oder nicht rechtzeitig vorlegt, nicht oder nicht rechtzeitig aushändigt oder nicht oder nicht rechtzeitig überlässt oder
+entgegen § 48 Abs. 1 oder 3 Satz 1 eine dort genannte Urkunde oder Unterlage oder einen dort genannten Datenträger nicht oder nicht rechtzeitig vorlegt, nicht oder nicht rechtzeitig aushändigt oder nicht oder nicht rechtzeitig überlässt oder
 
 4.  
 einer vollziehbaren Anordnung nach § 44a Abs. 1 Satz 1 Nr. 3, Satz 2 oder 3 zuwiderhandelt.
@@ -3877,16 +4103,16 @@ einer vollziehbaren Anordnung nach § 44a Abs. 1 Satz 1 Nr. 3, Satz 2 oder 3 zuw
 entgegen § 4 Abs. 3 Satz 1 eine selbständige Tätigkeit ausübt,
 
 2.  
-einer vollziehbaren Auflage nach § 12 Abs. 2 Satz 2 oder Abs. 4 oder einer räumlichen Beschränkung nach § 54a Abs. 2 oder § 61 Abs. 1 Satz 1 oder Absatz 1c zuwiderhandelt,
+einer vollziehbaren Auflage nach § 12 Abs. 2 Satz 2 oder Abs. 4 oder einer räumlichen Beschränkung nach § 56 Absatz 2 oder § 61 Abs. 1 Satz 1 oder Absatz 1c zuwiderhandelt,
 
 3.  
 entgegen § 13 Abs. 1 außerhalb einer zugelassenen Grenzübergangsstelle oder außerhalb der festgesetzten Verkehrsstunden einreist oder ausreist oder einen Pass oder Passersatz nicht mitführt,
 
 4.  
-einer vollziehbaren Anordnung nach § 46 Abs. 1, § 54a Abs. 1 Satz 2 oder Abs. 3 oder § 61 Absatz 1e zuwiderhandelt,
+einer vollziehbaren Anordnung nach § 46 Abs. 1, § 56 Absatz 1 Satz 2 oder Abs. 3 oder § 61 Absatz 1e zuwiderhandelt,
 
 5.  
-entgegen § 54a Abs. 1 Satz 1 eine Meldung nicht, nicht richtig oder nicht rechtzeitig macht,
+entgegen § 56 Absatz 1 Satz 1 eine Meldung nicht, nicht richtig oder nicht rechtzeitig macht,
 
 6.  
 entgegen § 80 Abs. 4 einen der dort genannten Anträge nicht stellt oder
@@ -4165,7 +4391,7 @@ Für Personen, die vor dem Inkrafttreten dieses Gesetzes gemäß § 1 des Gesetz
 
 (4) Dem volljährigen ledigen Kind eines Ausländers, bei dem bis zum Inkrafttreten dieses Gesetzes unanfechtbar das Vorliegen der Voraussetzungen des § 51 Abs. 1 des Ausländergesetzes festgestellt wurde, wird in entsprechender Anwendung des § 25 Abs. 2 eine Aufenthaltserlaubnis erteilt, wenn das Kind zum Zeitpunkt der Asylantragstellung des Ausländers minderjährig war und sich mindestens seit der Unanfechtbarkeit der Feststellung der Voraussetzungen des § 51 Abs. 1 des Ausländergesetzes im Bundesgebiet aufhält und seine Integration zu erwarten ist. Die Erteilung der Aufenthaltserlaubnis kann versagt werden, wenn das Kind in den letzten drei Jahren wegen einer vorsätzlichen Straftat zu einer Jugend- oder Freiheitsstrafe von mindestens sechs Monaten oder einer Geldstrafe von mindestens 180 Tagessätzen verurteilt worden ist.
 
-(5) Ausländer, die zwischen dem 1. Januar 2004 und dem 31. Dezember 2004 als Asylberechtigte anerkannt worden sind oder bei denen in diesem Zeitraum das Vorliegen der Voraussetzungen nach § 51 Abs. 1 des Ausländergesetzes festgestellt worden ist oder denen in diesem Zeitraum eine unbefristete Aufenthaltserlaubnis nach § 1 des Gesetzes über Maßnahmen für im Rahmen humanitärer Hilfsaktionen aufgenommene Flüchtlinge vom 22. Juli 1980 (BGBl. I S. 1057) oder in entsprechender Anwendung des vorgenannten Gesetzes erteilt worden ist, haben einen Anspruch auf die einmalige kostenlose Teilnahme an einem Integrationskurs nach § 44 Abs. 1, wenn sie nicht vor dem 1. Januar 2005 mit der Teilnahme an einem Deutsch-Sprachlehrgang begonnen haben.
+(5) Auch für Ausländer, die bis zum Ablauf des 31. Juli 2015 im Rahmen des Programms zur dauerhaften Neuansiedlung von Schutzsuchenden einen Aufenthaltstitel nach § 23 Absatz 2 erhalten haben, sind die Regelungen über den Familiennachzug, das Bleibeinteresse, die Teilnahme an Integrationskursen und die Aufenthaltsverfestigung auf Grund des § 23 Absatz 4 entsprechend anzuwenden.
 
 (6) § 23 Abs. 2 in der bis zum 24. Mai 2007 geltenden Fassung findet in den Fällen weiter Anwendung, in denen die Anordnung der obersten Landesbehörde, die auf Grund der bis zum 24. Mai 2007 geltenden Fassung getroffen wurde, eine Erteilung einer Niederlassungserlaubnis bei besonders gelagerten politischen Interessen der Bundesrepublik Deutschland vorsieht. § 23 Abs. 2 Satz 5 und § 44 Abs. 1 Nr. 2 sind auf die betroffenen Ausländer und die Familienangehörigen, die mit ihnen ihren Wohnsitz in das Bundesgebiet verlegen, entsprechend anzuwenden.
 
@@ -4173,7 +4399,15 @@ Für Personen, die vor dem Inkrafttreten dieses Gesetzes gemäß § 1 des Gesetz
 
 (8) § 28 Absatz 2 in der bis zum 5. September 2013 geltenden Fassung findet weiter Anwendung auf Familienangehörige eines Deutschen, die am 5. September 2013 bereits einen Aufenthaltstitel nach § 28 Absatz 1 innehatten.
 
-(9) Ausländer, die eine Aufenthaltserlaubnis nach § 25 Absatz 3 besitzen, weil das Bundesamt oder die Ausländerbehörde festgestellt hat, dass Abschiebungsverbote nach § 60 Absatz 2, 3 oder 7 Satz 2 in der vor dem 1. Dezember 2013 gültigen Fassung vorliegen, gelten als subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des Asylverfahrensgesetzes und erhalten von Amts wegen eine Aufenthaltserlaubnis nach § 25 Absatz 2 Satz 1 zweite Alternative, es sei denn, das Bundesamt hat die Ausländerbehörde über das Vorliegen von Ausschlusstatbeständen im Sinne des „§ 25 Absatz 3 Satz 2 Buchstabe a bis d in der vor dem 1. Dezember 2013 gültigen Fassung unterrichtet. Die Zeiten des Besitzes der Aufenthaltserlaubnis nach § 25 Absatz 3 Satz 1 in der vor dem 1. Dezember 2013 gültigen Fassung stehen Zeiten des Besitzes einer Aufenthaltserlaubnis nach § 25 Absatz 2 Satz 1 zweite Alternative gleich. § 73b des Asylverfahrensgesetzes gilt entsprechend.
+(9) Ausländer, die eine Aufenthaltserlaubnis nach § 25 Absatz 3 besitzen, weil das Bundesamt oder die Ausländerbehörde festgestellt hat, dass Abschiebungsverbote nach § 60 Absatz 2, 3 oder 7 Satz 2 in der vor dem 1. Dezember 2013 gültigen Fassung vorliegen, gelten als subsidiär Schutzberechtigte im Sinne des § 4 Absatz 1 des Asylgesetzes und erhalten von Amts wegen eine Aufenthaltserlaubnis nach § 25 Absatz 2 Satz 1 zweite Alternative, es sei denn, das Bundesamt hat die Ausländerbehörde über das Vorliegen von Ausschlusstatbeständen im Sinne des „§ 25 Absatz 3 Satz 2 Buchstabe a bis d in der vor dem 1. Dezember 2013 gültigen Fassung unterrichtet. Die Zeiten des Besitzes der Aufenthaltserlaubnis nach § 25 Absatz 3 Satz 1 in der vor dem 1. Dezember 2013 gültigen Fassung stehen Zeiten des Besitzes einer Aufenthaltserlaubnis nach § 25 Absatz 2 Satz 1 zweite Alternative gleich. § 73b des Asylgesetzes gilt entsprechend.
+
+(10) Für Betroffene nach § 73b Absatz 1, die als nicht entsandte Mitarbeiter des Auswärtigen Amts in einer Auslandsvertretung tätig sind, findet § 73b Absatz 4 ab dem 1. Februar 2016 Anwendung.
+
+(11) Für Ausländer, denen zwischen dem 1. Januar 2011 und dem 31. Juli 2015 subsidiärer Schutz nach der Richtlinie 2011/95/EU oder der Richtlinie 2004/38/EG unanfechtbar zuerkannt wurde, beginnt die Frist nach § 29 Absatz 2 Satz 2 Nummer 1 mit Inkrafttreten dieses Gesetzes zu laufen.
+
+(12) Im Falle einer Abschiebungsandrohung nach den §§ 34 und 35 des Asylgesetzes oder einer Abschiebungsanordnung nach § 34a des Asylgesetzes, die bereits vor dem 1. August 2015 erlassen oder angeordnet worden ist, sind die Ausländerbehörden für die Befristung eines Einreise- und Aufenthaltsverbots nach § 11 Absatz 2 zuständig.
+
+(13) Bis zum 16. März 2018 wird ein Familiennachzug zu Personen, denen nach dem 17. März 2016 eine Aufenthaltserlaubnis nach § 25 Absatz 2 Satz 1 zweite Alternative erteilt worden ist, nicht gewährt. Für Ausländer, denen nach dem 17. März 2016 eine Aufenthaltserlaubnis nach § 25 Absatz 2 Satz 1 zweite Alternative erteilt wurde, beginnt die Frist des § 29 Absatz 2 Satz 2 Nummer 1 ab dem 16. März 2018 zu laufen. Die §§ 22, 23 bleiben unberührt.
 
 ### § 104a Altfallregelung
 
@@ -4195,7 +4429,7 @@ die Ausländerbehörde nicht vorsätzlich über aufenthaltsrechtlich relevante U
 keine Bezüge zu extremistischen oder terroristischen Organisationen hat und diese auch nicht unterstützt und
 
 6.  
-nicht wegen einer im Bundesgebiet begangenen vorsätzlichen Straftat verurteilt wurde, wobei Geldstrafen von insgesamt bis zu 50 Tagessätzen oder bis zu 90 Tagessätzen wegen Straftaten, die nach dem Aufenthaltsgesetz oder dem Asylverfahrensgesetz nur von Ausländern begangen werden können, grundsätzlich außer Betracht bleiben.
+nicht wegen einer im Bundesgebiet begangenen vorsätzlichen Straftat verurteilt wurde, wobei Geldstrafen von insgesamt bis zu 50 Tagessätzen oder bis zu 90 Tagessätzen wegen Straftaten, die nach dem Aufenthaltsgesetz oder dem Asylgesetz nur von Ausländern begangen werden können, grundsätzlich außer Betracht bleiben.
 
 Wenn der Ausländer seinen Lebensunterhalt eigenständig durch Erwerbstätigkeit sichert, wird die Aufenthaltserlaubnis nach § 23 Abs. 1 Satz 1 erteilt. Im Übrigen wird sie nach Satz 1 erteilt; sie gilt als Aufenthaltstitel nach Kapitel 2 Abschnitt 5; die §§ 9 und 26 Abs. 4 finden keine Anwendung. Von der Voraussetzung des Satzes 1 Nr. 2 kann bis zum 1. Juli 2008 abgesehen werden. Von der Voraussetzung des Satzes 1 Nr. 2 wird abgesehen, wenn der Ausländer sie wegen einer körperlichen, geistigen oder seelischen Krankheit oder Behinderung oder aus Altersgründen nicht erfüllen kann.
 
@@ -4253,11 +4487,15 @@ seine Personensorge sichergestellt ist.
 
 ### § 105a Bestimmungen zum Verwaltungsverfahren
 
-Von den in § 4 Abs. 2 Satz 2 und 4, Abs. 5 Satz 2, § 5 Abs. 3 Satz 3, § 15a Abs. 4 Satz 2 und 3, § 23 Abs. 1 Satz 3, § 23a Abs. 1 Satz 1, Abs. 2 Satz 2, § 43 Abs. 4, § 44a Abs. 1 Satz 2, Abs. 3 Satz 1, § 49a Abs. 2, § 61 Absatz 1d, § 72 Abs. 1 bis 4, § 73 Abs. 2, Abs. 3 Satz 1 und 2, den §§ 78, 78a, § 79 Abs. 2, § 81 Abs. 5, § 82 Abs. 1 Satz 3, Abs. 3, § 87 Abs. 1, Abs. 2 Satz 1 und 2, Abs. 4 Satz 1, 2 und 4, Abs. 5 und 6, § 89 Abs. 1 Satz 2 und 3, Abs. 3 und 4, § 89a Abs. 2, Abs. 4 Satz 2, Abs. 8, den §§ 90, 90a, 90b, 91 Abs. 1 und 2, § 91a Abs. 3, 4 und 7, § 91c Abs. 1 Satz 2, Abs. 2 Satz 2, Abs. 3 Satz 4 und Abs. 4 Satz 2, §§ 99 und 104a Abs. 7 Satz 2 getroffenen Regelungen und von den auf Grund von § 43 Abs. 4 und § 99 getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
+Von den in § 4 Abs. 2 Satz 2 und 4, Abs. 5 Satz 2, § 15a Abs. 4 Satz 2 und 3, § 23 Abs. 1 Satz 3, § 23a Abs. 1 Satz 1, Abs. 2 Satz 2, § 43 Abs. 4, § 44a Abs. 1 Satz 2, Abs. 3 Satz 1, § 49a Abs. 2, § 61 Absatz 1d, § 72 Absatz 2, § 73 Abs. 2, Abs. 3 Satz 1 und 2, den §§ 78, 78a, § 79 Abs. 2, § 81 Abs. 5, § 82 Abs. 1 Satz 3, Abs. 3, § 87 Abs. 1, Abs. 2 Satz 1 und 2, Abs. 4 Satz 1, 2 und 4, Abs. 5 und 6, § 89 Abs. 1 Satz 2 und 3, Abs. 3 und 4, § 89a Abs. 2, Abs. 4 Satz 2, Abs. 8, den §§ 90, 90a, 90b, 91 Abs. 1 und 2, § 91a Abs. 3, 4 und 7, § 91c Abs. 1 Satz 2, Abs. 2 Satz 2, Abs. 3 Satz 4 und Abs. 4 Satz 2, §§ 99 und 104a Abs. 7 Satz 2 getroffenen Regelungen und von den auf Grund von § 43 Abs. 4 und § 99 getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
 
 ### § 105b Übergangsvorschrift für Aufenthaltstitel nach einheitlichem Vordruckmuster
 
 Aufenthaltstitel nach § 4 Absatz 1 Satz 2 Nummer 2 bis 4, die bis zum Ablauf des 31. August 2011 nach einheitlichem Vordruckmuster gemäß § 78 in der bis zu diesem Zeitpunkt geltenden Fassung dieses Gesetzes ausgestellt wurden, sind bei Neuausstellung, spätestens aber bis zum Ablauf des 31. August 2021 als eigenständige Dokumente mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 auszustellen. Unbeschadet dessen können Inhaber eines Aufenthaltstitels nach § 4 Absatz 1 Satz 2 Nummer 2 bis 4 ein eigenständiges Dokument mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 beantragen, wenn sie ein berechtigtes Interesse an der Neuausstellung darlegen.
+
+### § 105c Überleitung von Maßnahmen zur Überwachung ausgewiesener Ausländer aus Gründen der inneren Sicherheit
+
+Maßnahmen und Verpflichtungen nach § 54a Absatz 1 bis 4 in der bis zum 31. Dezember 2015 geltenden Fassung, die vor dem 1. Januar 2016 bestanden, gelten nach dem 1. Januar 2016 als Maßnahmen und Verpflichtungen im Sinne von § 56 in der ab dem 1. Januar 2016 geltenden Fassung.
 
 ### § 106 Einschränkung von Grundrechten
 
