@@ -5,10 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 25.2.2008 I 162;
 
 Stand  
-zuletzt geändert durch Art. 6 Abs. 15 G v. 13.4.2017 I 872
-
-Hinweis  
-Änderung durch Art. 1 G v. 12.5.2017 I 1106 (Nr. 27) mWv 1.8.2017 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+zuletzt geändert Art. 7 G v. 8.6.2017 I 1570
 
 ### 
 
@@ -220,6 +217,7 @@ Ordnungsrechtliche Vorschriften
 |-------|-------------------------------------------------------|
 | § 46  | Ordnungsverfügungen                                   |
 | § 47  | Verbot und Beschränkung der politischen Betätigung    |
+| § 47a | Mitwirkungspflichten; Lichtbildabgleich               |
 | § 48  | Ausweisrechtliche Pflichten                           |
 | § 48a | Erhebung von Zugangsdaten                             |
 | § 49  | Überprüfung, Feststellung und Sicherung der Identität |
@@ -1409,7 +1407,7 @@ eine Gefahr für die Allgemeinheit oder eine Gefahr für die Sicherheit der Bund
 
 (4) Einem nicht vollziehbar ausreisepflichtigen Ausländer kann für einen vorübergehenden Aufenthalt eine Aufenthaltserlaubnis erteilt werden, solange dringende humanitäre oder persönliche Gründe oder erhebliche öffentliche Interessen seine vorübergehende weitere Anwesenheit im Bundesgebiet erfordern. Eine Aufenthaltserlaubnis kann abweichend von § 8 Abs. 1 und 2 verlängert werden, wenn auf Grund besonderer Umstände des Einzelfalls das Verlassen des Bundesgebiets für den Ausländer eine außergewöhnliche Härte bedeuten würde.
 
-(4a) Einem Ausländer, der Opfer einer Straftat nach den §§ 233 bis 233a des Strafgesetzbuches wurde, soll, auch wenn er vollziehbar ausreisepflichtig ist, für einen Aufenthalt eine Aufenthaltserlaubnis erteilt werden. Die Aufenthaltserlaubnis darf nur erteilt werden, wenn
+(4a) Einem Ausländer, der Opfer einer Straftat nach den §§ 232 bis 233a des Strafgesetzbuches wurde, soll, auch wenn er vollziehbar ausreisepflichtig ist, für einen Aufenthalt eine Aufenthaltserlaubnis erteilt werden. Die Aufenthaltserlaubnis darf nur erteilt werden, wenn
 
 1.  
 seine Anwesenheit im Bundesgebiet für ein Strafverfahren wegen dieser Straftat von der Staatsanwaltschaft oder dem Strafgericht für sachgerecht erachtet wird, weil ohne seine Angaben die Erforschung des Sachverhalts erschwert wäre,
@@ -2123,6 +2121,10 @@ Gewaltanwendung als Mittel zur Durchsetzung politischer, religiöser oder sonsti
 
 3.  
 Vereinigungen, politische Bewegungen oder Gruppen innerhalb oder außerhalb des Bundesgebiets unterstützt, die im Bundesgebiet Anschläge gegen Personen oder Sachen oder außerhalb des Bundesgebiets Anschläge gegen Deutsche oder deutsche Einrichtungen veranlasst, befürwortet oder angedroht haben.
+
+### § 47a Mitwirkungspflichten; Lichtbildabgleich
+
+Ein Ausländer ist verpflichtet, seinen Pass, seinen Passersatz oder seinen Ausweisersatz auf Verlangen einer zur Identitätsfeststellung befugten Behörde vorzulegen und es ihr zu ermöglichen, sein Gesicht mit dem Lichtbild im Dokument abzugleichen. Dies gilt auch für die Bescheinigung über die Aufenthaltsgestattung nach § 63 Absatz 1 Satz 1 des Asylgesetzes. Ein Ausländer, der im Besitz eines Ankunftsnachweises im Sinne des § 63a Absatz 1 Satz 1 des Asylgesetzes oder eines der in § 48 Absatz 1 Nummer 2 genannten Dokumente ist, ist verpflichtet, den Ankunftsnachweis oder das Dokument auf Verlangen einer zur Überprüfung der darin enthaltenen Angaben befugten Behörde vorzulegen und es ihr zu ermöglichen, sein Gesicht mit dem Lichtbild im Dokument abzugleichen.
 
 ### § 48 Ausweisrechtliche Pflichten
 
@@ -4202,7 +4204,7 @@ sie den in § 95 Abs. 1 Nr. 2 oder 3 oder Abs. 2 Nr. 1 bezeichneten Handlungen e
 2.  
 der Täter einen Ausländer unterstützt, der nicht die Staatsangehörigkeit eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum besitzt.
 
-(5) § 74a des Strafgesetzbuchs ist anzuwenden. In den Fällen des Absatzes 2 Nr. 1, auch in Verbindung mit Absatz 4, und des Absatzes 2 Nr. 2 bis 5 ist § 73d des Strafgesetzbuches anzuwenden.
+(5) § 74a des Strafgesetzbuchs ist anzuwenden.
 
 ### § 97 Einschleusen mit Todesfolge; gewerbs- und bandenmäßiges Einschleusen
 
@@ -4212,7 +4214,7 @@ der Täter einen Ausländer unterstützt, der nicht die Staatsangehörigkeit ein
 
 (3) In minder schweren Fällen des Absatzes 1 ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in minder schweren Fällen des Absatzes 2 Freiheitsstrafe von sechs Monaten bis zu zehn Jahren.
 
-(4) Die §§ 73d und 74a des Strafgesetzbuchs sind anzuwenden.
+(4) § 74a des Strafgesetzbuches ist anzuwenden.
 
 ### § 98 Bußgeldvorschriften
 
@@ -4225,6 +4227,9 @@ entgegen § 4 Abs. 5 Satz 1 einen Nachweis nicht führt,
 
 2.  
 entgegen § 13 Abs. 1 Satz 2 sich der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs nicht unterzieht,
+
+2a.  
+entgegen § 47a Satz 1, auch in Verbindung mit Satz 2, oder entgegen § 47a Satz 3, ein dort genanntes Dokument nicht oder nicht rechtzeitig vorlegt oder einen Abgleich mit dem Lichtbild nicht oder nicht rechtzeitig ermöglicht,
 
 3.  
 entgegen § 48 Abs. 1 oder 3 Satz 1 eine dort genannte Urkunde oder Unterlage oder einen dort genannten Datenträger nicht oder nicht rechtzeitig vorlegt, nicht oder nicht rechtzeitig aushändigt oder nicht oder nicht rechtzeitig überlässt oder
@@ -4270,7 +4275,7 @@ einer Rechtsverordnung nach § 99 Absatz 1 Nummer 3a Buchstabe d, Nummer 7, 10 o
 
 (4) In den Fällen des Absatzes 2 Nr. 2 und des Absatzes 3 Nr. 3 kann der Versuch der Ordnungswidrigkeit geahndet werden.
 
-(5) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2a mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2b mit einer Geldbuße bis zu dreißigtausend Euro, in den Fällen des Absatzes 2 Nr. 2 und des Absatzes 3 Nr. 1 mit einer Geldbuße bis zu fünftausend Euro, in den Fällen der Absätze 1 und 2 Nr. 1 und 3 und des Absatzes 3 Nr. 3 mit einer Geldbuße bis zu dreitausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu tausend Euro geahndet werden.
+(5) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2a mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 2b mit einer Geldbuße bis zu dreißigtausend Euro, in den Fällen des Absatzes 2 Nr. 2 und des Absatzes 3 Nr. 1 mit einer Geldbuße bis zu fünftausend Euro, in den Fällen der Absätze 1 und 2 Nr. 1, 2a und 3 und des Absatzes 3 Nr. 3 mit einer Geldbuße bis zu dreitausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu tausend Euro geahndet werden.
 
 (6) Artikel 31 Abs. 1 des Abkommens über die Rechtsstellung der Flüchtlinge bleibt unberührt.
 
