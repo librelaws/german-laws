@@ -5,13 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 25.2.2008 I 162
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 1 G v. 17.2.2016 I 203
-
-Hinweis  
-Änderung durch Art. 2 G v. 11.3.2016 I 390 (Nr. 12) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 1 G v. 11.3.2016 I 394 (Nr. 12) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+zuletzt geändert durch Art. 1 G v. 11.3.2016 I 394
 
 ### 
 
@@ -4172,7 +4166,7 @@ der Verstoß nach Absatz 1 Satz 1 darin bestand, dass ein Unionsbürger rechtswi
 
 ### § 98c Ausschluss von der Vergabe öffentlicher Aufträge
 
-(1) Öffentliche Auftraggeber nach § 98 Nummer 1 bis 3, 5 und 6 des Gesetzes gegen Wettbewerbsbeschränkungen können einen Bewerber oder einen Bieter vom Wettbewerb um einen Liefer-, Bau- oder Dienstleistungsauftrag ausschließen, wenn dieser oder dessen nach Satzung oder Gesetz Vertretungsberechtigter
+(1) Öffentliche Auftraggeber nach § 99 des Gesetzes gegen Wettbewerbsbeschränkungen können einen Bewerber oder einen Bieter vom Wettbewerb um einen Liefer-, Bau- oder Dienstleistungsauftrag ausschließen, wenn dieser oder dessen nach Satzung oder Gesetz Vertretungsberechtigter
 
 1.  
 nach § 404 Absatz 2 Nummer 3 des Dritten Buches Sozialgesetzbuch mit einer Geldbuße von wenigstens Zweitausendfünfhundert Euro rechtskräftig belegt worden ist oder
