@@ -636,7 +636,7 @@ Die erfolgreich abgeschlossene Berufsausbildung zum Kraftfahrzeugservicemechanik
 
 ### § 14 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2014 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Karosserie- und Fahrzeugbaumechaniker und zur Karosserie- und Fahrzeugbaumechanikerin vom 25. Juli 2008 (BGBI. I S. 1523) außer Kraft.
+Diese Verordnung tritt am 1. August 2014 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Karosserie- und Fahrzeugbaumechaniker und zur Karosserie- und Fahrzeugbaumechanikerin vom 25. Juli 2008 (BGBl. I S. 1523) außer Kraft.
 
 ### Anlage (zu § 5 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Karosserie- und Fahrzeugbaumechaniker und zur Karosserie- und Fahrzeugbaumechanikerin
 
