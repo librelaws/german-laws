@@ -5,7 +5,13 @@ Neuf
 Neugefasst durch Bek. v. 2.9.2008 I 1798;
 
 Stand  
-zuletzt geändert durch Art. 2 G v. 11.3.2016 I 394
+zuletzt geändert durch Art. 6 Abs. 14 G v. 13.4.2017 I 872
+
+Hinweis  
+Änderung durch Art. 4 G v. 17.7.2017 I 2429 (Nr. 48) mWv 22.7.2017 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 2 G v. 20.7.2017 I 2780 (Nr. 52) mWv 29.7.2017 noch nicht berücksichtigt
 
 Sonst  
 Dieses G ersetzt das G 26-5 v. 16.7.1982 I 946 (AsylVfG)
@@ -25,11 +31,14 @@ Richtlinie 2005/85/EG des Rates vom 1. Dezember 2005 über Mindestnormen für Ve
 
 ```
 (+++ Textnachweis ab: 1.7.1992 +++)
+(+++ Amtliche Hinweise des Normgebers auf EG-Recht: 
+Umsetzung der
+  EGRL 9/2003 (CELEX Nr: 303L0009)
+  EGRL 83/2004 (CELEX Nr: 304L0083)
+  EGRL 85/2005 (CELEX Nr: 305L0085) vgl. Bek. v. 2.9.2008I 1798 +++)
 ```
 
 Das G wurde als Artikel 1 G 26-7/1 v. 26.6.1992 I 1126 (AsylVfGNG) vom Bundestag mit der Mehrheit seiner Mitglieder und mit Zustimmung des Bundesrates beschlossen und ist gem. Art. 7 Satz 1 dieses G am 1.7.1992 in Kraft getreten.
-
-(+++ Amtliche Hinweise des Normgebers auf EG-Recht: Umsetzung der EGRL 9/2003 (CELEX Nr: 303L0009) EGRL 83/2004 (CELEX Nr: 304L0083) EGRL 85/2005 (CELEX Nr: 305L0085) vgl. Bek. v. 2.9.2008I 1798 +++)
 
 ### Inhaltsübersicht
 
@@ -123,9 +132,9 @@ Verfahren beim Bundesamt
 | § 26  | Familienasyl und internationaler Schutz für Familienangehörige |
 | § 26a | Sichere Drittstaaten                                           |
 | § 27  | Anderweitige Sicherheit vor Verfolgung                         |
-| § 27a | Zuständigkeit eines anderen Staates                            |
+| § 27a | (weggefallen)                                                  |
 | § 28  | Nachfluchttatbestände                                          |
-| § 29  | Unbeachtliche Asylanträge                                      |
+| § 29  | Unzulässige Anträge                                            |
 | § 29a | Sicherer Herkunftsstaat; Bericht; Verordnungsermächtigung      |
 | § 30  | Offensichtlich unbegründete Asylanträge                        |
 | § 30a | Beschleunigte Verfahren                                        |
@@ -138,21 +147,21 @@ Unterabschnitt 4
 
 Aufenthaltsbeendigung
 
-|       |                                                                          |
-|-------|--------------------------------------------------------------------------|
-| § 34  | Abschiebungsandrohung                                                    |
-| § 34a | Abschiebungsanordnung                                                    |
-| § 35  | Abschiebungsandrohung bei Unbeachtlichkeit des Asylantrags               |
-| § 36  | Verfahren bei Unbeachtlichkeit und offensichtlicher Unbegründetheit      |
-| § 37  | Weiteres Verfahren bei stattgebender gerichtlicher Entscheidung          |
-| § 38  | Ausreisefrist bei sonstiger Ablehnung und bei Rücknahme des Asylantrag s |
-| § 39  | (weggefallen)                                                            |
-| § 40  | Unterrichtung der Ausländerbehörde                                       |
-| § 41  | (weggefallen)                                                            |
-| § 42  | Bindungswirkung ausländerrechtlicher Entscheidungen                      |
-| § 43  | Vollziehbarkeit und Aussetzung der Abschiebung                           |
-| § 43a | (weggefallen)                                                            |
-| § 43b | (weggefallen)                                                            |
+|       |                                                                                                         |
+|-------|---------------------------------------------------------------------------------------------------------|
+| § 34  | Abschiebungsandrohung                                                                                   |
+| § 34a | Abschiebungsanordnung                                                                                   |
+| § 35  | Abschiebungsandrohung bei Unzulässigkeit des Asylantrags                                                |
+| § 36  | Verfahren bei Unzulässigkeit nach § 29 Absatz 1 Nummer 2 und 4 und bei offensichtlicher Unbegründetheit |
+| § 37  | Weiteres Verfahren bei stattgebender gerichtlicher Entscheidung                                         |
+| § 38  | Ausreisefrist bei sonstiger Ablehnung und bei Rücknahme des Asylantrags                                 |
+| § 39  | (weggefallen)                                                                                           |
+| § 40  | Unterrichtung der Ausländerbehörde                                                                      |
+| § 41  | (weggefallen)                                                                                           |
+| § 42  | Bindungswirkung ausländerrechtlicher Entscheidungen                                                     |
+| § 43  | Vollziehbarkeit und Aussetzung der Abschiebung                                                          |
+| § 43a | (weggefallen)                                                                                           |
+| § 43b | (weggefallen)                                                                                           |
 
 Abschnitt 5
 
@@ -261,6 +270,7 @@ Abschnitt 11
 | § 87  | Übergangsvorschriften                                                                  |
 | § 87a | Übergangsvorschriften aus Anlass der am 1. Juli 1993 in Kraft getretenen Änderungen    |
 | § 87b | Übergangsvorschrift aus Anlass der am 1. September 2004 in Kraft getretenen Änderungen |
+| § 87c | Übergangsvorschriften aus Anlass der am 6. August 2016 in Kraft getretenen Änderungen  |
 | § 88  | Verordnungsermächtigungen                                                              |
 | § 88a | Bestimmungen zum Verwaltungsverfahren                                                  |
 | § 89  | Einschränkung von Grundrechten                                                         |
@@ -483,7 +493,7 @@ Abschnitt 3 Allgemeine Bestimmungen
 
 (2) Das Bundesministerium des Innern bestellt den Leiter des Bundesamtes. Dieser sorgt für die ordnungsgemäße Organisation der Asylverfahren.
 
-(3) Der Leiter des Bundesamtes soll bei jeder Zentralen Aufnahmeeinrichtung für Asylbewerber (Aufnahmeeinrichtung) mit mindestens 500 Unterbringungsplätzen eine Außenstelle einrichten. Er kann in Abstimmung mit den Ländern weitere Außenstellen einrichten.
+(3) Der Leiter des Bundesamtes soll bei jeder Zentralen Aufnahmeeinrichtung für Asylbewerber (Aufnahmeeinrichtung) mit mindestens 1 000 dauerhaften Unterbringungsplätzen in Abstimmung mit dem Land eine Außenstelle einrichten. Er kann in Abstimmung mit den Ländern weitere Außenstellen einrichten.
 
 (4) Der Leiter des Bundesamtes kann mit den Ländern vereinbaren, ihm sachliche und personelle Mittel zur notwendigen Erfüllung seiner Aufgaben in den Außenstellen zur Verfügung zu stellen. Die ihm zur Verfügung gestellten Bediensteten unterliegen im gleichen Umfang seinen fachlichen Weisungen wie die Bediensteten des Bundesamtes. Die näheren Einzelheiten sind in einer Verwaltungsvereinbarung zwischen dem Bund und dem Land zu regeln.
 
@@ -528,7 +538,7 @@ Nach Satz 2 Nr. 3 und 4 sowie bei ausländischen Behörden und nichtöffentliche
 die Erhebung der öffentlichen Klage, wenn eine Freiheitsstrafe von mindestens drei Jahren zu erwarten ist,
 
 2.  
-die Erhebung der öffentlichen Klage wegen einer oder mehrerer vorsätzlicher Straftaten gegen das Leben, die körperliche Unversehrtheit, die sexuelle Selbstbestimmung, das Eigentum oder wegen Widerstands gegen Vollstreckungsbeamte, sofern die Straftat mit Gewalt, unter Anwendung von Drohung mit Gefahr für Leib oder Leben oder mit List begangen worden ist, wenn eine Freiheits- oder Jugendstrafe von mindestens einem Jahr zu erwarten ist, und
+die Erhebung der öffentlichen Klage wegen einer oder mehrerer vorsätzlicher Straftaten gegen das Leben, die körperliche Unversehrtheit, die sexuelle Selbstbestimmung, das Eigentum oder wegen Widerstands gegen Vollstreckungsbeamte, sofern die Straftat mit Gewalt, unter Anwendung von Drohung mit Gefahr für Leib oder Leben oder mit List begangen worden ist oder eine Straftat nach § 177 des Strafgesetzbuches ist, wenn eine Freiheits- oder Jugendstrafe von mindestens einem Jahr zu erwarten ist, und
 
 3.  
 die Erledigung eines Strafverfahrens
@@ -537,10 +547,12 @@ a)
 durch eine rechtskräftige Verurteilung zu einer Freiheitsstrafe von mindestens drei Jahren,
 
 b)  
-durch eine rechtskräftige Verurteilung zu einer Freiheits- oder Jugendstrafe von mindestens einem Jahr wegen einer oder mehrerer vorsätzlicher Straftaten gegen das Leben, die körperliche Unversehrtheit, die sexuelle Selbstbestimmung, das Eigentum oder wegen Widerstands gegen Vollstreckungsbeamte, sofern die Straftat mit Gewalt, unter Anwendung von Drohung mit Gefahr für Leib oder Leben oder mit List begangen worden ist, oder
+durch eine rechtskräftige Verurteilung zu einer Freiheits- oder Jugendstrafe von mindestens einem Jahr wegen einer oder mehrerer vorsätzlicher Straftaten gegen das Leben, die körperliche Unversehrtheit, die sexuelle Selbstbestimmung, das Eigentum oder wegen Widerstands gegen Vollstreckungsbeamte, sofern die Straftat mit Gewalt, unter Anwendung von Drohung mit Gefahr für Leib oder Leben oder mit List begangen worden ist oder eine Straftat nach § 177 des Strafgesetzbuches ist, oder
 
 c)  
 in sonstiger Weise im Falle einer vorausgegangenen Unterrichtung nach Nummer 1 oder 2.
+
+(1b) Die oberste Landesbehörde oder die von ihr bestimmte Stelle kann dem Bundesamt personenbezogene Informationen über körperliche, seelische, geistige oder Sinnesbeeinträchtigungen eines Ausländers übermitteln, deren Kenntnis für das Bundesamt zur ordnungsgemäßen Durchführung der Anhörung erforderlich ist. Die Daten dürfen nur zu diesem Zweck verwendet werden und sind anschließend zu löschen.
 
 (2) Die zuständigen Behörden unterrichten das Bundesamt unverzüglich über ein förmliches Auslieferungsersuchen und ein mit der Ankündigung des Auslieferungsersuchens verbundenes Festnahmeersuchen eines anderen Staates sowie über den Abschluss des Auslieferungsverfahrens, wenn der Ausländer einen Asylantrag gestellt hat.
 
@@ -618,7 +630,7 @@ Unterabschnitt 1 Allgemeine Verfahrensvorschriften
 
 ### § 14 Antragstellung
 
-(1) Der Asylantrag ist bei der Außenstelle des Bundesamtes zu stellen, die der für die Aufnahme des Ausländers zuständigen Aufnahmeeinrichtung zugeordnet ist. Der Ausländer ist vor der Antragstellung schriftlich und gegen Empfangsbestätigung darauf hinzuweisen, dass nach Rücknahme oder unanfechtbarer Ablehnung seines Asylantrages die Erteilung eines Aufenthaltstitels gemäß § 10 Abs. 3 des Aufenthaltsgesetzes Beschränkungen unterliegt. In Fällen des Absatzes 2 Satz 1 Nr. 2 ist der Hinweis unverzüglich nachzuholen.
+(1) Der Asylantrag ist bei der Außenstelle des Bundesamtes zu stellen, die der für die Aufnahme des Ausländers zuständigen Aufnahmeeinrichtung zugeordnet ist. Das Bundesamt kann den Ausländer in Abstimmung mit der von der obersten Landesbehörde bestimmten Stelle verpflichten, seinen Asylantrag bei einer anderen Außenstelle zu stellen. Der Ausländer ist vor der Antragstellung schriftlich und gegen Empfangsbestätigung darauf hinzuweisen, dass nach Rücknahme oder unanfechtbarer Ablehnung seines Asylantrages die Erteilung eines Aufenthaltstitels gemäß § 10 Abs. 3 des Aufenthaltsgesetzes Beschränkungen unterliegt. In Fällen des Absatzes 2 Satz 1 Nr. 2 ist der Hinweis unverzüglich nachzuholen.
 
 (2) Der Asylantrag ist beim Bundesamt zu stellen, wenn der Ausländer
 
@@ -650,7 +662,7 @@ Sicherungshaft nach § 62 Absatz 3 Satz 1 Nr. 1 des Aufenthaltsgesetzes, weil er
 5.  
 Sicherungshaft nach § 62 Absatz 3 Satz 1 Nr. 1a bis 5 des Aufenthaltsgesetzes,
 
-steht die Asylantragstellung der Anordnung oder Aufrechterhaltung von Abschiebungshaft nicht entgegen. Dem Ausländer ist unverzüglich Gelegenheit zu geben, mit einem Rechtsbeistand seiner Wahl Verbindung aufzunehmen, es sei denn, er hat sich selbst vorher anwaltlichen Beistands versichert. Die Abschiebungshaft endet mit der Zustellung der Entscheidung des Bundesamtes, spätestens jedoch vier Wochen nach Eingang des Asylantrags beim Bundesamt, es sei denn, es wurde auf Grund von Rechtsvorschriften der Europäischen Gemeinschaft oder eines völkerrechtlichen Vertrages über die Zuständigkeit für die Durchführung von Asylverfahren ein Auf- oder Wiederaufnahmeersuchen an einen anderen Staat gerichtet oder der Asylantrag wurde als unbeachtlich oder offensichtlich unbegründet abgelehnt.
+steht die Asylantragstellung der Anordnung oder Aufrechterhaltung von Abschiebungshaft nicht entgegen. Dem Ausländer ist unverzüglich Gelegenheit zu geben, mit einem Rechtsbeistand seiner Wahl Verbindung aufzunehmen, es sei denn, er hat sich selbst vorher anwaltlichen Beistands versichert. Die Abschiebungshaft endet mit der Zustellung der Entscheidung des Bundesamtes, spätestens jedoch vier Wochen nach Eingang des Asylantrags beim Bundesamt, es sei denn, es wurde auf Grund von Rechtsvorschriften der Europäischen Gemeinschaft oder eines völkerrechtlichen Vertrages über die Zuständigkeit für die Durchführung von Asylverfahren ein Auf- oder Wiederaufnahmeersuchen an einen anderen Staat gerichtet oder der Asylantrag wurde als unzulässig nach § 29 Absatz 1 Nummer 4 oder als offensichtlich unbegründet abgelehnt.
 
 ### § 14a Familieneinheit
 
@@ -859,6 +871,8 @@ Unterabschnitt 3 Verfahren beim Bundesamt
 
 (1) Das Bundesamt klärt den Sachverhalt und erhebt die erforderlichen Beweise. Nach der Asylantragstellung unterrichtet das Bundesamt den Ausländer in einer Sprache, deren Kenntnis vernünftigerweise vorausgesetzt werden kann, über den Ablauf des Verfahrens und über seine Rechte und Pflichten im Verfahren, insbesondere auch über Fristen und die Folgen einer Fristversäumung. Es hat den Ausländer persönlich anzuhören. Von einer Anhörung kann abgesehen werden, wenn das Bundesamt den Ausländer als asylberechtigt anerkennen will oder wenn der Ausländer nach seinen Angaben aus einem sicheren Drittstaat (§ 26a) eingereist ist. Von einer Anhörung kann auch abgesehen werden, wenn das Bundesamt einem nach § 13 Absatz 2 Satz 2 beschränkten Asylantrag stattgeben will. Von der Anhörung ist abzusehen, wenn der Asylantrag für ein im Bundesgebiet geborenes Kind unter sechs Jahren gestellt und der Sachverhalt auf Grund des Inhalts der Verfahrensakten der Eltern oder eines Elternteils ausreichend geklärt ist.
 
+(1a) Sucht eine große Zahl von Ausländern gleichzeitig um Asyl nach und wird es dem Bundesamt dadurch unmöglich, die Anhörung in zeitlichem Zusammenhang mit der Antragstellung durchzuführen, so kann das Bundesamt die Anhörung vorübergehend von einer anderen Behörde, die Aufgaben nach diesem Gesetz oder dem Aufenthaltsgesetz wahrnimmt, durchführen lassen. Die Anhörung darf nur von einem dafür geschulten Bediensteten durchgeführt werden. Die Bediensteten dürfen bei der Anhörung keine Uniform tragen. § 5 Absatz 4 gilt entsprechend.
+
 (2) Nach Stellung eines Asylantrags obliegt dem Bundesamt auch die Entscheidung, ob ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes vorliegt.
 
 (3) Das Bundesamt unterrichtet die Ausländerbehörde unverzüglich über
@@ -908,6 +922,8 @@ der Ehegatte oder der Lebenspartner vor der Anerkennung des Ausländers als Asyl
 
 4.  
 die Anerkennung des Asylberechtigten nicht zu widerrufen oder zurückzunehmen ist.
+
+Für die Anerkennung als Asylberechtigter nach Satz 1 ist es unbeachtlich, wenn die Ehe nach deutschem Recht wegen Minderjährigkeit im Zeitpunkt der Eheschließung unwirksam oder aufgehoben worden ist; dies gilt nicht zugunsten des im Zeitpunkt der Eheschließung volljährigen Ehegatten.
 
 (2) Ein zum Zeitpunkt seiner Asylantragstellung minderjähriges lediges Kind eines Asylberechtigten wird auf Antrag als asylberechtigt anerkannt, wenn die Anerkennung des Ausländers als Asylberechtigter unanfechtbar ist und diese Anerkennung nicht zu widerrufen oder zurückzunehmen ist.
 
@@ -963,9 +979,7 @@ der Ausländer auf Grund einer Anordnung nach § 18 Abs. 4 Nr. 2 nicht zurückge
 
 (3) Hat sich ein Ausländer in einem sonstigen Drittstaat, in dem ihm keine politische Verfolgung droht, vor der Einreise in das Bundesgebiet länger als drei Monate aufgehalten, so wird vermutet, dass er dort vor politischer Verfolgung sicher war. Das gilt nicht, wenn der Ausländer glaubhaft macht, dass eine Abschiebung in einen anderen Staat, in dem ihm politische Verfolgung droht, nicht mit hinreichender Sicherheit auszuschließen war.
 
-### § 27a Zuständigkeit eines anderen Staates
-
-Ein Asylantrag ist unzulässig, wenn ein anderer Staat auf Grund von Rechtsvorschriften der Europäischen Gemeinschaft oder eines völkerrechtlichen Vertrages für die Durchführung des Asylverfahrens zuständig ist.
+### § 27a (weggefallen)
 
 ### § 28 Nachfluchttatbestände
 
@@ -975,15 +989,42 @@ Ein Asylantrag ist unzulässig, wenn ein anderer Staat auf Grund von Rechtsvorsc
 
 (2) Stellt der Ausländer nach Rücknahme oder unanfechtbarer Ablehnung eines Asylantrags erneut einen Asylantrag und stützt diesen auf Umstände, die er nach Rücknahme oder unanfechtbarer Ablehnung seines früheren Antrags selbst geschaffen hat, kann in einem Folgeverfahren in der Regel die Flüchtlingseigenschaft nicht zuerkannt werden.
 
-### § 29 Unbeachtliche Asylanträge
+### § 29 Unzulässige Anträge
 
-(1) Ein Asylantrag ist unbeachtlich, wenn offensichtlich ist, dass der Ausländer bereits in einem sonstigen Drittstaat vor politischer Verfolgung sicher war und die Rückführung in diesen Staat oder in einen anderen Staat, in dem er vor politischer Verfolgung sicher ist, möglich ist.
+(1) Ein Asylantrag ist unzulässig, wenn
 
-(2) Ist die Rückführung innerhalb von drei Monaten nicht möglich, ist das Asylverfahren fortzuführen. Die Ausländerbehörde hat das Bundesamt unverzüglich zu unterrichten.
+1.  
+ein anderer Staat
+
+a)  
+nach Maßgabe der Verordnung (EU) Nr.604/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (ABl. L 180 vom 29.6.2013, S. 31) oder
+
+b)  
+auf Grund von anderen Rechtsvorschriften der Europäischen Union oder eines völkerrechtlichen Vertrages
+
+für die Durchführung des Asylverfahrens zuständig ist,
+
+2.  
+ein anderer Mitgliedstaat der Europäischen Union dem Ausländer bereits internationalen Schutz im Sinne des § 1 Absatz 1 Nummer 2 gewährt hat,
+
+3.  
+ein Staat, der bereit ist, den Ausländer wieder aufzunehmen, als für den Ausländer sicherer Drittstaat gemäß § 26a betrachtet wird,
+
+4.  
+ein Staat, der kein Mitgliedstaat der Europäischen Union und bereit ist, den Ausländer wieder aufzunehmen, als sonstiger Drittstaat gemäß § 27 betrachtet wird oder
+
+5.  
+im Falle eines Folgeantrags nach § 71 oder eines Zweitantrags nach § 71a ein weiteres Asylverfahren nicht durchzuführen ist.
+
+(2) Das Bundesamt hört den Ausländer zu den Gründen nach Absatz 1 Nummer 1 Buchstabe b bis Nummer 4 persönlich an, bevor es über die Zulässigkeit eines Asylantrags entscheidet. Zu den Gründen nach Absatz 1 Nummer 5 gibt es dem Ausländer Gelegenheit zur Stellungnahme nach § 71 Absatz 3.
+
+(3) Erscheint der Ausländer nicht zur Anhörung über die Zulässigkeit, entscheidet das Bundesamt nach Aktenlage. Dies gilt nicht, wenn der Ausländer unverzüglich nachweist, dass das in Satz 1 genannte Versäumnis auf Umstände zurückzuführen war, auf die er keinen Einfluss hatte. Führt der Ausländer diesen Nachweis, ist das Verfahren fortzuführen.
+
+(4) Die Anhörung zur Zulässigkeit des Asylantrags kann gemäß § 24 Absatz 1a dafür geschulten Bediensteten anderer Behörden übertragen werden.
 
 ### § 29a Sicherer Herkunftsstaat; Bericht; Verordnungsermächtigung
 
-(1) Der Asylantrag eines Ausländers aus einem Staat im Sinne des Artikels 16a Abs. 3 Satz 1 des Grundgesetzes (sicherer Herkunftsstaat) ist als offensichtlich unbegründet abzulehnen, es sei denn, die von dem Ausländer angegebenen Tatsachen oder Beweismittel begründen die Annahme, dass ihm abweichend von der allgemeinen Lage im Herkunftsstaat politische Verfolgung droht.
+(1) Der Asylantrag eines Ausländers aus einem Staat im Sinne des Artikels 16a Abs. 3 Satz 1 des Grundgesetzes (sicherer Herkunftsstaat) ist als offensichtlich unbegründet abzulehnen, es sei denn, die von dem Ausländer angegebenen Tatsachen oder Beweismittel begründen die Annahme, dass ihm abweichend von der allgemeinen Lage im Herkunftsstaat Verfolgung im Sinne des § 3 Absatz 1 oder ein ernsthafter Schaden im Sinne des § 4 Absatz 1 droht.
 
 (2) Sichere Herkunftsstaaten sind die Mitgliedstaaten der Europäischen Union und die in Anlage II bezeichneten Staaten.
 
@@ -991,11 +1032,11 @@ Ein Asylantrag ist unzulässig, wenn ein anderer Staat auf Grund von Rechtsvorsc
 
 (3) Die Bundesregierung bestimmt durch Rechtsverordnung ohne Zustimmung des Bundesrates, dass ein in Anlage II bezeichneter Staat nicht mehr als sicherer Herkunftsstaat gilt, wenn Veränderungen in den rechtlichen oder politischen Verhältnissen dieses Staates die Annahme begründen, dass die in Artikel 16a Abs. 3 Satz 1 des Grundgesetzes bezeichneten Voraussetzungen entfallen sind. Die Verordnung tritt spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft.
 
-§ 29a Abs. 1: Mit GG (100-1) vereinbar gem. BVerfGE v. 14.5.1996 I 952 - 2 BvR 1507/93 u. 2 BvR 1508/93 -
+§ 29a Abs. 1: Mit GG (100-1) vereinbar gem. BVerfGE v. 14.5.1996 I 952 - 2 BvR 1507/93 u. 2 BvR 1508/93 -; idF d. Art. 6 Nr. 8 G v. 31.7.2016 I 1939 mWv 6.8.2016
 
 ### § 30 Offensichtlich unbegründete Asylanträge
 
-(1) Ein Asylantrag ist offensichtlich unbegründet, wenn die Voraussetzungen für eine Anerkennung als Asylberechtigter und die Voraussetzungen für die Zuerkennung der Flüchtlingseigenschaft offensichtlich nicht vorliegen.
+(1) Ein Asylantrag ist offensichtlich unbegründet, wenn die Voraussetzungen für eine Anerkennung als Asylberechtigter und die Voraussetzungen für die Zuerkennung des internationalen Schutzes offensichtlich nicht vorliegen.
 
 (2) Ein Asylantrag ist insbesondere offensichtlich unbegründet, wenn nach den Umständen des Einzelfalles offensichtlich ist, dass sich der Ausländer nur aus wirtschaftlichen Gründen oder um einer allgemeinen Notsituation zu entgehen, im Bundesgebiet aufhält.
 
@@ -1062,7 +1103,7 @@ einer Einstellung des Verfahrens oder
 einer Ablehnung des Asylantrags
 
 a)  
-nach § 29 als unbeachtlich,
+nach § 29 Absatz 1 Nummer 4 als unzulässig,
 
 b)  
 nach § 29a oder § 30 als offensichtlich unbegründet oder
@@ -1074,19 +1115,17 @@ Die §§ 48 bis 50 bleiben unberührt.
 
 ### § 31 Entscheidung des Bundesamtes über Asylanträge
 
-(1) Die Entscheidung des Bundesamtes ergeht schriftlich. Sie ist schriftlich zu begründen und den Beteiligten mit Rechtsbehelfsbelehrung unverzüglich zuzustellen. Wurde kein Bevollmächtigter für das Verfahren bestellt, ist eine Übersetzung der Entscheidungsformel und der Rechtsbehelfsbelehrung in einer Sprache beizufügen, deren Kenntnis vernünftigerweise vorausgesetzt werden kann; Asylberechtigte und Ausländer, denen internationaler Schutz im Sinne des § 1 Absatz 1 Nummer 2 zuerkannt wird oder bei denen das Bundesamt ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes festgestellt hat, werden zusätzlich über die Rechte und Pflichten unterrichtet, die sich daraus ergeben. Wird der Asylantrag nur nach § 26a oder § 27a abgelehnt, ist die Entscheidung zusammen mit der Abschiebungsanordnung nach § 34a dem Ausländer selbst zuzustellen. Sie kann ihm auch von der für die Abschiebung oder für die Durchführung der Abschiebung zuständigen Behörde zugestellt werden. Wird der Ausländer durch einen Bevollmächtigten vertreten oder hat er einen Empfangsberechtigten benannt, soll diesem ein Abdruck der Entscheidung zugeleitet werden.
+(1) Die Entscheidung des Bundesamtes ergeht schriftlich. Sie ist schriftlich zu begründen. Entscheidungen, die der Anfechtung unterliegen, sind den Beteiligten unverzüglich zuzustellen. Wurde kein Bevollmächtigter für das Verfahren bestellt, ist eine Übersetzung der Entscheidungsformel und der Rechtsbehelfsbelehrung in einer Sprache beizufügen, deren Kenntnis vernünftigerweise vorausgesetzt werden kann; Asylberechtigte und Ausländer, denen internationaler Schutz im Sinne des § 1 Absatz 1 Nummer 2 zuerkannt wird oder bei denen das Bundesamt ein Abschiebungsverbot nach § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes festgestellt hat, werden zusätzlich über die Rechte und Pflichten unterrichtet, die sich daraus ergeben. Wird der Asylantrag nur nach § 26a oder § 29 Absatz 1 Nummer 1 abgelehnt, ist die Entscheidung zusammen mit der Abschiebungsanordnung nach § 34a dem Ausländer selbst zuzustellen. Sie kann ihm auch von der für die Abschiebung oder für die Durchführung der Abschiebung zuständigen Behörde zugestellt werden. Wird der Ausländer durch einen Bevollmächtigten vertreten oder hat er einen Empfangsberechtigten benannt, soll diesem ein Abdruck der Entscheidung zugeleitet werden.
 
-(2) In Entscheidungen über beachtliche Asylanträge und nach § 30 Abs. 5 ist ausdrücklich festzustellen, ob dem Ausländer die Flüchtlingseigenschaft oder der subsidiäre Schutz zuerkannt wird und ob er als Asylberechtigter anerkannt wird. In den Fällen des § 13 Absatz 2 Satz 2 ist nur über den beschränkten Antrag zu entscheiden.
+(2) In Entscheidungen über zulässige Asylanträge und nach § 30 Abs. 5 ist ausdrücklich festzustellen, ob dem Ausländer die Flüchtlingseigenschaft oder der subsidiäre Schutz zuerkannt wird und ob er als Asylberechtigter anerkannt wird. In den Fällen des § 13 Absatz 2 Satz 2 ist nur über den beschränkten Antrag zu entscheiden.
 
-(3) In den Fällen des Absatzes 2 und in Entscheidungen über unbeachtliche Asylanträge ist festzustellen, ob die Voraussetzungen des § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes vorliegen. Davon kann abgesehen werden, wenn der Ausländer als Asylberechtigter anerkannt wird oder ihm internationaler Schutz im Sinne des § 1 Absatz 1 Nummer 2 zuerkannt wird.
+(3) In den Fällen des Absatzes 2 und in Entscheidungen über unzulässige Asylanträge ist festzustellen, ob die Voraussetzungen des § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes vorliegen. Davon kann abgesehen werden, wenn der Ausländer als Asylberechtigter anerkannt wird oder ihm internationaler Schutz im Sinne des § 1 Absatz 1 Nummer 2 zuerkannt wird.
 
-(4) Wird der Asylantrag nur nach § 26a abgelehnt, ist nur festzustellen, dass dem Ausländer auf Grund seiner Einreise aus einem sicheren Drittstaat kein Asylrecht zusteht. In den Fällen des § 26 Absatz 1 bis 4 bleibt § 26 Absatz 5 unberührt.
+(4) Wird der Asylantrag nur nach § 26a als unzulässig abgelehnt, bleibt § 26 Absatz 5 in den Fällen des § 26 Absatz 1 bis 4 unberührt.
 
 (5) Wird ein Ausländer nach § 26 Absatz 1 bis 3 als Asylberechtigter anerkannt oder wird ihm nach § 26 Absatz 5 internationaler Schutz im Sinne des § 1 Absatz 1 Nummer 2 zuerkannt, soll von der Feststellung der Voraussetzungen des § 60 Absatz 5 und 7 des Aufenthaltsgesetzes abgesehen werden.
 
-(6) Wird der Asylantrag nach § 27a als unzulässig abgelehnt, wird dem Ausländer in der Entscheidung mitgeteilt, welcher andere Staat für die Durchführung des Asylverfahrens zuständig ist.
-
-§ 31 Abs. 4 Satz 1: Mit GG (100-1) vereinbar gem. BVerfGE v. 14.5.1996 I 952 - 2 BvR 1938/93 u. 2 BvR 2315/93 -
+(6) Wird der Asylantrag nach § 29 Absatz 1 Nummer 1 als unzulässig abgelehnt, wird dem Ausländer in der Entscheidung mitgeteilt, welcher andere Staat für die Durchführung des Asylverfahrens zuständig ist.
 
 ### § 32 Entscheidung bei Antragsrücknahme oder Verzicht
 
@@ -1161,19 +1200,19 @@ Eine Anhörung des Ausländers vor Erlass der Abschiebungsandrohung ist nicht er
 
 ### § 34a Abschiebungsanordnung
 
-(1) Soll der Ausländer in einen sicheren Drittstaat (§ 26a) oder in einen für die Durchführung des Asylverfahrens zuständigen Staat (§ 27a) abgeschoben werden, ordnet das Bundesamt die Abschiebung in diesen Staat an, sobald feststeht, dass sie durchgeführt werden kann. Dies gilt auch, wenn der Ausländer den Asylantrag in einem anderen auf Grund von Rechtsvorschriften der Europäischen Union oder eines völkerrechtlichen Vertrages für die Durchführung des Asylverfahrens zuständigen Staat gestellt oder vor der Entscheidung des Bundesamtes zurückgenommen hat. Einer vorherigen Androhung und Fristsetzung bedarf es nicht.
+(1) Soll der Ausländer in einen sicheren Drittstaat (§ 26a) oder in einen für die Durchführung des Asylverfahrens zuständigen Staat (§ 29 Absatz 1 Nummer 1) abgeschoben werden, ordnet das Bundesamt die Abschiebung in diesen Staat an, sobald feststeht, dass sie durchgeführt werden kann. Dies gilt auch, wenn der Ausländer den Asylantrag in einem anderen auf Grund von Rechtsvorschriften der Europäischen Union oder eines völkerrechtlichen Vertrages für die Durchführung des Asylverfahrens zuständigen Staat gestellt oder vor der Entscheidung des Bundesamtes zurückgenommen hat. Einer vorherigen Androhung und Fristsetzung bedarf es nicht. Kann eine Abschiebungsanordnung nach Satz 1 oder 2 nicht ergehen, droht das Bundesamt die Abschiebung in den jeweiligen Staat an.
 
 (2) Anträge nach § 80 Absatz 5 der Verwaltungsgerichtsordnung gegen die Abschiebungsanordnung sind innerhalb einer Woche nach Bekanntgabe zu stellen. Die Abschiebung ist bei rechtzeitiger Antragstellung vor der gerichtlichen Entscheidung nicht zulässig. Anträge auf Gewährung vorläufigen Rechtsschutzes gegen die Befristung des Einreise- und Aufenthaltsverbots durch das Bundesamt nach § 11 Absatz 2 des Aufenthaltsgesetzes sind innerhalb einer Woche nach Bekanntgabe zu stellen. Die Vollziehbarkeit der Abschiebungsanordnung bleibt hiervon unberührt.
 
 § 34a: Mit GG (100-1) vereinbar gem. BVerfGE v. 14.5.1996 I 952 - 2 BvR 1938/93 u. 2 BvR 2315/93 -
 
-### § 35 Abschiebungsandrohung bei Unbeachtlichkeit des Asylantrags
+### § 35 Abschiebungsandrohung bei Unzulässigkeit des Asylantrags
 
-In den Fällen des § 29 Abs. 1 droht das Bundesamt dem Ausländer die Abschiebung in den Staat an, in dem er vor Verfolgung sicher war.
+In den Fällen des § 29 Absatz 1 Nummer 2 und 4 droht das Bundesamt dem Ausländer die Abschiebung in den Staat an, in dem er vor Verfolgung sicher war.
 
-### § 36 Verfahren bei Unbeachtlichkeit und offensichtlicher Unbegründetheit
+### § 36 Verfahren bei Unzulässigkeit nach § 29 Absatz 1 Nummer 2 und 4 und bei offensichtlicher Unbegründetheit
 
-(1) In den Fällen der Unbeachtlichkeit und der offensichtlichen Unbegründetheit des Asylantrages beträgt die dem Ausländer zu setzende Ausreisefrist eine Woche.
+(1) In den Fällen der Unzulässigkeit nach § 29 Absatz 1 Nummer 2 und 4 und der offensichtlichen Unbegründetheit des Asylantrages beträgt die dem Ausländer zu setzende Ausreisefrist eine Woche.
 
 (2) Das Bundesamt übermittelt mit der Zustellung der Entscheidung den Beteiligten eine Kopie des Inhalts der Asylakte. Der Verwaltungsvorgang ist mit dem Nachweis der Zustellung unverzüglich dem zuständigen Verwaltungsgericht zu übermitteln.
 
@@ -1183,7 +1222,7 @@ In den Fällen des § 29 Abs. 1 droht das Bundesamt dem Ausländer die Abschiebu
 
 ### § 37 Weiteres Verfahren bei stattgebender gerichtlicher Entscheidung
 
-(1) Die Entscheidung des Bundesamtes über die Unbeachtlichkeit des Antrags und die Abschiebungsandrohung werden unwirksam, wenn das Verwaltungsgericht dem Antrag nach § 80 Abs. 5 der Verwaltungsgerichtsordnung entspricht. Das Bundesamt hat das Asylverfahren fortzuführen.
+(1) Die Entscheidung des Bundesamtes über die Unzulässigkeit nach § 29 Absatz 1 Nummer 2 und 4 des Antrags und die Abschiebungsandrohung werden unwirksam, wenn das Verwaltungsgericht dem Antrag nach § 80 Abs. 5 der Verwaltungsgerichtsordnung entspricht. Das Bundesamt hat das Asylverfahren fortzuführen.
 
 (2) Entspricht das Verwaltungsgericht im Falle eines als offensichtlich unbegründet abgelehnten Asylantrags dem Antrag nach § 80 Abs. 5 der Verwaltungsgerichtsordnung, endet die Ausreisefrist 30 Tage nach dem unanfechtbaren Abschluss des Asylverfahrens.
 
@@ -1236,7 +1275,7 @@ Abschnitt 5 Unterbringung und Verteilung
 
 (2) Das Bundesministerium des Innern oder die von ihm bestimmte Stelle teilt den Ländern monatlich die Zahl der Zugänge von Asylbegehrenden, die voraussichtliche Entwicklung und den voraussichtlichen Bedarf an Unterbringungsplätzen mit.
 
-(3) § 45 des Achten Buches Sozialgesetzbuch (Artikel 1 des Gesetzes vom 26. Juni 1990, BGBl. I S. 1163) gilt nicht für Aufnahmeeinrichtungen. Träger von Aufnahmeeinrichtungen sollen sich von Personen, die in diesen Einrichtungen mit der Beaufsichtigung, Betreuung, Erziehung oder Ausbildung Minderjähriger oder mit Tätigkeiten, die in vergleichbarer Weise geeignet sind, Kontakt zu Minderjährigen aufzunehmen, betraut sind, zur Prüfung, ob sie für die aufgeführten Tätigkeiten geeignet sind, vor deren Einstellung oder Aufnahme einer dauerhaften ehrenamtlichen Tätigkeit und in regelmäßigen Abständen ein Führungszeugnis nach § 30 Absatz 5 und § 30a Absatz 1 des Bundeszentralregistergesetzes vorlegen lassen. Träger von Aufnahmeeinrichtungen dürfen für die Tätigkeiten nach Satz 2 keine Personen beschäftigen oder mit diesen Tätigkeiten ehrenamtlich betrauen, die rechtskräftig wegen einer Straftat nach den §§ 171, 174 bis 174c, 176 bis 180a, 181a, 182 bis 184g, 225, 232 bis 233a, 234, 235 oder 236 des Strafgesetzbuchs verurteilt worden sind. Nimmt der Träger einer Aufnahmeeinrichtung Einsicht in ein Führungszeugnis nach § 30 Absatz 5 und § 30a Absatz 1 des Bundeszentralregistergesetzes, so speichert er nur den Umstand der Einsichtnahme, das Datum des Führungszeugnisses und die Information, ob die das Führungszeugnis betreffende Person wegen einer in Satz 3 genannten Straftat rechtskräftig verurteilt worden ist. Der Träger einer Aufnahmeeinrichtung darf diese Daten nur verändern und nutzen, soweit dies zur Prüfung der Eignung einer Person für die in Satz 2 genannten Tätigkeiten erforderlich ist. Die Daten sind vor dem Zugriff Unbefugter zu schützen. Sie sind unverzüglich zu löschen, wenn im Anschluss an die Einsichtnahme keine Tätigkeit nach Satz 2 wahrgenommen wird. Sie sind spätestens sechs Monate nach der letztmaligen Ausübung einer in Satz 2 genannten Tätigkeit zu löschen.
+(3) § 45 des Achten Buches Sozialgesetzbuch (Artikel 1 des Gesetzes vom 26. Juni 1990, BGBl. I S. 1163) gilt nicht für Aufnahmeeinrichtungen. Träger von Aufnahmeeinrichtungen sollen sich von Personen, die in diesen Einrichtungen mit der Beaufsichtigung, Betreuung, Erziehung oder Ausbildung Minderjähriger oder mit Tätigkeiten, die in vergleichbarer Weise geeignet sind, Kontakt zu Minderjährigen aufzunehmen, betraut sind, zur Prüfung, ob sie für die aufgeführten Tätigkeiten geeignet sind, vor deren Einstellung oder Aufnahme einer dauerhaften ehrenamtlichen Tätigkeit und in regelmäßigen Abständen ein Führungszeugnis nach § 30 Absatz 5 und § 30a Absatz 1 des Bundeszentralregistergesetzes vorlegen lassen. Träger von Aufnahmeeinrichtungen dürfen für die Tätigkeiten nach Satz 2 keine Personen beschäftigen oder mit diesen Tätigkeiten ehrenamtlich betrauen, die rechtskräftig wegen einer Straftat nach den §§ 171, 174 bis 174c, 176 bis 180a, 181a, 182 bis 184g, 184i, 184j, 225, 232 bis 233a, 234, 235 oder 236 des Strafgesetzbuchs verurteilt worden sind. Nimmt der Träger einer Aufnahmeeinrichtung Einsicht in ein Führungszeugnis nach § 30 Absatz 5 und § 30a Absatz 1 des Bundeszentralregistergesetzes, so speichert er nur den Umstand der Einsichtnahme, das Datum des Führungszeugnisses und die Information, ob die das Führungszeugnis betreffende Person wegen einer in Satz 3 genannten Straftat rechtskräftig verurteilt worden ist. Der Träger einer Aufnahmeeinrichtung darf diese Daten nur verändern und nutzen, soweit dies zur Prüfung der Eignung einer Person für die in Satz 2 genannten Tätigkeiten erforderlich ist. Die Daten sind vor dem Zugriff Unbefugter zu schützen. Sie sind unverzüglich zu löschen, wenn im Anschluss an die Einsichtnahme keine Tätigkeit nach Satz 2 wahrgenommen wird. Sie sind spätestens sechs Monate nach der letztmaligen Ausübung einer in Satz 2 genannten Tätigkeit zu löschen.
 
 ### § 45 Aufnahmequoten
 
@@ -1262,7 +1301,7 @@ Abschnitt 5 Unterbringung und Verteilung
 
 (1) Ausländer, die den Asylantrag bei einer Außenstelle des Bundesamtes zu stellen haben (§ 14 Abs. 1), sind verpflichtet, bis zu sechs Wochen, längstens jedoch bis zu sechs Monaten, in der für ihre Aufnahme zuständigen Aufnahmeeinrichtung zu wohnen. Das Gleiche gilt in den Fällen des § 14 Absatz 2 Satz 1 Nummer 2, wenn die Voraussetzungen dieser Vorschrift vor der Entscheidung des Bundesamtes entfallen.
 
-(1a) Abweichend von Absatz 1 sind Ausländer aus einem sicheren Herkunftsstaat (§ 29a) verpflichtet, bis zur Entscheidung des Bundesamtes über den Asylantrag und im Falle der Ablehnung des Asylantrags nach § 29a als offensichtlich unbegründet oder nach § 27a als unzulässig bis zur Ausreise oder bis zum Vollzug der Abschiebungsandrohung oder -anordnung in der für ihre Aufnahme zuständigen Aufnahmeeinrichtung zu wohnen. Die §§ 48 bis 50 bleiben unberührt.
+(1a) Abweichend von Absatz 1 sind Ausländer aus einem sicheren Herkunftsstaat (§ 29a) verpflichtet, bis zur Entscheidung des Bundesamtes über den Asylantrag und im Falle der Ablehnung des Asylantrags nach § 29a als offensichtlich unbegründet oder nach § 29 Absatz 1 Nummer 1 als unzulässig bis zur Ausreise oder bis zum Vollzug der Abschiebungsandrohung oder -anordnung in der für ihre Aufnahme zuständigen Aufnahmeeinrichtung zu wohnen. Die §§ 48 bis 50 bleiben unberührt.
 
 (2) Sind Eltern eines minderjährigen ledigen Kindes verpflichtet, in einer Aufnahmeeinrichtung zu wohnen, so kann auch das Kind in der Aufnahmeeinrichtung wohnen, auch wenn es keinen Asylantrag gestellt hat.
 
@@ -1294,7 +1333,7 @@ nach der Antragstellung durch Eheschließung oder Begründung einer Lebenspartne
 (1) Ausländer sind unverzüglich aus der Aufnahmeeinrichtung zu entlassen und innerhalb des Landes zu verteilen, wenn das Bundesamt der zuständigen Landesbehörde mitteilt, dass
 
 1.  
-nicht oder nicht kurzfristig entschieden werden kann, dass der Asylantrag unzulässig, unbeachtlich oder offensichtlich unbegründet ist und ob die Voraussetzungen des § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes in der Person des Ausländers oder eines seiner Familienangehörigen im Sinne des § 26 Absatz 1 bis 3 vorliegen, oder
+nicht oder nicht kurzfristig entschieden werden kann, dass der Asylantrag unzulässig oder offensichtlich unbegründet ist und ob die Voraussetzungen des § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes in der Person des Ausländers oder eines seiner Familienangehörigen im Sinne des § 26 Absatz 1 bis 3 vorliegen, oder
 
 2.  
 das Verwaltungsgericht die aufschiebende Wirkung der Klage gegen die Entscheidung des Bundesamtes angeordnet hat.
@@ -1348,7 +1387,7 @@ Abschnitt 6 Recht des Aufenthalts während des Asylverfahrens
 
 ### § 55 Aufenthaltsgestattung
 
-(1) Einem Ausländer, der um Asyl nachsucht, ist zur Durchführung des Asylverfahrens der Aufenthalt im Bundesgebiet gestattet (Aufenthaltsgestattung). Er hat keinen Anspruch darauf, sich in einem bestimmten Land oder an einem bestimmten Ort aufzuhalten. Im Falle der unerlaubten Einreise aus einem sicheren Drittstaat (§ 26a) erwirbt der Ausländer die Aufenthaltsgestattung mit der Stellung eines Asylantrags.
+(1) Einem Ausländer, der um Asyl nachsucht, ist zur Durchführung des Asylverfahrens der Aufenthalt im Bundesgebiet ab Ausstellung des Ankunftsnachweises gemäß § 63a Absatz 1 gestattet (Aufenthaltsgestattung). Er hat keinen Anspruch darauf, sich in einem bestimmten Land oder an einem bestimmten Ort aufzuhalten. In den Fällen, in denen kein Ankunftsnachweis ausgestellt wird, entsteht die Aufenthaltsgestattung mit der Stellung des Asylantrags.
 
 (2) Mit der Stellung eines Asylantrags erlöschen eine Befreiung vom Erfordernis eines Aufenthaltstitels und ein Aufenthaltstitel mit einer Gesamtgeltungsdauer bis zu sechs Monaten sowie die in § 81 Abs. 3 und 4 des Aufenthaltsgesetzes bezeichneten Wirkungen eines Antrags auf Erteilung eines Aufenthaltstitels. § 81 Abs. 4 des Aufenthaltsgesetzes bleibt unberührt, wenn der Ausländer einen Aufenthaltstitel mit einer Gesamtgeltungsdauer von mehr als sechs Monaten besessen und dessen Verlängerung beantragt hat.
 
@@ -1469,7 +1508,15 @@ Eine Anhörung des Ausländers ist erforderlich in den Fällen des Satzes 1 Numm
 
 (4) Die Bescheinigung soll eingezogen werden, wenn die Aufenthaltsgestattung erloschen ist.
 
-(5) Im Übrigen gilt § 78a Absatz 5 des Aufenthaltsgesetzes entsprechend.
+(5) Die Bescheinigung enthält folgende Angaben:
+
+1.  
+das Datum der Ausstellung des Ankunftsnachweises gemäß § 63a Absatz 1 Satz 2 Nummer 12 und
+
+2.  
+das Datum der Asylantragstellung.
+
+Im Übrigen gilt § 78a Absatz 5 des Aufenthaltsgesetzes entsprechend.
 
 ### § 63a Bescheinigung über die Meldung als Asylsuchender
 
@@ -1612,7 +1659,7 @@ wenn der Ausländer nach § 18 Abs. 2 und 3 zurückgewiesen oder zurückgeschobe
 (weggefallen)
 
 2.  
-wenn der Ausländer innerhalb von zwei Wochen, nachdem er um Asyl nachgesucht hat, noch keinen Asylantrag gestellt hat,
+wenn der Ausländer innerhalb von zwei Wochen, nachdem ihm der Ankunftsnachweis ausgestellt worden ist, noch keinen Asylantrag gestellt hat,
 
 3.  
 im Falle der Rücknahme des Asylantrags mit der Zustellung der Entscheidung des Bundesamtes,
@@ -1722,7 +1769,7 @@ auf sie verzichtet oder vor Eintritt der Unanfechtbarkeit der Entscheidung des B
 
 (2a) Die Prüfung, ob die Voraussetzungen für einen Widerruf nach Absatz 1 oder eine Rücknahme nach Absatz 2 vorliegen, hat spätestens nach Ablauf von drei Jahren nach Unanfechtbarkeit der Entscheidung zu erfolgen. Liegen die Voraussetzungen für einen Widerruf oder eine Rücknahme vor, teilt das Bundesamt dieses Ergebnis der Ausländerbehörde spätestens innerhalb eines Monats nach dreijähriger Unanfechtbarkeit der begünstigenden Entscheidung mit. Anderenfalls kann eine Mitteilung an die Ausländerbehörde entfallen. Der Ausländerbehörde ist auch mitzuteilen, welche Personen nach § 26 ihre Asylberechtigung oder Flüchtlingseigenschaft von dem Ausländer ableiten und ob bei ihnen die Voraussetzungen für einen Widerruf nach Absatz 2b vorliegen. Ist nach der Prüfung ein Widerruf oder eine Rücknahme nicht erfolgt, steht eine spätere Entscheidung nach Absatz 1 oder Absatz 2 im Ermessen, es sei denn, der Widerruf oder die Rücknahme erfolgt, weil die Voraussetzungen des § 60 Abs. 8 Satz 1 des Aufenthaltsgesetzes oder des § 3 Abs. 2 vorliegen oder weil das Bundesamt nach § 60 Absatz 8 Satz 3 des Aufenthaltsgesetzes von der Anwendung des § 60 Absatz 1 des Aufenthaltsgesetzes abgesehen hat.
 
-(2b) In den Fällen des § 26 Absatz 1 bis 3 und 5 ist die Anerkennung als Asylberechtigter und die Zuerkennung der Flüchtlingseigenschaft zu widerrufen, wenn die Voraussetzungen des § 26 Absatz 4 Satz 1 vorliegen. Die Anerkennung als Asylberechtigter ist ferner zu widerrufen, wenn die Anerkennung des Asylberechtigten, von dem die Anerkennung abgeleitet worden ist, erlischt, widerrufen oder zurückgenommen wird und der Ausländer nicht aus anderen Gründen als Asylberechtigter anerkannt werden könnte. In den Fällen des § 26 Absatz 5 ist die Zuerkennung der Flüchtlingseigenschaft zu widerrufen, wenn die Flüchtlingseigenschaft des Ausländers, von dem die Zuerkennung abgeleitet worden ist, erlischt, widerrufen oder zurückgenommen wird und dem Ausländer nicht aus anderen Gründen die Flüchtlingseigenschaft zuerkannt werden könnte.
+(2b) In den Fällen des § 26 Absatz 1 bis 3 und 5 ist die Anerkennung als Asylberechtigter und die Zuerkennung der Flüchtlingseigenschaft zu widerrufen, wenn die Voraussetzungen des § 26 Absatz 4 Satz 1 vorliegen. Die Anerkennung als Asylberechtigter ist ferner zu widerrufen, wenn die Anerkennung des Asylberechtigten, von dem die Anerkennung abgeleitet worden ist, erlischt, widerrufen oder zurückgenommen wird und der Ausländer nicht aus anderen Gründen als Asylberechtigter anerkannt werden könnte. In den Fällen des § 26 Absatz 5 ist die Zuerkennung der Flüchtlingseigenschaft zu widerrufen, wenn die Flüchtlingseigenschaft des Ausländers, von dem die Zuerkennung abgeleitet worden ist, erlischt, widerrufen oder zurückgenommen wird und dem Ausländer nicht aus anderen Gründen die Flüchtlingseigenschaft zuerkannt werden könnte. § 26 Absatz 1 Satz 2 gilt entsprechend.
 
 (2c) Bis zur Bestandskraft des Widerrufs oder der Rücknahme entfällt für Einbürgerungsverfahren die Verbindlichkeit der Entscheidung über den Asylantrag.
 
@@ -1903,9 +1950,7 @@ handelt.
 
 (4) Der Versuch ist strafbar.
 
-(5) In den Fällen des Absatzes 3 Nr. 1 ist § 73d des Strafgesetzbuches anzuwenden. In den Fällen des Absatzes 3 Nr. 2 sind die §§ 43a, 73d des Strafgesetzbuches anzuwenden.
-
-(6) Wer die Tat nach Absatz 1 zugunsten eines Angehörigen im Sinne des § 11 Abs. 1 Nr. 1 des Strafgesetzbuches begeht, ist straffrei.
+(5) Wer die Tat nach Absatz 1 zugunsten eines Angehörigen im Sinne des § 11 Abs. 1 Nr. 1 des Strafgesetzbuches begeht, ist straffrei.
 
 ### § 84a Gewerbs- und bandenmäßige Verleitung zur missbräuchlichen Asylantragstellung
 
@@ -1913,7 +1958,7 @@ handelt.
 
 (2) In minder schweren Fällen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu fünf Jahren.
 
-(3) Die §§ 43a, 73d des Strafgesetzbuches sind anzuwenden.
+(3) (weggefallen)
 
 ### § 85 Sonstige Straftaten
 
@@ -2007,6 +2052,20 @@ Die Wirksamkeit einer vor dem 1. Juli 1993 bereits erfolgten Übertragung auf de
 ### § 87b Übergangsvorschrift aus Anlass der am 1. September 2004 in Kraft getretenen Änderungen
 
 In gerichtlichen Verfahren nach diesem Gesetz, die vor dem 1. September 2004 anhängig geworden sind, gilt § 6 in der vor diesem Zeitpunkt geltenden Fassung weiter.
+
+### § 87c Übergangsvorschriften aus Anlass der am 6. August 2016 in Kraft getretenen Änderungen
+
+(1) Eine vor dem 6. August 2016 erworbene Aufenthaltsgestattung gilt ab dem Zeitpunkt ihrer Entstehung fort. Sie kann insbesondere durch eine Bescheinigung nach § 63 nachgewiesen werden. § 67 bleibt unberührt.
+
+(2) Der Aufenthalt eines Ausländers, der vor dem 5. Februar 2016 im Bundesgebiet um Asyl nachgesucht hat, gilt ab dem Zeitpunkt der Aufnahme in der für ihn zuständigen Aufnahmeeinrichtung oder, sofern sich dieser Zeitpunkt nicht bestimmen lässt, ab dem 5. Februar 2016 als gestattet.
+
+(3) Der Aufenthalt eines Ausländers, dem bis zum 6. August 2016 ein Ankunftsnachweis ausgestellt worden ist, gilt ab dem Zeitpunkt der Ausstellung als gestattet.
+
+(4) Der Aufenthalt eines Ausländers, der nach dem 4. Februar 2016 und vor dem 1. November 2016 um Asyl nachgesucht hat und dem aus Gründen, die er nicht zu vertreten hat, nicht unverzüglich ein Ankunftsnachweis ausgestellt worden ist, gilt mit Ablauf von zwei Wochen nach dem Zeitpunkt, in dem er um Asyl nachgesucht hat, als gestattet. Die fehlende Ausstellung des Ankunftsnachweises nach Satz 1 hat der Ausländer insbesondere dann nicht zu vertreten, wenn in der für die Ausstellung seines Ankunftsnachweises zuständigen Stelle die technischen Voraussetzungen für die Ausstellung von Ankunftsnachweisen nicht vorgelegen haben.
+
+(5) Die Absätze 2 bis 4 finden keine Anwendung, wenn der Ausländer einen vor dem 6. August 2016 liegenden Termin zur Stellung des Asylantrags nach § 23 Absatz 1 aus Gründen, die er zu vertreten hat, nicht wahrgenommen hat.
+
+(6) Ergeben sich aus der Anwendung der Absätze 1 bis 4 unterschiedliche Zeitpunkte, so ist der früheste Zeitpunkt maßgeblich.
 
 ### § 88 Verordnungsermächtigungen
 
