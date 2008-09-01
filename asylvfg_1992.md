@@ -5,13 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 2.9.2008 I 1798;
 
 Stand  
-zuletzt geändert durch Art. 6 Abs. 14 G v. 13.4.2017 I 872
-
-Hinweis  
-Änderung durch Art. 4 G v. 17.7.2017 I 2429 (Nr. 48) mWv 22.7.2017 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 2 G v. 20.7.2017 I 2780 (Nr. 52) mWv 29.7.2017 noch nicht berücksichtigt
+zuletzt geändert durch Art. 1 G v. 4.12.2018 I 2250
 
 Sonst  
 Dieses G ersetzt das G 26-5 v. 16.7.1982 I 946 (AsylVfG)
@@ -103,6 +97,7 @@ Allgemeine Verfahrensvorschriften
 | § 14   | Antragstellung                                          |
 | § 14a  | Familieneinheit                                         |
 | § 15   | Allgemeine Mitwirkungspflichten                         |
+| § 15a  | Auswertung von Datenträgern                             |
 | *§ 16* | *Sicherung, Feststellung und Überprüfung der Identität* |
 | § 17   | Sprachmittler                                           |
 
@@ -554,11 +549,30 @@ in sonstiger Weise im Falle einer vorausgegangenen Unterrichtung nach Nummer 1 o
 
 (1b) Die oberste Landesbehörde oder die von ihr bestimmte Stelle kann dem Bundesamt personenbezogene Informationen über körperliche, seelische, geistige oder Sinnesbeeinträchtigungen eines Ausländers übermitteln, deren Kenntnis für das Bundesamt zur ordnungsgemäßen Durchführung der Anhörung erforderlich ist. Die Daten dürfen nur zu diesem Zweck verwendet werden und sind anschließend zu löschen.
 
+(1c) Die Träger der Grundsicherung für Arbeitsuchende, die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden, die Ausländerbehörden und die deutschen Auslandsvertretungen teilen den mit der Ausführung dieses Gesetzes betrauten Behörden mit, wenn sie von Umständen Kenntnis erlangt haben, dass ein Asylberechtigter oder ein Ausländer, dem internationaler Schutz im Sinne des § 1 Absatz 1 Nummer 2 zuerkannt worden ist, in sein Herkunftsland (§ 3 Absatz 1 Nummer 2) gereist ist. Die nach Satz 1 übermittelten Informationen dürfen nur für die Prüfung genutzt werden, ob die Voraussetzungen für einen Widerruf oder eine Rücknahme der Asylberechtigung oder des internationalen Schutzes vorliegen.
+
 (2) Die zuständigen Behörden unterrichten das Bundesamt unverzüglich über ein förmliches Auslieferungsersuchen und ein mit der Ankündigung des Auslieferungsersuchens verbundenes Festnahmeersuchen eines anderen Staates sowie über den Abschluss des Auslieferungsverfahrens, wenn der Ausländer einen Asylantrag gestellt hat.
 
 (2a) Die mit der Ausführung dieses Gesetzes betrauten Behörden teilen Umstände und Maßnahmen nach diesem Gesetz, deren Kenntnis für die Leistung an Leistungsberechtigte des Asylbewerberleistungsgesetzes erforderlich ist, sowie die ihnen mitgeteilten Erteilungen von Arbeitserlaubnissen an diese Personen und Angaben über das Erlöschen, den Widerruf oder die Rücknahme der Arbeitserlaubnisse den nach § 10 des Asylbewerberleistungsgesetzes zuständigen Behörden mit.
 
-(3) Die nach diesem Gesetz erhobenen Daten dürfen auch zum Zwecke der Ausführung des Aufenthaltsgesetzes und der gesundheitlichen Betreuung und Versorgung von Asylbewerbern sowie für Maßnahmen der Strafverfolgung und auf Ersuchen zur Verfolgung von Ordnungswidrigkeiten den damit betrauten öffentlichen Stellen, soweit es zur Erfüllung der in ihrer Zuständigkeit liegenden Aufgaben erforderlich ist, übermittelt und von diesen dafür verarbeitet und genutzt werden. Sie dürfen an eine in § 35 Abs. 1 des Ersten Buches Sozialgesetzbuch genannte Stelle übermittelt und von dieser verarbeitet und genutzt werden, soweit dies für die Aufdeckung und Verfolgung von unberechtigtem Bezug von Leistungen nach dem Zwölften Buch Sozialgesetzbuch, von Leistungen der Kranken- und Unfallversicherungsträger oder von Arbeitslosengeld oder Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten Buch Sozialgesetzbuch erforderlich ist und wenn tatsächliche Anhaltspunkte für einen unberechtigten Bezug vorliegen. Die nach diesem Gesetz erhobenen Daten dürfen der Bundesagentur für Arbeit übermittelt und von dieser verarbeitet und genutzt werden, soweit dies zur Erfüllung von Aufgaben nach dem Dritten Buch Sozialgesetzbuch erforderlich ist. § 88 Abs. 1 bis 3 des Aufenthaltsgesetzes findet entsprechende Anwendung.
+(3) Die nach diesem Gesetz erhobenen Daten dürfen auch
+
+1.  
+zur Ausführung des Aufenthaltsgesetzes,
+
+2.  
+zur gesundheitlichen Betreuung und Versorgung von Asylbewerbern,
+
+3.  
+für Maßnahmen der Strafverfolgung,
+
+4.  
+zur Abwehr von erheblichen Gefahren für Leib und Leben des Asylbewerbers oder von Dritten und
+
+5.  
+auf Ersuchen zur Verfolgung von Ordnungswidrigkeiten
+
+den damit betrauten öffentlichen Stellen, soweit es zur Erfüllung der in ihrer Zuständigkeit liegenden Aufgaben erforderlich ist, übermittelt und von diesen dafür verarbeitet und genutzt werden. Sie dürfen an eine in § 35 Abs. 1 des Ersten Buches Sozialgesetzbuch genannte Stelle übermittelt und von dieser verarbeitet und genutzt werden, soweit dies für die Aufdeckung und Verfolgung von unberechtigtem Bezug von Leistungen nach dem Zwölften Buch Sozialgesetzbuch, von Leistungen der Kranken- und Unfallversicherungsträger oder von Arbeitslosengeld oder Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten Buch Sozialgesetzbuch erforderlich ist und wenn tatsächliche Anhaltspunkte für einen unberechtigten Bezug vorliegen. Die nach diesem Gesetz erhobenen Daten dürfen der Bundesagentur für Arbeit übermittelt und von dieser verarbeitet und genutzt werden, soweit dies zur Erfüllung von Aufgaben nach dem Dritten Buch Sozialgesetzbuch erforderlich ist. § 88 Abs. 1 bis 3 des Aufenthaltsgesetzes findet entsprechende Anwendung.
 
 (4) Die Übermittlung und Verarbeitung der im Asylverfahren erfassten Daten sind zulässig, soweit dies für die Entscheidung des Bundesamtes über die Zulassung zum Integrationskurs nach § 44 Absatz 4 des Aufenthaltsgesetzes oder zu einer Maßnahme der berufsbezogenen Deutschsprachförderung nach § 45a Absatz 2 Satz 3 und 4 des Aufenthaltsgesetzes erforderlich ist.
 
@@ -696,7 +710,7 @@ seinen Pass oder Passersatz den mit der Ausführung dieses Gesetzes betrauten Be
 alle erforderlichen Urkunden und sonstigen Unterlagen, die in seinem Besitz sind, den mit der Ausführung dieses Gesetzes betrauten Behörden vorzulegen, auszuhändigen und zu überlassen;
 
 6.  
-im Falle des Nichtbesitzes eines gültigen Passes oder Passersatzes an der Beschaffung eines Identitätspapiers mitzuwirken;
+im Falle des Nichtbesitzes eines gültigen Passes oder Passersatzes an der Beschaffung eines Identitätspapiers mitzuwirken und auf Verlangen alle Datenträger, die für die Feststellung seiner Identität und Staatsangehörigkeit von Bedeutung sein können und in deren Besitz er ist, den mit der Ausführung dieses Gesetzes betrauten Behörden vorzulegen, auszuhändigen und zu überlassen;
 
 7.  
 die vorgeschriebenen erkennungsdienstlichen Maßnahmen zu dulden.
@@ -718,9 +732,15 @@ Unterlagen über den Reiseweg vom Herkunftsland in das Bundesgebiet, die benutzt
 5.  
 alle sonstigen Urkunden und Unterlagen, auf die der Ausländer sich beruft oder die für die zu treffenden asyl- und ausländerrechtlichen Entscheidungen und Maßnahmen einschließlich der Feststellung und Geltendmachung einer Rückführungsmöglichkeit in einen anderen Staat von Bedeutung sind.
 
-(4) Die mit der Ausführung dieses Gesetzes betrauten Behörden können den Ausländer und Sachen, die von ihm mitgeführt werden, durchsuchen, wenn der Ausländer seinen Verpflichtungen nach Absatz 2 Nr. 4 und 5 nicht nachkommt und Anhaltspunkte bestehen, dass er im Besitz solcher Unterlagen ist. Der Ausländer darf nur von einer Person gleichen Geschlechts durchsucht werden.
+(4) Die mit der Ausführung dieses Gesetzes betrauten Behörden können den Ausländer und Sachen, die von ihm mitgeführt werden, durchsuchen, wenn der Ausländer seinen Verpflichtungen nach Absatz 2 Nr. 4 und 5 nicht nachkommt sowie nicht gemäß Absatz 2 Nummer 6 auf Verlangen die Datenträger vorlegt, aushändigt oder überlässt und Anhaltspunkte bestehen, dass er im Besitz solcher Unterlagen oder Datenträger ist. Der Ausländer darf nur von einer Person gleichen Geschlechts durchsucht werden.
 
 (5) Durch die Rücknahme des Asylantrags werden die Mitwirkungspflichten des Ausländers nicht beendet.
+
+### § 15a Auswertung von Datenträgern
+
+(1) Die Auswertung von Datenträgern ist nur zulässig, soweit dies für die Feststellung der Identität und Staatsangehörigkeit des Ausländers nach § 15 Absatz 2 Nummer 6 erforderlich ist und der Zweck der Maßnahme nicht durch mildere Mittel erreicht werden kann. § 48 Absatz 3a Satz 2 bis 8 und § 48a des Aufenthaltsgesetzes gelten entsprechend.
+
+(2) Für die in Absatz 1 genannten Maßnahmen ist das Bundesamt zuständig.
 
 ### § 16 Sicherung, Feststellung und Überprüfung der Identität
 
@@ -731,6 +751,14 @@ alle sonstigen Urkunden und Unterlagen, auf die der Ausländer sich beruft oder 
 (2) Zuständig für die Maßnahmen nach den Absätzen 1 und 1a sind das Bundesamt und, sofern der Ausländer dort um Asyl nachsucht, auch die in den §§ 18 und 19 bezeichneten Behörden sowie die Aufnahmeeinrichtung, bei der sich der Ausländer meldet.
 
 (3) Das Bundeskriminalamt leistet Amtshilfe bei der Auswertung der nach Absatz 1 Satz 1 erhobenen Daten zum Zwecke der Identitätsfeststellung. Es darf hierfür auch von ihm zur Erfüllung seiner Aufgaben gespeicherte erkennungsdienstliche Daten verwenden. Das Bundeskriminalamt darf den in Absatz 2 bezeichneten Behörden den Grund der Speicherung dieser Daten nicht mitteilen, soweit dies nicht nach anderen Rechtsvorschriften zulässig ist.
+
+(3a) Im Rahmen seiner Amtshilfe nach Absatz 3 Satz 1 darf das Bundeskriminalamt die nach Absatz 1 Satz 1 erhobenen Daten auch an die für die Überprüfung der Identität von Personen zuständigen öffentlichen Stellen von Drittstaaten mit Ausnahme des Herkunftsstaates der betroffenen Person sowie von Drittstaaten, in denen die betroffene Person eine Verfolgung oder einen ernsthaften Schaden zu befürchten hat, übermitteln. Die Verantwortung für die Zulässigkeit der Übermittlung trägt das Bundeskriminalamt. Das Bundeskriminalamt hat die Übermittlung und ihren Anlass aufzuzeichnen. Die empfangende Stelle personenbezogener Daten ist darauf hinzuweisen, dass sie nur zu dem Zweck genutzt werden dürfen, zu dem sie übermittelt worden sind. Ferner ist ihr der beim Bundeskriminalamt vorgesehene Löschungszeitpunkt mitzuteilen. Die Übermittlung unterbleibt, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass
+
+1.  
+unter Berücksichtigung der Art der Daten und ihrer Erhebung die schutzwürdigen Interessen der betroffenen Person, insbesondere ihr Interesse, Schutz vor Verfolgung zu erhalten, das Allgemeininteresse an der Übermittlung überwiegen oder
+
+2.  
+die Übermittlung der Daten zu den Grundrechten, dem Abkommen vom 28. Juli 1951 über die Rechtsstellung der Flüchtlinge sowie der Konvention zum Schutz der Menschenrechte und Grundfreiheiten in Widerspruch stünde, insbesondere dadurch, dass durch die Nutzung der übermittelten Daten im Empfängerstaat Verletzungen von elementaren rechtsstaatlichen Grundsätzen oder Menschenrechtsverletzungen drohen.
 
 (4) Die nach Absatz 1 Satz 1 erhobenen Daten werden vom Bundeskriminalamt getrennt von anderen erkennungsdienstlichen Daten gespeichert.
 
@@ -1303,6 +1331,8 @@ Abschnitt 5 Unterbringung und Verteilung
 
 (1a) Abweichend von Absatz 1 sind Ausländer aus einem sicheren Herkunftsstaat (§ 29a) verpflichtet, bis zur Entscheidung des Bundesamtes über den Asylantrag und im Falle der Ablehnung des Asylantrags nach § 29a als offensichtlich unbegründet oder nach § 29 Absatz 1 Nummer 1 als unzulässig bis zur Ausreise oder bis zum Vollzug der Abschiebungsandrohung oder -anordnung in der für ihre Aufnahme zuständigen Aufnahmeeinrichtung zu wohnen. Die §§ 48 bis 50 bleiben unberührt.
 
+(1b) Die Länder können regeln, dass Ausländer abweichend von Absatz 1 verpflichtet sind, bis zur Entscheidung des Bundesamtes über den Asylantrag und im Falle der Ablehnung des Asylantrags als offensichtlich unbegründet oder als unzulässig bis zur Ausreise oder bis zum Vollzug der Abschiebungsandrohung oder -anordnung in der für ihre Aufnahme zuständigen Aufnahmeeinrichtung, längstens jedoch für 24 Monate, zu wohnen. Die §§ 48 bis 50 bleiben unberührt. Insbesondere ist § 50 Absatz 1 Satz 1 Nummer 1 zu beachten, wonach der Ausländer unverzüglich aus der Aufnahmeeinrichtung zu entlassen ist, wenn das Bundesamt nicht oder nicht kurzfristig entscheiden kann, dass der Asylantrag unzulässig oder offensichtlich unbegründet ist.
+
 (2) Sind Eltern eines minderjährigen ledigen Kindes verpflichtet, in einer Aufnahmeeinrichtung zu wohnen, so kann auch das Kind in der Aufnahmeeinrichtung wohnen, auch wenn es keinen Asylantrag gestellt hat.
 
 (3) Für die Dauer der Pflicht, in einer Aufnahmeeinrichtung zu wohnen, ist der Ausländer verpflichtet, für die zuständigen Behörden und Gerichte erreichbar zu sein.
@@ -1460,10 +1490,13 @@ die Aufnahmeeinrichtung, die den Ausländer aufgenommen hat.
 der Ausländer wegen einer Straftat, mit Ausnahme solcher Straftaten, deren Tatbestand nur von Ausländern verwirklicht werden kann, rechtskräftig verurteilt worden ist,
 
 2.  
-Tatsachen die Schlussfolgerung rechtfertigen, dass der Ausländer gegen Vorschriften des Betäubungsmittelgesetzes verstoßen hat, oder
+Tatsachen die Schlussfolgerung rechtfertigen, dass der Ausländer gegen Vorschriften des Betäubungsmittelgesetzes verstoßen hat,
 
 3.  
-konkrete Maßnahmen zur Aufenthaltsbeendigung gegen den Ausländer bevorstehen.
+konkrete Maßnahmen zur Aufenthaltsbeendigung gegen den Ausländer bevorstehen oder
+
+4.  
+von dem Ausländer eine erhebliche Gefahr für die innere Sicherheit oder für Leib und Leben Dritter ausgeht.
 
 (2) Die §§ 56, 58, 59 und 59a Absatz 2 gelten entsprechend.
 
@@ -1775,7 +1808,17 @@ auf sie verzichtet oder vor Eintritt der Unanfechtbarkeit der Entscheidung des B
 
 (3) Bei Widerruf oder Rücknahme der Anerkennung als Asylberechtigter oder der Zuerkennung der Flüchtlingseigenschaft ist zu entscheiden, ob die Voraussetzungen für den subsidiären Schutz oder die Voraussetzungen des § 60 Absatz 5 oder 7 des Aufenthaltsgesetzes vorliegen.
 
-(4) Die beabsichtigte Entscheidung über einen Widerruf oder eine Rücknahme nach dieser Vorschrift oder nach § 48 des Verwaltungsverfahrensgesetzes ist dem Ausländer schriftlich mitzuteilen und ihm ist Gelegenheit zur Äußerung zu geben. Ihm kann aufgegeben werden, sich innerhalb eines Monats schriftlich zu äußern. Hat sich der Ausländer innerhalb dieser Frist nicht geäußert, ist nach Aktenlage zu entscheiden; der Ausländer ist auf diese Rechtsfolge hinzuweisen.
+(3a) Der Ausländer ist nach Aufforderung durch das Bundesamt persönlich zur Mitwirkung bei der Prüfung des Vorliegens der Voraussetzungen des Widerrufs oder der Rücknahme der Anerkennung als Asylberechtigter oder der Zuerkennung der Flüchtlingseigenschaft verpflichtet, soweit dies für die Prüfung erforderlich und dem Ausländer zumutbar ist. § 15 Absatz 1 Satz 2, Absatz 2 Nummer 1, 4 bis 7 und Absatz 3 sowie § 16 gelten entsprechend, hinsichtlich der Sicherung der Identität durch erkennungsdienstliche Maßnahmen (§ 16 Absatz 1 Satz 1 und 2) mit der Maßgabe, dass sie nur zulässig ist, soweit die Identität des Ausländers nicht bereits gesichert worden ist. Das Bundesamt soll den Ausländer mit Mitteln des Verwaltungszwangs zur Erfüllung seiner Mitwirkungspflichten anhalten. Kommt der Ausländer den Mitwirkungspflichten nicht oder nicht vollständig nach, kann das Bundesamt nach Aktenlage entscheiden, sofern
+
+1.  
+die unterbliebene Mitwirkungshandlung nicht unverzüglich nachgeholt worden ist, oder
+
+2.  
+der Ausländer die Mitwirkungspflichten ohne genügende Entschuldigung verletzt hat.
+
+Bei der Entscheidung nach Aktenlage sind für die Entscheidung über einen Widerruf oder eine Rücknahme nach dieser Vorschrift oder nach § 48 des Verwaltungsverfahrensgesetzes sämtliche maßgeblichen Tatsachen und Umstände zu berücksichtigen. Ferner ist zu berücksichtigen, inwieweit der Ausländer seinen Mitwirkungs-pflichten nachgekommen ist. Der Ausländer ist durch das Bundesamt auf Inhalt und Umfang seiner Mitwirkungspflichten nach dieser Vorschrift sowie auf die Rechtsfolgen einer Verletzung hinzuweisen.
+
+(4) In den Fällen, in denen keine Aufforderung durch das Bundesamt nach Absatz 3a erfolgt ist, ist dem Ausländer die beabsichtigte Entscheidung über einen Widerruf oder eine Rücknahme nach dieser Vorschrift oder nach § 48 des Verwaltungsverfahrensgesetzes schriftlich mitzuteilen und ihm ist Gelegenheit zur Äußerung zu geben. Ihm kann aufgegeben werden, sich innerhalb eines Monats schriftlich zu äußern. Hat sich der Ausländer innerhalb dieser Frist nicht geäußert, ist nach Aktenlage zu entscheiden; der Ausländer ist auf diese Rechtsfolge hinzuweisen.
 
 (5) Mitteilungen oder Entscheidungen des Bundesamtes, die eine Frist in Lauf setzen, sind dem Ausländer zuzustellen.
 
@@ -1820,7 +1863,7 @@ Abschnitt 9 Gerichtsverfahren
 
 ### § 75 Aufschiebende Wirkung der Klage
 
-(1) Die Klage gegen Entscheidungen nach diesem Gesetz hat nur in den Fällen des § 38 Absatz 1 sowie der §§ 73, 73b und 73c aufschiebende Wirkung.
+(1) Die Klage gegen Entscheidungen nach diesem Gesetz hat nur in den Fällen des § 38 Absatz 1 sowie der §§ 73, 73b und 73c aufschiebende Wirkung.Die Klage gegen Maßnahmen des Verwaltungszwangs (§ 73 Absatz 3a Satz 3) hat keine aufschiebende Wirkung.
 
 (2) Die Klage gegen Entscheidungen des Bundesamtes, mit denen die Anerkennung als Asylberechtigter oder die Zuerkennung der Flüchtlingseigenschaft widerrufen oder zurückgenommen worden ist, hat in folgenden Fällen keine aufschiebende Wirkung:
 
@@ -1854,7 +1897,7 @@ Dies gilt entsprechend bei Klagen gegen den Widerruf oder die Rücknahme der Gew
 
 (1) Das Urteil des Verwaltungsgerichts, durch das die Klage in Rechtsstreitigkeiten nach diesem Gesetz als offensichtlich unzulässig oder offensichtlich unbegründet abgewiesen wird, ist unanfechtbar. Das gilt auch, wenn nur das Klagebegehren gegen die Entscheidung über den Asylantrag als offensichtlich unzulässig oder offensichtlich unbegründet, das Klagebegehren im Übrigen hingegen als unzulässig oder unbegründet abgewiesen worden ist.
 
-(2) In den übrigen Fällen steht den Beteiligten die Berufung gegen das Urteil des Verwaltungsgerichts zu, wenn sie von dem Oberverwaltungsgericht zugelassen wird. Die Revision gegen das Urteil des Verwaltungsgerichts findet nicht statt.
+(2) In den übrigen Fällen steht den Beteiligten die Berufung gegen das Urteil des Verwaltungsgerichts zu, wenn sie von dem Oberverwaltungsgericht zugelassen wird.
 
 (3) Die Berufung ist nur zuzulassen, wenn
 
@@ -1871,7 +1914,7 @@ ein in § 138 der Verwaltungsgerichtsordnung bezeichneter Verfahrensmangel gelte
 
 (5) Über den Antrag entscheidet das Oberverwaltungsgericht durch Beschluss, der keiner Begründung bedarf. Mit der Ablehnung des Antrags wird das Urteil rechtskräftig. Lässt das Oberverwaltungsgericht die Berufung zu, wird das Antragsverfahren als Berufungsverfahren fortgesetzt; der Einlegung einer Berufung bedarf es nicht.
 
-(6) (weggefallen)
+(6) § 134 der Verwaltungsgerichtsordnung findet keine Anwendung, wenn das Urteil des Verwaltungsgerichts nach Absatz 1 unanfechtbar ist.
 
 (7) Ein Rechtsbehelf nach § 84 Abs. 2 der Verwaltungsgerichtsordnung ist innerhalb von zwei Wochen nach Zustellung des Gerichtsbescheids zu erheben.
 
@@ -2097,43 +2140,7 @@ Von der in § 60 getroffenen Regelung kann durch Landesrecht nicht abgewichen we
 
 (2) Das Verfahren bei Freiheitsentziehungen richtet sich nach Buch 7 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
-### § 90 Ermächtigung zur vorübergehenden Ausübung von Heilkunde
-
-(1) Stehen für die ärztliche Versorgung von Asylbegehrenden in Aufnahmeeinrichtungen nach § 44 oder Gemeinschaftsunterkünften nach § 53 Ärzte, die über eine Approbation oder Berufserlaubnis nach der Bundesärzteordnung verfügen, nicht in ausreichender Zahl zur Verfügung und ist hierdurch die Sicherstellung der ärztlichen Versorgung der Asylbegehrenden gefährdet, können Asylbegehrende, die über eine abgeschlossene Ausbildung als Arzt verfügen, auf Antrag vorübergehend zur Ausübung von Heilkunde in diesen Einrichtungen ermächtigt werden, um Ärzte bei der medizinischen Versorgung der Asylbegehrenden zu unterstützen.
-
-(2) Für die Ermächtigung nach Absatz 1 gelten die folgenden Beschränkungen:
-
-1.  
-die Tätigkeit erfolgt unter der Verantwortung eines Arztes;
-
-2.  
-die Berufsbezeichnung „Ärztin“ oder „Arzt“ darf nicht geführt werden;
-
-3.  
-die Behandlungserlaubnis erstreckt sich nur auf Asylbegehrende in Aufnahmeeinrichtungen nach § 44 oder Gemeinschaftsunterkünften nach § 53;
-
-4.  
-eine sprachliche Verständigung der ermächtigten Personen mit den zu behandelnden Asylbegehrenden muss sichergestellt sein.
-
-(3) Die Ermächtigung nach Absatz 1 wird befristet erteilt. Sie kann jederzeit widerrufen werden, wenn die Voraussetzungen nach Absatz 1 nicht mehr gegeben sind oder berechtigte Zweifel an der Qualifikation als Arzt erkennbar werden.
-
-(4) Die Erteilung der Ermächtigung nach Absatz 1 setzt voraus, dass
-
-1.  
-der Antragsteller seine Qualifikation als Arzt glaubhaft macht und
-
-2.  
-ihm eine Approbation oder Berufserlaubnis nach § 3 oder § 10 der Bundesärzteordnung nicht erteilt werden kann, weil die erforderlichen Unterlagen und Nachweise aus Gründen, die nicht in der Person des Antragstellers liegen, nicht vorgelegt werden können.
-
-Zur Glaubhaftmachung nach Satz 1 Nummer 1 hat der Antragsteller eidesstattlich zu versichern, dass er über eine abgeschlossene Ausbildung als Arzt verfügt und in einem Fachgespräch mit einem von der zuständigen Behörde beauftragten Arzt seinen Ausbildungsweg sowie seine ärztliche Kompetenz nachzuweisen.
-
-(5) Ein späteres Approbationsverfahren nach § 3 der Bundesärzteordnung oder Verfahren auf Erteilung einer Berufserlaubnis nach § 10 der Bundesärzteordnung bleibt von der Ermächtigung zur vorübergehenden Ausübung von Heilkunde nach Absatz 1 unberührt.
-
-(6) Das Verfahren zur Erteilung der Ermächtigung nach den Absätzen 1 bis 5 führt die zuständige Behörde des Landes durch, in dem der ärztliche Beruf ausgeübt werden soll, oder die Stelle, die nach § 12 Absatz 3 Satz 2 der Bundesärzteordnung vereinbart wurde.
-
-(7) § 61 Absatz 1 wird von der Ermächtigung nach Absatz 1 nicht berührt.
-
-(8) Diese Regelung tritt am 24. Oktober 2017 außer Kraft.
+### § 90 (weggefallen)
 
 ### Anlage I (zu § 26a)
 
