@@ -5,13 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 2.9.2008 I 1798;
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 2.2.2016 I 130
-
-Hinweis  
-Änderung durch Art. 1 G v. 11.3.2016 I 390 (Nr. 12) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 2 G v. 11.3.2016 I 394 (Nr. 12) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+zuletzt geändert durch Art. 2 G v. 11.3.2016 I 394
 
 Sonst  
 Dieses G ersetzt das G 26-5 v. 16.7.1982 I 946 (AsylVfG)
