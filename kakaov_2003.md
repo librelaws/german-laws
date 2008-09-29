@@ -262,7 +262,7 @@ Pflanzliche Fette
 Die in Nummer 2 aufgeführten pflanzlichen Fette, einzeln oder als Mischung, dürfen verwendet werden, wenn
 
 a)  
-sie nicht-laurinsäurehaltige pflanzliche Fette darstellen, die reich an symmetrischen, einfach ungesättigten Triglyceriden vom Typ POP, POST und StOSt sind (P: Palmitinsäure, O: Ölsäure, St: Stearinsäure),
+sie nicht-laurinsäurehaltige pflanzliche Fette darstellen, die reich an symmetrischen, einfach ungesättigten Triglyceriden vom Typ POP, POSt und StOSt sind (P: Palmitinsäure, O: Ölsäure, St: Stearinsäure),
 
 b)  
 sie mit Kakaobutter in jedem Verhältnis mischbar und mit deren physikalischen Eigenschaften (Schmelzpunkt und Kristallisationstemperatur, Schmelzgeschwindigkeit, Notwendigkeit einer Temperierung) kompatibel sind und
