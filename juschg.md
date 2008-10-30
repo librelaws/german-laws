@@ -4,6 +4,12 @@ Jugendschutzgesetz (JuSchG)
 Stand  
 Zuletzt geändert durch Art. 3 Abs. 1 G v. 31.10.2008 I 2149
 
+Hinweis  
+Änderung durch Art. 2 Abs. 55 G v. 7.8.2013 I 3154 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 4 Abs. 36 G v. 7.8.2013 I 3154 (Nr. 48) noch nicht berücksichtigt
+
 Sonst  
 Das G tritt gem. § 30 Abs. 1 Satz 1 an dem Tag in Kraft, an dem der Staatsvertrag der Länder über den Schutz der Menschenwürde und den Jugendschutz in Rundfunk und Telemedien in Kraft tritt\*. In Kraft gem. Bek. v. 1.4.2003 I 476 mWv 1.4.2003
 
@@ -503,7 +509,7 @@ nicht mit einem bereits in die Liste für jugendgefährdende Medien aufgenommene
 2.  
 aus der Liste für jugendgefährdende Medien zu streichen ist,
 
-Kosten (Gebühren und Auslagen) erheben. Das Bundesministerium für Familie, Senioren, Frauen und Jugend wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die Gebührensätze näher zu bestimmen. Das Verwaltungskostengesetz findet Anwendung.
+Gebühren und Auslagen erheben. Das Bundesministerium für Familie, Senioren, Frauen und Jugend wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die Gebührensätze näher zu bestimmen.
 
 ### § 22 Aufnahme von periodischen Trägermedien und Telemedien
 
