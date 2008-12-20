@@ -33,7 +33,7 @@ Erster Abschnitt Durchführung der betrieblichen Altersversorgung
 (2) Betriebliche Altersversorgung liegt auch vor, wenn
 
 1.  
-der Arbeitgeber sich verpflichtet, bestimmte Beiträge in einer Anwartschaft auf Alters-, Invaliditäts- oder Hinterbliebenenversorgung umzuwandeln (beitragsorientierte Leistungszusage),
+der Arbeitgeber sich verpflichtet, bestimmte Beiträge in eine Anwartschaft auf Alters-, Invaliditäts- oder Hinterbliebenenversorgung umzuwandeln (beitragsorientierte Leistungszusage),
 
 2.  
 der Arbeitgeber sich verpflichtet, Beiträge zur Finanzierung von Leistungen der betrieblichen Altersversorgung an einen Pensionsfonds, eine Pensionskasse oder eine Direktversicherung zu zahlen und für Leistungen zur Altersversorgung das planmäßig zuzurechnende Versorgungskapital auf der Grundlage der gezahlten Beiträge (Beiträge und die daraus erzielten Erträge), mindestens die Summe der zugesagten Beiträge, soweit sie nicht rechnungsmäßig für einen biometrischen Risikoausgleich verbraucht wurden, hierfür zur Verfügung zu stellen (Beitragszusage mit Mindestleistung),
