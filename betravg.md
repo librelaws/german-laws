@@ -4,6 +4,9 @@ Gesetz zur Verbesserung der betrieblichen Altersversorgung (BetrAVG)
 Stand  
 Zuletzt geändert durch Art. 4e G v. 21.12.2008 I 2940
 
+Hinweis  
+Änderung durch Art. 3 G v. 23.6.2014 I 787 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
@@ -79,7 +82,7 @@ Im Fall einer Direktversicherung ist dem Arbeitnehmer darüber hinaus mit Beginn
 
 ### § 2 Höhe der unverfallbaren Anwartschaft
 
-(1) Bei Eintritt des Versorgungsfalles wegen Erreichens der Altersgrenze, wegen Invalidität oder Tod haben ein vorher ausgeschiedener Arbeitnehmer, dessen Anwartschaft nach § 1b fortbesteht, und seine Hinterbliebenen einen Anspruch mindestens in Höhe des Teiles der ohne das vorherige Ausscheiden zustehenden Leistung, der dem Verhältnis der Dauer der Betriebszugehörigkeit zu der Zeit vom Beginn der Betriebszugehörigkeit bis zum Erreichen der Regelaltersgrenze in der gesetzlichen Rentenversicherung entspricht; an die Stelle des Erreichens der Regelaltersgrenze tritt ein früherer Zeitpunkt, wenn dieser in der Versorgungsregelung als feste Altersgrenze vorgesehen ist, spätestens der Zeitpunkt, in dem der Arbeitnehmer ausscheidet und gleichzeitig eine Altersrente aus der gesetzlichen Rentenversicherung für besonders langjährig Versicherte in Anspruch nimmt. Der Mindestanspruch auf Leistungen wegen Invalidität oder Tod vor Erreichen der Altersgrenze ist jedoch nicht höher als der Betrag, den der Arbeitnehmer oder seine Hinterbliebenen erhalten hätten, wenn im Zeitpunkt des Ausscheidens der Versorgungsfall eingetreten wäre und die sonstigen Leistungsvoraussetzungen erfüllt gewesen wären.
+(1) Bei Eintritt des Versorgungsfalles wegen Erreichens der Altersgrenze, wegen Invalidität oder Tod haben ein vorher ausgeschiedener Arbeitnehmer, dessen Anwartschaft nach § 1b fortbesteht, und seine Hinterbliebenen einen Anspruch mindestens in Höhe des Teiles der ohne das vorherige Ausscheiden zustehenden Leistung, der dem Verhältnis der Dauer der Betriebszugehörigkeit zu der Zeit vom Beginn der Betriebszugehörigkeit bis zum Erreichen der Regelaltersgrenze in der gesetzlichen Rentenversicherung entspricht; an die Stelle des Erreichens der Regelaltersgrenze tritt ein früherer Zeitpunkt, wenn dieser in der Versorgungsregelung als feste Altersgrenze vorgesehen ist, spätestens der Zeitpunkt der Vollendung des 65. Lebensjahres, falls der Arbeitnehmer ausscheidet und gleichzeitig eine Altersrente aus der gesetzlichen Rentenversicherung für besonders langjährig Versicherte in Anspruch nimmt. Der Mindestanspruch auf Leistungen wegen Invalidität oder Tod vor Erreichen der Altersgrenze ist jedoch nicht höher als der Betrag, den der Arbeitnehmer oder seine Hinterbliebenen erhalten hätten, wenn im Zeitpunkt des Ausscheidens der Versorgungsfall eingetreten wäre und die sonstigen Leistungsvoraussetzungen erfüllt gewesen wären.
 
 (2) Ist bei einer Direktversicherung der Arbeitnehmer nach Erfüllung der Voraussetzungen des § 1b Abs. 1 und 5 vor Eintritt des Versorgungsfalls ausgeschieden, so gilt Absatz 1 mit der Maßgabe, daß sich der vom Arbeitgeber zu finanzierende Teilanspruch nach Absatz 1, soweit er über die von dem Versicherer nach dem Versicherungsvertrag auf Grund der Beiträge des Arbeitgebers zu erbringende Versicherungsleistung hinausgeht, gegen den Arbeitgeber richtet. An die Stelle der Ansprüche nach Satz 1 tritt auf Verlangen des Arbeitgebers die von dem Versicherer auf Grund des Versicherungsvertrags zu erbringende Versicherungsleistung, wenn
 
