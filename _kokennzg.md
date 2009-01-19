@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 20.1.2009 I 78;
 
 Stand  
-geändert durch Art. 29 G v. 9.12.2010 I 1934
+zuletzt geändert durch Art. 404 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -44,9 +44,9 @@ in den Verkehr zu bringen.
 
 ### § 2 Ermächtigungen
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten der Verwendung des Öko-Kennzeichens zu regeln, soweit dies erforderlich ist, um eine einheitliche Kennzeichnung oder eine eindeutige Erkennbarkeit der Erzeugnisse zu gewährleisten.
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten der Verwendung des Öko-Kennzeichens zu regeln, soweit dies erforderlich ist, um eine einheitliche Kennzeichnung oder eine eindeutige Erkennbarkeit der Erzeugnisse zu gewährleisten.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1.  
 die Gestaltung des Öko-Kennzeichens,
@@ -56,7 +56,7 @@ die Anzeige der Verwendung des Öko-Kennzeichens an die Bundesanstalt für Landw
 
 zu regeln. In einer Rechtsverordnung nach Satz 1 Nr. 2 kann die Aufgabe der Bundesanstalt für Landwirtschaft und Ernährung einer sachkundigen, unabhängigen und zuverlässigen Person des Privatrechts übertragen werden.
 
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+(3) Das Bundesministerium Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1.  
 Verweisungen auf Vorschriften der Verordnung (EG) Nr. 834/2007 in diesem Gesetz zu ändern, soweit es zur Anpassung an Änderungen dieser Vorschriften erforderlich ist,
