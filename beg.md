@@ -4,6 +4,9 @@ Bundesgesetz zur Entschädigung für Opfer der nationalsozialistischen Verfolgun
 Stand  
 Zuletzt geändert durch Art. 15 Abs. 63 G v. 5.2.2009 I 160
 
+Hinweis  
+Änderung durch Art. 11 G v. 23.7.2013 I 2586 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
@@ -2370,7 +2373,7 @@ Für die Anspruchsberechtigung nach diesem Gesetz oder nach weitergehendem Lande
 
 (2) Verlangen die Entschädigungsorgane die Vorlage eines Erbscheins, so hat das Nachlaßgericht auf Antrag des Erben einen Erbschein für den Entschädigungsanspruch zu erteilen; hierbei hat das Nachlaßgericht nicht zu prüfen, ob der Erbe nach diesem Gesetz entschädigungsberechtigt ist. In dem Erbschein ist anzugeben, ob der Erbe Ehegatte des Verfolgten oder ob und wie er mit ihm verwandt war. Für die Erteilung eines solchen Erbscheins ist die Todesvermutung des § 180 Abs. 1 oder, falls im Entschädigungsverfahren nach § 180 Abs. 2 ein anderer Zeitpunkt des Todes festgestellt worden ist, diese Feststellung maßgebend.
 
-(3) Die Erteilung des Erbscheins für den Entschädigungsanspruch einschließlich des vorausgegangenen Verfahrens ist gebühren- und auslagenfrei. § 107 Abs. 1 Satz 2 der Kostenordnung bleibt unberührt.
+(3) Die Erteilung des Erbscheins für den Entschädigungsanspruch einschließlich des vorausgegangenen Verfahrens ist gebühren- und auslagenfrei. Dies gilt nicht für die Abnahme der eidesstattlichen Versicherung nach § 2356 Absatz 2 des Bürgerlichen Gesetzbuchs.
 
 ### § 182
 
@@ -2842,7 +2845,7 @@ In den Fällen der sofortigen Beschwerde tritt an Stelle der Notfrist des § 569
 
 (2) Für offensichtlich unbegründete Klagen oder Rechtsmittel können dem Kläger die Kosten auferlegt werden. Ist die Rechtsverfolgung offenbar mutwillig, so kann ein Kostenvorschuß erhoben werden.
 
-(3) Bei wiederkehrenden Leistungen ist der Streitwert nach § 42 Abs. 1 des Gerichtskostengesetzes zu berechnen.
+(3) Bei wiederkehrenden Leistungen ist der Streitwert nach § 9 der Zivilprozessordnung zu berechnen.
 
 (4) § 207 Abs. 3 findet entsprechende Anwendung.
 
