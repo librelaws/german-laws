@@ -240,13 +240,126 @@ Diese Verordnung tritt am Tag nach Verkündung in Kraft.
 
 ### Anlage 1 (zu § 9)
 
-... (nicht darstellbares Formular DR 1 Deckungsregister (Hypotheken)
-Fundstelle: BGBl. I 2006, 2078
+(Fundstelle: BGBl. I 2006, 2078
+
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Bezeichnung des Deckungswerts</td>
+<td>Löschungen</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>2a</td>
+<td>2b</td>
+</tr>
+<tr class="odd">
+<td><dl>
+<dt>a)</dt>
+<dd>lfd. Nr.
+</dd>
+<dt>b)</dt>
+<dd>AZ
+</dd>
+<dt>c)</dt>
+<dd>Datum
+</dd>
+</dl></td>
+<td>Bezeichnung des belasteten Grundstücks oder des grundstücksgleichen Rechts</td>
+<td>Beleihungswert bei Indeckungnahme</td>
+</tr>
+<tr class="even">
+<td>lfd. Nr. in Abt. III</td>
+<td>Währung</td>
+<td>Nennbetrag</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### Anlage 2 (zu § 11)
 
-... (nicht darstellbares Formular DR 2 Deckungsregister (Kommunal)
-Fundstelle: BGBl. I 2006, 2078
+(Fundstelle: BGBl. I 2006, 2078)
+
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Bezeichnung des Deckungswerts</td>
+<td>Löschungen</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td><dl>
+<dt>a)</dt>
+<dd>lfd. Nr.
+</dd>
+<dt>b)</dt>
+<dd>AZ
+</dd>
+<dt>c)</dt>
+<dd>Datum
+</dd>
+</dl></td>
+<td>Schuldner und Darlehensnummer bzw. Wertpapierkennnummer</td>
+<td>Währung und Nennbetrag des Darlehens</td>
+</tr>
+<tr class="even">
+<td>Währung</td>
+<td>Betrag</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### Anlage 3 (zu § 13)
 
