@@ -2,10 +2,10 @@ Weinverordnung ()
 =================
 
 Neuf  
-Neugefasst durch Bek. v. 21.4.2009 I 827
+Neugefasst durch Bek. v. 21.4.2009 I 827;
 
 Stand  
-Zuletzt geändert durch Art. 5 V v. 29.9.2011 I 1996
+Zuletzt geändert durch Art. 1 V v. 4.1.2016 I 2
 
 ### 
 
@@ -32,93 +32,94 @@ Die V wurde als Art. 1 d. V v. 9.5.1995 I 630 (WeinG1994DV) von den Bundesminist
 
 ### Inhaltsübersicht
 
-|                                     |
-|-------------------------------------|
-| Abschnitt 1                         |
-| Weinanbaugebiet                     |
-| § 1                                 |
-| § 2                                 |
-| § 2a                                |
-| Abschnitt 2                         |
-| Anbauregeln                         |
-| § 3                                 |
-| § 4                                 |
-| § 5                                 |
-| § 6                                 |
-| § 7                                 |
-| § 7a                                |
-| § 8                                 |
-| § 9                                 |
-| § 10                                |
-| § 10a                               |
-| Abschnitt 3                         |
-| Verarbeitung                        |
-| § 11                                |
-| § 12                                |
-| § 13                                |
-| § 13a                               |
-| § 14                                |
-| § 15                                |
-| § 16                                |
-| § 16a                               |
-| § 17                                |
-| § 18                                |
-| Abschnitt 4                         |
-| Qualitätswein b.A.                  |
-| § 19                                |
-| § 20                                |
-| § 20a                               |
-| § 21                                |
-| § 22                                |
-| § 23                                |
-| § 24                                |
-| § 25                                |
-| § 26                                |
-| § 27                                |
-| § 28                                |
-| § 28a                               |
-| Abschnitt 5                         |
-| Bezeichnung und Aufmachung          |
-| § 29                                |
-| § 30                                |
-| § 31                                |
-| § 32                                |
-| § 32a                               |
-| § 32b                               |
-| § 32c                               |
-| § 32d                               |
-| § 33                                |
-| § 33a                               |
-| § 34                                |
-| § 34a                               |
-| § 34b                               |
-| § 34c                               |
-| § 35                                |
-| § 36                                |
-| § 37                                |
-| § 38                                |
-| § 39                                |
-| § 40                                |
-| § 41                                |
-| § 42                                |
-| § 43                                |
-| § 44                                |
-| § 45                                |
-| § 46                                |
-| § 46a                               |
-| § 46b                               |
-| § 47                                |
-| § 48                                |
-| § 49                                |
-| § 50                                |
-| § 51                                |
-| Abschnitt 6                         |
-| Straftaten und Ordnungswidrigkeiten |
-| § 52                                |
-| § 53                                |
-| Abschnitt 7                         |
-| Schlussbestimmungen                 |
-| § 54                                |
+|                                                                                                        |
+|--------------------------------------------------------------------------------------------------------|
+| Abschnitt 1                                                                                            |
+| Weinanbaugebiet                                                                                        |
+| § 1                                                                                                    |
+| § 2                                                                                                    |
+| § 2a                                                                                                   |
+| Abschnitt 2                                                                                            |
+| Anbauregeln                                                                                            |
+| § 3                                                                                                    |
+| § 4                                                                                                    |
+| § 5                                                                                                    |
+| § 6                                                                                                    |
+| § 7                                                                                                    |
+| § 7a                                                                                                   |
+| § 8                                                                                                    |
+| § 9                                                                                                    |
+| § 10                                                                                                   |
+| § 10a                                                                                                  |
+| Abschnitt 3                                                                                            |
+| Verarbeitung                                                                                           |
+| § 11                                                                                                   |
+| § 12                                                                                                   |
+| § 13                                                                                                   |
+| § 13a                                                                                                  |
+| § 14                                                                                                   |
+| § 15                                                                                                   |
+| § 16                                                                                                   |
+| § 16a                                                                                                  |
+| § 17                                                                                                   |
+| § 18                                                                                                   |
+| Abschnitt 4                                                                                            |
+| Qualitätswein, Prädikatswein, Sekt b.A., Qualitätsperlwein b.A., Qualitätslikörwein b.A. oder Landwein |
+| § 19                                                                                                   |
+| § 20                                                                                                   |
+| § 20a                                                                                                  |
+| § 21                                                                                                   |
+| § 22                                                                                                   |
+| § 23                                                                                                   |
+| § 24                                                                                                   |
+| § 25                                                                                                   |
+| § 26                                                                                                   |
+| § 27                                                                                                   |
+| § 28                                                                                                   |
+| § 28a                                                                                                  |
+| Abschnitt 5                                                                                            |
+| Bezeichnung und Aufmachung                                                                             |
+| § 29                                                                                                   |
+| § 30                                                                                                   |
+| § 31                                                                                                   |
+| § 32                                                                                                   |
+| § 32a                                                                                                  |
+| § 32b                                                                                                  |
+| § 32c                                                                                                  |
+| § 32d                                                                                                  |
+| § 33                                                                                                   |
+| § 33a                                                                                                  |
+| § 34                                                                                                   |
+| § 34a                                                                                                  |
+| § 34b                                                                                                  |
+| § 34c                                                                                                  |
+| § 35                                                                                                   |
+| § 36                                                                                                   |
+| § 37                                                                                                   |
+| § 38                                                                                                   |
+| § 39                                                                                                   |
+| § 39a                                                                                                  |
+| § 40                                                                                                   |
+| § 41                                                                                                   |
+| § 42                                                                                                   |
+| § 43                                                                                                   |
+| § 44                                                                                                   |
+| § 45                                                                                                   |
+| § 46                                                                                                   |
+| § 46a                                                                                                  |
+| § 46b                                                                                                  |
+| § 47                                                                                                   |
+| § 48                                                                                                   |
+| § 49                                                                                                   |
+| § 50                                                                                                   |
+| § 51                                                                                                   |
+| Abschnitt 6                                                                                            |
+| Straftaten und Ordnungswidrigkeiten                                                                    |
+| § 52                                                                                                   |
+| § 53                                                                                                   |
+| Abschnitt 7                                                                                            |
+| Schlussbestimmungen                                                                                    |
+| § 54                                                                                                   |
 
 Abschnitt 1 Weinanbaugebiet
 ---------------------------
@@ -220,82 +221,46 @@ Abschnitt 2 Anbauregeln
 
 ### 
 
-### § 3 Genehmigung von Neuanpflanzungen(zu § 7 Absatz 2 Nummer 1 und 3 des Weingesetzes)
+### § 3 Formular für Anträge auf Genehmigung einer Neuanpflanzung(zu § 7c Absatz 2 des Weingesetzes)
 
-(1) Die Genehmigung für eine Neuanpflanzung nach § 7 Absatz 1 Nummer 1 bis 3 Buchstabe a des Weingesetzes darf nur erteilt werden, wenn
+Anträge nach § 7c Absatz 1 Satz 1 des Weingesetzes sind auf dem von der Bundesanstalt für Landwirtschaft und Ernährung bereitgestellten Formular zu stellen. Das Formular kann auch elektronisch bereitgestellt sein.
+
+### § 4 Nachweis des Vorliegens von Prioritätskriterien(zu § 7c Absatz 2 des Weingesetzes)
+
+(1) Der Nachweis, dass das in § 7b Absatz 1 Satz 1 des Weingesetzes festgelegte Prioritätskriterium erfüllt ist, ist durch Vorlage
 
 1.  
-die Fläche für die Erzeugung von Qualitätswein b.A. oder Landwein geeignet ist,
+eines Auszugs aus der Weinbaukartei, sofern die jeweilige zu beantragende Fläche in der Weinbaukartei enthalten ist und die Weinbaukartei eine Aussage über die Hangneigung enthält, oder
 
 2.  
-die Vermarktung des auf der Fläche und den sonstigen Rebflächen desselben Nutzungsberechtigten erzeugten Weines gewährleistet ist,
+einer Bescheinigung eines öffentlich bestellten Sachverständigen für Landvermessungen oder
 
 3.  
-die Fläche die besonderen landesrechtlich festgesetzten Voraussetzungen für die Anbaueignung erfüllt, soweit Regelungen nach § 7 Absatz 4 Nummer 1 des Weingesetzes erlassen worden sind.
+eines Auszugs aus dem Landwirtschaftlichen Informations-System der Länder oder
 
-(2) Die Genehmigung für eine Neuanpflanzung nach § 7 Abs. 1 Nummer 3 Buchstabe b des Weingesetzes darf nur erteilt werden, wenn
+4.  
+einer Bescheinigung einer für die Landvermessung oder die Führung des Liegenschaftskatasters zuständigen Landesbehörde
 
-1.  
-die Fläche für die Erzeugung von Qualitätswein b.A. oder Landwein geeignet ist,
+zu erbringen.
 
-2.  
-die Fläche die besonderen landesrechtlich festgesetzten Voraussetzungen für die Anbaueignung erfüllt, soweit Regelungen nach § 7 Absatz 4 Nummer 1 Buchstabe d des Weingesetzes erlassen worden sind.
+(2) Es ist die durchschnittliche Hangneigung des Flurstücks der zur Bepflanzung beantragten Fläche zu ermitteln.
 
-(3) Die Genehmigung für eine Neuanpflanzung ist nicht erforderlich für nicht weinbergmäßig bepflanzte Flächen, wenn sie zusammen mit anderen derartigen Flächen desselben Nutzungsberechtigten nicht größer als ein Ar sind und nicht in unmittelbarem räumlichen Zusammenhang mit einer weinbergmäßig bepflanzten Fläche stehen.
+### § 5 Härtefallregelung für Neuanpflanzungen (zu § 7c Absatz 3 des Weingesetzes)
 
-### § 4 Anbaueignung von Rebflächen(zu § 7 Absatz 2 Nummer 1 und 2 des Weingesetzes)
-
-(1) Eine Fläche ist für die Erzeugung von Qualitätswein b.A. geeignet, wenn zu erwarten ist, dass auf der Fläche in den in Anlage 1 aufgeführten bestimmten Anbaugebieten oder Bereichen die dort genannten Rebsorten (Vergleichsrebsorten) bei herkömmlichen Anbaumethoden im zehnjährigen Durchschnitt einen Weinmost ergeben, der die in Anlage 1 aufgeführten Mindestgehalte an natürlichem Alkohol (Mindestmostgewichte) erreicht.
-
-(2) Eine Fläche ist für die Erzeugung von Landwein geeignet, wenn zu erwarten ist, dass auf der Fläche in den Gebieten, die für die Bezeichnung von Landwein festgelegt sind, bei herkömmlichen Anbaumethoden im zehnjährigen Durchschnitt bei der Rebsorte Müller-Thurgau ein Mindestgehalt an natürlichem Alkohol von 5,9 Volumenprozent (50°Oe) und bei der Rebsorte Blauer Spätburgunder ein Mindestgehalt an natürlichem Alkohol von 6,7 Volumenprozent (55°Oe) erreicht wird.
-
-### § 5 Vermarktungsnachweis(zu § 7 Absatz 2 Nummer 1 i.V.m. § 53 Absatz 1 und § 54 Absatz 1 des Weingesetzes)
-
-(1) Die Vermarktung des auf der Fläche und den sonstigen Rebflächen desselben Nutzungsberechtigten erzeugten Weines gilt insbesondere als gewährleistet, wenn für die Erträge
+(1) Einem Erzeuger, dem eine Genehmigung nach § 7c Absatz 1 Satz 1 des Weingesetzes erteilt worden ist, kann auf Antrag gestattet werden, die neu anzupflanzenden Reben auf einer anderen Fläche des Betriebes als der in der Genehmigung bezeichneten Fläche zu pflanzen, wenn er nachweist, dass
 
 1.  
-die Mitgliedschaft in einem Erzeugerzusammenschluss, der bereit und in der Lage ist, die Erträge zu übernehmen,
+die Voraussetzungen des Artikels 10 Unterabsatz 1 der Durchführungsverordnung (EU) 2015/561 der Kommission vom 7. April 2015 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich des Genehmigungssystems für Rebpflanzungen (ABl. L 93 vom 9.4.2015, S. 12) erfüllt sind,
 
 2.  
-der Abschluss von Lieferverträgen mit einer Dauer von mindestens fünf Jahren, beginnend mit dem zweiten Weinwirtschaftsjahr nach dem der Pflanzung, oder
+die andere Fläche das gleiche Prioritätskriterium erfüllt, wie die in der Genehmigung nach § 7c Absatz 1 bezeichnete Fläche, und
 
 3.  
-ganz oder überwiegend die Möglichkeit zur Abgabe an Letztverbraucher
+eine unbillige Härte vorliegt, wenn die Anpflanzung nicht auf einer anderen Fläche des Betriebes vorgenommen wird.
 
-nachgewiesen wird. Im Falle des Satzes 1 Nummer 1 muss ferner der Abschluss eines Vertrages mit dem Erzeugerzusammenschluss nachgewiesen werden, wonach die Erträge vom zweiten Weinwirtschaftsjahr nach dem der Pflanzung an für die Dauer von mindestens fünf Jahren an den Erzeugerzusammenschluss abgeliefert werden müssen. In den Fällen des Satzes 1 Nummer 2 und 3 muss ferner die Möglichkeit der Einlagerung und fachgerechten kellerwirtschaftlichen Behandlung nachgewiesen werden. Die Landesregierungen können zur Sicherstellung der Vermarktung durch Rechtsverordnung nähere Voraussetzungen für die Einlagerung und die fachgerechte kellerwirtschaftliche Behandlung festlegen.
+(2) Eine unbillige Härte im Sinne von Absatz 1 Nummer 3 liegt insbesondere dann vor, wenn die in der Genehmigung nach § 7c Absatz 1 bezeichnete Fläche infolge einer Naturkatastrophe, einer Enteignung im öffentlichen Interesse oder einer Betriebsaufteilung wegen Erbfalles der in der Genehmigung bezeichneten Person nicht mehr zur Verfügung steht.
 
-(2) Werden die Nachweise nach Absatz 1 nicht mit dem Antrag auf Genehmigung erbracht, so kann die Genehmigung in begründeten Ausnahmefällen ohne diese Nachweise erteilt werden. In diesen Fällen ist die Genehmigung mit dem Vorbehalt zu versehen, dass sie widerrufen werden kann, wenn die Nachweise nicht spätestens zwei Jahre nach Erteilung der Genehmigung erbracht werden.
-
-### § 6 Verfahren(zu § 7 Absatz 2 Nummer 1 und 4 i.V.m. § 53 Absatz 1 und § 54 Absatz 1 des Weingesetzes)
-
-(1) Die Landesregierungen können durch Rechtsverordnung vorsehen, dass vor einer Entscheidung über die Eignung der Fläche für die Erzeugung von Qualitätswein b.A. oder Landwein ein Sachverständigenausschuss angehört werden kann. In der Rechtsverordnung ist die Zusammensetzung des Sachverständigenausschusses zu regeln.
-
-(2) Bei der Entscheidung sind insbesondere auch Höhenlage, Hangneigung, Hangrichtung, Bodenbeschaffenheit, Frostgefährdung sowie die Werte, die sich aus der Bodenkartierung und Kleinklimakartierung der Fläche ergeben, zu berücksichtigen.
-
-(3) Eine Genehmigung nach § 7 Absatz 1 Nummer 2 des Weingesetzes (Versuchsgenehmigung) ist entsprechend dem Zweck des Weinbauversuches zu befristen.
-
-### § 7 Ausnahmen(zu § 7 Absatz 2 Nummer 3 des Weingesetzes)
-
-(1) In Ausnahmefällen, insbesondere wenn die Form des Geländes es erfordert, zur Erhaltung der Weinbaustruktur oder zur Schaffung einer einheitlichen Weinbaustruktur, kann abweichend von § 7 Absatz 1 Nummer 1 Buchstabe a des Weingesetzes die Genehmigung auch für Flächen erteilt werden, die nicht in unmittelbarem räumlichen Zusammenhang mit zulässigerweise mit Reben bepflanzten oder vorübergehend nicht bepflanzten Flächen stehen.
-
-(2) In Ausnahmefällen, insbesondere in den Fällen des Absatzes 1 oder wenn die Bodenbeschaffenheit es erfordert, kann abweichend von § 7 Absatz 1 Nummer 3 des Weingesetzes die Genehmigung auch für Flächen erteilt werden, die nicht in unmittelbarem räumlichen Zusammenhang mit zulässigerweise mit Reben bepflanzten oder vorübergehend nicht bepflanzten Rebflächen stehen.
-
-(3) In den Fällen des Absatzes 2 können mit der Genehmigung abweichend von § 4 die Voraussetzungen für die Eignung der für die Neuanpflanzung vorgesehenen Flächen festgelegt werden.
-
-(4) Für eine Versuchsgenehmigung kann von der Vermarktungsvoraussetzung nach § 3 Absatz 1 Nummer 2 abgesehen werden, wenn sonst der Weinbauversuch nicht durchgeführt werden kann. Eine Versuchsgenehmigung kann auch für nicht in der Klassifizierung geführte Rebsorten oder darin nur vorübergehend zugelassene Rebsorten erteilt werden, wenn die Neuanpflanzung zu einem der folgenden Zwecke erfolgt:
-
-1.  
-Prüfung der Anbaueignung einer Rebsorte,
-
-2.  
-wissenschaftliche Untersuchungen oder
-
-3.  
-Kreuzungs- und Selektionsarbeiten.
-
-### § 7a Anbaueignungsprüfung von Rebsorten(zu § 7 Absatz 3 i.V.m. § 54 Absatz 1 des Weingesetzes)
-
-Die Landesregierungen können durch Rechtsverordnung zur Sicherung der Qualität die Voraussetzungen und das Verfahren für die Prüfung der Anbaueignung von Rebsorten regeln.
+### (XXXX) §§ 6 bis 7a (weggefallen)
 
 ### § 8 Umstrukturierung und Umstellung\*%(zu § 3b Absatz 3 i.V.m. § 53 Absatz 1 und § 54 Absatz 1 des Weingesetzes)
 
@@ -331,7 +296,10 @@ festgelegt werden.
 100 Kilogramm Weintrauben = 78 Liter Wein,
 
 2.  
-100 Liter Traubenmost oder teilweise gegorener Traubenmost = 100 Liter Wein.
+100 Liter Traubenmost oder teilweise gegorener Traubenmost = 100 Liter Wein,
+
+3.  
+100 Liter Jungwein = 100 Liter Wein.
 
 (2) Die Landesregierungen können durch Rechtsverordnung
 
@@ -345,11 +313,11 @@ vorschreiben, dass und in welcher Weise die gesonderte Berechnung der Gesamthekt
 
 ### § 10a Destillation(zu § 12 Absatz 1 Nummer 6 und § 30 Satz 1 Nummer 2 des Weingesetzes)
 
-(1) Die Destillation von Wein, der nach § 11 Absatz 1 Satz 1 des Weingesetzes zu destillieren ist, darf nur in einer nach den §§ 52 und 134 des Gesetzes über das Branntweinmonopol zugelassenen Verschlussbrennerei durchgeführt werden.
+(1) Die Destillation von Wein, der nach § 11 Absatz 1 Satz 1 des Weingesetzes zu destillieren ist, darf nur in einer zugelassenen Verschlussbrennerei im Sinne des § 133 Absatz 2 des Branntweinmonopolgesetzes durchgeführt werden.
 
 (2) Wer beabsichtigt, in Absatz 1 genannten Wein zu destillieren, hat dies mindestens fünf Tage vor Beginn der Destillation der nach den Vorschriften des Gesetzes über das Branntweinmonopol und den zu ihrer Ausführung erlassenen Vorschriften in der jeweils geltenden Fassung zuständigen Zolldienststelle schriftlich zu melden. Er hat ferner jede Unterbrechung sowie die Beendigung der Destillation zu melden.
 
-(3) Die Überwachung bei der Destillation von in Absatz 1 genanntem Wein richtet sich nach den Vorschriften des fünften Abschnitts des Gesetzes über das Branntweinmonopol und den zu ihrer Ausführung erlassenen Vorschriften in der jeweils geltenden Fassung.
+(3) Die Überwachung bei der Destillation von in Absatz 1 genanntem Wein richtet sich nach den Vorschriften des Branntweinmonopolgesetzes und den zu ihrer Ausführung erlassenen Vorschriften in der jeweils geltenden Fassung.
 
 (4) Der aus der Destillation nach Absatz 1 gewonnene Alkohol muss einen Alkoholgehalt von mindestens 80 Volumenprozent aufweisen.
 
@@ -362,82 +330,21 @@ Abschnitt 3 Verarbeitung
 
 ### 
 
-### § 11 Behandlungsverfahren und Behandlungsstoffe (zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)
+### § 11 Behandlungsverfahren und Behandlungsstoffe(zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)
 
-(1) Bei den zur Herstellung von weinhaltigen Getränken bestimmten Erzeugnissen dürfen vorbehaltlich des Absatzes 5 nur die nach Artikel 120c der Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse (Verordnung über die einheitliche GMO) (ABl. L 299 vom 16.11.2007, S. 1) in der jeweils geltenden Fassung zugelassenen önologischen Verfahren angewendet und die dort aufgeführten Stoffe zugesetzt worden sein.
+(1) Bei den zur Herstellung von weinhaltigen Getränken bestimmten Erzeugnissen dürfen nur die nach Artikel 80 Absatz 1 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) in der jeweils geltenden Fassung zugelassenen önologischen Verfahren angewendet und die dort aufgeführten Stoffe zugesetzt worden sein.
 
 (2) (weggefallen)
 
 (3) (weggefallen)
 
-(4) Bei der Herstellung von aromatisiertem Wein, aromatisierten weinhaltigen Getränken und aromatisierten weinhaltigen Cocktails dürfen vorbehaltlich des Absatzes 7 Satz 1 und 2 neben den in Anlage 4 genannten Stoffen
+(4) (weggefallen)
 
-1.  
-als Konservierungsstoffe im Sinne der Anlage 7 Nummer 1 der Zusatzstoff-Zulassungsverordnung nur Sorbinsäure, Kaliumsorbat und Calciumsorbat,
+(5) (weggefallen)
 
-2.  
-als Trägerstoffe und Trägerlösungsmittel im Sinne der Anlage 7 Nummer 3 der Zusatzstoff-Zulassungsverordnung für Stoffe, die bei ihrer Herstellung zugesetzt werden dürfen, nur die in Anlage 4 der Zusatzstoff-Verkehrsverordnung zugelassenen Stoffe unter den dort festgelegten Bedingungen,
+(6) (weggefallen)
 
-2a.  
-als Zusatzstoffe im Sinne der Anlage 7 Nummer 1 bis 23 der Zusatzstoff-Zulassungsverordnung für Aromen, die bei ihrer Herstellung verwendet werden dürfen, nur die nach § 5 in Verbindung mit den Anlagen 3 bis 5 der Zusatzstoff-Zulassungsverordnung zugelassenen Stoffe unter den dort festgelegten Bedingungen sowie
-
-3.  
-nur
-
-a)  
-die durch § 5 Absatz 1 in Verbindung mit Anlage 4 Teil A der Zusatzstoff-Zulassungsverordnung für Lebensmittel allgemein zugelassenen Stoffe und
-
-b)  
-die in Anlage 2 genannten Stoffe
-
-zu den sich aus § 5 Absatz 1 in Verbindung mit Anlage 7 Nummer 2 und 4 bis 25 der Zusatzstoff-Zulassungsverordnung ergebenden Zwecken
-
-zugesetzt werden. Bei der Herstellung von weinhaltigen Getränken dürfen vorbehaltlich des Absatzes 7 Satz 1 und 2 neben den in Anlage 4 genannten Stoffen
-
-1.  
-nur
-
-a)  
-die durch § 5 Absatz 1 in Verbindung mit Anlage 4 Teil A der Zusatzstoff-Zulassungsverordnung für Lebensmittel allgemein zugelassenen Stoffe und
-
-b)  
-die in Anlage 2 genannten Stoffe
-
-zu den sich aus § 5 Absatz 1 in Verbindung mit Anlage 7 Nummer 2 und 4 bis 25 der Zusatzstoff-Zulassungsverordnung ergebenden Zwecken,
-
-2.  
-als Trägerstoffe und Trägerlösungsmittel im Sinne der Anlage 7 Nummer 3 der Zusatzstoff-Zulassungsverordnung für Stoffe, die bei ihrer Herstellung zugesetzt werden dürfen, nur die durch § 4 in Verbindung mit Anlage 4 der Zusatzstoff-Verkehrsverordnung zugelassenen Stoffe unter den dort festgelegten Bedingungen sowie
-
-3.  
-als Stoffe, die dazu verwendet werden, einem Erzeugnis einen süßen Geschmack zu verleihen (Süßungsmittel), nur die in Anlage 3 genannten Stoffe
-
-zugesetzt werden. Abweichend von Satz 1 Nummer 3 Buchstabe b und Satz 2 Nummer 1 Buchstabe b darf Kohlendioxid den dort genannten Erzeugnissen auch zu anderen als den dort aufgeführten Zwecken zugesetzt werden.
-
-(5) Bei der Herstellung von
-
-1.  
-aromatisierten weinhaltigen Getränken mit Ausnahme von Sangria, Clarea und Zurra,
-
-2.  
-aromatisiertem Wein,
-
-3.  
-aromatisierten weinhaltigen Cocktails,
-
-4.  
-weinhaltigen Getränken,
-
-5.  
-Likörwein und
-
-6.  
-Qualitätslikörwein b.A.
-
-dürfen als Stoffe, die einem Erzeugnis Farbe geben oder die Farbe in einem Erzeugnis wiederherstellen (Farbstoffe), nur die in Anlage 4 genannten Stoffe zugesetzt werden.
-
-(6) Soweit für die bei den in den Absätzen 4 und 5 genannten Stoffen durch § 4 in Verbindung mit Anlage 4 der Zusatzstoff-Verkehrsverordnung, § 7 in Verbindung mit den Anlagen 3 bis 5 der Zusatzstoff-Zulassungsverordnung oder § 13 Abs. 1 ein Höchstgehalt nicht festgesetzt worden ist, dürfen diese Stoffe gemäß der guten Herstellungspraxis nur in einer Menge zugesetzt werden, die erforderlich ist, um die gewünschte Wirkung zu erzielen. Der Verbraucher darf durch den Zusatz der in Satz 1 genannten Stoffe nicht irregeführt werden. Soweit für Farbstoffe durch § 13 Abs. 1 ein Höchstgehalt festgesetzt worden ist, bezieht sich dieser auf die Menge des färbenden Anteils des Farbstoffs.
-
-(7) Soweit einem zur Herstellung von weinhaltigen Getränken, aromatisierten weinhaltigen Getränken, aromatisierten weinhaltigen Cocktails oder aromatisiertem Wein bestimmten Bestandteil ein Stoff zugesetzt werden darf, der bei diesen Erzeugnissen nicht zugelassen ist, darf dieser Bestandteil bei der Herstellung dieser Erzeugnisse verwendet werden. Einem für die Herstellung von weinhaltigen Getränken, aromatisierten weinhaltigen Getränken, aromatisierten weinhaltigen Cocktails oder aromatisiertem Wein bestimmten Erzeugnis oder Lebensmittel, das kein Erzeugnis ist, dürfen auch die Stoffe zugesetzt werden, die nur bei der Herstellung des jeweiligen Erzeugnisses zugelassen sind. Einem Erzeugnis, das als Zutat für ein anderes Lebensmittel, das kein Erzeugnis ist, bestimmt ist, dürfen auch die Zusatzstoffe zugesetzt werden, die nur für das andere Lebensmittel zugelassen sind.
+(7) (weggefallen)
 
 (8) Soweit in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union nichts anderes bestimmt ist, dürfen bei im Inland hergestellten
 
@@ -458,23 +365,15 @@ bei der Behandlung von anderen als inländischen weinhaltigen Getränken, aromat
 
 nur Behandlungsverfahren angewendet werden, wenn durch sie kein Stoff zugesetzt wird. Bei der Herstellung der in Satz 1 genannten Getränke dürfen Ionenaustauscher oder ultraviolette oder energiereiche Strahlen nicht angewendet werden.
 
-(9) Bei der Herstellung von weinhaltigen Getränken, aromatisiertem Wein, aromatisierten weinhaltigen Getränken und aromatisierten weinhaltigen Cocktails darf Dimethyldicarbonat (E 242) nur in einer Menge von höchstens 250 Milligramm je Liter zugesetzt werden. Ein in Satz 1 genanntes Erzeugnis darf, wenn es in den Verkehr gebracht wird, Rückstände von Dimethyldicarbonat (E 242) nicht aufweisen.
+(9) (weggefallen)
 
 ### § 12 Reinheitsanforderungen(zu § 13 Absatz 3 Nummer 1 und 2 des Weingesetzes)
 
 Bei der Herstellung von Erzeugnissen dürfen die in Anlage 5 genannten Stoffe nur zugesetzt werden, wenn sie den dort aufgeführten Reinheitsanforderungen entsprechen.
 
-### § 13 Behandlungsverfahren und Gehalt an Stoffen (zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)
+### § 13 Behandlungsverfahren und Gehalt an Stoffen(zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)
 
-(1) Solange und soweit nicht auf Grund anderer Rechtsvorschriften etwas Abweichendes bestimmt ist, dürfen Erzeugnisse, wenn sie in den Verkehr gebracht werden, keinen Gehalt an in
-
-1.  
-Anlage 6 oder
-
-2.  
-Anlage 7
-
-aufgeführten Stoffen aufweisen, der die dort jeweils angegebenen Höchstmengen überschreitet.
+(1) Solange und soweit nicht auf Grund anderer Rechtsvorschriften etwas Abweichendes bestimmt ist, dürfen Erzeugnisse, wenn sie in den Verkehr gebracht werden, keinen Gehalt an in Anlage 7 aufgeführten Stoffen aufweisen, der die dort jeweils angegebenen Höchstmengen überschreitet.
 
 (2) Soweit nicht nach Artikel 49 Absatz 1 der Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom 16.3.2005, S. 1) in der jeweils geltenden Fassung die Anforderungen des Kapitels III des vorstehend bezeichneten Rechtsaktes gelten und nicht nach Absatz 1 Nummer 2 in Verbindung mit der Anlage 7 etwas anderes bestimmt ist, gilt für
 
@@ -508,23 +407,46 @@ bei Wein aus Trauben, die im Jahr 2006 in den Weinanbaugebieten der Länder Bade
 
 um jeweils 40 mg/l überschritten werden.
 
+(4a) Die in Anhang I B Abschnitt A Nummer 1 und 2 Buchstabe a und b der Verordnung (EG) Nr. 606/2009 der Kommission vom 10. Juli 2009 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 479/2008 des Rates hinsichtlich der Weinbauerzeugniskategorien, der önologischen Verfahren und der diesbezüglichen Einschränkungen (ABl. L 193 vom 24.7.2009, S. 1), die zuletzt durch die Durchführungsverordnung (EU) Nr. 347/2014 (ABl. L 102 vom 5.4.2014, S. 9) geändert worden ist, genannten Grenzwerte des Gesamtgehaltes an Schwefeldioxid dürfen bei in den Verkehr gebrachten Wein um jeweils höchstens 50 mg/l überschritten werden, soweit der Wein aus Trauben stammt, die im Jahr 2013 auf den Weinbauflächen
+
+1.  
+des bestimmten Anbaugebietes „Mosel“,
+
+2.  
+des Landweingebietes „Landwein der Mosel“,
+
+3.  
+des Landweingebietes „Landwein der Ruwer“,
+
+4.  
+des Landweingebietes „Landwein der Saar“ oder
+
+5.  
+des Landweingebietes „Saarländischer Landwein“
+
+geerntet worden sind.
+
+(4b) Die in Anhang I B Abschnitt A Nummer 1 und 2 Buchstabe a und b der Verordnung (EG) Nr. 606/2009 der Kommission vom 10. Juli 2009 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 479/2008 des Rates hinsichtlich der Weinbauerzeugniskategorien, der önologischen Verfahren und der diesbezüglichen Einschränkungen (ABl. L 193 vom 24.7.2009, S. 1), die zuletzt durch die Durchführungsverordnung (EU) 2015/596 (ABl. L 99 vom 16.4.2015, S. 21) geändert worden ist, genannten Grenzwerte des Gesamtgehaltes an Schwefeldioxid dürfen bei in den Verkehr gebrachten Wein um jeweils höchstens 50 mg/l überschritten werden, soweit der Wein aus Trauben stammt, die im Jahr 2014 auf den Weinbauflächen in Baden-Württemberg, Bayern, Hessen und Rheinland-Pfalz geerntet worden sind.
+
 (5) Bei inländischem Traubenmost und Wein aus im Jahre 2003 geernteten Trauben darf abweichend von Anhang V Abschnitt E Nummer 1 der Verordnung (EG) Nummer 1493/1999 eine Säuerung nach Maßgabe des Anhangs V Abschnitt E Nummer 2, 3 und 7 der genannten Verordnung vorgenommen werden.
 
-(6) Bei inländischem Traubenmost und Wein aus im Jahre 2009 geernteten Trauben darf abweichend von Anhang XVa Abschnitt C Nummer 1 der Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse (ABl. L 299 vom 16.11.2007, S. 1), die zuletzt durch die Verordnung (EG) Nr. 491/2009 (ABl. L 154 vom 17.6.2009, S. 1) geändert worden ist, eine Säuerung nach Maßgabe des Anhangs XVa Abschnitt C Nummer 2, 3 und 7 der Verordnung (EG) Nr. 1234/2007 vorgenommen werden.
+(6) Bei inländischem Traubenmost und Wein aus im Jahre 2009 geernteten Trauben darf abweichend von Anhang VIII Teil I Abschnitt C Nummer 1 der Verordnung (EU) Nr. 1308/2013 eine Säuerung nach Maßgabe des Anhangs VIII Teil I Abschnitt C Nummer 2, 3 und 7 der Verordnung (EU) Nr. 1308/2013 vorgenommen werden.
 
-(6a) Bei inländischem Traubenmost und Wein aus dem Jahre 2010 in den bestimmten Anbaugebieten Baden und Württemberg geernteten Trauben darf abweichend von Anhang XVa Abschnitt C Nummer 1 der Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse (ABl. L 299 vom 16.11.2007, S. 1), die zuletzt durch die Verordnung (EU) Nr. 513/2010 der Kommission vom 15. Juni 2010 (ABl. L 150 vom 16.6.2010, S. 40) geändert worden ist, eine Säuerung nach Maßgabe des Anhangs XVa Abschnitt C Nummer 2, 3 und 7 der Verordnung (EG) Nr. 1234/2007 vorgenommen werden.
+(6a) Bei inländischem Traubenmost und Wein aus dem Jahre 2010 in den bestimmten Anbaugebieten Baden und Württemberg geernteten Trauben darf abweichend von Anhang VIII Teil I Abschnitt C Nummer 1 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates eine Säuerung nach Maßgabe des Anhangs VIII Teil I Abschnitt C Nummer 2, 3 und 7 der Verordnung (EG) Nr. 1308/2013 vorgenommen werden.
 
 (7) Prädikatswein mit dem Prädikat „Eiswein“, „Beerenauslese“ oder „Trockenbeerenauslese“ darf abweichend von Anhang I C Nummer 1 der Verordnung (EG) Nr. 606/2009 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 479/2008 des Rates hinsichtlich der Weinbauerzeugniskategorien, der önologischen Verfahren und der diesbezüglichen Einschränkungen (ABl. L 193 vom 24.7.2009, S. 1) in der jeweils geltenden Fassung, wenn er in Verkehr gebracht wird, einen Gehalt an flüchtiger Säure aufweisen, der folgende Werte nicht übersteigt:
 
 1.  
-30 Milliäquivalent pro Liter Prädikatswein mit dem Prädikat „Eiswein” oder „Beerenauslese” ,
+30 Milliäquivalent pro Liter Prädikatswein mit dem Prädikat „Eiswein” oder „Beerenauslese”,
 
 2.  
 35 Milliäquivalent pro Liter Prädikatswein mit dem Prädikat „Trockenbeerenauslese”.
 
 (8) Jungwein, der aus im deutschen Weinanbaugebiet im Jahre 2010 geernteten Trauben erzeugt worden ist, darf abweichend von Anhang XVa Abschnitt D Nummer 6 Buchstabe b der Verordnung (EG) Nr. 1234/2007 bis zum 15. Mai 2011 nach Anhang XVa Abschnitt C Nummer 1 Buchstabe a der Verordnung (EG) Nr. 1234/2007 entsäuert werden.
 
-(9) Die Länder können durch Rechtsverordnung in Jahren mit außergewöhnlichen Witterungsbedingungen die Säuerung von frischen Weintrauben, Traubenmost, teilweise gegorenem Traubenmost, Jungwein und Wein nach den in Anhang XVa Abschnitt C Nummer 2 und 3 der Verordnung (EG) Nr. 1234/2007 genannten Bedingungen zulassen.
+(8a) Jungwein, der aus im deutschen Weinanbaugebiet im Jahre 2013 geernteten Trauben erzeugt worden ist, darf abweichend von Anhang VIII Teil I Abschnitt D Nummer 6 Buchstabe b der Verordnung (EU) Nr. 1308/2013 bis zum 15. Mai 2014 nach Anhang VIII Teil I Abschnitt C Nummer 1 Buchstabe a der Verordnung (EU) Nr. 1308/2013 entsäuert werden.
+
+(9) Die Länder können durch Rechtsverordnung in Jahren mit außergewöhnlichen Witterungsbedingungen die Säuerung von frischen Weintrauben, Traubenmost, teilweise gegorenem Traubenmost, Jungwein und Wein nach den in Anhang VIII Teil I Abschnitt C Nummer 2 und 3 der Verordnung (EU) Nr. 1308/2013 genannten Bedingungen zulassen.
 
 ### § 13a Herstellung von aromatisierten weinhaltigen Getränken, aromatisierten weinhaltigen Cocktails und aromatisiertem Wein
 
@@ -534,11 +456,11 @@ Für aromatisierte weinhaltige Getränke, aromatisierte weinhaltige Cocktails un
 
 Erzeugnisse dürfen nur unter Beachtung der Anforderungen des § 3 der Lebensmittelhygiene-Verordnung gewerbsmäßig verarbeitet, befördert, gelagert, verwertet oder in den Verkehr gebracht werden.
 
-### § 15 Erhöhung des natürlichen Alkoholgehaltes (zu § 15 Nummer 1, 3 bis 5 des Weingesetzes)
+### § 15 Erhöhung des natürlichen Alkoholgehaltes(zu § 15 Nummer 1, 3 bis 5 des Weingesetzes)
 
-(1) Der im gärfähig befüllten Behältnis festgestellte vorhandene oder potenzielle natürliche Alkoholgehalt von gemaischten Rotweintrauben, Traubenmost, teilweise gegorenem Traubenmost und Jungwein, soweit diese Erzeugnisse aus nach § 8c des Weingesetzes klassifizierten Rebsorten hergestellt worden sind, sowie Wein und Landwein darf nach Maßgabe des Anhangs XVa Abschnitt A und B der Verordnung (EG) Nr. 1234/2007 erhöht werden. Abweichend von Anhang XVa Abschnitt B Nummer 6 der Verordnung (EG) Nr. 1234/2007 darf, soweit der natürliche Alkoholgehalt nach Satz 1 erhöht worden ist, der Gesamtalkoholgehalt bei Rotwein 12 Volumenprozent in der Weinbauzone A und 12,5 Volumenprozent in der Weinbauzone B nicht übersteigen.
+(1) Der im gärfähig befüllten Behältnis festgestellte natürliche Alkoholgehalt von gemaischten Rotweintrauben, Traubenmost, teilweise gegorenem Traubenmost und Jungwein, soweit diese Erzeugnisse aus nach § 8 des Weingesetzes klassifizierten Rebsorten hergestellt worden sind, sowie Wein und Landwein darf nach Maßgabe des Anhangs VIII Teil I Abschnitt A und B der Verordnung (EU) Nr. 1308/2013 erhöht werden. Abweichend von Anhang VIII Teil I Abschnitt B Nummer 6 der Verordnung (EU) Nr. 1308/2013 darf, soweit der natürliche Alkoholgehalt nach Satz 1 erhöht worden ist, der Gesamtalkoholgehalt bei Rotwein 12 Volumenprozent in der Weinbauzone A und 12,5 Volumenprozent in der Weinbauzone B nicht übersteigen.
 
-(2) Der im gärfähig befüllten Behältnis festgestellte vorhandene oder potenzielle natürliche Alkoholgehalt von gemaischten Rotweintrauben, Traubenmost, teilweise gegorenem Traubenmost, Jungwein und Wein, soweit diese Erzeugnisse zur Erzeugung von Qualitätswein b.A. geeignet sind, darf nach Maßgabe des Anhangs XVa Abschnitt A und B der Verordnung (EG) Nr. 1234/2007 erhöht werden. Abweichend von Anhang XVa Abschnitt B Nummer 6 der Verordnung (EG) Nr. 1234/2007 darf, soweit der natürliche Alkoholgehalt nach Satz 1 erhöht worden ist, bei Qualitätswein b.A. der Gesamtalkoholgehalt 15 Volumenprozent nicht übersteigen.
+(2) Der im gärfähig befüllten Behältnis festgestellte natürliche Alkoholgehalt von gemaischten Rotweintrauben, Traubenmost, teilweise gegorenem Traubenmost, Jungwein und Wein, soweit diese Erzeugnisse zur Erzeugung von Qualitätswein geeignet sind, darf nach Maßgabe des Anhangs VIII Teil I Abschnitt A und B der Verordnung (EU) Nr. 1308/2013 erhöht werden. Abweichend von Anhang VIII Teil I Abschnitt B Nummer 6 der Verordnung (EU) Nr. 1308/2013 darf, soweit der natürliche Alkoholgehalt nach Satz 1 erhöht worden ist, bei Qualitätswein der Gesamtalkoholgehalt 15 Volumenprozent nicht übersteigen.
 
 (3) Die Erhöhung des natürlichen Alkoholgehaltes darf bei
 
@@ -554,7 +476,7 @@ vorgenommen werden.
 
 ### § 16 Süßung (zu § 15 Nummer 2 und 3, § 22 Absatz 2 Nummer 1 des Weingesetzes)
 
-(1) Qualitätswein b.A. darf nach Maßgabe des Anhangs I D Nummer 1 und 3 der Verordnung (EG) Nr. 606/2009 nur mit Traubenmost gesüßt werden.
+(1) Qualitätswein oder Prädikatswein darf nach Maßgabe des Anhangs I D Nummer 1 und 3 der Verordnung (EG) Nr. 606/2009 nur mit Traubenmost gesüßt werden.
 
 (1a) Landwein darf nach Maßgabe des Anhangs I D Nummer 1 der Verordnung (EG) Nr. 606/2009 nur mit inländischem Traubenmost gesüßt werden.
 
@@ -659,18 +581,18 @@ in mehreren Arbeitsgängen erfolgen.
 
 (16) Die Gesamtmenge des in den Trestern, dem Mosttrub und dem Weintrub enthaltenen natürlichen Alkohols darf 5 vom Hundert der in dem Wein enthaltenen Menge natürlichen Alkohols, die unter Zugrundelegung eines pauschalen natürlichen Alkoholgehaltes von 8,0 Volumenprozent in der Weinbauzone A und von 8,5 Volumenprozent in der Weinbauzone B zu ermitteln ist, nicht unterschreiten.
 
-Abschnitt 4 Qualitätswein b.A.
-------------------------------
+Abschnitt 4 Qualitätswein, Prädikatswein, Sekt b.A., Qualitätsperlwein b.A., Qualitätslikörwein b.A. oder Landwein
+------------------------------------------------------------------------------------------------------------------
 
 ### 
 
-### § 19 Herstellen von Qualitätswein b.A. außerhalb des bestimmten Anbaugebietes (zu § 17 Absatz 2 Nummer 1 des Weingesetzes)
+### § 19 Herstellen von Qualitätswein, Prädikatswein, Sekt b.A., Qualitätsperlwein b.A. oder Qualitätslikörwein b.A. außerhalb des bestimmten Anbaugebietes(zu § 17 Absatz 2 Nummer 1 des Weingesetzes)
 
-Qualitätswein b.A., Sekt b.A., Qualitätsperlwein b.A. oder Qualitätslikörwein b.A. darf nach Maßgabe des Artikels 6 Absatz 4 Buchstabe b der Verordnung (EG) Nr. 607/2009 in einem anderen bestimmten Anbaugebiet hergestellt werden als dem Gebiet, in dem die Trauben geerntet worden sind und das in der Kennzeichnung angegeben wird, sofern jenes bestimmte Anbaugebiet in demselben Land oder in einem benachbarten Land liegt.
+Qualitätswein, Prädikatswein, Sekt b.A., Qualitätsperlwein b.A. oder Qualitätslikörwein b.A. darf nach Maßgabe des Artikels 6 Absatz 4 Buchstabe b der Verordnung (EG) Nr. 607/2009 in einem anderen Gebiet hergestellt werden als dem bestimmten Anbaugebiet, in dem die Trauben geerntet worden sind und das in der Kennzeichnung angegeben wird, sofern das Gebiet der Herstellung in demselben Land oder in einem benachbarten Land liegt.
 
-### § 20 (weggefallen)
+### § 20 Herstellen von Landwein außerhalb des Landweingebietes(zu § 22 Absatz 2 Nummer 2 des Weingesetzes)
 
--
+Landwein darf nach Maßgabe des Artikels 6 Absatz 4 Buchstabe b der Verordnung (EG) Nr. 607/2009 in einem anderen Gebiet hergestellt werden als dem Landweingebiet, in dem die Trauben geerntet worden sind und das in der Kennzeichnung angegeben wird, sofern das Gebiet der Herstellung in demselben Land oder in einem benachbarten Land liegt.
 
 ### § 20a (weggefallen)
 
@@ -678,7 +600,7 @@ Qualitätswein b.A., Sekt b.A., Qualitätsperlwein b.A. oder Qualitätslikörwei
 
 ### § 21 Qualitätsprüfung (zu § 21 Absatz 1 Nummer 1 i.V.m. § 54 Absatz 1 des Weingesetzes)
 
-(1) Eine Prüfungsnummer wird einem Qualitätswein b.A. zugeteilt, wenn
+(1) Eine Prüfungsnummer wird einem Qualitätswein, Prädikatswein, Sekt b.A., Sekt, Qualitätsperlwein b.A. oder Qualitätslikörwein b.A. zugeteilt, wenn
 
 1.  
 der Traubenmost oder die Maische im gärfähig befüllten Behältnis mindestens den für den jeweiligen Wein vorgeschriebenen natürlichen Mindestalkoholgehalt aufgewiesen hat und
@@ -698,9 +620,9 @@ Verwendung von Eichenholzstücken für die Weinbereitung oder den Weinausbau ode
 2.  
 teilweise Entalkoholisierung.
 
-(4) Die Landesregierungen können durch Rechtsverordnung zur Erhaltung der Eigenart der Erzeugnisse vorschreiben, dass eine Prüfungsnummer einem Qualitätswein nur zugeteilt werden darf, wenn sein Gesamtalkoholgehalt, sofern der festgestellte vorhandene oder potenzielle natürliche Alkoholgehalt nach § 15 Absatz 2 erhöht worden ist, einen bestimmten Wert nicht übersteigt.
+(4) Die Landesregierungen können durch Rechtsverordnung zur Erhaltung der Eigenart der Erzeugnisse vorschreiben, dass eine Prüfungsnummer einem Qualitätswein nur zugeteilt werden darf, wenn sein Gesamtalkoholgehalt, sofern der festgestellte natürliche Alkoholgehalt nach § 15 Absatz 2 erhöht worden ist, einen bestimmten Wert nicht übersteigt.
 
-### § 22 Antrag auf Erteilung einer Prüfungsnummer (zu § 21 Absatz 1 Nummer 1 und 3 des Weingesetzes)
+### § 22 Antrag auf Erteilung einer Prüfungsnummer(zu § 21 Absatz 1 Nummer 1 und 3 des Weingesetzes)
 
 (1) Eine Prüfungsnummer kann beantragen:
 
@@ -708,7 +630,7 @@ teilweise Entalkoholisierung.
 für Qualitätswein oder Prädikatswein der Abfüller, im Falle des Absatzes 5 der Hersteller,
 
 2.  
-für Sekt b.A., Qualitätslikörwein b.A. und Qualitätsperlwein b.A. der Hersteller.
+für Sekt, Sekt b.A., Qualitätslikörwein b.A. und Qualitätsperlwein b.A. der Hersteller.
 
 Der Antrag ist der zuständigen Stelle auf einem Formblatt einzureichen, das die in Anlage 9 Abschnitt I aufgeführten Angaben enthält. Dem Antrag ist unentgeltlich eine Probe von drei Flaschen beizufügen. Die zuständige Stelle kann, soweit die Probe von drei Flaschen zur Beurteilung des Weines nicht ausreicht, weitere unentgeltliche Proben anfordern oder entnehmen lassen. Der Antrag ist mit einer fortlaufenden Nummer zu versehen (Antragsnummer). Die fortlaufende Zählung der Antragsnummern endet mit dem Kalenderjahr. Auf Antrag kann die zuständige Stelle von der fortlaufenden Zählung der Antragsnummern absehen, wenn hierfür ein dringendes Bedürfnis nachgewiesen wird und eine ausreichende Kontrolle gewährleistet ist.
 
@@ -718,7 +640,7 @@ Der Antrag ist der zuständigen Stelle auf einem Formblatt einzureichen, das die
 
 (4) Von der Probe ist mindestens eine Flasche bis zum Ablauf von zwei Jahren nach Erteilung des Prüfungsbescheides aufzubewahren. Die Aufbewahrung kann nach Versiegelung der Flaschen auch dem Antragsteller aufgegeben werden. Nach Ablauf der Aufbewahrungsfrist kann der Antragsteller innerhalb von drei Monaten über die von der zuständigen Stelle aufbewahrte Probe verfügen, soweit sie nicht für Zwecke der Prüfung oder Überwachung verwendet wurde.
 
-(5) Sofern für Qualitätswein b.A. ein Antrag gestellt wird, bevor der Wein abgefüllt ist, ist auch diesem Antrag unentgeltlich eine Probe von drei Flaschen beizufügen. Zur Feststellung der Identität ist nach der Abfüllung eine weitere unentgeltliche Probe von drei Flaschen und ein Untersuchungsbefund nach § 23 Absatz 1 nachzureichen. Abweichend von Satz 2 kann die zuständige Stelle zulassen, dass der nachzureichende Untersuchungsbefund nur die in Anlage 10 genannten Angaben enthalten muss, die zur Feststellung der Identität zwingend erforderlich sind.
+(5) Sofern für Qualitätswein, Prädikatswein, Qualitätslikörwein b.A., Qualitätsperlwein b.A., Sekt b.A. oder Sekt ein Antrag gestellt wird, bevor das Erzeugnis abgefüllt ist, ist auch diesem Antrag unentgeltlich eine Probe von drei Flaschen beizufügen. Zur Feststellung der Identität ist nach der Abfüllung eine weitere unentgeltliche Probe von drei Flaschen und ein Untersuchungsbefund nach § 23 Absatz 1 nachzureichen. Abweichend von Satz 2 kann die zuständige Stelle zulassen, dass der nachzureichende Untersuchungsbefund nur die in Anlage 10 genannten Angaben enthalten muss, die zur Feststellung der Identität zwingend erforderlich sind.
 
 (6) Wird der Antrag zurückgenommen oder abgelehnt, oder wird der Prüfungsbescheid aufgehoben, so ist dem Antragsteller die Probe unverzüglich zur Verfügung zu stellen, soweit der von der zuständigen Stelle erlassene Verwaltungsakt nicht angefochten wird. Absatz 4 Satz 3 gilt entsprechend. Die zuständige Stelle kann jedoch die weitere Aufbewahrung der Probe anordnen, wenn sie eine erneute Untersuchung des Erzeugnisses eingeleitet hat.
 
@@ -771,9 +693,9 @@ und dies auch künftig nicht zu erwarten ist.
 
 (3) Wird einem im Inland hergestellten Qualitätsschaumwein oder Sekt, der mit einer Rebsortenangabe versehen werden soll, eine amtliche Prüfungsnummer deshalb nicht zugeteilt, weil das Erzeugnis für die angegebene Rebsorte nicht typisch ist, darf es mit einer Rebsortenangabe nicht in den Verkehr gebracht werden. Die für das Verfahren nach § 24 Absatz 5 des Weingesetzes zuständige Stelle wird über die Versagung der amtlichen Prüfungsnummer unterrichtet.
 
-(4) Wird derselbe Qualitätswein b.A. in mehreren Teilmengen abgefüllt, so kann die Prüfungsnummer der ersten Abfüllung für alle weiteren Abfüllungen verwendet werden. Dies setzt voraus, dass im Zeitpunkt der ersten Antragstellung die gesamte Weinmenge im Betrieb des Antragstellers lagert und jede Teilmenge nach ihrer Herstellung von gleicher Zusammensetzung wie die erste Teilmenge ist. Die Erteilung der Prüfungsnummer ist für jede abgefüllte Teilmenge neu zu beantragen; § 22 und § 23 Absatz 1 und 2 und die Absätze 1 und 2 gelten entsprechend. Die zuständige Stelle kann zulassen, dass statt des Antrags die Abfüllung der Teilmenge lediglich angezeigt wird. In diesem Falle kann die zuständige Stelle eine unentgeltliche Probe von drei Flaschen anfordern. Weichen bei einer Teilmenge Geschmacksrichtung, Qualität oder das Analysenbild nicht nur unwesentlich von der ersten Teilmenge ab, so gilt deren Prüfungsnummer nicht für diese Teilmenge.
+(4) Wird derselbe Qualitätswein, Prädikatswein, Qualitätslikörwein b.A. oder Qualitätsperlwein b.A. in mehreren Teilmengen abgefüllt, so kann die Prüfungsnummer der ersten Abfüllung für alle weiteren Abfüllungen verwendet werden. Dies setzt voraus, dass im Zeitpunkt der ersten Antragstellung die gesamte Weinmenge im Betrieb des Antragstellers lagert und jede Teilmenge nach ihrer Herstellung von gleicher Zusammensetzung wie die erste Teilmenge ist. Die Erteilung der Prüfungsnummer ist für jede abgefüllte Teilmenge neu zu beantragen; § 22 und § 23 Absatz 1 und 2 und die Absätze 1 und 2 gelten entsprechend. Die zuständige Stelle kann zulassen, dass statt des Antrags die Abfüllung der Teilmenge lediglich angezeigt wird. In diesem Falle kann die zuständige Stelle eine unentgeltliche Probe von drei Flaschen anfordern. Weichen bei einer Teilmenge Geschmacksrichtung, Qualität oder das Analysenbild nicht nur unwesentlich von der ersten Teilmenge ab, so gilt deren Prüfungsnummer nicht für diese Teilmenge.
 
-(5) Wird derselbe nach Maßgabe des Artikels 66 Absatz 4 der Verordnung (EG) Nr. 607/2009 hergestellte Sekt b.A. in mehreren Teilmengen degorgiert, ist Absatz 4 entsprechend anzuwenden.
+(5) Wird derselbe nach Maßgabe des Artikels 66 Absatz 4 der Verordnung (EG) Nr. 607/2009 hergestellte Sekt b.A. oder Sekt in mehreren Teilmengen degorgiert, ist Absatz 4 entsprechend anzuwenden.
 
 ### § 25 Zuständige Stelle(zu § 21 Absatz 1 Nummer 3 des Weingesetzes)
 
@@ -817,7 +739,7 @@ Im Übrigen bleiben die Vorschriften über die Rücknahme und den Widerruf von V
 
 ### § 28 Ausnahmen (zu § 16 Absatz 2 Satz 1, § 21 Absatz 2, § 24 Absatz 2, § 29 Absatz 1 Satz 1 Nummer 1 und § 30 Satz 1 Nummer 2 des Weingesetzes)
 
-Abweichend von § 19 Absatz 1 und § 20 Absatz 1 des Weingesetzes dürfen die beantragte Prüfungsnummer und die Bezeichnung Qualitätswein b.A., Qualitätswein, Prädikatswein in Verbindung mit dem beantragten Prädikatsbegriff, Qualitätslikörwein b.A., Qualitätsperlwein b.A. oder Sekt b.A. vom Antragsteller schon vor der Zuteilung einer Prüfungsnummer auf dem Behältnis des abgefüllten Erzeugnisses und bei Preisangeboten angegeben werden. Darüber hinaus darf ein in Satz 1 genanntes, nicht zum Verkauf bestimmtes abgefülltes Erzeugnis, dessen Behältnisse mit der beantragten Prüfungsnummer versehen sind, in geringer Menge in den Verkehr gebracht werden. Als gering gilt dabei eine Menge, die insgesamt 3 vom Hundert der Menge, für die ein Antrag auf Erteilung einer amtlichen Prüfungsnummer nach Satz 1 gestellt worden ist, und, soweit diese Menge größer als 100 Liter sein würde, 100 Liter nicht übersteigt. Wer ein in Satz 2 genanntes Erzeugnis in den Verkehr bringt, hat dies unter Angabe der in den Verkehr gebrachten Menge und des Empfängers in die Weinbuchführung einzutragen und auf dem Behältnis deutlich sichtbar und gut lesbar die Angabe "Muster, nicht zum Verkauf bestimmt" anzugeben. Im Übrigen darf ein so gekennzeichnetes Erzeugnis erst nach der Zuteilung der Prüfungsnummer und, soweit es sich um Prädikatswein handelt, erst nach der Zuerkennung des Prädikats in den Verkehr gebracht werden.
+Abweichend von § 19 Absatz 1 und § 20 Absatz 1 des Weingesetzes dürfen die beantragte Prüfungsnummer und die Bezeichnung, Qualitätswein, Prädikatswein in Verbindung mit dem beantragten Prädikatsbegriff, Qualitätslikörwein b.A., Qualitätsperlwein b.A. oder Sekt b.A. vom Antragsteller schon vor der Zuteilung einer Prüfungsnummer auf dem Behältnis des abgefüllten Erzeugnisses und bei Preisangeboten angegeben werden. Darüber hinaus darf ein in Satz 1 genanntes, nicht zum Verkauf bestimmtes abgefülltes Erzeugnis, dessen Behältnisse mit der beantragten Prüfungsnummer versehen sind, in geringer Menge in den Verkehr gebracht werden. Als gering gilt dabei eine Menge, die insgesamt 3 vom Hundert der Menge, für die ein Antrag auf Erteilung einer amtlichen Prüfungsnummer nach Satz 1 gestellt worden ist, und, soweit diese Menge größer als 100 Liter sein würde, 100 Liter nicht übersteigt. Wer ein in Satz 2 genanntes Erzeugnis in den Verkehr bringt, hat dies unter Angabe der in den Verkehr gebrachten Menge und des Empfängers in die Weinbuchführung einzutragen und auf dem Behältnis deutlich sichtbar und gut lesbar die Angabe "Muster, nicht zum Verkauf bestimmt" anzugeben. Im Übrigen darf ein so gekennzeichnetes Erzeugnis erst nach der Zuteilung der Prüfungsnummer und, soweit es sich um Prädikatswein handelt, erst nach der Zuerkennung des Prädikats in den Verkehr gebracht werden.
 
 ### § 28a Qualitätsprüfung bestimmter Qualitätsschaumweine(zu § 21 Absatz 1 Nummer 1, 3, 5 und 6 des Weingesetzes)
 
@@ -858,9 +780,9 @@ geschützt ist.
 
 (3) Eine Rebfläche, die keiner Lage angehört, kann in einen Bereich einbezogen werden, wenn die Voraussetzungen nach § 2 Nummer 23 des Weingesetzes erfüllt sind.
 
-### § 30 Auszeichnungen und ähnliche Angaben (zu § 24 Absatz 2 i. V. m. § 54 Absatz 1 des Weingesetzes)
+### § 30 Auszeichnungen und ähnliche Angaben(zu § 24 Absatz 2 i. V. m. § 54 Absatz 1 des Weingesetzes)
 
-(1) Eine bei einem im Inland durchgeführten Wettbewerb erhaltene Auszeichnung oder ein Gütezeichen darf nur in der Kennzeichnung inländischen Qualitätsweins b.A., Sekts b.A. oder inländischen Qualitätsperlweins b.A. und nur nach Maßgabe der folgenden Bestimmungen angegeben werden.
+(1) Eine bei einem im Inland durchgeführten Wettbewerb erhaltene Auszeichnung oder ein Gütezeichen darf in der Kennzeichnung inländischer Erzeugnisse nur nach Maßgabe der folgenden Bestimmungen angegeben werden.
 
 (2) Es muss sich
 
@@ -880,7 +802,7 @@ a)
 „Deutsches Weinsiegel“ der Deutschen Landwirtschaftsgesellschaft e. V. oder
 
 b)  
-ein von der Landesregierung eines Weinbau treibenden Landes anerkanntes Gütezeichen
+ein von der Landesregierung anerkanntes Gütezeichen
 
 handeln. Im Falle des Satzes 1
 
@@ -892,27 +814,13 @@ Nummer 2 muss der Wein bei einer in entsprechender Anwendung der Anlage 9 Abschn
 
 erhalten haben. Anstelle einer Bewertung nach Anlage 9 Abschnitt II kann ein an internationalen Normen für Weinwettbewerbe orientiertes Bewertungsschema angewendet werden.
 
-(3) Eine Auszeichnung oder ein Gütezeichen darf nur für Wein einer homogenen Partie vergeben werden, der aus demselben Behältnis stammt und mindestens folgende Mengen umfasst:
+(3) Eine Auszeichnung oder ein Gütezeichen darf nur für Wein einer homogenen Partie vergeben werden, der aus demselben Behältnis stammt. Nach der Abfüllung müssen die Behältnisse entsprechend den Vorschriften der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union, des Weingesetzes und der auf Grund des Weingesetzes erlassenen Rechtsverordnungen gekennzeichnet sein und den Namen der geografischen Einheit, aus der der Wein stammt, sowie den Jahrgang, in dem die bei seiner Bereitung verwendeten Trauben geerntet worden sind, erkennen lassen und mit einem nicht wiederverwendbaren Verschluss versehen sein.
 
-1.  
-Qualitätswein 1 000 Liter,
-
-2.  
-die Prädikatsweine Beerenauslese, Trockenbeerenauslese oder Eiswein jeweils mindestens 100 Liter,
-
-3.  
-der Prädikatswein Auslese und Qualitätswein, der als „Selection“ bezeichnet wird, sowie Prädikatswein und Qualitätswein, der eine Angabe nach Anhang XVI in Verbindung mit Artikel 66 Absatz 2 der Verordnung (EG) Nr. 607/2009 trägt, jeweils mindestens 200 Liter,
-
-4.  
-die Prädikatsweine Kabinett und Spätlese sowie Qualitätswein, der als „Riesling-Hochgewächs“ bezeichnet wird, jeweils mindestens 400 Liter.
-
-Nach der Abfüllung müssen die Behältnisse entsprechend den Vorschriften der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union, des Weingesetzes und der auf Grund des Weingesetzes erlassenen Rechtsverordnungen gekennzeichnet sein und den Namen der geografischen Einheit, aus der der Wein stammt, sowie den Jahrgang, in dem die bei seiner Bereitung verwendeten Trauben geerntet worden sind, erkennen lassen und mit einem nicht wiederverwendbaren Verschluss versehen sein.
-
-(4) Die Landesregierungen können durch Rechtsverordnung bestimmen, dass Auszeichnungen oder Gütezeichen bei von Absatz 3 abweichenden Mindestmengen vergeben werden dürfen, wenn die zur Prüfung angestellte Partie mehr als 100 Liter und weniger als 1 000 Liter umfasst und die Voraussetzungen des Absatzes 3 Satz 2 vorliegen.
+(4) (weggefallen)
 
 (5) Eine Anerkennung nach Absatz 2 Satz 1 Nummer 1 Buchstabe b oder Nummer 2 Buchstabe b setzt voraus, dass ein Wein bei dem Wettbewerb unter objektiven, nicht diskriminierenden Bedingungen im Vergleich mit anderen Weinen, die der gleichen Kategorie angehören und unter vergleichbaren Produktionsbedingungen hergestellt worden sind, unter Anwendung des Bewertungsschemas nach Anlage 9 Abschnitt II oder eines abweichenden Bewertungsschemas im Sinne des Absatzes 2 Satz 3 geprüft wird.
 
-(6) Die Landesregierung unterrichtet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz über eine Anerkennung einer Auszeichnung oder eines Gütezeichens. Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz veröffentlicht zu Beginn eines Weinwirtschaftsjahres ein Verzeichnis der Auszeichnungen und Gütezeichen der Deutschen Landwirtschaftsgesellschaft e. V. sowie der von den Landesregierungen anerkannten Auszeichnungen und Gütezeichen im Bundesanzeiger.
+(6) Die Landesregierung unterrichtet das Bundesministerium für Ernährung und Landwirtschaft über eine Anerkennung einer Auszeichnung oder eines Gütezeichens. Das Bundesministerium für Ernährung und Landwirtschaft veröffentlicht zu Beginn eines Weinwirtschaftsjahres ein Verzeichnis der Auszeichnungen und Gütezeichen der Deutschen Landwirtschaftsgesellschaft e. V. sowie der von den Landesregierungen anerkannten Auszeichnungen und Gütezeichen im Bundesanzeiger.
 
 ### § 31 Wein für religiöse Zwecke(zu § 24 Absatz 2 des Weingesetzes)
 
@@ -920,7 +828,7 @@ Die Bezeichnungen "Abendmahlswein", "Messwein", "Koscherer Wein" oder "Koscherer
 
 ### § 32 Angabe von Weinarten; Reifeangaben (zu § 16 Absatz 2 Satz 1 und § 24 Absatz 2 und 3 Nummer 5 des Weingesetzes)
 
-(1) Bei inländischem Qualitätswein b.A. darf die Bezeichnung
+(1) Bei inländischem Qualitätswein oder Prädikatswein darf die Bezeichnung
 
 1.  
 Weißwein nur für einen ausschließlich aus Weißweintrauben hergestellten Wein,
@@ -962,9 +870,9 @@ hergestellt worden ist. Die Rebsorte muss in Verbindung mit der Bezeichnung Wei�
 3.  
 "Schieler" nur gebraucht werden, wenn die zur Herstellung des Weines verwendeten Weintrauben ausschließlich in dem bestimmten Anbaugebiet Sachsen geerntet worden sind; der Bezeichnung "Schieler" darf zur Angabe der Großlage, aus der die zur Herstellung des Weines verwendeten Trauben stammen, der von der Landesregierung durch Rechtsverordnung nach § 39 Absatz 2 festgelegte Gemeindename vorangestellt werden.
 
-Wird aus einem Qualitätswein b.A., der eine der in Satz 1 Nummer 1 bis 3 genannten Bezeichnungen tragen darf, ein Sekt b.A. oder ein Qualitätsperlwein b.A. hergestellt, darf für diesen Sekt b.A. oder Qualitätsperlwein b.A. im Falle der Nummer 1 die Bezeichnung "Schiller", im Falle der Nummer 2 die Bezeichnung "Badisch-Rotgold" und im Falle der Nummer 3 die Bezeichnung "Schieler" verwendet werden.
+Wird aus einem Qualitätswein oder einem Prädikatswein, der eine der in Satz 1 Nummer 1 bis 3 genannten Bezeichnungen tragen darf, ein Sekt b.A. oder ein Qualitätsperlwein b.A. hergestellt, darf für diesen Sekt b.A. oder Qualitätsperlwein b.A. im Falle der Nummer 1 die Bezeichnung "Schiller", im Falle der Nummer 2 die Bezeichnung "Badisch-Rotgold" und im Falle der Nummer 3 die Bezeichnung "Schieler" verwendet werden.
 
-(8) Bei inländischen Qualitätsweinen b.A. und Prädikatsweinen, die in Holzbehältnissen gegoren, ausgebaut oder gereift wurden, ist die Verwendung einer Angabe nach Anhang XVI in Verbindung mit Artikel 66 Absatz 2 Unterabsatz 1 Satz 1, Unterabsatz 2 Satz 1 und Unterabsatz 3 der Verordnung (EG) Nr. 607/2009 nur zulässig, wenn
+(8) Bei inländischen Qualitätsweinen oder Prädikatsweinen, die in Holzbehältnissen gegoren, ausgebaut oder gereift wurden, ist die Verwendung einer Angabe nach Anhang XVI in Verbindung mit Artikel 66 Absatz 2 Unterabsatz 1 Satz 1, Unterabsatz 2 Satz 1 und Unterabsatz 3 der Verordnung (EG) Nr. 607/2009 nur zulässig, wenn
 
 1.  
 mindestens 75 vom Hundert des Weines oder der zu seiner Herstellung verwendeten Erzeugnisse in dem Holzbehältnis der angegebenen Art gegoren, ausgebaut oder gereift worden sind,
@@ -1115,31 +1023,25 @@ die in Absatz 1 Nummer 1 genannte Vereinbarung weitere Bestandteile enthalten mu
 2.  
 abweichend von § 32a Nummer 5 zur Angabe der Herkunft der Name eines Bereiches zu verwenden ist.
 
-(4) Qualitätswein mit der Bezeichnung "Classic", der aus vor dem 1. Januar 2001 geernteten Weintrauben hergestellt worden ist, darf nicht vor dem 1. Januar 2001 abgegeben werden.
+(4) (weggefallen)
 
 (5) Qualitätswein mit der Bezeichnung "Selection" darf nicht vor dem 1. September des auf das Erntejahr der verwendeten Trauben folgenden Jahres abgegeben werden. Als verwendete Trauben im Sinne des Satzes 1 gelten nicht die zur Süßung verwendeten Erzeugnisse.
 
-### § 32d Abweichungen; Ausnahmen (zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
+### § 32d Abweichungen; Ausnahmen(zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
 
 (1) Abweichend von
 
 1.  
-§ 32a Nummer 1 dürfen bei einem als "Classic" bezeichneten Qualitätswein aus im bestimmten Anbaugebiet Württemberg geernteten Weintrauben die Rebsorten Trollinger und Lemberger angegeben werden, soweit diese Rebsorten durch Rechtsverordnung nach § 32c Absatz 2 festgelegt worden sind; diese Rebsorten müssen in Verbindung mit der Bezeichnung "Classic" angegeben werden,
+§ 32a Nummer 1 dürfen bei einem als „Classic“ bezeichneten Qualitätswein aus im bestimmten Anbaugebiet Württemberg geernteten Weintrauben die Rebsorten Trollinger und Lemberger angegeben werden, soweit diese Rebsorten durch Rechtsverordnung nach § 32c Absatz 2 festgelegt worden sind; diese Rebsorten müssen in Verbindung mit der Bezeichnung „Classic“ angegeben werden,
 
 2.  
-§ 32c Absatz 1 Nummer 1 darf aus vor dem 1. Januar 2001 geernteten Weintrauben hergestellter Qualitätswein als "Classic" bezeichnet werden, wenn der Abfüller der nach Landesrecht zuständigen Stelle bis zum 15. Dezember 2000 eine Vereinbarung vorlegt, die die unter § 32c Absatz 1 Nummer 1 genannten Angaben enthalten muss,
-
-3.  
-§ 32c Absatz 1 Nummer 1 darf aus vor dem 1. Januar 2001 geernteten Weintrauben hergestellter Qualitätswein als "Selection" bezeichnet werden, wenn der Abfüller der nach Landesrecht zuständigen Stelle bis zum 15. Dezember 2000 eine Vereinbarung vorlegt, die die unter § 32c Absatz 1 Nummer 1 genannten Angaben enthalten muss; in diesem Fall ist § 32c Absatz 1 Nummer 4 nicht anzuwenden,
-
-4.  
-den §§ 32a bis 32c Absatz 1 dürfen die Bezeichnungen "Classic" und "Selection" von einem Abfüller für andere als die dort genannten Qualitätsweine und für Prädikatsweine bis zum 31. Dezember 2015 weiterverwendet werden, wenn er sie vor dem 6. Dezember 2000 in Übereinstimmung mit den maßgeblichen Rechtsakten der Europäischen Gemeinschaft verwendet hat.
+den §§ 32a bis 32c Absatz 1 dürfen die Bezeichnungen „Classic“ und „Selection“ von einem Abfüller für andere als die dort genannten Qualitätsweine und für Prädikatsweine bis zum Ablauf des 31. Dezember 2020 weiterverwendet werden, wenn er sie vor dem 6. Dezember 2000 in Übereinstimmung mit den maßgeblichen Rechtsakten der Europäischen Gemeinschaft verwendet hat.
 
 (2) Abweichend von § 32b Nummer 10 darf die nach den Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union bei Wein geltende Geschmacksangabe "trocken" für Weine verwendet werden, bei denen der Jahrgang 2000, 2001 oder 2002 angegeben wird.
 
 (3) Die Bezeichnungen "Classic" oder "Selection" dürfen von einem Hersteller oder Verkäufer für Qualitätsschaumwein, bei dem nach den Rechtsakten der Europäischen Gemeinschaft die Angabe Deutschland oder deutsch oder der Name einer kleineren geografischen Einheit als Deutschland verwendet wird, oder für deutschen Sekt b.A., deren zur Bereitung der Cuvée verwendete Erzeugnisse die Anforderungen nach den §§ 32a bis 32c nicht erfüllen, bis zum 31. Dezember 2015 weiterverwendet werden, wenn er sie vor dem 6. Dezember 2000 in Übereinstimmung mit den maßgeblichen Rechtsakten der Europäischen Gemeinschaft verwendet hat.
 
-(4) Für Qualitätswein, der nach Absatz 1 Nummer 4 als "Selection" bezeichnet werden darf, ist § 32c Absatz 5 nicht anzuwenden.
+(4) Für Qualitätswein, der nach Absatz 1 Nummer 2 als "Selection" bezeichnet werden darf, ist § 32c Absatz 5 nicht anzuwenden.
 
 (5) Qualitätswein, der nach den bis zum 8. Juli 2002 geltenden Vorschriften als "Classic" oder "Selection" gekennzeichnet ist, darf noch bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
 
@@ -1163,11 +1065,11 @@ der Restzuckergehalt innerhalb der nach Anhang XIV Teil B der Verordnung (EG) Nr
 
 ### § 33a Verwendung bestimmter Behältnisse (zu § 24 Absatz 2 Nummer 4 i. V. m. § 54 Absatz 1 des Weingesetzes)
 
-(1) Die Landesregierungen von Baden-Württemberg und Bayern können für in ihrem Gebiet hergestellte Qualitätsweine b.A., die in Flaschen der Art Bocksbeutel nach Anhang XVII Nummer 2 Buchstabe b Ziffer i der Verordnung (EG) Nr. 607/2009 vermarktet werden dürfen, durch Rechtsverordnung vorschreiben, dass nur Qualitätsweine b.A., die bestimmte Anforderungen erfüllen, insbesondere in der amtlichen Qualitätsprüfung eine bestimmte Qualitätszahl erreicht haben, in Bocksbeuteln abgefüllt werden dürfen.
+(1) Die Landesregierungen von Baden-Württemberg und Bayern können für in ihrem Gebiet hergestellte Qualitätsweine, Prädikatsweine und Sekte b.A., die in Flaschen der Art Bocksbeutel nach Anhang XVII Nummer 2 Buchstabe b Ziffer i der Verordnung (EG) Nr. 607/2009 vermarktet werden dürfen, durch Rechtsverordnung vorschreiben, dass nur Qualitätsweine, Prädikatsweine und Sekte b.A., die bestimmte Anforderungen erfüllen, insbesondere in der amtlichen Qualitätsprüfung eine bestimmte Qualitätszahl erreicht haben, in Bocksbeuteln abgefüllt werden dürfen.
 
-(2) Ein Sekt b.A. darf ausschließlich in einer Schaumwein-Glasflasche in Verkehr gebracht werden, die vorbehaltlich des Satzes 2 mit einem pilzförmigen Stopfen aus Kork oder einem anderen für den Kontakt mit Lebensmitteln zugelassenen Stoff mit einer Haltevorrichtung verschlossen ist, wobei der Stopfen ganz und der Flaschenhals ganz oder teilweise mit Folie umkleidet sein muss und die Haltevorrichtung mit einem Plättchen unterlegt sein kann. Bei Glasflaschen mit einem Nennvolumen von nicht mehr als 0,20 Liter kann ein sonstiger geeigneter Verschluss verwendet werden.
+(2) Ein Sekt b.A. darf ausschließlich in einer Schaumwein-Glasflasche – auch in der Form des Bocksbeutels nach Maßgabe des Absatzes 1 – in Verkehr gebracht werden, die vorbehaltlich des Satzes 2 mit einem pilzförmigen Stopfen aus Kork oder einem anderen für den Kontakt mit Lebensmitteln zugelassenen Stoff mit einer Haltevorrichtung verschlossen ist, wobei der Stopfen ganz und der Flaschenhals ganz oder teilweise mit Folie umkleidet sein muss und die Haltevorrichtung mit einem Plättchen unterlegt sein kann. Bei Glasflaschen mit einem Nennvolumen von nicht mehr als 0,20 Liter kann ein sonstiger geeigneter Verschluss verwendet werden.
 
-(3) Schaumwein mit zugesetzter Kohlensäure darf in der in Artikel 69 Absatz 1 der Verordnung (EG) Nr. 607/2009 bezeichneten Aufmachung in Verkehr gebracht werden.
+(3) Schaumwein mit zugesetzter Kohlensäure und unter Verwendung von Likör, der Goldflitter enthält, hergestellte aromatisierte schaumweinhaltige Getränke dürfen in der in Artikel 69 Absatz 1 der Verordnung (EG) Nr. 607/2009 bezeichneten Aufmachung in Verkehr gebracht werden.
 
 ### § 34 Riesling-Hochgewächs; Der Neue; primeur(zu § 24 Absatz 2 des Weingesetzes)
 
@@ -1184,7 +1086,7 @@ er in der amtlichen Qualitätsprüfung eine Qualitätszahl von mindestens 3,0 er
 
 (2) Für Landwein, der ausschließlich aus Weintrauben eines Erntejahres gewonnen wurde, darf die Bezeichnung "Der Neue" nur verwendet werden, wenn das Erntejahr angegeben ist und er nicht vor dem 1. November des Erntejahres an Endverbraucher abgegeben wird.
 
-(3) Für einen in Frankreich geernteten Qualitätswein b.A. des bestimmten Anbaugebietes Beaujolais, für den die geltenden Vorschriften des Herstellungslandes eingehalten worden sind und der nach diesen Vorschriften als primeur bezeichnet werden soll, darf die Bezeichnung primeur nur verwendet werden, wenn er nicht vor dem dritten Donnerstag des Monats November des Erntejahres an Endverbraucher abgegeben wird.
+(3) Für einen Wein der geschützten Ursprungsbezeichnung Beaujolais, für den die geltenden Vorschriften des Herstellungslandes eingehalten worden sind und der nach diesen Vorschriften als primeur bezeichnet werden soll, darf die Bezeichnung primeur nur verwendet werden, wenn er nicht vor dem dritten Donnerstag des Monats November des Erntejahres an Endverbraucher abgegeben wird.
 
 ### § 34a Crémant, Winzersekt (zu § 24 Absatz 2, auch i. V. m. § 54 Absatz 1 des Weingesetzes)
 
@@ -1230,15 +1132,9 @@ Kennzeichnung unter Angabe des Weinbaubetriebes oder der Erzeugergemeinschaft, d
 4.  
 Vermarktung durch den Hersteller in der in § 33a Absatz 2 vorgeschriebenen Aufmachung.
 
-### § 34b Steillage; Terrassenlage (zu § 24 Absatz 2 Nummer 1, 2 und 3 des Weingesetzes)
+### § 34b Steillage; Terrassenlage(zu § 24 Absatz 2 Nummer 1, 2 und 3 des Weingesetzes)
 
-(1) Bei inländischem Landwein, Qualitätswein und Prädikatswein darf die Angabe "Steillage" oder "Steillagenwein" in Anwendung von Artikel 66 Absatz 1 der Verordnung (EG) Nr. 607/2009 nur verwendet werden, wenn er ausschließlich aus Weintrauben hergestellt worden ist, die von einer Rebfläche stammen, die
-
-1.  
-in einem Gelände belegen ist, dessen Neigung mindestens 30 vom Hundert beträgt, oder,
-
-2.  
-sofern die Neigung des Geländes, in der die Rebfläche belegen ist, weniger als 30 vom Hundert beträgt, eine eigene Geländeneigung von mindestens 30 vom Hundert aufweist.
+(1) Bei inländischem Landwein, Qualitätswein und Prädikatswein darf die Angabe „Steillage“ oder „Steillagenwein“ in Anwendung des Artikels 66 Absatz 1 der Verordnung (EG) Nr. 607/2009 nur verwendet werden, wenn der Wein ausschließlich aus Weintrauben hergestellt worden ist, die von einer Rebfläche stammen, deren Neigung mindestens 30 vom Hundert beträgt.
 
 (2) Bei inländischem Landwein, Qualitätswein und Prädikatswein darf die Angabe "Terrassenlage" oder "Terrassenlagenwein" in Anwendung von Artikel 66 Absatz 1 der Verordnung (EG) Nr. 607/2009 nur verwendet werden, wenn er ausschließlich aus Weintrauben hergestellt worden ist, die von einer
 
@@ -1258,15 +1154,15 @@ sofern die Neigung des Geländes, in der die Rebfläche belegen ist, weniger als
 
 (3) Die Bezeichnungen nach den Absätzen 1 und 2 dürfen nicht gleichzeitig verwendet werden.
 
-### § 34c Teilweise gegorener Traubenmost (zu § 24 Absatz 2 Nummer 1, 2 und 3 des Weingesetzes)
+### § 34c Teilweise gegorener Traubenmost(zu § 24 Absatz 2 Nummer 1, 2 und 3 des Weingesetzes)
 
-(1) Bei einem teilweise gegorenen Traubenmost, der zum unmittelbaren Verbrauch bestimmt ist, ist in Ergänzung der Bezeichnung nach Anhang XIb Nummer 11 der Verordnung (EG) Nr. 1234/2007 der Begriff „Federweißer“ nur zulässig, wenn eine geografische Angabe nach Absatz 2 oder 3 verwendet wird. Bei der ausschließlichen Verwendung von Rotweintrauben darf das Wort „Roter“ vorangestellt werden.
+(1) Bei einem teilweise gegorenen Traubenmost, der zum unmittelbaren Verbrauch bestimmt ist, ist in Ergänzung der Bezeichnung nach Anhang VII Teil II Nummer 11 der Verordnung (EU) Nr. 1308/2013 der Begriff „Federweißer“ nur zulässig, wenn eine geografische Angabe nach Absatz 2 oder 3 verwendet wird. Bei der ausschließlichen Verwendung von Rotweintrauben darf das Wort „Roter“ vorangestellt werden.
 
 (2) Für inländischen teilweise gegorenen Traubenmost darf als geografische Angabe vorbehaltlich des Satzes 2 eine Bezeichnung eines für Landwein festgelegten Gebietes verwendet werden mit der Maßgabe, dass das Wort „Landwein“ durch den Begriff „Federweißer“ ersetzt wird. Für teilweise gegorenen Traubenmost aus den bestimmten Anbaugebieten Franken und Rheinhessen darf abweichend von Satz 1 stattdessen das aus dem Namen des bestimmten Anbaugebietes abgeleitete Eigenschaftswort in Verbindung mit dem Begriff „Federweißer“ verwendet werden. Ein mit einer geografischen Angabe bezeichneter teilweise gegorener Traubenmost muss den für die Herstellung von Landwein des betreffenden Gebietes festgelegten Bedingungen entsprechen.
 
-(3) Bei einem teilweise gegorenen Traubenmost, der zum unmittelbaren Verbrauch bestimmt ist und in einem anderen Mitgliedstaat der Europäischen Union hergestellt worden ist, ist ergänzend zur Bezeichnung nach Anhang XIb Nummer 11 der Verordnung (EG) Nr. 1234/2007 der Begriff „Federweißer“ nur zulässig, wenn in der Kennzeichnung eine für den jeweiligen Mitgliedstaat eingetragene geschützte geografische Angabe im Sinne des Artikels 118b Absatz 1 Buchstabe b der Verordnung (EG) Nr. 1234/2007 verwendet wird.
+(3) Bei einem teilweise gegorenen Traubenmost, der zum unmittelbaren Verbrauch bestimmt ist und in einem anderen Mitgliedstaat der Europäischen Union hergestellt worden ist, ist ergänzend zur Bezeichnung nach Anhang VII Teil II Nummer 11 der Verordnung (EG) Nr. 1308/2013 der Begriff „Federweißer“ nur zulässig, wenn in der Kennzeichnung eine für den jeweiligen Mitgliedstaat eingetragene geschützte geografische Angabe im Sinne des Artikels 93 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 1308/2013 verwendet wird.
 
-(4) Bei einem inländischen teilweise gegorenen Traubenmost ohne geschützte geografische Angabe im Sinne des Artikels 118b Absatz 1 der Verordnung (EG) Nr. 1234/2007, der zum unmittelbaren Verbrauch bestimmt ist, darf ergänzend zur Bezeichnung nach Anhang XIb Nummer 11 der Verordnung (EG) Nr. 1234/2007 einer der folgenden Begriffe „Süßer“, „Neuer Süßer“ „Bremser“, „Bitzler“, „Suser“, „Sauser“, „Neuer “ oder „Rauscher“ angegeben werden. Bei einem in einem anderen Mitgliedstaat der Europäischen Union hergestellten teilweise gegorenen Traubenmost ohne geschützte geografische Angabe im Sinne des Artikels 118b Absatz 1 der Verordnung (EG) Nr. 1234/2007 darf ergänzend der Begriff „Sauser“ verwendet werden. Bei der ausschließlichen Verwendung von Rotweintrauben darf das Wort „Roter“ vorangestellt oder der Begriff „Federroter“ verwendet werden. Bei einem inländischen teilweise gegorenen Traubenmost von blass- bis hellroter Farbe, der abweichend von § 18 Absatz 1 durch Verschneiden von Weißweintrauben, auch gemaischt, mit Rotweintrauben, auch gemaischt, hergestellt ist, darf die Bezeichnung „Federrotling“ verwendet werden.
+(4) Bei einem inländischen teilweise gegorenen Traubenmost ohne geschützte geografische Angabe im Sinne des Artikels 93 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 1308/2013, der zum unmittelbaren Verbrauch bestimmt ist, darf ergänzend zur Bezeichnung nach Anhang VII Teil II Nummer 11 der Verordnung (EU) Nr. 1308/2013 einer der folgenden Begriffe „Süßer“, „Neuer Süßer“ „Bremser“, „Bitzler“, „Suser“, „Sauser“, „Neuer “ oder „Rauscher“ angegeben werden. Bei einem in einem anderen Mitgliedstaat der Europäischen Union hergestellten teilweise gegorenen Traubenmost ohne geschützte geografische Angabe im Sinne des Artikels 93 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 1308/2013 darf ergänzend der Begriff „Sauser“ verwendet werden. Bei der ausschließlichen Verwendung von Rotweintrauben darf das Wort „Roter“ vorangestellt oder der Begriff „Federroter“ verwendet werden. Bei einem inländischen teilweise gegorenen Traubenmost von blass- bis hellroter Farbe, der abweichend von § 18 Absatz 1 durch Verschneiden von Weißweintrauben, auch gemaischt, mit Rotweintrauben, auch gemaischt, hergestellt ist, darf die Bezeichnung „Federrotling“ verwendet werden.
 
 ### § 35 (weggefallen)
 
@@ -1284,13 +1180,23 @@ Weinhaltige Getränke müssen als weinhaltiges Getränk bezeichnet werden. Abwei
 
 (3) Soweit nach den Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union, nach dem Weingesetz oder einer auf Grund des Weingesetzes erlassenen Rechtsverordnung Bezeichnungen oder sonstige Angaben für ausländische Erzeugnisse nur zulässig sind, wenn die Angabe durch eine Rechtsvorschrift des Herstellungslandes zugelassen ist, gilt diese Voraussetzung nur als erfüllt, wenn die Angabe auch für den Verkehr innerhalb des Herstellungslandes zulässig ist.
 
-### § 38 Angaben zum Betrieb und zur Abfüllung (zu § 24 Absatz 2 des Weingesetzes)
+### § 38 Angaben zum Betrieb und zur Abfüllung(zu § 24 Absatz 2 des Weingesetzes)
 
-(1) Eine Angabe zum Betrieb ist bei Federweißer, Landwein, Qualitätswein b.A., Sekt b.A., Qualitätsperlwein b.A. oder Qualitätslikörwein b.A. nur nach Maßgabe des Artikels 57 Absatz 1 in Verbindung mit Anhang XIII der Verordnung (EG) Nr. 607/2009 zulässig.
+(1) Eine Angabe zum Betrieb ist bei Federweißer, Landwein, Qualitätswein, Prädikatswein, Sekt b.A., Qualitätsperlwein b.A. oder Qualitätslikörwein b.A. nur nach Maßgabe des Artikels 57 Absatz 1 in Verbindung mit Anhang XIII der Verordnung (EG) Nr. 607/2009 zulässig.
+
+(1a) Der Betrieb darf zur Kennzeichnung eines aromatisierten Weines, eines aromatisierten weinhaltigen Getränkes oder eines aromatisierten weinhaltigen Cocktails die Begriffe „Burg“, „Domäne“, „Schloss“, „Stift“, „Weinbau“, „Weingärtner“, „Weingut“ und „Winzer“ als Wort oder Wortbestandteil nur verwenden, wenn
+
+1.  
+der aromatisierte Wein, das aromatisierte weinhaltige Getränk oder der aromatisierte weinhaltige Cocktail bezogen auf den Weinanteil des jeweiligen Getränkes aus Trauben gewonnen wurde, die von den Rebflächen des kennzeichnenden Betriebes stammen und
+
+2.  
+die Weinbereitung oder Herstellung des aromatisierten Weines, des aromatisierten weinhaltigen Getränkes und des aromatisierten weinhaltigen Cocktails vollständig in dem kennzeichnenden Betrieb erfolgt ist.
+
+Unbeschadet des Absatzes 1 in Verbindung mit Artikel 57 Absatz 1 der Verordnung (EG) Nr. 607/2009 darf ein in Satz 1 genannter Begriff bei der Kennzeichnung anderer als der in Satz 1 genannten Erzeugnisse im Sinne des § 2 Nummer 1 des Weingesetzes nicht verwendet werden. Satz 2 gilt nicht für die Kennzeichnung weinhaltiger Getränke, soweit Teil der Kennzeichnung ein in Satz 1 genannter Begriff ist, der am 27. Juni 2014 eine geschützte Marke oder ein Bestandteil einer geschützten Marke ist.
 
 (2) Die in Artikel 57 Absatz 1 der Verordnung (EG) Nr. 607/2009 genannten Voraussetzungen gelten für die in Anhang XIII der Verordnung (EG) Nr. 607/2009 genannten Begriffe „Schloss“, „Domäne“, „Burg“, „Stift“ oder „Kloster“ nur, soweit diese Begriffe bei der Angabe des Namens eines Weinbaubetriebes verwendet werden.
 
-(3) Bei Landwein und Qualitätswein b.A. sind als Angaben über die Abfüllung nach Artikel 56 Absatz 2 Buchstabe b der Verordnung (EG) Nr. 607/2009 nur die Angaben „Erzeugerabfüllung“, „Gutsabfüllung“, „Schlossabfüllung“ oder „abgefüllt durch den Zusammenschluss von Weinbaubetrieben“ nach Maßgabe der folgenden Absätze zulässig.
+(3) Bei Landwein, Qualitätswein, Prädikatswein sind als Angaben über die Abfüllung nach Artikel 56 Absatz 2 Buchstabe b der Verordnung (EG) Nr. 607/2009 nur die Angaben „Erzeugerabfüllung“, „Gutsabfüllung“, „Schlossabfüllung“ oder „abgefüllt durch den Zusammenschluss von Weinbaubetrieben“ nach Maßgabe der folgenden Absätze zulässig.
 
 (4) Der Begriff "Erzeugerabfüllung" darf nur
 
@@ -1334,15 +1240,15 @@ die zur Weinbereitung verwendeten Trauben ausschließlich von betriebseigenen Re
 
 ### § 39 Geografische Angaben(zu § 24 Absatz 2 i.V.m. § 54 Absatz 1 des Weingesetzes)
 
-(1) Wird zur Bezeichnung eines Qualitätsweines b.A. der Name
+(1) Wird zur Bezeichnung eines Qualitätsweines, Prädikatsweines, Sekts b.A., Qualitätslikörweines b.A. oder Qualitätsperlweines b.A. der Name
 
 1.  
 eines Bereichs verwendet, ist diesem, soweit er mit einer sonstigen geografischen Bezeichnung identisch oder verwechselbar ist, die Angabe "Bereich" in Schriftzeichen gleicher Art, Größe und Farbe voranzustellen,
 
 2.  
-einer Lage verwendet, ist diesem der Name der Gemeinde oder des Ortsteils hinzuzufügen.
+einer Lage oder einer kleineren geografischen Einheit gemäß § 23 Absatz 1 des Weingesetzes verwendet, ist diesem der Name der Gemeinde oder des Ortsteils hinzuzufügen.
 
-Die Angabe "Bereich" darf durch die Angabe "district" ersetzt und abweichend von Satz 1 dem Bereichsnamen in Schriftzeichen gleicher Art, Größe und Farbe nachgestellt werden, wenn auch andere Angaben in der Etikettierung in englischer Sprache gemacht werden.
+Der Name einer Lage nach Satz 1 Nummer 2 darf um den Namen einer kleineren geografischen Einheit ergänzt werden. Die Angabe "Bereich" darf durch die Angabe "district" ersetzt und abweichend von Satz 1 dem Bereichsnamen in Schriftzeichen gleicher Art, Größe und Farbe nachgestellt werden, wenn auch andere Angaben in der Etikettierung in englischer Sprache gemacht werden.
 
 (2) Erstreckt sich eine Lage über mehrere Gemeinden, so bestimmt die Landesregierung durch Rechtsverordnung welcher Gemeindename anzugeben ist; dabei können, wenn unter Berücksichtigung der berechtigten Interessen der Beteiligten ein unabweisbares wirtschaftliches Bedürfnis besteht, auch mehrere Gemeindenamen bestimmt werden, von denen wahlweise einer anzugeben ist.
 
@@ -1350,22 +1256,22 @@ Die Angabe "Bereich" darf durch die Angabe "district" ersetzt und abweichend von
 
 (4) Bei inländischen weinhaltigen Getränken darf ein Hinweis auf die Herkunft der zu ihrer Herstellung verwendeten Erzeugnisse nicht verwendet werden.
 
-### § 39a Geografische Bezeichnungen mit EU-Schutz (zu den §§ 22d und 24 Absatz 2 Nummer 1 und 2 des Weingesetzes)
+### § 39a Geografische Bezeichnungen mit EU-Schutz(zu § 22c Absatz 8 Nummer 3, den §§ den §§ 22d und 24 Absatz 2 Nummer 1 und 2 des Weingesetzes)
 
-(1) Die Namen der in § 3 Absatz 1 des Weingesetzes festgelegten bestimmten Anbaugebiete und die einem Qualitätswein b. A. vorbehaltenen Begriffe, die jeweils als deutscher traditioneller Begriff im Sinne des Artikels 118u Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1234/2007 anerkannt sind, dürfen nur in Verbindung miteinander verwendet werden. Ein Landwein ist mit dem Namen eines der in § 2 festgelegten Landweingebiete zu kennzeichnen.
+(1) Die Namen der in § 3 Absatz 1 des Weingesetzes festgelegten bestimmten Anbaugebiete und die einem Wein mit geschützter Ursprungsbezeichnung vorbehaltenen Begriffe, die jeweils als deutscher traditioneller Begriff im Sinne des Artikels 112 Buchstabe a der Verordnung (EU) Nr. 1308/2013 anerkannt sind, dürfen nur in Verbindung miteinander verwendet werden. Ein Landwein ist mit dem Namen eines der in § 2 festgelegten Landweingebiete zu kennzeichnen.
 
 (2) Für einen Wein oder eine Gesamtheit von Weinen kann ein Antrag auf den Schutz einer Ursprungsbezeichnung oder einer geografischen Angabe nur gestellt werden, wenn der Wein oder die Gesamtheit der Weine die in den Absätzen 3 und 4 bezeichneten Anforderungen erfüllt.
 
-(3) Für den Schutz einer Ursprungsbezeichnung im Sinne des Artikels 118b Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1234/2007 müssen folgende Anforderungen erfüllt sein:
+(3) Für den Schutz einer Ursprungsbezeichnung im Sinne des Artikels 93 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 1308/2013 müssen folgende Anforderungen erfüllt sein:
 
 1.  
-der Wein muss, vorbehaltlich der nach EU-Recht zulässigen Ausnahmen, in einem abgegrenzten Gebiet im Sinne des Artikels 118c Absatz 2 Buchstabe d der Verordnung (EG) Nr. 1234/2007 hergestellt sein, das innerhalb eines in § 3 Absatz 1 des Weingesetzes festgelegten bestimmten Anbaugebietes liegt;
+der Wein muss, vorbehaltlich der nach EU-Recht zulässigen Ausnahmen, in einem abgegrenzten Gebiet im Sinne des Artikels 94 Absatz 2 Buchstabe d der Verordnung (EU) Nr. 1308/2013 hergestellt sein, das innerhalb eines in § 3 Absatz 1 des Weingesetzes festgelegten bestimmten Anbaugebietes liegt;
 
 2.  
 der Hektarertrag darf den für das jeweilige bestimmte Anbaugebiet geltenden Hektarertrag nicht übersteigen;
 
 3.  
-der Mindestalkoholgehalt des Weines darf den für das jeweilige bestimmte Anbaugebiet geltenden Mindestwert nicht unterschreiten;
+der natürliche Alkoholgehalt des Weines darf den für das jeweilige bestimmte Anbaugebiet geltenden Mindestwert nicht unterschreiten;
 
 4.  
 die für die Herstellung des Weines verwendeten Trauben müssen zu einer Rebsorte oder mehreren Rebsorten gehören, die für das bestimmte Anbaugebiet zugelassen ist oder sind;
@@ -1373,10 +1279,10 @@ die für die Herstellung des Weines verwendeten Trauben müssen zu einer Rebsort
 5.  
 dem Wein muss eine amtliche Prüfungsnummer im Sinne des § 19 des Weingesetzes zugeteilt sein.
 
-(4) Für den Schutz einer geografischen Angabe im Sinne des Artikels 118b Absatz 1 Buchstabe b der Verordnung (EG) Nr. 1234/2007 müssen folgende Anforderungen erfüllt sein:
+(4) Für den Schutz einer geografischen Angabe im Sinne des Artikels 93 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 1308/2013 müssen folgende Anforderungen erfüllt sein:
 
 1.  
-der Wein muss, vorbehaltlich der nach EU-Recht zulässigen Ausnahmen, in einem abgegrenzten Gebiet im Sinne des Artikels 118c Absatz 2 Buchstabe d der Verordnung (EG) Nr. 1234/2007 hergestellt sein, das innerhalb eines in § 2 festgelegten Landweingebietes liegt;
+der Wein muss, vorbehaltlich der nach EU-Recht zulässigen Ausnahmen, in einem abgegrenzten Gebiet im Sinne des Artikels 94 Absatz 2 Buchstabe d der Verordnung (EU) Nr. 1308/2013 hergestellt sein, das innerhalb eines in § 2 festgelegten Landweingebietes liegt;
 
 2.  
 der Wein muss zu mindestens 85 vom Hundert aus Trauben hergestellt sein, die in dem abgegrenzten Gebiet erzeugt worden sind; die restlichen Anteile, einschließlich der zur Süßung verwendeten Erzeugnisse, dürfen nur aus Trauben hergestellt sein, die aus anderen Landweingebieten stammen;
@@ -1388,18 +1294,20 @@ die für die Herstellung des Weines verwendeten Trauben müssen zu einer Rebsort
 der Hektarertrag darf den für die Verwendung der geografischen Angabe des betreffenden Landweingebietes festgesetzten Hektarertrag nicht übersteigen;
 
 5.  
-der Mindestalkoholgehalt des Weines darf den für Landwein des betreffenden Gebietes geltenden Mindestwert nicht unterschreiten;
+der natürliche Alkoholgehalt des Weines darf den für Landwein des betreffenden Gebietes geltenden Mindestwert nicht unterschreiten;
 
 6.  
 die Anforderungen des § 22 Absatz 1 Nummer 2 und 3 des Weingesetzes sowie des § 15 Absatz 3 Nummer 1, des § 16 Absatz 1a und 2 und des § 16a sind einzuhalten.
 
-(5) Ein Wein, der mit einer im Verfahren nach Artikel 118i der Verordnung (EG) Nr. 1234/2007 geschützten Ursprungsbezeichnung bezeichnet ist, muss mit dem Namen des in § 3 Absatz 1 des Weingesetzes festgelegten bestimmten Anbaugebietes gekennzeichnet sein, in dem das von der Eintragung nach Artikel 118i der Verordnung (EG) Nr. 1234/2007 erfasste abgegrenzte Gebiet liegt. § 23 Absatz 1 des Weingesetzes ist nicht anzuwenden.
+(5) Ein Wein, der nach Erlass eines in Artikel 99 der Verordnung (EU) Nr. 1308/2013 bezeichneten Durchführungsrechtsaktes der Europäischen Kommission mit einer geschützten Ursprungsbezeichnung bezeichnet ist, muss mit dem Namen des in § 3 Absatz 1 des Weingesetzes festgelegten Anbaugebietes gekennzeichnet sein, in dem das von der Eintragung in das Register nach Artikel 104 Satz 1 der Verordnung (EU) Nr. 1308/2013 erfasste abgegrenzte Gebiet liegt. § 23 Absatz 1 des Weingesetzes ist nicht anzuwenden.
 
-(6) Ein Wein, der mit einer im Verfahren nach Artikel 118i der Verordnung (EG) Nr. 1234/2007 geschützten geografischen Angabe bezeichnet ist, muss mit dem Namen des in § 2 festgelegten Landweingebietes gekennzeichnet sein, in dem das von der Eintragung nach Artikel 118i der Verordnung (EG) Nr. 1234/2007 erfasste abgegrenzte Gebiet liegt.
+(6) Ein Wein, der nach Erlass eines in Artikel 99 der Verordnung (EU) Nr. 1308/2013 bezeichneten Durchführungsrechtsaktes der Europäischen Kommission mit einer geschützten geografischen Angabe bezeichnet ist, muss mit dem Namen des in § 2 festgelegten Landweingebietes gekennzeichnet sein, in dem das von der Eintragung in das Register nach Artikel 104 Satz 1 der Verordnung (EU) Nr. 1308/2013 erfasste abgegrenzte Gebiet liegt.
 
-### § 40 Angabe kleinerer geografischer Einheiten (zu § 24 Absatz 2 des Weingesetzes)
+(7) Für das in Artikel 98 der Verordnung (EG) Nr. 1308/2013 genannte Einspruchsverfahren und das in Artikel 105 der Verordnung (EU) Nr. 1308/2013 genannte Verfahren zur Änderung von Produktspezifikationen ist die Bundesanstalt für Landwirtschaft und Ernährung zuständig. Die in § 22c Absatz 1 bis 7 des Weingesetzes enthaltenen Verfahrensregelungen gelten entsprechend.
 
-Bei Qualitätswein b.A., Qualitätsperlwein b.A. oder Qualitätslikörwein b.A., der gesüßt worden ist, darf der Name einer Lage, eines Bereichs, einer Gemeinde oder eines Ortsteils nach Artikel 67 Absatz 2 Unterabsatz 1 der Verordnung (EG) Nr. 607/2009 angegeben werden, wenn unter Einhaltung der Bestimmungen des genannten Artikels einschließlich der zur Süßung verwendeten Erzeugnisse nicht mehr als 25 vom Hundert der zu seiner Herstellung verwendeten Erzeugnisse aus anderen kleineren geografischen Einheiten und alle zur Herstellung verwendeten Trauben aus dem bestimmten Anbaugebiet stammen.
+### § 40 Angabe kleinerer geografischer Einheiten(zu § 24 Absatz 2 des Weingesetzes)
+
+Bei Qualitätswein, Prädikatswein, Qualitätsperlwein b.A. oder Qualitätslikörwein b.A., der gesüßt worden ist, darf der Name einer Lage, eines Bereichs, einer Gemeinde, eines Ortsteils oder kleinerer geografischer Einheiten, die in der Liegenschaftskarte abgegrenzt sind, soweit deren Namen in die Weinbergrolle eingetragen sind, nach Artikel 67 Absatz 2 Unterabsatz 1 der Verordnung (EG) Nr. 607/2009 angegeben werden, wenn unter Einhaltung der Bestimmungen des genannten Artikels einschließlich der zu seiner Herstellung verwendeten Erzeugnisse nicht mehr als 25 vom Hundert der zu seiner Herstellung verwendeten Erzeugnisse aus anderen kleineren geografischen Einheiten und alle zur Herstellung verwendeten Trauben aus dem bestimmten Anbaugebiet stammen.
 
 ### § 41 Geschmacksangaben(zu § 24 Absatz 2 des Weingesetzes)
 
@@ -1418,9 +1326,9 @@ verwendet werden.
 
 ### § 42 Rebsortenangaben(zu § 24 Absatz 2 des Weingesetzes)
 
-(1) Bei Landwein, Qualitätswein b.A., Qualitätsperlwein b.A. oder Qualitätslikörwein b.A., der gesüßt worden ist, darf der Name einer Rebsorte nach Maßgabe des Artikels 62 Absatz 1 Buchstabe c der Verordnung (EG) Nr. 607/2009 angegeben werden, wenn unter Einhaltung der Bestimmungen des genannten Artikels einschließlich der zur Süßung verwendeten Erzeugnisse nicht mehr als 25 vom Hundert der zu ihrer Herstellung verwendeten Erzeugnisse von anderen Rebsorten stammen.
+(1) Bei Landwein, Qualitätswein, Prädikatswein, Qualitätsperlwein b.A. oder Qualitätslikörwein b.A., der gesüßt worden ist, darf der Name einer Rebsorte nach Maßgabe des Artikels 62 Absatz 1 Buchstabe c der Verordnung (EG) Nr. 607/2009 angegeben werden, wenn unter Einhaltung der Bestimmungen des genannten Artikels einschließlich der zur Süßung verwendeten Erzeugnisse nicht mehr als 25 vom Hundert der zu ihrer Herstellung verwendeten Erzeugnisse von anderen Rebsorten stammen.
 
-(2) Soweit die Voraussetzungen und das Verfahren für die Anbaueignungsprüfung von Rebsorten geregelt und eingehalten sind, darf die betreffende Rebsorte für die Dauer der Anbaueignungsprüfung angegeben werden, wenn
+(2) Soweit die Voraussetzungen und das Verfahren für die Festlegung der Rebsorten in einer nach § 8 Absatz 1 des Weingesetzes erlassenen Rechtsverordnung geregelt und eingehalten sind und die Prüfung dieser Rebsorten auf Flächen erfolgt, für die eine Genehmigung nach Artikel 66 der Verordnung (EU) Nr. 1308/2013 erteilt wurde, darf die betreffende Rebsorte für die Dauer der Prüfung angegeben werden, wenn
 
 1.  
 bei Landwein
@@ -1435,9 +1343,9 @@ c)
 die Angabe dieser Rebsorte auf dem Etikett zusammen mit der Angabe "aus Versuchsanbau" erfolgt;
 
 2.  
-bei Qualitätswein b.A. zusätzlich zu den Anforderungen unter Nummer 1 die Rebsorte zur Art "Vitis vinifera" gehört.
+bei Qualitätswein und Prädikatswein zusätzlich zu den Anforderungen unter Nummer 1 die Rebsorte zur Art "Vitis vinifera" gehört.
 
-(3) Bei einem Wein, ausgenommen Schaumwein und Qualitätsschaumwein, aus Erzeugnissen ab dem Erntejahrgang 2011, der nicht mit einer geschützten Ursprungsbezeichnung oder geschützten geografischen Angabe im Sinne des Artikels 118b Absatz 1 Buchstabe a oder b der Verordnung (EG) Nr. 1234/2007 bezeichnet ist, ist die Angabe der Bezeichnung, einschließlich deren Synonyme, einer der folgenden Rebsorten unzulässig:
+(3) Bei einem Wein, ausgenommen Perlwein, Schaumwein und Qualitätsschaumwein, aus Erzeugnissen ab dem Erntejahrgang 2011, der nicht mit einer geschützten Ursprungsbezeichnung oder geschützten geografischen Angabe im Sinne des Artikels 93 Absatz 1 Buchstabe a oder b der Verordnung (EU) Nr. 1308/2013 bezeichnet ist, ist die Angabe der Bezeichnung, einschließlich deren Synonyme, einer der folgenden Rebsorten unzulässig:
 
 1.  
 Bacchus,
@@ -1509,13 +1417,13 @@ Weißer Riesling.
 
 ### § 43 Jahrgangsangaben (zu § 24 Absatz 2 des Weingesetzes)
 
-Bei Landwein, Qualitätswein b.A., Qualitätsperlwein b.A. oder Qualitätslikörwein b.A., der gesüßt worden ist, darf der Name des Jahrgangs nach Maßgabe des Artikels 61 Absatz 1 der Verordnung (EG) Nr. 607/2009 angegeben werden, wenn unter Einhaltung der Bestimmungen des genannten Artikels einschließlich der zur Süßung verwendeten Erzeugnisse nicht mehr als 25 vom Hundert der zu ihrer Herstellung verwendeten Erzeugnisse aus anderen Jahrgängen stammen.
+Bei Landwein, Qualitätswein, Prädikatswein, Qualitätsperlwein b.A. oder Qualitätslikörwein b.A., der gesüßt worden ist, darf der Name des Jahrgangs nach Maßgabe des Artikels 61 Absatz 1 der Verordnung (EG) Nr. 607/2009 angegeben werden, wenn unter Einhaltung der Bestimmungen des genannten Artikels einschließlich der zur Süßung verwendeten Erzeugnisse nicht mehr als 25 vom Hundert der zu ihrer Herstellung verwendeten Erzeugnisse aus anderen Jahrgängen stammen.
 
 ### § 44 Kumulierungsverbot (zu § 24 Absatz 2 des Weingesetzes)
 
-(1) Artikel 61 Absatz 1 und Artikel 62 Absatz 1 Buchstabe c Ziffer i der Verordnung (EG) Nr. 607/2009 dürfen bei Landwein, Qualitätswein b.A., Sekt b.A., Qualitätsperlwein b.A. oder Qualitätslikörwein b.A. nur dann gleichzeitig angewendet werden, wenn mindestens 85 vom Hundert des aus der Mischung hervorgegangenen Erzeugnisses von der Rebsorte und aus dem Jahrgang stammen, mit denen das Erzeugnis bezeichnet wird.
+(1) Artikel 61 Absatz 1 und Artikel 62 Absatz 1 Buchstabe c Ziffer i der Verordnung (EG) Nr. 607/2009 dürfen bei Landwein, Qualitätswein, Prädikatswein, Sekt b.A., Qualitätsperlwein b.A. oder Qualitätslikörwein b.A. nur dann gleichzeitig angewendet werden, wenn mindestens 85 vom Hundert des aus der Mischung hervorgegangenen Erzeugnisses von der Rebsorte und aus dem Jahrgang stammen, mit denen das Erzeugnis bezeichnet wird.
 
-(2) Artikel 61 Absatz 1, Artikel 62 Absatz 1 Buchstabe c Ziffer i und Artikel 67 Absatz 1, 2 Unterabsatz 1 der Verordnung (EG) Nr. 607/2009 dürfen bei Qualitätswein b.A., Sekt b.A., Qualitätsperlwein b.A. oder Qualitätslikörwein b.A. nur dann gleichzeitig angewendet werden, wenn mindestens 85 vom Hundert des aus der Mischung hervorgegangenen Erzeugnisses aus der kleineren geografischen Einheit als dem bestimmten Anbaugebiet, von der Rebsorte und aus dem Jahrgang stammen, mit denen das Erzeugnis bezeichnet wird.
+(2) Artikel 61 Absatz 1, Artikel 62 Absatz 1 Buchstabe c Ziffer i und Artikel 67 Absatz 1, 2 Unterabsatz 1 der Verordnung (EG) Nr. 607/2009 dürfen bei Qualitätswein, Prädikatswein, Sekt b.A., Qualitätsperlwein b.A. oder Qualitätslikörwein b.A. nur dann gleichzeitig angewendet werden, wenn mindestens 85 vom Hundert des aus der Mischung hervorgegangenen Erzeugnisses aus der kleineren geografischen Einheit als dem bestimmten Anbaugebiet, von der Rebsorte und aus dem Jahrgang stammen, mit denen das Erzeugnis bezeichnet wird.
 
 ### § 45 Verwendung von Kennziffern (zu § 24 Absatz 2 des Weingesetzes)
 
@@ -1531,21 +1439,13 @@ Bei Landwein, Qualitätswein b.A., Qualitätsperlwein b.A. oder Qualitätslikör
 
 ### § 46a Zusatzstoffangaben; Angabe bei erhöhtem Koffeingehalt(zu § 24 Absatz 2 Nummer 1 und Absatz 3 Nummer 4 des Weingesetzes)
 
-(1) Bei weinhaltigen Getränken ist der Gehalt an
+(1) (weggefallen)
 
-1.  
-einem in Anlage 6 Nummer 10 genannten Stoff durch die Angabe "mit Süßungsmittel",
+(2) (weggefallen)
 
-2.  
-mehreren in Anlage 6 Nummer 10 genannten Stoffen durch die Angabe "mit Süßungsmitteln"
+(3) (weggefallen)
 
-in Verbindung mit der Verkehrsbezeichnung auf den Behältnissen anzugeben.
-
-(2) Bei weinhaltigen Getränken, die Zucker und einen in Anlage 6 Nummer 10 genannten Stoff enthalten, ist dies auf den Behältnissen durch die Angabe "mit einer Zuckerart und Süßungsmittel" in Verbindung mit der Verkehrsbezeichnung anzugeben; soweit sie Zucker und mehrere in Anlage 6 Nummer 10 genannte Stoffe enthalten, ist dies auf den Behältnissen durch die Angabe "mit Zucker und Süßungsmitteln" in Verbindung mit der Verkehrsbezeichnung anzugeben.
-
-(3) Soweit weinhaltige Getränke Aspartam enthalten, ist der Hinweis "enthält eine Phenylalaninquelle" anzubringen.
-
-(4) Für die Angaben nach den Absätzen 1 bis 3 gilt § 9 Absatz 6 Satz 2 Nummer 4 bis 6 und Satz 3 der Zusatzstoff-Zulassungsverordnung entsprechend.
+(4) (weggefallen)
 
 (5) Bei aromatisierten Weinen, aromatisierten weinhaltigen Getränken und aromatisierten weinhaltigen Cocktails mit einem vorhandenen Alkoholgehalt von mehr als 1,2 Volumenprozent, die im verzehrfertigen Zustand mehr als 150 Milligramm Koffein pro Liter enthalten, ist die Angabe "erhöhter Koffeingehalt", gefolgt von der Angabe des Koffeingehaltes in Klammern in Milligramm pro 100 Milliliter, in demselben Sichtfeld wie die Verkehrsbezeichnung anzubringen.
 
@@ -1584,13 +1484,7 @@ aus Wein unter schonender Entgeistung durch thermische Prozesse, Membranprozesse
 weniger als 0,5 Volumenprozent Alkohol enthalten und
 
 3.  
-als "alkoholfreier Wein" auf den Flaschen, Behältnissen, Verpackungen, Getränkekarten und Preislisten bezeichnet sind und, soweit
-
-a)  
-der Name einer einzigen Rebsorte angegeben wird, diese Rebsorte ihre Art bestimmt,
-
-b)  
-als zulässiger Hinweis auf die Herkunft des zu ihrer Herstellung verwendeten Qualitätsweines b.A. der Name eines in § 3 Absatz 1 Satz 1 des Weingesetzes genannten bestimmten Anbaugebietes verwendet wird, sie dafür typisch sind.
+als „alkoholfreier Wein“ auf den Flaschen, Behältnissen, Verpackungen, Getränkekarten und Preislisten bezeichnet sind.
 
 Auf dem mit dem Behältnis verbundenen Etikett hat derjenige, der das Etikett anbringt, die Angabe "alkoholfreier Wein" in Schriftzeichen der gleichen Art, Farbe und Größe so anzugeben, dass sie sich deutlich von den anderen Angaben abhebt.
 
@@ -1603,13 +1497,7 @@ aus Wein unter schonender Entgeistung durch thermische Prozesse, Membranprozesse
 mindestens 0,5 Volumenprozent und weniger als 4 Volumenprozent Alkohol enthalten und
 
 3.  
-als "alkoholreduzierter Wein" auf den Flaschen, Behältnissen, Verpackungen, Getränkekarten und Preislisten bezeichnet sind und, soweit
-
-a)  
-der Name einer einzigen Rebsorte angegeben wird, diese Rebsorte ihre Art bestimmt,
-
-b)  
-als zulässiger Hinweis auf die Herkunft des zu ihrer Herstellung verwendeten Qualitätsweines b.A. der Name eines in § 3 Absatz 1 Satz 1 des Weingesetzes genannten bestimmten Anbaugebietes verwendet wird, sie dafür typisch sind.
+als „alkoholreduzierter Wein“ auf den Flaschen, Behältnissen, Verpackungen, Getränkekarten und Preislisten bezeichnet sind.
 
 Auf dem mit dem Behältnis verbundenen Etikett hat derjenige, der das Etikett anbringt, die Angabe "alkoholreduzierter Wein" in Schriftzeichen der gleichen Art, Farbe und Größe so anzugeben, dass sie sich deutlich von den anderen Angaben abhebt.
 
@@ -1619,13 +1507,7 @@ Auf dem mit dem Behältnis verbundenen Etikett hat derjenige, der das Etikett an
 weniger als 0,5 Volumenprozent Alkohol enthalten und
 
 2.  
-als "Schäumendes Getränk aus alkoholfreiem Wein" auf den Flaschen, Behältnissen, Verpackungen, Getränkekarten und Preislisten bezeichnet sind und, soweit
-
-a)  
-der Name einer einzigen Rebsorte angegeben wird, diese Rebsorte ihre Art bestimmt,
-
-b)  
-als zulässiger Hinweis auf die Herkunft des zu ihrer Herstellung verwendeten Qualitätsweines b.A. der Name eines in § 3 Absatz 1 Satz 1 des Weingesetzes genannten bestimmten Anbaugebietes verwendet wird, sie dafür typisch sind.
+als „Schäumendes Getränk aus alkoholfreiem Wein“ auf den Flaschen, Behältnissen, Verpackungen, Getränkekarten und Preislisten bezeichnet sind.
 
 Auf dem mit dem Behältnis verbundenen Etikett hat derjenige, der das Etikett anbringt, die Angabe "Schäumendes Getränk aus alkoholfreiem Wein" in Schriftzeichen der gleichen Art, Farbe und Größe so anzugeben, dass sie sich deutlich von den anderen Angaben abhebt.
 
@@ -1635,15 +1517,11 @@ Auf dem mit dem Behältnis verbundenen Etikett hat derjenige, der das Etikett an
 mehr als 0,5 Volumenprozent und weniger als 4 Volumenprozent Alkohol enthalten und
 
 2.  
-als "Schäumendes Getränk aus alkoholreduziertem Wein" auf den Flaschen, Behältnissen, Verpackungen, Getränkekarten und Preislisten bezeichnet sind und, soweit
-
-a)  
-der Name einer einzigen Rebsorte angegeben wird, diese Rebsorte ihre Art bestimmt,
-
-b)  
-als zulässiger Hinweis auf die Herkunft des zu ihrer Herstellung verwendeten Qualitätsweines b.A. der Name eines in § 3 Absatz 1 Satz 1 des Weingesetzes genannten bestimmten Anbaugebietes verwendet wird, sie dafür typisch sind.
+als „Schäumendes Getränk aus alkoholreduziertem Wein“ auf den Flaschen, Behältnissen, Verpackungen, Getränkekarten und Preislisten bezeichnet sind.
 
 Auf dem mit dem Behältnis verbundenen Etikett hat derjenige, der das Etikett anbringt, die Angabe "Schäumendes Getränk aus alkoholreduziertem Wein" in Schriftzeichen der gleichen Art, Farbe und Größe so anzugeben, dass sie sich deutlich von den anderen Angaben abhebt.
+
+(4a) In den Fällen des Absatzes 1 Satz 1 Nummer 3, des Absatzes 2 Satz 1 Nummer 3, des Absatzes 3 Satz 1 Nummer 2 und des Absatzes 4 Satz 1 Nummer 2 kann der Name einer einzigen Rebsorte angegeben werden, soweit diese Rebsorte die Art der dort genannten Getränke bestimmt.
 
 (5) Die in den Absätzen 1 bis 4 genannten Getränke dürfen nur in den Verkehr gebracht werden, wenn bei ihrer Herstellung Wasser und, soweit sie gesüßt worden sind, zur Süßung ein anderer Stoff als Saccharose oder andere Erzeugnisse als Traubenmost oder rektifiziertes Traubenmostkonzentrat nicht zugesetzt worden sind.
 
@@ -1653,13 +1531,13 @@ Auf dem mit dem Behältnis verbundenen Etikett hat derjenige, der das Etikett an
 
 ### § 49 Art der Aufmachung(zu § 21 Absatz 1 Nummer 4 und § 24 Absatz 3 Nummer 5 des Weingesetzes)
 
-(1) Soweit in Rechtsakten der Europäischen Gemeinschaft oder in dieser Verordnung nichts anderes bestimmt ist, sind vorgeschriebene Bezeichnungen und vorgeschriebene sonstige Angaben bei weinhaltigen Getränken, aromatisiertem Wein, aromatisierten weinhaltigen Getränken, aromatisierten weinhaltigen Cocktails sowie für Diabetiker geeignete Erzeugnissen auf Fertigpackungen und auf sonstigen Behältnissen, in denen das Erzeugnis in den Verkehr gebracht wird, oder auf einem mit ihnen verbundenen Etikett an gut sichtbarer Stelle in deutscher Sprache, leicht verständlich, deutlich lesbar und unverwischbar anzubringen. Abweichend von Satz 1 können die Angaben auch in einer anderen leicht verständlichen Sprache angegeben werden, wenn dadurch die Information des Verbrauchers nicht beeinträchtigt wird. Sie dürfen nicht durch andere Angaben oder Bildzeichen verdeckt oder getrennt werden. Die Bezeichnung des Erzeugnisses, die Angabe des vorhandenen Alkoholgehalts sowie die nach dem Eichgesetz und in auf Grund des Eichgesetzes erlassenen Rechtsverordnungen vorgeschriebene Angabe der Nennfüllmenge sind im gleichen Sichtfeld anzubringen.
+(1) Soweit in Rechtsakten der Europäischen Gemeinschaft oder in dieser Verordnung nichts anderes bestimmt ist, sind vorgeschriebene Bezeichnungen und vorgeschriebene sonstige Angaben bei weinhaltigen Getränken, aromatisiertem Wein, aromatisierten weinhaltigen Getränken, aromatisierten weinhaltigen Cocktails sowie für Diabetiker geeignete Erzeugnissen auf Fertigpackungen und auf sonstigen Behältnissen, in denen das Erzeugnis in den Verkehr gebracht wird, oder auf einem mit ihnen verbundenen Etikett an gut sichtbarer Stelle in deutscher Sprache, leicht verständlich, deutlich lesbar und unverwischbar anzubringen. Abweichend von Satz 1 können die Angaben auch in einer anderen leicht verständlichen Sprache angegeben werden, wenn dadurch die Information des Verbrauchers nicht beeinträchtigt wird. Sie dürfen nicht durch andere Angaben oder Bildzeichen verdeckt oder getrennt werden. Die Bezeichnung des Erzeugnisses, die Angabe des vorhandenen Alkoholgehalts sowie die nach dem Mess- und Eichgesetz und in auf Grund des Mess- und Eichgesetzes erlassenen Rechtsverordnungen vorgeschriebene Angabe der Nennfüllmenge sind im gleichen Sichtfeld anzubringen.
 
 (2) Bei aromatisierten weinhaltigen Cocktails mit einem vorhandenen Alkoholgehalt von bis zu 1,2 Volumenprozent richtet sich die Zutatenkennzeichnung nach den Vorschriften der Lebensmittel-Kennzeichnungsverordnung.
 
 (3) Für Perlwein, Perlwein mit zugesetzter Kohlensäure, Likörwein, weinhaltige Getränke, aromatisierten Wein, aromatisierte weinhaltige Getränke und aromatisierte weinhaltige Cocktails gilt § 3 Absatz 4 Nummer 1 der Lebensmittel-Kennzeichnungsverordnung entsprechend.
 
-(4) Bei inländischem Qualitätswein b.A. oder Qualitätsschaumwein, dem eine amtliche Prüfungsnummer zugeteilt worden ist, sind der Prüfungsnummer die Worte "Amtliche Prüfungsnummer" voranzustellen. Anstelle der Worte "Amtliche Prüfungsnummer" kann die Kurzform "A. P. Nummer" gebraucht werden.
+(4) Bei inländischem Qualitätswein, Prädikatswein, Qualitätslikörwein b.A., Qualitätsperlwein b.A., Sekt b.A., Qualitätsschaumwein und Sekt, dem eine amtliche Prüfungsnummer zugeteilt worden ist, sind der Prüfungsnummer die Worte "Amtliche Prüfungsnummer" voranzustellen. Anstelle der Worte "Amtliche Prüfungsnummer" kann eine Kurzform gebraucht werden.
 
 (5) Bei der Flaschenausstattung, auf Preisangeboten oder in der Werbung darf eine Marke (Wort- oder Bildzeichen) neben der Weinbezeichnung nur verwendet werden, wenn sie von der Weinbezeichnung deutlich abgehoben ist.
 
@@ -1690,7 +1568,7 @@ erst in der Verkaufsstätte auf Anfrage des Käufers oder im Hinblick auf ihre a
 
 (5) (weggefallen)
 
-(6) Wird bei inländischem Qualitätswein b.A. oder Qualitätsschaumwein, dem eine amtliche Prüfungsnummer zugeteilt worden ist, die amtliche Prüfungsnummer als Angabe nach Absatz 1 Satz 1 verwendet, muss den Worten "Amtliche Prüfungsnummer" oder der Kurzform "A. P. Nummer" der Buchstabe "L" vorangestellt werden, soweit sich die amtliche Prüfungsnummer nicht deutlich von den anderen Angaben der Kennzeichnung unterscheidet.
+(6) Wird bei inländischem Qualitätswein, Prädikatswein, Qualitätslikörwein b.A., Qualitätsperlwein b.A., Qualitätsschaumwein und Sekt b.A., dem eine amtliche Prüfungsnummer zugeteilt worden ist, die amtliche Prüfungsnummer als Angabe nach Absatz 1 Satz 1 verwendet, muss den Worten "Amtliche Prüfungsnummer" oder der Kurzform der Buchstabe "L" vorangestellt werden, soweit sich die amtliche Prüfungsnummer nicht deutlich von den anderen Angaben der Kennzeichnung unterscheidet.
 
 ### § 51 (weggefallen)
 
@@ -1706,10 +1584,10 @@ Abschnitt 6 Straftaten und Ordnungswidrigkeiten
 (1) Nach § 48 Absatz 1 Nummer 2, Absatz 2, 3 des Weingesetzes wird bestraft, wer vorsätzlich oder fahrlässig
 
 1.  
-entgegen § 11 Absatz 1 oder 2 ein anderes Behandlungsverfahren anwendet oder einen anderen Stoff zusetzt,
+entgegen § 11 Absatz 1 ein anderes Behandlungsverfahren anwendet oder einen anderen Stoff zusetzt,
 
 2.  
-entgegen § 11 Absatz 4 Satz 1 oder 2 oder Absatz 5 einen anderen Stoff zusetzt,
+(weggefallen)
 
 3.  
 entgegen § 11 Absatz 8 Satz 1 ein Behandlungsverfahren anwendet, durch das ein Stoff zugesetzt wird,
@@ -1718,7 +1596,7 @@ entgegen § 11 Absatz 8 Satz 1 ein Behandlungsverfahren anwendet, durch das ein 
 entgegen § 11 Absatz 8 Satz 2 Ionenaustauscher oder ultraviolette oder energiereiche Strahlen anwendet,
 
 4a.  
-entgegen § 11 Absatz 9 Satz 1 einen Stoff zusetzt,
+(weggefallen)
 
 5.  
 entgegen § 12 einen Stoff zusetzt,
@@ -1910,580 +1788,25 @@ Etiketten, die vor dem 24. Juli 1996 nach den bis dahin geltenden Vorschriften g
 
 (13) § 10 Absatz 1 in der sich aus der Neunten Verordnung zur Änderung weinrechtlicher Vorschriften vom 19. Juli 2011 (BGBl. I S. 1514) ergebenden Fassung ist auf Antrag eines Weintrauben, Traubenmost oder teilweise gegorenen Traubenmost übernehmenden Betriebes auch für Erzeugnisse des Erntejahrgangs 2010 zugrunde zu legen, soweit sich aus der Anwendung der Umrechnungsfaktoren beim abgebenden Weinbaubetrieb keine Überschreitung des Hektarertrages im Sinne des § 9 des Weingesetzes für das Erntejahr 2010 ergibt.
 
-### Anlage 1 (zu § 4) Mindestmostgewichte der Vergleichsrebsorten
+(14) § 38 Absatz 1a ist erst ab dem 1. Januar 2015 anzuwenden; bis zu diesem Zeitpunkt abgefüllte Erzeugnisse und Getränke dürfen noch bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
 
-(Fundstelle des Originaltextes: BGBl. I 2009, 854)
+(15) Abweichend von § 34b Absatz 1, § 47 Absatz 1 Satz 1 Nummer 3, § 47 Absatz 2 Satz 1 Nummer 3, § 47 Absatz 3 Satz 1 Nummer 2 und § 47 Absatz 4 Satz 1 Nummer 2 dürfen Erzeugnisse
 
-Gebiet
+1.  
+noch bis zum 31. Juli 2016 nach den bis zum Ablauf des 11. Januar 2016 geltenden Vorschriften gekennzeichnet und
 
-Rebsorte
+2.  
+bis zum Aufbrauchen der Bestände in den Verkehr gebracht
 
-%vol
+werden.
 
-Grad Oe
+### Anlage 1 (weggefallen)
 
-1. Weißer Traubenmost
+### Anlage 2 (weggefallen)
 
- 
+### Anlage 3 (weggefallen)
 
- 
-
- 
-
-Ahr
-
-Riesling
-
-7,5
-
-(60)
-
-Baden
-
-Riesling, Gutedel
-
-9,4
-
-(72)
-
- 
-
-Silvaner
-
-9,8
-
-(75)
-
- 
-
-Müller-Thurgau
-
-10,3
-
-(78)
-
- 
-
-Ruländer
-
-11,3
-
-(84)
-
-Franken
-
-Silvaner
-
-9,4
-
-(72)
-
- 
-
-Müller-Thurgau
-
-10,2
-
-(77)
-
-Hessische Bergstraße
-
-Riesling
-
-8,3
-
-(65)
-
-Mittelrhein
-
-Riesling
-
-7,5
-
-(60)
-
-Mosel:
-
- 
-
- 
-
- 
-
-Bereich Obermosel und Moseltor
-
-Müller-Thurgau
-
-8,3
-
-(65)
-
-übrige Bereiche
-
-Riesling
-
-7,5
-
-(60)
-
-Nahe
-
-Riesling
-
-8,3
-
-(65)
-
-Pfalz:
-
- 
-
- 
-
- 
-
-Bereich Mittelhaardt/Deutsche
-
-Riesling
-
-9,1
-
-(70)
-
-Weinstraße
-
- 
-
- 
-
- 
-
-Bereich Südliche Weinstraße
-
-Silvaner
-
-9,1
-
-(70)
-
-Rheingau
-
-Riesling
-
-9,1
-
-(70)
-
-Rheinhessen
-
-Silvaner
-
-9,1
-
-(70)
-
-Saale-Unstrut
-
-Müller-Thurgau
-
-7,5
-
-(60)
-
-Sachsen
-
-Müller-Thurgau
-
-7,5
-
-(60)
-
- 
-
-Riesling
-
-8,3
-
-(65)
-
- 
-
-Weißer Burgunder
-
-9,1
-
-(70)
-
- 
-
-Gewürztraminer
-
-9,8
-
-(75)
-
-Württemberg
-
-Müller-Thurgau
-
-9,8
-
-(75)
-
- 
-
-Silvaner, Riesling
-
-9,4
-
-(72)
-
- 
-
-Ruländer, Kerner
-
-10,8
-
-(81)
-
-2. Roter Traubenmost
-
- 
-
- 
-
- 
-
-Baden
-
-Blauer
-
-10,8
-
-(81)
-
- 
-
-Spätburgunder
-
- 
-
- 
-
-Franken
-
-Blauer
-
-10,6
-
-(80)
-
- 
-
-Spätburgunder
-
- 
-
- 
-
-Pfalz
-
-Portugieser
-
-8,3
-
-(65)
-
-Rheinhessen
-
-Portugieser
-
-8,3
-
-(65)
-
-Saale-Unstrut
-
-Portugieser
-
-7,5
-
-(60)
-
-Württemberg
-
-Trollinger
-
-8,9
-
-(69)
-
- 
-
-Schwarzriesling, Blauer
-
- 
-
- 
-
- 
-
-Spätburgunder
-
-10,3
-
-(78)
-
-übrige bestimmte Anbaugebiete
-
-Blauer
-
- 
-
- 
-
- 
-
-Spätburgunder
-
-9,1
-
-(70)
-
-### Anlage 2 (zu § 11 Absatz 4 Satz 1 Nummer 3 Buchstabe b und Satz 2 Nummer 1 Buchstabe b)Stoffe, die bei der Herstellung bestimmter Erzeugnisse zugesetzt werden dürfen
-
-(Fundstelle des Originaltextes: BGBl. I 2009, 855)
-
-Bei der Herstellung von weinhaltigen Getränken, aromatisiertem Wein, aromatisierten weinhaltigen Getränken und aromatisierten weinhaltigen Cocktails dürfen nur
-
-|                   |       |                                                                                                                                                           |
-|-------------------|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.                | E 290 | Kohlendioxid,                                                                                                                                             |
-| 2.                | E 338 | Phosphorsäure,                                                                                                                                            |
-| 3.                | E 339 | Natriumphosphate (Mononatriumphosphat, Dinatriumphosphat, Trinatriumphosphat),                                                                            |
-| 4.                | E 340 | Kaliumphosphate (Monokaliumphosphat, Dikaliumphosphat, Trikaliumphosphat),                                                                                |
-| 4a.               | E 341 | Calciumphosphate (Monocalciumphosphat, Dicalciumphosphat, Tricalciumphosphat),                                                                            |
-| 4b.               | E 343 | Magnesiumphosphate (Monomagnesiumphosphat, Dimagnesiumphosphat),                                                                                          |
-| 4c.               | E 425 | Konjak (Konjakgummi, Konjak-Glukomannan),                                                                                                                 |
-| 4d.               | E 450 | Diphosphate (Dinatriumdiphosphat, Trinatriumdiphosphat, Tetranatriumdiphosphat, Tetrakaliumdiphosphat, Dicalciumdiphosphat, Calciumdihydrogendiphosphat), |
-| 4e.               | E 451 | Triphosphate (Pentanatriumtriphosphat, Pentakaliumtriphosphat),                                                                                           |
-| 5.                | E 452 | Polyphosphate (Natriumpolyphosphat, Kaliumpolyphosphat, Natriumcalciumpolyphosphat, Calciumpolyphosphat),                                                 |
-| 6.                | E 473 | Zuckerester von Speisefettsäuren,                                                                                                                         |
-| 7.                | E 474 | Zuckerglyceride,                                                                                                                                          |
-| 8.                | E 626 | Guanylsäure,                                                                                                                                              |
-| 9.                | E 627 | Dinatriumguanylat,                                                                                                                                        |
-| 10.               | E 628 | Dikaliumguanylat,                                                                                                                                         |
-| 11.               | E 629 | Calciumguanylat,                                                                                                                                          |
-| 12.               | E 630 | Inosinsäure,                                                                                                                                              |
-| 13.               | E 631 | Dinatriuminosinat,                                                                                                                                        |
-| 14.               | E 632 | Dikaliuminosinat,                                                                                                                                         |
-| 15.               | E 633 | Calciuminosinat,                                                                                                                                          |
-| 16.               | E 634 | Calcium-5'-ribonukleotid,                                                                                                                                 |
-| 17.               | E 635 | Dinatrium-5'-ribonukleotid,                                                                                                                               |
-| 18.               | E 938 | Argon,                                                                                                                                                    |
-| 19.               | E 939 | Helium,                                                                                                                                                   |
-| 20.               | E 941 | Stickstoff,                                                                                                                                               |
-| 21.               | E 942 | Distickstoffmonoxid,                                                                                                                                      |
-| 22.               | E 948 | Sauerstoff und                                                                                                                                            |
-| 23.               | E 949 | Wasserstoff                                                                                                                                               |
-| zugesetzt werden. |       |                                                                                                                                                           |
-
-### Anlage 3 (zu § 11 Absatz 4 Satz 2 Nummer 3)Süßungsmittel, die bei der Herstellung weinhaltiger Getränke zugesetzt werden dürfen
-
-(Fundstelle des Originaltextes: BGBl. I 2009, 856)
-
-Bei der Herstellung von weinhaltigen Getränken dürfen als Süßungsmittel nur
-
-|     |       |                                                    |
-|-----|-------|----------------------------------------------------|
-| 1.  | E 950 | Acesulfam-K,                                       |
-| 2.  | E 951 | Aspartam,                                          |
-| 3.  | E 952 | Cyclohexansulfamidsäure und ihre Na- und Ca-Salze, |
-| 4.  | E 954 | Saccharin und seine Na-, K- und Ca-Salze,          |
-| 5.  | E 955 | Sucralose,                                         |
-| 6.  | E 959 | Neohesperidin DC und                               |
-| 7.  | E 962 | Aspartam-Acesulfamsalz                             |
-
-zugesetzt werden.
-
-### Anlage 4 (zu § 11 Absatz 5)Farbstoffe, die bei der Herstellung bestimmter Erzeugnisse zugesetzt werden dürfen
-
-(Fundstelle des Originaltextes: BGBl. I 2009, 857)
-
-A.  
-Bei der Herstellung von aromatisierten weinhaltigen Getränken mit Ausnahme von Sangria, Clarea und Zurra sowie aromatisiertem Wein dürfen als Farbstoffe nur
-
-|     |        |                           |
-|-----|--------|---------------------------|
-| 1.  | E 150a | Einfaches Zuckerkulör,    |
-| 2.  | E 150b | Sulfitlaugen-Zuckerkulör, |
-| 3.  | E 150c | Ammoniak-Zuckerkulör und  |
-| 4.  | E 150d | Ammonsulfit-Zuckerkulör   |
-
-zugesetzt werden.
-
-B.  
-(weggefallen)
-
-C.  
-Bei der Herstellung von Americano dürfen neben den in Buchstabe A genannten Farbstoffen als Farbstoffe nur
-
-|     |       |                                     |
-|-----|-------|-------------------------------------|
-| 1.  | E 100 | Kurkumin,                           |
-| 2.  | E 101 | Riboflavin, Riboflavin-5´-Phosphat, |
-| 3.  | E 102 | Tartrazin,                          |
-| 4.  | E 104 | Chinolingelb,                       |
-| 5.  | E 120 | Cochenille, Karminsäure, Karmin,    |
-| 6.  | E 122 | Azorubin, Carmoisin,                |
-| 7.  | E 123 | Amaranth,                           |
-| 8.  | E 124 | Ponceau 4R und                      |
-| 9.  | E 163 | Anthocyane                          |
-
-zugesetzt werden.
-
-D.  
-Bei der Herstellung von Bitter soda und Bitter vino dürfen neben den in Buchstabe A genannten Farbstoffen als Farbstoffe nur
-
-|     |       |                                     |
-|-----|-------|-------------------------------------|
-|  1. | E 100 | Kurkumin,                           |
-|  2. | E 101 | Riboflavin, Riboflavin-5´-Phosphat, |
-|  3. | E 102 | Tartrazin,                          |
-|  4. | E 104 | Chinolingelb,                       |
-|  5. | E 110 | Sunsetgelb FCF, Gelborange S,       |
-|  6. | E 120 | Cochenille, Karminsäure, Karmin,    |
-|  7. | E 122 | Azorubin, Carmoisin,                |
-|  8. | E 123 | Amaranth,                           |
-|  9. | E 124 | Ponceau 4R, Cochenillerot A und     |
-| 10. | E 129 | Allurarot AC                        |
-
-zugesetzt werden.
-
-E.  
-Bei der Herstellung von Likörwein und Qualitätslikörwein b.A. dürfen als Farbstoffe nur
-
-|     |               |                           |
-|-----|---------------|---------------------------|
-| 1.  | E 150a        | Einfaches Zuckerkulör,    |
-| 2.  | E 150b        | Sulfitlaugen-Zuckerkulör, |
-| 3.  | E 150c        | Ammoniak-Zuckerkulör,     |
-| 4.  | E 150d        | Ammonsulfit-Zuckerkulör   |
-| 5.  | (weggefallen) |                           |
-
-zugesetzt werden.
-
-F.  
-Bei der Herstellung von weinhaltigen Getränken und aromatisierten weinhaltigen Cocktails dürfen als Farbstoffe nur
-
-<table>
-<tbody>
-<tr class="odd">
-<td> 1.</td>
-<td>E 101</td>
-<td>Riboflavin, Riboflavin-5´-Phosphat,</td>
-</tr>
-<tr class="even">
-<td> 2.</td>
-<td>E 140</td>
-<td>Chlorophylle und Chlorophylline,</td>
-</tr>
-<tr class="odd">
-<td> 3.</td>
-<td>E 141</td>
-<td>Kupferhaltige Komplexe der Chlorophylle und Chlorophylline,</td>
-</tr>
-<tr class="even">
-<td> 4.</td>
-<td>E 150a</td>
-<td>Einfaches Zuckerkulör,</td>
-</tr>
-<tr class="odd">
-<td> 5.</td>
-<td>E 150b</td>
-<td>Sulfitlaugen-Zuckerkulör,</td>
-</tr>
-<tr class="even">
-<td> 6.</td>
-<td>E 150c</td>
-<td>Ammoniak-Zuckerkulör,</td>
-</tr>
-<tr class="odd">
-<td> 7.</td>
-<td>E 150d</td>
-<td>Ammonsulfit-Zuckerkulör,</td>
-</tr>
-<tr class="even">
-<td> 8.</td>
-<td>E 153</td>
-<td>Pflanzenkohle,</td>
-</tr>
-<tr class="odd">
-<td> 9.</td>
-<td>E 160a</td>
-<td>Carotine,</td>
-</tr>
-<tr class="even">
-<td>10.</td>
-<td>E 160c</td>
-<td>Paprikaextrakt, Capsanthin,<br />
-Capsorubin,</td>
-</tr>
-<tr class="odd">
-<td>11.</td>
-<td>E 162</td>
-<td>Beetenrot, Betanin,</td>
-</tr>
-<tr class="even">
-<td>12.</td>
-<td>E 163</td>
-<td>Anthocyane,</td>
-</tr>
-<tr class="odd">
-<td>13.</td>
-<td>E 170</td>
-<td>Calciumcarbonat,</td>
-</tr>
-<tr class="even">
-<td>14.</td>
-<td>E 171</td>
-<td>Titandioxid und</td>
-</tr>
-<tr class="odd">
-<td>15.</td>
-<td>E 172</td>
-<td>Eisenoxide und -hydroxide</td>
-</tr>
-</tbody>
-</table>
-
-zugesetzt werden.
-
-G.  
-Bei der Herstellung von aromatisierten weinhaltigen Cocktails dürfen neben den in Buchstabe F genannten Farbstoffen als Farbstoffe nur
-
-|     |        |                                               |
-|-----|--------|-----------------------------------------------|
-|  1. | E 100  | Kurkumin,                                     |
-|  2. | E 102  | Tartrazin,                                    |
-|  3. | E 104  | Chinolingelb,                                 |
-|  4. | E 110  | Sunsetgelb FCF, Gelborange S,                 |
-|  5. | E 120  | Cochenille, Karminsäure, Karmin,              |
-|  6. | E 122  | Azorubin, Carmoisin,                          |
-|  7. | E 124  | Ponceau 4R, Cochenillerot A,                  |
-|  8. | E 129  | Allurarot AC,                                 |
-|  9. | E 131  | Patentblau V,                                 |
-| 10. | E 132  | Indigotin I, Indigokarmin,                    |
-| 11. | E 133  | Brillantblau FCF,                             |
-| 12. | E 142  | Grün S,                                       |
-| 13. | E 151  | Brillantschwarz BN, Schwarz PN,               |
-| 14. | E 155  | Braun HT,                                     |
-| 15. | E 160d | Lycopin,                                      |
-| 16. | E 160e | Beta-apo-8´-Carotinal (C30),                  |
-| 17. | E 160f | Beta-apo-8´-Carotinsäure-Ethylester (C30) und |
-| 18. | E 161b | Lutein                                        |
-
-zugesetzt werden.
+### Anlage 4 (weggefallen)
 
 ### Anlage 5 (zu § 12)Reinheitsanforderungen
 
@@ -2608,235 +1931,7 @@ Reinheitsanforderungen für Saccharose
 
 Saccharose darf zur Alkoholerhöhung nur verwendet werden, wenn sie technisch rein und nicht färbend ist; sie muss in der Trockensubstanz mindestens 99,5 vom Hundert vergärbaren Zucker enthalten.
 
-### Anlage 6 (zu § 13 Absatz 1 Nummer 1)Gehalt an Stoffen
-
-(Fundstelle des Originaltextes: BGBl. I 2009, 860 - 861)
-
-1.  
-Die nachfolgend genannten Erzeugnisse dürfen, wenn sie in den Verkehr gebracht werden, keinen Gehalt an Sulfaten, als Kaliumsulfat berechnet, aufweisen, der in einem Liter die folgenden Werte übersteigt:
-
-a)  
-bei inländischem
-
-aa)  
-Wein 1 000 mg/l,
-
-bb)  
-Perlwein (Perlwein, der im Inland aus inländischen Weintrauben hergestellt worden ist) 1 000 mg/l,
-
-cc)  
-Perlwein mit zugesetzter Kohlensäure (Perlwein mit zugesetzter Kohlensäure, der im Inland aus inländischen Weintrauben hergestellt worden ist) 1 000 mg/l,
-
-dd)  
-Schaumwein (Schaumwein, der im Inland hergestellt worden ist) 1 500 mg/l,
-
-ee)  
-Schaumwein mit zugesetzter Kohlensäure (Schaumwein mit zugesetzter Kohlensäure, der im Inland hergestellt worden ist) 1 500 mg/l,
-
-ff)  
-Likörwein (Likörwein, der im Inland hergestellt worden ist) 1 500 mg/l,
-
-b)  
-bei folgenden, im Inland hergestellten Erzeugnissen, bei deren Herstellung andere als inländische Erzeugnisse verwendet worden sind:
-
-aa)  
-Wein 1 000 mg/l,
-
-bb)  
-Perlwein 1 000 mg/l,
-
-cc)  
-Perlwein mit zugesetzter Kohlensäure 1 000 mg/l,
-
-c)  
-bei folgenden Drittlandserzeugnissen:
-
-aa)  
-Wein 1 000 mg/l,
-
-bb)  
-Perlwein 1 000 mg/l,
-
-cc)  
-Perlwein mit zugesetzter Kohlensäure 1 000 mg/l,
-
-dd)  
-Schaumwein 1 500 mg/l,
-
-ee)  
-Schaumwein mit zugesetzter Kohlensäure 1 500 mg/l,
-
-ff)  
-Likörwein, ausgenommen Likörwein, der nach den Rechtsvorschriften des Ursprungslandes die Bezeichnung Boberg führen darf, 1 500 mg/l,
-
-gg)  
-Likörwein, der nach den Rechtsvorschriften des Ursprungslandes die Bezeichnung Boberg führen darf, 2 500 mg/l.
-
-hh)  
-bis kk) (weggefallen)
-
-2.  
-(weggefallen)
-
-3.  
-(weggefallen)
-
-4.  
-Aromatisierte weinhaltige Getränke, aromatisierte weinhaltige Cocktails und aromatisierter Wein dürfen, wenn sie in den Verkehr gebracht werden, keinen Gehalt an Sorbinsäure aufweisen, der in einem Liter 200 mg/l übersteigt.
-
-5.  
-Weinhaltige Getränke, aromatisierter Wein, aromatisierte weinhaltige Getränke und aromatisierte weinhaltige Cocktails dürfen, wenn sie in den Verkehr gebracht werden, keinen Gehalt aufweisen an
-
-a)  
-folgenden Stoffen, als P<sub>2</sub>O<sub>5</sub> berechnet, der in einem Liter insgesamt 1 g/l übersteigt:
-
-<table>
-<tbody>
-<tr class="odd">
-<td>A.</td>
-<td>E 338</td>
-<td>Phosphorsäure,</td>
-</tr>
-<tr class="even">
-<td>B.</td>
-<td>E 339</td>
-<td>Natriumphosphate (Mononatriumphosphat, Dinatriumphosphat,<br />
-Trinatriumphosphat),</td>
-</tr>
-<tr class="odd">
-<td>C.</td>
-<td>E 340</td>
-<td>Kaliumphosphate (Monokaliumphosphat, Dikaliumphosphat,<br />
-Trikaliumphosphat),</td>
-</tr>
-<tr class="even">
-<td>D.</td>
-<td>E 341</td>
-<td>Calciumphosphate (Monocalciumphosphat, Dicalciumphosphat,<br />
-Tricalciumphosphat),</td>
-</tr>
-<tr class="odd">
-<td>E.</td>
-<td>E 343</td>
-<td>Magnesiumphosphate (Monomagnesiumphosphat, Dimagnesiumphosphat),</td>
-</tr>
-<tr class="even">
-<td>F.</td>
-<td>E 450</td>
-<td>Diphosphate (Dinatriumdiphosphat, Trinatriumdiphosphat, Tetranatriumdiphosphat, Tetrakaliumdiphosphat,<br />
-Dicalciumdiphosphat, Calciumdihydrogendiphosphat),</td>
-</tr>
-<tr class="odd">
-<td>G.</td>
-<td>E 451</td>
-<td>Triphosphate (Pentanatriumtriphosphat, Pentakaliumtriphosphat) und</td>
-</tr>
-<tr class="even">
-<td>H.</td>
-<td>E 452</td>
-<td>Polyphosphate (Natriumpolyphosphat, Kaliumpolyphosphat, Natriumcalciumpolyphosphat, Calciumpolyphosphat),</td>
-</tr>
-</tbody>
-</table>
-
-b)  
-E 425 Konjak (Konjakgummi, Konjak-Glukomannan), der in einem Liter insgesamt 10 g/l,
-
-c)  
-E 473 Zuckerester von Speisefettsäuren und E 474 Zuckerglyceriden, der in einem Liter insgesamt 5 g/l,
-
-d)  
-folgenden Stoffen, als Guanylsäure berechnet, der in einem Liter insgesamt 500 mg/l übersteigt:
-
-|     |       |                              |
-|-----|-------|------------------------------|
-| A.  | E 626 | Guanylsäure,                 |
-| B.  | E 627 | Dinatriumguanylat,           |
-| C.  | E 628 | Dikaliumguanylat,            |
-| D.  | E 629 | Calciumguanylat,             |
-| E.  | E 630 | Inosinsäure,                 |
-| F.  | E 631 | Dinatriuminosinat,           |
-| G.  | E 632 | Dikaliuminosinat,            |
-| H.  | E 633 | Calciuminosinat,             |
-| I.  | E 634 | Calcium-5´-ribonukleotid und |
-| J.  | E 635 | Dinatrium-5´-ribonukleotid.  |
-
-6.  
-Americano darf, wenn er in den Verkehr gebracht wird, keinen Gehalt an folgenden Stoffen aufweisen, der in einem Liter insgesamt 100 mg/l übersteigt:
-
-|     |       |                                     |
-|-----|-------|-------------------------------------|
-| A.  | E 100 | Kurkumin,                           |
-| B.  | E 101 | Riboflavin, Riboflavin-5´-Phosphat, |
-| C.  | E 102 | Tartrazin,                          |
-| D.  | E 104 | Chinolingelb,                       |
-| E.  | E 120 | Cochenille, Karminsäure, Karmin,    |
-| F.  | E 122 | Azorubin, Carmoisin,                |
-| G.  | E 123 | Amaranth und                        |
-| H.  | E 124 | Ponceau 4R.                         |
-
-7.  
-Bitter soda und Bitter vino dürfen, wenn sie in den Verkehr gebracht werden, keinen Gehalt an folgenden Stoffen aufweisen, der in einem Liter insgesamt 100 mg/l übersteigt:
-
-|     |       |                                     |
-|-----|-------|-------------------------------------|
-| A.  | E 100 | Kurkumin,                           |
-| B.  | E 101 | Riboflavin, Riboflavin-5´-Phosphat, |
-| C.  | E 102 | Tartrazin,                          |
-| D.  | E 104 | Chinolingelb,                       |
-| E.  | E 110 | Sunsetgelb FCF, Gelborange S,       |
-| F.  | E 120 | Cochenille, Karminsäure, Karmin,    |
-| G.  | E 122 | Azorubin, Carmoisin,                |
-| H.  | E 123 | Amaranth,                           |
-| I.  | E 124 | Ponceau 4R, Cochenillerot A und     |
-| J.  | E 129 | Allurarot AC.                       |
-
-8.  
-Aromatisierte weinhaltige Cocktails dürfen, wenn sie in den Verkehr gebracht werden, keinen Gehalt an folgenden Stoffen aufweisen, der in einem Liter insgesamt 200 mg/l übersteigt:
-
-|     |        |                                               |
-|-----|--------|-----------------------------------------------|
-| A.  | E 100  | Kurkumin,                                     |
-| B.  | E 102  | Tartrazin,                                    |
-| C.  | E 104  | Chinolingelb,                                 |
-| D.  | E 110  | Sunsetgelb FCF, Gelborange S,                 |
-| E.  | E 120  | Cochenille, Karminsäure, Karmin,              |
-| F.  | E 122  | Azorubin, Carmoisin,                          |
-| G.  | E 124  | Ponceau 4R, Cochenillerot A,                  |
-| H.  | E 129  | Allurarot AC,                                 |
-| I.  | E 131  | Patentblau V,                                 |
-| J.  | E 132  | Indigotin I, Indigokarmin,                    |
-| K.  | E 133  | Brillantblau FCF,                             |
-| L.  | E 142  | Grün S,                                       |
-| M.  | E 151  | Brillantschwarz BN, Schwarz PN,               |
-| N.  | E 155  | Braun HT,                                     |
-| O.  | E 160d | Lycopin,                                      |
-| P.  | E 160e | Beta-apo-8´-Carotinal (C30),                  |
-| Q.  | E 160f | Beta-apo-8´-Carotinsäure-Ethylester (C30) und |
-| R.  | E 161b | Lutein.                                       |
-
-9.  
-(weggefallen)
-
-10.  
-Weinhaltige Getränke dürfen, wenn sie in den Verkehr gebracht werden, keinen Gehalt aufweisen an
-
-a)  
-E 950 Acesulfam-K, der in einem Liter 350 mg/l,
-
-b)  
-E 951 Aspartam, der in einem Liter 600 mg/l,
-
-c)  
-E 952 Cyclohexansulfamidsäure und ihre Na- und Ca-Salze, als freie Säure berechnet, der in einem Liter 250 mg/l,
-
-d)  
-E 954 Saccharin und seine Na-, K- und Ca-Salze, als freies Imid berechnet, der in einem Liter 80 mg/l,
-
-e)  
-E 959 Neohesperidin DC, der in einem Liter 30 mg/l
-
-übersteigt.
+### Anlage 6 (weggefallen)
 
 ### Anlage 7 (zu § 13 Absatz 1 Nummer 2)Gehalt an Stoffen
 
