@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 19.6.2009 I 1434
 
 Stand  
-Zuletzt geändert durch 3 G v. 15.8.2012 I 1670
+Zuletzt geändert durch Art. 3 G v. 15.8.2012 I 1670
 
 ### 
 
@@ -5129,81 +5129,77 @@ Nummer 5a
 
 Absatz 1
 
-Buchstabe a
-
-96,63
-
-Buchstabe b
-
-161,06
-
-Buchstabe c
-
-230,86
-
-Absatz 2
-
 Nummer 1
 
 Buchstabe a
 
-144,95
+Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
+
+245,86
+
+Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
+
+271,47
 
 Buchstabe b
 
-107,38
+Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
-Nummer 2
+210,00
+
+Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
+
+235,61
+
+Buchstabe c
+
+Beamte des gehobenen und des höheren Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13 und Offiziere des Truppendienstes ab Besoldungsgruppe A 13
+
+271,47
+
+Nummer 2 und 3
+
+Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
+
+169,03
+
+Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
+
+189,51
+
+Nummer 4
 
 Buchstabe a
 
-107,38
+Doppelbuchstabe aa
+
+271,47
+
+Doppelbuchstabe bb
+
+Beamte des mittleren und des gehobenen Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
+
+210,00
 
 Buchstabe b
 
-42,94
+Beamte des mittleren und des gehobenen Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
-Nummer 3
+169,03
 
-69,79
+Nummer 5 und 6
 
-Nummer 4 und 5
+Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
-64,42
+107,56
 
-Nummer 6
+Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
-Buchstabe a
+169,03
 
-107,38
+Beamte des höheren Dienstes und Offiziere des Truppendienstes ab Besoldungsgruppe A 13
 
-Buchstabe b
-
-107,38
-
-Nummer 7
-
-Buchstabe a
-
-107,38
-
-Buchstabe b
-
-42,94
-
-Nummer 8
-
-Buchstabe a
-
-134,22
-
-Buchstabe b
-
-69,79
-
-Nummer 9
-
-64,42
+235,61
 
 Nummer 6
 
@@ -5218,6 +5214,10 @@ Buchstabe b
 386,54
 
 Buchstabe c
+
+338,05
+
+Buchstabe d
 
 309,23
 
