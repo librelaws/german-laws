@@ -5,19 +5,10 @@ Neuf
 Neugefasst durch Bek. v. 19.6.2009 I 1434
 
 Stand  
-Zuletzt geändert durch Art. 2 G v. 25.11.2014 I 1772
+Zuletzt geändert durch Art. 3 G v. 3.12.2015 I 2178
 
 Hinweis  
-Änderung durch Art. 2 G v. 6.3.2015 I 250 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 3 G v. 6.3.2015 I 250 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 4 G v. 6.3.2015 I 250 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 5 G v. 6.3.2015 I 250 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 26 G v. 24.5.2016 I 1217 (Nr. 24) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -25,6 +16,11 @@ Hinweis
 (+++ Textnachweis Geltung ab: 1.1.1982 +++)
 (+++ Maßgaben aufgrund EinigVtr vgl. BBesG Anhang EV +++)
 (+++ Änderungen aufgrund EinigVtr vgl. § 73 +++)
+(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
+     Umsetzung der
+       EGRL   88/2003         (CELEX Nr: 32003L0088)
+       EWGRL 391/89           (CELEX Nr: 31989L0391) vgl. G v. 13.5.2015 
+                                                     I 706 +++) 
 ```
 
 Neufassung des G v. 27.7.1957 I 993 (siehe: BBesG 1957)
@@ -48,6 +44,7 @@ Neufassung des G v. 27.7.1957 I 993 (siehe: BBesG 1957)
 | §  6  | Besoldung bei Teilzeitbeschäftigung                                                                                |
 | §  7  | Besoldung bei Familienpflegezeit, Verordnungsermächtigung                                                          |
 | §  7a | Zuschlag bei Hinausschieben des Eintritts in den Ruhestand                                                         |
+| § 7b  | Zuschlag bei Hinausschieben des Eintritts in den Ruhestand in besonderen Fällen                                    |
 | §  8  | Kürzung der Besoldung bei Gewährung einer Versorgung durch eine zwischenstaatliche oder überstaatliche Einrichtung |
 | §  9  | Verlust der Besoldung bei schuldhaftem Fernbleiben vom Dienst                                                      |
 | §  9a | Anrechnung anderer Einkünfte auf die Besoldung                                                                     |
@@ -137,23 +134,23 @@ Richter und Staatsanwälte
 **
 Zulagen, Prämien, Zuschläge, Vergütungen**
 
-|       |                                                                                                          |
-|-------|----------------------------------------------------------------------------------------------------------|
-| § 42  | Amtszulagen und Stellenzulagen                                                                           |
-| § 42a | Prämien und Zulagen für besondere Leistungen                                                             |
-| § 43  | Personalgewinnungszuschlag                                                                               |
-| § 43a | Prämien für Angehörige der Spezialkräfte der Bundeswehr                                                  |
-| § 43b | Verpflichtungsprämie für Soldaten auf Zeit                                                               |
-| § 44  | (weggefallen)                                                                                            |
-| § 45  | Zulage für die Wahrnehmung befristeter Funktionen                                                        |
-| § 46  | Zulage für die Wahrnehmung eines höherwertigen Amtes                                                     |
-| § 47  | Zulagen für besondere Erschwernisse                                                                      |
-| § 48  | Mehrarbeitsvergütung                                                                                     |
-| § 49  | Vergütung für Beamte im Vollstreckungsdienst                                                             |
-| § 50  | (weggefallen)                                                                                            |
-| § 50a | Vergütung für Soldaten mit besonderer zeitlicher Belastung                                               |
-| § 50b | Vergütung für Bereitschaftsdienst und Rufbereitschaft von Sanitätsoffizieren in Bundeswehrkrankenhäusern |
-| § 51  | Andere Zulagen und Vergütungen                                                                           |
+|       |                                                                                                     |
+|-------|-----------------------------------------------------------------------------------------------------|
+| § 42  | Amtszulagen und Stellenzulagen                                                                      |
+| § 42a | Prämien und Zulagen für besondere Leistungen                                                        |
+| § 43  | Personalgewinnungszuschlag                                                                          |
+| § 43a | Prämien für Angehörige der Spezialkräfte der Bundeswehr                                             |
+| § 43b | Verpflichtungsprämie für Soldaten auf Zeit                                                          |
+| § 44  | Personalbindungszuschlag für Soldaten                                                               |
+| § 45  | Zulage für die Wahrnehmung befristeter Funktionen                                                   |
+| § 46  | (weggefallen)                                                                                       |
+| § 47  | Zulagen für besondere Erschwernisse                                                                 |
+| § 48  | Mehrarbeitsvergütung                                                                                |
+| § 49  | Vergütung für Beamte im Vollstreckungsdienst                                                        |
+| § 50  | Mehrarbeitsvergütung für Soldaten                                                                   |
+| § 50a | Vergütung für Soldaten mit besonderer zeitlicher Belastung                                          |
+| § 50b | Vergütung für Bereitschaftsdienst und Rufbereitschaft im Sanitätsdienst in Bundeswehrkrankenhäusern |
+| § 51  | Andere Zulagen und Vergütungen                                                                      |
 
 **Abschnitt 5**
 
@@ -197,14 +194,13 @@ Zulagen, Prämien, Zuschläge, Vergütungen**
 **
 Abschnitt 8**
 
-**Dienstbekleidung,
-Heilfürsorge, Unterkunft für Soldaten
-und Polizeivollzugsbeamte in der Bundespolizei**
+**Dienstkleidung, Heilfürsorge, Unterkunft**
 
-|      |                                                                                      |
-|------|--------------------------------------------------------------------------------------|
-| § 69 | Dienstbekleidung, Heilfürsorge, Unterkunft für Soldaten                              |
-| § 70 | Dienstkleidung, Heilfürsorge, Unterkunft für Polizeivollzugsbeamte der Bundespolizei |
+|       |                                                                                      |
+|-------|--------------------------------------------------------------------------------------|
+| § 69  | Dienstkleidung und Unterkunft für Soldaten                                           |
+| § 69a | Heilfürsorge für Soldaten                                                            |
+| § 70  | Dienstkleidung, Heilfürsorge, Unterkunft für Polizeivollzugsbeamte der Bundespolizei |
 
 **Abschnitt 9**
 
@@ -213,7 +209,7 @@ und Polizeivollzugsbeamte in der Bundespolizei**
 |       |                                                                                                                            |
 |-------|----------------------------------------------------------------------------------------------------------------------------|
 | § 71  | Rechtsverordnungen, Allgemeine Verwaltungsvorschriften                                                                     |
-| § 72  | Übergangsregelung für die nachträgliche Anerkennung von Kinderbetreuungs- und Pflegezeiten                                 |
+| § 72  | (weggefallen)                                                                                                              |
 | § 72a | Besoldung bei begrenzter Dienstfähigkeit                                                                                   |
 | § 73  | Übergangsregelung bei Gewährung einer Versorgung durch eine zwischenstaatliche oder überstaatliche Einrichtung             |
 | § 74  | Übergangsregelung zum Familienzuschlag                                                                                     |
@@ -227,7 +223,7 @@ und Polizeivollzugsbeamte in der Bundespolizei**
 | § 80  | Übergangsregelung für beihilfeberechtigte Polizeivollzugsbeamte der Bundespolizei                                          |
 | § 80a | Übergangsregelung für Verpflichtungsprämien für Soldaten auf Zeit aus Anlass des Bundeswehrreform-Begleitgesetzes          |
 | § 81  | Übergangsregelungen bei Zulagenänderungen aus Anlass des Versorgungsreformgesetzes 1998                                    |
-| § 82  | Übergangsregelung für ehemalige Soldaten                                                                                   |
+| § 82  | Übergangsregelungen aus Anlass des Siebten Besoldungsänderungsgesetzes                                                     |
 | § 83  | Übergangsregelung für Ausgleichszulagen                                                                                    |
 | § 83a | Übergangsregelung für die Besoldung bei Verleihung eines anderen Amtes oder bei Wechsel in den Dienst des Bundes           |
 | § 84  | Anpassung von Bezügen nach fortgeltendem Recht                                                                             |
@@ -333,7 +329,7 @@ Hat der Beamte, Richter oder Soldat mit Genehmigung der obersten Dienstbehörde 
 
 ### § 6 Besoldung bei Teilzeitbeschäftigung
 
-(1) Bei Teilzeitbeschäftigung werden die Dienstbezüge und die Anwärterbezüge im gleichen Verhältnis wie die Arbeitszeit gekürzt.
+(1) Bei Teilzeitbeschäftigung werden die Dienstbezüge und die Anwärterbezüge im gleichen Verhältnis wie die Arbeitszeit gekürzt. Dies gilt nicht für Bezüge, die während eines Erholungsurlaubs gezahlt werden, soweit der Urlaubsanspruch in Höhe des unionsrechtlich gewährleisteten Mindesturlaubsanspruchs (Artikel 7 Absatz 1 der Richtlinie 2003/88/EG des Europäischen Parlaments und des Rates vom 4. November 2003 über bestimmte Aspekte der Arbeitszeitgestaltung \[ABl. L 299 vom 18.11.2003, S. 9\]) während einer Vollzeitbeschäftigung erworben wurde, aber aus den in § 5a Absatz 1 Satz 1 der Erholungsurlaubsverordnung genannten Gründen während dieser Zeit nicht erfüllt werden konnte.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung bei Altersteilzeit nach § 93 des Bundesbeamtengesetzes sowie nach entsprechenden Bestimmungen für Richter die Gewährung eines nichtruhegehaltfähigen Zuschlags zur Besoldung zu regeln. Zuschlag und Besoldung dürfen zusammen 83 Prozent der Nettobesoldung nicht überschreiten, die nach der bisherigen Arbeitszeit, die für die Bemessung der ermäßigten Arbeitszeit während der Altersteilzeit zugrunde gelegt worden ist, zustehen würde; § 72a ist zu berücksichtigen. Abweichend von Satz 2 dürfen Zuschlag und Besoldung im Geschäftsbereich des Bundesministeriums der Verteidigung zusammen 88 Prozent betragen, wenn Dienstposten infolge von Strukturmaßnahmen auf Grund der Neuausrichtung der Bundeswehr wegfallen. Für den Fall der vorzeitigen Beendigung der Altersteilzeit ist ein Ausgleich zu regeln. Steuerfreie Bezüge, Erschwerniszulagen und Vergütungen werden entsprechend der tatsächlich geleisteten Tätigkeit während der Altersteilzeit gewährt; bei der Ermittlung der Mieteigenbelastung nach Abschnitt 5 sind die Dienstbezüge maßgeblich, die auf Grund der tatsächlich geleisteten Tätigkeit zustehen würden.
 
@@ -352,6 +348,20 @@ Hat der Beamte, Richter oder Soldat mit Genehmigung der obersten Dienstbehörde 
 (1) Bei einem Hinausschieben des Eintritts in den Ruhestand nach § 53 Absatz 1 bis 3 des Bundesbeamtengesetzes wird ein Zuschlag gewährt. Der Zuschlag wird nicht neben einem Zuschlag nach § 6 Absatz 2 in Verbindung mit der Altersteilzeitzuschlagsverordnung und nicht neben einem Zuschlag nach § 6 Absatz 3 gewährt. Der Zuschlag beträgt 10 Prozent des Grundgehalts und ist nicht ruhegehaltfähig. Er wird erst gewährt ab Beginn des Kalendermonats, der auf den Zeitpunkt des Erreichens der gesetzlichen Altersgrenze folgt und wenn der Höchstsatz des Ruhegehalts nach § 14 Absatz 1 des Beamtenversorgungsgesetzes erreicht ist. Wird der Höchstruhegehaltssatz im Zeitraum des Hinausschiebens erreicht, wird der Zuschlag ab dem Beginn des folgenden Kalendermonats gewährt.
 
 (2) Bei einer Teilzeitbeschäftigung bei Hinausschieben des Eintritts in den Ruhestand nach § 53 Absatz 1 bis 3 des Bundesbeamtengesetzes wird ein nicht ruhegehaltfähiger Zuschlag gewährt, dessen Bemessungsgrundlage das Ruhegehalt ist, das bei Versetzung in den Ruhestand wegen Erreichens der gesetzlichen Altersgrenze zugestanden hätte. Absatz 1 Satz 2 gilt entsprechend. Die Höhe des Zuschlags entspricht dem Teil des erdienten Ruhegehalts, der sich aus dem Verhältnis der Freistellung zur regelmäßigen Arbeitszeit ergibt. Der Zuschlag nach Absatz 1 bleibt hiervon unberührt.
+
+### § 7b Zuschlag bei Hinausschieben des Eintritts in den Ruhestand in besonderen Fällen
+
+(1) Bei einem Hinausschieben des Eintritts in den Ruhestand nach § 53 Absatz 1 bis 3 des Bundesbeamtengesetzes wird ein weiterer Zuschlag gewährt, wenn
+
+1.  
+der Beamte vor dem 1. Januar 2019 die für ihn geltende gesetzliche Altersgrenze erreicht und
+
+2.  
+die oberste Dienstbehörde oder die von ihr bestimmte Stelle entscheidet, dass seine Funktion zur Herbeiführung eines im besonderen öffentlichen Interesse liegenden unaufschiebbaren und zeitgebundenen Ergebnisses im Inland wahrgenommen werden muss.
+
+Der Zuschlag wird nicht neben einem Zuschlag nach § 6 Absatz 2 in Verbindung mit der Altersteilzeitzuschlagsverordnung und nicht neben einem Zuschlag nach § 6 Absatz 3 gewährt. Der Zuschlag beträgt 5 Prozent des Grundgehalts und ist nicht ruhegehaltfähig. Er wird erst gewährt ab Beginn des Kalendermonats, der auf den Zeitpunkt des Erreichens der gesetzlichen Altersgrenze folgt.
+
+(2) Bei einer Teilzeitbeschäftigung bei Hinausschieben des Eintritts in den Ruhestand nach § 53 Absatz 1 bis 3 des Bundesbeamtengesetzes ist § 7a Absatz 2 entsprechend anzuwenden.
 
 ### § 8 Kürzung der Besoldung bei Gewährung einer Versorgung durch eine zwischenstaatliche oder überstaatliche Einrichtung
 
@@ -491,6 +501,8 @@ Unterabschnitt 1 Allgemeine Grundsätze
 
 Die Funktionen der Beamten und Soldaten sind nach den mit ihnen verbundenen Anforderungen sachgerecht zu bewerten und Ämtern zuzuordnen. Eine Funktion kann bis zu drei Ämtern einer Laufbahngruppe, in obersten Bundesbehörden allen Ämtern einer Laufbahngruppe zugeordnet werden. Bei Soldaten gilt dies in der Laufbahngruppe der Mannschaften für alle Dienstgrade und in der Laufbahngruppe der Unteroffiziere für bis zu vier Dienstgrade.
 
+§ 18 Satz 2: Mit dem GG vereinbar gem. BVerfGE v. 16.12.2015, 2016 I 244 (2 BvR 1958/13)
+
 ### § 19 Bestimmung des Grundgehaltes nach dem Amt
 
 (1) Das Grundgehalt des Beamten, Richters oder Soldaten bestimmt sich nach der Besoldungsgruppe des ihm verliehenen Amtes. Ist ein Amt noch nicht in einer Bundesbesoldungsordnung enthalten oder ist es mehreren Besoldungsgruppen zugeordnet, bestimmt sich das Grundgehalt nach der Besoldungsgruppe, die in der Einweisungsverfügung bestimmt ist; die Einweisung bedarf bei Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts in den Fällen, in denen das Amt in einer Bundesbesoldungsordnung noch nicht enthalten ist, der Zustimmung der obersten Rechtsaufsichtsbehörde im Einvernehmen mit dem Bundesministerium des Innern. Ist dem Beamten oder Richter noch kein Amt verliehen worden, so bestimmt sich das Grundgehalt des Beamten nach der Besoldungsgruppe seines Eingangsamtes, das Grundgehalt des Richters und des Staatsanwalts nach der Besoldungsgruppe R 1; soweit die Einstellung in einem anderen als dem Eingangsamt erfolgt ist, bestimmt sich das Grundgehalt nach der entsprechenden Besoldungsgruppe.
@@ -569,7 +581,7 @@ kann der höheren Besoldungsgruppe zugewiesen werden, in die gleichwertige Ämte
 (1) Die Anteile der Beförderungsämter dürfen nach Maßgabe sachgerechter Bewertung folgende Obergrenzen nicht überschreiten:
 
 1.  
-im mittleren Dienst
+im mittleren Dienst in der Laufbahn des mittleren Polizeivollzugsdienstes in der Bundespolizei
 
 a)  
 <table>
@@ -577,7 +589,7 @@ a)
 <tr class="odd">
 <td>in der Besoldungs-<br />
 gruppe A 8</td>
-<td>30 Prozent,</td>
+<td>50 Prozent,</td>
 </tr>
 </tbody>
 </table>
@@ -588,21 +600,29 @@ b)
 <tr class="odd">
 <td>in der Besoldungs-<br />
 gruppe A 9</td>
-<td>8 Prozent,</td>
+<td>50 Prozent,</td>
 </tr>
 </tbody>
 </table>
 
+diese Obergrenzen gelten nur für Planstellen, die Funktionen zugeordnet sind, in denen Polizeivollzugsbeamte in der Bundespolizei bis zum Eintritt in den Ruhestand verwendet werden können,
+
 2.  
-im gehobenen Dienst
+im mittleren Dienst in allen übrigen Laufbahnen
 
 a)  
 <table>
 <tbody>
 <tr class="odd">
 <td>in der Besoldungs-<br />
-gruppe A 11</td>
-<td>30 Prozent,</td>
+gruppe A 8, soweit<br />
+überwiegend im Bereich<br />
+der Erstellung und Be-<br />
+treuung von Verfahren<br />
+der Informations- und<br />
+Kommunikationstechnik<br />
+verwendet</td>
+<td>50 Prozent,</td>
 </tr>
 </tbody>
 </table>
@@ -611,9 +631,9 @@ b)
 <table>
 <tbody>
 <tr class="odd">
-<td>in der Besoldungs-<br />
-gruppe A 12</td>
-<td>16 Prozent,</td>
+<td>im Übrigen in der Besol-<br />
+dungsgruppe A 8</td>
+<td>40 Prozent,</td>
 </tr>
 </tbody>
 </table>
@@ -623,13 +643,38 @@ c)
 <tbody>
 <tr class="odd">
 <td>in der Besoldungs-<br />
-gruppe A 13</td>
-<td>6 Prozent,</td>
+gruppe A 9</td>
+<td>40 Prozent,</td>
 </tr>
 </tbody>
 </table>
 
 3.  
+im gehobenen Dienst
+
+a)  
+<table>
+<tbody>
+<tr class="odd">
+<td>in der Besoldungs-<br />
+gruppe A 12</td>
+<td>40 Prozent,</td>
+</tr>
+</tbody>
+</table>
+
+b)  
+<table>
+<tbody>
+<tr class="odd">
+<td>in der Besoldungs-<br />
+gruppe A 13</td>
+<td>30 Prozent,</td>
+</tr>
+</tbody>
+</table>
+
+4.  
 im höheren Dienst
 
 a)  
@@ -637,10 +682,10 @@ a)
 <tbody>
 <tr class="odd">
 <td>in den Besoldungs-<br />
-gruppen A 15, A 16 und B 2<br />
-nach Einzelbewertung<br />
-zusammen</td>
-<td>40 Prozent,</td>
+gruppen A 15, A 16<br />
+und B 2 nach Einzel-<br />
+bewertung zusammen</td>
+<td>50 Prozent,</td>
 </tr>
 </tbody>
 </table>
@@ -652,12 +697,12 @@ b)
 <td>in den Besoldungs-<br />
 gruppen A 16 und B 2<br />
 zusammen</td>
-<td>10 Prozent.</td>
+<td>15 Prozent.</td>
 </tr>
 </tbody>
 </table>
 
-Die Prozentsätze beziehen sich auf die Gesamtzahl aller Planstellen bei einem Dienstherrn in der jeweiligen Laufbahngruppe, im höheren Dienst auf die Gesamtzahl der Planstellen in den Besoldungsgruppen A 13 bis A 16 und B 2. Die für dauernd beschäftigte Arbeitnehmer eines Dienstherrn ausgebrachten gleichwertigen Stellen können mit der Maßgabe in die Berechnungsgrundlage einbezogen werden, dass eine entsprechende Anrechnung auf die jeweiligen Stellen für Beförderungsämter erfolgt.
+Die Prozentsätze beziehen sich auf die Gesamtzahl aller Planstellen bei einem Dienstherrn in der jeweiligen Laufbahngruppe, im höheren Dienst auf die Gesamtzahl der Planstellen in den Besoldungsgruppen A 13 bis A 16 und B 2. Die für dauernd beschäftigte Arbeitnehmer eines Dienstherrn ausgebrachten gleichwertigen Stellen können mit der Maßgabe in die Berechnungsgrundlage einbezogen werden, dass eine entsprechende Anrechnung auf die jeweiligen Stellen für Beförderungsämter erfolgt. Soweit der Anteil an Beförderungsämtern gemäß der bis zum 31. Dezember 2015 geltenden Rechtslage über den in Satz 1 genannten Obergrenzen liegt, gilt dieser Anteil unverändert fort.
 
 (2) Absatz 1 gilt nicht
 
@@ -668,26 +713,26 @@ für die obersten Bundesbehörden, die Hauptverwaltung des Bundeseisenbahnvermö
 für Lehrer und pädagogisches Hilfspersonal an öffentlichen Schulen und Hochschulen,
 
 3.  
-für Lehrkräfte an verwaltungsinternen Fachhochschulen,
+für Lehrkräfte an verwaltungsinternen Hochschulen,
 
 4.  
 für Laufbahnen, in denen auf Grund des § 24 Absatz 1 das Eingangsamt einer höheren Besoldungsgruppe zugewiesen worden ist,
 
 5.  
-für Bereiche eines Dienstherrn, in denen durch Haushaltsbestimmung die Besoldungsaufwendungen höchstens auf den Betrag festgelegt sind, der sich bei Anwendung des Absatzes 1 und der Rechtsverordnungen zu Absatz 3 ergeben würde,
+für Bereiche eines Dienstherrn, in denen durch Haushaltsbestimmung die Besoldungsaufwendungen höchstens auf den Betrag festgelegt sind, der sich bei Anwendung des Absatzes 1 ergeben würde,
 
 6.  
 für die Filialen der Deutschen Bundesbank und die dem Bundesrechnungshof unmittelbar nachgeordneten Prüfungsämter, soweit dies wegen der mit den Funktionen verbundenen Anforderungen erforderlich ist.
 
-(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung zur sachgerechten Bewertung der Funktionen für die Zahl der Beförderungsämter ganz oder teilweise von Absatz 1 abweichende Obergrenzen festzulegen.
+(3) Mit Zustimmung der jeweiligen obersten Bundesbehörde, des Bundesministeriums des Innern sowie des Bundesministeriums der Finanzen können die im jeweiligen Haushaltsplan ausgewiesenen Beförderungsämter die in Absatz 1 genannten Obergrenzen überschreiten, soweit dies wegen der mit den Aufgaben der Behörde verbundenen Anforderungen nach Maßgabe sachgerechter Bewertung erforderlich ist und ein erhebliches öffentliches Interesse besteht. Dies gilt insbesondere bei der Neueinrichtung, der Umstrukturierung oder bei Personalüberhängen von Behörden.
 
-(4) Werden in Verwaltungsbereichen bei einer Verminderung oder Verlagerung von Planstellen infolge von Rationalisierungsmaßnahmen nach sachgerechter Bewertung der Beförderungsämter die Obergrenzen gemäß den vorstehenden Absätzen und den dazu erlassenen Rechtsverordnungen überschritten, kann aus personalwirtschaftlichen Gründen die Umwandlung der die Obergrenzen überschreitenden Planstellen für einen Zeitraum von längstens fünf Jahren ausgesetzt und danach auf jede dritte freiwerdende Planstelle beschränkt werden. Dies gilt entsprechend für die Umwandlung von Planstellen, wenn die Obergrenzen nach einer Fußnote zur Bundesbesoldungsordnung A aus gleichen Gründen überschritten werden.
+(4) Werden in Verwaltungsbereichen bei einer Verminderung oder Verlagerung von Planstellen infolge von Rationalisierungsmaßnahmen nach sachgerechter Bewertung der Beförderungsämter die Obergrenzen gemäß den vorstehenden Absätzen überschritten, kann aus personalwirtschaftlichen Gründen die Umwandlung der die Obergrenzen überschreitenden Planstellen für einen Zeitraum von längstens fünf Jahren ausgesetzt und danach auf jede dritte freiwerdende Planstelle beschränkt werden. Dies gilt entsprechend für die Umwandlung von Planstellen, wenn die Obergrenzen nach einer Fußnote zur Bundesbesoldungsordnung A aus gleichen Gründen überschritten werden.
 
 ### § 27 Bemessung des Grundgehaltes
 
 (1) Das Grundgehalt wird, soweit nicht gesetzlich etwas Anderes bestimmt ist, nach Stufen bemessen. Dabei erfolgt der Aufstieg in eine nächsthöhere Stufe nach bestimmten Dienstzeiten, in denen anforderungsgerechte Leistungen erbracht wurden (Erfahrungszeiten).
 
-(2) Mit der ersten Ernennung mit Anspruch auf Dienstbezüge im Anwendungsbereich dieses Gesetzes wird ein Grundgehalt der Stufe 1 festgesetzt, soweit nicht bei Beamten nach § 28 Absatz 1 Erfahrungszeiten anerkannt werden oder bei Soldaten eine andere Bemessung des Grundgehaltes nach Absatz 4 Satz 4 erfolgt. Die Stufe wird mit Wirkung vom Ersten des Monats festgesetzt, in dem die Ernennung wirksam wird. Die Stufenfestsetzung ist dem Beamten oder Soldaten schriftlich mitzuteilen. Die Sätze 1 bis 3 gelten entsprechend für
+(2) Mit der ersten Ernennung mit Anspruch auf Dienstbezüge im Anwendungsbereich dieses Gesetzes wird ein Grundgehalt der Stufe 1 festgesetzt, soweit nicht Erfahrungszeiten nach § 28 Absatz 1 bis 3 anerkannt werden. Die Stufe wird mit Wirkung vom Ersten des Monats festgesetzt, in dem die Ernennung wirksam wird. Die Stufenfestsetzung ist dem Beamten oder Soldaten schriftlich mitzuteilen. Die Sätze 1 bis 3 gelten entsprechend für
 
 1.  
 die Versetzung, die Übernahme und den Übertritt in den Dienst des Bundes,
@@ -698,52 +743,62 @@ den Wechsel aus einem Amt der Bundesbesoldungsordnungen B, R, W oder C in ein Am
 3.  
 die Einstellung eines ehemaligen Beamten, Richters, Berufssoldaten oder Soldaten auf Zeit in ein Amt der Bundesbesoldungsordnung A.
 
-(3) Das Grundgehalt steigt nach Erfahrungszeiten von zwei Jahren in der Stufe 1, von jeweils drei Jahren in den Stufen 2 bis 4 und von jeweils vier Jahren in den Stufen 5 bis 7. Abweichend von Satz 1 beträgt die Erfahrungszeit bei Soldaten in der Stufe 2 zwei Jahre und drei Monate und bei Beamten in den Laufbahnen des einfachen Dienstes in den Stufen 5 bis 7 jeweils drei Jahre. Zeiten ohne Anspruch auf Dienstbezüge verzögern den Aufstieg um diese Zeiten, soweit in § 28 Absatz 2 nicht etwas Anderes bestimmt ist. Die Zeiten sind auf volle Monate abzurunden.
+(3) Das Grundgehalt steigt nach Erfahrungszeiten von zwei Jahren in der Stufe 1, von jeweils drei Jahren in den Stufen 2 bis 4 und von jeweils vier Jahren in den Stufen 5 bis 7. Abweichend von Satz 1 beträgt die Erfahrungszeit in den Stufen 5 bis 7 bei Beamten in den Laufbahnen des einfachen Dienstes und bei Soldaten in den Laufbahnen der Mannschaften jeweils drei Jahre. Zeiten ohne Anspruch auf Dienstbezüge verzögern den Aufstieg um diese Zeiten, soweit in § 28 Absatz 5 nicht etwas Anderes bestimmt ist. Die Zeiten sind auf volle Monate abzurunden.
 
-(4) Bei Soldaten sind für den Aufstieg von Stufe 1 nach Stufe 2 Erfahrungszeiten ab dem Ersten des Monats maßgeblich, in dem das 21. Lebensjahr vollendet wird; bei einer Ernennung nach diesem Monat werden Kinderbetreuungs- und Pflegezeiten nach § 28 Absatz 1 Satz 2 wie Erfahrungszeiten anerkannt. Steht ihnen Grundgehalt der Besoldungsgruppe A 8 oder höher zu, verlängern sich die Erfahrungszeiten nach Absatz 3 Satz 1 und 2 um jeweils zwölf Monate. Satz 2 gilt unabhängig von der Besoldungsgruppe auch ab Erreichen der Stufe 4. Bei erstmaliger Ernennung in einem höheren Dienstgrad werden zur Berücksichtigung der besonderen militärischen Personalstrukturen Stufe und verbleibende Erfahrungszeiten bis zum Aufstieg in die nächsthöhere Stufe so festgesetzt, als ob die Ernennung zum Ersten des Monats erfolgt wäre, in dem das 21. Lebensjahr vollendet wurde.
+(4) Wird festgestellt, dass die Leistungen des Beamten oder Soldaten nicht den mit dem Amt verbundenen Anforderungen entsprechen, verbleibt er in seiner bisherigen Stufe des Grundgehaltes. Die Feststellung nach Satz 1 erfolgt auf der Grundlage einer geeigneten Leistungseinschätzung. Ist die Leistungseinschätzung älter als zwölf Monate, ist ergänzend eine aktuelle Leistungseinschätzung zu erstellen. Für die Feststellung nach Satz 1 können nur Leistungen berücksichtigt werden, auf die vor der Feststellung hingewiesen wurde.
 
-(5) Wird festgestellt, dass die Leistungen des Beamten oder Soldaten nicht den mit dem Amt verbundenen Anforderungen entsprechen, verbleibt er in seiner bisherigen Stufe des Grundgehaltes. Die Feststellung nach Satz 1 erfolgt auf der Grundlage einer geeigneten Leistungseinschätzung. Ist die Leistungseinschätzung älter als zwölf Monate, ist ergänzend eine aktuelle Leistungseinschätzung zu erstellen. Für die Feststellung nach Satz 1 können nur Leistungen berücksichtigt werden, auf die vor der Feststellung hingewiesen wurde.
+(5) Wird auf der Grundlage einer weiteren Leistungseinschätzung festgestellt, dass die Leistungen des Beamten oder Soldaten wieder den mit dem Amt verbundenen Anforderungen entsprechen, erfolgt der Aufstieg in die nächsthöhere Stufe am ersten Tag des Monats, in dem diese Feststellung erfolgt. Wird in der Folgezeit festgestellt, dass der Beamte oder Soldat Leistungen erbringt, die die mit dem Amt verbundenen Anforderungen erheblich übersteigen, gilt der von dieser Feststellung erfasste Zeitraum nicht nur als laufende Erfahrungszeit, sondern wird zusätzlich so angerechnet, dass er für die Zukunft die Wirkung eines früheren Verbleibens in der Stufe entsprechend mindert oder aufhebt. Die für diese Anrechnung zu berücksichtigenden Zeiten sind auf volle Monate abzurunden. Maßgebender Zeitpunkt ist der Erste des Monats, in dem die entsprechende Feststellung erfolgt.
 
-(6) Wird auf der Grundlage einer weiteren Leistungseinschätzung festgestellt, dass die Leistungen des Beamten oder Soldaten wieder den mit dem Amt verbundenen Anforderungen entsprechen, erfolgt der Aufstieg in die nächsthöhere Stufe am ersten Tag des Monats, in dem diese Feststellung erfolgt. Wird in der Folgezeit festgestellt, dass der Beamte oder Soldat Leistungen erbringt, die die mit dem Amt verbundenen Anforderungen erheblich übersteigen, gilt der von dieser Feststellung erfasste Zeitraum nicht nur als laufende Erfahrungszeit, sondern wird zusätzlich so angerechnet, dass er für die Zukunft die Wirkung eines früheren Verbleibens in der Stufe entsprechend mindert oder aufhebt. Die für diese Anrechnung zu berücksichtigenden Zeiten sind auf volle Monate abzurunden. Maßgebender Zeitpunkt ist der Erste des Monats, in dem die entsprechende Feststellung erfolgt.
+(6) Bei dauerhaft herausragenden Leistungen kann Beamten und Soldaten der Bundesbesoldungsordnung A für den Zeitraum bis zum Erreichen der nächsten Stufe das Grundgehalt der nächsthöheren Stufe gezahlt werden (Leistungsstufe). Die Zahl der in einem Kalenderjahr bei einem Dienstherrn vergebenen Leistungsstufen darf 15 Prozent der Zahl der bei dem Dienstherrn vorhandenen Beamten und Soldaten der Bundesbesoldungsordnung A, die das Endgrundgehalt noch nicht erreicht haben, nicht übersteigen. Die Bundesregierung wird ermächtigt, nähere Regelungen durch Rechtsverordnung zu treffen. In der Rechtsverordnung kann zugelassen werden, dass bei Dienstherren mit weniger als sieben Beamten im Sinne des Satzes 2 in jedem Kalenderjahr einem Beamten die Leistungsstufe gewährt wird.
 
-(7) Bei dauerhaft herausragenden Leistungen kann Beamten und Soldaten der Bundesbesoldungsordnung A für den Zeitraum bis zum Erreichen der nächsten Stufe das Grundgehalt der nächsthöheren Stufe gezahlt werden (Leistungsstufe). Die Zahl der in einem Kalenderjahr bei einem Dienstherrn vergebenen Leistungsstufen darf 15 Prozent der Zahl der bei dem Dienstherrn vorhandenen Beamten und Soldaten der Bundesbesoldungsordnung A, die das Endgrundgehalt noch nicht erreicht haben, nicht übersteigen. Die Bundesregierung wird ermächtigt, nähere Regelungen durch Rechtsverordnung zu treffen. In der Rechtsverordnung kann zugelassen werden, dass bei Dienstherren mit weniger als sieben Beamten im Sinne des Satzes 2 in jedem Kalenderjahr einem Beamten die Leistungsstufe gewährt wird.
+(7) Die Entscheidung nach den Absätzen 4 bis 6 trifft die zuständige oberste Dienstbehörde oder die von ihr bestimmte Stelle. Sie ist dem Beamten oder Soldaten schriftlich mitzuteilen. Widerspruch, Beschwerde nach der Wehrbeschwerdeordnung und Anfechtungsklage haben keine aufschiebende Wirkung.
 
-(8) Die Entscheidung nach den Absätzen 5 bis 7 trifft die zuständige oberste Dienstbehörde oder die von ihr bestimmte Stelle. Sie ist dem Beamten oder Soldaten schriftlich mitzuteilen. Widerspruch, Beschwerde nach der Wehrbeschwerdeordnung und Anfechtungsklage haben keine aufschiebende Wirkung.
+(8) In der Probezeit nach § 11 Absatz 1 des Bundesbeamtengesetzes erfolgt das Aufsteigen in den Stufen entsprechend den in Absatz 3 genannten Zeiträumen.
 
-(9) In der Probezeit nach § 11 Absatz 1 des Bundesbeamtengesetzes erfolgt das Aufsteigen in den Stufen entsprechend den in Absatz 3 genannten Zeiträumen.
-
-(10) Der Beamte oder Soldat verbleibt in seiner bisherigen Stufe, solange er vorläufig des Dienstes enthoben ist. Führt ein Disziplinarverfahren nicht zur Entfernung aus dem Dienst oder endet das Dienstverhältnis nicht durch Entlassung auf Antrag des Beamten oder Soldaten oder infolge strafgerichtlicher Verurteilung, regelt sich das Aufsteigen im Zeitraum seiner vorläufigen Dienstenthebung nach Absatz 3 oder Absatz 4.
+(9) Der Beamte oder Soldat verbleibt in seiner bisherigen Stufe, solange er vorläufig des Dienstes enthoben ist. Führt ein Disziplinarverfahren nicht zur Entfernung aus dem Dienst oder endet das Dienstverhältnis nicht durch Entlassung auf Antrag des Beamten oder Soldaten oder infolge strafgerichtlicher Verurteilung, regelt sich das Aufsteigen im Zeitraum seiner vorläufigen Dienstenthebung nach Absatz 3.
 
 ### § 28 Berücksichtigungsfähige Zeiten
 
-(1) Bei der ersten Stufenfestsetzung werden den Beamten als Erfahrungszeiten im Sinne des § 27 Absatz 3 anerkannt:
+(1) Beamten und Soldaten werden bei der ersten Stufenfestsetzung als Erfahrungszeiten im Sinne des § 27 Absatz 3 anerkannt:
 
 1.  
-Zeiten einer gleichwertigen hauptberuflichen Tätigkeit außerhalb eines Soldatenverhältnisses, die nicht Voraussetzung für den Erwerb der Laufbahnbefähigung sind, im Dienst eines öffentlich-rechtlichen Dienstherrn (§ 29) oder im Dienst von öffentlich-rechtlichen Religionsgesellschaften und ihren Verbänden,
+Zeiten einer gleichwertigen hauptberuflichen Tätigkeit außerhalb eines Soldatenverhältnisses, die für Beamte nicht Voraussetzung für den Erwerb der Laufbahnbefähigung oder für Soldaten nicht Voraussetzung für die Einstellung mit einem Dienstgrad einer Besoldungsgruppe bis A 13 sind,
 
 2.  
-Zeiten von mindestens vier Monaten bis zu insgesamt zwei Jahren, in denen Wehrdienst, Zivildienst, Bundesfreiwilligendienst, Entwicklungsdienst oder ein freiwilliges soziales oder ökologisches Jahr geleistet wurde,
+Zeiten als Berufssoldat oder Soldat auf Zeit,
 
 3.  
-bei einem ehemaligen Berufssoldaten oder bei einem ehemaligen Soldaten auf Zeit Dienstzeiten nach der Soldatenlaufbahnverordnung; die Anerkennung erfolgt durch Übertragung der im Soldatenverhältnis erreichten Stufe und der darin zurückgelegten Erfahrungszeit; hatte der Soldat in der im Soldatenverhältnis zuletzt erreichten Stufe bereits die sich aus § 27 Absatz 3 ergebende Erfahrungszeit zurückgelegt, erfolgt die Anerkennung durch Festsetzung der nächsthöheren Stufe, und
+Zeiten von mindestens vier Monaten und insgesamt höchstens zwei Jahren, in denen Wehrdienst, soweit er nicht unter Nummer 2 fällt, Zivildienst, Bundesfreiwilligendienst, Entwicklungsdienst oder ein freiwilliges soziales oder ökologisches Jahr geleistet wurde,
 
 4.  
 Verfolgungszeiten nach dem Beruflichen Rehabilitierungsgesetz, soweit eine Erwerbstätigkeit, die einem Dienst bei einem öffentlich-rechtlichen Dienstherrn (§ 29) entspricht, nicht ausgeübt werden konnte.
 
-Erfahrungszeiten nach Satz 1 stehen gleich:
+Mit Zustimmung des Bundesministeriums des Innern kann hiervon abgewichen werden, wenn für die Zulassung zu einer Laufbahn besondere Voraussetzungen gelten. Zeiten nach Satz 1 werden durch Unterbrechungszeiten nach Absatz 5 Nummer 2 bis 5 nicht vermindert. Erfahrungszeiten nach Satz 1 stehen gleich:
 
 1.  
 Zeiten einer Kinderbetreuung von bis zu drei Jahren für jedes Kind (Kinderbetreuungszeiten),
 
 2.  
-Zeiten der tatsächlichen Pflege von nach ärztlichem Gutachten pflegebedürftigen nahen Angehörigen (Eltern, Schwiegereltern, Ehegatten, Geschwistern oder Kindern) von bis zu drei Jahren für jeden nahen Angehörigen (Pflegezeiten).
+Zeiten der tatsächlichen Pflege von Eltern, Schwiegereltern, Ehegatten, Geschwistern oder Kindern, die nach ärztlichem Gutachten pflegebedürftig sind, von bis zu drei Jahren für jeden dieser Angehörigen (Pflegezeiten).
 
-Weitere hauptberufliche Zeiten, die nicht Voraussetzung für den Erwerb der Laufbahnbefähigung sind, können ganz oder teilweise anerkannt werden, soweit diese für die Verwendung förderlich sind. Mit Zustimmung des Bundesministeriums des Innern kann von den Sätzen 1 und 3 abgewichen werden, wenn für die Zulassung zu einer Laufbahn besondere Voraussetzungen gelten. Zeiten nach den Sätzen 1 und 3 werden durch Unterbrechungszeiten nach Absatz 2 Nummer 2 bis 5 nicht vermindert. Zusätzliche Qualifikationen, die nicht im Rahmen von hauptberuflichen Zeiten erworben wurden, können in besonderen Einzelfällen, insbesondere zur Deckung des Personalbedarfs, mit bis zu drei Jahren als Erfahrungszeiten im Sinne des § 27 Absatz 3 anerkannt werden. Derselbe Zeitraum kann nur einmal anerkannt werden. Die Entscheidung nach den Sätzen 3 und 6 trifft die oberste Dienstbehörde oder die von ihr bestimmte Stelle. Die Zeiten nach den Sätzen 1 bis 3 werden auf volle Monate aufgerundet.
+(2) Beamten können weitere hauptberufliche Zeiten, die nicht Voraussetzung für den Erwerb der Laufbahnbefähigung sind, ganz oder teilweise anerkannt werden, soweit diese für die Verwendung förderlich sind. Wird für die Einstellung ein mit einem Master abgeschlossenes Hochschulstudium oder ein gleichwertiger Abschluss vorausgesetzt, sind Beamten dafür zwei Jahre als Erfahrungszeit anzuerkennen. Zusätzliche Qualifikationen, die nicht im Rahmen von hauptberuflichen Zeiten erworben wurden, können Beamten in besonderen Einzelfällen, insbesondere zur Deckung des Personalbedarfs, mit bis zu drei Jahren als Erfahrungszeit im Sinne des § 27 Absatz 3 anerkannt werden. Die Entscheidungen nach den Sätzen 1 bis 3 trifft die oberste Dienstbehörde oder die von ihr bestimmte Stelle. Absatz 1 Satz 2 und 3 gilt entsprechend.
 
-(2) Abweichend von § 27 Absatz 3 Satz 3 wird der Aufstieg in den Stufen durch folgende Zeiten nicht verzögert:
+(3) Werden Soldaten auf Grund ihrer beruflichen Qualifikation mit einem höheren Dienstgrad eingestellt, können entsprechend den jeweiligen Einstellungsvoraussetzungen als Erfahrungszeiten anerkannt werden:
 
 1.  
-Kinderbetreuungs- und Pflegezeiten nach Absatz 1 Satz 2,
+in der Laufbahngruppe der Unteroffiziere für die Einstellung mit einem Dienstgrad einer Besoldungsgruppe bis A 7 höchstens vier Jahre und
+
+2.  
+in der Laufbahngruppe der Offiziere für die Einstellung mit einem Dienstgrad einer Besoldungsgruppe bis A 13 höchstens sechs Jahre.
+
+Im Übrigen können hauptberufliche Zeiten ganz oder teilweise als Erfahrungszeiten anerkannt werden, soweit diese für die Verwendung förderlich sind. Absatz 2 Satz 3 gilt entsprechend.
+
+(4) Derselbe Zeitraum kann nur einmal anerkannt werden. Die Zeiten nach den Absätzen 1 bis 3 sind zu addieren und danach auf volle Monate aufzurunden.
+
+(5) Abweichend von § 27 Absatz 3 Satz 3 wird der Aufstieg in den Stufen durch folgende Zeiten nicht verzögert:
+
+1.  
+Kinderbetreuungs- und Pflegezeiten nach Absatz 1 Satz 4,
 
 2.  
 Zeiten einer Beurlaubung ohne Dienstbezüge, die nach gesetzlichen Bestimmungen dienstlichen Interessen dient; dies gilt auch, wenn durch die oberste Dienstbehörde oder die von ihr bestimmte Stelle schriftlich anerkannt ist, dass der Urlaub dienstlichen Interessen oder öffentlichen Belangen dient,
@@ -757,7 +812,7 @@ Zeiten einer Eignungsübung nach dem Eignungsübungsgesetz und
 5.  
 Zeiten, die in einem kommunalen Wahlbeamtenverhältnis erbracht wurden.
 
-(3) Zeiten, die nach § 28 Absatz 3 Nummer 1 oder 2 des Bundesbesoldungsgesetzes in der bis zum 30. Juni 2009 geltenden Fassung berücksichtigt wurden, werden auf die Zeiten nach Absatz 2 Nummer 1 angerechnet.
+(6) Zeiten, die nach § 28 Absatz 3 Nummer 1 oder 2 des Bundesbesoldungsgesetzes in der bis zum 30. Juni 2009 geltenden Fassung berücksichtigt wurden, werden auf die Zeiten nach Absatz 5 Nummer 1 angerechnet.
 
 ### § 29 Öffentlich-rechtliche Dienstherren
 
@@ -779,7 +834,7 @@ die von volksdeutschen Vertriebenen und Spätaussiedlern ausgeübte gleichartige
 
 ### § 30 Nicht zu berücksichtigende Dienstzeiten
 
-(1) § 28 Absatz 1 gilt nicht für Zeiten einer Tätigkeit für das Ministerium für Staatssicherheit oder das Amt für Nationale Sicherheit. Dies gilt auch für Zeiten, die vor einer solchen Tätigkeit zurückgelegt worden sind. Satz 1 gilt auch für Zeiten einer Tätigkeit als Angehöriger der Grenztruppen der ehemaligen Deutschen Demokratischen Republik.
+(1) § 28 Absatz 1 bis 3 gilt nicht für Zeiten einer Tätigkeit für das Ministerium für Staatssicherheit oder das Amt für Nationale Sicherheit. Dies gilt auch für Zeiten, die vor einer solchen Tätigkeit zurückgelegt worden sind. Satz 1 gilt auch für Zeiten einer Tätigkeit als Angehöriger der Grenztruppen der ehemaligen Deutschen Demokratischen Republik.
 
 (2) Absatz 1 Satz 1 und 2 gilt auch für Zeiten einer Tätigkeit, die auf Grund einer besonderen persönlichen Nähe zum System der ehemaligen Deutschen Demokratischen Republik übertragen war. Das Vorliegen dieser Voraussetzung wird insbesondere widerlegbar vermutet, wenn der Beamte oder Soldat
 
@@ -824,9 +879,9 @@ den Wechsel aus einem Amt der Bundesbesoldungsordnungen A, B, C oder R oder der 
 
 (4) Zeiten ohne Anspruch auf Dienstbezüge verzögern den Aufstieg in den Stufen um diese Zeiten, soweit in § 32b nicht etwas Anderes bestimmt ist. Die Zeiten sind auf volle Monate abzurunden.
 
-(5) § 27 Absatz 5, 6 und 7 Satz 1 und 2 gilt entsprechend. Die Besonderheiten der Hochschulen sind zu berücksichtigen. Die in § 33 Absatz 4 genannten Stellen werden ermächtigt, nach dem dort bestimmten Verfahren nähere Regelungen durch Rechtsverordnung zu treffen.
+(5) § 27 Absatz 4, 5 und 6 Satz 1 und 2 gilt entsprechend. Die Besonderheiten der Hochschulen sind zu berücksichtigen. Die in § 33 Absatz 4 genannten Stellen werden ermächtigt, nach dem dort bestimmten Verfahren nähere Regelungen durch Rechtsverordnung zu treffen.
 
-(6) Die Entscheidung nach Absatz 2 trifft die oberste Dienstbehörde oder die von ihr bestimmte Stelle. Die Entscheidung nach § 27 Absatz 5, 6 und 7 Satz 1 und 2 in Verbindung mit Absatz 5 Satz 1 trifft die Hochschule. Satz 2 gilt nicht für Entscheidungen, die die Hochschulleitung betreffen; mit Ausnahme der Bewertung der wissenschaftlichen Leistung trifft diese Entscheidungen die oberste Dienstbehörde. Entscheidungen nach den Sätzen 1 bis 3 sind dem Professor oder dem hauptamtlichen Mitglied der Hochschulleitung schriftlich mitzuteilen. Gegen die Entscheidung nach § 27 Absatz 5, 6 und 7 Satz 1 und 2 in Verbindung mit Absatz 5 Satz 1 haben Widerspruch und Anfechtungsklage keine aufschiebende Wirkung.
+(6) Die Entscheidung nach Absatz 2 trifft die oberste Dienstbehörde oder die von ihr bestimmte Stelle. Die Entscheidung nach § 27 Absatz 4, 5 und 6 Satz 1 und 2 in Verbindung mit Absatz 5 Satz 1 trifft die Hochschule. Satz 2 gilt nicht für Entscheidungen, die die Hochschulleitung betreffen; mit Ausnahme der Bewertung der wissenschaftlichen Leistung trifft diese Entscheidungen die oberste Dienstbehörde. Entscheidungen nach den Sätzen 1 bis 3 sind dem Professor oder dem hauptamtlichen Mitglied der Hochschulleitung schriftlich mitzuteilen. Gegen die Entscheidung nach § 27 Absatz 4, 5 und 6 Satz 1 und 2 in Verbindung mit Absatz 5 Satz 1 haben Widerspruch und Anfechtungsklage keine aufschiebende Wirkung.
 
 ### § 32b Berücksichtigungsfähige Zeiten
 
@@ -854,7 +909,7 @@ sofern die Hochschule an die Berufung von Professoren und Vertretungsprofessoren
 
 Zeiten einer hauptberuflichen wissenschaftlichen Tätigkeit an einer öffentlich geförderten in- oder ausländischen Forschungseinrichtung oder bei einer internationalen Forschungsorganisation können als Erfahrungszeiten anerkannt werden, wenn die Tätigkeit derjenigen eines in die Besoldungsgruppe W 2 oder W 3 eingestuften Professors gleichwertig ist und die Einrichtung oder Organisation an die Berufung Anforderungen stellt, die denen nach § 131 des Bundesbeamtengesetzes entsprechen. Zeiten als Juniorprofessor werden nicht anerkannt. Zeiten nach den Sätzen 1 und 2 werden durch Zeiten nach Absatz 2 nicht vermindert und werden auf volle Monate aufgerundet.
 
-(2) Abweichend von § 32a Absatz 4 wird der Aufstieg in den Stufen durch Zeiten nach § 28 Absatz 2 nicht verzögert.
+(2) Abweichend von § 32a Absatz 4 wird der Aufstieg in den Stufen durch Zeiten nach § 28 Absatz 5 nicht verzögert.
 
 ### § 33 Leistungsbezüge
 
@@ -886,7 +941,7 @@ Satz 1 gilt entsprechend für hauptberufliche Leiter von Hochschulen und Mitglie
 
 (3) Leistungsbezüge nach Absatz 1 Satz 1 Nummer 1 und 2 sind bis zur Höhe von zusammen 22 Prozent des jeweiligen Grundgehalts ruhegehaltfähig, soweit sie unbefristet gewährt und jeweils mindestens zwei Jahre bezogen worden sind; werden sie befristet gewährt, können sie bei wiederholter Vergabe für ruhegehaltfähig erklärt werden. Für Leistungsbezüge nach Absatz 1 Satz 1 Nummer 3 gilt § 15a des Beamtenversorgungsgesetzes entsprechend mit der Maßgabe, dass der Betrag der Leistungsbezüge als Unterschiedsbetrag gilt. Leistungsbezüge nach Absatz 1 Satz 1 Nummer 1 und 2 können über den Prozentsatz nach Satz 1 hinaus für ruhegehaltfähig erklärt werden. Treffen ruhegehaltfähige Leistungsbezüge nach Absatz 1 Satz 1 Nummer 1 und 2 mit solchen nach Absatz 1 Satz 1 Nummer 3 zusammen, die vor Beginn des Bemessungszeitraumes nach Satz 1 vergeben worden sind, wird nur der bei der Berechnung des Ruhegehalts für den Beamten günstigere Betrag als ruhegehaltfähiger Dienstbezug berücksichtigt.
 
-(4) Das Nähere zur Gewährung der Leistungsbezüge regeln das Bundesministerium der Verteidigung für seinen Bereich, das Bundesministerium des Innern im Einvernehmen mit den für die jeweiligen Fachbereiche zuständigen Bundesministerien für die Fachhochschule des Bundes für öffentliche Verwaltung sowie das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium des Innern für die Hochschule der Bundesagentur für Arbeit durch Rechtsverordnung; insbesondere sind Bestimmungen
+(4) Das Nähere zur Gewährung der Leistungsbezüge regeln das Bundesministerium der Verteidigung für seinen Bereich, das Bundesministerium des Innern im Einvernehmen mit den für die jeweiligen Fachbereiche zuständigen Bundesministerien für die Hochschule des Bundes für öffentliche Verwaltung sowie das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium des Innern für die Hochschule der Bundesagentur für Arbeit durch Rechtsverordnung; insbesondere sind Bestimmungen
 
 1.  
 über das Vergabeverfahren, die Zuständigkeit für die Vergabe sowie die Voraussetzungen und die Kriterien der Vergabe,
@@ -905,7 +960,7 @@ zu treffen. Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen 
 
 ### § 35 Forschungs- und Lehrzulage
 
-Das Bundesministerium der Verteidigung für seinen Bereich, das Bundesministerium des Innern im Einvernehmen mit den für die jeweiligen Fachbereiche zuständigen Bundesministerien für die Fachhochschule des Bundes für öffentliche Verwaltung sowie das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium des Innern für die Hochschule der Bundesagentur für Arbeit können durch Rechtsverordnung vorsehen, dass an Professoren, die Mittel privater Dritter für Forschungsvorhaben oder Lehrvorhaben der Hochschule einwerben und diese Vorhaben durchführen, für die Dauer des Drittmittelflusses aus diesen Mitteln eine nicht ruhegehaltfähige Zulage vergeben werden kann. Eine Zulage für die Durchführung von Lehrvorhaben darf nur vergeben werden, wenn die entsprechende Lehrtätigkeit des Professors nicht auf seine Regellehrverpflichtung angerechnet wird. Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen mit dem Bundesministerium des Innern die Befugnis nach Satz 1 auf den Vorstand der Bundesagentur für Arbeit durch Rechtsverordnung übertragen; Rechtsverordnungen, die auf Grund der Übertragung vom Vorstand der Bundesagentur für Arbeit erlassen werden, bedürfen des Einvernehmens mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium des Innern.
+Das Bundesministerium der Verteidigung für seinen Bereich, das Bundesministerium des Innern im Einvernehmen mit den für die jeweiligen Fachbereiche zuständigen Bundesministerien für die Hochschule des Bundes für öffentliche Verwaltung sowie das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium des Innern für die Hochschule der Bundesagentur für Arbeit können durch Rechtsverordnung vorsehen, dass an Professoren, die Mittel privater Dritter für Forschungsvorhaben oder Lehrvorhaben der Hochschule einwerben und diese Vorhaben durchführen, für die Dauer des Drittmittelflusses aus diesen Mitteln eine nicht ruhegehaltfähige Zulage vergeben werden kann. Eine Zulage für die Durchführung von Lehrvorhaben darf nur vergeben werden, wenn die entsprechende Lehrtätigkeit des Professors nicht auf seine Regellehrverpflichtung angerechnet wird. Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen mit dem Bundesministerium des Innern die Befugnis nach Satz 1 auf den Vorstand der Bundesagentur für Arbeit durch Rechtsverordnung übertragen; Rechtsverordnungen, die auf Grund der Übertragung vom Vorstand der Bundesagentur für Arbeit erlassen werden, bedürfen des Einvernehmens mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium des Innern.
 
 ### § 36 (weggefallen)
 
@@ -933,7 +988,7 @@ den Wechsel aus einem Amt der Bundesbesoldungsordnungen A, B, W oder C in ein Am
 3.  
 die Einstellung eines ehemaligen Beamten, Richters, Berufssoldaten oder Soldaten auf Zeit in ein Amt der Bundesbesoldungsordnung R.
 
-(3) Die §§ 28 und 30 sind entsprechend anzuwenden. Für die Verwendung förderlich im Sinne des § 28 Absatz 1 Satz 3 sind Tätigkeiten nach § 10 Absatz 2 Satz 1 Nummer 4 und 5 des Deutschen Richtergesetzes.
+(3) Die §§ 28 und 30 sind entsprechend anzuwenden. Für die Verwendung förderlich im Sinne des § 28 Absatz 2 Satz 1 sind Tätigkeiten nach § 10 Absatz 2 Satz 1 Nummer 4 und 5 des Deutschen Richtergesetzes.
 
 (4) Der Anspruch auf das Aufsteigen in den Stufen ruht für die Dauer einer vorläufigen Dienstenthebung. Führt ein Disziplinarverfahren zur Entfernung aus dem Dienst oder endet das Dienstverhältnis durch Entlassung auf Antrag des Richters oder Staatsanwaltes oder infolge strafgerichtlicher Verurteilung, so erlischt der Anspruch auch für die Zeit des Ruhens.
 
@@ -964,13 +1019,13 @@ geschiedene Beamte, Richter und Soldaten sowie Beamte, Richter und Soldaten, der
 4.  
 andere Beamte, Richter und Soldaten, die ein Kind nicht nur vorübergehend in ihre Wohnung aufgenommen haben, für das ihnen Kindergeld nach dem Einkommensteuergesetz oder nach dem Bundeskindergeldgesetz zusteht oder ohne Berücksichtigung der §§ 64 und 65 des Einkommensteuergesetzes oder der §§ 3 und 4 des Bundeskindergeldgesetzes zustehen würde, sowie andere Beamte, Richter und Soldaten, die eine Person nicht nur vorübergehend in ihre Wohnung aufgenommen haben, weil sie aus beruflichen oder gesundheitlichen Gründen ihrer Hilfe bedürfen.
 
-Als in die Wohnung aufgenommen gilt ein Kind auch dann, wenn der Beamte, Richter oder Soldat es auf seine Kosten anderweitig untergebracht hat, ohne dass dadurch die häusliche Verbindung mit ihm aufgehoben werden soll. Beanspruchen mehrere nach Satz 1 Nummer 4 Anspruchsberechtigte, Angestellte im öffentlichen Dienst oder auf Grund einer Tätigkeit im öffentlichen Dienst Versorgungsberechtigte wegen der Aufnahme einer Person oder mehrerer Personen in die gemeinsam bewohnte Wohnung einen Familienzuschlag der Stufe 1 oder eine entsprechende Leistung, wird der Betrag der Stufe 1 des für den Beamten, Richter oder Soldaten maßgebenden Familienzuschlages nach der Zahl der Berechtigten anteilig gewährt.
+Als in die Wohnung aufgenommen gilt ein Kind auch dann, wenn der Beamte, Richter oder Soldat es auf seine Kosten anderweitig untergebracht hat, ohne dass dadurch die häusliche Verbindung mit ihm aufgehoben werden soll. Beanspruchen mehrere nach Satz 1 Nummer 4 Anspruchsberechtigte, Angestellte im öffentlichen Dienst oder auf Grund einer Tätigkeit im öffentlichen Dienst Versorgungsberechtigte wegen der Aufnahme einer Person oder mehrerer Personen in die gemeinsam bewohnte Wohnung einen Familienzuschlag der Stufe 1 oder eine entsprechende Leistung, wird der Betrag der Stufe 1 des für den Beamten, Richter oder Soldaten maßgebenden Familienzuschlages nach der Zahl der Berechtigten anteilig gewährt. Satz 3 gilt entsprechend, wenn bei dauernd getrennt lebenden Eltern ein Kind in die Wohnungen beider Elternteile aufgenommen worden ist.
 
 (2) Zur Stufe 2 und den folgenden Stufen gehören die Beamten, Richter und Soldaten der Stufe 1, denen Kindergeld nach dem Einkommensteuergesetz oder nach dem Bundeskindergeldgesetz zusteht oder ohne Berücksichtigung des § 64 oder § 65 des Einkommensteuergesetzes oder des § 3 oder § 4 des Bundeskindergeldgesetzes zustehen würde. Zur Stufe 2 und den folgenden Stufen gehören auch die Beamten, Richter und Soldaten der Stufe 1, die Kinder ihres Lebenspartners in ihren Haushalt aufgenommen haben, wenn andere Beamte, Richter oder Soldaten der Stufe 1 bei sonst gleichem Sachverhalt zur Stufe 2 oder einer der folgenden Stufen gehörten. Die Stufe richtet sich nach der Anzahl der berücksichtigungsfähigen Kinder.
 
 (3) Ledige und geschiedene Beamte, Richter und Soldaten sowie Beamte, Richter und Soldaten, deren Ehe aufgehoben oder für nichtig erklärt ist, denen Kindergeld nach dem Einkommensteuergesetz oder nach dem Bundeskindergeldgesetz zusteht oder ohne Berücksichtigung des § 64 oder § 65 des Einkommensteuergesetzes oder des § 3 oder § 4 des Bundeskindergeldgesetzes zustehen würde, erhalten zusätzlich zum Grundgehalt den Unterschiedsbetrag zwischen der Stufe 1 und der Stufe des Familienzuschlages, der der Anzahl der berücksichtigungsfähigen Kinder entspricht. Dies gilt auch für Beamte, Richter und Soldaten, deren Lebenspartnerschaft aufgehoben worden ist und die Kinder ihres früheren Lebenspartners in ihren Haushalt aufgenommen haben , wenn Beamte, Richter oder Soldaten, die geschieden sind oder deren Ehe aufgehoben oder für nichtig erklärt ist, bei sonst gleichem Sachverhalt den Unterschiedsbetrag erhielten. Absatz 5 gilt entsprechend.
 
-(4) Steht der Ehegatte eines Beamten, Richters oder Soldaten als Beamter, Richter, Soldat oder Angestellter im öffentlichen Dienst oder ist er auf Grund einer Tätigkeit im öffentlichen Dienst nach beamtenrechtlichen Grundsätzen versorgungsberechtigt und stünde ihm ebenfalls der Familienzuschlag der Stufe 1 oder einer der folgenden Stufen oder eine entsprechende Leistung in Höhe von mindestens der Hälfte des Höchstbetrages der Stufe 1 des Familienzuschlages zu, so erhält der Beamte, Richter oder Soldat den Betrag der Stufe 1 des für ihn maßgebenden Familienzuschlages zur Hälfte; dies gilt auch für die Zeit, für die der Ehegatte Mutterschaftsgeld bezieht. § 6 findet auf den Betrag keine Anwendung, wenn einer der Ehegatten vollbeschäftigt oder nach beamtenrechtlichen Grundsätzen versorgungsberechtigt ist oder beide Ehegatten in Teilzeit beschäftigt sind und dabei zusammen mindestens die regelmäßige Arbeitszeit bei Vollzeitbeschäftigung erreichen.
+(4) Steht der Ehegatte eines Beamten, Richters oder Soldaten als Beamter, Richter, Soldat oder Angestellter im öffentlichen Dienst oder ist er auf Grund einer Tätigkeit im öffentlichen Dienst nach beamtenrechtlichen Grundsätzen versorgungsberechtigt und stünde ihm ebenfalls der Familienzuschlag der Stufe 1 oder einer der folgenden Stufen oder eine entsprechende Leistung in Höhe von mindestens der Hälfte der Stufe 1 des Familienzuschlages zu, so erhält der Beamte, Richter oder Soldat den Betrag der Stufe 1 des für ihn maßgebenden Familienzuschlages zur Hälfte; dies gilt auch für die Zeit, für die der Ehegatte Mutterschaftsgeld bezieht. § 6 findet auf den Betrag keine Anwendung, wenn einer der Ehegatten vollbeschäftigt oder nach beamtenrechtlichen Grundsätzen versorgungsberechtigt ist oder beide Ehegatten in Teilzeit beschäftigt sind und dabei zusammen mindestens die regelmäßige Arbeitszeit bei Vollzeitbeschäftigung erreichen.
 
 (5) Stünde neben dem Beamten, Richter oder Soldaten einer anderen Person, die im öffentlichen Dienst steht oder auf Grund einer Tätigkeit im öffentlichen Dienst nach beamtenrechtlichen Grundsätzen oder nach einer Ruhelohnordnung versorgungsberechtigt ist, der Familienzuschlag nach Stufe 2 oder einer der folgenden Stufen zu, so wird der auf das Kind entfallende Betrag des Familienzuschlages dem Beamten, Richter oder Soldaten gewährt, wenn und soweit ihm das Kindergeld nach dem Einkommensteuergesetz oder nach dem Bundeskindergeldgesetz gewährt wird oder ohne Berücksichtigung des § 65 des Einkommensteuergesetzes oder des § 4 des Bundeskindergeldgesetzes vorrangig zu gewähren wäre; dem Familienzuschlag nach Stufe 2 oder einer der folgenden Stufen stehen der Sozialzuschlag nach den Tarifverträgen für Arbeiter des öffentlichen Dienstes, eine sonstige entsprechende Leistung oder das Mutterschaftsgeld gleich. Auf das Kind entfällt derjenige Betrag, der sich aus der für die Anwendung des Einkommensteuergesetzes oder des Bundeskindergeldgesetzes maßgebenden Reihenfolge der Kinder ergibt. § 6 findet auf den Betrag keine Anwendung, wenn einer der Anspruchsberechtigten im Sinne des Satzes 1 vollbeschäftigt oder nach beamtenrechtlichen Grundsätzen versorgungsberechtigt ist oder mehrere Anspruchsberechtigte in Teilzeit beschäftigt sind und dabei zusammen mindestens die regelmäßige Arbeitszeit bei Vollzeitbeschäftigung erreichen.
 
@@ -999,11 +1054,20 @@ Abschnitt 4 Zulagen, Prämien, Zuschläge, Vergütungen
 
 ### § 42a Prämien und Zulagen für besondere Leistungen
 
-(1) Die Bundesregierung wird ermächtigt, zur Abgeltung von herausragenden besonderen Leistungen durch Rechtsverordnung die Gewährung von Leistungsprämien (Einmalzahlungen) und Leistungszulagen an Beamte und Soldaten in Besoldungsgruppen der Bundesbesoldungsordnung A zu regeln.
+(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die Gewährung von Leistungsprämien (Einmalzahlungen) und Leistungszulagen zur Abgeltung herausragender besonderer Leistungen folgender Besoldungsempfänger in Besoldungsgruppen mit aufsteigenden Gehältern zu regeln:
 
-(2) Die Gesamtzahl der in einem Kalenderjahr bei einem Dienstherrn vergebenen Leistungsprämien und Leistungszulagen darf 15 Prozent der Zahl der bei dem Dienstherrn vorhandenen Beamten und Soldaten der Bundesbesoldungsordnung A nicht übersteigen. Die Überschreitung des Prozentsatzes nach Satz 1 ist in dem Umfang zulässig, in dem von der Möglichkeit der Vergabe von Leistungsstufen nach § 27 Absatz 7 Satz 2 kein Gebrauch gemacht wird. In der Verordnung kann zugelassen werden, dass bei Dienstherren mit weniger als sieben Beamten in jedem Kalenderjahr einem Beamten eine Leistungsprämie oder eine Leistungszulage gewährt werden kann. Leistungsprämien und Leistungszulagen sind nicht ruhegehaltfähig; erneute Bewilligungen sind möglich. Die Zahlung von Leistungszulagen ist zu befristen; bei Leistungsabfall sind sie zu widerrufen. Leistungsprämien dürfen das Anfangsgrundgehalt der Besoldungsgruppe des Beamten oder Soldaten, Leistungszulagen dürfen monatlich 7 Prozent des Anfangsgrundgehaltes nicht übersteigen. Die Entscheidung über die Bewilligung trifft die zuständige oberste Dienstbehörde oder die von ihr bestimmte Stelle.
+1.  
+Beamte und Soldaten,
 
-(3) In der Verordnung sind Anrechnungs- oder Ausschlussvorschriften zu Zahlungen, die aus demselben Anlass geleistet werden, vorzusehen. In der Verordnung kann vorgesehen werden, dass Leistungsprämien und Leistungszulagen, die an mehrere Beamte oder Soldaten wegen ihrer wesentlichen Beteiligung an einer durch enges arbeitsteiliges Zusammenwirken erbrachten Leistung vergeben werden, zusammen nur als eine Leistungsprämie oder Leistungszulage im Sinne des Absatzes 2 Satz 1 gelten. Leistungsprämien und Leistungszulagen nach Satz 2 dürfen zusammen 250 Prozent des in Absatz 2 Satz 6 geregelten Umfangs nicht übersteigen; maßgeblich ist die höchste Besoldungsgruppe der an der Leistung wesentlich beteiligten Beamten oder Soldaten. Für Teilprämien und Teilzulagen, die sich nach den Sätzen 2 und 3 für die einzelnen Beamten oder Soldaten ergeben, gilt Absatz 2 Satz 6 entsprechend. Bei Übertragung eines anderen Amtes mit höherem Endgrundgehalt (Grundgehalt) oder bei Gewährung einer Amtszulage können in der Verordnung Anrechnungs- oder Ausschlussvorschriften zu Leistungszulagen vorgesehen werden.
+2.  
+Richter, die ihr Amt nicht ausüben,
+
+3.  
+Staatsanwälte.
+
+(2) Die Gesamtzahl der in einem Kalenderjahr bei einem Dienstherrn vergebenen Leistungsprämien und Leistungszulagen darf 15 Prozent der Zahl der bei dem Dienstherrn vorhandenen Besoldungsempfänger nach Absatz 1 nicht übersteigen. Die Überschreitung des Prozentsatzes nach Satz 1 ist in dem Umfang zulässig, in dem von der Möglichkeit der Vergabe von Leistungsstufen nach § 27 Absatz 6 Satz 2 kein Gebrauch gemacht wird. In der Verordnung kann zugelassen werden, dass bei Dienstherren mit weniger als sieben Besoldungsempfängern in jedem Kalenderjahr einem Besoldungsempfänger eine Leistungsprämie oder eine Leistungszulage gewährt werden kann. Leistungsprämien und Leistungszulagen sind nicht ruhegehaltfähig; erneute Bewilligungen sind möglich. Die Zahlung von Leistungszulagen ist zu befristen; bei Leistungsabfall sind sie zu widerrufen. Leistungsprämien dürfen das Anfangsgrundgehalt der Besoldungsgruppe des Besoldungsempfängers, Leistungszulagen dürfen monatlich 7 Prozent des Anfangsgrundgehaltes nicht übersteigen. Die Entscheidung über die Bewilligung trifft die zuständige oberste Dienstbehörde oder die von ihr bestimmte Stelle.
+
+(3) In der Verordnung sind Anrechnungs- oder Ausschlussvorschriften zu Zahlungen, die aus demselben Anlass geleistet werden, vorzusehen. In der Verordnung kann vorgesehen werden, dass Leistungsprämien und Leistungszulagen, die an mehrere Besoldungsempfänger wegen ihrer wesentlichen Beteiligung an einer durch enges arbeitsteiliges Zusammenwirken erbrachten Leistung vergeben werden, zusammen nur als eine Leistungsprämie oder Leistungszulage im Sinne des Absatzes 2 Satz 1 gelten. Leistungsprämien und Leistungszulagen nach Satz 2 dürfen zusammen 250 Prozent des in Absatz 2 Satz 6 geregelten Umfangs nicht übersteigen; maßgeblich ist die höchste Besoldungsgruppe der an der Leistung wesentlich beteiligten Besoldungsempfänger. Für Teilprämien und Teilzulagen, die sich nach den Sätzen 2 und 3 für die einzelnen Besoldungsempfänger ergeben, gilt Absatz 2 Satz 6 entsprechend. Bei Übertragung eines anderen Amtes mit höherem Endgrundgehalt (Grundgehalt) oder bei Gewährung einer Amtszulage können in der Verordnung Anrechnungs- oder Ausschlussvorschriften zu Leistungszulagen vorgesehen werden.
 
 (4) Bis zur Festlegung eines höheren Prozentsatzes entspricht das Vergabebudget für die jeweiligen Leistungsbezahlungsinstrumente mindestens 0,3 Prozent der Ausgaben für die Besoldung im jeweiligen Haushalt. Im Bundeshaushalt werden hiervon jährlich zentral veranschlagte Mittel in Höhe von 31 Millionen Euro zur Verfügung gestellt. Für die Ermittlung der Besoldungsausgaben wird jeweils das vorangegangene Kalenderjahr zugrunde gelegt. Das Vergabebudget ist zweckentsprechend zu verwenden und jährlich vollständig auszuzahlen.
 
@@ -1093,7 +1157,7 @@ Erfolgt der Wechsel des Dienstpostens nach Satz 1 Nummer 4 aus dienstlichen Grü
 
 (8) Die Prämien nach den Absätzen 3 und 4 werden in den Fällen des Absatzes 6 oder des Absatzes 7 nicht nebeneinander gewährt.
 
-(9) Die Wirkung der Regelungen der Absätze 1 bis 4 ist vor Ablauf des 31. Dezember 2014 zu prüfen.
+(9) (weggefallen)
 
 ### § 43b Verpflichtungsprämie für Soldaten auf Zeit
 
@@ -1143,21 +1207,52 @@ Es ist der Betrag zu belassen, der für jeden angefangenen Kalendermonat der ans
 
 (6) Bis zum 31. Dezember 2016 prüft das Bundesministerium der Verteidigung unter Beteiligung des Bundesministeriums des Innern und des Bundesministeriums der Finanzen die Anwendung und die Wirkung der Verpflichtungsprämie.
 
-### § 44 (weggefallen)
+### § 44 Personalbindungszuschlag für Soldaten
+
+(1) Ein nicht ruhegehaltfähiger Personalbindungszuschlag kann Berufssoldaten und Soldaten auf Zeit in vom Bundesministerium der Verteidigung bestimmten Verwendungsbereichen mit Personalmangel gewährt werden. Satz 1 gilt nicht für Soldaten in der Bundesbesoldungsordnung B.
+
+(2) Ein Personalmangel in einem Verwendungsbereich liegt vor, wenn die personellen Zielvorgaben, die sich aus der militärischen Personalplanung im Rahmen des Haushaltsplans ergeben, seit mindestens sechs Monaten zu nicht mehr als 90 Prozent erfüllt werden können und keine Anhaltspunkte dafür vorliegen, dass dieser Schwellenwert innerhalb der nächsten sechs Monate überschritten wird.
+
+(3) Der Zuschlag kann für höchstens 48 Monate entweder als Monatsbetrag oder als Einmalzahlung gewährt werden. Die Einmalzahlung kann in Teilbeträge aufgeteilt werden. Der Zuschlag kann einmalig erneut gewährt werden, wenn die Voraussetzungen des Absatzes 2 vorliegen. Die Höhe des Zuschlags kann für jeden Monat bis zu 20 Prozent des Grundgehaltes der Stufe 1 der jeweiligen Besoldungsgruppe betragen. Maßgeblich ist das bei der Gewährung des Zuschlags geltende Grundgehalt. § 6 Absatz 1 gilt entsprechend. Ändert sich während des Zeitraums, für den der Zuschlag gewährt wird, die individuelle Arbeitszeit, ändert sich der Zuschlag entsprechend.
+
+(4) Bei der Entscheidung über die Höhe des Zuschlags und den Zeitraum, für den er gewährt wird, sind insbesondere die für den Verwendungsbereich jeweils geforderten fachlichen Qualifikationen der Soldaten sowie die Personalgewinnungslage zu berücksichtigen.
+
+(5) Der Zuschlag wird nicht weitergezahlt
+
+1.  
+während Zeiten ohne Anspruch auf Dienstbezüge,
+
+2.  
+während eines Sonderurlaubs unter Fortzahlung der Dienstbezüge zu Beginn des dritten auf den Beginn des Sonderurlaubs folgenden Monats,
+
+3.  
+während einer Unterbrechung der Wahrnehmung des Dienstpostens bei einer Erkrankung einschließlich einer Heilkur ab dem dritten Monat, der auf den Eintritt der Unterbrechung folgt; beruht die Erkrankung einschließlich der Heilkur auf einem Dienstunfall, wird der Zuschlag weitergewährt bis zum Ende des sechsten Monats, der auf den Eintritt der Unterbrechung folgt; § 19 Absatz 2 der Erschwerniszulagenverordnung in der am 22. März 2012 geltenden Fassung gilt entsprechend,
+
+4.  
+bei einem Wechsel der Verwendung, wenn zum Zeitpunkt des Wechsels die Voraussetzungen nach Absatz 2 für die neue Verwendung nicht vorliegen,
+
+5.  
+bei Beendigung des Dienstverhältnisses.
+
+(6) Ist der Zuschlag in den Fällen des Absatzes 5 als Einmalzahlung gewährt worden, so ist er anteilig zurückzuzahlen. Von der Rückforderung kann aus Billigkeitsgründen ganz oder teilweise abgesehen werden.
+
+(7) Der Zuschlag wird nicht gewährt neben einem Personalgewinnungszuschlag nach § 43, einer Prämie nach § 43a oder einer Verpflichtungsprämie nach § 43b.
+
+(8) Entscheidungen nach den Absätzen 3 bis 6 trifft das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle.
+
+(9) Die Ausgaben für den Personalbindungszuschlag dürfen 0,3 Prozent der im jeweiligen Haushaltsplan des Dienstherrn veranschlagten jährlichen Besoldungsausgaben, zuzüglich der im Rahmen einer flexibilisierten Haushaltsführung für diesen Zweck erwirtschafteten Mittel, nicht überschreiten.
+
+(10) Das Bundesministerium der Verteidigung prüft die Wirkung des Zuschlags bis zum 31. Dezember 2018.
 
 ### § 45 Zulage für die Wahrnehmung befristeter Funktionen
 
-(1) Wird einem Beamten oder Soldaten außer in den Fällen des § 46 eine herausgehobene Funktion befristet übertragen, kann er eine Zulage zu seinen Dienstbezügen erhalten. Satz 1 gilt entsprechend für die Übertragung einer herausgehobenen Funktion, die üblicherweise nur befristet wahrgenommen wird. Die Zulage kann ab dem siebten Monat der ununterbrochenen Wahrnehmung bis zu einer Dauer von höchstens fünf Jahren gezahlt werden.
+(1) Wird einem Beamten oder Soldaten eine herausgehobene Funktion befristet übertragen, kann er eine Zulage zu seinen Dienstbezügen erhalten. Satz 1 gilt entsprechend für die Übertragung einer herausgehobenen Funktion, die üblicherweise nur befristet wahrgenommen wird. Die Zulage kann ab dem siebten Monat der ununterbrochenen Wahrnehmung bis zu einer Dauer von höchstens fünf Jahren gezahlt werden.
 
 (2) Die Zulage wird bis zur Höhe des Unterschiedsbetrages zwischen dem Grundgehalt seiner Besoldungsgruppe und dem Grundgehalt der Besoldungsgruppe, die der Wertigkeit der wahrgenommenen Funktion entspricht, höchstens jedoch der dritten folgenden Besoldungsgruppe, gewährt. Die Zulage vermindert sich bei jeder Beförderung um den jeweiligen Erhöhungsbetrag. § 13 findet keine Anwendung.
 
 (3) Die Entscheidung über die Zahlung der Zulage trifft im Rahmen haushaltsrechtlicher Bestimmungen die oberste Dienstbehörde.
 
-### § 46 Zulage für die Wahrnehmung eines höherwertigen Amtes
-
-(1) Werden einem Beamten oder Soldaten die Aufgaben eines höherwertigen Amtes vorübergehend vertretungsweise übertragen, erhält er nach 18 Monaten der ununterbrochenen Wahrnehmung dieser Aufgaben eine Zulage, wenn in diesem Zeitpunkt die haushaltsrechtlichen und laufbahnrechtlichen Voraussetzungen für die Übertragung dieses Amtes vorliegen.
-
-(2) Die Zulage wird in Höhe des Unterschiedsbetrages zwischen dem Grundgehalt seiner Besoldungsgruppe und dem Grundgehalt gewährt, der das höherwertige Amt zugeordnet ist.
+### § 46 (weggefallen)
 
 ### § 47 Zulagen für besondere Erschwernisse
 
@@ -1166,7 +1261,7 @@ Es ist der Betrag zu belassen, der für jeden angefangenen Kalendermonat der ans
 (2) Die Bundesregierung kann die Befugnis zur Regelung der Abgeltung besonderer Erschwernisse, die durch Dienst zu wechselnden Zeiten entstehen, durch Rechtsverordnung übertragen
 
 1.  
-für Beamte des Bundeseisenbahnvermögens, die der Deutsche Bahn Aktiengesellschaft oder einer nach § 2 Absatz 1 und § 3 Absatz 3 des Deutsche Bahn Gründungsgesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2386) ausgegliederten Gesellschaft zugewiesen sind, auf das Bundesministerium für Verkehr, Bau und Stadtentwicklung, das die Regelung im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium des Innern trifft, und
+für Beamte des Bundeseisenbahnvermögens, die der Deutsche Bahn Aktiengesellschaft oder einer nach § 2 Absatz 1 und § 3 Absatz 3 des Deutsche Bahn Gründungsgesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2386) ausgegliederten Gesellschaft zugewiesen sind, auf das Bundesministerium für Verkehr und digitale Infrastruktur, das die Regelung im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium des Innern trifft, und
 
 2.  
 für Beamte, die bei einem Postnachfolgeunternehmen beschäftigt sind, auf das Bundesministerium der Finanzen, das die Regelung nach Anhörung des Vorstands des Postnachfolgeunternehmens im Einvernehmen mit dem Bundesministerium des Innern trifft.
@@ -1183,15 +1278,17 @@ für Beamte, die bei einem Postnachfolgeunternehmen beschäftigt sind, auf das B
 
 (2) Für die Vergütung können Höchstsätze für die einzelnen Vollstreckungsaufträge sowie für das Kalenderjahr festgesetzt werden. Es kann bestimmt werden, inwieweit mit der Vergütung ein besonderer Aufwand des Beamten mit abgegolten ist.
 
-### § 50 (weggefallen)
+### § 50 Mehrarbeitsvergütung für Soldaten
+
+Das Bundesministerium des Innern wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Verteidigung und dem Bundesministerium der Finanzen in den in § 30c Absatz 2 des Soldatengesetzes genannten Fällen die Gewährung einer Mehrarbeitsvergütung für Soldaten zu regeln, soweit die Mehrarbeit nicht durch Dienstbefreiung ausgeglichen wird. Die Vergütung darf nur für Soldaten in Bereichen vorgesehen werden, in denen nach der Art der Dienstverrichtung eine Mehrarbeit messbar ist. Die Höhe der Vergütung ist nach dem Umfang der tatsächlich geleisteten Mehrarbeit festzusetzen. Sie ist unter Zusammenfassung von Besoldungsgruppen zu staffeln; für Teilzeitbeschäftigte können abweichende Regelungen getroffen werden.
 
 ### § 50a Vergütung für Soldaten mit besonderer zeitlicher Belastung
 
-Das Bundesministerium des Innern wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Verteidigung und dem Bundesministerium der Finanzen die Gewährung einer Vergütung für Soldaten mit Dienstbezügen nach der Bundesbesoldungsordnung A zu regeln, die mehr als 12 Stunden zusammenhängenden Dienst leisten und denen dafür keine Freistellung vom Dienst gewährt werden kann. In der Rechtsverordnung ist vorzusehen, dass sich die Vergütung erhöht, wenn mehr als 16 Stunden zusammenhängender Dienst geleistet werden und dass bei einem zusammenhängenden Dienst von mehr als 36 Stunden eine weitere Vergütung gewährt wird. Die Bemessungsgrundlage für die Vergütung und die Freistellung vom Dienst ist die tägliche Rahmendienstzeit als Bestandteil einer wöchentlichen Rahmendienstzeit. Die Vergütung wird frühestens für Dienste nach Ablauf von drei Monaten seit dem Diensteintritt gewährt.
+Das Bundesministerium des Innern wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Verteidigung und dem Bundesministerium der Finanzen in den in § 30c Absatz 4 des Soldatengesetzes genannten Fällen die Gewährung einer Vergütung für Soldaten mit Dienstbezügen nach der Bundesbesoldungsordnung A zu regeln, die mehr als 12 Stunden zusammenhängenden Dienst leisten und denen dafür keine Freistellung vom Dienst gewährt werden kann. In der Rechtsverordnung ist vorzusehen, dass sich die Vergütung erhöht, wenn mehr als 16 Stunden zusammenhängender Dienst geleistet werden, und dass bei einem zusammenhängenden Dienst von mehr als 36 Stunden eine weitere Vergütung gewährt wird. Die Bemessungsgrundlage für die Vergütung und die Freistellung vom Dienst ist die tägliche Rahmendienstzeit als Bestandteil einer wöchentlichen Rahmendienstzeit. Die Vergütung wird frühestens für Dienste nach Ablauf von drei Monaten seit dem Diensteintritt gewährt.
 
-### § 50b Vergütung für Bereitschaftsdienst und Rufbereitschaft von Sanitätsoffizieren in Bundeswehrkrankenhäusern
+### § 50b Vergütung für Bereitschaftsdienst und Rufbereitschaft im Sanitätsdienst in Bundeswehrkrankenhäusern
 
-(1) Das Bundesministerium des Innern wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Verteidigung und dem Bundesministerium der Finanzen die Gewährung einer Vergütung für Sanitätsoffiziere in Bundeswehrkrankenhäusern mit Dienstbezügen nach der Bundesbesoldungsordnung A zu regeln für Zeiten
+(1) Das Bundesministerium des Innern wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Verteidigung und dem Bundesministerium der Finanzen die Gewährung einer Vergütung für Sanitätsoffiziere, Sanitätsunteroffiziere und Sanitätsfeldwebel in Bundeswehrkrankenhäusern mit Dienstbezügen nach der Bundesbesoldungsordnung A zu regeln für Zeiten
 
 1.  
 eines Bereitschaftsdienstes außerhalb der regelmäßigen Arbeitszeit,
@@ -1229,7 +1326,7 @@ Abschnitt 5 Auslandsbesoldung
 
 (2) Der Auslandszuschlag für den Beamten, Richter oder Soldaten wird nach der Tabelle in Anlage VI.1 gezahlt. Bei der ersten neben dem Beamten, Richter oder Soldaten berücksichtigungsfähigen Person nach Absatz 4 Nr. 1 oder 3 erhöht sich der Betrag um 40 Prozent. Für alle anderen berücksichtigungsfähigen Personen wird jeweils ein Zuschlag nach der Tabelle in Anlage VI.2 gezahlt. Nimmt der Beamte, Richter oder Soldat unentgeltlich bereitgestellte Gemeinschaftsunterkunft oder -verpflegung in Anspruch, wird der Betrag auf 85 Prozent gemindert, sind beide Voraussetzungen gegeben, auf 70 Prozent. Dies gilt entsprechend, wenn eine dienstliche Verpflichtung zur Inanspruchnahme von Unterkunft oder Verpflegung besteht oder entsprechende Geldleistungen gezahlt werden.
 
-(3) Hat eine berücksichtigungsfähige Person ebenfalls Anspruch auf Auslandsdienstbezüge gegen einen inländischen öffentlich-rechtlichen Dienstherrn (§ 29 Abs. 1) oder einen Verband, dessen Mitglieder öffentlich-rechtliche Dienstherren sind, wird der Auslandszuschlag für jeden Berechtigten nach der Tabelle in Anlage VI.1 gezahlt. § 4 Abs. 2 Satz 2 und 3 ist anzuwenden. Bei ermäßigter regelmäßiger Arbeitszeit erhalten beide Berechtigte zusammen mindestens den Auslandszuschlag eines Berechtigten mit einer berücksichtigungsfähigen Person, der zustünde, wenn die von beiden geleistete Arbeitszeit von einem der Berechtigten allein geleistet würde. Für jede weitere berücksichtigungsfähige Person wird einem der Berechtigten ein Zuschlag nach Tabelle VI.2 gewährt. Die Zahlung wird an denjenigen geleistet, den die beiden bestimmen oder dem die weitere berücksichtigungsfähige Person zuzuordnen ist; ist der Empfänger danach nicht bestimmbar, erhält jeder Berechtigte die Hälfte des Zuschlags.
+(3) Hat eine berücksichtigungsfähige Person ebenfalls Anspruch auf Auslandsdienstbezüge gegen einen öffentlich-rechtlichen Dienstherrn (§ 29 Abs. 1) oder einen Verband, dessen Mitglieder öffentlich-rechtliche Dienstherren sind, wird der Auslandszuschlag für jeden Berechtigten nach der Tabelle in Anlage VI.1 gezahlt. § 4 Abs. 2 Satz 2 und 3 ist anzuwenden. Bei ermäßigter regelmäßiger Arbeitszeit erhalten beide Berechtigte zusammen mindestens den Auslandszuschlag eines Berechtigten mit einer berücksichtigungsfähigen Person, der zustünde, wenn die von beiden geleistete Arbeitszeit von einem der Berechtigten allein geleistet würde. Für jede weitere berücksichtigungsfähige Person wird einem der Berechtigten ein Zuschlag nach Tabelle VI.2 gewährt. Die Zahlung wird an denjenigen geleistet, den die beiden bestimmen oder dem die weitere berücksichtigungsfähige Person zuzuordnen ist; ist der Empfänger danach nicht bestimmbar, erhält jeder Berechtigte die Hälfte des Zuschlags.
 
 (4) Im Auslandszuschlag berücksichtigungsfähige Personen sind:
 
@@ -1237,7 +1334,7 @@ Abschnitt 5 Auslandsbesoldung
 Ehegatten, die mit dem Beamten, Richter oder Soldaten am ausländischen Dienstort eine gemeinsame Wohnung haben und sich überwiegend dort aufhalten,
 
 2.  
-Kinder, für die dem Beamten, Richter oder Soldaten Kindergeld nach den Vorschriften des Einkommensteuergesetzes zusteht oder ohne Berücksichtigung des § 63 Abs. 1 Satz 3 oder des § 65 des Einkommensteuergesetzes zustehen würde und
+Kinder, für die dem Beamten, Richter oder Soldaten Kindergeld nach den Vorschriften des Einkommensteuergesetzes zusteht oder ohne Berücksichtigung des § 63 Absatz 1 Satz 6 oder des § 65 des Einkommensteuergesetzes zustehen würde und
 
 a)  
 die sich nicht nur vorübergehend im Ausland aufhalten,
@@ -1410,24 +1507,71 @@ Abschnitt 7 (weggefallen)
 
 -
 
-Abschnitt 8 Dienstbekleidung, Heilfürsorge, Unterkunft für Soldaten und Polizeivollzugsbeamte in der Bundespolizei
-------------------------------------------------------------------------------------------------------------------
+Abschnitt 8 Dienstkleidung, Heilfürsorge, Unterkunft
+----------------------------------------------------
 
 ### 
 
-### § 69 Dienstbekleidung, Heilfürsorge, Unterkunft für Soldaten
+### § 69 Dienstkleidung und Unterkunft für Soldaten
 
-(1) Soldaten wird die Ausrüstung und die Dienstbekleidung unentgeltlich bereitgestellt. Abweichend hiervon werden Offizieren, deren Restdienstzeit am Tage ihrer Ernennung zum Offizier mehr als zwölf Monate beträgt, nur die Ausrüstung und die Dienstbekleidung, die zur Einsatz- und Arbeitsausstattung gehören, unentgeltlich bereitgestellt. Diesen Offizieren wird für die von ihnen zu beschaffende Dienstbekleidung ein einmaliger Bekleidungszuschuss und für deren besondere Abnutzung eine Entschädigung gewährt. Dieser Zuschuss kann ausgeschiedenen ehemaligen Offizieren beim Wiedereintritt in die Bundeswehr erneut gewährt werden. Berufsunteroffiziere und Unteroffiziere auf Zeit mit einer Verpflichtung auf mindestens acht Jahre, die noch mindestens vier Jahre im Dienst verbleiben, erhalten auf Antrag einen Zuschuss für die Beschaffung der Ausgehuniform; nach Ablauf von fünf Jahren kann der Zuschuss erneut gewährt werden.
+(1) Soldaten werden die Dienstkleidung und die Ausrüstung unentgeltlich bereitgestellt. Offizieren, deren Restdienstzeit am Tag ihrer Ernennung zum Offizier mehr als zwölf Monate beträgt, werden nur die Dienstkleidung, die zur Einsatz- und Arbeitsausstattung gehört, sowie die Ausrüstung unentgeltlich bereitgestellt. Diesen Offizieren wird für die von ihnen zu beschaffende Dienstkleidung ein einmaliger Bekleidungszuschuss und für deren besondere Abnutzung eine Entschädigung gewährt. Der Zuschuss kann ausgeschiedenen ehemaligen Offizieren beim Wiedereintritt in die Bundeswehr erneut gewährt werden. Nicht den Laufbahnen der Offiziere angehörende Berufssoldaten und Soldaten auf Zeit erhalten auf Antrag einen Zuschuss für die Beschaffung der Ausgehuniform, wenn sie
 
-(2) Den Soldaten wird unentgeltlich truppenärztliche Versorgung gewährt; dies gilt auch während der Zeit einer Beurlaubung nach § 28 Absatz 5 des Soldatengesetzes, sofern die Soldaten nicht Anspruch auf Familienhilfe nach § 10 des Fünften Buches Sozialgesetzbuch haben, oder während der Zeit einer Beurlaubung nach § 28 Absatz 7 des Soldatengesetzes. Hierbei erhalten Soldaten, die eine Wehrdienstbeschädigung erlitten haben, Leistungen im Rahmen der Heilbehandlung nach dem Bundesversorgungsgesetz, wenn diese günstiger sind.
+1.  
+auf mindestens acht Jahre verpflichtet sind und
 
-(3) Für Soldaten, die auf Grund dienstlicher Verpflichtung in Gemeinschaftsunterkunft wohnen, wird die Unterkunft unentgeltlich bereitgestellt.
+2.  
+noch mindestens vier Jahre im Dienst verbleiben;
 
-(4) Die allgemeinen Verwaltungsvorschriften zu den Absätzen 1 bis 3 erlässt das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern. In der allgemeinen Verwaltungsvorschrift zu Absatz 1 soll geregelt werden, dass die Zahlungen nach Absatz 1 Satz 3 und 4 an eine vom Bundesministerium der Verteidigung bestimmte Kleiderkasse geleistet werden.
+nach Ablauf von fünf Jahren kann der Zuschuss erneut gewährt werden. Die Zahlungen nach den Sätzen 3 bis 5 sollen an eine vom Bundesministerium der Verteidigung bestimmte Kleiderkasse geleistet werden.
+
+(2) Für Soldaten, die auf Grund dienstlicher Anordnung verpflichtet sind, in Gemeinschaftsunterkunft zu wohnen, wird die Unterkunft unentgeltlich bereitgestellt.
+
+(3) Die allgemeinen Verwaltungsvorschriften zu Absatz 1 erlässt das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern.
+
+### § 69a Heilfürsorge für Soldaten
+
+(1) Soldaten, die Anspruch auf Besoldung oder auf ein Ausbildungsgeld nach § 30 Absatz 2 des Soldatengesetzes haben, wird Heilfürsorge in Form der unentgeltlichen truppenärztlichen Versorgung gewährt; dies gilt auch während der Zeit einer Beurlaubung nach § 28 Absatz 5 des Soldatengesetzes, sofern die Soldaten nicht Anspruch auf Familienhilfe nach § 10 des Fünften Buches Sozialgesetzbuch haben, oder während der Zeit einer Beurlaubung nach § 28 Absatz 7 des Soldatengesetzes. Soldaten, die eine Wehrdienstbeschädigung erlitten haben, erhalten Leistungen im Rahmen der Heilbehandlung nach dem Bundesversorgungsgesetz, wenn diese für die Soldaten günstiger sind.
+
+(2) Kann der Anspruch auf unentgeltliche truppenärztliche Versorgung nicht durch medizinische Einrichtungen der Bundeswehr erfüllt werden, können auf Veranlassung von Ärzten oder Zahnärzten der Bundeswehr oder im Notfall Erbringer medizinischer Leistungen außerhalb der Bundeswehr in Anspruch genommen werden.
+
+(3) Die unentgeltliche truppenärztliche Versorgung umfasst grundsätzlich nur medizinisch notwendige und wirtschaftlich angemessene Leistungen
+
+1.  
+in Krankheitsfällen,
+
+2.  
+zur Vorbeugung gegen Krankheiten oder Behinderungen und zur medizinischen Rehabilitation,
+
+3.  
+zur Früherkennung von Krankheiten,
+
+4.  
+zur Durchführung von Schutzimpfungen und sonstigen medizinischen Prophylaxemaßnahmen sowie
+
+5.  
+bei Schwangerschaft, Entbindung und nicht rechtswidrigem Schwangerschaftsabbruch.
+
+Diese Leistungen müssen mindestens den nach dem Fünften Buch Sozialgesetzbuch zu gewährenden Leistungen entsprechen. Die besonderen Anforderungen an die Erhaltung oder Wiederherstellung der Dienst- und Verwendungsfähigkeit der Soldaten sind zu berücksichtigen.
+
+(4) Kosten für eine künstliche Befruchtung werden in entsprechender Anwendung des § 27a des Fünften Buches Sozialgesetzbuch übernommen.
+
+(5) Die unentgeltliche truppenärztliche Versorgung umfasst nicht:
+
+1.  
+medizinische Maßnahmen, die keine Heilbehandlung darstellen,
+
+2.  
+Leistungen von Heilpraktikern.
+
+(6) Bei Pflegebedürftigkeit werden ergänzend zu den Leistungen der Pflegeversicherung nach dem Elften Buch Sozialgesetzbuch Leistungen in derselben Höhe gewährt.
+
+(7) Die näheren Einzelheiten der unentgeltlichen truppenärztlichen Versorgung regelt das Bundesministerium der Verteidigung durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium der Finanzen.
+
+(+++ § 69a: Zur Anwendung vgl. § 6 Satz 2 WSG +++)
 
 ### § 70 Dienstkleidung, Heilfürsorge, Unterkunft für Polizeivollzugsbeamte der Bundespolizei
 
-(1) Für Beamte des mittleren Polizeivollzugsdienstes der Bundespolizei werden die Ausrüstung und die Dienstkleidung, für Beamte des gehobenen und des höheren Polizeivollzugsdienstes der Bundespolizei die Ausrüstung und die Dienstkleidung, soweit sie zur Einsatz- und Arbeitsausstattung gehören, unentgeltlich bereitgestellt. Den Beamten des gehobenen und des höheren Polizeivollzugsdienstes der Bundespolizei wird für die von ihnen zu beschaffende Dienstkleidung ein einmaliger Bekleidungszuschuss und für deren besondere Abnutzung eine Entschädigung gewährt. Die Sätze 1 und 2 gelten für Verwaltungsbeamte der Bundespolizei, soweit sie zum Tragen von Dienstkleidung verpflichtet werden können, entsprechend. Die Zahlungen nach den Sätzen 2 und 3 sollen an eine vom Bundesministerium des Innern bestimmte Kleiderkasse geleistet werden.
+(1) Beamten des Polizeivollzugsdienstes der Bundespolizei werden die Ausrüstung und die Dienstkleidung unentgeltlich bereitgestellt. Abweichend hiervon kann das Bundesministerium des Innern bestimmen, dass Beamte des gehobenen und des höheren Polizeivollzugsdienstes der Bundespolizei Dienstkleidung, die nicht zur Einsatz- und Arbeitsausstattung gehört, selbst zu beschaffen haben. Ihnen wird für die zu beschaffende Dienstkleidung ein einmaliger Bekleidungszuschuss und für deren besondere Abnutzung eine Entschädigung gewährt. Der Zuschuss und die Entschädigung nach Satz 3 sollen an eine vom Bundesministerium des Innern bestimmte Kleiderkasse geleistet werden. Das Nähere zu den Sätzen 2 bis 4 regelt das Bundesministerium des Innern durch allgemeine Verwaltungsvorschrift. Die Sätze 1 bis 4 gelten für Verwaltungsbeamte der Bundespolizei, soweit sie zum Tragen von Dienstkleidung verpflichtet werden, entsprechend.
 
 (2) Den Polizeivollzugsbeamten der Bundespolizei wird Heilfürsorge gewährt. Dies gilt auch
 
@@ -1450,11 +1594,9 @@ Abschnitt 9 Übergangs- und Schlussvorschriften
 
 (1) Rechtsverordnungen nach diesem Gesetz bedürfen nicht der Zustimmung des Bundesrates.
 
-(2) Allgemeine Verwaltungsvorschriften erlässt das Bundesministerium des Innern, wenn gesetzlich nichts anderes bestimmt ist. Soweit die Besoldung der Richter und Staatsanwälte berührt ist, erlässt sie das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium der Justiz. Soweit die Besoldung der Soldaten berührt ist, erlässt sie das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium der Verteidigung.
+(2) Allgemeine Verwaltungsvorschriften erlässt das Bundesministerium des Innern, wenn gesetzlich nichts anderes bestimmt ist. Soweit die Besoldung der Richter und Staatsanwälte berührt ist, erlässt sie das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz. Soweit die Besoldung der Soldaten berührt ist, erlässt sie das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium der Verteidigung.
 
-### § 72 Übergangsregelung für die nachträgliche Anerkennung von Kinderbetreuungs- und Pflegezeiten
-
-Bei einer ersten Ernennung mit Anspruch auf Dienstbezüge im Anwendungsbereich dieses Gesetzes in der Zeit vom 1. Juli 2009 bis zum 21. März 2012 ist unter Berücksichtigung von Kinderbetreuungs-und Pflegezeiten nach § 28 Absatz 1 Satz 2 auf Antrag die Stufe neu festzusetzen. Der Antrag kann bis zum Ablauf des 31. Dezember 2012 gestellt werden. Die neue Stufenfestsetzung gilt ab dem 1. März 2012.
+### § 72 (weggefallen)
 
 ### § 72a Besoldung bei begrenzter Dienstfähigkeit
 
@@ -1507,8 +1649,6 @@ Ansprüche auf Grundgehalt nach der Anlage IV sind neben Ansprüchen auf Grundge
 
 (4) Das Bundesministerium des Innern macht die nach den Absätzen 1 und 2 durch Anpassungen erhöhten Bezüge im Bundesgesetzblatt bekannt.
 
-(++++ Hinweis: Nach den Absätzen 1 und 2 durch Anpassungen erhöhte Bezüge ab 1.8.2013 vgl. Bek. 2032-26-6 v. 15.8.2012 I 1771 +++)
-
 ### § 77a Übergangsregelung aus Anlass des Professorenbesoldungsneuregelungsgesetzes
 
 (1) Professoren sowie hauptberufliche Leiter von Hochschulen und Mitglieder von Leitungsgremien an Hochschulen, die am 31. Dezember 2012 der Besoldungsgruppe W 2 oder W 3 angehört haben, werden auf der Grundlage des an diesem Tag maßgeblichen Amtes den Stufen des Grundgehaltes nach der Anlage IV in der ab 1. Januar 2013 geltenden Fassung unter Anerkennung von berücksichtigungsfähigen Zeiten nach § 32b zugeordnet. Satz 1 gilt entsprechend für Beurlaubte ohne Anspruch auf Dienstbezüge. Bei der Zuordnung sind die berücksichtigungsfähigen Zeiten zugrunde zu legen, die bei einer Beendigung der Beurlaubung am 31. Dezember 2012 anzuerkennen gewesen wären. Die Sätze 2 und 3 gelten entsprechend in den Fällen der §§ 40 und 46 des Bundesbeamtengesetzes. § 32a Absatz 6 Satz 1 und 4 gilt entsprechend.
@@ -1545,8 +1685,6 @@ der Teil der Leistungsbezüge, der am 1. Januar 2013 ruhegehaltfähig gewesen is
 (1) Für Beamte, die bei den Postnachfolgeunternehmen beschäftigt sind, sind die Beträge des Grundgehaltes nach Anlage IV, des Familienzuschlags nach Anlage V und der Amts- und Stellenzulagen nach Anlage IX mit dem Faktor 0,9524 zu multiplizieren. Die Beträge des Grundgehaltes in den Besoldungsgruppen A 2 bis A 8 sind vor der Multiplikation um 10,42 Euro zu vermindern. Es werden aber mindestens die zuletzt geltenden Beträge gezahlt.
 
 (2) Das Bundesministerium des Innern macht die Beträge nach Absatz 1 in der jeweils geltenden Fassung im Bundesgesetzblatt bekannt.
-
-Gemäß Artikel 2a Nummer 6 in Verbindung mit Artikel 17 Absatz 10 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) wird am 1. Januar 2011 in § 78 Absatz 1 Satz 1 die Zahl „0,9756“ durch die Zahl „0,9524“ ersetzt.
 
 ### § 79 Vergütung für Beamte im Einsatzdienst der Bundeswehrfeuerwehren
 
@@ -1649,11 +1787,11 @@ Polizeivollzugsbeamten der Bundespolizei, die am 1. Januar 1993 Beihilfe nach de
 
 Soweit durch das Versorgungsreformgesetz 1998 die Ruhegehaltfähigkeit von Zulagen wegfällt oder Zulagen, die der Berechtigte bezogen hat, nicht mehr zu den ruhegehaltfähigen Dienstbezügen gehören, sind für Empfänger von Dienstbezügen, die bis zum 31. Dezember 2007 in den Ruhestand treten oder versetzt werden, die bisherigen Vorschriften über die Ruhegehaltfähigkeit in der bis zum 31. Dezember 1998 geltenden Fassung weiter anzuwenden, für Empfänger von Dienstbezügen der Besoldungsgruppen A 1 bis A 9 bei einer Zurruhesetzung bis zum 31. Dezember 2010. Dies gilt nicht, wenn die Zulage nach dem 1. Januar 1999 erstmals gewährt wird.
 
-### § 82 Übergangsregelung für ehemalige Soldaten
+### § 82 Übergangsregelungen aus Anlass des Siebten Besoldungsänderungsgesetzes
 
-(1) Bei der Anerkennung von Erfahrungszeiten nach § 28 Absatz 1 Satz 1 Nummer 3 gilt bei ehemaligen Berufssoldaten und bei ehemaligen Soldaten auf Zeit, deren Dienstverhältnis als Berufssoldat oder Soldat auf Zeit vor dem 1. Juli 2009 begonnen hat, diejenige Stufe als im Soldatenverhältnis erreicht, die sich bei entsprechender Anwendung von § 27 Absatz 2 Satz 1 und 2 sowie Absatz 3 und 4 auf die gesamte Dienstzeit ergibt. Im Übrigen bleibt § 28 Absatz 1 Satz 1 Nummer 3 unberührt.
+(1) Die am 31. Dezember 2015 vorhandenen Soldaten setzen ihren Stufenaufstieg ab dem 1. Januar 2016 mit ihrer bis dahin erworbenen Stufe und der darin erbrachten Erfahrungszeit fort. Hat ein Soldat am 31. Dezember 2015 die für die jeweilige Stufe nach § 27 Absatz 3 Satz 1 erforderliche Erfahrungszeit erbracht, erreicht er am 1. Januar 2016 die jeweils nächsthöhere Erfahrungsstufe. Abweichend von Satz 1 werden die darüber hinausgehenden, in der bisherigen Stufe erbrachten Erfahrungszeiten nicht angerechnet.
 
-(2) Absatz 1 gilt auch für ehemalige Berufssoldaten und ehemalige Soldaten auf Zeit, die in der Zeit vom 1. Juli 2009 bis zum 21. März 2012 zu Beamten ernannt worden sind, es sei denn, die bei der Ernennung erfolgte Anerkennung der Dienstzeit ist günstiger. Eine neue Stufenfestsetzung gilt mit Wirkung vom 1. März 2012. Ist die Stufe nach Absatz 1 nicht günstiger als eine bei der Ernennung vor dem 22. März 2012 festgesetzte Überleitungsstufe, ist das Grundgehalt nach Anlage 1 des Besoldungsüberleitungsgesetzes zu zahlen; für den Aufstieg in die der Überleitungsstufe dazugehörige Stufe ist § 3 Absatz 2 des Besoldungsüberleitungsgesetzes entsprechend anzuwenden. § 76 Satz 2 und 3 findet keine Anwendung.
+(2) Für Soldaten, die sich am 31. Dezember 2015 in Stufe 1 oder Stufe 2 befinden, beträgt die maßgebliche Erfahrungszeit in Stufe 2 abweichend von § 27 Absatz 3 Satz 1 zwei Jahre und drei Monate.
 
 ### § 83 Übergangsregelung für Ausgleichszulagen
 
@@ -1763,11 +1901,15 @@ Den Grundamtsbezeichnungen beigefügte Zusätze bezeichnen die Funktionen, die d
 
 Ist in einer kollegial organisierten Forschungseinrichtung einem „Direktor und Professor“ in den Besoldungsgruppen B 2 oder B 3 zusätzlich zu seinen sonstigen Funktionen die Leitung der Forschungseinrichtung mit zeitlicher Begrenzung übertragen, so erhält er für die Dauer der Wahrnehmung dieser Funktionen eine Stellenzulage nach Anlage IX.
 
-**4. Zulage für Soldaten als Führer oder Ausbilder im Außendienst**
+**4. Zulage für Soldaten in der militärischen Führung oder der Ausbildung im Außendienst**
 
-(1) Soldaten erhalten, wenn sie überwiegend als Führer oder Ausbilder im Außendienst verwendet werden, eine Stellenzulage nach Anlage IX. Die Stellenzulage wird frühestens nach Ablauf von 15 Monaten seit der Einstellung des Soldaten gewährt. Die Zulage wird neben einer Stellenzulage nach den Nummern 5a, 6, 8, 9 oder 9a nur gewährt, soweit sie diese übersteigt.
+(1) Soldaten, die in Führungs- oder Ausbildungsfunktionen überwiegend im Außendienst verwendet werden, erhalten eine Stellenzulage nach Anlage IX. Die Zulage wird frühestens nach einer Dienstzeit von insgesamt 15 Monaten gewährt.
 
-(2) Die allgemeinen Verwaltungsvorschriften erlässt das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern.
+(2) Durch die Stellenzulage werden die mit dem Außendienst verbundenen Erschwernisse und Aufwendungen mit abgegolten.
+
+(3) Die Stellenzulage wird neben einer Stellenzulage nach den Nummern 5a, 6, 8, 9 oder 9a nur gewährt, soweit sie diese übersteigt.
+
+(4) Die allgemeinen Verwaltungsvorschriften erlässt das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern.
 
 **4a. Zulage für Soldaten als Kompaniefeldwebel**
 
@@ -1775,17 +1917,18 @@ Soldaten der Besoldungsgruppen A 7 bis A 9 erhalten als Kompaniefeldwebel eine S
 
 **5. Zulage für flugzeugtechnisches Personal, flugsicherungstechnisches Personal der militärischen Flugsicherung und technisches Personal des Einsatzführungsdienstes**
 
-(1) Eine Stellenzulage nach Anlage IX erhalten Soldaten und Beamte in einer Verwendung als
+(1) Eine Stellenzulage nach Anlage IX erhalten Beamte und Soldaten als erster Spezialist oder in höherwertigen Funktionen in einer Verwendung als
 
-a)  
+1.  
 flugzeugtechnisches Personal,
 
-b)  
-flugsicherungstechnisches Personal der militärischen Flugsicherung und als technisches Personal des Einsatzführungsdienstes.
+2.  
+flugsicherungstechnisches Personal der militärischen Flugsicherung und als technisches Personal des Einsatzführungsdienstes,
 
-(2) Die Stellenzulage wird Soldaten und Beamten gewährt, die als erster Spezialist oder in höherwertigen Funktionen verwendet werden.
+3.  
+hauptamtliches Personal zentraler Ausbildungseinrichtungen, das nach einer Verwendung gemäß Nummer 1 oder Nummer 2 Beamte und Soldaten für solche Verwendungen ausbildet.
 
-(3) Die Stellenzulage wird neben einer Stellenzulage nach den Nummern 4, 6, 6a oder 9a nur gewährt, soweit sie diese übersteigt.
+(2) Die Stellenzulage wird neben einer Stellenzulage nach den Nummern 4, 6, 6a oder 9a nur gewährt, soweit sie diese übersteigt.
 
 **5a. Zulage für Beamte und Soldaten im militärischen Flugsicherungsbetriebsdienst, Einsatzführungsdienst und Geoinformationsdienst der Bundeswehr**
 
@@ -1853,26 +1996,26 @@ im Flugwetterberatungsdienst oder im Wetterbeobachtungsdienst auf Flugplätzen m
 
 (1) Eine Stellenzulage nach Anlage IX erhalten Soldaten und Beamte in Besoldungsgruppen der Bundesbesoldungsordnung A, wenn sie verwendet werden
 
-a)  
+1.  
 als Luftfahrzeugführer mit der Erlaubnis zum Führen ein- oder zweisitziger strahlgetriebener Kampf- oder Schulflugzeuge oder als Waffensystemoffizier mit der Erlaubnis zum Einsatz auf zweisitzigen strahlgetriebenen Kampf- oder Schulflugzeugen,
 
-b)  
+2.  
 als Luftfahrzeugführer mit der Erlaubnis zum Führen sonstiger strahlgetriebener Flugzeuge oder sonstiger Luftfahrzeuge oder als Luftfahrzeugoperationsoffizier,
 
-c)  
+3.  
 als Steuerer mit der Erlaubnis und Berechtigung zum Führen und Bedienen unbemannter Luftfahrtgeräte, die nach Instrumentenflugregeln geführt und bedient werden müssen,
 
-d)  
+4.  
 als Flugtechniker in der Bundespolizei oder als sonstige ständige Luftfahrzeugbesatzungsangehörige in der Bundeswehr.
 
-Die Stellenzulage erhöht sich bis zum 31. Dezember 2014 um den Betrag nach Anlage IX für Soldaten der Luftwaffe, die als verantwortliche Luftfahrzeugführer mit der Berechtigung eines Kommandanten auf Flugzeugen verwendet werden, für die eine Mindestbesatzung von zwei Luftfahrzeugführern vorgeschrieben ist.
+Die Stellenzulage erhöht sich um den Betrag nach Anlage IX für Soldaten, die als verantwortliche Luftfahrzeugführer mit der Berechtigung eines Kommandanten auf Flugzeugen verwendet werden, für die eine Mindestbesatzung von zwei Luftfahrzeugführern vorgeschrieben ist. Die Erhöhung gilt bis zum 31. Dezember 2019.
 
 (2) Die zuletzt nach Absatz 1 Satz 1 gewährte Stellenzulage wird nach Beendigung der Verwendung, auch über die Besoldungsgruppe A 16 hinaus, für fünf Jahre weitergewährt, wenn der Soldat oder Beamte
 
-a)  
+1.  
 mindestens fünf Jahre in einer Tätigkeit nach Absatz 1 verwendet worden ist oder
 
-b)  
+2.  
 bei der Verwendung nach Absatz 1 einen Dienstunfall im Flugdienst oder eine durch die Besonderheiten dieser Verwendung bedingte gesundheitliche Schädigung erlitten hat, die die weitere Verwendung nach Absatz 1 ausschließen.
 
 Der Fünfjahreszeitraum verlängert sich bei Soldaten, die zur Erhaltung ihres fliegerischen Könnens verpflichtet sind, um zwei Drittel des Verpflichtungszeitraumes, höchstens jedoch um drei Jahre. Danach verringert sich die Stellenzulage auf 50 Prozent.
@@ -1881,17 +2024,17 @@ Der Fünfjahreszeitraum verlängert sich bei Soldaten, die zur Erhaltung ihres f
 
 (4) Die Stellenzulage ist für Soldaten und Beamte nach
 
-a)  
-Absatz 1 Satz 1 Buchstabe a in Höhe von 241,59 Euro,
+1.  
+Absatz 1 Satz 1 Nummer 1 in Höhe von 241,59 Euro,
 
-b)  
-Absatz 1 Satz 1 Buchstabe b in Höhe von 193,27 Euro,
+2.  
+Absatz 1 Satz 1 Nummer 2 in Höhe von 193,27 Euro,
 
-c)  
-Absatz 1 Satz 1 Buchstabe c in Höhe von 169,03 Euro,
+3.  
+Absatz 1 Satz 1 Nummer 3 in Höhe von 169,03 Euro,
 
-d)  
-Absatz 1 Satz 1 Buchstabe d in Höhe von 154,62 Euro
+4.  
+Absatz 1 Satz 1 Nummer 4 in Höhe von 154,62 Euro
 
 ruhegehaltfähig, wenn sie mindestens fünf Jahre bezogen worden ist oder das Dienstverhältnis durch Tod oder Dienstunfähigkeit infolge eines durch die Verwendung erlittenen Dienstunfalls oder einer durch die Besonderheiten dieser Verwendung bedingten gesundheitlichen Schädigung beendet worden ist.
 
@@ -1899,9 +2042,27 @@ ruhegehaltfähig, wenn sie mindestens fünf Jahre bezogen worden ist oder das Di
 
 (6) Der Erwerb der Berechtigung nach Absatz 1 Satz 2 wird durch allgemeine Verwaltungsvorschrift des Bundesministeriums der Verteidigung geregelt. Im Übrigen erlässt die oberste Dienstbehörde die allgemeinen Verwaltungsvorschriften im Einvernehmen mit dem Bundesministerium des Innern.
 
-**6a. Zulage für Beamte und Soldaten als Nachprüfer von Luftfahrtgerät**
+**6a. Zulage für Beamte und Soldaten als Nachprüfer von Luftfahrtgerät und freigabeberechtigtes Personal**
 
-Beamte und Soldaten erhalten eine Stellenzulage nach Anlage IX, wenn sie die Nachprüferlaubnis besitzen und als Nachprüfer von Luftfahrtgerät verwendet werden. Die Zulage wird nicht gewährt, wenn eine andere Prüferlaubnis die Nachprüferlaubnis lediglich einschließt. Die Stellenzulage wird neben einer Stellenzulage nach den Nummern 4, 5a oder 9a nur gewährt, soweit sie diese übersteigt.
+(1) Beamte und Soldaten erhalten eine Stellenzulage nach Anlage IX, wenn sie
+
+1.  
+die Erlaubnis als Nachprüfer von Luftfahrtgerät,
+
+2.  
+die Erlaubnis als Prüfer von Luftfahrtgerät,
+
+3.  
+die Berechtigung der Kategorie B oder Kategorie C zur Freigabe von Luftfahrzeugen oder Komponenten nach der Verordnung (EU) Nr. 1321/2014 der Kommission vom 26. November 2014 über die Aufrechterhaltung der Lufttüchtigkeit von Luftfahrzeugen und luftfahrttechnischen Erzeugnissen, Teilen und Ausrüstungen und die Erteilung von Genehmigungen für Organisationen und Personen (ABl. L 362 vom 17.12.2014, S. 1),
+
+4.  
+die Erlaubnis zur Prüfung der Lufttüchtigkeit
+
+besitzen und entsprechend der jeweiligen Qualifikation verwendet werden.
+
+(2) Die Zulage wird nicht gewährt, wenn eine andere Prüferlaubnis die Nachprüferlaubnis lediglich einschließt.
+
+(3) Die Stellenzulage wird neben einer Stellenzulage nach Nummer 4, 5a oder 9a nur gewährt, soweit sie diese übersteigt.
 
 **7. Zulage für Beamte und Soldaten bei obersten Behörden sowie bei obersten Gerichtshöfen des Bundes**
 
@@ -1917,9 +2078,9 @@ Beamte und Soldaten erhalten eine Stellenzulage nach Anlage IX, wenn sie die Nac
 
 (2) Sicherheitsdienste sind der Bundesnachrichtendienst, der Militärische Abschirmdienst, das Bundesamt für Verfassungsschutz sowie die Einrichtungen für Verfassungsschutz der Länder.
 
-**8a. Zulage für Beamte der Bundeswehr und Soldaten in der Nachrichtengewinnung durch Fernmelde- und Elektronische Aufklärung**
+**8a. Zulage für Beamte der Bundeswehr und Soldaten in der Fernmelde- und elektronischen Aufklärung oder in der satellitengestützten abbildenden Aufklärung**
 
-(1) Beamte der Bundeswehr und Soldaten erhalten, wenn sie in der Nachrichtengewinnung durch Fernmelde- und Elektronische Aufklärung verwendet werden, eine Stellenzulage nach Anlage IX. Die Zulage erhalten unter den gleichen Voraussetzungen auch Beamte auf Widerruf, die Vorbereitungsdienst leisten.
+(1) Beamte der Bundeswehr und Soldaten erhalten, wenn sie in der Fernmelde- und elektronischen Aufklärung oder in der satellitengestützten abbildenden Aufklärung verwendet werden, eine Stellenzulage nach Anlage IX. Die Zulage erhalten unter den gleichen Voraussetzungen auch Beamte auf Widerruf, die Vorbereitungsdienst leisten.
 
 (2) Durch die Stellenzulage werden die mit dem Dienst allgemein verbundenen Erschwernisse und Aufwendungen mit abgegolten.
 
@@ -1931,9 +2092,15 @@ Beamte und Soldaten erhalten eine Stellenzulage nach Anlage IX, wenn sie die Nac
 
 (2) Die Stellenzulage wird neben einer Stellenzulage nach Nummer 9 nur gewährt, soweit sie diese übersteigt.
 
+**8c. Zulage für Beamte und Soldaten bei dem Bundesamt für Migration und Flüchtlinge**
+
+(1) Beamte und Soldaten erhalten, wenn sie bei dem Bundesamt für Migration und Flüchtlinge verwendet werden, bis zum 31. Dezember 2018 eine Stellenzulage nach Anlage IX.
+
+(2) Durch die Stellenzulage werden die mit dem Dienst allgemein verbundenen Erschwernisse und Aufwendungen mit abgegolten.
+
 **9. Zulage für Beamte und Soldaten mit vollzugspolizeilichen Aufgaben**
 
-(1) Die Polizeivollzugsbeamten des Bundes, die Beamten des Steuerfahndungsdienstes, die Soldaten der Feldjägertruppe und die Beamten der Zollverwaltung, die in der Grenzabfertigung oder in einem Bereich verwendet werden, in dem gemäß Bestimmung des Bundesministeriums der Finanzen typischerweise vollzugspolizeilich geprägte Tätigkeiten wahrgenommen werden, oder die mit vollzugspolizeilichen Aufgaben betraut sind, erhalten eine Stellenzulage nach Anlage IX, soweit ihnen Dienstbezüge nach der Bundesbesoldungsordnung A zustehen. Die Zulage erhalten unter den gleichen Voraussetzungen auch Beamte auf Widerruf im Vorbereitungsdienst.
+(1) Die Polizeivollzugsbeamten des Bundes, die Soldaten der Feldjägertruppe und die Beamten der Zollverwaltung, die in der Grenzabfertigung oder in einem Bereich verwendet werden, in dem gemäß Bestimmung des Bundesministeriums der Finanzen typischerweise vollzugspolizeilich geprägte Tätigkeiten wahrgenommen werden, oder die mit vollzugspolizeilichen Aufgaben betraut sind, erhalten eine Stellenzulage nach Anlage IX, soweit ihnen Dienstbezüge nach der Bundesbesoldungsordnung A zustehen. Die Zulage erhalten unter den gleichen Voraussetzungen auch Beamte auf Widerruf im Vorbereitungsdienst.
 
 (2) Die Stellenzulage wird nicht neben einer Stellenzulage nach Nummer 8 gewährt.
 
@@ -1941,26 +2108,26 @@ Beamte und Soldaten erhalten eine Stellenzulage nach Anlage IX, wenn sie die Nac
 
 **9a. Zulage im Marinebereich**
 
-(1) Eine Stellenzulage nach Anlage IX erhalten vom Beginn des 16. Dienstmonats an Soldaten und Beamte, die im Wege der Versetzung, Kommandierung oder Abordnung
+(1) Eine Stellenzulage nach Anlage IX erhalten von Beginn des 16. Dienstmonats an Beamte und Soldaten, die im Wege der Abordnung, Versetzung oder Kommandierung verwendet werden als
 
-a)  
-als Besatzungsangehörige eines in Dienst gestellten seegehenden Schiffes oder Bootes der Marine oder im Dienst von Seestreitkräften verwendet werden,
+1.  
+Angehörige der Besatzung eines in Dienst gestellten seegehenden Schiffes der Marine oder im Dienst von Seestreitkräften,
 
-b)  
-als Besatzungsangehörige eines in Dienst gestellten U-Bootes der Marine oder im Dienst von Seestreitkräften verwendet werden,
+2.  
+Angehörige der Besatzung eines in Dienst gestellten U-Bootes der Marine oder anderer Streitkräfte,
 
-c)  
-als Kampfschwimmer oder Minentaucher mit gültigem Kampfschwimmer- oder Minentaucherschein in Kampfschwimmer- oder Minentauchereinheiten auf einer Stelle des Stellenplans verwendet werden, die eine Kampfschwimmer- oder Minentaucherausbildung voraussetzt.
+3.  
+Kampfschwimmer oder Minentaucher mit gültigem Kampfschwimmer- oder Minentaucherschein auf einer Stelle des Stellenplans, die eine Kampfschwimmer- oder Minentaucherausbildung voraussetzt.
 
-Bei gleichzeitigem Vorliegen der Voraussetzungen nach den Buchstaben a, b oder c wird nur die höhere Zulage gewährt.
+Bei gleichzeitigem Vorliegen von Voraussetzungen nach Satz 1 Nummer 1 bis 3 wird nur die höhere Zulage gewährt.
 
-(2) Eine Stellenzulage nach Anlage IX erhalten Beamte und Soldaten mit einer Verwendung
+(2) Eine Stellenzulage nach Anlage IX erhalten Beamte und Soldaten mit einer Verwendung als
 
-a)  
-als Besatzungsangehörige anderer seegehender Schiffe oder Boote, die nach Auftrag oder Einsatz überwiegend zusammenhängend mehrstündig außerhalb der Grenze der Seefahrt verwendet werden,
+1.  
+Angehörige der Besatzung anderer seegehender Schiffe, wenn die Schiffe nach Auftrag oder Einsatz überwiegend zusammenhängend mehrstündig seewärts der Grenzen der Seefahrt verwendet werden,
 
-b)  
-als Taucher für den maritimen Einsatz.
+2.  
+Taucher für den maritimen Einsatz.
 
 (3) Die Stellenzulage wird neben einer Stellenzulage nach den Nummern 6 oder 8 nur gewährt, soweit sie diese übersteigt.
 
@@ -1974,15 +2141,15 @@ als Taucher für den maritimen Einsatz.
 
 **11. Zulage für Soldaten als Rettungsmediziner oder als Gebietsärzte**
 
-(1) Eine Stellenzulage nach Anlage IX erhalten bis zum 31. Dezember 2014 Soldaten der Besoldungsgruppen A 13 bis A 16 als Sanitätsoffiziere mit der Approbation als Arzt, die
+(1) Eine Stellenzulage nach Anlage IX erhalten bis zum 31. Dezember 2019 Soldaten der Besoldungsgruppen A 13 bis A 16 als Sanitätsoffiziere mit der Approbation als Arzt, die
 
-a)  
+1.  
 über die Zusatzqualifikation Rettungsmedizin verfügen und dienstlich zur Erhaltung dieser Qualifikation verpflichtet sind, oder
 
-b)  
+2.  
 die Weiterbildung zum Gebietsarzt erfolgreich abgeschlossen haben und in diesem Fachgebiet verwendet werden.
 
-(2) Bei gleichzeitigem Vorliegen der Voraussetzungen nach Absatz 1 Buchstabe a und b wird die Stellenzulage nur einmal gewährt.
+(2) Bei gleichzeitigem Vorliegen der Voraussetzungen nach Absatz 1 Nummer 1 und 2 wird die Stellenzulage nur einmal gewährt.
 
 **12. Zulage für Beamte mit Meisterprüfung oder Abschlussprüfung als staatlich geprüfter Techniker**
 
@@ -2062,11 +2229,11 @@ Erster Hauptwachtmeister<sup>,,</sup>
 
 Hauptwart<sup>,</sup>
 
-Oberamtsmeister<sup></sup>
+Oberamtsmeister
 
 Stabsgefreiter
 
-Oberstabsgefreiter<sup>,</sup>
+Oberstabsgefreiter
 
 Unteroffizier
 
@@ -2442,7 +2609,7 @@ als wissenschaftlicher Mitarbeiter an einer Hochschule –
 
 Leitender Dekan
 
-Leitender Direktor<sup>,</sup>
+Leitender Direktor
 
 Ministerialrat
 
@@ -2503,7 +2670,7 @@ als der ständige Vertreter des Präsidenten –
 
 Direktor bei der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
 
-Direktor bei der Fachhochschule des Bundes für öffentliche Verwaltung
+Direktor bei der Hochschule des Bundes für öffentliche Verwaltung
 
 –  
 als Leiter eines großen Fachbereichs –
@@ -2538,7 +2705,7 @@ Direktor beim Bundeseisenbahnvermögen
 –  
 als Leiter einer Dienststelle –
 
-Direktor beim Evangelischen Kirchenamt der Bundeswehr
+Direktor beim Evangelischen Kirchenamt für die Bundeswehr
 
 –  
 als der ständige Vertreter des Amtsleiters –
@@ -2552,6 +2719,11 @@ Direktor beim Marinearsenal
 
 –  
 als Leiter eines Arsenalbetriebes –
+
+Direktor des Dienstleistungszentrums der Zollverwaltung
+
+ –  
+als Leiter der Dienststelle –
 
 Direktor eines Prüfungsamtes des Bundes
 
@@ -2577,6 +2749,9 @@ Vizepräsident
 –  
 als der ständige Vertreter eines in Besoldungsgruppe B 5 eingestuften Leiters einer Dienststelle oder sonstigen Einrichtung –
 
+ –  
+als der ständige Vertreter eines in Besoldungsgruppe B 5 eingestuften Leiters einer Bundespolizeidirektion –
+
 Oberst
 
 Kapitän zur See
@@ -2595,16 +2770,13 @@ Oberstveterinär
 
 Abteilungsdirektor
 
-–  
-als der ständige Vertreter des Präsidenten des Bildungs- und Wissenschaftszentrums der Bundesfinanzverwaltung –
-
-–  
-als der ständige Vertreter des Präsidenten einer Bundesfinanzdirektion –
-
-–  
+ –  
 als der ständige Vertreter des Direktors des Zentrums für Informationsverarbeitung und Informationstechnik –
 
-–  
+ –  
+als der ständige Vertreter eines Direktionspräsidenten bei der Generalzolldirektion –
+
+ –  
 als Leiter der Zentralabteilung des Bundesinstituts für Berufsbildung –
 
 Abteilungsdirektor bei der Deutschen Rentenversicherung Bund
@@ -2625,11 +2797,22 @@ Bundesbankdirektor
 
 Direktor
 
-–  
+ –  
 als Beauftragter für die Rechtsausbildung in den Streitkräften beim Zentrum Innere Führung –
 
+ –  
+als Rechtsberater beim Inspekteur einer Teilstreitkraft oder eines militärischen Organisationsbereiches –
+
+ –  
+als Rechtsberater des Befehlshabers des Einsatzführungskommandos der Bundeswehr –
+
+ –  
+als Rechtsberater des Befehlshabers des Multinational Joint Headquarters –
+
+Direktor bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation
+
 –  
-als Rechtsberater beim Inspekteur einer Teilstreitkraft oder eines militärischen Organisationsbereiches, des Befehlshabers des Einsatzführungskommandos der Bundeswehr, des Befehlshabers des Multinational Joint Headquarters –
+als stellvertretender Geschäftsführer oder Mitglied der Geschäftsführung –
 
 Direktor bei der Bundesagentur für Arbeit
 
@@ -2658,11 +2841,6 @@ Direktor bei der Führungsakademie der Bundeswehr
 –  
 als Leiter einer Fachgruppe –
 
-Direktor bei der Unfallkasse Post und Telekom
-
-–  
-als Geschäftsführer –
-
 Direktor bei der Zentrale der Bundesagentur für Arbeit
 
 –  
@@ -2673,11 +2851,6 @@ Direktor bei einem Regionalträger der gesetzlichen Rentenversicherung
 –  
 als stellvertretender Geschäftsführer oder Mitglied der Geschäftsführung, wenn der Erste Direktor in Besoldungsgruppe B 4 eingestuft ist –
 
-Direktor bei einer Wehrtechnischen Dienststelle
-
-–  
-als Leiter des Musterprüfwesens für Luftfahrtgerät der Bundeswehr –
-
 Direktor beim/bei der …
 
 –  
@@ -2687,7 +2860,7 @@ als Leiter einer Hauptabteilung oder einer gleich zu bewertenden, besonders gro�
 als Leiter einer Abteilung, Unterabteilung oder Gruppe oder als Leiter einer Sonderorganisation bei einem Amt der Bundeswehr, dessen Leiter in Besoldungsgruppe B 9 eingestuft ist –
 
 –  
-als ständiger Vertreter des Leiters der Abteilung Personalgewinnung im Bundesamt für das Personalmanagement der Bundeswehr –
+als der ständige Vertreter des Leiters der Abteilung Personalgewinnung im Bundesamt für das Personalmanagement der Bundeswehr –
 
 Direktor beim Bildungszentrum der Bundeswehr
 
@@ -2698,7 +2871,16 @@ als Leiter einer Abteilung –
 
 Direktor beim Bundesnachrichtendienst
 
+Direktor beim Luftfahrtamt der Bundeswehr
+
+–  
+als Leiter einer Abteilung –
+
 Direktor der Bundesanstalt für IT-Dienstleistungen
+
+Direktor der Bundesanstalt für Verwaltungsdienstleistungen
+
+Direktor der Bundeswehrverwaltungsstelle USA und Kanada
 
 Direktor der Schule für ABC-Abwehr und gesetzliche Schutzaufgaben der Bundeswehr
 
@@ -2722,6 +2904,9 @@ Direktor des Zentrums für Brandschutz der Bundeswehr
 Direktor des Zentrums für Informationstechnik der Bundeswehr
 
 Direktor in der Bundespolizei
+
+–  
+als Leiter des ärztlichen und sicherheitstechnischen Dienstes –
 
 –  
 als Leiter einer Abteilung des Bundespolizeipräsidiums –
@@ -2809,8 +2994,6 @@ Ministerialrat als Mitglied des Bundesrechnungshofes
 
 Mitglied der Geschäftsführung einer Regionaldirektion der Bundesagentur für Arbeit
 
-Präsident einer Bundespolizeidirektion
-
 Vizepräsident
 
 –  
@@ -2853,11 +3036,6 @@ Erster Direktor bei der Bundesanstalt für Immobilienaufgaben
 
 Erster Direktor der Unfallversicherung Bund und Bahn
 
-Erster Direktor beim Amt für Geoinformationswesen der Bundeswehr
-
-–  
-als ständiger Vertreter des Amtschefs –
-
 Erster Direktor beim Bundesinstitut für Berufsbildung
 
 –  
@@ -2866,7 +3044,7 @@ als Leiter des Forschungsbereichs und als der ständige Vertreter des Präsident
 Erster Direktor beim Zentrum für Geoinformationswesen der Bundeswehr
 
 –  
-als ständiger Vertreter des Amtschefs –
+als der ständige Vertreter des Amtschefs –
 
 Erster Direktor eines Regionalträgers der gesetzlichen Rentenversicherung
 
@@ -2932,15 +3110,13 @@ Präsident der Bundesanstalt für den Digitalfunk der Behörden und Organisation
 
 Präsident der Bundesfinanzakademie
 
-Präsident der Fachhochschule des Bundes für öffentliche Verwaltung
+Präsident der Hochschule des Bundes für öffentliche Verwaltung
 
 Präsident des Bundesamtes für Naturschutz
 
 Präsident des Bundessprachenamtes
 
-Präsident einer Bundespolizeidirektion<sup>,</sup>
-
-Präsident einer Wasser- und Schifffahrtsdirektion
+Präsident einer Bundespolizeidirektion
 
 Präsident und Professor der Bundesanstalt für Straßenwesen
 
@@ -2964,10 +3140,7 @@ Bundesdisziplinaranwalt
 
 Bundeswehrdisziplinaranwalt
 
-Direktor beim Amt für den Militärischen Abschirmdienst
-
-–  
-als der ständige Vertreter des Amtschefs –
+Direktionspräsident bei der Generalzolldirektion
 
 Direktor beim Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
 
@@ -2997,10 +3170,15 @@ als Leiter einer großen und bedeutenden Abteilung oder als Geschäftsführender
 
 Erster Direktor beim Bundesnachrichtendienst
 
+Erster Direktor beim Luftfahrtamt der Bundeswehr
+
+–  
+als der ständige Vertreter des Amtschefs –
+
 Erster Direktor beim Planungsamt der Bundeswehr
 
 –  
-als ständiger Vertreter des Amtschefs –
+als der ständige Vertreter des Amtschefs –
 
 Erster Direktor eines Regionalträgers der gesetzlichen Rentenversicherung
 
@@ -3036,27 +3214,19 @@ Präsident der Bundesanstalt Technisches Hilfswerk
 
 Präsident der Bundeszentrale für politische Bildung
 
-Präsident des Bildungs- und Wissenschaftszentrums der Bundesfinanzverwaltung
-
 Präsident des Bundesamtes für Bauwesen und Raumordnung
 
 Präsident des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe
 
-Präsident des Bundesamtes für Familie und zivilgesellschaftliche Aufgaben
-
 Präsident des Bundesamtes für Güterverkehr
 
 Präsident des Bundesamtes für Justiz
-
-Präsident des Bundesamtes für Sicherheit in der Informationstechnik
 
 Präsident des Bundesamtes für zentrale Dienste und offene Vermögensfragen und des Bundesausgleichsamtes
 
 Präsident des Bundesarchivs
 
 Präsident des Bundeseisenbahnvermögens
-
-Präsident des Bundeszentralamtes für Steuern
 
 Präsident des Deutschen Wetterdienstes
 
@@ -3065,10 +3235,6 @@ Präsident des Eisenbahn-Bundesamtes
 Präsident des Kraftfahrt-Bundesamtes
 
 Präsident des Luftfahrt-Bundesamtes
-
-Präsident des Zollkriminalamtes
-
-Präsident einer Bundesfinanzdirektion
 
 Präsident und Professor der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
 
@@ -3084,6 +3250,10 @@ Präsident und Professor des Julius Kühn-Instituts, Bundesforschungsinstitut f�
 
 Präsident und Professor des Max Rubner-Instituts, Bundesforschungsinstitut für Ernährung und Lebensmittel
 
+Vizepräsident beim Bundesamt für Migration und Flüchtlinge
+
+Vizepräsident beim Bundesamt für Verfassungsschutz
+
 Vizepräsident beim Bundeskriminalamt
 
 Vizepräsident beim Bundesnachrichtendienst
@@ -3092,9 +3262,9 @@ Vizepräsident beim Bundespolizeipräsidium
 
 Vizepräsident beim Bundesverwaltungsamt
 
-Vizepräsident des Bundesamtes für Verfassungsschutz
-
 Vizepräsident des Bundesversicherungsamtes
+
+Vizepräsident des Militärischen Abschirmdienstes
 
 Vorsitzendes Mitglied der Geschäftsführung einer Regionaldirektion der Bundesagentur für Arbeit
 
@@ -3124,15 +3294,19 @@ Präsident der Bundesakademie für Sicherheitspolitik
 
 Präsident der Bundesanstalt für Landwirtschaft und Ernährung
 
-Präsident des Amtes für den Militärischen Abschirmdienst
+Präsident der Generaldirektion Wasserstraßen und Schifffahrt
 
 Präsident des Bildungszentrums der Bundeswehr
 
+Präsident des Bundesamtes für Familie und zivilgesellschaftliche Aufgaben
+
+Präsident des Bundesamtes für Sicherheit in der Informationstechnik
+
 Präsident des Bundesamtes für Strahlenschutz
 
-Präsident des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
-
 Präsident des Bundesinstituts für Berufsbildung
+
+Präsident des Militärischen Abschirmdienstes
 
 Präsident des Planungsamtes der Bundeswehr
 
@@ -3147,6 +3321,9 @@ Präsident und Professor des Paul-Ehrlich-Instituts
 Präsident und Professor des Robert Koch-Instituts
 
 Vizepräsident
+
+–  
+der Generalzolldirektion –
 
 –  
 eines Amtes der Bundeswehr, dessen Leiter in Besoldungsgruppe B 9 eingestuft ist –
@@ -3177,9 +3354,11 @@ Präsident der Stiftung Preußischer Kulturbesitz
 
 Präsident des Bundesamtes für kerntechnische Entsorgung
 
-Präsident des Bundesamtes für Migration und Flüchtlinge
+Präsident des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
 
 Präsident des Bundeskartellamtes
+
+Präsident des Bundeszentralamtes für Steuern
 
 Präsident des Deutschen Patent- und Markenamtes
 
@@ -3202,11 +3381,15 @@ Ministerialdirektor
 –  
 bei einer obersten Bundesbehörde als Leiter einer Abteilung –
 
+Präsident der Generalzolldirektion
+
 Präsident des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr
 
 Präsident des Bundesamtes für das Personalmanagement der Bundeswehr
 
 Präsident des Bundesamtes für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr
+
+Präsident des Bundesamtes für Migration und Flüchtlinge
 
 Präsident des Bundesamtes für Verfassungsschutz
 
@@ -3252,12 +3435,13 @@ Präsident des Bundesrechnungshofes
 
 Staatssekretär
 
-Erhält eine Amtszulage nach Anlage IX.Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.Als Eingangsamt, wenn der Beamte nach Maßgabe der Laufbahnvorschriften die Laufbahnbefähigung in einer Laufbahnprüfung erworben hat oder eine abgeschlossene förderliche Berufsausbildung oder eine mindestens dreijährige Tätigkeit bei öffentlich-rechtlichen Dienstherren nachweist.Erhält eine Amtszulage nach Anlage IX.Im Justizdienst auch als Eingangsamt.Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 2 nicht zu.Erhält eine Amtszulage nach Anlage IX.Erhält eine Amtszulage nach Anlage IX.Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.Als Eingangsamt.Erhält eine Amtszulage nach Anlage IX.Erhält eine Amtszulage nach Anlage IX.Soweit nicht in der Besoldungsgruppe A 6.Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.Die Gesamtzahl der Planstellen für Oberstabsgefreite beträgt bis zu 50 Prozent der in der Besoldungsgruppe A 5 insgesamt für Mannschaftsdienstgrade ausgebrachten Planstellen.Soweit nicht in der Besoldungsgruppe A 5. Für bis zu 20 Prozent der Gesamtzahl der Planstellen des einfachen Dienstes.Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX.Als Eingangsamt.Soweit nicht in der Besoldungsgruppe A 7.Als Eingangsamt.Auch als Eingangsamt.Auch als Eingangsamt für Laufbahnen des mittleren technischen Dienstes.Soweit nicht in der Besoldungsgruppe A 6.Erhält eine Amtszulage nach Anlage IX.Erhält eine Amtszulage nach Anlage IX.Für Funktionen, die sich von denen der Besoldungsgruppe A 9 abheben, können nach Maßgabe sachgerechter Bewertung jeweils bis zu 30 Prozent der Planstellen mit einer Amtszulage nach Anlage IX ausgestattet werden.Die Gesamtzahl der Planstellen für Stabsfeldwebel/Stabsbootsmänner und Oberstabsfeldwebel/Oberstabsbootsmänner beträgt bis zu 40 Prozent der in den Besoldungsgruppen A 8 und A 9 insgesamt für Unteroffiziere ausgebrachten Planstellen.Für Funktionen, die sich von denen der Besoldungsgruppe A 9 abheben, nach Maßgabe sachgerechter Bewertung bis zu 30 Prozent der Planstellen für Unteroffiziere der Besoldungsgruppe A 9; erhält eine Amtszulage nach Anlage IX.Auch als Eingangsamt (siehe § 23 Absatz 2).Auch als Eingangsamt (siehe § 23 Absatz 2).Im Auswärtigen Dienst.Soweit nicht in der Besoldungsgruppe A 12.Soweit nicht in der Besoldungsgruppe A 13.Im Auswärtigen Dienst.Soweit nicht in der Besoldungsgruppe A 11.Für Beamte des gehobenen technischen Dienstes können für Funktionen, die sich von denen der Besoldungsgruppe A 13 abheben, nach Maßgabe sachgerechter Bewertung bis zu 20 Prozent der für technische Beamte ausgebrachten Planstellen der Besoldungsgruppe A 13 mit einer Amtszulage nach Anlage IX ausgestattet werden.Soweit nicht in den Besoldungsgruppen A 14, A 15, A 16, B 2, B 3.Soweit nicht in der Besoldungsgruppe A 12.Im Auswärtigen Dienst.Soweit nicht in der Besoldungsgruppe A 14.Mit der Befähigung für das Lehramt an Realschulen.Erhält als der ständige Vertreter eines Fachschuldirektors oder als Fachvorsteher eine Amtszulage nach Anlage IX.Als Eingangsamt.Mit der Befähigung für das Lehramt an Gymnasien oder beruflichen Schulen.Für Funktionen in der Laufbahn der Offiziere des militärfachlichen Dienstes nach Maßgabe sachgerechter Bewertung für bis zu 3 Prozent der Gesamtzahl der für Offiziere in dieser Laufbahn ausgebrachten Planstellen.Für Beamte der Rechtspflegerlaufbahn können für Funktionen der Rechtspfleger bei Gerichten und Staatsanwaltschaften, die sich von denen der Besoldungsgruppe A 13 abheben, nach Maßgabe sachgerechter Bewertung bis zu 20 Prozent der für Rechtspfleger ausgebrachten Stellen der Besoldungsgruppe A 13 mit einer Amtszulage nach Anlage IX ausgestattet werden.Soweit nicht in den Besoldungsgruppen A 13, A 15, A 16, B 2, B 3.Führt während der Verwendung als Leiter einer Botschaft oder Gesandtschaft die Amtsbezeichnung „Botschafter“ oder „Gesandter“.Soweit nicht in der Besoldungsgruppe A 15.Soweit nicht in der Besoldungsgruppe A 13.Erhält eine Amtszulage nach Anlage IX.Mit der Befähigung für das Lehramt an Realschulen.Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.Mit der Befähigung für das Lehramt an Gymnasien oder beruflichen Schulen.Soweit nicht in den Besoldungsgruppen A 16, B 3, B 6, B 9.Soweit nicht in den Besoldungsgruppen A 16, B 3, B 5, B 6, B 9.Erhält als Gruppenleiter beim Deutschen Patent- und Markenamt eine Amtszulage nach Anlage IX. Für bis zu 90 Prozent der Gesamtzahl der übrigen Prüfer beim Deutschen Patent- und Markenamt und der Prüfer beim Bundessortenamt können Planstellen der Besoldungsgruppe A 15 ausgebracht werden.Soweit nicht in den Besoldungsgruppen A 16, B 3, B 6.Soweit nicht in den Besoldungsgruppen A 13, A 14, A 16, B 2, B 3.Soweit nicht in der Besoldungsgruppe A 16.Soweit nicht in der Besoldungsgruppe A 14.Erhält eine Amtszulage nach Anlage IX.Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.Höchstens 30 Prozent der Gesamtzahl der planmäßigen Beamten in der Laufbahn der Studienräte.Auf herausgehobenen Dienstposten.Soweit nicht in den Besoldungsgruppen A 15, B 3, B 6, B 9.Soweit nicht in den Besoldungsgruppen A 15, B 3, B 5, B 6, B 9.Soweit nicht in den Besoldungsgruppen B 3, B 4.Soweit nicht in der Besoldungsgruppe B 2.Soweit nicht in den Besoldungsgruppen A 15, B 3, B 6.Soweit nicht in den Besoldungsgruppen A 13, A 14, A 15, B 2, B 3.Soweit nicht in der Besoldungsgruppe A 15.Nur in Stellen von besonderer Bedeutung.Bei der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost dürfen bei der Erstbesetzung der Fachbereichsleiter-Dienstposten fünf Ämter der Besoldungsgruppe B 2 zugeordnet werden.Für die Leiter von besonders großen und besonders bedeutenden unteren Verwaltungsbehörden sowie die Leiter von Mittelbehörden oder Oberbehörden können nach Maßgabe des Haushalts Planstellen mit einer Amtszulage nach Anlage IX ausgestattet werden. Bei der Anwendung der Obergrenzen des § 26 Absatz 1 auf die übrigen Leiter unterer Verwaltungsbehörden, Mittelbehörden oder Oberbehörden bleiben die mit einer Amtszulage ausgestatteten Planstellen unberücksichtigt. Die Zahl der mit einer Amtszulage ausgestatteten Planstellen darf 30 Prozent der Zahl der Planstellen der Besoldungsgruppe A 16 für Leiter unterer Verwaltungsbehörden, Mittelbehörden oder Oberbehörden nicht überschreiten.Soweit nicht in den Besoldungsgruppen B 2, B 3.Wenn der Amtsinhaber nicht Professor im Sinne des § 32 Satz 1 ist und soweit nicht in den Besoldungsgruppen W 2, W 3.Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.Soweit nicht in der Besoldungsgruppe B 3.Der am 1. Januar 2006 im Amt befindliche Direktor bei der Bundesmonopolverwaltung für Branntwein erhält weiterhin Dienstbezüge aus der Besoldungsgruppe B 3.Soweit nicht in der Besoldungsgruppe A 16.Soweit die Funktion nicht einem in eine höhere oder niedrigere Besoldungsgruppe eingestuften Amt zugeordnet ist.Soweit nicht in den Besoldungsgruppen A 13, A 14, A 15, A 16, B 3.Soweit nicht in den Besoldungsgruppen A 16, B 3.Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6, B 9.Soweit nicht in den Besoldungsgruppen A 15, A 16, B 5, B 6, B 9.Soweit nicht in der Besoldungsgruppe B 2.Der Amtsbezeichnung ist ein Zusatz beizufügen, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört; die Amtsinhaber beim Bundesamt für Verfassungsschutz sind berechtigt, die Amtsbezeichnung „Direktor“ zu führen.Die Amtsinhaber sind berechtigt, die Amtsbezeichnung „Direktor“ zu führen.Der am 1. Januar 2000 im Amt befindliche Stelleninhaber erhält weiterhin Dienstbezüge aus der Besoldungsgruppe B 4.Höchstens 75 Prozent der Gesamtzahl der im Bundesministerium des Innern für Leitende Polizeidirektoren in der Bundespolizei und Direktoren in der Bundespolizei ausgebrachten Planstellen.Soweit die Funktion nicht einem in eine niedrigere Besoldungsgruppe eingestuften Amt zugeordnet ist.Soweit die Funktion nicht dem Amt „Direktor und Professor“ in der Besoldungsgruppe B 2 zugeordnet ist.Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6.Soweit nicht in den Besoldungsgruppen A 13, A 14, A 15, A 16, B 2.Soweit nicht in den Besoldungsgruppen A 16, B 2.Die Zahl der Planstellen darf 75 Prozent der Gesamtzahl der für Ministerialräte ausgebrachten Planstellen nicht überschreiten.Der Leiter des Präsidialbüros des Präsidenten des Deutschen Bundestages erhält eine Stellenzulage in Höhe des Unterschiedsbetrages zwischen dem Grundgehalt der Besoldungsgruppe B 3 und dem Grundgehalt der Besoldungsgruppe B 6.Soweit nicht in den Besoldungsgruppen B 4, B 5.Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.Soweit nicht in den Besoldungsgruppen B 5, B 6, B 7.Höchstens 75 Prozent der Gesamtzahl der bei der obersten Bundesbehörde für diese Ämter ausgebrachten Planstellen.a) Im Ministerium höchstens 75 Prozent der Gesamtzahl der für diese Ämter ausgebrachten Planstellen,
-b) außerhalb des Ministeriums höchstens 21 Prozent der Gesamtzahl der für diese Dienstgrade ausgebrachten Planstellen.Soweit nicht in den Besoldungsgruppen A 16, B 3.Der am 1. Januar 2006 im Amt befindliche Präsident der Bundesmonopolverwaltung für Branntwein erhält weiterhin Dienstbezüge aus der Besoldungsgruppe B 6.Soweit nicht in den Besoldungsgruppen B 3, B 5.Wenn der Amtsinhaber nicht Professor im Sinne des § 32 Satz 1 ist und soweit nicht in den Besoldungsgruppen W 2, W 3.Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.Das Amt steht nur für den ersten Amtsinhaber zur Verfügung.Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 6, B 9.Soweit nicht in der Besoldungsgruppe B 6.Wenn der Amtsinhaber nicht Professor im Sinne des § 32 Satz 1 ist und soweit nicht in den Besoldungsgruppen W 2, W 3.Soweit nicht in den Besoldungsgruppen B 3, B 4.Der erste Stelleninhaber dieses Amtes bei der Bundespolizeidirektion in Berlin erhält Dienstbezüge aus der Besoldungsgruppe B 6, soweit ihm bisher ein Amt dieser Besoldungsgruppe übertragen war.Soweit nicht in den Besoldungsgruppen B 3, B 6, B 7.Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 9.Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 5, B 9.Soweit nicht in der Besoldungsgruppe B 5.Die Amtsinhaber sind berechtigt, die Amtsbezeichnung „Erster Direktor“ zu führen.Für die am 31. Dezember 2000 vorhandenen Ersten Direktoren einer Landesversicherungsanstalt – als Geschäftsführer der Landesversicherungsanstalten Baden und Württemberg – gelten die durch Artikel 1 Nummer 23 Buchstabe t Doppelbuchstabe bb des Sechsten Besoldungsänderungsgesetzes vom 14. Dezember 2001 (BGBl. I S. 3702) gestrichenen Ämter weiter.Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3.Soweit die Funktion nicht dem Amt des Ministerialdirektors in Besoldungsgruppe B 9 zugeordnet ist.Soweit die Funktion nicht dem Amt des Ministerialrats in Besoldungsgruppe B 3 zugeordnet ist.Soweit nicht in den Besoldungsgruppen B 3, B 5, B 7.Soweit nicht in den Besoldungsgruppen B 3, B 5, B 6.Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 6.Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 5, B 6.Soweit die Funktion nicht dem Amt des Ministerialdirigenten in Besoldungsgruppe B 6 zugeordnet ist.Erhält als Generalinspekteur der Bundeswehr eine Amtszulage nach Anlage IX.
+Erhält eine Amtszulage nach Anlage IX.Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.Als Eingangsamt, wenn der Beamte nach Maßgabe der Laufbahnvorschriften die Laufbahnbefähigung in einer Laufbahnprüfung erworben hat oder eine abgeschlossene förderliche Berufsausbildung oder eine mindestens dreijährige Tätigkeit bei öffentlich-rechtlichen Dienstherren nachweist.Erhält eine Amtszulage nach Anlage IX.Im Justizdienst auch als Eingangsamt.Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 2 nicht zu.Erhält eine Amtszulage nach Anlage IX.Erhält eine Amtszulage nach Anlage IX.Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.Als Eingangsamt.Erhält eine Amtszulage nach Anlage IX.Erhält eine Amtszulage nach Anlage IX.Soweit nicht in der Besoldungsgruppe A 6.Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX. Neben der Amtszulage steht eine Amtszulage nach der Fußnote 1 nicht zu.Soweit nicht in der Besoldungsgruppe A 5. Für bis zu 50 Prozent der Gesamtzahl der Planstellen des einfachen Dienstes.Beamte im Justizdienst erhalten eine Amtszulage nach Anlage IX.Als Eingangsamt.Soweit nicht in der Besoldungsgruppe A 7.Als Eingangsamt.Auch als Eingangsamt.Auch als Eingangsamt für Laufbahnen des mittleren technischen Dienstes.Soweit nicht in der Besoldungsgruppe A 6.Erhält eine Amtszulage nach Anlage IX.Erhält eine Amtszulage nach Anlage IX.Für Funktionen, die sich von denen der Besoldungsgruppe A 9 abheben, können nach Maßgabe sachgerechter Bewertung jeweils bis zu 30 Prozent der Planstellen mit einer Amtszulage nach Anlage IX ausgestattet werden.Die Gesamtzahl der Planstellen für Stabsfeldwebel/Stabsbootsmänner und Oberstabsfeldwebel/Oberstabsbootsmänner beträgt bis zu 50 Prozent der in den Besoldungsgruppen A 8 und A 9 insgesamt für Unteroffiziere ausgebrachten Planstellen.Für Funktionen, die sich von denen der Besoldungsgruppe A 9 abheben, nach Maßgabe sachgerechter Bewertung bis zu 30 Prozent der Planstellen für Unteroffiziere der Besoldungsgruppe A 9; erhält eine Amtszulage nach Anlage IX.Auch als Eingangsamt (siehe § 23 Absatz 2).Auch als Eingangsamt (siehe § 23 Absatz 2).Im Auswärtigen Dienst.Soweit nicht in der Besoldungsgruppe A 12.Soweit nicht in der Besoldungsgruppe A 13.Im Auswärtigen Dienst.Soweit nicht in der Besoldungsgruppe A 11.Für Beamte des gehobenen technischen Dienstes können für Funktionen, die sich von denen der Besoldungsgruppe A 13 abheben, nach Maßgabe sachgerechter Bewertung bis zu 20 Prozent der für technische Beamte ausgebrachten Planstellen der Besoldungsgruppe A 13 mit einer Amtszulage nach Anlage IX ausgestattet werden.Soweit nicht in den Besoldungsgruppen A 14, A 15, A 16, B 2, B 3.Soweit nicht in der Besoldungsgruppe A 12.Im Auswärtigen Dienst.Soweit nicht in der Besoldungsgruppe A 14.Mit der Befähigung für das Lehramt an Realschulen.Erhält als der ständige Vertreter eines Fachschuldirektors oder als Fachvorsteher eine Amtszulage nach Anlage IX.Als Eingangsamt.Mit der Befähigung für das Lehramt an Gymnasien oder beruflichen Schulen.Für Funktionen in der Laufbahn der Offiziere des militärfachlichen Dienstes nach Maßgabe sachgerechter Bewertung für bis zu 3 Prozent der Gesamtzahl der für Offiziere in dieser Laufbahn ausgebrachten Planstellen.Für Beamte der Rechtspflegerlaufbahn können für Funktionen der Rechtspfleger bei Gerichten und Staatsanwaltschaften, die sich von denen der Besoldungsgruppe A 13 abheben, nach Maßgabe sachgerechter Bewertung bis zu 20 Prozent der für Rechtspfleger ausgebrachten Stellen der Besoldungsgruppe A 13 mit einer Amtszulage nach Anlage IX ausgestattet werden.Soweit nicht in den Besoldungsgruppen A 13, A 15, A 16, B 2, B 3.Führt während der Verwendung als Leiter einer Botschaft oder Gesandtschaft die Amtsbezeichnung „Botschafter“ oder „Gesandter“.Soweit nicht in der Besoldungsgruppe A 15.Soweit nicht in der Besoldungsgruppe A 13.Erhält eine Amtszulage nach Anlage IX.Mit der Befähigung für das Lehramt an Realschulen.Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.Mit der Befähigung für das Lehramt an Gymnasien oder beruflichen Schulen.Soweit nicht in den Besoldungsgruppen A 16, B 3, B 6, B 9.Soweit nicht in den Besoldungsgruppen A 16, B 3, B 5, B 6, B 9.Erhält als Gruppenleiter beim Deutschen Patent- und Markenamt eine Amtszulage nach Anlage IX. Für bis zu 90 Prozent der Gesamtzahl der übrigen Prüfer beim Deutschen Patent- und Markenamt und der Prüfer beim Bundessortenamt können Planstellen der Besoldungsgruppe A 15 ausgebracht werden.Soweit nicht in den Besoldungsgruppen A 16, B 3, B 6.Soweit nicht in den Besoldungsgruppen A 13, A 14, A 16, B 2, B 3.Soweit nicht in der Besoldungsgruppe A 16.Soweit nicht in der Besoldungsgruppe A 14.Erhält eine Amtszulage nach Anlage IX.Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.Höchstens 30 Prozent der Gesamtzahl der planmäßigen Beamten in der Laufbahn der Studienräte.Auf herausgehobenen Dienstposten.Soweit nicht in den Besoldungsgruppen A 15, B 3, B 6, B 9.Soweit nicht in den Besoldungsgruppen A 15, B 3, B 5, B 6, B 9.Soweit nicht in den Besoldungsgruppen B 3, B 4.Soweit nicht in der Besoldungsgruppe B 2.Soweit nicht in den Besoldungsgruppen A 15, B 3, B 6.Soweit nicht in den Besoldungsgruppen A 13, A 14, A 15, B 2, B 3.Soweit nicht in der Besoldungsgruppe A 15.Nur in Stellen von besonderer Bedeutung.Für die Leiter von besonders großen und besonders bedeutenden unteren Verwaltungsbehörden sowie die Leiter von Mittelbehörden oder Oberbehörden können nach Maßgabe des Haushalts Planstellen mit einer Amtszulage nach Anlage IX ausgestattet werden. Bei der Anwendung der Obergrenzen des § 26 Absatz 1 auf die übrigen Leiter unterer Verwaltungsbehörden, Mittelbehörden oder Oberbehörden bleiben die mit einer Amtszulage ausgestatteten Planstellen unberücksichtigt. Die Zahl der mit einer Amtszulage ausgestatteten Planstellen darf 30 Prozent der Zahl der Planstellen der Besoldungsgruppe A 16 für Leiter unterer Verwaltungsbehörden, Mittelbehörden oder Oberbehörden nicht überschreiten.Soweit nicht in den Besoldungsgruppen B 2, B 3.Wenn der Amtsinhaber nicht Professor im Sinne des § 32 Satz 1 ist und soweit nicht in den Besoldungsgruppen W 2, W 3.Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.Soweit nicht in der Besoldungsgruppe B 3.Der am 1. Januar 2006 im Amt befindliche Direktor bei der Bundesmonopolverwaltung für Branntwein erhält weiterhin Dienstbezüge aus der Besoldungsgruppe B 3.Soweit nicht in der Besoldungsgruppe A 16.Soweit die Funktion nicht einem in eine höhere oder niedrigere Besoldungsgruppe eingestuften Amt zugeordnet ist.Soweit nicht in den Besoldungsgruppen A 13, A 14, A 15, A 16, B 3.Soweit nicht in den Besoldungsgruppen A 16, B 3.Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.Der Stelleninhaber erhält Dienstbezüge aus der Besoldungsgruppe B 3, soweit ihm bisher ein Amt dieser Besoldungsgruppe übertragen war.Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6, B 9.Soweit nicht in den Besoldungsgruppen A 15, A 16, B 5, B 6, B 9.Soweit nicht in der Besoldungsgruppe B 2.Der Amtsbezeichnung ist ein Zusatz beizufügen, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört; die Amtsinhaber beim Bundesamt für Verfassungsschutz sind berechtigt, die Amtsbezeichnung „Direktor“ zu führen.Die Amtsinhaber sind berechtigt, die Amtsbezeichnung „Direktor“ zu führen.Der am 1. Januar 2000 im Amt befindliche Stelleninhaber erhält weiterhin Dienstbezüge aus der Besoldungsgruppe B 4.Höchstens 75 Prozent der Gesamtzahl der im Bundesministerium des Innern für Leitende Polizeidirektoren in der Bundespolizei und Direktoren in der Bundespolizei ausgebrachten Planstellen.Soweit die Funktion nicht einem in eine niedrigere Besoldungsgruppe eingestuften Amt zugeordnet ist.Soweit die Funktion nicht dem Amt „Direktor und Professor“ in der Besoldungsgruppe B 2 zugeordnet ist.Soweit nicht in den Besoldungsgruppen A 15, A 16, B 6.Soweit nicht in den Besoldungsgruppen A 13, A 14, A 15, A 16, B 2.Soweit nicht in den Besoldungsgruppen A 16, B 2.Die Zahl der Planstellen darf 75 Prozent der Gesamtzahl der für Ministerialräte ausgebrachten Planstellen nicht überschreiten.Der Leiter des Präsidialbüros des Präsidenten des Deutschen Bundestages erhält eine Stellenzulage in Höhe des Unterschiedsbetrages zwischen dem Grundgehalt der Besoldungsgruppe B 3 und dem Grundgehalt der Besoldungsgruppe B 6.Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.Soweit nicht in den Besoldungsgruppen B 5, B 6, B 7.Höchstens 75 Prozent der Gesamtzahl der bei der obersten Bundesbehörde für diese Ämter ausgebrachten Planstellen.a) Im Ministerium höchstens 75 Prozent der Gesamtzahl der für diese Ämter ausgebrachten Planstellen,
+b) außerhalb des Ministeriums höchstens 21 Prozent der Gesamtzahl der für diese Dienstgrade ausgebrachten Planstellen.Soweit nicht in den Besoldungsgruppen A 16, B 3.Der am 1. Januar 2006 im Amt befindliche Präsident der Bundesmonopolverwaltung für Branntwein erhält weiterhin Dienstbezüge aus der Besoldungsgruppe B 6.Soweit nicht in der Besoldungsgruppe B 5.Wenn der Amtsinhaber nicht Professor im Sinne des § 32 Satz 1 ist und soweit nicht in den Besoldungsgruppen W 2, W 3.Der Amtsbezeichnung kann ein Zusatz beigefügt werden, der auf die Dienststelle oder sonstige Einrichtung hinweist, der der Amtsinhaber angehört. Der Zusatz „und Professor“ darf beigefügt werden, wenn der Leiter der Dienststelle oder sonstigen Einrichtung diesen Zusatz in der Amtsbezeichnung führt.Das Amt steht nur für den ersten Amtsinhaber zur Verfügung.Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 6, B 9.Soweit nicht in der Besoldungsgruppe B 6.Wenn der Amtsinhaber nicht Professor im Sinne des § 32 Satz 1 ist und soweit nicht in den Besoldungsgruppen W 2, W 3.Soweit nicht in der Besoldungsgruppe B 4.Soweit nicht in den Besoldungsgruppen B 3, B 6, B 7.Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 9.Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 5, B 9.Soweit nicht in der Besoldungsgruppe B 5.Die Amtsinhaber sind berechtigt, die Amtsbezeichnung „Erster Direktor“ zu führen.Für die am 31. Dezember 2000 vorhandenen Ersten Direktoren einer Landesversicherungsanstalt – als Geschäftsführer der Landesversicherungsanstalten Baden und Württemberg – gelten die durch Artikel 1 Nummer 23 Buchstabe t Doppelbuchstabe bb des Sechsten Besoldungsänderungsgesetzes vom 14. Dezember 2001 (BGBl. I S. 3702) gestrichenen Ämter weiter.Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3.Soweit die Funktion nicht dem Amt des Ministerialdirektors in Besoldungsgruppe B 9 zugeordnet ist.Soweit die Funktion nicht dem Amt des Ministerialrats in Besoldungsgruppe B 3 zugeordnet ist.Soweit nicht in den Besoldungsgruppen B 3, B 5, B 7.Soweit nicht in den Besoldungsgruppen B 3, B 5, B 6.Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 6.Soweit nicht in den Besoldungsgruppen A 15, A 16, B 3, B 5, B 6.Soweit die Funktion nicht dem Amt des Ministerialdirigenten in Besoldungsgruppe B 6 zugeordnet ist.Erhält als Generalinspekteur der Bundeswehr eine Amtszulage nach Anlage IX.
 
 ### Anlage II (zu § 32 Satz 1)Bundesbesoldungsordnung W
 
 (Fundstelle: BGBl. I 2013, 1538)
+bzgl. der einzelnen Änderungen vgl. Fußnote
 
 Vorbemerkungen
 
@@ -3283,9 +3467,6 @@ Professor als Juniorprofessor
 
 Professor
 
-–  
-an einer Fachhochschule –
-
 Universitätsprofessor
 
 Präsident der ...<sup>,,</sup>
@@ -3297,9 +3478,6 @@ Kanzler der ...<sup>,,</sup>
 **Besoldungsgruppe W 3**
 
 Professor
-
-–  
-an einer Fachhochschule –
 
 Universitätsprofessor
 
@@ -3876,9 +4054,9 @@ R 2 
 
 (+++ Hinweis: Für Beamtinnen und Beamte bei den Postnachfolgeunternehmen vgl. Bek. 2032-26-6 v. 15.8.2012 I 1771 +++)
 
-### Anlage V (zu § 39 Absatz 1 Satz 1)Gültig ab 1. März 2015
+### Anlage V (zu § 39 Absatz 1 Satz 1)Gültig ab 1. Januar 2016
 
-(Fundstelle: BGBl. I 2014, 1785)
+(Fundstelle: BGBl. I 2015, 2173)
 
 Familienzuschlag
 
@@ -3890,14 +4068,6 @@ Stufe 1
 Stufe 2
 (§ 40 Absatz 2)
 
-Besoldungsgruppen A 2 bis A 8
-
-126,70
-
-240,44
-
-Übrige Besoldungsgruppen
-
 133,04
 
 246,78
@@ -3905,10 +4075,12 @@ Besoldungsgruppen A 2 bis A 8
 Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 113,74 Euro, für das dritte und jedes weitere zu berücksichtigende Kind um 354,38 Euro.
 
 **Erhöhungsbeträge für die Besoldungsgruppen A 2 bis A 5**
+
 Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um 5,37 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
 – in den Besoldungsgruppen A 2 bis A 3 um 26,84 Euro,
 – in der Besoldungsgruppe A 4 um 21,47 Euro und
 – in der Besoldungsgruppe A 5 um 16,10 Euro.
+
 Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
 **Anrechnungsbetrag nach § 39 Absatz 2 Satz 1**
@@ -3917,8 +4089,6 @@ Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedriger
 |-----------------------------------|-------------|
 | – Besoldungsgruppen A 2 bis A 8:  | 112,10 Euro |
 | – Besoldungsgruppen A 9 bis A 12: | 119,00 Euro |
-
-(+++ Hinweis: Für Beamtinnen und Beamte bei den Postnachfolgeunternehmen vgl. Bek. 2032-26-6 v. 15.8.2012 I 1771 +++)
 
 ### Anlage VI (zu § 53 Absatz 2 Satz 1 und 3 sowie Absatz 3 Satz 1 und 4)Gültig ab 1. März 2015
 
@@ -4813,23 +4983,25 @@ A 13 oder R 1
 
 1 369,68
 
-### Anlage IX (zu den Anlagen I und III) Gültig ab 1. März 2015
+### Anlage IX (zu den Anlagen I und III)Gültig ab 1. Januar 2016
 
-(Fundstelle: BGBl. I 2015, 262 – 264)
+(Fundstelle: BGBl. I 2015, 2174 — 2176)
 
-Amtszulagen, Stellenzulagen, Zulagen
+Amtszulagen, Stellenzulagen, andere Zulagen
 
 – in der Reihenfolge der Gesetzesstellen –
 
-Dem Grunde nach geregelt in
+Dem Grunde nach
+geregelt in Anlage I
 
-Monatsbeträge
-in Euro,
+Zulagenberechtigter Personenkreis, soweit nicht bereits in Anlage I geregelt
+
+Monatsbeträge in Euro/
 Prozentsatz
 
-**Bundesbesoldungsordnungen A und B**
+Stellenzulagen
 
-Vorbemerkungen
+Vorbemerkung
 
 Nummer 3a
 
@@ -4837,131 +5009,123 @@ Nummer 3a
 
 Nummer 4
 
-53,69
+111,00
 
 Nummer 4a
 
-80,53
+112,74
 
 Nummer 5
 
-Die Zulage beträgt für
-
-Mannschaften,
-Unteroffiziere/Beamte
-der Besoldungsgruppen A 5 und A 6
+Mannschaften, Unteroffiziere/Beamte der Besoldungsgruppen A 5 und A 6
 
 37,57
 
-Unteroffiziere/Beamte
-der Besoldungsgruppen A 7 bis A 9
+Unteroffiziere/Beamte der Besoldungsgruppen A 7 bis A 9
 
 53,69
 
-Offiziere/Beamte des gehobenen
-und höheren Dienstes
+Offiziere/Beamte des gehobenen und höheren Dienstes
 
 80,53
 
 Nummer 5a
 
-Absatz 1
+ Absatz 1
 
-Nummer 1
+  Nummer 1
 
-Buchstabe a
-
- Beamte des mittleren Dienstes
-und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
-
-245,86
-
- Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
-
-271,47
-
-Buchstabe b
-
- Beamte des mittleren Dienstes
-und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
-
-210,00
-
- Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
-
-235,61
-
-Buchstabe c
-
- Beamte des gehobenen und des höheren Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13 und Offiziere des Truppendienstes ab Besoldungsgruppe A 13
-
-271,47
-
-Nummern 2 und 3
+   Buchstabe a
 
 Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
-169,03
+307,33
 
-Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
+Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
-189,51
+339,34
 
-Nummer 4
-
-Buchstabe a
-
- Doppelbuchstabe aa
-
-271,47
-
- Doppelbuchstabe bb
-
-  Beamte des mittleren und des gehobenen Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
-
-210,00
-
-Buchstabe b
-
- Beamte des mittleren und des gehobenen Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
-
-169,03
-
-Nummern 5 und 6
+   Buchstabe b
 
 Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
 
-107,56
+262,50
 
-Beamte des gehobenen Dienstes und Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
+Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
 
-169,03
+294,51
 
-Beamte des höheren Dienstes und Offiziere des Truppendienstes ab Besoldungsgruppe A 13
+   Buchstabe c
 
-235,61
+Beamte des gehobenen und des höheren Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12, Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13 und Offiziere des Truppendienstes der Besoldungsgruppe A 13 und höher
+
+339,34
+
+  Nummern 2 und 3
+
+Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
+
+211,29
+
+Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
+
+236,89
+
+  Nummer 4
+
+   Buchstabe a
+
+    Doppelbuchstabe aa
+
+339,34
+
+    Doppelbuchstabe bb
+
+Beamte des mittleren und des gehobenen Dienstes, Unteroffiziere der Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
+
+262,50
+
+   Buchstabe b
+
+Beamte des mittleren und des gehobenen Dienstes, Unteroffiziere der Besoldungsgruppen A 5 bis A 9, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
+
+211,29
+
+  Nummern 5 und 6
+
+Beamte des mittleren Dienstes und Unteroffiziere der Besoldungsgruppen A 5 bis A 9
+
+134,45
+
+Beamte des gehobenen Dienstes, Offiziere der Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen Dienstes der Besoldungsgruppe A 13
+
+211,29
+
+Beamte des höheren Dienstes und Offiziere des Truppendienstes der Besoldungsgruppe A 13 und höher
+
+294,51
 
 Nummer 6
 
-Absatz 1 Satz 1
+ Absatz 1 Satz 1
 
-Buchstabe a
+  Nummer 1
 
 483,17
 
-Buchstabe b
+  Nummer 2
 
 386,54
 
-Buchstabe c
+  Nummer 3
 
 338,05
 
-Buchstabe d
+  Nummer 4
 
 309,23
 
-Absatz 1 Satz 2
+ Absatz 1 Satz 2
 
 614,64
 
@@ -4971,173 +5135,181 @@ Nummer 6a
 
 Nummer 7
 
-Die Zulage beträgt für
-Beamte und Soldaten der
-Besoldungsgruppe(n)
+Beamte und Soldaten der Besoldungsgruppe(n)
 
-12,5 Prozent des
-Endgrundgehalts
-oder, bei festen
-Gehältern, des
-Grundgehalts der
-Besoldungsgruppe
+12,5 Prozent des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe
 
-A 2 bis A 5
+– A 2 bis A 5
 
 A 5
 
-A 6 bis A 9
+– A 6 bis A 9
 
 A 9
 
-A 10 bis A 13
+– A 10 bis A 13
 
 A 13
 
-A 14, A 15, B 1
+– A 14, A 15, B 1
 
 A 15
 
-A 16, B 2 bis B 4
+– A 16, B 2 bis B 4
 
 B 3
 
-B 5 bis B 7
+– B 5 bis B 7
 
 B 6
 
-B 8 bis B 10
+– B 8 bis B 10
 
 B 9
 
-B 11
+– B 11
 
 B 11
 
 Nummer 8
 
-Die Zulage beträgt
-für Beamte der Besoldungsgruppen
+Beamte der Besoldungsgruppen
 
-A 2 bis A 5
+– A 2 bis A 5
 
 120,80
 
-A 6 bis A 9
+– A 6 bis A 9
 
 161,06
 
-A 10 und höher
+– A 10 und höher
 
 201,32
 
 Nummer 8a
 
-Die Zulage beträgt
-für Beamte der Besoldungsgruppen
+Beamte und Soldaten der Besoldungsgruppen
 
-A 2 bis A 5
+– A 2 bis A 5
 
-73,56
+102,98
 
-A 6 bis A 9
+– A 6 bis A 9
 
-100,31
+140,43
 
-A 10 bis A 13
+– A 10 bis A 13
 
-123,72
+173,21
 
-A 14 und höher
+– A 14 und höher
 
-147,11
+205,95
 
-für Anwärter der Laufbahngruppe
+Anwärter der Laufbahngruppe
 
-des mittleren Dienstes
+– des mittleren Dienstes
 
-53,50
+74,90
 
-des gehobenen Dienstes
+– des gehobenen Dienstes
 
-70,21
+98,29
 
-des höheren Dienstes
+– des höheren Dienstes
 
-86,94
+121,72
 
 Nummer 8b
 
-Die Zulage beträgt
-für Beamte der Besoldungsgruppen
+Beamte der Besoldungsgruppen
 
-A 2 bis A 5
+– A 2 bis A 5
 
 96,63
 
-A 6 bis A 9
+– A 6 bis A 9
 
 128,85
 
-A 10 bis A 13
+– A 10 bis A 13
 
 161,06
 
-A 14 und höher
+– A 14 und höher
 
 193,27
 
+Nummer 8c
+
+Beamte und Soldaten der Besoldungsgruppen
+
+– A 2 bis A 5
+
+85,00
+
+– A 6 bis A 9
+
+110,00
+
+– A 10 bis A 13
+
+125,00
+
+– A 14 und höher
+
+140,00
+
 Nummer 9
 
-Die Zulage beträgt
-nach einer Dienstzeit
+Beamte und Soldaten nach einer Dienstzeit von
 
-von einem Jahr
+– einem Jahr
 
 66,87
 
-von zwei Jahren
+– zwei Jahren
 
 133,75
 
 Nummer 9a
 
-Absatz 1
+ Absatz 1
 
-Buchstabe a
+  Nummer 1
 
 107,38
 
-Buchstabe b
+  Nummer 2
 
 214,74
 
-Buchstabe c
+  Nummer 3
 
 161,06
 
-Absatz 2
+ Absatz 2
 
-Buchstabe a
+  Nummer 1
 
 42,94
 
-Buchstabe b
+  Nummer 2
 
 53,69
 
-Nummer 10 Absatz 1
+Nummer 10
 
-Die Zulage beträgt
-nach einer Dienstzeit
+Beamte und Soldaten nach einer Dienstzeit von
 
-von einem Jahr
+– einem Jahr
 
-66,87
+93,62
 
-von zwei Jahren
+– zwei Jahren
 
-133,75
+187,25
 
 Nummer 11
 
@@ -5147,16 +5319,13 @@ Nummer 12
 
 40,27
 
-Nummer 13 Absatz 1
+Nummer 13
 
-Die Zulage beträgt
-für Beamte
-
-des mittleren Dienstes
+Beamte des mittleren Dienstes
 
 17,91
 
-des gehobenen Dienstes
+Beamte des gehobenen Dienstes
 
 40,27
 
@@ -5164,63 +5333,67 @@ Nummer 14
 
 24,17
 
+Andere Zulagen
+
+Vorbemerkung
+
 Nummer 16
 
-Die Zulage beträgt
-für Beamte der Besoldungsgruppen
+Beamte der Besoldungsgruppen
 
-A 2 bis A 7
+– A 2 bis A 7
 
 46,02
 
-A 8 bis A 11
+– A 8 bis A 11
 
 61,36
 
-A 12 bis A 15
+– A 12 bis A 15
 
 71,58
 
-A 16 und höher
+– A 16 und höher
 
 92,03
 
 Nummer 17
 
-Die Zulage beträgt
-für Beamte der Besoldungsgruppe(n)
+Beamte der Besoldungsgruppe(n)
 
-A 2 und A 3
+– A 2 und A 3
 
 12,78
 
-A 4 bis A 6
+– A 4 bis A 6
 
 17,90
 
-A 7 bis A 10
+– A 7 bis A 10
 
 35,79
 
-A 11
+– A 11
 
 40,90
 
-A 12 bis A 15
+– A 12 bis A 15
 
 48,57
 
-A 16 bis B 4
+– A 16 bis B 4
 
 58,80
 
-B 5 bis B 7
+– B 5 bis B 7
 
 71,58
 
+Amtszulagen
+
 Besoldungsgruppe
 
-Fußnote
+Fußnote(n)
 
 A 2
 
@@ -5332,13 +5505,21 @@ B 10
 
 463,19
 
-**Bundesbesoldungsordnung R**
+Dem Grunde nach
+geregelt in Anlage III
 
-Vorbemerkungen
+Zulagenberechtigter Personenkreis, soweit nicht bereits in Anlage III geregelt
+
+Monatsbeträge in Euro/
+Prozentsatz
+
+Stellenzulage
+
+Vorbemerkung
 
 Nummer 2
 
-Die Zulage beträgt
+bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
 12,5 Prozent des
 Endgrundgehalts
@@ -5347,53 +5528,48 @@ Gehältern, des
 Grundgehalts der
 Besoldungsgruppe
 
-a) bei Verwendung
-
-bei obersten Gerichtshöfen
-des Bundes für die Richter
-und Staatsanwälte
-der Besoldungsgruppe(n)
+– R 1
 
 R 1
 
-R 1
-
-R 2 bis R 4
+– R 2 bis R 4
 
 R 3
 
-R 5 bis R 7
+– R 5 bis R 7
 
 R 6
 
-R 8 bis R 10
+– R 8 und höher
 
 R 9
 
-b) bei Verwendung
+bei Verwendung bei obersten Bundesbehörden oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n)
 
-bei obersten Bundesbehörden
-oder bei obersten Gerichtshöfen
-des Bundes, wenn ihnen kein
-Richteramt übertragen ist, für die
-Richter und Staatsanwälte der
-Besoldungsgruppe(n)
+12,5 Prozent des
+Endgrundgehalts
+oder, bei festen
+Gehältern, des
+Grundgehalts der
+Besoldungsgruppe\*
 
-R 1
+– R 1
 
 A 15
 
-R 2 bis R 4
+– R 2 bis R 4
 
 B 3
 
-R 5 bis R 7
+– R 5 bis R 7
 
 B 6
 
-R 8 bis R 10
+– R 8 und höher
 
 B 9
+
+Amtszulagen
 
 Besoldungsgruppe
 
@@ -5411,6 +5587,4 @@ R 8
 
 443,13
 
-Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
-
-(+++ Hinweis: Für Beamtinnen und Beamte bei den Postnachfolgeunternehmen vgl. Bek. 2032-26-6 v. 15.8.2012 I 1771 +++)
+Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
