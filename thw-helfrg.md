@@ -4,6 +4,9 @@ Gesetz über das Technische Hilfswerk (THW-Gesetz)
 Stand  
 Zuletzt geändert durch Art. 1 G v. 29.7.2009 I 2350
 
+Hinweis  
+Änderung durch Art. 5 G v. 11.6.2013 I 1514 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 (+++ Textnachweis ab: 1.2.1990 +++)
@@ -59,11 +62,11 @@ bei der Erfüllung öffentlicher Aufgaben im Sinne der Nummern 1 bis 3, soweit e
 
 (6) Wenn bei einem Einsatz im Ausland (§ 1 Abs. 2 Nr. 2) ein Unfall oder eine Krankheit der Helferin oder des Helfers auf Verhältnisse zurückzuführen ist, die dem Einsatzland eigentümlich sind und für die Helferin oder den Helfer eine besondere Gefahr auch außerhalb der Helfertätigkeit darstellen, finden die §§ 10 und 16 des Entwicklungshelfergesetzes entsprechende Anwendung.
 
-(7) Bei einer Verwendung im Sinne des § 1 Abs. 2 Nr. 2 gelten die Vorschriften des § 56 des Bundesbesoldungsgesetzes, § 43 Abs. 1, 2, 5 bis 7, § 43a Abs. 1 bis 4 und 6, § 46 Abs. 4 des Beamtenversorgungsgesetzes entsprechend.
+(7) Bei einem Einsatz im Ausland (§ 1 Absatz 2 Nummer 2) gelten die Vorschriften des § 56 des Bundesbesoldungsgesetzes, § 43 Abs. 1, 2, 5 bis 7, § 43a Abs. 1 bis 4 und 6, § 46 Abs. 4 des Beamtenversorgungsgesetzes entsprechend.
 
 (8) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung für Angehörige sowie Helferinnen und Helfer der Bundesanstalt Technisches Hilfswerk, die technische Hilfe im Sinne des § 1 Absatz 2 Nummer 2 leisten, Regelungen über eine Gewährung von Unfallfürsorge in sinngemäßer Anwendung der §§ 31a und 46 Abs. 4 des Beamtenversorgungsgesetzes unter Berücksichtigung von Leistungen der gesetzlichen Unfallversicherung zu treffen. Die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
 
-(9) Arbeitnehmerinnen und Arbeitnehmer im Sinne dieser Bestimmungen sind Angestellte, Arbeiterinnen und Arbeiter sowie die zu ihrer Berufsbildung Beschäftigten.
+(9) Arbeitnehmerinnen und Arbeitnehmer im Sinne dieser Bestimmungen sind Angestellte, Arbeiterinnen und Arbeiter sowie die zu ihrer Berufsbildung Beschäftigten. Eine Erkundung gilt als Einsatz im Sinne dieses Gesetzes.
 
 ### § 4 Mitwirkung
 
