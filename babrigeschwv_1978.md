@@ -1,5 +1,5 @@
-Verordnung über eine allgemeine Richtgeschwindigkeit auf Autobahnen und ähnlichen Straßen (Autobahn-Richtgeschwindigkeits-V)
-============================================================================================================================
+Verordnung über eine allgemeine Richtgeschwindigkeit auf Autobahnen und ähnlichen Straßen ()
+============================================================================================
 
 Stand  
 Zuletzt geändert durch Art. 5 V v. 5.8.2009 I 2631
