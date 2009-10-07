@@ -5,7 +5,13 @@ Neuf
 Neugefasst durch Bek. v. 8.10.2009 I 3366, 3862;
 
 Stand  
-zuletzt geändert durch Art. 3 G v. 8.5.2012 I 1030
+zuletzt geändert durch Art. 1 G v. 20.2.2013 I 285
+
+Hinweis  
+Änderung durch Art. 2 G v. 21.3.2013 I 556 (Nr. 15) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 2 Abs. 11 G v. 3.5.2013 I 1084 (Nr. 22) ist berücksichtigt
 
 ### 
 
@@ -510,7 +516,7 @@ Bußgeld-, Ermächtigungs- und Schlussvorschriften
 </tr>
 <tr class="even">
 <td>§ 52b</td>
-<td>Übergangsregelungen bis zur Anwendung der elektronischen Lohnsteuerabzugsmerkmale</td>
+<td>(weggefallen)</td>
 </tr>
 <tr class="odd">
 <td>§ 53</td>
@@ -909,10 +915,10 @@ Leistungen, die auf Grund des Bundeskindergeldgesetzes gewährt werden;
 Entschädigungen nach dem Infektionsschutzgesetz vom 20. Juli 2000 (BGBl. I S. 1045);
 
 26.  
-Einnahmen aus nebenberuflichen Tätigkeiten als Übungsleiter, Ausbilder, Erzieher, Betreuer oder vergleichbaren nebenberuflichen Tätigkeiten, aus nebenberuflichen künstlerischen Tätigkeiten oder der nebenberuflichen Pflege alter, kranker oder behinderter Menschen im Dienst oder im Auftrag einer juristischen Person des öffentlichen Rechts, die in einem Mitgliedstaat der Europäischen Union oder in einem Staat belegen ist, auf den das Abkommen über den Europäischen Wirtschaftsraum Anwendung findet, oder einer unter § 5 Absatz 1 Nummer 9 des Körperschaftsteuergesetzes fallenden Einrichtung zur Förderung gemeinnütziger, mildtätiger und kirchlicher Zwecke (§§ 52 bis 54 der Abgabenordnung) bis zur Höhe von insgesamt 2 100 Euro im Jahr. <sup>2</sup>Überschreiten die Einnahmen für die in Satz 1 bezeichneten Tätigkeiten den steuerfreien Betrag, dürfen die mit den nebenberuflichen Tätigkeiten in unmittelbarem wirtschaftlichen Zusammenhang stehenden Ausgaben abweichend von § 3c nur insoweit als Betriebsausgaben oder Werbungskosten abgezogen werden, als sie den Betrag der steuerfreien Einnahmen übersteigen;
+Einnahmen aus nebenberuflichen Tätigkeiten als Übungsleiter, Ausbilder, Erzieher, Betreuer oder vergleichbaren nebenberuflichen Tätigkeiten, aus nebenberuflichen künstlerischen Tätigkeiten oder der nebenberuflichen Pflege alter, kranker oder behinderter Menschen im Dienst oder im Auftrag einer juristischen Person des öffentlichen Rechts, die in einem Mitgliedstaat der Europäischen Union oder in einem Staat belegen ist, auf den das Abkommen über den Europäischen Wirtschaftsraum Anwendung findet, oder einer unter § 5 Absatz 1 Nummer 9 des Körperschaftsteuergesetzes fallenden Einrichtung zur Förderung gemeinnütziger, mildtätiger und kirchlicher Zwecke (§§ 52 bis 54 der Abgabenordnung) bis zur Höhe von insgesamt 2 400 Euro im Jahr. <sup>2</sup>Überschreiten die Einnahmen für die in Satz 1 bezeichneten Tätigkeiten den steuerfreien Betrag, dürfen die mit den nebenberuflichen Tätigkeiten in unmittelbarem wirtschaftlichen Zusammenhang stehenden Ausgaben abweichend von § 3c nur insoweit als Betriebsausgaben oder Werbungskosten abgezogen werden, als sie den Betrag der steuerfreien Einnahmen übersteigen;
 
 26a.  
-Einnahmen aus nebenberuflichen Tätigkeiten im Dienst oder Auftrag einer juristischen Person des öffentlichen Rechts, die in einem Mitgliedstaat der Europäischen Union oder in einem Staat belegen ist, auf den das Abkommen über den Europäischen Wirtschaftsraum Anwendung findet, oder einer unter § 5 Absatz 1 Nummer 9 des Körperschaftsteuergesetzes fallenden Einrichtung zur Förderung gemeinnütziger, mildtätiger und kirchlicher Zwecke (§§ 52 bis 54 der Abgabenordnung) bis zur Höhe von insgesamt 500 Euro im Jahr. <sup>2</sup>Die Steuerbefreiung ist ausgeschlossen, wenn für die Einnahmen aus der Tätigkeit – ganz oder teilweise – eine Steuerbefreiung nach § 3 Nummer 12, 26 oder 26b gewährt wird. <sup>3</sup>Überschreiten die Einnahmen für die in Satz 1 bezeichneten Tätigkeiten den steuerfreien Betrag, dürfen die mit den nebenberuflichen Tätigkeiten in unmittelbarem wirtschaftlichen Zusammenhang stehenden Ausgaben abweichend von § 3c nur insoweit als Betriebsausgaben oder Werbungskosten abgezogen werden, als sie den Betrag der steuerfreien Einnahmen übersteigen;
+Einnahmen aus nebenberuflichen Tätigkeiten im Dienst oder Auftrag einer juristischen Person des öffentlichen Rechts, die in einem Mitgliedstaat der Europäischen Union oder in einem Staat belegen ist, auf den das Abkommen über den Europäischen Wirtschaftsraum Anwendung findet, oder einer unter § 5 Absatz 1 Nummer 9 des Körperschaftsteuergesetzes fallenden Einrichtung zur Förderung gemeinnütziger, mildtätiger und kirchlicher Zwecke (§§ 52 bis 54 der Abgabenordnung) bis zur Höhe von insgesamt 720 Euro im Jahr. <sup>2</sup>Die Steuerbefreiung ist ausgeschlossen, wenn für die Einnahmen aus der Tätigkeit – ganz oder teilweise – eine Steuerbefreiung nach § 3 Nummer 12, 26 oder 26b gewährt wird. <sup>3</sup>Überschreiten die Einnahmen für die in Satz 1 bezeichneten Tätigkeiten den steuerfreien Betrag, dürfen die mit den nebenberuflichen Tätigkeiten in unmittelbarem wirtschaftlichen Zusammenhang stehenden Ausgaben abweichend von § 3c nur insoweit als Betriebsausgaben oder Werbungskosten abgezogen werden, als sie den Betrag der steuerfreien Einnahmen übersteigen;
 
 26b.  
 Aufwandsentschädigungen nach § 1835a des Bürgerlichen Gesetzbuchs, soweit sie zusammen mit den steuerfreien Einnahmen im Sinne der Nummer 26 den Freibetrag nach Nummer 26 Satz 1 nicht überschreiten. <sup>2</sup>Nummer 26 Satz 2 gilt entsprechend;
@@ -2368,7 +2374,7 @@ Ausgleichszahlungen im Rahmen des Versorgungsausgleichs nach den §§ 20, 21, 22
 
 2.  
 a)  
-Beiträge zu den gesetzlichen Rentenversicherungen oder landwirtschaftlichen Alterskassen sowie zu berufsständischen Versorgungseinrichtungen, die den gesetzlichen Rentenversicherungen vergleichbare Leistungen erbringen;
+Beiträge zu den gesetzlichen Rentenversicherungen oder zur landwirtschaftlichen Alterskasse sowie zu berufsständischen Versorgungseinrichtungen, die den gesetzlichen Rentenversicherungen vergleichbare Leistungen erbringen;
 
 b)  
 Beiträge des Steuerpflichtigen zum Aufbau einer eigenen kapitalgedeckten Altersversorgung, wenn der Vertrag nur die Zahlung einer monatlichen auf das Leben des Steuerpflichtigen bezogenen lebenslangen Leibrente nicht vor Vollendung des 60. Lebensjahres oder die ergänzende Absicherung des Eintritts der Berufsunfähigkeit (Berufsunfähigkeitsrente), der verminderten Erwerbsfähigkeit (Erwerbsminderungsrente) oder von Hinterbliebenen (Hinterbliebenenrente) vorsieht; Hinterbliebene in diesem Sinne sind der Ehegatte des Steuerpflichtigen und die Kinder, für die er Anspruch auf Kindergeld oder auf einen Freibetrag nach § 32 Absatz 6 hat; der Anspruch auf Waisenrente darf längstens für den Zeitraum bestehen, in dem der Rentenberechtigte die Voraussetzungen für die Berücksichtigung als Kind im Sinne des § 32 erfüllt; die genannten Ansprüche dürfen nicht vererblich, nicht übertragbar, nicht beleihbar, nicht veräußerbar und nicht kapitalisierbar sein und es darf darüber hinaus kein Anspruch auf Auszahlungen bestehen.
@@ -2664,13 +2670,13 @@ Zwecke im Sinne des § 52 Absatz 2 Satz 1 Nummer 23 der Abgabenordnung
 
 fördern. <sup>9</sup>Abziehbare Zuwendungen, die die Höchstbeträge nach Satz 1 überschreiten oder die den um die Beträge nach § 10 Absatz 3 und 4, § 10c und § 10d verminderten Gesamtbetrag der Einkünfte übersteigen, sind im Rahmen der Höchstbeträge in den folgenden Veranlagungszeiträumen als Sonderausgaben abzuziehen. <sup>10</sup>§ 10d Absatz 4 gilt entsprechend.
 
-(1a) <sup>1</sup>Spenden zur Förderung steuerbegünstigter Zwecke im Sinne der §§ 52 bis 54 der Abgabenordnung in den Vermögensstock einer Stiftung, welche die Voraussetzungen des Absatzes 1 Satz 2 bis 6 erfüllt, können auf Antrag des Steuerpflichtigen im Veranlagungszeitraum der Zuwendung und in den folgenden neun Veranlagungszeiträumen bis zu einem Gesamtbetrag von 1 Million Euro zusätzlich zu den Höchstbeträgen nach Absatz 1 Satz 1 abgezogen werden. <sup>2</sup>Der besondere Abzugsbetrag nach Satz 1 bezieht sich auf den gesamten Zehnjahreszeitraum und kann der Höhe nach innerhalb dieses Zeitraums nur einmal in Anspruch genommen werden. <sup>3</sup>§ 10d Absatz 4 gilt entsprechend.
+(1a) <sup>1</sup>Spenden zur Förderung steuerbegünstigter Zwecke im Sinne der §§ 52 bis 54 der Abgabenordnung in das zu erhaltende Vermögen (Vermögensstock) einer Stiftung, welche die Voraussetzungen des Absatzes 1 Satz 2 bis 6 erfüllt, können auf Antrag des Steuerpflichtigen im Veranlagungszeitraum der Zuwendung und in den folgenden neun Veranlagungszeiträumen bis zu einem Gesamtbetrag von 1 Million Euro, bei Ehegatten, die nach den §§ 26, 26b zusammen veranlagt werden, bis zu einem Gesamtbetrag von 2 Millionen Euro, zusätzlich zu den Höchstbeträgen nach Absatz 1 Satz 1 abgezogen werden. <sup>2</sup>Nicht abzugsfähig nach Satz 1 sind Spenden in das verbrauchbare Vermögen einer Stiftung. <sup>3</sup>Der besondere Abzugsbetrag nach Satz 1 bezieht sich auf den gesamten Zehnjahreszeitraum und kann der Höhe nach innerhalb dieses Zeitraums nur einmal in Anspruch genommen werden. <sup>4</sup>§ 10d Absatz 4 gilt entsprechend.
 
 (2) <sup>1</sup>Zuwendungen an politische Parteien im Sinne des § 2 des Parteiengesetzes sind bis zur Höhe von insgesamt 1 650 Euro und im Fall der Zusammenveranlagung von Ehegatten bis zur Höhe von insgesamt 3 300 Euro im Kalenderjahr abzugsfähig. <sup>2</sup>Sie können nur insoweit als Sonderausgaben abgezogen werden, als für sie nicht eine Steuerermäßigung nach § 34g gewährt worden ist.
 
-(3) <sup>1</sup>Als Zuwendung im Sinne dieser Vorschrift gilt auch die Zuwendung von Wirtschaftsgütern mit Ausnahme von Nutzungen und Leistungen. <sup>2</sup>Ist das Wirtschaftsgut unmittelbar vor seiner Zuwendung einem Betriebsvermögen entnommen worden, so darf bei der Ermittlung der Zuwendungshöhe der bei der Entnahme angesetzte Wert nicht überschritten werden. <sup>3</sup>Ansonsten bestimmt sich die Höhe der Zuwendung nach dem gemeinen Wert des zugewendeten Wirtschaftsguts, wenn dessen Veräußerung im Zeitpunkt der Zuwendung keinen Besteuerungstatbestand erfüllen würde. <sup>4</sup>In allen übrigen Fällen dürfen bei der Ermittlung der Zuwendungshöhe die fortgeführten Anschaffungs- oder Herstellungskosten nur überschritten werden, soweit eine Gewinnrealisierung stattgefunden hat. <sup>5</sup>Aufwendungen zugunsten einer Körperschaft, die zum Empfang steuerlich abziehbarer Zuwendungen berechtigt ist, können nur abgezogen werden, wenn ein Anspruch auf die Erstattung der Aufwendungen durch Vertrag oder Satzung eingeräumt und auf die Erstattung verzichtet worden ist. <sup>6</sup>Der Anspruch darf nicht unter der Bedingung des Verzichts eingeräumt worden sein.
+(3) <sup>1</sup>Als Zuwendung im Sinne dieser Vorschrift gilt auch die Zuwendung von Wirtschaftsgütern mit Ausnahme von Nutzungen und Leistungen. <sup>2</sup>Ist das Wirtschaftsgut unmittelbar vor seiner Zuwendung einem Betriebsvermögen entnommen worden, so bemisst sich die Zuwendungshöhe nach dem Wert, der bei der Entnahme angesetzt wurde und nach der Umsatzsteuer, die auf die Entnahme entfällt. <sup>3</sup>Ansonsten bestimmt sich die Höhe der Zuwendung nach dem gemeinen Wert des zugewendeten Wirtschaftsguts, wenn dessen Veräußerung im Zeitpunkt der Zuwendung keinen Besteuerungstatbestand erfüllen würde. <sup>4</sup>In allen übrigen Fällen dürfen bei der Ermittlung der Zuwendungshöhe die fortgeführten Anschaffungs- oder Herstellungskosten nur überschritten werden, soweit eine Gewinnrealisierung stattgefunden hat. <sup>5</sup>Aufwendungen zugunsten einer Körperschaft, die zum Empfang steuerlich abziehbarer Zuwendungen berechtigt ist, können nur abgezogen werden, wenn ein Anspruch auf die Erstattung der Aufwendungen durch Vertrag oder Satzung eingeräumt und auf die Erstattung verzichtet worden ist. <sup>6</sup>Der Anspruch darf nicht unter der Bedingung des Verzichts eingeräumt worden sein.
 
-(4) <sup>1</sup>Der Steuerpflichtige darf auf die Richtigkeit der Bestätigung über Spenden und Mitgliedsbeiträge vertrauen, es sei denn, dass er die Bestätigung durch unlautere Mittel oder falsche Angaben erwirkt hat oder dass ihm die Unrichtigkeit der Bestätigung bekannt oder infolge grober Fahrlässigkeit nicht bekannt war. <sup>2</sup>Wer vorsätzlich oder grob fahrlässig eine unrichtige Bestätigung ausstellt oder wer veranlasst, dass Zuwendungen nicht zu den in der Bestätigung angegebenen steuerbegünstigten Zwecken verwendet werden, haftet für die entgangene Steuer. <sup>3</sup>Diese ist mit 30 Prozent des zugewendeten Betrags anzusetzen. <sup>4</sup>In den Fällen des Satzes 2 zweite Alternative (Veranlasserhaftung) ist vorrangig der Zuwendungsempfänger in Anspruch zu nehmen; die in diesen Fällen für den Zuwendungsempfänger handelnden natürlichen Personen sind nur in Anspruch zu nehmen, wenn die entgangene Steuer nicht nach § 47 der Abgabenordnung erloschen ist und Vollstreckungsmaßnahmen gegen den Zuwendungsempfänger nicht erfolgreich sind. <sup>5</sup>Die Festsetzungsfrist für Haftungsansprüche nach Satz 2 läuft nicht ab, solange die Festsetzungsfrist für von dem Empfänger der Zuwendung geschuldete Körperschaftsteuer für den Veranlagungszeitraum nicht abgelaufen ist, in dem die unrichtige Bestätigung ausgestellt worden ist oder veranlasst wurde, dass die Zuwendung nicht zu den in der Bestätigung angegebenen steuerbegünstigten Zwecken verwendet worden ist; § 191 Absatz 5 der Abgabenordnung ist nicht anzuwenden.
+(4) <sup>1</sup>Der Steuerpflichtige darf auf die Richtigkeit der Bestätigung über Spenden und Mitgliedsbeiträge vertrauen, es sei denn, dass er die Bestätigung durch unlautere Mittel oder falsche Angaben erwirkt hat oder dass ihm die Unrichtigkeit der Bestätigung bekannt oder infolge grober Fahrlässigkeit nicht bekannt war. <sup>2</sup>Wer vorsätzlich oder grob fahrlässig eine unrichtige Bestätigung ausstellt oder veranlasst, dass Zuwendungen nicht zu den in der Bestätigung angegebenen steuerbegünstigten Zwecken verwendet werden, haftet für die entgangene Steuer. <sup>3</sup>Diese ist mit 30 Prozent des zugewendeten Betrags anzusetzen. <sup>4</sup>In den Fällen des Satzes 2 zweite Alternative (Veranlasserhaftung) ist vorrangig der Zuwendungsempfänger in Anspruch zu nehmen; die in diesen Fällen für den Zuwendungsempfänger handelnden natürlichen Personen sind nur in Anspruch zu nehmen, wenn die entgangene Steuer nicht nach § 47 der Abgabenordnung erloschen ist und Vollstreckungsmaßnahmen gegen den Zuwendungsempfänger nicht erfolgreich sind. <sup>5</sup>Die Festsetzungsfrist für Haftungsansprüche nach Satz 2 läuft nicht ab, solange die Festsetzungsfrist für von dem Empfänger der Zuwendung geschuldete Körperschaftsteuer für den Veranlagungszeitraum nicht abgelaufen ist, in dem die unrichtige Bestätigung ausgestellt worden ist oder veranlasst wurde, dass die Zuwendung nicht zu den in der Bestätigung angegebenen steuerbegünstigten Zwecken verwendet worden ist; § 191 Absatz 5 der Abgabenordnung ist nicht anzuwenden.
 
 (+++ § 10b: Zur Anwendung vgl. § 52 Abs. 24e +++)
 
@@ -2680,7 +2686,7 @@ fördern. <sup>9</sup>Abziehbare Zuwendungen, die die Höchstbeträge nach Satz 
 
 ### § 10d Verlustabzug
 
-(1) <sup>1</sup>Negative Einkünfte, die bei der Ermittlung des Gesamtbetrags der Einkünfte nicht ausgeglichen werden, sind bis zu einem Betrag von 511 500 Euro, bei Ehegatten, die nach den §§ 26, 26b zusammenveranlagt werden, bis zu einem Betrag von 1 023 000 Euro vom Gesamtbetrag der Einkünfte des unmittelbar vorangegangenen Veranlagungszeitraums vorrangig vor Sonderausgaben, außergewöhnlichen Belastungen und sonstigen Abzugsbeträgen abzuziehen (Verlustrücktrag). <sup>2</sup>Dabei wird der Gesamtbetrag der Einkünfte des unmittelbar vorangegangenen Veranlagungszeitraums um die Begünstigungsbeträge nach § 34a Absatz 3 Satz 1 gemindert. <sup>3</sup>Ist für den unmittelbar vorangegangenen Veranlagungszeitraum bereits ein Steuerbescheid erlassen worden, so ist er insoweit zu ändern, als der Verlustrücktrag zu gewähren oder zu berichtigen ist. <sup>4</sup>Das gilt auch dann, wenn der Steuerbescheid unanfechtbar geworden ist; die Festsetzungsfrist endet insoweit nicht, bevor die Festsetzungsfrist für den Veranlagungszeitraum abgelaufen ist, in dem die negativen Einkünfte nicht ausgeglichen werden. <sup>5</sup>Auf Antrag des Steuerpflichtigen ist ganz oder teilweise von der Anwendung des Satzes 1 abzusehen. <sup>6</sup>Im Antrag ist die Höhe des Verlustrücktrags anzugeben.
+(1) <sup>1</sup>Negative Einkünfte, die bei der Ermittlung des Gesamtbetrags der Einkünfte nicht ausgeglichen werden, sind bis zu einem Betrag von 1 000 000 Euro, bei Ehegatten, die nach den §§ 26, 26b zusammenveranlagt werden, bis zu einem Betrag von 2 000 000 Euro vom Gesamtbetrag der Einkünfte des unmittelbar vorangegangenen Veranlagungszeitraums vorrangig vor Sonderausgaben, außergewöhnlichen Belastungen und sonstigen Abzugsbeträgen abzuziehen (Verlustrücktrag). <sup>2</sup>Dabei wird der Gesamtbetrag der Einkünfte des unmittelbar vorangegangenen Veranlagungszeitraums um die Begünstigungsbeträge nach § 34a Absatz 3 Satz 1 gemindert. <sup>3</sup>Ist für den unmittelbar vorangegangenen Veranlagungszeitraum bereits ein Steuerbescheid erlassen worden, so ist er insoweit zu ändern, als der Verlustrücktrag zu gewähren oder zu berichtigen ist. <sup>4</sup>Das gilt auch dann, wenn der Steuerbescheid unanfechtbar geworden ist; die Festsetzungsfrist endet insoweit nicht, bevor die Festsetzungsfrist für den Veranlagungszeitraum abgelaufen ist, in dem die negativen Einkünfte nicht ausgeglichen werden. <sup>5</sup>Auf Antrag des Steuerpflichtigen ist ganz oder teilweise von der Anwendung des Satzes 1 abzusehen. <sup>6</sup>Im Antrag ist die Höhe des Verlustrücktrags anzugeben.
 
 (2) <sup>1</sup>Nicht ausgeglichene negative Einkünfte, die nicht nach Absatz 1 abgezogen worden sind, sind in den folgenden Veranlagungszeiträumen bis zu einem Gesamtbetrag der Einkünfte von 1 Million Euro unbeschränkt, darüber hinaus bis zu 60 Prozent des 1 Million Euro übersteigenden Gesamtbetrags der Einkünfte vorrangig vor Sonderausgaben, außergewöhnlichen Belastungen und sonstigen Abzugsbeträgen abzuziehen (Verlustvortrag). <sup>2</sup>Bei Ehegatten, die nach den §§ 26, 26b zusammenveranlagt werden, tritt an die Stelle des Betrags von 1 Million Euro ein Betrag von 2 Millionen Euro. <sup>3</sup>Der Abzug ist nur insoweit zulässig, als die Verluste nicht nach Absatz 1 abgezogen worden sind und in den vorangegangenen Veranlagungszeiträumen nicht nach Satz 1 und 2 abgezogen werden konnten.
 
@@ -3850,7 +3856,7 @@ a)
 Leibrenten und andere Leistungen,
 
 aa)  
-die aus den gesetzlichen Rentenversicherungen, den landwirtschaftlichen Alterskassen, den berufsständischen Versorgungseinrichtungen und aus Rentenversicherungen im Sinne des § 10 Absatz 1 Nummer 2 Buchstabe b erbracht werden, soweit sie jeweils der Besteuerung unterliegen. <sup>2</sup>Bemessungsgrundlage für den der Besteuerung unterliegenden Anteil ist der Jahresbetrag der Rente. <sup>3</sup>Der der Besteuerung unterliegende Anteil ist nach dem Jahr des Rentenbeginns und dem in diesem Jahr maßgebenden Prozentsatz aus der nachstehenden Tabelle zu entnehmen:
+die aus den gesetzlichen Rentenversicherungen, der landwirtschaftlichen Alterskasse, den berufsständischen Versorgungseinrichtungen und aus Rentenversicherungen im Sinne des § 10 Absatz 1 Nummer 2 Buchstabe b erbracht werden, soweit sie jeweils der Besteuerung unterliegen. <sup>2</sup>Bemessungsgrundlage für den der Besteuerung unterliegenden Anteil ist der Jahresbetrag der Rente. <sup>3</sup>Der der Besteuerung unterliegende Anteil ist nach dem Jahr des Rentenbeginns und dem in diesem Jahr maßgebenden Prozentsatz aus der nachstehenden Tabelle zu entnehmen:
 
 Jahr des
 Renten-
@@ -4318,7 +4324,7 @@ des nach Satz 5 noch nicht erfassten Auflösungsbetrags als Leistung nach Satz 1
 
 ### § 22a Rentenbezugsmitteilungen an die zentrale Stelle
 
-(1) <sup>1</sup>Die Träger der gesetzlichen Rentenversicherung, der Spitzenverband der landwirtschaftlichen Sozialversicherung für die Träger der Alterssicherung der Landwirte, die berufsständischen Versorgungseinrichtungen, die Pensionskassen, die Pensionsfonds, die Versicherungsunternehmen, die Unternehmen, die Verträge im Sinne des § 10 Absatz 1 Nummer 2 Buchstabe b anbieten, und die Anbieter im Sinne des § 80 (Mitteilungspflichtige) haben der zentralen Stelle (§ 81) bis zum 1. März des Jahres, das auf das Jahr folgt, in dem eine Leibrente oder andere Leistung nach § 22 Nummer 1 Satz 3 Buchstabe a und § 22 Nummer 5 einem Leistungsempfänger zugeflossen ist, unter Beachtung der im Bundessteuerblatt veröffentlichten Auslegungsvorschriften der Finanzverwaltung folgende Daten zu übermitteln (Rentenbezugsmitteilung):
+(1) <sup>1</sup>Die Träger der gesetzlichen Rentenversicherung, die landwirtschaftliche Alterskasse, die berufsständischen Versorgungseinrichtungen, die Pensionskassen, die Pensionsfonds, die Versicherungsunternehmen, die Unternehmen, die Verträge im Sinne des § 10 Absatz 1 Nummer 2 Buchstabe b anbieten, und die Anbieter im Sinne des § 80 (Mitteilungspflichtige) haben der zentralen Stelle (§ 81) bis zum 1. März des Jahres, das auf das Jahr folgt, in dem eine Leibrente oder andere Leistung nach § 22 Nummer 1 Satz 3 Buchstabe a und § 22 Nummer 5 einem Leistungsempfänger zugeflossen ist, unter Beachtung der im Bundessteuerblatt veröffentlichten Auslegungsvorschriften der Finanzverwaltung folgende Daten zu übermitteln (Rentenbezugsmitteilung):
 
 1.  
 Identifikationsnummer (§ 139b der Abgabenordnung), Familienname, Vorname und Geburtsdatum des Leistungsempfängers. <sup>2</sup>Ist dem Mitteilungspflichtigen eine ausländische Anschrift des Leistungsempfängers bekannt, ist diese anzugeben. <sup>3</sup>In diesen Fällen ist auch die Staatsangehörigkeit des Leistungsempfängers, soweit bekannt, mitzuteilen;
@@ -4806,24 +4812,24 @@ der Steuerpflichtige allein das Kind angenommen hat oder das Kind nur zu ihm in 
 
 ### § 32a Einkommensteuertarif
 
-(1) <sup>1</sup>Die tarifliche Einkommensteuer bemisst sich nach dem zu versteuernden Einkommen. <sup>2</sup>Sie beträgt vorbehaltlich der §§ 32b, 32d, 34, 34a, 34b und 34c jeweils in Euro für zu versteuernde Einkommen
+(1) <sup>1</sup>Die tarifliche Einkommensteuer im Veranlagungszeitraum 2013 bemisst sich nach dem zu versteuernden Einkommen. <sup>2</sup>Sie beträgt vorbehaltlich der §§ 32b, 32d, 34, 34a, 34b und 34c jeweils in Euro für zu versteuernde Einkommen
 
 1.  
-bis 7 834 Euro (Grundfreibetrag):0;
+bis 8 130 Euro (Grundfreibetrag):0;
 
 2.  
-von 7 835 Euro bis 13 139 Euro:(939,68 • y + 1 400) • y;
+von 8 131 Euro bis 13 469 Euro:(933,70 y + 1 400) y;
 
 3.  
-von 13 140 Euro bis 52 551 Euro:(228,74 • z + 2 397) • z + 1 007;
+von 13 470 Euro bis 52 881 Euro:(228,74 z + 2 397) z + 1 014;
 
 4.  
-von 52 552 Euro bis 250 400 Euro:0,42 • x – 8 064;
+von 52 882 Euro bis 250 730 Euro:0,42 x – 8 196;
 
 5.  
-von 250 401 Euro an:0,45 • x – 15 576.
+von 250 731 Euro an:0,45 x – 15 718.
 
-<sup>3</sup>„y“ ist ein Zehntausendstel des 7 834 Euro übersteigenden Teils des auf einen vollen Euro-Betrag abgerundeten zu versteuernden Einkommens. <sup>4</sup>„z“ ist ein Zehntausendstel des 13 139 Euro übersteigenden Teils des auf einen vollen Euro-Betrag abgerundeten zu versteuernden Einkommens. <sup>5</sup>„x“ ist das auf einen vollen Euro-Betrag abgerundete zu versteuernde Einkommen. <sup>6</sup>Der sich ergebende Steuerbetrag ist auf den nächsten vollen Euro-Betrag abzurunden.
+<sup>3</sup>„y“ ist ein Zehntausendstel des den Grundfreibetrag übersteigenden Teils des auf einen vollen Euro-Betrag abgerundeten zu versteuernden Einkommens. <sup>4</sup>„z“ ist ein Zehntausendstel des 13 469 Euro übersteigenden Teils des auf einen vollen Euro-Betrag abgerundeten zu versteuernden Einkommens. <sup>5</sup>„x“ ist das auf einen vollen Euro-Betrag abgerundete zu versteuernde Einkommen. <sup>6</sup>Der sich ergebende Steuerbetrag ist auf den nächsten vollen Euro-Betrag abzurunden.
 
 (2) bis (4) (weggefallen)
 
@@ -4944,7 +4950,7 @@ b)
 sind Werbungskosten nur insoweit abzuziehen, als sie zusammen mit den bei der Ermittlung der Einkünfte aus nichtselbständiger Arbeit abziehbaren Werbungskosten den Arbeitnehmer-Pauschbetrag (§ 9a Satz 1 Nummer 1 Buchstabe a) übersteigen.
 
 <sup>2</sup>Ist der für die Berechnung des besonderen Steuersatzes maßgebende Betrag höher als 250 000 Euro und sind im zu versteuernden Einkommen Einkünfte im Sinne des § 2 Absatz 1 Satz 1 Nummer 1 bis 3 enthalten, ist für den Anteil dieser Einkünfte am zu versteuernden Einkommen der Steuersatz im Sinne des Satzes 1 nach § 32a mit der Maßgabe zu berechnen, dass in Absatz 1 Satz 2 die Angabe „§ 32b“ und die Nummer 5 entfallen sowie die Nummer 4 in folgender Fassung anzuwenden ist:
-„4. von 52 152 Euro an: 0,42 • x – 7 914.“
+„4. von 52 152 Euro an: 0,42 x – 7 914.“
 <sup>3</sup>Für die Bemessung des Anteils im Sinne des Satzes 2 gilt § 32c Absatz 1 Satz 2 und 3 entsprechend.
 
 (3) <sup>1</sup>Die Träger der Sozialleistungen im Sinne des Absatzes 1 Nummer 1 haben die Daten über die im Kalenderjahr gewährten Leistungen sowie die Dauer des Leistungszeitraums für jeden Empfänger bis zum 28. Februar des Folgejahres nach amtlich vorgeschriebenem Datensatz durch amtlich bestimmte Datenfernübertragung zu übermitteln, soweit die Leistungen nicht auf der Lohnsteuerbescheinigung (§ 41b Absatz 1 Satz 2 Nummer 5) auszuweisen sind; § 41b Absatz 2 und § 22a Absatz 2 gelten entsprechend. <sup>2</sup>Der Empfänger der Leistungen ist entsprechend zu informieren und auf die steuerliche Behandlung dieser Leistungen und seine Steuererklärungspflicht hinzuweisen. <sup>3</sup>In den Fällen des § 170 Absatz 1 des Dritten Buches Sozialgesetzbuch ist Empfänger des an Dritte ausgezahlten Insolvenzgeldes der Arbeitnehmer, der seinen Arbeitsentgeltanspruch übertragen hat.
@@ -5440,7 +5446,7 @@ bei Einkünften aus Gewerbebetrieb als Mitunternehmer im Sinne des § 15 Absatz 
 <tr class="odd">
 <td>Summe der<br />
 positiven gewerblichen Einkünfte</td>
-<td> •   geminderte<br />
+<td>    geminderte<br />
 tarifliche Steuer.</td>
 </tr>
 <tr class="even">
@@ -5839,7 +5845,7 @@ für die Krankenversicherung und für die private Pflege-Pflichtversicherung bei
 4.  
 den Entlastungsbetrag für Alleinerziehende (§ 24b) in der Steuerklasse II,
 
-ergibt den zu versteuernden Jahresbetrag. <sup>6</sup>Für den zu versteuernden Jahresbetrag ist die Jahreslohnsteuer in den Steuerklassen I, II und IV nach § 32a Absatz 1 sowie in der Steuerklasse III nach § 32a Absatz 5 zu berechnen. <sup>7</sup>In den Steuerklassen V und VI ist die Jahreslohnsteuer zu berechnen, die sich aus dem Zweifachen des Unterschiedsbetrags zwischen dem Steuerbetrag für das Eineinviertelfache und dem Steuerbetrag für das Dreiviertelfache des zu versteuernden Jahresbetrags nach § 32a Absatz 1 ergibt; die Jahreslohnsteuer beträgt jedoch mindestens 14 Prozent des Jahresbetrags, für den 9 429 Euro übersteigenden Teil des Jahresbetrags höchstens 42 Prozent und für den 26 441 Euro übersteigenden Teil des zu versteuernden Jahresbetrags jeweils 42 Prozent sowie für den 200 584 Euro übersteigenden Teil des zu versteuernden Jahresbetrags jeweils 45 Prozent. <sup>8</sup>Für die Lohnsteuerberechnung ist die als Lohnsteuerabzugsmerkmal mitgeteilte Steuerklasse maßgebend. <sup>9</sup>Die monatliche Lohnsteuer ist <sup>1</sup>/<sub>12</sub>, die wöchentliche Lohnsteuer sind <sup>7</sup>/<sub>360</sub> und die tägliche Lohnsteuer ist <sup>1</sup>/<sub>360</sub> der Jahreslohnsteuer. <sup>10</sup>Bruchteile eines Cents, die sich bei der Berechnung nach den Sätzen 2 und 9 ergeben, bleiben jeweils außer Ansatz. <sup>11</sup>Die auf den Lohnzahlungszeitraum entfallende Lohnsteuer ist vom Arbeitslohn einzubehalten. <sup>12</sup>Das Betriebsstättenfinanzamt kann allgemein oder auf Antrag zulassen, dass die Lohnsteuer unter den Voraussetzungen des § 42b Absatz 1 nach dem voraussichtlichen Jahresarbeitslohn ermittelt wird, wenn gewährleistet ist, dass die zutreffende Jahreslohnsteuer (§ 38a Absatz 2) nicht unterschritten wird.
+ergibt den zu versteuernden Jahresbetrag. <sup>6</sup>Für den zu versteuernden Jahresbetrag ist die Jahreslohnsteuer in den Steuerklassen I, II und IV nach § 32a Absatz 1 sowie in der Steuerklasse III nach § 32a Absatz 5 zu berechnen. <sup>7</sup>In den Steuerklassen V und VI ist die Jahreslohnsteuer zu berechnen, die sich aus dem Zweifachen des Unterschiedsbetrags zwischen dem Steuerbetrag für das Eineinviertelfache und dem Steuerbetrag für das Dreiviertelfache des zu versteuernden Jahresbetrags nach § 32a Absatz 1 ergibt; die Jahreslohnsteuer beträgt jedoch mindestens 14 Prozent des Jahresbetrags, für den 9 550 Euro übersteigenden Teil des Jahresbetrags höchstens 42 Prozent und für den 26 441 Euro übersteigenden Teil des zu versteuernden Jahresbetrags jeweils 42 Prozent sowie für den 200 584 Euro übersteigenden Teil des zu versteuernden Jahresbetrags jeweils 45 Prozent. <sup>8</sup>Für die Lohnsteuerberechnung ist die als Lohnsteuerabzugsmerkmal mitgeteilte Steuerklasse maßgebend. <sup>9</sup>Die monatliche Lohnsteuer ist <sup>1</sup>/<sub>12</sub>, die wöchentliche Lohnsteuer sind <sup>7</sup>/<sub>360</sub> und die tägliche Lohnsteuer ist <sup>1</sup>/<sub>360</sub> der Jahreslohnsteuer. <sup>10</sup>Bruchteile eines Cents, die sich bei der Berechnung nach den Sätzen 2 und 9 ergeben, bleiben jeweils außer Ansatz. <sup>11</sup>Die auf den Lohnzahlungszeitraum entfallende Lohnsteuer ist vom Arbeitslohn einzubehalten. <sup>12</sup>Das Betriebsstättenfinanzamt kann allgemein oder auf Antrag zulassen, dass die Lohnsteuer unter den Voraussetzungen des § 42b Absatz 1 nach dem voraussichtlichen Jahresarbeitslohn ermittelt wird, wenn gewährleistet ist, dass die zutreffende Jahreslohnsteuer (§ 38a Absatz 2) nicht unterschritten wird.
 
 (3) <sup>1</sup>Für die Einbehaltung der Lohnsteuer von einem sonstigen Bezug hat der Arbeitgeber den voraussichtlichen Jahresarbeitslohn ohne den sonstigen Bezug festzustellen. <sup>2</sup>Hat der Arbeitnehmer Lohnsteuerbescheinigungen aus früheren Dienstverhältnissen des Kalenderjahres nicht vorgelegt, so ist bei der Ermittlung des voraussichtlichen Jahresarbeitslohns der Arbeitslohn für Beschäftigungszeiten bei früheren Arbeitgebern mit dem Betrag anzusetzen, der sich ergibt, wenn der laufende Arbeitslohn im Monat der Zahlung des sonstigen Bezugs entsprechend der Beschäftigungsdauer bei früheren Arbeitgebern hochgerechnet wird. <sup>3</sup>Der voraussichtliche Jahresarbeitslohn ist um den Versorgungsfreibetrag (§ 19 Absatz 2) und den Altersentlastungsbetrag (§ 24a), wenn die Voraussetzungen für den Abzug dieser Beträge jeweils erfüllt sind, sowie um einen etwaigen als Lohnsteuerabzugsmerkmal mitgeteilten Jahresfreibetrag zu vermindern und um einen etwaigen Jahreshinzurechnungsbetrag zu erhöhen. <sup>4</sup>Für den so ermittelten Jahresarbeitslohn (maßgebender Jahresarbeitslohn) ist die Lohnsteuer nach Maßgabe des Absatzes 2 Satz 5 bis 7 zu ermitteln. <sup>5</sup>Außerdem ist die Jahreslohnsteuer für den maßgebenden Jahresarbeitslohn unter Einbeziehung des sonstigen Bezugs zu ermitteln. <sup>6</sup>Dabei ist der sonstige Bezug, soweit es sich nicht um einen sonstigen Bezug im Sinne des Satzes 9 handelt, um den Versorgungsfreibetrag und den Altersentlastungsbetrag zu vermindern, wenn die Voraussetzungen für den Abzug dieser Beträge jeweils erfüllt sind und soweit sie nicht bei der Steuerberechnung für den maßgebenden Jahresarbeitslohn berücksichtigt worden sind. <sup>7</sup>Für die Lohnsteuerberechnung ist die als Lohnsteuerabzugsmerkmal mitgeteilte Steuerklasse maßgebend. <sup>8</sup>Der Unterschiedsbetrag zwischen den ermittelten Jahreslohnsteuerbeträgen ist die Lohnsteuer, die vom sonstigen Bezug einzubehalten ist. <sup>9</sup>Die Lohnsteuer ist bei einem sonstigen Bezug im Sinne des § 34 Absatz 1 und 2 Nummer 2 und 4 in der Weise zu ermäßigen, dass der sonstige Bezug bei der Anwendung des Satzes 5 mit einem Fünftel anzusetzen und der Unterschiedsbetrag im Sinne des Satzes 8 zu verfünffachen ist; § 34 Absatz 1 Satz 3 ist sinngemäß anzuwenden. <sup>10</sup>Ein sonstiger Bezug im Sinne des § 34 Absatz 1 und 2 Nummer 4 ist bei der Anwendung des Satzes 4 in die Bemessungsgrundlage für die Vorsorgepauschale nach Absatz 2 Satz 5 Nummer 3 einzubeziehen.
 
@@ -5849,7 +5855,7 @@ ergibt den zu versteuernden Jahresbetrag. <sup>6</sup>Für den zu versteuernden 
 
 (6) Das Bundesministerium der Finanzen hat im Einvernehmen mit den obersten Finanzbehörden der Länder auf der Grundlage der Absätze 2 und 3 einen Programmablaufplan für die maschinelle Berechnung der Lohnsteuer aufzustellen und bekannt zu machen.
 
-(+++ § 39b: Zur Anwendung vgl. § 52 Abs. 51, 51a +++)
+(+++ § 39b: Zur Anwendung vgl. § 52 Abs. 51, 51a u. 51c +++)
 
 ### § 39c Einbehaltung der Lohnsteuer ohne Lohnsteuerabzugsmerkmale
 
@@ -6725,13 +6731,13 @@ wenn die positive Summe der einkommensteuerpflichtigen Einkünfte, die nicht dem
 wenn der Steuerpflichtige nebeneinander von mehreren Arbeitgebern Arbeitslohn bezogen hat; das gilt nicht, soweit nach § 38 Absatz 3a Satz 7 Arbeitslohn von mehreren Arbeitgebern für den Lohnsteuerabzug zusammengerechnet worden ist;
 
 3.  
-wenn bei einem Steuerpflichtigen die Summe der beim Steuerabzug vom Arbeitslohn nach § 39b Absatz 2 Satz 5 Nummer 3 Buchstabe b bis d berücksichtigten Teilbeträge der Vorsorgepauschale größer ist als die abziehbaren Vorsorgeaufwendungen nach § 10 Absatz 1 Nummer 3 und Nummer 3a in Verbindung mit Absatz 4 und der im Kalenderjahr insgesamt erzielte Arbeitslohn 10 200 Euro übersteigt, oder bei Ehegatten, die die Voraussetzungen des § 26 Absatz 1 erfüllen, der im Kalenderjahr von den Ehegatten insgesamt erzielte Arbeitslohn 19 400 Euro übersteigt;
+wenn bei einem Steuerpflichtigen die Summe der beim Steuerabzug vom Arbeitslohn nach § 39b Absatz 2 Satz 5 Nummer 3 Buchstabe b bis d berücksichtigten Teilbeträge der Vorsorgepauschale größer ist als die abziehbaren Vorsorgeaufwendungen nach § 10 Absatz 1 Nummer 3 und Nummer 3a in Verbindung mit Absatz 4 und der im Kalenderjahr insgesamt erzielte Arbeitslohn 10 500 Euro übersteigt, oder bei Ehegatten, die die Voraussetzungen des § 26 Absatz 1 erfüllen, der im Kalenderjahr von den Ehegatten insgesamt erzielte Arbeitslohn 19 700 Euro übersteigt;
 
 3a.  
 wenn von Ehegatten, die nach den §§ 26, 26b zusammen zur Einkommensteuer zu veranlagen sind, beide Arbeitslohn bezogen haben und einer für den Veranlagungszeitraum oder einen Teil davon nach der Steuerklasse V oder VI besteuert oder bei Steuerklasse IV der Faktor (§ 39f) eingetragen worden ist;
 
 4.  
-wenn für einen Steuerpflichtigen ein Freibetrag im Sinne des § 39a Absatz 1 Satz 1 Nummer 1 bis 3, 5 oder Nummer 6 ermittelt worden ist und der im Kalenderjahr insgesamt erzielte Arbeitslohn 10 200 Euro übersteigt oder bei Ehegatten, die die Voraussetzungen des § 26 Absatz 1 erfüllen, der im Kalenderjahr von den Ehegatten insgesamt erzielte Arbeitslohn 19 400 Euro übersteigt; dasselbe gilt für einen Steuerpflichtigen, der zum Personenkreis des § 1 Absatz 2 gehört oder für einen beschränkt einkommensteuerpflichtigen Arbeitnehmer, wenn diese Eintragungen auf einer Bescheinigung für den Lohnsteuerabzug (§ 39 Absatz 3 Satz 1) erfolgt sind;
+wenn für einen Steuerpflichtigen ein Freibetrag im Sinne des § 39a Absatz 1 Satz 1 Nummer 1 bis 3, 5 oder Nummer 6 ermittelt worden ist und der im Kalenderjahr insgesamt erzielte Arbeitslohn 10 500 Euro übersteigt oder bei Ehegatten, die die Voraussetzungen des § 26 Absatz 1 erfüllen, der im Kalenderjahr von den Ehegatten insgesamt erzielte Arbeitslohn 19 700 Euro übersteigt; dasselbe gilt für einen Steuerpflichtigen, der zum Personenkreis des § 1 Absatz 2 gehört oder für einen beschränkt einkommensteuerpflichtigen Arbeitnehmer, wenn diese Eintragungen auf einer Bescheinigung für den Lohnsteuerabzug (§ 39 Absatz 3 Satz 1) erfolgt sind;
 
 4a.  
 wenn bei einem Elternpaar, bei dem die Voraussetzungen des § 26 Absatz 1 Satz 1 nicht vorliegen,
@@ -7008,7 +7014,7 @@ gegen Übergabe der Wertpapiere ausgezahlt oder gutgeschrieben werden und diese 
 Einkünfte aus Vermietung und Verpachtung (§ 21), soweit sie nicht zu den Einkünften im Sinne der Nummern 1 bis 5 gehören, wenn das unbewegliche Vermögen, die Sachinbegriffe oder Rechte im Inland belegen oder in ein inländisches öffentliches Buch oder Register eingetragen sind oder in einer inländischen Betriebsstätte oder in einer anderen Einrichtung verwertet werden;
 
  7.  
-sonstige Einkünfte im Sinne des § 22 Nummer 1 Satz 3 Buchstabe a, die von den inländischen gesetzlichen Rentenversicherungsträgern, den inländischen landwirtschaftlichen Alterskassen, den inländischen berufsständischen Versorgungseinrichtungen, den inländischen Versicherungsunternehmen oder sonstigen inländischen Zahlstellen gewährt werden; dies gilt entsprechend für Leibrenten und andere Leistungen ausländischer Zahlstellen, wenn die Beiträge, die den Leistungen zugrunde liegen, nach § 10 Absatz 1 Nummer 2 ganz oder teilweise bei der Ermittlung der Sonderausgaben berücksichtigt wurden;
+sonstige Einkünfte im Sinne des § 22 Nummer 1 Satz 3 Buchstabe a, die von den inländischen gesetzlichen Rentenversicherungsträgern, der inländischen landwirtschaftlichen Alterskasse, den inländischen berufsständischen Versorgungseinrichtungen, den inländischen Versicherungsunternehmen oder sonstigen inländischen Zahlstellen gewährt werden; dies gilt entsprechend für Leibrenten und andere Leistungen ausländischer Zahlstellen, wenn die Beiträge, die den Leistungen zugrunde liegen, nach § 10 Absatz 1 Nummer 2 ganz oder teilweise bei der Ermittlung der Sonderausgaben berücksichtigt wurden;
 
  8.  
 sonstige Einkünfte im Sinne des § 22 Nummer 2, soweit es sich um private Veräußerungsgeschäfte handelt, mit
@@ -7801,7 +7807,7 @@ die Steuerfestsetzung bei Inkrafttreten des Jahressteuergesetzes 2008 vom 20. De
 
 (24e) <sup>1</sup>§ 10b Absatz 1 Satz 3 und Absatz 1a in der Fassung des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) sind auf Zuwendungen anzuwenden, die nach dem 31. Dezember 1999 geleistet werden. <sup>2</sup>§ 10b Absatz 1 und 1a in der Fassung des Artikels 1 des Gesetzes vom 10. Oktober 2007 (BGBl. I S. 2332) ist auf Zuwendungen anzuwenden, die nach dem 31. Dezember 2006 geleistet werden. <sup>3</sup>Für Zuwendungen, die im Veranlagungszeitraum 2007 geleistet werden, gilt auf Antrag des Steuerpflichtigen § 10b Absatz 1 in der am 26. Juli 2000 geltenden Fassung. <sup>4</sup>§ 10b Absatz 1 Satz 2 in der Fassung des Artikels 1 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) ist auf Mitgliedsbeiträge anzuwenden, die nach dem 31. Dezember 2006 geleistet werden. <sup>5</sup>§ 10b Absatz 1 Satz 1 bis 5, Absatz 1a Satz 1 und Absatz 4 Satz 4 in der Fassung des Artikels 1 des Gesetzes vom 8. April 2010 (BGBl. I S. 386) ist in allen Fällen anzuwenden, in denen die Einkommensteuer noch nicht bestandskräftig festgesetzt ist; bei Anwendung dieses Satzes gelten jedoch die bisherigen für den jeweiligen Veranlagungszeitraum festgelegten Höchstabzugsgrenzen des § 10b Absatz 1 und 1a unverändert fort. <sup>6</sup>§ 10b Absatz 1 Satz 6 in der Fassung des Artikels 1 des Gesetzes vom 8. April 2010 (BGBl. I S. 386) ist auf Zuwendungen anzuwenden, die nach dem 31. Dezember 2009 geleistet werden. <sup>7</sup>§ 10b Absatz 1 Satz 7 in der Fassung des Artikels 1 des Gesetzes vom 8. April 2010 (BGBl. I S. 386) ist in allen Fällen anzuwenden, in denen die Einkommensteuer noch nicht bestandskräftig festgesetzt ist und in denen die Mitgliedsbeiträge nach dem 31. Dezember 2006 geleistet werden. <sup>8</sup>§ 10b Absatz 1 Satz 7 in der Fassung des Artikels 1 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) ist in allen Fällen anzuwenden, in denen die Einkommensteuer noch nicht bestandskräftig festgesetzt ist und in denen die Mitgliedsbeiträge nach dem 31. Dezember 2006 geleistet werden. <sup>9</sup>§ 10b Absatz 1 Satz 8 in der Fassung des Artikels 1 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) ist in allen Fällen anzuwenden, in denen die Einkommensteuer noch nicht bestandskräftig festgesetzt ist.
 
-(25) <sup>1</sup>Auf den am Schluss des Veranlagungszeitraums 1998 festgestellten verbleibenden Verlustabzug ist § 10d in der Fassung des Gesetzes vom 16. April 1997 (BGBl. I S. 821) anzuwenden. <sup>2</sup>Satz 1 ist letztmals für den Veranlagungszeitraum 2003 anzuwenden. <sup>3</sup>§ 10d in der Fassung des Artikels 1 des Gesetzes vom 22. Dezember 2003 (BGBl. I S. 2840) ist erstmals für den Veranlagungszeitraum 2004 anzuwenden. <sup>4</sup>Auf den Verlustrücktrag aus dem Veranlagungszeitraum 2004 in den Veranlagungszeitraum 2003 ist § 10d Absatz 1 in der für den Veranlagungszeitraum 2004 geltenden Fassung anzuwenden. <sup>5</sup>§ 10d Absatz 4 Satz 4 und 5 in der Fassung des Artikels 1 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) gilt erstmals für Verluste, für die nach dem 13. Dezember 2010 eine Erklärung zur Feststellung des verbleibenden Verlustvortrags abgegeben wird. <sup>6</sup>§ 10d Absatz 4 Satz 6 in der Fassung des Artikels 1 des Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) gilt für alle bei Inkrafttreten dieses Gesetzes noch nicht abgelaufenen Feststellungsfristen.
+(25) <sup>1</sup>Auf den am Schluss des Veranlagungszeitraums 1998 festgestellten verbleibenden Verlustabzug ist § 10d in der Fassung des Gesetzes vom 16. April 1997 (BGBl. I S. 821) anzuwenden. <sup>2</sup>Satz 1 ist letztmals für den Veranlagungszeitraum 2003 anzuwenden. <sup>3</sup>§ 10d in der Fassung des Artikels 1 des Gesetzes vom 22. Dezember 2003 (BGBl. I S. 2840) ist erstmals für den Veranlagungszeitraum 2004 anzuwenden. <sup>4</sup>Auf den Verlustrücktrag aus dem Veranlagungszeitraum 2004 in den Veranlagungszeitraum 2003 ist § 10d Absatz 1 in der für den Veranlagungszeitraum 2004 geltenden Fassung anzuwenden. <sup>5</sup>§ 10d Absatz 4 Satz 4 und 5 in der Fassung des Artikels 1 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) gilt erstmals für Verluste, für die nach dem 13. Dezember 2010 eine Erklärung zur Feststellung des verbleibenden Verlustvortrags abgegeben wird. <sup>6</sup>§ 10d Absatz 4 Satz 6 in der Fassung des Artikels 1 des Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) gilt für alle bei Inkrafttreten dieses Gesetzes noch nicht abgelaufenen Feststellungsfristen. <sup>7</sup>§ 10d Absatz 1 Satz 1 in der Fassung des Artikels 1 des Gesetzes vom 20. Februar 2013 (BGBl. I S. 285) ist erstmals auf negative Einkünfte anzuwenden, die bei der Ermittlung des Gesamtbetrags der Einkünfte des Veranlagungszeitraums 2013 nicht ausgeglichen werden können.
 
 (26) <sup>1</sup>Für nach dem 31. Dezember 1986 und vor dem 1. Januar 1991 hergestellte oder angeschaffte Wohnungen im eigenen Haus oder Eigentumswohnungen sowie in diesem Zeitraum fertig gestellte Ausbauten oder Erweiterungen ist § 10e des Einkommensteuergesetzes 1990 in der Fassung der Bekanntmachung vom 7. September 1990 (BGBl. I S. 1898) weiter anzuwenden. <sup>2</sup>Für nach dem 31. Dezember 1990 hergestellte oder angeschaffte Wohnungen im eigenen Haus oder Eigentumswohnungen sowie in diesem Zeitraum fertig gestellte Ausbauten oder Erweiterungen ist § 10e des Einkommensteuergesetzes in der durch Gesetz vom 24. Juni 1991 (BGBl. I S. 1322) geänderten Fassung weiter anzuwenden. <sup>3</sup>Abweichend von Satz 2 ist § 10e Absatz 1 bis 5 und 6 bis 7 in der durch Gesetz vom 25. Februar 1992 (BGBl. I S. 297) geänderten Fassung erstmals für den Veranlagungszeitraum 1991 bei Objekten im Sinne des § 10e Absatz 1 und 2 anzuwenden, wenn im Fall der Herstellung der Steuerpflichtige nach dem 30. September 1991 den Bauantrag gestellt oder mit der Herstellung begonnen hat oder im Fall der Anschaffung der Steuerpflichtige das Objekt nach dem 30. September 1991 auf Grund eines nach diesem Zeitpunkt rechtswirksam abgeschlossenen obligatorischen Vertrags oder gleichstehenden Rechtsakts angeschafft hat oder mit der Herstellung des Objekts nach dem 30. September 1991 begonnen worden ist. <sup>4</sup>§ 10e Absatz 5a ist erstmals bei in § 10e Absatz 1 und 2 bezeichneten Objekten anzuwenden, wenn im Fall der Herstellung der Steuerpflichtige den Bauantrag nach dem 31. Dezember 1991 gestellt oder, falls ein solcher nicht erforderlich ist, mit der Herstellung nach diesem Zeitpunkt begonnen hat, oder im Fall der Anschaffung der Steuerpflichtige das Objekt auf Grund eines nach dem 31. Dezember 1991 rechtswirksam abgeschlossenen obligatorischen Vertrags oder gleichstehenden Rechtsakts angeschafft hat. <sup>5</sup>§ 10e Absatz 1 Satz 4 in der Fassung des Gesetzes vom 23. Juni 1993 (BGBl. I S. 944) und Absatz 6 Satz 3 in der Fassung des Gesetzes vom 21. Dezember 1993 (BGBl. I S. 2310) ist erstmals anzuwenden, wenn der Steuerpflichtige das Objekt auf Grund eines nach dem 31. Dezember 1993 rechtswirksam abgeschlossenen obligatorischen Vertrags oder gleichstehenden Rechtsakts angeschafft hat. <sup>6</sup>§ 10e ist letztmals anzuwenden, wenn der Steuerpflichtige im Fall der Herstellung vor dem 1. Januar 1996 mit der Herstellung des Objekts begonnen hat oder im Fall der Anschaffung das Objekt auf Grund eines vor dem 1. Januar 1996 rechtswirksam abgeschlossenen obligatorischen Vertrags oder gleichstehenden Rechtsakts angeschafft hat. <sup>7</sup>Als Beginn der Herstellung gilt bei Objekten, für die eine Baugenehmigung erforderlich ist, der Zeitpunkt, in dem der Bauantrag gestellt wird; bei baugenehmigungsfreien Objekten, für die Bauunterlagen einzureichen sind, der Zeitpunkt, in dem die Bauunterlagen eingereicht werden.
 
@@ -7888,25 +7894,26 @@ ein freiwilliges soziales Jahr im Sinne des Gesetzes zur Förderung eines freiwi
 
 <sup>3</sup>§ 32 Absatz 4 Satz 1 Nummer 2 Buchstabe d in der Fassung des Gesetzes vom 16. August 2001 (BGBl. I S. 2074) ist erstmals für den Veranlagungszeitraum 2001 anzuwenden. <sup>4</sup>§ 32 Absatz 4 Satz 1 Nummer 2 Buchstabe d in der Fassung des Artikels 2 Absatz 5 Buchstabe a des Gesetzes vom 16. Mai 2008 (BGBl. I S. 842) ist auf Freiwilligendienste im Sinne des Beschlusses Nr. 1719/2006/EG des Europäischen Parlaments und des Rates vom 15. November 2006 zur Einführung des Programms „Jugend in Aktion“ (ABl. EU Nr. L 327 S. 30), die ab dem 1. Januar 2007 begonnen wurden, ab dem Veranlagungszeitraum 2007 anzuwenden. <sup>5</sup>Die Regelungen des § 32 Absatz 4 Satz 1 Nummer 2 Buchstabe d in der bis zum 31. Dezember 2007 anzuwendenden Fassung sind, bezogen auf die Ableistung eines freiwilligen sozialen Jahres im Sinne des Gesetzes zur Förderung eines freiwilligen sozialen Jahres oder eines freiwilligen ökologischen Jahres im Sinne des Gesetzes zur Förderung eines freiwilligen ökologischen Jahres auch über den 31. Dezember 2007 hinaus anzuwenden, soweit die vorstehend genannten freiwilligen Jahre vor dem 1. Juni 2008 vereinbart oder begonnen wurden und über den 31. Mai 2008 hinausgehen und die Beteiligten nicht die Anwendung der Vorschriften des Jugendfreiwilligendienstegesetzes vereinbaren. <sup>6</sup>§ 32 Absatz 4 Satz 1 Nummer 2 Buchstabe d in der Fassung des Artikels 1 des Gesetzes vom 16. Juli 2009 (BGBl. I S. 1959) ist auf einen Freiwilligendienst aller Generationen im Sinne von § 2 Absatz 1a des Siebten Buches Sozialgesetzbuch ab dem Veranlagungszeitraum 2009 anzuwenden. <sup>7</sup>§ 32 Absatz 4 Satz 1 Nummer 2 in der Fassung des Artikels 1 des Gesetzes vom 19. Juli 2006 (BGBl. I S. 1652) ist für Kinder, die im Veranlagungszeitraum 2006 das 24. Lebensjahr vollendeten, mit der Maßgabe anzuwenden, dass an die Stelle der Angabe „noch nicht das 25. Lebensjahr vollendet hat“ die Angabe „noch nicht das 26. Lebensjahr vollendet hat“ tritt; für Kinder, die im Veranlagungszeitraum 2006 das 25. oder 26. Lebensjahr vollendeten, ist § 32 Absatz 4 Satz 1 Nummer 2 weiterhin in der bis zum 31. Dezember 2006 geltenden Fassung anzuwenden. <sup>8</sup>§ 32 Absatz 4 Satz 1 Nummer 3 in der Fassung des Artikels 1 des Gesetzes vom 19. Juli 2006 (BGBl. I S. 1652) ist erstmals für Kinder anzuwenden, die im Veranlagungszeitraum 2007 wegen einer vor Vollendung des 25. Lebensjahres eingetretenen körperlichen, geistigen oder seelischen Behinderung außerstande sind, sich selbst zu unterhalten; für Kinder, die wegen einer vor dem 1. Januar 2007 in der Zeit ab der Vollendung des 25. Lebensjahres und vor Vollendung des 27. Lebensjahres eingetretenen körperlichen, geistigen oder seelischen Behinderung außerstande sind, sich selbst zu unterhalten, ist § 32 Absatz 4 Satz 1 Nummer 3 weiterhin in der bis zum 31. Dezember 2006 geltenden Fassung anzuwenden. <sup>9</sup>§ 32 Absatz 5 Satz 1 in der Fassung des Artikels 1 des Gesetzes vom 19. Juli 2006 (BGBl. I S. 1652) ist für Kinder, die im Veranlagungszeitraum 2006 das 24. Lebensjahr vollendeten, mit der Maßgabe anzuwenden, dass an die Stelle der Angabe „über das 21. oder 25. Lebensjahr hinaus“ die Angabe „über das 21. oder 26. Lebensjahr hinaus“ tritt; für Kinder, die im Veranlagungszeitraum 2006 das 25., 26. oder 27. Lebensjahr vollendeten, ist § 32 Absatz 5 Satz 1 weiterhin in der bis zum 31. Dezember 2006 geltenden Fassung anzuwenden. <sup>10</sup>Für die nach § 10 Absatz 1 Nummer 2 Buchstabe b und §§ 10a, 82 begünstigten Verträge, die vor dem 1. Januar 2007 abgeschlossen wurden, gelten für das Vorliegen einer begünstigten Hinterbliebenenversorgung die Altersgrenzen des § 32 in der bis zum 31. Dezember 2006 geltenden Fassung. <sup>11</sup>Dies gilt entsprechend für die Anwendung des § 93 Absatz 1 Satz 3 Buchstabe b.
 
-(41) § 32a Absatz 1 ist ab dem Veranlagungszeitraum 2010 in der folgenden Fassung anzuwenden:
+(41) <sup>1</sup>§ 32a Absatz 1 ist für die Veranlagungszeiträume 2010 bis 2012 in der folgenden Fassung anzuwenden:
  „(1) <sup>1</sup>Die tarifliche Einkommensteuer bemisst sich nach dem zu versteuernden Einkommen. <sup>2</sup>Sie beträgt vorbehaltlich der §§ 32b, 32d, 34, 34a, 34b und 34c jeweils in Euro für zu versteuernde Einkommen
 
 1.  
 bis 8 004 Euro (Grundfreibetrag):0;
 
 2.  
-von 8 005 Euro bis 13 469 Euro:(912,17 • y + 1 400) • y;
+von 8 005 Euro bis 13 469 Euro:(912,17 y + 1 400) y;
 
 3.  
-von 13 470 Euro bis 52 881 Euro:(228,74 • z + 2 397) • z + 1 038;
+von 13 470 Euro bis 52 881 Euro:(228,74 z + 2 397) z + 1 038;
 
 4.  
-von 52 882 Euro bis 250 730 Euro:0,42 • x – 8 172;
+von 52 882 Euro bis 250 730 Euro:0,42 x – 8 172;
 
 5.  
-von 250 731 Euro an:0,45 • x – 15 694.
+von 250 731 Euro an:0,45 x – 15 694.
 
 <sup>3</sup>„y“ ist ein Zehntausendstel des 8 004 Euro übersteigenden Teils des auf einen vollen Euro-Betrag abgerundeten zu versteuernden Einkommens. <sup>4</sup>„z“ ist ein Zehntausendstel des 13 469 Euro übersteigenden Teils des auf einen vollen Euro-Betrag abgerundeten zu versteuernden Einkommens. <sup>5</sup>„x“ ist das auf einen vollen Euro-Betrag abgerundete zu versteuernde Einkommen. <sup>6</sup>Der sich ergebende Steuerbetrag ist auf den nächsten vollen Euro-Betrag abzurunden. “
+<sup>2</sup>Für den Veranlagungszeitraum 2013 ist § 32a Absatz 1 in der Fassung des Artikels 1 Nummer 1 Buchstabe a des Gesetzes vom 20. Februar 2013 (BGBl. I S. 283) anzuwenden.
 
 (42) und (43) (weggefallen)
 
@@ -7957,6 +7964,8 @@ anzusetzen sind; mindestens jedoch 1 500 Euro. <sup>2</sup>Bemessen sich die Vo
 
 (51b) § 39b Absatz 6 in der am 31. Dezember 2010 geltenden Fassung ist weiterhin anzuwenden, bis das Bundesministerium der Finanzen den Zeitpunkt für den erstmaligen automatisierten Abruf der Lohnsteuerabzugsmerkmale nach § 39 Absatz 4 Nummer 5 mitgeteilt hat (Absatz 50g).
 
+(51c) Für Lohnzahlungszeiträume, die nach dem 31. Dezember 2012 und vor dem 1. Januar 2014 enden, ist § 39b Absatz 2 Satz 7 in der Fassung des Artikels 1 Nummer 2 Buchstabe a des Gesetzes vom 20. Februar 2013 (BGBl. I S. 283) anzuwenden.
+
 (52) Haben Arbeitnehmer im Laufe des Kalenderjahres geheiratet, wird abweichend von § 39e Absatz 3 Satz 3 für jeden Ehegatten automatisiert die Steuerklasse IV gebildet, wenn die Voraussetzungen des § 38b Absatz 1 Satz 2 Nummer 3 oder Nummer 4 vorliegen.
 
 (52a) § 40 Absatz 2 Satz 2 und 3 in der Fassung des Gesetzes vom 20. April 2009 (BGBl. I S. 774) ist erstmals anzuwenden auf den laufenden Arbeitslohn, der für einen nach dem 31. Dezember 2006 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach dem 31. Dezember 2006 zufließen.
@@ -7992,7 +8001,7 @@ Ist ein Freistellungsauftrag vor dem 1. Januar 2007 unter Beachtung des § 20 Ab
 
 (55i) § 45a Absatz 4 Satz 2 in der Fassung des Artikels 1 des Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) ist erstmals ab dem 1. Januar 2007 anzuwenden.
 
-(55j) <sup>1</sup>§ 46 Absatz 2 Nummer 1 in der Fassung des Artikels 1 des Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) ist auch auf Veranlagungszeiträume vor 2006 anzuwenden. <sup>2</sup>§ 46 Absatz 2 Nummer 3 in der Fassung des Artikels 1 des Gesetzes vom 1. November 2011 (BGBl. I S. 2131) ist erstmals für den Veranlagungszeitraum 2010 anzuwenden. <sup>3</sup>§ 46 Absatz 2 Nummer 4 in der Fassung des Artikels 1 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) ist erstmals für den Veranlagungszeitraum 2009 anzuwenden. <sup>4</sup>§ 46 Absatz 2 Nummer 8 in der Fassung des Artikels 1 des Gesetzes vom 20. Dezember 2007 (BGBl. I S. 3150) ist erstmals für den Veranlagungszeitraum 2005 anzuwenden und in Fällen, in denen am 28. Dezember 2007 über einen Antrag auf Veranlagung zur Einkommensteuer noch nicht bestandskräftig entschieden ist.
+(55j) Für den Veranlagungszeitraum 2013 ist § 46 Absatz 2 Nummer 3 und 4 in der Fassung des Artikels 1 Nummer 3 Buchstabe a und c des Gesetzes vom 20. Februar 2013 (BGBl. I S. 283) anzuwenden.
 
 (56) § 48 in der Fassung des Gesetzes vom 30. August 2001 (BGBl. I S. 2267) ist erstmals auf Gegenleistungen anzuwenden, die nach dem 31. Dezember 2001 erbracht werden.
 
@@ -8110,36 +8119,7 @@ der Zulageberechtigte vom Anbieter in hervorgehobener Weise darüber informiert 
 
 (18) <sup>1</sup>§ 51a Absatz 2b bis 2d in der Fassung des Artikels 1 des Gesetzes vom 14. August 2007 (BGBl. I S. 1912) ist erstmals auf nach dem 31. Dezember 2008 zufließende Kapitalerträge anzuwenden. <sup>2</sup>§ 51a Absatz 2c und 2e in der Fassung des Artikels 2 des Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2592) ist erstmals auf nach dem 31. Dezember 2013 zufließende Kapitalerträge anzuwenden.
 
-### § 52b Übergangsregelungen bis zur Anwendung der elektronischen Lohnsteuerabzugsmerkmale
-
-(1) <sup>1</sup>Die Lohnsteuerkarte 2010 gilt mit den eingetragenen Lohnsteuerabzugsmerkmalen auch für den Steuerabzug vom Arbeitslohn ab dem 1. Januar 2011 bis zur erstmaligen Anwendung der elektronischen Lohnsteuerabzugsmerkmale (Übergangszeitraum). <sup>2</sup>Voraussetzung ist, dass dem Arbeitgeber die Lohnsteuerkarte 2010 vorliegt. <sup>3</sup>In diesem Übergangszeitraum hat der Arbeitgeber die Lohnsteuerkarte 2010
-
-1.  
-während des Dienstverhältnisses aufzubewahren, er darf sie nicht vernichten;
-
-2.  
-dem Arbeitnehmer zur Vorlage beim Finanzamt vorübergehend zu überlassen sowie
-
-3.  
-nach Beendigung des Dienstverhältnisses innerhalb einer angemessenen Frist herauszugeben.
-
-<sup>4</sup>Nach Anwendung der elektronischen Lohnsteuerabzugsmerkmale (ELStAM) kann der Arbeitgeber die Lohnsteuerkarte 2010 vernichten. <sup>5</sup>Ist auf der Lohnsteuerkarte 2010 eine Lohnsteuerbescheinigung erteilt und die Lohnsteuerkarte an den Arbeitnehmer herausgegeben worden, kann der Arbeitgeber bei fortbestehendem Dienstverhältnis die Lohnsteuerabzugsmerkmale der Lohnsteuerkarte 2010 im Übergangszeitraum weiter anwenden, wenn der Arbeitnehmer schriftlich erklärt, dass die Lohnsteuerabzugsmerkmale der Lohnsteuerkarte 2010 weiterhin zutreffend sind.
-
-(2) <sup>1</sup>Für Eintragungen auf der Lohnsteuerkarte 2010 im Übergangszeitraum ist das Finanzamt zuständig. <sup>2</sup>Der Arbeitnehmer ist verpflichtet, die Eintragung der Steuerklasse und der Zahl der Kinderfreibeträge auf der Lohnsteuerkarte 2010 umgehend durch das Finanzamt ändern zu lassen, wenn die Eintragung von den Verhältnissen zu Beginn des jeweiligen Kalenderjahres im Übergangszeitraum zu seinen Gunsten abweicht. <sup>3</sup>Diese Verpflichtung gilt auch in den Fällen, in denen die Steuerklasse II bescheinigt ist und die Voraussetzungen für die Berücksichtigung des Entlastungsbetrags für Alleinerziehende (§ 24b) im Laufe des Kalenderjahres entfallen. <sup>4</sup>Kommt der Arbeitnehmer seiner Verpflichtung nicht nach, so hat das Finanzamt die Eintragung von Amts wegen zu ändern; der Arbeitnehmer hat die Lohnsteuerkarte dem Finanzamt auf Verlangen vorzulegen.
-
-(3) <sup>1</sup>Hat die Gemeinde für den Arbeitnehmer keine Lohnsteuerkarte für das Kalenderjahr 2010 ausgestellt oder ist die Lohnsteuerkarte 2010 verloren gegangen, unbrauchbar geworden oder zerstört worden, hat das Finanzamt im Übergangszeitraum auf Antrag des Arbeitnehmers eine Bescheinigung für den Lohnsteuerabzug nach amtlich vorgeschriebenem Muster auszustellen. <sup>2</sup>Diese Bescheinigung tritt an die Stelle der Lohnsteuerkarte.
-
-(4) <sup>1</sup>Beginnt ein nach § 1 Absatz 1 unbeschränkt einkommensteuerpflichtiger lediger Arbeitnehmer im Übergangszeitraum ein Ausbildungsdienstverhältnis als erstes Dienstverhältnis, kann der Arbeitgeber auf die Vorlage einer Bescheinigung für den Lohnsteuerabzug verzichten. <sup>2</sup>In diesem Fall hat der Arbeitgeber die Lohnsteuer nach der Steuerklasse I zu ermitteln; der Arbeitnehmer hat dem Arbeitgeber seine Identifikationsnummer sowie den Tag der Geburt und die rechtliche Zugehörigkeit zu einer steuererhebenden Religionsgemeinschaft mitzuteilen und schriftlich zu bestätigen, dass es sich um das erste Dienstverhältnis handelt. <sup>3</sup>Der Arbeitgeber hat die Erklärung des Arbeitnehmers bis zum Ablauf des Kalenderjahres als Beleg zum Lohnkonto aufzubewahren.
-
-(5) <sup>1</sup>Das Bundesministerium der Finanzen hat im Einvernehmen mit den obersten Finanzbehörden der Länder den Zeitpunkt der erstmaligen Anwendung der ELStAM für die Durchführung des Lohnsteuerabzugs ab dem Kalenderjahr 2012 oder einem späteren Anwendungszeitpunkt sowie den Zeitpunkt des erstmaligen Abrufs der ELStAM durch den Arbeitgeber (Starttermin) in einem Schreiben zu bestimmen, das im Bundessteuerblatt zu veröffentlichen ist. <sup>2</sup>Nach dem Starttermin hat der Arbeitgeber oder sein Vertreter (§ 39e Absatz 4 Satz 6) die nach § 39e gebildeten ELStAM für die auf den Starttermin folgende nächste Lohnabrechnung abzurufen. <sup>3</sup>Für den Abruf der ELStAM hat sich der Arbeitgeber zu authentifizieren und die Steuernummer der Betriebsstätte oder des Teils des Betriebs des Arbeitgebers, in dem der für die Durchführung des Lohnsteuerabzugs maßgebende Arbeitslohn des Arbeitnehmers ermittelt wird (§ 41 Absatz 2), sowie die Identifikationsnummer und den Tag der Geburt des Arbeitnehmers mitzuteilen. <sup>4</sup>Der Arbeitgeber hat die ELStAM in das Lohnkonto zu übernehmen und gemäß der übermittelten zeitlichen Gültigkeitsangabe anzuwenden.
-
-(6) <sup>1</sup>Der Abruf der ELStAM durch den Arbeitgeber steht einer gesonderten Feststellung von Besteuerungsgrundlagen im Sinne des § 179 der Abgabenordnung des zuständigen Finanzamts unter dem Vorbehalt der Nachprüfung gleich; einer Rechtsbehelfsbelehrung bedarf es nicht. <sup>2</sup>Sie gelten gegenüber dem Arbeitnehmer als bekannt gegeben, sobald der Arbeitgeber dem Arbeitnehmer den Ausdruck der Lohnabrechnung mit den darin ausgewiesenen ELStAM ausgehändigt oder elektronisch bereitgestellt hat. <sup>3</sup>Die Verpflichtungen des Arbeitnehmers nach Absatz 2 gelten entsprechend. <sup>4</sup>Für die Berichtigung der ELStAM ist das Finanzamt des Arbeitnehmers zuständig. <sup>5</sup>Das gilt auch, wenn der Arbeitnehmer eine Änderung der ELStAM beantragt.
-
-(7) <sup>1</sup>In den Fällen des § 39c Absatz 3 Satz 3 und Absatz 4 Satz 3 sowie des § 39d Absatz 1 Satz 3 stellt das Betriebsstättenfinanzamt für die Arbeitnehmer, denen keine Identifikationsnummer zugeteilt wurde, eine Bescheinigung für den Lohnsteuerabzug (Absatz 3) aus. <sup>2</sup>In diesem Fall tritt an die Stelle der Identifikationsnummer das lohnsteuerliche Ordnungsmerkmal (§ 41b Absatz 2 Satz 1 und 2).
-
-(8) <sup>1</sup>Das Finanzamt teilt dem Steuerpflichtigen auf Anfrage die bereitgestellten ELStAM mit. <sup>2</sup>Der Steuerpflichtige kann über das Finanzamt die Bereitstellung der ELStAM allgemein sperren lassen. <sup>3</sup>Er kann die Bereitstellung für bestimmte Arbeitgeber freigeben (Positivliste) oder sie für bestimmte Arbeitgeber sperren lassen (Negativliste). <sup>4</sup>Der Arbeitgeber ist verpflichtet, dem Arbeitnehmer für Zwecke der Positivliste die Steuernummer der Betriebsstätte mitzuteilen oder des Teils des Betriebs des Arbeitgebers, in dem der für die Durchführung des Lohnsteuerabzugs maßgebende Arbeitslohn des Arbeitnehmers ermittelt wird. <sup>5</sup>Für Zwecke der Negativliste gilt dies nur für einen Arbeitgeber, bei dem der Arbeitnehmer ab dem Kalenderjahr 2011 beschäftigt ist. <sup>6</sup>Werden wegen einer Sperrung nach Satz 2 oder Satz 3 für einen abrufenden Arbeitgeber keine ELStAM bereitgestellt, so wird dem Arbeitgeber die Sperrung mitgeteilt und der Arbeitgeber hat die Lohnsteuer nach Steuerklasse VI zu ermitteln.
-
-(9) <sup>1</sup>Das Finanzamt informiert den Arbeitnehmer rechtzeitig vor dem Starttermin (Absatz 5) über die für ihn zum Zweck der Bereitstellung automatisiert abrufbarer Lohnsteuerabzugsmerkmale zu diesem Zeitpunkt gebildeten ELStAM. <sup>2</sup>Mit der Information wird der Arbeitnehmer aufgefordert, dem zuständigen Finanzamt etwaige gewünschte Änderungen oder Berichtigungen mitzuteilen; Absatz 2 Satz 2 und 3 gilt entsprechend.
+### § 52b (weggefallen)
 
 ### § 53 Sondervorschrift zur Steuerfreistellung des Existenzminimums eines Kindes in den Veranlagungszeiträumen 1983 bis 1995
 
@@ -8694,7 +8674,7 @@ als die für die Ermittlung und Überprüfung des Zulageanspruchs und Durchführ
 
 ### § 91 Datenerhebung und Datenabgleich
 
-(1) <sup>1</sup>Für die Berechnung und Überprüfung der Zulage sowie die Überprüfung des Vorliegens der Voraussetzungen des Sonderausgabenabzugs nach § 10a übermitteln die Träger der gesetzlichen Rentenversicherung, der Spitzenverband der landwirtschaftlichen Sozialversicherung für die Träger der Alterssicherung der Landwirte, die Bundesagentur für Arbeit, die Meldebehörden, die Familienkassen und die Finanzämter der zentralen Stelle auf Anforderung die bei ihnen vorhandenen Daten nach § 89 Absatz 2 durch Datenfernübertragung; für Zwecke der Berechnung des Mindesteigenbeitrags für ein Beitragsjahr darf die zentrale Stelle bei den Trägern der gesetzlichen Rentenversicherung und dem Spitzenverband der landwirtschaftlichen Sozialversicherung für die Träger der Alterssicherung der Landwirte die bei ihnen vorhandenen Daten zu den beitragspflichtigen Einnahmen sowie in den Fällen des § 10a Absatz 1 Satz 4 zur Höhe der bezogenen Rente wegen voller Erwerbsminderung oder Erwerbsunfähigkeit erheben, sofern diese nicht vom Anbieter nach § 89 übermittelt worden sind. <sup>2</sup>Für Zwecke der Überprüfung nach Satz 1 darf die zentrale Stelle die ihr übermittelten Daten mit den ihr nach § 89 Absatz 2 übermittelten Daten automatisiert abgleichen. <sup>3</sup>Führt die Überprüfung zu einer Änderung der ermittelten oder festgesetzten Zulage, ist dies dem Anbieter mitzuteilen. <sup>4</sup>Ergibt die Überprüfung eine Abweichung von dem in der Steuerfestsetzung berücksichtigten Sonderausgabenabzug nach § 10a oder der gesonderten Feststellung nach § 10a Absatz 4, ist dies dem Finanzamt mitzuteilen; die Steuerfestsetzung oder die gesonderte Feststellung ist insoweit zu ändern.
+(1) <sup>1</sup>Für die Berechnung und Überprüfung der Zulage sowie die Überprüfung des Vorliegens der Voraussetzungen des Sonderausgabenabzugs nach § 10a übermitteln die Träger der gesetzlichen Rentenversicherung, die landwirtschaftliche Alterskasse, die Bundesagentur für Arbeit, die Meldebehörden, die Familienkassen und die Finanzämter der zentralen Stelle auf Anforderung die bei ihnen vorhandenen Daten nach § 89 Absatz 2 durch Datenfernübertragung; für Zwecke der Berechnung des Mindesteigenbeitrags für ein Beitragsjahr darf die zentrale Stelle bei den Trägern der gesetzlichen Rentenversicherung und der landwirtschaftlichen Alterskasse die bei ihnen vorhandenen Daten zu den beitragspflichtigen Einnahmen sowie in den Fällen des § 10a Absatz 1 Satz 4 zur Höhe der bezogenen Rente wegen voller Erwerbsminderung oder Erwerbsunfähigkeit erheben, sofern diese nicht vom Anbieter nach § 89 übermittelt worden sind. <sup>2</sup>Für Zwecke der Überprüfung nach Satz 1 darf die zentrale Stelle die ihr übermittelten Daten mit den ihr nach § 89 Absatz 2 übermittelten Daten automatisiert abgleichen. <sup>3</sup>Führt die Überprüfung zu einer Änderung der ermittelten oder festgesetzten Zulage, ist dies dem Anbieter mitzuteilen. <sup>4</sup>Ergibt die Überprüfung eine Abweichung von dem in der Steuerfestsetzung berücksichtigten Sonderausgabenabzug nach § 10a oder der gesonderten Feststellung nach § 10a Absatz 4, ist dies dem Finanzamt mitzuteilen; die Steuerfestsetzung oder die gesonderte Feststellung ist insoweit zu ändern.
 
 (2) <sup>1</sup>Die zuständige Stelle hat der zentralen Stelle die Daten nach § 10a Absatz 1 Satz 1 zweiter Halbsatz bis zum 31. März des dem Beitragsjahr folgenden Kalenderjahres durch Datenfernübertragung zu übermitteln. <sup>2</sup>Liegt die Einwilligung nach § 10a Absatz 1 Satz 1 zweiter Halbsatz erst nach dem im Satz 1 genannten Meldetermin vor, hat die zuständige Stelle die Daten spätestens bis zum Ende des folgenden Kalendervierteljahres nach Erteilung der Einwilligung nach Maßgabe von Satz 1 zu übermitteln.
 
@@ -9110,10 +9090,10 @@ b)
 Gesellschaften belgischen Rechts mit der Bezeichnung „société anonyme“/„naamloze vennootschap“, „société en commandite par actions“/„commanditaire vennootschap op aandelen“, „société privée à responsabilité limitée“/„besloten vennootschap met beperkte aansprakelijkheid“, „société coopérative à responsabilité limitée“/„coöperatieve vennootschap met beperkte aansprakelijkheid“, „société coopérative à responsabilité illimitée“/„coöperatieve vennootschap met onbeperkte aansprakelijkheid“, „société en nom collectif“/„vennootschap onder firma“, „société en commandite simple“/„gewone commanditaire vennootschap“, öffentliche Unternehmen, die eine der genannten Rechtsformen angenommen haben, und andere nach belgischem Recht gegründete Gesellschaften, die der belgischen Körperschaftsteuer unterliegen;
 
 c)  
-Gesellschaften bulgarischen Rechts mit der Bezeichnung „събирателното дружество“, „командитното дружество“, „дружеството с ограничена отговорност“, „акционерното дружество“, „командитното дружество с акции“, „неперсонифицирано дружество“, „кооперации“, „кооперативни съюзи“, „държавнипредприятия“, die nach bulgarischem Recht gegründet wurden und gewerbliche Tätigkeiten ausüben;
+Gesellschaften bulgarischen Rechts mit der Bezeichnung , die nach bulgarischem Recht gegründet wurden und gewerbliche Tätigkeiten ausüben;
 
 d)  
-Gesellschaften tschechischen Rechts mit der Bezeichnung „akciová společnost“, „společnost s ručením omezeným“;
+Gesellschaften tschechischen Rechts mit der Bezeichnung , ;
 
 e)  
 Gesellschaften dänischen Rechts mit der Bezeichnung „aktieselskab“ oder „anpartsselskab“. <sup>2</sup>Weitere nach dem Körperschaftsteuergesetz steuerpflichtige Gesellschaften, soweit ihr steuerbarer Gewinn nach den allgemeinen steuerrechtlichen Bestimmungen für die „aktieselskaber“ ermittelt und besteuert wird;
@@ -9125,7 +9105,7 @@ g)
 Gesellschaften estnischen Rechts mit der Bezeichnung „täisühing“, „usaldusühing“, „osaühing“, „aktsiaselts“, „tulundusühistu“;
 
 h)  
-Gesellschaften griechischen Rechts mit der Bezeichnung „ανώνυμη εταιρεία“, „εταιρεία περιορισμένης ευθύνης (Ε.Π.Ε.)“ und andere nach griechischem Recht gegründete Gesellschaften, die der griechischen Körperschaftsteuer unterliegen;
+Gesellschaften griechischen Rechts mit der Bezeichnung und andere nach griechischem Recht gegründete Gesellschaften, die der griechischen Körperschaftsteuer unterliegen;
 
 i)  
 Gesellschaften spanischen Rechts mit der Bezeichnung „sociedad anónima“, „sociedad comanditaria por acciones“, „sociedad de responsabilidad limitada“, die öffentlich-rechtlichen Körperschaften, deren Tätigkeit unter das Privatrecht fällt. Andere nach spanischem Recht gegründete Körperschaften, die der spanischen Körperschaftsteuer („impuesto sobre sociedades“) unterliegen;
@@ -9140,10 +9120,10 @@ l)
 Gesellschaften italienischen Rechts mit der Bezeichnung „società per azioni“, „società in accomandita per azioni“, „società a responsibilità limitata“, „società cooperative“, „società di mutua assicurazione“ sowie öffentliche und private Körperschaften, deren Tätigkeit ganz oder überwiegend handelsgewerblicher Art ist;
 
 m)  
-Gesellschaften zyprischen Rechts mit der Bezeichnung „εταιρείες“ im Sinne der Einkommensteuergesetze;
+Gesellschaften zyprischen Rechts mit der Bezeichnung im Sinne der Einkommensteuergesetze;
 
 n)  
-Gesellschaften lettischen Rechts mit der Bezeichnung „akciju sabiedrība“, „sabiedrība ar ierobežotu atbildību“;
+Gesellschaften lettischen Rechts mit der Bezeichnung , ;
 
 o)  
 Gesellschaften litauischen Rechts;
@@ -9152,10 +9132,10 @@ p)
 Gesellschaften luxemburgischen Rechts mit der Bezeichnung „société anonyme“, „société en commandite par actions“, „société à responsabilité limitée“, „société coopérative“, „société coopérative organisée comme une société anonyme“, „association d'assurances mutuelles“, „association d´épargne-pension“, „entreprise de nature commerciale, industrielle ou minière de l´Etat, des communes, des syndicats de communes, des établissements publics et des autres personnes morales de droit public“ sowie andere nach luxemburgischem Recht gegründete Gesellschaften, die der luxemburgischen Körperschaftsteuer unterliegen;
 
 q)  
-Gesellschaften ungarischen Rechts mit der Bezeichnung „közkereseti társaság“, „betéti társaság“, „közös vállalat“, „korlátolt felelősségű társaság“, „részvénytársaság“, „egyesülés“, „szövetkezet“;
+Gesellschaften ungarischen Rechts mit der Bezeichnung , , , , ;
 
 r)  
-Gesellschaften maltesischen Rechts mit der Bezeichnung „Kumpaniji ta´ Responsabilita´ Limitata“, „Soċjetajiet en commandite li l-kapitaltagħhom maqsum f'azzjonijiet“;
+Gesellschaften maltesischen Rechts mit der Bezeichnung , ;
 
 s)  
 Gesellschaften niederländischen Rechts mit der Bezeichnung „naamloze vennootschap“, „besloten vennootschap met beperkte aansprakelijkheid“, „Open commanditaire vennootschap“, „Coöperatie“, „onderlinge waarborgmaatschappij“, „Fonds voor gemene rekening“, „vereniging op coöperatieve grondslag“, „vereniging welke op onderlinge grondslag als verzekeraar of kredietinstelling optreedt“ und andere nach niederländischem Recht gegründete Gesellschaften, die der niederländischen Körperschaftsteuer unterliegen;
@@ -9164,22 +9144,22 @@ t)
 Gesellschaften österreichischen Rechts mit der Bezeichnung „Aktiengesellschaft“, „Gesellschaft mit beschränkter Haftung“, „Versicherungsvereine auf Gegenseitigkeit“, „Erwerbs- und Wirtschaftsgenossenschaften“, „Betriebe gewerblicher Art von Körperschaften des öffentlichen Rechts“, „Sparkassen“ und andere nach österreichischem Recht gegründete Gesellschaften, die der österreichischen Körperschaftsteuer unterliegen;
 
 u)  
-Gesellschaften polnischen Rechts mit der Bezeichnung „spółka akcyjna“, „spółka z ograniczoną odpowiedzialnością“;
+Gesellschaften polnischen Rechts mit der Bezeichnung ,
 
 v)  
 die nach portugiesischem Recht gegründeten Handelsgesellschaften oder zivilrechtlichen Handelsgesellschaften, Genossenschaften und öffentlichen Unternehmen;
 
 w)  
-Gesellschaften rumänischen Rechts mit der Bezeichnung „societăţi pe acţiuni“, „societăţi în comandită pe acţiuni“, „societăţi cu răspundere limitată“;
+Gesellschaften rumänischen Rechts mit der Bezeichnung , , ;
 
 x)  
-Gesellschaften slowenischen Rechts mit der Bezeichnung „delniška družba“, „komanditna družba“, „družba z omejeno odgovornostjo“;
+Gesellschaften slowenischen Rechts mit der Bezeichnung , , ;
 
 y)  
-Gesellschaften slowakischen Rechts mit der Bezeichnung „akciová spoločnosť“, „spoločnosť s ručením obmedzeným“, „komanditná spoločnosť“;
+Gesellschaften slowakischen Rechts mit der Bezeichnung , , ;
 
 z)  
-Gesellschaften finnischen Rechts mit der Bezeichnung „osakeyhtiö“/„aktiebolag“, „osuuskunta“/„andelslag“, „säästöpankki“/„sparbank“ und „vakuutusyhtiö“/„försäkringsbolag“;
+Gesellschaften finnischen Rechts mit der Bezeichnung , , und „vakuutusyhtiö“/„försäkringsbolag“;
 
 aa)  
 Gesellschaften schwedischen Rechts mit der Bezeichnung „aktiebolag“, „försäkringsaktiebolag“, „ekonomiska föreningar“, „sparbanker“, „ömsesidiga försäkringsbolag“;
@@ -9194,85 +9174,59 @@ nach dem Steuerrecht eines Mitgliedstaats in Bezug auf den steuerlichen Wohnsitz
 ohne Wahlmöglichkeit einer der nachstehenden Steuern
 
 –  
-vennootschapsbelasting/impôt des sociétés in Belgien,
 
 –  
-selskabsskat in Dänemark,
 
 –  
-Körperschaftsteuer in Deutschland,
 
 –  
-Yhteisöjen tulovero/inkomstskatten för samfund in Finnland,
 
 –  
-φόρος εισοδήματος νομικών κερδοσκοπικού χαρακτήρα in Griechenland,
+in Griechenland,
 
 –  
-impuesto sobre sociedades in Spanien,
 
 –  
-impôt sur les sociétés in Frankreich,
 
 –  
-corporation tax in Irland,
 
 –  
-imposta sul reddito delle persone giuridiche in Italien,
 
 –  
-impôt sur le revenu des collectivités in Luxemburg,
 
 –  
-vennootschapsbelasting in den Niederlanden,
 
 –  
-Körperschaftsteuer in Österreich,
 
 –  
-imposto sobre o rendimento das pessoas colectivas in Portugal,
 
 –  
-Statlig inkomstskatt in Schweden,
 
 –  
-corporation tax im Vereinigten Königreich,
 
 –  
-Daň z příjmů právnických in der Tschechischen Republik,
 
 –  
-Tulumaks in Estland,
 
 –  
-Φόρος Είσοδήματος in Zypern,
 
 –  
-uzņēmumu ienākuma nodoklis in Lettland,
 
 –  
-Pelno mokestis in Litauen,
 
 –  
-Társasági adó, osztalékadó in Ungarn,
 
 –  
-Taxxa fuq l-income in Malta,
 
 –  
-Podatek dochodowy od osób prawnych in Polen,
 
 –  
-Davek od dobička pravnih oseb in Slowenien,
 
 –  
-daň z príjmov právnických osôb in der Slowakei,
 
 –  
-корпоративен данък in Bulgarien,
 
 –  
-impozit pe profit in Rumänien
 
 oder irgendeiner Steuer, die eine dieser Steuern ersetzt, unterliegt, ohne davon befreit zu sein.
 
@@ -9295,7 +9249,7 @@ c)
 Gesellschaften deutschen Rechts mit der Bezeichnung:„Aktiengesellschaft“, „Kommanditgesellschaft auf Aktien“ und „Gesellschaft mit beschränkter Haftung“;
 
 d)  
-Gesellschaften griechischen Rechts mit der Bezeichnung:„ανώνυµη εταιρíα“;
+Gesellschaften griechischen Rechts mit der Bezeichnung:
 
 e)  
 Gesellschaften spanischen Rechts mit der Bezeichnung:„sociedad anónima“, „sociedad comanditaria por acciones“, „sociedad de responsabilidad limitada“ sowie öffentlich-rechtliche Körperschaften, deren Tätigkeit unter das Privatrecht fällt;
@@ -9331,7 +9285,7 @@ o)
 nach dem Recht des Vereinigten Königreichs gegründete Gesellschaften;
 
 p)  
-Gesellschaften tschechischen Rechts mit der Bezeichnung:„akciová společnost“, „společnost s ručením omezeným“, „veřejná obchodní společnost“, „komanditní společnost“, und „družstvo“;
+Gesellschaften tschechischen Rechts mit der Bezeichnung:
 
 q)  
 Gesellschaften estnischen Rechts mit der Bezeichnung:„täisühing“, „usaldusühing“, „osaühing“, „aktsiaselts“, und „tulundusühistu“;
@@ -9340,114 +9294,88 @@ r)
 Gesellschaften zyprischen Rechts, die nach dem Gesellschaftsrecht als Gesellschaften bezeichnet werden, Körperschaften des öffentlichen Rechts und sonstige Körperschaften, die als Gesellschaft im Sinne der Einkommensteuergesetze gelten;
 
 s)  
-Gesellschaften lettischen Rechts mit der Bezeichnung:„akciju sabiedrība“ und „sabiedrība ar ierobežotu atbildību“;
+Gesellschaften lettischen Rechts mit der Bezeichnung:
 
 t)  
 nach dem Recht Litauens gegründete Gesellschaften;
 
 u)  
-Gesellschaften ungarischen Rechts mit der Bezeichnung:„közkereseti társaság“, „betéti társaság“, „közös vállalat“, „korlátolt felelősségű társaság“, „részvénytársaság“, „egyesülés“, „közhasznú társaság“ und „szövetkezet“;
+Gesellschaften ungarischen Rechts mit der Bezeichnung:
 
 v)  
-Gesellschaften maltesischen Rechts mit der Bezeichnung:„Kumpaniji ta' Responsabilita' Limitata“, und „Soċjetajiet in akkomandita li l-kapital tagħhom maqsum f'azzjonijiet“;
+Gesellschaften maltesischen Rechts mit der Bezeichnung:
 
 w)  
-Gesellschaften polnischen Rechts mit der Bezeichnung:„spółka akcyjna“ und „spółka z ograniczoną odpowiedzialnością“;
+Gesellschaften polnischen Rechts mit der Bezeichnung: und ;
 
 x)  
-Gesellschaften slowenischen Rechts mit der Bezeichnung:„delniška družba“, „komanditna delniška družba“, „komanditna družba“, „družba z omejeno odgovornostjo“ und „družba z neomejeno odgovornostjo“;
+Gesellschaften slowenischen Rechts mit der Bezeichnung:, , , und ;
 
 y)  
-Gesellschaften slowakischen Rechts mit der Bezeichnung:„akciová spoločnos“, „spoločnosť s ručením obmedzeným“, „komanditná spoločnos“, „verejná obchodná spoločnos“ und „družstvo“;
+Gesellschaften slowakischen Rechts mit der Bezeichnung:
 
 aa)  
-Gesellschaften bulgarischen Rechts mit der Bezeichnung:„събирателното дружество“, „командитното дружество“, „дружеството с ограничена отговорност“, „акционерното дружество“, „командитното дружество с акции“, „кооперации“, „кооперативни съюзи“, „държавни предприятия“, die nach bulgarischem Recht gegründet wurden und gewerbliche Tätigkeiten ausüben;
+Gesellschaften bulgarischen Rechts mit der Bezeichnung:, die nach bulgarischem Recht gegründet wurden und gewerbliche Tätigkeiten ausüben;
 
 ab)  
-Gesellschaften rumänischen Rechts mit der Bezeichnung:„societăţi pe acţiuni“, „societăţi în comandită pe acţiuni“, „societăţi cu răspundere limitată“.
+Gesellschaften rumänischen Rechts mit der Bezeichnung:
 
 2.  
 Steuern im Sinne von § 50g Absatz 3 Nummer 5 Buchstabe a Doppelbuchstabe cc sind:
 
 –  
-impôt des sociétés/vennootschapsbelasting in Belgien,
 
 –  
-selskabsskat in Dänemark,
 
 –  
-Körperschaftsteuer in Deutschland,
 
 –  
-Φόρος εισοδήµατος νοµικών προσώπων in Griechenland,
 
 –  
-impuesto sobre sociedades in Spanien,
 
 –  
-impôt sur les sociétés in Frankreich,
 
 –  
-corporation tax in Irland,
 
 –  
-imposta sul reddito delle persone giuridiche in Italien,
 
 –  
-impôt sur le revenu des collectivités in Luxemburg,
 
 –  
-vennootschapsbelasting in den Niederlanden,
 
 –  
-Körperschaftsteuer in Österreich,
 
 –  
-imposto sobre o rendimento da pessoas colectivas in Portugal,
 
 –  
-yhteisöjen tulovero/inkomstskatten för samfund in Finnland,
 
 –  
-statlig inkomstskatt in Schweden,
 
 –  
-corporation tax im Vereinigten Königreich,
 
 –  
-Daň z příjmů právnických osob in der Tschechischen Republik,
 
 –  
-Tulumaks in Estland,
 
 –  
-φόρος εισοδήματος in Zypern,
+in Zypern,
 
 –  
-Uzņēmumu ienākuma nodoklis in Lettland,
 
 –  
-Pelno mokestis in Litauen,
 
 –  
-Társasági adó in Ungarn,
 
 –  
-Taxxa fuq l-income in Malta,
 
 –  
-Podatek dochodowy od osób prawnych in Polen,
 
 –  
-Davek od dobička pravnih oseb in Slowenien,
 
 –  
-Daň z príjmov právnických osôb in der Slowakei,
 
 –  
-корпоративен данък in Bulgarien,
 
 –  
-impozit pe profit, impozitul pe veniturile obţinute din România de nerezidenţi in Rumänien.
 
 (+++ Anlage 3: Zur Anwendung vgl. § 52 Abs. 59c +++)
