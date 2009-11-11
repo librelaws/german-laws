@@ -5,10 +5,13 @@ Neuf
 Neugefasst durch Bek. v. 12.11.2009 I 3710, 3973; 2011 I 363;
 
 Stand  
-zuletzt geändert durch Art. 3 G v. 19.10.2013 I 3836
+zuletzt geändert durch Art. 1 G v. 30.7.2014 I 1311
 
 Hinweis  
-Änderung durch Art. 4 G v. 19.10.2013 I 3836 (Nr. 63) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 9 G v. 11.8.2014 I 1348 (Nr. 39) noch nicht berücksichtigt
+
+Sonst  
+Außerkrafttreten gem. Art. 15 Abs. 3 G v. 11.8.2014 I 1348 (Nr. 39) noch nicht berücksichtigt
 
 ### 
 
@@ -753,6 +756,8 @@ Sie finden keine Anwendung bei der Ermittlung von Bemessungsgrundlagen von Sozia
 
 (3) Beitrittsgebiet ist das in Artikel 3 des Einigungsvertrages genannte Gebiet.
 
+(+++ Hinweis: Zur Bezugsgröße vgl. die jeweilige Sozialversicherungs-Rechengrößenverordnung +++)
+
 Vierter Titel Einkommen beim Zusammentreffen mit Renten wegen Todes
 -------------------------------------------------------------------
 
@@ -1138,6 +1143,8 @@ Die Bestimmungen dieses Absatzes finden keine Anwendung auf Vereinbarungen, die 
 (1) Zuschüsse des Arbeitgebers zum Krankengeld, Verletztengeld, Übergangsgeld oder Krankentagegeld und sonstige Einnahmen aus einer Beschäftigung, die für die Zeit des Bezuges von Krankengeld, Krankentagegeld, Versorgungskrankengeld, Verletztengeld, Übergangsgeld, Mutterschaftsgeld, Erziehungsgeld oder Elterngeld weiter erzielt werden, gelten nicht als beitragspflichtiges Arbeitsentgelt, wenn die Einnahmen zusammen mit den genannten Sozialleistungen das Nettoarbeitsentgelt (§ 47 des Fünften Buches) nicht um mehr als 50 Euro im Monat übersteigen. Zur Berechnung des Nettoarbeitsentgelts bei freiwilligen Mitgliedern der gesetzlichen Krankenversicherung ist der um den Beitragszuschuss für Beschäftigte verminderte Beitrag des Versicherten zur Kranken- und Pflegeversicherung abzuziehen; dies gilt entsprechend für Personen und für ihre nicht selbstversicherten Angehörigen, die bei einem privaten Krankenversicherungsunternehmen versichert sind einschließlich der Versicherung für das Krankentagegeld. Für Beschäftigte, die nach § 6 Absatz 1 Satz 1 Nummer 1 des Sechsten Buches von der Versicherungspflicht befreit sind und Pflichtbeiträge an eine berufsständische Versorgungseinrichtung entrichten, sind bei der Ermittlung des Nettoentgeltes die um den Arbeitgeberzuschuss nach § 172a des Sechsten Buches verminderten Pflichtbeiträge des Beschäftigten entsprechend abzuziehen.
 
 (2) Sind zur Gewährung von Krankengeld, Verletztengeld, Übergangsgeld oder Mutterschaftsgeld Angaben über das Beschäftigungsverhältnis notwendig und sind diese dem Leistungsträger aus anderem Grund nicht bekannt, sind sie durch eine Bescheinigung des Arbeitgebers nachzuweisen. Der Arbeitgeber hat dem Leistungsträger diese Bescheinigung im Einzelfall durch gesicherte und verschlüsselte Datenübertragung aus systemgeprüften Programmen oder mittels maschinell erstellter Ausfüllhilfen zu erstatten. Den Aufbau des Datensatzes, notwendige Schlüsselzahlen und Angaben bestimmen der Spitzenverband Bund der Krankenkassen, die Deutsche Rentenversicherung Bund, die Bundesagentur für Arbeit und die Spitzenverbände der Unfallversicherungsträger in Gemeinsamen Grundsätzen. Die Gemeinsamen Grundsätze bedürfen der Genehmigung des Bundesministeriums für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für Gesundheit; die Bundesvereinigung der Deutschen Arbeitgeberverbände ist anzuhören. Die Sätze 2 bis 4 gelten nicht für die Gewährung von Krankengeld bei einer Spende von Organen oder Geweben nach § 44a des Fünften Buches.
+
+(2a) Arbeitgeber, die Bescheinigungen nach den §§ 312, 312a und 313 des Dritten Buches elektronisch nach § 313a des Dritten Buches übermitteln, haben diese Meldungen durch gesicherte und verschlüsselte Datenübertragung aus systemgeprüften Programmen oder mittels maschinell erstellter Ausfüllhilfe im eXTra-Standard zu erstatten. In diesen Fällen hat die Bundesagentur für Arbeit alle Rückmeldungen an die Arbeitgeber ebenfalls durch Datenübertragung zu erstatten. Die Bundesagentur für Arbeit bestimmt das Nähere zu den Datensätzen, notwendige Schlüsselzahlen und Angaben für die Meldungen und Rückmeldungen sowie zum Verfahren bundeseinheitlich in Grundsätzen. Die Grundsätze bedürfen der Genehmigung des Bundesministeriums für Arbeit und Soziales, das vorher die Bundesvereinigung der Deutschen Arbeitgeberverbände anzuhören hat.
 
 (3) Übermittelt ein Arbeitgeber eine Bescheinigung nach Absatz 2, so hat in diesen Fällen der Leistungsträger alle Angaben gegenüber dem Arbeitgeber durch Datenübertragung zu erstatten. Absatz 2 Satz 3 und 4 gilt entsprechend. Die Sätze 1 und 2 gelten entsprechend, wenn Krankenkassen auf Antrag des Arbeitgebers Mitteilungen über auf den Anspruch auf Entgeltfortzahlung anrechenbare Zeiten der Arbeitsunfähigkeit der Beschäftigten oder für Anträge nach Absatz 2 Satz 1 die Krankenversicherungsnummer übermitteln. Im Falle der Zahlung von Krankentagegeld können private Krankenversicherungsunternehmen Angaben gegenüber dem Arbeitgeber nach den Sätzen 1 und 2 erstatten.
 
