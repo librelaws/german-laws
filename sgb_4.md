@@ -2,22 +2,13 @@ Sozialgesetzbuch (SGB) Viertes Buch (IV) - Gemeinsame Vorschriften für die Sozi
 ==================================================================================================================================================================
 
 Neuf  
-Neugefasst durch Bek. v. 12.11.2009 I 3710, 3973; 2011 I 363
+Neugefasst durch Bek. v. 12.11.2009 I 3710, 3973; 2011 I 363;
 
 Stand  
-zuletzt geändert durch Art. 4 Abs. 2 G v. 20.4.2013 I 868
+zuletzt geändert durch Art. 3 G v. 19.10.2013 I 3836
 
 Hinweis  
-Änderung durch Art. 2 G v. 15.7.2013 I 2423 (Nr. 38) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 5 G v. 25.7.2013 I 2749 (Nr. 43) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 2a G v. 7.8.2013 I 3108 (Nr. 47) noch nicht berücksichtigt
-
-Hinweis  
-Änderung durch Art. 6 G v. 28.8.2013 I 3386 (Nr. 53) noch nicht berücksichtigt
+Änderung durch Art. 4 G v. 19.10.2013 I 3836 (Nr. 63) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -821,7 +812,7 @@ Altersrenten und Renten wegen Erwerbsminderung der Alterssicherung der Landwirte
 die Verletztenrente der Unfallversicherung, soweit sie einen der Grundrente nach dem Bundesversorgungsgesetz entsprechenden Betrag übersteigt; eine Kürzung oder ein Wegfall der Verletztenrente wegen Anstaltspflege oder Aufnahme in ein Alters- oder Pflegeheim bleibt unberücksichtigt; bei einer Minderung der Erwerbsfähigkeit um 20 vom Hundert ist ein Betrag in Höhe von zwei Dritteln, bei einer Minderung der Erwerbsfähigkeit um 10 vom Hundert ist ein Betrag in Höhe von einem Drittel der Mindestgrundrente anzusetzen,
 
 5.  
-das Ruhegehalt und vergleichbare Bezüge aus einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis oder aus einem versicherungsfreien Arbeitsverhältnis mit Anspruch auf Versorgung nach beamtenrechtlichen Vorschriften oder Grundsätzen sowie vergleichbare Bezüge aus der Versorgung der Abgeordneten,
+das Ruhegehalt und vergleichbare Bezüge aus einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis oder aus einem versicherungsfreien Arbeitsverhältnis mit Anspruch auf Versorgung nach beamtenrechtlichen Vorschriften oder Grundsätzen, Altersgeld oder vergleichbare Alterssicherungsleistungen sowie vergleichbare Bezüge aus der Versorgung der Abgeordneten,
 
 6.  
 das Unfallruhegehalt und vergleichbare Bezüge aus einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis oder aus einem versicherungsfreien Arbeitsverhältnis mit Anspruch auf Versorgung nach beamtenrechtlichen Vorschriften oder Grundsätzen sowie vergleichbare Bezüge aus der Versorgung der Abgeordneten; wird daneben kein Unfallausgleich gezahlt, gilt Nummer 4 letzter Teilsatz entsprechend,
@@ -1323,7 +1314,7 @@ f)
 die Angabe der Staatsangehörigkeit,
 
 2.  
-bei der Abmeldung und bei der Jahresmeldung
+bei allen Entgeltmeldungen
 
 a)  
 eine Namens-, Anschriften- oder Staatsangehörigkeitsänderung, soweit diese Änderung nicht schon anderweitig gemeldet ist,
@@ -1929,6 +1920,8 @@ Außerdem ist dem Vorsitzenden des Verwaltungsrates aus sonstigen wichtigen Anl�
 (5) Der Vorstand sowie aus seiner Mitte der Vorstandsvorsitzende und dessen Stellvertreter werden von dem Verwaltungsrat gewählt. Bei Betriebskrankenkassen bleibt § 147 Absatz 2 des Fünften Buches unberührt; bestellt der Arbeitgeber auf seine Kosten die für die Führung der Geschäfte erforderlichen Personen, so bedarf die Bestellung der Mitglieder des Vorstandes der Zustimmung der Mehrheit der Versichertenvertreter im Verwaltungsrat. Stimmt der Verwaltungsrat nicht zu und bestellt der Arbeitgeber keine anderen Mitglieder des Vorstandes, die die Zustimmung finden, werden die Aufgaben der Vorstandsmitglieder auf Kosten der Betriebskrankenkasse durch die Aufsichtsbehörde oder durch Beauftragte der Aufsichtsbehörde einstweilen wahrgenommen.
 
 (6) Der Verwaltungsrat hat bei seiner Wahl darauf zu achten, dass die Mitglieder des Vorstands die erforderliche fachliche Eignung zur Führung der Verwaltungsgeschäfte besitzen auf Grund einer Fort- oder Weiterbildung im Krankenkassendienst oder einer Fachhochschul- oder Hochschulausbildung sowie in beiden Fällen zusätzlich auf Grund mehrjähriger Berufserfahrung in herausgehobenen Führungsfunktionen. Die Höhe der jährlichen Vergütungen der einzelnen Vorstandsmitglieder einschließlich Nebenleistungen sowie die wesentlichen Versorgungsregelungen sind in einer Übersicht jährlich zum 1. März, erstmalig zum 1. März 2004 im Bundesanzeiger und gleichzeitig, begrenzt auf die jeweilige Krankenkasse und ihre Verbände, in der Mitgliederzeitschrift der betreffenden Krankenkasse zu veröffentlichen. Die Art und die Höhe finanzieller Zuwendungen, die den Vorstandsmitgliedern in Zusammenhang mit ihrer Vorstandstätigkeit von Dritten gewährt werden, sind dem Vorsitzenden und dem stellvertretenden Vorsitzenden des Verwaltungsrates mitzuteilen.
+
+(6a) Der Abschluss, die Verlängerung oder die Änderung eines Vorstandsdienstvertrags bedürfen zu ihrer Wirksamkeit der vorherigen Zustimmung der Aufsichtsbehörde. Die Vergütung der Mitglieder des Vorstandes hat in angemessenem Verhältnis zum Aufgabenbereich, zur Größe und zur Bedeutung der Körperschaft zu stehen. Dabei ist insbesondere die Zahl der Mitglieder der Körperschaft zu berücksichtigen.
 
 (7) Für eine Amtsenthebung und eine Amtsentbindung eines Mitglieds des Vorstands durch den Verwaltungsrat gilt § 59 Absatz 2 und 3 entsprechend. Gründe für eine Amtsenthebung oder eine Amtsentbindung sind auch Unfähigkeit zur ordnungsgemäßen Geschäftsführung oder Vertrauensentzug durch den Verwaltungsrat, es sei denn, dass das Vertrauen aus offenbar unsachlichen Gründen entzogen worden ist. Verstößt ein Mitglied des Vorstandes in grober Weise gegen seine Amtspflichten und kommt ein Beschluss des Verwaltungsrates nach § 59 Absatz 3 Satz 1 nicht innerhalb einer angemessenen Frist zustande, hat die Aufsichtsbehörde dieses Mitglied seines Amtes zu entheben; Rechtsbehelfe gegen die Amtsenthebung haben keine aufschiebende Wirkung.
 
@@ -2898,6 +2891,8 @@ Eine Hypothek, Grundschuld oder Rentenschuld ist als sicher anzusehen, wenn die 
 (2) Der Erwerb und das Leasen von Grundstücken und grundstücksgleichen Rechten sowie die Errichtung, die Erweiterung und der Umbau von Gebäuden bedürfen keiner Genehmigung, wenn die veranschlagten Kosten für ein Vorhaben 0,3 vom Hundert des zuletzt festgestellten Haushaltsvolumens des Versicherungsträgers, mindestens jedoch 22 800 Euro (Stand Haushaltsjahr 2000) und höchstens 342 000 Euro (Stand Haushaltsjahr 2000), nicht übersteigen. Bei dem Leasen von Grundstücken ist von dem fiktiven Kaufpreis auszugehen.
 
 (3) Der Mindest- und Höchstbetrag nach Absatz 2 verändert sich in demselben Verhältnis wie der Baukostenindex, den das Bundesministerium für Arbeit und Soziales alljährlich bekannt gibt.
+
+(3a) Mietverträge von Krankenkassen und ihren Verbänden sind der Aufsichtsbehörde vor ihrem Abschluss vorzulegen, wenn die anzumietende Fläche 7 500 Quadratmeter überschreitet und eine Mietdauer von mehr als zehn Jahren fest vereinbart werden soll. Absatz 1 Satz 5 und 6 gilt entsprechend.
 
 (4) Diese Vorschrift findet auf die Bundesagentur für Arbeit keine Anwendung.
 
