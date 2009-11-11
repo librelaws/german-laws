@@ -7,6 +7,18 @@ Neugefasst durch Bek. v. 12.11.2009 I 3710, 3973; 2011 I 363
 Stand  
 zuletzt geändert durch Art. 4 Abs. 2 G v. 20.4.2013 I 868
 
+Hinweis  
+Änderung durch Art. 2 G v. 15.7.2013 I 2423 (Nr. 38) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 5 G v. 25.7.2013 I 2749 (Nr. 43) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 2a G v. 7.8.2013 I 3108 (Nr. 47) noch nicht berücksichtigt
+
+Hinweis  
+Änderung durch Art. 6 G v. 28.8.2013 I 3386 (Nr. 53) noch nicht berücksichtigt
+
 ### 
 
 ```
@@ -664,7 +676,7 @@ außerhalb der festen Arbeitsstätte beschäftigt werden und diese Arbeitsstätt
 
 ### § 13 Reeder, Seeleute und Deutsche Seeschiffe
 
-(1) Reeder sind die Eigentümer von Seeschiffen. Seeleute sind Kapitäne und Besatzungsmitglieder von Seeschiffen sowie sonstige Arbeitnehmer, die an Bord von Seeschiffen während der Reise im Rahmen des Schiffsbetriebs beschäftigt sind, mit Ausnahme der Lotsen.
+(1) Reeder sind die Eigentümer von Seeschiffen. Seeleute sind alle abhängig beschäftigten Besatzungsmitglieder an Bord von Seeschiffen; Kanalsteurer auf dem Nord-Ostsee-Kanal stehen den Seeleuten gleich.
 
 (2) Als deutsche Seeschiffe gelten alle zur Seefahrt bestimmten Schiffe, die berechtigt sind, die Bundesflagge zu führen.
 
@@ -1142,7 +1154,7 @@ Die Bestimmungen dieses Absatzes finden keine Anwendung auf Vereinbarungen, die 
 
 (1) Für Beiträge und Beitragsvorschüsse, die der Zahlungspflichtige nicht bis zum Ablauf des Fälligkeitstages gezahlt hat, ist für jeden angefangenen Monat der Säumnis ein Säumniszuschlag von eins vom Hundert des rückständigen, auf 50 Euro nach unten abgerundeten Betrages zu zahlen. Bei einem rückständigen Betrag unter 100 Euro ist der Säumniszuschlag nicht zu erheben, wenn dieser gesondert schriftlich anzufordern wäre.
 
-(1a) Abweichend zu Absatz 1 haben freiwillig Versicherte, Versicherte nach § 5 Absatz 1 Nummer 13 des Fünften Buches und nach § 2 Absatz 1 Nummer 7 des Zweiten Gesetzes über die Krankenversicherung der Landwirte für Beiträge und Beitragsvorschüsse, mit denen sie länger als einen Monat säumig sind, für jeden weiteren angefangenen Monat der Säumnis einen Säumniszuschlag von 5 vom Hundert des rückständigen, auf 50 Euro nach unten abgerundeten Beitrages zu zahlen.
+(1a) (weggefallen)
 
 (2) Wird eine Beitragsforderung durch Bescheid mit Wirkung für die Vergangenheit festgestellt, ist ein darauf entfallender Säumniszuschlag nicht zu erheben, soweit der Beitragsschuldner glaubhaft macht, dass er unverschuldet keine Kenntnis von der Zahlungspflicht hatte.
 
@@ -3038,7 +3050,7 @@ der Behörde vom Betroffenen oder von Dritten zur Verfügung gestellte Unterlage
 
 ### § 110c Verwaltungsvereinbarungen, Verordnungsermächtigung
 
-(1) Die Spitzenverbände der Träger der Sozialversicherung und die Bundesagentur für Arbeit vereinbaren gemeinsam unter besonderer Berücksichtigung der schutzwürdigen Interessen der Betroffenen und der Voraussetzungen des Signaturgesetzes das Nähere zu den Grundsätzen ordnungsmäßiger Aufbewahrung im Sinne des § 110a, den Voraussetzungen der Rückgabe und Vernichtung von Unterlagen sowie die Aufbewahrungsfristen für Unterlagen. Die Vereinbarung kann auf bestimmte Sozialleistungsbereiche beschränkt werden; sie ist von den beteiligten Spitzenverbänden abzuschließen. Die Vereinbarungen bedürfen der Genehmigung der beteiligten Bundesministerien.
+(1) Die Spitzenverbände der Träger der Sozialversicherung und die Bundesagentur für Arbeit vereinbaren gemeinsam unter besonderer Berücksichtigung der schutzwürdigen Interessen der Betroffenen und der Voraussetzungen des Signaturgesetzes das Nähere zu den Grundsätzen ordnungsmäßiger Aufbewahrung im Sinne des § 110a, den Voraussetzungen der Rückgabe und Vernichtung von Unterlagen sowie die Aufbewahrungsfristen für Unterlagen. Dies gilt entsprechend für die ergänzenden Vorschriften des E-Government-Gesetzes. Die Vereinbarung kann auf bestimmte Sozialleistungsbereiche beschränkt werden; sie ist von den beteiligten Spitzenverbänden abzuschließen. Die Vereinbarungen bedürfen der Genehmigung der beteiligten Bundesministerien.
 
 (2) Soweit Vereinbarungen nicht getroffen sind, wird die Bundesregierung ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates unter besonderer Berücksichtigung der schutzwürdigen Interessen der Betroffenen
 
