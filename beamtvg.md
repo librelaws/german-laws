@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 24.2.2010 I 150
 
 Stand  
-Zuletzt geändert durch Art. 5 G v. 25.11.2014 I 1772
+Zuletzt geändert durch Art. 3a G v. 3.12.2015 I 2163
 
 ### 
 
@@ -187,6 +187,7 @@ Ermächtigung Neufassung BeamtVG vollzogen gem. Bek. v. 24.2.2010 I 150
 | §  107a                                                                    |
 | §  107b                                                                    |
 | §  107c                                                                    |
+| §  107d                                                                    |
 | §  108                                                                     |
 | §  109                                                                     |
 
@@ -1306,7 +1307,7 @@ für Ruhestandsbeamte, die wegen Dienstunfähigkeit, die nicht auf einem Dienstu
 
 (6) Bei der Ruhensberechnung für einen früheren Beamten oder früheren Ruhestandsbeamten, der Anspruch auf Versorgung nach § 38 hat, ist mindestens ein Betrag als Versorgung zu belassen, der unter Berücksichtigung seiner Minderung der Erwerbsfähigkeit infolge des Dienstunfalles dem Unfallausgleich entspricht. Dies gilt nicht, wenn wegen desselben Unfalls Grundrente nach dem Bundesversorgungsgesetz zusteht.
 
-(7) Erwerbseinkommen sind Einkünfte aus nichtselbständiger Arbeit einschließlich Abfindungen, aus selbständiger Arbeit sowie aus Gewerbebetrieb und aus Land- und Forstwirtschaft. Nicht als Erwerbseinkommen gelten Aufwandsentschädigungen, im Rahmen der Einkunftsarten nach Satz 1 anerkannte Betriebsausgaben und Werbungskosten nach dem Einkommensteuergesetz, Jubiläumszuwendungen, ein Unfallausgleich (§ 35), steuerfreie Einnahmen für Leistungen zur Grundpflege oder hauswirtschaftlichen Versorgung sowie Einkünfte aus Tätigkeiten, die nach Art und Umfang Nebentätigkeiten im Sinne des § 100 Abs. 1 Nr. 2 des Bundesbeamtengesetzes entsprechen. Erwerbsersatzeinkommen sind Leistungen, die auf Grund oder in entsprechender Anwendung öffentlich-rechtlicher Vorschriften kurzfristig erbracht werden, um Erwerbseinkommen zu ersetzen. Die Berücksichtigung des Erwerbs- und des Erwerbsersatzeinkommens erfolgt monatsbezogen. Wird Einkommen nicht in Monatsbeträgen erzielt, ist das Einkommen des Kalenderjahres, geteilt durch zwölf Kalendermonate, anzusetzen.
+(7) Erwerbseinkommen sind Einkünfte aus nichtselbständiger Arbeit einschließlich Abfindungen, aus selbständiger Arbeit sowie aus Gewerbebetrieb und aus Land- und Forstwirtschaft. Nicht als Erwerbseinkommen gelten Aufwandsentschädigungen, im Rahmen der Einkunftsarten nach Satz 1 anerkannte Betriebsausgaben und Werbungskosten nach dem Einkommensteuergesetz, Jubiläumszuwendungen, ein Unfallausgleich (§ 35), steuerfreie Einnahmen für Leistungen zur Grundpflege oder hauswirtschaftlichen Versorgung sowie Einkünfte aus Tätigkeiten, die nach Art und Umfang Nebentätigkeiten im Sinne des § 100 Abs. 1 Nr. 2 des Bundesbeamtengesetzes entsprechen. Erwerbsersatzeinkommen sind Leistungen, die auf Grund oder in entsprechender Anwendung öffentlich-rechtlicher Vorschriften kurzfristig erbracht werden, um Erwerbseinkommen zu ersetzen. Die Berücksichtigung des Erwerbs- und des Erwerbsersatzeinkommens erfolgt monatsbezogen. Erwerbseinkommen ist mit einem Zwölftel des im Kalenderjahr erzielten Einkommens anzusetzen.
 
 (8) Nach Ablauf des Monats, in dem der Versorgungsberechtigte die Regelaltersgrenze nach § 51 Abs. 1 und 2 des Bundesbeamtengesetzes erreicht, gelten die Absätze 1 bis 7 nur für Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst (Verwendungseinkommen). Dies ist jede Beschäftigung im Dienst von Körperschaften, Anstalten und Stiftungen des deutschen öffentlichen Rechts oder ihrer Verbände; ausgenommen ist die Beschäftigung bei öffentlich-rechtlichen Religionsgesellschaften oder ihren Verbänden. Der Verwendung im öffentlichen Dienst steht gleich die Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung, an der eine Körperschaft oder ein Verband im Sinne des Satzes 2 durch Zahlung von Beiträgen oder Zuschüssen oder in anderer Weise beteiligt ist. Ob die Voraussetzungen zutreffen, entscheidet auf Antrag der zuständigen Stelle oder des Versorgungsberechtigten das für das Versorgungsrecht zuständige Ministerium oder die von ihm bestimmte Stelle.
 
@@ -2194,9 +2195,9 @@ Monat
 3.  
 Für Beamte, die vor dem 1. Januar 2024 in den Ruhestand versetzt werden, gilt § 14 Abs. 3 Satz 6 mit der Maßgabe, dass an die Stelle der Zahl „40“ die Zahl „35“ tritt. “
 
-### § 69i Übergangsregelung aus Anlass des Einsatzversorgungs-Verbesserungsgesetzes
+### § 69i Übergangsregelung aus Anlass des Einsatzversorgungs-Verbesserungsgesetzes und des Bundeswehr-Attraktivitätssteigerungsgesetzes
 
-Ist der Anspruch nach § 43 in der Zeit vom 1. Dezember 2002 bis zum 12. Dezember 2011 entstanden, beträgt die Unfallentschädigung
+Ist der Anspruch nach § 43 in der Zeit vom 1. November 1991 bis zum 12. Dezember 2011 entstanden, beträgt die Unfallentschädigung
 
 1.  
 |                           |               |
@@ -2471,6 +2472,10 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die bis zum 31. De
 ### § 107c Verteilung der Versorgungslasten bei erneuter Berufung in ein öffentlich-rechtliches Dienstverhältnis in dem Artikel 3 des Einigungsvertrages genannten Gebiet
 
 Erwirbt ein Ruhestandsbeamter oder Richter im Ruhestand eines Dienstherrn im Gebiet der Bundesrepublik Deutschland nach dem Stand vom 2. Oktober 1990 auf Grund einer zwischen dem 3. Oktober 1990 und dem 31. Dezember 1999 erfolgten Berufung in ein öffentlich-rechtliches Dienstverhältnis bei einem Dienstherrn in dem in Artikel 3 des Einigungsvertrages genannten Gebiet gegen diesen einen weiteren Versorgungsanspruch, so erstattet der frühere Dienstherr dem neuen Dienstherrn die Versorgungsbezüge in dem Umfang, in dem die beim früheren Dienstherrn entstandenen Versorgungsansprüche infolge der Ruhensvorschrift des § 54 nicht zur Auszahlung gelangen, sofern der Ruhestandsbeamte oder Richter im Ruhestand im Zeitpunkt der Berufung in das neue öffentlich-rechtliche Dienstverhältnis das fünfzigste Lebensjahr vollendet hatte.
+
+### § 107d Befristete Ausnahme für Verwendungseinkommen beim Bundesamt für Migration und Flüchtlinge
+
+§ 53 ist auf Versorgungsberechtigte, die vor dem 1. Januar 2016 in den Ruhestand getreten sind und die ein Einkommen aus einer Beschäftigung beim Bundesamt für Migration und Flüchtlinge beziehen, nach Ablauf des Monats, in dem sie die Regelaltersgrenze nach § 51 Absatz 1 und 2 des Bundesbeamtengesetzes erreichen, bis zum 31. Dezember 2018 nicht anzuwenden. Satz 1 ist auf Beamte, die nach § 5 Absatz 1 und 2 des Bundespolizeibeamtengesetzes in den Ruhestand getreten sind, ab Eintritt in den Ruhestand entsprechend anzuwenden.
 
 ### § 108 Anwendungsbereich in den Ländern
 
