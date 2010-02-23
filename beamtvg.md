@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 24.2.2010 I 150
 
 Stand  
-Zuletzt geändert durch Art. 9 G v. 15.8.2012 I 1670
+Zuletzt geändert durch Art. 3 G v. 28.8.2013 I 3386
 
 ### 
 
@@ -26,168 +26,169 @@ Ermächtigung Neufassung BeamtVG vollzogen gem. Bek. v. 24.2.2010 I 150
 
 ### Inhaltsübersicht
 
-|                    |
-|--------------------|
-| **Abschnitt I**    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-| **Abschnitt II**   |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-| **Abschnitt III**  |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-| **Abschnitt IV**   |
-|                    |
-|                    |
-|                    |
-| **Abschnitt V**    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-| **Abschnitt VI**   |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-| **Abschnitt VII**  |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-| **Abschnitt VIII** |
-|                    |
-|                    |
-|                    |
-|                    |
-| **Abschnitt IX**   |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-| **Abschnitt X**    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-| **Abschnitt XI**   |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-| **Abschnitt XII**  |
-|                    |
-|                    |
-| **Abschnitt XIII** |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-| **Abschnitt XIV**  |
-|                    |
-|                    |
-| **Abschnitt XV**   |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
+|                                                                            |
+|----------------------------------------------------------------------------|
+| **Abschnitt I**                                                            |
+| **Allgemeine Vorschriften**                                                |
+| §   1                                                                      |
+| §   1a                                                                     |
+| §   2                                                                      |
+| §   3                                                                      |
+|                                                                            |
+| **Abschnitt II**                                                           |
+| **Ruhegehalt, Unterhaltsbeitrag**                                          |
+| §   4                                                                      |
+| §   5                                                                      |
+| §   6                                                                      |
+| §   7                                                                      |
+| §   8                                                                      |
+| §   9                                                                      |
+| §   10                                                                     |
+| §   11                                                                     |
+| §   12                                                                     |
+| §   12a                                                                    |
+| §   12b                                                                    |
+| §   13                                                                     |
+| §   14                                                                     |
+| §   14a                                                                    |
+| §   15                                                                     |
+| §   15a                                                                    |
+|                                                                            |
+| **Abschnitt III**                                                          |
+| **Hinterbliebenenversorgung**                                              |
+| §   16                                                                     |
+| §   17                                                                     |
+| §   18                                                                     |
+| §   19                                                                     |
+| §   20                                                                     |
+| §   21                                                                     |
+| §   22                                                                     |
+| §   23                                                                     |
+| §   24                                                                     |
+| §   25                                                                     |
+| §   26                                                                     |
+| §   27                                                                     |
+| §   28                                                                     |
+|                                                                            |
+| **Abschnitt IV**                                                           |
+| **Bezüge bei Verschollenheit**                                             |
+| §   29                                                                     |
+|                                                                            |
+| **Abschnitt V**                                                            |
+| **Unfallfürsorge**                                                         |
+| §   30                                                                     |
+| §   31                                                                     |
+| §   31a                                                                    |
+| §   32                                                                     |
+| §   33                                                                     |
+| §   34                                                                     |
+| §   35                                                                     |
+| §   36                                                                     |
+| §   37                                                                     |
+| §   38                                                                     |
+| §   38a                                                                    |
+| §   39                                                                     |
+| §   40                                                                     |
+| §   41                                                                     |
+| §   42                                                                     |
+| §   43                                                                     |
+| §   43a                                                                    |
+| §   44                                                                     |
+| §   45                                                                     |
+| §   46                                                                     |
+| §   46a                                                                    |
+|                                                                            |
+| **Abschnitt VI**                                                           |
+| **Übergangsgeld, Ausgleich**                                               |
+| §   47                                                                     |
+| §   47a                                                                    |
+| §   48                                                                     |
+|                                                                            |
+| **Abschnitt VII**                                                          |
+| **Gemeinsame Vorschriften**                                                |
+| §   49                                                                     |
+| §   50                                                                     |
+| §   50a                                                                    |
+| §   50b                                                                    |
+| §   50c                                                                    |
+| §   50d                                                                    |
+| §   50e                                                                    |
+| §   50f                                                                    |
+| §   51                                                                     |
+| §   52                                                                     |
+| §   53                                                                     |
+| §   53a                                                                    |
+| §   54                                                                     |
+| §   55                                                                     |
+| §   56                                                                     |
+| §   57                                                                     |
+| §   58                                                                     |
+| §   59                                                                     |
+| §   60                                                                     |
+| §   61                                                                     |
+| §   62                                                                     |
+| §   62a                                                                    |
+| §   63                                                                     |
+|                                                                            |
+| **Abschnitt VIII**                                                         |
+| **Sondervorschriften**                                                     |
+| §   64                                                                     |
+| §   65                                                                     |
+|                                                                            |
+| **Abschnitt IX**                                                           |
+| **Versorgung besonderer Beamtengruppen**                                   |
+| §   66                                                                     |
+| §   67                                                                     |
+| §   68                                                                     |
+|                                                                            |
+| **Abschnitt X**                                                            |
+| **Vorhandene Versorgungsempfänger und Versorgungsfälle ab 1. Januar 2002** |
+| §   69                                                                     |
+| §   69a                                                                    |
+| §   69b                                                                    |
+| §   69c                                                                    |
+| §   69d                                                                    |
+| §   69e                                                                    |
+| §   69f                                                                    |
+| §   69g                                                                    |
+| §   69h                                                                    |
+| §   69i                                                                    |
+| §   69j                                                                    |
+|                                                                            |
+| **Abschnitt XI**                                                           |
+| **Anpassung der Versorgungsbezüge**                                        |
+| §   70                                                                     |
+| §   71                                                                     |
+| §§  72 bis 76                                                              |
+|                                                                            |
+| **Abschnitt XII**                                                          |
+| **(weggefallen)**                                                          |
+|                                                                            |
+| **Abschnitt XIII**                                                         |
+| **Übergangsvorschriften neuen Rechts**                                     |
+| §   84                                                                     |
+| §   85                                                                     |
+| §   85a                                                                    |
+| §   86                                                                     |
+| §   87                                                                     |
+| §   88                                                                     |
+| §   89                                                                     |
+| §   90                                                                     |
+| §   91                                                                     |
+|                                                                            |
+| **Abschnitt XIV**                                                          |
+| **(weggefallen)**                                                          |
+|                                                                            |
+| **Abschnitt XV**                                                           |
+| **Schlußvorschriften**                                                     |
+| §  105                                                                     |
+| §  106                                                                     |
+| §  107                                                                     |
+| §  107a                                                                    |
+| §  107b                                                                    |
+| §  107c                                                                    |
+| §  108                                                                     |
+| §  109                                                                     |
 
 Abschnitt I Allgemeine Vorschriften
 -----------------------------------
@@ -552,7 +553,7 @@ wegen Erreichens einer besonderen Altersgrenze in den Ruhestand getreten ist,
 einen Ruhegehaltssatz von 66,97 vom Hundert noch nicht erreicht hat und
 
 4.  
-keine Einkünfte im Sinne des § 53 Abs. 7 bezieht. Die Einkünfte bleiben außer Betracht, soweit sie durchschnittlich im Monat einen Betrag von 400 Euro zuzüglich des Zweifachen dieses Betrages innerhalb eines Kalenderjahres nicht überschreiten.
+keine Einkünfte im Sinne des § 53 Abs. 7 bezieht. Die Einkünfte bleiben außer Betracht, soweit sie durchschnittlich im Monat einen Betrag von 450 Euro zuzüglich des Zweifachen dieses Betrages innerhalb eines Kalenderjahres nicht überschreiten.
 
 (2) Die Erhöhung des Ruhegehaltssatzes beträgt 0,95667 vom Hundert der ruhegehaltfähigen Dienstbezüge für je zwölf Kalendermonate der für die Erfüllung der Wartezeit (Absatz 1 Nr. 1) anrechnungsfähigen Pflichtbeitragszeiten, soweit sie nicht von § 50e Abs. 1 erfasst werden, nach Vollendung des 17. Lebensjahres und vor Begründung des Beamtenverhältnisses zurückgelegt wurden und nicht als ruhegehaltfähig berücksichtigt sind. Der hiernach berechnete Ruhegehaltssatz darf 66,97 vom Hundert nicht überschreiten. In den Fällen des § 14 Abs. 3 ist das Ruhegehalt, das sich nach Anwendung der Sätze 1 und 2 ergibt, entsprechend zu vermindern. Für die Berechnung nach Satz 1 sind verbleibende Kalendermonate unter Benutzung des Nenners 12 umzurechnen; § 14 Abs. 1 Satz 2 und 3 gilt entsprechend.
 
@@ -885,7 +886,7 @@ einen Dienstunfall mit den in Absatz 1 genannten Folgen erleidet.
 
 ### § 38 Unterhaltsbeitrag für frühere Beamte und frühere Ruhestandsbeamte
 
-(1) Ein durch Dienstunfall verletzter früherer Beamter, dessen Beamtenverhältnis nicht durch Eintritt in den Ruhestand geendet hat, erhält neben dem Heilverfahren (§§ 33, 34) für die Dauer einer durch den Dienstunfall verursachten Erwerbsbeschränkung einen Unterhaltsbeitrag.
+(1) Ein durch Dienstunfall verletzter früherer Beamter, dessen Beamtenverhältnis nicht durch Eintritt in den Ruhestand geendet hat, erhält neben dem Heilverfahren (§§ 33, 34) für die Dauer einer durch den Dienstunfall verursachten Erwerbsbeschränkung einen Unterhaltsbeitrag. Der Anspruch erlischt ab der Gewährung von Altersgeld.
 
 (2) Der Unterhaltsbeitrag beträgt
 
@@ -1126,7 +1127,7 @@ Abschnitt VII Gemeinsame Vorschriften
 
 (6) Hat ein Versorgungsberechtigter seinen Wohnsitz oder dauernden Aufenthalt außerhalb des Geltungsbereichs dieses Gesetzes, so kann die oberste Dienstbehörde oder die von ihr bestimmte Stelle die Zahlung der Versorgungsbezüge von der Bestellung eines Empfangsbevollmächtigten im Geltungsbereich dieses Gesetzes abhängig machen.
 
-(7) Für die Zahlung der Versorgungsbezüge hat der Empfänger auf Verlangen der zuständigen Behörde ein Konto anzugeben oder einzurichten, auf das die Überweisung erfolgen kann. Die Übermittlungskosten mit Ausnahme der Kosten für die Gutschrift auf dem Konto des Empfängers trägt die die Versorgungsbezüge zahlende Stelle; bei einer Überweisung der Versorgungsbezüge auf ein im Ausland geführtes Konto trägt der Versorgungsempfänger die Kosten und die Gefahr der Übermittlung der Versorgungsbezüge sowie die Kosten einer Meldung nach § 59 der Außenwirtschaftsverordnung in der jeweils geltenden Fassung. Die Kontoeinrichtungs-, Kontoführungs- oder Buchungsgebühren trägt der Empfänger. Eine Auszahlung auf andere Weise kann nur zugestanden werden, wenn dem Empfänger die Einrichtung oder Benutzung eines Kontos aus wichtigem Grund nicht zugemutet werden kann.
+(7) Für die Zahlung der Versorgungsbezüge hat der Empfänger auf Verlangen der zuständigen Behörde ein Konto anzugeben oder einzurichten, auf das die Überweisung erfolgen kann. Die Übermittlungskosten mit Ausnahme der Kosten für die Gutschrift auf dem Konto des Empfängers trägt die die Versorgungsbezüge zahlende Stelle; bei einer Überweisung der Versorgungsbezüge auf ein im Ausland geführtes Konto trägt der Versorgungsempfänger die Kosten und die Gefahr der Übermittlung der Versorgungsbezüge sowie die Kosten einer Meldung nach § 11 Absatz 2 des Außenwirtschaftsgesetzes in Verbindung mit einer auf Grund dieser Vorschrift erlassenen Rechtsverordnung. Die Kontoeinrichtungs-, Kontoführungs- oder Buchungsgebühren trägt der Empfänger. Eine Auszahlung auf andere Weise kann nur zugestanden werden, wenn dem Empfänger die Einrichtung oder Benutzung eines Kontos aus wichtigem Grund nicht zugemutet werden kann.
 
 (8) Bei der Berechnung von Versorgungsbezügen sind die sich ergebenden Bruchteile eines Cents unter 0,5 abzurunden und ab 0,5 aufzurunden. Zwischenrechnungen werden jeweils auf zwei Dezimalstellen durchgeführt. Jeder Versorgungsbestandteil ist einzeln zu runden. Abweichend von den Sätzen 1 und 2 sind bei der Berechnung von Leistungen nach den §§ 50a bis 50d die Regelungen des § 121 des Sechsten Buches Sozialgesetzbuch anzuwenden.
 
@@ -1236,7 +1237,7 @@ entsprechende Leistungen nach dem Sechsten Buch Sozialgesetzbuch dem Grunde nach
 sie einen Ruhegehaltssatz von 66,97 vom Hundert noch nicht erreicht haben,
 
 5.  
-keine Einkünfte im Sinne des § 53 Abs. 7 bezogen werden; die Einkünfte bleiben außer Betracht, soweit sie durchschnittlich im Monat einen Betrag von 400 Euro zuzüglich des Zweifachen dieses Betrages innerhalb eines Kalenderjahres nicht überschreiten.
+keine Einkünfte im Sinne des § 53 Abs. 7 bezogen werden; die Einkünfte bleiben außer Betracht, soweit sie durchschnittlich im Monat einen Betrag von 450 Euro zuzüglich des Zweifachen dieses Betrages innerhalb eines Kalenderjahres nicht überschreiten.
 
 Durch die Leistung nach Satz 1 darf der Betrag nicht überschritten werden, der sich bei Berechnung des Ruhegehalts mit einem Ruhegehaltssatz von 66,97 vom Hundert ergibt.
 
@@ -1246,7 +1247,7 @@ Durch die Leistung nach Satz 1 darf der Betrag nicht überschritten werden, der 
 eine Versichertenrente der gesetzlichen Rentenversicherung bezieht, mit Ablauf des Tages vor dem Beginn der Rente, oder
 
 2.  
-ein Erwerbseinkommen bezieht, das durchschnittlich im Monat einen Betrag von 400 Euro zuzüglich des Zweifachen dieses Betrages innerhalb eines Kalenderjahres übersteigt, mit Ablauf des Tages vor Beginn der Erwerbstätigkeit.
+ein Erwerbseinkommen bezieht, das durchschnittlich im Monat einen Betrag von 450 Euro zuzüglich des Zweifachen dieses Betrages innerhalb eines Kalenderjahres übersteigt, mit Ablauf des Tages vor Beginn der Erwerbstätigkeit.
 
 (3) Die Leistung wird auf Antrag gewährt. Anträge, die innerhalb von drei Monaten nach Eintritt des Beamten in den Ruhestand gestellt werden, gelten als zum Zeitpunkt des Ruhestandseintritts gestellt. Wird der Antrag zu einem späteren Zeitpunkt gestellt, so wird die Leistung vom Beginn des Antragsmonats an gewährt.
 
@@ -1295,7 +1296,7 @@ für Ruhestandsbeamte und Witwen die ruhegehaltfähigen Dienstbezüge aus der En
 für Waisen vierzig vom Hundert des Betrages, der sich nach Nummer 1 unter Berücksichtigung des ihnen zustehenden Unterschiedsbetrages nach § 50 Abs. 1 ergibt,
 
 3.  
-für Ruhestandsbeamte, die wegen Dienstunfähigkeit, die nicht auf einem Dienstunfall beruht, oder nach § 52 Abs. 1 und 2 des Bundesbeamtengesetzes in den Ruhestand getreten sind, bis zum Ablauf des Monats, in dem die Regelaltersgrenze nach § 51 Abs. 1 und 2 des Bundesbeamtengesetzes erreicht wird, 71,75 vom Hundert der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet, mindestens ein Betrag in Höhe von 71,75 vom Hundert des Eineinhalbfachen der jeweils ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe A 4, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 50 Abs. 1 sowie eines Betrages von monatlich 400 Euro zuzüglich des Zweifachen dieses Betrages innerhalb eines Kalenderjahres.
+für Ruhestandsbeamte, die wegen Dienstunfähigkeit, die nicht auf einem Dienstunfall beruht, oder nach § 52 Abs. 1 und 2 des Bundesbeamtengesetzes in den Ruhestand getreten sind, bis zum Ablauf des Monats, in dem die Regelaltersgrenze nach § 51 Abs. 1 und 2 des Bundesbeamtengesetzes erreicht wird, 71,75 vom Hundert der ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe, aus der sich das Ruhegehalt berechnet, mindestens ein Betrag in Höhe von 71,75 vom Hundert des Eineinhalbfachen der jeweils ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe A 4, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 50 Abs. 1 sowie eines Betrages von monatlich 450 Euro zuzüglich des Zweifachen dieses Betrages innerhalb eines Kalenderjahres.
 
 (3) (weggefallen)
 
@@ -1313,9 +1314,9 @@ für Ruhestandsbeamte, die wegen Dienstunfähigkeit, die nicht auf einem Dienstu
 
 (10) Bezieht ein Beamter im einstweiligen Ruhestand Erwerbs- und Erwerbsersatzeinkommen nach Absatz 7, das nicht Verwendungseinkommen nach Absatz 8 ist, ruhen die Versorgungsbezüge um fünfzig vom Hundert des Betrages, um den sie und das Einkommen die Höchstgrenze übersteigen.
 
-### § 53a (weggefallen)
+### § 53a Zusammentreffen von Versorgungsbezügen mit Altersgeld, Witwenaltersgeld oder Waisenaltersgeld
 
--
+Bezieht ein Versorgungsempfänger Altersgeld, Witwenaltersgeld oder Waisenaltersgeld nach dem Altersgeldgesetz vom 28. August 2013 (BGBl. I S. 3386) oder eine vergleichbare Alterssicherungsleistung, ruhen seine Versorgungsbezüge nach Anwendung des § 55 in Höhe des jeweiligen Betrages des Altersgelds, Witwenaltersgelds oder Waisenaltersgelds. Satz 1 gilt nicht beim Bezug einer Mindestversorgung nach § 14 Absatz 4. Beim Zusammentreffen von Ruhegehalt mit Witwenaltersgeld wird mindestens ein Betrag in Höhe des Ruhegehalts zuzüglich 20 vom Hundert des Witwenaltersgelds gezahlt. Beim Zusammentreffen von Witwen- oder Witwergeld mit Altersgeld wird mindestens ein Betrag in Höhe des Altersgelds zuzüglich 20 vom Hundert des Witwen- oder Witwergelds gezahlt.
 
 ### § 54 Zusammentreffen mehrerer Versorgungsbezüge
 
@@ -1415,7 +1416,7 @@ Dies gilt nicht, soweit der Arbeitgeber mindestens die Hälfte der Beiträge ode
 
 (1) Erhält ein Ruhestandsbeamter aus der Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung eine Versorgung, ruht sein deutsches Ruhegehalt nach Anwendung von § 14 Abs. 3 in Höhe des Betrages, um den die Summe aus der genannten Versorgung und dem deutschen Ruhegehalt die in Absatz 2 genannte Höchstgrenze übersteigt, mindestens jedoch in Höhe des Betrages, der einer Minderung des Vomhundertsatzes von 1,79375 für jedes Jahr im zwischenstaatlichen oder überstaatlichen Dienst entspricht; der Unterschiedsbetrag nach § 50 Abs. 1 ruht in Höhe von 2,39167 vom Hundert für jedes Jahr im zwischenstaatlichen oder überstaatlichen Dienst. § 14 Abs. 1 Satz 2 bis 4 ist entsprechend anzuwenden. Die Versorgungsbezüge ruhen in voller Höhe, wenn der Ruhestandsbeamte als Invaliditätspension die Höchstversorgung aus seinem Amt bei der zwischenstaatlichen oder überstaatlichen Einrichtung erhält. Bei der Anwendung des Satzes 1 wird die Zeit, in welcher der Beamte, ohne ein Amt bei einer zwischenstaatlichen oder überstaatlichen Einrichtung auszuüben, dort einen Anspruch auf Vergütung oder sonstige Entschädigung hat und Ruhegehaltsansprüche erwirbt, als Zeit im zwischenstaatlichen oder überstaatlichen Dienst gerechnet; entsprechendes gilt für Zeiten nach dem Ausscheiden aus dem Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung, die dort bei der Berechnung des Ruhegehalts wie Dienstzeiten berücksichtigt werden.
 
-(2) Als Höchstgrenze gelten die in § 54 Abs. 2 bezeichneten Höchstgrenzen sinngemäß, wobei § 50 Abs. 5 Satz 2 nicht anzuwenden ist; dabei ist als Ruhegehalt dasjenige deutsche Ruhegehalt zugrunde zu legen, das sich unter Einbeziehung der Zeiten einer Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung als ruhegehaltfähige Dienstzeit und auf der Grundlage der ruhegehaltfähigen Dienstbezüge aus der Endstufe der nächsthöheren Besoldungsgruppe ergibt.
+(2) Als Höchstgrenze gelten die in § 54 Abs. 2 bezeichneten Höchstgrenzen sinngemäß; dabei ist als Ruhegehalt dasjenige deutsche Ruhegehalt zugrunde zu legen, das sich unter Einbeziehung der Zeiten einer Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung als ruhegehaltfähige Dienstzeit und auf der Grundlage der ruhegehaltfähigen Dienstbezüge aus der Endstufe der nächsthöheren Besoldungsgruppe ergibt.
 
 (3) Verzichtet der Beamte oder Ruhestandsbeamte bei seinem Ausscheiden aus dem öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung auf eine Versorgung oder wird an deren Stelle eine Abfindung, Beitragserstattung oder ein sonstiger Kapitalbetrag gezahlt, so findet Absatz 1 mit der Maßgabe Anwendung, dass an die Stelle der Versorgung der Betrag tritt, der vom Leistungsträger ansonsten zu zahlen wäre; erfolgt die Zahlung eines Kapitalbetrages, weil kein Anspruch auf laufende Versorgung besteht, so ist der sich bei einer Verrentung des Kapitalbetrages ergebende Betrag zugrunde zu legen. Satz 1 gilt nicht, wenn der Beamte oder Ruhestandsbeamte innerhalb eines Jahres nach Beendigung der Verwendung oder der Berufung in das Beamtenverhältnis den Kapitalbetrag zuzüglich der hierauf gewährten Zinsen an seinen Dienstherrn abführt. § 55 Abs. 1 Satz 8 und 9 gilt entsprechend.
 
@@ -2237,6 +2238,10 @@ Nummer 3</td>
 
 Aus gleichem Anlass bereits gewährte Leistungen nach § 43 sind anzurechnen.
 
+### § 69j Übergangsregelung aus Anlass des Professorenbesoldungsneuregelungsgesetzes
+
+Die ruhegehaltfähigen Dienstbezüge nach § 5 Absatz 1 Satz 1 Nummer 1 und 4 der Professoren sowie der hauptberuflichen Leiter von Hochschulen und Mitglieder von Leitungsgremien an Hochschulen, die vor dem 1. Januar 2013 aus einem Amt der Besoldungsgruppe W 2 oder W 3 in den Ruhestand versetzt worden sind, werden neu festgesetzt. § 77a des Bundesbesoldungsgesetzes gilt entsprechend. Die ruhegehaltfähigen Dienstbezüge nach Satz 1 sind nach Maßgabe des Satzes 2 zusammen mindestens in der Höhe festzusetzen, in der sie auf der Grundlage des bis zum 31. Dezember 2012 geltenden Rechts festgesetzt worden sind. Für Hinterbliebene gelten die Sätze 1 bis 3 entsprechend.
+
 Abschnitt XI Anpassung der Versorgungsbezüge
 --------------------------------------------
 
@@ -2252,7 +2257,7 @@ Abschnitt XI Anpassung der Versorgungsbezüge
 
 (1) Bei Versorgungsempfängern gilt die Erhöhung nach § 14 Abs. 2 des Bundesbesoldungsgesetzes entsprechend für die in Artikel 2 § 2 Abs. 1 bis 5 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes 1995 vom 18. Dezember 1995 (BGBl. I S. 1942) genannten Bezügebestandteile sowie für die in § 14 Abs. 2 Satz 1 Nr. 3 und § 84 Nr. 3 und 4 des Bundesbesoldungsgesetzes aufgeführten Stellenzulagen und Bezüge. Satz 1 gilt entsprechend für Empfänger von Versorgungsbezügen der weggefallenen Besoldungsgruppe A 1.
 
-(2) Versorgungsbezüge, deren Berechnung ein Ortszuschlag nach dem Bundesbesoldungsgesetz in der bis zum 30. Juni 1997 geltenden Fassung nicht zugrunde liegt, werden ab 1. März 2012 um 3,2 vom Hundert erhöht, wenn der Versorgungsfall vor dem 1. Juli 1997 eingetreten ist. Satz 1 gilt entsprechend für
+(2) Versorgungsbezüge, deren Berechnung ein Ortszuschlag nach dem Bundesbesoldungsgesetz in der bis zum 30. Juni 1997 geltenden Fassung nicht zugrunde liegt, werden ab 1. August 2013 um 1,1 vom Hundert erhöht, wenn der Versorgungsfall vor dem 1. Juli 1997 eingetreten ist. Satz 1 gilt entsprechend für
 
 1.  
 Hinterbliebene eines vor dem 1. Juli 1997 vorhandenen Versorgungsempfängers,
@@ -2263,7 +2268,7 @@ Versorgungsbezüge, die in festen Beträgen festgesetzt sind,
 3.  
 den Betrag nach Artikel 13 § 2 Abs. 4 des Fünften Gesetzes zur Änderung besoldungsrechtlicher Vorschriften vom 28. Mai 1990 (BGBl. I S. 967).
 
-(3) Bei Versorgungsempfängern, deren Versorgungsbezügen ein Grundgehalt der Besoldungsgruppen A 1 bis A 8 oder ein Grundgehalt nach Zwischenbesoldungsgruppen zugrunde liegt, vermindert sich das Grundgehalt ab 1. März 2012 um 53,34 Euro, wenn ihren ruhegehaltfähigen Dienstbezügen die Stellenzulage nach Vorbemerkung Nummer 27 Abs. 1 Buchstabe a oder b der Bundesbesoldungsordnungen A und B bei Eintritt in den Ruhestand nicht zugrunde gelegen hat.
+(3) Bei Versorgungsempfängern, deren Versorgungsbezügen ein Grundgehalt der Besoldungsgruppen A 1 bis A 8 oder ein Grundgehalt nach Zwischenbesoldungsgruppen zugrunde liegt, vermindert sich das Grundgehalt ab 1. August 2013 um 54,63 Euro, wenn ihren ruhegehaltfähigen Dienstbezügen die Stellenzulage nach Vorbemerkung Nummer 27 Abs. 1 Buchstabe a oder b der Bundesbesoldungsordnungen A und B bei Eintritt in den Ruhestand nicht zugrunde gelegen hat.
 
 ### § 72 (weggefallen)
 
@@ -2457,7 +2462,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die bis zum 31. De
 
 (2) Versorgungsbezüge im Sinne des Absatzes 1 Satz 1 sind alle regelmäßig wiederkehrenden Leistungen aus dem Beamten- oder Richterverhältnis, die mit oder nach Eintritt des Versorgungsfalles fällig werden. Ist dem Beamten oder Richter aus Anlass oder nach der Übernahme vom aufnehmenden Dienstherrn ein höherwertiges Amt verliehen worden, so bemisst sich der Anteil des abgebenden Dienstherrn so, wie wenn der Beamte oder Richter in dem beim abgebenden Dienstherrn zuletzt bekleideten Amt verblieben wäre. Entsprechendes gilt für Berufungsgewinne im Hochschulbereich und für Zulagen für die Wahrnehmung einer höherwertigen Funktion.
 
-(3) Wird der übernommene Beamte oder Richter vom aufnehmenden Dienstherrn in den einstweiligen Ruhestand versetzt, beginnt die Versorgungslastenbeteiligung des abgebenden Dienstherrn erst mit der Antragsaltersgrenze (§ 26 Abs. 4 des Beamtenrechtsrahmengesetzes) des Beamten oder Richters, spätestens jedoch mit Einsetzen der Hinterbliebenenversorgung.
+(3) Wird der übernommene Beamte oder Richter vom aufnehmenden Dienstherrn in den einstweiligen Ruhestand versetzt, beginnt die Versorgungslastenbeteiligung des abgebenden Dienstherrn erst mit der Antragsaltersgrenze (§ 52 Absatz 3 des Bundesbeamtengesetzes) des Beamten oder Richters, spätestens jedoch mit Einsetzen der Hinterbliebenenversorgung.
 
 (4) Die Versorgungsbezüge werden in dem Verhältnis der beim abgebenden Dienstherrn abgeleisteten ruhegehaltfähigen Dienstzeiten zu den beim aufnehmenden Dienstherrn abgeleisteten ruhegehaltfähigen Dienstzeiten aufgeteilt, dabei bleiben Ausbildungszeiten (z. B. Studium, Vorbereitungsdienst) unberücksichtigt; Zeiten einer Beurlaubung, für die der beurlaubende Dienstherr die Ruhegehaltfähigkeit anerkannt oder zugesichert hat, stehen den bei ihm abgeleisteten ruhegehaltfähigen Dienstzeiten gleich. Im Falle des Absatzes 3 wird die Zeit im einstweiligen Ruhestand, soweit sie ruhegehaltfähig ist, zu Lasten des aufnehmenden Dienstherrn berücksichtigt. Zeiten, für die der Beamte oder Richter vor der Übernahme bereits zum aufnehmenden Dienstherrn abgeordnet war, gelten als beim abgebenden Dienstherrn abgeleistete Dienstzeiten.
 
