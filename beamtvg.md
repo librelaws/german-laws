@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 24.2.2010 I 150
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 28.8.2013 I 3386
+Zuletzt geändert durch Art. 5 G v. 25.11.2014 I 1772
 
 ### 
 
@@ -2255,9 +2255,9 @@ Abschnitt XI Anpassung der Versorgungsbezüge
 
 ### § 71 Erhöhung der Versorgungsbezüge
 
-(1) Bei Versorgungsempfängern gilt die Erhöhung nach § 14 Abs. 2 des Bundesbesoldungsgesetzes entsprechend für die in Artikel 2 § 2 Abs. 1 bis 5 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes 1995 vom 18. Dezember 1995 (BGBl. I S. 1942) genannten Bezügebestandteile sowie für die in § 14 Abs. 2 Satz 1 Nr. 3 und § 84 Nr. 3 und 4 des Bundesbesoldungsgesetzes aufgeführten Stellenzulagen und Bezüge. Satz 1 gilt entsprechend für Empfänger von Versorgungsbezügen der weggefallenen Besoldungsgruppe A 1.
+(1) Bei Versorgungsempfängern gilt die Erhöhung nach § 14 Abs. 2 des Bundesbesoldungsgesetzes entsprechend für die in Artikel 2 § 2 Abs. 1 bis 5 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes 1995 vom 18. Dezember 1995 (BGBl. I S. 1942) genannten Bezügebestandteile sowie für die in § 14 Absatz 2 Nummer 3 und § 84 Nr. 3 und 4 des Bundesbesoldungsgesetzes aufgeführten Stellenzulagen und Bezüge. Satz 1 gilt entsprechend für Empfänger von Versorgungsbezügen der weggefallenen Besoldungsgruppe A 1.
 
-(2) Versorgungsbezüge, deren Berechnung ein Ortszuschlag nach dem Bundesbesoldungsgesetz in der bis zum 30. Juni 1997 geltenden Fassung nicht zugrunde liegt, werden ab 1. August 2013 um 1,1 vom Hundert erhöht, wenn der Versorgungsfall vor dem 1. Juli 1997 eingetreten ist. Satz 1 gilt entsprechend für
+(2) Versorgungsbezüge, deren Berechnung ein Ortszuschlag nach dem Bundesbesoldungsgesetz in der bis zum 30. Juni 1997 geltenden Fassung nicht zugrunde liegt, werden ab 1. März 2015 um 2,1 vom Hundert erhöht, wenn der Versorgungsfall vor dem 1. Juli 1997 eingetreten ist. Satz 1 gilt entsprechend für
 
 1.  
 Hinterbliebene eines vor dem 1. Juli 1997 vorhandenen Versorgungsempfängers,
@@ -2266,9 +2266,9 @@ Hinterbliebene eines vor dem 1. Juli 1997 vorhandenen Versorgungsempfängers,
 Versorgungsbezüge, die in festen Beträgen festgesetzt sind,
 
 3.  
-den Betrag nach Artikel 13 § 2 Abs. 4 des Fünften Gesetzes zur Änderung besoldungsrechtlicher Vorschriften vom 28. Mai 1990 (BGBl. I S. 967).
+den Betrag nach Artikel 13 § 2 Absatz 4 des Fünften Gesetzes zur Änderung besoldungsrechtlicher Vorschriften vom 28. Mai 1990 (BGBl. I S. 967).
 
-(3) Bei Versorgungsempfängern, deren Versorgungsbezügen ein Grundgehalt der Besoldungsgruppen A 1 bis A 8 oder ein Grundgehalt nach Zwischenbesoldungsgruppen zugrunde liegt, vermindert sich das Grundgehalt ab 1. August 2013 um 54,63 Euro, wenn ihren ruhegehaltfähigen Dienstbezügen die Stellenzulage nach Vorbemerkung Nummer 27 Abs. 1 Buchstabe a oder b der Bundesbesoldungsordnungen A und B bei Eintritt in den Ruhestand nicht zugrunde gelegen hat.
+(3) Bei Versorgungsempfängern, deren Versorgungsbezügen ein Grundgehalt der Besoldungsgruppen A 1 bis A 8 oder ein Grundgehalt nach Zwischenbesoldungsgruppen zugrunde liegt, vermindert sich das Grundgehalt ab 1. März 2015 um 57,40 Euro, wenn ihren ruhegehaltfähigen Dienstbezügen die Stellenzulage nach Vorbemerkung Nummer 27 Abs. 1 Buchstabe a oder b der Bundesbesoldungsordnungen A und B bei Eintritt in den Ruhestand nicht zugrunde gelegen hat.
 
 ### § 72 (weggefallen)
 
