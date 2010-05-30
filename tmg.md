@@ -4,6 +4,9 @@ Telemediengesetz (TMG)
 Stand  
 Zuletzt geändert durch Art. 1 G v. 31.5.2010 I 692
 
+Hinweis  
+Änderung durch Art. 2 Abs. 16 G v. 1.4.2015 I 434 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 Artikel 1 dieses Gesetzes dient der Umsetzung der Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt (ABl. EG Nr. L 178 S. 1).
