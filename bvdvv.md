@@ -2,10 +2,10 @@ Verordnung zum Schutz der Rinder vor einer Infektion mit dem Bovinen Virusdiarrh
 ===========================================================================================
 
 Neuf  
-Neugefasst durch Bek. v. 4.10.2010 I 1320, 1498
+Neugefasst durch Bek. v. 4.10.2010 I 1320, 1498;
 
 Stand  
-geändert durch Art. 1 V v. 17.12.2010 I 2131, diese geändert durch Art. 1 V v. 31.5.2011 I 1002
+zuletzt geändert durch Art. 31 V v. 17.4.2014 I 388
 
 ### 
 
@@ -162,31 +162,32 @@ bis zur erstmaligen oder erneuten Abgabe des Rindes oder bis zum Tod des Rindes 
 
 ### § 6 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 76 Absatz 2 Nummer 1 Buchstabe b des Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 2 Absatz 1 oder § 3 Absatz 3 Satz 1, auch in Verbindung mit Satz 3, zuwiderhandelt.
-
-(2) Ordnungswidrig im Sinne des § 76 Absatz 2 Nummer 2 des Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  
-entgegen § 3 Absatz 1 Satz 1, Absatz 4 oder 5 ein Rind nicht oder nicht rechtzeitig untersuchen lässt,
+einer vollziehbaren Anordnung nach § 2 Absatz 1 oder § 3 Absatz 3 Satz 1, auch in Verbindung mit Satz 3, zuwiderhandelt,
 
 2.  
-entgegen § 3 Absatz 1 Satz 2 nicht sicherstellt, dass der dort genannten Einrichtung eine dort genannte Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig mitgeteilt wird,
+entgegen § 3 Absatz 1 Satz 1, Absatz 4 oder 5 ein Rind nicht oder nicht rechtzeitig untersuchen lässt,
 
 3.  
-entgegen § 4 Absatz 1 Satz 1 Nummer 1 oder 2 oder Absatz 5 ein Rind verbringt oder einstellt,
+entgegen § 3 Absatz 1 Satz 2 nicht sicherstellt, dass der dort genannten Einrichtung eine dort genannte Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig mitgeteilt wird,
 
 4.  
-entgegen § 4 Absatz 1 Satz 1 Nummer 3 ein Rind auftreibt,
+entgegen § 4 Absatz 1 Satz 1 Nummer 1 oder 2 oder Absatz 5 ein Rind verbringt oder einstellt,
 
 5.  
-entgegen § 4 Absatz 6 einen Nachweis nicht oder nicht für die vorgeschriebene Dauer aufbewahrt oder
+entgegen § 4 Absatz 1 Satz 1 Nummer 3 ein Rind auftreibt,
 
 6.  
+entgegen § 4 Absatz 6 einen Nachweis nicht oder nicht für die vorgeschriebene Dauer aufbewahrt oder
+
+7.  
 entgegen § 5 Absatz 1 Satz 1 ein Rind nicht oder nicht rechtzeitig töten lässt.
 
 ### § 7 Weitergehende Maßnahmen
 
-Die Befugnis der zuständigen Behörde, bei Feststellung einer BVDV-Infektion weitergehende Maßnahmen nach § 79 Absatz 4 in Verbindung mit den §§ 17, 17b Absatz 1 Nummer 4 und den §§ 18 bis 30 des Tierseuchengesetzes anzuordnen, soweit diese zur Tierseuchenbekämpfung erforderlich sind, bleibt unberührt.
+Die Befugnis der zuständigen Behörde, bei Feststellung einer BVDV-Infektion weitergehende Maßnahmen nach § 38 Absatz 11 in Verbindung mit § 6 Absatz 1 und 3 bis 5 des Tiergesundheitsgesetzes anzuordnen, soweit diese zur Tierseuchenbekämpfung erforderlich sind, bleibt unberührt.
 
 ### Anlage 1 (zu § 1)Voraussetzungen, unter denen ein Rinderbestand als BVDV-unverdächtig gilt
 
