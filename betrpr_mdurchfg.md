@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. V v. 26.11.2010 I 1720;
 
 Stand  
-geändert durch Art. 2 Abs. 102 G v. 22.12.2011 I 3044
+zuletzt geändert durch Art. 406 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -104,7 +104,7 @@ auf die Regionen aufgeteilt.
 
 (3d) Im Jahr 2012 wird die Summe der Beträge, die Deutschland nach Artikel 64 in Verbindung mit Anhang XII der Verordnung (EG) Nr. 73/2009 zur Einbeziehung in die Betriebsprämienregelung zur Verfügung stehen (sechster Erhöhungsbetrag), nach der Anlage 1a zur Erhöhung der Zahlungsansprüche auf die Regionen aufgeteilt.
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz (Bundesministerium) wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates nach Anhörung der zuständigen obersten Landesbehörden jeweils die Aufteilung nach den Absätzen 2, 3, 3a, 3b und 3c durchzuführen.
+(4) Das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates nach Anhörung der zuständigen obersten Landesbehörden jeweils die Aufteilung nach den Absätzen 2, 3, 3a, 3b und 3c durchzuführen.
 
 § 4 Abs. 1 mit Anlage 1 idF d. G v. 23.7.2004 I 1861: Mit GG (100-1) vereinbar gem. BVerfGE v. 14.10.2008 -1 BvF 4/05 -
 
