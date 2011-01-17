@@ -5,7 +5,10 @@ Neuf
 Neugefasst durch Bek. v. 18.1.2011 I 66
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 2.10.2014 I 1586
+Zuletzt geändert durch Art. 1 G v. 16.7.2015 I 1207
+
+Hinweis  
+Änderung durch Art. 3 G v. 16.1.2016 I 52 (Nr. 3) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -56,7 +59,7 @@ Allgemeine Bestimmungen
 <dl>
 <dt>2.</dt>
 <dd>Abschnitt<br />
-Anbauregeln
+Genehmigungssystem für Rebpflanzungen, Anbauregelungen
 </dd>
 </dl></td>
 </tr>
@@ -70,7 +73,25 @@ Anbauregeln
 <td>§ 6</td>
 </tr>
 <tr class="even">
+<td>§ 6a</td>
+</tr>
+<tr class="odd">
 <td>§ 7</td>
+</tr>
+<tr class="even">
+<td>§ 7a</td>
+</tr>
+<tr class="odd">
+<td>§ 7b</td>
+</tr>
+<tr class="even">
+<td>§ 7c</td>
+</tr>
+<tr class="odd">
+<td>§ 7d</td>
+</tr>
+<tr class="even">
+<td>§ 7e</td>
 </tr>
 <tr class="odd">
 <td>§ 8</td>
@@ -338,7 +359,7 @@ Straf- und Bußgeldvorschriften
 <dl>
 <dt>10.</dt>
 <dd>Abschnitt<br />
-Verbraucherinformation
+Verbraucherinformation und Destillation in Krisenfällen
 </dd>
 </dl></td>
 </tr>
@@ -346,9 +367,12 @@ Verbraucherinformation
 <td>§ 52a</td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>§ 52b</td>
 </tr>
 <tr class="odd">
+<td> </td>
+</tr>
+<tr class="even">
 <td><strong></strong>
 <dl>
 <dt>11.</dt>
@@ -357,22 +381,22 @@ Schlussbestimmungen
 </dd>
 </dl></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 53</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 54</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 55</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 56</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 57</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 57a</td>
 </tr>
 </tbody>
@@ -562,7 +586,16 @@ Württemberg.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Bezeichnungen für Landweine festzulegen. Die Gebiete sind in Anlehnung an herkömmliche geografische Begriffe für solche geografische Räume festzulegen, in denen traditionell Weinbau betrieben wird.
 
-(3) Die bestimmten Anbaugebiete nach Absatz 1 und die in Rechtsverordnungen nach Absatz 2 in Verbindung mit Absatz 4 festgelegten Landweingebiete bilden das deutsche Weinanbaugebiet.
+(3) Das deutsche Weinbaugebiet besteht aus
+
+1.  
+den Flächen der in Absatz 1 bezeichneten Anbaugebiete,
+
+2.  
+den Flächen der in Rechtsverordnungen nach Absatz 2 in Verbindung mit Absatz 4 festgelegten Landweingebiete und
+
+3.  
+den außerhalb der in Nummer 1 und 2 bezeichneten Gebiete liegenden Flächen, für die eine Genehmigung zur Anpflanzung von Reben erteilt worden ist.
 
 (4) Die Landesregierungen grenzen durch Rechtsverordnung die in Absatz 1 genannten und die in Rechtsverordnungen nach Absatz 2 festgelegten Gebiete ab.
 
@@ -608,7 +641,7 @@ Regelungen zu erlassen über das Verfahren sowie über die Voraussetzungen und d
 
 (1) Bei der Bundesanstalt für Landwirtschaft und Ernährung wird ein Sachverständigenausschuss zur Bewertung der im Zusammenhang mit Maßnahmen nach Artikel 45 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 1308/2013 beabsichtigten Informationen über die Auswirkungen des Weinkonsums auf die Gesundheit und das Verhalten nach Maßgabe einer Rechtsverordnung nach Absatz 2 errichtet.
 
-(2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit durch Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere über die Zusammensetzung, die Berufung und die Amtsdauer der Mitglieder, das Verfahren und die Geschäftsordnung des Sachverständigenausschusses zu regeln. Dem Sachverständigenausschuss müssen mindestens angehören ein Vertreter oder eine Vertreterin
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit durch Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere über die Zusammensetzung, die Berufung und die Amtsdauer der Mitglieder, das Verfahren und die Geschäftsordnung des Sachverständigenausschusses zu regeln. Dem Sachverständigenausschuss müssen mindestens angehören ein Vertreter oder eine Vertreterin
 
 1.  
 des Bundesinstituts für Risikobewertung,
@@ -666,140 +699,83 @@ Rebflächen in den in § 3 Abs. 1 genannten bestimmten Anbaugebieten, die zuläs
 
 ### § 6 Wiederbepflanzungen
 
-(1) Ein Wiederbepflanzungsrecht gilt als gewährt, wenn eine zulässigerweise bestockte Rebfläche gerodet worden ist.
+(1) Die zuständige Landesbehörde erteilt einem Erzeuger, der eine Rebfläche gerodet hat, auf Antrag eine Genehmigung zur Wiederbepflanzung. Anträge nach Satz 1 können bis zum Ende des zweiten auf die Rodung folgenden Weinwirtschaftsjahres gestellt werden.
 
-(2) Die Übertragung eines Wiederbepflanzungsrechts
+(2) Die Landesregierungen können durch Rechtsverordnung vorsehen, dass Erzeugern, die sich verpflichtet haben, eine Rebfläche zu roden, genehmigt werden kann, die Wiederbepflanzung auf einer anderen als der zu rodenden Fläche vorzunehmen, soweit die Rodung spätestens bis zum Ablauf des vierten Jahres, gerechnet ab dem Zeitpunkt der Anpflanzung der neuen Reben, vorgenommen wird. In der Rechtsverordnung nach Satz 1 können nähere Einzelheiten sowie das Verfahren geregelt werden.
 
-1.  
-von einer Fläche mit einer Hangneigung von mehr als 30 vom Hundert (Steillage) auf eine Fläche mit einer Hangneigung von weniger als 30 vom Hundert (Flachlage) oder
+(3) Die Landesregierungen können auf Empfehlung einer berufsständischen Organisation im Sinne des Artikels 65 Unterabsatz 1 der Verordnung (EU) Nr. 1308/2013 durch Rechtsverordnung Wiederbepflanzungen in einem Gebiet, das für die Erzeugung von Wein mit einer geschützten Ursprungsbezeichnung oder mit einer geschützten geografischen Angabe in Betracht kommt, auf Reben beschränken, die derselben Spezifikation der geschützten Ursprungsbezeichnung oder geografischen Angabe entsprechen wie die gerodeten Reben. Eine berufsständische Organisation ist als repräsentativ anzusehen, wenn ihre Mitglieder über 50 Prozent der in Satz 1 genannten Flächen verfügen.
 
-2.  
-aus einem der in § 3 Absatz 1 genannten Anbaugebiete in ein anderes in § 3 Absatz 1 genanntes Anbaugebiet
+(4) Sofern keine Rechtsverordnung nach Absatz 3 Satz 1 erlassen wurde und der Antragsteller nicht der Verpflichtung nach § 7b Absatz 2 unterliegt, kann dem Antragsteller genehmigt werden, eine Wiederbepflanzungsgenehmigung auf einer im Antrag nicht bezeichneten Fläche auszuüben, soweit diese Fläche im Betrieb des Antragstellers belegen ist.
 
-ist nicht zulässig.
+(5) Die zuständigen obersten Landesbehörden unterrichten die Bundesanstalt für Landwirtschaft und Ernährung jährlich zum 1. Februar über die in ihrem Land vorhandenen berufsständischen Organisationen im Sinne des Absatzes 3 Satz 2.
 
-(3) Abweichend von Absatz 2 können die Landesregierungen durch Rechtsverordnung zur Erhaltung des Produktionspotentials in ihrem Gebiet die Übertragung eines Wiederbepflanzungsrechts aus einem der in § 3 Absatz 1 genannten Anbaugebiete in ein anderes in § 3 Absatz 1 genanntes Anbaugebiet zulassen.
+(6) Im Zusammenhang mit der Bearbeitung von Anträgen im Sinne des Absatzes 1 Satz 1, die Flächen betreffen, die zuvor vom Antragsteller gerodet wurden, können die Landesregierungen durch Rechtsverordnung das in Artikel 8 Absatz 2 der Durchführungsverordnung (EU) 2015/561 der Kommission vom 7. April 2015 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich des Genehmigungssystems für Rebpflanzungen (ABl. L 93 vom 9.4.2015, S.12) genannte vereinfachte Verfahren zulassen.
 
-(4) Ferner kann die zuständige Behörde abweichend von Absatz 2 – auch soweit eine Rechtsverordnung nach Absatz 3 ergangen ist – zur Sicherung der Qualität oder zur Erhaltung der Weinbaustruktur in Einzelfällen zur Vermeidung unbilliger Härten die Übertragung eines Wiederbepflanzungsrechts von Steillagen auf Flachlagen oder aus einem der in § 3 Absatz 1 genannten Anbaugebiete in ein anderes in § 3 Absatz 1 genanntes Anbaugebiet genehmigen.
+(7) Die Landesregierungen können durch Rechtsverordnung die in § 7c Absatz 1 in Verbindung mit Artikel 8 Absatz 1 Unterabsatz 3 Satz 2 der Durchführungsverordnung (EU) 2015/561 vorgeschriebenen Fristen auch für die Übermittlung von Anträgen und die Gewährung von Genehmigungen nach Absatz 1 und 2 vorsehen.
 
-(5) Die Landesregierungen können durch Rechtsverordnung ferner
+### § 6a Umwandlung bestehender Pflanzungsrechte
 
-1.  
-vorschreiben, dass
+(1) Anträge auf Umwandlung von Pflanzungsrechten nach Artikel 68 Absatz 1 der Verordnung (EU) Nr. 1308/2013 können ab dem 15. September 2015 und bis zum 31. Dezember 2020 gestellt werden.
 
-a)  
-Wiederbepflanzungen nur auf den gerodeten Flächen vorgenommen werden dürfen,
+(2) Die Landesregierungen können durch Rechtsverordnung bestimmen, dass Antragstellern genehmigt werden kann, ein umgewandeltes Pflanzrecht auf einer im Antrag nicht bezeichneten Fläche auszuüben, soweit diese Fläche im Betrieb des Antragstellers belegen ist.
 
-b)  
-ein Wiederbepflanzungsrecht nur in dem Betrieb ausgeübt werden darf, dem es gewährt wurde,
+(3) Die zuständigen Landesbehörden unterrichten die Bundesanstalt für Landwirtschaft und Ernährung jährlich zum 1. Oktober desselben Jahres über Anzahl und Fläche der nach Absatz 1 genehmigten Anträge des Vorjahres.
 
-2.  
-die Voraussetzungen und das Verfahren für die
+### § 7 Festsetzung eines Prozentsatzes für Neuanpflanzungen
 
-a)  
-Übertragung eines Wiederbepflanzungsrechts auf einen anderen Betrieb,
+(1) Abweichend von dem in Artikel 63 Absatz 1 der Verordnung (EU) Nr. 1308/2013 bestimmten Prozentsatz wird für Genehmigungen für Neuanpflanzungen in den Jahren 2016 und 2017 ein Prozentsatz von 0,3 der tatsächlich am 31. Juli des jeweils vorangegangenen Jahres in Deutschland mit Reben bepflanzten Gesamtfläche festgelegt.
 
-b)  
-Ausübung eines Wiederbepflanzungsrechts in dem Betrieb, in dem es gewährt wurde,
+(2) Von der sich nach Anwendung des in Absatz 1 genannten Prozentsatzes ergebenden Gesamtfläche wird vorab für die Länder Baden-Württemberg, Bayern, Brandenburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein und Thüringen jeweils ein Anteil von 5 Hektar für die Genehmigung von Anträgen auf Neuanpflanzung auf dem Gebiet dieser Länder abgezogen, sofern Anträge in dieser Höhe gestellt werden.
 
-c)  
-Gewährung eines Wiederbepflanzungsrechts an einen Betrieb, der sich zur Rodung einer Rebfläche vor Ablauf des dritten Jahres nach der Anpflanzung der neuen Reben verpflichtet,
+(3) Die Landesregierungen können auf der Grundlage des Artikels 63 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 1308/2013 durch Rechtsverordnung bestimmen, dass Genehmigungen für Neuanpflanzungen, die in Anwendung des Absatzes 1 erteilt worden sind und sich auf Gebiete beziehen, die für die Erzeugung von Weinen mit einer geschützten Ursprungsbezeichnung oder geschützten geografischen Angabe oder ohne geografische Angabe in Betracht kommen, nur bis zu einer in der Rechtsverordnung für ein bestimmtes Anbaugebiet oder Landweingebiet oder Gebiet ohne geografische Angabe festgesetzten Gesamtfläche in Anspruch genommen werden dürfen. Eine Rechtsverordnung nach Satz 1 ist nur zulässig, soweit nachweislich eine Voraussetzung des Artikels 63 Absatz 3 der Verordnung (EU) Nr. 1308/2013 erfüllt ist. Die Festsetzung darf nur in dem Umfang erfolgen, der erforderlich ist, um den wirtschaftlichen Schwierigkeiten im Sinne des Artikels 63 Absatz 3 Buchstabe a oder der drohenden Wertminderung im Sinne des Artikels 63 Absatz 3 Buchstabe b der Verordnung (EU) Nr. 1308/2013 wirksam begegnen zu können. In der Rechtsverordnung ist das erforderliche Verfahren zu regeln.
 
-festlegen.
+(4) Die zuständigen obersten Landesbehörden unterrichten die Bundesanstalt für Landwirtschaft und Ernährung unverzüglich nach Erlass einer Rechtsverordnung nach Absatz 2. Flächen, für die erteilte Genehmigungen auf Grund einer Rechtsverordnung nach Absatz 2 nicht in Anspruch genommen werden durften, sind, soweit im Rahmen der allgemeinen Vorschriften nicht alle Genehmigungsanträge bewilligt oder nur teilweise bewilligt worden sind, für bisher ganz oder teilweise unberücksichtigte Genehmigungsanträge nach dem allgemeinen Verteilungsverfahren zu verwenden.
 
-In Rechtsverordnungen nach Satz 1 kann bestimmt werden, dass die zuständige Behörde im Einzelfall Anordnungen nach Nummer 1 treffen kann.
+### § 7a Genehmigungsfähigkeit
 
-(6) (weggefallen)
+Ein Antrag auf Genehmigung einer Neuanpflanzung von Reben darf nur genehmigt werden, wenn der Antragsteller glaubhaft macht, dass er die Neuanpflanzung auf einer landwirtschaftlichen Fläche vornehmen will, über die er zum Zeitpunkt der Neuanpflanzung verfügen wird und die nicht kleiner ist als die Fläche, für die er die Genehmigung beantragt.
 
-### § 7 Neuanpflanzungen, Anbaueignung
+### § 7b Festlegung von Prioritätskriterien
 
-(1) Soweit in den Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union oder in auf Grund dieses Gesetzes erlassenen Rechtsverordnungen keine abweichenden Regelungen getroffen sind, dürfen Erzeugern Genehmigungen für Neuanpflanzungen nur für Flächen erteilt werden, die zur Erzeugung von Qualitätswein, Prädikatswein, Qualitätslikörwein b.A., Qualitätsperlwein b.A. oder Sekt b.A. oder Landwein geeignet sind und
+(1) Für die Genehmigung von Neuanpflanzungen wird vorbehaltlich des § 7 Absatz 2 im Falle des Artikels 64 Absatz 2 der Verordnung (EU) Nr. 1308/2013 im Rahmen des unionsrechtlich bestimmten Verteilungsverfahrens als Prioritätskriterium zu Grunde gelegt, dass die für die Neuanpflanzung vorgesehene Fläche in einem Gebiet mit steilen Hanglagen (Artikel 64 Absatz 2 Satz 2 Buchstabe d der Verordnung (EU) Nr. 1308/2013 in Verbindung mit Anhang II Buchstabe D Unterabsatz 1 Absatz 4 der Delegierten Verordnung (EU) 2015/560 der Kommission vom 15. Dezember 2015 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich des Genehmigungssystems für Rebpflanzungen (ABl. L 93 vom 9.4.2015, S.1)) liegt. Für die Zwecke des Verteilungsverfahrens wird jeder Fläche, die das in Satz 1 genannte Kriterium erfüllt, ein Punkt vergeben. Abweichend von Satz 2 werden bei einer Hangneigung zwischen 15 und 30 Prozent 0,5 Punkte vergeben.
 
-1.  
-zur Erzeugung von Qualitätswein, Prädikatswein, Qualitätslikörwein b.A., Qualitätsperlwein b.A. oder Sekt b.A. oder Landwein bestimmt sind und die
+(2) Antragsteller, die das Prioritätskriterium nach Absatz 1 Satz 1 geltend machen, müssen sich mit dem Antrag auf die Bescheinigung nach § 7c Absatz 1 Satz 1 verpflichten, die betroffene Neuanpflanzungsfläche während eines Zeitraums von sieben Jahren nicht zu roden. Die Verpflichtung nach Satz 1 besteht jedoch nicht über den 31. Dezember 2030 hinaus.
 
-a)  
-in unmittelbarem räumlichen Zusammenhang mit zulässigerweise mit Reben bepflanzten oder vorübergehend nicht bepflanzten Rebflächen stehen oder
+### § 7c Zuständigkeiten und Verfahren
 
-b)  
-in Verfahren nach dem Flurbereinigungsgesetz oder in Verfahren zur Festlegung und Neuordnung der Eigentumsverhältnisse nach dem Landwirtschaftsanpassungsgesetz als Rebflächen ausgewiesen werden, soweit dies zur wertgleichen Abfindung nach § 44 des Flurbereinigungsgesetzes oder § 58 des Landwirtschaftsanpassungsgesetzes erforderlich ist,
+(1) Der Antrag auf Genehmigung einer Neuanpflanzung von Reben ist vom Erzeuger bis zum 1. März eines jeden Jahres bei der Bundesanstalt für Landwirtschaft und Ernährung zu stellen. Der Antragsteller hat im Antrag nach Maßgabe einer Rechtsverordnung nach Absatz 2 die Angaben zu machen, die erforderlich sind, um das Erfüllen der Anforderungen des § 7a glaubhaft zu machen. Macht der Antragsteller das Vorliegen von Prioritätskriterien im Sinne des § 7b geltend, hat er nach Maßgabe einer Rechtsverordnung nach Absatz 2 geeignete Unterlagen zu deren Nachweis beizufügen. Über den Antrag ist bis zum 31. Juli des Jahres der Antragstellung zu entscheiden. Die Bundesanstalt für Landwirtschaft und Ernährung übermittelt den für die im Antrag betroffenen Flächen zuständigen Behörden eine Kopie der Genehmigung.
 
-2.  
-für die Durchführung von Weinbauversuchen bestimmt sind oder
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Einzelheiten zu dem Verfahren nach Absatz 1 zu regeln, insbesondere hinsichtlich der im Antrag erforderlichen Angaben und der im Zusammenhang mit dem Nachweis des Vorliegens geltend gemachter Prioritätskriterien vorzulegenden Unterlagen.
 
-3.  
-zur Erzeugung von
+(3) Das Bundesministerium für Ernährung und Landwirtschaft kann durch Rechtsverordnung zur Vermeidung unbilliger Härten bestimmen, dass es unter näher bestimmten Voraussetzungen, Antragstellern auf Antrag erlaubt wird, nach Erhalt einer Genehmigung nach Absatz 1 Satz 1, eine Neuanpflanzung auf einer anderen Fläche des Betriebes als der, für die die jeweilige Genehmigung erteilt wurde, durchzuführen.
 
-a)  
-Qualitätswein, Prädikatswein, Qualitätslikörwein b.A., Qualitätsperlwein b.A. oder Sekt b.A. oder Landwein und gleichzeitig zur Erzeugung von Edelreisern oder
+### § 7d Inanspruchnahme von Genehmigungen
 
-b)  
-Edelreisern
+(1) Die nach § 6 Absatz 1, § 6a Absatz 1 oder § 7c Absatz 1 Satz 1 erteilten Genehmigungen sind innerhalb der in Artikel 62 Absatz 3 Satz 1 der Verordnung (EU) Nr. 1308/2013 genannten Gültigkeitsdauer in Anspruch zu nehmen, soweit nicht auf Grund einer Rechtsverordnung nach § 7 Absatz 2 etwas anderes gilt.
 
-bestimmt sind und die in unmittelbarem räumlichen Zusammenhang mit zulässigerweise mit Reben bepflanzten oder vorübergehend nicht bepflanzten Rebflächen stehen.
+(2) Die zuständigen Landesbehörden überprüfen auf der Grundlage der nach § 7c Absatz 1 Satz 5 übermittelten Bescheide, ob Anpflanzungen wie beschieden innerhalb der vorgesehenen Fristen durchgeführt werden.
 
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+### § 7e Vom Genehmigungssystem ausgenommene Flächen
 
-1.  
-die Voraussetzungen für die Genehmigung nach Absatz 1 zu regeln und dabei insbesondere die Anforderungen an die Flächen hinsichtlich ihrer Eignung zur Erzeugung von Qualitätswein, Prädikatswein, Qualitätslikörwein b.A., Qualitätsperlwein b.A. oder Sekt b.A. oder Landwein und die Vermarktungsmöglichkeiten des erzeugten Weines festzulegen,
+(1) Die in Artikel 1 Absatz 2 der Delegierten Verordnung (EU) 2015/560, (ABl. L 93, S.1) genannte Mitteilung über die Anpflanzung von Reben auf Flächen, die zu Versuchsflächen oder zur Anlegung eines Bestandes für die Erzeugung von Edelreisern bestimmt sind, ist vor der Anpflanzung der nach Landesrecht zuständigen Behörde zu übermitteln.
 
-2.  
-die Voraussetzungen für die Eignung einer Fläche zur Erzeugung von Qualitätswein, Prädikatswein, Qualitätslikörwein b.A., Qualitätsperlwein b.A. oder Sekt b.A. oder Landwein zu regeln und dabei insbesondere vorzusehen, dass der Traubenmost der auf der Fläche geernteten Weintrauben bestimmter Rebsorten einen festgesetzten Mindestgehalt an natürlichem Alkohol erwarten lassen muss,
+(2) Die Landesregierungen können durch Rechtsverordnung bestimmen, dass die Anpflanzung oder Wiederbepflanzung von Flächen, deren Weine oder Weinbauerzeugnisse ausschließlich zum Gebrauch im Haushalt des Weinerzeugers bestimmt sind, den zuständigen Landesstellen mitgeteilt werden.
 
-3.  
-Ausnahmen von den Anforderungen des Absatzes 1 zuzulassen,
+(3) Die zuständigen obersten Landesbehörden unterrichten die Bundesanstalt für Landwirtschaft und Ernährung über den Umfang der gemäß Absatz 1 angezeigten Flächen.
 
-4.  
-das Verfahren zur Feststellung, dass die Voraussetzungen nach Nummer 1 oder 2 vorliegen, sowie das Verfahren für die Erteilung der Genehmigung zu regeln.
+### § 8 Klassifizierung von Rebsorten
 
-(3) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Sicherung der Qualität die Voraussetzungen und das Verfahren für die Prüfung der Anbaueignung von Rebsorten zu regeln.
+(1) Die Landesregierungen legen durch Rechtsverordnung die zur Herstellung von Wein zugelassenen Rebsorten fest.
 
-(4) Die Landesregierungen können durch Rechtsverordnung
-
-1.  
-zur
-
-a)  
-Steigerung der Qualität,
-
-b)  
-Erhaltung des Gebietscharakters der Qualitätsweine, Prädikatsweine, Qualitätslikörweine b.A., Qualitätsperlweine b.A. oder Sekte b.A.,
-
-c)  
-Verbesserung der Vermarktung oder
-
-d)  
-Sicherung der Versorgung mit Rebenpflanzgut
-
-über die durch Rechtsverordnungen nach Absatz 2 Nr. 2 vorgeschriebenen Voraussetzungen hinaus weitere Voraussetzungen für die Anbaueignung einer Fläche festlegen,
-
-2.  
-vorschreiben, dass Flächen, die zur Erzeugung von als Unterlagsreben dienenden Mutterreben bestimmt sind, in räumlichem oder unmittelbarem räumlichen Zusammenhang mit zulässigerweise mit Reben bepflanzten oder vorübergehend nicht bepflanzten Rebflächen stehen müssen,
-
-3.  
-die Voraussetzungen für die Eignung einer Fläche zur Erzeugung von als Unterlagsreben dienenden Mutterreben regeln.
-
-### § 8 Unzulässige Anpflanzungen
-
-(1) Eine Erteilung von Pflanzungsrechten für vor dem 1. September 1998 ohne entsprechende Pflanzungsrechte bepflanzte Rebflächen zur Regularisierung dieser Flächen nach Artikel 85b Absatz 1 der Verordnung (EG) Nr. 1234/2007 ist durch den Eigentümer oder Nutzungsberechtigten der Fläche bei der nach Landesrecht zuständigen Stelle zu beantragen.
-
-(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die nach den Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union über widerrechtliche Anpflanzungen erforderlichen Bestimmungen
-
-1.  
-über das Verfahren der Regularisierung und
-
-2.  
-die Höhe des Entgelts, das für ein nach Absatz 1 erteiltes Pflanzungsrecht zu zahlen ist,
-
-festzulegen.
+(2) Soweit in den Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union oder in auf Grund dieses Gesetzes erlassenen Rechtsverordnungen keine abweichenden Regelungen getroffen sind, werden die Landesregierungen ermächtigt, durch Rechtsverordnung die Voraussetzungen und das Verfahren für die Festlegung der Rebsorten nach Absatz 1 zu regeln.
 
 ### § 8a Bewirtschaftung des Produktionspotenzials
 
-(1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung eine oder mehrere regionale Reserven von Pflanzungsrechten zu schaffen.
+(1) (weggefallen)
 
 (2) (weggefallen)
 
-(3) Soweit die Landesregierungen durch Rechtsverordnung eine oder mehrere regionale Reserven von Pflanzungsrechten schaffen, können sie in der Rechtsverordnung die Verwaltung der Reserve oder der Reserven regeln und dabei insbesondere die Voraussetzungen und das Verfahren für die Gewährung von Rechten aus der Reserve und die Zuführung von Rechten zur Reserve festlegen.
+(3) (weggefallen)
 
 (4) Soweit die Landesregierungen durch Rechtsverordnung
 
@@ -814,12 +790,6 @@ bestimmt sich die Laufzeit eines im Rahmen der Verordnung (EG) Nr. 1493/1999 ert
 ### § 8b (weggefallen)
 
 -
-
-### § 8c Klassifizierung von Rebsorten
-
-(1) Die Landesregierungen legen durch Rechtsverordnung die zur Herstellung von Wein zugelassenen Rebsorten fest.
-
-(2) Soweit in den Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union oder in auf Grund dieses Gesetzes erlassenen Rechtsverordnungen keine abweichenden Regelungen getroffen sind, werden die Landesregierungen ermächtigt, durch Rechtsverordnung die Voraussetzungen und das Verfahren für die Festlegung der Rebsorten nach Absatz 1 zu regeln.
 
 ### § 9 Hektarertrag
 
@@ -1759,6 +1729,9 @@ Soweit nach dem Lebensmittel- und Futtermittelgesetzbuch die Beobachtung der Rü
 1.  
 Vorhaben, Rebflächen zu roden oder aufzugeben, wiederzubepflanzen oder Reben neu anzupflanzen, sowie erfolgte Rodungen, Aufgaben, Wiederbepflanzungen oder Neuanpflanzungen den zuständigen Behörden zu melden sind,
 
+1a.  
+Flächen, die ohne Genehmigung mit Reben bepflanzt oder die entsprechend Artikel 71 Absatz 1 oder Absatz 2 Satz 1 der Verordnung (EU) Nr. 1308/2013 gerodet worden sind, und deren Umfang den zuständigen Behörden zu melden sind,
+
 2.  
 die Rebflächen des Betriebes, die Ertragsrebfläche, die Erntemenge nach Rebsorten und Herkunft und die vorgesehene Differenzierung der Weine, Qualitätsweine und Prädikatsweine zu melden sind,
 
@@ -2081,13 +2054,13 @@ Die gebietlichen Absatzförderungseinrichtungen und der Deutsche Weinfonds unter
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
 1.  
-in anderen als den in § 49 Nummer 1, 2, 4, 5 oder Nummer 6 oder § 50 Abs. 2 Nr. 1 oder 6 bis 10 bezeichneten Fällen entgegen einer Vorschrift dieses Gesetzes ein Erzeugnis oder ein Getränk, das mit einem Erzeugnis verwechselt werden kann, verarbeitet, in den Verkehr bringt, mit anderen Getränken vermischt in den Verkehr bringt, einführt, ausführt, verwendet, verwertet, lagert oder transportiert,
+in anderen als den in § 49 Satz 1 Nummer 1, 2, 4, 5 oder Nummer 6 oder § 50 Absatz 2 Satz 1 Nummer 1 oder Nummer 6 bis 10 bezeichneten Fällen entgegen einer Vorschrift dieses Gesetzes ein Erzeugnis oder ein Getränk, das mit einem Erzeugnis verwechselt werden kann, verarbeitet, in den Verkehr bringt, mit anderen Getränken vermischt in den Verkehr bringt, einführt, ausführt, verwendet, verwertet, lagert oder transportiert,
 
 2.  
 einer Rechtsverordnung nach § 13 Abs. 3, § 14 Nr. 1 oder 3, § 15 Nr. 3, § 16 Abs. 1a Nr. 1 oder Abs. 2 Satz 1 in Verbindung mit Satz 2 Nr. 1 oder 2, § 17 Abs. 2 Nr. 1, § 22 Abs. 2, § 27 Abs. 2 oder § 35 Abs. 2 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Strafvorschrift verweist,
 
 3.  
-in anderen als den in Nummer 4, § 49 Nr. 6 oder 7 bezeichneten Fällen entgegen einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union eine der in Nummer 1 bezeichneten Handlungen begeht, soweit eine Rechtsverordnung nach § 51 für einen bestimmten Tatbestand auf diese Strafvorschrift verweist oder
+in anderen als den in Nummer 4, § 49 Satz 1 Nummer 6 oder Nummer 7 bezeichneten Fällen entgegen einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union eine der in Nummer 1 bezeichneten Handlungen begeht, soweit eine Rechtsverordnung nach § 51 für einen bestimmten Tatbestand auf diese Strafvorschrift verweist oder
 
 4.  
 einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in Nummer 2 genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach § 51 für einen bestimmten Tatbestand auf diese Strafvorschrift verweist.
@@ -2152,13 +2125,13 @@ entgegen § 11 Absatz 1 Satz 1 oder Absatz 4 Satz 1 die dort genannte Menge nich
 der Nachweispflicht nach § 11 Abs. 1 Satz 3 zuwiderhandelt,
 
 3.  
-entgegen § 6 Abs. 2 ein Wiederbepflanzungsrecht überträgt,
+(weggefallen)
 
 4.  
-einer Rechtsverordnung nach § 3b Absatz 3 Satz 1, § 4 Absatz 2, § 6 Absatz 5 Satz 1, § 12 Abs. 3 Nr. 5 oder Abs. 5, § 14 Nr. 2, § 16 Abs. 2 Satz 1, auch in Verbindung mit Satz 2 Nr. 4, § 16 Abs. 3, 4 oder 5, § 21 Abs. 1 Nr. 4, § 24 Abs. 2, 3 oder 4 Nr. 2, § 26 Abs. 3 Satz 1 Nr. 1, auch in Verbindung mit Satz 2, § 28 Abs. 3 Nr. 2 bis 4, § 29, § 30, § 31 Abs. 4 Nr. 1, § 33 Abs. 1, 1a Satz 1 oder Abs. 1b, § 36 Abs. 1 Satz 1 in Verbindung mit Satz 2 Nr. 3 Buchstabe c oder Nr. 4 oder § 44 Abs. 1 oder 2 Satz 2 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+einer Rechtsverordnung nach § 3b Absatz 3 Satz 1, § 4 Absatz 2, § 12 Abs. 3 Nr. 5 oder Abs. 5, § 14 Nr. 2, § 16 Abs. 2 Satz 1, auch in Verbindung mit Satz 2 Nr. 4, § 16 Abs. 3, 4 oder 5, § 21 Abs. 1 Nr. 4, § 24 Abs. 2, 3 oder 4 Nr. 2, § 26 Abs. 3 Satz 1 Nr. 1, auch in Verbindung mit Satz 2, § 28 Abs. 3 Nr. 2 bis 4, § 29, § 30, § 31 Abs. 4 Nr. 1, § 33 Abs. 1, 1a Satz 1 oder Abs. 1b, § 36 Abs. 1 Satz 1 in Verbindung mit Satz 2 Nr. 3 Buchstabe c oder Nr. 4 oder § 44 Abs. 1 oder 2 Satz 2 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 5.  
-einer vollziehbaren Anordnung auf Grund einer Rechtsverordnung nach § 6 Abs. 5 Satz 2 zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+entgegen § 7d Absatz 1 eine Genehmigung nicht oder nicht richtig in Anspruch nimmt,
 
 6.  
 (weggefallen)
@@ -2182,7 +2155,7 @@ entgegen § 31 Abs. 2a Satz 1 eine Information nicht, nicht richtig, nicht volls
 entgegen § 31 Abs. 6 eine Maßnahme nach § 31 Abs. 1 oder eine Entnahme von Proben nicht duldet, eine in der Überwachung tätige Person nicht unterstützt oder eine Auskunft nicht erteilt oder
 
 12.  
-einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zuwiderhandelt, die nicht nach § 48 Abs. 1 Nr. 3 oder 4 oder § 49 Nr. 6 oder 7 als Straftat geahndet werden kann, soweit eine Rechtsverordnung nach § 51 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zuwiderhandelt, die nicht nach § 48 Abs. 1 Nr. 3 oder 4 oder § 49 Satz 1 Nummer 6 oder Nummer 7 als Straftat geahndet werden kann, soweit eine Rechtsverordnung nach § 51 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 Für Erzeugnisse nach § 2 Nummer 1 oder Nummer 2 gelten folgende Bußgeldvorschriften des Lebensmittel- und Futtermittelgesetzbuches entsprechend:
 
@@ -2202,23 +2175,60 @@ Für Erzeugnisse nach § 2 Nummer 1 oder Nummer 2 gelten folgende Bußgeldvorsch
 Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, die Tatbestände zu bezeichnen, die
 
 1.  
-als Straftat nach § 48 Abs. 1 Nr. 3 oder 4 oder § 49 Nr. 6 oder 7 zu ahnden sind oder
+als Straftat nach § 48 Abs. 1 Nr. 3 oder 4 oder § 49 Satz 1 Nummer 6 oder Nummer 7 zu ahnden sind oder
 
 2.  
-als Ordnungswidrigkeit nach § 50 Abs. 2 Nr. 12 geahndet werden können.
+als Ordnungswidrigkeit nach § 50 Absatz 2 Satz 1 Nummer 12 geahndet werden können.
 
 ### § 52 Einziehung
 
 Ist eine Straftat nach § 48 oder § 49 oder eine Ordnungswidrigkeit nach § 50 begangen worden, so können Gegenstände, auf die sich eine solche Straftat oder Ordnungswidrigkeit bezieht, und Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind, eingezogen werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
-10. Abschnitt Verbraucherinformation
-------------------------------------
+10. Abschnitt Verbraucherinformation und Destillation in Krisenfällen
+---------------------------------------------------------------------
 
 ### 
 
 ### § 52a Verbraucherinformation
 
 Für die Verbraucherinformation gilt das Verbraucherinformationsgesetz entsprechend.
+
+### § 52b Destillation in Krisenfällen
+
+(1) Das Bundesministerium für Ernährung und Landwirtschaft kann bei der Europäischen Kommission nach Artikel 216 Absatz 2 der Verordnung (EU) Nr. 1308/2013 beantragen, dass Vergünstigungen für die Destillation von Wein aus Finanzmitteln des Bundes oder der Länder gewährt werden können, um
+
+1.  
+erheblichen Preissteigerungen oder Preisrückgängen auf dem Binnenmarkt oder Märkten in Drittländern,
+
+2.  
+erheblichen Marktstörungen, die auf einen Vertrauensverlust der Verbraucher infolge von Risiken für die menschliche Gesundheit durch Erzeugnisse im Sinne des § 2 Nummer 1 oder
+
+3.  
+einer erheblichen Verschlechterung der Erzeugungs- und Marktbedingungen durch außergewöhnliche Witterungsverhältnisse, Pflanzenseuchen oder erheblichen Schädlingsbefall,
+
+die zu einer drohenden Störung des deutschen Weinmarktes insgesamt oder von Teilen davon führen oder zu einer bereits eingetretenen Störung des deutschen Weinmarktes insgesamt oder von Teilen davon geführt haben (Krisenfall), Rechnung tragen zu können. Der Antrag nach Satz 1 ist nur zulässig, wenn
+
+1.  
+die Einwilligung des Bundesministeriums der Finanzen zur Bereitstellung der Finanzmittel des Bundes vorliegt oder
+
+2.  
+sichergestellt ist, dass die Finanzmittel durch die zuständigen Länder aufgebracht werden.
+
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen, dass Weinbaubetriebe verpflichtet sind, Wein zu destillieren, soweit nur dadurch wirksam ein Krisenfall in angemessener Frist bewältigt werden kann.
+
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Voraussetzungen und das Verfahren für die Durchführung einer verpflichtenden oder freiwilligen Destillation zu regeln.
+
+(4) Rechtsverordnungen nach den Absätzen 2 und 3 bedürfen der Zustimmung des Bundesrates, soweit
+
+1.  
+die Länder Finanzmittel zur Durchführung zur Verfügung stellen oder
+
+2.  
+die Länder die Maßnahmen durchführen oder an der Durchführung dieser Maßnahmen mitwirken.
+
+Rechtsverordnungen nach den Absätzen 2 und 3 können im Falle des Satzes 1 Nummer 2 auch ohne Zustimmung des Bundesrates erlassen werden, wenn ihr unverzügliches Inkrafttreten zur unmittelbaren Abwehr eines Krisenfalles erforderlich ist und ihre Geltungsdauer auf einen bestimmten Zeitraum von höchstens sechs Monaten begrenzt wird.
+
+(5) Die Absätze 1 bis 4 sind ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4 des Marktorganisationsgesetzes.
 
 11. Abschnitt Schlussbestimmungen
 ---------------------------------
