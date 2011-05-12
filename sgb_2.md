@@ -129,7 +129,7 @@ Leistungen für Bildung und Teilhabe
 |------|----------------------------------------------------|
 | § 28 | Bedarfe für Bildung und Teilhabe                   |
 | § 29 | Erbringung der Leistungen für Bildung und Teilhabe |
-| § 30 | (weggefallen)                                      |
+| § 30 | Berechtigte Selbsthilfe                            |
 
 Unterabschnitt 5
 
@@ -1495,7 +1495,7 @@ Für Kinder, die eine Kindertageseinrichtung besuchen, gilt Satz 1 entsprechend.
 
 (3) Für die Ausstattung mit persönlichem Schulbedarf werden bei Schülerinnen und Schülern 70 Euro zum 1. August und 30 Euro zum 1. Februar eines jeden Jahres berücksichtigt.
 
-(4) Bei Schülerinnen und Schülern, die für den Besuch der nächstgelegenen Schule des gewählten Bildungsgangs auf Schülerbeförderung angewiesen sind, werden die dafür erforderlichen tatsächlichen Aufwendungen berücksichtigt, soweit sie nicht von Dritten übernommen werden und es der leistungsberechtigten Person nicht zugemutet werden kann, die Aufwendungen aus dem Regelbedarf zu bestreiten.
+(4) Bei Schülerinnen und Schülern, die für den Besuch der nächstgelegenen Schule des gewählten Bildungsgangs auf Schülerbeförderung angewiesen sind, werden die dafür erforderlichen tatsächlichen Aufwendungen berücksichtigt, soweit sie nicht von Dritten übernommen werden und es der leistungsberechtigten Person nicht zugemutet werden kann, die Aufwendungen aus dem Regelbedarf zu bestreiten. Als zumutbare Eigenleistung gilt in der Regel ein Betrag in Höhe von 5 Euro monatlich.
 
 (5) Bei Schülerinnen und Schülern wird eine schulische Angebote ergänzende angemessene Lernförderung berücksichtigt, soweit diese geeignet und zusätzlich erforderlich ist, um die nach den schulrechtlichen Bestimmungen festgelegten wesentlichen Lernziele zu erreichen.
 
@@ -1520,9 +1520,11 @@ Unterricht in künstlerischen Fächern (zum Beispiel Musikunterricht) und vergle
 3.  
 die Teilnahme an Freizeiten.
 
+Neben der Berücksichtigung von Bedarfen nach Satz 1 können auch weitere tatsächliche Aufwendungen berücksichtigt werden, wenn sie im Zusammenhang mit der Teilnahme an Aktivitäten nach Satz 1 Nummer 1 bis 3 entstehen und es den Leistungsberechtigten im begründeten Ausnahmefall nicht zugemutet werden kann, diese aus dem Regelbedarf zu bestreiten.
+
 ### § 29 Erbringung der Leistungen für Bildung und Teilhabe
 
-(1) Leistungen zur Deckung der Bedarfe nach § 28 Absatz 2 und 5 bis 7 werden erbracht durch Sach- und Dienstleistungen, insbesondere in Form von personalisierten Gutscheinen oder Direktzahlungen an Anbieter von Leistungen zur Deckung dieser Bedarfe (Anbieter); die kommunalen Träger bestimmen, in welcher Form sie die Leistungen erbringen. Die Bedarfe nach § 28 Absatz 3 und 4 werden jeweils durch Geldleistungen gedeckt. Die kommunalen Träger können mit Anbietern pauschal abrechnen.
+(1) Leistungen zur Deckung der Bedarfe nach § 28 Absatz 2 und 5 bis 7 werden erbracht durch Sach- und Dienstleistungen, insbesondere in Form von personalisierten Gutscheinen oder Direktzahlungen an Anbieter von Leistungen zur Deckung dieser Bedarfe (Anbieter); die kommunalen Träger bestimmen, in welcher Form sie die Leistungen erbringen. Sie können auch bestimmen, dass die Leistungen nach § 28 Absatz 2 durch Geldleistungen gedeckt werden. Die Bedarfe nach § 28 Absatz 3 und 4 werden jeweils durch Geldleistungen gedeckt. Die kommunalen Träger können mit Anbietern pauschal abrechnen.
 
 (2) Werden die Bedarfe durch Gutscheine gedeckt, gelten die Leistungen mit Ausgabe des jeweiligen Gutscheins als erbracht. Die kommunalen Träger gewährleisten, dass Gutscheine bei geeigneten vorhandenen Anbietern oder zur Wahrnehmung ihrer eigenen Angebote eingelöst werden können. Gutscheine können für den gesamten Bewilligungszeitraum im Voraus ausgegeben werden. Die Gültigkeit von Gutscheinen ist angemessen zu befristen. Im Fall des Verlustes soll ein Gutschein erneut in dem Umfang ausgestellt werden, in dem er noch nicht in Anspruch genommen wurde.
 
@@ -1530,7 +1532,17 @@ die Teilnahme an Freizeiten.
 
 (4) Im begründeten Einzelfall kann ein Nachweis über eine zweckentsprechende Verwendung der Leistung verlangt werden. Soweit der Nachweis nicht geführt wird, soll die Bewilligungsentscheidung widerrufen werden.
 
-### § 30 (weggefallen)
+### § 30 Berechtigte Selbsthilfe
+
+Geht die leistungsberechtigte Person durch Zahlung an Anbieter in Vorleistung, ist der kommunale Träger zur Übernahme der berücksichtigungsfähigen Aufwendungen verpflichtet, soweit
+
+1.  
+unbeschadet des Satzes 2 die Voraussetzungen einer Leistungsgewährung zur Deckung der Bedarfe im Zeitpunkt der Selbsthilfe nach § 28 Absatz 2 und 5 bis 7 vorlagen und
+
+2.  
+zum Zeitpunkt der Selbsthilfe der Zweck der Leistung durch Erbringung als Sach- oder Dienstleistung ohne eigenes Verschulden nicht oder nicht rechtzeitig zu erreichen war.
+
+War es dem Leistungsberechtigten nicht möglich, rechtzeitig einen Antrag zu stellen, gilt dieser als zum Zeitpunkt der Selbstvornahme gestellt.
 
 Unterabschnitt 5 Sanktionen
 ---------------------------
@@ -1688,7 +1700,7 @@ Sucht eine Person in einem Frauenhaus Zuflucht, ist der kommunale Träger am bis
 
 (1) Leistungen nach diesem Buch werden auf Antrag erbracht. Leistungen nach § 24 Absatz 1 und 3 und Leistungen für die Bedarfe nach § 28 Absatz 2, Absatz 4 bis 7 sind gesondert zu beantragen.
 
-(2) Leistungen nach diesem Buch werden nicht für Zeiten vor der Antragstellung erbracht. Der Antrag auf Leistungen zur Sicherung des Lebensunterhalts wirkt auf den Ersten des Monats zurück.
+(2) Leistungen nach diesem Buch werden nicht für Zeiten vor der Antragstellung erbracht. Der Antrag auf Leistungen zur Sicherung des Lebensunterhalts wirkt auf den Ersten des Monats zurück. Der Antrag auf Leistungen für die Bedarfe nach § 28 Absatz 7 wirkt, soweit daneben andere Leistungen zur Sicherung des Lebensunterhalts erbracht werden, auf den Beginn des aktuellen Bewilligungszeitraums nach § 41 Absatz 1 Satz 4 beziehungsweise 5 zurück.
 
 ### § 38 Vertretung der Bedarfsgemeinschaft
 
