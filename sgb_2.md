@@ -1234,7 +1234,7 @@ monatlich 291 Euro in den übrigen Fällen.
 
 (5) Die Regelbedarfe nach den Absätzen 2 bis 4 sowie nach § 23 Nummer 1 werden jeweils zum 1. Januar eines Jahres entsprechend § 28a des Zwölften Buches in Verbindung mit der Verordnung nach § 40 Satz 1 Nummer 1 des Zwölften Buches angepasst. Für die Neuermittlung der Regelbedarfe findet § 28 des Zwölften Buches in Verbindung mit dem Regelbedarfs-Ermittlungsgesetz entsprechende Anwendung. Das Bundesministerium für Arbeit und Soziales gibt jeweils spätestens zum 1. November eines Kalenderjahres die Höhe der Regelbedarfe, die für die folgenden zwölf Monate maßgebend sind, im Bundesgesetzblatt bekannt.
 
-(+++ Hinweis: Regelbedarfe nach § 20 Abs. 1 bis 4 für die Zeit ab 1.1.2012 vgl. Bek. v. 20.10.2011 I 2093, für die Zeit ab 1.1.2013 vgl. Bek. v. 18.10.2012 I 2175 +++)
+(+++ Hinweis: Regelbedarfe nach § 20 Abs. 1 bis 4 für die Zeit ab 1.1.2012 vgl. Bek. v. 20.10.2011 I 2093, für die Zeit ab 1.1.2013 vgl. Bek. v. 18.10.2012 I 2175, für die Zeit ab 1.1.2014 vgl. Bek. v. 16.10.2013 I 3857 +++)
 
 ### § 21 Mehrbedarfe
 
