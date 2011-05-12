@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 13.5.2011 I 850, 2094;
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 7.5.2013 I 1167
+zuletzt geändert Art. 2 G v. 22.12.2014 I 2411
 
 ### 
 
@@ -170,6 +170,7 @@ Zuständigkeit und Verfahren
 | § 38  | Vertretung der Bedarfsgemeinschaft            |
 | § 39  | Sofortige Vollziehbarkeit                     |
 | § 40  | Anwendung von Verfahrensvorschriften          |
+| § 40a | Erstattungsanspruch                           |
 | § 41  | Berechnung der Leistungen                     |
 | § 42  | Auszahlung der Geldleistungen                 |
 | § 42a | Darlehen                                      |
@@ -251,11 +252,13 @@ Mitwirkungspflichten
 
 Kapitel 9
 
-Bußgeldvorschriften
+Straf- und Bußgeldvorschriften
 
-|      |                     |
-|------|---------------------|
-| § 63 | Bußgeldvorschriften |
+|       |                                           |
+|-------|-------------------------------------------|
+| § 63  | Bußgeldvorschriften                       |
+| § 63a | Datenschutzrechtliche Bußgeldvorschriften |
+| § 63b | Datenschutzrechtliche Strafvorschriften   |
 
 Kapitel 10
 
@@ -290,6 +293,7 @@ Kapitel 11
 | § 76  | Gesetz zur Weiterentwicklung der Organisation der Grundsicherung für Arbeitsuchende                                                            |
 | § 77  | Gesetz zur Ermittlung von Regelbedarfen und zur Änderung des Zweiten und Zwölften Buches Sozialgesetzbuch                                      |
 | § 78  | Gesetz zur Verbesserung der Eingliederungschancen am Arbeitsmarkt                                                                              |
+| § 79  | Achtes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch – Ergänzung personalrechtlicher Bestimmungen                                    |
 
 Kapitel 1 Fördern und Fordern
 -----------------------------
@@ -442,6 +446,8 @@ Für die Antragsberechtigung gilt § 6 Absatz 3 entsprechend. Der Antrag bedarf 
 (6) Das Bundesministerium für Arbeit und Soziales kann mit Zustimmung der zuständigen obersten Landesbehörde durch Rechtsverordnung ohne Zustimmung des Bundesrates die Zulassung widerrufen. Auf Antrag des zugelassenen kommunalen Trägers, der der Zustimmung der zuständigen obersten Landesbehörde bedarf, widerruft das Bundesministerium für Arbeit und Soziales die Zulassung durch Rechtsverordnung ohne Zustimmung des Bundesrates. Die Trägerschaft endet mit Ablauf des auf die Antragstellung folgenden Kalenderjahres.
 
 (7) Auf Antrag des kommunalen Trägers, der der Zustimmung der obersten Landesbehörde bedarf, widerruft, beschränkt oder erweitert das Bundesministerium für Arbeit und Soziales die Zulassung nach Absatz 1 oder 2 durch Rechtsverordnung ohne Zustimmung des Bundesrates, wenn und soweit die Zulassung aufgrund einer kommunalen Neugliederung nicht mehr dem Gebiet des kommunalen Trägers entspricht. Absatz 2 Satz 1 Nummer 2 bis 5 gilt bei Erweiterung der Zulassung entsprechend. Der Antrag nach Satz 1 kann bis zum 1. Juli eines Kalenderjahres mit Wirkung zum 1. Januar des folgenden Kalenderjahres gestellt werden.
+
+§ 6a Abs. 2 Satz 3: Nach Maßgabe der Entscheidungsformel mit Art. 28 Abs. 2 iVm Art. 70 Abs. 1 GG unvereinbar gem. BVerfGE v. 7.10.2014 I 1638 - 2 BvR 1641/11 -
 
 ### § 6b Rechtsstellung der zugelassenen kommunalen Träger
 
@@ -998,7 +1004,7 @@ Leistungen zur Berufsausbildung nach dem Vierten Unterabschnitt des Dritten Absc
 Leistungen zur beruflichen Weiterbildung nach dem Vierten Abschnitt und Leistungen nach den §§ 131a und 131b,
 
 5.  
-Leistungen zur Aufnahme einer sozialversicherungspflichtigen Beschäftigung nach dem Ersten Unterabschnitt des Fünften Abschnitts und Leistungen nach § 131.
+Leistungen zur Aufnahme einer sozialversicherungspflichtigen Beschäftigung nach dem Ersten Unterabschnitt des Fünften Abschnitts.
 
 Für Eingliederungsleistungen an erwerbsfähige behinderte Leistungsberechtigte nach diesem Buch gelten die §§ 112 bis 114, 115 Nummer 1 bis 3 mit Ausnahme berufsvorbereitender Bildungsmaßnahmen und der Berufsausbildungsbeihilfe, § 116 Absatz 1, 2 und 5, die §§ 117, 118 Satz 1 Nummer 3, Satz 2 und die §§ 127 und 128 des Dritten Buches entsprechend. § 1 Absatz 2 Nummer 4 sowie § 36 und § 81 Absatz 3 des Dritten Buches sind entsprechend anzuwenden.
 
@@ -1234,7 +1240,8 @@ monatlich 291 Euro in den übrigen Fällen.
 
 (5) Die Regelbedarfe nach den Absätzen 2 bis 4 sowie nach § 23 Nummer 1 werden jeweils zum 1. Januar eines Jahres entsprechend § 28a des Zwölften Buches in Verbindung mit der Verordnung nach § 40 Satz 1 Nummer 1 des Zwölften Buches angepasst. Für die Neuermittlung der Regelbedarfe findet § 28 des Zwölften Buches in Verbindung mit dem Regelbedarfs-Ermittlungsgesetz entsprechende Anwendung. Das Bundesministerium für Arbeit und Soziales gibt jeweils spätestens zum 1. November eines Kalenderjahres die Höhe der Regelbedarfe, die für die folgenden zwölf Monate maßgebend sind, im Bundesgesetzblatt bekannt.
 
-(+++ Hinweis: Regelbedarfe nach § 20 Abs. 1 bis 4 für die Zeit ab 1.1.2012 vgl. Bek. v. 20.10.2011 I 2093, für die Zeit ab 1.1.2013 vgl. Bek. v. 18.10.2012 I 2175, für die Zeit ab 1.1.2014 vgl. Bek. v. 16.10.2013 I 3857 +++)
+(+++ Hinweis: Regelbedarfe nach § 20 Abs. 1 bis 4 für die Zeit ab 1.1.2012 vgl. Bek. v. 20.10.2011 I 2093, für die Zeit ab 1.1.2013 vgl. Bek. v. 18.10.2012 I 2175, für die Zeit ab 1.1.2014 vgl. Bek. v. 16.10.2013 I 3857, für die Zeit ab 1.1.2015 vgl. Bek. v. 15.10.2014 I 1620 +++)
+§ 20 Abs. 2 Satz 1 u. 2 Nr. 1, Abs. 4 u. 5 iVm § 20 Abs. 1 Satz 1 u. 2 SGB 2 u. § 28a SGB 12 jeweils idF d. G v. 24.3.2011 I 453: Nach Maßgabe der Gründe mit Art. 1 Abs. 1 iVm Art. 20 Abs. 1 GG vereinbar gem. BVerfGE v. 23.7.2014 I 1581 - 1 BvL 10/2012 u.a.
 
 ### § 21 Mehrbedarfe
 
@@ -1408,7 +1415,8 @@ Mehrbedarfe nach § 21 Absatz 4 werden auch bei behinderten Menschen, die das 15
 4.  
 bei nicht erwerbsfähigen Personen, die voll erwerbsgemindert nach dem Sechsten Buch sind, wird ein Mehrbedarf von 17 Prozent der nach § 20 maßgebenden Regelbedarfe anerkannt, wenn sie Inhaberin oder Inhaber eines Ausweises nach § 69 Absatz 5 des Neunten Buches mit dem Merkzeichen G sind; dies gilt nicht, wenn bereits ein Anspruch auf einen Mehrbedarf wegen Behinderung nach § 21 Absatz 4 oder nach der vorstehenden Nummer 2 oder 3 besteht.
 
-(+++ Hinweis: Regelbedarfe nach § 23 Nr. 1 für die Zeit ab 1.1.2012 vgl. Bek. v. 20.10.2011 I 2093, für die Zeit ab 1.1.2013 vgl. Bek. v. 18.10.2012 I 2175 +++)
+(+++ Hinweis: Regelbedarfe nach § 23 Nr. 1 für die Zeit ab 1.1.2012 vgl. Bek. v. 20.10.2011 I 2093, für die Zeit ab 1.1.2013 vgl. Bek. v. 18.10.2012 I 2175, für die Zeit ab 1.1.2014 vgl. Bek. v. 16.10.2013 I 3857, für die Zeit ab 1.1.2015 vgl. Bek. v. 15.10.2014 I 1620 +++)
+§ 23 Nr. 1 iVm § 20 Abs. 1 Satz 1 u. 2 SGB 2 u. § 28a SGB 12 jeweils idF d. G v. 24.3.2011 I 453: Nach Maßgabe der Gründe mit Art. 1 Abs. 1 iVm Art. 20 Abs. 1 GG vereinbar gem. BVerfGE v. 23.7.2014 I 1581 - 1 BvL 10/2012 u.a.
 
 Unterabschnitt 3 Abweichende Leistungserbringung und weitere Leistungen
 -----------------------------------------------------------------------
@@ -1753,6 +1761,10 @@ die Erstattung von Beiträgen zur Kranken-, Renten- und Pflegeversicherung (§ 3
 
 (6) Für die Vollstreckung von Ansprüchen der in gemeinsamen Einrichtungen zusammenwirkenden Träger nach diesem Buch gilt das Verwaltungs-Vollstreckungsgesetz des Bundes; im Übrigen gilt § 66 des Zehnten Buches.
 
+### § 40a Erstattungsanspruch
+
+Wird einer leistungsberechtigten Person für denselben Zeitraum, für den ein Träger der Grundsicherung für Arbeitsuchende Leistungen nach diesem Buch erbracht hat, eine andere Sozialleistung bewilligt, so steht dem Träger der Grundsicherung für Arbeitsuchende unter den Voraussetzungen des § 104 des Zehnten Buches ein Erstattungsanspruch gegen den anderen Sozialleistungsträger zu. Der Erstattungsanspruch besteht auch, soweit die Erbringung des Arbeitslosengeldes II allein auf Grund einer nachträglich festgestellten vollen Erwerbsminderung rechtswidrig war oder rückwirkend eine Rente wegen Alters oder eine Knappschaftsausgleichsleistung zuerkannt wird. Die §§ 106 bis 114 des Zehnten Buches gelten entsprechend. § 44a Absatz 3 bleibt unberührt.
+
 ### § 41 Berechnung der Leistungen
 
 (1) Anspruch auf Leistungen zur Sicherung des Lebensunterhalts besteht für jeden Kalendertag. Der Monat wird mit 30 Tagen berechnet. Stehen die Leistungen nicht für einen vollen Monat zu, wird die Leistung anteilig erbracht. Die Leistungen sollen jeweils für sechs Monate bewilligt und monatlich im Voraus erbracht werden. Der Bewilligungszeitraum kann auf bis zu zwölf Monate bei Leistungsberechtigten verlängert werden, bei denen eine Veränderung der Verhältnisse in diesem Zeitraum nicht zu erwarten ist.
@@ -1932,9 +1944,9 @@ die grundsätzlichen Regelungen der innerdienstlichen, sozialen und persönliche
 
 ### § 44g Zuweisung von Tätigkeiten bei der gemeinsamen Einrichtung
 
-(1) Beamtinnen und Beamten sowie Arbeitnehmerinnen und Arbeitnehmern der Träger und der nach § 6 Absatz 2 Satz 1 herangezogenen Gemeinden und Gemeindeverbände, die bis zum 31. Dezember 2010 in einer Arbeitsgemeinschaft nach § 44b in der bis zum 31. Dezember 2010 geltenden Fassung Aufgaben nach diesem Buch durchgeführt haben, werden mit Wirkung zum 1. Januar 2011 Tätigkeiten bei der gemeinsamen Einrichtung, die die Aufgaben der Arbeitsgemeinschaft weiterführt, für die Dauer von fünf Jahren zugewiesen. Wenn keine Arbeitsgemeinschaften nach § 44b in der bis zum 31. Dezember 2010 geltenden Fassung eingerichtet waren, werden Beamtinnen und Beamten sowie Arbeitnehmerinnen und Arbeitnehmern, die am 31. Dezember 2010 die Aufgaben dieses Buches in Agenturen für Arbeit und Kommunen durchgeführt haben, mit Wirkung zum 1. Januar 2011 für die Dauer von fünf Jahren Tätigkeiten bei der gemeinsamen Einrichtung zugewiesen.
+(1) Beamtinnen und Beamten sowie Arbeitnehmerinnen und Arbeitnehmern der Träger und der nach § 6 Absatz 2 Satz 1 herangezogenen Gemeinden und Gemeindeverbände können mit Zustimmung der Geschäftsführerin oder des Geschäftsführers der gemeinsamen Einrichtung nach den beamten- und tarifrechtlichen Regelungen Tätigkeiten bei den gemeinsamen Einrichtungen zugewiesen werden; diese Zuweisung kann auch auf Dauer erfolgen. Die Zuweisung ist auch ohne Zustimmung der Beamtinnen und Beamten sowie Arbeitnehmerinnen und Arbeitnehmer zulässig, wenn dringende dienstliche Interessen es erfordern.
 
-(2) Spätere Zuweisungen erfolgen im Einzelfall mit Zustimmung der Geschäftsführerin oder des Geschäftsführers der gemeinsamen Einrichtung nach den tarif- und beamtenrechtlichen Regelungen.
+(2) Bei einer Zuweisung von Tätigkeiten bei den gemeinsamen Einrichtungen an Beschäftigte, denen bereits eine Tätigkeit in diesen gemeinsamen Einrichtungen zugewiesen worden war, ist die Zustimmung der Geschäftsführerin oder des Geschäftsführers der gemeinsamen Einrichtung nicht erforderlich.
 
 (3) Die Rechtsstellung der Beamtinnen und der Beamten bleibt unberührt. Ihnen ist eine ihrem Amt entsprechende Tätigkeit zu übertragen.
 
@@ -1999,11 +2011,13 @@ die Gesamtverwaltungskosten, die der Berechnung des Finanzierungsanteils nach Sa
 
 (4) (weggefallen)
 
-(5) Der Bund beteiligt sich zweckgebunden an den Leistungen für Unterkunft und Heizung nach § 22 Absatz 1. Diese Beteiligung beträgt in den Jahren 2011 bis 2013 im Land Baden-Württemberg 34,4 vom Hundert, im Land Rheinland-Pfalz 40,4 vom Hundert und in den übrigen Ländern 30,4 vom Hundert der Leistungen nach Satz 1. Ab dem Jahr 2014 beträgt diese Beteiligung im Land Baden-Württemberg 31,6 vom Hundert, im Land Rheinland-Pfalz 37,6 vom Hundert und in den übrigen Ländern 27,6 vom Hundert der Leistungen nach Satz 1.
+(5) Der Bund beteiligt sich zweckgebunden an den Leistungen für Unterkunft und Heizung nach § 22 Absatz 1. Diese Beteiligung beträgt in den Jahren 2011 bis 2013 im Land Baden-Württemberg 34,4 Prozent, im Land Rheinland-Pfalz 40,4 Prozent und in den übrigen Ländern 30,4 Prozent der Leistungen nach Satz 1. Im Jahr 2014 sowie ab dem Jahr 2018 beträgt diese Beteiligung im Land Baden-Württemberg 31,6 Prozent, im Land Rheinland-Pfalz 37,6 Prozent und in den übrigen Ländern 27,6 Prozent der Leistungen nach Satz 1. In den Jahren 2015 bis 2017 erhöht der Bund seine Beteiligung an den Leistungen nach Satz 1 um 3,7 Prozentpunkte auf 35,3 Prozent im Land Baden-Württemberg, auf 41,3 Prozent im Land Rheinland-Pfalz und auf 31,3 Prozent in den übrigen Ländern.
 
-(6) Die in Absatz 5 Satz 2 und 3 genannten Prozentsätze erhöhen sich jeweils um einen Wert in Prozentpunkten. Dieser entspricht den Gesamtausgaben für die Leistungen nach § 28 sowie nach § 6b des Bundeskindergeldgesetzes des abgeschlossenen Vorjahres geteilt durch die Gesamtausgaben für die Leistungen nach Absatz 5 Satz 1 des abgeschlossenen Vorjahres multipliziert mit 100. Bis zum Jahr 2013 beträgt dieser Wert 5,4 Prozentpunkte; Absatz 7 bleibt unberührt.
+(6) Die in Absatz 5 Satz 2 bis 4 genannten Prozentsätze erhöhen sich jeweils um einen Wert in Prozentpunkten. Dieser entspricht den Gesamtausgaben für die Leistungen nach § 28 sowie nach § 6b des Bundeskindergeldgesetzes des abgeschlossenen Vorjahres geteilt durch die Gesamtausgaben für die Leistungen nach Absatz 5 Satz 1 des abgeschlossenen Vorjahres multipliziert mit 100. Bis zum Jahr 2013 beträgt dieser Wert 5,4 Prozentpunkte; Absatz 7 bleibt unberührt.
 
 (7) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, den Wert nach Absatz 6 Satz 1 erstmalig im Jahr 2013 jährlich durch Rechtsverordnung mit Zustimmung des Bundesrates für das Folgejahr festzulegen und für das laufende Jahr rückwirkend anzupassen. Dabei legt es jeweils den Wert nach Absatz 6 Satz 2 für das abgeschlossene Vorjahr zugrunde. Für die rückwirkende Anpassung wird die Differenz zwischen dem Wert nach Satz 2 und dem für das abgeschlossene Vorjahr festgelegten Wert nach Absatz 6 Satz 1 im laufenden Jahr zeitnah ausgeglichen. Die Höhe der Beteiligung des Bundes an den in Absatz 5 Satz 1 genannten Leistungen beträgt höchstens 49 vom Hundert.
+
+(7a) Die in Absatz 5 Satz 3 genannten Prozentsätze erhöhen sich im Jahr 2014 jeweils um 0,18 Prozentpunkte. Das Bundesministerium für Arbeit und Soziales wird ermächtigt, ausgehend von diesem Wert auf Grundlage der Entwicklung der Zuwanderung aus anderen EU-Mitgliedstaaten durch Rechtsverordnung mit Zustimmung des Bundesrates länderspezifische Werte festzusetzen.
 
 (8) Der Anteil des Bundes an den in Absatz 5 Satz 1 genannten Leistungen wird den Ländern erstattet. Der Abruf der Erstattungen ist zur Monatsmitte und zum Monatsende zulässig. Soweit eine Bundesbeteiligung für Zahlungen geltend gemacht wird, die wegen des fristgerechten Eingangs beim Empfänger bereits am Ende eines Haushaltsjahres geleistet wurden, aber erst im folgenden Haushaltsjahr fällig werden, ist die für das folgende Haushaltsjahr geltende Bundesbeteiligung maßgeblich. Die Gesamtausgaben für die Leistungen nach § 28 sowie nach § 6b des Bundeskindergeldgesetzes sind durch die Länder bis zum 31. März des Folgejahres zu ermitteln und dem Bundesministerium für Arbeit und Soziales mitzuteilen. Die Länder gewährleisten, dass geprüft wird, dass die Ausgaben der kommunalen Träger begründet und belegt sind und den Grundsätzen der Wirtschaftlichkeit und Sparsamkeit entsprechen.
 
@@ -2308,8 +2322,8 @@ eine Auskunft nach § 57 oder § 60 nicht, nicht richtig oder nicht vollständig
 
 ist zum Ersatz des daraus entstehenden Schadens verpflichtet.
 
-Kapitel 9 Bußgeldvorschriften
------------------------------
+Kapitel 9 Straf- und Bußgeldvorschriften
+----------------------------------------
 
 ### 
 
@@ -2336,6 +2350,36 @@ entgegen § 60 Absatz 5 Einsicht nicht oder nicht rechtzeitig gewährt oder
 entgegen § 60 Absatz 1 Satz 1 Nummer 2 des Ersten Buches eine Änderung in den Verhältnissen, die für einen Anspruch auf eine laufende Leistung erheblich ist, nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig mitteilt.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 6 mit einer Geldbuße bis zu fünftausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zweitausend Euro geahndet werden.
+
+### § 63a Datenschutzrechtliche Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer als Beamtin, Beamter, Arbeitnehmerin oder Arbeitnehmer der Träger oder der nach § 6 Absatz 2 Satz 1 herangezogenen Gemeinden und Gemeindeverbände, denen nach § 44g Absatz 1 oder 2 eine Tätigkeit in einer gemeinsamen Einrichtung zugewiesen ist, vorsätzlich oder fahrlässig eine in
+
+1.  
+§ 85 Absatz 1 Nummer 1a, 1b, 2 oder Nummer 3 des Zehnten Buches oder in § 43 Absatz 1 Nummer 2b des Bundesdatenschutzgesetzes oder
+
+2.  
+§ 85 Absatz 2 des Zehnten Buches oder in § 43 Absatz 2 Nummer 1 bis 4 des Bundesdatenschutzgesetzes
+
+bezeichnete Handlung begeht.
+
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 mit einer Geldbuße bis zu fünfzigtausend Euro und in den Fällen des Absatzes 1 Nummer 2 mit einer Geldbuße bis zu dreihunderttausend Euro geahndet werden.
+
+(3) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind
+
+1.  
+das Bundesministerium für Arbeit und Soziales, wenn die Ordnungswidrigkeit durch eine Beamtin, einen Beamten, eine Arbeitnehmerin oder einen Arbeitnehmer der Bundesagentur für Arbeit,
+
+2.  
+die fachlich zuständige oberste Landesbehörde, wenn die Ordnungswidrigkeit durch eine Beamtin, einen Beamten, eine Arbeitnehmerin oder einen Arbeitnehmer eines kommunalen Trägers oder der nach § 6 Absatz 2 Satz 1 herangezogenen Gemeinden oder Gemeindeverbände
+
+in Ausübung einer Tätigkeit bei einer gemeinsamen Einrichtung begangen wird. § 36 Absatz 2 und 3 des Gesetzes über Ordnungswidrigkeiten gilt entsprechend.
+
+### § 63b Datenschutzrechtliche Strafvorschriften
+
+(1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer eine in § 63a Absatz 1 Nummer 2 bezeichnete vorsätzliche Handlung gegen Entgelt oder in der Absicht begeht, sich oder einen anderen zu bereichern oder einen anderen zu schädigen.
+
+(2) Die Tat wird nur auf Antrag verfolgt. Antragsberechtigt sind der Betroffene, die verantwortliche Stelle nach § 50 Absatz 2 oder Absatz 3 Satz 3 und der oder die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit.
 
 Kapitel 10 Bekämpfung von Leistungsmissbrauch
 ---------------------------------------------
@@ -2517,6 +2561,14 @@ solange sich durch die Fortschreibung der Beträge nach § 20 Absatz 2 Satz 2 Nu
 
 (14) § 41 Absatz 2 Satz 2 ist bis zum 31. Dezember 2011 mit der Maßgabe anzuwenden, dass bei einer auf zwei Dezimalstellen durchzuführenden Berechnung weitere sich ergebende Dezimalstellen wegfallen.
 
+§ 77 Abs. 4 Nr. 1 u. 2 iVm § 20 Abs. 1 Satz 1 u. 2 SGB 2 u. § 28a SGB 12 jeweils idF d. G v. 24.3.2011 I 453: Nach Maßgabe der Gründe mit Art. 1 Abs. 1 iVm Art. 20 Abs. 1 GG vereinbar gem. BVerfGE v. 23.7.2014 I 1581 - 1 BvL 10/2012 u.a.
+
 ### § 78 Gesetz zur Verbesserung der Eingliederungschancen am Arbeitsmarkt
 
 Bei der Ermittlung der Zuweisungshöchstdauer nach § 16d Absatz 6 werden Zuweisungsdauern, die vor dem 1. April 2012 liegen, nicht berücksichtigt.
+
+### § 79 Achtes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch – Ergänzung personalrechtlicher Bestimmungen
+
+(1) Hat ein nach § 40a zur Erstattung verpflichteter Sozialleistungsträger in der Zeit vom 31. Oktober 2012 bis zum 5. Juni 2014 in Unkenntnis des Bestehens der Erstattungspflicht bereits an die leistungsberechtigte Person geleistet, entfällt der Erstattungsanspruch.
+
+(2) Die gesetzliche Zuweisung von Tätigkeiten in den gemeinsamen Einrichtungen, die nach § 44g Absatz 1 zum 1. Januar 2011 in der bis zum 31. Dezember 2014 geltenden Fassung erfolgt ist, gilt bis zum jeweiligen Ablauf der fünfjährigen Dauer der Erstzuweisung fort. Eine spätere Zuweisung von Tätigkeiten in den gemeinsamen Einrichtungen, die nach § 44g Absatz 2 in der bis zum 31. Dezember 2014 geltenden Fassung erfolgt ist, gilt fort.
