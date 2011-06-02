@@ -4,6 +4,9 @@ Verordnung über Preisnotierung, Preisermittlung und Preiserhebung für Milcherz
 Neuf  
 Neugefasst durch Bek. v. 3.6.2011 I 1020
 
+Stand  
+zuletzt geändert durch Art. 398 V v. 31.8.2015 I 1474
+
 ### 
 
 ```
@@ -72,7 +75,7 @@ für das Gebiet der übrigen Länder.
 
 (1) Jede Notierungskommission notiert die Preise nach einer Aussprache, die mündlich oder fernmündlich erfolgen kann. Die Preise der in Anlage I genannten, in Deutschland hergestellten Milcherzeugnisse sollen am Mittwoch jeder Woche für die vorhergehende Kalenderwoche notiert werden. Ein Notierungstermin kann entfallen, wenn der Mittwoch auf einen gesetzlichen Feiertag fällt. Er kann auf den vorhergehenden Tag vorgezogen werden, wenn der Mittwoch auf einen regional geltenden Feiertag fällt. Ein Notierungstermin in der letzten Woche des Jahres kann entfallen.
 
-(2) Die Sitzungen der Notierungskommission sind nicht öffentlich; Gäste können zugelassen werden. Beauftragte des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz, des Bundesministeriums für Wirtschaft und Technologie und der fachlich zuständigen Landesbehörden der beteiligten Länder oder der von diesen bestimmten Behörden können jederzeit bei der Sitzung zugegen sein. Den Beauftragten ist auf Verlangen das Wort zu erteilen, Einsicht in die Notierungsunterlagen zu gewähren und Auskunft zu geben.
+(2) Die Sitzungen der Notierungskommission sind nicht öffentlich; Gäste können zugelassen werden. Beauftragte des Bundesministeriums für Ernährung und Landwirtschaft, des Bundesministeriums für Wirtschaft und Energie und der fachlich zuständigen Landesbehörden der beteiligten Länder oder der von diesen bestimmten Behörden können jederzeit bei der Sitzung zugegen sein. Den Beauftragten ist auf Verlangen das Wort zu erteilen, Einsicht in die Notierungsunterlagen zu gewähren und Auskunft zu geben.
 
 (3) Eine Kommission ist beschlussfähig, wenn der Vorsitzende und mindestens je die Hälfte der Mitglieder der Gruppen der Käufer und der Verkäufer anwesend sind. Die Beschlüsse werden mit einfacher Stimmenmehrheit gefasst. Der Vorsitzende hat kein Stimmrecht.
 
