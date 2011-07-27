@@ -10,6 +10,12 @@ Hinweis
 Hinweis  
 Änderung durch Art. 5 Abs. 2 G v. 20.4.2013 I 868 (Nr. 19) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Hinweis  
+Änderung durch Art. 2 Abs. 36 G v. 7.8.2013 I 3154 (Nr. 48) noch nicht berücksichtigt
+
+Hinweis  
+Änderung durch Art. 4 Abs. 21 G v. 7.8.2013 I 3154 (Nr. 48) noch nicht berücksichtigt
+
 ### 
 
 ```
@@ -2004,9 +2010,7 @@ Die Meldepflichten nach den §§ 6 und 7 obliegen dem Standortarzt.
 
 (5) Die Bundesregierung kann durch allgemeine Verwaltungsvorschriften mit Zustimmung des Bundesrates bestimmen, inwieweit sich die Gesundheitsämter und die zuständigen Stellen der Bundeswehr von dem Auftreten oder dem Verdacht des Auftretens einer übertragbaren Krankheit gegenseitig zu benachrichtigen und inwieweit sie sich bei den Ermittlungen gegenseitig zu unterstützen haben.
 
-### § 71 Aufgaben nach dem Seemannsgesetz
-
-Bei Besatzungsmitgliedern im Sinne des § 3 des Seemannsgesetzes, die an Bord von Kauffahrteischiffen eine der in § 42 Abs. 1 Satz 1 oder 2 bezeichneten Tätigkeiten ausüben, obliegen die Belehrungen nach § 43 Abs. 1 den nach § 81 Abs. 1 des Seemannsgesetzes zur Untersuchung auf Seediensttauglichkeit ermächtigten Ärzten.
+### § 71 (weggefallen)
 
 ### § 72 Aufgaben des Eisenbahn-Bundesamtes
 
