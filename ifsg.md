@@ -4,6 +4,12 @@ Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen (I
 Stand  
 Zuletzt geändert durch Art. 1 G v. 28.7.2011 I 1622
 
+Hinweis  
+Änderung durch Art. 3 G v. 21.3.2013 I 566 (Nr. 15) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 5 Abs. 2 G v. 20.4.2013 I 868 (Nr. 19) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
@@ -36,6 +42,7 @@ Das G wurde als Artikel 1 G v. 20.7.2000 I 1045 (SeuchRNeuG) vom Bundestag mit Z
 | § 10                                                                                            |
 | § 11                                                                                            |
 | § 12                                                                                            |
+| § 12a                                                                                           |
 | § 13                                                                                            |
 | § 14                                                                                            |
 | § 15                                                                                            |
@@ -292,16 +299,28 @@ j)
 Milzbrand
 
 k)  
-Poliomyelitis (als Verdacht gilt jede akute schlaffe Lähmung, außer wenn traumatisch bedingt)
+Mumps
 
 l)  
-Pest
+Pertussis
 
 m)  
-Tollwut
+Poliomyelitis (als Verdacht gilt jede akute schlaffe Lähmung, außer wenn traumatisch bedingt)
 
 n)  
+Pest
+
+o)  
+Röteln einschließlich Rötelnembryopathie
+
+p)  
+Tollwut
+
+q)  
 Typhus abdominalis/Paratyphus
+
+r)  
+Varizellen
 
 sowie die Erkrankung und der Tod an einer behandlungsbedürftigen Tuberkulose, auch wenn ein bakteriologischer Nachweis nicht vorliegt,
 
@@ -331,7 +350,7 @@ von zwei oder mehr gleichartigen Erkrankungen, bei denen ein epidemischer Zusamm
 
 wenn dies auf eine schwerwiegende Gefahr für die Allgemeinheit hinweist und Krankheitserreger als Ursache in Betracht kommen, die nicht in § 7 genannt sind.
 
-Die Meldung nach Satz 1 hat gemäß § 8 Abs. 1 Nr. 1, 3 bis 8, § 9 Abs. 1, 2, 3 Satz 1 oder 3 oder Abs. 4 zu erfolgen.
+Die Meldung nach Satz 1 hat gemäß § 8 Abs. 1 Nr. 1, 3 bis 8, § 9 Abs. 1, 2, 3 Satz 1 oder 3 zu erfolgen.
 
 (2) Dem Gesundheitsamt ist über die Meldung nach Absatz 1 Nr. 1 hinaus mitzuteilen, wenn Personen, die an einer behandlungsbedürftigen Lungentuberkulose leiden, eine Behandlung verweigern oder abbrechen. Die Meldung nach Satz 1 hat gemäß § 8 Abs. 1 Nr. 1, § 9 Abs. 1 und 3 Satz 1 oder 3 zu erfolgen.
 
@@ -348,142 +367,154 @@ Adenoviren; Meldepflicht nur für den direkten Nachweis im Konjunktivalabstrich
 Bacillus anthracis
 
 3.  
-Borrelia recurrentis
+Bordetella pertussis, Bordetella parapertussis
 
 4.  
-Brucella sp.
+Borrelia recurrentis
 
 5.  
-Campylobacter sp., darmpathogen
+Brucella sp.
 
 6.  
-Chlamydia psittaci
+Campylobacter sp., darmpathogen
 
 7.  
-Clostridium botulinum oder Toxinnachweis
+Chlamydia psittaci
 
 8.  
-Corynebacterium diphtheriae, Toxin bildend
+Clostridium botulinum oder Toxinnachweis
 
 9.  
-Coxiella burnetii
+Corynebacterium diphtheriae, Toxin bildend
 
 10.  
-Cryptosporidium parvum
+Coxiella burnetii
 
 11.  
-Ebolavirus
+humanpathogene Cryptosporidium sp.
 
 12.  
+Ebolavirus
+
+13.  
 a)  
 Escherichia coli, enterohämorrhagische Stämme (EHEC)
 
 b)  
 Escherichia coli, sonstige darmpathogene Stämme
 
-13.  
+14.  
 Francisella tularensis
 
-14.  
+15.  
 FSME-Virus
 
-15.  
+16.  
 Gelbfiebervirus
 
-16.  
+17.  
 Giardia lamblia
 
-17.  
+18.  
 Haemophilus influenzae; Meldepflicht nur für den direkten Nachweis aus Liquor oder Blut
 
-18.  
+19.  
 Hantaviren
 
-19.  
+20.  
 Hepatitis-A-Virus
 
-20.  
+21.  
 Hepatitis-B-Virus
 
-21.  
+22.  
 Hepatitis-C-Virus; Meldepflicht für alle Nachweise, soweit nicht bekannt ist, dass eine chronische Infektion vorliegt
 
-22.  
+23.  
 Hepatitis-D-Virus
 
-23.  
+24.  
 Hepatitis-E-Virus
 
-24.  
+25.  
 Influenzaviren; Meldepflicht nur für den direkten Nachweis
 
-25.  
+26.  
 Lassavirus
 
-26.  
+27.  
 Legionella sp.
 
-27.  
-Leptospira interrogans
-
 28.  
-Listeria monocytogenes; Meldepflicht nur für den direkten Nachweis aus Blut, Liquor oder anderen normalerweise sterilen Substraten sowie aus Abstrichen von Neugeborenen
+humanpathogene Leptospira sp.
 
 29.  
-Marburgvirus
+Listeria monocytogenes; Meldepflicht nur für den direkten Nachweis aus Blut, Liquor oder anderen normalerweise sterilen Substraten sowie aus Abstrichen von Neugeborenen
 
 30.  
-Masernvirus
+Marburgvirus
 
 31.  
-Mycobacterium leprae
+Masernvirus
 
 32.  
-Mycobacterium tuberculosis/africanum, Mycobacterium bovis; Meldepflicht für den direkten Erregernachweis sowie nachfolgend für das Ergebnis der Resistenzbestimmung; vorab auch für den Nachweis säurefester Stäbchen im Sputum
+Mumpsvirus
 
 33.  
-Neisseria meningitidis; Meldepflicht nur für den direkten Nachweis aus Liquor, Blut, hämorrhagischen Hautinfiltraten oder anderen normalerweise sterilen Substraten
+Mycobacterium leprae
 
 34.  
-Norwalk-ähnliches Virus; Meldepflicht nur für den direkten Nachweis aus Stuhl
+Mycobacterium tuberculosis/africanum, Mycobacterium bovis; Meldepflicht für den direkten Erregernachweis sowie nachfolgend für das Ergebnis der Resistenzbestimmung; vorab auch für den Nachweis säurefester Stäbchen im Sputum
 
 35.  
-Poliovirus
+Neisseria meningitidis; Meldepflicht nur für den direkten Nachweis aus Liquor, Blut, hämorrhagischen Hautinfiltraten oder anderen normalerweise sterilen Substraten
 
 36.  
-Rabiesvirus
+Norwalk-ähnliches Virus; Meldepflicht nur für den direkten Nachweis aus Stuhl
 
 37.  
-Rickettsia prowazekii
+Poliovirus
 
 38.  
-Rotavirus
+Rabiesvirus
 
 39.  
-Salmonella Paratyphi; Meldepflicht für alle direkten Nachweise
+Rickettsia prowazekii
 
 40.  
-Salmonella Typhi; Meldepflicht für alle direkten Nachweise
+Rotavirus
 
 41.  
-Salmonella, sonstige
+Rubellavirus
 
 42.  
-Shigella sp.
+Salmonella Paratyphi; Meldepflicht für alle direkten Nachweise
 
 43.  
-Trichinella spiralis
+Salmonella Typhi; Meldepflicht für alle direkten Nachweise
 
 44.  
-Vibrio cholerae O 1 und O 139
+Salmonella, sonstige
 
 45.  
-Yersinia enterocolitica, darmpathogen
+Shigella sp.
 
 46.  
-Yersinia pestis
+Trichinella spiralis
 
 47.  
+Varizella-Zoster-Virus
+
+48.  
+Vibrio cholerae O 1 und O 139
+
+49.  
+Yersinia enterocolitica, darmpathogen
+
+50.  
+Yersinia pestis
+
+51.  
 andere Erreger hämorrhagischer Fieber.
 
 Die Meldung nach Satz 1 hat gemäß § 8 Abs. 1 Nr. 2, 3, 4 und Abs. 4, § 9 Abs. 1, 2, 3 Satz 1 oder 3 zu erfolgen.
@@ -505,9 +536,6 @@ Echinococcus sp.
 Plasmodium sp.
 
 5.  
-Rubellavirus; Meldepflicht nur bei konnatalen Infektionen
-
-6.  
 Toxoplasma gondii; Meldepflicht nur bei konnatalen Infektionen.
 
 Die Meldung nach Satz 1 hat gemäß § 8 Abs. 1 Nr. 2, 3 und Abs. 4, § 10 Abs. 1 Satz 1, Abs. 3, 4 Satz 1 zu erfolgen.
@@ -532,7 +560,7 @@ im Falle des § 6 Abs. 1 Nr. 4 und im Falle des § 7 Abs. 1 Nr. 36 bei Tieren, m
 im Falle des § 6 Abs. 1 Nr. 1, 2 und 5 und Abs. 3 Angehörige eines anderen Heil- oder Pflegeberufs, der für die Berufsausübung oder die Führung der Berufsbezeichnung eine staatlich geregelte Ausbildung oder Anerkennung erfordert,
 
 6.  
-im Falle des § 6 Abs. 1 Nr. 1, 2 und 5 der verantwortliche Luftfahrzeugführer oder der Kapitän eines Seeschiffes,
+(weggefallen)
 
 7.  
 im Falle des § 6 Abs. 1 Nr. 1, 2 und 5 die Leiter von Pflegeeinrichtungen, Justizvollzugsanstalten, Heimen, Lagern oder ähnlichen Einrichtungen,
@@ -580,7 +608,7 @@ Tag der Erkrankung oder Tag der Diagnose, gegebenenfalls Tag des Todes
 wahrscheinliche Infektionsquelle
 
 10.  
-Land, in dem die Infektion wahrscheinlich erworben wurde; bei Tuberkulose Geburtsland und Staatsangehörigkeit
+Land (in Deutschland: Landkreis oder kreisfreie Stadt), in dem die Infektion wahrscheinlich erworben wurde; bei Tuberkulose Geburtsland und Staatsangehörigkeit
 
 11.  
 Name, Anschrift und Telefonnummer der mit der Erregerdiagnostik beauftragten Untersuchungsstelle
@@ -633,9 +661,9 @@ Name, Anschrift und Telefonnummer des Meldenden.
 
 Der einsendende Arzt hat bei einer Untersuchung auf Hepatitis C dem Meldepflichtigen mitzuteilen, ob ihm eine chronische Hepatitis C bei dem Patienten bekannt ist.
 
-(3) Die namentliche Meldung muss unverzüglich, spätestens innerhalb von 24 Stunden nach erlangter Kenntnis gegenüber dem für den Aufenthalt des Betroffenen zuständigen Gesundheitsamt, im Falle des Absatzes 2 gegenüber dem für den Einsender zuständigen Gesundheitsamt erfolgen. Eine Meldung darf wegen einzelner fehlender Angaben nicht verzögert werden. Die Nachmeldung oder Korrektur von Angaben hat unverzüglich nach deren Vorliegen zu erfolgen. Liegt die Hauptwohnung oder der gewöhnliche Aufenthaltsort der betroffenen Person im Bereich eines anderen Gesundheitsamtes, so hat das unterrichtete Gesundheitsamt das für die Hauptwohnung, bei mehreren Wohnungen das für den gewöhnlichen Aufenthaltsort des Betroffenen zuständige Gesundheitsamt unverzüglich zu benachrichtigen.
+(3) Die namentliche Meldung muss unverzüglich erfolgen und spätestens innerhalb von 24 Stunden nach erlangter Kenntnis dem für den Aufenthalt des Betroffenen zuständigen Gesundheitsamt, im Falle des Absatzes 2 dem für den Einsender zuständigen Gesundheitsamt vorliegen. Eine Meldung darf wegen einzelner fehlender Angaben nicht verzögert werden. Die Nachmeldung oder Korrektur von Angaben hat unverzüglich nach deren Vorliegen zu erfolgen. Liegt die Hauptwohnung oder der gewöhnliche Aufenthaltsort der betroffenen Person im Bereich eines anderen Gesundheitsamtes, so hat das unterrichtete Gesundheitsamt das für die Hauptwohnung, bei mehreren Wohnungen das für den gewöhnlichen Aufenthaltsort des Betroffenen zuständige Gesundheitsamt unverzüglich zu benachrichtigen.
 
-(4) Der verantwortliche Luftfahrzeugführer oder der Kapitän eines Seeschiffes meldet unterwegs festgestellte meldepflichtige Krankheiten an den Flughafen- oder Hafenarzt des inländischen Ziel- und Abfahrtsortes. Die dort verantwortlichen Ärzte melden an das für den jeweiligen Flughafen oder Hafen zuständige Gesundheitsamt.
+(4) (weggefallen)
 
 (5) Das Gesundheitsamt darf die gemeldeten personenbezogenen Daten nur für seine Aufgaben nach diesem Gesetz verarbeiten und nutzen. Personenbezogene Daten sind zu löschen, wenn ihre Kenntnis für das Gesundheitsamt zur Erfüllung der in seiner Zuständigkeit liegenden Aufgaben nicht mehr erforderlich ist, Daten zu § 7 Abs. 1 Nr. 21 spätestens jedoch nach drei Jahren.
 
@@ -687,13 +715,13 @@ Der einsendende Arzt hat den Meldepflichtigen insbesondere bei den Angaben zu de
 
 (4) Die nichtnamentliche Meldung nach § 7 Abs. 3 muss innerhalb von zwei Wochen gegenüber dem Robert Koch-Institut erfolgen. Es ist ein vom Robert Koch-Institut erstelltes Formblatt oder ein geeigneter Datenträger zu verwenden.
 
-(5) Die Angaben nach Absatz 2 und die Angaben zum Monat der Geburt dürfen vom Robert Koch-Institut lediglich zu der Prüfung verarbeitet und genutzt werden, ob verschiedene Meldungen sich auf dieselbe Person beziehen. Sie sind zu löschen, sobald nicht mehr zu erwarten ist, dass die damit bewirkte Einschränkung der Prüfungen nach Satz 1 eine nicht unerhebliche Verfälschung der aus den Meldungen zu gewinnenden epidemiologischen Beurteilung bewirkt, jedoch spätestens nach zehn Jahren.
+(5) Die Angaben nach Absatz 2 und die Angaben zum Monat der Geburt dürfen vom Robert Koch-Institut lediglich zu der Prüfung verarbeitet und genutzt werden, ob verschiedene Meldungen sich auf dieselbe Person beziehen. Sie sind zu löschen, sobald nicht mehr zu erwarten ist, dass die damit bewirkte Einschränkung der Prüfungen nach Satz 1 eine nicht unerhebliche Verfälschung der aus den Meldungen zu gewinnenden epidemiologischen Beurteilung bewirkt, jedoch spätestens nach 30 Jahren.
 
 (6) Die nichtnamentliche Meldung nach § 6 Absatz 3 muss die Angaben nach Absatz 1 Nummer 5, 9 und 11, Monat und Jahr der einzelnen Diagnosen sowie Name und Anschrift der betroffenen Einrichtung enthalten. Absatz 3 ist anzuwenden. § 9 Absatz 3 Satz 1 bis 3 gilt entsprechend.
 
 ### § 11 Übermittlungen durch das Gesundheitsamt und die zuständige Landesbehörde
 
-(1) Die an das Gesundheitsamt der Hauptwohnung namentlich gemeldeten Erkrankungen, Todesfälle sowie Nachweise von Krankheitserregern werden gemäß den nach § 4 Abs. 2 Nr. 2 Buchstabe a veröffentlichten Falldefinitionen zusammengeführt und wöchentlich, spätestens am dritten Arbeitstag der folgenden Woche, an die zuständige Landesbehörde sowie von dort innerhalb einer Woche an das Robert Koch-Institut ausschließlich mit folgenden Angaben übermittelt:
+(1) Die an das Gesundheitsamt der Hauptwohnung namentlich gemeldeten Erkrankungen, Todesfälle sowie Nachweise von Krankheitserregern werden gemäß den nach § 4 Abs. 2 Nr. 2 Buchstabe a veröffentlichten Falldefinitionen zusammengeführt und spätestens am folgenden Arbeitstag, an die zuständige Landesbehörde sowie von dort spätestens am folgenden Arbeitstag an das Robert Koch-Institut ausschließlich mit folgenden Angaben übermittelt:
 
 1.  
 Geschlecht
@@ -714,17 +742,20 @@ Art der Diagnose
 wahrscheinlicher Infektionsweg, wahrscheinliches Infektionsrisiko, Zugehörigkeit zu einer Erkrankungshäufung
 
 7.  
-Land, soweit die Infektion wahrscheinlich im Ausland erworben wurde
+Land (in Deutschland: Landkreis), in dem die Infektion wahrscheinlich erworben wurde
 
 8.  
 bei Tuberkulose Geburtsland und Staatsangehörigkeit
 
 9.  
-Aufnahme in einem Krankenhaus.
+Aufnahme in einem Krankenhaus
 
-Für die Übermittlungen von den zuständigen Landesbehörden an das Robert Koch-Institut bestimmt das Robert Koch-Institut die Formblätter, die Datenträger, den Aufbau der Datenträger und der einzelnen Datensätze. Die Sätze 1 und 2 gelten auch für Berichtigungen und Ergänzungen früherer Übermittlungen.
+10.  
+Tag der Meldung.
 
-(2) Ein dem Gesundheitsamt nach § 6 Absatz 3 als Ausbruch gemeldetes gehäuftes Auftreten nosokomialer Infektionen ist vom Gesundheitsamt spätestens am dritten Arbeitstag der folgenden Woche an die zuständige Landesbehörde sowie von dort innerhalb einer Woche an das Robert Koch-Institut ausschließlich mit folgenden Angaben zu übermitteln:
+Für die Übermittlungen von den zuständigen Landesbehörden an das Robert Koch-Institut bestimmt das Robert Koch-Institut das Datenformat und die Datenstruktur. Die Sätze 1 und 2 gelten auch für Berichtigungen und Ergänzungen früherer Übermittlungen.
+
+(2) Ein dem Gesundheitsamt nach § 6 Absatz 3 als Ausbruch gemeldetes gehäuftes Auftreten nosokomialer Infektionen ist vom Gesundheitsamt spätestens am folgenden Arbeitstag an die zuständige Landesbehörde sowie von dort spätestens am folgenden Arbeitstag an das Robert Koch-Institut ausschließlich mit folgenden Angaben zu übermitteln:
 
 1.  
 zuständiges Gesundheitsamt,
@@ -777,6 +808,12 @@ Abweichungen von den Regelungen des Verwaltungsverfahrens in Satz 1 durch Landes
 (2) Das Robert Koch-Institut hat die Angaben nach § 11 Absatz 4 der Kommission der Europäischen Union und den zuständigen Behörden der Mitgliedstaaten umgehend zu übermitteln.
 
 (3) Die Länder informieren das Bundesministerium für Gesundheit über unterrichtungspflichtige Tatbestände nach Artikel 6 der Entscheidung Nr. 2119/98/EG des Europäischen Parlaments und des Rates vom 24. September 1998 über die Schaffung eines Netzes für die epidemiologische Überwachung und die Kontrolle übertragbarer Krankheiten in der Gemeinschaft (ABl. EG Nr. L 268 S. 1).
+
+### § 12a Erprobung eines elektronischen Informationssystems
+
+(1) Zur Erprobung eines elektronischen Informationssystems für meldepflichtige Krankheiten und Nachweise von Krankheitserregern kann das Robert Koch-Institut im Einvernehmen mit den zuständigen obersten Landesgesundheitsbehörden für die freiwillig teilnehmenden meldepflichtigen Personen und die zuständigen Gesundheitsämter Abweichungen von den Vorschriften des Melde- und Übermittlungsverfahrens zulassen.
+
+(2) Das Bundesministerium für Gesundheit berichtet den gesetzgebenden Körperschaften des Bundes bis spätestens zum 31. Dezember 2012 über die Möglichkeiten eines elektronischen Informationssystems für Meldungen und Übermittlungen nach dem dritten Abschnitt dieses Gesetzes.
 
 ### § 13 Sentinel-Erhebungen
 
@@ -1085,21 +1122,61 @@ Die Behandlung von Personen, die an einer der in § 6 Abs. 1 Satz 1 Nr. 1, 2 und
 
 (1) Ergibt sich oder ist anzunehmen, dass jemand krank, krankheitsverdächtig, ansteckungsverdächtig oder Ausscheider ist oder dass ein Verstorbener krank, krankheitsverdächtig oder Ausscheider war, so stellt das Gesundheitsamt die erforderlichen Ermittlungen an, insbesondere über Art, Ursache, Ansteckungsquelle und Ausbreitung der Krankheit.
 
-(2) Ergibt sich oder ist anzunehmen, dass jemand, der an einer meldepflichtigen Krankheit erkrankt oder mit einem meldepflichtigen Krankheitserreger infiziert ist oder dass ein Verstorbener, der an einer meldepflichtigen Krankheit erkrankt oder mit einem meldepflichtigen Krankheitserreger infiziert war, nach dem vermuteten Zeitpunkt der Infektion Blut-, Organ-, Gewebe- oder Zellspender war, so hat das Gesundheitsamt, wenn es sich dabei um eine durch Blut, Blutprodukte, Organe, Gewebe oder Zellen übertragbare Krankheit oder Infektion handelt, die zuständigen Behörden von Bund und Ländern unverzüglich über den Befund oder Verdacht zu unterrichten. Es meldet dabei die ihm bekannt gewordenen Sachverhalte. Nach den Sätzen 1 und 2 hat es bei Spendern vermittlungspflichtiger Organe (§ 1a Nr. 2 des Transplantationsgesetzes) auch die nach § 11 des Transplantationsgesetzes errichtete oder bestimmte Koordinierungsstelle zu unterrichten, bei sonstigen Organ-, Gewebe- oder Zellspendern nach den Vorschriften des Transplantationsgesetzes die Einrichtung der medizinischen Versorgung, in der das Organ, das Gewebe oder die Zelle übertragen wurde oder übertragen werden soll und die Gewebeeinrichtung, die das Gewebe oder die Zelle entnommen hat.
+(2) Für die Durchführung der Ermittlungen nach Absatz 1 gilt § 16 Absatz 2, 3, 5 und 8 entsprechend.
 
-### § 26 Durchführung
+(3) Die in Absatz 1 genannten Personen können durch das Gesundheitsamt vorgeladen werden. Sie können durch das Gesundheitsamt verpflichtet werden,
 
-(1) Für die Durchführung der Ermittlungen nach § 25 Abs. 1 gilt § 16 Abs. 2, 3, 5 und 8 entsprechend.
+1.  
+Untersuchungen und Entnahmen von Untersuchungsmaterial an sich vornehmen zu lassen, insbesondere die erforderlichen äußerlichen Untersuchungen, Röntgenuntersuchungen, Tuberkulintestungen, Blutentnahmen und Abstriche von Haut und Schleimhäuten durch die Beauftragten des Gesundheitsamtes zu dulden, sowie
 
-(2) Die in § 25 Abs. 1 genannten Personen können durch das Gesundheitsamt vorgeladen werden. Sie können durch das Gesundheitsamt verpflichtet werden, Untersuchungen und Entnahmen von Untersuchungsmaterial an sich vornehmen zu lassen, insbesondere die erforderlichen äußerlichen Untersuchungen, Röntgenuntersuchungen, Tuberkulintestungen, Blutentnahmen und Abstriche von Haut und Schleimhäuten durch die Beauftragten des Gesundheitsamtes zu dulden sowie das erforderliche Untersuchungsmaterial auf Verlangen bereitzustellen. Darüber hinausgehende invasive Eingriffe sowie Eingriffe, die eine Betäubung erfordern, dürfen nur mit Einwilligung des Betroffenen vorgenommen werden; § 16 Abs. 5 gilt nur entsprechend, wenn der Betroffene einwilligungsunfähig ist. Die bei den Untersuchungen erhobenen personenbezogenen Daten dürfen nur für Zwecke dieses Gesetzes verarbeitet und genutzt werden.
+2.  
+das erforderliche Untersuchungsmaterial auf Verlangen bereitzustellen.
 
-(3) Den Ärzten des Gesundheitsamtes und dessen ärztlichen Beauftragten ist vom Gewahrsamsinhaber die Untersuchung der in § 25 genannten Verstorbenen zu gestatten. Die zuständige Behörde kann gegenüber dem Gewahrsamsinhaber die innere Leichenschau anordnen, wenn dies vom Gesundheitsamt für erforderlich gehalten wird.
+Darüber hinausgehende invasive Eingriffe sowie Eingriffe, die eine Betäubung erfordern, dürfen nur mit Einwilligung des Betroffenen vorgenommen werden; § 16 Absatz 5 gilt nur entsprechend, wenn der Betroffene einwilligungsunfähig ist. Die bei den Untersuchungen erhobenen personenbezogenen Daten dürfen nur für Zwecke dieses Gesetzes verarbeitet und genutzt werden.
 
-(4) Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 Grundgesetz), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 Grundgesetz) und der Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 Grundgesetz) werden insoweit eingeschränkt.
+(4) Den Ärzten des Gesundheitsamtes und dessen ärztlichen Beauftragten ist vom Gewahrsamsinhaber die Untersuchung der in Absatz 1 genannten Verstorbenen zu gestatten. Die zuständige Behörde kann gegenüber dem Gewahrsamsinhaber die innere Leichenschau anordnen, wenn dies vom Gesundheitsamt für erforderlich gehalten wird.
 
-### § 27 Teilnahme des behandelnden Arztes
+(5) Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) werden insoweit eingeschränkt.
 
-Der behandelnde Arzt ist berechtigt, mit Zustimmung des Patienten an den Untersuchungen nach § 26 sowie an der inneren Leichenschau teilzunehmen.
+§ 25 Abs. 1: Baden-Württemberg - Abweichung durch § 60 Abs. 4 Polizeigesetz (PolG BW) idF d. G v. 20.11.2012 GBl BW 2012, 625 mWv 29.11.2012 (vgl. BGBl I 2012, 2726)
+
+### § 26 Teilnahme des behandelnden Arztes
+
+Der behandelnde Arzt ist berechtigt, mit Zustimmung des Patienten an den Untersuchungen nach § 25 sowie an der inneren Leichenschau teilzunehmen.
+
+§ 26 Abs. 1 u. 2: Baden-Württemberg - Abweichung durch § 60 Abs. 4 Polizeigesetz (PolG BW) idF d. G v. 20.11.2012 GBl BW 2012, 625 mWv 29.11.2012 (vgl. BGBl I 2012, 2726)
+
+### § 27 Unterrichtungspflichten des Gesundheitsamtes
+
+(1) Das Gesundheitsamt unterrichtet unverzüglich die für die Überwachung nach § 39 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuchs örtlich zuständige Lebensmittelüberwachungsbehörde, wenn auf Grund von Tatsachen feststeht oder der Verdacht besteht,
+
+1.  
+dass ein spezifisches Lebensmittel, das an Endverbraucher abgegeben wurde, in mindestens zwei Fällen mit epidemiologischem Zusammenhang Ursache einer übertragbaren Krankheit ist, oder
+
+2.  
+dass Krankheitserreger auf Lebensmittel übertragen wurden und deshalb eine Weiterverbreitung der Krankheit durch Lebensmittel zu befürchten ist.
+
+Das Gesundheitsamt stellt folgende Angaben zur Verfügung, soweit sie ihm vorliegen und die Angaben für die von der zuständigen Lebensmittelüberwachungsbehörde zu treffenden Maßnahmen erforderlich sind:
+
+1.  
+Zahl der Kranken, Krankheitsverdächtigen, Ansteckungsverdächtigen und Ausscheider, auf Ersuchen der Lebensmittelüberwachungsbehörde auch Namen und Erreichbarkeitsdaten,
+
+2.  
+betroffenes Lebensmittel,
+
+3.  
+an Endverbraucher abgegebene Menge des Lebensmittels,
+
+4.  
+Ort und Zeitraum seiner Abgabe,
+
+5.  
+festgestellter Krankheitserreger und
+
+6.  
+von Personen entgegen § 42 ausgeübte Tätigkeit sowie Ort der Ausübung.
+
+(2) Steht auf Grund von Tatsachen fest oder besteht der Verdacht, dass jemand, der an einer meldepflichtigen Krankheit erkrankt oder mit einem meldepflichtigen Krankheitserreger infiziert ist, oder dass ein Verstorbener, der an einer meldepflichtigen Krankheit erkrankt oder mit einem meldepflichtigen Krankheitserreger infiziert war, nach dem vermuteten Zeitpunkt der Infektion Blut-, Organ-, Gewebe- oder Zellspender war, so hat das Gesundheitsamt, wenn es sich dabei um eine durch Blut, Blutprodukte, Organe, Gewebe oder Zellen übertragbare Krankheit oder Infektion handelt, die zuständigen Behörden von Bund und Ländern unverzüglich über den Befund oder Verdacht zu unterrichten. Es meldet dabei die ihm bekannt gewordenen Sachverhalte. Nach den Sätzen 1 und 2 hat es bei Spendern vermittlungspflichtiger Organe (§ 1a Nummer 2 des Transplantationsgesetzes) auch die nach § 11 des Transplantationsgesetzes errichtete oder bestimmte Koordinierungsstelle zu unterrichten, bei sonstigen Organ-, Gewebe- oder Zellspendern nach den Vorschriften des Transplantationsgesetzes die Einrichtung der medizinischen Versorgung, in der das Organ, das Gewebe oder die Zelle übertragen wurde oder übertragen werden soll, und die Gewebeeinrichtung, die das Gewebe oder die Zelle entnommen hat.
 
 ### § 28 Schutzmaßnahmen
 
@@ -1111,7 +1188,7 @@ Der behandelnde Arzt ist berechtigt, mit Zustimmung des Patienten an den Untersu
 
 (1) Kranke, Krankheitsverdächtige, Ansteckungsverdächtige und Ausscheider können einer Beobachtung unterworfen werden.
 
-(2) Wer einer Beobachtung nach Absatz 1 unterworfen ist, hat die erforderlichen Untersuchungen durch die Beauftragten des Gesundheitsamtes zu dulden und den Anordnungen des Gesundheitsamtes Folge zu leisten. § 26 Abs. 2 gilt entsprechend. Eine Person nach Satz 1 ist ferner verpflichtet, den Beauftragten des Gesundheitsamtes zum Zwecke der Befragung oder der Untersuchung den Zutritt zu seiner Wohnung zu gestatten, auf Verlangen ihnen über alle seinen Gesundheitszustand betreffenden Umstände Auskunft zu geben und im Falle des Wechsels der Hauptwohnung oder des gewöhnlichen Aufenthaltes unverzüglich dem bisher zuständigen Gesundheitsamt Anzeige zu erstatten. Die Anzeigepflicht gilt auch bei Änderungen einer Tätigkeit im Lebensmittelbereich im Sinne von § 42 Abs. 1 Satz 1 oder in Einrichtungen im Sinne von § 36 Abs. 1 oder § 23 Absatz 5 sowie beim Wechsel einer Gemeinschaftseinrichtung im Sinne von § 33. § 16 Abs. 2 Satz 4 gilt entsprechend. Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 Grundgesetz), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 Grundgesetz) und der Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 Grundgesetz) werden insoweit eingeschränkt.
+(2) Wer einer Beobachtung nach Absatz 1 unterworfen ist, hat die erforderlichen Untersuchungen durch die Beauftragten des Gesundheitsamtes zu dulden und den Anordnungen des Gesundheitsamtes Folge zu leisten. § 25 Absatz 3 gilt entsprechend. Eine Person nach Satz 1 ist ferner verpflichtet, den Beauftragten des Gesundheitsamtes zum Zwecke der Befragung oder der Untersuchung den Zutritt zu seiner Wohnung zu gestatten, auf Verlangen ihnen über alle seinen Gesundheitszustand betreffenden Umstände Auskunft zu geben und im Falle des Wechsels der Hauptwohnung oder des gewöhnlichen Aufenthaltes unverzüglich dem bisher zuständigen Gesundheitsamt Anzeige zu erstatten. Die Anzeigepflicht gilt auch bei Änderungen einer Tätigkeit im Lebensmittelbereich im Sinne von § 42 Abs. 1 Satz 1 oder in Einrichtungen im Sinne von § 36 Abs. 1 oder § 23 Absatz 5 sowie beim Wechsel einer Gemeinschaftseinrichtung im Sinne von § 33. § 16 Abs. 2 Satz 4 gilt entsprechend. Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 Grundgesetz), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 Grundgesetz) und der Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 Grundgesetz) werden insoweit eingeschränkt.
 
 ### § 30 Quarantäne
 
@@ -1476,7 +1553,10 @@ Speiseeis und Speiseeishalberzeugnisse
 Backwaren mit nicht durchgebackener oder durcherhitzter Füllung oder Auflage
 
 8.  
-Feinkost-, Rohkost- und Kartoffelsalate, Marinaden, Mayonnaisen, andere emulgierte Soßen, Nahrungshefen.
+Feinkost-, Rohkost- und Kartoffelsalate, Marinaden, Mayonnaisen, andere emulgierte Soßen, Nahrungshefen
+
+9.  
+Sprossen und Keimlinge zum Rohverzehr sowie Samen zur Herstellung von Sprossen und Keimlingen zum Rohverzehr.
 
 (3) Personen, die in amtlicher Eigenschaft, auch im Rahmen ihrer Ausbildung, mit den in Absatz 2 bezeichneten Lebensmitteln oder mit Bedarfsgegenständen im Sinne des Absatzes 1 Satz 2 in Berührung kommen, dürfen ihre Tätigkeit nicht ausüben, wenn sie an einer der in Absatz 1 Nr. 1 genannten Krankheiten erkrankt oder dessen verdächtig sind, an einer der in Absatz 1 Nr. 2 genannten Krankheiten erkrankt sind oder die in Absatz 1 Nr. 3 genannten Krankheitserreger ausscheiden.
 
@@ -1610,7 +1690,7 @@ Krankheitserreger sowie Material, das Krankheitserreger enthält, dürfen nur an
 
 ### § 53 Anforderungen an Räume und Einrichtungen, Gefahrenvorsorge
 
-(1) Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften
+(1) Die Bundesregierung wird ermächtigt durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften
 
 1.  
 über die an die Beschaffenheit der Räume und Einrichtungen zu stellenden Anforderungen sowie
@@ -1875,7 +1955,7 @@ Untersuchung und Behandlung nach § 19 Abs. 2 Nr. 2,
 die Maßnahmen nach § 20 Abs. 5,
 
 6.  
-die Durchführung von Ermittlungen nach den §§ 25 und 26,
+die Durchführung von Ermittlungen nach den § 25,
 
 7.  
 die Durchführung von Schutzmaßnahmen nach den §§ 29 und 30,
@@ -1948,16 +2028,16 @@ entgegen § 6 Abs. 1 oder § 7, jeweils auch in Verbindung mit einer Rechtsveror
 entgegen § 6 Abs. 2, § 34 Abs. 5 Satz 1 oder § 43 Abs. 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 3.  
-entgegen § 16 Abs. 2 Satz 2, auch in Verbindung mit § 26 Abs. 1, § 36 Abs. 3 oder einer Rechtsverordnung nach § 17 Abs. 4 Satz 1, § 41 Abs. 1 Satz 3, auch in Verbindung mit einer Rechtsverordnung nach Abs. 2 Satz 1, oder § 51 Satz 2 ein Grundstück, einen Raum, eine Anlage, eine Einrichtung, ein Verkehrsmittel oder einen sonstigen Gegenstand nicht zugänglich macht,
+entgegen § 16 Abs. 2 Satz 2, auch in Verbindung mit § 25 Absatz 2, § 36 Abs. 3 oder einer Rechtsverordnung nach § 17 Abs. 4 Satz 1, § 41 Abs. 1 Satz 3, auch in Verbindung mit einer Rechtsverordnung nach Abs. 2 Satz 1, oder § 51 Satz 2 ein Grundstück, einen Raum, eine Anlage, eine Einrichtung, ein Verkehrsmittel oder einen sonstigen Gegenstand nicht zugänglich macht,
 
 4.  
-entgegen § 16 Abs. 2 Satz 3, auch in Verbindung mit § 26 Abs. 1, § 36 Abs. 3 oder einer Rechtsverordnung nach § 17 Abs. 4 Satz 1, § 29 Abs. 2 Satz 3, auch in Verbindung mit einer Rechtsverordnung nach § 32 Satz 1, oder § 41 Abs. 1 Satz 3, auch in Verbindung mit einer Rechtsverordnung nach Abs. 2 Satz 1, eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
+entgegen § 16 Abs. 2 Satz 3, auch in Verbindung mit § 25 Absatz 2, § 36 Abs. 3 oder einer Rechtsverordnung nach § 17 Abs. 4 Satz 1, § 29 Abs. 2 Satz 3, auch in Verbindung mit einer Rechtsverordnung nach § 32 Satz 1, oder § 41 Abs. 1 Satz 3, auch in Verbindung mit einer Rechtsverordnung nach Abs. 2 Satz 1, eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
 
 5.  
-entgegen § 16 Abs. 2 Satz 3, auch in Verbindung mit § 26 Abs. 1, § 36 Abs. 3 oder einer Rechtsverordnung nach § 17 Abs. 4 Satz 1, eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+entgegen § 16 Abs. 2 Satz 3, auch in Verbindung mit § 25 Absatz 2, § 36 Abs. 3 oder einer Rechtsverordnung nach § 17 Abs. 4 Satz 1, eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
 6.  
-einer vollziehbaren Anordnung nach § 17 Abs. 1, auch in Verbindung mit einer Rechtsverordnung nach Abs. 4 Satz 1, § 17 Abs. 3 Satz 1, § 26 Abs. 2 Satz 1 oder 2, auch in Verbindung mit § 29 Abs. 2 Satz 2, dieser auch in Verbindung mit einer Rechtsverordnung nach § 32 Satz 1, § 26 Abs. 3 Satz 2, § 28 Abs. 1 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach § 32 Satz 1, oder § 34 Abs. 8 oder 9 zuwiderhandelt,
+einer vollziehbaren Anordnung nach § 17 Abs. 1, auch in Verbindung mit einer Rechtsverordnung nach Abs. 4 Satz 1, § 17 Abs. 3 Satz 1, § 25 Absatz 3 Satz 1 oder 2, auch in Verbindung mit § 29 Abs. 2 Satz 2, dieser auch in Verbindung mit einer Rechtsverordnung nach § 32 Satz 1, § 25 Absatz 4 Satz 2, § 28 Abs. 1 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach § 32 Satz 1, oder § 34 Abs. 8 oder 9 zuwiderhandelt,
 
 7.  
 entgegen § 18 Abs. 1 Satz 1 ein Mittel oder ein Verfahren anwendet,
@@ -1981,7 +2061,7 @@ entgegen § 23 Absatz 4 Satz 4 Einsicht nicht gewährt,
 entgegen § 23 Absatz 5 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach § 23 Absatz 5 Satz 2, nicht sicherstellt, dass die dort genannten Verfahrensweisen festgelegt sind,
 
 11.  
-entgegen § 26 Abs. 3 Satz 1 eine Untersuchung nicht gestattet,
+entgegen § 25 Absatz 4 Satz 1 eine Untersuchung nicht gestattet,
 
 12.  
 entgegen § 29 Abs. 2 Satz 3, auch in Verbindung mit einer Rechtsverordnung nach § 32 Satz 1, Zutritt nicht gestattet,
