@@ -2,7 +2,10 @@ Verordnung zum Schutz gegen die Schweinepest und die Afrikanische Schweinepest (
 =================================================================================
 
 Neuf  
-Neugefasst durch Bek. v. 29.9.2011 I 1959
+Neugefasst durch Bek. v. 29.9.2011 I 1959;
+
+Stand  
+zuletzt geändert durch Art. 2 V v. 29.12.2014 I 2481
 
 ### 
 
@@ -27,43 +30,44 @@ Richtlinie 2002/60/EG des Rates vom 27. Juni 2002 zur Festlegung von besonderen 
 
 ### Inhaltsübersicht
 
-|                            |                                                                                 |             |     |
-|----------------------------|---------------------------------------------------------------------------------|-------------|-----|
-|                            |                                                                                 |             | §§  |
-| **Abschnitt 1:**           | **Begriffsbestimmungen**                                                        | 1           |     |
-| **Abschnitt 2:**           | **Schutzmaßregeln**                                                             | 2 bis 14f   |     |
-| Unterabschnitt 1:          |                                                                                 |             |     |
-| Allgemeine Schutzmaßregeln | 2 bis 3a                                                                        |             |     |
-| Impfverbot                 | 2                                                                               |             |     |
-| Behördliche Anordnungen    | 3                                                                               |             |     |
-| Amtliche Untersuchungen    | 3a                                                                              |             |     |
-| Unterabschnitt 2:          |                                                                                 |             |     |
-| Besondere Schutzmaßregeln  | 4 bis 14f                                                                       |             |     |
-| A.                         | Vor amtlicher Feststellung der Schweinepest und der Afrikanischen Schweinepest  | 4           |     |
-| B.                         | Nach amtlicher Feststellung der Schweinepest und der Afrikanischen Schweinepest | 5 bis 14f   |     |
-| 1.                         | Öffentliche Bekanntmachung                                                      | 5           |     |
-| 2.                         | Schutzmaßregeln für den Seuchenbetrieb                                          | 6, 8        |     |
-|                            | Ausnahmen                                                                       | 8           |     |
-| 3.                         | Schutzmaßregeln für den Sperrbezirk  und  das  Beobachtungsgebiet               | 11 bis 11d  |     |
-|                            | Sperrbezirk                                                                     | 11          |     |
-|                            | Beobachtungsgebiet                                                              | 11a         |     |
-|                            | Ausnahmen                                                                       | 11b         |     |
-|                            | Seuchenausbruch in benachbartem Mitgliedstaat                                   | 11c         |     |
-|                            | Weitergehende Schutzmaßregeln                                                   | 11d         |     |
-| 4.                         | Schutzmaßregeln für den Kontaktbetrieb                                          | 12          |     |
-| 5.                         | Notimpfung bei Hausschweinen                                                    | 13          |     |
-| 6.                         | Tötung im Sperrbezirk, im Beobachtungsgebiet oder im Impfgebiet                 | 14          |     |
-| 7.                         | Schutzmaßregeln beim Auftreten der Schweinepest oder der Afrikanischen          |             |     |
-|                            | Schweinepest bei Wildschweinen                                                  | 14a bis 14e |     |
-|                            | Gefährdeter Bezirk                                                              | 14a         |     |
-|                            | Notimpfung bei Wildschweinen                                                    | 14b         |     |
-|                            | Maßregeln zur Erkennung der Schweinepest oder der Afrikanischen Schweinepest    | 14c         |     |
-|                            | Tilgungsplan                                                                    | 14d         |     |
-|                            | Seuchenausbruch bei Wildschweinen in einem benachbarten Mitgliedstaat           | 14e         |     |
-| **Abschnitt 3:**           | **Schutzmaßregeln in Schlachtstätten und auf dem Transport**                    | 23          |     |
-| **Abschnitt 4:**           | **Aufhebung der Schutzmaßregeln, Wiederbelegung von Betrieben**                 | 24 bis 24b  |     |
-| **Abschnitt 5:**           | **Ordnungswidrigkeiten**                                                        | 25          |     |
-| **Abschnitt 6:**           | **Schlussvorschriften**                                                         | 25a bis 26  |     |
+|                                                       |                                                                                 |             |     |
+|-------------------------------------------------------|---------------------------------------------------------------------------------|-------------|-----|
+|                                                       |                                                                                 |             | §§  |
+| **Abschnitt 1:**                                      | **Begriffsbestimmungen**                                                        | 1           |     |
+| **Abschnitt 2:**                                      | **Schutzmaßregeln**                                                             | 2 bis 14f   |     |
+| Unterabschnitt 1:                                     |                                                                                 |             |     |
+| Allgemeine Schutzmaßregeln                            | 2 bis 3a                                                                        |             |     |
+| Impfverbot                                            | 2                                                                               |             |     |
+| Verbot des Verfütterns von Küchen- und Speiseabfällen | 2a                                                                              |             |     |
+| Behördliche Anordnungen                               | 3                                                                               |             |     |
+| Amtliche Untersuchungen                               | 3a                                                                              |             |     |
+| Unterabschnitt 2:                                     |                                                                                 |             |     |
+| Besondere Schutzmaßregeln                             | 4 bis 14f                                                                       |             |     |
+| A.                                                    | Vor amtlicher Feststellung der Schweinepest und der Afrikanischen Schweinepest  | 4           |     |
+| B.                                                    | Nach amtlicher Feststellung der Schweinepest und der Afrikanischen Schweinepest | 5 bis 14f   |     |
+| 1.                                                    | Öffentliche Bekanntmachung                                                      | 5           |     |
+| 2.                                                    | Schutzmaßregeln für den Seuchenbetrieb                                          | 6, 8        |     |
+|                                                       | Ausnahmen                                                                       | 8           |     |
+| 3.                                                    | Schutzmaßregeln für den Sperrbezirk  und  das  Beobachtungsgebiet               | 11 bis 11d  |     |
+|                                                       | Sperrbezirk                                                                     | 11          |     |
+|                                                       | Beobachtungsgebiet                                                              | 11a         |     |
+|                                                       | Ausnahmen                                                                       | 11b         |     |
+|                                                       | Seuchenausbruch in benachbartem Mitgliedstaat                                   | 11c         |     |
+|                                                       | Weitergehende Schutzmaßregeln                                                   | 11d         |     |
+| 4.                                                    | Schutzmaßregeln für den Kontaktbetrieb                                          | 12          |     |
+| 5.                                                    | Notimpfung bei Hausschweinen                                                    | 13          |     |
+| 6.                                                    | Tötung im Sperrbezirk, im Beobachtungsgebiet oder im Impfgebiet                 | 14          |     |
+| 7.                                                    | Schutzmaßregeln beim Auftreten der Schweinepest oder der Afrikanischen          |             |     |
+|                                                       | Schweinepest bei Wildschweinen                                                  | 14a bis 14e |     |
+|                                                       | Gefährdeter Bezirk                                                              | 14a         |     |
+|                                                       | Notimpfung bei Wildschweinen                                                    | 14b         |     |
+|                                                       | Maßregeln zur Erkennung der Schweinepest oder der Afrikanischen Schweinepest    | 14c         |     |
+|                                                       | Tilgungsplan                                                                    | 14d         |     |
+|                                                       | Seuchenausbruch bei Wildschweinen in einem benachbarten Mitgliedstaat           | 14e         |     |
+| **Abschnitt 3:**                                      | **Schutzmaßregeln in Schlachtstätten und auf dem Transport**                    | 23          |     |
+| **Abschnitt 4:**                                      | **Aufhebung der Schutzmaßregeln, Wiederbelegung von Betrieben**                 | 24 bis 24b  |     |
+| **Abschnitt 5:**                                      | **Ordnungswidrigkeiten**                                                        | 25          |     |
+| **Abschnitt 6:**                                      | **Schlussvorschriften**                                                         | 25a bis 26  |     |
 
 Abschnitt 1 Begriffsbestimmungen
 --------------------------------
@@ -141,6 +145,10 @@ Unterabschnitt 1 Allgemeine Schutzmaßregeln
 (1) Impfungen gegen die Schweinepest oder die Afrikanische Schweinepest sowie Heilversuche an seuchenkranken und seuchenverdächtigen Schweinen sind verboten, soweit in dieser Verordnung nichts anderes bestimmt ist.
 
 (2) Die zuständige Behörde kann im Einzelfall bei der Schweinepest abweichend von Absatz 1 Impfungen für wissenschaftliche Versuche und Impfstoffprüfungen genehmigen, sofern Belange der Seuchenbekämpfung nicht entgegenstehen.
+
+### § 2a Verbot des Verfütterns von Küchen- und Speiseabfällen
+
+Das Verfüttern von Küchen- und Speiseabfällen an Schweine, die keine Nutztiere im Sinne des Artikels 3 Nummer 6 Buchstabe a der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (ABl. L 300 vom 14.11.2009, S. 1), die zuletzt durch die Verordnung (EU) Nr. 1385/2013 (ABl. L 354 vom 28.12.2013, S. 86) geändert worden ist, sind, ist verboten.
 
 ### § 3 Behördliche Anordnungen
 
@@ -379,7 +387,7 @@ die Suche nach Zecken der Art Ornithodorus erraticus im Seuchenbetrieb und in se
 b)  
 die Untersuchung aufgefundener Zecken dieser Art auf das Virus der Afrikanischen Schweinepest
 
-an. Im Falle des Satzes 1 Nummer 4 unterrichtet die zuständige Behörde das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz (Bundesministerium) über die Durchführung der Maßnahmen zum Zwecke der Mitteilung an die Europäische Kommission.
+an. Im Falle des Satzes 1 Nummer 4 unterrichtet die zuständige Behörde das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) über die Durchführung der Maßnahmen zum Zwecke der Mitteilung an die Europäische Kommission.
 
 (2) Mit Bekanntgabe der Anordnung nach Absatz 1 hat der Tierhalter über die Vorschriften des § 4 Absatz 2 Satz 1 hinaus
 
@@ -420,7 +428,7 @@ Hunde und Katzen einzusperren.
 
 ### § 11 Sperrbezirk
 
-(1) Ist die Schweinepest oder die Afrikanische Schweinepest in einem Betrieb amtlich festgestellt, so legt die zuständige Behörde ein Gebiet um den Seuchenbetrieb mit einem Radius von mindestens drei Kilometern als Sperrbezirk fest. Hierbei berücksichtigt sie die Ergebnisse durchgeführter epidemiologischer Untersuchungen, Strukturen des Handels und der örtlichen Schweinehaltung, das Vorhandensein von Schlachtstätten und Verarbeitungsbetrieben für Material der Kategorie 1 oder 2 nach Artikel 24 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (ABl. L 300 vom 14.11.2009, S. 1) in der jeweils geltenden Fassung, natürlichen Grenzen sowie Überwachungsmöglichkeiten.
+(1) Ist die Schweinepest oder die Afrikanische Schweinepest in einem Betrieb amtlich festgestellt, so legt die zuständige Behörde ein Gebiet um den Seuchenbetrieb mit einem Radius von mindestens drei Kilometern als Sperrbezirk fest. Hierbei berücksichtigt sie die Ergebnisse durchgeführter epidemiologischer Untersuchungen, Strukturen des Handels und der örtlichen Schweinehaltung, das Vorhandensein von Schlachtstätten und Verarbeitungsbetrieben für Material der Kategorie 1 oder 2 nach Artikel 24 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1069/2009, natürlichen Grenzen sowie Überwachungsmöglichkeiten.
 
 (2) Die zuständige Behörde
 
@@ -650,7 +658,7 @@ Wird auf dem Gebiet eines benachbarten Mitgliedstaats der Ausbruch der Schweinep
 
 (1) In Zeiten erhöhter Seuchengefahr kann die zuständige Behörde die Durchführung von Schweineausstellungen, Schweinemärkten und Veranstaltungen ähnlicher Art, den Handel mit Schweinen ohne vorherige Bestellung, das Aufsuchen durch Besteller unter Mitführen von Schweinen, das Umherziehen mit Schweinen sowie das gewerbsmäßige Kastrieren von Schweinen durch Personen, die nicht Tierärzte sind, verbieten.
 
-(2) Besteht wegen des Auftretens der Schweinepest ein Verbringungsverbot nach § 11 der Binnenmarkt-Tierseuchenschutzverordnung, so ordnet die zuständige Behörde für das von dem Verbot betroffene Gebiet die zur Unterstützung des Verbotes erforderlichen ergänzenden Maßnahmen nach den §§ 16 bis 17a, 18 bis 30 und 78 des Tierseuchengesetzes an.
+(2) Besteht wegen des Auftretens der Schweinepest ein Verbringungsverbot nach § 11 der Binnenmarkt-Tierseuchenschutzverordnung, so ordnet die zuständige Behörde für das von dem Verbot betroffene Gebiet die zur Unterstützung des Verbotes erforderlichen ergänzenden Maßnahmen nach den §§ 8, 24 Absatz 3, den §§ 25 und 38 Absatz 11 in Verbindung mit § 26 Absatz 2 des Tiergesundheitsgesetzes an.
 
 ### § 11e (weggefallen)
 
@@ -1159,137 +1167,127 @@ Abschnitt 5 Ordnungswidrigkeiten
 
 ### § 25
 
-(1) Ordnungswidrig im Sinne des § 76 Absatz 2 Nummer 1 Buchstabe b des Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  
-einer mit einer Genehmigung nach
-
-a)  
-§ 2 Absatz 2, § 8 Absatz 1 oder 2 Satz 1, § 11 Absatz 4 Nummer 3 oder 7, § 11a Absatz 3 Satz 1, § 11b Absatz 1 Satz 1 oder 3 Nummer 1 oder Absatz 3 Satz 1, jeweils auch in Verbindung mit § 11c Satz 2, oder § 14a Absatz 6 Satz 1 oder Absatz 7,
-
-b)  
-§ 4 Absatz 2 Satz 2 oder Absatz 3 Nummer 1, auch in Verbindung mit Absatz 5 Satz 2, § 11 Absatz 4 Nummer 9, § 11a Absatz 3 Satz 2 oder § 12 Absatz 2,
-
-c)  
-§ 4 Absatz 3 Nummer 2 Satz 1 oder Nummer 3 Satz 1, jeweils auch in Verbindung mit Absatz 5 Satz 2 oder § 12 Absatz 2,
-
-d)  
-§ 6 Absatz 3, auch in Verbindung mit § 12 Absatz 2, oder
-
-e)  
-§ 24a Absatz 7
-
-verbundenen vollziehbaren Auflage oder
-
-2.  
-einer vollziehbaren Anordnung nach
-
-a)  
-§ 3 oder § 4 Absatz 1 Satz 1, 2 oder 5, jeweils auch in Verbindung mit Absatz 5 Satz 2, § 4 Absatz 3 Nummer 2 Satz 2, auch in Verbindung mit Absatz 5 Satz 2 oder § 12 Absatz 2, oder § 4 Absatz 4, auch in Verbindung mit § 12 Absatz 2, oder § 4 Absatz 5 Satz 1,
-
-b)  
-§ 6 Absatz 1 Satz 1, § 11c Satz 1, §§ 11d, 12 Absatz 1 oder 3, § 13 Absatz 1 Satz 1 oder Absatz 2 Nummer 1 Satz 2 oder Nummer 2 Buchstabe b Doppelbuchstabe bb, §§ 14, 14a Absatz 1 oder 4 Nummer 4, Absatz 5 Nummer 4 oder Absatz 8 Satz 1, § 14b Satz 1, § 14c Absatz 1 Satz 1 Nummer 1 Buchstabe a, b oder d Doppelbuchstabe bb oder Nummer 3 oder 4 oder Satz 2 oder 3 oder Absatz 2, §§ 14e, 23 Absatz 1 oder 2 oder § 24b Absatz 2 oder
-
-c)  
-§ 11 Absatz 4 Nummer 8, auch in Verbindung mit § 11a Absatz 3 Satz 2,
-
-zuwiderhandelt.
-
-(2) Ordnungswidrig im Sinne des § 76 Absatz 2 Nummer 2 des Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  
 entgegen § 2 Absatz 1 eine Impfung oder einen Heilversuch vornimmt,
 
 2.  
-entgegen
+einer mit einer Genehmigung nach § 2 Absatz 2, § 8 Absatz 1 oder Absatz 2 Satz 1, § 11 Absatz 4 Nummer 3 oder Nummer 7, § 11a Absatz 3 Satz 1, § 14a Absatz 6 oder Absatz 7 oder § 24a Absatz 7 verbundenen vollziehbaren Auflage zuwiderhandelt,
 
-a)  
-§ 4 Absatz 2 Satz 1 Nummer 1, auch in Verbindung mit Absatz 5 Satz 2 oder § 12 Absatz 2, oder
-
-b)  
-§ 11 Absatz 3 Nummer 2 oder § 14a Absatz 4 Nummer 2
-
-ein Schwein nicht, nicht richtig oder nicht rechtzeitig absondert,
+2a.  
+entgegen § 2a Küchen- oder Speiseabfälle verfüttert,
 
 3.  
-entgegen § 4 Absatz 2 Satz 1 Nummer 2, auch in Verbindung mit Absatz 5 Satz 2 oder § 12 Absatz 2, eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+einer vollziehbaren Anordnung nach § 3, § 6 Absatz 1 Satz 1, § 11c Satz 1, § 11d, § 12 Absatz 1 oder Absatz 3, § 13 Absatz 1 Satz 1 oder Absatz 2 Nummer 1 Satz 2 oder Nummer 2 Buchstabe b Doppelbuchstabe bb zweiter Halbsatz, § 14, § 14a Absatz 1 oder Absatz 4 Nummer 4, Absatz 5 Nummer 4 oder Absatz 8, § 14b Satz 1, § 14c Absatz 1 Satz 1 Nummer 1 Buchstabe a, b oder Buchstabe d Doppelbuchstabe bb, Nummer 3 oder Nummer 4, § 14c Absatz 1 Satz 2 oder Satz 3 oder Absatz 2, § 14e, § 23 Absatz 1 oder Absatz 2 oder § 24b Absatz 2 zuwiderhandelt,
 
 4.  
-entgegen § 4 Absatz 2 Satz 1 Nummer 3, auch in Verbindung mit Absatz 5 Satz 2 oder § 12 Absatz 2, ein verendetes oder getötetes Schwein nicht oder nicht richtig aufbewahrt,
+einer vollziehbaren Anordnung nach § 4 Absatz 1 Satz 1, 2 oder Satz 5, jeweils auch in Verbindung mit § 4 Absatz 5 Satz 2, zuwiderhandelt,
 
 5.  
-entgegen § 4 Absatz 2 Satz 1 Nummer 4, auch in Verbindung mit Absatz 5 Satz 2 oder § 12 Absatz 2, die Genehmigung nicht einholt,
+entgegen § 4 Absatz 2 Satz 1 Nummer 1, auch in Verbindung mit § 4 Absatz 5 Satz 2 oder § 12 Absatz 2, oder entgegen § 11 Absatz 3 Nummer 2 oder § 14a Absatz 4 Nummer 2 ein Schwein nicht, nicht richtig oder nicht rechtzeitig absondert,
 
 6.  
-entgegen § 4 Absatz 2 Satz 1 Nummer 5, auch in Verbindung mit § 12 Absatz 2, Matten oder Bodenauflagen nicht oder nicht richtig auslegt, nicht oder nicht richtig tränkt oder nicht oder nicht richtig feucht hält,
+entgegen § 4 Absatz 2 Satz 1 Nummer 2, auch in Verbindung mit § 4 Absatz 5 Satz 2 oder § 12 Absatz 2, eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 7.  
-entgegen § 4 Absatz 2 Satz 1 Nummer 6 Buchstabe a oder b, jeweils auch in Verbindung mit Absatz 5 Satz 2, § 11 Absatz 4 Nummer 9, § 11a Absatz 3 Satz 2 oder § 12 Absatz 2, nicht sicherstellt, dass der Betrieb nur mit Schutzkleidung betreten wird oder die Schutzkleidung oder das Schuhwerk abgelegt, gereinigt, desinfiziert oder beseitigt wird,
+entgegen § 4 Absatz 2 Satz 1 Nummer 3, auch in Verbindung mit § 4 Absatz 5 Satz 2 oder § 12 Absatz 2, ein Schwein nicht oder nicht richtig aufbewahrt,
 
 8.  
-entgegen § 4 Absatz 2 Satz 1 Nummer 6 Buchstabe c, auch in Verbindung mit Absatz 5 Satz 2 oder § 12 Absatz 2, oder § 4 Absatz 2 Satz 1 Nummer 6 Buchstabe d nicht sicherstellt, dass Schweine, ein dort genanntes Erzeugnis, ein dort genannter Gegenstand oder Abfall nicht verbracht wird,
+ohne Genehmigung nach § 4 Absatz 2 Satz 1 Nummer 4, auch in Verbindung mit § 4 Absatz 5 Satz 2 oder § 12 Absatz 2, ein Schwein verbringt,
 
 9.  
-entgegen § 4 Absatz 3 Nummer 1, auch in Verbindung mit Absatz 5 Satz 2, § 11 Absatz 4 Nummer 9, § 11a Absatz 3 Satz 2 oder § 12 Absatz 2, einen Betrieb betritt,
+entgegen § 4 Absatz 2 Satz 1 Nummer 5, auch in Verbindung mit § 12 Absatz 2, eine Matte oder eine sonstige Bodenauflage nicht oder nicht rechtzeitig auslegt, nicht oder nicht rechtzeitig tränkt oder nicht oder nicht rechtzeitig feucht hält,
 
 10.  
-entgegen § 4 Absatz 3 Nummer 2 Satz 1, auch in Verbindung mit Absatz 5 Satz 2, ein Fahrzeug fährt,
+entgegen § 4 Absatz 2 Satz 1 Nummer 6 Buchstabe a oder Buchstabe b, jeweils auch in Verbindung mit § 4 Absatz 5 Satz 2, § 11 Absatz 4 Nummer 9, § 11a Absatz 3 Satz 2 oder § 12 Absatz 2, nicht sicherstellt, dass der Betrieb nur mit Schutzkleidung betreten wird oder die Schutzkleidung oder das Schuhwerk abgelegt, gereinigt, desinfiziert oder beseitigt wird,
 
 11.  
-entgegen
-
-a)  
-§ 4 Absatz 3 Nummer 3 Satz 1, auch in Verbindung mit Absatz 5 Satz 2 oder § 12 Absatz 2,
-
-b)  
-§ 6 Absatz 3, auch in Verbindung mit § 12 Absatz 2,
-
-c)  
-§ 11 Absatz 4 Nummer 1 oder 3, jeweils auch in Verbindung mit § 11a Absatz 3 Satz 2, oder § 11 Absatz 4 Nummer 7,
-
-d)  
-§ 11a Absatz 3 Satz 1, § 13 Absatz 2 Nummer 2 Buchstabe a oder c oder § 14a Absatz 5 Nummer 2, 3, 5, 6 oder 7 oder § 23 Absatz 3
-
-ein dort genanntes Tier, Teile eines dort genannten Tieres, dort genanntes Fleisch, ein dort genanntes Fleischerzeugnis, einen dort genannten Gegenstand oder Abfall verbringt,
+entgegen § 4 Absatz 2 Satz 1 Nummer 6 Buchstabe c, auch in Verbindung mit § 4 Absatz 5 Satz 2 oder § 12 Absatz 2, oder entgegen § 4 Absatz 2 Satz 1 Nummer 6 Buchstabe d nicht sicherstellt, dass ein Schwein, ein dort genanntes Erzeugnis, ein dort genannter Gegenstand oder Abfall nicht verbracht wird,
 
 12.  
-entgegen § 6 Absatz 2 Nummer 1 ein Schild nicht oder nicht richtig anbringt,
+einer mit einer Genehmigung nach § 4 Absatz 2 Satz 2 oder Absatz 3 Nummer 1, auch in Verbindung mit § 4 Absatz 5 Satz 2, § 11 Absatz 4 Nummer 9, § 11a Absatz 3 Satz 2 oder § 12 Absatz 2, verbundenen vollziehbaren Auflage zuwiderhandelt,
 
 13.  
-entgegen § 6 Absatz 2 Nummer 2 einen Hund oder eine Katze nicht einsperrt,
+ohne Genehmigung nach § 4 Absatz 3 Nummer 1, auch in Verbindung mit § 4 Absatz 5 Satz 2, § 11 Absatz 4 Nummer 9, § 11a Absatz 3 Satz 2 oder § 12 Absatz 2, einen Betrieb betritt,
 
 14.  
-entgegen § 11 Absatz 3 Nummer 1, auch in Verbindung mit § 11a Absatz 3 Satz 2, § 14a Absatz 4 Nummer 1 oder § 14c Absatz 1 Satz 1 Nummer 1 Buchstabe d Doppelbuchstabe aa eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+ohne Genehmigung nach § 4 Absatz 3 Nummer 2 Satz 1, auch in Verbindung mit § 4 Absatz 5 Satz 2 oder § 12 Absatz 2, ein Fahrzeug fährt,
 
 15.  
-entgegen § 11 Absatz 4 Nummer 2 eine Hausschlachtung vornimmt,
+einer mit einer Genehmigung nach § 4 Absatz 3 Nummer 2 Satz 1 oder Nummer 3 Satz 1, jeweils auch in Verbindung mit § 4 Absatz 5 Satz 2 oder § 12 Absatz 2, verbundenen vollziehbaren Auflage zuwiderhandelt,
 
 16.  
-entgegen § 11 Absatz 4 Nummer 4, auch in Verbindung mit § 11a Absatz 3 Satz 2, ein Schwein besamt,
+einer vollziehbaren Anordnung nach § 4 Absatz 3 Nummer 2 Satz 2, auch in Verbindung mit § 4 Absatz 5 Satz 2 oder § 12 Absatz 2, zuwiderhandelt,
 
 17.  
-entgegen § 11 Absatz 4 Nummer 5 Satz 1, auch in Verbindung mit § 11a Absatz 3 Satz 2, oder § 14a Absatz 5 Nummer 1 ein Schwein treibt oder transportiert,
+ohne Genehmigung nach § 4 Absatz 3 Nummer 3 Satz 1, auch in Verbindung mit § 4 Absatz 5 Satz 2 oder § 12 Absatz 2, dort genanntes Fleisch, ein dort genanntes Fleischerzeugnis, einen dort genannten Gegenstand oder Abfall verbringt,
 
 18.  
-entgegen § 11 Absatz 4 Nummer 6, auch in Verbindung mit § 11a Absatz 3 Satz 2, eine Ausstellung, einen Markt oder eine Veranstaltung ähnlicher Art durchführt oder mit Klauentieren handelt,
+einer vollziehbaren Anordnung nach § 4 Absatz 4, auch in Verbindung mit § 12 Absatz 2, zuwiderhandelt,
 
 19.  
-entgegen § 13 Absatz 2 Nummer 2 Buchstabe d Sperma, Eizellen oder Embryonen entnimmt,
+entgegen § 6 Absatz 2 Nummer 1 ein Schild nicht oder nicht rechtzeitig anbringt,
 
 20.  
-entgegen § 14a Absatz 4 Nummer 3 eine Desinfektionsmöglichkeit nicht oder nicht richtig einrichtet,
+entgegen § 6 Absatz 2 Nummer 2 einen Hund oder eine Katze nicht oder nicht rechtzeitig einsperrt,
 
 21.  
-entgegen § 14a Absatz 4 Nummer 5 Futter, Einstreu oder einen sonstigen Gegenstand nicht oder nicht richtig aufbewahrt,
+ohne Genehmigung nach § 6 Absatz 3, auch in Verbindung mit § 12 Absatz 2, ein Haustier verbringt,
 
 22.  
-entgegen § 14a Absatz 4 Nummer 6 nicht sicherstellt, dass ein Hund das Betriebsgelände nur unter Aufsicht verlässt,
+einer mit einer Genehmigung nach § 6 Absatz 3, auch in Verbindung mit § 12 Absatz 2, verbundenen vollziehbaren Auflage zuwiderhandelt,
 
 23.  
-entgegen § 23 Absatz 4 einen Teil oder Rohstoff eines geschlachteten Schweins nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig beseitigt und nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig beseitigen lässt oder
+entgegen § 11 Absatz 3 Nummer 1, auch in Verbindung mit § 11a Absatz 3 Satz 2, entgegen § 14a Absatz 4 Nummer 1 oder § 14c Absatz 1 Satz 1 Nummer 1 Buchstabe d Doppelbuchstabe bb eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
 24.  
-entgegen § 24a Absatz 1 oder 4 oder § 24b Absatz 1 einen Betrieb wiederbelegt.
+entgegen § 11 Absatz 4 Nummer 1, auch in Verbindung mit § 11a Absatz 3 Satz 2, ein Schwein verbringt,
+
+25.  
+entgegen § 11 Absatz 4 Nummer 2 eine Hausschlachtung vornimmt,
+
+26.  
+ohne Genehmigung nach § 11 Absatz 4 Nummer 3, auch in Verbindung mit § 11a Absatz 3 Satz 2, oder § 11 Absatz 4 Nummer 7 ein dort genanntes Tier, Fleisch oder ein Teil eines dort genannten Tieres verbringt,
+
+27.  
+entgegen § 11 Absatz 4 Nummer 4, auch in Verbindung mit § 11a Absatz 3 Satz 2, ein dort genanntes Tier besamt,
+
+28.  
+entgegen § 11 Absatz 4 Nummer 5 Satz 1, auch in Verbindung mit § 11a Absatz 3 Satz 2, oder entgegen § 14a Absatz 5 Nummer 1 ein dort genanntes Tier treibt oder transportiert,
+
+29.  
+entgegen § 11 Absatz 4 Nummer 6, auch in Verbindung mit § 11a Absatz 3 Satz 2, eine Ausstellung, einen Markt oder eine Veranstaltung durchführt oder mit einem dort genannten Tier handelt,
+
+30.  
+einer vollziehbaren Anordnung nach § 11 Absatz 4 Nummer 8, auch in Verbindung mit § 11a Absatz 3 Satz 2, zuwiderhandelt,
+
+31.  
+ohne Genehmigung nach § 11a Absatz 3 Satz 1 ein dort genanntes Tier verbringt,
+
+32.  
+einer mit einer Genehmigung nach § 11b Absatz 1 Satz 1 oder Satz 3 Nummer 1 oder Absatz 3 Satz 1, jeweils auch in Verbindung mit § 11c Satz 2, verbundenen vollziehbaren Auflage zuwiderhandelt,
+
+33.  
+entgegen § 13 Absatz 2 Nummer 2 Buchstabe a oder Buchstabe c, § 14a Absatz 5 Nummer 2, 3, 5, 6 oder Nummer 7 oder § 23 Absatz 3 ein dort genanntes Tier, ein Teil eines Tieres, Fleisch, ein dort genanntes Fleischerzeugnis oder einen dort genannten Gegenstand verbringt,
+
+34.  
+entgegen § 13 Absatz 2 Nummer 2 Buchstabe d Sperma, eine Eizelle oder einen Embryo entnimmt,
+
+35.  
+entgegen § 14a Absatz 4 Nummer 3 eine Desinfektionsmöglichkeit nicht oder nicht rechtzeitig einrichtet,
+
+36.  
+entgegen § 14a Absatz 4 Nummer 5 Futter, Einstreu oder einen sonstigen Gegenstand nicht, nicht richtig oder nicht rechtzeitig aufbewahrt,
+
+37.  
+entgegen § 14a Absatz 4 Nummer 6 nicht sicherstellt, dass ein Hund das Betriebsgelände nur unter Aufsicht verlässt,
+
+38.  
+entgegen § 23 Absatz 4 einen Teil oder Rohstoff eines geschlachteten Schweines nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig beseitigt und nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig untersuchen lässt oder
+
+39.  
+entgegen § 24a Absatz 1 oder Absatz 4 oder § 24b Absatz 1 einen Betrieb wiederbelegt.
 
 Abschnitt 6 Schlussvorschriften
 -------------------------------
@@ -1298,7 +1296,7 @@ Abschnitt 6 Schlussvorschriften
 
 ### § 25a Weitergehende Maßnahmen
 
-Die Befugnis der zuständigen Behörde, bei Feststellung der Schweinepest oder Afrikanischen Schweinepest bei einem Hausschwein oder einem Wildschwein weitergehende Maßnahmen nach § 79 Absatz 4 in Verbindung mit den §§ 17, 17b Absatz 1 Nummer 4 und den §§ 18 bis 30 des Tierseuchengesetzes anzuordnen, soweit diese zur Seuchenbekämpfung erforderlich sind und Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union nicht entgegenstehen, bleibt unberührt.
+Die Befugnis der zuständigen Behörde, bei Feststellung der Schweinepest oder Afrikanischen Schweinepest bei einem Hausschwein oder einem Wildschwein weitergehende Maßnahmen nach § 38 Absatz 11 in Verbindung mit § 6 Absatz 1 und 3 bis 5 des Tiergesundheitsgesetzes anzuordnen, soweit diese zur Seuchenbekämpfung erforderlich sind und Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union nicht entgegenstehen, bleibt unberührt.
 
 ### § 25b Übergangsbestimmungen
 
