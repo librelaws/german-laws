@@ -4,6 +4,9 @@ Verordnung über Anforderungen an die Hygiene beim Herstellen, Behandeln und Inv
 Stand  
 Zuletzt geändert durch Art. 1 V v. 10.11.2011 I 2233
 
+Hinweis  
+Änderung durch Art. 2 V v. 8.3.2016 I 444 (Nr. 12) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
@@ -51,7 +54,7 @@ Abschnitt 1a Amtliche Untersuchungen bei der Gewinnung von Fleisch für den eige
 
 ### § 2a Hausschlachtungen
 
-(1) Wer als Haustiere oder Farmwild gehaltene Huftiere außerhalb eines zugelassenen Schlachthofes für den eigenen häuslichen Verbrauch schlachten oder töten will, hat das jeweilige Tier bei der zuständigen Behörde
+(1) Wer als Haustiere oder Farmwild gehaltene Huftiere außerhalb eines zugelassenen Schlachthofes für den eigenen häuslichen Verbrauch schlachten oder töten will, hat das jeweilige Tier nach Maßgabe des Absatzes 2 bei der zuständigen Behörde
 
 1.  
 zur amtlichen Schlachttieruntersuchung anzumelden, wenn der Verfügungsberechtigte unmittelbar vor der beabsichtigten Schlachtung eine Störung des Allgemeinbefindens des Tieres festgestellt hat, die nicht auf einen unmittelbar zuvor eingetretenen Unglücksfall zurückzuführen ist,
@@ -61,6 +64,14 @@ zur amtlichen Fleischuntersuchung anzumelden und
 
 3.  
 im Falle von Schweinen, Pferden oder anderen Huftieren, die Träger von Trichinen sein können, zur amtlichen Untersuchung auf Trichinen anzumelden.
+
+Satz 1 Nummer 3 gilt nicht für die Schlachtung von
+
+1.  
+Hausschweinen, die zum Zeitpunkt der Schlachtung nicht abgesetzt und weniger als fünf Wochen alt sind, oder
+
+2.  
+anderen Hausschweinen in einem Haltungsbetrieb, der nach Artikel 8 Absatz 1 in Verbindung mit Anhang IV der Durchführungsverordnung (EU) 2015/1375 der Kommission vom 10. August 2015 mit spezifischen Vorschriften für die amtlichen Fleischuntersuchungen auf Trichinen (ABl. L 212 vom 11.8.2015, S. 7) in der geltenden Fassung amtlich anerkannt kontrollierte Haltungsbedingungen anwendet.
 
 (2) Die Anmeldung nach Absatz 1 hat unter Angabe des in Aussicht genommenen Zeitpunktes der Schlachtung oder Tötung zu erfolgen.
 
@@ -268,7 +279,7 @@ Abschnitt 4 Anforderungen an das Herstellen, Behandeln und Inverkehrbringen von 
 (1) Die Zulassung von Betrieben, die ihre Tätigkeit nach Artikel 4 Abs. 2 der Verordnung (EG) Nr. 853/2004 erst nach Zulassung aufnehmen dürfen, ist schriftlich bei der zuständigen Behörde zu beantragen. Dem Antrag sind mindestens
 
 1.  
-ein Betriebsspiegel, der die Angaben nach Form und Inhalt des Musters 1 der Anlage 6 und der entsprechenden Beiblätter nach Form und Inhalt der Muster 2 bis 8 der Anlage 6 enthält,
+ein Betriebsspiegel, der die Angaben nach Form und Inhalt des Musters 1 der Anlage 6 und der entsprechenden Beiblätter nach Form und Inhalt der Muster 2 bis 9 der Anlage 6 enthält,
 
 2.  
 ein Entwurf eines maßstabgetreuen Betriebsplanes, aus dem der Material- und Personalfluss sowie die Aufstellung der Maschinen ersichtlich sind, und
@@ -282,21 +293,29 @@ beizufügen. Abweichend von Satz 2 Nr. 2 sind dem Antrag im Falle handwerklich s
 
 ### § 10 Informationen zur Lebensmittelkette
 
-(1) Eine Standarderklärung mit Informationen zur Lebensmittelkette nach Anhang II Abschnitt III Nr. 4 Buchstabe b Satz 2 zweite Alternative der Verordnung (EG) Nr. 853/2004 muss vorbehaltlich Anhang II Abschnitt III Nr. 4 Buchstabe a Nr. i der Verordnung (EG) Nr. 853/2004 mindestens die Angaben nach Form und Inhalt des Musters der Anlage 7 enthalten. Im Falle der elektronischen Übermittlung der Informationen nach Anhang II Abschnitt III Nr. 4 Buchstabe b Satz 2 erste Alternative der Verordnung (EG) Nr. 853/2004 gelten die Anforderungen an den Mindestumfang der Informationen nach Satz 1 entsprechend.
+(1) Halter von Schlachttieren haben die nach Anhang II Abschnitt III Nummer 3 der Verordnung (EG) Nr. 853/2004 relevanten Informationen zur Lebensmittelkette, vorbehaltlich der Ausnahmeregelung des Anhangs II Abschnitt III Nummer 4 Buchstabe a der Verordnung (EG) Nr. 853/2004, dem Lebensmittelunternehmer, der einen Schlachthof betreibt, nach Maßgabe der Nummern 2 und 7 Satz 1 und 2 des Anhangs II Abschnitt III der Verordnung (EG) Nr. 853/2004 zu übermitteln.
 
-(2) § 1 der Verordnung mit Übergangsregelungen zur Einführung der Informationen zur Lebensmittelkette bleibt unberührt.
+(2) Werden die relevanten Informationen zur Lebensmittelkette nach Anhang II Abschnitt III Nummer 1 der Verordnung (EG) Nr. 853/2004 als Standarderklärung nach Anhang II Abschnitt III Nummer 4 Buchstabe b Satz 2 zweite Alternative der Verordnung (EG) Nr. 853/2004 übermittelt, müssen diese vorbehaltlich des Anhangs II Abschnitt III Nummer 4 Buchstabe a Nummer i der Verordnung (EG) Nr. 853/2004 mindestens die Angaben nach Form und Inhalt des Musters der Anlage 7 enthalten.
 
-### § 11 Zerlegung und Verarbeitung von Fleisch
+(3) Im Falle der elektronischen Übermittlung der Informationen nach Anhang II Abschnitt III Nummer 4 Buchstabe b Satz 2 erste Alternative der Verordnung (EG) Nr. 853/2004 gelten die Anforderungen an den Mindestumfang der Informationen nach den Absätzen 1 und 2 entsprechend.
 
-Es ist verboten, Fleisch in Schlachträumen zu zerlegen oder zu verarbeiten. Abweichend von Satz 1 darf in Schlachträumen handwerklich strukturierter Schlachthöfe in beengter räumlicher Lage Fleisch zerlegt werden, wenn Vorkehrungen zur Vermeidung einer Kontamination des Fleisches getroffen worden sind und die zuständige Behörde dies genehmigt hat.
+(4) Wer
+
+1.  
+nach Absatz 1 Informationen übermittelt oder
+
+2.  
+als Lebensmittelunternehmer, der einen Schlachthof betreibt, Informationen zur Lebensmittelkette nach Anhang II Abschnitt III Satz 1 der Verordnung (EG) Nr. 853/2004 einholt,
+
+hat hierüber Nachweise zu führen. Die Nachweise nach Satz 1 sind in übersichtlicher Weise geordnet und fortlaufend zu führen. Die Nachweise sind vom Zeitpunkt der Übermittlung oder Einholung der Informationen nach Satz 1 an zwölf Monate lang aufzubewahren, der zuständigen Behörde auf Verlangen vorzulegen und, soweit die Nachweise auf elektronischen Datenträgern abgespeichert sind, auf Verlangen der zuständigen Behörde auszudrucken.
+
+### § 11 (weggefallen)
 
 ### § 12 Schlachtungen außerhalb eines Schlachthofes
 
 (1) Tierkörper von als Haustiere gehaltenen Huftieren, die nach Anhang III Abschnitt I Kapitel VI der Verordnung (EG) Nr. 853/2004 außerhalb eines Schlachthofes notgeschlachtet worden sind, dürfen nur zu einem Schlachthof befördert werden, wenn ihnen ein Begleitschein nach Form und Inhalt des Musters der Anlage 8 beigefügt ist.
 
-(2) Fleisch von als Haustiere gehaltenen Huftieren, die nach Anhang III Abschnitt I Kapitel VI der Verordnung (EG) Nr. 853/2004 außerhalb eines Schlachthofes notgeschlachtet worden sind, darf nur in den Verkehr gebracht werden, wenn es mit einem Genusstauglichkeitskennzeichen nach § 8 Abs. 1 der Tierische Lebensmittel-Überwachungsverordnung amtlich gekennzeichnet ist. Dies gilt nicht für die Notschlachtung von Huftieren in mobilen Schlachteinheiten, die als Teil eines Schlachthofes zugelassen sind. Lebensmittelunternehmer, die Schlachthöfe betreiben, dürfen Fleisch nach Satz 1 nur an Betriebe des Einzelhandels abgeben.
-
-(3) Einzelne Huftiere der Gattung Rind, die ganzjährig im Freiland gehalten werden, dürfen mit Genehmigung der zuständigen Behörde im Haltungsbetrieb geschlachtet oder zur Gewinnung von Fleisch für den menschlichen Verzehr getötet werden, wenn die Anforderungen nach Anhang III Abschnitt III Nummer 3 Buchstabe a bis j der Verordnung (EG) Nr. 853/2004 eingehalten werden. Fleisch von nach Satz 1 geschlachteten oder getöteten Tieren darf abweichend von Anhang III Abschnitt I Kapitel IV Nummer 2 Buchstabe a der Verordnung (EG) Nr. 853/2004 für den menschlichen Verzehr verwendet werden. Nach Satz 1 geschlachtete oder getötete Tiere dürfen abweichend von Anhang III Abschnitt I Kapitel IV Nummer 2 Buchstabe b der Verordnung (EG) Nr. 853/2004 in einen Schlachthof verbracht werden. Die Beförderung der geschlachteten oder getöteten Tiere in den Schlachthof darf abweichend von Anhang III Abschnitt III Nummer 3 Buchstabe h der Verordnung (EG) Nr. 853/2004 nicht länger als eine Stunde dauern.
+(2) Einzelne Huftiere der Gattung Rind, die ganzjährig im Freiland gehalten werden, dürfen mit Genehmigung der zuständigen Behörde im Haltungsbetrieb geschlachtet oder zur Gewinnung von Fleisch für den menschlichen Verzehr getötet werden, wenn die Anforderungen nach Anhang III Abschnitt III Nummer 3 Buchstabe a bis j der Verordnung (EG) Nr. 853/2004 eingehalten werden. Fleisch von nach Satz 1 geschlachteten oder getöteten Tieren darf abweichend von Anhang III Abschnitt I Kapitel IV Nummer 2 Buchstabe a der Verordnung (EG) Nr. 853/2004 für den menschlichen Verzehr verwendet werden. Nach Satz 1 geschlachtete oder getötete Tiere dürfen abweichend von Anhang III Abschnitt I Kapitel IV Nummer 2 Buchstabe b der Verordnung (EG) Nr. 853/2004 in einen Schlachthof verbracht werden. Die Beförderung der geschlachteten oder getöteten Tiere in den Schlachthof darf abweichend von Anhang III Abschnitt III Nummer 3 Buchstabe h der Verordnung (EG) Nr. 853/2004 nicht länger als eine Stunde dauern.
 
 ### § 12a Ausnahmen für Wildfarmen mit geringem Produktionsvolumen an Schalenwild
 
@@ -511,9 +530,7 @@ mittels Schalmtests einer Untersuchung auf den Zellgehalt
 
 unterzogen worden ist.
 
-### § 20 Temperaturanforderungen für die Lagerung und Beförderung von Eiern
-
-Wer Hühnereier gewerbsmäßig in den Verkehr bringt, hat diese ab dem 18. Tag nach dem Legen bei einer Temperatur von + 5 °C bis + 8 °C zu lagern oder zu befördern.
+### § 20 (weggefallen)
 
 ### § 20a Besondere Anforderungen bei Abgabe roheihaltiger Lebensmittel
 
@@ -533,7 +550,7 @@ tiefgefroren, bei dieser Temperatur gehalten und innerhalb von 24 Stunden nach d
 
 Abweichend von Satz 1 dürfen die dort genannten Lebensmittel auch zum Verzehr außer Haus abgegeben werden, wenn am Ort der Abgabe auf oder neben dem jeweiligen Lebensmittel deutlich sichtbar der Hinweis „sofort verbrauchen“ angebracht ist.
 
-(2) In Einrichtungen zur Gemeinschaftsverpflegung für Menschen, die auf Grund ihres Alters, einer Erkrankung oder einer Beeinträchtigung des körpereigenen Abwehrsystems gegenüber lebensmittelbedingten Infektionen besonders empfindlich sind, dürfen Lebensmittel, die dort unter Verwendung roher Bestandteile von Eiern hergestellt worden sind, nur an Verbraucher abgeben werden, wenn die Lebensmittel einem Verfahren nach Absatz 3 unterzogen worden sind. Von verzehrsfertigen Lebensmitteln, die nach Satz 1 abgegeben werden, hat der Lebensmittelunternehmer vor der Abgabe eine Rückstellprobe, die mit dem Datum und der Uhrzeit der Herstellung zu kennzeichnen ist, anzufertigen und bei einer Temperatur von nicht mehr als –18 °C für die Dauer von sieben Tagen ab dem Zeitpunkt der Abgabe aufzubewahren. Die Rückstellproben sind der zuständigen Behörde auf Verlangen vorzulegen und auszuhändigen.
+(2) In Einrichtungen zur Gemeinschaftsverpflegung für Menschen, die auf Grund ihres Alters, einer Erkrankung oder einer Beeinträchtigung des körpereigenen Abwehrsystems gegenüber lebensmittelbedingten Infektionen besonders empfindlich sind, dürfen Lebensmittel, die dort unter Verwendung roher Bestandteile von Eiern hergestellt worden sind, nur an Verbraucher abgeben werden, wenn die Lebensmittel einem Verfahren nach Absatz 3 unterzogen worden sind.
 
 (3) Ein Verfahren im Sinne von Absatz 1 Satz 1 oder Absatz 2 Satz 1 ist jedes Erhitzungsverfahren, das die Abtötung von Salmonellen sicherstellt oder ein Verfahren gleicher Wirkung.
 
@@ -549,7 +566,7 @@ bei landwirtschaftlichen Nutztieren einschließlich Bienen nach Anwendung pharma
 
 und nach Maßgabe des Absatzes 4 Satz 1 hierüber Nachweise zu führen.
 
-(2) Wer Fleisch gewinnt oder bearbeitet, hat nach Maßgabe des Absatzes 4 Satz 1 Nachweise über Art, Menge und Verbleib des angefallenen Materials der Kategorie 1 nach Artikel 4 der Verordnung (EG) Nr. 1774/2002 des Europäischen Parlaments und des Rates vom 3. Oktober 2002 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte (ABl. EG Nr. L 273 S. 1) zu führen.
+(2) Wer Fleisch gewinnt oder bearbeitet, hat nach Maßgabe des Absatzes 4 Satz 1 Nachweise über Art, Menge und Verbleib des angefallenen Materials der Kategorie 1 nach Artikel 8 der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte) (ABl. L 300 vom 14.11.2009, S. 1) zu führen.
 
 (3) Wer nach § 17 Abs. 2 oder 3 Rohmilch abgibt, hat im Rahmen betriebseigener Kontrollen in Bezug auf die der Milchgewinnung dienenden Tiere nach Maßgabe des Absatzes 4 Satz 1 Nachweise zu führen über
 
@@ -604,30 +621,24 @@ entgegen § 5 Abs. 3 Nr. 2 kleine Mengen von erlegtem Wild abgibt,
 entgegen § 8 Eiprodukte, Flüssigei, Hackfleisch, Fleischzubereitungen aus Hackfleisch oder Fleischerzeugnisse herstellt oder ein Lebensmittel in den Verkehr bringt,
 
 4.  
-entgegen § 11 Satz 1 Fleisch zerlegt oder verarbeitet,
-
-5.  
-entgegen § 12 Abs. 2 Satz 3 Fleisch abgibt,
-
-5a.  
 entgegen § 12a Absatz 2 Fleisch von Schalenwild abgibt,
 
-6.  
+5.  
 entgegen § 17 Abs. 1 Rohmilch oder Rohrahm abgibt,
 
-7.  
+6.  
 entgegen § 18 Abs. 2 Satz 1 oder 3 dort bezeichnete Tiere nicht von der Gewinnung von Vorzugsmilch ausschließt oder in einen Bestand Vorzugsmilch liefernder Tiere einstellt,
 
-8.  
+7.  
 entgegen § 20a Absatz 1 Satz 1 oder Absatz 2 Satz 1 ein dort bezeichnetes Lebensmittel an Verbraucher abgibt,
 
-9.  
+8.  
 entgegen § 22 Absatz 1 Fleisch in den Verkehr bringt,
 
-10.  
+9.  
 entgegen § 22 Absatz 1a Fleisch zum Zwecke des menschlichen Verzehrs gewinnt oder in den Verkehr bringt oder
 
-11.  
+10.  
 entgegen § 22 Abs. 3 Eier an Verbraucher abgibt.
 
 (2) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer
@@ -660,15 +671,21 @@ entgegen § 22 Abs. 2 Geflügelfleisch in den Verkehr bringt.
 (2) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
 
 1.  
-entgegen § 3 Abs. 1 Satz 1 Nr. 1 oder 2, jeweils in Verbindung mit Anlage 1 Nr. 1.4 Satz 1, nicht Trinkwasser verwendet,
+entgegen § 2b Absatz 1 Nummer 2 oder Absatz 2 Satz 1 das Wild nicht, nicht richtig oder nicht rechtzeitig anmeldet,
 
 2.  
-entgegen § 3 Abs. 1 Satz 1 Nr. 2 in Verbindung mit Anlage 1 Nr. 3.3 oder 3.4 Satz 1 Austern nicht richtig aufbewahrt oder lebende Muscheln befördert oder abgibt,
+entgegen § 2c Absatz 1 Satz 1 oder Absatz 2 Fleisch oder Wild zubereitet oder be- oder verarbeitet,
 
 3.  
-entgegen § 3 Abs. 1 Satz 1 Nr. 4 in Verbindung mit Anlage 3 Nr. 1, 2, 3 oder 5 Fleisch von Geflügel oder Hasentieren gewinnt oder behandelt,
+entgegen § 3 Abs. 1 Satz 1 Nr. 1 oder 2, jeweils in Verbindung mit Anlage 1 Nr. 1.4 Satz 1, nicht Trinkwasser verwendet,
 
 4.  
+entgegen § 3 Abs. 1 Satz 1 Nr. 2 in Verbindung mit Anlage 1 Nr. 3.3 oder 3.4 Satz 1 Austern nicht richtig aufbewahrt oder lebende Muscheln befördert oder abgibt,
+
+5.  
+entgegen § 3 Abs. 1 Satz 1 Nr. 4 in Verbindung mit Anlage 3 Nr. 1, 2, 3 oder 5 Fleisch von Geflügel oder Hasentieren gewinnt oder behandelt,
+
+6.  
 entgegen § 3 Abs. 1 Satz 1 Nr. 5 in Verbindung mit
 
 a)  
@@ -677,19 +694,19 @@ Anlage 4 Nr. 1.1 Kleinwild nicht oder nicht rechtzeitig aufbricht oder nicht ode
 b)  
 Anlage 4 Nr. 1.4 Halbsatz 1 Eingeweide nicht oder nicht richtig kennzeichnet,
 
-5.  
+7.  
 entgegen § 4 Abs. 1 Satz 1 kleine Mengen von erlegtem Wild oder Fleisch von erlegtem Wild abgibt,
 
-6.  
+8.  
 entgegen § 4 Abs. 2 Satz 1, auch in Verbindung mit Satz 3, Wild nicht, nicht richtig oder nicht rechtzeitig zu den dort bezeichneten amtlichen Untersuchungen anmeldet,
 
-6a.  
+9.  
 entgegen § 4a Nummer 1 einen Tierkörper in den Verkehr bringt,
 
-7.  
+10.  
 entgegen § 5 Abs. 1 Satz 2 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-8.  
+11.  
 entgegen § 7 Satz 1 in Verbindung mit Anlage 5
 
 a)  
@@ -734,31 +751,31 @@ Kapitel V Nr. 1.1 Milch zur Herstellung von Milcherzeugnissen verwendet,
 n)  
 (weggefallen)
 
-9.  
-entgegen § 12 Abs. 1 einen Tierkörper befördert,
-
-10.  
-entgegen § 15 Abs. 3 Satz 1 Fleisch, Nebenprodukte der Schlachtung, Wildkörper oder Separatorenfleisch lagert oder befördert,
-
-11.  
-entgegen § 15 Abs. 4 Satz 1 in Verbindung mit Satz 2 Nr. 1 oder 2 ein Fischereierzeugnis abgibt,
-
 12.  
-entgegen § 18 Abs. 2 Satz 2 eine Untersuchung nicht, nicht richtig oder nicht rechtzeitig durchführt,
+entgegen § 10 Absatz 1 eine dort genannte Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
 
 13.  
-entgegen § 20 Hühnereier nicht richtig lagert oder nicht richtig befördert,
+entgegen § 10 Absatz 4 Satz 1 oder Satz 2 einen Nachweis nicht, nicht richtig oder nicht vollständig führt,
 
 14.  
-entgegen § 20a Absatz 2 Satz 2 eine Rückstellprobe nicht, nicht richtig oder nicht rechtzeitig anfertigt oder nicht, nicht richtig oder nicht für die vorgeschriebene Dauer aufbewahrt,
+entgegen § 10 Absatz 4 Satz 3 einen Nachweis nicht oder nicht mindestens zwölf Monate aufbewahrt oder nicht oder nicht rechtzeitig der zuständigen Behörde vorlegt,
 
 15.  
-entgegen § 20a Absatz 2 Satz 3 eine Rückstellprobe nicht oder nicht rechtzeitig vorlegt oder nicht oder nicht rechtzeitig aushändigt,
+entgegen § 12 Abs. 1 einen Tierkörper befördert,
 
 16.  
-entgegen § 21 Abs. 1 eine Überprüfung nicht, nicht richtig oder nicht rechtzeitig durchführt oder
+entgegen § 15 Abs. 3 Satz 1 Fleisch, Nebenprodukte der Schlachtung, Wildkörper oder Separatorenfleisch lagert oder befördert,
 
 17.  
+entgegen § 15 Abs. 4 Satz 1 in Verbindung mit Satz 2 Nr. 1 oder 2 ein Fischereierzeugnis abgibt,
+
+18.  
+entgegen § 18 Abs. 2 Satz 2 eine Untersuchung nicht, nicht richtig oder nicht rechtzeitig durchführt,
+
+19.  
+entgegen § 21 Abs. 1 eine Überprüfung nicht, nicht richtig oder nicht rechtzeitig durchführt oder
+
+20.  
 entgegen § 21 Abs. 1, 2 oder 3 einen Nachweis nicht, nicht richtig oder nicht vollständig führt.
 
 (3) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
@@ -775,14 +792,12 @@ entgegen § 15 Abs. 1 als Haustiere gehaltene Huftiere abgibt oder
 4.  
 entgegen § 15 Abs. 2 ein Identitätskennzeichen nicht richtig befestigt oder nicht richtig aufdruckt.
 
-Abschnitt 7 Schlussvorschriften
--------------------------------
+Abschnitt 7 (weggefallen)
+-------------------------
 
 ### 
 
-### § 25 Übergangsvorschriften
-
-Abweichend von § 2b Absatz 2 und § 4 Absatz 3 ist bis zum 20. November 2010 § 4 Absatz 2 in Verbindung mit Anlage 2 Kapitel VI Nummer 5 der Fleischhygiene-Verordnung in der Fassung der Bekanntmachung vom 29. Juni 2001 (BGBl. I S. 230, 231) in der bis zum 20. Mai 2010 geltenden Fassung weiter anzuwenden. Wildursprungsscheine, die nach Form und Inhalt dem Muster der Anlage 8a nicht entsprechen, können bis zum 20. November 2011 weiterverwendet werden.
+### § 25 (weggefallen)
 
 ### Anlage 1 (zu § 3 Abs. 1 Satz 1 Nr. 1 und 2) Anforderungen an die Abgabe kleiner Mengen von Fischereierzeugnissen oder von lebenden Muscheln
 
@@ -873,7 +888,7 @@ Die Eier müssen bei einer – möglichst konstanten – Temperatur aufbewahrt u
 
 ### Anlage 3 (zu § 3 Abs. 1 Satz 1 Nr. 4)Anforderungen an die Abgabe kleiner Mengen von Fleisch von Geflügel oder Hasentieren
 
-( Fundstelle: BGBl. I 2007, 1836 )
+(Fundstelle: BGBl. I 2007, 1836)
 
 Fleisch von Geflügel oder Hasentieren darf nur in Räumen gewonnen oder behandelt werden, in denen
 
@@ -887,7 +902,7 @@ Desinfektionseinrichtungen für Arbeitsgeräte mit einer Wassertemperatur von mi
 Vorrichtungen oder Behältnisse, die verhindern, dass Fleisch unmittelbar mit dem Fußboden oder den Wänden in Berührung kommt,
 
 4.  
-erforderlichenfalls abschließbare Einrichtungen für die Kühllagerung von tierischen Nebenprodukten im Sinne des Artikels 2 Abs. 1 Buchstabe a der Verordnung (EG) Nr. 1774/2002,
+erforderlichenfalls abschließbare Einrichtungen für die Kühllagerung von tierischen Nebenprodukten im Sinne des Artikels 3 Nummer 1 der Verordnung (EG) Nr. 1069/2009,
 
 5.  
 Kühleinrichtungen, die gewährleisten, dass das Fleisch so schnell wie möglich auf die Innentemperatur von + 4 °C herabgekühlt und diese Temperatur bei der Lagerung eingehalten wird,
@@ -1198,7 +1213,7 @@ Augen und Augenlider,
 Hornhaut und
 
 2.7  
-von Geflügel Speiseröhre, Kropf, Geschlechtsorgane, alle Eingeweide und Kopf, ausgenommen Kamm, Ohrläppchen, Kehllappen und Fleischwarzen.
+von Geflügel Speiseröhre, Kropf, Geschlechtsorgane, alle Därme und Kopf, ausgenommen Kamm, Ohrläppchen, Kehllappen und Fleischwarzen.
 
 Kapitel IV
 
@@ -1232,7 +1247,7 @@ andere als die in den Nummern 2.1.1 und 2.1.2 genannten Arbeitsgänge.
 Anforderungen an Rohstoffe
 
 2.2.1  
-Für die Herstellung von Eiprodukten oder Flüssigei dürfen Schalen von Eiern nur verwendet werden, wenn sie voll entwickelt und unbeschädigt sind. Abweichend von Satz 1 dürfen Knickeier verwendet werden, wenn sie vom Erzeugerbetrieb oder von der Packstelle unmittelbar an den verarbeitenden Betrieb geliefert werden und dort umgehend aufgeschlagen werden.
+Für die Herstellung von Eiprodukten oder Flüssigei dürfen Eier nur verwendet werden, deren Schalen voll entwickelt und unbeschädigt sind. Abweichend von Satz 1 dürfen Knickeier verwendet werden, wenn sie vom Erzeugerbetrieb oder von der Packstelle unmittelbar an den verarbeitenden Betrieb geliefert werden und dort umgehend aufgeschlagen werden.
 
 2.2.2  
 Eier, die zur Herstellung von Eiprodukten und Flüssigei aufgeschlagen werden, müssen sauber und trocken sein.
@@ -1256,7 +1271,7 @@ Eier von anderen Tierarten als Hühnern, Truthühnern und Perlhühnern müssen g
 Nach dem Aufschlagen müssen alle Teile des Flüssigeis vorbehaltlich Nummer 2.3.4 unverzüglich einer Bearbeitung unterzogen werden, die mikrobiologische Gefahren beseitigt oder reduziert. Unzureichend bearbeitete Partien sind unverzüglich einer erneuten Bearbeitung zu unterziehen. Abweichend von Satz 1 ist eine Bearbeitung von Eiweiß zur Herstellung von getrocknetem oder kristallisiertem Albumin, das anschließend hitzebehandelt werden soll, nicht erforderlich.
 
 2.3.4  
-Erfolgt die Bearbeitung von Flüssigei abweichend von Nummer 2.3.3 nicht unverzüglich nach dem Aufschlagen, so ist das Flüssigei unter hygienischen Bedingungen entweder tiefgefroren, gefroren oder bei einer Temperatur von höchstens + 4 °C zu lagern. Die Lagerzeit bei + 4 °C bis zur Verarbeitung darf48 Stunden nicht überschreiten. Satz 2 gilt nicht für Erzeugnisse, die einer Entzuckerung unterzogen werden sollen, sofern die Entzuckerung so bald wie möglich erfolgt.
+Erfolgt die Bearbeitung von Flüssigei abweichend von Nummer 2.3.3 nicht unverzüglich nach dem Aufschlagen, so ist das Flüssigei unter hygienischen Bedingungen entweder tiefgefroren, gefroren oder bei einer Temperatur von höchstens + 4 °C zu lagern. Die Lagerzeit bei + 4 °C bis zur Verarbeitung darf 48 Stunden nicht überschreiten. Satz 2 gilt nicht für Erzeugnisse, die einer Entzuckerung unterzogen werden sollen, sofern die Entzuckerung so bald wie möglich erfolgt.
 
 2.3.5  
 Eiprodukte, die nicht bei Umgebungstemperatur haltbar sind, sind sofort nach der Fermentation (Entzuckerung) zu trocknen oder auf eine Temperatur abzukühlen, die + 4 °C nicht überschreitet. Sollen die Eiprodukte eingefroren werden, sind sie unmittelbar nach der Bearbeitung einzufrieren.
@@ -1348,7 +1363,7 @@ Unbeschadet der in Kapitel I Nr. 2.3 und 2.4 und Kapitel II Nr. 3.2 geregelten F
 
 ### Anlage 6 (zu § 9 Abs. 1 Satz 2 Nr. 1)
 
-( Fundstelle: BGBl. I 2007, 1843 - 1857 )
+(Fundstelle: BGBl. I 2007, 1843 - 1857)
 
 Muster 1
 **Betriebsspiegel (allgemeine Angaben)**
@@ -2206,7 +2221,7 @@ Menge in kg pro Woche:
 
 |                                              |             |
 |----------------------------------------------|-------------|
-| Zulassung nach Verordnung (EG) Nr. 1774/2002 | ⃞ beantragt |
+| Zulassung nach Verordnung (EG) Nr. 1069/2009 | ⃞ beantragt |
 |                                              | ⃞ vorhanden |
 
 **1.2**  
@@ -2356,15 +2371,69 @@ Sonstiges
 | ⃞ ja | Zeitabstand der Inventuren......................................... | ⃞ nein |
 
 10.  
-**Weitere Zulassungen nach der Verordnung (EG) Nr. 1774/2002**
+**Weitere Zulassungen nach der Verordnung (EG) Nr. 1069/2009**
 
 |      |                                                                  |        |
 |------|------------------------------------------------------------------|--------|
 | ⃞ ja | Art und Zulassungsnummer........................................ | ⃞ nein |
 
+Muster 9
+**Beiblatt Großküche zum Betriebsspiegel**
+
+**Produktionsverfahren**
+
+|                                 |                            |
+|---------------------------------|----------------------------|
+| Frischkost (Cook and Serve)     |  ⃞ ja                      |
+| Warmkost (Cook, Hold and Serve) |  ⃞ ja                      |
+| Kühlkost (Cook and Chill)       |  ⃞ ja                      |
+| Tiefkühlkost (Cook and Freeze)  |  ⃞ ja                      |
+| Erhitzen (Regenerieren)         |  ⃞ ja                      |
+| Sonstiges:                      |                            |
+|  ⃞ Produktion ganzjährig        |  ⃞ Saisonbetrieb (von/bis) |
+| Lebensmitteltransport           |  ⃞ ja                      |
+
+**Beantragte Be- oder Verarbeitung von unverarbeiteten Lebensmitteln tierischen Ursprungs**
+
+Verwendung ja/nein
+
+frisches Fleisch von Rindern, Schweinen, Ziegen, Schafen oder Pferden
+
+Hackfleisch/Fleischzubereitungen
+
+frisches Wildfleisch
+
+frisches Geflügelfleisch
+
+frischer Fisch
+
+rohe Eier oder nicht pasteurisiertes Flüssigei
+
+Rohmilch, Rohrahm
+
+lebende Muscheln
+
+unverarbeitete Froschschenkel oder Schnecken
+
+**Beantragte Herstellungsmenge an Speisen pro Woche (Gesamtmenge in Portionen)**
+
+Gesamtmenge pro Woche
+
+Feinkostsalate
+
+Suppen/Eintöpfe
+
+Gerichte für den Kaltverzehr
+
+Gerichte für den Warmverzehr
+
+Desserts/Feinbackwaren
+
+Gesamtmenge Portionen
+
 Zutreffendes angeben, ggf. weitere Tierarten aufnehmen.Zutreffendes angeben, ggf. weitere Tierarten aufnehmen.Zutreffendes bitte ankreuzen und ggf. ergänzen.Zutreffendes ankreuzen.Zutreffendes bitte angeben und ggf. weitere Produktarten ergänzen, z. B. Sushi, Surimi, panierte Fischereierzeugnisse.Zutreffendes bitte ankreuzen und ggf. ergänzen.Bitte differenzieren, z. B. Tierart, Art des Milcherzeugnisses oder Art des Verarbeitungserzeugnisses, z. B. Fleisch-, Fischerzeugnisse, Eiprodukte, Gelatine angeben.Bitte Zutreffendes angeben, ggf. weitere Produkte ergänzen.Behandlungsverfahren nach Anhang I Nr. 4.1 der VO (EG) Nr. 853/2004, z. B. Mikrofiltration.Zutreffendes bitte ankreuzen und ggf. Art der hergestellten Eiprodukte ergänzen.
 
-### Anlage 7 (zu § 10 Abs. 1)Informationen zur Lebensmittelsicherheit nach Anhang II Abschnitt III Nr. 1 in Verbindung mit Nr. 3 und 4 Buchstabe b Satz 2 der Verordnung (EG) Nr. 853/2004 für Tiere, die in einen Schlachthof verbracht wurden oder verbracht werden sollen
+### Anlage 7 (zu § 10 Absatz 2)Informationen zur Lebensmittelsicherheit nach Anhang II Abschnitt III Nr. 1 in Verbindung mit Nr. 3 und 4 Buchstabe b Satz 2 der Verordnung (EG) Nr. 853/2004 für Tiere, die in einen Schlachthof verbracht wurden oder verbracht werden sollen
 
 (Fundstelle: BGBl. I 2007, 1858)
 
@@ -2435,14 +2504,35 @@ Standarderklärung**Der Lebensmittelunternehmer, der für den Herkunftsbetrieb d
 1.  
 Über den Tiergesundheitsstatus des Herkunftsbetriebes, den Gesundheitsstatus der Tiere und zu Produktionsdaten, die das Auftreten einer Krankheit anzeigen könnten, liegen keine relevanten Informationen vor. Dem Herkunftsbetrieb sind keine relevanten Informationen über frühere Schlachttier- und Fleischuntersuchungen bekannt.
 
+1a.  
+Bei Schweine haltenden Betrieben amtlich anerkannte Anwendung kontrollierter Haltungsbedingungen ⃞ Ja ⃞ Nein
+
 2.  
 Es liegen keine Anzeichen für das Auftreten von Krankheiten vor, die die Sicherheit des Fleisches beeinträchtigen könnten.
 
 3.  
-Im Zeitraum von 7 Tagen vor Verbringung der Tiere zur Schlachtung bestanden keine Wartezeiten für verabreichte Tierarzneimittel und wurden keine sonstigen Behandlungen durchgeführt, ausgenommen ..................................................... (z. B. Repellentien).            
+Im Zeitraum von 7 Tagen vor Verbringung der Tiere zur Schlachtung, im Falle von Masthähnchen während der gesamten Mastperiode, bestanden
+
+ ⃞  
+keine Wartezeiten für verabreichte Tierarzneimittel
+
+ ⃞  
+Wartezeiten für folgende Tierarzneimittel:
+
+Tier
+(Kennzeichnung)
+
+Tierarzneimittel
+
+Wartezeit
+
+Datum der
+Verabreichung
+
+Es wurden keine sonstigen Behandlungen durchgeführt, ausgenommen  (z. B. Repellentien).
 
 4.  
-Es liegen keine Ergebnisse von Probenanalysen vor, die für den Schutz der öffentlichen Gesundheit von Bedeutung sind, ausgenommen .................................................. (z. B. Salmonellenstatus).   
+Es liegen keine Ergebnisse von Probenanalysen vor, die für den Schutz der öffentlichen Gesundheit von Bedeutung sind, ausgenommen .................................................. (insbesondere Salmonellenstatus).   
 
 5.  
 Name und Anschrift des privaten, normalerweise hinzugezogenen Tierarztes:Name: ....................................................Anschrift:................................................Telefon:...................................................  Fax:.................................................
