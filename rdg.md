@@ -4,6 +4,15 @@ Gesetz über außergerichtliche Rechtsdienstleistungen (RDG)
 Stand  
 Zuletzt geändert durch Art. 16 G v. 6.12.2011 I 2515
 
+Hinweis  
+Änderung durch Art. 49 G v. 23.7.2013 I 2586 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 14 G v. 25.7.2013 I 2749 (Nr. 43) berücksichtigt
+
+Hinweis  
+Änderung durch Art. 1 G v. 1.10.2013 I 3714 (Nr. 59) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
@@ -53,9 +62,11 @@ durch registrierte Personen
 | § 11  | Besondere Sachkunde, Berufsbezeichnungen             |
 | § 12  | Registrierungsvoraussetzungen                        |
 | § 13  | Registrierungsverfahren                              |
+| § 13a | Aufsichtsmaßnahmen                                   |
 | § 14  | Widerruf der Registrierung                           |
 | § 15  | Vorübergehende Rechtsdienstleistungen                |
 | § 15a | Statistik                                            |
+| § 15b | Betrieb ohne Registrierung                           |
 
 Teil 4
 
@@ -209,7 +220,7 @@ Inkassodienstleistungen (§ 2 Abs. 2 Satz 1),
 Rentenberatung auf dem Gebiet der gesetzlichen Renten- und Unfallversicherung, des sozialen Entschädigungsrechts, des übrigen Sozialversicherungs- und Schwerbehindertenrechts mit Bezug zu einer gesetzlichen Rente sowie der betrieblichen und berufsständischen Versorgung,
 
 3.  
-Rechtsdienstleistungen in einem ausländischen Recht; ist das ausländische Recht das Recht eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum, darf auch auf dem Gebiet des Rechts der Europäischen Union und des Rechts des Europäischen Wirtschaftsraums beraten werden.
+Rechtsdienstleistungen in einem ausländischen Recht; ist das ausländische Recht das Recht eines Mitgliedstaates der Europäischen Union, eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz, darf auch auf dem Gebiet des Rechts der Europäischen Union und des Rechts des Europäischen Wirtschaftsraums beraten werden.
 
 Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Teilbereiche der in Satz 1 genannten Bereiche zu bestimmen.
 
@@ -251,7 +262,7 @@ eine Berufshaftpflichtversicherung mit einer Mindestversicherungssumme von 250 
 
 (2) Die Vermögensverhältnisse einer Person sind in der Regel ungeordnet, wenn über ihr Vermögen das Insolvenzverfahren eröffnet worden oder sie in das vom Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2 der Insolvenzordnung, § 882b der Zivilprozessordnung) eingetragen ist. Ungeordnete Vermögensverhältnisse liegen nicht vor, wenn im Fall der Insolvenzeröffnung die Gläubigerversammlung einer Fortführung des Unternehmens auf der Grundlage eines Insolvenzplans zugestimmt und das Gericht den Plan bestätigt hat, oder wenn die Vermögensinteressen der Rechtsuchenden aus anderen Gründen nicht konkret gefährdet sind.
 
-(3) Die theoretische Sachkunde ist gegenüber der zuständigen Behörde durch Zeugnisse nachzuweisen. Praktische Sachkunde setzt in der Regel eine mindestens zwei Jahre unter Anleitung erfolgte Berufsausübung oder praktische Berufsausbildung voraus. Besitzt die Person eine Berufsqualifikation, die in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erforderlich ist, um in dessen Gebiet einen in § 10 Abs. 1 genannten oder einen vergleichbaren Beruf auszuüben, oder hat sie einen solchen Beruf während der vorhergehenden zehn Jahre vollzeitlich zwei Jahre in einem Mitgliedstaat ausgeübt, der diesen Beruf nicht reglementiert, so ist die Sachkunde unter Berücksichtigung dieser Berufsqualifikation oder Berufsausübung durch einen mindestens sechsmonatigen Anpassungslehrgang nachzuweisen. Das Berufsqualifikationsfeststellungsgesetz ist nicht anzuwenden.
+(3) Die theoretische Sachkunde ist gegenüber der zuständigen Behörde durch Zeugnisse nachzuweisen. Praktische Sachkunde setzt in der Regel eine mindestens zwei Jahre unter Anleitung erfolgte Berufsausübung oder praktische Berufsausbildung voraus. Besitzt die Person eine Berufsqualifikation, die in einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz erforderlich ist, um in dem Gebiet dieses Staates einen in § 10 Absatz 1 genannten oder einen vergleichbaren Beruf auszuüben, oder hat die Person einen solchen Beruf während der vorhergehenden zehn Jahre in Vollzeit zwei Jahre in einem der genannten Staaten ausgeübt, der diesen Beruf nicht reglementiert, so ist die Sachkunde unter Berücksichtigung dieser Berufsqualifikation oder Berufsausübung durch einen mindestens sechsmonatigen Anpassungslehrgang nachzuweisen. Das Berufsqualifikationsfeststellungsgesetz ist nicht anzuwenden.
 
 (4) Juristische Personen und Gesellschaften ohne Rechtspersönlichkeit müssen mindestens eine natürliche Person benennen, die alle nach Absatz 1 Nr. 1 und 2 erforderlichen Voraussetzungen erfüllt (qualifizierte Person). Die qualifizierte Person muss in dem Unternehmen dauerhaft beschäftigt, in allen Angelegenheiten, die Rechtsdienstleistungen des Unternehmens betreffen, weisungsunabhängig und weisungsbefugt sowie zur Vertretung nach außen berechtigt sein. Registrierte Einzelpersonen können qualifizierte Personen benennen.
 
@@ -280,9 +291,25 @@ In den Fällen des § 12 Abs. 4 müssen die in Satz 3 genannten Unterlagen sowie
 
 (2) Über den Antrag ist innerhalb einer Frist von drei Monaten zu entscheiden; § 42a Absatz 2 Satz 2 bis 4 des Verwaltungsverfahrensgesetzes gilt entsprechend. Wenn die Registrierungsvoraussetzungen nach § 12 Absatz 1 Nummer 1 und 2 sowie Absatz 4 vorliegen, fordert die zuständige Behörde den Antragsteller vor Ablauf der Frist nach Satz 1 auf, den Nachweis über die Berufshaftpflichtversicherung sowie über die Erfüllung von Bedingungen (§ 10 Absatz 3 Satz 1) zu erbringen. Sobald diese Nachweise erbracht sind, nimmt sie die Registrierung vor und veranlasst ihre öffentliche Bekanntmachung im Rechtsdienstleistungsregister.
 
-(3) Registrierte Personen oder ihre Rechtsnachfolger müssen alle Änderungen, die sich auf die Registrierung oder den Inhalt des Rechtsdienstleistungsregisters auswirken, der zuständigen Behörde unverzüglich schriftlich mitteilen. Diese veranlasst die notwendigen Registrierungen und ihre öffentliche Bekanntmachung im Rechtsdienstleistungsregister. Wirkt sich eine Verlegung der Hauptniederlassung auf die Zuständigkeit nach Absatz 1 Satz 1 aus, so gibt die Behörde den Vorgang an die Behörde ab, die für den Ort der neuen Hauptniederlassung zuständig ist. Diese unterrichtet die registrierte Person über die erfolgte Übernahme, registriert die Änderung und veranlasst ihre öffentliche Bekanntmachung im Rechtsdienstleistungsregister.
+(3) Registrierte Personen oder ihre Rechtsnachfolger müssen alle Änderungen, die sich auf die Registrierung oder den Inhalt des Rechtsdienstleistungsregisters auswirken, der zuständigen Behörde unverzüglich in Textform mitteilen. Diese veranlasst die notwendigen Registrierungen und ihre öffentliche Bekanntmachung im Rechtsdienstleistungsregister. Wirkt sich eine Verlegung der Hauptniederlassung auf die Zuständigkeit nach Absatz 1 Satz 1 aus, so gibt die Behörde den Vorgang an die Behörde ab, die für den Ort der neuen Hauptniederlassung zuständig ist. Diese unterrichtet die registrierte Person über die erfolgte Übernahme, registriert die Änderung und veranlasst ihre öffentliche Bekanntmachung im Rechtsdienstleistungsregister.
 
 (4) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Registrierungsverfahrens zu regeln. Dabei sind insbesondere Aufbewahrungs- und Löschungsfristen vorzusehen.
+
+### § 13a Aufsichtsmaßnahmen
+
+(1) Die zuständige Behörde übt die Aufsicht über die Einhaltung dieses Gesetzes aus.
+
+(2) Die zuständige Behörde trifft gegenüber Personen, die Rechtsdienstleistungen erbringen, Maßnahmen, um die Einhaltung dieses Gesetzes sicherzustellen. Sie kann insbesondere Auflagen nach § 10 Absatz 3 Satz 3 anordnen oder ändern.
+
+(3) Die zuständige Behörde kann einer Person, die Rechtsdienstleistungen erbringt, den Betrieb vorübergehend ganz oder teilweise untersagen, wenn begründete Tatsachen die Annahme rechtfertigen, dass
+
+1.  
+eine Voraussetzung für die Registrierung nach § 12 weggefallen ist oder
+
+2.  
+erheblich oder dauerhaft gegen Pflichten verstoßen wird.
+
+(4) Soweit es zur Erfüllung der der zuständigen Behörde als Aufsichtsbehörde übertragenen Aufgaben erforderlich ist, hat die Person, die Rechtsdienstleistungen erbringt, der zuständigen Behörde und den in ihrem Auftrag handelnden Personen das Betreten der Geschäftsräume während der üblichen Betriebszeiten zu gestatten, auf Verlangen die in Betracht kommenden Bücher, Aufzeichnungen, Belege, Schriftstücke und sonstigen Unterlagen in geeigneter Weise zur Einsicht vorzulegen, auch soweit sie elektronisch geführt werden, Auskunft zu erteilen und die erforderliche Unterstützung zu gewähren. Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft verweigern, wenn er sich damit selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr der Verfolgung wegen einer Straftat oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Er ist auf dieses Recht hinzuweisen.
 
 ### § 14 Widerruf der Registrierung
 
@@ -302,12 +329,12 @@ wenn eine juristische Person oder eine Gesellschaft ohne Rechtspersönlichkeit, 
 
 ### § 15 Vorübergehende Rechtsdienstleistungen
 
-(1) Natürliche und juristische Personen sowie Gesellschaften ohne Rechtspersönlichkeit, die in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zur Ausübung eines in § 10 Abs. 1 genannten oder eines vergleichbaren Berufs rechtmäßig niedergelassen sind, dürfen diesen Beruf auf dem Gebiet der Bundesrepublik Deutschland mit denselben Befugnissen wie eine nach § 10 Abs. 1 registrierte Person vorübergehend und gelegentlich ausüben (vorübergehende Rechtsdienstleistungen). Wenn weder der Beruf noch die Ausbildung zu diesem Beruf im Staat der Niederlassung reglementiert sind, gilt dies nur, wenn die Person oder Gesellschaft den Beruf dort während der vorhergehenden zehn Jahre mindestens zwei Jahre ausgeübt hat. Ob Rechtsdienstleistungen vorübergehend und gelegentlich erbracht werden, ist insbesondere anhand ihrer Dauer, Häufigkeit, regelmäßigen Wiederkehr und Kontinuität zu beurteilen.
+(1) Natürliche und juristische Personen sowie Gesellschaften ohne Rechtspersönlichkeit, die in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz zur Ausübung eines in § 10 Abs. 1 genannten oder eines vergleichbaren Berufs rechtmäßig niedergelassen sind, dürfen diesen Beruf auf dem Gebiet der Bundesrepublik Deutschland mit denselben Befugnissen wie eine nach § 10 Abs. 1 registrierte Person vorübergehend und gelegentlich ausüben (vorübergehende Rechtsdienstleistungen). Wenn weder der Beruf noch die Ausbildung zu diesem Beruf im Staat der Niederlassung reglementiert sind, gilt dies nur, wenn die Person oder Gesellschaft den Beruf dort während der vorhergehenden zehn Jahre mindestens zwei Jahre ausgeübt hat. Ob Rechtsdienstleistungen vorübergehend und gelegentlich erbracht werden, ist insbesondere anhand ihrer Dauer, Häufigkeit, regelmäßigen Wiederkehr und Kontinuität zu beurteilen.
 
-(2) Vorübergehende Rechtsdienstleistungen sind nur zulässig, wenn die Person oder Gesellschaft vor der ersten Erbringung von Dienstleistungen im Inland der nach § 13 Abs. 1 Satz 2 zuständigen Behörde in Textform Meldung erstattet. Die Meldung muss neben den nach § 16 Abs. 2 Nr. 1 Buchstabe a bis c im Rechtsdienstleistungsregister öffentlich bekanntzumachenden Angaben enthalten:
+(2) Vorübergehende Rechtsdienstleistungen sind nur zulässig, wenn die Person oder Gesellschaft vor der ersten Erbringung von Dienstleistungen im Inland der nach § 13 Abs. 1 Satz 2 zuständigen Behörde in Textform eine Meldung mit dem Inhalt nach Satz 2 erstattet. Die Meldung muss neben den nach § 16 Abs. 2 Nr. 1 Buchstabe a bis c im Rechtsdienstleistungsregister öffentlich bekanntzumachenden Angaben enthalten:
 
 1.  
-eine Bescheinigung darüber, dass die Person oder Gesellschaft in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum rechtmäßig zur Ausübung eines der in § 10 Abs. 1 genannten Berufe oder eines vergleichbaren Berufs niedergelassen ist und dass ihr die Ausübung dieser Tätigkeit zum Zeitpunkt der Vorlage der Bescheinigung nicht, auch nicht vorübergehend, untersagt ist,
+eine Bescheinigung darüber, dass die Person oder Gesellschaft in einem Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz rechtmäßig zur Ausübung eines der in § 10 Abs. 1 genannten Berufe oder eines vergleichbaren Berufs niedergelassen ist und dass ihr die Ausübung dieser Tätigkeit zum Zeitpunkt der Vorlage der Bescheinigung nicht, auch nicht vorübergehend, untersagt ist,
 
 2.  
 einen Nachweis darüber, dass die Person oder Gesellschaft den Beruf im Staat der Niederlassung während der vorhergehenden zehn Jahre mindestens zwei Jahre rechtmäßig ausgeübt hat, wenn der Beruf dort nicht reglementiert ist,
@@ -329,6 +356,10 @@ die Angabe der Berufsbezeichnung, unter der die Tätigkeit im Inland zu erbringe
 ### § 15a Statistik
 
 Über Verfahren nach § 12 Absatz 3 Satz 3 und § 15 wird eine Bundesstatistik durchgeführt. § 17 des Berufsqualifikationsfeststellungsgesetzes ist anzuwenden.
+
+### § 15b Betrieb ohne Registrierung
+
+Werden Rechtsdienstleistungen ohne erforderliche Registrierung oder vorübergehende Registrierung erbracht, so kann die zuständige Behörde die Fortsetzung des Betriebs verhindern.
 
 Teil 4 Rechtsdienstleistungsregister
 ------------------------------------
@@ -411,7 +442,7 @@ Teil 5 Datenübermittlung und Zuständigkeiten, Bußgeldvorschriften
 
 (1) Die zuständigen Behörden dürfen einander und anderen für die Durchführung dieses Gesetzes zuständigen Behörden Daten über Registrierungen nach § 9 Abs. 2, § 10 Abs. 1 und § 15 Abs. 3 übermitteln, soweit die Kenntnis der Daten zur Durchführung dieses Gesetzes erforderlich ist. Sie dürfen die nach § 16 Abs. 2 öffentlich bekanntzumachenden Daten längstens für die Dauer von drei Jahren nach Löschung der Veröffentlichung zentral und länderübergreifend in einer Datenbank speichern und aus dieser im automatisierten Verfahren abrufen; § 16 Abs. 3 Satz 2 gilt entsprechend. Gerichte und Behörden dürfen der zuständigen Behörde personenbezogene Daten, deren Kenntnis für die Registrierung, den Widerruf der Registrierung oder für eine Untersagung nach § 9 Abs. 1 oder § 15 Abs. 5 erforderlich ist, übermitteln, soweit dadurch schutzwürdige Interessen der Person nicht beeinträchtigt werden oder das öffentliche Interesse das Geheimhaltungsinteresse der Person überwiegt.
 
-(2) Die zuständige Behörde darf zum Zweck der Prüfung einer Untersagung nach § 15 Abs. 5 von der zuständigen Behörde des Staates der Niederlassung Informationen über die Rechtmäßigkeit der Niederlassung und über das Vorliegen berufsbezogener disziplinarischer oder strafrechtlicher Sanktionen anfordern und ihr zum Zweck der Prüfung weiterer Maßnahmen die Entscheidung über eine Untersagung nach § 15 Abs. 5 mitteilen. Sie leistet Amtshilfe, wenn die zuständige Behörde eines anderen Mitgliedstaates der Europäischen Union darum unter Berufung auf die Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. EU Nr. L 255 S. 22) ersucht, und darf zu diesem Zweck personenbezogene Daten, deren Kenntnis für eine berufsbezogene disziplinarische oder strafrechtliche Maßnahme oder ein Beschwerdeverfahren erforderlich ist, von Gerichten und Behörden anfordern und an die zuständige Behörde des anderen Mitgliedstaates übermitteln.
+(2) Die zuständige Behörde darf zum Zweck der Prüfung einer Untersagung nach § 15 Abs. 5 von der zuständigen Behörde des Staates der Niederlassung Informationen über die Rechtmäßigkeit der Niederlassung und über das Vorliegen berufsbezogener disziplinarischer oder strafrechtlicher Sanktionen anfordern und ihr zum Zweck der Prüfung weiterer Maßnahmen die Entscheidung über eine Untersagung nach § 15 Abs. 5 mitteilen. Sie leistet Amtshilfe, wenn die zuständige Behörde eines anderen Mitgliedstaates der Europäischen Union, eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz darum unter Berufung auf die Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. EU Nr. L 255 S. 22) ersucht, und darf zu diesem Zweck personenbezogene Daten, deren Kenntnis für eine berufsbezogene disziplinarische oder strafrechtliche Maßnahme oder ein Beschwerdeverfahren erforderlich ist, von Gerichten und Behörden anfordern und an die zuständige Behörde des anderen Mitgliedstaates übermitteln.
 
 (3) Das Bundesministerium der Justiz wird ermächtigt, die Einzelheiten des Umgangs mit personenbezogenen Daten, insbesondere der Veröffentlichung in dem Rechtsdienstleistungsregister, der Einsichtnahme in das Register, der Datenübermittlung einschließlich des automatisierten Datenabrufs und der Amtshilfe, durch Rechtsverordnung mit Zustimmung des Bundesrates zu regeln. Dabei ist sicherzustellen, dass die Veröffentlichungen auch während der Datenübermittlung unversehrt, vollständig und aktuell bleiben und jederzeit ihrem Ursprung nach zugeordnet werden können.
 
@@ -426,12 +457,29 @@ Teil 5 Datenübermittlung und Zuständigkeiten, Bußgeldvorschriften
 (1) Ordnungswidrig handelt, wer
 
 1.  
-ohne die nach § 10 Abs. 1 erforderliche Registrierung eine dort genannte Rechtsdienstleistung erbringt,
+einer vollziehbaren Anordnung nach § 9 Absatz 1 Satz 1 oder § 15 Absatz 5 Satz 1 zuwiderhandelt,
 
 2.  
-einer vollziehbaren Anordnung nach § 9 Abs. 1 oder § 15 Abs. 5 zuwiderhandelt oder
+ohne Registrierung nach § 10 Absatz 1 Satz 1 eine dort genannte Rechtsdienstleistung erbringt,
 
 3.  
-entgegen § 11 Abs. 4 eine dort genannte Berufsbezeichnung oder Bezeichnung führt.
+einer vollziehbaren Auflage nach § 10 Absatz 3 Satz 1 zuwiderhandelt oder
 
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
+4.  
+entgegen § 11 Absatz 4 eine dort genannte Berufsbezeichnung oder Bezeichnung führt.
+
+(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
+
+1.  
+entgegen § 11a Absatz 1 Satz 1 eine dort genannte Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+
+2.  
+entgegen § 11a Absatz 1 Satz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+3.  
+entgegen § 15 Absatz 2 Satz 1 eine vorübergehende Rechtsdienstleistung erbringt oder
+
+4.  
+entgegen § 15 Absatz 2 Satz 4 eine dort genannte Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig wiederholt.
+
+(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
