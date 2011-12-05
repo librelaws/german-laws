@@ -1298,7 +1298,7 @@ wenn der Bewerber aus gesundheitlichen Gründen nicht nur vorübergehend unfähi
 wenn der Bewerber eine Tätigkeit ausübt, die mit dem Beruf des Rechtsanwalts, insbesondere seiner Stellung als unabhängiges Organ der Rechtspflege nicht vereinbar ist oder das Vertrauen in seine Unabhängigkeit gefährden kann;
 
 9.  
-wenn der Bewerber sich im Vermögensverfall befindet; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen des Bewerbers eröffnet oder der Bewerber in das vom Insolvenzgericht oder vom Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2 der Insolvenzordnung, § 915 der Zivilprozeßordnung) eingetragen ist;
+wenn der Bewerber sich im Vermögensverfall befindet; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen des Bewerbers eröffnet oder der Bewerber in das vom Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2 der Insolvenzordnung, § 882b der Zivilprozeßordnung) eingetragen ist;
 
 10.  
 wenn der Bewerber Richter, Beamter, Berufssoldat oder Soldat auf Zeit ist, es sei denn, daß er die ihm übertragenen Aufgaben ehrenamtlich wahrnimmt oder daß seine Rechte und Pflichten auf Grund der §§ 5, 6, 8 und 36 des Abgeordnetengesetzes vom 18. Februar 1977 (BGBl. I S. 297) oder entsprechender Rechtsvorschriften ruhen.
@@ -1378,7 +1378,7 @@ wenn der Rechtsanwalt zum Richter oder Beamten auf Lebenszeit ernannt, in das Di
 (weggefallen)
 
 7.  
-wenn der Rechtsanwalt in Vermögensverfall geraten ist, es sei denn, daß dadurch die Interessen der Rechtsuchenden nicht gefährdet sind; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen des Rechtsanwalts eröffnet oder der Rechtsanwalt in das Insolvenzgericht oder vom Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2 der Insolvenzordnung, § 915 der Zivilprozeßordnung) eingetragen ist;
+wenn der Rechtsanwalt in Vermögensverfall geraten ist, es sei denn, daß dadurch die Interessen der Rechtsuchenden nicht gefährdet sind; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen des Rechtsanwalts eröffnet oder der Rechtsanwalt vom Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2 der Insolvenzordnung, § 882b der Zivilprozeßordnung) eingetragen ist;
 
 8.  
 wenn der Rechtsanwalt eine Tätigkeit ausübt, die mit seinem Beruf, insbesondere seiner Stellung als unabhängiges Organ der Rechtspflege nicht vereinbar ist oder das Vertrauen in seine Unabhängigkeit gefährden kann; dies gilt nicht, wenn der Widerruf für ihn eine unzumutbare Härte bedeuten würde;
