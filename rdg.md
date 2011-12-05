@@ -249,7 +249,7 @@ theoretische und praktische Sachkunde in dem Bereich oder den Teilbereichen des 
 3.  
 eine Berufshaftpflichtversicherung mit einer Mindestversicherungssumme von 250 000 Euro für jeden Versicherungsfall.
 
-(2) Die Vermögensverhältnisse einer Person sind in der Regel ungeordnet, wenn über ihr Vermögen das Insolvenzverfahren eröffnet worden oder sie in das vom Insolvenzgericht oder vom Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2 der Insolvenzordnung, § 915 der Zivilprozessordnung) eingetragen ist. Ungeordnete Vermögensverhältnisse liegen nicht vor, wenn im Fall der Insolvenzeröffnung die Gläubigerversammlung einer Fortführung des Unternehmens auf der Grundlage eines Insolvenzplans zugestimmt und das Gericht den Plan bestätigt hat, oder wenn die Vermögensinteressen der Rechtsuchenden aus anderen Gründen nicht konkret gefährdet sind.
+(2) Die Vermögensverhältnisse einer Person sind in der Regel ungeordnet, wenn über ihr Vermögen das Insolvenzverfahren eröffnet worden oder sie in das vom Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2 der Insolvenzordnung, § 882b der Zivilprozessordnung) eingetragen ist. Ungeordnete Vermögensverhältnisse liegen nicht vor, wenn im Fall der Insolvenzeröffnung die Gläubigerversammlung einer Fortführung des Unternehmens auf der Grundlage eines Insolvenzplans zugestimmt und das Gericht den Plan bestätigt hat, oder wenn die Vermögensinteressen der Rechtsuchenden aus anderen Gründen nicht konkret gefährdet sind.
 
 (3) Die theoretische Sachkunde ist gegenüber der zuständigen Behörde durch Zeugnisse nachzuweisen. Praktische Sachkunde setzt in der Regel eine mindestens zwei Jahre unter Anleitung erfolgte Berufsausübung oder praktische Berufsausbildung voraus. Besitzt die Person eine Berufsqualifikation, die in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erforderlich ist, um in dessen Gebiet einen in § 10 Abs. 1 genannten oder einen vergleichbaren Beruf auszuüben, oder hat sie einen solchen Beruf während der vorhergehenden zehn Jahre vollzeitlich zwei Jahre in einem Mitgliedstaat ausgeübt, der diesen Beruf nicht reglementiert, so ist die Sachkunde unter Berücksichtigung dieser Berufsqualifikation oder Berufsausübung durch einen mindestens sechsmonatigen Anpassungslehrgang nachzuweisen. Das Berufsqualifikationsfeststellungsgesetz ist nicht anzuwenden.
 
@@ -268,7 +268,7 @@ eine zusammenfassende Darstellung des beruflichen Ausbildungsgangs und der bishe
 ein Führungszeugnis nach § 30 Abs. 5 des Bundeszentralregistergesetzes,
 
 3.  
-eine Erklärung, ob ein Insolvenzverfahren anhängig oder in den letzten drei Jahren vor Antragstellung eine Eintragung in ein Schuldnerverzeichnis (§ 26 Abs. 2 der Insolvenzordnung, § 915 der Zivilprozessordnung) erfolgt ist,
+eine Erklärung, ob ein Insolvenzverfahren anhängig oder in den letzten drei Jahren vor Antragstellung eine Eintragung in ein Schuldnerverzeichnis (§ 26 Abs. 2 der Insolvenzordnung, § 882b der Zivilprozessordnung) erfolgt ist,
 
 4.  
 eine Erklärung, ob in den letzten drei Jahren vor Antragstellung eine Registrierung oder eine Zulassung zur Rechtsanwaltschaft versagt, zurückgenommen oder widerrufen wurde oder ein Ausschluss aus der Rechtsanwaltschaft erfolgt ist, und, wenn dies der Fall ist, eine Kopie des Bescheids,
