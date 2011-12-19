@@ -7,6 +7,12 @@ Zuletzt geändert durch Art. 19 G v. 20.12.2011 I 2854
 Sonst  
 Mittelbare Änderung durch Art. 18 G v. 20.12.2011 I 2854 ist berücksichtigt
 
+Hinweis  
+Änderung durch Art. 1 G v. 15.7.2013 I 2379 (Nr. 38) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 6 G v. 31.8.2013 I 3533 (Nr. 55) noch nicht berücksichtigt
+
 ### 
 
 ```
@@ -273,7 +279,7 @@ Die Eröffnung des Insolvenzverfahrens setzt voraus, daß ein Eröffnungsgrund g
 
 § 19 Abs. 2: Gilt infolge Aufhebung des Art. 6 Abs. 3 G v. 17.10.2008 I 1982 (FMStG) durch Art. 18 G v. 5.12.2012 I 2418 mWv 12.12.2012 über den 1.1.2014 hinaus wieder in der am 1.11.2008 geltenden Fassung
 
-### § 20 Auskunfts- und Mitwirkungspflicht im Eröffnungsverfahren\*. Hinweis auf Restschuldbefreiung
+### § 20 Auskunfts- und Mitwirkungspflicht im Eröffnungsverfahren. Hinweis auf Restschuldbefreiung
 
 (1) Ist der Antrag zulässig, so hat der Schuldner dem Insolvenzgericht die Auskünfte zu erteilen, die zur Entscheidung über den Antrag erforderlich sind, und es auch sonst bei der Erfüllung seiner Aufgaben zu unterstützen. Die §§ 97, 98, 101 Abs. 1 Satz 1, 2, Abs. 2 gelten entsprechend.
 
@@ -649,7 +655,7 @@ Dritter Abschnitt Insolvenzverwalter. Organe der Gläubiger
 (1) Zum Insolvenzverwalter ist eine für den jeweiligen Einzelfall geeignete, insbesondere geschäftskundige und von den Gläubigern und dem Schuldner unabhängige natürliche Person zu bestellen, die aus dem Kreis aller zur Übernahme von Insolvenzverwaltungen bereiten Personen auszuwählen ist. Die Bereitschaft zur Übernahme von Insolvenzverwaltungen kann auf bestimmte Verfahren beschränkt werden. Die erforderliche Unabhängigkeit wird nicht schon dadurch ausgeschlossen, dass die Person
 
 1.  
-vom Schuldner oder von einem Gläubiger vorgeschlagen worden ist,
+vom Schuldner oder von einem Gläubiger vorgeschlagen worden ist oder
 
 2.  
 den Schuldner vor dem Eröffnungsantrag in allgemeiner Form über den Ablauf eines Insolvenzverfahrens und dessen Folgen beraten hat.
@@ -701,6 +707,8 @@ Die Verjährung des Anspruchs auf Ersatz des Schadens, der aus einer Pflichtverl
 (1) Der Insolvenzverwalter hat Anspruch auf Vergütung für seine Geschäftsführung und auf Erstattung angemessener Auslagen. Der Regelsatz der Vergütung wird nach dem Wert der Insolvenzmasse zur Zeit der Beendigung des Insolvenzverfahrens berechnet. Dem Umfang und der Schwierigkeit der Geschäftsführung des Verwalters wird durch Abweichungen vom Regelsatz Rechnung getragen.
 
 (2) Sind die Kosten des Verfahrens nach § 4a gestundet, steht dem Insolvenzverwalter für seine Vergütung und seine Auslagen ein Anspruch gegen die Staatskasse zu, soweit die Insolvenzmasse dafür nicht ausreicht.
+
+(3) Die Tätigkeit des vorläufigen Insolvenzverwalters wird gesondert vergütet. Er erhält in der Regel 25 Prozent der Vergütung des Insolvenzverwalters bezogen auf das Vermögen, auf das sich seine Tätigkeit während des Eröffnungsverfahrens erstreckt. Maßgebend für die Wertermittlung ist der Zeitpunkt der Beendigung der vorläufigen Verwaltung oder der Zeitpunkt, ab dem der Gegenstand nicht mehr der vorläufigen Verwaltung unterliegt. Beträgt die Differenz des tatsächlichen Werts der Berechnungsgrundlage der Vergütung zu dem der Vergütung zugrunde gelegten Wert mehr als 20 Prozent, so kann das Gericht den Beschluss über die Vergütung des vorläufigen Insolvenzverwalters bis zur Rechtskraft der Entscheidung über die Vergütung des Insolvenzverwalters ändern.
 
 ### § 64 Festsetzung durch das Gericht
 
