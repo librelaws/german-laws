@@ -4,10 +4,13 @@ Insolvenzordnung (InsO)
 Stand  
 Zuletzt geändert durch Art. 19 G v. 20.12.2011 I 2854
 
+Sonst  
+Mittelbare Änderung durch Art. 18 G v. 20.12.2011 I 2854 ist berücksichtigt
+
 ### 
 
 ```
-(+++ Textnachweis ab:  1. 1.1999 +++)
+(+++ Textnachweis ab: 1.1.1999 +++)
 ```
 
 Das G ist nach seinem § 335 iVm Art. 110 Abs. 1 nach Maßgabe d. Abs. 2 EGInsO 311-14-1 am 1.1.1999 in Kraft getreten.
@@ -268,6 +271,8 @@ Die Eröffnung des Insolvenzverfahrens setzt voraus, daß ein Eröffnungsgrund g
 
 (3) Ist bei einer Gesellschaft ohne Rechtspersönlichkeit kein persönlich haftender Gesellschafter eine natürliche Person, so gelten die Absätze 1 und 2 entsprechend. Dies gilt nicht, wenn zu den persönlich haftenden Gesellschaftern eine andere Gesellschaft gehört, bei der ein persönlich haftender Gesellschafter eine natürliche Person ist.
 
+§ 19 Abs. 2: Gilt infolge Aufhebung des Art. 6 Abs. 3 G v. 17.10.2008 I 1982 (FMStG) durch Art. 18 G v. 5.12.2012 I 2418 mWv 12.12.2012 über den 1.1.2014 hinaus wieder in der am 1.11.2008 geltenden Fassung
+
 ### § 20 Auskunfts- und Mitwirkungspflicht im Eröffnungsverfahren\*. Hinweis auf Restschuldbefreiung
 
 (1) Ist der Antrag zulässig, so hat der Schuldner dem Insolvenzgericht die Auskünfte zu erteilen, die zur Entscheidung über den Antrag erforderlich sind, und es auch sonst bei der Erfüllung seiner Aufgaben zu unterstützen. Die §§ 97, 98, 101 Abs. 1 Satz 1, 2, Abs. 2 gelten entsprechend.
@@ -362,7 +367,7 @@ im Jahresdurchschnitt mindestens fünfzig Arbeitnehmer.
 
 (1) Das Insolvenzgericht weist den Antrag auf Eröffnung des Insolvenzverfahrens ab, wenn das Vermögen des Schuldners voraussichtlich nicht ausreichen wird, um die Kosten des Verfahrens zu decken. Die Abweisung unterbleibt, wenn ein ausreichender Geldbetrag vorgeschossen wird oder die Kosten nach § 4a gestundet werden. Der Beschluss ist unverzüglich öffentlich bekannt zu machen.
 
-(2) Das Gericht hat die Schuldner, bei denen der Eröffnungsantrag mangels Masse abgewiesen worden ist, in ein Verzeichnis einzutragen (Schuldnerverzeichnis). Die Vorschriften über das Schuldnerverzeichnis nach der Zivilprozeßordnung gelten entsprechend; jedoch beträgt die Löschungsfrist fünf Jahre.
+(2) Das Gericht ordnet die Eintragung des Schuldners, bei dem der Eröffnungsantrag mangels Masse abgewiesen worden ist, in das Schuldnerverzeichnis nach § 882b der Zivilprozessordnung an und übermittelt die Anordnung unverzüglich elektronisch dem zentralen Vollstreckungsgericht nach § 882h Abs. 1 der Zivilprozessordnung. § 882c Abs. 3 der Zivilprozessordnung gilt entsprechend.
 
 (3) Wer nach Absatz 1 Satz 2 einen Vorschuß geleistet hat, kann die Erstattung des vorgeschossenen Betrages von jeder Person verlangen, die entgegen den Vorschriften des Insolvenz- oder Gesellschaftsrechts den Antrag auf Eröffnung des Insolvenzverfahrens pflichtwidrig und schuldhaft nicht gestellt hat. Ist streitig, ob die Person pflichtwidrig und schuldhaft gehandelt hat, so trifft sie die Beweislast.
 
@@ -966,7 +971,7 @@ wenn der Schuldner sich der Erfüllung seiner Auskunfts- und Mitwirkungspflichte
 3.  
 wenn dies zur Vermeidung von Handlungen des Schuldners, die der Erfüllung seiner Auskunfts- und Mitwirkungspflichten zuwiderlaufen, insbesondere zur Sicherung der Insolvenzmasse, erforderlich ist.
 
-(3) Für die Anordnung von Haft gelten die §§ 904 bis 906, 909, 910 und 913 der Zivilprozeßordnung entsprechend. Der Haftbefehl ist von Amts wegen aufzuheben, sobald die Voraussetzungen für die Anordnung von Haft nicht mehr vorliegen. Gegen die Anordnung der Haft und gegen die Abweisung eines Antrags auf Aufhebung des Haftbefehls wegen Wegfalls seiner Voraussetzungen findet die sofortige Beschwerde statt.
+(3) Für die Anordnung von Haft gelten die § 802g Abs. 2, §§ 802h und 802j Abs. 1 der Zivilprozeßordnung entsprechend. Der Haftbefehl ist von Amts wegen aufzuheben, sobald die Voraussetzungen für die Anordnung von Haft nicht mehr vorliegen. Gegen die Anordnung der Haft und gegen die Abweisung eines Antrags auf Aufhebung des Haftbefehls wegen Wegfalls seiner Voraussetzungen findet die sofortige Beschwerde statt.
 
 ### § 99 Postsperre
 
