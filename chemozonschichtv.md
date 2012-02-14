@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 15.2.2012 I 409;
 
 Stand  
-zuletzt geändert durch Art. 5 Abs. 41 G v. 24.2.2012 I 212 (1474)
+zuletzt geändert durch Art. 5 Abs. 5 G v. 20.10.2015 I 1739
 
 ### 
 
@@ -30,7 +30,7 @@ zuletzt geändert durch Art. 5 Abs. 41 G v. 24.2.2012 I 212 (1474)
 (2) Diese Verordnung gilt nicht
 
 1.  
-auf Seeschiffen unter fremder Flagge oder auf Seeschiffen, für die das Bundesministerium für Verkehr, Bau und Stadtentwicklung nach § 10 des Flaggenrechtsgesetzes in der Fassung der Bekanntmachung vom 26. Oktober 1994 (BGBl. I S. 3140), das zuletzt durch Artikel 2 Absatz 6 des Gesetzes vom 25. Juni 2009 (BGBl. I S. 1574) geändert worden ist, die Befugnis zur Führung der Bundesflagge zur ersten Überführungsreise in einen anderen Hafen verliehen hat,
+auf Seeschiffen unter fremder Flagge oder auf Seeschiffen, für die das Bundesministerium für Verkehr und digitale Infrastruktur nach § 10 des Flaggenrechtsgesetzes in der Fassung der Bekanntmachung vom 26. Oktober 1994 (BGBl. I S. 3140), das zuletzt durch Artikel 2 Absatz 6 des Gesetzes vom 25. Juni 2009 (BGBl. I S. 1574) geändert worden ist, die Befugnis zur Führung der Bundesflagge zur ersten Überführungsreise in einen anderen Hafen verliehen hat,
 
 2.  
 an Bord von Wasserfahrzeugen, sofern der Heimatort dieser Fahrzeuge nicht im Geltungsbereich dieser Verordnung liegt,
@@ -44,7 +44,7 @@ Wer nach Maßgabe des Artikels 13 Absatz 1 der Verordnung (EG) Nr. 1005/2009 fü
 
 ### § 3 Rückgewinnung und Rücknahme verwendeter Stoffe
 
-(1) Für die Rückgewinnung von geregelten Stoffen im Sinne von Artikel 3 Nummer 4 der Verordnung (EG) Nr. 1005/2009 nach Artikel 22 Absatz 1 und 4 der Verordnung (EG) Nr. 1005/2009 ist der Betreiber, sofern ein solcher fehlt, der Besitzer der Einrichtung oder des Produkts, das den geregelten Stoff enthält, verantwortlich. Der Verantwortliche nach Satz 1 kann die Erfüllung seiner Verpflichtungen Dritten übertragen. Die Sätze 1 und 2 gelten nicht für Elektro- und Elektronikgeräte, die nach den §§ 11 und 12 des Elektro- und Elektronikgerätegesetzes vom 16. März 2005 (BGBl. I S. 762), das zuletzt durch Artikel 5 des Gesetzes vom 11. August 2010 (BGBl. I S. 1163) geändert worden ist, zu behandeln und zu verwerten sind. Die Sätze 1 und 2 gelten außerdem nicht für Altfahrzeuge, die nach § 5 Abs. 2 der Altfahrzeug-Verordnung in der Fassung der Bekanntmachung vom 21. Juni 2002 (BGBl. I S. 2214), die zuletzt durch Artikel 1 der Verordnung vom 9. November 2010 (BGBl. I S. 1504) geändert worden ist, zu behandeln und zu verwerten sind.
+(1) Für die Rückgewinnung von geregelten Stoffen im Sinne von Artikel 3 Nummer 4 der Verordnung (EG) Nr. 1005/2009 nach Artikel 22 Absatz 1 und 4 der Verordnung (EG) Nr. 1005/2009 ist der Betreiber, sofern ein solcher fehlt, der Besitzer der Einrichtung oder des Produkts, das den geregelten Stoff enthält, verantwortlich. Der Verantwortliche nach Satz 1 kann die Erfüllung seiner Verpflichtungen Dritten übertragen. Die Sätze 1 und 2 gelten nicht für Elektro- und Elektronikgeräte, die nach den §§ 20 bis 22 des Elektro- und Elektronikgerätegesetzes vom 20. Oktober 2015 (BGBl. I S. 1739) zu behandeln und zu verwerten sind. Die Sätze 1 und 2 gelten außerdem nicht für Altfahrzeuge, die nach § 5 Abs. 2 der Altfahrzeug-Verordnung in der Fassung der Bekanntmachung vom 21. Juni 2002 (BGBl. I S. 2214), die zuletzt durch Artikel 1 der Verordnung vom 9. November 2010 (BGBl. I S. 1504) geändert worden ist, zu behandeln und zu verwerten sind.
 
 (2) Hersteller und Vertreiber der in Absatz 1 genannten Stoffe sind verpflichtet, diese nach Gebrauch zurückzunehmen oder die Rücknahme durch einen von ihnen bestimmten Dritten sicherzustellen. Satz 1 gilt nicht, soweit die Vorschriften der Verordnung über die Entsorgung gebrauchter halogenierter Lösemittel vom 23. Oktober 1989 (BGBl. I S. 1918), die durch Artikel 7b der Verordnung vom 20. Oktober 2006 (BGBl. I S. 2298) geändert worden ist, anzuwenden sind.
 
@@ -56,7 +56,7 @@ nach Absatz 2 Stoffe zurücknimmt oder
 2.  
 als Betreiber einer Entsorgungsanlage in Absatz 1 genannte Stoffe entsorgt,
 
-hat über Art und Menge der zurückgenommenen oder entsorgten Stoffe sowie über deren Verbleib Aufzeichnungen zu führen. Die Aufzeichnungen sind nach ihrer Erstellung mindestens drei Jahre lang aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen. Soweit der Betreiber einer Entsorgungsanlage nach § 49 des Kreislaufwirtschaftsgesetzes in Verbindung mit Teil 3 der Nachweisverordnung vom 20. Oktober 2006 (BGBl. I S. 2298), die durch Artikel 4 des Gesetzes vom 19. Juli 2007 (BGBl. I S. 1462) geändert worden ist, in der jeweils geltenden Fassung, über die Entsorgung geregelter Stoffe im Sinne von Artikel 3 Nummer 4 der Verordnung (EG) Nr. 1005/2009 Register zu führen hat, werden die nach Satz 1 erforderlichen Aufzeichnungen durch die Register nach der Nachweisverordnung ersetzt. In diesem Fall ist bei der Führung des Registers nach § 24 Absatz 2 der Nachweisverordnung in den in das Register einzustellenden Begleitdokumenten zusätzlich im Feld „Frei für Vermerke” und bei Führung der Register nach § 24 Absatz 4 und 5 der Nachweisverordnung zusätzlich zur Angabe des Abfallschlüssels und der Abfallart jeweils der entsorgte Stoff oder die entsprechende Stoffgruppe nach Anhang I der Verordnung (EG) Nr. 1005/2009 zu nennen und anzugeben, ob eine Verwertung oder Beseitigung erfolgte. Die Bestimmungen zur elektronischen Nachweis- und Registerführung nach den §§ 17 bis 22 der Nachweisverordnung finden entsprechende Anwendung mit der Maßgabe, dass die für die zusätzlichen Angaben nach Satz 4 erforderlichen Schnittstellen nach § 18 Absatz 1 Satz 2 der Nachweisverordnung vom Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit bekannt gegeben werden.
+hat über Art und Menge der zurückgenommenen oder entsorgten Stoffe sowie über deren Verbleib Aufzeichnungen zu führen. Die Aufzeichnungen sind nach ihrer Erstellung mindestens drei Jahre lang aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen. Soweit der Betreiber einer Entsorgungsanlage nach § 49 des Kreislaufwirtschaftsgesetzes in Verbindung mit Teil 3 der Nachweisverordnung vom 20. Oktober 2006 (BGBl. I S. 2298), die durch Artikel 4 des Gesetzes vom 19. Juli 2007 (BGBl. I S. 1462) geändert worden ist, in der jeweils geltenden Fassung, über die Entsorgung geregelter Stoffe im Sinne von Artikel 3 Nummer 4 der Verordnung (EG) Nr. 1005/2009 Register zu führen hat, werden die nach Satz 1 erforderlichen Aufzeichnungen durch die Register nach der Nachweisverordnung ersetzt. In diesem Fall ist bei der Führung des Registers nach § 24 Absatz 2 der Nachweisverordnung in den in das Register einzustellenden Begleitdokumenten zusätzlich im Feld „Frei für Vermerke” und bei Führung der Register nach § 24 Absatz 4 und 5 der Nachweisverordnung zusätzlich zur Angabe des Abfallschlüssels und der Abfallart jeweils der entsorgte Stoff oder die entsprechende Stoffgruppe nach Anhang I der Verordnung (EG) Nr. 1005/2009 zu nennen und anzugeben, ob eine Verwertung oder Beseitigung erfolgte. Die Bestimmungen zur elektronischen Nachweis- und Registerführung nach den §§ 17 bis 22 der Nachweisverordnung finden entsprechende Anwendung mit der Maßgabe, dass die für die zusätzlichen Angaben nach Satz 4 erforderlichen Schnittstellen nach § 18 Absatz 1 Satz 2 der Nachweisverordnung vom Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit bekannt gegeben werden.
 
 ### § 4 Verhinderung des Austritts in die Atmosphäre; Dichtheitsprüfungen; Aufzeichnungs- und Aufbewahrungspflicht
 
@@ -131,9 +131,9 @@ entgegen § 5 Absatz 1 Satz 1 Nummer 1 eine dort genannte Tätigkeit durchführt
 
 (2) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 7 Buchstabe c des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 4 Absatz 3 Satz 1 nicht sicherstellt, dass eine dort genannte Aufzeichnung geführt, vorgelegt und aufbewahrt wird.
 
-(3) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 11 Satz 1 des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 22 Absatz 1 oder Absatz 4 der Verordnung (EG) Nr. 1005/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über Stoffe, die zum Abbau der Ozonschicht führen (ABl. L 286 vom 31.10.2009, S. 1), in Verbindung mit § 3 Absatz 1 Satz 1 oder Satz 2 dieser Verordnung einen geregelten Stoff, der in einem dort genannten Produkt oder in einer dort genannten Einrichtung oder Vorrichtung enthalten ist, nicht zurückgewinnt.
+(3) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 3 Absatz 2 Satz 1 einen dort genannten Stoff nicht zurücknimmt und die Rücknahme durch einen Dritten nicht sicherstellt.
 
-(4) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 3 Absatz 2 Satz 1 einen dort genannten Stoff nicht zurücknimmt und die Rücknahme durch einen Dritten nicht sicherstellt.
+(4)
 
 (5) Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 3 Absatz 3 Satz 1 oder Satz 2 eine dort genannte Aufzeichnung nicht, nicht richtig oder nicht vollständig führt, nicht oder nicht mindestens drei Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt.
 
