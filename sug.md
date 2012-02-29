@@ -2,19 +2,10 @@ Gesetz zur Verbesserung der Sicherheit der Seefahrt durch die Untersuchung von S
 ==========================================================================================================================
 
 Neuf  
-Neugefasst durch Bek. v. 1.3.2012 I 390;
+Neugefasst durch Bek. v. 1.3.2012 I 390
 
 Stand  
-Geändert durch Art. 5 V v. 8.3.2012 I 483
-
-Hinweis  
-Änderung durch Art. 2 Abs. 168 G v. 7.8.2013 I 3154 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 4 Abs. 136 G v. 7.8.2013 I 3154 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 16 Abs. 22 G v. 19.10.2013 I 3836 (Nr. 63) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+zuletzt geändert durch Art. 552 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -52,7 +43,7 @@ Fischereifahrzeugen mit einer Länge von weniger als 15 Metern,
 4.  
 fest installierten Offshore-Bohreinheiten.
 
-Im Übrigen wird für die Sicherheitsuntersuchung von Seeunfällen, an denen ein militärisches Schiff beteiligt ist und durch die überwiegend militärische Belange berührt werden, zwischen dem Bundesministerium für Verkehr, Bau und Stadtentwicklung und dem Bundesministerium der Verteidigung eine geeignete Regelung getroffen.
+Im Übrigen wird für die Sicherheitsuntersuchung von Seeunfällen, an denen ein militärisches Schiff beteiligt ist und durch die überwiegend militärische Belange berührt werden, zwischen dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Bundesministerium der Verteidigung eine geeignete Regelung getroffen.
 
 (4) Abweichend von Absatz 3 ist Abschnitt 3 auf Seeunfälle in deutschen Hoheitsgewässern und in der deutschen ausschließlichen Wirtschaftszone mit ausschließlicher Beteiligung der in Absatz 3 Satz 1 Nummer 2 oder 3 genannten Schiffe und Fahrzeuge anzuwenden, sofern im Zusammenhang mit dem Betrieb des Schiffes oder Fahrzeuges ein Seeunfall im Sinne des § 1a Nummer 1 eingetreten ist und
 
@@ -259,13 +250,13 @@ Unterabschnitt 2 Organisation
 
 ### § 12 Bundesstelle für Seeunfalluntersuchung
 
-(1) Die Bundesstelle für Seeunfalluntersuchung (Bundesstelle) ist eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Verkehr, Bau und Stadtentwicklung. Ihr obliegt die amtliche Sicherheitsuntersuchung von Seeunfällen nach diesem Abschnitt. Die Bundesstelle wird von einem Direktor geleitet und im Übrigen mit Beamten und Beamtinnen sowie Tarifbeschäftigten in erforderlicher Anzahl besetzt.
+(1) Die Bundesstelle für Seeunfalluntersuchung (Bundesstelle) ist eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur. Ihr obliegt die amtliche Sicherheitsuntersuchung von Seeunfällen nach diesem Abschnitt. Die Bundesstelle wird von einem Direktor geleitet und im Übrigen mit Beamten und Beamtinnen sowie Tarifbeschäftigten in erforderlicher Anzahl besetzt.
 
 (2) Die Bundesstelle nimmt ihre Aufgaben funktionell und organisatorisch unabhängig von allen natürlichen und juristischen Personen wahr, deren Interessen mit ihren Aufgaben kollidieren könnten.
 
 (3) Weisungen hinsichtlich der Einleitung oder Nichteinleitung sowie des Inhalts und des Umfangs einer Untersuchung sowie des Untersuchungsberichts oder der Sicherheitsempfehlungen dürfen der Bundesstelle nicht erteilt werden; die Bundesstelle darf gleichwohl erteilte Weisungen nicht befolgen.
 
-(4) Dem Direktor der Bundesstelle sind die Untersuchungsführer, Untersuchungsfachkräfte und weitere Fachkräfte unterstellt. Die Bundesstelle kann sich geeigneter privater Personen als Untersuchungsbeauftragte bedienen, die im Einzelfall nach Weisung der Bundesstelle und unter ihrer Fachaufsicht als deren Hilfsorgane arbeiten. Die Bundesstelle bestimmt den Umfang der von den Beauftragten durchzuführenden Untersuchungstätigkeit sowie ihre Rechte und Pflichten nach Maßgabe dieses Gesetzes. Die Beauftragten erhalten aus Mitteln der Bundesstelle Reisekostenvergütung nach den für Bundesbeamte geltenden Vorschriften und eine Entschädigung, die vom Bundesministerium für Verkehr, Bau und Stadtentwicklung festgesetzt wird. Dieser Satz gilt entsprechend für Mitglieder der Kammer im Sinne des § 32, die nicht der Bundesstelle angehören.
+(4) Dem Direktor der Bundesstelle sind die Untersuchungsführer, Untersuchungsfachkräfte und weitere Fachkräfte unterstellt. Die Bundesstelle kann sich geeigneter privater Personen als Untersuchungsbeauftragte bedienen, die im Einzelfall nach Weisung der Bundesstelle und unter ihrer Fachaufsicht als deren Hilfsorgane arbeiten. Die Bundesstelle bestimmt den Umfang der von den Beauftragten durchzuführenden Untersuchungstätigkeit sowie ihre Rechte und Pflichten nach Maßgabe dieses Gesetzes. Die Beauftragten erhalten aus Mitteln der Bundesstelle Reisekostenvergütung nach den für Bundesbeamte geltenden Vorschriften und eine Entschädigung, die vom Bundesministerium für Verkehr und digitale Infrastruktur festgesetzt wird. Dieser Satz gilt entsprechend für Mitglieder der Kammer im Sinne des § 32, die nicht der Bundesstelle angehören.
 
 (5) Der Direktor der Bundesstelle und die Untersuchungsführer dürfen neben ihrem Amt kein anderes besoldetes Amt, kein Gewerbe und keinen Beruf ausüben und weder der Leitung oder dem Aufsichtsrat oder Verwaltungsrat eines auf Erwerb gerichteten Unternehmens noch einer gesetzgebenden Körperschaft des Bundes oder eines Landes angehören. Sie dürfen nicht gegen Entgelt außergerichtliche Gutachten abgeben. Sie dürfen keiner der in Absatz 2 genannten juristischen Personen angehören, sie vertreten, sie beraten oder für sie als Gutachter oder Sachverständige tätig werden.
 
@@ -275,7 +266,7 @@ Unterabschnitt 2 Organisation
 
 (1) Die Bundesstelle arbeitet mit der Bundesstelle für Flugunfalluntersuchung zusammen, soweit dies – insbesondere aus wirtschaftlichen oder technischen Gründen – zweckmäßig erscheint.
 
-(2) Die Bundesstelle kann insbesondere die Berufsgenossenschaft für Transport und Verkehrswirtschaft als Schiffssicherheitsbehörde, das Bundesamt für Seeschifffahrt und Hydrographie sowie die Wasser- und Schifffahrtsdirektionen Nord und Nordwest zur Hilfe heranziehen, es sei denn, nach den konkreten Umständen ist nicht auszuschließen, dass der untersuchte Seeunfall durch deren Verhalten oder ein Verhalten von deren Bediensteten oder von Bediensteten der Wasser- und Schifffahrtsverwaltung ihres Amtsbezirks mitverursacht wurde.
+(2) Die Bundesstelle kann insbesondere die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation als Schiffssicherheitsbehörde, das Bundesamt für Seeschifffahrt und Hydrographie sowie die Wasser- und Schifffahrtsdirektionen Nord und Nordwest zur Hilfe heranziehen, es sei denn, nach den konkreten Umständen ist nicht auszuschließen, dass der untersuchte Seeunfall durch deren Verhalten oder ein Verhalten von deren Bediensteten oder von Bediensteten der Wasser- und Schifffahrtsverwaltung ihres Amtsbezirks mitverursacht wurde.
 
 (3) Die Bundesstelle kann zur Erfüllung ihrer Aufgaben mit Dienststellen der Bundesländer Vereinbarungen über Organleihe in bestimmten Einzelfällen abschließen, Absprachen über die Heranziehung von Nachweismitteln und Untersuchungsergebnissen treffen oder sonst in der ihr geeignet erscheinenden Weise zusammenarbeiten. Die Vereinbarungen sind im Verkehrsblatt bekannt zu machen.
 
@@ -323,7 +314,7 @@ Eine von der Bundesstelle eingeleitete Sicherheitsuntersuchung kann fortgeführt
 
 ### § 17 Teilnahme an Sicherheitsuntersuchungen anderer Staaten
 
-(1) Wird wegen eines Seeunfalls bereits eine Sicherheitsuntersuchung durch einen Mitgliedstaat der Europäischen Union oder unter Federführung eines Mitgliedstaates der Europäischen Union unter Mitwirkung eines anderen Mitgliedstaates der Europäischen Union mit begründetem Interesse durchgeführt, führt die Bundesstelle wegen desselben Seeunfalls keine gleichzeitige Sicherheitsuntersuchung durch, sondern beteiligt sich an dem anderen Untersuchungsverfahren, soweit ein begründetes deutsches Interesse vorliegt. In begründeten Einzelfällen kann die Bundesstelle abweichend von Satz 1 eigene gleichzeitige Sicherheitsuntersuchungen durchführen. Sie unterrichtet hierüber das Bundesministerium für Verkehr, Bau und Stadtentwicklung unter Angabe der Gründe. Bei eigenen gleichzeitigen Sicherheitsuntersuchungen arbeitet sie eng mit den Untersuchungsstellen der anderen Mitgliedstaaten der Europäischen Union zusammen. Um so weit wie möglich gemeinsame Schlussfolgerungen zu erzielen, tauscht sie die bei ihren Sicherheitsuntersuchungen gesammelten Informationen in dem für die Erfüllung des Untersuchungsauftrags nach § 9 Absatz 2 erforderlichen Umfang nach Maßgabe des Bundesdatenschutzgesetzes aus, soweit in diesem Gesetz nicht etwas anderes bestimmt ist.
+(1) Wird wegen eines Seeunfalls bereits eine Sicherheitsuntersuchung durch einen Mitgliedstaat der Europäischen Union oder unter Federführung eines Mitgliedstaates der Europäischen Union unter Mitwirkung eines anderen Mitgliedstaates der Europäischen Union mit begründetem Interesse durchgeführt, führt die Bundesstelle wegen desselben Seeunfalls keine gleichzeitige Sicherheitsuntersuchung durch, sondern beteiligt sich an dem anderen Untersuchungsverfahren, soweit ein begründetes deutsches Interesse vorliegt. In begründeten Einzelfällen kann die Bundesstelle abweichend von Satz 1 eigene gleichzeitige Sicherheitsuntersuchungen durchführen. Sie unterrichtet hierüber das Bundesministerium für Verkehr und digitale Infrastruktur unter Angabe der Gründe. Bei eigenen gleichzeitigen Sicherheitsuntersuchungen arbeitet sie eng mit den Untersuchungsstellen der anderen Mitgliedstaaten der Europäischen Union zusammen. Um so weit wie möglich gemeinsame Schlussfolgerungen zu erzielen, tauscht sie die bei ihren Sicherheitsuntersuchungen gesammelten Informationen in dem für die Erfüllung des Untersuchungsauftrags nach § 9 Absatz 2 erforderlichen Umfang nach Maßgabe des Bundesdatenschutzgesetzes aus, soweit in diesem Gesetz nicht etwas anderes bestimmt ist.
 
 (2) Erfolgt die Sicherheitsuntersuchung unter Leitung oder Federführung eines Staates mit begründetem Interesse, der nicht Mitgliedstaat der Europäischen Union ist (Drittland), arbeitet die Bundesstelle so weit wie möglich mit diesem zusammen. Absatz 1 Satz 5 gilt entsprechend. Die Bundesstelle kann von der Einleitung einer eigenen, gleichzeitig stattfindenden Sicherheitsuntersuchung absehen, sofern die Beteiligung der Bundesstelle sichergestellt ist und die Sicherheitsuntersuchung gemäß dem IMO-Code für die Sicherheitsuntersuchung von Seeunfällen und Vorkommnissen auf See (Seeunfall-Untersuchungs-Code) (VkBl. 2000 S. 128, Anlagenband B 8124 S. 21) durchgeführt wird.
 
@@ -421,7 +412,7 @@ dies im Hinblick auf den Schutz der Personen an Bord oder am Betrieb des Schiffe
 
 (3) Die Sicherstellung von als Nachweismittel geeigneten Spuren und Gegenständen hat in enger Zusammenarbeit mit der zuständigen Strafverfolgungsbehörde zu erfolgen. Dies gilt insbesondere für solche Nachweismittel, die für einen erfolgreichen Ausgang der Sicherheitsuntersuchung sofort gesichert und ausgewertet werden müssen, wie die Identifizierung und Untersuchung der Opfer und die Aufzeichnungsanlagen.
 
-(4) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, zur Verbesserung der Sicherheit im Seeverkehr durch Rechtsverordnung ohne Zustimmung des Bundesrates Pflichten am Betrieb der Schiffe beteiligter Personen, insbesondere des Schiffsführers, zur Unterstützung der und Mitwirkung an den Sicherheitsuntersuchungen, insbesondere zur Beweissicherung von Daten, Aufzeichnungen und Geräten im Zusammenhang mit einem Seeunfall zu regeln.
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, zur Verbesserung der Sicherheit im Seeverkehr durch Rechtsverordnung ohne Zustimmung des Bundesrates Pflichten am Betrieb der Schiffe beteiligter Personen, insbesondere des Schiffsführers, zur Unterstützung der und Mitwirkung an den Sicherheitsuntersuchungen, insbesondere zur Beweissicherung von Daten, Aufzeichnungen und Geräten im Zusammenhang mit einem Seeunfall zu regeln.
 
 (5) Widerspruch und Anfechtungsklage gegen Anordnungen der Bundesstelle im Rahmen der Sicherheitsuntersuchungen haben keine aufschiebende Wirkung.
 
@@ -506,7 +497,7 @@ sich der weiteren Beteiligung am Verfahren zunächst zu enthalten und
 3.  
 die Anordnungen des Direktors der Bundesstelle oder im Falle seiner Verhinderung seines Vertreters zu befolgen.
 
-Bereits vorgenommene Untersuchungshandlungen bleiben wirksam. Betrifft die Besorgnis der Befangenheit den Direktor der Bundesstelle oder seinen Vertreter, so trifft das Bundesministerium für Verkehr, Bau und Stadtentwicklung die erforderlichen Anordnungen.
+Bereits vorgenommene Untersuchungshandlungen bleiben wirksam. Betrifft die Besorgnis der Befangenheit den Direktor der Bundesstelle oder seinen Vertreter, so trifft das Bundesministerium für Verkehr und digitale Infrastruktur die erforderlichen Anordnungen.
 
 ### § 26 Nachweismittel
 
@@ -608,7 +599,7 @@ die Internationale Seeschifffahrts-Organisation, es sei denn, der IMO-Code für 
 3.  
 die Europäische Kommission, soweit dies nach der Richtlinie 2009/18/EG vorgesehen ist.
 
-Zeitgleich erfolgt die Veröffentlichung des Untersuchungsberichts durch Bekanntgabe der Bezugsquelle im Verkehrsblatt des Bundesministeriums für Verkehr, Bau und Stadtentwicklung und die Bereitstellung auf der Internetseite der Bundesstelle.
+Zeitgleich erfolgt die Veröffentlichung des Untersuchungsberichts durch Bekanntgabe der Bezugsquelle im Verkehrsblatt des Bundesministeriums für Verkehr und digitale Infrastruktur und die Bereitstellung auf der Internetseite der Bundesstelle.
 
 (3) Die Bundesstelle übersendet je eine Ausfertigung des Untersuchungszwischenberichts nach Absatz 1 Satz 2 an die in Absatz 2 Satz 1 Nummer 1 und 3 genannten Personen und Stellen; eine Veröffentlichung nach Absatz 2 Satz 2 erfolgt, wenn mit der Veröffentlichung eine Verbesserung der Sicherheit auf See verbunden sein kann, insbesondere soweit Sicherheitsempfehlungen nach § 29 Absatz 2 Satz 1 herausgegeben worden sind.
 
@@ -801,7 +792,7 @@ Die Anwendung der seefahrtbezogenen internationalen Untersuchungsregelungen nach
 
 (3) Bieten die Ermittlungen der Behörde genügenden Anlass zu der Annahme, dass eine Maßnahme nach Absatz 1 mit Wahrscheinlichkeit zu erwarten ist, so beantragt sie unverzüglich bei dem zuständigen Seeamt, den Fall nach diesem Abschnitt in Bezug auf den von dem Verdacht betroffenen Berechtigten (Beteiligter) zu untersuchen.
 
-(4) Wurde eine Berechtigung im Rahmen der Berufsausübung für die Wasser- und Schifffahrtsverwaltung des Bundes ausgeübt, so berichtet die Wasser- und Schifffahrtsdirektion Nordwest über alle ihr bekannten Anhaltspunkte im Sinne des Absatzes 1 an das Bundesministerium für Verkehr, Bau und Stadtentwicklung, von dem sie angewiesen werden kann, einen Antrag nach Absatz 3 zu stellen.
+(4) Wurde eine Berechtigung im Rahmen der Berufsausübung für die Wasser- und Schifffahrtsverwaltung des Bundes ausgeübt, so berichtet die Wasser- und Schifffahrtsdirektion Nordwest über alle ihr bekannten Anhaltspunkte im Sinne des Absatzes 1 an das Bundesministerium für Verkehr und digitale Infrastruktur, von dem sie angewiesen werden kann, einen Antrag nach Absatz 3 zu stellen.
 
 (5) Zuständigkeiten und Befugnisse nach anderen Rechtsvorschriften zur Entziehung von Berechtigungen, Beschränkung ihrer Ausübung oder Sicherstellung oder Beschlagnahme der entsprechenden Urkunden bleiben unberührt.
 
@@ -820,9 +811,9 @@ Unterabschnitt 2 Organe der seeamtlichen Untersuchung
 
 (1) Die Untersuchung nach diesem Abschnitt obliegt den Wasser- und Schifffahrtsdirektionen Nord und Nordwest. Sie bilden Untersuchungsausschüsse (Seeämter) in Hamburg, Kiel und Rostock sowie Bremerhaven und Emden.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, durch Rechtsverordnung die örtliche Zuständigkeit der Seeämter zu bestimmen.
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung die örtliche Zuständigkeit der Seeämter zu bestimmen.
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung erlässt eine Geschäftsordnung für die Seeämter; vor ihrem Erlass sind die Küstenländer zu hören. Die Geschäftsordnung ist im Verkehrsblatt bekannt zu machen.
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur erlässt eine Geschäftsordnung für die Seeämter; vor ihrem Erlass sind die Küstenländer zu hören. Die Geschäftsordnung ist im Verkehrsblatt bekannt zu machen.
 
 ### § 44 Besetzung der Seeämter
 
@@ -838,7 +829,7 @@ Unterabschnitt 2 Organe der seeamtlichen Untersuchung
 
 (2) Jede Wasser- und Schifffahrtsdirektion wählt aus den Vorschlagslisten die erforderliche Anzahl von ehrenamtlichen Beisitzern aus (Beisitzerliste) und bestellt die Beisitzer für eine ehrenamtliche Tätigkeit.
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, durch Rechtsverordnung zu bestimmen
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung zu bestimmen
 
 1.  
 die Personengruppen, aus denen die Beisitzer auszuwählen sind,
@@ -994,7 +985,7 @@ Unterabschnitt 4 Gebühren und Auslagen
 
 (3) Auslagen werden von einem Beteiligten nur erhoben, wenn das Seeamt gegen ihn eine Maßnahme nach § 50 Absatz 1, 2 oder 4 angeordnet hat.
 
-(4) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, durch Rechtsverordnung die Gebührentatbestände und die Gebührenhöhe zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung die Gebührentatbestände und die Gebührenhöhe zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
 
 Unterabschnitt 5 Rechtsbehelfe
 ------------------------------
@@ -1082,7 +1073,7 @@ Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) 
 
 ### § 56 Verordnungsermächtigung
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, zur Verbesserung der Sicherheit im Seeverkehr durch Rechtsverordnung ohne Zustimmung des Bundesrates die Anlage in Anpassung an den Gesamtbestand der völkerrechtlich als verbindlich angenommenen und auf Grund innerstaatlichen Rechts anzuwendenden oder gemeinschafts- oder unionsrechtlich in Kraft getretenen seefahrtbezogenen internationalen Untersuchungsregelungen zu ändern.
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, zur Verbesserung der Sicherheit im Seeverkehr durch Rechtsverordnung ohne Zustimmung des Bundesrates die Anlage in Anpassung an den Gesamtbestand der völkerrechtlich als verbindlich angenommenen und auf Grund innerstaatlichen Rechts anzuwendenden oder gemeinschafts- oder unionsrechtlich in Kraft getretenen seefahrtbezogenen internationalen Untersuchungsregelungen zu ändern.
 
 ### § 57 Übergangsregelung
 
