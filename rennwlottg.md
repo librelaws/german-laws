@@ -2,7 +2,7 @@ Rennwett- und Lotteriegesetz ()
 ===============================
 
 Stand  
-Zuletzt geändert durch Art. 1 u. 4 G v. 29.6.2012 I 1424
+Zuletzt geändert durch Art. 1 u. 4 G v. 29.6.2012 I 1424; 2013 I 2236
 
 ### 
 
@@ -147,9 +147,9 @@ Die Steuerschuld entsteht ohne Rücksicht darauf, ob das Totalisatorunternehmen 
 
 ### § 16
 
-(1) Die Rennvereine, die einen Totalisator betreiben, erhalten bis zu 96 vom Hundert des Aufkommens der Totalisatorsteuer (§ 10). Sie haben die Beträge zu Zwecken der öffentlichen Leistungsprüfungen für Pferde zu verwenden. Der *Reichsminister für Ernährung und Landwirtschaft* und der *Reichsminister der Finanzen* setzen die Anteile der Rennvereine fest und treffen die erforderlichen Bestimmungen. Die Anteile können für die einzelnen Rennvereine verschieden bemessen werden.
+(1) Die Rennvereine, die einen Totalisator betreiben, erhalten vorbehaltlich des Absatzes 2 eine Zuweisung in Höhe von bis zu 96 vom Hundert des Aufkommens der Totalisatorsteuer nach § 10 und der Buchmachersteuer nach § 11. Sie haben die Beträge zu Zwecken der öffentlichen Leistungsprüfungen für Pferde zu verwenden. Die nach Landesrecht zuständigen Behörden setzen die Anteile der Rennvereine fest und treffen die erforderlichen Bestimmungen. Die Anteile können für die einzelnen Rennvereine unterschiedlich bemessen werden. Sie dürfen nicht über das hinausgehen, was erforderlich ist, um die Nettokosten der Durchführung der öffentlichen Leistungsprüfungen für Pferde durch den jeweiligen Rennverein zu decken.
 
-(2) Absatz 1 findet keine Anwendung auf das Aufkommen der Totalisatorsteuer nach § 10, das mittels Erlaubnissen nach § 1 Absatz 4 erzielt wird.
+(2) Absatz 1 findet keine Anwendung auf das Aufkommen der Totalisatorsteuer nach § 10, das mittels Erlaubnissen nach § 1 Absatz 4 erzielt wird, und auf das Aufkommen der Buchmachersteuer nach § 11, das durch den Abschluss oder die Vermittlung von Wetten aus Anlass von Pferderennen im Ausland erzielt wird.
 
 II. Besteuerung von Lotterien, Ausspielungen und Sportwetten
 ------------------------------------------------------------
