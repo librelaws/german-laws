@@ -4,6 +4,12 @@ Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Ar
 Stand  
 Zuletzt geändert durch Art. 4 G v. 21.7.2012 I 1613
 
+Hinweis  
+Änderung durch Art. 12b G v. 19.10.2012 I 2192 (Nr. 50) noch nicht berücksichtigt
+
+Hinweis  
+Änderung durch Art. 3 u. mittelbare Änderung durch Art. 13 G v. 23.10.2012 I 2246 (Nr. 51) noch nicht berücksichtigt
+
 ### 
 
 ```
