@@ -5,12 +5,13 @@ Neuf
 Neugefasst durch Bek. v. 11.9.2012 I 2022;
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 29.8.2013 I 3464
+zuletzt geändert durch Art. 1 G v. 28.10.2015 I 1802
 
 ### 
 
 ```
 (+++ Textnachweis ab: 1.1.1991 +++)
+(+++ Zur Anwendung vgl. § 42f +++)
 (+++ Maßgaben aufgrund des EinigVtr vgl. SGB 8 Anhang EV +++)
 ```
 
@@ -111,6 +112,12 @@ Das G wurde vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem
 | **Vorläufige Maßnahmen**                               |
 | **zum Schutz von Kindern und Jugendlichen**            |
 | § 42                                                   |
+| § 42a                                                  |
+| § 42b                                                  |
+| § 42c                                                  |
+| § 42d                                                  |
+| § 42e                                                  |
+| § 42f                                                  |
 |                                                        |
 | **Zweiter Abschnitt**                                  |
 | **Schutz von Kindern und Jugendlichen**                |
@@ -238,6 +245,13 @@ Das G wurde vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem
 | Örtliche Zuständigkeit bei Aufenthalt im Ausland       |
 | § 88                                                   |
 |                                                        |
+| Vierter Unterabschnitt                                 |
+| Örtliche Zuständigkeit                                 |
+| für vorläufige Maßnahmen,                              |
+| Leistungen und die Amtsvormundschaft für               |
+| unbegleitete ausländische Kinder und Jugendliche       |
+| § 88a                                                  |
+|                                                        |
 | **Dritter Abschnitt**                                  |
 | **Kostenerstattung**                                   |
 | § 89                                                   |
@@ -290,6 +304,11 @@ Das G wurde vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem
 | **Straf- und Bußgeldvorschriften**                     |
 | § 104                                                  |
 | § 105                                                  |
+|                                                        |
+| **Elftes Kapitel**                                     |
+| **Schlussvorschriften**                                |
+| § 106                                                  |
+|                                                        |
 
 Erstes Kapitel Allgemeine Vorschriften
 --------------------------------------
@@ -346,7 +365,7 @@ Hilfe für junge Volljährige und Nachbetreuung (§ 41).
 die Inobhutnahme von Kindern und Jugendlichen (§ 42),
 
 2.  
-(weggefallen)
+die vorläufige Inobhutnahme von ausländischen Kindern und Jugendlichen nach unbegleiteter Einreise (§ 42a),
 
 3.  
 die Erteilung, der Widerruf und die Zurücknahme der Pflegeerlaubnis (§§ 43, 44),
@@ -437,7 +456,7 @@ Erziehungsberechtigter, der Personensorgeberechtigte und jede sonstige Person ü
 
 (2) Kind im Sinne des § 1 Absatz 2 ist, wer noch nicht 18 Jahre alt ist.
 
-(3) (weggefallen)
+(3) Werktage im Sinne der §§ 42a bis 42c sind die Wochentage Montag bis Freitag; ausgenommen sind gesetzliche Feiertage.
 
 (4) Die Bestimmungen dieses Buches, die sich auf die Annahme als Kind beziehen, gelten nur für Personen, die das 18. Lebensjahr noch nicht vollendet haben.
 
@@ -448,6 +467,8 @@ Erziehungsberechtigter, der Personensorgeberechtigte und jede sonstige Person ü
 (2) Kinder und Jugendliche haben das Recht, sich in allen Angelegenheiten der Erziehung und Entwicklung an das Jugendamt zu wenden.
 
 (3) Kinder und Jugendliche haben Anspruch auf Beratung ohne Kenntnis des Personensorgeberechtigten, wenn die Beratung auf Grund einer Not- und Konfliktlage erforderlich ist und solange durch die Mitteilung an den Personensorgeberechtigten der Beratungszweck vereitelt würde. § 36 des Ersten Buches bleibt unberührt.
+
+(+++ § 8 Abs. 1: Zur Anwendung vgl. § 42f Abs. 1 +++)
 
 ### § 8a Schutzauftrag bei Kindeswohlgefährdung
 
@@ -589,7 +610,7 @@ Zweiter Abschnitt Förderung der Erziehung in der Familie
 (2) Leistungen zur Förderung der Erziehung in der Familie sind insbesondere
 
 1.  
-Angebote der Familienbildung, die auf Bedürfnisse und Interessen sowie auf Erfahrungen von Familien in unterschiedlichen Lebenslagen und Erziehungssituationen eingehen, die Familie zur Mitarbeit in Erziehungseinrichtungen und in Formen der Selbst- und Nachbarschaftshilfe besser befähigen sowie junge Menschen auf Ehe, Partnerschaft und das Zusammenleben mit Kindern vorbereiten,
+Angebote der Familienbildung, die auf Bedürfnisse und Interessen sowie auf Erfahrungen von Familien in unterschiedlichen Lebenslagen und Erziehungssituationen eingehen, die Familien in ihrer Gesundheitskompetenz stärken, die Familie zur Mitarbeit in Erziehungseinrichtungen und in Formen der Selbst- und Nachbarschaftshilfe besser befähigen sowie junge Menschen auf Ehe, Partnerschaft und das Zusammenleben mit Kindern vorbereiten,
 
 2.  
 Angebote der Beratung in allgemeinen Fragen der Erziehung und Entwicklung junger Menschen,
@@ -1028,6 +1049,112 @@ der Entscheidung über die Gewährung von Hilfen nach dem Sozialgesetzbuch.
 
 (6) Ist bei der Inobhutnahme die Anwendung unmittelbaren Zwangs erforderlich, so sind die dazu befugten Stellen hinzuzuziehen.
 
+(+++ § 42 Abs. 2 Satz 2: Zur Anwendung vgl. § 42f Abs. 1 +++)
+
+### § 42a Vorläufige Inobhutnahme von ausländischen Kindern und Jugendlichen nach unbegleiteter Einreise
+
+(1) Das Jugendamt ist berechtigt und verpflichtet, ein ausländisches Kind oder einen ausländischen Jugendlichen vorläufig in Obhut zu nehmen, sobald dessen unbegleitete Einreise nach Deutschland festgestellt wird. § 42 Absatz 1 Satz 2, Absatz 2 Satz 2 und 3, Absatz 5 sowie 6 gilt entsprechend.
+
+(2) Das Jugendamt hat während der vorläufigen Inobhutnahme zusammen mit dem Kind oder dem Jugendlichen einzuschätzen,
+
+1.  
+ob das Wohl des Kindes oder des Jugendlichen durch die Durchführung des Verteilungsverfahrens gefährdet würde,
+
+2.  
+ob sich eine mit dem Kind oder dem Jugendlichen verwandte Person im Inland oder im Ausland aufhält,
+
+3.  
+ob das Wohl des Kindes oder des Jugendlichen eine gemeinsame Inobhutnahme mit Geschwistern oder anderen unbegleiteten ausländischen Kindern oder Jugendlichen erfordert und
+
+4.  
+ob der Gesundheitszustand des Kindes oder des Jugendlichen die Durchführung des Verteilungsverfahrens innerhalb von 14 Werktagen nach Beginn der vorläufigen Inobhutnahme ausschließt; hierzu soll eine ärztliche Stellungnahme eingeholt werden.
+
+Auf der Grundlage des Ergebnisses der Einschätzung nach Satz 1 entscheidet das Jugendamt über die Anmeldung des Kindes oder des Jugendlichen zur Verteilung oder den Ausschluss der Verteilung.
+
+(3) Das Jugendamt ist während der vorläufigen Inobhutnahme berechtigt und verpflichtet, alle Rechtshandlungen vorzunehmen, die zum Wohl des Kindes oder des Jugendlichen notwendig sind. Dabei ist das Kind oder der Jugendliche zu beteiligen und der mutmaßliche Wille der Personen- oder der Erziehungsberechtigten angemessen zu berücksichtigen.
+
+(4) Das Jugendamt hat der nach Landesrecht für die Verteilung von unbegleiteten ausländischen Kindern und Jugendlichen zuständigen Stelle die vorläufige Inobhutnahme des Kindes oder des Jugendlichen innerhalb von sieben Werktagen nach Beginn der Maßnahme zur Erfüllung der in § 42b genannten Aufgaben mitzuteilen. Zu diesem Zweck sind auch die Ergebnisse der Einschätzung nach Absatz 2 Satz 1 mitzuteilen. Die nach Landesrecht zuständige Stelle hat gegenüber dem Bundesverwaltungsamt innerhalb von drei Werktagen das Kind oder den Jugendlichen zur Verteilung anzumelden oder den Ausschluss der Verteilung anzuzeigen.
+
+(5) Soll das Kind oder der Jugendliche im Rahmen eines Verteilungsverfahrens untergebracht werden, so umfasst die vorläufige Inobhutnahme auch die Pflicht,
+
+1.  
+die Begleitung des Kindes oder des Jugendlichen und dessen Übergabe durch eine insofern geeignete Person an das für die Inobhutnahme nach § 42 Absatz 1 Satz 1 Nummer 3 zuständige Jugendamt sicherzustellen sowie
+
+2.  
+dem für die Inobhutnahme nach § 42 Absatz 1 Satz 1 Nummer 3 zuständigen Jugendamt unverzüglich die personenbezogenen Daten zu übermitteln, die zur Wahrnehmung der Aufgaben nach § 42 erforderlich sind.
+
+Hält sich eine mit dem Kind oder dem Jugendlichen verwandte Person im Inland oder im Ausland auf, hat das Jugendamt auf eine Zusammenführung des Kindes oder des Jugendlichen mit dieser Person hinzuwirken, wenn dies dem Kindeswohl entspricht. Das Kind oder der Jugendliche ist an der Übergabe und an der Entscheidung über die Familienzusammenführung angemessen zu beteiligen.
+
+(6) Die vorläufige Inobhutnahme endet mit der Übergabe des Kindes oder des Jugendlichen an die Personensorge- oder Erziehungsberechtigten oder an das aufgrund der Zuweisungsentscheidung der zuständigen Landesbehörde nach § 88a Absatz 2 Satz 1 zuständige Jugendamt oder mit der Anzeige nach Absatz 4 Satz 3 über den Ausschluss des Verteilungsverfahrens nach § 42b Absatz 4.
+
+### § 42b Verfahren zur Verteilung unbegleiteter ausländischer Kinder und Jugendlicher
+
+(1) Das Bundesverwaltungsamt benennt innerhalb von zwei Werktagen nach Anmeldung eines unbegleiteten ausländischen Kindes oder Jugendlichen zur Verteilung durch die zuständige Landesstelle das zu dessen Aufnahme verpflichtete Land. Maßgebend dafür ist die Aufnahmequote nach § 42c.
+
+(2) Im Rahmen der Aufnahmequote nach § 42c soll vorrangig dasjenige Land benannt werden, in dessen Bereich das Jugendamt liegt, das das Kind oder den Jugendlichen nach § 42a vorläufig in Obhut genommen hat. Hat dieses Land die Aufnahmequote nach § 42c bereits erfüllt, soll das nächstgelegene Land benannt werden.
+
+(3) Die nach Landesrecht für die Verteilung von unbegleiteten ausländischen Kindern oder Jugendlichen zuständige Stelle des nach Absatz 1 benannten Landes weist das Kind oder den Jugendlichen innerhalb von zwei Werktagen einem in seinem Bereich gelegenen Jugendamt zur Inobhutnahme nach § 42 Absatz 1 Satz 1 Nummer 3 zu und teilt dies demjenigen Jugendamt mit, welches das Kind oder den Jugendlichen nach § 42a vorläufig in Obhut genommen hat. Maßgeblich für die Zuweisung sind die spezifischen Schutzbedürfnisse und Bedarfe unbegleiteter ausländischer Minderjähriger. Für die Verteilung von unbegleiteten ausländischen Kindern oder Jugendlichen ist das Landesjugendamt zuständig, es sei denn, dass Landesrecht etwas anderes regelt.
+
+(4) Die Durchführung eines Verteilungsverfahrens ist bei einem unbegleiteten ausländischen Kind oder Jugendlichen ausgeschlossen, wenn
+
+1.  
+dadurch dessen Wohl gefährdet würde,
+
+2.  
+dessen Gesundheitszustand die Durchführung eines Verteilungsverfahrens innerhalb von 14 Werktagen nach Beginn der vorläufigen Inobhutnahme gemäß § 42a nicht zulässt,
+
+3.  
+dessen Zusammenführung mit einer verwandten Person kurzfristig erfolgen kann, zum Beispiel aufgrund der Verordnung (EU) Nr. 604/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (ABl. L 180 vom 29.6.2013, S. 31), und dies dem Wohl des Kindes entspricht oder
+
+4.  
+die Durchführung des Verteilungsverfahrens nicht innerhalb von einem Monat nach Beginn der vorläufigen Inobhutnahme erfolgt.
+
+(5) Geschwister dürfen nicht getrennt werden, es sei denn, dass das Kindeswohl eine Trennung erfordert. Im Übrigen sollen unbegleitete ausländische Kinder oder Jugendliche im Rahmen der Aufnahmequote nach § 42c nach Durchführung des Verteilungsverfahrens gemeinsam nach § 42 in Obhut genommen werden, wenn das Kindeswohl dies erfordert.
+
+(6) Der örtliche Träger stellt durch werktägliche Mitteilungen sicher, dass die nach Landesrecht für die Verteilung von unbegleiteten ausländischen Kindern und Jugendlichen zuständige Stelle jederzeit über die für die Zuweisung nach Absatz 3 erforderlichen Angaben unterrichtet wird. Die nach Landesrecht für die Verteilung von unbegleiteten ausländischen Kindern oder Jugendlichen zuständige Stelle stellt durch werktägliche Mitteilungen sicher, dass das Bundesverwaltungsamt jederzeit über die Angaben unterrichtet wird, die für die Benennung des zur Aufnahme verpflichteten Landes nach Absatz 1 erforderlich sind.
+
+(7) Gegen Entscheidungen nach dieser Vorschrift findet kein Widerspruch statt. Die Klage gegen Entscheidungen nach dieser Vorschrift hat keine aufschiebende Wirkung.
+
+(8) Das Nähere regelt das Landesrecht.
+
+### § 42c Aufnahmequote
+
+(1) Die Länder können durch Vereinbarung einen Schlüssel als Grundlage für die Benennung des zur Aufnahme verpflichteten Landes nach § 42b Absatz 1 festlegen. Bis zum Zustandekommen dieser Vereinbarung oder bei deren Wegfall richtet sich die Aufnahmequote für das jeweilige Kalenderjahr nach dem von dem Büro der Gemeinsamen Wissenschaftskonferenz im Bundesanzeiger veröffentlichten Schlüssel, der für das vorangegangene Kalenderjahr entsprechend den Steuereinnahmen und der Bevölkerungszahl der Länder errechnet worden ist (Königsteiner Schlüssel), und nach dem Ausgleich für den Bestand der Anzahl unbegleiteter ausländischer Minderjähriger, denen am 1. November 2015 in den einzelnen Ländern Jugendhilfe gewährt wird. Ein Land kann seiner Aufnahmepflicht eine höhere Quote als die Aufnahmequote nach Satz 1 oder 2 zugrunde legen; dies ist gegenüber dem Bundesverwaltungsamt anzuzeigen.
+
+(2) Ist die Durchführung des Verteilungsverfahrens ausgeschlossen, wird die Anzahl der im Land verbleibenden unbegleiteten ausländischen Kinder und Jugendlichen auf die Aufnahmequote nach Absatz 1 angerechnet. Gleiches gilt, wenn der örtliche Träger eines anderen Landes die Zuständigkeit für die Inobhutnahme eines unbegleiteten ausländischen Kindes oder Jugendlichen von dem nach § 88a Absatz 2 zuständigen örtlichen Träger übernimmt.
+
+(3) Bis zum 1. Mai 2017 wird die Aufnahmepflicht durch einen Abgleich der aktuellen Anzahl unbegleiteter ausländischer Minderjähriger in den Ländern mit der Aufnahmequote nach Absatz 1 werktäglich ermittelt.
+
+### § 42d Übergangsregelung
+
+(1) Kann ein Land die Anzahl von unbegleiteten ausländischen Kindern oder Jugendlichen, die seiner Aufnahmequote nach § 42c entspricht, nicht aufnehmen, so kann es dies gegenüber dem Bundesverwaltungsamt anzeigen.
+
+(2) In diesem Fall reduziert sich für das Land die Aufnahmequote
+
+1.  
+bis zum 1. Dezember 2015 um zwei Drittel sowie
+
+2.  
+bis zum 1. Januar 2016 um ein Drittel.
+
+(3) Bis zum 31. Dezember 2016 kann die Ausschlussfrist nach § 42b Absatz 4 Nummer 4 um einen Monat verlängert werden, wenn die zuständige Landesstelle gegenüber dem Bundesverwaltungsamt anzeigt, dass die Durchführung des Verteilungsverfahrens in Bezug auf einen unbegleiteten ausländischen Minderjährigen nicht innerhalb dieser Frist erfolgen kann. In diesem Fall hat das Jugendamt nach Ablauf eines Monats nach Beginn der vorläufigen Inobhutnahme die Bestellung eines Vormunds oder Pflegers zu veranlassen.
+
+(4) Ab dem 1. August 2016 ist die Geltendmachung des Anspruchs des örtlichen Trägers gegenüber dem nach § 89d Absatz 3 erstattungspflichtigen Land auf Erstattung der Kosten, die vor dem 1. November 2015 entstanden sind, ausgeschlossen. Der Erstattungsanspruch des örtlichen Trägers gegenüber dem nach § 89d Absatz 3 erstattungspflichtigen Land verjährt in einem Jahr; im Übrigen gilt § 113 des Zehnten Buches entsprechend.
+
+(5) Die Geltendmachung des Anspruchs des örtlichen Trägers gegenüber dem nach § 89d Absatz 3 erstattungspflichtigen Land auf Erstattung der Kosten, die nach dem 1. November 2015 entstanden sind, ist ausgeschlossen. Die Erstattung dieser Kosten richtet sich nach § 89d Absatz 1.
+
+### § 42e Berichtspflicht
+
+Die Bundesregierung hat dem Deutschen Bundestag jährlich einen Bericht über die Situation unbegleiteter ausländischer Minderjähriger in Deutschland vorzulegen.
+
+### § 42f Behördliches Verfahren zur Altersfeststellung
+
+(1) Das Jugendamt hat im Rahmen der vorläufigen Inobhutnahme der ausländischen Person gemäß § 42a deren Minderjährigkeit durch Einsichtnahme in deren Ausweispapiere festzustellen oder hilfsweise mittels einer qualifizierten Inaugenscheinnahme einzuschätzen und festzustellen. § 8 Absatz 1 und § 42 Absatz 2 Satz 2 sind entsprechend anzuwenden.
+
+(2) Auf Antrag des Betroffenen oder seines Vertreters oder von Amts wegen hat das Jugendamt in Zweifelsfällen eine ärztliche Untersuchung zur Altersbestimmung zu veranlassen. Ist eine ärztliche Untersuchung durchzuführen, ist die betroffene Person durch das Jugendamt umfassend über die Untersuchungsmethode und über die möglichen Folgen der Altersbestimmung aufzuklären. Ist die ärztliche Untersuchung von Amts wegen durchzuführen, ist die betroffene Person zusätzlich über die Folgen einer Weigerung, sich der ärztlichen Untersuchung zu unterziehen, aufzuklären; die Untersuchung darf nur mit Einwilligung der betroffenen Person und ihres Vertreters durchgeführt werden. Die §§ 60, 62 und 65 bis 67 des Ersten Buches sind entsprechend anzuwenden.
+
+(3) Widerspruch und Klage gegen die Entscheidung des Jugendamts, aufgrund der Altersfeststellung nach dieser Vorschrift die vorläufige Inobhutnahme nach § 42a oder die Inobhutnahme nach § 42 Absatz 1 Satz 1 Nummer 3 abzulehnen oder zu beenden, haben keine aufschiebende Wirkung. Landesrecht kann bestimmen, dass gegen diese Entscheidung Klage ohne Nachprüfung in einem Vorverfahren nach § 68 der Verwaltungsgerichtsordnung erhoben werden kann.
+
 Zweiter Abschnitt Schutz von Kindern und Jugendlichen in Familienpflege und in Einrichtungen
 --------------------------------------------------------------------------------------------
 
@@ -1102,7 +1229,7 @@ eine Einrichtung betreibt, die außerhalb der Jugendhilfe liegende Aufgaben für
 die dem Zweck und der Konzeption der Einrichtung entsprechenden räumlichen, fachlichen, wirtschaftlichen und personellen Voraussetzungen für den Betrieb erfüllt sind,
 
 2.  
-die gesellschaftliche und sprachliche Integration in der Einrichtung unterstützt wird sowie die gesundheitliche Vorsorge und die medizinische Betreuung der Kinder und Jugendlichen nicht erschwert werden sowie
+die gesellschaftliche und sprachliche Integration und ein gesundheitsförderliches Lebensumfeld in der Einrichtung unterstützt werden sowie die gesundheitliche Vorsorge und die medizinische Betreuung der Kinder und Jugendlichen nicht erschwert werden sowie
 
 3.  
 zur Sicherung der Rechte von Kindern und Jugendlichen in der Einrichtung geeignete Verfahren der Beteiligung sowie der Möglichkeit der Beschwerde in persönlichen Angelegenheiten Anwendung finden.
@@ -1526,7 +1653,7 @@ der Förderung der freien Jugendhilfe.
 
 ### § 72a Tätigkeitsausschluss einschlägig vorbestrafter Personen
 
-(1) Die Träger der öffentlichen Jugendhilfe dürfen für die Wahrnehmung der Aufgaben in der Kinder- und Jugendhilfe keine Person beschäftigen oder vermitteln, die rechtskräftig wegen einer Straftat nach den §§ 171, 174 bis 174c, 176 bis 180a, 181a, 182 bis 184f, 225, 232 bis 233a, 234, 235 oder 236 des Strafgesetzbuchs verurteilt worden ist. Zu diesem Zweck sollen sie sich bei der Einstellung oder Vermittlung und in regelmäßigen Abständen von den betroffenen Personen ein Führungszeugnis nach § 30 Absatz 5 und § 30a Absatz 1 des Bundeszentralregistergesetzes vorlegen lassen.
+(1) Die Träger der öffentlichen Jugendhilfe dürfen für die Wahrnehmung der Aufgaben in der Kinder- und Jugendhilfe keine Person beschäftigen oder vermitteln, die rechtskräftig wegen einer Straftat nach den §§ 171, 174 bis 174c, 176 bis 180a, 181a, 182 bis 184g, 225, 232 bis 233a, 234, 235 oder 236 des Strafgesetzbuchs verurteilt worden ist. Zu diesem Zweck sollen sie sich bei der Einstellung oder Vermittlung und in regelmäßigen Abständen von den betroffenen Personen ein Führungszeugnis nach § 30 Absatz 5 und § 30a Absatz 1 des Bundeszentralregistergesetzes vorlegen lassen.
 
 (2) Die Träger der öffentlichen Jugendhilfe sollen durch Vereinbarungen mit den Trägern der freien Jugendhilfe sicherstellen, dass diese keine Person, die wegen einer Straftat nach Absatz 1 Satz 1 rechtskräftig verurteilt worden ist, beschäftigen.
 
@@ -1602,7 +1729,7 @@ die Gewähr für eine den Zielen des Grundgesetzes förderliche Arbeit bieten.
 
 ### § 76 Beteiligung anerkannter Träger der freien Jugendhilfe an der Wahrnehmung anderer Aufgaben
 
-(1) Die Träger der öffentlichen Jugendhilfe können anerkannte Träger der freien Jugendhilfe an der Durchführung ihrer Aufgaben nach den §§ 42, 43, 50 bis 52a und 53 Absatz 2 bis 4 beteiligen oder ihnen diese Aufgaben zur Ausführung übertragen.
+(1) Die Träger der öffentlichen Jugendhilfe können anerkannte Träger der freien Jugendhilfe an der Durchführung ihrer Aufgaben nach den §§ 42, 42a, 43, 50 bis 52a und 53 Absatz 2 bis 4 beteiligen oder ihnen diese Aufgaben zur Ausführung übertragen.
 
 (2) Die Träger der öffentlichen Jugendhilfe bleiben für die Erfüllung der Aufgaben verantwortlich.
 
@@ -2009,7 +2136,7 @@ Zweiter Unterabschnitt Örtliche Zuständigkeit für andere Aufgaben
 
 ### § 87 Örtliche Zuständigkeit für vorläufige Maßnahmen zum Schutz von Kindern und Jugendlichen
 
-Für die Inobhutnahme eines Kindes oder eines Jugendlichen (§ 42) ist der örtliche Träger zuständig, in dessen Bereich sich das Kind oder der Jugendliche vor Beginn der Maßnahme tatsächlich aufhält.
+Für die Inobhutnahme eines Kindes oder eines Jugendlichen (§ 42) ist der örtliche Träger zuständig, in dessen Bereich sich das Kind oder der Jugendliche vor Beginn der Maßnahme tatsächlich aufhält. Die örtliche Zuständigkeit für die Inobhutnahme eines unbegleiteten ausländischen Kindes oder Jugendlichen richtet sich nach § 88a Absatz 2.
 
 ### § 87a Örtliche Zuständigkeit für Erlaubnis, Meldepflichten und Untersagung
 
@@ -2062,6 +2189,30 @@ Dritter Unterabschnitt Örtliche Zuständigkeit bei Aufenthalt im Ausland
 
 (2) Wurden bereits vor der Ausreise Leistungen der Jugendhilfe gewährt, so bleibt der örtliche Träger zuständig, der bisher tätig geworden ist; eine Unterbrechung der Hilfeleistung von bis zu drei Monaten bleibt dabei außer Betracht.
 
+Vierter Unterabschnitt Örtliche Zuständigkeit für vorläufige Maßnahmen, Leistungen und die Amtsvormundschaft für unbegleitete ausländische Kinder und Jugendliche
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 
+
+### § 88a Örtliche Zuständigkeit für vorläufige Maßnahmen, Leistungen und die Amtsvormundschaft für unbegleitete ausländische Kinder und Jugendliche
+
+(1) Für die vorläufige Inobhutnahme eines unbegleiteten ausländischen Kindes oder Jugendlichen (§ 42a) ist der örtliche Träger zuständig, in dessen Bereich sich das Kind oder der Jugendliche vor Beginn der Maßnahme tatsächlich aufhält, soweit Landesrecht nichts anderes regelt.
+
+(2) Die örtliche Zuständigkeit für die Inobhutnahme eines unbegleiteten ausländischen Kindes oder Jugendlichen (§ 42) richtet sich nach der Zuweisungsentscheidung gemäß § 42b Absatz 3 Satz 1 der nach Landesrecht für die Verteilung von unbegleiteten ausländischen Kindern oder Jugendlichen zuständigen Stelle. Ist die Verteilung nach § 42b Absatz 4 ausgeschlossen, so bleibt die nach Absatz 1 begründete Zuständigkeit bestehen. Ein anderer Träger kann aus Gründen des Kindeswohls oder aus sonstigen humanitären Gründen von vergleichbarem Gewicht die örtliche Zuständigkeit von dem zuständigen Träger übernehmen.
+
+(3) Für Leistungen an unbegleitete ausländische Kinder oder Jugendliche ist der örtliche Träger zuständig, in dessen Bereich sich die Person vor Beginn der Leistung tatsächlich aufhält. Geht der Leistungsgewährung eine Inobhutnahme voraus, so bleibt die nach Absatz 2 begründete Zuständigkeit bestehen, soweit Landesrecht nichts anderes regelt.
+
+(4) Die örtliche Zuständigkeit für die Vormundschaft oder Pflegschaft, die für unbegleitete ausländische Kinder oder Jugendliche durch Bestellung des Familiengerichts eintritt, richtet sich während
+
+1.  
+der vorläufigen Inobhutnahme (§ 42a) nach Absatz 1,
+
+2.  
+der Inobhutnahme (§ 42) nach Absatz 2 und
+
+3.  
+der Leistungsgewährung nach Absatz 3.
+
 Dritter Abschnitt Kostenerstattung
 ----------------------------------
 
@@ -2109,15 +2260,7 @@ Als Tag der Einreise gilt der Tag des Grenzübertritts, sofern dieser amtlich fe
 
 (2) Ist die Person im Inland geboren, so ist das Land erstattungspflichtig, in dessen Bereich die Person geboren ist.
 
-(3) Ist die Person im Ausland geboren, so wird das erstattungspflichtige Land auf der Grundlage eines Belastungsvergleichs vom Bundesverwaltungsamt bestimmt. Maßgeblich ist die Belastung, die sich pro Einwohner im vergangenen Haushaltsjahr
-
-1.  
-durch die Erstattung von Kosten nach dieser Vorschrift und
-
-2.  
-die Gewährung von Leistungen für Deutsche im Ausland durch die überörtlichen Träger im Bereich des jeweiligen Landes nach Maßgabe von § 6 Absatz 3, § 85 Absatz 2 Nummer 9
-
-ergeben hat.
+(3) Ist die Person im Ausland geboren, so wird das erstattungspflichtige Land auf der Grundlage eines Belastungsvergleichs vom Bundesverwaltungsamt bestimmt. Maßgeblich ist die Belastung, die sich durch die Erstattung von Kosten nach dieser Vorschrift ergeben hat.
 
 (4) Die Verpflichtung zur Erstattung der aufgewendeten Kosten entfällt, wenn inzwischen für einen zusammenhängenden Zeitraum von drei Monaten Jugendhilfe nicht zu gewähren war.
 
@@ -2443,7 +2586,7 @@ als Bundesstatistik durchzuführen.
 im Hinblick auf die Hilfe
 
 a)  
-Art des Trägers des Hilfe durchführenden Dienstes oder der Hilfe durchführenden Einrichtung,
+Art und Name des Trägers des Hilfe durchführenden Dienstes oder der Hilfe durchführenden Einrichtung,
 
 b)  
 Art der Hilfe,
@@ -2470,7 +2613,10 @@ i)
 Grund für die Beendigung der Hilfe,
 
 j)  
-vorangegangene Gefährdungseinschätzung nach § 8a Absatz 1 sowie
+vorangegangene Gefährdungseinschätzung nach § 8a Absatz 1,
+
+k)  
+Einleitung der Hilfe im Anschluss an eine vorläufige Maßnahme zum Schutz von Kindern und Jugendlichen im Fall des § 42 Absatz 1 Satz 1 Nummer 3 sowie
 
 2.  
 im Hinblick auf junge Menschen
@@ -2499,13 +2645,13 @@ Geschlecht, Geburtsmonat und Geburtsjahr der in der Familie lebenden jungen Mens
 b)  
 Zahl der außerhalb der Familie lebenden Kinder und Jugendlichen.
 
-(2) Erhebungsmerkmale bei den Erhebungen über vorläufige Maßnahmen zum Schutz von Kindern und Jugendlichen sind Kinder und Jugendliche, zu deren Schutz Maßnahmen nach § 42 getroffen worden sind, gegliedert nach
+(2) Erhebungsmerkmale bei den Erhebungen über vorläufige Maßnahmen zum Schutz von Kindern und Jugendlichen sind Kinder und Jugendliche, zu deren Schutz Maßnahmen nach § 42 oder § 42a getroffen worden sind, gegliedert nach
 
 1.  
-Art des Trägers der Maßnahme, Form der Unterbringung während der Maßnahme, Institution oder Personenkreis, die oder der die Maßnahme angeregt hat, Zeitpunkt des Beginns und Dauer der Maßnahme, Durchführung auf Grund einer vorangegangenen Gefährdungseinschätzung nach § 8a Absatz 1, Maßnahmeanlass, Art der anschließenden Hilfe,
+Art der Maßnahme, Art des Trägers der Maßnahme, Form der Unterbringung während der Maßnahme, Institution oder Personenkreis, die oder der die Maßnahme angeregt hat, Zeitpunkt des Beginns und Dauer der Maßnahme, Durchführung auf Grund einer vorangegangenen Gefährdungseinschätzung nach § 8a Absatz 1, Maßnahmeanlass, Art der anschließenden Hilfe,
 
 2.  
-bei Kindern und Jugendlichen zusätzlich zu den unter Nummer 1 genannten Merkmalen nach Geschlecht, Altersgruppe, Migrationshintergrund, Art des Aufenthalts vor Beginn der Maßnahme.
+bei Kindern und Jugendlichen zusätzlich zu den unter Nummer 1 genannten Merkmalen nach Geschlecht, Altersgruppe zu Beginn der Maßnahme, Migrationshintergrund, Art des Aufenthalts vor Beginn der Maßnahme.
 
 (3) Erhebungsmerkmale bei den Erhebungen über die Annahme als Kind sind
 
@@ -2592,16 +2738,19 @@ gegliedert nach Geschlecht, Alter und zusätzlich bei Nummer 4 nach dem Umfang d
 die Einrichtungen, gegliedert nach
 
 a)  
-der Art des Trägers und der Rechtsform sowie besonderen Merkmalen,
+der Art und Name des Trägers und der Rechtsform sowie besonderen Merkmalen,
 
 b)  
-der Zahl der genehmigten Plätze sowie
+der Zahl der genehmigten Plätze,
 
 c)  
-der Art und Anzahl der Gruppen,
+der Art und Anzahl der Gruppen sowie
+
+d)  
+die Anzahl der Kinder insgesamt,
 
 2.  
-für jede dort haupt- und nebenberuflich tätige Person
+für jede dort tätige Person
 
 a)  
 Geschlecht und Beschäftigungsumfang,
@@ -2673,7 +2822,7 @@ Monat und Jahr der Aufnahme in Kindertagespflege.
 (8) Erhebungsmerkmale bei den Erhebungen über die Angebote der Jugendarbeit nach § 11 sowie bei den Erhebungen über Fortbildungsmaßnahmen für ehrenamtliche Mitarbeiter anerkannter Träger der Jugendhilfe nach § 74 Absatz 6 sind offene und Gruppenangebote sowie Veranstaltungen und Projekte der Jugendarbeit, soweit diese mit öffentlichen Mitteln pauschal oder maßnahmenbezogen gefördert werden oder der Träger eine öffentliche Förderung erhält, gegliedert nach
 
 1.  
-Art und Rechtsform des Trägers,
+Art, Name und Rechtsform des Trägers,
 
 2.  
 Dauer, Häufigkeit, Durchführungsort und Art des Angebots; zusätzlich bei schulbezogenen Angeboten die Art der kooperierenden Schule,
@@ -2690,7 +2839,7 @@ Partnerländer und Veranstaltungen im In- oder Ausland bei Veranstaltungen und P
 (9) Erhebungsmerkmale bei den Erhebungen über die Einrichtungen, soweit sie nicht in Absatz 7 erfasst werden, sowie die Behörden und Geschäftsstellen in der Jugendhilfe und die dort tätigen Personen sind
 
 1.  
-die Einrichtungen, gegliedert nach der Art der Einrichtung, der Art des Trägers, der Rechtsform sowie der Art und Zahl der verfügbaren Plätze,
+die Einrichtungen, gegliedert nach der Art der Einrichtung, der Art und Name des Trägers, der Rechtsform sowie der Art und Zahl der verfügbaren Plätze,
 
 2.  
 die Behörden der öffentlichen Jugendhilfe sowie die Geschäftsstellen der Träger der freien Jugendhilfe, gegliedert nach der Art des Trägers und der Rechtsform,
@@ -2797,7 +2946,7 @@ die fachlich zuständige oberste Bundesbehörde für die Erhebung nach § 99 Abs
 die kreisangehörigen Gemeinden und die Gemeindeverbände, soweit sie Aufgaben der Jugendhilfe wahrnehmen, für die Erhebungen nach § 99 Absatz 7 bis 10,
 
 6.  
-die Träger der freien Jugendhilfe für Erhebungen nach § 99 Absatz 1, soweit sie eine Beratung nach § 28 oder § 41 betreffen, nach § 99 Absatz 8, soweit sie anerkannte Träger der freien Jugendhilfe nach § 75 Absatz 1 oder Absatz 3 sind, und nach § 99 Absatz 2, 3, 7 und 9,
+die Träger der freien Jugendhilfe für Erhebungen nach § 99 Absatz 1, soweit sie eine Beratung nach § 28 oder § 41 betreffen, nach § 99 Absatz 8, soweit sie anerkannte Träger der freien Jugendhilfe nach § 75 Absatz 1 oder Absatz 3 sind, und nach § 99 Absatz 3, 7 und 9,
 
 7.  
 Adoptionsvermittlungsstellen nach § 2 Absatz 2 des Adoptionsvermittlungsgesetzes aufgrund ihrer Tätigkeit nach § 1 des Adoptionsvermittlungsgesetzes sowie anerkannte Auslandsvermittlungsstellen nach § 4 Absatz 2 Satz 2 des Adoptionsvermittlungsgesetzes aufgrund ihrer Tätigkeit nach § 2a Absatz 3 Nummer 3 des Adoptionsvermittlungsgesetzes gemäß § 99 Absatz 3 Nummer 1 sowie gemäß § 99 Absatz 3 Nummer 2a für die Zahl der ausgesprochenen Annahmen und gemäß § 99 Absatz 3 Nummer 2b für die Zahl der vorgemerkten Adoptionsbewerber,
@@ -2847,3 +2996,12 @@ eine in § 104 Absatz 1 Nummer 1 oder 2 bezeichnete Handlung begeht und dadurch 
 
 2.  
 eine in § 104 Absatz 1 Nummer 1 oder 2 bezeichnete vorsätzliche Handlung beharrlich wiederholt.
+
+Elftes Kapitel Schlussvorschriften
+----------------------------------
+
+### 
+
+### § 106 Einschränkung eines Grundrechts
+
+Durch § 42 Absatz 5 und § 42a Absatz 1 Satz 2 wird das Grundrecht auf Freiheit der Person (Artikel 2 Absatz 2 Satz 3 des Grundgesetzes) eingeschränkt.
