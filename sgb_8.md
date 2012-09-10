@@ -5,10 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 11.9.2012 I 2022;
 
 Stand  
-zuletzt geändert durch Art. 3 G v. 3.5.2013 I 1108
-
-Hinweis  
-Änderung durch Art. 1 G v. 29.8.2013 I 3464 (Nr. 53) noch nicht berücksichtigt
+zuletzt geändert durch Art. 1 G v. 29.8.2013 I 3464
 
 ### 
 
@@ -262,7 +259,7 @@ Das G wurde vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem
 |                                                        |
 | **Zweiter Abschnitt**                                  |
 | **Kostenbeiträge für stationäre und teilstationäre**   |
-| **Leistungen und vorläufige Maßnahmen**                |
+| **Leistungen sowie vorläufige Maßnahmen**              |
 | § 91                                                   |
 | § 92                                                   |
 | § 93                                                   |
@@ -635,7 +632,7 @@ bei der Geltendmachung ihrer Unterhaltsansprüche nach § 1615l des Bürgerliche
 
 (2) Mütter und Väter, die mit dem anderen Elternteil nicht verheiratet sind, haben Anspruch auf Beratung über die Abgabe einer Sorgeerklärung und die Möglichkeit der gerichtlichen Übertragung der gemeinsamen elterlichen Sorge.
 
-(3) Kinder und Jugendliche haben Anspruch auf Beratung und Unterstützung bei der Ausübung des Umgangsrechts nach § 1684 Absatz 1 des Bürgerlichen Gesetzbuchs. Sie sollen darin unterstützt werden, dass die Personen, die nach Maßgabe der §§ 1684 und 1685 des Bürgerlichen Gesetzbuchs zum Umgang mit ihnen berechtigt sind, von diesem Recht zu ihrem Wohl Gebrauch machen. Eltern, andere Umgangsberechtigte sowie Personen, in deren Obhut sich das Kind befindet, haben Anspruch auf Beratung und Unterstützung bei der Ausübung des Umgangsrechts. Bei der Befugnis, Auskunft über die persönlichen Verhältnisse des Kindes zu verlangen, bei der Herstellung von Umgangskontakten und bei der Ausführung gerichtlicher oder vereinbarter Umgangsregelungen soll vermittelt und in geeigneten Fällen Hilfestellung geleistet werden.
+(3) Kinder und Jugendliche haben Anspruch auf Beratung und Unterstützung bei der Ausübung des Umgangsrechts nach § 1684 Absatz 1 des Bürgerlichen Gesetzbuchs. Sie sollen darin unterstützt werden, dass die Personen, die nach Maßgabe der §§ 1684, 1685 und 1686a des Bürgerlichen Gesetzbuchs zum Umgang mit ihnen berechtigt sind, von diesem Recht zu ihrem Wohl Gebrauch machen. Eltern, andere Umgangsberechtigte sowie Personen, in deren Obhut sich das Kind befindet, haben Anspruch auf Beratung und Unterstützung bei der Ausübung des Umgangsrechts. Bei der Befugnis, Auskunft über die persönlichen Verhältnisse des Kindes zu verlangen, bei der Herstellung von Umgangskontakten und bei der Ausführung gerichtlicher oder vereinbarter Umgangsregelungen soll vermittelt und in geeigneten Fällen Hilfestellung geleistet werden.
 
 (4) Ein junger Volljähriger hat bis zur Vollendung des 21. Lebensjahres Anspruch auf Beratung und Unterstützung bei der Geltendmachung von Unterhalts- oder Unterhaltsersatzansprüchen.
 
@@ -947,7 +944,7 @@ Sofern der Inhaber der Personensorge durch eine Erklärung nach § 1688 Absatz 3
 
 (1) Wird Hilfe nach den §§ 32 bis 35 oder nach § 35a Absatz 2 Nummer 2 bis 4 gewährt, so ist auch der notwendige Unterhalt des Kindes oder Jugendlichen außerhalb des Elternhauses sicherzustellen. Er umfasst die Kosten für den Sachaufwand sowie für die Pflege und Erziehung des Kindes oder Jugendlichen.
 
-(2) Der gesamte regelmäßig wiederkehrende Bedarf soll durch laufende Leistungen gedeckt werden. Sie umfassen außer im Fall des § 32 und des § 35a Absatz 2 Nummer 2 auch einen angemessenen Barbetrag zur persönlichen Verfügung des Kindes oder des Jugendlichen. Die Höhe des Betrages wird in den Fällen der §§ 34, 35, 35a Absatz 2 Nummer 4 von der nach Landesrecht zuständigen Behörde festgesetzt; die Beträge sollen nach Altersgruppen gestaffelt sein. Die laufenden Leistungen im Rahmen der Hilfe in Vollzeitpflege (§ 33) oder bei einer geeigneten Pflegeperson (§ 35a Absatz 2 Satz 2 Nummer 3) sind nach den Absätzen 4 bis 6 zu bemessen.
+(2) Der gesamte regelmäßig wiederkehrende Bedarf soll durch laufende Leistungen gedeckt werden. Sie umfassen außer im Fall des § 32 und des § 35a Absatz 2 Nummer 2 auch einen angemessenen Barbetrag zur persönlichen Verfügung des Kindes oder des Jugendlichen. Die Höhe des Betrages wird in den Fällen der §§ 34, 35, 35a Absatz 2 Nummer 4 von der nach Landesrecht zuständigen Behörde festgesetzt; die Beträge sollen nach Altersgruppen gestaffelt sein. Die laufenden Leistungen im Rahmen der Hilfe in Vollzeitpflege (§ 33) oder bei einer geeigneten Pflegeperson (§ 35a Absatz 2 Nummer 3) sind nach den Absätzen 4 bis 6 zu bemessen.
 
 (3) Einmalige Beihilfen oder Zuschüsse können insbesondere zur Erstausstattung einer Pflegestelle, bei wichtigen persönlichen Anlässen sowie für Urlaubs- und Ferienreisen des Kindes oder des Jugendlichen gewährt werden.
 
@@ -1887,7 +1884,7 @@ Sechstes Kapitel Zentrale Aufgaben
 
 ### § 83 Aufgaben des Bundes, Bundesjugendkuratorium
 
-(1) Die fachlich zuständige oberste Bundesbehörde soll die Tätigkeit der Jugendhilfe anregen und fördern, soweit sie von überregionaler Bedeutung ist und ihrer Art nach nicht durch ein Land allein wirksam gefördert werden kann.
+(1) Die fachlich zuständige oberste Bundesbehörde soll die Tätigkeit der Jugendhilfe anregen und fördern, soweit sie von überregionaler Bedeutung ist und ihrer Art nach nicht durch ein Land allein wirksam gefördert werden kann. Hierzu gehören auch die überregionalen Tätigkeiten der Jugendorganisationen der politischen Parteien auf dem Gebiet der Jugendarbeit.
 
 (2) Die Bundesregierung wird in grundsätzlichen Fragen der Jugendhilfe von einem Sachverständigengremium (Bundesjugendkuratorium) beraten. Das Nähere regelt die Bundesregierung durch Verwaltungsvorschriften.
 
@@ -1949,6 +1946,8 @@ die Erteilung der Erlaubnis zur Übernahme von Pflegschaften oder Vormundschafte
 
 (5) Ist das Land überörtlicher Träger, so können durch Landesrecht bis zum 30. Juni 1993 einzelne seiner Aufgaben auf andere Körperschaften des öffentlichen Rechts, die nicht Träger der öffentlichen Jugendhilfe sind, übertragen werden.
 
+§ 85 Abs. 1 idF d. Bek. v. 11.9.2012 I 2022: Bayern - Abweichung durch Art. 24 Abs. 2 Satz 1 Gesetz zur Ausführung der Sozialgesetze (AGSG) v. 8.12.2006 (GVBl S. 942, BayRS 86-7-A) idF d. G v. 24.6.2013 (GVBl S. 385) mWv 16.7.2013 (vgl. BGBl. I 2014, 47)
+
 Zweiter Abschnitt Örtliche Zuständigkeit
 ----------------------------------------
 
@@ -1969,7 +1968,7 @@ Erster Unterabschnitt Örtliche Zuständigkeit für Leistungen
 
 (4) Haben die Eltern oder der nach den Absätzen 1 bis 3 maßgebliche Elternteil im Inland keinen gewöhnlichen Aufenthalt, oder ist ein gewöhnlicher Aufenthalt nicht feststellbar, oder sind sie verstorben, so richtet sich die Zuständigkeit nach dem gewöhnlichen Aufenthalt des Kindes oder des Jugendlichen vor Beginn der Leistung. Hatte das Kind oder der Jugendliche während der letzten sechs Monate vor Beginn der Leistung keinen gewöhnlichen Aufenthalt, so ist der örtliche Träger zuständig, in dessen Bereich sich das Kind oder der Jugendliche vor Beginn der Leistung tatsächlich aufhält.
 
-(5) Begründen die Elternteile nach Beginn der Leistung verschiedene gewöhnliche Aufenthalte, so wird der örtliche Träger zuständig, in dessen Bereich der personensorgeberechtigte Elternteil seinen gewöhnlichen Aufenthalt hat; dies gilt auch dann, wenn ihm einzelne Angelegenheiten der Personensorge entzogen sind. Solange die Personensorge beiden Elternteilen gemeinsam oder keinem Elternteil zusteht, bleibt die bisherige Zuständigkeit bestehen. Absatz 4 gilt entsprechend.
+(5) Begründen die Elternteile nach Beginn der Leistung verschiedene gewöhnliche Aufenthalte, so wird der örtliche Träger zuständig, in dessen Bereich der personensorgeberechtigte Elternteil seinen gewöhnlichen Aufenthalt hat; dies gilt auch dann, wenn ihm einzelne Angelegenheiten der Personensorge entzogen sind. Solange in diesen Fällen die Personensorge beiden Elternteilen gemeinsam oder keinem Elternteil zusteht, bleibt die bisherige Zuständigkeit bestehen. Absatz 4 gilt entsprechend.
 
 (6) Lebt ein Kind oder ein Jugendlicher zwei Jahre bei einer Pflegeperson und ist sein Verbleib bei dieser Pflegeperson auf Dauer zu erwarten, so ist oder wird abweichend von den Absätzen 1 bis 5 der örtliche Träger zuständig, in dessen Bereich die Pflegeperson ihren gewöhnlichen Aufenthalt hat. Er hat die Eltern und, falls den Eltern die Personensorge nicht oder nur teilweise zusteht, den Personensorgeberechtigten über den Wechsel der Zuständigkeit zu unterrichten. Endet der Aufenthalt bei der Pflegeperson, so endet die Zuständigkeit nach Satz 1.
 
@@ -2040,7 +2039,7 @@ Für die Inobhutnahme eines Kindes oder eines Jugendlichen (§ 42) ist der örtl
 
 (5) Für die Beratung und Unterstützung nach § 52a sowie für die Beistandschaft gilt Absatz 1 Satz 1 und 3 entsprechend. Sobald der allein sorgeberechtigte Elternteil seinen gewöhnlichen Aufenthalt im Bereich eines anderen Jugendamts nimmt, hat das die Beistandschaft führende Jugendamt bei dem Jugendamt des anderen Bereichs die Weiterführung der Beistandschaft zu beantragen; Absatz 2 Satz 2 und § 86c gelten entsprechend.
 
-(6) Für die Erteilung der Bescheinigung nach § 58a Absatz 2 gilt Absatz 1 entsprechend. Die Mitteilungen nach § 1626d Absatz 2 des Bürgerlichen Gesetzbuchs, die Mitteilungen nach § 155a Absatz 3 Satz 2 und Absatz 5 Satz 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie die Mitteilungen nach § 50 Absatz 3 sind an das für den Geburtsort des Kindes oder des Jugendlichen zuständige Jugendamt zu richten; § 88 Absatz 1 Satz 2 gilt entsprechend. Das nach Satz 2 zuständige Jugendamt teilt auf Ersuchen dem nach Satz 1 zuständigen Jugendamt mit, ob Eintragungen im Sorgeregister vorliegen.
+(6) Für die Erteilung der Bescheinigung nach § 58a Absatz 2 gilt Absatz 1 entsprechend. Die Mitteilungen nach § 1626d Absatz 2 des Bürgerlichen Gesetzbuchs, die Mitteilungen nach § 155a Absatz 3 Satz 3 und Absatz 5 Satz 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie die Mitteilungen nach § 50 Absatz 3 sind an das für den Geburtsort des Kindes oder des Jugendlichen zuständige Jugendamt zu richten; § 88 Absatz 1 Satz 2 gilt entsprechend. Das nach Satz 2 zuständige Jugendamt teilt auf Ersuchen dem nach Satz 1 zuständigen Jugendamt mit, ob Eintragungen im Sorgeregister vorliegen.
 
 ### § 87d Örtliche Zuständigkeit für weitere Aufgaben im Vormundschaftswesen
 
@@ -2076,7 +2075,7 @@ Ist für die örtliche Zuständigkeit nach den §§ 86, 86a oder 86b der tatsäc
 
 (1) Kosten, die ein örtlicher Träger auf Grund einer Zuständigkeit nach § 86 Absatz 6 aufgewendet hat, sind von dem örtlichen Träger zu erstatten, der zuvor zuständig war oder gewesen wäre. Die Kostenerstattungspflicht bleibt bestehen, wenn die Pflegeperson ihren gewöhnlichen Aufenthalt ändert oder wenn die Leistung über die Volljährigkeit hinaus nach § 41 fortgesetzt wird.
 
-(2) Hat oder hätte der nach Absatz 1 kostenerstattungspflichtig werdende örtliche Träger während der Gewährung einer Leistung selbst einen Kostenerstattungsanspruch gegen einen anderen örtlichen oder den überörtlichen Träger, so bleibt abweichend von Absatz 1 dieser Träger dem nunmehr nach § 86 Absatz 6 zuständig gewordenen örtlichen Träger kostenerstattungspflichtig.
+(2) Hat oder hätte der nach Absatz 1 kostenerstattungspflichtig werdende örtliche Träger während der Gewährung einer Leistung selbst einen Kostenerstattungsanspruch gegen einen anderen örtlichen oder den überörtlichen Träger, so bleibt oder wird abweichend von Absatz 1 dieser Träger dem nunmehr nach § 86 Absatz 6 zuständig gewordenen örtlichen Träger kostenerstattungspflichtig.
 
 (3) Ändert sich während der Gewährung der Leistung nach Absatz 1 der für die örtliche Zuständigkeit nach § 86 Absatz 1 bis 5 maßgebliche gewöhnliche Aufenthalt, so wird der örtliche Träger kostenerstattungspflichtig, der ohne Anwendung des § 86 Absatz 6 örtlich zuständig geworden wäre.
 
@@ -2283,13 +2282,13 @@ Elternteile zu den Kosten der in § 91 Absatz 1 genannten Leistungen und vorläu
 
 (3) Ein Kostenbeitrag kann bei Eltern, Ehegatten und Lebenspartnern ab dem Zeitpunkt erhoben werden, ab welchem dem Pflichtigen die Gewährung der Leistung mitgeteilt und er über die Folgen für seine Unterhaltspflicht gegenüber dem jungen Menschen aufgeklärt wurde. Ohne vorherige Mitteilung kann ein Kostenbeitrag für den Zeitraum erhoben werden, in welchem der Träger der öffentlichen Jugendhilfe aus rechtlichen oder tatsächlichen Gründen, die in den Verantwortungsbereich des Pflichtigen fallen, an der Geltendmachung gehindert war. Entfallen diese Gründe, ist der Pflichtige unverzüglich zu unterrichten.
 
-(4) Ein Kostenbeitrag kann nur erhoben werden, soweit Unterhaltsansprüche vorrangig oder gleichrangig Berechtigter nicht geschmälert werden. Von der Heranziehung der Eltern ist abzusehen, wenn das Kind, die Jugendliche, die junge Volljährige oder die Leistungsberechtigte nach § 19 schwanger ist oder ein leibliches Kind bis zur Vollendung des sechsten Lebensjahres betreut.
+(4) Ein Kostenbeitrag kann nur erhoben werden, soweit Unterhaltsansprüche vorrangig oder gleichrangig Berechtigter nicht geschmälert werden. Von der Heranziehung der Eltern ist abzusehen, wenn das Kind, die Jugendliche, die junge Volljährige oder die Leistungsberechtigte nach § 19 schwanger ist oder der junge Mensch oder die nach § 19 leistungsberechtigte Person ein leibliches Kind bis zur Vollendung des sechsten Lebensjahres betreut.
 
 (5) Von der Heranziehung soll im Einzelfall ganz oder teilweise abgesehen werden, wenn sonst Ziel und Zweck der Leistung gefährdet würden oder sich aus der Heranziehung eine besondere Härte ergäbe. Von der Heranziehung kann abgesehen werden, wenn anzunehmen ist, dass der damit verbundene Verwaltungsaufwand in keinem angemessenen Verhältnis zu dem Kostenbeitrag stehen wird.
 
 ### § 93 Berechnung des Einkommens
 
-(1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert mit Ausnahme der Grundrente nach oder entsprechend dem Bundesversorgungsgesetz sowie der Renten und Beihilfen, die nach dem Bundesentschädigungsgesetz für einen Schaden an Leben sowie an Körper und Gesundheit gewährt werden bis zur Höhe der vergleichbaren Grundrente nach dem Bundesversorgungsgesetz. Eine Entschädigung, die nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs wegen eines Schadens, der nicht Vermögensschaden ist, geleistet wird, ist nicht als Einkommen zu berücksichtigen. Geldleistungen, die dem gleichen Zwecke wie die jeweilige Leistung der Jugendhilfe dienen, zählen nicht zum Einkommen und sind unabhängig von einem Kostenbeitrag einzusetzen. Leistungen, die auf Grund öffentlich-rechtlicher Vorschriften zu einem ausdrücklich genannten Zweck erbracht werden, sind nicht als Einkommen zu berücksichtigen.
+(1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert mit Ausnahme der Grundrente nach oder entsprechend dem Bundesversorgungsgesetz sowie der Renten und Beihilfen, die nach dem Bundesentschädigungsgesetz für einen Schaden an Leben sowie an Körper und Gesundheit gewährt werden bis zur Höhe der vergleichbaren Grundrente nach dem Bundesversorgungsgesetz. Eine Entschädigung, die nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs wegen eines Schadens, der nicht Vermögensschaden ist, geleistet wird, ist nicht als Einkommen zu berücksichtigen. Geldleistungen, die dem gleichen Zwecke wie die jeweilige Leistung der Jugendhilfe dienen, zählen nicht zum Einkommen und sind unabhängig von einem Kostenbeitrag einzusetzen. Kindergeld und Leistungen, die auf Grund öffentlich-rechtlicher Vorschriften zu einem ausdrücklich genannten Zweck erbracht werden, sind nicht als Einkommen zu berücksichtigen.
 
 (2) Von dem Einkommen sind abzusetzen
 
@@ -2302,7 +2301,7 @@ Pflichtbeiträge zur Sozialversicherung einschließlich der Beiträge zur Arbeit
 3.  
 nach Grund und Höhe angemessene Beiträge zu öffentlichen oder privaten Versicherungen oder ähnlichen Einrichtungen zur Absicherung der Risiken Alter, Krankheit, Pflegebedürftigkeit und Arbeitslosigkeit.
 
-(3) Von dem nach den Absätzen 1 und 2 errechneten Betrag sind Belastungen der kostenbeitragspflichtigen Person abzuziehen. In Betracht kommen insbesondere
+(3) Von dem nach den Absätzen 1 und 2 errechneten Betrag sind Belastungen der kostenbeitragspflichtigen Person abzuziehen. Der Abzug erfolgt durch eine Kürzung des nach den Absätzen 1 und 2 errechneten Betrages um pauschal 25 vom Hundert. Sind die Belastungen höher als der pauschale Abzug, so können sie abgezogen werden, soweit sie nach Grund und Höhe angemessen sind und die Grundsätze einer wirtschaftlichen Lebensführung nicht verletzen. In Betracht kommen insbesondere
 
 1.  
 Beiträge zu öffentlichen oder privaten Versicherungen oder ähnlichen Einrichtungen,
@@ -2313,7 +2312,9 @@ die mit der Erzielung des Einkommens verbundenen notwendigen Ausgaben,
 3.  
 Schuldverpflichtungen.
 
-Der Abzug erfolgt durch eine Kürzung des nach den Absätzen 1 und 2 errechneten Betrages um pauschal 25 vom Hundert. Sind die Belastungen höher als der pauschale Abzug, so können sie abgezogen werden, soweit sie nach Grund und Höhe angemessen sind und die Grundsätze einer wirtschaftlichen Lebensführung nicht verletzen. Die kostenbeitragspflichtige Person muss die Belastungen nachweisen.
+Die kostenbeitragspflichtige Person muss die Belastungen nachweisen.
+
+(4) Maßgeblich ist das durchschnittliche Monatseinkommen, das die kostenbeitragspflichtige Person in dem Kalenderjahr erzielt hat, welches dem jeweiligen Kalenderjahr der Leistung oder Maßnahme vorangeht. Auf Antrag der kostenbeitragspflichtigen Person wird dieses Einkommen nachträglich durch das durchschnittliche Monatseinkommen ersetzt, welches die Person in dem jeweiligen Kalenderjahr der Leistung oder Maßnahme erzielt hat. Der Antrag kann innerhalb eines Jahres nach Ablauf dieses Kalenderjahres gestellt werden. Macht die kostenbeitragspflichtige Person glaubhaft, dass die Heranziehung zu den Kosten aus dem Einkommen nach Satz 1 in einem bestimmten Zeitraum eine besondere Härte für sie ergäbe, wird vorläufig von den glaubhaft gemachten, dem Zeitraum entsprechenden Monatseinkommen ausgegangen; endgültig ist in diesem Fall das nach Ablauf des Kalenderjahres zu ermittelnde durchschnittliche Monatseinkommen dieses Jahres maßgeblich.
 
 ### § 94 Umfang der Heranziehung
 
@@ -2321,13 +2322,13 @@ Der Abzug erfolgt durch eine Kürzung des nach den Absätzen 1 und 2 errechneten
 
 (2) Für die Bestimmung des Umfangs sind bei jedem Elternteil, Ehegatten oder Lebenspartner die Höhe des nach § 93 ermittelten Einkommens und die Anzahl der Personen, die mindestens im gleichen Range wie der untergebrachte junge Mensch oder Leistungsberechtigte nach § 19 unterhaltsberechtigt sind, angemessen zu berücksichtigen.
 
-(3) Werden Leistungen über Tag und Nacht außerhalb des Elternhauses erbracht und bezieht einer der Elternteile Kindergeld für den jungen Menschen, so hat dieser einen Kostenbeitrag mindestens in Höhe des Kindergeldes zu zahlen. Zahlt der Elternteil den Kostenbeitrag nicht, so sind die Träger der öffentlichen Jugendhilfe insoweit berechtigt, das auf dieses Kind entfallende Kindergeld durch Geltendmachung eines Erstattungsanspruchs nach § 74 Absatz 2 des Einkommensteuergesetzes in Anspruch zu nehmen.
+(3) Werden Leistungen über Tag und Nacht außerhalb des Elternhauses erbracht und bezieht einer der Elternteile Kindergeld für den jungen Menschen, so hat dieser unabhängig von einer Heranziehung nach Absatz 1 Satz 1 und 2 und nach Maßgabe des Absatzes 1 Satz 3 und 4 einen Kostenbeitrag in Höhe des Kindergeldes zu zahlen. Zahlt der Elternteil den Kostenbeitrag nach Satz 1 nicht, so sind die Träger der öffentlichen Jugendhilfe insoweit berechtigt, das auf dieses Kind entfallende Kindergeld durch Geltendmachung eines Erstattungsanspruchs nach § 74 Absatz 2 des Einkommensteuergesetzes in Anspruch zu nehmen.
 
 (4) Werden Leistungen über Tag und Nacht erbracht und hält sich der junge Mensch nicht nur im Rahmen von Umgangskontakten bei einem Kostenbeitragspflichtigen auf, so ist die tatsächliche Betreuungsleistung über Tag und Nacht auf den Kostenbeitrag anzurechnen.
 
 (5) Für die Festsetzung der Kostenbeiträge von Eltern, Ehegatten und Lebenspartnern junger Menschen und Leistungsberechtigter nach § 19 werden nach Einkommensgruppen gestaffelte Pauschalbeträge durch Rechtsverordnung des zuständigen Bundesministeriums mit Zustimmung des Bundesrates bestimmt.
 
-(6) Bei vollstationären Leistungen haben junge Menschen und Leistungsberechtigte nach § 19 nach Abzug der in § 93 Absatz 2 genannten Beträge 75 Prozent ihres Einkommens als Kostenbeitrag einzusetzen.
+(6) Bei vollstationären Leistungen haben junge Menschen und Leistungsberechtigte nach § 19 nach Abzug der in § 93 Absatz 2 genannten Beträge 75 Prozent ihres Einkommens als Kostenbeitrag einzusetzen. Es kann ein geringerer Kostenbeitrag erhoben oder gänzlich von der Erhebung des Kostenbeitrags abgesehen werden, wenn das Einkommen aus einer Tätigkeit stammt, die dem Zweck der Leistung dient. Dies gilt insbesondere, wenn es sich um eine Tätigkeit im sozialen oder kulturellen Bereich handelt, bei der nicht die Erwerbstätigkeit, sondern das soziale oder kulturelle Engagement im Vordergrund stehen.
 
 Dritter Abschnitt Überleitung von Ansprüchen
 --------------------------------------------
@@ -2419,7 +2420,7 @@ Kinder und Jugendliche, für die eine Pflegeerlaubnis erteilt worden ist,
 Maßnahmen des Familiengerichts,
 
 10.  
-mit öffentlichen Mitteln geförderte Angebote der Jugendarbeit,
+Angebote der Jugendarbeit nach § 11 sowie Fortbildungsmaßnahmen für ehrenamtliche Mitarbeiter anerkannter Träger der Jugendhilfe nach § 74 Absatz 6,
 
 11.  
 die Einrichtungen mit Ausnahme der Tageseinrichtungen, Behörden und Geschäftsstellen in der Jugendhilfe und die dort tätigen Personen sowie
@@ -2501,10 +2502,10 @@ Zahl der außerhalb der Familie lebenden Kinder und Jugendlichen.
 (2) Erhebungsmerkmale bei den Erhebungen über vorläufige Maßnahmen zum Schutz von Kindern und Jugendlichen sind Kinder und Jugendliche, zu deren Schutz Maßnahmen nach § 42 getroffen worden sind, gegliedert nach
 
 1.  
-Art des Trägers der Maßnahme, Art der Maßnahme, Form der Unterbringung während der Maßnahme, Institution oder Personenkreis, die oder der die Maßnahme angeregt hat, Zeitpunkt des Beginns und Dauer der Maßnahme, Durchführung auf Grund einer vorangegangenen Gefährdungseinschätzung nach § 8a Absatz 1, Maßnahmeanlass, Art der anschließenden Hilfe,
+Art des Trägers der Maßnahme, Form der Unterbringung während der Maßnahme, Institution oder Personenkreis, die oder der die Maßnahme angeregt hat, Zeitpunkt des Beginns und Dauer der Maßnahme, Durchführung auf Grund einer vorangegangenen Gefährdungseinschätzung nach § 8a Absatz 1, Maßnahmeanlass, Art der anschließenden Hilfe,
 
 2.  
-bei Kindern und Jugendlichen zusätzlich zu den unter Nummer 1 genannten Merkmalen nach Geschlecht, Altersgruppe, Staatsangehörigkeit, Art des Aufenthalts vor Beginn der Maßnahme.
+bei Kindern und Jugendlichen zusätzlich zu den unter Nummer 1 genannten Merkmalen nach Geschlecht, Altersgruppe, Migrationshintergrund, Art des Aufenthalts vor Beginn der Maßnahme.
 
 (3) Erhebungsmerkmale bei den Erhebungen über die Annahme als Kind sind
 
@@ -2512,12 +2513,18 @@ bei Kindern und Jugendlichen zusätzlich zu den unter Nummer 1 genannten Merkmal
 angenommene Kinder und Jugendliche, gegliedert
 
 a)  
-nach Geschlecht, Geburtsmonat und Geburtsjahr, Staatsangehörigkeit und Art des Trägers des Adoptionsvermittlungsdienstes,
+nach nationaler Adoption und internationaler Adoption nach § 2a des Adoptionsvermittlungsgesetzes,
 
 b)  
-nach Herkunft des angenommenen Kindes, Art der Unterbringung vor der Adoptionspflege, Familienstand der Eltern oder des sorgeberechtigten Elternteils oder Tod der Eltern zu Beginn der Adoptionspflege sowie Ersetzung der Einwilligung zur Annahme als Kind,
+nach Geschlecht, Geburtsjahr, Staatsangehörigkeit und Art des Trägers des Adoptionsvermittlungsdienstes,
 
 c)  
+nach Herkunft des angenommenen Kindes, Art der Unterbringung vor der Adoptionspflege, Familienstand der Eltern oder des sorgeberechtigten Elternteils oder Tod der Eltern zu Beginn der Adoptionspflege sowie Ersetzung der Einwilligung zur Annahme als Kind,
+
+d)  
+zusätzlich bei der internationalen Adoption (§ 2a des Adoptionsvermittlungsgesetzes) nach Staatsangehörigkeit vor Ausspruch der Adoption und nach Herkunftsland,
+
+e)  
 nach Staatsangehörigkeit der oder des Annehmenden und Verwandtschaftsverhältnis zu dem Kind,
 
 2.  
@@ -2556,12 +2563,12 @@ die Pflegeerlaubnis nach § 44 ist die Zahl der Kinder und Jugendlichen, geglied
 (6) Erhebungsmerkmale bei der Erhebung zum Schutzauftrag bei Kindeswohlgefährdung nach § 8a sind Kinder und Jugendliche, bei denen eine Gefährdungseinschätzung nach Absatz 1 vorgenommen worden ist, gegliedert
 
 1.  
-nach der Art des Trägers, bei dem der Fall bekannt geworden ist, der die Gefährdungseinschätzung anregenden Institution oder Person, der Art der Kindeswohlgefährdung sowie dem Ergebnis der Gefährdungseinschätzung,
+nach der die Gefährdungseinschätzung anregenden Institution oder Person, der Art der Kindeswohlgefährdung sowie dem Ergebnis der Gefährdungseinschätzung,
 
 2.  
 bei Kindern und Jugendlichen zusätzlich zu den in Nummer 1 genannten Merkmalen nach Geschlecht, Alter und Aufenthaltsort des Kindes oder Jugendlichen zum Zeitpunkt der Meldung sowie dem Alter der Eltern und der Inanspruchnahme einer Leistung gemäß den §§ 16 bis 19 sowie 27 bis 35a und der Durchführung einer Maßnahme nach § 42.
 
-(6a) Erhebungsmerkmal bei den Erhebungen über Sorgeerklärungen und die gerichtliche Übertragung der gemeinsamen elterlichen Sorge nach § 1626a Absatz 1 Nummer 3 des Bürgerlichen Gesetzbuchs ist die gemeinsame elterliche Sorge nicht miteinander verheirateter Eltern, gegliedert danach, ob Sorgeerklärungen beider Eltern vorliegen, eine Sorgeerklärung ersetzt worden ist oder den Eltern die elterliche Sorge aufgrund einer gerichtlichen Entscheidung ganz oder zum Teil gemeinsam übertragen worden ist.
+(6a) Erhebungsmerkmal bei den Erhebungen über Sorgeerklärungen und die gerichtliche Übertragung der gemeinsamen elterlichen Sorge nach § 1626a Absatz 1 Nummer 3 des Bürgerlichen Gesetzbuchs ist die gemeinsame elterliche Sorge nicht miteinander verheirateter Eltern, gegliedert danach, ob Sorgeerklärungen beider Eltern vorliegen oder den Eltern die elterliche Sorge aufgrund einer gerichtlichen Entscheidung ganz oder zum Teil gemeinsam übertragen worden ist.
 
 (6b) Erhebungsmerkmal bei den Erhebungen über Maßnahmen des Familiengerichts ist die Zahl der Kinder und Jugendlichen, bei denen wegen einer Gefährdung ihres Wohls das familiengerichtliche Verfahren auf Grund einer Anrufung durch das Jugendamt nach § 8a Absatz 2 Satz 1 oder § 42 Absatz 3 Satz 2 Nummer 2 oder auf andere Weise eingeleitet worden ist und
 
@@ -2588,7 +2595,7 @@ a)
 der Art des Trägers und der Rechtsform sowie besonderen Merkmalen,
 
 b)  
-der Zahl der verfügbaren Plätze sowie
+der Zahl der genehmigten Plätze sowie
 
 c)  
 der Art und Anzahl der Gruppen,
@@ -2600,7 +2607,7 @@ a)
 Geschlecht und Beschäftigungsumfang,
 
 b)  
-für das pädagogisch und in der Verwaltung tätige Personal zusätzlich Geburtsmonat und Geburtsjahr, die Art des Berufsausbildungsabschlusses, Stellung im Beruf und Arbeitsbereich,
+für das pädagogisch und in der Verwaltung tätige Personal zusätzlich Geburtsmonat und Geburtsjahr, die Art des Berufsausbildungsabschlusses, Stellung im Beruf, Art der Beschäftigung und Arbeitsbereich,
 
 3.  
 für die dort geförderten Kinder
@@ -2618,7 +2625,10 @@ d)
 erhöhter Förderbedarf,
 
 e)  
-Gruppenzugehörigkeit.
+Gruppenzugehörigkeit,
+
+f)  
+Monat und Jahr der Aufnahme in der Tageseinrichtung.
 
 (7a) Erhebungsmerkmale bei den Erhebungen über Kinder in mit öffentlichen Mitteln geförderter Kindertagespflege sowie die die Kindertagespflege durchführenden Personen sind:
 
@@ -2653,25 +2663,29 @@ f)
 Verwandtschaftsverhältnis zur Pflegeperson,
 
 g)  
-gleichzeitig bestehende andere Betreuungsarrangements.
+gleichzeitig bestehende andere Betreuungsarrangements,
+
+h)  
+Monat und Jahr der Aufnahme in Kindertagespflege.
 
 (7b) Erhebungsmerkmale bei den Erhebungen über Personen, die mit öffentlichen Mitteln geförderte Kindertagespflege gemeinsam oder auf Grund einer Erlaubnis nach § 43 Absatz 3 Satz 3 durchführen und die von diesen betreuten Kinder sind die Zahl der Tagespflegepersonen und die Zahl der von diesen betreuten Kinder jeweils gegliedert nach Pflegestellen.
 
-(8) Erhebungsmerkmale bei den Erhebungen über die Angebote der Jugendarbeit nach § 11 sind die mit öffentlichen Mitteln geförderten Maßnahmen im Bereich
+(8) Erhebungsmerkmale bei den Erhebungen über die Angebote der Jugendarbeit nach § 11 sowie bei den Erhebungen über Fortbildungsmaßnahmen für ehrenamtliche Mitarbeiter anerkannter Träger der Jugendhilfe nach § 74 Absatz 6 sind offene und Gruppenangebote sowie Veranstaltungen und Projekte der Jugendarbeit, soweit diese mit öffentlichen Mitteln pauschal oder maßnahmenbezogen gefördert werden oder der Träger eine öffentliche Förderung erhält, gegliedert nach
 
 1.  
-der außerschulischen Jugendbildung (§ 11 Absatz 3 Nummer 1),
+Art und Rechtsform des Trägers,
 
 2.  
-der Kinder- und Jugenderholung (§ 11 Absatz 3 Nummer 5),
+Dauer, Häufigkeit, Durchführungsort und Art des Angebots; zusätzlich bei schulbezogenen Angeboten die Art der kooperierenden Schule,
 
 3.  
-der internationalen Jugendarbeit (§ 11 Absatz 3 Nummer 4) sowie
+Alter, Geschlecht sowie Art der Beschäftigung und Tätigkeit der bei der Durchführung des Angebots tätigen Personen,
 
 4.  
-der Fortbildungsmaßnahmen für Mitarbeiter (§ 74 Absatz 6),
+Zahl, Geschlecht und Alter der Teilnehmenden sowie der Besucher,
 
-gegliedert nach Art des Trägers, Dauer der Maßnahme sowie Zahl und Geschlecht der Teilnehmer, zusätzlich bei der internationalen Jugendarbeit nach Partnerländern und Maßnahmen im In- und Ausland.
+5.  
+Partnerländer und Veranstaltungen im In- oder Ausland bei Veranstaltungen und Projekten der internationalen Jugendarbeit.
 
 (9) Erhebungsmerkmale bei den Erhebungen über die Einrichtungen, soweit sie nicht in Absatz 7 erfasst werden, sowie die Behörden und Geschäftsstellen in der Jugendhilfe und die dort tätigen Personen sind
 
@@ -2694,7 +2708,7 @@ c)
 Geschlecht und Beschäftigungsumfang,
 
 d)  
-für das pädagogische und in der Verwaltung tätige Personal zusätzlich Geburtsmonat und Geburtsjahr, Art des Berufsausbildungsabschlusses, Stellung im Beruf und Arbeitsbereich.
+für das pädagogische und in der Verwaltung tätige Personal zusätzlich Geburtsmonat und Geburtsjahr, Art des Berufsausbildungsabschlusses, Stellung im Beruf, Art der Beschäftigung und Arbeitsbereich.
 
 (10) Erhebungsmerkmale bei der Erhebung der Ausgaben und Einnahmen der öffentlichen Jugendhilfe sind
 
@@ -2721,11 +2735,14 @@ Name und Anschrift des Auskunftspflichtigen,
 für die Erhebungen nach § 99 die Kenn-Nummer der hilfeleistenden Stelle oder der auskunftsgebenden Einrichtung; soweit eine Hilfe nach § 28 gebietsübergreifend erbracht wird, die Kenn-Nummer des Wohnsitzes des Hilfeempfängers,
 
 3.  
+für die Erhebungen nach § 99 Absatz 1, 2, 3 und 6 die Kenn-Nummer der betreffenden Person,
+
+4.  
 Name und Telefonnummer sowie Faxnummer oder E-Mail-Adresse der für eventuelle Rückfragen zur Verfügung stehenden Person.
 
 ### § 101 Periodizität und Berichtszeitraum
 
-(1) Die Erhebungen nach § 99 Absatz 1 bis 5 sowie nach Absatz 6a bis 7b und 10 sind jährlich durchzuführen, die Erhebungen nach § 99 Absatz 1, soweit sie die Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche betreffen, beginnend 2007. Die Erhebung nach § 99 Absatz 6 erfolgt laufend. Die übrigen Erhebungen nach § 99 sind alle vier Jahre durchzuführen, die Erhebungen nach Absatz 8 beginnend 1992, die Erhebungen nach Absatz 9 beginnend mit 2006. Die Erhebung nach § 99 Absatz 8 wird für das Jahr 2012 ausgesetzt.
+(1) Die Erhebungen nach § 99 Absatz 1 bis 5 sowie nach Absatz 6a bis 7b und 10 sind jährlich durchzuführen, die Erhebungen nach § 99 Absatz 1, soweit sie die Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche betreffen, beginnend 2007. Die Erhebung nach § 99 Absatz 6 erfolgt laufend. Die übrigen Erhebungen nach § 99 sind alle zwei Jahre durchzuführen, die Erhebungen nach § 99 Absatz 8 erstmalig für das Jahr 2015 und die Erhebungen nach § 99 Absatz 9 erstmalig für das Jahr 2014.
 
 (2) Die Angaben für die Erhebung nach
 
@@ -2742,7 +2759,7 @@ bis 5. (weggefallen)
 § 99 Absatz 3 Nummer 1 sind zum Zeitpunkt der rechtskräftigen gerichtlichen Entscheidung über die Annahme als Kind,
 
 8.  
-§ 99 Absatz 3 Nummer 2 Buchstabe a und Absatz 6a, 6b und 8 und 10 sind für das abgelaufene Kalenderjahr,
+§ 99 Absatz 3 Nummer 2 Buchstabe a und Absatz 6a, 6b und 10 sind für das abgelaufene Kalenderjahr,
 
 9.  
 § 99 Absatz 3 Nummer 2 Buchstabe b und Absatz 4, 5 und 9 sind zum 31. Dezember,
@@ -2751,21 +2768,24 @@ bis 5. (weggefallen)
 § 99 Absatz 7, 7a und 7b sind zum 1. März,
 
 11.  
-§ 99 Absatz 6 sind zum Zeitpunkt des Abschlusses der Gefährdungseinschätzung
+§ 99 Absatz 6 sind zum Zeitpunkt des Abschlusses der Gefährdungseinschätzung,
+
+12.  
+§ 99 Absatz 8 sind für das abgelaufene Kalenderjahr
 
 zu erteilen.
 
 ### § 102 Auskunftspflicht
 
-(1) Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 100 Nummer 3 sind freiwillig.
+(1) Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 100 Nummer 4 sind freiwillig.
 
 (2) Auskunftspflichtig sind
 
 1.  
-die örtlichen Träger der Jugendhilfe für die Erhebungen nach § 99 Absatz 1 bis 10, nach Absatz 8 nur, soweit eigene Maßnahmen durchgeführt werden,
+die örtlichen Träger der Jugendhilfe für die Erhebungen nach § 99 Absatz 1 bis 10, nach Absatz 8 nur, soweit eigene Angebote gemacht wurden,
 
 2.  
-die überörtlichen Träger der Jugendhilfe für die Erhebungen nach § 99 Absatz 3 und 7 und 8 bis 10, nach Absatz 8 nur, soweit eigene Maßnahmen durchgeführt werden,
+die überörtlichen Träger der Jugendhilfe für die Erhebungen nach § 99 Absatz 3 und 7 und 8 bis 10, nach Absatz 8 nur, soweit eigene Angebote gemacht wurden,
 
 3.  
 die obersten Landesjugendbehörden für die Erhebungen nach § 99 Absatz 7 und 8 bis 10,
@@ -2777,9 +2797,12 @@ die fachlich zuständige oberste Bundesbehörde für die Erhebung nach § 99 Abs
 die kreisangehörigen Gemeinden und die Gemeindeverbände, soweit sie Aufgaben der Jugendhilfe wahrnehmen, für die Erhebungen nach § 99 Absatz 7 bis 10,
 
 6.  
-die Träger der freien Jugendhilfe für Erhebungen nach § 99 Absatz 1, soweit sie eine Beratung nach § 28 oder § 41 betreffen, und nach § 99 Absatz 2, 3, 7, 8 und 9,
+die Träger der freien Jugendhilfe für Erhebungen nach § 99 Absatz 1, soweit sie eine Beratung nach § 28 oder § 41 betreffen, nach § 99 Absatz 8, soweit sie anerkannte Träger der freien Jugendhilfe nach § 75 Absatz 1 oder Absatz 3 sind, und nach § 99 Absatz 2, 3, 7 und 9,
 
 7.  
+Adoptionsvermittlungsstellen nach § 2 Absatz 2 des Adoptionsvermittlungsgesetzes aufgrund ihrer Tätigkeit nach § 1 des Adoptionsvermittlungsgesetzes sowie anerkannte Auslandsvermittlungsstellen nach § 4 Absatz 2 Satz 2 des Adoptionsvermittlungsgesetzes aufgrund ihrer Tätigkeit nach § 2a Absatz 3 Nummer 3 des Adoptionsvermittlungsgesetzes gemäß § 99 Absatz 3 Nummer 1 sowie gemäß § 99 Absatz 3 Nummer 2a für die Zahl der ausgesprochenen Annahmen und gemäß § 99 Absatz 3 Nummer 2b für die Zahl der vorgemerkten Adoptionsbewerber,
+
+8.  
 die Leiter der Einrichtungen, Behörden und Geschäftsstellen in der Jugendhilfe für die Erhebungen nach § 99 Absatz 7 und 9.
 
 (3) Zur Durchführung der Erhebungen nach § 99 Absatz 1, 2, 3, 7, 8 und 9 übermitteln die Träger der öffentlichen Jugendhilfe den statistischen Ämtern der Länder auf Anforderung die erforderlichen Anschriften der übrigen Auskunftspflichtigen.
