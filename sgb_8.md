@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 11.9.2012 I 2022;
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 28.10.2015 I 1802
+zuletzt geändert durch Art. 9 G v. 23.12.2016 I 3234
 
 ### 
 
@@ -1605,6 +1605,7 @@ Erster Abschnitt Träger der öffentlichen Jugendhilfe
 (4) Mehrere örtliche Träger und mehrere überörtliche Träger können, auch wenn sie verschiedenen Ländern angehören, zur Durchführung einzelner Aufgaben gemeinsame Einrichtungen und Dienste errichten.
 
 § 69 Abs. 3 idF d. Bek. v. 14.12.2006 I 3134: Niedersachsen - Abweichung durch § 9 Abs. 2 Gesetz zur Ausführung des Kinder- und Jugendhilfegesetzes (KJHGAG ND) idF d. Art. 12 G v. 15.12.2006, GVBl Nds 2006, 597 mWv 1.1.2007 (vgl. BGBl I 2009, 463)
+§ 69 Abs. 3 idF d. Bek. v. 14.12.2006 I 3134: Bremen - Abweichung durch § 1 Abs. 1 u. 2 Erstes Gesetzes zur Ausführung des Achten Buches Sozialgesetzbuch - Gesetz zur Ausführung des Kinder- und Jugendhilfegesetzes im Lande Bremen (BremAGKJHG) idF d. Art. 1 G v. 20.10.2015, Brem.GBl. S. 471 mWv 23.10.2015 (vgl. BGBl I 2016, 2195)
 
 ### § 70 Organisation des Jugendamts und des Landesjugendamts
 
@@ -1613,6 +1614,9 @@ Erster Abschnitt Träger der öffentlichen Jugendhilfe
 (2) Die Geschäfte der laufenden Verwaltung im Bereich der öffentlichen Jugendhilfe werden vom Leiter der Verwaltung der Gebietskörperschaft oder in seinem Auftrag vom Leiter der Verwaltung des Jugendamts im Rahmen der Satzung und der Beschlüsse der Vertretungskörperschaft und des Jugendhilfeausschusses geführt.
 
 (3) Die Aufgaben des Landesjugendamts werden durch den Landesjugendhilfeausschuss und durch die Verwaltung des Landesjugendamts im Rahmen der Satzung und der dem Landesjugendamt zur Verfügung gestellten Mittel wahrgenommen. Die Geschäfte der laufenden Verwaltung werden von dem Leiter der Verwaltung des Landesjugendamts im Rahmen der Satzung und der Beschlüsse des Landesjugendhilfeausschusses geführt.
+
+§ 70 Abs. 1 idF d. Bek. v. 14.12.2006 I 3134: Bremen - Abweichung durch § 2 Abs. 1 Erstes Gesetzes zur Ausführung des Achten Buches Sozialgesetzbuch - Gesetz zur Ausführung des Kinder- und Jugendhilfegesetzes im Lande Bremen (BremAGKJHG) idF d. Art. 1 G v. 20.10.2015, Brem.GBl. S. 471 mWv 23.10.2015 (vgl. BGBl I 2016, 2195)
+§ 70 Abs. 3 idF d. Bek. v. 14.12.2006 I 3134: Bremen - Abweichung durch § 3 Abs. 1 Erstes Gesetzes zur Ausführung des Achten Buches Sozialgesetzbuch - Gesetz zur Ausführung des Kinder- und Jugendhilfegesetzes im Lande Bremen (BremAGKJHG) idF d. Art. 1 G v. 20.10.2015, Brem.GBl. S. 471 mWv 23.10.2015 (vgl. BGBl I 2016, 2195)
 
 ### § 71 Jugendhilfeausschuss, Landesjugendhilfeausschuss
 
@@ -1653,7 +1657,7 @@ der Förderung der freien Jugendhilfe.
 
 ### § 72a Tätigkeitsausschluss einschlägig vorbestrafter Personen
 
-(1) Die Träger der öffentlichen Jugendhilfe dürfen für die Wahrnehmung der Aufgaben in der Kinder- und Jugendhilfe keine Person beschäftigen oder vermitteln, die rechtskräftig wegen einer Straftat nach den §§ 171, 174 bis 174c, 176 bis 180a, 181a, 182 bis 184g, 225, 232 bis 233a, 234, 235 oder 236 des Strafgesetzbuchs verurteilt worden ist. Zu diesem Zweck sollen sie sich bei der Einstellung oder Vermittlung und in regelmäßigen Abständen von den betroffenen Personen ein Führungszeugnis nach § 30 Absatz 5 und § 30a Absatz 1 des Bundeszentralregistergesetzes vorlegen lassen.
+(1) Die Träger der öffentlichen Jugendhilfe dürfen für die Wahrnehmung der Aufgaben in der Kinder- und Jugendhilfe keine Person beschäftigen oder vermitteln, die rechtskräftig wegen einer Straftat nach den §§ 171, 174 bis 174c, 176 bis 180a, 181a, 182 bis 184g, 184i, 201a Absatz 3, den §§ 225, 232 bis 233a, 234, 235 oder 236 des Strafgesetzbuchs verurteilt worden ist. Zu diesem Zweck sollen sie sich bei der Einstellung oder Vermittlung und in regelmäßigen Abständen von den betroffenen Personen ein Führungszeugnis nach § 30 Absatz 5 und § 30a Absatz 1 des Bundeszentralregistergesetzes vorlegen lassen.
 
 (2) Die Träger der öffentlichen Jugendhilfe sollen durch Vereinbarungen mit den Trägern der freien Jugendhilfe sicherstellen, dass diese keine Person, die wegen einer Straftat nach Absatz 1 Satz 1 rechtskräftig verurteilt worden ist, beschäftigen.
 
