@@ -7,6 +7,9 @@ Neugefasst durch Bek. v. 11.9.2012 I 2022;
 Stand  
 zuletzt geändert durch Art. 3 G v. 3.5.2013 I 1108
 
+Hinweis  
+Änderung durch Art. 1 G v. 29.8.2013 I 3464 (Nr. 53) noch nicht berücksichtigt
+
 ### 
 
 ```
@@ -18,402 +21,278 @@ Das G wurde vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem
 
 ### Inhaltsübersicht
 
-Erstes Kapitel
-
-Allgemeine Vorschriften
-
-|        |                                                                           |
-|--------|---------------------------------------------------------------------------|
-| §   1  | Recht auf Erziehung, Elternverantwortung, Jugendhilfe                     |
-| §   2  | Aufgaben der Jugendhilfe                                                  |
-| §   3  | Freie und öffentliche Jugendhilfe                                         |
-| §   4  | Zusammenarbeit der öffentlichen Jugendhilfe mit der freien Jugendhilfe    |
-| §   5  | Wunsch- und Wahlrecht                                                     |
-| §   6  | Geltungsbereich                                                           |
-| §   7  | Begriffsbestimmungen                                                      |
-| §   8  | Beteiligung von Kindern und Jugendlichen                                  |
-| §   8a | Schutzauftrag bei Kindeswohlgefährdung                                    |
-| §   8b | Fachliche Beratung und Begleitung zum Schutz von Kindern und Jugendlichen |
-| §   9  | Grundrichtung der Erziehung, Gleichberechtigung von Mädchen und Jungen    |
-| §  10  | Verhältnis zu anderen Leistungen und Verpflichtungen                      |
-
-Zweites Kapitel
-
-Leistungen der Jugendhilfe
-
-Erster Abschnitt
-
-Jugendarbeit, Jugendsozialarbeit,
-erzieherischer Kinder- und Jugendschutz
-
-|       |                                         |
-|-------|-----------------------------------------|
-| §  11 | Jugendarbeit                            |
-| §  12 | Förderung der Jugendverbände            |
-| §  13 | Jugendsozialarbeit                      |
-| §  14 | Erzieherischer Kinder- und Jugendschutz |
-| §  15 | Landesrechtsvorbehalt                   |
-
-Zweiter Abschnitt
-
-Förderung der Erziehung in der Familie
-
-|       |                                                                                     |
-|-------|-------------------------------------------------------------------------------------|
-| §  16 | Allgemeine Förderung der Erziehung in der Familie                                   |
-| §  17 | Beratung in Fragen der Partnerschaft, Trennung und Scheidung                        |
-| §  18 | Beratung und Unterstützung bei der Ausübung der Personensorge und des Umgangsrechts |
-| §  19 | Gemeinsame Wohnformen für Mütter/Väter und Kinder                                   |
-| §  20 | Betreuung und Versorgung des Kindes in Notsituationen                               |
-| §  21 | Unterstützung bei notwendiger Unterbringung zur Erfüllung der Schulpflicht          |
-
-Dritter Abschnitt
-
-Förderung von Kindern
-in Tageseinrichtungen und in Kindertagespflege
-
-|        |                                                                                           |
-|--------|-------------------------------------------------------------------------------------------|
-| §  22  | Grundsätze der Förderung                                                                  |
-| §  22a | Förderung in Tageseinrichtungen                                                           |
-| §  23  | Förderung in Kindertagespflege                                                            |
-| §  24  | Anspruch auf Förderung in Tageseinrichtungen und in Kindertagespflege                     |
-| §  24a | Übergangsregelung und stufenweiser Ausbau des Förderangebots für Kinder unter drei Jahren |
-| §  25  | Unterstützung selbst organisierter Förderung von Kindern                                  |
-| §  26  | Landesrechtsvorbehalt                                                                     |
-
-Vierter Abschnitt
-
-Hilfe zur Erziehung,
-Eingliederungshilfe für seelisch behinderte
-Kinder und Jugendliche, Hilfe für junge Volljährige
-
-Erster Unterabschnitt
-
-Hilfe zur Erziehung
-
-|       |                                              |
-|-------|----------------------------------------------|
-| §  27 | Hilfe zur Erziehung                          |
-| §  28 | Erziehungsberatung                           |
-| §  29 | Soziale Gruppenarbeit                        |
-| §  30 | Erziehungsbeistand, Betreuungshelfer         |
-| §  31 | Sozialpädagogische Familienhilfe             |
-| §  32 | Erziehung in einer Tagesgruppe               |
-| §  33 | Vollzeitpflege                               |
-| §  34 | Heimerziehung, sonstige betreute Wohnform    |
-| §  35 | Intensive sozialpädagogische Einzelbetreuung |
-
-Zweiter Unterabschnitt
-
-Eingliederungshilfe für seelisch
-behinderte Kinder und Jugendliche
-
-|        |                                                                    |
-|--------|--------------------------------------------------------------------|
-| §  35a | Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche |
-
-Dritter Unterabschnitt
-
-Gemeinsame Vorschriften für die Hilfe
-zur Erziehung und die Eingliederungshilfe
-für seelisch behinderte Kinder und Jugendliche
-
-|        |                                                           |
-|--------|-----------------------------------------------------------|
-| §  36  | Mitwirkung, Hilfeplan                                     |
-| §  36a | Steuerungsverantwortung, Selbstbeschaffung                |
-| §  37  | Zusammenarbeit bei Hilfen außerhalb der eigenen Familie   |
-| §  38  | Vermittlung bei der Ausübung der Personensorge            |
-| §  39  | Leistungen zum Unterhalt des Kindes oder des Jugendlichen |
-| §  40  | Krankenhilfe                                              |
-
-Vierter Unterabschnitt
-
-Hilfe für junge Volljährige
-
-|       |                                            |
-|-------|--------------------------------------------|
-| §  41 | Hilfe für junge Volljährige, Nachbetreuung |
-
-Drittes Kapitel
-
-Andere Aufgaben der Jugendhilfe
-
-Erster Abschnitt
-
-Vorläufige Maßnahmen
-zum Schutz von Kindern und Jugendlichen
-
-|       |                                           |
-|-------|-------------------------------------------|
-| §  42 | Inobhutnahme von Kindern und Jugendlichen |
-
-Zweiter Abschnitt
-
-Schutz von Kindern und Jugendlichen
-in Familienpflege und in Einrichtungen
-
-|        |                                             |
-|--------|---------------------------------------------|
-| §  43  | Erlaubnis zur Kindertagespflege             |
-| §  44  | Erlaubnis zur Vollzeitpflege                |
-| §  45  | Erlaubnis für den Betrieb einer Einrichtung |
-| §  46  | Örtliche Prüfung                            |
-| §  47  | Meldepflichten                              |
-| §  48  | Tätigkeitsuntersagung                       |
-| §  48a | Sonstige betreute Wohnform                  |
-| §  49  | Landesrechtsvorbehalt                       |
-
-Dritter Abschnitt
-
-Mitwirkung in gerichtlichen Verfahren
-
-|       |                                                          |
-|-------|----------------------------------------------------------|
-| §  50 | Mitwirkung in Verfahren vor den Familiengerichten        |
-| §  51 | Beratung und Belehrung in Verfahren zur Annahme als Kind |
-| §  52 | Mitwirkung in Verfahren nach dem Jugendgerichtsgesetz    |
-
-Vierter Abschnitt
-
-Beistandschaft, Pflegschaft und
-Vormundschaft für Kinder und Jugendliche,
-Auskunft über Nichtabgabe von Sorgeerklärungen
-
-|        |                                                                                                     |
-|--------|-----------------------------------------------------------------------------------------------------|
-| §  52a | Beratung und Unterstützung bei Vaterschaftsfeststellung und Geltendmachung von Unterhaltsansprüchen |
-| §  53  | Beratung und Unterstützung von Pflegern und Vormündern                                              |
-| §  54  | Erlaubnis zur Übernahme von Vereinsvormundschaften                                                  |
-| §  55  | Beistandschaft, Amtspflegschaft und Amtsvormundschaft                                               |
-| §  56  | Führung der Beistandschaft, der Amtspflegschaft und der Amtsvormundschaft                           |
-| §  57  | Mitteilungspflicht des Jugendamts                                                                   |
-| §  58  | Gegenvormundschaft des Jugendamts                                                                   |
-| § 58a  | Sorgeregister; Bescheinigung über Nichtvorliegen von Eintragungen im Sorgeregister                  |
-
-Fünfter Abschnitt
-
-Beurkundung, vollstreckbare Urkunden
-
-|       |                         |
-|-------|-------------------------|
-| §  59 | Beurkundung             |
-| §  60 | Vollstreckbare Urkunden |
-
-Viertes Kapitel
-
-Schutz von Sozialdaten
-
-|       |                                                                                      |
-|-------|--------------------------------------------------------------------------------------|
-| §  61 | Anwendungsbereich                                                                    |
-| §  62 | Datenerhebung                                                                        |
-| §  63 | Datenspeicherung                                                                     |
-| §  64 | Datenübermittlung und -nutzung                                                       |
-| §  65 | Besonderer Vertrauensschutz in der persönlichen und erzieherischen Hilfe             |
-| §  66 | (weggefallen)                                                                        |
-| §  67 | (weggefallen)                                                                        |
-| §  68 | Sozialdaten im Bereich der Beistandschaft, Amtspflegschaft und der Amtsvormundschaft |
-
-Fünftes Kapitel
-
-Träger der Jugendhilfe,
-Zusammenarbeit, Gesamtverantwortung
-
-Erster Abschnitt
-
-Träger der öffentlichen Jugendhilfe
-
-|        |                                                                     |
-|--------|---------------------------------------------------------------------|
-| §  69  | Träger der öffentlichen Jugendhilfe, Jugendämter, Landesjugendämter |
-| §  70  | Organisation des Jugendamts und des Landesjugendamts                |
-| §  71  | Jugendhilfeausschuss, Landesjugendhilfeausschuss                    |
-| §  72  | Mitarbeiter, Fortbildung                                            |
-| §  72a | Tätigkeitsausschluss einschlägig vorbestrafter Personen             |
-
-Zweiter Abschnitt
-
-Zusammenarbeit mit der freien
-Jugendhilfe, ehrenamtliche Tätigkeit
-
-|        |                                                                                           |
-|--------|-------------------------------------------------------------------------------------------|
-| §  73  | Ehrenamtliche Tätigkeit                                                                   |
-| §  74  | Förderung der freien Jugendhilfe                                                          |
-| §  74a | Finanzierung von Tageseinrichtungen für Kinder                                            |
-| §  75  | Anerkennung als Träger der freien Jugendhilfe                                             |
-| §  76  | Beteiligung anerkannter Träger der freien Jugendhilfe an der Wahrnehmung anderer Aufgaben |
-| §  77  | Vereinbarungen über die Höhe der Kosten                                                   |
-| §  78  | Arbeitsgemeinschaften                                                                     |
-
-Dritter Abschnitt
-
-Vereinbarungen über Leistungs-
-angebote, Entgelte und Qualitätsentwicklung
-
-|        |                                                             |
-|--------|-------------------------------------------------------------|
-| §  78a | Anwendungsbereich                                           |
-| §  78b | Voraussetzungen für die Übernahme des Leistungsentgelts     |
-| §  78c | Inhalt der Leistungs- und Entgeltvereinbarungen             |
-| §  78d | Vereinbarungszeitraum                                       |
-| §  78e | Örtliche Zuständigkeit für den Abschluss von Vereinbarungen |
-| §  78f | Rahmenverträge                                              |
-| §  78g | Schiedsstelle                                               |
-
-Vierter Abschnitt
-
-Gesamtverantwortung, Jugendhilfeplanung
-
-|        |                                                                                |
-|--------|--------------------------------------------------------------------------------|
-| §  79  | Gesamtverantwortung, Grundausstattung                                          |
-| §  79a | Qualitätsentwicklung in der Kinder- und Jugendhilfe                            |
-| §  80  | Jugendhilfeplanung                                                             |
-| §  81  | Strukturelle Zusammenarbeit mit anderen Stellen und öffentlichen Einrichtungen |
-
-Sechstes Kapitel
-
-Zentrale Aufgaben
-
-|       |                                             |
-|-------|---------------------------------------------|
-| §  82 | Aufgaben der Länder                         |
-| §  83 | Aufgaben des Bundes, Bundesjugendkuratorium |
-| §  84 | Jugendbericht                               |
-
-Siebtes Kapitel
-
-Zuständigkeit, Kostenerstattung
-
-Erster Abschnitt
-
-Sachliche Zuständigkeit
-
-|       |                         |
-|-------|-------------------------|
-| §  85 | Sachliche Zuständigkeit |
-
-Zweiter Abschnitt
-
-Örtliche Zuständigkeit
-
-Erster Unterabschnitt
-
-Örtliche Zuständigkeit für Leistungen
-
-|        |                                                                                             |
-|--------|---------------------------------------------------------------------------------------------|
-| §  86  | Örtliche Zuständigkeit für Leistungen an Kinder, Jugendliche und ihre Eltern                |
-| §  86a | Örtliche Zuständigkeit für Leistungen an junge Volljährige                                  |
-| §  86b | Örtliche Zuständigkeit für Leistungen in gemeinsamen Wohnformen für Mütter/Väter und Kinder |
-| §  86c | Fortdauernde Leistungsverpflichtung und Fallübergabe bei Zuständigkeitswechsel              |
-| §  86d | Verpflichtung zum vorläufigen Tätigwerden                                                   |
-
-Zweiter Unterabschnitt
-
-Örtliche Zuständigkeit für andere Aufgaben
-
-|        |                                                                                                                            |
-|--------|----------------------------------------------------------------------------------------------------------------------------|
-| §  87  | Örtliche Zuständigkeit für vorläufige Maßnahmen zum Schutz von Kindern und Jugendlichen                                    |
-| §  87a | Örtliche Zuständigkeit für Erlaubnis, Meldepflichten und Untersagung                                                       |
-| §  87b | Örtliche Zuständigkeit für die Mitwirkung in gerichtlichen Verfahren                                                       |
-| § 87c  | Örtliche Zuständigkeit für die Beistandschaft, die Amtspflegschaft, die Amtsvormundschaft und die Bescheinigung nach § 58a |
-| §  87d | Örtliche Zuständigkeit für weitere Aufgaben im Vormundschaftswesen                                                         |
-| §  87e | Örtliche Zuständigkeit für Beurkundung und Beglaubigung                                                                    |
-
-Dritter Unterabschnitt
-
-Örtliche Zuständigkeit bei Aufenthalt im Ausland
-
-|       |                                                  |
-|-------|--------------------------------------------------|
-| §  88 | Örtliche Zuständigkeit bei Aufenthalt im Ausland |
-
-Dritter Abschnitt
-
-Kostenerstattung
-
-|        |                                                                                    |
-|--------|------------------------------------------------------------------------------------|
-| §  89  | Kostenerstattung bei fehlendem gewöhnlichen Aufenthalt                             |
-| §  89a | Kostenerstattung bei fortdauernder Vollzeitpflege                                  |
-| §  89b | Kostenerstattung bei vorläufigen Maßnahmen zum Schutz von Kindern und Jugendlichen |
-| §  89c | Kostenerstattung bei fortdauernder oder vorläufiger Leistungsverpflichtung         |
-| §  89d | Kostenerstattung bei Gewährung von Jugendhilfe nach der Einreise                   |
-| §  89e | Schutz der Einrichtungsorte                                                        |
-| §  89f | Umfang der Kostenerstattung                                                        |
-| §  89g | Landesrechtsvorbehalt                                                              |
-| §  89h | Übergangsvorschrift                                                                |
-
-Achtes Kapitel
-
-Kostenbeteiligung
-
-Erster Abschnitt
-
-Pauschalierte Kostenbeteiligung
-
-|       |                                 |
-|-------|---------------------------------|
-| §  90 | Pauschalierte Kostenbeteiligung |
-
-Zweiter Abschnitt
-
-Kostenbeiträge für stationäre und
-teilstationäre Leistungen und vorläufige Maßnahmen
-
-|       |                                |
-|-------|--------------------------------|
-| §  91 | Anwendungsbereich              |
-| §  92 | Ausgestaltung der Heranziehung |
-| §  93 | Berechnung des Einkommens      |
-| §  94 | Umfang der Heranziehung        |
-
-Dritter Abschnitt
-
-Überleitung von Ansprüchen
-
-|       |                            |
-|-------|----------------------------|
-| §  95 | Überleitung von Ansprüchen |
-| §  96 | (weggefallen)              |
-
-Vierter Abschnitt
-
-Ergänzende Vorschriften
-
-|        |                                    |
-|--------|------------------------------------|
-| §  97  | Feststellung der Sozialleistungen  |
-| §  97a | Pflicht zur Auskunft               |
-| §  97b | (weggefallen)                      |
-| §  97c | Erhebung von Gebühren und Auslagen |
-
-Neuntes Kapitel
-
-Kinder- und Jugendhilfestatistik
-
-|       |                                   |
-|-------|-----------------------------------|
-| §  98 | Zweck und Umfang der Erhebung     |
-| §  99 | Erhebungsmerkmale                 |
-| § 100 | Hilfsmerkmale                     |
-| § 101 | Periodizität und Berichtszeitraum |
-| § 102 | Auskunftspflicht                  |
-| § 103 | Übermittlung                      |
-
-Zehntes Kapitel
-
-Straf- und Bußgeldvorschriften
-
-|       |                     |
-|-------|---------------------|
-| § 104 | Bußgeldvorschriften |
-| § 105 | Strafvorschriften   |
+|                                                        |
+|--------------------------------------------------------|
+| **Erstes Kapitel**                                     |
+| **Allgemeine Vorschriften**                            |
+| § 1                                                    |
+| § 2                                                    |
+| § 3                                                    |
+| § 4                                                    |
+| § 5                                                    |
+| § 6                                                    |
+| § 7                                                    |
+| § 8                                                    |
+| § 8a                                                   |
+| § 8b                                                   |
+| § 9                                                    |
+| § 10                                                   |
+|                                                        |
+| **Zweites Kapitel**                                    |
+| **Leistungen der Jugendhilfe**                         |
+|                                                        |
+| **Erster Abschnitt**                                   |
+| **Jugendarbeit, Jugendsozialarbeit,**                  |
+| **erzieherischer Kinder- und Jugendschutz**            |
+| § 11                                                   |
+| § 12                                                   |
+| § 13                                                   |
+| § 14                                                   |
+| § 15                                                   |
+|                                                        |
+| **Zweiter Abschnitt**                                  |
+| **Förderung der Erziehung in der Familie**             |
+| § 16                                                   |
+| § 17                                                   |
+| § 18                                                   |
+| § 19                                                   |
+| § 20                                                   |
+| § 21                                                   |
+|                                                        |
+| **Dritter Abschnitt**                                  |
+| **Förderung von Kindern**                              |
+| **in Tageseinrichtungen und in Kindertagespflege**     |
+| § 22                                                   |
+| § 22a                                                  |
+| § 23                                                   |
+| § 24                                                   |
+| § 25                                                   |
+| § 26                                                   |
+|                                                        |
+| **Vierter Abschnitt**                                  |
+| **Hilfe zur Erziehung,**                               |
+| **Eingliederungshilfe für seelisch behinderte Kinder** |
+| **und Jugendliche,**                                   |
+| **Hilfe für junge Volljährige**                        |
+|                                                        |
+| Erster Unterabschnitt                                  |
+| Hilfe zur Erziehung                                    |
+| § 27                                                   |
+| § 28                                                   |
+| § 29                                                   |
+| § 30                                                   |
+| § 31                                                   |
+| § 32                                                   |
+| § 33                                                   |
+| § 34                                                   |
+| § 35                                                   |
+|                                                        |
+| Zweiter Unterabschnitt                                 |
+| Eingliederungshilfe für seelisch behinderte Kinder     |
+| und Jugendliche                                        |
+| § 35a                                                  |
+|                                                        |
+| Dritter Unterabschnitt                                 |
+| Gemeinsame Vorschriften für die Hilfe                  |
+| zur Erziehung und die Eingliederungshilfe              |
+| für seelisch behinderte Kinder und Jugendliche         |
+| § 36                                                   |
+| § 36a                                                  |
+| § 37                                                   |
+| § 38                                                   |
+| § 39                                                   |
+| § 40                                                   |
+|                                                        |
+| Vierter Unterabschnitt                                 |
+| Hilfe für junge Volljährige                            |
+| § 41                                                   |
+|                                                        |
+| **Drittes Kapitel**                                    |
+| **Andere Aufgaben der Jugendhilfe**                    |
+|                                                        |
+| **Erster Abschnitt**                                   |
+| **Vorläufige Maßnahmen**                               |
+| **zum Schutz von Kindern und Jugendlichen**            |
+| § 42                                                   |
+|                                                        |
+| **Zweiter Abschnitt**                                  |
+| **Schutz von Kindern und Jugendlichen**                |
+| **in Familienpflege und in Einrichtungen**             |
+| § 43                                                   |
+| § 44                                                   |
+| § 45                                                   |
+| § 46                                                   |
+| § 47                                                   |
+| § 48                                                   |
+| § 48a                                                  |
+| § 49                                                   |
+|                                                        |
+| **Dritter Abschnitt**                                  |
+| **Mitwirkung in gerichtlichen Verfahren**              |
+| § 50                                                   |
+| § 51                                                   |
+| § 52                                                   |
+|                                                        |
+| **Vierter Abschnitt**                                  |
+| **Beistandschaft, Pflegschaft und Vormundschaft**      |
+| **für Kinder und Jugendliche, Auskunft über**          |
+| **Nichtabgabe von Sorgeerklärungen**                   |
+| § 52a                                                  |
+| § 53                                                   |
+| § 54                                                   |
+| § 55                                                   |
+| § 56                                                   |
+| § 57                                                   |
+| § 58                                                   |
+| § 58a                                                  |
+|                                                        |
+| **Fünfter Abschnitt**                                  |
+| **Beurkundung, vollstreckbare Urkunden**               |
+| § 59                                                   |
+| § 60                                                   |
+|                                                        |
+| **Viertes Kapitel**                                    |
+| **Schutz von Sozialdaten**                             |
+| § 61                                                   |
+| § 62                                                   |
+| § 63                                                   |
+| § 64                                                   |
+| § 65                                                   |
+| § 66                                                   |
+| § 67                                                   |
+| § 68                                                   |
+|                                                        |
+| **Fünftes Kapitel**                                    |
+| **Träger der Jugendhilfe,**                            |
+| **Zusammenarbeit, Gesamtverantwortung**                |
+|                                                        |
+| **Erster Abschnitt**                                   |
+| **Träger der öffentlichen Jugendhilfe**                |
+| § 69                                                   |
+| § 70                                                   |
+| § 71                                                   |
+| § 72                                                   |
+| § 72a                                                  |
+|                                                        |
+| **Zweiter Abschnitt**                                  |
+| **Zusammenarbeit mit der freien Jugendhilfe,**         |
+| **ehrenamtliche Tätigkeit**                            |
+| § 73                                                   |
+| § 74                                                   |
+| § 74a                                                  |
+| § 75                                                   |
+| § 76                                                   |
+| § 77                                                   |
+| § 78                                                   |
+|                                                        |
+| **Dritter Abschnitt**                                  |
+| **Vereinbarungen über Leistungsangebote,**             |
+| **Entgelte und Qualitätsentwicklung**                  |
+| § 78a                                                  |
+| § 78b                                                  |
+| § 78c                                                  |
+| § 78d                                                  |
+| § 78e                                                  |
+| § 78f                                                  |
+| § 78g                                                  |
+|                                                        |
+| **Vierter Abschnitt**                                  |
+| **Gesamtverantwortung,**                               |
+| **Jugendhilfeplanung**                                 |
+| § 79                                                   |
+| § 79a                                                  |
+| § 80                                                   |
+| § 81                                                   |
+|                                                        |
+| **Sechstes Kapitel**                                   |
+| **Zentrale Aufgaben**                                  |
+| § 82                                                   |
+| § 83                                                   |
+| § 84                                                   |
+|                                                        |
+| **Siebtes Kapitel**                                    |
+| **Zuständigkeit, Kostenerstattung**                    |
+|                                                        |
+| **Erster Abschnitt**                                   |
+| **Sachliche Zuständigkeit**                            |
+| § 85                                                   |
+|                                                        |
+| **Zweiter Abschnitt**                                  |
+| **Örtliche Zuständigkeit**                             |
+|                                                        |
+| Erster Unterabschnitt                                  |
+| Örtliche Zuständigkeit für Leistungen                  |
+| § 86                                                   |
+| § 86a                                                  |
+| § 86b                                                  |
+| § 86c                                                  |
+| § 86d                                                  |
+|                                                        |
+| Zweiter Unterabschnitt                                 |
+| Örtliche Zuständigkeit für andere Aufgaben             |
+| § 87                                                   |
+| § 87a                                                  |
+| § 87b                                                  |
+| § 87c                                                  |
+| § 87d                                                  |
+| § 87e                                                  |
+|                                                        |
+| Dritter Unterabschnitt                                 |
+| Örtliche Zuständigkeit bei Aufenthalt im Ausland       |
+| § 88                                                   |
+|                                                        |
+| **Dritter Abschnitt**                                  |
+| **Kostenerstattung**                                   |
+| § 89                                                   |
+| § 89a                                                  |
+| § 89b                                                  |
+| § 89c                                                  |
+| § 89d                                                  |
+| § 89e                                                  |
+| § 89f                                                  |
+| § 89g                                                  |
+| § 89h                                                  |
+|                                                        |
+| **Achtes Kapitel**                                     |
+| **Kostenbeteiligung**                                  |
+|                                                        |
+| **Erster Abschnitt**                                   |
+| **Pauschalierte Kostenbeteiligung**                    |
+| § 90                                                   |
+|                                                        |
+| **Zweiter Abschnitt**                                  |
+| **Kostenbeiträge für stationäre und teilstationäre**   |
+| **Leistungen und vorläufige Maßnahmen**                |
+| § 91                                                   |
+| § 92                                                   |
+| § 93                                                   |
+| § 94                                                   |
+|                                                        |
+| **Dritter Abschnitt**                                  |
+| **Überleitung von Ansprüchen**                         |
+| § 95                                                   |
+| § 96                                                   |
+|                                                        |
+| **Vierter Abschnitt**                                  |
+| **Ergänzende Vorschriften**                            |
+| § 97                                                   |
+| § 97a                                                  |
+| § 97b                                                  |
+| § 97c                                                  |
+|                                                        |
+| **Neuntes Kapitel**                                    |
+| **Kinder- und Jugendhilfestatistik**                   |
+| § 98                                                   |
+| § 99                                                   |
+| § 100                                                  |
+| § 101                                                  |
+| § 102                                                  |
+| § 103                                                  |
+|                                                        |
+| **Zehntes Kapitel**                                    |
+| **Straf- und Bußgeldvorschriften**                     |
+| § 104                                                  |
+| § 105                                                  |
 
 Erstes Kapitel Allgemeine Vorschriften
 --------------------------------------
@@ -725,7 +604,7 @@ Angebote der Familienfreizeit und der Familienerholung, insbesondere in belasten
 
 (4) Das Nähere über Inhalt und Umfang der Aufgaben regelt das Landesrecht.
 
-(5) Ab 2013 soll für diejenigen Eltern, die ihre Kinder von ein bis drei Jahren nicht in Einrichtungen betreuen lassen wollen oder können, eine monatliche Zahlung (zum Beispiel Betreuungsgeld) eingeführt werden.
+(5) (weggefallen)
 
 ### § 17 Beratung in Fragen der Partnerschaft, Trennung und Scheidung
 
@@ -858,11 +737,7 @@ die hälftige Erstattung nachgewiesener Aufwendungen zu einer angemessenen Krank
 
 ### § 24 Anspruch auf Förderung in Tageseinrichtungen und in Kindertagespflege
 
-(1) Ein Kind hat vom vollendeten dritten Lebensjahr bis zum Schuleintritt Anspruch auf den Besuch einer Tageseinrichtung. Die Träger der öffentlichen Jugendhilfe haben darauf hinzuwirken, dass für diese Altersgruppe ein bedarfsgerechtes Angebot an Ganztagsplätzen oder ergänzend Förderung in Kindertagespflege zur Verfügung steht.
-
-(2) Für Kinder im Alter unter drei Jahren und im schulpflichtigen Alter ist ein bedarfsgerechtes Angebot an Plätzen in Tageseinrichtungen und in Kindertagespflege vorzuhalten.
-
-(3) Ein Kind, das das dritte Lebensjahr noch nicht vollendet hat, ist in einer Tageseinrichtung oder in Kindertagespflege zu fördern, wenn
+(1) Ein Kind, das das erste Lebensjahr noch nicht vollendet hat, ist in einer Einrichtung oder in Kindertagespflege zu fördern, wenn
 
 1.  
 diese Leistung für seine Entwicklung zu einer eigenverantwortlichen und gemeinschaftsfähigen Persönlichkeit geboten ist oder
@@ -881,98 +756,15 @@ Leistungen zur Eingliederung in Arbeit im Sinne des Zweiten Buches erhalten.
 
 Lebt das Kind nur mit einem Erziehungsberechtigten zusammen, so tritt diese Person an die Stelle der Erziehungsberechtigten. Der Umfang der täglichen Förderung richtet sich nach dem individuellen Bedarf.
 
-(4) Die Träger der öffentlichen Jugendhilfe oder die von ihnen beauftragten Stellen sind verpflichtet, Eltern oder Elternteile, die Leistungen nach Absatz 1 oder 2 in Anspruch nehmen wollen, über das Platzangebot im örtlichen Einzugsbereich und die pädagogische Konzeption der Einrichtungen zu informieren und sie bei der Auswahl zu beraten. Landesrecht kann bestimmen, dass Eltern den Träger der öffentlichen Jugendhilfe oder die beauftragte Stelle innerhalb einer bestimmten Frist vor der beabsichtigten Inanspruchnahme der Leistung in Kenntnis setzen.
+(2) Ein Kind, das das erste Lebensjahr vollendet hat, hat bis zur Vollendung des dritten Lebensjahres Anspruch auf frühkindliche Förderung in einer Tageseinrichtung oder in Kindertagespflege. Absatz 1 Satz 3 gilt entsprechend.
 
-(5) Geeignete Tagespflegepersonen im Sinne von § 23 Absatz 3 können auch vermittelt werden, wenn die Voraussetzungen nach Absatz 3 nicht vorliegen. In diesem Fall besteht die Pflicht zur Gewährung einer laufenden Geldleistung nach § 23 Absatz 1 nicht; Aufwendungen nach § 23 Absatz 2 Satz 1 Nummer 3 können erstattet werden.
+(3) Ein Kind, das das dritte Lebensjahr vollendet hat, hat bis zum Schuleintritt Anspruch auf Förderung in einer Tageseinrichtung. Die Träger der öffentlichen Jugendhilfe haben darauf hinzuwirken, dass für diese Altersgruppe ein bedarfsgerechtes Angebot an Ganztagsplätzen zur Verfügung steht. Das Kind kann bei besonderem Bedarf oder ergänzend auch in Kindertagespflege gefördert werden.
+
+(4) Für Kinder im schulpflichtigen Alter ist ein bedarfsgerechtes Angebot in Tageseinrichtungen vorzuhalten. Absatz 1 Satz 3 und Absatz 3 Satz 3 gelten entsprechend.
+
+(5) Die Träger der öffentlichen Jugendhilfe oder die von ihnen beauftragten Stellen sind verpflichtet, Eltern oder Elternteile, die Leistungen nach den Absätzen 1 bis 4 in Anspruch nehmen wollen, über das Platzangebot im örtlichen Einzugsbereich und die pädagogische Konzeption der Einrichtungen zu informieren und sie bei der Auswahl zu beraten. Landesrecht kann bestimmen, dass die erziehungsberechtigten Personen den zuständigen Träger der öffentlichen Jugendhilfe oder die beauftragte Stelle innerhalb einer bestimmten Frist vor der beabsichtigten Inanspruchnahme der Leistung in Kenntnis setzen.
 
 (6) Weitergehendes Landesrecht bleibt unberührt.
-
-§ 24 gilt gemäß Artikel 1 Nummer 7 in Verbindung mit Artikel 10 Absatz 3 Satz 1 des Gesetzes vom 10. Dezember 2008 (BGBl. I S. 2403) ab 1. August 2013 in folgender Fassung:
-
-<table>
-<tbody>
-<tr class="odd">
-<td>„§ 24<br />
-Anspruch auf Förderung<br />
-in Tageseinrichtungen und in Kindertagespflege<br />
-<br />
-</td>
-</tr>
-<tr class="even">
-<td>(1) Ein Kind, das das erste Lebensjahr noch nicht vollendet hat, ist in einer Einrichtung oder in Kindertagespflege zu fördern, wenn</td>
-</tr>
-<tr class="odd">
-<td>1.</td>
-</tr>
-<tr class="even">
-<td>2.</td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td>Lebt das Kind nur mit einem Erziehungsberechtigten zusammen, so tritt diese Person an die Stelle der Erziehungsberechtigten. Der Umfang der täglichen Förderung richtet sich nach dem individuellen Bedarf.</td>
-</tr>
-<tr class="odd">
-<td>(2) Ein Kind, das das erste Lebensjahr vollendet hat, hat bis zur Vollendung des dritten Lebensjahres Anspruch auf frühkindliche Förderung in einer Tageseinrichtung oder in Kindertagespflege. Absatz 1 Satz 3 gilt entsprechend.</td>
-</tr>
-<tr class="even">
-<td> (3) Ein Kind, das das dritte Lebensjahr vollendet hat, hat bis zum Schuleintritt Anspruch auf Förderung in einer Tageseinrichtung. Die Träger der öffentlichen Jugendhilfe haben darauf hinzuwirken, dass für diese Altersgruppe ein bedarfsgerechtes Angebot an Ganztagsplätzen zur Verfügung steht. Das Kind kann bei besonderem Bedarf oder ergänzend auch in Kindertagespflege gefördert werden.</td>
-</tr>
-<tr class="odd">
-<td> (4) Für Kinder im schulpflichtigen Alter ist ein bedarfsgerechtes Angebot in Tageseinrichtungen vorzuhalten. Absatz 1 Satz 3 und Absatz 3 Satz 3 gelten entsprechend.</td>
-</tr>
-<tr class="even">
-<td> (5) Die Träger der öffentlichen Jugendhilfe oder die von ihnen beauftragten Stellen sind verpflichtet, Eltern oder Elternteile, die Leistungen nach den Absätzen 1 bis 4 in Anspruch nehmen wollen, über das Platzangebot im örtlichen Einzugsbereich und die pädagogische Konzeption der Einrichtungen zu informieren und sie bei der Auswahl zu beraten. Landesrecht kann bestimmen, dass die erziehungsberechtigten Personen den zuständigen Träger der öffentlichen Jugendhilfe oder die beauftragte Stelle innerhalb einer bestimmten Frist vor der beabsichtigten Inanspruchnahme der Leistung in Kenntnis setzen.</td>
-</tr>
-<tr class="odd">
-<td> (6) Weitergehendes Landesrecht bleibt unberührt.“</td>
-</tr>
-</tbody>
-</table>
-
-### § 24a Übergangsregelung und stufenweiser Ausbau des Förderangebots für Kinder unter drei Jahren
-
-(1) Kann ein Träger der öffentlichen Jugendhilfe das zur Erfüllung der Verpflichtung nach § 24 Absatz 3 erforderliche Angebot noch nicht vorhalten, so ist er zum stufenweisen Ausbau des Förderangebots für Kinder unter drei Jahren nach Maßgabe der Absätze 2 und 3 verpflichtet.
-
-(2) Die Befugnis zum stufenweisen Ausbau umfasst die Verpflichtung,
-
-1.  
-jährliche Ausbaustufen zur Verbesserung des Versorgungsniveaus zu beschließen und
-
-2.  
-jährlich zum 31. Dezember jeweils den erreichten Ausbaustand festzustellen und den Bedarf zur Erfüllung der Kriterien nach § 24 Absatz 3 zu ermitteln.
-
-(3) Ab dem 1. Oktober 2010 sind die Träger der öffentlichen Jugendhilfe verpflichtet, mindestens ein Angebot vorzuhalten, das eine Förderung aller Kinder ermöglicht,
-
-1.  
-deren Erziehungsberechtigte
-
-a)  
-einer Erwerbstätigkeit nachgehen oder eine Erwerbstätigkeit aufnehmen,
-
-b)  
-sich in einer beruflichen Bildungsmaßnahme, in der Schulausbildung oder Hochschulausbildung befinden oder
-
-c)  
-Leistungen zur Eingliederung in Arbeit im Sinne des Zweiten Buches erhalten;
-
-lebt das Kind nur mit einem Erziehungsberechtigten zusammen, so tritt diese Person an die Stelle der Erziehungsberechtigten;
-
-2.  
-deren Wohl ohne eine entsprechende Förderung nicht gewährleistet ist.
-
-(4) Solange das zur Erfüllung der Verpflichtung nach § 24 Absatz 3 erforderliche Angebot noch nicht zur Verfügung steht, sind bei der Vergabe der frei werdenden und der neu geschaffenen Plätze Kinder, die die in § 24 Absatz 3 geregelten Förderungsvoraussetzungen erfüllen, besonders zu berücksichtigen.
-
-(5) Die Bundesregierung hat dem Deutschen Bundestag jährlich einen Bericht über den Stand des Ausbaus nach Absatz 2 vorzulegen.
-
-Gemäß Artikel 10 Absatz 3 Satz 2 des Gesetzes vom 10. Dezember 2008 (BGBl. I S. 2403) tritt § 24a am 1. August 2013 außer Kraft.
 
 ### § 25 Unterstützung selbst organisierter Förderung von Kindern
 
@@ -1530,10 +1322,10 @@ die Erklärung, durch die die Vaterschaft anerkannt oder die Anerkennung widerru
 die Erklärung, durch die die Mutterschaft anerkannt wird, sowie die etwa erforderliche Zustimmung des gesetzlichen Vertreters der Mutter zu beurkunden (§ 44 Absatz 2 des Personenstandsgesetzes),
 
 3.  
-die Verpflichtung zur Erfüllung von Unterhaltsansprüchen eines Abkömmlings zu beurkunden, sofern die unterhaltsberechtigte Person zum Zeitpunkt der Beurkundung das 21. Lebensjahr noch nicht vollendet hat,
+die Verpflichtung zur Erfüllung von Unterhaltsansprüchen eines Abkömmlings oder seines gesetzlichen Rechtsnachfolgers zu beurkunden, sofern der Abkömmling zum Zeitpunkt der Beurkundung das 21. Lebensjahr noch nicht vollendet hat,
 
 4.  
-die Verpflichtung zur Erfüllung von Ansprüchen auf Unterhalt (§ 1615l des Bürgerlichen Gesetzbuchs) zu beurkunden,
+die Verpflichtung zur Erfüllung von Ansprüchen auf Unterhalt (§ 1615l des Bürgerlichen Gesetzbuchs), auch des gesetzlichen Rechtsnachfolgers, zu beurkunden,
 
 5.  
 die Bereiterklärung der Adoptionsbewerber zur Annahme eines ihnen zur internationalen Adoption vorgeschlagenen Kindes (§ 7 Absatz 1 des Adoptionsübereinkommens-Ausführungsgesetzes) zu beurkunden,
