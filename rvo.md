@@ -8,12 +8,27 @@ Zuletzt geändert durch Art. 7 G v. 23.10.2012 I 2246
 
 ```
 (+++ Textnachweis Geltung ab: 1.1.1985 +++)
-(+++ Maßgaben aufgrund EinigVtr vgl. RVO Anhang EV +++)
+(+++ Maßgaben aufgrund EinigVtr vgl. RVO Anhang EV;
+     teilweise nicht mehr anzuwenden +++)
+ 
+
+ 
+Die RVO ist in Kraft getreten zum Teil gem. Art. 1
+EGRVO v. 19.7.1911 S. 839 am 19.7.1911, gem. Art. 2 Abs. 1 EGRVO
+am 1.1.1912, gem. Art. 1 V v. 5.7.1912 S 439 am 13.7.1912,
+gem. Art. 2 V v. 5.7.1912 am 1.9.1912, gem. Art. 3 V v. 5.7.1912
+am 1.1.1913 u. zum Teil gem. Art. 4 V v. 5.7.1912 am 1.1.1914
+ 
+
+ 
+Das 4. Buch RVO gilt nicht in dem in Art. 3 des Einigungsvertrages
+genannten Gebiet gem. Anl. I Kap. VIII Sachg. H
+Abschn. I Nr. 1 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990
+II 885, 1057; 
+Maßgaben teilweise nicht mehr anzuwenden gem. Art. 109
+Nr. 3 Buchst. h DBuchst. aa G v. 8.12.2010 I 1864 mWv 15.12.2010
+u. Art. 1 Nr. 6 Buchst. f DBuchst. aa G v. 21.1.2013 I 91 mWv 29.1.2013
 ```
-
-Die RVO ist in Kraft getreten zum Teil gem. Art. 1 EGRVO v. 19.7.1911 S. 839 am 19.7.1911, gem. Art. 2 Abs. 1 EGRVO am 1.1.1912, gem. Art. 1 V v. 5.7.1912 S 439 am 13.7.1912, gem. Art. 2 V v. 5.7.1912 am 1.9.1912, gem. Art. 3 V v. 5.7.1912 am 1.1.1913 u. zum Teil gem. Art. 4 V v. 5.7.1912 am 1.1.1914
-
-Das 4. Buch RVO gilt nicht in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anl. I Kap. VIII Sachg. H Abschn. I Nr. 1 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 1057; Maßgaben teilweise nicht mehr anzuwenden gem. Art. 109 Nr. 3 Buchst. h DBuchst. aa G v. 8.12.2010 I 1864 mWv 15.12.2010
 
 ### Inhaltsübersicht
 
@@ -768,134 +783,134 @@ Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgend
 1.  
 Drittes, Fünftes und Sechstes Buch der Reichsversicherungsordnung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 820-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 9 des Gesetzes vom 26. Juni 1990 (BGBl. I S. 1211),mit folgenden Maßgaben:
 
-a)  
-§ 537 über die Aufgaben der Unfallversicherung, §§ 636 bis 642 und 849 über die Haftung von Unternehmern und anderen Personen, die Bußgeldvorschriften der §§ 772, 773, 834 und 895 sowie die §§ 1501 bis 1543e über die Beziehungen der Versicherungsträger zueinander und zu anderen Verpflichteten und die §§ 1545 bis 1548, 1552 bis 1587, 1735 bis 1772 über das Verfahrenfinden ab dem 1. Januar 1991 Anwendung.
+*a)*  
+*§ 537 über die Aufgaben der Unfallversicherung, §§ 636 bis 642 und 849 über die Haftung von Unternehmern und anderen Personen, die Bußgeldvorschriften der §§ 772, 773, 834 und 895 sowie die §§ 1501 bis 1543e über die Beziehungen der Versicherungsträger zueinander und zu anderen Verpflichteten und die §§ 1545 bis 1548, 1552 bis 1587, 1735 bis 1772 über das Verfahrenfinden ab dem 1. Januar 1991 Anwendung.*
 
-b)  
-§§ 556 und 557, 558 mit Ausnahme des Absatzes 3 Satz 2 bis 4, §§ 559 bis 569b, 779a bis 779c und 779d Abs. 2 über medizinische, berufsfördernde und ergänzende Leistungen sowie die §§ 619 bis 631, soweit sie diese Leistungen betreffen,mit folgenden Maßgaben:
+*b)*  
+*§§ 556 und 557, 558 mit Ausnahme des Absatzes 3 Satz 2 bis 4, §§ 559 bis 569b, 779a bis 779c und 779d Abs. 2 über medizinische, berufsfördernde und ergänzende Leistungen sowie die §§ 619 bis 631, soweit sie diese Leistungen betreffen,mit folgenden Maßgaben:*
 
-(1)  
-Das Verletztengeld bei Arbeitnehmern (§ 561 Abs. 1) wird in Höhe des Krankengeldes gezahlt, auf das ohne Vorliegen eines Arbeitsunfalls Anspruch bestehen würde.
+*(1)*  
+*Das Verletztengeld bei Arbeitnehmern (§ 561 Abs. 1) wird in Höhe des Krankengeldes gezahlt, auf das ohne Vorliegen eines Arbeitsunfalls Anspruch bestehen würde.*
 
-(2)  
-Das Übergangsgeld (§§ 568, 568a) wird in Höhe der dort genannten Vomhundertsätze des Verletztengeldes nach Absatz 1 gezahlt.
+*(2)*  
+*Das Übergangsgeld (§§ 568, 568a) wird in Höhe der dort genannten Vomhundertsätze des Verletztengeldes nach Absatz 1 gezahlt.*
 
-(3)  
-Leistungen, die dem Verletztengeld oder Übergangsgeld entsprechen und die vor dem Wirksamwerden des Beitritts nach dem bisherigen Recht des in Artikel 3 des Vertrages genannten Gebietes bewilligt worden sind, werden in bisheriger Höhe weitergezahlt, wenn sie die entsprechenden Leistungen nach dem übergeleiteten Recht übersteigen.
+*(3)*  
+*Leistungen, die dem Verletztengeld oder Übergangsgeld entsprechen und die vor dem Wirksamwerden des Beitritts nach dem bisherigen Recht des in Artikel 3 des Vertrages genannten Gebietes bewilligt worden sind, werden in bisheriger Höhe weitergezahlt, wenn sie die entsprechenden Leistungen nach dem übergeleiteten Recht übersteigen.*
 
-(4)  
-Die Vorschriften finden ab dem 1. Januar 1991 Anwendung.
+*(4)*  
+*Die Vorschriften finden ab dem 1. Januar 1991 Anwendung.*
 
-c)  
-§§ 538, 643 bis 704, 790 bis 798, 850 bis 862 und die entsprechenden Regelungen der §§ 766 bis 769, 831 bis 833, 892 bis 894, 978 und 1147 über die Träger der Versicherung und deren Verfassung sowie die §§ 776 bis 779, soweit sie die Zuständigkeit der Träger betreffen,mit folgenden Maßgaben:
+*c)*  
+*§§ 538, 643 bis 704, 790 bis 798, 850 bis 862 und die entsprechenden Regelungen der §§ 766 bis 769, 831 bis 833, 892 bis 894, 978 und 1147 über die Träger der Versicherung und deren Verfassung sowie die §§ 776 bis 779, soweit sie die Zuständigkeit der Träger betreffen,mit folgenden Maßgaben:*
 
-(1)  
-Die Träger der Versicherung, deren örtliche Zuständigkeit den gesamten bisherigen Geltungsbereich des Grundgesetzes umfaßt, erstrecken ihre Zuständigkeit auf das in Artikel 3 des Vertrages genannte Gebiet.
+*(1)*  
+*Die Träger der Versicherung, deren örtliche Zuständigkeit den gesamten bisherigen Geltungsbereich des Grundgesetzes umfaßt, erstrecken ihre Zuständigkeit auf das in Artikel 3 des Vertrages genannte Gebiet.*
 
-(2)  
-Die Zuständigkeit der
+*(2)*  
+*Die Zuständigkeit der*
 
--  
-Bau-Berufsgenossenschaft Hamburg erstreckt sich auf das Land Mecklenburg-Vorpommern,
+*-*  
+*Bau-Berufsgenossenschaft Hamburg erstreckt sich auf das Land Mecklenburg-Vorpommern,*
 
--  
-Bau-Berufsgenossenschaft Hannover erstreckt sich auf die Länder Brandenburg, Sachsen-Anhalt und auf den Teil des Landes Berlin, in dem das Grundgesetz bisher nicht galt,
+*-*  
+*Bau-Berufsgenossenschaft Hannover erstreckt sich auf die Länder Brandenburg, Sachsen-Anhalt und auf den Teil des Landes Berlin, in dem das Grundgesetz bisher nicht galt,*
 
--  
-Bau-Berufsgenossenschaft Frankfurt am Main erstreckt sich auf das Land Thüringen,
+*-*  
+*Bau-Berufsgenossenschaft Frankfurt am Main erstreckt sich auf das Land Thüringen,*
 
--  
-Bayerischen Bau-Berufsgenossenschaft erstreckt sich auf das Land Sachsen,
+*-*  
+*Bayerischen Bau-Berufsgenossenschaft erstreckt sich auf das Land Sachsen,*
 
--  
-Nordwestlichen Eisen- und Stahl-Berufsgenossenschaft erstreckt sich auf die Länder Mecklenburg-Vorpommern, Brandenburg und auf den Teil des Landes Berlin, in dem das Grundgesetz bisher nicht galt,
+*-*  
+*Nordwestlichen Eisen- und Stahl-Berufsgenossenschaft erstreckt sich auf die Länder Mecklenburg-Vorpommern, Brandenburg und auf den Teil des Landes Berlin, in dem das Grundgesetz bisher nicht galt,*
 
--  
-Maschinenbau- und Kleineisenindustrie-Berufsgenossenschaft erstrecken sich auf das Land Sachsen-Anhalt und auf das Land Sachsen, mit Ausnahme des Bezirks Chemnitz,
+*-*  
+*Maschinenbau- und Kleineisenindustrie-Berufsgenossenschaft erstrecken sich auf das Land Sachsen-Anhalt und auf das Land Sachsen, mit Ausnahme des Bezirks Chemnitz,*
 
--  
-Süddeutschen Eisen- und Stahl-Berufsgenossenschaft erstreckt sich auf das Land Thüringen und auf den Bezirk Chemnitz des Landes Sachsen.
+*-*  
+*Süddeutschen Eisen- und Stahl-Berufsgenossenschaft erstreckt sich auf das Land Thüringen und auf den Bezirk Chemnitz des Landes Sachsen.*
 
-(3)  
-Für das in Artikel 3 des Vertrages genannte Gebiet und den Teil des Landes Berlin, in dem das Grundgesetz bisher galt, wird eine gemeinsame landwirtschaftliche Berufsgenossenschaft mit Sitz in Potsdam errichtet. Die Regierungen der in Artikel 1 des Vertrages genannten Länder werden ermächtigt, unter Beachtung der wirtschaftlichen Leistungsfähigkeit durch Gesetz für jedes Land eine, für die Länder Brandenburg und Berlin eine gemeinsame landwirtschaftliche Berufsgenossenschaft zu errichten.
+*(3)*  
+*Für das in Artikel 3 des Vertrages genannte Gebiet und den Teil des Landes Berlin, in dem das Grundgesetz bisher galt, wird eine gemeinsame landwirtschaftliche Berufsgenossenschaft mit Sitz in Potsdam errichtet. Die Regierungen der in Artikel 1 des Vertrages genannten Länder werden ermächtigt, unter Beachtung der wirtschaftlichen Leistungsfähigkeit durch Gesetz für jedes Land eine, für die Länder Brandenburg und Berlin eine gemeinsame landwirtschaftliche Berufsgenossenschaft zu errichten.*
 
-(4)  
-Die Eigenunfallversicherung Berlin erstreckt ihre Zuständigkeit auf den Teil des Landes Berlin, in dem das Grundgesetz bisher nicht galt.
+*(4)*  
+*Die Eigenunfallversicherung Berlin erstreckt ihre Zuständigkeit auf den Teil des Landes Berlin, in dem das Grundgesetz bisher nicht galt.*
 
-(5)  
-Die sachliche Zuständigkeit der unter Absatz 1 bis Absatz 4 genannten Träger richtet sich nach den Vorschriften, die im bisherigen Geltungsbereich des Grundgesetzes schon gegolten haben. Soweit die Maschinenbau- und Kleineisenindustrie-Berufsgenossenschaft sich erstreckt, ist sie auch zuständig für Unternehmen, die zum Zuständigkeitsbereich der Hütten- und Walzwerks-Berufsgenossenschaft gehören würden. Soweit die Süddeutsche Eisen- und Stahl-Berufsgenossenschaft sich erstreckt, ist sie auch zuständig für Unternehmen, die zum Zuständigkeitsbereich der Süddeutschen Edel- und Unedelmetall-Berufsgenossenschaft gehören würden. Für Unfälle im Sinne der Verordnung über die Erweiterung des Versicherungsschutzes vom 11. April 1973 (GBl. I Nr. 22 S. 199), für die nur nach dem Recht, das in dem in Artikel 3 des Vertrages genannten Gebiet gilt, Versicherungsschutz besteht, ist der Bund (die Bundesausführungsbehörde für Unfallversicherung) zuständig.
+*(5)*  
+*Die sachliche Zuständigkeit der unter Absatz 1 bis Absatz 4 genannten Träger richtet sich nach den Vorschriften, die im bisherigen Geltungsbereich des Grundgesetzes schon gegolten haben. Soweit die Maschinenbau- und Kleineisenindustrie-Berufsgenossenschaft sich erstreckt, ist sie auch zuständig für Unternehmen, die zum Zuständigkeitsbereich der Hütten- und Walzwerks-Berufsgenossenschaft gehören würden. Soweit die Süddeutsche Eisen- und Stahl-Berufsgenossenschaft sich erstreckt, ist sie auch zuständig für Unternehmen, die zum Zuständigkeitsbereich der Süddeutschen Edel- und Unedelmetall-Berufsgenossenschaft gehören würden. Für Unfälle im Sinne der Verordnung über die Erweiterung des Versicherungsschutzes vom 11. April 1973 (GBl. I Nr. 22 S. 199), für die nur nach dem Recht, das in dem in Artikel 3 des Vertrages genannten Gebiet gilt, Versicherungsschutz besteht, ist der Bund (die Bundesausführungsbehörde für Unfallversicherung) zuständig.*
 
-(6)  
-Bei der Zuordnung von Unternehmen, die in dem in Artikel 3 des Vertrages genannten Gebiet ihren Sitz haben, zum jeweils sachlich zuständigen Unfallversicherungsträger ergehen die Bescheide über die Aufnahme in das Unternehmerverzeichnis unter dem Vorbehalt, daß unrichtige Eintragungen, die bis zum 31. Dezember 1991 erfolgt sind, unverzüglich mit Wirkung zum 1. Januar 1992 zu berichtigen sind; dies gilt auch dann, wenn die Unrichtigkeit nicht offensichtlich war oder nicht zu nachweisbar schwerwiegenden Unzuträglichkeiten führt. Auf den Vorbehalt ist in jedem Aufnahmebescheid hinzuweisen.
+*(6)*  
+*Bei der Zuordnung von Unternehmen, die in dem in Artikel 3 des Vertrages genannten Gebiet ihren Sitz haben, zum jeweils sachlich zuständigen Unfallversicherungsträger ergehen die Bescheide über die Aufnahme in das Unternehmerverzeichnis unter dem Vorbehalt, daß unrichtige Eintragungen, die bis zum 31. Dezember 1991 erfolgt sind, unverzüglich mit Wirkung zum 1. Januar 1992 zu berichtigen sind; dies gilt auch dann, wenn die Unrichtigkeit nicht offensichtlich war oder nicht zu nachweisbar schwerwiegenden Unzuträglichkeiten führt. Auf den Vorbehalt ist in jedem Aufnahmebescheid hinzuweisen.*
 
-(7)  
-Bis zu dem Zeitpunkt, zu dem die nach Absatz 3 errichtete landwirtschaftliche Berufsgenossenschaft ihre Tätigkeit aufnimmt, werden deren Aufgaben von der Hannoverschen Landwirtschaftlichen Berufsgenossenschaft wahrgenommen. Sie erhält hierfür die erforderliche personelle Unterstützung von den anderen landwirtschaftlichen Berufsgenossenschaften mit Ausnahme der Gartenbau-Berufsgenossenschaft, und zwar im Verhältnis der Personalstärke dieser Träger. Außerdem ist sie berechtigt, im Einvernehmen mit dem Bundesminister für Arbeit und Sozialordnung für Rechnung der zuständigen landwirtschaftlichen Berufsgenossenschaft Personal anzuwerben und unter Vertrag zu nehmen.
+*(7)*  
+*Bis zu dem Zeitpunkt, zu dem die nach Absatz 3 errichtete landwirtschaftliche Berufsgenossenschaft ihre Tätigkeit aufnimmt, werden deren Aufgaben von der Hannoverschen Landwirtschaftlichen Berufsgenossenschaft wahrgenommen. Sie erhält hierfür die erforderliche personelle Unterstützung von den anderen landwirtschaftlichen Berufsgenossenschaften mit Ausnahme der Gartenbau-Berufsgenossenschaft, und zwar im Verhältnis der Personalstärke dieser Träger. Außerdem ist sie berechtigt, im Einvernehmen mit dem Bundesminister für Arbeit und Sozialordnung für Rechnung der zuständigen landwirtschaftlichen Berufsgenossenschaft Personal anzuwerben und unter Vertrag zu nehmen.*
 
-(8)  
-Für die Durchführung der Aufgaben der Unfallversicherung durch die "Überleitungsanstalt Sozialversicherung" (Überleitungsanstalt) gilt folgendes:
+*(8)*  
+*Für die Durchführung der Aufgaben der Unfallversicherung durch die "Überleitungsanstalt Sozialversicherung" (Überleitungsanstalt) gilt folgendes:*
 
-1.  
-Die Überleitungsanstalt erfüllt bis zum 31. Dezember 1991 folgende Aufgaben der Träger der Unfallversicherung, soweit diese die Aufgaben nicht bereits vorher selbst übernehmen:
+*1.*  
+*Die Überleitungsanstalt erfüllt bis zum 31. Dezember 1991 folgende Aufgaben der Träger der Unfallversicherung, soweit diese die Aufgaben nicht bereits vorher selbst übernehmen:*
 
--  
-Für die Unfallversicherung im gewerblichen und landwirtschaftlichen Bereich sowie für den Bund und die Bundesanstalt für Arbeit: Entschädigung aller Arbeitsunfälle, die bis zum 31. Dezember 1990 eingetreten sind,
+*-*  
+*Für die Unfallversicherung im gewerblichen und landwirtschaftlichen Bereich sowie für den Bund und die Bundesanstalt für Arbeit: Entschädigung aller Arbeitsunfälle, die bis zum 31. Dezember 1990 eingetreten sind,*
 
--  
-für die Unfallversicherung im Landesbereich und im kommunalen Bereich: Entschädigung aller Arbeitsunfälle,
+*-*  
+*für die Unfallversicherung im Landesbereich und im kommunalen Bereich: Entschädigung aller Arbeitsunfälle,*
 
--  
-Entgegennahme und Verwaltung der Unfallumlage und sonstiger Einnahmen der Unfallversicherung.
+*-*  
+*Entgegennahme und Verwaltung der Unfallumlage und sonstiger Einnahmen der Unfallversicherung.*
 
-2.  
-Die Überleitungsanstalt überträgt die bis zum 31. Dezember 1990 eingetretenen Arbeitsunfälle, außer den unter ee) genannten, auf die nach Absatz 1 bis Absatz 4 zuständigen Träger der Unfallversicherung über ihre drei Spitzenverbände wie folgt:
+*2.*  
+*Die Überleitungsanstalt überträgt die bis zum 31. Dezember 1990 eingetretenen Arbeitsunfälle, außer den unter ee) genannten, auf die nach Absatz 1 bis Absatz 4 zuständigen Träger der Unfallversicherung über ihre drei Spitzenverbände wie folgt:*
 
-aa)  
-Jeder der drei Bereiche der Unfallversicherung erhält den Anteil an der Zahl von Arbeitsunfällen, der hinsichtlich der Leistungsaufwendungen seiner Mitglieder im Jahr 1989 für Renten (Kontengruppe 50 des Kontenrahmens) seinem Anteil an Leistungsaufwendungen für Renten der Mitglieder aller drei Spitzenverbände der Träger der Unfallversicherung entspricht. Die Arbeitsunfälle werden numerisch nach Geburtstag und -monat des Leistungsempfängers, innerhalb eines Geburtstages alphabetisch nach dem Familiennamen verteilt. Die so erfolgte Zuweisung gilt auch für abgeleitete Renten, die sich später als neuer Versicherungsfall ergeben.
+*aa)*  
+*Jeder der drei Bereiche der Unfallversicherung erhält den Anteil an der Zahl von Arbeitsunfällen, der hinsichtlich der Leistungsaufwendungen seiner Mitglieder im Jahr 1989 für Renten (Kontengruppe 50 des Kontenrahmens) seinem Anteil an Leistungsaufwendungen für Renten der Mitglieder aller drei Spitzenverbände der Träger der Unfallversicherung entspricht. Die Arbeitsunfälle werden numerisch nach Geburtstag und -monat des Leistungsempfängers, innerhalb eines Geburtstages alphabetisch nach dem Familiennamen verteilt. Die so erfolgte Zuweisung gilt auch für abgeleitete Renten, die sich später als neuer Versicherungsfall ergeben.*
 
-bb)  
-Der Hauptverband der gewerblichen Berufsgenossenschaften e.V. verteilt die auf die gewerblichen Berufsgenossenschaften und die See-Berufsgenossenschaft entfallenden Arbeitsunfälle nach einem Verteilungsschlüssel, der aufgrund des Durchschnitts der Anteile aus dem der Beitragsberechnung zugrunde gelegten Entgelt des Jahres 1989 und den Rentenzahlbeträgen (Kontengruppe 50 des Kontenrahmens) im Jahr 1989 für in den Jahren 1985 bis 1989 erstmals entschädigte Arbeitsunfälle ermittelt wird. Bei der Ermittlung des Verteilungsschlüssels sind die in Satz 1 aufgeführten Entgelte und Rentenzahlbeträge der Berufsgenossenschaften, die sich nicht auf das in Artikel 3 des Vertrages genannte Gebiet erstrecken, mitzuerfassen; die sich danach ergebenden Anteile derjenigen Berufsgenossenschaften, die sich nicht auf das in Artikel 3 des Vertrages genannte Gebiet erstrecken, sind auf alle sich erstreckenden Metall- und Bau-Berufsgenossenschaften getrennt nach Wirtschaftszweigen und nach den in Satz 1 aufgeführten Kriterien für den Verteilungsschlüssel aufzuteilen. Im übrigen gelten die Sätze 2 und 3 unter aa) entsprechend.Im Jahr 1995 ermittelt der Hauptverband der gewerblichen Berufsgenossenschaften e.V. in gleicher Weise wie in Satz 1 aufgeführt einen Verteilungsschlüssel aufgrund des Durchschnitts der Anteile aus dem der Beitragsberechnung zugrunde gelegten Entgelt des Jahres 1994 und den Rentenzahlbeträgen (Kontengruppe 50 des Kontenrahmens) im Jahr 1994 für in den Jahren 1991 bis 1994 erstmals entschädigte Arbeitsunfälle. Abweichungen in der finanziellen Belastung werden erstmals für die im Jahr 1994 aus den quotenmäßig zugewiesenen Arbeitsunfällen erwachsene Rentenlast untereinander ausgeglichen; entsprechendes gilt jeweils für die Folgejahre unter Beibehaltung des im Jahr 1995 neu ermittelten Schlüssels.
+*bb)*  
+*Der Hauptverband der gewerblichen Berufsgenossenschaften e.V. verteilt die auf die gewerblichen Berufsgenossenschaften und die See-Berufsgenossenschaft entfallenden Arbeitsunfälle nach einem Verteilungsschlüssel, der aufgrund des Durchschnitts der Anteile aus dem der Beitragsberechnung zugrunde gelegten Entgelt des Jahres 1989 und den Rentenzahlbeträgen (Kontengruppe 50 des Kontenrahmens) im Jahr 1989 für in den Jahren 1985 bis 1989 erstmals entschädigte Arbeitsunfälle ermittelt wird. Bei der Ermittlung des Verteilungsschlüssels sind die in Satz 1 aufgeführten Entgelte und Rentenzahlbeträge der Berufsgenossenschaften, die sich nicht auf das in Artikel 3 des Vertrages genannte Gebiet erstrecken, mitzuerfassen; die sich danach ergebenden Anteile derjenigen Berufsgenossenschaften, die sich nicht auf das in Artikel 3 des Vertrages genannte Gebiet erstrecken, sind auf alle sich erstreckenden Metall- und Bau-Berufsgenossenschaften getrennt nach Wirtschaftszweigen und nach den in Satz 1 aufgeführten Kriterien für den Verteilungsschlüssel aufzuteilen. Im übrigen gelten die Sätze 2 und 3 unter aa) entsprechend.Im Jahr 1995 ermittelt der Hauptverband der gewerblichen Berufsgenossenschaften e.V. in gleicher Weise wie in Satz 1 aufgeführt einen Verteilungsschlüssel aufgrund des Durchschnitts der Anteile aus dem der Beitragsberechnung zugrunde gelegten Entgelt des Jahres 1994 und den Rentenzahlbeträgen (Kontengruppe 50 des Kontenrahmens) im Jahr 1994 für in den Jahren 1991 bis 1994 erstmals entschädigte Arbeitsunfälle. Abweichungen in der finanziellen Belastung werden erstmals für die im Jahr 1994 aus den quotenmäßig zugewiesenen Arbeitsunfällen erwachsene Rentenlast untereinander ausgeglichen; entsprechendes gilt jeweils für die Folgejahre unter Beibehaltung des im Jahr 1995 neu ermittelten Schlüssels.*
 
-cc)  
-Der Bundesverband der landwirtschaftlichen Berufsgenossenschaften e.V. verteilt die auf die Gartenbau-Berufsgenossenschaft und die nach Absatz 3 neu errichtete landwirtschaftliche Berufsgenossenschaft entfallenden Arbeitsunfälle entsprechend dem Verhältnis der Beschäftigten im Gartenbau und in der Landwirtschaft in dem in Artikel 3 des Vertrages genannten Gebiet nach dem Stand vom 31. Dezember 1990. Sätze 2 und 3 unter aa) gelten entsprechend.
+*cc)*  
+*Der Bundesverband der landwirtschaftlichen Berufsgenossenschaften e.V. verteilt die auf die Gartenbau-Berufsgenossenschaft und die nach Absatz 3 neu errichtete landwirtschaftliche Berufsgenossenschaft entfallenden Arbeitsunfälle entsprechend dem Verhältnis der Beschäftigten im Gartenbau und in der Landwirtschaft in dem in Artikel 3 des Vertrages genannten Gebiet nach dem Stand vom 31. Dezember 1990. Sätze 2 und 3 unter aa) gelten entsprechend.*
 
-dd)  
-Der Bundesverband der Unfallversicherungsträger der öffentlichen Hand e.V. verteilt die auf den Bund, die Bundesanstalt für Arbeit, die in Artikel 1 Abs. 1 des Vertrages genannten Länder, die Eigenunfallversicherung Berlin und die nach § 656 Reichsversicherungsordnung bestimmten oder errichteten Träger entfallenden Arbeitsunfälle wie folgt:
+*dd)*  
+*Der Bundesverband der Unfallversicherungsträger der öffentlichen Hand e.V. verteilt die auf den Bund, die Bundesanstalt für Arbeit, die in Artikel 1 Abs. 1 des Vertrages genannten Länder, die Eigenunfallversicherung Berlin und die nach § 656 Reichsversicherungsordnung bestimmten oder errichteten Träger entfallenden Arbeitsunfälle wie folgt:*
 
--  
-Für den Bund und die Bundesanstalt für Arbeit einerseits und die Träger der Unfallversicherung im Landes- und kommunalen Bereich andererseits werden Anteile entsprechend aa) ermittelt; die Aufwendungen für Renten aufgrund des Fremdrentengesetzes bleiben dabei außer Betracht.
+*-*  
+*Für den Bund und die Bundesanstalt für Arbeit einerseits und die Träger der Unfallversicherung im Landes- und kommunalen Bereich andererseits werden Anteile entsprechend aa) ermittelt; die Aufwendungen für Renten aufgrund des Fremdrentengesetzes bleiben dabei außer Betracht.*
 
--  
-Die auf den Bund und die Bundesanstalt für Arbeit entfallenden Arbeitsunfälle werden auf die Bundesausführungsbehörde für Unfallversicherung übertragen.
+*-*  
+*Die auf den Bund und die Bundesanstalt für Arbeit entfallenden Arbeitsunfälle werden auf die Bundesausführungsbehörde für Unfallversicherung übertragen.*
 
--  
-Die auf die Träger der Unfallversicherung im Landes- und kommunalen Bereich entfallenden Arbeitsunfälle werden auf die in Artikel 1 Abs. 1 des Vertrages genannten Länder und die Eigenunfallversicherung Berlin entsprechend der Zahl der Einwohner dieser Länder und des Teils von Berlin, in dem das Grundgesetz bisher nicht galt, nach dem Stand vom 31. Dezember 1990 verteilt. Die Länder bestimmen über die Verteilung in ihrem Zuständigkeitsbereich. Sätze 2 und 3 unter aa) gelten entsprechend.
+*-*  
+*Die auf die Träger der Unfallversicherung im Landes- und kommunalen Bereich entfallenden Arbeitsunfälle werden auf die in Artikel 1 Abs. 1 des Vertrages genannten Länder und die Eigenunfallversicherung Berlin entsprechend der Zahl der Einwohner dieser Länder und des Teils von Berlin, in dem das Grundgesetz bisher nicht galt, nach dem Stand vom 31. Dezember 1990 verteilt. Die Länder bestimmen über die Verteilung in ihrem Zuständigkeitsbereich. Sätze 2 und 3 unter aa) gelten entsprechend.*
 
-ee)  
+*ee)*  
 Die Arbeitsunfälle, die aufgrund von § 1 der Verordnung über die Erweiterung des Versicherungsschutzes vom 11. April 1973 (GBl. I Nr. 22 S. 199) entschädigt werden, werden auf die Bundesausführungsbehörde für Unfallversicherung übertragen.
 
 ff)  
-Arbeitsunfälle und Berufskrankheiten, bei denen der Zeitpunkt des Versicherungsfalls vor dem 1. Januar 1991 liegt, die aber erst nach diesem Stichtag - jedoch spätestens bis zum 31. Dezember 1994 - angezeigt werden, gelten als Fälle, die entsprechend aa) zu verteilen sind.
+*Arbeitsunfälle und Berufskrankheiten, bei denen der Zeitpunkt des Versicherungsfalls vor dem 1. Januar 1991 liegt, die aber erst nach diesem Stichtag - jedoch spätestens bis zum 31. Dezember 1994 - angezeigt werden, gelten als Fälle, die entsprechend aa) zu verteilen sind.*
 
-3.  
-Die Überleitungsanstalt erfaßt die Aufwendungen für die Entschädigung von Arbeitsunfällen im Landes- und kommunalen Bereich, die nach dem 31. Dezember 1990 eingetreten sind, gesondert je nach zuständigem Träger.
+*3.*  
+*Die Überleitungsanstalt erfaßt die Aufwendungen für die Entschädigung von Arbeitsunfällen im Landes- und kommunalen Bereich, die nach dem 31. Dezember 1990 eingetreten sind, gesondert je nach zuständigem Träger.*
 
-(9)  
-Die Vorschriften finden ab dem 1. Januar 1991 Anwendung.
+*(9)*  
+*Die Vorschriften finden ab dem 1. Januar 1991 Anwendung.*
 
-d)  
-§ 546 Abs. 2, §§ 708 bis 722, 801, 865 bis 867 und 767 Abs. 2 Nr. 5 über die Unfallverhütung und Erste Hilfemit folgenden Maßgaben:
+*d)*  
+*§ 546 Abs. 2, §§ 708 bis 722, 801, 865 bis 867 und 767 Abs. 2 Nr. 5 über die Unfallverhütung und Erste Hilfemit folgenden Maßgaben:*
 
-(1)  
-Soweit neue Träger der gesetzlichen Unfallversicherung in dem in Artikel 3 des Vertrages genannten Gebiet gebildet werden, sind die im bisherigen Geltungsbereich des Grundgesetzes bekannt gemachten Unfallverhütungsvorschriften entsprechend anzuwenden, solange diese Träger keine eigenen Unfallverhütungsvorschriften in Kraft gesetzt haben.
+*(1)*  
+*Soweit neue Träger der gesetzlichen Unfallversicherung in dem in Artikel 3 des Vertrages genannten Gebiet gebildet werden, sind die im bisherigen Geltungsbereich des Grundgesetzes bekannt gemachten Unfallverhütungsvorschriften entsprechend anzuwenden, solange diese Träger keine eigenen Unfallverhütungsvorschriften in Kraft gesetzt haben.*
 
-(2)  
-Die Unfallversicherungsträger prüfen, inwieweit die im bisherigen Arbeitsschutzregelwerk, das in dem in Artikel 3 des Vertrages genannten Gebiet gilt (z.B. staatliche Standards mit Forderungen des Gesundheits- und Arbeitsschutzes sowie Brandschutzes, staatliche Standards der Arbeitshygiene, Vorschriften zu arbeitsmedizinischen Tauglichkeits- und Überwachungsuntersuchungen, arbeitshygienische Meß- und Bewertungsvorschriften, Werkstoff-, Bau-, und Prüfvorschriften für überwachungspflichtige Anlagen), enthaltenen Festlegungen bei der Erarbeitung und Fortentwicklung ihrer Unfallverhütungsvorschriften einzubeziehen sind.
+*(2)*  
+*Die Unfallversicherungsträger prüfen, inwieweit die im bisherigen Arbeitsschutzregelwerk, das in dem in Artikel 3 des Vertrages genannten Gebiet gilt (z.B. staatliche Standards mit Forderungen des Gesundheits- und Arbeitsschutzes sowie Brandschutzes, staatliche Standards der Arbeitshygiene, Vorschriften zu arbeitsmedizinischen Tauglichkeits- und Überwachungsuntersuchungen, arbeitshygienische Meß- und Bewertungsvorschriften, Werkstoff-, Bau-, und Prüfvorschriften für überwachungspflichtige Anlagen), enthaltenen Festlegungen bei der Erarbeitung und Fortentwicklung ihrer Unfallverhütungsvorschriften einzubeziehen sind.*
 
-(3)  
-Soweit die neuen Träger im Landes- und kommunalen Bereich ihre Aufgaben noch nicht von der Überleitungsanstalt übernommen haben, wird die Aufgabe der Unfallverhütung und Ersten Hilfe von den für den Arbeitsschutz zuständigen staatlichen Behörden wahrgenommen. Aufwendungen für diese Aufgabe werden nicht erstattet.
+*(3)*  
+*Soweit die neuen Träger im Landes- und kommunalen Bereich ihre Aufgaben noch nicht von der Überleitungsanstalt übernommen haben, wird die Aufgabe der Unfallverhütung und Ersten Hilfe von den für den Arbeitsschutz zuständigen staatlichen Behörden wahrgenommen. Aufwendungen für diese Aufgabe werden nicht erstattet.*
 
-(4)  
-Die Vorschriften finden ab dem 1. Januar 1991 Anwendung.
+*(4)*  
+*Die Vorschriften finden ab dem 1. Januar 1991 Anwendung.*
 
 e)  
 §§ 723 bis 761, 802 bis 829, 870 bis 890, 767 Abs. 2 Nr. 6, §§ 770 und 771 über Aufbringung und Verwendung der Mittelmit folgenden Maßgaben:
@@ -915,10 +930,10 @@ Der Bund erstattet die Aufwendungen der Unfallversicherungsträger für Sozialzu
 (5)  
 Die Vorschriften finden ab dem 1. Januar 1991 Anwendung.
 
-(f)  
-§§ 539 bis 545 über den Kreis der versicherten Personen, §§ 547 bis 555a, 776 bis 779 und 835 bis 840 über den Versicherungsumfang,§ 558 Abs. 3 Sätze 2 bis 4 über das Pflegegeld, §§ 570 bis 631, 779d Abs. 1, §§ 780 bis 789 und 841 bis 848 über Entschädigung durch Renten oder sonstige Leistungen in Geld,§§ 632 und 635 über Besonderheiten für Unternehmerversicherung, §§ 762 bis 765a und 830, 891 und 891a über weitere Einrichtungen und Maßnahmenmit folgender Maßgabe:Die Vorschriften finden ab dem 1. Januar 1992 Anwendung.
+*(f)*  
+*§§ 539 bis 545 über den Kreis der versicherten Personen, §§ 547 bis 555a, 776 bis 779 und 835 bis 840 über den Versicherungsumfang,§ 558 Abs. 3 Sätze 2 bis 4 über das Pflegegeld, §§ 570 bis 631, 779d Abs. 1, §§ 780 bis 789 und 841 bis 848 über Entschädigung durch Renten oder sonstige Leistungen in Geld,§§ 632 und 635 über Besonderheiten für Unternehmerversicherung, §§ 762 bis 765a und 830, 891 und 891a über weitere Einrichtungen und Maßnahmenmit folgender Maßgabe:Die Vorschriften finden ab dem 1. Januar 1992 Anwendung.*
 
-g)  
-Bis zum 31. Dezember 1990 kann in dem in Artikel 3 des Vertrages genannten Gebiet nach den beim Wirksamwerden des Beitritts geltenden Regeln verfahren werden.
+*g)*  
+*Bis zum 31. Dezember 1990 kann in dem in Artikel 3 des Vertrages genannten Gebiet nach den beim Wirksamwerden des Beitritts geltenden Regeln verfahren werden.*
 
 ...
