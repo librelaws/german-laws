@@ -11,6 +11,7 @@ Zuletzt geändert durch Art. 3 G v. 21.11.2012 I 2299
 ```
 
 Überschrift: IdF d. Art. 1 Nr. 1 G v. 10.11.2006 I 2589 mWv 16.11.2006
+
 Das G wurde als Artikel 9 G 930-8 G v. 27.12.1993 I 2378 (ENeuOG) vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 11 Abs. 1 Satz 1 dieses G am 1.1.1994 in Kraft getreten. Soweit Bestimmungen des G Beamte der Deutschen Bundespost betreffen, ist es gem. Art. 15 Abs. 2 G v. 14.9.1994 I 2325 mWv 23.9.1994 in Kraft getreten.
 
 ### § 1 Geltungsbereich
@@ -50,13 +51,13 @@ ihre anderweitige Verwendung in der eigenen oder in anderen Verwaltungen nicht m
 
 ### § 4 Beamtinnen und Beamte bei den Postnachfolgeunternehmen
 
-(1) Beamtinnen und Beamte nach § 1 Nr. 2 können bis zum 31. Dezember 2012 auf Antrag in den Ruhestand versetzt werden, wenn
+(1) Beamtinnen und Beamte nach § 1 Nr. 2 können bis zum 31. Dezember 2016 auf Antrag in den Ruhestand versetzt werden, wenn
 
 1.  
 sie das 55. Lebensjahr vollendet haben,
 
 2.  
-ihre Verwendung in Bereichen mit Personalbedarf bei der sie beschäftigenden Aktiengesellschaft und in einem Unternehmen im Sinne des § 4 Abs. 4 Satz 2 und 3 des Postpersonalrechtsgesetzes nicht möglich ist und der Aktiengesellschaft auch keine Verwendungsmöglichkeit in Verwaltungen bekannt ist und
+ihre Verwendung in Bereichen mit Personalbedarf bei der sie beschäftigenden Aktiengesellschaft und in einem Unternehmen im Sinne des § 4 Abs. 4 Satz 2 des Postpersonalrechtsgesetzes nicht möglich ist und der Aktiengesellschaft auch keine Verwendungsmöglichkeit in Verwaltungen bekannt ist und
 
 3.  
 betriebliche oder betriebswirtschaftliche Belange nicht entgegenstehen.
