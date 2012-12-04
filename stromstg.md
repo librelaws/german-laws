@@ -4,7 +4,7 @@ Stromsteuergesetz (StromStG)
 Stand  
 Zuletzt geändert durch Art. 2 G v. 5.12.2012 I 2436, 2725
 
-Hinweis  
+Sonst  
 Bek. v. 9.5.2014 I 453 ist berücksichtigt
 
 ### 
