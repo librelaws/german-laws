@@ -2,7 +2,7 @@ Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte (RVG)
 =======================================================================
 
 Stand  
-Zuletzt geändert durch Art. 6 G v. 17.8.2012 I 1726
+Zuletzt geändert durch Art. 6 G v. 5.12.2012 I 2425
 
 ### 
 
@@ -82,6 +82,7 @@ Das G wurde als Art. 3 des G v. 5.5.2004 I 718 (KostRMoG) vom Bundestag mit Zust
 | § 39                                                           |
 | § 40                                                           |
 | § 41                                                           |
+| § 41a                                                          |
 |                                                                |
 | **Abschnitt 7**                                                |
 | **Straf- und Bußgeldsachen**                                   |
@@ -154,7 +155,7 @@ Abschnitt 1 Allgemeine Vorschriften
 
 (1) In außergerichtlichen Angelegenheiten kann eine niedrigere als die gesetzliche Vergütung vereinbart werden. Sie muss in einem angemessenen Verhältnis zu Leistung, Verantwortung und Haftungsrisiko des Rechtsanwalts stehen.
 
-(2) Der Rechtsanwalt kann sich für gerichtliche Mahnverfahren und Zwangsvollstreckungsverfahren nach den §§ 803 bis 863 und 899 bis 915b der Zivilprozessordnung verpflichten, dass er, wenn der Anspruch des Auftraggebers auf Erstattung der gesetzlichen Vergütung nicht beigetrieben werden kann, einen Teil des Erstattungsanspruchs an Erfüllungs statt annehmen werde. Der nicht durch Abtretung zu erfüllende Teil der gesetzlichen Vergütung muss in einem angemessenen Verhältnis zu Leistung, Verantwortung und Haftungsrisiko des Rechtsanwalts stehen.
+(2) Der Rechtsanwalt kann sich für gerichtliche Mahnverfahren und Zwangsvollstreckungsverfahren nach den §§ 802a bis 863 und 882b bis 882f der Zivilprozessordnung verpflichten, dass er, wenn der Anspruch des Auftraggebers auf Erstattung der gesetzlichen Vergütung nicht beigetrieben werden kann, einen Teil des Erstattungsanspruchs an Erfüllungs statt annehmen werde. Der nicht durch Abtretung zu erfüllende Teil der gesetzlichen Vergütung muss in einem angemessenen Verhältnis zu Leistung, Verantwortung und Haftungsrisiko des Rechtsanwalts stehen.
 
 (3) In der Vereinbarung kann es dem Vorstand der Rechtsanwaltskammer überlassen werden, die Vergütung nach billigem Ermessen festzusetzen. Ist die Festsetzung der Vergütung dem Ermessen eines Vertragsteils überlassen, gilt die gesetzliche Vergütung als vereinbart.
 
@@ -343,7 +344,7 @@ Eine Gebührentabelle für Gegenstandswerte bis 500.000 Euro ist diesem Gesetz a
 
 (4) Auf bereits entstandene Gebühren ist es, soweit dieses Gesetz nichts anderes bestimmt, ohne Einfluss, wenn sich die Angelegenheit vorzeitig erledigt oder der Auftrag endigt, bevor die Angelegenheit erledigt ist.
 
-(5) Wird der Rechtsanwalt, nachdem er in einer Angelegenheit tätig geworden ist, beauftragt, in derselben Angelegenheit weiter tätig zu werden, erhält er nicht mehr an Gebühren, als er erhalten würde, wenn er von vornherein hiermit beauftragt worden wäre. Ist der frühere Auftrag seit mehr als zwei Kalenderjahren erledigt, gilt die weitere Tätigkeit als neue Angelegenheit und in diesem Gesetz bestimmte Anrechnungen von Gebühren entfallen.
+(5) Wird der Rechtsanwalt, nachdem er in einer Angelegenheit tätig geworden ist, beauftragt, in derselben Angelegenheit weiter tätig zu werden, erhält er nicht mehr an Gebühren, als er erhalten würde, wenn er von vornherein hiermit beauftragt worden wäre. Ist der frühere Auftrag seit mehr als zwei Kalenderjahren erledigt, gilt die weitere Tätigkeit als neue Angelegenheit und in diesem Gesetz bestimmte Anrechnungen von Gebühren entfallen. Satz 2 gilt entsprechend, wenn ein Vergleich mehr als zwei Kalenderjahre nach seinem Abschluss angefochten wird oder wenn mehr als zwei Kalenderjahre nach Zustellung eines Beschlusses nach § 23 Absatz 3 Satz 1 des Kapitalanleger-Musterverfahrensgesetzes der Kläger einen Antrag nach § 23 Absatz 4 des Kapitalanleger-Musterverfahrensgesetzes auf Wiedereröffnung des Verfahrens stellt.
 
 (6) Ist der Rechtsanwalt nur mit einzelnen Handlungen oder mit Tätigkeiten, die nach § 19 zum Rechtszug oder zum Verfahren gehören, beauftragt, erhält er nicht mehr an Gebühren als der mit der gesamten Angelegenheit beauftragte Rechtsanwalt für die gleiche Tätigkeit erhalten würde.
 
@@ -491,7 +492,7 @@ das Verfahren über Einwendungen gegen die Erteilung der Vollstreckungsklausel, 
 das Verfahren auf Erteilung einer weiteren vollstreckbaren Ausfertigung;
 
 6.  
-jedes Verfahren über Anträge nach den §§ 765a, 813b, 851a oder 851b der Zivilprozessordnung und jedes Verfahren über Anträge auf Änderung oder Aufhebung der getroffenen Anordnungen, jedes Verfahren über Anträge nach § 1084 Absatz 1, § 1096 oder § 1109 der Zivilprozessordnung und über Anträge nach § 31 des Auslandsunterhaltsgesetzes;
+jedes Verfahren über Anträge nach den §§ 765a, 851a oder 851b der Zivilprozessordnung und jedes Verfahren über Anträge auf Änderung oder Aufhebung der getroffenen Anordnungen, jedes Verfahren über Anträge nach § 1084 Absatz 1, § 1096 oder § 1109 der Zivilprozessordnung und über Anträge nach § 31 des Auslandsunterhaltsgesetzes;
 
 7.  
 das Verfahren auf Zulassung der Austauschpfändung (§ 811a der Zivilprozessordnung);
@@ -521,10 +522,10 @@ jede Verurteilung zu einem Ordnungsgeld gemäß § 890 Abs. 1 der Zivilprozessor
 die Verurteilung zur Bestellung einer Sicherheit im Fall des § 890 Abs. 3 der Zivilprozessordnung;
 
 16.  
-das Verfahren zur Abnahme der eidesstattlichen Versicherung (§§ 900 und 901 der Zivilprozessordnung);
+das Verfahren zur Abnahme der Vermögensauskunft (§§ 802f und 802g der Zivilprozessordnung);
 
 17.  
-das Verfahren auf Löschung der Eintragung im Schuldnerverzeichnis (§ 915a der Zivilprozessordnung);
+das Verfahren auf Löschung der Eintragung im Schuldnerverzeichnis (§ 882e der Zivilprozessordnung);
 
 18.  
 das Ausüben der Veröffentlichungsbefugnis;
@@ -671,7 +672,7 @@ Abschnitt 4 Gegenstandswert
 
 ### § 23a Gegenstandswert im Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz
 
-Im Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz bestimmt sich der Gegenstandswert nach der Höhe des von dem Auftraggeber oder gegen diesen im Prozessverfahren geltend gemachten Anspruchs, soweit dieser Gegenstand des Musterverfahrens ist.
+Im Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz bestimmt sich der Gegenstandswert nach der Höhe des von dem Auftraggeber oder gegen diesen im Ausgangsverfahren geltend gemachten Anspruchs, soweit dieser Gegenstand des Musterverfahrens ist.
 
 ### § 24 (weggefallen)
 
@@ -695,7 +696,7 @@ nach dem Wert der herauszugebenden oder zu leistenden Sachen; der Gegenstandswer
 nach dem Wert, den die zu erwirkende Handlung, Duldung oder Unterlassung für den Gläubiger hat, und
 
 4.  
-in Verfahren über den Antrag auf Abnahme der eidesstattlichen Versicherung nach § 807 der Zivilprozessordnung nach dem Betrag, der einschließlich der Nebenforderungen aus dem Vollstreckungstitel noch geschuldet wird; der Wert beträgt jedoch höchstens 1 500 Euro.
+in Verfahren über die Erteilung der Vermögensauskunft nach § 802c der Zivilprozessordnung nach dem Betrag, der einschließlich der Nebenforderungen aus dem Vollstreckungstitel noch geschuldet wird; der Wert beträgt jedoch höchstens 1 500 Euro.
 
 (2) In Verfahren über Anträge des Schuldners ist der Wert nach dem Interesse des Antragstellers nach billigem Ermessen zu bestimmen.
 
@@ -837,6 +838,16 @@ Der Rechtsanwalt kann von den Personen, für die er nach § 67a Abs. 1 Satz 2 de
 ### § 41 Prozesspfleger
 
 Der Rechtsanwalt, der nach § 57 oder § 58 der Zivilprozessordnung dem Beklagten als Vertreter bestellt ist, kann von diesem die Vergütung eines zum Prozessbevollmächtigten bestellten Rechtsanwalts verlangen. Er kann von diesem keinen Vorschuss fordern. § 126 der Zivilprozessordnung ist entsprechend anzuwenden.
+
+### § 41a Vertreter des Musterklägers
+
+(1) Für das erstinstanzliche Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz kann das Oberlandesgericht dem Rechtsanwalt, der den Musterkläger vertritt, auf Antrag eine besondere Gebühr bewilligen, wenn sein Aufwand im Vergleich zu dem Aufwand der Vertreter der beigeladenen Kläger höher ist. Bei der Bemessung der Gebühr sind der Mehraufwand sowie der Vorteil und die Bedeutung für die beigeladenen Kläger zu berücksichtigen. Die Gebühr darf eine Gebühr mit einem Gebührensatz von 0,3 nach § 13 Absatz 1 nicht überschreiten. Hierbei ist als Wert die Summe der in sämtlichen nach § 8 des Kapitalanleger-Musterverfahrensgesetzes ausgesetzten Verfahren geltend gemachten Ansprüche zugrunde zu legen, soweit diese Ansprüche von den Feststellungszielen des Musterverfahrens betroffen sind, höchstens jedoch 30 Millionen Euro. Der Vergütungsanspruch gegen den Auftraggeber bleibt unberührt.
+
+(2) Der Antrag ist spätestens vor dem Schluss der mündlichen Verhandlung zu stellen. Der Antrag und ergänzende Schriftsätze werden entsprechend § 12 Absatz 2 des Kapitalanleger-Musterverfahrensgesetzes bekannt gegeben. Mit der Bekanntmachung ist eine Frist zur Erklärung zu setzen. Die Landeskasse ist nicht zu hören.
+
+(3) Die Entscheidung kann mit dem Musterentscheid getroffen werden. Die Entscheidung ist dem Musterkläger, den Musterbeklagten, den Beigeladenen sowie dem Rechtsanwalt mitzuteilen. § 16 Absatz 1 Satz 2 des Kapitalanleger-Musterverfahrensgesetzes ist entsprechend anzuwenden. Die Mitteilung kann durch öffentliche Bekanntmachung ersetzt werden, § 11 Absatz 2 Satz 2 des Kapitalanleger-Musterverfahrensgesetzes ist entsprechend anzuwenden. Die Entscheidung ist unanfechtbar.
+
+(4) Die Gebühr ist einschließlich der anfallenden Umsatzsteuer aus der Landeskasse zu zahlen. Ein Vorschuss kann nicht gefordert werden.
 
 Abschnitt 7 Straf- und Bußgeldsachen
 ------------------------------------
@@ -1241,7 +1252,7 @@ Die Gebühren 1000 bis 1002 betragen ................
 
  
 
-Dies gilt auch, wenn ein Verfahren über die Prozesskostenhilfe anhängig ist, soweit nicht lediglich Prozesskostenhilfe für ein selbständiges Beweisverfahren oder die gerichtliche Protokollierung des Vergleichs beantragt wird oder sich die Beiordnung auf den Abschluss eines Vertrags im Sinne der Nummer 1000 erstreckt (§ 48 Abs. 3 RVG). Das Verfahren vor dem Gerichtsvollzieher steht einem gerichtlichen Verfahren gleich.
+Die Anmeldung eines Anspruchs zum Musterverfahren nach dem KapMuG steht einem anhängigen gerichtlichen Verfahren gleich. Dies gilt auch, wenn ein Verfahren über die Prozesskostenhilfe anhängig ist, soweit nicht lediglich Prozesskostenhilfe für ein selbständiges Beweisverfahren oder die gerichtliche Protokollierung des Vergleichs beantragt wird oder sich die Beiordnung auf den Abschluss eines Vertrags im Sinne der Nummer 1000 erstreckt (§ 48 Abs. 3 RVG). Das Verfahren vor dem Gerichtsvollzieher steht einem gerichtlichen Verfahren gleich.
    (2) In Kindschaftssachen entsteht die Gebühr auch für die Mitwirkung am Abschluss eines gerichtlich gebilligten Vergleichs (§ 156 Abs. 2 FamFG) und an einer Vereinbarung, über deren Gegenstand nicht vertraglich verfügt werden kann, wenn hierdurch eine gerichtliche Entscheidung entbehrlich wird oder wenn die Entscheidung der getroffenen Vereinbarung folgt.
 
  
@@ -1916,7 +1927,7 @@ a) in Verfahren über Anträge auf Vollstreckbarerklärung ausländischer Titel 
 b) in Familiensachen,
 c) in Verfahren nach dem Gesetz über das gerichtliche Verfahren in Landwirtschaftssachen,
 d) nach dem WpÜG und
-e) nach § 15 KapMuG sowie
+e) nach § 20 KapMuG sowie
 
 <!-- -->
 
@@ -2443,6 +2454,12 @@ wenn der Auftrag endigt, bevor der Rechtsanwalt den das Verfahren einleitenden A
 soweit lediglich beantragt ist, eine Einigung der Parteien oder der Beteiligten zu Protokoll zu nehmen oder soweit lediglich Verhandlungen vor Gericht zur Einigung geführt werden.
 
  
+
+3338
+
+Verfahrensgebühr für die Tätigkeit als Vertreter des Anmelders eines Anspruchs zum Musterverfahren (§ 10 Abs. 2 KapMuG) .................
+
+0,8
 
  
 
