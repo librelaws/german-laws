@@ -2,10 +2,7 @@ Verordnung über das Inverkehrbringen von Heizkesseln und Geräten nach dem Baup
 =============================================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 8.11.2011 I 2178
-
-Hinweis  
-Änderung durch Art. 5 G v. 5.12.2012 I 2449 (Nr. 57) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 5 G v. 5.12.2012 I 2449
 
 ### 
 
@@ -144,11 +141,11 @@ anerkennen, wenn sie oder die bei ihr Beschäftigten nach ihrer Ausbildung, Fach
 
 (2) Prüf-, Überwachungs- und Zertifizierungsstellen, die von einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum anerkannt worden sind, stehen entsprechend dieser Anerkennung den nach Absatz 1 anerkannten Stellen gleich.
 
-(3) Die § 3 Abs. 4 und 5, §§ 4 bis 12 der Verordnung über die Anerkennung als Prüf-, Überwachungs- und Zertifizierungsstelle nach dem Bauproduktengesetz vom 6. Juni 1996 (BGBl. I S. 798) sind entsprechend anzuwenden.
+(3) Die §§ 3 bis 12 der BauPG-PÜZ-Anerkennungsverordnung vom 6. Juni 1996 (BGBl. I S. 798) sind entsprechend anzuwenden.
 
 ### § 8 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 14 Absatz 1 des Bauproduktengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 4 Abs. 1 Satz 1 oder Abs. 2 einen Heizkessel oder ein Gerät in den Verkehr bringt.
+Ordnungswidrig im Sinne des § 8 Absatz 1 des Bauproduktengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 4 Abs. 1 Satz 1 oder Abs. 2 einen Heizkessel oder ein Gerät in den Verkehr bringt.
 
 ### Anhang 1 Wirkungsgradanforderungen
 
