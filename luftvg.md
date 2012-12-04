@@ -1,24 +1,16 @@
 Luftverkehrsgesetz (LuftVG)
 ===========================
 
-Neuf  
-Neugefasst durch Bek. v. 10.5.2007 I 698
-
 Stand  
-Zuletzt geändert durch Art. 21 G v. 19.2.2016 I 254
-
-Hinweis  
-Änderung durch Art. 1 G v. 28.6.2016 I 1548 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Neugefasst durch Bek. v. 10.5.2007 I 698; zuletzt geändert durch Art. 3 G v. 5.12.2012 I 2454
 
 ### 
 
 ```
  
 (+++ Textnachweis Geltung ab: 1.10.1980 +++)
-(+++ Zur Anwendung vgl. §§ 71 bis 73 +++)
 (+++ Maßgaben aufgrund des EinigVtr vgl. LuftVG Anhang EV;
-nicht mehr anzuwenden gem. Art. 109 Nr. 5 Buchst. c DBuchst. aa G v. 8.12.2010 
-I 1864 +++)
+nicht mehr anzuwenden gem. Art. 109 Nr. 5 Buchst. c DBuchst. aa G v. 8.12.2010 I 1864 +++)
 
  
 Amtlicher Hinweis des Normgebers auf EG-Recht:
@@ -27,71 +19,65 @@ Umsetzung der EGRL 36/2004 (CELEX Nr: 304L0036) vgl. G v. 24.5.2006 I 1223
 
 ### Inhaltsübersicht
 
-|                                                    |
-|----------------------------------------------------|
-| **Erster Abschnitt**                               |
-| **Luftverkehr**                                    |
-|                                                    |
-| 1.                                                 |
-|                                                    |
-| 2.                                                 |
-|                                                    |
-| 3.                                                 |
-|                                                    |
-| 4.                                                 |
-|                                                    |
-| 5.                                                 |
-|                                                    |
-| 6.                                                 |
-|                                                    |
-| 7.                                                 |
-|                                                    |
-|                                                    |
-| **Zweiter Abschnitt**                              |
-| **Zweiter Abschnitt: Haftpflicht und Schlichtung** |
-|                                                    |
-| 1.                                                 |
-|                                                    |
-| 2.                                                 |
-|                                                    |
-|                                                    |
-|                                                    |
-|                                                    |
-|                                                    |
-|                                                    |
-|                                                    |
-|                                                    |
-|                                                    |
-|                                                    |
-|                                                    |
-|                                                    |
-|                                                    |
-|                                                    |
-|                                                    |
-| 3.                                                 |
-|                                                    |
-|                                                    |
-|                                                    |
-| 4.                                                 |
-|                                                    |
-|                                                    |
-|                                                    |
-| 5.                                                 |
-|                                                    |
-|                                                    |
-|                                                    |
-|                                                    |
-|                                                    |
-|                                                    |
-|                                                    |
-| **Dritter Abschnitt**                              |
-| Straf- und Bußgeldvorschriften .........           |
-|                                                    |
-| **Vierter Abschnitt**                              |
-| Luftfahrtdateien .........                         |
-|                                                    |
-| **Fünfter Abschnitt**                              |
-| Übergangsregelungen .........                      |
+|                                                  |
+|--------------------------------------------------|
+| **Erster Abschnitt**                             |
+| **Luftverkehr**                                  |
+|                                                  |
+| 1.                                               |
+|                                                  |
+| 2.                                               |
+|                                                  |
+| 3.                                               |
+|                                                  |
+| 4.                                               |
+|                                                  |
+| 5.                                               |
+|                                                  |
+| 6.                                               |
+|                                                  |
+| 7.                                               |
+|                                                  |
+|                                                  |
+| **Zweiter Abschnitt**                            |
+| **Haftpflicht**                                  |
+|                                                  |
+| 1.                                               |
+|                                                  |
+| 2.                                               |
+|                                                  |
+|                                                  |
+|                                                  |
+|                                                  |
+|                                                  |
+|                                                  |
+|                                                  |
+|                                                  |
+|                                                  |
+|                                                  |
+|                                                  |
+|                                                  |
+|                                                  |
+|                                                  |
+|                                                  |
+| 3.                                               |
+|                                                  |
+|                                                  |
+|                                                  |
+| 4.                                               |
+|                                                  |
+|                                                  |
+|                                                  |
+|                                                  |
+|                                                  |
+| **Dritter Abschnitt**                            |
+| Straf- und Bußgeldvorschriften.................. |
+|                                                  |
+| **Vierter Abschnitt**                            |
+| Luftfahrtdateien................................ |
+|                                                  |
+| **Fünfter Abschnitt**                            |
+| Übergangsregelungen............................. |
 
 Erster Abschnitt Luftverkehr
 ----------------------------
@@ -172,7 +158,7 @@ auch außerhalb des Hoheitsgebietes der Bundesrepublik Deutschland anzuwenden, s
 Die Berechtigung zum Verkehr im Luftraum der Bundesrepublik Deutschland haben nach Maßgabe des § 1 Abs. 1
 
 1.  
-Luftfahrzeuge, die in der deutschen Luftfahrzeugrolle oder im Luftsportgeräteverzeichnis eingetragen sind, sowie Luftfahrzeuge der Polizeien des Bundes und der Länder;
+Luftfahrzeuge, die in der deutschen Luftfahrzeugrolle oder im Luftsportgeräteverzeichnis eingetragen sind;
 
 2.  
 Luftfahrzeuge mit Eintragungszeichen der Bundeswehr;
@@ -215,19 +201,7 @@ die technische Ausrüstung des Luftfahrzeugs so gestaltet ist, dass das durch se
 
 (6) Deutsche Luftfahrzeuge dürfen den Geltungsbereich dieses Gesetzes nur mit Erlaubnis verlassen.
 
-(7) Luftfahrzeuge, die nicht im Geltungsbereich dieses Gesetzes eingetragen und zugelassen sind, dürfen nur mit Erlaubnis in den Geltungsbereich dieses Gesetzes einfliegen oder auf andere Weise dorthin verbracht werden, um dort zu verkehren. Dieser Erlaubnis bedarf es nicht, soweit
-
-1.  
-die Luftfahrzeuge in einem Luftfahrtunternehmen eingesetzt werden, das eine Betriebsgenehmigung nach der Verordnung (EG) Nr. 1008/2008 besitzt,
-
-2.  
-die Luftfahrzeuge in einem Mitgliedstaat der Europäischen Union eingetragen und zum Verkehr zugelassen sind und über ein Lufttüchtigkeitszeugnis nach Artikel 5 der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates vom 20. Februar 2008 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Europäischen Agentur für Flugsicherheit, zur Aufhebung der Richtlinie 91/670/EWG des Rates, der Verordnung (EG) Nr. 1592/2002 und der Richtlinie 2004/36/EG (ABl. L 79 vom 19.3.2008, S. 1) in der jeweils geltenden Fassung verfügen,
-
-3.  
-die Luftfahrzeuge in einem Staat registriert sind, in dem das Luftverkehrsrecht der Europäischen Union Anwendung findet, wenn diese Luftfahrzeuge die Voraussetzungen der Nummer 1 oder 2 erfüllen, oder
-
-4.  
-ein Abkommen zwischen dem Heimatstaat und der Bundesrepublik Deutschland oder ein für beide Staaten verbindliches Übereinkommen etwas anderes bestimmt.
+(7) Luftfahrzeuge, die nicht im Geltungsbereich dieses Gesetzes eingetragen und zugelassen sind, dürfen nur mit Erlaubnis in den Geltungsbereich dieses Gesetzes einfliegen oder auf andere Weise dorthin verbracht werden, um dort zu verkehren. Der Erlaubnis bedarf es nicht, soweit ein Abkommen zwischen dem Heimatstaat und der Bundesrepublik Deutschland oder ein für beide Staaten verbindliches Übereinkommen etwas anderes bestimmt.
 
 (8) Die Erlaubnis nach den Absätzen 6 und 7 kann allgemein oder für den Einzelfall erteilt, mit Auflagen verbunden und befristet werden.
 
@@ -251,7 +225,7 @@ Staatsangehörige der Mitgliedstaaten der Europäischen Union stehen deutschen S
 
 (1) Mit der Eintragung in die Luftfahrzeugrolle wird die Pflicht nach § 2 Abs. 5 begründet.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur oder eine von ihm bestimmte Behörde kann durch Verwaltungsabkommen mit der zuständigen Behörde eines ausländischen Staates zur Umsetzung von Artikel 83 (hoch) bis des Abkommens über die Internationale Zivilluftfahrt vom 7. Dezember 1944 (BGBl. 1956 II S. 412, 1997 II S. 1777) die völkerrechtliche Verantwortung und die damit verbundene Zuständigkeit für ein nach § 3 eingetragenes Luftfahrzeug auf die zuständige Stelle des anderen Staates übertragen.
+(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung oder eine von ihm bestimmte Behörde kann durch Verwaltungsabkommen mit der zuständigen Behörde eines ausländischen Staates zur Umsetzung von Artikel 83 (hoch) bis des Abkommens über die Internationale Zivilluftfahrt vom 7. Dezember 1944 (BGBl. 1956 II S. 412, 1997 II S. 1777) die völkerrechtliche Verantwortung und die damit verbundene Zuständigkeit für ein nach § 3 eingetragenes Luftfahrzeug auf die zuständige Stelle des anderen Staates übertragen.
 
 (3) Desgleichen kann die Bundesrepublik Deutschland durch Verwaltungsabkommen nach Absatz 2 die Zuständigkeit für ein in einem ausländischen Register eingetragenes Luftfahrzeug übernehmen. Ein derartiges Luftfahrzeug unterliegt den Anforderungen dieses Gesetzes und den auf seiner Grundlage erlassenen Rechtsvorschriften.
 
@@ -269,7 +243,7 @@ der Bewerber seine Tauglichkeit nachgewiesen hat,
 keine Tatsachen vorliegen, die den Bewerber als unzuverlässig erscheinen lassen, ein Luftfahrzeug zu führen oder zu bedienen, und keine Zweifel an der Zuverlässigkeit des Bewerbers nach § 7 des Luftsicherheitsgesetzes bestehen,
 
 4.  
-der Bewerber eine Prüfung nach der Verordnung über Luftfahrtpersonal oder nach der Verordnung (EU) Nr. 1178/2011 der Kommission vom 3. November 2011 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren in Bezug auf das fliegende Personal in der Zivilluftfahrt gemäß der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates (ABl. L 311 vom 25.11.2011, S 1), die durch die Verordnung (EU) Nr. 290/2012 (ABl. L 100 vom 5.4.2012, S. 1) geändert worden ist, bestanden hat und
+der Bewerber eine Prüfung nach der Verordnung über Luftfahrtpersonal bestanden hat und
 
 5.  
 dem Bewerber nicht bereits eine Erlaubnis gleicher Art und gleichen Umfangs nach Maßgabe dieser Vorschrift erteilt worden ist.
@@ -278,7 +252,7 @@ dem Bewerber nicht bereits eine Erlaubnis gleicher Art und gleichen Umfangs nach
 
 (3) Die Erlaubnis ist zu widerrufen, wenn die Voraussetzungen nach Absatz 1 nicht mehr vorliegen.
 
-(4) Bei Übungs- und Prüfungsflügen in Begleitung von Fluglehrern (§ 5 Abs. 3) gelten die Fluglehrer als diejenigen, die das Luftfahrzeug führen oder bedienen. Das Gleiche gilt auch für Prüfer bei Prüfungsflügen und für Luftfahrer, die andere Luftfahrer in ein Luftfahrzeugmuster einweisen oder mit diesem vertraut machen, es sei denn, dass ein anderer als verantwortlicher Luftfahrzeugführer bestimmt ist. Bei Übungs- und Prüfungsflügen ohne Begleitung von Fluglehrern oder Prüfern bedürfen Luftfahrer keiner Erlaubnis, wenn es sich um Flüge handelt, die von Fluglehrern oder Prüfern angeordnet und beaufsichtigt werden.
+(4) Bei Übungs- und Prüfungsflügen in Begleitung von Fluglehrern (§ 5 Abs. 3) gelten die Fluglehrer als diejenigen, die das Luftfahrzeug führen oder bedienen. Das Gleiche gilt auch für Prüfungsratsmitglieder bei Prüfungsflügen und für Luftfahrer, die andere Luftfahrer in ein Luftfahrzeugmuster einweisen oder mit diesem vertraut machen, es sei denn, dass ein anderer als verantwortlicher Luftfahrzeugführer bestimmt ist. Bei Übungs- und Prüfungsflügen ohne Begleitung von Fluglehrern oder Prüfungsratsmitgliedern bedürfen Luftfahrer keiner Erlaubnis, wenn es sich um Flüge handelt, die von Fluglehrern oder Prüfungsratsmitgliedern angeordnet und beaufsichtigt werden.
 
 (5) Auf das Personal für die Flugsicherung
 
@@ -293,19 +267,13 @@ bei Betrieb, Instandhaltung und Überwachung der betrieblich genutzten flugsiche
 
 sind Absatz 1 Satz 1, 2 Nummer 1 bis 3 und Absatz 3 entsprechend anzuwenden. Voraussetzung ist ferner der Nachweis der Befähigung und Eignung gemäß einer Rechtsverordnung nach § 32 Absatz 4 Nummer 4 und 4a.
 
-### § 4a
-
-(1) Luftfahrzeugführern ist das Führen oder Bedienen eines Luftfahrzeuges unter dem Einfluss von Alkohol oder anderen psychoaktiven Substanzen untersagt. Satz 1 gilt für Medikamente nur so weit, als auf Grund ihrer betäubenden, bewusstseinsverändernden oder aufputschenden Wirkung davon auszugehen ist, dass sie die Dienstfähigkeit von Luftfahrzeugführern beeinträchtigen oder ausschließen, es sei denn, durch eine ärztliche Bescheinigung eines flugmedizinischen Sachverständigen oder eines flugmedizinischen Zentrums kann nachgewiesen werden, dass eine solche Wirkung nicht zu befürchten ist.
-
-(2) Luftfahrtunternehmen nach § 20 Absatz 1, die ihren Hauptsitz in Deutschland haben oder über eine durch das Luftfahrt-Bundesamt anerkannte Niederlassung in Deutschland verfügen, haben dafür Sorge zu tragen, dass nur Luftfahrzeugführer eingesetzt werden, die befähigt und geeignet sind, eine sichere und ordnungsgemäße Beförderung zu gewährleisten. Dazu sind von ihnen bei den Luftfahrzeugführern vor Dienstbeginn auch verdachtsunabhängige Kontrollen in Form von Stichproben durchzuführen, in denen geprüft wird, ob die kontrollierte Person unter dem Einfluss von Stoffen nach Absatz 1 steht. Die Kontrollen dürfen nur unter ärztlicher Aufsicht durchgeführt werden. Die Einzelheiten der Durchführung der Kontrollen sind durch Tarifvertrag oder wenn ein solcher nicht besteht durch Betriebsvereinbarung zu regeln.
-
 ### § 5
 
 (1) Wer es unternimmt, Luftfahrer oder Personal für die Flugsicherung auszubilden, bedarf unbeschadet der Vorschrift des Absatzes 3 der Erlaubnis. Die Erlaubnis kann mit Auflagen verbunden und befristet werden.
 
 (2) Die Erlaubnis ist zu versagen, wenn Tatsachen die Annahme rechtfertigen, dass die öffentliche Sicherheit oder Ordnung gefährdet werden kann oder der Bewerber oder seine Ausbilder persönlich ungeeignet sind; ergeben sich später solche Tatsachen, so ist die Erlaubnis zu widerrufen. Die Erlaubnis kann außerdem widerrufen werden, wenn sie länger als ein Jahr nicht ausgenutzt worden ist.
 
-(3) Die praktische Ausbildung der Luftfahrer darf nur von Personen vorgenommen werden, die eine Lehrberechtigung nach der Verordnung (EU) Nr. 1178/2011 oder nach der Verordnung über Luftfahrtpersonal besitzen (Fluglehrer).
+(3) Die praktische Ausbildung der Luftfahrer darf nur von Personen vorgenommen werden, die eine Lehrberechtigung nach der Verordnung über Luftfahrtpersonal besitzen (Fluglehrer).
 
 2. Unterabschnitt Flugplätze
 ----------------------------
@@ -322,7 +290,7 @@ sind Absatz 1 Satz 1, 2 Nummer 1 bis 3 und Absatz 3 entsprechend anzuwenden. Vor
 
 (4) Die Genehmigung ist zu ergänzen oder zu ändern, wenn dies nach dem Ergebnis des Planfeststellungsverfahrens (§§ 8 bis 10) notwendig ist. Eine Änderung der Genehmigung ist auch erforderlich, wenn die Anlage oder der Betrieb des Flugplatzes wesentlich erweitert oder geändert werden soll.
 
-(5) Für das Genehmigungsverfahren gelten § 73 Absatz 3a, § 75 Absatz 1a sowie § 74 Abs. 4 und 5 des Verwaltungsverfahrensgesetzes über die Bekanntgabe entsprechend. Für die in § 8 Abs. 1 bezeichneten Flugplätze gilt für die Durchführung des Genehmigungsverfahrens auch § 10 Absatz 4 und 5 entsprechend.
+(5) Für das Genehmigungsverfahren gelten § 10 Abs. 2 Nr. 3 Satz 1 bis 4, Abs. 8 sowie § 74 Abs. 4 und 5 des Verwaltungsverfahrensgesetzes über die Bekanntgabe entsprechend. Für die in § 8 Abs. 1 bezeichneten Flugplätze gilt für die Durchführung des Genehmigungsverfahrens auch § 10 Abs. 6 und 7 entsprechend.
 
 (6) Im Falle des Absatzes 5 Satz 2 hat der Widerspruch eines Dritten gegen die Erteilung der Genehmigung keine aufschiebende Wirkung. Der Antrag auf Anordnung der aufschiebenden Wirkung nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach Zustellung des Genehmigungsbescheides gestellt und begründet werden. Darauf ist in der Rechtsbehelfsbelehrung hinzuweisen.
 
@@ -342,11 +310,31 @@ sind Absatz 1 Satz 1, 2 Nummer 1 bis 3 und Absatz 3 entsprechend anzuwenden. Vor
 
 ### § 8
 
-(1) Flughäfen sowie Landeplätze mit beschränktem Bauschutzbereich nach § 17 dürfen nur angelegt, bestehende nur geändert werden, wenn der Plan nach § 10 vorher festgestellt ist. Bei der Planfeststellung sind die von dem Vorhaben berührten öffentlichen und privaten Belange einschließlich der Umweltverträglichkeit im Rahmen der Abwägung zu berücksichtigen. Hierbei sind zum Schutz der Allgemeinheit und der Nachbarschaft vor schädlichen Umwelteinwirkungen durch Fluglärm die jeweils anwendbaren Werte des § 2 Absatz 2 des Gesetzes zum Schutz gegen Fluglärm zu beachten. Die Prüfung der Umweltverträglichkeit und der Verträglichkeit mit den Erhaltungszielen von Natura 2000-Gebieten muss sich räumlich auf den gesamten Einwirkungsbereich des Vorhabens erstrecken, in dem entscheidungserhebliche Auswirkungen möglich sind. Hierbei sind in der Umgebung der in Satz 1 bezeichneten Flugplätze alle die Bereiche zu berücksichtigen, in denen An- und Abflugverkehr weder aus tatsächlichen noch aus rechtlichen Gründen ausgeschlossen werden kann. Lässt sich die Zulassung des Vorhabens nur rechtfertigen, wenn bestimmte Gebiete von erheblichen Beeinträchtigungen durch An- und Abflugverkehr verschont bleiben, legt die Planfeststellungsbehörde fest, dass An- und Abflugverkehr über diesen Gebieten nicht abgewickelt werden darf. Die Planfeststellungsbehörde kann auch Bedingungen für die Zulässigkeit von Überflügen über bestimmten Gebieten festlegen. Vor einer Festlegung im Planfeststellungsbeschluss ist der Flugsicherungsorganisation und dem Bundesaufsichtsamt für Flugsicherung Gelegenheit zu geben, zu den Auswirkungen einer solchen Festlegung auf die künftige Verkehrsführung und Abwicklung des Luftverkehrs Stellung zu nehmen. Auf Genehmigungen nach § 6 Absatz 1 und 4 Satz 2 sind die Sätze 3 bis 5 entsprechend anzuwenden. Für das Planfeststellungsverfahren gelten die §§ 72 bis 78 des Verwaltungsverfahrensgesetzes nach Maßgabe dieses Gesetzes.
+(1) Flughäfen sowie Landeplätze mit beschränktem Bauschutzbereich nach § 17 dürfen nur angelegt, bestehende nur geändert werden, wenn der Plan nach § 10 vorher festgestellt ist. Bei der Planfeststellung sind die von dem Vorhaben berührten öffentlichen und privaten Belange einschließlich der Umweltverträglichkeit im Rahmen der Abwägung zu berücksichtigen. Hierbei sind zum Schutz der Allgemeinheit und der Nachbarschaft vor schädlichen Umwelteinwirkungen durch Fluglärm die jeweils anwendbaren Werte des § 2 Abs. 2 des Gesetzes zum Schutz gegen Fluglärm zu beachten. Satz 3 ist auf Genehmigungen nach § 6 Abs. 1 und 4 Satz 2 entsprechend anzuwenden.
 
-(2) Für die Plangenehmigung gilt § 9 Absatz 1 entsprechend.
+(2) An Stelle eines Planfeststellungsbeschlusses kann eine Plangenehmigung erteilt werden, wenn
 
-(3) (weggefallen)
+1.  
+es sich bei dem Vorhaben nicht um ein Vorhaben handelt, für das nach dem Gesetz über die Umweltverträglichkeitsprüfung eine Umweltverträglichkeitsprüfung durchzuführen ist,
+
+2.  
+mit den Trägern öffentlicher Belange, deren Aufgabenbereich berührt wird, das Benehmen hergestellt worden ist und
+
+3.  
+Rechte anderer nicht oder nur unwesentlich beeinträchtigt werden oder die Betroffenen sich mit der Inanspruchnahme ihres Eigentums oder eines anderen Rechts schriftlich einverstanden erklärt haben.
+
+Für die Plangenehmigung gelten § 9 Abs. 1 bis 3 dieses Gesetzes sowie § 74 Abs. 4 und 5 des Verwaltungsverfahrensgesetzes entsprechend; auf ihre Erteilung finden die Vorschriften über das Planfeststellungsverfahren keine Anwendung. Vor Erhebung einer verwaltungsgerichtlichen Klage bedarf es keiner Nachprüfung in einem Vorverfahren.
+
+(3) Planfeststellung und Plangenehmigung können bei Änderungen oder Erweiterungen von unwesentlicher Bedeutung unterbleiben. Fälle unwesentlicher Bedeutung liegen vor, wenn
+
+1.  
+es sich nicht um eine Änderung oder Erweiterung handelt, für die nach dem Gesetz über die Umweltverträglichkeitsprüfung eine Umweltverträglichkeitsprüfung durchzuführen ist,
+
+2.  
+andere öffentliche Belange nicht berührt sind oder die erforderlichen behördlichen Entscheidungen vorliegen und sie dem Plan nicht entgegenstehen und
+
+3.  
+Rechte anderer nicht beeinträchtigt werden oder mit den vom Plan Betroffenen entsprechende Vereinbarungen getroffen werden.
 
 (4) Betriebliche Regelungen und die bauplanungsrechtliche Zulässigkeit von Hochbauten auf dem Flugplatzgelände können Gegenstand der Planfeststellung sein. Änderungen solcherart getroffener betrieblicher Regelungen bedürfen nur einer Regelung entsprechend § 6 Abs. 4 Satz 2.
 
@@ -368,38 +356,53 @@ sind Absatz 1 Satz 1, 2 Nummer 1 bis 3 und Absatz 3 entsprechend anzuwenden. Vor
 
 ### § 9
 
-(1) § 75 Absatz 1 des Verwaltungsverfahrensgesetzes gilt nicht für Entscheidungen des Bundesministeriums für Verkehr und digitale Infrastruktur nach § 27d Absatz 1 und 4 und Entscheidungen der Baugenehmigungsbehörden auf Grund des Baurechts.
+(1) Die Planfeststellung ersetzt alle nach anderen Rechtsvorschriften notwendigen öffentlich-rechtlichen Genehmigungen, Verleihungen, Erlaubnisse und Zustimmungen. Durch sie werden alle öffentlich-rechtlichen Beziehungen zwischen dem Unternehmer und den durch den Plan Betroffenen rechtsgestaltend geregelt. Die Sätze 1 und 2 gelten nicht für Entscheidungen des Bundesministeriums für Verkehr, Bau und Stadtentwicklung nach § 27d Abs. 1 und 4 und Entscheidungen der Baugenehmigungsbehörden auf Grund des Baurechts.
 
-(2) Wird der Plan nicht innerhalb von fünf Jahren nach Rechtskraft durchgeführt, so können die vom Plan betroffenen Grundstückseigentümer verlangen, dass der Unternehmer ihre Grundstücke und Rechte insoweit erwirbt, als nach § 28 die Enteignung zulässig ist. Kommt keine Einigung zustande, so können sie die Durchführung des Enteignungsverfahrens bei der Enteignungsbehörde beantragen. Im Übrigen gilt § 28.
+(2) Im Planfeststellungsbeschluss sind dem Unternehmer die Errichtung und Unterhaltung der Anlagen aufzuerlegen, die für das öffentliche Wohl oder zur Sicherung der Benutzung der benachbarten Grundstücke gegen Gefahren oder Nachteile notwendig sind.
 
-(3) Wird mit der Durchführung des Plans nicht innerhalb von zehn Jahren nach Eintritt der Unanfechtbarkeit begonnen, so tritt er außer Kraft, es sei denn, er wird vorher auf Antrag des Trägers des Vorhabens von der Planfeststellungsbehörde um höchstens fünf Jahre verlängert.
+(3) Ist der Plan rechtskräftig festgestellt, so sind Beseitigungs- und Änderungsansprüche gegenüber festgestellten Anlagen ausgeschlossen.
+
+(4) Wird der Plan nicht innerhalb von fünf Jahren nach Rechtskraft durchgeführt, so können die vom Plan betroffenen Grundstückseigentümer verlangen, dass der Unternehmer ihre Grundstücke und Rechte insoweit erwirbt, als nach § 28 die Enteignung zulässig ist. Kommt keine Einigung zustande, so können sie die Durchführung des Enteignungsverfahrens bei der Enteignungsbehörde beantragen. Im Übrigen gilt § 28.
+
+(5) Wird mit der Durchführung des Plans nicht innerhalb von zehn Jahren nach Eintritt der Unanfechtbarkeit begonnen, so tritt er außer Kraft, es sei denn, er wird vorher auf Antrag des Trägers des Vorhabens von der Planfeststellungsbehörde um höchstens fünf Jahre verlängert. Als Beginn der Durchführung des Plans gilt jede erstmals nach außen erkennbare Tätigkeit zur planmäßigen Verwirklichung des Vorhabens. Eine spätere Unterbrechung der Verwirklichung des Vorhabens berührt den Beginn der Durchführung nicht.
 
 ### § 10
 
-(1) Planfeststellungsbehörde und Anhörungsbehörde sind die von der Landesregierung bestimmten Behörden des Landes, in dem das Gelände liegt. Erstreckt sich das Gelände auf mehrere Länder, so trifft die Bestimmung nach Satz 1 die Landesregierung des Landes, in dem der überwiegende Teil des Geländes liegt.
+(1) Planfeststellungsbehörde ist die von der Landesregierung bestimmte Behörde des Landes, in dem das Gelände liegt. Erstreckt sich das Gelände auf mehrere Länder, so trifft die Bestimmung nach Satz 1 die Landesregierung des Landes, in dem der überwiegende Teil des Geländes liegt. Die Planfeststellungsbehörde stellt den Plan fest, erteilt die Plangenehmigung nach § 8 Abs. 2 und trifft die Entscheidung nach § 8 Abs. 3.
 
 (2) Für das Anhörungsverfahren gilt § 73 des Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
 
 1.  
-§ 73 Absatz 3a des Verwaltungsverfahrensgesetzes gilt für Äußerungen der Kommission nach § 32b entsprechend.
+Die Pläne sind der von der Landesregierung bestimmten Behörde (Anhörungsbehörde) zur Stellungnahme vorzulegen. Diese hat alle in ihrem Aufgabenbereich durch das Vorhaben berührten Behörden des Bundes, der Länder, der Gemeinden und die übrigen Beteiligten zu hören und ihre Stellungnahme der Planfeststellungsbehörde zuzuleiten.
 
 2.  
-Bei der Änderung eines Flughafens oder eines Landeplatzes mit beschränktem Bauschutzbereich nach § 17 kann von einer förmlichen Erörterung im Sinne des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 9 Abs. 1 Satz 2 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden. Vor dem Abschluss des Planfeststellungsverfahrens ist den Einwendern Gelegenheit zur Äußerung zu geben. Die Stellungnahme der Anhörungsbehörde nach § 73 Abs. 9 des Verwaltungsverfahrensgesetzes ist innerhalb von sechs Wochen nach Ablauf der Einwendungsfrist abzugeben.
+Die Einholung der Stellungnahmen der Behörden sowie die Auslegung des Plans in den Gemeinden, in denen sich das Vorhaben voraussichtlich auswirkt, veranlasst die Anhörungsbehörde innerhalb eines Monats, nachdem der Unternehmer den Plan bei ihr eingereicht hat. Nicht ortsansässige Betroffene, deren Person und Aufenthalt bekannt sind, sollen auf Veranlassung der Anhörungsbehörde von der Auslegung mit dem Hinweis nach § 73 Abs. 5 Satz 2 des Verwaltungsverfahrensgesetzes benachrichtigt werden.
 
 3.  
+Die Behörden, deren Aufgabenbereich berührt wird, haben ihre Stellungnahmen innerhalb einer von der Anhörungsbehörde zu setzenden Frist abzugeben, die drei Monate nicht übersteigen darf. Danach eingehende Stellungnahmen der Behörden müssen bei der Feststellung des Plans nicht berücksichtigt werden; dies gilt nicht, wenn später von einer Behörde vorgebrachte öffentliche Belange der Planfeststellungsbehörde auch ohne ihr Vorbringen bekannt sind oder hätten bekannt sein müssen. Die Sätze 1 und 2 gelten auch für die Äußerungen der Kommission nach § 32b. Für die Äußerungen der vom Bund oder Land anerkannten Naturschutzvereinigungeng gilt § 73 Abs. 4 des Verwaltungsverfahrensgesetzes. Die Gemeinden legen den Plan innerhalb von drei Wochen nach Zugang aus. Sie machen die Auslegung ortsüblich bekannt.
+
+4.  
+Die Erörterung nach § 73 Abs. 6 des Verwaltungsverfahrensgesetzes hat die Anhörungsbehörde innerhalb von drei Monaten nach Ablauf der Einwendungsfrist abzuschließen. Sie gibt ihre Stellungnahme nach § 73 Abs. 9 des Verwaltungsverfahrensgesetzes innerhalb eines Monats nach Abschluss der Erörterung ab.
+
+5.  
+Bei der Änderung eines Flughafens oder eines Landeplatzes mit beschränktem Bauschutzbereich nach § 17 kann von einer förmlichen Erörterung im Sinne des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 9 Abs. 1 Satz 2 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden. Vor dem Abschluss des Planfeststellungsverfahrens ist den Einwendern Gelegenheit zur Äußerung zu geben. Die Stellungnahme der Anhörungsbehörde nach § 73 Abs. 9 des Verwaltungsverfahrensgesetzes ist innerhalb von sechs Wochen nach Ablauf der Einwendungsfrist abzugeben.
+
+6.  
 Soll ein ausgelegter Plan geändert werden, so sind auch die vom Bund oder Land anerkannten Naturschutzvereinigungen entsprechend § 73 Abs. 8 Satz 1 des Verwaltungsverfahrensgesetzes zu beteiligen. Im Falle des § 73 Abs. 8 Satz 2 des Verwaltungsverfahrensgesetzes erfolgt die Beteiligung in entsprechender Anwendung der Nummer 3 Satz 3 und 4. Von einer Erörterung im Sinne des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 9 Abs. 1 Satz 3 des Gesetzes über die Umweltverträglichkeitsprüfung kann abgesehen werden.
 
 Die Maßgaben gelten entsprechend, wenn das Verfahren landesrechtlich durch ein Verwaltungsverfahrensgesetz geregelt ist.
 
-(3) Werden öffentliche Interessen berührt, für die die Zuständigkeit von Bundesbehörden oder von Behörden, die im Auftrag des Bundes tätig werden, gegeben ist, und kommt eine Verständigung zwischen der Planfeststellungsbehörde und den genannten Behörden nicht zustande, so hat die Planfeststellungsbehörde im Benehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur zu entscheiden.
+(3) Werden öffentliche Interessen berührt, für die die Zuständigkeit von Bundesbehörden oder von Behörden, die im Auftrag des Bundes tätig werden, gegeben ist, und kommt eine Verständigung zwischen der Planfeststellungsbehörde und den genannten Behörden nicht zustande, so hat die Planfeststellungsbehörde im Benehmen mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung zu entscheiden.
 
-(4) Die Anfechtungsklage gegen einen Planfeststellungsbeschluss oder eine Plangenehmigung für den Bau oder die Änderung von Flughäfen oder Landeplätzen mit beschränktem Bauschutzbereich hat keine aufschiebende Wirkung. Der Antrag auf Anordnung der aufschiebenden Wirkung der Anfechtungsklage gegen einen Planfeststellungsbeschluss oder eine Plangenehmigung nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach Zustellung des Planfeststellungsbeschlusses oder der Plangenehmigung gestellt und begründet werden. § 58 der Verwaltungsgerichtsordnung gilt entsprechend. Treten später Tatsachen ein, die die Wiederherstellung der aufschiebenden Wirkung rechtfertigen, so kann der durch den Planfeststellungsbeschluss oder die Plangenehmigung Beschwerte einen hierauf gestützten Antrag nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung innerhalb von einem Monat stellen. Die Frist beginnt in dem Zeitpunkt, in dem der Beschwerte von den Tatsachen Kenntnis erlangt.
+(4) Einwendungen gegen den Plan oder – im Falle des § 73 Abs. 8 des Verwaltungsverfahrensgesetzes - dessen Änderung sind nach Ablauf der Einwendungsfrist ausgeschlossen. Einwendungen und Stellungnahmen der vom Bund oder Land anerkannten Naturschutzvereinigungen sind nach Ablauf der Äußerungsfrist nach Absatz 2 Nr. 3 ausgeschlossen. Auf die Rechtsfolgen der Sätze 1 und 2 ist in der Bekanntmachung der Auslegung oder der Einwendungsfrist hinzuweisen. Nach dem Erörterungstermin eingehende Stellungnahmen der Behörden müssen bei der Feststellung des Plans nicht berücksichtigt werden; dies gilt nicht, wenn später von einer Behörde vorgebrachte öffentliche Belange der Planfeststellungsbehörde auch ohne ihr Vorbringen bekannt sind oder hätten bekannt sein müssen oder für die Rechtmäßigkeit der Entscheidung von Bedeutung sind.
 
-(5) Der Kläger hat innerhalb einer Frist von sechs Wochen die zur Begründung seiner Klage dienenden Tatsachen und Beweismittel anzugeben. § 87b Abs. 3 und § 128a der Verwaltungsgerichtsordnung gelten entsprechend.
+(5) Der Planfeststellungsbeschluss ist denjenigen, über deren Einwendungen entschieden worden ist, mit Rechtsbehelfsbelehrung zuzustellen; die Vorschriften des Verwaltungsverfahrensgesetzes über die Bekanntgabe bleiben im Übrigen unberührt.
 
-### § 10a Zeugnis nach der Verordnung (EG) Nr. 216/2008
+(6) Die Anfechtungsklage gegen einen Planfeststellungsbeschluss oder eine Plangenehmigung für den Bau oder die Änderung von Flughäfen oder Landeplätzen mit beschränktem Bauschutzbereich hat keine aufschiebende Wirkung. Der Antrag auf Anordnung der aufschiebenden Wirkung der Anfechtungsklage gegen einen Planfeststellungsbeschluss oder eine Plangenehmigung nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach Zustellung des Planfeststellungsbeschlusses oder der Plangenehmigung gestellt und begründet werden. § 58 der Verwaltungsgerichtsordnung gilt entsprechend. Treten später Tatsachen ein, die die Wiederherstellung der aufschiebenden Wirkung rechtfertigen, so kann der durch den Planfeststellungsbeschluss oder die Plangenehmigung Beschwerte einen hierauf gestützten Antrag nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung innerhalb von einem Monat stellen. Die Frist beginnt in dem Zeitpunkt, in dem der Beschwerte von den Tatsachen Kenntnis erlangt.
 
-Für Flugplätze im Anwendungsbereich von Artikel 4 Absatz 3a der Verordnung (EG) Nr. 216/2008 entscheidet die zuständige Luftfahrtbehörde auf Antrag über die Erteilung eines Zeugnisses gemäß Artikel 8a der Verordnung (EG) Nr. 216/2008 und über die Freistellung des Flugplatzes nach Artikel 4 Absatz 3b. Die §§ 6 bis 10 bleiben unberührt.
+(7) Der Kläger hat innerhalb einer Frist von sechs Wochen die zur Begründung seiner Klage dienenden Tatsachen und Beweismittel anzugeben. § 87b Abs. 3 und § 128a der Verwaltungsgerichtsordnung gelten entsprechend.
+
+(8) Mängel bei der Abwägung der von dem Vorhaben berührten öffentlichen und privaten Belange sind nur erheblich, wenn sie offensichtlich und auf das Abwägungsergebnis von Einfluss gewesen sind. Erhebliche Mängel bei der Abwägung oder eine Verletzung von Verfahrens- oder Formvorschriften führen nur dann zur Aufhebung des Planfeststellungsbeschlusses oder der Plangenehmigung, wenn sie nicht durch Planergänzung oder durch ein ergänzendes Verfahren behoben werden können; die §§ 45 und 46 des Verwaltungsverfahrensgesetzes und die entsprechenden landesrechtlichen Bestimmungen bleiben unberührt.
 
 ### § 11
 
@@ -628,7 +631,7 @@ Dem Unternehmer eines Verkehrsflughafens ist freigestellt, ob und inwieweit er E
 
 (5) Um einen reibungslosen und effizienten Betrieb auf einem Flughafen sicherzustellen, können die Unternehmer von Verkehrsflughäfen nach Absatz 3 und die Flughafennutzer Leistungsvereinbarungen bezüglich der Qualität der am Flughafen zu erbringenden Dienstleistungen abschließen. Dabei sind die Entgeltordnung sowie Art und Umfang der Dienstleistungen, auf die die Flughafennutzer im Gegenzug für die Zahlung von Flughafenentgelten Anrecht haben, zu berücksichtigen.
 
-(6) Die Genehmigungsbehörde stellt dem Bundesministerium für Verkehr und digitale Infrastruktur auf dessen Verlangen Informationen zur Übermittlung an die Kommission der Europäischen Union im Hinblick auf die Umsetzung und Anwendung der Richtlinie 2009/12/EG des Europäischen Parlaments und des Rates vom 11. März 2009 über Flughafenentgelte (ABl. L 70 vom 14.3.2009, S. 11) zur Verfügung. Die Unternehmer von Verkehrsflughäfen nach Absatz 3 sind verpflichtet, der Genehmigungsbehörde die nach Satz 1 erforderlichen Auskünfte zu erteilen und Unterlagen vorzulegen, soweit dem keine anderweitigen Vorschriften oder Betriebs- und Geschäftsgeheimnisse entgegenstehen.
+(6) Die Genehmigungsbehörde stellt dem Bundesministerium für Verkehr, Bau und Stadtentwicklung auf dessen Verlangen Informationen zur Übermittlung an die Kommission der Europäischen Union im Hinblick auf die Umsetzung und Anwendung der Richtlinie 2009/12/EG des Europäischen Parlaments und des Rates vom 11. März 2009 über Flughafenentgelte (ABl. L 70 vom 14.3.2009, S. 11) zur Verfügung. Die Unternehmer von Verkehrsflughäfen nach Absatz 3 sind verpflichtet, der Genehmigungsbehörde die nach Satz 1 erforderlichen Auskünfte zu erteilen und Unterlagen vorzulegen, soweit dem keine anderweitigen Vorschriften oder Betriebs- und Geschäftsgeheimnisse entgegenstehen.
 
 ### § 19c
 
@@ -773,24 +776,17 @@ innerhalb von Betriebsbeschränkungszeiten für den Flugplatz
 
 nur starten und landen, wenn der Flugplatzunternehmer zugestimmt und die Genehmigungsbehörde eine Erlaubnis erteilt hat. Die Erlaubnis nach Satz 1, 2 oder 3 kann allgemein oder im Einzelfall erteilt, mit Auflagen verbunden und befristet werden.
 
-(2) Einer Erlaubnis und Zustimmung nach Absatz 1 bedarf es nicht, wenn
+(2) Absatz 1 gilt nicht, wenn
 
 1.  
-der Ort der Landung infolge der Eigenschaften des Luftfahrzeugs nicht vorausbestimmbar ist,
+der Ort der Landung infolge der Eigenschaften des Luftfahrzeugs nicht vorausbestimmbar ist oder
 
 2.  
-die Landung auf einer Landestelle an einer Einrichtung von öffentlichem Interesse im Sinne von Absatz 4 erfolgt oder
+die Landung aus Gründen der Sicherheit oder zur Hilfeleistung bei einer Gefahr für Leib oder Leben einer Person erforderlich ist. Das Gleiche gilt für den Wiederstart nach einer solchen Landung mit Ausnahme des Wiederstarts nach einer Notlandung.
 
-3.  
-die Landung aus Gründen der Sicherheit oder zur Hilfeleistung bei einer Gefahr für Leib oder Leben einer Person erforderlich ist; das Gleiche gilt für den Wiederstart nach einer solchen Landung mit Ausnahme des Wiederstarts nach einer Notlandung.
-
-In den Fällen des Satzes 1 Nummer 1 und 2 ist die Besatzung des Luftfahrzeugs verpflichtet, dem Berechtigten über Namen und Wohnsitz des Halters, des Luftfahrzeugführers sowie des Versicherers Auskunft zu geben; bei einem unbemannten Luftfahrzeug ist sein Halter zu entsprechender Auskunft verpflichtet. Nach Erteilung der Auskunft darf der Berechtigte den Abflug oder die Abbeförderung des Luftfahrzeugs nicht verhindern.
+In diesem Falle ist die Besatzung des Luftfahrzeugs verpflichtet, dem Berechtigten über Namen und Wohnsitz des Halters, des Luftfahrzeugführers sowie des Versicherers Auskunft zu geben; bei einem unbemannten Luftfahrzeug ist sein Halter zu entsprechender Auskunft verpflichtet. Nach Erteilung der Auskunft darf der Berechtigte den Abflug oder die Abbeförderung des Luftfahrzeugs nicht verhindern.
 
 (3) Der Berechtigte kann Ersatz des ihm durch den Start oder die Landung entstandenen Schadens nach den sinngemäß anzuwendenden §§ 33 bis 43 beanspruchen.
-
-(4) Wer eine Landestelle an einer Einrichtung von öffentlichem Interesse nach Anhang II ARO.OPS.220 in Verbindung mit Anhang IV CAT.POL.H.225 der Verordnung (EU) Nr. 965/2012 der Kommission vom 5. Oktober 2012 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren in Bezug auf den Flugbetrieb gemäß der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates (ABl. L 296 vom 25.10.2012, S. 1) in der jeweils geltenden Fassung nutzt, bedarf der Genehmigung. Die Genehmigung wird vom Luftfahrt-Bundesamt erteilt. Sie kann mit Auflagen verbunden und befristet werden.
-
-(5) § 30 Absatz 2 bleibt unberührt.
 
 ### § 26
 
@@ -817,7 +813,7 @@ In den Fällen des Satzes 1 Nummer 1 und 2 ist die Besatzung des Luftfahrzeugs v
 
 (1) Die Flughafenkoordinierung wird nach Maßgabe des Rechts der Europäischen Union vorgenommen.
 
-(2) Für Zwecke der Ermittlung der Flughafenkapazität ist das Bundesministerium für Verkehr und digitale Infrastruktur die für den Flughafen zuständige Behörde. Es bestimmt bei für koordiniert erklärten Verkehrsflughäfen im Einvernehmen mit der obersten Luftfahrtbehörde des Landes und nach Anhörung des Bundesaufsichtsamtes für Flugsicherung sowie der Flugsicherungsorganisation, des betreffenden Flugplatzunternehmers und der Luftfahrtunternehmen, die den Flugplatz regelmäßig benutzen, die Anzahl der im Voraus planbaren Zeitnischen (Koordinierungseckwert).
+(2) Für Zwecke der Ermittlung der Flughafenkapazität ist das Bundesministerium für Verkehr, Bau und Stadtentwicklung die für den Flughafen zuständige Behörde. Es bestimmt bei für koordiniert erklärten Verkehrsflughäfen im Einvernehmen mit der obersten Luftfahrtbehörde des Landes und nach Anhörung des Bundesaufsichtsamtes für Flugsicherung sowie der Flugsicherungsorganisation, des betreffenden Flugplatzunternehmers und der Luftfahrtunternehmen, die den Flugplatz regelmäßig benutzen, die Anzahl der im Voraus planbaren Zeitnischen (Koordinierungseckwert).
 
 ### § 27b
 
@@ -869,7 +865,7 @@ sowie die Verkehrsflussregelung, die Steuerung der Luftraumnutzung und die Flugv
 
 ### § 27d
 
-(1) Flugsicherungsdienste und die dazu erforderlichen flugsicherungstechnischen Einrichtungen werden an den Flugplätzen vorgehalten, bei denen das Bundesministerium für Verkehr und digitale Infrastruktur einen Bedarf aus Gründen der Sicherheit und aus verkehrspolitischen Interessen anerkennt.
+(1) Flugsicherungsdienste und die dazu erforderlichen flugsicherungstechnischen Einrichtungen werden an den Flugplätzen vorgehalten, bei denen das Bundesministerium für Verkehr, Bau und Stadtentwicklung einen Bedarf aus Gründen der Sicherheit und aus verkehrspolitischen Interessen anerkennt.
 
 (2) Die Flugplatzunternehmer sind auf Verlangen der Flugsicherungsorganisation im erforderlichen Umfang verpflichtet,
 
@@ -886,7 +882,7 @@ Außerhalb der Flugplätze gilt dies nur, soweit die Anlagen und Einrichtungen d
 
 (3) Die sich aus der Erfüllung der Pflichten nach Absatz 2 ergebenden Selbstkosten werden den Flugplatzunternehmern von der Flugsicherungsorganisation erstattet. Einzelheiten der Kostenerstattung nach Satz 1 können vertraglich zwischen der Flugsicherungsorganisation und dem Flugplatzunternehmen geregelt werden.
 
-(4) Wird für einen Flugplatz ein Bedarf nach Absatz 1 vom Bundesministerium für Verkehr und digitale Infrastruktur nicht anerkannt, können auf diesem Flugplatz auf Antrag und zu Lasten des Flugplatzunternehmers, oder wenn auf andere Weise die volle Deckung der Kosten ohne Inanspruchnahme des Bundes sichergestellt ist, Flugsicherungsdienste und flugsicherungstechnische Einrichtungen im erforderlichen Umfang vorgehalten werden. Dies gilt jedoch nur, wenn die örtlichen Voraussetzungen erfüllt und andere Belange der Flugsicherung nicht beeinträchtigt werden. Über den Antrag entscheidet das Bundesministerium für Verkehr und digitale Infrastruktur. Absatz 2 ist anzuwenden.
+(4) Wird für einen Flugplatz ein Bedarf nach Absatz 1 vom Bundesministerium für Verkehr, Bau und Stadtentwicklung nicht anerkannt, können auf diesem Flugplatz auf Antrag und zu Lasten des Flugplatzunternehmers, oder wenn auf andere Weise die volle Deckung der Kosten ohne Inanspruchnahme des Bundes sichergestellt ist, Flugsicherungsdienste und flugsicherungstechnische Einrichtungen im erforderlichen Umfang vorgehalten werden. Dies gilt jedoch nur, wenn die örtlichen Voraussetzungen erfüllt und andere Belange der Flugsicherung nicht beeinträchtigt werden. Über den Antrag entscheidet das Bundesministerium für Verkehr, Bau und Stadtentwicklung. Absatz 2 ist anzuwenden.
 
 ### § 27e
 
@@ -934,7 +930,7 @@ die Sammlung und die Bereitstellung von flugklimatologischen Daten und Statistik
 
 ### § 27f
 
-(1) Flugwetterbetriebsdienste und die dazu erforderlichen Einrichtungen werden an den Flugplätzen vorgehalten, bei denen das Bundesministerium für Verkehr und digitale Infrastruktur einen Bedarf aus Gründen der Sicherheit und aus verkehrspolitischen Interessen anerkennt.
+(1) Flugwetterbetriebsdienste und die dazu erforderlichen Einrichtungen werden an den Flugplätzen vorgehalten, bei denen das Bundesministerium für Verkehr, Bau und Stadtentwicklung einen Bedarf aus Gründen der Sicherheit und aus verkehrspolitischen Interessen anerkennt.
 
 (2) Die Flugplatzunternehmer sind auf Verlangen des Deutschen Wetterdienstes im erforderlichen Umfang verpflichtet,
 
@@ -949,9 +945,9 @@ die von ihnen überlassenen Bauten und Räume mit Energie und Wasser zu versorge
 
 (3) Die sich aus der Erfüllung der Pflichten nach Absatz 2 ergebenden Selbstkosten werden den Flugplatzunternehmern vom Deutschen Wetterdienst erstattet.
 
-(4) Wird für einen Flugplatz ein Bedarf nach Absatz 1 vom Bundesministerium für Verkehr und digitale Infrastruktur nicht anerkannt, können auf diesem Flugplatz auf Antrag und zu Lasten des Flugplatzunternehmers, oder wenn auf andere Weise die volle Deckung der Kosten ohne Inanspruchnahme des Bundes sichergestellt ist, Flugwetterbetriebsdienste und die erforderlichen technischen Einrichtungen im erforderlichen Umfang vorgehalten werden. Dies gilt jedoch nur, wenn die örtlichen Voraussetzungen erfüllt und andere Belange des Flugwetterbetriebsdienstes nicht beeinträchtigt werden. Über den Antrag entscheidet das Bundesministerium für Verkehr und digitale Infrastruktur. Absatz 2 ist anzuwenden.
+(4) Wird für einen Flugplatz ein Bedarf nach Absatz 1 vom Bundesministerium für Verkehr, Bau und Stadtentwicklung nicht anerkannt, können auf diesem Flugplatz auf Antrag und zu Lasten des Flugplatzunternehmers, oder wenn auf andere Weise die volle Deckung der Kosten ohne Inanspruchnahme des Bundes sichergestellt ist, Flugwetterbetriebsdienste und die erforderlichen technischen Einrichtungen im erforderlichen Umfang vorgehalten werden. Dies gilt jedoch nur, wenn die örtlichen Voraussetzungen erfüllt und andere Belange des Flugwetterbetriebsdienstes nicht beeinträchtigt werden. Über den Antrag entscheidet das Bundesministerium für Verkehr, Bau und Stadtentwicklung. Absatz 2 ist anzuwenden.
 
-(5) Wenn das Bundesministerium für Verkehr und digitale Infrastruktur einen Bedarf im Sinne des Absatzes 1 anerkennt, ist der Deutsche Wetterdienst verpflichtet, Flugwetterbetriebsdienste und die erforderlichen technischen Einrichtungen im erforderlichen Umfang auf dem entsprechenden Flugplatz vorzuhalten. Das Gleiche gilt im Falle des Absatzes 4, soweit nicht das Bundesministerium für Verkehr und digitale Infrastruktur geeignete natürliche Personen mit der Wahrnehmung bestimmter Aufgaben nach § 27e Abs. 2 Nr. 1 und 2 beauftragt; diese Beauftragten unterstehen der Fachaufsicht des Deutschen Wetterdienstes.
+(5) Wenn das Bundesministerium für Verkehr, Bau und Stadtentwicklung einen Bedarf im Sinne des Absatzes 1 anerkennt, ist der Deutsche Wetterdienst verpflichtet, Flugwetterbetriebsdienste und die erforderlichen technischen Einrichtungen im erforderlichen Umfang auf dem entsprechenden Flugplatz vorzuhalten. Das Gleiche gilt im Falle des Absatzes 4, soweit nicht das Bundesministerium für Verkehr, Bau und Stadtentwicklung geeignete natürliche Personen mit der Wahrnehmung bestimmter Aufgaben nach § 27e Abs. 2 Nr. 1 und 2 beauftragt; diese Beauftragten unterstehen der Fachaufsicht des Deutschen Wetterdienstes.
 
 6. Unterabschnitt Vorzeitige Besitzeinweisung und Enteignung
 ------------------------------------------------------------
@@ -997,17 +993,63 @@ Soweit der Vorhabenträger auf Grund eines Planfeststellungsbeschlusses oder ein
 
 (2) Die Luftfahrtbehörden können diese Aufgaben auf andere Stellen übertragen oder sich anderer geeigneter Personen als Hilfsorgane für bestimmte Fälle bei der Wahrnehmung der Luftaufsicht bedienen.
 
-(3) Die für die Luftaufsicht zuständigen Stellen sind zur Abwehr der in Absatz 1 genannten Gefahren, insbesondere zur Gewährleistung der Verkehrssicherheit des Luftfahrzeugs und der Dienstfähigkeit der Luftfahrzeugführer befugt, stichprobenartig Luftfahrzeuge zu betreten und sie und ihren Inhalt ohne unbillige Verzögerung zu untersuchen sowie Luftfahrzeugführer anzuhalten und auf ihre Dienstfähigkeit zu überprüfen. Die zuständigen Stellen können die an Bord mitgeführten Urkunden sowie Lizenzen und Berechtigungen der Besatzungsmitglieder prüfen. Der Flugplatzbetreiber ist verpflichtet, das Betreten des Flugplatzes durch Vertreter der zuständigen Stellen zum Zwecke der Durchführung von Untersuchungen zu dulden. Nach Abschluss der Untersuchung eines Luftfahrzeugs unterrichtet die zuständige Stelle den verantwortlichen Luftfahrzeugführer oder den Halter des Luftfahrzeugs über das Ergebnis der Untersuchung. Behindert die Besatzung eines Luftfahrzeugs die Untersuchung, insbesondere das Betreten des Luftfahrzeugs, kann die zuständige Stelle ein Startverbot verhängen. Ein Startverbot kann auch verhängt werden, wenn Tatsachen die Annahme rechtfertigen, dass die an die Verkehrssicherheit des untersuchten Luftfahrzeugs oder an die Tauglichkeit der Besatzung zu stellenden Anforderungen nicht erfüllt sind. Widerspruch und Anfechtungsklage gegen ein Startverbot haben keine aufschiebende Wirkung.
+(3) Die für die Luftaufsicht zuständigen Stellen sind zur Abwehr der in Absatz 1 genannten Gefahren, insbesondere zur Gewährleistung der Verkehrssicherheit des Luftfahrzeugs befugt, auch stichprobenartig Luftfahrzeuge zu betreten und sie und ihren Inhalt ohne unbillige Verzögerung zu untersuchen. Die zuständigen Stellen können die an Bord mitgeführten Urkunden sowie Lizenzen und Berechtigungen der Besatzungsmitglieder prüfen. Der Flugplatzbetreiber ist verpflichtet, das Betreten des Flugplatzes durch Vertreter der zuständigen Stellen zum Zwecke der Durchführung von Untersuchungen zu dulden. Nach Abschluss der Untersuchung eines Luftfahrzeugs unterrichtet die zuständige Stelle den verantwortlichen Luftfahrzeugführer oder den Halter des Luftfahrzeugs über das Ergebnis der Untersuchung. Behindert die Besatzung eines Luftfahrzeugs die Untersuchung, insbesondere das Betreten des Luftfahrzeugs, kann die zuständige Stelle ein Startverbot verhängen. Ein Startverbot kann auch verhängt werden, wenn Tatsachen die Annahme rechtfertigen, dass die an die Verkehrssicherheit des untersuchten Luftfahrzeugs oder an die Tauglichkeit der Besatzung zu stellenden Anforderungen nicht erfüllt sind. Widerspruch und Anfechtungsklage gegen ein Startverbot haben keine aufschiebende Wirkung.
 
-(4) Die Durchführung der Vorfeldinspektion an Luftfahrzeugen eines Betreibers aus einem Drittstaat oder eines Betreibers, der der behördlichen Aufsicht eines anderen Mitgliedstaates unterliegt, die Durchführung von Inspektionen im Flug, die Wahrnehmung von Aufgaben und Verantwortlichkeiten der für die Luftaufsicht nach Absatz 1 zuständigen Stellen und die Übermittlung der bei Vorfeldinspektionen gewonnenen Daten richten sich nach der Verordnung (EU) Nr. 965/2012 in der jeweils geltenden Fassung.
+(4) Bei der Auswahl der nach Absatz 3 zu überprüfenden Luftfahrzeuge berücksichtigen die für die Luftaufsicht zuständigen Stellen die ihnen bekannten Informationen, insbesondere die Erkenntnisse aus dem Informationsaustausch mit den anderen Mitgliedstaaten der Europäischen Union nach Artikel 5 Abs. 1 der Richtlinie 2004/36/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über die Sicherheit von Luftfahrzeugen aus Drittstaaten, die Flughäfen in der Union anfliegen (ABl. EU Nr. L 143 S. 76), die zuletzt durch die Richtlinie 2008/49/EG der Kommission vom 16. April 2008 (ABl. EU Nr. L 109 S. 17) geändert worden ist und die in Artikel 4 Abs. 1 Satz 2 dieser Richtlinie aufgeführten tatsächlichen Hinweise. Die Untersuchung wird nach dem in Anhang II dieser Richtlinie festgelegten Verfahren durchgeführt.
 
-(5) (weggefallen)
+(5) Die für die Luftaufsicht nach Absatz 1 zuständigen Stellen übermitteln unverzüglich nach Abschluss der Untersuchung eines Luftfahrzeugs nach Absatz 3 folgende Informationen zur Verkehrssicherheit von Luftfahrzeugen unter Verwendung der in den Anhängen I und II der Richtlinie 2004/36/EG genannten Vordrucke an die Kommission der Europäischen Gemeinschaften und auf Anforderung an die für Luftverkehrssicherheit zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union und die Europäische Agentur für Flugsicherheit:
 
-(6) Eine Übermittlung von bei Vorfeldinspektionen gewonnenen Daten an Luftfahrtbehörden in Staaten außerhalb der Europäischen Union darf nur unter der Voraussetzung erfolgen, dass sich diese Staaten verpflichtet haben, die Daten ausschließlich zur Verbesserung der Luftverkehrssicherheit zu verwenden.
+1.  
+Art, Muster und Baureihe des Luftfahrzeugs,
 
-(7) Rechtfertigen Tatsachen die Annahme, dass die Luftverkehrssicherheit durch den Betrieb eines Luftfahrzeugs gefährdet wird, da internationale Sicherheitsstandards im Sinne von Artikel 2 Buchstabe b der Richtlinie 2004/36/EG nicht wirksam angewendet oder eingehalten werden, und dass die Sicherheit des Flugbetriebs des das Luftfahrzeug verwendenden Luftfahrtunternehmens insgesamt nicht gewährleistet ist, kann das Luftfahrt-Bundesamt die Erlaubnis nach § 2 Absatz 7 oder die Betriebsgenehmigung nach § 21a für alle Luftfahrzeuge dieses Luftfahrtunternehmens widerrufen. Ist eine Erlaubnis nach § 2 Absatz 7 Satz 2 nicht erforderlich, kann ein allgemeines Einflugverbot verhängt werden. Bei der Entscheidung über den Widerruf oder die Verhängung eines Einflugverbots berücksichtigt das Luftfahrt-Bundesamt die im Anhang der Verordnung (EG) Nr. 2111/2005 des Europäischen Parlaments und des Rates vom 14. Dezember 2005 über die Erstellung einer gemeinschaftlichen Liste der Luftfahrtunternehmen, gegen die in der Gemeinschaft eine Betriebsuntersagung ergangen ist, sowie über die Unterrichtung von Fluggästen über die Identität des ausführenden Luftfahrtunternehmens und zur Aufhebung des Artikels 9 der Richtlinie 2004/36/EG (ABl. EU Nr. L 344 S. 15) aufgeführten gemeinsamen Kriterien. Die Anfechtungsklage gegen den Widerruf einer Erlaubnis nach § 2 Absatz 7 oder einer Betriebsgenehmigung nach § 21a oder gegen die Verhängung eines Einflugverbots hat keine aufschiebende Wirkung.
+2.  
+Staatszugehörigkeits- und Eintragungszeichen des Luftfahrzeugs,
 
-(8) Die Absätze 4 bis 6 finden keine Anwendung auf Staatsluftfahrzeuge im Sinne des Artikels 3 Buchstabe b des Abkommens vom 7. Dezember 1944 über die Internationale Zivilluftfahrt (BGBl. 1956 II S. 411). Für die Aufzeichnung des Flugfunkverkehrs gilt § 27c Absatz 3 entsprechend.
+3.  
+Seriennummer des Luftfahrzeugs,
+
+4.  
+Halter oder Betreiber des Luftfahrzeugs,
+
+5.  
+Nummer des Luftverkehrbetreiberzeugnisses oder eines gleichwertigen Dokuments,
+
+6.  
+Name und Staat des Leasinggebers,
+
+7.  
+Abflug- oder Zielflughafen, Flugnummer,
+
+8.  
+Staat der Ausstellung und Art der Erlaubnisscheine sowie Berechtigungen der Flugbesatzung,
+
+9.  
+Art und Kategorisierung von Beanstandungen, insbesondere Abweichungen von internationalen Sicherheitsstandards nach Artikel 2 Buchstabe b der Richtlinie 2004/36/EG.
+
+Neben den Daten nach Satz 1 können die folgenden die Verkehrssicherheit von Luftfahrzeugen betreffenden Angaben erhoben und an die in Satz 1 genannten Stellen übermittelt werden:
+
+1.  
+Informationen, die aus Berichten von Flugbesatzungen, von Fluggästen, von Instandhaltungsbetrieben, von den zuständigen Luftfahrtbehörden der anderen Mitgliedstaaten der Europäischen Union oder von sonstigen von diesen unabhängigen Stellen hervorgehen. Die Namen der berichtenden natürlichen Personen dürfen nicht weitergegeben werden; ihre Identität ist vor Weitergabe zu anonymisieren,
+
+2.  
+Angaben über die im Anschluss an eine Untersuchung nach § 29 Abs. 3 getroffenen Maßnahmen und deren Überwachung einschließlich der vom Halter des Luftfahrzeugs getroffenen Abhilfemaßnahmen,
+
+3.  
+Angaben über freiwillig durchgeführte Überprüfungen der Luftfahrtunternehmen im Bereich der Luftverkehrssicherheit,
+
+4.  
+Angaben über Kontakte mit den für Luftverkehrssicherheit zuständigen Luftfahrtbehörden anderer Staaten,
+
+5.  
+Informationen über die staatliche Aufsicht über die Luftverkehrssicherheit in einzelnen Staaten.
+
+Die in den Sätzen 1 und 2 genannten Daten können außerdem den mit Aufgaben der Flugsicherung beauftragten Stellen und an die Europäische Organisation für Flugsicherung (EUROCONTROL) übermittelt werden, soweit dies zur Erfüllung der in der Zuständigkeit der empfangenden Stelle liegenden Aufgaben erforderlich ist.
+
+(6) Die Datenübermittlung nach Absatz 5 und die Verwendung der im Rahmen des Informationsaustausches mit den anderen Mitgliedstaaten der Europäischen Union erhaltenen Erkenntnisse dürfen nur zum Zwecke der Verbesserung der Luftverkehrssicherheit im Sinne des Artikels 1 Abs. 1 der Richtlinie 2004/36/EG erfolgen. § 70 bleibt unberührt. Eine Übermittlung an Luftfahrtbehörden in Staaten außerhalb der Europäischen Union kann nur unter der Voraussetzung erfolgen, dass sich diese Staaten verpflichtet haben, die Daten ausschließlich zur Verbesserung der Luftverkehrssicherheit zu verwenden.
+
+(7) Rechtfertigen Tatsachen die Annahme, dass die Luftverkehrssicherheit durch den Betrieb eines Luftfahrzeugs gefährdet wird, da internationale Sicherheitsstandards im Sinne von Artikel 2 Buchstabe b der Richtlinie 2004/36/EG nicht wirksam angewendet oder eingehalten werden, und dass die Sicherheit des Flugbetriebs des das Luftfahrzeug verwendenden Luftfahrtunternehmens insgesamt nicht gewährleistet ist, kann das Luftfahrt-Bundesamt die Erlaubnis nach § 2 Abs. 7 oder die Betriebsgenehmigung nach § 21a für alle Luftfahrzeuge dieses Luftfahrtunternehmens widerrufen. Ist eine Erlaubnis nach § 2 Abs. 7 Satz 2 nicht erforderlich, kann ein allgemeines Einflugverbot verhängt werden. Bei der Entscheidung über den Widerruf oder die Verhängung eines Einflugverbots berücksichtigt das Luftfahrt-Bundesamt die im Anhang der Verordnung (EG) Nr. 2111/2005 des Europäischen Parlaments und des Rates vom 14. Dezember 2005 über die Erstellung einer gemeinschaftlichen Liste der Luftfahrtunternehmen, gegen die in der Gemeinschaft eine Betriebsuntersagung ergangen ist, sowie über die Unterrichtung von Fluggästen über die Identität des ausführenden Luftfahrtunternehmens und zur Aufhebung des Artikels 9 der Richtlinie 2004/36/EG (ABl. EU Nr. L 344 S. 15) aufgeführten gemeinsamen Kriterien. Die Anfechtungsklage gegen den Widerruf einer Erlaubnis nach § 2 Abs. 7 oder einer Betriebsgenehmigung nach § 21a oder gegen die Verhängung eines Einflugverbots hat keine aufschiebende Wirkung.
+
+(8) Die Absätze 4 bis 6 finden keine Anwendung auf Staatsluftfahrzeuge im Sinne des Artikels 3 Buchstabe b des Abkommens vom 7. Dezember 1944 über die Internationale Zivilluftfahrt (BGBl. 1956 II S. 411) und Luftfahrzeuge mit einer Höchstabflugmasse unter 5 700 Kilogramm, die nicht zu gewerblichen Zwecken betrieben werden. Für die Aufzeichnung des Flugfunkverkehrs gilt § 27c Abs. 3 entsprechend.
 
 ### § 29a
 
@@ -1033,51 +1075,23 @@ Die Grundrechte des Brief-, Post- und Fernmeldegeheimnisses (Artikel 10 des Grun
 
 ### § 30
 
-(1) Die Bundeswehr und die Truppen der NATO-Vertragsstaaten sowie Truppen, die auf Grund einer gesonderten Vereinbarung in Deutschland üben, dürfen von den Vorschriften des Ersten Abschnitts dieses Gesetzes, ausgenommen die §§ 12, 13 und 15 bis 19, und von den zu seiner Durchführung erlassenen Vorschriften unter Berücksichtigung der öffentlichen Sicherheit oder Ordnung abweichen, soweit dies zur Erfüllung ihrer besonderen Aufgaben erforderlich ist. Das in § 8 vorgesehene Planfeststellungsverfahren entfällt, wenn militärische Flugplätze angelegt oder geändert werden sollen. Von den Vorschriften über das Verhalten im Luftraum darf nur abgewichen werden, soweit dies zur Erfüllung hoheitlicher Aufgaben zwingend notwendig ist.
+(1) Die Bundeswehr, die Bundespolizei, die Polizei sowie die auf Grund völkerrechtlicher Verträge in der Bundesrepublik Deutschland stationierten Truppen dürfen von den Vorschriften des Ersten Abschnitts dieses Gesetzes - ausgenommen die §§ 12, 13 und 15 bis 19 - und den zu seiner Durchführung erlassenen Vorschriften abweichen; soweit dies zur Erfüllung ihrer besonderen Aufgaben unter Berücksichtigung der öffentlichen Sicherheit oder Ordnung erforderlich ist. Das in § 8 vorgesehene Planfeststellungsverfahren entfällt, wenn militärische Flugplätze angelegt oder geändert werden sollen. Von den Vorschriften über das Verhalten im Luftraum darf nur abgewichen werden, soweit dies zur Erfüllung hoheitlicher Aufgaben zwingend notwendig ist. Hinsichtlich der Ausnahmebefugnisse der Polizei bleiben auch die §§ 6 bis 10 unberührt.
 
-(1a) Die Polizeien des Bundes und der Länder dürfen von den Vorschriften des Ersten Abschnitts dieses Gesetzes – ausgenommen die §§ 5 bis 10, 12, 13 sowie 15 bis 19 – und den zu seiner Durchführung erlassenen Vorschriften abweichen, soweit dies zur Erfüllung ihrer Aufgaben unter Berücksichtigung der öffentlichen Sicherheit oder Ordnung erforderlich ist. Von den Vorschriften über das Verhalten im Luftraum darf nur abgewichen werden, soweit dies zur Erfüllung hoheitlicher Aufgaben zwingend notwendig ist.
+(2) Die Verwaltungszuständigkeiten auf Grund dieses Gesetzes werden für den Dienstbereich der Bundeswehr und, soweit völkerrechtliche Verträge nicht entgegenstehen, der stationierten Truppen durch Dienststellen der Bundeswehr nach Bestimmungen des Bundesministeriums der Verteidigung wahrgenommen. Dies gilt nicht für die Aufgaben der Flugsicherung nach § 27c mit Ausnahme der örtlichen Flugsicherung an den militärischen Flugplätzen; die notwendigen Vorbereitungen zur Wahrnehmung der Aufgaben nach Artikel 87a des Grundgesetzes bleiben unberührt. Das Bundesministerium der Verteidigung erteilt die Erlaubnisse nach § 2 Abs. 7 und § 27 auch für andere militärische Luftfahrzeuge. In den §§ 12, 13 und 15 bis 19 treten bei militärischen Flugplätzen an Stelle der Flugsicherungsorganisation und der genannten Luftfahrtbehörden die Behörden der Bundeswehrverwaltung.
 
-(2) Die Verwaltungszuständigkeiten auf Grund dieses Gesetzes werden für den Dienstbereich der Bundeswehr und, soweit völkerrechtliche Verträge nicht entgegenstehen, der Truppen der NATO-Vertragsstaaten und der in Deutschland übenden Truppen durch Dienststellen der Bundeswehr nach Bestimmungen des Bundesministeriums der Verteidigung wahrgenommen. Dies gilt nicht für die Aufgaben der Flugsicherung nach § 27c mit Ausnahme der örtlichen Flugsicherung an den militärischen Flugplätzen; die notwendigen Vorbereitungen zur Wahrnehmung der Aufgaben nach Artikel 87a des Grundgesetzes bleiben unberührt. Das Bundesministerium der Verteidigung erteilt die Erlaubnisse nach § 2 Abs. 7 und § 27 auch für andere militärische Luftfahrzeuge. In den Fällen der §§ 12, 13 und 15 bis 19 treten bei militärischen Flugplätzen die Dienststellen der Bundeswehr an die Stelle der Flugsicherungsorganisationen und der genannten Luftfahrtbehörden. Die Dienststellen der Bundeswehr treffen ihre Entscheidungen in eigener Zuständigkeit und Verantwortung für die öffentliche Sicherheit und Ordnung. Zusätzlicher Genehmigungen und Erlaubnisse der zivilen Luftfahrtbehörden bedarf es nicht.
-
-(3) Bei der Anlegung und wesentlichen Änderung militärischer Flugplätze auf Gelände, das nicht durch Maßnahmen auf Grund des Landbeschaffungsgesetzes beschafft zu werden braucht, sind die Erfordernisse der Raumordnung, insbesondere des zivilen Luftverkehrs, nach Anhörung der Regierungen der Länder, die von der Anlegung oder Änderung betroffen werden, angemessen zu berücksichtigen. §§ 4 und 5 des Raumordnungsgesetzes bleiben unberührt. Das Bundesministerium der Verteidigung kann von der Stellungnahme dieser Länder hinsichtlich der Erfordernisse des zivilen Luftverkehrs nur im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur abweichen; es unterrichtet die Regierungen der betroffenen Länder von seiner Entscheidung. Wird Gelände für die Anlegung und wesentliche Änderung militärischer Flugplätze nach den Vorschriften des Landbeschaffungsgesetzes beschafft, findet allein das Anhörungsverfahren nach § 1 Abs. 2 des Landbeschaffungsgesetzes statt; hierbei sind insbesondere die Erfordernisse des zivilen Luftverkehrs angemessen zu berücksichtigen.
-
-### § 30a Ermächtigung zur Beauftragung Privater
-
-(1) Das Bundesministerium der Verteidigung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten für die Beauftragung juristischer Personen des privaten Rechts mit der Wahrnehmung folgender Aufgaben im Zusammenhang mit der Benutzung des Luftraums durch militärische Luftfahrzeuge zu regeln:
-
-1.  
-Prüfung der Lufttüchtigkeit der Muster von Luftfahrzeugen und von Luftfahrtgerät im Rahmen der Entwicklung,
-
-2.  
-Aufrechterhaltung der Lufttüchtigkeit der Muster von Luftfahrzeugen und von Luftfahrtgerät,
-
-3.  
-Prüfung und Bescheinigung der Lufttüchtigkeit von Luftfahrzeugen und Luftfahrtgerät im Rahmen der Herstellung,
-
-4.  
-Prüfung und Bescheinigung der Lufttüchtigkeit von Luftahrzeugen und Luftfahrtgerät im Rahmen der Instandhaltung und des Betriebs,
-
-5.  
-Prüfung von Ausbildungseinrichtungen, Luftfahrtunternehmen und Organisationen, die Aufgaben nach den Nummern 1 bis 4 wahrnehmen,
-
-6.  
-Ausbildung von erlaubnispflichtigem Personal und Bescheinigung der Ausbildung.
-
-Ein Rechtsanspruch auf Beauftragung besteht nicht.
-
-(2) Die Beauftragten arbeiten nach den Richtlinien des Bundesministeriums der Verteidigung und unterstehen seiner Rechts- und Fachaufsicht. Das Bundesministerium kann die Rechts- und Fachaufsicht auf Dienststellen der Bundeswehr übertragen.
+(3) Bei der Anlegung und wesentlichen Änderung militärischer Flugplätze auf Gelände, das nicht durch Maßnahmen auf Grund des Landbeschaffungsgesetzes beschafft zu werden braucht, sind die Erfordernisse der Raumordnung, insbesondere des zivilen Luftverkehrs, nach Anhörung der Regierungen der Länder, die von der Anlegung oder Änderung betroffen werden, angemessen zu berücksichtigen. §§ 4 und 5 des Raumordnungsgesetzes bleiben unberührt. Das Bundesministerium der Verteidigung kann von der Stellungnahme dieser Länder hinsichtlich der Erfordernisse des zivilen Luftverkehrs nur im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung abweichen; es unterrichtet die Regierungen der betroffenen Länder von seiner Entscheidung. Wird Gelände für die Anlegung und wesentliche Änderung militärischer Flugplätze nach den Vorschriften des Landbeschaffungsgesetzes beschafft, findet allein das Anhörungsverfahren nach § 1 Abs. 2 des Landbeschaffungsgesetzes statt; hierbei sind insbesondere die Erfordernisse des zivilen Luftverkehrs angemessen zu berücksichtigen.
 
 ### § 31
 
-(1) Die Aufgaben des Bundes nach diesem Gesetz und den Verordnungen der Europäischen Union werden, soweit es nichts anderes bestimmt, von dem Bundesministerium für Verkehr und digitale Infrastruktur oder einer von ihm bestimmten Stelle wahrgenommen. Erfolgt die Bestimmung durch Rechtsverordnung, so bedarf diese nicht der Zustimmung des Bundesrates. Das Gesetz über das Luftfahrt-Bundesamt bleibt unberührt.
+(1) Die Aufgaben des Bundes nach diesem Gesetz und den Verordnungen der Europäischen Union werden, soweit es nichts anderes bestimmt, von dem Bundesministerium für Verkehr, Bau und Stadtentwicklung oder einer von ihm bestimmten Stelle wahrgenommen. Erfolgt die Bestimmung durch Rechtsverordnung, so bedarf diese nicht der Zustimmung des Bundesrates. Das Gesetz über das Luftfahrt-Bundesamt bleibt unberührt.
 
 (2) Die Länder führen nachstehende Aufgaben dieses Gesetzes im Auftrage des Bundes aus:
 
 1.  
-die Erteilung der Erlaubnis für Piloten von Leichtluftfahrzeugen, Privatpiloten, Segelflugzeugführer, Freiballonführer, Steuerer von verkehrszulassungspflichtigen Flugmodellen und sonstigem verkehrszulassungspflichtigen Luftfahrtgerät ohne Luftsportgerät (§ 4) sowie der Berechtigungen nach der Verordnung (EU) Nr. 1178/2011 und nach der Verordnung über Luftfahrtpersonal an diese Personen; ausgenommen hiervon bleiben die Erlaubnisse, die zugleich mit der Instrumentenflugberechtigung erteilt oder die nachträglich um die Instrumentenflugberechtigung erweitert werden;
+die Erteilung der Erlaubnis für Privatflugzeugführer, nichtberufsmäßige Führer von Drehflüglern, Motorseglerführer, Segelflugzeugführer, Freiballonführer, Steuerer von verkehrszulassungspflichtigen Flugmodellen und sonstigem verkehrszulassungspflichtigen Luftfahrtgerät ohne Luftsportgerät (§ 4) sowie der Berechtigungen nach der Verordnung über Luftfahrtpersonal an diese Personen; ausgenommen hiervon bleiben die Erlaubnisse, die zugleich mit der Instrumentenflugberechtigung erteilt oder die nachträglich um die Instrumentenflugberechtigung erweitert werden;
 
 2.  
-(weggefallen)
+die Anerkennung fliegerärztlicher Untersuchungsstellen und die Bestellung ärztlicher Sachverständiger für die fliegerärztlichen Untersuchungen der in Nummer 1 genannten Luftfahrer (§ 4);
 
 3.  
 die Erteilung der Erlaubnis für die Ausbildung des in Nummer 1 genannten Luftfahrtpersonals (§ 5);
@@ -1087,9 +1101,6 @@ die Genehmigung von Flugplätzen, mit Ausnahme der Prüfung und Entscheidung, in
 
 4a.  
 die im Zusammenhang mit der Regelung der Bodenabfertigungsdienste auf Flugplätzen nach § 19c Abs. 1 und 2 erforderlichen Maßnahmen und Verwaltungsentscheidungen;
-
-4b.  
-die Erteilung des Zeugnisses und die Entscheidung über die Freistellung nach § 10a;
 
 5.  
 die Erteilung der Erlaubnis für Vorbereitungsarbeiten zur Anlegung von Flugplätzen (§ 7);
@@ -1110,10 +1121,10 @@ die Zustimmung zur Baugenehmigung oder einer sonstigen nach allgemeinen Vorschri
 das Verlangen, die Abtragung von Bauwerken und anderen Luftfahrthindernissen, welche die zulässigen Höhen überragen, sowie die Kennzeichnung von Luftfahrthindernissen und die Beseitigung von Vertiefungen oder die erforderlichen Sicherheitsmaßnahmen zu dulden (§§ 16, 16a und 17);
 
 11.  
-die Genehmigungen nach § 20 Abs. 1 sowie die Genehmigungen nach § 20 Abs. 4 und § 21 Abs. 4 für Luftfahrtunternehmen, deren Luftfahrzeuge ausschließlich nach Sichtflugregeln betrieben werden. Auf Antrag eines Landes kann der Bund diese Aufgaben in bundeseigener Verwaltung ausführen. In diesem Falle werden die Aufgaben vom Bundesministerium für Verkehr und digitale Infrastruktur oder einer anderen von ihm bestimmten Stelle wahrgenommen;
+die Genehmigungen nach § 20 Abs. 1 sowie die Genehmigungen nach § 20 Abs. 4 und § 21 Abs. 4 für Luftfahrtunternehmen, deren Luftfahrzeuge ausschließlich nach Sichtflugregeln betrieben werden. Auf Antrag eines Landes kann der Bund diese Aufgaben in bundeseigener Verwaltung ausführen. In diesem Falle werden die Aufgaben vom Bundesministerium für Verkehr, Bau und Stadtentwicklung oder einer anderen von ihm bestimmten Stelle wahrgenommen;
 
 12.  
-die Genehmigung von Luftfahrtveranstaltungen, die nicht über das Land, in dem die Veranstaltung stattfindet, hinausgehen oder für die das Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit den beteiligten Ländern einen Auftrag erteilt hat (§ 24);
+die Genehmigung von Luftfahrtveranstaltungen, die nicht über das Land, in dem die Veranstaltung stattfindet, hinausgehen oder für die das Bundesministerium für Verkehr, Bau und Stadtentwicklung im Einvernehmen mit den beteiligten Ländern einen Auftrag erteilt hat (§ 24);
 
 13.  
 die Erteilung der Erlaubnis zum Starten und Landen außerhalb der genehmigten Flugplätze (§ 25), ausgenommen die Erteilung der Erlaubnis zum Starten und Landen für nicht motorgetriebene Luftsportgeräte;
@@ -1157,7 +1168,7 @@ mit Ausnahme der Erlaubnisse, die vom Bundesaufsichtsamt für Flugsicherung oder
 die Aufsicht innerhalb der in den Nummern 1 bis 16 festgelegten Verwaltungszuständigkeiten;
 
 18.  
-die Ausübung der Luftaufsicht, soweit diese nicht das Bundesministerium für Verkehr und digitale Infrastruktur auf Grund gesetzlicher Regelung selbst, das Luftfahrt-Bundesamt, das Bundesaufsichtsamt für Flugsicherung, die Flugsicherungsorganisation oder die für die Flughafenkoordinierung und die Luftsportgeräte zuständigen Stellen im Rahmen ihrer Aufgaben ausüben.
+die Ausübung der Luftaufsicht, soweit diese nicht das Bundesministerium für Verkehr, Bau und Stadtentwicklung auf Grund gesetzlicher Regelung selbst, das Luftfahrt-Bundesamt, das Bundesaufsichtsamt für Flugsicherung, die Flugsicherungsorganisation oder die für die Flughafenkoordinierung und die Luftsportgeräte zuständigen Stellen im Rahmen ihrer Aufgaben ausüben.
 
 (3) Die Entscheidungen in den Fällen des Absatzes 2 Nr. 4, 6 bis 10 und 12, ausgenommen die Genehmigungen der Flugplatzentgelte und der Flugplatzbenutzungsordnungen, werden auf Grund einer gutachtlichen Stellungnahme der Flugsicherungsorganisation getroffen.
 
@@ -1165,15 +1176,15 @@ die Ausübung der Luftaufsicht, soweit diese nicht das Bundesministerium für Ve
 
 ### § 31a
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates natürliche oder juristische Personen des privaten Rechts mit der Wahrnehmung der Flughafenkoordinierung nach Maßgabe des Rechts der Europäischen Union zu beauftragen (Flughafenkoordinator).
+Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates natürliche oder juristische Personen des privaten Rechts mit der Wahrnehmung der Flughafenkoordinierung nach Maßgabe des Rechts der Europäischen Union zu beauftragen (Flughafenkoordinator).
 
 ### § 31b
 
-(1) Vorbehaltlich des Luftverkehrsrechts der Europäischen Union und der Regelung von § 31f wird mit der Wahrnehmung der in § 27c Absatz 2 Satz 1 Nummer 1 genannten Aufgaben nur eine Flugsicherungsorganisation in Form einer Gesellschaft mit beschränkter Haftung beauftragt, deren Anteile ausschließlich vom Bund gehalten werden. Das Nähere wird vom Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Verteidigung ohne Zustimmung des Bundesrates geregelt.
+(1) Vorbehaltlich des Luftverkehrsrechts der Europäischen Union und der Regelung von § 31f wird mit der Wahrnehmung der in § 27c Absatz 2 Satz 1 Nummer 1 genannten Aufgaben nur eine Flugsicherungsorganisation in Form einer Gesellschaft mit beschränkter Haftung beauftragt, deren Anteile ausschließlich vom Bund gehalten werden. Das Nähere wird vom Bundesministerium für Verkehr, Bau und Stadtentwicklung durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Verteidigung ohne Zustimmung des Bundesrates geregelt.
 
-(2) Wenn das Bundesministerium für Verkehr und digitale Infrastruktur einen Bedarf im Sinne des § 27d Abs. 1 anerkennt, ist die Flugsicherungsorganisation verpflichtet, Flugsicherungsdienste und flugsicherungstechnische Einrichtungen im erforderlichen Umfang auf dem entsprechenden Flugplatz vorzuhalten. Das Gleiche gilt im Falle des § 27d Abs. 4. Die Verpflichtung entfällt, soweit das Bundesministerium für Verkehr und digitale Infrastruktur eine Flugsicherungsorganisation nach § 31f Absatz 1 mit der Wahrnehmung dieser Aufgaben beauftragt. § 27e Absatz 1 Satz 2 bleibt unberührt.
+(2) Wenn das Bundesministerium für Verkehr, Bau und Stadtentwicklung einen Bedarf im Sinne des § 27d Abs. 1 anerkennt, ist die Flugsicherungsorganisation verpflichtet, Flugsicherungsdienste und flugsicherungstechnische Einrichtungen im erforderlichen Umfang auf dem entsprechenden Flugplatz vorzuhalten. Das Gleiche gilt im Falle des § 27d Abs. 4. Die Verpflichtung entfällt, soweit das Bundesministerium für Verkehr, Bau und Stadtentwicklung eine Flugsicherungsorganisation nach § 31f Absatz 1 mit der Wahrnehmung dieser Aufgaben beauftragt. § 27e Absatz 1 Satz 2 bleibt unberührt.
 
-(3) Für Gebühren und Auslagen nach § 32 Abs. 4 Satz 1 Nr. 7 ist die Flugsicherungsorganisation Kostengläubigerin, soweit nicht etwas anderes bestimmt ist. Bei der Einziehung der Gebühr im Sinne des Artikels 3 des Gesetzes vom 2. Februar 1984 zu dem Protokoll vom 12. Februar 1981 zur Änderung des Internationalen Übereinkommens über Zusammenarbeit zur Sicherung der Luftfahrt "EUROCONTROL" vom 13. Dezember 1960 und zu der Mehrseitigen Vereinbarung vom 12. Februar 1981 über Flugsicherungs-Streckengebühren (BGBl. 1984 II S. 69) tritt die Flugsicherungsorganisation an die Stelle der Bundesrepublik Deutschland, soweit nicht etwas anderes bestimmt ist. Bei der Flugsicherungsorganisation im Sinne von Absatz 1 bleibt der positive oder negative Unterschiedsbetrag zwischen dem nach dem Einkommensteuergesetz ermittelten Gewinn aus den Gebühren für die Flugsicherung und dem Ergebnis nach den gebührenrechtlichen Vorschriften aus Flugsicherungsdiensten bei der Ermittlung der Einkünfte außer Ansatz.
+(3) Für Gebühren und Auslagen nach § 32 Abs. 4 Satz 1 Nr. 7 ist die Flugsicherungsorganisation Kostengläubigerin, soweit nicht etwas anderes bestimmt ist. Bei der Einziehung der Gebühr im Sinne des Artikels 3 des Gesetzes vom 2. Februar 1984 zu dem Protokoll vom 12. Februar 1981 zur Änderung des Internationalen Übereinkommens über Zusammenarbeit zur Sicherung der Luftfahrt "EUROCONTROL" vom 13. Dezember 1960 und zu der Mehrseitigen Vereinbarung vom 12. Februar 1981 über Flugsicherungs-Streckengebühren (BGBl. 1984 II S. 69) tritt die Flugsicherungsorganisation an die Stelle der Bundesrepublik Deutschland, soweit nicht etwas anderes bestimmt ist.
 
 (4) Einnahmeausfälle aus Kostenbefreiungen bei Inanspruchnahme von Streckennavigationsdiensten und Streckennavigationseinrichtungen der Flugsicherung bei der Benutzung des Luftraums der Informationsgebiete der Bundesrepublik Deutschland, soweit sie durch Beschlüsse der Erweiterten Kommission der Organisation EUROCONTROL festgelegt sind, werden der Flugsicherungsorganisation durch den Bund erstattet. Entsprechendes gilt für die Inanspruchnahme von Diensten und Einrichtungen der Flugsicherung beim An- und Abflug auf den in § 27d Abs. 1 genannten Flughäfen durch
 
@@ -1183,11 +1194,11 @@ militärische Luftfahrzeuge der NATO-Mitgliedstaaten;
 b)  
 militärische Luftfahrzeuge anderer als NATO-Mitgliedstaaten, die von Kosten befreit sind.
 
-Die Vorschrift des § 8 Abs. 4 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung ist auch für Amtshandlungen der Flugsicherungsorganisation sowie des Bundesaufsichtsamtes für Flugsicherung im Aufgabenbereich der Flugsicherung anzuwenden.
+Die Vorschrift des § 8 Abs. 4 des Verwaltungskostengesetzes ist auch für Amtshandlungen der Flugsicherungsorganisation sowie des Bundesaufsichtsamtes für Flugsicherung im Aufgabenbereich der Flugsicherung anzuwenden.
 
-(5) Die Flugsicherungsorganisation kann sich mit Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur zur Erfüllung ihrer Aufgaben an anderen Unternehmen beteiligen oder Unternehmen erwerben oder errichten. Ihre Verantwortlichkeit für die ordnungsgemäße Erfüllung der ihr übertragenen Aufgaben bleibt unberührt. Die Zustimmung stellt keine Beleihung dar. Die haushaltsrechtlichen Vorschriften des Bundes bleiben unberührt.
+(5) Die Flugsicherungsorganisation kann sich mit Zustimmung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung zur Erfüllung ihrer Aufgaben an anderen Unternehmen beteiligen oder Unternehmen erwerben oder errichten. Ihre Verantwortlichkeit für die ordnungsgemäße Erfüllung der ihr übertragenen Aufgaben bleibt unberührt. Die Zustimmung stellt keine Beleihung dar. Die haushaltsrechtlichen Vorschriften des Bundes bleiben unberührt.
 
-(6) Zur Wahrnehmung einzelner Aufgaben nach § 27c Absatz 2 Satz 1 Nummer 1 im Bereich der grenzüberschreitenden Flugsicherung kann das Bundesministerium für Verkehr und digitale Infrastruktur der Flugsicherungsorganisation nach Absatz 1 Satz 1 gestatten, eine andere Flugsicherungsorganisation zu Hilfszwecken zu beauftragen, wenn
+(6) Zur Wahrnehmung einzelner Aufgaben nach § 27c Absatz 2 Satz 1 Nummer 1 im Bereich der grenzüberschreitenden Flugsicherung kann das Bundesministerium für Verkehr, Bau und Stadtentwicklung der Flugsicherungsorganisation nach Absatz 1 Satz 1 gestatten, eine andere Flugsicherungsorganisation zu Hilfszwecken zu beauftragen, wenn
 
 1.  
 ein solcher Einsatz im Hinblick auf die ordnungsgemäße und sichere Verkehrsführung unter besonderer Berücksichtigung der technischen und betrieblichen Erfordernisse der Flugsicherung zweckmäßig ist,
@@ -1198,11 +1209,11 @@ die andere Flugsicherungsorganisation über einen gültigen Befähigungsnachweis
 3.  
 durch vertragliche Regelungen zwischen den Flugsicherungsorganisationen sichergestellt ist, dass Weisungen des Bundesaufsichtsamtes für Flugsicherung zur ordnungsgemäßen Durchführung der Aufgaben und zur Durchsetzung der Aufsicht von der anderen Flugsicherungsorganisation umgesetzt werden.
 
-Hat die andere Flugsicherungsorganisation ihren Sitz oder ihre Niederlassung im Ausland, wird die Gestattung nur erteilt, wenn eine völkerrechtliche Übereinkunft des Bundesministeriums für Verkehr und digitale Infrastruktur oder einer von ihm bestimmten Behörde mit der jeweils zuständigen Behörde des ausländischen Staates besteht, in der die Wahrnehmung von Aufsichtsmaßnahmen, die Durchführung von Kontroll- und Durchsetzungsbefugnissen sowie die Sicherstellung der verfassungsmäßigen Aufgabenerfüllung der Luftstreitkräfte der Bundeswehr gegenüber der anderen Flugsicherungsorganisation geregelt sind.
+Hat die andere Flugsicherungsorganisation ihren Sitz oder ihre Niederlassung im Ausland, wird die Gestattung nur erteilt, wenn eine völkerrechtliche Übereinkunft des Bundesministeriums für Verkehr, Bau und Stadtentwicklung oder einer von ihm bestimmten Behörde mit der jeweils zuständigen Behörde des ausländischen Staates besteht, in der die Wahrnehmung von Aufsichtsmaßnahmen, die Durchführung von Kontroll- und Durchsetzungsbefugnissen sowie die Sicherstellung der verfassungsmäßigen Aufgabenerfüllung der Luftstreitkräfte der Bundeswehr gegenüber der anderen Flugsicherungsorganisation geregelt sind.
 
 ### § 31c
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates juristische Personen des privaten Rechts mit der Wahrnehmung folgender Aufgaben im Zusammenhang mit der Benutzung des Luftraums durch Freiballone, Luftsportgeräte und Flugmodelle zu beauftragen:
+Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates juristische Personen des privaten Rechts mit der Wahrnehmung folgender Aufgaben im Zusammenhang mit der Benutzung des Luftraums durch Freiballone, Luftsportgeräte und Flugmodelle zu beauftragen:
 
 1.  
 Muster- und Verkehrszulassung (§ 2),
@@ -1226,23 +1237,23 @@ Satz 1 findet Anwendung auf Segelflugzeuge, sofern das betreffende Land für sei
 
 ### § 31d
 
-(1) Die Beauftragung nach den §§ 30a und 31a bis 31c ist nur zulässig, wenn der zu Beauftragende einwilligt und hinreichende Gewähr für die ordnungsgemäße Erfüllung der Aufgabe bietet. Sind diese Voraussetzungen nicht mehr erfüllt, wird die Beauftragung ohne Entschädigung zurückgezogen oder widerrufen.
+(1) Die Beauftragung nach den §§ 31a bis 31c ist nur zulässig, wenn der zu Beauftragende einwilligt und hinreichende Gewähr für die ordnungsgemäße Erfüllung der Aufgabe bietet. Sind diese Voraussetzungen nicht mehr erfüllt, wird die Beauftragung ohne Entschädigung zurückgezogen.
 
-(2) Die Beauftragten nach den §§ 31a und 31c arbeiten nach den Richtlinien des Bundesministeriums für Verkehr und digitale Infrastruktur und unterstehen seiner Rechts- und Fachaufsicht. Die Beauftragte nach § 31b Absatz 1 untersteht der Rechtsaufsicht und Fachaufsicht des Bundesaufsichtsamtes für Flugsicherung. Das Bundesministerium für Verkehr und digitale Infrastruktur kann im Falle des § 31c die Rechts- und Fachaufsicht auf das Luftfahrt-Bundesamt übertragen. Das Bundesaufsichtsamt für Flugsicherung kann im Rahmen seiner Aufgabenerfüllung von der Flugsicherungsorganisation jederzeit Berichte und die Vorlage von Aufzeichnungen verlangen. Soweit die Flugsicherungsorganisation als Beliehene tätig wird, hat sie den Bediensteten des Bundesaufsichtsamtes für Flugsicherung und den von ihnen beauftragten Personen jederzeit das Betreten der Grundstücke und Geschäftsräume zu gestatten, soweit dies zur Wahrnehmung ihrer Aufgaben erforderlich ist. Im Übrigen besteht diese Verpflichtung während der üblichen Betriebs- und Geschäftszeiten; außerhalb dieser Zeiten oder wenn die Geschäftsräume sich in einer Wohnung befinden, hat die Flugsicherungsorganisation das Betreten zu dulden, soweit dies zur Verhütung von dringenden Gefahren für die öffentliche Sicherheit und Ordnung erforderlich ist oder soweit Anhaltspunkte für einen Verstoß gegen gesetzliche Bestimmungen vorliegen; das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
+(2) Die Beauftragten nach den §§ 31a und 31c arbeiten nach den Richtlinien des Bundesministeriums für Verkehr, Bau und Stadtentwicklung und unterstehen seiner Rechts- und Fachaufsicht. Die Beauftragte nach § 31b Absatz 1 untersteht der Rechtsaufsicht und Fachaufsicht des Bundesaufsichtsamtes für Flugsicherung. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann im Falle des § 31c die Rechts- und Fachaufsicht auf das Luftfahrt-Bundesamt übertragen. Das Bundesaufsichtsamt für Flugsicherung kann im Rahmen seiner Aufgabenerfüllung von der Flugsicherungsorganisation jederzeit Berichte und die Vorlage von Aufzeichnungen verlangen. Soweit die Flugsicherungsorganisation als Beliehene tätig wird, hat sie den Bediensteten des Bundesaufsichtsamtes für Flugsicherung und den von ihnen beauftragten Personen jederzeit das Betreten der Grundstücke und Geschäftsräume zu gestatten, soweit dies zur Wahrnehmung ihrer Aufgaben erforderlich ist. Im Übrigen besteht diese Verpflichtung während der üblichen Betriebs- und Geschäftszeiten; außerhalb dieser Zeiten oder wenn die Geschäftsräume sich in einer Wohnung befinden, hat die Flugsicherungsorganisation das Betreten zu dulden, soweit dies zur Verhütung von dringenden Gefahren für die öffentliche Sicherheit und Ordnung erforderlich ist oder soweit Anhaltspunkte für einen Verstoß gegen gesetzliche Bestimmungen vorliegen; das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
 
-(3) Die Beauftragten dieses Unterabschnitts wenden das Verwaltungsverfahrensgesetz, das Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung, das Verwaltungszustellungsgesetz und das Verwaltungsvollstreckungsgesetz an, soweit nicht in diesem Gesetz etwas anderes bestimmt ist. Für Amtshandlungen in Erfüllung der ihnen übertragenen Aufgaben werden von den Beauftragten dieses Unterabschnitts Kosten (Gebühren und Auslagen) erhoben. Zu den nach § 10 Abs. 1 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung zu erhebenden Auslagen ist die auf die Kosten nach Satz 2 entfallende, gesetzlich geschuldete Umsatzsteuer hinzuzurechnen. Auskünfte an den Betroffenen über die zu seiner Person gespeicherten Daten sind unentgeltlich.
+(3) Die Beauftragten dieses Unterabschnitts wenden das Verwaltungsverfahrensgesetz, das Verwaltungskostengesetz, das Verwaltungszustellungsgesetz und das Verwaltungsvollstreckungsgesetz an, soweit nicht in diesem Gesetz etwas anderes bestimmt ist. Für Amtshandlungen in Erfüllung der ihnen übertragenen Aufgaben werden von den Beauftragten dieses Unterabschnitts Kosten (Gebühren und Auslagen) erhoben. Zu den nach § 10 Abs. 1 des Verwaltungskostengesetzes zu erhebenden Auslagen ist die auf die Kosten nach Satz 2 entfallende, gesetzlich geschuldete Umsatzsteuer hinzuzurechnen. Auskünfte an den Betroffenen über die zu seiner Person gespeicherten Daten sind unentgeltlich.
 
-(4) Gegen die Entscheidungen des Beauftragten im Rahmen seines Auftrags ist der Widerspruch statthaft. Hilft der Beauftragte nicht ab, so entscheidet die jeweils zuständige Aufsichtsbehörde. Im Falle des § 30a ist die Klage gegen die Bundesrepublik Deutschland, vertreten durch den Bundesminister der Verteidigung, zu richten. Das Bundesministerium der Verteidigung kann die Vertretungsbefugnis übertragen. Im Falle des § 31b Abs. 3 erfolgt die Entscheidung über den Widerspruch durch das Bundesaufsichtsamt für Flugsicherung. Im Falle des § 31a ist die Klage gegen die Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Verkehr und digitale Infrastruktur, zu richten. In den Fällen der §§ 31b, 31c und 31f ist die Klage gegen die Bundesrepublik Deutschland, vertreten durch den Beauftragten, zu richten.
+(4) Gegen die Entscheidungen des Beauftragten im Rahmen seines Auftrags ist der Widerspruch statthaft. Hilft der Beauftragte nicht ab, so entscheidet die jeweils zuständige Aufsichtsbehörde. Im Falle des § 31b Abs. 3 erfolgt die Entscheidung über den Widerspruch durch das Bundesaufsichtsamt für Flugsicherung. Im Falle des § 31a ist die Klage gegen die Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Verkehr, Bau und Stadtentwicklung, zu richten. In den Fällen der §§ 31b, 31c und 31f ist die Klage gegen die Bundesrepublik Deutschland, vertreten durch den Beauftragten, zu richten.
 
 (5) Widerspruch und Anfechtungsklage gegen Entscheidungen der Beauftragten haben keine aufschiebende Wirkung.
 
 ### § 31e
 
-Im Falle der Staatshaftung wegen Ansprüchen Dritter können die Beauftragten nach den §§ 31a bis 31c und 31f bei Vorliegen von Vorsatz oder grober Fahrlässigkeit vom Bund bis zu einem vom Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium der Finanzen festgelegten Höchstbetrag in Rückgriff genommen werden. Wird der Bund von einem Dritten wegen eines Schadens in Anspruch genommen, den ein auf der Grundlage einer Rechtsverordnung nach § 30a Beauftragter durch vorsätzliches oder grob fahrlässiges Handeln verursacht hat, so kann der Bund bei dem Beauftragten Rückgriff bis zu einem vom Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium der Finanzen festgelegten Höchstbetrag nehmen. Gegenüber Organen und Personal der Beauftragten nach den §§ 30a, 31a bis 31c und 31f richtet sich der Rückgriff des Beauftragten nach den allgemeinen Vorschriften.
+Im Falle der Staatshaftung wegen Ansprüchen Dritter können die Beauftragten nach den §§ 31a bis 31c und 31f bei Vorliegen von Vorsatz oder grober Fahrlässigkeit vom Bund bis zu einem vom Bundesministerium für Verkehr, Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium der Finanzen festgelegten Höchstbetrag in Rückgriff genommen werden. Gegenüber Organen und Personal der Beauftragten nach den §§ 31a bis 31c und 31f richtet sich der Rückgriff des Beauftragten nach den allgemeinen Vorschriften.
 
 ### § 31f
 
-(1) An Flugplätzen, bei denen nach § 27d Absatz 4 Flugsicherungsdienste und flugsicherungstechnische Einrichtungen im erforderlichen Umfang vorgehalten werden sollen, kann das Bundesministerium für Verkehr und digitale Infrastruktur durch Verwaltungsakt neben einer Flugsicherungsorganisation nach § 31b Absatz 1 auch eine andere Flugsicherungsorganisation mit der Wahrnehmung einzelner Aufgaben nach § 27c Absatz 2 Satz 1 Nummer 1 beauftragen.
+(1) An Flugplätzen, bei denen nach § 27d Absatz 4 Flugsicherungsdienste und flugsicherungstechnische Einrichtungen im erforderlichen Umfang vorgehalten werden sollen, kann das Bundesministerium für Verkehr, Bau und Stadtentwicklung durch Verwaltungsakt neben einer Flugsicherungsorganisation nach § 31b Absatz 1 auch eine andere Flugsicherungsorganisation mit der Wahrnehmung einzelner Aufgaben nach § 27c Absatz 2 Satz 1 Nummer 1 beauftragen.
 
 (2) Die Beauftragung nach Absatz 1 ist nur zulässig, wenn die zu beauftragende Flugsicherungsorganisation
 
@@ -1255,9 +1266,9 @@ die hinreichende Gewähr für die ordnungsgemäße Erfüllung der Aufgabe bietet
 3.  
 in die Beauftragung eingewilligt hat.
 
-Die Beauftragung einer Flugsicherungsorganisation mit Sitz oder Niederlassung im Ausland setzt über Absatz 2 Satz 1 hinaus den Bestand einer völkerrechtlichen Übereinkunft des Bundesministeriums für Verkehr und digitale Infrastruktur oder einer von ihm bestimmten Behörde mit der jeweils zuständigen Behörde des ausländischen Staates voraus, in der die Wahrnehmung von Aufsichtsmaßnahmen, die Durchführung von Kontroll- und Durchsetzungsbefugnissen sowie die Sicherstellung der verfassungsmäßigen Aufgabenerfüllung der Luftstreitkräfte der Bundeswehr gegenüber der beauftragten Flugsicherungsorganisation geregelt sind.
+Die Beauftragung einer Flugsicherungsorganisation mit Sitz oder Niederlassung im Ausland setzt über Absatz 2 Satz 1 hinaus den Bestand einer völkerrechtlichen Übereinkunft des Bundesministeriums für Verkehr, Bau und Stadtentwicklung oder einer von ihm bestimmten Behörde mit der jeweils zuständigen Behörde des ausländischen Staates voraus, in der die Wahrnehmung von Aufsichtsmaßnahmen, die Durchführung von Kontroll- und Durchsetzungsbefugnissen sowie die Sicherstellung der verfassungsmäßigen Aufgabenerfüllung der Luftstreitkräfte der Bundeswehr gegenüber der beauftragten Flugsicherungsorganisation geregelt sind.
 
-(3) Ein Rechtsanspruch auf Übertragung von Aufgaben nach Absatz 1 oder auf Fortsetzung der Tätigkeit nach Absatz 1 besteht nicht. Das Bundesministerium für Verkehr und digitale Infrastruktur macht seine Entscheidung nach Absatz 1 im Bundesanzeiger bekannt.
+(3) Ein Rechtsanspruch auf Übertragung von Aufgaben nach Absatz 1 oder auf Fortsetzung der Tätigkeit nach Absatz 1 besteht nicht. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung macht seine Entscheidung nach Absatz 1 im Bundesanzeiger bekannt.
 
 (4) Bei der Wahrnehmung von Aufgaben nach Absatz 1 unterliegt die Flugsicherungsorganisation der Rechts- und Fachaufsicht des Bundesaufsichtsamtes für Flugsicherung. Dieses kann sich zur Wahrnehmung seiner Aufsichtstätigkeit insbesondere jederzeit über die Angelegenheiten der Flugsicherungsorganisation, insbesondere durch Einholung von Auskünften, Berichten und der Vorlage von Aufzeichnungen aller Art, unterrichten, rechtswidrige oder zweckwidrige Maßnahmen beanstanden sowie entsprechende Abhilfe verlangen. Kommt die nach Absatz 1 beauftragte Flugsicherungsorganisation den Weisungen des Bundesaufsichtsamtes für Flugsicherung nicht oder nicht fristgerecht nach, kann es die erforderlichen Maßnahmen anstelle und auf Kosten der Flugsicherungsorganisation selbst durchführen oder durch einen anderen durchführen lassen.
 
@@ -1269,7 +1280,7 @@ Die Beauftragung einer Flugsicherungsorganisation mit Sitz oder Niederlassung im
 
 ### § 32
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur erlässt mit Zustimmung des Bundesrates die zur Durchführung dieses Gesetzes und von Rechtsakten der Europäischen Union notwendigen Rechtsverordnungen über
+(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung erlässt mit Zustimmung des Bundesrates die zur Durchführung dieses Gesetzes und von Rechtsakten der Europäischen Union notwendigen Rechtsverordnungen über
 
 1.  
 das Verhalten im Luftraum und am Boden, insbesondere Flugvorbereitungen, Verhalten bei Start und Landung, die Benutzung von Flughäfen,
@@ -1317,7 +1328,7 @@ die Verpflichtung zur Mitführung von Urkunden (Bordpapiere) in Luftfahrzeugen u
 die Einzelheiten über den Abschluss, die Aufrechterhaltung, den Inhalt, den Umfang, die zulässigen Ausschlüsse und den Nachweis der nach diesem Gesetz und nach Rechtsakten der Europäischen Union zu unterhaltenden Haftpflichtversicherung, einschließlich der Mindestversicherungssumme, soweit sie nicht die Deckung der Haftung für die Zerstörung, die Beschädigung und den Verlust von Gütern betreffen. Soweit Versicherungsnachweise bei Landesbehörden zu hinterlegen sind, bleibt die Bestimmung der zuständigen Behörde dem Landesrecht vorbehalten,
 
 13.  
-die Kosten (Gebühren und Auslagen) für Amtshandlungen, insbesondere Prüfungen und Untersuchungen nach diesem Gesetz, dem Gesetz über das Luftfahrt-Bundesamt oder nach den auf diesen Gesetzen beruhenden Rechtsvorschriften. In der Rechtsverordnung kann festgelegt werden, dass bei Auslagen Kostengläubiger auch derjenige Rechtsträger ist, bei dessen Behörde die Auslagen entstehen. Sie bestimmt ferner die gebührenpflichtigen Tatbestände und kann dafür feste Sätze, Rahmensätze oder Zeitgebühren vorsehen. Die Gebührensätze sind so zu bemessen, dass der mit den Amtshandlungen verbundene Personal- und Sachaufwand gedeckt wird; dabei kann die Berechnung des erforderlichen Verwaltungsaufwands nach Stundensätzen vorgenommen werden. Bei begünstigenden Amtshandlungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden. In der Rechtsverordnung können die Kostenbefreiung, die Kostengläubigerschaft, die Kostenschuldnerschaft, der Umfang der zu erstattenden Auslagen und die Kostenerhebung abweichend von den Vorschriften des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung geregelt werden,
+die Kosten (Gebühren und Auslagen) für Amtshandlungen, insbesondere Prüfungen und Untersuchungen nach diesem Gesetz, dem Gesetz über das Luftfahrt-Bundesamt oder nach den auf diesen Gesetzen beruhenden Rechtsvorschriften. In der Rechtsverordnung kann festgelegt werden, dass bei Auslagen Kostengläubiger auch derjenige Rechtsträger ist, bei dessen Behörde die Auslagen entstehen. Sie bestimmt ferner die gebührenpflichtigen Tatbestände und kann dafür feste Sätze, Rahmensätze oder Zeitgebühren vorsehen. Die Gebührensätze sind so zu bemessen, dass der mit den Amtshandlungen verbundene Personal- und Sachaufwand gedeckt wird; dabei kann die Berechnung des erforderlichen Verwaltungsaufwands nach Stundensätzen vorgenommen werden. Bei begünstigenden Amtshandlungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden. In der Rechtsverordnung können die Kostenbefreiung, die Kostengläubigerschaft, die Kostenschuldnerschaft, der Umfang der zu erstattenden Auslagen und die Kostenerhebung abweichend von den Vorschriften des Verwaltungskostengesetzes geregelt werden,
 
 14.  
 (weggefallen)
@@ -1331,17 +1342,17 @@ den Schutz vor Luftverunreinigungen durch Luftfahrzeuge, insbesondere darüber, 
 17.  
 die zur Durchführung der Flughafenkoordinierung nach § 27a notwendigen Einzelheiten, insbesondere die Verfahren, nach denen ein Verkehrsflughafen zum koordinierten oder vollständig koordinierten Flughafen zu erklären ist, und den Umfang der Koordinierungspflicht.
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur kann in den Rechtsverordnungen nach Satz 1 Ausnahmen von der in diesem Gesetz vorgeschriebenen Zulassung von Luftfahrtgerät und Einholung einer Erlaubnis sowie von der Pflicht zur Führung des Staatszugehörigkeitszeichens und der besonderen Kennzeichnung zulassen, soweit die öffentliche Sicherheit und Ordnung, insbesondere die Sicherheit des Luftverkehrs, nicht beeinträchtigt werden. Rechtsverordnungen nach den Nummern 3, 5 und 13 werden im Einvernehmen mit dem Bundesministerium der Finanzen erlassen. Rechtsverordnungen nach Nummer 9a, soweit sie die Genehmigung von Beförderungsentgelten betreffen, und nach der Nummer 13 werden im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie erlassen; die Bestimmungen des allgemeinen Preisrechts bleiben unberührt. Rechtsverordnungen nach den Nummern 15 und 16 werden vom Bundesministerium für Verkehr und digitale Infrastruktur und vom Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit erlassen. Rechtsverordnungen nach Nummer 17 werden erlassen im Einvernehmen mit dem Bundesministerium der Verteidigung, soweit mit ihnen Flüge militärischer Luftfahrzeuge, mit dem Bundesministerium des Innern, soweit mit ihnen Flüge der Bundespolizei oder der Polizei der Flugplankoordinierung unterworfen werden sollen.
+Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann in den Rechtsverordnungen nach Satz 1 Ausnahmen von der in diesem Gesetz vorgeschriebenen Zulassung von Luftfahrtgerät und Einholung einer Erlaubnis sowie von der Pflicht zur Führung des Staatszugehörigkeitszeichens und der besonderen Kennzeichnung zulassen, soweit die öffentliche Sicherheit und Ordnung, insbesondere die Sicherheit des Luftverkehrs, nicht beeinträchtigt werden. Rechtsverordnungen nach den Nummern 3, 5 und 13 werden im Einvernehmen mit dem Bundesministerium der Finanzen erlassen. Rechtsverordnungen nach Nummer 9a, soweit sie die Genehmigung von Beförderungsentgelten betreffen, und nach der Nummer 13 werden im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie erlassen; die Bestimmungen des allgemeinen Preisrechts bleiben unberührt. Rechtsverordnungen nach den Nummern 15 und 16 werden vom Bundesministerium für Verkehr, Bau und Stadtentwicklung und vom Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit erlassen. Rechtsverordnungen nach Nummer 17 werden erlassen im Einvernehmen mit dem Bundesministerium der Verteidigung, soweit mit ihnen Flüge militärischer Luftfahrzeuge, mit dem Bundesministerium des Innern, soweit mit ihnen Flüge der Bundespolizei oder der Polizei der Flugplankoordinierung unterworfen werden sollen.
 
-(2) Das Bundesministerium für Gesundheit und das Bundesministerium für Verkehr und digitale Infrastruktur erlassen mit Zustimmung des Bundesrates die zur Durchführung dieses Gesetzes notwendigen Rechtsverordnungen über die Bekämpfung der Verbreitung übertragbarer Krankheiten durch die Luftfahrt.
+(2) Das Bundesministerium für Gesundheit und das Bundesministerium für Verkehr, Bau und Stadtentwicklung erlassen mit Zustimmung des Bundesrates die zur Durchführung dieses Gesetzes notwendigen Rechtsverordnungen über die Bekämpfung der Verbreitung übertragbarer Krankheiten durch die Luftfahrt.
 
 (2a) (weggefallen)
 
 (2b) (weggefallen)
 
-(3) Rechtsverordnungen bedürfen nicht der Zustimmung des Bundesrates, wenn sie der Durchführung von Richtlinien und Empfehlungen der Internationalen Zivilluftfahrt-Organisation (ICAO) dienen. Das Gleiche gilt für Rechtsverordnungen, die die zur Gewährleistung der Sicherheit des Luftverkehrs und der öffentlichen Sicherheit oder Ordnung notwendigen Einzelheiten über die Durchführung der Verhaltensvorschriften nach Absatz 1 Satz 1 Nr. 1 und über die Durchführung der Ausbildungs- und Prüfvorschriften für Luftfahrtpersonal nach Absatz 1 Satz 1 Nr. 4 und 5 regeln. Das Bundesministerium für Verkehr und digitale Infrastruktur kann die Ermächtigung zum Erlass von Verordnungen nach Satz 2 und von Verordnungen, die die zur Gewährleistung der Sicherheit des Luftverkehrs und der öffentlichen Sicherheit oder Ordnung notwendigen Einzelheiten über die Durchführung der Bau-, Prüf- und Betriebsvorschriften nach Absatz 4 Satz 1 Nr. 1 regeln, durch Rechtsverordnung auf das Luftfahrt-Bundesamt übertragen. Verordnungen nach Satz 3, die von besonderer Bedeutung für den Schutz der Bevölkerung vor Fluglärm sind, werden im Benehmen mit dem Umweltbundesamt erlassen.
+(3) Rechtsverordnungen bedürfen nicht der Zustimmung des Bundesrates, wenn sie der Durchführung von Richtlinien und Empfehlungen der Internationalen Zivilluftfahrt-Organisation (ICAO) dienen. Das Gleiche gilt für Rechtsverordnungen, die die zur Gewährleistung der Sicherheit des Luftverkehrs und der öffentlichen Sicherheit oder Ordnung notwendigen Einzelheiten über die Durchführung der Verhaltensvorschriften nach Absatz 1 Satz 1 Nr. 1 und über die Durchführung der Ausbildungs- und Prüfvorschriften für Luftfahrtpersonal nach Absatz 1 Satz 1 Nr. 4 und 5 regeln. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann die Ermächtigung zum Erlass von Verordnungen nach Satz 2 und von Verordnungen, die die zur Gewährleistung der Sicherheit des Luftverkehrs und der öffentlichen Sicherheit oder Ordnung notwendigen Einzelheiten über die Durchführung der Bau-, Prüf- und Betriebsvorschriften nach Absatz 4 Satz 1 Nr. 1 regeln, durch Rechtsverordnung auf das Luftfahrt-Bundesamt übertragen. Verordnungen nach Satz 3, die von besonderer Bedeutung für den Schutz der Bevölkerung vor Fluglärm sind, werden im Benehmen mit dem Umweltbundesamt erlassen.
 
-(4) Das Bundesministerium für Verkehr und digitale Infrastruktur erlässt ohne Zustimmung des Bundesrates die zur Durchführung dieses Gesetzes und von Rechtsakten der Europäischen Union notwendigen Rechtsverordnungen über
+(4) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung erlässt ohne Zustimmung des Bundesrates die zur Durchführung dieses Gesetzes und von Rechtsakten der Europäischen Union notwendigen Rechtsverordnungen über
 
 1.  
 die Anforderungen an den Bau, die Ausrüstung und den Betrieb der Luftfahrzeuge und des sonstigen Luftfahrtgeräts sowie die Eintragung und Kennzeichnung der Luftfahrzeuge;
@@ -1385,22 +1396,22 @@ der Wahrnehmung von Unterstützungsdiensten durch Dienstleister nach § 27c Absa
 8.  
 die Festlegung von Flugverfahren für Flüge innerhalb von Kontrollzonen, für An- und Abflüge zu und von Flugplätzen mit Flugverkehrskontrollstelle und für Flüge nach Instrumentenflugregeln, einschließlich der Flugwege, Flughöhen und Meldepunkte.
 
-(4a) In Rechtsverordnungen nach Absatz 4 Satz 1 Nummer 6, 7 und 7a bestimmt das Bundesministerium für Verkehr und digitale Infrastruktur die gebührenpflichtigen Tatbestände und die Höhe der Gebühren.
+(4a) In Rechtsverordnungen nach Absatz 4 Satz 1 Nummer 6, 7 und 7a bestimmt das Bundesministerium für Verkehr, Bau und Stadtentwicklung die gebührenpflichtigen Tatbestände und die Höhe der Gebühren.
 
 1.  
 Für Amtshandlungen nach Absatz 4 Satz 1 Nr. 6 sind die Gebührensätze so zu bemessen, dass der mit den Amtshandlungen verbundene Verwaltungsaufwand für die Flughafenkoordinierung gedeckt wird. Es kann festgelegt werden, dass die Kosten vom Flughafenkoordinator erhoben werden können.
 
 2.  
-Für Amtshandlungen nach Absatz 4 Satz 1 Nr. 7 können feste Sätze, auch in der Form von Gebühren nach Zeitaufwand, oder Rahmensätze vorgesehen werden. Die Gebührensätze sind, soweit nicht das Recht der Europäischen Union eine abweichende Regelung enthält, so zu bemessen, dass der mit den Amtshandlungen verbundene Verwaltungsaufwand gedeckt wird. Die in den Rechtsakten der Europäischen Union, insbesondere in den Artikeln 14 und 15 der Verordnung (EG) Nr. 550/2004, enthaltenen Grundsätze sind zu berücksichtigen. Bei begünstigenden Amtshandlungen sind daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen zu berücksichtigen. Die Kostenbefreiung, die Kostengläubigerschaft, die Kostenschuldnerschaft, der Umfang der zu erstattenden Auslagen und die Kostenerhebung können abweichend vom Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung geregelt werden. Es kann insbesondere festgelegt werden, dass die Kosten von der Flugsicherungsorganisation oder von einer nach dem Recht der Europäischen Union oder aufgrund völkerrechtlicher Vereinbarung errichteten Stelle erhoben werden können. Zu den nach § 10 Abs. 1 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung zu erhebenden Auslagen ist eine für die Amtshandlungen nach § 32 Abs. 4 Satz 1 Nr. 7 nach dem Umsatzsteuergesetz geschuldete Umsatzsteuer hinzuzurechnen. Von der Kostenpflicht können Flugplatzunternehmer von solchen Flugplätzen ausgenommen werden, die unter die Regelung von § 27d Abs. 4 Satz 1 fallen.
+Für Amtshandlungen nach Absatz 4 Satz 1 Nr. 7 können feste Sätze, auch in der Form von Gebühren nach Zeitaufwand, oder Rahmensätze vorgesehen werden. Die Gebührensätze sind, soweit nicht das Recht der Europäischen Union eine abweichende Regelung enthält, so zu bemessen, dass der mit den Amtshandlungen verbundene Verwaltungsaufwand gedeckt wird. Die in den Rechtsakten der Europäischen Union, insbesondere in den Artikeln 14 und 15 der Verordnung (EG) Nr. 550/2004, enthaltenen Grundsätze sind zu berücksichtigen. Bei begünstigenden Amtshandlungen sind daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen zu berücksichtigen. Die Kostenbefreiung, die Kostengläubigerschaft, die Kostenschuldnerschaft, der Umfang der zu erstattenden Auslagen und die Kostenerhebung können abweichend vom Verwaltungskostengesetz geregelt werden. Es kann insbesondere festgelegt werden, dass die Kosten von der Flugsicherungsorganisation oder von einer nach dem Recht der Europäischen Union oder aufgrund völkerrechtlicher Vereinbarung errichteten Stelle erhoben werden können. Zu den nach § 10 Abs. 1 des Verwaltungskostengesetzes zu erhebenden Auslagen ist eine für die Amtshandlungen nach § 32 Abs. 4 Satz 1 Nr. 7 nach dem Umsatzsteuergesetz geschuldete Umsatzsteuer hinzuzurechnen. Von der Kostenpflicht können Flugplatzunternehmer von solchen Flugplätzen ausgenommen werden, die unter die Regelung von § 27d Abs. 4 Satz 1 fallen.
 
 3.  
 Für Amtshandlungen nach Absatz 4 Satz 1 Nummer 7a sind die Gebührensätze so zu bemessen, dass der mit den Amtshandlungen verbundene Verwaltungsaufwand gedeckt wird. Dabei können feste Sätze, auch in Form von Gebühren nach Zeitaufwand, oder Rahmensätze vorgesehen werden. Es kann festgelegt werden, dass die Kosten vom Bundesaufsichtsamt für Flugsicherung erhoben werden.
 
-(4b) Rechtsverordnungen nach Absatz 4 Satz 1 Nr. 2, die sich auf die Art und Beschaffenheit von funktechnischen Anlagen, Einrichtungen und Geräten für die Flugsicherung und für die Flugsicherungsausrüstung an Bord beziehen, sind im Benehmen mit dem Bundesministerium für Wirtschaft und Energie zu erlassen. Rechtsverordnungen nach Absatz 4 Satz 1 Nr. 5 werden im Einvernehmen mit dem Bundesministerium für Bildung und Forschung erlassen; die Regelungen des Berufsbildungsgesetzes bleiben unberührt.
+(4b) Rechtsverordnungen nach Absatz 4 Satz 1 Nr. 2, die sich auf die Art und Beschaffenheit von funktechnischen Anlagen, Einrichtungen und Geräten für die Flugsicherung und für die Flugsicherungsausrüstung an Bord beziehen, sind im Benehmen mit dem Bundesministerium für Wirtschaft und Technologie zu erlassen. Rechtsverordnungen nach Absatz 4 Satz 1 Nr. 5 werden im Einvernehmen mit dem Bundesministerium für Bildung und Forschung erlassen; die Regelungen des Berufsbildungsgesetzes bleiben unberührt.
 
-(4c) Das Bundesministerium für Verkehr und digitale Infrastruktur kann die Ermächtigung zum Erlass von Rechtsverordnungen nach Absatz 4 Satz 1 Nummer 2 bis 5 und 7 bis 8 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesaufsichtsamt für Flugsicherung übertragen. Verordnungen nach Absatz 4 Satz 1 Nr. 8, die von besonderer Bedeutung für den Schutz der Bevölkerung vor Fluglärm sind, werden im Benehmen mit dem Umweltbundesamt erlassen.
+(4c) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann die Ermächtigung zum Erlass von Rechtsverordnungen nach Absatz 4 Satz 1 Nummer 2 bis 5 und 7 bis 8 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesaufsichtsamt für Flugsicherung übertragen. Verordnungen nach Absatz 4 Satz 1 Nr. 8, die von besonderer Bedeutung für den Schutz der Bevölkerung vor Fluglärm sind, werden im Benehmen mit dem Umweltbundesamt erlassen.
 
-(5) Das Bundesministerium für Verkehr und digitale Infrastruktur erlässt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Bestimmungen über
+(5) Das Bundesministerium für Wirtschaft und Technologie erlässt im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Bestimmungen über
 
 1.  
 den Kreis der Personen, die eines Flugfunkzeugnisses bedürfen,
@@ -1416,21 +1427,21 @@ die Gebühren und Auslagen für die damit zusammenhängenden Amtshandlungen.
 
 Absatz 1 Nummer 13 Satz 2 bis 5 gilt entsprechend.
 
-(5a) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach § 58 Abs. 1 Nr. 13 geahndet werden können.
+(5a) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach § 58 Abs. 1 Nr. 13 geahndet werden können.
 
 (5b) Die Festlegung und Änderung von Gebühren nach Absatz 5 Satz 1 Nummer 4 bedürfen des Einvernehmens mit dem Bundesministerium der Finanzen. Die Gebühren werden zur Deckung des Verwaltungsaufwands erhoben. Zur Ermittlung des Verwaltungsaufwands sind die Kosten, die nach betriebswirtschaftlichen Grundsätzen als Einzel-und Gemeinkosten zurechenbar und ansatzfähig sind, insbesondere Personal- und Sachkosten sowie kalkulatorische Kosten, zugrunde zu legen.
 
-(6) Das Bundesministerium für Verkehr und digitale Infrastruktur erlässt die zur Durchführung dieses Gesetzes und der dazu ergangenen Rechtsverordnungen notwendigen allgemeinen Verwaltungsvorschriften. Allgemeine Verwaltungsvorschriften zur Durchführung der in § 31 Abs. 2 bezeichneten Aufgaben bedürfen der Zustimmung des Bundesrates. Soweit die allgemeinen Verwaltungsvorschriften dem Schutz vor Fluglärm oder dem Schutz vor Luftverunreinigungen durch Luftfahrzeuge dienen, werden sie vom Bundesministerium für Verkehr und digitale Infrastruktur und vom Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit mit Zustimmung des Bundesrates erlassen.
+(6) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung erlässt die zur Durchführung dieses Gesetzes und der dazu ergangenen Rechtsverordnungen notwendigen allgemeinen Verwaltungsvorschriften. Allgemeine Verwaltungsvorschriften zur Durchführung der in § 31 Abs. 2 bezeichneten Aufgaben bedürfen der Zustimmung des Bundesrates. Soweit die allgemeinen Verwaltungsvorschriften dem Schutz vor Fluglärm oder dem Schutz vor Luftverunreinigungen durch Luftfahrzeuge dienen, werden sie vom Bundesministerium für Verkehr, Bau und Stadtentwicklung und vom Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit mit Zustimmung des Bundesrates erlassen.
 
 (7) Sofern nach den Vorschriften dieses Gesetzes ein Zeugnis oder anderes Dokument mitzuführen, auszuhändigen oder einem Antrag beizufügen ist, ist die elektronische Form ausgeschlossen, sofern nicht in den zur Durchführung dieses Gesetzes erlassenen Rechtsverordnungen eine abweichende Regelung getroffen ist.
 
 ### § 32a
 
-(1) Bei dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit und dem Bundesministerium für Verkehr und digitale Infrastruktur wird ein Beratender Ausschuss gebildet, der vor Erlass von Rechtsverordnungen und allgemeinen Verwaltungsvorschriften auf Grund dieses Gesetzes zu hören ist, soweit sie dem Schutz gegen Fluglärm und gegen Luftverunreinigungen durch Luftfahrzeuge dienen. Zum Schutz gegen Fluglärm und gegen Luftverunreinigungen durch Luftfahrzeuge kann der Beratende Ausschuss Empfehlungen aussprechen. Dem Ausschuss sollen Vertreter der Wissenschaft, der Technik, der Flugplatzunternehmer, der Luftfahrtunternehmen, der kommunalen Spitzenverbände, der Lärmschutz- und Umweltverbände, der Kommissionen nach § 32b, der Luftfahrtbehörden, der von der Landesregierung bestimmten obersten Landesbehörden und des Umweltbundesamtes angehören. Die Mitgliedschaft ist ehrenamtlich.
+(1) Bei dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit und dem Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ein Beratender Ausschuss gebildet, der vor Erlass von Rechtsverordnungen und allgemeinen Verwaltungsvorschriften auf Grund dieses Gesetzes zu hören ist, soweit sie dem Schutz gegen Fluglärm und gegen Luftverunreinigungen durch Luftfahrzeuge dienen. Zum Schutz gegen Fluglärm und gegen Luftverunreinigungen durch Luftfahrzeuge kann der Beratende Ausschuss Empfehlungen aussprechen. Dem Ausschuss sollen Vertreter der Wissenschaft, der Technik, der Flugplatzunternehmer, der Luftfahrtunternehmen, der kommunalen Spitzenverbände, der Lärmschutz- und Umweltverbände, der Kommissionen nach § 32b, der Luftfahrtbehörden, der von der Landesregierung bestimmten obersten Landesbehörden und des Umweltbundesamtes angehören. Die Mitgliedschaft ist ehrenamtlich.
 
-(2) Die Mitglieder des Beratenden Ausschusses werden je zur Hälfte vom Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit und vom Bundesministerium für Verkehr und digitale Infrastruktur berufen. Der Ausschuss gibt sich eine Geschäftsordnung und wählt den Vorsitzenden. Die Geschäftsordnung und die Wahl des Vorsitzenden bedürfen der Zustimmung des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit und des Bundesministeriums für Verkehr und digitale Infrastruktur.
+(2) Die Mitglieder des Beratenden Ausschusses werden je zur Hälfte vom Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit und vom Bundesministerium für Verkehr, Bau und Stadtentwicklung berufen. Der Ausschuss gibt sich eine Geschäftsordnung und wählt den Vorsitzenden. Die Geschäftsordnung und die Wahl des Vorsitzenden bedürfen der Zustimmung des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit und des Bundesministeriums für Verkehr, Bau und Stadtentwicklung.
 
-(3) Der Beratende Ausschuss tagt mindestens einmal jährlich. Dazu lädt der Vorsitzende unter Vorlage einer Tagesordnung ein. Halten das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit und das Bundesministerium für Verkehr und digitale Infrastruktur die Empfehlungen des Ausschusses für nicht geeignet oder nicht durchführbar, so ist dies dem Ausschuss unter Angabe der Gründe schriftlich mitzuteilen.
+(3) Der Beratende Ausschuss tagt mindestens einmal jährlich. Dazu lädt der Vorsitzende unter Vorlage einer Tagesordnung ein. Halten das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit und das Bundesministerium für Verkehr, Bau und Stadtentwicklung die Empfehlungen des Ausschusses für nicht geeignet oder nicht durchführbar, so ist dies dem Ausschuss unter Angabe der Gründe schriftlich mitzuteilen.
 
 ### § 32b
 
@@ -1452,12 +1463,8 @@ Absatz 1 Nummer 13 Satz 2 bis 5 gilt entsprechend.
 
 Eine Erlaubnis, Genehmigung, Zulassung oder Berechtigung auf Grund dieses Gesetzes, der zu seiner Durchführung erlassenen Rechtsvorschriften, der im Inland anwendbaren international verbindlichen Luftverkehrsregeln und Betriebsvorschriften im Sinne des Artikels 37 Abs. 2 Buchstabe c und des Artikels 38 des Abkommens vom 7. Dezember 1944 über die Internationale Zivilluftfahrt (BGBl. 1956 II S. 411), der Verordnungen des Rates der Europäischen Union oder der zu deren Durchführung erlassenen nationalen Rechtsvorschriften kann widerrufen werden, wenn der Antragsteller mit der Zahlung fälliger Gebühren auf Grund des Luftrechts und fälliger Entgelte für das Starten, Landen oder Abstellen von Luftfahrzeugen länger als drei Monate im Rückstand ist. An Stelle des Widerrufs kann das Ruhen auf Zeit angeordnet werden, solange der Zahlungsrückstand währt. Eine beantragte Erteilung kann aus den Gründen nach Satz 1 versagt werden, bis die ausstehende Zahlung eingegangen ist.
 
-### § 32d Elektronische Veröffentlichungen
-
-Unbeschadet der Regelungen von § 15 Absatz 1 des E-Government-Gesetzes kann eine durch Verordnung des Bundesministeriums für Verkehr und digitale Infrastruktur bestimmte Pflicht zur Publikation in den Nachrichten für Luftfahrer oder im Luftfahrthandbuch der Bundesrepublik Deutschland zusätzlich oder ausschließlich durch eine elektronische Ausgabe erfüllt werden, wenn diese über öffentlich zugängliche Netze angeboten wird. In diesem Fall gilt § 15 Absatz 2 des E-Government-Gesetzes entsprechend.
-
-Zweiter Abschnitt Haftpflicht und Schlichtung
----------------------------------------------
+Zweiter Abschnitt Haftpflicht
+-----------------------------
 
 ### 
 
@@ -1741,96 +1748,9 @@ Unberührt bleiben die Vorschriften des Siebten Buches Sozialgesetzbuch über di
 
 (3) Ist auf die Luftbeförderung eine der in § 44 Nr. 1 bis 4 genannten Übereinkünfte anzuwenden, bestimmt sich der Gerichtsstand nach dieser Übereinkunft. Sind deutsche Gerichte nach Artikel 33 Abs. 2 des Montrealer Übereinkommens zuständig, ist für Klagen auf Ersatz des Schadens, der durch Tod oder Körperverletzung eines Reisenden entstanden ist, das Gericht örtlich zuständig, in dessen Bezirk der Reisende zum Zeitpunkt des Unfalls seinen Wohnsitz hatte.
 
-5. Unterabschnitt Schlichtung
------------------------------
+### § 57
 
-### 
-
-### § 57 Privatrechtlich organisierte Schlichtung
-
-(1) Das Bundesministerium der Justiz und für Verbraucherschutz kann im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Bundesministerium für Wirtschaft und Energie privatrechtlich organisierte Einrichtungen als Schlichtungsstellen zur außergerichtlichen Beilegung von Streitigkeiten über Ansprüche von Fluggästen gegen Luftfahrtunternehmen nach § 57b Absatz 1 anerkennen. Anerkannt werden kann auch eine verkehrsträgerübergreifende Schlichtungsstelle. Die Anerkennung und der Widerruf oder die Rücknahme der Anerkennung sind im Bundesanzeiger bekannt zu machen.
-
-(2) Privatrechtlich organisierte Einrichtungen können als Schlichtungsstellen anerkannt werden, wenn die Schlichtungsstellen und die Durchführung des Schlichtungsverfahrens den Anforderungen dieses Gesetzes, des Verbraucherstreitbeilegungsgesetzes vom 19. Februar 2016 (BGBl. I S. 254) und der nach diesen Gesetzen erlassenen Rechtsverordnungen entsprechen.
-
-(3) Fluggäste können eine Schlichtungsstelle anrufen, wenn das beteiligte Luftfahrtunternehmen an der Schlichtung durch diese Schlichtungsstelle teilnimmt. Die Schlichtungsstellen sind verpflichtet, eine Liste der teilnehmenden Luftfahrtunternehmen zu führen und in geeigneter Weise Interessierten zugänglich zu machen.
-
-(4) Die Schlichtungsstellen können für das Schlichtungsverfahren mit dem Eingang des Schlichtungsbegehrens von dem beteiligten Luftfahrtunternehmen ein angemessenes Entgelt verlangen. Von dem Fluggast kann ein Entgelt von bis zu 30 Euro verlangt werden, wenn die Geltendmachung des Anspruchs im Schlichtungsverfahren missbräuchlich ist. Wenn das Entgelt den Anforderungen des Satzes 1 oder 2 nicht entspricht, kann die Einrichtung als Schlichtungsstelle nicht anerkannt werden.
-
-(5) Weist eine Schlichtungsstelle nach, dass innerhalb von zwei Jahren nach der Anerkennung und der Aufnahme der Schlichtung in der überwiegenden Zahl der Fälle bei ihr Ansprüche geltend gemacht wurden, die nicht bestanden, kann diese Schlichtungsstelle vor Einleitung eines Schlichtungsverfahrens von dem Fluggast ein Entgelt verlangen. Der Nachweis ist gegenüber dem Bundesamt für Justiz zu erbringen. Das Bundesamt für Justiz teilt der Schlichtungsstelle und dem Bundesministerium der Justiz und für Verbraucherschutz mit, ob der Nachweis erbracht ist. Das Entgelt nach Satz 1 darf 20 Euro nicht überschreiten. Es kann nur verlangt werden, wenn der Vertrag, aus dem die Luftbeförderung geschuldet wird, nach Einführung des Entgelts geschlossen wurde. Das Entgelt ist dem Fluggast von dem beteiligten Luftfahrtunternehmen zu erstatten, wenn der Anspruch im Schlichtungsverfahren für begründet erachtet wird. Es ist auf das Entgelt nach Absatz 4 Satz 2 anzurechnen, wenn die Geltendmachung des Anspruchs im Schlichtungsverfahren missbräuchlich war. Wird ein Entgelt nach Satz 1 verlangt, obwohl der Nachweis nicht erbracht ist, ist die Anerkennung nach Absatz 1 zu widerrufen. Dies gilt auch, wenn ein Entgelt von mehr als 20 Euro verlangt wird. Wird ein Entgelt nach Satz 1 von einer Schlichtungsstelle verlangt, gilt für diese Schlichtungsstelle § 57b Absatz 2 Satz 1 Nummer 6 nicht.
-
-(6) Die Regelung der Entgelte nach den Absätzen 4 und 5 haben die Schlichtungsstellen Interessierten zugänglich zu machen.
-
-(7) Eine anerkannte Einrichtung ist Verbraucherschlichtungsstelle nach dem Verbraucherstreitbeilegungsgesetz. Das Bundesministerium der Justiz und für Verbraucherschutz übermittelt der Zentralen Anlaufstelle für Verbraucherschlichtung die Angaben nach § 32 Absatz 2 und 5 des Verbraucherstreitbeilegungsgesetzes. Die Schlichtungsstelle hat den Evaluationsbericht nach § 34 Absatz 2 des Verbraucherstreitbeilegungsgesetzes an das Bundesministerium der Justiz und für Verbraucherschutz zu übermitteln. Dieses leitet den Evaluationsbericht an die Zentrale Anlaufstelle für Verbraucherschlichtung weiter; § 35 Absatz 2 des Verbraucherstreitbeilegungsgesetzes ist nicht anzuwenden.
-
-### § 57a Behördliche Schlichtung
-
-(1) Zur außergerichtlichen Beilegung von Streitigkeiten über Ansprüche von Fluggästen nach § 57b Absatz 1 gegen Luftfahrtunternehmen, die nicht an einem Schlichtungsverfahren einer anerkannten privatrechtlich organisierten Schlichtungsstelle nach § 57 teilnehmen, können Fluggäste die Schlichtungsstelle anrufen, die bei dem Bundesamt für Justiz einzurichten ist. Dies gilt auch, wenn keine privatrechtlich organisierte Einrichtung als Schlichtungsstelle anerkannt ist.
-
-(2) Die Schlichtungsstelle und die Durchführung des Schlichtungsverfahrens müssen den Anforderungen dieses Gesetzes, des Verbraucherstreitbeilegungsgesetzes und der auf Grund dieser Gesetze erlassenen Rechtsverordnungen entsprechen.
-
-(3) Das Bundesamt für Justiz kann dem Fluggast die Gebühr 1222 der Anlage (Kostenverzeichnis) zum Justizverwaltungskostengesetz auferlegen, wenn die Geltendmachung des Anspruchs im Schlichtungsverfahren missbräuchlich ist.
-
-(4) Sind innerhalb von zwei Jahren nach Aufnahme der Schlichtung in der überwiegenden Zahl der Fälle Ansprüche geltend gemacht worden, die nicht bestanden, kann das Bundesministerium der Justiz und für Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, bestimmen, dass die Schlichtungsstelle vor Einleitung eines Schlichtungsverfahrens von dem Fluggast eine Gebühr erhebt. Die Gebühr darf 20 Euro nicht überschreiten. Sie kann nur verlangt werden, wenn der Vertrag, aus dem die Luftbeförderung geschuldet wird, nach Einführung der Gebühr geschlossen wurde. Die Gebühr ist dem Fluggast von dem beteiligten Luftfahrtunternehmen zu erstatten, wenn der Anspruch im Schlichtungsverfahren für begründet erachtet wird. Sie ist auf die Gebühr nach Absatz 3 anzurechnen, wenn die Geltendmachung des Anspruchs im Schlichtungsverfahren missbräuchlich war. Wird eine Gebühr nach Satz 1 erhoben, gilt § 57b Absatz 2 Satz 1 Nummer 6 nicht.
-
-(5) Das Bundesamt für Justiz kann für Beitreibungsmaßnahmen anordnen, dass das Luftfahrtunternehmen innerhalb einer angemessenen Frist einen Zustellungsbevollmächtigten benennt, der im Inland wohnt oder dort einen Geschäftsraum hat.
-
-(6) Die Schlichtungsstelle nach Absatz 1 ist Verbraucherschlichtungsstelle nach dem Verbraucherstreitbeilegungsgesetz und von der Zentralen Anlaufstelle für Verbraucherschlichtung in die Liste nach § 33 Absatz 1 des Verbraucherstreitbeilegungsgesetzes einzutragen; § 32 Absatz 3 und 5 sowie § 35 Absatz 2 des Verbraucherstreitbeilegungsgesetzes sind nicht anzuwenden.
-
-### § 57b Gemeinsame Vorschriften
-
-(1) Die Streitigkeiten nach den §§ 57 und 57a betreffen Zahlungsansprüche bis zu 5 000 Euro aus einer Luftbeförderung, die einem Verbraucher (§ 13 des Bürgerlichen Gesetzbuchs) geschuldet wird, und die geltend gemacht werden wegen
-
-1.  
-der Nichtbeförderung, der verspäteten Beförderung oder der Herabstufung von Fluggästen in eine niedrigere Klasse sowie der Annullierung von Flügen,
-
-2.  
-der Zerstörung, der Beschädigung, des Verlustes oder der verspäteten Beförderung von Reisegepäck,
-
-3.  
-der Zerstörung, der Beschädigung oder des Verlustes von Sachen, die der Fluggast an sich trägt oder mit sich führt, oder
-
-4.  
-Pflichtverletzungen bei der Beförderung von behinderten Fluggästen und Fluggästen mit eingeschränkter Mobilität.
-
-Streitigkeiten über Zahlungsansprüche nach Satz 1 von mehr als 5 000 Euro können Gegenstand der Schlichtung nach § 57 sein, wenn die Verfahrensordnung dies vorsieht.
-
-(2) Die Schlichtungsstellen nach den §§ 57 und 57a können nicht angerufen werden, wenn
-
-1.  
-keine Zuständigkeit deutscher Gerichte gegeben ist,
-
-2.  
-der Anspruch bereits bei einem Gericht anhängig ist oder anhängig war,
-
-3.  
-der Anspruch bereits bei einer Schlichtungsstelle nach § 57 oder § 57a geltend gemacht worden ist, die zur Schlichtung des Anspruchs angerufen werden konnte und deren Anrufung nicht nach Nummer 5 ausgeschlossen war,
-
-4.  
-das Schlichtungsbegehren missbräuchlich ist, insbesondere wenn die Streitigkeit durch außergerichtlichen Vergleich bereits beigelegt ist,
-
-5.  
-der Anspruch nicht unmittelbar gegenüber dem Luftfahrtunternehmen geltend gemacht worden ist, wenn das Luftfahrtunternehmen den geltend gemachten Anspruch nicht abgelehnt hat oder wenn das Luftfahrtunternehmen den geltend gemachten Anspruch weder anerkannt noch abgelehnt hat und seit der Geltendmachung nicht mehr als 2 Monate vergangen sind oder
-
-6.  
-die Höhe des Anspruchs 10 Euro nicht überschreitet.
-
-Die Schlichtung nach den §§ 57 und 57a wird unzulässig, wenn während des Schlichtungsverfahrens der Anspruch bei einem Gericht anhängig gemacht wird.
-
-(3) Die Schlichtungsstellen können die Schlichtung ablehnen, wenn eine grundsätzliche Rechtsfrage, die für die Bewertung der Streitigkeit erheblich ist, nicht geklärt ist.
-
-(4) Das Recht, die Gerichte anzurufen, bleibt unberührt.
-
-### § 57c Verordnungsermächtigungen
-
-(1) Das Bundesministerium der Justiz und für Verbraucherschutz regelt im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, weitere Anforderungen an die Schlichtungsstellen nach § 57 und das von den Schlichtungsstellen nach den §§ 57 und 57a zu gewährleistende Schlichtungsverfahren.
-
-(2) Die Rechtsverordnung nach Absatz 1 kann auch die Einzelheiten des Verfahrens nach § 57 Absatz 5 regeln.
-
-(3) Das Bundesministerium der Justiz und für Verbraucherschutz kann im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Beträge nach § 57b Absatz 1 und 2 Satz 1 Nummer 6 an die allgemeine Preissteigerung anpassen, wenn diese seit dem 1. November 2013 oder seit der letzten Anpassung mehr als 10 Prozent beträgt.
-
-### § 57d Verhältnis zum Verbraucherstreitbeilegungsgesetz
-
-Soweit die Vorschriften dieses Unterabschnitts und der nach § 57c erlassenen Rechtsverordnung keine Regelung enthalten, gelten für die Schlichtung von Streitigkeiten über Ansprüche nach § 57b Absatz 1 das Verbraucherstreitbeilegungsgesetz und die auf Grund des § 42 Absatz 1 des Verbraucherstreitbeilegungsgesetzes erlassenen Rechtsverordnungen. Dies gilt auch für die Schlichtung von Streitigkeiten über Ansprüche des Fluggastes nach § 57b Absatz 1, der mit dem Luftfahrtunternehmen nicht vertraglich verbunden ist.
+(weggefallen)
 
 Dritter Abschnitt Straf- und Bußgeldvorschriften
 ------------------------------------------------
@@ -1857,7 +1777,7 @@ Luftfahrthindernisse, die nach § 15 Abs. 2 der Genehmigung bedürfen, ohne Gene
 (weggefallen)
 
 5.  
-ohne Genehmigung nach § 20 Absatz 1 Satz 1 oder nach § 21a Satz 1 ein Luftfahrtunternehmen betreibt,
+ohne die nach § 20 Abs. 1 oder 4 Satz 1 oder § 21a Satz 1 erforderliche Genehmigung Luftfahrtunternehmen betreibt oder Luftfahrzeuge verwendet,
 
 5a.  
 entgegen § 20a Nummer 1 eine Zusatzleistung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig kenntlich macht oder die Entscheidung über eine Zusatzleistung nicht dem Buchenden überlässt,
@@ -1883,11 +1803,8 @@ als Führer eines Luftfahrzeugs entgegen § 25 Abs. 1 Satz 3 Nr. 2 oder 3 starte
 9.  
 sich der Pflicht zur Auskunftserteilung nach § 25 Abs. 2 entzieht,
 
-9a.  
-ohne Genehmigung nach § 25 Absatz 4 Satz 1 eine Landestelle an einer Einrichtung von öffentlichem Interesse nutzt oder einer vollziehbaren Auflage nach § 25 Absatz 4 Satz 2 zuwiderhandelt,
-
 10.  
-einer Rechtsverordnung nach § 32 oder einer vollziehbaren Anordnung oder Auflage auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+einer auf Grund des § 32 erlassenen Rechtsverordnung oder einer auf Grund einer solchen Rechtsverordnung ergangenen vollziehbaren Auflage zuwiderhandelt, wenn die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 11.  
 den schriftlichen vollziehbaren Auflagen einer Erlaubnis nach § 2 Abs. 6 oder 7, § 5 Abs. 1, § 25 Abs. 1, § 27 Abs. 1 oder 2 oder einer Genehmigung nach § 6 Abs. 1, § 15 Abs. 2 Satz 1, § 20 Abs. 1, §§ 21, 22 oder 24 Abs. 1 oder einer Beschränkung nach § 23a zuwiderhandelt,
@@ -1916,21 +1833,12 @@ b)
 c)  
 Artikel 4 Abs. 1 in Verbindung mit Artikel 6 Abs. 1 oder 2 oder Artikel 7 Abs. 1 der Verordnung (EG) Nr. 785/2004 des Europäischen Parlaments und des Rates vom 21. April 2004 über Versicherungsanforderungen an Luftfahrtunternehmen und Luftfahrzeugbetreiber (ABl. EU Nr. L 138 S. 1), soweit nicht die Versicherung zur Deckung der Haftung für die Zerstörung, die Beschädigung und den Verlust von Gütern betroffen ist,
 
-jeweils in Verbindung mit einer Rechtsverordnung nach § 32 Abs. 1 Satz 1 Nr. 12 Satz 1, eine Haftpflichtversicherung nicht unterhält,
+jeweils in Verbindung mit einer Rechtsverordnung nach § 32 Abs. 1 Satz 1 Nr. 12 Satz 1, eine Haftpflichtversicherung nicht unterhält oder
 
 16.  
-entgegen § 64 Absatz 5 Satz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
+entgegen § 64 Absatz 5 Satz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
-17.  
-gegen die Verordnung (EU) Nr. 965/2012 der Kommission vom 5. Oktober 2012 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren in Bezug auf den Flugbetrieb gemäß der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates (ABl. L 296 vom 25.10.2012, S. 1), die zuletzt durch die Verordnung (EU) 2015/1329 (ABl. L 206 vom 1.8.2015, S. 21) geändert worden ist, verstößt, indem er
-
-a)  
-ein Luftverkehrsbetreiberzeugnis nach Anhang III ORO.AOC.100 Buchstabe a der Verordnung (EU) Nr. 965/2012 nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig beantragt oder einholt, oder
-
-b)  
-eine Erklärung nach Anhang III ORO.DEC.100 Buchstabe a, b, d oder e der Verordnung (EU) Nr. 965/2012 nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig abgibt.
-
-(2) Die Ordnungswidrigkeit nach Absatz 1 Nummer 2, 3, 9, 12, 12a und 16 kann mit einer Geldbuße bis zu zehntausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 5 bis 7 und 13 mit einer Geldbuße bis zu dreißigtausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 1, 1a, 4, 8, 8a, 10, 11, 14 und 15 mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+(2) Die Ordnungswidrigkeit nach Absatz 1 Nr. 2, 3, 8a, 9, 12, 12a und 16 kann mit einer Geldbuße bis zu zehntausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nr. 5 bis 7 und 13 mit einer Geldbuße bis zu fünfundzwanzigtausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nr. 1, 4, 8, 10, 11, 14 und 15 mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
 ### § 59
 
@@ -1982,10 +1890,10 @@ wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist, soweit dieses Gesetz nicht von Landesbehörden ausgeführt wird,
 
 1.  
-das Luftfahrt-Bundesamt im Bereich der Aufgaben, die ihm übertragen sind oder für die das Bundesministerium für Verkehr und digitale Infrastruktur zuständig ist, sowie für Ordnungswidrigkeiten nach § 58 Abs. 1 Nr. 15,
+das Luftfahrt-Bundesamt im Bereich der Aufgaben, die ihm übertragen sind oder für die das Bundesministerium für Verkehr, Bau und Stadtentwicklung zuständig ist, sowie für Ordnungswidrigkeiten nach § 58 Abs. 1 Nr. 15,
 
 2.  
-das Bundesministerium für Verkehr und digitale Infrastruktur im Bereich der Aufgaben, die nach den §§ 31a bis 31c den dort genannten natürlichen oder juristischen Personen des privaten Rechts übertragen sind; § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten gilt entsprechend,
+das Bundesministerium für Verkehr, Bau und Stadtentwicklung im Bereich der Aufgaben, die nach den §§ 31a bis 31c den dort genannten natürlichen oder juristischen Personen des privaten Rechts übertragen sind; § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten gilt entsprechend,
 
 3.  
 das Bundesamt für Güterverkehr im Bereich der Vorlage und Untersagung von Beförderungsentgelten nach den §§ 21 und 21a,
@@ -2141,10 +2049,10 @@ a)
 über die Tauglichkeit von Luftfahrtpersonal,
 
 b)  
-über die Ausstellung einer Erlaubnis oder über die Erneuerung oder Verlängerung einer Berechtigung nach den Bestimmungen der Verordnung über Luftfahrtpersonal oder der Verordnung (EU) Nr. 1178/2011,
+über die Ausstellung einer Erlaubnis oder über die Erneuerung oder Verlängerung einer Berechtigung nach den Bestimmungen der Verordnung über Luftfahrtpersonal oder nach den anderen in § 20 Abs. 2 der Luftverkehrs-Zulassungs-Ordnung genannten Bestimmungen,
 
 c)  
-über die Anerkennung einer ausländischen Erlaubnis nach Anhang III der Verordnung (EU) Nr. 1178/2011,
+über die Anerkennung einer ausländischen Erlaubnis nach § 28 oder § 28a der Luftverkehrs-Zulassungs-Ordnung,
 
 d)  
 über das Ergebnis der Überprüfung der Zuverlässigkeit nach § 7 Abs. 1 Nr. 4 des Luftsicherheitsgesetzes durch die Luftsicherheitsbehörden einschließlich des Zeitpunktes der Überprüfung;
@@ -2178,97 +2086,6 @@ für die Überprüfung der Zuverlässigkeit nach § 7 Abs. 1 Nr. 4 des Luftsiche
 (7) Das Luftfahrt-Bundesamt hat die in der Zentralen Luftfahrerdatei gespeicherten personenbezogenen Daten zu löschen, wenn ihre Kenntnis für die Aufgabenerfüllung nicht mehr erforderlich ist. Es prüft bei der Einzelfallbearbeitung und jeweils nach Ablauf von fünf Jahren, ob gespeicherte personenbezogene Daten zu berichtigen oder zu löschen sind. Die Frist beginnt mit dem Tag, an dem das letzte Ereignis eingetreten ist, das zur Speicherung der Daten geführt hat. Die maßgeblichen Gründe für die Aufrechterhaltung der Speicherung des jeweiligen Datensatzes sind aktenkundig zu machen.
 
 (8) Jeder Beauftragte nach § 31c führt eine Datei über die von ihm im Rahmen seiner Zuständigkeiten erteilten Erlaubnisse und Berechtigungen. Die Absätze 2 bis 5 und 7 sind entsprechend anzuwenden.
-
-### § 65a
-
-(1) Das Luftfahrt-Bundesamt führt eine elektronische Datenbank über die in der Bundesrepublik Deutschland nach der Verordnung (EU) Nr. 1178/2011 erteilten Flugbegleiterbescheinigungen (Flugbegleiterdatenbank).
-
-(2) Die Flugbegleiterdatenbank dient der Feststellung, über welche Qualifikationen ein Flugbegleiter oder eine Flugbegleiterin verfügt.
-
-(3) In der Flugbegleiterdatenbank werden folgende Daten gespeichert:
-
-1.  
-Familienname, Vornamen, Staatsangehörigkeit, Geburtsdatum und -ort,
-
-2.  
-Referenznummer, Datum der Erteilung sowie Aussetzung oder Widerruf einer Flugbegleiterbescheinigung,
-
-3.  
-Name und Anschrift der Organisation, welche die Flugbegleiterschulung durchgeführt und die Flugbegleiterbescheinigung ausgestellt hat,
-
-4.  
-Luftfahrzeugmuster- oder Variantenqualifikation nach der Verordnung (EU) Nr. 1178/2011, Anhang V (Teil CC), CC.TRA.225.
-
-(4) Wer Flugbegleiterschulungen durchführt und Flugbegleiterbescheinigungen ausstellt, hat dem Luftfahrt-Bundesamt die Daten nach Absatz 3 zu übermitteln und auf Verlangen zu belegen.
-
-(5) Die Daten nach Absatz 3 Nummer 1 und 2 dürfen durch das Luftfahrt-Bundesamt nur zu dem in Absatz 2 genannten Zweck oder für Verwaltungsmaßnahmen auf Grund der Verordnung (EU) Nr. 1178/2011, Anhang VI (Teil ARA), ARA.CC.100 und ARA.CC.105 sowie Anhang V (Teil CC), CC.CCA.100 genutzt werden. Die Daten nach Absatz 3 Nummer 3 werden vom Luftfahrt-Bundesamt öffentlich bekannt gemacht.
-
-(6) Das Luftfahrt-Bundesamt hat die in der Flugbegleiterdatenbank gespeicherten personenbezogenen Daten zu löschen, wenn ihre Kenntnis für die Aufgabenerfüllung nach den Absätzen 2 und 5 nicht mehr erforderlich ist. Für die Verarbeitung und Nutzung der personenbezogenen Daten finden die §§ 65 und 66, insbesondere hinsichtlich der Fristen zur Speicherung der Daten, entsprechende Anwendung. Die Frist beginnt mit dem Tag, an dem das letzte Ereignis eingetreten ist, das zur Speicherung der Daten geführt hat. Die maßgeblichen Gründe für die Aufrechterhaltung der Speicherung des jeweiligen Datensatzes nach Absatz 3 sind aktenkundig zu machen.
-
-### § 65b Flugmedizinische Datenbank
-
-(1) Das Luftfahrt-Bundesamt führt auf der Grundlage von Anhang VI ARA.MED.150 Buchstabe a der Verordnung (EU) Nr. 1178/2011 eine elektronische Datenbank über durchgeführte flugmedizinische Untersuchungen und Beurteilungen (flugmedizinische Datenbank).
-
-(2) Die flugmedizinische Datenbank dient dazu,
-
-1.  
-die Aufsicht über die Tätigkeit der anerkannten flugmedizinischen Sachverständigen und flugmedizinischen Zentren sicherzustellen,
-
-2.  
-mehrfache Anträge auf Erteilung eines Tauglichkeitszeugnisses bei unterschiedlichen flugmedizinischen Sachverständigen oder flugmedizinischen Zentren zu verhindern,
-
-3.  
-statistische Auswertungen zu ermöglichen,
-
-4.  
-bei einem Wechsel der zuständigen Behörde die medizinischen Berichte nach Anhang I FCL.015 Buchstabe d der Verordnung (EU) Nr. 1178/2011 auf Antrag des Luftfahrzeugführers auf die nach dem Wechsel zuständige Behörde übertragen zu können,
-
-5.  
-die Erfüllung der Aufgaben sicherzustellen, die dem Luftfahrt-Bundesamt nach Anhang IV MED.A.050 und MED.B.001 sowie nach Anhang VI ARA MED.150, 255, 315 und 325 der Verordnung (EU) Nr. 1178/2011 obliegen und
-
-6.  
-die Datenerfassung nach § 65 Absatz 3 Nummer 5 sicherzustellen.
-
-(3) In der flugmedizinischen Datenbank werden gespeichert:
-
-1.  
-eine Kopie jedes Tauglichkeitszeugnisses von Luftfahrern, die über eine in der Bundesrepublik Deutschland erteilte Lizenz verfügen oder sich in der Bundesrepublik Deutschland um eine Lizenz bewerben, einschließlich des Familiennamens, Geburtsnamens, Vornamens, Geburtsortes, Geburtstages und Geschlechts sowie der Anschrift des Inhabers des Tauglichkeitszeugnisses, des Datums der flugmedizinischen Untersuchung, der Referenznummer und der Art des Zeugnisses, der im Zeugnis eingetragenen Auflagen und Einschränkungen sowie der Gültigkeitsdauer des Zeugnisses,
-
-2.  
-personenbezogene Untersuchungsberichte über nicht abgeschlossene Tauglichkeitsuntersuchungen,
-
-3.  
-personenbezogene Untersuchungsberichte im Fall festgestellter Untauglichkeit,
-
-4.  
-Berichte nach Anhang IV MED.A.025 der Verordnung (EU) Nr. 1178/2011, welche die detaillierten medizinischen Ergebnisse der Tauglichkeitsuntersuchung und die Beurteilung des Bewerbers um ein Tauglichkeitszeugnis enthalten (personenbezogene medizinische Befunde),
-
-5.  
-sonstige personenbezogene Vermerke des Luftfahrt-Bundesamtes in Bezug auf die Tauglichkeit,
-
-6.  
-Namen, Anschriften und im Fall einer Anerkennung in der Bundesrepublik Deutschland die Kopie der Anerkennungsurkunde der flugmedizinischen Sachverständigen und flugmedizinischen Zentren, die ein Tauglichkeitszeugnis für Luftfahrer nach Nummer 1 ausgestellt haben und
-
-7.  
-Name, Anschrift und Telefonnummer der für die Erteilung der Erlaubnis für Luftfahrer zuständigen Stelle.
-
-(4) Für die Nutzung und Verarbeitung der in Absatz 3 genannten Daten gilt Anhang VI ARA.MED.150 Buchstabe c der Verordnung (EU) Nr. 1178/2011. Die nach Absatz 3 gespeicherten personenbezogenen Daten sind nach Ablauf von zehn Jahren zu löschen, soweit sie für die Erfüllung der Aufgaben nach Absatz 2 nicht mehr erforderlich sind. Bei Lizenzinhabern beginnt die Frist nach Satz 2 mit Ablauf des Gültigkeitsdatums des zuletzt ausgestellten Tauglichkeitszeugnisses.
-
-(5) Zugriff auf alle nach Absatz 3 gespeicherten Daten der flugmedizinischen Datenbank haben ausschließlich die medizinischen Sachverständigen des Luftfahrt-Bundesamtes und deren Hilfspersonal. Sie unterliegen der ärztlichen Schweigepflicht. Sofern die medizinischen Sachverständigen des Luftfahrt-Bundesamtes feststellen, dass die Tauglichkeit eines Bewerbers um ein Tauglichkeitszeugnis nicht gegeben ist, teilen sie dies der für die Erteilung der Erlaubnis für Luftfahrer zuständigen Stelle mit.
-
-(6) Die flugmedizinischen Sachverständigen und die flugmedizinischen Zentren haben Zugriff auf die nach Absatz 3 Nummer 1 bis 3 und 5 gespeicherten Daten des bei ihnen vorstellig gewordenen Bewerbers um ein Tauglichkeitszeugnis. Sie unterliegen der ärztlichen Schweigepflicht. Den Zugriff auf die nach Absatz 3 Nummer 4 gespeicherten Daten erhalten die flugmedizinischen Sachverständigen und flugmedizinischen Zentren nur dann, wenn der Bewerber um ein Tauglichkeitszeugnis hierzu seine schriftliche Zustimmung erteilt hat.
-
-(7) Die in Absatz 3 genannten Daten werden durch die flugmedizinischen Sachverständigen und die flugmedizinischen Zentren an die medizinischen Sachverständigen des Luftfahrt-Bundesamtes zur Speicherung in der Datenbank nach Absatz 1 übermittelt. Die Übermittlung erfolgt ausschließlich auf elektronischem Weg mittels einer Software, die vom Luftfahrt-Bundesamt kostenfrei zur Verfügung gestellt wird. Die flugmedizinischen Sachverständigen und die flugmedizinischen Zentren sind verpflichtet, diese Software zu nutzen. Die Software und die Datenübertragung müssen gegen den unbefugten Zugriff durch Dritte besonders gesichert sein.
-
-### § 65c Flugmedizinische Sachverständige und flugmedizinische Zentren, Anerkennung und Aufsicht
-
-(1) Das Luftfahrt-Bundesamt ist zuständige Behörde nach Anhang IV MED.A.001 der Verordnung (EU) Nr. 1178/2011. Es erkennt die flugmedizinischen Sachverständigen und die flugmedizinischen Zentren nach Maßgabe der Verordnung (EU) Nr. 1178/2011 an. Die Anerkennung wird erteilt, wenn das Vorliegen der Voraussetzungen nach Anhang IV MED.D.005, MED.D.010 und MED.D.015 oder nach Anhang VII ORA.AeMC.115 der Verordnung (EU) Nr. 1178/2011 nachgewiesen ist.
-
-(2) Das Luftfahrt-Bundesamt führt die Aufsicht über die von ihm anerkannten flugmedizinischen Sachverständigen und flugmedizinischen Zentren. Es prüft, ob die Anerkennungsvoraussetzungen bestehen oder fortbestehen, die erteilten Auflagen eingehalten werden sowie die Tauglichkeitsuntersuchungen nach den Bestimmungen der Verordnung (EU) Nr. 1178/2011 durchgeführt wurden. Die medizinischen Sachverständigen des Luftfahrt-Bundesamtes und deren Hilfspersonal sind hierbei befugt, die Räumlichkeiten von flugmedizinischen Sachverständigen und von flugmedizinischen Zentren zu den üblichen Betriebs- und Geschäftszeiten zu betreten und entsprechende Ermittlungen vorzunehmen. Dabei können sie Einsicht in die medizinischen Befunde des untersuchten Luftfahrtpersonals, einschließlich der für die Feststellung der Tauglichkeit erhobenen medizinischen Befunde, und in die sonstigen medizinischen Unterlagen nehmen. Die flugmedizinischen Sachverständigen und die Leiter der flugmedizinischen Zentren sind verpflichtet, die verlangten Auskünfte zu erteilen, die medizinischen Befunde und die sonstigen medizinischen Unterlagen vorzulegen oder den medizinischen Sachverständigen des Luftfahrt-Bundesamtes auf deren Verlangen zu übersenden sowie die Prüfung dieser Unterlagen und das Betreten von Geschäftsräumen und -grundstücken zu den üblichen Betriebs- und Geschäftszeiten zu dulden. Die Verwendung der nach den Sätzen 4 und 5 erlangten Daten ist nur für den in Satz 2 genannten Zweck zulässig. Nach Abschluss der Prüfung hat das Luftfahrt-Bundesamt alle medizinischen Befunde und sonstigen medizinischen Unterlagen an den flugmedizinischen Sachverständigen oder das flugmedizinische Zentrum zurückzugeben.
-
-(3) Ergeben sich im Rahmen einer Überprüfung nach Absatz 2 Anhaltspunkte, dass einem untauglichen Bewerber ein Tauglichkeitszeugnis ausgestellt wurde, unterrichten die medizinischen Sachverständigen des Luftfahrt-Bundesamtes die für die Erteilung der Erlaubnis für Luftfahrer zuständige Stelle hierüber.
-
-(4) Absatz 3 gilt entsprechend, wenn die medizinischen Sachverständigen des Luftfahrt-Bundesamtes auf andere Weise Kenntnis von Tatbeständen erlangen, die Anlass zu Zweifeln an der Tauglichkeit eines Luftfahrers oder eines Bewerbers um ein Tauglichkeitszeugnis geben.
 
 ### § 66
 
@@ -2430,7 +2247,7 @@ Start- und Zielflugplatz (nur bei Überlandflug).
 
 Die Daten sind im Hauptflugbuch zu speichern.
 
-(2) Die Daten nach Absatz 1 dürfen an das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundesministerium der Verteidigung, die Strafverfolgungs- und Justizbehörden, das Luftfahrt-Bundesamt, die Flugsicherungsorganisation, die für die Untersuchung von Flugunfällen zuständige Behörde, an die zuständigen Zolldienststellen und an die Luftfahrtbehörden der Länder übermittelt werden, wenn dies für die in Absatz 1 genannten Zwecke im Einzelfall erforderlich ist.
+(2) Die Daten nach Absatz 1 dürfen an das Bundesministerium für Verkehr, Bau und Stadtentwicklung, das Bundesministerium der Verteidigung, die Strafverfolgungs- und Justizbehörden, das Luftfahrt-Bundesamt, die Flugsicherungsorganisation, die für die Untersuchung von Flugunfällen zuständige Behörde, an die zuständigen Zolldienststellen und an die Luftfahrtbehörden der Länder übermittelt werden, wenn dies für die in Absatz 1 genannten Zwecke im Einzelfall erforderlich ist.
 
 (3) Die Daten sind im Hauptflugbuch zu löschen, soweit sie zur Erfüllung der in Absatz 1 aufgeführten Aufgaben und Zwecke nicht mehr erforderlich sind, spätestens jedoch nach zwei Jahren. Dies gilt nicht, soweit die nach Absatz 1 erhobenen Daten durch Löschung der letzten drei Buchstaben des Eintragungszeichens anonymisiert worden sind.
 
@@ -2455,17 +2272,11 @@ Fünfter Abschnitt Übergangsregelungen
 
 (3) Die durch das Zweite Gesetz zur Harmonisierung des Haftungsrechts im Luftverkehr vom 5. August 2010 (BGBl. I S. 1126) geänderten §§ 45 bis 47 gelten nicht, wenn der Vertrag, aus dem die Luftbeförderung geschuldet wurde, vor dem 11. August 2010 geschlossen wurde.
 
-(4) Der durch das Gesetz zur Schlichtung im Luftverkehr vom 11. Juni 2013 (BGBl. I S. 1545) eingefügte 5. Unterabschnitt des Zweiten Abschnitts gilt nicht für Ansprüche, die vor dem 1. November 2013 entstanden sind.
-
-(5) Die durch Artikel 21 des Gesetzes zur Umsetzung der Richtlinie über alternative Streitbeilegung in Verbraucherangelegenheiten und zur Durchführung der Verordnung über Online-Streitbeilegung in Verbraucherangelegenheiten vom 19. Februar 2016 (BGBl. I S. 254) geänderten und eingefügten Vorschriften des Zweiten Abschnitts 5. Unterabschnitt gelten nicht für Ansprüche, die vor dem 1. April 2016 entstanden sind.
-
 ### § 73
 
-(1) Beauftragungen nach § 31b Absatz 1 Satz 2 in der Fassung der Bekanntmachung vom 10. Mai 2007 (BGBl. I S. 698) erlöschen mit einer Beauftragung nach § 31f Absatz 1, spätestens mit Ablauf des 31. Dezember 2012. Bis zum Erlöschen der Beauftragungen nach § 31b Absatz 1 Satz 2 in der Fassung der Bekanntmachung vom 10. Mai 2007 (BGBl. I S. 698) arbeiten die Beauftragten nach den Richtlinien des Bundesministeriums für Verkehr und digitale Infrastruktur und unterstehen der Rechts- und Fachaufsicht des Bundesaufsichtsamtes für Flugsicherung. Gegen die Entscheidungen des Beauftragten nach Satz 1 im Rahmen seines Auftrags ist der Widerspruch statthaft. Der Widerspruch hat keine aufschiebende Wirkung. Hilft der Beauftragte nicht ab, entscheidet das Bundesaufsichtsamt für Flugsicherung. Die Klage ist gegen die Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Verkehr und digitale Infrastruktur, zu richten.
+(1) Beauftragungen nach § 31b Absatz 1 Satz 2 in der Fassung der Bekanntmachung vom 10. Mai 2007 (BGBl. I S. 698) erlöschen mit einer Beauftragung nach § 31f Absatz 1, spätestens mit Ablauf des 31. Dezember 2012. Bis zum Erlöschen der Beauftragungen nach § 31b Absatz 1 Satz 2 in der Fassung der Bekanntmachung vom 10. Mai 2007 (BGBl. I S. 698) arbeiten die Beauftragten nach den Richtlinien des Bundesministeriums für Verkehr, Bau und Stadtentwicklung und unterstehen der Rechts- und Fachaufsicht des Bundesaufsichtsamtes für Flugsicherung. Gegen die Entscheidungen des Beauftragten nach Satz 1 im Rahmen seines Auftrags ist der Widerspruch statthaft. Der Widerspruch hat keine aufschiebende Wirkung. Hilft der Beauftragte nicht ab, entscheidet das Bundesaufsichtsamt für Flugsicherung. Die Klage ist gegen die Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Verkehr, Bau und Stadtentwicklung, zu richten.
 
 (2) Werden an einem Flugplatz nach § 27d Absatz 4 die in Absatz 1 genannten Beauftragten nach § 31b Absatz 1 Satz 2 in der Fassung der Bekanntmachung vom 10. Mai 2007 (BGBl. I S. 698) von einem Flugplatzunternehmen oder einem Land einer Flugsicherungsorganisation nach § 31f Absatz 1 zur Wahrnehmung von Aufgaben der Flugsicherung überlassen, gilt dieser Einsatz als Arbeitnehmerüberlassung im Sinne des Arbeitnehmerüberlassungsgesetzes.
-
-(2a) § 31b Absatz 3 Satz 3 ist auch für Wirtschaftsjahre anzuwenden, die vor dem 30. Juni 2013 enden.
 
 (3) Für bereits zum 29. August 2009 tätige Wirtschaftsunternehmen nach § 27c Absatz 2 Satz 3 gilt die nach § 27c Absatz 2 Satz 4 vorgeschriebene Anzeige als erteilt.
 
