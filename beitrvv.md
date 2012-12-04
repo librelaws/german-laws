@@ -2,10 +2,7 @@ Verordnung über die Berechnung, Zahlung, Weiterleitung, Abrechnung und Prüfung
 ===========================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 15 G v. 22.12.2011 I 3057
-
-Hinweis  
-Änderung durch Art. 9 G v. 5.12.2012 I 2474 (Nr. 58) noch nicht berücksichtigt
+Zuletzt geändert durch Art. 9 G v. 5.12.2012 I 2474
 
 ### 
 
@@ -32,7 +29,7 @@ Erster Abschnitt Berechnung des Gesamtsozialversicherungsbeitrages und der Beitr
 
 (1) Beiträge, die der Arbeitgeber und der Beschäftigte je zur Hälfte tragen, werden durch Anwendung des halben Beitragssatzes auf das Arbeitsentgelt und anschließender Verdoppelung des gerundeten Ergebnisses berechnet. Auf Beiträge, die der Arbeitgeber allein trägt, kann Satz 1 entsprechend angewandt werden. Werden Beiträge vom Arbeitgeber und vom Beschäftigten nicht je zur Hälfte getragen, ergibt sich der Beitrag aus der Summe der getrennt berechneten gerundeten Anteile. Beiträge, die vom Beschäftigten allein zu tragen sind, werden durch Anwendung des für diese Beiträge geltenden Beitragssatzes oder Beitragszuschlags auf das Arbeitsentgelt berechnet; Satz 3 zweiter Halbsatz gilt entsprechend. Wird die Mindestbeitragsbemessungsgrundlage des § 163 Abs. 8 des Sechsten Buches Sozialgesetzbuch nicht überschritten, wird der Beitragssatz auf die Mindestbeitragsbemessungsgrundlage angewandt und der vom Arbeitgeber zu tragende Beitragsanteil berechnet und gerundet; durch Abzug des Arbeitgeberanteils vom Beitrag ergibt sich der Beitragsanteil des Beschäftigten.
 
-(2) In den Fällen der Gleitzone wird der vom Arbeitgeber zu zahlende Beitrag durch Anwendung des halben Beitragssatzes auf die beitragspflichtige Einnahme und anschließender Verdoppelung des gerundeten Ergebnisses berechnet. Der vom Arbeitgeber zu tragende Beitragsanteil wird durch Anwendung des halben sich aus der Summe des Beitragssatzes zur gesetzlichen Rentenversicherung, der gesetzlichen Pflegeversicherung, zur Arbeitsförderung und des halben um den vom Arbeitnehmer allein zu tragenden Beitragsanteil reduzierten Beitragssatzes in der gesetzlichen Krankenversicherung ergebenden Beitragssatzes auf das der Beschäftigung zugrunde liegende Arbeitsentgelt berechnet und gerundet. Der Abzug des Arbeitgeberanteils von dem nach Satz 1 errechneten Beitrag ergibt den Beitragsanteil des Beschäftigten. Bei Entgelten bis zu 400 Euro ergibt sich die beitragspflichtige Einnahme durch Anwendung des Faktors F (§ 163 Abs. 10 des Sechsten Buches Sozialgesetzbuch) auf das der Beschäftigung zugrunde liegende Arbeitsentgelt. Vom Beschäftigten allein zu tragende Beitragsanteile werden durch Anwendung des maßgebenden Beitragssatzes oder Beitragszuschlags auf die beitragspflichtige Einnahme berechnet und gerundet.
+(2) In den Fällen der Gleitzone wird der vom Arbeitgeber zu zahlende Beitrag durch Anwendung des halben Beitragssatzes auf die beitragspflichtige Einnahme und anschließender Verdoppelung des gerundeten Ergebnisses berechnet. Der vom Arbeitgeber zu tragende Beitragsanteil wird durch Anwendung des halben sich aus der Summe des Beitragssatzes zur gesetzlichen Rentenversicherung, der gesetzlichen Pflegeversicherung, zur Arbeitsförderung und des halben um den vom Arbeitnehmer allein zu tragenden Beitragsanteil reduzierten Beitragssatzes in der gesetzlichen Krankenversicherung ergebenden Beitragssatzes auf das der Beschäftigung zugrunde liegende Arbeitsentgelt berechnet und gerundet. Der Abzug des Arbeitgeberanteils von dem nach Satz 1 errechneten Beitrag ergibt den Beitragsanteil des Beschäftigten. Bei Entgelten bis zu 450 Euro ergibt sich die beitragspflichtige Einnahme durch Anwendung des Faktors F (§ 163 Abs. 10 des Sechsten Buches Sozialgesetzbuch) auf das der Beschäftigung zugrunde liegende Arbeitsentgelt. Vom Beschäftigten allein zu tragende Beitragsanteile werden durch Anwendung des maßgebenden Beitragssatzes oder Beitragszuschlags auf die beitragspflichtige Einnahme berechnet und gerundet.
 
 Zweiter Abschnitt Zahlungen des Arbeitgebers
 --------------------------------------------
@@ -200,8 +197,14 @@ die Daten der von den Krankenkassen übermittelten Meldungen, die Auswirkungen a
 4.  
 die Erklärung des geringfügig Beschäftigten gegenüber dem Arbeitgeber, dass auf Versicherungsfreiheit in der Rentenversicherung verzichtet wird,
 
+4a.  
+der Antrag auf Befreiung von der Versicherungspflicht nach § 6 Absatz 1b des Sechsten Buches Sozialgesetzbuch, auf dem der Tag des Eingangs beim Arbeitgeber dokumentiert ist,
+
 5.  
 die Erklärung des Beschäftigten gegenüber dem Arbeitgeber, dass auf die Anwendung der Gleitzonenberechnung in der Rentenversicherung verzichtet wird,
+
+5a.  
+die schriftliche Erklärung des Arbeitnehmers gegenüber dem Arbeitgeber, dass die Gleitzonenregelung in der gesetzlichen Rentenversicherung nach § 276b Absatz 2 des Sechsten Buches Sozialgesetzbuch Anwendung finden soll,
 
 6.  
 die Niederschrift nach § 2 des Nachweisgesetzes,
