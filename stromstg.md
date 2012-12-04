@@ -4,6 +4,9 @@ Stromsteuergesetz (StromStG)
 Stand  
 Zuletzt geändert durch Art. 2 G v. 5.12.2012 I 2436, 2725
 
+Hinweis  
+Bek. v. 9.5.2014 I 453 ist berücksichtigt
+
 ### 
 
 ```
@@ -258,6 +261,7 @@ Konformitätsbewertungsstellen, die von der nationalen Akkreditierungsstelle fü
 
 (9) DIN-, DIN EN- und DIN EN ISO-Normen, auf die in diesem Gesetz verwiesen wird, sind in der Beuth Verlag GmbH, Berlin, erschienen und bei der Nationalbibliothek archivmäßig gesichert niedergelegt.
 
+(+++ Hinweis: Feststellung nach § 10 Abs. 3 Satz 1 Nr. 2 Buchst. a u. b für das Antragsjahr 2015 am 21.1.2015 getroffen, vgl. Bek. v. 21.1.2015 I 26 +++)
 § 10 Abs. 3 Nr. 2 Satz 2 (Kursivdruck): Müsste richtigerweise nicht der Nr. 2 zugeordnet und daher noch weiter nach links ausgerückt werden. Der Abs. 3 müsste insgesamt zwei Sätze besitzen: den Satz 1 mit der Untergliederung Nr. 1 u. Nr. 2 (bestehend je aus den Buchst. a u. b) sowie den weiteren Satz 2.
 
 ### § 11 Ermächtigungen
