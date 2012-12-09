@@ -4,6 +4,9 @@ Verordnung zur Ausführung des Gebrauchsmustergesetzes (GebrMV)
 Stand  
 Zuletzt geändert durch Art. 4 V v. 10.12.2012 I 2630
 
+Hinweis  
+Änderung durch Art. 3 V v. 12.12.2018 I 2446 (Nr. 46) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
