@@ -1,12 +1,16 @@
-Gebührenverordnung für Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften (StBGebV)
+Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften (StBVV)
 =======================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 5 G v. 8.4.2008 I 666
+Zuletzt geändert durch Art. 5 V v. 11.12.2012 I 2637
 
 ### 
 
+```
 (+++ Textnachweis ab: 1.4.1982 +++)
+```
+
+Überschrift: Bezeichnung, Kurzbezeichnung u. Abkürzung idF d. Art. 5 Nr. 1 V v. 11.12.2012 I 2637 mWv 20.12.2012
 
 ### Eingangsformel
 
@@ -106,7 +110,7 @@ in den Fällen, in denen diese Verordnung dies vorsieht,
 2.  
 wenn keine genügenden Anhaltspunkte für eine Schätzung des Gegenstandswerts vorliegen; dies gilt nicht für Tätigkeiten nach § 23 sowie für die Vertretung im außergerichtlichen Rechtsbehelfsverfahren (§ 40), im Verwaltungsvollstreckungsverfahren (§ 44) und in gerichtlichen und anderen Verfahren (§§ 45, 46).
 
-Sie beträgt 19 bis 46 Euro je angefangene halbe Stunde.
+Sie beträgt 30 bis 70 Euro je angefangene halbe Stunde.
 
 ### § 14 Pauschalvergütung
 
@@ -196,7 +200,7 @@ Vierter Abschnitt Gebühren für die Beratung und für die Hilfeleistung bei der
 
 ### § 21 Rat, Auskunft, Erstberatung
 
-(1) Für einen mündlichen oder schriftlichen Rat oder eine Auskunft, die nicht mit einer anderen gebührenpflichtigen Tätigkeit zusammenhängt, erhält der Steuerberater eine Gebühr in Höhe von 1 Zehntel bis 10 Zehntel der vollen Gebühr nach Tabelle A (Anlage 1). Beschränkt sich die Tätigkeit nach Satz 1 auf ein erstes Beratungsgespräch und ist der Auftraggeber Verbraucher, so kann der Steuerberater, der erstmals von diesem Ratsuchenden in Anspruch genommen wird, keine höhere Gebühr als 180 Euro fordern. Bezieht sich der Rat oder die Auskunft nur auf steuerstrafrechtliche, bußgeldrechtliche oder sonstige Angelegenheiten, in denen die Gebühren nicht nach dem Gegenstandswert berechnet werden, so beträgt die Gebühr 19 bis 180 Euro. Die Gebühr ist auf eine Gebühr anzurechnen, die der Steuerberater für eine sonstige Tätigkeit erhält, die mit der Raterteilung oder Auskunft zusammenhängt.
+(1) Für einen mündlichen oder schriftlichen Rat oder eine Auskunft, die nicht mit einer anderen gebührenpflichtigen Tätigkeit zusammenhängt, erhält der Steuerberater eine Gebühr in Höhe von 1 Zehntel bis 10 Zehntel der vollen Gebühr nach Tabelle A (Anlage 1). Beschränkt sich die Tätigkeit nach Satz 1 auf ein erstes Beratungsgespräch und ist der Auftraggeber Verbraucher, so kann der Steuerberater, der erstmals von diesem Ratsuchenden in Anspruch genommen wird, keine höhere Gebühr als 190 Euro fordern. Die Gebühr ist auf eine Gebühr anzurechnen, die der Steuerberater für eine sonstige Tätigkeit erhält, die mit der Raterteilung oder Auskunft zusammenhängt.
 
 (2) Wird ein Steuerberater, der mit der Angelegenheit noch nicht befaßt gewesen ist, beauftragt zu prüfen, ob eine Berufung oder Revision Aussicht auf Erfolg hat, so erhält er 13 Zwanzigstel einer Gebühr nach Tabelle E (Anlage 5), wenn er von der Einlegung der Berufung oder Revision abrät und eine Berufung oder Revision durch ihn nicht eingelegt wird. Dies gilt nicht für die in Absatz 1 Satz 3 genannten Angelegenheiten.
 
@@ -216,7 +220,7 @@ Die Gebühr beträgt für
 | 4.  | einen Antrag auf abweichende Steuerfestsetzung aus Billigkeitsgründen                                           | 2/10 bis 8/10  |
 | 5.  | einen Antrag auf Erlaß von Ansprüchen aus dem Steuerschuldverhältnis oder aus zollrechtlichen Bestimmungen      | 2/10 bis 8/10  |
 | 6.  | einen Antrag auf Erstattung (§ 37 Abs. 2 der Abgabenordnung)                                                    | 2/10 bis 8/10  |
-| 7.  | einen Antrag auf Aufhebung oder Änderung eines Steuerbescheides oder auf Aufhebung einer Steueranmeldung        | 2/10 bis 10/10 |
+| 7.  | einen Antrag auf Aufhebung oder Änderung eines Steuerbescheides oder einer Steueranmeldung                      | 2/10 bis 10/10 |
 | 8.  | einen Antrag auf volle oder teilweise Rücknahme oder auf vollen oder teilweisen Widerruf eines Verwaltungsaktes | 4/10 bis 10/10 |
 | 9.  | einen Antrag auf Wiedereinsetzung in den vorigen Stand außerhalb eines Rechtsbehelfsverfahrens                  | 4/10 bis 10/10 |
 | 10. | sonstige Anträge, soweit sie nicht in Steuererklärungen gestellt werden                                         | 2/10 bis 10/10 |
@@ -227,274 +231,57 @@ einer vollen Gebühr nach Tabelle A (Anlage 1). Soweit Tätigkeiten nach den Num
 
 (1) Der Steuerberater erhält für die Anfertigung
 
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>1.</td>
-<td>der Einkommensteuererklärung ohne Ermittlung der einzelnen Einkünfte</td>
-<td>1/10 bis 6/10</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die Summe der positiven Einkünfte, jedoch mindestens 6 000 Euro;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>2.</td>
-<td>der Erklärung zur gesonderten Feststellung der Einkünfte ohne Ermittlung der Einkünfte</td>
-<td>1/10 bis 5/10</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die Summe der positiven Einkünfte, jedoch mindestens 6 000 Euro;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>3.</td>
-<td>der Körperschaftsteuererklärung ohne die Erklärung zur gesonderten Feststellung nach den §§ 27, 28, 37 und 38 des Körperschaftsteuergesetzes</td>
-<td>2/10 bis 8/10</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist das Einkommen vor Berücksichtigung eines Verlustabzugs, jedoch mindestens 12 500 Euro; bei der Anfertigung einer Körperschaftsteuererklärung für eine Organgesellschaft ist das Einkommen der Organgesellschaft vor Zurechnung maßgebend; das entsprechende Einkommen ist bei der Gegenstandsberechnung des Organträgers zu kürzen;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>4.</td>
-<td>der Erklärung zur gesonderten Feststellung nach den §§ 27, 28, 37 und 38 des Körperschaftsteuergesetzes</td>
-<td>1/10 bis 5/10</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die Summe
-<dl>
-<dt>a)</dt>
-<dd>des steuerlichen Einlagenkontos (§ 27 Abs. 2 Satz 1 des Körperschaftsteuergesetzes),
-</dd>
-<dt>b)</dt>
-<dd>des durch Umwandlung von Rücklagen entstandenen Nennkapitals (§ 28 Abs. 1 Satz 3 des Körperschaftsteuergesetzes),
-</dd>
-<dt>c)</dt>
-<dd>des Körperschaftsteuerguthabens (§ 37 Abs. 2 Satz 4 des Körperschaftsteuergesetzes) und
-</dd>
-<dt>d)</dt>
-<dd>des Endbetrags/fortgeschriebenen Endbetrags im Sinne des § 36 Abs. 7 des Körperschaftsteuergesetzes aus dem Teilbetrag im Sinne des § 30 Abs. 2 Nr. 2 des Körperschaftsteuergesetzes in der Fassung des Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) - (§ 38 Abs. 1 Satz 1 und 2 des Körperschaftsteuergesetzes), jedoch mindestens 12 500 Euro;
-</dd>
-</dl></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>5.</td>
-<td>der Erklärung zur Gewerbesteuer</td>
-<td>1/10 bis 6/10</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der Gewerbeertrag vor Berücksichtigung des Freibetrags und eines Gewerbeverlustes, jedoch mindestens 6 000 Euro;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>6.</td>
-<td>der Gewerbesteuerzerlegungserklärung</td>
-<td>1/10 bis 6/10</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 10 Prozent der als Zerlegungsmaßstab erklärten Arbeitslöhne und Betriebseinnahmen, jedoch mindestens 4 000 Euro;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>7.</td>
-<td>der Umsatzsteuer-Voranmeldung</td>
-<td>1/10 bis 6/10</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 10 Prozent der Summe aus dem Gesamtbetrag der Entgelte und der Entgelte, für die der Leistungsempfänger Steuerschuldner ist, jedoch mindestens 500 Euro;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>8.</td>
-<td>der Umsatzsteuererklärung für das Kalenderjahr einschließlich ergänzender Anträge und Meldungen</td>
-<td>1/10 bis 8/10</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 10 Prozent der Summe aus dem Gesamtbetrag der Entgelte und der Entgelte, für die der Leistungsempfänger Steuerschuldner ist, jedoch mindestens 6 000 Euro;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>9.</td>
-<td>der Vermögensaufstellung zur Ermittlung des Einheitswertes des Betriebsvermögens</td>
-<td>1/20 bis 14/20</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist das Rohbetriebsvermögen, jedoch mindestens 12 500 Euro;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>10.</td>
-<td>der Vermögensteuererklärung oder der Erklärung zur gesonderten Feststellung des Vermögens von Gemeinschaften</td>
-<td>1/20 bis 18/20</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist das Rohvermögen, jedoch bei natürlichen Personen mindestens 12 500 Euro und bei Körperschaften, Personenvereinigungen und Vermögensmassen mindestens 25 000 Euro;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>11.</td>
-<td>der Erklärung zur gesonderten Feststellung des gemeinen Wertes nicht notierter Anteile an Kapitalgesellschaften</td>
-<td>1/20 bis 18/20</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die Summe der Anteilswerte, jedoch mindestens 25 000 Euro;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>12.</td>
-<td>der Erbschaftsteuererklärung ohne Ermittlung der Zugewinnausgleichsforderung nach § 5 des Erbschaftsteuergesetzes</td>
-<td>2/10 bis 10/10</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der Wert des Erwerbs von Todes wegen vor Abzug der Schulden und Lasten, jedoch mindestens 12 500 Euro;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>13.</td>
-<td>der Schenkungsteuererklärung</td>
-<td>2/10 bis 10/10</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der Rohwert der Schenkung, jedoch mindestens 12 500 Euro;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>14.</td>
-<td>der Kapitalertragsteuererklärung</td>
-<td>1/20 bis 6/20</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die Summe der kapitalertragsteuerpflichtigen Kapitalerträge, jedoch mindestens 3 000 Euro;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>15.</td>
-<td>der Lohnsteuer-Anmeldung</td>
-<td>1/20 bis 6/20</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 20 Prozent der Arbeitslöhne einschließlich sonstiger Bezüge, jedoch mindestens 1 000 Euro;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>16.</td>
-<td>von Steuererklärungen auf dem Gebiet der Einfuhr- und Ausfuhrabgaben, und der Verbrauchsteuern, die als Einfuhrabgaben erhoben werden,</td>
-<td>1/10 bis 3/10</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der Betrag, der sich bei Anwendung der höchsten in Betracht kommenden Abgabensätze auf die den Gegenstand der Erklärung bildenden Waren ergibt, jedoch mindestens 1 000 Euro;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>17.</td>
-<td>von Anmeldungen oder Erklärungen auf dem Gebiete der Verbrauchsteuern, die nicht als Einfuhrabgaben erhoben werden,</td>
-<td>1/10 bis 3/10</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist für eine Steueranmeldung der angemeldete Betrag und für eine Steuererklärung der festgesetzte Betrag, jedoch mindestens 1 000 Euro;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>18.</td>
-<td>von Anträgen auf Gewährung einer Verbrauchsteuervergütung oder einer einzelgesetzlich geregelten Verbrauchsteuererstattung, sofern letztere nicht in der monatlichen Steuererklärung oder Steueranmeldung geltend zu machen ist,</td>
-<td>1/10 bis 3/10</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die beantragte Vergütung oder Erstattung, jedoch mindestens 1 000 Euro;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>19.</td>
-<td>von Anträgen auf Gewährung einer Investitionszulage</td>
-<td>1/10 bis 6/10</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die Bemessungsgrundlage;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>20.</td>
-<td>von Anträgen auf Steuervergütung nach § 4a des Umsatzsteuergesetzes</td>
-<td>1/10 bis 6/10</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die beantragte Vergütung;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>21.</td>
-<td>von Anträgen auf Vergütung der abziehbaren Vorsteuerbeträge an im Ausland ansässige Unternehmer</td>
-<td>1/10 bis 6/10</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die beantragte Vergütung, jedoch mindestens 1 000 Euro;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>22.</td>
-<td>von Anträgen auf Erstattung von Kapitalertragsteuer und Vergütung der anrechenbaren Körperschaftsteuer</td>
-<td>1/10 bis 6/10</td>
-</tr>
-<tr class="even">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die beantragte Erstattung, jedoch mindestens 1 000 Euro;</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>23.</td>
-<td>von Anträgen nach Abschnitt X des Einkommensteuergesetzes 2/10 bis 10/10 einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist das beantragte Jahreskindergeld;</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>24.</td>
-<td>von Anträgen nach dem Eigenheimzulagengesetz 2/10 bis 10/10 einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die beantragte Eigenheimzulage;</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>25.</td>
-<td>der Anmeldung über den Steuerabzug von Bauleistungen</td>
-<td>1/10 bis 6/10</td>
-</tr>
-<tr class="odd">
-<td>einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der angemeldete Steuerabzugsbetrag (§§ 48 ff. des Einkommensteuergesetzes), jedoch mindestens 1 000 Euro.</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+|                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                  |                                     |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+| 1.                                                                                                                                                                                                                                                                                                                                                                                                     | der Einkommensteuererklärung ohne Ermittlung der einzelnen Einkünfte                                                                                                                                                             | 1/10 bis 6/10                       |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die Summe der positiven Einkünfte, jedoch mindestens 8 000 Euro;                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                  |                                     |
+| 2.                                                                                                                                                                                                                                                                                                                                                                                                     | der Erklärung zur gesonderten Feststellung der Einkünfte ohne Ermittlung der Einkünfte                                                                                                                                           | 1/10 bis 5/10                       |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die Summe der positiven Einkünfte, jedoch mindestens 8 000 Euro;                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                  |                                     |
+| 3.                                                                                                                                                                                                                                                                                                                                                                                                     | der Körperschaftsteuererklärung                                                                                                                                                                                                  | 2/10 bis 8/10                       |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist das Einkommen vor Berücksichtigung eines Verlustabzugs, jedoch mindestens 16 000 Euro; bei der Anfertigung einer Körperschaftsteuererklärung für eine Organgesellschaft ist das Einkommen der Organgesellschaft vor Zurechnung maßgebend; das entsprechende Einkommen ist bei der Gegenstandsberechnung des Organträgers zu kürzen; |                                                                                                                                                                                                                                  |                                     |
+| 4.                                                                                                                                                                                                                                                                                                                                                                                                     | (weggefallen)                                                                                                                                                                                                                    |                                     |
+| 5.                                                                                                                                                                                                                                                                                                                                                                                                     | der Erklärung zur Gewerbesteuer                                                                                                                                                                                                  | 1/10 bis 6/10                       |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der Gewerbeertrag vor Berücksichtigung des Freibetrags und eines Gewerbeverlustes, jedoch mindestens 8 000 Euro;                                                                                                                                                                                                                    |                                                                                                                                                                                                                                  |                                     |
+| 6.                                                                                                                                                                                                                                                                                                                                                                                                     | der Gewerbesteuerzerlegungserklärung                                                                                                                                                                                             | 1/10 bis 6/10                       |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 10 Prozent der als Zerlegungsmaßstab erklärten Arbeitslöhne, jedoch mindestens 4 000 Euro;                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                  |                                     |
+| 7.                                                                                                                                                                                                                                                                                                                                                                                                     | der Umsatzsteuer-Voranmeldung sowie hierzu ergänzender Anträge und Meldungen                                                                                                                                                     | <sup>1</sup>/10 bis <sup>6</sup>/10 |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 10 Prozent der Summe aus dem Gesamtbetrag der Entgelte und der Entgelte, für die der Leistungsempfänger Steuerschuldner ist, jedoch mindestens 650 Euro;                                                                                                                                                                           |                                                                                                                                                                                                                                  |                                     |
+| 8.                                                                                                                                                                                                                                                                                                                                                                                                     | der Umsatzsteuererklärung für das Kalenderjahr einschließlich ergänzender Anträge und Meldungen                                                                                                                                  | 1/10 bis 8/10                       |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 10 Prozent der Summe aus dem Gesamtbetrag der Entgelte und der Entgelte, für die der Leistungsempfänger Steuerschuldner ist, jedoch mindestens 8 000 Euro;                                                                                                                                                                         |                                                                                                                                                                                                                                  |                                     |
+| 9.                                                                                                                                                                                                                                                                                                                                                                                                     | (weggefallen)                                                                                                                                                                                                                    |                                     |
+| 10.                                                                                                                                                                                                                                                                                                                                                                                                    | der Vermögensteuererklärung oder der Erklärung zur gesonderten Feststellung des Vermögens von Gemeinschaften                                                                                                                     | 1/20 bis 18/20                      |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist das Rohvermögen, jedoch bei natürlichen Personen mindestens 12 500 Euro und bei Körperschaften, Personenvereinigungen und Vermögensmassen mindestens 25 000 Euro;                                                                                                                                                                   |                                                                                                                                                                                                                                  |                                     |
+| 11.                                                                                                                                                                                                                                                                                                                                                                                                    | der Erklärung zur Feststellung nach dem Bewertungsgesetz oder dem Erbschaftsteuer- und Schenkungsteuergesetz                                                                                                                     |                                     |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der erklärte Wert, jedoch mindestens 25 000 Euro;                                                                                                                                                                                                                                                                                   | <sup>1</sup>/20 bis <sup>18</sup>/20                                                                                                                                                                                             |                                     |
+| 12.                                                                                                                                                                                                                                                                                                                                                                                                    | der Erbschaftsteuererklärung ohne Ermittlung der Zugewinnausgleichsforderung nach § 5 des Erbschaftsteuergesetzes                                                                                                                | 2/10 bis 10/10                      |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der Wert des Erwerbs von Todes wegen vor Abzug der Schulden und Lasten, jedoch mindestens 16 000 Euro;                                                                                                                                                                                                                              |                                                                                                                                                                                                                                  |                                     |
+| 13.                                                                                                                                                                                                                                                                                                                                                                                                    | der Schenkungsteuererklärung                                                                                                                                                                                                     | 2/10 bis 10/10                      |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der Rohwert der Schenkung, jedoch mindestens 16 000 Euro;                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                  |                                     |
+| 14.                                                                                                                                                                                                                                                                                                                                                                                                    | der Kapitalertragsteueranmeldung sowie für jede weitere Erklärung in Zusammenhang mit Kapitalerträgen                                                                                                                            | <sup>1</sup>/20 bis <sup>6</sup>/20 |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die Summe der kapitalertragsteuerpflichtigen Kapitalerträge, jedoch mindestens 4 000 Euro;                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                  |                                     |
+| 15.                                                                                                                                                                                                                                                                                                                                                                                                    | der Lohnsteuer-Anmeldung                                                                                                                                                                                                         | 1/20 bis 6/20                       |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 20 Prozent der Arbeitslöhne einschließlich sonstiger Bezüge, jedoch mindestens 1 000 Euro;                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                  |                                     |
+| 16.                                                                                                                                                                                                                                                                                                                                                                                                    | von Steuererklärungen auf dem Gebiet der Einfuhr- und Ausfuhrabgaben, und der Verbrauchsteuern, die als Einfuhrabgaben erhoben werden,                                                                                           | 1/10 bis 3/10                       |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der Betrag, der sich bei Anwendung der höchsten in Betracht kommenden Abgabensätze auf die den Gegenstand der Erklärung bildenden Waren ergibt, jedoch mindestens 1 000 Euro;                                                                                                                                                       |                                                                                                                                                                                                                                  |                                     |
+| 17.                                                                                                                                                                                                                                                                                                                                                                                                    | von Anmeldungen oder Erklärungen auf dem Gebiete der Verbrauchsteuern, die nicht als Einfuhrabgaben geschuldet werden,                                                                                                           | 1/10 bis 3/10                       |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist für eine Steueranmeldung der angemeldete Betrag und für eine Steuererklärung der festgesetzte Betrag, jedoch mindestens 1 000 Euro;                                                                                                                                                                                                 |                                                                                                                                                                                                                                  |                                     |
+| 18.                                                                                                                                                                                                                                                                                                                                                                                                    | von Anträgen auf Gewährung einer Verbrauchsteuervergütung oder einer einzelgesetzlich geregelten Verbrauchsteuererstattung, sofern letztere nicht in der monatlichen Steuererklärung oder Steueranmeldung geltend zu machen ist, | 1/10 bis 3/10                       |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die beantragte Vergütung oder Erstattung, jedoch mindestens 1 000 Euro;                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                  |                                     |
+| 19.                                                                                                                                                                                                                                                                                                                                                                                                    | von Anträgen auf Gewährung einer Investitionszulage                                                                                                                                                                              | 1/10 bis 6/10                       |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die Bemessungsgrundlage;                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                  |                                     |
+| 20.                                                                                                                                                                                                                                                                                                                                                                                                    | von Anträgen auf Steuervergütung nach § 4a des Umsatzsteuergesetzes                                                                                                                                                              | 1/10 bis 6/10                       |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die beantragte Vergütung;                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                  |                                     |
+| 21.                                                                                                                                                                                                                                                                                                                                                                                                    | von Anträgen auf Vergütung der abziehbaren Vorsteuerbeträge                                                                                                                                                                      | 1/10 bis 6/10                       |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die beantragte Vergütung, jedoch mindestens 1 300 Euro;                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                  |                                     |
+| 22.                                                                                                                                                                                                                                                                                                                                                                                                    | von Anträgen auf Erstattung von Kapitalertragsteuer und Vergütung der anrechenbaren Körperschaftsteuer                                                                                                                           | 1/10 bis 6/10                       |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die beantragte Erstattung, jedoch mindestens 1 000 Euro;                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                  |                                     |
+| 23.                                                                                                                                                                                                                                                                                                                                                                                                    | von Anträgen nach Abschnitt X des Einkommensteuergesetzes 2/10 bis 10/10 einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist das beantragte Jahreskindergeld;                                                     |                                     |
+|                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                  |                                     |
+| 24.                                                                                                                                                                                                                                                                                                                                                                                                    | (weggefallen)                                                                                                                                                                                                                    |                                     |
+| 25.                                                                                                                                                                                                                                                                                                                                                                                                    | der Anmeldung über den Steuerabzug von Bauleistungen                                                                                                                                                                             | 1/10 bis 6/10                       |
+| einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der angemeldete Steuerabzugsbetrag (§§ 48 ff. des Einkommensteuergesetzes), jedoch mindestens 1 000 Euro;                                                                                                                                                                                                                           |                                                                                                                                                                                                                                  |                                     |
+| 26.                                                                                                                                                                                                                                                                                                                                                                                                    | für die Erstellung sonstiger Steuererklärungen                                                                                                                                                                                   |                                     |
+|                                                                                                                                                                                                                                                                                                                                                                                                        | einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die jeweilige Bemessungsgrundlage, jedoch mindestens 8 000 Euro.                                                                                              | <sup>1</sup>/10 bis <sup>6</sup>/10 |
 
 (2) Für die Ermittlung der Zugewinnausgleichsforderung nach § 5 des Erbschaftsteuergesetzes erhält der Steuerberater 5 Zehntel bis 15 Zehntel einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der ermittelte Betrag, jedoch mindestens 12 500 Euro.
 
@@ -503,7 +290,7 @@ einer vollen Gebühr nach Tabelle A (Anlage 1). Soweit Tätigkeiten nach den Num
 (4) Der Steuerberater erhält die Zeitgebühr
 
 1.  
-für die Anfertigung einer Erklärung zur Hauptfeststellung, Fortschreibung oder Nachfeststellung der Einheitswerte für Grundbesitz oder einer Feststellungserklärung nach § 138 des Bewertungsgesetzes;
+(weggefallen)
 
 2.  
 für Arbeiten zur Feststellung des verrechenbaren Verlustes gemäß § 15a des Einkommensteuergesetzes;
@@ -512,31 +299,37 @@ für Arbeiten zur Feststellung des verrechenbaren Verlustes gemäß § 15a des E
 für die Anfertigung einer Meldung über die Beteiligung an ausländischen Körperschaften, Vermögensmassen und Personenvereinigungen und an ausländischen Personengesellschaften;
 
 4.  
-für die Anfertigung eines Erstattungsantrages nach § 50 Abs. 5 Satz 2 Nr. 3 des Einkommensteuergesetzes;
+(weggefallen)
 
 5.  
-für die Anfertigung einer Anmeldung nach § 50a Abs. 5 des Einkommensteuergesetzes, § 73e der Einkommensteuer-Durchführungsverordnung;
+für sonstige Anträge und Meldungen nach dem Einkommensteuergesetz;
 
 6.  
-für die Anfertigung eines Antrags auf Erteilung einer Freistellungsbescheinigung nach § 48b des Einkommensteuergesetzes;
+(weggefallen)
 
 7.  
-für die Anfertigung eines Antrags auf Altersvorsorgezulage nach § 89 des Einkommensteuergesetzes;
+(weggefallen)
 
 8.  
-für die Anfertigung eines Antrags auf Festsetzung der Zulage nach § 90 Abs. 4 des Einkommensteuergesetzes;
+(weggefallen)
 
 9.  
-für die Anfertigung eines Antrags auf Verwendung für eine eigenen Wohnzwecken dienende Wohnung im eigenen Haus nach den §§ 92a, 92b Abs. 1 des Einkommensteuergesetzes;
+(weggefallen)
 
 10.  
-für die Anfertigung eines Antrags auf Festsetzung des Rückzahlungsbetrags nach § 94 Abs. 2 des Einkommensteuergesetzes;
+(weggefallen)
 
 11.  
 für die Anfertigung eines Antrags auf Stundung nach § 95 Abs. 2 des Einkommensteuergesetzes;
 
 12.  
 für die Anfertigung eines Antrags auf Gewährung der Zulage nach Neubegründung der unbeschränkten Steuerpflicht nach § 95 Abs. 3 des Einkommensteuergesetzes.
+
+11.  
+(doppelt) für die Überwachung und Meldung der Lohnsumme sowie der Behaltensfrist im Sinne von § 13a Absatz 1 in Verbindung mit Absatz 6 Satz 1, Absatz 5 in Verbindung mit Absatz 6 Satz 2 des Erbschaftsteuer- und Schenkungsteuergesetzes;
+
+12.  
+(doppelt) für die Berechnung des Begünstigungsgewinnes im Sinne von § 34a Absatz 1 Satz 1 des Einkommensteuergesetzes (Begünstigung der nicht entnommenen Gewinne).
 
 ### § 25 Ermittlung des Überschusses der Betriebseinnahmen über die Betriebsausgaben
 
@@ -556,11 +349,11 @@ für die Anfertigung eines Antrags auf Gewährung der Zulage nach Neubegründung
 
 ### § 27 Ermittlung des Überschusses der Einnahmen über die Werbungskosten
 
-(1) Die Gebühr für die Ermittlung des Überschusses der Einnahmen über die Werbungskosten bei den Einkünften aus nichtselbständiger Arbeit, Kapitalvermögen, Vermietung und Verpachtung oder sonstigen Einkünften beträgt 1 Zwanzigstel bis 12 Zwanzigstel einer vollen Gebühr nach Tabelle A (Anlage 1). Gegenstandswert ist der jeweils höhere Betrag, der sich aus der Summe der Einnahmen oder der Summe der Werbungskosten ergibt, jedoch mindestens 6.000 Euro.
+(1) Die Gebühr für die Ermittlung des Überschusses der Einnahmen über die Werbungskosten bei den Einkünften aus nichtselbständiger Arbeit, Kapitalvermögen, Vermietung und Verpachtung oder sonstigen Einkünften beträgt 1 Zwanzigstel bis 12 Zwanzigstel einer vollen Gebühr nach Tabelle A (Anlage 1). Gegenstandswert ist der jeweils höhere Betrag, der sich aus der Summe der Einnahmen oder der Summe der Werbungskosten ergibt, jedoch mindestens 8 000 Euro.
 
 (2) Beziehen sich die Einkünfte aus Vermietung und Verpachtung auf mehrere Grundstücke oder sonstige Wirtschaftsgüter und ist der Überschuß der Einnahmen über die Werbungskosten jeweils getrennt zu ermitteln, so erhält der Steuerberater die Gebühr nach Absatz 1 für jede Überschußrechnung.
 
-(3) (weggefallen)
+(3) Für Vorarbeiten, die über das übliche Maß erheblich hinausgehen, erhält der Steuerberater die Zeitgebühr.
 
 ### § 28 Prüfung von Steuerbescheiden
 
@@ -578,7 +371,9 @@ für schriftliche Einwendungen gegen den Prüfungsbericht 5 Zehntel bis 10 Zehnt
 
 ### § 30 Selbstanzeige
 
-Für die Tätigkeit im Verfahren der Selbstanzeige (§§ 371 und 378 Abs. 3 der Abgabenordnung) einschließlich der Ermittlungen zur Berichtigung, Ergänzung oder Nachholung der Angaben erhält der Steuerberater 10 Zehntel bis 30 Zehntel einer vollen Gebühr nach Tabelle A (Anlage 1).
+(1) Für die Tätigkeit im Verfahren der Selbstanzeige (§§ 371 und 378 Absatz 3 der Abgabenordnung) einschließlich der Ermittlungen zur Berichtigung, Ergänzung oder Nachholung der Angaben erhält der Steuerberater 10/10 bis 30/10 einer vollen Gebühr nach Tabelle A (Anlage 1).
+
+(2) Der Gegenstandswert bestimmt sich nach der Summe der berichtigten, ergänzten und nachgeholten Angaben, er beträgt jedoch mindestens 8 000 Euro.
 
 ### § 31 Besprechungen
 
@@ -593,47 +388,47 @@ Fünfter Abschnitt Gebühren für die Hilfeleistung bei der Erfüllung steuerlic
 
 ### § 32 Einrichtung einer Buchführung
 
-Für die Hilfeleistung bei der Einrichtung einer Buchführung erhält der Steuerberater die Zeitgebühr.
+Für die Hilfeleistung bei der Einrichtung einer Buchführung im Sinne der §§ 33 und 34 erhält der Steuerberater die Zeitgebühr.
 
 ### § 33 Buchführung
 
-|     |                                                                                       |                |
-|-----|---------------------------------------------------------------------------------------|----------------|
-| (1) | Für die Buchführung einschließlich des Kontierens der Belege beträgt die Monatsgebühr | 2/10 bis 12/10 |
-|     | einer vollen Gebühr nach Tabelle C (Anlage 3).                                        |                |
+|     |                                                                                                                                   |                |
+|-----|-----------------------------------------------------------------------------------------------------------------------------------|----------------|
+| (1) | Für die Buchführung oder das Führen steuerlicher Aufzeichnungen einschließlich des Kontierens der Belege beträgt die Monatsgebühr | 2/10 bis 12/10 |
+|     | einer vollen Gebühr nach Tabelle C (Anlage 3).                                                                                    |                |
 
 |     |                                                       |               |
 |-----|-------------------------------------------------------|---------------|
 | (2) | Für das Kontieren der Belege beträgt die Monatsgebühr | 1/10 bis 6/10 |
 |     | einer vollen Gebühr nach Tabelle C (Anlage 3).        |               |
 
-|     |                                                                                                                             |               |
-|-----|-----------------------------------------------------------------------------------------------------------------------------|---------------|
-| (3) | Für die Buchführung nach vom Auftraggeber kontierten Belegen oder erstellten Kontierungsunterlagen beträgt die Monatsgebühr | 1/10 bis 6/10 |
-|     | einer vollen Gebühr nach Tabelle C (Anlage 3).                                                                              |               |
+|     |                                                                                                                                                                         |               |
+|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| (3) | Für die Buchführung oder das Führen steuerlicher Aufzeichnungen nach vom Auftraggeber kontierten Belegen oder erstellten Kontierungsunterlagen beträgt die Monatsgebühr | 1/10 bis 6/10 |
+|     | einer vollen Gebühr nach Tabelle C (Anlage 3).                                                                                                                          |               |
 
-(4) Für die Buchführung nach vom Auftraggeber erstellten Eingaben für die Datenverarbeitung und mit beim Auftraggeber eingesetzten Datenverarbeitungsprogrammen des Steuerberaters erhält der Steuerberater neben der Vergütung für die Datenverarbeitung und für den Einsatz der Datenverarbeitungsprogramme eine Monatsgebühr von 1/20 bis 10/20 einer vollen Gebühr nach Tabelle C (Anlage 3).
+(4) Für die Buchführung oder das Führen steuerlicher Aufzeichnungen nach vom Auftraggeber erstellten Eingaben für die Datenverarbeitung und mit beim Auftraggeber eingesetzten Datenverarbeitungsprogrammen des Steuerberaters erhält der Steuerberater neben der Vergütung für die Datenverarbeitung und für den Einsatz der Datenverarbeitungsprogramme eine Monatsgebühr von 1/20 bis 10/20 einer vollen Gebühr nach Tabelle C (Anlage 3).
 
-|     |                                                                                         |               |
-|-----|-----------------------------------------------------------------------------------------|---------------|
-| (5) | Für die laufende Überwachung der Buchführung des Auftraggebers beträgt die Monatsgebühr | 1/10 bis 6/10 |
-|     | einer vollen Gebühr nach Tabelle C (Anlage 3).                                          |               |
+|     |                                                                                                                              |               |
+|-----|------------------------------------------------------------------------------------------------------------------------------|---------------|
+| (5) | Für die laufende Überwachung der Buchführung oder der steuerlichen Aufzeichnungen des Auftraggebers beträgt die Monatsgebühr | 1/10 bis 6/10 |
+|     | einer vollen Gebühr nach Tabelle C (Anlage 3).                                                                               |               |
 
 (6) Gegenstandswert ist der jeweils höchste Betrag, der sich aus dem Jahresumsatz oder aus der Summe des Aufwandes ergibt.
 
-(7) Für die Hilfeleistung bei sonstigen Tätigkeiten im Zusammenhang mit der Buchführung erhält der Steuerberater die Zeitgebühr.
+(7) Für die Hilfeleistung bei sonstigen Tätigkeiten im Zusammenhang mit der Buchführung oder das Führen steuerlicher Aufzeichnungen erhält der Steuerberater die Zeitgebühr.
 
 (8) Mit der Gebühr nach den Absätzen 1, 3 und 4 sind die Gebühren für die Umsatzsteuervoranmeldung (§ 24 Abs. 1 Nr. 7) abgegolten.
 
 ### § 34 Lohnbuchführung
 
-(1) Für die erstmalige Einrichtung von Lohnkonten und die Aufnahme der Stammdaten erhält der Steuerberater eine Gebühr von 2,60 bis 9 Euro je Arbeitnehmer.
+(1) Für die erstmalige Einrichtung von Lohnkonten und die Aufnahme der Stammdaten erhält der Steuerberater eine Gebühr von 5 bis 16 Euro je Arbeitnehmer.
 
-(2) Für die Führung von Lohnkonten und die Anfertigung der Lohnabrechnung erhält der Steuerberater eine Gebühr von 2,60 bis 15 Euro je Arbeitnehmer und Abrechnungszeitraum.
+(2) Für die Führung von Lohnkonten und die Anfertigung der Lohnabrechnung erhält der Steuerberater eine Gebühr von 5 bis 25 Euro je Arbeitnehmer und Abrechnungszeitraum.
 
-(3) Für die Führung von Lohnkonten und die Anfertigung der Lohnabrechnung nach vom Auftraggeber erstellten Buchungsunterlagen erhält der Steuerberater eine Gebühr von 1 bis 5 Euro je Arbeitnehmer und Abrechnungszeitraum.
+(3) Für die Führung von Lohnkonten und die Anfertigung der Lohnabrechnung nach vom Auftraggeber erstellten Buchungsunterlagen erhält der Steuerberater eine Gebühr von 2 bis 9 Euro je Arbeitnehmer und Abrechnungszeitraum.
 
-(4) Für die Führung von Lohnkonten und die Anfertigung der Lohnabrechnung nach vom Auftraggeber erstellten Eingaben für die Datenverarbeitung und mit beim Auftraggeber eingesetzten Datenverarbeitungsprogrammen des Steuerberaters erhält der Steuerberater neben der Vergütung für die Datenverarbeitung und für den Einsatz der Datenverarbeitungsprogramme eine Gebühr von 0,50 bis 2,60 Euro je Arbeitnehmer und Abrechnungszeitraum.
+(4) Für die Führung von Lohnkonten und die Anfertigung der Lohnabrechnung nach vom Auftraggeber erstellten Eingaben für die Datenverarbeitung und mit beim Auftraggeber eingesetzten Datenverarbeitungsprogrammen des Steuerberaters erhält der Steuerberater neben der Vergütung für die Datenverarbeitung und für den Einsatz der Datenverarbeitungsprogramme eine Gebühr von 1 bis 4 Euro je Arbeitnehmer und Abrechnungszeitraum.
 
 (5) Für die Hilfeleistung bei sonstigen Tätigkeiten im Zusammenhang mit dem Lohnsteuerabzug und der Lohnbuchführung erhält der Steuerberater die Zeitgebühr.
 
@@ -648,12 +443,12 @@ Für die Hilfeleistung bei der Einrichtung einer Buchführung erhält der Steuer
 |-----|----------------------------------------------------------------------------------|-----------------|
 | a)  | die Aufstellung eines Jahresabschlusses (Bilanz und Gewinn- und Verlustrechnung) | 10/10 bis 40/10 |
 | b)  | die Erstellung eines Anhangs                                                     | 2/10 bis 12/10  |
-| c)  | die Erstellung eines Lageberichts                                                | 2/10 bis 12/10  |
+| c)  | (weggefallen)                                                                    |                 |
 
 2.  
-|     |                                                                                                                       |                |
-|-----|-----------------------------------------------------------------------------------------------------------------------|----------------|
-|     | die Aufstellung eines Zwischenabschlusses oder eines vorläufigen Abschlusses (Bilanz und Gewinn- und Verlustrechnung) | 5/10 bis 12/10 |
+|     |                                                                                                                       |                 |
+|-----|-----------------------------------------------------------------------------------------------------------------------|-----------------|
+|     | die Aufstellung eines Zwischenabschlusses oder eines vorläufigen Abschlusses (Bilanz und Gewinn- und Verlustrechnung) | 10/10 bis 40/10 |
 
 3.  
 |     |                                                                          |                |
@@ -684,16 +479,16 @@ Für die Hilfeleistung bei der Einrichtung einer Buchführung erhält der Steuer
 | c)  | die beratende Mitwirkung bei der Erstellung eines Lageberichts                                                | 2/10 bis 4/10  |
 
 8.  
-|     |                                                                                                                                                      |               |
-|-----|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-|     | die Zusammenstellung eines Jahresabschlusses (Bilanz und Gewinn- und Verlustrechnung) aus übergebenen Endzahlen (ohne Vornahme von Prüfungsarbeiten) | 2/10 bis 6/10 |
+|     |               |     |
+|-----|---------------|-----|
+|     | (weggefallen) |     |
 
 einer vollen Gebühr nach Tabelle B (Anlage 2).
 
 (2) Gegenstandswert ist
 
 1.  
-in den Fällen des Absatzes 1 Nr. 1 bis 3, 7 und 8 das Mittel zwischen der berichtigten Bilanzsumme und der betrieblichen Jahresleistung;
+in den Fällen des Absatzes 1 Nummer 1 bis 3 und 7 das Mittel zwischen der berichtigten Bilanzsumme und der betrieblichen Jahresleistung;
 
 2.  
 in den Fällen des Absatzes 1 Nr. 4 und 5 die berichtigte Bilanzsumme;
@@ -712,10 +507,10 @@ Die berichtigte Bilanzsumme ergibt sich aus der Summe der Posten der Aktivseite 
 (2) Der Steuerberater erhält
 
 1.  
-für die Prüfung einer Bilanz, einer Gewinn- und Verlustrechnung, eines Anhangs, eines Lageberichts oder einer sonstigen Vermögensrechnung für steuerliche Zwecke 2/10 bis 10/10 einer vollen Gebühr nach Tabelle B (Anlage 2) sowie die Zeitgebühr;
+für die Prüfung einer Bilanz, einer Gewinn- und Verlustrechnung, eines Anhangs, eines Lageberichts oder einer sonstigen Vermögensrechnung für steuerliche Zwecke 2/10 bis 10/10 einer vollen Gebühr nach Tabelle B (Anlage 2) sowie die Zeitgebühr; der Gegenstandswert bemisst sich nach § 35 Absatz 2;
 
 2.  
-für die Berichterstattung über eine Tätigkeit nach Nummer 1 die Zeitgebühr. Der Gegenstandswert bemißt sich nach § 35 Abs. 2.
+für die Berichterstattung über eine Tätigkeit nach Nummer 1 die Zeitgebühr.
 
 ### § 37 Vermögensstatus, Finanzstatus für steuerliche Zwecke
 
@@ -835,7 +630,7 @@ Siebenter Abschnitt Gerichtliche und andere Verfahren
 
 ### § 45 Vergütung in gerichtlichen und anderen Verfahren
 
-Auf die Vergütung des Steuerberaters im Verfahren vor den Gerichten der Finanzgerichtsbarkeit und der Verwaltungsgerichtsbarkeit, im Strafverfahren, berufsgerichtlichen Verfahren, Bußgeldverfahren und in Gnadensachen sind die Vorschriften des Rechtsanwaltsvergütungsgesetzes sinngemäß anzuwenden.
+Auf die Vergütung des Steuerberaters im Verfahren vor den Gerichten der Finanzgerichtsbarkeit, der Sozialgerichtsbarkeit und der Verwaltungsgerichtsbarkeit, im Strafverfahren, berufsgerichtlichen Verfahren, Bußgeldverfahren und in Gnadensachen sind die Vorschriften des Rechtsanwaltsvergütungsgesetzes sinngemäß anzuwenden.
 
 ### § 46 Vergütung bei Prozeßkostenhilfe
 
@@ -874,1462 +669,1453 @@ Diese Verordnung tritt am 1. April 1982 in Kraft.
 
 Der Bundesminister der Finanzen
 
-### Anlage 1 Tabelle A (Beratungstabelle)
+### Anlage 1 Tabelle A(Beratungstabelle)
 
-(Fundstelle: BGBl. I 2001, 766)
+(Fundstelle: BGBl. I 2012, 2642 - 2643)
 
-Gegenstandswert Euro
+Gegenstandswert bis … Euro
 
-volle Gebühr (10/10) Euro
+Volle Gebühr (<sup>10</sup>/10) Euro
 
-bis 300
+    300
 
-25
+   26
 
-bis 600
+    600
 
-45
+   47
 
-bis 900
+    900
 
-65
+   68
 
-bis 1.200
+  1 200
 
-85
+   89
 
-bis 1.500
+  1 500
 
-105
+  110
 
-bis 2.000
+  2 000
 
-133
+  140
 
-bis 2.500
+  2 500
 
-161
+  169
 
-bis 3.000
+  3 000
 
-189
+  198
 
-bis 3.500
+  3 500
 
-217
+  228
 
-bis 4.000
+  4 000
 
-245
+  257
 
-bis 4.500
+  4 500
 
-273
+  287
 
-bis 5.000
+  5 000
 
-301
+  316
 
-bis 6.000
+  6 000
 
-338
+  355
 
-bis 7.000
+  7 000
 
-375
+  394
 
-bis 8.000
+  8 000
 
-412
+  433
 
-bis 9.000
+  9 000
 
-449
+  471
 
-bis 10.000
+ 10 000
 
-486
+  510
 
-bis 13.000
+ 13 000
 
-526
+  552
 
-bis 16.000
+ 16 000
 
-566
+  594
 
-bis 19.000
+ 19 000
 
-606
+  636
 
-bis 22.000
+ 22 000
 
-646
+  678
 
-bis 25.000
+ 25 000
 
-686
+  720
 
-bis 30.000
+ 30 000
 
-758
+  796
 
-bis 35.000
+ 35 000
 
-830
+  872
 
-bis 40.000
+ 40 000
 
-902
+  947
 
-bis 45.000
+ 45 000
 
-974
+1 023
 
-bis 50.000
+ 50 000
 
-1.046
+1 098
 
-bis 65.000
+ 65 000
 
-1.123
+1 179
 
-bis 80.000
+ 80 000
 
-1.200
+1 260
 
-bis 95.000
+ 95 000
 
-1.277
+1 341
 
-bis 110.000
+110 000
 
-1.354
+1 422
 
-bis 125.000
+125 000
 
-1.431
+1 503
 
-bis 140.000
+140 000
 
-1.508
+1 583
 
-bis 155.000
+155 000
 
-1.585
+1 664
 
-bis 170.000
+170 000
 
-1.662
+1 745
 
-bis 185.000
+185 000
 
-1.739
+1 826
 
-bis 200.000
+200 000
 
-1.816
+1 907
 
-bis 230.000
+230 000
 
-1.934
+2 031
 
-bis 260.000
+260 000
 
-2.052
+2 155
 
-bis 290.000
+290 000
 
-2.170
+2 279
 
-bis 320.000
+320 000
 
-2.293
+2 408
 
-bis 350.000
+350 000
 
-2.347
+2 464
 
-bis 380.000
+380 000
 
-2.399
+2 519
 
-bis 410.000
+410 000
 
-2.450
+2 573
 
-bis 440.000
+440 000
 
-2.499
+2 624
 
-bis 470.000
+470 000
 
-2.547
+2 674
 
-bis 500.000
+500 000
 
-2.594
+2 724
 
-bis 550.000
+550 000
 
-2.663
+2 796
 
-bis 600.000
+600 000
 
-2.730
+2 867
 
-vom Mehrbetrag bis 5.000.000 Euro
+     vom Mehrbetrag
+      bis 5 000 000 Euro
+           je angefangene 50 000 Euro
 
-je angefangene 50.000 Euro
+  126
 
-120
+     vom Mehrbetrag
+      über 5 000 000 Euro
+      bis 25 000 000 Euro
+         je angefangene 50 000 Euro
 
-vom Mehrbetrag über 5.000.000 Euro bis 25.000.000 Euro
+   95
 
-je angefangene 50.000 Euro
+      vom Mehrbetrag
+      über 25 000 000 Euro
+         je angefangene 50 000 Euro
 
-90
+   74
 
-vom Mehrbetrag über 25.000.000 Euro
+### Anlage 2 Tabelle B(Abschlusstabelle)
 
-je angefangene 50.000 Euro
+(Fundstelle: BGBl. I 2012, 2644 -2645)
 
-70
+Gegenstandswert bis … Euro
 
-### Anlage 2 Tabelle B (Abschlusstabelle)
+Volle Gebühr (<sup>10</sup>/10) Euro
 
-(Fundstelle: BGBl. I 2001, 767)
+     3 000
 
-Gegenstandswert Euro
+   41
 
-volle Gebühr (10/10) Euro
+     3 500
 
-bis 3.000
+   48
 
-39
+     4 000
 
-bis 3.500
+   57
 
-46
+     4 500
 
-bis 4.000
+   64
 
-54
+     5 000
 
-bis 4.500
+   72
 
-61
+     6 000
 
-bis 5.000
+   81
 
-69
+     7 000
 
-bis 6.000
+   88
 
-77
+     8 000
 
-bis 7.000
+   97
 
-84
+     9 000
 
-bis 8.000
+  102
 
-92
+    10 000
 
-bis 9.000
+  108
 
-97
+    12 500
 
-bis 10.000
+  113
+
+    15 000
+
+  127
+
+    17 500
+
+  140
+
+    20 000
+
+  150
+
+    22 500
+
+  161
+
+    25 000
+
+  170
+
+    37 500
+
+  181
+
+    50 000
+
+  221
+
+    62 500
+
+  255
+
+    75 000
+
+  285
+
+    87 500
+
+  297
+
+   100 000
+
+  311
+
+   125 000
+
+  356
+
+   150 000
+
+  396
+
+   175 000
+
+  431
+
+   200 000
+
+  462
+
+   225 000
+
+  490
+
+   250 000
+
+  516
+
+   300 000
+
+  540
+
+   350 000
+
+  587
+
+   400 000
+
+  629
+
+   450 000
+
+  666
+
+   500 000
+
+  701
+
+   625 000
+
+  734
+
+   750 000
+
+  815
+
+   875 000
+
+  885
+
+ 1 000 000
+
+  948
+
+ 1 250 000
+
+1 005
+
+ 1 500 000
+
+1 115
+
+ 1 750 000
+
+1 212
+
+ 2 000 000
+
+1 299
+
+ 2 250 000
+
+1 377
+
+ 2 500 000
+
+1 447
+
+ 3 000 000
+
+1 513
+
+ 3 500 000
+
+1 644
+
+ 4 000 000
+
+1 760
+
+ 4 500 000
+
+1 865
+
+ 5 000 000
+
+1 961
+
+ 7 500 000
+
+2 291
+
+10 000 000
+
+2 663
+
+12 500 000
+
+2 965
+
+15 000 000
+
+3 217
+
+17 500 000
+
+3 431
+
+20 000 000
+
+3 616
+
+22 500 000
+
+3 852
+
+25 000 000
+
+4 070
+
+30 000 000
+
+4 477
+
+35 000 000
+
+4 851
+
+40 000 000
+
+5 199
+
+45 000 000
+
+5 524
+
+50 000 000
+
+5 832
+
+    vom Mehrbetrag
+       bis 125 000 000 Euro
+          je angefangene 5 000 000 Euro
+
+  230
+
+    vom Mehrbetrag
+      über 125 000 000 Euro
+      bis 250 000 000 Euro
+            je angefangene 12 500 000 Euro
+
+  402
+
+    vom Mehrbetrag
+       über 250 000 000 Euro
+          je angefangene 25 000 000 Euro
+
+  573
+
+### Anlage 3 Tabelle C(Buchführungstabelle)
+
+(Fundstelle: BGBl. I 2012, 2646)
+
+Gegenstandswert bis … Euro
+
+Volle Gebühr (<sup>10</sup>/10) Euro
+
+ 15 000
+
+ 61
+
+ 17 500
+
+ 67
+
+ 20 000
+
+ 74
+
+ 22 500
+
+ 79
+
+ 25 000
+
+ 85
+
+ 30 000
+
+ 91
+
+ 35 000
+
+ 98
+
+ 40 000
 
 103
 
-bis 12.500
+ 45 000
 
-108
+109
 
-bis 15.000
-
-121
-
-bis 17.500
-
-133
-
-bis 20.000
-
-143
-
-bis 22.500
-
-153
-
-bis 25.000
-
-162
-
-bis 37.500
-
-172
-
-bis 50.000
-
-210
-
-bis 62.500
-
-243
-
-bis 75.000
-
-271
-
-bis 87.500
-
-283
-
-bis 100.000
-
-296
-
-bis 125.000
-
-339
-
-bis 150.000
-
-377
-
-bis 175.000
-
-410
-
-bis 200.000
-
-440
-
-bis 225.000
-
-467
-
-bis 250.000
-
-491
-
-bis 300.000
-
-514
-
-bis 350.000
-
-559
-
-bis 400.000
-
-599
-
-bis 450.000
-
-634
-
-bis 500.000
-
-668
-
-bis 625.000
-
-699
-
-bis 750.000
-
-776
-
-bis 875.000
-
-843
-
-bis 1.000.000
-
-903
-
-bis 1.250.000
-
-957
-
-bis 1.500.000
-
-1.062
-
-bis 1.750.000
-
-1.154
-
-bis 2.000.000
-
-1.237
-
-bis 2.250.000
-
-1.311
-
-bis 2.500.000
-
-1.378
-
-bis 3.000.000
-
-1.441
-
-bis 3.500.000
-
-1.566
-
-bis 4.000.000
-
-1.676
-
-bis 4.500.000
-
-1.776
-
-bis 5.000.000
-
-1.868
-
-bis 7.500.000
-
-2.182
-
-bis 10.000.000
-
-2.536
-
-bis 12.500.000
-
-2.824
-
-bis 15.000.000
-
-3.064
-
-bis 17.500.000
-
-3.268
-
-bis 20.000.000
-
-3.444
-
-bis 22.500.000
-
-3.669
-
-bis 25.000.000
-
-3.876
-
-bis 30.000.000
-
-4.264
-
-bis 35.000.000
-
-4.620
-
-bis 40.000.000
-
-4.951
-
-bis 45.000.000
-
-5.261
-
-bis 50.000.000
-
-5.554
-
-vom Mehrbetrag bis 125.000.000 Euro
-
- 
-
-je angefangene 5.000.000 Euro
-
-219
-
-vom Mehrbetrag über 125.000.000 Euro bis 250.000.000 Euro
-
- 
-
-je angefangene 12.500.000 Euro
-
-383
-
-vom Mehrbetrag über 250.000.000 Euro
-
- 
-
-je angefangene 25.000.000 Euro
-
-546
-
-### Anlage 3 Tabelle C (Buchführungstabelle)
-
-(Fundstelle: BGBl. I 2001, 768)
-
-Gegenstandswert Euro
-
-Volle Gebühr (10/10) Euro
-
-bis 15.000
-
-58
-
-bis 17.500
-
-64
-
-bis 20.000
-
-70
-
-bis 22.500
-
-75
-
-bis 25.000
-
-81
-
-bis 30.000
-
-87
-
-bis 35.000
-
-93
-
-bis 40.000
-
-98
-
-bis 45.000
-
-104
-
-bis 50.000
-
-110
-
-bis 62.500
+ 50 000
 
 116
 
-bis 75.000
+ 62 500
 
-127
+122
 
-bis 87.500
-
-139
-
-bis 100.000
-
-150
-
-bis 125.000
-
-168
-
-bis 150.000
-
-185
-
-bis 200.000
-
-220
-
-bis 250.000
-
-254
-
-bis 300.000
-
-289
-
-bis 350.000
-
-324
-
-bis 400.000
-
-353
-
-bis 450.000
-
-381
-
-bis 500.000
-
-410
-
-vom Mehrbetrag über Euro 500.000
-
- 
-
-je angefangene 50.000 Euro
-
-29
-
-### Anlage 4 Tabelle D
-
-(Fundstelle: BGBl. I 2001, 769 - 770)
-
-Teil a
-(Landwirtschaftliche Tabelle - Betriebsfläche)
-
-Betriebsfläche Hektar
-
-Volle Gebühr (10/10) Euro
-
-bis 40
-
-296
-
-bis 45
-
-317
-
-bis 50
-
-337
-
-bis 55
-
-356
-
-bis 60
-
-375
-
-bis 65
-
-392
-
-bis 70
-
-408
-
-bis 75
-
-423
-
-bis 80
-
-437
-
-bis 85
-
-450
-
-bis 90
-
-462
-
-bis 95
-
-472
-
-bis 100
-
-482
-
-bis 110
-
-506
-
-bis 120
-
-529
-
-bis 130
-
-551
-
-bis 140
-
-573
-
-bis 150
-
-595
-
-bis 160
-
-616
-
-bis 170
-
-636
-
-bis 180
-
-656
-
-bis 190
-
-675
-
-bis 200
-
-694
-
-bis 210
-
-712
-
-bis 220
-
-730
-
-bis 230
-
-748
-
-bis 240
-
-764
-
-bis 250
-
-780
-
-bis 260
-
-796
-
-bis 270
-
-811
-
-bis 280
-
-825
-
-bis 290
-
-839
-
-bis 300
-
-852
-
-bis 320
-
-880
-
-bis 340
-
-908
-
-bis 360
-
-935
-
-bis 380
-
-961
-
-bis 400
-
-987
-
-bis 420
-
-1.012
-
-bis 440
-
-1.037
-
-bis 460
-
-1.061
-
-bis 480
-
-1.084
-
-bis 500
-
-1.107
-
-bis 520
-
-1.130
-
-bis 540
-
-1.152
-
-bis 560
-
-1.173
-
-bis 580
-
-1.194
-
-bis 600
-
-1.215
-
-bis 620
-
-1.235
-
-bis 640
-
-1.254
-
-bis 660
-
-1.273
-
-bis 680
-
-1.291
-
-bis 700
-
-1.309
-
-bis 750
-
-1.349
-
-bis 800
-
-1.385
-
-bis 850
-
-1.415
-
-bis 900
-
-1.441
-
-bis 950
-
-1.462
-
-bis 1.000
-
-1.478
-
-bis 2.000 je ha
-
-1,35 mehr
-
-bis 3.000 je ha
-
-1,23 mehr
-
-bis 4.000 je ha
-
-1.10 mehr
-
-bis 5.000 je ha
-
-0,98 mehr
-
-bis 6.000 je ha
-
-0,86 mehr
-
-bis 7.000 je ha
-
-0,74 mehr
-
-bis 8.000 je ha
-
-0,61 mehr
-
-bis 9.000 je ha
-
-0,49 mehr
-
-bis 10.000 je ha
-
-0,36 mehr
-
-bis 11.000 je ha
-
-0,24 mehr
-
-bis 12.000 je ha
-
-0,12 mehr
-
-ab 12.000 je ha
-
-0,12 mehr
-
-Teil b
-(Landwirtschaftliche Tabelle - Jahresumsatz)
-
-Jahresumsatz i.S.v. § 39 Abs. 5 Euro
-
-Volle Gebühr (10/10) Euro
-
-bis 40.000
-
-308
-
-bis 42,500
-
-323
-
-bis 45.000
-
-338
-
-bis 47.500
-
-354
-
-bis 50.000
-
-369
-
-bis 55.000
-
-399
-
-bis 60.000
-
-428
-
-bis 65.000
-
-458
-
-bis 70.000
-
-486
-
-bis 75.000
-
-515
-
-bis 80.000
-
-544
-
-bis 85.000
-
-572
-
-bis 90.000
-
-600
-
-bis 95.000
-
-628
-
-bis 100.000
-
-655
-
-bis 105.000
-
-682
-
-bis 110.000
-
-709
-
-bis 115.000
-
-736
-
-bis 120.000
-
-763
-
-bis 125.000
-
-789
-
-bis 130.000
-
-815
-
-bis 135.000
-
-841
-
-bis 140.000
-
-868
-
-bis 145.000
-
-893
-
-bis 150.000
-
-919
-
-bis 155.000
-
-945
-
-bis 160.000
-
-970
-
-bis 165.000
-
-996
-
-bis 170.000
-
-1.021
-
-bis 175.000
-
-1.046
-
-bis 180.000
-
-1.071
-
-bis 185.000
-
-1.096
-
-bis 190.000
-
-1.121
-
-bis 195.000
-
-1.146
-
-bis 200.000
-
-1.170
-
-bis 205.000
-
-1.195
-
-bis 210.000
-
-1.219
-
-bis 215.000
-
-1.243
-
-bis 220.000
-
-1.268
-
-bis 225.000
-
-1.292
-
-bis 230.000
-
-1.315
-
-bis 235.000
-
-1.339
-
-bis 240.000
-
-1.363
-
-bis 245.000
-
-1.386
-
-bis 250.000
-
-1.409
-
-bis 255.000
-
-1.432
-
-bis 260.000
-
-1.456
-
-bis 265.000
-
-1.478
-
-bis 270.000
-
-1.501
-
-bis 275.000
-
-1.523
-
-bis 280.000
-
-1.545
-
-bis 285.000
-
-1.567
-
-bis 290.000
-
-1.589
-
-bis 295.000
-
-1.610
-
-bis 300.000
-
-1.631
-
-bis 305.000
-
-1.652
-
-bis 310.000
-
-1.673
-
-bis 315.000
-
-1.693
-
-bis 320.000
-
-1.713
-
-bis 325.000
-
-1.733
-
-bis 330.000
-
-1.753
-
-bis 335.000
-
-1.772
-
-bis 340.000
-
-1.791
-
-bis 345.000
-
-1.810
-
-bis 350.000
-
-1.828
-
-bis 355.000
-
-1.847
-
-bis 360.000
-
-1.865
-
-bis 365.000
-
-1.882
-
-bis 370.000
-
-1.900
-
-bis 375.000
-
-1.917
-
-bis 380.000
-
-1.929
-
-bis 385.000
-
-1.951
-
-bis 390.000
-
-1.967
-
-bis 395.000
-
-1.983
-
-bis 400.000
-
-1.999
-
-bis 410.000
-
-2.030
-
-bis 420.000
-
-2.061
-
-bis 430.000
-
-2.092
-
-bis 440.000
-
-2.122
-
-bis 450.000
-
-2.151
-
-bis 460.000
-
-2.180
-
-bis 470.000
-
-2.208
-
-bis 480.000
-
-2.235
-
-bis 490.000
-
-2.260
-
-bis 500.000
-
-2.285
-
-vom Mehrbetrag über 500.000 Euro
-
- 
-
-je angefangene 50.000 Euro
-
-132
-
-### Anlage 5 Tabelle E (Rechtsbehelfstabelle)
-
-(Fundstelle: BGBl. I 2001, 771)
-
-Gegenstandswert Euro
-
-volle Gebühr (10/10) Euro
-
-bis 300
-
-25
-
-bis 600
-
-45
-
-bis 900
-
-65
-
-bis 1.200
-
-85
-
-bis 1.500
-
-105
-
-bis 2.000
+ 75 000
 
 133
 
-bis 2.500
+ 87 500
 
-161
+146
 
-bis 3.000
+100 000
 
-189
+158
 
-bis 3.500
+125 000
 
-217
+176
 
-bis 4.000
+150 000
 
-245
+194
 
-bis 4.500
+200 000
 
-273
+231
 
-bis 5.000
+250 000
 
-301
+267
 
-bis 6.000
+300 000
 
-338
+303
 
-bis 7.000
+350 000
 
-375
+340
 
-bis 8.000
+400 000
 
-412
+371
 
-bis 9.000
+450 000
 
-449
+400
 
-bis 10.000
+500 000
 
-486
+431
 
-bis 13.000
+     vom Mehrbetrag
+      über 500 000 Euro
+          je angefangene 50 000 Euro
 
-526
+ 30
 
-bis 16.000
+### Anlage 4 Tabelle D
 
-566
+(Fundstelle: BGBl. I 2012, 2647 - 2650)
 
-bis 19.000
+Teil a
+(Landwirtschaftliche Tabelle – Betriebsfläche)
 
-606
+Betriebsfläche bis … Hektar
 
-bis 22.000
+Volle Gebühr (<sup>10</sup>/10) Euro
 
-646
+        40
 
-bis 25.000
+  311
 
-686
+        45
 
-bis 30.000
+  333
 
-758
+        50
 
-bis 35.000
+  354
 
-830
+        55
 
-bis 40.000
+  374
 
-902
+        60
 
-bis 45.000
+  394
 
-974
+        65
 
-bis 50.000
+  412
 
-1.046
+        70
 
-bis 65.000
+  428
 
-1.123
+        75
 
-bis 80.000
+  444
 
-1.200
+        80
 
-bis 95.000
+  459
 
-1.277
+        85
 
-bis 110.000
+  473
 
-1.354
+        90
 
-bis 125.000
+  485
 
-1.431
+        95
 
-bis 140.000
+  496
 
-1.508
+       100
 
-bis 155.000
+  506
 
-1.585
+       110
 
-bis 170.000
+  531
 
-1.662
+       120
 
-bis 185.000
+  555
 
-1.739
+       130
 
-bis 200.000
+  579
 
-1.816
+       140
 
-bis 230.000
+  602
 
-1.934
+       150
 
-bis 260.000
+  625
 
-2.052
+       160
 
-bis 290.000
+  647
 
-2.170
+       170
 
-bis 320.000
+  668
 
-2.288
+       180
 
-bis 350.000
+  689
 
-2.406
+       190
 
-bis 380.000
+  709
 
-2.524
+       200
 
-bis 410.000
+  729
 
-2.642
+       210
 
-bis 440.000
+  748
 
-2.760
+       220
 
-bis 470.000
+  767
 
-2.878
+       230
 
-bis 500.000
+  785
 
-2.996
+       240
 
-vom Mehrbetrag über 500.000 Euro
+  802
 
- 
+       250
 
-je angefangene 50.000 Euro
+  819
 
-150
+       260
+
+  836
+
+       270
+
+  852
+
+       280
+
+  866
+
+       290
+
+  881
+
+       300
+
+  895
+
+       320
+
+  924
+
+       340
+
+  953
+
+       360
+
+  982
+
+       380
+
+1 009
+
+       400
+
+1 036
+
+       420
+
+1 063
+
+       440
+
+1 089
+
+       460
+
+1 114
+
+       480
+
+1 138
+
+       500
+
+1 162
+
+       520
+
+1 187
+
+       540
+
+1 210
+
+       560
+
+1 232
+
+       580
+
+1 254
+
+       600
+
+1 276
+
+       620
+
+1 297
+
+       640
+
+1 317
+
+       660
+
+1 337
+
+       680
+
+1 356
+
+       700
+
+1 374
+
+       750
+
+1 416
+
+       800
+
+1 454
+
+       850
+
+1 486
+
+       900
+
+1 513
+
+       950
+
+1 535
+
+     1 000
+
+1 552
+
+    2 000 je ha
+
+ 1,42
+
+    3 000 je ha
+
+ 1,29
+
+    4 000 je ha
+
+ 1,16
+
+    5 000 je ha
+
+ 1,03
+
+    6 000 je ha
+
+ 0,90
+
+    7 000 je ha
+
+ 0,78
+
+    8 000 je ha
+
+ 0,64
+
+    9 000 je ha
+
+ 0,51
+
+   10 000 je ha
+
+ 0,38
+
+   11 000 je ha
+
+ 0,25
+
+   12 000 je ha
+
+ 0,13
+
+ab 12 000 je ha
+
+ 0,13
+
+Teil b
+(Landwirtschaftliche Tabelle – Jahresumsatz)
+
+Jahresumsatz im Sinne von
+§ 39 Absatz 5 bis … Euro
+
+Volle Gebühr (<sup>10</sup>/10) Euro
+
+ 40 000
+
+  323
+
+ 42 500
+
+  339
+
+ 45 000
+
+  355
+
+ 47 500
+
+  372
+
+ 50 000
+
+  387
+
+ 55 000
+
+  419
+
+ 60 000
+
+  449
+
+ 65 000
+
+  481
+
+ 70 000
+
+  510
+
+ 75 000
+
+  541
+
+ 80 000
+
+  571
+
+ 85 000
+
+  601
+
+ 90 000
+
+  630
+
+ 95 000
+
+  659
+
+100 000
+
+  688
+
+105 000
+
+  716
+
+110 000
+
+  744
+
+115 000
+
+  773
+
+120 000
+
+  801
+
+125 000
+
+  828
+
+130 000
+
+  856
+
+135 000
+
+  883
+
+140 000
+
+  911
+
+145 000
+
+  938
+
+150 000
+
+  965
+
+155 000
+
+  992
+
+160 000
+
+1 019
+
+165 000
+
+1 046
+
+170 000
+
+1 072
+
+175 000
+
+1 098
+
+180 000
+
+1 125
+
+185 000
+
+1 151
+
+190 000
+
+1 177
+
+195 000
+
+1 203
+
+200 000
+
+1 229
+
+205 000
+
+1 255
+
+210 000
+
+1 280
+
+215 000
+
+1 305
+
+220 000
+
+1 331
+
+225 000
+
+1 357
+
+230 000
+
+1 381
+
+235 000
+
+1 406
+
+240 000
+
+1 431
+
+245 000
+
+1 455
+
+250 000
+
+1 479
+
+255 000
+
+1 504
+
+260 000
+
+1 529
+
+265 000
+
+1 552
+
+270 000
+
+1 576
+
+275 000
+
+1 599
+
+280 000
+
+1 622
+
+285 000
+
+1 645
+
+290 000
+
+1 668
+
+295 000
+
+1 691
+
+300 000
+
+1 713
+
+305 000
+
+1 735
+
+310 000
+
+1 757
+
+315 000
+
+1 778
+
+320 000
+
+1 799
+
+325 000
+
+1 820
+
+330 000
+
+1 841
+
+335 000
+
+1 861
+
+340 000
+
+1 881
+
+345 000
+
+1 901
+
+350 000
+
+1 919
+
+355 000
+
+1 939
+
+360 000
+
+1 958
+
+365 000
+
+1 976
+
+370 000
+
+1 995
+
+375 000
+
+2 013
+
+380 000
+
+2 025
+
+385 000
+
+2 049
+
+390 000
+
+2 065
+
+395 000
+
+2 082
+
+400 000
+
+2 099
+
+410 000
+
+2 132
+
+420 000
+
+2 164
+
+430 000
+
+2 197
+
+440 000
+
+2 228
+
+450 000
+
+2 259
+
+460 000
+
+2 289
+
+470 000
+
+2 318
+
+480 000
+
+2 347
+
+490 000
+
+2 373
+
+500 000
+
+2 399
+
+      vom Mehrbetrag
+      über 500 000 Euro
+         je angefangene 50 000 Euro
+
+  139
+
+### Anlage 5 Tabelle E(Rechtsbehelfstabelle)
+
+(Fundstelle: BGBl. I 2012, 2651 - 2652)
+
+Gegenstandswert bis … Euro
+
+Volle Gebühr (<sup>10</sup>/10) Euro
+
+    300
+
+   26
+
+    600
+
+   47
+
+    900
+
+   68
+
+  1 200
+
+   89
+
+  1 500
+
+  110
+
+  2 000
+
+  140
+
+  2 500
+
+  169
+
+  3 000
+
+  198
+
+  3 500
+
+  228
+
+  4 000
+
+  257
+
+  4 500
+
+  287
+
+  5 000
+
+  316
+
+  6 000
+
+  355
+
+  7 000
+
+  394
+
+  8 000
+
+  433
+
+  9 000
+
+  471
+
+ 10 000
+
+  510
+
+ 13 000
+
+  552
+
+ 16 000
+
+  594
+
+ 19 000
+
+  636
+
+ 22 000
+
+  678
+
+ 25 000
+
+  720
+
+ 30 000
+
+  796
+
+ 35 000
+
+  872
+
+ 40 000
+
+  947
+
+ 45 000
+
+1 023
+
+ 50 000
+
+1 098
+
+ 65 000
+
+1 179
+
+ 80 000
+
+1 260
+
+ 95 000
+
+1 341
+
+110 000
+
+1 422
+
+125 000
+
+1 503
+
+140 000
+
+1 583
+
+155 000
+
+1 664
+
+170 000
+
+1 745
+
+185 000
+
+1 826
+
+200 000
+
+1 907
+
+230 000
+
+2 031
+
+260 000
+
+2 155
+
+290 000
+
+2 279
+
+320 000
+
+2 402
+
+350 000
+
+2 526
+
+380 000
+
+2 650
+
+410 000
+
+2 774
+
+440 000
+
+2 898
+
+470 000
+
+3 022
+
+500 000
+
+3 146
+
+      vom Mehrbetrag
+    bis 500 000 Euro
+           je angefangene 50 000 Euro
+
+  158
