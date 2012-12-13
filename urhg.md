@@ -2,7 +2,7 @@ Gesetz über Urheberrecht und verwandte Schutzrechte ()
 ======================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 53 G v. 22.12.2011 I 3044
+Zuletzt geändert durch Art. 1 G v. 14.12.2012 I 2579
 
 ### 
 
@@ -1164,7 +1164,7 @@ veröffentlichte Teile eines Werkes, Werke geringen Umfangs sowie einzelne Beitr
 
 (4) Für die öffentliche Zugänglichmachung nach Absatz 1 ist eine angemessene Vergütung zu zahlen. Der Anspruch kann nur durch eine Verwertungsgesellschaft geltend gemacht werden.
 
-(+++ § 52a: Nicht mehr anzuwenden gem. § 137k (F 2008-12-07) mWv 1.1.2013 +++)
+(+++ § 52a: Zur Nichtanwendung vgl. § 137k (F ab 10.9.2003) +++)
 
 ### § 52b Wiedergabe von Werken an elektronischen Leseplätzen in öffentlichen Bibliotheken, Museen und Archiven
 
@@ -2527,7 +2527,7 @@ Artikel 229 § 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche findet m
 
 ### § 137k Übergangsregelung zur öffentlichen Zugänglichmachung für Unterricht und Forschung
 
-§ 52a ist mit Ablauf des 31. Dezember 2012 nicht mehr anzuwenden.
+§ 52a ist mit Ablauf des 31. Dezember 2014 nicht mehr anzuwenden.
 
 ### § 137l Übergangsregelung für neue Nutzungsarten
 
