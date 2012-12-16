@@ -2,13 +2,7 @@ Allgemeine Waffengesetz-Verordnung (AWaffV)
 ===========================================
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 63 G v. 22.12.2011 I 3044
-
-Hinweis  
-Änderung durch Art. 1 V v. 17.12.2012 I 2698 (Nr. 60) noch nicht berücksichtigt
-
-Sonst  
-Mittelbar geändert durch Art. 3 Abs. 4 G v. 17.7.2009 I 2062
+Zuletzt geändert durch Art. 1 V v. 17.12.2012 I 2698
 
 ### 
 
@@ -451,7 +445,7 @@ auf der Basis polizeilicher oder militärischer Regelungen als Schießstandsachv
 
 (5) Eine Bestellung darf erfolgen, wenn die fachlichen Bestellungsvoraussetzungen auf dem Sachgebiet „Sicherheit von nichtmilitärischen Schießstätten“ in einer Prüfung nachgewiesen worden sind. § 16 findet entsprechende Anwendung.
 
-(6) Als anerkannte Schießstandsachverständige gelten auch diejenigen, die bis zum 31. März 2008 auf der Grundlage bisheriger Schießstandrichtlinien ausgebildet und regelmäßig fortgebildet worden sind. Die Anerkennung nach Satz 1 erlischt zum 1. Januar 2013, sofern keine öffentliche Bestellung für das Fachgebiet „Sicherheit von nichtmilitärischen Schießständen“ erfolgt ist.
+(6) Als anerkannte Schießstandsachverständige gelten auch diejenigen, die bis zum 31. März 2008 auf der Grundlage bisheriger Schießstandrichtlinien ausgebildet und regelmäßig fortgebildet worden sind. Die Anerkennung nach Satz 1 erlischt zum 1. Januar 2015, sofern keine öffentliche Bestellung für das Fachgebiet „Sicherheit von nichtmilitärischen Schießständen“ erfolgt ist.
 
 Bis zur Veröffentlichung nach Absatz 3 Satz 2 sind Stand der Technik die „Richtlinien für die Errichtung, die Abnahme und das Betreiben von Schießständen (Schießstandrichtlinien), Stand Januar 2000, herausgegeben vom Deutschen Schützenbund, Wiesbaden“.Herausgegeben vom Institut für Sachverständigenwesen e. V., Köln.
 
