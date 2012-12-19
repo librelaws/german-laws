@@ -2,10 +2,13 @@ Verordnung zur Einführung der Binnenschifffahrtsstraßen-Ordnung (BinSchStrEV)
 =============================================================================
 
 Stand  
-Geändert durch Art. 8 V v. 2.10.2012 I 2102
+Zuletzt geändert durch Art. 2 § 8 V v. 20.12.2012 I 2802
 
 Hinweis  
-Änderung durch Art. 2 § 8 V v. 20.12.2012 I 2802 (Nr. 62) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 2 § 3 V v. 30.5.2014 I 610 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 1 V v. 13.2.2015 I 142 (Nr. 6) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -162,7 +165,7 @@ a)
 die Ladung die Stabilität seines Fahrzeugs oder die Festigkeit des Schiffskörpers nicht gefährdet oder
 
 b)  
-bei der Beförderung von Containern vor Fahrtantritt die besondere Überprüfung der Stabilität nach § 1.07 Nummer 4 vorgenommen wird,
+bei der Beförderung von Containern vor Fahrtantritt die besondere Überprüfung der Stabilität nach § 1.07 Nummer 3 vorgenommen wird,
 
 4.  
 entgegen § 1.08 Nummer 4 Satz 2 ein Fahrgastschiff führt, obwohl die nach § 1.08 Nummer 4 Satz 1 vorgeschriebenen Einzelrettungsmittel nicht in ausreichender Anzahl oder nicht in der vorgeschriebenen Art an Bord vorhanden sind,
@@ -248,7 +251,7 @@ c)
 dessen Ladung die Stabilität des Fahrzeugs oder die Festigkeit des Schiffskörpers gefährdet oder
 
 d)  
-ohne dass bei der Beförderung von Containern vor Fahrtantritt die besondere Überprüfung der Stabilität nach § 1.07 Nummer 4 vorgenommen worden ist,
+ohne dass bei der Beförderung von Containern vor Fahrtantritt die besondere Überprüfung der Stabilität nach § 1.07 Nummer 3 vorgenommen worden ist,
 
 3.  
 entgegen § 1.08 Nummer 4 Satz 1 nicht sicherstellt, dass auf einem Fahrgastschiff die unter Nummer 44 der Fahrtauglichkeitsbescheinigung eingetragenen Einzelrettungsmittel für Fahrgäste in einer der Verteilung der Fahrgäste entsprechenden Anzahl für Erwachsene und Kinder an Bord vorhanden sind,
@@ -328,7 +331,7 @@ die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.8.1, auch in Verbindu
 nicht überschreitet,
 
 8.  
-entgegen § 16.29 Nummer 2 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 16.02 oder die zugelassenen Abladetiefen nach § 16.02 Nummer 3 oder 6.2 nicht überschreitet,
+entgegen § 16.29 Nummer 2 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 16.02 oder die zugelassenen Abladetiefen nach § 16.02 Nummer 3 oder 5 nicht überschreitet,
 
 9.  
 entgegen § 17.29 Nummer 2 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das von ihm geführte Fahrzeug, das von ihm geführte Fahrzeug mit Seitenradantrieb, das von ihm geführte schleppende Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen nach § 17.02 Nummer 1 oder 2 nicht überschreitet,
@@ -352,10 +355,10 @@ entgegen § 22.29 Nummer 2 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe aaa 
 entgegen § 23.29 Nummer 2 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe aaa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband
 
 a)  
-die zugelassenen Höchstabmessungen oder Abladetiefen nach § 23.02 Nummer 1.1.1 bis 1.1.4, 1.1.6 Buchstabe a oder b, Buchstabe b hinsichtlich der ersten Verbandsabmessung, Nummer 1.1.11 bis 1.1.15 oder 1.1.18 oder
+die zugelassenen Höchstabmessungen oder Abladetiefen nach § 23.02 Nummer 1.1.1 bis 1.1.7 oder Nummer 1.1.11 bis 1.1.15 oder
 
 b)  
-die zugelassenen Höchstabmessungen nach § 23.02 Nummer 1.1.5, 1.1.6 Buchstabe b hinsichtlich der zweiten Verbandsabmessung, Nummer 1.1.7 bis 1.1.10, 1.1.16, 1.1.17 oder 1.1.19
+die zugelassenen Höchstabmessungen nach § 23.02 Nummer 1.1.8 bis 1.1.10 oder Nummer 1.1.16 bis 1.1.19
 
 nicht überschreitet,
 
@@ -393,7 +396,7 @@ entgegen § 20.29 Nummer 2 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, da
 entgegen § 21.29 Nummer 2 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass auf dem von ihm geführten Fahrzeug oder Verband in dem in § 21.02 Nummer 1.3.1 oder 1.3.2 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist,
 
 27.  
-entgegen § 21.29 Nummer 2 Buchstabe a Doppelbuchstabe cc nicht sicherstellt, dass auf dem von ihm geführten Fahrzeug in dem in § 21.02 Nummer 1.5.2 oder 1.5.3 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist,
+entgegen § 21.29 Nummer 2 Buchstabe a Doppelbuchstabe cc nicht sicherstellt, dass auf dem von ihm geführten Fahrzeug in dem in § 21.02 Nummer 1.1.3, 1.1.4, 1.1.5, 1.2.3, 1.5.2 oder 1.5.3 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist,
 
 28.  
 entgegen § 22.29 Nummer 2 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass auf dem von ihm geführten Fahrzeug in dem in § 22.02 Nummer 1.1.2, 1.1.2.4, 1.1.2.5, 1.1.4.1, 1.1.5.2 oder 1.2 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist oder
@@ -439,7 +442,7 @@ dessen zugelassene Höchstabmessungen nach § 15.02 Nummer 1.8.1, auch in Verbin
 überschritten werden,
 
 8.  
-entgegen § 16.29 Nummer 3 Buchstabe a die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen nach § 16.02 oder dessen zugelassene Abladetiefen nach § 16.02 Nummer 3 oder 6.2 überschritten werden,
+entgegen § 16.29 Nummer 3 Buchstabe a die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen nach § 16.02 oder dessen zugelassene Abladetiefen nach § 16.02 Nummer 3 oder 5 überschritten werden,
 
 9.  
 entgegen § 17.29 Nummer 3 Buchstabe a die Inbetriebnahme eines Fahrzeugs, eines Fahrzeugs mit Seitenradantrieb, eines schleppenden Fahrzeugs oder eines Verbandes anordnet oder zulässt, dessen zugelassene Höchstabmessungen nach § 17.02 Nummer 1 oder 2 überschritten werden,
@@ -463,10 +466,10 @@ entgegen § 22.29 Nummer 3 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe aaa 
 entgegen § 23.29 Nummer 3 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe aaa die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt,
 
 a)  
-dessen zugelassene Höchstabmessungen oder Abladetiefen nach § 23.02 Nummer 1.1.1 bis 1.1.4, 1.1.6 Buchstabe a oder b, Buchstabe b hinsichtlich der ersten Verbandsabmessung, Nummer 1.1.11 bis 1.1.15 oder 1.1.18 oder
+dessen zugelassene Höchstabmessungen oder Abladetiefen nach § 23.02 Nummer 1.1.1 bis 1.1.7 oder Nummer 1.1.11 bis 1.1.15 oder
 
 b)  
-dessen zugelassene Höchstabmessungen nach § 23.02 Nummer 1.1.5, 1.1.6 Buchstabe b hinsichtlich der zweiten Verbandsabmessung, Nummer 1.1.7 bis 1.1.10, 1.1.16, 1.1.17 oder 1.1.19
+dessen zugelassene Höchstabmessungen nach § 23.02 Nummer 1.1.8 bis 1.1.10 oder Nummer 1.1.16 bis 1.1.19
 
 überschritten werden,
 
@@ -504,7 +507,7 @@ entgegen § 20.29 Nummer 3 Buchstabe a Doppelbuchstabe bb die Inbetriebnahme ein
 entgegen § 21.29 Nummer 3 Buchstabe a Doppelbuchstabe bb die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, auf dem in dem in § 21.02 Nummer 1.3.1 oder 1.3.2 jeweils genannten Fall die dort jeweils angegebene Ausrüstung nicht vorhanden ist,
 
 27.  
-entgegen § 21.29 Nummer 3 Buchstabe a Doppelbuchstabe cc die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, auf dem in dem in § 21.02 Nummer 1.5.2 oder 1.5.3 jeweils genannten Fall die dort jeweils angegebene Ausrüstung nicht vorhanden ist,
+entgegen § 21.29 Nummer 3 Buchstabe a Doppelbuchstabe cc die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, auf dem in dem in § 21.02 Nummer 1.1.3, 1.1.4, 1.1.5, 1.2.3, 1.5.2 oder 1.5.3 jeweils genannten Fall die dort jeweils angegebene Ausrüstung nicht vorhanden ist,
 
 28.  
 entgegen § 22.29 Nummer 3 Buchstabe a Doppelbuchstabe bb die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, auf dem in dem in § 22.02 Nummer 1.1.2, 1.1.2.4, 1.1.2.5, 1.1.4.1, 1.1.5.2 oder 1.2 jeweils genannten Fall die dort jeweils angegebene Ausrüstung nicht vorhanden ist oder
@@ -614,13 +617,13 @@ entgegen § 1.11 Satz 1 nicht dafür sorgt, dass sich an Bord seines Fahrzeugs e
 entgegen § 20.29 Nummer 2 Buchstabe a Doppelbuchstabe dd nicht sicherstellt, dass der Nachweis über die Kentersicherheit der getrennten Schiffsteile nach § 20.02 Nummer 1 Satz 3 Halbsatz 2 Buchstabe b an Bord mitgeführt oder nach § 20.02 Nummer 1 Satz 4 auf Verlangen der Wasserschutzpolizei oder den Bediensteten der zuständigen Behörde zur Kontrolle ausgehändigt wird,
 
 4.  
-entgegen § 20.29 Nummer 2 Buchstabe a Doppelbuchstabe ee nicht sicherstellt, dass die Sondererlaubnis nach § 20.02 Nummer 1 Satz 5 an Bord mitgeführt oder nach § 20.02 Nummer 1 Satz 6 auf Verlangen der Wasserschutzpolizei oder den Bediensteten der zuständigen Behörde zur Kontrolle ausgehändigt wird, oder
+entgegen § 20.29 Nummer 2 Buchstabe a Doppelbuchstabe ee nicht sicherstellt, dass die Sondererlaubnis nach § 20.02 Nummer 1 Satz 5 an Bord mitgeführt oder nach § 20.02 Nummer 1 Satz 6 auf Verlangen der Wasserschutzpolizei oder den Bediensteten der zuständigen Behörde zur Kontrolle ausgehändigt wird,
 
 5.  
-entgegen § 21.29 Nummer 2 Buchstabe a Doppelbuchstabe ff nicht sicherstellt, dass ein Bescheid über die Befreiung von einem Fahrverbot oder einer Einschränkung nach § 21.27 Nummer 6 Satz 2 an Bord mitgeführt oder auf Verlangen den zur Kontrolle befugten Personen ausgehändigt wird,
+entgegen § 21.29 Nummer 2 Buchstabe a Doppelbuchstabe ff nicht sicherstellt, dass ein Bescheid über die Befreiung von einem Fahrverbot oder einer Einschränkung nach § 21.27 Nummer 7 Satz 2 an Bord mitgeführt oder auf Verlangen den zur Kontrolle befugten Personen ausgehändigt wird,
 
 6.  
-entgegen § 22.29 Nummer 2 Buchstabe a Doppelbuchstabe ee nicht sicherstellt, dass ein Bescheid über die Befreiung von einem Fahrverbot oder einer Einschränkung nach § 22.27 Nummer 8 Satz 2 an Bord mitgeführt oder auf Verlangen den zur Kontrolle befugten Personen ausgehändigt wird,
+entgegen § 22.29 Nummer 2 Buchstabe a Doppelbuchstabe ee nicht sicherstellt, dass ein Bescheid über die Befreiung von einem Fahrverbot oder einer Einschränkung nach § 22.27 Nummer 8 Satz 2 an Bord mitgeführt oder auf Verlangen den zur Kontrolle befugten Personen ausgehändigt wird, oder
 
 7.  
 entgegen § 23.29 Nummer 2 Buchstabe a Doppelbuchstabe dd nicht sicherstellt, dass ein Bescheid über die Befreiung von einem Fahrverbot oder einer Einschränkung nach § 23.27 Nummer 5 Satz 2 an Bord mitgeführt oder auf Verlangen den zur Kontrolle befugten Personen ausgehändigt wird.
@@ -640,13 +643,13 @@ entgegen § 1.10 Nummer 8 nicht dafür sorgt, dass die Urkunden oder die sonstig
 entgegen § 20.29 Nummer 3 Buchstabe b Doppelbuchstabe aa nicht dafür sorgt, dass der Nachweis über die Kentersicherheit der getrennten Schiffsteile nach § 20.02 Nummer 1 Satz 3 Halbsatz 2 Buchstabe b an Bord mitgeführt wird,
 
 5.  
-entgegen § 20.29 Nummer 3 Buchstabe b Doppelbuchstabe bb nicht dafür sorgt, dass die Sondererlaubnis nach § 20.02 Nummer 1 Satz 5 an Bord mitgeführt wird oder
+entgegen § 20.29 Nummer 3 Buchstabe b Doppelbuchstabe bb nicht dafür sorgt, dass die Sondererlaubnis nach § 20.02 Nummer 1 Satz 5 an Bord mitgeführt wird,
 
 6.  
-entgegen § 21.29 Nummer 3 Buchstabe b nicht dafür sorgt, dass ein Bescheid über die Befreiung von einem Fahrverbot oder einer Einschränkung nach § 21.27 Nummer 6 Satz 2 an Bord mitgeführt wird,
+entgegen § 21.29 Nummer 3 Buchstabe b nicht dafür sorgt, dass ein Bescheid über die Befreiung von einem Fahrverbot oder einer Einschränkung nach § 21.27 Nummer 7 Satz 2 an Bord mitgeführt wird,
 
 7.  
-entgegen § 22.29 Nummer 3 Buchstabe b nicht sicherstellt, dass ein Bescheid über die Befreiung von einem Fahrverbot oder einer Einschränkung nach § 22.27 Nummer 8 Satz 2 an Bord mitgeführt wird.
+entgegen § 22.29 Nummer 3 Buchstabe b nicht sicherstellt, dass ein Bescheid über die Befreiung von einem Fahrverbot oder einer Einschränkung nach § 22.27 Nummer 8 Satz 2 an Bord mitgeführt wird, oder
 
 8.  
 entgegen § 23.29 Nummer 3 Buchstabe b nicht dafür sorgt, dass ein Bescheid über die Befreiung von einem Fahrverbot oder einer Einschränkung nach § 23.27 Nummer 5 Satz 2 an Bord mitgeführt wird.
@@ -956,7 +959,7 @@ entgegen § 4.02 Nummer 3 nicht sicherstellt, dass ein nach § 4.02 Nummer 1 in 
 entgegen § 4.05 Nummer 7 nicht sicherstellt, dass die Sprechfunkanlagen des Fahrzeugs oder der schwimmenden Anlage nur in der in § 4.05 Nummer 1 Satz 2 oder 3, Nummer 2 Satz 2 oder 3, Nummer 3 Satz 2, auch in Verbindung mit Satz 4, oder Nummer 3 Satz 3, Nummer 4 oder 5 Satz 1 vorgeschriebenen Art und Weise betrieben werden,
 
 4.  
-entgegen § 15.29 Nummer 1 Buchstabe b Doppelbuchstabe ff die Vorschriften über den Sprechfunk auf einer Seilfähre nach § 15.23 Satz 1 in Verbindung mit § 4.05 Nummer 3 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
+entgegen § 15.29 Nummer 1 Buchstabe b Doppelbuchstabe ee die Vorschriften über den Sprechfunk auf einer Seilfähre nach § 15.23 Satz 1 in Verbindung mit § 4.05 Nummer 3 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
 
 5.  
 entgegen § 17.29 Nummer 1 Buchstabe b Doppelbuchstabe ee die Vorschriften über den Sprechfunk auf einer Seilfähre nach § 17.23 in Verbindung mit § 4.05 Nummer 3 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
@@ -1229,15 +1232,12 @@ entgegen § 11.29 Nummer 1 Buchstabe b Doppelbuchstabe cc Dreifachbuchstabe bbb 
 entgegen § 15.29 Nummer 1 Buchstabe b Doppelbuchstabe dd die Vorschrift über die Durchfahrt und das Verhalten beim Durchfahren des Sperrwerks Leda nach § 15.18 Nummer 4 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird,
 
 6.  
-entgegen § 15.29 Nummer 1 Buchstabe b Doppelbuchstabe ee die Vorschrift über das Befahren der Kanalbrücke des Mittellandkanals von km 321,25 bis km 322,40 nach § 15.22 Nummer 1 Satz 1 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird,
-
-7.  
 entgegen § 17.29 Nummer 1 Buchstabe b Doppelbuchstabe cc die Vorschriften über das Verhalten beim Durchfahren der Schleusengruppe Geesthacht nach § 17.18 Nummer 6 Satz 1 oder 2 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden,
 
-8.  
+7.  
 entgegen § 21.29 Nummer 1 Buchstabe b Doppelbuchstabe dd die Vorschriften über das Verhalten beim Durchfahren der Schleusen nach § 21.18 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden, oder
 
-9.  
+8.  
 entgegen § 25.29 Nummer 1 Buchstabe b Doppelbuchstabe cc die Vorschrift über das Verhalten beim Durchfahren der Schleuse Bernburg nach § 25.18 Nummer 1 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird.
 
 (2) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
@@ -1634,7 +1634,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 entgegen § 21.29 Nummer 2 Buchstabe d die Verkehrsregelungen nach § 21.22 Nummer 1, 2 oder 3 Halbsatz 1 nicht beachtet oder nicht sicherstellt, dass diese beachtet werden,
 
 2.  
-entgegen § 22.29 Nummer 2 Buchstabe d die Verkehrsregelungen nach § 22.22 Nummer 2 Satz 3, 4, 5 oder 6 nicht beachtet oder nicht sicherstellt, dass diese beachtet werden, oder
+entgegen § 22.29 Nummer 2 Buchstabe d die Verkehrsregelungen nach § 22.22 Nummer 2 Satz 3, 4, 5 oder 6, jeweils in Verbindung mit Satz 7, nicht beachtet oder nicht sicherstellt, dass diese beachtet werden, oder
 
 3.  
 entgegen § 26.29 Nummer 2 Buchstabe c die Verkehrsregelungen nach § 26.22 Nummer 1 oder 2 nicht beachtet oder nicht sicherstellt, dass diese beachtet werden.
@@ -1669,33 +1669,30 @@ entgegen § 11.29 Nummer 2 Buchstabe d das in § 11.27 Nummer 2 Satz 1 vorgesehe
 entgegen § 12.29 Nummer 2 Buchstabe d das in § 12.25 Nummer 1, 2 Satz 1 oder Nummer 3 Satz 1 jeweils vorgesehene Verbot, die dort jeweils angegebene Binnenschifffahrtsstraße zu befahren, nicht beachtet oder nicht sicherstellt, dass das jeweilige Verbot beachtet wird,
 
 4.  
-entgegen § 15.29 Nummer 2 Buchstabe d das in § 15.22 Nummer 3 vorgesehene Verbot, die Kanalbrücke des Mittellandkanals von km 320,58 bis km 322,84 mit einem muskelkraftbetriebenen Kleinfahrzeug zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
+entgegen § 15.29 Nummer 2 Buchstabe d das in § 15.27 Satz 1 vorgesehene Verbot, die dort angegebenen Binnenschifffahrtsstraßen zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
 
 5.  
-entgegen § 15.29 Nummer 2 Buchstabe e das in § 15.27 Satz 1 vorgesehene Verbot, die dort angegebenen Binnenschifffahrtsstraßen zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
-
-6.  
 entgegen § 16.29 Nummer 2 Buchstabe c das in § 16.27 Satz 1 vorgesehene Verbot, die dort angegebenen Binnenschifffahrtsstraßen zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
 
-7.  
+6.  
 entgegen § 18.29 Nummer 2 Buchstabe c das in § 18.27 Satz 1 vorgesehene Verbot, die dort angegebene Binnenschifffahrtsstraße zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird,
 
-8.  
-entgegen § 21.29 Nummer 2 Buchstabe f das in § 21.27 Nummer 1 Satz 1 oder Nummer 2 jeweils vorgesehene Verbot, die dort jeweils angegebenen Binnenschifffahrtsstraßen zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses jeweils beachtet wird,
+7.  
+entgegen § 21.29 Nummer 2 Buchstabe f das in § 21.27 Nummer 1 Satz 1, Nummer 2 Satz 1 oder Nummer 3 jeweils vorgesehene Verbot, die dort jeweils angegebenen Binnenschifffahrtsstraßen zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses jeweils beachtet wird,
 
-9.  
+8.  
 entgegen § 22.29 Nummer 2 Buchstabe f das in § 22.27 Nummer 1 oder 2 Satz 1 jeweils vorgesehene Verbot, die dort jeweils angegebenen Binnenschifffahrtsstraßen zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses jeweils beachtet wird,
 
-10.  
+9.  
 entgegen § 23.29 Nummer 2 Buchstabe e das in § 23.27 Nummer 1 Satz 1 oder Nummer 2 Satz 1 jeweils vorgesehene Verbot, die dort jeweils angegebenen Binnenschifffahrtsstraßen zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses jeweils beachtet wird,
 
-11.  
-entgegen § 24.29 Nummer 2 Buchstabe d das in § 24.27 Nummer 1 Satz 1 oder Nummer 2 oder 3 Satz 1 jeweils vorgesehene Verbot, die dort jeweils angegebene Binnenschifffahrtsstraße zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses jeweils beachtet wird,
+10.  
+entgegen § 24.29 Nummer 2 Buchstabe d das in § 24.27 Nummer 1 Satz 1 oder Nummer 2, 3 oder 4 Satz 1 jeweils vorgesehene Verbot, die dort jeweils angegebene Binnenschifffahrtsstraße zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses jeweils beachtet wird,
 
-12.  
+11.  
 entgegen § 25.29 Nummer 2 Buchstabe c das in § 25.27 Satz 1 vorgesehene Verbot, die dort angegebene Binnenschifffahrtsstraße zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird, oder
 
-13.  
+12.  
 entgegen § 26.29 Nummer 2 Buchstabe d das in § 26.27 Nummer 1 Satz 1 oder Nummer 2 Satz 1 jeweils vorgesehene Verbot, die dort jeweils angegebene Binnenschifffahrtsstraße zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses jeweils beachtet wird.
 
 ### § 35 Bewehrung der Vorschriften über Verkehrsbeschränkungen
@@ -1712,7 +1709,7 @@ entgegen § 15.29 Nummer 2 Buchstabe a Doppelbuchstabe cc nicht sicherstellt, da
 entgegen § 15.29 Nummer 2 Buchstabe a Doppelbuchstabe dd nicht sicherstellt, dass der Stichkanal Salzgitter von der Schleusengruppe Wedtlenstedt (SKS-km 4,56) bis zum Hafen Beddingen (SKS-km 13,50) gemäß § 15.25 Nummer 2 erst nach Freigabe durch die Schleusenaufsicht an der Schleusengruppe Wedtlenstedt befahren wird,
 
 4.  
-entgegen § 21.29 Nummer 2 Buchstabe g die Verkehrsbeschränkungen nach § 21.27 Nummer 3 Satz 1, Nummer 4 oder 5 Satz 1, auch in Verbindung mit Satz 2, nicht beachtet oder nicht sicherstellt, dass diese beachtet werden,
+entgegen § 21.29 Nummer 2 Buchstabe g die Verkehrsbeschränkungen nach § 21.27 Nummer 4 Satz 1, Nummer 5 oder 6 Satz 1 nicht beachtet oder nicht sicherstellt, dass diese beachtet werden,
 
 5.  
 entgegen § 22.29 Nummer 2 Buchstabe g die Verkehrsbeschränkungen nach § 22.27 Nummer 3 Satz 1, oder Nummer 4 bis 7 nicht beachtet oder nicht sicherstellt, dass diese beachtet werden, oder
