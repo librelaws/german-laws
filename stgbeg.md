@@ -2,7 +2,7 @@ Einführungsgesetz zum Strafgesetzbuch (EGStGB)
 ==============================================
 
 Stand  
-Zuletzt geändert durch Art. 7 G v. 5.12.2012 I 2425
+Zuletzt geändert durch Art. 1 G v. 20.12.2012 I 2756
 
 ### 
 
@@ -542,11 +542,21 @@ Soweit Straftatbestände der Deutschen Demokratischen Republik fortgelten, trete
 
 ### Art 316e Übergangsvorschrift zum Gesetz zur Neuordnung des Rechts der Sicherungsverwahrung und zu begleitenden Regelungen
 
-(1) Die Vorschriften über die Sicherungsverwahrung in der Fassung des Gesetzes zur Neuordnung des Rechts der Sicherungsverwahrung und zu begleitenden Regelungen vom 22. Dezember 2010 (BGBl. I S. 2300) sind nur anzuwenden, wenn die Tat oder mindestens eine der Taten, wegen deren Begehung die Sicherungsverwahrung angeordnet oder vorbehalten werden soll, nach dem 31. Dezember 2010 begangen worden ist. In allen anderen Fällen ist das bisherige Recht anzuwenden, soweit in den Absätzen 2 und 3 nichts anderes bestimmt ist.
+(1) Die Vorschriften über die Sicherungsverwahrung in der Fassung des Gesetzes zur Neuordnung des Rechts der Sicherungsverwahrung und zu begleitenden Regelungen vom 22. Dezember 2010 (BGBl. I S. 2300) sind nur anzuwenden, wenn die Tat oder mindestens eine der Taten, wegen deren Begehung die Sicherungsverwahrung angeordnet oder vorbehalten werden soll, nach dem 31. Dezember 2010 begangen worden ist. In allen anderen Fällen ist das bisherige Recht anzuwenden, soweit in den Absätzen 2 und 3 sowie in Artikel 316f Absatz 2 und 3 nichts anderes bestimmt ist.
 
 (2) Sind die Taten, wegen deren Begehung die Sicherungsverwahrung nach § 66 des Strafgesetzbuches angeordnet werden soll, vor dem 1. Januar 2011 begangen worden und ist der Täter deswegen noch nicht rechtskräftig verurteilt worden, so ist § 66 des Strafgesetzbuches in der seit dem 1. Januar 2011 geltenden Fassung anzuwenden, wenn diese gegenüber dem bisherigen Recht das mildere Gesetz ist.
 
 (3) Eine nach § 66 des Strafgesetzbuches vor dem 1. Januar 2011 rechtskräftig angeordnete Sicherungsverwahrung erklärt das Gericht für erledigt, wenn die Anordnung ausschließlich auf Taten beruht, die nach § 66 des Strafgesetzbuches in der seit dem 1. Januar 2011 geltenden Fassung nicht mehr Grundlage für eine solche Anordnung sein können. Das Gericht kann, soweit dies zur Durchführung von Entlassungsvorbereitungen geboten ist, als Zeitpunkt der Erledigung spätestens den 1. Juli 2011 festlegen. Zuständig für die Entscheidungen nach den Sätzen 1 und 2 ist das nach den §§ 454, 462a Absatz 1 der Strafprozessordnung zuständige Gericht. Für das Verfahren ist § 454 Absatz 1, 3 und 4 der Strafprozessordnung entsprechend anzuwenden; die Vollstreckungsbehörde übersendet die Akten unverzüglich an die Staatsanwaltschaft des zuständigen Gerichtes, die diese umgehend dem Gericht zur Entscheidung übergibt. Mit der Entlassung aus dem Vollzug tritt Führungsaufsicht ein.
+
+(4) § 1 des Therapieunterbringungsgesetzes vom 22. Dezember 2010 (BGBl. I S. 2300, 2305) ist unter den dortigen sonstigen Voraussetzungen auch dann anzuwenden, wenn der Betroffene noch nicht in Sicherungsverwahrung untergebracht, gegen ihn aber bereits Sicherungsverwahrung im ersten Rechtszug angeordnet war und aufgrund einer vor dem 4. Mai 2011 ergangenen Revisionsentscheidung festgestellt wurde, dass die Sicherungsverwahrung ausschließlich deshalb nicht rechtskräftig angeordnet werden konnte, weil ein zu berücksichtigendes Verbot rückwirkender Verschärfungen im Recht der Sicherungsverwahrung dem entgegenstand, ohne dass es dabei auf den Grad der Gefährlichkeit des Betroffenen für die Allgemeinheit angekommen wäre.
+
+### Art 316f Übergangsvorschrift zum Gesetz zur bundesrechtlichen Umsetzung des Abstandsgebotes im Recht der Sicherungsverwahrung
+
+(1) Die bisherigen Vorschriften über die Sicherungsverwahrung sind in der ab dem 1. Juni 2013 geltenden Fassung anzuwenden, wenn die Tat oder mindestens eine der Taten, wegen deren Begehung die Sicherungsverwahrung angeordnet oder vorbehalten werden soll (Anlasstat), nach dem 31. Mai 2013 begangen worden ist.
+
+(2) In allen anderen Fällen sind, soweit Absatz 3 nichts anderes bestimmt, die bis zum 31. Mai 2013 geltenden Vorschriften über die Sicherungsverwahrung nach Maßgabe der Sätze 2 bis 4 anzuwenden. Die Anordnung oder Fortdauer der Sicherungsverwahrung auf Grund einer gesetzlichen Regelung, die zur Zeit der letzten Anlasstat noch nicht in Kraft getreten war, oder eine nachträgliche Anordnung der Sicherungsverwahrung, die nicht die Erledigung einer Unterbringung in einem psychiatrischen Krankenhaus voraussetzt, oder die Fortdauer einer solchen nachträglich angeordneten Sicherungsverwahrung ist nur zulässig, wenn beim Betroffenen eine psychische Störung vorliegt und aus konkreten Umständen in seiner Person oder seinem Verhalten eine hochgradige Gefahr abzuleiten ist, dass er infolge dieser Störung schwerste Gewalt- oder Sexualstraftaten begehen wird. Auf Grund einer gesetzlichen Regelung, die zur Zeit der letzten Anlasstat noch nicht in Kraft getreten war, kann die Anordnung der Sicherungsverwahrung nur vorbehalten werden, wenn beim Betroffenen eine psychische Störung vorliegt und die in Satz 2 genannte Gefahr wahrscheinlich ist oder, wenn es sich bei dem Betroffenen um einen Heranwachsenden handelt, feststeht. Liegen die Voraussetzungen für eine Fortdauer der Sicherungsverwahrung in den in Satz 2 genannten Fällen nicht mehr vor, erklärt das Gericht die Maßregel für erledigt; mit der Entlassung aus dem Vollzug der Unterbringung tritt Führungsaufsicht ein.
+
+(3) Die durch die Artikel 1, 2 Nummer 1 Buchstabe c Doppelbuchstabe cc und Nummer 4 sowie die Artikel 3 bis 6 des Gesetzes zur bundesrechtlichen Umsetzung des Abstandsgebotes im Recht der Sicherungsverwahrung vom 5. Dezember 2012 (BGBl. I S. 2425) geänderten Vorschriften sind auch auf die in Absatz 2 Satz 1 genannten Fälle anzuwenden, § 67c Absatz 1 Satz 1 Nummer 2 des Strafgesetzbuches jedoch nur dann, wenn nach dem 31. Mai 2013 keine ausreichende Betreuung im Sinne des § 66c des Strafgesetzbuches angeboten worden ist. Die Frist des § 119a Absatz 3 des Strafvollzugsgesetzes für die erste Entscheidung von Amts wegen beginnt am 1. Juni 2013 zu laufen, wenn die Freiheitsstrafe zu diesem Zeitpunkt bereits vollzogen wird.
 
 ### Art 317 Überleitung des Verfahrens wegen Ordnungswidrigkeiten nach neuem Recht
 
