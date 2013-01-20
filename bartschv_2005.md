@@ -7481,9 +7481,8651 @@ Fundstelle des Originaltextes: BGBl. I 2005, 289
 
 ### Anlage 6 (zu § 12 Satz 1 und § 13 Abs. 1 Satz 1, 6 und 9 und Abs. 2 Satz 2) Kennzeichnungsmethoden
 
-Fundstelle des Originaltextes: BGBl. I 2005, 292 - 316
+(Fundstelle: BGBl. I 2005, 292 - 316)
 
-(Inhalt: nicht darstellbare Tabelle)
+**Kennzeichnungsmethoden**
+
+<table>
+<tbody>
+<tr class="odd">
+<td>Wissenschaftlicher Name</td>
+<td>Deutscher Name</td>
+<td>Geschlos-<br />
+sener Ring</td>
+<td>Ring-<br />
+größe</td>
+<td>Trans-<br />
+ponder</td>
+<td>Doku-<br />
+mentation</td>
+<td>Sonstige<br />
+Kenn-<br />
+zeichen</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>Mammalia</strong></td>
+<td><strong>Säugetiere</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Acerodon jubatus</td>
+<td>Luzon-Flughund</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Acerodon lucifer</td>
+<td>Panay-Riesenflughund</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Acinonyx jubatus</td>
+<td>Gepard</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Addax nasomaculatus</td>
+<td>Addax oder Mendesantilope</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ailuropoda melanoleuca</td>
+<td>Riesen-Panda</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ailurus fulgens</td>
+<td>Kleiner Panda</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Allocebus trichotis</td>
+<td>Büschelohriger Katzenmaki</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Alouatta coibensis</td>
+<td>Brüllaffe</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Alouatta palliata</td>
+<td>Mantelbrüllaffe</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Alouatta pigra</td>
+<td>Guatemala-Brüllaffe</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Antilocapra americana</td>
+<td>Niederkalifornischer Gabelbock</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Aonyx congicus</td>
+<td>Kleinkrallenotter</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Arctocephalus philippii</td>
+<td>Juan Fernandez-Seebär</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Arctocephalus townsendi</td>
+<td>Guadeloupe-Seebär</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ateles geoffroyi frontatus</td>
+<td>Schwarzbrauen-Geoffroy-Klammeraffe</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ateles geoffroyi panamensis</td>
+<td>Panama-Klammeraffe</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Axis kuhlii</td>
+<td>Bawean-Schweinshirsch, Kuhlhirsch</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Axis porcinus annamiticus</td>
+<td>Hinterindischer Schweinshirsch</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Axis calamianensis</td>
+<td>Calamian-Schweinshirsch</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Babyrousa babyrussa</td>
+<td>Hirscheber</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Bettongia penicillata</td>
+<td>Pinselschwanz-Bürstenkänguruh, Ogilby- Bürstenkänguruh</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Bettongia spp.</td>
+<td>Bürstenkänguruhs<br />
+– soweit nicht im Einzelnen aufgeführt</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Blastocerus dichotomus</td>
+<td>Sumpfhirsch</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Bos gaurus</td>
+<td>Gaur</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Bos mutus</td>
+<td>Wildyak, Grunzochse</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Bos sauveli</td>
+<td>Kouprey</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Brachyteles arachnoides</td>
+<td>Spinnenaffe</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Bubalus depressicornis</td>
+<td>Tieflandanoa, Gemsbüffel</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Bubalus mindorensis</td>
+<td>Tamarau, Mindorobüffel</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Bubalus quarlesi</td>
+<td>Berganoa</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cacajao calvus</td>
+<td>Roter Uakari</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cacajao melanocephalus</td>
+<td>Schwarzer Uakari</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cacajao spp.</td>
+<td>Uakaris, Kurzschwanzaffen<br />
+– soweit nicht im Einzelnen aufgeführt</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Callicebus personatus</td>
+<td>Springaffe</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Callimico goeldii</td>
+<td>Goeldi-Springtamarin</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Callithrix aurita</td>
+<td>Weißohrseidenäffchen</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Callithrix flaviceps</td>
+<td>Gelbkopfbüschelseidenäffchen</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Caloprymnus campestris</td>
+<td>Nacktbrust-Känguruh</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Canis lupus</td>
+<td>Wolf</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Canis simensis</td>
+<td>Abessinischer Fuchs</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Capra falconeri</td>
+<td>Schraubenziege</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Caprolagus hispidus</td>
+<td>Borstenkaninchen</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Caracal caracal</td>
+<td>Karakal, Wüstenluchs</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Castor canadensis</td>
+<td>Amerikanischer Biber</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Catagonus wagneri</td>
+<td>Chaco-Pekari</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Catopuma temminckii</td>
+<td>Asiatische Goldkatze</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cephalophus jentinki</td>
+<td>Jentinducker</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cephalorhynchus commersonii</td>
+<td>Emmerson-Delphin, Jacobita</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cercocebus galeritus</td>
+<td>Tana-Haubenmangabe</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cercopithecus diana</td>
+<td>Dianameerkatze</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cercopithecus solatus</td>
+<td>Gabun-Meerkatze</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cervus duvaucelii</td>
+<td>Barasingha</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cervus elaphus hanglu</td>
+<td>Kaschmirhirsch</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cervus eldii</td>
+<td>Leierhirsch</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cetacea spp.</td>
+<td>Wale<br />
+– soweit nicht im Einzelnen aufgeführt</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Chaeropus ecaudatus</td>
+<td>Schweinsfuß</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cheirogaleidae spp.</td>
+<td>Katzenmakis<br />
+– soweit nicht im Einzelnen aufgeführt</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cheirogaleus major</td>
+<td>Großer Katzenmaki</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cheirogaleus medius</td>
+<td>Mittlerer Katzenmaki</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Chinchilla brevicaudata</td>
+<td>Kurzschwanz-Chinchilla</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Chinchilla lanigera</td>
+<td>Langschwanz-Chinchilla</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Chinchilla spp.</td>
+<td>Chinchillas<br />
+– soweit nicht im Einzelnen aufgeführt</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Chiropotes albinasus</td>
+<td>Weißnasensaki</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Colobus satanas</td>
+<td>Schwarzer Colobus</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cynomys mexicanus</td>
+<td>Mexikanischer Präriehund</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Dama mesopotamica</td>
+<td>Mesopotamischer Damhirsch</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Daubentonia madagascariensis</td>
+<td>Fingertier</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Delphinapterus leucas</td>
+<td>Weißwal, Beluga</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Dugong dugong</td>
+<td>Dugong, Pazifische Seekuh</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Elephas maximus</td>
+<td>Asiatischer Elefant</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+</tr>
+<tr class="even">
+<td>Enhydra lutris nereis</td>
+<td>Seeotter</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Equus africanus</td>
+<td>Afrikanischer Wildesel</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Equus grevyi</td>
+<td>Grevyzebra</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Equus hemionus hemionus</td>
+<td>Dschiggetai</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Equus kiang</td>
+<td>Kiang</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Equus onager khur</td>
+<td>Indischer Halbesel</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Equus przewalskii</td>
+<td>Przewalskipferd</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td>+</td>
+</tr>
+<tr class="odd">
+<td>Equus zebra zebra</td>
+<td>Kap-Bergzebra</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Eulemur coronatus</td>
+<td>Kronenmaki</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Eulemur fulvus</td>
+<td>Brauner Lemur</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Eulemur macaco</td>
+<td>Mohrenmaki</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Eulemur mongoz</td>
+<td>Mongozmaki</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Eulemur rubriventer</td>
+<td>Rotbauchmaki</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Felis nigripes</td>
+<td>Schwarzfußkatze</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Felis silvestris</td>
+<td>Wildkatze</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Gazella dama</td>
+<td>Damagazelle</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Gorilla gorilla</td>
+<td>Gorilla</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Hapalemur aureus</td>
+<td>Goldener Bambuslemur</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Hapalemur griseus</td>
+<td>Grauer Halbmaki</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Hapalemur simus</td>
+<td>Großer Halbmaki</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Helarctos malayanus</td>
+<td>Malayenbär</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Herpailurus yaguarondi</td>
+<td>Wieselkatze</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Hippocamelus spp.</td>
+<td>Andenhirsche</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Hippotragus niger variani</td>
+<td>Riesen-Rappenantilope</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Hylobates agilis</td>
+<td>Ungka</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Hylobates concolor</td>
+<td>Schwarzer Schopfgibbon</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Hylobates gabriellae</td>
+<td>Gelbwangen-Schopf-gibbon</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Hylobates lar</td>
+<td>Lar, Weißhandgibbon</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Hylobates leucogenys</td>
+<td>Weißwangen-Schopf-gibbon</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Hylobates moloch</td>
+<td>Silbergibbon</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Hylobates muelleri</td>
+<td>Borneo-Silbergibbon</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Hylobates pileatus</td>
+<td>Kappengibbon</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Hylobates syndactylus</td>
+<td>Siamang</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Hylobatidae spp.</td>
+<td>Gibbons<br />
+– soweit nicht im Einzelnen aufgeführt</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Hystrix cristata</td>
+<td>Stachelschwein</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Indridae spp.</td>
+<td>Indriartige</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Inia geoffrensis</td>
+<td>Orinoko-Flussdelphin</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Lagorchestes hirsutus</td>
+<td>Zottelhasen-Känguruh</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Lagostrophus fasciatus</td>
+<td>Bänder-Känguruh</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Lagothrix flavicauda</td>
+<td>Gelbschwanzwollaffe</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Lasiorhinus krefftii</td>
+<td>Moonie-Wombat</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Lemur catta</td>
+<td>Katta</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Lemuridae spp.</td>
+<td>Lemuren<br />
+– soweit nicht im Einzelnen aufgeführt</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Leontopithecus chrysomelas</td>
+<td>Goldkopf-Löwenäffchen</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td>+</td>
+</tr>
+<tr class="even">
+<td>Leontopithecus rosalia</td>
+<td>Goldgelbes Löwenäffchen</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td>+</td>
+</tr>
+<tr class="odd">
+<td>Leontopithecus spp.</td>
+<td>Löwenäffchen<br />
+– soweit nicht im Einzelnen aufgeführt</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Leopardus pardalis</td>
+<td>Ozelot</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Leopardus tigrinus</td>
+<td>Tigerkatze</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Leopardus wiedii</td>
+<td>Langschwanzkatze</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Leporillus conditor</td>
+<td>Langohr-Häschenratte</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Lontra felina</td>
+<td>Meerotter</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Lontra longicaudis</td>
+<td>Südamerika-Fischotter</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Lontra provocax</td>
+<td>Südlicher Flussotter</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Loxodonta africana</td>
+<td>Afrikanischer Elefant</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Lutra lutra</td>
+<td>Eurasischer Fischotter</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Lynx lynx</td>
+<td>Luchs</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Lynx pardinus</td>
+<td>Pardelluchs</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Macaca silenus</td>
+<td>Wanderu, Bartaffe</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Macrotis lagotis</td>
+<td>Großer Kaninchennasenbeutler</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Macrotis leucura</td>
+<td>Kleiner Kaninchennasenbeutler</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Mandrillus leucophaeus</td>
+<td>Drill</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Mandrillus sphinx</td>
+<td>Mandrill</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Megaladapidae spp.</td>
+<td>Wieselmakis</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Megamuntiacus vuquanghensis</td>
+<td>Riesenmuntjak</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Melursus ursinus</td>
+<td>Lippenbär</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Monachus spp.</td>
+<td>Mönchsrobben</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Moschus spp.</td>
+<td>Moschustiere</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Muntiacus crinifrons</td>
+<td>Schwarzer Muntjak</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Mustela nigripes</td>
+<td>Schwarzfußiltis</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Naemorhedus baileyi</td>
+<td>Goral</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Naemorhedus caudatus</td>
+<td>Langschwanz-Goral</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Naemorhedus goral</td>
+<td>Goral, Waldziegenantilope</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Naemorhedus sumatraensis</td>
+<td>Seran</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Nasalis concolor</td>
+<td>Pageh-Stumpfnasenaffe</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Nasalis larvatus</td>
+<td>Nasenaffe</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Neofelis nebulosa</td>
+<td>Nebelparder</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Oncifelis geoffroyi</td>
+<td>Geoffroy-Katze</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Onychogalea fraenata</td>
+<td>Zügel-Känguruh, Kurznagel-Känguruh</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Onychogalea lunata</td>
+<td>Mondnagel-Känguruh</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Orcinus orca</td>
+<td>Schwertwal</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Oreailurus jacobita</td>
+<td>Bergkatze</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Oryx dammah</td>
+<td>Säbelantilope</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Oryx leucoryx</td>
+<td>Weiße Oryx</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ovis ammon hodgsonii</td>
+<td>Himalayaschaf</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ovis ammon nigrimontana</td>
+<td>Kara-Tau-Wildschaf</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ovis orientalis ophion</td>
+<td>Zyprisches Mufflon</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ovis vignei vignei</td>
+<td>Steppenschaf, Ladakschaf</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ozotoceros bezoarticus</td>
+<td>Pampashirsch</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pan paniscus</td>
+<td>Zwergschimpanse, Bonobo</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pan troglodytes</td>
+<td>Schimpanse</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Panthera leo persica</td>
+<td>Persischer Löwe</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Panthera onca</td>
+<td>Jaguar</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Panthera pardus</td>
+<td>Leopard</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Panthera tigris</td>
+<td>Tiger</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pantholops hodgsonii</td>
+<td>Tschiru (Orongo), Tibetantilope</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pardofelis marmorata</td>
+<td>Marmorkatze</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Perameles bougainville</td>
+<td>Westaustralischer Streifenbeuteldachs</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Phaner furcifer</td>
+<td>Gabelstreif-Katzenmaki</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pongo pygmaeus</td>
+<td>Orang-Utan</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+</tr>
+<tr class="odd">
+<td>Presbytis potenziani</td>
+<td>Mentalwilangur</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Priodontes maximus</td>
+<td>Riesengürteltier</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Prionailurus bengalensis bengalensis</td>
+<td>Indische Bengalkatze, Leopardkatze</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Prionailurus bengalensis iriomotensis</td>
+<td>Iriomotokatze</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Prionailurus planiceps</td>
+<td>Flachkopfkatze</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Prionailurus rubiginosus</td>
+<td>Rostkatze</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Prionodon pardicolor</td>
+<td>Fleckenlingsang</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Procolobus pennantii</td>
+<td>Sansibarstummelaffe</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Procolobus preussi</td>
+<td>Kamerun-Stummelaffe</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Procolobus rufomitratus</td>
+<td>Rotkopfstummelaffe, Roter Colobus</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pseudomys praeconis</td>
+<td>Shark Bay-Falschmaus</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pseudoryx nghetinhensis</td>
+<td>Vietnamesisches Waldrind, Vu-Quang-Rind</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pteronura brasiliensis</td>
+<td>Riesenotter</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pteropus insularis</td>
+<td>Truk-Flughund</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pteropus livingstonei</td>
+<td>Komoren-Flughund</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pteropus mariannus</td>
+<td>Marianen-Flughund</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pteropus molossinus</td>
+<td>Ponape-Flughund</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pteropus phaeocephalus</td>
+<td>Mortloch-Flughund</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pteropus pilosus</td>
+<td>Palau-Flughund</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pteropus rodricensis</td>
+<td>Rodrigez-Flughund</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pteropus samoensis</td>
+<td>Samoa-Flughund</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pteropus tonganus</td>
+<td>Tonga-Flughund</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pteropus voeltzkowi</td>
+<td>Pemba-Flughund</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pudu puda</td>
+<td>Südpudu</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Puma concolor coryi</td>
+<td>Florida-Puma</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Puma concolor costaricensis</td>
+<td>Costa-Rica-Puma</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Puma concolor couguar</td>
+<td>Ostamerikanischer Puma</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pygathrix nemaeus</td>
+<td>Kleideraffe</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pygathrix spp.</td>
+<td>Stumpfnasenaffen, Kleideraffen<br />
+– soweit nicht im Einzelnen aufgeführt</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Rhinocerotidae spp.</td>
+<td>Nashörner</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Romerolagus diazi</td>
+<td>Mexikanisches Vulkankaninchen</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Rupicapra pyrenaica ornata</td>
+<td>Abruzzengemse</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Saguinus bicolor</td>
+<td>Manteläffchen</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Saguinus geoffroyi</td>
+<td>Geoffroy-Perückenäffchen</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Saguinus leucopus</td>
+<td>Weißfußäffchen</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Saguinus oedipus</td>
+<td>Lisztäffchen</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Saimiri oerstedii</td>
+<td>Gelbes Totenkopfäffchen</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Semnopithecus entellus</td>
+<td>Hulman</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sminthopsis longicaudata</td>
+<td>Langschwanz-Schmalfußbeutelmaus</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Sminthopsis psammophila</td>
+<td>Große Wüsten-Schmalfußbeutelmaus</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sotalia spp.</td>
+<td>Sotalias</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Speothos venaticus</td>
+<td>Waldhund</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sus salvanius</td>
+<td>Zwergwildschwein</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tapiridae spp.</td>
+<td>Tapire<br />
+– soweit nicht im Einzelnen aufgeführt</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tapirus bairdii</td>
+<td>Mittelamerikanischer Tapir</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tapirus indicus</td>
+<td>Schabrackentapir</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tapirus pinchaque</td>
+<td>Bergtapir</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tarsius spp.</td>
+<td>Koboldmakis</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Thylacinus cynocephalus</td>
+<td>Beutelwolf</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Trachypithecus francoisi</td>
+<td>Francois-Langur</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Trachypithecus geei</td>
+<td>Gee’s Langur</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Trachypithecus johnii</td>
+<td>Tonkin Langur</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Trachypithecus pileatus</td>
+<td>Schopflangur</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tremarctos ornatus</td>
+<td>Brillenbär</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Trichechus manatus</td>
+<td>Karibische Seekuh</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+</tr>
+<tr class="even">
+<td>Trichechidae spp.</td>
+<td>Seekühe<br />
+– soweit nicht im Einzelnen aufgeführt</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tursiops truncatus</td>
+<td>Großer Tümmler</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Uncia uncia</td>
+<td>Schneeleopard</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ursus arctos</td>
+<td>Braunbär</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ursus thibetanus</td>
+<td>Kragenbär</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Varecia variegata</td>
+<td>Vari</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Vicugna vicugna</td>
+<td>Vicunja</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Xeromys myoides</td>
+<td>Australische Landmaus</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Zyzomys pedunculatus</td>
+<td>Dickschwanzratte</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>Aves</strong></td>
+<td><strong>Vögel</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Accipiter brevipes</td>
+<td>Kurzfangsperber</td>
+<td>+</td>
+<td>10.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Accipiter gentilis</td>
+<td>Habicht</td>
+<td>+</td>
+<td>1,0 = 12.0<br />
+0,1 = 14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Accipiter nisus</td>
+<td>Sperber</td>
+<td>+</td>
+<td>1,0 = 7.0<br />
+0,1 = 8.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Aceros nipalensis</td>
+<td>Nepalhornvogel</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Aceros subruficollis</td>
+<td>Sundajahrvogel</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Acrocephalus arundinaceus</td>
+<td>Drosselrohrsänger</td>
+<td>+</td>
+<td>3.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Acrocephalus dumetorum</td>
+<td>Buschrohrsänger</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Acrocephalus melanopogon</td>
+<td>Mariskensänger</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Acrocephalus paludicola</td>
+<td>Seggenrohrsänger</td>
+<td>+</td>
+<td>2.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Acrocephalus palustris</td>
+<td>Sumpfrohrsänger</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Acrocephalus schoenobaenus</td>
+<td>Schilfrohrsänger</td>
+<td>+</td>
+<td>2.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Acrocephalus scirpaceus</td>
+<td>Teichrohrsänger</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Aegithalos caudatus</td>
+<td>Schwanzmeise</td>
+<td>+</td>
+<td>2.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Aegolius funereus</td>
+<td>Rauhfußkauz</td>
+<td>+</td>
+<td>1,0 = 6.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Aegypius monachus</td>
+<td>Mönchsgeier</td>
+<td>+</td>
+<td>28.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Agapornis lilianae</td>
+<td>Erdbeerköpfchen</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Agelaius flavus</td>
+<td>Gilbstarling</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Alauda arvensis</td>
+<td>Feldlerche</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Alca torda</td>
+<td>Tordalk</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Alcedo atthis</td>
+<td>Eisvogel</td>
+<td>+</td>
+<td>3.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Alectoris barbara</td>
+<td>Felsenhuhn</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Alectoris chukar</td>
+<td>Chukarhuhn</td>
+<td>+</td>
+<td>9.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Alectoris graeca</td>
+<td>Steinhuhn</td>
+<td>+</td>
+<td>10.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Alectoris rufa</td>
+<td>Rothuhn</td>
+<td>+</td>
+<td>10.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Alisterus amboinensis</td>
+<td>Amboina-Königssittich</td>
+<td>+</td>
+<td>7.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Alisterus chloropterus</td>
+<td>Grünflügel-Königssittich</td>
+<td>+</td>
+<td>7.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Alle alle</td>
+<td>Krabbentaucher</td>
+<td>+</td>
+<td>4.5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amazona aestiva</td>
+<td>Blaustirnamazone</td>
+<td>+</td>
+<td>11.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amazona agilis</td>
+<td>Rotspiegelamazone</td>
+<td>+</td>
+<td>9.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amazona albifrons</td>
+<td>Weißstirnamazone</td>
+<td>+</td>
+<td>8.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amazona amazonica</td>
+<td>Venezuela-Amazone</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amazona arausiaca</td>
+<td>Blaukopfamazone</td>
+<td>+</td>
+<td>11.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amazona autumnalis</td>
+<td>Gelbwangenamazone</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amazona autumnalis diadema</td>
+<td>Diadem-Amazone</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amazona barbadensis</td>
+<td>Gelbschulteramazone</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amazona brasiliensis</td>
+<td>Rotschwanzamazone</td>
+<td>+</td>
+<td>11.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amazona collaria</td>
+<td>Jamaika-Amazone</td>
+<td>+</td>
+<td>10.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amazona dufresniana</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amazona dufresniana dufresniana</td>
+<td>Dufresnes Amazone</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amazona farinosa</td>
+<td>Mülleramazone</td>
+<td>+</td>
+<td>11.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amazona festiva</td>
+<td>Blaubartamazone</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amazona festiva bodini</td>
+<td>Bodini Amazone</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amazona festiva festiva</td>
+<td>Blaubartamazone</td>
+<td>+</td>
+<td>11.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amazona finschi</td>
+<td>Blaukappenamazone</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amazona guildingii</td>
+<td>Königsamazone</td>
+<td>+</td>
+<td>11.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amazona imperialis</td>
+<td>Kaiseramazone</td>
+<td>+</td>
+<td>13.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amazona kawalli</td>
+<td>Kawallaamazone</td>
+<td>+</td>
+<td>11.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amazona leucocephala</td>
+<td>Kubaamazone</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amazona mercenaria</td>
+<td>Soldatenamazone</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amazona ochrocephala</td>
+<td>Gelbscheitelamazone</td>
+<td>+</td>
+<td>11.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amazona ochrocephala auropalliata</td>
+<td>Gelbnackenamazone</td>
+<td>+</td>
+<td>11.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amazona ochrocephala oratrix</td>
+<td>Doppelgelbkopf-Amazone</td>
+<td>+</td>
+<td>11.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amazona pretrei</td>
+<td>Prachtamazone</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amazona rhodocorytha</td>
+<td>Granadaamazone</td>
+<td>+</td>
+<td>11.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amazona tucumana</td>
+<td>Tucumanamazone</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amazona ventralis</td>
+<td>Blaukronenamazone</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amazona versicolor</td>
+<td>Blaumaskenamazone</td>
+<td>+</td>
+<td>11.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amazona vinacea</td>
+<td>Taubenhalsamazone</td>
+<td>+</td>
+<td>11.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amazona viridigenalis</td>
+<td>Grünwangenamazone</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amazona vittata</td>
+<td>Puerto-Rico-Amazone</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Amazona xantholora</td>
+<td>Goldzügelamazone</td>
+<td>+</td>
+<td>7.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Amazona xanthops</td>
+<td>Gelbbauch-Amazone</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Anas aucklandica</td>
+<td>Auckland-Ente, Auckland-Kastanienente</td>
+<td>+</td>
+<td>9.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Anas oustaleti</td>
+<td>Marianen-Stockente</td>
+<td>+</td>
+<td>12.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Anodorhynchus hyacinthinus</td>
+<td>Hyazinth-Ara</td>
+<td>+</td>
+<td>16.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Anodorhynchus spp.</td>
+<td>Blauaras<br />
+– soweit nicht im Einzelnen aufgeführt</td>
+<td>+</td>
+<td>18.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Anser erythropus</td>
+<td>Zwergblässgans, Zwerggans</td>
+<td>+</td>
+<td>15.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Anthus berthelotii</td>
+<td>Kanarenpieper</td>
+<td>+</td>
+<td>2.7</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Anthus campestris</td>
+<td>Brachpieper</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Anthus cervinus</td>
+<td>Rotkehlpieper</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Anthus petrosus</td>
+<td>Strandpieper, Wasserpieper</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Anthus pratensis</td>
+<td>Wiesenpieper</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Anthus richardi</td>
+<td>Spornpieper</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Anthus spinoletta</td>
+<td>Bergpieper</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Anthus trivialis</td>
+<td>Baumpieper</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Apus apus</td>
+<td>Mauersegler</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Apus caffer</td>
+<td>Kaffernsegler</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Apus pallidus</td>
+<td>Fahlsegler</td>
+<td>+</td>
+<td>3.2</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Apus unicolor</td>
+<td>Einfarbsegler</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Aquila adalberti</td>
+<td>Spanischer Kaiseradler</td>
+<td>+</td>
+<td>24.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Aquila chrysaetos</td>
+<td>Steinadler</td>
+<td>+</td>
+<td>28.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Aquila clanga</td>
+<td>Schelladler</td>
+<td>+</td>
+<td>20.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Aquila heliaca</td>
+<td>Kaiseradler</td>
+<td>+</td>
+<td>24.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Aquila nipalensis</td>
+<td>Steppenadler</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Aquila pomarina</td>
+<td>Schreiadler</td>
+<td>+</td>
+<td>20.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Aquila rapax</td>
+<td>Raubadler</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ara ambigua</td>
+<td>Großer Soldaten-Ara, Bechstein-Ara</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ara ararauna</td>
+<td>Gelbbrust-Ara</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ara chloroptera</td>
+<td>Dunkelroter Ara</td>
+<td>+</td>
+<td>15.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ara glaucogularis</td>
+<td>Caninde-Ara, Blaukehl-Ara</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ara macao</td>
+<td>Hellroter Ara</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ara militaris</td>
+<td>Kleiner Soldaten-Ara</td>
+<td>+</td>
+<td>13.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ara rubrogenys</td>
+<td>Rotohrara</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ara severa</td>
+<td>Rotbugara</td>
+<td>+</td>
+<td>9.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Aratinga acuticaudata</td>
+<td>Blaustirn-Sittich</td>
+<td>+</td>
+<td>7.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Aratinga erythrogenys</td>
+<td>Guayaquilsittich</td>
+<td>+</td>
+<td>7.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Aratinga euops</td>
+<td>Kubasittich</td>
+<td>+</td>
+<td>6.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Aratinga jandaya</td>
+<td>Jendayasittich</td>
+<td>+</td>
+<td>6.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Aratinga leucophthalmus</td>
+<td>Weißwangensittich</td>
+<td>+</td>
+<td>7.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Aratinga solstitialis</td>
+<td>Sonnensittich</td>
+<td>+</td>
+<td>6.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ardea purpurea</td>
+<td>Purpurreiher</td>
+<td>+</td>
+<td>18.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ardeola ralloides</td>
+<td>Rallenreiher</td>
+<td>+</td>
+<td>8.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ardeotis nigriceps</td>
+<td>Indische Trappe</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Arenaria interpres</td>
+<td>Steinwälzer</td>
+<td>+</td>
+<td>4.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Asio flammeus</td>
+<td>Sumpfohreule</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Asio otus</td>
+<td>Waldohreule</td>
+<td>+</td>
+<td>10.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Athene blewitti</td>
+<td>Bänder-Steinkauz</td>
+<td>+</td>
+<td>6.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Athene noctua</td>
+<td>Steinkauz</td>
+<td>+</td>
+<td>7.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Atrichornis clamosus</td>
+<td>Großer Dickichtschlüpfer</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Aythya innotata</td>
+<td>Malegassen-Moorente</td>
+<td>+</td>
+<td>9.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Bebrornis rodericanus</td>
+<td>Mauritius-Sänger</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Bombycilla garrulus</td>
+<td>Seidenschwanz</td>
+<td>+</td>
+<td>3.2 — 4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Botaurus stellaris</td>
+<td>Rohrdommel</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Branta canadensis leucopareia</td>
+<td>Aleuten-Zwergkanadagans</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Bubo bubo</td>
+<td>Uhu</td>
+<td>+</td>
+<td>1,0 = 16.0<br />
+0,1 = 22.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Bubulcus ibis</td>
+<td>Kuhreiher</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Buceros bicornis</td>
+<td>Homrai-Doppelhornvogel</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Buceros vigil</td>
+<td>Schildhornvogel</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Bulweria bulwerii</td>
+<td>Bulwersturmvogel</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Burhinus oedicnemus</td>
+<td>Triel</td>
+<td>+</td>
+<td>6.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Buteo buteo</td>
+<td>Mäusebussard</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Buteo lagopus</td>
+<td>Rauhfußbussard</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Buteo rufinus</td>
+<td>Adlerbussard</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cacatua alba</td>
+<td>Weißhaubenkakadu</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cacatua ducorpsii</td>
+<td>Salomonen-Kakadu</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cacatua galerita</td>
+<td>Großer Gelbhaubenkakadu</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cacatua galerita triton</td>
+<td>Triton-Geldhaubenkakadu</td>
+<td>+</td>
+<td>13.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cacatua goffini</td>
+<td>Goffinikakadu</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cacatua haematuropygia</td>
+<td>Rotsteißkakadu</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cacatua leadbeateri</td>
+<td>Inka-Kakadu</td>
+<td>+</td>
+<td>11.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cacatua moluccensis</td>
+<td>Molukken-Kakadu</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cacatua pastinator</td>
+<td>Wühler Kakadu</td>
+<td>+</td>
+<td>11.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cacatua sanguinea</td>
+<td>Nacktaugenkakadu</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cacatua sulphurea</td>
+<td>Kleiner Gelbhaubenkakadu</td>
+<td>+</td>
+<td>11.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cacatua sulphurea citrinocristata</td>
+<td>Orangenhaubenkakadu</td>
+<td>+</td>
+<td>11.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cairina scutulata</td>
+<td>Malayenente, Weißflügelente</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Calandrella brachydactyla</td>
+<td>Kurzzehenlerche</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Calandrella rufescens</td>
+<td>Stummellerche</td>
+<td>+</td>
+<td>2.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Calcarius lapponicus</td>
+<td>Spornammer</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Calidris alba</td>
+<td>Sanderling</td>
+<td>+</td>
+<td>3.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Calidris alpina</td>
+<td>Alpenstrandläufer</td>
+<td>+</td>
+<td>2.8 — 3.2</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Calidris canutus</td>
+<td>Knutt</td>
+<td>+</td>
+<td>5.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Calidris ferruginea</td>
+<td>Sichelstrandläufer</td>
+<td>+</td>
+<td>3.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Calidris maritima</td>
+<td>Meerstrandläufer</td>
+<td>+</td>
+<td>3.3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Calidris minuta</td>
+<td>Zwergstrandläufer</td>
+<td>+</td>
+<td>3.5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Calidris temminckii</td>
+<td>Temminckstrandläufer</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Callocephalon fimbriatum</td>
+<td>Helmkakadu</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Caloenas nicobarica</td>
+<td>Kragentaube</td>
+<td>+</td>
+<td>11.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Calonectris diomedea</td>
+<td>Gelbschnabel-Sturmtaucher</td>
+<td>+</td>
+<td>10.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Calyptorhynchus baudinii</td>
+<td>Weißohr-Rabenkakadu</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Calyptorhynchus funereus</td>
+<td>Gelbohr-Rabenkakadu</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Calyptorhynchus banksii</td>
+<td>Banks-Rabenkakadu</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Campephilus imperialis</td>
+<td>Kaiserspecht</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Caprimulgus europaeus</td>
+<td>Ziegenmelker</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Caprimulgus ruficollis</td>
+<td>Rothals-Ziegenmelker</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Carduelis cannabina</td>
+<td>Hänfling</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Carduelis carduelis</td>
+<td>Stieglitz</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Carduelis chloris</td>
+<td>Grünling</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Carduelis flammea</td>
+<td>Birkenzeisig</td>
+<td>+</td>
+<td>2.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Carduelis flavirostris</td>
+<td>Berghänfling</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Carduelis hornemanni</td>
+<td>Polarbirkenzeisig</td>
+<td>+</td>
+<td>2.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Carduelis spinus</td>
+<td>Erlenzeisig</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Carpodacus erythrinus</td>
+<td>Karmingimpel</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Casmerodius albus</td>
+<td>Silberreiher</td>
+<td>+</td>
+<td>18.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Catharacta skua</td>
+<td>Skua</td>
+<td></td>
+<td>13.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cepphus grylle</td>
+<td>Gryllteiste</td>
+<td>+</td>
+<td>12.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cercotrichas galactotes</td>
+<td>Heckensänger</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Certhia brachydactyla</td>
+<td>Gartenbaumläufer</td>
+<td>+</td>
+<td>2.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Certhia familiaris</td>
+<td>Waldbaumläufer</td>
+<td>+</td>
+<td>2.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cettia cetti</td>
+<td>Seidensänger</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Chalcopsitta cardinalis</td>
+<td>Kardinallori</td>
+<td>+</td>
+<td>7.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Charadrius alexandrinus</td>
+<td>Seeregenpfeifer</td>
+<td>+</td>
+<td>3.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Charadrius dubius</td>
+<td>Flussregenpfeifer</td>
+<td>+</td>
+<td>3.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Charadrius hiaticula</td>
+<td>Sandregenpfeifer</td>
+<td>+</td>
+<td>3.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Charadrius leschenaultii</td>
+<td>Wüstenregenpfeifer</td>
+<td>+</td>
+<td>3.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Chersophilus duponti</td>
+<td>Dupont-Lerche</td>
+<td>+</td>
+<td>3.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Chlamydotis undulata</td>
+<td>Kragentrappe</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Chlidonias hybridus</td>
+<td>Weißbartseeschwalbe</td>
+<td>+</td>
+<td>3.5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Chlidonias leucopterus</td>
+<td>Weißflügelseeschwalbe</td>
+<td>+</td>
+<td>3.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Chlidonias niger</td>
+<td>Trauerseeschwalbe</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Chondrohierax uncinatus wilsonii</td>
+<td>Wilsons Langschnabelweihe</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ciconia boyciana</td>
+<td>Schwarzschnabelstorch</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ciconia ciconia</td>
+<td>Weißstorch</td>
+<td>+</td>
+<td>16.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ciconia nigra</td>
+<td>Schwarzstorch</td>
+<td>+</td>
+<td>16.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ciconia stormi</td>
+<td>Höckerstorch</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cinclus cinclus</td>
+<td>Wasseramsel</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Circaetus gallicus</td>
+<td>Schlangenadler</td>
+<td>+</td>
+<td>24.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Circus aeruginosus</td>
+<td>Rohrweihe</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Circus cyaneus</td>
+<td>Kornweihe</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Circus macrourus</td>
+<td>Steppenweihe</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Circus pygargus</td>
+<td>Wiesenweihe</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cisticola juncidis</td>
+<td>Cistensänger</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Clamator glandarius</td>
+<td>Häherkuckuck</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Claravis godefrida</td>
+<td>Purpurbindentäubchen</td>
+<td>+</td>
+<td>4.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Coccothraustes coccothraustes</td>
+<td>Kernbeißer</td>
+<td>+</td>
+<td>3.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Columba bollii</td>
+<td>Bolles Lorbeertaube</td>
+<td>+</td>
+<td>9.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Columba junoniae</td>
+<td>Lorbeertaube</td>
+<td>+</td>
+<td>9.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Columba trocaz</td>
+<td>Silberhalstaube</td>
+<td>+</td>
+<td>9.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Coracias garrulus</td>
+<td>Blauracke</td>
+<td>+</td>
+<td>5.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Corvus corone</td>
+<td>Aaskrähe</td>
+<td>+</td>
+<td>9.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Corvus frugilegus</td>
+<td>Saatkrähe</td>
+<td>+</td>
+<td>9.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Corvus monedula</td>
+<td>Dohle</td>
+<td>+</td>
+<td>6.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cotinga maculata</td>
+<td>Halsbandkotinga</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Crax alberti</td>
+<td>Blaulappenhokko</td>
+<td>+</td>
+<td>20.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Crax blumenbachii</td>
+<td>Blumenbach-Hokko</td>
+<td>+</td>
+<td>20.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Crex crex</td>
+<td>Wachtelkönig</td>
+<td>+</td>
+<td>5.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cuculus canorus</td>
+<td>Kuckuck</td>
+<td>+</td>
+<td>5.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cursorius cursor</td>
+<td>Rennvogel</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cyanoliseus patagonus</td>
+<td>Felsensittich</td>
+<td>+</td>
+<td>7.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cyanopica cyana</td>
+<td>Blauelster</td>
+<td>+</td>
+<td>4.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cyanopsitta spixii</td>
+<td>Spix-Blauara</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cyanoramphus novaezelandiae cookii</td>
+<td>Norfolk-Laufsittich</td>
+<td>+</td>
+<td>4.5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cyclopsitta d. diophthalma</td>
+<td>Maskenzwergpapagei</td>
+<td>+</td>
+<td>4.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cyclopsitta diophthalma coxeni</td>
+<td>Coxens Rotwangen-Zwergpapagei</td>
+<td>+</td>
+<td>4.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cygnus columbianus</td>
+<td>Zwergschwan</td>
+<td>+</td>
+<td>26.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cygnus cygnus</td>
+<td>Singschwan</td>
+<td>+</td>
+<td>26.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Dasyornis broadbenti litoralis</td>
+<td>Westliche Rötlichbraune Grasmücke</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Dasyornis longirostris</td>
+<td>Westliche Langschnabelgrasmücke</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Delichon urbica</td>
+<td>Mehlschwalbe</td>
+<td>+</td>
+<td>2.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Dendrocopos leucotos</td>
+<td>Weißrückenspecht</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Dendrocopos major</td>
+<td>Buntspecht</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Dendrocopos medius</td>
+<td>Mittelspecht</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Dendrocopos minor</td>
+<td>Kleinspecht</td>
+<td>+</td>
+<td>2.7</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Dendrocopos syriacus</td>
+<td>Blutspecht</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Deroptyus accipitrinus</td>
+<td>Fächerpapagei</td>
+<td>+</td>
+<td>8.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Deroptyus accipitrinus fuscifrons</td>
+<td>Fächerpapagei</td>
+<td>+</td>
+<td>8.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Diomedea albatrus</td>
+<td>Kurzschwanzalbatros</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Diopsittaca nobilis</td>
+<td>Hahns Zwergara</td>
+<td>+</td>
+<td>7.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Dryocopus javensis richardsi</td>
+<td>Korea-Weißbauch-Schwarzspecht</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Dryocopus martius</td>
+<td>Schwarzspecht</td>
+<td>+</td>
+<td>6.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ducula mindorensis</td>
+<td>Mindoro-Bronze-fruchttaube</td>
+<td>+</td>
+<td>10.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Eclectus roratus</td>
+<td>Edelpapagei</td>
+<td>+</td>
+<td>11.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Egretta garzetta</td>
+<td>Seidenreiher</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Elanus caeruleus</td>
+<td>Gleitaar</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Emberiza aureola</td>
+<td>Weidenammer</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Emberiza caesia</td>
+<td>Grauortolan</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Emberiza cia</td>
+<td>Zippammer</td>
+<td>+</td>
+<td>2.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Emberiza cirlus</td>
+<td>Zaunammer</td>
+<td>+</td>
+<td>2.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Emberiza citrinella</td>
+<td>Goldammer</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Emberiza hortulana</td>
+<td>Ortolan</td>
+<td>+</td>
+<td>2.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Emberiza melanocephala</td>
+<td>Kappenammer</td>
+<td>+</td>
+<td>3.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Emberiza pusilla</td>
+<td>Zwergammer</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Emberiza rustica</td>
+<td>Waldammer</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Emberiza schoeniclus</td>
+<td>Rohrammer</td>
+<td>+</td>
+<td>2.3 — 2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Eolophus roseicapillus</td>
+<td>Rosakakadu</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Eos bornea</td>
+<td>Rotlori</td>
+<td>+</td>
+<td>6.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Eos cyanogenia</td>
+<td>Blauohrlori</td>
+<td>+</td>
+<td>6.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Eos histrio</td>
+<td>Diademlori</td>
+<td>+</td>
+<td>7.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Eos squamata</td>
+<td>Kapuzenlori</td>
+<td>+</td>
+<td>6.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Eos reticulata</td>
+<td>Blaustrichellori</td>
+<td>+</td>
+<td>6.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Eremophila alpestris</td>
+<td>Ohrenlerche</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Erithacus rubecula</td>
+<td>Rotkehlchen</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Eudromias morinellus</td>
+<td>Mornellregenpfeifer</td>
+<td>+</td>
+<td>4.5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Eunymphicus cornutus</td>
+<td>Hornsittich</td>
+<td>+</td>
+<td>6.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Eupodotis bengalensis</td>
+<td>Barttrappe</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Eupodotis indica</td>
+<td>Flaggentrappe</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Eutriorchis astur</td>
+<td>Schlangenhabicht</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Falco amurensis</td>
+<td>Amur-Falke</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Falco araea</td>
+<td>Seychellen-Turmfalke</td>
+<td>+</td>
+<td>9.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Falco biarmicus</td>
+<td>Lannerfalke</td>
+<td>+</td>
+<td>1,0 = 12.0<br />
+0,1 = 14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Falco cherrug</td>
+<td>Würgfalke, Sakerfalke</td>
+<td>+</td>
+<td>1,0 = 13.0<br />
+0,1 = 14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Falco columbarius</td>
+<td>Merlin</td>
+<td>+</td>
+<td>7.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Falco eleonorae</td>
+<td>Eleonorenfalke</td>
+<td>+</td>
+<td>8.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Falco jugger</td>
+<td>Laggarfalke</td>
+<td>+</td>
+<td>1,0 = 13.0<br />
+0,1 = 14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Falco naumanni</td>
+<td>Rötelfalke</td>
+<td>+</td>
+<td>7.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Falco newtoni</td>
+<td>Madagaskarfalke</td>
+<td>+</td>
+<td>8.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Falco pelegrinoides</td>
+<td>Wüstenfalke, Berberfalke</td>
+<td>+</td>
+<td>1,0 = 12.0<br />
+0,1 = 14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Falco peregrinus</td>
+<td>Wanderfalke</td>
+<td>+</td>
+<td>1,0 = 12.0<br />
+0,1 = 13.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Falco punctatus</td>
+<td>Mauritius-Turmfalke</td>
+<td>+</td>
+<td>9.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Falco rusticolus</td>
+<td>Gerfalke</td>
+<td>+</td>
+<td>1,0 = 14.0<br />
+0,1 = 15.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Falco sparverius</td>
+<td>Buntfalke</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Falco subbuteo</td>
+<td>Baumfalke</td>
+<td>+</td>
+<td>9.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Falco tinnunculus</td>
+<td>Turmfalke</td>
+<td>+</td>
+<td>8.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Falco vespertinus</td>
+<td>Rotfußfalke</td>
+<td>+</td>
+<td>9.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ficedula albicollis</td>
+<td>Halsbandschnäpper</td>
+<td>+</td>
+<td>2.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ficedula hypoleuca</td>
+<td>Trauerschnäpper</td>
+<td>+</td>
+<td>2.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ficedula parva</td>
+<td>Zwergschnäpper</td>
+<td>+</td>
+<td>2.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ficedula semitorquata</td>
+<td>Halbringschnäpper</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Fratercula arctica</td>
+<td>Papageitaucher</td>
+<td>+</td>
+<td>4.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Fregata andrewsi</td>
+<td>Fregattvogel</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Fringilla coelebs</td>
+<td>Buchfink</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Fringilla montifringilla</td>
+<td>Bergfink</td>
+<td></td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Fringilla teydea</td>
+<td>Teydefink</td>
+<td>+</td>
+<td>3.2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Fulica cristata</td>
+<td>Kammblässhuhn</td>
+<td>+</td>
+<td>12.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Fulmarus glacialis</td>
+<td>Eissturmvogel</td>
+<td>+</td>
+<td>10.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Galerida cristata</td>
+<td>Haubenlerche</td>
+<td>+</td>
+<td>3.0 – 3.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Galerida theklae</td>
+<td>Theklalerche</td>
+<td>+</td>
+<td>3.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Gallinago gallinago</td>
+<td>Bekassine</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Gallinago media</td>
+<td>Doppelschnepfe</td>
+<td>+</td>
+<td>5.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Gallinula chloropus</td>
+<td>Teichhuhn</td>
+<td>+</td>
+<td>8.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Gallirallus sylvestris</td>
+<td>Lord-Howe-Waldralle</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Garrulus glandarius</td>
+<td>Eichelhäher</td>
+<td>+</td>
+<td>5.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Gavia arctica</td>
+<td>Prachttaucher</td>
+<td>+</td>
+<td>18.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Gavia immer</td>
+<td>Eistaucher</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Gavia stellata</td>
+<td>Sterntaucher</td>
+<td>+</td>
+<td>18.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Geoffroyus geoffroyi</td>
+<td>Rotkopfpapagei</td>
+<td>+</td>
+<td>9.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Geopsittacus occidentalis</td>
+<td>Nachtsittich</td>
+<td>+</td>
+<td>4.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Geronticus calvus</td>
+<td>Glattnackenibis</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Geronticus eremita</td>
+<td>Waldrapp</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Glareola pratincola</td>
+<td>Brachschwalbe</td>
+<td>+</td>
+<td>5.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Glaucidium passerinum</td>
+<td>Sperlingskauz</td>
+<td>+</td>
+<td>6.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Glaucis dorhnii</td>
+<td>Hakenschnabel-Kolibri</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Grus americana</td>
+<td>Schreikranich</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Grus canadensis</td>
+<td>Kanadakranich</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Grus grus</td>
+<td>Kranich</td>
+<td>+</td>
+<td>19.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Grus japonensis</td>
+<td>Mandschurenkranich</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Grus leucogeranus</td>
+<td>Nonnenkranich</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Grus monacha</td>
+<td>Mönchskranich</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Grus nigricollis</td>
+<td>Schwarzhalskranich</td>
+<td></td>
+<td>16.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Grus virgo</td>
+<td>Jungfernkranich</td>
+<td></td>
+<td>18.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Grus vipio</td>
+<td>Weißnackenkranich</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Guarouba guarouba</td>
+<td>Goldsittich</td>
+<td>+</td>
+<td>9.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Gymnogyps californianus</td>
+<td>Kalifornischer Kondor</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Gypaetus barbatus</td>
+<td>Bartgeier</td>
+<td>+</td>
+<td>28.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Gyps fulvus</td>
+<td>Gänsegeier</td>
+<td>+</td>
+<td>28.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Haematopus ostralegus</td>
+<td>Austernfischer</td>
+<td>+</td>
+<td>8.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Haliaeetus albicilla</td>
+<td>Seeadler</td>
+<td>+</td>
+<td>1,0 = 24.0<br />
+0,1 = 26.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Haliaeetus leucocephalus</td>
+<td>Weißkopfseeadler</td>
+<td>+</td>
+<td>1,0 = 24.0<br />
+0,1 = 28.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Haliaeetus leucogaster</td>
+<td>Weißbauchseeadler</td>
+<td>+</td>
+<td>1,0 = 24.0<br />
+0,1 = 28.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Haliaeetus leucoryphus</td>
+<td>Bindenseeadler</td>
+<td>+</td>
+<td>1,0 = 24.0<br />
+0,1 = 28.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Haliaeetus pelagicus</td>
+<td>Riesenseeadler</td>
+<td>+</td>
+<td>1,0 = 24.0<br />
+0,1 = 28.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Haliaeetus sanfordi</td>
+<td>Salomonenseeadler</td>
+<td>+</td>
+<td>1,0 = 24.0<br />
+0,1 = 28.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Haliaeetus vocifer</td>
+<td>Schreiseeadler</td>
+<td>+</td>
+<td>1,0 = 24.0<br />
+0,1 = 28.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Haliaeetus vociferoides</td>
+<td>Madagaskarseeadler</td>
+<td>+</td>
+<td>1,0 = 24.0<br />
+0,1 = 28.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Harpia harpyja</td>
+<td>Harpyie</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Hieraaetus fasciatus</td>
+<td>Habichtsadler</td>
+<td>+</td>
+<td>20.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Hieraaetus pennatus</td>
+<td>Zwergadler</td>
+<td>+</td>
+<td>22.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Himantopus himantopus</td>
+<td>Stelzenläufer</td>
+<td>+</td>
+<td>5.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Hippolais icterina</td>
+<td>Gelbspötter</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Hippolais olivetorum</td>
+<td>Olivenspötter</td>
+<td>+</td>
+<td>2.7</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Hippolais pallida</td>
+<td>Blassspötter</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Hippolais polyglotta</td>
+<td>Orpheusspötter</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Hirundo daurica</td>
+<td>Rötelschwalbe</td>
+<td>+</td>
+<td>2.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Hirundo rupestris</td>
+<td>Felsenschwalbe</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Hirundo rustica</td>
+<td>Rauchschwalbe</td>
+<td>+</td>
+<td>2.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Histrionicus histrionicus</td>
+<td>Kragenente</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Hydrobates pelagicus</td>
+<td>Sturmschwalbe</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ixobrychus minutus</td>
+<td>Zwergdommel</td>
+<td>+</td>
+<td>6.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Jabiru mycteria</td>
+<td>Jabiru</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Jynx torquilla</td>
+<td>Wendehals</td>
+<td>+</td>
+<td>3.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Lagopus lagopus</td>
+<td>Moorschneehuhn</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Lanius collurio</td>
+<td>Neuntöter</td>
+<td>+</td>
+<td>3.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Lanius excubitor</td>
+<td>Raubwürger</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Lanius minor</td>
+<td>Schwarzstirnwürger</td>
+<td>+</td>
+<td>3.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Lanius nubicus</td>
+<td>Maskenwürger</td>
+<td>+</td>
+<td>3.2</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Lanius senator</td>
+<td>Rotkopfwürger</td>
+<td>+</td>
+<td>3.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Larus audouinii</td>
+<td>Korallenmöwe</td>
+<td>+</td>
+<td>10.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Larus cachinnans</td>
+<td>Weißkopfmöwe</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Larus genei</td>
+<td>Dünnschnabelmöwe</td>
+<td>+</td>
+<td>10.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Larus glaucoides</td>
+<td>Polarmöwe</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Larus hyperboreus</td>
+<td>Eismöwe</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Larus melanocephalus</td>
+<td>Schwarzkopfmöwe</td>
+<td>+</td>
+<td>1,0 = 6.5<br />
+0,1 = 7.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Larus relictus</td>
+<td>Gobi-Schwarzkopfmöwe</td>
+<td>+</td>
+<td>7.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Leptoptilos dubius</td>
+<td>Argala</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Leptotila wellsi</td>
+<td>Wellstaube</td>
+<td>+</td>
+<td>6.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Leucopsar rothschildi</td>
+<td>Balistar, Rotschild-Mynah</td>
+<td>+</td>
+<td>5.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Leucopternis occidentalis</td>
+<td>Graurückenbussard</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Lichenostomus melanops cassidix</td>
+<td>Büschelohr-Honigfresser</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Limicola falcinellus</td>
+<td>Sumpfläufer</td>
+<td>+</td>
+<td>3.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Limosa lapponica</td>
+<td>Pfuhlschnepfe</td>
+<td>+</td>
+<td>5.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Limosa limosa</td>
+<td>Uferschnepfe</td>
+<td>+</td>
+<td>6.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Locustella fluviatilis</td>
+<td>Schlagschwirl</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Locustella luscinioides</td>
+<td>Rohrschwirl</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Locustella naevia</td>
+<td>Feldschwirl</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Lophophorus lhuysii</td>
+<td>Grünschwanz-Glanzfasan</td>
+<td>+</td>
+<td>16.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Lophophorus sclateri</td>
+<td>Weißschwanz-Glanzfasan</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Lophura imperialis</td>
+<td>Kaiserfasan</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Loriculus galgulus</td>
+<td>Blaukrönchen</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Loxia curvirostra</td>
+<td>Fichtenkreuzschnabel</td>
+<td>+</td>
+<td>3.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Loxia leucoptera</td>
+<td>Bindenkreuzschnabel</td>
+<td>+</td>
+<td>3.2</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Loxia pytyopsittacus</td>
+<td>Kiefernkreuzschnabel</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Loxia scotica</td>
+<td>Schottischer Fichtenkreuzschnabel</td>
+<td>+</td>
+<td>3.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Lullula arborea</td>
+<td>Heidelerche</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Luscinia luscinia</td>
+<td>Sprosser</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Luscinia megarhynchos</td>
+<td>Nachtigall</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Luscinia svecica</td>
+<td>Blaukehlchen</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Lymnocryptes minimus</td>
+<td>Zwergschnepfe</td>
+<td>+</td>
+<td>3.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Macrocephalon maleo</td>
+<td>Hammerhuhn</td>
+<td>+</td>
+<td>20.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Melanitta perspicillata</td>
+<td>Brillenente</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Melanocorypha calandra</td>
+<td>Kalanderlerche</td>
+<td>+</td>
+<td>3.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Meleagris gallopavo</td>
+<td>Wildtruthuhn</td>
+<td>+</td>
+<td>20.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Mergus octosetaceus</td>
+<td>Dunkelsäger</td>
+<td>+</td>
+<td>1,0 = 10.0<br />
+0,1 = 11.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Merops apiaster</td>
+<td>Bienenfresser</td>
+<td></td>
+<td>3.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Miliaria calandra</td>
+<td>Grauammer</td>
+<td>+</td>
+<td>3.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Milvus migrans</td>
+<td>Schwarzmilan</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Milvus milvus</td>
+<td>Rotmilan</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Mimizuku gurneyi</td>
+<td>Riesen-Zwergohreule, Rotohreule</td>
+<td></td>
+<td>8.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Mitu mitu mitu</td>
+<td>Nordwest-Mitu</td>
+<td>+</td>
+<td>20.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Monticola saxatilis</td>
+<td>Steinrötel</td>
+<td>+</td>
+<td>3.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Monticola solitarius</td>
+<td>Blaumerle</td>
+<td>+</td>
+<td>3.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Montifringilla nivalis</td>
+<td>Schneefink</td>
+<td>+</td>
+<td>3.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Morus bassanus</td>
+<td>Basstölpel</td>
+<td>+</td>
+<td>20.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Motacilla alba</td>
+<td>Bachstelze</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Motacilla cinerea</td>
+<td>Gebirgsstelze</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Motacilla citreola</td>
+<td>Zitronenstelze</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Motacilla flava</td>
+<td>Schafstelze</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Muscicapa striata</td>
+<td>Grauschnäpper</td>
+<td>+</td>
+<td>2.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Mycteria cinerea</td>
+<td>Malaien-Nimmersatt-Milchstorch</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Nandayus nenday</td>
+<td>Nandaysittich</td>
+<td>+</td>
+<td>6.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Neophema chrysogaster</td>
+<td>Gold- oder Orangebauchsittich</td>
+<td>+</td>
+<td>3.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Neophron percnopterus</td>
+<td>Schmutzgeier</td>
+<td>+</td>
+<td>20.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Nestor notabilis</td>
+<td>Kea</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ninox novaeseelandiae undulata</td>
+<td>Kuckuckskauz, nur ssp. undulata</td>
+<td>+</td>
+<td>9.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ninox squamipila natalis</td>
+<td>Weihnachtsinselkauz</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Nipponia nippon</td>
+<td>Japanischer Ibis</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Nucifraga caryocatactes</td>
+<td>Tannenhäher</td>
+<td>+</td>
+<td>6.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Numenius arquata</td>
+<td>Großer Brachvogel</td>
+<td>+</td>
+<td>9.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Numenius borealis</td>
+<td>Eskimo-Brachvogel</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Numenius phaeopus</td>
+<td>Regenbrachvogel</td>
+<td>+</td>
+<td>7.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Numenius tenuirostris</td>
+<td>Dünnschnabel-Brachvogel</td>
+<td>+</td>
+<td>6.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Nyctea scandiaca</td>
+<td>Schnee-Eule</td>
+<td>+</td>
+<td>18.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Nycticorax nycticorax</td>
+<td>Nachtreiher</td>
+<td>+</td>
+<td>9.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Oceanodroma castro</td>
+<td>Madeirawellenläufer</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Oceanodroma leucorhoa</td>
+<td>Wellenläufer</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Odontophorus strophium</td>
+<td>Kragenwachtel</td>
+<td>+</td>
+<td>6.5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Oenanthe hispanica</td>
+<td>Mittelmeer-Steinschmätzer</td>
+<td>+</td>
+<td>2.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Oenanthe isabellina</td>
+<td>Isabellsteinschmätzer</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Oenanthe leucura</td>
+<td>Trauersteinschmätzer</td>
+<td>+</td>
+<td>3.2</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Oenanthe oenanthe</td>
+<td>Steinschmätzer</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Oenanthe pleschanka</td>
+<td>Nonnensteinschmätzer</td>
+<td>+</td>
+<td>2.2</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ognorhynchus icterotis</td>
+<td>Gelbohrsittich</td>
+<td>+</td>
+<td>7.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ophrysia superciliosa</td>
+<td>Hangwachtel</td>
+<td>+</td>
+<td>6.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Oreophasis derbianus</td>
+<td>Bergguan</td>
+<td>+</td>
+<td>18.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Oriolus oriolus</td>
+<td>Pirol</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Orthopsittaca manilata</td>
+<td>Rotbauchara</td>
+<td>+</td>
+<td>8.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Otis tarda</td>
+<td>Großtrappe</td>
+<td></td>
+<td>26.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Otus ireneae</td>
+<td>Sokoko-Eule</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Otus scops</td>
+<td>Zwergohreule</td>
+<td>+</td>
+<td>6.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Oxyura jamaicensis</td>
+<td>Schwarzkopfruderente</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Oxyura leucocephala</td>
+<td>Weißkopfruderente</td>
+<td>+</td>
+<td>9.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pandion haliaetus</td>
+<td>Fischadler</td>
+<td>+</td>
+<td>19.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Panurus biarmicus</td>
+<td>Bartmeise</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Papasula abbotti</td>
+<td>Graufußtölpel</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Parus ater</td>
+<td>Tannenmeise</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Parus caeruleus</td>
+<td>Blaumeise</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Parus cinctus</td>
+<td>Lapplandmeise</td>
+<td>+</td>
+<td>2.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Parus cristatus</td>
+<td>Haubenmeise</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Parus lugubris</td>
+<td>Trauermeise</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Parus major</td>
+<td>Kohlmeise</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Parus montanus</td>
+<td>Weidenmeise</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Parus palustris</td>
+<td>Sumpfmeise</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Passer domesticus</td>
+<td>Haussperling</td>
+<td>+</td>
+<td>3.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Passer hispaniolensis</td>
+<td>Weidensperling</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Passer montanus</td>
+<td>Feldsperling</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pelagodroma marina</td>
+<td>Fregatt-Sturmschwalbe</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pelecanus crispus</td>
+<td>Krauskopfpelikan</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pelecanus onocrotalus</td>
+<td>Rosapelikan</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Penelope albipennis</td>
+<td>Weißschwingenguan</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Perisoreus infaustus</td>
+<td>Unglückshäher</td>
+<td>+</td>
+<td>5.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pernis apivorus</td>
+<td>Wespenbussard</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Petronia petronia</td>
+<td>Steinsperling</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pezoporus wallicus</td>
+<td>Erdsittich</td>
+<td>+</td>
+<td>4.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Phaethon aethereus</td>
+<td>Rotschnabel-Tropikvogel</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Phalacrocorax aristotelis</td>
+<td>Krähenscharbe</td>
+<td>+</td>
+<td>16.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Phalacrocorax carbo</td>
+<td>Kormoran</td>
+<td>+</td>
+<td>18.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Phalacrocorax pygmeus</td>
+<td>Zwergscharbe</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Phalaropus fulicaria</td>
+<td>Thorshühnchen</td>
+<td>+</td>
+<td>3.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Phalaropus lobatus</td>
+<td>Odinshühnchen</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pharomachrus mocinno</td>
+<td>Quetzal</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Philomachus pugnax</td>
+<td>Kampfläufer</td>
+<td>+</td>
+<td>1,0 = 5.0<br />
+0,1 = 4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Phoenicopterus ruber</td>
+<td>Flamingo</td>
+<td></td>
+<td>18.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Phoenicurus ochruros</td>
+<td>Hausrotschwanz</td>
+<td>+</td>
+<td>2.5 – 2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Phoenicurus phoenicurus</td>
+<td>Gartenrotschwanz</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Phylloscopus bonelli</td>
+<td>Berglaubsänger</td>
+<td>+</td>
+<td>2.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Phylloscopus borealis</td>
+<td>Wanderlaubsänger</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Phylloscopus collybita</td>
+<td>Zilpzalp</td>
+<td>+</td>
+<td>2.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Phylloscopus sibilatrix</td>
+<td>Waldlaubsänger</td>
+<td>+</td>
+<td>2.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Phylloscopus trochilus</td>
+<td>Fitis</td>
+<td>+</td>
+<td>2.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Phylloscopus trochiloides</td>
+<td>Grünlaubsänger</td>
+<td>+</td>
+<td>2.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pica pica</td>
+<td>Elster</td>
+<td>+</td>
+<td>6.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Picathartes gymnocephalus</td>
+<td>Gelbkopf-Felshüpfer</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Picathartes oreas</td>
+<td>Buntkopf-Felshüpfer</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Picoides tridactylus</td>
+<td>Dreizehenspecht</td>
+<td></td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Picus canus</td>
+<td>Grauspecht</td>
+<td></td>
+<td>5.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Picus viridis</td>
+<td>Grünspecht</td>
+<td></td>
+<td>5.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pinicola enucleator</td>
+<td>Hakengimpel</td>
+<td>+</td>
+<td>3.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pionites melanocephala</td>
+<td>Grünzügelpapagei</td>
+<td>+</td>
+<td>7.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pionopsitta pileata</td>
+<td>Scharlachkopfpapagei</td>
+<td>+</td>
+<td>7.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pionus fuscus</td>
+<td>Veilchenpapagei</td>
+<td>+</td>
+<td>8.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pionus maximiliani</td>
+<td>Maximilians Papagei</td>
+<td>+</td>
+<td>7.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pionus menstruus</td>
+<td>Schwarzohrpapagei</td>
+<td>+</td>
+<td>8.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pipile jacutinga</td>
+<td>Schakutinga</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pipile pipile pipile</td>
+<td>Schakuhuhn</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pithecophaga jefferyi</td>
+<td>Affenadler</td>
+<td>+</td>
+<td>28.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pitta gurneyi</td>
+<td>Goldkehlpitta</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pitta kochi</td>
+<td>Kochs Pitta</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Platalea leucorodia</td>
+<td>Löffler</td>
+<td>+</td>
+<td>16.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Plectrophenax nivalis</td>
+<td>Schneeammer</td>
+<td>+</td>
+<td>3.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Plegadis falcinellus</td>
+<td>Braunsichler</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pluvialis apricaria</td>
+<td>Goldregenpfeifer</td>
+<td>+</td>
+<td>5.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pluvialis squatarola</td>
+<td>Kiebitzregenpfeifer</td>
+<td>+</td>
+<td>5.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Podiceps auritus</td>
+<td>Ohrentaucher</td>
+<td>+</td>
+<td>10.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Podiceps grisegena</td>
+<td>Rothalstaucher</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Podiceps nigricollis</td>
+<td>Schwarzhalstaucher</td>
+<td>+</td>
+<td>10.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Podilymbus gigas</td>
+<td>Atitlantaucher</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Poicephalus cryptoxanthus</td>
+<td>Braunkopfpapagei</td>
+<td>+</td>
+<td>7.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Poicephalus gulielmi</td>
+<td>Grüner Kongopapagei</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Poicephalus meyeri</td>
+<td>Goldbugpapagei</td>
+<td>+</td>
+<td>7.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Poicephalus rueppellii</td>
+<td>Rüppells Papagei</td>
+<td>+</td>
+<td>7.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Poicephalus rufiventris</td>
+<td>Rotbauchpapagei</td>
+<td>+</td>
+<td>7.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Poicephalus senegalus</td>
+<td>Mohrenkopfpapagei</td>
+<td>+</td>
+<td>7.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Polyplectron emphanum</td>
+<td>Palawan-Spiegelpfau, Palawan-Pfaufasan</td>
+<td>+</td>
+<td>10.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Polysticta stelleri</td>
+<td>Scheckente</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Porphyrio porphyrio</td>
+<td>Purpurhuhn</td>
+<td>+</td>
+<td>12.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Porzana parva</td>
+<td>Kleines Sumpfhuhn, Kleinralle</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Porzana porzana</td>
+<td>Tüpfelsumpfhuhn, Tüpfelralle</td>
+<td>+</td>
+<td>5.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Porzana pusilla</td>
+<td>Zwergsumpfhuhn, Zwergralle</td>
+<td>+</td>
+<td>5.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Probosciger aterrimus</td>
+<td>Ara-Kakadu, Palmkakadu</td>
+<td>+</td>
+<td>16.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Propyrrhura auricollis</td>
+<td>Halsbandara</td>
+<td>+</td>
+<td>7.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Propyrrhura couloni</td>
+<td>Blaukopfara</td>
+<td>+</td>
+<td>9.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Propyrrhura maracana</td>
+<td>Rotrücken-Ara</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Prosopeia tabuensis</td>
+<td>Pompadoursittich</td>
+<td>+</td>
+<td>7.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Prunella collaris</td>
+<td>Alpenbraunelle</td>
+<td>+</td>
+<td>3.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Prunella modularis</td>
+<td>Heckenbraunelle</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Psephotus chrysopterygius</td>
+<td>Goldschultersittich</td>
+<td>+</td>
+<td>4.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Psephotus pulcherrimus</td>
+<td>Paradiessittich</td>
+<td>+</td>
+<td>4.5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pseudibis gigantea</td>
+<td>Riesenibis</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pseudochelidon sirintarae</td>
+<td>Sirintaraschwalbe</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Psittacula alexandri</td>
+<td>Rosenbrustbartsittich</td>
+<td>+</td>
+<td>6.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Psittacula columboides</td>
+<td>Taubensittich</td>
+<td>+</td>
+<td>5.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Psittacula cyanocephala</td>
+<td>Pflaumenkopfsittich</td>
+<td>+</td>
+<td>5.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Psittacula echo</td>
+<td>Mauritiussittich</td>
+<td>+</td>
+<td>7.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Psittacula longicauda</td>
+<td>Langschwanzedelsittich</td>
+<td>+</td>
+<td>5.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Psittacus erithacus</td>
+<td>Graupapagei</td>
+<td>+</td>
+<td>11.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Psittacus erithacus timneh</td>
+<td>Timneh Graupapagei</td>
+<td>+</td>
+<td>9.5</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Psittrichas fulgidus</td>
+<td>Borstenkopf</td>
+<td>+</td>
+<td>14.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pterocles alchata</td>
+<td>Spießflughuhn</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pterocles orientalis</td>
+<td>Sandflughuhn</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pterodroma feae</td>
+<td>Weichfeder-Sturmvogel</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pterodroma madeira</td>
+<td>Madeirasturmvogel</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Puffinus assimilis</td>
+<td>Kleiner Sturmtaucher</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Puffinus gravis</td>
+<td>Großer Sturmtaucher</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Puffinus griseus</td>
+<td>Dunkler Sturmtaucher</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Puffinus puffinus</td>
+<td>Schwarzschnabel-Sturmtaucher</td>
+<td>+</td>
+<td>10.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Puffinus yelkouan</td>
+<td>Yelkouan-Sturmtaucher</td>
+<td>+</td>
+<td>10.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pyrrhocorax graculus</td>
+<td>Alpendohle</td>
+<td>+</td>
+<td>7.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pyrrhocorax pyrrhocorax</td>
+<td>Alpenkrähe</td>
+<td>+</td>
+<td>7.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pyrrhula pyrrhula</td>
+<td>Gimpel</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pyrrhura cruentata</td>
+<td>Blaulatzsittich</td>
+<td>+</td>
+<td>6.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Pyrrhura picta</td>
+<td>Blaustirn-Rotschwanzsittich</td>
+<td>+</td>
+<td>7.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pyrrhura perlata</td>
+<td>Rotbauchsittich</td>
+<td>+</td>
+<td>5.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Rallus aquaticus</td>
+<td>Wasserralle</td>
+<td>+</td>
+<td>5.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Recurvirostra avosetta</td>
+<td></td>
+<td>+</td>
+<td>6.5 – 7.5</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Regulus ignicapillus</td>
+<td>Sommergoldhähnchen</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Regulus regulus</td>
+<td>Wintergoldhähnchen</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Regulus teneriffae</td>
+<td>Teneriffa-Goldhähnchen</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Remiz pendulinus</td>
+<td>Beutelmeise</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Rhea pennata</td>
+<td>Darwin-Nandu</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Rheinardia ocellata</td>
+<td>Rheinartfasan</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Rhodonessa caryophyllacea</td>
+<td>Rosenkopf- oder Nelkenente</td>
+<td>+</td>
+<td>10.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Rhodopechys githaginea</td>
+<td>Wüstengimpel</td>
+<td>+</td>
+<td>2.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Rhynchopsitta spp.</td>
+<td>Arasittiche</td>
+<td>+</td>
+<td>7.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Rhynochetos jubatus</td>
+<td>Kagu</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Riparia riparia</td>
+<td>Uferschwalbe</td>
+<td></td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Saxicola dacotiae</td>
+<td>Kanarenschmätzer</td>
+<td>+</td>
+<td>3.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Saxicola rubetra</td>
+<td>Braunkehlchen</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Saxicola torquata</td>
+<td>Schwarzkehlchen</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Serinus canaria</td>
+<td>Kanarengirlitz</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Serinus citrinella</td>
+<td>Zitronengirlitz</td>
+<td>+</td>
+<td>2.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Serinus serinus</td>
+<td>Girlitz</td>
+<td>+</td>
+<td>2.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Sitta europaea</td>
+<td>Kleiber</td>
+<td>+</td>
+<td>3.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sitta neumayer</td>
+<td>Felsenkleiber</td>
+<td></td>
+<td>3.2</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Sitta whiteheadi</td>
+<td>Korsenkleiber</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Somateria spectabilis</td>
+<td>Prachteiderente</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Spheniscus humboldti</td>
+<td>Humboldtpinguin</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Stercorarius longicaudus</td>
+<td>Falkenraubmöwe</td>
+<td>+</td>
+<td>6.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Stercorarius parasiticus</td>
+<td>Schmarotzerraubmöwe</td>
+<td>+</td>
+<td>6.5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Stercorarius pomarinus</td>
+<td>Spatelraubmöwe</td>
+<td>+</td>
+<td>8.5</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Sterna albifrons</td>
+<td>Zwergseeschwalbe</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sterna caspia</td>
+<td>Rauchseeschwalbe</td>
+<td>+</td>
+<td>9.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Sterna dougallii</td>
+<td>Rosenseeschwalbe</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sterna fuscata</td>
+<td>Rußseeschwalbe</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Sterna hirundo</td>
+<td>Flussseeschwalbe</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sterna nilotica</td>
+<td>Lachseeschwalbe</td>
+<td>+</td>
+<td>5.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Sterna paradisaea</td>
+<td>Küstenseeschwalbe</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sterna sandvicensis</td>
+<td>Brandseeschwalbe</td>
+<td>+</td>
+<td>5.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Strigops habroptilus</td>
+<td>Eulenpapagei</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Strix aluco</td>
+<td>Waldkauz</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Strix nebulosa</td>
+<td>Bartkauz</td>
+<td>+</td>
+<td>16.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Strix uralensis</td>
+<td>Habichtskauz</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Struthio camelus</td>
+<td>Strauß</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sturnus roseus</td>
+<td>Rosenstar</td>
+<td>+</td>
+<td>4.0 – 4.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Sturnus unicolor</td>
+<td>Einfarbstar</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sturnus vulgaris</td>
+<td>Star</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Surnia ulula</td>
+<td>Sperbereule</td>
+<td>+</td>
+<td>10.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sylvia atricapilla</td>
+<td>Mönchsgrasmücke</td>
+<td>+</td>
+<td>2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Sylvia borin</td>
+<td>Gartengrasmücke</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sylvia cantillans</td>
+<td>Weißbartgrasmücke</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Sylvia communis</td>
+<td>Dorngrasmücke</td>
+<td>+</td>
+<td>2.5 – 2.8</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sylvia conspicillata</td>
+<td>Brillengrasmücke</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Sylvia curruca</td>
+<td>Klappergrasmücke</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sylvia hortensis</td>
+<td>Orpheusgrasmücke</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Sylvia melanocephala</td>
+<td>Samtkopfgrasmücke</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sylvia nisoria</td>
+<td>Sperbergrasmücke</td>
+<td>+</td>
+<td>3.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Sylvia rueppelli</td>
+<td>Maskengrasmücke</td>
+<td>+</td>
+<td>2.7</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sylvia sarda</td>
+<td>Sardengrasmücke</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Sylvia undata</td>
+<td>Provencegrasmücke</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tachybaptus ruficollis</td>
+<td>Zwergtaucher</td>
+<td>+</td>
+<td>8.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tachymarptis melba</td>
+<td>Alpensegler</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tadorna cristata</td>
+<td>Schopfkasarka</td>
+<td>+</td>
+<td>14.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tarsiger cyanurus</td>
+<td>Blauschwanz</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tauraco bannermani</td>
+<td>Bannermanturako</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tetraogallus caspius</td>
+<td>Kaspisches Königshuhn</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tetraogallus tibetanus</td>
+<td>Tibet-Königshuhn</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tetrax tetrax</td>
+<td>Zwergtrappe</td>
+<td>+</td>
+<td>16.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tichodroma muraria</td>
+<td>Mauerläufer</td>
+<td>+</td>
+<td>2.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tinamus solitarius</td>
+<td>Grausteißtao</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tragopan blythii</td>
+<td>Blyth-Satyrhuhn</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tragopan caboti</td>
+<td>Cabot-Satyrhuhn, Cabot-Tragopan</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tragopan melanocephalus</td>
+<td>West-Satyrhuhn</td>
+<td>+</td>
+<td>14.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Trichoglossus haematodus</td>
+<td>Allfarblori</td>
+<td>+</td>
+<td>4.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tringa cinerea</td>
+<td>Terekwasserläufer</td>
+<td>+</td>
+<td>3.3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tringa erythropus</td>
+<td>Dunkelwasserläufer</td>
+<td>+</td>
+<td>5.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tringa glareola</td>
+<td>Bruchwasserläufer</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tringa guttifer</td>
+<td>Sachalin-Grünschenkel</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tringa hypoleucos</td>
+<td>Flussuferläufer</td>
+<td>+</td>
+<td>3.3</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tringa nebularia</td>
+<td>Grünschenkel</td>
+<td>+</td>
+<td>5.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tringa ochropus</td>
+<td>Waldwasserläufer</td>
+<td>+</td>
+<td>3.3</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tringa stagnatilis</td>
+<td>Teichwasserläufer</td>
+<td>+</td>
+<td>3.5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tringa totanus</td>
+<td>Rotschenkel</td>
+<td>+</td>
+<td>5.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Troglodytes troglodytes</td>
+<td>Zaunkönig</td>
+<td></td>
+<td>2.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Turdus iliacus</td>
+<td>Rotdrossel</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Turdus merula</td>
+<td>Amsel</td>
+<td>+</td>
+<td>4.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Turdus philomelos</td>
+<td>Singdrossel</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Turdus pilaris</td>
+<td>Wacholderdrossel</td>
+<td>+</td>
+<td>4.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Turdus torquatus</td>
+<td>Ringdrossel</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Turdus viscivorus</td>
+<td>Misteldrossel</td>
+<td>+</td>
+<td>4.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Turnix sylvatica</td>
+<td>Laufhühnchen</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tympanuchus cupido attwateri</td>
+<td>Attwaters-Präriehuhn</td>
+<td>+</td>
+<td>12.0</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tyto alba</td>
+<td>Schleiereule</td>
+<td>+</td>
+<td>10.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tyto soumagnei</td>
+<td>Madagaskar-Schleiereule</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Upupa epops</td>
+<td>Wiedehopf</td>
+<td>+</td>
+<td>4.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Uria aalge</td>
+<td>Trottellumme</td>
+<td>+</td>
+<td>12.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Vanellus spinosus</td>
+<td>Spornkiebitz</td>
+<td>+</td>
+<td>5.5</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Vanellus vanellus</td>
+<td>Kiebitz</td>
+<td>+</td>
+<td>5.0 – 7.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Vini spp.,</td>
+<td>Maidloris<br />
+– soweit nicht im Einzelnen aufgeführt</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Vini australis</td>
+<td>Blaukappenlori</td>
+<td>+</td>
+<td>5.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Vini peruviana</td>
+<td>Saphir-Lori</td>
+<td>+</td>
+<td>5.0</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Vultur gryphus</td>
+<td>Andenkondor</td>
+<td></td>
+<td>30.0</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Xema sabini</td>
+<td>Schwalbenmöwe</td>
+<td>+</td>
+<td>5.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Xipholena atropurpurea</td>
+<td>Weißflügelkotinga</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Zosterops albogularis</td>
+<td>Weißkehlbrillenvogel</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Reptilia</strong></td>
+<td><strong>Kriechtiere</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Acrantophis spp.</td>
+<td>Madagaskar-Boas</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Acrantophis dumerili</td>
+<td>Südliche Madagaskarboa</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Acrantophis madagascariensis</td>
+<td>Nördliche Madagaskarboa</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Alligator sinensis</td>
+<td>China-Alligator</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Apalone ater</td>
+<td>Schwarze Weichschildkröte</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Aspideretes gangeticus</td>
+<td>Ganges-Weichschildkröte</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Aspideretes hurum</td>
+<td>Pfauenaugen-Weichschildtkröte</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Aspideretes nigricans</td>
+<td>Dunkle Weichschildkröte</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Batagur baska</td>
+<td>Batagur Schildkröte</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Boa constrictor occidentalis</td>
+<td>Südboa</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Bolyeria multocarinata</td>
+<td>Mauritius-Boa</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Brachylophus spp.</td>
+<td>Fidji-Leguane</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Brookesia perarmata</td>
+<td>Panzerchamäleon</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Caiman crocodilus apaporiensis</td>
+<td>Rio-Apaporis-Brillenkaiman</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Caiman latirostris</td>
+<td>Breitschnauzenkaiman</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Casarea dussumieri</td>
+<td>Rundinsel-Boa</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Chamaeleo chamaeleon</td>
+<td>Europäisches Chamäleon</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Cheloniidae spp.</td>
+<td>Meeresschildkröten</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Chelydra serpentina</td>
+<td>Schnappschildkröte</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Clemmys muhlenbergii</td>
+<td>Mühlenberg-Schildkröte</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Crocodylus acutus</td>
+<td>Spitzkrokodil</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Crocodylus cataphractus</td>
+<td>Panzerkrokodil</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Crocodylus intermedius</td>
+<td>Orinokokrokodil</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Crocodylus moreletii</td>
+<td>Beulenkrokodil</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Crocodylus niloticus</td>
+<td>Nilkrokodil</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Crocodylus mindorensis</td>
+<td>Mindorokrokodil</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Crocodylus palustris</td>
+<td>Sumpfkrokodil</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Crocodylus porosus</td>
+<td>Leistenkrokodil</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Crocodylus rhombifer</td>
+<td>Rautenkrokodil</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Crocodylus siamensis</td>
+<td>Siamkrokodil</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Cyclura spp.</td>
+<td>Wirtelschwanzleguane</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Dermochelys coriacea</td>
+<td>Lederschildkröte</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Epicrates inornatus</td>
+<td>Puerto-Rico-Boa</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Epicrates monensis</td>
+<td>Mona-Schlankboa</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Epicrates subflavus</td>
+<td>Jamaika-Boa</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Eryx jaculus</td>
+<td>Sandboa</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Gallotia simonyi</td>
+<td>Hierro-Rieseneidechse</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Gavialis gangeticus</td>
+<td>Gangesgavial</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Geochelone nigra</td>
+<td>Elefantenschildkröte, Galapagos-Riesenschildkröte</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Geochelone radiata</td>
+<td>Strahlenschildkröte</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Geochelone yniphora</td>
+<td>Madagassische Schnabelbrustschildkröte</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Geoclemys hamiltonii</td>
+<td>Strahlen-Dreikielschildkröte</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Gopherus flavomarginatus</td>
+<td>Mexikanische Gopherschildkröte</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Homopus bergeri</td>
+<td>Bergers Flachschildkröte</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Kachuga tecta</td>
+<td>Indische Dachschildkröte</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Macroclemys temminckii</td>
+<td>Geierschildkröte</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Malacochersus tornieri</td>
+<td>Spaltenschildkröte</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Melanochelys tricarinata</td>
+<td>Dreikiel-Erdschildkröte</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Melanosuchus niger</td>
+<td>Mohrenkaiman</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Morenia ocellata</td>
+<td>Hinterindische Pfauenaugen-Sumpfschildkröte</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Osteolaemus tetraspis</td>
+<td>Stumpfkrokodil</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Phelsuma guentheri</td>
+<td>Günthers Plattschwanzgecko</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Podarcis lilfordi</td>
+<td>Baleareneidechse</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Podarcis pityusensis</td>
+<td>Pityuseneidechse</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Psammobates geometricus</td>
+<td>Geometrische Landschildkröte</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pseudemydura umbrina</td>
+<td>Falsche Spitzkopfschildkröte</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Python molurus molurus</td>
+<td>Heller Tigerpython</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Pyxis planicauda</td>
+<td>Madagassische Flachrückenschildkröte</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sanzinia madagascariensis</td>
+<td>Madagaskar-Hundskopfboa</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Sauromalus varius</td>
+<td>St. Esteban-Chuckwalla</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sphenodon spp.</td>
+<td>Brückenechsen</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Terrapene coahuila</td>
+<td>Wasser-Dosenschildkröte</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Testudo graeca</td>
+<td>Maurische Landschildkröte</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Testudo hermanni</td>
+<td>Griechische Landschildkröte</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Testudo kleinmanni</td>
+<td>Ägyptische Landschildkröte</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Testudo marginata</td>
+<td>Breitrand-Schildkröte</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tomistoma schlegelii</td>
+<td>Sundagavial</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Varanus bengalensis</td>
+<td>Bengalwaran</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Varanus flavescens</td>
+<td>Gelbwaran</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Varanus griseus</td>
+<td>Wüstenwaran</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Varanus komodoensis</td>
+<td>Komodowaran</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Varanus olivaceus</td>
+<td>Gray-Waran</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Vipera latifii</td>
+<td>Latifi-Otter</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Vipera ursinii</td>
+<td>Wiesenotter</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+*
+*
+
+***Hinweis zur Ringgröße**
+1,0 = Männchen
+0,1 = Weibchen*
+
+FellKopfGesichtSchuppenHalskragenBrustBeineTätowierungKaltbrandHornskelett*Daumenring*KraniogrammNicht für im Freiflug jagdlich oder vergleichbar eingesetzte Greifvögel.PedigrammDurch die Aufnahme in Spalte 1 werden auch Bastarde dieser Vogelarten mit anderen Arten erfasst.Soweit im Anhang A der Verordnung (EG) Nr. 338/97 aufgenommen.Soweit nicht im Einzelnen aufgeführt.Kopfzeichnung (Oberseite)Kopfzeichnung (beide Seiten und Unterkiefer)Fleckenmuster des Körpers (erste fünf Flecken beiderseits).Zeichnung des dritten Wirbelschildes und des vierten Bauchschildpaares.Konturen von Rückenschildern und Kreuzungspunkte der Bauchschilder.*Nicht für den menschlichen Verzehr gezüchtete Arten.*Nicht mit einem offenen Ring zu kennzeichnen.
+
+Anlage 6 Fußnoten 11 u. 23 Kursivdruck: Im Text nicht vorhanden
+Anlage 6 Hinweis zur Ringgröße Kursivdruck: Aus technischen Gründen nur an dieser Stelle darstellbar
 
 ### Anlage 7 (zu § 15 Abs. 3 Satz 1) Anforderungen an die Beschriftung von Ringen
 
