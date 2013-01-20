@@ -2,7 +2,7 @@ Verordnung zum Schutz wild lebender Tier- und Pflanzenarten (BArtSchV)
 ======================================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 V v. 3.10.2012 I 2108
+Zuletzt geändert durch Art. 10 G v. 21.1.2013 I 95
 
 ### 
 
@@ -119,7 +119,7 @@ zum Schutz der heimischen Tier- und Pflanzenwelt oder
 3.  
 für Zwecke der Forschung, Lehre oder Wiederansiedlung oder zur Nachzucht für einen dieser Zwecke
 
-erforderlich ist, der Bestand und die Verbreitung der betreffenden Population oder Art dadurch nicht nachteilig beeinflusst wird und sonstige Belange des Artenschutzes, insbesondere Artikel 9 Abs. 1 der Richtlinie 79/409/EWG des Rates vom 2. April 1979 über die Erhaltung der wild lebenden Vogelarten (ABl. L 103 vom 25.4.1979, S. 1), die zuletzt durch die Richtlinie 2008/102/EG (ABl. L 323 vom 3.12.2008, S. 31) geändert worden ist, und Artikel 16 Abs. 1 der Richtlinie 92/43/ EWG des Rates nicht entgegenstehen.
+erforderlich ist, der Bestand und die Verbreitung der betreffenden Population oder Art dadurch nicht nachteilig beeinflusst wird und sonstige Belange des Artenschutzes, insbesondere Artikel 9 Abs. 1 der Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über die Erhaltung der wildlebenden Vogelarten (ABl. L 20 vom 26.1.2010, S. 7) und Artikel 16 Abs. 1 der Richtlinie 92/43/ EWG des Rates nicht entgegenstehen.
 
 (4) Artikel 2 der Verordnung (EWG) Nr. 3254/91 des Rates vom 4. November 1991 zum Verbot von Tellereisen in der Gemeinschaft und der Einfuhr von Pelzen und Waren von bestimmten Wildtierarten aus Ländern, die Tellereisen oder den internationalen humanen Fangnormen nicht entsprechende Fangmethoden anwenden (ABl. EG Nr. L 308 S. 1), bleibt unberührt.
 
