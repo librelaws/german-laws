@@ -2,7 +2,7 @@ Gesetz zum Elterngeld und zur Elternzeit (BEEG)
 ===============================================
 
 Stand  
-Zuletzt geändert durch Art. 10 G v. 23.10.2012 I 2246
+Zuletzt geändert durch Art. 1 G v. 15.2.2013 I 254
 
 ### 
 
