@@ -94,7 +94,7 @@ sich seit mindestens drei Jahren rechtmäßig, gestattet oder geduldet im Bundes
 b)  
 *im Bundesgebiet berechtigt erwerbstätig ist, laufende Geldleistungen nach dem Dritten Buch Sozialgesetzbuch bezieht oder Elternzeit in Anspruch nimmt.*
 
-(8) Ein Anspruch entfällt, wenn die berechtigte Person im letzten abgeschlossenen Veranlagungszeitraum ein zu versteuerndes Einkommen nach § 2 Absatz 5 des Einkommensteuergesetzes in Höhe von mehr als 250 000 Euro erzielt hat. Ist auch eine andere Person nach den Absätzen 1, 3 oder 4 berechtigt, entfällt abweichend von Satz 1 der Anspruch, wenn die Summe des zu versteuernden Einkommens beider berechtigter Personen mehr als 500 000 Euro beträgt.
+(8) Ein Anspruch entfällt, wenn die berechtigte Person im letzten abgeschlossenen Veranlagungszeitraum vor der Geburt des Kindes ein zu versteuerndes Einkommen nach § 2 Absatz 5 des Einkommensteuergesetzes in Höhe von mehr als 250 000 Euro erzielt hat. Erfüllt auch eine andere Person die Voraussetzungen des Absatzes 1 Nummer 2 oder der Absätze 3 oder 4, entfällt abweichend von Satz 1 der Anspruch, wenn die Summe des zu versteuernden Einkommens beider Personen mehr als 500 000 Euro beträgt.
 
 § 1 Abs. 7 Nr. 3 Buchst. b: IdF d. G v. 5.12.2006 I 2748 gem. BVerfGE v. 10.7.2012 I 1898 - 1 BvL 2/10, 1 BvL 3/10, 1 BvL 4/10, 1 BvL 3/11 - Verstoß gegen Art. 3 Abs. 1 und Art. 3 Abs. 3 Satz 1 GG und nichtig
 
@@ -230,7 +230,7 @@ Mutterschaftsleistungen in Form des Mutterschaftsgeldes nach dem Fünften Buch S
 Dienst- und Anwärterbezüge sowie Zuschüsse, die der berechtigten Person nach beamten- oder soldatenrechtlichen Vorschriften für die Zeit eines Beschäftigungsverbots ab dem Tag der Geburt des Kindes zustehen,
 
 3.  
-dem Elterngeld vergleichbare Leistungen, auf die eine nach § 1 berechtigte Person außerhalb Deutschlands oder gegenüber einer über- oder zwischenstaatlichen Einrichtung Anspruch hat,
+dem Elterngeld oder dem Betreuungsgeld vergleichbare Leistungen, auf die eine nach § 1 berechtigte Person außerhalb Deutschlands oder gegenüber einer über- oder zwischenstaatlichen Einrichtung Anspruch hat,
 
 4.  
 Elterngeld, das der berechtigten Person für ein älteres Kind zusteht, sowie
@@ -271,33 +271,75 @@ der andere Elternteil weder mit ihm noch mit dem Kind in einer Wohnung lebt.
 
 (5) Die Absätze 2 und 3 gelten in den Fällen des § 1 Abs. 3 und 4 entsprechend. Nicht sorgeberechtigte Elternteile und Personen, die nach § 1 Abs. 3 Nr. 2 und 3 Elterngeld beziehen können, bedürfen der Zustimmung des sorgeberechtigten Elternteils.
 
+Abschnitt 2 Betreuungsgeld
+--------------------------
+
+### 
+
+### § 4a Berechtigte
+
+(1) Anspruch auf Betreuungsgeld hat, wer
+
+1.  
+die Voraussetzungen des § 1 Absatz 1 Nummer 1 bis 3, Absatz 2 bis 5, 7 und 8 erfüllt und
+
+2.  
+für das Kind keine Leistungen nach § 24 Absatz 2 in Verbindung mit den §§ 22 bis 23 des Achten Buches Sozialgesetzbuch in Anspruch nimmt.
+
+(2) Können die Eltern ihr Kind wegen einer schweren Krankheit, Schwerbehinderung oder Tod der Eltern nicht betreuen, haben Berechtigte im Sinne von Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 4 einen Anspruch auf Betreuungsgeld abweichend von Absatz 1 Nummer 2, wenn für das Kind nicht mehr als 20 Wochenstunden im Durchschnitt des Monats Leistungen nach § 24 Absatz 2 in Verbindung mit den §§ 22 bis 23 des Achten Buches Sozialgesetzbuch in Anspruch genommen werden.
+
+### § 4b Höhe des Betreuungsgeldes
+
+Das Betreuungsgeld beträgt für jedes Kind 150 Euro pro Monat.
+
+### § 4c Anrechnung von anderen Leistungen
+
+Dem Betreuungsgeld oder dem Elterngeld vergleichbare Leistungen, auf die eine nach § 4a berechtigte Person außerhalb Deutschlands oder gegenüber einer über- oder zwischenstaatlichen Einrichtung Anspruch hat, werden auf das Betreuungsgeld angerechnet, soweit sie den Betrag übersteigen, der für denselben Zeitraum nach § 3 Absatz 1 Satz 1 Nummer 3 auf das Elterngeld anzurechnen ist. Stehen der berechtigten Person die Leistungen nur für einen Teil des Lebensmonats des Kindes zu, sind sie nur auf den entsprechenden Teil des Betreuungsgeldes anzurechnen. Solange kein Antrag auf die in Satz 1 genannten vergleichbaren Leistungen gestellt wird, ruht der Anspruch auf Betreuungsgeld bis zur möglichen Höhe der vergleichbaren Leistung.
+
+### § 4d Bezugszeitraum
+
+(1) Betreuungsgeld kann in der Zeit vom ersten Tag des 15. Lebensmonats bis zur Vollendung des 36. Lebensmonats des Kindes bezogen werden. Vor dem 15. Lebensmonat wird Betreuungsgeld nur gewährt, wenn die Eltern die Monatsbeträge des Elterngeldes, die ihnen für ihr Kind nach § 4 Absatz 2 und 3 zustehen, bereits bezogen haben. Für jedes Kind wird höchstens für 22 Lebensmonate Betreuungsgeld gezahlt.
+
+(2) Für angenommene Kinder und Kinder im Sinne des § 1 Absatz 3 Satz 1 Nummer 1 kann Betreuungsgeld ab dem ersten Tag des 15. Monats nach Aufnahme bei der berechtigten Person längstens bis zur Vollendung des dritten Lebensjahres des Kindes bezogen werden. Absatz 1 Satz 2 und 3 ist entsprechend anzuwenden.
+
+(3) Für einen Lebensmonat eines Kindes kann nur ein Elternteil Betreuungsgeld beziehen. Lebensmonate des Kindes, in denen einem Elternteil nach § 4c anzurechnende Leistungen zustehen, gelten als Monate, für die dieser Elternteil Betreuungsgeld bezieht.
+
+(4) Der Anspruch endet mit dem Ablauf des Monats, in dem eine Anspruchsvoraussetzung entfallen ist.
+
+(5) Absatz 1 Satz 2 und Absatz 3 gelten in den Fällen des § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 3 und 4 entsprechend. Nicht sorgeberechtigte Elternteile und Personen, die nach § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 3 Satz 1 Nummer 2 und 3 Betreuungsgeld beziehen können, bedürfen der Zustimmung des sorgeberechtigten Elternteils.
+
+Abschnitt 3 Verfahren und Organisation
+--------------------------------------
+
+### 
+
 ### § 5 Zusammentreffen von Ansprüchen
 
-(1) Erfüllen beide Elternteile die Anspruchsvoraussetzungen, bestimmen sie, wer von ihnen welche Monatsbeträge in Anspruch nimmt.
+(1) Erfüllen beide Elternteile die Anspruchsvoraussetzungen für Elterngeld oder Betreuungsgeld, bestimmen sie, wer von ihnen welche Monatsbeträge der jeweiligen Leistung in Anspruch nimmt.
 
-(2) Beanspruchen beide Elternteile zusammen mehr als die ihnen zustehenden zwölf oder 14 Monatsbeträge Elterngeld, besteht der Anspruch eines Elternteils, der nicht über die Hälfte der Monatsbeträge hinausgeht, ungekürzt; der Anspruch des anderen Elternteils wird gekürzt auf die verbleibenden Monatsbeträge. Beanspruchen beide Elternteile Elterngeld für mehr als die Hälfte der Monate, steht ihnen jeweils die Hälfte der Monatsbeträge zu.
+(2) Beanspruchen beide Elternteile zusammen mehr als die ihnen zustehenden zwölf oder 14 Monatsbeträge Elterngeld oder mehr als die ihnen zustehenden 22 Monatsbeträge Betreuungsgeld, besteht der Anspruch eines Elternteils auf die jeweilige Leistung, der nicht über die Hälfte der Monatsbeträge hinausgeht, ungekürzt; der Anspruch des anderen Elternteils wird gekürzt auf die verbleibenden Monatsbeträge. Beanspruchen beide Elternteile Elterngeld oder Betreuungsgeld für mehr als die Hälfte der Monate, steht ihnen jeweils die Hälfte der Monatsbeträge der jeweiligen Leistung zu.
 
-(3) Die Absätze 1 und 2 gelten in den Fällen des § 1 Abs. 3 und 4 entsprechend. Wird eine Einigung mit einem nicht sorgeberechtigten Elternteil oder einer Person, die nach § 1 Abs. 3 Nr. 2 und 3 Elterngeld beziehen kann, nicht erzielt, kommt es abweichend von Absatz 2 allein auf die Entscheidung des sorgeberechtigten Elternteils an.
+(3) Die Absätze 1 und 2 gelten in den Fällen des § 1 Absatz 3 und 4 oder des § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 3 und 4 entsprechend. Wird eine Einigung mit einem nicht sorgeberechtigten Elternteil oder einer Person, die nach § 1 Absatz 3 Satz 1 Nummer 2 und 3 Elterngeld oder nach § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 3 Satz 1 Nummer 2 und 3 Betreuungsgeld beziehen kann, nicht erzielt, kommt es abweichend von Absatz 2 allein auf die Entscheidung des sorgeberechtigten Elternteils an.
 
 ### § 6 Auszahlung und Verlängerungsmöglichkeit
 
-Das Elterngeld wird im Laufe des Monats gezahlt, für den es bestimmt ist. Die einer Person zustehenden Monatsbeträge werden auf Antrag in jeweils zwei halben Monatsbeträgen ausgezahlt, so dass sich der Auszahlungszeitraum verdoppelt. Die zweite Hälfte der jeweiligen Monatsbeträge wird beginnend mit dem Monat gezahlt, der auf den letzten Monat folgt, für den der berechtigten Person ein Monatsbetrag der ersten Hälfte gezahlt wurde.
+Elterngeld und Betreuungsgeld werden im Laufe des Monats gezahlt, für den sie bestimmt sind. Die einer Person zustehenden Monatsbeträge des Elterngeldes werden auf Antrag in jeweils zwei halben Monatsbeträgen ausgezahlt, so dass sich der Auszahlungszeitraum verdoppelt. Die zweite Hälfte der jeweiligen Monatsbeträge wird beginnend mit dem Monat gezahlt, der auf den letzten Monat folgt, für den der berechtigten Person ein Monatsbetrag der ersten Hälfte gezahlt wurde.
 
 ### § 7 Antragstellung
 
-(1) Das Elterngeld ist schriftlich zu beantragen. Es wird rückwirkend nur für die letzten drei Monate vor Beginn des Monats geleistet, in dem der Antrag auf Elterngeld eingegangen ist.
+(1) Elterngeld oder Betreuungsgeld ist schriftlich zu beantragen. Sie werden rückwirkend nur für die letzten drei Monate vor Beginn des Monats geleistet, in dem der Antrag auf die jeweilige Leistung eingegangen ist.
 
-(2) In dem Antrag ist anzugeben, für welche Monate Elterngeld beantragt wird. Die im Antrag getroffenen Entscheidungen können bis zum Ende des Bezugszeitraums geändert werden. Eine Änderung kann rückwirkend nur für die letzten drei Monate vor Beginn des Monats verlangt werden, in dem der Änderungsantrag eingegangen ist. Sie ist außer in den Fällen besonderer Härte unzulässig, soweit Monatsbeträge bereits ausgezahlt sind. Im Übrigen finden die für die Antragstellung geltenden Vorschriften auch auf den Änderungsantrag Anwendung.
+(2) In dem Antrag auf Elterngeld oder Betreuungsgeld ist anzugeben, für welche Monate die jeweilige Leistung beantragt wird. Die im Antrag getroffenen Entscheidungen können bis zum Ende des Bezugszeitraums geändert werden. Eine Änderung kann rückwirkend nur für die letzten drei Monate vor Beginn des Monats verlangt werden, in dem der Änderungsantrag eingegangen ist. Sie ist außer in den Fällen besonderer Härte unzulässig, soweit Monatsbeträge bereits ausgezahlt sind. Im Übrigen finden die für die Antragstellung geltenden Vorschriften auch auf den Änderungsantrag Anwendung.
 
-(3) Der Antrag ist außer in den Fällen des § 4 Abs. 3 Satz 3 und 4 und der Antragstellung durch eine allein sorgeberechtigte Person von der Person, die ihn stellt, und zur Bestätigung der Kenntnisnahme auch von der anderen berechtigten Person zu unterschreiben. Die andere berechtigte Person kann gleichzeitig einen Antrag auf das von ihr beanspruchte Elterngeld stellen oder der Behörde anzeigen, für wie viele Monate sie Elterngeld beansprucht, wenn mit ihrem Anspruch die Höchstgrenze nach § 4 Abs. 2 Satz 2 und 3 überschritten würde. Liegt der Behörde weder ein Antrag noch eine Anzeige der anderen berechtigten Person nach Satz 2 vor, erhält der Antragsteller oder die Antragstellerin die Monatsbeträge ausgezahlt; die andere berechtigte Person kann bei einem späteren Antrag abweichend von § 5 Abs. 2 nur für die unter Berücksichtigung von § 4 Abs. 2 Satz 2 und 3 verbleibenden Monate Elterngeld erhalten.
+(3) Der Antrag ist außer in den Fällen des § 4 Abs. 3 Satz 3 und 4 und der Antragstellung durch eine allein sorgeberechtigte Person von der Person, die ihn stellt, und zur Bestätigung der Kenntnisnahme auch von der anderen berechtigten Person zu unterschreiben. Die andere berechtigte Person kann gleichzeitig einen Antrag auf das von ihr beanspruchte Elterngeld oder Betreuungsgeld stellen oder der Behörde anzeigen, für wie viele Monate sie die jeweilige Leistung beansprucht, wenn mit ihrem Anspruch die Höchstgrenzen nach § 4 Absatz 2 Satz 2 und 3 oder § 4d Absatz 1 Satz 3 überschritten würden. Liegt der Behörde weder ein Antrag auf Elterngeld oder Betreuungsgeld noch eine Anzeige der anderen berechtigten Person nach Satz 2 vor, erhält der Antragsteller oder die Antragstellerin die Monatsbeträge der jeweiligen Leistung ausgezahlt; die andere berechtigte Person kann bei einem späteren Antrag abweichend von § 5 Absatz 2 nur für die unter Berücksichtigung von § 4 Absatz 2 Satz 2 und 3 oder § 4d Absatz 1 Satz 3 verbleibenden Monate die jeweilige Leistung erhalten.
 
 ### § 8 Auskunftspflicht, Nebenbestimmungen
 
-(1) Soweit im Antrag Angaben zum voraussichtlichen Einkommen aus Erwerbstätigkeit gemacht wurden, ist nach Ablauf des Bezugszeitraums für diese Zeit das tatsächliche Einkommen aus Erwerbstätigkeit nachzuweisen.
+(1) Soweit im Antrag auf Elterngeld Angaben zum voraussichtlichen Einkommen aus Erwerbstätigkeit gemacht wurden, ist nach Ablauf des Bezugszeitraums für diese Zeit das tatsächliche Einkommen aus Erwerbstätigkeit nachzuweisen.
 
-(2) Elterngeld wird in den Fällen, in denen die berechtigte Person nach ihren Angaben im Antrag im Bezugszeitraum voraussichtlich kein Einkommen aus Erwerbstätigkeit haben wird, unter dem Vorbehalt des Widerrufs für den Fall gezahlt, dass sie entgegen ihren Angaben im Antrag Einkommen aus Erwerbstätigkeit hat. In den Fällen, in denen zum Zeitpunkt der Antragstellung der Steuerbescheid der berechtigten Person oder einer anderen nach § 1 Absatz 1, 3 oder 4 anspruchsberechtigten Person für den letzten abgeschlossenen Veranlagungszeitraum nicht vorliegt und nach den Angaben im Antrag die Beträge nach § 1 Absatz 8 voraussichtlich nicht überschritten werden, wird Elterngeld unter dem Vorbehalt des Widerrufs für den Fall gezahlt, dass entgegen den Angaben im Antrag die Beträge nach § 1 Absatz 8 überschritten werden.
+(2) Elterngeld wird in den Fällen, in denen die berechtigte Person nach ihren Angaben im Antrag im Bezugszeitraum voraussichtlich kein Einkommen aus Erwerbstätigkeit haben wird, unter dem Vorbehalt des Widerrufs für den Fall gezahlt, dass sie entgegen ihren Angaben im Antrag Einkommen aus Erwerbstätigkeit hat. In den Fällen, in denen zum Zeitpunkt der Antragstellung der Steuerbescheid für den letzten abgeschlossenen Veranlagungszeitraum vor der Geburt des Kindes nicht vorliegt und nach den Angaben im Antrag auf Elterngeld oder Betreuungsgeld die Beträge nach § 1 Absatz 8 oder nach § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 8 voraussichtlich nicht überschritten werden, wird die jeweilige Leistung unter dem Vorbehalt des Widerrufs für den Fall gezahlt, dass entgegen den Angaben im Antrag auf die jeweilige Leistung die Beträge nach § 1 Absatz 8 oder nach § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 8 überschritten werden.
 
-(3) Kann das Einkommen aus Erwerbstätigkeit vor der Geburt nicht ermittelt werden oder hat die berechtigte Person nach den Angaben im Antrag im Bezugszeitraum voraussichtlich Einkommen aus Erwerbstätigkeit, wird Elterngeld bis zum Nachweis des tatsächlich zu berücksichtigenden Einkommens aus Erwerbstätigkeit vorläufig unter Berücksichtigung des glaubhaft gemachten Einkommens aus Erwerbstätigkeit gezahlt. Das Gleiche gilt in Fällen, in denen zum Zeitpunkt der Antragstellung der Steuerbescheid der berechtigten Person oder einer anderen nach § 1 Absatz 1, 3 oder 4 anspruchsberechtigten Person für den letzten abgeschlossenen Veranlagungszeitraum nicht vorliegt und in denen noch nicht angegeben werden kann, ob die Beträge nach § 1 Absatz 8 überschritten werden.
+(3) Kann das Einkommen aus Erwerbstätigkeit vor der Geburt nicht ermittelt werden oder hat die berechtigte Person nach den Angaben im Antrag auf Elterngeld im Bezugszeitraum voraussichtlich Einkommen aus Erwerbstätigkeit, wird Elterngeld bis zum Nachweis des tatsächlich zu berücksichtigenden Einkommens aus Erwerbstätigkeit vorläufig unter Berücksichtigung des glaubhaft gemachten Einkommens aus Erwerbstätigkeit gezahlt. Das Gleiche gilt bei der Beantragung von Elterngeld oder Betreuungsgeld, wenn zum Zeitpunkt der Antragstellung der Steuerbescheid für den letzten abgeschlossenen Veranlagungszeitraum vor der Geburt des Kindes nicht vorliegt und noch nicht angegeben werden kann, ob die Beträge nach § 1 Absatz 8 oder nach § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 8 überschritten werden.
 
 ### § 9 Einkommens- und Arbeitszeitnachweis, Auskunftspflicht des Arbeitgebers
 
@@ -305,9 +347,9 @@ Soweit es zum Nachweis des Einkommens aus Erwerbstätigkeit oder der wöchentlic
 
 ### § 10 Verhältnis zu anderen Sozialleistungen
 
-(1) Das Elterngeld und vergleichbare Leistungen der Länder sowie die nach § 3 auf das Elterngeld angerechneten Einnahmen bleiben bei Sozialleistungen, deren Zahlung von anderen Einkommen abhängig ist, bis zu einer Höhe von insgesamt 300 Euro im Monat als Einkommen unberücksichtigt.
+(1) Das Elterngeld, das Betreuungsgeld und jeweils vergleichbare Leistungen der Länder sowie die nach § 3 oder § 4c auf die jeweilige Leistung angerechneten Einnahmen oder Leistungen bleiben bei Sozialleistungen, deren Zahlung von anderen Einkommen abhängig ist, bis zu einer Höhe von insgesamt 300 Euro im Monat als Einkommen unberücksichtigt.
 
-(2) Das Elterngeld und vergleichbare Leistungen der Länder sowie die nach § 3 auf das Elterngeld angerechneten Einnahmen dürfen bis zu einer Höhe von 300 Euro nicht dafür herangezogen werden, um auf Rechtsvorschriften beruhende Leistungen anderer, auf die kein Anspruch besteht, zu versagen.
+(2) Das Elterngeld, das Betreuungsgeld und jeweils vergleichbare Leistungen der Länder sowie die nach § 3 oder § 4c auf die jeweilige Leistung angerechneten Einnahmen oder Leistungen dürfen bis zu einer Höhe von insgesamt 300 Euro nicht dafür herangezogen werden, um auf Rechtsvorschriften beruhende Leistungen anderer, auf die kein Anspruch besteht, zu versagen.
 
 (3) Bei Ausübung der Verlängerungsoption nach § 6 Satz 2 bleibt das Elterngeld nur bis zur Hälfte des Anrechnungsfreibetrags, der nach Abzug der anderen nach Absatz 1 nicht zu berücksichtigenden Einnahmen für das Elterngeld verbleibt, als Einkommen unberücksichtigt und darf nur bis zu dieser Höhe nicht dafür herangezogen werden, um auf Rechtsvorschriften beruhende Leistungen anderer, auf die kein Anspruch besteht, zu versagen.
 
@@ -319,13 +361,13 @@ Soweit es zum Nachweis des Einkommens aus Erwerbstätigkeit oder der wöchentlic
 
 ### § 11 Unterhaltspflichten
 
-Unterhaltsverpflichtungen werden durch die Zahlung des Elterngeldes und vergleichbarer Leistungen der Länder nur insoweit berührt, als die Zahlung 300 Euro monatlich übersteigt. In den Fällen des § 6 Satz 2 werden die Unterhaltspflichten insoweit berührt, als die Zahlung 150 Euro übersteigt. Die in den Sätzen 1 und 2 genannten Beträge vervielfachen sich bei Mehrlingsgeburten mit der Zahl der geborenen Kinder. Die Sätze 1 bis 3 gelten nicht in den Fällen des § 1361 Abs. 3, der §§ 1579, 1603 Abs. 2 und des § 1611 Abs. 1 des Bürgerlichen Gesetzbuchs.
+Unterhaltsverpflichtungen werden durch die Zahlung des Elterngeldes, des Betreuungsgeldes und jeweils vergleichbarer Leistungen der Länder nur insoweit berührt, als die Zahlung 300 Euro monatlich übersteigt. In den Fällen des § 6 Satz 2 werden die Unterhaltspflichten insoweit berührt, als die Zahlung 150 Euro übersteigt. Die in den Sätzen 1 und 2 genannten Beträge vervielfachen sich bei Mehrlingsgeburten mit der Zahl der geborenen Kinder. Die Sätze 1 bis 3 gelten nicht in den Fällen des § 1361 Abs. 3, der §§ 1579, 1603 Abs. 2 und des § 1611 Abs. 1 des Bürgerlichen Gesetzbuchs.
 
 ### § 12 Zuständigkeit; Aufbringung der Mittel
 
-(1) Die Landesregierungen oder die von ihnen beauftragten Stellen bestimmen die für die Ausführung dieses Gesetzes zuständigen Behörden. Diesen Behörden obliegt auch die Beratung zur Elternzeit. In den Fällen des § 1 Abs. 2 ist die von den Ländern für die Durchführung dieses Gesetzes bestimmte Behörde des Bezirks zuständig, in dem die berechtigte Person ihren letzten inländischen Wohnsitz hatte; hilfsweise ist die Behörde des Bezirks zuständig, in dem der entsendende Dienstherr oder Arbeitgeber der berechtigten Person oder der Arbeitgeber des Ehegatten, der Ehegattin, des Lebenspartners oder der Lebenspartnerin der berechtigten Person den inländischen Sitz hat.
+(1) Die Landesregierungen oder die von ihnen beauftragten Stellen bestimmen die für die Ausführung dieses Gesetzes zuständigen Behörden. Diesen Behörden obliegt auch die Beratung zur Elternzeit. In den Fällen des § 1 Absatz 2 oder des § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 2 ist die von den Ländern für die Durchführung dieses Gesetzes bestimmte Behörde des Bezirks zuständig, in dem die berechtigte Person ihren letzten inländischen Wohnsitz hatte; hilfsweise ist die Behörde des Bezirks zuständig, in dem der entsendende Dienstherr oder Arbeitgeber der berechtigten Person oder der Arbeitgeber des Ehegatten, der Ehegattin, des Lebenspartners oder der Lebenspartnerin der berechtigten Person den inländischen Sitz hat.
 
-(2) Der Bund trägt die Ausgaben für das Elterngeld.
+(2) Der Bund trägt die Ausgaben für das Elterngeld und das Betreuungsgeld.
 
 ### § 13 Rechtsweg
 
@@ -353,7 +395,7 @@ entgegen § 60 Abs. 1 Satz 1 Nr. 3 des Ersten Buches Sozialgesetzbuch eine Bewei
 
 (3) Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten sind die in § 12 Abs. 1 Satz 1 und 3 genannten Behörden.
 
-Abschnitt 2 Elternzeit für Arbeitnehmerinnen und Arbeitnehmer
+Abschnitt 4 Elternzeit für Arbeitnehmerinnen und Arbeitnehmer
 -------------------------------------------------------------
 
 ### 
@@ -478,16 +520,16 @@ Der Arbeitnehmer oder die Arbeitnehmerin kann das Arbeitsverhältnis zum Ende de
 
 (7) Wird im Rahmen arbeitsrechtlicher Gesetze oder Verordnungen auf die Zahl der beschäftigten Arbeitnehmer und Arbeitnehmerinnen abgestellt, so sind bei der Ermittlung dieser Zahl Arbeitnehmer und Arbeitnehmerinnen, die sich in der Elternzeit befinden oder zur Betreuung eines Kindes freigestellt sind, nicht mitzuzählen, solange für sie aufgrund von Absatz 1 ein Vertreter oder eine Vertreterin eingestellt ist. Dies gilt nicht, wenn der Vertreter oder die Vertreterin nicht mitzuzählen ist. Die Sätze 1 und 2 gelten entsprechend, wenn im Rahmen arbeitsrechtlicher Gesetze oder Verordnungen auf die Zahl der Arbeitsplätze abgestellt wird.
 
-Abschnitt 3 Statistik und Schlussvorschriften
+Abschnitt 5 Statistik und Schlussvorschriften
 ---------------------------------------------
 
 ### 
 
 ### § 22 Bundesstatistik
 
-(1) Zur Beurteilung der Auswirkungen dieses Gesetzes sowie zu seiner Fortentwicklung ist eine laufende Erhebung zum Bezug von Elterngeld als Bundesstatistik durchzuführen. Die Erhebung erfolgt zentral beim Statistischen Bundesamt.
+(1) Zur Beurteilung der Auswirkungen dieses Gesetzes sowie zu seiner Fortentwicklung sind laufende Erhebungen zum Bezug von Elterngeld und Betreuungsgeld als Bundesstatistiken durchzuführen. Die Erhebungen erfolgen zentral beim Statistischen Bundesamt.
 
-(2) Die Statistik erfasst vierteljährlich zum jeweils letzten Tag des aktuellen und der vorangegangenen zwei Kalendermonate erstmalig zum 31. März 2013 für Elterngeld beziehende Personen folgende Erhebungsmerkmale:
+(2) Die Statistik zum Bezug von Elterngeld erfasst vierteljährlich zum jeweils letzten Tag des aktuellen und der vorangegangenen zwei Kalendermonate erstmalig zum 31. März 2013 für Personen, die in einem dieser Kalendermonate Elterngeld bezogen haben, für jedes den Anspruch auslösende Kind folgende Erhebungsmerkmale:
 
 1.  
 Art der Berechtigung nach § 1,
@@ -505,13 +547,13 @@ Art und Höhe der Einnahmen nach § 3,
 Ausübung der Verlängerungsmöglichkeit (§ 6),
 
 6.  
-Höhe des ausgezahlten Monatsbetrags,
+Höhe des monatlichen Auszahlungsbetrags,
 
 7.  
 Geburtstag des Kindes,
 
 8.  
-für die Antragstellerin oder den Antragsteller:
+für die Elterngeld beziehende Person:
 
 a)  
 Geschlecht, Geburtsjahr und -monat,
@@ -528,7 +570,38 @@ Familienstand und unverheiratetes Zusammenleben mit dem anderen Elternteil und
 e)  
 Anzahl der im Haushalt lebenden Kinder.
 
-(3) Die Angaben nach Absatz 2 Nummer 2, 3 und 6 sind für jeden Lebensmonat des Kindes, bezogen auf den Zeitraum des Leistungsbezugs, zu melden.
+Die Angaben nach den Nummern 2, 3 und 6 sind für jeden Lebensmonat des Kindes bezogen auf den nach § 4 Absatz 1 möglichen Zeitraum des Leistungsbezugs zu melden.
+
+(3) Die Statistik zum Bezug von Betreuungsgeld erfasst vierteljährlich zum jeweils letzten Tag des aktuellen und der vorangegangenen zwei Kalendermonate erstmalig zum 30. September 2013 für Personen, die in einem dieser Kalendermonate Betreuungsgeld bezogen haben, für jedes den Anspruch auslösende Kind folgende Erhebungsmerkmale:
+
+1.  
+Art der Berechtigung nach § 4a,
+
+2.  
+Höhe des monatlichen Auszahlungsbetrags,
+
+3.  
+Geburtstag des Kindes,
+
+4.  
+für die Betreuungsgeld beziehende Person:
+
+a)  
+Geschlecht, Geburtsjahr und -monat,
+
+b)  
+Staatsangehörigkeit,
+
+c)  
+Wohnsitz oder gewöhnlicher Aufenthalt,
+
+d)  
+Familienstand und unverheiratetes Zusammenleben mit dem anderen Elternteil und
+
+e)  
+Anzahl der im Haushalt lebenden Kinder.
+
+Die Angaben nach Nummer 2 sind für jeden Lebensmonat des Kindes bezogen auf den nach § 4d Absatz 1 möglichen Zeitraum des Leistungsbezugs zu melden.
 
 (4) Hilfsmerkmale sind:
 
@@ -545,7 +618,7 @@ Kennnummer des Antragstellers oder der Antragstellerin.
 
 (1) Für die Erhebung nach § 22 besteht Auskunftspflicht. Die Angaben nach § 22 Abs. 4 Nr. 2 sind freiwillig. Auskunftspflichtig sind die nach § 12 Abs. 1 zuständigen Stellen.
 
-(2) Der Antragsteller oder die Antragstellerin ist gegenüber den nach § 12 Absatz 1 zuständigen Stellen zu den Erhebungsmerkmalen nach § 22 Absatz 2 auskunftspflichtig. Die zuständigen Stellen nach § 12 Absatz 1 dürfen die Angaben nach § 22 Absatz 2 Nummer 7, soweit sie für den Vollzug dieses Gesetzes nicht erforderlich sind, nur durch technische und organisatorische Maßnahmen getrennt von den übrigen Daten nach § 22 Absatz 2 und nur für die Übermittlung an das Statistische Bundesamt verwenden und haben diese unverzüglich nach Übermittlung an das Statistische Bundesamt zu löschen.
+(2) Der Antragsteller oder die Antragstellerin ist gegenüber den nach § 12 Absatz 1 zuständigen Stellen zu den Erhebungsmerkmalen nach § 22 Absatz 2 und 3 auskunftspflichtig. Die zuständigen Stellen nach § 12 Absatz 1 dürfen die Angaben nach § 22 Absatz 2 Satz 1 Nummer 8 und Absatz 3 Satz 1 Nummer 4, soweit sie für den Vollzug dieses Gesetzes nicht erforderlich sind, nur durch technische und organisatorische Maßnahmen getrennt von den übrigen Daten nach § 22 Absatz 2 und 3 und nur für die Übermittlung an das Statistische Bundesamt verwenden und haben diese unverzüglich nach Übermittlung an das Statistische Bundesamt zu löschen.
 
 (3) Die in sich schlüssigen Angaben sind als Einzeldatensätze elektronisch bis zum Ablauf von 30 Arbeitstagen nach Ablauf des Berichtszeitraums an das Statistische Bundesamt zu übermitteln.
 
@@ -563,20 +636,22 @@ Zur Verwendung gegenüber den gesetzgebenden Körperschaften und zu Zwecken der 
 
 ### § 25 Bericht
 
-Die Bundesregierung legt dem Deutschen Bundestag bis zum 1. Oktober 2008 einen Bericht über die Auswirkungen dieses Gesetzes sowie über die gegebenenfalls notwendige Weiterentwicklung dieser Vorschriften vor. Er darf keine personenbezogenen Daten enthalten.
+Die Bundesregierung legt dem Deutschen Bundestag bis zum 31. Dezember 2015 einen Bericht über die Auswirkungen des Betreuungsgeldes vor. Er darf keine personenbezogenen Daten enthalten.
 
 ### § 26 Anwendung der Bücher des Sozialgesetzbuches
 
-(1) Soweit dieses Gesetz zum Elterngeld keine ausdrückliche Regelung trifft, ist bei der Ausführung des Ersten Abschnitts das Erste Kapitel des Zehnten Buches Sozialgesetzbuch anzuwenden.
+(1) Soweit dieses Gesetz zum Elterngeld oder Betreuungsgeld keine ausdrückliche Regelung trifft, ist bei der Ausführung des Ersten, Zweiten und Dritten Abschnitts das Erste Kapitel des Zehnten Buches Sozialgesetzbuch anzuwenden.
 
 (2) § 328 Absatz 3 und § 331 des Dritten Buches Sozialgesetzbuch gelten entsprechend.
 
 ### § 27 Übergangsvorschrift
 
-(1) Für die vor dem 1. Januar 2013 geborenen oder mit dem Ziel der Adoption aufgenommenen Kinder sind die Vorschriften dieses Gesetzes in der bis zum 16. September 2012 geltenden Fassung weiter anzuwenden. Soweit das Gesetz in der bis zum 16. September 2012 geltenden Fassung Mutterschaftsgeld nach der Reichsversicherungsordnung oder nach dem Gesetz über die Krankenversicherung der Landwirte in Bezug nimmt, gelten die betreffenden Regelungen für Mutterschaftsgeld nach dem Fünften Buch Sozialgesetzbuch oder nach dem Zweiten Gesetz über die Krankenversicherung der Landwirte entsprechend.
+(1) Für die vor dem 1. Januar 2013 geborenen oder mit dem Ziel der Adoption aufgenommenen Kinder wird Elterngeld unter Anwendung der Vorschriften des Ersten Abschnitts dieses Gesetzes und § 9 in der bis zum 16. September 2012 geltenden Fassung gezahlt. Soweit das Gesetz in der bis zum 16. September 2012 geltenden Fassung Mutterschaftsgeld nach der Reichsversicherungsordnung oder nach dem Gesetz über die Krankenversicherung der Landwirte in Bezug nimmt, gelten die betreffenden Regelungen für Mutterschaftsgeld nach dem Fünften Buch Sozialgesetzbuch oder nach dem Zweiten Gesetz über die Krankenversicherung der Landwirte entsprechend. Die Statistik für das Elterngeld nach Satz 1 erfolgt nach den Vorgaben der §§ 22 und 23 in der bis zum 16. September 2012 geltenden Fassung.
 
 (1a) Bei der Ermittlung des Überschusses der Einnahmen über die Werbungskosten nach § 2 Absatz 7 Satz 1 ist für die vor dem 1. Januar 2012 geborenen oder mit dem Ziel der Adoption aufgenommenen Kinder § 9a Satz 1 Nummer 1 Buchstabe a des Einkommensteuergesetzes in der am 4. November 2011 geltenden Fassung anzuwenden.
 
 (1b) Soweit dieses Gesetz Mutterschaftsgeld nach dem Fünften Buch Sozialgesetzbuch oder nach dem Zweiten Gesetz über die Krankenversicherung der Landwirte in Bezug nimmt, gelten die betreffenden Regelungen für Mutterschaftsgeld nach der Reichsversicherungsordnung oder nach dem Gesetz über die Krankenversicherung der Landwirte entsprechend.
 
 (2) Für die dem Erziehungsgeld vergleichbaren Leistungen der Länder sind § 8 Absatz 1 und § 9 des Bundeserziehungsgeldgesetzes in der bis zum 31. Dezember 2006 geltenden Fassung weiter anzuwenden.
+
+(3) Betreuungsgeld wird nicht für vor dem 1. August 2012 geborene Kinder gezahlt. Bis zum 31. Juli 2014 beträgt das Betreuungsgeld abweichend von § 4b 100 Euro pro Monat.
