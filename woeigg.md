@@ -2,7 +2,7 @@ Gesetz über das Wohnungseigentum und das Dauerwohnrecht ()
 ==========================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 G v. 10.5.2012 I 1084
+Zuletzt geändert durch Art. 3 G v. 11.3.2013 I 434
 
 ### 
 
@@ -283,7 +283,7 @@ die Duldung aller Maßnahmen, die zur Herstellung einer Fernsprechteilnehmereinr
 
 (1) Bauliche Veränderungen und Aufwendungen, die über die ordnungsmäßige Instandhaltung oder Instandsetzung des gemeinschaftlichen Eigentums hinausgehen, können beschlossen oder verlangt werden, wenn jeder Wohnungseigentümer zustimmt, dessen Rechte durch die Maßnahmen über das in § 14 Nr. 1 bestimmte Maß hinaus beeinträchtigt werden. Die Zustimmung ist nicht erforderlich, soweit die Rechte eines Wohnungseigentümers nicht in der in Satz 1 bezeichneten Weise beeinträchtigt werden.
 
-(2) Maßnahmen gemäß Absatz 1 Satz 1, die der Modernisierung entsprechend § 559 Abs. 1 des Bürgerlichen Gesetzbuches oder der Anpassung des gemeinschaftlichen Eigentums an den Stand der Technik dienen, die Eigenart der Wohnanlage nicht ändern und keinen Wohnungseigentümer gegenüber anderen unbillig beeinträchtigen, können abweichend von Absatz 1 durch eine Mehrheit von drei Viertel aller stimmberechtigten Wohnungseigentümer im Sinne des § 25 Abs. 2 und mehr als der Hälfte aller Miteigentumsanteile beschlossen werden. Die Befugnis im Sinne des Satzes 1 kann durch Vereinbarung der Wohnungseigentümer nicht eingeschränkt oder ausgeschlossen werden.
+(2) Maßnahmen gemäß Absatz 1 Satz 1, die der Modernisierung entsprechend § 555b Nummer 1 bis 5 des Bürgerlichen Gesetzbuches oder der Anpassung des gemeinschaftlichen Eigentums an den Stand der Technik dienen, die Eigenart der Wohnanlage nicht ändern und keinen Wohnungseigentümer gegenüber anderen unbillig beeinträchtigen, können abweichend von Absatz 1 durch eine Mehrheit von drei Viertel aller stimmberechtigten Wohnungseigentümer im Sinne des § 25 Abs. 2 und mehr als der Hälfte aller Miteigentumsanteile beschlossen werden. Die Befugnis im Sinne des Satzes 1 kann durch Vereinbarung der Wohnungseigentümer nicht eingeschränkt oder ausgeschlossen werden.
 
 (3) Für Maßnahmen der modernisierenden Instandsetzung im Sinne des § 21 Abs. 5 Nr. 2 verbleibt es bei den Vorschriften des § 21 Abs. 3 und 4.
 
