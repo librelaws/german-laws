@@ -2,7 +2,7 @@ Verordnung über die ehrenamtliche Betätigung von Arbeitslosen ()
 ================================================================
 
 Stand  
-Zuletzt geändert durch Art. 45 G v. 20.12.2011 I 2854
+Zuletzt geändert durch Art. 11 G v. 21.3.2013 I 556
 
 ### 
 
@@ -27,7 +27,7 @@ dem Gemeinwohl dient und
 3.  
 bei einer Organisation erfolgt, die ohne Gewinnerzielungsabsicht Aufgaben ausführt, welche im öffentlichen Interesse liegen oder gemeinnützige, mildtätige oder kirchliche Zwecke fördern.
 
-(2) Der Ersatz von Auslagen, die dem ehrenamtlich Tätigen durch Ausübung der ehrenamtlichen Tätigkeit entstehen, berührt die Unentgeltlichkeit nicht. Dies gilt auch, wenn der Auslagenersatz in pauschalierter Form erfolgt und die Pauschale 154 Euro im Monat nicht übersteigt. Neben einer nicht steuerpflichtigen Aufwandsentschädigung, die der ehrenamtlich Tätige erhält, ist eine Pauschalierung des Auslagenersatzes nur möglich, soweit die Auslagenpauschale zusammen mit der nicht steuerpflichtigen Aufwandsentschädigung 154 Euro im Monat nicht übersteigt.
+(2) Der Ersatz von Auslagen, die dem ehrenamtlich Tätigen durch Ausübung der ehrenamtlichen Tätigkeit entstehen, berührt die Unentgeltlichkeit nicht. Dies gilt auch, wenn der Auslagenersatz in pauschalierter Form erfolgt und die Pauschale 200 Euro im Monat nicht übersteigt. Neben einer nicht steuerpflichtigen Aufwandsentschädigung, die der ehrenamtlich Tätige erhält, ist eine Pauschalierung des Auslagenersatzes nur möglich, soweit die Auslagenpauschale zusammen mit der nicht steuerpflichtigen Aufwandsentschädigung 200 Euro im Monat nicht übersteigt.
 
 ### § 2 Berufliche Eingliederung
 
