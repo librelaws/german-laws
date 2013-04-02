@@ -2,7 +2,7 @@ Allgemeines Gleichbehandlungsgesetz (AGG)
 =========================================
 
 Stand  
-Zuletzt geändert durch Art. 15 Abs. 66 G v. 5.2.2009 I 160
+Zuletzt geändert durch Art. 8 G v. 3.4.2013 I 610
 
 ### 
 
@@ -270,7 +270,7 @@ besondere Vorteile gewährt und ein Interesse an der Durchsetzung der Gleichbeha
 4.  
 an die Religion eines Menschen anknüpft und im Hinblick auf die Ausübung der Religionsfreiheit oder auf das Selbstbestimmungsrecht der Religionsgemeinschaften, der ihnen zugeordneten Einrichtungen ohne Rücksicht auf ihre Rechtsform sowie der Vereinigungen, die sich die gemeinschaftliche Pflege einer Religion zur Aufgabe machen, unter Beachtung des jeweiligen Selbstverständnisses gerechtfertigt ist.
 
-(2) Eine unterschiedliche Behandlung wegen des Geschlechts ist im Falle des § 19 Abs. 1 Nr. 2 bei den Prämien oder Leistungen nur zulässig, wenn dessen Berücksichtigung bei einer auf relevanten und genauen versicherungsmathematischen und statistischen Daten beruhenden Risikobewertung ein bestimmender Faktor ist. Kosten im Zusammenhang mit Schwangerschaft und Mutterschaft dürfen auf keinen Fall zu unterschiedlichen Prämien oder Leistungen führen. Eine unterschiedliche Behandlung wegen der Religion, einer Behinderung, des Alters oder der sexuellen Identität ist im Falle des § 19 Abs. 1 Nr. 2 nur zulässig, wenn diese auf anerkannten Prinzipien risikoadäquater Kalkulation beruht, insbesondere auf einer versicherungsmathematisch ermittelten Risikobewertung unter Heranziehung statistischer Erhebungen.
+(2) Kosten im Zusammenhang mit Schwangerschaft und Mutterschaft dürfen auf keinen Fall zu unterschiedlichen Prämien oder Leistungen führen. Eine unterschiedliche Behandlung wegen der Religion, einer Behinderung, des Alters oder der sexuellen Identität ist im Falle des § 19 Abs. 1 Nr. 2 nur zulässig, wenn diese auf anerkannten Prinzipien risikoadäquater Kalkulation beruht, insbesondere auf einer versicherungsmathematisch ermittelten Risikobewertung unter Heranziehung statistischer Erhebungen.
 
 ### § 21 Ansprüche
 
@@ -429,3 +429,5 @@ Soweit in diesem Gesetz nicht Abweichendes bestimmt ist, gelten die allgemeinen 
 (3) Bei Benachteiligungen wegen des Geschlechts, der Religion, einer Behinderung, des Alters oder der sexuellen Identität sind die §§ 19 bis 21 nicht auf Schuldverhältnisse anzuwenden, die vor dem 1. Dezember 2006 begründet worden sind. Satz 1 gilt nicht für spätere Änderungen von Dauerschuldverhältnissen.
 
 (4) Auf Schuldverhältnisse, die eine privatrechtliche Versicherung zum Gegenstand haben, ist § 19 Abs. 1 nicht anzuwenden, wenn diese vor dem 22. Dezember 2007 begründet worden sind. Satz 1 gilt nicht für spätere Änderungen solcher Schuldverhältnisse.
+
+(5) Bei Versicherungsverhältnissen, die vor dem 21. Dezember 2012 begründet werden, ist eine unterschiedliche Behandlung wegen des Geschlechts im Falle des § 19 Absatz 1 Nummer 2 bei den Prämien oder Leistungen nur zulässig, wenn dessen Berücksichtigung bei einer auf relevanten und genauen versicherungsmathematischen und statistischen Daten beruhenden Risikobewertung ein bestimmender Faktor ist. Kosten im Zusammenhang mit Schwangerschaft und Mutterschaft dürfen auf keinen Fall zu unterschiedlichen Prämien oder Leistungen führen.
