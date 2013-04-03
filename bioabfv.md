@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 4.4.2013 I 658;
 
 Stand  
-Zuletzt geändert durch Art. 5 V v. 5.12.2013 I 4043
+zuletzt geändert durch Art. 3 Abs. 2 V v. 27.9.2017 I 3465
 
 ### 
 
@@ -244,6 +244,16 @@ Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaf
 
 (5) Die in Anhang 1 Nummer 1 und 2 in der jeweiligen Spalte 3 für die Getrennthaltung, Behandlung und Verwendung der Einsatzmaterialien sowie die Aufbringung von Gemischen festgelegten ergänzenden Bestimmungen sind zu beachten.
 
+### § 5a Rückstellprobe
+
+(1) Die zuständige Behörde kann den Bioabfallbehandler und den Gemischhersteller verpflichten, zur Überwachung der in § 4 Absatz 3 und 4 genannten Grenzwerte eine Rückstellprobe aus den behandelten und unbehandelten Bioabfällen und Gemischen, die für die Verwertung als Düngemittel auf landwirtschaftlich, forstwirtschaftlich oder gärtnerisch genutzten Böden aufgebracht oder zum Zweck der Aufbringung abgegeben werden, zu entnehmen. Satz 1 gilt entsprechend für die in Anhang 1 Nummer 2 genannten Materialien. Die Probenahme hat nach § 4 Absatz 9 zu erfolgen.
+
+(2) Der Bioabfallbehandler und der Gemischhersteller haben die Rückstellprobe ab dem Zeitpunkt der Entnahme mindestens fünf Jahre zu lagern. Die Rückstellprobe ist so aufzubereiten und zu lagern, dass sie ihre Beschaffenheit in der Zeit der Lagerung nicht ändert.
+
+(3) Die zuständige Behörde kann die Untersuchung der Rückstellprobe auf die in § 4 Absatz 3 und 4 genannten Inhaltsstoffe nach § 4 Absatz 9 in Verbindung mit Anhang 3 anordnen. Sofern Anhaltspunkte dafür bestehen, dass die Rückstellprobe einen überhöhten Gehalt an anderen als in Satz 1 genannten Inhaltsstoffen aufweist, kann die zuständige Behörde die Untersuchung der Rückstellprobe auf diese anderen Inhaltsstoffe anordnen.
+
+(4) Die nach Absatz 1 zur Aufbewahrung von Rückstellproben Verpflichteten haben die Rückstellproben der zuständigen Behörde auf Verlangen herauszugeben.
+
 ### § 6 Beschränkungen und Verbote der Aufbringung
 
 (1) Unbeschadet düngemittelrechtlicher Regelungen dürfen auf Böden innerhalb von drei Jahren nicht mehr als 20 Tonnen Trockenmasse Bioabfälle oder Gemische je Hektar aufgebracht werden. Die gemäß Satz 1 zulässige Aufbringungsmenge kann bis zu 30 Tonnen je Hektar innerhalb von drei Jahren betragen, wenn die gemäß § 4 Absatz 5 und 6 oder § 5 Absatz 2 gemessenen Schwermetallgehalte die in § 4 Absatz 3 Satz 2 festgelegten Grenzwerte nicht überschreiten. Die für die Aufbringungsfläche zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde weitere Ausnahmen im Einzelfall zulassen, wenn die in § 4 Absatz 3 Satz 2 genannten Schwermetallgrenzwerte deutlich unterschritten werden und Beeinträchtigungen des Wohls der Allgemeinheit nicht zu erwarten sind.
@@ -274,7 +284,7 @@ Innerhalb des Zeitraumes nach § 6 Absatz 1 ist auf derselben Fläche nur die Au
 
 (1) Der Bewirtschafter oder ein beauftragter Dritter hat der zuständigen Behörde innerhalb von zwei Wochen nach der ersten nach dem 1. Oktober 1998 erfolgenden Aufbringung von Bioabfällen oder Gemischen die Aufbringungsflächen anzugeben. Die zuständige Behörde teilt der zuständigen landwirtschaftlichen Fachbehörde diese Flächen mit.
 
-(2) Bei der erstmaligen Aufbringung von Bioabfällen oder Gemischen ist eine Bodenuntersuchung auf Schwermetalle nach § 4 Absatz 5 Satz 1 Nummer 1 und auf den pH-Wert durchzuführen. Die Bodenuntersuchungsergebnisse sind spätestens drei Monate nach der Aufbringung der zuständigen Behörde vorzulegen. Liegt für die Aufbringungsfläche eine gültige Bodenuntersuchung nach der Klärschlammverordnung vor, kann diese entsprechend herangezogen werden. Satz 1 gilt nicht für die Aufbringung von Bioabfällen und Gemischen, die von Bioabfallbehandlern und Gemischherstellern abgegeben werden, die nach § 11 Absatz 3 Satz 1 von der Vorlage von Untersuchungsergebnissen oder von Nachweispflichten befreit sind. Bestehen Anhaltspunkte, dass die Bodenwerte einer Aufbringungsfläche die Vorsorgewerte für Böden nach Anhang 2 Nummer 4.1 in Verbindung mit Nummer 4.3 der Bundes-Bodenschutz- und Altlastenverordnung vom 12. Juli 1999 (BGBl. I S. 1554), die zuletzt durch Artikel 16 des Gesetzes vom 31. Juli 2009 (BGBl. I S. 2585) geändert worden ist, überschreiten, soll die zuständige Behörde im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde die erneute Aufbringung von Bioabfällen oder Gemischen untersagen. Die Probenahme, Probevorbereitung und Untersuchung ist nach Anhang 1 der Klärschlammverordnung vom 15. April 1992 (BGBl. I S. 912), die zuletzt durch Artikel 9 der Verordnung vom 9. November 2010 (BGBl. I S. 1504) geändert worden ist, und durch eine unabhängige, von der zuständigen Behörde bestimmten Untersuchungsstelle durchführen zu lassen.
+(2) Bei der erstmaligen Aufbringung von Bioabfällen oder Gemischen ist eine Bodenuntersuchung auf Schwermetalle nach § 4 Absatz 5 Satz 1 Nummer 1 und auf den pH-Wert durchzuführen. Die Bodenuntersuchungsergebnisse sind spätestens drei Monate nach der Aufbringung der zuständigen Behörde vorzulegen. Liegt für die Aufbringungsfläche eine gültige Bodenuntersuchung nach der Klärschlammverordnung vor, kann diese entsprechend herangezogen werden. Satz 1 gilt nicht für die Aufbringung von Bioabfällen und Gemischen, die von Bioabfallbehandlern und Gemischherstellern abgegeben werden, die nach § 11 Absatz 3 Satz 1 von der Vorlage von Untersuchungsergebnissen oder von Nachweispflichten befreit sind. Bestehen Anhaltspunkte, dass die Bodenwerte einer Aufbringungsfläche die Vorsorgewerte für Böden nach Anhang 2 Nummer 4.1 in Verbindung mit Nummer 4.3 der Bundes-Bodenschutz- und Altlastenverordnung vom 12. Juli 1999 (BGBl. I S. 1554), die zuletzt durch Artikel 16 des Gesetzes vom 31. Juli 2009 (BGBl. I S. 2585) geändert worden ist, überschreiten, soll die zuständige Behörde im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde die erneute Aufbringung von Bioabfällen oder Gemischen untersagen. Die Probenahme, Probevorbereitung und Untersuchung ist nach Anlage 2 der Klärschlammverordnung vom 27. September 2017 (BGBl. I S. 3465) und durch eine unabhängige, von der zuständigen Behörde bestimmte Untersuchungsstelle durchführen zu lassen.
 
 (2a) Für die Bestimmung einer Untersuchungsstelle nach Absatz 2 Satz 6 gilt § 3 Absatz 8a und 8b entsprechend.
 
