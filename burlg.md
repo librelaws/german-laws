@@ -128,7 +128,7 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgeset
 
 ### § 15 Änderung und Aufhebung von Gesetzen
 
-(1) Unberührt bleiben die urlaubsrechtlichen Bestimmungen des Arbeitsplatzschutzgesetzes vom 30. März 1957 (Bundesgesetzbl. I S. 293), geändert durch Gesetz vom 22. März 1962 (Bundesgesetzbl. I S. 169), des Neunten Buches Sozialgesetzbuch des Jugendarbeitsschutzgesetzes vom 9. August 1960 (Bundesgesetzbl. I S. 665), geändert durch Gesetz vom 20. Juli 1962 (Bundesgesetzbl. I S. 449), und des Seemannsgesetzes vom 26. Juli 1957 (Bundesgesetzbl. II S. 713), geändert durch Gesetz vom 25. August 1961 (Bundesgesetzbl. II S. 1391), jedoch wird
+(1) Unberührt bleiben die urlaubsrechtlichen Bestimmungen des Arbeitsplatzschutzgesetzes vom 30. März 1957 (Bundesgesetzbl. I S. 293), geändert durch Gesetz vom 22. März 1962 (Bundesgesetzbl. I S. 169), des Neunten Buches Sozialgesetzbuch des Jugendarbeitsschutzgesetzes vom 9. August 1960 (Bundesgesetzbl. I S. 665), geändert durch Gesetz vom 20. Juli 1962 (Bundesgesetzbl. I S. 449), und des Seearbeitsgesetzes vom 20. April 2013 (BGBl. I S. 868), jedoch wird
 a) und b) ...
 
 (2) Mit dem Inkrafttreten dieses Gesetzes treten die landesrechtlichen Vorschriften über den Erholungsurlaub außer Kraft. In Kraft bleiben jedoch die landesrechtlichen Bestimmungen über den Urlaub für Opfer des Nationalsozialismus und für solche Arbeitnehmer, die geistig oder körperlich in ihrer Erwerbsfähigkeit behindert sind.
