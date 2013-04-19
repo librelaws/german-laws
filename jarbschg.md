@@ -2,7 +2,7 @@ Gesetz zum Schutz der arbeitenden Jugend (JArbSchG)
 ===================================================
 
 Stand  
-Zuletzt geändert durch Art. 15 G v. 7.12.2011 I 2592
+Zuletzt geändert durch Art. 3 Abs. 7 G v. 20.4.2013 I 868
 
 ### 
 
