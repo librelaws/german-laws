@@ -257,7 +257,7 @@ In Verwaltungen und Betrieben des Bundes, der Länder, der Gemeinden und der son
 
 (1) Dieses Gesetz ist nicht anzuwenden, soweit Arbeitnehmer im Haushalt beschäftigt werden.
 
-(2) Soweit im Bereich der Seeschiffahrt die Vorschriften der Verordnung über die Seediensttauglichkeit und der Verordnung über die Krankenfürsorge auf Kauffahrteischiffen gleichwertige Regelungen enthalten, gelten diese Regelungen für die beschäftigten Kapitäne, Besatzungsmitglieder und sonstige, an Bord tätigen Personen deutscher Seeschiffe. Soweit dieses Gesetz auf die Seeschiffahrt nicht anwendbar ist, wird das Nähere durch Rechtsverordnung geregelt.
+(2) Soweit im Seearbeitsgesetz und in anderen Vorschriften im Bereich der Seeschifffahrt gleichwertige Regelungen enthalten sind, gelten diese Regelungen für die Besatzungsmitglieder auf Kauffahrteischiffen unter deutscher Flagge. Soweit dieses Gesetz auf die Seeschiffahrt nicht anwendbar ist, wird das Nähere durch Rechtsverordnung geregelt.
 
 (3) Soweit das Bergrecht diesem Gesetz gleichwertige Regelungen enthält, gelten diese Regelungen. Im übrigen gilt dieses Gesetz.
 
