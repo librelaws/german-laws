@@ -4,6 +4,9 @@ Arbeitszeitgesetz (ArbZG)
 Stand  
 Zuletzt geändert durch Art. 3 Abs. 6 G v. 20.4.2013 I 868
 
+Hinweis  
+Änderung durch Art. 12a G v. 11.11.2016 I 2500 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
@@ -437,9 +440,11 @@ Bei der Wahrnehmung hoheitlicher Aufgaben im öffentlichen Dienst können, sowei
 
 Für die Beschäftigung von Arbeitnehmern als Besatzungsmitglieder von Luftfahrzeugen gelten anstelle der Vorschriften dieses Gesetzes über Arbeits- und Ruhezeiten die Vorschriften über Flug-, Flugdienst- und Ruhezeiten der Zweiten Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät in der jeweils geltenden Fassung.
 
-### § 21 Beschäftigung in der Binnenschiffahrt
+### § 21 Beschäftigung in der Binnenschifffahrt
 
-Die Vorschriften dieses Gesetzes gelten für die Beschäftigung von Fahrpersonal in der Binnenschiffahrt, soweit die Vorschriften über Ruhezeiten der Binnenschiffsuntersuchungsordnung in der jeweils geltenden Fassung dem nicht entgegenstehen. Sie können durch Tarifvertrag der Eigenart der Binnenschiffahrt angepaßt werden.
+(1) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates, auch zur Umsetzung zwischenstaatlicher Vereinbarungen oder Rechtsakten der Europäischen Union, abweichend von den Vorschriften dieses Gesetzes die Bedingungen für die Arbeitszeitgestaltung von Arbeitnehmern, die als Mitglied der Besatzung oder des Bordpersonals an Bord eines Fahrzeugs in der Binnenschifffahrt beschäftigt sind, regeln, soweit dies erforderlich ist, um den besonderen Bedingungen an Bord von Binnenschiffen Rechnung zu tragen. Insbesondere können in diesen Rechtsverordnungen die notwendigen Bedingungen für die Sicherheit und den Gesundheitsschutz im Sinne des § 1, einschließlich gesundheitlicher Untersuchungen hinsichtlich der Auswirkungen der Arbeitszeitbedingungen auf einem Schiff in der Binnenschifffahrt, sowie die notwendigen Bedingungen für den Schutz der Sonn- und Feiertagsruhe bestimmt werden. In Rechtsverordnungen nach Satz 1 kann ferner bestimmt werden, dass von den Vorschriften der Rechtsverordnung durch Tarifvertrag abgewichen werden kann.
+
+(2) Soweit die Bundesregierung von der Ermächtigung des Absatzes 1 keinen Gebrauch macht, gelten die Vorschriften dieses Gesetzes für das Fahrpersonal auf Binnenschiffen, es sei denn, binnenschifffahrtsrechtliche Vorschriften über Ruhezeiten stehen dem entgegen. Bei Anwendung des Satzes 1 kann durch Tarifvertrag von den Vorschriften dieses Gesetzes abgewichen werden, um der Eigenart der Binnenschifffahrt Rechnung zu tragen.
 
 ### § 21a Beschäftigung im Straßentransport
 
@@ -497,7 +502,7 @@ entgegen § 4 Ruhepausen nicht, nicht mit der vorgeschriebenen Mindestdauer oder
 entgegen § 5 Abs. 1 die Mindestruhezeit nicht gewährt oder entgegen § 5 Abs. 2 die Verkürzung der Ruhezeit durch Verlängerung einer anderen Ruhezeit nicht oder nicht rechtzeitig ausgleicht,
 
 4.  
-einer Rechtsverordnung nach § 8 Satz 1, § 13 Abs. 1 oder 2, § 15 Absatz 2a Nummer 2 oder § 24 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+einer Rechtsverordnung nach § 8 Satz 1, § 13 Abs. 1 oder 2, § 15 Absatz 2a Nummer 2, § 21 Absatz 1 oder § 24 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 5.  
 entgegen § 9 Abs. 1 einen Arbeitnehmer an Sonn- oder Feiertagen beschäftigt,
