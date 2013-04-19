@@ -296,7 +296,7 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgeset
 
 (1) Dieses Gesetz, ausgenommen § 14 und *§ 21,* tritt am ersten Tag des auf die Verkündung folgenden zwölften Kalendermonats in Kraft. § 14 und *§ 21* treten am Tag nach der Verkündung des Gesetzes in Kraft.
 
-(2)
+(2) (Aufhebungsvorschrift)
 
 § 23 Abs. 1 Satz 1 u. 2: IdF d. § 70 Nr. 3 G v. 12.4.1976 I 965 mWv 1.5.1976, Kursivdruck gegenstandslos
 
