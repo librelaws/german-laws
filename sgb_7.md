@@ -801,7 +801,7 @@ der einem Hafen oder dem Liegeplatz eines Fahrzeugs eigentümlichen Gefahren,
 3.  
 der Beförderung von Land zum Fahrzeug oder vom Fahrzeug zum Land.
 
-(2) In Unternehmen der Seefahrt gilt als versicherte Tätigkeit auch die freie Rückbeförderung nach dem Seemannsgesetz oder tariflichen Vorschriften oder die Mitnahme auf deutschen Seeschiffen nach dem Gesetz betreffend die Verpflichtung der Kauffahrteischiffe zur Mitnahme heimzuschaffender Seeleute in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9510-3, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 278 des Einführungsgesetzes zum Strafgesetzbuch vom 2. März 1974 (BGBl. I S. 469).
+(2) In Unternehmen der Seefahrt gilt als versicherte Tätigkeit auch die freie Rückbeförderung nach dem Seearbeitsgesetz.
 
 ### § 11 Mittelbare Folgen eines Versicherungsfalls
 
@@ -1436,11 +1436,11 @@ Siebter Unterabschnitt Besondere Vorschriften für die Versicherten in der Seefa
 
 ### 
 
-### § 53 Vorrang der Krankenfürsorge der Reeder
+### § 53 Vorrang der medizinischen Betreuung durch die Reeder
 
-(1) Der Anspruch von Versicherten in der Seefahrt auf Leistungen nach diesem Abschnitt ruht, soweit und solange die Reeder ihre Verpflichtung zur Krankenfürsorge nach dem Seemannsgesetz erfüllen. Kommen die Reeder der Verpflichtung nicht nach, kann der Unfallversicherungsträger von den Reedern die Erstattung in Höhe der von ihm erbrachten Leistungen verlangen.
+(1) Der Anspruch von Versicherten in der Seefahrt auf Leistungen nach diesem Abschnitt ruht, soweit und solange die Reeder ihre Verpflichtung zur medizinischen Betreuung nach dem Seearbeitsgesetz erfüllen. Kommen die Reeder der Verpflichtung nicht nach, kann der Unfallversicherungsträger von den Reedern die Erstattung in Höhe der von ihm erbrachten Leistungen verlangen.
 
-(2) Endet die Verpflichtung der Reeder zur Krankenfürsorge, haben sie hinsichtlich der Folgen des Versicherungsfalls die Krankenfürsorge auf Kosten des Unfallversicherungsträgers fortzusetzen, soweit dieser sie dazu beauftragt.
+(2) Endet die Verpflichtung der Reeder zur medizinischen Betreuung, haben sie hinsichtlich der Folgen des Versicherungsfalls die medizinische Betreuung auf Kosten des Unfallversicherungsträgers fortzusetzen, soweit dieser sie dazu beauftragt.
 
 Achter Unterabschnitt Besondere Vorschriften für die Versicherten der landwirtschaftlichen Unfallversicherung
 -------------------------------------------------------------------------------------------------------------
@@ -3014,7 +3014,7 @@ Zweiter Unterabschnitt Beitragshöhe
 
 (1) Berechnungsgrundlage für die Beiträge der kraft Gesetzes versicherten selbständig Tätigen, der kraft Satzung versicherten Unternehmer, Ehegatten und Lebenspartner und der freiwillig Versicherten nach § 6 Abs. 1 Nr. 1 und 2 ist anstelle der Arbeitsentgelte der kraft Satzung bestimmte Jahresarbeitsverdienst (Versicherungssumme). Beginnt oder endet die Versicherung im Laufe eines Kalenderjahres, wird der Beitragsberechnung nur ein entsprechender Teil des Jahresarbeitsverdienstes zugrunde gelegt. Für die Berechnung der Beiträge der freiwillig Versicherten nach § 6 Abs. 1 Nr. 3 und 4 gilt § 155 entsprechend. Die Beiträge werden für volle Monate erhoben.
 
-(2) Soweit bei der Berufsgenossenschaft für Transport und Verkehrswirtschaft für das Arbeitsentgelt oder das Arbeitseinkommen Durchschnittssätze gelten, sind diese maßgebend. Die Satzung der Berufsgenossenschaft für Transport und Verkehrswirtschaft kann bestimmen, daß der Beitragsberechnung der Jahresarbeitsverdienst von Versicherten, die nicht als Kapitän, Besatzungsmitglied oder sonst im Rahmen des Schiffsbetriebes tätig sind, nur zum Teil zugrunde gelegt wird.
+(2) Soweit bei der Berufsgenossenschaft für Transport und Verkehrswirtschaft für das Arbeitsentgelt oder das Arbeitseinkommen Durchschnittssätze gelten, sind diese maßgebend. Die Satzung der Berufsgenossenschaft für Transport und Verkehrswirtschaft kann bestimmen, daß der Beitragsberechnung der Jahresarbeitsverdienst von Versicherten, die nicht als Besatzungsmitglied tätig sind, nur zum Teil zugrunde gelegt wird.
 
 (3) Berechnungsgrundlagen für die Beiträge sind in den Fällen des § 152 Absatz 3 der für diesen Personenkreis erforderliche Finanzbedarf und das Arbeitsentgelt der Versicherten der Unternehmen und Einrichtungen der Wohlfahrtspflege.
 
