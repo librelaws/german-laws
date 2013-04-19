@@ -2,7 +2,7 @@ Gesetz über das gerichtliche Verfahren in Binnenschiffahrtssachen ()
 ====================================================================
 
 Stand  
-Zuletzt geändert durch Art. 7 Abs. 6 G v. 26.3.2007 I 358
+Zuletzt geändert durch Art. 8 G v. 20.4.2013 I 831
 
 ### 
 
@@ -45,14 +45,16 @@ Ansprüche aus Bergung, namentlich auf Bergelohn oder Sondervergütung einschlie
 f)  
 Ansprüche wegen Zahlung der Lotsen-, Kran-, Waage-, Hafen- und Bohlwerksgebühren oder -vergütungen und ihres Betrages;
 
-g)
+g)  
+(weggefallen)
+
 Dies gilt nicht für Rechtsstreitigkeiten über Ansprüche aus einem Vorfall, an dem ein Seeschiff beteiligt ist, wenn
 
 1.  
 der Vorfall sich auf Binnengewässern, auf denen die Seeschiffahrtsstraßenordnung gilt, auf dem Nord-Ostsee-Kanal oder in einem Seehafen ereignet hat,
 
 2.  
-der Vorfall sich auf anderen Binnengewässern außer dem Rhein und der Mosel ereignet hat, sofern der Anspruch auf Ersatz des Schadens gerichtet ist, der den Schiffen oder den an Bord befindlichen Personen oder Sachen durch einen Schiffszusammenstoß oder durch ein unter § 738c des Handelsgesetzbuchs fallendes Ereignis zugefügt worden ist.
+der Vorfall sich auf anderen Binnengewässern außer dem Rhein und der Mosel ereignet hat, sofern der Anspruch auf Ersatz des Schadens gerichtet ist, der den Schiffen oder den an Bord befindlichen Personen oder Sachen durch einen Schiffszusammenstoß oder durch ein unter § 572 des Handelsgesetzbuchs fallendes Ereignis zugefügt worden ist.
 
 (2) Binnenschiffahrtssachen im Sinne dieses Gesetzes sind ferner bürgerliche Rechtsstreitigkeiten, die mit der Benutzung von Binnengewässern durch Schiffahrt zusammenhängen und Ansprüche zum Gegenstand haben, für deren Verhandlung und Entscheidung die Parteien die Zuständigkeit eines Schiffahrtsgerichts vereinbart haben.
 
