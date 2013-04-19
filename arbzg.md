@@ -25,7 +25,7 @@ Erster Abschnitt Allgemeine Vorschriften
 Zweck des Gesetzes ist es,
 
 1.  
-die Sicherheit und den Gesundheitsschutz der Arbeitnehmer bei der Arbeitszeitgestaltung zu gewährleisten und die Rahmenbedingungen für flexible Arbeitszeiten zu verbessern sowie
+die Sicherheit und den Gesundheitsschutz der Arbeitnehmer in der Bundesrepublik Deutschland und in der ausschließlichen Wirtschaftszone bei der Arbeitszeitgestaltung zu gewährleisten und die Rahmenbedingungen für flexible Arbeitszeiten zu verbessern sowie
 
 2.  
 den Sonntag und die staatlich anerkannten Feiertage als Tage der Arbeitsruhe und der seelischen Erhebung der Arbeitnehmer zu schützen.
@@ -425,7 +425,7 @@ den liturgischen Bereich der Kirchen und der Religionsgemeinschaften.
 
 (2) Für die Beschäftigung von Personen unter 18 Jahren gilt anstelle dieses Gesetzes das Jugendarbeitsschutzgesetz.
 
-(3) Für die Beschäftigung von Arbeitnehmern auf Kauffahrteischiffen als Besatzungsmitglieder im Sinne des § 3 des Seemannsgesetzes gilt anstelle dieses Gesetzes das Seemannsgesetz.
+(3) Für die Beschäftigung von Arbeitnehmern als Besatzungsmitglieder auf Kauffahrteischiffen im Sinne des § 3 des Seearbeitsgesetzes gilt anstelle dieses Gesetzes das Seearbeitsgesetz.
 
 (4) (weggefallen)
 
@@ -497,7 +497,7 @@ entgegen § 4 Ruhepausen nicht, nicht mit der vorgeschriebenen Mindestdauer oder
 entgegen § 5 Abs. 1 die Mindestruhezeit nicht gewährt oder entgegen § 5 Abs. 2 die Verkürzung der Ruhezeit durch Verlängerung einer anderen Ruhezeit nicht oder nicht rechtzeitig ausgleicht,
 
 4.  
-einer Rechtsverordnung nach § 8 Satz 1, § 13 Abs. 1 oder 2 oder § 24 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+einer Rechtsverordnung nach § 8 Satz 1, § 13 Abs. 1 oder 2, § 15 Absatz 2a Nummer 2 oder § 24 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 5.  
 entgegen § 9 Abs. 1 einen Arbeitnehmer an Sonn- oder Feiertagen beschäftigt,
