@@ -2,7 +2,7 @@ Handelsgesetzbuch ()
 ====================
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 39 G v. 22.12.2011 I 3044
+Zuletzt geändert durch Art. 1 G v. 20.4.2013 I 831
 
 ### 
 
@@ -18,7 +18,7 @@ Zuletzt geändert durch Art. 2 Abs. 39 G v. 22.12.2011 I 3044
      Umsetzung der
        EGRL 38/2003    (CELEX Nr: 32003L0038)
        EGRL 51/2003    (CELEX Nr: 32003L0051)
-       EGRL 65/2001    (CELEX Nr: 32001L0065) vgl. V v.  4.12.2004 I 3166
+       EGRL 65/2001    (CELEX Nr: 32001L0065) vgl. V v. 4.12.2004 I 3166
      Umsetzung der
        EGRL 58/2003    (CELEX Nr: 32003L0058)
        EGRL 109/2004   (CELEX Nr: 32004L0109) vgl. V v. 10.11.2006 I 2553 
@@ -26,7 +26,9 @@ Zuletzt geändert durch Art. 2 Abs. 39 G v. 22.12.2011 I 3044
        EGRL 65/2001    (CELEX Nr: 32001L0065)
        EGRL 51/2003    (CELEX Nr: 32003L0051)
        EGRL 43/2006    (CELEX Nr: 32006L0043)
-       EGRL 46/2006    (CELEX Nr: 32006L0046) vgl. G v. 25. 5.2009 I 1102 +++)
+       EGRL 46/2006    (CELEX Nr: 32006L0046) vgl. G v. 25.5.2009 I 1102
+     Umsetzung der
+       EURL 6/2012     (CELEX Nr: 32012L0006) vgl. G v. 20.12.2012 I 2751 +++)
 ```
 
 In Kraft getreten am 1.1.1900 gem. Art. 1 Abs. 1 EGHGB 4101-1 u. Art. 1 EGBGB 400-1; §§ 59 bis 64 u. 66 bis 83 in Kraft getreten am 1.1.1898 gem. Art. 1 Abs. 2 EGHGB 4101-1
@@ -110,7 +112,7 @@ Eintragungen im Genossenschaftsregister und deren Bekanntmachung und zum Genosse
 Eintragungen im Partnerschaftsregister und deren Bekanntmachung und zum Partnerschaftsregister eingereichte Dokumente;
 
 4.  
-Unterlagen der Rechnungslegung nach den §§ 325 und 339 und deren Bekanntmachung;
+Unterlagen der Rechnungslegung nach den §§ 325 und 339, soweit sie bekannt gemacht wurden;
 
 5.  
 gesellschaftsrechtliche Bekanntmachungen im Bundesanzeiger;
@@ -136,7 +138,7 @@ Bekanntmachungen der Insolvenzgerichte nach § 9 der Insolvenzordnung, ausgenomm
 (3) Zur Einstellung in das Unternehmensregister sind dem Unternehmensregister zu übermitteln:
 
 1.  
-die Daten nach Absatz 2 Nr. 4 bis 8 durch den Betreiber des Bundesanzeigers;
+die Daten nach Absatz 2 Nr. 4 bis 8 und die nach § 326 Absatz 2 von einer Kleinstkapitalgesellschaft hinterlegten Bilanzen durch den Betreiber des Bundesanzeigers;
 
 2.  
 die Daten nach Absatz 2 Nr. 9 und 10 durch den jeweils Veröffentlichungspflichtigen oder den von ihm mit der Veranlassung der Veröffentlichung beauftragten Dritten.
@@ -157,7 +159,7 @@ Die Landesjustizverwaltungen übermitteln die Daten nach Absatz 2 Nr. 1 bis 3 un
 
 (5) Das Gericht hat auf Verlangen eine Bescheinigung darüber zu erteilen, dass bezüglich des Gegenstandes einer Eintragung weitere Eintragungen nicht vorhanden sind oder dass eine bestimmte Eintragung nicht erfolgt ist.
 
-(6) Für die Einsichtnahme in das Unternehmensregister gilt Absatz 1 Satz 1 entsprechend. Anträge nach den Absätzen 2 bis 5 können auch über das Unternehmensregister an das Gericht vermittelt werden.
+(6) Für die Einsichtnahme in das Unternehmensregister gilt Absatz 1 Satz 1 entsprechend. Anträge nach den Absätzen 2 bis 5 können auch über das Unternehmensregister an das Gericht vermittelt werden. Die Einsichtnahme in die Bilanz einer Kleinstkapitalgesellschaft (§ 267a), die von dem Recht nach § 326 Absatz 2 Gebrauch gemacht hat, erfolgt nur auf Antrag durch Übermittlung einer Kopie.
 
 ### § 9a Übertragung der Führung des Unternehmensregisters; Verordnungsermächtigung
 
@@ -1772,7 +1774,7 @@ Die auf den vorhergehenden Jahresabschluss angewandten Bewertungsmethoden sind b
 
 ### § 253 Zugangs- und Folgebewertung
 
-(1) Vermögensgegenstände sind höchstens mit den Anschaffungs- oder Herstellungskosten, vermindert um die Abschreibungen nach den Absätzen 3 bis 5, anzusetzen. Verbindlichkeiten sind zu ihrem Erfüllungsbetrag und Rückstellungen in Höhe des nach vernünftiger kaufmännischer Beurteilung notwendigen Erfüllungsbetrages anzusetzen. Soweit sich die Höhe von Altersversorgungsverpflichtungen ausschließlich nach dem beizulegenden Zeitwert von Wertpapieren im Sinn des § 266 Abs. 2 A. III. 5 bestimmt, sind Rückstellungen hierfür zum beizulegenden Zeitwert dieser Wertpapiere anzusetzen, soweit er einen garantierten Mindestbetrag übersteigt. Nach § 246 Abs. 2 Satz 2 zu verrechnende Vermögensgegenstände sind mit ihrem beizulegenden Zeitwert zu bewerten.
+(1) Vermögensgegenstände sind höchstens mit den Anschaffungs- oder Herstellungskosten, vermindert um die Abschreibungen nach den Absätzen 3 bis 5, anzusetzen. Verbindlichkeiten sind zu ihrem Erfüllungsbetrag und Rückstellungen in Höhe des nach vernünftiger kaufmännischer Beurteilung notwendigen Erfüllungsbetrages anzusetzen. Soweit sich die Höhe von Altersversorgungsverpflichtungen ausschließlich nach dem beizulegenden Zeitwert von Wertpapieren im Sinn des § 266 Abs. 2 A. III. 5 bestimmt, sind Rückstellungen hierfür zum beizulegenden Zeitwert dieser Wertpapiere anzusetzen, soweit er einen garantierten Mindestbetrag übersteigt. Nach § 246 Abs. 2 Satz 2 zu verrechnende Vermögensgegenstände sind mit ihrem beizulegenden Zeitwert zu bewerten. Kleinstkapitalgesellschaften (§ 267a) dürfen eine Bewertung zum beizulegenden Zeitwert nur vornehmen, wenn sie von keiner der in § 264 Absatz 1 Satz 5, § 266 Absatz 1 Satz 4, § 275 Absatz 5 und § 326 Absatz 2 vorgesehenen Erleichterungen Gebrauch machen. In diesem Fall erfolgt die Bewertung der Vermögensgegenstände nach Satz 1, auch soweit eine Verrechnung nach § 246 Absatz 2 Satz 2 vorgesehen ist.
 
 (2) Rückstellungen mit einer Restlaufzeit von mehr als einem Jahr sind mit dem ihrer Restlaufzeit entsprechenden durchschnittlichen Marktzinssatz der vergangenen sieben Geschäftsjahre abzuzinsen. Abweichend von Satz 1 dürfen Rückstellungen für Altersversorgungsverpflichtungen oder vergleichbare langfristig fällige Verpflichtungen pauschal mit dem durchschnittlichen Marktzinssatz abgezinst werden, der sich bei einer angenommenen Restlaufzeit von 15 Jahren ergibt. Die Sätze 1 und 2 gelten entsprechend für auf Rentenverpflichtungen beruhende Verbindlichkeiten, für die eine Gegenleistung nicht mehr zu erwarten ist. Der nach den Sätzen 1 und 2 anzuwendende Abzinsungszinssatz wird von der Deutschen Bundesbank nach Maßgabe einer Rechtsverordnung ermittelt und monatlich bekannt gegeben. In der Rechtsverordnung nach Satz 4, die nicht der Zustimmung des Bundesrates bedarf, bestimmt das Bundesministerium der Justiz im Benehmen mit der Deutschen Bundesbank das Nähere zur Ermittlung der Abzinsungszinssätze, insbesondere die Ermittlungsmethodik und deren Grundlagen, sowie die Form der Bekanntgabe.
 
@@ -1891,20 +1893,31 @@ Erster Titel Allgemeine Vorschriften
 
 ### § 264 Pflicht zur Aufstellung
 
-(1) Die gesetzlichen Vertreter einer Kapitalgesellschaft haben den Jahresabschluß (§ 242) um einen Anhang zu erweitern, der mit der Bilanz und der Gewinn- und Verlustrechnung eine Einheit bildet, sowie einen Lagebericht aufzustellen. Die gesetzlichen Vertreter einer kapitalmarktorientierten Kapitalgesellschaft, die nicht zur Aufstellung eines Konzernabschlusses verpflichtet ist, haben den Jahresabschluss um eine Kapitalflussrechnung und einen Eigenkapitalspiegel zu erweitern, die mit der Bilanz, Gewinn- und Verlustrechnung und dem Anhang eine Einheit bilden; sie können den Jahresabschluss um eine Segmentberichterstattung erweitern. Der Jahresabschluß und der Lagebericht sind von den gesetzlichen Vertretern in den ersten drei Monaten des Geschäftsjahrs für das vergangene Geschäftsjahr aufzustellen. Kleine Kapitalgesellschaften (§ 267 Abs. 1) brauchen den Lagebericht nicht aufzustellen; sie dürfen den Jahresabschluß auch später aufstellen, wenn dies einem ordnungsgemäßen Geschäftsgang entspricht, jedoch innerhalb der ersten sechs Monate des Geschäftsjahres.
+(1) Die gesetzlichen Vertreter einer Kapitalgesellschaft haben den Jahresabschluß (§ 242) um einen Anhang zu erweitern, der mit der Bilanz und der Gewinn- und Verlustrechnung eine Einheit bildet, sowie einen Lagebericht aufzustellen. Die gesetzlichen Vertreter einer kapitalmarktorientierten Kapitalgesellschaft, die nicht zur Aufstellung eines Konzernabschlusses verpflichtet ist, haben den Jahresabschluss um eine Kapitalflussrechnung und einen Eigenkapitalspiegel zu erweitern, die mit der Bilanz, Gewinn- und Verlustrechnung und dem Anhang eine Einheit bilden; sie können den Jahresabschluss um eine Segmentberichterstattung erweitern. Der Jahresabschluß und der Lagebericht sind von den gesetzlichen Vertretern in den ersten drei Monaten des Geschäftsjahrs für das vergangene Geschäftsjahr aufzustellen. Kleine Kapitalgesellschaften (§ 267 Abs. 1) brauchen den Lagebericht nicht aufzustellen; sie dürfen den Jahresabschluß auch später aufstellen, wenn dies einem ordnungsgemäßen Geschäftsgang entspricht, jedoch innerhalb der ersten sechs Monate des Geschäftsjahres. Kleinstkapitalgesellschaften (§ 267a) brauchen den Jahresabschluss nicht um einen Anhang zu erweitern, wenn sie
 
-(2) Der Jahresabschluß der Kapitalgesellschaft hat unter Beachtung der Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Kapitalgesellschaft zu vermitteln. Führen besondere Umstände dazu, daß der Jahresabschluß ein den tatsächlichen Verhältnissen entsprechendes Bild im Sinne des Satzes 1 nicht vermittelt, so sind im Anhang zusätzliche Angaben zu machen. Die gesetzlichen Vertreter einer Kapitalgesellschaft, die Inlandsemittent im Sinne des § 2 Abs. 7 des Wertpapierhandelsgesetzes und keine Kapitalgesellschaft im Sinne des § 327a ist, haben bei der Unterzeichnung schriftlich zu versichern, dass nach besten Wissen der Jahresabschluss ein den tatsächlichen Verhältnissen entsprechendes Bild im Sinne des Satzes 1 vermittelt oder der Anhang Angaben nach Satz 2 enthält.
+1.  
+die in den §§ 251 und 268 Absatz 7 genannten Angaben,
 
-(3) Eine Kapitalgesellschaft, die Tochterunternehmen eines nach § 290 zur Aufstellung eines Konzernabschlusses verpflichteten Mutterunternehmens ist, braucht die Vorschriften dieses Unterabschnitts und des Dritten und Vierten Unterabschnitts dieses Abschnitts nicht anzuwenden, wenn
+2.  
+die in § 285 Nummer 9 Buchstabe c genannten Angaben und
+
+3.  
+im Falle einer Aktiengesellschaft oder Kommanditgesellschaft auf Aktien die in § 160 Absatz 1 Satz 1 Nummer 2 des Aktiengesetzes genannten Angaben
+
+unter der Bilanz angeben.
+
+(2) Der Jahresabschluß der Kapitalgesellschaft hat unter Beachtung der Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Kapitalgesellschaft zu vermitteln. Führen besondere Umstände dazu, daß der Jahresabschluß ein den tatsächlichen Verhältnissen entsprechendes Bild im Sinne des Satzes 1 nicht vermittelt, so sind im Anhang zusätzliche Angaben zu machen. Macht eine Kleinstkapitalgesellschaft von der Erleichterung nach Absatz 1 Satz 5 Gebrauch, sind nach Satz 2 erforderliche zusätzliche Angaben unter der Bilanz zu machen. Es wird vermutet, dass ein unter Berücksichtigung der Erleichterungen für Kleinstkapitalgesellschaften aufgestellter Jahresabschluss den Erfordernissen des Satzes 1 entspricht. Die gesetzlichen Vertreter einer Kapitalgesellschaft, die Inlandsemittent im Sinne des § 2 Abs. 7 des Wertpapierhandelsgesetzes und keine Kapitalgesellschaft im Sinne des § 327a ist, haben bei der Unterzeichnung schriftlich zu versichern, dass nach besten Wissen der Jahresabschluss ein den tatsächlichen Verhältnissen entsprechendes Bild im Sinne des Satzes 1 vermittelt oder der Anhang Angaben nach Satz 2 enthält.
+
+(3) Eine Kapitalgesellschaft, die in den Konzernabschluss eines Mutterunternehmens mit Sitz in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum einbezogen ist, braucht die Vorschriften dieses Unterabschnitts und des Dritten und Vierten Unterabschnitts dieses Abschnitts nicht anzuwenden, wenn
 
 1.  
 alle Gesellschafter des Tochterunternehmens der Befreiung für das jeweilige Geschäftsjahr zugestimmt haben und der Beschluß nach § 325 offengelegt worden ist,
 
 2.  
-das Mutterunternehmen zur Verlustübernahme nach § 302 des Aktiengesetzes verpflichtet ist oder eine solche Verpflichtung freiwillig übernommen hat und diese Erklärung nach § 325 offengelegt worden ist,
+das Mutterunternehmen zur Verlustübernahme nach § 302 des Aktiengesetzes oder nach dem für das Mutterunternehmen maßgeblichen Recht verpflichtet ist oder eine solche Verpflichtung freiwillig übernommen hat und diese Erklärung nach § 325 offengelegt worden ist,
 
 3.  
-das Tochterunternehmen in den Konzernabschluss nach den Vorschriften dieses Abschnitts einbezogen worden ist und
+die Kapitalgesellschaft in den Konzernabschluss einbezogen worden ist und
 
 4.  
 die Befreiung des Tochterunternehmens
@@ -1974,6 +1987,8 @@ Anstelle des Postens "Gezeichnetes Kapital" sind die Kapitalanteile der persönl
 
 (4) Anteile an Komplementärgesellschaften sind in der Bilanz auf der Aktivseite unter den Posten A.III.1 oder A.III.3 auszuweisen. § 272 Abs. 4 ist mit der Maßgabe anzuwenden, dass für diese Anteile in Höhe des aktivierten Betrags nach dem Posten "Eigenkapital" ein Sonderposten unter der Bezeichnung "Ausgleichsposten für aktivierte eigene Anteile" zu bilden ist.
 
+(5) Macht die Gesellschaft von einem Wahlrecht nach § 266 Absatz 1 Satz 3 oder Satz 4 Gebrauch, richtet sich die Gliederung der verkürzten Bilanz nach der Ausübung dieses Wahlrechts. Die Ermittlung der Bilanzposten nach den vorstehenden Absätzen bleibt unberührt.
+
 ### § 264d Kapitalmarktorientierte Kapitalgesellschaft
 
 Eine Kapitalgesellschaft ist kapitalmarktorientiert, wenn sie einen organisierten Markt im Sinn des § 2 Abs. 5 des Wertpapierhandelsgesetzes durch von ihr ausgegebene Wertpapiere im Sinn des § 2 Abs. 1 Satz 1 des Wertpapierhandelsgesetzes in Anspruch nimmt oder die Zulassung solcher Wertpapiere zum Handel an einem organisierten Markt beantragt hat.
@@ -2009,7 +2024,7 @@ Zweiter Titel Bilanz
 
 ### § 266 Gliederung der Bilanz
 
-(1) Die Bilanz ist in Kontoform aufzustellen. Dabei haben große und mittelgroße Kapitalgesellschaften (§ 267 Abs. 3, 2) auf der Aktivseite die in Absatz 2 und auf der Passivseite die in Absatz 3 bezeichneten Posten gesondert und in der vorgeschriebenen Reihenfolge auszuweisen. Kleine Kapitalgesellschaften (§ 267 Abs. 1) brauchen nur eine verkürzte Bilanz aufzustellen, in die nur die in den Absätzen 2 und 3 mit Buchstaben und römischen Zahlen bezeichneten Posten gesondert und in der vorgeschriebenen Reihenfolge aufgenommen werden.
+(1) Die Bilanz ist in Kontoform aufzustellen. Dabei haben große und mittelgroße Kapitalgesellschaften (§ 267 Abs. 3, 2) auf der Aktivseite die in Absatz 2 und auf der Passivseite die in Absatz 3 bezeichneten Posten gesondert und in der vorgeschriebenen Reihenfolge auszuweisen. Kleine Kapitalgesellschaften (§ 267 Abs. 1) brauchen nur eine verkürzte Bilanz aufzustellen, in die nur die in den Absätzen 2 und 3 mit Buchstaben und römischen Zahlen bezeichneten Posten gesondert und in der vorgeschriebenen Reihenfolge aufgenommen werden. Kleinstkapitalgesellschaften (§ 267a) brauchen nur eine verkürzte Bilanz aufzustellen, in die nur die in den Absätzen 2 und 3 mit Buchstaben bezeichneten Posten gesondert und in der vorgeschriebenen Reihenfolge aufgenommen werden.
 
 (2) Aktivseite
 
@@ -2229,6 +2244,23 @@ Im Jahresdurchschnitt zweihundertfünfzig Arbeitnehmer.
 (5) Als durchschnittliche Zahl der Arbeitnehmer gilt der vierte Teil der Summe aus den Zahlen der jeweils am 31. März, 30. Juni, 30. September und 31. Dezember beschäftigten Arbeitnehmer einschließlich der im Ausland beschäftigten Arbeitnehmer, jedoch ohne die zu ihrer Berufsausbildung Beschäftigten.
 
 (6) Informations- und Auskunftsrechte der Arbeitnehmervertretungen nach anderen Gesetzen bleiben unberührt.
+
+### § 267a Kleinstkapitalgesellschaften
+
+(1) Kleinstkapitalgesellschaften sind kleine Kapitalgesellschaften, die mindestens zwei der drei nachstehenden Merkmale nicht überschreiten:
+
+1.  
+350 000 Euro Bilanzsumme nach Abzug eines auf der Aktivseite ausgewiesenen Fehlbetrags (§ 268 Absatz 3);
+
+2.  
+700 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlussstichtag;
+
+3.  
+im Jahresdurchschnitt zehn Arbeitnehmer.
+
+Die Bilanzsumme setzt sich aus den Posten zusammen, die in den Buchstaben A bis E des § 266 Absatz 2 aufgeführt sind, wobei bei Ausübung des in § 274a Nummer 5 geregelten Wahlrechts der betreffende Buchstabe nicht berücksichtigt wird. § 267 Absatz 4 bis 6 gilt entsprechend.
+
+(2) Die in diesem Gesetz für kleine Kapitalgesellschaften (§ 267 Absatz 1) vorgesehenen besonderen Regelungen gelten für Kleinstkapitalgesellschaften entsprechend, soweit nichts anderes geregelt ist.
 
 ### § 268 Vorschriften zu einzelnen Posten der BilanzBilanzvermerke
 
@@ -2465,9 +2497,35 @@ Jahresüberschuß/Jahresfehlbetrag.
 
 (4) Veränderungen der Kapital- und Gewinnrücklagen dürfen in der Gewinn- und Verlustrechnung erst nach dem Posten "Jahresüberschuß/Jahresfehlbetrag" ausgewiesen werden.
 
+(5) Kleinstkapitalgesellschaften (§ 267a) können anstelle der Staffelungen nach den Absätzen 2 und 3 die Gewinn- und Verlustrechnung wie folgt darstellen:
+
+1.  
+Umsatzerlöse,
+
+2.  
+sonstige Erträge,
+
+3.  
+Materialaufwand,
+
+4.  
+Personalaufwand,
+
+5.  
+Abschreibungen,
+
+6.  
+sonstige Aufwendungen,
+
+7.  
+Steuern,
+
+8.  
+Jahresüberschuss/Jahresfehlbetrag.
+
 ### § 276 Größenabhängige Erleichterungen
 
-Kleine und mittelgroße Kapitalgesellschaften (§ 267 Abs. 1, 2) dürfen die Posten § 275 Abs. 2 Nr. 1 bis 5 oder Abs. 3 Nr. 1 bis 3 und 6 zu einem Posten unter der Bezeichnung "Rohergebnis" zusammenfassen. Kleine Kapitalgesellschaften brauchen außerdem die in § 277 Abs. 4 Satz 2 und 3 verlangten Erläuterungen zu den Posten "außerordentliche Erträge" und "außerordentliche Aufwendungen" nicht zu machen.
+Kleine und mittelgroße Kapitalgesellschaften (§ 267 Abs. 1, 2) dürfen die Posten § 275 Abs. 2 Nr. 1 bis 5 oder Abs. 3 Nr. 1 bis 3 und 6 zu einem Posten unter der Bezeichnung "Rohergebnis" zusammenfassen. Kleine Kapitalgesellschaften brauchen außerdem die in § 277 Abs. 4 Satz 2 und 3 verlangten Erläuterungen zu den Posten "außerordentliche Erträge" und "außerordentliche Aufwendungen" nicht zu machen. Die Erleichterungen nach Satz 1 oder 2 gelten nicht für Kleinstkapitalgesellschaften (§ 267a), die von der Regelung des § 275 Absatz 5 Gebrauch machen.
 
 ### § 277 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung
 
@@ -2835,7 +2893,7 @@ ihm bei einem anderen Unternehmen das Recht zusteht, die Mehrheit der Mitglieder
 ihm das Recht zusteht, die Finanz- und Geschäftspolitik auf Grund eines mit einem anderen Unternehmen geschlossenen Beherrschungsvertrages oder auf Grund einer Bestimmung in der Satzung des anderen Unternehmens zu bestimmen, oder
 
 4.  
-es bei wirtschaftlicher Betrachtung die Mehrheit der Risiken und Chancen eines Unternehmens trägt, das zur Erreichung eines eng begrenzten und genau definierten Ziels des Mutterunternehmens dient (Zweckgesellschaft). Neben Unternehmen können Zweckgesellschaften auch sonstige juristische Personen des Privatrechts oder unselbständige Sondervermögen des Privatrechts, ausgenommen Spezial-Sondervermögen im Sinn des § 2 Abs. 3 des Investmentgesetzes, sein.
+es bei wirtschaftlicher Betrachtung die Mehrheit der Risiken und Chancen eines Unternehmens trägt, das zur Erreichung eines eng begrenzten und genau definierten Ziels des Mutterunternehmens dient (Zweckgesellschaft). Neben Unternehmen können Zweckgesellschaften auch sonstige juristische Personen des Privatrechts oder unselbständige Sondervermögen des Privatrechts, ausgenommen Spezial-Sondervermögen im Sinn des § 2 Abs. 3 des Investmentgesetzes oder vergleichbare ausländische Investmentvermögen, sein.
 
 (3) Als Rechte, die einem Mutterunternehmen nach Absatz 2 zustehen, gelten auch die einem Tochterunternehmen zustehenden Rechte und die den für Rechnung des Mutterunternehmens oder von Tochterunternehmen handelnden Personen zustehenden Rechte. Den einem Mutterunternehmen an einem anderen Unternehmen zustehenden Rechten werden die Rechte hinzugerechnet, über die es oder ein Tochterunternehmen auf Grund einer Vereinbarung mit anderen Gesellschaftern dieses Unternehmens verfügen kann. Abzuziehen sind Rechte, die
 
@@ -3620,7 +3678,7 @@ der Jahresabschluss mit dem Bestätigungsvermerk oder dem Vermerk über dessen V
 
 ### § 325a Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Ausland
 
-(1) Bei inländischen Zweigniederlassungen von Kapitalgesellschaften mit Sitz in einem anderen Mitgliedstaat der Europäischen Wirtschaftsgemeinschaft oder Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum haben die in § 13e Abs. 2 Satz 4 Nr. 3 genannten Personen oder, wenn solche nicht angemeldet sind, die gesetzlichen Vertreter der Gesellschaft für diese die Unterlagen der Rechnungslegung der Hauptniederlassung, die nach dem für die Hauptniederlassung maßgeblichen Recht erstellt, geprüft und offengelegt worden sind, nach den §§ 325, 328, 329 Abs. 1 und 4 offenzulegen. Die Unterlagen sind in deutscher Sprache einzureichen. Soweit dies nicht die Amtssprache am Sitz der Hauptniederlassung ist, können die Unterlagen der Hauptniederlassung auch
+(1) Bei inländischen Zweigniederlassungen von Kapitalgesellschaften mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum haben die in § 13e Abs. 2 Satz 4 Nr. 3 genannten Personen oder, wenn solche nicht angemeldet sind, die gesetzlichen Vertreter der Gesellschaft für diese die Unterlagen der Rechnungslegung der Hauptniederlassung, die nach dem für die Hauptniederlassung maßgeblichen Recht erstellt, geprüft und offengelegt oder hinterlegt worden sind, nach den §§ 325, 328, 329 Abs. 1 und 4 offenzulegen. Die Unterlagen sind in deutscher Sprache einzureichen. Soweit dies nicht die Amtssprache am Sitz der Hauptniederlassung ist, können die Unterlagen der Hauptniederlassung auch
 
 1.  
 in englischer Sprache oder
@@ -3635,9 +3693,13 @@ eingereicht werden; von der Beglaubigung des Registers ist eine beglaubigte Übe
 
 (2) Diese Vorschrift gilt nicht für Zweigniederlassungen, die von Kreditinstituten im Sinne des § 340 oder von Versicherungsunternehmen im Sinne des § 341 errichtet werden.
 
-### § 326 Größenabhängige Erleichterungen für kleine Kapitalgesellschaften bei der Offenlegung
+(3) Bei der Anwendung von Absatz 1 ist für die Einstufung einer Kapitalgesellschaft als Kleinstkapitalgesellschaft (§ 267a) und für die Geltung von Erleichterungen bei der Rechnungslegung das Recht des anderen Mitgliedstaates der Europäischen Union oder das Recht des Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum maßgeblich. Darf eine Kleinstkapitalgesellschaft nach dem für sie maßgeblichen Recht die Offenlegungspflicht durch die Hinterlegung der Bilanz erfüllen, darf sie die Offenlegung nach Absatz 1 ebenfalls durch Hinterlegung bewirken. § 326 Absatz 2 gilt entsprechend.
 
-Auf kleine Kapitalgesellschaften (§ 267 Abs. 1) ist § 325 Abs. 1 mit der Maßgabe anzuwenden, daß die gesetzlichen Vertreter nur die Bilanz und den Anhang einzureichen haben. Der Anhang braucht die die Gewinn- und Verlustrechnung betreffenden Angaben nicht zu enthalten.
+### § 326 Größenabhängige Erleichterungen für kleine Kapitalgesellschaften und Kleinstkapitalgesellschaften bei der Offenlegung
+
+(1) Auf kleine Kapitalgesellschaften (§ 267 Abs. 1) ist § 325 Abs. 1 mit der Maßgabe anzuwenden, daß die gesetzlichen Vertreter nur die Bilanz und den Anhang einzureichen haben. Der Anhang braucht die die Gewinn- und Verlustrechnung betreffenden Angaben nicht zu enthalten.
+
+(2) Die gesetzlichen Vertreter von Kleinstkapitalgesellschaften (§ 267a) können ihre sich aus § 325 ergebenden Pflichten auch dadurch erfüllen, dass sie die Bilanz in elektronischer Form zur dauerhaften Hinterlegung beim Betreiber des Bundesanzeigers einreichen und einen Hinterlegungsauftrag erteilen. § 325 Absatz 1 Satz 2 und 6 ist entsprechend anzuwenden. Kleinstkapitalgesellschaften dürfen von dem in Satz 1 geregelten Recht nur Gebrauch machen, wenn sie gegenüber dem Betreiber des Bundesanzeigers mitteilen, dass sie zwei der drei in § 267a Absatz 1 genannten Merkmale für die nach § 267 Absatz 4 maßgeblichen Abschlussstichtage nicht überschreiten.
 
 ### § 327 Größenabhängige Erleichterungen für mittelgroße Kapitalgesellschaften bei der Offenlegung
 
@@ -3720,9 +3782,11 @@ Werden der Jahresabschluß oder der Konzernabschluß zur Wahrung der gesetzlich 
 
 (2) Werden Abschlüsse in Veröffentlichungen und Vervielfältigungen, die nicht durch Gesetz, Gesellschaftsvertrag oder Satzung vorgeschrieben sind, nicht in der nach Absatz 1 vorgeschriebenen Form wiedergegeben, so ist jeweils in einer Überschrift darauf hinzuweisen, daß es sich nicht um eine der gesetzlichen Form entsprechende Veröffentlichung handelt. Ein Bestätigungsvermerk darf nicht beigefügt werden. Ist jedoch auf Grund gesetzlicher Vorschriften eine Prüfung durch einen Abschlußprüfer erfolgt, so ist anzugeben, zu welcher der in § 322 Abs. 2 Satz 1 genannten zusammenfassenden Beurteilungen des Prüfungsergebnisses der Abschlussprüfer in Bezug auf den in gesetzlicher Form erstellten Abschluss gelangt ist und ob der Bestätigungsvermerk einen Hinweis nach § 322 Abs. 3 Satz 2 enthält. Ferner ist anzugeben, ob die Unterlagen bei dem Betreiber des Bundesanzeigers eingereicht worden sind.
 
-(3) Absatz 1 Nr. 1 ist auf den Lagebericht, den Konzernlagebericht, den Vorschlag für die Verwendung des Ergebnisses und den Beschluß über seine Verwendung sowie auf die Aufstellung des Anteilsbesitzes entsprechend anzuwenden. Werden die in Satz 1 bezeichneten Unterlagen nicht gleichzeitig mit dem Jahresabschluß oder dem Konzernabschluß offengelegt, so ist bei ihrer nachträglichen Offenlegung jeweils anzugeben, auf welchen Abschluß sie sich beziehen und wo dieser offengelegt worden ist; dies gilt auch für die nachträgliche Offenlegung des Bestätigungsvermerks oder des Vermerks über seine Versagung.
+(3) Absatz 1 Nr. 1 ist auf den Lagebericht, den Konzernlagebericht, den Vorschlag für die Verwendung des Ergebnisses und den Beschluß über seine Verwendung entsprechend anzuwenden. Werden die in Satz 1 bezeichneten Unterlagen nicht gleichzeitig mit dem Jahresabschluß oder dem Konzernabschluß offengelegt, so ist bei ihrer nachträglichen Offenlegung jeweils anzugeben, auf welchen Abschluß sie sich beziehen und wo dieser offengelegt worden ist; dies gilt auch für die nachträgliche Offenlegung des Bestätigungsvermerks oder des Vermerks über seine Versagung.
 
 (4) Die Rechtsverordnung nach § 330 Abs. 1 Satz 1, 4 und 5 kann dem Betreiber des Bundesanzeigers Abweichungen von der Kontoform nach § 266 Abs. 1 Satz 1 gestatten.
+
+(5) Für die Hinterlegung der Bilanz einer Kleinstkapitalgesellschaft (§ 326 Absatz 2) gilt Absatz 1 entsprechend.
 
 ### § 329 Prüfungs- und Unterrichtungspflicht des Betreibers des Bundesanzeigers
 
@@ -3805,13 +3869,13 @@ a)
 des § 243 Abs. 1 oder 2, der §§ 244, 245, 246, 247, 248, 249 Abs. 1 Satz 1 oder Abs. 2, des § 250 Abs. 1 oder 2, des § 251 oder des § 264 Abs. 2 über Form oder Inhalt,
 
 b)  
-des § 253 Abs. 1 Satz 1, 2, 3 oder Satz 4, Abs. 2 Satz 1, auch in Verbindung mit Satz 2, Abs. 3 Satz 1, 2 oder 3, Abs. 4 oder 5, des § 254 oder des § 256a über die Bewertung,
+des § 253 Absatz 1 Satz 1, 2, 3, 4, 5 oder Satz 6, Abs. 2 Satz 1, auch in Verbindung mit Satz 2, Abs. 3 Satz 1, 2 oder 3, Abs. 4 oder 5, des § 254 oder des § 256a über die Bewertung,
 
 c)  
 des § 265 Abs. 2, 3, 4 oder 6, der §§ 266, 268 Abs. 2, 3, 4, 5, 6 oder 7, der §§ 272, 274, 275 oder des § 277 über die Gliederung oder
 
 d)  
-des § 284 oder des § 285 über die in der Bilanz oder im Anhang zu machenden Angaben,
+des § 284 oder des § 285 über die in der Bilanz, unter der Bilanz oder im Anhang zu machenden Angaben,
 
 2.  
 bei der Aufstellung des Konzernabschlusses einer Vorschrift
@@ -3841,7 +3905,7 @@ bei der Aufstellung des Lageberichts einer Vorschrift des § 289 Abs. 1, 4 oder 
 bei der Aufstellung des Konzernlageberichts einer Vorschrift des § 315 Abs. 1 oder 4 über den Inhalt des Konzernlageberichts,
 
 5.  
-bei der Offenlegung, Veröffentlichung oder Vervielfältigung einer Vorschrift des § 328 über Form oder Inhalt oder
+bei der Offenlegung, Hinterlegung, Veröffentlichung oder Vervielfältigung einer Vorschrift des § 328 über Form oder Inhalt oder
 
 6.  
 einer auf Grund des § 330 Abs. 1 Satz 1 erlassenen Rechtsverordnung, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
@@ -3880,7 +3944,7 @@ nicht befolgen, ist wegen des pflichtwidrigen Unterlassens der rechtzeitigen Off
 
 (5a) Für die elektronische Aktenführung des Gerichts und die Kommunikation mit dem Gericht nach Absatz 5 sind § 110a Abs. 1, § 110b Abs. 1 Satz 1, Abs. 2 bis 4, § 110c Abs. 1 sowie § 110d des Gesetzes über Ordnungswidrigkeiten entsprechend anzuwenden. § 110a Abs. 2 Satz 1 und 3 sowie § 110b Abs. 1 Satz 2 und 4 des Gesetzes über Ordnungswidrigkeiten sind mit der Maßgabe anzuwenden, dass die Landesregierung des Landes, in dem das Bundesamt seinen Sitz unterhält, die Rechtsverordnung erlassen und die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltung übertragen kann.
 
-(6) Liegen dem Bundesamt in einem Verfahren nach den Absätzen 1 bis 3 keine Anhaltspunkte über die Einstufung einer Gesellschaft im Sinn des § 267 Abs. 1, 2 oder Abs. 3 vor, ist den in Absatz 1 Satz 1 und 2 bezeichneten Beteiligten zugleich mit der Androhung des Ordnungsgeldes aufzugeben, im Fall des Einspruchs die Bilanzsumme nach Abzug eines auf der Aktivseite ausgewiesenen Fehlbetrags (§ 268 Abs. 3), die Umsatzerlöse in den ersten zwölf Monaten vor dem Abschlussstichtag (§ 277 Abs. 1) und die durchschnittliche Zahl der Arbeitnehmer (§ 267 Abs. 5) für das betreffende Geschäftsjahr und für diejenigen vorausgehenden Geschäftsjahre, die für die Einstufung nach § 267 Abs. 1, 2 oder Abs. 3 erforderlich sind, anzugeben. Unterbleiben die Angaben nach Satz 1, so wird für das weitere Verfahren vermutet, dass die Erleichterungen der §§ 326 und 327 nicht in Anspruch genommen werden können. Die Sätze 1 und 2 gelten für den Konzernabschluss und den Konzernlagebericht entsprechend mit der Maßgabe, dass an die Stelle der §§ 267, 326 und 327 der § 293 tritt.
+(6) Liegen dem Bundesamt in einem Verfahren nach den Absätzen 1 bis 3 keine Anhaltspunkte über die Einstufung einer Gesellschaft im Sinn des § 267 Abs. 1, 2 oder Abs. 3 oder § 267a vor, ist den in Absatz 1 Satz 1 und 2 bezeichneten Beteiligten zugleich mit der Androhung des Ordnungsgeldes aufzugeben, im Fall des Einspruchs die Bilanzsumme nach Abzug eines auf der Aktivseite ausgewiesenen Fehlbetrags (§ 268 Abs. 3), die Umsatzerlöse in den ersten zwölf Monaten vor dem Abschlussstichtag (§ 277 Abs. 1) und die durchschnittliche Zahl der Arbeitnehmer (§ 267 Abs. 5) für das betreffende Geschäftsjahr und für diejenigen vorausgehenden Geschäftsjahre, die für die Einstufung nach § 267 Abs. 1, 2 oder Abs. 3 oder § 267a erforderlich sind, anzugeben. Unterbleiben die Angaben nach Satz 1, so wird für das weitere Verfahren vermutet, dass die Erleichterungen der §§ 326 und 327 nicht in Anspruch genommen werden können. Die Sätze 1 und 2 gelten für den Konzernabschluss und den Konzernlagebericht entsprechend mit der Maßgabe, dass an die Stelle der §§ 267, 326 und 327 der § 293 tritt.
 
 (+++ § 335 Abs. 5 Satz 11 und 12: Zur Anwendung vgl. Art. 66 Abs. 6 HGBEG +++)
 (+++ § 335 Abs. 5 Satz 11 und 12: Zum Außerkrafttreten vgl. Art. 66 Abs. 6 HGBEG +++)
@@ -3902,7 +3966,7 @@ Dritter Abschnitt Ergänzende Vorschriften für eingetragene Genossenschaften
 
 (1) Der Vorstand einer Genossenschaft hat den Jahresabschluß (§ 242) um einen Anhang zu erweitern, der mit der Bilanz und der Gewinn- und Verlustrechnung eine Einheit bildet, sowie einen Lagebericht aufzustellen. Der Jahresabschluß und der Lagebericht sind in den ersten fünf Monaten des Geschäftsjahrs für das vergangene Geschäftsjahr aufzustellen.
 
-(2) Auf den Jahresabschluß und den Lagebericht sind, soweit in den folgenden Vorschriften nichts anderes bestimmt ist, § 264 Abs. 1 Satz 4 Halbsatz 1, Abs. 2, §§ 265 bis 289 über den Jahresabschluß und den Lagebericht entsprechend anzuwenden; § 277 Abs. 3 Satz 1, § 285 Nr. 6 und 17 brauchen jedoch nicht angewendet zu werden. Sonstige Vorschriften, die durch den Geschäftszweig bedingt sind, bleiben unberührt.
+(2) Auf den Jahresabschluß und den Lagebericht sind, soweit in den folgenden Vorschriften nichts anderes bestimmt ist, § 264 Abs. 1 Satz 4 Halbsatz 1, Abs. 2, §§ 265 bis 289 über den Jahresabschluß und den Lagebericht entsprechend anzuwenden; § 277 Abs. 3 Satz 1, § 285 Nr. 6 und 17 brauchen jedoch nicht angewendet zu werden. Sonstige Vorschriften, die durch den Geschäftszweig bedingt sind, bleiben unberührt. Die Erleichterungen für Kleinstkapitalgesellschaften (§ 267a) sind auf Genossenschaften nicht anzuwenden.
 
 (3) § 330 Abs. 1 über den Erlaß von Rechtsverordnungen ist entsprechend anzuwenden.
 
@@ -4778,7 +4842,7 @@ Maß, Gewicht, Währung, Zeitrechnung und Entfernungen, die an dem Ort gelten, w
 
 (2) Ist die Sache mit dem Recht eines Dritten belastet, so finden die Vorschriften des Bürgerlichen Gesetzbuchs zugunsten derjenigen, welche Rechte von einem Nichtberechtigten herleiten, auch dann Anwendung, wenn der gute Glaube die Befugnis des Veräußerers oder Verpfänders, ohne Vorbehalt des Rechtes über die Sache zu verfügen, betrifft.
 
-(3) Das gesetzliche Pfandrecht des Kommissionärs, des Frachtführers, des Spediteurs und des Lagerhalters steht hinsichtlich des Schutzes des guten Glaubens einem gemäß Absatz 1 durch Vertrag erworbenen Pfandrecht gleich, das gesetzliche Pfandrecht des Frachtführers, des Spediteurs und des Lagerhalters an Gut, das nicht Gegenstand des Vertrages ist, aus dem die durch das Pfandrecht zu sichernde Forderung herrührt, jedoch nur insoweit, als der gute Glaube des Erwerbers das Eigentum des Vertragspartners betrifft.
+(3) Das gesetzliche Pfandrecht des Kommissionärs, des Frachtführers oder Verfrachters, des Spediteurs und des Lagerhalters steht hinsichtlich des Schutzes des guten Glaubens einem gemäß Absatz 1 durch Vertrag erworbenen Pfandrecht gleich. Satz 1 gilt jedoch nicht für das gesetzliche Pfandrecht an Gut, das nicht Gegenstand des Vertrages ist, aus dem die durch das Pfandrecht zu sichernde Forderung herrührt.
 
 ### § 367
 
@@ -4792,7 +4856,7 @@ Maß, Gewicht, Währung, Zeitrechnung und Entfernungen, die an dem Ort gelten, w
 
 (1) Bei dem Verkauf eines Pfandes tritt, wenn die Verpfändung auf der Seite des Pfandgläubigers und des Verpfänders ein Handelsgeschäft ist, an die Stelle der in § 1234 des Bürgerlichen Gesetzbuchs bestimmten Frist von einem Monat eine solche von einer Woche.
 
-(2) Diese Vorschrift findet auf das gesetzliche Pfandrecht des Kommissionärs, des Spediteurs, des Lagerhalters und des Frachtführers entsprechende Anwendung, auf das Pfandrecht des Spediteurs und des Frachtführers auch dann, wenn nur auf ihrer Seite der Speditions- oder Frachtvertrag ein Handelsgeschäft ist.
+(2) Diese Vorschrift ist auf das gesetzliche Pfandrecht des Kommissionärs, des Frachtführers oder Verfrachters, des Spediteurs und des Lagerhalters entsprechend anzuwenden, auf das Pfandrecht des Frachtführers, Verfrachters und Spediteurs auch dann, wenn nur auf ihrer Seite der Vertrag ein Handelsgeschäft ist.
 
 ### § 369
 
@@ -4986,9 +5050,9 @@ Ein Kommissionär, der den Ankauf eines Wechsels übernimmt, ist verpflichtet, d
 
 (2) Zu dem von dem Kommittenten für Aufwendungen des Kommissionärs nach den §§ 670 und 675 des Bürgerlichen Gesetzbuchs zu leistenden Ersatz gehört auch die Vergütung für die Benutzung der Lagerräume und der Beförderungsmittel des Kommissionärs.
 
-### § 397
+### § 397 Pfandrecht des Kommissionärs
 
-Der Kommissionär hat an dem Kommissionsgut, sofern er es im Besitz hat, insbesondere mittels Konnossements, Ladescheins oder Lagerscheins darüber verfügen kann, ein Pfandrecht wegen der auf das Gut verwendeten Kosten, der Provision, der auf das Gut gegebenen Vorschüsse und Darlehen, der mit Rücksicht auf das Gut gezeichneten Wechsel oder in anderer Weise eingegangenen Verbindlichkeiten sowie wegen aller Forderungen aus laufender Rechnung in Kommissionsgeschäften.
+Der Kommissionär hat wegen der auf das Gut verwendeten Kosten, der Provision, der auf das Gut gegebenen Vorschüsse und Darlehen sowie der mit Rücksicht auf das Gut gezeichneten Wechsel oder in anderer Weise eingegangenen Verbindlichkeiten ein Pfandrecht an dem Kommissionsgut des Kommittenten oder eines Dritten, der dem Kauf oder Verkauf des Gutes zugestimmt hat. An dem Gut des Kommittenten hat der Kommissionär auch ein Pfandrecht wegen aller Forderungen aus laufender Rechnung in Kommissionsgeschäften. Das Pfandrecht nach den Sätzen 1 und 2 besteht jedoch nur an Kommissionsgut, das der Kommissionär im Besitz hat oder über das er mittels Konnossements, Ladescheins oder Lagerscheins verfügen kann.
 
 ### § 398
 
@@ -5068,7 +5132,7 @@ die Beförderung zum Betrieb eines gewerblichen Unternehmens gehört.
 
 Erfordert das Unternehmen nach Art oder Umfang einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht und ist die Firma des Unternehmens auch nicht nach § 2 in das Handelsregister eingetragen, so sind in Ansehung des Frachtgeschäfts auch insoweit die Vorschriften des Ersten Abschnitts des Vierten Buches ergänzend anzuwenden; dies gilt jedoch nicht für die §§ 348 bis 350.
 
-### § 408 Frachtbrief
+### § 408 Frachtbrief. Verordnungsermächtigung
 
 (1) Der Frachtführer kann die Ausstellung eines Frachtbriefs mit folgenden Angaben verlangen:
 
@@ -5097,7 +5161,7 @@ Anzahl, Zeichen und Nummern der Frachtstücke;
 das Rohgewicht oder die anders angegebene Menge des Gutes;
 
 9.  
-die vereinbarte Fracht und die bis zur Ablieferung anfallenden Kosten sowie einen Vermerk über die Frachtzahlung;
+die bei Ablieferung geschuldete Fracht und die bis zur Ablieferung anfallenden Kosten sowie einen Vermerk über die Frachtzahlung;
 
 10.  
 den Betrag einer bei der Ablieferung des Gutes einzuziehenden Nachnahme;
@@ -5111,6 +5175,8 @@ eine Vereinbarung über die Beförderung in offenem, nicht mit Planen gedecktem 
 In den Frachtbrief können weitere Angaben eingetragen werden, die die Parteien für zweckmäßig halten.
 
 (2) Der Frachtbrief wird in drei Originalausfertigungen ausgestellt, die vom Absender unterzeichnet werden. Der Absender kann verlangen, daß auch der Frachtführer den Frachtbrief unterzeichnet. Nachbildungen der eigenhändigen Unterschriften durch Druck oder Stempel genügen. Eine Ausfertigung ist für den Absender bestimmt, eine begleitet das Gut, eine behält der Frachtführer.
+
+(3) Dem Frachtbrief gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie der Frachtbrief, sofern sichergestellt ist, dass die Authentizität und die Integrität der Aufzeichnung gewahrt bleiben (elektronischer Frachtbrief). Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, des Mitführens und der Vorlage eines elektronischen Frachtbriefs sowie des Verfahrens einer nachträglichen Eintragung in einen elektronischen Frachtbrief zu regeln.
 
 ### § 409 Beweiskraft des Frachtbriefs
 
@@ -5134,9 +5200,9 @@ vom Absender wegen dieser Maßnahmen Ersatz der erforderlichen Aufwendungen verl
 
 ### § 411 Verpackung. Kennzeichnung
 
-Der Absender hat das Gut, soweit dessen Natur unter Berücksichtigung der vereinbarten Beförderung einer Verpackung erfordert, so zu verpacken, daß es vor Verlust und Beschädigung geschützt ist und daß auch dem Frachtführer keine Schäden entstehen. Der Absender hat das Gut ferner, soweit dessen vertragsgemäße Behandlung dies erfordert, zu kennzeichnen.
+Der Absender hat das Gut, soweit dessen Natur unter Berücksichtigung der vereinbarten Beförderung einer Verpackung erfordert, so zu verpacken, daß es vor Verlust und Beschädigung geschützt ist und daß auch dem Frachtführer keine Schäden entstehen. Soll das Gut in einem Container, auf einer Palette oder in oder auf einem sonstigen Lademittel, das zur Zusammenfassung von Frachtstücken verwendet wird, zur Beförderung übergeben werden, hat der Absender das Gut auch in oder auf dem Lademittel beförderungssicher zu stauen und zu sichern. Der Absender hat das Gut ferner, soweit dessen vertragsgemäße Behandlung dies erfordert, zu kennzeichnen.
 
-### § 412 Verladen und Entladen
+### § 412 Verladen und Entladen. Verordnungsermächtigung
 
 (1) Soweit sich aus den Umständen oder der Verkehrssitte nicht etwas anderes ergibt, hat der Absender das Gut beförderungssicher zu laden, zu stauen und zu befestigen (verladen) sowie zu entladen. Der Frachtführer hat für die betriebssichere Verladung zu sorgen.
 
@@ -5148,7 +5214,7 @@ Der Absender hat das Gut, soweit dessen Natur unter Berücksichtigung der verein
 
 ### § 413 Begleitpapiere
 
-(1) Der Absender hat dem Frachtführer Urkunden zur Verfügung zu stellen und Auskünfte zu erteilen, die für eine amtliche Behandlung, insbesondere eine Zollabfertigung, vor der Ablieferung des Gutes erforderlich sind.
+(1) Der Absender hat dem Frachtführer alle Urkunden zur Verfügung zu stellen und Auskünfte zu erteilen, die für eine amtliche Behandlung, insbesondere eine Zollabfertigung, vor der Ablieferung des Gutes erforderlich sind.
 
 (2) Der Frachtführer ist für den Schaden verantwortlich, der durch Verlust oder Beschädigung der ihm übergebenen Urkunden oder durch deren unrichtige Verwendung verursacht worden ist, es sei denn, daß der Verlust, die Beschädigung oder die unrichtige Verwendung auf Umständen berührt, die der Frachtführer nicht vermeiden und deren Folgen er nicht abwenden konnte. Seine Haftung ist jedoch auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre.
 
@@ -5167,8 +5233,6 @@ Unterlassen der Mitteilung über die Gefährlichkeit des Gutes oder
 
 4.  
 Fehlen, Unvollständigkeit oder Unrichtigkeit der in § 413 Abs. 1 genannten Urkunden oder Auskünfte.
-
-Für Schäden hat der Absender jedoch nur bis zu einem Betrag von 8,33 Rechnungseinheiten für jedes Kilogramm des Rohgewichts der Sendung Ersatz zu leisten; § 431 Abs. 4 und die §§ 434 bis 436 sind entsprechend anzuwenden.
 
 (2) Hat bei der Verursachung der Schäden oder Aufwendungen ein Verhalten des Frachtführers mitgewirkt, so hängen die Verpflichtung zum Ersatz sowie der Umfang des zu leistenden Ersatzes davon ab, inwieweit dieses Verhalten zu den Schäden und Aufwendungen beigetragen hat.
 
@@ -5192,17 +5256,19 @@ verlangen. Beruht die Kündigung auf Gründen, die dem Risikobereich des Frachtf
 
 ### § 416 Anspruch auf Teilbeförderung
 
-Wird nur ein Teil der vereinbarten Ladung verladen, so kann der Absender jederzeit verlangen, daß der Frachtführer mit der Beförderung der unvollständigen Ladung beginnt. In diesem Fall gebührt dem Frachtführer die volle Fracht, das etwaige Standgeld sowie Ersatz der Aufwendungen, die ihm infolge der Unvollständigkeit der Ladung entstehen; von der vollen Fracht kommt jedoch die Fracht für dasjenige Gut in Abzug, welches der Frachtführer mit demselben Beförderungsmittel anstelle des nicht verladenen Gutes befördert. Der Frachtführer ist außerdem berechtigt, soweit ihm durch die Unvollständigkeit der Ladung die Sicherheit für die volle Fracht entgeht, die Bestellung einer anderweitigen Sicherheit zu fordern. Beruht die Unvollständigkeit der Verladung auf Gründen, die dem Risikobereich des Frachtführers zuzurechnen sind, so steht diesem der Anspruch nach den Sätzen 2 und 3 nur insoweit zu, als tatsächlich Ladung befördert wird.
+Wird das Gut nur teilweise verladen, so kann der Absender jederzeit verlangen, dass der Frachtführer mit der Beförderung des bereits verladenen Teils des Gutes beginnt. In diesem Fall gebührt dem Frachtführer die volle Fracht, das etwaige Standgeld sowie Ersatz der Aufwendungen, die ihm durch das Fehlen eines Teils des Gutes entstehen; von der vollen Fracht kommt jedoch die Fracht für dasjenige Gut in Abzug, welches der Frachtführer mit demselben Beförderungsmittel anstelle des nicht verladenen Gutes befördert. Der Frachtführer ist außerdem berechtigt, soweit ihm durch das Fehlen eines Teils des Gutes die Sicherheit für die volle Fracht entgeht, die Bestellung einer anderweitigen Sicherheit zu fordern. Beruht die Unvollständigkeit der Verladung auf Gründen, die dem Risikobereich des Frachtführers zuzurechnen sind, so steht diesem der Anspruch nach den Sätzen 2 und 3 nur insoweit zu, als tatsächlich Gut befördert wird.
 
 ### § 417 Rechte des Frachtführers bei Nichteinhaltung der Ladezeit
 
-(1) Verlädt der Absender das Gut nicht innerhalb der Ladezeit oder stellt er, wenn er zur Verladung nicht verpflichtet ist, das Gut nicht innerhalb der Ladezeit zur Verfügung, so kann ihm der Frachtführer eine angemessene Frist setzen, innerhalb derer das Gut verladen oder zur Verfügung gestellt werden soll.
+(1) Verlädt der Absender das Gut nicht innerhalb der Ladezeit oder stellt er, wenn ihm das Verladen nicht obliegt, das Gut nicht innerhalb der Ladezeit zur Verfügung, so kann ihm der Frachtführer eine angemessene Frist setzen, innerhalb derer das Gut verladen oder zur Verfügung gestellt werden soll.
 
-(2) Wird bis zum Ablauf der nach Absatz 1 gesetzten Frist keine Ladung verladen oder zur Verfügung gestellt, so kann der Frachtführer den Vertrag kündigen und die Ansprüche nach § 415 Abs. 2 geltend machen.
+(2) Wird bis zum Ablauf der nach Absatz 1 gesetzten Frist kein Gut verladen oder zur Verfügung gestellt oder ist offensichtlich, dass innerhalb dieser Frist kein Gut verladen oder zur Verfügung gestellt wird, so kann der Frachtführer den Vertrag kündigen und die Ansprüche nach § 415 Abs. 2 geltend machen.
 
-(3) Wird bis zum Ablauf der nach Absatz 1 gesetzten Frist nur ein Teil der vereinbarten Ladung verladen oder zur Verfügung gestellt, so kann der Frachtführer mit der Beförderung der unvollständigen Ladung beginnen und die Ansprüche nach § 416 Satz 2 und 3 geltend machen.
+(3) Wird das Gut bis zum Ablauf der nach Absatz 1 gesetzten Frist nur teilweise verladen oder zur Verfügung gestellt, so kann der Frachtführer mit der Beförderung des bereits verladenen Teils des Gutes beginnen und die Ansprüche nach § 416 Satz 2 und 3 geltend machen.
 
-(4) Dem Frachtführer stehen die Rechte nicht zu, wenn die Nichteinhaltung der Ladezeit auf Gründen beruht, die seinem Risikobereich zuzurechnen sind.
+(4) Der Frachtführer kann die Rechte nach Absatz 2 oder 3 auch ohne Fristsetzung ausüben, wenn der Absender sich ernsthaft und endgültig weigert, das Gut zu verladen oder zur Verfügung zu stellen. Er kann ferner den Vertrag nach Absatz 2 auch ohne Fristsetzung kündigen, wenn besondere Umstände vorliegen, die ihm unter Abwägung der beiderseitigen Interessen die Fortsetzung des Vertragsverhältnisses unzumutbar machen.
+
+(5) Dem Frachtführer stehen die Rechte nicht zu, wenn die Nichteinhaltung der Ladezeit auf Gründen beruht, die seinem Risikobereich zuzurechnen sind.
 
 ### § 418 Nachträgliche Weisungen
 
@@ -5216,15 +5282,15 @@ Wird nur ein Teil der vereinbarten Ladung verladen, so kann der Absender jederze
 
 (5) Beabsichtigt der Frachtführer, eine ihm erteilte Weisung nicht zu befolgen, so hat er denjenigen, der die Weisung gegeben hat, unverzüglich zu benachrichtigen.
 
-(6) Ist die Ausübung des Verfügungsrechts von der Vorlage des Frachtbriefs abhängig gemacht worden und führt der Frachtführer eine Weisung aus, ohne sich die Absenderausfertigung des Frachtbriefs vorlegen zu lassen, so haftet er dem Berechtigten für den daraus entstehenden Schaden. Die Vorschriften über die Beschränkung der Haftung finden keine Anwendung.
+(6) Ist die Ausübung des Verfügungsrechts von der Vorlage des Frachtbriefs abhängig gemacht worden und führt der Frachtführer eine Weisung aus, ohne sich die Absenderausfertigung des Frachtbriefs vorlegen zu lassen, so haftet er dem Berechtigten für den daraus entstehenden Schaden. Die Haftung ist auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre.
 
 ### § 419 Beförderungs- und Ablieferungshindernisse
 
-(1) Wird vor Ankunft des Gutes an der für die Ablieferung vorgesehenen Stelle erkennbar, daß die Beförderung nicht vertragsgemäß durchgeführt werden kann, oder bestehen nach Ankunft des Gutes an der Ablieferungsstelle Ablieferungshindernisse, so hat der Frachtführer Weisungen des nach § 418 Verfügungsberechtigten einzuholen. Ist der Empfänger verfügungsberechtigt und ist er nicht zu ermitteln oder verweigert er die Annahme des Gutes, so ist Verfügungsberechtigter nach Satz 1 der Absender; ist die Ausübung des Verfügungsrechts von der Vorlage eines Frachtbriefs abhängig gemacht worden, so bedarf es in diesem Fall der Vorlage des Frachtbriefs nicht. Der Frachtführer ist, wenn ihm Weisungen erteilt worden sind und das Hindernis nicht seinem Risikobereich zuzurechnen ist, berechtigt, Ansprüche nach § 418 Abs. 1 Satz 4 geltend zu machen.
+(1) Wird nach Übernahme des Gutes erkennbar, dass die Beförderung oder Ablieferung nicht vertragsgemäß durchgeführt werden kann, so hat der Frachtführer Weisungen des nach § 418 oder § 446 Verfügungsberechtigten einzuholen. Ist der Empfänger verfügungsberechtigt und ist er nicht zu ermitteln oder verweigert er die Annahme des Gutes, so ist, wenn ein Ladeschein nicht ausgestellt ist, Verfügungsberechtigter nach Satz 1 der Absender; ist die Ausübung des Verfügungsrechts von der Vorlage eines Frachtbriefs abhängig gemacht worden, so bedarf es in diesem Fall der Vorlage des Frachtbriefs nicht. Der Frachtführer ist, wenn ihm Weisungen erteilt worden sind und das Hindernis nicht seinem Risikobereich zuzurechnen ist, berechtigt, Ansprüche nach § 418 Abs. 1 Satz 4 geltend zu machen.
 
 (2) Tritt das Beförderungs- oder Ablieferungshindernis ein, nachdem der Empfänger auf Grund seiner Verfügungsbefugnis nach § 418 die Weisung erteilt hat, das Gut an einen Dritten abzuliefern, so nimmt bei der Anwendung des Absatzes 1 der Empfänger die Stelle des Absenders und der Dritte die des Empfängers ein.
 
-(3) Kann der Frachtführer Weisungen, die er nach § 418 abs. 1 Satz 3 befolgen müßte, innerhalb angemessener Zeit nicht erlangen, so hat er die Maßnahmen zu ergreifen, die im Interesse des Verfügungsberechtigten die besten zu sein scheinen. Er kann etwa das Gut entladen und verwahren, für Rechnung des nach § 418 Abs. 1 bis 4 Verfügungsberechtigten einem Dritten zur Verwahrung anvertrauen oder zurückbefördern; vertraut der Frachtführer das Gut einem Dritten an, so haftet er nur für die sorgfältige Auswahl des Dritten. Der Frachtführer kann das Gut auch gemäß § 373 ABs. 2 bis 4 verkaufen lassen, wenn es sich um verderbliche Ware handelt oder der Zustand des Gutes eine solche Maßnahme rechtfertigt oder wenn die andernfalls entstehenden Kosten in keinem angemessenen Verhältnis zum Wert des Gutes stehen. Unverwertbares Gut darf der Frachtführer vernichten. Nach dem Entladen des Gutes gilt die Beförderung als beendet.
+(3) Kann der Frachtführer Weisungen, die er nach § 418 abs. 1 Satz 3 befolgen müßte, innerhalb angemessener Zeit nicht erlangen, so hat er die Maßnahmen zu ergreifen, die im Interesse des Verfügungsberechtigten die besten zu sein scheinen. Er kann etwa das Gut entladen und verwahren, für Rechnung des nach § 418 oder § 446 Verfügungsberechtigten einem Dritten zur Verwahrung anvertrauen oder zurückbefördern; vertraut der Frachtführer das Gut einem Dritten an, so haftet er nur für die sorgfältige Auswahl des Dritten. Der Frachtführer kann das Gut auch gemäß § 373 ABs. 2 bis 4 verkaufen lassen, wenn es sich um verderbliche Ware handelt oder der Zustand des Gutes eine solche Maßnahme rechtfertigt oder wenn die andernfalls entstehenden Kosten in keinem angemessenen Verhältnis zum Wert des Gutes stehen. Unverwertbares Gut darf der Frachtführer vernichten. Nach dem Entladen des Gutes gilt die Beförderung als beendet.
 
 (4) Der Frachtführer hat wegen der nach Absatz 3 ergriffenen Maßnahmen Anspruch auf Ersatz der erforderlichen Aufwendungen und auf angemessene Vergütung, es sei denn, daß das Hindernis seinem Risikobereich zuzurechnen ist.
 
@@ -5232,11 +5298,13 @@ Wird nur ein Teil der vereinbarten Ladung verladen, so kann der Absender jederze
 
 (1) Die Fracht ist bei Ablieferung des Gutes zu zahlen. Der Frachtführer hat über die Fracht hinaus einen Anspruch auf Ersatz von Aufwendungen, soweit diese für das Gut gemacht wurden und er sie den Umständen nach für erforderlich halten durfte.
 
-(2) Wird die Beförderung infolge eines Beförderungs- oder Ablieferungshindernisses vorzeitig beendet, so gebührt dem Frachtführer die anteilige Fracht für den zurückgelegten Teil der Beförderung. Ist das Hindernis dem Risikobereich des Frachtführers zuzurechnen, steht ihm der Anspruch nur insoweit zu, als die Beförderung für den Absender von Interesse ist.
+(2) Der Anspruch auf die Fracht entfällt, soweit die Beförderung unmöglich ist. Wird die Beförderung infolge eines Beförderungs- oder Ablieferungshindernisses vorzeitig beendet, so gebührt dem Frachtführer die anteilige Fracht für den zurückgelegten Teil der Beförderung, wenn diese für den Absender von Interesse ist.
 
-(3) Tritt nach Beginn der Beförderung und vor Ankunft an der Ablieferungsstelle eine Verzögerung ein und beruht die Verzögerung auf Gründen, die dem Risikobereich des Absenders zuzurechnen sind, so gebührt dem Frachtführer neben der Fracht eine angemessene Vergütung.
+(3) Abweichend von Absatz 2 behält der Frachtführer den Anspruch auf die Fracht, wenn die Beförderung aus Gründen unmöglich ist, die dem Risikobereich des Absenders zuzurechnen sind oder die zu einer Zeit eintreten, zu welcher der Absender im Verzug der Annahme ist. Der Frachtführer muss sich jedoch das, was er an Aufwendungen erspart oder anderweitig erwirbt oder zu erwerben böswillig unterlässt, anrechnen lassen.
 
-(4) Ist die Fracht nach Zahl, Gewicht oder anders angegebener Menge des Gutes vereinbart, so wird für die Berechnung der Fracht vermutet, daß Angaben hierzu im Frachtbrief oder Ladeschein zutreffen; dies gilt auch dann, wenn zu diesen Angaben ein Vorbehalt eingetragen ist, der damit begründet ist, daß keine angemessenen Mittel zur Verfügung standen, die Richtigkeit der Angaben zu überprüfen.
+(4) Tritt nach Beginn der Beförderung und vor Ankunft an der Ablieferungsstelle eine Verzögerung ein und beruht die Verzögerung auf Gründen, die dem Risikobereich des Absenders zuzurechnen sind, so gebührt dem Frachtführer neben der Fracht eine angemessene Vergütung.
+
+(5) Ist die Fracht nach Zahl, Gewicht oder anders angegebener Menge des Gutes vereinbart, so wird für die Berechnung der Fracht vermutet, daß Angaben hierzu im Frachtbrief oder Ladeschein zutreffen; dies gilt auch dann, wenn zu diesen Angaben ein Vorbehalt eingetragen ist, der damit begründet ist, daß keine angemessenen Mittel zur Verfügung standen, die Richtigkeit der Angaben zu überprüfen.
 
 ### § 421 Rechte des Empfängers. Zahlungspflicht
 
@@ -5244,7 +5312,7 @@ Wird nur ein Teil der vereinbarten Ladung verladen, so kann der Absender jederze
 
 (2) Der Empfänger, der sein Recht nach Absatz 1 Satz 1 geltend macht, hat die noch geschuldete Fracht bis zu dem Betrag zu zahlen, der aus dem Frachtbrief hervorgeht. Ist ein Frachtbrief nicht ausgestellt oder dem Empfänger nicht vorgelegt worden oder ergibt sich aus dem Frachtbrief nicht die Höhe der zu zahlenden Fracht, so hat der Empfänger die mit dem Absender vereinbarte Fracht zu zahlen, soweit diese nicht unangemessen ist.
 
-(3) Der Empfänger, der sein Recht nach Absatz 1 Satz 1 geltend macht, hat ferner ein Standgeld oder eine Vergütung nach § 420 Abs. 3 zu zahlen, ein Standgeld wegen Überschreitung der Ladezeit und eine Vergütung nach § 420 Abs. 3 jedoch nur, wenn ihm der geschuldete Betrag bei Ablieferung des Gutes mitgeteilt worden ist.
+(3) Der Empfänger, der sein Recht nach Absatz 1 Satz 1 geltend macht, hat ferner ein Standgeld oder eine Vergütung nach § 420 Absatz 4 zu zahlen, ein Standgeld wegen Überschreitung der Ladezeit und eine Vergütung nach § 420 Absatz 4 jedoch nur, wenn ihm der geschuldete Betrag bei Ablieferung des Gutes mitgeteilt worden ist.
 
 (4) Der Absender bleibt zur Zahlung der nach dem Vertrag geschuldeten Beträge verpflichtet.
 
@@ -5328,15 +5396,15 @@ Bei Verlust oder Beschädigung des Gutes hat der Frachtführer über den nach §
 
 ### § 431 Haftungshöchstbetrag
 
-(1) Die nach den §§ 429 und 430 zu leistende Entschädigung wegen Verlust oder Beschädigung der gesamten Sendung ist auf einen Betrag von 8,33 Rechnungseinheiten für jedes Kilogramm des Rohgewichts der Sendung begrenzt.
+(1) Die nach den §§ 429 und 430 zu leistende Entschädigung wegen Verlust oder Beschädigung ist auf einen Betrag von 8,33 Rechnungseinheiten für jedes Kilogramm des Rohgewichts des Gutes begrenzt.
 
-(2) Sind nur einzelne Frachtstücke der Sendung verloren oder beschädigt worden, so ist die Haftung des Frachtführers begrenzt auf einen Betrag von 8,33 Rechnungseinheiten für jedes Kilogramm des Rohgewichts
+(2) Besteht das Gut aus mehreren Frachtstücken (Sendung) und sind nur einzelne Frachtstücke verloren oder beschädigt worden, so ist der Berechnung nach Absatz 1
 
 1.  
-der gesamten Sendung, wenn die gesamte Sendung entwertet ist,
+die gesamte Sendung zu Grunde zu legen, wenn die gesamte Sendung entwertet ist, oder
 
 2.  
-des entwerteten Teils der Sendung, wenn nur ein Teil der Sendung entwertet ist.
+der entwertete Teil der Sendung zu Grunde zu legen, wenn nur ein Teil der Sendung entwertet ist.
 
 (3) Die Haftung des Frachtführers wegen Überschreitung der Lieferfrist ist auf den dreifachen Betrag der Fracht begrenzt.
 
@@ -5357,10 +5425,15 @@ Haftet der Frachtführer wegen der Verletzung einer mit der Ausführung der Bef�
 (2) Der Frachtführer kann auch gegenüber außervertraglichen Ansprüchen Dritter wegen Verlust oder Beschädigung des Gutes die Einwendungen nach Absatz 1 geltend machen. Die Einwendungen können jedoch nicht geltend gemacht werden, wenn
 
 1.  
-der Dritte der Beförderung nicht zugestimmt hat und der Frachtführer die fehlende Befugnis des Absenders, das Gut zu versenden, kannte oder fahrlässig nicht kannte oder
+sie auf eine Vereinbarung gestützt werden, die von den in § 449 Absatz 1 Satz 1 genannten Vorschriften zu Lasten des Absenders abweicht,
 
 2.  
+der Dritte der Beförderung nicht zugestimmt hat und der Frachtführer die fehlende Befugnis des Absenders, das Gut zu versenden, kannte oder infolge grober Fahrlässigkeit nicht kannte oder
+
+3.  
 das Gut vor Übernahme zur Beförderung dem Dritten oder einer Person, die von diesem ihr Recht zum Besitz ableitet, abhanden gekommen ist.
+
+Satz 2 Nummer 1 gilt jedoch nicht für eine nach § 449 zulässige Vereinbarung über die Begrenzung der vom Frachtführer zu leistenden Entschädigung wegen Verlust oder Beschädigung des Gutes auf einen niedrigeren als den gesetzlich vorgesehenen Betrag, wenn dieser den Betrag von 2 Rechnungseinheiten nicht unterschreitet.
 
 ### § 435 Wegfall der Haftungsbefreiungen und -begrenzungen
 
@@ -5372,9 +5445,9 @@ Werden Ansprüche aus außervertraglicher Haftung wegen Verlust oder Beschädigu
 
 ### § 437 Ausführender Frachtführer
 
-(1) Wird die Beförderung ganz oder teilweise durch einen Dritten ausgeführt (ausführender Frachtführer), so haftet dieser für den Schaden, der durch Verlust oder Beschädigung des Gutes oder durch Überschreitung der Lieferfrist während der durch ihn ausgeführten Beförderung entsteht, in gleicher Weise wie der Frachtführer. Vertragliche Vereinbarungen mit dem Absender oder Empfänger, durch die der Frachtführer seine Haftung erweitert, wirken gegen den ausführenden Frachtführer nur, soweit er ihnen schriftlich zugestimmt hat.
+(1) Wird die Beförderung ganz oder teilweise durch einen Dritten ausgeführt (ausführender Frachtführer), so haftet dieser für den Schaden, der durch Verlust oder Beschädigung des Gutes oder durch Überschreitung der Lieferfrist während der durch ihn ausgeführten Beförderung entsteht, so, als wäre er der Frachtführer. Vertragliche Vereinbarungen mit dem Absender oder Empfänger, durch die der Frachtführer seine Haftung erweitert, wirken gegen den ausführenden Frachtführer nur, soweit er ihnen schriftlich zugestimmt hat.
 
-(2) Der ausführende Frachtführer kann alle Einwendungen geltend machen, die dem Frachtführer aus dem Frachtvertrag zustehen.
+(2) Der ausführende Frachtführer kann alle Einwendungen und Einreden geltend machen, die dem Frachtführer aus dem Frachtvertrag zustehen.
 
 (3) Frachtführer und ausführender Frachtführer haften als Gesamtschuldner.
 
@@ -5382,7 +5455,7 @@ Werden Ansprüche aus außervertraglicher Haftung wegen Verlust oder Beschädigu
 
 ### § 438 Schadensanzeige
 
-(1) Ist ein Verlust oder eine Beschädigung des Gutes äußerlich erkennbar und zeigt der Empfänger oder der Absender dem Frachtführer Verlust oder Beschädigung nicht spätestens bei Ablieferung des Gutes an, so wird vermutet, daß das Gut in vertragsgemäßem Zustand abgeliefert worden ist. Die Anzeige muß den Schaden hinreichend deutlich kennzeichnen.
+(1) Ist ein Verlust oder eine Beschädigung des Gutes äußerlich erkennbar und zeigt der Empfänger oder der Absender dem Frachtführer Verlust oder Beschädigung nicht spätestens bei Ablieferung des Gutes an, so wird vermutet, daß das Gut vollständig und unbeschädigt abgeliefert worden ist. Die Anzeige muß den Verlust oder die Beschädigung hinreichend deutlich kennzeichnen.
 
 (2) Die Vermutung nach Absatz 1 gilt auch, wenn der Verlust oder die Beschädigung äußerlich nicht erkennbar war und nicht innerhalb von sieben Tagen nach Ablieferung angezeigt worden ist.
 
@@ -5398,27 +5471,21 @@ Werden Ansprüche aus außervertraglicher Haftung wegen Verlust oder Beschädigu
 
 (2) Die Verjährung beginnt mit Ablauf des Tages, an dem das Gut abgeliefert wurde. Ist das Gut nicht abgeliefert worden, beginnt die Verjährung mit dem Ablauf des Tages, an dem das Gut hätte abgeliefert werden müssen. Abweichend von den Sätzen 1 und 2 beginnt die Verjährung von Rückgriffsansprüchen mit dem Tag des Eintritts der Rechtskraft des Urteils gegen den Rückgriffsgläubiger oder, wenn kein rechtskräftiges Urteil vorliegt, mit dem Tag, an dem der Rückgriffsgläubiger den Anspruch befriedigt hat, es sei denn, der Rückgriffsschuldner wurde nicht innerhalb von drei Monaten, nachdem der Rückgriffsgläubiger Kenntnis von dem Schaden und der Person des Rückgriffsschuldners erlangt hat, über diesen Schaden unterrichtet.
 
-(3) Die Verjährung eines Anspruchs gegen den Frachtführer wird durch eine schriftliche Erklärung des Absenders oder Empfängers, mit der dieser Ersatzansprüche erhebt, bis zu dem Zeitpunkt gehemmt, in dem der Frachtführer die Erfüllung des Anspruchs schriftlich ablehnt. Eine weitere Erklärung, die denselben Ersatzanspruch zum Gegenstand hat, hemmt die Verjährung nicht erneut.
+(3) Die Verjährung eines Anspruchs gegen den Frachtführer wird auch durch eine Erklärung des Absenders oder Empfängers, mit der dieser Ersatzansprüche erhebt, bis zu dem Zeitpunkt gehemmt, in dem der Frachtführer die Erfüllung des Anspruchs ablehnt. Die Erhebung der Ansprüche sowie die Ablehnung bedürfen der Textform. Eine weitere Erklärung, die denselben Ersatzanspruch zum Gegenstand hat, hemmt die Verjährung nicht erneut.
 
-(4) Die Verjährung kann nur durch Vereinbarung, die im einzelnen ausgehandelt ist, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen ist, erleichtert oder erschwert werden.
+(4) Die Verjährung von Schadensersatzansprüchen wegen Verlust oder Beschädigung des Gutes oder wegen Überschreitung der Lieferfrist kann nur durch Vereinbarung, die im einzelnen ausgehandelt ist, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen ist, erleichtert oder erschwert werden.
 
-### § 440 Gerichtsstand
+### § 440 Pfandrecht des Frachtführers
 
-(1) Für Rechtsstreitigkeiten aus einer Beförderung, die den Vorschriften dieses Unterabschnitts unterliegt, ist auch das Gericht zuständig, in dessen Bezirk der Ort der Übernahme des Gutes oder der für die Ablieferung des Gutes vorgesehene Ort liegt.
-
-(2) Eine Klage gegen den ausführenden Frachtführer kann auch in dem Gerichtsstand des Frachtführers, eine Klage gegen den Frachtführer auch in dem Gerichtsstand des ausführenden Frachtführers erhoben werden.
-
-### § 441 Pfandrecht
-
-(1) Der Frachtführer hat wegen aller durch den Frachtvertrag begründeten Forderungen sowie wegen unbestrittener Forderungen aus anderen mit dem Absender abgeschlossenen Fracht-, Speditions- oder Lagerverträgen ein Pfandrecht an dem Gut. Das Pfandrecht erstreckt sich auf die Begleitpapiere.
+(1) Der Frachtführer hat für alle Forderungen aus dem Frachtvertrag ein Pfandrecht an dem ihm zur Beförderung übergebenen Gut des Absenders oder eines Dritten, der der Beförderung des Gutes zugestimmt hat. An dem Gut des Absenders hat der Frachtführer auch ein Pfandrecht für alle unbestrittenen Forderungen aus anderen mit dem Absender abgeschlossenen Fracht-, Seefracht-, Speditions- und Lagerverträgen. Das Pfandrecht nach den Sätzen 1 und 2 erstreckt sich auf die Begleitpapiere.
 
 (2) Das Pfandrecht besteht, solange der Frachtführer das Gut in seinem Besitz hat, insbesondere solange er mittels Konnossements, Ladescheins oder Lagerscheins darüber verfügen kann.
 
 (3) Das Pfandrecht besteht auch nach der Ablieferung fort, wenn der Frachtführer es innerhalb von drei Tagen nach der Ablieferung gerichtlich geltend macht und das Gut noch im Besitz des Empfängers ist.
 
-(4) Die in § 1234 Abs. 1 des Bürgerlichen Gesetzbuchs bezeichnete Androhung des Pfandverkaufs sowie die in den §§ 1237 und 1241 des Bürgerlichen Gesetzbuchs vorgesehenen Benachrichtigungen sind an den Empfänger zu richten. Ist dieser nicht zu ermitteln oder verweigert er die Annahme des Gutes, so haben die Androhung und die Benachrichtigung gegenüber dem Absender zu erfolgen.
+(4) Die in § 1234 Abs. 1 des Bürgerlichen Gesetzbuchs bezeichnete Androhung des Pfandverkaufs sowie die in den §§ 1237 und 1241 des Bürgerlichen Gesetzbuchs vorgesehenen Benachrichtigungen sind an den nach § 418 oder § 446 verfügungsberechtigten Empfänger zu richten. Ist dieser nicht zu ermitteln oder verweigert er die Annahme des Gutes, so haben die Androhung und die Benachrichtigung gegenüber dem Absender zu erfolgen.
 
-### § 442 Nachfolgender Frachtführer
+### § 441 Nachfolgender Frachtführer
 
 (1) Hat im Falle der Beförderung durch mehrere Frachtführer der letzte bei der Ablieferung die Forderungen der vorhergehenden Frachtführer einzuziehen, so hat er die Rechte der vorhergehenden Frachtführer, insbesondere auch das Pfandrecht, auszuüben. Das Pfandrecht jedes vorhergehenden Frachtführers bleibt so lange bestehen wie das Pfandrecht des letzten Frachtführers.
 
@@ -5426,55 +5493,78 @@ Werden Ansprüche aus außervertraglicher Haftung wegen Verlust oder Beschädigu
 
 (3) Die Absätze 1 und 2 gelten auch für die Forderungen und Rechte eines Spediteurs, der an der Beförderung mitgewirkt hat.
 
-### § 443 Rang mehrerer Pfandrechte
+### § 442 Rang mehrerer Pfandrechte
 
-(1) Bestehen an demselben Gut mehrere nach den §§ 397, 441, 464, 475b und 623 begründete Pfandrechte, so geht unter denjenigen Pfandrechten, die durch die Versendung oder durch die Beförderung des Gutes entstanden sind, das später entstandene dem früher entstandenen vor.
+(1) Bestehen an demselben Gut mehrere nach den §§ 397, 440, 464, 475b und 495 begründete Pfandrechte, so geht unter denjenigen Pfandrechten, die durch die Versendung oder durch die Beförderung des Gutes entstanden sind, das später entstandene dem früher entstandenen vor.
 
 (2) Diese Pfandrechte haben Vorrang vor dem nicht aus der Versendung entstandenen Pfandrecht des Kommissionärs und des Lagerhalters sowie vor dem Pfandrecht des Spediteurs, des Frachtführers und des Verfrachters für Vorschüsse.
 
-### § 444 Ladeschein
+### § 443 Ladeschein. Verordnungsermächtigung
 
 (1) Über die Verpflichtung zur Ablieferung des Gutes kann von dem Frachtführer ein Ladeschein ausgestellt werden, der die in § 408 Abs. 1 genannten Angaben enthalten soll. Der Ladeschein ist vom Frachtführer zu unterzeichnen; eine Nachbildung der eigenhändigen Unterschrift durch Druck oder durch Stempel genügt.
 
 (2) Ist der Ladeschein an Order gestellt, so soll er den Namen desjenigen enthalten, an dessen Order das Gut abgeliefert werden soll. Wird der Name nicht angegeben, so ist der Ladeschein als an Order des Absenders gestellt anzusehen.
 
-(3) Der Ladeschein ist für das Rechtsverhältnis zwischen dem Frachtführer und dem Empfänger maßgebend. Er begründet insbesondere die widerlegliche Vermutung, daß die Güter wie im Ladeschein beschrieben übernommen sind; § 409 Abs. 2, 3 Satz 1 gilt entsprechend. Ist der Ladeschein einem gutgläubigen Dritten übertragen worden, so ist die Vermutung nach Satz 2 unwiderleglich.
+(3) Dem Ladeschein gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie der Ladeschein, sofern sichergestellt ist, dass die Authentizität und die Integrität der Aufzeichnung gewahrt bleiben (elektronischer Ladeschein). Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage, Rückgabe und Übertragung eines elektronischen Ladescheins sowie die Einzelheiten des Verfahrens einer nachträglichen Eintragung in einen elektronischen Ladeschein zu regeln.
 
-(4) Für das Rechtsverhältnis zwischen dem Frachtführer und dem Absender bleiben die Bestimmungen des Frachtvertrages maßgebend.
+### § 444 Wirkung des Ladescheins. Legitimation
+
+(1) Der Ladeschein begründet die Vermutung, dass der Frachtführer das Gut so übernommen hat, wie es im Ladeschein beschrieben ist; § 409 Absatz 2 und 3 Satz 1 gilt entsprechend.
+
+(2) Gegenüber einem im Ladeschein benannten Empfänger, an den der Ladeschein begeben wurde, kann der Frachtführer die Vermutung nach Absatz 1 nicht widerlegen, es sei denn, dem Empfänger war im Zeitpunkt der Begebung des Ladescheins bekannt oder infolge grober Fahrlässigkeit unbekannt, dass die Angaben im Ladeschein unrichtig sind. Gleiches gilt gegenüber einem Dritten, dem der Ladeschein übertragen wurde. Die Sätze 1 und 2 gelten nicht, wenn der aus dem Ladeschein Berechtigte den ausführenden Frachtführer nach § 437 in Anspruch nimmt und der Ladeschein weder vom ausführenden Frachtführer noch von einem für ihn zur Zeichnung von Ladescheinen Befugten ausgestellt wurde.
+
+(3) Die im Ladeschein verbrieften frachtvertraglichen Ansprüche können nur von dem aus dem Ladeschein Berechtigten geltend gemacht werden. Zugunsten des legitimierten Besitzers des Ladescheins wird vermutet, dass er der aus dem Ladeschein Berechtigte ist. Legitimierter Besitzer des Ladescheins ist, wer einen Ladeschein besitzt, der
+
+1.  
+auf den Inhaber lautet,
+
+2.  
+an Order lautet und den Besitzer als Empfänger benennt oder durch eine ununterbrochene Reihe von Indossamenten ausweist oder
+
+3.  
+auf den Namen des Besitzers lautet.
 
 ### § 445 Ablieferung gegen Rückgabe des Ladescheins
 
-Der Frachtführer ist zur Ablieferung des Gutes nur gegen Rückgabe des Ladescheins, auf dem die Ablieferung bescheinigt ist, verpflichtet.
+(1) Nach Ankunft des Gutes an der Ablieferungsstelle ist der legitimierte Besitzer des Ladescheins berechtigt, vom Frachtführer die Ablieferung des Gutes zu verlangen. Macht er von diesem Recht Gebrauch, ist er entsprechend § 421 Absatz 2 und 3 zur Zahlung der Fracht und einer sonstigen Vergütung verpflichtet.
 
-### § 446 Legitimation durch Ladeschein
+(2) Der Frachtführer ist zur Ablieferung des Gutes nur gegen Rückgabe des Ladescheins, auf dem die Ablieferung bescheinigt ist, und gegen Leistung der noch ausstehenden, nach § 421 Absatz 2 und 3 geschuldeten Zahlungen verpflichtet. Er darf das Gut jedoch nicht dem legitimierten Besitzer des Ladescheins abliefern, wenn ihm bekannt oder infolge grober Fahrlässigkeit unbekannt ist, dass der legitimierte Besitzer des Ladescheins nicht der aus dem Ladeschein Berechtigte ist.
 
-(1) Zum Empfang des Gutes legitimiert ist derjenige, an den das Gut nach dem Ladeschein abgeliefert werden soll oder auf den der Ladeschein, wenn er an Order lautet, durch Indossament übertragen ist.
+(3) Liefert der Frachtführer das Gut einem anderen als dem legitimierten Besitzer des Ladescheins oder, im Falle des Absatzes 2 Satz 2, einem anderen als dem aus dem Ladeschein Berechtigten ab, haftet er für den Schaden, der dem aus dem Ladeschein Berechtigten daraus entsteht. Die Haftung ist auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre.
 
-(2) Dem zum Empfang Legitimierten steht das Verfügungsrecht nach § 418 zu. Der Frachtführer braucht den Weisungen wegen Rückgabe oder Ablieferung des Gutes an einen anderen als den durch den Ladeschein legitimierten Empfänger nur Folge zu leisten, wenn ihm der Ladeschein zurückgegeben wird.
+### § 446 Befolgung von Weisungen
 
-### § 447 Ablieferung und Weisungsbefolgung ohne Ladeschein
+(1) Das Verfügungsrecht nach den §§ 418 und 419 steht, wenn ein Ladeschein ausgestellt worden ist, ausschließlich dem legitimierten Besitzer des Ladescheins zu. Der Frachtführer darf Weisungen nur gegen Vorlage des Ladescheins ausführen. Weisungen des legitimierten Besitzers des Ladescheins darf er jedoch nicht ausführen, wenn ihm bekannt oder infolge grober Fahrlässigkeit unbekannt ist, dass der legitimierte Besitzer des Ladescheins nicht der aus dem Ladeschein Berechtigte ist.
 
-Der Frachtführer haftet dem rechtmäßigen Besitzer des Ladescheins für den Schaden, der daraus entsteht, daß er das Gut abliefert oder einer Weisung wegen Rückgabe oder Ablieferung Folge leistet, ohne sich den Ladeschein zurückgeben zu lassen. Die Haftung ist auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre.
+(2) Befolgt der Frachtführer Weisungen, ohne sich den Ladeschein vorlegen zu lassen, haftet er dem aus dem Ladeschein Berechtigten für den Schaden, der diesem daraus entsteht. Die Haftung ist auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre.
 
-### § 448 Traditionspapier
+### § 447 Einwendungen
 
-Die Übergabe des Ladescheins an denjenigen, den der Ladeschein zum Empfang des Gutes legitimiert, hat, wenn das Gut von dem Frachtführer übernommen ist, für den Erwerb von Rechten an dem Gut dieselben Wirkungen wie die Übergabe des Gutes.
+(1) Dem aus dem Ladeschein Berechtigten kann der Frachtführer nur solche Einwendungen entgegensetzen, die die Gültigkeit der Erklärungen im Ladeschein betreffen oder sich aus dem Inhalt des Ladescheins ergeben oder dem Frachtführer unmittelbar gegenüber dem aus dem Ladeschein Berechtigten zustehen. Eine Vereinbarung, auf die im Ladeschein lediglich verwiesen wird, ist nicht Inhalt des Ladescheins.
 
-### § 449 Abweichende Vereinbarungen
+(2) Wird ein ausführender Frachtführer nach § 437 von dem aus dem Ladeschein Berechtigten in Anspruch genommen, kann auch der ausführende Frachtführer die Einwendungen nach Absatz 1 geltend machen.
 
-(1) Ist der Absender ein Verbraucher, so kann nicht zu dessen Nachteil von § 413 Abs. 2, den §§ 414, 418 Abs. 6, § 422 Abs. 3, den §§ 425 bis 438 und 447 abgewichen werden, es sei denn, der Frachtvertrag hat die Beförderung von Briefen oder briefähnlichen Sendungen zum Gegenstand. § 418 Abs. 6 und § 447 können nicht zu Lasten gutgläubiger Dritter abbedungen werden.
+### § 448 Traditionswirkung des Ladescheins
 
-(2) In allen anderen als den in Absatz 1 Satz 1 genannten Fällen kann, soweit der Frachtvertrag nicht die Beförderung von Briefen oder briefähnlichen Sendungen zum Gegenstand hat, von den in Absatz 1 Satz 1 genannten Vorschriften nur durch Vereinbarung abgewichen werden, die im einzelnen ausgehandelt ist, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen ist. Die vom Frachtführer zu leistende Entschädigung wegen Verlust oder Beschädigung des Gutes kann jedoch auch durch vorformulierte Vertragsbedingungen auf einen anderen als den in § 431 Abs. 1 und 2 vorgesehenen Betrag begrenzt werden, wenn dieser Betrag
+Die Begebung des Ladescheins an den darin benannten Empfänger hat, sofern der Frachtführer das Gut im Besitz hat, für den Erwerb von Rechten an dem Gut dieselben Wirkungen wie die Übergabe des Gutes. Gleiches gilt für die Übertragung des Ladescheins an Dritte.
+
+### § 449 Abweichende Vereinbarungen über die Haftung
+
+(1) Soweit der Frachtvertrag nicht die Beförderung von Briefen oder briefähnlichen Sendungen zum Gegenstand hat, kann von den Haftungsvorschriften in § 413 Absatz 2, den §§ 414, 418 Absatz 6, § 422 Absatz 3, den §§ 425 bis 438, 445 Absatz 3 und § 446 Absatz 2 nur durch Vereinbarung abgewichen werden, die im Einzelnen ausgehandelt wird, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen wird. Der Frachtführer kann sich jedoch auf eine Bestimmung im Ladeschein, die von den in Satz 1 genannten Vorschriften zu Lasten des aus dem Ladeschein Berechtigten abweicht, nicht gegenüber einem im Ladeschein benannten Empfänger, an den der Ladeschein begeben wurde, sowie gegenüber einem Dritten, dem der Ladeschein übertragen wurde, berufen.
+
+(2) Abweichend von Absatz 1 kann die vom Frachtführer zu leistende Entschädigung wegen Verlust oder Beschädigung des Gutes auch durch vorformulierte Vertragsbedingungen auf einen anderen als den in § 431 Absatz 1 und 2 vorgesehenen Betrag begrenzt werden, wenn dieser Betrag
 
 1.  
-zwischen zwei und vierzig Rechnungseinheiten liegt und in drucktechnisch deutlicher Gestaltung besonders hervorgehoben ist oder
+zwischen 2 und 40 Rechnungseinheiten liegt und der Verwender der vorformulierten Vertragsbedingungen seinen Vertragspartner in geeigneter Weise darauf hinweist, dass diese einen anderen als den gesetzlich vorgesehenen Betrag vorsehen, oder
 
 2.  
-für den Verwender der vorformulierten Vertragsbedingungen ungünstiger ist als der in § 431 Abs. 1 und 2 vorgesehene Betrag.
+für den Verwender der vorformulierten Vertragsbedingungen ungünstiger ist als der in § 431 Absatz 1 und 2 vorgesehene Betrag.
 
-Gleiches gilt für die vom Absender nach § 414 zu leistende Entschädigung.
+Ferner kann abweichend von Absatz 1 durch vorformulierte Vertragsbedingungen die vom Absender nach § 414 zu leistende Entschädigung der Höhe nach beschränkt werden.
 
-(3) Unterliegt der Frachtvertrag ausländischem Recht, so sind die Absätze 1 und 2 gleichwohl anzuwenden, wem nach dem Vertrag der Ort der Übernahme und der Ort der Ablieferung des Gutes im Inland liegen.
+(3) Ist der Absender ein Verbraucher, so kann in keinem Fall zu seinem Nachteil von den in Absatz 1 Satz 1 genannten Vorschriften abgewichen werden, es sei denn, der Frachtvertrag hat die Beförderung von Briefen oder briefähnlichen Sendungen zum Gegenstand.
+
+(4) Unterliegt der Frachtvertrag ausländischem Recht, so sind die Absätze 1 bis 3 gleichwohl anzuwenden, wenn nach dem Vertrag sowohl der Ort der Übernahme als auch der Ort der Ablieferung des Gutes im Inland liegen.
 
 ### § 450 Anwendung von Seefrachtrecht
 
@@ -5509,9 +5599,7 @@ Hat der Frachtvertrag die Beförderung von Umzugsgut zum Gegenstand, so sind auf
 
 (3) Der Frachtführer hat den Absender, wenn dieser ein Verbraucher ist, über die zu beachtenden Zoll- und sonstigen Verwaltungsvorschriften zu unterrichten. Er ist jedoch nicht verpflichtet zu prüfen, ob vom Absender zur Verfügung gestellte Urkunden und erteile Auskünfte richtig und vollständig sind.
 
-### § 451c Haftung des Absenders in besonderen Fällen
-
-Abweichend von § 414 Abs. 1 Satz 2 hat der Absender der dem Frachtführer für Schäden nur bis zu einem Betrag von 620 Euro je Kubikmeter Laderaum, der zur Erfüllung des Vertrages benötigt wird, Ersatz zu leisten.
+### § 451c (weggefallen)
 
 ### § 451d Besondere Haftungsausschlußgründe
 
@@ -5572,7 +5660,7 @@ Die Unterrichtung nach Satz 1 Nr. 1 muß in drucktechnisch deutlicher Gestaltung
 
 (1) Ist der Absender ein Verbraucher, so kann von den die Haftung des Frachtführers und des Absenders regelnden Vorschriften dieses Unterabschnitts sowie den danach auf den Umzugsvertrag anzuwendenden Vorschriften des Ersten Unterabschnitts nicht zum Nachteil des Absenders abgewichen werden.
 
-(2) In allen anderen als den in Absatz 1 genannten Fällen kann von den darin genannten Vorschriften nur durch Vereinbarung abgewichen werden, die im einzelnen ausgehandelt ist, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen ist. Die vom Frachtführer zu leistende Entschädigung wegen Verlust oder Beschädigung des Gutes kann jedoch auch durch vorformulierte Vertragsbedingungen auf einen anderen als den in § 451e vorgesehenen Betrag begrenzt werden. Gleiches gilt für die vom Absender nach § 414 in Verbindung mit § 451c zu leistende Entschädigung. Die in den vorformulierten Vertragsbedingungen enthaltene Bestimmung ist jedoch unwirksam, wenn sie nicht in drucktechnisch deutlicher Gestaltung besonders hervorgehoben ist.
+(2) In allen anderen als den in Absatz 1 genannten Fällen kann von den darin genannten Vorschriften nur durch Vereinbarung abgewichen werden, die im einzelnen ausgehandelt ist, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen ist. Die vom Frachtführer zu leistende Entschädigung wegen Verlust oder Beschädigung des Gutes kann jedoch auch durch vorformulierte Vertragsbedingungen auf einen anderen als den in § 451e vorgesehenen Betrag begrenzt werden, wenn der Verwender der vorformulierten Vertragsbedingungen seinen Vertragspartner in geeigneter Weise darauf hinweist, dass diese einen anderen als den gesetzlich vorgesehenen Betrag vorsehen. Ferner kann durch vorformulierte Vertragsbedingungen die vom Absender nach § 414 zu leistende Entschädigung der Höhe nach beschränkt werden.
 
 (3) Unterliegt der Umzugsvertrag ausländischem Recht, so sind die Absätze 1 und 2 gleichwohl anzuwenden, wenn nach dem Vertrag der Ort der Übernahme und der Ort der Ablieferung des Gutes im Inland liegen.
 
@@ -5583,7 +5671,7 @@ Dritter Unterabschnitt Beförderung mit verschiedenartigen Beförderungsmitteln
 
 ### § 452 Frachtvertrag über eine Beförderung mit verschiedenartigen Beförderungsmitteln
 
-Wird die Beförderung des Gutes auf Grund eines einheitlichen Frachtvertrags mit verschiedenartigen Beförderungsmitteln durchgeführt und wären, wenn über jeden Teil der Beförderung mit jeweils einem Beförderungsmittel (Teilstrecke) zwischen den Vertragsparteien ein gesonderter Vertrag abgeschlossen worden wäre, mindestens zwei dieser Verträge verschiedenen Rechtsvorschriften unterworfen, so sind auf den Vertrag die Vorschriften des Ersten Unterabschnitts anzuwenden, soweit die folgenden besonderen Vorschriften oder anzuwendende internationale Übereinkommen nichts anderes bestimmen. Dies gilt auch dann, wenn ein Teil der Beförderung zur See durchgeführt wird.
+Wird die Beförderung des Gutes auf Grund eines einheitlichen Frachtvertrags mit verschiedenartigen Beförderungsmitteln durchgeführt und wären, wenn über jeden Teil der Beförderung mit jeweils einem Beförderungsmittel (Teilstrecke) zwischen den Vertragsparteien ein gesonderter Vertrag abgeschlossen worden wäre, mindestens zwei dieser Verträge verschiedenen Rechtsvorschriften unterworfen, so sind auf den Vertrag die Vorschriften des Ersten Unterabschnitts anzuwenden, soweit die folgenden besonderen Vorschriften oder anzuwendende internationale Übereinkommen nichts anderes bestimmen. Dies gilt auch dann, wenn ein Teil der Beförderung über See durchgeführt wird.
 
 ### § 452a Bekannter Schadensort
 
@@ -5662,7 +5750,7 @@ Unterlassen der Mitteilung über die Gefährlichkeit des Gutes oder
 3.  
 Fehlen, Unvollständigkeit oder Unrichtigkeit der Urkunden oder Auskünfte, die für eine amtliche Behandlung des Gutes erforderlich sind.
 
-§ 414 Abs. 1 Satz 2 und Abs. 2 ist entsprechend anzuwenden.
+§ 414 Absatz 2 ist entsprechend anzuwenden.
 
 (3) Ist der Versender ein Verbraucher, so hat er dem Spediteur Schäden und Aufwendungen nach Absatz 2 nur zu ersetzen, soweit ihn ein Verschulden trifft.
 
@@ -5704,31 +5792,35 @@ Der Spediteur hat Handlungen und Unterlassungen seiner Leute in gleichem Umfang 
 
 Auf die Verjährung der Ansprüche aus einer Leistung, die den Vorschriften dieses Abschnitts unterliegt, ist § 439 entsprechend anzuwenden.
 
-### § 464 Pfandrecht
+### § 464 Pfandrecht des Spediteurs
 
-Der Spediteur hat wegen aller durch den Speditionsvertrag begründeten Forderungen sowie wegen unbestrittener Forderungen aus anderen mit dem Versender abgeschlossenen Speditions-, Fracht- und Lagerverträgen ein Pfandrecht an dem Gut. § 441 Abs. 1 Satz 2 bis Abs. 4 ist entsprechend anzuwenden.
+Der Spediteur hat für alle Forderungen aus dem Speditionsvertrag ein Pfandrecht an dem ihm zur Versendung übergebenen Gut des Versenders oder eines Dritten, der der Versendung des Gutes zugestimmt hat. An dem Gut des Versenders hat der Spediteur auch ein Pfandrecht für alle unbestrittenen Forderungen aus anderen mit dem Versender abgeschlossenen Speditions-, Fracht-, Seefracht- und Lagerverträgen. § 440 Absatz 1 Satz 3 und Absatz 2 bis 4 ist entsprechend anzuwenden.
 
 ### § 465 Nachfolgender Spediteur
 
-(1) Wirkt an einer Beförderung neben dem Frachtführer auch ein Spediteur mit und hat dieser die Ablieferung zu bewirken, so ist auf den Spediteur § 442 Abs. 1 entsprechend anzuwenden.
+(1) Wirkt an einer Beförderung neben dem Frachtführer auch ein Spediteur mit und hat dieser die Ablieferung zu bewirken, so ist auf den Spediteur § 441 Absatz 1 entsprechend anzuwenden.
 
 (2) Wird ein vorhergehender Frachtführer oder Spediteur von einem nachfolgenden Spediteur befriedigt, so gehen Forderung und Pfandrecht des ersteren auf den letzteren über.
 
-### § 466 Abweichende Vereinbarungen
+### § 466 Abweichende Vereinbarungen über die Haftung
 
-(1) Ist der Versender ein Verbraucher, so kann nicht zu dessen Nachteil von § 461 Abs. 1, den §§ 462 und 463 abgewichen werden, es sei denn, der Speditionsvertrag hat die Versendung von Briefen oder briefähnlichen Sendungen zum Gegenstand.
+(1) Soweit der Speditionsvertrag nicht die Versendung von Briefen oder briefähnlichen Sendungen zum Gegenstand hat, kann von den Haftungsvorschriften in § 455 Absatz 2 und 3, § 461 Absatz 1 sowie in den §§ 462 und 463 nur durch Vereinbarung abgewichen werden, die im Einzelnen ausgehandelt wird, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen wird.
 
-(2) In allen anderen als den in Absatz 1 genannten Fällen kann, soweit der Speditionsvertrag nicht die Versendung von Briefen oder briefähnlichen Sendungen zum Gegenstand hat, von den in Absatz 1 genannten Vorschriften nur durch Vereinbarung abgewichen werden, die im einzelnen ausgehandelt ist, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen ist. Die vom Spediteur zu leistende Entschädigung wegen Verlust oder Beschädigung des Gutes kann jedoch auch durch vorformulierte Vertragsbedingungen auf einen anderen als den in § 431 Abs. 1 und 2 vorgesehenen Betrag begrenzt werden, wenn dieser Betrag
+(2) Abweichend von Absatz 1 kann die vom Spediteur zu leistende Entschädigung wegen Verlust oder Beschädigung des Gutes auch durch vorformulierte Vertragsbedingungen auf einen anderen als den in § 431 Absatz 1 und 2 vorgesehenen Betrag begrenzt werden, wenn dieser Betrag
 
 1.  
-zwischen zwei und vierzig Rechnungseinheiten liegt und in drucktechnisch deutlicher Gestaltung besonders hervorgehoben ist oder
+zwischen 2 und 40 Rechnungseinheiten liegt und der Verwender der vorformulierten Vertragsbedingungen seinen Vertragspartner in geeigneter Weise darauf hinweist, dass diese einen anderen als den gesetzlich vorgesehenen Betrag vorsehen, oder
 
 2.  
-für den Verwender der vorformulierten Vertragsbedingungen ungünstiger ist als der in § 431 Abs. 1 und 2 vorgesehene Betrag.
+für den Verwender der vorformulierten Vertragsbedingungen ungünstiger ist als der in § 431 Absatz 1 und 2 vorgesehene Betrag.
 
-(3) Von § 458 Satz 2, § 459 Satz 1, § 460 Abs. 2 Satz 1 kann nur insoweit durch vertragliche Vereinbarung abgewichen werden, als die darin in Bezug genommenen Vorschriften abweichende Vereinbarungen zulassen.
+Ferner kann durch vorformulierte Vertragsbedingungen die vom Versender nach § 455 Absatz 2 oder 3 zu leistende Entschädigung der Höhe nach beschränkt werden.
 
-(4) Unterliegt der Speditionsvertrag ausländischem Recht, so sind die Absätze 1 bis 3 gleichwohl anzuwenden, wenn nach dem Vertrag der Ort der Übernahme und der Ort der Ablieferung des Gutes im Inland liegen.
+(3) Von § 458 Satz 2, § 459 Satz 1 und § 460 Absatz 2 Satz 1 kann nur insoweit durch vertragliche Vereinbarung abgewichen werden, als die darin in Bezug genommenen Vorschriften abweichende Vereinbarungen zulassen.
+
+(4) Ist der Versender ein Verbraucher, so kann in keinem Fall zu seinem Nachteil von den in Absatz 1 genannten Vorschriften abgewichen werden, es sei denn, der Speditionsvertrag hat die Beförderung von Briefen oder briefähnlichen Sendungen zum Gegenstand.
+
+(5) Unterliegt der Speditionsvertrag ausländischem Recht, so sind die Absätze 1 bis 4 gleichwohl anzuwenden, wenn nach dem Vertrag sowohl der Ort der Übernahme als auch der Ort der Ablieferung des Gutes im Inland liegen.
 
 Sechster Abschnitt Lagergeschäft
 --------------------------------
@@ -5768,7 +5860,7 @@ Unterlassen der Mitteilung über die Gefährlichkeit des Gutes oder
 3.  
 Fehlen, Unvollständigkeit oder Unrichtigkeit der in § 413 Abs. 1 genannten Urkunden oder Auskünfte.
 
-§ 414 Abs. 1 Satz 2 und Abs. 2 ist entsprechend anzuwenden.
+§ 414 Absatz 2 ist entsprechend anzuwenden.
 
 (4) Ist der Einlagerer ein Verbraucher, so hat er dem Lagerhalter Schäden und Aufwendungen nach Absatz 3 nur zu ersetzen, soweit ihn ein Verschulden trifft.
 
@@ -5816,15 +5908,15 @@ Der Lagerhalter haftet für den Schaden, der durch Verlust oder Beschädigung de
 
 Auf die Verjährung von Ansprüchen aus einer Lagerung, die den Vorschriften dieses Abschnitts unterliegt, findet § 439 entsprechende Anwendung. Im Falle des gänzlichen Verlusts beginnt die Verjährung mit Ablauf des Tages, an dem der Lagerhalter dem Einlagerer oder, wenn ein Lagerschein ausgestellt ist, dem letzten ihm bekannt gewordenen legitimierten Besitzer des Lagerscheins den Verlust anzeigt.
 
-### § 475b Pfandrecht
+### § 475b Pfandrecht des Lagerhalters
 
-(1) Der Lagerhalter hat wegen aller durch den Lagervertrag begründeten Forderungen sowie wegen unbestrittener Forderungen aus anderen mit dem Einlagerer abgeschlossenen Lager-, Fracht- und Speditionsverträgen ein Pfandrecht an dem Gut. Das Pfandrecht erstreckt sich auch auf die Forderung aus einer Versicherung sowie auf die Begleitpapiere.
+(1) Der Lagerhalter hat für alle Forderungen aus dem Lagervertrag ein Pfandrecht an dem ihm zur Lagerung übergebenen Gut des Einlagerers oder eines Dritten, der der Lagerung zugestimmt hat. An dem Gut des Einlagerers hat der Lagerhalter auch ein Pfandrecht für alle unbestrittenen Forderungen aus anderen mit dem Einlagerer abgeschlossenen Lager-, Fracht-, Seefracht- und Speditionsverträgen. Das Pfandrecht erstreckt sich auch auf die Forderung aus einer Versicherung sowie auf die Begleitpapiere.
 
 (2) Ist ein Orderlagerschein durch Indossament übertragen worden, so besteht das Pfandrecht dem legitimierten Besitzer des Lagerscheins gegenüber nur wegen der Vergütungen und Aufwendungen, die aus dem Lagerschein ersichtlich sind oder ihm bei Erwerb des Lagerscheins bekannt oder infolge grober Fahrlässigkeit unbekannt waren.
 
 (3) Das Pfandrecht besteht, solange der Lagerhalter das Gut in seinem Besitz hat, insbesondere solange er mittels Konnossements, Ladescheins oder Lagerscheins darüber verfügen kann.
 
-### § 475c Lagerschein
+### § 475c Lagerschein. Verordnungsermächtigung
 
 (1) Über die Verpflichtung zur Auslieferung des Gutes kann von dem Lagerhalter, nachdem er das Gut erhalten hat, ein Lagerschein ausgestellt werden, der die folgenden Angaben enthalten soll:
 
@@ -5856,1814 +5948,1030 @@ im Falle der Sammellagerung einen Vermerk hierüber.
 
 (3) Der Lagerschein ist vom Lagerhalter zu unterzeichnen. Eine Nachbildung der eigenhändigen Unterschrift durch Druck oder Stempel genügt.
 
-### § 475d Wirkung des Lagerscheins
+(4) Dem Lagerschein gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie der Lagerschein, sofern sichergestellt ist, dass die Authentizität und die Integrität der Aufzeichnung gewahrt bleiben (elektronischer Lagerschein). Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage, Rückgabe und Übertragung eines elektronischen Lagerscheins sowie die Einzelheiten des Verfahrens über nachträgliche Eintragungen in einen elektronischen Lagerschein zu regeln.
 
-(1) Der Lagerschein ist für das Rechtsverhältnis zwischen dem Lagerhalter und dem legitimierten Besitzer des Lagerscheins maßgebend.
+### § 475d Wirkung des Lagerscheins. Legitimation
 
-(2) Der Lagerschein begründet insbesondere die widerlegliche Vermutung, daß das Gut und seine Verpackung in bezug auf den äußerlichen Zustand sowie auf Anzahl, Zeichen und Nummern der Packstücke wie im Lagerschein beschrieben übernommen worden sind. Ist das Rohgewicht oder die anders angegebene Menge des Gutes oder der Inhalt vom Lagerhalter überprüft und das Ergebnis der Überprüfung in den Lagerschein eingetragen worden, so begründet dieser auch die widerlegliche Vermutung, daß Gewicht, Menge oder Inhalt mit den Angaben im Lagerschein übereinstimmt. Ist der Lagerschein einem gutgläubigen Dritten übertragen worden, so ist die Vermutung nach den Sätzen 1 und 2 unwiderleglich.
+(1) Der Lagerschein begründet die Vermutung, dass das Gut und seine Verpackung in Bezug auf den äußerlich erkennbaren Zustand sowie auf Anzahl, Zeichen und Nummern der Packstücke wie im Lagerschein beschrieben übernommen worden sind. Ist das Rohgewicht oder die anders angegebene Menge des Gutes oder der Inhalt vom Lagerhalter überprüft und das Ergebnis der Überprüfung in den Lagerschein eingetragen worden, so begründet dieser auch die Vermutung, dass Gewicht, Menge oder Inhalt mit den Angaben im Lagerschein übereinstimmt.
 
-(3) Für das Rechtsverhältnis zwischen dem Lagerhalter und dem Einlagerer bleiben die Bestimmungen des Lagervertrages maßgebend.
+(2) Wird der Lagerschein an eine Person begeben, die darin als zum Empfang des Gutes berechtigt benannt ist, kann der Lagerhalter ihr gegenüber die Vermutung nach Absatz 1 nicht widerlegen, es sei denn, der Person war im Zeitpunkt der Begebung des Lagerscheins bekannt oder infolge grober Fahrlässigkeit unbekannt, dass die Angaben im Lagerschein unrichtig sind. Gleiches gilt gegenüber einem Dritten, dem der Lagerschein übertragen wird.
+
+(3) Die im Lagerschein verbrieften lagervertraglichen Ansprüche können nur von dem aus dem Lagerschein Berechtigten geltend gemacht werden. Zugunsten des legitimierten Besitzers des Lagerscheins wird vermutet, dass er der aus dem Lagerschein Berechtigte ist. Legitimierter Besitzer des Lagerscheins ist, wer einen Lagerschein besitzt, der
+
+1.  
+auf den Inhaber lautet,
+
+2.  
+an Order lautet und den Besitzer als denjenigen, der zum Empfang des Gutes berechtigt ist, benennt oder durch eine ununterbrochene Reihe von Indossamenten ausweist oder
+
+3.  
+auf den Namen des Besitzers lautet.
 
 ### § 475e Auslieferung gegen Rückgabe des Lagerscheins
 
-(1) Ist ein Lagerschein ausgestellt, so ist der Lagerhalter zur Auslieferung des Gutes nur gegen Rückgabe des Lagerscheins, auf dem die Auslieferung bescheinigt ist, verpflichtet.
+(1) Der legitimierte Besitzer des Lagerscheins ist berechtigt, vom Lagerhalter die Auslieferung des Gutes zu verlangen.
 
-(2) Die Auslieferung eines Teils des Gutes erfolgt gegen Abschreibung auf dem Lagerschein. Der Abschreibungsvermerk ist vom Lagerhalter zu unterschreiben.
+(2) Ist ein Lagerschein ausgestellt, so ist der Lagerhalter zur Auslieferung des Gutes nur gegen Rückgabe des Lagerscheins, auf dem die Auslieferung bescheinigt ist, verpflichtet. Der Lagerhalter ist nicht verpflichtet, die Echtheit der Indossamente zu prüfen. Er darf das Gut jedoch nicht dem legitimierten Besitzer des Lagerscheins ausliefern, wenn ihm bekannt oder infolge grober Fahrlässigkeit unbekannt ist, dass der legitimierte Besitzer des Lagerscheins nicht der aus dem Lagerschein Berechtigte ist.
 
-(3) Der Lagerhalter haftet dem rechtmäßigen Besitzer des Lagerscheins für den Schaden, der daraus entsteht, daß er das Gut ausgeliefert hat, ohne sich den Lagerschein zurückgeben zu lassen oder ohne einen Abschreibungsvermerk einzutragen.
+(3) Die Auslieferung eines Teils des Gutes erfolgt gegen Abschreibung auf dem Lagerschein. Der Abschreibungsvermerk ist vom Lagerhalter zu unterschreiben.
 
-### § 475f Legitimation durch Lagerschein
+(4) Der Lagerhalter haftet dem aus dem Lagerschein Berechtigten für den Schaden, der daraus entsteht, daß er das Gut ausgeliefert hat, ohne sich den Lagerschein zurückgeben zu lassen oder ohne einen Abschreibungsvermerk einzutragen.
 
-Zum Empfang des Gutes legitimiert ist derjenige, an den das Gut nach dem Lagerschein ausgeliefert werden soll oder auf den der Lagerschein, wenn er an Order lautet, durch Indossament übertragen ist. Der Lagerhalter ist nicht verpflichtet, die Echtheit der Indossamente zu prüfen.
+### § 475f Einwendungen
 
-### § 475g Traditionsfunktion des Orderlagerscheins
+Dem aus dem Lagerschein Berechtigten kann der Lagerhalter nur solche Einwendungen entgegensetzen, die die Gültigkeit der Erklärungen im Lagerschein betreffen oder sich aus dem Inhalt des Lagerscheins ergeben oder dem Lagerhalter unmittelbar gegenüber dem aus dem Lagerschein Berechtigten zustehen. Eine Vereinbarung, auf die im Lagerschein lediglich verwiesen wird, ist nicht Inhalt des Lagerscheins.
 
-Ist von dem Lagerhalter ein Lagerschein ausgestellt, der durch Indossament übertragen werden kann, so hat, wenn das Gut vom Lagerhalter übernommen ist, die Übergabe des Lagerscheins an denjenigen, den der Lagerschein zum Empfang des Gutes legitimiert, für den Erwerb von Rechten an dem Gut dieselben Wirkungen wie die Übergabe des Gutes.
+### § 475g Traditionswirkung des Lagerscheins
+
+Die Begebung des Lagerscheins an denjenigen, der darin als der zum Empfang des Gutes Berechtigte benannt ist, hat, sofern der Lagerhalter das Gut im Besitz hat, für den Erwerb von Rechten an dem Gut dieselben Wirkungen wie die Übergabe des Gutes. Gleiches gilt für die Übertragung des Lagerscheins an Dritte.
 
 ### § 475h Abweichende Vereinbarungen
 
-Ist der Einlagerer ein Verbraucher, so kann nicht zu dessen Nachteil von den §§ 475a und 475e Abs. 3 abgewichen werden.
+Ist der Einlagerer ein Verbraucher, so kann nicht zu dessen Nachteil von den §§ 475a und 475e Absatz 4 abgewichen werden.
 
 Fünftes Buch Seehandel
 ----------------------
 
 ### 
 
-Erster Abschnitt Allgemeine Vorschriften
-----------------------------------------
+Erster Abschnitt Personen der Schifffahrt
+-----------------------------------------
 
 ### 
 
-### § 476
+### § 476 Reeder
 
-Wird ein Schiff oder eine Schiffspart veräußert, während sich das Schiff auf der Reise befindet, so ist im Verhältnis zwischen dem Veräußerer und dem Erwerber in Ermangelung einer anderen Vereinbarung anzunehmen, daß dem Erwerber der Gewinn der laufenden Reise gebühre oder der Verlust der laufenden Reise zur Last falle.
+Reeder ist der Eigentümer eines von ihm zum Erwerb durch Seefahrt betriebenen Schiffes.
 
-### § 477
+### § 477 Ausrüster
 
-Durch die Veräußerung eines Schiffes oder einer Schiffspart wird in den persönlichen Verpflichtungen des Veräußerers gegen Dritte nichts geändert.
+(1) Ausrüster ist, wer ein ihm nicht gehörendes Schiff zum Erwerb durch Seefahrt betreibt.
 
-### § 478
+(2) Der Ausrüster wird im Verhältnis zu Dritten als Reeder angesehen.
 
-(1) Zubehör eines Schiffes sind auch die Schiffsboote.
+(3) Wird der Eigentümer eines Schiffes von einem Dritten als Reeder in Anspruch genommen, so kann er sich dem Dritten gegenüber nur dann darauf berufen, dass nicht er, sondern ein Ausrüster das Schiff zum Erwerb durch Seefahrt betreibt, wenn er dem Dritten unverzüglich nach Geltendmachung des Anspruchs den Namen und die Anschrift des Ausrüsters mitteilt.
 
-(2) Im Zweifel werden Gegenstände, die in das Schiffsinventar eingetragen sind, als Zubehör des Schiffes angesehen.
+### § 478 Schiffsbesatzung
 
-### § 479
+Die Schiffsbesatzung besteht aus dem Kapitän, den Schiffsoffizieren, der Schiffsmannschaft sowie allen sonstigen im Rahmen des Schiffsbetriebs tätigen Personen, die vom Reeder oder Ausrüster des Schiffes angestellt sind oder dem Reeder oder Ausrüster von einem Dritten zur Arbeitsleistung im Rahmen des Schiffsbetriebs überlassen werden und die den Anordnungen des Kapitäns unterstellt sind.
 
-Im Sinne dieses Fünften Buches gilt ein seeuntüchtig gewordenes Schiff:
+### § 479 Rechte des Kapitäns. Tagebuch
 
-1.  
-als reparaturunfähig, wenn die Reparatur des Schiffes überhaupt nicht möglich ist oder an dem Ort, wo sich das Schiff befindet, nicht bewerkstelligt, das Schiff auch nicht nach dem Hafen, wo die Reparatur auszuführen wäre, gebracht werden kann;
+(1) Der Kapitän ist befugt, für den Reeder alle Geschäfte und Rechtshandlungen vorzunehmen, die der Betrieb des Schiffes gewöhnlich mit sich bringt. Diese Befugnis erstreckt sich auch auf den Abschluss von Frachtverträgen und die Ausstellung von Konnossementen. Eine Beschränkung dieser Befugnis braucht ein Dritter nur dann gegen sich gelten zu lassen, wenn er sie kannte oder kennen musste.
 
-2.  
-als reparaturunwürdig, wenn die Kosten der Reparatur ohne Abzug für den Unterschied zwischen alt und neu mehr betragen würden als drei Vierteile seines früheren Wertes.Ist die Seeuntüchtigkeit während einer Reise eingetreten, so gilt als der frühere Wert derjenige, welchen das Schiff bei dem Antritt der Reise gehabt hat, in den übrigen Fällen derjenige, welchen das Schiff, bevor es seeuntüchtig geworden ist, gehabt hat oder bei gehöriger Ausrüstung gehabt haben würde.
+(2) Ist auf dem Schiff ein Tagebuch zu führen, so hat der Kapitän alle Unfälle einzutragen, die sich während der Reise ereignen und die das Schiff, Personen oder die Ladung betreffen oder sonst einen Vermögensnachteil zur Folge haben können. Die Unfälle sind unter Angabe der Mittel zu beschreiben, die zur Abwendung oder Verringerung der Nachteile angewendet wurden. Die durch den Unfall Betroffenen können eine Abschrift der Eintragungen zum Unfall sowie eine Beglaubigung dieser Abschrift verlangen.
 
-### § 480
+### § 480 Verantwortlichkeit des Reeders für Schiffsbesatzung und Lotsen
 
-(1) Als Heimathafen des Schiffes gilt der Hafen, von welchem aus die Seefahrt mit dem Schiff betrieben wird.
+Hat sich ein Mitglied der Schiffsbesatzung oder ein an Bord tätiger Lotse in Ausübung seiner Tätigkeit einem Dritten gegenüber schadensersatzpflichtig gemacht, so haftet auch der Reeder für den Schaden. Der Reeder haftet jedoch einem Ladungsbeteiligten für einen Schaden wegen Verlust oder Beschädigung von Gut, das mit dem Schiff befördert wird, nur so, als wäre er der Verfrachter; § 509 ist entsprechend anzuwenden.
 
-(2) Die Vorschriften dieses Gesetzbuchs, welche sich auf den Aufenthalt des Schiffes im Heimathafen beziehen, können durch die Landesgesetze auf alle oder einige Häfen des Reviers des Heimathafens ausgedehnt werden.
-
-### § 481
-
-Zur Schiffsbesatzung werden gerechnet der Kapitän, die Schiffsoffiziere, die Schiffsmannschaft sowie alle übrigen auf dem Schiff angestellten Personen.
-
-### § 482
-
-Die Anordnung der Zwangsversteigerung eines Schiffes im Wege der Zwangsvollstreckung sowie die Vollziehung des Arrestes in das Schiff ist nicht zulässig, wenn sich das Schiff auf der Reise befindet und nicht in einem Hafen liegt.
-
-### § 483
-
-Wenn in diesem Fünften Buch die europäischen Häfen den außereuropäischen Häfen entgegengesetzt werden, so sind unter den ersteren sämtliche Häfen des Mittelländischen, Schwarzen und Asowschen Meeres als mitbegriffen anzusehen.
-
-Zweiter Abschnitt Reeder und Reederei
--------------------------------------
+Zweiter Abschnitt Beförderungsverträge
+--------------------------------------
 
 ### 
 
-### § 484
-
-Reeder ist der Eigentümer eines ihm zum Erwerb durch die Seefahrt dienenden Schiffes.
-
-### § 485
-
-Der Reeder ist für den Schaden verantwortlich, den eine Person der Schiffsbesatzung oder ein an Bord tätiger Lotse einem Dritten in Ausführung von Dienstverrichtungen schuldhaft zufügt. Er haftet den Ladungsbeteiligten jedoch nur soweit, wie der Verfrachter ein Verschulden der Schiffsbesatzung zu vertreten hat.
-
-### § 486
-
-(1) Die Haftung für Seeforderungen kann nach den Bestimmungen des Übereinkommens vom 19. November 1976 über die Beschränkung der Haftung für Seeforderungen (BGBl. 1986 II S. 786), geändert durch das Protokoll vom 2. Mai 1996 (BGBl. 2000 II S. 790), in seiner jeweiligen für die Bundesrepublik Deutschland geltenden Fassung (Haftungsbeschränkungsübereinkommen) beschränkt werden.
-
-(2) Die Haftung auf Grund des Haftungsübereinkommens von 1992 (BGBl. 1994 II S. 1152) kann nach den Bestimmungen dieses Übereinkommens beschränkt werden.
-
-(3) Werden Ansprüche wegen Verschmutzungsschäden im Sinne des Artikels I Nr. 6 des Haftungsübereinkommens von 1992 gegen andere Personen als den Eigentümer des das Öl befördernden Schiffes geltend gemacht oder werden Ansprüche wegen Verschmutzungsschäden im Sinne des Artikels I Nr. 6 des Haftungsübereinkommens von 1992 geltend gemacht, für die das Haftungsübereinkommen von 1992 nach Artikel II nicht gilt, so können die in Artikel 1 des Haftungsbeschränkungsübereinkommens bezeichneten Personen ihre Haftung für diese Ansprüche in entsprechender Anwendung der Bestimmungen des Haftungsbeschränkungsübereinkommens beschränken. Sind aus demselben Ereignis sowohl Ansprüche der in Satz 1 bezeichneten Art als auch Ansprüche, für welche die Haftung nach Absatz 1 beschränkt werden kann, entstanden, so gelten die im Haftungsbeschränkungsübereinkommen bestimmten Haftungshöchstbeträge jeweils gesondert für die Gesamtheit der in Satz 1 bezeichneten Ansprüche und für die Gesamtheit derjenigen Ansprüche, für welche die Haftung nach Absatz 1 beschränkt werden kann.
-
-(4) Die Haftung kann nicht beschränkt werden für
-
-1.  
-die in Artikel 3 Buchstabe e des Haftungsbeschränkungsübereinkommens bezeichneten Ansprüche, sofern der Dienstvertrag inländischem Recht unterliegt;
-
-2.  
-Ansprüche auf Ersatz der Kosten der Rechtsverfolgung.
-
-(5) Ergänzend zu den Bestimmungen des Haftungsbeschränkungsübereinkommens und des Haftungsübereinkommens von 1992 gelten die §§ 487 bis 487e.
-
-### § 487
-
-(1) Das Haftungsbeschränkungsübereinkommen (§ 486 Abs. 1) ist auf Ansprüche auf Erstattung der Kosten für
-
-1.  
-die Hebung, Beseitigung, Vernichtung oder Unschädlichmachung eines gesunkenen, havarierten, gestrandeten oder verlassenen Schiffes, samt allem, was sich an Bord eines solchen Schiffes befindet oder befunden hat, oder
-
-2.  
-die Beseitigung, Vernichtung oder Unschädlichmachung der Ladung des Schiffes
-
-mit der Maßgabe anzuwenden, daß für diese Ansprüche, unabhängig davon, auf welcher Rechtsgrundlage sie beruhen, ein gesonderter Haftungshöchstbetrag gilt.
-
-(2) Der Haftungshöchstbetrag nach Absatz 1 errechnet sich nach Artikel 6 Abs. 1 Buchstabe b des Haftungsbeschränkungsübereinkommens. Der Haftungshöchstbetrag gilt für die Gesamtheit der in Absatz 1 bezeichneten Ansprüche, die aus demselben Ereignis gegen Personen entstanden sind, die dem gleichen Personenkreis im Sinne des Artikels 9 Abs. 1 Buchstabe a, b oder c des Haftungsbeschränkungsübereinkommens angehören. Er steht ausschließlich zur Befriedigung der in Absatz 1 bezeichneten Ansprüche zur Verfügung; Artikel 6 Abs. 2 und 3 des Haftungsbeschränkungsübereinkommens ist nicht anzuwenden.
-
-### § 487a
-
-Für ein Schiff mit einem Raumgehalt bis zu 250 Tonnen wird der nach Artikel 6 Abs. 1 Buchstabe b des Haftungsbeschränkungsübereinkommens (§ 486 Abs. 1) zu errechnende Haftungshöchstbetrag auf die Hälfte des für ein Schiff mit einem Raumgehalt von 2 000 Tonnen geltenden Haftungshöchstbetrages festgesetzt.
-
-### § 487b
-
-Unbeschadet des Rechts nach Artikel 6 Abs. 2 des Haftungsbeschränkungsübereinkommens (§ 486 Abs. 1) in bezug auf Ansprüche wegen Tod oder Körperverletzung haben Ansprüche wegen Beschädigung von Hafenanlagen, Hafenbecken, Wasserstraßen und Navigationshilfen Vorrang vor sonstigen Ansprüchen nach Artikel 6 Abs. 1 Buchstabe b des Haftungsbeschränkungsübereinkommens.
-
-### § 487c
-
-(1) Die in Artikel 6 Abs. 1 Buchstabe a und b des Haftungsbeschränkungsübereinkommens (§ 486 Abs. 1) bestimmten Haftungshöchstbeträge gelten für Ansprüche gegen einen an Bord tätigen Lotsen mit der Maßgabe, daß der Lotse, falls der Raumgehalt des gelotsten Schiffes 2 000 Tonnen übersteigt, seine Haftung auf die Beträge beschränken kann, die sich unter Zugrundelegung eines Raumgehalts von 2 000 Tonnen errechnen.
-
-(2) Der in Artikel 7 Abs. 1 des Haftungsbeschränkungsübereinkommens bestimmte Haftungshöchstbetrag gilt für Ansprüche gegen einen an Bord tätigen Lotsen mit der Maßgabe, daß der Lotse, falls die Anzahl der Reisenden, die das Schiff nach dem Schiffszeugnis befördern darf, die Zahl 12 übersteigt, seine Haftung auf den Betrag beschränken kann, der sich unter Zugrundelegung einer Anzahl von 12 Reisenden errechnet.
-
-(3) Die Errichtung und Verteilung eines Fonds in Höhe der nach Absatz 1 oder 2 zu errechnenden Beträge sowie die Wirkungen der Errichtung eines solchen Fonds bestimmen sich nach den Vorschriften über die Errichtung, die Verteilung und die Wirkungen der Errichtung eines Fonds im Sinne des Artikels 11 des Haftungsbeschränkungsübereinkommens. Jedoch ist Artikel 11 Abs. 3 des Haftungsbeschränkungsübereinkommens nicht anzuwenden, wenn im Falle des Absatzes 1 der Raumgehalt des gelotsten Schiffes 2 000 Tonnen oder im Falle des Absatzes 2 die Anzahl der Reisenden, die das Schiff nach dem Schiffszeugnis befördern darf, die Zahl 12 übersteigt.
-
-(4) Ein Lotse, der nicht an Bord des gelotsten Schiffes tätig ist, kann seine Haftung für die in Artikel 2 des Haftungsbeschränkungsübereinkommens angeführten Ansprüche in entsprechender Anwendung der Vorschriften des § 486 Abs. 1, 3 und 4 sowie der §§ 487 bis 487b, 487e mit der Maßgabe beschränken, daß für diese Ansprüche ein gesonderter Haftungshöchstbetrag gilt, der sich nach Absatz 1 oder 2 errechnet und der ausschließlich zur Befriedigung der Ansprüche gegen den Lotsen zur Verfügung steht.
-
-### § 487d
-
-(1) Ist der Schuldner eine juristische Person oder eine Personenhandelsgesellschaft, so kann er seine Haftung nicht beschränken, wenn
-
-a)  
-der Schaden auf eine die Beschränkung der Haftung nach Artikel 4 des Haftungsbeschränkungsübereinkommens (§ 486 Abs. 1) ausschließende Handlung oder Unterlassung oder
-
-b)  
-die Verschmutzungsschäden auf eine die Beschränkung der Haftung nach Artikel V Abs. 2 des Haftungsübereinkommens von 1992 (§ 486 Abs. 2) ausschließende Handlung oder Unterlassung
-
-eines Mitglieds des zur Vertretung berechtigten Organs oder eines zur Vertretung berechtigten Gesellschafters zurückzuführen sind. Mitreeder können ihre Haftung auch dann nicht beschränken, wenn der Schaden auf eine die Beschränkung der Haftung nach Artikel 4 des Haftungsbeschränkungsübereinkommens ausschließende Handlung oder Unterlassung oder die Verschmutzungsschäden auf eine die Beschränkung der Haftung nach Artikel V Abs. 2 des Haftungsübereinkommens von 1992 ausschließende Handlung oder Unterlassung des Korrespondentreeders zurückzuführen sind.
-
-(2) Ist der Schuldner eine Personenhandelsgesellschaft, so kann auch jeder Gesellschafter seine persönliche Haftung für Ansprüche beschränken, für welche die Gesellschaft ihre Haftung beschränken kann.
-
-### § 487e
-
-(1) Die Errichtung und Verteilung eines Fonds im Sinne des Artikels 11 des Haftungsbeschränkungsübereinkommens (§ 486 Abs. 1) oder im Sinne des Artikels V Abs. 3 des Haftungsübereinkommens von 1992 (§ 486 Abs. 2) bestimmt sich nach den Vorschriften der Schiffahrtsrechtlichen Verteilungsordnung vom 25. Juli 1986 (BGBl. I S. 1130).
-
-(2) Die Beschränkung der Haftung nach dem Haftungsbeschränkungsübereinkommen kann auch dann geltend gemacht werden, wenn ein Fonds im Sinne des Artikels 11 des Haftungsbeschränkungsübereinkommens nicht errichtet worden ist. § 305a der Zivilprozeßordnung bleibt unberührt.
-
-### § 488
-
-Der Reeder als solcher kann vor dem Gericht des Heimathafens (§ 480) verklagt werden. § 738 bleibt unberührt.
-
-### § 489
-
-(1) Wird von mehreren Personen ein ihnen gemeinschaftlich zustehendes Schiff zum Erwerb durch die Seefahrt für gemeinschaftliche Rechnung verwendet, so besteht eine Reederei.
-
-(2) Der Fall, wenn das Schiff einer Handelsgesellschaft gehört, wird durch die Vorschriften über die Reederei nicht berührt.
-
-### § 490
-
-Das Rechtsverhältnis der Mitreeder untereinander bestimmt sich zunächst nach dem zwischen ihnen geschlossenen Vertrag. Soweit eine Vereinbarung nicht getroffen ist, finden die nachstehenden Vorschriften Anwendung.
-
-### § 491
-
-(1) Für die Angelegenheiten der Reederei sind die Beschlüsse der Mitreeder maßgebend. Bei der Beschlußfassung entscheidet die Mehrheit der Stimmen. Die Stimmen werden nach der Größe der Anteile der Mitreeder (Schiffsparten) berechnet; die Stimmenmehrheit für einen Beschluß ist vorhanden, wenn der Person oder den Personen, die für den Beschluß gestimmt haben, zusammen mehr als die Hälfte der Gesamtheit der Anteile, nach der Größe berechnet, zusteht.
-
-(2) Einstimmigkeit sämtlicher Mitreeder ist erforderlich zu Beschlüssen, die eine Abänderung des Reedereivertrags bezwecken oder die den Bestimmungen des Reedereivertrags entgegen oder dem Zweck der Reederei fremd sind.
-
-### § 492
-
-(1) Durch Beschluß der Mehrheit kann für den Reedereibetrieb ein Korrespondentreeder (Schiffsdirektor, Schiffsdisponent) bestellt werden. Zur Bestellung eines Korrespondentreeders, der nicht zu den Mitreedern gehört, ist ein einstimmiger Beschluß erforderlich.
-
-(2) Die Bestellung des Korrespondentreeders kann zu jeder Zeit durch Stimmenmehrheit widerrufen werden, unbeschadet des Anspruchs auf die vertragsmäßige Vergütung.
-
-### § 493
-
-(1) Im Verhältnis zu Dritten ist der Korrespondentreeder kraft seiner Bestellung befugt, alle Geschäfte und Rechtshandlungen vorzunehmen, die der Geschäftsbetrieb einer Reederei gewöhnlich mit sich bringt.
-
-(2) Diese Befugnis erstreckt sich insbesondere auf die Ausrüstung, die Erhaltung und die Verfrachtung des Schiffes, auf die Versicherung der Fracht, der Ausrüstungskosten und der Havereigelder sowie auf die mit dem gewöhnlichen Geschäftsbetrieb verbundene Empfangnahme von Geld.
-
-(3) Der Korrespondentreeder ist in demselben Umfang befugt, die Reederei vor Gericht zu vertreten.
-
-(4) Er ist befugt, den Kapitän anzustellen und zu entlassen; der Kapitän hat sich nur an dessen Anweisungen und nicht auch an die etwaigen Anweisungen der einzelnen Mitreeder zu halten.
-
-(5) Im Namen der Reederei oder einzelner Mitreeder Wechselverbindlichkeiten einzugehen oder Darlehen aufzunehmen, das Schiff oder Schiffsparten zu verkaufen oder zu verpfänden sowie für das Schiff oder für Schiffsparten Versicherung zu nehmen, ist der Korrespondentreeder nicht befugt, es sei denn, daß ihm eine Vollmacht hierzu besonders erteilt ist.
-
-### § 494
-
-(1) Durch ein Rechtsgeschäft, welches der Korrespondentreeder als solcher innerhalb der Grenzen seiner Befugnisse schließt, wird die Reederei dem Dritten gegenüber auch dann berechtigt und verpflichtet, wenn das Geschäft ohne Nennung der einzelnen Mitreeder geschlossen wird.
-
-(2)
-
-### § 495
-
-Eine Beschränkung der in § 493 bezeichneten Befugnisse des Korrespondentreeders kann die Reederei einem Dritten nur entgegensetzen, wenn die Beschränkung dem Dritten zur Zeit des Abschlusses des Geschäfts bekannt war.
-
-### § 496
-
-(1) Der Reederei gegenüber ist der Korrespondentreeder verpflichtet, die Beschränkungen einzuhalten, welche von ihr für den Umfang seiner Befugnisse festgesetzt sind; er hat sich ferner nach den gefaßten Beschlüssen zu richten und die Beschlüsse zur Ausführung zu bringen.
-
-(2) Im übrigen ist der Umfang seiner Befugnisse auch der Reederei gegenüber nach den Vorschriften des § 493 mit der Maßgabe zu beurteilen, daß er zu neuen Reisen und Unternehmungen, zu außergewöhnlichen Reparaturen sowie zur Anstellung oder zur Entlassung des Kapitäns vorher die Beschlüsse der Reederei einzuholen hat.
-
-### § 497
-
-Der Korrespondentreeder ist verpflichtet, in den Angelegenheiten der Reederei die Sorgfalt eines ordentlichen Reeders anzuwenden.
-
-### § 498
-
-Der Korrespondentreeder hat über seine die Reederei betreffende Geschäftsführung abgesondert Buch zu führen und die dazu gehörigen Belege aufzubewahren. Er hat auch jedem Mitreeder auf dessen Verlangen Kenntnis von allen Verhältnissen zu geben, die sich auf die Reederei, insbesondere auf das Schiff, die Reise und die Ausrüstung, beziehen; er hat ihm jederzeit die Einsicht der die Reederei betreffenden Bücher, Briefe und Papiere zu gestatten.
-
-### § 499
-
-Der Korrespondentreeder ist verpflichtet, jederzeit auf Beschluß der Reederei dieser Rechnung zu legen. Die Genehmigung der Rechnung sowie die Billigung der Verwaltung des Korrespondentreeders durch die Mehrheit hindert die Minderheit nicht, ihr Recht geltend zu machen.
-
-### § 500
-
-(1) Jeder Mitreeder hat nach dem Verhältnis seiner Schiffspart zu den Ausgaben der Reederei, insbesondere zu den Kosten der Ausrüstung und der Reparatur des Schiffes, beizutragen.
-
-(2) Ist ein Mitreeder mit der Leistung seines Beitrags im Verzug und wird das Geld von Mitreedern für ihn vorgeschossen, so ist er diesen zur Entrichtung von Zinsen von dem Zeitpunkt der Vorschüsse an verpflichtet. Durch den Vorschuß wird ein versicherbares Interesse hinsichtlich der Schiffspart für die Mitreeder begründet. Im Falle der Versicherung dieses Interesses hat der säumige Mitreeder die Kosten der Versicherung zu ersetzen.
-
-### § 501
-
-(1) Wenn eine neue Reise oder wenn nach der Beendigung einer Reise die Reparatur des Schiffes oder wenn die volle Befriedigung eines Gläubigers beschlossen worden ist, für dessen Anspruch die Reederei ihre Haftung beschränkt hat oder beschränken kann, so kann jeder Mitreeder, welcher dem Beschluß nicht zugestimmt hat, sich von der Leistung der zur Ausführung des Beschlusses erforderlichen Einzahlungen dadurch befreien, daß er seine Schiffspart ohne Anspruch auf Entgelt aufgibt.
-
-(2) Der Mitreeder, welcher von dieser Befugnis Gebrauch machen will, muß dies den Mitreedern oder dem Korrespondentreeder binnen drei Tagen nach dem Tag des Beschlusses oder, wenn er bei der Beschlußfassung nicht anwesend und nicht vertreten war, binnen drei Tagen nach der Mitteilung des Beschlusses notariell kundgeben.
-
-(3) Die aufgegebene Schiffspart fällt den übrigen Mitreedern nach dem Verhältnis der Größe ihrer Schiffsparten zu.
-
-### § 502
-
-(1) Die Verteilung des Gewinns und Verlustes geschieht nach der Größe der Schiffsparten.
-
-(2) Die Berechnung des Gewinns und Verlustes und die Auszahlung des etwaigen Gewinns erfolgt jedesmal, nachdem das Schiff in den Heimathafen zurückgekehrt ist oder nachdem es in einem anderen Hafen seine Reise beendigt hat und die Schiffsmannschaft entlassen ist.
-
-(3) Außerdem muß auch vor dem erwähnten Zeitpunkt das eingehende Geld, soweit es nicht zu späteren Ausgaben oder zur Deckung von Ansprüchen einzelner Mitreeder an die Reederei erforderlich ist, unter die einzelnen Mitreeder nach dem Verhältnis der Größe ihrer Schiffsparten vorläufig verteilt und ausgezahlt werden.
-
-### § 503
-
-(1) Jeder Mitreeder kann seine Schiffspart jederzeit und ohne Einwilligung der übrigen Mitreeder ganz oder teilweise veräußern. Die Veräußerung bedarf der Eintragung in das Schiffsregister.
-
-(2) Die Veräußerung einer Schiffspart, infolge deren das Schiff das Recht, die *Reichsflagge* zu führen, verlieren würde, kann nur mit Zustimmung aller Mitreeder erfolgen.
-
-(3) Für die Belastung einer Schiffspart gelten die Vorschriften über die Belastung von Rechten.
-
-Abs. 2 Kursivdruck: Vgl. G v. 8.2.1951 9514-1
-
-### § 504
-
-(1) Der Mitreeder, welcher seine Schiffspart veräußert hat, wird, solange die Veräußerung von ihm und dem Erwerber den Mitreedern oder dem Korrespondentreeder nicht angezeigt worden ist, im Verhältnis zu den Mitreedern noch als Mitreeder betrachtet und bleibt wegen aller vor dieser Anzeige begründeten Verbindlichkeiten als Mitreeder den übrigen Mitreedern verhaftet.
-
-(2) Der Erwerber der Schiffspart ist jedoch im Verhältnis zu den übrigen Mitreedern schon seit dem Zeitpunkt der Erwerbung als Mitreeder verpflichtet.
-
-(3) Er muß die Bestimmungen des Reedereivertrags, die gefaßten Beschlüsse und eingegangenen Geschäfte gleichwie der Veräußerer gegen sich gelten lassen; die übrigen Mitreeder können außerdem alle gegen den Veräußerer als Mitreeder begründeten Verbindlichkeiten in bezug auf die veräußerte Schiffspart gegen den Erwerber zur Aufrechnung bringen, unbeschadet des Rechtes des Erwerbers auf Gewährleistung gegen den Veräußerer.
-
-### § 505
-
-(1) Eine Änderung in den Personen der Mitreeder ist ohne Einfluß auf den Fortbestand der Reederei.
-
-(2) Stirbt ein Mitreeder oder wird das Insolvenzverfahren über das Vermögen eines Mitreeders eröffnet, so hat dies die Auflösung der Reederei nicht zur Folge.
-
-(3) Eine Aufkündigung von seiten eines Mitreeders oder eine Ausschließung eines Mitreeders findet nicht statt.
-
-### § 506
-
-(1) Die Auflösung der Reederei kann durch Stimmenmehrheit beschlossen werden. Der Beschluß, das Schiff zu veräußern, steht dem Beschluß der Auflösung gleich.
-
-(2) Ist die Auflösung der Reederei oder die Veräußerung des Schiffes beschlossen, so muß das Schiff öffentlich verkauft werden. Der Verkauf kann nur geschehen, wenn das Schiff zu einer Reise nicht verfrachtet ist und sich in dem Heimathafen oder in einem inländischen Hafen befindet. Ist jedoch das Schiff als reparaturunfähig oder reparaturunwürdig kondemniert (§ 479), so kann der Verkauf, auch wenn das Schiff verfrachtet ist, und selbst im Ausland erfolgen. Soll von diesen Vorschriften abgewichen werden, so ist die Zustimmung aller Mitreeder erforderlich.
-
-### § 506a
-
-Die Reederei wird durch die Eröffnung des Insolvenzverfahrens über ihr Vermögen aufgelöst. Wird das Insolvenzverfahren auf Antrag des Schuldners eingestellt oder nach der Bestätigung eines Insolvenzplans, der den Fortbestand der Reederei vorsieht, aufgehoben, so können die Mitreeder die Fortsetzung der Reederei beschließen.
-
-### § 507
-
-(1) Die Mitreeder haften für die Verbindlichkeiten der Reederei persönlich, jedoch nur nach dem Verhältnis der Größe ihrer Schiffsparten.
-
-(2) Ist eine Schiffspart veräußert, so haften für die in der Zeit zwischen der Veräußerung und der in § 504 erwähnten Anzeige begründeten Verbindlichkeiten rücksichtlich dieser Schiffspart sowohl der Veräußerer als der Erwerber.
-
-### § 508
-
-(1) Die Mitreeder als solche können wegen eines jeden Anspruchs, ohne Unterschied, ob dieser von einem Mitreeder oder von einem Dritten erhoben wird, vor dem Gericht des Heimathafens (§ 480) belangt werden.
-
-(2) Diese Vorschrift kommt auch dann zur Anwendung, wenn die Klage nur gegen einen Mitreeder oder gegen einige Mitreeder gerichtet wird.
-
-### § 509
-
-(1) Auf die Vereinigung zweier oder mehrerer Personen, ein Schiff für gemeinschaftliche Rechnung zu erbauen und zur Seefahrt zu verwenden (Baureederei), finden die Vorschriften der §§ 490, 491, 500 und 505 sowie des § 507 Abs. 1 und, sobald das Schiff vollendet und von dem Erbauer abgeliefert ist, außerdem die Vorschriften der §§ 503, 504 und 506 sowie des § 507 Abs. 2 Anwendung; die Vorschrift des § 500 gilt auch für die Baukosten.
-
-(2) Ein Korrespondentreeder (§ 492) kann schon vor der Vollendung des Schiffes bestellt werden. Er hat in diesem Fall sogleich nach seiner Bestellung in bezug auf den künftigen Reedereibetrieb die Rechte und Pflichten eines Korrespondentreeders. Zur Vertretung der Baureederei bedarf er einer besonderen Ermächtigung der Mitreeder; durch ein im Rahmen einer solchen Ermächtigung geschlossenes Rechtsgeschäft wird die Baureederei dem Dritten gegenüber auch dann berechtigt und verpflichtet, wenn das Geschäft ohne Nennung der einzelnen Mitreeder geschlossen wird.
-
-### § 510
-
-(1) Wer ein ihm nicht gehöriges Schiff zum Erwerb durch die Seefahrt für seine Rechnung verwendet und es entweder selbst führt oder die Führung einem Kapitän anvertraut, wird im Verhältnis zu Dritten als der Reeder angesehen.
-
-(2) Der Eigentümer kann denjenigen, welcher aus der Verwendung einen Anspruch als Schiffsgläubiger herleitet, an der Durchführung des Anspruchs nicht hindern, es sei denn, daß die Verwendung ihm gegenüber eine widerrechtliche und der Gläubiger nicht in gutem Glauben war.
-
-Dritter Abschnitt Kapitän
--------------------------
+Erster Unterabschnitt Seefrachtverträge
+---------------------------------------
 
 ### 
 
-### § 511
-
-Der Führer des Schiffes (Kapitän, Schiffer) ist verpflichtet, bei allen Dienstverrichtungen, namentlich bei der Erfüllung der von ihm auszuführenden Verträge, die Sorgfalt eines ordentlichen Kapitäns anzuwenden. Er haftet für jeden durch sein Verschulden entstehenden Schaden, insbesondere für den Schaden, welcher aus der Verletzung der in diesem und den folgenden Abschnitten ihm auferlegten Pflichten entsteht.
-
-### § 512
-
-(1) Diese Haftung des Kapitäns besteht nicht nur gegenüber dem Reeder, sondern auch gegenüber dem Befrachter, Ablader und Ladungsempfänger, dem Reisenden und der Schiffsbesatzung.
-
-(2) Der Kapitän wird dadurch, daß er auf Anweisung des Reeders gehandelt hat, den übrigen vorgenannten Personen gegenüber von der Haftung nicht befreit.
-
-(3) Durch eine solche Anweisung wird auch der Reeder verpflichtet, wenn er bei der Erteilung der Anweisung von dem Sachverhältnis unterrichtet war.
-
-### § 513
-
-Der Kapitän hat vor dem Antritt der Reise dafür zu sorgen, daß das Schiff in seetüchtigem Stand, gehörig eingerichtet und ausgerüstet, gehörig bemannt und verproviantiert ist und daß die zum Ausweis für Schiff, Besatzung und Ladung erforderlichen Papiere an Bord sind.
-
-### § 514
-
-(1) Der Kapitän hat zu sorgen für die Tüchtigkeit der Gerätschaften zum Laden und Löschen sowie für die gehörige Stauung nach Seemannsbrauch, auch wenn die Stauung durch besondere Stauer bewirkt wird.
-
-(2) Er hat dafür zu sorgen, daß das Schiff nicht überladen und daß es mit dem nötigen Ballast und der erforderlichen Garnierung versehen wird.
-
-### § 515
-
-(1) Wenn der Kapitän im Ausland die dort geltenden Vorschriften, insbesondere die Polizei-, Steuer- und Zollgesetze, nicht beobachtet, so hat er den daraus entstehenden Schaden zu ersetzen.
-
-(2) Desgleichen hat er den Schaden zu ersetzen, welcher daraus entsteht, daß er Güter ladet, von denen er wußte oder wissen mußte, daß sie Kriegskonterbande seien.
-
-### § 516
-
-(1) Sobald das Schiff zum Abgehen fertig ist, hat der Kapitän die Reise bei der ersten günstigen Gelegenheit anzutreten.
-
-(2) Auch wenn er durch Krankheit oder andere Ursachen verhindert ist, das Schiff zu führen, darf er den Abgang des Schiffes oder die Weiterfahrt nicht ungebührlich aufhalten; er muß vielmehr, wenn Zeit und Umstände gestatten, die Anordnung des Reeders einzuholen, diesem ungesäumt die Verhinderung anzeigen und für die Zwischenzeit die geeigneten Vorkehrungen treffen, im entgegengesetzten Fall einen anderen Kapitän einsetzen. Für diesen Stellvertreter ist er nur insofern verantwortlich, als ihm bei dessen Wahl ein Verschulden zur Last fällt.
-
-### § 517
-
-(1) Vom Beginn des Ladens an bis zur Beendigung der Löschung darf der Kapitän das Schiff gleichzeitig mit dem Steuermann nur in dringenden Fällen verlassen; er hat in solchen Fällen zuvor aus den Schiffsoffizieren oder der übrigen Mannschaft einen geeigneten Vertreter zu bestellen.
-
-(2) Dasselbe gilt auch vor dem Beginn des Ladens und nach der Beendigung der Löschung, wenn das Schiff in einem nicht sicheren Hafen oder auf einer nicht sicheren Reede liegt.
-
-(3) Bei drohender Gefahr oder wenn das Schiff sich in See befindet, muß der Kapitän an Bord sein, sofern nicht eine dringende Notwendigkeit seine Abwesenheit rechtfertigt.
-
-### § 518
-
-Wenn der Kapitän in Fällen der Gefahr mit den Schiffsoffizieren einen Schiffsrat zu halten für angemessen findet, so ist er gleichwohl an die gefaßten Beschlüsse nicht gebunden; er bleibt stets für die von ihm getroffenen Maßregeln verantwortlich.
-
-### § 519
-
--
-
-### § 520
-
-Wird auf dem Schiff ein Tagebuch geführt, so sind alle Unfälle einzutragen, die sich während der Reise ereignen und die das Schiff, Personen oder die Ladung betreffen oder sonst einen Vermögensnachteil zur Folge haben können. Dabei ist eine vollständige Beschreibung dieser Unfälle unter Angabe der zur Abwendung oder Verringerung der Nachteile angewendeten Mittel aufzunehmen.
-
-### § 521
-
--
-
-### § 522
-
-(1) Der Kapitän ist bei einem Unfall, der sich während der Reise ereignet und der das Schiff oder die Ladung betrifft oder sonst einen Vermögensnachteil zur Folge haben kann, berechtigt und auf Verlangen verpflichtet, die Aufnahme einer Verklarung zu beantragen. Das Verlangen kann von dem Reeder und von den Personen gestellt werden, für die der Unfall als Inhaber eines Rechts am Schiff, Ladungsbeteiligte, Reisende oder Personen der Schiffsbesatzung einen erheblichen Vermögensnachteil zur Folge haben kann. Der Kapitän ist berechtigt und auf Verlangen einer in Satz 2 genannten Person verpflichtet, die Aufnahme der Verklarung in dem Hafen, den das Schiff nach dem Unfall oder nach dem Verlangen zuerst erreicht und in dem sie ohne eine unverhältnismäßige Verzögerung der Reise möglich ist, oder im Falle des Schiffsverlustes an dem ersten geeigneten Ort zu beantragen.
-
-(2) Die Verklarung wird im Geltungsbereich des Grundgesetzes durch die Gerichte, außerhalb desselben durch die vom Auswärtigen Amt durch Rechtsverordnung bestimmten Auslandsvertretungen der Bundesrepublik Deutschland aufgenommen.
-
-### § 523
-
-(1) In dem Antrag auf Aufnahme der Verklarung hat der Kapitän sich selbst zum Zeugnis zu erbieten und die zur Feststellung des Sachverhalts sonst dienlichen Beweismittel zu bezeichnen. Dem Antrag ist eine öffentlich beglaubigte Abschrift der den Unfall betreffenden Eintragungen im Tagebuch und ein Verzeichnis aller Personen der Schiffsbesatzung beizufügen.
-
-(2) Kann die beglaubigte Abschrift aus dem Tagebuch nicht beigefügt werden, so ist der Grund dafür anzugeben. Der Antrag muß in diesem Fall eine vollständige Beschreibung der erlittenen Unfälle unter Angabe der zur Abwendung oder Verringerung der Nachteile angewendeten Mittel enthalten.
-
-(3) Zur Aufnahme der Verklarung bestimmt das Gericht oder der Konsularbeamte einen tunlichst nahen Termin, zu welchem der Kapitän und die sonst bezeichneten Zeugen zu laden sind. Der Termin ist dem Reeder und den etwa sonst durch den Unfall Betroffenen mitzuteilen, soweit dies ohne unverhältnismäßige Verzögerung des Verfahrens geschehen kann. Die Mitteilung kann durch öffentliche Bekanntmachung erfolgen.
-
-### § 524
-
-(1) Die Verklarung geschieht durch eine Beweisaufnahme über den tatsächlichen Hergang des Unfalls sowie über den Umfang des eingetretenen Schadens und über die zur Abwendung oder Verringerung desselben angewendeten Mittel.
-
-(2) Die Beweisaufnahme erfolgt nach den Vorschriften der Zivilprozeßordnung. Eine Beeidigung des Kapitäns findet nicht statt. Andere Zeugen sollen in der Regel unbeeidigt vernommen werden.
-
-(3) Der Reeder und die etwa sonst durch den Unfall Betroffenen sind berechtigt, selbst oder durch Vertreter der Verklarung beizuwohnen. Sie können eine Ausdehnung der Beweisaufnahme auf weitere Beweismittel beantragen.
-
-(4) Das Gericht oder der Konsularbeamte ist befugt, eine Ausdehnung der Beweisaufnahme auch von Amts wegen anzuordnen, soweit dies zur Aufklärung des Sachverhalts erforderlich erscheint.
-
-### § 525
-
-(1) Der Reeder und die sonst durch den Unfall Betroffenen können Abschrift der den Unfall betreffenden Eintragungen im Tagebuch oder des in § 523 Abs. 2 Satz 2 genannten Berichts sowie der Niederschrift über die Beweisaufnahme verlangen. Die Abschrift ist auf Verlangen zu beglaubigen.
-
-(2) Ist das Verfahren auf Verlangen einer der in § 522 Abs. 1 Satz 2 genannten Personen beantragt, so hat diese die entstandenen Kosten zu erstatten, soweit sie nicht Anspruch auf Ersatz des durch den Unfall ihr entstandenen Schadens hat. Die Verpflichtung des Reeders, dem Kapitän die verauslagten Kosten zu erstatten, wird hierdurch nicht berührt. In den Fällen der großen Haverei findet die Vorschrift des § 706 Nr. 7 Anwendung.
-
-### § 526
-
-(1) Rechtsgeschäfte, die der Kapitän eingeht, während sich das Schiff im Heimathafen befindet, sind für den Reeder nur dann verbindlich, wenn der Kapitän auf Grund einer Vollmacht gehandelt hat oder wenn ein anderer besonderer Verpflichtungsgrund vorhanden ist.
-
-(2) Zur Annahme der Schiffsmannschaft ist der Kapitän auch im Heimathafen befugt.
-
-### § 527
-
-(1) Befindet sich das Schiff außerhalb des Heimathafens, so ist der Kapitän Dritten gegenüber kraft seiner Anstellung befugt, für den Reeder alle Geschäfte und Rechtshandlungen vorzunehmen, welche die Ausrüstung, die Bemannung, die Verproviantierung und die Erhaltung des Schiffes sowie überhaupt die Ausführung der Reise mit sich bringen.
-
-(2) Diese Befugnis erstreckt sich auch auf die Eingehung von Frachtverträgen; sie erstreckt sich ferner auf die Anstellung von Klagen, die sich auf den Wirkungskreis des Kapitäns beziehen.
-
-### § 528
-
-(1) Zur Aufnahme von Darlehen, zur Eingehung von Käufen auf Borg sowie zum Abschluß ähnlicher Kreditgeschäfte ist der Kapitän nur dann befugt, wenn es zur Erhaltung des Schiffes oder zur Ausführung der Reise notwendig, und nur insoweit, als es zur Befriedigung des Bedürfnisses erforderlich ist.
-
-(2) Die Gültigkeit des Geschäfts ist nicht davon abhängig, daß der Kapitän nach Absatz 1 zu dem Geschäft befugt war, daß die von ihm zwischen mehreren Geschäften getroffene Wahl zweckmäßig war und daß die durch das Geschäft erlangten Mittel oder sonstigen Gegenstände tatsächlich zur Erhaltung des Schiffes oder zur Ausführung der Reise verwendet werden. Das Geschäft ist jedoch für den Reeder nicht verbindlich, wenn dem Dritten der Mangel der Befugnis des Kapitäns oder die Absicht zur anderweitigen Verwendung bekannt oder infolge grober Fahrlässigkeit unbekannt war.
-
-(3) Zur Eingehung von Wechselverbindlichkeiten ist der Kapitän nur befugt, wenn ihm eine besondere Vollmacht hierzu erteilt worden ist.
-
-### (XXXX) §§ 461 bis 473
-
-### § 531
-
-Der Reeder, welcher die gesetzlichen Befugnisse des Kapitäns beschränkt hat, kann dem Dritten die Nichteinhaltung dieser Beschränkungen nur entgegensetzen, wenn sie dem Dritten bekannt waren.
-
-### § 532
-
-Hat der Kapitän ohne besonderen Auftrag für Rechnung des Reeders aus eigenen Mitteln Vorschüsse geleistet oder sich persönlich verpflichtet, so stehen ihm gegen den Reeder wegen des Ersatzes keine größeren Rechte als einem Dritten zu.
-
-### § 533
-
-(1) Durch ein Rechtsgeschäft, welches der Kapitän in seiner Eigenschaft als Führer des Schiffes, sei es mit, sei es ohne Bezeichnung des Reeders, innerhalb seiner gesetzlichen Befugnisse schließt, wird der Reeder dem Dritten gegenüber berechtigt und verpflichtet.
-
-(2) Der Kapitän selbst wird dem Dritten durch das Rechtsgeschäft nicht verpflichtet, es sei denn, daß er eine Gewährleistung für die Erfüllung übernimmt oder seine Befugnisse überschreitet. Die Haftung des Kapitäns nach Maßgabe der §§ 511 und 512 wird hierdurch nicht ausgeschlossen.
-
-### § 534
-
-(1) Auch dem Reeder gegenüber sind für den Umfang der Befugnisse des Kapitäns die Vorschriften der §§ 526 bis 528 maßgebend, soweit nicht der Reeder diese Befugnisse beschränkt hat.
-
-(2) Der Kapitän ist verpflichtet, von dem Zustand des Schiffes, den Begebnissen der Reisen, den von ihm geschlossenen Verträgen und den anhängig gewordenen Prozessen den Reeder in fortlaufender Kenntnis zu erhalten und in allen erheblichen Fällen, namentlich in den Fällen des § 528 oder wenn er eine Reise zu ändern oder einzustellen sich genötigt findet, oder bei außergewöhnlichen Reparaturen und Anschaffungen, die Erteilung von Verhaltungsmaßregeln nachzusuchen, sofern die Umstände es gestatten.
-
-(3) Zu außergewöhnlichen Reparaturen und Anschaffungen, selbst wenn er sie mit den ihm zur Verfügung stehenden Mitteln des Reeders bestreiten kann, darf er nur im Falle der Notwendigkeit schreiten.
-
-(4) Er muß dem Reeder nach der Rückkehr in den Heimathafen und außerdem, so oft es verlangt wird, Rechnung legen.
-
-### § 535
-
-(1) Im Interesse der Ladungsbeteiligten hat der Kapitän während der Reise zugleich für das Beste der Ladung nach Möglichkeit Sorge zu tragen.
-
-(2) Werden zur Abwendung oder Verringerung eines Verlustes besondere Maßregeln erforderlich, so liegt ihm ob, das Interesse der Ladungsbeteiligten wahrzunehmen, wenn tunlich ihre Anweisungen einzuholen und, soweit es den Verhältnissen entspricht, zu befolgen, sonst aber nach eigenem Ermessen zu verfahren und überhaupt tunlichst dafür zu sorgen, daß die Ladungsbeteiligten von solchen Vorfällen und den dadurch veranlaßten Maßregeln schleunigst in Kenntnis gesetzt werden.
-
-(3) Der Kapitän ist in solchen Fällen ermächtigt, die Ladung äußerstenfalls, wenn ein erheblicher Schaden wegen drohenden Verderbs oder aus sonstigen Gründen anders nicht abzuwenden ist, zu veräußern oder zur Beschaffung der Mittel zu ihrer Erhaltung oder Weiterbeförderung zu verpfänden.
-
-(4) Der Kapitän ist berechtigt, Ansprüche eines Ladungsbeteiligten aus Verlust oder Beschädigung der Ladung im eigenen Namen außergerichtlich oder gerichtlich zu betreiben, soweit der Ladungsbeteiligte selbst hierzu nicht rechtzeitig in der Lage ist.
-
-### § 536
-
-(1) Wird die Fortsetzung der Reise in der ursprünglichen Richtung durch einen Zufall verhindert, so ist der Kapitän befugt, die Reise in einer anderen Richtung fortzusetzen oder sie auf kürzere oder längere Zeit einzustellen oder nach dem Abgangshafen zurückzukehren, je nachdem es den Verhältnissen und den möglichst zu berücksichtigenden Anweisungen entspricht.
-
-(2) Im Falle der Auflösung des Frachtvertrags hat er nach den Vorschriften des § 632 zu verfahren.
-
-### § 537
-
--
-
-### § 538
-
-Außer in den Fällen des § 535 ist der Kapitän zur Verfügung über Ladungsteile durch Veräußerung, Verpfändung oder Verwendung nur befugt, soweit es zum Zwecke der Fortsetzung der Reise notwendig ist.
-
-### § 539
-
-Gründet sich das Bedürfnis auf eine große Haverei und kann der Kapitän ihm durch verschiedene Maßregeln abhelfen, so hat er diejenige Maßregel zu ergreifen, welche für die Beteiligten mit dem geringsten Nachteil verbunden ist.
-
-### § 540
-
-Liegt der Fall einer großen Haverei nicht vor, so ist der Kapitän zur Verfügung über Ladungsteile durch Veräußerung, Verpfändung oder Verwendung nur befugt, wenn er dem Bedürfnis auf anderem Wege nicht abhelfen kann oder wenn die Wahl eines anderen Mittels einen unverhältnismäßigen Schaden für den Reeder zur Folge haben würde.
-
-### § 541
-
-(1) Verfügt der Kapitän auf Grund des § 540 über Ladungsteile, so ist der Reeder verpflichtet, den betroffenen Ladungsbeteiligten den ihnen daraus entstehenden Schaden zu ersetzen.
-
-(2) Auf den Ersatz, den der Reeder zu leisten hat, findet § 658 Anwendung. Übersteigt im Fall der Verfügung über die Güter durch Verkauf der Reinerlös den in § 658 bezeichneten Wert, so tritt an dessen Stelle der Reinerlös.
-
-### § 542
-
-Für die Gültigkeit der von dem Kapitän auf Grund der § 535 Abs. 3, §§ 538 bis 540 vorgenommenen Rechtsgeschäfte gilt § 528 Abs. 2 sinngemäß.
-
-### § 543
-
-Was der Kapitän vom Befrachter, Ablader oder Ladungsempfänger außer der Fracht als Kaplaken, Primage oder sonst als Belohnung oder Entschädigung, gleichviel unter welchem Namen, erhält, hat er dem Reeder als Einnahme in Rechnung zu bringen.
-
-### § 544
-
-Der Kapitän darf ohne Einwilligung des Reeders für eigene Rechnung keine Güter verladen. Handelt er dieser Vorschrift zuwider, so hat er dem Reeder die höchste am Abladungsort zur Abladungszeit für solche Reisen und Güter bedungene Fracht zu erstatten, unbeschadet des Anspruchs des Reeders auf den Ersatz eines ihm verursachten höheren Schadens.
-
-### § 545
-
-Hat der Reeder dem Kapitän gekündigt, so kann er ihm während der Kündigungsfrist die Ausübung seiner Befugnisse untersagen. Die Ansprüche aus dem Heuerverhältnis regeln sich nach dem Seemannsgesetz vom 26. Juli 1957 (Bundesgesetzbl. II S. 713).
-
-### (XXXX) §§ 546 bis 551
-
-### § 552
-
-Die Schiffspart, mit welcher der Kapitän auf Grund einer mit den übrigen Reedern getroffenen Vereinbarung als Mitreeder an dem Schiff beteiligt ist, ist im Falle seiner unfreiwilligen Entlassung auf sein Verlangen von den Mitreedern gegen Auszahlung des durch Sachverständige zu bestimmenden Schätzungswerts zu übernehmen. Dieses Recht des Kapitäns erlischt, wenn er die Erklärung, davon Gebrauch zu machen, ohne Grund verzögert.
-
-### (XXXX) §§ 553 bis 554
-
-### § 555
-
-Auch nach dem Verlust des Schiffes ist der Kapitän verpflichtet, noch für die Verklarung zu sorgen und überhaupt das Interesse des Reeders so lange wahrzunehmen, als es erforderlich ist.
-
-Vierter Abschnitt Frachtgeschäft zur Beförderung von Gütern
------------------------------------------------------------
+Erster Titel Stückgutfrachtvertrag
+----------------------------------
 
 ### 
 
-### § 556
+Erster Untertitel Allgemeine Vorschriften
+-----------------------------------------
 
-Der Frachtvertrag zur Beförderung von Gütern bezieht sich entweder
+### 
+
+### § 481 Hauptpflichten. Anwendungsbereich
+
+(1) Durch den Stückgutfrachtvertrag wird der Verfrachter verpflichtet, das Gut mit einem Schiff über See zum Bestimmungsort zu befördern und dort dem Empfänger abzuliefern.
+
+(2) Der Befrachter wird verpflichtet, die vereinbarte Fracht zu zahlen.
+
+(3) Die Vorschriften dieses Titels gelten, wenn die Beförderung zum Betrieb eines gewerblichen Unternehmens gehört. Erfordert das Unternehmen nach Art oder Umfang einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht und ist die Firma des Unternehmens auch nicht nach § 2 in das Handelsregister eingetragen, so sind in Ansehung des Stückgutfrachtvertrags auch insoweit die Vorschriften des Ersten Abschnitts des Vierten Buches ergänzend anzuwenden; dies gilt jedoch nicht für die §§ 348 bis 350.
+
+### § 482 Allgemeine Angaben zum Gut
+
+(1) Der Befrachter hat dem Verfrachter vor Übergabe des Gutes die für die Durchführung der Beförderung erforderlichen Angaben zum Gut zu machen. Insbesondere hat der Befrachter in Textform Angaben über Maß, Zahl oder Gewicht sowie über Merkzeichen und die Art des Gutes zu machen.
+
+(2) Übergibt ein vom Befrachter benannter Dritter dem Verfrachter das Gut zur Beförderung, so kann der Verfrachter auch von diesem die in Absatz 1 Satz 2 genannten Angaben verlangen.
+
+### § 483 Gefährliches Gut
+
+(1) Soll gefährliches Gut befördert werden, so haben der Befrachter und der in § 482 Absatz 2 genannte Dritte dem Verfrachter rechtzeitig in Textform die genaue Art der Gefahr und, soweit erforderlich, zu ergreifende Vorsichtsmaßnahmen mitzuteilen.
+
+(2) Der Verfrachter kann, sofern ihm, dem Kapitän oder dem Schiffsagenten nicht bei Übernahme des Gutes die Art der Gefahr bekannt war oder jedenfalls mitgeteilt worden ist, gefährliches Gut ausladen, einlagern, zurückbefördern oder, soweit erforderlich, vernichten oder unschädlich machen, ohne dem Befrachter deshalb ersatzpflichtig zu werden. War dem Verfrachter, dem Kapitän oder dem Schiffsagenten bei Übernahme des Gutes die Art der Gefahr bekannt oder war sie ihm jedenfalls mitgeteilt worden, so kann der Verfrachter nur dann die Maßnahmen nach Satz 1 ergreifen, ohne dem Befrachter deshalb ersatzpflichtig zu werden, wenn das gefährliche Gut Schiff oder Ladung gefährdet und die Gefahr nicht durch ein Verschulden des Verfrachters herbeigeführt worden ist.
+
+(3) Der Verfrachter kann vom Befrachter und dem in § 482 Absatz 2 genannten Dritten, sofern dieser bei der Abladung unrichtige oder unvollständige Angaben gemacht hat, wegen der nach Absatz 2 Satz 1 ergriffenen Maßnahmen Ersatz der erforderlichen Aufwendungen verlangen.
+
+### § 484 Verpackung. Kennzeichnung
+
+Der Befrachter hat das Gut, soweit dessen Natur unter Berücksichtigung der vereinbarten Beförderung eine Verpackung erfordert, so zu verpacken, dass es vor Verlust und Beschädigung geschützt ist und dass auch dem Verfrachter keine Schäden entstehen. Soll das Gut in einem Container, auf einer Palette oder in oder auf einem sonstigen Lademittel zur Beförderung übergeben werden, das zur Zusammenfassung von Frachtstücken verwendet wird, hat der Befrachter das Gut auch in oder auf dem Lademittel beförderungssicher zu stauen und zu sichern. Der Befrachter hat das Gut ferner, soweit dessen vertragsgemäße Behandlung dies erfordert, zu kennzeichnen.
+
+### § 485 See- und Ladungstüchtigkeit
+
+Der Verfrachter hat dafür zu sorgen, dass das Schiff in seetüchtigem Stand, gehörig eingerichtet, ausgerüstet, bemannt und mit genügenden Vorräten versehen ist (Seetüchtigkeit) sowie dass sich die Laderäume einschließlich der Kühl- und Gefrierräume sowie alle anderen Teile des Schiffs, in oder auf denen Güter verladen werden, in dem für die Aufnahme, Beförderung und Erhaltung der Güter erforderlichen Zustand befinden (Ladungstüchtigkeit).
+
+### § 486 Abladen. Verladen. Umladen. Löschen
+
+(1) Der Befrachter hat die Übergabe des Gutes an den Verfrachter zur Beförderung (Abladung) innerhalb der vertraglich vereinbarten Zeit zu bewirken. Der Verfrachter hat demjenigen, der das Gut ablädt, auf dessen Verlangen ein schriftliches Empfangsbekenntnis zu erteilen. Das Empfangsbekenntnis kann auch in einem Konnossement oder Seefrachtbrief erteilt werden.
+
+(2) Soweit sich aus den Umständen oder der Verkehrssitte nichts anderes ergibt, hat der Verfrachter das Gut in das Schiff zu laden und dort zu stauen und zu sichern (verladen) sowie das Gut zu löschen.
+
+(3) Befindet sich das Gut in einem Container, ist der Verfrachter befugt, den Container umzuladen.
+
+(4) Der Verfrachter darf das Gut ohne Zustimmung des Befrachters nicht auf Deck verladen. Wird ein Konnossement ausgestellt, ist die Zustimmung des Abladers (§ 513 Absatz 2) erforderlich. Das Gut darf jedoch ohne Zustimmung auf Deck verladen werden, wenn es sich in oder auf einem Lademittel befindet, das für die Beförderung auf Deck tauglich ist, und wenn das Deck für die Beförderung eines solchen Lademittels ausgerüstet ist.
+
+### § 487 Begleitpapiere
+
+(1) Der Befrachter hat dem Verfrachter alle Urkunden zur Verfügung zu stellen und Auskünfte zu erteilen, die für eine amtliche Behandlung, insbesondere eine Zollabfertigung, vor der Ablieferung erforderlich sind.
+
+(2) Der Verfrachter ist für den Schaden verantwortlich, der durch Verlust oder Beschädigung der ihm übergebenen Urkunden oder durch deren unrichtige Verwendung verursacht worden ist, es sei denn, der Schaden hätte durch die Sorgfalt eines ordentlichen Verfrachters nicht abgewendet werden können. Die Haftung ist auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre. Eine Vereinbarung, durch die die Haftung erweitert oder weiter verringert wird, ist nur wirksam, wenn sie im Einzelnen ausgehandelt wird, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen wird. Eine Bestimmung im Konnossement, durch die die Haftung weiter verringert wird, ist jedoch Dritten gegenüber unwirksam.
+
+### § 488 Haftung des Befrachters und Dritter
+
+(1) Der Befrachter hat dem Verfrachter Schäden und Aufwendungen zu ersetzen, die verursacht werden durch
 
 1.  
-auf das Schiff im ganzen oder einen verhältnismäßigen Teil oder einen bestimmt bezeichneten Raum des Schiffes oder
+Unrichtigkeit oder Unvollständigkeit der erforderlichen Angaben zum Gut,
 
 2.  
-auf einzelne Güter (Stückgüter).
-
-### § 557
-
-Wird das Schiff im ganzen oder zu einem verhältnismäßigen Teil oder wird ein bestimmt bezeichneter Raum des Schiffes verfrachtet, so kann jede Partei verlangen, daß über den Vertrag eine schriftliche Urkunde (Chartepartie) errichtet wird.
-
-### § 558
-
-In der Verfrachtung eines ganzen Schiffes ist die Kajüte nicht einbegriffen; es dürfen jedoch ohne Einwilligung des Befrachters in die Kajüte keine Güter verladen werden.
-
-### § 559
-
-(1) Bei jeder Art von Frachtvertrag hat der Verfrachter dafür zu sorgen, daß das Schiff in seetüchtigem Stand, gehörig eingerichtet, ausgerüstet, bemannt und mit genügenden Vorräten versehen ist (Seetüchtigkeit) sowie daß sich die Laderäume einschließlich der Kühl- und Gefrierräume in dem für die Aufnahme, Beförderung und Erhaltung der Güter erforderlichen Zustand befinden (Ladungstüchtigkeit).
-
-(2) Er haftet dem Ladungsbeteiligten für den Schaden, der auf einem Mangel der See- oder Ladungstüchtigkeit beruht, es sei denn, daß der Mangel bei Anwendung der Sorgfalt eines ordentlichen Verfrachters bis zum Antritt der Reise nicht zu entdecken war.
-
-### § 560
-
-(1) Der Kapitän hat zur Einnahme der Ladung das Schiff an den vom Befrachter oder, wenn das Schiff an mehrere verfrachtet ist, von sämtlichen Befrachtern ihm angewiesenen Platz hinzulegen.
-
-(2) Erfolgt die Anweisung nicht rechtzeitig oder wird nicht von sämtlichen Befrachtern derselbe Platz angewiesen oder gestatten die Wassertiefe, die Sicherheit des Schiffes oder die örtlichen Verordnungen oder Einrichtungen die Befolgung der Anweisung nicht, so hat der Kapitän an dem ortsüblichen Ladungsplatz anzulegen.
-
-### § 561
-
-Sofern nicht durch Vertrag oder durch die örtlichen Verordnungen des Abladungshafens und in deren Ermangelung durch einen daselbst bestehenden Ortsgebrauch ein anderes bestimmt ist, sind die Güter von dem Befrachter kostenfrei bis an das Schiff zu liefern, dagegen die Kosten der Einladung in das Schiff von dem Verfrachter zu tragen.
-
-### § 562
-
-(1) Der Verfrachter ist verpflichtet, statt der vertragsmäßigen Güter andere, von dem Befrachter zur Verschiffung nach demselben Bestimmungshafen ihm angebotene Güter anzunehmen, wenn dadurch seine Lage nicht erschwert wird.
-
-(2) Diese Vorschrift findet keine Anwendung, wenn die Güter im Vertrag nicht bloß nach Art oder Gattung, sondern speziell bezeichnet sind.
-
-### § 563
-
-(1) Der Befrachter und der Ablader sind dem Verfrachter für die Richtigkeit ihrer Angaben über Maß, Zahl oder Gewicht sowie über Merkzeichen der Güter verantwortlich. Jeder haftet dem Verfrachter für den Schaden, der aus der Unrichtigkeit seiner Angaben entsteht. Den übrigen in § 512 Abs. 1 bezeichneten Personen haftet er nur, wenn ihm dabei ein Verschulden zur Last fällt.
-
-(2) Die Verpflichtungen, die dem Verfrachter auf Grund des Frachtvertrags gegenüber anderen Personen als dem Befrachter oder dem Ablader obliegen, werden durch Absatz 1 nicht berührt.
-
-### § 564
-
-(1) Bei unrichtigen Angaben über die Art und die Beschaffenheit der Güter haftet der Befrachter oder der Ablader, wenn ihm dabei ein Verschulden zur Last fällt, dem Verfrachter und den übrigen in § 512 Abs. 1 bezeichneten Personen für den Schaden, der aus der Unrichtigkeit der Angaben entsteht.
-
-(2) Das gleiche gilt, wenn er Kriegskonterbande oder Güter schuldhaft verladet, deren Ausfuhr, Einfuhr oder Durchfuhr verboten ist, oder wenn er bei der Abladung die gesetzlichen Vorschriften, insbesondere die Polizei-, Steuer- und Zollgesetze, schuldhaft übertritt.
-
-(3) Seine Verantwortlichkeit den übrigen Personen gegenüber wird nicht dadurch ausgeschlossen, daß er mit Zustimmung des Kapitäns handelt.
-
-(4) Er kann aus der Beschlagnahme der Güter keinen Grund herleiten, die Bezahlung der Fracht zu verweigern.
-
-(5) Gefährden die Güter das Schiff oder die übrige Ladung, so ist der Kapitän befugt, die Güter ans Land zu setzen oder in dringenden Fällen über Bord zu werfen.
-
-### § 564a
-
-Auch wer ohne Kenntnis des Kapitäns Güter an Bord bringt, ist nach § 564 zum Ersatz des daraus entstehenden Schadens verpflichtet. Der Kapitän ist befugt, solche Güter wieder ans Land zu setzen oder, wenn sie das Schiff oder die übrige Ladung gefährden, nötigenfalls über Bord zu werfen. Hat der Kapitän die Güter an Bord behalten, so ist dafür die höchste, am Abladungsort zur Abladungszeit für solche Reisen und Güter bedungene Fracht zu bezahlen.
-
-### § 564b
-
-(1) Werden entzündliche, explosive oder sonst gefährliche Güter an Bord gebracht, ohne daß der Kapitän von ihnen oder ihrer gefährlichen Art oder Beschaffenheit Kenntnis erlangt hat, so haftet der Befrachter oder der Ablader nach § 564, auch ohne daß ihn ein Verschulden trifft. Der Kapitän ist in diesem Fall befugt, die Güter jederzeit und an jedem beliebigen Ort auszuschiffen, zu vernichten oder sonst unschädlich zu machen.
-
-(2) Hat der Kapitän der Abladung in Kenntnis der gefährlichen Art oder Beschaffenheit der Güter zugestimmt, so ist er berechtigt, in gleicher Weise zu verfahren, wenn die Güter das Schiff oder die übrige Ladung gefährden. Auch in diesem Fall ist der Verfrachter und der Kapitän zum Ersatz des Schadens nicht verpflichtet. Die Vorschriften über die Verteilung des Schadens im Fall der großen Haverei bleiben unberührt.
-
-### § 564c
-
-In den Fällen der §§ 564 bis 564b steht der Kenntnis des Kapitäns die Kenntnis des Verfrachters oder des Schiffsagenten gleich.
-
-### § 565
-
-(1) Der Verfrachter ist nicht befugt, ohne Erlaubnis des Befrachters die Güter in ein anderes Schiff zu verladen. Handelt er dieser Vorschrift zuwider, so ist er für jeden daraus entstehenden Schaden verantwortlich, es sei denn, daß der Schaden auch dann entstanden und dem Befrachter zur Last gefallen sein würde, wenn die Güter nicht auf ein anderes Schiff verladen worden wären.
-
-(2) Auf Umladungen in ein anderes Schiff, die in Fällen der Not nach dem Antritt der Reise erfolgen, finden die Vorschriften des Absatzes 1 keine Anwendung.
-
-### § 566
-
-(1) Ohne Zustimmung des Abladers dürfen dessen Güter weder auf das Verdeck verladen noch an die Seiten des Schiffes gehängt werden.
-
-(2) Die Landesgesetze können bestimmen, daß diese Vorschrift, soweit sie die Beladung des Verdecks betrifft, auf die Küstenschiffahrt keine Anwendung findet.
-
-### § 567
-
-(1) Bei der Verfrachtung eines Schiffes im ganzen hat der Kapitän, sobald er zur Einnahme der Ladung fertig und bereit ist, dies dem Befrachter anzuzeigen.
-
-(2) Mit dem auf die Anzeige folgenden Tag beginnt die Ladezeit.
-
-(3) Über die Ladezeit hinaus hat der Verfrachter auf die Abladung noch länger zu warten, wenn es vereinbart ist (Überliegezeit).
-
-(4) Für die Ladezeit kann, sofern nicht das Gegenteil bedungen ist, keine besondere Vergütung verlangt werden. Dagegen hat der Befrachter dem Verfrachter für die Überliegezeit eine Vergütung (Liegegeld) zu gewähren.
-
-### § 568
-
-(1) Ist die Dauer der Ladezeit durch Vertrag nicht festgesetzt, so wird sie durch die örtlichen Verordnungen des Abladungshafens und in deren Ermangelung durch den daselbst bestehenden Ortsgebrauch bestimmt. Besteht auch ein solcher Ortsgebrauch nicht, so gilt als Ladezeit eine den Umständen des Falles angemessene Frist.
-
-(2) Ist eine Überliegezeit, nicht aber deren Dauer, durch Vertrag bestimmt, so beträgt die Überliegezeit vierzehn Tage.
-
-(3) Enthält der Vertrag nur die Festsetzung eines Liegegelds, so ist anzunehmen, daß eine Überliegezeit ohne Bestimmung der Dauer vereinbart sei.
-
-### § 569
-
-(1) Ist die Dauer der Ladezeit oder der Tag, mit welchem die Ladezeit enden soll, durch Vertrag bestimmt, so beginnt die Überliegezeit ohne weiteres mit dem Ablauf der Ladezeit.
-
-(2) In Ermangelung einer solchen vertragsmäßigen Bestimmung beginnt die Überliegezeit erst, nachdem der Verfrachter dem Befrachter erklärt hat, daß die Ladezeit abgelaufen sei. Der Verfrachter kann schon innerhalb der Ladezeit dem Befrachter erklären, an welchem Tag er die Ladezeit für abgelaufen halte. In diesem Fall ist zum Ablauf der Ladezeit und zum Beginn der Überliegezeit eine neue Erklärung des Verfrachters nicht erforderlich.
-
-### § 570
-
-(1) Nach dem Ablauf der Ladezeit oder, wenn eine Überliegezeit vereinbart ist, nach dem Ablauf der Überliegezeit ist der Verfrachter nicht verpflichtet, auf die Abladung noch länger zu warten. Er muß jedoch seinen Willen, nicht länger zu warten, spätestens drei Tage vor dem Ablauf der Ladezeit oder der Überliegezeit dem Befrachter erklären.
-
-(2) Ist dies nicht geschehen, so läuft die Ladezeit oder Überliegezeit nicht eher ab, als bis die Erklärung nachgeholt ist und seit dem Tag der Abgabe der Erklärung drei Tage verstrichen sind.
-
-(3) Die in den Absätzen 1 und 2 erwähnten drei Tage werden in allen Fällen als ununterbrochen fortlaufende Tage nach dem Kalender gezählt.
-
-### § 571
-
-Die in den §§ 569 und 570 bezeichneten Erklärungen des Verfrachters sind an keine besondere Form gebunden. Weigert sich der Befrachter, den Empfang einer solchen Erklärung in genügender Weise zu bescheinigen, so ist der Verfrachter befugt, eine öffentliche Urkunde darüber auf Kosten des Befrachters errichten zu lassen.
-
-### § 572
-
-(1) Das Liegegeld ist, wenn es nicht durch Vertrag bestimmt ist, nach billigem Ermessen zu bestimmen.
-
-(2) Hierbei ist auf die näheren Umstände des Falles, insbesondere auf die Heuerbeträge und die Unterhaltskosten der Schiffsbesatzung sowie auf den dem Verfrachter entgehenden Frachtverdienst, Rücksicht zu nehmen.
-
-### § 573
-
-(1) Bei der Berechnung der Lade- und Überliegezeit werden die Tage in ununterbrochen fortlaufender Reihenfolge gezählt; insbesondere kommen in Ansatz die Sonntage und die Feiertage sowie diejenigen Tage, an welchen der Befrachter durch Zufall die Ladung zu liefern verhindert ist.
-
-(2) Nicht in Ansatz kommen jedoch die Tage, an denen durch Wind und Wetter oder durch irgendeinen anderen Zufall entweder
-
-1.  
-die Lieferung nicht nur der bedungenen, sondern jeder Art von Ladung an das Schiff oder
-
-2.  
-die Übernahme der Ladung
-
-verhindert ist.
-
-### § 574
-
-Für die Tage, die der Verfrachter wegen Verhinderung der Lieferung jeder Art von Ladung länger warten muß, gebührt ihm Liegegeld, selbst wenn die Verhinderung während der Ladezeit eintritt. Dagegen ist für die Tage, die er wegen Verhinderung der Übernahme der Ladung länger warten muß, Liegegeld nicht zu entrichten, selbst wenn die Verhinderung während der Überliegezeit eintritt.
-
-### § 575
-
-Sind für die Dauer der Ladezeit nach § 568 die örtlichen Verordnungen oder der Ortsgebrauch maßgebend, so kommen bei der Berechnung der Ladezeit die Vorschriften der §§ 573 und 574 nur insoweit zur Anwendung, als die örtlichen Verordnungen oder der Ortsgebrauch nichts Abweichendes bestimmen.
-
-### § 576
-
-Hat sich der Verfrachter ausbedungen, daß die Abladung bis zu einem bestimmten Tag beendigt sein muß, so wird er durch die Verhinderung der Lieferung jeder Art von Ladung (§ 573 Abs. 2 Nr. 1) zum längeren Warten nicht verpflichtet.
-
-### § 577
-
-(1) Soll der Verfrachter die Ladung von einem Dritten erhalten und ist dieser Dritte ungeachtet der von dem Verfrachter in ortsüblicher Weise kundgemachten Bereitschaft zum Laden nicht zu ermitteln oder verweigert er die Lieferung der Ladung, so hat der Verfrachter den Befrachter schleunigst hiervon zu benachrichtigen und nur bis zum Ablauf der Ladezeit, nicht auch während der etwa vereinbarten Überliegezeit auf die Abladung zu warten, es sei denn, daß er von dem Befrachter oder einem Bevollmächtigten des Befrachters noch innerhalb der Ladezeit eine entgegengesetzte Anweisung erhält.
-
-(2) Ist für die Ladezeit und die Löschzeit zusammen eine ungeteilte Frist bestimmt, so wird für den in Absatz 1 erwähnten Fall die Hälfte dieser Frist als Ladezeit angesehen.
-
-### § 578
-
-Der Verfrachter hat auf Verlangen des Befrachters die Reise auch ohne die volle bedungene Ladung anzutreten. Es gebührt ihm aber alsdann nicht nur die volle Fracht und das etwaige Liegegeld, sondern er ist auch berechtigt, soweit ihm durch die Unvollständigkeit der Ladung die Sicherheit für die volle Fracht entgeht, die Bestellung einer anderweitigen Sicherheit zu fordern. Außerdem sind ihm die Mehrkosten, die ihm infolge der Unvollständigkeit der Ladung etwa erwachsen, durch den Befrachter zu erstatten.
-
-### § 579
-
-Hat der Befrachter bis zum Ablauf der Zeit, während welcher der Verfrachter auf die Abladung zu warten verpflichtet ist (Wartezeit), die Abladung nicht vollständig bewirkt, so ist der Verfrachter befugt, sofern der Befrachter nicht von dem Vertrag zurücktritt, die Reise anzutreten und die in § 578 bezeichneten Forderungen geltend zu machen.
-
-### § 580
-
-(1) Der Befrachter kann vor dem Antritt der Reise, sei diese eine einfache oder eine zusammengesetzte, von dem Vertrag unter der Verpflichtung zurücktreten, die Hälfte der bedungenen Fracht als Fautfracht zu zahlen.
-
-(2) Im Sinne dieser Vorschrift wird die Reise schon dann als angetreten erachtet:
-
-1.  
-wenn der Befrachter den Kapitän bereits abgefertigt hat;
-
-2.  
-wenn er die Ladung bereits ganz oder zu einem Teil geliefert hat und die Wartezeit verstrichen ist.
-
-### § 581
-
-(1) Macht der Befrachter von dem in § 580 bezeichneten Recht Gebrauch, nachdem Ladung geliefert ist, so hat er auch die Kosten der Einladung und Wiederausladung zu tragen und für die Zeit der Wiederausladung, soweit sie nicht in die Ladezeit fällt, Liegegeld (§ 572) zu zahlen. Die Wiederausladung ist mit möglichster Beschleunigung zu bewirken.
-
-(2) Der Verfrachter ist verpflichtet, den Aufenthalt, den die Wiederausladung verursacht, selbst dann sich gefallen zu lassen, wenn dadurch die Wartezeit überschritten wird. Für die Zeit nach dem Ablauf der Wartezeit hat er Anspruch auf Liegegeld und auf Ersatz des durch die Überschreitung der Wartezeit entstandenen Schadens, soweit der letztere den Betrag dieses Liegegelds übersteigt.
-
-### § 582
-
-(1) Nachdem die Reise im Sinne des § 580 angetreten ist, kann der Befrachter nur gegen Berichtigung der vollen Fracht sowie aller sonstigen Forderungen des Verfrachters (§ 614) und gegen Berichtigung oder Sicherstellung der in § 615 bezeichneten Forderungen von dem Vertrag zurücktreten und die Wiederausladung der Güter fordern.
-
-(2) Im Falle der Wiederausladung hat der Befrachter nicht nur die hierdurch entstehenden Mehrkosten, sondern auch den Schaden zu ersetzen, welcher aus dem durch die Wiederausladung verursachten Aufenthalt dem Verfrachter entsteht.
-
-(3) Zum Zwecke der Wiederausladung der Güter die Reise zu ändern oder einen Hafen anzulaufen, ist der Verfrachter nicht verpflichtet.
-
-### § 583
-
-Der Befrachter ist statt der vollen Fracht nur zwei Dritteile als Fautfracht zu zahlen verpflichtet, wenn das Schiff zugleich auf Rückladung verfrachtet ist oder in Ausführung des Vertrags zur Einnahme der Ladung eine Fahrt aus einem anderen Hafen zu machen hat und in diesen beiden Fällen der Rücktritt früher erklärt wird, als die Rückreise oder die Reise aus dem Abladungshafen im Sinne des § 580 angetreten ist.
-
-### § 584
-
-(1) Bei anderen zusammengesetzten Reisen erhält der Verfrachter, wenn der Befrachter den Rücktritt erklärt, bevor in bezug auf den letzten Reiseabschnitt die Reise im Sinne des § 580 angetreten ist, als Fautfracht zwar die volle Fracht, es kommt von dieser jedoch ein angemessener Bruchteil in Abzug, sofern die Umstände die Annahme begründen, daß der Verfrachter infolge der Aufhebung des Vertrags Kosten erspart und Gelegenheit zu anderweitigem Frachtverdienst gehabt habe.
-
-(2) Der Abzug darf in keinem Fall die Hälfte der Fracht übersteigen.
-
-### § 585
-
-Liefert der Befrachter bis zum Ablauf der Wartezeit keine Ladung, so ist der Verfrachter an seine Verpflichtungen aus dem Vertrag nicht länger gebunden und befugt, gegen den Befrachter dieselben Ansprüche geltend zu machen, welche ihm zugestanden haben würden, wenn der Befrachter von dem Vertrag zurückgetreten wäre (§§ 580, 583 und 584).
-
-### § 586
-
-(1) Auf die Fautfracht wird die Fracht, welche der Verfrachter für andere Ladungsgüter erhält, nicht angerechnet. Die Vorschrift des § 584 Abs. 1 bleibt unberührt.
-
-(2) Der Anspruch des Verfrachters auf Fautfracht ist nicht davon abhängig, daß er die im Vertrag bezeichnete Reise ausführt.
-
-(3) Durch die Fautfracht werden die Ansprüche des Verfrachters auf Liegegeld und die übrigen ihm etwa zustehenden Forderungen (§ 614) nicht ausgeschlossen.
-
-### § 587
-
-Ist ein verhältnismäßiger Teil oder ein bestimmt bezeichneter Raum des Schiffes verfrachtet, so gelten die Vorschriften der §§ 567 bis 586 mit folgenden Abweichungen:
-
-1.  
-Der Verfrachter erhält in den Fällen, in denen er sich nach diesen Vorschriften mit einem Teil der Fracht begnügen müßte, als Fautfracht die volle Fracht, es sei denn, daß sämtliche Befrachter zurücktreten oder keine Ladung liefern.Von der vollen Fracht kommt jedoch die Fracht für diejenigen Güter in Abzug, welche der Verfrachter an Stelle der nicht gelieferten annimmt.
-
-2.  
-In den Fällen der §§ 581 und 582 kann der Befrachter die Wiederausladung nicht verlangen, wenn sie eine Verzögerung der Reise zur Folge haben oder eine Umladung nötig machen würde, es sei denn, daß alle übrigen Befrachter zustimmen. Außerdem ist der Befrachter verpflichtet, sowohl die Kosten als auch den Schaden zu ersetzen, welche durch die Wiederausladung entstehen.Machen sämtliche Befrachter von dem Recht des Rücktritts Gebrauch, so hat es bei den Vorschriften der §§ 581 und 582 sein Bewenden.
-
-### § 588
-
-(1) Hat der Frachtvertrag Stückgüter zum Gegenstand, so muß der Befrachter auf die Aufforderung des Kapitäns ohne Verzug die Abladung bewirken.
-
-(2) Ist der Befrachter säumig, so ist der Verfrachter nicht verpflichtet, auf die Lieferung der Güter zu warten; der Befrachter muß, wenn die Reise ohne die Güter angetreten wird, gleichwohl die volle Fracht entrichten. Es kommt von der letzteren jedoch die Fracht für diejenigen Güter in Abzug, welche der Verfrachter an Stelle der nicht gelieferten annimmt.
-
-(3) Der Verfrachter, der den Anspruch auf die Fracht gegen den säumigen Befrachter geltend machen will, ist bei Verlust des Anspruchs verpflichtet, dies dem Befrachter vor der Abreise kundzugeben. Auf diese Erklärung finden die Vorschriften des § 571 Anwendung.
-
-### § 589
-
-(1) Nach der Abladung kann der Befrachter auch gegen Berichtigung der vollen Fracht sowie aller sonstigen Forderungen des Verfrachters (§ 614) und gegen Berichtigung oder Sicherstellung der in § 615 bezeichneten Forderungen nur nach Maßgabe des § 587 Nr. 2 Abs. 1 von dem Vertrag zurücktreten und die Wiederausladung der Güter fordern.
-
-(2) Die Vorschrift des § 582 Abs. 3 findet Anwendung.
-
-### § 590
-
-Ist ein Schiff auf Stückgüter angelegt und die Zeit der Abreise nicht festgesetzt, so hat auf Antrag des Befrachters der Richter nach den Umständen des Falles den Zeitpunkt zu bestimmen, über welchen hinaus der Antritt der Reise nicht verschoben werden darf.
-
-### § 591
-
-Bei jeder Art von Frachtvertrag hat der Befrachter innerhalb der Zeit, binnen welcher die Güter zu liefern sind, dem Kapitän zugleich alle zur Verschiffung der Güter erforderlichen Papiere zuzustellen.
-
-### § 592
-
-(1) Der Kapitän hat zur Löschung der Ladung das Schiff an den Platz hinzulegen, der ihm von demjenigen, an welchen die Ladung abzuliefern ist (Empfänger), oder, wenn die Ladung an mehrere Empfänger abzuliefern ist, von sämtlichen Empfängern angewiesen wird.
-
-(2) Erfolgt die Anweisung nicht rechtzeitig oder wird nicht von sämtlichen Empfängern derselbe Platz angewiesen oder gestatten die Wassertiefe, die Sicherheit des Schiffes oder die örtlichen Verordnungen oder Einrichtungen die Befolgung der Anweisung nicht, so hat der Kapitän an dem ortsüblichen Löschungsplatz anzulegen.
-
-### § 593
-
-Sofern nicht durch Vertrag oder durch die örtlichen Verordnungen des Löschungshafens und in deren Ermangelung durch einen daselbst bestehenden Ortsgebrauch ein anderes bestimmt ist, werden die Kosten der Ausladung aus dem Schiff von dem Verfrachter, alle übrigen Kosten der Löschung von dem Ladungsempfänger getragen.
-
-### § 594
-
-(1) Bei der Verfrachtung eines Schiffes im ganzen hat der Kapitän, sobald er zum Löschen fertig und bereit ist, dies dem Empfänger anzuzeigen.
-
-(2) Ist der Empfänger dem Kapitän unbekannt, so ist die Anzeige durch öffentliche Bekanntmachung in ortsüblicher Weise zu bewirken.
-
-(3) Mit dem auf die Anzeige folgenden Tag beginnt die Löschzeit.
-
-(4) Über die Löschzeit hinaus hat der Verfrachter nur dann auf die Abnahme der Ladung noch länger zu warten, wenn es vereinbart ist (Überliegezeit).
-
-(5) Für die Löschzeit kann, sofern nicht das Gegenteil bedungen ist, keine besondere Vergütung verlangt werden. Dagegen ist dem Verfrachter für die Überliegezeit eine Vergütung (Liegegeld) zu gewähren.
-
-(6) In Ansehung der Höhe des Liegegelds finden die Vorschriften des § 572 Anwendung.
-
-### § 595
-
-(1) Ist die Dauer der Löschzeit durch Vertrag nicht festgesetzt, so wird sie durch die örtlichen Verordnungen des Löschungshafens und in deren Ermangelung durch den daselbst bestehenden Ortsgebrauch bestimmt. Besteht auch ein solcher Ortsgebrauch nicht, so gilt als Löschzeit eine den Umständen des Falles angemessene Frist.
-
-(2) Ist eine Überliegezeit, nicht aber deren Dauer, durch Vertrag bestimmt, so beträgt die Überliegezeit vierzehn Tage.
-
-(3) Enthält der Vertrag nur die Festsetzung eines Liegegelds, so ist anzunehmen, daß eine Überliegezeit ohne Bestimmung der Dauer vereinbart sei.
-
-### § 596
-
-(1) Ist die Dauer der Löschzeit oder der Tag, mit welchem die Löschzeit enden soll, durch Vertrag bestimmt, so beginnt die Überliegezeit ohne weiteres mit dem Ablauf der Löschzeit.
-
-(2) In Ermangelung einer solchen vertragsmäßigen Bestimmung beginnt die Überliegezeit erst, nachdem der Verfrachter dem Empfänger erklärt hat, daß die Löschzeit abgelaufen sei. Der Verfrachter kann schon innerhalb der Löschzeit dem Empfänger erklären, an welchem Tag er die Löschzeit für abgelaufen halte. In diesem Fall ist zum Ablauf der Löschzeit und zum Beginn der Überliegezeit eine neue Erklärung des Verfrachters nicht erforderlich.
-
-(3) Auf die in Absatz 2 erwähnten Erklärungen des Verfrachters finden die Vorschriften des § 571 Anwendung.
-
-### § 597
-
-(1) Bei der Berechnung der Lösch- und Überliegezeit werden die Tage in ununterbrochen fortlaufender Reihenfolge gezählt; insbesondere kommen in Ansatz die Sonntage und die Feiertage sowie diejenigen Tage, an welchen der Empfänger durch Zufall die Ladung abzunehmen verhindert ist.
-
-(2) Nicht in Ansatz kommen jedoch die Tage, an denen durch Wind und Wetter oder durch irgendeinen anderen Zufall entweder
-
-1.  
-die Beförderung nicht nur der im Schiff befindlichen, sondern jeder Art von Ladung von dem Schiff an das Land oder
-
-2.  
-die Ausladung aus dem Schiff
-
-verhindert ist.
-
-### § 598
-
-Für die Tage, die der Verfrachter wegen der Verhinderung der Beförderung jeder Art von Ladung von dem Schiff an das Land länger warten muß, gebührt ihm Liegegeld, selbst wenn die Verhinderung während der Löschzeit eintritt. Dagegen ist für die Tage, die er wegen Verhinderung der Ausladung aus dem Schiff länger warten muß, Liegegeld nicht zu entrichten, selbst wenn die Verhinderung während der Überliegezeit eintritt.
-
-### § 599
-
-Sind für die Dauer der Löschzeit nach § 595 die örtlichen Verordnungen oder der Ortsgebrauch maßgebend, so kommen bei der Berechnung der Löschzeit die Vorschriften der §§ 597 und 598 nur insoweit zur Anwendung, als die örtlichen Verordnungen oder der Ortsgebrauch nichts Abweichendes bestimmen.
-
-### § 600
-
-Hat sich der Verfrachter ausbedungen, daß die Löschung bis zu einem bestimmten Tag beendigt sein muß, so wird er durch die Verhinderung der Beförderung jeder Art von Ladung von dem Schiff an das Land (§ 597 Abs. 2 Nr. 1) zum längeren Warten nicht verpflichtet.
-
-### § 601
-
-(1) Wenn sich der Empfänger zur Abnahme der Güter bereit erklärt, die Abnahme aber über die von ihm einzuhaltenden Fristen verzögert, so ist der Kapitän befugt, die Güter unter Benachrichtigung des Empfängers in einem öffentlichen Lagerhaus oder sonst in sicherer Weise zu hinterlegen.
-
-(2) Der Kapitän ist verpflichtet, in dieser Weise zu verfahren und zugleich den Befrachter davon in Kenntnis zu setzen, wenn der Empfänger die Annahme der Güter verweigert oder sich über die Annahme auf die in § 594 vorgeschriebene Anzeige nicht erklärt oder wenn der Empfänger nicht zu ermitteln ist.
-
-### § 602
-
-Soweit durch die Säumnis des Empfängers oder durch das Hinterlegungsverfahren die Löschzeit ohne Verschulden des Kapitäns überschritten wird, hat der Verfrachter Anspruch auf Liegegeld (§ 594), unbeschadet des Rechtes, für diese Zeit, soweit sie keine vertragsmäßige Überliegezeit ist, einen höheren Schaden geltend zu machen.
-
-### § 603
-
-Die Vorschriften der §§ 594 bis 602 kommen auch zur Anwendung, wenn ein verhältnismäßiger Teil oder ein bestimmt bezeichneter Raum des Schiffes verfrachtet ist.
-
-### § 604
-
-(1) Stückgüter hat der Empfänger auf die Aufforderung des Kapitäns ohne Verzug abzunehmen. Ist der Empfänger dem Kapitän unbekannt, so ist die Aufforderung durch öffentliche Bekanntmachung in ortsüblicher Weise zu bewirken.
-
-(2) In Ansehung des Rechtes und der Verpflichtung des Kapitäns, die Güter zu hinterlegen, gelten die Vorschriften des § 601. Die in § 601 vorgeschriebene Benachrichtigung des Befrachters kann durch öffentliche, in ortsüblicher Weise zu bewirkende Bekanntmachung erfolgen.
-
-(3) Für die Tage, um welche durch die Säumnis des Empfängers oder durch das Hinterlegungsverfahren die Frist, binnen welcher das Schiff würde entlöscht worden sein, überschritten ist, hat der Verfrachter Anspruch auf Liegegeld (§ 594), unbeschadet des Rechtes, einen höheren Schaden geltend zu machen.
-
-### § 605
-
-Hat bei der Verfrachtung des Schiffes im ganzen oder eines verhältnismäßigen Teiles oder eines bestimmt bezeichneten Raumes des Schiffes der Befrachter Unterfrachtverträge über Stückgüter geschlossen, so bleiben für die Rechte und Pflichten des ursprünglichen Verfrachters die Vorschriften der §§ 594 bis 602 maßgebend.
-
-### § 606
-
-Der Verfrachter ist verpflichtet, beim Einladen, Stauen, Befördern, Behandeln und Ausladen der Güter mit der Sorgfalt eines ordentlichen Verfrachters zu verfahren. Er haftet für den Schaden, der durch Verlust oder Beschädigung der Güter in der Zeit von der Annahme bis zur Ablieferung entsteht, es sei denn, daß der Verlust oder die Beschädigung auf Umständen beruht, die durch die Sorgfalt eines ordentlichen Verfrachters nicht abgewendet werden konnten.
-
-### § 607
-
-(1) Der Verfrachter hat ein Verschulden seiner Leute und der Schiffsbesatzung in gleichem Umfang zu vertreten wie eigenes Verschulden.
-
-(2) Ist der Schaden durch ein Verhalten bei der Führung oder der sonstigen Bedienung des Schiffes oder durch Feuer entstanden, so hat der Verfrachter nur sein eigenes Verschulden zu vertreten. Zur Bedienung des Schiffes gehören nicht solche Maßnahmen, die überwiegend im Interesse der Ladung getroffen werden.
-
-### § 607a
-
-(1) Die in diesem Abschnitt vorgesehenen Haftungsbefreiungen und Haftungsbeschränkungen gelten für jeden Anspruch gegen den Verfrachter auf Ersatz des Schadens wegen Verlusts oder Beschädigung von Gütern, die Gegenstand eines Frachtvertrages sind, auf welchem Rechtsgrund der Anspruch auch beruht.
-
-(2) Wird ein Anspruch auf Ersatz des Schadens wegen Verlusts oder Beschädigung von Gütern, die Gegenstand eines Frachtvertrages sind, gegen einen der Leute des Verfrachters oder eine Person der Schiffsbesatzung geltend gemacht, so kann diese Person sich auf die Haftungsbefreiungen und Haftungsbeschränkungen berufen, die in diesem Abschnitt für den Verfrachter vorgesehen sind.
-
-(3) Der Gesamtbetrag, der in diesem Falle von dem Verfrachter, seinen Leuten und den Personen der Schiffsbesatzung als Ersatz zu leisten ist, darf den in diesem Abschnitt vorgesehenen Haftungshöchstbetrag nicht übersteigen.
-
-(4) Ist der Schaden jedoch auf eine Handlung oder Unterlassung zurückzuführen, die einer der Leute des Verfrachters oder eine Person der Schiffsbesatzung in der Absicht, einen Schaden herbeizuführen, oder leichtfertig und in dem Bewußtsein begangen hat, daß ein Schaden mit Wahrscheinlichkeit eintreten werde, so kann diese Person sich auf die Haftungsbefreiungen und Haftungsbeschränkungen, die in diesem Abschnitt für den Verfrachter vorgesehen sind, nicht berufen.
-
-### § 608
-
-(1) Der Verfrachter haftet nicht für Schäden, die entstehen:
-
-1.  
-aus Gefahren oder Unfällen der See oder anderer schiffbarer Gewässer;
-
-2.  
-aus kriegerischen Ereignissen, Unruhen, Handlungen öffentlicher Feinde oder Verfügungen von hoher Hand sowie aus Quarantänebeschränkungen;
+Unterlassen der Mitteilung über die Gefährlichkeit des Gutes,
 
 3.  
-aus gerichtlicher Beschlagnahme;
+ungenügende Verpackung oder Kennzeichnung oder
 
 4.  
-aus Streik, Aussperrung oder einer sonstigen Arbeitsbehinderung;
+Fehlen, Unvollständigkeit oder Unrichtigkeit der in § 487 Absatz 1 genannten Urkunden oder Auskünfte.
 
-5.  
-aus Handlungen oder Unterlassungen des Abladers oder Eigentümers des Gutes, seiner Agenten oder Vertreter;
+Der Befrachter ist jedoch von seiner Haftung befreit, wenn er die Pflichtverletzung nicht zu vertreten hat.
 
-6.  
-aus der Rettung oder dem Versuch der Rettung von Leben oder Eigentum zur See;
+(2) Macht der in § 482 Absatz 2 genannte Dritte unrichtige oder unvollständige Angaben bei der Abladung oder unterlässt er es, den Verfrachter über die Gefährlichkeit des Gutes zu unterrichten, so kann der Verfrachter auch von diesem Ersatz der hierdurch verursachten Schäden und Aufwendungen verlangen. Dies gilt nicht, wenn der Dritte die Pflichtverletzung nicht zu vertreten hat.
 
-7.  
-aus Schwund an Raumgehalt oder Gewicht oder aus verborgenen Mängeln oder der eigentümlichen natürlichen Art oder Beschaffenheit des Gutes.
-
-(2) Ist ein Schaden eingetreten, der nach den Umständen des Falles aus einer der in Absatz 1 bezeichneten Gefahren entstehen konnte, so wird vermutet, daß der Schaden aus dieser Gefahr entstanden ist.
-
-(3) Die Haftungsbefreiung tritt nicht ein, wenn nachgewiesen wird, daß der Eintritt der Gefahr auf einem Umstand beruht, den der Verfrachter zu vertreten hat.
-
-### § 609
-
-Der Verfrachter ist von jeder Haftung frei, wenn der Befrachter oder der Ablader wissentlich bewirkt hat, daß die Art oder der Wert des Gutes im Konnossement falsch angegeben ist.
-
-### § 610
-
-Bevor der Empfänger die Güter übernimmt, kann er und der Kapitän, um den Zustand der Güter oder um deren Maß, Zahl oder Gewicht festzustellen, sie durch die zuständige Behörde oder durch die hierzu amtlich bestellten Sachverständigen besichtigen lassen. Die Gegenpartei ist, soweit tunlich, zuzuziehen.
-
-### § 611
-
-(1) Ein Verlust oder eine Beschädigung der Güter ist dem Verfrachter oder seinem Vertreter im Löschungshafen spätestens bei der Auslieferung der Güter an den schriftlich anzuzeigen, der nach dem Frachtvertrag zum Empfang der Güter berechtigt ist. War der Verlust oder die Beschädigung äußerlich nicht erkennbar, so genügt es, wenn die Anzeige innerhalb von drei Tagen nach diesem Zeitpunkt abgesandt wird. In der Anzeige ist der Verlust oder die Beschädigung allgemein zu kennzeichnen.
-
-(2) Der Anzeige bedarf es nicht, wenn der Zustand der Güter oder deren Maß, Zahl oder Gewicht spätestens in dem in Absatz 1 Satz 1 genannten Zeitpunkt unter Zuziehung beider Parteien durch die zuständige Behörde oder durch die hierzu amtlich bestellten Sachverständigen festgestellt worden ist.
-
-(3) Ist ein Verlust oder eine Beschädigung der Güter weder angezeigt noch festgestellt worden, so wird vermutet, daß der Verfrachter die Güter so abgeliefert hat, wie sie im Konnossement beschrieben sind, und daß, falls ein Verlust oder eine Beschädigung der Güter nachgewiesen ist, dieser Schaden auf einem Umstand beruht, den der Verfrachter nicht zu vertreten hat.
-
-### § 612
-
-(1) Ansprüche aus Frachtverträgen sowie aus Konnossementen, die den Vorschriften dieses Abschnitts unterliegen, verjähren in einem Jahr seit der Auslieferung der Güter (§ 611 Abs. 1 Satz 1) oder seit dem Zeitpunkt, zu dem sie hätten ausgeliefert werden müssen.
-
-(2) Rückgriffsansprüche können auch nach Ablauf der in Absatz 1 bestimmten Jahresfrist gerichtlich geltend gemacht werden, sofern die Klage innerhalb von drei Monaten seit dem Tage erhoben wird, an dem derjenige, der den Rückgriffsanspruch geltend macht, den Anspruch befriedigt hat oder an dem ihm die Klage zugestellt worden ist.
-
-### § 613
-
-(1) Die Kosten der Besichtigung trägt der Antragsteller.
-
-(2) Ist die Besichtigung von dem Empfänger beantragt und wird ein Verlust oder eine Beschädigung ermittelt, wofür der Verfrachter Ersatz zu leisten hat, so fallen diesem die Kosten zur Last.
-
-### § 614
-
-(1) Durch die Annahme der Güter wird der Empfänger verpflichtet, nach Maßgabe des Frachtvertrags oder des Konnossements, auf deren Grund die Empfangnahme geschieht, die Fracht nebst allen Nebengebühren sowie das etwaige Liegegeld zu bezahlen, die ausgelegten Zölle und übrigen Auslagen zu erstatten und die ihm sonst obliegenden Verpflichtungen zu erfüllen.
-
-(2) Der Verfrachter hat die Güter gegen Zahlung der Fracht und gegen Erfüllung der übrigen Verpflichtungen des Empfängers auszuliefern.
-
-### § 615
-
-Der Verfrachter ist nicht verpflichtet, die Güter auszuliefern, bevor die darauf haftenden Beiträge zur großen Haverei, Bergelohn einschließlich Bergungskosten bezahlt oder sichergestellt sind.
-
-### § 616
-
-(1) Der Verfrachter ist nicht verpflichtet, die Güter, mögen sie verdorben oder beschädigt sein oder nicht, für die Fracht an Zahlungs Statt anzunehmen.
-
-(2) Sind jedoch Behältnisse, die mit flüssigen Waren angefüllt waren, während der Reise ganz oder zum größeren Teil ausgelaufen, so können sie dem Verfrachter für die Fracht und seine übrigen Forderungen (§ 614) an Zahlungs Statt überlassen werden.
-
-(3) Durch die Vereinbarung, daß der Verfrachter nicht für Leckage haftet, oder durch die Klausel: "frei von Leckage" wird dieses Recht nicht ausgeschlossen. Das Recht erlischt, sobald die Behältnisse in den Gewahrsam des Abnehmers gelangt sind.
-
-(4) Ist die Fracht in Bausch und Bogen bedungen und sind nur einige Behältnisse ganz oder zum größeren Teil ausgelaufen, so können diese für einen verhältnismäßigen Teil der Fracht und der übrigen Forderungen des Verfrachters an Zahlungs Statt überlassen werden.
-
-### § 617
-
-(1) Für Güter, die durch irgendeinen Unfall verlorengegangen sind, ist keine Fracht zu bezahlen und die etwa vorausbezahlte zu erstatten, sofern nicht das Gegenteil bedungen ist.
-
-(2) Diese Vorschrift kommt auch zur Anwendung, wenn das Schiff im ganzen oder ein verhältnismäßiger oder ein bestimmt bezeichneter Raum des Schiffes verfrachtet ist. Sofern in einem solchen Fall das Frachtgeld in Bausch und Bogen bedungen ist, berechtigt der Verlust eines Teiles der Güter zu einem verhältnismäßigen Abzug von der Fracht.
-
-### § 618
-
-(1) Ungeachtet der nicht erfolgten Ablieferung ist die Fracht zu zahlen für Güter, deren Verlust infolge ihrer natürlichen Beschaffenheit, namentlich durch inneren Verderb, Schwinden, gewöhnliche Leckage, eingetreten ist, sowie für Tiere, die unterwegs gestorben sind.
-
-(2) Inwiefern die Fracht für Güter zu ersetzen ist, die in Fällen der großen Haverei aufgeopfert worden sind, wird durch die Vorschriften über die große Haverei bestimmt.
-
-### § 619
-
-(1) Für Güter, die ohne Abrede über die Höhe der Fracht zur Beförderung übernommen sind, ist die am Abladungsort zur Abladungszeit übliche Fracht zu zahlen.
-
-(2) Für Güter, die über das mit dem Befrachter vereinbarte Maß hinaus zur Beförderung übernommen sind, ist die Fracht nach dem Verhältnis der bedungenen Fracht zu zahlen.
-
-### § 620
-
-Ist die Fracht nach Maß, Gewicht oder Menge der Güter bedungen, so ist im Zweifel anzunehmen, daß Maß, Gewicht oder Menge der abgelieferten und nicht der einlieferten Güter für die Höhe der Fracht entscheiden soll.
-
-### § 621
-
-(1) Außer der Fracht können Kaplaken, Prämien und dergleichen nicht gefordert werden, sofern sie nicht ausbedungen sind.
-
-(2) Die gewöhnlichen und ungewöhnlichen Kosten der Schiffahrt, wie Lotsengeld, Hafengeld, Leuchtfeuergeld, Schlepplohn, Quarantänegelder, Auseisungskosten und dergleichen, fallen in Ermangelung einer entgegenstehenden Abrede dem Verfrachter allein zur Last, selbst wenn er zu den Maßregeln, welche die Auslagen verursacht haben, auf Grund des Frachtvertrags nicht verpflichtet war.
-
-(3) Die Fälle der großen Haverei sowie die Fälle der Aufwendung von Kosten zur Erhaltung, Bergung und Rettung der Ladung werden durch die Vorschriften des Absatzes 2 nicht berührt.
-
-### § 622
-
-(1) Ist die Fracht nach Zeit bedungen, so beginnt sie in Ermangelung einer anderen Abrede mit dem Tag zu laufen, der auf denjenigen folgt, an welchem der Kapitän anzeigt, daß er zur Einnahme der Ladung, oder bei einer Reise in Ballast, daß er zum Antritt der Reise fertig und bereit sei, sofern aber bei einer Reise in Ballast diese Anzeige am Tag vor dem Antritt der Reise noch nicht erfolgt ist, mit dem Tag, an welchem die Reise angetreten wird.
-
-(2) Ist Liegegeld oder Überliegezeit bedungen, so beginnt in allen Fällen die Zeitfracht erst mit dem Tag zu laufen, an welchem der Antritt der Reise erfolgt.
-
-(3) Die Zeitfracht endet mit dem Tag, an welchem die Löschung vollendet ist.
-
-(4) Wird die Reise ohne Verschulden des Verfrachters verzögert oder unterbrochen, so muß für die Zwischenzeit die Zeitfracht fortentrichtet werden, jedoch unbeschadet der Vorschriften der §§ 637 und 638.
-
-### § 623
-
-(1) Der Verfrachter hat wegen der in § 614 erwähnten Forderungen ein Pfandrecht an den Gütern.
-
-(2) Das Pfandrecht besteht, solange die Güter zurückbehalten oder hinterlegt sind; es dauert auch nach der Ablieferung fort, sofern es binnen dreißig Tagen nach der Beendigung der Ablieferung gerichtlich geltend gemacht wird und das Gut noch im Besitz des Empfängers ist.
-
-(3) Die nach § 366 Abs. 3 und § 368 für das Pfandrecht des Frachtführers geltenden Vorschriften finden auch auf das Pfandrecht des Verfrachters Anwendung.
-
-(4) Die in § 1234 Abs. 1 des Bürgerlichen Gesetzbuchs bezeichnete Androhung des Pfandverkaufs sowie die in den §§ 1237 und 1241 des Bürgerlichen Gesetzbuchs vorgesehenen Benachrichtigungen sind an den Empfänger zu richten. Ist dieser nicht zu ermitteln oder verweigert er die Annahme des Gutes, so hat die Androhung und Benachrichtigung gegenüber dem Absender zu erfolgen.
-
-### § 624
-
-(1) Im Falle des Streites über die Forderungen des Verfrachters ist dieser zur Auslieferung der Güter verpflichtet, sobald die streitige Summe öffentlich hinterlegt ist.
-
-(2) Nach der Ablieferung der Güter ist der Verfrachter zur Erhebung der hinterlegten Summe gegen angemessene Sicherheitsleistung berechtigt.
-
-### § 625
-
-Hat der Verfrachter die Güter ausgeliefert, so kann er sich wegen der gegen den Empfänger ihm zustehenden Forderungen (§ 614) nicht an dem Befrachter erholen. Nur soweit sich der Befrachter mit dem Schaden des Verfrachters bereichern würde, findet ein Rückgriff statt.
-
-### § 626
-
-Hat der Verfrachter die Güter nicht ausgeliefert und von dem Recht des Pfandverkaufs Gebrauch gemacht, jedoch durch den Verkauf seine vollständige Befriedigung nicht erhalten, so kann er sich an dem Befrachter erholen, soweit er wegen seiner Forderungen aus dem zwischen ihm und dem Befrachter abgeschlossenen Frachtvertrag nicht befriedigt ist.
-
-### § 627
-
-(1) Werden die Güter vom Empfänger nicht abgenommen, so ist der Befrachter verpflichtet, den Verfrachter wegen der Fracht und der übrigen Forderungen dem Frachtvertrag gemäß zu befriedigen.
-
-(2) Bei der Abnahme der Güter durch den Befrachter kommen die Vorschriften der §§ 592 bis 624 und der §§ 658 bis 661 mit der Maßgabe zur Anwendung, daß an die Stelle des Empfängers der Befrachter tritt. Insbesondere steht in einem solchen Fall dem Verfrachter wegen seiner Forderungen das Zurückbehaltungs- und Pfandrecht an den Gütern nach den Vorschriften der §§ 623 und 624 sowie das in § 615 bezeichnete Recht zu.
-
-### § 628
-
-(1) Der Frachtvertrag tritt außer Kraft, ohne daß ein Teil zur Entschädigung des anderen verpflichtet ist, wenn vor dem Antritt der Reise durch einen Zufall:
+(3) Wird ein Konnossement ausgestellt, so haben der Befrachter und der Ablader (§ 513 Absatz 2), auch wenn sie kein Verschulden trifft, dem Verfrachter Schäden und Aufwendungen zu ersetzen, die verursacht werden durch
 
 1.  
-das Schiff verlorengeht, insbesondere
-
-  
-wenn es verunglückt,wenn es als reparaturunfähig oder reparaturunwürdig kondemniert (§ 479) und in dem letzteren Fall unverzüglich öffentlich verkauft wird,wenn es geraubt wird,wenn es aufgebracht oder angehalten und für gute Prise erklärt wird,oder
+Unrichtigkeit oder Unvollständigkeit der in das Konnossement aufgenommenen Angaben nach § 515 Absatz 1 Nummer 8 über Maß, Zahl oder Gewicht sowie über Merkzeichen des Gutes oder
 
 2.  
-die im Frachtvertrag nicht bloß nach Art oder Gattung, sondern speziell bezeichneten Güter verlorengehen,
+Unterlassen der Mitteilung über die Gefährlichkeit des Gutes.
 
-  
-oder
+Jeder von ihnen haftet jedoch dem Verfrachter nur für die Schäden und Aufwendungen, die aus der Unrichtigkeit oder Unvollständigkeit seiner jeweiligen Angaben entstehen.
 
-3.  
-die nicht im Frachtvertrag speziell bezeichneten Güter verlorengehen, nachdem sie bereits an Bord gebracht oder behufs der Einladung in das Schiff an der Ladungsstelle vom Kapitän übernommen worden sind.
+(4) Hat bei der Verursachung der Schäden oder Aufwendungen ein Verhalten des Verfrachters mitgewirkt, so hängen die Verpflichtung des Befrachters und des Abladers nach Absatz 3 zum Ersatz sowie der Umfang des zu leistenden Ersatzes davon ab, inwieweit dieses Verhalten zu den Schäden und Aufwendungen beigetragen hat.
 
-(2) Gehen im Falle des Absatzes 1 Nr. 3 die Güter noch innerhalb der Wartezeit (§ 579) verloren, so tritt der Vertrag nicht außer Kraft, sofern der Befrachter sich unverzüglich bereit erklärt, statt der verlorengegangenen andere Güter (§ 562) zu liefern, und mit der Lieferung noch innerhalb der Wartezeit beginnt. Er hat die Abladung der anderen Güter binnen kürzester Frist zu vollenden, die Mehrkosten dieser Abladung zu tragen und, soweit durch sie die Wartezeit überschritten wird, den dem Verfrachter daraus entstehenden Schaden zu ersetzen.
+(5) Eine Vereinbarung, durch die die Haftung nach Absatz 1, 2 oder 3 ausgeschlossen wird, ist nur wirksam, wenn sie im Einzelnen ausgehandelt wird, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen wird. Abweichend von Satz 1 kann jedoch die vom Befrachter oder Ablader zu leistende Entschädigung der Höhe nach auch durch vorformulierte Vertragsbedingungen beschränkt werden.
 
-### § 629
+### § 489 Kündigung durch den Befrachter
 
-(1) Jeder Teil ist befugt, von dem Vertrag zurückzutreten, ohne zur Entschädigung verpflichtet zu sein:
+(1) Der Befrachter kann den Stückgutfrachtvertrag jederzeit kündigen.
+
+(2) Kündigt der Befrachter, so kann der Verfrachter Folgendes verlangen:
 
 1.  
-wenn vor dem Antritt der Reise
-
-  
-das Schiff mit Embargo belegt oder für den Dienst des *Reichs* oder einer fremden Macht in Beschlag genommen,der Handel mit dem Bestimmungsort untersagt,der Abladungs- oder Bestimmungshafen blockiert,die Ausfuhr der nach dem Frachtvertrag zu verschiffenden Güter aus dem Abladungshafen oder ihre Einfuhr in den Bestimmungshafen verboten,durch eine andere Verfügung von hoher Hand das Schiff am Auslaufen oder die Reise oder die Versendung der nach dem Frachtvertrag zu liefernden Güter verhindert wird.
-
-In allen diesen Fällen berechtigt jedoch die Verfügung von hoher Hand nur dann zum Rücktritt, wenn das eingetretene Hindernis nicht voraussichtlich von nur unerheblicher Dauer ist;
+die vereinbarte Fracht sowie zu ersetzende Aufwendungen unter Anrechnung dessen, was der Verfrachter infolge der Aufhebung des Vertrags an Aufwendungen erspart oder anderweitig erwirbt oder zu erwerben böswillig unterlässt, oder
 
 2.  
-wenn vor dem Antritt der Reise ein Krieg ausbricht, infolgedessen das Schiff oder die nach dem Frachtvertrag zu verschiffenden Güter oder beide nicht mehr als frei betrachtet werden können und der Gefahr der Aufbringung ausgesetzt würden.
+ein Drittel der vereinbarten Fracht (Fautfracht).
 
-(2) Die Ausübung der in § 562 dem Befrachter erteilten Befugnis wird durch diese Vorschriften nicht ausgeschlossen.
+Beruht die Kündigung auf Gründen, die dem Risikobereich des Verfrachters zuzurechnen sind, so entfällt der Anspruch auf Fautfracht nach Satz 1 Nummer 2; in diesem Falle entfällt auch der Anspruch nach Satz 1 Nummer 1, soweit die Beförderung für den Befrachter nicht von Interesse ist.
 
-### § 630
+(3) Wurde vor der Kündigung bereits Gut verladen, so kann der Verfrachter auf Kosten des Befrachters Maßnahmen entsprechend § 492 Absatz 3 Satz 2 bis 4 ergreifen. Beruht die Kündigung auf Gründen, die dem Risikobereich des Verfrachters zuzurechnen sind, so sind abweichend von Satz 1 die Kosten vom Verfrachter zu tragen.
 
-(1) Geht das Schiff nach dem Antritt der Reise durch einen Zufall verloren (§ 628 Abs. 1 Nr. 1), so endet der Frachtvertrag. Jedoch hat der Befrachter, soweit Güter geborgen oder gerettet werden, die Fracht im Verhältnis der zurückgelegten zur ganzen Reise zu zahlen (Distanzfracht).
+### § 490 Rechte des Verfrachters bei säumiger Abladung
 
-(2) Die Distanzfracht ist nur soweit zu zahlen, als der gerettete Wert der Güter reicht.
+(1) Bewirkt der Befrachter die Abladung des Gutes nicht oder nicht vollständig innerhalb der vertraglich vereinbarten Zeit, so kann der Verfrachter dem Befrachter eine angemessene Frist setzen, innerhalb derer das Gut abgeladen werden soll.
 
-### § 631
+(2) Wird das Gut bis zum Ablauf der nach Absatz 1 gesetzten Frist nicht abgeladen oder ist offensichtlich, dass die Abladung innerhalb dieser Frist nicht bewirkt werden wird, so kann der Verfrachter den Vertrag kündigen und die Ansprüche nach § 489 Absatz 2 geltend machen.
 
-Bei der Berechnung der Distanzfracht kommt in Anschlag nicht allein das Verhältnis der bereits zurückgelegten zu der noch zurückzulegenden Entfernung, sondern auch das Verhältnis des Aufwands an Kosten und Zeit, der Gefahren und Mühen, welche durchschnittlich mit dem vollendeten Teil der Reise verbunden sind, zu denen des nicht vollendeten Teiles.
+(3) Wird das Gut bis zum Ablauf der nach Absatz 1 gesetzten Frist nur teilweise abgeladen, so kann der Verfrachter den bereits verladenen Teil des Gutes befördern und die volle Fracht sowie Ersatz der Aufwendungen verlangen, die ihm durch das Fehlen eines Teils des Gutes entstehen. Von der vollen Fracht ist jedoch die Fracht für die Beförderung desjenigen Gutes abzuziehen, welches der Verfrachter mit demselben Schiff anstelle des nicht verladenen Gutes befördert. Soweit dem Verfrachter durch das Fehlen eines Teils des Gutes die Sicherheit für die volle Fracht entgeht, kann er außerdem eine anderweitige Sicherheit verlangen.
 
-### § 632
+(4) Der Verfrachter kann die Rechte nach Absatz 2 oder 3 auch ohne Fristsetzung ausüben, wenn der Befrachter oder der in § 482 Absatz 2 genannte Dritte die Abladung ernsthaft und endgültig verweigert. Er kann ferner den Vertrag nach Absatz 2 auch ohne Fristsetzung kündigen, wenn besondere Umstände vorliegen, die ihm unter Abwägung der beiderseitigen Interessen die Fortsetzung des Vertragsverhältnisses unzumutbar machen.
 
-(1) Die Auflösung des Frachtvertrags ändert nichts in den Verpflichtungen des Kapitäns, bei Abwesenheit der Beteiligten auch nach dem Verlust des Schiffes für das Beste der Ladung zu sorgen (§§ 535 und 536).
+(5) Dem Verfrachter stehen die Rechte nicht zu, soweit das Gut aus Gründen, die dem Risikobereich des Verfrachters zuzurechnen sind, nicht innerhalb der vertraglich vereinbarten Zeit abgeladen wird.
 
-(2) Der Kapitän ist jedoch nicht verpflichtet, die Ladung auszuantworten oder zur Weiterbeförderung einem anderen Kapitän zu übergeben, bevor die Distanzfracht nebst den sonstigen Forderungen des Verfrachters (§ 614) und die auf der Ladung haftenden Beiträge zur großen Haverei, Bergelohn einschließlich Bergungskosten bezahlt oder sichergestellt sind.
+### § 491 Nachträgliche Weisungen
 
-(3) Für die Erfüllung der nach Absatz 1 dem Kapitän obliegenden Pflichten haftet auch der Verfrachter.
+(1) Soweit § 520 Absatz 1 nichts Abweichendes bestimmt, ist der Befrachter berechtigt, über das Gut zu verfügen. Er kann insbesondere verlangen, dass der Verfrachter das Gut nicht weiterbefördert, es zu einem anderen Bestimmungsort befördert oder es an einem anderen Löschplatz oder einem anderen Empfänger abliefert. Der Verfrachter ist nur insoweit zur Befolgung solcher Weisungen verpflichtet, als deren Ausführung weder Nachteile für den Betrieb seines Unternehmens noch Schäden für die Befrachter oder Empfänger anderer Sendungen mit sich zu bringen droht. Er kann vom Befrachter Ersatz seiner durch die Ausführung der Weisung entstehenden Aufwendungen sowie eine angemessene Vergütung verlangen; der Verfrachter kann die Befolgung der Weisung von einem Vorschuss abhängig machen.
 
-### § 633
+(2) Das Verfügungsrecht des Befrachters erlischt nach Ankunft des Gutes am Löschplatz. Von diesem Zeitpunkt an steht das Verfügungsrecht nach Absatz 1 dem Empfänger zu. Macht der Empfänger von diesem Recht Gebrauch, so hat er dem Verfrachter die dadurch entstehenden Aufwendungen zu ersetzen sowie eine angemessene Vergütung zu zahlen; der Verfrachter kann die Befolgung der Weisung von einem Vorschuss abhängig machen.
 
-Gehen nach dem Antritt der Reise die Güter durch einen Zufall verloren, so endet der Frachtvertrag, ohne daß ein Teil zur Entschädigung des anderen verpflichtet ist; insbesondere ist die Fracht weder ganz noch teilweise zu zahlen, sofern nicht in § 618 das Gegenteil bestimmt ist.
+(3) Ist ein Seefrachtbrief ausgestellt worden, so kann der Befrachter sein Verfügungsrecht nur gegen Vorlage der für ihn bestimmten Ausfertigung des Seefrachtbriefs ausüben, sofern dies darin vorgeschrieben ist.
 
-### § 634
+(4) Beabsichtigt der Verfrachter, eine ihm erteilte Weisung nicht zu befolgen, so hat er denjenigen, der die Weisung gegeben hat, unverzüglich zu benachrichtigen.
 
-(1) Ereignet sich nach dem Antritt der Reise einer der in § 629 erwähnten Zufälle, so ist jeder Teil befugt, von dem Vertrag zurückzutreten, ohne zur Entschädigung verpflichtet zu sein.
+(5) Ist die Ausübung des Verfügungsrechts von der Vorlage eines Seefrachtbriefs abhängig gemacht worden und führt der Verfrachter eine Weisung aus, ohne sich die Ausfertigung des Seefrachtbriefs vorlegen zu lassen, so haftet er dem Berechtigten für den daraus entstehenden Schaden. Die Haftung ist auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre. Eine Vereinbarung, durch die die Haftung erweitert oder weiter verringert wird, ist nur wirksam, wenn sie im Einzelnen ausgehandelt wird, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen wird.
 
-(2) Tritt jedoch einer der in § 629 Abs. 1 Nr. 1 bezeichneten Zufälle ein, so muß, bevor der Rücktritt stattfindet, auf die Beseitigung des Hindernisses drei oder fünf Monate gewartet werden, je nachdem sich das Schiff in einem europäischen oder in einem außereuropäischen Hafen befindet.
+### § 492 Beförderungs- und Ablieferungshindernisse
 
-(3) Die Frist wird, wenn der Kapitän das Hindernis während des Aufenthalts in einem Hafen erfährt, von dem Tag der erhaltenen Kunde, anderenfalls von dem Tag an berechnet, an welchem der Kapitän, nachdem er davon in Kenntnis gesetzt worden ist, mit dem Schiff zuerst einen Hafen erreicht.
+(1) Wird nach Übernahme des Gutes erkennbar, dass die Beförderung oder Ablieferung nicht vertragsgemäß durchgeführt werden kann, so hat der Verfrachter Weisungen des nach § 491 oder § 520 Verfügungsberechtigten einzuholen. Ist der Empfänger verfügungsberechtigt und ist er nicht zu ermitteln oder verweigert er die Annahme des Gutes, so ist, wenn ein Konnossement nicht ausgestellt ist, Verfügungsberechtigter nach Satz 1 der Befrachter; ist die Ausübung des Verfügungsrechts von der Vorlage eines Seefrachtbriefs abhängig gemacht worden, so bedarf es der Vorlage des Seefrachtbriefs nicht. Der Verfrachter ist, wenn ihm Weisungen erteilt worden sind und das Hindernis nicht seinem Risikobereich zuzurechnen ist, berechtigt, Ansprüche nach § 491 Absatz 1 Satz 4 geltend zu machen.
 
-(4) Die Ausladung des Schiffes erfolgt mangels einer anderweitigen Vereinbarung in dem Hafen, in welchem es sich zur Zeit der Erklärung des Rücktritts befindet.
+(2) Tritt das Beförderungs- oder Ablieferungshindernis ein, nachdem der Empfänger auf Grund seiner Verfügungsbefugnis nach § 491 die Weisung erteilt hat, das Gut einem Dritten abzuliefern, so nimmt bei der Anwendung des Absatzes 1 der Empfänger die Stelle des Befrachters und der Dritte die des Empfängers ein.
 
-(5) Für den zurückgelegten Teil der Reise ist der Befrachter Distanzfracht (§§ 630 und 631) zu zahlen verpflichtet.
+(3) Kann der Verfrachter Weisungen, die er nach § 491 Absatz 1 Satz 3 befolgen müsste, innerhalb angemessener Zeit nicht erlangen, so hat er die Maßnahmen zu ergreifen, die im Interesse des Verfügungsberechtigten die besten zu sein scheinen. Er kann etwa das Gut löschen und verwahren, für Rechnung des nach § 491 oder § 520 Verfügungsberechtigten einem Dritten zur Verwahrung anvertrauen oder zurückbefördern; vertraut der Verfrachter das Gut einem Dritten an, so haftet er nur für die sorgfältige Auswahl des Dritten. Der Verfrachter kann das Gut auch gemäß § 373 Absatz 2 bis 4 verkaufen lassen, wenn es sich um verderbliche Ware handelt oder der Zustand des Gutes eine solche Maßnahme rechtfertigt oder wenn die andernfalls entstehenden Kosten in keinem angemessenen Verhältnis zum Wert des Gutes stehen. Unverwertbares Gut darf der Verfrachter vernichten. Nach dem Löschen des Gutes gilt die Beförderung als beendet.
 
-(6) Ist das Schiff infolge des Hindernisses in den Abgangshafen oder in einen anderen Hafen zurückgekehrt, so wird bei der Berechnung der Distanzfracht der dem Bestimmungshafen nächste Punkt, welchen das Schiff erreicht hat, behufs der Feststellung der zurückgelegten Entfernung zum Anhalt genommen.
+(4) Der Verfrachter hat wegen der nach Absatz 3 ergriffenen Maßnahmen Anspruch auf Ersatz der erforderlichen Aufwendungen und auf angemessene Vergütung, es sei denn, dass das Hindernis seinem Risikobereich zuzurechnen ist.
 
-(7) Der Kapitän ist auch in den vorstehenden Fällen verpflichtet, vor und nach der Auflösung des Frachtvertrags für das Beste der Ladung nach Maßgabe der §§ 535, 536 und 632 zu sorgen.
+### § 493 Zahlung. Frachtberechnung
 
-### § 635
+(1) Die Fracht ist bei Ablieferung des Gutes zu zahlen. Der Verfrachter hat über die Fracht hinaus einen Anspruch auf Ersatz von Aufwendungen, soweit diese für das Gut gemacht wurden und er sie den Umständen nach für erforderlich halten durfte.
 
-Muß das Schiff, nachdem es die Ladung eingenommen hat, vor dem Antritt der Reise im Abladungshafen oder nach dem Antritt der Reise in einem Zwischen- oder Nothafen infolge eines der in § 629 erwähnten Ereignisse liegen bleiben, so werden die Kosten des Aufenthalts, auch wenn die Erfordernisse der großen Haverei nicht vorliegen, über Schiff, Fracht und Ladung nach den Grundsätzen der großen Haverei verteilt, gleichviel ob demnächst der Vertrag aufgehoben oder vollständig erfüllt wird. Zu den Kosten des Aufenthalts werden alle in § 706 Nr. 4 Abs. 2 aufgeführten Kosten gezählt, diejenigen des Ein- und Auslaufens jedoch nur, wenn wegen des Hindernisses ein Nothafen angelaufen ist.
+(2) Der Anspruch auf die Fracht entfällt, soweit die Beförderung unmöglich ist. Wird die Beförderung infolge eines Beförderungs- oder Ablieferungshindernisses vorzeitig beendet, so gebührt dem Verfrachter die anteilige Fracht für den zurückgelegten Teil der Beförderung, wenn diese für den Befrachter von Interesse ist.
 
-### § 636
+(3) Abweichend von Absatz 2 behält der Verfrachter den Anspruch auf die Fracht, wenn die Beförderung aus Gründen unmöglich ist, die dem Risikobereich des Befrachters zuzurechnen sind oder die zu einer Zeit eintreten, zu welcher der Befrachter im Verzug der Annahme ist. Der Verfrachter muss sich jedoch das, was er an Aufwendungen erspart oder anderweitig erwirbt oder zu erwerben böswillig unterlässt, anrechnen lassen.
 
-(1) Wird nur ein Teil der Ladung vor dem Antritt der Reise durch einen Zufall betroffen, der, wenn er die ganze Ladung betroffen hätte, nach den §§ 628 und 629 den Vertrag aufgelöst oder die Parteien zum Rücktritt berechtigt haben würde, so ist der Befrachter nur befugt, entweder statt der vertragsmäßigen andere Güter abzuladen, sofern durch deren Beförderung die Lage des Verfrachters nicht erschwert wird (§ 562), oder von dem Vertrag unter der Verpflichtung zurückzutreten, die Hälfte der bedungenen Fracht und die sonstigen Forderungen des Verfrachters zu berichtigen (§§ 580 und 581). Bei der Ausübung dieser Rechte ist der Befrachter nicht an die sonst einzuhaltende Zeit gebunden; er hat sich aber ohne Verzug zu erklären, von welchem der beiden Rechte er Gebrauch machen wolle, und, wenn er die Abladung anderer Güter wählt, die Abladung binnen kürzester Frist zu bewirken, auch die Mehrkosten dieser Abladung zu tragen und, soweit durch sie die Wartezeit überschritten wird, den dem Verfrachter daraus entstehenden Schaden zu ersetzen.
+(4) Tritt nach Beginn der Beförderung und vor Ankunft am Löschplatz eine Verzögerung ein und beruht die Verzögerung auf Gründen, die dem Risikobereich des Befrachters zuzurechnen sind, so gebührt dem Verfrachter neben der Fracht eine angemessene Vergütung.
 
-(2) Macht er von keinem der beiden Rechte Gebrauch, so hat er auch für den durch den Zufall betroffenen Teil der Ladung die volle Fracht zu entrichten. Den durch Krieg, durch ein Einfuhr- oder Ausfuhrverbot oder durch eine andere Verfügung von hoher Hand unfrei gewordenen Teil der Ladung ist er jedenfalls aus dem Schiff herauszunehmen verbunden.
+(5) Ist die Fracht nach Zahl, Gewicht oder anders angegebener Menge des Gutes vereinbart, so wird für die Berechnung der Fracht vermutet, dass Angaben hierzu im Seefrachtbrief oder Konnossement zutreffen; dies gilt auch dann, wenn zu diesen Angaben ein Vorbehalt eingetragen ist, der damit begründet ist, dass keine angemessenen Mittel zur Verfügung standen, die Richtigkeit der Angaben zu überprüfen.
 
-(3) Tritt der Zufall nach dem Antritt der Reise ein, so hat der Befrachter für den dadurch betroffenen Teil der Ladung die volle Fracht auch dann zu entrichten, wenn der Kapitän diesen Teil in einem anderen als dem Bestimmungshafen zu löschen sich genötigt gefunden und hierauf mit oder ohne Aufenthalt die Reise fortgesetzt hat.
+### § 494 Rechte des Empfängers. Zahlungspflicht
 
-(4) Die Vorschriften der §§ 617 und 618 bleiben unberührt.
+(1) Nach Ankunft des Gutes am Löschplatz ist der Empfänger berechtigt, vom Verfrachter zu verlangen, ihm das Gut gegen Erfüllung der Verpflichtungen aus dem Stückgutfrachtvertrag abzuliefern. Ist das Gut beschädigt oder verspätet abgeliefert worden oder verloren gegangen, so kann der Empfänger die Ansprüche aus dem Stückgutfrachtvertrag im eigenen Namen gegen den Verfrachter geltend machen; der Befrachter bleibt zur Geltendmachung dieser Ansprüche befugt. Dabei macht es keinen Unterschied, ob der Empfänger oder der Befrachter im eigenen oder fremden Interesse handelt.
 
-### § 636a
+(2) Der Empfänger, der sein Recht nach Absatz 1 Satz 1 geltend macht, hat die noch geschuldete Fracht bis zu dem Betrag zu zahlen, der aus dem Beförderungsdokument hervorgeht. Ist ein Beförderungsdokument nicht ausgestellt oder dem Empfänger nicht vorgelegt worden oder ergibt sich aus dem Beförderungsdokument nicht die Höhe der zu zahlenden Fracht, so hat der Empfänger die mit dem Befrachter vereinbarte Fracht zu zahlen, soweit diese nicht unangemessen ist.
 
-Eine Abweichung von dem Reiseweg, die der Kapitän zum Zwecke der Rettung von Leben oder Eigentum zur See oder sonst gerechtfertigterweise vornimmt, hat auf die Rechte und Pflichten der Parteien keinen Einfluß, insbesondere haftet der Verfrachter nicht für den daraus entstehenden Schaden.
+(3) Der Empfänger, der sein Recht nach Absatz 1 Satz 1 geltend macht, hat ferner eine Vergütung nach § 493 Absatz 4 zu zahlen, wenn ihm der geschuldete Betrag bei Ablieferung des Gutes mitgeteilt worden ist.
 
-### § 637
+(4) Der Befrachter bleibt zur Zahlung der nach dem Vertrag geschuldeten Beträge verpflichtet.
 
-(1) Abgesehen von den Fällen der §§ 629 bis 636 hat ein Aufenthalt, den die Reise vor oder nach ihrem Antritt durch Naturereignisse oder andere Zufälle erleidet, auf die Rechte und Pflichten der Parteien keinen Einfluß, es sei denn, daß der erkennbare Zweck des Vertrags durch einen solchen Aufenthalt vereitelt wird. Der Befrachter ist jedoch befugt, während jedes durch einen Zufall entstandenen, voraussichtlich längeren Aufenthalts die bereits in das Schiff geladenen Güter auf seine Gefahr und Kosten gegen Sicherheitsleistung für die rechtzeitige Wiedereinladung auszuladen. Unterläßt er die Wiedereinladung, so hat er die volle Fracht zu zahlen. In jedem Fall hat er den Schaden zu ersetzen, der aus der von ihm veranlaßten Wiederausladung entsteht.
+### § 495 Pfandrecht des Verfrachters
 
-(2) Ist der Aufenthalt durch eine Verfügung von hoher Hand herbeigeführt, so ist für die Dauer der Verfügung keine Fracht zu bezahlen, wenn diese nach Zeit bedungen war (§ 622).
+(1) Der Verfrachter hat für alle Forderungen aus dem Stückgutfrachtvertrag ein Pfandrecht an dem ihm zur Beförderung übergebenen Gut des Befrachters, des Abladers oder eines Dritten, der der Beförderung des Gutes zugestimmt hat. An dem Gut des Befrachters hat der Verfrachter auch ein Pfandrecht für alle unbestrittenen Forderungen aus anderen mit dem Befrachter abgeschlossenen Seefracht-, Fracht-, Speditions- und Lagerverträgen. Das Pfandrecht erstreckt sich auf die Begleitpapiere.
 
-### § 638
+(2) Das Pfandrecht besteht, solange der Verfrachter das Gut in seinem Besitz hat, insbesondere solange er mittels Konnossements, Ladescheins oder Lagerscheins darüber verfügen kann.
 
-Muß das Schiff während der Reise ausgebessert werden, so hat der Befrachter die Wahl, ob er die ganze Ladung an dem Ort, wo sich das Schiff befindet, gegen Berichtigung der vollen Fracht und der übrigen Forderungen des Verfrachters (§ 614) und gegen Berichtigung oder Sicherstellung der in § 615 bezeichneten Forderungen zurücknehmen oder die Wiederherstellung abwarten will. Im letzteren Fall ist für die Dauer der Ausbesserung keine Fracht zu bezahlen, wenn diese nach Zeit bedungen war.
+(3) Das Pfandrecht besteht auch nach der Ablieferung fort, wenn der Verfrachter es innerhalb von zehn Tagen nach der Ablieferung gerichtlich geltend macht und das Gut noch im Besitz des Empfängers ist.
 
-### § 639
+(4) Die in § 1234 Absatz 1 des Bürgerlichen Gesetzbuchs bezeichnete Androhung des Pfandverkaufs sowie die in den §§ 1237 und 1241 des Bürgerlichen Gesetzbuchs vorgesehenen Benachrichtigungen sind an den nach § 491 oder § 520 verfügungsberechtigten Empfänger zu richten. Ist dieser nicht zu ermitteln oder verweigert er die Annahme des Gutes, so sind die Androhung und die Benachrichtigungen an den Befrachter zu richten.
 
-Wird der Frachtvertrag nach den §§ 628 bis 634 aufgelöst, so werden die Kosten der Ausladung aus dem Schiff von dem Verfrachter, die übrigen Löschungskosten von dem Befrachter getragen. Hat der Zufall jedoch nur die Ladung betroffen, so fallen die sämtlichen Kosten der Löschung dem Befrachter zur Last. Dasselbe gilt, wenn im Falle des § 636 ein Teil der Ladung gelöscht wird. Muß in einem solchen Fall behufs der Löschung ein Hafen angelaufen werden, so hat der Befrachter auch die Hafenkosten zu tragen.
+### § 496 Nachfolgender Verfrachter
 
-### § 640
+(1) Hat im Falle der Beförderung durch mehrere Verfrachter der letzte bei der Ablieferung die Forderungen vorhergehender Verfrachter einzuziehen, so hat er die Rechte der vorhergehenden Verfrachter, insbesondere auch das Pfandrecht, auszuüben. Das Pfandrecht jedes vorhergehenden Verfrachters bleibt so lange bestehen wie das Pfandrecht des letzten Verfrachters.
 
-(1) Die §§ 628 bis 639 kommen auch zur Anwendung, wenn das Schiff zur Einnahme der Ladung eine Zureise in Ballast nach dem Abladungshafen zu machen hat. Die Reise gilt aber in einem solchen Fall erst dann als angetreten, wenn sie aus dem Abladungshafen angetreten ist. Wird der Vertrag, nachdem das Schiff den Abladungshafen erreicht hat, wenn auch vor dem Antritt der Reise aus dem letzteren, aufgelöst, so erhält der Verfrachter für die Zureise eine nach den Grundsätzen der Distanzfracht (§ 631) zu bemessende Entschädigung.
+(2) Wird ein vorhergehender Verfrachter von einem nachfolgenden befriedigt, so gehen Forderung und Pfandrecht des ersteren auf den letzteren über.
 
-(2) In anderen Fällen einer zusammengesetzten Reise kommen die §§ 628 bis 639 insoweit zur Anwendung, als die Natur und der Inhalt des Vertrags nicht entgegenstehen.
+(3) Die Absätze 1 und 2 gelten auch für die Forderungen und Rechte eines Spediteurs, der an der Beförderung mitgewirkt hat.
 
-### § 641
+### § 497 Rang mehrerer Pfandrechte
 
-(1) Bezieht sich der Vertrag nicht auf das Schiff im ganzen, sondern nur auf einen verhältnismäßigen Teil oder einen bestimmt bezeichneten Raum des Schiffes oder auf Stückgüter, so gelten die Vorschriften der §§ 628 bis 640 mit folgenden Abweichungen:
+Bestehen an demselben Gut mehrere nach den §§ 397, 440, 464, 475b und 495 begründete Pfandrechte, so bestimmt sich der Rang dieser Pfandrechte untereinander nach § 442.
 
-1.  
-in den Fällen der §§ 629 und 634 ist jeder Teil sogleich nach dem Eintritt des Hindernisses und ohne Rücksicht auf dessen Dauer befugt, von dem Vertrag zurückzutreten;
-
-2.  
-im Falle des § 636 kann von dem Befrachter das Recht, von dem Vertrag zurückzutreten, nicht ausgeübt werden;
-
-3.  
-im Falle des § 637 steht dem Befrachter das Recht der einstweiligen Löschung nur zu, wenn die übrigen Befrachter ihre Genehmigung erteilen;
-
-4.  
-im Falle des § 638 kann der Befrachter die Güter gegen Entrichtung der vollen Fracht und der übrigen Forderungen nur zurücknehmen, wenn während der Ausbesserung die Löschung dieser Güter ohnehin erfolgt ist.
-
-(2) Die Vorschriften der §§ 587 und 589 bleiben unberührt.
-
-### § 642
-
-(1) Der Verfrachter hat, sobald die Güter an Bord genommen sind, dem Ablader unverzüglich gegen Rückgabe des etwa bei der Annahme der Güter erteilten vorläufigen Empfangsscheins oder Übernahmekonnossements (Absatz 5) ein Konnossement in so vielen Ausfertigungen auszustellen, als der Ablader verlangt (Bordkonnossement).
-
-(2) Alle Ausfertigungen des Konnossements müssen gleichlautend sein; in ihnen muß angegeben sein, wie viele Ausfertigungen ausgestellt sind.
-
-(3) Der Ablader hat dem Verfrachter auf Verlangen eine von ihm unterschriebene Abschrift des Konnossements zu erteilen.
-
-(4) Der Kapitän und jeder andere dazu ermächtigte Vertreter des Reeders ist zur Ausstellung des Konnossements auch ohne besondere Ermächtigung des Verfrachters befugt.
-
-(5) Das Konnossement kann mit Zustimmung des Abladers auch über Güter ausgestellt werden, die zur Beförderung übernommen, aber noch nicht an Bord genommen sind (Übernahmekonnossement). Der Ausstellung eines Bordkonnossements steht es gleich, wenn in dem Übernahmekonnossement vermerkt wird, wann und in welches Schiff die Güter an Bord genommen sind.
-
-### § 643
-
-Das Konnossement enthält:
-
-1.  
-den Namen des Verfrachters;
-
-2.  
-den Namen des Kapitäns;
-
-3.  
-den Namen und die Nationalität des Schiffes;
-
-4.  
-den Namen des Abladers;
-
-5.  
-den Namen des Empfängers;
-
-6.  
-den Abladungshafen;
-
-7.  
-den Löschungshafen oder den Ort, an dem Weisung über ihn einzuholen ist;
-
-8.  
-die Art der an Bord genommenen oder zur Beförderung übernommenen Güter, deren Maß, Zahl oder Gewicht, ihre Merkzeichen und ihre äußerlich erkennbare Verfassung und Beschaffenheit;
-
-9.  
-die Bestimmung über die Fracht;
-
-10.  
-den Ort und den Tag der Ausstellung;
-
-11.  
-die Zahl der ausgestellten Ausfertigungen.
-
-### § 644
-
-Ist in einem vom Kapitän oder einem anderen Vertreter des Reeders ausgestellten Konnossement der Name des Verfrachters nicht angegeben, so gilt der Reeder als Verfrachter. Ist der Name des Verfrachters unrichtig angegeben, so haftet der Reeder dem Empfänger für den Schaden, der aus der Unrichtigkeit der Angabe entsteht.
-
-### § 645
-
-(1) Maß, Zahl oder Gewicht der Güter, ihre Merkzeichen sowie ihre äußerlich erkennbare Verfassung und Beschaffenheit sind auf Verlangen des Abladers im Konnossement so anzugeben, wie sie der Ablader vor dem Beginn des Einladens schriftlich mitgeteilt hat.
-
-(2) Dies gilt nicht:
-
-1.  
-für solche Merkzeichen, die nicht auf den Gütern selbst oder im Fall der Verpackung auf deren Behältnissen oder Umhüllungen aufgedruckt oder in anderer Weise derart angebracht sind, daß sie unter gewöhnlichen Umständen bis zum Ende der Reise lesbar bleiben;
-
-2.  
-wenn der Verfrachter Grund zu der Annahme hat, daß die Angaben des Abladers ungenau sind, oder wenn er keine ausreichende Gelegenheit hat, diese Angaben nachzuprüfen.
-
-### § 646
-
-Im Fall des § 645 Abs. 2 kann das Konnossement die Angaben des Abladers wiedergeben, wenn es einen entsprechenden Zusatz enthält.
-
-### § 647
-
-(1) Auf Verlangen des Abladers ist das Konnossement, wenn nicht das Gegenteil vereinbart ist, an die Order des Empfängers oder lediglich an Order zu stellen. Im letzteren Fall ist unter der Order die Order des Abladers zu verstehen.
-
-(2) Das Konnossement kann auch auf den Namen des Verfrachters oder des Kapitäns als Empfänger lauten.
-
-### § 648
-
-(1) Zur Empfangnahme der Güter legitimiert ist der, an den die Güter nach dem Konnossement abgeliefert werden sollen oder auf den das Konnossement, wenn es an Order lautet, durch Indossament übertragen ist.
-
-(2) Sind mehrere Ausfertigungen des Konnossements ausgestellt, so sind die Güter an den legitimierten Inhaber auch nur einer Ausfertigung auszuliefern.
-
-### § 649
-
-(1) Melden sich mehrere legitimierte Konnossementsinhaber, so ist der Kapitän verpflichtet, sie sämtlich zurückzuweisen, die Güter in einem öffentlichen Lagerhaus oder sonst in sicherer Weise zu hinterlegen und die Konnossementsinhaber, die sich gemeldet haben, unter Angabe der Gründe seines Verfahrens hiervon zu benachrichtigen.
-
-(2) Er ist befugt, über sein Verfahren und dessen Gründe eine öffentliche Urkunde errichten zu lassen und wegen der daraus entstehenden Kosten in gleicher Art wie wegen der Fracht sich an die Güter zu halten.
-
-### § 650
-
-Die Übergabe des Konnossements an den, der durch das Konnossement zur Empfangnahme legitimiert wird, hat, sobald die Güter von dem Kapitän oder einem anderen Vertreter des Verfrachters zur Beförderung übernommen sind, für den Erwerb von Rechten an den Gütern dieselben Wirkungen wie die Übergabe der Güter.
-
-### § 651
-
-Sind mehrere Ausfertigungen eines an Order lautenden Konnossements ausgestellt, so können von dem Inhaber der einen Ausfertigung die in § 650 bezeichneten Wirkungen der Übergabe des Konnossements nicht zum Nachteil dessen geltend gemacht werden, der auf Grund einer anderen Ausfertigung gemäß § 648 die Auslieferung der Güter von dem Kapitän erlangt hat, bevor der Anspruch auf Auslieferung von dem Inhaber der ersteren Ausfertigung erhoben worden ist.
-
-### § 652
-
-(1) Hat der Kapitän die Güter noch nicht ausgeliefert, so geht unter mehreren sich meldenden Konnossementsinhabern, soweit die von ihnen auf Grund der Konnossementsübergabe an den Gütern geltend gemachten Rechte einander entgegenstehen, der vor, dessen Ausfertigung von dem gemeinschaftlichen Vormann, der mehrere Konnossementsausfertigungen an verschiedene Personen übertragen hat, zuerst der einen dieser Personen so übergeben worden ist, daß sie zur Empfangnahme der Güter legitimiert wurde.
-
-(2) Bei der nach einem anderen Ort übersandten Ausfertigung wird die Zeit der Übergabe durch den Zeitpunkt der Absendung bestimmt.
-
-### § 653
-
-Die Güter brauchen nur gegen Rückgabe einer Ausfertigung des Konnossements, auf der ihre Ablieferung bescheinigt ist, ausgeliefert zu werden.
-
-### § 654
-
-(1) Ist ein an Order lautendes Konnossement ausgestellt, so darf der Kapitän den Anweisungen des Abladers wegen Rückgabe oder Auslieferung der Güter nur dann Folge leisten, wenn ihm die sämtlichen Ausfertigungen des Konnossements zurückgegeben werden.
-
-(2) Dasselbe gilt, wenn ein Konnossementsinhaber die Auslieferung der Güter verlangt, bevor das Schiff den Bestimmungshafen erreicht hat.
-
-(3) Handelt der Kapitän diesen Vorschriften entgegen, so bleibt der Verfrachter dem rechtmäßigen Inhaber des Konnossements verpflichtet.
-
-(4) Lautet das Konnossement nicht an Order, so sind die Güter, auch wenn keine Ausfertigung des Konnossements beigebracht wird, zurückzugeben oder auszuliefern, wenn der Ablader und der im Konnossement bezeichnete Empfänger damit einverstanden sind. Werden jedoch nicht sämtliche Ausfertigungen des Konnossements zurückgegeben, so kann der Verfrachter verlangen, daß ihm wegen der deshalb zu besorgenden Nachteile zuvor Sicherheit geleistet wird.
-
-### § 655
-
-§ 654 gilt auch, wenn der Frachtvertrag vor der Erreichung des Bestimmungshafens infolge eines Zufalls nach den §§ 628 bis 641 aufgelöst wird.
-
-### § 656
-
-(1) Das Konnossement ist für das Rechtsverhältnis zwischen dem Verfrachter und dem Empfänger der Güter maßgebend.
-
-(2) Das Konnossement begründet insbesondere die Vermutung, daß der Verfrachter die Güter so übernommen hat, wie sie nach § 643 Nr. 8 und § 660 beschrieben sind. Ist das Konnossement einem gutgläubigen Dritten übertragen worden, so ist der Beweis, daß der Verfrachter die Güter nicht so übernommen hat, wie sie nach § 643 Nr. 8 beschrieben sind, nicht zulässig.
-
-(3) Absatz 2 gilt nicht:
-
-1.  
-wenn das Konnossement einen Zusatz nach § 646 enthält;
-
-2.  
-hinsichtlich des Inhalts solcher Güter, die nach dem Konnossement dem Kapitän in Verpackung oder in geschlossenen Gefäßen übergeben worden sind, wenn das Konnossement mit dem Zusatz: "Inhalt unbekannt" oder mit einem gleichbedeutenden Zusatz versehen ist.
-
-(4) Für das Rechtsverhältnis zwischen dem Verfrachter und dem Befrachter bleiben die Bestimmungen des Frachtvertrages maßgebend.
-
-### § 657
-
-(1) Ist die Fracht nach der Menge (Maß, Zahl oder Gewicht) der Güter bedungen und im Konnossement die Menge angegeben, so ist diese Angabe für die Berechnung der Fracht entscheidend, wenn nicht das Konnossement eine abweichende Bestimmung enthält. Als eine solche ist ein Zusatz nach § 646 nicht anzusehen.
-
-(2) Wird wegen der Fracht auf den Frachtvertrag verwiesen, so sind hierin die Bestimmungen über Löschzeit, Überliegezeit und Liegegeld nicht als einbegriffen anzusehen.
-
-### § 658
-
-(1) Ist in den Fällen der §§ 606 und 607 für gänzlichen oder teilweisen Verlust von Gütern Ersatz zu leisten, so hat der Verfrachter den gemeinen Handelswert oder den gemeinen Wert zu ersetzen, den Güter derselben Art und Beschaffenheit am Bestimmungsort der Güter bei Beginn der Löschung des Schiffes oder, wenn das Schiff an diesem Ort nicht entlöscht wird, bei seiner Ankunft daselbst haben; hiervon kommt in Abzug, was infolge des Verlusts an Zöllen und sonstigen Kosten sowie an Fracht erspart ist.
-
-(2) Wird der Bestimmungsort der Güter nicht erreicht, so tritt an dessen Stelle der Ort, wo die Reise endet, oder, wenn die Reise durch Verlust des Schiffes endet, der Ort, wohin die Ladung in Sicherheit gebracht ist.
-
-### § 659
-
-Ist in den Fällen der §§ 606 und 607 für Beschädigung von Gütern Ersatz zu leisten, so hat der Verfrachter den Unterschied zwischen dem Verkaufswert der Güter im beschädigten Zustand und dem gemeinen Handelswert oder dem gemeinen Wert zu ersetzen, den die Güter ohne die Beschädigung am Bestimmungsort zur Zeit der Löschung des Schiffes gehabt haben würden; hiervon kommt in Abzug, was infolge der Beschädigung an Zöllen und sonstigen Kosten erspart ist.
-
-### § 660
-
-(1) Sofern nicht die Art und der Wert der Güter vor ihrer Einladung vom Ablader angegeben sind und diese Angabe in das Konnossement aufgenommen ist, haftet der Verfrachter für Verlust oder Beschädigung der Güter in jedem Fall höchstens bis zu einem Betrag von 666,67 Rechnungseinheiten für das Stück oder die Einheit oder einem Betrag von 2 Rechnungseinheiten für das Kilogramm des Rohgewichts der verlorenen oder beschädigten Güter, je nachdem, welcher Betrag höher ist. Die in Satz 1 genannte Rechnungseinheit ist das Sonderziehungsrecht des Internationalen Währungsfonds. Die in Satz 1 genannten Beträge werden in Euro entsprechend dem Wert des Euro gegenüber dem Sonderziehungsrecht am Tag des Urteils oder an dem von den Parteien vereinbarten Tag umgerechnet. Der Wert des Euro gegenüber dem Sonderziehungsrecht wird nach der Berechnungsmethode ermittelt, die der Internationale Währungsfonds an dem betreffenden Tag für seine Operationen und Transaktionen anwendet.
-
-(2) Wird ein Behälter, eine Palette oder ein ähnliches Gerät verwendet, um die Güter für die Beförderung zusammenzufassen, so gilt jedes Stück und jede Einheit, welche in dem Konnossement als in einem solchen Gerät enthalten angegeben sind, als Stück oder Einheit im Sinne des Absatzes 1. Soweit das Konnossement solche Angaben nicht enthält, gilt das Gerät als Stück oder Einheit.
-
-(3) Der Verfrachter verliert das Recht auf Haftungsbeschränkung nach Absatz 1 sowie nach den §§ 658, 659, wenn der Schaden auf eine Handlung oder Unterlassung zurückzuführen ist, die der Verfrachter in der Absicht, einen Schaden herbeizuführen, oder leichtfertig und in dem Bewußtsein begangen hat, daß ein Schaden mit Wahrscheinlichkeit eintreten werde.
-
-### § 661
-
-§ 244 des Bürgerlichen Gesetzbuchs findet Anwendung; jedoch erfolgt die Umrechnung nach dem Kurswert, der zur Zeit der Ankunft des Schiffes am Bestimmungsort maßgebend ist. § 658 Abs. 2 gilt sinngemäß.
-
-### § 662
-
-(1) Ist ein Konnossement ausgestellt, so können die Verpflichtungen des Verfrachters aus:
-§ 559 (See- und Ladungstüchtigkeit),
-§ 563 Abs. 2 und §§ 606 bis 608 (Schadensersatzpflicht),
-§§ 611 und 612 (Schadensermittlung),
-§ 656 (Beweisvermutung des Konnossements)
-§§ 658 und 659 (Wertersatz bei Verlust oder Beschädigung der Güter)
-und
-§ 660 (Haftungssumme)
-durch Rechtsgeschäft im voraus nicht ausgeschlossen oder beschränkt werden. Das gleiche gilt für die sich aus diesen Verpflichtungen ergebenden Schiffsgläubigerrechte.
-
-(2) Dem Ausschluß der Haftung steht die Vereinbarung, durch die dem Verfrachter der Anspruch aus der Versicherung abgetreten wird, sowie jede ähnliche Vereinbarung gleich.
-
-(3) Vereinbarungen über die Erweiterung der Haftung bedürfen der Aufnahme in das Konnossement.
-
-### § 663
-
-(1) § 662 steht einer für den Fall der großen Haverei getroffenen Vereinbarung nicht entgegen.
-
-(2) Er findet ferner keine Anwendung:
-
-1.  
-wenn sich der Vertrag auf lebende Tiere oder eine Ladung bezieht, die im Konnossement als Deckladung bezeichnet und tatsächlich so befördert wird;
-
-2.  
-auf die Verpflichtungen, die dem Verfrachter hinsichtlich der Güter in der Zeit vor ihrer Einladung und nach ihrer Ausladung obliegen;
-
-3.  
-auf solche Vereinbarungen, die über eine nicht handelsübliche im regelmäßigen Handelsverkehr zu bewirkende Verschiffung getroffen werden und durch die Eigenart oder Beschaffenheit der Güter oder durch die besonderen Umstände der Verschiffung gerechtfertigt sind, wenn das Konnossement diese Vereinbarungen enthält und mit dem Vermerk "nicht an Order" versehen ist;
-
-4.  
-auf Chartepartien (§ 557).
-
-### § 663a
-
-Wird bei einer Raumverfrachtung (§ 556 Nr. 1) ein Konnossement ausgestellt, so gilt § 662 von dem Zeitpunkt ab, in dem das Konnossement an einen Dritten begeben wird.
-
-### § 663b
-
-Auf die Beförderung von Gütern zur See durch die *Reichspost* finden die Vorschriften dieses Abschnitts keine Anwendung.
-
-§ 663b Kursivdruck: Vgl. § 1 Abs. 1 G 900-1, aufgeh. gem. Art. 1 § 66 Nr. 1 G v. 8.6.1989 I 1026 mWv 1.7.1989, vgl. nunmehr G 900-7
-
-Fünfter Abschnitt Beförderung von Reisenden und ihrem Gepäck
-------------------------------------------------------------
-
-### 
-
-### § 664
-
-(1) Für Schäden, die bei der Beförderung von Reisenden und ihrem Gepäck auf See durch den Tod oder die Körperverletzung eines Reisenden oder den Verlust oder die Beschädigung von Gepäck entstehen, haften vorbehaltlich des Absatzes 2 der Beförderer und der ausführende Beförderer nach den diesem Gesetz als Anlage beigefügten Bestimmungen über die Beförderung von Reisenden und ihrem Gepäck auf See. Die §§ 486 bis 487e bleiben unberührt.
-
-(2) Unterliegt eine Beförderung im Sinne des Absatzes 1 einer Haftungsregelung nach den Vorschriften über die Beförderung von Reisenden oder Gepäck durch ein anderes Beförderungsmittel als ein Seeschiff, so gelten die Bestimmungen der Anlage nicht, soweit jene Vorschriften auf die Beförderung auf See zwingend anzuwenden sind.
-
-### § 665
-
-Der Reisende ist verpflichtet, alle die Schiffsordnung betreffenden Anweisungen des Kapitäns zu befolgen.
-
-### § 666
-
--
-
-### § 667
-
--
-
-### § 668
-
--
-
-### § 669
-
--
-
-### § 670
-
--
-
-### § 671
-
--
-
-### § 672
-
-Für die Beförderung des Gepäcks, das der Reisende nach dem Beförderungsvertrag an Bord zu bringen befugt ist, hat er, wenn nichts anderes vereinbart ist, neben dem Beförderungsentgelt keine besondere Vergütung zu zahlen.
-
-### § 673
-
-Auf das an Bord gebrachte Gepäck sind die §§ 561, 593 und 617 anzuwenden. Auf sämtliche von dem Reisenden an Bord gebrachte Sachen sind außerdem die §§ 563 bis 565 und 619 anzuwenden.
-
-### § 674
-
-(1) Der Beförderer hat wegen des Beförderungsentgelts an den von dem Reisenden an Bord gebrachten Sachen ein Pfandrecht.
-
-(2) Das Pfandrecht besteht jedoch nur, solange die Sachen zurückbehalten oder hinterlegt sind.
-
-### § 675
-
-Stirbt ein Reisender, so ist der Kapitän verpflichtet, in Ansehung der von dem Reisenden an Bord gebrachten Sachen das Interesse der Erben nach den Umständen des Falles in geeigneter Weise wahrzunehmen.
-
-### § 676
-
--
-
-### § 677
-
--
-
-### § 678
-
--
-
-Sechster Abschnitt
-------------------
-
-### 
-
-### (XXXX) §§ 679 bis 699
-
-Siebenter Abschnitt Haverei
----------------------------
-
-### 
-
-Erster Titel Große (gemeinschaftliche) Haverei und besondere Haverei
+Zweiter Untertitel Haftung wegen Verlust oder Beschädigung des Gutes
 --------------------------------------------------------------------
 
 ### 
 
-### § 700
+### § 498 Haftungsgrund
 
-(1) Alle Schäden, die dem Schiff oder der Ladung oder beiden zum Zwecke der Errettung beider aus einer gemeinsamen Gefahr von dem Kapitän oder auf dessen Geheiß vorsätzlich zugefügt werden, sowie auch die durch solche Maßregeln ferner verursachten Schäden, ingleichen die Kosten, die zu demselben Zweck aufgewendet werden, sind große Haverei.
+(1) Der Verfrachter haftet für den Schaden, der durch Verlust oder Beschädigung des Gutes in der Zeit von der Übernahme zur Beförderung bis zur Ablieferung entsteht.
 
-(2) Die große Haverei wird von Schiff, Fracht und Ladung gemeinschaftlich getragen.
+(2) Der Verfrachter ist von seiner Haftung nach Absatz 1 befreit, soweit der Verlust oder die Beschädigung auf Umständen beruht, die durch die Sorgfalt eines ordentlichen Verfrachters nicht hätten abgewendet werden können. Wurde das Gut mit einem seeuntüchtigen oder ladungsuntüchtigen Schiff befördert und ist nach den Umständen des Falles wahrscheinlich, dass der Verlust oder die Beschädigung auf dem Mangel der See- oder Ladungstüchtigkeit beruht, so ist der Verfrachter jedoch nur dann nach Satz 1 von seiner Haftung befreit, wenn er auch beweist, dass der Mangel der See- oder Ladungstüchtigkeit bei Anwendung der Sorgfalt eines ordentlichen Verfrachters bis zum Antritt der Reise nicht zu entdecken war.
 
-### § 701
+(3) Hat bei der Entstehung des Schadens ein Verschulden des Beschädigten mitgewirkt, so hängt die Verpflichtung zum Ersatz sowie der Umfang des zu leistenden Ersatzes von den Umständen, insbesondere davon ab, inwieweit der Schaden vorwiegend von dem einen oder dem anderen Teil verursacht worden ist.
 
-(1) Alle nicht zur großen Haverei gehörigen, durch einen Unfall verursachten Schäden und Kosten, soweit die letzteren nicht unter § 621 fallen, sind besondere Haverei.
+### § 499 Besondere Schadensursachen
 
-(2) Die besondere Haverei wird von den Eigentümern des Schiffes und der Ladung, von jedem für sich allein, getragen.
-
-### § 702
-
-(1) Die Anwendung der Vorschriften über die große Haverei wird dadurch nicht ausgeschlossen, daß die Gefahr infolge des Verschuldens eines Dritten oder auch eines Beteiligten herbeigeführt ist.
-
-(2) Der Beteiligte, welchem ein solches Verschulden zur Last fällt, kann jedoch nicht allein wegen des ihm entstandenen Schadens keine Vergütung fordern, sondern ist auch den Beitragspflichtigen für den Verlust verantwortlich, den sie dadurch erleiden, daß der Schaden als große Haverei zur Verteilung kommt.
-
-(3) Ist die Gefahr durch eine Person der Schiffsbesatzung verschuldet, so trägt die Folgen dieses Verschuldens auch der Reeder nach Maßgabe des § 485.
-
-### § 703
-
-Die Havereiverteilung tritt nur ein, wenn sowohl das Schiff als auch die Ladung, und zwar jeder dieser Gegenstände entweder ganz oder teilweise, wirklich gerettet worden ist.
-
-### § 704
-
-Die Verpflichtung, von einem geretteten Gegenstand beizutragen, wird dadurch, daß der Gegenstand später von einer besonderen Haverei betroffen wird, nur dann vollständig aufgehoben, wenn der Gegenstand vor dem Beginn der Löschung am Ende der Reise ganz verloren geht. Die Verpflichtung bleibt auch in diesem Fall bestehen, wenn ein Dritter, der den Verlust durch eine rechtswidrige Handlung verursacht hat, hierfür eine Entschädigung zu zahlen hat.
-
-### § 705
-
-(1) Der Anspruch auf Vergütung einer zur großen Haverei gehörenden Beschädigung wird durch eine besondere Haverei, die den beschädigten Gegenstand später trifft, sei es, daß er von neuem beschädigt wird oder ganz verlorengeht, nur dann aufgehoben, wenn der spätere Unfall mit dem früheren in keinem Zusammenhang steht, und nur insoweit, als der spätere Unfall auch den früheren Schaden nach sich gezogen haben würde, wenn dieser nicht bereits entstanden gewesen wäre.
-
-(2) Sind jedoch vor dem Eintritt des späteren Unfalls zur Wiederherstellung des beschädigten Gegenstands bereits Aufwendungen gemacht, so bleibt rücksichtlich dieser der Anspruch auf Vergütung bestehen.
-
-### § 706
-
-Große Haverei liegt namentlich in den nachstehenden Fällen vor, vorausgesetzt, daß zugleich die Erfordernisse der §§ 700, 702 und 703 insoweit vorhanden sind, als in den folgenden Vorschriften nichts Besonderes bestimmt ist:
+(1) Der Verfrachter haftet nicht, soweit der Verlust oder die Beschädigung auf einem der folgenden Umstände beruht:
 
 1.  
-Wenn Waren, Schiffsteile oder Schiffsgerätschaften über Bord geworfen, Masten gekappt, Taue oder Segel weggeschnitten, Anker, Ankertaue oder Ankerketten geschlippt oder gekappt werden.Sowohl diese Schäden selbst als die durch solche Maßregeln an Schiff oder Ladung ferner verursachten Schäden gehören zur großen Haverei.
+Gefahren oder Unfällen der See und anderer schiffbarer Gewässer,
 
 2.  
-Wenn zur Erleichterung des Schiffes die Ladung ganz oder teilweise in Leichterfahrzeuge übergeladen wird.Es gehört zur großen Haverei sowohl der Leichterlohn als der Schaden, der bei dem Überladen in das Leichterfahrzeug oder bei dem Rückladen in das Schiff der Ladung oder dem Schiff zugefügt wird, sowie der Schaden, den die Ladung auf dem Leichterfahrzeug erleidet.Muß die Erleichterung im regelmäßigen Verlauf der Reise erfolgen, so liegt große Haverei nicht vor.
+kriegerischen Ereignissen, Unruhen, Handlungen öffentlicher Feinde oder Verfügungen von hoher Hand sowie Quarantänebeschränkungen,
 
 3.  
-Wenn das Schiff absichtlich auf den Strand gesetzt wird, jedoch nur wenn es zum Zwecke der Abwendung des Untergangs oder der Nehmung geschieht.Sowohl die durch die Strandung einschließlich der Abbringung entstehenden Schäden als auch die Kosten der Abbringung gehören zur großen Haverei.Wird das behufs der Abwendung des Untergangs auf den Strand gesetzte Schiff nicht abgebracht oder nach der Abbringung reparaturunfähig befunden (§ 479), so findet eine Havereiverteilung nicht statt.Strandet das Schiff, ohne daß die Strandung zur Rettung von Schiff und Ladung vorsätzlich herbeigeführt ist, so gehören zwar nicht die durch die Strandung veranlaßten Schäden, wohl aber die auf die Abbringung verwendeten Kosten und die zu diesem Zweck dem Schiff oder der Ladung absichtlich zugefügten Schäden zur großen Haverei.
+gerichtlicher Beschlagnahme,
 
 4.  
-Wenn das Schiff zur Vermeidung einer dem Schiff und der Ladung im Falle der Fortsetzung der Reise drohenden gemeinsamen Gefahr in einen Nothafen einläuft, insbesondere wenn das Einlaufen zur notwendigen Ausbesserung eines Schadens erfolgt, den das Schiff während der Reise erlitten hat.Es gehören in diesem Fall zur großen Haverei die Kosten des Einlaufens und des Auslaufens, die das Schiff selbst treffenden Aufenthaltskosten, die der Schiffsbesatzung während des Aufenthalts gebührende Heuer und Kost, die Auslagen für die Unterbringung der Schiffsbesatzung am Land, solange die Besatzung nicht an Bord verbleiben kann, ferner, falls die Ladung wegen des Grundes, welcher das Einlaufen in den Nothafen herbeigeführt hat, gelöscht werden muß, die Kosten des Verbringens von Bord und an Bord sowie die Kosten der Aufbewahrung der Ladung am Land bis zu dem Zeitpunkt, in welchem sie wieder an Bord gebracht werden kann.Die sämtlichen Aufenthaltskosten kommen nur für die Zeit der Fortdauer des Grundes in Rechnung, der das Einlaufen in den Nothafen herbeigeführt hat. Liegt der Grund in einer notwendigen Ausbesserung des Schiffes, so kommen außerdem die Aufenthaltskosten nur bis zu dem Zeitpunkt in Rechnung, in welchem die Ausbesserung hätte vollendet sein können.Die Kosten der Ausbesserung des Schiffes gehören nur insoweit zur großen Haverei, als der auszubessernde Schaden selbst große Haverei ist.
+Streik, Aussperrung oder sonstiger Arbeitsbehinderung,
 
 5.  
-Wenn das Schiff gegen Feinde oder Seeräuber verteidigt wird.Die bei der Verteidigung dem Schiff oder der Ladung zugefügten Beschädigungen, der dabei verbrauchte Schießbedarf und, falls eine Person der Schiffsbesatzung bei der Verteidigung verwundet oder getötet wird, die Heilungs- und Begräbniskosten ... bilden die große Haverei.
+Handlungen oder Unterlassungen des Befrachters oder Abladers, insbesondere ungenügender Verpackung oder ungenügender Kennzeichnung der Frachtstücke durch den Befrachter oder Ablader,
 
 6.  
-Wenn im Falle der Anhaltung des Schiffes durch Feinde oder Seeräuber Schiff und Ladung losgekauft werden.Was zum Loskauf gegeben ist, bildet nebst den durch den Unterhalt und die Auslösung der Geiseln entstehenden Kosten die große Haverei.
+der natürlichen Art oder Beschaffenheit des Gutes, die besonders leicht zu Schäden, insbesondere durch Bruch, Rost, inneren Verderb, Austrocknen, Auslaufen, normalen Schwund an Raumgehalt oder Gewicht, führt,
 
 7.  
-Wenn die Beschaffung der zur Deckung der großen Haverei während der Reise erforderlichen Gelder Verluste und Kosten verursacht oder wenn durch die Auseinandersetzung unter den Beteiligten Kosten entstehen.Diese Verluste und Kosten gehören gleichfalls zur großen Haverei.Dahin werden insbesondere gezählt der Verlust an den während der Reise veräußerten oder verpfändeten Gütern sowie die Kosten für die Ermittlung der Schäden und für die Aufmachung der Rechnung über die große Haverei (Dispache).
+der Beförderung lebender Tiere,
 
-### § 707
+8.  
+Maßnahmen zur Rettung von Menschen auf Seegewässern,
 
-Nicht als große Haverei, sondern als besondere Haverei werden angesehen:
+9.  
+Bergungsmaßnahmen auf Seegewässern.
+
+Satz 1 gilt nicht, wenn der Schaden durch die Sorgfalt eines ordentlichen Verfrachters hätte abgewendet werden können.
+
+(2) Ist nach den Umständen des Falles wahrscheinlich, dass der Verlust oder die Beschädigung auf einem der in Absatz 1 Satz 1 aufgeführten Umstände beruht, so wird vermutet, dass der Schaden auf diesem Umstand beruht. Satz 1 gilt nicht, wenn das Gut mit einem seeuntüchtigen oder ladungsuntüchtigen Schiff befördert wurde.
+
+(3) Ist der Verfrachter nach dem Stückgutfrachtvertrag verpflichtet, das Gut gegen die Einwirkung von Hitze, Kälte, Temperaturschwankungen, Luftfeuchtigkeit, Erschütterungen oder ähnlichen Einflüssen besonders zu schützen, so kann er sich auf Absatz 1 Satz 1 Nummer 6 nur berufen, wenn er alle ihm nach den Umständen obliegenden Maßnahmen, insbesondere hinsichtlich der Auswahl, Instandhaltung und Verwendung besonderer Einrichtungen, getroffen und besondere Weisungen beachtet hat.
+
+(4) Der Verfrachter kann sich auf Absatz 1 Satz 1 Nummer 7 nur berufen, wenn er alle ihm nach den Umständen obliegenden Maßnahmen getroffen und besondere Weisungen beachtet hat.
+
+### § 500 Unerlaubte Verladung auf Deck
+
+Hat der Verfrachter ohne die nach § 486 Absatz 4 erforderliche Zustimmung des Befrachters oder des Abladers Gut auf Deck verladen, haftet er, auch wenn ihn kein Verschulden trifft, für den Schaden, der dadurch entsteht, dass das Gut auf Grund der Verladung auf Deck verloren gegangen ist oder beschädigt wurde. Im Falle von Satz 1 wird vermutet, dass der Verlust oder die Beschädigung des Gutes darauf zurückzuführen ist, dass das Gut auf Deck verladen wurde.
+
+### § 501 Haftung für andere
+
+Der Verfrachter hat ein Verschulden seiner Leute und der Schiffsbesatzung in gleichem Umfang zu vertreten wie eigenes Verschulden. Gleiches gilt für das Verschulden anderer Personen, deren er sich bei Ausführung der Beförderung bedient.
+
+### § 502 Wertersatz
+
+(1) Hat der Verfrachter nach den Bestimmungen dieses Untertitels für gänzlichen oder teilweisen Verlust des Gutes Schadensersatz zu leisten, so ist der Wert zu ersetzen, den das verlorene Gut bei fristgemäßer Ablieferung am vertraglich vereinbarten Bestimmungsort gehabt hätte.
+
+(2) Hat der Verfrachter nach den Bestimmungen dieses Untertitels für die Beschädigung des Gutes Schadensersatz zu leisten, so ist der Unterschied zwischen dem Wert des beschädigten Gutes am Ort und zur Zeit der Ablieferung und dem Wert zu ersetzen, den das unbeschädigte Gut am Ort und zur Zeit der Ablieferung gehabt hätte. Es wird vermutet, dass die zur Schadensminderung und Schadensbehebung aufzuwendenden Kosten dem nach Satz 1 zu ermittelnden Unterschiedsbetrag entsprechen.
+
+(3) Der Wert des Gutes bestimmt sich nach dem Marktpreis, sonst nach dem gemeinen Wert von Gütern gleicher Art und Beschaffenheit. Ist das Gut unmittelbar vor der Übernahme zur Beförderung verkauft worden, so wird vermutet, dass der in der Rechnung des Verkäufers ausgewiesene Kaufpreis einschließlich darin enthaltener Beförderungskosten der Marktpreis ist.
+
+(4) Von dem nach den vorstehenden Absätzen zu ersetzenden Wert ist der Betrag abzuziehen, der infolge des Verlusts oder der Beschädigung an Zöllen und sonstigen Kosten sowie im Falle des Verlusts an Fracht erspart ist.
+
+### § 503 Schadensfeststellungskosten
+
+Bei Verlust oder Beschädigung des Gutes hat der Verfrachter über den nach § 502 zu leistenden Ersatz hinaus die Kosten der Feststellung des Schadens zu tragen.
+
+### § 504 Haftungshöchstbetrag bei Güterschäden
+
+(1) Die nach den §§ 502 und 503 zu leistende Entschädigung wegen Verlust oder Beschädigung ist auf einen Betrag von 666,67 Rechnungseinheiten für das Stück oder die Einheit oder einen Betrag von 2 Rechnungseinheiten für das Kilogramm des Rohgewichts des Gutes begrenzt, je nachdem, welcher Betrag höher ist. Wird ein Container, eine Palette oder ein sonstiges Lademittel verwendet, das zur Zusammenfassung von Frachtstücken verwendet wird, so gilt jedes Stück und jede Einheit, welche in einem Beförderungsdokument als in einem solchen Lademittel enthalten angegeben sind, als Stück oder Einheit im Sinne des Satzes 1. Soweit das Beförderungsdokument solche Angaben nicht enthält, gilt das Lademittel als Stück oder Einheit.
+
+(2) Besteht das Gut aus mehreren Frachtstücken (Ladung) und sind nur einzelne Frachtstücke verloren oder beschädigt worden, so ist der Berechnung der Begrenzung nach Absatz 1
 
 1.  
-die Verluste und Kosten, welche, wenn auch während der Reise, aus der infolge einer besonderen Haverei nötig gewordenen Beschaffung von Geld entstehen;
+die gesamte Ladung zu Grunde zu legen, wenn die gesamte Ladung entwertet ist, oder
 
 2.  
-die Reklamekosten, auch wenn Schiff und Ladung zusammen und beide mit Erfolg reklamiert werden;
+der entwertete Teil der Ladung zu Grunde zu legen, wenn nur ein Teil der Ladung entwertet ist.
+
+### § 505 Rechnungseinheit
+
+Die in diesem Untertitel genannte Rechnungseinheit ist das Sonderziehungsrecht des Internationalen Währungsfonds. Der Betrag wird in Euro entsprechend dem Wert des Euro gegenüber dem Sonderziehungsrecht am Tag der Ablieferung des Gutes oder an dem von den Parteien vereinbarten Tag umgerechnet. Der Wert des Euro gegenüber dem Sonderziehungsrecht wird nach der Berechnungsmethode ermittelt, die der Internationale Währungsfonds an dem betreffenden Tag für seine Operationen und Transaktionen anwendet.
+
+### § 506 Außervertragliche Ansprüche
+
+(1) Die in diesem Untertitel und im Stückgutfrachtvertrag vorgesehenen Haftungsbefreiungen und Haftungsbegrenzungen gelten auch für einen außervertraglichen Anspruch des Befrachters oder des Empfängers gegen den Verfrachter wegen Verlust oder Beschädigung des Gutes.
+
+(2) Der Verfrachter kann auch gegenüber außervertraglichen Ansprüchen Dritter wegen Verlust oder Beschädigung des Gutes die Einwendungen nach Absatz 1 geltend machen. Die Einwendungen können jedoch nicht geltend gemacht werden, wenn
+
+1.  
+sie auf eine Vereinbarung gestützt werden, die von den Vorschriften dieses Untertitels zu Lasten des Befrachters abweicht,
+
+2.  
+der Dritte der Beförderung nicht zugestimmt hat und der Verfrachter die fehlende Befugnis des Befrachters, das Gut zu versenden, kannte oder infolge grober Fahrlässigkeit nicht kannte oder
 
 3.  
-die durch Prangen verursachte Beschädigung des Schiffes, seines Zubehörs und der Ladung, selbst wenn, um der Strandung oder Nehmung zu entgehen, geprangt worden ist.
+das Gut dem Dritten oder einer Person, die von diesem ihr Recht zum Besitz ableitet, vor Übernahme zur Beförderung abhanden gekommen ist.
 
-### § 708
+Satz 2 Nummer 1 gilt jedoch nicht für eine nach § 512 Absatz 2 Nummer 1 zulässige Vereinbarung über die Haftung des Verfrachters für einen Schaden, der durch ein Verhalten bei der Führung oder der sonstigen Bedienung des Schiffes oder durch Feuer oder Explosion an Bord des Schiffes entstanden ist.
 
-In den Fällen der großen Haverei bleiben bei der Schadensberechnung die Beschädigungen und Verluste außer Ansatz, welche die nachstehenden Gegenstände betreffen:
+### § 507 Wegfall der Haftungsbefreiungen und -begrenzungen
 
-1.  
-nicht unter Deck geladene Güter; diese Vorschrift findet jedoch bei der Küstenschiffahrt insofern keine Anwendung, als Deckladungen durch die Landesgesetze für zulässig erklärt sind (§ 566);
-
-2.  
-Güter, über die weder ein Konnossement ausgestellt ist noch das Manifest oder Ladebuch Auskunft gibt;
-
-3.  
-Kostbarkeiten, Kunstgegenstände, Geld und Wertpapiere, die dem Kapitän nicht gehörig bezeichnet worden sind.
-
-### § 709
-
-(1) Der an dem Schiff oder dem Zubehör des Schiffes entstandene, zur großen Haverei gehörige Schaden ist, wenn die Ausbesserung während der Reise erfolgt, am Ort der Ausbesserung und vor dieser, sonst an dem Ort, wo die Reise endet, durch Sachverständige zu ermitteln und zu schätzen. Die Taxe muß die Veranschlagung der erforderlichen Ausbesserungskosten enthalten. Sie ist, wenn während der Reise ausgebessert wird, für die Schadensberechnung insoweit maßgebend, als nicht die Ausführungskosten unter den Anschlagssummen bleiben. War die Aufnahme einer Taxe nicht ausführbar, so entscheidet der Betrag der auf die erforderlichen Ausbesserungen wirklich verwendeten Kosten.
-
-(2) Soweit die Ausbesserung nicht während der Reise geschieht, ist die Abschätzung für die Schadensberechnung ausschließlich maßgebend.
-
-### § 710
-
-(1) Der nach Maßgabe des § 709 ermittelte volle Betrag der Ausbesserungskosten bestimmt die zu leistende Vergütung, wenn das Schiff zur Zeit der Beschädigung noch nicht ein volles Jahr zu Wasser war.
-
-(2) Dasselbe gilt von der Vergütung für einzelne Teile des Schiffes, namentlich für die Metallhaut, sowie für einzelne Teile des Zubehörs, wenn solche Teile noch nicht ein volles Jahr in Gebrauch waren.
-
-(3) In den übrigen Fällen wird von dem vollen Betrag wegen des Unterschieds zwischen alt und neu ein Drittel, bei den Ankerketten ein Sechstel, bei den Ankern jedoch nichts abgezogen.
-
-(4) Von dem vollen Betrag kommen ferner in Abzug der volle Erlös oder Wert der noch vorhandenen alten Stücke, welche durch neue ersetzt sind oder zu ersetzen sind.
-
-(5) Findet ein solcher Abzug und zugleich der Abzug wegen des Unterschieds zwischen alt und neu statt, so ist zuerst dieser letztere und sodann von dem verbleibenden Betrag der andere Abzug zu machen.
-
-### § 711
-
-(1) Die Vergütung für aufgeopferte Güter wird durch den Marktpreis bestimmt, welchen Güter derselben Art und Beschaffenheit am Bestimmungsort bei dem Beginn der Löschung des Schiffes haben.
-
-(2) In Ermangelung eines Marktpreises oder sofern über den Marktpreis oder dessen Anwendung, insbesondere mit Rücksicht auf die Beschaffenheit der Güter, Zweifel bestehen, wird der Preis durch Sachverständige ermittelt.
-
-(3) Von dem Preis kommt in Abzug, was an Fracht, Zöllen und Kosten infolge des Verlusts der Güter erspart wird.
-
-(4) Zu den aufgeopferten Gütern gehören auch diejenigen, welche zur Deckung der großen Haverei verkauft worden sind (§ 706 Nr. 7).
-
-### § 712
-
-Die Vergütung für Güter, die eine zur großen Haverei gehörige Beschädigung erlitten haben, wird bestimmt durch den Unterschied zwischen dem durch Sachverständige zu ermittelnden Verkaufswert, welchen die Güter im beschädigten Zustand am Bestimmungsort bei dem Beginn der Löschung des Schiffes haben, und dem in § 711 bezeichneten Preis nach Abzug der Zölle und Kosten, soweit sie infolge der Beschädigung erspart sind.
-
-### § 713
-
-Die vor, bei oder nach dem Havereifall entstandenen, zur großen Haverei nicht gehörenden Wertverringerungen und Verluste sind bei der Berechnung der Vergütung (§§ 711 und 712) in Abzug zu bringen.
-
-### § 714
-
-Endet die Reise für Schiff und Ladung nicht im Bestimmungshafen, sondern an einem anderen Ort, so tritt dieser letztere, endet sie durch Verlust des Schiffes, so tritt der Ort, wohin die Ladung in Sicherheit gebracht ist, für die Ermittelung der Vergütung an die Stelle des Bestimmungsorts.
-
-### § 715
-
-Die Vergütung für entgangene Fracht wird bestimmt durch den Frachtbetrag, welcher für die aufgeopferten Güter zu entrichten gewesen sein würde, wenn sie mit dem Schiff an dem Ort ihrer Bestimmung oder, wenn dieser von dem Schiff nicht erreicht wird, an dem Ort angelangt wären, wo die Reise endet.
-
-### § 716
-
-Der gesamte Schaden, welcher die große Haverei bildet, wird über das Schiff, die Ladung und die Fracht nach dem Verhältnis des Wertes des Schiffes und der Ladung und des Betrags der Fracht verteilt.
-
-### § 717
-
-(1) Das Schiff nebst Zubehör trägt bei:
+Die in diesem Untertitel und im Stückgutfrachtvertrag vorgesehenen Haftungsbefreiungen und Haftungsbegrenzungen gelten nicht, wenn
 
 1.  
-mit dem Wert, welchen es in dem Zustand am Ende der Reise bei dem Beginn der Löschung hat;
+der Schaden auf eine Handlung oder Unterlassung zurückzuführen ist, die der Verfrachter selbst vorsätzlich oder leichtfertig und in dem Bewusstsein begangen hat, dass ein Schaden mit Wahrscheinlichkeit eintreten werde, oder
 
 2.  
-mit dem als große Haverei in Rechnung kommenden Schaden an Schiff und Zubehör.
+der Verfrachter mit dem Befrachter oder dem Ablader vereinbart hat, dass das Gut unter Deck befördert wird, und der Schaden darauf zurückzuführen ist, dass das Gut auf Deck verladen wurde.
 
-(2) Von dem in Absatz 1 Nr. 1 bezeichneten Wert ist der noch vorhandene Wert derjenigen Ausbesserungen und Anschaffungen abzuziehen, welche erst nach dem Havereifall erfolgt sind.
+### § 508 Haftung der Leute und der Schiffsbesatzung
 
-### § 718
+(1) Werden Ansprüche aus außervertraglicher Haftung wegen Verlust oder Beschädigung des Gutes gegen einen der Leute des Verfrachters geltend gemacht, so kann sich auch jener auf die in diesem Untertitel und im Stückgutfrachtvertrag vorgesehenen Haftungsbefreiungen und Haftungsbegrenzungen berufen. Gleiches gilt, wenn die Ansprüche gegen ein Mitglied der Schiffsbesatzung geltend gemacht werden.
 
-Die Ladung trägt bei:
+(2) Eine Berufung auf die Haftungsbefreiungen und Haftungsbegrenzungen nach Absatz 1 ist ausgeschlossen, wenn der Schuldner vorsätzlich oder leichtfertig und in dem Bewusstsein gehandelt hat, dass ein Schaden mit Wahrscheinlichkeit eintreten werde.
+
+(3) Sind für den Verlust oder die Beschädigung des Gutes sowohl der Verfrachter als auch eine der in Absatz 1 genannten Personen verantwortlich, so haften sie als Gesamtschuldner.
+
+### § 509 Ausführender Verfrachter
+
+(1) Wird die Beförderung ganz oder teilweise durch einen Dritten ausgeführt, der nicht der Verfrachter ist, so haftet der Dritte (ausführender Verfrachter) für den Schaden, der durch Verlust oder Beschädigung des Gutes während der durch ihn ausgeführten Beförderung entsteht, so, als wäre er der Verfrachter.
+
+(2) Vertragliche Vereinbarungen mit dem Befrachter oder Empfänger, durch die der Verfrachter seine Haftung erweitert, wirken gegen den ausführenden Verfrachter nur, soweit er ihnen schriftlich zugestimmt hat.
+
+(3) Der ausführende Verfrachter kann alle Einwendungen und Einreden geltend machen, die dem Verfrachter aus dem Stückgutfrachtvertrag zustehen.
+
+(4) Verfrachter und ausführender Verfrachter haften als Gesamtschuldner.
+
+(5) Wird einer der Leute des ausführenden Verfrachters oder ein Mitglied der Schiffsbesatzung in Anspruch genommen, so ist § 508 entsprechend anzuwenden.
+
+### § 510 Schadensanzeige
+
+(1) Ist ein Verlust oder eine Beschädigung des Gutes äußerlich erkennbar und zeigt der Empfänger oder der Befrachter dem Verfrachter Verlust oder Beschädigung nicht spätestens bei Ablieferung des Gutes an, so wird vermutet, dass das Gut vollständig und unbeschädigt abgeliefert worden ist. Die Anzeige muss den Verlust oder die Beschädigung hinreichend deutlich kennzeichnen.
+
+(2) Die Vermutung nach Absatz 1 gilt auch, wenn der Verlust oder die Beschädigung äußerlich nicht erkennbar war und nicht innerhalb von drei Tagen nach Ablieferung angezeigt worden ist.
+
+(3) Die Schadensanzeige ist in Textform zu erstatten. Zur Wahrung der Frist genügt die rechtzeitige Absendung.
+
+(4) Wird Verlust oder Beschädigung bei Ablieferung angezeigt, so genügt die Anzeige gegenüber demjenigen, der das Gut abliefert.
+
+### § 511 Verlustvermutung
+
+(1) Der Anspruchsberechtigte kann das Gut als verloren betrachten, wenn es nicht innerhalb eines Zeitraums abgeliefert wird, der dem Zweifachen der vereinbarten Lieferfrist entspricht, mindestens aber 30 Tage, bei einer grenzüberschreitenden Beförderung 60 Tage beträgt. Satz 1 gilt nicht, wenn der Verfrachter das Gut wegen eines Zurückbehaltungsrechts oder eines Pfandrechts nicht abzuliefern braucht oder wenn an dem Gut ein Pfandrecht für eine Forderung auf einen Beitrag zur Großen Haverei besteht und das Gut daher nicht ausgeliefert werden darf.
+
+(2) Erhält der Anspruchsberechtigte eine Entschädigung für den Verlust des Gutes, so kann er bei deren Empfang verlangen, dass er unverzüglich benachrichtigt wird, wenn das Gut wieder aufgefunden wird.
+
+(3) Der Anspruchsberechtigte kann innerhalb eines Monats nach Empfang der Benachrichtigung von dem Wiederauffinden des Gutes verlangen, dass ihm das Gut Zug um Zug gegen Erstattung der Entschädigung, gegebenenfalls abzüglich der in der Entschädigung enthaltenen Kosten, abgeliefert wird. Eine etwaige Pflicht zur Zahlung der Fracht sowie Ansprüche auf Schadensersatz bleiben unberührt.
+
+(4) Wird das Gut nach Zahlung einer Entschädigung wieder aufgefunden und hat der Anspruchsberechtigte eine Benachrichtigung nicht verlangt oder macht er nach Benachrichtigung seinen Anspruch auf Ablieferung nicht geltend, so kann der Verfrachter über das Gut frei verfügen.
+
+### § 512 Abweichende Vereinbarungen
+
+(1) Von den Vorschriften dieses Untertitels kann nur durch Vereinbarung abgewichen werden, die im Einzelnen ausgehandelt wird, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen wird.
+
+(2) Abweichend von Absatz 1 kann jedoch auch durch vorformulierte Vertragsbedingungen bestimmt werden, dass
 
 1.  
-mit den am Ende der Reise bei dem Beginn der Löschung noch vorhandenen Gütern oder, wenn die Reise durch den Verlust des Schiffes endet (§ 714), mit den in Sicherheit gebrachten Gütern, soweit in beiden Fällen diese Güter sich zur Zeit des Havereifalls an Bord des Schiffes oder eines Leichterfahrzeugs (§ 706 Nr. 2) befunden haben;
+der Verfrachter ein Verschulden seiner Leute und der Schiffsbesatzung nicht zu vertreten hat, wenn der Schaden durch ein Verhalten bei der Führung oder der sonstigen Bedienung des Schiffes, jedoch nicht bei der Durchführung von Maßnahmen, die überwiegend im Interesse der Ladung getroffen wurden, oder durch Feuer oder Explosion an Bord des Schiffes entstanden ist,
 
 2.  
-mit den aufgeopferten Gütern (§ 711).
+die Haftung des Verfrachters wegen Verlust oder Beschädigung auf höhere als die in § 504 vorgesehenen Beträge begrenzt ist.
 
-### § 719
-
-Bei der Ermittelung des Beitrags kommt in Ansatz:
-
-1.  
-für Güter, die unversehrt sind, der Marktpreis oder der durch Sachverständige zu ermittelnde Preis (§ 711), welchen sie am Ende der Reise bei dem Beginn und am Ort der Löschung des Schiffes, oder, wenn die Reise durch Verlust des Schiffes endet (§ 714), zur Zeit und am Ort der Bergung haben, nach Abzug der Fracht, Zölle und sonstigen Kosten;
-
-2.  
-für Güter, die während der Reise verdorben sind oder eine zur großen Haverei nicht gehörige Beschädigung erlitten haben, der durch Sachverständige zu ermittelnde Verkaufswert (§ 712), welchen die Güter im beschädigten Zustand zu der in Nummer 1 erwähnten Zeit und an dem dort bezeichneten Ort haben, nach Abzug der Fracht, Zölle und sonstigen Kosten;
-
-3.  
-für Güter, die aufgeopfert worden sind, der Betrag, welcher dafür nach § 711 als große Haverei in Rechnung kommt;
-
-4.  
-für Güter, die eine zur großen Haverei gehörige Beschädigung erlitten haben, der nach Nummer 2 zu ermittelnde Wert, welchen die Güter im beschädigten Zustand haben, und der Wertunterschied, welcher nach § 712 für die Beschädigung als große Haverei in Rechnung kommt.
-
-### § 720
-
-Sind Güter geworfen, so haben sie zu der gleichzeitigen oder einer späteren großen Haverei im Falle ihrer Bergung nur beizutragen, wenn der Eigentümer eine Vergütung verlangt.
-
-### § 721
-
-(1) Die Frachtgelder tragen bei mit zwei Dritteln:
-
-1.  
-des Bruttobetrags, welcher verdient ist;
-
-2.  
-des Betrags, welcher nach § 715 als große Haverei in Rechnung kommt.
-
-(2) Überfahrtsgelder tragen bei mit dem Betrag, welcher im Falle des Verlusts des Schiffes eingebüßt wäre (§ 670), nach Abzug der Kosten, die alsdann erspart sein würden.
-
-### § 721a
-
-Geht nach dem Havereifall und bis zum Beginn der Löschung am Ende der Reise ein beitragspflichtiger Gegenstand verloren, so trägt an Stelle des Gegenstands ein wegen des Verlusts gegen einen Dritten bestehender Ersatzanspruch mit seinem Wert bei. Geht ein beitragspflichtiger Gegenstand teilweise verloren oder wird er im Wert verringert, so ist bei der Ermittlung des Beitrags dem Wert des Gegenstands der Wert eines Ersatzanspruchs hinzuzurechnen, der wegen des teilweisen Verlusts oder der Wertverringerung gegen einen Dritten besteht.
-
-### § 722
-
-Wird nach dem Havereifall und vor dem Beginn der Löschung am Ende der Reise die Haftung eines beitragspflichtigen Gegenstands für eine durch einen Notfall entstandene Forderung begründet, so trägt der Gegenstand nur mit seinem Wert nach Abzug dieser Forderung bei.
-
-### § 723
-
-(1) Zur großen Haverei tragen nicht bei:
-
-1.  
-die Kriegs- und Mundvorräte des Schiffes;
-
-2.  
-die Heuer und die Habe der Schiffsbesatzung;
-
-3.  
-das Reisegut der Reisenden.
-
-(2) Sind Sachen dieser Art aufgeopfert oder haben sie eine zur großen Haverei gehörige Beschädigung erlitten, so wird dafür nach Maßgabe der §§ 711 bis 715 Vergütung gewährt; für Kostbarkeiten, Kunstgegenstände, Geld und Wertpapiere wird jedoch nur dann Vergütung gewährt, wenn sie dem Kapitän gehörig bezeichnet worden sind (§ 673 Abs. 2). Sachen, für die eine Vergütung gewährt wird, tragen mit dem Wert oder dem Wertunterschied bei, welcher als große Haverei in Rechnung kommt.
-
-(3) Die in § 708 erwähnten Gegenstände sind beitragspflichtig, soweit sie gerettet sind.
-
-(4)
-
-### § 724
-
-(1) Wenn nach dem Havereifall und bis zum Beginn der Löschung am Ende der Reise ein beitragspflichtiger Gegenstand ganz verlorengeht (§ 704) oder zu einem Teil verlorengeht oder im Wert verringert, insbesondere gemäß § 722 mit einer Forderung belastet wird, so tritt eine verhältnismäßige Erhöhung der von den übrigen Gegenständen zu entrichtenden Beiträge ein, soweit nicht der Verlust oder die Wertverringerung durch eine Schadensersatzforderung (§ 721a) ausgeglichen wird.
-
-(2) Ist der Verlust oder die Wertverringerung erst nach dem Beginn der Löschung erfolgt, so hat dies auf die Verteilung des Schadens, welcher die große Haverei bildet, keinen Einfluß.
-
-### § 725
-
-(1) Zur Zahlung des von dem Schiff zu entrichtenden Beitrags ist der Schiffseigentümer, zur Zahlung des von der Ladung zu entrichtenden Beitrags ist der Eigentümer der Ladung verpflichtet. Maßgebend ist das Eigentum im Zeitpunkt des Beginns der Löschung am Ende der Reise.
-
-(2) Zur Zahlung des von den Fracht- oder Überfahrtsgeldern zu entrichtenden Beitrags ist der Verfrachter verpflichtet. Ist vereinbart, daß die Fracht auch im Falle des Verlusts der Güter zu zahlen ist, so trifft die Verpflichtung zur Zahlung des auf die Fracht für die geretteten Güter entfallenden Beitrags den Eigentümer der Güter; Absatz 1 Satz 2 gilt entsprechend.
-
-(3) Der nach Absatz 1 oder 2 zur Zahlung des Beitrags Verpflichtete haftet nur bis zur Höhe des Wertes der geretteten Gegenstände, mit denen er beitragspflichtig ist. Maßgebend ist der Wert der Gegenstände bei Beginn der Löschung am Ende der Reise; § 717 Abs. 2, § 719 Nr. 1 und 2, §§ 721, 721a und 722 sind anzuwenden.
-
-### § 726
-
-(1) Wegen der von dem Schiff und der Fracht zu entrichtenden Beiträge haben die Vergütungsberechtigten an dem Schiff die Rechte von Schiffsgläubigern.
-
-(2) Auch an den beitragspflichtigen Gütern steht den Vergütungsberechtigten wegen des von den Gütern zu entrichtenden Beitrags ein Pfandrecht zu.
-
-### § 726a
-
-(1) Pfandrechte an den beitragspflichtigen Gütern nach § 726 Abs. 2 haben den Vorrang vor allen anderen an den Gütern begründeten Pfandrechten, auch wenn diese früher entstanden sind.
-
-(2) Bestehen an einer Sache mehrere Pfandrechte nach § 726 Abs. 2, so geht das wegen der später entstandenen Forderung dem wegen der früher enstandenen Forderung vor; Pfandrechte wegen gleichzeitig entstandener Forderungen sind gleichberechtigt; § 762 Abs. 3 gilt entsprechend. Das gleiche gilt im Verhältnis von Pfandrechten nach § 726 Abs. 2 zu Pfandrechten nach § 752 Abs. 2.
-
-(3) Pfandrechte an den beitragspflichtigen Gütern nach § 726 Abs. 2 erlöschen nach einem Jahr seit der Entstehung des Anspruchs; § 759 Abs. 2 gilt entsprechend.
-
-### § 727
-
-Die Feststellung und Verteilung der Schäden erfolgt an dem Bestimmungsort und, wenn dieser nicht erreicht wird, in dem Hafen, wo die Reise endet.
-
-### § 728
-
-(1) Der Kapitän ist verpflichtet, die Aufmachung der Dispache ohne Verzug zu veranlassen. Handelt er dieser Verpflichtung zuwider, so macht er sich jedem Beteiligten verantwortlich.
-
-(2) Wird die Aufmachung der Dispache nicht rechtzeitig veranlaßt, so kann jeder Beteiligte die Aufmachung in Antrag bringen und betreiben.
-
-### § 729
-
-(1) Im Gebiet dieses Gesetzbuchs wird die Dispache durch die ein für allemal bestellten oder in deren Ermangelung durch die vom Gericht besonders ernannten Personen (Dispacheure) aufgemacht.
-
-(2) Jeder Beteiligte ist verpflichtet, die zur Aufmachung der Dispache erforderlichen Urkunden, soweit er sie zu seiner Verfügung hat, namentlich Chartepartien, Konnossemente und Fakturen, dem Dispacheur mitzuteilen.
-
-### § 730
-
-Für die von dem Schiff zu leistenden Beiträge ist den Ladungsbeteiligten Sicherheit zu bestellen, bevor das Schiff den Hafen verlassen darf, in welchem nach § 727 die Feststellung und Verteilung der Schäden zu erfolgen hat.
-
-### § 731
-
-(1) Der Kapitän darf Güter, auf denen Havereibeiträge haften, vor der Berichtigung oder Sicherstellung der letzteren (§ 615) nicht ausliefern.
-
-(2) Das an den beitragspflichtigen Gütern den Vergütungsberechtigten zustehende Pfandrecht wird für diese durch den Verfrachter ausgeübt. Die Geltendmachung des Pfandrechts durch den Verfrachter erfolgt nach Maßgabe der Vorschriften, die für das Pfandrecht des Verfrachters wegen der Fracht und der Auslagen gelten.
-
-### § 732
-
-(1) Hat der Kapitän zur Fortsetzung der Reise, jedoch zum Zwecke einer nicht zur großen Haverei gehörenden Aufwendung, über einen Teil der Ladung durch Veräußerung, Verpfändung oder Verwendung verfügt, so ist der Verlust, den ein Ladungsbeteiligter dadurch erleidet, daß er wegen seines Ersatzanspruchs (§§ 540, 541) keine Befriedigung finden kann, von sämtlichen Ladungsbeteiligten nach den Grundsätzen der großen Haverei zu tragen.
-
-(2) Bei der Ermittelung des Verlusts ist im Verhältnis zu den Ladungsbeteiligten in allen Fällen, namentlich auch im Falle des § 541 Abs. 2 Satz 2, die in § 711 bezeichnete Vergütung maßgebend. Mit dem Wert, durch welchen diese Vergütung bestimmt wird, tragen die verkauften Güter auch zu einer etwa eintretenden großen Haverei bei (§ 718).
-
-### § 733
-
-Die in den Fällen der §§ 635 und 732 zu entrichtenden Beiträge und eintretenden Vergütungen stehen in allen rechtlichen Beziehungen den Beiträgen und Vergütungen in den Fällen der großen Haverei gleich.
-
-Zweiter Titel Schaden durch Zusammenstoß von Schiffen
------------------------------------------------------
+Dritter Untertitel Beförderungsdokumente
+----------------------------------------
 
 ### 
 
-### § 734
+### § 513 Anspruch auf Ausstellung eines Konnossements
 
-Im Falle eines Zusammenstoßes von Schiffen findet, wenn der Zusammenstoß durch Zufall oder höhere Gewalt herbeigeführt ist oder Ungewißheit über seine Ursachen besteht, kein Anspruch auf Ersatz des Schadens statt, der den Schiffen oder den an Bord befindlichen Personen oder Sachen durch den Zusammenstoß zugefügt ist.
+(1) Der Verfrachter hat, sofern im Stückgutfrachtvertrag nicht etwas Abweichendes vereinbart ist, dem Ablader auf dessen Verlangen ein Orderkonnossement auszustellen, das nach Wahl des Abladers an dessen Order, an die Order des Empfängers oder lediglich an Order zu stellen ist; im letzteren Fall ist unter der Order die Order des Abladers zu verstehen. Der Kapitän und jeder andere zur Zeichnung von Konnossementen für den Reeder Befugte sind berechtigt, das Konnossement für den Verfrachter auszustellen.
 
-### § 735
+(2) Ablader ist, wer das Gut dem Verfrachter zur Beförderung übergibt und vom Befrachter als Ablader zur Eintragung in das Konnossement benannt ist. Übergibt ein anderer als der Ablader das Gut oder ist ein Ablader nicht benannt, gilt der Befrachter als Ablader.
 
-Ist der Zusammenstoß durch Verschulden der Besatzung eines der Schiffe herbeigeführt, so ist der Reeder dieses Schiffes zum Ersatz des Schadens verpflichtet.
+### § 514 Bord- und Übernahmekonnossement
 
-### § 736
+(1) Das Konnossement ist auszustellen, sobald der Verfrachter das Gut übernommen hat. Durch das Konnossement bestätigt der Verfrachter den Empfang des Gutes und verpflichtet sich, es zum Bestimmungsort zu befördern und dem aus dem Konnossement Berechtigten gegen Rückgabe des Konnossements abzuliefern.
 
-(1) Ist der Zusammenstoß durch gemeinsames Verschulden der Besatzung der beteiligten Schiffe herbeigeführt, so sind die Reeder dieser Schiffe zum Ersatz des Schadens, der durch den Zusammenstoß den Schiffen oder den an Bord befindlichen Sachen zugefügt wird, nach Verhältnis der Schwere des auf jeder Seite obwaltenden Verschuldens verpflichtet. Kann nach den Umständen ein solches Verhältnis nicht festgesetzt werden oder erscheint das auf jeder Seite obwaltende Verschulden als gleich schwer, so sind die Reeder zu gleichen Teilen ersatzpflichtig.
+(2) Ist das Gut an Bord genommen worden, so hat der Verfrachter das Konnossement mit der Angabe auszustellen, wann und in welches Schiff das Gut an Bord genommen wurde (Bordkonnossement). Ist bereits vor dem Zeitpunkt, in dem das Gut an Bord genommen wurde, ein Konnossement ausgestellt worden (Übernahmekonnossement), so hat der Verfrachter auf Verlangen des Abladers im Konnossement zu vermerken, wann und in welches Schiff das Gut an Bord genommen wurde, sobald dies geschehen ist (Bordvermerk).
 
-(2) Für den Schaden, der durch die Tötung oder die Verletzung des Körpers oder der Gesundheit einer an Bord befindlichen Person entstanden ist, haften die Reeder der Schiffe, wenn der Zusammenstoß durch gemeinsames Verschulden herbeigeführt ist, dem Verletzten als Gesamtschuldner. Im Verhältnis der Reeder zueinander gelten auch für einen solchen Schaden die Vorschriften des Absatzes 1.
+(3) Das Konnossement ist in der vom Ablader geforderten Anzahl von Originalausfertigungen auszustellen.
 
-### § 737
+### § 515 Inhalt des Konnossements
 
-(1) Unberührt bleiben die Vorschriften über die Beschränkung der Haftung des Reeders und über seine Haftung aus Verträgen sowie die Vorschriften, nach denen die zur Schiffsbesatzung gehörenden Personen verpflichtet sind, für die Folgen ihres Verschuldens aufzukommen.
-
-(2) Bei der Anwendung der §§ 735, 736 steht das Verschulden eines an Bord tätigen Lotsen dem Verschulden eines Mitglieds der Schiffsbesatzung gleich.
-
-### § 738
-
-(1) Für Klagen auf Schadensersatz, die auf die Vorschriften dieses Titels oder auf entsprechende ausländische Rechtsvorschriften gestützt werden, ist das Gericht zuständig,
+(1) Das Konnossement soll folgende Angaben enthalten:
 
 1.  
-in dessen Bezirk der Beklagte seinen gewöhnlichen Aufenthalt oder eine gewerbliche Niederlassung hat;
+Ort und Tag der Ausstellung,
 
 2.  
-in dessen Bezirk sich der Zusammenstoß ereignet hat, wenn er im Gebiet eines Hafens oder in Binnengewässern stattgefunden hat;
+Name und Anschrift des Abladers,
 
 3.  
-in dessen Bezirk ein Arrest in ein Schiff des Beklagten vollzogen oder die Vollziehung eines Arrests durch Sicherheitsleistung gehemmt worden ist;
+Name des Schiffes,
 
 4.  
-bei dem bereits eine Klage auf Grund desselben Zusammenstoßes gegen denselben Beklagten anhängig ist oder war.
+Name und Anschrift des Verfrachters,
 
-Andere Gerichte sind örtlich nicht zuständig; §§ 33, 38, 39 der Zivilprozeßordnung bleiben unberührt.
+5.  
+Abladungshafen und Bestimmungsort,
 
-(2) Gegen einen Angehörigen eines fremden Staates kann die Klage auch in anderen Gerichtsständen erhoben werden, wenn nach den Gesetzen dieses Staates die Zuständigkeit für die Klage eines Deutschen im gleichen Fall nicht entsprechend Absatz 1 geregelt ist.
+6.  
+Name und Anschrift des Empfängers und eine etwaige Meldeadresse,
 
-(3) Klagen auf Ersatz des Schadens, der den Schiffen oder den an Bord befindlichen Personen oder Sachen durch einen Zusammenstoß zugefügt worden ist, können in den Gerichtsständen des Absatzes 1 Satz 1 auch dann erhoben werden, wenn die Ansprüche weder auf die Vorschriften dieses Titels noch auf entsprechende ausländische Rechtsvorschriften gestützt werden.
+7.  
+Art des Gutes und dessen äußerlich erkennbare Verfassung und Beschaffenheit,
 
-### § 738a
+8.  
+Maß, Zahl oder Gewicht des Gutes und dauerhafte und lesbare Merkzeichen,
 
-(1) Ist eine Klage auf Schadensersatz, die auf die Vorschriften dieses Titels oder auf entsprechende ausländische Rechtsvorschriften gestützt wird, bei einem ausländischen Gericht anhängig, so hat die Klage die in § 261 Abs. 3 Nr. 1 der Zivilprozeßordnung bestimmte Wirkung der Rechtshängigkeit, wenn die Zuständigkeit des Gerichts auf einer dem § 738 Abs. 1 entsprechenden Regelung beruht und wenn das Gericht des Staates, vor dem die Klage auf Schadensersatz anhängig ist, im Falle einer vor einem deutschen Gericht anhängigen Klage die Wirkungen der Rechtshängigkeit anerkennen würde.
+9.  
+die bei Ablieferung geschuldete Fracht, bis zur Ablieferung anfallende Kosten sowie einen Vermerk über die Frachtzahlung,
 
-(2) Hat ein Kläger vor einem ausländischen Gericht eine Klage gemäß Absatz 1 durchgeführt, so kann er wegen desselben Anspruchs gegen denselben Beklagten bei einem anderen nach § 738 Abs. 1 zuständigen Gericht nicht erneut Klage erheben. Dies gilt nicht, soweit das Verfahren vor dem ausländischen Gericht zu seinen Gunsten durchgeführt worden ist und er auf seine Rechte aus diesem Verfahren verzichtet. Satz 1 ist nur anzuwenden, wenn die Gegenseitigkeit verbürgt ist.
+10.  
+Zahl der Ausfertigungen.
 
-### § 738b
+(2) Die Angaben nach Absatz 1 Nummer 7 und 8 sind auf Verlangen des Abladers so aufzunehmen, wie er sie dem Verfrachter vor der Übernahme des Gutes in Textform mitgeteilt hat.
 
-Die Vorschriften der §§ 738 und 738a gelten nicht, wenn sich der Zusammenstoß auf dem Rhein oder auf der Mosel ereignet hat.
+### § 516 Form des Konnossements. Verordnungsermächtigung
 
-### § 738c
+(1) Das Konnossement ist vom Verfrachter zu unterzeichnen; eine Nachbildung der eigenhändigen Unterschrift durch Druck oder Stempel genügt.
 
-Fügt ein Schiff durch Ausführung oder Unterlassung eines Manövers oder durch Nichtbeobachtung einer Verordnung einem anderen Schiff oder den an Bord der Schiffe befindlichen Personen oder Sachen einen Schaden zu, ohne daß ein Zusammenstoß stattfindet, so finden die Vorschriften dieses Titels entsprechende Anwendung.
+(2) Dem Konnossement gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie das Konnossement, sofern sichergestellt ist, dass die Authentizität und die Integrität der Aufzeichnung gewahrt bleiben (elektronisches Konnossement).
 
-### § 739
+(3) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage, Rückgabe und Übertragung eines elektronischen Konnossements sowie die Einzelheiten des Verfahrens einer nachträglichen Eintragung in ein elektronisches Konnossement zu regeln.
 
-(1) Die Vorschriften dieses Titels gelten auch dann, wenn bei dem Unfall ein der Binnenschiffahrt dienendes Schiff beteiligt ist.
+### § 517 Beweiskraft des Konnossements
 
-(2)
+(1) Das Konnossement begründet die Vermutung, dass der Verfrachter das Gut so übernommen hat, wie es nach § 515 Absatz 1 Nummer 7 und 8 beschrieben ist. Bezieht sich die Beschreibung auf den Inhalt eines geschlossenen Lademittels, so begründet das Konnossement jedoch nur dann die Vermutung nach Satz 1, wenn der Inhalt vom Verfrachter überprüft und das Ergebnis der Überprüfung im Konnossement eingetragen worden ist. Enthält das Konnossement keine Angabe über die äußerlich erkennbare Verfassung oder Beschaffenheit des Gutes, so begründet das Konnossement die Vermutung, dass der Verfrachter das Gut in äußerlich erkennbar guter Verfassung und Beschaffenheit übernommen hat.
 
-Achter Abschnitt Bergung
-------------------------
+(2) Das Konnossement begründet die Vermutung nach Absatz 1 nicht, soweit der Verfrachter einen Vorbehalt in das Konnossement eingetragen hat. Aus dem Vorbehalt muss sich ergeben,
+
+1.  
+in welcher Verfassung das Gut bei seiner Übernahme durch den Verfrachter war oder wie das Gut bei seiner Übernahme beschaffen war,
+
+2.  
+welche Angabe im Konnossement unrichtig ist und wie die richtige Angabe lautet,
+
+3.  
+welchen Grund der Verfrachter zu der Annahme hatte, dass die Angabe unrichtig ist, oder
+
+4.  
+weshalb der Verfrachter keine ausreichende Gelegenheit hatte, die Angabe nachzuprüfen.
+
+### § 518 Stellung des Reeders bei mangelhafter Verfrachterangabe
+
+Ist in einem Konnossement, das vom Kapitän oder von einem anderen zur Zeichnung von Konnossementen für den Reeder Befugten ausgestellt wurde, der Verfrachter nicht angegeben oder ist in diesem Konnossement als Verfrachter eine Person angegeben, die nicht der Verfrachter ist, so ist aus dem Konnossement anstelle des Verfrachters der Reeder berechtigt und verpflichtet.
+
+### § 519 Berechtigung aus dem Konnossement. Legitimation
+
+Die im Konnossement verbrieften seefrachtvertraglichen Ansprüche können nur von dem aus dem Konnossement Berechtigten geltend gemacht werden. Zugunsten des legitimierten Besitzers des Konnossements wird vermutet, dass er der aus dem Konnossement Berechtigte ist. Legitimierter Besitzer des Konnossements ist, wer ein Konnossement besitzt, das
+
+1.  
+auf den Inhaber lautet,
+
+2.  
+an Order lautet und den Besitzer als Empfänger benennt oder durch eine ununterbrochene Reihe von Indossamenten ausweist oder
+
+3.  
+auf den Namen des Besitzers lautet.
+
+### § 520 Befolgung von Weisungen
+
+(1) Ist ein Konnossement ausgestellt, so steht das Verfügungsrecht nach den §§ 491 und 492 ausschließlich dem legitimierten Besitzer des Konnossements zu. Der Verfrachter darf Weisungen nur gegen Vorlage sämtlicher Ausfertigungen des Konnossements ausführen. Weisungen eines legitimierten Besitzers des Konnossements darf der Verfrachter jedoch nicht ausführen, wenn ihm bekannt oder infolge grober Fahrlässigkeit unbekannt ist, dass der legitimierte Besitzer des Konnossements nicht der aus dem Konnossement Berechtigte ist.
+
+(2) Befolgt der Verfrachter Weisungen, ohne sich sämtliche Ausfertigungen des Konnossements vorlegen zu lassen, haftet er dem aus dem Konnossement Berechtigten für den Schaden, der diesem daraus entsteht. Die Haftung ist auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre.
+
+### § 521 Ablieferung gegen Rückgabe des Konnossements
+
+(1) Nach Ankunft des Gutes am Löschplatz ist der legitimierte Besitzer des Konnossements berechtigt, vom Verfrachter die Ablieferung des Gutes zu verlangen. Macht der legitimierte Besitzer des Konnossements von diesem Recht Gebrauch, ist er entsprechend § 494 Absatz 2 und 3 zur Zahlung der Fracht und einer sonstigen Vergütung verpflichtet.
+
+(2) Der Verfrachter ist zur Ablieferung des Gutes nur gegen Rückgabe des Konnossements, auf dem die Ablieferung bescheinigt ist, und gegen Leistung der noch ausstehenden, nach § 494 Absatz 2 und 3 geschuldeten Zahlungen verpflichtet. Er darf das Gut jedoch nicht dem legitimierten Besitzer des Konnossements abliefern, wenn ihm bekannt oder infolge grober Fahrlässigkeit unbekannt ist, dass der legitimierte Besitzer des Konnossements nicht der aus dem Konnossement Berechtigte ist.
+
+(3) Sind mehrere Ausfertigungen des Konnossements ausgestellt, so ist das Gut dem legitimierten Besitzer auch nur einer Ausfertigung des Konnossements abzuliefern. Melden sich mehrere legitimierte Besitzer, so hat der Verfrachter das Gut in einem öffentlichen Lagerhaus oder in sonst sicherer Weise zu hinterlegen und die Besitzer, die sich gemeldet haben, unter Angabe der Gründe seines Verfahrens hiervon zu benachrichtigen. Der Verfrachter kann in diesem Fall das Gut gemäß § 373 Absatz 2 bis 4 verkaufen lassen, wenn es sich um verderbliche Ware handelt oder der Zustand des Gutes eine solche Maßnahme rechtfertigt oder wenn die andernfalls zu erwartenden Kosten in keinem angemessenen Verhältnis zum Wert des Gutes stehen.
+
+(4) Liefert der Verfrachter das Gut einem anderen als dem legitimierten Besitzer des Konnossements oder, im Falle des Absatzes 2 Satz 2, einem anderen als dem aus dem Konnossement Berechtigten ab, haftet er für den Schaden, der dem aus dem Konnossement Berechtigten daraus entsteht. Die Haftung ist auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre.
+
+### § 522 Einwendungen
+
+(1) Dem aus dem Konnossement Berechtigten kann der Verfrachter nur solche Einwendungen entgegensetzen, die die Gültigkeit der Erklärungen im Konnossement betreffen oder sich aus dem Inhalt des Konnossements ergeben oder dem Verfrachter unmittelbar gegenüber dem aus dem Konnossement Berechtigten zustehen. Eine Vereinbarung, auf die im Konnossement lediglich verwiesen wird, ist nicht Inhalt des Konnossements.
+
+(2) Gegenüber einem im Konnossement benannten Empfänger, an den das Konnossement begeben wurde, kann der Verfrachter die Vermutungen nach § 517 nicht widerlegen, es sei denn, dem Empfänger war im Zeitpunkt der Begebung des Konnossements bekannt oder infolge grober Fahrlässigkeit unbekannt, dass die Angaben im Konnossement unrichtig sind. Gleiches gilt gegenüber einem Dritten, dem das Konnossement übertragen wurde.
+
+(3) Wird ein ausführender Verfrachter nach § 509 von dem aus dem Konnossement Berechtigten in Anspruch genommen, kann auch der ausführende Verfrachter die Einwendungen nach Absatz 1 geltend machen. Abweichend von Absatz 2 kann der ausführende Verfrachter darüber hinaus die Vermutungen nach § 517 widerlegen, wenn das Konnossement weder von ihm noch von einem für ihn zur Zeichnung von Konnossementen Befugten ausgestellt wurde.
+
+### § 523 Haftung für unrichtige Konnossementsangaben
+
+(1) Der Verfrachter haftet für den Schaden, der dem aus dem Konnossement Berechtigten dadurch entsteht, dass die in das Konnossement nach den §§ 515 und 517 Absatz 2 aufzunehmenden Angaben und Vorbehalte fehlen oder die in das Konnossement aufgenommenen Angaben oder Vorbehalte unrichtig sind. Dies gilt insbesondere dann, wenn das Gut bei Übernahme durch den Verfrachter nicht in äußerlich erkennbar guter Verfassung war und das Konnossement hierüber weder eine Angabe nach § 515 Absatz 1 Nummer 7 noch einen Vorbehalt nach § 517 Absatz 2 enthält. Die Haftung nach den Sätzen 1 und 2 entfällt, wenn der Verfrachter weder gewusst hat noch bei Anwendung der Sorgfalt eines ordentlichen Verfrachters hätte wissen müssen, dass die Angaben fehlen oder unrichtig oder unvollständig sind.
+
+(2) Wird ein Bordkonnossement ausgestellt, bevor der Verfrachter das Gut übernommen hat, oder wird in das Übernahmekonnossement ein Bordvermerk aufgenommen, bevor das Gut an Bord genommen wurde, so haftet der Verfrachter, auch wenn ihn kein Verschulden trifft, für den Schaden, der dem aus dem Konnossement Berechtigten daraus entsteht.
+
+(3) Ist in einem Konnossement, das vom Kapitän oder von einem anderen zur Zeichnung von Konnossementen für den Reeder Befugten ausgestellt wurde, der Name des Verfrachters unrichtig angegeben, so haftet auch der Reeder für den Schaden, der dem aus dem Konnossement Berechtigten aus der Unrichtigkeit der Angabe entsteht. Die Haftung nach Satz 1 entfällt, wenn der Aussteller des Konnossements weder gewusst hat noch bei Anwendung der Sorgfalt eines ordentlichen Verfrachters hätte wissen müssen, dass der Name des Verfrachters nicht oder unrichtig angegeben ist.
+
+(4) Die Haftung nach den Absätzen 1 bis 3 ist auf den Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre.
+
+### § 524 Traditionswirkung des Konnossements
+
+Die Begebung des Konnossements an den darin benannten Empfänger hat, sofern der Verfrachter das Gut im Besitz hat, für den Erwerb von Rechten an dem Gut dieselben Wirkungen wie die Übergabe des Gutes. Gleiches gilt für die Übertragung des Konnossements an Dritte.
+
+### § 525 Abweichende Bestimmung im Konnossement
+
+Eine Bestimmung im Konnossement, die von den Haftungsvorschriften in den §§ 498 bis 511 oder in § 520 Absatz 2, § 521 Absatz 4 oder § 523 abweicht, ist nur wirksam, wenn die Voraussetzungen des § 512 erfüllt sind. Der Verfrachter kann sich jedoch auf eine Bestimmung im Konnossement, die von den in Satz 1 genannten Haftungsvorschriften zu Lasten des aus dem Konnossement Berechtigten abweicht, nicht gegenüber einem im Konnossement benannten Empfänger, an den das Konnossement begeben wurde, sowie gegenüber einem Dritten, dem das Konnossement übertragen wurde, berufen. Satz 2 gilt nicht für eine Bestimmung nach § 512 Absatz 2 Nummer 1.
+
+### § 526 Seefrachtbrief. Verordnungsermächtigung
+
+(1) Der Verfrachter kann, sofern er nicht ein Konnossement ausgestellt hat, einen Seefrachtbrief ausstellen. Auf den Inhalt des Seefrachtbriefs ist § 515 entsprechend anzuwenden mit der Maßgabe, dass an die Stelle des Abladers der Befrachter tritt.
+
+(2) Der Seefrachtbrief dient bis zum Beweis des Gegenteils als Nachweis für Abschluss und Inhalt des Stückgutfrachtvertrages sowie für die Übernahme des Gutes durch den Verfrachter. § 517 ist entsprechend anzuwenden.
+
+(3) Der Seefrachtbrief ist vom Verfrachter zu unterzeichnen; eine Nachbildung der eigenhändigen Unterschrift durch Druck oder Stempel genügt.
+
+(4) Dem Seefrachtbrief gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie der Seefrachtbrief, sofern sichergestellt ist, dass die Authentizität und die Integrität der Aufzeichnung gewahrt bleiben (elektronischer Seefrachtbrief). Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung und der Vorlage eines elektronischen Seefrachtbriefs sowie die Einzelheiten des Verfahrens über nachträgliche Eintragungen in einen elektronischen Seefrachtbrief zu regeln.
+
+Zweiter Titel Reisefrachtvertrag
+--------------------------------
 
 ### 
 
-### § 740 Pflichten des Bergers und sonstiger Personen
+### § 527 Reisefrachtvertrag
 
-(1) Wer einem in Seegewässern in Gefahr befindlichen See- oder Binnenschiff oder sonstigen Vermögensgegenstand, einem in Binnengewässern in Gefahr befindlichen Seeschiff oder von einem Seeschiff aus einem in Binnengewässern in Gefahr befindlichen Binnenschiff oder sonstigen Vermögensgegenstand Hilfe leistet (Berger), ist gegenüber dem Eigentümer des Schiffes sowie dem Eigentümer des sonstigen Vermögensgegenstandes verpflichtet, die Bergungsmaßnahmen mit der gebotenen Sorgfalt durchzuführen, andere Berger um Unterstützung zu bitten, wenn die Umstände dies bei vernünftiger Betrachtungsweise erfordern, und das Eingreifen anderer Berger hinzunehmen, wenn von dem Schiffer oder Kapitän oder dem Eigentümer des in Gefahr befindlichen Schiffes oder dem Eigentümer des sonstigen in Gefahr befindlichen Vermögensgegenstandes vernünftigerweise darum ersucht wird.
+(1) Durch den Reisefrachtvertrag wird der Verfrachter verpflichtet, das Gut mit einem bestimmten Schiff im Ganzen, mit einem verhältnismäßigen Teil eines bestimmten Schiffes oder in einem bestimmt bezeichneten Raum eines solchen Schiffes auf einer oder mehreren bestimmten Reisen über See zum Bestimmungsort zu befördern und dort dem Empfänger abzuliefern. Jede Partei kann die schriftliche Beurkundung des Reisefrachtvertrags verlangen.
 
-(2) Der Eigentümer und der Schiffer oder Kapitän des in Gefahr befindlichen Schiffes sowie der Eigentümer eines sonstigen in Gefahr befindlichen Vermögensgegenstandes sind gegenüber dem Berger verpflichtet, mit diesem während der Bergungsmaßnahmen in jeder Hinsicht zusammenzuarbeiten. Wurde das Schiff oder ein sonstiger Vermögensgegenstand in Sicherheit gebracht, so sind sie ferner auf vernünftiges Ersuchen des Bergers verpflichtet, das Schiff oder den sonstigen Vermögensgegenstand zurückzunehmen.
+(2) Auf den Reisefrachtvertrag sind die §§ 481 bis 511 und 513 bis 525 entsprechend anzuwenden, soweit die §§ 528 bis 535 nichts anderes bestimmen.
 
-(3) Als Schiff im Sinne dieses Abschnitts ist auch ein schwimmendes Gerät oder schwimmfähiges Bauwerk anzusehen. Vermögensgegenstand im Sinne dieses Abschnitts ist auch ein gefährdeter Anspruch auf Fracht. Nicht als Schiff oder Vermögensgegenstand im Sinne dieses Abschnitts gelten dagegen
+### § 528 Ladehafen. Ladeplatz
+
+(1) Der Verfrachter hat das Schiff zur Einnahme des Gutes an den im Reisefrachtvertrag benannten oder an den vom Befrachter nach Abschluss des Reisefrachtvertrags zu benennenden Ladeplatz hinzulegen.
+
+(2) Ist ein Ladehafen oder ein Ladeplatz im Reisefrachtvertrag nicht benannt und hat der Befrachter den Ladehafen oder Ladeplatz nach Abschluss des Reisefrachtvertrags zu benennen, so muss er mit der gebotenen Sorgfalt einen sicheren Ladehafen oder Ladeplatz auswählen.
+
+### § 529 Anzeige der Ladebereitschaft
+
+(1) Der Verfrachter hat, sobald das Schiff am Ladeplatz zur Einnahme des Gutes bereit ist, dem Befrachter die Ladebereitschaft anzuzeigen. Hat der Befrachter den Ladeplatz noch zu benennen, kann der Verfrachter die Ladebereitschaft bereits anzeigen, wenn das Schiff den Ladehafen erreicht hat.
+
+(2) Die Ladebereitschaft muss während der am Ladeplatz üblichen Geschäftsstunden angezeigt werden. Wird die Ladebereitschaft außerhalb der ortsüblichen Geschäftsstunden angezeigt, so gilt die Anzeige mit Beginn der auf sie folgenden ortsüblichen Geschäftsstunde als zugegangen.
+
+### § 530 Ladezeit. Überliegezeit
+
+(1) Mit dem auf die Anzeige folgenden Tag beginnt die Ladezeit.
+
+(2) Für die Ladezeit kann, sofern nichts Abweichendes vereinbart ist, keine besondere Vergütung verlangt werden.
+
+(3) Wartet der Verfrachter auf Grund vertraglicher Vereinbarung oder aus Gründen, die nicht seinem Risikobereich zuzurechnen sind, über die Ladezeit hinaus (Überliegezeit), so hat er Anspruch auf eine angemessene Vergütung (Liegegeld). Macht der Empfänger nach Ankunft des Schiffes am Löschplatz sein Recht entsprechend § 494 Absatz 1 Satz 1 geltend, so schuldet auch er das Liegegeld, wenn ihm der geschuldete Betrag bei Ablieferung des Gutes mitgeteilt worden ist.
+
+(4) Die Ladezeit und die Überliegezeit bemessen sich mangels abweichender Vereinbarung nach einer den Umständen des Falles angemessenen Frist. Bei der Berechnung der Lade- und Überliegezeit werden die Tage in ununterbrochen fortlaufender Reihenfolge unter Einschluss der Sonntage und der Feiertage gezählt. Nicht in Ansatz kommt die Zeit, in der das Verladen des Gutes aus Gründen, die dem Risikobereich des Verfrachters zuzurechnen sind, unmöglich ist.
+
+### § 531 Verladen
+
+(1) Soweit sich aus den Umständen oder der Verkehrssitte nicht etwas anderes ergibt, hat der Befrachter das Gut zu verladen. Die Verantwortung des Verfrachters für die Seetüchtigkeit des beladenen Schiffes bleibt unberührt.
+
+(2) Der Verfrachter ist nicht befugt, das Gut umzuladen.
+
+### § 532 Kündigung durch den Befrachter
+
+(1) Der Befrachter kann den Reisefrachtvertrag jederzeit kündigen.
+
+(2) Kündigt der Befrachter, so kann der Verfrachter, wenn er einen Anspruch nach § 489 Absatz 2 Satz 1 Nummer 1 geltend macht, auch ein etwaiges Liegegeld verlangen.
+
+### § 533 Teilbeförderung
+
+(1) Der Befrachter kann jederzeit verlangen, dass der Verfrachter nur einen Teil des Gutes befördert. Macht der Befrachter von diesem Recht Gebrauch, gebühren dem Verfrachter die volle Fracht, das etwaige Liegegeld sowie Ersatz der Aufwendungen, die ihm durch das Fehlen eines Teils des Gutes entstehen. Ist der Verfrachter nach dem Reisefrachtvertrag berechtigt, mit demselben Schiff anstelle der nicht verladenen Frachtstücke anderes Gut zu befördern, und macht er von diesem Recht Gebrauch, so ist von der vollen Fracht die Fracht für die Beförderung dieses anderen Gutes abzuziehen. Soweit dem Verfrachter durch das Fehlen eines Teils des Gutes die Sicherheit für die volle Fracht entgeht, kann er außerdem eine anderweitige Sicherheit verlangen. Unterbleibt die Beförderung der vollständigen Ladung aus Gründen, die dem Risikobereich des Verfrachters zuzurechnen sind, steht dem Verfrachter der Anspruch nach den Sätzen 2 bis 4 nur insoweit zu, als tatsächlich Gut befördert wird.
+
+(2) Verlädt der Befrachter das Gut nicht oder nicht vollständig innerhalb der Ladezeit und einer vereinbarten Überliegezeit oder wird das Gut, wenn dem Befrachter die Verladung nicht obliegt, nicht oder nicht vollständig innerhalb dieser Zeit abgeladen, so kann der Verfrachter dem Befrachter eine angemessene Frist setzen, innerhalb derer das Gut verladen oder abgeladen werden soll. Wird das Gut bis zum Ablauf der Frist nur teilweise verladen oder abgeladen, kann der Verfrachter die bereits verladenen oder abgeladenen Frachtstücke befördern und die Ansprüche nach Absatz 1 Satz 2 bis 4 geltend machen. § 490 Absatz 4 ist entsprechend anzuwenden.
+
+### § 534 Kündigung durch den Verfrachter
+
+(1) Verlädt der Befrachter kein Gut innerhalb der Ladezeit und einer vereinbarten Überliegezeit oder wird, wenn dem Befrachter die Verladung nicht obliegt, kein Gut innerhalb dieser Zeit abgeladen, so kann der Verfrachter den Vertrag nach Maßgabe des § 490 kündigen und die Ansprüche nach § 489 Absatz 2 in Verbindung mit § 532 Absatz 2 geltend machen.
+
+(2) Der Verfrachter kann den Vertrag bereits vor Ablauf der Ladezeit und einer vereinbarten Überliegezeit nach Maßgabe des § 490 kündigen, wenn offensichtlich ist, dass das Gut nicht verladen oder abgeladen wird.
+
+### § 535 Löschen
+
+(1) Die §§ 528 bis 531 über Ladehafen und Ladeplatz, Anzeige der Ladebereitschaft, Ladezeit und Verladen sind entsprechend auf Löschhafen und Löschplatz, Anzeige der Löschbereitschaft, Löschzeit und Löschen anzuwenden. Abweichend von § 530 Absatz 3 Satz 2 schuldet der Empfänger jedoch auch dann Liegegeld wegen Überschreitung der Löschzeit, wenn ihm der geschuldete Betrag bei Ablieferung des Gutes nicht mitgeteilt worden ist.
+
+(2) Ist der Empfänger dem Verfrachter unbekannt, so ist die Anzeige der Löschbereitschaft durch öffentliche Bekanntmachung in ortsüblicher Weise zu bewirken.
+
+Zweiter Unterabschnitt Personenbeförderungsverträge
+---------------------------------------------------
+
+### 
+
+### § 536 Anwendungsbereich
+
+(1) Für Schäden, die bei der Beförderung von Fahrgästen und ihrem Gepäck über See durch den Tod oder die Körperverletzung eines Fahrgasts oder durch den Verlust, die Beschädigung oder verspätete Aushändigung von Gepäck entstehen, haften der Beförderer und der ausführende Beförderer nach den Vorschriften dieses Unterabschnitts. Das Recht, eine Beschränkung der Haftung nach den §§ 611 bis 617 oder den §§ 4 bis 5m des Binnenschifffahrtsgesetzes geltend zu machen, bleibt unberührt.
+
+(2) Die Vorschriften dieses Unterabschnitts gelten nicht, soweit die folgenden Regelungen maßgeblich sind:
+
+1.  
+unmittelbar anwendbare Regelungen der Europäischen Union in ihrer jeweils geltenden Fassung, insbesondere die Verordnung (EG) Nr. 392/2009 des Europäischen Parlaments und des Rates vom 23. April 2009 über die Unfallhaftung von Beförderern von Reisenden auf See (ABl. L 131 vom 28.5.2009, S. 24), oder
+
+2.  
+unmittelbar anwendbare Regelungen in völkerrechtlichen Übereinkünften.
+
+Die Haftungsvorschriften dieses Unterabschnitts gelten ferner nicht, wenn der Schaden auf einem von einer Kernanlage ausgehenden nuklearen Ereignis beruht und der Inhaber der Kernanlage nach den Vorschriften des Übereinkommens vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie in der Fassung der Bekanntmachung vom 5. Februar 1976 (BGBl. 1976 II S. 310, 311) und des Protokolls vom 16. November 1982 (BGBl. 1985 II S. 690) oder des Atomgesetzes haftet.
+
+### § 537 Begriffsbestimmungen
+
+Im Sinne dieses Unterabschnitts ist
+
+1.  
+ein Beförderer eine Person, die einen Vertrag über die Beförderung eines Fahrgasts über See (Personenbeförderungsvertrag) schließt;
+
+2.  
+ein Fahrgast eine Person, die
+
+a)  
+auf Grund eines Personenbeförderungsvertrags befördert wird oder
+
+b)  
+mit Zustimmung des Beförderers ein Fahrzeug oder lebende Tiere, die auf Grund eines Seefrachtvertrags befördert werden, begleitet;
+
+3.  
+Gepäck jeder Gegenstand, der auf Grund eines Personenbeförderungsvertrags befördert wird, ausgenommen lebende Tiere;
+
+4.  
+Kabinengepäck das Gepäck, das ein Fahrgast in seiner Kabine oder sonst in seinem Besitz hat, einschließlich des Gepäcks, das ein Fahrgast in oder auf seinem Fahrzeug hat;
+
+5.  
+ein Schifffahrtsereignis ein Schiffbruch, ein Kentern, ein Zusammenstoß oder eine Strandung des Schiffes, eine Explosion oder ein Feuer im Schiff oder ein Mangel des Schiffes;
+
+6.  
+ein Mangel des Schiffes eine Funktionsstörung, ein Versagen oder eine Nichteinhaltung von anwendbaren Sicherheitsvorschriften in Bezug auf einen Teil des Schiffes oder seiner Ausrüstung, wenn dieser Teil oder diese Ausrüstung verwendet wird
+
+a)  
+für das Verlassen des Schiffes, die Evakuierung oder die Ein- und Ausschiffung der Fahrgäste,
+
+b)  
+für den Schiffsantrieb, die Ruderanlage, die sichere Schiffsführung, das Festmachen, das Ankern, das Anlaufen oder Verlassen des Liege- oder Ankerplatzes oder die Lecksicherung nach Wassereinbruch oder
+
+c)  
+für das Aussetzen von Rettungsmitteln.
+
+### § 538 Haftung des Beförderers für Personenschäden
+
+(1) Der Beförderer haftet für den Schaden, der durch den Tod oder die Körperverletzung eines Fahrgasts entsteht, wenn das den Schaden verursachende Ereignis während der Beförderung eingetreten ist und auf einem Verschulden des Beförderers beruht. Ist das den Schaden verursachende Ereignis ein Schifffahrtsereignis, wird das Verschulden vermutet.
+
+(2) Abweichend von Absatz 1 haftet der Beförderer ohne Verschulden für den Schaden, der durch den Tod oder die Körperverletzung eines Fahrgasts auf Grund eines Schifffahrtsereignisses während der Beförderung entsteht, soweit der Schaden den Betrag von 250 000 Rechnungseinheiten nicht übersteigt. Der Beförderer ist jedoch von dieser Haftung befreit, wenn das Ereignis
+
+1.  
+infolge von Feindseligkeiten, einer Kriegshandlung, eines Bürgerkriegs, eines Aufstands oder eines außergewöhnlichen, unvermeidlichen und unabwendbaren Naturereignisses eingetreten ist oder
+
+2.  
+ausschließlich durch eine Handlung oder Unterlassung verursacht wurde, die von einem Dritten in der Absicht, das Ereignis zu verursachen, begangen wurde.
+
+(3) Die Beförderung im Sinne der Absätze 1 und 2 umfasst
+
+1.  
+den Zeitraum, in dem sich der Fahrgast an Bord des Schiffes befindet, einschließlich des Zeitraums, in dem er ein- und ausgeschifft wird, sowie
+
+2.  
+den Zeitraum, in dem der Fahrgast auf dem Wasserweg vom Land auf das Schiff oder umgekehrt befördert wird, wenn die Kosten dieser Beförderung im Beförderungsentgelt inbegriffen sind oder wenn das für diese zusätzliche Beförderung benutzte Wasserfahrzeug dem Fahrgast vom Beförderer zur Verfügung gestellt worden ist.
+
+Nicht erfasst ist der Zeitraum, in dem sich der Fahrgast in einer Hafenstation, auf einem Kai oder in oder auf einer anderen Hafenanlage befindet.
+
+### § 539 Haftung des Beförderers für Gepäck- und Verspätungsschäden
+
+(1) Der Beförderer haftet für den Schaden, der durch Verlust oder Beschädigung von Kabinengepäck oder von anderem Gepäck entsteht, wenn das den Schaden verursachende Ereignis während der Beförderung eingetreten ist und auf einem Verschulden des Beförderers beruht. Bei Verlust oder Beschädigung von Kabinengepäck auf Grund eines Schifffahrtsereignisses und bei Verlust oder Beschädigung anderen Gepäcks wird das Verschulden vermutet.
+
+(2) Der Beförderer haftet entsprechend Absatz 1 auch für den Schaden, der daraus entsteht, dass das Gepäck dem Fahrgast nicht innerhalb einer angemessenen Frist nach Ankunft des Schiffes, auf dem das Gepäck befördert worden ist oder hätte befördert werden sollen, wieder ausgehändigt worden ist. Die Haftung ist jedoch ausgeschlossen, wenn die verspätete Aushändigung auf Arbeitsstreitigkeiten zurückzuführen ist.
+
+(3) Abweichend von den Absätzen 1 und 2 haftet der Beförderer nicht für den Schaden, der durch Verlust, Beschädigung oder verspätete Aushändigung von Geld, begebbaren Wertpapieren, Gold, Silber, Juwelen, Schmuck, Kunstgegenständen oder sonstigen Wertsachen entsteht, es sei denn, dass solche Wertsachen bei dem Beförderer zur sicheren Aufbewahrung hinterlegt worden sind.
+
+(4) Die Beförderung im Sinne des Absatzes 1 umfasst folgende Zeiträume:
+
+1.  
+hinsichtlich des Kabinengepäcks mit Ausnahme des Gepäcks, das der Fahrgast in oder auf seinem Fahrzeug hat,
+
+a)  
+den Zeitraum, in dem sich das Kabinengepäck an Bord des Schiffes befindet, einschließlich des Zeitraums, in dem das Kabinengepäck ein- und ausgeschifft wird,
+
+b)  
+den Zeitraum, in dem das Kabinengepäck auf dem Wasserweg vom Land auf das Schiff oder umgekehrt befördert wird, wenn die Kosten dieser Beförderung im Beförderungspreis inbegriffen sind oder wenn das für diese zusätzliche Beförderung benutzte Wasserfahrzeug dem Fahrgast vom Beförderer zur Verfügung gestellt worden ist, sowie
+
+c)  
+den Zeitraum, in dem sich der Fahrgast in einer Hafenstation, auf einem Kai oder in oder auf einer anderen Hafenanlage befindet, wenn das Kabinengepäck von dem Beförderer oder seinen Bediensteten oder Beauftragten übernommen und dem Fahrgast nicht wieder ausgehändigt worden ist;
+
+2.  
+hinsichtlich anderen Gepäcks als des in Nummer 1 genannten Kabinengepäcks den Zeitraum von der Übernahme durch den Beförderer an Land oder an Bord bis zur Wiederaushändigung.
+
+### § 540 Haftung für andere
+
+Der Beförderer hat ein Verschulden seiner Leute und der Schiffsbesatzung in gleichem Umfang zu vertreten wie eigenes Verschulden, wenn die Leute und die Schiffsbesatzung in Ausübung ihrer Verrichtungen handeln. Gleiches gilt für ein Verschulden anderer Personen, deren er sich bei der Ausführung der Beförderung bedient.
+
+### § 541 Haftungshöchstbetrag bei Personenschäden
+
+(1) Die Haftung des Beförderers wegen Tod oder Körperverletzung eines Fahrgasts ist in jedem Fall auf einen Betrag von 400 000 Rechnungseinheiten je Fahrgast und Schadensereignis beschränkt. Dies gilt auch für den Kapitalwert einer als Entschädigung zu leistenden Rente.
+
+(2) Abweichend von Absatz 1 ist die Haftung des Beförderers auf einen Betrag von 250 000 Rechnungseinheiten je Fahrgast und Schadensereignis beschränkt, wenn der Tod oder die Körperverletzung auf einem der folgenden Umstände beruht:
+
+1.  
+Krieg, Bürgerkrieg, Revolution, Aufruhr, Aufständen oder dadurch veranlassten inneren Unruhen oder feindlichen Handlungen durch oder gegen eine Krieg führende Macht,
+
+2.  
+Beschlagnahme, Pfändung, Arrest, Verfügungsbeschränkung oder Festhalten sowie deren Folgen oder dahingehenden Versuchen,
+
+3.  
+zurückgelassenen Minen, Torpedos, Bomben oder sonstigen zurückgelassenen Kriegswaffen,
+
+4.  
+Anschlägen von Terroristen oder Personen, die die Anschläge böswillig oder aus politischen Beweggründen begehen, und Maßnahmen, die zur Verhinderung oder Bekämpfung solcher Anschläge ergriffen werden,
+
+5.  
+Einziehung und Enteignung.
+
+(3) Bei Tod oder Körperverletzung mehrerer Fahrgäste tritt bei Anwendung des Absatzes 2 an die Stelle des darin genannten Betrages von 250 000 Rechnungseinheiten je Fahrgast und Schadensereignis der Betrag von 340 Millionen Rechnungseinheiten je Schiff und Schadensereignis, wenn dieser Betrag niedriger ist und unter den Geschädigten im Verhältnis der Höhe ihrer Ansprüche und in Form einer einmaligen Zahlung oder in Form von Teilzahlungen aufgeteilt werden kann.
+
+### § 542 Haftungshöchstbetrag bei Gepäck- und Verspätungsschäden
+
+(1) Die Haftung des Beförderers wegen Verlust, Beschädigung oder verspäteter Aushändigung von Kabinengepäck ist, soweit Absatz 2 nichts Abweichendes bestimmt, auf einen Betrag von 2 250 Rechnungseinheiten je Fahrgast und Beförderung beschränkt.
+
+(2) Die Haftung des Beförderers wegen Verlust, Beschädigung oder verspäteter Aushändigung von Fahrzeugen, einschließlich des in oder auf dem Fahrzeug beförderten Gepäcks, ist auf einen Betrag von 12 700 Rechnungseinheiten je Fahrzeug und je Beförderung beschränkt.
+
+(3) Die Haftung des Beförderers wegen Verlust, Beschädigung oder verspäteter Aushändigung allen anderen als des in den Absätzen 1 und 2 erwähnten Gepäcks ist auf einen Betrag von 3 375 Rechnungseinheiten je Fahrgast und je Beförderung beschränkt.
+
+(4) Soweit nicht Wertsachen betroffen sind, die beim Beförderer zur sicheren Aufbewahrung hinterlegt sind, können der Beförderer und der Fahrgast vereinbaren, dass der Beförderer einen Teil des Schadens nicht zu erstatten hat. Dieser Teil darf jedoch bei Beschädigung eines Fahrzeugs den Betrag von 330 Rechnungseinheiten und bei Verlust, Beschädigung oder verspäteter Aushändigung anderen Gepäcks den Betrag von 149 Rechnungseinheiten nicht übersteigen.
+
+(5) Abweichend von den Absätzen 1 bis 4 hat der Beförderer bei Verlust oder Beschädigung von Mobilitätshilfen oder anderer Spezialausrüstung, die von einem Fahrgast mit eingeschränkter Mobilität verwendet wird, den Wiederbeschaffungswert der betreffenden Ausrüstungen oder gegebenenfalls die Reparaturkosten zu ersetzen.
+
+### § 543 Zinsen und Verfahrenskosten
+
+Zinsen und Verfahrenskosten sind über die in den §§ 538, 541 und 542 genannten Haftungshöchstbeträge hinaus zu erstatten.
+
+### § 544 Rechnungseinheit
+
+Die in den §§ 538, 541 und 542 genannte Rechnungseinheit ist das Sonderziehungsrecht des Internationalen Währungsfonds. Der Betrag wird in Euro entsprechend dem Wert des Euro gegenüber dem Sonderziehungsrecht am Tag des Urteils oder an dem von den Parteien vereinbarten Tag umgerechnet. Der Wert des Euro gegenüber dem Sonderziehungsrecht wird nach der Berechnungsmethode ermittelt, die der Internationale Währungsfonds an dem betreffenden Tag für seine Operationen und Transaktionen anwendet.
+
+### § 545 Wegfall der Haftungsbeschränkung
+
+Die in den §§ 541 und 542 sowie im Personenbeförderungsvertrag vorgesehenen Haftungshöchstbeträge gelten nicht, wenn der Schaden auf eine Handlung oder Unterlassung zurückzuführen ist, die vom Beförderer selbst entweder in der Absicht, einen solchen Schaden herbeizuführen, oder leichtfertig und in dem Bewusstsein begangen wurde, dass ein solcher Schaden mit Wahrscheinlichkeit eintreten werde.
+
+### § 546 Ausführender Beförderer
+
+(1) Wird die Beförderung ganz oder teilweise durch einen Dritten ausgeführt, der nicht der Beförderer ist, so haftet der Dritte (ausführender Beförderer) für den Schaden, der durch den Tod oder die Körperverletzung eines Fahrgasts oder durch Verlust, Beschädigung oder verspätete Aushändigung von Gepäck eines Fahrgasts während der vom ausführenden Beförderer durchgeführten Beförderung entsteht, so, als wäre er der Beförderer. Vertragliche Vereinbarungen, durch die der Beförderer seine Haftung erweitert, wirken gegen den ausführenden Beförderer nur, soweit er ihnen schriftlich zugestimmt hat.
+
+(2) Der ausführende Beförderer kann alle Einwendungen und Einreden geltend machen, die dem Beförderer aus dem Personenbeförderungsvertrag zustehen.
+
+(3) Der Beförderer und der ausführende Beförderer haften als Gesamtschuldner.
+
+### § 547 Haftung der Leute und der Schiffsbesatzung
+
+(1) Wird einer der Leute des Beförderers oder des ausführenden Beförderers wegen Tod oder Körperverletzung eines Fahrgasts oder wegen Verlust, Beschädigung oder verspäteter Aushändigung von Gepäck eines Fahrgasts in Anspruch genommen, so kann auch er sich auf die für den Beförderer oder den ausführenden Beförderer geltenden Einreden und Haftungsbeschränkungen berufen, wenn er in Ausübung seiner Verrichtungen gehandelt hat. Gleiches gilt, wenn ein Mitglied der Schiffsbesatzung in Anspruch genommen wird.
+
+(2) Eine Berufung auf die Haftungsbeschränkungen nach Absatz 1 ist ausgeschlossen, wenn der Schuldner selbst vorsätzlich oder leichtfertig und in dem Bewusstsein gehandelt hat, dass ein solcher Schaden mit Wahrscheinlichkeit eintreten werde.
+
+(3) Sind für den Schaden sowohl der Beförderer oder der ausführende Beförderer als auch eine der in Absatz 1 genannten Personen verantwortlich, haften sie als Gesamtschuldner.
+
+### § 548 Konkurrierende Ansprüche
+
+Ansprüche wegen Tod oder Körperverletzung eines Fahrgasts oder wegen Verlust, Beschädigung oder verspäteter Aushändigung von Gepäck können gegen den Beförderer oder den ausführenden Beförderer nur auf der Grundlage der Vorschriften dieses Unterabschnitts geltend gemacht werden.
+
+### § 549 Schadensanzeige
+
+(1) Zeigt der Fahrgast dem Beförderer eine Beschädigung oder einen Verlust seines Gepäcks nicht rechtzeitig an, so wird vermutet, dass er das Gepäck unbeschädigt erhalten hat. Einer Anzeige bedarf es jedoch nicht, wenn der Zustand des Gepäcks im Zeitpunkt seines Empfangs von den Parteien gemeinsam festgestellt oder geprüft worden ist.
+
+(2) Die Anzeige ist rechtzeitig, wenn sie spätestens in folgendem Zeitpunkt erstattet wird:
+
+1.  
+bei äußerlich erkennbarer Beschädigung von Kabinengepäck im Zeitpunkt der Ausschiffung des Fahrgasts,
+
+2.  
+bei äußerlich erkennbarer Beschädigung von anderem Gepäck als Kabinengepäck im Zeitpunkt seiner Aushändigung und
+
+3.  
+bei äußerlich nicht erkennbarer Beschädigung von Gepäck oder bei dessen Verlust 15 Tage nach der Ausschiffung oder Aushändigung oder nach dem Zeitpunkt, in dem die Aushändigung hätte erfolgen sollen.
+
+(3) Die Schadensanzeige bedarf der Textform. Zur Wahrung der Frist genügt die rechtzeitige Absendung.
+
+### § 550 Erlöschen von Schadensersatzansprüchen
+
+Ein Schadensersatzanspruch wegen Tod oder Körperverletzung eines Fahrgasts oder wegen Verlust, Beschädigung oder verspäteter Aushändigung von Gepäck erlischt, wenn er nicht innerhalb einer der folgenden Fristen gerichtlich geltend gemacht wird:
+
+1.  
+drei Jahre, gerechnet von dem Tag, an dem der Gläubiger von dem Tod oder der Körperverletzung oder von dem Verlust, der Beschädigung oder der verspäteten Aushändigung Kenntnis erlangt hat oder normalerweise hätte erlangen müssen, oder
+
+2.  
+fünf Jahre, gerechnet von dem Tag, an dem die Ausschiffung des Fahrgasts erfolgt ist oder hätte erfolgen sollen, je nachdem, welches der spätere Zeitpunkt ist.
+
+### § 551 Abweichende Vereinbarungen
+
+Soweit in § 542 Absatz 4 nichts Abweichendes bestimmt ist, ist jede Vereinbarung unwirksam, die vor Eintritt des Ereignisses getroffen wird, das den Tod oder die Körperverletzung des Fahrgasts oder den Verlust, die Beschädigung oder die verspätete Aushändigung seines Gepäcks verursacht hat, und durch die die Haftung wegen Tod oder Körperverletzung des Fahrgasts oder wegen Verlust, Beschädigung oder verspäteter Aushändigung seines Gepäcks ausgeschlossen oder eingeschränkt wird.
+
+### § 552 Pfandrecht des Beförderers
+
+(1) Der Beförderer hat für seine Forderung auf das Beförderungsentgelt ein Pfandrecht an dem Gepäck des Fahrgasts.
+
+(2) Das Pfandrecht besteht nur, solange das Gepäck zurückbehalten oder hinterlegt ist.
+
+Dritter Abschnitt Schiffsüberlassungsverträge
+---------------------------------------------
+
+### 
+
+Erster Unterabschnitt Schiffsmiete
+----------------------------------
+
+### 
+
+### (XXXX) §§ 553 bis 554
+
+### § 553 Schiffsmietvertrag
+
+(1) Durch den Schiffsmietvertrag (Bareboat Charter) wird der Vermieter verpflichtet, dem Mieter ein bestimmtes Seeschiff ohne Besatzung zu überlassen und ihm den Gebrauch dieses Schiffes während der Mietzeit zu gewähren.
+
+(2) Der Mieter wird verpflichtet, die vereinbarte Miete zu zahlen. Die Miete ist mangels anderer Vereinbarung halbmonatlich im Voraus zu entrichten.
+
+(3) Die Vorschriften dieses Unterabschnitts gelten, wenn der Mieter den Vertrag abschließt, um das Schiff zum Erwerb durch Seefahrt zu betreiben. Betreibt der Mieter kein Handelsgewerbe im Sinne von § 1 Absatz 2 und ist seine Firma auch nicht nach § 2 in das Handelsregister eingetragen, so sind in Ansehung des Schiffsmietvertrags auch insoweit die Vorschriften des Ersten Abschnitts des Vierten Buches ergänzend anzuwenden; dies gilt jedoch nicht für die §§ 348 bis 350.
+
+### § 554 Übergabe und Rückgabe des Schiffes. Instandhaltung
+
+(1) Der Vermieter hat dem Mieter das Schiff zur vereinbarten Zeit am vereinbarten Ort in einem zum vertragsgemäßen Gebrauch geeigneten Zustand zu übergeben.
+
+(2) Der Mieter hat das Schiff während der Mietzeit in einem zum vertragsgemäßen Gebrauch geeigneten Zustand zu erhalten. Nach Beendigung des Mietverhältnisses ist er verpflichtet, das Schiff in demselben Zustand unter Berücksichtigung der Abnutzung infolge vertragsgemäßen Gebrauchs zurückzugeben.
+
+### § 555 Sicherung der Rechte des Vermieters
+
+Der Mieter hat die Rechte des Vermieters gegenüber Dritten für den Vermieter zu sichern.
+
+### § 556 Kündigung
+
+Ein auf unbestimmte Zeit eingegangenes Mietverhältnis kann spätestens am ersten Werktag einer Woche zum Ablauf des folgenden Sonnabends gekündigt werden. Ist die Miete nach Monaten oder längeren Zeitabschnitten bemessen, ist die ordentliche Kündigung zum Ablauf eines Kalendervierteljahrs zulässig.
+
+Zweiter Unterabschnitt Zeitcharter
+----------------------------------
+
+### 
+
+### § 557 Zeitchartervertrag
+
+(1) Durch den Zeitchartervertrag wird der Zeitvercharterer verpflichtet, dem Zeitcharterer zu dessen Verwendung ein bestimmtes Seeschiff mit Besatzung auf Zeit zu überlassen und mit diesem Schiff Güter oder Personen zu befördern oder andere vereinbarte Leistungen zu erbringen.
+
+(2) Der Zeitcharterer wird verpflichtet, die vereinbarte Zeitfracht zu zahlen.
+
+(3) Die Vorschriften dieses Unterabschnitts gelten, wenn der Zeitcharterer den Vertrag abschließt, um das Schiff zum Erwerb durch Seefahrt zu betreiben. Betreibt der Zeitcharterer kein Handelsgewerbe im Sinne von § 1 Absatz 2 und ist seine Firma auch nicht nach § 2 in das Handelsregister eingetragen, so sind in Ansehung des Zeitchartervertrags auch insoweit die Vorschriften des Ersten Abschnitts des Vierten Buches ergänzend anzuwenden; dies gilt jedoch nicht für die §§ 348 bis 350.
+
+### § 558 Beurkundung
+
+Jede Partei des Zeitchartervertrags kann die schriftliche Beurkundung dieses Vertrags verlangen.
+
+### § 559 Bereitstellung des Schiffes
+
+(1) Das Schiff ist dem Zeitcharterer zur vereinbarten Zeit am vereinbarten Ort in einem zum vertragsgemäßen Gebrauch geeigneten Zustand bereitzustellen.
+
+(2) Ist vereinbart, dass das Schiff zu einem bestimmten Termin oder innerhalb einer bestimmten Frist bereitgestellt werden soll, so kann der Zeitcharterer ohne Fristsetzung vom Vertrag zurücktreten, wenn die Vereinbarung nicht erfüllt wird oder offensichtlich ist, dass sie nicht erfüllt werden wird.
+
+### § 560 Erhaltung des vertragsgemäßen Zustands des Schiffes
+
+Der Zeitvercharterer hat das Schiff während der Dauer des Zeitchartervertrags in einem zum vertragsgemäßen Gebrauch geeigneten Zustand zu erhalten. Er hat insbesondere dafür zu sorgen, dass das Schiff seetüchtig und, wenn das Schiff zur Beförderung von Gütern verwendet wird, ladungstüchtig ist.
+
+### § 561 Verwendung des Schiffes
+
+(1) Der Zeitcharterer bestimmt über die Verwendung des Schiffes. Er ist verpflichtet, mit der gebotenen Sorgfalt einen sicheren Hafen oder Liegeplatz auszuwählen, wenn er den Zeitvercharterer anweist, einen bestimmten Hafen oder Liegeplatz anzulaufen.
+
+(2) Der Zeitvercharterer ist für die Führung und die sonstige Bedienung des Schiffes verantwortlich.
+
+(3) Der Zeitcharterer ist berechtigt, das Schiff an einen Dritten zu verchartern.
+
+### § 562 Unterrichtungspflichten
+
+Zeitvercharterer und Zeitcharterer sind verpflichtet, sich gegenseitig über alle das Schiff und die Reisen betreffenden Umstände von Bedeutung zu unterrichten.
+
+### § 563 Verladen und Löschen
+
+(1) Der Zeitcharterer hat, wenn das Schiff zur Beförderung von Gütern verwendet wird, diese zu verladen und zu löschen.
+
+(2) Der Zeitvercharterer hat dafür zu sorgen, dass die Verladung die Seetüchtigkeit des Schiffes nicht beeinträchtigt.
+
+### § 564 Kosten für den Betrieb des Schiffes
+
+(1) Der Zeitvercharterer hat die fixen Kosten des Schiffsbetriebs zu tragen, insbesondere die Kosten der Besatzung, Ausrüstung, Unterhaltung und Versicherung des Schiffes.
+
+(2) Der Zeitcharterer hat die variablen Kosten des Schiffsbetriebs zu tragen, insbesondere Hafengebühren, Lotsengelder, Schlepperhilfen und Prämien für eine weiter gehende Versicherung des Schiffes. Der Zeitcharterer hat ferner den für den Betrieb des Schiffes erforderlichen Treibstoff in handelsüblicher Qualität zu beschaffen.
+
+### § 565 Zeitfracht
+
+(1) Die Zeitfracht ist mangels anderer Vereinbarung halbmonatlich im Voraus zu zahlen.
+
+(2) Die Pflicht zur Zahlung der Zeitfracht entfällt für die Zeit, in der das Schiff infolge von Mängeln oder sonstigen Umständen, die dem Risikobereich des Zeitvercharterers zuzurechnen sind, dem Zeitcharterer nicht zur vertragsgemäßen Verwendung zur Verfügung steht. Ist die vertragsgemäße Verwendung des Schiffes gemindert, ist eine angemessen herabgesetzte Zeitfracht zu zahlen.
+
+### § 566 Pfandrecht des Zeitvercharterers
+
+(1) Der Zeitvercharterer hat für seine Forderungen aus dem Zeitchartervertrag ein Pfandrecht an den an Bord des Schiffes befindlichen Sachen einschließlich des Treibstoffs, soweit diese Sachen im Eigentum des Zeitcharterers stehen. Die für den gutgläubigen Erwerb des Eigentums geltenden §§ 932, 934 und 935 des Bürgerlichen Gesetzbuchs sind nicht anzuwenden.
+
+(2) Der Zeitvercharterer hat ferner für seine Forderungen aus dem Zeitchartervertrag ein Pfandrecht an den Forderungen des Zeitcharterers aus von diesem abgeschlossenen Fracht- und Unterzeitcharterverträgen, die mit dem Schiff erfüllt werden. Der Schuldner der Forderung kann, sobald er Kenntnis von dem Pfandrecht hat, nur an den Zeitvercharterer leisten. Er ist jedoch zur Hinterlegung berechtigt, solange ihm der Zeitcharterer das Pfandrecht nicht anzeigt.
+
+(3) Abweichend von den Absätzen 1 und 2 hat der Zeitvercharterer kein Pfandrecht für künftige Entschädigungsforderungen sowie für nicht fällige Ansprüche auf Zeitfracht.
+
+### § 567 Pflichtverletzung
+
+Verletzt eine Partei des Zeitchartervertrags eine Pflicht aus diesem Vertrag, so bestimmen sich die Rechtsfolgen nach den allgemeinen für Schuldverhältnisse geltenden Vorschriften des Bürgerlichen Gesetzbuchs, soweit nicht in diesem Unterabschnitt etwas anderes bestimmt ist.
+
+### § 568 Zurückbehaltungsrecht
+
+Der Zeitvercharterer kann die von ihm geschuldeten Leistungen, einschließlich der Einnahme von Gut und der Ausstellung von Konnossementen, verweigern, solange der Zeitcharterer einen fälligen Anspruch auf Zeitfracht nicht erfüllt.
+
+### § 569 Rückgabe des Schiffes
+
+(1) Nach Beendigung des Vertragsverhältnisses hat der Zeitcharterer das Schiff am vereinbarten Ort zurückzugeben.
+
+(2) Wird das Vertragsverhältnis durch eine außerordentliche Kündigung beendet, so hat der Zeitcharterer abweichend von Absatz 1 das Schiff dort zurückzugeben, wo es sich in dem Zeitpunkt befindet, in dem die Kündigung wirksam wird. Die Partei, die den Grund für die außerordentliche Kündigung zu vertreten hat, hat jedoch der anderen Partei den durch die vorzeitige Beendigung des Vertragsverhältnisses entstandenen Schaden zu ersetzen.
+
+Vierter Abschnitt Schiffsnotlagen
+---------------------------------
+
+### 
+
+Erster Unterabschnitt Schiffszusammenstoß
+-----------------------------------------
+
+### 
+
+### § 570 Schadensersatzpflicht
+
+Im Falle eines Zusammenstoßes von Seeschiffen haftet der Reeder des Schiffes, das den Zusammenstoß verursacht hat, für den Schaden, der durch den Zusammenstoß an dem anderen Schiff und den an Bord der Schiffe befindlichen Personen und Sachen verursacht wurde. Die Ersatzpflicht tritt jedoch nur ein, wenn den Reeder jenes Schiffes oder eine in § 480 genannte Person ein Verschulden trifft.
+
+### § 571 Mitverschulden
+
+(1) Sind die Reeder mehrerer am Zusammenstoß beteiligter Schiffe zum Schadensersatz verpflichtet, so bestimmt sich der Umfang des von einem Reeder zu leistenden Ersatzes nach dem Verhältnis der Schwere seines Verschuldens zu dem der anderen Reeder. Kann ein solches Verhältnis nicht festgesetzt werden, so haften die Reeder zu gleichen Teilen.
+
+(2) Abweichend von Absatz 1 haften die Reeder mehrerer am Zusammenstoß beteiligter Schiffe für den Schaden, der durch den Tod oder die Körperverletzung einer an Bord befindlichen Person entsteht, als Gesamtschuldner. Im Verhältnis zueinander sind die Reeder nach Maßgabe des Absatzes 1 verpflichtet.
+
+### § 572 Fernschädigung
+
+Fügt ein Schiff durch Ausführung oder Unterlassung eines Manövers oder durch Nichtbeachtung einer Schifffahrtsregel einem anderen Schiff oder den an Bord der Schiffe befindlichen Personen oder Sachen einen Schaden zu, ohne dass ein Zusammenstoß stattfindet, so sind die §§ 570 und 571 entsprechend anzuwenden.
+
+### § 573 Beteiligung eines Binnenschiffs
+
+Die Vorschriften dieses Unterabschnitts sind entsprechend anzuwenden, wenn an dem Unfall ein Binnenschiff beteiligt ist.
+
+Zweiter Unterabschnitt Bergung
+------------------------------
+
+### 
+
+### § 574 Pflichten des Bergers und sonstiger Personen
+
+(1) Berger ist, wer folgenden Schiffen oder Vermögensgegenständen Hilfe leistet:
+
+1.  
+einem in Seegewässern in Gefahr befindlichen See- oder Binnenschiff oder sonstigen Vermögensgegenstand,
+
+2.  
+einem in Binnengewässern in Gefahr befindlichen Seeschiff oder
+
+3.  
+einem in Binnengewässern in Gefahr befindlichen Binnenschiff oder sonstigen Vermögensgegenstand, wenn ihm von einem Seeschiff aus Hilfe geleistet wird.
+
+(2) Als Schiff im Sinne von Absatz 1 ist auch ein schwimmendes Gerät oder schwimmfähiges Bauwerk anzusehen. Vermögensgegenstand im Sinne von Absatz 1 ist auch ein gefährdeter Anspruch auf Fracht. Nicht als Schiff oder Vermögensgegenstand im Sinne von Absatz 1 gelten dagegen
 
 1.  
 eine auf Dauer und absichtlich an der Küste oder am Ufer befestigte Sache sowie
@@ -7671,29 +6979,33 @@ eine auf Dauer und absichtlich an der Küste oder am Ufer befestigte Sache sowie
 2.  
 eine feste oder schwimmende Plattform oder eine der Küste vorgelagerte bewegliche Bohreinrichtung, die sich zur Erforschung, Ausbeutung oder Gewinnung mineralischer Ressourcen des Meeresbodens vor Ort im Einsatz befindet.
 
-### § 741 Verhütung oder Begrenzung von Umweltschäden
+(3) Der Berger ist gegenüber den Eigentümern des Schiffes sowie der sonstigen Vermögensgegenstände, denen er Hilfe leistet, verpflichtet, die Leistung mit der gebotenen Sorgfalt durchzuführen, andere Berger um Unterstützung zu bitten, wenn die Umstände dies bei vernünftiger Betrachtungsweise erfordern, und das Eingreifen anderer Berger hinzunehmen, wenn von dem Schiffer oder Kapitän oder dem Eigentümer des in Gefahr befindlichen Schiffes oder dem Eigentümer des sonstigen in Gefahr befindlichen Vermögensgegenstands vernünftigerweise darum ersucht wird.
 
-(1) Der Berger ist gegenüber dem Eigentümer des in Gefahr befindlichen Schiffes sowie dem Eigentümer eines sonstigen in Gefahr befindlichen Vermögensgegenstandes verpflichtet, während der Bergungsmaßnahmen die gebotene Sorgfalt anzuwenden, um Umweltschäden zu verhüten oder zu begrenzen. Die gleiche Pflicht trifft den Eigentümer und den Schiffer oder Kapitän des in Gefahr befindlichen Schiffes sowie den Eigentümer eines sonstigen in Gefahr befindlichen Vermögensgegenstandes gegenüber dem Berger. Eine abweichende Vereinbarung ist nichtig.
+(4) Der Eigentümer und der Schiffer oder Kapitän eines in Gefahr befindlichen Schiffes sowie der Eigentümer eines sonstigen in Gefahr befindlichen Vermögensgegenstands sind gegenüber dem Berger verpflichtet, mit diesem während der Bergungsmaßnahmen in jeder Hinsicht zusammenzuarbeiten. Wurde das Schiff oder ein sonstiger Vermögensgegenstand in Sicherheit gebracht, so sind die in Satz 1 genannten Personen auf vernünftiges Ersuchen des Bergers auch verpflichtet, das Schiff oder den sonstigen Vermögensgegenstand zurückzunehmen.
+
+### § 575 Verhütung oder Begrenzung von Umweltschäden
+
+(1) Der Berger ist gegenüber dem Eigentümer des in Gefahr befindlichen Schiffes sowie gegenüber dem Eigentümer eines sonstigen in Gefahr befindlichen Vermögensgegenstands verpflichtet, während der Bergungsmaßnahmen die gebotene Sorgfalt anzuwenden, um Umweltschäden zu verhüten oder zu begrenzen. Die gleiche Pflicht trifft den Eigentümer und den Schiffer oder Kapitän des in Gefahr befindlichen Schiffes sowie den Eigentümer eines sonstigen in Gefahr befindlichen Vermögensgegenstands gegenüber dem Berger. Eine abweichende Vereinbarung ist nichtig.
 
 (2) Ein Umweltschaden ist eine erhebliche physische Schädigung der menschlichen Gesundheit oder der Tier- und Pflanzenwelt des Meeres oder der Meeresressourcen in Küsten- und Binnengewässern oder angrenzenden Gebieten, die durch Verschmutzung, Verseuchung, Feuer, Explosion oder ähnliche schwerwiegende Ereignisse verursacht wird.
 
-### § 742 Bergelohnanspruch
+### § 576 Bergelohnanspruch
 
-(1) Waren die Bergungsmaßnahmen erfolgreich, hat der Berger einen Anspruch auf Zahlung eines Bergelohns. Der Anspruch besteht auch dann, wenn das geborgene Schiff und das Schiff, von dem aus die Bergungsmaßnahmen durchgeführt wurden, demselben Eigentümer gehören.
+(1) Sind die Bergungsmaßnahmen erfolgreich, hat der Berger einen Anspruch auf Zahlung eines Bergelohns. Der Anspruch besteht auch dann, wenn sowohl das geborgene Schiff als auch das Schiff, von dem aus die Bergungsmaßnahmen durchgeführt wurden, demselben Eigentümer gehören.
 
-(2) Der Bergelohn umfasst zugleich den Ersatz der Aufwendungen, die zum Zweck des Bergens gemacht wurden. Nicht im Bergelohn enthalten sind Kosten und Gebühren der Behörden, zu entrichtende Zölle und sonstige Abgaben, Kosten zum Zweck der Aufbewahrung, Erhaltung, Abschätzung und Veräußerung der geborgenen Gegenstände (Bergungskosten).
+(2) Der Bergelohn umfasst zugleich den Ersatz der Aufwendungen, die zum Zweck des Bergens gemacht wurden. Nicht im Bergelohn enthalten sind Kosten und Gebühren der Behörden, zu entrichtende Zölle und sonstige Abgaben, Kosten der Aufbewahrung, Erhaltung, Abschätzung und Veräußerung der geborgenen Gegenstände (Bergungskosten).
 
-(3) Zur Zahlung des Bergelohns und der Bergungskosten sind der Schiffseigentümer sowie die Eigentümer der sonstigen geborgenen Vermögensgegenstände im Verhältnis des Wertes dieser Gegenstände zueinander anteilig verpflichtet.
+(3) Zur Zahlung des Bergelohns und der Bergungskosten sind der Schiffseigentümer sowie die Eigentümer der sonstigen geborgenen Vermögensgegenstände im Verhältnis des Wertes des Schiffes und der Vermögensgegenstände zueinander anteilig verpflichtet.
 
-### § 743 Höhe des Bergelohns
+### § 577 Höhe des Bergelohns
 
-(1) Der Bergelohn ist, wenn die Parteien seine Höhe nicht vereinbart haben, so festzusetzen, dass er einen Anreiz für Bergungsmaßnahmen schafft. Bei der Festsetzung sind zugleich die folgenden Kriterien ohne Rücksicht auf die nachstehend aufgeführte Reihenfolge zu berücksichtigen:
+(1) Bergelohn ist, wenn die Parteien seine Höhe nicht vereinbart haben, so festzusetzen, dass er einen Anreiz für Bergungsmaßnahmen schafft. Bei der Festsetzung sind zugleich die folgenden Kriterien ohne Rücksicht auf die nachstehend aufgeführte Reihenfolge zu berücksichtigen:
 
 1.  
 der Wert des geborgenen Schiffes und der sonstigen geborgenen Vermögensgegenstände;
 
 2.  
-die Sachkunde und die Anstrengungen des Bergers in Bezug auf die Verhütung oder Begrenzung von Umweltschäden (§ 741 Abs. 2);
+die Sachkunde und die Anstrengungen des Bergers in Bezug auf die Verhütung oder Begrenzung von Umweltschäden (§ 575 Absatz 2);
 
 3.  
 das Ausmaß des vom Berger erzielten Erfolgs;
@@ -7702,7 +7014,7 @@ das Ausmaß des vom Berger erzielten Erfolgs;
 Art und Erheblichkeit der Gefahr;
 
 5.  
-die Sachkunde und die Anstrengungen des Bergers in Bezug auf die Bergung des Schiffes und der sonstigen Vermögensgegenstände sowie die Rettung von Menschenleben;
+die Sachkunde und die Anstrengungen des Bergers in Bezug auf die Bergung des Schiffes und der sonstigen Vermögensgegenstände sowie auf die Rettung von Menschenleben;
 
 6.  
 die vom Berger aufgewendete Zeit sowie die ihm entstandenen Unkosten und Verluste;
@@ -7721,67 +7033,67 @@ die Einsatzbereitschaft und Tauglichkeit der Ausrüstung des Bergers sowie deren
 
 (2) Der Bergelohn ohne Zinsen, Bergungskosten und erstattungsfähige Verfahrenskosten darf den Wert des geborgenen Schiffes und der sonstigen geborgenen Vermögensgegenstände nicht übersteigen.
 
-### § 744 Sondervergütung
+### § 578 Sondervergütung
 
-(1) Hat der Berger Bergungsmaßnahmen für ein Schiff durchgeführt, das als solches oder durch seine Ladung eine Gefahr für die Umwelt darstellte, so kann er von dem Eigentümer des Schiffes die Zahlung einer Sondervergütung verlangen, soweit diese den dem Berger zustehenden Bergelohn übersteigt. Der Anspruch auf Sondervergütung besteht auch dann, wenn das geborgene Schiff und das Schiff, von dem aus die Bergungsmaßnahmen durchgeführt wurden, demselben Eigentümer gehören.
+(1) Hat der Berger Bergungsmaßnahmen für ein Schiff durchgeführt, das als solches oder durch seine Ladung eine Gefahr für die Umwelt darstellte, so kann er von dem Eigentümer des Schiffes die Zahlung einer Sondervergütung verlangen, soweit diese den Bergelohn übersteigt, der dem Berger zusteht. Der Anspruch auf Sondervergütung besteht auch dann, wenn das geborgene Schiff und das Schiff, von dem aus die Bergungsmaßnahmen durchgeführt wurden, demselben Eigentümer gehören.
 
-(2) Die Sondervergütung entspricht den dem Berger entstandenen Unkosten. Unkosten im Sinne von Satz 1 sind die im Rahmen der Bergungsmaßnahmen vernünftigerweise aufgewendeten Auslagen sowie ein angemessener Betrag für Ausrüstung und Personal, die tatsächlich und vernünftigerweise für die Bergungsmaßnahme eingesetzt worden sind. Bei der Bestimmung der Angemessenheit des für Ausrüstung und Personal anzusetzenden Betrages sind die in § 743 Abs. 1 Satz 2 Nr. 8 bis 10 genannten Kriterien zu berücksichtigen.
+(2) Die Sondervergütung entspricht den dem Berger entstandenen Unkosten. Unkosten im Sinne von Satz 1 sind die im Rahmen der Bergungsmaßnahmen vernünftigerweise aufgewendeten Auslagen sowie ein angemessener Betrag für Ausrüstung und Personal, die tatsächlich und vernünftigerweise für die Bergungsmaßnahme eingesetzt worden sind. Bei der Bestimmung der Angemessenheit des für Ausrüstung und Personal anzusetzenden Betrages sind die in § 577 Absatz 1 Satz 2 Nummer 8 bis 10 genannten Kriterien zu berücksichtigen.
 
-(3) Hat der Berger durch seine Bergungsmaßnahmen einen Umweltschaden (§ 741 Abs. 2) verhütet oder begrenzt, so kann die nach Absatz 2 festzusetzende Sondervergütung um bis zu 30 Prozent erhöht werden. Abweichend von Satz 1 kann die Sondervergütung unter Berücksichtigung der in § 743 Abs. 1 Satz 2 genannten Kriterien um bis zu 100 Prozent erhöht werden, wenn dies billig und gerecht erscheint.
+(3) Hat der Berger durch seine Bergungsmaßnahmen einen Umweltschaden (§ 575 Absatz 2) verhütet oder begrenzt, so kann die nach Absatz 2 festzusetzende Sondervergütung um bis zu 30 Prozent erhöht werden. Abweichend von Satz 1 kann die Sondervergütung unter Berücksichtigung der in § 577 Absatz 1 Satz 2 genannten Kriterien um bis zu 100 Prozent erhöht werden, wenn dies billig und gerecht erscheint.
 
-### § 745 Ausschluss des Vergütungsanspruchs
+### § 579 Ausschluss des Vergütungsanspruchs
 
-(1) Der Berger kann für durchgeführte Bergungsmaßnahmen keine Vergütung nach den Vorschriften dieses Abschnitts verlangen, soweit die Maßnahmen nicht über das hinausgehen, was bei vernünftiger Betrachtung als ordnungsgemäße Erfüllung eines vor Eintritt der Gefahr eingegangenen Vertrags angesehen werden kann.
+(1) Der Berger kann für durchgeführte Bergungsmaßnahmen keine Vergütung nach den Vorschriften dieses Unterabschnitts verlangen, soweit die Maßnahmen nicht über das hinausgehen, was bei vernünftiger Betrachtung als ordnungsgemäße Erfüllung eines vor Eintritt der Gefahr eingegangenen Vertrags angesehen werden kann.
 
-(2) Der Berger kann ferner dann keine Vergütung nach den Vorschriften dieses Abschnitts verlangen, wenn er entgegen dem ausdrücklichen und vernünftigen Verbot des Eigentümers oder des Schiffers oder Kapitäns des Schiffes oder des Eigentümers eines sonstigen in Gefahr befindlichen Vermögensgegenstandes, der sich nicht an Bord des Schiffes befindet oder befunden hat, Bergungsmaßnahmen durchführt.
+(2) Der Berger kann ferner dann keine Vergütung nach den Vorschriften dieses Unterabschnitts verlangen, wenn er entgegen dem ausdrücklichen und vernünftigen Verbot des Eigentümers, Schiffers oder Kapitäns des Schiffes oder des Eigentümers eines sonstigen in Gefahr befindlichen Vermögensgegenstands, der sich nicht an Bord des Schiffes befindet oder befunden hat, Bergungsmaßnahmen durchführt.
 
-### § 746 Fehlverhalten des Bergers
+### § 580 Fehlverhalten des Bergers
 
-(1) Der Bergelohn kann herabgesetzt oder gänzlich versagt werden, wenn die Bergungsmaßnahmen durch Verschulden des Bergers notwendig oder schwieriger geworden sind oder wenn sich der Berger des Betrugs oder eines anderen unredlichen Verhaltens schuldig gemacht hat.
+(1) Der Bergelohn kann herabgesetzt oder gänzlich versagt werden, wenn Bergungsmaßnahmen durch Verschulden des Bergers notwendig oder schwieriger geworden sind oder wenn sich der Berger des Betrugs oder eines anderen unredlichen Verhaltens schuldig gemacht hat.
 
-(2) Die Sondervergütung kann ganz oder teilweise versagt werden, wenn einer der in Absatz 1 genannten Gründe vorliegt oder wenn der Berger nachlässig gehandelt und es dadurch versäumt hat, Umweltschäden (§ 741 Abs. 2) zu verhüten oder zu begrenzen.
+(2) Die Sondervergütung kann ganz oder teilweise versagt werden, wenn einer der in Absatz 1 genannten Gründe vorliegt oder wenn der Berger nachlässig gehandelt und es dadurch versäumt hat, Umweltschäden (§ 575 Absatz 2) zu verhüten oder zu begrenzen.
 
-### § 747 Ausgleichsanspruch der Schiffsbesatzung
+### § 581 Ausgleichsanspruch
 
-(1) Wird ein Schiff oder dessen Ladung ganz oder teilweise von einem anderen Schiff geborgen, so wird der Bergelohn oder die Sondervergütung zwischen dem Schiffseigner oder Reeder, dem Schiffer oder Kapitän und der übrigen Besatzung des anderen Schiffes in der Weise verteilt, dass zunächst dem Schiffseigner oder Reeder die Schäden am Schiff und die Unkosten ersetzt werden, und dass von dem Rest der Schiffseigner oder Reeder zwei Drittel, der Schiffer oder Kapitän und die übrige Besatzung je ein Sechstel erhalten.
+(1) Wird ein Schiff oder dessen Ladung ganz oder teilweise von einem anderen Schiff geborgen, so wird der Bergelohn oder die Sondervergütung zwischen dem Schiffseigner oder Reeder, dem Schiffer oder Kapitän und der übrigen Besatzung des anderen Schiffes in der Weise verteilt, dass zunächst dem Schiffseigner oder Reeder die Schäden am Schiff und die Unkosten ersetzt werden und dass von dem Rest der Schiffseigner oder Reeder zwei Drittel, der Schiffer oder Kapitän und die übrige Besatzung je ein Sechstel erhalten.
 
-(2) Der auf die Schiffsbesatzung mit Ausnahme des Schiffers oder Kapitäns entfallende Betrag wird unter alle Mitglieder derselben unter besonderer Berücksichtigung der sachlichen und persönlichen Leistungen eines jeden verteilt. Die Verteilung erfolgt durch den Schiffer oder Kapitän mittels eines vor Beendigung der Reise der Besatzung bekannt zu gebenden Verteilungsplans, in dem der Bruchteil festgesetzt ist, der jedem Beteiligten zukommt.
+(2) Der auf die Schiffsbesatzung mit Ausnahme des Schiffers oder Kapitäns entfallende Betrag wird unter besonderer Berücksichtigung der sachlichen und persönlichen Leistungen eines jeden Mitglieds der Schiffsbesatzung verteilt. Die Verteilung erfolgt durch den Schiffer oder Kapitän mittels eines Verteilungsplans. Darin wird der Bruchteil festgesetzt, der jedem Beteiligten zukommt. Der Verteilungsplan ist vor Beendigung der Reise der Besatzung bekannt zu geben.
 
 (3) Von den Absätzen 1 und 2 abweichende Vereinbarungen zu Lasten des Schiffers oder Kapitäns oder der übrigen Schiffsbesatzung sind nichtig.
 
 (4) Die Absätze 1 bis 3 sind nicht anzuwenden, wenn die Bergungsmaßnahmen von einem Bergungs- oder Schleppschiff aus durchgeführt werden.
 
-### § 748 Mehrheit von Bergern
+### § 582 Mehrheit von Bergern
 
-(1) Wirken mehrere Berger an der Bergung mit, so kann jeder Berger nur einen Anteil am Bergelohn verlangen. Auf die Bestimmung des Verhältnisses der Anteile der Berger am Bergelohn zueinander ist § 743 Abs. 1 entsprechend anzuwenden; § 747 bleibt unberührt.
+(1) Wirken mehrere Berger an der Bergung mit, so kann jeder Berger nur einen Anteil am Bergelohn verlangen. Auf die Bestimmung des Verhältnisses der Anteile der Berger am Bergelohn zueinander ist § 577 Absatz 1 entsprechend anzuwenden; § 581 bleibt unberührt.
 
-(2) Abweichend von Absatz 1 kann jedoch ein Berger Bergelohn in voller Höhe verlangen, wenn er das Eingreifen der anderen Berger auf Ersuchen des Eigentümers des in Gefahr befindlichen Schiffes oder eines sonstigen in Gefahr befindlichen Vermögensgegenstandes hingenommen hat und sich das Ersuchen als nicht vernünftig erweist.
+(2) Abweichend von Absatz 1 kann jedoch ein Berger Bergelohn in voller Höhe verlangen, wenn er das Eingreifen der anderen Berger auf Ersuchen des Eigentümers des in Gefahr befindlichen Schiffes oder eines sonstigen in Gefahr befindlichen Vermögensgegenstands hingenommen hat und sich das Ersuchen als nicht vernünftig erweist.
 
-### § 749 Rettung von Menschen
+### § 583 Rettung von Menschen
 
 (1) Menschen, denen das Leben gerettet worden ist, haben weder einen Bergelohn noch eine Sondervergütung zu entrichten.
 
-(2) Wer bei Bergungsmaßnahmen Handlungen zur Rettung von Menschenleben unternimmt, kann jedoch von dem Berger einen angemessenen Anteil an der diesem für die Bergung des Schiffes oder eines sonstigen Vermögensgegenstandes oder für die Verhütung oder Begrenzung von Umweltschäden (§ 741 Abs. 2) nach den Vorschriften dieses Abschnitts zuerkannten Vergütung verlangen. Steht dem Berger aus den in § 746 genannten Gründen keine oder nur eine verminderte Vergütung zu, kann der Anspruch auf einen angemessenen Anteil an der Vergütung in Höhe des Betrages, um den er sich mindert, unmittelbar gegen den Eigentümer des Schiffes und, soweit die Bergungsmaßnahmen erfolgreich waren, gegen die Eigentümer der geborgenen Vermögensgegenstände geltend gemacht werden; § 742 Abs. 3 gilt entsprechend.
+(2) Abweichend von Absatz 1 kann derjenige, der bei Bergungsmaßnahmen Handlungen zur Rettung von Menschenleben unternimmt, von dem Berger, dem für die Bergung des Schiffes oder eines sonstigen Vermögensgegenstands oder für die Verhütung oder Begrenzung von Umweltschäden (§ 575 Absatz 2) nach den Vorschriften dieses Unterabschnitts eine Vergütung zusteht, einen angemessenen Anteil an der Vergütung verlangen. Steht dem Berger aus den in § 580 genannten Gründen keine oder nur eine verminderte Vergütung zu, kann der Anspruch auf einen angemessenen Anteil an der Vergütung in Höhe des Betrags, um den sich der Anteil mindert, unmittelbar gegen die Eigentümer des geborgenen Schiffes und der sonstigen geborgenen Vermögensgegenstände geltend gemacht werden; § 576 Absatz 3 ist entsprechend anzuwenden.
 
-### § 750 Abschluss und Inhaltskontrolle eines Bergungsvertrags
+### § 584 Abschluss und Inhaltskontrolle eines Bergungsvertrags
 
-(1) Sowohl der Eigentümer als auch der Schiffer oder Kapitän des in Gefahr befindlichen Schiffes sind berechtigt, im Namen der Eigentümer der an Bord des Schiffes befindlichen Vermögensgegenstände Verträge über Bergungsmaßnahmen abzuschließen. Der Schiffer oder Kapitän dieses Schiffes ist darüber hinaus berechtigt, auch in Namen des Schiffseigentümers Verträge über Bergungsmaßnahmen abzuschließen.
+(1) Sowohl der Eigentümer als auch der Schiffer oder Kapitän des in Gefahr befindlichen Schiffes sind berechtigt, im Namen der Eigentümer der an Bord des Schiffes befindlichen Vermögensgegenstände Verträge über Bergungsmaßnahmen abzuschließen. Der Schiffer oder Kapitän dieses Schiffes ist darüber hinaus berechtigt, auch im Namen des Schiffseigentümers Verträge über Bergungsmaßnahmen abzuschließen.
 
-(2) Der Bergungsvertrag oder einzelne seiner Bestimmungen können auf Antrag durch Urteil für nichtig erklärt oder abgeändert werden;
+(2) Der Bergungsvertrag oder einzelne seiner Bestimmungen können auf Antrag durch Urteil für nichtig erklärt oder abgeändert werden, wenn
 
 1.  
-wenn der Vertrag infolge unzulässiger Beeinflussung oder unter dem Einfluss der Gefahr eingegangen worden ist und seine Bestimmungen unbillig sind oder
+der Vertrag infolge unzulässiger Beeinflussung oder unter dem Einfluss der Gefahr eingegangen worden ist und seine Bestimmungen unbillig sind oder
 
 2.  
-wenn die vertraglich vereinbarte Vergütung im Verhältnis zu den tatsächlich erbrachten Leistungen übermäßig hoch oder übermäßig gering ist.
+die vertraglich vereinbarte Vergütung im Verhältnis zu den tatsächlich erbrachten Leistungen übermäßig hoch oder übermäßig gering ist.
 
-### § 751 Pfandrecht. Zurückbehaltungsrecht
+### § 585 Pfandrecht. Zurückbehaltungsrecht
 
-(1) Der Gläubiger hat für seine Forderung auf Bergelohn oder Sondervergütung einschließlich Bergungskosten die Rechte eines Schiffsgläubigers an dem geborgenen Schiff.
+(1) Der Gläubiger einer Forderung auf Bergelohn, auf Sondervergütung oder auf Bergungskosten hat nach § 596 Absatz 1 Nummer 4 für seine Forderung die Rechte eines Schiffsgläubigers an dem geborgenen Schiff.
 
-(2) An den übrigen geborgenen Sachen steht dem Gläubiger für seine Forderung auf Bergelohn einschließlich Bergungskosten ein Pfandrecht zu und, soweit der Gläubiger Alleinbesitzer der Sache ist, auch ein Zurückbehaltungsrecht.
+(2) An den übrigen geborgenen Sachen steht dem Gläubiger für seine Forderung auf Bergelohn oder Bergungskosten ein Pfandrecht zu und, soweit der Gläubiger Alleinbesitzer der Sache ist, auch ein Zurückbehaltungsrecht.
 
-(3) Der Gläubiger darf das nach Absatz 1 oder 2 gewährte Pfand- und Zurückbehaltungsrecht nicht geltend machen oder ausüben,
+(3) Der Gläubiger darf das nach Absatz 1 oder 2 gewährte Pfandrecht und Zurückbehaltungsrecht nicht geltend machen oder ausüben,
 
 1.  
 wenn ihm für seine Forderung einschließlich Zinsen und Kosten ausreichende Sicherheit in gehöriger Weise angeboten oder geleistet worden ist,
@@ -7792,186 +7104,343 @@ soweit das geborgene Schiff oder die sonstige geborgene Sache einem Staat gehör
 3.  
 soweit es sich um geborgene Ladung handelt, die von einem Staat für humanitäre Zwecke gespendet wurde, vorausgesetzt, der Staat hat sich bereit erklärt, die im Hinblick auf diese Ladung erbrachten Bergungsleistungen zu bezahlen.
 
-### § 752 Rangfolge der Pfandrechte
+### § 586 Rangfolge der Pfandrechte
 
-(1) Pfandrechte an den geborgenen Sachen nach § 751 Abs. 2 haben den Vorrang vor allen anderen an den Sachen begründeten Pfandrechten, auch wenn diese früher entstanden sind.
+(1) Pfandrechte an den geborgenen Sachen nach § 585 Absatz 2 haben den Vorrang vor allen anderen an den Sachen begründeten Pfandrechten, auch wenn diese früher entstanden sind.
 
-(2) Bestehen an einer Sache mehrere Pfandrechte nach § 751 Abs. 2, so geht das Pfandrecht für die später entstandene Forderung dem für die früher entstandene Forderung vor; Pfandrechte für gleichzeitig entstandene Forderungen sind gleichberechtigt; § 762 Abs. 3 gilt entsprechend. Das Gleiche gilt im Verhältnis von Pfandrechten nach § 751 Abs. 2 zu Pfandrechten nach § 726 Abs. 2.
+(2) Bestehen an einer Sache mehrere Pfandrechte nach § 585 Absatz 2, so geht das Pfandrecht für die später entstandene Forderung dem für die früher entstandene Forderung vor; Pfandrechte für gleichzeitig entstandene Forderungen sind gleichberechtigt; § 603 Absatz 3 gilt entsprechend. Das Gleiche gilt im Verhältnis eines Pfandrechts nach § 585 Absatz 2 zu einem wegen desselben Ereignisses begründeten Pfandrechts für eine Forderung auf einen Beitrag zur Großen Haverei nach § 594 Absatz 1.
 
-(3) Pfandrechte an den geborgenen Sachen nach § 751 Abs. 2 erlöschen nach einem Jahr seit der Entstehung der Forderung; § 759 Abs. 2 gilt entsprechend.
+(3) Pfandrechte an den geborgenen Sachen nach § 585 Absatz 2 erlöschen ein Jahr nach Entstehung der Forderung; § 600 Absatz 2 gilt entsprechend.
 
-(4) Die Befriedigung des Gläubigers aus den geborgenen Sachen wegen des Pfandrechts nach § 751 Abs. 2 erfolgt nach den für die Zwangsvollstreckung geltenden Vorschriften. Die Klage ist bei Gütern, die noch nicht ausgeliefert sind, gegen den Schiffer oder Kapitän zu richten; das gegen den Schiffer oder Kapitän ergangene Urteil ist auch gegenüber dem Eigentümer wirksam.
+(4) Die Befriedigung des Gläubigers aus den geborgenen Sachen wegen des Pfandrechts nach § 585 Absatz 2 erfolgt nach den für die Zwangsvollstreckung geltenden Vorschriften. Die Klage ist bei Sachen, die noch nicht ausgeliefert sind, gegen den Schiffer oder Kapitän zu richten; das gegen den Schiffer oder Kapitän ergangene Urteil ist auch gegenüber dem Eigentümer wirksam.
 
-### § 753 Sicherheitsleistung
+### § 587 Sicherheitsleistung
 
-(1) Der Berger kann für seine Forderung auf Bergelohn oder Sondervergütung einschließlich Zinsen und Kosten von dem Schuldner der Forderung die Leistung einer ausreichenden Sicherheit verlangen. Satz 1 gilt jedoch nicht, wenn die Bergungsmaßnahmen für ein Schiff durchgeführt wurden, das einem Staat gehört oder von ihm betrieben wird, nichtgewerblichen Zwecken dient und im Zeitpunkt der Bergungsmaßnahmen nach den allgemein anerkannten Grundsätzen des Völkerrechts Staatenimmunität genießt.
+(1) Der Berger kann für seine Forderung auf Bergelohn oder Sondervergütung einschließlich Zinsen und Kosten von dem Schuldner die Leistung einer ausreichenden Sicherheit verlangen. Satz 1 gilt jedoch nicht, wenn die Bergungsmaßnahmen für ein Schiff durchgeführt wurden, das einem Staat gehört oder von ihm betrieben wird, nichtgewerblichen Zwecken dient und im Zeitpunkt der Bergungsmaßnahmen nach den allgemein anerkannten Grundsätzen des Völkerrechts Staatenimmunität genießt.
 
-(2) Der Eigentümer des geborgenen Schiffes hat unbeschadet des Absatzes 1 nach besten Kräften sicherzustellen, dass die Eigentümer der Ladung für die gegen sie gerichteten Forderungen einschließlich Zinsen und Kosten eine ausreichende Sicherheit leisten, bevor die Ladung freigegeben wird.
+(2) Der Eigentümer des geborgenen Schiffes hat unbeschadet des Absatzes 1 nach besten Kräften sicherzustellen, dass die Eigentümer der Ladung eine ausreichende Sicherheit für die gegen sie gerichteten Forderungen einschließlich Zinsen und Kosten leisten, bevor die Ladung freigegeben wird.
 
-(3) Das geborgene Schiff und die sonstigen geborgenen Sachen dürfen vor Befriedigung oder Sicherstellung der Forderungen des Bergers nicht ohne dessen Zustimmung von dem Hafen oder Ort, den sie nach Beendigung der Bergungsmaßnahmen zuerst erreicht haben, entfernt werden.
+(3) Das geborgene Schiff und die sonstigen geborgenen Sachen dürfen vor Befriedigung oder Sicherstellung der Forderungen des Bergers nicht ohne dessen Zustimmung von dem Hafen oder Ort entfernt werden, den sie nach Beendigung der Bergungsmaßnahmen zuerst erreicht haben.
 
-(4) Liefert der Schiffer oder Kapitän entgegen Absatz 3 geborgene Ladung aus, so haftet er für den durch sein Verschulden dem Berger entstandenen Schaden. Hat der Schiffer auf Anweisung des Schiffseigners oder der Kapitän auf Anweisung des Reeders gehandelt, so ist bei Anweisung des Schiffseigners § 7 Abs. 2 und 3 des Binnenschifffahrtsgesetzes, sonst § 512 Abs. 2 und 3 anzuwenden.
+(4) Liefert der Schiffer oder Kapitän entgegen Absatz 3 geborgene Ladung aus, so haftet er für den Schaden, der durch sein Verschulden dem Berger entsteht. Dies gilt auch dann, wenn der Schiffer auf Anweisung des Schiffseigners oder der Kapitän auf Anweisung des Reeders gehandelt hat.
 
-### § 753a Einstweilige Verfügung
+Dritter Unterabschnitt Große Haverei
+------------------------------------
 
-Auf Antrag des Bergers kann das für die Hauptsache zuständige Gericht unter Berücksichtigung der Umstände des Falles nach billigem Ermessen durch einstweilige Verfügung regeln, dass der Schuldner des Anspruchs auf Bergelohn oder Sondervergütung dem Berger einen als billig und gerecht zu erachtenden Betrag als Abschlagszahlung zu leisten hat und zu welchen Bedingungen die Leistung zu erbringen ist. Die einstweilige Verfügung kann erlassen werden, auch wenn die in den §§ 935, 940 der Zivilprozessordnung bezeichneten Voraussetzungen nicht zutreffen.
+### 
 
-Neunter Abschnitt Schiffsgläubiger
+### § 588 Errettung aus gemeinsamer Gefahr
+
+(1) Werden das Schiff, der Treibstoff, die Ladung oder mehrere dieser Sachen zur Errettung aus einer gemeinsamen Gefahr auf Anordnung des Kapitäns vorsätzlich beschädigt oder aufgeopfert oder werden zu diesem Zweck auf Anordnung des Kapitäns Aufwendungen gemacht (Große Haverei), so werden die hierdurch entstandenen Schäden und Aufwendungen von den Beteiligten gemeinschaftlich getragen.
+
+(2) Beteiligter ist derjenige, der im Zeitpunkt des Havereifalls Eigentümer des Schiffes oder Eigentümer des Treibstoffs ist oder der die Gefahr trägt, dass ein zur Ladung gehörendes Frachtstück oder eine Frachtforderung untergeht.
+
+### § 589 Verschulden eines Beteiligten oder eines Dritten
+
+(1) Die Anwendung der Vorschriften über die Große Haverei wird nicht dadurch ausgeschlossen, dass die Gefahr durch Verschulden eines Beteiligten oder eines Dritten herbeigeführt ist. Der Beteiligte, dem ein solches Verschulden zur Last fällt, kann jedoch wegen eines ihm entstandenen Schadens keine Vergütung verlangen.
+
+(2) Ist die Gefahr durch ein Verschulden eines Beteiligten herbeigeführt worden, so ist dieser den Beitragspflichtigen zum Ersatz des Schadens verpflichtet, den sie dadurch erleiden, dass sie die Schäden und Aufwendungen, die zur Errettung aus der Gefahr entstanden sind, gemeinschaftlich tragen müssen.
+
+### § 590 Bemessung der Vergütung
+
+(1) Die Vergütung für die Aufopferung des Schiffes, dessen Zubehörs, des Treibstoffs und der zur Ladung gehörenden Frachtstücke bemisst sich nach dem Verkehrswert, den die Sachen am Ort und zur Zeit der Beendigung der Reise gehabt hätten.
+
+(2) Die Vergütung für die Beschädigung der in Absatz 1 genannten Sachen bemisst sich nach dem Unterschied zwischen dem Verkehrswert der beschädigten Sachen am Ort und zur Zeit der Beendigung der Reise und dem Verkehrswert, den die Sachen in unbeschädigtem Zustand an diesem Ort und zu dieser Zeit gehabt hätten. Sind Sachen nach dem Havereifall repariert worden, so wird vermutet, dass die für eine Reparatur der Sachen aufgewendeten Kosten dem Wertverlust entsprechen.
+
+(3) Die Vergütung für den Untergang einer Frachtforderung bemisst sich nach dem Betrag, der dem Verfrachter infolge der Großen Haverei nicht geschuldet ist.
+
+(4) War die aufgeopferte oder beschädigte Sache unmittelbar vor Beginn der Reise Gegenstand eines Kaufvertrags, so wird vermutet, dass der in der Rechnung des Verkäufers ausgewiesene Kaufpreis der Verkehrswert dieser Sache ist.
+
+### § 591 Beitrag
+
+(1) Die Beteiligten, mit Ausnahme der Schiffsbesatzung und der Fahrgäste, haben zur Zahlung der Vergütung einen Beitrag zu leisten.
+
+(2) Die Beiträge zur Großen Haverei bemessen sich nach dem Wert der Gegenstände, die sich in gemeinsamer Gefahr befanden. Maßgebend für den Wert des Schiffes, des Treibstoffs und der zur Ladung gehörenden Frachtstücke ist der Verkehrswert am Ende der Reise zuzüglich einer etwaigen Vergütung für eine Beschädigung oder Aufopferung der betreffenden Sache in Großer Haverei. Maßgebend für den Wert einer Frachtforderung ist der Bruttobetrag der am Ende der Reise geschuldeten Fracht zuzüglich einer etwaigen Vergütung für einen Untergang der Frachtforderung wegen Havereimaßnahmen.
+
+### § 592 Verteilung
+
+(1) Die Höhe der Vergütung, die ein Beteiligter wegen der Aufopferung oder Beschädigung eines ihm nach § 588 Absatz 2 zuzurechnenden Gegenstands beanspruchen kann, sowie die Höhe des Beitrags, den ein Beteiligter zu zahlen hat, bestimmen sich nach dem Verhältnis der gesamten, allen Beteiligten zustehenden Vergütung zu der Summe der von allen Beteiligten zu leistenden Beiträge. Liegt ein nach § 590 ermittelter anteiliger Wertverlust über dem nach Satz 1 errechneten Anteil, so hat der von dem Wertverlust betroffene Beteiligte in Höhe der Differenz Anspruch auf eine Vergütung. Liegt ein nach § 590 ermittelter anteiliger Wertverlust unter dem nach Satz 1 errechneten Anteil, muss der von dem Wertverlust betroffene Beteiligte in Höhe der Differenz einen Beitrag zahlen.
+
+(2) Jeder Beitragspflichtige haftet jedoch nur bis zur Höhe des Wertes des geretteten Gegenstands, der ihm nach § 588 Absatz 2 zuzurechnen ist.
+
+### § 593 Schiffsgläubigerrecht
+
+Die Vergütungsberechtigten haben nach § 596 Absatz 1 Nummer 4 für ihre Beitragsforderungen gegen den Eigentümer des Schiffes sowie den Gläubiger der Fracht die Rechte eines Schiffsgläubigers an dem Schiff.
+
+### § 594 Pfandrecht der Vergütungsberechtigten. Nichtauslieferung
+
+(1) Die Vergütungsberechtigten haben für ihre Beitragsforderungen ein Pfandrecht an dem Treibstoff und der Ladung der Beitragspflichtigen.
+
+(2) Das Pfandrecht hat Vorrang vor allen anderen an diesen Sachen begründeten Pfandrechten, auch wenn diese früher entstanden sind. Bestehen an einer Sache mehrere Pfandrechte nach Absatz 1 oder besteht an einer Sache auch ein Pfandrecht nach § 585 Absatz 2, so geht das Pfandrecht für die später entstandene Forderung dem für die früher entstandene Forderung vor. Pfandrechte für gleichzeitig entstandene Forderungen sind gleichberechtigt. § 603 Absatz 3 ist entsprechend anzuwenden.
+
+(3) Pfandrechte nach Absatz 1 erlöschen ein Jahr nach Entstehung der Forderung. § 600 Absatz 2 ist entsprechend anzuwenden.
+
+(4) Das Pfandrecht wird für die Vergütungsberechtigten durch den Reeder ausgeübt. Auf die Geltendmachung des Pfandrechts an der Ladung sind die §§ 368 und 495 Absatz 4 entsprechend anzuwenden.
+
+(5) Der Kapitän darf die Sachen, an denen Pfandrechte nach Absatz 1 bestehen, vor der Berichtigung oder Sicherstellung der Beiträge nicht ausliefern. Liefert der Kapitän die Sachen entgegen Satz 1 aus, so haftet er für den Schaden, der den Vergütungsberechtigten durch sein Verschulden entsteht. Dies gilt auch dann, wenn der Kapitän auf Anweisung des Reeders gehandelt hat.
+
+### § 595 Aufmachung der Dispache
+
+(1) Jeder Beteiligte ist berechtigt, die Aufmachung der Dispache am Bestimmungsort oder, wenn dieser nicht erreicht wird, in dem Hafen, in dem die Reise endet, zu veranlassen. Wurde Treibstoff oder Ladung vorsätzlich beschädigt oder aufgeopfert, ist der Reeder verpflichtet, die Aufmachung der Dispache an dem in Satz 1 genannten Ort unverzüglich zu veranlassen; unterlässt er dies, so ist er den Beteiligten für den daraus entstehenden Schaden verantwortlich.
+
+(2) Die Dispache wird durch einen öffentlich bestellten Sachverständigen oder eine vom Gericht besonders ernannte sachverständige Person (Dispacheur) aufgemacht.
+
+(3) Jeder Beteiligte hat die in seinen Händen befindlichen Urkunden, die zur Aufmachung der Dispache erforderlich sind, dem Dispacheur zur Verfügung zu stellen.
+
+Fünfter Abschnitt Schiffsgläubiger
 ----------------------------------
 
 ### 
 
-### § 754
+### § 596 Gesicherte Forderungen
 
-(1) Folgende Forderungen gewähren die Rechte eines Schiffsgläubigers:
+(1) Die Gläubiger folgender Forderungen haben die Rechte eines Schiffsgläubigers:
 
 1.  
 Heuerforderungen des Kapitäns und der übrigen Personen der Schiffsbesatzung;
 
 2.  
-öffentliche Schiffs-, Schiffahrts- und Hafenabgaben sowie Lotsgelder;
+öffentliche Schiffs-, Schifffahrts- und Hafenabgaben sowie Lotsgelder;
 
 3.  
-Schadensersatzforderungen wegen der Tötung oder Verletzung von Menschen sowie wegen des Verlusts oder der Beschädigung von Sachen, sofern diese Forderungen aus der Verwendung des Schiffes entstanden sind; ausgenommen sind jedoch Forderungen wegen des Verlusts oder der Beschädigung von Sachen, die aus einem Vertrag hergeleitet werden oder auch aus einem Vertrag hergeleitet werden können;
+Schadensersatzforderungen wegen der Tötung oder Verletzung von Menschen sowie wegen des Verlusts oder der Beschädigung von Sachen, sofern diese Forderungen aus der Verwendung des Schiffes entstanden sind; ausgenommen sind jedoch Forderungen wegen des Verlusts oder der Beschädigung von Sachen, wenn die Forderungen aus einem Vertrag hergeleitet werden oder auch aus einem Vertrag hergeleitet werden können;
 
 4.  
-Forderungen auf Bergelohn oder auf Sondervergütung einschließlich Bergungskosten; Beiträge des Schiffes und der Fracht zur großen Haverei; Forderungen wegen der Beseitigung des Wracks;
+Forderungen auf Bergelohn, auf Sondervergütung und auf Bergungskosten; Forderungen gegen den Eigentümer des Schiffes und gegen den Gläubiger der Fracht auf einen Beitrag zur Großen Haverei; Forderungen wegen der Beseitigung des Wracks;
 
 5.  
 Forderungen der Träger der Sozialversicherung einschließlich der Arbeitslosenversicherung gegen den Reeder.
 
-(2) Absatz 1 Nr. 3 findet keine Anwendung auf Ansprüche, die auf die radioaktiven Eigenschaften oder eine Verbindung der radioaktiven Eigenschaften mit giftigen, explosiven oder sonstigen gefährlichen Eigenschaften von Kernbrennstoffen oder radioaktiven Erzeugnissen oder Abfällen zurückzuführen sind.
+(2) Absatz 1 Nummer 3 ist nicht auf Ansprüche anzuwenden, die auf die radioaktiven Eigenschaften oder eine Verbindung der radioaktiven Eigenschaften mit giftigen, explosiven oder sonstigen gefährlichen Eigenschaften von Kernbrennstoffen oder radioaktiven Erzeugnissen oder Abfällen zurückzuführen sind.
 
-### § 755
+### § 597 Pfandrecht der Schiffsgläubiger
 
 (1) Die Schiffsgläubiger haben für ihre Forderungen ein gesetzliches Pfandrecht an dem Schiff. Das Pfandrecht kann gegen jeden Besitzer des Schiffes verfolgt werden.
 
 (2) Das Schiff haftet auch für die gesetzlichen Zinsen der Forderungen sowie für die Kosten der die Befriedigung aus dem Schiff bezweckenden Rechtsverfolgung.
 
-### § 756
+### § 598 Gegenstand des Pfandrechts der Schiffsgläubiger
 
 (1) Das Pfandrecht der Schiffsgläubiger erstreckt sich auf das Zubehör des Schiffes mit Ausnahme der Zubehörstücke, die nicht in das Eigentum des Schiffseigentümers gelangt sind.
 
-(2) Das Pfandrecht erstreckt sich auch auf einen Ersatzanspruch, der dem Reeder wegen des Verlusts oder der Beschädigung des Schiffes gegen einen Dritten zusteht. Das gleiche gilt hinsichtlich der Vergütung für Schäden am Schiff in Fällen der großen Haverei.
+(2) Das Pfandrecht erstreckt sich auch auf einen Ersatzanspruch, der dem Reeder wegen des Verlusts oder der Beschädigung des Schiffes gegen einen Dritten zusteht. Das Gleiche gilt hinsichtlich der Vergütung für Schäden am Schiff in Fällen der Großen Haverei.
 
 (3) Das Pfandrecht erstreckt sich nicht auf eine Forderung aus einer Versicherung, die der Reeder für das Schiff genommen hat.
 
-### § 757
-
-Gehört das Schiff einer Reederei, so haftet es den Schiffsgläubigern in gleicher Weise, als wenn es nur einem Reeder gehörte.
-
-### § 758
+### § 599 Erlöschen der Forderung
 
 Erlischt die durch das Pfandrecht eines Schiffsgläubigers gesicherte Forderung, so erlischt auch das Pfandrecht.
 
-### § 759
+### § 600 Zeitablauf
 
-(1) Das Pfandrecht eines Schiffsgläubigers erlischt nach Ablauf eines Jahres seit der Entstehung der Forderung.
+(1) Das Pfandrecht eines Schiffsgläubigers erlischt ein Jahr nach Entstehung der Forderung.
 
-(2) Das Pfandrecht erlischt nicht, wenn der Gläubiger innerhalb der Frist des Absatzes 1 die Beschlagnahme des Schiffes wegen des Pfandrechts erwirkt, sofern das Schiff später im Wege der Zwangsvollstreckung veräußert wird, ohne daß das Schiff in der Zwischenzeit von einer Beschlagnahme zugunsten dieses Gläubigers frei geworden ist. Das gleiche gilt für das Pfandrecht eines Gläubigers, der wegen seines Pfandrechts dem Zwangsvollstreckungsverfahren innerhalb dieser Frist beitritt.
+(2) Das Pfandrecht erlischt nicht, wenn der Gläubiger innerhalb der Frist des Absatzes 1 die Beschlagnahme des Schiffes wegen des Pfandrechts erwirkt, sofern das Schiff später im Wege der Zwangsvollstreckung veräußert wird, ohne dass das Schiff in der Zwischenzeit von einer Beschlagnahme zugunsten dieses Gläubigers frei geworden ist. Das Gleiche gilt für das Pfandrecht eines Gläubigers, der wegen seines Pfandrechts dem Zwangsvollstreckungsverfahren innerhalb dieser Frist beitritt.
 
-(3) Ein Zeitraum, während dessen ein Gläubiger rechtlich daran gehindert ist, sich aus dem Schiff zu befriedigen, wird in die Frist nicht eingerechnet. Eine Hemmung, eine Ablaufhemmung oder ein Neubeginn der Frist aus anderen Gründen findet nicht statt.
+(3) Ein Zeitraum, währenddessen ein Gläubiger rechtlich daran gehindert ist, sich aus dem Schiff zu befriedigen, wird in die Frist nicht eingerechnet. Eine Hemmung, eine Ablaufhemmung oder ein Neubeginn der Frist aus anderen Gründen ist ausgeschlossen.
 
-### § 760
+### § 601 Befriedigung des Schiffsgläubigers
 
 (1) Die Befriedigung des Schiffsgläubigers aus dem Schiff erfolgt nach den Vorschriften über die Zwangsvollstreckung.
 
-(2) Die Klage auf Duldung der Zwangsvollstreckung kann außer gegen den Eigentümer des Schiffes auch gegen den Ausrüster oder gegen den Kapitän gerichtet werden. Das gegen den Ausrüster oder gegen den Kapitän gerichtete Urteil ist auch gegenüber dem Eigentümer wirksam.
+(2) Die Klage auf Duldung der Zwangsvollstreckung kann außer gegen den Eigentümer des Schiffes auch gegen den Ausrüster gerichtet werden. Das gegen den Ausrüster gerichtete Urteil ist auch gegenüber dem Eigentümer wirksam.
 
-(3) Bei der Verfolgung des Pfandrechts des Schiffsgläubigers gilt zugunsten des Gläubigers als Eigentümer, wer im Schiffsregister als Eigentümer eingetragen ist. Das Recht des nicht eingetragenen Eigentümers, die ihm gegen das Pfandrecht zustehenden Einwendungen geltend zu machen, bleibt unberührt.
+(3) Zugunsten des Schiffsgläubigers gilt als Eigentümer, wer im Schiffsregister als Eigentümer eingetragen ist. Das Recht des nicht eingetragenen Eigentümers, die ihm gegen das Pfandrecht zustehenden Einwendungen geltend zu machen, bleibt unberührt.
 
-### § 761
+### § 602 Vorrang der Pfandrechte der Schiffsgläubiger
 
-Die Pfandrechte der Schiffsgläubiger haben den Vorrang vor allen anderen Pfandrechten am Schiff. Sie haben Vorrang auch insoweit, als zoll- und steuerpflichtige Sachen nach gesetzlichen Vorschriften als Sicherheit für öffentliche Abgaben dienen.
+Die Pfandrechte der Schiffsgläubiger haben Vorrang vor allen anderen Pfandrechten am Schiff. Sie haben Vorrang auch insoweit, als zoll- und steuerpflichtige Sachen nach gesetzlichen Vorschriften als Sicherheit für öffentliche Abgaben dienen.
 
-### § 762
+### § 603 Allgemeine Rangordnung der Pfandrechte der Schiffsgläubiger
 
-(1) Die Rangordnung der Pfandrechte der Schiffsgläubiger bestimmt sich nach der Reihenfolge der Nummern, unter denen die Forderungen in § 754 aufgeführt sind.
+(1) Die Rangordnung der Pfandrechte der Schiffsgläubiger bestimmt sich nach der Reihenfolge der Nummern, unter denen die Forderungen in § 596 aufgeführt sind.
 
-(2) Die Pfandrechte für die in § 754 Abs. 1 Nr. 4 aufgeführten Forderungen haben jedoch den Vorrang vor den Pfandrechten aller anderen Schiffsgläubiger, deren Forderungen früher entstanden sind.
+(2) Die Pfandrechte für die in § 596 Absatz 1 Nummer 4 aufgeführten Forderungen haben jedoch den Vorrang vor den Pfandrechten aller anderen Schiffsgläubiger, deren Forderungen früher entstanden sind.
 
-(3) Beitragsforderungen zur großen Haverei gelten als im Zeitpunkt des Havereifalls, Forderungen auf Bergelohn oder Sondervergütung einschließlich Bergungskosten als im Zeitpunkt der Beendigung der Bergungsmaßnahmen und Forderungen wegen der Beseitigung des Wracks als im Zeitpunkt der Beendigung der Wrackbeseitigung entstanden.
+(3) Beitragsforderungen zur Großen Haverei gelten als im Zeitpunkt des Havereifalls, Forderungen auf Bergelohn, auf Sondervergütung und auf Bergungskosten als im Zeitpunkt der Beendigung der Bergungsmaßnahmen und Forderungen wegen der Beseitigung des Wracks als im Zeitpunkt der Beendigung der Wrackbeseitigung entstanden.
 
-### § 763
+### § 604 Rangordnung der Pfandrechte unter derselben Nummer
 
-(1) Von den Pfandrechten für die in § 754 Abs. 1 Nr. 1 bis 3, 5 aufgeführten Forderungen haben die Pfandrechte für die unter derselben Nummer genannten Forderungen ohne Rücksicht auf den Zeitpunkt ihrer Entstehung den gleichen Rang.
+(1) Von den Pfandrechten für die in § 596 Absatz 1 Nummer 1 bis 3 und 5 aufgeführten Forderungen haben die Pfandrechte für die unter derselben Nummer genannten Forderungen ohne Rücksicht auf den Zeitpunkt ihrer Entstehung den gleichen Rang.
 
-(2) Pfandrechte für die in § 754 Abs. 1 Nr. 3 aufgeführten Forderungen wegen Personenschäden gehen jedoch Pfandrechten für die unter derselben Nummer aufgeführten Forderungen wegen Sachschäden vor.
+(2) Pfandrechte für die in § 596 Absatz 1 Nummer 3 aufgeführten Forderungen wegen Personenschäden gehen Pfandrechten für die unter derselben Nummer aufgeführten Forderungen wegen Sachschäden vor.
 
-### § 764
+(3) Von den Pfandrechten für die in § 596 Absatz 1 Nummer 4 aufgeführten Forderungen geht das für die später entstandene Forderung dem für die früher entstandene Forderung vor. Pfandrechte wegen gleichzeitig entstandener Forderungen sind gleichberechtigt.
 
-Von den Pfandrechten für die in § 754 Abs. 1 Nr. 4 aufgeführten Forderungen geht das für die später entstandene Forderung dem für die früher entstandene Forderung vor. Pfandrechte wegen gleichzeitig enstandener Forderungen sind gleichberechtigt.
+Sechster Abschnitt Verjährung
+-----------------------------
 
-### (XXXX) §§ 765 bis 777
+### 
 
-Zehnter Abschnitt (weggefallen)
+### § 605 Einjährige Verjährungsfrist
+
+Folgende Ansprüche verjähren in einem Jahr:
+
+1.  
+Ansprüche aus einem Seefrachtvertrag und aus einem Konnossement;
+
+2.  
+Ansprüche aus Schiffsüberlassungsverträgen;
+
+3.  
+Ansprüche auf Beiträge zur Großen Haverei;
+
+4.  
+Ansprüche, die den Reedern untereinander nach § 571 Absatz 2 zustehen.
+
+### § 606 Zweijährige Verjährungsfrist
+
+Folgende Ansprüche verjähren in zwei Jahren:
+
+1.  
+Schadensersatzansprüche wegen Tod oder Körperverletzung eines Fahrgasts oder wegen Verlust, Beschädigung oder verspäteter Aushändigung von Gepäck, soweit die Ansprüche den Vorschriften dieses Buches unterworfen sind;
+
+2.  
+Schadensersatzansprüche aus dem Zusammenstoß von Schiffen oder aus einem unter § 572 fallenden Ereignis;
+
+3.  
+Ansprüche auf Bergelohn, auf Sondervergütung und auf Bergungskosten;
+
+4.  
+Ansprüche wegen der Beseitigung eines Wracks.
+
+### § 607 Beginn der Verjährungsfristen
+
+(1) Die Verjährungsfrist für die in § 605 Nummer 1 genannten Ansprüche beginnt mit dem Tag, an dem das Gut abgeliefert wurde, oder, wenn das Gut nicht abgeliefert wurde, mit dem Tag, an dem das Gut hätte abgeliefert werden müssen. Handelt es sich um Ansprüche aus einem Reisefrachtvertrag, ist auf das Gut abzustellen, das am Ende der letzten Reise abgeliefert wurde oder hätte abgeliefert werden müssen.
+
+(2) Abweichend von Absatz 1 beginnt die Verjährungsfrist für Rückgriffsansprüche des Schuldners eines in § 605 Nummer 1 genannten Anspruchs mit dem Tag des Eintritts der Rechtskraft des Urteils gegen den Rückgriffsgläubiger oder, wenn kein rechtskräftiges Urteil vorliegt, mit dem Tag, an dem der Rückgriffsgläubiger den Anspruch befriedigt hat. Satz 1 gilt nicht, wenn der Rückgriffsschuldner innerhalb von drei Monaten, nachdem der Rückgriffsgläubiger Kenntnis von dem Schaden und der Person des Rückgriffsschuldners erlangt hat, nicht über diesen Schaden unterrichtet wurde.
+
+(3) Die Verjährungsfrist für die in § 605 Nummer 2 genannten Ansprüche aus Schiffsüberlassungsverträgen beginnt mit dem Schluss des Jahres, in dem der Anspruch entstanden ist. Auf die Verjährung von Rückgriffsansprüchen des Schuldners eines Anspruchs aus einem Zeitchartervertrag ist Absatz 2 entsprechend anzuwenden.
+
+(4) Die Verjährungsfrist für die in § 605 Nummer 3 und 4 genannten Ansprüche beginnt mit dem Schluss des Jahres, in dem der Anspruch entstanden ist.
+
+(5) Die Verjährungsfrist für die in § 606 Nummer 1 genannten Schadensersatzansprüche beginnt wie folgt:
+
+1.  
+für Ansprüche wegen Körperverletzung eines Fahrgasts mit dem Tag der Ausschiffung des Fahrgasts;
+
+2.  
+für Ansprüche wegen des Todes eines Fahrgasts mit dem Tag, an dem der Fahrgast hätte ausgeschifft werden sollen, oder, wenn der Tod nach der Ausschiffung eingetreten ist, mit dem Tag des Todes, spätestens jedoch ein Jahr nach der Ausschiffung des Fahrgasts;
+
+3.  
+für Ansprüche wegen Verlust, Beschädigung oder verspäteter Auslieferung von Gepäck mit dem Tag der Ausschiffung oder mit dem Tag, an dem die Ausschiffung hätte erfolgen sollen, je nachdem, welches der spätere Zeitpunkt ist.
+
+(6) Die Verjährungsfrist für die in § 606 Nummer 2 genannten Schadensersatzansprüche aus einem Zusammenstoß von Schiffen oder aus einem unter § 572 fallenden Ereignis beginnt mit dem den Schaden auslösenden Ereignis.
+
+(7) Die Verjährungsfrist für die in § 606 Nummer 3 und 4 genannten Ansprüche beginnt mit Beendigung der Bergungs- oder Wrackbeseitigungsmaßnahmen. Auf die Verjährung von Rückgriffsansprüchen des Schuldners dieser Ansprüche ist Absatz 2 entsprechend anzuwenden.
+
+### § 608 Hemmung der Verjährung
+
+Die Verjährung der in den §§ 605 und 606 genannten Ansprüche wird auch durch eine Erklärung des Gläubigers, mit der dieser Ersatzansprüche erhebt, bis zu dem Zeitpunkt gehemmt, in dem der Schuldner die Erfüllung des Anspruchs ablehnt. Die Erhebung der Ansprüche sowie die Ablehnung bedürfen der Textform. Eine weitere Erklärung, die denselben Ersatzanspruch zum Gegenstand hat, hemmt die Verjährung nicht erneut.
+
+### § 609 Vereinbarungen über die Verjährung
+
+(1) Die Verjährung von Schadensersatzansprüchen aus einem Stückgutfrachtvertrag oder aus einem Konnossement wegen Verlust oder Beschädigung von Gut kann nur durch Vereinbarung, die im Einzelnen ausgehandelt ist, auch wenn sie für eine Mehrzahl von gleichartigen Verträgen zwischen denselben Vertragsparteien getroffen ist, erleichtert oder erschwert werden. Eine Bestimmung im Konnossement, die die Verjährung der Schadensersatzansprüche erleichtert, ist jedoch Dritten gegenüber unwirksam.
+
+(2) Die Verjährung der in § 606 Nummer 1 genannten Ansprüche wegen Personen-, Gepäck- oder Verspätungsschäden kann nur durch Erklärung des Beförderers oder durch Vereinbarung der Parteien nach der Entstehung des Anspruchsgrunds verlängert werden. Erklärung und Vereinbarung bedürfen der Schriftform. Eine Erleichterung der Verjährung, insbesondere eine Verkürzung der Verjährungsfrist, ist unzulässig.
+
+### § 610 Konkurrierende Ansprüche
+
+Treffen vertragliche Schadensersatzansprüche, die den Vorschriften dieses Abschnitts unterworfen sind, mit konkurrierenden außervertraglichen Schadensersatzansprüchen zusammen, so gelten auch für die außervertraglichen Ansprüche die Vorschriften dieses Abschnitts.
+
+Siebter Abschnitt Allgemeine Haftungsbeschränkung
+-------------------------------------------------
+
+### 
+
+### § 611 Übereinkommen über die Haftungsbeschränkung
+
+(1) Die Haftung für Seeforderungen kann nach den Bestimmungen des Übereinkommens vom 19. November 1976 über die Beschränkung der Haftung für Seeforderungen (BGBl. 1986 II S. 786), geändert durch das Protokoll vom 2. Mai 1996 (BGBl. 2000 II S. 790), in seiner jeweiligen für die Bundesrepublik Deutschland geltenden Fassung (Haftungsbeschränkungsübereinkommen) beschränkt werden. Dies gilt auch für die Haftung für Bunkerölverschmutzungsschäden nach dem Internationalen Übereinkommen von 2001 über die zivilrechtliche Haftung für Bunkerölverschmutzungsschäden (BGBl. 2006 II S. 578) (Bunkeröl-Übereinkommen).
+
+(2) Die Haftung nach dem Internationalen Übereinkommen von 1992 über die zivilrechtliche Haftung für Ölverschmutzungsschäden (BGBl. 1994 II S. 1150, 1152) (Haftungsübereinkommen von 1992) kann nach den Bestimmungen dieses Übereinkommens beschränkt werden.
+
+(3) Werden Ansprüche wegen Verschmutzungsschäden im Sinne des Artikels I Nummer 6 des Haftungsübereinkommens von 1992 geltend gemacht und ist das Haftungsübereinkommen von 1992 nicht anzuwenden, so können die in Artikel 1 des Haftungsbeschränkungsübereinkommens bezeichneten Personen ihre Haftung für diese Ansprüche in entsprechender Anwendung der Bestimmungen des Haftungsbeschränkungsübereinkommens beschränken. Sind aus demselben Ereignis sowohl Ansprüche der in Satz 1 bezeichneten Art als auch Ansprüche entstanden, für welche die Haftung nach Absatz 1 beschränkt werden kann, so gelten die im Haftungsbeschränkungsübereinkommen bestimmten Haftungshöchstbeträge jeweils gesondert für die Gesamtheit der in Satz 1 bezeichneten Ansprüche und für die Gesamtheit derjenigen Ansprüche, für welche die Haftung nach Absatz 1 beschränkt werden kann.
+
+(4) Die Haftung kann nicht beschränkt werden für
+
+1.  
+die in Artikel 3 Buchstabe e des Haftungsbeschränkungsübereinkommens bezeichneten Ansprüche, sofern der Dienstvertrag inländischem Recht unterliegt;
+
+2.  
+Ansprüche auf Ersatz der Kosten der Rechtsverfolgung.
+
+(5) Ergänzend zu den Bestimmungen des Haftungsbeschränkungsübereinkommens und des Haftungsübereinkommens von 1992 gelten die §§ 612 bis 617.
+
+### § 612 Haftungsbeschränkung für Ansprüche aus Wrackbeseitigung
+
+(1) Das Haftungsbeschränkungsübereinkommen (§ 611 Absatz 1 Satz 1) ist auf folgende Ansprüche mit der Maßgabe anzuwenden, dass für sie unabhängig davon, auf welcher Rechtsgrundlage sie beruhen, ein gesonderter Haftungshöchstbetrag gilt:
+
+1.  
+Ansprüche auf Erstattung der Kosten für die Hebung, Beseitigung, Vernichtung oder Unschädlichmachung eines gesunkenen, havarierten, gestrandeten oder verlassenen Schiffes, samt allem, was sich an Bord eines solchen Schiffes befindet oder befunden hat, und
+
+2.  
+Ansprüche auf Erstattung der Kosten für die Beseitigung, Vernichtung oder Unschädlichmachung der Ladung des Schiffes.
+
+Die in Satz 1 angeführten Ansprüche unterliegen jedoch nicht der Haftungsbeschränkung, soweit sie ein mit dem Haftpflichtigen vertraglich vereinbartes Entgelt betreffen.
+
+(2) Der Haftungshöchstbetrag nach Absatz 1 errechnet sich nach Artikel 6 Absatz 1 Buchstabe b des Haftungsbeschränkungsübereinkommens. Der Haftungshöchstbetrag gilt für die Gesamtheit der in Absatz 1 bezeichneten Ansprüche, die aus demselben Ereignis gegen Personen entstanden sind, die dem gleichen Personenkreis im Sinne des Artikels 9 Absatz 1 Buchstabe a, b oder c des Haftungsbeschränkungsübereinkommens angehören. Er steht ausschließlich zur Befriedigung der in Absatz 1 bezeichneten Ansprüche zur Verfügung; Artikel 6 Absatz 2 und 3 des Haftungsbeschränkungsübereinkommens ist nicht anzuwenden.
+
+### § 613 Haftungsbeschränkung für kleine Schiffe
+
+Für ein Schiff mit einem Raumgehalt bis zu 250 Tonnen wird der nach Artikel 6 Absatz 1 Buchstabe b des Haftungsbeschränkungsübereinkommens (§ 611 Absatz 1 Satz 1) zu errechnende Haftungshöchstbetrag auf die Hälfte des für ein Schiff mit einem Raumgehalt von 2 000 Tonnen geltenden Haftungshöchstbetrags festgesetzt.
+
+### § 614 Haftungsbeschränkung für Schäden an Häfen und Wasserstraßen
+
+Unbeschadet des Rechts nach Artikel 6 Absatz 2 des Haftungsbeschränkungsübereinkommens (§ 611 Absatz 1 Satz 1) in Bezug auf Ansprüche wegen Tod oder Körperverletzung haben Ansprüche wegen Beschädigung von Hafenanlagen, Hafenbecken, Wasserstraßen und Navigationshilfen Vorrang vor sonstigen Ansprüchen nach Artikel 6 Absatz 1 Buchstabe b des Haftungsbeschränkungsübereinkommens.
+
+### § 615 Beschränkung der Haftung des Lotsen
+
+(1) Die in Artikel 6 Absatz 1 Buchstabe a und b des Haftungsbeschränkungsübereinkommens (§ 611 Absatz 1 Satz 1) bestimmten Haftungshöchstbeträge gelten für Ansprüche gegen einen an Bord tätigen Lotsen mit der Maßgabe, dass der Lotse, falls der Raumgehalt des gelotsten Schiffes 2 000 Tonnen übersteigt, seine Haftung auf die Beträge beschränken kann, die sich unter Zugrundelegung eines Raumgehalts von 2 000 Tonnen errechnen.
+
+(2) Der in Artikel 7 Absatz 1 des Haftungsbeschränkungsübereinkommens bestimmte Haftungshöchstbetrag gilt für Ansprüche gegen einen an Bord tätigen Lotsen mit der Maßgabe, dass der Lotse, falls das Schiff nach dem Schiffszeugnis mehr als zwölf Fahrgäste befördern darf, seine Haftung auf den Betrag beschränken kann, der sich unter Zugrundelegung einer Anzahl von zwölf Fahrgästen errechnet.
+
+(3) Die Errichtung und Verteilung eines Fonds in Höhe der nach Absatz 1 oder 2 zu errechnenden Beträge sowie die Wirkungen der Errichtung eines solchen Fonds bestimmen sich nach den Vorschriften über die Errichtung, die Verteilung und die Wirkungen der Errichtung eines Fonds im Sinne des Artikels 11 des Haftungsbeschränkungsübereinkommens. Jedoch ist Artikel 11 Absatz 3 des Haftungsbeschränkungsübereinkommens nicht anzuwenden, wenn im Falle des Absatzes 1 der Raumgehalt des gelotsten Schiffes 2 000 Tonnen übersteigt oder im Falle des Absatzes 2 das Schiff nach dem Schiffszeugnis mehr als zwölf Fahrgäste befördern darf.
+
+(4) Ein Lotse, der nicht an Bord des gelotsten Schiffes tätig ist, kann seine Haftung für die in Artikel 2 des Haftungsbeschränkungsübereinkommens angeführten Ansprüche in entsprechender Anwendung des § 611 Absatz 1, 3 und 4 sowie der §§ 612 bis 614 und 617 mit der Maßgabe beschränken, dass für diese Ansprüche ein gesonderter Haftungshöchstbetrag gilt, der sich nach Absatz 1 oder 2 errechnet und der ausschließlich zur Befriedigung der Ansprüche gegen den Lotsen zur Verfügung steht.
+
+### § 616 Wegfall der Haftungsbeschränkung
+
+(1) Ist der Schuldner eine juristische Person oder eine Personenhandelsgesellschaft, so kann er seine Haftung nicht beschränken, wenn
+
+1.  
+der Schaden auf eine Handlung oder Unterlassung eines Mitglieds des zur Vertretung berechtigten Organs oder eines zur Vertretung berechtigten Gesellschafters zurückzuführen ist und
+
+2.  
+durch eine solche Handlung oder Unterlassung die Beschränkung der Haftung nach Artikel 4 des Haftungsbeschränkungsübereinkommens (§ 611 Absatz 1 Satz 1) oder nach Artikel V Absatz 2 des Haftungsübereinkommens von 1992 (§ 611 Absatz 2) ausgeschlossen ist.
+
+Gleiches gilt, wenn der Schuldner ein Mitreeder ist und der Schaden auf eine Handlung oder Unterlassung des Korrespondentreeders zurückzuführen ist.
+
+(2) Ist der Schuldner eine Personenhandelsgesellschaft, so kann jeder Gesellschafter seine persönliche Haftung für Ansprüche beschränken, für welche auch die Gesellschaft ihre Haftung beschränken kann.
+
+### § 617 Verfahren der Haftungsbeschränkung
+
+(1) Die Errichtung und Verteilung eines Fonds im Sinne des Artikels 11 des Haftungsbeschränkungsübereinkommens (§ 611 Absatz 1 Satz 1) oder im Sinne des Artikels V Absatz 3 des Haftungsübereinkommens von 1992 (§ 611 Absatz 2) bestimmt sich nach den Vorschriften der Schifffahrtsrechtlichen Verteilungsordnung.
+
+(2) Die Beschränkung der Haftung nach dem Haftungsbeschränkungsübereinkommen kann auch dann geltend gemacht werden, wenn ein Fonds im Sinne des Artikels 11 des Haftungsbeschränkungsübereinkommens nicht errichtet worden ist. § 305a der Zivilprozessordnung bleibt unberührt.
+
+Achter Abschnitt Verfahrensvorschriften
+---------------------------------------
+
+### 
+
+### § 618 Einstweilige Verfügung eines Bergers
+
+Auf Antrag eines Bergers (§ 574 Absatz 1) kann das für die Hauptsache zuständige Gericht unter Berücksichtigung der Umstände des Falles nach billigem Ermessen durch einstweilige Verfügung regeln, dass der Schuldner des Anspruchs auf Bergelohn oder Sondervergütung dem Berger einen als billig und gerecht zu erachtenden Betrag als Abschlagszahlung zu leisten hat und zu welchen Bedingungen die Leistung zu erbringen ist. Die einstweilige Verfügung kann erlassen werden, auch wenn die in den §§ 935 und 940 der Zivilprozessordnung bezeichneten Voraussetzungen nicht zutreffen.
+
+### § 619 Zustellungen an den Kapitän oder Schiffer
+
+Eine Klage eines Schiffsgläubigers auf Duldung der Zwangsvollstreckung in ein Schiff sowie ein Urteil oder ein Beschluss in einem Verfahren über einen Arrest in ein Schiff können dem Kapitän dieses Schiffes oder, soweit ein Binnenschiff betroffen ist, dem Schiffer zugestellt werden.
+
+Neunter Abschnitt (weggefallen)
 -------------------------------
 
 ### 
 
--
-
-(+++ Zehnter Abschn. (§§ 778 bis 900): Zur Weiteranwendung bis zum 31.12.2008 vgl. HGBEG Art 63 +++)
-
-### (XXXX) §§ 778 bis 900
-
-(+++ Zehnter Abschn. (§§ 778 bis 900): Zur Weiteranwendung bis zum 31.12.2008 vgl. HGBEG Art 63 +++)
-
-Elfter Abschnitt Verjährung
----------------------------
+Elfter Abschnitt (weggefallen)
+------------------------------
 
 ### 
 
-### § 901
+### Anlage (weggefallen)
 
-Folgende Forderungen verjähren in einem Jahr:
 
-1.  
-öffentliche Schiffs-, Schiffahrts- und Hafenabgaben;
-
-2.  
-Lotsgelder;
-
-3.  
-Beiträge zur großen Haverei;
-
-4.  
-Rückgriffsforderungen, die den Reedern untereinander nach § 736 Abs. 2 zustehen.
-
-### § 902
-
-Folgende Forderungen verjähren in zwei Jahren:
-
-1.  
-(weggefallen)
-
-2.  
-Schadensersatzforderungen aus dem Zusammenstoß von Schiffen oder aus einem unter § 738c fallenden Ereignis;
-
-3.  
-Forderungen auf Bergelohn oder Sondervergütung einschließlich Bergungskosten;
-
-4.  
-Forderungen wegen der Beseitigung eines Wracks.
-
-### § 903
-
-(1) Die Verjährung beginnt mit dem Schluß des Jahres, in welchem die Forderung fällig geworden ist.
-
-(2) Die Verjährung der Schadensersatzforderungen aus dem Zusammenstoß von Schiffen oder aus einem unter § 738c fallenden Ereignis (§ 902 Nr. 2) beginnt mit dem Ablauf des Tages, an welchem das Ereignis stattgefunden hat.
-
-(3) Die Verjährung der in § 902 Nr. 3 und 4 genannten Forderungen beginnt mit dem Ablauf des Tages, an welchem die Bergungs- oder Wrackbeseitigungsmaßnahmen beendet worden sind. Die Verjährung von Rückgriffsansprüchen des Schuldners dieser Forderungen beginnt jedoch erst mit dem Tag des Eintritts der Rechtskraft des Urteils gegen ihn oder, wenn kein rechtskräftiges Urteil vorliegt, mit dem Tag, an dem er den Anspruch befriedigt hat, es sei denn, der Rückgriffsschuldner wurde nicht innerhalb von drei Monaten, nachdem der Rückgriffsgläubiger Kenntnis von dem Schaden und der Person des Rückgriffsschuldners erlangt hat, über diesen Schaden unterrichtet.
-
-### § 904
-
--
-
-### § 905 (weggefallen)
-
--
-
-(+++ § 905: Zur Weiteranwendung bis zum 31.12.2008 vgl. HGBEG Art 63 +++)
-
-### Anlage Bestimmungen über die Beförderung von Reisenden und ihrem Gepäck auf See (Anlage zu § 664 des Handelsgesetzbuchs)
-
-(Text siehe: HGBAnl)
