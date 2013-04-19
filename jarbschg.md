@@ -130,7 +130,7 @@ Erster Abschnitt Allgemeine Vorschriften
 
 ### § 1 Geltungsbereich
 
-(1) Dieses Gesetz gilt für die Beschäftigung von Personen, die noch nicht 18 Jahre alt sind,
+(1) Dieses Gesetz gilt in der Bundesrepublik Deutschland und in der ausschließlichen Wirtschaftszone für die Beschäftigung von Personen, die noch nicht 18 Jahre alt sind,
 
 1.  
 in der Berufsausbildung,
@@ -779,7 +779,7 @@ ihm bei einer Erkrankung, jedoch nicht über die Beendigung der Beschäftigung h
 
 (1) Wer Jugendliche beschäftigt oder im Rahmen eines Rechtsverhältnisses im Sinne des § 1 beaufsichtigt, anweist oder ausbildet, darf sie nicht körperlich züchtigen.
 
-(2) Wer Jugendliche beschäftigt, muß sie vor körperlicher Züchtigung und Mißhandlung und vor sittlicher Gefährdung durch andere bei ihm Beschäftigte und durch Mitglieder seines Haushalts an der Arbeitsstätte und in seinem Haus schützen. Er darf Jugendlichen unter 16 Jahren keine alkoholischen Getränke und Tabakwaren, Jugendlichen über 16 Jahre keinen Branntwein geben.
+(2) Wer Jugendliche beschäftigt, muß sie vor körperlicher Züchtigung und Mißhandlung und vor sittlicher Gefährdung durch andere bei ihm Beschäftigte und durch Mitglieder seines Haushalts an der Arbeitsstätte und in seinem Haus schützen. Er darf Jugendlichen keine Tabakwaren, Jugendlichen unter 16 Jahren keine alkoholischen Getränke und Jugendlichen über 16 Jahre keinen Branntwein geben.
 
 Vierter Titel Gesundheitliche Betreuung
 ---------------------------------------
@@ -1240,9 +1240,7 @@ Sechster Abschnitt Schlußvorschriften
 
 ### § 61 Beschäftigung von Jugendlichen auf Kauffahrteischiffen
 
-(1) Für die Beschäftigung von Jugendlichen auf Kauffahrteischiffen als Besatzungsmitglieder im Sinne des § 3 des Seemannsgesetzes gilt an Stelle dieses Gesetzes das Seemannsgesetz mit den nachfolgenden Änderungen.
-
-(2)
+Für die Beschäftigung von Jugendlichen als Besatzungsmitglieder auf Kauffahrteischiffen im Sinne des § 3 des Seearbeitsgesetzes gilt anstelle dieses Gesetzes das Seearbeitsgesetz.
 
 ### § 62 Beschäftigung im Vollzug einer Freiheitsentziehung
 
