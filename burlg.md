@@ -8,6 +8,7 @@ Zuletzt geändert durch Art. 3 Abs. 3 G v. 20.4.2013 I 868
 
 ```
 (+++ Textnachweis Geltung ab: 1.11.1974 +++)
+(+++ Zur Anwendung vgl. § 421a SGB 3 +++)
 (+++ Maßgaben aufgrund EinigVtr nicht mehr anzuwenden gem. Art. 20 
      G v. 6.6.1994 I 1170 mWv 1.1.1995 und Art. 109 Nr. 3 Buchst. a
      DBuchst. cc G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)
