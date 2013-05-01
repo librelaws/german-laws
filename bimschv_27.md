@@ -2,7 +2,7 @@ Siebenundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgese
 =================================================================================================================================================================================================================================
 
 Stand  
-Geändert durch Art. 11 G v. 3.5.2000 I 632
+Zuletzt geändert durch Art. 10 V v. 2.5.2013 I 973
 
 ### 
 
@@ -117,7 +117,7 @@ fortlaufend messen und registrieren. Die Anlagen dürfen nur mit hierzu geeignet
 
 ### § 9 Einzelmessungen
 
-Der Betreiber einer nach Inkrafttreten dieser Verordnung errichteten Anlage hat die Einhaltung der Anforderungen für Gesamtstaub, Gesamtkohlenstoff und Dioxine und Furane nach § 4 frühestens drei Monate und spätestens sechs Monate nach der Inbetriebnahme von einer nach § 26 Abs. 1 des Bundes-Immissionsschutzgesetzes bekanntgegebenen Stelle nach Maßgabe von Anhang 1 und Anhang 2 prüfen zu lassen. Der Betreiber hat die Prüfung nach Satz 1 im Abstand von drei Jahren wiederholen zu lassen.
+Der Betreiber einer nach Inkrafttreten dieser Verordnung errichteten Anlage hat die Einhaltung der Anforderungen für Gesamtstaub, Gesamtkohlenstoff und Dioxine und Furane nach § 4 frühestens drei Monate und spätestens sechs Monate nach der Inbetriebnahme von einer nach § 29b Absatz 2 in Verbindung mit § 26 des Bundes-Immissionsschutzgesetzes bekanntgegebenen Stelle nach Maßgabe von Anhang 1 und Anhang 2 prüfen zu lassen. Der Betreiber hat die Prüfung nach Satz 1 im Abstand von drei Jahren wiederholen zu lassen.
 
 ### § 10 Beurteilung und Berichte von Einzelmessungen
 
