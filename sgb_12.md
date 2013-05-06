@@ -4,6 +4,9 @@ Sozialgesetzbuch (SGB) Zwölftes Buch (XII) - Sozialhilfe - (Artikel 1 des Geset
 Stand  
 Zuletzt geändert durch Art. 2 G v. 7.5.2013 I 1167
 
+Hinweis  
+Änderung durch Art. 2 G v. 29.8.2013 I 3464 (Nr. 53) noch nicht berücksichtigt
+
 ### 
 
 ```
@@ -77,6 +80,7 @@ Das G wurde als Artikel 1 d. G v. 27.12.2003 I 3022 vom Bundestag mit Zustimmung
 |                                                           |
 | § 34                                                      |
 | § 34a                                                     |
+| § 34b                                                     |
 |                                                           |
 |                                                           |
 |                                                           |
@@ -767,7 +771,7 @@ Für Kinder, die eine Kindertageseinrichtung besuchen, gilt Satz 1 entsprechend.
 
 (3) Bedarfe für die Ausstattung mit persönlichem Schulbedarf werden bei Schülerinnen und Schülern für den Monat, in dem der erste Schultag liegt, in Höhe von 70 Euro und für den Monat, in dem das zweite Schulhalbjahr beginnt, in Höhe von 30 Euro anerkannt.
 
-(4) Für Schülerinnen und Schüler, die für den Besuch der nächstgelegenen Schule des gewählten Bildungsgangs auf Schülerbeförderung angewiesen sind, werden die dafür erforderlichen tatsächlichen Aufwendungen berücksichtigt, soweit sie nicht von Dritten übernommen werden und es der leistungsberechtigten Person nicht zugemutet werden kann, sie aus dem Regelbedarf zu bestreiten.
+(4) Für Schülerinnen und Schüler, die für den Besuch der nächstgelegenen Schule des gewählten Bildungsgangs auf Schülerbeförderung angewiesen sind, werden die dafür erforderlichen tatsächlichen Aufwendungen berücksichtigt, soweit sie nicht von Dritten übernommen werden und es der leistungsberechtigten Person nicht zugemutet werden kann, sie aus dem Regelbedarf zu bestreiten. Als zumutbare Eigenleistung gilt in der Regel ein Betrag in Höhe von 5 Euro monatlich.
 
 (5) Für Schülerinnen und Schüler wird eine schulische Angebote ergänzende angemessene Lernförderung berücksichtigt, soweit diese geeignet und zusätzlich erforderlich ist, um die nach den schulrechtlichen Bestimmungen festgelegten wesentlichen Lernziele zu erreichen.
 
@@ -792,17 +796,31 @@ Unterricht in künstlerischen Fächern (zum Beispiel Musikunterricht) und vergle
 3.  
 die Teilnahme an Freizeiten.
 
+Neben der Berücksichtigung von Bedarfen nach Satz 1 können auch weitere tatsächliche Aufwendungen berücksichtigt werden, wenn sie im Zusammenhang mit der Teilnahme an Aktivitäten nach Satz 1 Nummer 1 bis 3 entstehen und es den Leistungsberechtigten im begründeten Ausnahmefall nicht zugemutet werden kann, diese aus dem Regelbedarf zu bestreiten.
+
 ### § 34a Erbringung der Leistungen für Bildung und Teilhabe
 
 (1) Leistungen zur Deckung der Bedarfe nach § 34 Absatz 2 und 4 bis 7 werden auf Antrag erbracht. Einer nachfragenden Person werden, auch wenn keine Regelsätze zu gewähren sind, für Bedarfe nach § 34 Leistungen erbracht, wenn sie diese nicht aus eigenen Kräften und Mitteln vollständig decken kann. Die Leistungen zur Deckung der Bedarfe nach § 34 Absatz 7 bleiben bei der Erbringung von Leistungen nach dem Sechsten Kapitel unberücksichtigt.
 
-(2) Leistungen zur Deckung der Bedarfe nach § 34 Absatz 2 und 5 bis 7 werden erbracht durch Sach- und Dienstleistungen, insbesondere in Form von personalisierten Gutscheinen oder Direktzahlungen an Anbieter von Leistungen zur Deckung dieser Bedarfe (Anbieter); die zuständigen Träger der Sozialhilfe bestimmen, in welcher Form sie die Leistungen erbringen. Die Bedarfe nach § 34 Absatz 3 und 4 werden jeweils durch Geldleistungen gedeckt.
+(2) Leistungen zur Deckung der Bedarfe nach § 34 Absatz 2 und 5 bis 7 werden erbracht durch Sach- und Dienstleistungen, insbesondere in Form von personalisierten Gutscheinen oder Direktzahlungen an Anbieter von Leistungen zur Deckung dieser Bedarfe (Anbieter); die zuständigen Träger der Sozialhilfe bestimmen, in welcher Form sie die Leistungen erbringen. Sie können auch bestimmen, dass die Leistungen nach § 34 Absatz 2 durch Geldleistungen gedeckt werden. Die Bedarfe nach § 34 Absatz 3 und 4 werden jeweils durch Geldleistungen gedeckt. Die zuständigen Träger der Sozialhilfe können mit Anbietern pauschal abrechnen.
 
 (3) Werden die Bedarfe durch Gutscheine gedeckt, gelten die Leistungen mit Ausgabe des jeweiligen Gutscheins als erbracht. Die zuständigen Träger der Sozialhilfe gewährleisten, dass Gutscheine bei geeigneten vorhandenen Anbietern oder zur Wahrnehmung ihrer eigenen Angebote eingelöst werden können. Gutscheine können für den gesamten Bewilligungszeitraum im Voraus ausgegeben werden. Die Gültigkeit von Gutscheinen ist angemessen zu befristen. Im Fall des Verlustes soll ein Gutschein erneut in dem Umfang ausgestellt werden, in dem er noch nicht in Anspruch genommen wurde.
 
 (4) Werden die Bedarfe durch Direktzahlungen an Anbieter gedeckt, gelten die Leistungen mit der Zahlung als erbracht. Eine Direktzahlung ist für den gesamten Bewilligungszeitraum im Voraus möglich.
 
 (5) Im begründeten Einzelfall kann der zuständige Träger der Sozialhilfe einen Nachweis über eine zweckentsprechende Verwendung der Leistung verlangen. Soweit der Nachweis nicht geführt wird, soll die Bewilligungsentscheidung widerrufen werden.
+
+### § 34b Berechtigte Selbsthilfe
+
+Geht die leistungsberechtigte Person durch Zahlung an Anbieter in Vorleistung, ist der Träger der Sozialhilfe zur Übernahme der berücksichtigungsfähigen Aufwendungen verpflichtet, soweit
+
+1.  
+unbeschadet des Satzes 2 die Voraussetzungen einer Leistungsgewährung zur Deckung der Bedarfe im Zeitpunkt der Selbsthilfe nach § 34 Absatz 2 und 5 bis 7 vorlagen und
+
+2.  
+zum Zeitpunkt der Selbsthilfe der Zweck der Leistung durch Erbringung als Sach- oder Dienstleistung ohne eigenes Verschulden nicht oder nicht rechtzeitig zu erreichen war.
+
+War es dem Leistungsberechtigten nicht möglich, rechtzeitig einen Antrag zu stellen, gilt dieser als zum Zeitpunkt der Selbstvornahme gestellt.
 
 Vierter Abschnitt Unterkunft und Heizung
 ----------------------------------------
