@@ -5,10 +5,13 @@ Neuf
 Neugefasst durch Bek. v. 17.5.2013 I 1274
 
 Stand  
-Zuletzt geändert durch Art. 76 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 1 G v. 30.11.2016 I 2749
 
 Hinweis  
-Änderung durch Art. 3 G v. 26.7.2016 I 1839 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 55 G v. 29.3.2017 I 626 (Nr. 16) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 3 G v. 29.5.2017 I 1298 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -57,6 +60,7 @@ Genehmigungsbedürftige Anlagen
 | § 14a | Vereinfachte Klageerhebung                                              |
 | § 15  | Änderung genehmigungsbedürftiger Anlagen                                |
 | § 16  | Wesentliche Änderung genehmigungsbedürftiger Anlagen                    |
+| § 16a | Störfallrelevante Änderung genehmigungsbedürftiger Anlagen              |
 | § 17  | Nachträgliche Anordnungen                                               |
 | § 18  | Erlöschen der Genehmigung                                               |
 | § 19  | Vereinfachtes Verfahren                                                 |
@@ -67,12 +71,16 @@ Zweiter Abschnitt
 
 Nicht genehmigungsbedürftige Anlagen
 
-|      |                                                                                                           |
-|------|-----------------------------------------------------------------------------------------------------------|
-| § 22 | Pflichten der Betreiber nicht genehmigungsbedürftiger Anlagen                                             |
-| § 23 | Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb nicht genehmigungsbedürftiger Anlagen |
-| § 24 | Anordnungen im Einzelfall                                                                                 |
-| § 25 | Untersagung                                                                                               |
+|       |                                                                                                                                     |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| § 22  | Pflichten der Betreiber nicht genehmigungsbedürftiger Anlagen                                                                       |
+| § 23  | Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb nicht genehmigungsbedürftiger Anlagen                           |
+| § 23a | Anzeigeverfahren für nicht genehmigungsbedürftige Anlagen, die Betriebsbereich oder Bestandteil eines Betriebsbereichs sind         |
+| § 23b | Störfallrechtliches Genehmigungsverfahren                                                                                           |
+| § 23c | Betriebsplanzulassung nach dem Bundesberggesetz                                                                                     |
+| § 24  | Anordnungen im Einzelfall                                                                                                           |
+| § 25  | Untersagung                                                                                                                         |
+| § 25a | Stilllegung und Beseitigung nicht genehmigungsbedürftiger Anlagen, die Betriebsbereich oder Bestandteil eines Betriebsbereichs sind |
 
 Dritter Abschnitt
 
@@ -309,7 +317,7 @@ bis 72</td>
 </tr>
 <tr class="odd">
 <td>§ 73</td>
-<td>(weggefallen)</td>
+<td>Bestimmungen zum Verwaltungsverfahren</td>
 </tr>
 </tbody>
 </table>
@@ -383,7 +391,13 @@ Maschinen, Geräte und sonstige ortsveränderliche technische Einrichtungen sowi
 3.  
 Grundstücke, auf denen Stoffe gelagert oder abgelagert oder Arbeiten durchgeführt werden, die Emissionen verursachen können, ausgenommen öffentliche Verkehrswege.
 
-(5a) Ein Betriebsbereich ist der gesamte unter der Aufsicht eines Betreibers stehende Bereich, in dem gefährliche Stoffe im Sinne des Artikels 3 Nummer 4 der Richtlinie 96/82/EG des Rates vom 9. Dezember 1996 zur Beherrschung der Gefahren bei schweren Unfällen mit gefährlichen Stoffen (ABl. EG 1997 Nr. L 10 S. 13), geändert durch die Richtlinie 2003/105/EG des Europäischen Parlaments und des Rates vom 16. Dezember 2003 (ABl. EU Nr. L 345 S. 97), in einer oder mehreren Anlagen einschließlich gemeinsamer oder verbundener Infrastrukturen und Tätigkeiten einschließlich Lagerung im Sinne des Artikels 3 Nummer 8 der Richtlinie in den in Artikel 2 der Richtlinie bezeichneten Mengen tatsächlich vorhanden oder vorgesehen sind oder vorhanden sein werden, soweit davon auszugehen ist, dass die genannten gefährlichen Stoffe bei einem außer Kontrolle geratenen industriellen chemischen Verfahren anfallen; ausgenommen sind die in Artikel 4 der Richtlinie 96/82/EG angeführten Einrichtungen, Gefahren und Tätigkeiten.
+(5a) Ein Betriebsbereich ist der gesamte unter der Aufsicht eines Betreibers stehende Bereich, in dem gefährliche Stoffe im Sinne des Artikels 3 Nummer 10 der Richtlinie 2012/18/EU des Europäischen Parlaments und des Rates vom 4. Juli 2012 zur Beherrschung der Gefahren schwerer Unfälle mit gefährlichen Stoffen, zur Änderung und anschließenden Aufhebung der Richtlinie 96/82/EG des Rates (ABl. L 197 vom 24.7.2012, S. 1) in einer oder mehreren Anlagen einschließlich gemeinsamer oder verbundener Infrastrukturen oder Tätigkeiten auch bei Lagerung im Sinne des Artikels 3 Nummer 16 der Richtlinie in den in Artikel 3 Nummer 2 oder Nummer 3 der Richtlinie bezeichneten Mengen tatsächlich vorhanden oder vorgesehen sind oder vorhanden sein werden, soweit vernünftigerweise vorhersehbar ist, dass die genannten gefährlichen Stoffe bei außer Kontrolle geratenen Prozessen anfallen; ausgenommen sind die in Artikel 2 Absatz 2 der Richtlinie 2012/18/EU angeführten Einrichtungen, Gefahren und Tätigkeiten, es sei denn, es handelt sich um eine in Artikel 2 Absatz 2 Unterabsatz 2 der Richtlinie 2012/18/EU genannte Einrichtung, Gefahr oder Tätigkeit.
+
+(5b) Eine störfallrelevante Errichtung und ein Betrieb oder eine störfallrelevante Änderung einer Anlage oder eines Betriebsbereichs ist eine Errichtung und ein Betrieb einer Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, oder eine Änderung einer Anlage oder eines Betriebsbereichs einschließlich der Änderung eines Lagers, eines Verfahrens oder der Art oder physikalischen Form oder der Mengen der gefährlichen Stoffe im Sinne des Artikels 3 Nummer 10 der Richtlinie 2012/18/EU, aus der sich erhebliche Auswirkungen auf die Gefahren schwerer Unfälle ergeben können. Eine störfallrelevante Änderung einer Anlage oder eines Betriebsbereichs liegt zudem vor, wenn eine Änderung dazu führen könnte, dass ein Betriebsbereich der unteren Klasse zu einem Betriebsbereich der oberen Klasse wird oder umgekehrt.
+
+(5c) Der angemessene Sicherheitsabstand im Sinne dieses Gesetzes ist der Abstand zwischen einem Betriebsbereich oder einer Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, und einem benachbarten Schutzobjekt, der zur gebotenen Begrenzung der Auswirkungen auf das benachbarte Schutzobjekt, welche durch schwere Unfälle im Sinne des Artikels 3 Nummer 13 der Richtlinie 2012/18/EU hervorgerufen werden können, beiträgt. Der angemessene Sicherheitsabstand ist anhand störfallspezifischer Faktoren zu ermitteln.
+
+(5d) Benachbarte Schutzobjekte im Sinne dieses Gesetzes sind ausschließlich oder überwiegend dem Wohnen dienende Gebiete, öffentlich genutzte Gebäude und Gebiete, Freizeitgebiete, wichtige Verkehrswege und unter dem Gesichtspunkt des Naturschutzes besonders wertvolle oder besonders empfindliche Gebiete.
 
 (6) Stand der Technik im Sinne dieses Gesetzes ist der Entwicklungsstand fortschrittlicher Verfahren, Einrichtungen oder Betriebsweisen, der die praktische Eignung einer Maßnahme zur Begrenzung von Emissionen in Luft, Wasser und Boden, zur Gewährleistung der Anlagensicherheit, zur Gewährleistung einer umweltverträglichen Abfallentsorgung oder sonst zur Vermeidung oder Verminderung von Auswirkungen auf die Umwelt zur Erreichung eines allgemein hohen Schutzniveaus für die Umwelt insgesamt gesichert erscheinen lässt. Bei der Bestimmung des Standes der Technik sind insbesondere die in der Anlage aufgeführten Kriterien zu berücksichtigen.
 
@@ -617,13 +631,15 @@ der Antragsteller sich verpflichtet, alle bis zur Entscheidung durch die Erricht
 
 ### § 10 Genehmigungsverfahren
 
-(1) Das Genehmigungsverfahren setzt einen schriftlichen Antrag voraus. Dem Antrag sind die zur Prüfung nach § 6 erforderlichen Zeichnungen, Erläuterungen und sonstigen Unterlagen beizufügen. Reichen die Unterlagen für die Prüfung nicht aus, so hat sie der Antragsteller auf Verlangen der zuständigen Behörde innerhalb einer angemessenen Frist zu ergänzen. Erfolgt die Antragstellung in elektronischer Form, kann die zuständige Behörde Mehrfertigungen sowie die Übermittlung der dem Antrag beizufügenden Unterlagen auch in schriftlicher Form verlangen.
+(1) Das Genehmigungsverfahren setzt einen schriftlichen oder elektronischen Antrag voraus. Dem Antrag sind die zur Prüfung nach § 6 erforderlichen Zeichnungen, Erläuterungen und sonstigen Unterlagen beizufügen. Reichen die Unterlagen für die Prüfung nicht aus, so hat sie der Antragsteller auf Verlangen der zuständigen Behörde innerhalb einer angemessenen Frist zu ergänzen. Erfolgt die Antragstellung elektronisch, kann die zuständige Behörde Mehrfertigungen sowie die Übermittlung der dem Antrag beizufügenden Unterlagen auch in schriftlicher Form verlangen.
 
 (1a) Der Antragsteller, der beabsichtigt, eine Anlage nach der Industrieemissions-Richtlinie zu betreiben, in der relevante gefährliche Stoffe verwendet, erzeugt oder freigesetzt werden, hat mit den Unterlagen nach Absatz 1 einen Bericht über den Ausgangszustand vorzulegen, wenn und soweit eine Verschmutzung des Bodens oder des Grundwassers auf dem Anlagengrundstück durch die relevanten gefährlichen Stoffe möglich ist. Die Möglichkeit einer Verschmutzung des Bodens oder des Grundwassers besteht nicht, wenn auf Grund der tatsächlichen Umstände ein Eintrag ausgeschlossen werden kann.
 
 (2) Soweit Unterlagen Geschäfts- oder Betriebsgeheimnisse enthalten, sind die Unterlagen zu kennzeichnen und getrennt vorzulegen. Ihr Inhalt muss, soweit es ohne Preisgabe des Geheimnisses geschehen kann, so ausführlich dargestellt sein, dass es Dritten möglich ist, zu beurteilen, ob und in welchem Umfang sie von den Auswirkungen der Anlage betroffen werden können.
 
-(3) Sind die Unterlagen des Antragstellers vollständig, so hat die zuständige Behörde das Vorhaben in ihrem amtlichen Veröffentlichungsblatt und außerdem entweder im Internet oder in örtlichen Tageszeitungen, die im Bereich des Standortes der Anlage verbreitet sind, öffentlich bekannt zu machen. Der Antrag und die vom Antragsteller vorgelegten Unterlagen, mit Ausnahme der Unterlagen nach Absatz 2 Satz 1, sowie die entscheidungserheblichen Berichte und Empfehlungen, die der Behörde im Zeitpunkt der Bekanntmachung vorliegen, sind nach der Bekanntmachung einen Monat zur Einsicht auszulegen. Weitere Informationen, die für die Entscheidung über die Zulässigkeit des Vorhabens von Bedeutung sein können und die der zuständigen Behörde erst nach Beginn der Auslegung vorliegen, sind der Öffentlichkeit nach den Bestimmungen über den Zugang zu Umweltinformationen zugänglich zu machen. Bis zwei Wochen nach Ablauf der Auslegungsfrist kann die Öffentlichkeit gegenüber der zuständigen Behörde schriftlich Einwendungen erheben. Mit Ablauf der Einwendungsfrist sind alle Einwendungen ausgeschlossen, die nicht auf besonderen privatrechtlichen Titeln beruhen. Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen, sind auf den Rechtsweg vor den ordentlichen Gerichten zu verweisen.
+(3) Sind die Unterlagen des Antragstellers vollständig, so hat die zuständige Behörde das Vorhaben in ihrem amtlichen Veröffentlichungsblatt und außerdem entweder im Internet oder in örtlichen Tageszeitungen, die im Bereich des Standortes der Anlage verbreitet sind, öffentlich bekannt zu machen. Der Antrag und die vom Antragsteller vorgelegten Unterlagen, mit Ausnahme der Unterlagen nach Absatz 2 Satz 1, sowie die entscheidungserheblichen Berichte und Empfehlungen, die der Behörde im Zeitpunkt der Bekanntmachung vorliegen, sind nach der Bekanntmachung einen Monat zur Einsicht auszulegen. Weitere Informationen, die für die Entscheidung über die Zulässigkeit des Vorhabens von Bedeutung sein können und die der zuständigen Behörde erst nach Beginn der Auslegung vorliegen, sind der Öffentlichkeit nach den Bestimmungen über den Zugang zu Umweltinformationen zugänglich zu machen. Bis zwei Wochen nach Ablauf der Auslegungsfrist kann die Öffentlichkeit gegenüber der zuständigen Behörde schriftlich oder elektronisch Einwendungen erheben; bei Anlagen nach der Industrieemissions-Richtlinie gilt eine Frist von einem Monat. Mit Ablauf der Einwendungsfrist sind für das Genehmigungsverfahren alle Einwendungen ausgeschlossen, die nicht auf besonderen privatrechtlichen Titeln beruhen. Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen, sind auf den Rechtsweg vor den ordentlichen Gerichten zu verweisen.
+
+(3a) Nach dem Umwelt-Rechtsbehelfsgesetz anerkannte Vereinigungen sollen die zuständige Behörde in einer dem Umweltschutz dienenden Weise unterstützen.
 
 (4) In der Bekanntmachung nach Absatz 3 Satz 1 ist
 
@@ -647,7 +663,7 @@ darauf hinzuweisen, dass die Zustellung der Entscheidung über die Einwendungen 
 
 (7) Der Genehmigungsbescheid ist schriftlich zu erlassen, schriftlich zu begründen und dem Antragsteller und den Personen, die Einwendungen erhoben haben, zuzustellen. Er ist, soweit die Zustellung nicht nach Absatz 8 erfolgt, öffentlich bekannt zu machen. Die öffentliche Bekanntmachung erfolgt nach Maßgabe des Absatzes 8.
 
-(8) Die Zustellung des Genehmigungsbescheids an die Personen, die Einwendungen erhoben haben, kann durch öffentliche Bekanntmachung ersetzt werden. Die öffentliche Bekanntmachung wird dadurch bewirkt, dass der verfügende Teil des Bescheides und die Rechtsbehelfsbelehrung in entsprechender Anwendung des Absatzes 3 Satz 1 bekannt gemacht werden; auf Auflagen ist hinzuweisen. In diesem Fall ist eine Ausfertigung des gesamten Bescheides vom Tage nach der Bekanntmachung an zwei Wochen zur Einsicht auszulegen. In der öffentlichen Bekanntmachung ist anzugeben, wo und wann der Bescheid und seine Begründung eingesehen und nach Satz 6 angefordert werden können. Mit dem Ende der Auslegungsfrist gilt der Bescheid auch gegenüber Dritten, die keine Einwendung erhoben haben, als zugestellt; darauf ist in der Bekanntmachung hinzuweisen. Nach der öffentlichen Bekanntmachung können der Bescheid und seine Begründung bis zum Ablauf der Widerspruchsfrist von den Personen, die Einwendungen erhoben haben, schriftlich angefordert werden.
+(8) Die Zustellung des Genehmigungsbescheids an die Personen, die Einwendungen erhoben haben, kann durch öffentliche Bekanntmachung ersetzt werden. Die öffentliche Bekanntmachung wird dadurch bewirkt, dass der verfügende Teil des Bescheides und die Rechtsbehelfsbelehrung in entsprechender Anwendung des Absatzes 3 Satz 1 bekannt gemacht werden; auf Auflagen ist hinzuweisen. In diesem Fall ist eine Ausfertigung des gesamten Bescheides vom Tage nach der Bekanntmachung an zwei Wochen zur Einsicht auszulegen. In der öffentlichen Bekanntmachung ist anzugeben, wo und wann der Bescheid und seine Begründung eingesehen und nach Satz 6 angefordert werden können. Mit dem Ende der Auslegungsfrist gilt der Bescheid auch gegenüber Dritten, die keine Einwendung erhoben haben, als zugestellt; darauf ist in der Bekanntmachung hinzuweisen. Nach der öffentlichen Bekanntmachung können der Bescheid und seine Begründung bis zum Ablauf der Widerspruchsfrist von den Personen, die Einwendungen erhoben haben, schriftlich oder elektronisch angefordert werden.
 
 (8a) Unbeschadet der Absätze 7 und 8 sind bei Anlagen nach der Industrieemissions-Richtlinie folgende Unterlagen im Internet öffentlich bekannt zu machen:
 
@@ -673,7 +689,7 @@ Ist eine Teilgenehmigung oder ein Vorbescheid erteilt worden, können nach Eintr
 
 (1) Die Genehmigung kann unter Bedingungen erteilt und mit Auflagen verbunden werden, soweit dies erforderlich ist, um die Erfüllung der in § 6 genannten Genehmigungsvoraussetzungen sicherzustellen. Zur Sicherstellung der Anforderungen nach § 5 Absatz 3 soll bei Abfallentsorgungsanlagen im Sinne des § 4 Absatz 1 Satz 1 auch eine Sicherheitsleistung auferlegt werden.
 
-(1a) Für den Fall, dass Emissionswerte einer Verwaltungsvorschrift nach § 48 für bestimmte Emissionen und Anlagenarten nicht mehr dem Stand der Technik entsprechen oder eine Verwaltungsvorschrift nach § 48 für die jeweilige Anlagenart keine Anforderungen vorsieht, ist bei der Festlegung von Emissionsbegrenzungen für Anlagen nach der Industrieemissions-Richtlinie in der Genehmigung sicherzustellen, dass die Emissionen unter normalen Betriebsbedingungen die in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten nicht überschreiten.
+(1a) Für den Fall, dass eine Verwaltungsvorschrift nach § 48 für die jeweilige Anlagenart keine Anforderungen vorsieht, ist bei der Festlegung von Emissionsbegrenzungen für Anlagen nach der Industrieemissions-Richtlinie in der Genehmigung sicherzustellen, dass die Emissionen unter normalen Betriebsbedingungen die in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten nicht überschreiten.
 
 (1b) Abweichend von Absatz 1a kann die zuständige Behörde weniger strenge Emissionsbegrenzungen festlegen, wenn
 
@@ -709,9 +725,11 @@ Der Antragsteller kann eine verwaltungsgerichtliche Klage erheben, wenn über se
 
 ### § 15 Änderung genehmigungsbedürftiger Anlagen
 
-(1) Die Änderung der Lage, der Beschaffenheit oder des Betriebs einer genehmigungsbedürftigen Anlage ist, sofern eine Genehmigung nicht beantragt wird, der zuständigen Behörde mindestens einen Monat, bevor mit der Änderung begonnen werden soll, schriftlich anzuzeigen, wenn sich die Änderung auf in § 1 genannte Schutzgüter auswirken kann. Der Anzeige sind Unterlagen im Sinne des § 10 Absatz 1 Satz 2 beizufügen, soweit diese für die Prüfung erforderlich sein können, ob das Vorhaben genehmigungsbedürftig ist. Die zuständige Behörde hat dem Träger des Vorhabens den Eingang der Anzeige und der beigefügten Unterlagen unverzüglich schriftlich zu bestätigen. Sie teilt dem Träger des Vorhabens nach Eingang der Anzeige unverzüglich mit, welche zusätzlichen Unterlagen sie zur Beurteilung der Voraussetzungen des § 16 Absatz 1 benötigt. Die Sätze 1 bis 4 gelten entsprechend für eine Anlage, die nach § 67 Absatz 2 oder § 67a Absatz 1 anzuzeigen ist oder vor Inkrafttreten dieses Gesetzes nach § 16 Absatz 4 der Gewerbeordnung anzuzeigen war.
+(1) Die Änderung der Lage, der Beschaffenheit oder des Betriebs einer genehmigungsbedürftigen Anlage ist, sofern eine Genehmigung nicht beantragt wird, der zuständigen Behörde mindestens einen Monat, bevor mit der Änderung begonnen werden soll, schriftlich oder elektronisch anzuzeigen, wenn sich die Änderung auf in § 1 genannte Schutzgüter auswirken kann. Der Anzeige sind Unterlagen im Sinne des § 10 Absatz 1 Satz 2 beizufügen, soweit diese für die Prüfung erforderlich sein können, ob das Vorhaben genehmigungsbedürftig ist. Die zuständige Behörde hat dem Träger des Vorhabens den Eingang der Anzeige und der beigefügten Unterlagen unverzüglich schriftlich oder elektronisch zu bestätigen; sie kann bei einer elektronischen Anzeige Mehrausfertigungen sowie die Übermittlung der Unterlagen, die der Anzeige beizufügen sind, auch in schriftlicher Form verlangen. Sie teilt dem Träger des Vorhabens nach Eingang der Anzeige unverzüglich mit, welche zusätzlichen Unterlagen sie zur Beurteilung der Voraussetzungen des § 16 Absatz 1 und des § 16a benötigt. Die Sätze 1 bis 4 gelten entsprechend für eine Anlage, die nach § 67 Absatz 2 oder § 67a Absatz 1 anzuzeigen ist oder vor Inkrafttreten dieses Gesetzes nach § 16 Absatz 4 der Gewerbeordnung anzuzeigen war.
 
 (2) Die zuständige Behörde hat unverzüglich, spätestens innerhalb eines Monats nach Eingang der Anzeige und der nach Absatz 1 Satz 2 erforderlichen Unterlagen, zu prüfen, ob die Änderung einer Genehmigung bedarf. Der Träger des Vorhabens darf die Änderung vornehmen, sobald die zuständige Behörde ihm mitteilt, dass die Änderung keiner Genehmigung bedarf, oder sich innerhalb der in Satz 1 bestimmten Frist nicht geäußert hat. Absatz 1 Satz 3 gilt für nachgereichte Unterlagen entsprechend.
+
+(2a) Bei einer störfallrelevanten Änderung einer genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, hat die zuständige Behörde unverzüglich, spätestens innerhalb von zwei Monaten nach Eingang der Anzeige und der nach Absatz 1 Satz 2 erforderlichen Unterlagen zu prüfen, ob diese Änderung einer Genehmigung bedarf. Soweit es zur Ermittlung des angemessenen Sicherheitsabstands erforderlich ist, kann die zuständige Behörde ein Gutachten zu den Auswirkungen verlangen, die bei schweren Unfällen durch die Anlage hervorgerufen werden können. Der Träger des Vorhabens darf die störfallrelevante Änderung vornehmen, sobald ihm die zuständige Behörde mitteilt, dass sie keiner Genehmigung bedarf.
 
 (3) Beabsichtigt der Betreiber, den Betrieb einer genehmigungsbedürftigen Anlage einzustellen, so hat er dies unter Angabe des Zeitpunktes der Einstellung der zuständigen Behörde unverzüglich anzuzeigen. Der Anzeige sind Unterlagen über die vom Betreiber vorgesehenen Maßnahmen zur Erfüllung der sich aus § 5 Absatz 3 und 4 ergebenden Pflichten beizufügen. Die Sätze 1 und 2 gelten für die in Absatz 1 Satz 5 bezeichneten Anlagen entsprechend.
 
@@ -729,11 +747,17 @@ Der Antragsteller kann eine verwaltungsgerichtliche Klage erheben, wenn über se
 
 (5) Einer Genehmigung bedarf es nicht, wenn eine genehmigte Anlage oder Teile einer genehmigten Anlage im Rahmen der erteilten Genehmigung ersetzt oder ausgetauscht werden sollen.
 
+### § 16a Störfallrelevante Änderung genehmigungsbedürftiger Anlagen
+
+Die störfallrelevante Änderung einer genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, bedarf der Genehmigung, wenn durch die störfallrelevante Änderung der angemessene Sicherheitsabstand zu benachbarten Schutzobjekten erstmalig unterschritten wird, der bereits unterschrittene Sicherheitsabstand räumlich noch weiter unterschritten wird oder eine erhebliche Gefahrenerhöhung ausgelöst wird und sie nicht bereits durch § 16 Absatz 1 Satz 1 erfasst ist. Einer Genehmigung bedarf es nicht, soweit dem Gebot, den angemessenen Sicherheitsabstand zu wahren, bereits auf Ebene einer raumbedeutsamen Planung oder Maßnahme durch verbindliche Vorgaben Rechnung getragen worden ist.
+
 ### § 17 Nachträgliche Anordnungen
 
 (1) Zur Erfüllung der sich aus diesem Gesetz und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen ergebenden Pflichten können nach Erteilung der Genehmigung sowie nach einer nach § 15 Absatz 1 angezeigten Änderung Anordnungen getroffen werden. Wird nach Erteilung der Genehmigung sowie nach einer nach § 15 Absatz 1 angezeigten Änderung festgestellt, dass die Allgemeinheit oder die Nachbarschaft nicht ausreichend vor schädlichen Umwelteinwirkungen oder sonstigen Gefahren, erheblichen Nachteilen oder erheblichen Belästigungen geschützt ist, soll die zuständige Behörde nachträgliche Anordnungen treffen.
 
 (1a) Bei Anlagen nach der Industrieemissions-Richtlinie ist vor dem Erlass einer nachträglichen Anordnung nach Absatz 1 Satz 2, durch welche Emissionsbegrenzungen neu festgelegt werden sollen, der Entwurf der Anordnung öffentlich bekannt zu machen. § 10 Absatz 3 und 4 Nummer 1 und 2 gilt für die Bekanntmachung entsprechend. Einwendungsbefugt sind Personen, deren Belange durch die nachträgliche Anordnung berührt werden, sowie Vereinigungen, welche die Anforderungen von § 3 Absatz 1 oder § 2 Absatz 2 des Umwelt-Rechtsbehelfsgesetzes erfüllen. Für die Entscheidung über den Erlass der nachträglichen Anordnung gilt § 10 Absatz 7 bis 8a entsprechend.
+
+(1b) Absatz 1a gilt für den Erlass einer nachträglichen Anordnung entsprechend, bei der von der Behörde auf Grundlage einer Verordnung nach § 7 Absatz 1b oder einer Verwaltungsvorschrift nach § 48 Absatz 1b weniger strenge Emissionsbegrenzungen festgelegt werden sollen.
 
 (2) Die zuständige Behörde darf eine nachträgliche Anordnung nicht treffen, wenn sie unverhältnismäßig ist, vor allem wenn der mit der Erfüllung der Anordnung verbundene Aufwand außer Verhältnis zu dem mit der Anordnung angestrebten Erfolg steht; dabei sind insbesondere Art, Menge und Gefährlichkeit der von der Anlage ausgehenden Emissionen und der von ihr verursachten Immissionen sowie die Nutzungsdauer und technische Besonderheiten der Anlage zu berücksichtigen. Darf eine nachträgliche Anordnung wegen Unverhältnismäßigkeit nicht getroffen werden, soll die zuständige Behörde die Genehmigung unter den Voraussetzungen des § 21 Absatz 1 Nummer 3 bis 5 ganz oder teilweise widerrufen; § 21 Absatz 3 bis 6 sind anzuwenden.
 
@@ -753,7 +777,7 @@ in Anlagen Zukunftstechniken für einen Gesamtzeitraum von höchstens neun Monat
 
 (3a) Die zuständige Behörde soll von nachträglichen Anordnungen absehen, soweit in einem vom Betreiber vorgelegten Plan technische Maßnahmen an dessen Anlagen oder an Anlagen Dritter vorgesehen sind, die zu einer weitergehenden Verringerung der Emissionsfrachten führen als die Summe der Minderungen, die durch den Erlass nachträglicher Anordnungen zur Erfüllung der sich aus diesem Gesetz oder den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen ergebenden Pflichten bei den beteiligten Anlagen erreichbar wäre und hierdurch der in § 1 genannte Zweck gefördert wird. Dies gilt nicht, soweit der Betreiber bereits zur Emissionsminderung auf Grund einer nachträglichen Anordnung nach Absatz 1 oder einer Auflage nach § 12 Absatz 1 verpflichtet ist oder eine nachträgliche Anordnung nach Absatz 1 Satz 2 getroffen werden soll. Der Ausgleich ist nur zwischen denselben oder in der Wirkung auf die Umwelt vergleichbaren Stoffen zulässig. Die Sätze 1 bis 3 gelten auch für nicht betriebsbereite Anlagen, für die die Genehmigung zur Errichtung und zum Betrieb erteilt ist oder für die in einem Vorbescheid oder einer Teilgenehmigung Anforderungen nach § 5 Absatz 1 Nummer 2 festgelegt sind. Die Durchführung der Maßnahmen des Plans ist durch Anordnung sicherzustellen.
 
-(4) Ist es zur Erfüllung der Anordnung erforderlich, die Lage, die Beschaffenheit oder den Betrieb der Anlage wesentlich zu ändern und ist in der Anordnung nicht abschließend bestimmt, in welcher Weise sie zu erfüllen ist, so bedarf die Änderung der Genehmigung nach § 16.
+(4) Ist es zur Erfüllung der Anordnung erforderlich, die Lage, die Beschaffenheit oder den Betrieb der Anlage wesentlich zu ändern und ist in der Anordnung nicht abschließend bestimmt, in welcher Weise sie zu erfüllen ist, so bedarf die Änderung der Genehmigung nach § 16. Ist zur Erfüllung der Anordnung die störfallrelevante Änderung einer Anlage erforderlich, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, und wird durch diese Änderung der angemessene Sicherheitsabstand erstmalig unterschritten, wird der bereits unterschrittene Sicherheitsabstand räumlich noch weiter unterschritten oder wird eine erhebliche Gefahrenerhöhung ausgelöst, so bedarf die Änderung einer Genehmigung nach § 16 oder § 16a, wenn in der Anordnung nicht abschließend bestimmt ist, in welcher Weise sie zu erfüllen ist.
 
 (4a) Zur Erfüllung der Pflichten nach § 5 Absatz 3 soll bei Abfallentsorgungsanlagen im Sinne des § 4 Absatz 1 Satz 1 auch eine Sicherheitsleistung angeordnet werden. Nach der Einstellung des gesamten Betriebs können Anordnungen zur Erfüllung der sich aus § 5 Absatz 3 ergebenden Pflichten nur noch während eines Zeitraums von einem Jahr getroffen werden.
 
@@ -781,15 +805,17 @@ worden ist.
 
 (1) Durch Rechtsverordnung nach § 4 Absatz 1 Satz 3 kann vorgeschrieben werden, dass die Genehmigung von Anlagen bestimmter Art oder bestimmten Umfangs in einem vereinfachten Verfahren erteilt wird, sofern dies nach Art, Ausmaß und Dauer der von diesen Anlagen hervorgerufenen schädlichen Umwelteinwirkungen und sonstigen Gefahren, erheblichen Nachteilen und erheblichen Belästigungen mit dem Schutz der Allgemeinheit und der Nachbarschaft vereinbar ist. Satz 1 gilt für Abfallentsorgungsanlagen entsprechend.
 
-(2) In dem vereinfachten Verfahren sind § 10 Absatz 2, 3, 4, 6, 7 Satz 2 und 3, Absatz 8 und 9 sowie die §§ 11 und 14 nicht anzuwenden.
+(2) In dem vereinfachten Verfahren sind § 10 Absatz 2, 3, 3a, 4, 6, 7 Satz 2 und 3, Absatz 8 und 9 sowie die §§ 11 und 14 nicht anzuwenden.
 
 (3) Die Genehmigung ist auf Antrag des Trägers des Vorhabens abweichend von den Absätzen 1 und 2 nicht in einem vereinfachten Verfahren zu erteilen.
+
+(4) Die Genehmigung einer Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, kann nicht im vereinfachten Verfahren erteilt werden, wenn durch deren störfallrelevante Errichtung und Betrieb der angemessene Sicherheitsabstand zu benachbarten Schutzobjekten unterschritten wird oder durch deren störfallrelevante Änderung der angemessene Sicherheitsabstand zu benachbarten Schutzobjekten erstmalig unterschritten wird, der bereits unterschrittene Sicherheitsabstand räumlich noch weiter unterschritten wird oder eine erhebliche Gefahrenerhöhung ausgelöst wird. In diesen Fällen ist das Verfahren nach § 10 mit Ausnahme von Absatz 4 Nummer 3 und Absatz 6 anzuwenden. § 10 Absatz 3 Satz 4 ist mit der Maßgabe anzuwenden, dass nur die Personen Einwendungen erheben können, deren Belange berührt sind oder Vereinigungen, welche die Anforderungen des § 3 Absatz 1 oder des § 2 Absatz 2 des Umwelt-Rechtsbehelfsgesetzes erfüllen. Bei störfallrelevanten Änderungen ist § 16 Absatz 3 entsprechend anzuwenden. Die Sätze 1 bis 4 gelten nicht, soweit dem Gebot, den angemessenen Sicherheitsabstand zu wahren, bereits auf Ebene einer raumbedeutsamen Planung oder Maßnahme durch verbindliche Vorgaben Rechnung getragen worden ist.
 
 ### § 20 Untersagung, Stilllegung und Beseitigung
 
 (1) Kommt der Betreiber einer genehmigungsbedürftigen Anlage einer Auflage, einer vollziehbaren nachträglichen Anordnung oder einer abschließend bestimmten Pflicht aus einer Rechtsverordnung nach § 7 nicht nach und betreffen die Auflage, die Anordnung oder die Pflicht die Beschaffenheit oder den Betrieb der Anlage, so kann die zuständige Behörde den Betrieb ganz oder teilweise bis zur Erfüllung der Auflage, der Anordnung oder der Pflichten aus der Rechtsverordnung nach § 7 untersagen. Die zuständige Behörde hat den Betrieb ganz oder teilweise nach Satz 1 zu untersagen, wenn ein Verstoß gegen die Auflage, Anordnung oder Pflicht eine unmittelbare Gefährdung der menschlichen Gesundheit verursacht oder eine unmittelbare erhebliche Gefährdung der Umwelt darstellt.
 
-(1a) Die zuständige Behörde hat die Inbetriebnahme oder Weiterführung einer genehmigungsbedürftigen Anlage, die Betriebsbereich oder Teil eines Betriebsbereichs ist und gewerblichen Zwecken dient oder im Rahmen wirtschaftlicher Unternehmungen Verwendung findet, ganz oder teilweise zu untersagen, solange und soweit die von dem Betreiber getroffenen Maßnahmen zur Verhütung schwerer Unfälle im Sinne des Artikels 3 Nummer 5 der Richtlinie 96/82/EG oder zur Begrenzung der Auswirkungen derartiger Unfälle eindeutig unzureichend sind. Die zuständige Behörde kann die Inbetriebnahme oder Weiterführung einer Anlage im Sinne des Satzes 1 ganz oder teilweise untersagen, wenn der Betreiber die in einer zur Umsetzung der Richtlinie 96/82/EG erlassenen Rechtsverordnung vorgeschriebenen Mitteilungen, Berichte oder sonstigen Informationen nicht fristgerecht übermittelt.
+(1a) Die zuständige Behörde hat die Inbetriebnahme oder Weiterführung einer genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist und gewerblichen Zwecken dient oder im Rahmen wirtschaftlicher Unternehmungen Verwendung findet, ganz oder teilweise zu untersagen, solange und soweit die von dem Betreiber getroffenen Maßnahmen zur Verhütung schwerer Unfälle im Sinne des Artikels 3 Nummer 13 der Richtlinie 2012/18/EU oder zur Begrenzung der Auswirkungen derartiger Unfälle eindeutig unzureichend sind. Bei der Entscheidung über eine Untersagung berücksichtigt die zuständige Behörde auch schwerwiegende Unterlassungen in Bezug auf erforderliche Folgemaßnahmen, die in einem Überwachungsbericht nach § 16 Absatz 2 Nummer 1 der Störfall-Verordnung festgelegt worden sind. Die zuständige Behörde kann die Inbetriebnahme oder Weiterführung einer Anlage im Sinne des Satzes 1 ganz oder teilweise untersagen, wenn der Betreiber die in einer zur Umsetzung der Richtlinie 2012/18/EU erlassenen Rechtsverordnung vorgeschriebenen Mitteilungen, Berichte oder sonstigen Informationen nicht fristgerecht übermittelt.
 
 (2) Die zuständige Behörde soll anordnen, dass eine Anlage, die ohne die erforderliche Genehmigung errichtet, betrieben oder wesentlich geändert wird, stillzulegen oder zu beseitigen ist. Sie hat die Beseitigung anzuordnen, wenn die Allgemeinheit oder die Nachbarschaft nicht auf andere Weise ausreichend geschützt werden kann.
 
@@ -852,7 +878,7 @@ Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 
 
 ### § 23 Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb nicht genehmigungsbedürftiger Anlagen
 
-(1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass die Errichtung, die Beschaffenheit und der Betrieb nicht genehmigungsbedürftiger Anlagen bestimmten Anforderungen zum Schutz der Allgemeinheit und der Nachbarschaft vor schädlichen Umwelteinwirkungen und, soweit diese Anlagen gewerblichen Zwecken dienen oder im Rahmen wirtschaftlicher Unternehmungen Verwendung finden und Betriebsbereiche oder Bestandteile von Betriebsbereichen sind, vor sonstigen Gefahren zur Verhütung schwerer Unfälle im Sinne des Artikels 3 Nummer 5 der Richtlinie 96/82/EG und zur Begrenzung der Auswirkungen derartiger Unfälle für Mensch und Umwelt sowie zur Vorsorge gegen schädliche Umwelteinwirkungen genügen müssen, insbesondere dass
+(1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass die Errichtung, die Beschaffenheit und der Betrieb nicht genehmigungsbedürftiger Anlagen bestimmten Anforderungen zum Schutz der Allgemeinheit und der Nachbarschaft vor schädlichen Umwelteinwirkungen und, soweit diese Anlagen gewerblichen Zwecken dienen oder im Rahmen wirtschaftlicher Unternehmungen Verwendung finden und Betriebsbereiche oder Bestandteile von Betriebsbereichen sind, vor sonstigen Gefahren zur Verhütung schwerer Unfälle im Sinne des Artikels 3 Nummer 13 der Richtlinie 2012/18/EU und zur Begrenzung der Auswirkungen derartiger Unfälle für Mensch und Umwelt sowie zur Vorsorge gegen schädliche Umwelteinwirkungen genügen müssen, insbesondere dass
 
 1.  
 die Anlagen bestimmten technischen Anforderungen entsprechen müssen,
@@ -878,6 +904,39 @@ In der Rechtsverordnung nach Satz 1 können auch die Anforderungen bestimmt werd
 
 (2) Soweit die Bundesregierung von der Ermächtigung keinen Gebrauch macht, sind die Landesregierungen ermächtigt, durch Rechtsverordnung Vorschriften im Sinne des Absatzes 1 zu erlassen. Die Landesregierungen können die Ermächtigung auf eine oder mehrere oberste Landesbehörden übertragen.
 
+### § 23a Anzeigeverfahren für nicht genehmigungsbedürftige Anlagen, die Betriebsbereich oder Bestandteil eines Betriebsbereichs sind
+
+(1) Die störfallrelevante Errichtung und der Betrieb oder die störfallrelevante Änderung einer nicht genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, ist der zuständigen Behörde vor ihrer Durchführung schriftlich oder elektronisch anzuzeigen, sofern eine Genehmigung nach Absatz 3 in Verbindung mit § 23b nicht beantragt wird. Der Anzeige sind alle Unterlagen beizufügen, die für die Feststellung nach Absatz 2 erforderlich sein können; die zuständige Behörde kann bei einer elektronischen Anzeige Mehrausfertigungen sowie die Übermittlung der der Anzeige beizufügenden Unterlagen auch in schriftlicher Form verlangen. Soweit es zur Ermittlung des angemessenen Sicherheitsabstands erforderlich ist, kann die zuständige Behörde ein Gutachten zu den Auswirkungen verlangen, die bei schweren Unfällen durch die Anlage hervorgerufen werden können. Die zuständige Behörde hat dem Träger des Vorhabens den Eingang der Anzeige und der beigefügten Unterlagen unverzüglich schriftlich oder elektronisch zu bestätigen. Sie teilt dem Träger des Vorhabens nach Eingang der Anzeige unverzüglich mit, welche zusätzlichen Unterlagen sie für die Feststellung nach Absatz 2 benötigt.
+
+(2) Die zuständige Behörde hat festzustellen, ob durch die störfallrelevante Errichtung und den Betrieb oder die störfallrelevante Änderung der Anlage der angemessene Sicherheitsabstand zu benachbarten Schutzobjekten erstmalig unterschritten wird, räumlich noch weiter unterschritten wird oder eine erhebliche Gefahrenerhöhung ausgelöst wird. Diese Feststellung ist dem Träger des Vorhabens spätestens zwei Monate nach Eingang der Anzeige und der erforderlichen Unterlagen bekannt zu geben und der Öffentlichkeit nach den Bestimmungen des Bundes und der Länder über den Zugang zu Umweltinformationen zugänglich zu machen. Wird kein Genehmigungsverfahren nach § 23b durchgeführt, macht die zuständige Behörde dies in ihrem amtlichen Veröffentlichungsblatt und entweder im Internet oder in örtlichen Tageszeitungen, die im Bereich des Standortes des Betriebsbereichs verbreitet sind, öffentlich bekannt. Der Träger des Vorhabens darf die Errichtung und den Betrieb oder die Änderung vornehmen, sobald die zuständige Behörde ihm mitteilt, dass sein Vorhaben keiner Genehmigung bedarf.
+
+(3) Auf Antrag des Trägers des Vorhabens führt die zuständige Behörde das Genehmigungsverfahren nach § 23b auch ohne die Feststellung nach Absatz 2 Satz 1 durch.
+
+### § 23b Störfallrechtliches Genehmigungsverfahren
+
+(1) Ergibt die Feststellung nach § 23a Absatz 2 Satz 1, dass der angemessene Sicherheitsabstand erstmalig unterschritten wird, räumlich noch weiter unterschritten wird oder eine erhebliche Gefahrenerhöhung ausgelöst wird, bedarf die störfallrelevante Errichtung und der Betrieb oder die störfallrelevante Änderung einer nicht genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, einer störfallrechtlichen Genehmigung. Dies gilt nicht, soweit dem Gebot, den angemessenen Sicherheitsabstand zu wahren, bereits auf Ebene einer raumbedeutsamen Planung oder Maßnahme durch verbindliche Vorgaben Rechnung getragen worden ist. Die Genehmigung setzt einen schriftlichen oder elektronischen Antrag voraus. § 10 Absatz 1 Satz 4 und Absatz 2 gilt entsprechend. Die Genehmigung ist zu erteilen, wenn sichergestellt ist, dass die Anforderungen des § 22 und der auf Grundlage des § 23 erlassenen Rechtsverordnungen eingehalten werden und andere öffentlich-rechtliche Vorschriften und Belange des Arbeitsschutzes nicht entgegenstehen. Die Genehmigung kann unter Bedingungen erteilt und mit Auflagen verbunden werden, soweit dies erforderlich ist, um die Erfüllung der Genehmigungsvoraussetzungen sicherzustellen. Die Genehmigung schließt andere die Anlage betreffende behördliche Entscheidungen ein mit Ausnahme von Planfeststellungen, Zulassungen bergrechtlicher Betriebspläne, behördlichen Entscheidungen auf Grund atomrechtlicher Vorschriften und wasserrechtlichen Erlaubnissen und Bewilligungen nach § 8 in Verbindung mit § 10 des Wasserhaushaltsgesetzes. Die §§ 8, 8a, 9 und 18 gelten entsprechend.
+
+(2) Im Genehmigungsverfahren ist die Öffentlichkeit zu beteiligen. Dazu macht die zuständige Behörde das Vorhaben öffentlich bekannt und legt den Antrag, die vom Antragsteller vorgelegten Unterlagen mit Ausnahme der Unterlagen nach Absatz 1 Satz 4 sowie die entscheidungserheblichen Berichte und Empfehlungen, die der Behörde im Zeitpunkt der Bekanntmachung vorliegen, einen Monat zur Einsicht aus. Personen, deren Belange durch das Vorhaben berührt werden sowie Vereinigungen, welche die Anforderungen von § 3 Absatz 1 oder § 2 Absatz 2 des Umwelt-Rechtsbehelfsgesetzes erfüllen, können innerhalb der in § 10 Absatz 3 Satz 4 erster Halbsatz genannten Frist gegenüber der zuständigen Behörde schriftlich oder elektronisch Einwendungen erheben. § 10 Absatz 3 Satz 5 und Absatz 3a gilt entsprechend. Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen, sind auf den Rechtsweg vor den ordentlichen Gerichten zu verweisen.
+
+(3) Die Genehmigungsbehörde holt die Stellungnahmen der Behörden ein, deren Aufgabenbereich durch das Vorhaben berührt wird. Soweit für das Vorhaben selbst oder für weitere damit unmittelbar in Zusammenhang stehende Vorhaben, die Auswirkungen auf die Umwelt haben können und die für die Genehmigung Bedeutung haben, eine Zulassung nach anderen Gesetzen vorgeschrieben ist, hat die Genehmigungsbehörde eine vollständige Koordinierung der Zulassungsverfahren sowie der Inhalts- und Nebenbestimmungen sicherzustellen.
+
+(4) Über den Antrag auf störfallrelevante Errichtung und Betrieb einer Anlage hat die zuständige Behörde innerhalb einer Frist von sieben Monaten nach Eingang des Antrags und der erforderlichen Unterlagen zu entscheiden. Über den Antrag auf störfallrelevante Änderung einer Anlage ist innerhalb einer Frist von sechs Monaten nach Eingang des Antrags und der erforderlichen Unterlagen zu entscheiden. Die zuständige Behörde kann die jeweilige Frist um drei Monate verlängern, wenn dies wegen der Schwierigkeit der Prüfung oder aus Gründen, die dem Antragsteller zuzurechnen sind, erforderlich ist. Die Fristverlängerung soll gegenüber dem Antragsteller begründet werden. § 10 Absatz 7 Satz 1 gilt entsprechend.
+
+(5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Einzelheiten des Verfahrens nach den Absätzen 1 bis 4 zu regeln, insbesondere
+
+1.  
+Form und Inhalt des Antrags,
+
+2.  
+Verfahren und Inhalt der Bekanntmachung und Auslegung des Vorhabens durch die zuständige Behörde sowie
+
+3.  
+Inhalt und Bekanntmachung des Genehmigungsbescheids.
+
+### § 23c Betriebsplanzulassung nach dem Bundesberggesetz
+
+Die §§ 23a und 23b Absatz 1, 3 und 4 gelten nicht für die störfallrelevante Errichtung und den Betrieb oder die störfallrelevante Änderung einer nicht genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, wenn für die Errichtung und den Betrieb oder die Änderung eine Betriebsplanzulassung nach dem Bundesberggesetz erforderlich ist. § 23b Absatz 2 ist für die in Satz 1 genannten Vorhaben unter den in § 57d des Bundesberggesetzes genannten Bedingungen entsprechend anzuwenden. Die Regelungen, die auf Grundlage des § 23b Absatz 5 durch Rechtsverordnung getroffen werden, gelten für die in Satz 1 genannten Vorhaben, soweit § 57d des Bundesberggesetzes dies anordnet.
+
 ### § 24 Anordnungen im Einzelfall
 
 Die zuständige Behörde kann im Einzelfall die zur Durchführung des § 22 und der auf dieses Gesetz gestützten Rechtsverordnungen erforderlichen Anordnungen treffen. Kann das Ziel der Anordnung auch durch eine Maßnahme zum Zwecke des Arbeitsschutzes erreicht werden, soll diese angeordnet werden.
@@ -886,9 +945,19 @@ Die zuständige Behörde kann im Einzelfall die zur Durchführung des § 22 und 
 
 (1) Kommt der Betreiber einer Anlage einer vollziehbaren behördlichen Anordnung nach § 24 Satz 1 nicht nach, so kann die zuständige Behörde den Betrieb der Anlage ganz oder teilweise bis zur Erfüllung der Anordnung untersagen.
 
-(1a) Die zuständige Behörde hat die Inbetriebnahme oder Weiterführung einer nicht genehmigungsbedürftigen Anlage, die Betriebsbereich oder Teil eines Betriebsbereichs ist und gewerblichen Zwecken dient oder im Rahmen wirtschaftlicher Unternehmungen Verwendung findet, ganz oder teilweise zu untersagen, solange und soweit die von dem Betreiber getroffenen Maßnahmen zur Verhütung schwerer Unfälle im Sinne des Artikels 3 Nummer 5 der Richtlinie 96/82/EG oder zur Begrenzung der Auswirkungen derartiger Unfälle eindeutig unzureichend sind. Die zuständige Behörde kann die Inbetriebnahme oder die Weiterführung einer Anlage im Sinne des Satzes 1 ganz oder teilweise untersagen, wenn der Betreiber die in einer zur Umsetzung der Richtlinie 96/82/EG erlassenen Rechtsverordnung vorgeschriebenen Mitteilungen, Berichte oder sonstigen Informationen nicht fristgerecht übermittelt.
+(1a) Die zuständige Behörde hat die Inbetriebnahme oder Weiterführung einer nicht genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist und gewerblichen Zwecken dient oder im Rahmen wirtschaftlicher Unternehmungen Verwendung findet, ganz oder teilweise zu untersagen, solange und soweit die von dem Betreiber getroffenen Maßnahmen zur Verhütung schwerer Unfälle im Sinne des Artikels 3 Nummer 13 der Richtlinie 2012/18/EU oder zur Begrenzung der Auswirkungen derartiger Unfälle eindeutig unzureichend sind. Bei der Entscheidung über eine Untersagung berücksichtigt die zuständige Behörde auch schwerwiegende Unterlassungen in Bezug auf erforderliche Folgemaßnahmen, die in einem Überwachungsbericht nach § 16 Absatz 2 Nummer 1 der Störfall-Verordnung festgelegt worden sind. Die zuständige Behörde kann die Inbetriebnahme oder die Weiterführung einer Anlage im Sinne des Satzes 1 außerdem ganz oder teilweise untersagen, wenn der Betreiber
+
+1.  
+die in einer zur Umsetzung der Richtlinie 2012/18/EU erlassenen Rechtsverordnung vorgeschriebenen Mitteilungen, Berichte oder sonstige Informationen nicht fristgerecht übermittelt oder
+
+2.  
+eine nach § 23a erforderliche Anzeige nicht macht oder die Anlage ohne die nach § 23b erforderliche Genehmigung störfallrelevant errichtet, betreibt oder störfallrelevant ändert.
 
 (2) Wenn die von einer Anlage hervorgerufenen schädlichen Umwelteinwirkungen das Leben oder die Gesundheit von Menschen oder bedeutende Sachwerte gefährden, soll die zuständige Behörde die Errichtung oder den Betrieb der Anlage ganz oder teilweise untersagen, soweit die Allgemeinheit oder die Nachbarschaft nicht auf andere Weise ausreichend geschützt werden kann.
+
+### § 25a Stilllegung und Beseitigung nicht genehmigungsbedürftiger Anlagen, die Betriebsbereich oder Bestandteil eines Betriebsbereichs sind
+
+Die zuständige Behörde kann anordnen, dass eine Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist und ohne die erforderliche Genehmigung nach § 23b störfallrelevant errichtet oder geändert wird, ganz oder teilweise stillzulegen oder zu beseitigen ist. Sie soll die Beseitigung anordnen, wenn die Allgemeinheit oder die Nachbarschaft nicht auf andere Weise ausreichend geschützt werden kann.
 
 Dritter Abschnitt Ermittlung von Emissionen und Immissionen, sicherheitstechnische Prüfungen
 --------------------------------------------------------------------------------------------
@@ -1003,7 +1072,9 @@ sonstige Daten, die erforderlich sind, um die Einhaltung der Genehmigungsanforde
 
 Die Pflicht nach Satz 1 besteht nicht, soweit die erforderlichen Angaben der zuständigen Behörde bereits auf Grund anderer Vorschriften vorzulegen sind. Wird in einer Rechtsverordnung nach § 7 ein Emissionsgrenzwert nach § 7 Absatz 1a, in einer Verwaltungsvorschrift nach § 48 ein Emissionswert nach § 48 Absatz 1a oder in einer Genehmigung nach § 12 Absatz 1 oder einer nachträglichen Anordnung nach § 17 Absatz 2a eine Emissionsbegrenzung nach § 12 Absatz 1a oder § 17 Absatz 2a oberhalb der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten bestimmt, so hat die Zusammenfassung nach Satz 1 Nummer 1 einen Vergleich mit den in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten zu ermöglichen.
 
-(2) Der Betreiber einer Anlage nach der Industrieemissions-Richtlinie kann von der zuständigen Behörde verpflichtet werden, diejenigen Daten zu übermitteln, deren Übermittlung nach einem Durchführungsrechtsakt nach Artikel 72 Absatz 2 der Richtlinie 2010/75/EU vorgeschrieben ist und die zur Erfüllung der Berichtspflicht nach § 61 erforderlich sind, soweit solche Daten nicht bereits auf Grund anderer Vorschriften bei der zuständigen Behörde vorhanden sind. § 3 Absatz 1 Satz 2 und § 5 Absatz 2 bis 6 des Gesetzes zur Ausführung des Protokolls über Schadstofffreisetzungs- und -verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006 vom 6. Juni 2007 (BGBl. I S. 1002) gelten entsprechend.
+(2) Der Betreiber einer Anlage nach der Industrieemissions-Richtlinie kann von der zuständigen Behörde verpflichtet werden, diejenigen Daten zu übermitteln, deren Übermittlung nach einem Durchführungsrechtsakt nach Artikel 72 Absatz 2 der Richtlinie 2010/75/EU vorgeschrieben ist und die zur Erfüllung der Berichtspflicht nach § 61 Absatz 1 erforderlich sind, soweit solche Daten nicht bereits auf Grund anderer Vorschriften bei der zuständigen Behörde vorhanden sind. § 3 Absatz 1 Satz 2 und § 5 Absatz 2 bis 6 des Gesetzes zur Ausführung des Protokolls über Schadstofffreisetzungs- und -verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006 vom 6. Juni 2007 (BGBl. I S. 1002) gelten entsprechend.
+
+(2a) Der Betreiber von Anlagen, die Betriebsbereich oder Bestandteil eines Betriebsbereichs sind, kann von der zuständigen Behörde verpflichtet werden, diejenigen Daten zu übermitteln, deren Übermittlung nach einem Durchführungsrechtsakt nach Artikel 21 Absatz 5 der Richtlinie 2012/18/EU vorgeschrieben ist und die zur Erfüllung der Berichtspflicht nach § 61 Absatz 2 erforderlich sind, soweit solche Daten nicht bereits auf Grund anderer Vorschriften bei der zuständigen Behörde vorhanden sind. Absatz 2 Satz 2 gilt entsprechend.
 
 (3) Wird bei einer Anlage nach der Industrieemissions-Richtlinie festgestellt, dass Anforderungen gemäß § 6 Absatz 1 Nummer 1 nicht eingehalten werden, hat der Betreiber dies der zuständigen Behörde unverzüglich mitzuteilen.
 
@@ -1515,7 +1586,7 @@ Die Öffentlichkeit ist nach Maßgabe der Rechtsverordnungen nach § 48a Absatz 
 
 (5) Die nach den Absätzen 1 bis 4 aufzustellenden Pläne müssen den Anforderungen des § 45 Absatz 2 entsprechen. Die Öffentlichkeit ist bei der Aufstellung von Plänen nach den Absätzen 1 und 3 zu beteiligen. Die Pläne müssen für die Öffentlichkeit zugänglich sein.
 
-(5a) Bei der Aufstellung oder Änderung von Luftreinhalteplänen nach Absatz 1 ist die Öffentlichkeit durch die zuständige Behörde zu beteiligen. Die Aufstellung oder Änderung eines Luftreinhalteplanes sowie Informationen über das Beteiligungsverfahren sind in einem amtlichen Veröffentlichungsblatt und auf andere geeignete Weise öffentlich bekannt zu machen. Der Entwurf des neuen oder geänderten Luftreinhalteplanes ist einen Monat zur Einsicht auszulegen; bis zwei Wochen nach Ablauf der Auslegungsfrist kann gegenüber der zuständigen Behörde schriftlich Stellung genommen werden; der Zeitpunkt des Fristablaufs ist bei der Bekanntmachung nach Satz 2 mitzuteilen. Fristgemäß eingegangene Stellungnahmen werden von der zuständigen Behörde bei der Entscheidung über die Annahme des Plans angemessen berücksichtigt. Der aufgestellte Plan ist von der zuständigen Behörde in einem amtlichen Veröffentlichungsblatt und auf andere geeignete Weise öffentlich bekannt zu machen. In der öffentlichen Bekanntmachung sind das überplante Gebiet und eine Übersicht über die wesentlichen Maßnahmen darzustellen. Eine Ausfertigung des Plans, einschließlich einer Darstellung des Ablaufs des Beteiligungsverfahrens und der Gründe und Erwägungen, auf denen die getroffene Entscheidung beruht, wird zwei Wochen zur Einsicht ausgelegt. Dieser Absatz findet keine Anwendung, wenn es sich bei dem Luftreinhalteplan nach Absatz 1 um einen Plan handelt, für den nach dem Gesetz über die Umweltverträglichkeitsprüfung eine Strategische Umweltprüfung durchzuführen ist.
+(5a) Bei der Aufstellung oder Änderung von Luftreinhalteplänen nach Absatz 1 ist die Öffentlichkeit durch die zuständige Behörde zu beteiligen. Die Aufstellung oder Änderung eines Luftreinhalteplanes sowie Informationen über das Beteiligungsverfahren sind in einem amtlichen Veröffentlichungsblatt und auf andere geeignete Weise öffentlich bekannt zu machen. Der Entwurf des neuen oder geänderten Luftreinhalteplanes ist einen Monat zur Einsicht auszulegen; bis zwei Wochen nach Ablauf der Auslegungsfrist kann gegenüber der zuständigen Behörde schriftlich oder elektronisch Stellung genommen werden; der Zeitpunkt des Fristablaufs ist bei der Bekanntmachung nach Satz 2 mitzuteilen. Fristgemäß eingegangene Stellungnahmen werden von der zuständigen Behörde bei der Entscheidung über die Annahme des Plans angemessen berücksichtigt. Der aufgestellte Plan ist von der zuständigen Behörde in einem amtlichen Veröffentlichungsblatt und auf andere geeignete Weise öffentlich bekannt zu machen. In der öffentlichen Bekanntmachung sind das überplante Gebiet und eine Übersicht über die wesentlichen Maßnahmen darzustellen. Eine Ausfertigung des Plans, einschließlich einer Darstellung des Ablaufs des Beteiligungsverfahrens und der Gründe und Erwägungen, auf denen die getroffene Entscheidung beruht, wird zwei Wochen zur Einsicht ausgelegt. Dieser Absatz findet keine Anwendung, wenn es sich bei dem Luftreinhalteplan nach Absatz 1 um einen Plan handelt, für den nach dem Gesetz über die Umweltverträglichkeitsprüfung eine Strategische Umweltprüfung durchzuführen ist.
 
 (5b) Werden nach Absatz 2 Pläne für kurzfristig zu ergreifende Maßnahmen aufgestellt, macht die zuständige Behörde der Öffentlichkeit sowohl die Ergebnisse ihrer Untersuchungen zur Durchführbarkeit und zum Inhalt solcher Pläne als auch Informationen über die Durchführung dieser Pläne zugänglich.
 
@@ -1671,11 +1742,14 @@ das Verfahren zur Ermittlung der Emissionen und Immissionen,
 die von der zuständigen Behörde zu treffenden Maßnahmen bei Anlagen, für die Regelungen in einer Rechtsverordnung nach § 7 Absatz 2 oder 3 vorgesehen werden können, unter Berücksichtigung insbesondere der dort genannten Voraussetzungen,
 
 5.  
-äquivalente Parameter oder äquivalente technische Maßnahmen zu Emissionswerten.
+äquivalente Parameter oder äquivalente technische Maßnahmen zu Emissionswerten,
+
+6.  
+angemessene Sicherheitsabstände gemäß § 3 Absatz 5c.
 
 Bei der Festlegung der Anforderungen sind insbesondere mögliche Verlagerungen von nachteiligen Auswirkungen von einem Schutzgut auf ein anderes zu berücksichtigen; ein hohes Schutzniveau für die Umwelt insgesamt ist zu gewährleisten.
 
-(1a) Nach jeder Veröffentlichung einer BVT-Schlussfolgerung ist zu gewährleisten, dass für Anlagen nach der Industrieemissions-Richtlinie bei der Festlegung von Emissionswerten nach Absatz 1 Satz 1 Nummer 2 die Emissionen unter normalen Betriebsbedingungen die in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten nicht überschreiten. Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit überprüft innerhalb eines Jahres nach Veröffentlichung einer BVT-Schlussfolgerung zur Haupttätigkeit einer Anlage, ob sich der Stand der Technik fortentwickelt hat; ein Fortschreiten des Standes der Technik macht es im Bundesanzeiger bekannt.
+(1a) Nach jeder Veröffentlichung einer BVT-Schlussfolgerung ist unverzüglich zu gewährleisten, dass für Anlagen nach der Industrieemissions-Richtlinie bei der Festlegung von Emissionswerten nach Absatz 1 Satz 1 Nummer 2 die Emissionen unter normalen Betriebsbedingungen die in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten nicht überschreiten. Im Hinblick auf bestehende Anlagen ist innerhalb eines Jahres nach Veröffentlichung von BVT-Schlussfolgerungen zur Haupttätigkeit eine Überprüfung und gegebenenfalls Anpassung der Verwaltungsvorschrift vorzunehmen.
 
 (1b) Abweichend von Absatz 1a
 
@@ -1747,7 +1821,7 @@ werden dürfen, sobald die austauscharme Wetterlage von der zuständigen Behörd
 
 ### § 50 Planung
 
-Bei raumbedeutsamen Planungen und Maßnahmen sind die für eine bestimmte Nutzung vorgesehenen Flächen einander so zuzuordnen, dass schädliche Umwelteinwirkungen und von schweren Unfällen im Sinne des Artikels 3 Nummer 5 der Richtlinie 96/82/EG in Betriebsbereichen hervorgerufene Auswirkungen auf die ausschließlich oder überwiegend dem Wohnen dienenden Gebiete sowie auf sonstige schutzbedürftige Gebiete, insbesondere öffentlich genutzte Gebiete, wichtige Verkehrswege, Freizeitgebiete und unter dem Gesichtspunkt des Naturschutzes besonders wertvolle oder besonders empfindliche Gebiete und öffentlich genutzte Gebäude, so weit wie möglich vermieden werden. Bei raumbedeutsamen Planungen und Maßnahmen in Gebieten, in denen die in Rechtsverordnungen nach § 48a Absatz 1 festgelegten Immissionsgrenzwerte und Zielwerte nicht überschritten werden, ist bei der Abwägung der betroffenen Belange die Erhaltung der bestmöglichen Luftqualität als Belang zu berücksichtigen.
+Bei raumbedeutsamen Planungen und Maßnahmen sind die für eine bestimmte Nutzung vorgesehenen Flächen einander so zuzuordnen, dass schädliche Umwelteinwirkungen und von schweren Unfällen im Sinne des Artikels 3 Nummer 13 der Richtlinie 2012/18/EU in Betriebsbereichen hervorgerufene Auswirkungen auf die ausschließlich oder überwiegend dem Wohnen dienenden Gebiete sowie auf sonstige schutzbedürftige Gebiete, insbesondere öffentlich genutzte Gebiete, wichtige Verkehrswege, Freizeitgebiete und unter dem Gesichtspunkt des Naturschutzes besonders wertvolle oder besonders empfindliche Gebiete und öffentlich genutzte Gebäude, so weit wie möglich vermieden werden. Bei raumbedeutsamen Planungen und Maßnahmen in Gebieten, in denen die in Rechtsverordnungen nach § 48a Absatz 1 festgelegten Immissionsgrenzwerte und Zielwerte nicht überschritten werden, ist bei der Abwägung der betroffenen Belange die Erhaltung der bestmöglichen Luftqualität als Belang zu berücksichtigen.
 
 ### § 51 Anhörung beteiligter Kreise
 
@@ -1965,7 +2039,7 @@ die Einhaltung der Vorschriften dieses Gesetzes und der auf Grund dieses Gesetze
 4.  
 Mängel, die den vorbeugenden und abwehrenden Brandschutz sowie die technische Hilfeleistung betreffen, unverzüglich dem Betreiber zu melden.
 
-(2) Der Störfallbeauftragte erstattet dem Betreiber jährlich einen Bericht über die nach Absatz 1 Satz 2 Nummer 1 bis 3 getroffenen und beabsichtigten Maßnahmen. Darüber hinaus ist er verpflichtet, die von ihm ergriffenen Maßnahmen zur Erfüllung seiner Aufgaben nach Absatz 1 Satz 2 Nummer 2 schriftlich aufzuzeichnen. Er muss diese Aufzeichnungen mindestens fünf Jahre aufbewahren.
+(2) Der Störfallbeauftragte erstattet dem Betreiber jährlich einen Bericht über die nach Absatz 1 Satz 2 Nummer 1 bis 3 getroffenen und beabsichtigten Maßnahmen. Darüber hinaus ist er verpflichtet, die von ihm ergriffenen Maßnahmen zur Erfüllung seiner Aufgaben nach Absatz 1 Satz 2 Nummer 2 schriftlich oder elektronisch aufzuzeichnen. Er muss diese Aufzeichnungen mindestens fünf Jahre aufbewahren.
 
 ### § 58c Pflichten und Rechte des Betreibers gegenüber dem Störfallbeauftragten
 
@@ -2014,7 +2088,9 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 ### § 61 Berichterstattung an die Europäische Kommission
 
-Die Länder übermitteln dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit nach dessen Vorgaben Informationen über die Umsetzung der Richtlinie 2010/75/EU, insbesondere über repräsentative Daten über Emissionen und sonstige Arten von Umweltverschmutzung, über Emissionsgrenzwerte und inwieweit der Stand der Technik angewendet wird. Die Länder stellen diese Informationen auf elektronischem Wege zur Verfügung. Art und Form der von den Ländern zu übermittelnden Informationen sowie der Zeitpunkt ihrer Übermittlung richten sich nach den Anforderungen, die auf der Grundlage von Artikel 72 Absatz 2 der Richtlinie 2010/75/EU festgelegt werden. § 5 Absatz 1 Satz 2, Absatz 2 bis 6 des Gesetzes zur Ausführung des Protokolls über Schadstofffreisetzungs- und -verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006 gilt entsprechend.
+(1) Die Länder übermitteln dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit nach dessen Vorgaben Informationen über die Umsetzung der Richtlinie 2010/75/EU, insbesondere über repräsentative Daten über Emissionen und sonstige Arten von Umweltverschmutzung, über Emissionsgrenzwerte und darüber, inwieweit der Stand der Technik angewendet wird. Die Länder stellen diese Informationen auf elektronischem Wege zur Verfügung. Art und Form der von den Ländern zu übermittelnden Informationen sowie der Zeitpunkt ihrer Übermittlung richten sich nach den Anforderungen, die auf der Grundlage von Artikel 72 Absatz 2 der Richtlinie 2010/75/EU festgelegt werden. § 5 Absatz 1 Satz 2, Absatz 2 bis 6 des Gesetzes zur Ausführung des Protokolls über Schadstofffreisetzungs- und -verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006 gilt entsprechend.
+
+(2) Die Länder übermitteln dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit nach dessen Vorgaben Informationen über die Umsetzung der Richtlinie 2012/18/EU sowie über die unter diese Richtlinie fallenden Betriebsbereiche. Art und Form der von den Ländern zu übermittelnden Informationen sowie der Zeitpunkt ihrer Übermittlung richten sich nach den Anforderungen, die auf der Grundlage von Artikel 21 Absatz 5 der Richtlinie 2012/18/EU festgelegt werden. Absatz 1 Satz 2 und 4 gilt entsprechend.
 
 ### § 62 Ordnungswidrigkeiten
 
@@ -2031,6 +2107,9 @@ eine vollziehbare Auflage nach § 8a Absatz 2 Satz 2 oder § 12 Absatz 1 nicht, 
 
 4.  
 die Lage, die Beschaffenheit oder den Betrieb einer genehmigungsbedürftigen Anlage ohne die Genehmigung nach § 16 Absatz 1 wesentlich ändert,
+
+4a.  
+ohne Genehmigung nach § 16a Satz 1 oder § 23b Absatz 1 Satz 1 eine dort genannte Anlage störfallrelevant ändert oder störfallrelevant errichtet,
 
 5.  
 einer vollziehbaren Anordnung nach § 17 Absatz 1 Satz 1 oder 2, jeweils auch in Verbindung mit Absatz 5, § 24 Satz 1, § 26, § 28 Satz 1 oder § 29 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nachkommt,
@@ -2063,6 +2142,9 @@ entgegen § 15 Absatz 1 oder 3 eine Anzeige nicht, nicht richtig, nicht vollstä
 
 1a.  
 entgegen § 15 Absatz 2 Satz 2 eine Änderung vornimmt,
+
+1b.  
+entgegen § 23a Absatz 1 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 2.  
 entgegen § 27 Absatz 1 Satz 1 in Verbindung mit einer Rechtsverordnung nach Absatz 4 Satz 1 eine Emissionserklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig abgibt oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ergänzt,
