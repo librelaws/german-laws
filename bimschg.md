@@ -2,16 +2,10 @@ Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen
 ===========================================================================================================================================
 
 Neuf  
-Neugefasst durch Bek. v. 17.5.2013 I 1274
+Neugefasst durch Bek. v. 17.5.2013 I 1274;
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 30.11.2016 I 2749
-
-Hinweis  
-Änderung durch Art. 55 G v. 29.3.2017 I 626 (Nr. 16) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 3 G v. 29.5.2017 I 1298 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+zuletzt geändert durch Art. 3 G v. 18.7.2017 I 2771
 
 ### 
 
@@ -749,7 +743,7 @@ Der Antragsteller kann eine verwaltungsgerichtliche Klage erheben, wenn über se
 
 ### § 16a Störfallrelevante Änderung genehmigungsbedürftiger Anlagen
 
-Die störfallrelevante Änderung einer genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, bedarf der Genehmigung, wenn durch die störfallrelevante Änderung der angemessene Sicherheitsabstand zu benachbarten Schutzobjekten erstmalig unterschritten wird, der bereits unterschrittene Sicherheitsabstand räumlich noch weiter unterschritten wird oder eine erhebliche Gefahrenerhöhung ausgelöst wird und sie nicht bereits durch § 16 Absatz 1 Satz 1 erfasst ist. Einer Genehmigung bedarf es nicht, soweit dem Gebot, den angemessenen Sicherheitsabstand zu wahren, bereits auf Ebene einer raumbedeutsamen Planung oder Maßnahme durch verbindliche Vorgaben Rechnung getragen worden ist.
+Die störfallrelevante Änderung einer genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, bedarf der Genehmigung, wenn durch die störfallrelevante Änderung der angemessene Sicherheitsabstand zu benachbarten Schutzobjekten erstmalig unterschritten wird, der bereits unterschrittene Sicherheitsabstand räumlich noch weiter unterschritten wird oder eine erhebliche Gefahrenerhöhung ausgelöst wird und die Änderung nicht bereits durch § 16 Absatz 1 Satz 1 erfasst ist. Einer Genehmigung bedarf es nicht, soweit dem Gebot, den angemessenen Sicherheitsabstand zu wahren, bereits auf Ebene einer raumbedeutsamen Planung oder Maßnahme durch verbindliche Vorgaben Rechnung getragen worden ist.
 
 ### § 17 Nachträgliche Anordnungen
 
@@ -1338,7 +1332,7 @@ b)
 in Abweichung von § 37b Absatz 1 bis 6 festzulegen, dass bestimmte Energieerzeugnisse nicht oder nicht mehr in vollem Umfang als Biokraftstoffe gelten,
 
 c)  
-die Anrechenbarkeit von biogenen Ölen im Sinne von § 37b Absatz 8 Satz 1 Nummer 1 auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 und 4 abweichend von § 37b Absatz 8 Satz 1 Nummer 1 zu regeln, soweit landwirtschaftliche Rohstoffe, die bei der Herstellung von biogenen Ölen verwendet werden sollen, nachhaltig erzeugt worden sind,
+die Anrechenbarkeit von biogenen Ölen im Sinne von § 37b Absatz 8 Satz 1 Nummer 1 auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 und 4 abweichend von § 37b Absatz 8 Satz 1 Nummer 1 zu regeln, soweit landwirtschaftliche Rohstoffe, Abfälle oder Reststoffe, die bei der Herstellung von biogenen Ölen verwendet werden sollen, nachhaltig erzeugt worden sind,
 
 d)  
 die Anrechenbarkeit von Biomethan auf die Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 und 4 zu konkretisieren,
@@ -1404,7 +1398,7 @@ a)
 das Berechnungsverfahren für die Treibhausgasemissionen dieser Maßnahmen festzulegen und
 
 b)  
-das Nachweisverfahren zu regeln,
+das Nachweisverfahren sowie die Übertragbarkeit der Nachweise zu regeln,
 
 14.  
 die Berichtspflicht nach § 37f Absatz 1 insbesondere zu Art, Form und Inhalt des Berichts näher auszugestalten sowie die zur Sicherstellung einer ordnungsgemäßen Berichterstattung erforderlichen Anordnungen der zuständigen Stelle zu regeln,
@@ -1436,7 +1430,7 @@ von § 37c Absatz 1 und 3 bis 5 abweichende Verfahrensregelungen zu treffen,
 18.  
 Ausnahmen von der in § 37a Absatz 6 Satz 5 und Absatz 8 Satz 1 vorgesehenen Möglichkeit der Anrechnung von Übererfüllungen auf den Mindestanteil des Folgejahres festzulegen, sofern dies zur Einhaltung von Zielvorgaben aus bindenden Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union erforderlich ist.
 
-Rechtsverordnungen nach Satz 1 Nummer 1 Buchstabe c bedürfen der Zustimmung des Deutschen Bundestages. Rechtsverordnungen nach Satz 1 Nummer 13 bedürfen der Zustimmung des Deutschen Bundestages, sofern Regelungen zu strombasierten Kraftstoffen getroffen werden. Hat sich der Deutsche Bundestag nach Ablauf von vier Sitzungswochen seit Eingang der Rechtsverordnung nach Satz 2 oder 3 nicht mit ihr befasst, gilt die Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
+In Rechtsverordnungen nach Satz 1 kann die Zuständigkeit zur Durchführung einer in einer Rechtsverordnung nach Absatz 1 Satz 2 bestimmten Stelle übertragen werden. Rechtsverordnungen nach Satz 1 Nummer 1 Buchstabe c bedürfen der Zustimmung des Deutschen Bundestages. Rechtsverordnungen nach Satz 1 Nummer 13 bedürfen der Zustimmung des Deutschen Bundestages, sofern Regelungen zu strombasierten Kraftstoffen getroffen werden. Hat sich der Deutsche Bundestag nach Ablauf von vier Sitzungswochen seit Eingang der Rechtsverordnung nach Satz 3 oder 4 nicht mit ihr befasst, gilt die Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
 
 (3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen zur Durchführung der §§ 37a bis 37c sowie der auf Absatz 2 beruhenden Rechtsverordnungen zu erlassen und darin insbesondere
 
