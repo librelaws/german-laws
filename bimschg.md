@@ -7,6 +7,9 @@ Neugefasst durch Bek. v. 17.5.2013 I 1274
 Stand  
 Zuletzt geändert durch Art. 76 V v. 31.8.2015 I 1474
 
+Hinweis  
+Änderung durch Art. 3 G v. 26.7.2016 I 1839 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
@@ -1186,7 +1189,7 @@ Biokraftstoff nach § 37b Absatz 6, der fossilem Erdgaskraftstoff, welcher nach 
 b)  
 reinem Biokraftstoff nach § 37b Absatz 6, der nach § 2 Absatz 1 Nummer 7 oder Absatz 2 Nummer 1 des Energiesteuergesetzes zu versteuern ist,
 
-erfüllt werden. Elektrischer Strom zur Verwendung in Straßenfahrzeugen kann zur Erfüllung von Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit den Absätzen 3 und 4 eingesetzt werden, sofern eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 11 dies zulässt und gegenüber der zuständigen Stelle nachgewiesen wird, dass der Strom ordnungsgemäß gemessen und überwacht wurde.
+erfüllt werden. Elektrischer Strom zur Verwendung in Straßenfahrzeugen kann zur Erfüllung von Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit den Absätzen 3 und 4 eingesetzt werden, sofern eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 11 dies zulässt und gegenüber der zuständigen Stelle nachgewiesen wird, dass der Strom ordnungsgemäß gemessen und überwacht wurde. Andere Kraftstoffe und Upstream-Emissionsminderungen können zur Erfüllung der Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit Absatz 4 angerechnet werden, sofern eine Rechtsverordnung der Bundesregierung nach § 37d Absatz 2 Satz 1 Nummer 13 dies zulässt.
 
 (6) Die Erfüllung von Verpflichtungen nach Absatz 1 Satz 1 und 2 in Verbindung mit den Absätzen 3 und 4 kann durch Vertrag, der der Schriftform bedarf, auf einen Dritten, der nicht selbst Verpflichteter ist, übertragen werden. Im Fall des Absatzes 1 Satz 1 und 2 in Verbindung mit Absatz 3 muss der Vertrag mengenmäßige Angaben zum Umfang der vom Dritten gegenüber dem Verpflichteten eingegangenen Verpflichtung sowie Angaben dazu enthalten, für welche Biokraftstoffe die Übertragung gilt. Im Fall des Absatzes 1 Satz 1 und 2 in Verbindung mit Absatz 4 muss der Vertrag außerdem Angaben zu den Treibhausgasemissionen der Biokraftstoffe in Kilogramm Kohlenstoffdioxid-Äquivalent enthalten. Der Dritte kann Verträge nach Satz 1 ausschließlich durch Biokraftstoffe erfüllen, die er im Verpflichtungsjahr in Verkehr bringt oder gebracht hat. Abweichend von Satz 4 kann der Dritte ab dem Verpflichtungsjahr 2016 Verträge nach Satz 3 auch durch Biokraftstoffe erfüllen, die er bereits im Vorjahr des Verpflichtungsjahres in Verkehr gebracht hat, wenn die Biokraftstoffe nicht bereits Gegenstand eines Vertrages nach Satz 1 waren und der Dritte im Vorjahr des Verpflichtungsjahres nicht selbst Verpflichteter gewesen ist. Absatz 1 Satz 2 und Absatz 5 Satz 1 gelten entsprechend. Bei Vorliegen der Voraussetzungen nach den Sätzen 1 bis 6 ist der Verpflichtete so zu behandeln, als hätte er die vom Dritten in Verkehr gebrachten Biokraftstoffe im Verpflichtungsjahr selbst in Verkehr gebracht. Absatz 3 Satz 6 und Absatz 4 Satz 3 bis 10 gelten entsprechend. Die vom Dritten zur Erfüllung einer nach Satz 1 übertragenen Verpflichtung eingesetzten Biokraftstoffe können nicht zur Erfüllung der Verpflichtung eines weiteren Verpflichteten eingesetzt werden.
 
@@ -1250,7 +1253,7 @@ Im Fall des § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 werde
 
 ### § 37d Zuständige Stelle, Rechtsverordnungen
 
-(1) Innerhalb der Bundesverwaltung werden eine oder mehrere zuständige Stellen mit den Aufgaben errichtet, die Erfüllung der Verpflichtungen nach § 37a zu überwachen und die in § 37c geregelten Aufgaben zu erfüllen. Außerdem wird eine zuständige Stelle innerhalb der Bundesverwaltung errichtet, die die Berichte nach § 37f überprüft. Die Bundesregierung wird ermächtigt, die jeweils zuständige Stelle durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen.
+(1) Innerhalb der Bundesverwaltung werden eine oder mehrere Stellen errichtet, denen die Aufgaben übertragen werden, die Erfüllung der Verpflichtungen nach § 37a zu überwachen, die in § 37c geregelten Aufgaben zu erfüllen und die Berichte nach § 37f zu überprüfen. Die Bundesregierung wird ermächtigt, die jeweils zuständige Stelle durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen.
 
 (2) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
@@ -1297,7 +1300,7 @@ den Basiswert abweichend von § 37a Absatz 4 Satz 4 zu bestimmen,
 die Anrechenbarkeit bestimmter Biokraftstoffe auf die Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 und 4 zu begrenzen, sofern die Richtlinie 2009/28/EG eine Begrenzung der Anrechenbarkeit dieser Biokraftstoffe auf das Ziel von Artikel 3 Absatz 4 der Richtlinie 2009/28/EG vorsieht, sowie das Nachweisverfahren zu regeln,
 
 8.  
-einen Mindestanteil bestimmter Biokraftstoffe zur Erfüllung der Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 oder 4 festzulegen sowie das Nachweisverfahren zu regeln,
+einen Mindestanteil bestimmter Biokraftstoffe oder anderer erneuerbarer Kraftstoffe zur Erfüllung der Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 oder 4 festzulegen sowie das Nachweisverfahren zu regeln,
 
 9.  
 das Berechnungsverfahren für die Treibhausgasemissionen von fossilen Otto- und fossilen Dieselkraftstoffen abweichend von § 37a Absatz 4 Satz 5 festzulegen und das Nachweisverfahren zu regeln,
@@ -1357,7 +1360,10 @@ der Verordnung nach den Nummern 2 bis 4,
 Ausnahmen von den Vorgaben nach § 37b Absatz 8 Satz 1 Nummer 3 festzulegen, sofern dies dem Sinn und Zweck der Regelung nicht entgegensteht,
 
 17.  
-von § 37c Absatz 1 und 3 bis 5 abweichende Verfahrensregelungen zu treffen.
+von § 37c Absatz 1 und 3 bis 5 abweichende Verfahrensregelungen zu treffen,
+
+18.  
+Ausnahmen von der in § 37a Absatz 6 Satz 5 und Absatz 8 Satz 1 vorgesehenen Möglichkeit der Anrechnung von Übererfüllungen auf den Mindestanteil des Folgejahres festzulegen, sofern dies zur Einhaltung von Zielvorgaben aus bindenden Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union erforderlich ist.
 
 Rechtsverordnungen nach Satz 1 Nummer 1 Buchstabe c bedürfen der Zustimmung des Deutschen Bundestages. Rechtsverordnungen nach Satz 1 Nummer 13 bedürfen der Zustimmung des Deutschen Bundestages, sofern Regelungen zu strombasierten Kraftstoffen getroffen werden. Hat sich der Deutsche Bundestag nach Ablauf von vier Sitzungswochen seit Eingang der Rechtsverordnung nach Satz 2 oder 3 nicht mit ihr befasst, gilt die Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
 
@@ -1377,9 +1383,19 @@ zu bestimmen, dass das Entstehen von Verpflichtungen nach § 37a Absatz 1 Satz 1
 
 ### § 37e Gebühren und Auslagen; Verordnungsermächtigung
 
-(1) Für Amtshandlungen, die auf Rechtsverordnungen auf der Grundlage des § 37d Absatz 2 Satz 1 Nummer 3 und 4 beruhen und die in Zusammenhang mit der Anerkennung von Systemen oder mit der Anerkennung und Überwachung einer unabhängigen Kontrollstelle stehen, werden zur Deckung des Verwaltungsaufwands Gebühren und Auslagen erhoben.
+(1) Für Amtshandlungen, die auf Rechtsverordnungen beruhen
 
-(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit und dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die Gebührensätze zu bestimmen und dabei feste Sätze, auch in Form von Zeitgebühren oder Rahmensätzen, vorzusehen. In der Rechtsverordnung kann die Erstattung von Auslagen auch abweichend vom Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung geregelt werden.
+1.  
+die auf der Grundlage des § 37d Absatz 2 Satz 1 Nummer 3 und 4 erlassen worden sind oder
+
+2.  
+die auf der Grundlage des § 37d Absatz 2 Satz 1 Nummer 13 erlassen worden sind,
+
+werden zur Deckelung des Verwaltungsaufwands Gebühren und Auslagen erhoben.
+
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit und dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und Gebührensätze für Amtshandlungen im Sinne von Absatz 1 Nummer 1 zu bestimmen und dabei feste Sätze, auch in Form von Zeitgebühren oder Rahmensätzen, vorzusehen. In der Rechtsverordnung kann die Erstattung von Auslagen abweichend vom Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung oder von § 12 Absatz 1 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154), das zuletzt durch Artikel 3 des Gesetzes vom 31. März 2016 (BGBl. I S. 518) geändert worden ist, geregelt werden.
+
+(3) Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und Gebührensätze für Amtshandlungen im Sinne von Absatz 1 Nummer 2 zu bestimmen und dabei feste Sätze, auch in Form von Zeitgebühren oder Rahmensätzen, vorzusehen. In der Rechtsverordnung kann die Erstattung von Auslagen auch abweichend von § 12 Absatz 1 des Bundesgebührengesetzes geregelt werden.
 
 ### § 37f Berichte über Kraftstoffe und Energieerzeugnisse
 
