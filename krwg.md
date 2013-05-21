@@ -2,10 +2,10 @@ Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträgli
 ======================================================================================================================
 
 Stand  
-Geändert durch Art. 3 G v. 8.4.2013 I 734
+Zuletzt geändert durch § 44 Abs. 4 G v. 22.5.2013 I 1324
 
-Hinweis  
-Änderung durch § 44 Abs. 4 G v. 22.5.2013 I 1324 (Nr. 25) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Sonst  
+Berichtigung v. 7.10.2013 I 3753 ist berücksichtigt
 
 ### 
 
@@ -254,7 +254,7 @@ c)
 nach dem Milch- und Margarinegesetz vom 25. Juli 1990 (BGBl. I S. 1471), das zuletzt durch Artikel 22 des Gesetzes vom 9. Dezember 2010 (BGBl. I S. 1934) geändert worden ist, in der jeweils geltenden Fassung,
 
 d)  
-nach dem Tierseuchengesetz in der Fassung der Bekanntmachung vom 22. Juni 2004 (BGBl. I S. 1260, 3588), das zuletzt durch Artikel 18 des Gesetzes vom 9. Dezember 2010 (BGBl. I S. 1934) geändert worden ist, in der jeweils geltenden Fassung,
+nach dem Tiergesundheitsgesetz vom 22. Mai 2013 (BGBl. I S. 1324),
 
 e)  
 nach dem Pflanzenschutzgesetz in der Fassung der Bekanntmachung vom 14. Mai 1998 (BGBl. I S. 971, 1527, 3512), das zuletzt durch Artikel 14 des Gesetzes vom 9. Dezember 2010 (BGBl. I S. 1934) geändert worden ist, in der jeweils geltenden Fassung sowie
@@ -2127,7 +2127,7 @@ Notwendigkeit, die Gesamtwirkung der Emissionen und die Gefahren für den Mensch
 Notwendigkeit, Unfällen vorzubeugen und deren Folgen für den Menschen und die Umwelt zu verringern,
 
 12.  
-Informationen, die die durch die Richtlinie 2009/31/EG (ABl. L 140 vom 5.6.2009, S. 114) geändert worden sind oder von internationalen Organisationen veröffentlicht werden,
+Informationen, die von internationalen Organisationen veröffentlicht werden,
 
 13.  
 Informationen, die in BVT-Merkblättern enthalten sind.
