@@ -5,13 +5,13 @@ Neuf
 Neugefasst durch Bek. v. 3.6.2013 I 1426
 
 Hinweis  
-Änderung durch Art. 3 G v. 23.7.2013 I 2565 (Nr. 41) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch Art. 3 G v. 23.7.2013 I 2565
 
 Hinweis  
-Änderung durch Art. 2 Abs. 33 G v. 7.8.2013 I 3154 (Nr. 48) noch nicht berücksichtigt
+Änderung durch Art. 2 Abs. 33 G v. 7.8.2013 I 3154 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Hinweis  
-Änderung durch Art. 4 Abs. 20 G v. 7.8.2013 I 3154 (Nr. 48) noch nicht berücksichtigt
+Änderung durch Art. 4 Abs. 20 G v. 7.8.2013 I 3154 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -3042,9 +3042,9 @@ Abschnitt 11 Schlussbestimmungen
 
 ### § 63 Gebühren und Auslagen
 
-(1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit erhebt für Amtshandlungen im Zusammenhang mit den Aufgaben nach § 68 Kosten (Gebühren und Auslagen).
+(1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit erhebt für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit den Aufgaben nach § 68 Gebühren und Auslagen.
 
-(2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit den Bundesministerien der Finanzen und für Wirtschaft und Technologie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände im Sinne des Absatzes 1 und die Höhe der Gebühren näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die zu erstattenden Auslagen können abweichend vom Verwaltungskostengesetz geregelt werden.
+(2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit den Bundesministerien der Finanzen und für Wirtschaft und Technologie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände im Sinne des Absatzes 1 und die Höhe der Gebühren näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die zu erstattenden Auslagen können abweichend vom Bundesgebührengesetz geregelt werden.
 
 ### § 64 Amtliche Sammlung von Untersuchungsverfahren; Bekanntmachungen
 
