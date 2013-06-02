@@ -2,16 +2,10 @@ Lebensmittel-, Bedarfsgegenstände- und Futtermittelgesetzbuch (LFGB)
 ====================================================================
 
 Neuf  
-Neugefasst durch Bek. v. 3.6.2013 I 1426
+Neugefasst durch Bek. v. 3.6.2013 I 1426;
 
-Hinweis  
-Geändert durch Art. 3 G v. 23.7.2013 I 2565
-
-Hinweis  
-Änderung durch Art. 2 Abs. 33 G v. 7.8.2013 I 3154 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 4 Abs. 20 G v. 7.8.2013 I 3154 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Stand  
+Zuletzt geändert durch Art. 2 G v. 5.12.2014 I 1975
 
 ### 
 
@@ -130,7 +124,7 @@ Verkehr mit Lebensmitteln
 | §  9 | Pflanzenschutz- oder sonstige Mittel                       |
 | § 10 | Stoffe mit pharmakologischer Wirkung                       |
 | § 11 | Vorschriften zum Schutz vor Täuschung                      |
-| § 12 | Verbot der krankheitsbezogenen Werbung                     |
+| § 12 | (weggefallen)                                              |
 | § 13 | Ermächtigungen zum Schutz der Gesundheit und vor Täuschung |
 | § 14 | Weitere Ermächtigungen                                     |
 | § 15 | Deutsches Lebensmittelbuch                                 |
@@ -324,7 +318,7 @@ vor Verwendung ungeeigneter Bedarfsgegenstände im Sinne des § 2 Absatz 6 Satz 
 
 (2) Lebensmittel sind Lebensmittel im Sinne des Artikels 2 der Verordnung (EG) Nr. 178/2002.
 
-(3) Lebensmittelzusatzstoffe sind Lebensmittelzusatzstoffe im Sinne des Artikels 3 Absatz 2 Buchstabe a in Verbindung mit Artikel 2 Absatz 2 der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16), die zuletzt durch die Verordnung (EU) Nr. 675/2012 (ABl. L 196 vom 24.7.2012, S. 52) geändert worden ist. Den Lebensmittelzusatzstoffen stehen gleich
+(3) Lebensmittelzusatzstoffe sind Lebensmittelzusatzstoffe im Sinne des Artikels 3 Absatz 2 Buchstabe a in Verbindung mit Artikel 2 Absatz 2 der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16, L 105 vom 27.4.2010, S. 114, L 322 vom 21.11.2012, S. 8), die zuletzt durch die Verordnung (EU) Nr. 298/2014 (ABl. L 89 vom 25.3.2014, S. 36) geändert worden ist. Den Lebensmittelzusatzstoffen stehen gleich
 
 1.  
 Stoffe mit oder ohne Nährwert, die üblicherweise weder selbst als Lebensmittel verzehrt noch als charakteristische Zutat eines Lebensmittels verwendet werden und die einem Lebensmittel aus anderen als technologischen Gründen beim Herstellen oder Behandeln zugesetzt werden, wodurch sie selbst oder ihre Abbau- oder Reaktionsprodukte mittelbar oder unmittelbar zu einem Bestandteil des Lebensmittels werden oder werden können; ausgenommen sind Stoffe, die natürlicher Herkunft oder den natürlichen chemisch gleich sind und nach allgemeiner Verkehrsauffassung überwiegend wegen ihres Nähr-, Geruchs- oder Geschmackswertes oder als Genussmittel verwendet werden,
@@ -399,33 +393,36 @@ Lebensmittelunternehmen: Lebensmittelunternehmen im Sinne des Artikels 3 Nummer 
 Lebensmittelunternehmerin oder Lebensmittelunternehmer: Lebensmittelunternehmer im Sinne des Artikels 3 Nummer 3 der Verordnung (EG) Nr. 178/2002,
 
 8.  
-Auslösewert: Grenzwert für den Gehalt an einem gesundheitlich nicht erwünschten Stoff, der in oder auf einem Lebensmittel enthalten ist, bei dessen Überschreitung Untersuchungen vorgenommen werden müssen, um die Ursachen für das Vorhandensein des jeweiligen Stoffs mit dem Ziel zu ermitteln, Maßnahmen zu seiner Verringerung oder Beseitigung einzuleiten,
+Information über Lebensmittel: Information über Lebensmittel im Sinne des Artikels 2 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18), die zuletzt durch die Verordnung (EU) Nr. 78/2014 (ABl. L 27 vom 30.1.2014, S. 7) geändert worden ist,
 
 9.  
-mit Lebensmitteln verwechselbare Produkte: Produkte, die zwar keine Lebensmittel sind, bei denen jedoch aufgrund ihrer Form, ihres Geruchs, ihrer Farbe, ihres Aussehens, ihrer Aufmachung, ihrer Kennzeichnung, ihres Volumens oder ihrer Größe vorhersehbar ist, dass sie von den Verbraucherinnen und Verbrauchern, insbesondere von Kindern, mit Lebensmitteln verwechselt werden und deshalb zum Mund geführt, gelutscht oder geschluckt werden, wodurch insbesondere die Gefahr des Erstickens, der Vergiftung, der Perforation oder des Verschlusses des Verdauungskanals entstehen kann; ausgenommen sind Arzneimittel, die einem Zulassungs- oder Registrierungsverfahren unterliegen,
+Auslösewert: Grenzwert für den Gehalt an einem gesundheitlich nicht erwünschten Stoff, der in oder auf einem Lebensmittel enthalten ist, bei dessen Überschreitung Untersuchungen vorgenommen werden müssen, um die Ursachen für das Vorhandensein des jeweiligen Stoffs mit dem Ziel zu ermitteln, Maßnahmen zu seiner Verringerung oder Beseitigung einzuleiten,
 
 10.  
-Futtermittelunternehmen: Futtermittelunternehmen im Sinne des Artikels 3 Nummer 5 der Verordnung (EG) Nr. 178/2002, auch soweit sich deren Tätigkeit auf Futtermittel bezieht, die zur oralen Tierfütterung von nicht der Lebensmittelgewinnung dienenden Tieren bestimmt sind,
+mit Lebensmitteln verwechselbare Produkte: Produkte, die zwar keine Lebensmittel sind, bei denen jedoch aufgrund ihrer Form, ihres Geruchs, ihrer Farbe, ihres Aussehens, ihrer Aufmachung, ihrer Kennzeichnung, ihres Volumens oder ihrer Größe vorhersehbar ist, dass sie von den Verbraucherinnen und Verbrauchern, insbesondere von Kindern, mit Lebensmitteln verwechselt werden und deshalb zum Mund geführt, gelutscht oder geschluckt werden, wodurch insbesondere die Gefahr des Erstickens, der Vergiftung, der Perforation oder des Verschlusses des Verdauungskanals entstehen kann; ausgenommen sind Arzneimittel, die einem Zulassungs- oder Registrierungsverfahren unterliegen,
 
 11.  
-Futtermittelunternehmerin oder Futtermittelunternehmer: Futtermittelunternehmer im Sinne des Artikels 3 Nummer 6 der Verordnung (EG) Nr. 178/2002, auch soweit sich deren Verantwortung auf Futtermittel bezieht, die zur oralen Tierfütterung von nicht der Lebensmittelgewinnung dienenden Tieren bestimmt sind,
+Futtermittelunternehmen: Futtermittelunternehmen im Sinne des Artikels 3 Nummer 5 der Verordnung (EG) Nr. 178/2002, auch soweit sich deren Tätigkeit auf Futtermittel bezieht, die zur oralen Tierfütterung von nicht der Lebensmittelgewinnung dienenden Tieren bestimmt sind,
 
 12.  
-Einzelfuttermittel: Einzelfuttermittel im Sinne des Artikels 3 Absatz 2 Buchstabe g der Verordnung (EG) Nr. 767/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über das Inverkehrbringen und die Verwendung von Futtermitteln, zur Änderung der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 79/373/EWG des Rates, 80/511/EWG der Kommission, 82/471/EWG des Rates, 83/228/EWG des Rates, 93/74/EWG des Rates, 93/113/EG des Rates und 96/25/EG des Rates und der Entscheidung 2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1), die zuletzt durch die Verordnung (EU) Nr. 939/2010 (ABl. L 277 vom 21.10.2010, S. 4) geändert worden ist,
+Futtermittelunternehmerin oder Futtermittelunternehmer: Futtermittelunternehmer im Sinne des Artikels 3 Nummer 6 der Verordnung (EG) Nr. 178/2002, auch soweit sich deren Verantwortung auf Futtermittel bezieht, die zur oralen Tierfütterung von nicht der Lebensmittelgewinnung dienenden Tieren bestimmt sind,
 
 13.  
-Mischfuttermittel: Mischfuttermittel im Sinne des Artikels 3 Absatz 2 Buchstabe h der Verordnung (EG) Nr. 767/2009,
+Einzelfuttermittel: Einzelfuttermittel im Sinne des Artikels 3 Absatz 2 Buchstabe g der Verordnung (EG) Nr. 767/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über das Inverkehrbringen und die Verwendung von Futtermitteln, zur Änderung der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 79/373/EWG des Rates, 80/511/EWG der Kommission, 82/471/EWG des Rates, 83/228/EWG des Rates, 93/74/EWG des Rates, 93/113/EG des Rates und 96/25/EG des Rates und der Entscheidung 2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1, L 192 vom 22.7.2011, S. 71), die zuletzt durch die Verordnung (EU) Nr. 939/2010 (ABl. L 277 vom 21.10.2010, S. 4) geändert worden ist,
 
 14.  
-Diätfuttermittel: Mischfuttermittel, die dazu bestimmt sind, den besonderen Ernährungsbedarf der Tiere zu decken, bei denen insbesondere Verdauungs-, Resorptions- oder Stoffwechselstörungen vorliegen oder zu erwarten sind,
+Mischfuttermittel: Mischfuttermittel im Sinne des Artikels 3 Absatz 2 Buchstabe h der Verordnung (EG) Nr. 767/2009,
 
 15.  
-Futtermittelzusatzstoffe: Futtermittelzusatzstoffe im Sinne des Artikels 2 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates vom 22. September 2003 über Zusatzstoffe zur Verwendung in der Tierernährung (ABl. L 268 vom 18.10.2003, S. 29, 2004 L 192, S. 34, 2007 L 98, S. 29), die zuletzt durch die Verordnung (EG) Nr. 767/2009 (ABl. L 229 vom 1.9.2009, S. 1) geändert worden ist,
+Diätfuttermittel: Mischfuttermittel, die dazu bestimmt sind, den besonderen Ernährungsbedarf der Tiere zu decken, bei denen insbesondere Verdauungs-, Resorptions- oder Stoffwechselstörungen vorliegen oder zu erwarten sind,
 
 16.  
-Vormischungen: Vormischungen im Sinne des Artikels 2 Absatz 2 Buchstabe e der Verordnung (EG) Nr. 1831/2003,
+Futtermittelzusatzstoffe: Futtermittelzusatzstoffe im Sinne des Artikels 2 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates vom 22. September 2003 über Zusatzstoffe zur Verwendung in der Tierernährung (ABl. L 268 vom 18.10.2003, S. 29, 2004 L 192, S. 34, 2007 L 98, S. 29), die zuletzt durch die Verordnung (EG) Nr. 767/2009 (ABl. L 229 vom 1.9.2009, S. 1) geändert worden ist,
 
 17.  
+Vormischungen: Vormischungen im Sinne des Artikels 2 Absatz 2 Buchstabe e der Verordnung (EG) Nr. 1831/2003,
+
+18.  
 unerwünschte Stoffe: Stoffe – außer Tierseuchenerregern –, die in oder auf Futtermitteln enthalten sind und
 
 a)  
@@ -442,16 +439,16 @@ die Leistung von Nutztieren oder als Rückstände in von Nutztieren gewonnenen L
 
 können,
 
-18.  
+19.  
 Mittelrückstände: Rückstände an Pflanzenschutzmitteln im Sinne des Pflanzenschutzgesetzes, Vorratsschutzmitteln oder Schädlingsbekämpfungsmitteln, soweit sie in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes aufgeführt sind und die in oder auf Futtermitteln vorhanden sind,
 
-19.  
+20.  
 Naturhaushalt: seine Bestandteile Boden, Wasser, Luft, Klima, Tiere und Pflanzen sowie das Wirkungsgefüge zwischen ihnen,
 
-20.  
+21.  
 Nutztiere: Tiere einer Art, die üblicherweise zum Zweck der Gewinnung von Lebensmitteln oder sonstigen Produkten gehalten wird, sowie Pferde,
 
-21.  
+22.  
 Aktionsgrenzwert: Grenzwert für den Gehalt an einem unerwünschten Stoff, bei dessen Überschreitung Untersuchungen vorgenommen werden müssen, um die Ursachen für das Vorhandensein des unerwünschten Stoffs mit dem Ziel zu ermitteln, Maßnahmen zu seiner Verringerung oder Beseitigung einzuleiten.
 
 ### § 4 Vorschriften zum Geltungsbereich
@@ -535,7 +532,7 @@ Lebensmittelzusatzstoffe oder Ionenaustauscher, die bei dem Herstellen oder Beha
 
 (2) Absatz 1 Nummer 1 Buchstabe a findet keine Anwendung auf Enzyme und Mikroorganismenkulturen. Absatz 1 Nummer 1 Buchstabe c findet keine Anwendung auf Stoffe, die bei einer allgemein üblichen küchenmäßigen Zubereitung von Lebensmitteln entstehen.
 
-(3) Die Verordnung (EG) Nr. 1333/2008 und die Verordnung (EG) Nr. 1332/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelenzyme und zur Änderung der Richtlinie 83/417/EWG des Rates, der Verordnung (EG) Nr. 1493/1999 des Rates, der Richtlinie 2000/13/EG des Rates und der Verordnung (EG) Nr. 258/97 (ABl. L 354 vom 31.12.2008, S. 7) bleiben unberührt.
+(3) Die Verordnung (EG) Nr. 1333/2008 und die Verordnung (EG) Nr. 1332/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelenzyme und zur Änderung der Richtlinie 83/417/EWG des Rates, der Verordnung (EG) Nr. 1493/1999 des Rates, der Richtlinie 2000/13/EG des Rates und der Verordnung (EG) Nr. 258/97 (ABl. L 354 vom 31.12.2008, S. 7), die durch die Verordnung (EU) Nr. 1056/2012 (ABl. L 313 vom 13.11.2012, S. 9) geändert worden ist, bleiben unberührt.
 
 ### § 7 Ermächtigungen für Lebensmittelzusatzstoffe
 
@@ -593,7 +590,7 @@ wenn in oder auf ihnen Pflanzenschutzmittel im Sinne des Pflanzenschutzgesetzes,
 wenn in oder auf ihnen Pflanzenschutzmittel im Sinne des Pflanzenschutzgesetzes vorhanden sind, die nicht zugelassen sind oder die bei den Lebensmitteln oder deren Ausgangsstoffen nicht angewendet werden dürfen,
 
 3.  
-die den Anforderungen nach Artikel 18 Absatz 1, auch in Verbindung mit Artikel 20 Absatz 1, der Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom 16.3.2005, S. 1), die zuletzt durch die Verordnung (EU) Nr. 592/2012 (ABl. L 176 vom 6.7.2012, S. 1) geändert worden ist, nicht entsprechen.
+die den Anforderungen nach Artikel 18 Absatz 1, auch in Verbindung mit Artikel 20 Absatz 1, der Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom 16.3.2005, S. 1), die zuletzt durch die Verordnung (EU) Nr. 398/2014 (ABl. L 119 vom 23.4.2014, S. 3) geändert worden ist, nicht entsprechen.
 
 Satz 1 Nummer 2 gilt nicht, soweit für die dort genannten Mittel Höchstmengen nach Absatz 2 Nummer 1 Buchstabe a festgesetzt sind.
 
@@ -630,7 +627,7 @@ zuzulassen.
 die für die in Satz 1 bezeichneten Stoffe oder deren Umwandlungsprodukte in einem unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaft oder der Europäischen Union, insbesondere
 
 a)  
-im Anhang der Verordnung (EU) Nr. 37/2010 der Kommission vom 22. Dezember 2009 über pharmakologisch wirksame Stoffe und ihre Einstufung hinsichtlich der Rückstandshöchstmengen in Lebensmitteln tierischen Ursprungs (ABl. L 15 vom 20.1.2010, S. 1),
+im Anhang der Verordnung (EU) Nr. 37/2010 der Kommission vom 22. Dezember 2009 über pharmakologisch wirksame Stoffe und ihre Einstufung hinsichtlich der Rückstandshöchstmengen in Lebensmitteln tierischen Ursprungs (ABl. L 15 vom 20.1.2010, S. 1, L 293 vom 11.11.2010, S. 72), die zuletzt durch die Verordnung (EU) Nr. 418/2014 (ABl. L 124 vom 25.4.2014, S. 19) geändert worden ist,
 
 b)  
 in einem auf Artikel 14 der Verordnung (EG) Nr. 470/2009 des Europäischen Parlaments und des Rates vom 6. Mai 2009 über die Schaffung eines Gemeinschaftsverfahrens für die Festsetzung von Höchstmengen für Rückstände pharmakologisch wirksamer Stoffe in Lebensmitteln tierischen Ursprungs, zur Aufhebung der Verordnung (EWG) Nr. 2377/90 des Rates und zur Änderung der Richtlinie 2001/82/EG des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates (ABl. L 152 vom 16.6.2009, S. 11) gestützten unmittelbar geltenden Rechtsakt der Europäischen Union oder
@@ -710,19 +707,18 @@ soweit es mit den in § 1 Absatz 1 Nummer 1 oder 2 genannten Zwecken vereinbar i
 
 ### § 11 Vorschriften zum Schutz vor Täuschung
 
-(1) Es ist verboten, Lebensmittel unter irreführender Bezeichnung, Angabe oder Aufmachung in den Verkehr zu bringen oder für Lebensmittel allgemein oder im Einzelfall mit irreführenden Darstellungen oder sonstigen Aussagen zu werben. Eine Irreführung liegt insbesondere dann vor, wenn
+(1) Es ist verboten, als nach Artikel 8 Absatz 1 der Verordnung (EU) Nr. 1169/2011 verantwortlicher Lebensmittelunternehmer oder Importeur Lebensmittel mit Informationen über Lebensmittel, die den Anforderungen
 
 1.  
-bei einem Lebensmittel zur Täuschung geeignete Bezeichnungen, Angaben, Aufmachungen, Darstellungen oder sonstige Aussagen über Eigenschaften, insbesondere über Art, Beschaffenheit, Zusammensetzung, Menge, Haltbarkeit, Ursprung, Herkunft oder Art der Herstellung oder Gewinnung verwendet werden,
+des Artikels 7 Absatz 1, auch in Verbindung mit Absatz 4, der Verordnung (EU) Nr. 1169/2011,
 
 2.  
-einem Lebensmittel Wirkungen beigelegt werden, die ihm nach den Erkenntnissen der Wissenschaft nicht zukommen oder die wissenschaftlich nicht hinreichend gesichert sind,
+des Artikels 7 Absatz 3, auch in Verbindung mit Absatz 4, der Verordnung (EU) Nr. 1169/2011 oder
 
 3.  
-zu verstehen gegeben wird, dass ein Lebensmittel besondere Eigenschaften hat, obwohl alle vergleichbaren Lebensmittel dieselben Eigenschaften haben,
+des Artikels 36 Absatz 2 Buchstabe a in Verbindung mit Artikel 7 Absatz 1 oder Absatz 3, jeweils auch in Verbindung mit Artikel 7 Absatz 4, der Verordnung (EU) Nr. 1169/2011
 
-4.  
-einem Lebensmittel der Anschein eines Arzneimittels gegeben wird.
+nicht entsprechen, in den Verkehr zu bringen oder allgemein oder im Einzelfall dafür zu werben.
 
 (2) Es ist ferner verboten,
 
@@ -741,36 +737,9 @@ Lebensmittel, die geeignet sind, den Anschein einer besseren als der tatsächlic
 
 ohne ausreichende Kenntlichmachung in den Verkehr zu bringen.
 
-### § 12 Verbot der krankheitsbezogenen Werbung
+(3) Absatz 1 Nummer 2 gilt nicht für nach Artikel 14 Absatz 1 der Verordnung (EG) Nr. 1924/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 über nährwert- und gesundheitsbezogene Angaben über Lebensmittel (ABl. L 404 vom 30.12.2006, S. 9, L 12 vom 18.1.2007, S. 3, L 86 vom 28.3.2008, S. 34) zugelassene Angaben.
 
-(1) Es ist verboten, beim Verkehr mit Lebensmitteln oder in der Werbung für Lebensmittel allgemein oder im Einzelfall
-
-1.  
-Aussagen, die sich auf die Beseitigung, Linderung oder Verhütung von Krankheiten beziehen,
-
-2.  
-Hinweise auf ärztliche Empfehlungen oder ärztliche Gutachten,
-
-3.  
-Krankengeschichten oder Hinweise auf solche,
-
-4.  
-Äußerungen Dritter, insbesondere Dank-, Anerkennungs- oder Empfehlungsschreiben, soweit sie sich auf die Beseitigung oder Linderung von Krankheiten beziehen, sowie Hinweise auf solche Äußerungen,
-
-5.  
-bildliche Darstellungen von Personen in der Berufskleidung oder bei der Ausübung der Tätigkeit von Angehörigen der Heilberufe, des Heilgewerbes oder des Arzneimittelhandels,
-
-6.  
-Aussagen, die geeignet sind, Angstgefühle hervorzurufen oder auszunutzen,
-
-7.  
-Schriften oder schriftliche Angaben, die dazu anleiten, Krankheiten mit Lebensmitteln zu behandeln,
-
-zu verwenden.
-
-(2) Die Verbote des Absatzes 1 gelten nicht für die Werbung gegenüber Angehörigen der Heilberufe, des Heilgewerbes oder der Heilhilfsberufe. Die Verbote des Absatzes 1 Nummer 1 und 7 gelten nicht für diätetische Lebensmittel, soweit nicht das Bundesministerium durch Rechtsverordnung mit Zustimmung des Bundesrates etwas anderes bestimmt.
-
-(3) Artikel 14 Absatz 1 der Verordnung (EG) Nr. 1924/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 über nährwert- und gesundheitsbezogene Angaben über Lebensmittel (ABl. L 404 vom 30.12.2006, S. 9, L 12 vom 18.1.2007, S. 3, L 86 vom 28.3.2008, S. 34), die zuletzt durch die Verordnung (EU) Nr. 116/2010 (ABl. L 37 vom 10.2.2010, S. 16) geändert worden ist, über die Verwendung von Angaben über die Verringerung eines Krankheitsrisikos bleibt unberührt.
+### § 12 (weggefallen)
 
 ### § 13 Ermächtigungen zum Schutz der Gesundheit und vor Täuschung
 
@@ -890,7 +859,7 @@ das Verfahren für die amtliche Untersuchung nach § 13 Absatz 1 Nummer 3 und 4 
 und sofern die Voraussetzungen für eine Regelung durch Rechtsverordnungen nach § 13 Absatz 1 oder § 34 Absatz 1 dieses Gesetzes oder nach § 38 des Infektionsschutzgesetzes nicht erfüllt sind, Vorschriften zu erlassen, die eine einwandfreie Beschaffenheit der Lebensmittel von ihrer Herstellung bis zur Abgabe an die Verbraucherin oder den Verbraucher sicherstellen und dabei auch zu bestimmen, welche gesundheitlichen oder hygienischen Anforderungen lebende Tiere im Sinne des § 4 Absatz 1 Nummer 1, die Lebensmittelunternehmen oder die dort beschäftigten Personen hinsichtlich der Gewinnung bestimmter Lebensmittel erfüllen müssen, um eine nachteilige Beeinflussung dieser Lebensmittel zu vermeiden,
 
 2.  
-und sofern die Voraussetzungen für eine Regelung durch Rechtsverordnung nach § 79 Absatz 1 Nummer 1, Absatz 2 oder 3 in Verbindung mit § 17 Absatz 1 Nummer 11 und 14 und Absatz 3 Nummer 4 und 5 des Tierseuchengesetzes nicht erfüllt sind, vorzuschreiben, dass und in welcher Weise Räume, Anlagen oder Einrichtungen, in denen lebende Tiere im Sinne des § 4 Absatz 1 Nummer 1 gehalten werden, gereinigt, desinfiziert oder sonst im Hinblick auf die Einhaltung hygienischer Anforderungen behandelt werden müssen, sowie die Führung von Nachweisen zu regeln,
+und sofern die Voraussetzungen für eine Regelung durch Rechtsverordnung nach § 6 Absatz 1 Nummer 3 Buchstabe b oder § 38 Absatz 9 oder 10 des Tiergesundheitsgesetzes nicht erfüllt sind, vorzuschreiben, dass und in welcher Weise Räume, Anlagen oder Einrichtungen, in denen lebende Tiere im Sinne des § 4 Absatz 1 Nummer 1 gehalten werden, gereinigt, desinfiziert oder sonst im Hinblick auf die Einhaltung hygienischer Anforderungen behandelt werden müssen, sowie die Führung von Nachweisen zu regeln,
 
 3.  
 vorzuschreiben, dass über die Reinigung, die Desinfektion oder sonstige Behandlungsmaßnahmen im Hinblick auf die Einhaltung der hygienischen Anforderungen von Räumen, Anlagen, Einrichtungen oder Beförderungsmitteln, in denen Lebensmittel hergestellt, behandelt oder in den Verkehr gebracht werden, Nachweise zu führen sind,
@@ -902,8 +871,6 @@ das Nähere über Art, Form und Inhalt der Nachweise nach den Nummern 2 und 3 so
 das Verfahren für die Überwachung der Einhaltung der hygienischen Anforderungen nach Nummer 1 zu regeln.
 
 (3) Das Bundesministerium wird weiter ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zur Erfüllung der in § 1 Absatz 1 Nummer 1, 2 oder 3 Buchstabe a, jeweils auch in Verbindung mit § 1 Absatz 3, genannten Zwecke erforderlich ist, Vorschriften über die Werbung für Säuglingsanfangsnahrung und Folgenahrung zu erlassen.
-
-Gemäß § 44 Absatz 3 in Verbindung mit § 45 Absatz 1 Satz 1 des Gesetzes vom 22. Mai 2013 (BGBl. I S. 1324) werden am 1. Mai 2014 in § 14 Absatz 2 Nummer 2 die Wörter „§ 79 Absatz 1 Nummer 1, Absatz 2 oder 3 in Verbindung mit § 17 Absatz 1 Nummer 11 und 14 und Absatz 3 Nummer 4 und 5 des Tierseuchengesetzes“ durch die Wörter „§ 6 Absatz 1 Nummer 3 Buchstabe b oder § 38 Absatz 9 oder 10 des Tiergesundheitsgesetzes“ ersetzt.
 
 ### § 15 Deutsches Lebensmittelbuch
 
@@ -1645,7 +1612,7 @@ Anordnungen zur Durchsetzung der Pflicht des Lebensmittelunternehmers zur Unterr
 9.  
 die Öffentlichkeit nach Maßgabe von § 40 informieren.
 
-Artikel 54 Absatz 1 und 2 der Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der Einhaltung des Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und Tierschutz (ABl. L 165 vom 30.4.2004, S. 1, L 191 vom 28.5.2004, S. 1, L 204 vom 4.8.2007, S. 29), die zuletzt durch die Verordnung (EU) Nr. 563/2012 (ABl. L 168 vom 28.6.2012, S. 24) geändert worden ist, über Maßnahmen im Fall eines Verstoßes bleibt unberührt.
+Artikel 54 Absatz 1 und 2 der Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der Einhaltung des Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und Tierschutz (ABl. L 165 vom 30.4.2004, S. 1, L 191 vom 28.5.2004, S. 1, L 204 vom 4.8.2007, S. 29), die zuletzt durch die Verordnung (EU) Nr. 517/2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist, über Maßnahmen im Fall eines Verstoßes bleibt unberührt.
 
 (3) Eine Anordnung nach
 
@@ -1684,7 +1651,7 @@ einem Jagdausübungsberechtigten für seinen Jagdbezirk oder
 2.  
 einem Jäger, dem die Jagd vom Jagdausübungsberechtigten gestattet worden ist,
 
-in dessen Person die Voraussetzungen des Artikels 1 Absatz 3 Buchstabe a oder Buchstabe e der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55, L 226 vom 25.6.2004, S. 22, L 204 vom 4.8.2007, S. 26, L 46 vom 21.2.2008, S. 50), die zuletzt durch die Verordnung (EU) Nr. 16/2012 (ABl. L 8 vom 12.1.2012, S. 29) geändert worden ist, vorliegen, die Entnahme von Proben zur Untersuchung auf Trichinen und die Kennzeichnung übertragen kann. In der Rechtsverordnung nach Satz 1 sind die Voraussetzungen und das Verfahren für die Übertragung und die Überwachung der Einhaltung der Vorschriften zu regeln.
+in dessen Person die Voraussetzungen des Artikels 1 Absatz 3 Buchstabe a oder Buchstabe e der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55, L 226 vom 25.6.2004, S. 22, L 204 vom 4.8.2007, S. 26, L 46 vom 21.2.2008, S. 50, L 119 vom 13.5.2010, S. 26, L 160 vom 12.6.2013, S. 15), die zuletzt durch die Verordnung (EU) Nr. 218/2014 (ABl. L 69 vom 8.3.2014, S. 95) geändert worden ist, vorliegen, die Entnahme von Proben zur Untersuchung auf Trichinen und die Kennzeichnung übertragen kann. In der Rechtsverordnung nach Satz 1 sind die Voraussetzungen und das Verfahren für die Übertragung und die Überwachung der Einhaltung der Vorschriften zu regeln.
 
 ### § 40 Information der Öffentlichkeit
 
@@ -2557,7 +2524,7 @@ entgegen § 32 Absatz 2 in Verbindung mit einer Rechtsverordnung nach Absatz 1 N
 einer vollziehbaren Anordnung
 
 a)  
-nach Artikel 54 Absatz 1 Satz 1 der Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der Einhaltung des Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und Tierschutz (ABl. L 165 vom 30.4.2004, S. 1), die zuletzt durch die Verordnung (EU) Nr. 563/2012 (ABl. L 168 vom 28.6.2012, S. 24) geändert worden ist, die der Durchführung eines in § 39 Absatz 7 Nummer 1, 2 oder Nummer 3, soweit sich die Nummer 3 auf § 5 und § 17 Absatz 1 Satz 1 Nummer 1 bezieht, bezeichneten Verbots dient, oder
+nach Artikel 54 Absatz 1 Satz 1 der Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der Einhaltung des Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und Tierschutz (ABl. L 165 vom 30.4.2004, S. 1), die zuletzt durch die Verordnung (EU) Nr. 517/2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist, die der Durchführung eines in § 39 Absatz 7 Nummer 1, 2 oder Nummer 3, soweit sich die Nummer 3 auf § 5 und § 17 Absatz 1 Satz 1 Nummer 1 bezieht, bezeichneten Verbots dient, oder
 
 b)  
 nach § 39 Absatz 2 Satz 1, die der Durchführung eines in § 39 Absatz 7 bezeichneten Verbots dient,
@@ -2573,12 +2540,12 @@ einer Rechtsverordnung nach § 10 Absatz 4 Nummer 1 Buchstabe b, d oder Buchstab
 entgegen Artikel 14 Absatz 1 in Verbindung mit Absatz 2 Buchstabe a ein Lebensmittel in den Verkehr bringt oder
 
 2.  
-entgegen Artikel 15 Absatz 1 in Verbindung mit Absatz 2 Spiegelstrich 1, soweit sich dieser auf die Gesundheit des Menschen bezieht, jeweils auch in Verbindung mit Artikel 4 Absatz 1 Unterabsatz 2 der Verordnung (EG) Nr. 767/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über das Inverkehrbringen und die Verwendung von Futtermitteln, zur Änderung der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 79/373/EWG des Rates, 80/511/EWG der Kommission, 82/471/EWG des Rates, 83/228/EWG des Rates, 93/74/EWG des Rates, 93/113/EG des Rates und 96/25/EG des Rates und der Entscheidung 2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1), die zuletzt durch die Verordnung (EU) Nr. 939/2010 (ABl. L 277 vom 21.10.2010, S. 4) geändert worden ist, ein Futtermittel in den Verkehr bringt oder verfüttert.
+entgegen Artikel 15 Absatz 1 in Verbindung mit Absatz 2 Spiegelstrich 1, soweit sich dieser auf die Gesundheit des Menschen bezieht, jeweils auch in Verbindung mit Artikel 4 Absatz 1 Unterabsatz 2 der Verordnung (EG) Nr. 767/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über das Inverkehrbringen und die Verwendung von Futtermitteln, zur Änderung der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 79/373/EWG des Rates, 80/511/EWG der Kommission, 82/471/EWG des Rates, 83/228/EWG des Rates, 93/74/EWG des Rates, 93/113/EG des Rates und 96/25/EG des Rates und der Entscheidung 2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1, L 192 vom 22.7.2011, S. 71), die zuletzt durch die Verordnung (EU) Nr. 939/2010 (ABl. L 277 vom 21.10.2010, S. 4) geändert worden ist, ein Futtermittel in den Verkehr bringt oder verfüttert.
 
 (2a) Ebenso wird bestraft, wer
 
 1.  
-gegen die Verordnung (EG) Nr. 1334/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Aromen und bestimmte Lebensmittelzutaten mit Aromaeigenschaften zur Verwendung in und auf Lebensmitteln sowie zur Änderung der Verordnung (EWG) Nr. 1601/91 des Rates, der Verordnungen (EG) Nr. 2232/96 und (EG) Nr. 110/2008 und der Richtlinie 2000/13/EG (ABl. L 354 vom 31.12.2008, S. 34) verstößt, indem er
+gegen die Verordnung (EG) Nr. 1334/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Aromen und bestimmte Lebensmittelzutaten mit Aromaeigenschaften zur Verwendung in und auf Lebensmitteln sowie zur Änderung der Verordnung (EWG) Nr. 1601/91 des Rates, der Verordnungen (EG) Nr. 2232/96 und (EG) Nr. 110/2008 und der Richtlinie 2000/13/EG (ABl. L 354 vom 31.12.2008, S. 34, L 105 vom 27.4.2010, S. 115), die zuletzt durch die Verordnung (EU) Nr. 246/2014 (ABl. L 74 vom 14.3.2014, S. 58) geändert worden ist, verstößt, indem er
 
 a)  
 entgegen Artikel 5 in Verbindung mit Anhang III oder Anhang IV ein Aroma oder ein Lebensmittel in den Verkehr bringt,
@@ -2590,10 +2557,10 @@ c)
 entgegen Artikel 7 einen Ausgangsstoff, ein Aroma oder eine Lebensmittelzutat verwendet,
 
 2.  
-entgegen Artikel 1 Absatz 1 Unterabsatz 1 der Verordnung (EG) Nr. 124/2009 der Kommission vom 10. Februar 2009 zur Festlegung von Höchstgehalten an Kokzidiostatika und Histomonostatika, die in Lebensmitteln aufgrund unvermeidbarer Verschleppung in Futtermittel für Nichtzieltierarten vorhanden sind (ABl. L 40 vom 11.2.2009, S. 7), ein Lebensmittel in Verkehr bringt oder
+entgegen Artikel 1 Absatz 1 Unterabsatz 1 der Verordnung (EG) Nr. 124/2009 der Kommission vom 10. Februar 2009 zur Festlegung von Höchstgehalten an Kokzidiostatika und Histomonostatika, die in Lebensmitteln aufgrund unvermeidbarer Verschleppung in Futtermittel für Nichtzieltierarten vorhanden sind (ABl. L 40 vom 11.2.2009, S. 7), die durch die Verordnung (EU) Nr. 610/2012 (ABl. L 178 vom 10.7.2012, S. 1) geändert worden ist, ein Lebensmittel in Verkehr bringt oder
 
 3.  
-gegen die Verordnung (EU) Nr. 10/2011 der Kommission vom 14. Januar 2011 über Materialien und Gegenstände aus Kunststoff, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. L 12 vom 15.1.2011, S. 1, L 278 vom 25.10.2011, S. 13), die zuletzt durch die Verordnung (EU) Nr. 1282/2011 (ABl. L 328 vom 10.12.2011, S. 22) geändert worden ist, verstößt, indem er
+gegen die Verordnung (EU) Nr. 10/2011 der Kommission vom 14. Januar 2011 über Materialien und Gegenstände aus Kunststoff, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. L 12 vom 15.1.2011, S. 1, L 278 vom 25.10.2011, S. 13), die zuletzt durch die Verordnung (EU) Nr. 202/2014 (ABl. L 62 vom 4.3.2014, S. 13) geändert worden ist, verstößt, indem er
 
 a)  
 entgegen Artikel 4 Buchstabe e in Verbindung mit Artikel 5 Absatz 1 oder Artikel 9 Absatz 1 Buchstabe c, jeweils auch in Verbindung mit Artikel 13 Absatz 1 oder Artikel 14 Absatz 1, ein Material oder einen Gegenstand aus Kunststoff in Verkehr bringt oder
@@ -2647,7 +2614,7 @@ entgegen § 8 Absatz 1 Nummer 2 in Verbindung mit einer Rechtsverordnung nach Ab
 entgegen § 9 Absatz 1 Satz 1 Nummer 1 in Verbindung mit einer Rechtsverordnung nach Absatz 2 Nummer 1 Buchstabe a oder entgegen § 9 Absatz 1 Satz 1 Nummer 2 oder Nummer 3 ein Lebensmittel in den Verkehr bringt,
 
 7.  
-entgegen § 11 Absatz 1 Satz 1 ein Lebensmittel unter einer irreführenden Bezeichnung, Angabe oder Aufmachung in den Verkehr bringt oder mit einer irreführenden Darstellung oder Aussage wirbt,
+entgegen § 11 Absatz 1 ein Lebensmittel in den Verkehr bringt oder für ein Lebensmittel wirbt,
 
 8.  
 entgegen § 11 Absatz 2 Nummer 1 ein Lebensmittel in den Verkehr bringt,
@@ -2734,10 +2701,10 @@ d)
 entgegen Artikel 20 Absatz 1 Satz 1 ein Verfahren nicht, nicht vollständig oder nicht rechtzeitig einleitet, um ein Futtermittel für Tiere, die der Lebensmittelgewinnung dienen, vom Markt zu nehmen,
 
 2.  
-entgegen Artikel 19 der Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom 16.3.2005, S. 1), die zuletzt durch die Verordnung (EU) Nr. 592/2012 (ABl. L 176 vom 6.7.2012, S. 1) geändert worden ist, ein Erzeugnis, soweit es sich dabei um ein Lebensmittel handelt, verarbeitet oder mit einem anderen Erzeugnis, soweit es sich dabei um ein Lebensmittel handelt, mischt,
+entgegen Artikel 19 der Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom 16.3.2005, S. 1), die zuletzt durch die Verordnung (EU) Nr. 398/2014 (ABl. L 119 vom 23.4.2014, S. 3) geändert worden ist, ein Erzeugnis, soweit es sich dabei um ein Lebensmittel handelt, verarbeitet oder mit einem anderen Erzeugnis, soweit es sich dabei um ein Lebensmittel handelt, mischt,
 
 3.  
-gegen die Verordnung (EG) Nr. 1924/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 über nährwert- und gesundheitsbezogene Angaben über Lebensmittel (ABl. L 404 vom 30.12.2006, S. 9, L 12 vom 18.1.2007, S. 3, L 86 vom 28.3.2008, S. 34), die zuletzt durch die Verordnung (EU) Nr. 116/2010 (ABl. L 37 vom 10.2.2010, S. 16) geändert worden ist, verstößt, indem er entgegen Artikel 3 Unterabsatz 1 in Verbindung mit
+gegen die Verordnung (EG) Nr. 1924/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 über nährwert- und gesundheitsbezogene Angaben über Lebensmittel (ABl. L 404 vom 30.12.2006, S. 9, L 12 vom 18.1.2007, S. 3, L 86 vom 28.3.2008, S. 34, L 198 vom 30.7.2009, S. 87, L 160 vom 12.6.2013, S. 15), die zuletzt durch die Verordnung (EU) Nr. 1047/2012 (ABl. L 310 vom 9.11.2012, S. 36) geändert worden ist, verstößt, indem er entgegen Artikel 3 Unterabsatz 1 in Verbindung mit
 
 a)  
 Artikel 3 Unterabsatz 2 Buchstabe a bis c, d Satz 1 oder Buchstabe e,
@@ -2763,10 +2730,10 @@ Artikel 12
 eine nährwert- oder gesundheitsbezogene Angabe bei der Kennzeichnung oder Aufmachung eines Lebensmittels oder bei der Werbung verwendet,
 
 4.  
-entgegen Artikel 4 der Verordnung (EG) Nr. 1332/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelenzyme und zur Änderung der Richtlinie 83/417/EWG des Rates, der Verordnung (EG) Nr. 1493/1999 des Rates, der Richtlinie 2000/13/EG des Rates sowie der Verordnung (EG) Nr. 258/97 (ABl. L 354 vom 31.12.2008, S. 7) ein Lebensmittelenzym als solches in den Verkehr bringt oder in Lebensmitteln verwendet,
+entgegen Artikel 4 der Verordnung (EG) Nr. 1332/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelenzyme und zur Änderung der Richtlinie 83/417/EWG des Rates, der Verordnung (EG) Nr. 1493/1999 des Rates, der Richtlinie 2000/13/EG des Rates sowie der Verordnung (EG) Nr. 258/97 (ABl. L 354 vom 31.12.2008, S. 7), die durch die Verordnung (EU) Nr. 1056/2012 (ABl. L 313 vom 13.11.2012, S. 9) geändert worden ist, ein Lebensmittelenzym als solches in den Verkehr bringt oder in Lebensmitteln verwendet,
 
 5.  
-gegen die Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16), die zuletzt durch die Verordnung (EU) Nr. 675/2012 (ABl. L 196 vom 24.7.2012, S. 52) geändert worden ist, verstößt, indem er
+gegen die Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16, L 105 vom 27.4.2010, S. 114, L 322 vom 21.11.2012, S. 8), die zuletzt durch die Verordnung (EU) Nr. 298/2014 (ABl. L 89 vom 25.3.2014, S. 36) geändert worden ist, verstößt, indem er
 
 a)  
 entgegen Artikel 4 Absatz 1 einen Lebensmittelzusatzstoff als solchen in den Verkehr bringt oder in Lebensmitteln verwendet,
@@ -2846,7 +2813,7 @@ bezeichneten Handlung fahrlässig begeht.
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 1.  
-entgegen § 12 Absatz 1 eine Aussage, einen Hinweis, eine Krankengeschichte, eine Äußerung Dritter, eine bildliche Darstellung, eine Schrift oder eine schriftliche Angabe verwendet,
+(weggefallen)
 
 2.  
 entgegen § 17 Absatz 2 Nummer 1 Futtermittel herstellt oder behandelt,
