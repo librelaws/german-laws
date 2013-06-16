@@ -2,7 +2,7 @@ Gesetz über die Tätigkeit europäischer Rechtsanwälte in Deutschland (EuRAG)
 ===========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 9 G v. 6.12.2011 I 2515
+Zuletzt geändert durch Art. 3 G v. 17.6.2013 I 1555
 
 ### 
 
@@ -474,7 +474,10 @@ Slowenien durch die Rechtsanwaltskammer Thüringen in Erfurt,
 Bulgarien durch die Rechtsanwaltskammer Berlin in Berlin,
 
 17.  
-Rumänien durch die Rechtsanwaltskammer Frankfurt am Main in Frankfurt am Main.
+Rumänien durch die Rechtsanwaltskammer Frankfurt am Main in Frankfurt am Main,
+
+18.  
+Kroatien durch die Rechtsanwaltskammer Tübingen in Tübingen.
 
 ### § 33 Anwaltsgerichtsbarkeit, Zustellungen
 
@@ -607,7 +610,7 @@ Teil 8 Übergangs- und Schlussbestimmungen
 
 (3) Die vor dem 1. September 2009 anhängigen gerichtlichen Verfahren in verwaltungsrechtlichen Anwaltssachen nach diesem Gesetz werden nach den bis zu diesem Tag geltenden Bestimmungen fortgeführt.
 
-### Anlage zu § 1 Rechtsanwaltsberufe in Mitgliedstaaten der Europäischen Union, anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz
+### Anlage zu § 1Rechtsanwaltsberufe in Mitgliedstaaten der Europäischen Union, anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2075;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -625,6 +628,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 | - in Irland:                     | Barrister/Solicitor                                                   |
 | - in Island:                     | Lögmaur                                                               |
 | - in Italien:                    | Avvocato                                                              |
+| - in Kroatien:                   | Odvjetnik                                                             |
 | - in Lettland:                   | Zverinats advokats                                                    |
 | - in Liechtenstein:              | Rechtsanwalt                                                          |
 | - in Litauen:                    | Advokatas                                                             |
