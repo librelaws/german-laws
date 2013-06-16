@@ -2,10 +2,7 @@ Sozialgesetzbuch (SGB) Drittes Buch (III) - Arbeitsförderung - (Artikel 1 des G
 ============================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 5 G v. 17.6.2013 I 1555
-
-Hinweis  
-Änderung durch Art. 9 G v. 17.6.2013 I 1555 (Nr. 29) noch nicht berücksichtigt
+Zuletzt geändert Art. 9 G v. 17.6.2013 I 1555
 
 ### 
 
@@ -3107,7 +3104,7 @@ erfolgsbezogene Pauschalen bei Vermittlung von Teilnehmenden in eine betrieblich
 auf der Grundlage eines Vertrags im Sinne des § 26 des Berufsbildungsgesetzes mit der oder dem Auszubildenden durchgeführt wird,
 
 2.  
-auf einen anerkannten Ausbildungsberuf im Sinne des § 4 Absatz 1 des Berufsbildungsgesetzes, § 25 Absatz 1 Satz 1 der Handwerksordnung, des Seemannsgesetzes oder des Altenpflegegesetzes vorbereitet und
+auf einen anerkannten Ausbildungsberuf im Sinne des § 4 Absatz 1 des Berufsbildungsgesetzes, § 25 Absatz 1 Satz 1 der Handwerksordnung, des Seearbeitsgesetzes oder des Altenpflegegesetzes vorbereitet und
 
 3.  
 in Vollzeit oder wegen der Erziehung eigener Kinder oder der Pflege von Familienangehörigen in Teilzeit von mindestens 20 Wochenstunden durchgeführt wird.
@@ -3162,7 +3159,7 @@ ihnen die erforderlichen Mittel zur Deckung des Bedarfs für den Lebensunterhalt
 
 ### § 57 Förderungsfähige Berufsausbildung
 
-(1) Eine Berufsausbildung ist förderungsfähig, wenn sie in einem nach dem Berufsbildungsgesetz, der Handwerksordnung oder dem Seemannsgesetz staatlich anerkannten Ausbildungsberuf betrieblich oder außerbetrieblich oder nach dem Altenpflegegesetz betrieblich durchgeführt wird und der dafür vorgeschriebene Berufsausbildungsvertrag abgeschlossen worden ist.
+(1) Eine Berufsausbildung ist förderungsfähig, wenn sie in einem nach dem Berufsbildungsgesetz, der Handwerksordnung oder dem Seearbeitsgesetz staatlich anerkannten Ausbildungsberuf betrieblich oder außerbetrieblich oder nach dem Altenpflegegesetz betrieblich durchgeführt wird und der dafür vorgeschriebene Berufsausbildungsvertrag abgeschlossen worden ist.
 
 (2) Förderungsfähig ist die erste Berufsausbildung. Eine zweite Berufsausbildung kann gefördert werden, wenn zu erwarten ist, dass eine berufliche Eingliederung dauerhaft auf andere Weise nicht erreicht werden kann und durch die zweite Berufsausbildung die berufliche Eingliederung erreicht wird.
 
@@ -5734,7 +5731,7 @@ Erster Unterabschnitt Beschäftigung von Ausländerinnen und Ausländern
 
 ### § 284 Arbeitsgenehmigung-EU für Staatsangehörige der neuen EU-Mitgliedstaaten
 
-(1) Staatsangehörige der Staaten, die nach dem Vertrag vom 25. April 2005 über den Beitritt der Republik Bulgarien und Rumäniens zur Europäischen Union (BGBl. 2006 II S. 1146, 1148) der Europäischen Union beigetreten sind, und deren freizügigkeitsberechtigte Familienangehörige dürfen eine Beschäftigung nur mit Genehmigung der Bundesagentur ausüben und von Arbeitgebern nur beschäftigt werden, wenn sie eine solche Genehmigung besitzen, soweit nach Maßgabe des EU-Beitrittsvertrags abweichende Regelungen als Übergangsregelungen der Arbeitnehmerfreizügigkeit anzuwenden sind.
+(1) Staatsangehörige der Staaten, die nach dem Vertrag vom 25. April 2005 über den Beitritt der Republik Bulgarien und Rumäniens zur Europäischen Union (BGBl. 2006 II S. 1146, 1148) der Europäischen Union beigetreten sind, und deren freizügigkeitsberechtigte Familienangehörige dürfen eine Beschäftigung nur mit Genehmigung der Bundesagentur ausüben und von Arbeitgebern nur beschäftigt werden, wenn sie eine solche Genehmigung besitzen, soweit nach Maßgabe des EU-Beitrittsvertrags abweichende Regelungen als Übergangsregelungen der Arbeitnehmerfreizügigkeit anzuwenden sind. Dies gilt für kroatische Staatsangehörige entsprechend, soweit für sie nach Maßgabe des Vertrages vom 9. Dezember 2011 über den Beitritt der Republik Kroatien zur Europäischen Union (BGBl. 2013 II S. 586) abweichende Regelungen als Übergangsregelungen von der Arbeitnehmerfreizügigkeit anzuwenden sind.
 
 (2) Die Genehmigung wird befristet als Arbeitserlaubnis-EU erteilt, wenn nicht Anspruch auf eine unbefristete Erteilung als Arbeitsberechtigung-EU besteht. Die Genehmigung ist vor Aufnahme der Beschäftigung einzuholen.
 
@@ -5747,6 +5744,8 @@ Erster Unterabschnitt Beschäftigung von Ausländerinnen und Ausländern
 (6) Das Aufenthaltsgesetz und die aufgrund des § 42 des Aufenthaltsgesetzes erlassenen Rechtsverordnungen zum Arbeitsmarktzugang gelten entsprechend, soweit sie für die Ausländerinnen und Ausländer nach Absatz 1 günstigere Regelungen enthalten. Bei Anwendung der Vorschriften steht die Arbeitsgenehmigung-EU der Zustimmung zu einem Aufenthaltstitel nach § 4 Abs. 3 des Aufenthaltsgesetzes gleich.
 
 (7) Ein vor dem Tag, an dem der Vertrag vom 25. April 2005 über den Beitritt der Republik Bulgarien und Rumäniens zur Europäischen Union (BGBl. 2006 II S. 1146) für die Bundesrepublik Deutschland in Kraft getreten ist, zur Ausübung der Beschäftigung eines Staatsangehörigen nach Absatz 1 erteilter Aufenthaltstitel zur Ausübung einer Beschäftigung gilt als Arbeitserlaubnis-EU fort, wobei Beschränkungen des Aufenthaltstitels hinsichtlich der Beschäftigungsbedingungen als Beschränkungen der Arbeitserlaubnis-EU bestehen bleiben. Ein vor diesem Zeitpunkt erteilter Aufenthaltstitel, der zur unbeschränkten Ausübung einer Beschäftigung berechtigt, gilt als Arbeitsberechtigung-EU fort.
+
+(8) Ein vor dem Tag, an dem der Vertrag vom 9. Dezember 2011 über den Beitritt der Republik Kroatien zur Europäischen Union (BGBl. 2013 II S. 586) für die Bundesrepublik Deutschland in Kraft getreten ist, erteilter Aufenthaltstitel zur Ausübung einer Beschäftigung gilt als Arbeitserlaubnis-EU fort, wobei Beschränkungen des Aufenthaltstitels hinsichtlich der Ausübung der Beschäftigung als Beschränkungen der Arbeitserlaubnis-EU bestehen bleiben. Ein vor diesem Zeitpunkt erteilter Aufenthaltstitel, der zur unbeschränkten Ausübung einer Beschäftigung berechtigt, gilt als Arbeitsberechtigung-EU fort.
 
 ### (XXXX) §§ 285 u. 286 (weggefallen)
 
