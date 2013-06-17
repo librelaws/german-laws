@@ -2,12 +2,12 @@ Verhaltensregeln für Mitglieder des Deutschen Bundestages (Anlage 1 der Geschä
 =========================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Bek. v. 12. 7.2005 I 2512 iVm Bek. v. 18.10.2005 I 3007
+Zuletzt geändert durch Beschluss d. Bundestages v. 14.3.2013 gem. Bek. v. 18.6.2013 I 1644
 
 ### 
 
 ```
-(+++ Textnachweis ab:  1.10.1980 +++)
+(+++ Textnachweis ab: 1.10.1980 +++)
 (+++ Text der Geschäftsordnung siehe: BTGO 1980 +++)
 ```
 
@@ -30,7 +30,7 @@ Tätigkeiten als Mitglied eines Vorstandes, Aufsichtsrates, Verwaltungsrates, Be
 (2) Ein Mitglied des Bundestages ist zusätzlich verpflichtet, dem Präsidenten schriftlich die folgenden Tätigkeiten und Verträge, die während der Mitgliedschaft im Bundestag ausgeübt oder aufgenommen werden bzw. wirksam sind, anzuzeigen:
 
 1.  
-entgeltliche Tätigkeiten neben dem Mandat, die selbstständig oder im Rahmen eines Anstellungsverhältnisses ausgeübt werden. Darunter fallen z. B. die Fortsetzung einer vor der Mitgliedschaft ausgeübten Berufstätigkeit sowie Beratungs-, Vertretungs-, Gutachter-, publizistische und Vortragstätigkeiten. Die Anzeigepflicht für die Erstattung von Gutachten, für publizistische und Vortragstätigkeiten entfällt, wenn die Höhe der jeweils vereinbarten Einkünfte den Betrag von 1.000 Euro im Monat oder von 10.000 Euro im Jahr nicht übersteigt;
+entgeltliche Tätigkeiten neben dem Mandat, die selbstständig oder im Rahmen eines Anstellungsverhältnisses ausgeübt werden. Darunter fallen z. B. die Fortsetzung einer vor der Mitgliedschaft ausgeübten Berufstätigkeit sowie Beratungs-, Vertretungs-, Gutachter-, publizistische und Vortragstätigkeiten. Die Anzeigepflicht für die Erstattung von Gutachten, für publizistische und Vortragstätigkeiten entfällt, wenn die Höhe der jeweils vereinbarten Einkünfte den Betrag von 1 000 Euro im Monat oder von 10 000 Euro im Jahr nicht übersteigt. Sie entfällt ferner für die Tätigkeit als Mitglied der Bundesregierung, als Parlamentarischer Staatssekretär und als Staatsminister;
 
 2.  
 Tätigkeiten als Mitglied eines Vorstandes, Aufsichtsrates, Verwaltungsrates, Beirates oder sonstigen Gremiums einer Gesellschaft oder eines in einer anderen Rechtsform betriebenen Unternehmens;
@@ -48,9 +48,9 @@ das Bestehen bzw. der Abschluss von Vereinbarungen, wonach dem Mitglied des Bund
 Beteiligungen an Kapital- oder Personengesellschaften, wenn dadurch ein wesentlicher wirtschaftlicher Einfluss auf ein Unternehmen begründet wird. Die Grenzen der Anzeigepflicht legt der Präsident in den gemäß Absatz 4 zu erlassenden Ausführungsbestimmungen fest.
 
 7.  
-bis 9 (weggefallen)
+bis 9. (weggefallen)
 
-(3) Bei einer Tätigkeit und einem Vertrag, die gemäß Absatz 2 Nr. 1 bis 5 anzeigepflichtig sind, ist auch die Höhe der jeweiligen Einkünfte anzugeben, wenn diese im Monat den Betrag von 1.000 Euro oder im Jahr den Betrag von 10.000 Euro übersteigen. Zu Grunde zu legen sind hierbei die für eine Tätigkeit zu zahlenden Bruttobeträge unter Einschluss von Entschädigungs-, Ausgleichs- und Sachleistungen.
+(3) Bei einer Tätigkeit und einem Vertrag, die gemäß Absatz 2 Nr. 1 bis 5 anzeigepflichtig sind, ist auch die Höhe der jeweiligen Einkünfte anzugeben, wenn diese im Monat den Betrag von 1 000 Euro oder im Jahr den Betrag von 10 000 Euro übersteigen. Zu Grunde zu legen sind hierbei die für eine Tätigkeit zu zahlenden Bruttobeträge unter Einschluss von Entschädigungs-, Ausgleichs- und Sachleistungen.
 
 (4) Der Präsident erlässt Ausführungsbestimmungen über Inhalt und Umfang der Anzeigepflicht, nachdem er dem Präsidium und den Fraktionsvorsitzenden Gelegenheit zur Stellungnahme gegeben hat.
 
@@ -68,27 +68,31 @@ bis 9 (weggefallen)
 
 ### § 3 Veröffentlichung
 
-Die Angaben gemäß § 1 Abs. 1 Nr. 1 und Abs. 2 Nr. 1 bis 6 werden im Amtlichen Handbuch und auf den Internetseiten des Deutschen Bundestages veröffentlicht. Die Angaben gemäß § 1 Abs. 3 über Einkünfte werden in der Form veröffentlicht, dass bezogen auf jeden einzelnen veröffentlichten Sachverhalt jeweils eine von drei Einkommensstufen ausgewiesen wird. Die Stufe 1 erfasst einmalige oder regelmäßige monatliche Einkünfte einer Größenordnung von 1.000 bis 3.500 Euro, die Stufe 2 Einkünfte bis 7.000 Euro und die Stufe 3 Einkünfte über 7.000 Euro. Regelmäßige monatliche Einkünfte werden als solche gekennzeichnet. Werden innerhalb eines Kalenderjahres unregelmäßige Einkünfte zu einer Tätigkeit angezeigt, wird die Jahressumme gebildet und die Einkommensstufe mit der Jahreszahl veröffentlicht.
+Die Angaben gemäß § 1 Abs. 1 Nr. 1 und Abs. 2 Nr. 1 bis 6 werden im Amtlichen Handbuch und auf den Internetseiten des Deutschen Bundestages veröffentlicht. Die Angaben gemäß § 1 Abs. 3 über Einkünfte werden in der Form veröffentlicht, dass bezogen auf jeden einzelnen veröffentlichten Sachverhalt jeweils eine von zehn Einkommensstufen ausgewiesen wird. Die Stufe 1 erfasst einmalige oder regelmäßige monatliche Einkünfte einer Größenordnung von 1 000 bis 3 500 Euro, die Stufe 2 Einkünfte bis 7 000 Euro, die Stufe 3 Einkünfte bis 15 000 Euro, die Stufe 4 Einkünfte bis 30 000 Euro, die Stufe 5 Einkünfte bis 50 000 Euro, die Stufe 6 Einkünfte bis 75 000 Euro, die Stufe 7 Einkünfte bis 100 000 Euro, die Stufe 8 Einkünfte bis 150 000 Euro, die Stufe 9 Einkünfte bis 250 000 Euro und die Stufe 10 Einkünfte über 250 000 Euro. Regelmäßige monatliche Einkünfte werden als solche gekennzeichnet. Werden innerhalb eines Kalenderjahres unregelmäßige Einkünfte zu einer Tätigkeit angezeigt, wird die Jahressumme gebildet und die Einkommensstufe mit der Jahreszahl veröffentlicht.
 
 ### § 4 Spenden
 
 (1) Ein Mitglied des Bundestages hat über Geldspenden und geldwerte Zuwendungen aller Art (Spenden), die ihm für seine politische Tätigkeit zur Verfügung gestellt werden, gesondert Rechnung zu führen.
 
-(2) Eine Spende, deren Wert in einem Kalenderjahr 5.000 Euro übersteigt, ist unter Angabe des Namens und der Anschrift des Spenders sowie der Gesamthöhe dem Präsidenten anzuzeigen.
+(2) Eine Spende, deren Wert in einem Kalenderjahr 5 000 Euro übersteigt, ist unter Angabe des Namens und der Anschrift des Spenders sowie der Gesamthöhe dem Präsidenten anzuzeigen.
 
-(3) Spenden sind, soweit sie in einem Kalenderjahr einzeln oder bei mehreren Spenden desselben Spenders zusammen den Wert von 10.000 Euro übersteigen, vom Präsidenten unter Angabe ihrer Höhe und Herkunft zu veröffentlichen.
+(3) Spenden sind, soweit sie in einem Kalenderjahr einzeln oder bei mehreren Spenden desselben Spenders zusammen den Wert von 10 000 Euro übersteigen, vom Präsidenten unter Angabe ihrer Höhe und Herkunft im Amtlichen Handbuch und auf den Internetseiten des Deutschen Bundestages zu veröffentlichen.
 
-(4) Für Geldspenden an ein Mitglied des Bundestages findet § 25 Abs. 2 und 4 des Gesetzes über die politischen Parteien entsprechende Anwendung.
+(4) Für Spenden an ein Mitglied des Bundestages findet § 25 Abs. 2 und 4 des Gesetzes über die politischen Parteien entsprechende Anwendung.
 
-(5) Geldwerte Zuwendungen sind wie Geldspenden zu behandeln mit der folgenden Maßgabe:
+(5) Geldwerte Zuwendungen
 
-a)  
-Geldwerte Zuwendungen aus Anlaß der Wahrnehmung interparlamentarischer oder internationaler Beziehungen oder zur Teilnahme an Veranstaltungen zur Darstellung der Standpunkte des Deutschen Bundestages oder seiner Fraktionen gelten nicht als Spenden im Sinne dieser Vorschrift; sie sind jedoch entsprechend Absatz 2 anzuzeigen.
+1.  
+aus Anlass der Wahrnehmung interparlamentarischer oder internationaler Beziehungen,
 
-b)  
-Geldwerte Zuwendungen, die ein Mitglied des Bundestages als Gastgeschenk in bezug auf sein Mandat erhält, müssen dem Präsidenten angezeigt und ausgehändigt werden; das Mitglied kann beantragen, das Gastgeschenk gegen Bezahlung des Gegenwertes an die Bundeskasse zu behalten. Einer Anzeige bedarf es nicht, wenn der materielle Wert des Gastgeschenks einen Betrag nicht übersteigt, der in den Ausführungsbestimmungen des Präsidenten festgelegt wird (§ 1 Abs. 4).
+2.  
+zur Teilnahme an Veranstaltungen zur politischen Information, zur Darstellung der Standpunkte des Deutschen Bundestages oder seiner Fraktionen oder als Repräsentant des Deutschen Bundestages
 
-(6) Der Präsident entscheidet im Benehmen mit dem Präsidium über die Verwendung angezeigter Gastgeschenke und rechtswidrig angenommener Spenden.
+gelten nicht als Spenden im Sinne dieser Vorschrift; sie sind jedoch entsprechend Absatz 2 anzuzeigen und nach Maßgabe von Absatz 3 zu veröffentlichen.
+
+(6) Geldwerte Zuwendungen, die ein Mitglied des Bundestages als Gastgeschenk in Bezug auf sein Mandat erhält, müssen dem Präsidenten angezeigt und ausgehändigt werden; das Mitglied kann beantragen, das Gastgeschenk gegen Bezahlung des Gegenwertes an die Bundeskasse zu behalten. Einer Anzeige bedarf es nicht, wenn der materielle Wert des Gastgeschenks einen Betrag nicht übersteigt, der in den Ausführungsbestimmungen des Präsidenten festgelegt wird (§ 1 Absatz 4).
+
+(7) Der Präsident entscheidet im Benehmen mit dem Präsidium über die Verwendung angezeigter Gastgeschenke und rechtswidrig angenommener Spenden.
 
 ### § 5 Hinweise auf Mitgliedschaft
 
