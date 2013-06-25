@@ -21,228 +21,275 @@ Das G wurde als Artikel 1 G 703-4/1 v. 26.8.1998 I 2521 (WettbewGÄndG 6) vom Bu
 
 ### Inhaltsübersicht
 
-|               |
-|---------------|
-| Erster Teil   |
-|               |
-|               |
-|               |
-| § 1           |
-| § 2           |
-| § 3           |
-| §§ 4 bis 17   |
-|               |
-|               |
-| § 18          |
-| § 19          |
-| § 20          |
-| § 21          |
-|               |
-|               |
-| § 22          |
-| § 23          |
-|               |
-|               |
-| § 24          |
-| § 25          |
-| § 26          |
-| § 27          |
-|               |
-|               |
-| § 28          |
-| § 29          |
-| § 30          |
-| § 31          |
-| § 31a         |
-| § 31b         |
-|               |
-|               |
-| § 32          |
-| § 32a         |
-| § 32b         |
-| § 32c         |
-| § 32d         |
-| § 32e         |
-| § 33          |
-| § 34          |
-| § 34a         |
-|               |
-|               |
-| § 35          |
-| § 36          |
-| § 37          |
-| § 38          |
-| § 39          |
-| § 40          |
-| § 41          |
-| § 42          |
-| § 43          |
-|               |
-|               |
-| § 44          |
-| § 45          |
-| § 46          |
-| § 47          |
-|               |
-|               |
-|               |
-| § 47a         |
-| § 47b         |
-| § 47c         |
-| § 47d         |
-| § 47e         |
-| § 47f         |
-| § 47g         |
-| § 47h         |
-| § 47i         |
-| § 47j         |
-|               |
-| § 47k         |
-|               |
-| § 47l         |
-| Zweiter Teil  |
-|               |
-|               |
-|               |
-| § 48          |
-| § 49          |
-| § 50          |
-| § 50a         |
-| § 50b         |
-| § 50c         |
-|               |
-|               |
-| § 51          |
-| § 52          |
-| § 53          |
-| Dritter Teil  |
-|               |
-|               |
-|               |
-|               |
-| § 54          |
-| § 55          |
-| § 56          |
-| § 57          |
-| § 58          |
-| § 59          |
-| § 60          |
-| § 61          |
-| § 62          |
-|               |
-| § 63          |
-| § 64          |
-| § 65          |
-| § 66          |
-| § 67          |
-| § 68          |
-| § 69          |
-| § 70          |
-| § 71          |
-| § 71a         |
-| § 72          |
-| § 73          |
-|               |
-| § 74          |
-| § 75          |
-| § 76          |
-|               |
-| § 77          |
-| § 78          |
-| § 78a         |
-| § 79          |
-| § 80          |
-|               |
-|               |
-| § 81          |
-| § 81a         |
-| § 82          |
-| § 82a         |
-| § 83          |
-| § 84          |
-| § 85          |
-| § 86          |
-|               |
-|               |
-| § 86a         |
-|               |
-|               |
-| § 87          |
-| § 88          |
-| § 89          |
-| § 89a         |
-|               |
-|               |
-| § 90          |
-| § 90a         |
-| § 91          |
-| § 92          |
-| § 93          |
-| § 94          |
-| § 95          |
-| § 96          |
-| Vierter Teil  |
-|               |
-|               |
-|               |
-| § 97          |
-| § 98          |
-| § 99          |
-| § 100         |
-| § 100a        |
-| § 100b        |
-| § 100c        |
-| § 101         |
-| § 101a        |
-| § 101b        |
-|               |
-|               |
-|               |
-| § 102         |
-| § 103         |
-| § 104         |
-| § 105         |
-| § 106         |
-| § 106a        |
-|               |
-| § 107         |
-| § 108         |
-| § 109         |
-| § 110         |
-| § 110a        |
-| § 111         |
-| § 112         |
-| § 113         |
-| § 114         |
-| § 115         |
-| § 115a        |
-|               |
-| § 116         |
-| § 117         |
-| § 118         |
-| § 119         |
-| § 120         |
-| § 121         |
-| § 122         |
-| § 123         |
-| § 124         |
-|               |
-|               |
-| § 125         |
-| § 126         |
-| § 127         |
-| § 127a        |
-| § 128         |
-| § 129         |
-| § 129a        |
-| § 129b        |
-| Fünfter Teil  |
-|               |
-| § 130         |
-| Sechster Teil |
-|               |
-| § 131         |
-| Anlage        |
+|              |
+|--------------|
+| Erster Teil  |
+|              |
+|              |
+|              |
+| § 1          |
+| § 2          |
+| § 3          |
+| §§ 4 bis 17  |
+|              |
+|              |
+| § 18         |
+| § 19         |
+| § 20         |
+| § 21         |
+|              |
+|              |
+| § 22         |
+| § 23         |
+|              |
+|              |
+| § 24         |
+| § 25         |
+| § 26         |
+| § 27         |
+|              |
+|              |
+| § 28         |
+| § 29         |
+| § 30         |
+| § 31         |
+| § 31a        |
+| § 31b        |
+|              |
+|              |
+| § 32         |
+| § 32a        |
+| § 32b        |
+| § 32c        |
+| § 32d        |
+| § 32e        |
+| § 33         |
+| § 34         |
+| § 34a        |
+|              |
+|              |
+| § 35         |
+| § 36         |
+| § 37         |
+| § 38         |
+| § 39         |
+| § 40         |
+| § 41         |
+| § 42         |
+| § 43         |
+|              |
+|              |
+| § 44         |
+| § 45         |
+| § 46         |
+| § 47         |
+|              |
+|              |
+|              |
+| § 47a        |
+| § 47b        |
+| § 47c        |
+| § 47d        |
+| § 47e        |
+| § 47f        |
+| § 47g        |
+| § 47h        |
+| § 47i        |
+| § 47j        |
+|              |
+| § 47k        |
+|              |
+| § 47l        |
+| Zweiter Teil |
+|              |
+|              |
+|              |
+| § 48         |
+| § 49         |
+| § 50         |
+| § 50a        |
+| § 50b        |
+| § 50c        |
+|              |
+|              |
+| § 51         |
+| § 52         |
+| § 53         |
+| Dritter Teil |
+|              |
+|              |
+|              |
+|              |
+| § 54         |
+| § 55         |
+| § 56         |
+| § 57         |
+| § 58         |
+| § 59         |
+| § 60         |
+| § 61         |
+| § 62         |
+|              |
+| § 63         |
+| § 64         |
+| § 65         |
+| § 66         |
+| § 67         |
+| § 68         |
+| § 69         |
+| § 70         |
+| § 71         |
+| § 71a        |
+| § 72         |
+| § 73         |
+|              |
+| § 74         |
+| § 75         |
+| § 76         |
+|              |
+| § 77         |
+| § 78         |
+| § 78a        |
+| § 79         |
+| § 80         |
+|              |
+|              |
+| § 81         |
+| § 81a        |
+| § 82         |
+| § 82a        |
+| § 83         |
+| § 84         |
+| § 85         |
+| § 86         |
+|              |
+|              |
+| § 86a        |
+|              |
+|              |
+| § 87         |
+| § 88         |
+| § 89         |
+| § 89a        |
+|              |
+|              |
+| § 90         |
+| § 90a        |
+| § 91         |
+| § 92         |
+| § 93         |
+| § 94         |
+| § 95         |
+| § 96         |
+| Teil 4       |
+|              |
+|              |
+|              |
+| § 97         |
+| § 98         |
+| § 99         |
+| § 100        |
+| § 101        |
+| § 102        |
+| § 103        |
+| § 104        |
+| § 105        |
+| § 106        |
+| § 107        |
+| § 108        |
+| § 109        |
+| § 110        |
+| § 111        |
+| § 112        |
+| § 113        |
+| § 114        |
+|              |
+|              |
+| § 115        |
+| § 116        |
+| § 117        |
+| § 118        |
+|              |
+| § 119        |
+| § 120        |
+| § 121        |
+| § 122        |
+| § 123        |
+| § 124        |
+| § 125        |
+| § 126        |
+| § 127        |
+| § 128        |
+| § 129        |
+| § 130        |
+| § 131        |
+| § 132        |
+| § 133        |
+| § 134        |
+| § 135        |
+|              |
+|              |
+| § 136        |
+| § 137        |
+| § 138        |
+| § 139        |
+| § 140        |
+| § 141        |
+| § 142        |
+| § 143        |
+|              |
+| § 144        |
+| § 145        |
+| § 146        |
+| § 147        |
+|              |
+| § 148        |
+| § 149        |
+| § 150        |
+| § 151        |
+| § 152        |
+| § 153        |
+| § 154        |
+|              |
+|              |
+| § 155        |
+| § 156        |
+| § 157        |
+| § 158        |
+| § 159        |
+|              |
+| § 160        |
+| § 161        |
+| § 162        |
+| § 163        |
+| § 164        |
+| § 165        |
+| § 166        |
+| § 167        |
+| § 168        |
+| § 169        |
+| § 170        |
+|              |
+| § 171        |
+| § 172        |
+| § 173        |
+| § 174        |
+| § 175        |
+| § 176        |
+| § 177        |
+| § 178        |
+| § 179        |
+| § 180        |
+| § 181        |
+| § 182        |
+| § 183        |
+| § 184        |
+| Teil 5       |
+|              |
+| § 185        |
+| Teil 6       |
+|              |
+| § 186        |
 
 Erster Teil Wettbewerbsbeschränkungen
 -------------------------------------
@@ -2365,87 +2412,205 @@ Die Zuständigkeit der nach diesem Gesetz zur Entscheidung berufenen Gerichte is
 
 ### § 96 (weggefallen)
 
-Vierter Teil Vergabe öffentlicher Aufträge
-------------------------------------------
+Teil 4 Vergabe von öffentlichen Aufträgen und Konzessionen
+----------------------------------------------------------
 
 ### 
 
-Erster Abschnitt Vergabeverfahren
----------------------------------
+Kapitel 1 Vergabeverfahren
+--------------------------
 
 ### 
 
-### § 97 Allgemeine Grundsätze
+Abschnitt 1 Grundsätze, Definitionen und Anwendungsbereich
+----------------------------------------------------------
 
-(1) Öffentliche Auftraggeber beschaffen Waren, Bau- und Dienstleistungen nach Maßgabe der folgenden Vorschriften im Wettbewerb und im Wege transparenter Vergabeverfahren.
+### 
 
-(2) Die Teilnehmer an einem Vergabeverfahren sind gleich zu behandeln, es sei denn, eine Benachteiligung ist auf Grund dieses Gesetzes ausdrücklich geboten oder gestattet.
+### § 97 Grundsätze der Vergabe
 
-(3) Mittelständische Interessen sind bei der Vergabe öffentlicher Aufträge vornehmlich zu berücksichtigen. Leistungen sind in der Menge aufgeteilt (Teillose) und getrennt nach Art oder Fachgebiet (Fachlose) zu vergeben. Mehrere Teil- oder Fachlose dürfen zusammen vergeben werden, wenn wirtschaftliche oder technische Gründe dies erfordern. Wird ein Unternehmen, das nicht öffentlicher Auftraggeber ist, mit der Wahrnehmung oder Durchführung einer öffentlichen Aufgabe betraut, verpflichtet der Auftraggeber das Unternehmen, sofern es Unteraufträge an Dritte vergibt, nach den Sätzen 1 bis 3 zu verfahren.
+(1) Öffentliche Aufträge und Konzessionen werden im Wettbewerb und im Wege transparenter Verfahren vergeben. Dabei werden die Grundsätze der Wirtschaftlichkeit und der Verhältnismäßigkeit gewahrt.
 
-(4) Aufträge werden an fachkundige, leistungsfähige sowie gesetzestreue und zuverlässige Unternehmen vergeben. Für die Auftragsausführung können zusätzliche Anforderungen an Auftragnehmer gestellt werden, die insbesondere soziale, umweltbezogene oder innovative Aspekte betreffen, wenn sie im sachlichen Zusammenhang mit dem Auftragsgegenstand stehen und sich aus der Leistungsbeschreibung ergeben. Andere oder weitergehende Anforderungen dürfen an Auftragnehmer nur gestellt werden, wenn dies durch Bundes- oder Landesgesetz vorgesehen ist.
+(2) Die Teilnehmer an einem Vergabeverfahren sind gleich zu behandeln, es sei denn, eine Ungleichbehandlung ist aufgrund dieses Gesetzes ausdrücklich geboten oder gestattet.
 
-(4a) Auftraggeber können Präqualifikationssysteme einrichten oder zulassen, mit denen die Eignung von Unternehmen nachgewiesen werden kann.
+(3) Bei der Vergabe werden Aspekte der Qualität und der Innovation sowie soziale und umweltbezogene Aspekte nach Maßgabe dieses Teils berücksichtigt.
 
-(5) Der Zuschlag wird auf das wirtschaftlichste Angebot erteilt.
+(4) Mittelständische Interessen sind bei der Vergabe öffentlicher Aufträge vornehmlich zu berücksichtigen. Leistungen sind in der Menge aufgeteilt (Teillose) und getrennt nach Art oder Fachgebiet (Fachlose) zu vergeben. Mehrere Teil- oder Fachlose dürfen zusammen vergeben werden, wenn wirtschaftliche oder technische Gründe dies erfordern. Wird ein Unternehmen, das nicht öffentlicher Auftraggeber oder Sektorenauftraggeber ist, mit der Wahrnehmung oder Durchführung einer öffentlichen Aufgabe betraut, verpflichtet der öffentliche Auftraggeber oder Sektorenauftraggeber das Unternehmen, sofern es Unteraufträge vergibt, nach den Sätzen 1 bis 3 zu verfahren.
 
-(6) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen über das bei der Vergabe einzuhaltende Verfahren zu treffen, insbesondere über die Bekanntmachung, den Ablauf und die Arten der Vergabe, über die Auswahl und Prüfung der Unternehmen und Angebote, über den Abschluss des Vertrages und sonstige Fragen des Vergabeverfahrens.
+(5) Für das Senden, Empfangen, Weiterleiten und Speichern von Daten in einem Vergabeverfahren verwenden Auftraggeber und Unternehmen grundsätzlich elektronische Mittel nach Maßgabe der aufgrund des § 113 erlassenen Verordnungen.
 
-(7) Die Unternehmen haben Anspruch darauf, dass der Auftraggeber die Bestimmungen über das Vergabeverfahren einhält.
+(6) Unternehmen haben Anspruch darauf, dass die Bestimmungen über das Vergabeverfahren eingehalten werden.
 
 ### § 98 Auftraggeber
 
-Öffentliche Auftraggeber im Sinne dieses Teils sind:
+Auftraggeber im Sinne dieses Teils sind öffentliche Auftraggeber im Sinne des § 99, Sektorenauftraggeber im Sinne des § 100 und Konzessionsgeber im Sinne des § 101.
+
+### § 99 Öffentliche Auftraggeber
+
+Öffentliche Auftraggeber sind
 
 1.  
 Gebietskörperschaften sowie deren Sondervermögen,
 
 2.  
-andere juristische Personen des öffentlichen und des privaten Rechts, die zu dem besonderen Zweck gegründet wurden, im Allgemeininteresse liegende Aufgaben nichtgewerblicher Art zu erfüllen, wenn Stellen, die unter Nummer 1 oder 3 fallen, sie einzeln oder gemeinsam durch Beteiligung oder auf sonstige Weise überwiegend finanzieren oder über ihre Leitung die Aufsicht ausüben oder mehr als die Hälfte der Mitglieder eines ihrer zur Geschäftsführung oder zur Aufsicht berufenen Organe bestimmt haben. Das Gleiche gilt dann, wenn die Stelle, die einzeln oder gemeinsam mit anderen die überwiegende Finanzierung gewährt oder die Mehrheit der Mitglieder eines zur Geschäftsführung oder Aufsicht berufenen Organs bestimmt hat, unter Satz 1 fällt,
+andere juristische Personen des öffentlichen und des privaten Rechts, die zu dem besonderen Zweck gegründet wurden, im Allgemeininteresse liegende Aufgaben nichtgewerblicher Art zu erfüllen, sofern
+
+a)  
+sie überwiegend von Stellen nach Nummer 1 oder 3 einzeln oder gemeinsam durch Beteiligung oder auf sonstige Weise finanziert werden,
+
+b)  
+ihre Leitung der Aufsicht durch Stellen nach Nummer 1 oder 3 unterliegt oder
+
+c)  
+mehr als die Hälfte der Mitglieder eines ihrer zur Geschäftsführung oder zur Aufsicht berufenen Organe durch Stellen nach Nummer 1 oder 3 bestimmt worden sind;
+
+dasselbe gilt, wenn diese juristische Person einer anderen juristischen Person des öffentlichen oder privaten Rechts einzeln oder gemeinsam mit anderen die überwiegende Finanzierung gewährt, über deren Leitung die Aufsicht ausübt oder die Mehrheit der Mitglieder eines zur Geschäftsführung oder Aufsicht berufenen Organs bestimmt hat,
 
 3.  
 Verbände, deren Mitglieder unter Nummer 1 oder 2 fallen,
 
 4.  
-natürliche oder juristische Personen des privaten Rechts, die auf dem Gebiet der Trinkwasser- oder Energieversorgung oder des Verkehrs tätig sind, wenn diese Tätigkeiten auf der Grundlage von besonderen oder ausschließlichen Rechten ausgeübt werden, die von einer zuständigen Behörde gewährt wurden, oder wenn Auftraggeber, die unter Nummern 1 bis 3 fallen, auf diese Personen einzeln oder gemeinsam einen beherrschenden Einfluss ausüben können; besondere oder ausschließliche Rechte sind Rechte, die dazu führen, dass die Ausübung dieser Tätigkeiten einem oder mehreren Unternehmen vorbehalten wird und dass die Möglichkeit anderer Unternehmen, diese Tätigkeit auszuüben, erheblich beeinträchtigt wird. Tätigkeiten auf dem Gebiet der Trinkwasser- und Energieversorgung sowie des Verkehrs sind solche, die in der Anlage aufgeführt sind,
+natürliche oder juristische Personen des privaten Rechts sowie juristische Personen des öffentlichen Rechts, soweit sie nicht unter Nummer 2 fallen, in den Fällen, in denen sie für Tiefbaumaßnahmen, für die Errichtung von Krankenhäusern, Sport-, Erholungs- oder Freizeiteinrichtungen, Schul-, Hochschul- oder Verwaltungsgebäuden oder für damit in Verbindung stehende Dienstleistungen und Wettbewerbe von Stellen, die unter die Nummern 1, 2 oder 3 fallen, Mittel erhalten, mit denen diese Vorhaben zu mehr als 50 Prozent subventioniert werden.
 
-5.  
-natürliche oder juristische Personen des privaten Rechts sowie juristische Personen des öffentlichen Rechts, soweit sie nicht unter Nummer 2 fallen, in den Fällen, in denen sie für Tiefbaumaßnahmen, für die Errichtung von Krankenhäusern, Sport-, Erholungs- oder Freizeiteinrichtungen, Schul-, Hochschul- oder Verwaltungsgebäuden oder für damit in Verbindung stehende Dienstleistungen und Auslobungsverfahren von Stellen, die unter Nummern 1 bis 3 fallen, Mittel erhalten, mit denen diese Vorhaben zu mehr als 50 vom Hundert finanziert werden,
+### § 100 Sektorenauftraggeber
 
-6.  
-natürliche oder juristische Personen des privaten Rechts, die mit Stellen, die unter die Nummern 1 bis 3 fallen, einen Vertrag über eine Baukonzession abgeschlossen haben, hinsichtlich der Aufträge an Dritte.
-
-### § 99 Öffentliche Aufträge
-
-(1) Öffentliche Aufträge sind entgeltliche Verträge von öffentlichen Auftraggebern mit Unternehmen über die Beschaffung von Leistungen, die Liefer-, Bau- oder Dienstleistungen zum Gegenstand haben, Baukonzessionen und Auslobungsverfahren, die zu Dienstleistungsaufträgen führen sollen.
-
-(2) Lieferaufträge sind Verträge zur Beschaffung von Waren, die insbesondere Kauf oder Ratenkauf oder Leasing, Miet- oder Pachtverhältnisse mit oder ohne Kaufoption betreffen. Die Verträge können auch Nebenleistungen umfassen.
-
-(3) Bauaufträge sind Verträge über die Ausführung oder die gleichzeitige Planung und Ausführung eines Bauvorhabens oder eines Bauwerkes für den öffentlichen Auftraggeber, das Ergebnis von Tief- oder Hochbauarbeiten ist und eine wirtschaftliche oder technische Funktion erfüllen soll, oder einer dem Auftraggeber unmittelbar wirtschaftlich zugutekommenden Bauleistung durch Dritte gemäß den vom Auftraggeber genannten Erfordernissen.
-
-(4) Als Dienstleistungsaufträge gelten die Verträge über die Erbringung von Leistungen, die nicht unter Absatz 2 oder Absatz 3 fallen.
-
-(5) Auslobungsverfahren im Sinne dieses Teils sind nur solche Auslobungsverfahren, die dem Auftraggeber auf Grund vergleichender Beurteilung durch ein Preisgericht mit oder ohne Verteilung von Preisen zu einem Plan verhelfen sollen.
-
-(6) Eine Baukonzession ist ein Vertrag über die Durchführung eines Bauauftrags, bei dem die Gegenleistung für die Bauarbeiten statt in einem Entgelt in dem befristeten Recht auf Nutzung der baulichen Anlage, gegebenenfalls zuzüglich der Zahlung eines Preises besteht.
-
-(7) Verteidigungs- oder sicherheitsrelevante Aufträge sind Aufträge, deren Auftragsgegenstand mindestens eine der in den nachfolgenden Nummern 1 bis 4 genannten Leistungen umfasst:
+(1) Sektorenauftraggeber sind
 
 1.  
-die Lieferung von Militärausrüstung im Sinne des Absatzes 8, einschließlich dazugehöriger Teile, Bauteile oder Bausätze;
+öffentliche Auftraggeber gemäß § 99 Nummer 1 bis 3, die eine Sektorentätigkeit gemäß § 102 ausüben,
 
 2.  
-die Lieferung von Ausrüstung, die im Rahmen eines Verschlusssachenauftrags im Sinne des Absatzes 9 vergeben wird, einschließlich der dazugehörigen Teile, Bauteile oder Bausätze;
+natürliche oder juristische Personen des privaten Rechts, die eine Sektorentätigkeit gemäß § 102 ausüben, wenn
+
+a)  
+diese Tätigkeit auf der Grundlage von besonderen oder ausschließlichen Rechten ausgeübt wird, die von einer zuständigen Behörde gewährt wurden, oder
+
+b)  
+öffentliche Auftraggeber gemäß § 99 Nummer 1 bis 3 auf diese Personen einzeln oder gemeinsam einen beherrschenden Einfluss ausüben können.
+
+(2) Besondere oder ausschließliche Rechte im Sinne von Absatz 1 Nummer 2 Buchstabe a sind Rechte, die dazu führen, dass die Ausübung dieser Tätigkeit einem oder mehreren Unternehmen vorbehalten wird und dass die Möglichkeit anderer Unternehmen, diese Tätigkeit auszuüben, erheblich beeinträchtigt wird. Keine besonderen oder ausschließlichen Rechte in diesem Sinne sind Rechte, die aufgrund eines Verfahrens nach den Vorschriften dieses Teils oder aufgrund eines sonstigen Verfahrens gewährt wurden, das angemessen bekannt gemacht wurde und auf objektiven Kriterien beruht.
+
+(3) Die Ausübung eines beherrschenden Einflusses im Sinne von Absatz 1 Nummer 2 Buchstabe b wird vermutet, wenn ein öffentlicher Auftraggeber gemäß § 99 Nummer 1 bis 3
+
+1.  
+unmittelbar oder mittelbar die Mehrheit des gezeichneten Kapitals des Unternehmens besitzt,
+
+2.  
+über die Mehrheit der mit den Anteilen am Unternehmen verbundenen Stimmrechte verfügt oder
 
 3.  
-Bauleistungen, Lieferungen und Dienstleistungen in unmittelbarem Zusammenhang mit der in den Nummern 1 und 2 genannten Ausrüstung in allen Phasen des Lebenszyklus der Ausrüstung;
+mehr als die Hälfte der Mitglieder des Verwaltungs-, Leitungs- oder Aufsichtsorgans des Unternehmens bestellen kann.
+
+### § 101 Konzessionsgeber
+
+(1) Konzessionsgeber sind
+
+1.  
+öffentliche Auftraggeber gemäß § 99 Nummer 1 bis 3, die eine Konzession vergeben,
+
+2.  
+Sektorenauftraggeber gemäß § 100 Absatz 1 Nummer 1, die eine Sektorentätigkeit gemäß § 102 Absatz 2 bis 6 ausüben und eine Konzession zum Zweck der Ausübung dieser Tätigkeit vergeben,
+
+3.  
+Sektorenauftraggeber gemäß § 100 Absatz 1 Nummer 2, die eine Sektorentätigkeit gemäß § 102 Absatz 2 bis 6 ausüben und eine Konzession zum Zweck der Ausübung dieser Tätigkeit vergeben.
+
+(2) § 100 Absatz 2 und 3 gilt entsprechend.
+
+### § 102 Sektorentätigkeiten
+
+(1) Sektorentätigkeiten im Bereich Wasser sind
+
+1.  
+die Bereitstellung oder das Betreiben fester Netze zur Versorgung der Allgemeinheit im Zusammenhang mit der Gewinnung, der Fortleitung und der Abgabe von Trinkwasser,
+
+2.  
+die Einspeisung von Trinkwasser in diese Netze.
+
+Als Sektorentätigkeiten gelten auch Tätigkeiten nach Satz 1, die im Zusammenhang mit Wasserbau-, Bewässerungs- oder Entwässerungsvorhaben stehen, sofern die zur Trinkwasserversorgung bestimmte Wassermenge mehr als 20 Prozent der Gesamtwassermenge ausmacht, die mit den entsprechenden Vorhaben oder Bewässerungs- oder Entwässerungsanlagen zur Verfügung gestellt wird oder die im Zusammenhang mit der Abwasserbeseitigung oder -behandlung steht. Die Einspeisung von Trinkwasser in feste Netze zur Versorgung der Allgemeinheit durch einen Sektorenauftraggeber nach § 100 Absatz 1 Nummer 2 gilt nicht als Sektorentätigkeit, sofern die Erzeugung von Trinkwasser durch den betreffenden Auftraggeber erfolgt, weil dessen Verbrauch für die Ausübung einer Tätigkeit erforderlich ist, die keine Sektorentätigkeit nach den Absätzen 1 bis 4 ist, und die Einspeisung in das öffentliche Netz nur von dem Eigenverbrauch des betreffenden Auftraggebers abhängt und bei Zugrundelegung des Durchschnitts der letzten drei Jahre einschließlich des laufenden Jahres nicht mehr als 30 Prozent der gesamten Trinkwassererzeugung des betreffenden Auftraggebers ausmacht.
+
+(2) Sektorentätigkeiten im Bereich Elektrizität sind
+
+1.  
+die Bereitstellung oder das Betreiben fester Netze zur Versorgung der Allgemeinheit im Zusammenhang mit der Erzeugung, der Fortleitung und der Abgabe von Elektrizität,
+
+2.  
+die Einspeisung von Elektrizität in diese Netze, es sei denn,
+
+a)  
+die Elektrizität wird durch den Sektorenauftraggeber nach § 100 Absatz 1 Nummer 2 erzeugt, weil ihr Verbrauch für die Ausübung einer Tätigkeit erforderlich ist, die keine Sektorentätigkeit nach den Absätzen 1 bis 4 ist, und
+
+b)  
+die Einspeisung hängt nur von dem Eigenverbrauch des Sektorenauftraggebers ab und macht bei Zugrundelegung des Durchschnitts der letzten drei Jahre einschließlich des laufenden Jahres nicht mehr als 30 Prozent der gesamten Energieerzeugung des Sektorenauftraggebers aus.
+
+(3) Sektorentätigkeiten im Bereich von Gas und Wärme sind
+
+1.  
+die Bereitstellung oder das Betreiben fester Netze zur Versorgung der Allgemeinheit im Zusammenhang mit der Erzeugung, der Fortleitung und der Abgabe von Gas und Wärme,
+
+2.  
+die Einspeisung von Gas und Wärme in diese Netze, es sei denn,
+
+a)  
+die Erzeugung von Gas oder Wärme durch den Sektorenauftraggeber nach § 100 Absatz 1 Nummer 2 ergibt sich zwangsläufig aus der Ausübung einer Tätigkeit, die keine Sektorentätigkeit nach den Absätzen 1 bis 4 ist, und
+
+b)  
+die Einspeisung zielt nur darauf ab, diese Erzeugung wirtschaftlich zu nutzen und macht bei Zugrundelegung des Durchschnitts der letzten drei Jahre einschließlich des laufenden Jahres nicht mehr als 20 Prozent des Umsatzes des Sektorenauftraggebers aus.
+
+(4) Sektorentätigkeiten im Bereich Verkehrsleistungen sind die Bereitstellung oder das Betreiben von Netzen zur Versorgung der Allgemeinheit mit Verkehrsleistungen per Eisenbahn, automatischen Systemen, Straßenbahn, Trolleybus, Bus oder Seilbahn; ein Netz gilt als vorhanden, wenn die Verkehrsleistung gemäß den von einer zuständigen Behörde festgelegten Bedingungen erbracht wird; dazu gehören die Festlegung der Strecken, die Transportkapazitäten und die Fahrpläne.
+
+(5) Sektorentätigkeiten im Bereich Häfen und Flughäfen sind Tätigkeiten im Zusammenhang mit der Nutzung eines geografisch abgegrenzten Gebiets mit dem Zweck, für Luft-, See- oder Binnenschifffahrtsverkehrsunternehmen Flughäfen, See- oder Binnenhäfen oder andere Terminaleinrichtungen bereitzustellen.
+
+(6) Sektorentätigkeiten im Bereich fossiler Brennstoffe sind Tätigkeiten zur Nutzung eines geografisch abgegrenzten Gebiets zum Zweck
+
+1.  
+der Förderung von Öl oder Gas oder
+
+2.  
+der Exploration oder Förderung von Kohle oder anderen festen Brennstoffen.
+
+(7) Für die Zwecke der Absätze 1 bis 3 umfasst der Begriff „Einspeisung“ die Erzeugung und Produktion sowie den Groß- und Einzelhandel. Die Erzeugung von Gas fällt unter Absatz 6.
+
+### § 103 Öffentliche Aufträge, Rahmenvereinbarungen und Wettbewerbe
+
+(1) Öffentliche Aufträge sind entgeltliche Verträge zwischen öffentlichen Auftraggebern oder Sektorenauftraggebern und Unternehmen über die Beschaffung von Leistungen, die die Lieferung von Waren, die Ausführung von Bauleistungen oder die Erbringung von Dienstleistungen zum Gegenstand haben.
+
+(2) Lieferaufträge sind Verträge zur Beschaffung von Waren, die insbesondere Kauf oder Ratenkauf oder Leasing, Mietverhältnisse oder Pachtverhältnisse mit oder ohne Kaufoption betreffen. Die Verträge können auch Nebenleistungen umfassen.
+
+(3) Bauaufträge sind Verträge über die Ausführung oder die gleichzeitige Planung und Ausführung
+
+1.  
+von Bauleistungen im Zusammenhang mit einer der Tätigkeiten, die in Anhang II der Richtlinie 2014/24/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 über die öffentliche Auftragsvergabe und zur Aufhebung der Richtlinie 2004/18/EG (ABl. L 94 vom 28.3.2014, S. 65) und Anhang I der Richtlinie 2014/25/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 über die Vergabe von Aufträgen durch Auftraggeber im Bereich der Wasser-, Energie- und Verkehrsversorgung sowie der Postdienste und zur Aufhebung der Richtlinie 2004/17/EG (ABl. L 94 vom 28.3.2014, S. 243) genannt sind, oder
+
+2.  
+eines Bauwerkes für den öffentlichen Auftraggeber oder Sektorenauftraggeber, das Ergebnis von Tief- oder Hochbauarbeiten ist und eine wirtschaftliche oder technische Funktion erfüllen soll.
+
+Ein Bauauftrag liegt auch vor, wenn ein Dritter eine Bauleistung gemäß den vom öffentlichen Auftraggeber oder Sektorenauftraggeber genannten Erfordernissen erbringt, die Bauleistung dem Auftraggeber unmittelbar wirtschaftlich zugutekommt und dieser einen entscheidenden Einfluss auf Art und Planung der Bauleistung hat.
+
+(4) Als Dienstleistungsaufträge gelten die Verträge über die Erbringung von Leistungen, die nicht unter die Absätze 2 und 3 fallen.
+
+(5) Rahmenvereinbarungen sind Vereinbarungen zwischen einem oder mehreren öffentlichen Auftraggebern oder Sektorenauftraggebern und einem oder mehreren Unternehmen, die dazu dienen, die Bedingungen für die öffentlichen Aufträge, die während eines bestimmten Zeitraums vergeben werden sollen, festzulegen, insbesondere in Bezug auf den Preis. Für die Vergabe von Rahmenvereinbarungen gelten, soweit nichts anderes bestimmt ist, dieselben Vorschriften wie für die Vergabe entsprechender öffentlicher Aufträge.
+
+(6) Wettbewerbe sind Auslobungsverfahren, die dem Auftraggeber aufgrund vergleichender Beurteilung durch ein Preisgericht mit oder ohne Verteilung von Preisen zu einem Plan oder einer Planung verhelfen sollen.
+
+### § 104 Verteidigungs- oder sicherheitsspezifische öffentliche Aufträge
+
+(1) Verteidigungs- oder sicherheitsspezifische öffentliche Aufträge sind öffentliche Aufträge, deren Auftragsgegenstand mindestens eine der folgenden Leistungen umfasst:
+
+1.  
+die Lieferung von Militärausrüstung, einschließlich dazugehöriger Teile, Bauteile oder Bausätze,
+
+2.  
+die Lieferung von Ausrüstung, die im Rahmen eines Verschlusssachenauftrags vergeben wird, einschließlich der dazugehörigen Teile, Bauteile oder Bausätze,
+
+3.  
+Liefer-, Bau- und Dienstleistungen in unmittelbarem Zusammenhang mit der in den Nummern 1 und 2 genannten Ausrüstung in allen Phasen des Lebenszyklus der Ausrüstung oder
 
 4.  
-Bau- und Dienstleistungen speziell für militärische Zwecke oder Bau- und Dienstleistungen, die im Rahmen eines Verschlusssachenauftrags im Sinne des Absatzes 9 vergeben wird.
+Bau- und Dienstleistungen speziell für militärische Zwecke oder Bau- und Dienstleistungen, die im Rahmen eines Verschlusssachenauftrags vergeben werden.
 
-(8) Militärausrüstung ist jede Ausrüstung, die eigens zu militärischen Zwecken konzipiert oder für militärische Zwecke angepasst wird und zum Einsatz als Waffe, Munition oder Kriegsmaterial bestimmt ist.
+(2) Militärausrüstung ist jede Ausrüstung, die eigens zu militärischen Zwecken konzipiert oder für militärische Zwecke angepasst wird und zum Einsatz als Waffe, Munition oder Kriegsmaterial bestimmt ist.
 
-(9) Ein Verschlusssachenauftrag ist ein Auftrag für Sicherheitszwecke,
+(3) Ein Verschlusssachenauftrag im Sinne dieser Vorschrift ist ein Auftrag im speziellen Bereich der nicht-militärischen Sicherheit, der ähnliche Merkmale aufweist und ebenso schutzbedürftig ist wie ein Auftrag über die Lieferung von Militärausrüstung im Sinne des Absatzes 1 Nummer 1 oder wie Bau- und Dienstleistungen speziell für militärische Zwecke im Sinne des Absatzes 1 Nummer 4, und
 
 1.  
 bei dessen Erfüllung oder Erbringung Verschlusssachen nach § 4 des Gesetzes über die Voraussetzungen und das Verfahren von Sicherheitsüberprüfungen des Bundes oder nach den entsprechenden Bestimmungen der Länder verwendet werden oder
@@ -2453,376 +2618,222 @@ bei dessen Erfüllung oder Erbringung Verschlusssachen nach § 4 des Gesetzes ü
 2.  
 der Verschlusssachen im Sinne der Nummer 1 erfordert oder beinhaltet.
 
-(10) Ein öffentlicher Auftrag, der sowohl den Einkauf von Waren als auch die Beschaffung von Dienstleistungen zum Gegenstand hat, gilt als Dienstleistungsauftrag, wenn der Wert der Dienstleistungen den Wert der Waren übersteigt. Ein öffentlicher Auftrag, der neben Dienstleistungen Bauleistungen umfasst, die im Verhältnis zum Hauptgegenstand Nebenarbeiten sind, gilt als Dienstleistungsauftrag.
+### § 105 Konzessionen
 
-(11) Für einen Auftrag zur Durchführung mehrerer Tätigkeiten gelten die Bestimmungen für die Tätigkeit, die den Hauptgegenstand darstellt.
-
-(12) Ist für einen Auftrag zur Durchführung von Tätigkeiten auf dem Gebiet der Trinkwasser- oder Energieversorgung, des Verkehrs oder des Bereichs der Auftraggeber nach dem Bundesberggesetz und von Tätigkeiten von Auftraggebern nach § 98 Nummer 1 bis 3 nicht feststellbar, welche Tätigkeit den Hauptgegenstand darstellt, ist der Auftrag nach den Bestimmungen zu vergeben, die für Auftraggeber nach § 98 Nummer 1 bis 3 gelten. Betrifft eine der Tätigkeiten, deren Durchführung der Auftrag bezweckt, sowohl eine Tätigkeit auf dem Gebiet der Trinkwasser- oder Energieversorgung, des Verkehrs oder des Bereichs der Auftraggeber nach dem Bundesberggesetz als auch eine Tätigkeit, die nicht in die Bereiche von Auftraggebern nach § 98 Nummer 1 bis 3 fällt, und ist nicht feststellbar, welche Tätigkeit den Hauptgegenstand darstellt, so ist der Auftrag nach denjenigen Bestimmungen zu vergeben, die für Auftraggeber mit einer Tätigkeit auf dem Gebiet der Trinkwasser- und Energieversorgung sowie des Verkehrs oder des Bundesberggesetzes gelten.
-
-(13) Ist bei einem Auftrag über Bauleistungen, Lieferungen oder Dienstleistungen ein Teil der Leistung verteidigungs- oder sicherheitsrelevant, wird dieser Auftrag einheitlich gemäß den Bestimmungen für verteidigungs- und sicherheitsrelevante Aufträge vergeben, sofern die Beschaffung in Form eines einheitlichen Auftrags aus objektiven Gründen gerechtfertigt ist. Ist bei einem Auftrag über Bauleistungen, Lieferungen oder Dienstleistungen ein Teil der Leistung verteidigungs- oder sicherheitsrelevant und fällt der andere Teil weder in diesen Bereich noch unter die Vergaberegeln der Sektorenverordnung oder der Vergabeverordnung, unterliegt die Vergabe dieses Auftrags nicht dem Vierten Teil dieses Gesetzes, sofern die Beschaffung in Form eines einheitlichen Auftrags aus objektiven Gründen gerechtfertigt ist.
-
-### § 100 Anwendungsbereich
-
-(1) Dieser Teil gilt für Aufträge, deren Auftragswert den jeweils festgelegten Schwellenwert erreicht oder überschreitet. Der Schwellenwert ergibt sich für Aufträge, die
+(1) Konzessionen sind entgeltliche Verträge, mit denen ein oder mehrere Konzessionsgeber ein oder mehrere Unternehmen
 
 1.  
-von Auftraggebern im Sinne des § 98 Nummer 1 bis 3, 5 und 6 vergeben werden und nicht unter Nummer 2 oder 3 fallen, aus § 2 der Vergabeverordnung,
+mit der Erbringung von Bauleistungen betrauen (Baukonzessionen); dabei besteht die Gegenleistung entweder allein in dem Recht zur Nutzung des Bauwerks oder in diesem Recht zuzüglich einer Zahlung; oder
 
 2.  
-von Auftraggebern im Sinne des § 98 Nummer 1 bis 4 vergeben werden und Tätigkeiten auf dem Gebiet des Verkehrs, der Trinkwasser- oder Energieversorgung umfassen, aus § 1 der Sektorenverordnung,
+mit der Erbringung und der Verwaltung von Dienstleistungen betrauen, die nicht in der Erbringung von Bauleistungen nach Nummer 1 bestehen (Dienstleistungskonzessionen); dabei besteht die Gegenleistung entweder allein in dem Recht zur Verwertung der Dienstleistungen oder in diesem Recht zuzüglich einer Zahlung.
+
+(2) In Abgrenzung zur Vergabe öffentlicher Aufträge geht bei der Vergabe einer Bau- oder Dienstleistungskonzession das Betriebsrisiko für die Nutzung des Bauwerks oder für die Verwertung der Dienstleistungen auf den Konzessionsnehmer über. Dies ist der Fall, wenn
+
+1.  
+unter normalen Betriebsbedingungen nicht gewährleistet ist, dass die Investitionsaufwendungen oder die Kosten für den Betrieb des Bauwerks oder die Erbringung der Dienstleistungen wieder erwirtschaftet werden können, und
+
+2.  
+der Konzessionsnehmer den Unwägbarkeiten des Marktes tatsächlich ausgesetzt ist, sodass potenzielle geschätzte Verluste des Konzessionsnehmers nicht vernachlässigbar sind.
+
+Das Betriebsrisiko kann ein Nachfrage- oder Angebotsrisiko sein.
+
+### § 106 Schwellenwerte
+
+(1) Dieser Teil gilt für die Vergabe von öffentlichen Aufträgen und Konzessionen sowie die Ausrichtung von Wettbewerben, deren geschätzter Auftrags- oder Vertragswert ohne Umsatzsteuer die jeweils festgelegten Schwellenwerte erreicht oder überschreitet. § 114 Absatz 2 bleibt unberührt.
+
+(2) Der jeweilige Schwellenwert ergibt sich
+
+1.  
+für öffentliche Aufträge und Wettbewerbe, die von öffentlichen Auftraggebern vergeben werden, aus Artikel 4 der Richtlinie 2014/24/EU in der jeweils geltenden Fassung; der sich hieraus für zentrale Regierungsbehörden ergebende Schwellenwert ist von allen obersten Bundesbehörden sowie allen oberen Bundesbehörden und vergleichbaren Bundeseinrichtungen anzuwenden,
+
+2.  
+für öffentliche Aufträge und Wettbewerbe, die von Sektorenauftraggebern zum Zweck der Ausübung einer Sektorentätigkeit vergeben werden, aus Artikel 15 der Richtlinie 2014/25/EU in der jeweils geltenden Fassung,
 
 3.  
-von Auftraggebern im Sinne des § 98 vergeben werden und verteidigungs- oder sicherheitsrelevant im Sinne des § 99 Absatz 7 sind, aus der nach § 127 Nummer 3 erlassenen Verordnung.
-
-(2) Dieser Teil gilt nicht für die in den Absätzen 3 bis 6 und 8 sowie die in den §§ 100a bis 100c genannten Fälle.
-
-(3) Dieser Teil gilt nicht für Arbeitsverträge.
-
-(4) Dieser Teil gilt nicht für die Vergabe von Aufträgen, die Folgendes zum Gegenstand haben:
-
-1.  
-Schiedsgerichts- und Schlichtungsleistungen oder
-
-2.  
-Forschungs- und Entwicklungsdienstleistungen, es sei denn, ihre Ergebnisse werden ausschließlich Eigentum des Auftraggebers für seinen Gebrauch bei der Ausübung seiner eigenen Tätigkeit und die Dienstleistung wird vollständig durch den Auftraggeber vergütet.
-
-(5) Dieser Teil gilt ungeachtet ihrer Finanzierung nicht für Verträge über
-
-1.  
-den Erwerb von Grundstücken oder vorhandenen Gebäuden oder anderem unbeweglichen Vermögen,
-
-2.  
-Mietverhältnisse für Grundstücke oder vorhandene Gebäude oder anderes unbewegliches Vermögen oder
-
-3.  
-Rechte an Grundstücken oder vorhandenen Gebäuden oder anderem unbeweglichen Vermögen.
-
-(6) Dieser Teil gilt nicht für die Vergabe von Aufträgen,
-
-1.  
-bei denen die Anwendung dieses Teils den Auftraggeber dazu zwingen würde, im Zusammenhang mit dem Vergabeverfahren oder der Auftragsausführung Auskünfte zu erteilen, deren Preisgabe seiner Ansicht nach wesentlichen Sicherheitsinteressen der Bundesrepublik Deutschland im Sinne des Artikels 346 Absatz 1 Buchstabe a des Vertrages über die Arbeitsweise der Europäischen Union widerspricht,
-
-2.  
-die dem Anwendungsbereich des Artikels 346 Absatz 1 Buchstabe b des Vertrages über die Arbeitsweise der Europäischen Union unterliegen.
-
-(7) Wesentliche Sicherheitsinteressen im Sinne des Absatzes 6, die die Nichtanwendung dieses Teils rechtfertigen, können betroffen sein beim Betrieb oder Einsatz der Streitkräfte, bei der Umsetzung von Maßnahmen der Terrorismusbekämpfung oder bei der Beschaffung von Informationstechnik oder Telekommunikationsanlagen.
-
-(8) Dieser Teil gilt nicht für die Vergabe von Aufträgen, die nicht nach § 99 Absatz 7 verteidigungs- oder sicherheitsrelevant sind und
-
-1.  
-in Übereinstimmung mit den inländischen Rechts- und Verwaltungsvorschriften für geheim erklärt werden,
-
-2.  
-deren Ausführung nach den in Nummer 1 genannten Vorschriften besondere Sicherheitsmaßnahmen erfordert,
-
-3.  
-bei denen die Nichtanwendung des Vergaberechts geboten ist zum Zweck des Einsatzes der Streitkräfte, zur Umsetzung von Maßnahmen der Terrorismusbekämpfung oder bei der Beschaffung von Informationstechnik oder Telekommunikationsanlagen zum Schutz wesentlicher nationaler Sicherheitsinteressen,
+für verteidigungs- oder sicherheitsspezifische öffentliche Aufträge aus Artikel 8 der Richtlinie 2009/81/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Koordinierung der Verfahren zur Vergabe bestimmter Bau-, Liefer- und Dienstleistungsaufträge in den Bereichen Verteidigung und Sicherheit und zur Änderung der Richtlinien 2004/17/EG und 2004/18/EG (ABl. L 216 vom 20.8.2009, S. 76) in der jeweils geltenden Fassung,
 
 4.  
-die vergeben werden auf Grund eines internationalen Abkommens zwischen der Bundesrepublik Deutschland und einem oder mehreren Staaten, die nicht Vertragsparteien des Übereinkommens über den Europäischen Wirtschaftsraum sind, für ein von den Unterzeichnerstaaten gemeinsam zu verwirklichendes und zu tragendes Projekt, für das andere Verfahrensregeln gelten,
+für Konzessionen aus Artikel 8 der Richtlinie 2014/23/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 über die Konzessionsvergabe (ABl. L 94 vom 28.3.2014, S. 1) in der jeweils geltenden Fassung.
+
+(3) Das Bundesministerium für Wirtschaft und Energie gibt die geltenden Schwellenwerte unverzüglich, nachdem sie im Amtsblatt der Europäischen Union veröffentlicht worden sind, im Bundesanzeiger bekannt.
+
+### § 107 Allgemeine Ausnahmen
+
+(1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen Aufträgen und Konzessionen
+
+1.  
+zu Schiedsgerichts- und Schlichtungsdienstleistungen,
+
+2.  
+für den Erwerb, die Miete oder die Pacht von Grundstücken, vorhandenen Gebäuden oder anderem unbeweglichem Vermögen sowie Rechten daran, ungeachtet ihrer Finanzierung,
+
+3.  
+zu Arbeitsverträgen,
+
+4.  
+zu Dienstleistungen des Katastrophenschutzes, des Zivilschutzes und der Gefahrenabwehr, die von gemeinnützigen Organisationen oder Vereinigungen erbracht werden und die unter die Referenznummern des Common Procurement Vocabulary 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75251120-7, 75252000-7, 75222000-8, 98113100-9 und 85143000-3 mit Ausnahme des Einsatzes von Krankenwagen zur Patientenbeförderung fallen; gemeinnützige Organisationen oder Vereinigungen im Sinne dieser Nummer sind insbesondere die Hilfsorganisationen, die nach Bundes- oder Landesrecht als Zivil- und Katastrophenschutzorganisationen anerkannt sind.
+
+(2) Dieser Teil ist ferner nicht auf öffentliche Aufträge und Konzessionen anzuwenden,
+
+1.  
+bei denen die Anwendung dieses Teils den Auftraggeber dazu zwingen würde, im Zusammenhang mit dem Vergabeverfahren oder der Auftragsausführung Auskünfte zu erteilen, deren Preisgabe seiner Ansicht nach wesentlichen Sicherheitsinteressen der Bundesrepublik Deutschland im Sinne des Artikels 346 Absatz 1 Buchstabe a des Vertrags über die Arbeitsweise der Europäischen Union widerspricht, oder
+
+2.  
+die dem Anwendungsbereich des Artikels 346 Absatz 1 Buchstabe b des Vertrags über die Arbeitsweise der Europäischen Union unterliegen.
+
+### § 108 Ausnahmen bei öffentlich-öffentlicher Zusammenarbeit
+
+(1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen Aufträgen, die von einem öffentlichen Auftraggeber im Sinne des § 99 Nummer 1 bis 3 an eine juristische Person des öffentlichen oder privaten Rechts vergeben werden, wenn
+
+1.  
+der öffentliche Auftraggeber über die juristische Person eine ähnliche Kontrolle wie über seine eigenen Dienststellen ausübt,
+
+2.  
+mehr als 80 Prozent der Tätigkeiten der juristischen Person der Ausführung von Aufgaben dienen, mit denen sie von dem öffentlichen Auftraggeber oder von einer anderen juristischen Person, die von diesem kontrolliert wird, betraut wurde, und
+
+3.  
+an der juristischen Person keine direkte private Kapitalbeteiligung besteht, mit Ausnahme nicht beherrschender Formen der privaten Kapitalbeteiligung und Formen der privaten Kapitalbeteiligung ohne Sperrminorität, die durch gesetzliche Bestimmungen vorgeschrieben sind und die keinen maßgeblichen Einfluss auf die kontrollierte juristische Person vermitteln.
+
+(2) Die Ausübung einer Kontrolle im Sinne von Absatz 1 Nummer 1 wird vermutet, wenn der öffentliche Auftraggeber einen ausschlaggebenden Einfluss auf die strategischen Ziele und die wesentlichen Entscheidungen der juristischen Person ausübt. Die Kontrolle kann auch durch eine andere juristische Person ausgeübt werden, die von dem öffentlichen Auftraggeber auf gleiche Weise kontrolliert wird.
+
+(3) Absatz 1 gilt auch für die Vergabe öffentlicher Aufträge, die von einer kontrollierten juristischen Person, die zugleich öffentlicher Auftraggeber im Sinne des § 99 Nummer 1 bis 3 ist, an den kontrollierenden öffentlichen Auftraggeber oder an eine von diesem öffentlichen Auftraggeber kontrollierte andere juristische Person vergeben werden. Voraussetzung ist, dass keine direkte private Kapitalbeteiligung an der juristischen Person besteht, die den öffentlichen Auftrag erhalten soll. Absatz 1 Nummer 3 zweiter Halbsatz gilt entsprechend.
+
+(4) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen Aufträgen, bei denen der öffentliche Auftraggeber im Sinne des § 99 Nummer 1 bis 3 über eine juristische Person des privaten oder öffentlichen Rechts zwar keine Kontrolle im Sinne des Absatzes 1 Nummer 1 ausübt, aber
+
+1.  
+der öffentliche Auftraggeber gemeinsam mit anderen öffentlichen Auftraggebern über die juristische Person eine ähnliche Kontrolle ausübt wie jeder der öffentlichen Auftraggeber über seine eigenen Dienststellen,
+
+2.  
+mehr als 80 Prozent der Tätigkeiten der juristischen Person der Ausführung von Aufgaben dienen, mit denen sie von den öffentlichen Auftraggebern oder von einer anderen juristischen Person, die von diesen Auftraggebern kontrolliert wird, betraut wurde, und
+
+3.  
+an der juristischen Person keine direkte private Kapitalbeteiligung besteht; Absatz 1 Nummer 3 zweiter Halbsatz gilt entsprechend.
+
+(5) Eine gemeinsame Kontrolle im Sinne von Absatz 4 Nummer 1 besteht, wenn
+
+1.  
+sich die beschlussfassenden Organe der juristischen Person aus Vertretern sämtlicher teilnehmender öffentlicher Auftraggeber zusammensetzen; ein einzelner Vertreter kann mehrere oder alle teilnehmenden öffentlichen Auftraggeber vertreten,
+
+2.  
+die öffentlichen Auftraggeber gemeinsam einen ausschlaggebenden Einfluss auf die strategischen Ziele und die wesentlichen Entscheidungen der juristischen Person ausüben können und
+
+3.  
+die juristische Person keine Interessen verfolgt, die den Interessen der öffentlichen Auftraggeber zuwiderlaufen.
+
+(6) Dieser Teil ist ferner nicht anzuwenden auf Verträge, die zwischen zwei oder mehreren öffentlichen Auftraggebern im Sinne des § 99 Nummer 1 bis 3 geschlossen werden, wenn
+
+1.  
+der Vertrag eine Zusammenarbeit zwischen den beteiligten öffentlichen Auftraggebern begründet oder erfüllt, um sicherzustellen, dass die von ihnen zu erbringenden öffentlichen Dienstleistungen im Hinblick auf die Erreichung gemeinsamer Ziele ausgeführt werden,
+
+2.  
+die Durchführung der Zusammenarbeit nach Nummer 1 ausschließlich durch Überlegungen im Zusammenhang mit dem öffentlichen Interesse bestimmt wird und
+
+3.  
+die öffentlichen Auftraggeber auf dem Markt weniger als 20 Prozent der Tätigkeiten erbringen, die durch die Zusammenarbeit nach Nummer 1 erfasst sind.
+
+(7) Zur Bestimmung des prozentualen Anteils nach Absatz 1 Nummer 2, Absatz 4 Nummer 2 und Absatz 6 Nummer 3 wird der durchschnittliche Gesamtumsatz der letzten drei Jahre vor Vergabe des öffentlichen Auftrags oder ein anderer geeigneter tätigkeitsgestützter Wert herangezogen. Ein geeigneter tätigkeitsgestützter Wert sind zum Beispiel die Kosten, die der juristischen Person oder dem öffentlichen Auftraggeber in dieser Zeit in Bezug auf Liefer-, Bau- und Dienstleistungen entstanden sind. Liegen für die letzten drei Jahre keine Angaben über den Umsatz oder einen geeigneten alternativen tätigkeitsgestützten Wert wie zum Beispiel Kosten vor oder sind sie nicht aussagekräftig, genügt es, wenn der tätigkeitsgestützte Wert insbesondere durch Prognosen über die Geschäftsentwicklung glaubhaft gemacht wird.
+
+(8) Die Absätze 1 bis 7 gelten entsprechend für Sektorenauftraggeber im Sinne des § 100 Absatz 1 Nummer 1 hinsichtlich der Vergabe von öffentlichen Aufträgen sowie für Konzessionsgeber im Sinne des § 101 Absatz 1 Nummer 1 und 2 hinsichtlich der Vergabe von Konzessionen.
+
+### § 109 Ausnahmen für Vergaben auf der Grundlage internationaler Verfahrensregeln
+
+(1) Dieser Teil ist nicht anzuwenden, wenn öffentliche Aufträge, Wettbewerbe oder Konzessionen
+
+1.  
+nach Vergabeverfahren zu vergeben oder durchzuführen sind, die festgelegt werden durch
+
+a)  
+ein Rechtsinstrument, das völkerrechtliche Verpflichtungen begründet, wie eine im Einklang mit den EU-Verträgen geschlossene internationale Übereinkunft oder Vereinbarung zwischen der Bundesrepublik Deutschland und einem oder mehreren Staaten, die nicht Vertragsparteien des Übereinkommens über den Europäischen Wirtschaftsraum sind, oder ihren Untereinheiten über Liefer-, Bau- oder Dienstleistungen für ein von den Unterzeichnern gemeinsam zu verwirklichendes oder zu nutzendes Projekt, oder
+
+b)  
+eine internationale Organisation oder
+
+2.  
+gemäß den Vergaberegeln einer internationalen Organisation oder internationalen Finanzierungseinrichtung bei vollständiger Finanzierung der öffentlichen Aufträge und Wettbewerbe durch diese Organisation oder Einrichtung zu vergeben sind; für den Fall einer überwiegenden Kofinanzierung öffentlicher Aufträge und Wettbewerbe durch eine internationale Organisation oder eine internationale Finanzierungseinrichtung einigen sich die Parteien auf die anwendbaren Vergabeverfahren.
+
+(2) Für verteidigungs- oder sicherheitsspezifische öffentliche Aufträge ist § 145 Nummer 7 und für Konzessionen in den Bereichen Verteidigung und Sicherheit ist § 150 Nummer 7 anzuwenden.
+
+### § 110 Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Leistungen zum Gegenstand haben
+
+(1) Öffentliche Aufträge, die verschiedene Leistungen wie Liefer-, Bau- oder Dienstleistungen zum Gegenstand haben, werden nach den Vorschriften vergeben, denen der Hauptgegenstand des Auftrags zuzuordnen ist. Dasselbe gilt für die Vergabe von Konzessionen, die sowohl Bau- als auch Dienstleistungen zum Gegenstand haben.
+
+(2) Der Hauptgegenstand öffentlicher Aufträge und Konzessionen, die
+
+1.  
+teilweise aus Dienstleistungen, die den Vorschriften zur Vergabe von öffentlichen Aufträgen über soziale und andere besondere Dienstleistungen im Sinne des § 130 oder Konzessionen über soziale und andere besondere Dienstleistungen im Sinne des § 153 unterfallen, und teilweise aus anderen Dienstleistungen bestehen oder
+
+2.  
+teilweise aus Lieferleistungen und teilweise aus Dienstleistungen bestehen,
+
+wird danach bestimmt, welcher geschätzte Wert der jeweiligen Liefer- oder Dienstleistungen am höchsten ist.
+
+### § 111 Vergabe von öffentlichen Aufträgen und Konzessionen, deren Teile unterschiedlichen rechtlichen Regelungen unterliegen
+
+(1) Sind die verschiedenen Teile eines öffentlichen Auftrags, die jeweils unterschiedlichen rechtlichen Regelungen unterliegen, objektiv trennbar, so dürfen getrennte Aufträge für jeden Teil oder darf ein Gesamtauftrag vergeben werden.
+
+(2) Werden getrennte Aufträge vergeben, so wird jeder einzelne Auftrag nach den Vorschriften vergeben, die auf seine Merkmale anzuwenden sind.
+
+(3) Wird ein Gesamtauftrag vergeben,
+
+1.  
+kann der Auftrag ohne Anwendung dieses Teils vergeben werden, wenn ein Teil des Auftrags die Voraussetzungen des § 107 Absatz 2 Nummer 1 oder 2 erfüllt und die Vergabe eines Gesamtauftrags aus objektiven Gründen gerechtfertigt ist,
+
+2.  
+kann der Auftrag nach den Vorschriften über die Vergabe von verteidigungs- oder sicherheitsspezifischen Aufträgen vergeben werden, wenn ein Teil des Auftrags diesen Vorschriften unterliegt und die Vergabe eines Gesamtauftrags aus objektiven Gründen gerechtfertigt ist,
+
+3.  
+sind die Vorschriften zur Vergabe von öffentlichen Aufträgen durch Sektorenauftraggeber anzuwenden, wenn ein Teil des Auftrags diesen Vorschriften unterliegt und der Wert dieses Teils den geltenden Schwellenwert erreicht oder überschreitet; dies gilt auch dann, wenn der andere Teil des Auftrags den Vorschriften über die Vergabe von Konzessionen unterliegt,
+
+4.  
+sind die Vorschriften zur Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber anzuwenden, wenn ein Teil des Auftrags den Vorschriften zur Vergabe von Konzessionen und ein anderer Teil des Auftrags den Vorschriften zur Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber unterliegt und wenn der Wert dieses Teils den geltenden Schwellenwert erreicht oder überschreitet,
 
 5.  
-die auf Grund eines internationalen Abkommens im Zusammenhang mit der Stationierung von Truppen vergeben werden und für die besondere Verfahrensregeln gelten oder
+sind die Vorschriften dieses Teils anzuwenden, wenn ein Teil des Auftrags den Vorschriften dieses Teils und ein anderer Teil des Auftrags sonstigen Vorschriften außerhalb dieses Teils unterliegt; dies gilt ungeachtet des Wertes des Teils, der sonstigen Vorschriften außerhalb dieses Teils unterliegen würde und ungeachtet ihrer rechtlichen Regelung.
 
-6.  
-die auf Grund des besonderen Verfahrens einer internationalen Organisation vergeben werden.
-
-### § 100a Besondere Ausnahmen für nicht sektorspezifische und nicht verteidigungs- und sicherheitsrelevante Aufträge
-
-(1) Im Fall des § 100 Absatz 1 Satz 2 Nummer 1 gilt dieser Teil über die in § 100 Absatz 3 bis 6 und 8 genannten Fälle hinaus auch nicht für die in den Absätzen 2 bis 4 genannten Aufträge.
-
-(2) Dieser Teil gilt nicht für die Vergabe von Aufträgen, die Folgendes zum Gegenstand haben:
+(4) Sind die verschiedenen Teile eines öffentlichen Auftrags, die jeweils unterschiedlichen rechtlichen Regelungen unterliegen, objektiv nicht trennbar,
 
 1.  
-den Kauf, die Entwicklung, die Produktion oder Koproduktion von Programmen, die zur Ausstrahlung durch Rundfunk- oder Fernsehanstalten bestimmt sind, sowie die Ausstrahlung von Sendungen oder
+wird der Auftrag nach den Vorschriften vergeben, denen der Hauptgegenstand des Auftrags zuzuordnen ist; enthält der Auftrag Elemente einer Dienstleistungskonzession und eines Lieferauftrags, wird der Hauptgegenstand danach bestimmt, welcher geschätzte Wert der jeweiligen Dienst- oder Lieferleistungen höher ist,
 
 2.  
-finanzielle Dienstleistungen im Zusammenhang mit Ausgabe, Verkauf, Ankauf oder Übertragung von Wertpapieren oder anderen Finanzinstrumenten, insbesondere Geschäfte, die der Geld- oder Kapitalbeschaffung der Auftraggeber dienen, sowie Dienstleistungen der Zentralbanken.
+kann der Auftrag ohne Anwendung der Vorschriften dieses Teils oder gemäß den Vorschriften über die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen vergeben werden, wenn der Auftrag Elemente enthält, auf die § 107 Absatz 2 Nummer 1 oder 2 anzuwenden ist.
 
-(3) Dieser Teil gilt nicht für die Vergabe von Dienstleistungsaufträgen an eine Person, die ihrerseits Auftraggeber nach § 98 Nummer 1, 2 oder 3 ist und ein auf Gesetz oder Verordnung beruhendes ausschließliches Recht hat, die Leistung zu erbringen.
+(5) Die Entscheidung, einen Gesamtauftrag oder getrennte Aufträge zu vergeben, darf nicht zu dem Zweck getroffen werden, die Auftragsvergabe von den Vorschriften zur Vergabe öffentlicher Aufträge und Konzessionen auszunehmen.
 
-(4) Dieser Teil gilt nicht für Aufträge, die hauptsächlich den Zweck haben, dem Auftraggeber die Bereitstellung oder den Betrieb öffentlicher Telekommunikationsnetze oder die Bereitstellung eines oder mehrerer Telekommunikationsdienste für die Öffentlichkeit zu ermöglichen.
+(6) Auf die Vergabe von Konzessionen sind die Absätze 1, 2 und 3 Nummer 1 und 2 sowie die Absätze 4 und 5 entsprechend anzuwenden.
 
-### § 100b Besondere Ausnahmen im Sektorenbereich
+### § 112 Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Tätigkeiten umfassen
 
-(1) Im Fall des § 100 Absatz 1 Satz 2 Nummer 2 gilt dieser Teil über die in § 100 Absatz 3 bis 6 und 8 genannten Fälle hinaus auch nicht für die in den Absätzen 2 bis 9 genannten Aufträge.
+(1) Umfasst ein öffentlicher Auftrag mehrere Tätigkeiten, von denen eine Tätigkeit eine Sektorentätigkeit im Sinne des § 102 darstellt, dürfen getrennte Aufträge für die Zwecke jeder einzelnen Tätigkeit oder darf ein Gesamtauftrag vergeben werden.
 
-(2) Dieser Teil gilt nicht für die Vergabe von Aufträgen, die Folgendes zum Gegenstand haben:
+(2) Werden getrennte Aufträge vergeben, so wird jeder einzelne Auftrag nach den Vorschriften vergeben, die auf seine Merkmale anzuwenden sind.
+
+(3) Wird ein Gesamtauftrag vergeben, unterliegt dieser Auftrag den Bestimmungen, die für die Tätigkeit gelten, für die der Auftrag hauptsächlich bestimmt ist. Ist der Auftrag sowohl für eine Sektorentätigkeit im Sinne des § 102 als auch für eine Tätigkeit bestimmt, die Verteidigungs- oder Sicherheitsaspekte umfasst, ist § 111 Absatz 3 Nummer 1 und 2 entsprechend anzuwenden.
+
+(4) Die Entscheidung, einen Gesamtauftrag oder getrennte Aufträge zu vergeben, darf nicht zu dem Zweck getroffen werden, die Auftragsvergabe von den Vorschriften dieses Teils auszunehmen.
+
+(5) Ist es objektiv unmöglich, festzustellen, für welche Tätigkeit der Auftrag hauptsächlich bestimmt ist, unterliegt die Vergabe
 
 1.  
-finanzielle Dienstleistungen im Zusammenhang mit Ausgabe, Verkauf, Ankauf oder Übertragung von Wertpapieren oder anderen Finanzinstrumenten, insbesondere Geschäfte, die der Geld- oder Kapitalbeschaffung der Auftraggeber dienen, sowie Dienstleistungen der Zentralbanken,
+den Vorschriften zur Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber, wenn eine der Tätigkeiten, für die der Auftrag bestimmt ist, unter diese Vorschriften fällt,
 
 2.  
-bei Tätigkeiten auf dem Gebiet der Trinkwasserversorgung die Beschaffung von Wasser oder
+den Vorschriften zur Vergabe von öffentlichen Aufträgen durch Sektorenauftraggeber, wenn der Auftrag sowohl für eine Sektorentätigkeit im Sinne des § 102 als auch für eine Tätigkeit bestimmt ist, die in den Anwendungsbereich der Vorschriften zur Vergabe von Konzessionen fallen würde,
 
 3.  
-bei Tätigkeiten auf dem Gebiet der Energieversorgung die Beschaffung von Energie oder von Brennstoffen zur Energieerzeugung.
+den Vorschriften zur Vergabe von öffentlichen Aufträgen durch Sektorenauftraggeber, wenn der Auftrag sowohl für eine Sektorentätigkeit im Sinne des § 102 als auch für eine Tätigkeit bestimmt ist, die weder in den Anwendungsbereich der Vorschriften zur Vergabe von Konzessionen noch in den Anwendungsbereich der Vorschriften zur Vergabe öffentlicher Aufträge durch öffentliche Auftraggeber fallen würde.
 
-(3) Dieser Teil gilt nicht für die Vergabe von Dienstleistungsaufträgen an eine Person, die ihrerseits Auftraggeber nach § 98 Nummer 1, 2 oder 3 ist und ein auf Gesetz oder Verordnung beruhendes ausschließliches Recht hat, die Leistung zu erbringen.
-
-(4) Dieser Teil gilt nicht für die Vergabe von Aufträgen, die
+(6) Umfasst eine Konzession mehrere Tätigkeiten, von denen eine Tätigkeit eine Sektorentätigkeit im Sinne des § 102 darstellt, sind die Absätze 1 bis 4 entsprechend anzuwenden. Ist es objektiv unmöglich, festzustellen, für welche Tätigkeit die Konzession hauptsächlich bestimmt ist, unterliegt die Vergabe
 
 1.  
-von Auftraggebern nach § 98 Nummer 4 vergeben werden, soweit sie anderen Zwecken dienen als der Sektorentätigkeit,
+den Vorschriften zur Vergabe von Konzessionen durch Konzessionsgeber im Sinne des § 101 Absatz 1 Nummer 1, wenn eine der Tätigkeiten, für die die Konzession bestimmt ist, diesen Bestimmungen und die andere Tätigkeit den Bestimmungen für die Vergabe von Konzessionen durch Konzessionsgeber im Sinne des § 101 Absatz 1 Nummer 2 oder Nummer 3 unterliegt,
 
 2.  
-zur Durchführung von Tätigkeiten auf dem Gebiet der Trinkwasser- oder Energieversorgung oder des Verkehrs außerhalb des Gebiets der Europäischen Union vergeben werden, wenn sie nicht mit der tatsächlichen Nutzung eines Netzes oder einer Anlage innerhalb dieses Gebietes verbunden sind,
+den Vorschriften zur Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber, wenn eine der Tätigkeiten, für die die Konzession bestimmt ist, unter diese Vorschriften fällt,
 
 3.  
-zum Zweck der Weiterveräußerung oder Vermietung an Dritte vergeben werden, wenn
-
-a)  
-dem Auftraggeber kein besonderes oder ausschließliches Recht zum Verkauf oder zur Vermietung des Auftragsgegenstandes zusteht und
-
-b)  
-andere Unternehmen die Möglichkeit haben, diese Waren unter gleichen Bedingungen wie der betreffende Auftraggeber zu verkaufen oder zu vermieten, oder
-
-4.  
-der Ausübung einer Tätigkeit auf dem Gebiet der Trinkwasser- oder Energieversorgung oder des Verkehrs dienen, soweit die Europäische Kommission nach Artikel 30 der Richtlinie 2004/17/EG des Europäischen Parlaments und des Rates vom 31. März 2004 zur Koordinierung der Zuschlagserteilung durch Auftraggeber im Bereich der Wasser-, Energie- und Verkehrsversorgung sowie der Postdienste (ABl. L 7 vom 7.1.2005, S. 7) festgestellt hat, dass diese Tätigkeit in Deutschland auf Märkten mit freiem Zugang unmittelbar dem Wettbewerb ausgesetzt ist und dies durch das Bundesministerium für Wirtschaft und Energie im Bundesanzeiger bekannt gemacht worden ist.
-
-(5) Dieser Teil gilt nicht für die Vergabe von Baukonzessionen zum Zweck der Durchführung von Tätigkeiten auf dem Gebiet der Trinkwasser- oder Energieversorgung oder des Verkehrs.
-
-(6) Dieser Teil gilt vorbehaltlich des Absatzes 7 nicht für die Vergabe von Aufträgen,
-
-1.  
-die an ein Unternehmen, das mit dem Auftraggeber verbunden ist, vergeben werden oder
-
-2.  
-die von einem gemeinsamen Unternehmen, das mehrere Auftraggeber, die auf dem Gebiet der Trinkwasser- oder Energieversorgung oder des Verkehrs tätig sind, ausschließlich zur Durchführung dieser Tätigkeiten gebildet haben, an ein Unternehmen vergeben werden, das mit einem dieser Auftraggeber verbunden ist.
-
-(7) Absatz 6 gilt nur, wenn mindestens 80 Prozent des von dem verbundenen Unternehmen während der letzten drei Jahre in der Europäischen Union erzielten durchschnittlichen Umsatzes im entsprechenden Liefer- oder Bau- oder Dienstleistungssektor aus der Erbringung dieser Lieferungen oder Leistungen für die mit ihm verbundenen Auftraggeber stammen. Sofern das Unternehmen noch keine drei Jahre besteht, gilt Absatz 6, wenn zu erwarten ist, dass in den ersten drei Jahren seines Bestehens wahrscheinlich mindestens 80 Prozent erreicht werden. Werden die gleichen oder gleichartige Lieferungen oder Bau- oder Dienstleistungen von mehr als einem mit dem Auftraggeber verbundenen Unternehmen erbracht, wird die Prozentzahl unter Berücksichtigung des Gesamtumsatzes errechnet, den diese verbundenen Unternehmen mit der Erbringung der Lieferung oder Leistung erzielen. § 36 Absatz 2 und 3 gilt entsprechend.
-
-(8) Dieser Teil gilt vorbehaltlich des Absatzes 9 nicht für die Vergabe von Aufträgen, die
-
-1.  
-ein gemeinsames Unternehmen, das mehrere Auftraggeber, die auf dem Gebiet der Trinkwasser- oder Energieversorgung oder des Verkehrs tätig sind, ausschließlich zur Durchführung von diesen Tätigkeiten gebildet haben, an einen dieser Auftraggeber vergibt, oder
-
-2.  
-ein Auftraggeber an ein gemeinsames Unternehmen im Sinne der Nummer 1, an dem er beteiligt ist, vergibt.
-
-(9) Absatz 8 gilt nur, wenn
-
-1.  
-das gemeinsame Unternehmen errichtet wurde, um die betreffende Tätigkeit während eines Zeitraumes von mindestens drei Jahren durchzuführen, und
-
-2.  
-in dem Gründungsakt festgelegt wird, dass die dieses Unternehmen bildenden Auftraggeber dem Unternehmen zumindest während des gleichen Zeitraumes angehören werden.
-
-### § 100c Besondere Ausnahmen in den Bereichen Verteidigung und Sicherheit
-
-(1) Im Fall des § 100 Absatz 1 Satz 2 Nummer 3 gilt dieser Teil über die in § 100 Absatz 3 bis 6 genannten Fälle hinaus auch nicht für die in den Absätzen 2 bis 4 genannten Aufträge.
-
-(2) Dieser Teil gilt nicht für die Vergabe von Aufträgen, die
-
-1.  
-Finanzdienstleistungen mit Ausnahme von Versicherungsdienstleistungen zum Gegenstand haben,
-
-2.  
-zum Zweck nachrichtendienstlicher Tätigkeiten vergeben werden,
-
-3.  
-im Rahmen eines Kooperationsprogramms vergeben werden, das
-
-a)  
-auf Forschung und Entwicklung beruht und
-
-b)  
-mit mindestens einem anderen EU-Mitgliedstaat für die Entwicklung eines neuen Produkts und gegebenenfalls die späteren Phasen des gesamten oder eines Teils des Lebenszyklus dieses Produkts durchgeführt wird,
-
-4.  
-die Bundesregierung, eine Landesregierung oder eine Gebietskörperschaft an eine andere Regierung oder an eine Gebietskörperschaft eines anderen Staates vergibt und die Folgendes zum Gegenstand haben:
-
-a)  
-die Lieferung von Militärausrüstung oder die Lieferung von Ausrüstung, die im Rahmen eines Verschlusssachenauftrags im Sinne des § 99 Absatz 9 vergeben wird,
-
-b)  
-Bau- und Dienstleistungen, die in unmittelbarem Zusammenhang mit dieser Ausrüstung stehen,
-
-c)  
-Bau- und Dienstleistungen speziell für militärische Zwecke oder
-
-d)  
-Bau- und Dienstleistungen, die im Rahmen eines Verschlusssachenauftrags im Sinne des § 99 Absatz 9 vergeben werden.
-
-(3) Dieser Teil gilt nicht für die Vergabe von Aufträgen, die in einem Land außerhalb der Europäischen Union vergeben werden; zu diesen Aufträgen gehören auch zivile Beschaffungen im Rahmen des Einsatzes von Streitkräften oder von Polizeien des Bundes oder der Länder außerhalb des Gebiets der Europäischen Union, wenn der Einsatz es erfordert, dass sie mit im Einsatzgebiet ansässigen Unternehmen geschlossen werden. Zivile Beschaffungen sind Beschaffungen nicht militärischer Produkte und Bau- oder Dienstleistungen für logistische Zwecke.
-
-(4) Dieser Teil gilt nicht für die Vergabe von Aufträgen, die besonderen Verfahrensregeln unterliegen,
-
-1.  
-die sich aus einem internationalen Abkommen oder einer internationalen Vereinbarung ergeben, das oder die zwischen einem oder mehreren Mitgliedstaaten und einem oder mehreren Drittstaaten, die nicht Vertragsparteien des Übereinkommens über den Europäischen Wirtschaftsraum sind, geschlossenen wurde,
-
-2.  
-die sich aus einem internationalen Abkommen oder einer internationalen Vereinbarung im Zusammenhang mit der Stationierung von Truppen ergeben, das oder die Unternehmen eines Mitgliedstaats oder eines Drittstaates betrifft, oder
-
-3.  
-die für eine internationale Organisation gelten, wenn diese für ihre Zwecke Beschaffungen tätigt oder wenn ein Mitgliedstaat Aufträge nach diesen Regeln vergeben muss.
-
-### § 101 Arten der Vergabe
-
-(1) Die Vergabe von öffentlichen Liefer-, Bau- und Dienstleistungsaufträgen erfolgt in offenen Verfahren, in nicht offenen Verfahren, in Verhandlungsverfahren oder im wettbewerblichen Dialog.
-
-(2) Offene Verfahren sind Verfahren, in denen eine unbeschränkte Anzahl von Unternehmen öffentlich zur Abgabe von Angeboten aufgefordert wird.
-
-(3) Bei nicht offenen Verfahren wird öffentlich zur Teilnahme, aus dem Bewerberkreis sodann eine beschränkte Anzahl von Unternehmen zur Angebotsabgabe aufgefordert.
-
-(4) Ein wettbewerblicher Dialog ist ein Verfahren zur Vergabe besonders komplexer Aufträge durch Auftraggeber nach § 98 Nummer 1 bis 3, soweit sie nicht auf dem Gebiet der Trinkwasser- oder Energieversorgung oder des Verkehrs tätig sind, und § 98 Nummer 5. In diesem Verfahren erfolgen eine Aufforderung zur Teilnahme und anschließend Verhandlungen mit ausgewählten Unternehmen über alle Einzelheiten des Auftrags.
-
-(5) Verhandlungsverfahren sind Verfahren, bei denen sich der Auftraggeber mit oder ohne vorherige öffentliche Aufforderung zur Teilnahme an ausgewählte Unternehmen wendet, um mit einem oder mehreren über die Auftragsbedingungen zu verhandeln.
-
-(6) Eine elektronische Auktion dient der elektronischen Ermittlung des wirtschaftlichsten Angebotes. Ein dynamisches elektronisches Verfahren ist ein zeitlich befristetes ausschließlich elektronisches offenes Vergabeverfahren zur Beschaffung marktüblicher Leistungen, bei denen die allgemein auf dem Markt verfügbaren Spezifikationen den Anforderungen des Auftraggebers genügen.
-
-(7) Öffentliche Auftraggeber haben das offene Verfahren anzuwenden, es sei denn, auf Grund dieses Gesetzes ist etwas anderes gestattet. Auftraggebern stehen, soweit sie auf dem Gebiet der Trinkwasser- oder Energieversorgung oder des Verkehrs tätig sind, das offene Verfahren, das nicht offene Verfahren und das Verhandlungsverfahren nach ihrer Wahl zur Verfügung. Bei der Vergabe von verteidigungs- und sicherheitsrelevanten Aufträgen können öffentliche Auftraggeber zwischen dem nicht offenen Verfahren und dem Verhandlungsverfahren wählen.
-
-### § 101a Informations- und Wartepflicht
-
-(1) Der Auftraggeber hat die betroffenen Bieter, deren Angebote nicht berücksichtigt werden sollen, über den Namen des Unternehmens, dessen Angebot angenommen werden soll, über die Gründe der vorgesehenen Nichtberücksichtigung ihres Angebots und über den frühesten Zeitpunkt des Vertragsschlusses unverzüglich in Textform zu informieren. Dies gilt auch für Bewerber, denen keine Information über die Ablehnung ihrer Bewerbung zur Verfügung gestellt wurde, bevor die Mitteilung über die Zuschlagsentscheidung an die betroffenen Bieter ergangen ist. Ein Vertrag darf erst 15 Kalendertage nach Absendung der Information nach den Sätzen 1 und 2 geschlossen werden. Wird die Information per Fax oder auf elektronischem Weg versendet, verkürzt sich die Frist auf zehn Kalendertage. Die Frist beginnt am Tag nach der Absendung der Information durch den Auftraggeber; auf den Tag des Zugangs beim betroffenen Bieter und Bewerber kommt es nicht an.
-
-(2) Die Informationspflicht entfällt in Fällen, in denen das Verhandlungsverfahren ohne vorherige Bekanntmachung wegen besonderer Dringlichkeit gerechtfertigt ist.
-
-### § 101b Unwirksamkeit
-
-(1) Ein Vertrag ist von Anfang an unwirksam, wenn der Auftraggeber
-
-1.  
-gegen § 101a verstoßen hat oder
-
-2.  
-einen öffentlichen Auftrag unmittelbar an ein Unternehmen erteilt, ohne andere Unternehmen am Vergabeverfahren zu beteiligen und ohne dass dies aufgrund Gesetzes gestattet ist
-
-und dieser Verstoß in einem Nachprüfungsverfahren nach Absatz 2 festgestellt worden ist.
-
-(2) Die Unwirksamkeit nach Absatz 1 kann nur festgestellt werden, wenn sie im Nachprüfungsverfahren innerhalb von 30 Kalendertagen ab Kenntnis des Verstoßes, jedoch nicht später als sechs Monate nach Vertragsschluss geltend gemacht worden ist. Hat der Auftraggeber die Auftragsvergabe im Amtsblatt der Europäischen Union bekannt gemacht, endet die Frist zur Geltendmachung der Unwirksamkeit 30 Kalendertage nach Veröffentlichung der Bekanntmachung der Auftragsvergabe im Amtsblatt der Europäischen Union.
-
-Zweiter Abschnitt Nachprüfungsverfahren
----------------------------------------
-
-### 
-
-I. Nachprüfungsbehörden
------------------------
-
-### 
-
-### § 102 Grundsatz
-
-Unbeschadet der Prüfungsmöglichkeiten von Aufsichtsbehörden unterliegt die Vergabe öffentlicher Aufträge der Nachprüfung durch die Vergabekammern.
-
-### § 103 (weggefallen)
-
-### § 104 Vergabekammern
-
-(1) Die Nachprüfung der Vergabe öffentlicher Aufträge nehmen die Vergabekammern des Bundes für die dem Bund zuzurechnenden Aufträge, die Vergabekammern der Länder für die diesen zuzurechnenden Aufträge wahr.
-
-(2) Rechte aus § 97 Absatz 7 sowie sonstige Ansprüche gegen öffentliche Auftraggeber, die auf die Vornahme oder das Unterlassen einer Handlung in einem Vergabeverfahren gerichtet sind, können nur vor den Vergabekammern und dem Beschwerdegericht geltend gemacht werden.
-
-(3) Die Zuständigkeit der ordentlichen Gerichte für die Geltendmachung von Schadensersatzansprüchen und die Befugnisse der Kartellbehörden zur Verfolgung von Verstößen insbesondere gegen §§ 19 und 20 bleiben unberührt.
-
-### § 105 Besetzung, Unabhängigkeit
-
-(1) Die Vergabekammern üben ihre Tätigkeit im Rahmen der Gesetze unabhängig und in eigener Verantwortung aus.
-
-(2) Die Vergabekammern entscheiden in der Besetzung mit einem Vorsitzenden und zwei Beisitzern, von denen einer ein ehrenamtlicher Beisitzer ist. Der Vorsitzende und der hauptamtliche Beisitzer müssen Beamte auf Lebenszeit mit der Befähigung zum höheren Verwaltungsdienst oder vergleichbar fachkundige Angestellte sein. Der Vorsitzende oder der hauptamtliche Beisitzer müssen die Befähigung zum Richteramt haben; in der Regel soll dies der Vorsitzende sein. Die Beisitzer sollen über gründliche Kenntnisse des Vergabewesens, die ehrenamtlichen Beisitzer auch über mehrjährige praktische Erfahrungen auf dem Gebiet des Vergabewesens verfügen. Bei der Überprüfung der Vergabe von verteidigungs- und sicherheitsrelevanten Aufträgen im Sinne des § 99 Absatz 7 können die Vergabekammern abweichend von Satz 1 auch in der Besetzung mit einem Vorsitzenden und zwei hauptamtlichen Beisitzern entscheiden.
-
-(3) Die Kammer kann das Verfahren dem Vorsitzenden oder dem hauptamtlichen Beisitzer ohne mündliche Verhandlung durch unanfechtbaren Beschluss zur alleinigen Entscheidung übertragen. Diese Übertragung ist nur möglich, sofern die Sache keine wesentlichen Schwierigkeiten in tatsächlicher oder rechtlicher Hinsicht aufweist und die Entscheidung nicht von grundsätzlicher Bedeutung sein wird.
-
-(4) Die Mitglieder der Kammer werden für eine Amtszeit von fünf Jahren bestellt. Sie entscheiden unabhängig und sind nur dem Gesetz unterworfen.
-
-### § 106 Einrichtung, Organisation
-
-(1) Der Bund richtet die erforderliche Anzahl von Vergabekammern beim Bundeskartellamt ein. Einrichtung und Besetzung der Vergabekammern sowie die Geschäftsverteilung bestimmt der Präsident des Bundeskartellamts. Ehrenamtliche Beisitzer und deren Stellvertreter ernennt er auf Vorschlag der Spitzenorganisationen der öffentlich-rechtlichen Kammern. Der Präsident des Bundeskartellamts erlässt nach Genehmigung durch das Bundesministerium für Wirtschaft und Energie eine Geschäftsordnung und veröffentlicht diese im Bundesanzeiger.
-
-(2) Die Einrichtung, Organisation und Besetzung der in diesem Abschnitt genannten Stellen (Nachprüfungsbehörden) der Länder bestimmen die nach Landesrecht zuständigen Stellen, mangels einer solchen Bestimmung die Landesregierung, die die Ermächtigung weiter übertragen kann. Die Länder können gemeinsame Nachprüfungsbehörden einrichten.
-
-### § 106a Abgrenzung der Zuständigkeit der Vergabekammern
-
-(1) Die Vergabekammer des Bundes ist zuständig für die Nachprüfung der Vergabeverfahren
-
-1.  
-des Bundes;
-
-2.  
-von Auftraggebern im Sinne des § 98 Nummer 2, sofern der Bund die Beteiligung überwiegend verwaltet oder die sonstige Finanzierung überwiegend gewährt hat oder über die Leitung überwiegend die Aufsicht ausübt oder die Mitglieder des zur Geschäftsführung oder zur Aufsicht berufenen Organs überwiegend bestimmt hat, es sei denn, die an dem Auftraggeber Beteiligten haben sich auf die Zuständigkeit einer anderen Vergabekammer geeinigt;
-
-3.  
-von Auftraggebern im Sinne des § 98 Nummer 4, sofern der Bund auf sie einen beherrschenden Einfluss ausübt; ein beherrschender Einfluss liegt vor, wenn der Bund unmittelbar oder mittelbar die Mehrheit des gezeichneten Kapitals des Auftraggebers besitzt oder über die Mehrheit der mit den Anteilen des Auftraggebers verbundenen Stimmrechte verfügt oder mehr als die Hälfte der Mitglieder des Verwaltungs-, Leitungs- oder Aufsichtsorgans des Auftraggebers bestellen kann;
-
-4.  
-von Auftraggebern im Sinne des § 98 Nummer 5, sofern der Bund die Mittel überwiegend bewilligt hat;
-
-5.  
-von Auftraggebern nach § 98 Nummer 6, sofern die unter § 98 Nummer 1 bis 3 fallende Stelle dem Bund zuzuordnen ist;
-
-6.  
-die im Rahmen der Organleihe für den Bund durchgeführt werden.
-
-(2) Wird das Vergabeverfahren von einem Land im Rahmen der Auftragsverwaltung für den Bund durchgeführt, ist die Vergabekammer dieses Landes zuständig. Ist in entsprechender Anwendung des Absatzes 1 Nummer 2 bis 6 ein Auftraggeber einem Land zuzuordnen, ist die Vergabekammer des jeweiligen Landes zuständig.
-
-(3) In allen anderen Fällen wird die Zuständigkeit der Vergabekammern nach dem Sitz des Auftraggebers bestimmt. Bei länderübergreifenden Beschaffungen benennen die Auftraggeber in der Vergabebekanntmachung nur eine zuständige Vergabekammer.
-
-II. Verfahren vor der Vergabekammer
------------------------------------
-
-### 
-
-### § 107 Einleitung, Antrag
-
-(1) Die Vergabekammer leitet ein Nachprüfungsverfahren nur auf Antrag ein.
-
-(2) Antragsbefugt ist jedes Unternehmen, das ein Interesse am Auftrag hat und eine Verletzung in seinen Rechten nach § 97 Absatz 7 durch Nichtbeachtung von Vergabevorschriften geltend macht. Dabei ist darzulegen, dass dem Unternehmen durch die behauptete Verletzung der Vergabevorschriften ein Schaden entstanden ist oder zu entstehen droht.
-
-(3) Der Antrag ist unzulässig, soweit
-
-1.  
-der Antragsteller den gerügten Verstoß gegen Vergabevorschriften im Vergabeverfahren erkannt und gegenüber dem Auftraggeber nicht unverzüglich gerügt hat,
-
-2.  
-Verstöße gegen Vergabevorschriften, die aufgrund der Bekanntmachung erkennbar sind, nicht spätestens bis Ablauf der in der Bekanntmachung benannten Frist zur Angebotsabgabe oder zur Bewerbung gegenüber dem Auftraggeber gerügt werden,
-
-3.  
-Verstöße gegen Vergabevorschriften, die erst in den Vergabeunterlagen erkennbar sind, nicht spätestens bis zum Ablauf der in der Bekanntmachung benannten Frist zur Angebotsabgabe oder zur Bewerbung gegenüber dem Auftraggeber gerügt werden,
-
-4.  
-mehr als 15 Kalendertage nach Eingang der Mitteilung des Auftraggebers, einer Rüge nicht abhelfen zu wollen, vergangen sind.
-
-Satz 1 gilt nicht bei einem Antrag auf Feststellung der Unwirksamkeit des Vertrages nach § 101b Absatz 1 Nummer 2. § 101a Absatz 1 Satz 2 bleibt unberührt.
-
-### § 108 Form
-
-(1) Der Antrag ist schriftlich bei der Vergabekammer einzureichen und unverzüglich zu begründen. Er soll ein bestimmtes Begehren enthalten. Ein Antragsteller ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Geltungsbereich dieses Gesetzes hat einen Empfangsbevollmächtigten im Geltungsbereich dieses Gesetzes zu benennen.
-
-(2) Die Begründung muss die Bezeichnung des Antragsgegners, eine Beschreibung der behaupteten Rechtsverletzung mit Sachverhaltsdarstellung und die Bezeichnung der verfügbaren Beweismittel enthalten sowie darlegen, dass die Rüge gegenüber dem Auftraggeber erfolgt ist; sie soll, soweit bekannt, die sonstigen Beteiligten benennen.
-
-### § 109 Verfahrensbeteiligte, Beiladung
-
-Verfahrensbeteiligte sind der Antragsteller, der Auftraggeber und die Unternehmen, deren Interessen durch die Entscheidung schwerwiegend berührt werden und die deswegen von der Vergabekammer beigeladen worden sind. Die Entscheidung über die Beiladung ist unanfechtbar.
-
-### § 110 Untersuchungsgrundsatz
-
-(1) Die Vergabekammer erforscht den Sachverhalt von Amts wegen. Sie kann sich dabei auf das beschränken, was von den Beteiligten vorgebracht wird oder ihr sonst bekannt sein muss. Zu einer umfassenden Rechtmäßigkeitskontrolle ist die Vergabekammer nicht verpflichtet. Sie achtet bei ihrer gesamten Tätigkeit darauf, dass der Ablauf des Vergabeverfahrens nicht unangemessen beeinträchtigt wird.
-
-(2) Die Vergabekammer prüft den Antrag darauf, ob er offensichtlich unzulässig oder unbegründet ist. Dabei berücksichtigt die Vergabekammer auch einen vorsorglich hinterlegten Schriftsatz (Schutzschrift) des Auftraggebers. Sofern der Antrag nicht offensichtlich unzulässig oder unbegründet ist, übermittelt die Vergabekammer dem Auftraggeber eine Kopie des Antrags und fordert bei ihm die Akten an, die das Vergabeverfahren dokumentieren (Vergabeakten). Der Auftraggeber hat die Vergabeakten der Kammer sofort zur Verfügung zu stellen. Die §§ 57 bis 59 Absatz 1 bis 5 sowie § 61 gelten entsprechend.
-
-### § 110a Aufbewahrung vertraulicher Unterlagen
-
-(1) Die Vergabekammer stellt die Vertraulichkeit von Verschlusssachen und anderen vertraulichen Informationen sicher, die in den von den Parteien übermittelten Unterlagen enthalten sind.
-
-(2) Die Mitglieder der Vergabekammern sind zur Geheimhaltung verpflichtet; die Entscheidungsgründe dürfen Art und Inhalt der geheim gehaltenen Urkunden, Akten, elektronischen Dokumente und Auskünfte nicht erkennen lassen.
-
-### § 111 Akteneinsicht
-
-(1) Die Beteiligten können die Akten bei der Vergabekammer einsehen und sich durch die Geschäftsstelle auf ihre Kosten Ausfertigungen, Auszüge oder Abschriften erteilen lassen.
-
-(2) Die Vergabekammer hat die Einsicht in die Unterlagen zu versagen, soweit dies aus wichtigen Gründen, insbesondere des Geheimschutzes oder zur Wahrung von Betriebs- oder Geschäftsgeheimnissen geboten ist.
-
-(3) Jeder Beteiligte hat mit Übersendung seiner Akten oder Stellungnahmen auf die in Absatz 2 genannten Geheimnisse hinzuweisen und diese in den Unterlagen entsprechend kenntlich zu machen. Erfolgt dies nicht, kann die Vergabekammer von seiner Zustimmung auf Einsicht ausgehen.
-
-(4) Die Versagung der Akteneinsicht kann nur im Zusammenhang mit der sofortigen Beschwerde in der Hauptsache angegriffen werden.
-
-### § 112 Mündliche Verhandlung
-
-(1) Die Vergabekammer entscheidet auf Grund einer mündlichen Verhandlung, die sich auf einen Termin beschränken soll. Alle Beteiligten haben Gelegenheit zur Stellungnahme. Mit Zustimmung der Beteiligten oder bei Unzulässigkeit oder bei offensichtlicher Unbegründetheit des Antrags kann nach Lage der Akten entschieden werden.
-
-(2) Auch wenn die Beteiligten in dem Verhandlungstermin nicht erschienen oder nicht ordnungsgemäß vertreten sind, kann in der Sache verhandelt und entschieden werden.
+den Vorschriften zur Vergabe von Konzessionen, wenn eine der Tätigkeiten, für die die Konzession bestimmt ist, diesen Vorschriften und die andere Tätigkeit weder den Vorschriften zur Vergabe von öffentlichen Aufträgen durch Sektorenauftraggeber noch den Vorschriften zur Vergabe öffentlicher Aufträge durch öffentliche Auftraggeber unterliegt.
 
 ### § 113 Verordnungsermächtigung
 
@@ -2856,42 +2867,989 @@ Die Rechtsverordnungen sind dem Bundestag zuzuleiten. Die Zuleitung erfolgt vor 
 
 ### § 114 Monitoring und Pflicht zur Übermittlung von Vergabedaten
 
-*(1) Die obersten Bundesbehörden und die Länder erstatten in ihrem jeweiligen Zuständigkeitsbereich dem Bundesministerium für Wirtschaft und Energie über die Anwendung der Vorschriften dieses Teils und der aufgrund des § 113 erlassenen Rechtsverordnungen bis zum 15. Februar 2017 und danach alle drei Jahre jeweils bis zum 15. Februar schriftlich Bericht.*
+(1) Die obersten Bundesbehörden und die Länder erstatten in ihrem jeweiligen Zuständigkeitsbereich dem Bundesministerium für Wirtschaft und Energie über die Anwendung der Vorschriften dieses Teils und der aufgrund des § 113 erlassenen Rechtsverordnungen bis zum 15. Februar 2017 und danach alle drei Jahre jeweils bis zum 15. Februar schriftlich Bericht.
 
-(2) *Auftraggeber im Sinne des § 98 übermitteln an das Bundesministerium für Wirtschaft und Energie Daten zu öffentlichen Aufträgen im Sinne des § 103 Absatz 1 und zu Konzessionen im Sinne des § 105 zur Gewinnung flächendeckender Daten im Vergabewesen. Die zu übermittelnden Daten umfassen für öffentliche Aufträge im Sinne des § 103 Absatz 1 und für Konzessionen im Sinne des § 105 oberhalb der jeweils geltenden Schwellenwerte maximal Daten, die in den Bekanntmachungen über vergebene öffentliche Aufträge und Konzessionen enthalten sind. Die zu übermittelnden Daten umfassen für öffentliche Aufträge durch öffentliche Auftraggeber im Sinne des § 99 unterhalb der jeweils geltenden Schwellenwerte und oberhalb einer durch die Verordnung nach Satz 4 festzulegenden Bagatellgrenze Daten zur Art und zur Menge der Leistung sowie zum Wert des erfolgreichen Angebots.* Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der Datenübermittlung einschließlich des Umfangs der zu übermittelnden Daten und des Zeitpunkts des Inkrafttretens der entsprechenden Verpflichtungen zu regeln.
+(2) Auftraggeber im Sinne des § 98 übermitteln an das Bundesministerium für Wirtschaft und Energie Daten zu öffentlichen Aufträgen im Sinne des § 103 Absatz 1 und zu Konzessionen im Sinne des § 105 zur Gewinnung flächendeckender Daten im Vergabewesen. Die zu übermittelnden Daten umfassen für öffentliche Aufträge im Sinne des § 103 Absatz 1 und für Konzessionen im Sinne des § 105 oberhalb der jeweils geltenden Schwellenwerte maximal Daten, die in den Bekanntmachungen über vergebene öffentliche Aufträge und Konzessionen enthalten sind. Die zu übermittelnden Daten umfassen für öffentliche Aufträge durch öffentliche Auftraggeber im Sinne des § 99 unterhalb der jeweils geltenden Schwellenwerte und oberhalb einer durch die Verordnung nach Satz 4 festzulegenden Bagatellgrenze Daten zur Art und zur Menge der Leistung sowie zum Wert des erfolgreichen Angebots. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der Datenübermittlung einschließlich des Umfangs der zu übermittelnden Daten und des Zeitpunkts des Inkrafttretens der entsprechenden Verpflichtungen zu regeln.
 
-### § 115 Aussetzung des Vergabeverfahrens
-
-(1) Informiert die Vergabekammer den öffentlichen Auftraggeber in Textform über den Antrag auf Nachprüfung, darf dieser vor einer Entscheidung der Vergabekammer und dem Ablauf der Beschwerdefrist nach § 117 Absatz 1 den Zuschlag nicht erteilen.
-
-(2) Die Vergabekammer kann dem Auftraggeber auf seinen Antrag oder auf Antrag des Unternehmens, das nach § 101a vom Auftraggeber als das Unternehmen benannt ist, das den Zuschlag erhalten soll, gestatten, den Zuschlag nach Ablauf von zwei Wochen seit Bekanntgabe dieser Entscheidung zu erteilen, wenn unter Berücksichtigung aller möglicherweise geschädigten Interessen sowie des Interesses der Allgemeinheit an einem raschen Abschluss des Vergabeverfahrens die nachteiligen Folgen einer Verzögerung der Vergabe bis zum Abschluss der Nachprüfung die damit verbundenen Vorteile überwiegen. Bei der Abwägung ist das Interesse der Allgemeinheit an einer wirtschaftlichen Erfüllung der Aufgaben des Auftraggebers zu berücksichtigen; bei verteidigungs- oder sicherheitsrelevanten Aufträgen im Sinne des § 99 Absatz 7 sind zusätzlich besondere Verteidigungs- und Sicherheitsinteressen zu berücksichtigen. Die Vergabekammer berücksichtigt dabei auch die allgemeinen Aussichten des Antragstellers im Vergabeverfahren, den Auftrag zu erhalten. Die Erfolgsaussichten des Nachprüfungsantrags müssen nicht in jedem Falle Gegenstand der Abwägung sein. Das Beschwerdegericht kann auf Antrag das Verbot des Zuschlags nach Absatz 1 wiederherstellen; § 114 Absatz 2 Satz 1 bleibt unberührt. Wenn die Vergabekammer den Zuschlag nicht gestattet, kann das Beschwerdegericht auf Antrag des Auftraggebers unter den Voraussetzungen der Sätze 1 bis 4 den sofortigen Zuschlag gestatten. Für das Verfahren vor dem Beschwerdegericht gilt § 121 Absatz 2 Satz 1 und 2 und Absatz 3 entsprechend. Eine sofortige Beschwerde nach § 116 Absatz 1 ist gegen Entscheidungen der Vergabekammer nach diesem Absatz nicht zulässig.
-
-(3) Sind Rechte des Antragstellers aus § 97 Absatz 7 im Vergabeverfahren auf andere Weise als durch den drohenden Zuschlag gefährdet, kann die Kammer auf besonderen Antrag mit weiteren vorläufigen Maßnahmen in das Vergabeverfahren eingreifen. Sie legt dabei den Beurteilungsmaßstab des Absatzes 2 Satz 1 zugrunde. Diese Entscheidung ist nicht selbständig anfechtbar. Die Vergabekammer kann die von ihr getroffenen weiteren vorläufigen Maßnahmen nach den Verwaltungsvollstreckungsgesetzen des Bundes und der Länder durchsetzen; die Maßnahmen sind sofort vollziehbar. § 86a Satz 2 gilt entsprechend.
-
-(4) Macht der Auftraggeber das Vorliegen der Voraussetzungen nach § 100 Absatz 8 Nummer 1 bis 3 geltend, entfällt das Verbot des Zuschlages nach Absatz 1 fünf Werktage nach Zustellung eines entsprechenden Schriftsatzes an den Antragsteller; die Zustellung ist durch die Vergabekammer unverzüglich nach Eingang des Schriftsatzes vorzunehmen. Auf Antrag kann das Beschwerdegericht das Verbot des Zuschlages wiederherstellen. § 121 Absatz 1 Satz 1, Absatz 2 Satz 1 sowie Absatz 3 und 4 finden entsprechende Anwendung.
-
-### § 115a Ausschluss von abweichendem Landesrecht
-
-Soweit dieser Unterabschnitt Regelungen zum Verwaltungsverfahren enthält, darf hiervon durch Landesrecht nicht abgewichen werden.
-
-III. Sofortige Beschwerde
--------------------------
+Abschnitt 2 Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber
+-----------------------------------------------------------------------------
 
 ### 
 
-### § 116 Zulässigkeit, Zuständigkeit
+Unterabschnitt 1 Anwendungsbereich
+----------------------------------
+
+### 
+
+### § 115 Anwendungsbereich
+
+Dieser Abschnitt ist anzuwenden auf die Vergabe von öffentlichen Aufträgen und die Ausrichtung von Wettbewerben durch öffentliche Auftraggeber.
+
+### § 116 Besondere Ausnahmen
+
+(1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber, wenn diese Aufträge Folgendes zum Gegenstand haben:
+
+1.  
+Rechtsdienstleistungen, die eine der folgenden Tätigkeiten betreffen:
+
+a)  
+Vertretung eines Mandanten durch einen Rechtsanwalt in
+
+aa)  
+Gerichts- oder Verwaltungsverfahren vor nationalen oder internationalen Gerichten, Behörden oder Einrichtungen,
+
+bb)  
+nationalen oder internationalen Schiedsgerichts- oder Schlichtungsverfahren,
+
+b)  
+Rechtsberatung durch einen Rechtsanwalt, sofern diese zur Vorbereitung eines Verfahrens im Sinne von Buchstabe a dient oder wenn konkrete Anhaltspunkte dafür vorliegen und eine hohe Wahrscheinlichkeit besteht, dass die Angelegenheit, auf die sich die Rechtsberatung bezieht, Gegenstand eines solchen Verfahrens werden wird,
+
+c)  
+Beglaubigungen und Beurkundungen, sofern sie von Notaren vorzunehmen sind,
+
+d)  
+Tätigkeiten von gerichtlich bestellten Betreuern, Vormündern, Pflegern, Verfahrensbeiständen, Sachverständigen oder Verwaltern oder sonstige Rechtsdienstleistungen, deren Erbringer durch ein Gericht dafür bestellt oder durch Gesetz dazu bestimmt werden, um bestimmte Aufgaben unter der Aufsicht dieser Gerichte wahrzunehmen, oder
+
+e)  
+Tätigkeiten, die zumindest teilweise mit der Ausübung von hoheitlichen Befugnissen verbunden sind,
+
+2.  
+Forschungs- und Entwicklungsdienstleistungen, es sei denn, es handelt sich um Forschungs- und Entwicklungsdienstleistungen, die unter die Referenznummern des Common Procurement Vocabulary 73000000-2 bis 73120000-9, 73300000-5, 73420000-2 und 73430000-5 fallen und bei denen
+
+a)  
+die Ergebnisse ausschließlich Eigentum des Auftraggebers für seinen Gebrauch bei der Ausübung seiner eigenen Tätigkeit werden und
+
+b)  
+die Dienstleistung vollständig durch den Auftraggeber vergütet wird,
+
+3.  
+den Erwerb, die Entwicklung, die Produktion oder die Koproduktion von Sendematerial für audiovisuelle Mediendienste oder Hörfunkmediendienste, wenn diese Aufträge von Anbietern von audiovisuellen Mediendiensten oder Hörfunkmediendiensten vergeben werden, die Ausstrahlungszeit oder die Bereitstellung von Sendungen, wenn diese Aufträge an Anbieter von audiovisuellen Mediendiensten oder Hörfunkmediendiensten vergeben werden,
+
+4.  
+finanzielle Dienstleistungen im Zusammenhang mit der Ausgabe, dem Verkauf, dem Ankauf oder der Übertragung von Wertpapieren oder anderen Finanzinstrumenten, Dienstleistungen der Zentralbanken sowie mit der Europäischen Finanzstabilisierungsfazilität und dem Europäischen Stabilitätsmechanismus durchgeführte Transaktionen,
+
+5.  
+Kredite und Darlehen, auch im Zusammenhang mit der Ausgabe, dem Verkauf, dem Ankauf oder der Übertragung von Wertpapieren oder anderen Finanzinstrumenten oder
+
+6.  
+Dienstleistungen, die an einen öffentlichen Auftraggeber nach § 99 Nummer 1 bis 3 vergeben werden, der ein auf Gesetz oder Verordnung beruhendes ausschließliches Recht hat, die Leistungen zu erbringen.
+
+(2) Dieser Teil ist ferner nicht auf öffentliche Aufträge und Wettbewerbe anzuwenden, die hauptsächlich den Zweck haben, dem öffentlichen Auftraggeber die Bereitstellung oder den Betrieb öffentlicher Kommunikationsnetze oder die Bereitstellung eines oder mehrerer elektronischer Kommunikationsdienste für die Öffentlichkeit zu ermöglichen.
+
+### § 117 Besondere Ausnahmen für Vergaben, die Verteidigungs- oder Sicherheitsaspekte umfassen
+
+Bei öffentlichen Aufträgen und Wettbewerben, die Verteidigungs- oder Sicherheitsaspekte umfassen, ohne verteidigungs- oder sicherheitsspezifische Aufträge zu sein, ist dieser Teil nicht anzuwenden,
+
+1.  
+soweit der Schutz wesentlicher Sicherheitsinteressen der Bundesrepublik Deutschland nicht durch weniger einschneidende Maßnahmen gewährleistet werden kann, zum Beispiel durch Anforderungen, die auf den Schutz der Vertraulichkeit der Informationen abzielen, die der öffentliche Auftraggeber im Rahmen eines Vergabeverfahrens zur Verfügung stellt,
+
+2.  
+soweit die Voraussetzungen des Artikels 346 Absatz 1 Buchstabe a des Vertrags über die Arbeitsweise der Europäischen Union erfüllt sind,
+
+3.  
+wenn die Vergabe und die Ausführung des Auftrags für geheim erklärt werden oder nach den Rechts- oder Verwaltungsvorschriften besondere Sicherheitsmaßnahmen erfordern; Voraussetzung hierfür ist eine Feststellung darüber, dass die betreffenden wesentlichen Interessen nicht durch weniger einschneidende Maßnahmen gewährleistet werden können, zum Beispiel durch Anforderungen, die auf den Schutz der Vertraulichkeit der Informationen abzielen,
+
+4.  
+wenn der öffentliche Auftraggeber verpflichtet ist, die Vergabe oder Durchführung nach anderen Vergabeverfahren vorzunehmen, die festgelegt sind durch
+
+a)  
+eine im Einklang mit den EU-Verträgen geschlossene internationale Übereinkunft oder Vereinbarung zwischen der Bundesrepublik Deutschland und einem oder mehreren Staaten, die nicht Vertragsparteien des Übereinkommens über den Europäischen Wirtschaftsraum sind, oder ihren Untereinheiten über Liefer-, Bau- oder Dienstleistungen für ein von den Unterzeichnern gemeinsam zu verwirklichendes oder zu nutzendes Projekt,
+
+b)  
+eine internationale Übereinkunft oder Vereinbarung im Zusammenhang mit der Stationierung von Truppen, die Unternehmen betrifft, die ihren Sitz in der Bundesrepublik Deutschland oder einem Staat haben, der nicht Vertragspartei des Übereinkommens über den Europäischen Wirtschaftsraums ist, oder
+
+c)  
+eine internationale Organisation oder
+
+5.  
+wenn der öffentliche Auftraggeber gemäß den Vergaberegeln einer internationalen Organisation oder internationalen Finanzierungseinrichtung einen öffentlichen Auftrag vergibt oder einen Wettbewerb ausrichtet und dieser öffentliche Auftrag oder Wettbewerb vollständig durch diese Organisation oder Einrichtung finanziert wird. Im Falle einer überwiegenden Kofinanzierung durch eine internationale Organisation oder eine internationale Finanzierungseinrichtung einigen sich die Parteien auf die anwendbaren Vergabeverfahren.
+
+### § 118 Bestimmten Auftragnehmern vorbehaltene öffentliche Aufträge
+
+(1) Öffentliche Auftraggeber können das Recht zur Teilnahme an Vergabeverfahren Werkstätten für Menschen mit Behinderungen und Unternehmen vorbehalten, deren Hauptzweck die soziale und berufliche Integration von Menschen mit Behinderungen oder von benachteiligten Personen ist, oder bestimmen, dass öffentliche Aufträge im Rahmen von Programmen mit geschützten Beschäftigungsverhältnissen durchzuführen sind.
+
+(2) Voraussetzung ist, dass mindestens 30 Prozent der in diesen Werkstätten oder Unternehmen Beschäftigten Menschen mit Behinderungen oder benachteiligte Personen sind.
+
+Unterabschnitt 2 Vergabeverfahren und Auftragsausführung
+--------------------------------------------------------
+
+### 
+
+### § 119 Verfahrensarten
+
+(1) Die Vergabe von öffentlichen Aufträgen erfolgt im offenen Verfahren, im nicht offenen Verfahren, im Verhandlungsverfahren, im wettbewerblichen Dialog oder in der Innovationspartnerschaft.
+
+(2) Öffentlichen Auftraggebern stehen das offene Verfahren und das nicht offene Verfahren, das stets einen Teilnahmewettbewerb erfordert, nach ihrer Wahl zur Verfügung. Die anderen Verfahrensarten stehen nur zur Verfügung, soweit dies aufgrund dieses Gesetzes gestattet ist.
+
+(3) Das offene Verfahren ist ein Verfahren, in dem der öffentliche Auftraggeber eine unbeschränkte Anzahl von Unternehmen öffentlich zur Abgabe von Angeboten auffordert.
+
+(4) Das nicht offene Verfahren ist ein Verfahren, bei dem der öffentliche Auftraggeber nach vorheriger öffentlicher Aufforderung zur Teilnahme eine beschränkte Anzahl von Unternehmen nach objektiven, transparenten und nichtdiskriminierenden Kriterien auswählt (Teilnahmewettbewerb), die er zur Abgabe von Angeboten auffordert.
+
+(5) Das Verhandlungsverfahren ist ein Verfahren, bei dem sich der öffentliche Auftraggeber mit oder ohne Teilnahmewettbewerb an ausgewählte Unternehmen wendet, um mit einem oder mehreren dieser Unternehmen über die Angebote zu verhandeln.
+
+(6) Der wettbewerbliche Dialog ist ein Verfahren zur Vergabe öffentlicher Aufträge mit dem Ziel der Ermittlung und Festlegung der Mittel, mit denen die Bedürfnisse des öffentlichen Auftraggebers am besten erfüllt werden können. Nach einem Teilnahmewettbewerb eröffnet der öffentliche Auftraggeber mit den ausgewählten Unternehmen einen Dialog zur Erörterung aller Aspekte der Auftragsvergabe.
+
+(7) Die Innovationspartnerschaft ist ein Verfahren zur Entwicklung innovativer, noch nicht auf dem Markt verfügbarer Liefer-, Bau- oder Dienstleistungen und zum anschließenden Erwerb der daraus hervorgehenden Leistungen. Nach einem Teilnahmewettbewerb verhandelt der öffentliche Auftraggeber in mehreren Phasen mit den ausgewählten Unternehmen über die Erst- und Folgeangebote.
+
+### § 120 Besondere Methoden und Instrumente in Vergabeverfahren
+
+(1) Ein dynamisches Beschaffungssystem ist ein zeitlich befristetes, ausschließlich elektronisches Verfahren zur Beschaffung marktüblicher Leistungen, bei denen die allgemein auf dem Markt verfügbaren Merkmale den Anforderungen des öffentlichen Auftraggebers genügen.
+
+(2) Eine elektronische Auktion ist ein sich schrittweise wiederholendes elektronisches Verfahren zur Ermittlung des wirtschaftlichsten Angebots. Jeder elektronischen Auktion geht eine vollständige erste Bewertung aller Angebote voraus.
+
+(3) Ein elektronischer Katalog ist ein auf der Grundlage der Leistungsbeschreibung erstelltes Verzeichnis der zu beschaffenden Liefer-, Bau- und Dienstleistungen in einem elektronischen Format. Er kann insbesondere beim Abschluss von Rahmenvereinbarungen eingesetzt werden und Abbildungen, Preisinformationen und Produktbeschreibungen umfassen.
+
+(4) Eine zentrale Beschaffungsstelle ist ein öffentlicher Auftraggeber, der für andere öffentliche Auftraggeber dauerhaft Liefer- und Dienstleistungen beschafft, öffentliche Aufträge vergibt oder Rahmenvereinbarungen abschließt (zentrale Beschaffungstätigkeit). Öffentliche Auftraggeber können Liefer- und Dienstleistungen von zentralen Beschaffungsstellen erwerben oder Liefer-, Bau- und Dienstleistungsaufträge mittels zentraler Beschaffungsstellen vergeben. Öffentliche Aufträge zur Ausübung zentraler Beschaffungstätigkeiten können an eine zentrale Beschaffungsstelle vergeben werden, ohne ein Vergabeverfahren nach den Vorschriften dieses Teils durchzuführen. Derartige Dienstleistungsaufträge können auch Beratungs- und Unterstützungsleistungen bei der Vorbereitung oder Durchführung von Vergabeverfahren umfassen. Die Teile 1 bis 3 bleiben unberührt.
+
+### § 121 Leistungsbeschreibung
+
+(1) In der Leistungsbeschreibung ist der Auftragsgegenstand so eindeutig und erschöpfend wie möglich zu beschreiben, sodass die Beschreibung für alle Unternehmen im gleichen Sinne verständlich ist und die Angebote miteinander verglichen werden können. Die Leistungsbeschreibung enthält die Funktions- oder Leistungsanforderungen oder eine Beschreibung der zu lösenden Aufgabe, deren Kenntnis für die Erstellung des Angebots erforderlich ist, sowie die Umstände und Bedingungen der Leistungserbringung.
+
+(2) Bei der Beschaffung von Leistungen, die zur Nutzung durch natürliche Personen vorgesehen sind, sind bei der Erstellung der Leistungsbeschreibung außer in ordnungsgemäß begründeten Fällen die Zugänglichkeitskriterien für Menschen mit Behinderungen oder die Konzeption für alle Nutzer zu berücksichtigen.
+
+(3) Die Leistungsbeschreibung ist den Vergabeunterlagen beizufügen.
+
+### § 122 Eignung
+
+(1) Öffentliche Aufträge werden an fachkundige und leistungsfähige (geeignete) Unternehmen vergeben, die nicht nach den §§ 123 oder 124 ausgeschlossen worden sind.
+
+(2) Ein Unternehmen ist geeignet, wenn es die durch den öffentlichen Auftraggeber im Einzelnen zur ordnungsgemäßen Ausführung des öffentlichen Auftrags festgelegten Kriterien (Eignungskriterien) erfüllt. Die Eignungskriterien dürfen ausschließlich Folgendes betreffen:
+
+1.  
+Befähigung und Erlaubnis zur Berufsausübung,
+
+2.  
+wirtschaftliche und finanzielle Leistungsfähigkeit,
+
+3.  
+technische und berufliche Leistungsfähigkeit.
+
+(3) Der Nachweis der Eignung und des Nichtvorliegens von Ausschlussgründen nach den §§ 123 und 124 kann ganz oder teilweise durch die Teilnahme an Präqualifizierungssystemen erbracht werden.
+
+(4) Eignungskriterien müssen mit dem Auftragsgegenstand in Verbindung und zu diesem in einem angemessenen Verhältnis stehen. Sie sind in der Auftragsbekanntmachung, der Vorinformation oder der Aufforderung zur Interessensbestätigung aufzuführen.
+
+### § 123 Zwingende Ausschlussgründe
+
+(1) Öffentliche Auftraggeber schließen ein Unternehmen zu jedem Zeitpunkt des Vergabeverfahrens von der Teilnahme aus, wenn sie Kenntnis davon haben, dass eine Person, deren Verhalten nach Absatz 3 dem Unternehmen zuzurechnen ist, rechtskräftig verurteilt oder gegen das Unternehmen eine Geldbuße nach § 30 des Gesetzes über Ordnungswidrigkeiten rechtskräftig festgesetzt worden ist wegen einer Straftat nach:
+
+1.  
+§ 129 des Strafgesetzbuchs (Bildung krimineller Vereinigungen), § 129a des Strafgesetzbuchs (Bildung terroristischer Vereinigungen) oder § 129b des Strafgesetzbuchs (Kriminelle und terroristische Vereinigungen im Ausland),
+
+2.  
+§ 89c des Strafgesetzbuchs (Terrorismusfinanzierung) oder wegen der Teilnahme an einer solchen Tat oder wegen der Bereitstellung oder Sammlung finanzieller Mittel in Kenntnis dessen, dass diese finanziellen Mittel ganz oder teilweise dazu verwendet werden oder verwendet werden sollen, eine Tat nach § 89a Absatz 2 Nummer 2 des Strafgesetzbuchs zu begehen,
+
+3.  
+§ 261 des Strafgesetzbuchs (Geldwäsche; Verschleierung unrechtmäßig erlangter Vermögenswerte),
+
+4.  
+§ 263 des Strafgesetzbuchs (Betrug), soweit sich die Straftat gegen den Haushalt der Europäischen Union oder gegen Haushalte richtet, die von der Europäischen Union oder in ihrem Auftrag verwaltet werden,
+
+5.  
+§ 264 des Strafgesetzbuchs (Subventionsbetrug), soweit sich die Straftat gegen den Haushalt der Europäischen Union oder gegen Haushalte richtet, die von der Europäischen Union oder in ihrem Auftrag verwaltet werden,
+
+6.  
+§ 299 des Strafgesetzbuchs (Bestechlichkeit und Bestechung im geschäftlichen Verkehr),
+
+7.  
+§ 108e des Strafgesetzbuchs (Bestechlichkeit und Bestechung von Mandatsträgern),
+
+8.  
+den §§ 333 und 334 des Strafgesetzbuchs (Vorteilsgewährung und Bestechung), jeweils auch in Verbindung mit § 335a des Strafgesetzbuchs (Ausländische und internationale Bedienstete),
+
+9.  
+Artikel 2 § 2 des Gesetzes zur Bekämpfung internationaler Bestechung (Bestechung ausländischer Abgeordneter im Zusammenhang mit internationalem Geschäftsverkehr) oder
+
+10.  
+den §§ 232 und 233 des Strafgesetzbuchs (Menschenhandel) oder § 233a des Strafgesetzbuchs (Förderung des Menschenhandels).
+
+(2) Einer Verurteilung oder der Festsetzung einer Geldbuße im Sinne des Absatzes 1 stehen eine Verurteilung oder die Festsetzung einer Geldbuße nach den vergleichbaren Vorschriften anderer Staaten gleich.
+
+(3) Das Verhalten einer rechtskräftig verurteilten Person ist einem Unternehmen zuzurechnen, wenn diese Person als für die Leitung des Unternehmens Verantwortlicher gehandelt hat; dazu gehört auch die Überwachung der Geschäftsführung oder die sonstige Ausübung von Kontrollbefugnissen in leitender Stellung.
+
+(4) Öffentliche Auftraggeber schließen ein Unternehmen zu jedem Zeitpunkt des Vergabeverfahrens von der Teilnahme an einem Vergabeverfahren aus, wenn
+
+1.  
+das Unternehmen seinen Verpflichtungen zur Zahlung von Steuern, Abgaben oder Beiträgen zur Sozialversicherung nicht nachgekommen ist und dies durch eine rechtskräftige Gerichts- oder bestandskräftige Verwaltungsentscheidung festgestellt wurde oder
+
+2.  
+die öffentlichen Auftraggeber auf sonstige geeignete Weise die Verletzung einer Verpflichtung nach Nummer 1 nachweisen können.
+
+Satz 1 ist nicht anzuwenden, wenn das Unternehmen seinen Verpflichtungen dadurch nachgekommen ist, dass es die Zahlung vorgenommen oder sich zur Zahlung der Steuern, Abgaben und Beiträge zur Sozialversicherung einschließlich Zinsen, Säumnis- und Strafzuschlägen verpflichtet hat.
+
+(5) Von einem Ausschluss nach Absatz 1 kann abgesehen werden, wenn dies aus zwingenden Gründen des öffentlichen Interesses geboten ist. Von einem Ausschluss nach Absatz 4 Satz 1 kann abgesehen werden, wenn dies aus zwingenden Gründen des öffentlichen Interesses geboten ist oder ein Ausschluss offensichtlich unverhältnismäßig wäre. § 125 bleibt unberührt.
+
+### § 124 Fakultative Ausschlussgründe
+
+(1) Öffentliche Auftraggeber können unter Berücksichtigung des Grundsatzes der Verhältnismäßigkeit ein Unternehmen zu jedem Zeitpunkt des Vergabeverfahrens von der Teilnahme an einem Vergabeverfahren ausschließen, wenn
+
+1.  
+das Unternehmen bei der Ausführung öffentlicher Aufträge nachweislich gegen geltende umwelt-, sozial- oder arbeitsrechtliche Verpflichtungen verstoßen hat,
+
+2.  
+das Unternehmen zahlungsunfähig ist, über das Vermögen des Unternehmens ein Insolvenzverfahren oder ein vergleichbares Verfahren beantragt oder eröffnet worden ist, die Eröffnung eines solchen Verfahrens mangels Masse abgelehnt worden ist, sich das Unternehmen im Verfahren der Liquidation befindet oder seine Tätigkeit eingestellt hat,
+
+3.  
+das Unternehmen im Rahmen der beruflichen Tätigkeit nachweislich eine schwere Verfehlung begangen hat, durch die die Integrität des Unternehmens infrage gestellt wird; § 123 Absatz 3 ist entsprechend anzuwenden,
+
+4.  
+der öffentliche Auftraggeber über hinreichende Anhaltspunkte dafür verfügt, dass das Unternehmen Vereinbarungen mit anderen Unternehmen getroffen hat, die eine Verhinderung, Einschränkung oder Verfälschung des Wettbewerbs bezwecken oder bewirken,
+
+5.  
+ein Interessenkonflikt bei der Durchführung des Vergabeverfahrens besteht, der die Unparteilichkeit und Unabhängigkeit einer für den öffentlichen Auftraggeber tätigen Person bei der Durchführung des Vergabeverfahrens beeinträchtigen könnte und der durch andere, weniger einschneidende Maßnahmen nicht wirksam beseitigt werden kann,
+
+6.  
+eine Wettbewerbsverzerrung daraus resultiert, dass das Unternehmen bereits in die Vorbereitung des Vergabeverfahrens einbezogen war, und diese Wettbewerbsverzerrung nicht durch andere, weniger einschneidende Maßnahmen beseitigt werden kann,
+
+7.  
+das Unternehmen eine wesentliche Anforderung bei der Ausführung eines früheren öffentlichen Auftrags oder Konzessionsvertrags erheblich oder fortdauernd mangelhaft erfüllt hat und dies zu einer vorzeitigen Beendigung, zu Schadensersatz oder zu einer vergleichbaren Rechtsfolge geführt hat,
+
+8.  
+das Unternehmen in Bezug auf Ausschlussgründe oder Eignungskriterien eine schwerwiegende Täuschung begangen oder Auskünfte zurückgehalten hat oder nicht in der Lage ist, die erforderlichen Nachweise zu übermitteln, oder
+
+9.  
+das Unternehmen
+
+a)  
+versucht hat, die Entscheidungsfindung des öffentlichen Auftraggebers in unzulässiger Weise zu beeinflussen,
+
+b)  
+versucht hat, vertrauliche Informationen zu erhalten, durch die es unzulässige Vorteile beim Vergabeverfahren erlangen könnte, oder
+
+c)  
+fahrlässig oder vorsätzlich irreführende Informationen übermittelt hat, die die Vergabeentscheidung des öffentlichen Auftraggebers erheblich beeinflussen könnten, oder versucht hat, solche Informationen zu übermitteln.
+
+(2) § 21 des Arbeitnehmer-Entsendegesetzes, § 98c des Aufenthaltsgesetzes, § 19 des Mindestlohngesetzes und § 21 des Schwarzarbeitsbekämpfungsgesetzes bleiben unberührt.
+
+### § 125 Selbstreinigung
+
+(1) Öffentliche Auftraggeber schließen ein Unternehmen, bei dem ein Ausschlussgrund nach § 123 oder § 124 vorliegt, nicht von der Teilnahme an dem Vergabeverfahren aus, wenn das Unternehmen nachgewiesen hat, dass es
+
+1.  
+für jeden durch eine Straftat oder ein Fehlverhalten verursachten Schaden einen Ausgleich gezahlt oder sich zur Zahlung eines Ausgleichs verpflichtet hat,
+
+2.  
+die Tatsachen und Umstände, die mit der Straftat oder dem Fehlverhalten und dem dadurch verursachten Schaden in Zusammenhang stehen, durch eine aktive Zusammenarbeit mit den Ermittlungsbehörden und dem öffentlichen Auftraggeber umfassend geklärt hat, und
+
+3.  
+konkrete technische, organisatorische und personelle Maßnahmen ergriffen hat, die geeignet sind, weitere Straftaten oder weiteres Fehlverhalten zu vermeiden.
+
+§ 123 Absatz 4 Satz 2 bleibt unberührt.
+
+(2) Öffentliche Auftraggeber bewerten die von dem Unternehmen ergriffenen Selbstreinigungsmaßnahmen und berücksichtigen dabei die Schwere und die besonderen Umstände der Straftat oder des Fehlverhaltens. Erachten die öffentlichen Auftraggeber die Selbstreinigungsmaßnahmen des Unternehmens als unzureichend, so begründen sie diese Entscheidung gegenüber dem Unternehmen.
+
+### § 126 Zulässiger Zeitraum für Ausschlüsse
+
+Wenn ein Unternehmen, bei dem ein Ausschlussgrund vorliegt, keine oder keine ausreichenden Selbstreinigungsmaßnahmen nach § 125 ergriffen hat, darf es
+
+1.  
+bei Vorliegen eines Ausschlussgrundes nach § 123 höchstens fünf Jahre ab dem Tag der rechtskräftigen Verurteilung von der Teilnahme an Vergabeverfahren ausgeschlossen werden,
+
+2.  
+bei Vorliegen eines Ausschlussgrundes nach § 124 höchstens drei Jahre ab dem betreffenden Ereignis von der Teilnahme an Vergabeverfahren ausgeschlossen werden.
+
+### § 127 Zuschlag
+
+(1) Der Zuschlag wird auf das wirtschaftlichste Angebot erteilt. Grundlage dafür ist eine Bewertung des öffentlichen Auftraggebers, ob und inwieweit das Angebot die vorgegebenen Zuschlagskriterien erfüllt. Das wirtschaftlichste Angebot bestimmt sich nach dem besten Preis-Leistungs-Verhältnis. Zu dessen Ermittlung können neben dem Preis oder den Kosten auch qualitative, umweltbezogene oder soziale Aspekte berücksichtigt werden.
+
+(2) Verbindliche Vorschriften zur Preisgestaltung sind bei der Ermittlung des wirtschaftlichsten Angebots zu beachten.
+
+(3) Die Zuschlagskriterien müssen mit dem Auftragsgegenstand in Verbindung stehen. Diese Verbindung ist auch dann anzunehmen, wenn sich ein Zuschlagskriterium auf Prozesse im Zusammenhang mit der Herstellung, Bereitstellung oder Entsorgung der Leistung, auf den Handel mit der Leistung oder auf ein anderes Stadium im Lebenszyklus der Leistung bezieht, auch wenn sich diese Faktoren nicht auf die materiellen Eigenschaften des Auftragsgegenstandes auswirken.
+
+(4) Die Zuschlagskriterien müssen so festgelegt und bestimmt sein, dass die Möglichkeit eines wirksamen Wettbewerbs gewährleistet wird, der Zuschlag nicht willkürlich erteilt werden kann und eine wirksame Überprüfung möglich ist, ob und inwieweit die Angebote die Zuschlagskriterien erfüllen. Lassen öffentliche Auftraggeber Nebenangebote zu, legen sie die Zuschlagskriterien so fest, dass sie sowohl auf Hauptangebote als auch auf Nebenangebote anwendbar sind.
+
+(5) Die Zuschlagskriterien und deren Gewichtung müssen in der Auftragsbekanntmachung oder den Vergabeunterlagen aufgeführt werden.
+
+### § 128 Auftragsausführung
+
+(1) Unternehmen haben bei der Ausführung des öffentlichen Auftrags alle für sie geltenden rechtlichen Verpflichtungen einzuhalten, insbesondere Steuern, Abgaben und Beiträge zur Sozialversicherung zu entrichten, die arbeitsschutzrechtlichen Regelungen einzuhalten und den Arbeitnehmerinnen und Arbeitnehmern wenigstens diejenigen Mindestarbeitsbedingungen einschließlich des Mindestentgelts zu gewähren, die nach dem Mindestlohngesetz, einem nach dem Tarifvertragsgesetz mit den Wirkungen des Arbeitnehmer-Entsendegesetzes für allgemein verbindlich erklärten Tarifvertrag oder einer nach § 7, § 7a oder § 11 des Arbeitnehmer-Entsendegesetzes oder einer nach § 3a des Arbeitnehmerüberlassungsgesetzes erlassenen Rechtsverordnung für die betreffende Leistung verbindlich vorgegeben werden.
+
+(2) Öffentliche Auftraggeber können darüber hinaus besondere Bedingungen für die Ausführung eines Auftrags (Ausführungsbedingungen) festlegen, sofern diese mit dem Auftragsgegenstand entsprechend § 127 Absatz 3 in Verbindung stehen. Die Ausführungsbedingungen müssen sich aus der Auftragsbekanntmachung oder den Vergabeunterlagen ergeben. Sie können insbesondere wirtschaftliche, innovationsbezogene, umweltbezogene, soziale oder beschäftigungspolitische Belange oder den Schutz der Vertraulichkeit von Informationen umfassen.
+
+### § 129 Zwingend zu berücksichtigende Ausführungsbedingungen
+
+Ausführungsbedingungen, die der öffentliche Auftraggeber dem beauftragten Unternehmen verbindlich vorzugeben hat, dürfen nur aufgrund eines Bundes- oder Landesgesetzes festgelegt werden.
+
+### (XXXX) §§ 129a bis 129b (weggefallen)
+
+### § 130 Vergabe von öffentlichen Aufträgen über soziale und andere besondere Dienstleistungen
+
+(1) Bei der Vergabe von öffentlichen Aufträgen über soziale und andere besondere Dienstleistungen im Sinne des Anhangs XIV der Richtlinie 2014/24/EU stehen öffentlichen Auftraggebern das offene Verfahren, das nicht offene Verfahren, das Verhandlungsverfahren mit Teilnahmewettbewerb, der wettbewerbliche Dialog und die Innovationspartnerschaft nach ihrer Wahl zur Verfügung. Ein Verhandlungsverfahren ohne Teilnahmewettbewerb steht nur zur Verfügung, soweit dies aufgrund dieses Gesetzes gestattet ist.
+
+(2) Abweichend von § 132 Absatz 3 ist die Änderung eines öffentlichen Auftrags über soziale und andere besondere Dienstleistungen im Sinne des Anhangs XIV der Richtlinie 2014/24/EU ohne Durchführung eines neuen Vergabeverfahrens zulässig, wenn der Wert der Änderung nicht mehr als 20 Prozent des ursprünglichen Auftragswertes beträgt.
+
+### § 131 Vergabe von öffentlichen Aufträgen über Personenverkehrsleistungen im Eisenbahnverkehr
+
+(1) Bei der Vergabe von öffentlichen Aufträgen, deren Gegenstand Personenverkehrsleistungen im Eisenbahnverkehr sind, stehen öffentlichen Auftraggebern das offene und das nicht offene Verfahren, das Verhandlungsverfahren mit Teilnahmewettbewerb, der wettbewerbliche Dialog und die Innovationspartnerschaft nach ihrer Wahl zur Verfügung. Ein Verhandlungsverfahren ohne Teilnahmewettbewerb steht nur zur Verfügung, soweit dies aufgrund dieses Gesetzes gestattet ist.
+
+(2) Anstelle des § 108 Absatz 1 ist Artikel 5 Absatz 2 der Verordnung (EG) Nr. 1370/2007 des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über öffentliche Personenverkehrsdienste auf Schiene und Straße und zur Aufhebung der Verordnungen (EWG) Nr. 1191/69 und (EWG) Nr. 1107/70 des Rates (ABl. L 315 vom 3.12.2007, S. 1) anzuwenden. Artikel 5 Absatz 5 und Artikel 7 Absatz 2 der Verordnung (EG) Nr. 1370/2007 bleiben unberührt.
+
+(3) Öffentliche Auftraggeber, die öffentliche Aufträge im Sinne von Absatz 1 vergeben, sollen gemäß Artikel 4 Absatz 5 der Verordnung (EG) Nr. 1370/2007 verlangen, dass bei einem Wechsel des Betreibers der Personenverkehrsleistung der ausgewählte Betreiber die Arbeitnehmerinnen und Arbeitnehmer, die beim bisherigen Betreiber für die Erbringung dieser Verkehrsleistung beschäftigt waren, übernimmt und ihnen die Rechte gewährt, auf die sie Anspruch hätten, wenn ein Übergang gemäß § 613a des Bürgerlichen Gesetzbuchs erfolgt wäre. Für den Fall, dass ein öffentlicher Auftraggeber die Übernahme von Arbeitnehmerinnen und Arbeitnehmern im Sinne von Satz 1 verlangt, beschränkt sich das Verlangen auf diejenigen Arbeitnehmerinnen und Arbeitnehmer, die für die Erbringung der übergehenden Verkehrsleistung unmittelbar erforderlich sind. Der öffentliche Auftraggeber soll Regelungen vorsehen, durch die eine missbräuchliche Anpassung tarifvertraglicher Regelungen zu Lasten des neuen Betreibers zwischen der Veröffentlichung der Auftragsbekanntmachung und der Übernahme des Betriebes ausgeschlossen wird. Der bisherige Betreiber ist nach Aufforderung durch den öffentlichen Auftraggeber verpflichtet, alle hierzu erforderlichen Angaben zu machen.
+
+### § 132 Auftragsänderungen während der Vertragslaufzeit
+
+(1) Wesentliche Änderungen eines öffentlichen Auftrags während der Vertragslaufzeit erfordern ein neues Vergabeverfahren. Wesentlich sind Änderungen, die dazu führen, dass sich der öffentliche Auftrag erheblich von dem ursprünglich vergebenen öffentlichen Auftrag unterscheidet. Eine wesentliche Änderung liegt insbesondere vor, wenn
+
+1.  
+mit der Änderung Bedingungen eingeführt werden, die, wenn sie für das ursprüngliche Vergabeverfahren gegolten hätten,
+
+a)  
+die Zulassung anderer Bewerber oder Bieter ermöglicht hätten,
+
+b)  
+die Annahme eines anderen Angebots ermöglicht hätten oder
+
+c)  
+das Interesse weiterer Teilnehmer am Vergabeverfahren geweckt hätten,
+
+2.  
+mit der Änderung das wirtschaftliche Gleichgewicht des öffentlichen Auftrags zugunsten des Auftragnehmers in einer Weise verschoben wird, die im ursprünglichen Auftrag nicht vorgesehen war,
+
+3.  
+mit der Änderung der Umfang des öffentlichen Auftrags erheblich ausgeweitet wird oder
+
+4.  
+ein neuer Auftragnehmer den Auftragnehmer in anderen als den in Absatz 2 Satz 1 Nummer 4 vorgesehenen Fällen ersetzt.
+
+(2) Unbeschadet des Absatzes 1 ist die Änderung eines öffentlichen Auftrags ohne Durchführung eines neuen Vergabeverfahrens zulässig, wenn
+
+1.  
+in den ursprünglichen Vergabeunterlagen klare, genaue und eindeutig formulierte Überprüfungsklauseln oder Optionen vorgesehen sind, die Angaben zu Art, Umfang und Voraussetzungen möglicher Auftragsänderungen enthalten, und sich aufgrund der Änderung der Gesamtcharakter des Auftrags nicht verändert,
+
+2.  
+zusätzliche Liefer-, Bau- oder Dienstleistungen erforderlich geworden sind, die nicht in den ursprünglichen Vergabeunterlagen vorgesehen waren, und ein Wechsel des Auftragnehmers
+
+a)  
+aus wirtschaftlichen oder technischen Gründen nicht erfolgen kann und
+
+b)  
+mit erheblichen Schwierigkeiten oder beträchtlichen Zusatzkosten für den öffentlichen Auftraggeber verbunden wäre,
+
+3.  
+die Änderung aufgrund von Umständen erforderlich geworden ist, die der öffentliche Auftraggeber im Rahmen seiner Sorgfaltspflicht nicht vorhersehen konnte, und sich aufgrund der Änderung der Gesamtcharakter des Auftrags nicht verändert oder
+
+4.  
+ein neuer Auftragnehmer den bisherigen Auftragnehmer ersetzt
+
+a)  
+aufgrund einer Überprüfungsklausel im Sinne von Nummer 1,
+
+b)  
+aufgrund der Tatsache, dass ein anderes Unternehmen, das die ursprünglich festgelegten Anforderungen an die Eignung erfüllt, im Zuge einer Unternehmensumstrukturierung, wie zum Beispiel durch Übernahme, Zusammenschluss, Erwerb oder Insolvenz, ganz oder teilweise an die Stelle des ursprünglichen Auftragnehmers tritt, sofern dies keine weiteren wesentlichen Änderungen im Sinne des Absatzes 1 zur Folge hat, oder
+
+c)  
+aufgrund der Tatsache, dass der öffentliche Auftraggeber selbst die Verpflichtungen des Hauptauftragnehmers gegenüber seinen Unterauftragnehmern übernimmt.
+
+In den Fällen des Satzes 1 Nummer 2 und 3 darf der Preis um nicht mehr als 50 Prozent des Wertes des ursprünglichen Auftrags erhöht werden. Bei mehreren aufeinander folgenden Änderungen des Auftrags gilt diese Beschränkung für den Wert jeder einzelnen Änderung, sofern die Änderungen nicht mit dem Ziel vorgenommen werden, die Vorschriften dieses Teils zu umgehen.
+
+(3) Die Änderung eines öffentlichen Auftrags ohne Durchführung eines neuen Vergabeverfahrens ist ferner zulässig, wenn sich der Gesamtcharakter des Auftrags nicht ändert und der Wert der Änderung
+
+1.  
+die jeweiligen Schwellenwerte nach § 106 nicht übersteigt und
+
+2.  
+bei Liefer- und Dienstleistungsaufträgen nicht mehr als 10 Prozent und bei Bauaufträgen nicht mehr als 15 Prozent des ursprünglichen Auftragswertes beträgt.
+
+Bei mehreren aufeinander folgenden Änderungen ist der Gesamtwert der Änderungen maßgeblich.
+
+(4) Enthält der Vertrag eine Indexierungsklausel, wird für die Wertberechnung gemäß Absatz 2 Satz 2 und 3 sowie gemäß Absatz 3 der höhere Preis als Referenzwert herangezogen.
+
+(5) Änderungen nach Absatz 2 Satz 1 Nummer 2 und 3 sind im Amtsblatt der Europäischen Union bekannt zu machen.
+
+### § 133 Kündigung von öffentlichen Aufträgen in besonderen Fällen
+
+(1) Unbeschadet des § 135 können öffentliche Auftraggeber einen öffentlichen Auftrag während der Vertragslaufzeit kündigen, wenn
+
+1.  
+eine wesentliche Änderung vorgenommen wurde, die nach § 132 ein neues Vergabeverfahren erfordert hätte,
+
+2.  
+zum Zeitpunkt der Zuschlagserteilung ein zwingender Ausschlussgrund nach § 123 Absatz 1 bis 4 vorlag oder
+
+3.  
+der öffentliche Auftrag aufgrund einer schweren Verletzung der Verpflichtungen aus dem Vertrag über die Arbeitsweise der Europäischen Union oder aus den Vorschriften dieses Teils, die der Europäische Gerichtshof in einem Verfahren nach Artikel 258 des Vertrags über die Arbeitsweise der Europäischen Union festgestellt hat, nicht an den Auftragnehmer hätte vergeben werden dürfen.
+
+(2) Wird ein öffentlicher Auftrag gemäß Absatz 1 gekündigt, kann der Auftragnehmer einen seinen bisherigen Leistungen entsprechenden Teil der Vergütung verlangen. Im Fall des Absatzes 1 Nummer 2 steht dem Auftragnehmer ein Anspruch auf Vergütung insoweit nicht zu, als seine bisherigen Leistungen infolge der Kündigung für den öffentlichen Auftraggeber nicht von Interesse sind.
+
+(3) Die Berechtigung, Schadensersatz zu verlangen, wird durch die Kündigung nicht ausgeschlossen.
+
+### § 134 Informations- und Wartepflicht
+
+(1) Öffentliche Auftraggeber haben die Bieter, deren Angebote nicht berücksichtigt werden sollen, über den Namen des Unternehmens, dessen Angebot angenommen werden soll, über die Gründe der vorgesehenen Nichtberücksichtigung ihres Angebots und über den frühesten Zeitpunkt des Vertragsschlusses unverzüglich in Textform zu informieren. Dies gilt auch für Bewerber, denen keine Information über die Ablehnung ihrer Bewerbung zur Verfügung gestellt wurde, bevor die Mitteilung über die Zuschlagsentscheidung an die betroffenen Bieter ergangen ist.
+
+(2) Ein Vertrag darf erst 15 Kalendertage nach Absendung der Information nach Absatz 1 geschlossen werden. Wird die Information auf elektronischem Weg oder per Fax versendet, verkürzt sich die Frist auf zehn Kalendertage. Die Frist beginnt am Tag nach der Absendung der Information durch den Auftraggeber; auf den Tag des Zugangs beim betroffenen Bieter und Bewerber kommt es nicht an.
+
+(3) Die Informationspflicht entfällt in Fällen, in denen das Verhandlungsverfahren ohne Teilnahmewettbewerb wegen besonderer Dringlichkeit gerechtfertigt ist. Im Fall verteidigungs- oder sicherheitsspezifischer Aufträge können öffentliche Auftraggeber beschließen, bestimmte Informationen über die Zuschlagserteilung oder den Abschluss einer Rahmenvereinbarung nicht mitzuteilen, soweit die Offenlegung den Gesetzesvollzug behindert, dem öffentlichen Interesse, insbesondere Verteidigungs- oder Sicherheitsinteressen, zuwiderläuft, berechtigte geschäftliche Interessen von Unternehmen schädigt oder den lauteren Wettbewerb zwischen ihnen beeinträchtigen könnte.
+
+### § 135 Unwirksamkeit
+
+(1) Ein öffentlicher Auftrag ist von Anfang an unwirksam, wenn der öffentliche Auftraggeber
+
+1.  
+gegen § 134 verstoßen hat oder
+
+2.  
+den Auftrag ohne vorherige Veröffentlichung einer Bekanntmachung im Amtsblatt der Europäischen Union vergeben hat, ohne dass dies aufgrund Gesetzes gestattet ist,
+
+und dieser Verstoß in einem Nachprüfungsverfahren festgestellt worden ist.
+
+(2) Die Unwirksamkeit nach Absatz 1 kann nur festgestellt werden, wenn sie im Nachprüfungsverfahren innerhalb von 30 Kalendertagen nach der Information der betroffenen Bieter und Bewerber durch den öffentlichen Auftraggeber über den Abschluss des Vertrags, jedoch nicht später als sechs Monate nach Vertragsschluss geltend gemacht worden ist. Hat der Auftraggeber die Auftragsvergabe im Amtsblatt der Europäischen Union bekannt gemacht, endet die Frist zur Geltendmachung der Unwirksamkeit 30 Kalendertage nach Veröffentlichung der Bekanntmachung der Auftragsvergabe im Amtsblatt der Europäischen Union.
+
+(3) Die Unwirksamkeit nach Absatz 1 Nummer 2 tritt nicht ein, wenn
+
+1.  
+der öffentliche Auftraggeber der Ansicht ist, dass die Auftragsvergabe ohne vorherige Veröffentlichung einer Bekanntmachung im Amtsblatt der Europäischen Union zulässig ist,
+
+2.  
+der öffentliche Auftraggeber eine Bekanntmachung im Amtsblatt der Europäischen Union veröffentlicht hat, mit der er die Absicht bekundet, den Vertrag abzuschließen, und
+
+3.  
+der Vertrag nicht vor Ablauf einer Frist von mindestens zehn Kalendertagen, gerechnet ab dem Tag nach der Veröffentlichung dieser Bekanntmachung, abgeschlossen wurde.
+
+Die Bekanntmachung nach Satz 1 Nummer 2 muss den Namen und die Kontaktdaten des öffentlichen Auftraggebers, die Beschreibung des Vertragsgegenstands, die Begründung der Entscheidung des Auftraggebers, den Auftrag ohne vorherige Veröffentlichung einer Bekanntmachung im Amtsblatt der Europäischen Union zu vergeben, und den Namen und die Kontaktdaten des Unternehmens, das den Zuschlag erhalten soll, umfassen.
+
+Abschnitt 3 Vergabe von öffentlichen Aufträgen in besonderen Bereichen und von Konzessionen
+-------------------------------------------------------------------------------------------
+
+### 
+
+Unterabschnitt 1 Vergabe von öffentlichen Aufträgen durch Sektorenauftraggeber
+------------------------------------------------------------------------------
+
+### 
+
+### § 136 Anwendungsbereich
+
+Dieser Unterabschnitt ist anzuwenden auf die Vergabe von öffentlichen Aufträgen und die Ausrichtung von Wettbewerben durch Sektorenauftraggeber zum Zweck der Ausübung einer Sektorentätigkeit.
+
+### § 137 Besondere Ausnahmen
+
+(1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen Aufträgen durch Sektorenauftraggeber zum Zweck der Ausübung einer Sektorentätigkeit, wenn die Aufträge Folgendes zum Gegenstand haben:
+
+1.  
+Rechtsdienstleistungen im Sinne des § 116 Absatz 1 Nummer 1,
+
+2.  
+Forschungs- und Entwicklungsdienstleistungen im Sinne des § 116 Absatz 1 Nummer 2,
+
+3.  
+Ausstrahlungszeit oder Bereitstellung von Sendungen, wenn diese Aufträge an Anbieter von audiovisuellen Mediendiensten oder Hörfunkmediendiensten vergeben werden,
+
+4.  
+finanzielle Dienstleistungen im Sinne des § 116 Absatz 1 Nummer 4,
+
+5.  
+Kredite und Darlehen im Sinne des § 116 Absatz 1 Nummer 5,
+
+6.  
+Dienstleistungen im Sinne des § 116 Absatz 1 Nummer 6, wenn diese Aufträge aufgrund eines ausschließlichen Rechts vergeben werden,
+
+7.  
+die Beschaffung von Wasser im Rahmen der Trinkwasserversorgung,
+
+8.  
+die Beschaffung von Energie oder von Brennstoffen zur Energieerzeugung im Rahmen der Energieversorgung oder
+
+9.  
+die Weiterveräußerung oder Vermietung an Dritte, wenn
+
+a)  
+dem Sektorenauftraggeber kein besonderes oder ausschließliches Recht zum Verkauf oder zur Vermietung des Auftragsgegenstandes zusteht und
+
+b)  
+andere Unternehmen die Möglichkeit haben, den Auftragsgegenstand unter den gleichen Bedingungen wie der betreffende Sektorenauftraggeber zu verkaufen oder zu vermieten.
+
+(2) Dieser Teil ist ferner nicht anzuwenden auf die Vergabe von öffentlichen Aufträgen und die Ausrichtung von Wettbewerben, die Folgendes zum Gegenstand haben:
+
+1.  
+Liefer-, Bau- und Dienstleistungen sowie die Ausrichtung von Wettbewerben durch Sektorenauftraggeber nach § 100 Absatz 1 Nummer 2, soweit sie anderen Zwecken dienen als einer Sektorentätigkeit, oder
+
+2.  
+die Durchführung von Sektorentätigkeiten außerhalb des Gebietes der Europäischen Union, wenn der Auftrag in einer Weise vergeben wird, die nicht mit der tatsächlichen Nutzung eines Netzes oder einer Anlage innerhalb dieses Gebietes verbunden ist.
+
+### § 138 Besondere Ausnahme für die Vergabe an verbundene Unternehmen
+
+(1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen Aufträgen,
+
+1.  
+die ein Sektorenauftraggeber an ein verbundenes Unternehmen vergibt oder
+
+2.  
+die ein Gemeinschaftsunternehmen, das ausschließlich mehrere Sektorenauftraggeber zur Durchführung einer Sektorentätigkeit gebildet haben, an ein Unternehmen vergibt, das mit einem dieser Sektorenauftraggeber verbunden ist.
+
+(2) Ein verbundenes Unternehmen im Sinne des Absatzes 1 ist
+
+1.  
+ein Unternehmen, dessen Jahresabschluss mit dem Jahresabschluss des Auftraggebers in einem Konzernabschluss eines Mutterunternehmens entsprechend § 271 Absatz 2 des Handelsgesetzbuchs nach den Vorschriften über die Vollkonsolidierung einzubeziehen ist, oder
+
+2.  
+ein Unternehmen, das
+
+a)  
+mittelbar oder unmittelbar einem beherrschenden Einfluss nach § 100 Absatz 3 des Sektorenauftraggebers unterliegen kann,
+
+b)  
+einen beherrschenden Einfluss nach § 100 Absatz 3 auf den Sektorenauftraggeber ausüben kann oder
+
+c)  
+gemeinsam mit dem Auftraggeber aufgrund der Eigentumsverhältnisse, der finanziellen Beteiligung oder der für das Unternehmen geltenden Bestimmungen dem beherrschenden Einfluss nach § 100 Absatz 3 eines anderen Unternehmens unterliegt.
+
+(3) Absatz 1 gilt für Liefer-, Bau- oder Dienstleistungsaufträge, sofern unter Berücksichtigung aller Liefer-, Bau- oder Dienstleistungen, die von dem verbundenen Unternehmen während der letzten drei Jahre in der Europäischen Union erbracht wurden, mindestens 80 Prozent des im jeweiligen Leistungssektor insgesamt erzielten durchschnittlichen Umsatzes dieses Unternehmens aus der Erbringung von Liefer-, Bau- oder Dienstleistungen für den Sektorenauftraggeber oder andere mit ihm verbundene Unternehmen stammen.
+
+(4) Werden gleiche oder gleichartige Liefer-, Bau- oder Dienstleistungen von mehr als einem mit dem Sektorenauftraggeber verbundenen und mit ihm wirtschaftlich zusammengeschlossenen Unternehmen erbracht, so werden die Prozentsätze nach Absatz 3 unter Berücksichtigung des Gesamtumsatzes errechnet, den diese verbundenen Unternehmen mit der Erbringung der jeweiligen Liefer-, Dienst- oder Bauleistung erzielen.
+
+(5) Liegen für die letzten drei Jahre keine Umsatzzahlen vor, genügt es, wenn das Unternehmen etwa durch Prognosen über die Tätigkeitsentwicklung glaubhaft macht, dass die Erreichung des nach Absatz 3 geforderten Umsatzziels wahrscheinlich ist.
+
+### § 139 Besondere Ausnahme für die Vergabe durch oder an ein Gemeinschaftsunternehmen
+
+(1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen Aufträgen,
+
+1.  
+die ein Gemeinschaftsunternehmen, das mehrere Sektorenauftraggeber ausschließlich zur Durchführung von Sektorentätigkeiten gebildet haben, an einen dieser Auftraggeber vergibt oder
+
+2.  
+die ein Sektorenauftraggeber, der einem Gemeinschaftsunternehmen im Sinne der Nummer 1 angehört, an dieses Gemeinschaftsunternehmen vergibt.
+
+(2) Voraussetzung ist, dass
+
+1.  
+das Gemeinschaftsunternehmen im Sinne des Absatzes 1 Nummer 1 gebildet wurde, um die betreffende Sektorentätigkeit während eines Zeitraums von mindestens drei Jahren durchzuführen, und
+
+2.  
+in dem Gründungsakt des Gemeinschaftsunternehmens festgelegt wird, dass die das Gemeinschaftsunternehmen bildenden Sektorenauftraggeber dem Gemeinschaftsunternehmen mindestens während desselben Zeitraums angehören werden.
+
+### § 140 Besondere Ausnahme für unmittelbar dem Wettbewerb ausgesetzte Tätigkeiten
+
+(1) Dieser Teil ist nicht anzuwenden auf öffentliche Aufträge, die zum Zweck der Ausübung einer Sektorentätigkeit vergeben werden, wenn die Sektorentätigkeit unmittelbar dem Wettbewerb auf Märkten ausgesetzt ist, die keiner Zugangsbeschränkung unterliegen. Dasselbe gilt für Wettbewerbe, die im Zusammenhang mit der Sektorentätigkeit ausgerichtet werden.
+
+(2) Für Gutachten und Stellungnahmen, die aufgrund der nach § 113 Satz 2 Nummer 8 erlassenen Rechtsverordnung vorgenommen werden, erhebt das Bundeskartellamt Kosten (Gebühren und Auslagen) zur Deckung des Verwaltungsaufwands. § 80 Absatz 1 Satz 3 und Absatz 2 Satz 1, Satz 2 Nummer 1, Satz 3 und 4, Absatz 5 Satz 1 sowie Absatz 6 Satz 1 Nummer 2, Satz 2 und 3 gilt entsprechend. Hinsichtlich der Möglichkeit zur Beschwerde über die Kostenentscheidung gilt § 63 Absatz 1 und 4 entsprechend.
+
+### § 141 Verfahrensarten
+
+(1) Sektorenauftraggebern stehen das offene Verfahren, das nicht offene Verfahren, das Verhandlungsverfahren mit Teilnahmewettbewerb und der wettbewerbliche Dialog nach ihrer Wahl zur Verfügung.
+
+(2) Das Verhandlungsverfahren ohne Teilnahmewettbewerb und die Innovationspartnerschaft stehen nur zur Verfügung, soweit dies aufgrund dieses Gesetzes gestattet ist.
+
+### § 142 Sonstige anwendbare Vorschriften
+
+Im Übrigen gelten für die Vergabe von öffentlichen Aufträgen durch Sektorenauftraggeber zum Zweck der Ausübung von Sektorentätigkeiten die §§ 118 und 119, soweit in § 141 nicht abweichend geregelt, die §§ 120 bis 129, 130 in Verbindung mit Anhang XVII der Richtlinie 2014/25/EU sowie die §§ 131 bis 135 mit der Maßgabe entsprechend, dass
+
+1.  
+Sektorenauftraggeber abweichend von § 122 Absatz 1 und 2 die Unternehmen anhand objektiver Kriterien auswählen, die allen interessierten Unternehmen zugänglich sind,
+
+2.  
+Sektorenauftraggeber nach § 100 Absatz 1 Nummer 2 ein Unternehmen nach § 123 ausschließen können, aber nicht ausschließen müssen,
+
+3.  
+§ 132 Absatz 2 Satz 2 und 3 nicht anzuwenden ist.
+
+### § 143 Regelung für Auftraggeber nach dem Bundesberggesetz
+
+(1) Sektorenauftraggeber, die nach dem Bundesberggesetz berechtigt sind, Erdöl, Gas, Kohle oder andere feste Brennstoffe aufzusuchen oder zu gewinnen, müssen bei der Vergabe von Liefer-, Bau- oder Dienstleistungsaufträgen oberhalb der Schwellenwerte nach § 106 Absatz 2 Nummer 2 zur Durchführung der Aufsuchung oder Gewinnung von Erdöl, Gas, Kohle oder anderen festen Brennstoffen die Grundsätze der Nichtdiskriminierung und der wettbewerbsorientierten Auftragsvergabe beachten. Insbesondere müssen sie Unternehmen, die ein Interesse an einem solchen Auftrag haben können, ausreichend informieren und bei der Auftragsvergabe objektive Kriterien zugrunde legen. Die Sätze 1 und 2 gelten nicht für die Vergabe von Aufträgen, deren Gegenstand die Beschaffung von Energie oder Brennstoffen zur Energieerzeugung ist.
+
+(2) Die Auftraggeber nach Absatz 1 erteilen der Europäischen Kommission über das Bundesministerium für Wirtschaft und Energie Auskunft über die Vergabe der unter diese Vorschrift fallenden Aufträge nach Maßgabe der Entscheidung 93/327/EWG der Kommission vom 13. Mai 1993 zur Festlegung der Voraussetzungen, unter denen die öffentlichen Auftraggeber, die geographisch abgegrenzte Gebiete zum Zwecke der Suche oder Förderung von Erdöl, Gas, Kohle oder anderen Festbrennstoffen nutzen, der Kommission Auskunft über die von ihnen vergebenen Aufträge zu erteilen haben (ABl. L 129 vom 27.5.1993, S. 25). Sie können über das Verfahren gemäß der Rechtsverordnung nach § 113 Satz 2 Nummer 8 unter den dort geregelten Voraussetzungen eine Befreiung von der Pflicht zur Anwendung dieser Bestimmung erreichen.
+
+Unterabschnitt 2 Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen
+-----------------------------------------------------------------------------------------------
+
+### 
+
+### § 144 Anwendungsbereich
+
+Dieser Unterabschnitt ist anzuwenden auf die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen durch öffentliche Auftraggeber und Sektorenauftraggeber.
+
+### § 145 Besondere Ausnahmen für die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen
+
+Dieser Teil ist nicht anzuwenden auf die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen, die
+
+1.  
+den Zwecken nachrichtendienstlicher Tätigkeiten dienen,
+
+2.  
+im Rahmen eines Kooperationsprogramms vergeben werden, das
+
+a)  
+auf Forschung und Entwicklung beruht und
+
+b)  
+mit mindestens einem anderen Mitgliedstaat der Europäischen Union für die Entwicklung eines neuen Produkts und gegebenenfalls die späteren Phasen des gesamten oder eines Teils des Lebenszyklus dieses Produkts durchgeführt wird;
+
+beim Abschluss eines solchen Abkommens teilt die Europäische Kommission den Anteil der Forschungs- und Entwicklungsausgaben an den Gesamtkosten des Programms, die Vereinbarung über die Kostenteilung und gegebenenfalls den geplanten Anteil der Beschaffungen je Mitgliedstaat mit,
+
+3.  
+in einem Staat außerhalb der Europäischen Union vergeben werden; zu diesen Aufträgen gehören auch zivile Beschaffungen im Rahmen des Einsatzes von Streitkräften oder von Polizeien des Bundes oder der Länder außerhalb des Gebiets der Europäischen Union, wenn der Einsatz es erfordert, dass im Einsatzgebiet ansässige Unternehmen beauftragt werden; zivile Beschaffungen sind Beschaffungen nicht-militärischer Produkte und Beschaffungen von Bau- oder Dienstleistungen für logistische Zwecke,
+
+4.  
+die Bundesregierung, eine Landesregierung oder eine Gebietskörperschaft an eine andere Regierung oder an eine Gebietskörperschaft eines anderen Staates vergibt und die Folgendes zum Gegenstand haben:
+
+a)  
+die Lieferung von Militärausrüstung im Sinne des § 104 Absatz 2 oder die Lieferung von Ausrüstung, die im Rahmen eines Verschlusssachenauftrags im Sinne des § 104 Absatz 3 vergeben wird,
+
+b)  
+Bau- und Dienstleistungen, die in unmittelbarem Zusammenhang mit dieser Ausrüstung stehen,
+
+c)  
+Bau- und Dienstleistungen speziell für militärische Zwecke oder
+
+d)  
+Bau- und Dienstleistungen, die im Rahmen eines Verschlusssachenauftrags im Sinne des § 104 Absatz 3 vergeben werden,
+
+5.  
+Finanzdienstleistungen mit Ausnahme von Versicherungsdienstleistungen zum Gegenstand haben,
+
+6.  
+Forschungs- und Entwicklungsdienstleistungen zum Gegenstand haben, es sei denn, die Ergebnisse werden ausschließlich Eigentum des Auftraggebers für seinen Gebrauch bei der Ausübung seiner eigenen Tätigkeit und die Dienstleistung wird vollständig durch den Auftraggeber vergütet, oder
+
+7.  
+besonderen Verfahrensregeln unterliegen,
+
+a)  
+die sich aus einem internationalen Abkommen oder einer internationalen Vereinbarung ergeben, das oder die zwischen einem oder mehreren Mitgliedstaaten der Europäischen Union und einem oder mehreren Staaten, die nicht Vertragsparteien des Übereinkommens über den Europäischen Wirtschaftsraum sind, geschlossen wurde,
+
+b)  
+die sich aus einem internationalen Abkommen oder einer internationalen Vereinbarung im Zusammenhang mit der Stationierung von Truppen ergeben, das oder die Unternehmen eines Mitgliedstaates der Europäischen Union oder eines anderen Staates betrifft, oder
+
+c)  
+die für eine internationale Organisation gelten, wenn diese für ihre Zwecke Beschaffungen tätigt oder wenn ein Mitgliedstaat öffentliche Aufträge nach diesen Regeln vergeben muss.
+
+### § 146 Verfahrensarten
+
+Bei der Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen stehen öffentlichen Auftraggebern und Sektorenauftraggebern das nicht offene Verfahren und das Verhandlungsverfahren mit Teilnahmewettbewerb nach ihrer Wahl zur Verfügung. Das Verhandlungsverfahren ohne Teilnahmewettbewerb und der wettbewerbliche Dialog stehen nur zur Verfügung, soweit dies aufgrund dieses Gesetzes gestattet ist.
+
+### § 147 Sonstige anwendbare Vorschriften
+
+Im Übrigen gelten für die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen die §§ 119, 120, 121 Absatz 1 und 3 sowie die §§ 122 bis 135 mit der Maßgabe entsprechend, dass ein Unternehmen gemäß § 124 Absatz 1 auch dann von der Teilnahme an einem Vergabeverfahren ausgeschlossen werden kann, wenn das Unternehmen nicht die erforderliche Vertrauenswürdigkeit aufweist, um Risiken für die nationale Sicherheit auszuschließen. Der Nachweis, dass Risiken für die nationale Sicherheit nicht auszuschließen sind, kann auch mit Hilfe geschützter Datenquellen erfolgen.
+
+Unterabschnitt 3 Vergabe von Konzessionen
+-----------------------------------------
+
+### 
+
+### § 148 Anwendungsbereich
+
+Dieser Unterabschnitt ist anzuwenden auf die Vergabe von Konzessionen durch Konzessionsgeber.
+
+### § 149 Besondere Ausnahmen
+
+Dieser Teil ist nicht anzuwenden auf die Vergabe von:
+
+1.  
+Konzessionen zu Rechtsdienstleistungen im Sinne des § 116 Absatz 1 Nummer 1,
+
+2.  
+Konzessionen zu Forschungs- und Entwicklungsdienstleistungen im Sinne des § 116 Absatz 1 Nummer 2,
+
+3.  
+Konzessionen zu audiovisuellen Mediendiensten oder Hörfunkmediendiensten im Sinne des § 116 Absatz 1 Nummer 3,
+
+4.  
+Konzessionen zu finanziellen Dienstleistungen im Sinne des § 116 Absatz 1 Nummer 4,
+
+5.  
+Konzessionen zu Krediten und Darlehen im Sinne des § 116 Absatz 1 Nummer 5,
+
+6.  
+Dienstleistungskonzessionen, die an einen Konzessionsgeber nach § 101 Absatz 1 Nummer 1 oder Nummer 2 aufgrund eines auf Gesetz oder Verordnung beruhenden ausschließlichen Rechts vergeben werden,
+
+7.  
+Dienstleistungskonzessionen, die an ein Unternehmen aufgrund eines ausschließlichen Rechts vergeben werden, das diesem im Einklang mit den nationalen und unionsrechtlichen Rechtsvorschriften über den Marktzugang für Tätigkeiten nach § 102 Absatz 2 bis 6 gewährt wurde; ausgenommen hiervon sind Dienstleistungskonzessionen für Tätigkeiten, für die die Unionsvorschriften keine branchenspezifischen Transparenzverpflichtungen vorsehen; Auftraggeber, die einem Unternehmen ein ausschließliches Recht im Sinne dieser Vorschrift gewähren, setzen die Europäische Kommission hierüber binnen eines Monats nach Gewährung dieses Rechts in Kenntnis,
+
+8.  
+Konzessionen, die hauptsächlich dazu dienen, dem Konzessionsgeber im Sinne des § 101 Absatz 1 Nummer 1 die Bereitstellung oder den Betrieb öffentlicher Kommunikationsnetze oder die Bereitstellung eines oder mehrerer elektronischer Kommunikationsdienste für die Öffentlichkeit zu ermöglichen,
+
+9.  
+Konzessionen im Bereich Wasser, die
+
+a)  
+die Bereitstellung oder das Betreiben fester Netze zur Versorgung der Allgemeinheit im Zusammenhang mit der Gewinnung, dem Transport oder der Verteilung von Trinkwasser oder die Einspeisung von Trinkwasser in diese Netze betreffen oder
+
+b)  
+mit einer Tätigkeit nach Buchstabe a im Zusammenhang stehen und einen der nachfolgend aufgeführten Gegenstände haben:
+
+aa)  
+Wasserbau-, Bewässerungs- und Entwässerungsvorhaben, sofern die zur Trinkwasserversorgung bestimmte Wassermenge mehr als 20 Prozent der Gesamtwassermenge ausmacht, die mit den entsprechenden Vorhaben oder Bewässerungs- oder Entwässerungsanlagen zur Verfügung gestellt wird, oder
+
+bb)  
+Abwasserbeseitigung oder -behandlung,
+
+10.  
+Dienstleistungskonzessionen zu Lotteriedienstleistungen, die unter die Referenznummer des Common Procurement Vocabulary 92351100-7 fallen, und die einem Unternehmen auf der Grundlage eines ausschließlichen Rechts gewährt werden,
+
+11.  
+Konzessionen, die Konzessionsgeber im Sinne des § 101 Absatz 1 Nummer 2 und 3 zur Durchführung ihrer Tätigkeiten in einem nicht der Europäischen Union angehörenden Staat in einer Weise vergeben, die nicht mit der physischen Nutzung eines Netzes oder geografischen Gebiets in der Europäischen Union verbunden ist, oder
+
+12.  
+Konzessionen, die im Bereich der Luftverkehrsdienste auf der Grundlage der Erteilung einer Betriebsgenehmigung im Sinne der Verordnung (EG) Nr. 1008/2008 des Europäischen Parlaments und des Rates vom 24. September 2008 über gemeinsame Vorschriften für die Durchführung von Luftverkehrsdiensten in der Gemeinschaft (ABl. L 293 vom 31.10.2008, S. 3) vergeben werden, oder von Konzessionen, die die Beförderung von Personen im Sinne des § 1 des Personenbeförderungsgesetzes betreffen.
+
+### § 150 Besondere Ausnahmen für die Vergabe von Konzessionen in den Bereichen Verteidigung und Sicherheit
+
+Dieser Teil ist nicht anzuwenden auf die Vergabe von Konzessionen in den Bereichen Verteidigung und Sicherheit,
+
+1.  
+bei denen die Anwendung der Vorschriften dieses Teils den Konzessionsgeber verpflichten würde, Auskünfte zu erteilen, deren Preisgabe seines Erachtens den wesentlichen Sicherheitsinteressen der Bundesrepublik Deutschland zuwiderläuft, oder wenn die Vergabe und Durchführung der Konzession als geheim zu erklären sind oder von besonderen Sicherheitsmaßnahmen gemäß den geltenden Rechts- oder Verwaltungsvorschriften begleitet sein müssen, sofern der Konzessionsgeber festgestellt hat, dass die betreffenden wesentlichen Interessen nicht durch weniger einschneidende Maßnahmen gewahrt werden können, wie beispielsweise durch Anforderungen, die auf den Schutz der Vertraulichkeit der Informationen abzielen, die Konzessionsgeber im Rahmen eines Konzessionsvergabeverfahrens zur Verfügung stellen,
+
+2.  
+die im Rahmen eines Kooperationsprogramms vergeben werden, das
+
+a)  
+auf Forschung und Entwicklung beruht und
+
+b)  
+mit mindestens einem anderen Mitgliedstaat der Europäischen Union für die Entwicklung eines neuen Produkts und gegebenenfalls die späteren Phasen des gesamten oder eines Teils des Lebenszyklus dieses Produkts durchgeführt wird,
+
+3.  
+die die Bundesregierung an eine andere Regierung für in unmittelbarem Zusammenhang mit Militärausrüstung oder sensibler Ausrüstung stehende Bau- und Dienstleistungen oder für Bau- und Dienstleistungen speziell für militärische Zwecke oder für sensible Bau- und Dienstleistungen vergibt,
+
+4.  
+die in einem Staat, der nicht Vertragspartei des Übereinkommens über den Europäischen Wirtschaftsraum ist, im Rahmen des Einsatzes von Truppen außerhalb des Gebiets der Europäischen Union vergeben werden, wenn der Einsatz erfordert, dass diese Konzessionen an im Einsatzgebiet ansässige Unternehmen vergeben werden,
+
+5.  
+die durch andere Ausnahmevorschriften dieses Teils erfasst werden,
+
+6.  
+die nicht bereits gemäß den Nummern 1 bis 5 ausgeschlossen sind, wenn der Schutz wesentlicher Sicherheitsinteressen der Bundesrepublik Deutschland nicht durch weniger einschneidende Maßnahmen garantiert werden kann, wie beispielsweise durch Anforderungen, die auf den Schutz der Vertraulichkeit der Informationen abzielen, die Konzessionsgeber im Rahmen eines Konzessionsvergabeverfahrens zur Verfügung stellen, oder
+
+7.  
+die besonderen Verfahrensregeln unterliegen,
+
+a)  
+die sich aus einem internationalen Abkommen oder einer internationalen Vereinbarung ergeben, das oder die zwischen einem oder mehreren Mitgliedstaaten der Europäischen Union und einem oder mehreren Staaten, die nicht Vertragsparteien des Übereinkommens über den Europäischen Wirtschaftsraum sind, geschlossenen wurde,
+
+b)  
+die sich aus einem internationalen Abkommen oder einer internationalen Vereinbarung im Zusammenhang mit der Stationierung von Truppen ergeben, das oder die Unternehmen eines Mitgliedstaates der Europäischen Union oder eines anderen Staates betrifft, oder
+
+c)  
+die für eine internationale Organisation gelten, wenn diese für ihre Zwecke Beschaffungen tätigt oder wenn ein Mitgliedstaat der Europäischen Union Aufträge nach diesen Regeln vergeben muss.
+
+### § 151 Verfahren
+
+Konzessionsgeber geben die Absicht bekannt, eine Konzession zu vergeben. Auf die Veröffentlichung der Konzessionsvergabeabsicht darf nur verzichtet werden, soweit dies aufgrund dieses Gesetzes zulässig ist. Im Übrigen dürfen Konzessionsgeber das Verfahren zur Vergabe von Konzessionen vorbehaltlich der aufgrund dieses Gesetzes erlassenen Verordnung zu den Einzelheiten des Vergabeverfahrens frei ausgestalten.
+
+### § 152 Anforderungen im Konzessionsvergabeverfahren
+
+(1) Zur Leistungsbeschreibung ist § 121 Absatz 1 und 3 entsprechend anzuwenden.
+
+(2) Konzessionen werden an geeignete Unternehmen im Sinne des § 122 vergeben.
+
+(3) Der Zuschlag wird auf der Grundlage objektiver Kriterien erteilt, die sicherstellen, dass die Angebote unter wirksamen Wettbewerbsbedingungen bewertet werden, sodass ein wirtschaftlicher Gesamtvorteil für den Konzessionsgeber ermittelt werden kann. Die Zuschlagskriterien müssen mit dem Konzessionsgegenstand in Verbindung stehen und dürfen dem Konzessionsgeber keine uneingeschränkte Wahlfreiheit einräumen. Sie können qualitative, umweltbezogene oder soziale Belange umfassen. Die Zuschlagskriterien müssen mit einer Beschreibung einhergehen, die eine wirksame Überprüfung der von den Bietern übermittelten Informationen gestatten, damit bewertet werden kann, ob und inwieweit die Angebote die Zuschlagskriterien erfüllen.
+
+(4) Die Vorschriften zur Auftragsausführung nach § 128 und zu den zwingend zu berücksichtigenden Ausführungsbedingungen nach § 129 sind entsprechend anzuwenden.
+
+### § 153 Vergabe von Konzessionen über soziale und andere besondere Dienstleistungen
+
+Für das Verfahren zur Vergabe von Konzessionen, die soziale und andere besondere Dienstleistungen im Sinne des Anhangs IV der Richtlinie 2014/23/EU betreffen, sind die §§ 151 und 152 anzuwenden.
+
+### § 154 Sonstige anwendbare Vorschriften
+
+Im Übrigen sind für die Vergabe von Konzessionen einschließlich der Konzessionen nach § 153 folgende Vorschriften entsprechend anzuwenden:
+
+1.  
+§ 118 hinsichtlich vorbehaltener Konzessionen,
+
+2.  
+die §§ 123 bis 126 mit der Maßgabe, dass
+
+a)  
+Konzessionsgeber nach § 101 Absatz 1 Nummer 3 ein Unternehmen unter den Voraussetzungen des § 123 ausschließen können, aber nicht ausschließen müssen,
+
+b)  
+Konzessionsgeber im Fall einer Konzession in den Bereichen Verteidigung und Sicherheit ein Unternehmen von der Teilnahme an einem Vergabeverfahren ausschließen können, wenn das Unternehmen nicht die erforderliche Vertrauenswürdigkeit aufweist, um Risiken für die nationale Sicherheit auszuschließen; der Nachweis kann auch mithilfe geschützter Datenquellen erfolgen,
+
+3.  
+§ 131 Absatz 2 und 3 und § 132 mit der Maßgabe, dass
+
+a)  
+§ 132 Absatz 2 Satz 2 und 3 für die Vergabe von Konzessionen, die Tätigkeiten nach § 102 Absatz 2 bis 6 betreffen, nicht anzuwenden ist und
+
+b)  
+die Obergrenze des § 132 Absatz 3 Nummer 2 für Bau- und Dienstleistungskonzessionen einheitlich 10 Prozent des Wertes der ursprünglichen Konzession beträgt,
+
+4.  
+die §§ 133 bis 135,
+
+5.  
+§ 138 hinsichtlich der Vergabe von Konzessionen durch Konzessionsgeber im Sinne des § 101 Absatz 1 Nummer 2 und 3 an verbundene Unternehmen,
+
+6.  
+§ 139 hinsichtlich der Vergabe von Konzessionen durch Konzessionsgeber im Sinne des § 101 Absatz 1 Nummer 2 und 3 an ein Gemeinschaftsunternehmen oder durch Gemeinschaftsunternehmen an einen Konzessionsgeber im Sinne des § 101 Absatz 1 Nummer 2 und 3 und
+
+7.  
+§ 140 hinsichtlich der Vergabe von Konzessionen durch Konzessionsgeber im Sinne des § 101 Absatz 1 Nummer 2 und 3 für unmittelbar dem Wettbewerb ausgesetzte Tätigkeiten.
+
+Kapitel 2 Nachprüfungsverfahren
+-------------------------------
+
+### 
+
+Abschnitt 1 Nachprüfungsbehörden
+--------------------------------
+
+### 
+
+### § 155 Grundsatz
+
+Unbeschadet der Prüfungsmöglichkeiten von Aufsichtsbehörden unterliegt die Vergabe öffentlicher Aufträge und von Konzessionen der Nachprüfung durch die Vergabekammern.
+
+### § 156 Vergabekammern
+
+(1) Die Nachprüfung der Vergabe öffentlicher Aufträge und der Vergabe von Konzessionen nehmen die Vergabekammern des Bundes für die dem Bund zuzurechnenden öffentlichen Aufträge und Konzessionen, die Vergabekammern der Länder für die diesen zuzurechnenden öffentlichen Aufträge und Konzessionen wahr.
+
+(2) Rechte aus § 97 Absatz 6 sowie sonstige Ansprüche gegen Auftraggeber, die auf die Vornahme oder das Unterlassen einer Handlung in einem Vergabeverfahren gerichtet sind, können nur vor den Vergabekammern und dem Beschwerdegericht geltend gemacht werden.
+
+(3) Die Zuständigkeit der ordentlichen Gerichte für die Geltendmachung von Schadensersatzansprüchen und die Befugnisse der Kartellbehörden zur Verfolgung von Verstößen insbesondere gegen die §§ 19 und 20 bleiben unberührt.
+
+### § 157 Besetzung, Unabhängigkeit
+
+(1) Die Vergabekammern üben ihre Tätigkeit im Rahmen der Gesetze unabhängig und in eigener Verantwortung aus.
+
+(2) Die Vergabekammern entscheiden in der Besetzung mit einem Vorsitzenden und zwei Beisitzern, von denen einer ein ehrenamtlicher Beisitzer ist. Der Vorsitzende und der hauptamtliche Beisitzer müssen Beamte auf Lebenszeit mit der Befähigung zum höheren Verwaltungsdienst oder vergleichbar fachkundige Angestellte sein. Der Vorsitzende oder der hauptamtliche Beisitzer muss die Befähigung zum Richteramt haben; in der Regel soll dies der Vorsitzende sein. Die Beisitzer sollen über gründliche Kenntnisse des Vergabewesens, die ehrenamtlichen Beisitzer auch über mehrjährige praktische Erfahrungen auf dem Gebiet des Vergabewesens verfügen. Bei der Überprüfung der Vergabe von verteidigungs- oder sicherheitsspezifischen Aufträgen im Sinne des § 104 können die Vergabekammern abweichend von Satz 1 auch in der Besetzung mit einem Vorsitzenden und zwei hauptamtlichen Beisitzern entscheiden.
+
+(3) Die Kammer kann das Verfahren dem Vorsitzenden oder dem hauptamtlichen Beisitzer ohne mündliche Verhandlung durch unanfechtbaren Beschluss zur alleinigen Entscheidung übertragen. Diese Übertragung ist nur möglich, sofern die Sache keine wesentlichen Schwierigkeiten in tatsächlicher oder rechtlicher Hinsicht aufweist und die Entscheidung nicht von grundsätzlicher Bedeutung sein wird.
+
+(4) Die Mitglieder der Kammer werden für eine Amtszeit von fünf Jahren bestellt. Sie entscheiden unabhängig und sind nur dem Gesetz unterworfen.
+
+### § 158 Einrichtung, Organisation
+
+(1) Der Bund richtet die erforderliche Anzahl von Vergabekammern beim Bundeskartellamt ein. Einrichtung und Besetzung der Vergabekammern sowie die Geschäftsverteilung bestimmt der Präsident des Bundeskartellamts. Ehrenamtliche Beisitzer und deren Stellvertreter ernennt er auf Vorschlag der Spitzenorganisationen der öffentlich-rechtlichen Kammern. Der Präsident des Bundeskartellamts erlässt nach Genehmigung durch das Bundesministerium für Wirtschaft und Energie eine Geschäftsordnung und veröffentlicht diese im Bundesanzeiger.
+
+(2) Die Einrichtung, Organisation und Besetzung der in diesem Abschnitt genannten Stellen (Nachprüfungsbehörden) der Länder bestimmen die nach Landesrecht zuständigen Stellen, mangels einer solchen Bestimmung die Landesregierung, die die Ermächtigung weiter übertragen kann. Die Länder können gemeinsame Nachprüfungsbehörden einrichten.
+
+### § 159 Abgrenzung der Zuständigkeit der Vergabekammern
+
+(1) Die Vergabekammer des Bundes ist zuständig für die Nachprüfung der Vergabeverfahren
+
+1.  
+des Bundes;
+
+2.  
+von öffentlichen Auftraggebern im Sinne des § 99 Nummer 2, von Sektorenauftraggebern im Sinne des § 100 Absatz 1 Nummer 1 in Verbindung mit § 99 Nummer 2 und Konzessionsgebern im Sinne des § 101 Absatz 1 Nummer 1 in Verbindung mit § 99 Nummer 2, sofern der Bund die Beteiligung überwiegend verwaltet oder die sonstige Finanzierung überwiegend gewährt hat oder über die Leitung überwiegend die Aufsicht ausübt oder die Mitglieder des zur Geschäftsführung oder zur Aufsicht berufenen Organs überwiegend bestimmt hat, es sei denn, die an dem Auftraggeber Beteiligten haben sich auf die Zuständigkeit einer anderen Vergabekammer geeinigt;
+
+3.  
+von Sektorenauftraggebern im Sinne des § 100 Absatz 1 Nummer 2 und von Konzessionsgebern im Sinne des § 101 Absatz 1 Nummer 3, sofern der Bund auf sie einen beherrschenden Einfluss ausübt; ein beherrschender Einfluss liegt vor, wenn der Bund unmittelbar oder mittelbar die Mehrheit des gezeichneten Kapitals des Auftraggebers besitzt oder über die Mehrheit der mit den Anteilen des Auftraggebers verbundenen Stimmrechte verfügt oder mehr als die Hälfte der Mitglieder des Verwaltungs-, Leitungs- oder Aufsichtsorgans des Auftraggebers bestellen kann;
+
+4.  
+von Auftraggebern im Sinne des § 99 Nummer 4, sofern der Bund die Mittel überwiegend bewilligt hat;
+
+5.  
+die im Rahmen der Organleihe für den Bund durchgeführt werden;
+
+6.  
+in Fällen, in denen sowohl die Vergabekammer des Bundes als auch eine oder mehrere Vergabekammern der Länder zuständig sind.
+
+(2) Wird das Vergabeverfahren von einem Land im Rahmen der Auftragsverwaltung für den Bund durchgeführt, ist die Vergabekammer dieses Landes zuständig. Ist in entsprechender Anwendung des Absatzes 1 Nummer 2 bis 5 ein Auftraggeber einem Land zuzuordnen, ist die Vergabekammer des jeweiligen Landes zuständig.
+
+(3) In allen anderen Fällen wird die Zuständigkeit der Vergabekammern nach dem Sitz des Auftraggebers bestimmt. Bei länderübergreifenden Beschaffungen benennen die Auftraggeber in der Vergabebekanntmachung nur eine zuständige Vergabekammer.
+
+Abschnitt 2 Verfahren vor der Vergabekammer
+-------------------------------------------
+
+### 
+
+### § 160 Einleitung, Antrag
+
+(1) Die Vergabekammer leitet ein Nachprüfungsverfahren nur auf Antrag ein.
+
+(2) Antragsbefugt ist jedes Unternehmen, das ein Interesse an dem öffentlichen Auftrag oder der Konzession hat und eine Verletzung in seinen Rechten nach § 97 Absatz 6 durch Nichtbeachtung von Vergabevorschriften geltend macht. Dabei ist darzulegen, dass dem Unternehmen durch die behauptete Verletzung der Vergabevorschriften ein Schaden entstanden ist oder zu entstehen droht.
+
+(3) Der Antrag ist unzulässig, soweit
+
+1.  
+der Antragsteller den geltend gemachten Verstoß gegen Vergabevorschriften vor Einreichen des Nachprüfungsantrags erkannt und gegenüber dem Auftraggeber nicht innerhalb einer Frist von zehn Kalendertagen gerügt hat; der Ablauf der Frist nach § 134 Absatz 2 bleibt unberührt,
+
+2.  
+Verstöße gegen Vergabevorschriften, die aufgrund der Bekanntmachung erkennbar sind, nicht spätestens bis zum Ablauf der in der Bekanntmachung benannten Frist zur Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt werden,
+
+3.  
+Verstöße gegen Vergabevorschriften, die erst in den Vergabeunterlagen erkennbar sind, nicht spätestens bis zum Ablauf der Frist zur Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt werden,
+
+4.  
+mehr als 15 Kalendertage nach Eingang der Mitteilung des Auftraggebers, einer Rüge nicht abhelfen zu wollen, vergangen sind.
+
+Satz 1 gilt nicht bei einem Antrag auf Feststellung der Unwirksamkeit des Vertrags nach § 135 Absatz 1 Nummer 2. § 134 Absatz 1 Satz 2 bleibt unberührt.
+
+### § 161 Form, Inhalt
+
+(1) Der Antrag ist schriftlich bei der Vergabekammer einzureichen und unverzüglich zu begründen. Er soll ein bestimmtes Begehren enthalten. Ein Antragsteller ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Geltungsbereich dieses Gesetzes hat einen Empfangsbevollmächtigten im Geltungsbereich dieses Gesetzes zu benennen.
+
+(2) Die Begründung muss die Bezeichnung des Antragsgegners, eine Beschreibung der behaupteten Rechtsverletzung mit Sachverhaltsdarstellung und die Bezeichnung der verfügbaren Beweismittel enthalten sowie darlegen, dass die Rüge gegenüber dem Auftraggeber erfolgt ist; sie soll, soweit bekannt, die sonstigen Beteiligten benennen.
+
+### § 162 Verfahrensbeteiligte, Beiladung
+
+Verfahrensbeteiligte sind der Antragsteller, der Auftraggeber und die Unternehmen, deren Interessen durch die Entscheidung schwerwiegend berührt werden und die deswegen von der Vergabekammer beigeladen worden sind. Die Entscheidung über die Beiladung ist unanfechtbar.
+
+### § 163 Untersuchungsgrundsatz
+
+(1) Die Vergabekammer erforscht den Sachverhalt von Amts wegen. Sie kann sich dabei auf das beschränken, was von den Beteiligten vorgebracht wird oder ihr sonst bekannt sein muss. Zu einer umfassenden Rechtmäßigkeitskontrolle ist die Vergabekammer nicht verpflichtet. Sie achtet bei ihrer gesamten Tätigkeit darauf, dass der Ablauf des Vergabeverfahrens nicht unangemessen beeinträchtigt wird.
+
+(2) Die Vergabekammer prüft den Antrag darauf, ob er offensichtlich unzulässig oder unbegründet ist. Dabei berücksichtigt die Vergabekammer auch einen vorsorglich hinterlegten Schriftsatz (Schutzschrift) des Auftraggebers. Sofern der Antrag nicht offensichtlich unzulässig oder unbegründet ist, übermittelt die Vergabekammer dem Auftraggeber eine Kopie des Antrags und fordert bei ihm die Akten an, die das Vergabeverfahren dokumentieren (Vergabeakten). Der Auftraggeber hat die Vergabeakten der Kammer sofort zur Verfügung zu stellen. Die §§ 57 bis 59 Absatz 1 bis 5 sowie § 61 gelten entsprechend.
+
+### § 164 Aufbewahrung vertraulicher Unterlagen
+
+(1) Die Vergabekammer stellt die Vertraulichkeit von Verschlusssachen und anderen vertraulichen Informationen sicher, die in den von den Parteien übermittelten Unterlagen enthalten sind.
+
+(2) Die Mitglieder der Vergabekammern sind zur Geheimhaltung verpflichtet; die Entscheidungsgründe dürfen Art und Inhalt der geheim gehaltenen Urkunden, Akten, elektronischen Dokumente und Auskünfte nicht erkennen lassen.
+
+### § 165 Akteneinsicht
+
+(1) Die Beteiligten können die Akten bei der Vergabekammer einsehen und sich durch die Geschäftsstelle auf ihre Kosten Ausfertigungen, Auszüge oder Abschriften erteilen lassen.
+
+(2) Die Vergabekammer hat die Einsicht in die Unterlagen zu versagen, soweit dies aus wichtigen Gründen, insbesondere des Geheimschutzes oder zur Wahrung von Betriebs- oder Geschäftsgeheimnissen, geboten ist.
+
+(3) Jeder Beteiligte hat mit Übersendung seiner Akten oder Stellungnahmen auf die in Absatz 2 genannten Geheimnisse hinzuweisen und diese in den Unterlagen entsprechend kenntlich zu machen. Erfolgt dies nicht, kann die Vergabekammer von seiner Zustimmung auf Einsicht ausgehen.
+
+(4) Die Versagung der Akteneinsicht kann nur im Zusammenhang mit der sofortigen Beschwerde in der Hauptsache angegriffen werden.
+
+### § 166 Mündliche Verhandlung
+
+(1) Die Vergabekammer entscheidet aufgrund einer mündlichen Verhandlung, die sich auf einen Termin beschränken soll. Alle Beteiligten haben Gelegenheit zur Stellungnahme. Mit Zustimmung der Beteiligten oder bei Unzulässigkeit oder bei offensichtlicher Unbegründetheit des Antrags kann nach Lage der Akten entschieden werden.
+
+(2) Auch wenn die Beteiligten in dem Verhandlungstermin nicht erschienen oder nicht ordnungsgemäß vertreten sind, kann in der Sache verhandelt und entschieden werden.
+
+### § 167 Beschleunigung
+
+(1) Die Vergabekammer trifft und begründet ihre Entscheidung schriftlich innerhalb einer Frist von fünf Wochen ab Eingang des Antrags. Bei besonderen tatsächlichen oder rechtlichen Schwierigkeiten kann der Vorsitzende im Ausnahmefall die Frist durch Mitteilung an die Beteiligten um den erforderlichen Zeitraum verlängern. Dieser Zeitraum soll nicht länger als zwei Wochen dauern. Er begründet diese Verfügung schriftlich.
+
+(2) Die Beteiligten haben an der Aufklärung des Sachverhalts mitzuwirken, wie es einem auf Förderung und raschen Abschluss des Verfahrens bedachten Vorgehen entspricht. Den Beteiligten können Fristen gesetzt werden, nach deren Ablauf weiterer Vortrag unbeachtet bleiben kann.
+
+### § 168 Entscheidung der Vergabekammer
+
+(1) Die Vergabekammer entscheidet, ob der Antragsteller in seinen Rechten verletzt ist und trifft die geeigneten Maßnahmen, um eine Rechtsverletzung zu beseitigen und eine Schädigung der betroffenen Interessen zu verhindern. Sie ist an die Anträge nicht gebunden und kann auch unabhängig davon auf die Rechtmäßigkeit des Vergabeverfahrens einwirken.
+
+(2) Ein wirksam erteilter Zuschlag kann nicht aufgehoben werden. Hat sich das Nachprüfungsverfahren durch Erteilung des Zuschlags, durch Aufhebung oder durch Einstellung des Vergabeverfahrens oder in sonstiger Weise erledigt, stellt die Vergabekammer auf Antrag eines Beteiligten fest, ob eine Rechtsverletzung vorgelegen hat. § 167 Absatz 1 gilt in diesem Fall nicht.
+
+(3) Die Entscheidung der Vergabekammer ergeht durch Verwaltungsakt. Die Vollstreckung richtet sich, auch gegen einen Hoheitsträger, nach den Verwaltungsvollstreckungsgesetzen des Bundes und der Länder. Die §§ 61 und 86a Satz 2 gelten entsprechend.
+
+### § 169 Aussetzung des Vergabeverfahrens
+
+(1) Informiert die Vergabekammer den Auftraggeber in Textform über den Antrag auf Nachprüfung, darf dieser vor einer Entscheidung der Vergabekammer und dem Ablauf der Beschwerdefrist nach § 172 Absatz 1 den Zuschlag nicht erteilen.
+
+(2) Die Vergabekammer kann dem Auftraggeber auf seinen Antrag oder auf Antrag des Unternehmens, das nach § 134 vom Auftraggeber als das Unternehmen benannt ist, das den Zuschlag erhalten soll, gestatten, den Zuschlag nach Ablauf von zwei Wochen seit Bekanntgabe dieser Entscheidung zu erteilen, wenn unter Berücksichtigung aller möglicherweise geschädigten Interessen sowie des Interesses der Allgemeinheit an einem raschen Abschluss des Vergabeverfahrens die nachteiligen Folgen einer Verzögerung der Vergabe bis zum Abschluss der Nachprüfung die damit verbundenen Vorteile überwiegen. Bei der Abwägung ist das Interesse der Allgemeinheit an einer wirtschaftlichen Erfüllung der Aufgaben des Auftraggebers zu berücksichtigen; bei verteidigungs- oder sicherheitsspezifischen Aufträgen im Sinne des § 104 sind zusätzlich besondere Verteidigungs- und Sicherheitsinteressen zu berücksichtigen. Die Vergabekammer berücksichtigt dabei auch die allgemeinen Aussichten des Antragstellers im Vergabeverfahren, den Auftrag oder die Konzession zu erhalten. Die Erfolgsaussichten des Nachprüfungsantrags müssen nicht in jedem Fall Gegenstand der Abwägung sein. Das Beschwerdegericht kann auf Antrag das Verbot des Zuschlags nach Absatz 1 wiederherstellen; § 168 Absatz 2 Satz 1 bleibt unberührt. Wenn die Vergabekammer den Zuschlag nicht gestattet, kann das Beschwerdegericht auf Antrag des Auftraggebers unter den Voraussetzungen der Sätze 1 bis 4 den sofortigen Zuschlag gestatten. Für das Verfahren vor dem Beschwerdegericht gilt § 176 Absatz 2 Satz 1 und 2 und Absatz 3 entsprechend. Eine sofortige Beschwerde nach § 171 Absatz 1 ist gegen Entscheidungen der Vergabekammer nach diesem Absatz nicht zulässig.
+
+(3) Sind Rechte des Antragstellers aus § 97 Absatz 6 im Vergabeverfahren auf andere Weise als durch den drohenden Zuschlag gefährdet, kann die Kammer auf besonderen Antrag mit weiteren vorläufigen Maßnahmen in das Vergabeverfahren eingreifen. Sie legt dabei den Beurteilungsmaßstab des Absatzes 2 Satz 1 zugrunde. Diese Entscheidung ist nicht selbständig anfechtbar. Die Vergabekammer kann die von ihr getroffenen weiteren vorläufigen Maßnahmen nach den Verwaltungsvollstreckungsgesetzen des Bundes und der Länder durchsetzen; die Maßnahmen sind sofort vollziehbar. § 86a Satz 2 gilt entsprechend.
+
+(4) Macht der Auftraggeber das Vorliegen der Voraussetzungen nach § 117 Nummer 1 bis 3 oder § 150 Nummer 1 oder 6 geltend, entfällt das Verbot des Zuschlags nach Absatz 1 fünf Werktage nach Zustellung eines entsprechenden Schriftsatzes an den Antragsteller; die Zustellung ist durch die Vergabekammer unverzüglich nach Eingang des Schriftsatzes vorzunehmen. Auf Antrag kann das Beschwerdegericht das Verbot des Zuschlags wiederherstellen. § 176 Absatz 1 Satz 1, Absatz 2 Satz 1 sowie Absatz 3 und 4 ist entsprechend anzuwenden.
+
+### § 170 Ausschluss von abweichendem Landesrecht
+
+Soweit dieser Unterabschnitt Regelungen zum Verwaltungsverfahren enthält, darf hiervon durch Landesrecht nicht abgewichen werden.
+
+Abschnitt 3 Sofortige Beschwerde
+--------------------------------
+
+### 
+
+### § 171 Zulässigkeit, Zuständigkeit
 
 (1) Gegen Entscheidungen der Vergabekammer ist die sofortige Beschwerde zulässig. Sie steht den am Verfahren vor der Vergabekammer Beteiligten zu.
 
-(2) Die sofortige Beschwerde ist auch zulässig, wenn die Vergabekammer über einen Antrag auf Nachprüfung nicht innerhalb der Frist des § 113 Absatz 1 entschieden hat; in diesem Fall gilt der Antrag als abgelehnt.
+(2) Die sofortige Beschwerde ist auch zulässig, wenn die Vergabekammer über einen Antrag auf Nachprüfung nicht innerhalb der Frist des § 167 Absatz 1 entschieden hat; in diesem Fall gilt der Antrag als abgelehnt.
 
 (3) Über die sofortige Beschwerde entscheidet ausschließlich das für den Sitz der Vergabekammer zuständige Oberlandesgericht. Bei den Oberlandesgerichten wird ein Vergabesenat gebildet.
 
 (4) Rechtssachen nach den Absätzen 1 und 2 können von den Landesregierungen durch Rechtsverordnung anderen Oberlandesgerichten oder dem Obersten Landesgericht zugewiesen werden. Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
-### § 117 Frist, Form
+### § 172 Frist, Form, Inhalt
 
-(1) Die sofortige Beschwerde ist binnen einer Notfrist von zwei Wochen, die mit der Zustellung der Entscheidung, im Fall des § 116 Absatz 2 mit dem Ablauf der Frist beginnt, schriftlich bei dem Beschwerdegericht einzulegen.
+(1) Die sofortige Beschwerde ist binnen einer Notfrist von zwei Wochen, die mit der Zustellung der Entscheidung, im Fall des § 171 Absatz 2 mit dem Ablauf der Frist beginnt, schriftlich bei dem Beschwerdegericht einzulegen.
 
 (2) Die sofortige Beschwerde ist zugleich mit ihrer Einlegung zu begründen. Die Beschwerdebegründung muss enthalten:
 
@@ -2905,58 +3863,53 @@ die Angabe der Tatsachen und Beweismittel, auf die sich die Beschwerde stützt.
 
 (4) Mit der Einlegung der Beschwerde sind die anderen Beteiligten des Verfahrens vor der Vergabekammer vom Beschwerdeführer durch Übermittlung einer Ausfertigung der Beschwerdeschrift zu unterrichten.
 
-### § 118 Wirkung
+### § 173 Wirkung
 
 (1) Die sofortige Beschwerde hat aufschiebende Wirkung gegenüber der Entscheidung der Vergabekammer. Die aufschiebende Wirkung entfällt zwei Wochen nach Ablauf der Beschwerdefrist. Hat die Vergabekammer den Antrag auf Nachprüfung abgelehnt, so kann das Beschwerdegericht auf Antrag des Beschwerdeführers die aufschiebende Wirkung bis zur Entscheidung über die Beschwerde verlängern.
 
-(2) Das Gericht lehnt den Antrag nach Absatz 1 Satz 3 ab, wenn unter Berücksichtigung aller möglicherweise geschädigten Interessen die nachteiligen Folgen einer Verzögerung der Vergabe bis zur Entscheidung über die Beschwerde die damit verbundenen Vorteile überwiegen. Bei der Abwägung ist das Interesse der Allgemeinheit an einer wirtschaftlichen Erfüllung der Aufgaben des Auftraggebers zu berücksichtigen; bei verteidigungs- oder sicherheitsrelevanten Aufträgen im Sinne des § 99 Absatz 7 sind zusätzlich besondere Verteidigungs- und Sicherheitsinteressen zu berücksichtigen. Das Gericht berücksichtigt bei seiner Entscheidung auch die Erfolgsaussichten der Beschwerde, die allgemeinen Aussichten des Antragstellers im Vergabeverfahren, den Auftrag zu erhalten, und das Interesse der Allgemeinheit an einem raschen Abschluss des Vergabeverfahrens.
+(2) Das Gericht lehnt den Antrag nach Absatz 1 Satz 3 ab, wenn unter Berücksichtigung aller möglicherweise geschädigten Interessen die nachteiligen Folgen einer Verzögerung der Vergabe bis zur Entscheidung über die Beschwerde die damit verbundenen Vorteile überwiegen. Bei der Abwägung ist das Interesse der Allgemeinheit an einer wirtschaftlichen Erfüllung der Aufgaben des Auftraggebers zu berücksichtigen; bei verteidigungs- oder sicherheitsspezifischen Aufträgen im Sinne des § 104 sind zusätzlich besondere Verteidigungs- und Sicherheitsinteressen zu berücksichtigen. Das Gericht berücksichtigt bei seiner Entscheidung auch die Erfolgsaussichten der Beschwerde, die allgemeinen Aussichten des Antragstellers im Vergabeverfahren, den öffentlichen Auftrag oder die Konzession zu erhalten, und das Interesse der Allgemeinheit an einem raschen Abschluss des Vergabeverfahrens.
 
-(3) Hat die Vergabekammer dem Antrag auf Nachprüfung durch Untersagung des Zuschlags stattgegeben, so unterbleibt dieser, solange nicht das Beschwerdegericht die Entscheidung der Vergabekammer nach § 121 oder § 123 aufhebt.
+(3) Hat die Vergabekammer dem Antrag auf Nachprüfung durch Untersagung des Zuschlags stattgegeben, so unterbleibt dieser, solange nicht das Beschwerdegericht die Entscheidung der Vergabekammer nach § 176 oder § 178 aufhebt.
 
-### § 119 Beteiligte am Beschwerdeverfahren
+### § 174 Beteiligte am Beschwerdeverfahren
 
 An dem Verfahren vor dem Beschwerdegericht beteiligt sind die an dem Verfahren vor der Vergabekammer Beteiligten.
 
-### § 120 Verfahrensvorschriften
+### § 175 Verfahrensvorschriften
 
 (1) Vor dem Beschwerdegericht müssen sich die Beteiligten durch einen Rechtsanwalt als Bevollmächtigten vertreten lassen. Juristische Personen des öffentlichen Rechts können sich durch Beamte oder Angestellte mit Befähigung zum Richteramt vertreten lassen.
 
-(2) Die §§ 69, 70 Absatz 1 bis 3, § 71 Absatz 1 und 6, §§ 71a, 72, 73 mit Ausnahme der Verweisung auf § 227 Absatz 3 der Zivilprozessordnung, die §§ 78, 111 und 113 Absatz 2 Satz 1 finden entsprechende Anwendung.
+(2) Die §§ 69, 70 Absatz 1 bis 3, § 71 Absatz 1 und 6, §§ 71a, 72, 73 mit Ausnahme der Verweisung auf § 227 Absatz 3 der Zivilprozessordnung, die §§ 78, 165 und 167 Absatz 2 Satz 1 sind entsprechend anzuwenden.
 
-### § 121 Vorabentscheidung über den Zuschlag
+### § 176 Vorabentscheidung über den Zuschlag
 
-(1) Auf Antrag des Auftraggebers oder auf Antrag des Unternehmens, das nach § 101a vom Auftraggeber als das Unternehmen benannt ist, das den Zuschlag erhalten soll, kann das Gericht den weiteren Fortgang des Vergabeverfahrens und den Zuschlag gestatten, wenn unter Berücksichtigung aller möglicherweise geschädigten Interessen die nachteiligen Folgen einer Verzögerung der Vergabe bis zur Entscheidung über die Beschwerde die damit verbundenen Vorteile überwiegen. Bei der Abwägung ist das Interesse der Allgemeinheit an einer wirtschaftlichen Erfüllung der Aufgaben des Auftraggebers zu berücksichtigen; bei verteidigungs- oder sicherheitsrelevanten Aufträgen im Sinne des § 99 Absatz 7 sind zusätzlich besondere Verteidigungs- und Sicherheitsinteressen zu berücksichtigen. Das Gericht berücksichtigt bei seiner Entscheidung auch die Erfolgsaussichten der sofortigen Beschwerde, die allgemeinen Aussichten des Antragstellers im Vergabeverfahren, den Auftrag zu erhalten, und das Interesse der Allgemeinheit an einem raschen Abschluss des Vergabeverfahrens.
+(1) Auf Antrag des Auftraggebers oder auf Antrag des Unternehmens, das nach § 134 vom Auftraggeber als das Unternehmen benannt ist, das den Zuschlag erhalten soll, kann das Gericht den weiteren Fortgang des Vergabeverfahrens und den Zuschlag gestatten, wenn unter Berücksichtigung aller möglicherweise geschädigten Interessen die nachteiligen Folgen einer Verzögerung der Vergabe bis zur Entscheidung über die Beschwerde die damit verbundenen Vorteile überwiegen. Bei der Abwägung ist das Interesse der Allgemeinheit an einer wirtschaftlichen Erfüllung der Aufgaben des Auftraggebers zu berücksichtigen; bei verteidigungs- oder sicherheitsspezifischen Aufträgen im Sinne des § 104 sind zusätzlich besondere Verteidigungs- und Sicherheitsinteressen zu berücksichtigen. Das Gericht berücksichtigt bei seiner Entscheidung auch die Erfolgsaussichten der sofortigen Beschwerde, die allgemeinen Aussichten des Antragstellers im Vergabeverfahren, den öffentlichen Auftrag oder die Konzession zu erhalten, und das Interesse der Allgemeinheit an einem raschen Abschluss des Vergabeverfahrens.
 
 (2) Der Antrag ist schriftlich zu stellen und gleichzeitig zu begründen. Die zur Begründung des Antrags vorzutragenden Tatsachen sowie der Grund für die Eilbedürftigkeit sind glaubhaft zu machen. Bis zur Entscheidung über den Antrag kann das Verfahren über die Beschwerde ausgesetzt werden.
 
-(3) Die Entscheidung ist unverzüglich längstens innerhalb von fünf Wochen nach Eingang des Antrags zu treffen und zu begründen; bei besonderen tatsächlichen oder rechtlichen Schwierigkeiten kann der Vorsitzende im Ausnahmefall die Frist durch begründete Mitteilung an die Beteiligten um den erforderlichen Zeitraum verlängern. Die Entscheidung kann ohne mündliche Verhandlung ergehen. Ihre Begründung erläutert Rechtmäßigkeit oder Rechtswidrigkeit des Vergabeverfahrens. § 120 findet Anwendung.
+(3) Die Entscheidung ist unverzüglich, längstens innerhalb von fünf Wochen nach Eingang des Antrags zu treffen und zu begründen; bei besonderen tatsächlichen oder rechtlichen Schwierigkeiten kann der Vorsitzende im Ausnahmefall die Frist durch begründete Mitteilung an die Beteiligten um den erforderlichen Zeitraum verlängern. Die Entscheidung kann ohne mündliche Verhandlung ergehen. Ihre Begründung erläutert Rechtmäßigkeit oder Rechtswidrigkeit des Vergabeverfahrens. § 175 ist anzuwenden.
 
 (4) Gegen eine Entscheidung nach dieser Vorschrift ist ein Rechtsmittel nicht zulässig.
 
-### § 122 Ende des Vergabeverfahrens nach Entscheidung des Beschwerdegerichts
+### § 177 Ende des Vergabeverfahrens nach Entscheidung des Beschwerdegerichts
 
-Ist der Auftraggeber mit einem Antrag nach § 121 vor dem Beschwerdegericht unterlegen, gilt das Vergabeverfahren nach Ablauf von zehn Tagen nach Zustellung der Entscheidung als beendet, wenn der Auftraggeber nicht die Maßnahmen zur Herstellung der Rechtmäßigkeit des Verfahrens ergreift, die sich aus der Entscheidung ergeben; das Verfahren darf nicht fortgeführt werden.
+Ist der Auftraggeber mit einem Antrag nach § 176 vor dem Beschwerdegericht unterlegen, gilt das Vergabeverfahren nach Ablauf von zehn Tagen nach Zustellung der Entscheidung als beendet, wenn der Auftraggeber nicht die Maßnahmen zur Herstellung der Rechtmäßigkeit des Verfahrens ergreift, die sich aus der Entscheidung ergeben; das Verfahren darf nicht fortgeführt werden.
 
-### § 123 Beschwerdeentscheidung
+### § 178 Beschwerdeentscheidung
 
-Hält das Gericht die Beschwerde für begründet, so hebt es die Entscheidung der Vergabekammer auf. In diesem Fall entscheidet das Gericht in der Sache selbst oder spricht die Verpflichtung der Vergabekammer aus, unter Berücksichtigung der Rechtsauffassung des Gerichts über die Sache erneut zu entscheiden. Auf Antrag stellt es fest, ob das Unternehmen, das die Nachprüfung beantragt hat, durch den Auftraggeber in seinen Rechten verletzt ist. § 114 Absatz 2 gilt entsprechend.
+Hält das Gericht die Beschwerde für begründet, so hebt es die Entscheidung der Vergabekammer auf. In diesem Fall entscheidet das Gericht in der Sache selbst oder spricht die Verpflichtung der Vergabekammer aus, unter Berücksichtigung der Rechtsauffassung des Gerichts über die Sache erneut zu entscheiden. Auf Antrag stellt es fest, ob das Unternehmen, das die Nachprüfung beantragt hat, durch den Auftraggeber in seinen Rechten verletzt ist. § 168 Absatz 2 gilt entsprechend.
 
-### § 124 Bindungswirkung und Vorlagepflicht
+### § 179 Bindungswirkung und Vorlagepflicht
 
 (1) Wird wegen eines Verstoßes gegen Vergabevorschriften Schadensersatz begehrt und hat ein Verfahren vor der Vergabekammer stattgefunden, ist das ordentliche Gericht an die bestandskräftige Entscheidung der Vergabekammer und die Entscheidung des Oberlandesgerichts sowie gegebenenfalls des nach Absatz 2 angerufenen Bundesgerichtshofs über die Beschwerde gebunden.
 
-(2) Will ein Oberlandesgericht von einer Entscheidung eines anderen Oberlandesgerichts oder des Bundesgerichtshofs abweichen, so legt es die Sache dem Bundesgerichtshof vor. Der Bundesgerichtshof entscheidet anstelle des Oberlandesgerichts. Der Bundesgerichtshof kann sich auf die Entscheidung der Divergenzfrage beschränken und dem Beschwerdegericht die Entscheidung in der Hauptsache übertragen, wenn dies nach dem Sach- und Streitstand des Beschwerdeverfahrens angezeigt scheint. Die Vorlagepflicht gilt nicht im Verfahren nach § 118 Absatz 1 Satz 3 und nach § 121.
+(2) Will ein Oberlandesgericht von einer Entscheidung eines anderen Oberlandesgerichts oder des Bundesgerichtshofs abweichen, so legt es die Sache dem Bundesgerichtshof vor. Der Bundesgerichtshof entscheidet anstelle des Oberlandesgerichts. Der Bundesgerichtshof kann sich auf die Entscheidung der Divergenzfrage beschränken und dem Beschwerdegericht die Entscheidung in der Hauptsache übertragen, wenn dies nach dem Sach- und Streitstand des Beschwerdeverfahrens angezeigt scheint. Die Vorlagepflicht gilt nicht im Verfahren nach § 173 Absatz 1 Satz 3 und nach § 176.
 
-Dritter Abschnitt Sonstige Regelungen
--------------------------------------
+### § 180 Schadensersatz bei Rechtsmissbrauch
 
-### 
+(1) Erweist sich der Antrag nach § 160 oder die sofortige Beschwerde nach § 171 als von Anfang an ungerechtfertigt, ist der Antragsteller oder der Beschwerdeführer verpflichtet, dem Gegner und den Beteiligten den Schaden zu ersetzen, der ihnen durch den Missbrauch des Antrags- oder Beschwerderechts entstanden ist.
 
-### § 125 Schadensersatz bei Rechtsmissbrauch
-
-(1) Erweist sich der Antrag nach § 107 oder die sofortige Beschwerde nach § 116 als von Anfang an ungerechtfertigt, ist der Antragsteller oder der Beschwerdeführer verpflichtet, dem Gegner und den Beteiligten den Schaden zu ersetzen, der ihnen durch den Missbrauch des Antrags- oder Beschwerderechts entstanden ist.
-
-(2) Ein Missbrauch ist es insbesondere,
+(2) Ein Missbrauch des Antrags- oder Beschwerderechts ist es insbesondere,
 
 1.  
 die Aussetzung oder die weitere Aussetzung des Vergabeverfahrens durch vorsätzlich oder grob fahrlässig vorgetragene falsche Angaben zu erwirken;
@@ -2967,123 +3920,58 @@ die Überprüfung mit dem Ziel zu beantragen, das Vergabeverfahren zu behindern 
 3.  
 einen Antrag in der Absicht zu stellen, ihn später gegen Geld oder andere Vorteile zurückzunehmen.
 
-(3) Erweisen sich die von der Vergabekammer entsprechend einem besonderen Antrag nach § 115 Absatz 3 getroffenen vorläufigen Maßnahmen als von Anfang an ungerechtfertigt, hat der Antragsteller dem Auftraggeber den aus der Vollziehung der angeordneten Maßnahme entstandenen Schaden zu ersetzen.
+(3) Erweisen sich die von der Vergabekammer entsprechend einem besonderen Antrag nach § 169 Absatz 3 getroffenen vorläufigen Maßnahmen als von Anfang an ungerechtfertigt, hat der Antragsteller dem Auftraggeber den aus der Vollziehung der angeordneten Maßnahme entstandenen Schaden zu ersetzen.
 
-### § 126 Anspruch auf Ersatz des Vertrauensschadens
+### § 181 Anspruch auf Ersatz des Vertrauensschadens
 
 Hat der Auftraggeber gegen eine den Schutz von Unternehmen bezweckende Vorschrift verstoßen und hätte das Unternehmen ohne diesen Verstoß bei der Wertung der Angebote eine echte Chance gehabt, den Zuschlag zu erhalten, die aber durch den Rechtsverstoß beeinträchtigt wurde, so kann das Unternehmen Schadensersatz für die Kosten der Vorbereitung des Angebots oder der Teilnahme an einem Vergabeverfahren verlangen. Weiterreichende Ansprüche auf Schadensersatz bleiben unberührt.
 
-### § 127 Ermächtigungen
+### § 182 Kosten des Verfahrens vor der Vergabekammer
 
-Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen erlassen
+(1) Für Amtshandlungen der Vergabekammern werden Kosten (Gebühren und Auslagen) zur Deckung des Verwaltungsaufwandes erhoben. Das Verwaltungskostengesetz vom 23. Juni 1970 (BGBl. I S. 821) in der am 14. August 2013 geltenden Fassung ist anzuwenden.
 
-1.  
-zur Umsetzung der vergaberechtlichen Schwellenwerte der Richtlinien der Europäischen Union in ihrer jeweils geltenden Fassung;
+(2) Die Gebühr beträgt mindestens 2 500 Euro; dieser Betrag kann aus Gründen der Billigkeit bis auf ein Zehntel ermäßigt werden. Die Gebühr soll den Betrag von 50 000 Euro nicht überschreiten; sie kann im Einzelfall, wenn der Aufwand oder die wirtschaftliche Bedeutung außergewöhnlich hoch ist, bis zu einem Betrag von 100 000 Euro erhöht werden.
 
-2.  
-über das bei der Vergabe durch Auftraggeber, die auf dem Gebiet der Trinkwasser- oder Energieversorgung oder des Verkehrs tätig sind, einzuhaltende Verfahren, über die Auswahl und die Prüfung der Unternehmen und der Angebote, über den Abschluss des Vertrags und sonstige Regelungen des Vergabeverfahrens;
+(3) Soweit ein Beteiligter im Verfahren unterliegt, hat er die Kosten zu tragen. Mehrere Kostenschuldner haften als Gesamtschuldner. Kosten, die durch Verschulden eines Beteiligten entstanden sind, können diesem auferlegt werden. Hat sich der Antrag vor Entscheidung der Vergabekammer durch Rücknahme oder anderweitig erledigt, ist die Hälfte der Gebühr zu entrichten. Die Entscheidung, wer die Kosten zu tragen hat, erfolgt nach billigem Ermessen. Aus Gründen der Billigkeit kann von der Erhebung von Gebühren ganz oder teilweise abgesehen werden.
 
-3.  
-über das bei der Vergabe von verteidigungs- und sicherheitsrelevanten öffentlichen Aufträgen einzuhaltende Verfahren, über die Auswahl und die Prüfung der Unternehmen und der Angebote, über den Ausschluss vom Vergabeverfahren, über den Abschluss des Vertrags, über die Aufhebung von Vergabeverfahren und über sonstige Regelungen des Vergabeverfahrens einschließlich verteidigungs- und sicherheitsrelevanter Anforderungen im Hinblick auf den Geheimschutz, allgemeine Regeln zur Wahrung der Vertraulichkeit, die Versorgungssicherheit sowie besondere Regelungen für die Vergabe von Unteraufträgen;
+(4) Soweit ein Beteiligter im Nachprüfungsverfahren unterliegt, hat er die zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendigen Aufwendungen des Antragsgegners zu tragen. Die Aufwendungen der Beigeladenen sind nur erstattungsfähig, soweit sie die Vergabekammer aus Billigkeit der unterlegenen Partei auferlegt. Hat sich der Antrag durch Rücknahme oder anderweitig erledigt, erfolgt die Entscheidung, wer die zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendigen Aufwendungen anderer Beteiligter zu tragen hat, nach billigem Ermessen; in Bezug auf die Erstattung der Aufwendungen der Beigeladenen gilt im Übrigen Satz 2 entsprechend. § 80 Absatz 1, 2 und 3 Satz 2 des Verwaltungsverfahrensgesetzes und die entsprechenden Vorschriften der Verwaltungsverfahrensgesetze der Länder gelten entsprechend. Ein gesondertes Kostenfestsetzungsverfahren findet nicht statt.
 
-4.  
-(weggefallen)
+### § 183 Korrekturmechanismus der Kommission
 
-5.  
-(weggefallen)
+(1) Erhält die Bundesregierung im Laufe eines Vergabeverfahrens vor Abschluss des Vertrags eine Mitteilung der Europäischen Kommission, dass diese der Auffassung ist, es liege ein schwerer Verstoß gegen das Recht der Europäischen Union zur Vergabe öffentlicher Aufträge oder zur Vergabe von Konzessionen vor, der zu beseitigen sei, teilt das Bundesministerium für Wirtschaft und Energie dies dem Auftraggeber mit.
 
-6.  
-über ein Verfahren, nach dem öffentliche Auftraggeber durch unabhängige Prüfer eine Bescheinigung erhalten können, dass ihr Vergabeverhalten mit den Regeln dieses Gesetzes und den auf Grund dieses Gesetzes erlassenen Vorschriften übereinstimmt;
+(2) Der Auftraggeber ist verpflichtet, innerhalb von 14 Kalendertagen nach Eingang dieser Mitteilung dem Bundesministerium für Wirtschaft und Energie eine umfassende Darstellung des Sachverhalts zu geben und darzulegen, ob der behauptete Verstoß beseitigt wurde, oder zu begründen, warum er nicht beseitigt wurde, ob das Vergabeverfahren Gegenstand eines Nachprüfungsverfahrens ist oder aus sonstigen Gründen ausgesetzt wurde.
 
-7.  
-über ein freiwilliges Streitschlichtungsverfahren der Europäischen Kommission gemäß Kapitel 4 der Richtlinie 92/13/EWG des Rates der Europäischen Gemeinschaften vom 25. Februar 1992 (ABl. EG Nr. L 76 S. 14);
+(3) Ist das Vergabeverfahren Gegenstand eines Nachprüfungsverfahrens oder wurde es ausgesetzt, so ist der Auftraggeber verpflichtet, das Bundesministerium für Wirtschaft und Energie unverzüglich über den Ausgang des Verfahrens zu informieren.
 
-8.  
-über die Informationen, die von den Auftraggebern dem Bundesministerium für Wirtschaft und Energie zu übermitteln sind, um Verpflichtungen aus Richtlinien des Rates der Europäischen Gemeinschaft oder der Europäischen Union zu erfüllen;
-
-9.  
-über die Voraussetzungen, nach denen Auftraggeber, die auf dem Gebiet der Trinkwasser- oder der Energieversorgung oder des Verkehrs tätig sind, sowie Auftraggeber nach dem Bundesberggesetz von der Verpflichtung zur Anwendung dieses Teils befreit werden können, sowie über das dabei anzuwendende Verfahren einschließlich der erforderlichen Ermittlungsbefugnisse des Bundeskartellamts.
-
-### § 127a Kosten für Gutachten und Stellungnahmen nach der Sektorenverordnung; Verordnungsermächtigung
-
-(1) Für Gutachten und Stellungnahmen, die auf Grund der nach § 127 Nummer 9 erlassenen Rechtsverordnung vorgenommen werden, erhebt das Bundeskartellamt Kosten (Gebühren und Auslagen) zur Deckung des Verwaltungsaufwands. § 80 Absatz 1 Satz 3 und Absatz 2 Satz 1, Satz 2 Nummer 1, Satz 3 und 4, Absatz 5 Satz 1 sowie Absatz 6 Satz 1 Nummer 2, Satz 2 und 3 gilt entsprechend. Hinsichtlich der Beschwerdemöglichkeit über die Kostenentscheidung gilt § 63 Absatz 1 und Absatz 4 entsprechend.
-
-(2) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der Kostenerhebung bestimmen. Vollstreckungserleichterungen dürfen vorgesehen werden.
-
-### § 128 Kosten des Verfahrens vor der Vergabekammer
-
-(1) Für Amtshandlungen der Vergabekammern werden Kosten (Gebühren und Auslagen) zur Deckung des Verwaltungsaufwandes erhoben. Das Verwaltungskostengesetz vom 23. Juni 1970 (BGBl. I S. 821) in der am 14. August 2013 geltenden Fassung findet Anwendung.
-
-(2) Die Gebühr beträgt mindestens 2 500 Euro; dieser Betrag kann aus Gründen der Billigkeit bis auf ein Zehntel ermäßigt werden. Die Gebühr soll den Betrag von 50 000 Euro nicht überschreiten; sie kann im Einzelfall, wenn der Aufwand oder die wirtschaftliche Bedeutung außergewöhnlich hoch sind, bis zu einem Betrag von 100 000 Euro erhöht werden.
-
-(3) Soweit ein Beteiligter im Verfahren unterliegt, hat er die Kosten zu tragen. Mehrere Kostenschuldner haften als Gesamtschuldner. Kosten, die durch Verschulden eines Beteiligten entstanden sind, können diesem auferlegt werden. Hat sich der Antrag vor Entscheidung der Vergabekammer durch Rücknahme oder anderweitig erledigt, hat der Antragsteller die Hälfte der Gebühr zu entrichten. Die Entscheidung, wer die Kosten zu tragen hat, erfolgt nach billigem Ermessen. Aus Gründen der Billigkeit kann von der Erhebung von Gebühren ganz oder teilweise abgesehen werden.
-
-(4) Soweit ein Beteiligter im Nachprüfungsverfahren unterliegt, hat er die zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendigen Aufwendungen des Antragsgegners zu tragen. Die Aufwendungen der Beigeladenen sind nur erstattungsfähig, soweit sie die Vergabekammer aus Billigkeit der unterlegenen Partei auferlegt. Nimmt der Antragsteller seinen Antrag zurück, hat er die zur zweckentsprechenden Rechtsverfolgung notwendigen Aufwendungen des Antragsgegners und der Beigeladenen zu erstatten. § 80 Absatz 1, 2 und 3 Satz 2 des Verwaltungsverfahrensgesetzes und die entsprechenden Vorschriften der Verwaltungsverfahrensgesetze der Länder gelten entsprechend. Ein gesondertes Kostenfestsetzungsverfahren findet nicht statt.
-
-### § 129 Korrekturmechanismus der Kommission
-
-(1) Erhält die Bundesregierung im Laufe eines Vergabeverfahrens vor Abschluss des Vertrages eine Mitteilung der Europäischen Kommission, dass diese der Auffassung ist, es liege ein schwerer Verstoß gegen das Recht der Europäischen Union im Bereich der öffentlichen Aufträge vor, der zu beseitigen sei, teilt das Bundesministerium für Wirtschaft und Energie dies dem Auftraggeber mit.
-
-(2) Der Auftraggeber ist verpflichtet, innerhalb von 14 Kalendertagen nach Eingang dieser Mitteilung dem Bundesministerium für Wirtschaft und Energie eine umfassende Darstellung des Sachverhaltes zu geben und darzulegen, ob der behauptete Verstoß beseitigt wurde, oder zu begründen, warum er nicht beseitigt wurde, ob das Vergabeverfahren Gegenstand eines Nachprüfungsverfahrens ist oder aus sonstigen Gründen ausgesetzt wurde.
-
-(3) Ist das Vergabeverfahren Gegenstand eines Nachprüfungsverfahrens oder wurde es ausgesetzt, so ist der Auftraggeber verpflichtet, das Bundesministerium für Wirtschaft und Energie unverzüglich über den Ausgang des Nachprüfungsverfahrens zu informieren.
-
-### § 129a Unterrichtungspflichten der Nachprüfungsinstanzen
+### § 184 Unterrichtungspflichten der Nachprüfungsinstanzen
 
 Die Vergabekammern und die Oberlandesgerichte unterrichten das Bundesministerium für Wirtschaft und Energie bis zum 31. Januar eines jeden Jahres über die Anzahl der Nachprüfungsverfahren des Vorjahres und deren Ergebnisse.
 
-### § 129b Regelung für Auftraggeber nach dem Bundesberggesetz
-
-(1) Auftraggeber, die nach dem Bundesberggesetz berechtigt sind, Erdöl, Gas, Kohle oder andere Festbrennstoffe aufzusuchen oder zu gewinnen, müssen bei der Vergabe von Liefer-, Bau- oder Dienstleistungsaufträgen oberhalb der in Artikel 16 der Richtlinie 2004/17/EG des Europäischen Parlaments und des Rates vom 31. März 2004 zur Koordinierung der Zuschlagserteilung durch Auftraggeber im Bereich der Wasser-, Energie- und Verkehrsversorgung sowie der Postdienste (ABl. EU Nr. L 134 S. 1), die zuletzt durch die Verordnung (EG) Nr. 1422/2007 der Kommission vom 4. Dezember 2007 (ABl. EU Nr. L 317 S. 34) geändert worden ist, festgelegten Schwellenwerte zur Durchführung der Aufsuchung oder Gewinnung von Erdöl, Gas, Kohle oder anderen Festbrennstoffen den Grundsatz der Nichtdiskriminierung und der wettbewerbsorientierten Auftragsvergabe beachten. Insbesondere müssen sie Unternehmen, die ein Interesse an einem solchen Auftrag haben können, ausreichend informieren und bei der Auftragsvergabe objektive Kriterien zugrunde legen. Dies gilt nicht für die Vergabe von Aufträgen, deren Gegenstand die Beschaffung von Energie oder Brennstoffen zur Energieerzeugung ist.
-
-(2) Die Auftraggeber nach Absatz 1 erteilen der Europäischen Kommission über das Bundesministerium für Wirtschaft und Energie Auskunft über die Vergabe der unter diese Vorschrift fallenden Aufträge nach Maßgabe der Entscheidung 93/327/EWG der Kommission vom 13. Mai 1993 zur Festlegung der Voraussetzungen, unter denen die öffentlichen Auftraggeber, die geographisch abgegrenzte Gebiete zum Zwecke der Aufsuchung oder Förderung von Erdöl, Gas, Kohle oder anderen Festbrennstoffen nutzen, der Kommission Auskunft über die von ihnen vergebenen Aufträge zu erteilen haben (ABl. EG Nr. L 129 S. 25). Sie können über das Verfahren gemäß der Rechtsverordnung nach § 127 Nummer 9 unter den dort geregelten Voraussetzungen eine Befreiung von der Pflicht zur Anwendung dieser Bestimmung erreichen.
-
-Fünfter Teil Anwendungsbereich des Gesetzes
--------------------------------------------
+Teil 5 Anwendungsbereich des Ersten bis Dritten Teils dieses Gesetzes
+---------------------------------------------------------------------
 
 ### 
 
-### § 130 Unternehmen der öffentlichen Hand, Geltungsbereich
+### § 185 Unternehmen der öffentlichen Hand, Geltungsbereich
 
-(1) Dieses Gesetz findet auch Anwendung auf Unternehmen, die ganz oder teilweise im Eigentum der öffentlichen Hand stehen oder die von ihr verwaltet oder betrieben werden. Die §§ 19, 20 *,* und 31b Absatz 5 finden keine Anwendung auf öffentlich-rechtliche Gebühren und Beiträge. Die Vorschriften des Ersten bis Dritten Teils dieses Gesetzes finden keine Anwendung auf die Deutsche Bundesbank und die Kreditanstalt für Wiederaufbau.
+(1) Die Vorschriften des Ersten bis Dritten Teils dieses Gesetzes sind auch auf Unternehmen anzuwenden, die ganz oder teilweise im Eigentum der öffentlichen Hand stehen oder die von ihr verwaltet oder betrieben werden. Die §§ 19, 20 und 31b Absatz 5 sind nicht anzuwenden auf öffentlich-rechtliche Gebühren oder Beiträge. Die Vorschriften des Ersten bis Dritten Teils dieses Gesetzes sind nicht auf die Deutsche Bundesbank und die Kreditanstalt für Wiederaufbau anzuwenden.
 
-(2) Dieses Gesetz findet Anwendung auf alle Wettbewerbsbeschränkungen, die sich im Geltungsbereich dieses Gesetzes auswirken, auch wenn sie außerhalb des Geltungsbereichs dieses Gesetzes veranlasst werden.
+(2) Die Vorschriften des Ersten bis Dritten Teils dieses Gesetzes sind auf alle Wettbewerbsbeschränkungen anzuwenden, die sich im Geltungsbereich dieses Gesetzes auswirken, auch wenn sie außerhalb des Geltungsbereichs dieses Gesetzes veranlasst werden.
 
 (3) Die Vorschriften des Energiewirtschaftsgesetzes stehen der Anwendung der §§ 19, 20 und 29 nicht entgegen, soweit in § 111 des Energiewirtschaftsgesetzes keine andere Regelung getroffen ist.
 
-§ 130 Abs. 1 Satz 2 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
-
-Sechster Teil Übergangs- und Schlussbestimmungen
-------------------------------------------------
+Teil 6 Übergangs- und Schlussbestimmungen
+-----------------------------------------
 
 ### 
 
-### § 131 Übergangsbestimmungen
+### § 186 Übergangsbestimmungen
 
 (1) § 29 ist nach dem 31. Dezember 2017 nicht mehr anzuwenden.
 
-(2) Vergabeverfahren, die vor dem 24. April 2009 begonnen haben, einschließlich der sich an diese anschließenden Nachprüfungsverfahren sowie am 24. April 2009 anhängige Nachprüfungsverfahren sind nach den hierfür bisher geltenden Vorschriften zu beenden.
+(2) Vergabeverfahren, die vor dem 18. April 2016 begonnen haben, einschließlich der sich an diese anschließenden Nachprüfungsverfahren sowie am 18. April 2016 anhängige Nachprüfungsverfahren werden nach dem Recht zu Ende geführt, das zum Zeitpunkt der Einleitung des Verfahrens galt.
 
-(3) Vergabeverfahren, die vor dem 14. Dezember 2011 begonnen haben, sind nach den für sie bisher geltenden Vorschriften zu beenden; dies gilt auch für Nachprüfungsverfahren, die sich an diese Vergabeverfahren anschließen, und für am 14. Dezember 2011 anhängige Nachprüfungsverfahren.
+### Anlage (weggefallen)
 
-### Anlage (zu § 98 Nummer 4)
 
-(Fundstelle: BGBl. I 2013, 1799)
-
-Tätigkeiten auf dem Gebiet der Trinkwasser- oder Energieversorgung oder des Verkehrs sind:
-
-1.  
-**Trinkwasserversorgung:**
-Das Bereitstellen und Betreiben fester Netze zur Versorgung der Allgemeinheit im Zusammenhang mit der Gewinnung, dem Transport oder der Verteilung von Trinkwasser sowie die Versorgung dieser Netze mit Trinkwasser; dies gilt auch, wenn diese Tätigkeit mit der Ableitung und Klärung von Abwässern oder mit Wasserbauvorhaben sowie Vorhaben auf dem Gebiet der Bewässerung und der Entwässerung im Zusammenhang steht, sofern die zur Trinkwasserversorgung bestimmte Wassermenge mehr als 20 Prozent der mit dem Vorhaben oder den Bewässerungs- oder Entwässerungsanlagen zur Verfügung gestellten Gesamtwassermenge ausmacht; bei Auftraggebern nach § 98 Nummer 4 ist es keine Tätigkeit der Trinkwasserversorgung, sofern die Gewinnung von Trinkwasser für die Ausübung einer anderen Tätigkeit als der Trinkwasser- oder Energieversorgung oder des Verkehrs erforderlich ist, die Lieferung an das öffentliche Netz nur vom Eigenverbrauch des Auftraggebers nach § 98 Nummer 4 abhängt und unter Zugrundelegung des Mittels der letzten drei Jahre einschließlich des laufenden Jahres nicht mehr als 30 Prozent der gesamten Trinkwassergewinnung des Auftraggebers nach § 98 Nummer 4 ausmacht;
-
-2.  
-**Elektrizitäts- und Gasversorgung:**
-Das Bereitstellen und Betreiben fester Netze zur Versorgung der Allgemeinheit im Zusammenhang mit der Erzeugung, dem Transport oder der Verteilung von Strom oder der Gewinnung von Gas sowie die Versorgung dieser Netze mit Strom oder Gas; die Tätigkeit von Auftraggebern nach § 98 Nummer 4 gilt nicht als eine Tätigkeit der Elektrizitäts- und Gasversorgung, sofern die Erzeugung von Strom oder Gas für die Ausübung einer anderen Tätigkeit als der Trinkwasser- oder Energieversorgung oder des Verkehrs erforderlich ist, die Lieferung von Strom oder Gas an das öffentliche Netz nur vom Eigenverbrauch abhängt, bei der Lieferung von Gas auch nur darauf abzielt, diese Erzeugung wirtschaftlich zu nutzen, wenn unter Zugrundelegung des Mittels der letzten drei Jahre einschließlich des laufenden Jahres bei der Lieferung von Strom nicht mehr als 30 Prozent der gesamten Energieerzeugung des Auftraggebers nach § 98 Nummer 4 ausmacht, bei der Lieferung von Gas nicht mehr als 20 Prozent des Umsatzes des Auftraggebers nach § 98 Nummer 4;
-
-3.  
-**Wärmeversorgung:**
-Das Bereitstellen und Betreiben fester Netze zur Versorgung der Allgemeinheit im Zusammenhang mit der Erzeugung, dem Transport oder der Verteilung von Wärme sowie die Versorgung dieser Netze mit Wärme; die Tätigkeit gilt nicht als eine Tätigkeit der Wärmeversorgung, sofern die Erzeugung von Wärme durch Auftraggeber nach § 98 Nummer 4 sich zwangsläufig aus der Ausübung einer anderen Tätigkeit als auf dem Gebiet der Trinkwasser- oder Energieversorgung oder des Verkehrs ergibt, die Lieferung an das öffentliche Netz nur darauf abzielt, diese Erzeugung wirtschaftlich zu nutzen und unter Zugrundelegung des Mittels der letzten drei Jahre einschließlich des laufenden Jahres nicht mehr als 20 Prozent des Umsatzes des Auftraggebers nach § 98 Nummer 4 ausmacht;
-
-4.  
-**Verkehr:**
-Die Bereitstellung und der Betrieb von Flughäfen zum Zwecke der Versorgung von Beförderungsunternehmen im Luftverkehr durch Flughafenunternehmen, die insbesondere eine Genehmigung nach § 38 Absatz 2 Nummer 1 der Luftverkehrs-Zulassungs-Ordnung in der Fassung der Bekanntmachung vom 10. Juli 2008 (BGBl. I S. 1229) erhalten haben oder einer solchen bedürfen;die Bereitstellung und der Betrieb von Häfen oder anderen Verkehrsendeinrichtungen zum Zwecke der Versorgung von Beförderungsunternehmen im See- oder Binnenschiffsverkehr;das Erbringen von Verkehrsleistungen, die Bereitstellung oder das Betreiben von Infrastruktureinrichtungen zur Versorgung der Allgemeinheit im Eisenbahn-, Straßenbahn- oder sonstigen Schienenverkehr, mit Seilbahnen sowie mit automatischen Systemen, im öffentlichen Personenverkehr im Sinne des Personenbeförderungsgesetzes auch mit Kraftomnibussen und Oberleitungsbussen.
