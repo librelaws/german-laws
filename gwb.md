@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 26.6.2013 I 1750, 3245;
 
 Stand  
-zuletzt geändert durch Art. 5 G v. 21.7.2014 I 1066
+zuletzt geändert durch Art. 3 G v. 15.4.2015 I 578
 
 Sonst  
 Änderung durch Art. 20 Nr. 1 G v. 9.12.2004 I 3220 war nicht ausführbar, da zu diesem Zeitpunkt keine amtliche Inhaltsübersicht existierte
