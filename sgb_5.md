@@ -2,7 +2,13 @@ Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Ar
 =============================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 4 Abs. 3 G v. 20.4.2013 I 868
+Zuletzt geändert durch Art. 3 G v. 26.6.2013 I 1738
+
+Hinweis  
+Änderung durch Art. 1 G v. 15.7.2013 I 2423 (Nr. 38) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 3 G v. 7.8.2013 I 3108 (Nr. 47) noch nicht berücksichtigt
 
 ### 
 
@@ -162,7 +168,7 @@ Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als Träger der Kr
 die Deutsche Rentenversicherung Knappschaft-Bahn-See als Träger der Krankenversicherung (Deutsche Rentenversicherung Knappschaft-Bahn-See),
 Ersatzkassen.
 
-(3) Im Interesse der Leistungsfähigkeit und Wirtschaftlichkeit der gesetzlichen Krankenversicherung arbeiten die Krankenkassen und ihre Verbände sowohl innerhalb einer Kassenart als auch kassenartenübergreifend miteinander und mit allen anderen Einrichtungen des Gesundheitswesens eng zusammen.
+(3) Im Interesse der Leistungsfähigkeit und Wirtschaftlichkeit der gesetzlichen Krankenversicherung arbeiten die Krankenkassen und ihre Verbände sowohl innerhalb einer Kassenart als auch kassenartenübergreifend miteinander und mit allen anderen Einrichtungen des Gesundheitswesens eng zusammen. Krankenkassen können die Unterlassung unzulässiger Werbemaßnahmen von anderen Krankenkassen verlangen; § 12 Absatz 1 bis 3 des Gesetzes gegen den unlauteren Wettbewerb gilt entsprechend.
 
 (4) Die Krankenkassen haben bei der Durchführung ihrer Aufgaben und in ihren Verwaltungsangelegenheiten sparsam und wirtschaftlich zu verfahren und dabei ihre Ausgaben so auszurichten, dass Beitragserhöhungen ausgeschlossen werden, es sei denn, die notwendige medizinische Versorgung ist auch nach Ausschöpfung von Wirtschaftlichkeitsreserven nicht zu gewährleisten. Die Verwaltungsausgaben der einzelnen Krankenkasse dürfen sich in den Jahren 2011 und 2012 gegenüber dem Jahr 2010 nicht erhöhen. Zu den Verwaltungsausgaben zählen auch die Kosten der Krankenkasse für die Durchführung ihrer Verwaltungsaufgaben durch Dritte. Abweichend von Satz 2 sind
 
@@ -372,7 +378,7 @@ durch die Beschäftigung als Arzt im Praktikum,
 7.  
 durch die Tätigkeit in einer Einrichtung für behinderte Menschen (§ 5 Abs. 1 Nr. 7 oder 8).
 
-(2) Der Antrag ist innerhalb von drei Monaten nach Beginn der Versicherungspflicht bei der Krankenkasse zu stellen. Die Befreiung wirkt vom Beginn der Versicherungspflicht an, wenn seit diesem Zeitpunkt noch keine Leistungen in Anspruch genommen wurden, sonst vom Beginn des Kalendermonats an, der auf die Antragstellung folgt. Die Befreiung kann nicht widerrufen werden.
+(2) Der Antrag ist innerhalb von drei Monaten nach Beginn der Versicherungspflicht bei der Krankenkasse zu stellen. Die Befreiung wirkt vom Beginn der Versicherungspflicht an, wenn seit diesem Zeitpunkt noch keine Leistungen in Anspruch genommen wurden, sonst vom Beginn des Kalendermonats an, der auf die Antragstellung folgt. Die Befreiung kann nicht widerrufen werden. Die Befreiung wird nur wirksam, wenn das Mitglied das Bestehen eines anderweitigen Anspruchs auf Absicherung im Krankheitsfall nachweist.
 
 Zweiter Abschnitt Versicherungsberechtigung
 -------------------------------------------
@@ -584,7 +590,7 @@ Satz 1 gilt nicht für den Anspruch auf Mutterschaftsgeld.
 
 (2) Der Anspruch auf Leistungen ruht, soweit Versicherte gleichartige Leistungen von einem Träger der Unfallversicherung im Ausland erhalten.
 
-(3) Der Anspruch auf Leistungen ruht, soweit durch das Seemannsgesetz für den Fall der Erkrankung oder Verletzung Vorsorge getroffen ist. Er ruht insbesondere, solange sich der Seemann an Bord des Schiffes oder auf der Reise befindet, es sei denn, er hat nach § 44 Abs. 1 des Seemannsgesetzes die Leistungen der Krankenkasse gewählt oder der Reeder hat ihn nach § 44 Abs. 2 des Seemannsgesetzes an die Krankenkasse verwiesen.
+(3) Der Anspruch auf Leistungen ruht, soweit durch das Seearbeitsgesetz für den Fall der Erkrankung oder Verletzung Vorsorge getroffen ist. Er ruht insbesondere, solange sich das Besatzungsmitglied an Bord des Schiffes oder auf der Reise befindet, es sei denn, das Besatzungsmitglied hat nach § 100 Absatz 1 des Seearbeitsgesetzes die Leistungen der Krankenkasse gewählt oder der Reeder hat das Besatzungsmitglied nach § 100 Absatz 2 des Seearbeitsgesetzes an die Krankenkasse verwiesen.
 
 (3a) Der Anspruch auf Leistungen für nach dem Künstlersozialversicherungsgesetz Versicherte, die mit einem Betrag in Höhe von Beitragsanteilen für zwei Monate im Rückstand sind und trotz Mahnung nicht zahlen, ruht nach näherer Bestimmung des § 16 Abs. 2 des Künstlersozialversicherungsgesetzes. Satz 1 gilt entsprechend für Mitglieder nach den Vorschriften dieses Buches, die mit einem Betrag in Höhe von Beitragsanteilen für zwei Monate im Rückstand sind und trotz Mahnung nicht zahlen, ausgenommen sind Untersuchungen zur Früherkennung von Krankheiten nach den §§ 25 und 26 und Leistungen, die zur Behandlung akuter Erkrankungen und Schmerzzustände sowie bei Schwangerschaft und Mutterschaft erforderlich sind; das Ruhen endet, wenn alle rückständigen und die auf die Zeit des Ruhens entfallenden Beitragsanteile gezahlt sind oder wenn Versicherte hilfebedürftig im Sinne des Zweiten oder Zwölften Buches werden. Ist eine wirksame Ratenzahlungsvereinbarung zu Stande gekommen, hat das Mitglied ab diesem Zeitpunkt wieder Anspruch auf Leistungen, solange die Raten vertragsgemäß entrichtet werden.
 
@@ -598,7 +604,7 @@ Satz 1 gilt nicht für den Anspruch auf Mutterschaftsgeld.
 
 (2) Die Krankenkasse hat dem Arbeitgeber die ihm nach Absatz 1 entstandenen Kosten bis zu der Höhe zu erstatten, in der sie ihr im Inland entstanden wären.
 
-(3) Die zuständige Krankenkasse hat dem Reeder die Aufwendungen zu erstatten, die ihm nach § 48 Abs. 2 des Seemannsgesetzes entstanden sind.
+(3) Die zuständige Krankenkasse hat dem Reeder die Aufwendungen zu erstatten, die ihm nach § 104 Absatz 2 des Seearbeitsgesetzes entstanden sind.
 
 ### § 18 Kostenübernahme bei Behandlung außerhalb des Geltungsbereichs des Vertrages zur Gründung der Europäischen Gemeinschaft und des Abkommens über den Europäischen Wirtschaftsraum
 
@@ -1589,7 +1595,7 @@ Sechster Abschnitt Selbstbehalt, Beitragsrückzahlung
 
 (8) Die Mindestbindungsfrist beträgt für die Wahltarife nach den Absätzen 2, 4 und 5 ein Jahr und für die Wahltarife nach den Absätzen 1 und 6 drei Jahre; für die Wahltarife nach Absatz 3 gilt keine Mindestbindungsfrist. Die Mitgliedschaft kann frühestens zum Ablauf der Mindestbindungsfrist nach Satz 1, aber nicht vor Ablauf der Mindestbindungsfrist nach § 175 Absatz 4 Satz 1 gekündigt werden; § 175 Absatz 4 Satz 5 gilt mit Ausnahme für Mitglieder in Wahltarifen nach Absatz 6. Die Satzung hat für Tarife ein Sonderkündigungsrecht in besonderen Härtefällen vorzusehen. Die Prämienzahlung an Versicherte darf bis zu 20 vom Hundert, für einen oder mehrere Tarife einschließlich Prämienzahlungen nach § 242 30 vom Hundert der vom Mitglied im Kalenderjahr getragenen Beiträge mit Ausnahme der Beitragszuschüsse nach § 106 des Sechsten Buches sowie § 257 Abs. 1 Satz 1, jedoch nicht mehr als 600 Euro, bei einem oder mehreren Tarifen einschließlich Prämienzahlungen nach § 242 900 Euro jährlich betragen. Satz 4 gilt nicht für Versicherte, die Teilkostenerstattung nach § 14 gewählt haben. Mitglieder, deren Beiträge vollständig von Dritten getragen werden, können nur Tarife nach Absatz 3 wählen.
 
-(9) Die Aufwendungen für jeden Wahltarif müssen jeweils aus Einnahmen, Einsparungen und Effizienzsteigerungen aus diesen Wahltarifen auf Dauer finanziert werden. Die Krankenkassen haben darüber der zuständigen Aufsichtsbehörde regelmäßig, mindestens alle drei Jahre, Rechenschaft abzulegen. Sie haben hierzu ein versicherungsmathematisches Gutachten vorzulegen über die wesentlichen versicherungsmathematischen Annahmen, die der Berechnung der Beiträge und der versicherungstechnischen Rückstellungen der Wahltarife zugrunde liegen.
+(9) Die Aufwendungen für jeden Wahltarif müssen jeweils aus Einnahmen, Einsparungen und Effizienzsteigerungen aus diesen Wahltarifen auf Dauer finanziert werden. Kalkulatorische Einnahmen, die allein durch das Halten oder die Neugewinnung von Mitgliedern erzielt werden, dürfen dabei nicht berücksichtigt werden; wurden solche Einnahmen bei der Kalkulation von Wahltarifen berücksichtigt, ist die Kalkulation unverzüglich, spätestens bis zum 31. Dezember 2013 entsprechend umzustellen. Die Krankenkassen haben über die Berechnung nach den Sätzen 1 und 2 der zuständigen Aufsichtsbehörde regelmäßig, mindestens alle drei Jahre, Rechenschaft abzulegen. Sie haben hierzu ein versicherungsmathematisches Gutachten vorzulegen über die wesentlichen versicherungsmathematischen Annahmen, die der Berechnung der Beiträge und der versicherungstechnischen Rückstellungen der Wahltarife zugrunde liegen.
 
 ### § 54 (weggefallen)
 
@@ -2217,7 +2223,7 @@ Können arbeitsunfähige Versicherte nach ärztlicher Feststellung ihre bisherig
 
 (3) Die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen haben auch die ärztliche Versorgung von Personen sicherzustellen, die auf Grund dienstrechtlicher Vorschriften über die Gewährung von Heilfürsorge einen Anspruch auf unentgeltliche ärztliche Versorgung haben, soweit die Erfüllung dieses Anspruchs nicht auf andere Weise gewährleistet ist. Die ärztlichen Leistungen sind so zu vergüten, wie die Ersatzkassen die vertragsärztlichen Leistungen vergüten. Die Sätze 1 und 2 gelten entsprechend für ärztliche Untersuchungen zur Durchführung der allgemeinen Wehrpflicht sowie Untersuchungen zur Vorbereitung von Personalentscheidungen und betriebs- und fürsorgeärztliche Untersuchungen, die von öffentlich-rechtlichen Kostenträgern veranlaßt werden.
 
-(3a) Die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen haben auch die ärztliche Versorgung der in den brancheneinheitlichen Standardtarifen nach § 257 Abs. 2a in Verbindung mit § 314 und nach § 257 Abs. 2a in Verbindung mit § 315 sowie dem brancheneinheitlichen Basistarif nach § 12 Abs. 1a des Versicherungsaufsichtsgesetzes Versicherten mit den in diesen Tarifen versicherten ärztlichen Leistungen sicherzustellen. Solange und soweit nach Absatz 3b nichts Abweichendes vereinbart oder festgesetzt wird, sind die in Satz 1 genannten Leistungen einschließlich der belegärztlichen Leistungen nach § 121 nach der Gebührenordnung für Ärzte oder der Gebührenordnung für Zahnärzte mit der Maßgabe zu vergüten, dass Gebühren für die in Abschnitt M des Gebührenverzeichnisses der Gebührenordnung für Ärzte genannten Leistungen sowie für die Leistung nach Nummer 437 des Gebührenverzeichnisses der Gebührenordnung für Ärzte nur bis zum 1,16fachen des Gebührensatzes der Gebührenordnung für Ärzte, Gebühren für die in den Abschnitten A, E und O des Gebührenverzeichnisses der Gebührenordnung für Ärzte genannten Leistungen nur bis zum 1,38fachen des Gebührensatzes der Gebührenordnung für Ärzte, Gebühren für die übrigen Leistungen des Gebührenverzeichnisses der Gebührenordnung für Ärzte nur bis zum 1,8fachen des Gebührensatzes der Gebührenordnung für Ärzte und Gebühren für die Leistungen des Gebührenverzeichnisses der Gebührenordnung für Zahnärzte nur bis zum 2fachen des Gebührensatzes der Gebührenordnung für Zahnärzte berechnet werden dürfen. Für die Vergütung von in den §§ 115b und 116b bis 119 genannten Leistungen gilt Satz 2 entsprechend, wenn diese für die in Satz 1 genannten Versicherten im Rahmen der dort genannten Tarife erbracht werden.
+(3a) Die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen haben auch die ärztliche Versorgung der in den brancheneinheitlichen Standardtarifen nach § 257 Abs. 2a in Verbindung mit § 314 und nach § 257 Abs. 2a in Verbindung mit § 315 sowie dem brancheneinheitlichen Basistarif nach § 12 Abs. 1a des Versicherungsaufsichtsgesetzes und dem Notlagentarif nach § 12h des Versicherungsaufsichtsgesetzes Versicherten mit den in diesen Tarifen versicherten ärztlichen Leistungen sicherzustellen. Solange und soweit nach Absatz 3b nichts Abweichendes vereinbart oder festgesetzt wird, sind die in Satz 1 genannten Leistungen einschließlich der belegärztlichen Leistungen nach § 121 nach der Gebührenordnung für Ärzte oder der Gebührenordnung für Zahnärzte mit der Maßgabe zu vergüten, dass Gebühren für die in Abschnitt M des Gebührenverzeichnisses der Gebührenordnung für Ärzte genannten Leistungen sowie für die Leistung nach Nummer 437 des Gebührenverzeichnisses der Gebührenordnung für Ärzte nur bis zum 1,16fachen des Gebührensatzes der Gebührenordnung für Ärzte, Gebühren für die in den Abschnitten A, E und O des Gebührenverzeichnisses der Gebührenordnung für Ärzte genannten Leistungen nur bis zum 1,38fachen des Gebührensatzes der Gebührenordnung für Ärzte, Gebühren für die übrigen Leistungen des Gebührenverzeichnisses der Gebührenordnung für Ärzte nur bis zum 1,8fachen des Gebührensatzes der Gebührenordnung für Ärzte und Gebühren für die Leistungen des Gebührenverzeichnisses der Gebührenordnung für Zahnärzte nur bis zum 2fachen des Gebührensatzes der Gebührenordnung für Zahnärzte berechnet werden dürfen. Für die Vergütung von in den §§ 115b und 116b bis 119 genannten Leistungen gilt Satz 2 entsprechend, wenn diese für die in Satz 1 genannten Versicherten im Rahmen der dort genannten Tarife erbracht werden.
 
 (3b) Die Vergütung für die in Absatz 3a Satz 2 genannten Leistungen kann in Verträgen zwischen dem Verband der privaten Krankenversicherung einheitlich mit Wirkung für die Unternehmen der privaten Krankenversicherung und im Einvernehmen mit den Trägern der Kosten in Krankheits-, Pflege- und Geburtsfällen nach beamtenrechtlichen Vorschriften mit den Kassenärztlichen Vereinigungen oder den Kassenärztlichen Bundesvereinigungen ganz oder teilweise abweichend von den Vorgaben des Absatzes 3a Satz 2 geregelt werden. Für den Verband der privaten Krankenversicherung gilt § 12 Abs. 1d des Versicherungsaufsichtsgesetzes entsprechend. Wird zwischen den Beteiligten nach Satz 1 keine Einigung über eine von Absatz 3a Satz 2 abweichende Vergütungsregelung erzielt, kann der Beteiligte, der die Abweichung verlangt, die Schiedsstelle nach Absatz 3c anrufen. Diese hat innerhalb von drei Monaten über die Gegenstände, über die keine Einigung erzielt werden konnte, zu entscheiden und den Vertragsinhalt festzusetzen. Die Schiedsstelle hat ihre Entscheidung so zu treffen, dass der Vertragsinhalt
 
@@ -5264,6 +5270,12 @@ Die §§ 171b bis 171e gelten für die Verbände der Krankenkassen entsprechend.
 
 (3) Stellt die Aufsichtsbehörde im Benehmen mit dem Spitzenverband Bund der Krankenkassen fest, dass bei einer Krankenkasse nur durch die Vereinigung mit einer anderen Krankenkasse die Leistungsfähigkeit auf Dauer gesichert oder der Eintritt von Zahlungsunfähigkeit oder Überschuldung vermieden werden kann, kann dieser der Aufsichtsbehörde Vorschläge für eine Vereinigung dieser Krankenkasse mit einer anderen Krankenkasse vorlegen. Kommt bei der in ihrer Leistungsfähigkeit gefährdeten Krankenkasse ein Beschluss über eine freiwillige Vereinigung innerhalb einer von der Aufsichtsbehörde gesetzten Frist nicht zustande, ersetzt die Aufsichtsbehörde diesen Beschluss.
 
+### § 172a Zusammenschlusskontrolle bei Vereinigungen von Krankenkassen
+
+(1) Bei der freiwilligen Vereinigung von Krankenkassen finden die Vorschriften über die Zusammenschlusskontrolle nach dem Siebten Abschnitt des Ersten Teils des Gesetzes gegen Wettbewerbsbeschränkungen nach Maßgabe des Absatzes 2 sowie die §§ 48, 49, 50c Absatz 2, §§ 54 bis 80 und 81 Absatz 2 und 3 Nummer 3, Absatz 4 bis 10 und die §§ 83 bis 86a des Gesetzes gegen Wettbewerbsbeschränkungen entsprechende Anwendung.
+
+(2) Finden die Vorschriften über die Zusammenschlusskontrolle Anwendung, darf die Genehmigung nach § 144 Absatz 3 erst erfolgen, wenn das Bundeskartellamt die Vereinigung nach § 40 des Gesetzes gegen Wettbewerbsbeschränkungen freigegeben hat oder sie als freigegeben gilt. Hat der Vorstand einer an der Vereinigung beteiligten Krankenkasse eine Anzeige nach § 171b Absatz 2 Satz 1 abgegeben, beträgt die Frist nach § 40 Absatz 2 Satz 2 des Gesetzes gegen Wettbewerbsbeschränkungen sechs Wochen. Vor einer Untersagung ist mit den zuständigen Aufsichtsbehörden nach § 90 des Vierten Buches das Benehmen herzustellen. Neben die obersten Landesbehörden nach § 42 Absatz 4 Satz 2 des Gesetzes gegen Wettbewerbsbeschränkungen treten die zuständigen Aufsichtsbehörden nach § 90 des Vierten Buches. § 41 Absatz 3 und 4 des Gesetzes gegen Wettbewerbsbeschränkungen gilt nicht.
+
 Zweiter Abschnitt Wahlrechte der Mitglieder
 -------------------------------------------
 
@@ -5396,7 +5408,7 @@ Erster Titel Mitgliedschaft
 
 (10) Wird die Mitgliedschaft Versicherungspflichtiger zu einer Krankenkasse gekündigt (§ 175), beginnt die Mitgliedschaft bei der neugewählten Krankenkasse abweichend von den Absätzen 1 bis 9 mit dem Tag nach Eintritt der Rechtswirksamkeit der Kündigung.
 
-(11) Die Mitgliedschaft der nach § 5 Abs. 1 Nr. 13 Versicherungspflichtigen beginnt mit dem ersten Tag ohne anderweitigen Anspruch auf Absicherung im Krankheitsfall im Inland. Die Mitgliedschaft von Ausländern, die nicht Angehörige eines Mitgliedstaates der Europäischen Union, eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder Staatsangehörige der Schweiz sind, beginnt mit dem ersten Tag der Geltung der Niederlassungserlaubnis oder der Aufenthaltserlaubnis. Für Personen, die am 1. April 2007 keinen anderweitigen Anspruch auf Absicherung im Krankheitsfall haben, beginnt die Mitgliedschaft an diesem Tag. Zeigt der Versicherte aus Gründen, die er nicht zu vertreten hat, das Vorliegen der Voraussetzungen der Versicherungspflicht nach den in Satz 1 und 2 genannten Zeitpunkten an, hat die Krankenkasse in ihrer Satzung vorzusehen, dass der für die Zeit seit dem Eintritt der Versicherungspflicht nachzuzahlende Beitrag angemessen ermäßigt, gestundet oder von seiner Erhebung abgesehen werden kann.
+(11) Die Mitgliedschaft der nach § 5 Abs. 1 Nr. 13 Versicherungspflichtigen beginnt mit dem ersten Tag ohne anderweitigen Anspruch auf Absicherung im Krankheitsfall im Inland. Die Mitgliedschaft von Ausländern, die nicht Angehörige eines Mitgliedstaates der Europäischen Union, eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder Staatsangehörige der Schweiz sind, beginnt mit dem ersten Tag der Geltung der Niederlassungserlaubnis oder der Aufenthaltserlaubnis. Für Personen, die am 1. April 2007 keinen anderweitigen Anspruch auf Absicherung im Krankheitsfall haben, beginnt die Mitgliedschaft an diesem Tag.
 
 ### § 187 Beginn der Mitgliedschaft bei einer neu errichteten Krankenkasse
 
@@ -5406,9 +5418,11 @@ Die Mitgliedschaft bei einer neu errichteten Krankenkasse beginnt für Versicher
 
 (1) Die Mitgliedschaft Versicherungsberechtigter beginnt mit dem Tag ihres Beitritts zur Krankenkasse.
 
-(2) Die Mitgliedschaft der in § 9 Abs. 1 Nr. 1 und 2 genannten Versicherungsberechtigten beginnt mit dem Tag nach dem Ausscheiden aus der Versicherungspflicht oder mit dem Tag nach dem Ende der Versicherung nach § 10. Die Mitgliedschaft der in § 9 Abs. 1 Nr. 6 genannten Versicherungsberechtigten beginnt mit dem Eintritt der Versicherungspflicht nach § 5 Abs. 1 Nr. 11.
+(2) Die Mitgliedschaft der in § 9 Abs. 1 Nr. 1 und 2 genannten Versicherungsberechtigten beginnt mit dem Tag nach dem Ausscheiden aus der Versicherungspflicht oder mit dem Tag nach dem Ende der Versicherung nach § 10. Die Mitgliedschaft der in § 9 Absatz 1 Satz 1 Nummer 3 und 5 genannten Versicherungsberechtigten beginnt mit dem Tag der Aufnahme der Beschäftigung. Die Mitgliedschaft der in § 9 Abs. 1 Nr. 6 genannten Versicherungsberechtigten beginnt mit dem Eintritt der Versicherungspflicht nach § 5 Abs. 1 Nr. 11.
 
 (3) Der Beitritt ist schriftlich zu erklären.
+
+(4) Für Personen, deren Versicherungspflicht oder Familienversicherung endet, setzt sich die Versicherung mit dem Tag nach dem Ausscheiden aus der Versicherungspflicht oder mit dem Tag nach dem Ende der Familienversicherung als freiwillige Mitgliedschaft fort, es sei denn, das Mitglied erklärt innerhalb von zwei Wochen nach Hinweis der Krankenkasse über die Austrittsmöglichkeiten seinen Austritt. Der Austritt wird nur wirksam, wenn das Mitglied das Bestehen eines anderweitigen Anspruchs auf Absicherung im Krankheitsfall nachweist. Satz 1 gilt nicht für Personen, deren Versicherungspflicht endet, wenn die übrigen Voraussetzungen für eine Familienversicherung erfüllt sind oder ein Anspruch auf Leistungen nach § 19 Absatz 2 besteht, sofern im Anschluss daran das Bestehen eines anderweitigen Anspruchs auf Absicherung im Krankheitsfall nachgewiesen wird.
 
 ### § 189 Mitgliedschaft von Rentenantragstellern
 
@@ -5422,7 +5436,7 @@ Die Mitgliedschaft bei einer neu errichteten Krankenkasse beginnt für Versicher
 
 (2) Die Mitgliedschaft versicherungspflichtig Beschäftigter endet mit Ablauf des Tages, an dem das Beschäftigungsverhältnis gegen Arbeitsentgelt endet.
 
-(3) Die Mitgliedschaft von Personen, deren Versicherungspflicht nach § 6 Abs. 4 erlischt, endet zu dem in dieser Vorschrift vorgesehenen Zeitpunkt nur, wenn das Mitglied innerhalb von zwei Wochen nach Hinweis der Krankenkasse über die Austrittsmöglichkeit seinen Austritt erklärt. Wird der Austritt nicht erklärt, setzt sich die Mitgliedschaft als freiwillige Mitgliedschaft fort, es sei denn, die Voraussetzungen der freiwilligen Versicherung nach § 9 Absatz 1 Satz 1 Nummer 1 sind nicht erfüllt. Wird der Austritt nicht erklärt, setzt sich die Mitgliedschaft als freiwillige Mitgliedschaft auch fort für Personen, die mit Ablauf des 31. Dezember 2010 oder mit Ablauf des Kalenderjahres der erstmaligen Beschäftigungsaufnahme im Inland nach § 6 Absatz 4 Satz 1 aus der Versicherungspflicht ausgeschieden sind, die Voraussetzungen der freiwilligen Versicherung nach § 9 Absatz 1 Satz 1 Nummer 1 aber nicht erfüllen.
+(3) (weggefallen)
 
 (4) Die Mitgliedschaft unständig Beschäftigter endet, wenn das Mitglied die berufsmäßige Ausübung der unständigen Beschäftigung nicht nur vorübergehend aufgibt, spätestens mit Ablauf von drei Wochen nach dem Ende der letzten unständigen Beschäftigung.
 
@@ -6115,7 +6129,7 @@ Erster Titel Aufbringung der Mittel
 
 ### § 224 Beitragsfreiheit bei Krankengeld, Mutterschaftsgeld oder Erziehungsgeld oder Elterngeld
 
-(1) Beitragsfrei ist ein Mitglied für die Dauer des Anspruchs auf Krankengeld oder Mutterschaftsgeld oder des Bezugs von Erziehungsgeld oder Elterngeld. Die Beitragsfreiheit erstreckt sich nur auf die in Satz 1 genannten Leistungen.
+(1) Beitragsfrei ist ein Mitglied für die Dauer des Anspruchs auf Krankengeld oder Mutterschaftsgeld oder des Bezugs von Elterngeld oder Betreuungsgeld. Die Beitragsfreiheit erstreckt sich nur auf die in Satz 1 genannten Leistungen.
 
 (2) Durch die Beitragsfreiheit wird ein Anspruch auf Schadensersatz nicht ausgeschlossen oder gemindert.
 
@@ -6240,7 +6254,7 @@ Bei Personen, die Teilarbeitslosengeld oder Teilunterhaltsgeld nach dem Dritten 
 
 (1a) Ist in den Fällen des Absatzes 1 Nummer 2 bei laufenden weiteren beitragspflichtigen Einnahmen zu erwarten, dass diese während des Zeitraums, für den Arbeitslosengeld II bewilligt wurde (Bewilligungszeitraum nach § 41 Absatz 1 Satz 4 des Zweiten Buches), in unterschiedlicher Höhe anfallen, kann zur Bestimmung der weiteren beitragspflichtigen Einnahmen ein monatlicher Durchschnittswert gebildet werden. Der monatliche Durchschnittswert nach Satz 1 wird gebildet, indem die zu erwartenden gesamten weiteren beitragspflichtigen Einnahmen im Bewilligungszeitraum durch die Anzahl der Monate im Bewilligungszeitraum geteilt werden. Erweist sich nach Ablauf des Bewilligungszeitraums, dass der tatsächliche monatliche Durchschnittswert von dem nach den Sätzen 1 und 2 gebildeten monatlichen Durchschnittswert um mehr als 20 Euro abweicht, ist der tatsächliche monatliche Durchschnittswert als weitere beitragspflichtige Einnahme zu berücksichtigen.
 
-(2) Soweit Kurzarbeitergeld nach dem Dritten Buch gewährt wird, gelten als beitragspflichtige Einnahmen nach § 226 Abs. 1 Satz 1 Nr. 1 80 vom Hundert des Unterschiedsbetrages zwischen dem Sollentgelt und dem Istentgelt nach § 179 des Dritten Buches.
+(2) Soweit Kurzarbeitergeld nach dem Dritten Buch gewährt wird, gelten als beitragspflichtige Einnahmen nach § 226 Abs. 1 Satz 1 Nr. 1 80 vom Hundert des Unterschiedsbetrages zwischen dem Sollentgelt und dem Istentgelt nach § 106 des Dritten Buches.
 
 (3) § 226 gilt entsprechend.
 
@@ -6539,6 +6553,16 @@ Versicherungspflichtige Studenten haben vor der Einschreibung oder Rückmeldung 
 (3) Die Krankenkasse überwacht die Beitragszahlung. Sind für die Überwachung der Beitragszahlung durch eine Zahlstelle mehrere Krankenkassen zuständig, haben sie zu vereinbaren, daß eine dieser Krankenkassen die Überwachung für die beteiligten Krankenkassen übernimmt. § 98 Abs. 1 Satz 2 des Zehnten Buches gilt entsprechend.
 
 (4) Zahlstellen, die regelmäßig an weniger als dreißig beitragspflichtige Mitglieder Versorgungsbezüge auszahlen, können bei der zuständigen Krankenkasse beantragen, daß das Mitglied die Beiträge selbst zahlt.
+
+### § 256a Ermäßigung und Erlass von Beitragsschulden und Säumniszuschlägen
+
+(1) Zeigt ein Versicherter das Vorliegen der Voraussetzungen der Versicherungspflicht nach § 5 Absatz 1 Nummer 13 erst nach einem der in § 186 Absatz 11 Satz 1 und 2 genannten Zeitpunkte an, soll die Krankenkasse die für die Zeit seit dem Eintritt der Versicherungspflicht nachzuzahlenden Beiträge angemessen ermäßigen; darauf entfallende Säumniszuschläge nach § 24 des Vierten Buches sind vollständig zu erlassen.
+
+(2) Erfolgt die Anzeige nach Absatz 1 bis zum 31. Dezember 2013, soll die Krankenkasse den für die Zeit seit dem Eintritt der Versicherungspflicht nachzuzahlenden Beitrag und die darauf entfallenden Säumniszuschläge nach § 24 des Vierten Buches erlassen. Satz 1 gilt für bis zum 31. Juli 2013 erfolgte Anzeigen der Versicherungspflicht nach § 5 Absatz 1 Nummer 13 für noch ausstehende Beiträge und Säumniszuschläge entsprechend.
+
+(3) Die Krankenkasse hat für Mitglieder nach § 5 Absatz 1 Nummer 13 sowie für freiwillige Mitglieder noch nicht gezahlte Säumniszuschläge in Höhe der Differenz zwischen dem nach § 24 Absatz 1a des Vierten Buches in der bis zum 31. Juli 2013 geltenden Fassung erhobenen Säumniszuschlag und dem sich bei Anwendung des in § 24 Absatz 1 des Vierten Buches ergebenden Säumniszuschlag zu erlassen.
+
+(4) Der Spitzenverband Bund der Krankenkassen regelt das Nähere zur Ermäßigung und zum Erlass von Beiträgen und Säumniszuschlägen nach den Absätzen 1 bis 3, insbesondere zu einem Verzicht auf die Inanspruchnahme von Leistungen als Voraussetzung für die Ermäßigung oder den Erlass. Die Regelungen nach Satz 1 bedürfen zu ihrer Wirksamkeit der Zustimmung des Bundesministeriums für Gesundheit und sind diesem spätestens bis zum 15. September 2013 vorzulegen.
 
 Zweiter Abschnitt Beitragszuschüsse
 -----------------------------------
@@ -6938,7 +6962,7 @@ der Beitragszahlung nach § 252 Abs. 2 und
 5.  
 den Bundesmitteln nach § 221.
 
-(2) Der Gesundheitsfonds hat eine Liquiditätsreserve aufzubauen, aus der unterjährige Schwankungen in den Einnahmen, bei der Festsetzung des einheitlichen Betrags nach § 266 Abs. 2 nicht berücksichtigte Einnahmeausfälle, die Aufwendungen für die Erhöhung der Zuweisungen nach § 272 Abs. 2 sowie die Aufwendungen für den Sozialausgleich nach § 242b und zusätzlich die Zahlungen für die Zusatzbeiträge nach § 251 Absatz 6 Satz 2 und 4 zu decken sind. Die Liquiditätsreserve ist ab dem Jahr 2009 schrittweise aufzubauen und muss spätestens nach Ablauf des Geschäftsjahres 2012 und der jeweils folgenden Geschäftsjahre mindestens 20 Prozent der durchschnittlich auf den Monat entfallenden Ausgaben des Gesundheitsfonds betragen. Die die voraussichtlichen jährlichen Ausgaben der Krankenkassen nach § 242a Absatz 1 Satz 1 übersteigenden jährlichen Einnahmen des Gesundheitsfonds sind der Liquiditätsreserve zuzuführen. Den Einnahmen des Gesundheitsfonds nach Absatz 1 werden im Jahr 2013 2 Milliarden Euro abzüglich des Anteils an diesem Betrag, der sich nach § 221a Satz 2 in der am 9. Dezember 2010 geltenden Fassung bemisst, aus der Liquiditätsreserve zugeführt. Zur Kompensation der Mehrausgaben, die den Krankenkassen durch die Abschaffung der Zuzahlung bei Inanspruchnahme ambulanter ärztlicher, zahnärztlicher und psychotherapeutischer Behandlung zum 1. Januar 2013 entstehen, werden den Einnahmen des Gesundheitsfonds nach Absatz 1 im Jahr 2014 aus der Liquiditätsreserve 1,78 Milliarden Euro zugeführt.
+(2) Der Gesundheitsfonds hat eine Liquiditätsreserve aufzubauen, aus der unterjährige Schwankungen in den Einnahmen, bei der Festsetzung des einheitlichen Betrags nach § 266 Abs. 2 nicht berücksichtigte Einnahmeausfälle, die Aufwendungen für die Erhöhung der Zuweisungen nach § 272 Abs. 2 sowie die Aufwendungen für den Sozialausgleich nach § 242b und zusätzlich die Zahlungen für die Zusatzbeiträge nach § 251 Absatz 6 Satz 2 und 4 zu decken sind. Die Liquiditätsreserve ist ab dem Jahr 2009 schrittweise aufzubauen und muss spätestens nach Ablauf des Geschäftsjahres 2012 und der jeweils folgenden Geschäftsjahre mindestens 20 Prozent der durchschnittlich auf den Monat entfallenden Ausgaben des Gesundheitsfonds betragen. Die die voraussichtlichen jährlichen Ausgaben der Krankenkassen nach § 242a Absatz 1 Satz 1 übersteigenden jährlichen Einnahmen des Gesundheitsfonds sind der Liquiditätsreserve zuzuführen. Den Einnahmen des Gesundheitsfonds nach Absatz 1 werden im Jahr 2013 2 Milliarden Euro abzüglich des Anteils an diesem Betrag, der sich nach § 221a Satz 2 in der am 9. Dezember 2010 geltenden Fassung bemisst, aus der Liquiditätsreserve zugeführt. Zur Kompensation der Mehrausgaben, die den Krankenkassen durch die Abschaffung der Zuzahlung bei Inanspruchnahme ambulanter ärztlicher, zahnärztlicher und psychotherapeutischer Behandlung zum 1. Januar 2013 entstehen, sowie der Mehrausgaben, die den Krankenkassen durch die Änderung des Krankenhausentgeltgesetzes und der Bundespflegesatzverordnung zum 1. August 2013 entstehen, werden den Einnahmen des Gesundheitsfonds nach Absatz 1 im Jahr 2014 aus der Liquiditätsreserve 2,34 Milliarden Euro zugeführt.
 
 (2a) Bei Schließung oder Insolvenz einer Krankenkasse kann das Bundesversicherungsamt einer leistungsaushelfenden Krankenkasse auf Antrag ein Darlehen aus der Liquiditätsreserve gewähren, wenn dies erforderlich ist, um Leistungsansprüche von Versicherten zu finanzieren, deren Mitgliedschaftsverhältnisse noch nicht geklärt sind. Das Darlehen ist innerhalb von sechs Monaten zurückzuzahlen. Das Nähere zur Darlehensgewährung, Verzinsung und Rückzahlung regelt das Bundesversicherungsamt im Benehmen mit dem Spitzenverband Bund der Krankenkassen.
 
