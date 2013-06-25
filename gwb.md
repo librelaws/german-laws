@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 26.6.2013 I 1750, 3245;
 
 Stand  
-zuletzt geändert durch Art. 3 G v. 15.4.2015 I 578
+Zuletzt geändert durch Art. 1 G v. 17.2.2016 I 203
 
 Sonst  
 Änderung durch Art. 20 Nr. 1 G v. 9.12.2004 I 3220 war nicht ausführbar, da zu diesem Zeitpunkt keine amtliche Inhaltsübersicht existierte
@@ -834,7 +834,7 @@ die beteiligten Unternehmen nachweisen, dass durch den Zusammenschluss auch Verb
 die Untersagungsvoraussetzungen des Satzes 1 auf einem Markt vorliegen, auf dem seit mindestens fünf Jahren Waren oder gewerbliche Leistungen angeboten werden und auf dem im letzten Kalenderjahr weniger als 15 Millionen Euro umgesetzt wurden, oder
 
 3.  
-die marktbeherrschende Stellung eines Zeitungs- oder Zeitschriftenverlags verstärkt wird, der einen kleinen oder mittleren Zeitungs- oder Zeitschriftenverlag übernimmt, falls nachgewiesen wird, dass der übernommene Verlag in den letzten drei Jahren einen erheblichen Jahresfehlbetrag im Sinne des § 275 Absatz 2 Nummer 20 des Handelsgesetzbuchs hatte und er ohne den Zusammenschluss in seiner Existenz gefährdet wäre. Ferner muss nachgewiesen werden, dass vor dem Zusammenschluss kein anderer Erwerber gefunden wurde, der eine wettbewerbskonformere Lösung sichergestellt hätte.
+die marktbeherrschende Stellung eines Zeitungs- oder Zeitschriftenverlags verstärkt wird, der einen kleinen oder mittleren Zeitungs- oder Zeitschriftenverlag übernimmt, falls nachgewiesen wird, dass der übernommene Verlag in den letzten drei Jahren jeweils in der Gewinn- und Verlustrechnung nach § 275 des Handelsgesetzbuchs einen erheblichen Jahresfehlbetrag auszuweisen hatte und er ohne den Zusammenschluss in seiner Existenz gefährdet wäre. Ferner muss nachgewiesen werden, dass vor dem Zusammenschluss kein anderer Erwerber gefunden wurde, der eine wettbewerbskonformere Lösung sichergestellt hätte.
 
 (2) Ist ein beteiligtes Unternehmen ein abhängiges oder herrschendes Unternehmen im Sinne des § 17 des Aktiengesetzes oder ein Konzernunternehmen im Sinne des § 18 des Aktiengesetzes, sind die so verbundenen Unternehmen als einheitliches Unternehmen anzusehen. Wirken mehrere Unternehmen derart zusammen, dass sie gemeinsam einen beherrschenden Einfluss auf ein anderes Unternehmen ausüben können, gilt jedes von ihnen als herrschendes.
 
@@ -970,7 +970,7 @@ für andere Rechtsgeschäfte, wenn der nicht angemeldete Zusammenschluss nach Vo
 
 (2) Das Bundeskartellamt kann auf Antrag Befreiungen vom Vollzugsverbot erteilen, wenn die beteiligten Unternehmen hierfür wichtige Gründe geltend machen, insbesondere um schweren Schaden von einem beteiligten Unternehmen oder von Dritten abzuwenden. Die Befreiung kann jederzeit, auch vor der Anmeldung, erteilt und mit Bedingungen und Auflagen verbunden werden. § 40 Absatz 3a gilt entsprechend.
 
-(3) Ein vollzogener Zusammenschluss, der die Untersagungsvoraussetzungen nach § 36 Absatz 1 erfüllt, ist aufzulösen, wenn nicht der Bundesminister für Wirtschaft und Technologie nach § 42 die Erlaubnis zu dem Zusammenschluss erteilt. Das Bundeskartellamt ordnet die zur Auflösung des Zusammenschlusses erforderlichen Maßnahmen an. Die Wettbewerbsbeschränkung kann auch auf andere Weise als durch Wiederherstellung des früheren Zustands beseitigt werden.
+(3) Ein vollzogener Zusammenschluss, der die Untersagungsvoraussetzungen nach § 36 Absatz 1 erfüllt, ist aufzulösen, wenn nicht der Bundesminister für Wirtschaft und Energie nach § 42 die Erlaubnis zu dem Zusammenschluss erteilt. Das Bundeskartellamt ordnet die zur Auflösung des Zusammenschlusses erforderlichen Maßnahmen an. Die Wettbewerbsbeschränkung kann auch auf andere Weise als durch Wiederherstellung des früheren Zustands beseitigt werden.
 
 (4) Zur Durchsetzung seiner Anordnung kann das Bundeskartellamt insbesondere
 
@@ -985,13 +985,13 @@ einen Treuhänder bestellen, der die Auflösung des Zusammenschlusses herbeifüh
 
 ### § 42 Ministererlaubnis
 
-(1) Der Bundesminister für Wirtschaft und Technologie erteilt auf Antrag die Erlaubnis zu einem vom Bundeskartellamt untersagten Zusammenschluss, wenn im Einzelfall die Wettbewerbsbeschränkung von gesamtwirtschaftlichen Vorteilen des Zusammenschlusses aufgewogen wird oder der Zusammenschluss durch ein überragendes Interesse der Allgemeinheit gerechtfertigt ist. Hierbei ist auch die Wettbewerbsfähigkeit der beteiligten Unternehmen auf Märkten außerhalb des Geltungsbereichs dieses Gesetzes zu berücksichtigen. Die Erlaubnis darf nur erteilt werden, wenn durch das Ausmaß der Wettbewerbsbeschränkung die marktwirtschaftliche Ordnung nicht gefährdet wird.
+(1) Der Bundesminister für Wirtschaft und Energie erteilt auf Antrag die Erlaubnis zu einem vom Bundeskartellamt untersagten Zusammenschluss, wenn im Einzelfall die Wettbewerbsbeschränkung von gesamtwirtschaftlichen Vorteilen des Zusammenschlusses aufgewogen wird oder der Zusammenschluss durch ein überragendes Interesse der Allgemeinheit gerechtfertigt ist. Hierbei ist auch die Wettbewerbsfähigkeit der beteiligten Unternehmen auf Märkten außerhalb des Geltungsbereichs dieses Gesetzes zu berücksichtigen. Die Erlaubnis darf nur erteilt werden, wenn durch das Ausmaß der Wettbewerbsbeschränkung die marktwirtschaftliche Ordnung nicht gefährdet wird.
 
 (2) Die Erlaubnis kann mit Bedingungen und Auflagen verbunden werden. § 40 Absatz 3 Satz 2 und Absatz 3a gilt entsprechend.
 
-(3) Der Antrag ist innerhalb einer Frist von einem Monat seit Zustellung der Untersagung oder einer Auflösungsanordnung nach § 41 Absatz 3 Satz 1 ohne vorherige Untersagung beim Bundesministerium für Wirtschaft und Technologie schriftlich zu stellen. Wird die Untersagung angefochten, beginnt die Frist in dem Zeitpunkt, in dem die Untersagung unanfechtbar wird. Wird die Auflösungsanordnung nach § 41 Absatz 3 Satz 1 angefochten, beginnt die Frist zu dem Zeitpunkt, zu dem die Auflösungsanordnung unanfechtbar wird.
+(3) Der Antrag ist innerhalb einer Frist von einem Monat seit Zustellung der Untersagung oder einer Auflösungsanordnung nach § 41 Absatz 3 Satz 1 ohne vorherige Untersagung beim Bundesministerium für Wirtschaft und Energie schriftlich zu stellen. Wird die Untersagung angefochten, beginnt die Frist in dem Zeitpunkt, in dem die Untersagung unanfechtbar wird. Wird die Auflösungsanordnung nach § 41 Absatz 3 Satz 1 angefochten, beginnt die Frist zu dem Zeitpunkt, zu dem die Auflösungsanordnung unanfechtbar wird.
 
-(4) Der Bundesminister für Wirtschaft und Technologie soll über den Antrag innerhalb von vier Monaten entscheiden. Vor der Entscheidung ist eine Stellungnahme der Monopolkommission einzuholen und den obersten Landesbehörden, in deren Gebiet die beteiligten Unternehmen ihren Sitz haben, Gelegenheit zur Stellungnahme zu geben.
+(4) Der Bundesminister für Wirtschaft und Energie soll über den Antrag innerhalb von vier Monaten entscheiden. Vor der Entscheidung ist eine Stellungnahme der Monopolkommission einzuholen und den obersten Landesbehörden, in deren Gebiet die beteiligten Unternehmen ihren Sitz haben, Gelegenheit zur Stellungnahme zu geben.
 
 ### § 43 Bekanntmachungen
 
@@ -1044,7 +1044,7 @@ Achter Abschnitt Monopolkommission
 
 (3) Die Mitglieder der Monopolkommission und die Angehörigen der Geschäftsstelle sind zur Verschwiegenheit über die Beratungen und die von der Monopolkommission als vertraulich bezeichneten Beratungsunterlagen verpflichtet. Die Pflicht zur Verschwiegenheit bezieht sich auch auf Informationen, die der Monopolkommission gegeben und als vertraulich bezeichnet werden oder die gemäß Absatz 2a erlangt worden sind.
 
-(4) Die Mitglieder der Monopolkommission erhalten eine pauschale Entschädigung sowie Ersatz ihrer Reisekosten. Diese werden vom Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium des Innern festgesetzt. Die Kosten der Monopolkommission trägt der Bund.
+(4) Die Mitglieder der Monopolkommission erhalten eine pauschale Entschädigung sowie Ersatz ihrer Reisekosten. Diese werden vom Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium des Innern festgesetzt. Die Kosten der Monopolkommission trägt der Bund.
 
 ### § 47 Übermittlung statistischer Daten
 
@@ -1102,7 +1102,7 @@ I. Markttransparenzstelle für den Großhandel im Bereich Strom und Gas
 
 (2) Die Aufgaben der Markttransparenzstelle nehmen die Bundesnetzagentur und das Bundeskartellamt einvernehmlich wahr.
 
-(3) Die Einzelheiten der einvernehmlichen Zusammenarbeit werden in einer vom Bundesministerium für Wirtschaft und Technologie zu genehmigenden Kooperationsvereinbarung zwischen dem Bundeskartellamt und der Bundesnetzagentur näher geregelt. In der Vereinbarung ist insbesondere Folgendes zu regeln:
+(3) Die Einzelheiten der einvernehmlichen Zusammenarbeit werden in einer vom Bundesministerium für Wirtschaft und Energie zu genehmigenden Kooperationsvereinbarung zwischen dem Bundeskartellamt und der Bundesnetzagentur näher geregelt. In der Vereinbarung ist insbesondere Folgendes zu regeln:
 
 1.  
 die Besetzung und Geschäftsverteilung sowie
@@ -1110,7 +1110,7 @@ die Besetzung und Geschäftsverteilung sowie
 2.  
 eine Koordinierung der Datenerhebung und des Daten- und Informationsaustausches.
 
-(4) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung Vorgaben zur Ausgestaltung der Kooperationsvereinbarung zu erlassen.
+(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung Vorgaben zur Ausgestaltung der Kooperationsvereinbarung zu erlassen.
 
 (5) Entscheidungen der Markttransparenzstelle trifft die Person, die sie leitet. § 51 Absatz 5 gilt für alle Mitarbeiterinnen und Mitarbeiter der Markttransparenzstelle entsprechend.
 
@@ -1157,7 +1157,7 @@ Verordnung (EG) Nr. 715/2009 des Europäischen Parlaments und des Rates vom 13. 
 c)  
 Verordnung (EU) Nr. 994/2010 des Europäischen Parlaments und des Rates vom 20. Oktober 2010 über Maßnahmen zur Gewährleistung der sicheren Erdgasversorgung und zur Aufhebung der Richtlinie 2004/67/EG des Rates (ABl. L 295 vom 12.11.2010, S. 1).
 
-(2) Die Markttransparenzstelle stellt die Daten ferner dem Bundesministerium für Wirtschaft und Technologie und der Bundesnetzagentur zur Erfüllung ihrer Aufgaben nach § 54a des Energiewirtschaftsgesetzes zur Verfügung.
+(2) Die Markttransparenzstelle stellt die Daten ferner dem Bundesministerium für Wirtschaft und Energie und der Bundesnetzagentur zur Erfüllung ihrer Aufgaben nach § 54a des Energiewirtschaftsgesetzes zur Verfügung.
 
 (3) Die Daten können dem Statistischen Bundesamt für dessen Aufgaben nach dem Energiestatistikgesetz und der Monopolkommission für deren Aufgaben nach diesem Gesetz und nach § 62 des Energiewirtschaftsgesetzes zur Verfügung gestellt werden.
 
@@ -1426,11 +1426,13 @@ die sonstigen Gashandelsaktivitäten, die als OTC-Geschäfte durchgeführt werde
 
 (12) Die Markttransparenzstelle kann festlegen, dass im Bereich der Regelenergie und von Biogas Angaben über die Beschaffung externer Regelenergie, über Ausschreibungsergebnisse sowie über die Einspeisung und Vermarktung von Biogas übermittelt werden.
 
-§ 47g Absatz 2 tritt gemäß Artikel 4 Absatz 2 des Gesetzes vom 5. Dezember 2012 (BGBl. I S. 2403) am 31. Dezember 2015 außer Kraft.
+*§ 47g Absatz 2 tritt gemäß Artikel 4 Absatz 2 des Gesetzes vom 5. Dezember 2012 (BGBl. I S. 2403) am 31. Dezember 2015 außer Kraft.*
+
+§ 47g Abs. 2 Fußnote Kursivdruck: Überholt
 
 ### § 47h Berichtspflichten, Veröffentlichungen
 
-(1) Die Markttransparenzstelle unterrichtet das Bundesministerium für Wirtschaft und Technologie über die Übermittlung von Informationen nach § 47b Absatz 7 Satz 1.
+(1) Die Markttransparenzstelle unterrichtet das Bundesministerium für Wirtschaft und Energie über die Übermittlung von Informationen nach § 47b Absatz 7 Satz 1.
 
 (2) Die Markttransparenzstelle erstellt alle zwei Jahre einen Bericht über ihre Tätigkeit. Soweit der Großhandel mit Elektrizität und Erdgas betroffen ist, erstellt sie ihn im Einvernehmen mit der Bundesnetzagentur. Geschäftsgeheimnisse, von denen die Markttransparenzstelle bei der Durchführung ihrer Aufgaben Kenntnis erhalten hat, werden aus dem Bericht entfernt. Der Bericht wird auf der Internetseite der Markttransparenzstelle veröffentlicht. Der Bericht kann zeitgleich mit dem Bericht des Bundeskartellamts nach § 53 Absatz 3 erfolgen und mit diesem verbunden werden.
 
@@ -1456,7 +1458,7 @@ den Regulierungsbehörden anderer Mitgliedstaaten.
 
 Diese Stellen können unabhängig von der jeweils gewählten Verfahrensart untereinander Informationen einschließlich personenbezogener Daten und Betriebs- und Geschäftsgeheimnisse austauschen, soweit dies zur Erfüllung ihrer jeweiligen Aufgaben erforderlich ist. Sie können diese Informationen in ihren Verfahren verwerten. Beweisverwertungsverbote bleiben unberührt. Die Regelungen über die Rechtshilfe in Strafsachen sowie Amts- und Rechtshilfeabkommen bleiben unberührt.
 
-(2) Die Markttransparenzstelle kann mit Zustimmung des Bundesministeriums für Wirtschaft und Technologie Kooperationsvereinbarungen mit der Bundesanstalt für Finanzdienstleistungsaufsicht, den Börsenaufsichtsbehörden sowie Handelsüberwachungsstellen derjenigen Börsen, an denen Elektrizität und Gas sowie Energiederivate im Sinne des § 3 Nummer 15a des Energiewirtschaftsgesetzes gehandelt werden, und der Agentur für die Zusammenarbeit der Energieregulierungsbehörden schließen.
+(2) Die Markttransparenzstelle kann mit Zustimmung des Bundesministeriums für Wirtschaft und Energie Kooperationsvereinbarungen mit der Bundesanstalt für Finanzdienstleistungsaufsicht, den Börsenaufsichtsbehörden sowie Handelsüberwachungsstellen derjenigen Börsen, an denen Elektrizität und Gas sowie Energiederivate im Sinne des § 3 Nummer 15a des Energiewirtschaftsgesetzes gehandelt werden, und der Agentur für die Zusammenarbeit der Energieregulierungsbehörden schließen.
 
 ### § 47j Vertrauliche Informationen, operationelle Zuverlässigkeit, Datenschutz
 
@@ -1492,7 +1494,7 @@ dem Bundeskartellamt für Fusionskontrollverfahren nach den §§ 35 bis 41,
 den Kartellbehörden für Sektoruntersuchungen nach § 32e,
 
 3.  
-dem Bundesministerium für Wirtschaft und Technologie für statistische Zwecke und
+dem Bundesministerium für Wirtschaft und Energie für statistische Zwecke und
 
 4.  
 der Monopolkommission für deren Aufgaben nach diesem Gesetz.
@@ -1503,7 +1505,7 @@ der Monopolkommission für deren Aufgaben nach diesem Gesetz.
 
 (7) Zur Erfüllung ihrer Aufgaben nach Absatz 1 Satz 1 hat die Markttransparenzstelle für Kraftstoffe die Befugnisse nach § 59.
 
-(8) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, im Wege der Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Vorgaben zur Meldepflicht nach Absatz 2 und zur Weitergabe der Preisdaten nach Absatz 5 zu erlassen, insbesondere
+(8) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Wege der Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Vorgaben zur Meldepflicht nach Absatz 2 und zur Weitergabe der Preisdaten nach Absatz 5 zu erlassen, insbesondere
 
 1.  
 nähere Bestimmungen zum genauen Zeitpunkt sowie zur Art und Form der Übermittlung der Preisdaten nach Absatz 2 zu erlassen,
@@ -1520,7 +1522,7 @@ nähere Bestimmungen zu Inhalt, Art, Form und Umfang der Weitergabe der Preisdat
 5.  
 nähere Bestimmungen zu Inhalt, Art, Form und Umfang der Veröffentlichung oder Weitergabe der Preisdaten an Verbraucherinnen und Verbraucher durch die Anbieter von Verbraucher-Informationsdiensten nach Absatz 5 zu erlassen.
 
-Die Rechtsverordnung ist dem Bundestag vom Bundesministerium für Wirtschaft und Technologie zuzuleiten. Sie kann durch Beschluss des Bundestages geändert oder abgelehnt werden. Änderungen oder die Ablehnung sind dem Bundesministerium für Wirtschaft und Technologie vom Bundestag zuzuleiten. Hat sich der Bundestag nach Ablauf von drei Sitzungswochen nach Eingang der Rechtsverordnung nicht mit ihr befasst, gilt die Zustimmung des Bundestages als erteilt.
+Die Rechtsverordnung ist dem Bundestag vom Bundesministerium für Wirtschaft und Energie zuzuleiten. Sie kann durch Beschluss des Bundestages geändert oder abgelehnt werden. Änderungen oder die Ablehnung sind dem Bundesministerium für Wirtschaft und Energie vom Bundestag zuzuleiten. Hat sich der Bundestag nach Ablauf von drei Sitzungswochen nach Eingang der Rechtsverordnung nicht mit ihr befasst, gilt die Zustimmung des Bundestages als erteilt.
 
 (9) Entscheidungen der Markttransparenzstelle für Kraftstoffe trifft die Person, die sie leitet. § 51 Absatz 5 gilt für alle Mitarbeiterinnen und Mitarbeiter der Markttransparenzstelle für Kraftstoffe entsprechend. Zur Erfüllung ihrer Aufgaben nach Absatz 1 Satz 1 hat die Markttransparenzstelle für Kraftstoffe die Befugnisse nach § 59.
 
@@ -1531,7 +1533,7 @@ III. Evaluierung
 
 ### § 47l Evaluierung der Markttransparenzstellen
 
-Das Bundesministerium für Wirtschaft und Technologie berichtet den gesetzgebenden Körperschaften über die Ergebnisse der Arbeit der Markttransparenzstellen und die hieraus gewonnenen Erfahrungen. Die Berichterstattung für den Großhandel mit Strom und Gas erfolgt fünf Jahre nach Beginn der Mitteilungspflichten nach § 47e Absatz 2 bis 5 in Verbindung mit der Rechtsverordnung nach § 47f. Die Berichterstattung für den Kraftstoffbereich erfolgt drei Jahre nach Beginn der Meldepflicht nach § 47k Absatz 2 in Verbindung mit der Rechtsverordnung nach § 47k Absatz 8 und soll insbesondere auf die Preisentwicklung und die Situation der mittelständischen Mineralölwirtschaft eingehen.
+Das Bundesministerium für Wirtschaft und Energie berichtet den gesetzgebenden Körperschaften über die Ergebnisse der Arbeit der Markttransparenzstellen und die hieraus gewonnenen Erfahrungen. Die Berichterstattung für den Großhandel mit Strom und Gas erfolgt fünf Jahre nach Beginn der Mitteilungspflichten nach § 47e Absatz 2 bis 5 in Verbindung mit der Rechtsverordnung nach § 47f. Die Berichterstattung für den Kraftstoffbereich erfolgt drei Jahre nach Beginn der Meldepflicht nach § 47k Absatz 2 in Verbindung mit der Rechtsverordnung nach § 47k Absatz 8 und soll insbesondere auf die Preisentwicklung und die Situation der mittelständischen Mineralölwirtschaft eingehen.
 
 Zweiter Teil Kartellbehörden
 ----------------------------
@@ -1545,7 +1547,7 @@ Erster Abschnitt Allgemeine Vorschriften
 
 ### § 48 Zuständigkeit
 
-(1) Kartellbehörden sind das Bundeskartellamt, das Bundesministerium für Wirtschaft und Technologie und die nach Landesrecht zuständigen obersten Landesbehörden.
+(1) Kartellbehörden sind das Bundeskartellamt, das Bundesministerium für Wirtschaft und Energie und die nach Landesrecht zuständigen obersten Landesbehörden.
 
 (2) Weist eine Vorschrift dieses Gesetzes eine Zuständigkeit nicht einer bestimmten Kartellbehörde zu, so nimmt das Bundeskartellamt die in diesem Gesetz der Kartellbehörde übertragenen Aufgaben und Befugnisse wahr, wenn die Wirkung des wettbewerbsbeschränkenden oder diskriminierenden Verhaltens oder einer Wettbewerbsregel über das Gebiet eines Landes hinausreicht. In allen übrigen Fällen nimmt diese Aufgaben und Befugnisse die nach Landesrecht zuständige oberste Landesbehörde wahr.
 
@@ -1628,9 +1630,9 @@ Zweiter Abschnitt Bundeskartellamt
 
 ### § 51 Sitz, Organisation
 
-(1) Das Bundeskartellamt ist eine selbstständige Bundesoberbehörde mit dem Sitz in Bonn. Es gehört zum Geschäftsbereich des Bundesministeriums für Wirtschaft und Technologie.
+(1) Das Bundeskartellamt ist eine selbstständige Bundesoberbehörde mit dem Sitz in Bonn. Es gehört zum Geschäftsbereich des Bundesministeriums für Wirtschaft und Energie.
 
-(2) Die Entscheidungen des Bundeskartellamts werden von den Beschlussabteilungen getroffen, die nach Bestimmung des Bundesministeriums für Wirtschaft und Technologie gebildet werden. Im Übrigen regelt der Präsident die Verteilung und den Gang der Geschäfte des Bundeskartellamts durch eine Geschäftsordnung; sie bedarf der Bestätigung durch das Bundesministerium für Wirtschaft und Technologie.
+(2) Die Entscheidungen des Bundeskartellamts werden von den Beschlussabteilungen getroffen, die nach Bestimmung des Bundesministeriums für Wirtschaft und Energie gebildet werden. Im Übrigen regelt der Präsident die Verteilung und den Gang der Geschäfte des Bundeskartellamts durch eine Geschäftsordnung; sie bedarf der Bestätigung durch das Bundesministerium für Wirtschaft und Energie.
 
 (3) Die Beschlussabteilungen entscheiden in der Besetzung mit einem oder einer Vorsitzenden und zwei Beisitzenden.
 
@@ -1640,11 +1642,11 @@ Zweiter Abschnitt Bundeskartellamt
 
 ### § 52 Veröffentlichung allgemeiner Weisungen
 
-Soweit das Bundesministerium für Wirtschaft und Technologie dem Bundeskartellamt allgemeine Weisungen für den Erlass oder die Unterlassung von Verfügungen nach diesem Gesetz erteilt, sind diese Weisungen im Bundesanzeiger zu veröffentlichen.
+Soweit das Bundesministerium für Wirtschaft und Energie dem Bundeskartellamt allgemeine Weisungen für den Erlass oder die Unterlassung von Verfügungen nach diesem Gesetz erteilt, sind diese Weisungen im Bundesanzeiger zu veröffentlichen.
 
 ### § 53 Tätigkeitsbericht
 
-(1) Das Bundeskartellamt veröffentlicht alle zwei Jahre einen Bericht über seine Tätigkeit sowie über die Lage und Entwicklung auf seinem Aufgabengebiet. In den Bericht sind die allgemeinen Weisungen des Bundesministeriums für Wirtschaft und Technologie nach § 52 aufzunehmen. Es veröffentlicht ferner fortlaufend seine Verwaltungsgrundsätze.
+(1) Das Bundeskartellamt veröffentlicht alle zwei Jahre einen Bericht über seine Tätigkeit sowie über die Lage und Entwicklung auf seinem Aufgabengebiet. In den Bericht sind die allgemeinen Weisungen des Bundesministeriums für Wirtschaft und Energie nach § 52 aufzunehmen. Es veröffentlicht ferner fortlaufend seine Verwaltungsgrundsätze.
 
 (2) Die Bundesregierung leitet den Bericht des Bundeskartellamts dem Bundestag unverzüglich mit ihrer Stellungnahme zu.
 
@@ -1697,7 +1699,7 @@ in den Fällen des § 37 Absatz 1 Nummer 1 oder 3 auch der Veräußerer.
 
 (2) Vertretern der von dem Verfahren berührten Wirtschaftskreise kann die Kartellbehörde in geeigneten Fällen Gelegenheit zur Stellungnahme geben.
 
-(3) Auf Antrag eines Beteiligten oder von Amts wegen kann die Kartellbehörde eine öffentliche mündliche Verhandlung durchführen. Für die Verhandlung oder für einen Teil davon ist die Öffentlichkeit auszuschließen, wenn sie eine Gefährdung der öffentlichen Ordnung, insbesondere der Staatssicherheit, oder die Gefährdung eines wichtigen Geschäfts- oder Betriebsgeheimnisses besorgen lässt. In den Fällen des § 42 hat das Bundesministerium für Wirtschaft und Technologie eine öffentliche mündliche Verhandlung durchzuführen; mit Einverständnis der Beteiligten kann ohne mündliche Verhandlung entschieden werden.
+(3) Auf Antrag eines Beteiligten oder von Amts wegen kann die Kartellbehörde eine öffentliche mündliche Verhandlung durchführen. Für die Verhandlung oder für einen Teil davon ist die Öffentlichkeit auszuschließen, wenn sie eine Gefährdung der öffentlichen Ordnung, insbesondere der Staatssicherheit, oder die Gefährdung eines wichtigen Geschäfts- oder Betriebsgeheimnisses besorgen lässt. In den Fällen des § 42 hat das Bundesministerium für Wirtschaft und Energie eine öffentliche mündliche Verhandlung durchzuführen; mit Einverständnis der Beteiligten kann ohne mündliche Verhandlung entschieden werden.
 
 (4) Die §§ 45 und 46 des Verwaltungsverfahrensgesetzes sind anzuwenden.
 
@@ -1748,9 +1750,9 @@ Gegenüber Wirtschafts- und Berufsvereinigungen gilt Satz 1 Nummer 1 und 3 entsp
 
 (5) Für die zur Auskunft verpflichtete Person gilt § 55 der *Strafprozessordung* entsprechend.
 
-(6) Das Bundesministerium für Wirtschaft und Technologie oder die oberste Landesbehörde fordern die Auskunft durch schriftliche Einzelverfügung, das Bundeskartellamt fordert sie durch Beschluss an. Darin sind die Rechtsgrundlage, der Gegenstand und der Zweck des Auskunftsverlangens anzugeben und eine angemessene Frist zur Erteilung der Auskunft zu bestimmen.
+(6) Das Bundesministerium für Wirtschaft und Energie oder die oberste Landesbehörde fordern die Auskunft durch schriftliche Einzelverfügung, das Bundeskartellamt fordert sie durch Beschluss an. Darin sind die Rechtsgrundlage, der Gegenstand und der Zweck des Auskunftsverlangens anzugeben und eine angemessene Frist zur Erteilung der Auskunft zu bestimmen.
 
-(7) Das Bundesministerium für Wirtschaft und Technologie oder die oberste Landesbehörde ordnen die Prüfung durch schriftliche Einzelverfügung, das Bundeskartellamt ordnet sie durch Beschluss mit Zustimmung des Präsidenten an. In der Anordnung sind Zeitpunkt, Rechtsgrundlage, Gegenstand und Zweck der Prüfung anzugeben.
+(7) Das Bundesministerium für Wirtschaft und Energie oder die oberste Landesbehörde ordnen die Prüfung durch schriftliche Einzelverfügung, das Bundeskartellamt ordnet sie durch Beschluss mit Zustimmung des Präsidenten an. In der Anordnung sind Zeitpunkt, Rechtsgrundlage, Gegenstand und Zweck der Prüfung anzugeben.
 
 § 59 Abs. 5 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
 
@@ -1792,7 +1794,7 @@ II. Beschwerde
 
 (3) Die Beschwerde ist auch gegen die Unterlassung einer beantragten Verfügung der Kartellbehörde zulässig, auf deren Vornahme der Antragsteller ein Recht zu haben behauptet. Als Unterlassung gilt es auch, wenn die Kartellbehörde den Antrag auf Vornahme der Verfügung ohne zureichenden Grund in angemessener Frist nicht beschieden hat. Die Unterlassung ist dann einer Ablehnung gleichzuachten.
 
-(4) Über die Beschwerde entscheidet das für den Sitz der Kartellbehörde zuständige Oberlandesgericht, in den Fällen der §§ 35 bis 42 das für den Sitz des Bundeskartellamts zuständige Oberlandesgericht, und zwar auch dann, wenn sich die Beschwerde gegen eine Verfügung des Bundesministeriums für Wirtschaft und Technologie richtet. § 36 der Zivilprozessordnung gilt entsprechend. Für Streitigkeiten über Entscheidungen des Bundeskartellamts, die die freiwillige Vereinigung von Krankenkassen nach § 172a des Fünften Buches Sozialgesetzbuch betreffen, gilt § 202 Satz 3 des Sozialgerichtsgesetzes.
+(4) Über die Beschwerde entscheidet das für den Sitz der Kartellbehörde zuständige Oberlandesgericht, in den Fällen der §§ 35 bis 42 das für den Sitz des Bundeskartellamts zuständige Oberlandesgericht, und zwar auch dann, wenn sich die Beschwerde gegen eine Verfügung des Bundesministeriums für Wirtschaft und Energie richtet. § 36 der Zivilprozessordnung gilt entsprechend. Für Streitigkeiten über Entscheidungen des Bundeskartellamts, die die freiwillige Vereinigung von Krankenkassen nach § 172a des Fünften Buches Sozialgesetzbuch betreffen, gilt § 202 Satz 3 des Sozialgerichtsgesetzes.
 
 ### § 64 Aufschiebende Wirkung
 
@@ -1836,11 +1838,11 @@ In den Fällen, in denen die Beschwerde keine aufschiebende Wirkung hat, kann di
 
 ### § 66 Frist und Form
 
-(1) Die Beschwerde ist binnen einer Frist von einem Monat bei der Kartellbehörde, deren Verfügung angefochten wird, schriftlich einzureichen. Die Frist beginnt mit der Zustellung der Verfügung der Kartellbehörde. Wird in den Fällen des § 36 Absatz 1 Antrag auf Erteilung einer Erlaubnis nach § 42 gestellt, so beginnt die Frist für die Beschwerde gegen die Verfügung des Bundeskartellamts mit der Zustellung der Verfügung des Bundesministeriums für Wirtschaft und Technologie. Es genügt, wenn die Beschwerde innerhalb der Frist bei dem Beschwerdegericht eingeht.
+(1) Die Beschwerde ist binnen einer Frist von einem Monat bei der Kartellbehörde, deren Verfügung angefochten wird, schriftlich einzureichen. Die Frist beginnt mit der Zustellung der Verfügung der Kartellbehörde. Wird in den Fällen des § 36 Absatz 1 Antrag auf Erteilung einer Erlaubnis nach § 42 gestellt, so beginnt die Frist für die Beschwerde gegen die Verfügung des Bundeskartellamts mit der Zustellung der Verfügung des Bundesministeriums für Wirtschaft und Energie. Es genügt, wenn die Beschwerde innerhalb der Frist bei dem Beschwerdegericht eingeht.
 
 (2) Ergeht auf einen Antrag keine Verfügung (§ 63 Absatz 3 Satz 2), so ist die Beschwerde an keine Frist gebunden.
 
-(3) Die Beschwerde ist innerhalb von zwei Monaten nach Zustellung der angefochtenen Verfügung zu begründen. Im Fall des Absatzes 1 Satz 3 beginnt die Frist mit der Zustellung der Verfügung des Bundesministeriums für Wirtschaft und Technologie. Wird diese Verfügung angefochten, beginnt die Frist zu dem Zeitpunkt, zu dem die Untersagung unanfechtbar wird. Im Fall des Absatzes 2 beträgt die Frist einen Monat; sie beginnt mit der Einlegung der Beschwerde. Die Frist kann auf Antrag von dem oder der Vorsitzenden des Beschwerdegerichts verlängert werden.
+(3) Die Beschwerde ist innerhalb von zwei Monaten nach Zustellung der angefochtenen Verfügung zu begründen. Im Fall des Absatzes 1 Satz 3 beginnt die Frist mit der Zustellung der Verfügung des Bundesministeriums für Wirtschaft und Energie. Wird diese Verfügung angefochten, beginnt die Frist zu dem Zeitpunkt, zu dem die Untersagung unanfechtbar wird. Im Fall des Absatzes 2 beträgt die Frist einen Monat; sie beginnt mit der Einlegung der Beschwerde. Die Frist kann auf Antrag von dem oder der Vorsitzenden des Beschwerdegerichts verlängert werden.
 
 (4) Die Beschwerdebegründung muss enthalten
 
@@ -2576,7 +2578,7 @@ b)
 andere Unternehmen die Möglichkeit haben, diese Waren unter gleichen Bedingungen wie der betreffende Auftraggeber zu verkaufen oder zu vermieten, oder
 
 4.  
-der Ausübung einer Tätigkeit auf dem Gebiet der Trinkwasser- oder Energieversorgung oder des Verkehrs dienen, soweit die Europäische Kommission nach Artikel 30 der Richtlinie 2004/17/EG des Europäischen Parlaments und des Rates vom 31. März 2004 zur Koordinierung der Zuschlagserteilung durch Auftraggeber im Bereich der Wasser-, Energie- und Verkehrsversorgung sowie der Postdienste (ABl. L 7 vom 7.1.2005, S. 7) festgestellt hat, dass diese Tätigkeit in Deutschland auf Märkten mit freiem Zugang unmittelbar dem Wettbewerb ausgesetzt ist und dies durch das Bundesministerium für Wirtschaft und Technologie im Bundesanzeiger bekannt gemacht worden ist.
+der Ausübung einer Tätigkeit auf dem Gebiet der Trinkwasser- oder Energieversorgung oder des Verkehrs dienen, soweit die Europäische Kommission nach Artikel 30 der Richtlinie 2004/17/EG des Europäischen Parlaments und des Rates vom 31. März 2004 zur Koordinierung der Zuschlagserteilung durch Auftraggeber im Bereich der Wasser-, Energie- und Verkehrsversorgung sowie der Postdienste (ABl. L 7 vom 7.1.2005, S. 7) festgestellt hat, dass diese Tätigkeit in Deutschland auf Märkten mit freiem Zugang unmittelbar dem Wettbewerb ausgesetzt ist und dies durch das Bundesministerium für Wirtschaft und Energie im Bundesanzeiger bekannt gemacht worden ist.
 
 (5) Dieser Teil gilt nicht für die Vergabe von Baukonzessionen zum Zweck der Durchführung von Tätigkeiten auf dem Gebiet der Trinkwasser- oder Energieversorgung oder des Verkehrs.
 
@@ -2727,7 +2729,7 @@ Unbeschadet der Prüfungsmöglichkeiten von Aufsichtsbehörden unterliegt die Ve
 
 ### § 106 Einrichtung, Organisation
 
-(1) Der Bund richtet die erforderliche Anzahl von Vergabekammern beim Bundeskartellamt ein. Einrichtung und Besetzung der Vergabekammern sowie die Geschäftsverteilung bestimmt der Präsident des Bundeskartellamts. Ehrenamtliche Beisitzer und deren Stellvertreter ernennt er auf Vorschlag der Spitzenorganisationen der öffentlich-rechtlichen Kammern. Der Präsident des Bundeskartellamts erlässt nach Genehmigung durch das Bundesministerium für Wirtschaft und Technologie eine Geschäftsordnung und veröffentlicht diese im Bundesanzeiger.
+(1) Der Bund richtet die erforderliche Anzahl von Vergabekammern beim Bundeskartellamt ein. Einrichtung und Besetzung der Vergabekammern sowie die Geschäftsverteilung bestimmt der Präsident des Bundeskartellamts. Ehrenamtliche Beisitzer und deren Stellvertreter ernennt er auf Vorschlag der Spitzenorganisationen der öffentlich-rechtlichen Kammern. Der Präsident des Bundeskartellamts erlässt nach Genehmigung durch das Bundesministerium für Wirtschaft und Energie eine Geschäftsordnung und veröffentlicht diese im Bundesanzeiger.
 
 (2) Die Einrichtung, Organisation und Besetzung der in diesem Abschnitt genannten Stellen (Nachprüfungsbehörden) der Länder bestimmen die nach Landesrecht zuständigen Stellen, mangels einer solchen Bestimmung die Landesregierung, die die Ermächtigung weiter übertragen kann. Die Länder können gemeinsame Nachprüfungsbehörden einrichten.
 
@@ -2822,19 +2824,41 @@ Verfahrensbeteiligte sind der Antragsteller, der Auftraggeber und die Unternehme
 
 (2) Auch wenn die Beteiligten in dem Verhandlungstermin nicht erschienen oder nicht ordnungsgemäß vertreten sind, kann in der Sache verhandelt und entschieden werden.
 
-### § 113 Beschleunigung
+### § 113 Verordnungsermächtigung
 
-(1) Die Vergabekammer trifft und begründet ihre Entscheidung schriftlich innerhalb einer Frist von fünf Wochen ab Eingang des Antrags. Bei besonderen tatsächlichen oder rechtlichen Schwierigkeiten kann der Vorsitzende im Ausnahmefall die Frist durch Mitteilung an die Beteiligten um den erforderlichen Zeitraum verlängern. Dieser Zeitraum soll nicht länger als zwei Wochen dauern. Er begründet diese Verfügung schriftlich.
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnungen mit Zustimmung des Bundesrates die Einzelheiten zur Vergabe von öffentlichen Aufträgen und Konzessionen sowie zur Ausrichtung von Wettbewerben zu regeln. Diese Ermächtigung umfasst die Befugnis zur Regelung von Anforderungen an den Auftragsgegenstand und an das Vergabeverfahren, insbesondere zur Regelung
 
-(2) Die Beteiligten haben an der Aufklärung des Sachverhalts mitzuwirken, wie es einem auf Förderung und raschen Abschluss des Verfahrens bedachten Vorgehen entspricht. Den Beteiligten können Fristen gesetzt werden, nach deren Ablauf weiterer Vortrag unbeachtet bleiben kann.
+1.  
+der Schätzung des Auftrags- oder Vertragswertes,
 
-### § 114 Entscheidung der Vergabekammer
+2.  
+der Leistungsbeschreibung, der Bekanntmachung, der Verfahrensarten und des Ablaufs des Vergabeverfahrens, der Nebenangebote, der Vergabe von Unteraufträgen sowie der Vergabe öffentlicher Aufträge und Konzessionen, die soziale und andere besondere Dienstleistungen betreffen,
 
-(1) Die Vergabekammer entscheidet, ob der Antragsteller in seinen Rechten verletzt ist und trifft die geeigneten Maßnahmen, um eine Rechtsverletzung zu beseitigen und eine Schädigung der betroffenen Interessen zu verhindern. Sie ist an die Anträge nicht gebunden und kann auch unabhängig davon auf die Rechtmäßigkeit des Vergabeverfahrens einwirken.
+3.  
+der besonderen Methoden und Instrumente in Vergabeverfahren und für Sammelbeschaffungen einschließlich der zentralen Beschaffung,
 
-(2) Ein wirksam erteilter Zuschlag kann nicht aufgehoben werden. Hat sich das Nachprüfungsverfahren durch Erteilung des Zuschlags, durch Aufhebung oder durch Einstellung des Vergabeverfahrens oder in sonstiger Weise erledigt, stellt die Vergabekammer auf Antrag eines Beteiligten fest, ob eine Rechtsverletzung vorgelegen hat. § 113 Absatz 1 gilt in diesem Fall nicht.
+4.  
+des Sendens, Empfangens, Weiterleitens und Speicherns von Daten einschließlich der Regelungen zum Inkrafttreten der entsprechenden Verpflichtungen,
 
-(3) Die Entscheidung der Vergabekammer ergeht durch Verwaltungsakt. Die Vollstreckung richtet sich, auch gegen einen Hoheitsträger, nach den Verwaltungsvollstreckungsgesetzen des Bundes und der Länder. Die §§ 61 und 86a Satz 2 gelten entsprechend.
+5.  
+der Auswahl und Prüfung der Unternehmen und Angebote sowie des Abschlusses des Vertrags,
+
+6.  
+der Aufhebung des Vergabeverfahrens,
+
+7.  
+der verteidigungs- oder sicherheitsspezifischen Anforderungen im Hinblick auf den Geheimschutz, auf die allgemeinen Regelungen zur Wahrung der Vertraulichkeit, auf die Versorgungssicherheit sowie auf die besonderen Regelungen für die Vergabe von Unteraufträgen,
+
+8.  
+der Voraussetzungen, nach denen Sektorenauftraggeber, Konzessionsgeber oder Auftraggeber nach dem Bundesberggesetz von der Verpflichtung zur Anwendung dieses Teils befreit werden können, sowie des dabei anzuwendenden Verfahrens einschließlich der erforderlichen Ermittlungsbefugnisse des Bundeskartellamtes und der Einzelheiten der Kostenerhebung; Vollstreckungserleichterungen dürfen vorgesehen werden.
+
+Die Rechtsverordnungen sind dem Bundestag zuzuleiten. Die Zuleitung erfolgt vor der Zuleitung an den Bundesrat. Die Rechtsverordnungen können durch Beschluss des Bundestages geändert oder abgelehnt werden. Der Beschluss des Bundestages wird der Bundesregierung zugeleitet. Hat sich der Bundestag nach Ablauf von drei Sitzungswochen seit Eingang der Rechtsverordnungen nicht mit ihnen befasst, so werden die unveränderten Rechtsverordnungen dem Bundesrat zugeleitet.
+
+### § 114 Monitoring und Pflicht zur Übermittlung von Vergabedaten
+
+*(1) Die obersten Bundesbehörden und die Länder erstatten in ihrem jeweiligen Zuständigkeitsbereich dem Bundesministerium für Wirtschaft und Energie über die Anwendung der Vorschriften dieses Teils und der aufgrund des § 113 erlassenen Rechtsverordnungen bis zum 15. Februar 2017 und danach alle drei Jahre jeweils bis zum 15. Februar schriftlich Bericht.*
+
+(2) *Auftraggeber im Sinne des § 98 übermitteln an das Bundesministerium für Wirtschaft und Energie Daten zu öffentlichen Aufträgen im Sinne des § 103 Absatz 1 und zu Konzessionen im Sinne des § 105 zur Gewinnung flächendeckender Daten im Vergabewesen. Die zu übermittelnden Daten umfassen für öffentliche Aufträge im Sinne des § 103 Absatz 1 und für Konzessionen im Sinne des § 105 oberhalb der jeweils geltenden Schwellenwerte maximal Daten, die in den Bekanntmachungen über vergebene öffentliche Aufträge und Konzessionen enthalten sind. Die zu übermittelnden Daten umfassen für öffentliche Aufträge durch öffentliche Auftraggeber im Sinne des § 99 unterhalb der jeweils geltenden Schwellenwerte und oberhalb einer durch die Verordnung nach Satz 4 festzulegenden Bagatellgrenze Daten zur Art und zur Menge der Leistung sowie zum Wert des erfolgreichen Angebots.* Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der Datenübermittlung einschließlich des Umfangs der zu übermittelnden Daten und des Zeitpunkts des Inkrafttretens der entsprechenden Verpflichtungen zu regeln.
 
 ### § 115 Aussetzung des Vergabeverfahrens
 
@@ -2975,7 +2999,7 @@ zur Umsetzung der vergaberechtlichen Schwellenwerte der Richtlinien der Europäi
 über ein freiwilliges Streitschlichtungsverfahren der Europäischen Kommission gemäß Kapitel 4 der Richtlinie 92/13/EWG des Rates der Europäischen Gemeinschaften vom 25. Februar 1992 (ABl. EG Nr. L 76 S. 14);
 
 8.  
-über die Informationen, die von den Auftraggebern dem Bundesministerium für Wirtschaft und Technologie zu übermitteln sind, um Verpflichtungen aus Richtlinien des Rates der Europäischen Gemeinschaft oder der Europäischen Union zu erfüllen;
+über die Informationen, die von den Auftraggebern dem Bundesministerium für Wirtschaft und Energie zu übermitteln sind, um Verpflichtungen aus Richtlinien des Rates der Europäischen Gemeinschaft oder der Europäischen Union zu erfüllen;
 
 9.  
 über die Voraussetzungen, nach denen Auftraggeber, die auf dem Gebiet der Trinkwasser- oder der Energieversorgung oder des Verkehrs tätig sind, sowie Auftraggeber nach dem Bundesberggesetz von der Verpflichtung zur Anwendung dieses Teils befreit werden können, sowie über das dabei anzuwendende Verfahren einschließlich der erforderlichen Ermittlungsbefugnisse des Bundeskartellamts.
@@ -2998,21 +3022,21 @@ zur Umsetzung der vergaberechtlichen Schwellenwerte der Richtlinien der Europäi
 
 ### § 129 Korrekturmechanismus der Kommission
 
-(1) Erhält die Bundesregierung im Laufe eines Vergabeverfahrens vor Abschluss des Vertrages eine Mitteilung der Europäischen Kommission, dass diese der Auffassung ist, es liege ein schwerer Verstoß gegen das Recht der Europäischen Union im Bereich der öffentlichen Aufträge vor, der zu beseitigen sei, teilt das Bundesministerium für Wirtschaft und Technologie dies dem Auftraggeber mit.
+(1) Erhält die Bundesregierung im Laufe eines Vergabeverfahrens vor Abschluss des Vertrages eine Mitteilung der Europäischen Kommission, dass diese der Auffassung ist, es liege ein schwerer Verstoß gegen das Recht der Europäischen Union im Bereich der öffentlichen Aufträge vor, der zu beseitigen sei, teilt das Bundesministerium für Wirtschaft und Energie dies dem Auftraggeber mit.
 
-(2) Der Auftraggeber ist verpflichtet, innerhalb von 14 Kalendertagen nach Eingang dieser Mitteilung dem Bundesministerium für Wirtschaft und Technologie eine umfassende Darstellung des Sachverhaltes zu geben und darzulegen, ob der behauptete Verstoß beseitigt wurde, oder zu begründen, warum er nicht beseitigt wurde, ob das Vergabeverfahren Gegenstand eines Nachprüfungsverfahrens ist oder aus sonstigen Gründen ausgesetzt wurde.
+(2) Der Auftraggeber ist verpflichtet, innerhalb von 14 Kalendertagen nach Eingang dieser Mitteilung dem Bundesministerium für Wirtschaft und Energie eine umfassende Darstellung des Sachverhaltes zu geben und darzulegen, ob der behauptete Verstoß beseitigt wurde, oder zu begründen, warum er nicht beseitigt wurde, ob das Vergabeverfahren Gegenstand eines Nachprüfungsverfahrens ist oder aus sonstigen Gründen ausgesetzt wurde.
 
-(3) Ist das Vergabeverfahren Gegenstand eines Nachprüfungsverfahrens oder wurde es ausgesetzt, so ist der Auftraggeber verpflichtet, das Bundesministerium für Wirtschaft und Technologie unverzüglich über den Ausgang des Nachprüfungsverfahrens zu informieren.
+(3) Ist das Vergabeverfahren Gegenstand eines Nachprüfungsverfahrens oder wurde es ausgesetzt, so ist der Auftraggeber verpflichtet, das Bundesministerium für Wirtschaft und Energie unverzüglich über den Ausgang des Nachprüfungsverfahrens zu informieren.
 
 ### § 129a Unterrichtungspflichten der Nachprüfungsinstanzen
 
-Die Vergabekammern und die Oberlandesgerichte unterrichten das Bundesministerium für Wirtschaft und Technologie bis zum 31. Januar eines jeden Jahres über die Anzahl der Nachprüfungsverfahren des Vorjahres und deren Ergebnisse.
+Die Vergabekammern und die Oberlandesgerichte unterrichten das Bundesministerium für Wirtschaft und Energie bis zum 31. Januar eines jeden Jahres über die Anzahl der Nachprüfungsverfahren des Vorjahres und deren Ergebnisse.
 
 ### § 129b Regelung für Auftraggeber nach dem Bundesberggesetz
 
 (1) Auftraggeber, die nach dem Bundesberggesetz berechtigt sind, Erdöl, Gas, Kohle oder andere Festbrennstoffe aufzusuchen oder zu gewinnen, müssen bei der Vergabe von Liefer-, Bau- oder Dienstleistungsaufträgen oberhalb der in Artikel 16 der Richtlinie 2004/17/EG des Europäischen Parlaments und des Rates vom 31. März 2004 zur Koordinierung der Zuschlagserteilung durch Auftraggeber im Bereich der Wasser-, Energie- und Verkehrsversorgung sowie der Postdienste (ABl. EU Nr. L 134 S. 1), die zuletzt durch die Verordnung (EG) Nr. 1422/2007 der Kommission vom 4. Dezember 2007 (ABl. EU Nr. L 317 S. 34) geändert worden ist, festgelegten Schwellenwerte zur Durchführung der Aufsuchung oder Gewinnung von Erdöl, Gas, Kohle oder anderen Festbrennstoffen den Grundsatz der Nichtdiskriminierung und der wettbewerbsorientierten Auftragsvergabe beachten. Insbesondere müssen sie Unternehmen, die ein Interesse an einem solchen Auftrag haben können, ausreichend informieren und bei der Auftragsvergabe objektive Kriterien zugrunde legen. Dies gilt nicht für die Vergabe von Aufträgen, deren Gegenstand die Beschaffung von Energie oder Brennstoffen zur Energieerzeugung ist.
 
-(2) Die Auftraggeber nach Absatz 1 erteilen der Europäischen Kommission über das Bundesministerium für Wirtschaft und Technologie Auskunft über die Vergabe der unter diese Vorschrift fallenden Aufträge nach Maßgabe der Entscheidung 93/327/EWG der Kommission vom 13. Mai 1993 zur Festlegung der Voraussetzungen, unter denen die öffentlichen Auftraggeber, die geographisch abgegrenzte Gebiete zum Zwecke der Aufsuchung oder Förderung von Erdöl, Gas, Kohle oder anderen Festbrennstoffen nutzen, der Kommission Auskunft über die von ihnen vergebenen Aufträge zu erteilen haben (ABl. EG Nr. L 129 S. 25). Sie können über das Verfahren gemäß der Rechtsverordnung nach § 127 Nummer 9 unter den dort geregelten Voraussetzungen eine Befreiung von der Pflicht zur Anwendung dieser Bestimmung erreichen.
+(2) Die Auftraggeber nach Absatz 1 erteilen der Europäischen Kommission über das Bundesministerium für Wirtschaft und Energie Auskunft über die Vergabe der unter diese Vorschrift fallenden Aufträge nach Maßgabe der Entscheidung 93/327/EWG der Kommission vom 13. Mai 1993 zur Festlegung der Voraussetzungen, unter denen die öffentlichen Auftraggeber, die geographisch abgegrenzte Gebiete zum Zwecke der Aufsuchung oder Förderung von Erdöl, Gas, Kohle oder anderen Festbrennstoffen nutzen, der Kommission Auskunft über die von ihnen vergebenen Aufträge zu erteilen haben (ABl. EG Nr. L 129 S. 25). Sie können über das Verfahren gemäß der Rechtsverordnung nach § 127 Nummer 9 unter den dort geregelten Voraussetzungen eine Befreiung von der Pflicht zur Anwendung dieser Bestimmung erreichen.
 
 Fünfter Teil Anwendungsbereich des Gesetzes
 -------------------------------------------
@@ -3021,7 +3045,7 @@ Fünfter Teil Anwendungsbereich des Gesetzes
 
 ### § 130 Unternehmen der öffentlichen Hand, Geltungsbereich
 
-(1) Dieses Gesetz findet auch Anwendung auf Unternehmen, die ganz oder teilweise im Eigentum der öffentlichen Hand stehen oder die von ihr verwaltet oder betrieben werden. Die §§ 19, 20 *,*und 31b Absatz 5 finden keine Anwendung auf öffentlich-rechtliche Gebühren und Beiträge. Die Vorschriften des Ersten bis Dritten Teils dieses Gesetzes finden keine Anwendung auf die Deutsche Bundesbank und die Kreditanstalt für Wiederaufbau.
+(1) Dieses Gesetz findet auch Anwendung auf Unternehmen, die ganz oder teilweise im Eigentum der öffentlichen Hand stehen oder die von ihr verwaltet oder betrieben werden. Die §§ 19, 20 *,* und 31b Absatz 5 finden keine Anwendung auf öffentlich-rechtliche Gebühren und Beiträge. Die Vorschriften des Ersten bis Dritten Teils dieses Gesetzes finden keine Anwendung auf die Deutsche Bundesbank und die Kreditanstalt für Wiederaufbau.
 
 (2) Dieses Gesetz findet Anwendung auf alle Wettbewerbsbeschränkungen, die sich im Geltungsbereich dieses Gesetzes auswirken, auch wenn sie außerhalb des Geltungsbereichs dieses Gesetzes veranlasst werden.
 
