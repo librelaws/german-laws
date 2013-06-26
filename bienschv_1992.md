@@ -2,7 +2,7 @@ Verordnung über die Anwendung bienengefährlicher Pflanzenschutzmittel ()
 ========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 4 § 3 G v. 6.8.2002 I 3082
+Zuletzt geändert durch Art. 6 V v. 27.6.2013 I 1953
 
 ### 
 
@@ -72,15 +72,13 @@ Sie hat die Ausnahmegenehmigung mit den erforderlichen Auflagen zu verbinden, um
 
 ### § 4 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 1 Buchstabe a des Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  
-entgegen § 2 Abs. 1, 2 oder 3 ein bienengefährliches Pflanzenschutzmittel anwendet oder
+entgegen § 2 Absatz 1, 2 oder Absatz 3 ein bienengefährliches Pflanzenschutzmittel anwendet oder
 
 2.  
-entgegen § 2 Abs. 4 ein bienengefährliches Pflanzenschutzmittel handhabt, aufbewahrt oder beseitigt.
-
-(2) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 2 Buchstabe c des Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Auflage nach § 3 Satz 2 zuwiderhandelt.
+entgegen § 2 Absatz 4 ein bienengefährliches Pflanzenschutzmittel handhabt, aufbewahrt oder beseitigt.
 
 ### § 5 Inkrafttreten, abgelöste Vorschrift
 
