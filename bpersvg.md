@@ -2,7 +2,7 @@ Bundespersonalvertretungsgesetz (BPersVG)
 =========================================
 
 Stand  
-Zuletzt geändert durch Art. 7 G v. 5.2.2009 I 160
+Zuletzt geändert durch Art. 3 Abs. 2 G v. 3.7.2013 I 1978
 
 ### 
 
@@ -437,7 +437,7 @@ Auf Antrag von einem Viertel der Mitglieder oder der Mehrheit einer Gruppe des P
 
 ### § 39
 
-(1) Erachtet die Mehrheit der Vertreter einer Gruppe oder der Jugend- und Auszubildendenvertretung einen Beschluß des Personalrates als eine erhebliche Beeinträchtigung wichtiger Interessen der durch die vertretenen Beschäftigten, so ist auf ihren Antrag der Beschluß auf die Dauer von sechs Arbeitstagen vom Zeitpunkt der Beschlußfassung an auszusetzen. In dieser Frist soll, gegebenenfalls mit Hilfe der unter den Mitgliedern des Personalrates oder der Jugend- und Auszubildendenvertretung vertretenen Gewerkschaften, eine Verständigung versucht werden. Die Aussetzung eines Beschlusses nach Satz 1 hat keine Verlängerung einer Frist zur Folge.
+(1) Erachtet die Mehrheit der Vertreter einer Gruppe oder der Jugend- und Auszubildendenvertretung einen Beschluß des Personalrates als eine erhebliche Beeinträchtigung wichtiger Interessen der durch sie vertretenen Beschäftigten, so ist auf ihren Antrag der Beschluß auf die Dauer von sechs Arbeitstagen vom Zeitpunkt der Beschlußfassung an auszusetzen. In dieser Frist soll, gegebenenfalls mit Hilfe der unter den Mitgliedern des Personalrates oder der Jugend- und Auszubildendenvertretung vertretenen Gewerkschaften, eine Verständigung versucht werden. Die Aussetzung eines Beschlusses nach Satz 1 hat keine Verlängerung einer Frist zur Folge.
 
 (2) Nach Ablauf der Frist ist über die Angelegenheit neu zu beschließen. Wird der erste Beschluß bestätigt, so kann der Antrag auf Aussetzung nicht wiederholt werden.
 
@@ -860,7 +860,7 @@ Zuweisung und Kündigung von Wohnungen, über die die Dienststelle verfügt, sow
 3.  
 Zuweisung von Dienst- und Pachtland und Festsetzung der Nutzungsbedingungen.
 
-Hat ein Beschäftiger eine Leistung nach Nummer 1 beantragt, wird der Personalrat nur auf seinen Antrag beteiligt; auf Verlangen des Antragstellers bestimmt nur der Vorstand des Personalrates mit. Die Dienststelle hat dem Personalrat nach Abschluß jedes Kalendervierteljahres einen Überblick über die Unterstützungen und entsprechenden sozialen Zuwendungen zu geben. Dabei sind die Anträge und die Leistungen gegenüberzustellen. Auskunft über die von den Antragstellern angeführten Gründe wird hierbei nicht erteilt.
+Hat ein Beschäftigter eine Leistung nach Nummer 1 beantragt, wird der Personalrat nur auf seinen Antrag beteiligt; auf Verlangen des Antragstellers bestimmt nur der Vorstand des Personalrates mit. Die Dienststelle hat dem Personalrat nach Abschluß jedes Kalendervierteljahres einen Überblick über die Unterstützungen und entsprechenden sozialen Zuwendungen zu geben. Dabei sind die Anträge und die Leistungen gegenüberzustellen. Auskunft über die von den Antragstellern angeführten Gründe wird hierbei nicht erteilt.
 
 (3) Der Personalrat hat, soweit eine gesetzliche oder tarifliche Regelung nicht besteht, gegebenenfalls durch Abschluß von Dienstvereinbarungen mitzubestimmen über
 
@@ -948,7 +948,7 @@ Anordnungen, welche die Freiheit in der Wahl der Wohnung beschränken,
 Versagung oder Widerruf der Genehmigung einer Nebentätigkeit,
 
 8.  
-Ablehnung eines Antrages nach den §§ 91, 92 oder 95 des Bundesbeamtengesetzes auf Teilzeitbeschäftigung, Ermäßigung der regelmäßigen Arbeitszeit oder Urlaub,
+Ablehnung eines Antrages nach den §§ 91, 92, 92a oder § 95 des Bundesbeamtengesetzes auf Teilzeitbeschäftigung, Ermäßigung der regelmäßigen Arbeitszeit oder Urlaub,
 
 9.  
 Hinausschiebung des Eintritts in den Ruhestand wegen Erreichens der Altersgrenze.
