@@ -2,10 +2,7 @@ Sozialgesetzbuch (SGB) - Elftes Buch (XI) - Soziale Pflegeversicherung (Artikel 
 ====================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 14 G v. 8.4.2013 I 730
-
-Hinweis  
-Änderung durch Art. 2a G v. 15.7.2013 I 2423 (Nr. 38) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 2a G v. 15.7.2013 I 2423
 
 ### 
 
