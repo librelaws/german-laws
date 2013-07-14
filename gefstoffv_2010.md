@@ -2,7 +2,7 @@ Verordnung zum Schutz vor Gefahrstoffen (GefStoffV)
 ===================================================
 
 Stand  
-Geändert durch Art. 2 G v. 28.7.2011 I 1622
+Zuletzt geändert durch Art. 2 V v. 15.7.2013 I 2514
 
 ### 
 
@@ -67,45 +67,45 @@ Abschnitt 1
 Zielsetzung, Anwendungsbereich
 und Begriffsbestimmungen
 
-|       |                                   |
-|-------|-----------------------------------|
-| §   1 | Zielsetzung und Anwendungsbereich |
-| §   2 | Begriffsbestimmungen              |
+|      |                                   |
+|------|-----------------------------------|
+| §  1 | Zielsetzung und Anwendungsbereich |
+| §  2 | Begriffsbestimmungen              |
 
 Abschnitt 2
 
 Gefahrstoffinformation
 
-|       |                                                          |
-|-------|----------------------------------------------------------|
-| §   3 | Gefährlichkeitsmerkmale                                  |
-| §   4 | Einstufung, Kennzeichnung und Verpackung                 |
-| §   5 | Sicherheitsdatenblatt und sonstige Informationspflichten |
+|      |                                                          |
+|------|----------------------------------------------------------|
+| §  3 | Gefährlichkeitsmerkmale                                  |
+| §  4 | Einstufung, Kennzeichnung und Verpackung                 |
+| §  5 | Sicherheitsdatenblatt und sonstige Informationspflichten |
 
 Abschnitt 3
 
 Gefährdungsbeurteilung
 und Grundpflichten
 
-|       |                                                   |
-|-------|---------------------------------------------------|
-| §   6 | Informationsermittlung und Gefährdungsbeurteilung |
-| §   7 | Grundpflichten                                    |
+|      |                                                   |
+|------|---------------------------------------------------|
+| §  6 | Informationsermittlung und Gefährdungsbeurteilung |
+| §  7 | Grundpflichten                                    |
 
 Abschnitt 4
 
 Schutzmaßnahmen
 
-|       |                                                                                                                                 |
-|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| §   8 | Allgemeine Schutzmaßnahmen                                                                                                      |
-| §   9 | Zusätzliche Schutzmaßnahmen                                                                                                     |
-| § 10  | Besondere Schutzmaßnahmen bei Tätigkeiten mit krebserzeugenden, erbgutverändernden und fruchtbarkeitsgefährdenden Gefahrstoffen |
-| § 11  | Besondere Schutzmaßnahmen gegen physikalisch-chemische Einwirkungen, insbesondere gegen Brand- und Explosionsgefährdungen       |
-| § 12  | Tätigkeiten mit explosionsgefährlichen Stoffen und organischen Peroxiden                                                        |
-| § 13  | Betriebsstörungen, Unfälle und Notfälle                                                                                         |
-| § 14  | Unterrichtung und Unterweisung der Beschäftigten                                                                                |
-| § 15  | Zusammenarbeit verschiedener Firmen                                                                                             |
+|      |                                                                                                                                 |
+|------|---------------------------------------------------------------------------------------------------------------------------------|
+| §  8 | Allgemeine Schutzmaßnahmen                                                                                                      |
+| §  9 | Zusätzliche Schutzmaßnahmen                                                                                                     |
+| § 10 | Besondere Schutzmaßnahmen bei Tätigkeiten mit krebserzeugenden, erbgutverändernden und fruchtbarkeitsgefährdenden Gefahrstoffen |
+| § 11 | Besondere Schutzmaßnahmen gegen physikalisch-chemische Einwirkungen, insbesondere gegen Brand- und Explosionsgefährdungen       |
+| § 12 | (weggefallen)                                                                                                                   |
+| § 13 | Betriebsstörungen, Unfälle und Notfälle                                                                                         |
+| § 14 | Unterrichtung und Unterweisung der Beschäftigten                                                                                |
+| § 15 | Zusammenarbeit verschiedener Firmen                                                                                             |
 
 Abschnitt 5
 
@@ -135,7 +135,7 @@ Ordnungswidrigkeiten und Straftaten
 |------|-----------------------------------------------------------------|
 | § 21 | Chemikaliengesetz – Anzeigen                                    |
 | § 22 | Chemikaliengesetz – Tätigkeiten                                 |
-| § 23 | Chemikaliengesetz – EG-Rechtsakte                               |
+| § 23 | (weggefallen)                                                   |
 | § 24 | Chemikaliengesetz – Herstellungs- und Verwendungsbeschränkungen |
 
 Anhang I
@@ -167,6 +167,26 @@ Stoffe, Zubereitungen und Erzeugnisse
 | Nummer 4 | Kühlschmierstoffe und Korrosionsschutzmittel               |
 | Nummer 5 | Biopersistente Fasern                                      |
 | Nummer 6 | Besonders gefährliche krebserzeugende Stoffe               |
+
+<table>
+<colgroup>
+<col width="100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Anhang III<br />
+(zu § 11 Absatz 4)
+Spezielle Anforderungen<br />
+an Tätigkeiten mit organischen Peroxiden</td>
+</tr>
+<tr class="even">
+<td>Nummer 1</td>
+</tr>
+<tr class="odd">
+<td>Nummer 2</td>
+</tr>
+</tbody>
+</table>
 
 Abschnitt 1 Zielsetzung, Anwendungsbereich und Begriffsbestimmungen
 -------------------------------------------------------------------
@@ -208,7 +228,7 @@ Biozid-Wirkstoffen im Sinne des § 3b Absatz 1 Nummer 2 des Chemikaliengesetzes,
 
 Abschnitt 2 gilt nicht für Lebensmittel oder Futtermittel in Form von Fertigerzeugnissen, die für den Endverbrauch bestimmt sind.
 
-(3) Die Abschnitte 3 bis 6 gelten für Tätigkeiten, bei denen Beschäftigte Gefährdungen ihrer Gesundheit und Sicherheit durch Stoffe, Zubereitungen oder Erzeugnisse ausgesetzt sein können. Sie gelten auch, wenn als unmittelbare Folge solcher Tätigkeiten die Gesundheit und Sicherheit anderer Personen gefährdet sein können. Die Sätze 1 und 2 finden auch Anwendung auf Tätigkeiten, die im Zusammenhang mit der Beförderung von Stoffen, Zubereitungen und Erzeugnissen ausgeübt werden. Die Vorschriften des Gefahrgutbeförderungsgesetzes und der darauf gestützten Rechtsverordnungen bleiben unberührt.
+(3) Die Abschnitte 3 bis 6 gelten für Tätigkeiten, bei denen Beschäftigte Gefährdungen ihrer Gesundheit und Sicherheit durch Stoffe, Zubereitungen oder Erzeugnisse ausgesetzt sein können. Sie gelten auch, wenn die Sicherheit und Gesundheit anderer Personen aufgrund von Tätigkeiten im Sinne von § 2 Absatz 4 gefährdet sein können, die durch Beschäftigte oder Unternehmer ohne Beschäftigte ausgeübt werden. Die Sätze 1 und 2 finden auch Anwendung auf Tätigkeiten, die im Zusammenhang mit der Beförderung von Stoffen, Zubereitungen und Erzeugnissen ausgeübt werden. Die Vorschriften des Gefahrgutbeförderungsgesetzes und der darauf gestützten Rechtsverordnungen bleiben unberührt.
 
 (4) Sofern nicht ausdrücklich etwas anderes bestimmt ist, gilt diese Verordnung nicht für
 
@@ -260,11 +280,13 @@ in Tabelle 3.2 des Anhangs VI Teil 3 der Verordnung (EG) Nr. 1272/2008 des Europ
 2.  
 in Anhang II Teil B der Richtlinie 1999/45/EG, wenn der Stoff oder die Stoffe nicht oder ohne Konzentrationsgrenzen in Anhang VI Teil 3 Tabelle 3.2 der Verordnung (EG) Nr. 1272/2008 aufgeführt sind.
 
-(4) Eine Tätigkeit ist jede Arbeit mit Stoffen, Zubereitungen oder Erzeugnissen, einschließlich Herstellung, Mischung, Ge- und Verbrauch, Lagerung, Aufbewahrung, Be- und Verarbeitung, Ab- und Umfüllung, Entfernung, Entsorgung und Vernichtung. Zu den Tätigkeiten zählen auch das innerbetriebliche Befördern sowie Bedien- und Überwachungsarbeiten.
+(4) Organische Peroxide im Sinne des § 11 Absatz 4 und des Anhangs III sind Stoffe, die sich vom Wasserstoffperoxid dadurch ableiten, dass ein oder beide Wasserstoffatome durch organische Gruppen ersetzt sind, sowie Zubereitungen, die diese Stoffe enthalten.
 
-(5) Lagern ist das Aufbewahren zur späteren Verwendung sowie zur Abgabe an andere. Es schließt die Bereitstellung zur Beförderung ein, wenn die Beförderung nicht innerhalb von 24 Stunden nach der Bereitstellung oder am darauffolgenden Werktag erfolgt. Ist dieser Werktag ein Samstag, so endet die Frist mit Ablauf des nächsten Werktags.
+(5) Eine Tätigkeit ist jede Arbeit mit Stoffen, Zubereitungen oder Erzeugnissen, einschließlich Herstellung, Mischung, Ge- und Verbrauch, Lagerung, Aufbewahrung, Be- und Verarbeitung, Ab- und Umfüllung, Entfernung, Entsorgung und Vernichtung. Zu den Tätigkeiten zählen auch das innerbetriebliche Befördern sowie Bedien- und Überwachungsarbeiten.
 
-(6) Es stehen gleich
+(6) Lagern ist das Aufbewahren zur späteren Verwendung sowie zur Abgabe an andere. Es schließt die Bereitstellung zur Beförderung ein, wenn die Beförderung nicht innerhalb von 24 Stunden nach der Bereitstellung oder am darauffolgenden Werktag erfolgt. Ist dieser Werktag ein Samstag, so endet die Frist mit Ablauf des nächsten Werktags.
+
+(7) Es stehen gleich
 
 1.  
 den Beschäftigten die in Heimarbeit beschäftigten Personen sowie Schülerinnen und Schüler, Studierende und sonstige, insbesondere an wissenschaftlichen Einrichtungen tätige Personen, die Tätigkeiten mit Gefahrstoffen ausüben; für Schülerinnen und Schüler und Studierende gelten jedoch nicht die Regelungen dieser Verordnung über die Beteiligung der Personalvertretungen,
@@ -272,11 +294,11 @@ den Beschäftigten die in Heimarbeit beschäftigten Personen sowie Schülerinnen
 2.  
 dem Arbeitgeber der Unternehmer ohne Beschäftigte sowie der Auftraggeber und der Zwischenmeister im Sinne des Heimarbeitsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 804-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 225 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist.
 
-(7) Der Arbeitsplatzgrenzwert ist der Grenzwert für die zeitlich gewichtete durchschnittliche Konzentration eines Stoffs in der Luft am Arbeitsplatz in Bezug auf einen gegebenen Referenzzeitraum. Er gibt an, bis zu welcher Konzentration eines Stoffs akute oder chronische schädliche Auswirkungen auf die Gesundheit von Beschäftigten im Allgemeinen nicht zu erwarten sind.
+(8) Der Arbeitsplatzgrenzwert ist der Grenzwert für die zeitlich gewichtete durchschnittliche Konzentration eines Stoffs in der Luft am Arbeitsplatz in Bezug auf einen gegebenen Referenzzeitraum. Er gibt an, bis zu welcher Konzentration eines Stoffs akute oder chronische schädliche Auswirkungen auf die Gesundheit von Beschäftigten im Allgemeinen nicht zu erwarten sind.
 
-(8) Der biologische Grenzwert ist der Grenzwert für die toxikologisch-arbeitsmedizinisch abgeleitete Konzentration eines Stoffs, seines Metaboliten oder eines Beanspruchungsindikators im entsprechenden biologischen Material. Er gibt an, bis zu welcher Konzentration die Gesundheit von Beschäftigten im Allgemeinen nicht beeinträchtigt wird.
+(9) Der biologische Grenzwert ist der Grenzwert für die toxikologisch-arbeitsmedizinisch abgeleitete Konzentration eines Stoffs, seines Metaboliten oder eines Beanspruchungsindikators im entsprechenden biologischen Material. Er gibt an, bis zu welcher Konzentration die Gesundheit von Beschäftigten im Allgemeinen nicht beeinträchtigt wird.
 
-(9) Explosionsfähig sind Stoffe, Zubereitungen und Erzeugnisse,
+(10) Explosionsfähig sind Stoffe, Zubereitungen und Erzeugnisse,
 
 1.  
 wenn sie mit oder ohne Luft durch Zündquellen wie äußere thermische Einwirkungen, mechanische Beanspruchungen oder Detonationsstöße zu einer chemischen Reaktion gebracht werden können, bei der hochgespannte Gase in so kurzer Zeit entstehen, dass ein sprunghafter Temperatur- und Druckanstieg hervorgerufen wird, oder
@@ -284,13 +306,13 @@ wenn sie mit oder ohne Luft durch Zündquellen wie äußere thermische Einwirkun
 2.  
 wenn im Gemisch mit Luft nach Wirksamwerden einer Zündquelle eine sich selbsttätig fortpflanzende Flammenausbreitung stattfindet, die im Allgemeinen mit einem sprunghaften Temperatur- und Druckanstieg verbunden ist.
 
-(10) Ein explosionsfähiges Gemisch ist ein Gemisch aus brennbaren Gasen, Dämpfen, Nebeln oder Stäuben, in dem sich der Verbrennungsvorgang nach erfolgter Zündung auf das gesamte unverbrannte Gemisch überträgt. Ein gefährliches explosionsfähiges Gemisch ist ein explosionsfähiges Gemisch, das in solcher Menge auftritt, dass besondere Schutzmaßnahmen für die Aufrechterhaltung der Gesundheit und Sicherheit der Beschäftigten oder anderer Personen erforderlich werden (gefahrdrohende Menge). Explosionsfähige Atmosphäre ist ein explosionsfähiges Gemisch unter atmosphärischen Bedingungen im Gemisch mit Luft.
+(11) Ein explosionsfähiges Gemisch ist ein Gemisch aus brennbaren Gasen, Dämpfen, Nebeln oder Stäuben, in dem sich der Verbrennungsvorgang nach erfolgter Zündung auf das gesamte unverbrannte Gemisch überträgt. Ein gefährliches explosionsfähiges Gemisch ist ein explosionsfähiges Gemisch, das in solcher Menge auftritt, dass besondere Schutzmaßnahmen für die Aufrechterhaltung der Gesundheit und Sicherheit der Beschäftigten oder anderer Personen erforderlich werden (gefahrdrohende Menge). Explosionsfähige Atmosphäre ist ein explosionsfähiges Gemisch unter atmosphärischen Bedingungen im Gemisch mit Luft.
 
-(11) Der Stand der Technik ist der Entwicklungsstand fortschrittlicher Verfahren, Einrichtungen oder Betriebsweisen, der die praktische Eignung einer Maßnahme zum Schutz der Gesundheit und zur Sicherheit der Beschäftigten gesichert erscheinen lässt. Bei der Bestimmung des Stands der Technik sind insbesondere vergleichbare Verfahren, Einrichtungen oder Betriebsweisen heranzuziehen, die mit Erfolg in der Praxis erprobt worden sind. Gleiches gilt für die Anforderungen an die Arbeitsmedizin und die Arbeitsplatzhygiene.
+(12) Der Stand der Technik ist der Entwicklungsstand fortschrittlicher Verfahren, Einrichtungen oder Betriebsweisen, der die praktische Eignung einer Maßnahme zum Schutz der Gesundheit und zur Sicherheit der Beschäftigten gesichert erscheinen lässt. Bei der Bestimmung des Stands der Technik sind insbesondere vergleichbare Verfahren, Einrichtungen oder Betriebsweisen heranzuziehen, die mit Erfolg in der Praxis erprobt worden sind. Gleiches gilt für die Anforderungen an die Arbeitsmedizin und die Arbeitsplatzhygiene.
 
-(12) Fachkundig ist, wer zur Ausübung einer in dieser Verordnung bestimmten Aufgabe befähigt ist. Die Anforderungen an die Fachkunde sind abhängig von der jeweiligen Art der Aufgabe. Zu den Anforderungen zählen eine entsprechende Berufsausbildung, Berufserfahrung oder eine zeitnah ausgeübte entsprechende berufliche Tätigkeit sowie die Teilnahme an spezifischen Fortbildungsmaßnahmen.
+(13) Fachkundig ist, wer zur Ausübung einer in dieser Verordnung bestimmten Aufgabe befähigt ist. Die Anforderungen an die Fachkunde sind abhängig von der jeweiligen Art der Aufgabe. Zu den Anforderungen zählen eine entsprechende Berufsausbildung, Berufserfahrung oder eine zeitnah ausgeübte entsprechende berufliche Tätigkeit sowie die Teilnahme an spezifischen Fortbildungsmaßnahmen.
 
-(13) Sachkundig ist, wer seine bestehende Fachkunde durch Teilnahme an einem behördlich anerkannten Sachkundelehrgang erweitert hat. In Abhängigkeit vom Aufgabengebiet kann es zum Erwerb der Sachkunde auch erforderlich sein, den Lehrgang mit einer erfolgreichen Prüfung abzuschließen. Sachkundig ist ferner, wer über eine von der zuständigen Behörde als gleichwertig anerkannte oder in dieser Verordnung als gleichwertig bestimmte Qualifikation verfügt.
+(14) Sachkundig ist, wer seine bestehende Fachkunde durch Teilnahme an einem behördlich anerkannten Sachkundelehrgang erweitert hat. In Abhängigkeit vom Aufgabengebiet kann es zum Erwerb der Sachkunde auch erforderlich sein, den Lehrgang mit einer erfolgreichen Prüfung abzuschließen. Sachkundig ist ferner, wer über eine von der zuständigen Behörde als gleichwertig anerkannte oder in dieser Verordnung als gleichwertig bestimmte Qualifikation verfügt.
 
 Abschnitt 2 Gefahrstoffinformation
 ----------------------------------
@@ -376,7 +398,7 @@ umweltgefährlich, wenn sie selbst oder ihre Umwandlungsprodukte geeignet sind, 
 
 (2) Sofern nach Artikel 61 der Verordnung (EG) Nr. 1272/2008 die Einstufung, Kennzeichnung oder Verpackung von Stoffen und Zubereitungen nach der Richtlinie 67/548/EWG oder der Richtlinie 1999/45/EG erfolgt, sind unbeschadet des § 19 Absatz 3 die Bestimmungen dieser Richtlinien sowie die Absätze 3 bis 6 und § 5 Absatz 3 anzuwenden.
 
-(3) Bei der Einstufung von Stoffen und Zubereitungen sind die nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse zu beachten.
+(3) Bei der Einstufung von Stoffen und Zubereitungen sind die nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse zu berücksichtigen.
 
 (4) Die Kennzeichnung von Stoffen und Zubereitungen, die in Deutschland in Verkehr gebracht werden, muss in deutscher Sprache erfolgen.
 
@@ -478,7 +500,13 @@ das Ergebnis der Prüfung auf Möglichkeiten einer Substitution nach Absatz 1 Sa
 eine Begründung für einen Verzicht auf eine technisch mögliche Substitution, sofern Schutzmaßnahmen nach § 9 oder § 10 zu ergreifen sind,
 
 4.  
-die durchzuführenden Schutzmaßnahmen, einschließlich der zusätzlich bei Überschreitung eines Arbeitsplatzgrenzwerts ergriffenen Schutzmaßnahmen sowie geplanter weiterer Schutzmaßnahmen, die zukünftig zur Einhaltung des Arbeitsplatzgrenzwerts ergriffen werden sollen,
+die durchzuführenden Schutzmaßnahmen einschließlich derer,
+
+a)  
+die wegen der Überschreitung eines Arbeitsplatzgrenzwerts zusätzlich ergriffen wurden sowie der geplanten Schutzmaßnahmen, die zukünftig ergriffen werden sollen, um den Arbeitsplatzgrenzwert einzuhalten, oder
+
+b)  
+die unter Berücksichtigung eines Beurteilungsmaßstabs für krebserzeugende Gefahrstoffe, der nach § 20 Absatz 4 bekannt gegeben worden ist, zusätzlich getroffen worden sind oder zukünftig getroffen werden sollen (Maßnahmenplan),
 
 5.  
 eine Begründung, wenn von den nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnissen abgewichen wird, und
@@ -528,7 +556,7 @@ insgesamt eine nur geringe Gefährdung der Beschäftigten und reichen die nach �
 
 (1) Der Arbeitgeber darf eine Tätigkeit mit Gefahrstoffen erst aufnehmen lassen, nachdem eine Gefährdungsbeurteilung nach § 6 durchgeführt und die erforderlichen Schutzmaßnahmen nach Abschnitt 4 ergriffen worden sind.
 
-(2) Um die Gesundheit und die Sicherheit der Beschäftigten bei allen Tätigkeiten mit Gefahrstoffen zu gewährleisten, hat der Arbeitgeber die erforderlichen Maßnahmen nach dem Arbeitsschutzgesetz und zusätzlich die nach dieser Verordnung erforderlichen Maßnahmen zu ergreifen. Dabei hat er die nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse zu beachten. Bei Einhaltung dieser Regeln und Erkenntnisse ist in der Regel davon auszugehen, dass die Anforderungen dieser Verordnung erfüllt sind. Von diesen Regeln und Erkenntnissen kann abgewichen werden, wenn durch andere Maßnahmen zumindest in vergleichbarer Weise der Schutz der Gesundheit und die Sicherheit der Beschäftigten gewährleistet werden.
+(2) Um die Gesundheit und die Sicherheit der Beschäftigten bei allen Tätigkeiten mit Gefahrstoffen zu gewährleisten, hat der Arbeitgeber die erforderlichen Maßnahmen nach dem Arbeitsschutzgesetz und zusätzlich die nach dieser Verordnung erforderlichen Maßnahmen zu ergreifen. Dabei hat er die nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse zu berücksichtigen. Bei Einhaltung dieser Regeln und Erkenntnisse ist in der Regel davon auszugehen, dass die Anforderungen dieser Verordnung erfüllt sind. Von diesen Regeln und Erkenntnissen kann abgewichen werden, wenn durch andere Maßnahmen zumindest in vergleichbarer Weise der Schutz der Gesundheit und die Sicherheit der Beschäftigten gewährleistet werden.
 
 (3) Der Arbeitgeber hat auf der Grundlage des Ergebnisses der Substitutionsprüfung nach § 6 Absatz 1 Satz 2 Nummer 4 vorrangig eine Substitution durchzuführen. Er hat Gefahrstoffe oder Verfahren durch Stoffe, Zubereitungen oder Erzeugnisse oder Verfahren zu ersetzen, die unter den jeweiligen Verwendungsbedingungen für die Gesundheit und Sicherheit der Beschäftigten nicht oder weniger gefährlich sind.
 
@@ -564,7 +592,7 @@ schadhafte persönliche Schutzausrüstung vor erneutem Gebrauch ausgebessert ode
 
 (10) Wer Arbeitsplatzmessungen von Gefahrstoffen durchführt, muss fachkundig sein und über die erforderlichen Einrichtungen verfügen. Wenn ein Arbeitgeber eine für Messungen von Gefahrstoffen an Arbeitsplätzen akkreditierte Messstelle beauftragt, kann der Arbeitgeber in der Regel davon ausgehen, dass die von dieser Messstelle gewonnenen Erkenntnisse zutreffend sind.
 
-(11) Der Arbeitgeber hat bei allen Ermittlungen und Messungen die nach § 20 Absatz 4 bekannt gegebenen Verfahren, Messregeln und Grenzwerte zu beachten, bei denen die entsprechenden Bestimmungen der folgenden Richtlinien berücksichtigt worden sind:
+(11) Der Arbeitgeber hat bei allen Ermittlungen und Messungen die nach § 20 Absatz 4 bekannt gegebenen Verfahren, Messregeln und Grenzwerte zu berücksichtigen, bei denen die entsprechenden Bestimmungen der folgenden Richtlinien berücksichtigt worden sind:
 
 1.  
 der Richtlinie 98/24/EG des Rates vom 7. April 1998 zum Schutz von Gesundheit und Sicherheit der Arbeitnehmer vor der Gefährdung durch chemische Arbeitsstoffe bei der Arbeit (ABl. L 131 vom 5.5.1998, S. 11), die durch die Richtlinie 2007/30/EG (ABl. L 165 vom 27.6.2007, S. 21) geändert worden ist, und insbesondere der Richtlinien nach Artikel 3 Absatz 2 dieser Richtlinie zu Arbeitsplatzgrenzwerten,
@@ -665,7 +693,7 @@ Ist die Anwendung eines geschlossenen Systems technisch nicht möglich, so hat d
 
 ### § 10 Besondere Schutzmaßnahmen bei Tätigkeiten mit krebserzeugenden, erbgutverändernden und fruchtbarkeitsgefährdenden Gefahrstoffen
 
-(1) Bei Tätigkeiten mit krebserzeugenden, erbgutverändernden und fruchtbarkeitsgefährdenden Gefahrstoffen der Kategorie 1 oder 2 hat der Arbeitgeber, unbeschadet des Absatzes 2, zusätzlich die Bestimmungen nach den Absätzen 3 bis 5 zu erfüllen. Die besonderen Bestimmungen des Anhangs II Nummer 6 sind zu beachten.
+(1) Bei Tätigkeiten mit krebserzeugenden Gefahrstoffen der Kategorie 1 oder 2, für die kein Arbeitsplatzgrenzwert nach § 20 Absatz 4 bekannt gegeben worden ist, hat der Arbeitgeber ein geeignetes, risikobezogenes Maßnahmenkonzept anzuwenden, um das Minimierungsgebot nach § 7 Absatz 4 umzusetzen. Hierbei sind die nach § 20 Absatz 4 bekannt gegebenen Regeln, Erkenntnisse und Beurteilungsmaßstäbe zu berücksichtigen. Bei Tätigkeiten mit krebserzeugenden, erbgutverändernden und fruchtbarkeitsgefährdenden Gefahrstoffen der Kategorie 1 oder 2 hat der Arbeitgeber, unbeschadet des Absatzes 2, zusätzlich die Bestimmungen nach den Absätzen 3 bis 5 zu erfüllen. Die besonderen Bestimmungen des Anhangs II Nummer 6 sind zu beachten.
 
 (2) Die Absätze 3 bis 5 gelten nicht, wenn
 
@@ -704,9 +732,17 @@ schädliche Auswirkungen von Bränden oder Explosionen auf die Gesundheit und Si
 
 (3) Über die Bestimmungen der Absätze 1 und 2 hinaus hat der Arbeitgeber Anhang I Nummer 1 zu beachten.
 
-### § 12 Tätigkeiten mit explosionsgefährlichen Stoffen und organischen Peroxiden
+(4) Bei Tätigkeiten mit organischen Peroxiden hat der Arbeitgeber über die Bestimmungen der Absätze 1 und 2 sowie des Anhangs I Nummer 1 hinaus insbesondere Maßnahmen zu treffen, die die
 
-Bei Tätigkeiten mit explosionsgefährlichen Stoffen oder organischen Peroxiden hat der Arbeitgeber auf der Grundlage der Gefährdungsbeurteilung nach § 6 zum Schutz der Beschäftigten, anderer Personen und von Sachgütern zusätzlich besondere Maßnahmen zu ergreifen, insbesondere verfahrenstechnische, organisatorische und bauliche Schutzmaßnahmen, einschließlich einzuhaltender Abstände. Die Vorschriften des Sprengstoffgesetzes und der darauf gestützten Rechtsvorschriften bleiben unberührt.
+1.  
+Gefahr einer unbeabsichtigten Explosion minimieren und
+
+2.  
+Auswirkungen von Bränden und Explosionen beschränken.
+
+Dabei hat der Arbeitgeber Anhang III zu beachten.
+
+### § 12 (weggefallen)
 
 ### § 13 Betriebsstörungen, Unfälle und Notfälle
 
@@ -797,6 +833,8 @@ alle Beschäftigten Zugang zu den sie persönlich betreffenden Angaben in dem Ve
 
 7.  
 die Beschäftigten und ihre Vertretung Zugang zu den nicht personenbezogenen Informationen allgemeiner Art in dem Verzeichnis haben.
+
+(4) Der Arbeitgeber kann mit Einwilligung des betroffenen Beschäftigten die Aufbewahrungs- einschließlich der Aushändigungspflicht nach Absatz 3 Nummer 4 auf den zuständigen gesetzlichen Unfallversicherungsträger übertragen. Dafür übergibt der Arbeitgeber dem Unfallversicherungsträger die erforderlichen Unterlagen in einer für die elektronische Datenverarbeitung geeigneten Form. Der Unfallversicherungsträger händigt der betroffenen Person auf Anforderung einen Auszug des Verzeichnisses mit den sie betreffenden Angaben aus.
 
 ### § 15 Zusammenarbeit verschiedener Firmen
 
@@ -908,7 +946,7 @@ durchgeführte Substitutionen.
 
 ### § 19 Behördliche Ausnahmen, Anordnungen und Befugnisse
 
-(1) Die zuständige Behörde kann auf schriftlichen Antrag des Arbeitgebers Ausnahmen von den §§ 6 bis 15 zulassen, wenn die Anwendung dieser Vorschriften im Einzelfall zu einer unverhältnismäßigen Härte führen würde und die Abweichung mit dem Schutz der Beschäftigten vereinbar ist. Der Arbeitgeber hat der zuständigen Behörde im Antrag darzulegen:
+(1) Die zuständige Behörde kann auf schriftlichen oder elektronischen Antrag des Arbeitgebers Ausnahmen von den §§ 6 bis 15 zulassen, wenn die Anwendung dieser Vorschriften im Einzelfall zu einer unverhältnismäßigen Härte führen würde und die Abweichung mit dem Schutz der Beschäftigten vereinbar ist. Der Arbeitgeber hat der zuständigen Behörde im Antrag darzulegen:
 
 1.  
 den Grund für die Beantragung der Ausnahme,
@@ -958,26 +996,32 @@ Bei Gefahr im Verzug können die Anordnungen auch gegenüber weisungsberechtigte
 (3) Zu den Aufgaben des Ausschusses gehört es:
 
 1.  
-dem Stand der Technik, Arbeitsmedizin und Arbeitshygiene entsprechende Regeln aufzustellen und zu sonstigen gesicherten Erkenntnissen für Tätigkeiten mit Gefahrstoffen, einschließlich deren Einstufung und Kennzeichnung, zu gelangen,
+den Stand der Wissenschaft, Technik, Arbeitsmedizin und Arbeitshygiene sowie sonstige gesicherte Erkenntnisse für Tätigkeiten mit Gefahrstoffen einschließlich deren Einstufung und Kennzeichnung zu ermitteln und entsprechende Empfehlungen auszusprechen,
 
 2.  
-Regeln aufzustellen und zu Erkenntnissen zu gelangen, wie die in dieser Verordnung gestellten Anforderungen erfüllt werden können,
+zu ermitteln, wie die in dieser Verordnung gestellten Anforderungen erfüllt werden können und dazu die dem jeweiligen Stand von Technik und Medizin entsprechenden Regeln und Erkenntnisse zu erarbeiten,
 
 3.  
-das Bundesministerium für Arbeit und Soziales in allen Fragen zu Gefahrstoffen zu beraten und
+das Bundesministerium für Arbeit und Soziales in allen Fragen zu Gefahrstoffen und zur Chemikaliensicherheit zu beraten und
 
 4.  
 Arbeitsplatzgrenzwerte, biologische Grenzwerte und andere Beurteilungsmaßstäbe für Gefahrstoffe vorzuschlagen und regelmäßig zu überprüfen, wobei Folgendes zu berücksichtigen ist:
 
 a)  
-bei der Festlegung der Grenzwerte ist sicherzustellen, dass der Schutz der Gesundheit der Beschäftigten gewahrt ist,
+bei der Festlegung der Grenzwerte und Beurteilungsmaßstäbe ist sicherzustellen, dass der Schutz der Gesundheit der Beschäftigten gewahrt ist,
 
 b)  
 für jeden Stoff, für den ein Arbeitsplatzgrenzwert oder ein biologischer Grenzwert in Rechtsakten der Europäischen Union festgelegt worden ist, ist unter Berücksichtigung dieses Grenzwerts ein nationaler Grenzwert vorzuschlagen.
 
-Das Arbeitsprogramm des Ausschusses für Gefahrstoffe wird mit dem Bundesministerium für Arbeit und Soziales abgestimmt, wobei die Letztentscheidungsbefugnis beim Bundesministerium für Arbeit und Soziales liegt.
+Das Arbeitsprogramm des Ausschusses für Gefahrstoffe wird mit dem Bundesministerium für Arbeit und Soziales abgestimmt, wobei die Letztentscheidungsbefugnis beim Bundesministerium für Arbeit und Soziales liegt. Der Ausschuss arbeitet eng mit den anderen Ausschüssen beim Bundesministerium für Arbeit und Soziales zusammen.
 
-(4) Das Bundesministerium für Arbeit und Soziales kann die vom Ausschuss für Gefahrstoffe nach Absatz 3 aufgestellten Regeln und gewonnenen Erkenntnisse im Gemeinsamen Ministerialblatt bekannt geben.
+(4) Nach Prüfung kann das Bundesministerium für Arbeit und Soziales
+
+1.  
+die vom Ausschuss für Gefahrstoffe ermittelten Regeln und Erkenntnisse nach Absatz 3 Satz 1 Nummer 2 sowie die Arbeitsplatzgrenzwerte und Beurteilungsmaßstäbe nach Absatz 3 Satz 1 Nummer 4 im Gemeinsamen Ministerialblatt bekannt geben und
+
+2.  
+die Empfehlungen nach Absatz 3 Satz 1 Nummer 1 sowie die Beratungsergebnisse nach Absatz 3 Satz 1 Nummer 3 in geeigneter Weise veröffentlichen.
 
 (5) Die Bundesministerien sowie die obersten Landesbehörden können zu den Sitzungen des Ausschusses Vertreterinnen oder Vertreter entsenden. Auf Verlangen ist diesen in der Sitzung das Wort zu erteilen.
 
@@ -1089,6 +1133,15 @@ entgegen § 11 Absatz 3 in Verbindung mit Anhang I Nummer 1.4 Absatz 2 Satz 1 da
 19.  
 entgegen § 11 Absatz 3 in Verbindung mit Anhang I Nummer 1.4 Absatz 3 oder Nummer 1.5 Absatz 4 einen dort genannten Bereich nicht oder nicht richtig kennzeichnet,
 
+19a.  
+entgegen § 11 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.3 Absatz 1 Satz 1 eine Tätigkeit mit einem organischen Peroxid ausüben lässt,
+
+19b.  
+entgegen § 11 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.6 Satz 2 Buchstabe a nicht sicherstellt, dass ein dort genanntes Gebäude oder ein dort genannter Raum in Sicherheitsbauweise errichtet wird,
+
+19c.  
+entgegen § 11 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.7 einen dort genannten Bereich nicht oder nicht rechtzeitig festlegt,
+
 20.  
 entgegen § 13 Absatz 2 Satz 1 eine dort genannte Maßnahme nicht oder nicht rechtzeitig ergreift,
 
@@ -1118,33 +1171,19 @@ entgegen § 14 Absatz 3 Nummer 4 nicht sicherstellt, dass ein aktualisiertes Ver
 
 (2) Wer durch eine in Absatz 1 bezeichnete Handlung das Leben oder die Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert gefährdet, ist nach § 27 Absatz 2 bis 4 des Chemikaliengesetzes strafbar.
 
-### § 23 Chemikaliengesetz – EG-Rechtsakte
-
-Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 11 Satz 1 des Chemikaliengesetzes handelt, wer gegen die Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Chemikalienagentur, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission (ABl. L 396 vom 30.12.2006, S. 1, L 136 vom 29.5.2007, S. 3, L 141 vom 31.5.2008, S. 22, L 36 vom 5.2.2009, S. 84), die zuletzt durch die Verordnung (EG) Nr. 453/2010 (ABl. L 133 vom 31.5.2010, S. 1) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
-
-1.  
-entgegen deren Artikel 31 Absatz 1 oder Absatz 3, jeweils in Verbindung mit Absatz 5, 6 oder Absatz 8, ein Sicherheitsdatenblatt nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung stellt,
-
-2.  
-entgegen deren Artikel 31 Absatz 2 Satz 1 nicht dafür sorgt, dass die Informationen im Sicherheitsdatenblatt mit den Angaben in der Stoffsicherheitsbeurteilung übereinstimmen,
-
-3.  
-entgegen deren Artikel 31 Absatz 7 ein Expositionsszenario zu einer identifizierten Verwendung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig beifügt, nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig einbezieht oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig weitergibt,
-
-4.  
-entgegen deren Artikel 31 Absatz 9 das Sicherheitsdatenblatt nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig aktualisiert oder den früheren Abnehmern nicht oder nicht rechtzeitig zur Verfügung stellt oder
-
-5.  
-entgegen deren Artikel 32 eine dort genannte Information nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung stellt oder nicht, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig aktualisiert.
+### § 23 (weggefallen)
 
 ### § 24 Chemikaliengesetz – Herstellungs- und Verwendungsbeschränkungen
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 7 Buchstabe a des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  
-entgegen § 16 Absatz 3 Satz 2 in Verbindung mit Satz 3 Nummer 1, auch in Verbindung mit Satz 4, ein Biozid-Produkt für einen nicht in der Kennzeichnung ausgewiesenen Verwendungszweck einsetzt oder
+entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 6 Absatz 1 einen dort aufgeführten Stoff verwendet,
 
 2.  
+entgegen § 16 Absatz 3 Satz 2 in Verbindung mit Satz 3 Nummer 1, auch in Verbindung mit Satz 4, ein Biozid-Produkt für einen nicht in der Kennzeichnung ausgewiesenen Verwendungszweck einsetzt oder
+
+3.  
 entgegen § 16 Absatz 3 Satz 2 in Verbindung mit Satz 3 Nummer 2, auch in Verbindung mit Satz 4, eine sich aus der Kennzeichnung oder der Zulassung ergebende Verwendungsbedingung nicht einhält.
 
 (2) Nach § 27 Absatz 1 Nummer 1, Absatz 2 bis 4 des Chemikaliengesetzes wird bestraft, wer vorsätzlich oder fahrlässig
@@ -1177,17 +1216,15 @@ entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 2 Absatz 1 die dort a
 entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 3 Absatz 1 die dort aufgeführten Erzeugnisse verwendet,
 
 10.  
-entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 4 Absatz 1, Absatz 3 Satz 1 oder Absatz 4 die dort aufgeführten Kühlschmierstoffe oder Korrosionsschutzmittel verwendet,
+entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 4 Absatz 1, Absatz 3 Satz 1 oder Absatz 4 die dort aufgeführten Kühlschmierstoffe oder Korrosionsschutzmittel verwendet oder
 
 11.  
-entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 5 Absatz 1 die dort aufgeführten Stoffe, Zubereitungen oder Erzeugnisse herstellt oder verwendet oder
-
-12.  
-entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 6 Absatz 1 die dort aufgeführten Stoffe außerhalb geschlossener Anlagen herstellt oder verwendet.
+entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 5 Absatz 1 die dort aufgeführten Stoffe, Zubereitungen oder Erzeugnisse herstellt oder verwendet.
 
 ### Anhang I (zu § 8 Absatz 8, § 11 Absatz 3)Besondere Vorschriften für bestimmte Gefahrstoffe und Tätigkeiten
 
-(Fundstelle: BGBl. I 2010, 1660 - 1673)
+(Fundstelle: BGBl. I 2010, 1660 - 1673;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Inhaltsübersicht**
 
@@ -1397,9 +1434,9 @@ Beginn und Dauer der Tätigkeiten,
 6.  
 Maßnahmen zur Begrenzung der Asbestfreisetzung und zur Begrenzung der Asbestexposition der Beschäftigten.
 
-(3) Abbruch-, Sanierungs- und Instandhaltungsarbeiten mit Asbest dürfen nur von Fachbetrieben durchgeführt werden, deren personelle und sicherheitstechnische Ausstattung für diese Tätigkeiten geeignet ist. Bei den Arbeiten ist dafür zu sorgen, dass mindestens eine weisungsbefugte sachkundige Person vor Ort tätig ist. Die Sachkunde wird durch die erfolgreiche Teilnahme an einem von der zuständigen Behörde anerkannten Sachkundelehrgang nachgewiesen.
+(3) Abbruch-, Sanierungs- und Instandhaltungsarbeiten mit Asbest dürfen nur von Fachbetrieben durchgeführt werden, deren personelle und sicherheitstechnische Ausstattung für diese Tätigkeiten geeignet ist. Bei den Arbeiten ist dafür zu sorgen, dass mindestens eine weisungsbefugte sachkundige Person vor Ort tätig ist. Die Sachkunde wird durch die erfolgreiche Teilnahme an einem von der zuständigen Behörde anerkannten Sachkundelehrgang nachgewiesen. Sachkundenachweise gelten für den Zeitraum von sechs Jahren. Abweichend von Satz 4 behalten Sachkundenachweise, die vor dem 1. Juli 2010 erworben wurden, bis zum 30. Juni 2016 ihre Gültigkeit. Wird während der Geltungsdauer des Sachkundenachweises ein behördlich anerkannter Fortbildungslehrgang besucht, verlängert sich die Geltungsdauer um sechs Jahre, gerechnet ab dem Datum des Nachweises über den Abschluss des Fortbildungslehrgangs.
 
-(4) Abbruch- und Sanierungsarbeiten bei Vorhandensein von Asbest in schwach gebundener Form dürfen nur von Fachbetrieben durchgeführt werden, die von der zuständigen Behörde zur Ausführung dieser Tätigkeiten zugelassen worden sind. Die Zulassung ist auf schriftlichen Antrag des Arbeitgebers zu erteilen, wenn dieser nachgewiesen hat, dass die für diese Tätigkeiten notwendige personelle und sicherheitstechnische Ausstattung im notwendigen Umfang gegeben ist.
+(4) Abbruch- und Sanierungsarbeiten bei Vorhandensein von Asbest in schwach gebundener Form dürfen nur von Fachbetrieben durchgeführt werden, die von der zuständigen Behörde zur Ausführung dieser Tätigkeiten zugelassen worden sind. Die Zulassung ist auf schriftlichen oder elektronischen Antrag des Arbeitgebers zu erteilen, wenn dieser nachgewiesen hat, dass die für diese Tätigkeiten notwendige personelle und sicherheitstechnische Ausstattung im notwendigen Umfang gegeben ist.
 
 2.4.3  
 Ergänzende Schutzmaßnahmen bei Tätigkeiten mit Asbestexposition
@@ -1944,10 +1981,10 @@ Besondere Bestimmungen
 
 A I
 
-≥ 90
+90
 
-Chloridgehalt ≤ 0,02 %
-Inerte Stoffe ≤ 10 %
+Chloridgehalt 0,02 %
+Inerte Stoffe 10 %
 
 Keine weiteren Ammoniumsalze sind erlaubt.
 
@@ -1974,7 +2011,7 @@ Kaliumsalze, Phosphate in NP-, NK- oder NPK- Düngern, Sulfate in N-Düngern; in
 
 B I
 
-≤ 70
+70
 
 Kaliumsalze, Phosphate, inerte Stoffe und andere Ammoniumsalze in NK- oder NPK-Düngern
 
@@ -1982,31 +2019,31 @@ Bei einem Massenanteil von mehr als 45 % Ammoniumnitrat darf der Massenanteil vo
 
 B II
 
-≤ 45
+45
 
 Überschüssige Nitrate
-≤ 10 %
+10 %
 
 Unbeschränkter Gehalt an verbrennlichen Bestandteilen; über den Gehalt an Ammoniumnitrat hinausgehende überschüssige Nitrate werden als Kaliumnitrat berechnet.
 
 C I
 
-≤ 80
+80
 
 Kalkstein, Dolomit oder
-Calciumcarbonat ≥ 20 %
+Calciumcarbonat 20 %
 
 Kalkstein, Dolomit oder Calciumcarbonat mit minimaler Reinheit von 90 %.
 
 C II
 
-≤ 70
+70
 
 Inerte Stoffe
 
 C III
 
-≤ 45
+45
 
 Phosphate und andere Ammoniumsalze in NP-Düngern
 
@@ -2018,7 +2055,7 @@ Der Massenanteil an Ammoniumnitrat und anderen Ammoniumsalzen darf zusammen 70 %
 
 C IV
 
-≤ 45
+45
 
 Ammoniumsulfat
 
@@ -2026,7 +2063,7 @@ Inerte Stoffe sind erlaubt.
 
 D I
 
-≤ 45
+45
 
 Harnstoff, Wasser
 
@@ -2034,15 +2071,15 @@ In wässriger Lösung.
 
 D II
 
-≤ 45
+45
 
-Überschüssige Nitrate ≤ 10 %, Kaliumsalze, Phosphate und andere Ammoniumsalze in NP-, NK- oder NPK-Düngern; Wasser
+Überschüssige Nitrate 10 %, Kaliumsalze, Phosphate und andere Ammoniumsalze in NP-, NK- oder NPK-Düngern; Wasser
 
 In wässriger Lösung oder Suspension. Überschüssige Nitrate werden als Kaliumnitrat berechnet. Der Grenzgehalt aus Spalte 2 darf sowohl in der flüssigen als auch bei Suspensionen in der festen Phase nicht überschritten werden.
 
 D III
 
-≤ 70
+70
 
 Ammoniak, Wasser
 
@@ -2050,7 +2087,7 @@ In wässriger Lösung.
 
 D IV
 
-&gt; 70 bis ≤ 93
+&gt; 70 bis 93
 
 Wasser
 
@@ -2058,10 +2095,10 @@ In wässriger Lösung.
 
 E
 
-&gt; 60 bis ≤ 85
+&gt; 60 bis 85
 
-≥ 5 % bis ≤ 30 % Wasser,
-≥ 2 % bis ≤ 8 % verbrennliche Bestandteile, ≥ 0,5 % bis ≤ 4 % Emulgator
+5 % bis 30 % Wasser,
+2 % bis 8 % verbrennliche Bestandteile, 0,5 % bis 4 % Emulgator
 
 Anorganische Salze; Zusätze.
 
@@ -2247,7 +2284,8 @@ Nummer im Register des Chemical Abstracts Service (CAS).
 
 ### Anhang II (zu § 16 Absatz 2)Besondere Herstellungs- und Verwendungsbeschränkungen für bestimmte Stoffe, Zubereitungen und Erzeugnisse
 
-(Fundstelle: BGBl. I 2010, 1674 - 1676)
+(Fundstelle: BGBl. I 2010, 1674 - 1676;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Inhaltsübersicht**
 
@@ -2270,7 +2308,10 @@ Nummer 1
 Abbrucharbeiten,
 
 2.  
-Sanierungs- und Instandhaltungsarbeiten mit Ausnahme von Arbeiten, die zu einem Abtrag der Oberfläche von Asbestprodukten führen, es sei denn, es handelt sich um emissionsarme Verfahren, die behördlich oder von den Trägern der gesetzlichen Unfallversicherung anerkannt sind. Zu den Verfahren, die zum verbotenen Abtrag von asbesthaltigen Oberflächen führen, zählen insbesondere Abschleifen, Druckreinigen, Abbürsten und Bohren.
+Sanierungs- und Instandhaltungsarbeiten mit Ausnahme von Arbeiten, die zu einem Abtrag der Oberfläche von Asbestprodukten führen, es sei denn, es handelt sich um emissionsarme Verfahren, die behördlich oder von den Trägern der gesetzlichen Unfallversicherung anerkannt sind. Zu den Verfahren, die zum verbotenen Abtrag von asbesthaltigen Oberflächen führen, zählen insbesondere Abschleifen, Druckreinigen, Abbürsten und Bohren,
+
+3.  
+Tätigkeiten mit messtechnischer Begleitung, die zu einem Abtrag der Oberfläche von Asbestprodukten führen und die notwendigerweise durchgeführt werden müssen, um eine Anerkennung als emissionsarmes Verfahren zu erhalten.
 
 Zu den nach Satz 1 verbotenen Arbeiten zählen auch Überdeckungs-, Überbauungs- und Aufständerungsarbeiten an Asbestzementdächern und -wandverkleidungen sowie Reinigungs- und Beschichtungsarbeiten an unbeschichteten Asbestzementdächern und -wandverkleidungen. Die weitere Verwendung von bei Arbeiten anfallenden asbesthaltigen Gegenständen und Materialien zu anderen Zwecken als der Abfallbeseitigung oder Abfallverwertung ist verboten.
 
@@ -2366,7 +2407,7 @@ Nummer 6
 
 **Besonders gefährliche krebserzeugende Stoffe**
 
-(1) Die folgenden Gefahrstoffe dürfen nur in geschlossenen Anlagen hergestellt oder verwendet werden:
+(1) Die folgenden besonders gefährlichen krebserzeugenden Stoffe dürfen nur in geschlossenen Anlagen hergestellt oder verwendet werden:
 
 1.  
 6-Amino-2-ethoxynaphthalin,
@@ -2401,4 +2442,187 @@ Tetranitromethan,
 11.  
 Dimethyl- und Diethylsulfat.
 
-(2) Die Herstellungs- und Verwendungsbeschränkung gilt nicht für Forschungs- und Analysezwecke sowie für wissenschaftliche Lehrzwecke in den dafür erforderlichen Mengen.
+Die Herstellungs- und Verwendungsbeschränkung nach Satz 1 gilt auch für o-Toluidin.
+
+(2) Die Herstellungs- und Verwendungsbeschränkung nach Absatz 1 gilt nicht für Forschungs- und Analysezwecke sowie für wissenschaftliche Lehrzwecke in den dafür erforderlichen Mengen.
+
+### Anhang III (zu § 11 Absatz 4)Spezielle Anforderungen an Tätigkeiten mit organischen Peroxiden
+
+(Fundstelle: BGBl. I 2013, 2531 - 2534;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+**Inhaltsübersicht**
+
+|          |                                            |
+|----------|--------------------------------------------|
+| Nummer 1 | Anwendungsbereich und Begriffsbestimmungen |
+| Nummer 2 | Tätigkeiten mit organischen Peroxiden      |
+
+**Nummer 1**
+
+**Anwendungsbereich und Begriffsbestimmungen**
+
+(1) Der Anhang III legt nur Anforderungen fest zum Schutz von Beschäftigten und Personen nach § 1 Absatz 3 Satz 2 (andere Personen) vor
+
+a)  
+Brand- und Explosionsgefährdungen sowie
+
+b)  
+den Auswirkungen von Bränden oder Explosionen.
+
+Gesundheitsschädigende Wirkungen, die bei Tätigkeiten mit organischen Peroxiden auftreten können, werden von Anhang III nicht erfasst.
+
+(2) Folgende Begriffsbestimmungen gelten für Anhang III:
+
+a)  
+Gefahrgruppe ist eine Einteilung von organischen Peroxiden in Abhängigkeit von ihrem Abbrandverhalten im verpackten Zustand,
+
+b)  
+Gefährliche Objekte sind Betriebsgebäude, Räume oder Plätze in oder auf denen Tätigkeiten mit organischen Peroxiden durchgeführt werden,
+
+c)  
+Schutzabstände sind die zwischen gefährlichen Objekten und der Nachbarschaft, insbesondere Wohnbereichen und Verkehrswegen, einzuhaltenden Abstände,
+
+d)  
+Sicherheitsabstände sind die innerhalb eines Betriebsgeländes einzuhaltenden Abstände,
+
+e)  
+Verkehrswege sind Straßen, Schienen- und Schifffahrtswege, die uneingeschränkt dem öffentlichen Verkehr zugänglich sind, ausgenommen solche mit geringer Verkehrsdichte,
+
+f)  
+Wohnbereich ist ein Bereich, in dem sich bewohnte Gebäude befinden und der nicht mit dem Betrieb in Zusammenhang steht; zu den bewohnten Gebäuden zählen auch Gebäude und Anlagen mit Räumen, die nicht nur zum vorübergehenden Aufenthalt von Personen bestimmt und geeignet sind.
+
+**Nummer 2**
+
+**Tätigkeiten mit organischen Peroxiden**
+
+2.1 Anwendungsbereich
+
+(1) Nummer 2 gilt für Tätigkeiten mit organischen Peroxiden.
+
+(2) Nummer 2 gilt nicht für
+
+a)  
+Tätigkeiten mit organischen Peroxiden in Form von Zubereitungen, wenn
+
+aa)  
+die Zubereitung nicht mehr als 1,0 Prozent Aktivsauerstoff aus den organischen Peroxiden bei höchstens 1,0 Prozent Wasserstoffperoxid enthält oder
+
+bb)  
+die Zubereitung nicht mehr als 0,5 Prozent Aktivsauerstoff aus den organischen Peroxiden bei mehr als 1,0 Prozent, jedoch höchstens 7,0 Prozent Wasserstoffperoxid enthält,
+
+b)  
+Tätigkeiten mit organischen Peroxiden in Kleinpackungen mit einem Inhalt von bis zu 100 Gramm festem oder bis zu 25 Milliliter flüssigem organischen Peroxid, sofern
+
+aa)  
+die organischen Peroxide nicht dem Sprengstoffgesetz unterfallen,
+
+bb)  
+die Kleinpackungen handelsfertig in Verkehr gebracht worden sind und die im Betrieb vorhandene Gesamtmasse der organischen Peroxide in den Kleinpackungen einen Inhalt von insgesamt 100 Kilogramm nicht übersteigt,
+
+c)  
+das Aufbewahren explosionsgefährlicher organischer Peroxide, sofern diese den Bestimmungen der Zweiten Verordnung zum Sprengstoffgesetz in der Fassung der Bekanntmachung vom 10. September 2002 (BGBl. I S. 3543), die zuletzt durch Artikel 2 der Verordnung vom 26. November 2010 (BGBl. I S. 1643) geändert worden ist, unterliegen.
+
+2.2 Begriffsbestimmungen
+
+Folgende Begriffsbestimmungen gelten für Nummer 2:
+
+a)  
+Aktivsauerstoff ist der für Oxidationsreaktionen verfügbare abspaltbare Sauerstoff der Peroxidgruppe (pro Peroxogruppe jeweils ein Sauerstoffatom),
+
+b)  
+der korrigierte Stoffdurchsatz Ak (angegeben in Kilogramm/Minute) charakterisiert das Abbrandverhalten eines organischen Peroxids in seiner Verpackung bezogen auf eine Menge von 10 000 Kilogramm. Darin sind das Maß der Vollständigkeit und Gleichmäßigkeit des Abbrandes sowie das Wärmestrahlungsvermögen der Flammen berücksichtigt.
+
+2.3 Zuordnung organischer Peroxide zu Gefahrgruppen
+
+(1) Der Arbeitgeber darf eine Tätigkeit mit einem organischen Peroxid nur ausüben lassen, wenn die Bundesanstalt für Materialforschung und -prüfung für dieses organische Peroxid eine Gefahrgruppe nach Absatz 2 bekannt gegeben hat. Hat die Bundesanstalt für Materialforschung und -prüfung für explosionsgefährliche organische Peroxide die Lagergruppenzuordnung I, II oder III nach der Zweiten Verordnung zum Sprengstoffgesetz in der Fassung der Bekanntmachung vom 10. September 2002 (BGBl. I S. 3543), die zuletzt durch Artikel 2 der Verordnung vom 26. November 2010 (BGBl. I S. 1643) geändert worden ist, bekannt gegeben, gilt für diese organischen Peroxide entsprechend die Gefahrgruppe OP I, OP II oder OP III als bekannt gegeben. Satz 1 findet keine Anwendung auf organische Peroxide in Form von Zubereitungen, die organische Peroxide mit einem Massengehalt unter 10 Prozent und Wasserstoffperoxid mit einem Massengehalt unter 5 Prozent enthalten.
+
+(2) Für die Einteilung in Gefahrgruppen gelten folgende Kriterien:
+
+a)  
+Gefahrgruppe OP I: organische Peroxide dieser Gruppe brennen sehr heftig unter starker Wärmeentwicklung ab; der Brand breitet sich rasch aus; Packungen organischer Peroxide können auch vereinzelt mit geringer Druckwirkung explodieren; dabei kann sich der gesamte Inhalt einer Packung umsetzen; einzelne brennende Packungen können fortgeschleudert werden; die Gefährdung der Umgebung durch Wurfstücke ist gering; Gebäude in der Umgebung sind im Allgemeinen durch Druckwirkung nicht gefährdet; diese Gefahrgruppe wird in die Untergruppen Ia und Ib unterteilt; die Gefahrgruppe OP Ia umfasst die organischen Peroxide mit einem korrigierten Stoffdurchsatz Ak größer oder gleich 300 Kilogramm/Minute; die Gefahrgruppe OP Ib umfasst die organischen Peroxide mit einem korrigierten Stoffdurchsatz Ak größer oder gleich 140 Kilogramm/Minute, jedoch kleiner 300 Kilogramm/Minute,
+
+b)  
+Gefahrgruppe OP II: organische Peroxide dieser Gruppe brennen heftig unter starker Wärmeentwicklung ab; der Brand breitet sich rasch aus; die Packungen organischer Peroxide können auch vereinzelt mit geringer Druckwirkung explodieren; dabei setzt sich jedoch nicht der gesamte Inhalt einer Packung um; die Umgebung ist hauptsächlich durch Flammen und Wärmestrahlung gefährdet; Bauten in der Umgebung sind durch Druckwirkung nicht gefährdet; die Gefahrgruppe OP II umfasst die organischen Peroxide mit einem korrigierten Stoffdurchsatz Ak größer oder gleich 60 Kilogramm/Minute, jedoch kleiner 140 Kilogramm/Minute,
+
+c)  
+Gefahrgruppe OP III: organische Peroxide dieser Gruppe brennen ab, wobei die Auswirkungen des Brandes denen brennbarer Stoffe vergleichbar sind; die Gefahrgruppe OP III umfasst die organischen Peroxide mit einem korrigierten Stoffdurchsatz Ak kleiner 60 Kilogramm/Minute,
+
+d)  
+Gefahrgruppe OP IV: organische Peroxide dieser Gruppe sind schwer entzündbar und brennen so langsam ab, dass die Umgebung durch Flammen und Wärmestrahlung praktisch nicht gefährdet ist; die Angabe eines korrigierten Stoffdurchsatzes Ak ist für diese Gefahrgruppe nicht möglich.
+
+(3) Liegt für ein organisches Peroxid keine Gefahrgruppenzuordnung vor, hat der Arbeitgeber eine solche bei der Bundesanstalt für Materialforschung und -prüfung schriftlich oder elektronisch zu beantragen. Dem Antrag sind die erforderlichen Unterlagen beizufügen. Die Bundesanstalt für Materialforschung und -prüfung gibt die Gefahrgruppenzuordnung bekannt.
+
+(4) Abweichend von Absatz 3 kann der Arbeitgeber auch von einer anderen geeigneten Stelle prüfen lassen, welche Gefahrgruppenzuordnung vorzunehmen ist. In diesem Fall hat der Arbeitgeber das Prüfergebnis mit den erforderlichen Unterlagen der Bundesanstalt für Materialforschung und -prüfung vorzulegen. Die Bundesanstalt für Materialforschung und -prüfung gibt die Gefahrgruppenzuordnung bekannt, wenn diese als zutreffend bewertet worden ist.
+
+(5) Bis zur Bekanntgabe der Gefahrgruppenzuordnung durch die Bundesanstalt für Materialforschung und -prüfung müssen organische Peroxide mit einer Peroxidkonzentration
+
+a)  
+größer oder gleich 57 Prozent wie organische Peroxide der Gefahrgruppe OP Ib,
+
+b)  
+größer oder gleich 32 Prozent, aber kleiner 57 Prozent wie organische Peroxide der Gefahrgruppe OP II,
+
+c)  
+größer oder gleich 10 Prozent, aber kleiner 32 Prozent wie organische Peroxide der Gefahrgruppe OP III
+
+behandelt werden.
+
+(6) Nicht brennbare organische Peroxide mit einer Peroxidkonzentration größer oder gleich 10 Prozent können wie organische Peroxide der Gefahrgruppe OP IV behandelt werden, wenn hierzu die Zustimmung der zuständigen Behörde vorliegt. Die vorläufige Gefahrgruppenzuordnung darf nicht länger als zwei Jahre genutzt werden.
+
+2.4 Informationsermittlung und Gefährdungsbeurteilung
+
+(1) Bei Tätigkeiten mit einem organischen Peroxid hat der Arbeitgeber im Rahmen der Gefährdungsbeurteilung nach § 6 fachkundig zu ermitteln, ob die von der Bundesanstalt für Materialforschung un -prüfung bekannt gegebene Gefahrgruppenzuordnung des organischen Peroxids für die Tätigkeiten anwendbar ist. Stimmen die Kriterien der Zuordnung mit den Bedingungen der Tätigkeiten überein, hat er die aus der Gefahrgruppenzuordnung resultierenden Schutzmaßnahmen zu ergreifen. Stellt der Arbeitgeber fest, dass die bekannt gegebene Gefahrgruppenzuordnung für einzelne Tätigkeiten nicht übernommen werden kann, legt er fachkundig für die betreffenden Tätigkeiten eine abweichende Gefahrgruppe fest. Ist der Arbeitgeber selbst nicht fachkundig, hat er sich fachkundig beraten zu lassen.
+
+(2) Stellt der Arbeitgeber im Rahmen der Gefährdungsbeurteilung nach § 6 fest, dass bei der Herstellung, Be- oder Verarbeitung organischer Peroxide Gemische auftreten können, die detonationsfähig sind oder zur schnellen Deflagration oder heftigen Wärmeexplosion neigen, hat der Arbeitgeber ein Gutachten der Bundesanstalt für Materialforschung und -prüfung einzuholen, das insbesondere auf die zu treffenden Schutzmaßnahmen eingeht. Dies gilt auch, wenn Tätigkeiten mit organischen Peroxiden in ortsfesten Freianlagen, einschließlich der Lagerung in Tanks oder Silos, ausgeübt werden sollen.
+
+2.5 Schutz- und Sicherheitsabstände
+
+(1) Der Arbeitgeber hat für Gebäude und Freianlagen, in oder auf denen Tätigkeiten mit organischen Peroxiden durchgeführt werden, ausreichende Schutzabstände zu Wohnbereichen und öffentlichen Verkehrswegen sowie Sicherheitsabstände zu innerbetrieblichen Gebäuden oder Anlagen festzulegen. Zu Gebäuden, in denen nur Tätigkeiten mit organischen Peroxiden der Gefahrgruppe OP IV durchgeführt werden, sind keine Schutz- und Sicherheitsabstände einzuhalten.
+
+(2) Die Schutz- und Sicherheitsabstände sind in Abhängigkeit von der Gefahrgruppe und der Menge der vorhandenen organischen Peroxide sowie der Lage, Anordnung und Bauart der Gebäude und Anlagen festzulegen.
+
+(3) Beim Aufbewahren von organischen Peroxiden der Gefahrgruppe OP Ia bis zu einer Nettomasse von 100 Kilogramm und der Gefahrgruppen OP Ib, OP II und OP III bis zu einer Nettomasse von 200 Kilogramm sind keine Schutz- und Sicherheitsabstände einzuhalten. Es muss jedoch sichergestellt sein, dass eine nicht bestimmungsgemäße Umsetzung organischer Peroxide nicht nach außen oder nur in ungefährliche Richtung wirken kann.
+
+2.6 Bauliche Anforderungen
+
+Der Arbeitgeber hat Gebäude, in denen Tätigkeiten mit organischen Peroxiden durchgeführt werden, so zu errichten, dass eine Gefährdung der Beschäftigten und anderer Personen bei Betriebsstörungen oder Unfällen auf ein Minimum reduziert wird. Kann durch eine eintretende Zersetzung eine Gefährdung auftreten, hat er sicherzustellen, dass insbesondere Gebäude und Räume zum Herstellen, Bearbeiten, Verarbeiten, Abfüllen oder Vernichten organischer Peroxide
+
+a)  
+in Sicherheitsbauweise errichtet werden,
+
+b)  
+über ausreichend widerstandsfähige Decken und Wände verfügen und
+
+c)  
+über ausreichend bemessene Druckentlastungsflächen in Wänden oder Decken verfügen, die im Explosionsfall einen schnellen Druckabbau ermöglichen; diese müssen aus leichten Baustoffen bestehen und ihre Widerstandsfähigkeit muss deutlich niedriger sein als die anderer Bauteile.
+
+2.7 Zündquellen
+
+Der Arbeitgeber hat die Bereiche, in denen Zündquellen vermieden werden müssen, im Rahmen der Gefährdungsbeurteilung festzulegen und hierfür die erforderlichen Schutzmaßnahmen, einschließlich der Kennzeichnung dieser Bereiche, zu ergreifen.
+
+2.8 Innerbetrieblicher Transport
+
+Zum innerbetrieblichen Transport eines organischen Peroxids dürfen nur Kraftfahrzeuge oder Flurförderzeuge eingesetzt werden, die keine Zündquelle für das organische Peroxid darstellen.
+
+2.9 Anforderungen an das Aufbewahren organischer Peroxide
+
+(1) Organische Peroxide, die dem Sprengstoffgesetz unterfallen, sind aufzubewahren nach Maßgabe der Vorschriften der Zweiten Verordnung zum Sprengstoffgesetz in der Fassung der Bekanntmachung vom 10. September 2002 (BGBl. I S. 3543), die zuletzt durch Artikel 2 der Verordnung vom 26. November 2010 (BGBl. I S. 1643) geändert worden ist. Für das Aufbewahren organischer Peroxide, die nicht dem Sprengstoffgesetz unterfallen, gelten die Absätze 2 bis 5.
+
+(2) Lagergebäude für organische Peroxide der Gefahrgruppen OP I bis OP III müssen in eingeschossiger Bauweise errichtet sein. Abweichend von Satz 1 darf ein Lagergebäude auch mehrgeschossig sein, wenn die Gefährdungsbeurteilung ergibt, dass die Gefährdung der Beschäftigten und anderer Personen durch die mehrgeschossige Bauweise nicht erhöht wird.
+
+(3) Lagerräume für organische Peroxide der Gefahrgruppen OP I bis OP III müssen mit Druckentlastungsflächen versehen sein.
+
+(4) Lagerräume müssen so errichtet und ausgerüstet sein, dass die höchstzulässige Aufbewahrungstemperatur für organische Peroxide nicht überschritten wird.
+
+(5) Der Arbeitgeber hat dafür zu sorgen, dass organische Peroxide mit anderen Stoffen, Zubereitungen oder Erzeugnissen nur zusammen gelagert oder gemeinsam abgestellt werden, wenn hierdurch keine wesentliche Erhöhung der Gefährdung eintreten kann.
+
+2.10 Anforderungen an Betriebsanlagen und -einrichtungen
+
+(1) Betriebsanlagen und -einrichtungen müssen so beschaffen und ausgerüstet sein, dass auch bei Betriebsstörungen oder Unfällen die Sicherheit aufrechterhalten und ein unkontrollierter Austritt von organischen Peroxiden vermieden wird. Sie müssen vollständig und gefahrlos entleert werden können.
+
+(2) Betriebsanlagen müssen so errichtet sein, dass durch sie keine gefährlichen Reaktionen der organischen Peroxide ausgelöst werden. Sie sind mit Kontroll- und Regeleinrichtungen für den sicheren Betrieb auszurüsten.
+
+(3) Gefährliche Einschlüsse organischer Peroxide müssen vermieden werden.
+
+(4) Art und Anzahl der Feuerlöscheinrichtungen müssen für die besonderen Eigenschaften der organischen Peroxide ausgelegt sein.
