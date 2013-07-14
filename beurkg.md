@@ -2,7 +2,7 @@ Beurkundungsgesetz ()
 =====================
 
 Stand  
-Zuletzt geändert durch Art. 2 G v. 22.12.2010 I 2255
+Zuletzt geändert durch Art. 1 G v. 15.7.2013 I 2378
 
 ### 
 
@@ -231,7 +231,7 @@ Bei der Beurkundung von Versteigerungen gelten nur solche Bieter als beteiligt, 
 die rechtsgeschäftlichen Erklärungen des Verbrauchers von diesem persönlich oder durch eine Vertrauensperson vor dem Notar abgegeben werden und
 
 2.  
-der Verbraucher ausreichend Gelegenheit erhält, sich vorab mit dem Gegenstand der Beurkundung auseinander zu setzen; bei Verbraucherverträgen, die der Beurkundungspflicht nach § 311b Abs. 1 Satz 1 und Abs. 3 des Bürgerlichen Gesetzbuchs unterliegen, geschieht dies im Regelfall dadurch, dass dem Verbraucher der beabsichtigte Text des Rechtsgeschäfts zwei Wochen vor der Beurkundung zur Verfügung gestellt wird.
+der Verbraucher ausreichend Gelegenheit erhält, sich vorab mit dem Gegenstand der Beurkundung auseinanderzusetzen; bei Verbraucherverträgen, die der Beurkundungspflicht nach § 311b Absatz 1 Satz 1 und Absatz 3 des Bürgerlichen Gesetzbuchs unterliegen, soll dem Verbraucher der beabsichtigte Text des Rechtsgeschäfts vom beurkundenden Notar oder einem Notar, mit dem sich der beurkundende Notar zur gemeinsamen Berufsausübung verbunden hat, zur Verfügung gestellt werden. Dies soll im Regelfall zwei Wochen vor der Beurkundung erfolgen. Wird diese Frist unterschritten, sollen die Gründe hierfür in der Niederschrift angegeben werden.
 
 Weitere Amtspflichten des Notars bleiben unberührt.
 
