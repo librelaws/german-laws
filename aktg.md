@@ -2,13 +2,17 @@ Aktiengesetz ()
 ===============
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 49 G v. 22.12.2011 I 3044
+Zuletzt geändert durch Art. 26 G v. 23.7.2013 I 2586
 
 ### 
 
 ```
 (+++ Textnachweis ab: 1.1.1986 +++)
-(+++ Zur Anwendung d. § 93 vgl. § 24 AktGEG +++) 
+(+++ Zur Anwendung d. § 93 vgl. § 24 G v. 6.9.1965 I 1185 +++) 
+(+++ Zur Anwendung d. §§ 247 u. 260 vgl. § 72 GNotKG +++)
+(+++ Zur Anwendung d. § 139 Abs. 2 vgl. § 109 Abs. 3 Satz 3 KAGB +++)
+(+++ Zur Anwendung d. § 23 Abs. 5, §§ 150 bis 158, § 278 u. §§ 278 bis 290
+     vgl. § 140 Abs. 2 KAGB +++)
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
      Umsetzung der
        EGRL 58/2003    (CELEX Nr: 303L0058) vgl. V v. 10.11.2006 I 2553 
@@ -310,6 +314,8 @@ die Zahl der Mitglieder des Vorstands oder die Regeln, nach denen diese Zahl fes
 (4) Die Satzung muß ferner Bestimmungen über die Form der Bekanntmachungen der Gesellschaft enthalten.
 
 (5) Die Satzung kann von den Vorschriften dieses Gesetzes nur abweichen, wenn es ausdrücklich zugelassen ist. Ergänzende Bestimmungen der Satzung sind zulässig, es sei denn, daß dieses Gesetz eine abschließende Regelung enthält.
+
+(+++ § 23 Abs. 5: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
 ### § 24 Umwandlung von Aktien
 
@@ -759,7 +765,7 @@ Für wiederkehrende Leistungen, zu denen Aktionäre nach der Satzung neben den E
 
 ### § 67 Eintragung im Aktienregister
 
-(1) Namensaktien sind unter Angabe des Namens, Geburtsdatums und der Adresse des Inhabers sowie der Stückzahl oder der Aktiennummer und bei Nennbetragsaktien des Betrags in das Aktienregister der Gesellschaft einzutragen. Der Inhaber ist verpflichtet, der Gesellschaft die Angaben nach Satz 1 mitzuteilen. Die Satzung kann Näheres dazu bestimmen, unter welchen Voraussetzungen Eintragungen im eigenen Namen für Aktien, die einem anderen gehören, zulässig sind. Aktien, die zu einem in- oder ausländischen Investmentvermögen nach dem Investmentgesetz gehören, dessen Anteile nicht ausschließlich von Anlegern, die nicht natürliche Personen sind, gehalten werden, gelten als Aktien des in- oder ausländischen Investmentvermögens, auch wenn sie im Miteigentum der Anleger stehen; verfügt das Investmentvermögen über keine eigene Rechtspersönlichkeit, gelten sie als Aktien der Verwaltungsgesellschaft des Investmentvermögens.
+(1) Namensaktien sind unter Angabe des Namens, Geburtsdatums und der Adresse des Inhabers sowie der Stückzahl oder der Aktiennummer und bei Nennbetragsaktien des Betrags in das Aktienregister der Gesellschaft einzutragen. Der Inhaber ist verpflichtet, der Gesellschaft die Angaben nach Satz 1 mitzuteilen. Die Satzung kann Näheres dazu bestimmen, unter welchen Voraussetzungen Eintragungen im eigenen Namen für Aktien, die einem anderen gehören, zulässig sind. Aktien, die zu einem inländischen, EU- oder ausländischen Investmentvermögen nach dem Kapitalanlagegesetzbuch gehören, dessen Anteile oder Aktien nicht ausschließlich von professionellen und semiprofessionellen Anlegern gehalten werden, gelten als Aktien des inländischen, EU- oder ausländischen Investmentvermögens, auch wenn sie im Miteigentum der Anleger stehen; verfügt das Investmentvermögen über keine eigene Rechtspersönlichkeit, gelten sie als Aktien der Verwaltungsgesellschaft des Investmentvermögens.
 
 (2) Im Verhältnis zur Gesellschaft gilt als Aktionär nur, wer als solcher im Aktienregister eingetragen ist. Jedoch bestehen Stimmrechte aus Eintragungen nicht, die eine nach Absatz 1 Satz 3 bestimmte satzungsmäßige Höchstgrenze überschreiten oder hinsichtlich derer eine satzungsmäßige Pflicht zur Offenlegung, dass die Aktien einem anderen gehören, nicht erfüllt wird. Ferner bestehen Stimmrechte aus Aktien nicht, solange ein Auskunftsverlangen gemäß Absatz 4 Satz 2 oder Satz 3 nach Fristablauf nicht erfüllt ist.
 
@@ -1221,7 +1227,7 @@ Ist die Anwendung des Mitbestimmungsgesetzes oder die Anwendung von Vorschriften
 
 (5) Die Entscheidung wird erst mit der Rechtskraft wirksam. Sie wirkt für und gegen alle. Der Vorstand hat die rechtskräftige Entscheidung unverzüglich zum Handelsregister einzureichen.
 
-(6) Für die Kosten des Verfahrens gilt die Kostenordnung. Für das Verfahren des ersten Rechtszugs wird das Vierfache der vollen Gebühr erhoben. Für das Verfahren über ein Rechtsmittel wird die gleiche Gebühr erhoben; dies gilt auch dann, wenn das Rechtsmittel Erfolg hat. Wird der Antrag oder das Rechtsmittel zurückgenommen, bevor es zu einer Entscheidung kommt, so ermäßigt sich die Gebühr auf die Hälfte. Der Geschäftswert ist von Amts wegen festzusetzen. Er bestimmt sich nach § 30 Abs. 2 der Kostenordnung mit der Maßgabe, daß der Wert regelmäßig auf 50 000 Euro anzunehmen ist. Schuldner der Kosten ist die Gesellschaft. Die Kosten können jedoch ganz oder zum Teil dem Antragsteller auferlegt werden, wenn dies der Billigkeit entspricht. Kosten der Beteiligten werden nicht erstattet.
+(6) Die Kosten können ganz oder zum Teil dem Antragsteller auferlegt werden, wenn dies der Billigkeit entspricht. Kosten der Beteiligten werden nicht erstattet.
 
 ### § 100 Persönliche Voraussetzungen für Aufsichtsratsmitglieder
 
@@ -1767,7 +1773,7 @@ Aus anderen Gründen darf die Auskunft nicht verweigert werden.
 
 (4) Wird dem Antrag stattgegeben, so ist die Auskunft auch außerhalb der Hauptversammlung zu geben. Aus der Entscheidung findet die Zwangsvollstreckung nach den Vorschriften der Zivilprozeßordnung statt.
 
-(5) Für die Kosten des Verfahrens gilt die Kostenordnung. Für das Verfahren des ersten Rechtszugs wird das Doppelte der vollen Gebühr erhoben. Für das Verfahren über ein Rechtsmittel wird die gleiche Gebühr erhoben; dies gilt auch dann, wenn das Rechtsmittel Erfolg hat. Wird der Antrag oder das Rechtsmittel zurückgenommen, bevor es zu einer Entscheidung oder einer vom Gericht vermittelten Einigung kommt, so ermäßigt sich die Gebühr auf die Hälfte. Der Geschäftswert ist von Amts wegen festzusetzen. Er bestimmt sich nach § 30 Abs. 2 der Kostenordnung mit der Maßgabe, daß der Wert regelmäßig auf 5 000 Euro anzunehmen ist. Das mit dem Verfahren befaßte Gericht bestimmt nach billigem Ermessen, welchem Beteiligten die Kosten des Verfahrens aufzuerlegen sind.
+(5) Das mit dem Verfahren befaßte Gericht bestimmt nach billigem Ermessen, welchem Beteiligten die Kosten des Verfahrens aufzuerlegen sind.
 
 Vierter Unterabschnitt Stimmrecht
 ---------------------------------
@@ -1849,6 +1855,8 @@ Sechster Unterabschnitt Vorzugsaktien ohne Stimmrecht
 (1) Für Aktien, die mit einem nachzuzahlenden Vorzug bei der Verteilung des Gewinns ausgestattet sind, kann das Stimmrecht ausgeschlossen werden (Vorzugsaktien ohne Stimmrecht).
 
 (2) Vorzugsaktien ohne Stimmrecht dürfen nur bis zur Hälfte des Grundkapitals ausgegeben werden.
+
+(+++ § 139 Abs. 2: Zur Anwendung vgl. § 109 Abs. 3 Satz 3 KAGB +++)
 
 ### § 140 Rechte der Vorzugsaktionäre
 
@@ -2008,13 +2016,15 @@ zur Kapitalerhöhung aus Gesellschaftsmitteln nach den §§ 207 bis 220.
 
 Die Verwendung nach den Nummern 1 und 2 ist nicht zulässig, wenn gleichzeitig Gewinnrücklagen zur Gewinnausschüttung aufgelöst werden.
 
-### § 150a
+(+++ § 150: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
--
+### § 150a (weggefallen)
 
-### § 151
+(+++ § 150a: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
--
+### § 151 (weggefallen)
+
+(+++ § 151: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
 ### § 152 Vorschriften zur Bilanz
 
@@ -2039,7 +2049,13 @@ die Beträge, die aus dem Jahresüberschuß des Geschäftsjahrs eingestellt werd
 3.  
 die Beträge, die für das Geschäftsjahr entnommen werden.
 
-### (XXXX) §§ 43 und 44
+(4) Die Absätze 1 bis 3 sind nicht anzuwenden auf Aktiengesellschaften, die Kleinstkapitalgesellschaften im Sinne des § 267a des Handelsgesetzbuchs sind, wenn sie von der Erleichterung nach § 266 Absatz 1 Satz 4 des Handelsgesetzbuchs Gebrauch machen.
+
+(+++ § 152: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
+
+### (XXXX) §§ 153 bis 157 (weggefallen)
+
+(+++ §§ 153 bis 157: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
 ### § 158 Vorschriften zur Gewinn- und Verlustrechnung
 
@@ -2088,6 +2104,10 @@ Die Angaben nach Satz 1 können auch im Anhang gemacht werden.
 
 (2) Von dem Ertrag aus einem Gewinnabführungs- oder Teilgewinnabführungsvertrag ist ein vertraglich zu leistender Ausgleich für außenstehende Gesellschafter abzusetzen; übersteigt dieser den Ertrag, so ist der übersteigende Betrag unter den Aufwendungen aus Verlustübernahme auszuweisen. Andere Beträge dürfen nicht abgesetzt werden.
 
+(3) Die Absätze 1 und 2 sind nicht anzuwenden auf Aktiengesellschaften, die Kleinstkapitalgesellschaften im Sinne des § 267a des Handelsgesetzbuchs sind, wenn sie von der Erleichterung nach § 275 Absatz 5 des Handelsgesetzbuchs Gebrauch machen.
+
+(+++ § 158: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
+
 ### § 159
 
 -
@@ -2122,11 +2142,15 @@ das Bestehen einer Beteiligung, die nach § 20 Abs. 1 oder Abs. 4 dieses Gesetze
 
 (2) Die Berichterstattung hat insoweit zu unterbleiben, als es für das Wohl der Bundesrepublik Deutschland oder eines ihrer Länder erforderlich ist.
 
+(3) Absatz 1 ist nicht anzuwenden auf Aktiengesellschaften, die Kleinstkapitalgesellschaften im Sinne des § 267a des Handelsgesetzbuchs sind, wenn sie von der Erleichterung nach § 264 Absatz 1 Satz 5 des Handelsgesetzbuchs Gebrauch machen.
+
 ### § 161 Erklärung zum Corporate Governance Kodex
 
 (1) Vorstand und Aufsichtsrat der börsennotierten Gesellschaft erklären jährlich, dass den vom Bundesministerium der Justiz im amtlichen Teil des Bundesanzeigers bekannt gemachten Empfehlungen der „Regierungskommission Deutscher Corporate Governance Kodex“ entsprochen wurde und wird oder welche Empfehlungen nicht angewendet wurden oder werden und warum nicht. Gleiches gilt für Vorstand und Aufsichtsrat einer Gesellschaft, die ausschließlich andere Wertpapiere als Aktien zum Handel an einem organisierten Markt im Sinn des § 2 Abs. 5 des Wertpapierhandelsgesetzes ausgegeben hat und deren ausgegebene Aktien auf eigene Veranlassung über ein multilaterales Handelssystem im Sinn des § 2 Abs. 3 Satz 1 Nr. 8 des Wertpapierhandelsgesetzes gehandelt werden.
 
 (2) Die Erklärung ist auf der Internetseite der Gesellschaft dauerhaft öffentlich zugänglich zu machen.
+
+(+++ § 161: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
 Erster Unterabschnitt Prüfung durch Abschlußprüfer
 --------------------------------------------------
@@ -2997,6 +3021,8 @@ das alsbaldige Wirksamwerden des Hauptversammlungsbeschlusses vorrangig erschein
 
 (3) Der Antrag nach Absatz 2 kann vor der Geschäftsstelle des Prozeßgerichts zur Niederschrift erklärt werden. Er ist vor der Verhandlung zur Hauptsache anzubringen. Später ist er nur zulässig, wenn der angenommene oder festgesetzte Streitwert durch das Prozeßgericht heraufgesetzt wird. Vor der Entscheidung über den Antrag ist der Gegner zu hören.
 
+(+++ § 247 Abs. 2 u. 3: Zur Anwendung vgl. § 72 Abs. 2 GNotKG +++)
+
 ### § 248 Urteilswirkung
 
 (1) Soweit der Beschluß durch rechtskräftiges Urteil für nichtig erklärt ist, wirkt das Urteil für und gegen alle Aktionäre sowie die Mitglieder des Vorstands und des Aufsichtsrats, auch wenn sie nicht Partei sind. Der Vorstand hat das Urteil unverzüglich zum Handelsregister einzureichen. War der Beschluß in das Handelsregister eingetragen, so ist auch das Urteil einzutragen. Die Eintragung des Urteils ist in gleicher Weise wie die des Beschlusses bekanntzumachen.
@@ -3131,7 +3157,7 @@ Posten überbewertet oder
 2.  
 Posten unterbewertet sind und dadurch die Vermögens- und Ertragslage der Gesellschaft vorsätzlich unrichtig wiedergegeben oder verschleiert wird.
 
-Überbewertet sind Aktivposten, wenn sie mit einem höheren Wert, Passivposten, wenn sie mit einem niedrigeren Betrag angesetzt sind, als nach §§ 253 bis 256 des Handelsgesetzbuchs zulässig ist. Unterbewertet sind Aktivposten, wenn sie mit einem niedrigeren Wert, Passivposten, wenn sie mit einem höheren Betrag angesetzt sind, als nach §§ 253 bis 256 des Handelsgesetzbuchs zulässig ist. Bei Kreditinstituten oder Finanzdienstleistungsinstituten sowie bei Kapitalanlagegesellschaften im Sinn des § 2 Abs. 6 des Investmentgesetzes liegt ein Verstoß gegen die Bewertungsvorschriften nicht vor, soweit die Abweichung nach den für sie geltenden Vorschriften, insbesondere den §§ 340e bis 340g des Handelsgesetzbuchs, zulässig ist; dies gilt entsprechend für Versicherungsunternehmen nach Maßgabe der für sie geltenden Vorschriften, insbesondere der §§ 341b bis 341h des Handelsgesetzbuchs.
+Überbewertet sind Aktivposten, wenn sie mit einem höheren Wert, Passivposten, wenn sie mit einem niedrigeren Betrag angesetzt sind, als nach §§ 253 bis 256 des Handelsgesetzbuchs zulässig ist. Unterbewertet sind Aktivposten, wenn sie mit einem niedrigeren Wert, Passivposten, wenn sie mit einem höheren Betrag angesetzt sind, als nach §§ 253 bis 256 des Handelsgesetzbuchs zulässig ist. Bei Kreditinstituten oder Finanzdienstleistungsinstituten sowie bei Kapitalverwaltungsgesellschaften im Sinn des § 17 des Kapitalanlagegesetzbuchs liegt ein Verstoß gegen die Bewertungsvorschriften nicht vor, soweit die Abweichung nach den für sie geltenden Vorschriften, insbesondere den §§ 340e bis 340g des Handelsgesetzbuchs, zulässig ist; dies gilt entsprechend für Versicherungsunternehmen nach Maßgabe der für sie geltenden Vorschriften, insbesondere der §§ 341b bis 341h des Handelsgesetzbuchs.
 
 (6) Die Nichtigkeit nach Absatz 1 Nr. 1, 3 und 4, Absatz 2, Absatz 3 Nr. 1 und 2, Absatz 4 und 5 kann nicht mehr geltend gemacht werden, wenn seit der Bekanntmachung nach § 325 Abs. 2 des Handelsgesetzbuchs in den Fällen des Absatzes 1 Nr. 3 und 4, des Absatzes 2 und des Absatzes 3 Nr. 1 und 2 sechs Monate, in den anderen Fällen drei Jahre verstrichen sind. Ist bei Ablauf der Frist eine Klage auf Feststellung der Nichtigkeit des Jahresabschlusses rechtshängig, so verlängert sich die Frist, bis über die Klage rechtskräftig entschieden ist oder sie sich auf andere Weise endgültig erledigt hat.
 
@@ -3160,7 +3186,7 @@ der Anhang die vorgeschriebenen Angaben nicht oder nicht vollständig enthält u
 
 so hat das Gericht auf Antrag Sonderprüfer zu bestellen. Die Sonderprüfer haben die bemängelten Posten darauf zu prüfen, ob sie nicht unwesentlich unterbewertet sind. Sie haben den Anhang darauf zu prüfen, ob die vorgeschriebenen Angaben nicht oder nicht vollständig gemacht worden sind und der Vorstand in der Hauptversammlung die fehlenden Angaben, obwohl nach ihnen gefragt worden ist, nicht gemacht hat und die Aufnahme der Frage in die Niederschrift verlangt worden ist.
 
-(1a) Bei Kreditinstituten oder Finanzdienstleistungsinstituten sowie bei Kapitalanlagegesellschaften im Sinn des § 2 Abs. 6 des Investmentgesetzes kann ein Sonderprüfer nach Absatz 1 nicht bestellt werden, soweit die Unterbewertung oder die fehlenden Angaben im Anhang auf der Anwendung des § 340f des Handelsgesetzbuchs beruhen.
+(1a) Bei Kreditinstituten oder Finanzdienstleistungsinstituten sowie bei Kapitalverwaltungsgesellschaften im Sinn des § 17 des Kapitalanlagegesetzbuchs kann ein Sonderprüfer nach Absatz 1 nicht bestellt werden, soweit die Unterbewertung oder die fehlenden Angaben im Anhang auf der Anwendung des § 340f des Handelsgesetzbuchs beruhen.
 
 (2) Der Antrag muß innerhalb eines Monats nach der Hauptversammlung über den Jahresabschluß gestellt werden. Dies gilt auch, wenn der Jahresabschluß nach § 316 Abs. 3 des Handelsgesetzbuchs erneut zu prüfen ist. Er kann nur von Aktionären gestellt werden, deren Anteile zusammen den Schwellenwert des § 142 Abs. 2 erreichen. Die Antragsteller haben die Aktien bis zur Entscheidung über den Antrag zu hinterlegen oder eine Versicherung des depotführenden Instituts vorzulegen, dass die Aktien so lange nicht veräußert werden, und glaubhaft zu machen, daß sie seit mindestens drei Monaten vor dem Tag der Hauptversammlung Inhaber der Aktien sind. Zur Glaubhaftmachung genügt eine eidesstattliche Versicherung vor einem Notar.
 
@@ -3198,7 +3224,9 @@ Die Sonderprüfer haben ihrer Beurteilung die Verhältnisse am Stichtag des Jahr
 
 (3) § 99 Abs. 1, Abs. 2 Satz 1, Abs. 3 und 5 gilt sinngemäß. Das Gericht hat seine Entscheidung der Gesellschaft und, wenn Aktionäre den Antrag nach Absatz 1 gestellt haben, auch diesen zuzustellen. Es hat sie ferner ohne Gründe in den Gesellschaftsblättern bekanntzumachen. Die Beschwerde steht der Gesellschaft und Aktionären zu, deren Anteile zusammen den zwanzigsten Teil des Grundkapitals oder den anteiligen Betrag von 500 000 Euro erreichen. § 258 Abs. 2 Satz 4 und 5 gilt sinngemäß. Die Beschwerdefrist beginnt mit der Bekanntmachung der Entscheidung im Bundesanzeiger, jedoch für die Gesellschaft und, wenn Aktionäre den Antrag nach Absatz 1 gestellt haben, auch für diese nicht vor der Zustellung der Entscheidung.
 
-(4) Für die Kosten des Verfahrens gilt die Kostenordnung. Für das Verfahren des ersten Rechtszugs wird das Doppelte der vollen Gebühr erhoben. Für das Verfahren über ein Rechtsmittel wird die gleiche Gebühr erhoben; dies gilt auch dann, wenn das Rechtsmittel Erfolg hat. Wird der Antrag oder das Rechtsmittel zurückgenommen, bevor es zu einer Entscheidung kommt, so ermäßigt sich die Gebühr auf die Hälfte. Der Geschäftswert ist von Amts wegen festzusetzen. Die Kosten sind, wenn dem Antrag stattgegeben wird, der Gesellschaft, sonst dem Antragsteller aufzuerlegen. § 247 gilt sinngemäß.
+(4) Die Kosten sind, wenn dem Antrag stattgegeben wird, der Gesellschaft, sonst dem Antragsteller aufzuerlegen. § 247 gilt sinngemäß.
+
+(+++ § 260 Abs. 4 Satz 2: Zur Anwendung vgl. § 72 Abs. 2 GNotKG +++)
 
 ### § 261 Entscheidung über den Ertrag auf Grund höherer Bewertung
 
@@ -3414,11 +3442,15 @@ Zweites Buch Kommanditgesellschaft auf Aktien
 
 (3) Im übrigen gelten für die Kommanditgesellschaft auf Aktien, soweit sich aus den folgenden Vorschriften oder aus dem Fehlen eines Vorstands nichts anderes ergibt, die Vorschriften des Ersten Buchs über die Aktiengesellschaft sinngemäß.
 
+(+++ § 278: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
+
 ### § 279 Firma
 
 (1) Die Firma der Kommanditgesellschaft auf Aktien muß, auch wenn sie nach § 22 des Handelsgesetzbuchs oder nach anderen gesetzlichen Vorschriften fortgeführt wird, die Bezeichnung "Kommanditgesellschaft auf Aktien" oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten.
 
 (2) Wenn in der Gesellschaft keine natürliche Person persönlich haftet, muß die Firma, auch wenn sie nach § 22 des Handelsgesetzbuchs oder nach anderen gesetzlichen Vorschriften fortgeführt wird, eine Bezeichnung enthalten, welche die Haftungsbeschränkung kennzeichnet.
+
+(+++ § 279: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
 ### § 280 Feststellung der Satzung. Gründer
 
@@ -3428,6 +3460,8 @@ Zweites Buch Kommanditgesellschaft auf Aktien
 
 (3) Die Gesellschafter, die die Satzung festgestellt haben, sind die Gründer der Gesellschaft.
 
+(+++ § 280: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
+
 ### § 281 Inhalt der Satzung
 
 (1) Die Satzung muß außer den Festsetzungen nach § 23 Abs. 3 und 4 den Namen, Vornamen und Wohnort jedes persönlich haftenden Gesellschafters enthalten.
@@ -3436,9 +3470,13 @@ Zweites Buch Kommanditgesellschaft auf Aktien
 
 (3) (weggefallen)
 
+(+++ § 281: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
+
 ### § 282 Eintragung der persönlich haftenden Gesellschafter
 
 Bei der Eintragung der Gesellschaft in das Handelsregister sind statt der Vorstandsmitglieder die persönlich haftenden Gesellschafter anzugeben. Ferner ist einzutragen, welche Vertretungsbefugnis die persönlich haftenden Gesellschafter haben.
+
+(+++ § 282: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
 ### § 283 Persönlich haftende Gesellschafter
 
@@ -3486,6 +3524,8 @@ die Nichtigkeit und Anfechtung von Hauptversammlungsbeschlüssen;
 14.  
 den Antrag auf Eröffnung des Insolvenzverfahrens.
 
+(+++ § 283: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
+
 ### § 284 Wettbewerbsverbot
 
 (1) Ein persönlich haftender Gesellschafter darf ohne ausdrückliche Einwilligung der übrigen persönlich haftenden Gesellschafter und des Aufsichtsrats weder im Geschäftszweig der Gesellschaft für eigene oder fremde Rechnung Geschäfte machen noch Mitglied des Vorstands oder Geschäftsführer oder persönlich haftender Gesellschafter einer anderen gleichartigen Handelsgesellschaft sein. Die Einwilligung kann nur für bestimmte Arten von Geschäften oder für bestimmte Handelsgesellschaften erteilt werden.
@@ -3493,6 +3533,8 @@ den Antrag auf Eröffnung des Insolvenzverfahrens.
 (2) Verstößt ein persönlich haftender Gesellschafter gegen dieses Verbot, so kann die Gesellschaft Schadenersatz fordern. Sie kann statt dessen von dem Gesellschafter verlangen, daß er die für eigene Rechnung gemachten Geschäfte als für Rechnung der Gesellschaft eingegangen gelten läßt und die aus Geschäften für fremde Rechnung bezogene Vergütung herausgibt oder seinen Anspruch auf die Vergütung abtritt.
 
 (3) Die Ansprüche der Gesellschaft verjähren in drei Monaten seit dem Zeitpunkt, in dem die übrigen persönlich haftenden Gesellschafter und die Aufsichtsratsmitglieder von der zum Schadensersatz verpflichtenden Handlung Kenntnis erlangen oder ohne grobe Fahrlässigkeit erlangen müssten. Sie verjähren ohne Rücksicht auf diese Kenntnis oder grob fahrlässige Unkenntnis in fünf Jahren von ihrer Entstehung an.
+
+(+++ § 284: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
 ### § 285 Hauptversammlung
 
@@ -3522,6 +3564,8 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 
 (3) Beschlüsse der Hauptversammlung, die der Zustimmung der persönlich haftenden Gesellschafter bedürfen, sind zum Handelsregister erst einzureichen, wenn die Zustimmung vorliegt. Bei Beschlüssen, die in das Handelsregister einzutragen sind, ist die Zustimmung in der Verhandlungsniederschrift oder in einem Anhang zur Niederschrift zu beurkunden.
 
+(+++ § 285: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
+
 ### § 286 Jahresabschluß. Lagebericht
 
 (1) Die Hauptversammlung beschließt über die Feststellung des Jahresabschlusses. Der Beschluß bedarf der Zustimmung der persönlich haftenden Gesellschafter.
@@ -3532,6 +3576,8 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 
 (4) § 285 Nr. 9 Buchstabe a und b des Handelsgesetzbuchs gilt für die persönlich haftenden Gesellschafter mit der Maßgabe, daß der auf den Kapitalanteil eines persönlich haftenden Gesellschafters entfallende Gewinn nicht angegeben zu werden braucht.
 
+(+++ § 286: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
+
 ### § 287 Aufsichtsrat
 
 (1) Die Beschlüsse der Kommanditaktionäre führt der Aufsichtsrat aus, wenn die Satzung nichts anderes bestimmt.
@@ -3540,6 +3586,8 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 
 (3) Persönlich haftende Gesellschafter können nicht Aufsichtsratsmitglieder sein.
 
+(+++ § 287: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
+
 ### § 288 Entnahmen der persönlich haftenden Gesellschafter. Kreditgewährung
 
 (1) Entfällt auf einen persönlich haftenden Gesellschafter ein Verlust, der seinen Kapitalanteil übersteigt, so darf er keinen Gewinn auf seinen Kapitalanteil entnehmen. Er darf ferner keinen solchen Gewinnanteil und kein Geld auf seinen Kapitalanteil entnehmen, solange die Summe aus Bilanzverlust, Einzahlungsverpflichtungen, Verlustanteilen persönlich haftender Gesellschafter und Forderungen aus Krediten an persönlich haftende Gesellschafter und deren Angehörige die Summe aus Gewinnvortrag, Kapital- und Gewinnrücklagen sowie Kapitalanteilen der persönlich haftenden Gesellschafter übersteigt.
@@ -3547,6 +3595,8 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 (2) Solange die Voraussetzung von Absatz 1 Satz 2 vorliegt, darf die Gesellschaft keinen unter § 286 Abs. 2 Satz 4 fallenden Kredit gewähren. Ein trotzdem gewährter Kredit ist ohne Rücksicht auf entgegenstehende Vereinbarungen sofort zurückzugewähren.
 
 (3) Ansprüche persönlich haftender Gesellschafter auf nicht vom Gewinn abhängige Tätigkeitsvergütungen werden durch diese Vorschriften nicht berührt. Für eine Herabsetzung solcher Vergütungen gilt § 87 Abs. 2 Satz 1 und 2 sinngemäß.
+
+(+++ § 288: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
 ### § 289 Auflösung
 
@@ -3571,6 +3621,8 @@ durch die Löschung der Gesellschaft wegen Vermögenslosigkeit nach § 394 des G
 
 (6) Die Auflösung der Gesellschaft und das Ausscheiden eines persönlich haftenden Gesellschafters ist von allen persönlich haftenden Gesellschaftern zur Eintragung in das Handelsregister anzumelden. § 143 Abs. 3 des Handelsgesetzbuchs gilt sinngemäß. In den Fällen des Absatzes 2 hat das Gericht die Auflösung und ihren Grund von Amts wegen einzutragen. Im Falle des Absatzes 2 Nr. 3 entfällt die Eintragung der Auflösung.
 
+(+++ § 289: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
+
 ### § 290 Abwicklung
 
 (1) Die Abwicklung besorgen alle persönlich haftenden Gesellschafter und eine oder mehrere von der Hauptversammlung gewählte Personen als Abwickler, wenn die Satzung nichts anderes bestimmt.
@@ -3578,6 +3630,8 @@ durch die Löschung der Gesellschaft wegen Vermögenslosigkeit nach § 394 des G
 (2) Die Bestellung oder Abberufung von Abwicklern durch das Gericht kann auch jeder persönlich haftende Gesellschafter beantragen.
 
 (3) Ist die Gesellschaft durch Löschung wegen Vermögenslosigkeit aufgelöst, so findet eine Abwicklung nur statt, wenn sich nach der Löschung herausstellt, daß Vermögen vorhanden ist, das der Verteilung unterliegt. Die Abwickler sind auf Antrag eines Beteiligten durch das Gericht zu ernennen.
+
+(+++ § 290: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
 Drittes Buch Verbundene Unternehmen
 -----------------------------------
