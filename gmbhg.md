@@ -4,6 +4,9 @@ Gesetz betreffend die Gesellschaften mit beschränkter Haftung (GmbHG)
 Stand  
 Zuletzt geändert durch Art. 27 G v. 23.7.2013 I 2586
 
+Hinweis  
+Änderung durch Art. 15 G v. 24.4.2015 I 642 (Nr. 17) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
@@ -592,7 +595,9 @@ Abschnitt 3 Vertretung und Geschäftsführung
 
 (4) Auf allen Geschäftsbriefen und Bestellscheinen, die von einer Zweigniederlassung einer Gesellschaft mit beschränkter Haftung mit Sitz im Ausland verwendet werden, müssen das Register, bei dem die Zweigniederlassung geführt wird, und die Nummer des Registereintrags angegeben werden; im übrigen gelten die Vorschriften der Absätze 1 bis 3 für die Angaben bezüglich der Haupt- und der Zweigniederlassung, soweit nicht das ausländische Recht Abweichungen nötig macht. Befindet sich die ausländische Gesellschaft in Liquidation, so sind auch diese Tatsache sowie alle Liquidatoren anzugeben.
 
-### § 36 (weggefallen)
+### § 36 Zielgrößen und Fristen zur gleichberechtigten Teilhabe von Frauen und Männern
+
+Die Geschäftsführer einer Gesellschaft, die der Mitbestimmung unterliegt, legen für den Frauenanteil in den beiden Führungsebenen unterhalb der Geschäftsführer Zielgrößen fest. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
 
 ### § 37 Beschränkungen der Vertretungsbefugnis
 
@@ -764,9 +769,11 @@ Für die gerichtliche Entscheidung über das Auskunfts- und Einsichtsrecht finde
 
 (1) Ist nach dem Gesellschaftsvertrag ein Aufsichtsrat zu bestellen, so sind § 90 Abs. 3, 4, 5 Satz 1 und 2, § 95 Satz 1, § 100 Abs. 1 und 2 Nr. 2 und Abs. 5, § 101 Abs. 1 Satz 1, § 103 Abs. 1 Satz 1 und 2, §§ 105, 107 Abs. 4, §§ 110 bis 114, 116 des Aktiengesetzes in Verbindung mit § 93 Abs. 1 und 2 Satz 1 und 2 des Aktiengesetzes, § 124 Abs. 3 Satz 2, §§ 170, 171 des Aktiengesetzes entsprechend anzuwenden, soweit nicht im Gesellschaftsvertrag ein anderes bestimmt ist.
 
-(2) Werden die Mitglieder des Aufsichtsrats vor der Eintragung der Gesellschaft in das Handelsregister bestellt, gilt § 37 Abs. 4 Nr. 3 und 3a des Aktiengesetzes entsprechend. Die Geschäftsführer haben bei jeder Änderung in den Personen der Aufsichtsratsmitglieder unverzüglich eine Liste der Mitglieder des Aufsichtsrats, aus welcher Name, Vorname, ausgeübter Beruf und Wohnort der Mitglieder ersichtlich ist, zum Handelsregister einzureichen; das Gericht hat nach § 10 des Handelsgesetzbuchs einen Hinweis darauf bekannt zu machen, dass die Liste zum Handelsregister eingereicht worden ist.
+(2) Ist nach dem Drittelbeteiligungsgesetz ein Aufsichtsrat zu bestellen, so legt die Gesellschafterversammlung für den Frauenanteil im Aufsichtsrat und unter den Geschäftsführern Zielgrößen fest, es sei denn, sie hat dem Aufsichtsrat diese Aufgabe übertragen. Ist nach dem Mitbestimmungsgesetz, dem Montan-Mitbestimmungsgesetz oder dem Mitbestimmungsergänzungsgesetz ein Aufsichtsrat zu bestellen, so legt der Aufsichtsrat für den Frauenanteil im Aufsichtsrat und unter den Geschäftsführern Zielgrößen fest. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
 
-(3) Schadensersatzansprüche gegen die Mitglieder des Aufsichtsrats wegen Verletzung ihrer Obliegenheiten verjähren in fünf Jahren.
+(3) Werden die Mitglieder des Aufsichtsrats vor der Eintragung der Gesellschaft in das Handelsregister bestellt, gilt § 37 Abs. 4 Nr. 3 und 3a des Aktiengesetzes entsprechend. Die Geschäftsführer haben bei jeder Änderung in den Personen der Aufsichtsratsmitglieder unverzüglich eine Liste der Mitglieder des Aufsichtsrats, aus welcher Name, Vorname, ausgeübter Beruf und Wohnort der Mitglieder ersichtlich ist, zum Handelsregister einzureichen; das Gericht hat nach § 10 des Handelsgesetzbuchs einen Hinweis darauf bekannt zu machen, dass die Liste zum Handelsregister eingereicht worden ist.
+
+(4) Schadensersatzansprüche gegen die Mitglieder des Aufsichtsrats wegen Verletzung ihrer Obliegenheiten verjähren in fünf Jahren.
 
 Abschnitt 4 Abänderungen des Gesellschaftsvertrags
 --------------------------------------------------
