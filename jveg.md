@@ -2,15 +2,12 @@ Gesetz über die Vergütung von Sachverständigen, Dolmetscherinnen, Dolmetscher
 ======================================================================================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 13 G v. 5.12.2012 I 2418
-
-Hinweis  
-Änderung durch Art. 7 G v. 23.7.2013 I 2586 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 7 G v. 23.7.2013 I 2586
 
 ### 
 
 ```
-(+++ Textnachweis ab:  1. 7.2004 +++)
+(+++ Textnachweis ab: 1.7.2004 +++)
 ```
 
 Das G wurde als Art. 2 des G v. 5.5.2004 I 718 (KostRMoG) vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es tritt gem. Art. 8 Satz 1 dieses G am 1.7.2004 in Kraft.
@@ -564,7 +561,7 @@ Das Gesetz über die Entschädigung der ehrenamtlichen Richter in der Fassung de
 
 ### Anlage 1 (zu § 9 Abs. 1)
 
-(Fundstelle: BGBl. I 2004, 784 bzw. BGBl. I 2013, 2684 - 2685;
+(Fundstelle: BGBl. I 2004, 783 - 784;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Nr.
@@ -1038,40 +1035,40 @@ Bezeichnung der Leistung
 
 Honorar
 
-Abschnitt 1
+**Abschnitt 1**
 
-Leichenschau und Obduktion
+**Leichenschau und Obduktion**
 
 (1) Das Honorar in den Fällen der Nummern 100, 102 bis 106 umfasst den zur Niederschrift gegebenen Bericht; in den Fällen der Nummern 102 bis 106 umfasst das Honorar auch das vorläufige Gutachten. Das Honorar nach den Nummern 102 bis 106 enthält jeder Obduzent gesondert.
 (2) Aufwendungen für die Nutzung fremder Kühlzellen, Sektionssäle und sonstiger Einrichtungen werden bis zu einem Betrag von 300 € gesondert erstattet, wenn die Nutzung wegen der großen Entfernung zwischen dem Fundort der Leiche und dem rechtsmedizinischen Institut geboten ist.
 
 100
 
-Besichtigung einer Leiche, von Teilen einer Leiche, eines Embryos oder eines Fetus oder Mitwirkung bei einer richterlichen Leichenschau
+Besichtigung einer Leiche, von Teilen einer Leiche, eines Embryos oder eines Fetus oder Mitwirkung bei einer richterlichen Leichenschau ..........
 
 60,00 €
 
  
 
-für mehrere Leistungen bei derselben Gelegenheit jedoch höchstens
+für mehrere Leistungen bei derselben Gelegenheit jedoch höchstens ..........
 
 140,00 €
 
 101
 
-Fertigung eines Berichts, der schriftlich zu erstatten oder nachträglich zur Niederschrift zu geben ist
+Fertigung eines Berichts, der schriftlich zu erstatten oder nachträglich zur Niederschrift zu geben ist ..........
 
 30,00 €
 
  
 
-für mehrere Leistungen bei derselben Gelegenheit jedoch höchstens
+für mehrere Leistungen bei derselben Gelegenheit jedoch höchstens ..........
 
 100,00 €
 
 102
 
-Obduktion
+Obduktion ..........
 
 380,00 €
 
@@ -1083,7 +1080,7 @@ Obduktion unter besonders ungünstigen äußeren Bedingungen:
 
  
 
-Das Honorar 102 beträgt
+Das Honorar 102 beträgt ..........
 
 500,00 €
 
@@ -1095,13 +1092,13 @@ Obduktion unter anderen besonders ungünstigen Bedingungen (Zustand der Leiche e
 
  
 
-Das Honorar 102 beträgt
+Das Honorar 102 beträgt ..........
 
 670,00 €
 
 105
 
-Sektion von Teilen einer Leiche oder Öffnung eines Embryos oder nicht lebensfähigen Fetus
+Sektion von Teilen einer Leiche oder Öffnung eines Embryos oder nicht lebensfähigen Fetus ..........
 
 100,00 €
 
@@ -1113,17 +1110,17 @@ Sektion oder Öffnung unter besonders ungünstigen Bedingungen:
 
  
 
-Das Honorar 105 beträgt
+Das Honorar 105 beträgt ..........
 
 140,00 €
 
-Abschnitt 2
+**Abschnitt 2**
 
-Befund
+**Befund**
 
 200
 
-Ausstellung eines Befundscheins oder Erteilung einer schriftlichen Auskunft ohne nähere gutachtliche Äußerung
+Ausstellung eines Befundscheins oder Erteilung einer schriftlichen Auskunft ohne nähere gutachtliche Äußerung ..........
 
 21,00 €
 
@@ -1131,17 +1128,15 @@ Ausstellung eines Befundscheins oder Erteilung einer schriftlichen Auskunft ohne
 
 Die Leistung der in Nummer 200 genannten Art ist außergewöhnlich umfangreich:
 
-bis zu 44,00 €
-
  
 
-Das Honorar 200 beträgt
+Das Honorar 200 beträgt ..........
 
- 
+ bis zu 44,00 €
 
 202
 
-Zeugnis über einen ärztlichen Befund mit von der heranziehenden Stelle geforderter kurzer gutachtlicher Äußerung oder Formbogengutachten, wenn sich die Fragen auf Vorgeschichte, Angaben und Befund beschränken und nur ein kurzes Gutachten erfordern
+Zeugnis über einen ärztlichen Befund mit von der heranziehenden Stelle geforderter kurzer gutachtlicher Äußerung oder Formbogengutachten, wenn sich die Fragen auf Vorgeschichte, Angaben und Befund beschränken und nur ein kurzes Gutachten erfordern ..........
 
 38,00 €
 
@@ -1153,13 +1148,13 @@ Die Leistung der in Nummer 202 genannten Art ist außergewöhnlich umfangreich:
 
  
 
-Das Honorar 202 beträgt
+Das Honorar 202 beträgt ..........
 
 bis zu 75,00 €
 
-Abschnitt 3
+**Abschnitt 3**
 
-Untersuchungen, Blutentnahme
+**Untersuchungen, Blutentnahme**
 
 300
 
@@ -1169,7 +1164,7 @@ Untersuchung eines Lebensmittels, Bedarfsgegenstands, Arzneimittels, von Luft, G
 
  
 
-Das Honorar beträgt für jede Einzelbestimmung je Probe
+Das Honorar beträgt für jede Einzelbestimmung je Probe ..........
 
 5,00 bis 60,00 €
 
@@ -1181,13 +1176,13 @@ Die Leistung der in Nummer 300 genannten Art ist außergewöhnlich umfangreich o
 
  
 
-Das Honorar 300 beträgt
+Das Honorar 300 beträgt ..........
 
 bis zu 1.000,00 €
 
 302
 
-Mikroskopische, physikalische, chemische, toxikologische, bakteriologische, serologische Untersuchung, wenn das Untersuchungsmaterial von Menschen oder Tieren stammt:
+Mikroskopische, physikalische, chemische, toxikologische, bakteriologische, serologische Untersuchung, wenn das Untersuchungsmaterial von Menschen oder Tieren stammt: ..........
 
 5,00 bis 60,00 €
 
@@ -1211,13 +1206,13 @@ Die Leistung der in Nummer 302 genannten Art ist außergewöhnlich umfangreich o
 
  
 
-Das Honorar 302 beträgt
+Das Honorar 302 beträgt ..........
 
 bis zu 1.000,00 €
 
 304
 
-Herstellung einer DNA-Probe und ihre Überprüfung auf Geeignetheit (z. B. Hochmolekularität, humane Herkunft, Ausmaß der Degradation, Kontrolle des Verdaus)
+Herstellung einer DNA-Probe und ihre Überprüfung auf Geeignetheit (z. B. Hochmolekularität, humane Herkunft, Ausmaß der Degradation, Kontrolle des Verdaus) ..........
 
 bis zu 205,00 €
 
@@ -1229,7 +1224,7 @@ Das Honorar umfasst das verbrauchte Material, soweit es sich um geringwertige St
 
 305
 
-Elektrophysiologische Untersuchung eines Menschen
+Elektrophysiologische Untersuchung eines Menschen ..........
 
 15,00 bis 135,00 €
 
@@ -1241,7 +1236,7 @@ Das Honorar umfasst eine kurze gutachtliche Äußerung und den mit der Untersuch
 
 306
 
-Raster-elektronische Untersuchung eines Menschen oder einer Leiche, auch mit Analysenzusatz
+Raster-elektronische Untersuchung eines Menschen oder einer Leiche, auch mit Analysenzusatz ..........
 
 15,00 bis 355,00 €
 
@@ -1253,7 +1248,7 @@ Das Honorar umfasst eine kurze gutachtliche Äußerung und den mit der Untersuch
 
 307
 
-Blutentnahme
+Blutentnahme ..........
 
 9,00 €
 
@@ -1263,9 +1258,9 @@ Das Honorar umfasst eine Niederschrift über die Feststellung der Identität.
 
  
 
-Abschnitt 4
+**Abschnitt 4**
 
-Abstammungsgutachten
+**Abstammungsgutachten**
 
 *Vorbemerkung 4:*
 (1) Das Honorar umfasst die gesamte Tätigkeit des Sachverständigen einschließlich aller Aufwendungen mit Ausnahme der Umsatzsteuer und mit Ausnahme der Auslagen für Probenentnahmen durch vom Sachverständigen beauftragte Personen, soweit nichts anderes bestimmt ist. Das Honorar umfasst ferner den Aufwand für die Anfertigung des schriftlichen Gutachtens und von drei Überstücken.
@@ -1353,7 +1348,7 @@ bis zu 120,00 €
 
 ### Anlage 3 (zu § 23 Abs. 1)
 
-(Fundstelle: BGBl. I 2009, .... - ....;
+(Fundstelle: BGBl. I 2009, 995 - 997;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Nr.
@@ -1366,8 +1361,8 @@ Höhe
  (1) Die Entschädigung nach dieser Anlage schließt alle mit der Erledigung des Ersuchens der Strafverfolgungsbehörde verbundenen Tätigkeiten des Telekommunikationsunternehmens sowie etwa anfallende sonstige Aufwendungen (§ 7 JVEG) ein.
  (2) Für Leistungen, die die Strafverfolgungsbehörden über eine zentrale Kontaktstelle des Generalbundesanwalts, des Bundeskriminalamtes, der Bundespolizei oder des Zollkriminalamtes oder über entsprechende für ein Bundesland oder für mehrere Bundesländer zuständige Kontaktstellen anfordern und abrechnen, ermäßigen sich die Entschädigungsbeträge nach den Nummern 100, 101, 300 bis 312, 400 und 401 um 20 Prozent, wenn bei der Anforderung darauf hingewiesen worden ist, dass es sich bei der anfordernden Stelle um eine zentrale Kontaktstelle handelt.
 
-Abschnitt 1
-Überwachung der Telekommunikation
+**Abschnitt 1**
+**Überwachung der Telekommunikation**
 
 *Vorbemerkung 1:*
   (1) Die Vorschriften dieses Abschnitts gelten für die Heranziehung im Zusammenhang mit Funktionsprüfungen der Aufzeichnungs- und Auswertungseinrichtungen der berechtigten Stellen entsprechend.
@@ -1377,14 +1372,15 @@ Abschnitt 1
 100
 
 Umsetzung einer Anordnung zur Überwachung der Telekommunikation, unabhängig von der Zahl der dem Anschluss zugeordneten Kennungen:
-je Anschluss
- Mit der Entschädigung ist auch der Aufwand für die Abschaltung der Maßnahme entgolten.
+je Anschluss..........
 
   100,00 €
 
+  Mit der Entschädigung ist auch der Aufwand für die Abschaltung der Maßnahme entgolten.
+
 101
 
-Verlängerung einer Maßnahme zur Überwachung der Telekommunikation oder Umschaltung einer solchen Maßnahme auf Veranlassung der Strafverfolgungsbehörde auf einen anderen Anschluss dieser Stelle
+Verlängerung einer Maßnahme zur Überwachung der Telekommunikation oder Umschaltung einer solchen Maßnahme auf Veranlassung der Strafverfolgungsbehörde auf einen anderen Anschluss dieser Stelle ..........
 
    35,00 €
 
@@ -1393,20 +1389,20 @@ für jeden überwachten Anschluss,
 
 102
 
-– wenn die Überwachungsmaßnahme nicht länger als eine Woche dauert
+– wenn die Überwachungsmaßnahme nicht länger als eine Woche dauert ..........
 
    24,00 €
 
 103
 
-– wenn die Überwachungsmaßnahme länger als eine Woche, jedoch nicht länger als zwei Wochen dauert
+– wenn die Überwachungsmaßnahme länger als eine Woche, jedoch nicht länger als zwei Wochen dauert ..........
 
    42,00 €
 
 104
 
 – wenn die Überwachungsmaßnahme länger als zwei Wochen dauert:
-je angefangenen Monat
+je angefangenen Monat ..........
 
    75,00 €
 
@@ -1414,19 +1410,19 @@ Der überwachte Anschluss ist ein ISDN-Basisanschluss:
 
 105
 
-– Die Entschädigung nach Nummer 102 beträgt
+– Die Entschädigung nach Nummer 102 beträgt ..........
 
    40,00 €
 
 106
 
-– Die Entschädigung nach Nummer 103 beträgt
+– Die Entschädigung nach Nummer 103 beträgt ..........
 
    70,00 €
 
 107
 
-– Die Entschädigung nach Nummer 104 beträgt
+– Die Entschädigung nach Nummer 104 beträgt ..........
 
   125,00 €
 
@@ -1434,19 +1430,19 @@ Der überwachte Anschluss ist ein ISDN-Primärmultiplexanschluss:
 
 108
 
-– Die Entschädigung nach Nummer 102 beträgt
+– Die Entschädigung nach Nummer 102 beträgt ..........
 
   490,00 €
 
 109
 
-– Die Entschädigung nach Nummer 103 beträgt
+– Die Entschädigung nach Nummer 103 beträgt ..........
 
   855,00 €
 
 110
 
-– Die Entschädigung nach Nummer 104 beträgt
+– Die Entschädigung nach Nummer 104 beträgt ..........
 
 1 525,00 €
 
@@ -1454,52 +1450,54 @@ Der überwachte Anschluss ist ein digitaler Teilnehmeranschluss mit einer Übert
 
 111
 
-– Die Entschädigung nach Nummer 102 beträgt
+– Die Entschädigung nach Nummer 102 beträgt ..........
 
    65,00 €
 
 112
 
-– Die Entschädigung nach Nummer 103 beträgt
+– Die Entschädigung nach Nummer 103 beträgt ..........
 
   110,00 €
 
 113
 
-– Die Entschädigung nach Nummer 104 beträgt
+– Die Entschädigung nach Nummer 104 beträgt ..........
 
   200,00 €
 
-Abschnitt 2
-Auskünfte über Bestandsdaten
+**Abschnitt 2**
+**Auskünfte über Bestandsdaten**
 
 200
 
 Auskunft über Bestandsdaten nach § 3 Nr. 3 TKG, sofern
 1. die Auskunft nicht über das automatisierte Auskunftsverfahren nach § 112 TKG erteilt werden kann und die Unmöglichkeit der Auskunftserteilung auf diesem Wege nicht vom Unternehmen zu vertreten ist und
 2. für die Erteilung der Auskunft nicht auf Verkehrsdaten zurückgegriffen werden muss:
-je angefragten Kundendatensatz
+je angefragten Kundendatensatz ..........
 
    18,00 €
 
 201
 
 Auskunft über Bestandsdaten, zu deren Erteilung auf Verkehrsdaten zurückgegriffen werden muss:
-für bis zu 10 in demselben Verfahren gleichzeitig angefragte Kennungen, die der Auskunftserteilung zugrunde liegen
- Bei mehr als 10 angefragten Kennungen wird die Pauschale für jeweils bis zu 10 weitere Kennungen erneut gewährt. Kennung ist auch eine IP-Adresse.
+für bis zu 10 in demselben Verfahren gleichzeitig angefragte Kennungen, die der Auskunftserteilung zugrunde liegen ..........
 
    35,00 €
 
-Abschnitt 3
-Auskünfte über Verkehrsdaten
+  Bei mehr als 10 angefragten Kennungen wird die Pauschale für jeweils bis zu 10 weitere Kennungen erneut gewährt. Kennung ist auch eine IP-Adresse.
+
+**Abschnitt 3**
+**Auskünfte über Verkehrsdaten**
 
 300
 
 Auskunft über gespeicherte Verkehrsdaten:
-für jede Kennung, die der Auskunftserteilung zugrunde liegt
- Die Mitteilung der die Kennung betreffenden Standortdaten ist mit abgegolten.
+für jede Kennung, die der Auskunftserteilung zugrunde liegt ..........
 
    30,00 €
+
+  Die Mitteilung der die Kennung betreffenden Standortdaten ist mit abgegolten.
 
 301
 
@@ -1511,10 +1509,11 @@ für die zweite und jede weitere in dem Ersuchen verlangte Teilauskunft ........
 302
 
 Auskunft über gespeicherte Verkehrsdaten zu Verbindungen, die zu einer bestimmten Zieladresse hergestellt wurden, durch Suche in allen Datensätzen der abgehenden Verbindungen eines Betreibers (Zielwahlsuche):
-je Zieladresse
- Die Mitteilung der Standortdaten der Zieladresse ist mit abgegolten.
+je Zieladresse ..........
 
    90,00 €
+
+  Die Mitteilung der Standortdaten der Zieladresse ist mit abgegolten.
 
 303
 
@@ -1525,21 +1524,21 @@ für die zweite und jede weitere in dem Ersuchen verlangte Teilauskunft ........
 
 304
 
-Auskunft über gespeicherte Verkehrsdaten für eine von der Strafverfolgungsbehörde benannte Funkzelle (Funkzellenabfrage)
+Auskunft über gespeicherte Verkehrsdaten für eine von der Strafverfolgungsbehörde benannte Funkzelle (Funkzellenabfrage) ..........
 
    30,00 €
 
 305
 
 Auskunft über gespeicherte Verkehrsdaten für mehr als eine von der Strafverfolgungsbehörde benannte Funkzelle:
-Die Pauschale 304 erhöht sich für jede weitere Funkzelle um
+Die Pauschale 304 erhöht sich für jede weitere Funkzelle um ..........
 
     4,00 €
 
 306
 
 Auskunft über gespeicherte Verkehrsdaten in Fällen, in denen lediglich Ort und Zeitraum bekannt sind:
-Die Abfrage erfolgt für einen bestimmten, durch eine Adresse bezeichneten Standort
+Die Abfrage erfolgt für einen bestimmten, durch eine Adresse bezeichneten Standort ..........
 
    60,00 €
 
@@ -1548,43 +1547,45 @@ Die Auskunft erfolgt für eine Fläche:
 307
 
 – Die Entfernung der am weitesten voneinander entfernten Punkte beträgt nicht mehr als 10 Kilometer:
-Die Entschädigung nach Nummer 306 beträgt
+Die Entschädigung nach Nummer 306 beträgt ..........
 
   190,00 €
 
 308
 
 – Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 10 und nicht mehr als 25 Kilometer:
-Die Entschädigung nach Nummer 306 beträgt
+Die Entschädigung nach Nummer 306 beträgt ..........
 
   490,00 €
 
 309
 
 – Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 25, aber nicht mehr als 45 Kilometer:
-Die Entschädigung nach Nummer 306 beträgt
-  Liegen die am weitesten voneinander entfernten Punkte mehr als 45 Kilometer auseinander, ist für den darüber hinausgehenden Abstand die Entschädigung nach den Nummern 307 bis 309 gesondert zu berechnen.
+Die Entschädigung nach Nummer 306 beträgt ..........
 
   930,00 €
+
+  Liegen die am weitesten voneinander entfernten Punkte mehr als 45 Kilometer auseinander, ist für den darüber hinausgehenden Abstand die Entschädigung nach den Nummern 307 bis 309 gesondert zu berechnen.
 
 310
 
 Die Auskunft erfolgt für eine bestimmte Wegstrecke:
-Die Entschädigung nach Nummer 306 beträgt für jeweils angefangene 10 Kilometer Länge
+Die Entschädigung nach Nummer 306 beträgt für jeweils angefangene 10 Kilometer Länge ..........
 
   110,00 €
 
 311
 
 Umsetzung einer Anordnung zur Übermittlung künftig anfallender Verkehrsdaten in Echtzeit:
-je Anschluss
- Mit der Entschädigung ist auch der Aufwand für die Abschaltung der Übermittlung und die Mitteilung der den Anschluss betreffenden Standortdaten entgolten.
+je Anschluss ..........
 
   100,00 €
 
+Mit der Entschädigung ist auch der Aufwand für die Abschaltung der Übermittlung und die Mitteilung der den Anschluss betreffenden Standortdaten entgolten.
+
 312
 
-Verlängerung der Maßnahme im Fall der Nummer 311
+Verlängerung der Maßnahme im Fall der Nummer 311 ..........
 
    35,00 €
 
@@ -1592,41 +1593,41 @@ Leitungskosten für die Übermittlung der Verkehrsdaten in den Fällen der Numme
 
 313
 
-– wenn die Dauer der angeordneten Übermittlung nicht länger als eine Woche dauert
+– wenn die Dauer der angeordneten Übermittlung nicht länger als eine Woche dauert ..........
 
     8,00 €
 
 314
 
-– wenn die Dauer der angeordneten Übermittlung länger als eine Woche, jedoch nicht länger als zwei Wochen dauert
+– wenn die Dauer der angeordneten Übermittlung länger als eine Woche, jedoch nicht länger als zwei Wochen dauert ..........
 
    14,00 €
 
 315
 
 – wenn die Dauer der angeordneten Übermittlung länger als zwei Wochen dauert:
-je angefangenen Monat
+je angefangenen Monat ..........
 
    25,00 €
 
 316
 
-Übermittlung der Verkehrsdaten auf einem Datenträger
+Übermittlung der Verkehrsdaten auf einem Datenträger ..........
 
    10,00 €
 
-Abschnitt 4
-Sonstige Auskünfte
+**Abschnitt 4**
+**Sonstige Auskünfte**
 
 400
 
-Auskunft über den letzten dem Netz bekannten Standort eines Mobiltelefons (Standortabfrage)
+Auskunft über den letzten dem Netz bekannten Standort eines Mobiltelefons (Standortabfrage) ..........
 
    90,00 €
 
 401
 
 Auskunft über die Struktur von Funkzellen:
-je Funkzelle
+je Funkzelle ..........
 
    35,00 €.
