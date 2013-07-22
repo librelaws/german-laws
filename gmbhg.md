@@ -2,7 +2,7 @@ Gesetz betreffend die Gesellschaften mit beschränkter Haftung (GmbHG)
 =====================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 51 G v. 22.12.2011 I 3044
+Zuletzt geändert durch Art. 27 G v. 23.7.2013 I 2586
 
 ### 
 
@@ -220,7 +220,7 @@ die Zahl und die Nennbeträge der Geschäftsanteile, die jeder Gesellschafter ge
 
 ### § 4 Firma
 
-Die Firma der Gesellschaft muß, auch wenn sie nach § 22 des Handelsgesetzbuchs oder nach anderen gesetzlichen Vorschriften fortgeführt wird, die Bezeichnung "Gesellschaft mit beschränkter Haftung" oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten.
+Die Firma der Gesellschaft muß, auch wenn sie nach § 22 des Handelsgesetzbuchs oder nach anderen gesetzlichen Vorschriften fortgeführt wird, die Bezeichnung "Gesellschaft mit beschränkter Haftung" oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten. Verfolgt die Gesellschaft ausschließlich und unmittelbar steuerbegünstigte Zwecke nach den §§ 51 bis 68 der Abgabenordnung kann die Abkürzung „gGmbH“ lauten.
 
 ### § 4a Sitz der Gesellschaft
 
@@ -758,7 +758,7 @@ die Geltendmachung von Ersatzansprüchen, welche der Gesellschaft aus der Gründ
 
 ### § 51b Gerichtliche Entscheidung über das Auskunfts- und Einsichtsrecht
 
-Für die gerichtliche Entscheidung über das Auskunfts- und Einsichtsrecht findet § 132 Abs. 1, 3 bis 5 des Aktiengesetzes entsprechende Anwendung. Antragsberechtigt ist jeder Gesellschafter, dem die verlangte Auskunft nicht gegeben oder die verlangte Einsicht nicht gestattet worden ist.
+Für die gerichtliche Entscheidung über das Auskunfts- und Einsichtsrecht findet § 132 Abs. 1, 3 und 4 des Aktiengesetzes entsprechende Anwendung. Antragsberechtigt ist jeder Gesellschafter, dem die verlangte Auskunft nicht gegeben oder die verlangte Einsicht nicht gestattet worden ist.
 
 ### § 52 Aufsichtsrat
 
