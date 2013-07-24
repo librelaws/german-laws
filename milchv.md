@@ -2,7 +2,7 @@ Verordnung über Milcherzeugnisse (MilchErzV)
 ============================================
 
 Stand  
-Zuletzt geändert durch Art. 22 V v. 13.12.2011 I 2720
+Zuletzt geändert durch Art. 17 G v. 25.7.2013 I 2722
 
 ### 
 
@@ -98,7 +98,7 @@ nicht beachtet worden sind, dürfen nicht in den Verkehr gebracht werden.
 
 (1) Milcherzeugnisse dürfen nur in den Verkehr gebracht werden, wenn sie nach den Vorschriften dieser Verordnung gekennzeichnet sind. § 8 der Lebensmittel-Kennzeichnungsverordnung sowie § 9 der Zusatzstoff-Zulassungsverordnung sind anzuwenden.
 
-(2) Bei Milcherzeugnissen in Fertigpackungen im Sinne des § 6 Abs. 1 des Eichgesetzes, die zur Abgabe an den Verbraucher bestimmt sind, sind anzugeben
+(2) Bei Milcherzeugnissen in Fertigpackungen im Sinne des § 42 Absatz 1 des Mess- und Eichgesetzes, die zur Abgabe an den Verbraucher bestimmt sind, sind anzugeben
 
 1.  
 die Verkehrsbezeichnung nach Maßgabe des Absatzes 3,
@@ -162,7 +162,7 @@ bei Mischungen aus Nährkaseinen und Nährkaseinaten die Bezeichnung "Mischung a
 
 (4) Bei Fertigpackungen, deren größte Einzelfläche weniger als 10 qcm beträgt, können die Angaben nach Absatz 2 Satz 1 Nr. 2 und 3 entfallen.
 
-(5) Für die Art und Weise der Kennzeichnung nach den Absätzen 2 und 2a sowie die Kennzeichnung der Nennfüllmenge nach § 7 Abs. 1 des Eichgesetzes gilt § 3 Abs. 3 und 4 der Lebensmittel-Kennzeichnungsverordnung entsprechend. Die Angabe der Wärmebehandlung hat in engem räumlichen Zusammenhang mit jeder Angabe der Verkehrsbezeichnung zu erfolgen. Bei ungezuckerten Kondensmilcherzeugnissen und gezuckerten Kondensmilcherzeugnissen müssen die Angaben nach § 4 Abs. 1 Nr. 1 oder 2 und 4 Buchstabe a, bei Trockenmilcherzeugnissen die Angaben nach § 4 Abs. 1 Nr. 1 oder 2 und 5 Buchstabe d im gleichen Sichtfeld mit den Angaben nach Absatz 2 Satz 1 Nr. 1 und 4 stehen. Abweichend von Satz 1 brauchen
+(5) Für die Art und Weise der Kennzeichnung nach den Absätzen 2 und 2a sowie die Kennzeichnung der Nennfüllmenge nach § 43 Absatz 1 des Mess- und Eichgesetzes gilt § 3 Abs. 3 und 4 der Lebensmittel-Kennzeichnungsverordnung entsprechend. Die Angabe der Wärmebehandlung hat in engem räumlichen Zusammenhang mit jeder Angabe der Verkehrsbezeichnung zu erfolgen. Bei ungezuckerten Kondensmilcherzeugnissen und gezuckerten Kondensmilcherzeugnissen müssen die Angaben nach § 4 Abs. 1 Nr. 1 oder 2 und 4 Buchstabe a, bei Trockenmilcherzeugnissen die Angaben nach § 4 Abs. 1 Nr. 1 oder 2 und 5 Buchstabe d im gleichen Sichtfeld mit den Angaben nach Absatz 2 Satz 1 Nr. 1 und 4 stehen. Abweichend von Satz 1 brauchen
 
 1.  
 bei ungezuckerten Kondensmilcherzeugnissen, gezuckerten Kondensmilcherzeugnissen und Trockenmilcherzeugnissen mit einem Stückgewicht von weniger als 20 Gramm, die in einer Sammelpackung in den Verkehr gebracht werden, die Angaben nach Absatz 2 Satz 1 Nr. 4 und 5 sowie nach § 4 Abs. 1 Nr. 1 oder 2, 4 und 5 nur auf der Sammelpackung angebracht zu werden,
