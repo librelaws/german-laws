@@ -2,7 +2,10 @@ Verordnung über die Prüfung und Genehmigung der Bauart von Fahrzeugteilen sowi
 ==========================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 5 V v. 19.10.2012 I 2232
+Zuletzt geändert durch Art. 2 V v. 26.7.2013 I 2803
+
+Hinweis  
+Änderung durch Art. 171 (Nr. 16) G v. 29.3.2017 I 626 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -47,7 +50,7 @@ In den Fällen des Satzes 3 Nr. 1 und 2 muß der Beauftragte seinen Sitz in eine
 
 ### § 3 Anträge auf Bauartgenehmigung und Prüfung
 
-(1) Der Antrag auf Erteilung einer Bauartgenehmigung ist schriftlich unter Angabe der Typbezeichnung beim Kraftfahrt-Bundesamt zu stellen. Dem Antrag ist das Gutachten der Prüfstelle nach § 6 beizufügen.
+(1) Der Antrag auf Erteilung einer Bauartgenehmigung ist schriftlich oder elektronisch unter Angabe der Typbezeichnung beim Kraftfahrt-Bundesamt zu stellen. Dem Antrag ist das Gutachten der Prüfstelle nach § 6 beizufügen.
 
 (2) Abweichend von Absatz 1 kann der Antrag an das Kraftfahrt-Bundesamt über die zuständige Prüfstelle nach § 5 mit dem an die Prüfstelle gerichteten Antrag auf Prüfung eingereicht werden. Dem an die Prüfstelle zu richtenden Antrag auf Prüfung sind für die jeweiligen Fahrzeugteile Muster und Unterlagen nach Anlage 1 beizufügen. Weitere sachdienliche Muster und Unterlagen sind der Prüfstelle auf Anforderung zur Verfügung zu stellen.
 
@@ -55,9 +58,9 @@ In den Fällen des Satzes 3 Nr. 1 und 2 muß der Beauftragte seinen Sitz in eine
 
 ### § 4 Erteilung der Bauartgenehmigung
 
-(1) Das Kraftfahrt-Bundesamt erteilt die Bauartgenehmigung schriftlich. In der Bauartgenehmigung werden der genehmigte Typ, das zugeteilte Prüfzeichen sowie Nebenbestimmungen (§ 36 des Verwaltungsverfahrensgesetzes) und, soweit erforderlich, Ausnahmen von den Bestimmungen der Straßenverkehrs-Zulassungs-Ordnung festgelegt.
+(1) Das Kraftfahrt-Bundesamt erteilt die Bauartgenehmigung schriftlich oder elektronisch. In der Bauartgenehmigung werden der genehmigte Typ, das zugeteilte Prüfzeichen sowie Nebenbestimmungen (§ 36 des Verwaltungsverfahrensgesetzes) und, soweit erforderlich, Ausnahmen von den Bestimmungen der Straßenverkehrs-Zulassungs-Ordnung festgelegt.
 
-(2) Abweichungen vom genehmigten Typ sind nur zulässig, wenn die Bauartgenehmigung durch einen entsprechenden Nachtrag ergänzt worden ist oder wenn das Kraftfahrt-Bundesamt auf Anfrage schriftlich erklärt, daß für die vorgesehene Änderung eine Nachtragsgenehmigung nicht erforderlich ist.
+(2) Abweichungen vom genehmigten Typ sind nur zulässig, wenn die Bauartgenehmigung durch einen entsprechenden Nachtrag ergänzt worden ist oder wenn das Kraftfahrt-Bundesamt auf Anfrage schriftlich oder elektronisch erklärt, daß für die vorgesehene Änderung eine Nachtragsgenehmigung nicht erforderlich ist.
 
 ### § 5 Prüfstellen
 
@@ -96,7 +99,7 @@ F
 für Auflaufbremsen und Teile davon
 
 G  
-für Sicherheitsgurte, Rückhalteeinrichtungen für Kinder in Kraftfahrzeugen
+(weggefallen)
 
 K  
 für lichttechnische Einrichtungen
@@ -420,7 +423,7 @@ Abschnitt 5 Schlußvorschriften
 <tr class="even">
 <td><dl>
 <dt> </dt>
-<dd>Kennleuchten für blaues und für gelbes Blinklicht (§ 52 Abs. 3 und 4 StVZO)
+<dd>Kennleuchten für blaues, rotes und gelbes Blinklicht (§ 52 Abs. 3, 3a und 4 StVZO)
 </dd>
 </dl></td>
 </tr>
@@ -522,7 +525,7 @@ Abschnitt 5 Schlußvorschriften
 <tr class="even">
 <td><dl>
 <dt>10.</dt>
-<dd>Beleuchtungseinrichtungen für amtliche Kennzeichen (§ 60 Abs. 4 StVZO)
+<dd>Beleuchtungseinrichtungen für amtliche Kennzeichen (§ 10 Abs. 6 Satz 2 FZV) Beleuchtungseinrichtungen für transparente amtliche Kennzeichen (§ 10 FZV)
 </dd>
 </dl></td>
 </tr>
@@ -578,7 +581,7 @@ Abschnitt 5 Schlußvorschriften
 <tr class="even">
 <td><dl>
 <dt>16.</dt>
-<dd>Rückhalteeinrichtungen für Kinder in Kraftfahrzeugen (§ 21 Abs. 1a StVO)
+<dd>(weggefallen)
 </dd>
 </dl></td>
 </tr>
@@ -597,12 +600,20 @@ Abschnitt 5 Schlußvorschriften
 </dl></td>
 </tr>
 <tr class="odd">
+<td><dl>
+<dt>19.</dt>
+<dd>Warneinrichtungen mit einer Folge von Klängen verschiedener Grundfrequenz<br />
+(§ 55 Abs. 3 und 3a StVZO)
+</dd>
+</dl></td>
+</tr>
+<tr class="even">
 <td> </td>
 </tr>
 </tbody>
 </table>
 
-### Anlage 2 Teil 1 (zu § 5 Abs. 1 Satz 2 Nr. 1 und 2, § 7 Abs. 3) Zuständige Prüfstellen für bestimmte Fahrzeugteile und ihre bisher zugeteilten Kennbuchstaben
+### Anlage 2 Teil 1 (zu § 5 Abs. 1 Satz 2 Nr. 1 und 2, § 7 Abs. 3)Zuständige Prüfstellen für bestimmte Fahrzeugteile und ihre bisher zugeteilten Kennbuchstaben
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2153
 
@@ -626,17 +637,17 @@ Nordrhein-Westfalen
 
 E
 
-Landeseichdirektion
+TÜV NORD Mobilität GmbH & Co. KG
 
 -
 
 Fahrtschreiber
 
-Nordrhein-Westfalen
+IFM – Institut für Fahrzeugtechnik und Mobilität
 
-Postfach 30 08 33
+Am TÜV 1
 
-50778 Köln
+30519 Hannover
 
 F
 
