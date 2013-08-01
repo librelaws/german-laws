@@ -2,13 +2,10 @@ Verordnung über die Qualität von Wasser für den menschlichen Gebrauch (Trinkw
 ====================================================================================
 
 Neuf  
-Neugefasst durch Bek. v. 28.11.2011 I 2370
+Neugefasst durch Bek. v. 2.8.2013 I 2977
 
 Stand  
-Geändert durch Art. 2 Abs. 19 G v. 22.12.2011 I 3044
-
-Hinweis  
-Änderung durch Art. 1 V v. 5.12.2012 I 2562 (Nr. 58) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch Art. 4 Abs. 22 G v. 7.8.2013 I 3154
 
 ### 
 
@@ -48,10 +45,10 @@ Heilwasser im Sinne des § 2 Absatz 1 des Arzneimittelgesetzes,
 Schwimm- und Badebeckenwasser,
 
 4.  
-Wasser, das sich in wasserführenden, an die Trinkwasser-Installation angeschlossenen Apparaten befindet, die
+Wasser, das sich in wasserführenden, an die Trinkwasser- Installation angeschlossenen Apparaten befindet, die
 
 a)  
-entsprechend den allgemein anerkannten Regeln der Technik nicht Teil der Trinkwasser-Installation entsprechend den allgemein anerkannten Regeln der Technik sind und
+entsprechend den allgemein anerkannten Regeln der Technik nicht Teil der Trinkwasser- Installation entsprechend den allgemein anerkannten Regeln der Technik sind und
 
 b)  
 mit einer den allgemein anerkannten Regeln der Technik entsprechenden Sicherungseinrichtung ausgerüstet sein müssen,
@@ -65,7 +62,7 @@ und das sich hinter einer Sicherungseinrichtung nach Buchstabe b befindet.
 Im Sinne dieser Verordnung
 
 1.  
-ist „Trinkwasser“ für jeden Aggregatzustand des Wassers und ungeachtet dessen, ob es für die Bereitstellung auf Leitungswegen, in Wassertransport-Fahrzeugen oder verschlossenen Behältnissen bestimmt ist,
+ist „Trinkwasser“ für jeden Aggregatzustand des Wassers und ungeachtet dessen, ob es für die Bereitstellung auf Leitungswegen, in Wassertransport- Fahrzeugen oder verschlossenen Behältnissen bestimmt ist,
 
 a)  
 alles Wasser, im ursprünglichen Zustand oder nach Aufbereitung, das zum Trinken, zum Kochen, zur Zubereitung von Speisen und Getränken oder insbesondere zu den folgenden anderen häuslichen Zwecken bestimmt ist:
@@ -92,19 +89,19 @@ b)
 Anlagen einschließlich des dazugehörigen Leitungsnetzes, aus denen pro Tag weniger als 10 Kubikmeter Trinkwasser entnommen oder im Rahmen einer gewerblichen oder öffentlichen Tätigkeit genutzt werden, ohne dass eine Anlage nach Buchstabe a oder Buchstabe c vorliegt (dezentrale kleine Wasserwerke);
 
 c)  
-Anlagen einschließlich der dazugehörigen Trinkwasser-Installation, aus denen pro Tag weniger als 10 Kubikmeter Trinkwasser zur eigenen Nutzung entnommen werden (Kleinanlagen zur Eigenversorgung);
+Anlagen einschließlich der dazugehörigen Trinkwasser- Installation, aus denen pro Tag weniger als 10 Kubikmeter Trinkwasser zur eigenen Nutzung entnommen werden (Kleinanlagen zur Eigenversorgung);
 
 d)  
-Anlagen an Bord von Land-, Wasser- und Luftfahrzeugen und andere mobile Versorgungsanlagen einschließlich aller Rohrleitungen, Armaturen, Apparate sowie der Trinkwasservorratsbehälter (Wasserspeicher), die sich zwischen dem Punkt der Übernahme von Trinkwasser aus einer Anlage nach Buchstabe a, b oder Buchstabe f und dem Punkt der Entnahme des Trinkwassers befinden; bei an Bord betriebener Wassergewinnungsanlage ist diese ebenfalls mit eingeschlossen (mobile Versorgungsanlagen);
+Anlagen an Bord von Land- , Wasser- und Luftfahrzeugen und andere mobile Versorgungsanlagen einschließlich aller Rohrleitungen, Armaturen, Apparate sowie der Trinkwasservorratsbehälter (Wasserspeicher), die sich zwischen dem Punkt der Übernahme von Trinkwasser aus einer Anlage nach Buchstabe a, b oder Buchstabe f und dem Punkt der Entnahme des Trinkwassers befinden; bei an Bord betriebener Wassergewinnungsanlage ist diese ebenfalls mit eingeschlossen (mobile Versorgungsanlagen);
 
 e)  
-Anlagen der Trinkwasser-Installation, aus denen Trinkwasser aus einer Anlage nach Buchstabe a oder Buchstabe b an Verbraucher abgegeben wird (ständige Wasserverteilung);
+Anlagen der Trinkwasser- Installation, aus denen Trinkwasser aus einer Anlage nach Buchstabe a oder Buchstabe b an Verbraucher abgegeben wird (ständige Wasserverteilung);
 
 f)  
 Anlagen, aus denen Trinkwasser entnommen oder an Verbraucher abgegeben wird und die zeitweilig betrieben werden oder zeitweilig an eine Anlage nach Buchstabe a, b oder Buchstabe e angeschlossen sind (zeitweise Wasserverteilung);
 
 3.  
-ist „Trinkwasser-Installation“ die Gesamtheit der Rohrleitungen, Armaturen und Apparate, die sich zwischen dem Punkt des Übergangs von Trinkwasser aus einer Wasserversorgungsanlage an den Nutzer und dem Punkt der Entnahme von Trinkwasser befinden;
+ist „Trinkwasser- Installation“ die Gesamtheit der Rohrleitungen, Armaturen und Apparate, die sich zwischen dem Punkt des Übergangs von Trinkwasser aus einer Wasserversorgungsanlage an den Nutzer und dem Punkt der Entnahme von Trinkwasser befinden;
 
 4.  
 ist „Wasserversorgungsgebiet“ ein geografisch definiertes Gebiet, in dem das an Verbraucher oder an Zwischenabnehmer abgegebene Trinkwasser aus einem oder mehreren Wasservorkommen stammt, und in dem die erwartbare Trinkwasserqualität als nahezu einheitlich angesehen werden kann;
@@ -122,7 +119,7 @@ ist „Rohwasser“ Wasser, das mit einer Wassergewinnungsanlage der Ressource e
 sind „Aufbereitungsstoffe“ alle Stoffe, die bei der Gewinnung, Aufbereitung und Verteilung des Trinkwassers bis zur Entnahmestelle eingesetzt werden und durch die sich die Zusammensetzung des entnommenen Trinkwassers verändern kann;
 
 9.  
-ist „technischer Maßnahmenwert“ ein Wert, bei dessen Überschreitung eine von der Trinkwasser-Installation ausgehende vermeidbare Gesundheitsgefährdung zu besorgen ist und Maßnahmen zur hygienisch-technischen Überprüfung der Trinkwasser-Installation im Sinne einer Gefährdungsanalyse eingeleitet werden;
+ist „technischer Maßnahmenwert“ ein Wert, bei dessen Überschreitung eine von der Trinkwasser- Installation ausgehende vermeidbare Gesundheitsgefährdung zu besorgen ist und Maßnahmen zur hygienisch- technischen Überprüfung der Trinkwasser- Installation im Sinne einer Gefährdungsanalyse eingeleitet werden;
 
 10.  
 ist „gewerbliche Tätigkeit“ die unmittelbare oder mittelbare, zielgerichtete Trinkwasserbereitstellung im Rahmen einer Vermietung oder einer sonstigen selbstständigen, regelmäßigen und in Gewinnerzielungsabsicht ausgeübten Tätigkeit;
@@ -134,7 +131,7 @@ ist „öffentliche Tätigkeit“ die Trinkwasserbereitstellung für einen unbes
 ist „Großanlage zur Trinkwassererwärmung“ eine Anlage mit
 
 a)  
-Speicher-Trinkwassererwärmer oder zentralem Durchfluss-Trinkwassererwärmer jeweils mit einem Inhalt von mehr als 400 Litern oder
+Speicher- Trinkwassererwärmer oder zentralem Durchfluss- Trinkwassererwärmer jeweils mit einem Inhalt von mehr als 400 Litern oder
 
 b)  
 einem Inhalt von mehr als 3 Litern in mindestens einer Rohrleitung zwischen Abgang des Trinkwassererwärmers und Entnahmestelle; nicht berücksichtigt wird der Inhalt einer Zirkulationsleitung;
@@ -185,13 +182,13 @@ entsprechende Anlagen in Ein- und Zweifamilienhäusern zählen nicht zu Großanl
 Die nach § 5 Absatz 2 und 3 sowie § 6 Absatz 2 festgelegten Grenzwerte sowie die nach § 7 festgelegten Grenzwerte und Anforderungen gelten
 
 1.  
-bei Trinkwasser, das auf Grundstücken oder in Gebäuden und Einrichtungen oder in Land-, Wasser- oder Luftfahrzeugen auf Leitungswegen bereitgestellt wird, am Austritt aus denjenigen Zapfstellen, die sich in einer Trinkwasser-Installation befinden und die der Entnahme von Trinkwasser dienen,
+bei Trinkwasser, das auf Grundstücken oder in Gebäuden und Einrichtungen oder in Land- , Wasser- oder Luftfahrzeugen auf Leitungswegen bereitgestellt wird, am Austritt aus denjenigen Zapfstellen, die sich in einer Trinkwasser- Installation befinden und die der Entnahme von Trinkwasser dienen,
 
 2.  
-bei Trinkwasser in einem an die Trinkwasser-Installation angeschlossenen Apparat, der entsprechend den allgemein anerkannten Regeln der Technik nicht Teil der Trinkwasser-Installation ist, an der nach den allgemein anerkannten Regeln der Technik notwendigen Sicherungseinrichtung,
+bei Trinkwasser in einem an die Trinkwasser- Installation angeschlossenen Apparat, der entsprechend den allgemein anerkannten Regeln der Technik nicht Teil der Trinkwasser- Installation ist, an der nach den allgemein anerkannten Regeln der Technik notwendigen Sicherungseinrichtung,
 
 3.  
-bei Trinkwasser aus Wassertransport-Fahrzeugen an der Entnahmestelle am Fahrzeug,
+bei Trinkwasser aus Wassertransport- Fahrzeugen an der Entnahmestelle am Fahrzeug,
 
 4.  
 bei Trinkwasser, das zur Abgabe in verschlossenen Behältnissen bestimmt ist, am Punkt der Abfüllung.
@@ -221,7 +218,7 @@ Die Unterbrechung des Betriebes und die Wiederinbetriebnahme der in einem Wasser
 
 (6) Wird dem Gesundheitsamt bekannt, dass in einem Wasserversorgungsgebiet Mikroorganismen oder chemische Stoffe vorkommen, die eine Gefährdung der menschlichen Gesundheit besorgen lassen und für die in den Anlagen 1 und 2 kein Grenzwert aufgeführt ist, legt das Gesundheitsamt unter Beachtung von § 5 Absatz 1 und § 6 Absatz 1 fest, bis zu welchen Konzentrationen und für welchen Zeitraum diese Mikroorganismen oder chemischen Stoffe im Trinkwasser enthalten sein dürfen. Absatz 7 bleibt unberührt.
 
-(7) Werden Tatsachen bekannt, wonach eine Nichteinhaltung oder Nichterfüllung der in den §§ 5 bis 7 festgelegten Grenzwerte oder Anforderungen auf die Trinkwasser-Installation oder deren unzulängliche Instandhaltung zurückzuführen ist, so ordnet das Gesundheitsamt an, dass
+(7) Werden Tatsachen bekannt, wonach eine Nichteinhaltung oder Nichterfüllung der in den §§ 5 bis 7 festgelegten Grenzwerte oder Anforderungen auf die Trinkwasser- Installation oder deren unzulängliche Instandhaltung zurückzuführen ist, so ordnet das Gesundheitsamt an, dass
 
 1.  
 geeignete Maßnahmen zu ergreifen sind, um die aus der Nichteinhaltung oder Nichterfüllung möglicherweise resultierenden gesundheitlichen Gefahren zu beseitigen oder zu verringern, und
@@ -229,9 +226,9 @@ geeignete Maßnahmen zu ergreifen sind, um die aus der Nichteinhaltung oder Nich
 2.  
 die betroffenen Verbraucher über mögliche, in ihrer eigenen Verantwortung liegende zusätzliche Maßnahmen oder Verwendungseinschränkungen des Trinkwassers, die sie vornehmen sollten, angemessen zu informieren und zu beraten sind.
 
-Bei Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe e, die nicht im Rahmen einer öffentlichen Tätigkeit betrieben werden, kann das Gesundheitsamt dies anordnen. Zu Zwecken des Satzes 1 hat das Gesundheitsamt den Unternehmer oder den sonstigen Inhaber der Anlage der Trinkwasser-Installation über mögliche Maßnahmen zu beraten.
+Bei Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe e, die nicht im Rahmen einer öffentlichen Tätigkeit betrieben werden, kann das Gesundheitsamt dies anordnen. Zu Zwecken des Satzes 1 hat das Gesundheitsamt den Unternehmer oder den sonstigen Inhaber der Anlage der Trinkwasser- Installation über mögliche Maßnahmen zu beraten.
 
-(8) Wird dem Gesundheitsamt bekannt, dass der in Anlage 3 Teil II festgelegte technische Maßnahmenwert in einer Trinkwasser-Installation überschritten wird, und kommt der Unternehmer oder der sonstige Inhaber der verursachenden Wasserversorgungsanlage seinen Pflichten nach § 16 Absatz 7 nicht nach, fordert das Gesundheitsamt diesen auf, diese Pflichten zu erfüllen. Kommt der Unternehmer oder der sonstige Inhaber der Wasserversorgungsanlage seinen Pflichten auch nach der Aufforderung durch das Gesundheitsamt nicht fristgemäß und vollständig nach, prüft das Gesundheitsamt, ob und in welchem Zeitraum Maßnahmen zum Gesundheitsschutz erforderlich sind, und ordnet diese gegebenenfalls an. Befugnisse des Gesundheitsamtes aus § 20 bleiben unberührt.
+(8) Wird dem Gesundheitsamt bekannt, dass der in Anlage 3 Teil II festgelegte technische Maßnahmenwert in einer Trinkwasser- Installation überschritten wird, und kommt der Unternehmer oder der sonstige Inhaber der verursachenden Wasserversorgungsanlage seinen Pflichten nach § 16 Absatz 7 nicht nach, fordert das Gesundheitsamt diesen auf, diese Pflichten zu erfüllen. Kommt der Unternehmer oder der sonstige Inhaber der Wasserversorgungsanlage seinen Pflichten auch nach der Aufforderung durch das Gesundheitsamt nicht fristgemäß und vollständig nach, prüft das Gesundheitsamt, ob und in welchem Zeitraum Maßnahmen zum Gesundheitsschutz erforderlich sind, und ordnet diese gegebenenfalls an. Befugnisse des Gesundheitsamtes aus § 20 bleiben unberührt.
 
 (9) Für Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe c gelten die Absätze 1 bis 7 entsprechend. Bei Nichteinhaltung oder Nichterfüllung der in § 6 festgelegten Grenzwerte oder Anforderungen kann das Gesundheitsamt nach Prüfung im Einzelfall und nach Zustimmung der zuständigen obersten Landesbehörde oder einer von dieser benannten Stelle von der Anordnung von Maßnahmen absehen, soweit eine Gefährdung der menschlichen Gesundheit ausgeschlossen werden kann. Das Gesundheitsamt legt fest, bis zu welchem Wert und für welchen Zeitraum die Nichteinhaltung oder Nichterfüllung geduldet wird.
 
@@ -254,7 +251,7 @@ Der Unternehmer oder der sonstige Inhaber der verursachenden Wasserversorgungsan
 
 (3) Die Zulassung der Abweichung nach Absatz 2 ist so kurz wie möglich zu befristen und darf drei Jahre nicht überschreiten. Bei Wasserversorgungsgebieten, in denen mehr als 1 000 Kubikmeter pro Tag geliefert oder mehr als 5 000 Personen versorgt werden, unterrichtet das Gesundheitsamt auf dem Dienstweg innerhalb von sechs Wochen das Bundesministerium für Gesundheit oder eine von diesem benannte Stelle über die Entscheidung.
 
-(4) Absatz 2 gilt nicht für Trinkwasser, dass zur Abgabe in Behältnissen bestimmt ist, außer wenn dieses zeitlich begrenzt bis zur Wiederherstellung der regulären Wasserversorgung als Ersatz für eine leitungsgebundene Wasserversorgung an Verbraucher abgegeben wird.
+(4) Absatz 2 gilt nicht für Trinkwasser, das zur Abgabe in Behältnissen bestimmt ist, außer wenn dieses zeitlich begrenzt bis zur Wiederherstellung der regulären Wasserversorgung als Ersatz für eine leitungsgebundene Wasserversorgung an Verbraucher abgegeben wird.
 
 (5) Vor Ablauf des zugelassenen Abweichungszeitraums prüft das Gesundheitsamt, ob geeignete Maßnahmen getroffen wurden, durch die der Parameter sich wieder in einem zulässigen Wertebereich befindet. Ist dies nicht der Fall, kann das Gesundheitsamt nach Zustimmung der zuständigen obersten Landesbehörde oder einer von dieser benannten Stelle eine Abweichung nochmals für höchstens drei Jahre zulassen. Das Gesundheitsamt informiert innerhalb von sechs Wochen nach der erneuten Zulassung das Bundesministerium für Gesundheit oder eine von diesem benannte Stelle auf dem Dienstweg über die Gründe für diese Zulassung.
 
@@ -269,7 +266,7 @@ die Kennzeichnung und geografische Beschreibung des Wasserversorgungsgebietes, d
 den Grund für die Nichteinhaltung des betreffenden Grenzwertes;
 
 3.  
-die Überwachungsergebnisse aus den letzten drei Jahren (Minimal-, Median- und Maximalwerte);
+die Überwachungsergebnisse aus den letzten drei Jahren (Minimal- , Median- und Maximalwerte);
 
 4.  
 die Anzahl der betroffenen Personen und die Angabe, ob relevante Lebensmittelbetriebe betroffen sind oder nicht;
@@ -283,7 +280,7 @@ eine Zusammenfassung der notwendigen Maßnahmen mit einem Zeitplan für die Arbe
 7.  
 die erforderliche Dauer der Abweichung und den für die Abweichung vorgesehenen höchstzulässigen Wert für den betreffenden Parameter.
 
-Die Mitteilungen erfolgen in dem von der Europäischen Kommission nach Artikel 13 Absatz 4 der Richtlinie 98/83/EG des Rates vom 3. November 1998 über die Qualität von Wasser für den menschlichen Gebrauch (ABl. L 330 vom 5.12.1998, S. 32) festgelegten Format und mit den dort genannten Mindestinformationen in der vom Bundesministerium für Gesundheit nach Beteiligung der Länder mitgeteilten Form. Darüber hinausgehende Formatvorgaben durch das Bundesministerium für Gesundheit, insbesondere für einheitliche EDV-Verfahren, bedürfen der Zustimmung des Bundesrates.
+Die Mitteilungen erfolgen in dem von der Europäischen Kommission nach Artikel 13 Absatz 4 der Richtlinie 98/83/EG des Rates vom 3. November 1998 über die Qualität von Wasser für den menschlichen Gebrauch (ABl. L 330 vom 5.12.1998, S. 32) festgelegten Format und mit den dort genannten Mindestinformationen in der vom Bundesministerium für Gesundheit nach Beteiligung der Länder mitgeteilten Form. Darüber hinausgehende Formatvorgaben durch das Bundesministerium für Gesundheit, insbesondere für einheitliche EDV- Verfahren, bedürfen der Zustimmung des Bundesrates.
 
 (8) Das Gesundheitsamt hat durch entsprechende Anordnung bei der Zulassung von Abweichungen oder der Einschränkung der Verwendung von Trinkwasser sicherzustellen, dass die von der Abweichung oder Verwendungseinschränkung betroffene Bevölkerung sowie der Unternehmer oder der sonstige Inhaber einer betroffenen anderen Wasserversorgungsanlage von dem Unternehmer und dem sonstigen Inhaber der verursachenden Wasserversorgungsanlage oder von der zuständigen Behörde unverzüglich und angemessen über diese Maßnahmen und die damit verbundenen Bedingungen in Kenntnis gesetzt sowie gegebenenfalls auf Maßnahmen zum eigenen Schutz hingewiesen werden. Außerdem hat das Gesundheitsamt sicherzustellen, dass bestimmte Bevölkerungsgruppen, für die die Abweichung eine besondere Gefahr bedeuten könnte, informiert und gegebenenfalls auf Maßnahmen zum eigenen Schutz hingewiesen werden.
 
@@ -336,7 +333,7 @@ in einem anderen Mitgliedstaat der Europäischen Union oder der Türkei rechtmä
 
 werden in die in Absatz 1 genannte Liste aufgenommen, wenn das Umweltbundesamt festgestellt hat, dass mit ihnen das in Deutschland geforderte Schutzniveau gleichermaßen dauerhaft erreicht wird. Das Ergebnis von Prüfungen, die bereits im Herkunftsmitgliedstaat, der Türkei oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum vorgenommen worden sind, wird bei dieser Feststellung durch das Umweltbundesamt berücksichtigt.
 
-(4) Das Umweltbundesamt entscheidet über die Erstellung und Fortschreibung der Liste, insbesondere über die Aufnahme von Aufbereitungsstoffen und Desinfektionsverfahren, nach Anhörung der Länder, der Bundeswehr und des Eisenbahn-Bundesamtes, des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe sowie der beteiligten Fachkreise und Verbände.
+(4) Das Umweltbundesamt entscheidet über die Erstellung und Fortschreibung der Liste, insbesondere über die Aufnahme von Aufbereitungsstoffen und Desinfektionsverfahren, nach Anhörung der Länder, der Bundeswehr und des Eisenbahn- Bundesamtes, des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe sowie der beteiligten Fachkreise und Verbände.
 
 (5) Der Unternehmer und der sonstige Inhaber von Wasserversorgungsanlagen, Behörden, technische Regelsetzer im Bereich der Versorgung mit Trinkwasser sowie diejenigen, die Aufbereitungsstoffe oder Desinfektionsverfahren herstellen, einführen oder verwenden, können beim Umweltbundesamt Anträge stellen, um Aufbereitungsstoffe oder Desinfektionsverfahren in die Liste nach Absatz 1 aufnehmen zu lassen. Sie haben die erforderlichen Unterlagen zum Nachweis der Voraussetzungen nach Absatz 3 zu übermitteln. Wenn das Umweltbundesamt feststellt, dass die Voraussetzungen des Absatzes 3 erfüllt sind, nimmt es den Aufbereitungsstoff oder das Desinfektionsverfahren bei der nächsten Fortschreibung in die Liste nach Absatz 1 auf.
 
@@ -407,11 +404,9 @@ Unterlagen über die Schutzzonen oder, soweit solche nicht festgelegt sind, Unte
 
 (4) Der Unternehmer und der sonstige Inhaber von Anlagen, die zur Entnahme oder Abgabe von Wasser bestimmt sind, das keine Trinkwasserqualität hat, und die im Haushalt zusätzlich zu den Wasserversorgungsanlagen nach § 3 Nummer 2 installiert sind, haben den Bestand unverzüglich der zuständigen Behörde anzuzeigen. Im Übrigen gelten die Anzeigepflichten für Wasserversorgungsanlagen nach Absatz 1 Nummer 1, 2 und 4 sowie Absatz 3 Nummer 1 und 2 entsprechend.
 
-(5) (weggefallen)
-
 ### § 14 Untersuchungspflichten
 
-(1) Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe a oder Buchstabe b haben unter Beachtung von Absatz 6 folgende Untersuchungen des Trinkwassers gemäß Absatz 2 Satz 1 und § 15 Absatz 1 und 2 durchzuführen oder durchführen zu lassen, um sicherzustellen, dass das Trinkwasser an der Stelle, an der es in die Trinkwasser-Installation übergeben wird, den Anforderungen dieser Verordnung entspricht:
+(1) Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe a oder Buchstabe b haben unter Beachtung von Absatz 6 folgende Untersuchungen des Trinkwassers gemäß Absatz 2 Satz 1 und § 15 Absatz 1 und 2 durchzuführen oder durchführen zu lassen, um sicherzustellen, dass das Trinkwasser an der Stelle, an der es in die Trinkwasser- Installation übergeben wird, den Anforderungen dieser Verordnung entspricht:
 
 1.  
 mikrobiologische Untersuchungen zur Feststellung, ob die in § 5 Absatz 2 oder Absatz 3 in Verbindung mit Anlage 1 festgelegten Grenzwerte eingehalten werden;
@@ -444,7 +439,7 @@ Untersuchungen zur Feststellung, ob die Anforderungen des § 11 eingehalten werd
 
 (2) Die Untersuchungen auf die in Anlage 2 und 3 genannten Parameter sind nach Methoden durchzuführen, die hinreichend zuverlässige Messwerte liefern und dabei die in Anlage 5 Teil II und III genannten spezifizierten Verfahrenskennwerte einhalten.
 
-(3) Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage haben das Ergebnis jeder Untersuchung nach den §§ 14 und 20 unverzüglich schriftlich oder auf Datenträgern mit den Angaben nach Satz 2 aufzuzeichnen oder aufzeichnen zu lassen. Es sind der Ort der Probennahme nach Gemeinde, Straße, Hausnummer und Entnahmestelle, die Zeitpunkte der Entnahme sowie der Untersuchung der Wasserprobe und das bei der Untersuchung angewandte Verfahren anzugeben. Die zuständige oberste Landesbehörde oder eine andere auf Grund Landesrechts zuständige Stelle kann bestimmen, dass für die Niederschriften einheitliche Vordrucke zu verwenden oder einheitliche EDV-Verfahren anzuwenden sind. Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage haben eine Kopie der Niederschrift innerhalb von zwei Wochen nach dem Abschluss der Untersuchung dem Gesundheitsamt zu übersenden und das Original ebenso wie die in § 19 Absatz 4 Satz 3 genannte Ausfertigung vom Zeitpunkt der Untersuchung an mindestens zehn Jahre lang verfügbar zu halten. Eine Kopie der Niederschrift für Untersuchungen nach § 14 Absatz 3 ist dem Gesundheitsamt nicht zu übersenden. § 16 Absatz 1 Satz 1 bleibt unberührt.
+(3) Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage haben das Ergebnis jeder Untersuchung nach den §§ 14 und 20 unverzüglich schriftlich oder auf Datenträgern mit den Angaben nach Satz 2 aufzuzeichnen oder aufzeichnen zu lassen. Es sind der Ort der Probennahme nach Gemeinde, Straße, Hausnummer und Entnahmestelle, die Zeitpunkte der Entnahme sowie der Untersuchung der Wasserprobe und das bei der Untersuchung angewandte Verfahren anzugeben. Die zuständige oberste Landesbehörde oder eine andere auf Grund Landesrechts zuständige Stelle kann bestimmen, dass für die Niederschriften einheitliche Vordrucke zu verwenden oder einheitliche EDV- Verfahren anzuwenden sind. Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage haben eine Kopie der Niederschrift innerhalb von zwei Wochen nach dem Abschluss der Untersuchung dem Gesundheitsamt zu übersenden und das Original ebenso wie die in § 19 Absatz 4 Satz 3 genannte Ausfertigung vom Zeitpunkt der Untersuchung an mindestens zehn Jahre lang verfügbar zu halten. Eine Kopie der Niederschrift für Untersuchungen nach § 14 Absatz 3 ist dem Gesundheitsamt nicht zu übersenden. § 16 Absatz 1 Satz 1 bleibt unberührt.
 
 (4) Die nach den §§ 14, 16 Absatz 2 und 3 sowie den §§ 19 und 20 erforderlichen Untersuchungen einschließlich der Probennahmen dürfen nur von dafür zugelassenen Untersuchungsstellen durchgeführt werden. Die zuständige oberste Landesbehörde oder eine von ihr benannte Stelle erteilt einer Untersuchungsstelle, die im jeweiligen Land tätig und nicht bereits durch ein anderes Land zugelassen ist, auf Antrag die Zulassung, wenn die Untersuchungsstelle
 
@@ -490,7 +485,7 @@ Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage haben dem
 
 (2) Bei Feststellungen nach Absatz 1 Satz 1 oder bei bekannt gewordenen Veränderungen nach Absatz 1 Satz 2 und 3 sind der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe a, b, c oder, sofern Trinkwasser im Rahmen einer gewerblichen oder öffentlichen Tätigkeit abgegeben wird, nach Buchstabe d verpflichtet, unverzüglich Untersuchungen zur Aufklärung der Ursache und Sofortmaßnahmen zur Abhilfe durchzuführen oder durchführen zu lassen. § 9 Absatz 9 bleibt unberührt.
 
-(3) Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe c, d, e oder Buchstabe f haben in den Fällen, in denen ihnen die Feststellung von Tatsachen bekannt wird, nach welchen das Trinkwasser in der Trinkwasser-Installation in einer Weise verändert ist, dass es den Anforderungen der §§ 5 bis 7 nicht entspricht, erforderlichenfalls unverzüglich Untersuchungen zur Aufklärung der Ursache und erforderlichenfalls Maßnahmen zur Abhilfe durchzuführen oder durchführen zu lassen und darüber das Gesundheitsamt unverzüglich zu unterrichten.
+(3) Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe c, d, e oder Buchstabe f haben in den Fällen, in denen ihnen die Feststellung von Tatsachen bekannt wird, nach welchen das Trinkwasser in der Trinkwasser- Installation in einer Weise verändert ist, dass es den Anforderungen der §§ 5 bis 7 nicht entspricht, erforderlichenfalls unverzüglich Untersuchungen zur Aufklärung der Ursache und erforderlichenfalls Maßnahmen zur Abhilfe durchzuführen oder durchführen zu lassen und darüber das Gesundheitsamt unverzüglich zu unterrichten.
 
 (4) Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe a und b, oder, sofern Trinkwasser im Rahmen einer gewerblichen oder öffentlichen Tätigkeit abgegeben wird, nach Buchstabe d und e oder Buchstabe f haben die nach § 11 Absatz 1 Satz 1 oder § 12 Absatz 1 verwendeten Aufbereitungsstoffe sowie ihre Konzentrationen im Trinkwasser schriftlich oder auf Datenträgern mindestens wöchentlich aufzuzeichnen oder aufzeichnen zu lassen. Für Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe d, e und f kann das Umweltbundesamt in der Liste nach § 11 Absatz 1 oder in der Ausnahmegenehmigung nach § 12 Absatz 1 eine abweichende Aufzeichnungshäufigkeit festlegen. Die Aufzeichnungen sind vom Zeitpunkt der Verwendung der Stoffe an sechs Monate lang für die Anschlussnehmer und Verbraucher während der üblichen Geschäftszeiten zugänglich zu halten oder auf Anfrage zur Verfügung zu stellen. Sofern das Trinkwasser an Anschlussnehmer oder Verbraucher abgegeben wird, haben der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe a, b, d, e oder Buchstabe f ferner bei Beginn der Zugabe eines Aufbereitungsstoffes nach § 11 Absatz 1 Satz 1 oder § 12 Absatz 1 diesen und seine Konzentration im Trinkwasser unverzüglich den betroffenen Anschlussnehmern und Verbrauchern unmittelbar schriftlich bekannt zu geben. Darüber hinaus sind alle verwendeten Aufbereitungsstoffe regelmäßig einmal jährlich den betroffenen Anschlussnehmern und Verbrauchern unmittelbar schriftlich bekannt zu geben. Für Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe a und b kann die Bekanntmachung in den örtlichen Tageszeitungen erfolgen. Im Fall von Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe e, die im Rahmen einer gewerblichen oder öffentlichen Tätigkeit betrieben werden, kann die Bekanntmachung durch Aushang an geeigneter Stelle erfolgen.
 
@@ -502,7 +497,7 @@ wie in den Fällen, in denen nach § 9 Absatz 3 Satz 2 die Wasserversorgung sofo
 2.  
 welche Stellen im Falle einer festgestellten Abweichung zu informieren sind und wer zur Übermittlung dieser Information verpflichtet ist.
 
-Der Maßnahmeplan muss spätestens zur Inbetriebnahme vorliegen, ist bei wesentlichen Änderungen zu aktualisieren und bedarf der Zustimmung des zuständigen Gesundheitsamtes. Die zuständige oberste Landesbehörde oder eine andere auf Grund Landesrechts zuständige Stelle kann bestimmen, dass für die Maßnahmepläne einheitliche Vordrucke zu verwenden oder einheitliche EDV-Verfahren anzuwenden sind.
+Der Maßnahmeplan muss spätestens zur Inbetriebnahme vorliegen, ist bei wesentlichen Änderungen zu aktualisieren und bedarf der Zustimmung des zuständigen Gesundheitsamtes. Die zuständige oberste Landesbehörde oder eine andere auf Grund Landesrechts zuständige Stelle kann bestimmen, dass für die Maßnahmepläne einheitliche Vordrucke zu verwenden oder einheitliche EDV- Verfahren anzuwenden sind.
 
 (6) Besondere Anzeige- und Handlungspflichten in Anlage 3 Teil I laufende Nummer 2, 10, 11 und 18 bleiben unberührt.
 
@@ -549,7 +544,7 @@ Positivlisten von Werkstoffen und Materialien, deren Prüfung ergeben hat, dass 
 
 Das Umweltbundesamt entscheidet, für welche Werkstoff- oder Materialgruppen es Bewertungsgrundlagen festlegt. Hat es Bewertungsgrundlagen für eine Werkstoff- oder Materialgruppe festgelegt, so gelten sie nach Ablauf von zwei Jahren nach ihrer Veröffentlichung verbindlich. Enthalten die Bewertungsgrundlagen Positivlisten nach Satz 2 Nummer 2 oder Nummer 3, dürfen für die Neuerrichtung oder die Instandhaltung von Anlagen nach Absatz 2 nur solche Ausgangsstoffe, Werkstoffe und Materialien verwendet werden, die auf den Positivlisten geführt sind.
 
-(4) Die Bewertungsgrundlagen nach Absatz 3 Satz 2 Nummer 1 legt das Umweltbundesamt von Amts wegen fest und schreibt sie fort. Die Bewertungsgrundlagen nach Absatz 3 Satz 2 Nummer 2 und 3 werden vom Umweltbundesamt auf Antrag festgelegt oder fortgeschrieben. Anträge müssen die erforderlichen Unterlagen zum Nachweis der Voraussetzungen nach Absatz 2 Satz 1 und nach Absatz 3 Satz 2 Nummer 1 enthalten. Auf die Voraussetzungen nach Absatz 2 Satz 1 und Absatz 3 bezogene Prüfungen und Beurteilungen, die in einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Türkei durchgeführt worden sind, werden anerkannt. Liegt ein öffentliches Interesse vor, kann das Umweltbundesamt auch Bewertungsgrundlagen nach Absatz 3 Satz 2 Nummer 2 und 3 von Amts wegen festlegen oder fortschreiben. Vor der Festlegung und Fortschreibung hört das Umweltbundesamt die Länder, die Bundeswehr, das Eisenbahn-Bundesamt sowie die beteiligten Fachkreise und Verbände an. Das Bundesinstitut für Risikobewertung unterstützt das Umweltbundesamt bei der hygienischen Bewertung von Stoffen. Das Umweltbundesamt veröffentlicht die Bewertungsgrundlagen im Bundesanzeiger und im Internet. Einzelheiten zu dem Verfahren legt das Umweltbundesamt in einer Geschäftsordnung fest.
+(4) Die Bewertungsgrundlagen nach Absatz 3 Satz 2 Nummer 1 legt das Umweltbundesamt von Amts wegen fest und schreibt sie fort. Die Bewertungsgrundlagen nach Absatz 3 Satz 2 Nummer 2 und 3 werden vom Umweltbundesamt auf Antrag festgelegt oder fortgeschrieben. Anträge müssen die erforderlichen Unterlagen zum Nachweis der Voraussetzungen nach Absatz 2 Satz 1 und nach Absatz 3 Satz 2 Nummer 1 enthalten. Auf die Voraussetzungen nach Absatz 2 Satz 1 und Absatz 3 bezogene Prüfungen und Beurteilungen, die in einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Türkei durchgeführt worden sind, werden anerkannt. Liegt ein öffentliches Interesse vor, kann das Umweltbundesamt auch Bewertungsgrundlagen nach Absatz 3 Satz 2 Nummer 2 und 3 von Amts wegen festlegen oder fortschreiben. Vor der Festlegung und Fortschreibung hört das Umweltbundesamt die Länder, die Bundeswehr, das Eisenbahn- Bundesamt sowie die beteiligten Fachkreise und Verbände an. Das Bundesinstitut für Risikobewertung unterstützt das Umweltbundesamt bei der hygienischen Bewertung von Stoffen. Das Umweltbundesamt veröffentlicht die Bewertungsgrundlagen im Bundesanzeiger und im Internet. Einzelheiten zu dem Verfahren legt das Umweltbundesamt in einer Geschäftsordnung fest.
 
 (5) Es wird vermutet, dass Produkte und Verfahren die Anforderungen nach den Absätzen 1 bis 3 erfüllen, wenn dies von einem für den Trinkwasserbereich akkreditierten Zertifizierer durch ein Zertifikat bestätigt wurde.
 
@@ -562,12 +557,12 @@ Das Umweltbundesamt entscheidet, für welche Werkstoff- oder Materialgruppen es 
 
 ### § 18 Überwachung durch das Gesundheitsamt
 
-(1) Das Gesundheitsamt überwacht die Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe a, b und c und, sofern die Trinkwasserbereitstellung im Rahmen einer gewerblichen oder öffentlichen Tätigkeit erfolgt, nach Buchstabe d sowie die Wasserversorgungsanlagen nach Buchstabe e, sofern die Trinkwasserbereitstellung im Rahmen einer öffentlichen Tätigkeit erfolgt, und die Wasserversorgungsanlagen nach Buchstabe f hinsichtlich der Einhaltung der Anforderungen der Verordnung durch entsprechende Prüfungen. Dies gilt für Wasserversorgungsanlagen, aus denen Trinkwasser für Zwecke nach § 3 Nummer 1 Buchstabe b entnommen wird, nur dann, wenn die zuständige Behörde keine Ausnahme zugelassen hat. Die zuständige Behörde kann Ausnahmen zulassen, soweit sie davon überzeugt ist, dass die Qualität des verwendeten Wassers die Genusstauglichkeit des Enderzeugnisses nicht beinträchtigen kann. Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe d und e, sofern die Trinkwasserbereitstellung nicht im Rahmen einer gewerblichen oder öffentlichen Tätigkeit erfolgt, sowie Wasserversorgungsanlagen nach Buchstabe e, sofern die Trinkwasserbereitstellung nur im Rahmen einer gewerblichen Tätigkeit erfolgt, oder andere Anlagen nach § 13 Absatz 4 können in die Überwachung einbezogen werden, sofern dies unter Berücksichtigung von Einzelfällen zum Schutz der menschlichen Gesundheit oder zur Sicherstellung einer einwandfreien Beschaffenheit des Trinkwassers erforderlich ist.
+(1) Das Gesundheitsamt überwacht die Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe a, b und c und, sofern die Trinkwasserbereitstellung im Rahmen einer gewerblichen oder öffentlichen Tätigkeit erfolgt, nach Buchstabe d sowie die Wasserversorgungsanlagen nach Buchstabe e, sofern die Trinkwasserbereitstellung im Rahmen einer öffentlichen Tätigkeit erfolgt, und die Wasserversorgungsanlagen nach Buchstabe f hinsichtlich der Einhaltung der Anforderungen der Verordnung durch entsprechende Prüfungen. Dies gilt für Wasserversorgungsanlagen, aus denen Trinkwasser für Zwecke nach § 3 Nummer 1 Buchstabe b entnommen wird, nur dann, wenn die zuständige Behörde keine Ausnahme zugelassen hat. Die zuständige Behörde kann Ausnahmen zulassen, soweit sie davon überzeugt ist, dass die Qualität des verwendeten Wassers die Genusstauglichkeit des Enderzeugnisses nicht beeinträchtigen kann. Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe d und e, sofern die Trinkwasserbereitstellung nicht im Rahmen einer gewerblichen oder öffentlichen Tätigkeit erfolgt, sowie Wasserversorgungsanlagen nach Buchstabe e, sofern die Trinkwasserbereitstellung nur im Rahmen einer gewerblichen Tätigkeit erfolgt, oder andere Anlagen nach § 13 Absatz 4 können in die Überwachung einbezogen werden, sofern dies unter Berücksichtigung von Einzelfällen zum Schutz der menschlichen Gesundheit oder zur Sicherstellung einer einwandfreien Beschaffenheit des Trinkwassers erforderlich ist.
 
 (2) Soweit es im Rahmen der Überwachung nach Absatz 1 erforderlich ist, sind Personen, die die Überwachung durchführen, befugt,
 
 1.  
-die Grundstücke, Räume und Einrichtungen sowie Land-, Wasser- und Luftfahrzeuge, in denen sich Wasserversorgungsanlagen befinden, während der üblichen Betriebs- oder Geschäftszeit zu betreten,
+die Grundstücke, Räume und Einrichtungen sowie Land- , Wasser- und Luftfahrzeuge, in denen sich Wasserversorgungsanlagen befinden, während der üblichen Betriebs- oder Geschäftszeit zu betreten,
 
 2.  
 Proben nach den allgemein anerkannten Regeln der Technik zu entnehmen, die Betriebsbücher und sonstigen Unterlagen einschließlich elektronischer Datenträger einzusehen und hieraus Abschriften, Auszüge oder Kopien anzufertigen,
@@ -605,17 +600,17 @@ den Untersuchungsumfang für routinemäßige und umfassende Untersuchungen und
 3.  
 den Untersuchungszeitpunkt und die Probennahmestelle.
 
-Die Proben sind grundsätzlich an der Stelle der Einhaltung nach § 8 zu nehmen, um sicherzustellen, dass das Trinkwasser die Anforderungen der Verordnung erfüllt. Bei einem Verteilungsnetz können jedoch für bestimmte Parameter alternativ Proben innerhalb des Wasserversorgungsgebietes oder in den Aufbereitungsanlagen entnommen werden, wenn keine nachteiligen Veränderungen des Trinkwassers im Verteilungssystem bezüglich des untersuchten Parameters zu erwarten sind. Die Proben sollten so entnommen werden, dass sie für die Qualität des im Laufe des gesamten Jahres gelieferten oder entnommenen Trinkwassers repräsentativ sind. Saisonale Besonderheiten sind zu berücksichtigen. In den Probennahmeplan können alle Wasserversorgungsanlagen einbezogen werden, deren Trinkwasser für das betreffende Wasserversorgungsgebiet repräsentativ ist. Gegebenenfalls hat das Gesundheitsamt ergänzende Untersuchungen vorzunehmen oder vornehmen zu lassen. Die zuständige oberste Landesbehörde oder eine andere auf Grund Landesrechts zuständige Stelle kann bestimmen, dass für die Probennahmepläne des Gesundheitsamtes einheitliche Vordrucke zu verwenden oder einheitliche EDV-Verfahren anzuwenden sind.
+Die Proben sind grundsätzlich an der Stelle der Einhaltung nach § 8 zu nehmen, um sicherzustellen, dass das Trinkwasser die Anforderungen der Verordnung erfüllt. Bei einem Verteilungsnetz können jedoch für bestimmte Parameter alternativ Proben innerhalb des Wasserversorgungsgebietes oder in den Aufbereitungsanlagen entnommen werden, wenn keine nachteiligen Veränderungen des Trinkwassers im Verteilungssystem bezüglich des untersuchten Parameters zu erwarten sind. Die Proben sollten so entnommen werden, dass sie für die Qualität des im Laufe des gesamten Jahres gelieferten oder entnommenen Trinkwassers repräsentativ sind. Saisonale Besonderheiten sind zu berücksichtigen. In den Probennahmeplan können alle Wasserversorgungsanlagen einbezogen werden, deren Trinkwasser für das betreffende Wasserversorgungsgebiet repräsentativ ist. Gegebenenfalls hat das Gesundheitsamt ergänzende Untersuchungen vorzunehmen oder vornehmen zu lassen. Die zuständige oberste Landesbehörde oder eine andere auf Grund Landesrechts zuständige Stelle kann bestimmen, dass für die Probennahmepläne des Gesundheitsamtes einheitliche Vordrucke zu verwenden oder einheitliche EDV- Verfahren anzuwenden sind.
 
 (3) Das Gesundheitsamt kann die Entnahme oder Untersuchung von Wasserproben nach den Absätzen 1 und 2 selbst durchführen oder hierzu eine Untersuchungsstelle beauftragen. Es kann den Unternehmer und den sonstigen Inhaber der Wasserversorgungsanlage auffordern, eine Untersuchungsstelle zu benennen, die die Entnahme oder Untersuchung von Wasserproben vornehmen soll. Es kann auch anordnen, dass der Unternehmer und der sonstige Inhaber der Wasserversorgungsanlage eine Untersuchungsstelle beauftragen; in diesem Fall haben der Unternehmer und der sonstige Inhaber der Wasserversorgungsanlage dem Gesundheitsamt das Untersuchungsergebnis zu übermitteln. Die Untersuchungsstellen nach den Sätzen 1 bis 3 müssen nach § 15 Absatz 4 zugelassen sein. Die zuständige oberste Landesbehörde kann weitere Anforderungen an die Untersuchungsstellen festlegen. Das Gesundheitsamt informiert den Unternehmer oder den sonstigen Inhaber der Wasserversorgungsanlage in den Fällen der Sätze 1 und 2 über das Untersuchungsergebnis. Die Kosten für die Entnahme und Untersuchung von Wasserproben nach den Sätzen 1 bis 3 tragen der Unternehmer und der sonstige Inhaber der Wasserversorgungsanlage.
 
-(4) Die Ergebnisse der Überwachung sind in einer Niederschrift festzuhalten. Die zuständige oberste Landesbehörde oder eine andere auf Grund Landesrechts zuständige Stelle kann bestimmen, dass für die Niederschriften einheitliche Vordrucke zu verwenden oder einheitliche EDV-Verfahren anzuwenden sind. Eine Ausfertigung der Niederschrift ist dem Unternehmer oder dem sonstigen Inhaber der Wasserversorgungsanlage zu übermitteln. Das Gesundheitsamt hat die Niederschrift zehn Jahre aufzubewahren.
+(4) Die Ergebnisse der Überwachung sind in einer Niederschrift festzuhalten. Die zuständige oberste Landesbehörde oder eine andere auf Grund Landesrechts zuständige Stelle kann bestimmen, dass für die Niederschriften einheitliche Vordrucke zu verwenden oder einheitliche EDV- Verfahren anzuwenden sind. Eine Ausfertigung der Niederschrift ist dem Unternehmer oder dem sonstigen Inhaber der Wasserversorgungsanlage zu übermitteln. Das Gesundheitsamt hat die Niederschrift zehn Jahre aufzubewahren.
 
-(5) Die Überwachungsmaßnahmen nach Absatz 1 sind für Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe a und b mindestens einmal jährlich vorzunehmen; wenn die Überwachung während eines Zeitraums von vier Jahren zu keinen wesentlichen Beanstandungen geführt hat, kann das Gesundheitsamt die Überwachung in größeren Zeitabständen, mindestens aber einmal in drei Jahren, durchführen. Die Überwachungshäufigkeit für Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe c wird vom Gesundheitsamt festgelegt. Der Zeitraum zwischen den Überwachungen darf drei Jahre nicht überschreiten. Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe d, die im Rahmen einer gewerblichen oder öffentlichen Tätigkeit betrieben werden, sollen mindestens einmal innerhalb von drei Jahren überwacht werden. Bei Wasserversorgungsanlagen an Bord von Land-, Wasser- und Luftfahrzeugen, die nicht im Rahmen einer gewerblichen oder öffentlichen Tätigkeit betrieben werden, bestimmt das Gesundheitsamt, ob und in welchen Zeitabständen es die Maßnahmen durchführt. Wassertransport-Fahrzeuge sollen mindestens viermal im Jahr überwacht werden.
+(5) Die Überwachungsmaßnahmen nach Absatz 1 sind für Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe a und b mindestens einmal jährlich vorzunehmen; wenn die Überwachung während eines Zeitraums von vier Jahren zu keinen wesentlichen Beanstandungen geführt hat, kann das Gesundheitsamt die Überwachung in größeren Zeitabständen, mindestens aber einmal in drei Jahren, durchführen. Die Überwachungshäufigkeit für Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe c wird vom Gesundheitsamt festgelegt. Der Zeitraum zwischen den Überwachungen darf drei Jahre nicht überschreiten. Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe d, die im Rahmen einer gewerblichen oder öffentlichen Tätigkeit betrieben werden, sollen mindestens einmal innerhalb von drei Jahren überwacht werden. Bei Wasserversorgungsanlagen an Bord von Land- , Wasser- und Luftfahrzeugen, die nicht im Rahmen einer gewerblichen oder öffentlichen Tätigkeit betrieben werden, bestimmt das Gesundheitsamt, ob und in welchen Zeitabständen es die Maßnahmen durchführt. Wassertransport- Fahrzeuge sollen mindestens viermal im Jahr überwacht werden.
 
 (6) Die Überwachungsmaßnahmen sollen vorher nicht angekündigt werden.
 
-(7) Bei Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe e, aus denen Trinkwasser im Rahmen einer öffentlichen Tätigkeit bereitgestellt wird, bei Wasserversorgungsanlagen nach Buchstabe d, aus denen Trinkwasser im Rahmen einer gewerblichen oder öffentlichen Tätigkeit bereitgestellt wird, sowie bei Wasserversorgungsanlagen nach Buchstabe f hat das Gesundheitsamt im Rahmen der Überwachung mindestens diejenigen Parameter zu untersuchen oder untersuchen zu lassen, von denen anzunehmen ist, dass sie sich in der Trinkwasser-Installation nachteilig verändern können. Zur Durchführung richtet das Gesundheitsamt ein Überwachungsprogramm auf der Grundlage geeigneter stichprobenartiger Kontrollen ein.
+(7) Bei Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe e, aus denen Trinkwasser im Rahmen einer öffentlichen Tätigkeit bereitgestellt wird, bei Wasserversorgungsanlagen nach Buchstabe d, aus denen Trinkwasser im Rahmen einer gewerblichen oder öffentlichen Tätigkeit bereitgestellt wird, sowie bei Wasserversorgungsanlagen nach Buchstabe f hat das Gesundheitsamt im Rahmen der Überwachung mindestens diejenigen Parameter zu untersuchen oder untersuchen zu lassen, von denen anzunehmen ist, dass sie sich in der Trinkwasser- Installation nachteilig verändern können. Zur Durchführung richtet das Gesundheitsamt ein Überwachungsprogramm auf der Grundlage geeigneter stichprobenartiger Kontrollen ein.
 
 ### § 20 Anordnungen des Gesundheitsamtes
 
@@ -656,9 +651,9 @@ Maßnahmen zu treffen haben, die erforderlich sind, um eine Verunreinigung zu be
 
 ### § 21 Information der Verbraucher und Berichtspflichten
 
-(1) Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe a oder Buchstabe b und, sofern die Anlage im Rahmen einer gewerblichen oder öffentlichen Tätigkeit betrieben wird, nach Buchstabe d oder Buchstabe e haben den betroffenen Verbrauchern mindestens jährlich geeignetes und aktuelles Informationsmaterial über die Qualität des bereitgestellten Trinkwassers auf der Grundlage der Untersuchungsergebnisse nach § 14 und gegebenenfalls nach § 19 Absatz 7 und § 20 zu übermitteln. Dazu gehören auch Angaben über die Aufbereitungsstoffe, die bei der Aufbereitung und Verteilung verwendet werden, sowie Angaben, die für die Auswahl geeigneter Materialien für die Trinkwasser-Installation nach den allgemein anerkannten Regeln der Technik erforderlich sind. Ab dem 1. Dezember 2013 haben der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe a und b oder, sofern die Anlage im Rahmen einer gewerblichen oder öffentlichen Tätigkeit betrieben wird, nach Buchstabe e die betroffenen Verbraucher zu informieren, wenn Leitungen aus dem Werkstoff Blei in der von ihnen betriebenen Anlage vorhanden sind, sobald sie hiervon Kenntnis erlangen. Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe f und, sofern die Anlage im Rahmen einer gewerblichen oder öffentlichen Tätigkeit betrieben wird, nach Buchstabe d und e, haben die ihnen nach Satz 1 zugegangenen Informationen unverzüglich allen betroffenen Verbrauchern schriftlich oder durch Aushang bekannt zu machen.
+(1) Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe a oder Buchstabe b und, sofern die Anlage im Rahmen einer gewerblichen oder öffentlichen Tätigkeit betrieben wird, nach Buchstabe d oder Buchstabe e haben den betroffenen Verbrauchern mindestens jährlich geeignetes und aktuelles Informationsmaterial über die Qualität des bereitgestellten Trinkwassers auf der Grundlage der Untersuchungsergebnisse nach § 14 und gegebenenfalls nach § 19 Absatz 7 und § 20 zu übermitteln. Dazu gehören auch Angaben über die Aufbereitungsstoffe, die bei der Aufbereitung und Verteilung verwendet werden, sowie Angaben, die für die Auswahl geeigneter Materialien für die Trinkwasser- Installation nach den allgemein anerkannten Regeln der Technik erforderlich sind. Ab dem 1. Dezember 2013 haben der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe a und b oder, sofern die Anlage im Rahmen einer gewerblichen oder öffentlichen Tätigkeit betrieben wird, nach Buchstabe e die betroffenen Verbraucher zu informieren, wenn Leitungen aus dem Werkstoff Blei in der von ihnen betriebenen Anlage vorhanden sind, sobald sie hiervon Kenntnis erlangen. Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe f und, sofern die Anlage im Rahmen einer gewerblichen oder öffentlichen Tätigkeit betrieben wird, nach Buchstabe d und e, haben die ihnen nach Satz 1 zugegangenen Informationen unverzüglich allen betroffenen Verbrauchern schriftlich oder durch Aushang bekannt zu machen.
 
-(2) Das Gesundheitsamt übermittelt der zuständigen obersten Landesbehörde oder der von dieser benannten Stelle jeweils bis zum 15. März die über die Qualität des Trinkwassers erforderlichen Angaben für das vorangegangene Kalenderjahr unter Beachtung des § 19 für Wasserversorgungsgebiete, in denen pro Tag mindestens 10 Kubikmeter Trinkwasser abgegeben werden oder in denen mindestens 50 Personen versorgt werden. Die zuständige oberste Landesbehörde kann bestimmen, dass die Angaben auf Datenträgern oder auf anderem elektronischen Weg übermittelt werden und dass die übermittelten Daten mit der von ihr bestimmten Schnittstelle kompatibel sind. Die zuständige oberste Landesbehörde oder eine von ihr benannte Stelle leitet ihren Bericht bis zum 15. April desselben Jahres dem Bundesministerium für Gesundheit oder einer von diesem benannten Stelle zu. Der Bericht hat dem von der Europäischen Kommission nach Artikel 13 Absatz 4 der Richtlinie 98/83/EG des Rates vom 3. November 1998 über die Qualität von Wasser für den menschlichen Gebrauch (ABl. L 330 vom 5.12.1998, S. 32) festgelegten Format und den dort genannten Mindestinformationen in der vom Bundesministerium für Gesundheit nach Beteiligung der Länder mitgeteilten Form zu entsprechen. Darüber hinausgehende Formatvorgaben durch das Bundesministerium für Gesundheit, insbesondere für einheitliche EDV-Verfahren, bedürfen der Zustimmung des Bundesrates.
+(2) Das Gesundheitsamt übermittelt der zuständigen obersten Landesbehörde oder der von dieser benannten Stelle jeweils bis zum 15. März die über die Qualität des Trinkwassers erforderlichen Angaben für das vorangegangene Kalenderjahr unter Beachtung des § 19 für Wasserversorgungsgebiete, in denen pro Tag mindestens 10 Kubikmeter Trinkwasser abgegeben werden oder in denen mindestens 50 Personen versorgt werden. Die zuständige oberste Landesbehörde kann bestimmen, dass die Angaben auf Datenträgern oder auf anderem elektronischen Weg übermittelt werden und dass die übermittelten Daten mit der von ihr bestimmten Schnittstelle kompatibel sind. Die zuständige oberste Landesbehörde oder eine von ihr benannte Stelle leitet ihren Bericht bis zum 15. April desselben Jahres dem Bundesministerium für Gesundheit oder einer von diesem benannten Stelle zu. Der Bericht hat dem von der Europäischen Kommission nach Artikel 13 Absatz 4 der Richtlinie 98/83/EG des Rates vom 3. November 1998 über die Qualität von Wasser für den menschlichen Gebrauch (ABl. L 330 vom 5.12.1998, S. 32) festgelegten Format und den dort genannten Mindestinformationen in der vom Bundesministerium für Gesundheit nach Beteiligung der Länder mitgeteilten Form zu entsprechen. Darüber hinausgehende Formatvorgaben durch das Bundesministerium für Gesundheit, insbesondere für einheitliche EDV- Verfahren, bedürfen der Zustimmung des Bundesrates.
 
 6. Abschnitt Sondervorschriften
 -------------------------------
@@ -671,7 +666,7 @@ Der Vollzug dieser Verordnung obliegt im Bereich der Bundeswehr sowie im Bereich
 
 ### § 23 Vollzug im Bereich der Eisenbahnen des Bundes
 
-Der Vollzug dieser Verordnung obliegt im Bereich der Eisenbahnen des Bundes für Wasserversorgungsanlagen in Schienenfahrzeugen sowie für Anlagen zur Befüllung von Schienenfahrzeugen dem Eisenbahn-Bundesamt. Es nimmt in seinem Zuständigkeitsbereich die Aufgaben und Befugnisse des Gesundheitsamtes, der zuständigen Behörde und der zuständigen obersten Landesbehörde mit Ausnahme der Aufgabe nach § 15 Absatz 4 wahr. Es ist in seinem Zuständigkeitsbereich auch zuständige Verwaltungsbehörde im Sinne von § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten.
+Der Vollzug dieser Verordnung obliegt im Bereich der Eisenbahnen des Bundes für Wasserversorgungsanlagen in Schienenfahrzeugen sowie für Anlagen zur Befüllung von Schienenfahrzeugen dem Eisenbahn- Bundesamt. Es nimmt in seinem Zuständigkeitsbereich die Aufgaben und Befugnisse des Gesundheitsamtes, der zuständigen Behörde und der zuständigen obersten Landesbehörde mit Ausnahme der Aufgabe nach § 15 Absatz 4 wahr. Es ist in seinem Zuständigkeitsbereich auch zuständige Verwaltungsbehörde im Sinne von § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten.
 
 7. Abschnitt Straftaten und Ordnungswidrigkeiten
 ------------------------------------------------
@@ -774,7 +769,7 @@ entgegen § 21 Absatz 1 Satz 4 eine Information nicht, nicht richtig, nicht voll
 
 ### Anlage 1 (zu § 5 Absatz 2 und 3)Mikrobiologische Parameter
 
-(Fundstelle: BGBl. I 2011, 2384)
+(Fundstelle: BGBl. I 2013, 2992)
 
 Teil I
 
@@ -827,11 +822,11 @@ Pseudomonas aeruginosa
 
 0/250 ml
 
-Die festgelegten Werte berücksichtigen die Messunsicherheiten der Analyse- und Probennahmeverfahren.
+Die festgelegten Werte berücksichtigen die Messunsicherheiten der Analyse- und Probennahmeverfahren.Die festgelegten Werte berücksichtigen die Messunsicherheiten der Analyse- und Probennahmeverfahren.
 
 ### Anlage 2 (zu § 6 Absatz 2) Chemische Parameter
 
-(Fundstelle: BGBl. I 2011, 2385 - 2387)
+(Fundstelle: BGBl. I 2013, 2993 - 2995)
 
 Teil I
 Chemische Parameter, deren Konzentration sich im Verteilungsnetz
@@ -847,7 +842,7 @@ mg/l
 
 Bemerkungen
 
- 1
+1
 
 Acrylamid
 
@@ -855,49 +850,49 @@ Acrylamid
 
 Der Grenzwert bezieht sich auf die Restmonomerkonzentration im Trinkwasser, berechnet auf Grund der maximalen Freisetzung nach den Spezifikationen des entsprechenden Polymers und der angewandten Polymerdosis. Der Nachweis der Einhaltung des Grenzwertes kann auch durch die Analyse des Trinkwassers erbracht werden. Die Anforderungen nach § 11 bleiben unberührt
 
- 2
+2
 
 Benzol
 
 0,0010
 
- 3
+3
 
 Bor
 
 1,0
 
- 4
+4
 
 Bromat
 
 0,010
 
- 5
+5
 
 Chrom
 
 0,050
 
- 6
+6
 
 Cyanid
 
 0,050
 
- 7
+7
 
 1,2-Dichlorethan
 
 0,0030
 
- 8
+8
 
 Fluorid
 
 1,5
 
- 9
+9
 
 Nitrat
 
@@ -967,25 +962,25 @@ mg/l
 
 Bemerkungen
 
- 1
+1
 
 Antimon
 
 0,0050
 
- 2
+2
 
 Arsen
 
 0,010
 
- 3
+3
 
 Benzo-(a)-pyren
 
 0,000010
 
- 4
+4
 
 Blei
 
@@ -993,7 +988,7 @@ Blei
 
 Grundlage ist eine für die durchschnittliche wöchentliche Trinkwasseraufnahme durch Verbraucher repräsentative Probe. Die zuständigen Behörden stellen sicher, dass alle geeigneten Maßnahmen getroffen werden, um die Bleikonzentration in Trinkwasser so weit wie möglich zu reduzieren. Maßnahmen zur Erreichung dieses Grenzwertes sind schrittweise und vorrangig dort durchzuführen, wo die Bleikonzentration in Trinkwasser am höchsten ist
 
- 5
+5
 
 Cadmium
 
@@ -1001,7 +996,7 @@ Cadmium
 
 Einschließlich der bei Stagnation von Trinkwasser in Rohren aufgenommenen Cadmiumverbindungen
 
- 6
+6
 
 Epichlorhydrin
 
@@ -1009,7 +1004,7 @@ Epichlorhydrin
 
 Der Grenzwert bezieht sich auf die Restmonomerkonzentration im Trinkwasser, berechnet auf Grund der maximalen Freisetzung nach den Spezifikationen des entsprechenden Polymers und der angewandten Polymerdosis. Der Nachweis der Einhaltung des Grenzwertes kann auch durch die Analyse des Trinkwassers erbracht werden
 
- 7
+7
 
 Kupfer
 
@@ -1017,7 +1012,7 @@ Kupfer
 
 Grundlage ist eine für die durchschnittliche wöchentliche Trinkwasseraufnahme durch Verbraucher repräsentative Probe. Auf eine Untersuchung im Rahmen der Überwachung nach § 19 Absatz 7 kann in der Regel verzichtet werden, wenn der pH-Wert im Wasserversorgungsgebiet größer oder gleich 7,8 ist
 
- 8
+8
 
 Nickel
 
@@ -1025,7 +1020,7 @@ Nickel
 
 Grundlage ist eine für die durchschnittliche wöchentliche Trinkwasseraufnahme durch Verbraucher repräsentative Probe
 
- 9
+9
 
 Nitrit
 
@@ -1061,11 +1056,11 @@ Der Grenzwert bezieht sich auf die Restmonomerkonzentration im Trinkwasser, bere
 |------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | **Anmerkung 1:** | Voraussetzung für die Summenbildung ist mindestens das jeweilige Erreichen der Bestimmungsgrenze des analytischen Verfahrens. |
 
-Die festgelegten Werte berücksichtigen die Messunsicherheiten der Analyse- und Probennahmeverfahren.
+Die festgelegten Werte berücksichtigen die Messunsicherheiten der Analyse- und Probennahmeverfahren.Die festgelegten Werte berücksichtigen die Messunsicherheiten der Analyse- und Probennahmeverfahren.
 
 ### Anlage 3 (zu § 7 und § 14 Absatz 3)Indikatorparameter
 
-(Fundstelle: BGBl. I 2011, 2388 - 2390)
+(Fundstelle: BGBl. I 2013, 2996 - 2998)
 
 Teil I
 Allgemeine Indikatorparameter
@@ -1125,7 +1120,8 @@ Dieser Parameter braucht nur bestimmt zu werden, wenn das Rohwasser von Oberflä
 
 5
 
-Coliforme Bakterien
+Coliforme
+Bakterien
 
 Anzahl/
 100 ml
@@ -1144,7 +1140,10 @@ mg/l
 
 7
 
-Färbung (spektraler Absorptionskoeffizient Hg 436 nm)
+Färbung
+(spektraler
+Absorptionskoeffizient
+Hg 436 nm)
 
 m<sup>-1</sup>
 
@@ -1154,7 +1153,8 @@ Bestimmung des spektralen Absorptionskoeffizienten mit Spektralphotometer oder F
 
 8
 
-Geruch (als TON)
+Geruch
+(als TON)
 
 3 bei 23 °C
 
@@ -1185,7 +1185,7 @@ bei 36 °C
 
 ohne anormale Veränderung
 
-Bei der Anwendung des Untersuchungsverfahrens nach Anlage 5 Teil I Buchstabe d, Doppelbuchstabe bb gilt der Grenzwert von 100/ml. Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage haben unabhängig vom angewandten Verfahren einen plötzlichen oder kontinuierlichen Anstieg unverzüglich der zuständigen Behörde zu melden. Das Untersuchungsverfahren nach Anlage 5 Teil I Buchstabe d, Doppelbuchstabe bb darf nicht eingesetzt werden für Trinkwasser, das zur Abgabe in verschlossenen Behältnissen bestimmt ist. Für Trinkwasser, das zur Abgabe in verschlossenen Behältnissen bestimmt ist, gilt der Grenzwert 20/ml
+Bei der Anwendung des Untersuchungsverfahrens nach Anlage 5 Teil I Buchstabe d Doppelbuchstabe bb gilt der Grenzwert von 100/ml. Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage haben unabhängig vom angewandten Verfahren einen plötzlichen oder kontinuierlichen Anstieg unverzüglich der zuständigen Behörde zu melden. Das Untersuchungsverfahren nach Anlage 5 Teil I Buchstabe d Doppelbuchstabe bb darf nicht eingesetzt werden für Trinkwasser, das zur Abgabe in verschlossenen Behältnissen bestimmt ist. Für Trinkwasser, das zur Abgabe in verschlossenen Behältnissen bestimmt ist, gilt der Grenzwert 20/ml
 
 12
 
@@ -1296,17 +1296,23 @@ mSv/Jahr
 
 Anmerkungen 3 bis 5
 
-|                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Anmerkung 1:** | Die entsprechende Beurteilung, insbesondere zur Auswahl geeigneter Materialien im Sinne von § 17, erfolgt nach den allgemein anerkannten Regeln der Technik.                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| **Anmerkung 2:** | Messungen bei anderen Temperaturen sind erlaubt; in diesem Fall ist die Norm EN 27888 zu berücksichtigen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Anmerkung 3:** | Die Kontrollhäufigkeit, die Kontrollmethoden und die relevantesten Überwachungsstandorte werden zu einem späteren Zeitpunkt gemäß dem nach Artikel 12 der Trinkwasserrichtlinie festgesetzten Verfahren festgelegt.                                                                                                                                                                                                                                                                                                                                                                                   |
-| **Anmerkung 4:** | Die zuständige Behörde ist nicht verpflichtet, eine Überwachung von Trinkwasser im Hinblick auf Tritium oder Radioaktivität zur Festlegung der Gesamtrichtdosis durchzuführen, wenn sie auf der Grundlage anderer durchgeführter Überwachungen davon überzeugt ist, dass der Wert für Tritium bzw. der berechnete Gesamtrichtwert deutlich unter dem Parameterwert liegt. In diesem Fall teilt sie dem Bundesministerium für Gesundheit über die zuständige oberste Landesbehörde oder eine von ihr benannte Stelle die Gründe für ihren Beschluss und die Ergebnisse dieser anderen Überwachung mit. |
-| **Anmerkung 5:** | Mit Ausnahme von Tritium, Kalium-40, Radon und Radonzerfallsprodukten.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+**Anmerkung 1:**  
+Die entsprechende Beurteilung, insbesondere zur Auswahl geeigneter Materialien im Sinne von § 17, erfolgt nach den allgemein anerkannten Regeln der Technik.
+
+**Anmerkung 2:**  
+Messungen bei anderen Temperaturen sind erlaubt; in diesem Fall ist die Norm EN 27888 zu berücksichtigen.
+
+**Anmerkung 3:**  
+Die Kontrollhäufigkeit, die Kontrollmethoden und die relevantesten Überwachungsstandorte werden zu einem späteren Zeitpunkt gemäß dem nach Artikel 12 der Trinkwasserrichtlinie festgesetzten Verfahren festgelegt.
+
+**Anmerkung 4:**  
+Die zuständige Behörde ist nicht verpflichtet, eine Überwachung von Trinkwasser im Hinblick auf Tritium oder Radioaktivität zur Festlegung der Gesamtrichtdosis durchzuführen, wenn sie auf der Grundlage anderer durchgeführter Überwachungen davon überzeugt ist, dass der Wert für Tritium bzw. der berechnete Gesamtrichtwert deutlich unter dem Parameterwert liegt. In diesem Fall teilt sie dem Bundesministerium für Gesundheit über die zuständige oberste Landesbehörde oder eine von ihr benannte Stelle die Gründe für ihren Beschluss und die Ergebnisse dieser anderen Überwachung mit.
+
+**Anmerkung 5:**  
+Mit Ausnahme von Tritium, Kalium-40, Radon und Radonzerfallsprodukten.
 
 Teil II
-Spezieller Indikatorparameter für
-Anlagen der Trinkwasser-Installation
+Spezieller Indikatorparameter für Anlagen der Trinkwasser-Installation
 
 Parameter
 
@@ -1320,14 +1326,14 @@ Die festgelegten Werte berücksichtigen die Messunsicherheiten der Analyse- und 
 
 ### Anlage 4 (zu den §§ 14 und 19)Umfang und Häufigkeit von Untersuchungen
 
-(Fundstelle: BGBl. I 2011, 2391 - 2393)
+(Fundstelle: BGBl. I 2013, 2999 - 3001)
 
 Teil I
 
 Umfang der Untersuchung
 
-**a)**  
-**Routinemäßige Untersuchungen**Folgende Parameter sind routinemäßig zu untersuchen, wobei die Einzeluntersuchung entfallen kann bei Parametern, für die laufend Messwerte bestimmt und aufgezeichnet werden:Aluminium (Anmerkung 1)
+a)  
+Routinemäßige UntersuchungenFolgende Parameter sind routinemäßig zu untersuchen, wobei die Einzeluntersuchung entfallen kann bei Parametern, für die laufend Messwerte bestimmt und aufgezeichnet werden:Aluminium (Anmerkung 1)
 Ammonium
 Clostridium perfringens (einschließlich Sporen) (Anmerkung 2)
 Coliforme Bakterien
@@ -1340,7 +1346,7 @@ Geschmack
 Koloniezahl bei 22 °C und 36 °C
 Pseudomonas aeruginosa (Anmerkung 3)
 Trübung
-Wasserstoffionen-KonzentrationDas Gesundheitsamt kann bei Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe a die Anzahl der Analysen für die routinemäßig zu untersuchenden Parameter verringern, wenn
+Wasserstoffionen- KonzentrationDas Gesundheitsamt kann bei Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe a die Anzahl der Analysen für die routinemäßig zu untersuchenden Parameter verringern, wenn
 
 1.  
 die Analysenergebnisse der in einem Zeitraum von mindestens zwei aufeinanderfolgenden Jahren durchgeführten Untersuchungen konstant und erheblich besser als die in den Anlagen 1 bis 3 festgelegten Grenzwerte und Anforderungen sind und
@@ -1350,21 +1356,24 @@ es davon ausgeht, dass keine Umstände zu erwarten sind, die sich nachteilig auf
 
 Die Mindesthäufigkeit der Analysen darf nicht weniger als die Hälfte der in Anlage 4 Teil II genannten Anzahl betragen.
 
-|                  |                                                                                                                                                     |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Anmerkung 1:** | Nur erforderlich bei einer Zugabe gemäß § 11. In allen anderen Fällen sind die Parameter in der Liste für die umfassenden Untersuchungen enthalten. |
-| **Anmerkung 2:** | Nur erforderlich, wenn das Rohwasser von Oberflächenwasser stammt oder von Oberflächenwasser beeinflusst wird.                                      |
-| **Anmerkung 3:** | Nur erforderlich bei Trinkwasser, das zur Abfüllung in verschließbare Behältnisse zum Zwecke der Abgabe bestimmt ist.                               |
+**Anmerkung 1:**  
+Nur erforderlich bei einer Zugabe gemäß § 11. In allen anderen Fällen sind die Parameter in der Liste für die umfassenden Untersuchungen enthalten.
 
-**b)**  
-**Umfassende Untersuchungen**Alle gemäß den Anlagen 1 bis 3 festgelegten Parameter, die nicht unter den routinemäßigen Untersuchungen aufgeführt sind, beziehungsweise in deren Umfang nicht untersucht werden müssen, sind Gegenstand der umfassenden Untersuchungen. Dies gilt nicht, wenn die routinemäßigen Untersuchungen bezüglich eines bestimmten Parameters sich auf eine bestimmte Situation beschränken, wie z. B. die Abfüllung von Trinkwasser in Behältnisse oder mikrobiologische Untersuchungen in bestimmten Teilen der Trinkwasser-Installation, oder wenn die zuständigen Behörden für einen von ihnen festzulegenden Zeitraum feststellen, dass das Vorhandensein eines Parameters in einem bestimmten Wasserversorgungsgebiet nicht in Konzentrationen zu erwarten ist, die die Einhaltung des entsprechenden Grenzwertes gefährden könnten. Satz 1 gilt nicht für die Parameter für Radioaktivität, die vorbehaltlich der Anmerkungen 3 bis 5 in Anlage 3 Teil I überwacht werden.
+**Anmerkung 2:**  
+Nur erforderlich, wenn das Rohwasser von Oberflächenwasser stammt oder von Oberflächenwasser beeinflusst wird.
+
+**Anmerkung 3:**  
+Nur erforderlich bei Trinkwasser, das zur Abfüllung in verschließbare Behältnisse zum Zwecke der Abgabe bestimmt ist.
+
+b)  
+**Umfassende Untersuchungen**Alle gemäß den Anlagen 1 bis 3 festgelegten Parameter, die nicht unter den routinemäßigen Untersuchungen aufgeführt sind, beziehungsweise in deren Umfang nicht untersucht werden müssen, sind Gegenstand der umfassenden Untersuchungen. Dies gilt nicht, wenn die routinemäßigen Untersuchungen bezüglich eines bestimmten Parameters sich auf eine bestimmte Situation beschränken, wie z. B. die Abfüllung von Trinkwasser in Behältnisse oder mikrobiologische Untersuchungen in bestimmten Teilen der Trinkwasser- Installation, oder wenn die zuständigen Behörden für einen von ihnen festzulegenden Zeitraum feststellen, dass das Vorhandensein eines Parameters in einem bestimmten Wasserversorgungsgebiet nicht in Konzentrationen zu erwarten ist, die die Einhaltung des entsprechenden Grenzwertes gefährden könnten. Satz 1 gilt nicht für die Parameter für Radioaktivität, die vorbehaltlich der Anmerkungen 3 bis 5 in Anlage 3 Teil I überwacht werden.
 
 Teil II
 
 Häufigkeit der Untersuchungen
 
-**a)**  
-**Mindesthäufigkeit der Analysen von Trinkwasser in einem Wasserversorgungsgebiet**
+a)  
+Mindesthäufigkeit der Analysen von Trinkwasser in einem Wasserversorgungsgebiet
 
 Menge des in einem Wasserversorgungs-
 gebiet abgegebenen oder
@@ -1430,16 +1439,17 @@ pro 25 000 Kubikmeter pro Tag
 der Berechnung werden
 auf 25 000 Kubikmeter aufgerundet)
 
-|                  |                                                                                                                                                                                                                                                                                                                       |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Anmerkung 1:** | Die Mengen werden als Mittelwerte über ein Kalenderjahr berechnet.                                                                                                                                                                                                                                                    |
-| **Anmerkung 2:** | Bei einer zeitweiligen, kurzfristigen Wasserversorgung (Ersatzversorgung) durch Wassertransport-Fahrzeuge ist das darin bereitgestellte Wasser alle 48 Stunden zu untersuchen oder untersuchen zu lassen, wenn der betreffende Wasserspeicher nicht innerhalb dieses Zeitraums gereinigt oder neu befüllt worden ist. |
+**Anmerkung 1:**  
+Die Mengen werden als Mittelwerte über ein Kalenderjahr berechnet.
 
-**b)**  
-**Untersuchung von Trinkwasser-Installationen nach § 14 Absatz 3**Der Parameter Legionella spec. ist mindestens einmal jährlich entsprechend den Vorgaben in § 14 Absatz 3 zu untersuchen. Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe e, aus denen im Rahmen einer gewerblichen, nicht aber öffentlichen Tätigkeit Trinkwasser abgegeben wird, sind mindestens alle drei Jahre entsprechend den Vorgaben des § 14 Absatz 3 zu untersuchen. Die erste Untersuchung muss bis zum 31. Dezember 2013 abgeschlossen sein. Für Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe d legt das Gesundheitsamt die Häufigkeit fest.Sind bei den jährlichen Untersuchungen auf Legionella spec. in drei aufeinanderfolgenden Jahren keine Beanstandungen festgestellt worden, so kann das Gesundheitsamt auch längere Untersuchungsintervalle von bis zu drei Jahren festlegen, sofern die Anlage und Betriebsweise nicht verändert wurden und nachweislich den allgemein anerkannten Regeln der Technik entsprechen. Diese Verlängerung der Untersuchungsintervalle ist nicht möglich in Bereichen, in denen sich Patienten mit höherem Risiko für Krankenhausinfektionen befinden (z. B. Krankenhäuser, Vorsorge- und Rehabilitationseinrichtungen, Einrichtungen für ambulantes Operieren, Dialyseeinrichtungen, Entbindungseinrichtungen).Anzahl und Beschreibung der repräsentativen Probennahmestellen gemäß § 14 Absatz 3 Satz 1 richten sich nach den allgemein anerkannten Regeln der Technik. Die Probennahme erfolgt nach DIN EN ISO 19458 wie dort unter „Zweck b“ beschrieben. Die Menge des vor dem Befüllen des Probenbehälters abgelaufenen Wassers darf 3 Liter nicht übersteigen.
+**Anmerkung 2:**  
+Bei einer zeitweiligen, kurzfristigen Wasserversorgung (Ersatzversorgung) durch Wassertransport-Fahrzeuge ist das darin bereitgestellte Wasser alle 48 Stunden zu untersuchen oder untersuchen zu lassen, wenn der betreffende Wasserspeicher nicht innerhalb dieses Zeitraums gereinigt oder neu befüllt worden ist.
 
-**c)**  
-**Mindesthäufigkeit der Analysen von Trinkwasser, das zur Abfüllung zum Zwecke der Abgabe in verschlossenen Behältnissen bestimmt ist**
+b)  
+Untersuchung von Trinkwasser- Installationen nach § 14 Absatz 3Der Parameter Legionella spec. ist mindestens einmal jährlich entsprechend den Vorgaben in § 14 Absatz 3 zu untersuchen. Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe e, aus denen im Rahmen einer gewerblichen, nicht aber öffentlichen Tätigkeit Trinkwasser abgegeben wird, sind mindestens alle drei Jahre entsprechend den Vorgaben des § 14 Absatz 3 zu untersuchen. Die erste Untersuchung muss bis zum 31. Dezember 2013 abgeschlossen sein. Für Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe d legt das Gesundheitsamt die Häufigkeit fest.Sind bei den jährlichen Untersuchungen auf Legionella spec. in drei aufeinanderfolgenden Jahren keine Beanstandungen festgestellt worden, so kann das Gesundheitsamt auch längere Untersuchungsintervalle von bis zu drei Jahren festlegen, sofern die Anlage und Betriebsweise nicht verändert wurden und nachweislich den allgemein anerkannten Regeln der Technik entsprechen. Diese Verlängerung der Untersuchungsintervalle ist nicht möglich in Bereichen, in denen sich Patienten mit höherem Risiko für Krankenhausinfektionen befinden (z. B. Krankenhäuser, Vorsorge- und Rehabilitationseinrichtungen, Einrichtungen für ambulantes Operieren, Dialyseeinrichtungen, Entbindungseinrichtungen).Anzahl und Beschreibung der repräsentativen Probennahmestellen gemäß § 14 Absatz 3 Satz 1 richten sich nach den allgemein anerkannten Regeln der Technik. Die Probennahme erfolgt nach DIN EN ISO 19458 wie dort unter „Zweck b“ beschrieben. Die Menge des vor dem Befüllen des Probenbehälters abgelaufenen Wassers darf 3 Liter nicht übersteigen.
+
+c)  
+Mindesthäufigkeit der Analysen von Trinkwasser, das zur Abfüllung zum Zwecke der Abgabe in verschlossenen Behältnissen bestimmt ist
 
 Menge des Trinkwassers,
 das zur Abfüllung zum Zwecke
@@ -1480,25 +1490,24 @@ auf 5 Kubikmeter aufgerundet)
 der Berechnung werden
 auf 100 Kubikmeter aufgerundet)
 
-|                  |                                                                                                              |
-|------------------|--------------------------------------------------------------------------------------------------------------|
-| **Anmerkung 1:** | Für die Berechnung der Mengen werden Durchschnittswerte – ermittelt über ein Kalenderjahr – zugrunde gelegt. |
+**Anmerkung 1:**  
+Für die Berechnung der Mengen werden Durchschnittswerte – ermittelt über ein Kalenderjahr – zugrunde gelegt.
 
 ### Anlage 5 (zu § 15 Absatz 1, 2 und 4)Spezifikationen für die Analyse der Parameter
 
-(Fundstelle: BGBl. I 2011, 2394 - 2396)
+(Fundstelle: BGBl. I 2013, 3002 - 3004)
 
 Teil I
 
 Parameter, für die mikrobiologische Analysenverfahren spezifiziert sind
 
-Die nachstehenden Verfahrensgrundsätze für mikrobiologische Analysen haben Referenzfunktion, sofern ein CEN/ISO-Verfahren angegeben ist; andernfalls dienen sie – bis zur etwaigen künftigen Annahme weiterer internationaler CEN/ISO-Verfahren für diese Parameter – als Orientierungshilfe.
+Die nachstehenden Verfahrensgrundsätze für mikrobiologische Analysen haben Referenzfunktion, sofern ein CEN/ISO- Verfahren angegeben ist; andernfalls dienen sie – bis zur etwaigen künftigen Annahme weiterer internationaler CEN/ISO- Verfahren für diese Parameter – als Orientierungshilfe.
 
 a)  
-Coliforme Bakterien und Escherichia coli (E. coli): DIN EN ISO 9308-1
+Coliforme Bakterien und Escherichia coli (E. coli): DIN EN ISO 9308- 1
 
 b)  
-Enterokokken: DIN EN ISO 7899-2
+Enterokokken: DIN EN ISO 7899- 2
 
 c)  
 Pseudomonas aeruginosa: DIN EN ISO 16266
@@ -1510,16 +1519,16 @@ aa)
 Verfahren nach DIN EN ISO 6222
 
 bb)  
-Als Koloniezahl wird die Zahl der mit 6- bis 8-facher Lupenvergrößerung sichtbaren Kolonien definiert, die sich aus den in 1 Milliliter des zu untersuchenden Wassers befindlichen Bakterien in Plattengusskulturen mit nährstoffreichen, peptonhaltigen Nährböden (1 % Fleischextrakt, 1 % Pepton) bei einer Bebrütungstemperatur von (20 ± 2) °C und (36 ± 1) °C nach (44 ± 4) Stunden Bebrütungsdauer bilden. Die verwendbaren Nährböden unterscheiden sich hauptsächlich durch das Verfestigungsmittel, sodass folgende Methoden möglich sind:
+Als Koloniezahl wird die Zahl der mit 6- bis 8- facher Lupenvergrößerung sichtbaren Kolonien definiert, die sich aus den in 1 Milliliter des zu untersuchenden Wassers befindlichen Bakterien in Plattengusskulturen mit nährstoffreichen, peptonhaltigen Nährböden (1 % Fleischextrakt, 1 % Pepton) bei einer Bebrütungstemperatur von (20 ± 2) °C und (36 ± 1) °C nach (44 ± 4) Stunden Bebrütungsdauer bilden. Die verwendbaren Nährböden unterscheiden sich hauptsächlich durch das Verfestigungsmittel, sodass folgende Methoden möglich sind:
 
 aaa)  
-Agar-Gelatine-Nährböden, Bebrütungstemperatur (20 ± 2) °C und (36 ± 1) °C, Bebrütungsdauer (44 ± 4) Stunden oder
+Agar- Gelatine- Nährböden, Bebrütungstemperatur (20 ± 2) °C und (36 ± 1) °C, Bebrütungsdauer (44 ± 4) Stunden oder
 
 bbb)  
-Agar-Nährböden, Bebrütungstemperatur (20 ± 2) °C und (36 ± 1) °C, Bebrütungsdauer (44 ± 4) Stunden
+Agar- Nährböden, Bebrütungstemperatur (20 ± 2) °C und (36 ± 1) °C, Bebrütungsdauer (44 ± 4) Stunden
 
 e)  
-Clostridium perfringens (einschließlich Sporen):Membranfiltration, dann anaerobe Bebrütung der Membran auf m-CP-Agar bei (44 ± 1) °C über (21 ± 3) Stunden. Auszählen aller dunkelgelben Kolonien, die nach einer Bedampfung mit Ammoniumhydroxid über eine Dauer von 20 bis 30 Sekunden rosafarben oder rot werden.Zusammensetzung des m-CP-Agar:
+Clostridium perfringens (einschließlich Sporen):Membranfiltration, dann anaerobe Bebrütung der Membran auf m- CP- Agar bei (44 ± 1) °C über (21 ± 3) Stunden. Auszählen aller dunkelgelben Kolonien, die nach einer Bedampfung mit Ammoniumhydroxid über eine Dauer von 20 bis 30 Sekunden rosafarben oder rot werden.Zusammensetzung des m- CP- Agar:
 
 |                                    |                  |
 |------------------------------------|------------------|
@@ -1533,7 +1542,7 @@ Clostridium perfringens (einschließlich Sporen):Membranfiltration, dann anaerob
 | Agar                               |    15 Gramm      |
 | Wasser (Anmerkung 1)               | 1 000 Milliliter |
 
-Die Bestandteile des Basismediums auflösen und einen pH-Wert von 7,6 einstellen. Autoklavieren bei 121 °C für eine Dauer von 15 Minuten. Abkühlen lassen und Folgendes hinzufügen:
+Die Bestandteile des Basismediums auflösen und einen pH- Wert von 7,6 einstellen. Autoklavieren bei 121 °C für eine Dauer von 15 Minuten. Abkühlen lassen und Folgendes hinzufügen:
 
 <table>
 <tbody>
@@ -1548,8 +1557,8 @@ Die Bestandteile des Basismediums auflösen und einen pH-Wert von 7,6 einstellen
 <tr class="odd">
 <td>Indoxyl-ß-D-Glukosid<br />
 aufgelöst in 8 ml sterilem Wasser</td>
-<td><br />
- 0,06 Gramm</td>
+<td> <br />
+0,06 Gramm</td>
 </tr>
 <tr class="even">
 <td>Sterilfiltrierte 0,5 %ige<br />
@@ -1569,9 +1578,8 @@ FeCl<sub>3</sub> • 6 H<sub>2</sub>O</td>
 f)  
 Legionellen: Die Untersuchung auf Legionella spec. ist entsprechend ISO 11731 sowie DIN EN ISO 11731 Teil 2 unter Berücksichtigung gegebenenfalls vorliegender Empfehlungen des Umweltbundesamtes durchzuführen.
 
-|                  |                                                                                                                                                                                                          |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Anmerkung 1:** | Es ist destilliertes oder deionisiertes Wasser zu verwenden, das frei von Substanzen ist, die das Wachstum der Bakterien unter den Untersuchungsbedingungen hemmen, und das der DIN ISO 3696 entspricht. |
+**Anmerkung 1:**  
+Es ist destilliertes oder deionisiertes Wasser zu verwenden, das frei von Substanzen ist, die das Wachstum der Bakterien unter den Untersuchungsbedingungen hemmen, und das der DIN ISO 3696 entspricht.
 
 Teil II
 
@@ -1657,7 +1665,7 @@ Benzo-(a)-pyren
 
 25
 
- 7
+7
 
 Benzol
 
@@ -1667,7 +1675,7 @@ Benzol
 
 25
 
- 8
+8
 
 Blei
 
@@ -1677,7 +1685,7 @@ Blei
 
 10
 
- 9
+9
 
 Bor
 
@@ -1867,11 +1875,19 @@ Wirkstoffe
 
 25
 
-Die Verfahrenskennwerte gelten für jeden einzelnen Pflanzenschutzmittel-Wirkstoff und Biozidprodukt-Wirkstoff und hängen von dem betreffenden Mittel ab. Die Nachweisgrenze ist möglicherweise nicht für alle Pflanzenschutzmittel-Wirkstoffe und Biozidprodukt-Wirkstoffe erreichbar; die Erreichung dieses Standards sollte angestrebt werden
+Die Verfahrenskennwerte gelten
+für jeden einzelnen Pflanzenschutzmittel-Wirkstoff und
+Biozidprodukt-Wirkstoff und
+hängen von dem betreffenden Mittel ab. Die Nachweisgrenze
+ist möglicherweise nicht für alle Pflanzenschutzmittel-Wirkstoffe und Biozidprodukt-Wirkstoffe
+erreichbar; die Erreichung dieses Standards sollte angestrebt
+werden
 
 28
 
-Polyzyklische aromatische Kohlenwasserstoffe
+Polyzyklische
+aromatische
+Kohlenwasserstoffe
 
 25
 
@@ -1879,7 +1895,8 @@ Polyzyklische aromatische Kohlenwasserstoffe
 
 25
 
-Die Verfahrenskennwerte gelten für die einzelnen spezifizierten Stoffe bei 25 % des Grenzwertes in Anlage 2
+Die Verfahrenskennwerte gelten
+für die einzelnen spezifizierten Stoffe bei 25 % des Grenzwertes in Anlage 2
 
 29
 
@@ -1945,7 +1962,8 @@ Trihalogenmethane
 
 10
 
-Die Verfahrenskennwerte gelten für die einzelnen spezifizierten Stoffe bei 25 % des Grenzwertes in Anlage 2
+Die Verfahrenskennwerte gelten
+für die einzelnen spezifizierten Stoffe bei 25 % des Grenzwertes in Anlage 2
 
 35
 
@@ -1963,22 +1981,19 @@ Vinylchlorid
 
 Anhand der Produktspezifikation zu kontrollieren
 
-Für die Wasserstoffionen-Konzentration sollen die spezifizierten Verfahrenskennwerte gewährleisten, dass das verwendete Analysenverfahren geeignet ist, dem Grenzwert entsprechende Konzentrationen mit einer Richtigkeit von 0,1 pH-Einheiten und einer Präzision von 0,1 pH-Einheiten zu messen. Für die Kontrolle der Trübung von aufbereitetem Oberflächenwasser sollen die spezifizierten Verfahrenskennwerte gewährleisten, dass das angewandte Analysenverfahren mindestens geeignet ist, den Trübungswert mit einer Richtigkeit, einer Präzision und einer Nachweisgrenze von jeweils 25 % zu messen.
+Für die Wasserstoffionen- Konzentration sollen die spezifizierten Verfahrenskennwerte gewährleisten, dass das verwendete Analysenverfahren geeignet ist, dem Grenzwert entsprechende Konzentrationen mit einer Richtigkeit von 0,1 pH- Einheiten und einer Präzision von 0,1 pH- Einheiten zu messen. Für die Kontrolle der Trübung von aufbereitetem Oberflächenwasser sollen die spezifizierten Verfahrenskennwerte gewährleisten, dass das angewandte Analysenverfahren mindestens geeignet ist, den Trübungswert mit einer Richtigkeit, einer Präzision und einer Nachweisgrenze von jeweils 25 % zu messen.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Anmerkung 1:</strong></td>
-<td>Dieser Begriff ist in ISO 5725 definiert.</td>
-</tr>
-<tr class="even">
-<td><strong>Anmerkung 2:</strong></td>
-<td>Nachweisgrenze ist entweder<br />
-– die dreifache relative Standardabweichung (innerhalb einer Messwertreihe) einer natürlichen Probe mit einer niedrigen Konzentration des Parameters oder<br />
-– die fünffache relative Standardabweichung (innerhalb einer Messwertreihe) einer Blindprobe.</td>
-</tr>
-</tbody>
-</table>
+**Anmerkung 1:**  
+Dieser Begriff ist in ISO 5725 definiert.
+
+**Anmerkung 2:**  
+Nachweisgrenze ist entweder
+
+–  
+die dreifache relative Standardabweichung (innerhalb einer Messwertreihe) einer natürlichen Probe mit einer niedrigen Konzentration des Parameters oder
+
+–  
+die fünffache relative Standardabweichung (innerhalb einer Messwertreihe) einer Blindprobe.
 
 Teil III
 
