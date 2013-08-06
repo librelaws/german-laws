@@ -2,13 +2,7 @@ Jugendschutzgesetz (JuSchG)
 ===========================
 
 Stand  
-Zuletzt geändert durch Art. 3 Abs. 1 G v. 31.10.2008 I 2149
-
-Hinweis  
-Änderung durch Art. 2 Abs. 55 G v. 7.8.2013 I 3154 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 4 Abs. 36 G v. 7.8.2013 I 3154 (Nr. 48) noch nicht berücksichtigt
+Zuletzt geändert durch Art. 2 Abs. 55 u. Art. 4 Abs. 36 G v. 7.8.2013 I 3154
 
 Sonst  
 Das G tritt gem. § 30 Abs. 1 Satz 1 an dem Tag in Kraft, an dem der Staatsvertrag der Länder über den Schutz der Menschenwürde und den Jugendschutz in Rundfunk und Telemedien in Kraft tritt\*. In Kraft gem. Bek. v. 1.4.2003 I 476 mWv 1.4.2003
