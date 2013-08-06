@@ -2,10 +2,7 @@ Waffengesetz (WaffG)
 ====================
 
 Stand  
-Zuletzt geändert durch Art. 1b G v. 25.11.2012 II 1381
-
-Sonst  
-Mittelbar geändert durch Art. 3 Abs. 4 G v. 17.7.2009 I 2062
+Zuletzt geändert durch Art. 4 Abs. 65 G v. 7.8.2013 I 3154
 
 ### 
 
@@ -61,6 +58,7 @@ Das G wurde als Art. 1 des G 7133-4/1 v. 11.10.2002 I 3970 vom Bundestag mit Zus
 | § 26                                                                                                         |
 | § 27                                                                                                         |
 | § 28                                                                                                         |
+| § 28a                                                                                                        |
 | Unterabschnitt 5                                                                                             |
 | Verbringen und Mitnahme von Waffen oder Munition in den, durch den oder aus dem Geltungsbereich des Gesetzes |
 | § 29                                                                                                         |
@@ -110,6 +108,7 @@ Das G wurde als Art. 1 des G 7133-4/1 v. 11.10.2002 I 3970 vom Bundestag mit Zus
 | Übergangsvorschriften, Verwaltungsvorschriften                                                               |
 | § 58                                                                                                         |
 | § 59                                                                                                         |
+| § 60                                                                                                         |
 | Anlage 1 (zu § 1 Abs. 4) Begriffsbestimmungen                                                                |
 | Anlage 2 (zu § 2 Abs. 2 bis 4) Waffenliste                                                                   |
 
@@ -870,6 +869,29 @@ Vorschriften über die sicherheitstechnische Prüfung von Schießstätten zu erl
 
 (4) In einen Waffenschein nach § 10 Abs. 4 kann auch der Zusatz aufgenommen werden, dass die in Absatz 3 bezeichneten Personen die ihnen überlassenen Waffen nach Weisung des Erlaubnisinhabers führen dürfen.
 
+### § 28a Erwerb, Besitz und Führen von Schusswaffen und Munition durch Bewachungsunternehmen und ihr Bewachungspersonal für Bewachungsaufgaben nach § 31 Absatz 1 der Gewerbeordnung
+
+(1) Für den Erwerb, Besitz und das Führen von Schusswaffen und Munition durch Bewachungsunternehmen und ihr Bewachungspersonal für Bewachungsaufgaben nach § 31 Absatz 1 der Gewerbeordnung auf Seeschiffen, die die Bundesflagge führen, ist § 28 entsprechend anzuwenden. Abweichend von § 28 Absatz 1 wird ein Bedürfnis für derartige Bewachungsaufgaben bei Bewachungsunternehmen anerkannt, die eine Zulassung nach § 31 Absatz 1 der Gewerbeordnung besitzen. Abweichend von § 28 Absatz 3 wird die Erlaubnis mit Auflagen erteilt, die die Unternehmer verpflichten,
+
+1.  
+als Bewachungspersonal nur Personen zu beschäftigen, welche die Voraussetzungen nach § 4 Absatz 1 Nummer 1 bis 3 erfüllen,
+
+2.  
+der zuständigen Behörde die eingesetzten Personen in einem von der Behörde bestimmten Zeitraum zu benennen und
+
+3.  
+auf Verlangen der zuständigen Behörde Nachweise vorzulegen, die belegen, dass die eingesetzten Personen die Anforderungen nach § 4 Absatz 1 Nummer 1 bis 3 erfüllen.
+
+(2) Die Erlaubnis ist auf die Dauer der Zulassung nach § 31 der Gewerbeordnung zu befristen. Sie kann verlängert werden. Die Verlängerung der Erlaubnis ist insbesondere zu versagen, wenn die Auflagen nach Absatz 1 Satz 3 nicht eingehalten wurden. Im Übrigen gelten die allgemeinen Bestimmungen dieses Gesetzes. Die Erlaubnis schließt die Erlaubnis zum Verbringen an Bord nach § 29 Absatz 1 ein.
+
+(3) Die zuständige Behörde kann zur Prüfung der Zuverlässigkeit, Eignung und Sachkunde der im Bewachungsunternehmen verantwortlichen Geschäftsleitung sowie der mit der Leitung des Betriebes oder einer Zweigniederlassung beauftragten Personen und der im Zusammenhang mit der Bewachungsaufgabe tätigen Personen auf die Erkenntnisse und Bewertungen der für die Zulassung nach § 31 Absatz 2 Satz 1 der Gewerbeordnung zuständigen Behörde zurückgreifen. Abweichend von § 7 Absatz 2 orientieren sich die Anforderungen an die Sachkunde an den auf der Grundlage von § 31 Absatz 4 Satz 1 Nummer 3 Buchstabe a der Gewerbeordnung in einer Rechtsverordnung festgelegten besonderen Anforderungen für den Einsatz auf Seeschiffen. Die für das gewerberechtliche Verfahren zuständige Behörde sowie die Bundespolizei dürfen der zuständigen Behörde auch ohne Ersuchen Informationen einschließlich personenbezogener Daten übermitteln, soweit dies zur Erfüllung der waffenbehördlichen Aufgaben erforderlich ist. Die Bundespolizei ist im Rahmen der Prüfung nach § 8 Nummer 2 zu beteiligen.
+
+(4) Absatz 3 Satz 3 ist entsprechend anzuwenden auf die Übermittlung von Informationen einschließlich personenbezogener Daten durch die zuständige Behörde, soweit dies zur Erfüllung der Aufgaben nach § 31 Absatz 2 der Gewerbeordnung erforderlich ist.
+
+(5) Hat das Bewachungsunternehmen seinen Sitz im Inland, so erfolgt die Erteilung der Erlaubnis durch die nach § 48 Absatz 1 Satz 2 bestimmte Behörde im Benehmen mit der für die gewerbliche Hauptniederlassung zuständigen Behörde.
+
+(6) Eine auf der Grundlage des § 28 erteilte Erlaubnis gilt befristet bis zum 31. Dezember 2013 für Aufträge nach § 31 der Gewerbeordnung mit der Maßgabe fort, dass der Inhaber der Erlaubnis der zuständigen Behörde unverzüglich anzuzeigen hat, dass er Aufträge im Sinne des § 31 der Gewerbeordnung wahrnimmt oder wahrnehmen möchte. Die nach § 48 Absatz 1 Satz 1 zuständige Behörde übermittelt der nach § 48 Absatz 1 Satz 2 zuständigen Behörde die Anzeige einschließlich der für die Entscheidung erforderlichen Unterlagen. Weist der in Satz 1 genannte Inhaber der Erlaubnis der nach § 48 Absatz 1 Satz 2 zuständigen Behörde bis zum 31. Dezember 2013 die Zulassung nach § 31 Absatz 1 der Gewerbeordnung und das Vorliegen der Voraussetzungen nach Absatz 1 nach, erteilt diese eine auf die Durchführung von Bewachungsaufgaben nach § 31 Absatz 1 der Gewerbeordnung beschränkte Erlaubnis. Absatz 1 Satz 3, Absatz 2 Satz 1, 4 und 5 sowie Absatz 5 gelten für diese Erlaubnis entsprechend.
+
 Unterabschnitt 5 Verbringen und Mitnahme von Waffen oder Munition in den, durch den oder aus dem Geltungsbereich des Gesetzes
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -1278,7 +1300,7 @@ die zu den Nummern 1 und 2 erforderlichen Bescheinigungen, Mitteilungspflichten 
 
 ### § 48 Sachliche Zuständigkeit
 
-(1) Die Landesregierungen oder die von ihnen durch Rechtsverordnung bestimmten Stellen können durch Rechtsverordnung die für die Ausführung dieses Gesetzes zuständigen Behörden bestimmen, soweit nicht Bundesbehörden zuständig sind.
+(1) Die Landesregierungen oder die von ihnen durch Rechtsverordnung bestimmten Stellen können durch Rechtsverordnung die für die Ausführung dieses Gesetzes zuständigen Behörden bestimmen, soweit nicht Bundesbehörden zuständig sind. Abweichend von Satz 1 ist für die Erteilung von Erlaubnissen an Bewachungsunternehmen für Bewachungsaufgaben nach § 28a Absatz 1 Satz 1 die für das Gebiet der Freien und Hansestadt Hamburg bestimmte Waffenbehörde zuständig.
 
 (1a) Die Landesregierungen oder die von ihnen durch Rechtsverordnung bestimmten Stellen bestimmen durch Rechtsverordnung die nach Artikel 6 Absatz 5 Satz 2 der Verordnung (EU) Nr. 1214/2011 des Europäischen Parlaments und des Rates vom 16. November 2011 über den gewerbsmäßigen grenzüberschreitenden Straßentransport von Euro-Bargeld zwischen den Mitgliedstaaten des Euroraums (ABl. L 316 vom 29.11.2011, S. 1) zuständige Kontaktstelle.
 
@@ -1342,13 +1364,13 @@ Ausnahmebewilligungen nach § 42 Abs. 2 die Behörde, in deren Bezirk die Verans
 6.  
 die Sicherstellung nach § 46 Abs. 2 Satz 2, Abs. 3 Satz 2 und Abs. 4 Satz 1 auch die Behörde, in deren Bezirk sich der Gegenstand befindet.
 
-### § 50 Kosten
+### § 50 Gebühren und Auslagen
 
-(1) Für Amtshandlungen, Prüfungen und Untersuchungen nach diesem Gesetz und nach den auf diesem Gesetz beruhenden Rechtsvorschriften werden Kosten (Gebühren und Auslagen) erhoben.
+(1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und nach den auf diesem Gesetz beruhenden Rechtsvorschriften werden Gebühren und Auslagen erhoben.
 
-(2) Das Bundesministerium des Innern wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie für den Bereich der Bundesverwaltung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den Amtshandlungen, Prüfungen oder Untersuchungen verbundene Personal- und Sachaufwand gedeckt wird. Bei begünstigenden Amtshandlungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden. Soweit der Gegenstand der Gebühr in den Anwendungsbereich der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt (ABl. L 376 vom 27.12.2006, S. 36) fällt, findet Satz 3 keine Anwendung; inländische Gebührenschuldner dürfen hierdurch nicht benachteiligt werden.
+(2) Das Bundesministerium des Innern wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie für den Bereich der Bundesverwaltung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand gedeckt wird. Bei begünstigenden Leistungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden. Soweit der Gegenstand der Gebühr in den Anwendungsbereich der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt (ABl. L 376 vom 27.12.2006, S. 36) fällt, findet Satz 3 keine Anwendung; inländische Gebührenschuldner dürfen hierdurch nicht benachteiligt werden.
 
-(3) In der Rechtsverordnung nach Absatz 2 kann bestimmt werden, dass die für die Prüfung oder Untersuchung zulässige Gebühr auch erhoben werden darf, wenn die Prüfung oder Untersuchung ohne Verschulden der prüfenden oder untersuchenden Stelle und ohne ausreichende Entschuldigung des Bewerbers oder Antragstellers am festgesetzten Termin nicht stattfinden konnte oder abgebrochen werden musste. In der Rechtsverordnung können ferner die Kostenbefreiung, die Kostengläubigerschaft, die Kostenschuldnerschaft, der Umfang der zu erstattenden Auslagen und die Kostenerhebung abweichend von den Vorschriften des Verwaltungskostengesetzes geregelt werden.
+(3) In der Rechtsverordnung nach Absatz 2 kann bestimmt werden, dass die für die Prüfung oder Untersuchung zulässige Gebühr auch erhoben werden darf, wenn die Prüfung oder Untersuchung ohne Verschulden der prüfenden oder untersuchenden Stelle und ohne ausreichende Entschuldigung des Bewerbers oder Antragstellers am festgesetzten Termin nicht stattfinden konnte oder abgebrochen werden musste. In der Rechtsverordnung können ferner die Gebühren- und Auslagenbefreiung, die Gebührengläubigerschaft, die Gebührenschuldnerschaft, der Umfang der zu erstattenden Auslagen und die Gebührenerhebung abweichend von den Vorschriften des Bundesgebührengesetzes geregelt werden.
 
 Abschnitt 4 Straf- und Bußgeldvorschriften
 ------------------------------------------
@@ -1459,7 +1481,7 @@ entgegen § 2 Abs. 1 oder 3, jeweils in Verbindung mit Anlage 2 Abschnitt 1 Nr. 
 ohne Erlaubnis nach § 2 Abs. 2 in Verbindung mit Abs. 4, dieser in Verbindung mit Anlage 2 Abschnitt 2 Unterabschnitt 1 Satz 1, mit einer Schusswaffe schießt,
 
 4.  
-einer vollziehbaren Auflage nach § 9 Abs. 2 Satz 1, § 10 Abs. 2 Satz 3, § 17 Abs. 2 Satz 2 oder § 18 Abs. 2 Satz 2 oder einer vollziehbaren Anordnung nach § 9 Abs. 3, § 36 Abs. 3 Satz 1 oder Abs. 6, § 37 Abs. 1 Satz 2, § 39 Abs. 3, § 40 Abs. 5 Satz 2 oder § 46 Abs. 2 Satz 1 oder Abs. 3 Satz 1 zuwiderhandelt,
+einer vollziehbaren Auflage nach § 9 Abs. 2 Satz 1, § 10 Abs. 2 Satz 3, § 17 Abs. 2 Satz 2, § 18 Absatz 2 Satz 2 oder § 28a Absatz 1 Satz 3 oder einer vollziehbaren Anordnung nach § 9 Abs. 3, § 36 Abs. 3 Satz 1 oder Abs. 6, § 37 Abs. 1 Satz 2, § 39 Abs. 3, § 40 Abs. 5 Satz 2 oder § 46 Abs. 2 Satz 1 oder Abs. 3 Satz 1 zuwiderhandelt,
 
 5.  
 entgegen § 10 Abs. 1a, § 21 Abs. 6 Satz 1 und 4, § 24 Abs. 5, § 27 Abs. 1 Satz 6, Abs. 2 Satz 2, § 31 Abs. 2 Satz 3, § 34 Absatz 2 Satz 1 oder Satz 2, Abs. 4 oder Abs. 5 Satz 1, § 36 Abs. 4 Satz 2, § 37 Abs. 1 Satz 1, Abs. 2 Satz 1 oder Abs. 3 Satz 1 oder § 40 Abs. 5 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
@@ -1647,6 +1669,10 @@ der Verstoß im Zeitpunkt der Unbrauchbarmachung, Überlassung oder Übergabe ga
 ### § 59 Verwaltungsvorschriften
 
 Das Bundesministerium des Innern erlässt allgemeine Verwaltungsvorschriften über den Erwerb und das Führen von Schusswaffen durch Behörden und Bedienstete seines Geschäftsbereichs sowie über das Führen von Schusswaffen durch erheblich gefährdete Hoheitsträger im Sinne von § 55 Abs. 2; die anderen obersten Bundesbehörden und die Deutsche Bundesbank erlassen die Verwaltungsvorschriften für ihren Geschäftsbereich im Einvernehmen mit dem Bundesministerium des Innern.
+
+### § 60 Übergangsvorschrift
+
+Die Kostenverordnung zum Waffengesetz in der Fassung der Bekanntmachung vom 20. April 1990 (BGBl. I S. 780), die zuletzt durch Artikel 2 der Verordnung vom 10. Januar 2000 (BGBl. I S. 38) geändert worden ist, gilt in den Ländern bis zum 14. August 2018 fort, solange die Länder keine anderweitigen Regelungen getroffen haben; für die Erhebung von Auslagen ist insoweit § 10 des Verwaltungskostengesetzes vom 23. Juni 1970 in der bis zum14. August 2013 geltenden Fassung weiter anzuwenden.
 
 ### Anlage 1 (zu § 1 Abs. 4)Begriffsbestimmungen
 
@@ -1848,8 +1874,6 @@ mit einem quer zur feststehenden oder feststellbaren Klinge verlaufenden Griff, 
 Faltmesser mit zweigeteilten, schwenkbaren Griffen (Butterflymesser),
 2.2
 Gegenstände, die bestimmungsgemäß unter Ausnutzung einer anderen als mechanischen Energie Tieren Schmerzen beibringen (z. B. Elektroimpulsgeräte), mit Ausnahme der ihrer Bestimmung entsprechend im Bereich der Tierhaltung oder bei der sachgerechten Hundeausbildung Verwendung findenden Gegenstände (z. B. Viehtreiber).
-2.2.1
-die bestimmungsgemäß unter Ausnutzung einer anderen als mechanischen Energie Tieren Verletzungen beibringen (z. B. Elektroimpulsgeräte), mit Ausnahme der ihrer Bestimmung entsprechend im Bereich der Tierhaltung Verwendung findenden Gegenstände.
 
 Unterabschnitt 3:
 Munition und Geschosse
