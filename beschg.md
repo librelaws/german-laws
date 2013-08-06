@@ -2,7 +2,7 @@ Gesetz über die Prüfung und Zulassung von Feuerwaffen, Böllern, Geräten, bei
 ========================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 Abs. 7 G v. 17.7.2009 I 2062
+Zuletzt geändert durch Art. 3 Abs. 17 G v. 7.8.2013 I 3154
 
 ### 
 
@@ -555,13 +555,13 @@ Abschnitt 3 Sonstige beschussrechtliche Vorschriften
 
 Das Bundesministerium des Innern wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates einen Ausschuss (Beschussrat) zu bilden, der es in technischen Fragen berät. In den Ausschuss sind neben den Vertretern der beteiligten Bundes- und Landesbehörden Vertreter von Fachinstituten und Normungsstellen, Vertreter der Wirtschaft nach Anhörung der Spitzenorganisationen der beteiligten Wirtschaftskreise und Vertreter sonstiger fachkundiger Verbände, die keine wirtschaftlichen Interessen verfolgen, zu berufen.
 
-### § 16 Kosten
+### § 16 Gebühren und Auslagen
 
-(1) Für Amtshandlungen, Prüfungen und Untersuchungen nach diesem Gesetz und nach den auf diesem Gesetz beruhenden Rechtsvorschriften werden Kosten (Gebühren und Auslagen) erhoben.
+(1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und nach den auf diesem Gesetz beruhenden Rechtsvorschriften werden Gebühren und Auslagen erhoben.
 
-(2) Das Bundesministerium des Innern wird ermächtigt, für den Bereich der Bundesverwaltung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit der Amtshandlung, Prüfung oder Untersuchung verbundene Personal- und Sachaufwand gedeckt wird; bei begünstigenden Amtshandlungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden.
+(2) Das Bundesministerium des Innern wird ermächtigt, für den Bereich der Bundesverwaltung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit der individuell zurechenbaren öffentlichen Leistung verbundene Personal- und Sachaufwand gedeckt wird; bei begünstigenden individuell zurechenbaren öffentlichen Leistungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden.
 
-(3) In der Rechtsverordnung nach Absatz 2 kann bestimmt werden, dass die für die Prüfung oder Untersuchung zulässige Gebühr auch erhoben werden darf, wenn die Prüfung oder Untersuchung ohne Verschulden der prüfenden oder untersuchenden Stelle und ohne ausreichende Entschuldigung des Antragstellers am festgesetzten Termin nicht stattfinden konnte oder abgebrochen werden musste. In der Rechtsverordnung können ferner die Kostenbefreiung, die Kostengläubigerschaft, die Kostenschuldnerschaft, der Umfang der zu erstattenden Auslagen und die Kostenerhebung abweichend von den Vorschriften des Verwaltungskostengesetzes geregelt werden.
+(3) In der Rechtsverordnung nach Absatz 2 kann bestimmt werden, dass die für die Prüfung oder Untersuchung zulässige Gebühr auch erhoben werden darf, wenn die Prüfung oder Untersuchung ohne Verschulden der prüfenden oder untersuchenden Stelle und ohne ausreichende Entschuldigung des Antragstellers am festgesetzten Termin nicht stattfinden konnte oder abgebrochen werden musste. In der Rechtsverordnung können ferner die Gebühren- und Auslagenbefreiung, die Gebührengläubigerschaft, die Gebührenschuldnerschaft, der Umfang der zu erstattenden Auslagen und die Gebührenerhebung abweichend von den Vorschriften des Bundesgebührengesetzes geregelt werden.
 
 ### § 17 Auskunftspflichten und besondere behördliche Befugnisse im Rahmen der Überwachung
 
