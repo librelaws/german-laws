@@ -2,7 +2,7 @@ Verordnung zur Zulassung von kommunalen Trägern als Träger der Grundsicherung 
 ==========================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 20.8.2012 I 1768
+Zuletzt geändert durch Art. 1 V v. 14.8.2013 I 3229
 
 Sonst  
 Geltung der V durch § 2 idF Art. 1 Nr. 2 V v. 1.12.2010 I 1758 über den 31.12.2010 hinaus verlängert
@@ -10,7 +10,7 @@ Geltung der V durch § 2 idF Art. 1 Nr. 2 V v. 1.12.2010 I 1758 über den 31.12.
 ### 
 
 ```
-(+++ Textnachweis ab: 28. 9.2004 +++)
+(+++ Textnachweis ab: 28.9.2004 +++)
 ```
 
 ### Eingangsformel
@@ -169,14 +169,8 @@ Landeshauptstadt Wiesbaden;
 
 **Mecklenburg-Vorpommern:**
 
-1.  
-Landkreis Mecklenburg-Strelitz,
-
-2.  
-Landkreis Nordvorpommern,
-
-3.  
-Landkreis Ostvorpommern;
+  
+Landkreis Vorpommern-Rügen;
 
 **Niedersachsen:**
 
@@ -223,7 +217,7 @@ Landkreis Rotenburg (Wümme),
 Landkreis Schaumburg,
 
 15.  
-Landkreis Soltau-Fallingbostel,
+Landkreis Heidekreis,
 
 16.  
 Landkreis Verden,
@@ -333,7 +327,7 @@ Landkreis Leipzig,
 Landkreis Meißen,
 
 6.  
-Landkreis Mittelsachsen für das in der Kommunalträger-Zulassungsverordnung vom 24. September 2004 (BGBl. I S. 2349) zugelassene Gebiet des Landkreises Döbeln;
+(weggefallen)
 
 **Sachsen-Anhalt:**
 
