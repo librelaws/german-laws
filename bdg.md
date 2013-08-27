@@ -2,7 +2,7 @@ Bundesdisziplinargesetz (BDG)
 =============================
 
 Stand  
-Zuletzt geändert durch Art. 4 G v. 6.12.2011 I 2554
+Zuletzt geändert durch Art. 4 G v. 28.8.2013 I 3386
 
 ### 
 
@@ -156,7 +156,7 @@ Teil 1 Allgemeine Bestimmungen
 
 ### § 1 Persönlicher Geltungsbereich
 
-Dieses Gesetz gilt für Beamte und Ruhestandsbeamte im Sinne des Bundesbeamtengesetzes. Frühere Beamte, die Unterhaltsbeiträge nach den Bestimmungen des Beamtenversorgungsgesetzes oder entsprechender früherer Regelungen beziehen, gelten bis zum Ende dieses Bezuges als Ruhestandsbeamte, ihre Bezüge als Ruhegehalt.
+Dieses Gesetz gilt für Beamte und Ruhestandsbeamte im Sinne des Bundesbeamtengesetzes. Frühere Beamte, die Unterhaltsbeiträge nach den Bestimmungen des Beamtenversorgungsgesetzes oder entsprechender früherer Regelungen beziehen, gelten bis zum Ende dieses Bezuges als Ruhestandsbeamte, ihre Bezüge als Ruhegehalt. Frühere Beamte mit Anspruch auf Altersgeld gelten, auch soweit der Anspruch ruht, als Ruhestandsbeamte; das Altersgeld gilt als Ruhegehalt.
 
 ### § 2 Sachlicher Geltungsbereich
 
