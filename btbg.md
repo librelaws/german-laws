@@ -101,8 +101,4 @@ IV. Berlin-Klausel
 
 ### § 10
 
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
-
-### § 10
-
 Die Aufgaben, die der Behörde nach anderen Vorschriften obliegen, bleiben unberührt. Zuständige Behörde im Sinne dieser Vorschriften ist die örtliche Behörde.
