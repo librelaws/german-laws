@@ -4,6 +4,9 @@ Gesetz über die Wahrnehmung behördlicher Aufgaben bei der Betreuung Volljähri
 Stand  
 Zuletzt geändert durch Art. 2 G v. 28.8.2013 I 3393
 
+Hinweis  
+Änderung durch Art. 5 G v. 17.7.2017 I 2426 mWv 22.7.2017 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
@@ -19,7 +22,7 @@ I. Behörden
 
 ### § 1
 
-Welche Behörde auf örtlicher Ebene in Betreuungsangelegenheiten zuständig ist, bestimmt sich nach Landesrecht. Diese Behörde ist auch in Unterbringungsangelegenheiten im Sinne des § 312 Nr. 1 und 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit zuständig.
+Welche Behörde auf örtlicher Ebene in Betreuungsangelegenheiten zuständig ist, bestimmt sich nach Landesrecht. Diese Behörde ist auch in Unterbringungsangelegenheiten im Sinne des § 312 Nummer 1 bis 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit zuständig.
 
 ### § 2
 
