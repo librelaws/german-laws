@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 28.8.2013 I 3498, 3991;
 
 Stand  
-zuletzt geändert durch Art. 431 V v. 31.8.2015 I 1474
+zuletzt geändert durch Art. 2 G v. 18.7.2017 I 2774
 
 ### 
 
@@ -190,7 +190,9 @@ Schlussvorschriften
 | Anhang 1 | Grundsätze der Guten Laborpraxis (GLP) |
 | Anhang 2 | GLP-Bescheinigung                      |
 
-Gemäß Artikel 4 Absatz 101 Nummer 1 in Verbindung mit Artikel 5 Absatz 3 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) wird am 14. August 2018 in der Inhaltsübersicht die Angabe zu § 25a wie folgt gefasst: „§ 25a Aufwendungen des Auskunftspflichtigen“.
+*Gemäß Artikel 4 Absatz 101 Nummer 1 in Verbindung mit Artikel 5 Absatz 3 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) wird am 14. August 2018 in der Inhaltsübersicht die Angabe zu § 25a wie folgt gefasst: „§ 25a Aufwendungen des Auskunftspflichtigen“.*
+
+Inhaltsübersicht Fußnote Kursivdruck: Art. 4 u. Art. 5 Abs. 3 G v. 7.8.2013 I 3154 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 Erster Abschnitt Zweck, Anwendungsbereich und Begriffsbestimmungen
 ------------------------------------------------------------------
@@ -206,13 +208,13 @@ Zweck des Gesetzes ist es, den Menschen und die Umwelt vor schädlichen Einwirku
 (1) Die Vorschriften des Dritten Abschnitts, die §§ 16e, 17 Abs. 1 Nr. 2 Buchstabe a und b und § 23 Abs. 2 gelten nicht für
 
 1.  
-kosmetische Mittel im Sinne des Lebensmittel- und Futtermittelgesetzbuches und Tabakerzeugnisse im Sinne des Vorläufigen Tabakgesetzes,
+kosmetische Mittel im Sinne des Lebensmittel- und Futtermittelgesetzbuches und Tabakerzeugnisse und pflanzliche Raucherzeugnisse im Sinne des § 2 Nummer 1 des Tabakerzeugnisgesetzes,
 
 2.  
 Arzneimittel, die einem Zulassungs- oder Registrierungsverfahren nach dem Arzneimittelgesetz oder nach dem Tiergesundheitsgesetz unterliegen, sowie sonstige Arzneimittel, soweit sie nach § 21 Abs. 2 des Arzneimittelgesetzes einer Zulassung nicht bedürfen oder in einer zur Abgabe an den Verbraucher bestimmten Verpackung abgegeben werden,
 
 2a.  
-Medizinprodukte im Sinne des § 3 des Medizinproduktegesetzes und ihr Zubehör. Soweit es sich um Medizinprodukte handelt, die Zubereitungen im Sinne der Richtlinie 1999/45/EG des Europäischen Parlaments und des Rates vom 31. Mai 1999 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten für die Einstufung, Verpackung und Kennzeichnung gefährlicher Zubereitungen (ABl. EG Nr. L 200 S. 1) sind oder enthalten, gelten die Vorschriften des Dritten Abschnitts, es sei denn, es handelt sich um Medizinprodukte, die invasiv oder unter Körperberührung angewendet werden,
+Medizinprodukte im Sinne des § 3 des Medizinproduktegesetzes und ihr Zubehör; die Vorschriften des Dritten Abschnitts gelten für Medizinprodukte mit Ausnahme von für den Endverbraucher bestimmten Fertigerzeugnissen, die invasiv oder unter Körperberührung angewendet werden,
 
 3.  
 Abfälle zur Beseitigung im Sinne des § 3 Absatz 1 Satz 2 zweiter Halbsatz des Kreislaufwirtschaftsgesetzes,
@@ -241,7 +243,7 @@ soweit sie einem Zulassungsverfahren nach pflanzenschutzrechtlichen Regelungen u
 
 § 17 Abs. 1 Nr. 1 und 3 gilt nicht für Stoffe und Gemische nach Satz 1 Nr. 2, soweit entsprechende Regelungen aufgrund des Pflanzenschutzgesetzes getroffen werden können.
 
-(4) Die Vorschriften des Dritten Abschnitts und die §§ 16d, 17 und 23 gelten für das Herstellen, Inverkehrbringen oder Verwenden von Stoffen oder Gemischen nach § 3a Abs. 1 Nr. 2 bis 5 und 15 sowie von Erzeugnissen, die solche Stoffe oder Gemische freisetzen können oder enthalten, lediglich insoweit, als es gewerbsmäßig, im Rahmen sonstiger wirtschaftlicher Unternehmungen oder unter Beschäftigung von Arbeitnehmern erfolgt. Diese Beschränkung gilt nicht für
+(4) Die Vorschriften des Dritten Abschnitts und die §§ 16d, 17 und 23 gelten für das Herstellen, Inverkehrbringen oder Verwenden von Stoffen oder Gemischen nach Anhang I Teil 2 mit Ausnahme der Abschnitte 2.1, 2.8 Typ A und B und des Abschnitts 2.15 Typ A und B der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1; L 16 vom 20.1.2011, S. 1; L 94 vom 10.4.2015, S. 9), die zuletzt durch die Verordnung (EU) 2017/542 (ABl. L 78 vom 23.3.2017, S. 1) geändert worden ist, in ihrer jeweils geltenden Fassung, und § 3a Absatz 1 Nummer 2 sowie von Erzeugnissen, die solche Stoffe oder Gemische freisetzen können oder enthalten, lediglich insoweit, als es gewerbsmäßig, im Rahmen sonstiger wirtschaftlicher Unternehmungen oder unter Beschäftigung von Arbeitnehmern erfolgt. Diese Beschränkung gilt nicht für
 
 1.  
 Regelungen und Anordnungen
@@ -307,60 +309,21 @@ Bestimmungen der in Satz 1 aufgeführten Begriffe in Verordnungen der Europäisc
 
 ### § 3a Gefährliche Stoffe und gefährliche Gemische
 
-(1) Gefährliche Stoffe oder gefährliche Gemische sind Stoffe oder Gemische, die
+(1) Gefährliche Stoffe oder gefährliche Gemische im Sinne dieses Gesetzes sind Stoffe oder Gemische, die
 
 1.  
-explosionsgefährlich,
+die in Anhang I Teil 2 und 3 der Verordnung (EG) Nr. 1272/2008 dargelegten Kriterien für physikalische Gefahren oder Gesundheitsgefahren erfüllen oder
 
 2.  
-brandfördernd,
+umweltgefährlich sind, indem sie
 
-3.  
-hochentzündlich,
+a)  
+die in Anhang I Teil 4 und 5 der Verordnung (EG) Nr. 1272/2008 dargelegten Kriterien für Umweltgefahren und weitere Gefahren erfüllen oder
 
-4.  
-leichtentzündlich,
+b)  
+selbst oder deren Umwandlungsprodukte sonst geeignet sind, die Beschaffenheit des Naturhaushaltes, von Wasser, Boden oder Luft, Klima, Tieren, Pflanzen oder Mikroorganismen derart zu verändern, dass dadurch sofort oder später Gefahren für die Umwelt herbeigeführt werden können.
 
-5.  
-entzündlich,
-
-6.  
-sehr giftig,
-
-7.  
-giftig,
-
-8.  
-gesundheitsschädlich,
-
-9.  
-ätzend,
-
-10.  
-reizend,
-
-11.  
-sensibilisierend,
-
-12.  
-krebserzeugend,
-
-13.  
-fortpflanzungsgefährdend,
-
-14.  
-erbgutverändernd oder
-
-15.  
-umweltgefährlich sind;
-
-ausgenommen sind gefährliche Eigenschaften ionisierender Strahlen.
-
-(2) Umweltgefährlich sind Stoffe oder Gemische, die selbst oder deren Umwandlungsprodukte geeignet sind, die Beschaffenheit des Naturhaushaltes, von Wasser, Boden oder Luft, Klima, Tieren, Pflanzen oder Mikroorganismen derart zu verändern, dass dadurch sofort oder später Gefahren für die Umwelt herbeigeführt werden können.
-
-(3) Gefährlich im Sinne dieses Gesetzes sind auch solche Stoffe und Gemische, die nach Artikel 3 der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1), die zuletzt durch die Verordnung (EU) Nr. 286/2011 (ABl. L 83 vom 30.3.2011, S. 1) geändert worden ist, in ihrer jeweils geltenden Fassung gefährlich sind, ohne einem der Gefährlichkeitsmerkmale nach Absatz 1 zugeordnet werden zu können.
-
-(4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften über die Festlegung der in Absatz 1 genannten Gefährlichkeitsmerkmale zu erlassen.
+(2) Die Bundesregierung wird ermächtigt, soweit unionsrechtlich zulässig durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften über die Festlegung der in Absatz 1 genannten Gefährlichkeitsmerkmale zu erlassen.
 
 ### § 3b (weggefallen)
 
@@ -509,21 +472,18 @@ Abschnitt IIa Durchführung der Verordnung (EU) Nr. 528/2012
 
 (1) Bei der Durchführung der Verordnung (EU) Nr. 528/2012 wirken die in § 4 Absatz 1 genannten Stellen nach Maßgabe dieses Abschnitts mit. Das Bundesinstitut für Risikobewertung als Bewertungsstelle Gesundheit und Verbraucherschutz unterliegt insoweit der Fachaufsicht des Bundesministeriums für Ernährung und Landwirtschaft.
 
-(2) Soweit bei den in § 4 Absatz 1 Nummer 2 bis 4 genannten Behörden, beim Julius Kühn-Institut, bei der Bundesanstalt für Materialforschung und -prüfung oder beim Robert Koch-Institut besondere Fachkenntnisse zur Beurteilung der Wirksamkeit sowie der unannehmbaren Wirkungen auf Zielorganismen vorliegen, kann die Bundesstelle für Chemikalien zur Entscheidung über das Vorliegen der Zulassungsvoraussetzungen nach Artikel 19 Absatz 1 Buchstabe b Ziffer i und ii der Verordnung (EU) Nr. 528/2012 eine Stellungnahme bei diesen Behörden einholen. Ferner beteiligt die Bundesstelle für Chemikalien die Bundesanstalt für Materialforschung und -prüfung bei der Bewertung der gefährlichen Eigenschaften im Sinne des § 3a Absatz 1 Nummer 1 bis 5 und der Beständigkeit von Behältern und Verpackungsmaterial, sofern die Bundesanstalt für Materialforschung und -prüfung bei der betreffenden Fragestellung aufgrund weiterer gesetzlicher Zuständigkeiten besondere Fachkenntnisse besitzt und die betreffende Fragestellung von der Bundesstelle für Chemikalien nicht abschließend beurteilt werden kann.
+(2) Soweit bei den in § 4 Absatz 1 Nummer 2 bis 4 genannten Behörden, beim Julius Kühn-Institut, bei der Bundesanstalt für Materialforschung und -prüfung oder beim Robert Koch-Institut besondere Fachkenntnisse zur Beurteilung der Wirksamkeit sowie der unannehmbaren Wirkungen auf Zielorganismen vorliegen, kann die Bundesstelle für Chemikalien zur Entscheidung über das Vorliegen der Zulassungsvoraussetzungen nach Artikel 19 Absatz 1 Buchstabe b Ziffer i und ii der Verordnung (EU) Nr. 528/2012 eine Stellungnahme bei diesen Behörden einholen. Ferner beteiligt die Bundesstelle für Chemikalien die Bundesanstalt für Materialforschung und -prüfung bei der Bewertung der physikalischen Gefahren gemäß Anhang I Teil 2 der Verordnung (EG) Nr. 1272/2008, der sicherheitstechnischen Eigenschaften und der Beständigkeit von Behältern und Verpackungsmaterial, sofern die Bundesanstalt für Materialforschung und -prüfung bei der betreffenden Fragestellung aufgrund weiterer gesetzlicher Zuständigkeiten besondere Fachkenntnisse besitzt und die betreffende Fragestellung von der Bundesstelle für Chemikalien nicht abschließend beurteilt werden kann.
 
 (3) Abweichend von Absatz 1 sind für die Erteilung, Verlängerung, Überprüfung und Aufhebung von Ausnahmezulassungen nach Artikel 55 Absatz 1 der Verordnung (EU) Nr. 528/2012 einschließlich der Veranlassung der darauf bezogenen Kommissionsverfahren die folgenden Behörden zuständig:
 
 1.  
-das Robert Koch-Institut in Bezug auf Biozid-Produkte, die nach § 18 des Infektionsschutzgesetzes bei Entseuchungen verwendet werden müssen,
+das Robert Koch-Institut in Bezug auf Biozid-Produkte, die nach § 18 des Infektionsschutzgesetzes bei behördlich angeordneten Entseuchungen verwendet werden dürfen,
 
 2.  
-das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit in Bezug auf Biozid-Produkte, die
+das Umweltbundesamt in Bezug auf Biozid-Produkte, die nach § 18 des Infektionsschutzgesetzes bei behördlich angeordneten Maßnahmen zur Bekämpfung von Gesundheitsschädlingen oder Krätzmilben verwendet werden dürfen,
 
-a)  
-nach § 18 des Infektionsschutzgesetzes bei Entwesungen und bei Maßnahmen zur Bekämpfung von Wirbeltieren, durch die Krankheitserreger verbreitet werden können, verwendet werden müssen oder
-
-b)  
-nach § 17f des Tierseuchengesetzes bei tierseuchenrechtlich vorgeschriebenen Desinfektionen und Entwesungen verwendet werden dürfen.
+3.  
+das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit in Bezug auf Biozid-Produkte, die nach einer Rechtsverordnung auf Grund des § 7 des Tiergesundheitsgesetzes bei einer tiergesundheitsrechtlich vorgeschriebenen Desinfektion, Bekämpfung von Schadnagern oder von sonstigen Schadorganismen oder bei einer sonstigen Entwesung verwendet werden dürfen.
 
 ### § 12b Aufgaben der Bundesstelle für Chemikalien
 
@@ -714,7 +674,7 @@ die Anordnung vorläufiger Maßnahmen nach § 23 Absatz 2 unter Vorlage der Unte
 
 (2) Für das unionsrechtliche Entscheidungsverfahren nach Artikel 88 der Verordnung (EU) Nr. 528/2012 über vorläufige Maßnahmen, die auf der Grundlage des Absatzes 1 oder sonstiger Vorschriften dieses Gesetzes erlassen wurden, ist § 10 entsprechend anzuwenden.
 
-(3) Die Bundesstelle für Chemikalien kann im Einvernehmen mit den Bewertungsstellen ein Biozid-Produkt zulassen für wesentliche Verwendungszwecke gemäß Artikel 5 Absatz 1 der Verordnung (EG) Nr. 1451/2007 der Kommission vom 4. Dezember 2007 über die zweite Phase des Zehn-Jahres-Arbeitsprogramms gemäß Artikel 16 Absatz 2 der Richtlinie 98/8/EG des Europäischen Parlaments und des Rates über das Inverkehrbringen von Biozid-Produkten (ABl. L 325 vom 11.12.2007, S. 3), die durch die Verordnung (EU) Nr. 298/2010 der Kommission vom 9. April 2010 (ABl. L 90 vom 10.4.2010, S. 4) geändert worden ist, sofern die Europäische Kommission für den betreffenden Biozid-Wirkstoff eine Entscheidung nach Artikel 5 Absatz 3 der Verordnung (EG) Nr. 1451/2007, auch in Verbindung mit Artikel 89 Absatz 1 der Verordnung (EU) Nr. 528/2012, getroffen hat und die dort genannten Voraussetzungen eingehalten werden.
+(3) Die Bundesstelle für Chemikalien kann im Einvernehmen mit den Bewertungsstellen ein Biozid-Produkt zulassen für wesentliche Verwendungszwecke gemäß Artikel 22 Absatz 1 der Delegierten Verordnung (EU) Nr. 1062/2014 der Kommission vom 4. August 2014 über das Arbeitsprogramm zur systematischen Prüfung aller in Biozidprodukten enthaltenen alten Wirkstoffe gemäß der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates (ABl. L 294 vom 10.10.2014, S. 1; L 198 vom 28.7.2015, S. 28), sofern die Europäische Kommission für den betreffenden Biozid-Wirkstoff eine Entscheidung nach Artikel 22 Absatz 4 der Delegierten Verordnung (EU) Nr. 1062/2014, auch in Verbindung mit Artikel 89 Absatz 1 der Verordnung (EU) Nr. 528/2012, getroffen hat und die dort genannten Voraussetzungen eingehalten werden.
 
 ### § 12h Verordnungsermächtigungen
 
@@ -758,29 +718,15 @@ Dritter Abschnitt Einstufung, Kennzeichnung und Verpackung
 
 (1) Die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen richten sich nach den Bestimmungen der Verordnung (EG) Nr. 1272/2008.
 
-(2) Wer als Hersteller oder Einführer Stoffe oder Gemische in den Verkehr bringt, hat diese nach der Rechtsverordnung gemäß § 14 einzustufen, soweit
+(2) Wer als Hersteller oder Einführer Stoffe oder Gemische in den Verkehr bringt, hat diese zusätzlich nach der Rechtsverordnung gemäß § 14 einzustufen, soweit die Rechtsverordnung Regelungen zur Einstufung enthält.
 
-1.  
-er nach den Übergangsbestimmungen des Artikels 61 der Verordnung (EG) Nr. 1272/2008 die auf der Richtlinie 67/548/EWG oder der Richtlinie 1999/45/EG beruhenden Bestimmungen anzuwenden hat oder
-
-2.  
-die Rechtsverordnung nach § 14 Regelungen enthält, die über die Anforderungen der Verordnung (EG) Nr. 1272/2008 hinausgehen.
-
-(3) Wer als Lieferant im Sinne des Artikels 2 Nummer 26 der Verordnung (EG) Nr. 1272/2008 Stoffe oder Gemische in den Verkehr bringt, hat diese nach der Rechtsverordnung gemäß § 14 zu kennzeichnen und zu verpacken, soweit
-
-1.  
-er nach den Übergangsbestimmungen des Artikels 61 der Verordnung (EG) Nr. 1272/2008 die auf der Richtlinie 67/548/EWG oder der Richtlinie 1999/45/EG beruhenden Bestimmungen anzuwenden hat oder anwendet oder
-
-2.  
-die Rechtsverordnung nach § 14 Regelungen enthält, die über die Anforderungen der Verordnung (EG) Nr. 1272/2008 hinausgehen.
-
-Bei der Erfüllung der Pflichten nach Satz 1 können Lieferanten, die nicht selbst nach Absatz 2 zur Einstufung des Stoffes oder Gemisches verpflichtet sind, die Einstufung des Herstellers oder Einführers zugrunde legen, sofern sie nicht von deren Unrichtigkeit Kenntnis haben.
+(3) Wer als Lieferant im Sinne des Artikels 2 Nummer 26 der Verordnung (EG) Nr. 1272/2008 Stoffe oder Gemische in den Verkehr bringt, hat diese zusätzlich nach der Rechtsverordnung gemäß § 14 zu kennzeichnen und zu verpacken, soweit die Rechtsverordnung Regelungen zur Kennzeichnung und Verpackung enthält.
 
 (4) Weitergehende Anforderungen über die Kennzeichnung und Verpackung nach anderen Rechtsvorschriften bleiben unberührt.
 
 ### § 14 Ermächtigung zu Einstufungs-, Kennzeichnungs- und Verpackungsvorschriften
 
-(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+(1) Die Bundesregierung wird ermächtigt, soweit unionsrechtlich zulässig durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  
 Stoffe oder Gemische als gefährlich einzustufen,
@@ -804,10 +750,13 @@ d)
 wer die gefährlichen Stoffe, Gemische oder Erzeugnisse zu verpacken und zu kennzeichnen hat, wenn sie bereits vor Inkrafttreten der die Kennzeichnungs- oder Verpackungspflicht begründenden Rechtsverordnung in den Verkehr gebracht worden sind,
 
 e)  
-dass und wie bestimmte Gemische und Erzeugnisse, die bestimmte näher zu bezeichnende gefährliche Stoffe nicht enthalten, zu kennzeichnen sind oder gekennzeichnet werden können, und
+dass und wie bestimmte Gemische und Erzeugnisse, die bestimmte näher zu bezeichnende gefährliche Stoffe nicht enthalten, zu kennzeichnen sind oder gekennzeichnet werden können,
 
 f)  
-dass und von wem die Kennzeichnung bestimmter Stoffe, Gemische oder Erzeugnisse nach dem Inverkehrbringen zu erhalten oder erneut anzubringen ist.
+dass und von wem die Kennzeichnung bestimmter Stoffe, Gemische oder Erzeugnisse nach dem Inverkehrbringen zu erhalten oder erneut anzubringen ist und
+
+g)  
+dass andere als die in § 13 Absatz 2 und 3 genannten Personen für die Einstufung, Kennzeichnung und Verpackung verantwortlich sind.
 
 (2) In der Rechtsverordnung nach Absatz 1 können auch Ausnahmen von der Pflicht zur Verpackung und Kennzeichnung vorgesehen werden, soweit dadurch der Schutzzweck nach Absatz 1 Nummer 3 Buchstabe a nicht beeinträchtigt wird. In der Rechtsverordnung kann auch bestimmt werden, dass anstelle einer Kennzeichnung die entsprechenden Angaben in anderer geeigneter Weise mitzuliefern sind.
 
@@ -892,6 +841,8 @@ Anfragen medizinischen Inhalts mit der Angabe von vorbeugenden und heilenden Ma�
 2.  
 auf Anforderung des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit anhand einer statistischen Analyse den Bedarf an verbesserten Risikomanagementmaßnahmen zu ermitteln.
 
+Die Überwachungsbefugnisse der zuständigen Landesbehörden nach § 21 bleiben unberührt.
+
 (5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  
@@ -931,7 +882,7 @@ b)
 nur auf bestimmte Art und Weise verwendet werden dürfen oder
 
 c)  
-nur unter bestimmten Voraussetzungen oder nur an bestimmte Personen abgegeben werden dürfen,
+nur unter bestimmten Voraussetzungen oder nur an bestimmte Personen abgegeben oder nur unter bestimmten Voraussetzungen oder nur bestimmten Personen angeboten werden dürfen,
 
 2.  
 vorzuschreiben, dass derjenige, der bestimmte gefährliche Stoffe, bestimmte gefährliche Gemische oder Erzeugnisse, die einen solchen Stoff oder ein solches Gemisch freisetzen können oder enthalten, herstellt, in den Verkehr bringt oder verwendet,
@@ -953,7 +904,7 @@ Herstellungs- oder Verwendungsverfahren zu verbieten, bei denen bestimmte gefäh
 
 (2) Durch Verordnung nach Absatz 1 können auch Verbote und Beschränkungen unter Berücksichtigung der Entwicklung von Stoffen, Gemischen, Erzeugnissen oder Verfahren, deren Herstellung, Verwendung, Entsorgung oder Anwendung mit einem geringeren Risiko für Mensch oder Umwelt verbunden ist, festgesetzt werden.
 
-(3) Absatz 1 gilt auch für Biozid-Wirkstoffe und Biozid-Produkte, die nicht gefährliche Stoffe oder Gemische im Sinne des § 3a sind, für Stoffe, Gemische und Erzeugnisse nach § 19 Absatz 2 sowie für Stoffe, Gemische oder Erzeugnisse, deren Umwandlungsprodukte gefährlich im Sinne des § 3a Absatz 1 Nummer 1 bis 14 sind. Durch Verordnung nach Absatz 1 in Verbindung mit Satz 1 können auch Vorschriften zur guten fachlichen Praxis bei der Verwendung von Biozid-Produkten erlassen werden.
+(3) Absatz 1 gilt auch für Biozid-Wirkstoffe und Biozid-Produkte, die nicht gefährliche Stoffe oder Gemische im Sinne des § 3a sind, für Stoffe, Gemische und Erzeugnisse nach § 19 Absatz 2 sowie für Stoffe, Gemische oder Erzeugnisse, deren Umwandlungsprodukte gefährlich im Sinne des Anhangs I Teil 2 bis 5 der Verordnung (EG) Nr. 1272/2008 sind. Durch Verordnung nach Absatz 1 in Verbindung mit Satz 1 können auch Vorschriften zur guten fachlichen Praxis bei der Verwendung von Biozid-Produkten erlassen werden.
 
 (4) Absatz 1 Nummer 1 und 2 gilt auch für solche Stoffe, Gemische oder Erzeugnisse, bei denen Anhaltspunkte, insbesondere ein nach dem Stand der wissenschaftlichen Erkenntnisse begründeter Verdacht dafür bestehen, dass der Stoff, das Gemisch oder das Erzeugnis gefährlich ist.
 
@@ -1099,7 +1050,10 @@ dass der Arbeitgeber dem Betriebs- oder Personalrat Vorgänge mitzuteilen hat, d
 dass die zuständigen Landesbehörden ermächtigt werden, zur Durchführung von Rechtsverordnungen bestimmte Anordnungen im Einzelfall zu erlassen, insbesondere bei Gefahr im Verzug auch gegen Aufsichtspersonen und sonstige Beschäftigte,
 
 15.  
-dass die Betriebsanlagen und Arbeitsverfahren, in denen bestimmte Gefahrstoffe hergestellt oder verwendet werden, durch einen Sachkundigen oder einen Sachverständigen geprüft werden müssen.
+dass die Betriebsanlagen und Arbeitsverfahren, in denen bestimmte Gefahrstoffe hergestellt oder verwendet werden, durch einen Sachkundigen oder einen Sachverständigen geprüft werden müssen,
+
+16.  
+dass und welche Informations- und Mitwirkungspflichten derjenige hat, der Tätigkeiten an Erzeugnissen oder Bauwerken veranlasst, welche Gefahrstoffe enthalten, die durch diese Tätigkeiten freigesetzt werden können und zu besonderen Gesundheitsgefahren führen können.
 
 (4) Wegen der Anforderungen nach Absatz 3 kann auf jedermann zugängliche Bekanntmachungen sachverständiger Stellen verwiesen werden; hierbei ist
 
@@ -1330,7 +1284,7 @@ Rechtsverordnungen nach diesem Gesetz können auch zum Zwecke der Angleichung de
 
 (3) Die dem Auskunftspflichtigen durch die Entnahme von Proben von Stoffen, Gemischen und Erzeugnissen oder durch Messungen entstehenden eigenen Aufwendungen hat er selbst zu tragen.
 
-§ 25a gilt gemäß Artikel 4 Absatz 101 Nummer 2 in Verbindung mit Artikel 5 Absatz 3 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) ab 14. August 2018 in folgender Fassung:
+*§ 25a gilt gemäß Artikel 4 Absatz 101 Nummer 2 in Verbindung mit Artikel 5 Absatz 3 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) ab 14. August 2018 in folgender Fassung:*
 
 <table>
 <tbody>
@@ -1343,6 +1297,8 @@ Aufwendungen des Auskunftspflichtigen</td>
 </tr>
 </tbody>
 </table>
+
+§ 25a Fußnote Kursivdruck: Art. 4 u. Art. 5 Abs. 3 G v. 7.8.2013 I 3154 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 ### § 26 Bußgeldvorschriften
 
@@ -1551,30 +1507,122 @@ Achter Abschnitt Schlussvorschriften
 
 (7) (weggefallen)
 
-(8) Im Geltungsbereich dieses Gesetzes dürfen Biozid-Produkte, die ausschließlich Biozid-Wirkstoffe enthalten, die gemäß der Verordnung (EG) Nr. 1451/2007 bewertet wurden oder sich noch im dortigen Bewertungsverfahren nach dieser Verordnung befinden, abweichend von Artikel 17 Absatz 1 der Verordnung (EU) Nr. 528/2012 bis zu den folgenden Zeitpunkten auf dem Markt bereitgestellt und verwendet werden:
+(8) Im Geltungsbereich dieses Gesetzes darf ein Biozid-Produkt abweichend von Artikel 17 Absatz 1 der Verordnung (EU) Nr. 528/2012 nach Maßgabe des Satzes 2 auf dem Markt bereitgestellt und verwendet werden, wenn es ausschließlich aus Biozid-Wirkstoffen besteht, diese enthält oder erzeugt,
 
 1.  
-ein Jahr nach Veröffentlichung der Entscheidung gemäß Artikel 89 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 528/2012 im Amtsblatt der Europäischen Union, einen in dem Biozid-Produkt enthaltenen Biozid-Wirkstoff für die betreffende Produktart nicht zu genehmigen, sofern in der Entscheidung der Kommission nichts anderes bestimmt ist,
+die gemäß der Verordnung (EG) Nr. 1451/2007 oder der Delegierten Verordnung (EU) Nr. 1062/2014 bewertet wurden,
 
 2.  
-für das Bereitstellen auf dem Markt 180 Tage sowie für das Beseitigen oder Verwenden 365 Tage nach dem in der Entscheidung festgelegten Zeitpunkt der Genehmigung des Wirkstoffes beziehungsweise der Wirkstoffe gemäß Artikel 89 Absatz 3 Unterabsatz 3 der Verordnung (EU) Nr. 528/2012, wenn ein Antrag auf Zulassung oder zeitlich parallele Anerkennung gemäß Artikel 89 Absatz 3 Unterabsatz 2 der Verordnung (EU) Nr. 528/2012 nicht oder nicht rechtzeitig gestellt worden ist,
+die sich noch im dortigen Bewertungsverfahren befinden,
 
 3.  
-während eines laufenden Entscheidungsverfahrens über einen Antrag auf Zulassung oder zeitlich parallele gegenseitige Anerkennung des Biozid-Produkts nach Artikel 89 Absatz 3 Unterabsatz 2 der Verordnung (EU) Nr. 528/2012 bis zum Zeitpunkt des Wirksamwerdens der Zulassung oder Anerkennung, oder
+die unter Artikel 15 Buchstabe a der Delegierten Verordnung (EU) Nr. 1062/2014 fallen oder
 
 4.  
-für das Bereitstellen auf dem Markt 180 Tage sowie für das Beseitigen oder Verwenden 365 Tage gemäß Artikel 89 Absatz 4 der Verordnung (EU) Nr. 528/2012, nachdem der Antrag nach Artikel 89 Absatz 3 Unterabsatz 2 der Verordnung (EU) Nr. 528/2012 auf Zulassung oder zeitlich parallele gegenseitige Anerkennung abgelehnt worden ist.
+für die die Europäische Chemikalienagentur eine Veröffentlichung gemäß Artikel 16 Absatz 4 der Delegierten Verordnung (EU) Nr. 1062/2014 vorgenommen hat.
+
+Für ein Biozid-Produkt nach Satz 1 gelten für das Bereitstellen auf dem Markt und für das Verwenden die folgenden Fristen:
+
+1.  
+zwölf Monate für das Bereitstellen auf dem Markt und 18 Monate für das Verwenden jeweils ab Veröffentlichung des Durchführungsbeschlusses gemäß Artikel 89 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 528/2012 im Amtsblatt der Europäischen Union, mit dem ein in dem Biozid-Produkt enthaltener Biozid-Wirkstoff für die betreffende Produktart nicht genehmigt wurde, es sei denn, in dem Durchführungsbeschluss der Kommission ist etwas anderes bestimmt,
+
+2.  
+180 Tage für das Bereitstellen auf dem Markt und 365 Tage für das Verwenden jeweils ab dem in der Durchführungsverordnung nach Artikel 89 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 528/2012 festgelegten Zeitpunkt der Genehmigung des Wirkstoffs oder der Wirkstoffe, wenn einer der folgenden Anträge nicht oder nicht innerhalb der Frist von Artikel 89 Absatz 3 der Verordnung (EU) Nr. 528/2012 gestellt wurde:
+
+a)  
+ein Antrag auf Zulassung gemäß Artikel 17 Absatz 2 der Verordnung (EU) Nr. 528/2012 oder
+
+b)  
+ein Antrag auf zeitlich parallele gegenseitige Anerkennung gemäß Artikel 34 der Verordnung (EU) Nr. 528/2012,
+
+3.  
+bis zum Zeitpunkt der Entscheidung über die Zulassung oder die Anerkennung, wenn einer der folgenden Anträge gestellt wurde:
+
+a)  
+ein Antrag auf Zulassung des Biozid-Produkts nach Artikel 89 Absatz 3 Unterabsatz 2 der Verordnung (EU) Nr. 528/2012 oder
+
+b)  
+ein Antrag auf zeitlich parallele gegenseitige Anerkennung des Biozid-Produkts nach Artikel 89 Absatz 3 Unterabsatz 2 der Verordnung (EU) Nr. 528/2012,
+
+4.  
+180 Tage für das Bereitstellen auf dem Markt und 365 Tage für das Verwenden ab
+
+a)  
+dem Zeitpunkt der Ablehnung eines Antrags auf Zulassung eines bereits auf dem Markt bereitgestellten Biozid-Produkts oder eines Antrags auf zeitlich parallele gegenseitige Anerkennung nach Artikel 89 Absatz 3 Unterabsatz 2 der Verordnung (EU) Nr. 528/2012 oder
+
+b)  
+dem Zeitpunkt, in dem die Zulassung des Biozid-Produkts an Bedingungen geknüpft worden ist, die eine Änderung des Biozid-Produkts erfordern würden,
+
+5.  
+24 Monate für das Bereitstellen auf dem Markt und 30 Monate für das Verwenden in den Fällen des Artikels 15 Buchstabe a der Delegierten Verordnung (EU) Nr. 1062/2014 jeweils ab dem späteren der folgenden Zeitpunkte:
+
+a)  
+der Notifizierung gemäß Artikel 17 der Delegierten Verordnung (EU) Nr. 1062/2014 oder
+
+b)  
+der Veröffentlichung des Beschlusses oder der Leitlinien gemäß Artikel 15 Buchstabe a der Delegierten Verordnung (EU) Nr. 1062/2014,
+
+6.  
+zwölf Monate für das Bereitstellen auf dem Markt und 18 Monate für das Verwenden in den Fällen des Artikels 15 der Delegierten Verordnung (EU) Nr. 1062/2014 jeweils ab dem Zeitpunkt, in dem die Europäische Chemikalienagentur nach Artikel 19 der Delegierten Verordnung (EU) Nr. 1062/2014 für den betreffenden Wirkstoff die Information veröffentlicht hat, dass sie
+
+a)  
+innerhalb der in Artikel 16 Absatz 5 der Delegierten Verordnung (EU) Nr. 1062/2014 genannten Frist keine Notifizierung erhalten hat oder
+
+b)  
+die Notifizierung gemäß Artikel 17 Absatz 4 oder 5 der Delegierten Verordnung (EU) Nr. 1062/2014 abgelehnt hat.
 
 (9) Im Falle des Absatzes 8 Nummer 3 kann die Bundesstelle für Chemikalien im Rahmen des unionsrechtlich Zulässigen für Bestände des Biozid-Produkts, die bereits vor Erteilung der Zulassung oder parallelen Anerkennung auf dem Markt bereitgestellt wurden und den Maßgaben der Zulassungs- oder Anerkennungsentscheidung oder den auf die Zulassung oder Anerkennung bezogenen Kennzeichnungsvorschriften nicht oder nicht vollständig entsprechen, Aufbrauchfristen für die weitere Bereitstellung auf dem Markt und die weitere Verwendung festlegen.
 
 (10) Soweit in Artikel 91 der Verordnung (EU) Nr. 528/2012 nichts anderes bestimmt ist, sind für Anträge auf Zulassung oder gegenseitige Anerkennung von Biozid-Produkten, die vor dem 1. September 2013 vollständig bei der Zulassungsstelle eingegangen sind, die Vorschriften dieses Gesetzes in der bis zum Inkrafttreten des Gesetzes zur Durchführung der Verordnung (EU) Nr. 528/2012 vom 23. Juli 2013 (BGBl. I S. 2565) geltenden Fassung weiter anzuwenden.
 
-(11) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise durch Rechtsverordnung mit Zustimmung des Bundesrates zu dem in § 1 genannten Zweck bis zu dem durch delegierten Rechtsakt der Europäischen Kommission nach Artikel 89 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 528/2012 bestimmten Zeitpunkt des Endes des Arbeitsprogramms zur systematischen Prüfung aller alten Wirkstoffe, mindestens aber bis zum 14. Mai 2014, vorzuschreiben, dass bestimmte Biozid-Produkte im Sinne des Absatzes 8 erst in den Verkehr gebracht und verwendet werden dürfen, nachdem sie von der Bundesstelle für Chemikalien zugelassen worden sind. In der Rechtsverordnung kann von Anforderungen der Verordnung (EU) Nr. 528/2012 im Rahmen des unionsrechtlich Zulässigen abgewichen werden. Statt einer Zulassung kann auch ein Meldeverfahren vorgesehen werden.
+(11) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise durch Rechtsverordnung mit Zustimmung des Bundesrates zu dem in § 1 genannten Zweck bis zu dem durch delegierten Rechtsakt der Europäischen Kommission nach Artikel 89 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 528/2012 bestimmten Zeitpunkt des Endes des Arbeitsprogramms zur systematischen Prüfung aller alten Wirkstoffe, mindestens aber bis zum 31. Dezember 2024, vorzuschreiben, dass bestimmte Biozid-Produkte im Sinne des Absatzes 8 erst in den Verkehr gebracht und verwendet werden dürfen, nachdem sie von der Bundesstelle für Chemikalien zugelassen worden sind. In der Rechtsverordnung kann von Anforderungen der Verordnung (EU) Nr. 528/2012 im Rahmen des unionsrechtlich Zulässigen abgewichen werden. Statt einer Zulassung kann auch ein Meldeverfahren vorgesehen werden.
 
-(12) Eine Mitteilung nach § 16e Absatz 1 Satz 1 ist bis zum 1. Juli 2016 nicht erforderlich für Gemische, die keines der Gefährlichkeitsmerkmale nach § 3a Absatz 1 Nummer 6, 7, 9 oder 11 bis 14 erfüllen oder nicht für den Verbraucher bestimmt sind und bei denen es sich nicht um Biozid-Produkte handelt, sofern für das betreffende Gemisch
+(11a) Im Geltungsbereich dieses Gesetzes darf ein Biozid-Produkt abweichend von Artikel 17 Absatz 1 der Verordnung (EU) Nr. 528/2012 nach Maßgabe der Sätze 2 und 3 auf dem Markt bereitgestellt und verwendet werden, wenn es
 
 1.  
-im Falle von Wasch- und Reinigungsmitteln im Sinne des Wasch- und Reinigungsmittelgesetzes dem Bundesinstitut für Risikobewertung ein jeweils aktuelles Datenblatt nach Anhang VII Abschnitt C der Verordnung (EG) Nr. 648/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 über Detergenzien (ABl. L 104 vom 8.4.2004, S. 1), die zuletzt durch die Verordnung (EG) Nr. 551/2009 (ABl. L 164 vom 26.6.2009, S. 3) geändert worden ist,
+unter die Verordnung (EU) Nr. 528/2012 fällt und nicht unter die Richtlinie 98/8/EG des Europäischen Parlaments und des Rates vom 16. Februar 1998 über das Inverkehrbringen von Biozid-Produkten (ABl. L 123 vom 24.4.1998, S. 1) fiel und
+
+2.  
+nur aus Wirkstoffen besteht, die bereits am 1. September 2013 auf dem Markt waren oder in Biozid-Produkten verwendet wurden, oder nur diese Wirkstoffe enthält oder erzeugt.
+
+Für ein Biozid-Produkt nach Satz 1, für das bis zum 1. September 2016 ein Antrag auf Genehmigung bei der zuständigen Behörde für alle Wirkstoffe der Produktart gestellt wurde, gelten für das Bereitstellen auf dem Markt und für das Verwenden die folgenden Fristen:
+
+1.  
+zwölf Monate für das Bereitstellen auf dem Markt und 18 Monate für das Verwenden jeweils ab Veröffentlichung eines Durchführungsbeschlusses gemäß Artikel 9 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 528/2012 im Amtsblatt der Europäischen Union, mit dem ein in dem Biozid-Produkt enthaltener Biozid-Wirkstoff für die betreffende Produktart nicht genehmigt wurde, es sei denn, in dem Durchführungsbeschluss der Kommission ist etwas anderes bestimmt,
+
+2.  
+180 Tage für das Bereitstellen auf dem Markt und 365 Tage für das Verwenden jeweils ab dem in der Durchführungsverordnung nach Artikel 9 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 528/2012 festgelegten Zeitpunkt der Genehmigung eines Wirkstoffs, wenn einer der folgenden Anträge nicht oder nicht innerhalb der Frist von Artikel 89 Absatz 3 der Verordnung (EU) Nr. 528/2012 gestellt wurde:
+
+a)  
+ein Antrag auf Zulassung des Biozid-Produkts gemäß Artikel 17 Absatz 2 der Verordnung (EU) Nr. 528/2012 oder
+
+b)  
+ein Antrag auf zeitlich parallele gegenseitige Anerkennung gemäß Artikel 34 der Verordnung (EU) Nr. 528/2012,
+
+3.  
+bis zum Zeitpunkt der Entscheidung über die Zulassung oder die Anerkennung, wenn einer der folgenden Anträge gestellt wurde:
+
+a)  
+ein Antrag auf Zulassung des Biozid-Produkts gemäß Artikel 20 der Verordnung (EU) Nr. 528/2012 oder
+
+b)  
+ein Antrag auf zeitlich parallele gegenseitige Anerkennung des Biozid-Produkts nach Artikel 34 der Verordnung (EU) Nr. 528/2012,
+
+4.  
+180 Tage für das Bereitstellen auf dem Markt und 365 Tage für das Verwenden ab
+
+a)  
+dem Zeitpunkt der Ablehnung eines Antrags auf Zulassung eines bereits in Verkehr gebrachten Biozid-Produkts oder eines Antrags auf zeitlich parallele gegenseitige Anerkennung oder
+
+b)  
+dem Zeitpunkt, in dem die Zulassung des Biozid-Produkts an Bedingungen geknüpft worden ist, die eine Änderung des Biozid-Produkts erfordern würden.
+
+Im Übrigen kann ein Biozid-Produkt nach Satz 1 bis zum 1. September 2017 auf dem Markt bereitgestellt oder verwendet werden.
+
+(12) Eine Mitteilung nach § 16e Absatz 1 Satz 1 ist bis einschließlich des 31. Dezember 2019 nicht erforderlich für Gemische, die nicht in eine der Gefahrenklassen nach Anhang I Abschnitt 3.1 Kategorie 1, 2 und 3, Abschnitt 3.2 Kategorie 1 Unterkategorie 1 A, 1 B und 1 C, Abschnitt 3.4, 3.5, 3.6 und 3.7 der Verordnung (EG) Nr. 1272/2008 einzustufen sind oder die nicht für den Verbraucher bestimmt sind, sofern es sich bei dem Gemisch nicht um ein Biozid-Produkt handelt und sofern für das betreffende Gemisch
+
+1.  
+im Falle von Wasch- und Reinigungsmitteln im Sinne des Wasch- und Reinigungsmittelgesetzes dem Bundesinstitut für Risikobewertung ein jeweils aktuelles Datenblatt nach Anhang VII Abschnitt C der Verordnung (EG) Nr. 648/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 über Detergenzien (ABl. L 104 vom 8.4.2004, S. 1), die zuletzt durch die Verordnung (EU) Nr. 259/2012 (ABl. L 94 vom 30.3.2012, S. 16) geändert worden ist,
 
 2.  
 im Falle sonstiger Gemische dem Institut für Arbeitsschutz der Deutschen Gesetzlichen Unfallversicherung ein jeweils aktuelles Sicherheitsdatenblatt nach Artikel 31 der Verordnung (EG) Nr. 1907/2006
