@@ -2,7 +2,7 @@ Gesetz über die Errichtung eines Kraftfahrt-Bundesamts ()
 =========================================================
 
 Stand  
-Zuletzt geändert durch Art. 26 G v. 8.11.2011 I 2178
+Zuletzt geändert durch Art. 3 G v. 28.8.2013 I 3313
 
 ### 
 
@@ -44,7 +44,7 @@ die Anerkennung von Konformitätsbewertungsstellen, die die Qualitätssicherung 
 die Führung
 
 a)  
-des Verkehrszentralregisters nach Abschnitt IV des Straßenverkehrsgesetzes,
+des Fahreignungsregisters nach Abschnitt IV des Straßenverkehrsgesetzes,
 
 b)  
 des Zentralen Fahrzeugregisters nach Abschnitt V des Straßenverkehrsgesetzes,
@@ -55,6 +55,9 @@ des Zentralen Fahrerlaubnisregisters nach Abschnitt VI des Straßenverkehrsgeset
 d)  
 des Zentralen Kontrollgerätkartenregisters nach der Rechtsverordnung zu § 2 Nr. 4 des Fahrpersonalgesetzes,
 
+2a.  
+für Zwecke der Zulassung von Fahrzeugen und der Zuteilung von Kennzeichen die Errichtung und den Betrieb informationstechnischer Systeme für eine zentrale elektronische, auch internetbasierte Verarbeitung von für diesen Zweck erforderlichen Daten und deren Weiterleitung an die für den Vollzug zulassungsrechtlicher Vorschriften zuständigen Behörden und Stellen,
+
 3.  
 die Erstellung, die Veröffentlichung und die Auswertung von Statistiken
 
@@ -62,10 +65,19 @@ a)
 aus den Unterlagen, die bei der Erfassung von Daten im Zusammenhang mit der vorgeschriebenen Führung der zentralen Register anfallen,
 
 b)  
-auf dem Gebiet des Straßenverkehrs nach den Abschnitten 3 und 6 des Verkehrsstatistikgesetzes und auf Grund des Artikels 5 der Verordnung (EG) Nr. 1172/98 des Rates vom 25. Mai 1998 über die statistische Erfassung des Güterkraftverkehrs (ABl. EG Nr. L 163 S. 1) sowie des Artikels 2 und des Abschnitts D des Anhangs der Verordnung (EG) Nr. 6/2003 der Kommission vom 30. Dezember 2002 über die Verbreitung der Statistik des Güterkraftverkehrs (ABl. EG 2003 Nr. L 1 S. 45) und
+auf dem Gebiet des Straßenverkehrs
+
+aa)  
+nach den Abschnitten 3 und 6 des Verkehrsstatistikgesetzes und auf Grund der Artikel 3 und 5 der Verordnung (EU) Nr. 70/2012 des Europäischen Parlaments und des Rates vom 18. Januar 2012 über die statistische Erfassung des Güterkraftverkehrs (ABl. L 32 vom 3.2.2012, S. 1),
+
+bb)  
+auf Grund des Artikels 2 und des Abschnitts D des Anhangs der Verordnung (EG) Nr. 6/2003 der Kommission vom 30. Dezember 2002 über die Verbreitung der Statistik des Güterkraftverkehrs (ABl. L 1 vom 4.1.2003, S. 45) sowie
+
+cc)  
+über Fahrleistungen, die aus Kilometerstandsablesungen bei Hauptuntersuchungen ermittelt werden und
 
 c)  
-auf dem Gebiet des Kraftfahrsachverständigenwesens (§ 11 Abs. 2 des Kraftfahrsachverständigengesetzes),
+auf dem Gebiet des Kraftfahrsachverständigenwesens über die bei Hauptuntersuchungen festgestellten Mängel,
 
 4.  
 die Veröffentlichung der bei der Erteilung von Typgenehmigungen festgestellten Abgas- und Geräuschemissions- sowie Kraftstoffverbrauchswerte der Fahrzeuge einschließlich Statistiken über diese Werte,
@@ -84,6 +96,9 @@ die Bewertung der Qualitätssicherung bei der Herstellung und dem Vertrieb von F
 
 8.  
 die Zusammenarbeit mit Behörden oder Stellen ausländischer Staaten oder der Europäischen Union auf den Gebieten des Straßenverkehrs und des Kraftfahrwesens auf Grund von multilateralen oder bilateralen Vereinbarungen mit anderen Staaten oder zur Durchführung von Rechtsakten der Europäischen Union,
+
+8a.  
+die Aufgaben der nationalen Kontaktstelle nach Maßgabe des Artikels 3 Buchstabe l und des Artikels 4 Absatz 3 der Richtlinie 2011/82/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2011 zur Erleichterung des grenzüberschreitenden Austauschs von Informationen über die Straßenverkehrssicherheit gefährdende Verkehrsdelikte (ABl. L 288 vom 5.11.2011, S. 1),
 
 9.  
 die Aufgaben der deutschen Zertifizierungsstelle nach Anlage 11 Nummer 3 des Anhangs I B der Verordnung (EWG) Nr. 3821/85 des Rates vom 20. Dezember 1985 über das Kontrollgerät im Straßenverkehr (ABl. EG Nr. L 370 S. 8) in der jeweils geltenden Fassung,
