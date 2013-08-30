@@ -2,16 +2,7 @@ Insolvenzordnung (InsO)
 =======================
 
 Stand  
-Zuletzt geändert durch Art. 19 G v. 20.12.2011 I 2854
-
-Sonst  
-Mittelbare Änderung durch Art. 18 G v. 20.12.2011 I 2854 ist berücksichtigt
-
-Hinweis  
-Änderung durch Art. 1 G v. 15.7.2013 I 2379 (Nr. 38) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 6 G v. 31.8.2013 I 3533 (Nr. 55) noch nicht berücksichtigt
+Zuletzt geändert durch Art. 6 G v. 31.8.2013 I 3533
 
 ### 
 
@@ -48,7 +39,7 @@ Für das Insolvenzverfahren gelten, soweit dieses Gesetz nichts anderes bestimmt
 
 ### § 4a Stundung der Kosten des Insolvenzverfahrens
 
-(1) Ist der Schuldner eine natürliche Person und hat er einen Antrag auf Restschuldbefreiung gestellt, so werden ihm auf Antrag die Kosten des Insolvenzverfahrens bis zur Erteilung der Restschuldbefreiung gestundet, soweit sein Vermögen voraussichtlich nicht ausreichen wird, um diese Kosten zu decken. Die Stundung nach Satz 1 umfasst auch die Kosten des Verfahrens über den Schuldenbereinigungsplan und des Verfahrens zur Restschuldbefreiung. Der Schuldner hat dem Antrag eine Erklärung beizufügen, ob einer der Versagungsgründe des § 290 Abs. 1 Nr. 1 und 3 vorliegt. Liegt ein solcher Grund vor, ist eine Stundung ausgeschlossen.
+(1) Ist der Schuldner eine natürliche Person und hat er einen Antrag auf Restschuldbefreiung gestellt, so werden ihm auf Antrag die Kosten des Insolvenzverfahrens bis zur Erteilung der Restschuldbefreiung gestundet, soweit sein Vermögen voraussichtlich nicht ausreichen wird, um diese Kosten zu decken. Die Stundung nach Satz 1 umfasst auch die Kosten des Verfahrens über den Schuldenbereinigungsplan und des Verfahrens zur Restschuldbefreiung. Der Schuldner hat dem Antrag eine Erklärung beizufügen, ob ein Versagungsgrund des § 290 Absatz 1 Nummer 1 vorliegt. Liegt ein solcher Grund vor, ist eine Stundung ausgeschlossen.
 
 (2) Werden dem Schuldner die Verfahrenskosten gestundet, so wird ihm auf Antrag ein zur Vertretung bereiter Rechtsanwalt seiner Wahl beigeordnet, wenn die Vertretung durch einen Rechtsanwalt trotz der dem Gericht obliegenden Fürsorge erforderlich erscheint. § 121 Abs. 3 bis 5 der Zivilprozessordnung gilt entsprechend.
 
@@ -72,9 +63,9 @@ Die Stundung erfolgt für jeden Verfahrensabschnitt besonders. Bis zur Entscheid
 
 ### § 4b Rückzahlung und Anpassung der gestundeten Beträge
 
-(1) Ist der Schuldner nach Erteilung der Restschuldbefreiung nicht in der Lage, den gestundeten Betrag aus seinem Einkommen und seinem Vermögen zu zahlen, so kann das Gericht die Stundung verlängern und die zu zahlenden Monatsraten festsetzen. § 115 Abs. 1 und 2 sowie § 120 Abs. 2 der Zivilprozessordnung gelten entsprechend.
+(1) Ist der Schuldner nach Erteilung der Restschuldbefreiung nicht in der Lage, den gestundeten Betrag aus seinem Einkommen und seinem Vermögen zu zahlen, so kann das Gericht die Stundung verlängern und die zu zahlenden Monatsraten festsetzen. § 115 Absatz 1 bis 3 sowie § 120 Absatz 2 der Zivilprozessordnung gelten entsprechend.
 
-(2) Das Gericht kann die Entscheidung über die Stundung und die Monatsraten jederzeit ändern, soweit sich die für sie maßgebenden persönlichen oder wirtschaftlichen Verhältnisse wesentlich geändert haben. Der Schuldner ist verpflichtet, dem Gericht eine wesentliche Änderung dieser Verhältnisse unverzüglich anzuzeigen. § 120 Abs. 4 Satz 1 und 2 der Zivilprozessordnung gilt entsprechend. Eine Änderung zum Nachteil des Schuldners ist ausgeschlossen, wenn seit der Beendigung des Verfahrens vier Jahre vergangen sind.
+(2) Das Gericht kann die Entscheidung über die Stundung und die Monatsraten jederzeit ändern, soweit sich die für sie maßgebenden persönlichen oder wirtschaftlichen Verhältnisse wesentlich geändert haben. Der Schuldner ist verpflichtet, dem Gericht eine wesentliche Änderung dieser Verhältnisse unverzüglich anzuzeigen. § 120a Absatz 1 Satz 2 und 3 der Zivilprozessordnung gilt entsprechend. Eine Änderung zum Nachteil des Schuldners ist ausgeschlossen, wenn seit der Beendigung des Verfahrens vier Jahre vergangen sind.
 
 ### § 4c Aufhebung der Stundung
 
@@ -90,7 +81,7 @@ die persönlichen oder wirtschaftlichen Voraussetzungen für die Stundung nicht 
 der Schuldner länger als drei Monate mit der Zahlung einer Monatsrate oder mit der Zahlung eines sonstigen Betrages schuldhaft in Rückstand ist;
 
 4.  
-der Schuldner keine angemessene Erwerbstätigkeit ausübt und, wenn er ohne Beschäftigung ist, sich nicht um eine solche bemüht oder eine zumutbare Tätigkeit ablehnt; § 296 Abs. 2 Satz 2 und 3 gilt entsprechend;
+der Schuldner keine angemessene Erwerbstätigkeit ausübt und, wenn er ohne Beschäftigung ist, sich nicht um eine solche bemüht oder eine zumutbare Tätigkeit ablehnt und dadurch die Befriedigung der Insolvenzgläubiger beeinträchtigt; dies gilt nicht, wenn den Schuldner kein Verschulden trifft; § 296 Absatz 2 Satz 2 und 3 gilt entsprechend;
 
 5.  
 die Restschuldbefreiung versagt oder widerrufen wird.
@@ -105,7 +96,7 @@ die Restschuldbefreiung versagt oder widerrufen wird.
 
 (1) Das Insolvenzgericht hat von Amts wegen alle Umstände zu ermitteln, die für das Insolvenzverfahren von Bedeutung sind. Es kann zu diesem Zweck insbesondere Zeugen und Sachverständige vernehmen.
 
-(2) Sind die Vermögensverhältnisse des Schuldners überschaubar und die Zahl der Gläubiger oder die Höhe der Verbindlichkeiten gering, kann das Insolvenzgericht anordnen, dass das Verfahren oder einzelne seiner Teile schriftlich durchgeführt werden. Es kann diese Anordnung jederzeit aufheben oder abändern. Die Anordnung, ihre Aufhebung oder Abänderung sind öffentlich bekannt zu machen.
+(2) Sind die Vermögensverhältnisse des Schuldners überschaubar und ist die Zahl der Gläubiger oder die Höhe der Verbindlichkeiten gering, wird das Verfahren schriftlich durchgeführt. Das Insolvenzgericht kann anordnen, dass das Verfahren oder einzelne seiner Teile mündlich durchgeführt werden, wenn dies zur Förderung des Verfahrensablaufs angezeigt ist. Es kann diese Anordnung jederzeit aufheben oder ändern. Die Anordnung, ihre Aufhebung oder Abänderung sind öffentlich bekannt zu machen.
 
 (3) Die Entscheidungen des Gerichts können ohne mündliche Verhandlung ergehen. Findet eine mündliche Verhandlung statt, so ist § 227 Abs. 3 Satz 1 der Zivilprozeßordnung nicht anzuwenden.
 
@@ -251,6 +242,8 @@ Dem Verzeichnis nach Satz 3 und den Angaben nach den Sätzen 4 und 5 ist die Erk
 
 (5) Handelt der Täter in den Fällen des Absatzes 4 fahrlässig, ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
+(6) Auf Vereine und Stiftungen, für die § 42 Absatz 2 des Bürgerlichen Gesetzbuchs gilt, sind die Absätze 1 bis 5 nicht anzuwenden.
+
 ### § 16 Eröffnungsgrund
 
 Die Eröffnung des Insolvenzverfahrens setzt voraus, daß ein Eröffnungsgrund gegeben ist.
@@ -283,7 +276,7 @@ Die Eröffnung des Insolvenzverfahrens setzt voraus, daß ein Eröffnungsgrund g
 
 (1) Ist der Antrag zulässig, so hat der Schuldner dem Insolvenzgericht die Auskünfte zu erteilen, die zur Entscheidung über den Antrag erforderlich sind, und es auch sonst bei der Erfüllung seiner Aufgaben zu unterstützen. Die §§ 97, 98, 101 Abs. 1 Satz 1, 2, Abs. 2 gelten entsprechend.
 
-(2) Ist der Schuldner eine natürliche Person, so soll er darauf hingewiesen werden, dass er nach Maßgabe der §§ 286 bis 303 Restschuldbefreiung erlangen kann.
+(2) Ist der Schuldner eine natürliche Person, so soll er darauf hingewiesen werden, dass er nach Maßgabe der §§ 286 bis 303a Restschuldbefreiung erlangen kann.
 
 ### § 21 Anordnung vorläufiger Maßnahmen
 
@@ -381,18 +374,20 @@ im Jahresdurchschnitt mindestens fünfzig Arbeitnehmer.
 
 ### § 26a Vergütung des vorläufigen Insolvenzverwalters
 
-(1) Wird das Insolvenzverfahren nicht eröffnet, setzt das Insolvenzgericht die Vergütung und die zu erstattenden Auslagen des vorläufigen Insolvenzverwalters gegen den Schuldner durch Beschluss fest. Der Beschluss ist dem vorläufigen Verwalter und dem Schuldner besonders zuzustellen.
+(1) Wird das Insolvenzverfahren nicht eröffnet, setzt das Insolvenzgericht die Vergütung und die zu erstattenden Auslagen des vorläufigen Insolvenzverwalters durch Beschluss fest.
 
-(2) Gegen den Beschluss steht dem vorläufigen Verwalter und dem Schuldner die sofortige Beschwerde zu. § 567 Absatz 2 der Zivilprozessordnung gilt entsprechend.
+(2) Die Festsetzung erfolgt gegen den Schuldner, es sei denn, der Eröffnungsantrag ist unzulässig oder unbegründet und den antragstellenden Gläubiger trifft ein grobes Verschulden. In diesem Fall sind die Vergütung und die zu erstattenden Auslagen des vorläufigen Insolvenzverwalters ganz oder teilweise dem Gläubiger aufzuerlegen und gegen ihn festzusetzen. Ein grobes Verschulden ist insbesondere dann anzunehmen, wenn der Antrag von vornherein keine Aussicht auf Erfolg hatte und der Gläubiger dies erkennen musste. Der Beschluss ist dem vorläufigen Verwalter und demjenigen, der die Kosten des vorläufigen Insolvenzverwalters zu tragen hat, zuzustellen. Die Vorschriften der Zivilprozessordnung über die Zwangsvollstreckung aus Kostenfestsetzungsbeschlüssen gelten entsprechend.
+
+(3) Gegen den Beschluss steht dem vorläufigen Verwalter und demjenigen, der die Kosten des vorläufigen Insolvenzverwalters zu tragen hat, die sofortige Beschwerde zu. § 567 Absatz 2 der Zivilprozessordnung gilt entsprechend.
 
 ### § 27 Eröffnungsbeschluß
 
-(1) Wird das Insolvenzverfahren eröffnet, so ernennt das Insolvenzgericht einen Insolvenzverwalter. Die §§ 270, 313 Abs. 1 bleiben unberührt.
+(1) Wird das Insolvenzverfahren eröffnet, so ernennt das Insolvenzgericht einen Insolvenzverwalter. § 270 bleibt unberührt.
 
 (2) Der Eröffnungsbeschluß enthält:
 
 1.  
-Firma oder Namen und Vornamen, Geburtsjahr, Registergericht und Registernummer, unter der der Schuldner in das Handelsregister eingetragen ist, Geschäftszweig oder Beschäftigung, gewerbliche Niederlassung oder Wohnung des Schuldners;
+Firma oder Namen und Vornamen, Geburtsdatum, Registergericht und Registernummer, unter der der Schuldner in das Handelsregister eingetragen ist, Geschäftszweig oder Beschäftigung, gewerbliche Niederlassung oder Wohnung des Schuldners;
 
 2.  
 Namen und Anschrift des Insolvenzverwalters;
@@ -401,9 +396,6 @@ Namen und Anschrift des Insolvenzverwalters;
 die Stunde der Eröffnung;
 
 4.  
-einen Hinweis, ob der Schuldner einen Antrag auf Restschuldbefreiung gestellt hat;
-
-5.  
 die Gründe, aus denen das Gericht von einem einstimmigen Vorschlag des vorläufigen Gläubigerausschusses zur Person des Verwalters abgewichen ist; dabei ist der Name der vorgeschlagenen Person nicht zu nennen.
 
 (3) Ist die Stunde der Eröffnung nicht angegeben, so gilt als Zeitpunkt der Eröffnung die Mittagsstunde des Tages, an dem der Beschluß erlassen worden ist.
@@ -426,11 +418,11 @@ eine Gläubigerversammlung, in der auf der Grundlage eines Berichts des Insolven
 2.  
 eine Gläubigerversammlung, in der die angemeldeten Forderungen geprüft werden (Prüfungstermin); der Zeitraum zwischen dem Ablauf der Anmeldefrist und dem Prüfungstermin soll mindestens eine Woche und höchstens zwei Monate betragen.
 
-(2) Die Termine können verbunden werden.
+(2) Die Termine können verbunden werden. Das Gericht soll auf den Berichtstermin verzichten, wenn die Vermögensverhältnisse des Schuldners überschaubar sind und die Zahl der Gläubiger oder die Höhe der Verbindlichkeiten gering ist.
 
 ### § 30 Bekanntmachung des Eröffnungsbeschlusses
 
-(1) Die Geschäftsstelle des Insolvenzgerichts hat den Eröffnungsbeschluß sofort öffentlich bekanntzumachen. Hat der Schuldner einen Antrag nach § 287 gestellt, ist dies ebenfalls öffentlich bekannt zu machen, sofern kein Hinweis nach § 27 Abs. 2 Nr. 4 erfolgt ist.
+(1) Die Geschäftsstelle des Insolvenzgerichts hat den Eröffnungsbeschluß sofort öffentlich bekanntzumachen.
 
 (2) Den Gläubigern und Schuldnern des Schuldners und dem Schuldner selbst ist der Beschluß besonders zuzustellen.
 
@@ -481,7 +473,7 @@ Zweiter Abschnitt Insolvenzmasse. Einteilung der Gläubiger
 
 (1) Das Insolvenzverfahren erfaßt das gesamte Vermögen, das dem Schuldner zur Zeit der Eröffnung des Verfahrens gehört und das er während des Verfahrens erlangt (Insolvenzmasse).
 
-(2) Übt der Schuldner eine selbstständige Tätigkeit aus oder beabsichtigt er, demnächst eine solche Tätigkeit auszuüben, hat der Insolvenzverwalter ihm gegenüber zu erklären, ob Vermögen aus der selbstständigen Tätigkeit zur Insolvenzmasse gehört und ob Ansprüche aus dieser Tätigkeit im Insolvenzverfahren geltend gemacht werden können. § 295 Abs. 2 gilt entsprechend. Auf Antrag des Gläubigerausschusses oder, wenn ein solcher nicht bestellt ist, der Gläubigerversammlung ordnet das Insolvenzgericht die Unwirksamkeit der Erklärung an.
+(2) Übt der Schuldner eine selbstständige Tätigkeit aus oder beabsichtigt er, demnächst eine solche Tätigkeit auszuüben, hat der Insolvenzverwalter ihm gegenüber zu erklären, ob Vermögen aus der selbstständigen Tätigkeit zur Insolvenzmasse gehört und ob Ansprüche aus dieser Tätigkeit im Insolvenzverfahren geltend gemacht werden können. § 295 Absatz 3 gilt entsprechend. Auf Antrag des Gläubigerausschusses oder, wenn ein solcher nicht bestellt ist, der Gläubigerversammlung ordnet das Insolvenzgericht die Unwirksamkeit der Erklärung an.
 
 (3) Die Erklärung des Insolvenzverwalters ist dem Gericht gegenüber anzuzeigen. Das Gericht hat die Erklärung und den Beschluss über ihre Unwirksamkeit öffentlich bekannt zu machen.
 
@@ -720,7 +712,7 @@ Die Verjährung des Anspruchs auf Ersatz des Schadens, der aus einer Pflichtverl
 
 ### § 65 Verordnungsermächtigung
 
-Das Bundesministerium der Justiz wird ermächtigt, die Vergütung und die Erstattung der Auslagen des Insolvenzverwalters durch Rechtsverordnung näher zu regeln.
+Das Bundesministerium der Justiz wird ermächtigt, die Vergütung und die Erstattung der Auslagen des vorläufigen Insolvenzverwalters und des Insolvenzverwalters sowie das hierfür maßgebliche Verfahren durch Rechtsverordnung zu regeln.
 
 ### § 66 Rechnungslegung
 
@@ -889,7 +881,9 @@ Die Insolvenzgläubiger können ihre Forderungen nur nach den Vorschriften über
 
 ### § 88 Vollstreckung vor Verfahrenseröffnung
 
-Hat ein Insolvenzgläubiger im letzten Monat vor dem Antrag auf Eröffnung des Insolvenzverfahrens oder nach diesem Antrag durch Zwangsvollstreckung eine Sicherung an dem zur Insolvenzmasse gehörenden Vermögen des Schuldners erlangt, so wird diese Sicherung mit der Eröffnung des Verfahrens unwirksam.
+(1) Hat ein Insolvenzgläubiger im letzten Monat vor dem Antrag auf Eröffnung des Insolvenzverfahrens oder nach diesem Antrag durch Zwangsvollstreckung eine Sicherung an dem zur Insolvenzmasse gehörenden Vermögen des Schuldners erlangt, so wird diese Sicherung mit der Eröffnung des Verfahrens unwirksam.
+
+(2) Die in Absatz 1 genannte Frist beträgt drei Monate, wenn ein Verbraucherinsolvenzverfahren nach § 304 eröffnet wird.
 
 ### § 89 Vollstreckungsverbot
 
@@ -1102,13 +1096,9 @@ wegen einer Verschlechterung der Vermögensverhältnisse des Schuldners.
 
 Ein Dienstverhältnis, bei dem der Schuldner der Dienstberechtigte ist, kann vom Insolvenzverwalter und vom anderen Teil ohne Rücksicht auf eine vereinbarte Vertragsdauer oder einen vereinbarten Ausschluß des Rechts zur ordentlichen Kündigung gekündigt werden. Die Kündigungsfrist beträgt drei Monate zum Monatsende, wenn nicht eine kürzere Frist maßgeblich ist. Kündigt der Verwalter, so kann der andere Teil wegen der vorzeitigen Beendigung des Dienstverhältnisses als Insolvenzgläubiger Schadenersatz verlangen.
 
-### § 114 Bezüge aus einem Dienstverhältnis
+### § 114 (weggefallen)
 
-(1) Hat der Schuldner vor der Eröffnung des Insolvenzverfahrens eine Forderung für die spätere Zeit auf Bezüge aus einem Dienstverhältnis oder an deren Stelle tretende laufende Bezüge abgetreten oder verpfändet, so ist diese Verfügung nur wirksam, soweit sie sich auf die Bezüge für die Zeit vor Ablauf von zwei Jahren nach dem Ende des zur Zeit der Eröffnung des Verfahrens laufenden Kalendermonats bezieht.
-
-(2) Gegen die Forderung auf die Bezüge für den in Absatz 1 bezeichneten Zeitraum kann der Verpflichtete eine Forderung aufrechnen, die ihm gegen den Schuldner zusteht. Die §§ 95 und 96 Nr. 2 bis 4 bleiben unberührt.
-
-(3) Ist vor der Eröffnung des Verfahrens im Wege der Zwangsvollstreckung über die Bezüge für die spätere Zeit verfügt worden, so ist diese Verfügung nur wirksam, soweit sie sich auf die Bezüge für den zur Zeit der Eröffnung des Verfahrens laufenden Kalendermonat bezieht. Ist die Eröffnung nach dem fünfzehnten Tag des Monats erfolgt, so ist die Verfügung auch für den folgenden Kalendermonat wirksam. § 88 bleibt unberührt; § 89 Abs. 2 Satz 2 gilt entsprechend.
+-
 
 ### § 115 Erlöschen von Aufträgen
 
@@ -1615,7 +1605,7 @@ Erster Abschnitt Feststellung der Forderungen
 
 (1) Die Insolvenzgläubiger haben ihre Forderungen schriftlich beim Insolvenzverwalter anzumelden. Der Anmeldung sollen die Urkunden, aus denen sich die Forderung ergibt, in Abdruck beigefügt werden. Zur Vertretung des Gläubigers im Verfahren nach diesem Abschnitt sind auch Personen befugt, die Inkassodienstleistungen erbringen (registrierte Personen nach § 10 Abs. 1 Satz 1 Nr. 1 des Rechtsdienstleistungsgesetzes).
 
-(2) Bei der Anmeldung sind der Grund und der Betrag der Forderung anzugeben sowie die Tatsachen, aus denen sich nach Einschätzung des Gläubigers ergibt, dass ihr eine vorsätzlich begangene unerlaubte Handlung des Schuldners zugrunde liegt.
+(2) Bei der Anmeldung sind der Grund und der Betrag der Forderung anzugeben sowie die Tatsachen, aus denen sich nach Einschätzung des Gläubigers ergibt, dass ihr eine vorsätzlich begangene unerlaubte Handlung, eine vorsätzliche pflichtwidrige Verletzung einer gesetzlichen Unterhaltspflicht oder eine Steuerstraftat des Schuldners nach den §§ 370, 373 oder § 374 der Abgabenordnung zugrunde liegt.
 
 (3) Die Forderungen nachrangiger Gläubiger sind nur anzumelden, soweit das Insolvenzgericht besonders zur Anmeldung dieser Forderungen auffordert. Bei der Anmeldung solcher Forderungen ist auf den Nachrang hinzuweisen und die dem Gläubiger zustehende Rangstelle zu bezeichnen.
 
@@ -1625,7 +1615,7 @@ Erster Abschnitt Feststellung der Forderungen
 
 (1) Der Insolvenzverwalter hat jede angemeldete Forderung mit den in § 174 Abs. 2 und 3 genannten Angaben in eine Tabelle einzutragen. Die Tabelle ist mit den Anmeldungen sowie den beigefügten Urkunden innerhalb des ersten Drittels des Zeitraums, der zwischen dem Ablauf der Anmeldefrist und dem Prüfungstermin liegt, in der Geschäftsstelle des Insolvenzgerichts zur Einsicht der Beteiligten niederzulegen.
 
-(2) Hat ein Gläubiger eine Forderung aus einer vorsätzlich begangenen unerlaubten Handlung angemeldet, so hat das Insolvenzgericht den Schuldner auf die Rechtsfolgen des § 302 und auf die Möglichkeit des Widerspruchs hinzuweisen.
+(2) Hat ein Gläubiger eine Forderung aus einer vorsätzlich begangenen unerlaubten Handlung, aus einer vorsätzlich pflichtwidrig verletzten gesetzlichen Unterhaltspflicht oder aus einer Steuerstraftat nach den §§ 370, 373 oder § 374 der Abgabenordnung angemeldet, so hat das Insolvenzgericht den Schuldner auf die Rechtsfolgen des § 302 und auf die Möglichkeit des Widerspruchs hinzuweisen.
 
 ### § 176 Verlauf des Prüfungstermins
 
@@ -2486,7 +2476,7 @@ Siebter Teil Eigenverwaltung
 
 ### § 270 Voraussetzungen
 
-(1) Der Schuldner ist berechtigt, unter der Aufsicht eines Sachwalters die Insolvenzmasse zu verwalten und über sie zu verfügen, wenn das Insolvenzgericht in dem Beschluß über die Eröffnung des Insolvenzverfahrens die Eigenverwaltung anordnet. Für das Verfahren gelten die allgemeinen Vorschriften, soweit in diesem Teil nichts anderes bestimmt ist.
+(1) Der Schuldner ist berechtigt, unter der Aufsicht eines Sachwalters die Insolvenzmasse zu verwalten und über sie zu verfügen, wenn das Insolvenzgericht in dem Beschluß über die Eröffnung des Insolvenzverfahrens die Eigenverwaltung anordnet. Für das Verfahren gelten die allgemeinen Vorschriften, soweit in diesem Teil nichts anderes bestimmt ist. Die Vorschriften dieses Teils sind auf Verbraucherinsolvenzverfahren nach § 304 nicht anzuwenden.
 
 (2) Die Anordnung setzt voraus,
 
@@ -2498,7 +2488,7 @@ dass keine Umstände bekannt sind, die erwarten lassen, dass die Anordnung zu Na
 
 (3) Vor der Entscheidung über den Antrag ist dem vorläufigen Gläubigerausschuss Gelegenheit zur Äußerung zu geben, wenn dies nicht offensichtlich zu einer nachteiligen Veränderung in der Vermögenslage des Schuldners führt. Wird der Antrag von einem einstimmigen Beschluss des vorläufigen Gläubigerausschusses unterstützt, so gilt die Anordnung nicht als nachteilig für die Gläubiger.
 
-(4) Wird der Antrag abgelehnt, so ist die Ablehnung schriftlich zu begründen; § 27 Absatz 2 Nummer 5 gilt entsprechend.
+(4) Wird der Antrag abgelehnt, so ist die Ablehnung schriftlich zu begründen; § 27 Absatz 2 Nummer 4 gilt entsprechend.
 
 ### § 270a Eröffnungsverfahren
 
@@ -2566,7 +2556,7 @@ Der Beschluß des Insolvenzgerichts, durch den nach der Eröffnung des Insolvenz
 
 ### § 274 Rechtsstellung des Sachwalters
 
-(1) Für die Bestellung des Sachwalters, für die Aufsicht des Insolvenzgerichts sowie für die Haftung und die Vergütung des Sachwalters gelten § 27 Absatz 2 Nummer 5, § 54 Nummer 2 und die §§ 56 bis 60, 62 bis 65 entsprechend.
+(1) Für die Bestellung des Sachwalters, für die Aufsicht des Insolvenzgerichts sowie für die Haftung und die Vergütung des Sachwalters gelten § 27 Absatz 2 Nummer 4, § 54 Nummer 2 und die §§ 56 bis 60, 62 bis 65 entsprechend.
 
 (2) Der Sachwalter hat die wirtschaftliche Lage des Schuldners zu prüfen und die Geschäftsführung sowie die Ausgaben für die Lebensführung zu überwachen. § 22 Abs. 3 gilt entsprechend.
 
@@ -2649,57 +2639,76 @@ Ist der Schuldner eine natürliche Person, so wird er nach Maßgabe der §§ 287
 
 ### § 287 Antrag des Schuldners
 
-(1) Die Restschuldbefreiung setzt einen Antrag des Schuldners voraus, der mit seinem Antrag auf Eröffnung des Insolvenzverfahrens verbunden werden soll. Wird er nicht mit diesem verbunden, so ist er innerhalb von zwei Wochen nach dem Hinweis gemäß § 20 Abs. 2 zu stellen.
+(1) Die Restschuldbefreiung setzt einen Antrag des Schuldners voraus, der mit seinem Antrag auf Eröffnung des Insolvenzverfahrens verbunden werden soll. Wird er nicht mit diesem verbunden, so ist er innerhalb von zwei Wochen nach dem Hinweis gemäß § 20 Abs. 2 zu stellen. Der Schuldner hat dem Antrag eine Erklärung beizufügen, ob ein Fall des § 287a Absatz 2 Satz 1 Nummer 1 oder 2 vorliegt. Die Richtigkeit und Vollständigkeit der Erklärung nach Satz 3 hat der Schuldner zu versichern.
 
-(2) Dem Antrag ist die Erklärung beizufügen, daß der Schuldner seine pfändbaren Forderungen auf Bezüge aus einem Dienstverhältnis oder an deren Stelle tretende laufende Bezüge für die Zeit von sechs Jahren nach der Eröffnung des Insolvenzverfahrens an einen vom Gericht zu bestimmenden Treuhänder abtritt. Hatte der Schuldner diese Forderungen bereits vorher an einen Dritten abgetreten oder verpfändet, so ist in der Erklärung darauf hinzuweisen.
+(2) Dem Antrag ist die Erklärung beizufügen, daß der Schuldner seine pfändbaren Forderungen auf Bezüge aus einem Dienstverhältnis oder an deren Stelle tretende laufende Bezüge für die Zeit von sechs Jahren nach der Eröffnung des Insolvenzverfahrens (Abtretungsfrist) an einen vom Gericht zu bestimmenden Treuhänder abtritt.
 
-(3) Vereinbarungen, die eine Abtretung der Forderungen des Schuldners auf Bezüge aus einem Dienstverhältnis oder an deren Stelle tretende laufende Bezüge ausschließen, von einer Bedingung abhängig machen oder sonst einschränken, sind insoweit unwirksam, als sie die Abtretungserklärung nach Absatz 2 Satz 1 vereiteln oder beeinträchtigen würden.
+(3) Vereinbarungen des Schuldners sind insoweit unwirksam, als sie die Abtretungserklärung nach Absatz 2 vereiteln oder beeinträchtigen würden.
 
-### § 288 Vorschlagsrecht
+(4) Die Insolvenzgläubiger, die Forderungen angemeldet haben, sind bis zum Schlusstermin zu dem Antrag des Schuldners zu hören.
 
-Der Schuldner und die Gläubiger können dem Insolvenzgericht als Treuhänder eine für den jeweiligen Einzelfall geeignete natürliche Person vorschlagen.
+### § 287a Entscheidung des Insolvenzgerichts
 
-### § 289 Entscheidung des Insolvenzgerichts
+(1) Ist der Antrag auf Restschuldbefreiung zulässig, so stellt das Insolvenzgericht durch Beschluss fest, dass der Schuldner Restschuldbefreiung erlangt, wenn er den Obliegenheiten nach § 295 nachkommt und die Voraussetzungen für eine Versagung nach den §§ 290, 297 bis 298 nicht vorliegen. Der Beschluss ist öffentlich bekannt zu machen. Gegen den Beschluss steht dem Schuldner die sofortige Beschwerde zu.
 
-(1) Die Insolvenzgläubiger und der Insolvenzverwalter sind im Schlußtermin zu dem Antrag des Schuldners zu hören. Das Insolvenzgericht entscheidet über den Antrag des Schuldners durch Beschluß.
+(2) Der Antrag auf Restschuldbefreiung ist unzulässig, wenn
 
-(2) Gegen den Beschluß steht dem Schuldner und jedem Insolvenzgläubiger, der im Schlußtermin die Versagung der Restschuldbefreiung beantragt hat, die sofortige Beschwerde zu. Das Insolvenzverfahren wird erst nach Rechtskraft des Beschlusses aufgehoben. Der rechtskräftige Beschluß ist zusammen mit dem Beschluß über die Aufhebung des Insolvenzverfahrens öffentlich bekanntzumachen.
+1.  
+dem Schuldner in den letzten zehn Jahren vor dem Antrag auf Eröffnung des Insolvenzverfahrens oder nach diesem Antrag Restschuldbefreiung erteilt oder wenn ihm die Restschuldbefreiung in den letzten fünf Jahren vor dem Antrag auf Eröffnung des Insolvenzverfahrens oder nach diesem Antrag nach § 297 versagt worden ist oder
 
-(3) Im Falle der Einstellung des Insolvenzverfahrens kann Restschuldbefreiung nur erteilt werden, wenn nach Anzeige der Masseunzulänglichkeit die Insolvenzmasse nach § 209 verteilt worden ist und die Einstellung nach § 211 erfolgt. Absatz 2 gilt mit der Maßgabe, daß an die Stelle der Aufhebung des Verfahrens die Einstellung tritt.
+2.  
+dem Schuldner in den letzten drei Jahren vor dem Antrag auf Eröffnung des Insolvenzverfahrens oder nach diesem Antrag Restschuldbefreiung nach § 290 Absatz 1 Nummer 5, 6 oder 7 oder nach § 296 versagt worden ist; dies gilt auch im Falle des § 297a, wenn die nachträgliche Versagung auf Gründe nach § 290 Absatz 1 Nummer 5, 6 oder 7 gestützt worden ist.
+
+In diesen Fällen hat das Gericht dem Schuldner Gelegenheit zu geben, den Eröffnungsantrag vor der Entscheidung über die Eröffnung zurückzunehmen.
+
+### § 287b Erwerbsobliegenheit des Schuldners
+
+Ab Beginn der Abtretungsfrist bis zur Beendigung des Insolvenzverfahrens obliegt es dem Schuldner, eine angemessene Erwerbstätigkeit auszuüben und, wenn er ohne Beschäftigung ist, sich um eine solche zu bemühen und keine zumutbare Tätigkeit abzulehnen.
+
+### § 288 Bestimmung des Treuhänders
+
+Der Schuldner und die Gläubiger können dem Insolvenzgericht als Treuhänder eine für den jeweiligen Einzelfall geeignete natürliche Person vorschlagen. Wenn noch keine Entscheidung über die Restschuldbefreiung ergangen ist, bestimmt das Gericht zusammen mit der Entscheidung, mit der es die Aufhebung oder die Einstellung des Insolvenzverfahrens wegen Masseunzulänglichkeit beschließt, den Treuhänder, auf den die pfändbaren Bezüge des Schuldners nach Maßgabe der Abtretungserklärung (§ 287 Absatz 2) übergehen.
+
+### § 289 Einstellung des Insolvenzverfahrens
+
+Im Fall der Einstellung des Insolvenzverfahrens kann Restschuldbefreiung nur erteilt werden, wenn nach Anzeige der Masseunzulänglichkeit die Insolvenzmasse nach § 209 verteilt worden ist und die Einstellung nach § 211 erfolgt.
 
 ### § 290 Versagung der Restschuldbefreiung
 
-(1) In dem Beschluß ist die Restschuldbefreiung zu versagen, wenn dies im Schlußtermin von einem Insolvenzgläubiger beantragt worden ist und wenn
+(1) Die Restschuldbefreiung ist durch Beschluss zu versagen, wenn dies von einem Insolvenzgläubiger, der seine Forderung angemeldet hat, beantragt worden ist und wenn
 
 1.  
-der Schuldner wegen einer Straftat nach den §§ 283 bis 283c des Strafgesetzbuchs rechtskräftig verurteilt worden ist,
+der Schuldner in den letzten fünf Jahren vor dem Antrag auf Eröffnung des Insolvenzverfahrens oder nach diesem Antrag wegen einer Straftat nach den §§ 283 bis 283c des Strafgesetzbuchs rechtskräftig zu einer Geldstrafe von mehr als 90 Tagessätzen oder einer Freiheitsstrafe von mehr als drei Monaten verurteilt worden ist,
 
 2.  
 der Schuldner in den letzten drei Jahren vor dem Antrag auf Eröffnung des Insolvenzverfahrens oder nach diesem Antrag vorsätzlich oder grob fahrlässig schriftlich unrichtige oder unvollständige Angaben über seine wirtschaftlichen Verhältnisse gemacht hat, um einen Kredit zu erhalten, Leistungen aus öffentlichen Mitteln zu beziehen oder Leistungen an öffentliche Kassen zu vermeiden,
 
 3.  
-in den letzten zehn Jahren vor dem Antrag auf Eröffnung des Insolvenzverfahrens oder nach diesem Antrag dem Schuldner Restschuldbefreiung erteilt oder nach § 296 oder § 297 versagt worden ist,
+(weggefallen)
 
 4.  
-der Schuldner im letzten Jahr vor dem Antrag auf Eröffnung des Insolvenzverfahrens oder nach diesem Antrag vorsätzlich oder grob fahrlässig die Befriedigung der Insolvenzgläubiger dadurch beeinträchtigt hat, daß er unangemessene Verbindlichkeiten begründet oder Vermögen verschwendet oder ohne Aussicht auf eine Besserung seiner wirtschaftlichen Lage die Eröffnung des Insolvenzverfahrens verzögert hat,
+der Schuldner in den letzten drei Jahren vor dem Antrag auf Eröffnung des Insolvenzverfahrens oder nach diesem Antrag vorsätzlich oder grob fahrlässig die Befriedigung der Insolvenzgläubiger dadurch beeinträchtigt hat, daß er unangemessene Verbindlichkeiten begründet oder Vermögen verschwendet oder ohne Aussicht auf eine Besserung seiner wirtschaftlichen Lage die Eröffnung des Insolvenzverfahrens verzögert hat,
 
 5.  
-der Schuldner während des Insolvenzverfahrens Auskunfts- oder Mitwirkungspflichten nach diesem Gesetz vorsätzlich oder grob fahrlässig verletzt hat oder
+der Schuldner Auskunfts- oder Mitwirkungspflichten nach diesem Gesetz vorsätzlich oder grob fahrlässig verletzt hat,
 
 6.  
-der Schuldner in den nach § 305 Abs. 1 Nr. 3 vorzulegenden Verzeichnissen seines Vermögens und seines Einkommens, seiner Gläubiger und der gegen ihn gerichteten Forderungen vorsätzlich oder grob fahrlässig unrichtige oder unvollständige Angaben gemacht hat.
+der Schuldner in der nach § 287 Absatz 1 Satz 3 vorzulegenden Erklärung und in den nach § 305 Absatz 1 Nummer 3 vorzulegenden Verzeichnissen seines Vermögens und seines Einkommens, seiner Gläubiger und der gegen ihn gerichteten Forderungen vorsätzlich oder grob fahrlässig unrichtige oder unvollständige Angaben gemacht hat,
 
-(2) Der Antrag des Gläubigers ist nur zulässig, wenn ein Versagungsgrund glaubhaft gemacht wird.
+7.  
+der Schuldner seine Erwerbsobliegenheit nach § 287b verletzt und dadurch die Befriedigung der Insolvenzgläubiger beeinträchtigt; dies gilt nicht, wenn den Schuldner kein Verschulden trifft; § 296 Absatz 2 Satz 2 und 3 gilt entsprechend.
 
-### § 291 Ankündigung der Restschuldbefreiung
+(2) Der Antrag des Gläubigers kann bis zum Schlusstermin oder bis zur Entscheidung nach § 211 Absatz 1 schriftlich gestellt werden; er ist nur zulässig, wenn ein Versagungsgrund glaubhaft gemacht wird. Die Entscheidung über den Versagungsantrag erfolgt nach dem gemäß Satz 1 maßgeblichen Zeitpunkt.
 
-(1) Sind die Voraussetzungen des § 290 nicht gegeben, so stellt das Gericht in dem Beschluß fest, daß der Schuldner Restschuldbefreiung erlangt, wenn er den Obliegenheiten nach § 295 nachkommt und die Voraussetzungen für eine Versagung nach § 297 oder § 298 nicht vorliegen.
+(3) Gegen den Beschluss steht dem Schuldner und jedem Insolvenzgläubiger, der die Versagung der Restschuldbefreiung beantragt hat, die sofortige Beschwerde zu. Der Beschluss ist öffentlich bekannt zu machen.
 
-(2) Im gleichen Beschluß bestimmt das Gericht den Treuhänder, auf den die pfändbaren Bezüge des Schuldners nach Maßgabe der Abtretungserklärung (§ 287 Abs. 2) übergehen.
+### § 291 (weggefallen)
+
+-
 
 ### § 292 Rechtsstellung des Treuhänders
 
-(1) Der Treuhänder hat den zur Zahlung der Bezüge Verpflichteten über die Abtretung zu unterrichten. Er hat die Beträge, die er durch die Abtretung erlangt, und sonstige Leistungen des Schuldners oder Dritter von seinem Vermögen getrennt zu halten und einmal jährlich auf Grund des Schlußverzeichnisses an die Insolvenzgläubiger zu verteilen, sofern die nach § 4a gestundeten Verfahrenskosten abzüglich der Kosten für die Beiordnung eines Rechtsanwalts berichtigt sind. § 36 Abs. 1 Satz 2, Abs. 4 gilt entsprechend. Von den Beträgen, die er durch die Abtretung erlangt, und den sonstigen Leistungen hat er an den Schuldner nach Ablauf von vier Jahren seit der Aufhebung des Insolvenzverfahrens zehn vom Hundert und nach Ablauf von fünf Jahren seit der Aufhebung fünfzehn vom Hundert abzuführen. Sind die nach § 4a gestundeten Verfahrenskosten noch nicht berichtigt, werden Gelder an den Schuldner nur abgeführt, sofern sein Einkommen nicht den sich nach § 115 Abs. 1 der Zivilprozessordnung errechnenden Betrag übersteigt.
+(1) Der Treuhänder hat den zur Zahlung der Bezüge Verpflichteten über die Abtretung zu unterrichten. Er hat die Beträge, die er durch die Abtretung erlangt, und sonstige Leistungen des Schuldners oder Dritter von seinem Vermögen getrennt zu halten und einmal jährlich auf Grund des Schlußverzeichnisses an die Insolvenzgläubiger zu verteilen, sofern die nach § 4a gestundeten Verfahrenskosten abzüglich der Kosten für die Beiordnung eines Rechtsanwalts berichtigt sind. § 36 Abs. 1 Satz 2, Abs. 4 gilt entsprechend. Der Treuhänder kann die Verteilung längstens bis zum Ende der Abtretungsfrist aussetzen, wenn dies angesichts der Geringfügigkeit der zu verteilenden Beträge angemessen erscheint; er hat dies dem Gericht einmal jährlich unter Angabe der Höhe der erlangten Beträge mitzuteilen.
 
 (2) Die Gläubigerversammlung kann dem Treuhänder zusätzlich die Aufgabe übertragen, die Erfüllung der Obliegenheiten des Schuldners zu überwachen. In diesem Fall hat der Treuhänder die Gläubiger unverzüglich zu benachrichtigen, wenn er einen Verstoß gegen diese Obliegenheiten feststellt. Der Treuhänder ist nur zur Überwachung verpflichtet, soweit die ihm dafür zustehende zusätzliche Vergütung gedeckt ist oder vorgeschossen wird.
 
@@ -2713,15 +2722,15 @@ der Schuldner in den nach § 305 Abs. 1 Nr. 3 vorzulegenden Verzeichnissen seine
 
 ### § 294 Gleichbehandlung der Gläubiger
 
-(1) Zwangsvollstreckungen für einzelne Insolvenzgläubiger in das Vermögen des Schuldners sind während der Laufzeit der Abtretungserklärung nicht zulässig.
+(1) Zwangsvollstreckungen für einzelne Insolvenzgläubiger in das Vermögen des Schuldners sind in dem Zeitraum zwischen Beendigung des Insolvenzverfahrens und dem Ende der Abtretungsfrist nicht zulässig.
 
 (2) Jedes Abkommen des Schuldners oder anderer Personen mit einzelnen Insolvenzgläubigern, durch das diesen ein Sondervorteil verschafft wird, ist nichtig.
 
-(3) Gegen die Forderung auf die Bezüge, die von der Abtretungserklärung erfaßt werden, kann der Verpflichtete eine Forderung gegen den Schuldner nur aufrechnen, soweit er bei einer Fortdauer des Insolvenzverfahrens nach § 114 Abs. 2 zur Aufrechnung berechtigt wäre.
+(3) Eine Aufrechnung gegen die Forderung auf die Bezüge, die von der Abtretungserklärung erfasst werden, ist nicht zulässig.
 
 ### § 295 Obliegenheiten des Schuldners
 
-(1) Dem Schuldner obliegt es, während der Laufzeit der Abtretungserklärung
+(1) Dem Schuldner obliegt es, in dem Zeitraum zwischen Beendigung des Insolvenzverfahrens und dem Ende der Abtretungsfrist
 
 1.  
 eine angemessene Erwerbstätigkeit auszuüben und, wenn er ohne Beschäftigung ist, sich um eine solche zu bemühen und keine zumutbare Tätigkeit abzulehnen;
@@ -2739,7 +2748,7 @@ Zahlungen zur Befriedigung der Insolvenzgläubiger nur an den Treuhänder zu lei
 
 ### § 296 Verstoß gegen Obliegenheiten
 
-(1) Das Insolvenzgericht versagt die Restschuldbefreiung auf Antrag eines Insolvenzgläubigers, wenn der Schuldner während der Laufzeit der Abtretungserklärung eine seiner Obliegenheiten verletzt und dadurch die Befriedigung der Insolvenzgläubiger beeinträchtigt; dies gilt nicht, wenn den Schuldner kein Verschulden trifft. Der Antrag kann nur binnen eines Jahres nach dem Zeitpunkt gestellt werden, in dem die Obliegenheitsverletzung dem Gläubiger bekanntgeworden ist. Er ist nur zulässig, wenn die Voraussetzungen der Sätze 1 und 2 glaubhaft gemacht werden.
+(1) Das Insolvenzgericht versagt die Restschuldbefreiung auf Antrag eines Insolvenzgläubigers, wenn der Schuldner in dem Zeitraum zwischen Beendigung des Insolvenzverfahrens und dem Ende der Abtretungsfrist eine seiner Obliegenheiten verletzt und dadurch die Befriedigung der Insolvenzgläubiger beeinträchtigt; dies gilt nicht, wenn den Schuldner kein Verschulden trifft. Der Antrag kann nur binnen eines Jahres nach dem Zeitpunkt gestellt werden, in dem die Obliegenheitsverletzung dem Gläubiger bekanntgeworden ist. Er ist nur zulässig, wenn die Voraussetzungen der Sätze 1 und 2 glaubhaft gemacht werden.
 
 (2) Vor der Entscheidung über den Antrag sind der Treuhänder, der Schuldner und die Insolvenzgläubiger zu hören. Der Schuldner hat über die Erfüllung seiner Obliegenheiten Auskunft zu erteilen und, wenn es der Gläubiger beantragt, die Richtigkeit dieser Auskunft an Eides Statt zu versichern. Gibt er die Auskunft oder die eidesstattliche Versicherung ohne hinreichende Entschuldigung nicht innerhalb der ihm gesetzten Frist ab oder erscheint er trotz ordnungsgemäßer Ladung ohne hinreichende Entschuldigung nicht zu einem Termin, den das Gericht für die Erteilung der Auskunft oder die eidesstattliche Versicherung anberaumt hat, so ist die Restschuldbefreiung zu versagen.
 
@@ -2747,9 +2756,15 @@ Zahlungen zur Befriedigung der Insolvenzgläubiger nur an den Treuhänder zu lei
 
 ### § 297 Insolvenzstraftaten
 
-(1) Das Insolvenzgericht versagt die Restschuldbefreiung auf Antrag eines Insolvenzgläubigers, wenn der Schuldner in dem Zeitraum zwischen Schlußtermin und Aufhebung des Insolvenzverfahrens oder während der Laufzeit der Abtretungserklärung wegen einer Straftat nach den §§ 283 bis 283c des Strafgesetzbuchs rechtskräftig verurteilt wird.
+(1) Das Insolvenzgericht versagt die Restschuldbefreiung auf Antrag eines Insolvenzgläubigers, wenn der Schuldner in dem Zeitraum zwischen Schlusstermin und Aufhebung des Insolvenzverfahrens oder in dem Zeitraum zwischen Beendigung des Insolvenzverfahrens und dem Ende der Abtretungsfrist wegen einer Straftat nach den §§ 283 bis 283c des Strafgesetzbuchs rechtskräftig zu einer Geldstrafe von mehr als 90 Tagessätzen oder einer Freiheitsstrafe von mehr als drei Monaten verurteilt wird.
 
-(2) § 296 Abs. 1 Satz 2 und 3, Abs. 3 gilt entsprechend.
+(2) § 296 Absatz 1 Satz 2 und 3, Absatz 3 gilt entsprechend.
+
+### § 297a Nachträglich bekannt gewordene Versagungsgründe
+
+(1) Das Insolvenzgericht versagt die Restschuldbefreiung auf Antrag eines Insolvenzgläubigers, wenn sich nach dem Schlusstermin oder im Falle des § 211 nach der Einstellung herausstellt, dass ein Versagungsgrund nach § 290 Absatz 1 vorgelegen hat. Der Antrag kann nur binnen sechs Monaten nach dem Zeitpunkt gestellt werden, zu dem der Versagungsgrund dem Gläubiger bekannt geworden ist. Er ist nur zulässig, wenn glaubhaft gemacht wird, dass die Voraussetzungen der Sätze 1 und 2 vorliegen und dass der Gläubiger bis zu dem gemäß Satz 1 maßgeblichen Zeitpunkt keine Kenntnis von ihnen hatte.
+
+(2) § 296 Absatz 3 gilt entsprechend.
 
 ### § 298 Deckung der Mindestvergütung des Treuhänders
 
@@ -2761,15 +2776,36 @@ Zahlungen zur Befriedigung der Insolvenzgläubiger nur an den Treuhänder zu lei
 
 ### § 299 Vorzeitige Beendigung
 
-Wird die Restschuldbefreiung nach § 296, 297 oder 298 versagt, so enden die Laufzeit der Abtretungserklärung, das Amt des Treuhänders und die Beschränkung der Rechte der Gläubiger mit der Rechtskraft der Entscheidung.
+Wird die Restschuldbefreiung nach den §§ 296, 297, 297a oder 298 versagt, so enden die Abtretungsfrist, das Amt des Treuhänders und die Beschränkung der Rechte der Gläubiger mit der Rechtskraft der Entscheidung.
 
 ### § 300 Entscheidung über die Restschuldbefreiung
 
-(1) Ist die Laufzeit der Abtretungserklärung ohne eine vorzeitige Beendigung verstrichen, so entscheidet das Insolvenzgericht nach Anhörung der Insolvenzgläubiger, des Treuhänders und des Schuldners durch Beschluß über die Erteilung der Restschuldbefreiung.
+(1) Das Insolvenzgericht entscheidet nach Anhörung der Insolvenzgläubiger, des Insolvenzverwalters oder Treuhänders und des Schuldners durch Beschluss über die Erteilung der Restschuldbefreiung, wenn die Abtretungsfrist ohne vorzeitige Beendigung verstrichen ist. Hat der Schuldner die Kosten des Verfahrens berichtigt, entscheidet das Gericht auf seinen Antrag, wenn
 
-(2) Das Insolvenzgericht versagt die Restschuldbefreiung auf Antrag eines Insolvenzgläubigers, wenn die Voraussetzungen des § 296 Abs. 1 oder 2 Satz 3 oder des § 297 vorliegen, oder auf Antrag des Treuhänders, wenn die Voraussetzungen des § 298 vorliegen.
+1.  
+im Verfahren kein Insolvenzgläubiger eine Forderung angemeldet hat oder wenn die Forderungen der Insolvenzgläubiger befriedigt sind und der Schuldner die sonstigen Masseverbindlichkeiten berichtigt hat,
 
-(3) Der Beschluß ist öffentlich bekanntzumachen. Gegen den Beschluß steht dem Schuldner und jedem Insolvenzgläubiger, der bei der Anhörung nach Absatz 1 die Versagung der Restschuldbefreiung beantragt hat, die sofortige Beschwerde zu.
+2.  
+drei Jahre der Abtretungsfrist verstrichen sind und dem Insolvenzverwalter oder Treuhänder innerhalb dieses Zeitraums ein Betrag zugeflossen ist, der eine Befriedigung der Forderungen der Insolvenzgläubiger in Höhe von mindestens 35 Prozent ermöglicht, oder
+
+3.  
+fünf Jahre der Abtretungsfrist verstrichen sind.
+
+Satz 1 gilt entsprechend. Eine Forderung wird bei der Ermittlung des Prozentsatzes nach Satz 2 Nummer 2 berücksichtigt, wenn sie in das Schlussverzeichnis aufgenommen wurde. Fehlt ein Schlussverzeichnis, so wird eine Forderung berücksichtigt, die als festgestellt gilt oder deren Gläubiger entsprechend § 189 Absatz 1 Feststellungsklage erhoben oder das Verfahren in dem früher anhängigen Rechtsstreit aufgenommen hat.
+
+(2) In den Fällen von Absatz 1 Satz 2 Nummer 2 ist der Antrag nur zulässig, wenn Angaben gemacht werden über die Herkunft der Mittel, die an den Treuhänder geflossen sind und die über die Beträge hinausgehen, die von der Abtretungserklärung erfasst sind. Der Schuldner hat zu erklären, dass die Angaben nach Satz 1 richtig und vollständig sind. Das Vorliegen der Voraussetzungen von Absatz 1 Satz 2 Nummer 1 bis 3 ist vom Schuldner glaubhaft zu machen.
+
+(3) Das Insolvenzgericht versagt die Restschuldbefreiung auf Antrag eines Insolvenzgläubigers, wenn die Voraussetzungen des § 290 Absatz 1, des § 296 Absatz 1 oder Absatz 2 Satz 3, des § 297 oder des § 297a vorliegen, oder auf Antrag des Treuhänders, wenn die Voraussetzungen des § 298 vorliegen.
+
+(4) Der Beschluss ist öffentlich bekannt zu machen. Gegen den Beschluss steht dem Schuldner und jedem Insolvenzgläubiger, der bei der Anhörung nach Absatz 1 die Versagung der Restschuldbefreiung beantragt oder der das Nichtvorliegen der Voraussetzungen einer vorzeitigen Restschuldbefreiung nach Absatz 1 Satz 2 geltend gemacht hat, die sofortige Beschwerde zu. Wird Restschuldbefreiung nach Absatz 1 Satz 2 erteilt, gelten die §§ 299 und 300a entsprechend.
+
+### § 300a Neuerwerb im laufenden Insolvenzverfahren
+
+(1) Wird dem Schuldner Restschuldbefreiung erteilt, gehört das Vermögen, das der Schuldner nach Ende der Abtretungsfrist oder nach Eintritt der Voraussetzungen des § 300 Absatz 1 Satz 2 erwirbt, nicht mehr zur Insolvenzmasse. Satz 1 gilt nicht für Vermögensbestandteile, die auf Grund einer Anfechtung des Insolvenzverwalters zur Insolvenzmasse zurückgewährt werden oder die auf Grund eines vom Insolvenzverwalter geführten Rechtsstreits oder auf Grund Verwertungshandlungen des Insolvenzverwalters zur Insolvenzmasse gehören.
+
+(2) Bis zur rechtskräftigen Erteilung der Restschuldbefreiung hat der Verwalter den Neuerwerb, der dem Schuldner zusteht, treuhänderisch zu vereinnahmen und zu verwalten. Nach rechtskräftiger Erteilung der Restschuldbefreiung findet die Vorschrift des § 89 keine Anwendung. Der Insolvenzverwalter hat bei Rechtskraft der Erteilung der Restschuldbefreiung dem Schuldner den Neuerwerb herauszugeben und über die Verwaltung des Neuerwerbs Rechnung zu legen.
+
+(3) Der Insolvenzverwalter hat für seine Tätigkeit nach Absatz 2, sofern Restschuldbefreiung rechtskräftig erteilt wird, gegenüber dem Schuldner Anspruch auf Vergütung und auf Erstattung angemessener Auslagen. § 293 gilt entsprechend.
 
 ### § 301 Wirkung der Restschuldbefreiung
 
@@ -2784,7 +2820,7 @@ Wird die Restschuldbefreiung nach § 296, 297 oder 298 versagt, so enden die Lau
 Von der Erteilung der Restschuldbefreiung werden nicht berührt:
 
 1.  
-Verbindlichkeiten des Schuldners aus einer vorsätzlich begangenen unerlaubten Handlung, sofern der Gläubiger die entsprechende Forderung unter Angabe dieses Rechtsgrundes nach § 174 Abs. 2 angemeldet hatte;
+Verbindlichkeiten des Schuldners aus einer vorsätzlich begangenen unerlaubten Handlung, aus rückständigem gesetzlichen Unterhalt, den der Schuldner vorsätzlich pflichtwidrig nicht gewährt hat, oder aus einem Steuerschuldverhältnis, sofern der Schuldner im Zusammenhang damit wegen einer Steuerstraftat nach den §§ 370, 373 oder § 374 der Abgabenordnung rechtskräftig verurteilt worden ist; der Gläubiger hat die entsprechende Forderung unter Angabe dieses Rechtsgrundes nach § 174 Absatz 2 anzumelden;
 
 2.  
 Geldstrafen und die diesen in § 39 Abs. 1 Nr. 3 gleichgestellten Verbindlichkeiten des Schuldners;
@@ -2794,19 +2830,35 @@ Verbindlichkeiten aus zinslosen Darlehen, die dem Schuldner zur Begleichung der 
 
 ### § 303 Widerruf der Restschuldbefreiung
 
-(1) Auf Antrag eines Insolvenzgläubigers widerruft das Insolvenzgericht die Erteilung der Restschuldbefreiung, wenn sich nachträglich herausstellt, daß der Schuldner eine seiner Obliegenheiten vorsätzlich verletzt und dadurch die Befriedigung der Insolvenzgläubiger erheblich beeinträchtigt hat.
+(1) Auf Antrag eines Insolvenzgläubigers widerruft das Insolvenzgericht die Erteilung der Restschuldbefreiung, wenn
 
-(2) Der Antrag des Gläubigers ist nur zulässig, wenn er innerhalb eines Jahres nach der Rechtskraft der Entscheidung über die Restschuldbefreiung gestellt wird und wenn glaubhaft gemacht wird, daß die Voraussetzungen des Absatzes 1 vorliegen und daß der Gläubiger bis zur Rechtskraft der Entscheidung keine Kenntnis von ihnen hatte.
+1.  
+sich nachträglich herausstellt, dass der Schuldner eine seiner Obliegenheiten vorsätzlich verletzt und dadurch die Befriedigung der Insolvenzgläubiger erheblich beeinträchtigt hat,
 
-(3) Vor der Entscheidung sind der Schuldner und der Treuhänder zu hören. Gegen die Entscheidung steht dem Antragsteller und dem Schuldner die sofortige Beschwerde zu. Die Entscheidung, durch welche die Restschuldbefreiung widerrufen wird, ist öffentlich bekanntzumachen.
+2.  
+sich nachträglich herausstellt, dass der Schuldner während der Abtretungsfrist nach Maßgabe von § 297 Absatz 1 verurteilt worden ist, oder wenn der Schuldner erst nach Erteilung der Restschuldbefreiung wegen einer bis zum Ende der Abtretungsfrist begangenen Straftat nach Maßgabe von § 297 Absatz 1 verurteilt wird oder
 
-Neunter Teil Verbraucherinsolvenzverfahren und sonstige Kleinverfahren
-----------------------------------------------------------------------
+3.  
+der Schuldner nach Erteilung der Restschuldbefreiung Auskunfts- oder Mitwirkungspflichten vorsätzlich oder grob fahrlässig verletzt hat, die ihm nach diesem Gesetz während des Insolvenzverfahrens obliegen.
 
-### 
+(2) Der Antrag des Gläubigers ist nur zulässig, wenn er innerhalb eines Jahres nach der Rechtskraft der Entscheidung über die Restschuldbefreiung gestellt wird; ein Widerruf nach Absatz 1 Nummer 3 kann bis zu sechs Monate nach rechtskräftiger Aufhebung des Insolvenzverfahrens beantragt werden. Der Gläubiger hat die Voraussetzungen des Widerrufsgrundes glaubhaft zu machen. In den Fällen des Absatzes 1 Nummer 1 hat der Gläubiger zudem glaubhaft zu machen, dass er bis zur Rechtskraft der Entscheidung keine Kenntnis vom Widerrufsgrund hatte.
 
-Erster Abschnitt Anwendungsbereich
-----------------------------------
+(3) Vor der Entscheidung sind der Schuldner und in den Fällen des Absatzes 1 Nummer 1 und 3 auch der Treuhänder oder Insolvenzverwalter zu hören. Gegen die Entscheidung steht dem Antragsteller und dem Schuldner die sofortige Beschwerde zu. Die Entscheidung, durch welche die Restschuldbefreiung widerrufen wird, ist öffentlich bekanntzumachen.
+
+### § 303a Eintragung in das Schuldnerverzeichnis
+
+Das Insolvenzgericht ordnet die Eintragung in das Schuldnerverzeichnis nach § 882b der Zivilprozessordnung an. Eingetragen werden Schuldner,
+
+1.  
+denen die Restschuldbefreiung nach den §§ 290, 296, 297 oder 297a oder auf Antrag eines Insolvenzgläubigers nach § 300 Absatz 2 versagt worden ist,
+
+2.  
+deren Restschuldbefreiung widerrufen worden ist.
+
+Es übermittelt die Anordnung unverzüglich elektronisch dem zentralen Vollstreckungsgericht nach § 882h Absatz 1 der Zivilprozessordnung. § 882c Absatz 2 und 3 der Zivilprozessordnung gilt entsprechend.
+
+Neunter Teil Verbraucherinsolvenzverfahren
+------------------------------------------
 
 ### 
 
@@ -2816,17 +2868,12 @@ Erster Abschnitt Anwendungsbereich
 
 (2) Überschaubar sind die Vermögensverhältnisse im Sinne von Absatz 1 Satz 2 nur, wenn der Schuldner zu dem Zeitpunkt, zu dem der Antrag auf Eröffnung des Insolvenzverfahrens gestellt wird, weniger als 20 Gläubiger hat.
 
-Zweiter Abschnitt Schuldenbereinigungsplan
-------------------------------------------
-
-### 
-
 ### § 305 Eröffnungsantrag des Schuldners
 
-(1) Mit dem schriftlich einzureichenden Antrag auf Eröffnung des Insolvenzverfahrens (§ 311) oder unverzüglich nach diesem Antrag hat der Schuldner vorzulegen:
+(1) Mit dem schriftlich einzureichenden Antrag auf Eröffnung des Insolvenzverfahrens oder unverzüglich nach diesem Antrag hat der Schuldner vorzulegen:
 
 1.  
-eine Bescheinigung, die von einer geeigneten Person oder Stelle ausgestellt ist und aus der sich ergibt, daß eine außergerichtliche Einigung mit den Gläubigern über die Schuldenbereinigung auf der Grundlage eines Plans innerhalb der letzten sechs Monate vor dem Eröffnungsantrag erfolglos versucht worden ist; der Plan ist beizufügen und die wesentlichen Gründe für sein Scheitern sind darzulegen; die Länder können bestimmen, welche Personen oder Stellen als geeignet anzusehen sind;
+eine Bescheinigung, die von einer geeigneten Person oder Stelle auf der Grundlage persönlicher Beratung und eingehender Prüfung der Einkommens- und Vermögensverhältnisse des Schuldners ausgestellt ist und aus der sich ergibt, daß eine außergerichtliche Einigung mit den Gläubigern über die Schuldenbereinigung auf der Grundlage eines Plans innerhalb der letzten sechs Monate vor dem Eröffnungsantrag erfolglos versucht worden ist; der Plan ist beizufügen und die wesentlichen Gründe für sein Scheitern sind darzulegen; die Länder können bestimmen, welche Personen oder Stellen als geeignet anzusehen sind;
 
 2.  
 den Antrag auf Erteilung von Restschuldbefreiung (§ 287) oder die Erklärung, daß Restschuldbefreiung nicht beantragt werden soll;
@@ -2839,11 +2886,11 @@ einen Schuldenbereinigungsplan; dieser kann alle Regelungen enthalten, die unter
 
 (2) In dem Verzeichnis der Forderungen nach Absatz 1 Nr. 3 kann auch auf beigefügte Forderungsaufstellungen der Gläubiger Bezug genommen werden. Auf Aufforderung des Schuldners sind die Gläubiger verpflichtet, auf ihre Kosten dem Schuldner zur Vorbereitung des Forderungsverzeichnisses eine schriftliche Aufstellung ihrer gegen diesen gerichteten Forderungen zu erteilen; insbesondere haben sie ihm die Höhe ihrer Forderungen und deren Aufgliederung in Hauptforderung, Zinsen und Kosten anzugeben. Die Aufforderung des Schuldners muß einen Hinweis auf einen bereits bei Gericht eingereichten oder in naher Zukunft beabsichtigten Antrag auf Eröffnung eines Insolvenzverfahrens enthalten.
 
-(3) Hat der Schuldner die in Absatz 1 genannten Erklärungen und Unterlagen nicht vollständig abgegeben, so fordert ihn das Insolvenzgericht auf, das Fehlende unverzüglich zu ergänzen. Kommt der Schuldner dieser Aufforderung nicht binnen eines Monats nach, so gilt sein Antrag auf Eröffnung des Insolvenzverfahrens als zurückgenommen. Im Falle des § 306 Abs. 3 Satz 3 beträgt die Frist drei Monate.
+(3) Hat der Schuldner die amtlichen Formulare nach Absatz 5 nicht vollständig ausgefüllt abgegeben, fordert ihn das Insolvenzgericht auf, das Fehlende unverzüglich zu ergänzen. Kommt der Schuldner dieser Aufforderung nicht binnen eines Monats nach, so gilt sein Antrag auf Eröffnung des Insolvenzverfahrens als zurückgenommen. Im Falle des § 306 Abs. 3 Satz 3 beträgt die Frist drei Monate.
 
-(4) Der Schuldner kann sich im Verfahren nach diesem Abschnitt vor dem Insolvenzgericht von einer geeigneten Person oder einem Angehörigen einer als geeignet anerkannten Stelle im Sinne des Absatzes 1 Nr. 1 vertreten lassen. Für die Vertretung des Gläubigers gilt § 174 Abs. 1 Satz 3 entsprechend.
+(4) Der Schuldner kann sich vor dem Insolvenzgericht von einer geeigneten Person oder einem Angehörigen einer als geeignet anerkannten Stelle im Sinne des Absatzes 1 Nr. 1 vertreten lassen. Für die Vertretung des Gläubigers gilt § 174 Abs. 1 Satz 3 entsprechend.
 
-(5) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vereinfachung des Verbraucherinsolvenzverfahrens für die Beteiligten Formulare für die nach Absatz 1 Nr. 1 bis 4 vorzulegenden Bescheinigungen, Anträge, Verzeichnisse und Pläne einzuführen. Soweit nach Satz 1 Formulare eingeführt sind, muß sich der Schuldner ihrer bedienen. Für Verfahren bei Gerichten, die die Verfahren maschinell bearbeiten und für Verfahren bei Gerichten, die die Verfahren nicht maschinell bearbeiten, können unterschiedliche Formulare eingeführt werden.
+(5) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vereinfachung des Verbraucherinsolvenzverfahrens für die Beteiligten Formulare für die nach Absatz 1 Nummer 1 bis 3 vorzulegenden Bescheinigungen, Anträge und Verzeichnisse einzuführen. Soweit nach Satz 1 Formulare eingeführt sind, muß sich der Schuldner ihrer bedienen. Für Verfahren bei Gerichten, die die Verfahren maschinell bearbeiten und für Verfahren bei Gerichten, die die Verfahren nicht maschinell bearbeiten, können unterschiedliche Formulare eingeführt werden.
 
 ### § 305a Scheitern der außergerichtlichen Schuldenbereinigung
 
@@ -2891,36 +2938,13 @@ dieser Gläubiger durch den Schuldenbereinigungsplan voraussichtlich wirtschaftl
 
 Die Gläubiger haben gegen den Schuldner keinen Anspruch auf Erstattung der Kosten, die ihnen im Zusammenhang mit dem Schuldenbereinigungsplan entstehen.
 
-Dritter Abschnitt Vereinfachtes Insolvenzverfahren
---------------------------------------------------
-
-### 
-
 ### § 311 Aufnahme des Verfahrens über den Eröffnungsantrag
 
 Werden Einwendungen gegen den Schuldenbereinigungsplan erhoben, die nicht gemäß § 309 durch gerichtliche Zustimmung ersetzt werden, so wird das Verfahren über den Eröffnungsantrag von Amts wegen wieder aufgenommen.
 
-### § 312 Allgemeine Verfahrensvereinfachungen
+### (XXXX) §§ 312 bis 314 (weggefallen)
 
-(1) Öffentliche Bekanntmachungen erfolgen auszugsweise; § 9 Abs. 2 ist nicht anzuwenden. Bei der Eröffnung des Insolvenzverfahrens wird abweichend von § 29 nur der Prüfungstermin bestimmt. Wird das Verfahren auf Antrag des Schuldners eröffnet, so beträgt die in § 88 genannte Frist drei Monate.
-
-(2) Die Vorschriften über den Insolvenzplan (§§ 217 bis 269) und über die Eigenverwaltung (§§ 270 bis 285) sind nicht anzuwenden.
-
-### § 313 Treuhänder
-
-(1) Die Aufgaben des Insolvenzverwalters werden von dem Treuhänder (§ 292) wahrgenommen. Dieser wird abweichend von § 291 Abs. 2 bereits bei der Eröffnung des Insolvenzverfahrens bestimmt. Die §§ 56 bis 66 gelten entsprechend.
-
-(2) Zur Anfechtung von Rechtshandlungen nach den §§ 129 bis 147 ist nicht der Treuhänder, sondern jeder Insolvenzgläubiger berechtigt. Aus dem Erlangten sind dem Gläubiger die ihm entstandenen Kosten vorweg zu erstatten. Die Gläubigerversammlung kann den Treuhänder oder einen Gläubiger mit der Anfechtung beauftragen. Hat die Gläubigerversammlung einen Gläubiger mit der Anfechtung beauftragt, so sind diesem die entstandenen Kosten, soweit sie nicht aus dem Erlangten gedeckt werden können, aus der Insolvenzmasse zu erstatten.
-
-(3) Der Treuhänder ist nicht zur Verwertung von Gegenständen berechtigt, an denen Pfandrechte oder andere Absonderungsrechte bestehen. Das Verwertungsrecht steht dem Gläubiger zu. § 173 Abs. 2 gilt entsprechend.
-
-### § 314 Vereinfachte Verteilung
-
-(1) Auf Antrag des Treuhänders ordnet das Insolvenzgericht an, daß von einer Verwertung der Insolvenzmasse ganz oder teilweise abgesehen wird. In diesem Fall hat es dem Schuldner zusätzlich aufzugeben, binnen einer vom Gericht festgesetzten Frist an den Treuhänder einen Betrag zu zahlen, der dem Wert der Masse entspricht, die an die Insolvenzgläubiger zu verteilen wäre. Von der Anordnung soll abgesehen werden, wenn die Verwertung der Insolvenzmasse insbesondere im Interesse der Gläubiger geboten erscheint.
-
-(2) Vor der Entscheidung sind die Insolvenzgläubiger zu hören.
-
-(3) Die Entscheidung über einen Antrag des Schuldners auf Erteilung von Restschuldbefreiung (§§ 289 bis 291) ist erst nach Ablauf der nach Absatz 1 Satz 2 festgesetzten Frist zu treffen. Das Gericht versagt die Restschuldbefreiung auf Antrag eines Insolvenzgläubigers, wenn der nach Absatz 1 Satz 2 zu zahlende Betrag auch nach Ablauf einer weiteren Frist von zwei Wochen, die das Gericht unter Hinweis auf die Möglichkeit der Versagung der Restschuldbefreiung gesetzt hat, nicht gezahlt ist. Vor der Entscheidung ist der Schuldner zu hören.
+-
 
 Zehnter Teil Besondere Arten des Insolvenzverfahrens
 ----------------------------------------------------
@@ -3166,7 +3190,7 @@ soweit die Anerkennung zu einem Ergebnis führt, das mit wesentlichen Grundsätz
 
 ### § 345 Öffentliche Bekanntmachung
 
-(1) Sind die Voraussetzungen für die Anerkennung der Verfahrenseröffnung gegeben, so hat das Insolvenzgericht auf Antrag des ausländischen Insolvenzverwalters den wesentlichen Inhalt der Entscheidung über die Verfahrenseröffnung und der Entscheidung über die Bestellung des Insolvenzverwalters im Inland bekannt zu machen. § 9 Abs. 1 und 2 und § 30 Abs. 1 Satz 1 gelten entsprechend. Ist die Eröffnung des Insolvenzverfahrens bekannt gemacht worden, so ist die Beendigung in gleicher Weise bekannt zu machen.
+(1) Sind die Voraussetzungen für die Anerkennung der Verfahrenseröffnung gegeben, so hat das Insolvenzgericht auf Antrag des ausländischen Insolvenzverwalters den wesentlichen Inhalt der Entscheidung über die Verfahrenseröffnung und der Entscheidung über die Bestellung des Insolvenzverwalters im Inland bekannt zu machen. § 9 Abs. 1 und 2 und § 30 Abs. 1 gelten entsprechend. Ist die Eröffnung des Insolvenzverfahrens bekannt gemacht worden, so ist die Beendigung in gleicher Weise bekannt zu machen.
 
 (2) Hat der Schuldner im Inland eine Niederlassung, so erfolgt die öffentliche Bekanntmachung von Amts wegen. Der Insolvenzverwalter oder ein ständiger Vertreter nach § 13e Abs. 2 Satz 5 Nr. 3 des Handelsgesetzbuchs unterrichtet das nach § 348 Abs. 1 zuständige Insolvenzgericht.
 
