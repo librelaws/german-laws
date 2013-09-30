@@ -47,17 +47,18 @@ Teil 3
 Rechtsdienstleistungen
 durch registrierte Personen
 
-|       |                                                      |
-|-------|------------------------------------------------------|
-| § 10  | Rechtsdienstleistungen aufgrund besonderer Sachkunde |
-| § 11  | Besondere Sachkunde, Berufsbezeichnungen             |
-| § 12  | Registrierungsvoraussetzungen                        |
-| § 13  | Registrierungsverfahren                              |
-| § 13a | Aufsichtsmaßnahmen                                   |
-| § 14  | Widerruf der Registrierung                           |
-| § 15  | Vorübergehende Rechtsdienstleistungen                |
-| § 15a | Statistik                                            |
-| § 15b | Betrieb ohne Registrierung                           |
+|       |                                                                   |
+|-------|-------------------------------------------------------------------|
+| § 10  | Rechtsdienstleistungen aufgrund besonderer Sachkunde              |
+| § 11  | Besondere Sachkunde, Berufsbezeichnungen                          |
+| § 11a | Darlegungs- und Informationspflichten bei Inkassodienstleistungen |
+| § 12  | Registrierungsvoraussetzungen                                     |
+| § 13  | Registrierungsverfahren                                           |
+| § 13a | Aufsichtsmaßnahmen                                                |
+| § 14  | Widerruf der Registrierung                                        |
+| § 15  | Vorübergehende Rechtsdienstleistungen                             |
+| § 15a | Statistik                                                         |
+| § 15b | Betrieb ohne Registrierung                                        |
 
 Teil 4
 
@@ -229,6 +230,41 @@ Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zu
 
 (4) Berufsbezeichnungen, die den Begriff „Inkasso“ enthalten, sowie die Berufsbezeichnung „Rentenberaterin“ oder „Rentenberater“ oder diesen zum Verwechseln ähnliche Bezeichnungen dürfen nur von entsprechend registrierten Personen geführt werden.
 
+### § 11a Darlegungs- und Informationspflichten bei Inkassodienstleistungen
+
+(1) Registrierte Personen, die Inkassodienstleistungen erbringen, müssen, wenn sie eine Forderung gegenüber einer Privatperson geltend machen, mit der ersten Geltendmachung folgende Informationen klar und verständlich übermitteln:
+
+1.  
+den Namen oder die Firma ihrer Auftraggeberin oder ihres Auftraggebers,
+
+2.  
+den Forderungsgrund, bei Verträgen unter konkreter Darlegung des Vertragsgegenstands und des Datums des Vertragsschlusses,
+
+3.  
+wenn Zinsen geltend gemacht werden, eine Zinsberechnung unter Darlegung der zu verzinsenden Forderung, des Zinssatzes und des Zeitraums, für den die Zinsen berechnet werden,
+
+4.  
+wenn ein Zinssatz über dem gesetzlichen Verzugszinssatz geltend gemacht wird, einen gesonderten Hinweis hierauf und die Angabe, aufgrund welcher Umstände der erhöhte Zinssatz gefordert wird,
+
+5.  
+wenn eine Inkassovergütung oder sonstige Inkassokosten geltend gemacht werden, Angaben zu deren Art, Höhe und Entstehungsgrund,
+
+6.  
+wenn mit der Inkassovergütung Umsatzsteuerbeträge geltend gemacht werden, eine Erklärung, dass die Auftraggeberin oder der Auftraggeber diese Beträge nicht als Vorsteuer abziehen kann.
+
+Auf Anfrage sind der Privatperson folgende Informationen ergänzend mitzuteilen:
+
+1.  
+eine ladungsfähige Anschrift der Auftraggeberin oder des Auftraggebers, wenn nicht dargelegt wird, dass dadurch schutzwürdige Interessen der Auftraggeberin oder des Auftraggebers beeinträchtigt werden,
+
+2.  
+der Name oder die Firma desjenigen, in dessen Person die Forderung entstanden ist,
+
+3.  
+bei Verträgen die wesentlichen Umstände des Vertragsschlusses.
+
+(2) Privatperson im Sinne des Absatzes 1 ist jede natürliche Person, gegen die eine Forderung geltend gemacht wird, die nicht im Zusammenhang mit ihrer gewerblichen oder selbständigen beruflichen Tätigkeit steht.
+
 ### § 12 Registrierungsvoraussetzungen
 
 (1) Voraussetzungen für die Registrierung sind
@@ -313,7 +349,7 @@ wenn begründete Tatsachen die Annahme rechtfertigen, dass die registrierte Pers
 wenn die registrierte Person keine Berufshaftpflichtversicherung nach § 12 Abs. 1 Nr. 3 mehr unterhält,
 
 3.  
-wenn begründete Tatsachen die Annahme dauerhaft unqualifizierter Rechtsdienstleistungen zum Nachteil der Rechtsuchenden oder des Rechtsverkehrs rechtfertigen; dies ist in der Regel der Fall, wenn die registrierte Person in erheblichem Umfang Rechtsdienstleistungen über die eingetragene Befugnis hinaus erbringt oder beharrlich gegen Auflagen verstößt,
+wenn begründete Tatsachen die Annahme dauerhaft unqualifizierter Rechtsdienstleistungen zum Nachteil der Rechtsuchenden oder des Rechtsverkehrs rechtfertigen; dies ist in der Regel der Fall, wenn die registrierte Person in erheblichem Umfang Rechtsdienstleistungen über die eingetragene Befugnis hinaus erbringt oder beharrlich gegen Auflagen oder Darlegungs- und Informationspflichten nach § 11a verstößt,
 
 4.  
 wenn eine juristische Person oder eine Gesellschaft ohne Rechtspersönlichkeit, die keine weitere qualifizierte Person benannt hat, bei Ausscheiden der qualifizierten Person nicht innerhalb von sechs Monaten eine qualifizierte Person benennt.
