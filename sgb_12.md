@@ -2,10 +2,7 @@ Sozialgesetzbuch (SGB) Zwölftes Buch (XII) - Sozialhilfe - (Artikel 1 des Geset
 =============================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 G v. 7.5.2013 I 1167
-
-Hinweis  
-Änderung durch Art. 2 G v. 29.8.2013 I 3464 (Nr. 53) noch nicht berücksichtigt
+Zuletzt geändert durch Art. 1 G v. 1.10.2013 I 3733
 
 ### 
 
@@ -895,7 +892,7 @@ Fünfter Abschnitt Gewährung von Darlehen
 
 ### § 38 Darlehen bei vorübergehender Notlage
 
-(1) Sind Leistungen nach den §§ 28, 29, 30, 32, 33 und der Barbetrag nach § 35 Abs. 2 voraussichtlich nur für kurze Dauer zu erbringen, können Geldleistungen als Darlehen gewährt werden. Darlehen an Mitglieder von Haushaltsgemeinschaften im Sinne des § 19 Abs. 1 Satz 2 können an einzelne Mitglieder oder an mehrere gemeinsam vergeben werden.
+(1) Sind Leistungen nach den § 27a Absatz 3 und 4, der Barbetrag nach § 27b Absatz 2 sowie nach den §§ 30, 32, 33 und 35 voraussichtlich nur für kurze Dauer zu erbringen, können Geldleistungen als Darlehen gewährt werden. Darlehen an Mitglieder von Haushaltsgemeinschaften im Sinne des § 19 Abs. 1 Satz 2 können an einzelne Mitglieder oder an mehrere gemeinsam vergeben werden.
 
 (2) Die Regelung des § 105 Abs. 2 findet entsprechende Anwendung.
 
@@ -1011,11 +1008,13 @@ Zweiter Abschnitt Verfahrensbestimmungen
 
 ### 
 
-### § 44 Besondere Verfahrensregelungen
+### § 44 Besondere Regelungen für Verfahren und Erstattungszahlungen
 
 (1) Die Leistung wird in der Regel für zwölf Kalendermonate bewilligt. Bei der Erstbewilligung oder bei einer Änderung der Leistung beginnt der Bewilligungszeitraum am Ersten des Monats, in dem der Antrag gestellt worden ist oder die Voraussetzungen für die Änderung eingetreten und mitgeteilt worden sind. Bei einer Erstbewilligung nach dem Bezug von Arbeitslosengeld II oder Sozialgeld nach dem Zweiten Buch, der mit Erreichen der Altersgrenze nach § 7a des Zweiten Buches endet, beginnt der Bewilligungszeitraum mit dem Ersten des Monats, der auf den sich nach § 7a des Zweiten Buches ergebenden Monat folgt. Führt eine Änderung nicht zu einer Begünstigung des Berechtigten, so beginnt der neue Bewilligungszeitraum am Ersten des Folgemonats.
 
 (2) Eine Leistungsabsprache nach § 12 kann im Einzelfall stattfinden.
+
+(3) Die Vorschriften über die Erstattung zwischen den Trägern der Sozialhilfe nach dem Zweiten Abschnitt des Dreizehnten Kapitels sind für Geldleistungen nach diesem Kapitel nicht anzuwenden.
 
 ### § 45 Feststellung der dauerhaften vollen Erwerbsminderung
 
@@ -1074,15 +1073,17 @@ Unterkunftskosten nach § 42 Nummer 4,
 5.  
 Darlehen nach § 42 Nummer 5
 
-sowie für die Einnahmen nach Absatz 2 Satz 2 in tabellarischer Form zu belegen. Die Nachweise sind jeweils zum Fünfzehnten der Monate Februar, Mai, August und November für das jeweils abgeschlossene Quartal einzureichen; jedoch erstmals für das erste Quartal 2014 zum 15. Mai 2014.
+sowie für die Einnahmen nach Absatz 2 Satz 2 in tabellarischer Form zu belegen. Die Nachweise sind jeweils zum Fünfzehnten der Monate Februar, Mai, August und November für das jeweils abgeschlossene Quartal einzureichen; jedoch erstmals für das erste Quartal 2015 zum 15. Mai 2015.
 
-(5) Die Länder haben erstmals für das Jahr 2014 die Nettoausgaben des jeweiligen Vorjahres bis zum 31. Mai des Folgejahres nachzuweisen. Dabei sind die Ausgaben für Geldleistungen entsprechend der Untergliederung der Erhebungen nach § 128c Nummer 1 bis 5, Nummer 6 Buchstabe c und d und Nummer 7 nachzuweisen. Die Einnahmen sind nach Absatz 2 Satz 2 nachzuweisen. Die Nachweise sind jeweils in tabellarischer Form zu erbringen.
+(5) Die Länder haben erstmals für das Jahr 2015 die Nettoausgaben des jeweiligen Vorjahres bis zum 31. Mai des Folgejahres nachzuweisen. Dabei sind die Ausgaben für Geldleistungen entsprechend der Untergliederung der Erhebungen nach § 128c Nummer 1 bis 5, Nummer 6 Buchstabe c und d und Nummer 7 nachzuweisen. Die Einnahmen sind nach Absatz 2 Satz 2 nachzuweisen. Die Nachweise sind jeweils in tabellarischer Form zu erbringen.
 
 ### § 46b Zuständigkeit
 
-(1) Die für die Ausführung des Gesetzes nach diesem Kapitel zuständigen Träger werden nach Landesrecht bestimmt.
+(1) Die für die Ausführung des Gesetzes nach diesem Kapitel zuständigen Träger werden nach Landesrecht bestimmt, sofern sich nach Absatz 3 nichts Abweichendes ergibt.
 
-(2) Die §§ 3, 6 und 7 und das Zwölfte Kapitel sind nicht anzuwenden.
+(2) Die §§ 3, 6 und 7 sind nicht anzuwenden.
+
+(3) Das Zwölfte Kapitel ist nicht anzuwenden, sofern sich aus den Sätzen 2 und 3 nichts Abweichendes ergibt. Bei Leistungsberechtigten nach diesem Kapitel gilt der Aufenthalt in einer stationären Einrichtung und in Einrichtungen zum Vollzug richterlich angeordneter Freiheitsentziehung nicht als gewöhnlicher Aufenthalt; § 98 Absatz 2 Satz 1 bis 3 ist entsprechend anzuwenden. Für die Leistungen nach diesem Kapitel an Personen, die Leistungen nach dem Sechsten bis Achten Kapitel in Formen ambulanter betreuter Wohnmöglichkeiten erhalten, ist § 98 Absatz 5 entsprechend anzuwenden.
 
 Fünftes Kapitel Hilfen zur Gesundheit
 -------------------------------------
@@ -1173,7 +1174,7 @@ Die Leistungen zur medizinischen Rehabilitation und zur Teilhabe am Arbeitsleben
 
 (2) Erhalten behinderte oder von einer Behinderung bedrohte Menschen in einer stationären Einrichtung Leistungen der Eingliederungshilfe, können ihnen oder ihren Angehörigen zum gegenseitigen Besuch Beihilfen geleistet werden, soweit es im Einzelfall erforderlich ist.
 
-(3) Eine Leistung der Eingliederungshilfe ist auch die Hilfe für die Betreuung in einer Pflegefamilie, soweit eine geeignete Pflegeperson Kinder und Jugendliche über Tag und Nacht in ihrem Haushalt versorgt und dadurch der Aufenthalt in einer vollstationären Einrichtung der Behindertenhilfe vermieden oder beendet werden kann. Die Pflegeperson bedarf einer Erlaubnis nach § 44 des Achten Buches. Diese Regelung tritt am 31. Dezember 2013 außer Kraft.
+(3) Eine Leistung der Eingliederungshilfe ist auch die Hilfe für die Betreuung in einer Pflegefamilie, soweit eine geeignete Pflegeperson Kinder und Jugendliche über Tag und Nacht in ihrem Haushalt versorgt und dadurch der Aufenthalt in einer vollstationären Einrichtung der Behindertenhilfe vermieden oder beendet werden kann. Die Pflegeperson bedarf einer Erlaubnis nach § 44 des Achten Buches. Diese Regelung tritt am 31. Dezember 2018 außer Kraft.
 
 ### § 55 Sonderregelung für behinderte Menschen in Einrichtungen
 
@@ -2212,23 +2213,17 @@ Abweichend von § 28a sind die Regelbedarfsstufen 4 bis 6 der Anlage zu § 28 ni
 
 (2) Die Länder können für die Verwaltung der im Rahmen der bisherigen Tuberkulosehilfe gewährten Darlehen andere Behörden bestimmen.
 
-### § 136 Übergangsregelung für die Nachweise im Jahr 2013
+### § 136 Übergangsregelung für Nachweise in den Jahren 2013 und 2014
 
-(1) Die Länder haben dem Bundesministerium für Arbeit und Soziales zum 15. Mai 2013, zum 15. August 2013, zum 15. November 2013 und zum 15. Februar 2014 für das jeweils abgeschlossene Quartal in tabellarischer Form zu belegen:
+(1) Die Länder haben dem Bundesministerium für Arbeit und Soziales in den Jahren 2013 und 2014 jeweils zum Fünfzehnten der Monate Mai, August, November und Februar für das jeweils abgeschlossene Quartal in tabellarischer Form zu belegen:
 
 1.  
 die Bruttoausgaben für Geldleistungen nach § 46a Absatz 2 sowie die darauf entfallenden Einnahmen,
 
 2.  
-die Bruttoausgaben und Einnahmen nach Nummer 1, differenziert nach
+die Bruttoausgaben und Einnahmen nach Nummer 1, differenziert nach Leistungen für Leistungsberechtigte außerhalb und in Einrichtungen.
 
-a)  
-Leistungen für Leistungsberechtigte außerhalb und in Einrichtungen,
-
-b)  
-Leistungen für Leistungsberechtigte nach § 41 Absatz 2 und für Leistungsberechtigte nach § 41 Absatz 3.
-
-(2) Die Länder haben dem Bundesministerium für Arbeit und Soziales bis zum 31. Mai 2014 die Angaben nach Absatz 1 entsprechend für das Kalenderjahr 2013 in tabellarischer Form zu belegen.
+(2) Die Länder haben dem Bundesministerium für Arbeit und Soziales die Angaben nach Absatz 1 entsprechend für das Kalenderjahr 2013 bis zum 31. Mai 2014 und für das Kalenderjahr 2014 bis zum 31. Mai 2015 in tabellarischer Form zu belegen.
 
 ### § 137 Übergangsregelung aus Anlass des Gesetzes zur Ermittlung von Regelbedarfen und zur Änderung des Zweiten und Zwölften Buches Sozialgesetzbuch
 
@@ -2307,6 +2302,20 @@ bedarfsstufe 6
 255
 
 224
+
+1. Januar 2014
+
+391
+
+353
+
+313
+
+296
+
+261
+
+229
 
 Regelbedarfsstufe 1:
 Für eine erwachsene leistungsberechtigte Person, die als alleinstehende oder alleinerziehende Person einen eigenen Haushalt führt; dies gilt auch dann, wenn in diesem Haushalt eine oder mehrere weitere erwachsene Personen leben, die der Regelbedarfsstufe 3 zuzuordnen sind.
