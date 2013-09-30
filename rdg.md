@@ -2,16 +2,7 @@ Gesetz über außergerichtliche Rechtsdienstleistungen (RDG)
 ==========================================================
 
 Stand  
-Zuletzt geändert durch Art. 16 G v. 6.12.2011 I 2515
-
-Hinweis  
-Änderung durch Art. 49 G v. 23.7.2013 I 2586 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 14 G v. 25.7.2013 I 2749 (Nr. 43) berücksichtigt
-
-Hinweis  
-Änderung durch Art. 1 G v. 1.10.2013 I 3714 (Nr. 59) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 1 G v. 1.10.2013 I 3714
 
 ### 
 
