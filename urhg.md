@@ -2,7 +2,10 @@ Gesetz über Urheberrecht und verwandte Schutzrechte ()
 ======================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 14.12.2012 I 2579
+Zuletzt geändert durch Art. 8 G v. 1.10.2013 I 3714
+
+Hinweis  
+Änderung durch Art. 1 G v. 1.10.2013 I 3728 (Nr. 59) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -21,7 +24,11 @@ Zuletzt geändert durch Art. 1 G v. 14.12.2012 I 2579
        EGRL 29/2001 (CELEX Nr: 301L0029) vgl. G v. 10.9.2003 I 1774
                                          iVm § 137j
      Umsetzung der
-       EGRL 84/2001 (CELEX Nr: 301L0029) vgl. G v. 10.11.2006 I 2587 +++) 
+       EGRL 84/2001 (CELEX Nr: 301L0029) vgl. G v. 10.11.2006 I 2587 
+     Umsetzung der
+       EURL 77/2011 (CELEX Nr: 30211L0077) vgl. G v. 2.7.2013 I 1940 
+     Umsetzung der
+       EURL 28/2012 (CELEX Nr: 32012L0028) vgl. G v. 1.10.2013 I 3728  +++) 
 ```
 
 ### Inhaltsübersicht
@@ -30,17 +37,17 @@ Zuletzt geändert durch Art. 1 G v. 14.12.2012 I 2579
 
 **Urheberrecht**
 
-**Abschnitt 1**
+Abschnitt 1
 
-**Allgemeines**
+Allgemeines
 
 |       |             |
 |-------|-------------|
 | §   1 | Allgemeines |
 
-**Abschnitt 2**
+Abschnitt 2
 
-**Das Werk**
+Das Werk
 
 |       |                                       |
 |-------|---------------------------------------|
@@ -199,19 +206,18 @@ Abschnitt 7
 
 Dauer des Urheberrechts
 
-|       |                              |
-|-------|------------------------------|
-| §  64 | Allgemeines                  |
-| §  65 | Miturheber, Filmwerke        |
-| §  66 | Anonyme und pseudonyme Werke |
-| §  67 | Lieferungswerke              |
-| §  68 | (weggefallen)                |
-| §  69 | Berechnung der Fristen       |
+|       |                                                  |
+|-------|--------------------------------------------------|
+| §  64 | Allgemeines                                      |
+| §  65 | Miturheber, Filmwerke, Musikkomposition mit Text |
+| §  66 | Anonyme und pseudonyme Werke                     |
+| §  67 | Lieferungswerke                                  |
+| §  68 | (weggefallen)                                    |
+| §  69 | Berechnung der Fristen                           |
 
 Abschnitt 8
 
-Besondere
-Bestimmungen für Computerprogramme
+Besondere Bestimmungen für Computerprogramme
 
 |        |                                                       |
 |--------|-------------------------------------------------------|
@@ -248,20 +254,21 @@ Abschnitt 3
 
 Schutz des ausübenden Künstlers
 
-|       |                                                    |
-|-------|----------------------------------------------------|
-| §  73 | Ausübender Künstler                                |
-| §  74 | Anerkennung als ausübender Künstler                |
-| §  75 | Beeinträchtigungen der Darbietung                  |
-| §  76 | Dauer der Persönlichkeitsrechte                    |
-| §  77 | Aufnahme, Vervielfältigung und Verbreitung         |
-| §  78 | Öffentliche Wiedergabe                             |
-| §  79 | Nutzungsrechte                                     |
-| §  80 | Gemeinsame Darbietung mehrerer ausübender Künstler |
-| §  81 | Schutz des Veranstalters                           |
-| §  82 | Dauer der Verwertungsrechte                        |
-| §  83 | Schranken der Verwertungsrechte                    |
-| §  84 | (weggefallen)                                      |
+|        |                                                    |
+|--------|----------------------------------------------------|
+| §  73  | Ausübender Künstler                                |
+| §  74  | Anerkennung als ausübender Künstler                |
+| §  75  | Beeinträchtigungen der Darbietung                  |
+| §  76  | Dauer der Persönlichkeitsrechte                    |
+| §  77  | Aufnahme, Vervielfältigung und Verbreitung         |
+| §  78  | Öffentliche Wiedergabe                             |
+| §  79  | Nutzungsrechte                                     |
+| §  79a | Vergütungsanspruch des ausübenden Künstlers        |
+| §  80  | Gemeinsame Darbietung mehrerer ausübender Künstler |
+| §  81  | Schutz des Veranstalters                           |
+| §  82  | Dauer der Verwertungsrechte                        |
+| §  83  | Schranken der Verwertungsrechte                    |
+| §  84  | (weggefallen)                                      |
 
 Abschnitt 4
 
@@ -291,6 +298,16 @@ Schutz des Datenbankherstellers
 | §  87c | Schranken des Rechts des Datenbankherstellers |
 | §  87d | Dauer der Rechte                              |
 | §  87e | Verträge über die Benutzung einer Datenbank   |
+
+Abschnitt 7
+
+Schutz des Presseverlegers
+
+|       |                                                 |
+|-------|-------------------------------------------------|
+| § 87f | Presseverleger                                  |
+| § 87g | Übertragbarkeit, Dauer und Schranken des Rechts |
+| § 87h | Beteiligungsanspruch des Urhebers               |
 
 **Teil 3**
 
@@ -357,6 +374,7 @@ Bürgerlich-rechtliche Vorschriften; Rechtsweg
 | § 102a | Ansprüche aus anderen gesetzlichen Vorschriften   |
 | § 103  | Bekanntmachung des Urteils                        |
 | § 104  | Rechtsweg                                         |
+| § 104a | Gerichtsstand                                     |
 | § 105  | Gerichte für Urheberrechtsstreitsachen            |
 
 Unterabschnitt 2
@@ -497,6 +515,7 @@ Abschnitt 2
 | § 137j | Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2001/29/EG              |
 | § 137k | Übergangsregelung zur öffentlichen Zugänglichmachung für Unterricht und Forschung |
 | § 137l | Übergangsregelung für neue Nutzungsarten                                          |
+| § 137m | Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2011/77/EU              |
 
 Abschnitt 3
 
@@ -1349,8 +1368,6 @@ Zulässig ist die Vervielfältigung, Verbreitung und öffentliche Wiedergabe von
 
 ### § 61 (weggefallen)
 
--
-
 ### § 62 Änderungsverbot
 
 (1) Soweit nach den Bestimmungen dieses Abschnitts die Benutzung eines Werkes zulässig ist, dürfen Änderungen an dem Werk nicht vorgenommen werden. § 39 gilt entsprechend.
@@ -1382,11 +1399,13 @@ Abschnitt 7 Dauer des Urheberrechts
 
 Das Urheberrecht erlischt siebzig Jahre nach dem Tode des Urhebers.
 
-### § 65 Miturheber, Filmwerke
+### § 65 Miturheber, Filmwerke, Musikkomposition mit Text
 
 (1) Steht das Urheberrecht mehreren Miturhebern (§ 8) zu, so erlischt es siebzig Jahre nach dem Tode des längstlebenden Miturhebers.
 
 (2) Bei Filmwerken und Werken, die ähnlich wie Filmwerke hergestellt werden, erlischt das Urheberrecht siebzig Jahre nach dem Tod des Längstlebenden der folgenden Personen: Hauptregisseur, Urheber des Drehbuchs, Urheber der Dialoge, Komponist der für das betreffende Filmwerk komponierten Musik.
+
+(3) Die Schutzdauer einer Musikkomposition mit Text erlischt 70 Jahre nach dem Tod des Längstlebenden der folgenden Personen: Verfasser des Textes, Komponist der Musikkomposition, sofern beide Beiträge eigens für die betreffende Musikkomposition mit Text geschaffen wurden. Dies gilt unabhängig davon, ob diese Personen als Miturheber ausgewiesen sind.
 
 ### § 66 Anonyme und pseudonyme Werke
 
@@ -1597,11 +1616,39 @@ die Sendung oder die auf öffentlicher Zugänglichmachung beruhende Wiedergabe d
 
 (2) Der ausübende Künstler kann einem anderen das Recht einräumen, die Darbietung auf einzelne oder alle der ihm vorbehaltenen Nutzungsarten zu nutzen. Die §§ 31, 32 bis 32b, 33 bis 42 und 43 sind entsprechend anzuwenden.
 
+(3) Unterlässt es der Tonträgerhersteller, Kopien des Tonträgers in ausreichender Menge zum Verkauf anzubieten oder den Tonträger öffentlich zugänglich zu machen, so kann der ausübende Künstler den Vertrag, mit dem er dem Tonträgerhersteller seine Rechte an der Aufzeichnung der Darbietung eingeräumt oder übertragen hat (Übertragungsvertrag), kündigen. Die Kündigung ist zulässig
+
+1.  
+nach Ablauf von 50 Jahren nach dem Erscheinen eines Tonträgers oder 50 Jahre nach der ersten erlaubten Benutzung des Tonträgers zur öffentlichen Wiedergabe, wenn der Tonträger nicht erschienen ist, und
+
+2.  
+wenn der Tonträgerhersteller innerhalb eines Jahres nach Mitteilung des ausübenden Künstlers, den Übertragungsvertrag kündigen zu wollen, nicht beide in Satz 1 genannten Nutzungshandlungen ausführt.
+
+Ist der Übertragungsvertrag gekündigt, so erlöschen die Rechte des Tonträgerherstellers am Tonträger. Auf das Kündigungsrecht kann der ausübende Künstler nicht verzichten.
+
+### § 79a Vergütungsanspruch des ausübenden Künstlers
+
+(1) Hat der ausübende Künstler einem Tonträgerhersteller gegen Zahlung einer einmaligen Vergütung Rechte an seiner Darbietung eingeräumt oder übertragen, so hat der Tonträgerhersteller dem ausübenden Künstler eine zusätzliche Vergütung in Höhe von 20 Prozent der Einnahmen zu zahlen, die der Tonträgerhersteller aus der Vervielfältigung, dem Vertrieb und der Zugänglichmachung des Tonträgers erzielt, der die Darbietung enthält. Enthält ein Tonträger die Aufzeichnung der Darbietungen von mehreren ausübenden Künstlern, so beläuft sich die Höhe der Vergütung ebenfalls auf insgesamt 20 Prozent der Einnahmen. Als Einnahmen sind die vom Tonträgerhersteller erzielten Einnahmen vor Abzug der Ausgaben anzusehen.
+
+(2) Der Vergütungsanspruch besteht für jedes vollständige Jahr unmittelbar im Anschluss an das 50. Jahr nach Erscheinen des die Darbietung enthaltenen Tonträgers oder mangels Erscheinen an das 50. Jahr nach dessen erster erlaubter Benutzung zur öffentlichen Wiedergabe.
+
+(3) Auf den Vergütungsanspruch nach Absatz 1 kann der ausübende Künstler nicht verzichten. Der Vergütungsanspruch kann nur durch eine Verwertungsgesellschaft geltend gemacht werden. Er kann im Voraus nur an eine Verwertungsgesellschaft abgetreten werden.
+
+(4) Der Tonträgerhersteller ist verpflichtet, dem ausübenden Künstler auf Verlangen Auskunft über die erzielten Einnahmen und sonstige, zur Bezifferung des Vergütungsanspruchs nach Absatz 1 erforderliche Informationen zu erteilen.
+
+(5) Hat der ausübende Künstler einem Tonträgerhersteller gegen Zahlung einer wiederkehrenden Vergütung Rechte an seiner Darbietung eingeräumt oder übertragen, so darf der Tonträgerhersteller nach Ablauf folgender Fristen weder Vorschüsse noch vertraglich festgelegte Abzüge von der Vergütung abziehen:
+
+1.  
+50 Jahre nach dem Erscheinen des Tonträgers, der die Darbietung enthält, oder
+
+2.  
+50 Jahre nach der ersten erlaubten Benutzung des die Darbietung enthaltenden Tonträgers zur öffentlichen Wiedergabe, wenn der Tonträger nicht erschienen ist.
+
 ### § 80 Gemeinsame Darbietung mehrerer ausübender Künstler
 
 (1) Erbringen mehrere ausübende Künstler gemeinsam eine Darbietung, ohne dass sich ihre Anteile gesondert verwerten lassen, so steht ihnen das Recht zur Verwertung zur gesamten Hand zu. Keiner der beteiligten ausübenden Künstler darf seine Einwilligung zur Verwertung wider Treu und Glauben verweigern. § 8 Abs. 2 Satz 3, Abs. 3 und 4 ist entsprechend anzuwenden.
 
-(2) Für die Geltendmachung der sich aus den §§ 77 und 78 ergebenden Rechte und Ansprüche gilt § 74 Abs. 2 Satz 2 und 3 entsprechend.
+(2) Für die Geltendmachung der sich aus den §§ 77, 78 und 79 Absatz 3 ergebenden Rechte und Ansprüche gilt § 74 Abs. 2 Satz 2 und 3 entsprechend.
 
 ### § 81 Schutz des Veranstalters
 
@@ -1609,7 +1656,11 @@ Wird die Darbietung des ausübenden Künstlers von einem Unternehmen veranstalte
 
 ### § 82 Dauer der Verwertungsrechte
 
-Ist die Darbietung des ausübenden Künstlers auf einen Bild- oder Tonträger aufgenommen worden, so erlöschen die in den §§ 77 und 78 bezeichneten Rechte des ausübenden Künstlers 50 Jahre, die in § 81 bezeichneten Rechte des Veranstalters 25Jahre nach dem Erscheinen des Bild- oder Tonträgers oder, wenn dessen erste erlaubte Benutzung zur öffentlichen Wiedergabe früher erfolgt ist, nach dieser. Die Rechte des ausübenden Künstlers erlöschen jedoch bereits 50 Jahre, diejenigen des Veranstalters 25 Jahre nach der Darbietung, wenn der Bild- oder Tonträger innerhalb dieser Frist nicht erschienen oder erlaubterweise zur öffentlichen Wiedergabe benutzt worden ist. Die Frist nach Satz 1 oder 2 ist nach § 69 zu berechnen.
+(1) Ist die Darbietung des ausübenden Künstlers auf einem Tonträger aufgezeichnet worden, so erlöschen die in den §§ 77 und 78 bezeichneten Rechte des ausübenden Künstlers 70 Jahre nach dem Erscheinen des Tonträgers, oder wenn dessen erste erlaubte Benutzung zur öffentlichen Wiedergabe früher erfolgt ist, 70 Jahre nach dieser. Ist die Darbietung des ausübenden Künstlers nicht auf einem Tonträger aufgezeichnet worden, so erlöschen die in den §§ 77 und 78 bezeichneten Rechte des ausübenden Künstlers 50 Jahre nach dem Erscheinen der Aufzeichnung, oder wenn deren erste erlaubte Benutzung zur öffentlichen Wiedergabe früher erfolgt ist, 50 Jahre nach dieser. Die Rechte des ausübenden Künstlers erlöschen jedoch bereits 50 Jahre nach der Darbietung, wenn eine Aufzeichnung innerhalb dieser Frist nicht erschienen oder nicht erlaubterweise zur öffentlichen Wiedergabe benutzt worden ist.
+
+(2) Die in § 81 bezeichneten Rechte des Veranstalters erlöschen 25 Jahre nach Erscheinen einer Aufzeichnung der Darbietung eines ausübenden Künstlers, oder wenn deren erste erlaubte Benutzung zur öffentlichen Wiedergabe früher erfolgt ist, 25 Jahre nach dieser. Die Rechte erlöschen bereits 25 Jahre nach der Darbietung, wenn eine Aufzeichnung innerhalb dieser Frist nicht erschienen oder nicht erlaubterweise zur öffentlichen Wiedergabe benutzt worden ist.
+
+(3) Die Fristen sind nach § 69 zu berechnen.
 
 ### § 83 Schranken der Verwertungsrechte
 
@@ -1630,7 +1681,7 @@ Abschnitt 4 Schutz des Herstellers von Tonträgern
 
 (2) Das Recht ist übertragbar. Der Tonträgerhersteller kann einem anderen das Recht einräumen, den Tonträger auf einzelne oder alle der ihm vorbehaltenen Nutzungsarten zu nutzen. § 31 und die §§ 33 und 38 gelten entsprechend.
 
-(3) Das Recht erlischt 50 Jahre nach dem Erscheinen des Tonträgers. Ist der Tonträger innerhalb von 50 Jahren nach der Herstellung nicht erschienen, aber erlaubterweise zur öffentlichen Wiedergabe benutzt worden, so erlischt das Recht 50 Jahre nach dieser. Ist der Tonträger innerhalb dieser Frist nicht erschienen oder erlaubterweise zur öffentlichen Wiedergabe benutzt worden, so erlischt das Recht 50 Jahre nach der Herstellung des Tonträgers. Die Frist ist nach § 69 zu berechnen.
+(3) Das Recht erlischt 70 Jahre nach dem Erscheinen des Tonträgers. Ist der Tonträger innerhalb von 50 Jahren nach der Herstellung nicht erschienen, aber erlaubterweise zur öffentlichen Wiedergabe benutzt worden, so erlischt das Recht 70 Jahre nach dieser. Ist der Tonträger innerhalb dieser Frist nicht erschienen oder erlaubterweise zur öffentlichen Wiedergabe benutzt worden, so erlischt das Recht 50 Jahre nach der Herstellung des Tonträgers. Die Frist ist nach § 69 zu berechnen.
 
 (4) § 10 Abs. 1 und § 27 Abs. 2 und 3 sowie die Vorschriften des Teils 1 Abschnitt 6 gelten entsprechend.
 
@@ -1705,6 +1756,31 @@ Die Rechte des Datenbankherstellers erlöschen fünfzehn Jahre nach der Veröffe
 ### § 87e Verträge über die Benutzung einer Datenbank
 
 Eine vertragliche Vereinbarung, durch die sich der Eigentümer eines mit Zustimmung des Datenbankherstellers durch Veräußerung in Verkehr gebrachten Vervielfältigungsstücks der Datenbank, der in sonstiger Weise zu dessen Gebrauch Berechtigte oder derjenige, dem eine Datenbank aufgrund eines mit dem Datenbankhersteller oder eines mit dessen Zustimmung mit einem Dritten geschlossenen Vertrags zugänglich gemacht wird, gegenüber dem Datenbankhersteller verpflichtet, die Vervielfältigung, Verbreitung oder öffentliche Wiedergabe von nach Art und Umfang unwesentlichen Teilen der Datenbank zu unterlassen, ist insoweit unwirksam, als diese Handlungen weder einer normalen Auswertung der Datenbank zuwiderlaufen noch die berechtigten Interessen des Datenbankherstellers unzumutbar beeinträchtigen.
+
+Abschnitt 7 Schutz des Presseverlegers
+--------------------------------------
+
+### 
+
+### § 87f Presseverleger
+
+(1) Der Hersteller eines Presseerzeugnisses (Presseverleger) hat das ausschließliche Recht, das Presseerzeugnis oder Teile hiervon zu gewerblichen Zwecken öffentlich zugänglich zu machen, es sei denn, es handelt sich um einzelne Wörter oder kleinste Textausschnitte. Ist das Presseerzeugnis in einem Unternehmen hergestellt worden, so gilt der Inhaber des Unternehmens als Hersteller.
+
+(2) Ein Presseerzeugnis ist die redaktionell-technische Festlegung journalistischer Beiträge im Rahmen einer unter einem Titel auf beliebigen Trägern periodisch veröffentlichten Sammlung, die bei Würdigung der Gesamtumstände als überwiegend verlagstypisch anzusehen ist und die nicht überwiegend der Eigenwerbung dient. Journalistische Beiträge sind insbesondere Artikel und Abbildungen, die der Informationsvermittlung, Meinungsbildung oder Unterhaltung dienen.
+
+### § 87g Übertragbarkeit, Dauer und Schranken des Rechts
+
+(1) Das Recht des Presseverlegers nach § 87f Absatz 1 Satz 1 ist übertragbar. Die §§ 31 und 33 gelten entsprechend.
+
+(2) Das Recht erlischt ein Jahr nach der Veröffentlichung des Presseerzeugnisses.
+
+(3) Das Recht des Presseverlegers kann nicht zum Nachteil des Urhebers oder eines Leistungsschutzberechtigten geltend gemacht werden, dessen Werk oder nach diesem Gesetz geschützter Schutzgegenstand im Presseerzeugnis enthalten ist.
+
+(4) Zulässig ist die öffentliche Zugänglichmachung von Presseerzeugnissen oder Teilen hiervon, soweit sie nicht durch gewerbliche Anbieter von Suchmaschinen oder gewerbliche Anbieter von Diensten erfolgt, die Inhalte entsprechend aufbereiten. Im Übrigen gelten die Vorschriften des Teils 1 Abschnitt 6 entsprechend.
+
+### § 87h Beteiligungsanspruch des Urhebers
+
+Der Urheber ist an einer Vergütung angemessen zu beteiligen.
 
 Teil 3 Besondere Bestimmungen für Filme
 ---------------------------------------
@@ -1890,9 +1966,35 @@ Unterabschnitt 1 Bürgerlich-rechtliche Vorschriften; Rechtsweg
 
 ### § 97a Abmahnung
 
-(1) Der Verletzte soll den Verletzer vor Einleitung eines gerichtlichen Verfahrens auf Unterlassung abmahnen und ihm Gelegenheit geben, den Streit durch Abgabe einer mit einer angemessenen Vertragsstrafe bewehrten Unterlassungsverpflichtung beizulegen. Soweit die Abmahnung berechtigt ist, kann der Ersatz der erforderlichen Aufwendungen verlangt werden.
+(1) Der Verletzte soll den Verletzer vor Einleitung eines gerichtlichen Verfahrens auf Unterlassung abmahnen und ihm Gelegenheit geben, den Streit durch Abgabe einer mit einer angemessenen Vertragsstrafe bewehrten Unterlassungsverpflichtung beizulegen.
 
-(2) Der Ersatz der erforderlichen Aufwendungen für die Inanspruchnahme anwaltlicher Dienstleistungen für die erstmalige Abmahnung beschränkt sich in einfach gelagerten Fällen mit einer nur unerheblichen Rechtsverletzung außerhalb des geschäftlichen Verkehrs auf 100 Euro.
+(2) Die Abmahnung hat in klarer und verständlicher Weise
+
+1.  
+Name oder Firma des Verletzten anzugeben, wenn der Verletzte nicht selbst, sondern ein Vertreter abmahnt,
+
+2.  
+die Rechtsverletzung genau zu bezeichnen,
+
+3.  
+geltend gemachte Zahlungsansprüche als Schadensersatz- und Aufwendungsersatzansprüche aufzuschlüsseln und
+
+4.  
+wenn darin eine Aufforderung zur Abgabe einer Unterlassungsverpflichtung enthalten ist, anzugeben, inwieweit die vorgeschlagene Unterlassungsverpflichtung über die abgemahnte Rechtsverletzung hinausgeht.
+
+Eine Abmahnung, die nicht Satz 1 entspricht, ist unwirksam.
+
+(3) Soweit die Abmahnung berechtigt ist und Absatz 2 Satz 1 Nummer 1 bis 4 entspricht, kann der Ersatz der erforderlichen Aufwendungen verlangt werden. Für die Inanspruchnahme anwaltlicher Dienstleistungen beschränkt sich der Ersatz der erforderlichen Aufwendungen hinsichtlich der gesetzlichen Gebühren auf Gebühren nach einem Gegenstandswert für den Unterlassungs- und Beseitigungsanspruch von 1 000 Euro, wenn der Abgemahnte
+
+1.  
+eine natürliche Person ist, die nach diesem Gesetz geschützte Werke oder andere nach diesem Gesetz geschützte Schutzgegenstände nicht für ihre gewerbliche oder selbständige berufliche Tätigkeit verwendet, und
+
+2.  
+nicht bereits wegen eines Anspruchs des Abmahnenden durch Vertrag, auf Grund einer rechtskräftigen gerichtlichen Entscheidung oder einer einstweiligen Verfügung zur Unterlassung verpflichtet ist.
+
+Der in Satz 2 genannte Wert ist auch maßgeblich, wenn ein Unterlassungs- und ein Beseitigungsanspruch nebeneinander geltend gemacht werden. Satz 2 gilt nicht, wenn der genannte Wert nach den besonderen Umständen des Einzelfalles unbillig ist.
+
+(4) Soweit die Abmahnung unberechtigt oder unwirksam ist, kann der Abgemahnte Ersatz der für die Rechtsverteidigung erforderlichen Aufwendungen verlangen, es sei denn, es war für den Abmahnenden zum Zeitpunkt der Abmahnung nicht erkennbar, dass die Abmahnung unberechtigt war. Weiter gehende Ersatzansprüche bleiben unberührt.
 
 ### § 98 Anspruch auf Vernichtung, Rückruf und Überlassung
 
@@ -1993,6 +2095,12 @@ Ist eine Klage auf Grund dieses Gesetzes erhoben worden, so kann der obsiegenden
 ### § 104 Rechtsweg
 
 Für alle Rechtsstreitigkeiten, durch die ein Anspruch aus einem der in diesem Gesetz geregelten Rechtsverhältnisse geltend gemacht wird, (Urheberrechtsstreitsachen) ist der ordentliche Rechtsweg gegeben. Für Urheberrechtsstreitsachen aus Arbeits- oder Dienstverhältnissen, die ausschließlich Ansprüche auf Leistung einer vereinbarten Vergütung zum Gegenstand haben, bleiben der Rechtsweg zu den Gerichten für Arbeitssachen und der Verwaltungsrechtsweg unberührt.
+
+### § 104a Gerichtsstand
+
+(1) Für Klagen wegen Urheberrechtsstreitsachen gegen eine natürliche Person, die nach diesem Gesetz geschützte Werke oder andere nach diesem Gesetz geschützte Schutzgegenstände nicht für ihre gewerbliche oder selbständige berufliche Tätigkeit verwendet, ist das Gericht ausschließlich zuständig, in dessen Bezirk diese Person zur Zeit der Klageerhebung ihren Wohnsitz, in Ermangelung eines solchen ihren gewöhnlichen Aufenthalt hat. Wenn die beklagte Person im Inland weder einen Wohnsitz noch ihren gewöhnlichen Aufenthalt hat, ist das Gericht zuständig, in dessen Bezirk die Handlung begangen ist.
+
+(2) § 105 bleibt unberührt.
 
 ### § 105 Gerichte für Urheberrechtsstreitsachen
 
@@ -2541,6 +2649,14 @@ Artikel 229 § 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche findet m
 
 (5) Der Urheber hat Anspruch auf eine gesonderte angemessene Vergütung, wenn der andere eine neue Art der Werknutzung nach Absatz 1 aufnimmt, die im Zeitpunkt des Vertragsschlusses noch unbekannt war. § 32 Abs. 2 und 4 gilt entsprechend. Der Anspruch kann nur durch eine Verwertungsgesellschaft geltend gemacht werden. Hat der Vertragspartner das Nutzungsrecht einem Dritten übertragen, haftet der Dritte mit der Aufnahme der neuen Art der Werknutzung für die Vergütung. Die Haftung des anderen entfällt.
 
+### § 137m Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2011/77/EU
+
+(1) Die Vorschriften über die Schutzdauer nach den §§ 82 und 85 Absatz 3 sowie über die Rechte und Ansprüche des ausübenden Künstlers nach § 79 Absatz 3 sowie § 79a gelten für Aufzeichnungen von Darbietungen und für Tonträger, deren Schutzdauer für den ausübenden Künstler und den Tonträgerhersteller am 1. November 2013 nach den Vorschriften dieses Gesetzes in der bis 6. Juli 2013 geltenden Fassung noch nicht erloschen war, und für Aufzeichnungen von Darbietungen und für Tonträger, die nach dem 1. November 2013 entstehen.
+
+(2) § 65 Absatz 3 gilt für Musikkompositionen mit Text, von denen die Musikkomposition oder der Text in mindestens einem Mitgliedstaat der Europäischen Union am 1. November 2013 geschützt sind, und für Musikkompositionen mit Text, die nach diesem Datum entstehen. Lebt nach Satz 1 der Schutz der Musikkomposition oder des Textes wieder auf, so stehen die wiederauflebenden Rechte dem Urheber zu. Eine vor dem 1. November 2013 begonnene Nutzungshandlung darf jedoch in dem vorgesehenen Rahmen fortgesetzt werden. Für die Nutzung ab dem 1. November 2013 ist eine angemessene Vergütung zu zahlen.
+
+(3) Ist vor dem 1. November 2013 ein Übertragungsvertrag zwischen einem ausübenden Künstler und einem Tonträgerhersteller abgeschlossen worden, so erstreckt sich im Fall der Verlängerung der Schutzdauer die Übertragung auch auf diesen Zeitraum, wenn keine eindeutigen vertraglichen Hinweise auf das Gegenteil vorliegen.
+
 Abschnitt 3 Schlussbestimmungen
 -------------------------------
 
@@ -2550,7 +2666,7 @@ Abschnitt 3 Schlussbestimmungen
 
 (1) Das Register anonymer und pseudonymer Werke für die in § 66 Abs. 2 Satz 2 vorgesehenen Eintragungen wird beim Patentamt geführt. Das Patentamt bewirkt die Eintragungen, ohne die Berechtigung des Antragstellers oder die Richtigkeit der zur Eintragung angemeldeten Tatsachen zu prüfen.
 
-(2) Wird die Eintragung abgelehnt, so kann der Antragsteller gerichtliche Entscheidung beantragen. Über den Antrag entscheidet das für den Sitz des Patentamts zuständige Oberlandesgericht durch einen mit Gründen versehenen Beschluß. Der Antrag ist schriftlich bei dem Oberlandesgericht einzureichen. Die Entscheidung des Oberlandesgerichts ist endgültig. Im übrigen gelten für das gerichtliche Verfahren die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend. Für die Gerichtskosten gilt die Kostenordnung; die Gebühren richten sich nach § 131 der Kostenordnung.
+(2) Wird die Eintragung abgelehnt, so kann der Antragsteller gerichtliche Entscheidung beantragen. Über den Antrag entscheidet das für den Sitz des Patentamts zuständige Oberlandesgericht durch einen mit Gründen versehenen Beschluß. Der Antrag ist schriftlich bei dem Oberlandesgericht einzureichen. Die Entscheidung des Oberlandesgerichts ist endgültig. Im übrigen gelten für das gerichtliche Verfahren die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend.
 
 (3) Die Eintragungen werden im Bundesanzeiger öffentlich bekanntgemacht. Die Kosten für die Bekanntmachung hat der Antragsteller im voraus zu entrichten.
 
@@ -2590,4 +2706,4 @@ zur Deckung der Verwaltungskosten die Erhebung von Kosten (Gebühren und Auslage
 
 ### Anlage (weggefallen)
 
--
+
