@@ -2,10 +2,7 @@ Gesetz über Urheberrecht und verwandte Schutzrechte ()
 ======================================================
 
 Stand  
-Zuletzt geändert durch Art. 8 G v. 1.10.2013 I 3714
-
-Hinweis  
-Änderung durch Art. 1 G v. 1.10.2013 I 3728 (Nr. 59) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 1 G v. 1.10.2013 I 3728
 
 ### 
 
@@ -197,7 +194,10 @@ Schranken des Urheberrechts
 | §  58  | Werke in Ausstellungen, öffentlichem Verkauf und öffentlich zugänglichen Einrichtungen                |
 | §  59  | Werke an öffentlichen Plätzen                                                                         |
 | §  60  | Bildnisse                                                                                             |
-| §  61  | (weggefallen)                                                                                         |
+| §  61  | Verwaiste Werke                                                                                       |
+| § 61a  | Sorgfältige Suche und Dokumentationspflichten                                                         |
+| § 61b  | Beendigung der Nutzung und Vergütungspflicht der nutzenden Institution                                |
+| § 61c  | Nutzung verwaister Werke durch öffentlich-rechtliche Rundfunkanstalten                                |
 | §  62  | Änderungsverbot                                                                                       |
 | §  63  | Quellenangabe                                                                                         |
 | §  63a | Gesetzliche Vergütungsansprüche                                                                       |
@@ -516,19 +516,21 @@ Abschnitt 2
 | § 137k | Übergangsregelung zur öffentlichen Zugänglichmachung für Unterricht und Forschung |
 | § 137l | Übergangsregelung für neue Nutzungsarten                                          |
 | § 137m | Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2011/77/EU              |
+| § 137n | Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2012/28/EU              |
 
 Abschnitt 3
 
 Schlussbestimmungen
 
-|       |                                                                                              |
-|-------|----------------------------------------------------------------------------------------------|
-| § 138 | Register anonymer und pseudonymer Werke                                                      |
-| § 139 | Änderung der Strafprozessordnung                                                             |
-| § 140 | Änderung des Gesetzes über das am 6. September 1952 unterzeichnete Welturheberrechtsabkommen |
-| § 141 | Aufgehobene Vorschriften                                                                     |
-| § 142 | (weggefallen)                                                                                |
-| § 143 | Inkrafttreten                                                                                |
+|        |                                                                                              |
+|--------|----------------------------------------------------------------------------------------------|
+| § 138  | Register anonymer und pseudonymer Werke                                                      |
+| § 139  | Änderung der Strafprozessordnung                                                             |
+| § 140  | Änderung des Gesetzes über das am 6. September 1952 unterzeichnete Welturheberrechtsabkommen |
+| § 141  | Aufgehobene Vorschriften                                                                     |
+| § 142  | (weggefallen)                                                                                |
+| § 143  | Inkrafttreten                                                                                |
+| Anlage | (zu § 61a)                                                                                   |
 
 Teil 1 Urheberrecht
 -------------------
@@ -997,11 +999,13 @@ eine Partei die Verhandlungen endgültig für gescheitert erklärt hat.
 
 ### § 38 Beiträge zu Sammlungen
 
-(1) Gestattet der Urheber die Aufnahme des Werkes in eine periodisch erscheinende Sammlung, so erwirbt der Verleger oder Herausgeber im Zweifel ein ausschließliches Nutzungsrecht zur Vervielfältigung und Verbreitung. Jedoch darf der Urheber das Werk nach Ablauf eines Jahres seit Erscheinen anderweit vervielfältigen und verbreiten, wenn nichts anderes vereinbart ist.
+(1) Gestattet der Urheber die Aufnahme des Werkes in eine periodisch erscheinende Sammlung, so erwirbt der Verleger oder Herausgeber im Zweifel ein ausschließliches Nutzungsrecht zur Vervielfältigung, Verbreitung und öffentlichen Zugänglichmachung. Jedoch darf der Urheber das Werk nach Ablauf eines Jahres seit Erscheinen anderweit vervielfältigen, verbreiten und öffentlich zugänglich machen, wenn nichts anderes vereinbart ist.
 
 (2) Absatz 1 Satz 2 gilt auch für einen Beitrag zu einer nicht periodisch erscheinenden Sammlung, für dessen Überlassung dem Urheber kein Anspruch auf Vergütung zusteht.
 
 (3) Wird der Beitrag einer Zeitung überlassen, so erwirbt der Verleger oder Herausgeber ein einfaches Nutzungsrecht, wenn nichts anderes vereinbart ist. Räumt der Urheber ein ausschließliches Nutzungsrecht ein, so ist er sogleich nach Erscheinen des Beitrags berechtigt, ihn anderweit zu vervielfältigen und zu verbreiten, wenn nichts anderes vereinbart ist.
+
+(4) Der Urheber eines wissenschaftlichen Beitrags, der im Rahmen einer mindestens zur Hälfte mit öffentlichen Mitteln geförderten Forschungstätigkeit entstanden und in einer periodisch mindestens zweimal jährlich erscheinenden Sammlung erschienen ist, hat auch dann, wenn er dem Verleger oder Herausgeber ein ausschließliches Nutzungsrecht eingeräumt hat, das Recht, den Beitrag nach Ablauf von zwölf Monaten seit der Erstveröffentlichung in der akzeptierten Manuskriptversion öffentlich zugänglich zu machen, soweit dies keinem gewerblichen Zweck dient. Die Quelle der Erstveröffentlichung ist anzugeben. Eine zum Nachteil des Urhebers abweichende Vereinbarung ist unwirksam.
 
 ### § 39 Änderungen des Werkes
 
@@ -1366,7 +1370,70 @@ Zulässig ist die Vervielfältigung, Verbreitung und öffentliche Wiedergabe von
 
 (2) Angehörige im Sinne von Absatz 1 Satz 1 sind der Ehegatte oder der Lebenspartner und die Kinder oder, wenn weder ein Ehegatte oder Lebenspartner noch Kinder vorhanden sind, die Eltern.
 
-### § 61 (weggefallen)
+### § 61 Verwaiste Werke
+
+(1) Zulässig sind die Vervielfältigung und die öffentliche Zugänglichmachung verwaister Werke nach Maßgabe der Absätze 3 bis 5.
+
+(2) Verwaiste Werke im Sinne dieses Gesetzes sind
+
+1.  
+Werke und sonstige Schutzgegenstände in Büchern, Fachzeitschriften, Zeitungen, Zeitschriften oder anderen Schriften,
+
+2.  
+Filmwerke sowie Bildträger und Bild- und Tonträger, auf denen Filmwerke aufgenommen sind, und
+
+3.  
+Tonträger
+
+aus Sammlungen (Bestandsinhalte) von öffentlich zugänglichen Bibliotheken, Bildungseinrichtungen, Museen, Archiven sowie von Einrichtungen im Bereich des Film- oder Tonerbes, wenn diese Bestandsinhalte bereits veröffentlicht worden sind, deren Rechtsinhaber auch durch eine sorgfältige Suche nicht festgestellt oder ausfindig gemacht werden konnte.
+
+(3) Gibt es mehrere Rechtsinhaber eines Bestandsinhalts, kann dieser auch dann vervielfältigt und öffentlich zugänglich gemacht werden, wenn selbst nach sorgfältiger Suche nicht alle Rechtsinhaber festgestellt oder ausfindig gemacht werden konnten, aber von den bekannten Rechtsinhabern die Erlaubnis zur Nutzung eingeholt worden ist.
+
+(4) Bestandsinhalte, die nicht erschienen sind oder nicht gesendet wurden, dürfen durch die jeweilige in Absatz 2 genannte Institution genutzt werden, wenn die Bestandsinhalte von ihr bereits mit Erlaubnis des Rechtsinhabers der Öffentlichkeit zugänglich gemacht wurden und sofern nach Treu und Glauben anzunehmen ist, dass der Rechtsinhaber in die Nutzung nach Absatz 1 einwilligen würde.
+
+(5) Die Vervielfältigung und die öffentliche Zugänglichmachung durch die in Absatz 2 genannten Institutionen sind nur zulässig, wenn die Institutionen zur Erfüllung ihrer im Gemeinwohl liegenden Aufgaben handeln, insbesondere wenn sie Bestandsinhalte bewahren und restaurieren und den Zugang zu ihren Sammlungen eröffnen, sofern dies kulturellen und bildungspolitischen Zwecken dient. Die Institutionen dürfen für den Zugang zu den genutzten verwaisten Werken ein Entgelt verlangen, das die Kosten der Digitalisierung und der öffentlichen Zugänglichmachung deckt.
+
+### § 61a Sorgfältige Suche und Dokumentationspflichten
+
+(1) Die sorgfältige Suche nach dem Rechtsinhaber gemäß § 61 Absatz 2 ist für jeden Bestandsinhalt und für in diesem enthaltene sonstige Schutzgegenstände durchzuführen; dabei sind mindestens die in der Anlage bestimmten Quellen zu konsultieren. Die sorgfältige Suche ist in dem Mitgliedstaat der Europäischen Union durchzuführen, in dem das Werk zuerst veröffentlicht wurde. Wenn es Hinweise darauf gibt, dass relevante Informationen zu Rechtsinhabern in anderen Staaten gefunden werden können, sind auch verfügbare Informationsquellen in diesen anderen Staaten zu konsultieren. Die nutzende Institution darf mit der Durchführung der sorgfältigen Suche auch einen Dritten beauftragen.
+
+(2) Bei Filmwerken sowie bei Bildträgern und Bild- und Tonträgern, auf denen Filmwerke aufgenommen sind, ist die sorgfältige Suche in dem Mitgliedstaat der Europäischen Union durchzuführen, in dem der Hersteller seine Hauptniederlassung oder seinen gewöhnlichen Aufenthalt hat.
+
+(3) Für die in § 61 Absatz 4 genannten Bestandsinhalte ist eine sorgfältige Suche in dem Mitgliedstaat der Europäischen Union durchzuführen, in dem die Institution ihren Sitz hat, die den Bestandsinhalt mit Erlaubnis des Rechtsinhabers ausgestellt oder verliehen hat.
+
+(4) Die nutzende Institution dokumentiert ihre sorgfältige Suche und leitet die folgenden Informationen dem Deutschen Patent- und Markenamt zu:
+
+1.  
+die genaue Bezeichnung des Bestandsinhalts, der nach den Ergebnissen der sorgfältigen Suche verwaist ist,
+
+2.  
+die Art der Nutzung des verwaisten Werkes durch die Institution,
+
+3.  
+jede Änderung des Status eines genutzten verwaisten Werkes gemäß § 61b,
+
+4.  
+die Kontaktdaten der Institution wie Name, Anschrift sowie gegebenenfalls Telefonnummer, Faxnummer und E-Mail-Adresse.
+
+Diese Informationen werden von dem Deutschen Patent- und Markenamt unverzüglich an das Harmonisierungsamt für den Binnenmarkt (Marken, Muster, Modelle) weitergeleitet.
+
+(5) Einer sorgfältigen Suche bedarf es nicht für Bestandsinhalte, die bereits in der Datenbank des Harmonisierungsamtes für den Binnenmarkt (Marken, Muster, Modelle) als verwaist erfasst sind.
+
+### § 61b Beendigung der Nutzung und Vergütungspflicht der nutzenden Institution
+
+Wird ein Rechtsinhaber eines Bestandsinhalts nachträglich festgestellt oder ausfindig gemacht, hat die nutzende Institution die Nutzungshandlungen unverzüglich zu unterlassen, sobald sie hiervon Kenntnis erlangt. Der Rechtsinhaber hat gegen die nutzende Institution Anspruch auf Zahlung einer angemessenen Vergütung für die erfolgte Nutzung.
+
+### § 61c Nutzung verwaister Werke durch öffentlich-rechtliche Rundfunkanstalten
+
+Zulässig sind die Vervielfältigung und die öffentliche Zugänglichmachung von
+
+1.  
+Filmwerken sowie Bildträgern und Bild- und Tonträgern, auf denen Filmwerke aufgenommen sind, und
+
+2.  
+Tonträgern,
+
+die vor dem 1. Januar 2003 von öffentlich-rechtlichen Rundfunkanstalten hergestellt wurden und sich in deren Sammlung befinden, unter den Voraussetzungen des § 61 Absatz 2 bis 5 auch durch öffentlich-rechtliche Rundfunkanstalten. Die §§ 61a und 61b gelten entsprechend.
 
 ### § 62 Änderungsverbot
 
@@ -1380,9 +1447,9 @@ Zulässig ist die Vervielfältigung, Verbreitung und öffentliche Wiedergabe von
 
 ### § 63 Quellenangabe
 
-(1) Wenn ein Werk oder ein Teil eines Werkes in den Fällen des § 45 Abs. 1, der §§ 45a bis 48, 50, 51, 53 Abs. 2 Satz 1 Nr. 1 und Abs. 3 Nr. 1 sowie der §§ 58 und 59 vervielfältigt wird, ist stets die Quelle deutlich anzugeben. Bei der Vervielfältigung ganzer Sprachwerke oder ganzer Werke der Musik ist neben dem Urheber auch der Verlag anzugeben, in dem das Werk erschienen ist, und außerdem kenntlich zu machen, ob an dem Werk Kürzungen oder andere Änderungen vorgenommen worden sind. Die Verpflichtung zur Quellenangabe entfällt, wenn die Quelle weder auf dem benutzten Werkstück oder bei der benutzten Werkwiedergabe genannt noch dem zur Vervielfältigung Befugten anderweit bekannt ist.
+(1) Wenn ein Werk oder ein Teil eines Werkes in den Fällen des § 45 Abs. 1, der §§ 45a bis 48, 50, 51, 53 Abs. 2 Satz 1 Nr. 1 und Abs. 3 Nr. 1 sowie der §§ 58, 59, 61 und 61c vervielfältigt wird, ist stets die Quelle deutlich anzugeben. Bei der Vervielfältigung ganzer Sprachwerke oder ganzer Werke der Musik ist neben dem Urheber auch der Verlag anzugeben, in dem das Werk erschienen ist, und außerdem kenntlich zu machen, ob an dem Werk Kürzungen oder andere Änderungen vorgenommen worden sind. Die Verpflichtung zur Quellenangabe entfällt, wenn die Quelle weder auf dem benutzten Werkstück oder bei der benutzten Werkwiedergabe genannt noch dem zur Vervielfältigung Befugten anderweit bekannt ist.
 
-(2) Soweit nach den Bestimmungen dieses Abschnitts die öffentliche Wiedergabe eines Werkes zulässig ist, ist die Quelle deutlich anzugeben, wenn und soweit die Verkehrssitte es erfordert. In den Fällen der öffentlichen Wiedergabe nach den §§ 46, 48, 51 und 52a ist die Quelle einschließlich des Namens des Urhebers stets anzugeben, es sei denn, dass dies nicht möglich ist.
+(2) Soweit nach den Bestimmungen dieses Abschnitts die öffentliche Wiedergabe eines Werkes zulässig ist, ist die Quelle deutlich anzugeben, wenn und soweit die Verkehrssitte es erfordert. In den Fällen der öffentlichen Wiedergabe nach den §§ 46, 48, 51 und 52a sowie der öffentlichen Zugänglichmachung nach den §§ 61 und 61c ist die Quelle einschließlich des Namens des Urhebers stets anzugeben, es sei denn, dass dies nicht möglich ist.
 
 (3) Wird ein Artikel aus einer Zeitung oder einem anderen Informationsblatt nach § 49 Abs. 1 in einer anderen Zeitung oder in einem anderen Informationsblatt abgedruckt oder durch Funk gesendet, so ist stets außer dem Urheber, der in der benutzten Quelle bezeichnet ist, auch die Zeitung oder das Informationsblatt anzugeben, woraus der Artikel entnommen ist; ist dort eine andere Zeitung oder ein anderes Informationsblatt als Quelle angeführt, so ist diese Zeitung oder dieses Informationsblatt anzugeben. Wird ein Rundfunkkommentar nach § 49 Abs. 1 in einer Zeitung oder einem anderen Informationsblatt abgedruckt oder durch Funk gesendet, so ist stets außer dem Urheber auch das Sendeunternehmen anzugeben, das den Kommentar gesendet hat.
 
@@ -2657,6 +2724,10 @@ Artikel 229 § 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche findet m
 
 (3) Ist vor dem 1. November 2013 ein Übertragungsvertrag zwischen einem ausübenden Künstler und einem Tonträgerhersteller abgeschlossen worden, so erstreckt sich im Fall der Verlängerung der Schutzdauer die Übertragung auch auf diesen Zeitraum, wenn keine eindeutigen vertraglichen Hinweise auf das Gegenteil vorliegen.
 
+### § 137n Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2012/28/EU
+
+§ 61 Absatz 4 ist nur anzuwenden auf Bestandsinhalte, die der nutzenden Institution vor dem 29. Oktober 2014 überlassen wurden.
+
 Abschnitt 3 Schlussbestimmungen
 -------------------------------
 
@@ -2704,6 +2775,99 @@ zur Deckung der Verwaltungskosten die Erhebung von Kosten (Gebühren und Auslage
 
 (2) Im übrigen tritt dieses Gesetz am 1. Januar 1966 in Kraft.
 
-### Anlage (weggefallen)
+### Anlage (zu § 61a) Quellen einer sorgfältigen Suche
 
+(Fundstelle: BGBl. I 2013, 3731 - 3732)
 
+1.  
+Für veröffentlichte Bücher:
+
+a)  
+der Katalog der Deutschen Nationalbibliothek sowie die von Bibliotheken und anderen Institutionen geführten Bibliothekskataloge und Schlagwortlisten;
+
+b)  
+Informationen der Verleger- und Autorenverbände, insbesondere das Verzeichnis lieferbarer Bücher (VLB);
+
+c)  
+bestehende Datenbanken und Verzeichnisse, WATCH (Writers, Artists and their Copyright Holders) und die ISBN (International Standard Book Number);
+
+d)  
+die Datenbanken der entsprechenden Verwertungsgesellschaften, insbesondere der mit der Wahrnehmung von Vervielfältigungsrechten betrauten Verwertungsgesellschaften wie die Datenbank der VG Wort;
+
+e)  
+Quellen, die mehrere Datenbanken und Verzeichnisse zusammenfassen, einschließlich der Gemeinsamen Normdatei (GND), VIAF (Virtual International Authority Files) und ARROW (Accessible Registries of Rights Information and Orphan Works);
+
+2.  
+für Zeitungen, Zeitschriften, Fachzeitschriften und Periodika:
+
+a)  
+das deutsche ISSN (International Standard Serial Number) – Zentrum für regelmäßige Veröffentlichungen;
+
+b)  
+Indexe und Kataloge von Bibliotheksbeständen und -sammlungen, insbesondere der Katalog der Deutschen Nationalbibliothek sowie die Zeitschriftendatenbank (ZDB);
+
+c)  
+Depots amtlich hinterlegter Pflichtexemplare;
+
+d)  
+Verlegerverbände und Autoren- und Journalistenverbände, insbesondere das Verzeichnis lieferbarer Zeitschriften (VLZ), das Verzeichnis lieferbarer Bücher (VLB), Banger Online, STAMM und pressekatalog.de;
+
+e)  
+die Datenbanken der entsprechenden Verwertungsgesellschaften, einschließlich der mit der Wahrnehmung von Vervielfältigungsrechten betrauten Verwertungsgesellschaften, insbesondere die Datenbank der VG Wort;
+
+3.  
+für visuelle Werke, einschließlich Werken der bildenden Künste, Fotografien, Illustrationen, Design- und Architekturwerken, sowie für deren Entwürfe und für sonstige derartige Werke, die in Büchern, Zeitschriften, Zeitungen und Magazinen oder anderen Werken enthalten sind:
+
+a)  
+die in den Ziffern 1 und 2 genannten Quellen;
+
+b)  
+die Datenbanken der entsprechenden Verwertungsgesellschaften, insbesondere der Verwertungsgesellschaften für bildende Künste, einschließlich der mit der Wahrnehmung von Vervielfältigungsrechten betrauten Verwertungsgesellschaften wie die Datenbank der VG BildKunst;
+
+c)  
+die Datenbanken von Bildagenturen;
+
+4.  
+für Filmwerke sowie für Bildträger und Bild- und Tonträger, auf denen Filmwerke aufgenommen sind, und für Tonträger:
+
+a)  
+die Depots amtlich hinterlegter Pflichtexemplare, insbesondere der Katalog der Deutschen Nationalbibliothek;
+
+b)  
+Informationen der Produzentenverbände;
+
+c)  
+die Informationen der Filmförderungseinrichtungen des Bundes und der Länder;
+
+d)  
+die Datenbanken von im Bereich des Film- oder Tonerbes tätigen Einrichtungen und nationalen Bibliotheken, insbesondere des Kinematheksverbunds, des Bundesarchivs, der Stiftung Deutsche Kinemathek, des Deutschen Filminstituts (Datenbank und Katalog www.filmportal.de), der DEFA- und Friedrich-Wilhelm-Murnau-Stiftung, sowie die Kataloge der Staatsbibliotheken zu Berlin und München;
+
+e)  
+Datenbanken mit einschlägigen Standards und Kennungen wie ISAN (International Standard Audiovisual Number) für audiovisuelles Material, ISWC (International Standard Music Work Code) für Musikwerke und ISRC (International Standard Recording Code) für Tonträger;
+
+f)  
+die Datenbanken der entsprechenden Verwertungsgesellschaften, insbesondere für Autoren, ausübende Künstler sowie Hersteller von Tonträgern und Filmwerken;
+
+g)  
+die Aufführung der Mitwirkenden und andere Informationen auf der Verpackung des Werks oder in seinem Vor- oder Abspann;
+
+h)  
+die Datenbanken anderer maßgeblicher Verbände, die eine bestimmte Kategorie von Rechtsinhabern vertreten, wie die Verbände der Regisseure, Drehbuchautoren, Filmkomponisten, Komponisten, Theaterverlage, Theater- und Opernvereinigungen;
+
+5.  
+für unveröffentlichte Bestandsinhalte:
+
+a)  
+aktuelle und ursprüngliche Eigentümer des Werkstücks;
+
+b)  
+nationale Nachlassverzeichnisse (Zentrale Datenbank Nachlässe und Kalliope);
+
+c)  
+Findbücher der nationalen Archive;
+
+d)  
+Bestandsverzeichnisse von Museen;
+
+e)  
+Auskunftsdateien und Telefonbücher.
