@@ -2,7 +2,7 @@ Handelsgesetzbuch ()
 ====================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 20.4.2013 I 831
+Zuletzt geändert durch Art. 1 G v. 4.10.2013 I 3746
 
 ### 
 
@@ -14,6 +14,34 @@ Zuletzt geändert durch Art. 1 G v. 20.4.2013 I 831
      und aufgrund EinigVtr Anlage I Kap. VIII A III Nr. 2 nicht mehr      
      anzuwenden gem. Art. 109 Nr. 3 Buchst. a DBuchst. aa 
      G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)
+(+++ Zur Anwendung 
+     vgl. § 124 Abs. 1 Satz 2 KAGB u. § 149 Abs. 1 Satz 2 KAGB +++)
+(+++ Zur Anwendung d. § 8b Abs. 3 Satz 1 Nr. 1 
+     vgl. § § 45 Abs. 4 KAGB +++)
+(+++ Zur Anwendung d. § 133 Abs. 2 
+     vgl. § 161 Abs. 1 Satz 3 KAGB +++)
+(+++ Zur Anwendung d. § 147 
+     vgl. § 129 Abs. 2 Satz 2 KAGB u. § 154 Abs. 2 Nr. 2  KAGB +++)
+(+++ Zur Anwendung d. § 264 Abs. 1 Satz 4, Abs. 3 u. 4 
+     vgl. § 46 Satz 2 KAGB u. § 135 Abs. 2 Satz 2 KAGB +++)
+(+++ Zur Anwendung d. § 264b 
+     vgl. § 46 Satz 2 KAGB u. § 135 Abs. 2 Satz 2 KAGB +++)
+(+++ Zur Anwendung d. § 325 Abs. 1 Satz 1 u. 7, Abs. 2 bis 2b, 5 u. 6
+     vgl. § 160 Abs 1 KAGB +++)
+(+++ Zur Anwendung d. § 328 
+     vgl. § 160 Abs. 1 KAGB +++)
+(+++ Zur Anwendung d. § 329 Abs. 1, 2 u. 4
+     vgl. § 160 Abs. 1 KAGB +++)
+(+++ Zur Anwendung d. § 335
+     vgl. § 160 Abs. 1 KAGB +++)
+(+++ Zur erstmaligen Anwendung d. § 335a Abs. 3 
+     vgl. Art. 70 Abs. 3 Satz 2 HGBEG +++)
+(+++ Zur erstmaligen Andwendung d. § 331 Nr. 3 u. 3a u. § 342b Abs. 2 Satz 1   
+     vgl. Art. 62 HGBEG +++) 
+(+++ Zur Anwendung d. § 335 Abs. 5 Satz 11 und 12 
+     vgl. Art. 66 Abs. 6 HGBEG +++)
+(+++ Zum Außerkrafttreten d. § 335 Abs. 5 Satz 11 und 12  
+     vgl. Art. 66 Abs. 6 HGBEG +++)
 (+++ Amtliche Hinweise des Normgebers auf EG-Recht:
      Umsetzung der
        EGRL 38/2003    (CELEX Nr: 32003L0038)
@@ -124,7 +152,7 @@ im Aktionärsforum veröffentlichte Eintragungen nach § 127a des Aktiengesetzes
 Veröffentlichungen von Unternehmen nach dem Wertpapierhandelsgesetz oder dem Vermögensanlagengesetz im Bundesanzeiger, von Bietern, Gesellschaften, Vorständen und Aufsichtsräten nach dem Wertpapiererwerbs- und Übernahmegesetz im Bundesanzeiger sowie Veröffentlichungen nach der Börsenzulassungs-Verordnung im Bundesanzeiger;
 
 8.  
-Bekanntmachungen und Veröffentlichungen inländischer Kapitalanlagegesellschaften und Investmentaktiengesellschaften nach dem Investmentgesetz und dem Investmentsteuergesetz im Bundesanzeiger;
+Bekanntmachungen und Veröffentlichungen von Kapitalverwaltungsgesellschaften und extern verwalteten Investmentgesellschaften nach dem Kapitalanlagegesetzbuch, dem Investmentgesetz und dem Investmentsteuergesetz im Bundesanzeiger;
 
 9.  
 Veröffentlichungen und sonstige der Öffentlichkeit zur Verfügung gestellte Informationen nach den §§ 2b, 15 Abs. 1 und 2, § 15a Abs. 4, § 26 Abs. 1, §§ 26a, 29a Abs. 2, §§ 30e, 30f Abs. 2, § 37v Abs. 1 bis § 37x Abs. 1, §§ 37y, 37z Abs. 4 und § 41 Abs. 4a des Wertpapierhandelsgesetzes, sofern die Veröffentlichung nicht bereits über Nummer 4 oder Nummer 7 in das Unternehmensregister eingestellt wird;
@@ -146,6 +174,8 @@ die Daten nach Absatz 2 Nr. 9 und 10 durch den jeweils Veröffentlichungspflicht
 Die Landesjustizverwaltungen übermitteln die Daten nach Absatz 2 Nr. 1 bis 3 und 11 zum Unternehmensregister, soweit die Übermittlung für die Eröffnung eines Zugangs zu den Originaldaten über die Internetseite des Unternehmensregisters erforderlich ist. Die Bundesanstalt für Finanzdienstleistungsaufsicht überwacht die Übermittlung der Veröffentlichungen und der sonstigen der Öffentlichkeit zur Verfügung gestellten Informationen nach den §§ 2b, 15 Abs. 1 und 2, § 15a Abs. 4, § 26 Abs. 1, §§ 26a, 29a Abs. 2, §§ 30e, 30f Abs. 2, § 37v Abs. 1 bis § 37x Abs. 1, §§ 37y, 37z Abs. 4 und § 41 Abs. 4a des Wertpapierhandelsgesetzes an das Unternehmensregister zur Speicherung und kann Anordnungen treffen, die zu ihrer Durchsetzung geeignet und erforderlich sind. Die Bundesanstalt kann die gebotene Übermittlung der in Satz 3 genannten Veröffentlichungen, der Öffentlichkeit zur Verfügung gestellten Informationen und Mitteilung auf Kosten des Pflichtigen vornehmen, wenn die Übermittlungspflicht nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise erfüllt wird. Für die Überwachungstätigkeit der Bundesanstalt gelten § 4 Abs. 3 Satz 1 und 3, Abs. 7, 9 und 10, § 7 und § 8 des Wertpapierhandelsgesetzes entsprechend.
 
 (4) Die Führung des Unternehmensregisters schließt die Erteilung von Ausdrucken sowie die Beglaubigung entsprechend § 9 Abs. 3 und 4 hinsichtlich der im Unternehmensregister gespeicherten Unterlagen der Rechnungslegung im Sinn des Absatzes 2 Nr. 4 ein. Gleiches gilt für die elektronische Übermittlung von zum Handelsregister eingereichten Schriftstücken nach § 9 Abs. 2, soweit sich der Antrag auf Unterlagen der Rechnungslegung im Sinn des Absatzes 2 Nr. 4 bezieht; § 9 Abs. 3 gilt entsprechend.
+
+(+++ § 8b Abs. 3 Satz 1 Nr. 1: Zur Anwendung vgl. § 45 Abs. 4 KAGB +++)
 
 ### § 9 Einsichtnahme in das Handelsregister und das Unternehmensregister
 
@@ -181,7 +211,7 @@ Das Gericht macht die Eintragungen in das Handelsregister in dem von der Landesj
 
 ### § 12 Anmeldungen zur Eintragung und Einreichungen
 
-(1) Anmeldungen zur Eintragung in das Handelsregister sind elektronisch in öffentlich beglaubigter Form einzureichen. Die gleiche Form ist für eine Vollmacht zur Anmeldung erforderlich. Rechtsnachfolger eines Beteiligten haben die Rechtsnachfolge soweit tunlich durch öffentliche Urkunden nachzuweisen.
+(1) Anmeldungen zur Eintragung in das Handelsregister sind elektronisch in öffentlich beglaubigter Form einzureichen. Die gleiche Form ist für eine Vollmacht zur Anmeldung erforderlich. Anstelle der Vollmacht kann die Bescheinigung eines Notars nach § 21 Absatz 3 der Bundesnotarordnung eingereicht werden. Rechtsnachfolger eines Beteiligten haben die Rechtsnachfolge soweit tunlich durch öffentliche Urkunden nachzuweisen.
 
 (2) Dokumente sind elektronisch einzureichen. Ist eine Urschrift oder eine einfache Abschrift einzureichen oder ist für das Dokument die Schriftform bestimmt, genügt die Übermittlung einer elektronischen Aufzeichnung; ist ein notariell beurkundetes Dokument oder eine öffentlich beglaubigte Abschrift einzureichen, so ist ein mit einem einfachen elektronischen Zeugnis (§ 39a des Beurkundungsgesetzes) versehenes Dokument zu übermitteln.
 
@@ -1264,6 +1294,8 @@ Die Kündigung eines Gesellschafters kann, wenn die Gesellschaft für unbestimmt
 
 (3) Eine Vereinbarung, durch welche das Recht des Gesellschafters, die Auflösung der Gesellschaft zu verlangen, ausgeschlossen oder diesen Vorschriften zuwider beschränkt wird, ist nichtig.
 
+(+++ § 133 Abs. 2: Zur Anwendung vgl. § 161 Abs. 1 Satz 3 KAGB +++)
+
 ### § 134
 
 Eine Gesellschaft, die für die Lebenszeit eines Gesellschafters eingegangen ist oder nach dem Ablauf der für ihre Dauer bestimmten Zeit stillschweigend fortgesetzt wird, steht im Sinne der Vorschriften der §§ 132 und 133 einer für unbestimmte Zeit eingegangenen Gesellschaft gleich.
@@ -1332,6 +1364,8 @@ Fünfter Titel Liquidation der Gesellschaft
 ### § 147
 
 Die Abberufung von Liquidatoren geschieht durch einstimmigen Beschluß der nach § 146 Abs. 2 und 3 Beteiligten; sie kann auf Antrag eines Beteiligten aus wichtigen Gründen auch durch das Gericht erfolgen.
+
+(+++ § 147: Zur Anwendung vgl. § 129 Abs. 2 Satz 2 KAGB u. § 154 Abs. 2 Nr. 2 KAGB +++)
 
 ### § 148
 
@@ -1906,7 +1940,7 @@ im Falle einer Aktiengesellschaft oder Kommanditgesellschaft auf Aktien die in �
 
 unter der Bilanz angeben.
 
-(2) Der Jahresabschluß der Kapitalgesellschaft hat unter Beachtung der Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Kapitalgesellschaft zu vermitteln. Führen besondere Umstände dazu, daß der Jahresabschluß ein den tatsächlichen Verhältnissen entsprechendes Bild im Sinne des Satzes 1 nicht vermittelt, so sind im Anhang zusätzliche Angaben zu machen. Macht eine Kleinstkapitalgesellschaft von der Erleichterung nach Absatz 1 Satz 5 Gebrauch, sind nach Satz 2 erforderliche zusätzliche Angaben unter der Bilanz zu machen. Es wird vermutet, dass ein unter Berücksichtigung der Erleichterungen für Kleinstkapitalgesellschaften aufgestellter Jahresabschluss den Erfordernissen des Satzes 1 entspricht. Die gesetzlichen Vertreter einer Kapitalgesellschaft, die Inlandsemittent im Sinne des § 2 Abs. 7 des Wertpapierhandelsgesetzes und keine Kapitalgesellschaft im Sinne des § 327a ist, haben bei der Unterzeichnung schriftlich zu versichern, dass nach besten Wissen der Jahresabschluss ein den tatsächlichen Verhältnissen entsprechendes Bild im Sinne des Satzes 1 vermittelt oder der Anhang Angaben nach Satz 2 enthält.
+(2) Der Jahresabschluß der Kapitalgesellschaft hat unter Beachtung der Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Kapitalgesellschaft zu vermitteln. Führen besondere Umstände dazu, daß der Jahresabschluß ein den tatsächlichen Verhältnissen entsprechendes Bild im Sinne des Satzes 1 nicht vermittelt, so sind im Anhang zusätzliche Angaben zu machen. Die gesetzlichen Vertreter einer Kapitalgesellschaft, die Inlandsemittent im Sinne des § 2 Absatz 7 des Wertpapierhandelsgesetzes und keine Kapitalgesellschaft im Sinne des § 327a ist, haben bei der Unterzeichnung schriftlich zu versichern, dass nach bestem Wissen der Jahresabschluss ein den tatsächlichen Verhältnissen entsprechendes Bild im Sinne des Satzes 1 vermittelt oder der Anhang Angaben nach Satz 2 enthält. Macht eine Kleinstkapitalgesellschaft von der Erleichterung nach Absatz 1 Satz 5 Gebrauch, sind nach Satz 2 erforderliche zusätzliche Angaben unter der Bilanz zu machen. Es wird vermutet, dass ein unter Berücksichtigung der Erleichterungen für Kleinstkapitalgesellschaften aufgestellter Jahresabschluss den Erfordernissen des Satzes 1 entspricht.
 
 (3) Eine Kapitalgesellschaft, die in den Konzernabschluss eines Mutterunternehmens mit Sitz in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum einbezogen ist, braucht die Vorschriften dieses Unterabschnitts und des Dritten und Vierten Unterabschnitts dieses Abschnitts nicht anzuwenden, wenn
 
@@ -1929,6 +1963,8 @@ b)
 zusätzlich im Bundesanzeiger für das Tochterunternehmen unter Bezugnahme auf diese Vorschrift und unter Angabe des Mutterunternehmens mitgeteilt worden ist.
 
 (4) Absatz 3 ist auf Kapitalgesellschaften, die Tochterunternehmen eines nach § 11 des Publizitätsgesetzes zur Aufstellung eines Konzernabschlusses verpflichteten Mutterunternehmens sind, entsprechend anzuwenden, soweit in diesem Konzernabschluss von dem Wahlrecht des § 13 Abs. 3 Satz 1 des Publizitätsgesetzes nicht Gebrauch gemacht worden ist.
+
+(+++ § 264 Abs. 1 Satz 4, Abs. 3 u. 4: Zur Anwendung vgl. § 46 Satz 2 KAGB u. § 135 Abs. 2 Satz 2 KAGB +++)
 
 ### § 264a Anwendung auf bestimmte offene Handelsgesellschaften und Kommanditgesellschaften
 
@@ -1962,6 +1998,8 @@ im Anhang des von dem Mutterunternehmen aufgestellten und nach § 325 durch Einr
 
 b)  
 zusätzlich im Bundesanzeiger für die Personenhandelsgesellschaft unter Bezugnahme auf diese Vorschrift und unter Angabe des Mutterunternehmens mitgeteilt worden ist.
+
+(+++ § 264b: Zur Anwendung vgl. § 46 Satz 2 KAGB u. § 135 Abs. 2 Satz 2 KAGB +++)
 
 ### § 264c Besondere Bestimmungen für offene Handelsgesellschaften und Kommanditgesellschaften im Sinne des § 264a
 
@@ -2746,7 +2784,7 @@ zu den Rückstellungen für Pensionen und ähnliche Verpflichtungen das angewand
 im Fall der Verrechnung von Vermögensgegenständen und Schulden nach § 246 Abs. 2 Satz 2 die Anschaffungskosten und der beizulegende Zeitwert der verrechneten Vermögensgegenstände, der Erfüllungsbetrag der verrechneten Schulden sowie die verrechneten Aufwendungen und Erträge; Nummer 20 Buchstabe a ist entsprechend anzuwenden;
 
 26.  
-zu Anteilen oder Anlageaktien an inländischen Investmentvermögen im Sinn des § 1 des Investmentgesetzes oder vergleichbaren ausländischen Investmentanteilen im Sinn des § 2 Abs. 9 des Investmentgesetzes von mehr als dem zehnten Teil, aufgegliedert nach Anlagezielen, deren Wert im Sinn des § 36 des Investmentgesetzes oder vergleichbarer ausländischer Vorschriften über die Ermittlung des Marktwertes, die Differenz zum Buchwert und die für das Geschäftsjahr erfolgte Ausschüttung sowie Beschränkungen in der Möglichkeit der täglichen Rückgabe; darüber hinaus die Gründe dafür, dass eine Abschreibung gemäß § 253 Abs. 3 Satz 4 unterblieben ist, einschließlich der Anhaltspunkte, die darauf hindeuten, dass die Wertminderung voraussichtlich nicht von Dauer ist; Nummer 18 ist insoweit nicht anzuwenden;
+zu Anteilen an Sondervermögen im Sinn des § 1 Absatz 10 des Kapitalanlagegesetzbuchs oder Anlageaktien an Investmentaktiengesellschaften mit veränderlichem Kapital im Sinn der §§ 108 bis 123 des Kapitalanlagegesetzbuchs oder vergleichbaren EU-Investmentvermögen oder vergleichbaren ausländischen Investmentvermögen von mehr als dem zehnten Teil, aufgegliedert nach Anlagezielen, deren Wert im Sinn der §§ 168, 278 des Kapitalanlagegesetzbuchs oder des § 36 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung oder vergleichbarer ausländischer Vorschriften über die Ermittlung des Marktwertes, die Differenz zum Buchwert und die für das Geschäftsjahr erfolgte Ausschüttung sowie Beschränkungen in der Möglichkeit der täglichen Rückgabe; darüber hinaus die Gründe dafür, dass eine Abschreibung gemäß § 253 Abs. 3 Satz 4 unterblieben ist, einschließlich der Anhaltspunkte, die darauf hindeuten, dass die Wertminderung voraussichtlich nicht von Dauer ist; Nummer 18 ist insoweit nicht anzuwenden;
 
 27.  
 für nach § 251 unter der Bilanz oder nach § 268 Abs. 7 Halbsatz 1 im Anhang ausgewiesene Verbindlichkeiten und Haftungsverhältnisse die Gründe der Einschätzung des Risikos der Inanspruchnahme;
@@ -2893,7 +2931,7 @@ ihm bei einem anderen Unternehmen das Recht zusteht, die Mehrheit der Mitglieder
 ihm das Recht zusteht, die Finanz- und Geschäftspolitik auf Grund eines mit einem anderen Unternehmen geschlossenen Beherrschungsvertrages oder auf Grund einer Bestimmung in der Satzung des anderen Unternehmens zu bestimmen, oder
 
 4.  
-es bei wirtschaftlicher Betrachtung die Mehrheit der Risiken und Chancen eines Unternehmens trägt, das zur Erreichung eines eng begrenzten und genau definierten Ziels des Mutterunternehmens dient (Zweckgesellschaft). Neben Unternehmen können Zweckgesellschaften auch sonstige juristische Personen des Privatrechts oder unselbständige Sondervermögen des Privatrechts, ausgenommen Spezial-Sondervermögen im Sinn des § 2 Abs. 3 des Investmentgesetzes oder vergleichbare ausländische Investmentvermögen, sein.
+es bei wirtschaftlicher Betrachtung die Mehrheit der Risiken und Chancen eines Unternehmens trägt, das zur Erreichung eines eng begrenzten und genau definierten Ziels des Mutterunternehmens dient (Zweckgesellschaft). Neben Unternehmen können Zweckgesellschaften auch sonstige juristische Personen des Privatrechts oder unselbständige Sondervermögen des Privatrechts sein, ausgenommen Spezial-Sondervermögen im Sinn des § 2 Absatz 3 des Investmentgesetzes oder vergleichbare ausländische Investmentvermögen oder als Sondervermögen aufgelegte offene inländische Spezial-AIF mit festen Anlagebedingungen im Sinn des § 284 des Kapitalanlagegesetzbuchs oder vergleichbare EU-Investmentvermögen oder ausländische Investmentvermögen, die den als Sondervermögen aufgelegten offenen inländischen Spezial-AIF mit festen Anlagebedingungen im Sinn des § 284 des Kapitalanlagegesetzbuchs vergleichbar sind.
 
 (3) Als Rechte, die einem Mutterunternehmen nach Absatz 2 zustehen, gelten auch die einem Tochterunternehmen zustehenden Rechte und die den für Rechnung des Mutterunternehmens oder von Tochterunternehmen handelnden Personen zustehenden Rechte. Den einem Mutterunternehmen an einem anderen Unternehmen zustehenden Rechten werden die Rechte hinzugerechnet, über die es oder ein Tochterunternehmen auf Grund einer Vereinbarung mit anderen Gesellschaftern dieses Unternehmens verfügen kann. Abzuziehen sind Rechte, die
 
@@ -3343,7 +3381,7 @@ zu den in der Konzernbilanz ausgewiesenen Rückstellungen für Pensionen und äh
 im Fall der Verrechnung von in der Konzernbilanz ausgewiesenen Vermögensgegenständen und Schulden nach § 246 Abs. 2 Satz 2 die Anschaffungskosten und der beizulegende Zeitwert der verrechneten Vermögensgegenstände, der Erfüllungsbetrag der verrechneten Schulden sowie die verrechneten Aufwendungen und Erträge; Nummer 12 Buchstabe a ist entsprechend anzuwenden;
 
 18.  
-zu den in der Konzernbilanz ausgewiesenen Anteilen oder Anlageaktien an inländischen Investmentvermögen im Sinn des § 1 des Investmentgesetzes oder vergleichbaren ausländischen Investmentanteilen im Sinn des § 2 Abs. 9 des Investmentgesetzes von mehr als dem zehnten Teil, aufgegliedert nach Anlagezielen, deren Wert im Sinn des § 36 des Investmentgesetzes oder vergleichbarer ausländischer Vorschriften über die Ermittlung des Marktwertes, die Differenz zum Buchwert und die für das Geschäftsjahr erfolgte Ausschüttung sowie Beschränkungen in der Möglichkeit der täglichen Rückgabe; darüber hinaus die Gründe dafür, dass eine Abschreibung gemäß § 253 Abs. 3 Satz 4 unterblieben ist, einschließlich der Anhaltspunkte, die darauf hindeuten, dass die Wertminderung voraussichtlich nicht von Dauer ist; Nummer 10 ist insoweit nicht anzuwenden;
+zu den in der Konzernbilanz ausgewiesenen Anteilen an Sondervermögen im Sinn des § 1 Absatz 10 des Kapitalanlagegesetzbuchs oder Anlageaktien an Investmentaktiengesellschaften mit veränderlichem Kapital im Sinn der §§ 108 bis 123 des Kapitalanlagegesetzbuchs oder vergleichbaren EU-Investmentvermögen oder vergleichbaren ausländischen Investmentvermögen von mehr als dem zehnten Teil, aufgegliedert nach Anlagezielen, deren Wert im Sinn der §§ 168, 278 des Kapitalanlagegesetzbuchs oder des § 36 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung oder vergleichbarer ausländischer Vorschriften über die Ermittlung des Marktwertes, die Differenz zum Buchwert und die für das Geschäftsjahr erfolgte Ausschüttung sowie Beschränkungen in der Möglichkeit der täglichen Rückgabe; darüber hinaus die Gründe dafür, dass eine Abschreibung gemäß § 253 Abs. 3 Satz 4 unterblieben ist, einschließlich der Anhaltspunkte, die darauf hindeuten, dass die Wertminderung voraussichtlich nicht von Dauer ist; Nummer 10 ist insoweit nicht anzuwenden;
 
 19.  
 für nach § 251 unter der Bilanz oder nach § 268 Abs. 7 Halbsatz 1 im Anhang ausgewiesene Verbindlichkeiten und Haftungsverhältnisse die Gründe der Einschätzung des Risikos der Inanspruchnahme;
@@ -3676,6 +3714,8 @@ der Jahresabschluss mit dem Bestätigungsvermerk oder dem Vermerk über dessen V
 
 (6) Die §§ 11 und 12 Abs. 2 gelten für die beim Betreiber des Bundesanzeigers einzureichenden Unterlagen entsprechend; § 325a Abs. 1 Satz 3 und § 340l Abs. 2 Satz 4 bleiben unberührt.
 
+(+++ § 325 Abs. 1 Satz 1 u. 7, Abs. 2 bis 2b, 5 u. 6: Zur Anwendung vgl. § 160 Abs. 1 KAGB +++)
+
 ### § 325a Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Ausland
 
 (1) Bei inländischen Zweigniederlassungen von Kapitalgesellschaften mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum haben die in § 13e Abs. 2 Satz 4 Nr. 3 genannten Personen oder, wenn solche nicht angemeldet sind, die gesetzlichen Vertreter der Gesellschaft für diese die Unterlagen der Rechnungslegung der Hauptniederlassung, die nach dem für die Hauptniederlassung maßgeblichen Recht erstellt, geprüft und offengelegt oder hinterlegt worden sind, nach den §§ 325, 328, 329 Abs. 1 und 4 offenzulegen. Die Unterlagen sind in deutscher Sprache einzureichen. Soweit dies nicht die Amtssprache am Sitz der Hauptniederlassung ist, können die Unterlagen der Hauptniederlassung auch
@@ -3788,6 +3828,8 @@ Werden der Jahresabschluß oder der Konzernabschluß zur Wahrung der gesetzlich 
 
 (5) Für die Hinterlegung der Bilanz einer Kleinstkapitalgesellschaft (§ 326 Absatz 2) gilt Absatz 1 entsprechend.
 
+(+++ § 328: Zur Anwendung vgl. § 160 Abs. 1 KAGB +++)
+
 ### § 329 Prüfungs- und Unterrichtungspflicht des Betreibers des Bundesanzeigers
 
 (1) Der Betreiber des Bundesanzeigers prüft, ob die einzureichenden Unterlagen fristgemäß und vollzählig eingereicht worden sind. Der Betreiber des Unternehmensregisters stellt dem Betreiber des Bundesanzeigers die nach § 8b Abs. 3 Satz 2 von den Landesjustizverwaltungen übermittelten Daten zur Verfügung, soweit dies für die Erfüllung der Aufgaben nach Satz 1 erforderlich ist. Die Daten dürfen vom Betreiber des Bundesanzeigers nur für die in Satz 1 genannten Zwecke verwendet werden.
@@ -3797,6 +3839,8 @@ Werden der Jahresabschluß oder der Konzernabschluß zur Wahrung der gesetzlich 
 (3) In den Fällen des § 325a Abs. 1 Satz 3 und des § 340l Abs. 2 Satz 4 kann im Einzelfall die Vorlage einer Übersetzung in die deutsche Sprache verlangt werden.
 
 (4) Ergibt die Prüfung nach Absatz 1 Satz 1, dass die offen zu legenden Unterlagen nicht oder unvollständig eingereicht wurden, wird die jeweils für die Durchführung von Ordnungsgeldverfahren nach den §§ 335, 340o und 341o zuständige Verwaltungsbehörde unterrichtet.
+
+(+++ § 329 Abs. 1, 2 u. 4: Zur Anwendung vgl. § 160 Abs. 1 KAGB +++)
 
 Fünfter Unterabschnitt Verordnungsermächtigung für Formblätter und andere Vorschriften
 --------------------------------------------------------------------------------------
@@ -3936,26 +3980,49 @@ nicht befolgen, ist wegen des pflichtwidrigen Unterlassens der rechtzeitigen Off
 
 (2a) Für eine elektronische Aktenführung und Kommunikation sind § 110a Abs. 1, § 110b Abs. 1 Satz 1, Abs. 2 bis 4, § 110c Abs. 1 sowie § 110d des Gesetzes über Ordnungswidrigkeiten entsprechend anzuwenden. § 110a Abs. 2 Satz 1 und 3 sowie § 110b Abs. 1 Satz 2 und 4 des Gesetzes über Ordnungswidrigkeiten sind mit der Maßgabe entsprechend anzuwenden, dass das Bundesministerium der Justiz die Rechtsverordnung ohne Zustimmung des Bundesrates erlassen kann; es kann die Ermächtigung durch Rechtsverordnung auf das Bundesamt für Justiz übertragen.
 
-(3) Den in Absatz 1 Satz 1 und 2 bezeichneten Beteiligten ist unter Androhung eines Ordnungsgeldes in bestimmter Höhe aufzugeben, innerhalb einer Frist von sechs Wochen vom Zugang der Androhung an ihrer gesetzlichen Verpflichtung nachzukommen oder die Unterlassung mittels Einspruchs gegen die Verfügung zu rechtfertigen. Mit der Androhung des Ordnungsgeldes sind den Beteiligten zugleich die Kosten des Verfahrens aufzuerlegen. Der Einspruch kann auf Einwendungen gegen die Entscheidung über die Kosten beschränkt werden. Wenn die Beteiligten nicht spätestens sechs Wochen nach dem Zugang der Androhung der gesetzlichen Pflicht entsprochen oder die Unterlassung mittels Einspruchs gerechtfertigt haben, ist das Ordnungsgeld festzusetzen und zugleich die frühere Verfügung unter Androhung eines erneuten Ordnungsgeldes zu wiederholen. Wenn die Sechswochenfrist nur geringfügig überschritten wird, kann das Bundesamt das Ordnungsgeld herabsetzen. Der Einspruch gegen die Androhung des Ordnungsgeldes und gegen die Entscheidung über die Kosten hat keine aufschiebende Wirkung. Führt der Einspruch zu einer Einstellung des Verfahrens, ist zugleich auch die Kostenentscheidung nach Satz 2 aufzuheben.
+(3) Den in Absatz 1 Satz 1 und 2 bezeichneten Beteiligten ist unter Androhung eines Ordnungsgeldes in bestimmter Höhe aufzugeben, innerhalb einer Frist von sechs Wochen vom Zugang der Androhung an ihrer gesetzlichen Verpflichtung nachzukommen oder die Unterlassung mittels Einspruchs gegen die Verfügung zu rechtfertigen. Mit der Androhung des Ordnungsgeldes sind den Beteiligten zugleich die Kosten des Verfahrens aufzuerlegen. Der Einspruch kann auf Einwendungen gegen die Entscheidung über die Kosten beschränkt werden. Der Einspruch gegen die Androhung des Ordnungsgeldes und gegen die Entscheidung über die Kosten hat keine aufschiebende Wirkung. Führt der Einspruch zu einer Einstellung des Verfahrens, ist zugleich auch die Kostenentscheidung nach Satz 2 aufzuheben.
 
-(4) Gegen die Entscheidung, durch die das Ordnungsgeld festgesetzt oder der Einspruch oder der Antrag auf Wiedereinsetzung in den vorigen Stand verworfen wird, sowie gegen die Entscheidung nach Absatz 3 Satz 7 findet die Beschwerde nach den Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit statt, soweit sich nicht aus Absatz 5 etwas anderes ergibt.
+(4) Wenn die Beteiligten nicht spätestens sechs Wochen nach dem Zugang der Androhung der gesetzlichen Pflicht entsprochen oder die Unterlassung mittels Einspruchs gerechtfertigt haben, ist das Ordnungsgeld festzusetzen und zugleich die frühere Verfügung unter Androhung eines erneuten Ordnungsgeldes zu wiederholen. Haben die Beteiligten die gesetzliche Pflicht erst nach Ablauf der Sechswochenfrist erfüllt, hat das Bundesamt das Ordnungsgeld wie folgt herabzusetzen:
 
-(5) Die Beschwerde ist binnen einer Frist von zwei Wochen einzulegen; über sie entscheidet das für den Sitz des Bundesamts zuständige Landgericht. Die Landesregierung des Landes, in dem das Bundesamt seinen Sitz unterhält, wird ermächtigt, zur Vermeidung von erheblichen Verfahrensrückständen oder zum Ausgleich einer übermäßigen Geschäftsbelastung durch Rechtsverordnung die Entscheidung über die Rechtsmittel nach Satz 1 einem anderen Landgericht oder weiteren Landgerichten zu übertragen. Die Landesregierung kann diese Ermächtigung auf die Landesjustizverwaltung übertragen. Ist bei dem Landgericht eine Kammer für Handelssachen gebildet, so tritt diese Kammer an die Stelle der Zivilkammer. Entscheidet über die Beschwerde die Zivilkammer, so sind die §§ 348 und 348a der Zivilprozessordnung entsprechend anzuwenden; über eine bei der Kammer für Handelssachen anhängige Beschwerde entscheidet der Vorsitzende. Die Rechtsbeschwerde findet nicht statt. Das Landgericht kann nach billigem Ermessen bestimmen, dass die außergerichtlichen Kosten der Beteiligten, die zur zweckentsprechenden Rechtsverfolgung notwendig waren, ganz oder teilweise aus der Staatskasse zu erstatten sind. Satz 7 gilt entsprechend, wenn das Bundesamt der Beschwerde abhilft. § 91 Abs. 1 Satz 2 und die §§ 103 bis 107 der Zivilprozessordnung gelten entsprechend. Absatz 2 Satz 3 ist anzuwenden.*Die sofortige Beschwerde ist bei dem Bundesamt einzulegen. Hält das Bundesamt die sofortige Beschwerde für begründet, hat es ihr abzuhelfen; anderenfalls ist die sofortige Beschwerde unverzüglich dem Beschwerdegericht vorzulegen.*
+1.  
+auf einen Betrag von 500 Euro, wenn die Beteiligten von dem Recht einer Kleinstkapitalgesellschaft nach § 326 Absatz 2 Gebrauch gemacht haben;
 
-(5a) Für die elektronische Aktenführung des Gerichts und die Kommunikation mit dem Gericht nach Absatz 5 sind § 110a Abs. 1, § 110b Abs. 1 Satz 1, Abs. 2 bis 4, § 110c Abs. 1 sowie § 110d des Gesetzes über Ordnungswidrigkeiten entsprechend anzuwenden. § 110a Abs. 2 Satz 1 und 3 sowie § 110b Abs. 1 Satz 2 und 4 des Gesetzes über Ordnungswidrigkeiten sind mit der Maßgabe anzuwenden, dass die Landesregierung des Landes, in dem das Bundesamt seinen Sitz unterhält, die Rechtsverordnung erlassen und die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltung übertragen kann.
+2.  
+auf einen Betrag von 1 000 Euro, wenn es sich um eine kleine Kapitalgesellschaft im Sinne des § 267 Absatz 1 handelt;
 
-(6) Liegen dem Bundesamt in einem Verfahren nach den Absätzen 1 bis 3 keine Anhaltspunkte über die Einstufung einer Gesellschaft im Sinn des § 267 Abs. 1, 2 oder Abs. 3 oder § 267a vor, ist den in Absatz 1 Satz 1 und 2 bezeichneten Beteiligten zugleich mit der Androhung des Ordnungsgeldes aufzugeben, im Fall des Einspruchs die Bilanzsumme nach Abzug eines auf der Aktivseite ausgewiesenen Fehlbetrags (§ 268 Abs. 3), die Umsatzerlöse in den ersten zwölf Monaten vor dem Abschlussstichtag (§ 277 Abs. 1) und die durchschnittliche Zahl der Arbeitnehmer (§ 267 Abs. 5) für das betreffende Geschäftsjahr und für diejenigen vorausgehenden Geschäftsjahre, die für die Einstufung nach § 267 Abs. 1, 2 oder Abs. 3 oder § 267a erforderlich sind, anzugeben. Unterbleiben die Angaben nach Satz 1, so wird für das weitere Verfahren vermutet, dass die Erleichterungen der §§ 326 und 327 nicht in Anspruch genommen werden können. Die Sätze 1 und 2 gelten für den Konzernabschluss und den Konzernlagebericht entsprechend mit der Maßgabe, dass an die Stelle der §§ 267, 326 und 327 der § 293 tritt.
+3.  
+auf einen Betrag von 2 500 Euro, wenn ein höheres Ordnungsgeld angedroht worden ist und die Voraussetzungen der Nummern 1 und 2 nicht vorliegen, oder
 
+4.  
+jeweils auf einen geringeren Betrag, wenn die Beteiligten die Sechswochenfrist nur geringfügig überschritten haben.
+
+Bei der Herabsetzung sind nur Umstände zu berücksichtigen, die vor der Entscheidung des Bundesamtes eingetreten sind.
+
+(5) Waren die Beteiligten unverschuldet gehindert, in der Sechswochenfrist nach Absatz 4 Einspruch einzulegen oder ihrer gesetzlichen Verpflichtung nachzukommen, hat ihnen das Bundesamt auf Antrag Wiedereinsetzung in den vorigen Stand zu gewähren. Das Verschulden eines Vertreters ist der vertretenen Person zuzurechnen. Ein Fehlen des Verschuldens wird vermutet, wenn eine Rechtsbehelfsbelehrung unterblieben ist oder fehlerhaft ist. Der Antrag auf Wiedereinsetzung ist binnen zwei Wochen nach Wegfall des Hindernisses schriftlich beim Bundesamt zu stellen. Die Tatsachen zur Begründung des Antrags sind bei der Antragstellung oder im Verfahren über den Antrag glaubhaft zu machen. Die versäumte Handlung ist spätestens sechs Wochen nach Wegfall des Hindernisses nachzuholen. Ist innerhalb eines Jahres seit dem Ablauf der Sechswochenfrist nach Absatz 4 weder Wiedereinsetzung beantragt noch die versäumte Handlung nachgeholt worden, kann Wiedereinsetzung nicht mehr gewährt werden. Die Wiedereinsetzung ist nicht anfechtbar. Haben die Beteiligten Wiedereinsetzung nicht beantragt oder ist die Ablehnung des Wiedereinsetzungsantrags bestandskräftig geworden, können sich die Beteiligten mit der Beschwerde nicht mehr darauf berufen, dass sie unverschuldet gehindert waren, in der Sechswochenfrist Einspruch einzulegen oder ihrer gesetzlichen Verpflichtung nachzukommen.
+
+(5a) (weggefallen)
+
+(6) Liegen dem Bundesamt in einem Verfahren nach den Absätzen 1 bis 5 keine Anhaltspunkte über die Einstufung einer Gesellschaft im Sinne des § 267 Absatz 1 bis 3 oder des § 267a vor, kann es den in Absatz 1 Satz 1 und 2 bezeichneten Beteiligten aufgeben, die Bilanzsumme nach Abzug eines auf der Aktivseite ausgewiesenen Fehlbetrags (§ 268 Absatz 3), die Umsatzerlöse (§ 277 Absatz 1) und die durchschnittliche Zahl der Arbeitnehmer (§ 267 Absatz 5) für das betreffende Geschäftsjahr und für diejenigen Geschäftsjahre, die für die Einstufung erforderlich sind, anzugeben. Unterbleiben die Angaben nach Satz 1, so wird für das weitere Verfahren vermutet, dass die Erleichterungen der §§ 326 und 327 nicht in Anspruch genommen werden können. Die Sätze 1 und 2 gelten für den Konzernabschluss und den Konzernlagebericht entsprechend mit der Maßgabe, dass an die Stelle der §§ 267, 326 und 327 der § 293 tritt.
+
+(+++ § 335: Zur Anwendung vgl. § 160 Abs. 1 KAGB +++)
 (+++ § 335 Abs. 5 Satz 11 und 12: Zur Anwendung vgl. Art. 66 Abs. 6 HGBEG +++)
 (+++ § 335 Abs. 5 Satz 11 und 12: Zum Außerkrafttreten vgl. Art. 66 Abs. 6 HGBEG +++)
 
-### § 335a (weggefallen)
+### § 335a Beschwerde gegen die Festsetzung von Ordnungsgeld; Rechtsbeschwerde; Verordnungsermächtigung
 
--
+(1) Gegen die Entscheidung, durch die das Ordnungsgeld festgesetzt oder der Einspruch oder der Antrag auf Wiedereinsetzung in den vorigen Stand verworfen wird, sowie gegen die Entscheidung nach § 335 Absatz 3 Satz 5 findet die Beschwerde nach den Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit statt, soweit sich aus den nachstehenden Absätzen nichts anderes ergibt.
+
+(2) Die Beschwerde ist binnen einer Frist von zwei Wochen einzulegen; über sie entscheidet das für den Sitz des Bundesamtes zuständige Landgericht. Zur Vermeidung von erheblichen Verfahrensrückständen oder zum Ausgleich einer übermäßigen Geschäftsbelastung wird die Landesregierung des Landes, in dem das Bundesamt seinen Sitz unterhält, ermächtigt, durch Rechtsverordnung die Entscheidung über die Rechtsmittel nach Satz 1 einem anderen Landgericht oder weiteren Landgerichten zu übertragen. Die Landesregierung kann diese Ermächtigung auf die Landesjustizverwaltung übertragen. Ist bei dem Landgericht eine Kammer für Handelssachen gebildet, so tritt diese Kammer an die Stelle der Zivilkammer. Entscheidet über die Beschwerde die Zivilkammer, so sind die §§ 348 und 348a der Zivilprozessordnung entsprechend anzuwenden; über eine bei der Kammer für Handelssachen anhängige Beschwerde entscheidet der Vorsitzende. Das Landgericht kann nach billigem Ermessen bestimmen, dass den Beteiligten die außergerichtlichen Kosten, die zur zweckentsprechenden Rechtsverfolgung notwendig waren, ganz oder teilweise aus der Staatskasse zu erstatten sind. Satz 6 gilt entsprechend, wenn das Bundesamt der Beschwerde abhilft. § 91 Absatz 1 Satz 2 und die §§ 103 bis 107 der Zivilprozessordnung gelten entsprechend. § 335 Absatz 2 Satz 3 ist anzuwenden.
+
+(3) Gegen die Beschwerdeentscheidung ist die Rechtsbeschwerde statthaft, wenn das Landgericht sie zugelassen hat. Für die Rechtsbeschwerde gelten die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend, soweit sich aus diesem Absatz nichts anderes ergibt. Über die Rechtsbeschwerde entscheidet das für den Sitz des Landgerichts zuständige Oberlandesgericht. Die Rechtsbeschwerde steht auch dem Bundesamt zu. Vor dem Oberlandesgericht müssen sich die Beteiligten durch einen Rechtsanwalt vertreten lassen; dies gilt nicht für das Bundesamt. Absatz 2 Satz 6 und 8 gilt entsprechend.
+
+(4) Für die elektronische Aktenführung des Gerichts und die Kommunikation mit dem Gericht nach den Absätzen 1 bis 3 sind § 110a Absatz 1, § 110b Absatz 1 Satz 1, Absatz 2 bis 4, § 110c Absatz 1 sowie § 110d des Gesetzes über Ordnungswidrigkeiten entsprechend anzuwenden. § 110a Absatz 2 Satz 1 und 3 sowie § 110b Absatz 1 Satz 2 und 4 des Gesetzes über Ordnungswidrigkeiten sind mit der Maßgabe anzuwenden, dass die Landesregierung des Landes, in dem das Bundesamt seinen Sitz unterhält, die Rechtsverordnung erlassen und die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltung übertragen kann.
+
+(+++ § 335a Abs. 3: Zur erstmaligen Anwendung vgl. Art. 70 Abs. 3 Satz 2 HGBEG +++)
 
 ### § 335b Anwendung der Straf- und Bußgeld- sowie der Ordnungsgeldvorschriften auf bestimmte offene Handelsgesellschaften und Kommanditgesellschaften
 
-Die Strafvorschriften der §§ 331 bis 333, die Bußgeldvorschrift des § 334 sowie die Ordnungsgeldvorschrift des § 335 gelten auch für offene Handelsgesellschaften und Kommanditgesellschaften im Sinn des § 264a Abs. 1.
+Die Strafvorschriften der §§ 331 bis 333, die Bußgeldvorschrift des § 334 sowie die Ordnungsgeldvorschrift des § 335 gelten auch für offene Handelsgesellschaften und Kommanditgesellschaften im Sinn des § 264a Abs. 1. Das Verfahren nach § 335 ist in diesem Fall gegen die persönlich haftenden Gesellschafter oder gegen die Mitglieder der vertretungsberechtigten Organe der persönlich haftenden Gesellschafter zu richten. Es kann auch gegen die offene Handelsgesellschaft oder gegen die Kommanditgesellschaft gerichtet werden.
 
 Dritter Abschnitt Ergänzende Vorschriften für eingetragene Genossenschaften
 ---------------------------------------------------------------------------
@@ -4036,7 +4103,7 @@ Erster Titel Anwendungsbereich
 
 (3) Dieser Unterabschnitt ist auf Wohnungsunternehmen mit Spareinrichtung nicht anzuwenden.
 
-(4) Dieser Unterabschnitt ist auch auf Finanzdienstleistungsinstitute im Sinne des § 1 Abs. 1a des Gesetzes über das Kreditwesen anzuwenden, soweit sie nicht nach dessen § 2 Abs. 6 oder 10 von der Anwendung ausgenommen sind, sowie auf Zweigniederlassungen von Unternehmen mit Sitz in einem anderen Staat, der nicht Mitglied der Europäischen Gemeinschaft und auch nicht Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, sofern die Zweigniederlassung nach § 53 Abs. 1 des Gesetzes über das Kreditwesen als Finanzdienstleistungsinstitut gilt. § 340c Abs. 1 ist nicht anzuwenden auf Finanzdienstleistungsinstitute und Kreditinstitute, soweit letztere Skontroführer im Sinne des § 27 Abs. 1 Satz 1 des Börsengesetzes und nicht Einlagenkreditinstitute im Sinne des § 1 Abs. 3d Satz 1 des Gesetzes über das Kreditwesen sind. § 340l ist nur auf Finanzdienstleistungsinstitute anzuwenden, die Kapitalgesellschaften sind. Zusätzliche Anforderungen auf Grund von Vorschriften, die wegen der Rechtsform oder für Zweigniederlassungen bestehen, bleiben unberührt.
+(4) Dieser Unterabschnitt ist auch auf Finanzdienstleistungsinstitute im Sinne des § 1 Abs. 1a des Gesetzes über das Kreditwesen anzuwenden, soweit sie nicht nach dessen § 2 Abs. 6 oder 10 von der Anwendung ausgenommen sind, sowie auf Zweigniederlassungen von Unternehmen mit Sitz in einem anderen Staat, der nicht Mitglied der Europäischen Gemeinschaft und auch nicht Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, sofern die Zweigniederlassung nach § 53 Abs. 1 des Gesetzes über das Kreditwesen als Finanzdienstleistungsinstitut gilt. § 340c Abs. 1 ist nicht anzuwenden auf Finanzdienstleistungsinstitute und Kreditinstitute, soweit letztere Skontroführer im Sinne des § 27 Abs. 1 Satz 1 des Börsengesetzes und nicht CRR-Kreditinstitute im Sinne des § 1 Abs. 3d Satz 1 des Gesetzes über das Kreditwesen sind. § 340l ist nur auf Finanzdienstleistungsinstitute anzuwenden, die Kapitalgesellschaften sind. Zusätzliche Anforderungen auf Grund von Vorschriften, die wegen der Rechtsform oder für Zweigniederlassungen bestehen, bleiben unberührt.
 
 (5) Dieser Unterabschnitt ist auch auf Institute im Sinne des § 1 Absatz 2a des Zahlungsdiensteaufsichtsgesetzes anzuwenden. § 340l ist nur auf Institute im Sinne des § 1 Absatz 2a des Zahlungsdiensteaufsichtsgesetzes anzuwenden, die Kapitalgesellschaften sind. Zusätzliche Anforderungen auf Grund von Vorschriften, die wegen der Rechtsform oder für Zweigniederlassungen bestehen, bleiben unberührt.
 
@@ -4051,7 +4118,7 @@ Zweiter Titel Jahresabschluß, Lagebericht, Zwischenabschluß
 
 (2) § 265 Abs. 6 und 7, §§ 267, 268 Abs. 4 Satz 1, Abs. 5 Satz 1 und 2, §§ 276, 277 Abs. 1, 2, 3 Satz 1, § 284 Abs. 2 Nr. 4, § 285 Nr. 8 und 12, § 288 sind nicht anzuwenden. An Stelle von § 247 Abs. 1, §§ 251, 266, 268 Abs. 2 und 7, §§ 275, 285 Nr. 1, 2, 4 und 9 Buchstabe c sind die durch Rechtsverordnung erlassenen Formblätter und anderen Vorschriften anzuwenden. § 246 Abs. 2 ist nicht anzuwenden, soweit abweichende Vorschriften bestehen. § 264 Abs. 3 und § 264b sind mit der Maßgabe anzuwenden, daß das Kreditinstitut unter den genannten Voraussetzungen die Vorschriften des Vierten Unterabschnitts des Zweiten Abschnitts nicht anzuwenden braucht.
 
-(3) Sofern Kreditinstitute einer prüferischen Durchsicht zu unterziehende Zwischenabschlüsse zur Ermittlung von Zwischenergebnissen im Sinne des § 10 Abs. 3 des Kreditwesengesetzes aufstellen, sind auf diese die für den Jahresabschluss geltenden Rechnungslegungsgrundsätze anzuwenden. Die Vorschriften über die Bestellung des Abschlussprüfers sind auf die prüferische Durchsicht entsprechend anzuwenden. Die prüferische Durchsicht ist so anzulegen, dass bei gewissenhafter Berufsausübung ausgeschlossen werden kann, dass der Zwischenabschluss in wesentlichen Belangen den anzuwendenden Rechnungslegungsgrundsätzen widerspricht. Der Abschlussprüfer hat das Ergebnis der prüferischen Durchsicht in einer Bescheinigung zusammenzufassen. § 320 und § 323 gelten entsprechend.
+(3) Sofern Kreditinstitute einer prüferischen Durchsicht zu unterziehende Zwischenabschlüsse zur Ermittlung von Zwischenergebnissen im Sinne des Artikels 26 Absatz 2 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABI. L 176 vom 27.6.2013, S. 1) aufstellen, sind auf diese die für den Jahresabschluss geltenden Rechnungslegungsgrundsätze anzuwenden. Die Vorschriften über die Bestellung des Abschlussprüfers sind auf die prüferische Durchsicht entsprechend anzuwenden. Die prüferische Durchsicht ist so anzulegen, dass bei gewissenhafter Berufsausübung ausgeschlossen werden kann, dass der Zwischenabschluss in wesentlichen Belangen den anzuwendenden Rechnungslegungsgrundsätzen widerspricht. Der Abschlussprüfer hat das Ergebnis der prüferischen Durchsicht in einer Bescheinigung zusammenzufassen. § 320 und § 323 gelten entsprechend.
 
 (4) Zusätzlich haben Kreditinstitute im Anhang zum Jahresabschluß anzugeben:
 
@@ -4081,7 +4148,7 @@ alle Beteiligungen an großen Kapitalgesellschaften, die fünf vom Hundert der S
 
 (2) Die Aufwendungen aus Abschreibungen auf Beteiligungen, Anteile an verbundenen Unternehmen und wie Anlagevermögen behandelte Wertpapiere dürfen mit den Erträgen aus Zuschreibungen zu solchen Vermögensgegenständen verrechnet und in einem Aufwand- oder Ertragsposten ausgewiesen werden. In die Verrechnung nach Satz 1 dürfen auch die Aufwendungen und Erträge aus Geschäften mit solchen Vermögensgegenständen einbezogen werden.
 
-(3) Kreditinstitute, die dem haftenden Eigenkapital nicht realisierte Reserven nach § 10 Abs. 2b Satz 1 Nr. 6 oder 7 des Gesetzes über das Kreditwesen zurechnen, haben den Betrag, mit dem diese Reserven dem haftenden Eigenkapital zugerechnet werden, im Anhang zur Bilanz und zur Gewinn- und Verlustrechnung anzugeben.
+(3) Kreditinstitute, die dem haftenden Eigenkapital nicht realisierte Reserven nach § 10 Abs. 2b Satz 1 Nr. 6 oder 7 des Gesetzes über das Kreditwesen in der bis zum 31. Dezember 2013 geltenden Fassung zurechnen, haben den Betrag, mit dem diese Reserven dem haftenden Eigenkapital zugerechnet werden, im Anhang zur Bilanz und zur Gewinn- und Verlustrechnung anzugeben.
 
 ### § 340d Fristengliederung
 
@@ -4146,7 +4213,7 @@ Fünfter Titel Konzernabschluß, Konzernlagebericht, Konzernzwischenabschluß
 
 (3) Als Kreditinstitute im Sinne dieses Titels gelten auch Mutterunternehmen, deren einziger Zweck darin besteht, Beteiligungen an Tochterunternehmen zu erwerben sowie die Verwaltung und Verwertung dieser Beteiligungen wahrzunehmen, sofern diese Tochterunternehmen ausschließlich oder überwiegend Kreditinstitute sind.
 
-(4) Sofern Kreditinstitute einer prüferischen Durchsicht zu unterziehende Konzernzwischenabschlüsse zur Ermittlung von Konzernzwischenergebnissen im Sinne des § 10a Abs. 10 des Kreditwesengesetzes aufstellen, sind auf diese die für den Konzernabschluss geltenden Rechnungslegungsgrundsätze anzuwenden. Die Vorschriften über die Bestellung des Abschlussprüfers sind auf die prüferische Durchsicht entsprechend anzuwenden. Die prüferische Durchsicht ist so anzulegen, dass bei gewissenhafter Berufsausübung ausgeschlossen werden kann, dass der Zwischenabschluss in wesentlichen Belangen den anzuwendenden Rechnungslegungsgrundsätzen widerspricht. Der Abschlussprüfer hat das Ergebnis der prüferischen Durchsicht in einer Bescheinigung zusammenzufassen. § 320 und § 323 gelten entsprechend.
+(4) Sofern Kreditinstitute einer prüferischen Durchsicht zu unterziehende Konzernzwischenabschlüsse zur Ermittlung von Konzernzwischenergebnissen im Sinne des Artikels 26 Absatz 2 in Verbindung mit Artikel 11 der Verordnung (EU) Nr. 575/2013 aufstellen, sind auf diese die für den Konzernabschluss geltenden Rechnungslegungsgrundsätze anzuwenden. Die Vorschriften über die Bestellung des Abschlussprüfers sind auf die prüferische Durchsicht entsprechend anzuwenden. Die prüferische Durchsicht ist so anzulegen, dass bei gewissenhafter Berufsausübung ausgeschlossen werden kann, dass der Zwischenabschluss in wesentlichen Belangen den anzuwendenden Rechnungslegungsgrundsätzen widerspricht. Der Abschlussprüfer hat das Ergebnis der prüferischen Durchsicht in einer Bescheinigung zusammenzufassen. § 320 und § 323 gelten entsprechend.
 
 ### § 340j Einzubeziehende Unternehmen
 
@@ -4303,7 +4370,7 @@ als Geschäftsleiter im Sinne des § 1 Absatz 2 Satz 1 des Kreditwesengesetzes e
 2.  
 als Geschäftsleiter von Zweigniederlassungen im Sinn des § 53 Abs. 1 des Kreditwesengesetzes § 340l Abs. 1 oder Abs. 2 über die Offenlegung der Rechnungslegungsunterlagen
 
-nicht befolgen, sind hierzu vom Bundesamt für Justiz durch Festsetzung von Ordnungsgeld nach § 335 anzuhalten. § 335 Abs. 1 Satz 2 ist entsprechend anzuwenden.
+nicht befolgen, sind hierzu vom Bundesamt für Justiz durch Festsetzung von Ordnungsgeld anzuhalten. Die §§ 335 bis 335b sind entsprechend anzuwenden.
 
 Zweiter Unterabschnitt Ergänzende Vorschriften für Versicherungsunternehmen und Pensionsfonds
 ---------------------------------------------------------------------------------------------
@@ -4351,7 +4418,7 @@ Dritter Titel Bewertungsvorschriften
 
 (1) Versicherungsunternehmen haben immaterielle Vermögensgegenstände, soweit sie entgeltlich erworben wurden, Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken, technische Anlagen und Maschinen, andere Anlagen, Betriebs- und Geschäftsausstattung, Anlagen im Bau und Vorräte nach den für das Anlagevermögen geltenden Vorschriften zu bewerten. Satz 1 ist vorbehaltlich Absatz 2 und § 341c auch auf Kapitalanlagen anzuwenden, soweit es sich hierbei um Beteiligungen, Anteile an verbundenen Unternehmen, Ausleihungen an verbundene Unternehmen oder an Unternehmen, mit denen ein Beteiligungsverhältnis besteht, Namensschuldverschreibungen, Hypothekendarlehen und andere Forderungen und Rechte, sonstige Ausleihungen und Depotforderungen aus dem in Rückdeckung übernommenen Versicherungsgeschäft handelt. § 253 Abs. 3 Satz 4 ist nur auf die in Satz 2 bezeichneten Vermögensgegenstände anzuwenden.
 
-(2) Auf Kapitalanlagen, soweit es sich hierbei um Aktien einschließlich der eigenen Anteile, Investmentanteile sowie sonstige festverzinsliche und nicht festverzinsliche Wertpapiere handelt, sind die für das Umlaufvermögen geltenden § 253 Abs. 1 Satz 1, Abs. 4 und 5, § 256 anzuwenden, es sei denn, dass sie dazu bestimmt werden, dauernd dem Geschäftsbetrieb zu dienen; in diesem Fall sind sie nach den für das Anlagevermögen geltenden Vorschriften zu bewerten.
+(2) Auf Kapitalanlagen, soweit es sich hierbei um Aktien einschließlich der eigenen Anteile, Anteile oder Aktien an Investmentvermögen sowie sonstige festverzinsliche und nicht festverzinsliche Wertpapiere handelt, sind die für das Umlaufvermögen geltenden § 253 Abs. 1 Satz 1, Abs. 4 und 5, § 256 anzuwenden, es sei denn, dass sie dazu bestimmt werden, dauernd dem Geschäftsbetrieb zu dienen; in diesem Fall sind sie nach den für das Anlagevermögen geltenden Vorschriften zu bewerten.
 
 (3) § 256 Satz 2 in Verbindung mit § 240 Abs. 3 über die Bewertung zum Festwert ist auf Grundstücke, Bauten und im Bau befindliche Anlagen nicht anzuwenden.
 
@@ -4568,7 +4635,7 @@ als Mitglieder des vertretungsberechtigten Organs eines Versicherungsunternehmen
 2.  
 als Hauptbevollmächtigter (§ 106 Abs. 3 des Versicherungsaufsichtsgesetzes) § 341l Abs. 1 über die Offenlegung der Rechnungslegungsunterlagen
 
-nicht befolgen, sind hierzu vom Bundesamt für Justiz durch Festsetzung von Ordnungsgeld nach § 335 anzuhalten. § 335 Abs. 1 Satz 2 ist entsprechend anzuwenden.
+nicht befolgen, sind hierzu vom Bundesamt für Justiz durch Festsetzung von Ordnungsgeld anzuhalten. Die §§ 335 bis 335b sind entsprechend anzuwenden.
 
 ### § 341p Anwendung der Straf- und Bußgeld- sowie der Ordnungsgeldvorschriften auf Pensionsfonds
 
