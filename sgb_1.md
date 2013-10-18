@@ -2,10 +2,7 @@ Sozialgesetzbuch (SGB) Erstes Buch (I) - Allgemeiner Teil - (Artikel I des Geset
 ==============================================================================================================================
 
 Stand  
-Zuletzt geändert Art. 4 Abs. 1 G v. 15.7.2013 I 2416
-
-Hinweis  
-Änderung durch Art. 4 G v. 25.7.2013 I 2749 (Nr. 43) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 10 G v. 19.10.2013 I 3836
 
 ### 
 
@@ -803,6 +800,8 @@ In den Fällen des Satzes 4 Nummer 1 muss bei einer Eingabe über öffentlich zu
 
 (4) Die Träger der Sozialversicherung einschließlich der Bundesagentur für Arbeit, ihre Verbände und Arbeitsgemeinschaften verwenden unter Beachtung der Grundsätze der Wirtschaftlichkeit und Sparsamkeit im jeweiligen Sozialleistungsbereich Zertifizierungsdienste nach dem Signaturgesetz, die eine gemeinsame und bundeseinheitliche Kommunikation und Übermittlung der Daten und die Überprüfbarkeit der qualifizierten elektronischen Signatur auf Dauer sicherstellen. Diese Träger sollen über ihren jeweiligen Bereich hinaus Zertifizierungsdienste im Sinne des Satzes 1 verwenden. Die Sätze 1 und 2 gelten entsprechend für die Leistungserbringer nach dem Fünften und dem Elften Buch und die von ihnen gebildeten Organisationen.
 
+§ 36a Abs. 2 u. 2a: Früher Abs. 2 gem. u. idF d. Art. 4 G v. 25.7.2013 I 2749 mWv 1.8.2013, § 36a Abs. 2 Satz 4 Nr. 2 u. 3 (Kursivdruck) mWv 1.7.2014
+
 ### § 37 Vorbehalt abweichender Regelungen
 
 Das Erste und Zehnte Buch gelten für alle Sozialleistungsbereiche dieses Gesetzbuchs, soweit sich aus den übrigen Büchern nichts Abweichendes ergibt; § 68 bleibt unberührt. Der Vorbehalt gilt nicht für die §§ 1 bis 17 und 31 bis 36. Das Zweite Kapitel des Zehnten Buches geht dessen Erstem Kapitel vor, soweit sich die Ermittlung des Sachverhaltes auf Sozialdaten erstreckt.
@@ -874,7 +873,9 @@ Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung enthalten, werden 
 
 ### § 47 Auszahlung von Geldleistungen
 
-Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung enthalten, sollen Geldleistungen kostenfrei auf ein Konto des Empfängers bei einem Geldinstitut überwiesen oder, wenn der Empfänger es verlangt, kostenfrei an seinen Wohnsitz übermittelt werden.
+(1) Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung enthalten, sollen Geldleistungen kostenfrei auf ein Konto des Empfängers bei einem Geldinstitut, für das die Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22) gilt, überwiesen oder, wenn der Empfänger es verlangt, kostenfrei an seinen Wohnsitz innerhalb des Geltungsbereiches dieser Verordnung übermittelt werden.
+
+(2) Bei Zahlungen außerhalb des Geltungsbereiches der in Absatz 1 genannten Verordnung trägt der Leistungsträger die Kosten bis zu dem von ihm mit der Zahlung beauftragten Geldinstitut.
 
 ### § 48 Auszahlung bei Verletzung der Unterhaltspflicht
 
