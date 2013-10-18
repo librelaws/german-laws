@@ -2,7 +2,7 @@ Siebtes Buch Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1 des 
 ================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 4 Abs. 4 G v. 20.4.2013 I 868
+Zuletzt geändert durch Art. 6 G v. 19.10.2013 I 3836
 
 ### 
 
@@ -268,6 +268,7 @@ Das Gesetz wurde vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es is
 | § 145            |
 | § 146            |
 | § 147            |
+| § 147a           |
 | § 148            |
 | § 149            |
 | § 149a           |
@@ -2922,6 +2923,75 @@ Widerspricht ein Dienstvertrag der Dienstordnung, ist er insoweit nichtig. Dies 
 
 (4) Die Absätze 1 bis 3 gelten für Änderungen der Dienstordnung entsprechend.
 
+### § 147a Dienstbezüge der Geschäftsführer der gewerblichen Berufsgenossenschaften und der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+
+(1) Die Dienstbezüge im Dienstordnungsverhältnis oder die vertraglich zu vereinbarende Vergütung der Geschäftsführerinnen oder der Geschäftsführer oder der Vorsitzenden der Geschäftsführung der gewerblichen Berufsgenossenschaften dürfen die Dienstbezüge der folgenden Besoldungsgruppen nicht übersteigen:
+
+Gewerbliche
+Berufsgenossenschaft
+
+Höchstgrenze
+
+1.
+
+Berufsgenossenschaft für Transport und Verkehrswirtschaft
+
+Besoldungsgruppe B 6
+
+2.
+
+Berufsgenossenschaft Energie Textil Elektro Medienerzeugnisse
+
+Besoldungsgruppe B 7
+
+3.
+
+Berufsgenossenschaft Handel und Warendistribution
+
+Besoldungsgruppe B 7
+
+4.
+
+Berufsgenossenschaft Nahrungsmittel und Gastgewerbe
+
+Besoldungsgruppe B 7
+
+5.
+
+Berufsgenossenschaft Rohstoffe und chemische Industrie
+
+Besoldungsgruppe B 7
+
+6.
+
+Berufsgenossenschaft für Gesundheitsdienst und Wohlfahrtspflege
+
+Besoldungsgruppe B 8
+
+7.
+
+Berufsgenossenschaft der Bauwirtschaft
+
+Besoldungsgruppe B 8
+
+8.
+
+Berufsgenossenschaft Holz und Metall
+
+Besoldungsgruppe B 8
+
+9.
+
+Verwaltungs-Berufsgenossenschaft
+
+Besoldungsgruppe B 8
+
+(2) Für die Geschäftsführerin oder den Geschäftsführer oder die Vorsitzende oder den Vorsitzenden der Geschäftsführung der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau ist die Besoldungsgruppe B 7 die Besoldungshöchstgrenze.
+
+(3) Die stellvertretende Geschäftsführerin oder der stellvertretende Geschäftsführer, die Mitglieder einer Geschäftsführung sowie die leitende technische Aufsichtsperson sind jeweils mindestens eine Besoldungsgruppe niedriger einzustufen als die Geschäftsführerin oder der Geschäftsführer oder die Vorsitzende oder der Vorsitzende einer Geschäftsführung.
+
+(4) Für vertraglich zu vereinbarende Vergütungen im Sinne des Absatzes 1 ist die Obergrenze das jeweilige Grundgehalt zuzüglich des Familienzuschlags der Stufe 2.
+
 ### § 148 Dienstrechtliche Vorschriften für die Eisenbahn-Unfallkasse
 
 (1) Die Eisenbahn-Unfallkasse besitzt Dienstherrnfähigkeit im Sinne des § 2 des Bundesbeamtengesetzes. Die Beamten sind Bundesbeamte. Bei der Unfallkasse können die nach § 26 Abs.1 des Bundesbesoldungsgesetzes zulässigen Obergrenzen für Beförderungsämter überschritten werden, soweit dies wegen der mit den Funktionen verbundenen Anforderungen erforderlich ist. Für die Angestellten und Arbeiter gelten die Bestimmungen für Arbeitnehmer des Bundes.
@@ -3122,9 +3192,17 @@ Vierter Unterabschnitt Umlageverfahren
 
 (1) Für die Auskunftspflicht der Unternehmer und die Beitragüberwachung gelten § 98 des Zehnten Buches, § 28p des Vierten Buches und die Beitragsverfahrensverordnung, entsprechend mit der Maßgabe, daß sich die Auskunfts- und Vorlagepflicht der Unternehmer und die Prüfungs- und Überwachungsbefugnis der Unfallversicherungsträger auch auf Angaben und Unterlagen über die betrieblichen Verhältnisse erstreckt, die für die Veranlagung der Unternehmen und für die Zuordnung der Entgelte der Versicherten zu den Gefahrklassen erforderlich sind.
 
-(2) Die Prüfung nach Absatz 1 bei den Arbeitgebern wird von den Trägern der Rentenversicherung im Auftrag der Unfallversicherung im Rahmen ihrer Prüfung nach § 28p des Vierten Buches durchgeführt. Satz 1 gilt nicht, soweit sich die Höhe des Beitrages nach den §§ 155, 156, 185 Abs. 2 oder § 185 Abs. 4 nicht nach den Arbeitsentgelten richtet. Unternehmer, bei denen keine Prüfung nach § 28p des Vierten Buches durchzuführen ist, prüfen die Unfallversicherungsträger; hierfür bestimmen sie die Prüfungsabstände.
+(2) Die Prüfung nach Absatz 1 bei den Arbeitgebern wird von den Trägern der Rentenversicherung im Auftrag der Unfallversicherung im Rahmen ihrer Prüfung nach § 28p des Vierten Buches durchgeführt. Unternehmen, bei denen der für das vorvergangene Jahr vor der Prüfung nach § 168 Absatz 1 festgestellte Beitrag einen Betrag in Höhe von 1,5 Prozent der Bezugsgröße nicht überstiegen hat, sind dabei bis auf eine durch den Unfallversicherungsträger festzulegende Stichprobe von der Prüfung ausgenommen. Satz 1 gilt nicht,
 
-(3) Die Träger der Rentenversicherung erhalten für die Beitragsüberwachung von den Trägern der Unfallversicherung eine pauschale Vergütung, mit der alle dadurch entstehenden Kosten abgegolten werden. Die Höhe wird regelmäßig durch Vereinbarung zwischen der Deutschen Gesetzlichen Unfallversicherung e. V. und der Deutschen Rentenversicherung Bund festgesetzt.
+1.  
+soweit sich die Höhe des Beitrages nach den §§ 155, 156, 185 Absatz 2 oder Absatz 4 nicht nach den Arbeitsentgelten richtet,
+
+2.  
+wenn der Unfallversicherungsträger das Ende seiner Zuständigkeit für das Unternehmen durch einen Bescheid nach § 136 Absatz 1 festgestellt hat.
+
+Unternehmer, bei denen keine Prüfung nach § 28p des Vierten Buches durchzuführen ist, prüfen die Unfallversicherungsträger; hierfür bestimmen sie die Prüfungsabstände. Die Unfallversicherungsträger können die Prüfung nach Absatz 1 selbst durchführen, wenn Anhaltspunkte vorliegen, dass der Unternehmer Arbeitsentgelte nicht oder nicht zur richtigen Gefahrklasse gemeldet hat. Der für die Prüfung zuständige Rentenversicherungsträger ist über den Beginn und über das Ergebnis der Prüfung zu informieren.
+
+(3) Das Nähere über die Größe der Stichprobe nach Absatz 2 Satz 2 sowie über Art, Umfang und Zeitpunkt der Übermittlung der Angaben über die von der Prüfung ausgenommenen Unternehmen regeln die Deutsche Gesetzliche Unfallversicherung e. V. und die Deutsche Rentenversicherung Bund in einer Vereinbarung. Die Träger der Rentenversicherung erhalten für die Beitragsüberwachung von den Trägern der Unfallversicherung eine pauschale Vergütung, mit der alle dadurch entstehenden Kosten abgegolten werden. Die Höhe wird regelmäßig durch Vereinbarung zwischen der Deutschen Gesetzlichen Unfallversicherung e. V. und der Deutschen Rentenversicherung Bund festgesetzt. Die Deutsche Gesetzliche Unfallversicherung e. V. prüft bei den Trägern der Rentenversicherung deren Aufgabenerfüllung nach Absatz 2 Satz 1.
 
 ### § 167 Beitragsberechnung
 
@@ -3963,7 +4041,7 @@ Die Vorschriften des Ersten bis Neunten Kapitels gelten für Versicherungsfälle
 
 (8) Die Vorschrift des § 1156 der Reichsversicherungsordnung in der am Tag vor Inkrafttreten dieses Gesetzes geltenden Fassung ist weiter anzuwenden.
 
-(9) Zur Finanzierung der Rentenaltlasten aus dem Beitrittsgebiet, die sich aus der Verteilung nach Anlage 1 Kapitel VIII Sachgebiet I Abschnitt III Nr. 1 Buchstabe c, Abs. 8 Nr. 2 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1064) ergeben, kann bei der Beitragsberechnung von der Berücksichtigung des Grades der Unfallgefahr in den Unternehmen gemäß § 153 Abs. 1 abgesehen werden; die Vertreterversammlung bestimmt das Nähere mit Genehmigung der Aufsichtsbehörde.
+(9) (weggefallen)
 
 ### § 216 Bezugsgröße (Ost) und aktueller Rentenwert (Ost)
 
@@ -4232,19 +4310,7 @@ die Beschlüsse über weitere Fusionen und die Zeitpunkte der Umsetzung.
 
 (2) Die Länder setzen die Konzepte nach Absatz 1 bis zum 31. Dezember 2009 um. Dabei ist eine angemessene Vertretung der Interessen von Ländern, Kommunen und Feuerwehrverbänden in den Selbstverwaltungsgremien sowie eine ortsnahe Betreuung der Versicherten und Unternehmen sicherzustellen.
 
-### § 224 Neuorganisation der bundesunmittelbaren Unfallversicherungsträger der öffentlichen Hand
-
-Die Selbstverwaltungen der bundesunmittelbaren Unfallversicherungsträger der öffentlichen Hand erstellen ein Konzept zur Neuorganisation und legen dies den zuständigen Bundesministerien bis zum 31. Dezember 2008 vor. Das Konzept enthält eine umfassende Prüfung der Möglichkeiten, die Zahl der bundesunmittelbaren Unfallversicherungsträger der öffentlichen Hand auf einen zu reduzieren.
-
-### § 225 Umsetzung der Neuorganisation der gewerblichen Berufsgenossenschaften
-
-(1) Die Berufgenossenschaft Nahrungsmittel und Gaststätten sowie die Fleischerei-Berufsgenossenschaft werden verpflichtet, sich spätestens bis zum 1. Januar 2011 zu einer Berufsgenossenschaft zu vereinigen. Die beteiligten Berufsgenossenschaften legen dem Bundesversicherungsamt spätestens bis zum 1. Oktober 2010 eine Satzung, einen Vorschlag zur Berufung der Mitglieder der Organe und eine Vereinbarung über die Rechtsbeziehungen zu Dritten sowie eine Vereinbarung über die Gefahrtarif- und Beitragsgestaltung vor. Im Übrigen gilt § 118 entsprechend.
-
-(2) Die Berufsgenossenschaft Metall Nord Süd, die Maschinenbau- und Metall-Berufsgenossenschaft, die Hütten- und Walzwerks-Berufsgenossenschaft sowie die Holz-Berufsgenossenschaft werden verpflichtet, sich spätestens bis zum 1. Januar 2011 zu einer Berufsgenossenschaft zu vereinigen. Die beteiligten Berufsgenossenschaften legen dem Bundesversicherungsamt spätestens bis zum 1. Oktober 2010 eine Satzung, einen Vorschlag zur Berufung der Mitglieder der Organe und eine Vereinbarung über die Rechtsbeziehungen zu Dritten sowie eine Vereinbarung über die Gefahrtarif- und Beitragsgestaltung vor. Im Übrigen gilt § 118 entsprechend.
-
-(3) Liegen dem Bundesversicherungsamt am 1. Oktober 2010 keine übereinstimmenden Vereinigungsbeschlüsse vor, vereinigt das Bundesversicherungsamt die Berufsgenossenschaften zum 1. Januar 2011.
-
-(4) Klagen gegen Aufsichtsmaßnahmen des Bundesversicherungsamtes im Zusammenhang mit den Absätzen 1 bis 3 haben keine aufschiebende Wirkung.
+### (XXXX) §§ 224 und 225 (weggefallen)
 
 ### Anlage 1 (zu § 114)Gewerbliche Berufsgenossenschaften
 
