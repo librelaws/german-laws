@@ -2,7 +2,7 @@ Sozialgesetzbuch (SGB) Drittes Buch (III) - Arbeitsförderung - (Artikel 1 des G
 ============================================================================================================================
 
 Stand  
-Zuletzt geändert Art. 9 G v. 17.6.2013 I 1555
+Zuletzt geändert durch Art. 11 G v. 19.10.2013 I 3836
 
 ### 
 
@@ -1238,7 +1238,7 @@ Ausländerinnen und Ausländern</td>
 <td>§ 298</td>
 </tr>
 <tr class="even">
-<td>§§ 299 u. 300</td>
+<td>§§ 299 und 300</td>
 </tr>
 <tr class="odd">
 <td> </td>
@@ -1253,7 +1253,7 @@ Ausländerinnen und Ausländern</td>
 <td>§ 301</td>
 </tr>
 <tr class="odd">
-<td>§§ 302 u. 303</td>
+<td>§§ 302 und 303</td>
 </tr>
 <tr class="even">
 <td> </td>
@@ -1319,739 +1319,741 @@ Ausländerinnen und Ausländern</td>
 <td>§ 313</td>
 </tr>
 <tr class="odd">
+<td>§ 313a</td>
+</tr>
+<tr class="even">
 <td>§ 314</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Dritter Unterabschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Auskunfts-, Mitwirkungs- und Duldungspflichten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 315</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 316</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 317</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 318</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 319</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Vierter Unterabschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Sonstige Pflichten</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 320</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Zweiter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Schadensersatz bei Pflichtverletzungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 321</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Dritter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Verordnungsermächtigung und Anordnungsermächtigung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 321a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 322</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Neuntes Kapitel</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Gemeinsame Vorschriften für Leistungen</strong></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Erster Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Antrag und Fristen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 323</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 324</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 325</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 326</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Zweiter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Zuständigkeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 327</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Dritter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Leistungsverfahren in Sonderfällen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 328</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 329</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 330</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 331</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 332</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 333</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 334</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 335</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 336</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 336a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Vierter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Auszahlung von Geldleistungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 337</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Fünfter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Berechnungsgrundsätze</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 338</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 339</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Zehntes Kapitel</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Finanzierung</strong></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Erster Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Finanzierungsgrundsatz</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 340</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Zweiter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Beiträge und Verfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Erster Unterabschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Beiträge</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 341</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 342</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 343</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 344</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 345</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 345a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 345b</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Zweiter Unterabschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Verfahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 346</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 347</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 348</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 349</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 349a</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 350</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 351</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Dritter Unterabschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Verordnungsermächtigung, Anordnungsermächtigung und Ermächtigung zum Erlass von Verwaltungsvorschriften</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 352</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 352a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 353</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Dritter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Umlagen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Erster Unterabschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Winterbeschäftigungs-Umlage</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 354</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 355</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 356</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 357</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Zweiter Unterabschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Umlage für das Insolvenzgeld</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 358</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 359</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 360</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 361</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 362</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Vierter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Beteiligung des Bundes</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 363</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 364</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 365</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Fünfter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Rücklage und Versorgungsfonds</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 366</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 366a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Elftes Kapitel</strong></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Organisation und Datenschutz</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Erster Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Bundesagentur für Arbeit</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 367</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 368</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 368a</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 369</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 370</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Zweiter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Selbstverwaltung</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Erster Unterabschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Verfassung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 371</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 372</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 373</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 374</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 374a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 375</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 376</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Zweiter Unterabschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Berufung und Abberufung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 377</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 378</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 379</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Dritter Unterabschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Neutralitätsausschuss</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 380</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Dritter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Vorstand und Verwaltung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 381</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 382</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 383</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 384</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 385</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 386</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 387</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 388</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 389</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 390</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 391</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 392</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Vierter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Aufsicht</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 393</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Fünfter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Datenschutz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 394</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 395</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 396</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 397</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§§ 398 bis 403</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Zwölftes Kapitel</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Bußgeldvorschriften</strong></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Erster Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Bußgeldvorschriften</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 404</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 405</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Zweiter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 406</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 407</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Dreizehntes Kapitel</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Sonderregelungen</strong></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Erster Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Sonderregelungen im Zusammenhang mit der Herstellung der Einheit Deutschlands</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 408</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§§ 409 bis 416a</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Zweiter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Ergänzungen für<br />
 übergangsweise mögliche<br />
 Leistungen und zeitweilige Aufgaben</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 417</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 418</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 419</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 420</td>
 </tr>
-<tr class="even">
-<td>§§ 421<br />
-bis 421u</td>
-</tr>
 <tr class="odd">
+<td>§§ 421 bis 421u</td>
+</tr>
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Dritter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Grundsätze bei Rechtsänderungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 422</td>
 </tr>
-<tr class="odd">
-<td>§§ 423 u. 424</td>
-</tr>
 <tr class="even">
+<td>§§ 423 und 424</td>
+</tr>
+<tr class="odd">
 <td> </td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Vierter Abschnitt</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Sonderregelungen im Zusammenhang mit der Einordnung des Arbeitsförderungsrechts in das Sozialgesetzbuch</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 425</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 426</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 427</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 427a</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 428</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 429</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 430</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 431</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 432</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 433</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td> </td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Fünfter Abschnitt</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Übergangsregelungen<br />
 auf Grund von Änderungsgesetzen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 434</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 435</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 436</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 437</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 438</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 439</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 440</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 441</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 442</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 443</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 444</td>
 </tr>
 </tbody>
@@ -4471,9 +4473,7 @@ die Maßnahme vor dem 31. Dezember 2014 beginnt.
 
 Abweichend von § 180 Absatz 4 Satz 1 ist die Dauer einer Vollzeitmaßnahme der beruflichen Weiterbildung in der Altenpflege, die in der Zeit vom 1. April 2013 bis zum 31. März 2016 beginnt, auch dann angemessen, wenn sie nach dem Altenpflegegesetz nicht um mindestens ein Drittel verkürzt werden kann. Insoweit ist § 180 Absatz 4 Satz 2 nicht anzuwenden.
 
-### § 132 Übergangsregelung zum Gründungszuschuss
-
-Wird am 28. Dezember 2011 oder zu einem späteren Zeitpunkt die Verlängerung eines Gründungszuschusses beantragt, der erstmalig nach § 58 Absatz 1 der bis zum 27. Dezember 2011 geltenden Fassung bewilligt worden ist, so gilt für die Bewilligung der Verlängerung § 58 Absatz 2 in der bis zum 27. Dezember 2011 geltenden Fassung.
+### § 132 (weggefallen)
 
 ### § 133 Saison-Kurzarbeitergeld und ergänzende Leistungen im Gerüstbauerhandwerk
 
@@ -5731,7 +5731,7 @@ Erster Unterabschnitt Beschäftigung von Ausländerinnen und Ausländern
 
 ### § 284 Arbeitsgenehmigung-EU für Staatsangehörige der neuen EU-Mitgliedstaaten
 
-(1) Staatsangehörige der Staaten, die nach dem Vertrag vom 25. April 2005 über den Beitritt der Republik Bulgarien und Rumäniens zur Europäischen Union (BGBl. 2006 II S. 1146, 1148) der Europäischen Union beigetreten sind, und deren freizügigkeitsberechtigte Familienangehörige dürfen eine Beschäftigung nur mit Genehmigung der Bundesagentur ausüben und von Arbeitgebern nur beschäftigt werden, wenn sie eine solche Genehmigung besitzen, soweit nach Maßgabe des EU-Beitrittsvertrags abweichende Regelungen als Übergangsregelungen der Arbeitnehmerfreizügigkeit anzuwenden sind. Dies gilt für kroatische Staatsangehörige entsprechend, soweit für sie nach Maßgabe des Vertrages vom 9. Dezember 2011 über den Beitritt der Republik Kroatien zur Europäischen Union (BGBl. 2013 II S. 586) abweichende Regelungen als Übergangsregelungen von der Arbeitnehmerfreizügigkeit anzuwenden sind.
+(1) Kroatische Staatsangehörige und deren freizügigkeitsberechtigte Familienangehörige dürfen eine Beschäftigung nur mit Genehmigung der Bundesagentur ausüben und von Arbeitgebern nur beschäftigt werden, wenn sie eine solche Genehmigung besitzen, soweit nach Maßgabe des Vertrages vom 9. Dezember 2011 über den Beitritt der Republik Kroatien zur Europäischen Union (BGBl. 2013 II S. 586) abweichende Regelungen als Übergangsregelungen von der Arbeitnehmerfreizügigkeit anzuwenden sind.
 
 (2) Die Genehmigung wird befristet als Arbeitserlaubnis-EU erteilt, wenn nicht Anspruch auf eine unbefristete Erteilung als Arbeitsberechtigung-EU besteht. Die Genehmigung ist vor Aufnahme der Beschäftigung einzuholen.
 
@@ -5743,9 +5743,7 @@ Erster Unterabschnitt Beschäftigung von Ausländerinnen und Ausländern
 
 (6) Das Aufenthaltsgesetz und die aufgrund des § 42 des Aufenthaltsgesetzes erlassenen Rechtsverordnungen zum Arbeitsmarktzugang gelten entsprechend, soweit sie für die Ausländerinnen und Ausländer nach Absatz 1 günstigere Regelungen enthalten. Bei Anwendung der Vorschriften steht die Arbeitsgenehmigung-EU der Zustimmung zu einem Aufenthaltstitel nach § 4 Abs. 3 des Aufenthaltsgesetzes gleich.
 
-(7) Ein vor dem Tag, an dem der Vertrag vom 25. April 2005 über den Beitritt der Republik Bulgarien und Rumäniens zur Europäischen Union (BGBl. 2006 II S. 1146) für die Bundesrepublik Deutschland in Kraft getreten ist, zur Ausübung der Beschäftigung eines Staatsangehörigen nach Absatz 1 erteilter Aufenthaltstitel zur Ausübung einer Beschäftigung gilt als Arbeitserlaubnis-EU fort, wobei Beschränkungen des Aufenthaltstitels hinsichtlich der Beschäftigungsbedingungen als Beschränkungen der Arbeitserlaubnis-EU bestehen bleiben. Ein vor diesem Zeitpunkt erteilter Aufenthaltstitel, der zur unbeschränkten Ausübung einer Beschäftigung berechtigt, gilt als Arbeitsberechtigung-EU fort.
-
-(8) Ein vor dem Tag, an dem der Vertrag vom 9. Dezember 2011 über den Beitritt der Republik Kroatien zur Europäischen Union (BGBl. 2013 II S. 586) für die Bundesrepublik Deutschland in Kraft getreten ist, erteilter Aufenthaltstitel zur Ausübung einer Beschäftigung gilt als Arbeitserlaubnis-EU fort, wobei Beschränkungen des Aufenthaltstitels hinsichtlich der Ausübung der Beschäftigung als Beschränkungen der Arbeitserlaubnis-EU bestehen bleiben. Ein vor diesem Zeitpunkt erteilter Aufenthaltstitel, der zur unbeschränkten Ausübung einer Beschäftigung berechtigt, gilt als Arbeitsberechtigung-EU fort.
+(7) Ein vor dem Tag, an dem der Vertrag vom 9. Dezember 2011 über den Beitritt der Republik Kroatien zur Europäischen Union (BGBl. 2013 II S. 586) für die Bundesrepublik Deutschland in Kraft getreten ist, erteilter Aufenthaltstitel zur Ausübung einer Beschäftigung gilt als Arbeitserlaubnis-EU fort, wobei Beschränkungen des Aufenthaltstitels hinsichtlich der Ausübung der Beschäftigung als Beschränkungen der Arbeitserlaubnis-EU bestehen bleiben. Ein vor diesem Zeitpunkt erteilter Aufenthaltstitel, der zur unbeschränkten Ausübung einer Beschäftigung berechtigt, gilt als Arbeitsberechtigung-EU fort.
 
 ### (XXXX) §§ 285 u. 286 (weggefallen)
 
@@ -5983,18 +5981,18 @@ Die Agentur für Arbeit ist berechtigt, die Vorlage der ärztlichen Bescheinigun
 
 ### § 312 Arbeitsbescheinigung
 
-(1) Bei Beendigung eines Beschäftigungsverhältnisses hat der Arbeitgeber alle Tatsachen zu bescheinigen, die für die Entscheidung über den Anspruch auf Arbeitslosengeld oder Übergangsgeld erheblich sein können (Arbeitsbescheinigung); dabei hat er den von der Bundesagentur hierfür vorgesehenen Vordruck zu benutzen. In der Arbeitsbescheinigung sind insbesondere
+(1) Der Arbeitgeber hat auf Verlangen der Arbeitnehmerin oder des Arbeitnehmers oder auf Verlangen der Bundesagentur alle Tatsachen zu bescheinigen, die für die Entscheidung über den Anspruch auf Arbeitslosengeld oder Übergangsgeld erheblich sein können (Arbeitsbescheinigung); dabei hat er den von der Bundesagentur hierfür vorgesehenen Vordruck zu benutzen. In der Arbeitsbescheinigung sind insbesondere
 
 1.  
 die Art der Tätigkeit der Arbeitnehmerin oder des Arbeitnehmers,
 
 2.  
-Beginn, Ende, Unterbrechungen und Grund für die Beendigung des Beschäftigungsverhältnisses und
+Beginn, Ende, Unterbrechung und Grund für die Beendigung des Beschäftigungsverhältnisses und
 
 3.  
 das Arbeitsentgelt und die sonstigen Geldleistungen, die die Arbeitnehmerin oder der Arbeitnehmer erhalten oder zu beanspruchen hat,
 
-anzugeben. Die Arbeitsbescheinigung ist der Arbeitnehmerin oder dem Arbeitnehmer vom Arbeitgeber bei Beendigung des Beschäftigungsverhältnisses auszuhändigen.
+anzugeben. Die Arbeitsbescheinigung ist der Arbeitnehmerin oder dem Arbeitnehmer vom Arbeitgeber auszuhändigen.
 
 (2) Macht der Arbeitgeber geltend, die Arbeitslosigkeit sei die Folge eines Arbeitskampfes, so hat er dies darzulegen, glaubhaft zu machen und eine Stellungnahme der Betriebsvertretung beizufügen. Der Arbeitgeber hat der Betriebsvertretung die für die Stellungnahme erforderlichen Angaben zu machen.
 
@@ -6004,7 +6002,7 @@ anzugeben. Die Arbeitsbescheinigung ist der Arbeitnehmerin oder dem Arbeitnehmer
 
 ### § 312a Arbeitsbescheinigung für Zwecke des über- und zwischenstaatlichen Rechts
 
-(1) Der Arbeitgeber hat auf Verlangen der Bundesagentur für Arbeit alle Tatsachen zu bescheinigen, deren Kenntnis für die Entscheidung über einen Anspruch auf Leistungen bei Arbeitslosigkeit eines von der Verordnung erfassten Staates notwendig ist und zu deren Bescheinigung die Bundesagentur für Arbeit nach Artikel 54 der Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit (ABl. L 284 vom 30.10.2009, S. 1) verpflichtet ist. Der Arbeitgeber hat dabei den von der Bundesagentur für Arbeit hierfür vorgesehenen Vordruck zu benutzen. Die Sätze 1 und 2 gelten entsprechend für Bescheinigungspflichten der Bundesagentur für Arbeit gegenüber einem ausländischen Träger nach anderen Regelungen des über- oder zwischenstaatlichen Rechts. Die Bescheinigungspflichten umfassen nur Daten, zu deren Aufbewahrung der Arbeitgeber nach deutschen Rechtsvorschriften verpflichtet ist.
+(1) Der Arbeitgeber hat auf Verlangen der Bundesagentur alle Tatsachen zu bescheinigen, deren Kenntnis für die Entscheidung über einen Anspruch auf Leistungen bei Arbeitslosigkeit eines von der Verordnung erfassten Staates notwendig ist und zu deren Bescheinigung die Bundesagentur nach Artikel 54 der Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit (ABl. L 284 vom 30.10.2009, S. 1) verpflichtet ist. Der Arbeitgeber hat dabei den von der Bundesagentur hierfür vorgesehenen Vordruck zu benutzen. Die Sätze 1 und 2 gelten entsprechend für Bescheinigungspflichten der Bundesagentur gegenüber einem ausländischen Träger nach anderen Regelungen des über- oder zwischenstaatlichen Rechts. Die Bescheinigungspflichten umfassen nur Daten, zu deren Aufbewahrung der Arbeitgeber nach deutschen Rechtsvorschriften verpflichtet ist.
 
 (2) Die Bescheinigungspflicht gilt auch in den Fällen des § 312 Absatz 3 und 4.
 
@@ -6015,6 +6013,10 @@ anzugeben. Die Arbeitsbescheinigung ist der Arbeitnehmerin oder dem Arbeitnehmer
 (2) Wer eine laufende Geldleistung beantragt hat oder bezieht und Dienst- oder Werkleistungen gegen Vergütung erbringt, ist verpflichtet, dem Dienstberechtigten oder Besteller den für die Bescheinigung des Arbeitsentgelts oder der Vergütung vorgeschriebenen Vordruck unverzüglich vorzulegen.
 
 (3) Die Absätze 1 und 2 gelten für Personen, die Kurzarbeitergeld beziehen oder für die Kurzarbeitergeld beantragt worden ist, entsprechend.
+
+### § 313a Elektronische Bescheinigung
+
+Die Bescheinigungen nach den §§ 312, 312a und 313 können von dem Bescheinigungspflichtigen der Bundesagentur elektronisch unter den Voraussetzungen des § 23c Absatz 2a des Vierten Buches übermittelt werden, es sei denn, dass die Person, für die eine Bescheinigung nach den §§ 312 und 313 auszustellen ist, der Übermittlung widerspricht. Die Person, für die die Bescheinigung auszustellen ist, ist von dem Bescheinigungspflichtigen in allgemeiner Form schriftlich auf das Widerspruchsrecht hinzuweisen. § 312 Absatz 1 Satz 3 und § 313 Absatz 1 Satz 3 finden keine Anwendung; die Bundesagentur hat der Person, für die eine Bescheinigung nach den §§ 312 und 313 elektronisch übermittelt worden ist, unverzüglich einen Ausdruck der Daten zuzuleiten.
 
 ### § 314 Insolvenzgeldbescheinigung
 
@@ -7127,6 +7129,8 @@ Dritter Abschnitt Vorstand und Verwaltung
 (5) Die Zeit der hauptberuflichen Tätigkeit der nach Absatz 3 Satz 1 beurlaubten Beamtinnen und Beamten ist ruhegehaltfähig. Die Voraussetzungen des § 28 Abs. 1 Satz 1 des Bundesbesoldungsgesetzes gelten für die Zeit der Beurlaubung als erfüllt. Ein Versorgungszuschlag wird nicht erhoben. Die Anwartschaft der beurlaubten Beamtinnen und Beamten auf Versorgung bei verminderter Erwerbsfähigkeit und im Alter sowie auf Hinterbliebenenversorgung nach beamtenrechtlichen Vorschriften und Grundsätzen ist gewährleistet.
 
 (6) Während der hauptberuflichen Tätigkeit nach Absatz 3 Satz 1 besteht im Krankheitsfall ein zeitlich unbegrenzter Anspruch auf Entgeltfortzahlung in Höhe der Besoldung, die der beurlaubten Beamtin oder dem beurlaubten Beamten vor der Beurlaubung zugestanden hat, mindestens jedoch in Höhe des Krankengeldes, das der beurlaubten Beamtin oder dem beurlaubten Beamten nach den §§ 44 ff. des Fünften Buches zustehen würde. Entgeltansprüche, die der beurlaubten Beamtin oder dem beurlaubten Beamten im Krankheitsfall nach dem Entgeltfortzahlungsgesetz, einem Tarifvertrag oder dem Arbeits- oder Anstellungsvertrag zustehen, bleiben unberührt und werden auf den Entgeltfortzahlungsanspruch nach Satz 1 angerechnet. Darüber hinaus besteht bei Krankheit und Pflegebedürftigkeit ein Anspruch auf Beihilfe in entsprechender Anwendung der Beihilferegelungen für Beamtinnen und Beamte mit Dienstbezügen.
+
+(7) Werden einer Beamtin oder einem Beamten der Bundesagentur mit Bestellung zur Geschäftsführerin oder zum Geschäftsführer einer gemeinsamen Einrichtung nach § 44d Absatz 2 Satz 1 des Zweiten Buches Aufgaben eines höherwertigen Amtes übertragen, erhält sie oder er ab dem siebten Monat der ununterbrochenen Wahrnehmung dieser Aufgaben im Beamtenverhältnis eine Zulage, wenn in diesem Zeitpunkt die haushaltsrechtlichen Voraussetzungen für die Übertragung dieses Amtes vorliegen. Die Zulage wird in Höhe des Unterschiedsbetrages zwischen dem Grundgehalt ihrer oder seiner Besoldungsgruppe und dem Grundgehalt der Besoldungsgruppe gezahlt, der das höherwertige Amt zugeordnet ist, höchstens jedoch der dritten folgenden Besoldungsgruppe.
 
 ### § 388 Ernennung der Beamtinnen und Beamten
 
