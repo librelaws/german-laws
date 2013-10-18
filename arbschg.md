@@ -2,7 +2,10 @@ Gesetz über die Durchführung von Maßnahmen des Arbeitsschutzes zur Verbesseru
 =====================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 15 Abs. 89 G v. 5.2.2009 I 160
+Zuletzt geändert durch Art. 8 G v. 19.10.2013 I 3836
+
+Sonst  
+Änderung der Inhaltsübersicht durch Art. 1 Nr. 1 V v. 23.10.2013 I 3882 ist nicht ausführbar, da dieses G kein amtliche Inhaltsübersicht hat
 
 ### 
 
@@ -93,7 +96,7 @@ Vorkehrungen zu treffen, daß die Maßnahmen erforderlichenfalls bei allen Täti
 Der Arbeitgeber hat bei Maßnahmen des Arbeitsschutzes von folgenden allgemeinen Grundsätzen auszugehen:
 
 1.  
-Die Arbeit ist so zu gestalten, daß eine Gefährdung für Leben und Gesundheit möglichst vermieden und die verbleibende Gefährdung möglichst gering gehalten wird;
+Die Arbeit ist so zu gestalten, daß eine Gefährdung für das Leben sowie die physische und die psychische Gesundheit möglichst vermieden und die verbleibende Gefährdung möglichst gering gehalten wird;
 
 2.  
 Gefahren sind an ihrer Quelle zu bekämpfen;
@@ -137,11 +140,14 @@ die Gestaltung, die Auswahl und den Einsatz von Arbeitsmitteln, insbesondere von
 die Gestaltung von Arbeits- und Fertigungsverfahren, Arbeitsabläufen und Arbeitszeit und deren Zusammenwirken,
 
 5.  
-unzureichende Qualifikation und Unterweisung der Beschäftigten.
+unzureichende Qualifikation und Unterweisung der Beschäftigten,
+
+6.  
+psychische Belastungen bei der Arbeit.
 
 ### § 6 Dokumentation
 
-(1) Der Arbeitgeber muß über die je nach Art der Tätigkeiten und der Zahl der Beschäftigten erforderlichen Unterlagen verfügen, aus denen das Ergebnis der Gefährdungsbeurteilung, die von ihm festgelegten Maßnahmen des Arbeitsschutzes und das Ergebnis ihrer Überprüfung ersichtlich sind. Bei gleichartiger Gefährdungssituation ist es ausreichend, wenn die Unterlagen zusammengefaßte Angaben enthalten. Soweit in sonstigen Rechtsvorschriften nichts anderes bestimmt ist, gilt Satz 1 nicht für Arbeitgeber mit zehn oder weniger Beschäftigten; die zuständige Behörde kann, wenn besondere Gefährdungssituationen gegeben sind, anordnen, daß Unterlagen verfügbar sein müssen. Bei der Feststellung der Zahl der Beschäftigten nach Satz 3 sind Teilzeitbeschäftigte mit einer regelmäßigen wöchentlichen Arbeitszeit von nicht mehr als 20 Stunden mit 0,5 und nicht mehr als 30 Stunden mit 0,75 zu berücksichtigen.
+(1) Der Arbeitgeber muß über die je nach Art der Tätigkeiten und der Zahl der Beschäftigten erforderlichen Unterlagen verfügen, aus denen das Ergebnis der Gefährdungsbeurteilung, die von ihm festgelegten Maßnahmen des Arbeitsschutzes und das Ergebnis ihrer Überprüfung ersichtlich sind. Bei gleichartiger Gefährdungssituation ist es ausreichend, wenn die Unterlagen zusammengefaßte Angaben enthalten.
 
 (2) Unfälle in seinem Betrieb, bei denen ein Beschäftigter getötet oder so verletzt wird, daß er stirbt oder für mehr als drei Tage völlig oder teilweise arbeits- oder dienstunfähig wird, hat der Arbeitgeber zu erfassen.
 
@@ -196,7 +202,7 @@ der vertretungsberechtigte Gesellschafter einer Personenhandelsgesellschaft,
 Personen, die mit der Leitung eines Unternehmens oder eines Betriebes beauftragt sind, im Rahmen der ihnen übertragenen Aufgaben und Befugnisse,
 
 5.  
-sonstige nach Absatz 2 oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung oder nach einer Unfallverhütungsvorschrift beauftragte Personen im Rahmen ihrer Aufgaben und Befugnisse.
+sonstige nach Absatz 2 oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung oder nach einer Unfallverhütungsvorschrift verpflichtete Personen im Rahmen ihrer Aufgaben und Befugnisse.
 
 (2) Der Arbeitgeber kann zuverlässige und fachkundige Personen schriftlich damit beauftragen, ihm obliegende Aufgaben nach diesem Gesetz in eigener Verantwortung wahrzunehmen.
 
@@ -329,7 +335,7 @@ Die zuständigen Landesbehörden vereinbaren mit den Unfallversicherungsträgern
 
 (4) Die für den Arbeitsschutz zuständige oberste Landesbehörde kann mit Trägern der gesetzlichen Unfallversicherung vereinbaren, daß diese in näher zu bestimmenden Tätigkeitsbereichen die Einhaltung dieses Gesetzes, bestimmter Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen überwachen. In der Vereinbarung sind Art und Umfang der Überwachung sowie die Zusammenarbeit mit den staatlichen Arbeitsschutzbehörden festzulegen.
 
-(5) Soweit nachfolgend nichts anderes bestimmt ist, ist zuständige Behörde für die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen in den Betrieben und Verwaltungen des Bundes die Zentralstelle für Arbeitsschutz beim Bundesministerium des Innern. Im Auftrag der Zentralstelle handelt, soweit nichts anderes bestimmt ist, die Unfallkasse des Bundes, die insoweit der Aufsicht des Bundesministeriums des Innern unterliegt; Aufwendungen werden nicht erstattet. Im öffentlichen Dienst im Geschäftsbereich des Bundesministeriums für Verkehr, Bau und Stadtentwicklung führt die Eisenbahn-Unfallkasse, soweit diese Träger der Unfallversicherung ist, dieses Gesetz durch. Für Betriebe und Verwaltungen in den Geschäftsbereichen des Bundesministeriums der Verteidigung und des Auswärtigen Amtes hinsichtlich seiner Auslandsvertretungen führt das jeweilige Bundesministerium, soweit es jeweils zuständig ist, oder die von ihm jeweils bestimmte Stelle dieses Gesetz durch. Im Geschäftsbereich des Bundesministeriums der Finanzen führt die Unfallkasse Post und Telekom dieses Gesetz durch, soweit der Geschäftsbereich des ehemaligen Bundesministeriums für Post und Telekommunikation betroffen ist. Die Sätze 1 bis 4 gelten auch für Betriebe und Verwaltungen, die zur Bundesverwaltung gehören, für die aber eine Berufsgenossenschaft Träger der Unfallversicherung ist. Die zuständigen Bundesministerien können mit den Berufsgenossenschaften für diese Betriebe und Verwaltungen vereinbaren, daß das Gesetz von den Berufsgenossenschaften durchgeführt wird; Aufwendungen werden nicht erstattet.
+(5) Soweit nachfolgend nichts anderes bestimmt ist, ist zuständige Behörde für die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen in den Betrieben und Verwaltungen des Bundes die Zentralstelle für Arbeitsschutz beim Bundesministerium des Innern. Im Auftrag der Zentralstelle handelt, soweit nichts anderes bestimmt ist, die Unfallversicherung Bund und Bahn, die insoweit der Aufsicht des Bundesministeriums des Innern unterliegt; Aufwendungen werden nicht erstattet. Im öffentlichen Dienst im Geschäftsbereich des Bundesministeriums für Verkehr, Bau und Stadtentwicklung führt die Unfallversicherung Bund und Bahn, soweit die Eisenbahn-Unfallkasse bis zum 31. Dezember 2014 Träger der Unfallversicherung war, dieses Gesetz durch. Für Betriebe und Verwaltungen in den Geschäftsbereichen des Bundesministeriums der Verteidigung und des Auswärtigen Amtes hinsichtlich seiner Auslandsvertretungen führt das jeweilige Bundesministerium, soweit es jeweils zuständig ist, oder die von ihm jeweils bestimmte Stelle dieses Gesetz durch. Im Geschäftsbereich des Bundesministeriums der Finanzen führt die Unfallkasse Post und Telekom dieses Gesetz durch, soweit der Geschäftsbereich des ehemaligen Bundesministeriums für Post und Telekommunikation betroffen ist. Die Sätze 1 bis 4 gelten auch für Betriebe und Verwaltungen, die zur Bundesverwaltung gehören, für die aber eine Berufsgenossenschaft Träger der Unfallversicherung ist. Die zuständigen Bundesministerien können mit den Berufsgenossenschaften für diese Betriebe und Verwaltungen vereinbaren, daß das Gesetz von den Berufsgenossenschaften durchgeführt wird; Aufwendungen werden nicht erstattet.
 
 ### § 22 Befugnisse der zuständigen Behörden
 
