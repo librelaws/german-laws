@@ -2,7 +2,7 @@ Zweites Gesetz zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bun
 =========================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 15 Abs. 46 G v. 5.2.2009 I 160
+Zuletzt geändert durch Art. 14 G v. 19.10.2013 I 3836
 
 ### 
 
@@ -203,13 +203,13 @@ den Rahmen des Bundesbesoldungsgesetzes, insbesondere das für die Bundesbeamten
 2.  
 alle weiteren Geld- und geldwerten Leistungen sowie die Versorgung im Rahmen und nach den Grundsätzen der für die Bundesbeamten geltenden Bestimmungen zu regeln.
 
-(2) Bei der besoldungsrechtlichen Einstufung der Dienstposten der Geschäftsführer und stellvertretenden Geschäftsführer der in Absatz 1 genannten bundesunmittelbaren Körperschaften im Bereich der gesetzlichen Unfallversicherung sowie der landwirtschaftlichen Sozialversicherung sind Einstufungshöchstgrenzen einzuhalten. Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates unter Angabe von Bewertungskriterien und deren Gewichtung Höchstgrenzen nach Satz 1 festzulegen. Dabei sind insbesondere Aufgabenbereich, Größe und Bedeutung der Körperschaft, die gesetzlich übertragenen weiteren Aufgaben sowie die bundesgesetzlichen Einstufungen von Geschäftsführern anderer Sozialversicherungsträger zu berücksichtigen. Die Besoldungsgruppe B 6 darf nicht überschritten werden. Der stellvertretende Geschäftsführer ist jeweils mindestens eine Besoldungsgruppe niedriger einzustufen als der Geschäftsführer.
+(2) (weggefallen)
 
 (3) u. (4) weggefallen)
 
 (5) (weggefallen)
 
-(6) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates für die in Absatz 1 genannten bundesunmittelbaren Körperschaften im Bereich der gesetzlichen Unfallversicherung sowie der landwirtschaftlichen Sozialversicherung unter Berücksichtigung der für Bundesbeamte geltenden Grundsätze zur sachgerechten Bewertung der Funktionen für die Zahl der Beförderungsämter Obergrenzen festzulegen. Die Dienstposten der Aufsichtspersonen dürfen entsprechend Absatz 2 Satz 5 bewertet und eingestuft werden.
+(6) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates für die in Absatz 1 genannten bundesunmittelbaren Körperschaften im Bereich der gesetzlichen Unfallversicherung sowie der landwirtschaftlichen Sozialversicherung unter Berücksichtigung der für Bundesbeamte geltenden Grundsätze zur sachgerechten Bewertung der Funktionen für die Zahl der Beförderungsämter Obergrenzen festzulegen. Die Dienstposten der Aufsichtspersonen dürfen entsprechend § 147a Absatz 3 des Siebten Buches Sozialgesetzbuch bewertet und eingestuft werden.
 
 Art VIII
 --------
