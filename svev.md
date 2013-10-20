@@ -2,19 +2,15 @@ Verordnung über die sozialversicherungsrechtliche Beurteilung von Zuwendungen d
 ========================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 19.12.2012 I 2714
+Zuletzt geändert durch Art. 1 V v. 21.10.2013 I 3871
 
 ### 
 
 ```
 (+++ Textnachweis ab: 1.1.2007 +++)
- 
-Die V wurde als Artikel 1 der V v. 21.12.2006 I 3385 von der Bundesregierung, 
-dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium des 
-Innern im Einvernehmen mit dem Bundesministerium der Finanzen und mit 
-Zustimmung des Bundesrates erlassen. Sie ist gem. Art. 4 Abs. 1 Satz 1 dieser
-V am 1.1.2007 in Kraft getreten.
 ```
+
+Die V wurde als Artikel 1 der V v. 21.12.2006 I 3385 von der Bundesregierung, dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium der Finanzen und mit Zustimmung des Bundesrates erlassen. Sie ist gem. Art. 4 Abs. 1 Satz 1 dieser V am 1.1.2007 in Kraft getreten.
 
 ### § 1 Dem sozialversicherungspflichtigen Arbeitsentgelt nicht zuzurechnende Zuwendungen
 
@@ -74,16 +70,16 @@ Die in Satz 1 Nr. 2 bis 4 genannten Einnahmen, Beiträge und Zuwendungen sind ni
 
 ### § 2 Verpflegung, Unterkunft und Wohnung als Sachbezug
 
-(1) Der Wert der als Sachbezug zur Verfügung gestellten Verpflegung wird auf monatlich 224 Euro festgesetzt. Dieser Wert setzt sich zusammen aus dem Wert für
+(1) Der Wert der als Sachbezug zur Verfügung gestellten Verpflegung wird auf monatlich 229 Euro festgesetzt. Dieser Wert setzt sich zusammen aus dem Wert für
 
 1.  
-Frühstück von 48 Euro,
+Frühstück von 49 Euro,
 
 2.  
-Mittagessen von 88 Euro und
+Mittagessen von 90 Euro und
 
 3.  
-Abendessen von 88 Euro.
+Abendessen von 90 Euro.
 
 (2) Für Verpflegung, die nicht nur dem Beschäftigten, sondern auch seinen nicht bei demselben Arbeitgeber beschäftigten Familienangehörigen zur Verfügung gestellt wird, erhöhen sich die nach Absatz 1 anzusetzenden Werte je Familienangehörigen,
 
@@ -101,7 +97,7 @@ der das 7. Lebensjahr noch nicht vollendet hat, um 30 Prozent.
 
 Bei der Berechnung des Wertes ist das Lebensalter des Familienangehörigen im ersten Entgeltabrechnungszeitraum des Kalenderjahres maßgebend. Sind Ehegatten bei demselben Arbeitgeber beschäftigt, sind die Erhöhungswerte nach Satz 1 für Verpflegung der Kinder beiden Ehegatten je zur Hälfte zuzurechnen.
 
-(3) Der Wert einer als Sachbezug zur Verfügung gestellten Unterkunft wird auf monatlich 216 Euro festgesetzt. Der Wert der Unterkunft nach Satz 1 vermindert sich
+(3) Der Wert einer als Sachbezug zur Verfügung gestellten Unterkunft wird auf monatlich 221 Euro festgesetzt. Der Wert der Unterkunft nach Satz 1 vermindert sich
 
 1.  
 bei Aufnahme des Beschäftigten in den Haushalt des Arbeitgebers oder bei Unterbringung in einer Gemeinschaftsunterkunft um 15 Prozent,
@@ -123,7 +119,7 @@ mit mehr als drei Beschäftigten um 60 Prozent.
 
 Ist es nach Lage des einzelnen Falles unbillig, den Wert einer Unterkunft nach Satz 1 zu bestimmen, kann die Unterkunft mit dem ortsüblichen Mietpreis bewertet werden; Absatz 4 Satz 2 gilt entsprechend.
 
-(4) Für eine als Sachbezug zur Verfügung gestellte Wohnung ist als Wert der ortsübliche Mietpreis unter Berücksichtigung der sich aus der Lage der Wohnung zum Betrieb ergebenden Beeinträchtigungen anzusetzen. Ist im Einzelfall die Feststellung des ortsüblichen Mietpreises mit außergewöhnlichen Schwierigkeiten verbunden, kann die Wohnung mit 3,80 Euro je Quadratmeter monatlich, bei einfacher Ausstattung (ohne Sammelheizung oder ohne Bad oder Dusche) mit 3,10 Euro je Quadratmeter monatlich bewertet werden. Bestehen gesetzliche Mietpreisbeschränkungen, sind die durch diese Beschränkungen festgelegten Mietpreise als Werte anzusetzen. Dies gilt auch für die vertraglichen Mietpreisbeschränkungen im sozialen Wohnungsbau, die nach den jeweiligen Förderrichtlinien des Landes für den betreffenden Förderjahrgang sowie für die mit Wohnungsfürsorgemitteln aus öffentlichen Haushalten geförderten Wohnungen vorgesehen sind. Für Energie, Wasser und sonstige Nebenkosten ist der übliche Preis am Abgabeort anzusetzen.
+(4) Für eine als Sachbezug zur Verfügung gestellte Wohnung ist als Wert der ortsübliche Mietpreis unter Berücksichtigung der sich aus der Lage der Wohnung zum Betrieb ergebenden Beeinträchtigungen anzusetzen. Ist im Einzelfall die Feststellung des ortsüblichen Mietpreises mit außergewöhnlichen Schwierigkeiten verbunden, kann die Wohnung mit 3,88 Euro je Quadratmeter monatlich, bei einfacher Ausstattung (ohne Sammelheizung oder ohne Bad oder Dusche) mit 3,17 Euro je Quadratmeter monatlich bewertet werden. Bestehen gesetzliche Mietpreisbeschränkungen, sind die durch diese Beschränkungen festgelegten Mietpreise als Werte anzusetzen. Dies gilt auch für die vertraglichen Mietpreisbeschränkungen im sozialen Wohnungsbau, die nach den jeweiligen Förderrichtlinien des Landes für den betreffenden Förderjahrgang sowie für die mit Wohnungsfürsorgemitteln aus öffentlichen Haushalten geförderten Wohnungen vorgesehen sind. Für Energie, Wasser und sonstige Nebenkosten ist der übliche Preis am Abgabeort anzusetzen.
 
 (5) Werden Verpflegung, Unterkunft oder Wohnung verbilligt als Sachbezug zur Verfügung gestellt, ist der Unterschiedsbetrag zwischen dem vereinbarten Preis und dem Wert, der sich bei freiem Bezug nach den Absätzen 1 bis 4 ergeben würde, dem Arbeitsentgelt zuzurechnen.
 
@@ -131,7 +127,7 @@ Ist es nach Lage des einzelnen Falles unbillig, den Wert einer Unterkunft nach S
 
 ### § 3 Sonstige Sachbezüge
 
-(1) Werden Sachbezüge, die nicht von § 2 erfasst werden, unentgeltlich zur Verfügung gestellt, ist als Wert für diese Sachbezüge der um übliche Preisnachlässe geminderte übliche Endpreis am Abgabeort anzusetzen. Sind auf Grund des § 8 Abs. 2 Satz 8 des Einkommensteuergesetzes Durchschnittswerte festgesetzt worden, sind diese Werte maßgebend. Findet § 8 Abs. 2 Satz 2, 3, 4 oder 5 oder Abs. 3 Satz 1 des Einkommensteuergesetzes Anwendung, sind die dort genannten Werte maßgebend. § 8 Abs. 2 Satz 9 des Einkommensteuergesetzes gilt entsprechend.
+(1) Werden Sachbezüge, die nicht von § 2 erfasst werden, unentgeltlich zur Verfügung gestellt, ist als Wert für diese Sachbezüge der um übliche Preisnachlässe geminderte übliche Endpreis am Abgabeort anzusetzen. Sind auf Grund des § 8 Absatz 2 Satz 10 des Einkommensteuergesetzes Durchschnittswerte festgesetzt worden, sind diese Werte maßgebend. Findet § 8 Abs. 2 Satz 2, 3, 4 oder 5 oder Abs. 3 Satz 1 des Einkommensteuergesetzes Anwendung, sind die dort genannten Werte maßgebend. § 8 Absatz 2 Satz 11 des Einkommensteuergesetzes gilt entsprechend.
 
 (2) Werden Sachbezüge, die nicht von § 2 erfasst werden, verbilligt zur Verfügung gestellt, ist als Wert für diese Sachbezüge der Unterschiedsbetrag zwischen dem vereinbarten Preis und dem Wert, der sich bei freiem Bezug nach Absatz 1 ergeben würde, dem Arbeitsentgelt zuzurechnen.
 
