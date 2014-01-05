@@ -2,7 +2,7 @@ Verordnung über die Zulassung von Erhaltungssorten und das Inverkehrbringen von
 ===========================================================================================================================
 
 Stand  
-Geändert durch Art. 2 V v. 17.12.2010 I 2128
+Zuletzt geändert durch Art. 3 V v. 6.1.2014 I 26
 
 ### 
 
@@ -164,7 +164,7 @@ Abweichend von Satz 1 Nummer 1 sind mehrere Bezeichnungen für eine Sorte zuläs
 von Saatgut abstammt, das nach den Grundsätzen systematischer Erhaltungszüchtung gewonnen worden ist,
 
 2.  
-aus Vermehrungsbeständen stammt, deren Standort der Vermehrer vor der Aussaat der für die Ursprungsregion, oder im Falle eines Vermehrungsbestandes in einer Region nach Absatz 3, der für diese Region zuständigen Behörde mitgeteilt hat,
+aus Vermehrungsbeständen stammt, deren Standort der Vermehrer bis zu dem in Anlage 1 der Saatgutverordnung jeweils genannten Termin der für die Ursprungsregion, oder im Falle eines Vermehrungsbestandes in einer Region nach Absatz 3, der für diese Region zuständigen Behörde mitgeteilt hat,
 
 3.  
 mindestens die Voraussetzungen für
@@ -267,7 +267,7 @@ das Jahr der Verschließung mit der Angabe „verschlossen ... “ oder, außer 
 Pflanzenart,
 
 5.  
-Sortenbezeichnung der Erhaltungssorte,
+Sortenbezeichnung der Erhaltungssorte oder Amateursorte,
 
 6.  
 die Angabe „Erhaltungssorte“, bei Erhaltungssorten von Gemüse die Angabe „Standardsaatgut einer Erhaltungssorte” , bei Amateursorten die Angabe „Standardsaatgut einer Amateursorte” ,
