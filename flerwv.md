@@ -2,7 +2,7 @@ Verordnung über den Erwerb land- und forstwirtschaftlicher Flächen und das Ver
 ================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 128 G v. 22.12.2011 I 3044
+Zuletzt geändert durch Art. 1 V v. 21.2.2014 I 147
 
 ### 
 
@@ -63,7 +63,11 @@ Ein Berechtigter nach § 3 Abs. 5 Satz 1 des Ausgleichsleistungsgesetzes kann la
 
 (2) Soweit Erbengemeinschaften nach § 3 Abs. 8 Satz 1 des Ausgleichsleistungsgesetzes berechtigt sind, kann die Erwerbsmöglichkeit auf ein Mitglied übertragen oder auf mehrere Mitglieder aufgeteilt werden. § 1 Abs. 4 gilt entsprechend.
 
-(3) Berechtigte haben Vorrang vor sonstigen Bewerbern. Berechtigte, die Waldflächen nach § 3 Abs. 5 des Ausgleichsleistungsgesetzes erwerben wollen, sind, vorbehaltlich der Regelung des Absatzes 4, gegenüber Berechtigten nach § 3 Abs. 8 des Ausgleichsleistungsgesetzes vorrangig zu berücksichtigen. Bewerben sich mehrere Berechtigte nach § 3 Abs. 8 des Ausgleichsleistungsgesetzes, trifft die Privatisierungsstelle ihre Entscheidung nach den folgenden Kriterien und in der genannten Rang- und Reihenfolge:
+(3) Berechtigte haben Vorrang vor sonstigen Bewerbern. Berechtigte, die Waldflächen nach § 3 Abs. 5 des Ausgleichsleistungsgesetzes erwerben wollen, sind, vorbehaltlich der Regelung des Absatzes 6, gegenüber Berechtigten nach § 3 Abs. 8 des Ausgleichsleistungsgesetzes vorrangig zu berücksichtigen. Bewerben sich mehrere Berechtigte nach § 3 Absatz 5 des Ausgleichsleistungsgesetzes um dieselbe Fläche, ist Absatz 5 entsprechend anzuwenden.
+
+(4) Berechtigte nach § 3 Absatz 5 des Ausgleichsleistungsgesetzes, deren Ausgleichsleistung nach § 2 Absatz 1 Satz 1 des Entschädigungsgesetzes nicht ausreicht, um eine ausgeschriebene Waldfläche zu erwerben, können diese unter Einsatz ihrer Ausgleichsleistung im Übrigen nach § 3 Absatz 8 des Ausgleichsleistungsgesetzes erwerben (Kombinationsberechtigte). In diesem Fall haben sie Vorrang vor Berechtigten nach § 3 Absatz 8 des Ausgleichsleistungsgesetzes. Bewerben sich mehrere Kombinationsberechtigte um dieselbe Waldfläche, so hat der Berechtigte mit der höchsten einzusetzenden Ausgleichsleistung Vorrang.
+
+(5) Bewerben sich mehrere Berechtigte nach § 3 Absatz 8 des Ausgleichsleistungsgesetzes, trifft die Privatisierungsstelle ihre Entscheidung nach den folgenden Kriterien und in der genannten Rang- und Reihenfolge:
 
 1.  
 die Waldflächen stammen überwiegend aus dem ehemaligen Eigentum eines Berechtigten;
@@ -77,7 +81,7 @@ ein Berechtigter hat im Verhältnis zum Umfang der ihm enteigneten land- und for
 4.  
 die Waldflächen liegen in enger räumlicher Nähe zum ehemaligen Eigentum.
 
-(4) Es kann weder die Bildung bestimmter Verkaufseinheiten noch die Zerteilung forstbetrieblich sinnvoll zusammengehörender Waldflächen verlangt werden.
+(6) Es kann weder die Bildung bestimmter Verkaufseinheiten noch die Zerteilung forstbetrieblich sinnvoll zusammengehörender Waldflächen verlangt werden.
 
 ### § 5 Kaufpreis für landwirtschaftliche Flächen
 
