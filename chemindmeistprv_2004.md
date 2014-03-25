@@ -2,15 +2,17 @@ Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeis
 =====================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 23.7.2010 I 1010
+Zuletzt geändert durch Art. 25 V v. 26.3.2014 I 274
 
 ### 
 
+```
 (+++ Textnachweis ab: 28.9.2004 +++)
+```
 
 ### Eingangsformel
 
-Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBI. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhören des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit:
+Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhören des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit:
 
 ### § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -515,10 +517,14 @@ hat am ................................ die Prüfung zum anerkannten Abschluss
  
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
-Chemie vom 15. September 2004 (BGBl. I S. 2337), die zuletzt durch Artikel 2 
-der Verordnung vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
+Chemie vom 15. September 2004 (BGBl. I S. 2337), die zuletzt durch Artikel 25
+der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
  
-                              bestanden.
+                              bestanden. 
+ 
+Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
  
 Datum ...................................
 Unterschrift ............................
@@ -548,8 +554,8 @@ hat am .............................. die Prüfung zum anerkannten Abschluss
  
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
-Chemie vom 15. September 2004 (BGBl. I S. 2337), die zuletzt durch Artikel 2 
-der Verordnung vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist, mit folgenden
+Chemie vom 15. September 2004 (BGBl. I S. 2337), die zuletzt durch Artikel 25 
+der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit folgenden
 Ergebnissen 1) bestanden:
  
                                                                    Note
@@ -586,7 +592,11 @@ III. Berufs- und arbeitspädagogische Qualifikationen
      den Nachweis über den Erwerb der berufs- und arbeitspädagogischen
      Kenntnisse durch die Prüfung am ............................... in
      .............................................. vor
-     ........................................... erbracht.
+     ........................................... erbracht. 
+ 
+Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
  
 Datum ..............................
 Unterschrift .......................
