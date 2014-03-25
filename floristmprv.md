@@ -2,7 +2,7 @@ Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Floristmeiste
 ===========================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 10 V v. 25.8.2009 I 2960
+Zuletzt geändert durch Art. 22 V v. 26.3.2014 I 274
 
 ### 
 
@@ -339,10 +339,14 @@ hat am ............................ die Prüfung zum anerkannten Abschluss
  
 gemäß der "Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Floristmeister/Geprüfte Floristmeisterin" vom
-5. April 2001 (BGBl. I S. 534), die zuletzt durch Artikel 10 der
-Verordnung vom 25. August 2009 (BGBl. I S. 2960) geändert worden ist,
+5. April 2001 (BGBl. I S. 534), die zuletzt durch Artikel 22 der
+Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
  
-                             bestanden.
+                             bestanden. 
+ 
+Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
  
 Datum ..........................................
 Unterschrift(en) ...............................
@@ -372,8 +376,8 @@ hat am ............................ die Prüfung zum anerkannten Abschluss
  
 gemäß der "Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Floristmeister/Geprüfte Floristmeisterin" vom
-5. April 2001 (BGBl. I S. 534), die zuletzt durch Artikel 10 der
-Verordnung vom 25. August 2009 (BGBl. I S. 2960) geändert worden ist,
+5. April 2001 (BGBl. I S. 534), die zuletzt Artikel 22 der
+Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
 mit folgenden Ergebnissen bestanden: 
  
                                                                 Note
@@ -397,7 +401,11 @@ III. Situationsaufgabe Fertigung und Kontrolle
 (Im Fall des § 7: "Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin wurde nach
 § 7 im Hinblick auf die am ..................
 in ............... vor ...................... abgelegte Prüfung abgelegte
-Prüfung vom Prüfungsbestandteil .................. freigestellt.")
+Prüfung vom Prüfungsbestandteil .................. freigestellt.") 
+ 
+Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
  
  
 Datum ..........................................
