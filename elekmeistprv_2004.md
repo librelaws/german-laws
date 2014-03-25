@@ -2,12 +2,12 @@ Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeis
 =============================================================================================================================================
 
 Stand  
-Geändert durch Art. 11 V v. 23.7.2010 I 1010
+Zuletzt geändert durch Art. 26 V v. 26.3.2014 I 274
 
 ### 
 
 ```
-(+++ Textnachweis ab:  8.12.2004 +++)
+(+++ Textnachweis ab: 8.12.2004 +++)
 ```
 
 ### Eingangsformel
@@ -458,7 +458,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage 1 (zu § 7 Abs. 5)
 
-(Fundstelle: BGBl. I 2004, 3141,
+(Fundstelle: BGBl. I 2004, 3141;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ```
@@ -481,10 +481,14 @@ hat am .................................. die Prüfung zum anerkannten Abschluss
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
 Elektrotechnik vom 30. November 2004 (BGBl. I S. 3133),
-die durch Artikel 11 der Verordnung vom 23. Juli 2010 (BGBl. I S. 1010) 
+die zuletzt durch Artikel 26 der Verordnung vom 26. März 2014 (BGBl. I S. 274) 
 geändert worden ist,
  
-                               bestanden.
+                               bestanden. 
+ 
+Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
  
 Datum ......................................
 Unterschrift ...............................
@@ -493,7 +497,7 @@ Unterschrift ...............................
 
 ### Anlage 2 (zu § 7 Abs. 5)
 
-(Fundstelle: BGBl. I 2004, 3142 - 3143,
+(Fundstelle: BGBl. I 2004, 3142 - 3143;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ```
@@ -515,7 +519,7 @@ hat am ................................. die Prüfung zum anerkannten Abschluss
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
 Elektrotechnik vom 30. November 2004 (BGBl. I S. 3133),
-die durch Artikel 11 der Verordnung vom 23. Juli 2010 (BGBl. I S. 1010) 
+die zuletzt durch Artikel 26 der Verordnung vom 26. März 2014 (BGBl. I S. 274) 
 geändert worden ist, mit folgenden
 Ergebnissen 1) bestanden:
  
@@ -552,7 +556,11 @@ III. Berufs- und arbeitspädagogische Qualifikationen
      Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat gemäß § 2 Abs. 2
      den Nachweis über den Erwerb der berufs- und arbeitspädagogischen
      Kenntnisse durch die Prüfung am ................... in ...................
-     vor ....................... erbracht.
+     vor ....................... erbracht. 
+ 
+Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
  
 Datum .....................................
 Unterschrift ..............................
