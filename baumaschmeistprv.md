@@ -2,12 +2,14 @@ Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Baumaschinenm
 =====================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 9 V v. 25.8.2009 I 2960
+Zuletzt geändert durch Art. 3 V v. 26.3.2014 I 274
 
 ### 
 
+```
 (+++ Textnachweis ab: 1.8.1985 +++)
 (+++ Maßgaben aufgrund EinigVtr vgl. BauMaschMeistPrV Anhang EV +++)
+```
 
 ### Eingangsformel
 
@@ -386,7 +388,7 @@ Der Bundesminister für Bildung und Wissenschaft
 
 ### Anlage
 
-(Fundstelle: BGBl. I 1985, 183 - 184,
+(Fundstelle: BGBl. I 1985, 183 - 184;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ```
@@ -410,17 +412,21 @@ hat am ................................ die Prüfung zum anerkannten Abschluß
  
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter
 Baumaschinenmeister vom 23. Januar 1985 (BGBl. I S. 177),
-die zuletzt durch Artikel 9 der Verordnung vom 25. August 2009
-(BGBl. I S. 2960) geändert worden ist,
+die zuletzt durch Artikel 3 der Verordnung vom 26. März 2014
+(BGBl. I S. 274) geändert worden ist,
  
-                                      bestanden.
+                                      bestanden. 
+ 
+Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
  
 Datum              ............................................................
 Unterschrift       ............................................................
  
 (Siegel der zuständigen Stelle)
  
-
+ 
  
 Seite 2
  
@@ -451,7 +457,7 @@ III. Berufs- und arbeitspädagogische Eignung
      über den Erwerb der berufs- und arbeitspädagogischen
      Eignung durch die Prüfung am ...... in ...... vor .......... erbracht.
  
-
+ 
  
 -----
 *) Nichtzutreffendes streichen
