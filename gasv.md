@@ -2,7 +2,7 @@ Verordnung zur Bestimmung von weiteren grundlegenden Anforderungen an Geräte so
 ====================================================================================================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 6.7.2006 I 1435
+Zuletzt geändert durch Art. 1 V v. 31.3.2014 I 313
 
 ### 
 
@@ -28,43 +28,44 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage 1
 
-(Fundstelle: BGBl. I 2006, 1435)
+(Fundstelle: BGBl. I 2014, 313)
 
-<table>
-<tbody>
-<tr class="odd">
-<td>Lfd.<br />
-Nr.</td>
-<td>Entscheidung der Kommission</td>
-<td>Fundstelle</td>
-</tr>
-<tr class="even">
-<td>1</td>
-<td>Entscheidung der Kommission vom 22. September 2000 über die Anwendung von Artikel 3.3 e) der Richtlinie 1999/5/EG auf Funkanlagen, die der Regionalen Vereinbarung über den Binnenschifffahrtsfunk unterliegen (2000/637/EG)</td>
-<td>Amtsblatt der Europäischen Gemeinschaften vom 21. Oktober 2000, Nr. L 269 S. 50</td>
-</tr>
-<tr class="odd">
-<td>2</td>
-<td>Entscheidung der Kommission vom 21. Februar 2001 über die Anwendung von Artikel 3.3 e) der Richtlinie 1999/5/EG auf Lawinenverschüttetensuchgeräte (2001/148/EG)</td>
-<td>Amtsblatt der Europäischen Gemeinschaften vom 24. Februar 2001, Nr. L 55 S. 65</td>
-</tr>
-<tr class="even">
-<td>3</td>
-<td>Entscheidung der Kommission vom 4. September 2003 über die grundlegenden Anforderungen an Seefunkanlagen, die auf nicht dem SOLAS-Übereinkommen unterliegenden Schiffen installiert werden und am weltweiten Seenot- und Sicherheitsfunksystem (GMDSS) teilnehmen sollen (2004/71/EG)</td>
-<td>Amtsblatt der Europäischen Union vom 23. Januar 2004, Nr. L 16 S. 54</td>
-</tr>
-<tr class="odd">
-<td>4</td>
-<td>Entscheidung der Kommission vom 25. Januar 2005 über die Anwendung von Artikel 3 Absatz 3 Buchstabe e) der Richtlinie 1999/5/EG des Europäischen Parlaments und des Rates auf Funkanlagen des automatischen Schiffsidentifizierungssystems (AIS)(2005/53/EG)</td>
-<td>Amtsblatt der Europäischen Union vom 26. Januar 2005, Nr. L 22 S. 14</td>
-</tr>
-<tr class="even">
-<td>5</td>
-<td>Entscheidung der Kommission vom 29. August 2005 über grundlegende Anforderungen im Sinne der Richtlinie 1999/5/EG des Europäischen Parlaments und des Rates zur Sicherstellung des Zugangs von Cospas-Sarsat-Ortungsbaken zu Notfalldiensten (2005/631/EG)</td>
-<td>Amtsblatt der Europäischen Union vom 31. August 2005, Nr. L 225 S. 28</td>
-</tr>
-</tbody>
-</table>
+Lfd.
+Nr.
+
+Entscheidung der Kommission
+
+Fundstelle
+
+1
+
+Entscheidung der Kommission vom 22. September 2000 über die Anwendung von Artikel 3 Absatz 3 Buchstabe e) der Richtlinie 1999/5/EG auf Funkanlagen, die der Regionalen Vereinbarung über den Binnenschifffahrtsfunk unterliegen (2000/637/EG)
+
+ABl. L 269 vom 21.10.2000, S. 50
+
+2
+
+Entscheidung der Kommission vom 21. Februar 2001 über die Anwendung von Artikel 3 Absatz 3 Buchstabe e) der Richtlinie 1999/5/EG auf Lawinenverschüttetensuchgeräte (2001/148/EG)
+
+ABl. L 55 vom 24.2.2001, S. 65
+
+3
+
+Entscheidung der Kommission vom 25. Januar 2005 über die Anwendung von Artikel 3 Absatz 3 Buch-stabe e) der Richtlinie 1999/5/EG des Europäischen Parlaments und des Rates auf Funkanlagen des automatischen Schiffsidentifizierungssystems (AIS) (2005/53/EG)
+
+ABl. L 22 vom 26.1.2005, S. 14
+
+4
+
+Entscheidung der Kommission vom 29. August 2005 über grundlegende Anforderungen in Sinne der Richtlinie 1999/5/EG des Europäischen Parlaments und des Rates zur Sicherstellung des Zugangs von Cospas-Sarsat-Ortungsbaken zu Notfalldiensten (2005/631/EG)
+
+ABl. L 225 vom 31.8.2005, S. 28
+
+5
+
+Beschluss der Kommission vom 12. August 2013 über grundlegende Anforderungen an Seefunkanlagen, die auf nicht dem SOLAS-Übereinkommen unterliegenden Schiffen eingesetzt werden und am weltweiten Seenot- und Sicherheitsfunksystem (GMDSS) teilnehmen sollen (2013/638/EU)
+
+ABl. L 296 vom 7.11.2013, S. 22
 
 ### Anlage 2
 
