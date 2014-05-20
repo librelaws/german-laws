@@ -2,11 +2,13 @@ Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Gärtne
 ==========================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 V v. 29.10.2008 I 2155
+Zuletzt geändert durch Art. 5 V v. 21.5.2014 I 548
 
 ### 
 
+```
 (+++ Textnachweis ab: 20.8.1997 +++)
+```
 
 ### Eingangsformel
 
@@ -23,7 +25,7 @@ Produktion, Dienstleistung und Vermarktung:Erstellen von Planungen und Kalkulati
 Betriebs- und Unternehmensführung:kaufmännische Disposition beim Beschaffen von Betriebsmitteln sowie beim Arbeits-, Material- und Maschineneinsatz; ökonomische Kontrolle der Betriebsteile und des Gesamtbetriebes, Analysieren und Planen der betrieblichen Abläufe und der Betriebsorganisation nach wirtschaftlichen Gesichtspunkten und unter Beachtung sozialer, ökologischer und rechtlicher Erfordernisse; Planen und Kalkulieren von Investitionen sowie Ermitteln und Beurteilen von deren Kosten; Zusammenarbeiten mit Marktpartnern und anderen Betrieben; Nutzen der Möglichkeiten der Information und Beratung;
 
 3.  
-Berufsausbildung und Mitarbeiterführung:Auswählen und Anwenden geeigneter Methoden beim Vermitteln der Ausbildungsinhalte; Hinführen der Auszubildenden zu selbständigem Handeln; Anleiten der Mitarbeiter; Übertragen der Aufgaben auf die Mitarbeiter entsprechend ihrer Leistungsfähigkeit, Qualifikation und Eignung; kooperatives Führen von Mitarbeitern.
+Berufsausbildung und Mitarbeiterführung:Prüfen der betrieblichen und persönlichen Ausbildungsvoraussetzungen; Planen der Ausbildung unter inhaltlichen, methodischen und zeitlichen Aspekten entsprechend der Vorgaben der Ausbildungsordnung; Auswählen und Einstellen von Auszubildenden; Durchführen der Ausbildung unter Anwenden geeigneter Methoden bei der Vermittlung von Ausbildungsinhalten; Hinführen der Auszubildenden zu selbständigem Handeln, Vorbereiten auf Prüfungen, Informieren und Beraten über Fortbildungsmöglichkeiten; Auswählen und Einstellen von Mitarbeitern; Übertragen von Aufgaben auf Mitarbeiter entsprechend ihrer Leistungsfähigkeit, Qualifikation und Eignung; Anleiten und Kontrollieren von Mitarbeitern in Arbeitsprozessen, kooperatives Führen, Fördern und Motivieren; Unterstützen der beruflichen Weiterbildung von Mitarbeitern.
 
 (2) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß Gärtnermeister/Gärtnermeisterin mit Angabe der gewählten Fachrichtung.
 
@@ -277,7 +279,7 @@ Preiskalkulation; ökonomische Kontrolle und Beurteilung der Produktionsverfahre
 
 (4) Bei der praxisbezogenen Aufgabe soll der Prüfungsteilnehmer bezogen auf die von ihm gewählte Fachrichtung nachweisen, daß er ausgehend von konkreten betrieblichen Situationen Zusammenhänge der Bereiche Produktion, Anlage und Pflege von Grabstätten oder Bau und Pflege landschaftsgärtnerischer Anlagen sowie der Vermarktung im komplexen Sinne erfassen und analysieren sowie entsprechende umsetzbare Lösungsvorschläge erstellen kann. Die Ergebnisse sind schriftlich darzustellen und in einem Prüfungsgespräch zu erläutern. Bei der Auswahl der Aufgabe sollen Vorschläge des Prüfungsteilnehmers berücksichtigt werden. Für die praxisbezogene Aufgabe stehen bis zu drei Monate zur Verfügung. Das Prüfungsgespräch bezieht sich auf die in Absatz 2 für die jeweilige Fachrichtung aufgeführten Inhalte und soll je Prüfungsteilnehmer nicht länger als 60 Minuten dauern.
 
-(5) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit zu einer komplexen Aufgabe aus den in Absatz 2 aufgeführten Inhalten und soll nicht länger als drei Stunden dauern. Sie ist durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung oder für die eindeutige Beurteilung der Prüfungsleistung von Bedeutung ist. Die Ergänzungsprüfung soll je Prüfungsteilnehmer nicht länger als 30 Minuten dauern.
+(5) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit zu einer komplexen Aufgabe aus den in Absatz 2 aufgeführten Inhalten und soll nicht länger als drei Stunden dauern.
 
 ### § 4 Prüfungsanforderungen im Teil "Betriebs- und Unternehmensführung"
 
@@ -325,193 +327,182 @@ Beratung, Kommunikation, Information.
 
 (4) Bei der Betriebsbeurteilung soll der Prüfungsteilnehmer einen Betrieb erfassen, analysieren und beurteilen sowie Entwicklungsmöglichkeiten aufzeigen. Die Ergebnisse sind in einer unter Aufsicht anzufertigenden schriftlichen Arbeit darzustellen und in einem Prüfungsgespräch zu erläutern. Für die Erfassung des Betriebes sind dem Prüfungsteilnehmer die erforderlichen Daten und Unterlagen zur Verfügung zu stellen. Für die Betriebsbeurteilung stehen bis zu fünf Stunden zur Verfügung. Das Prüfungsgespräch soll je Prüfungsteilnehmer nicht länger als 30 Minuten dauern.
 
-(5) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit zu einer komplexen Aufgabe aus den in Absatz 2 aufgeführten Inhalten und soll nicht länger als drei Stunden dauern. Hierbei sind dem Prüfungsteilnehmer zwei Themen zur Auswahl vorzuschlagen. Die schriftliche Prüfung ist durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung oder für die eindeutige Beurteilung der Prüfungsleistung von Bedeutung ist. Die Ergänzungsprüfung soll je Prüfungsteilnehmer nicht länger als 30 Minuten dauern.
+(5) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit zu einer komplexen Aufgabe aus den in Absatz 2 aufgeführten Inhalten und soll nicht länger als drei Stunden dauern. Hierbei sind dem Prüfungsteilnehmer zwei Themen zur Auswahl vorzuschlagen.
 
 ### § 5 Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
 
-(1) Der Prüfungsteilnehmer soll nachweisen, dass er Zusammenhänge der Berufsbildung und Mitarbeiterführung erkennen, Auszubildende ausbilden und Mitarbeiter führen kann.
+(1) Der Prüfling soll nachweisen, dass er Zusammenhänge der Berufsbildung und Mitarbeiterführung erkennen, Auszubildende ausbilden und Mitarbeiter führen kann sowie über entsprechende fachliche, methodische und didaktische Fähigkeiten verfügt.
 
-(2) Die Qualifikation nach Absatz 1 ist als Fähigkeit zum selbständigen Planen, Durchführen und Kontrollieren in folgenden Handlungsfeldern nachzuweisen:
+(2) Der Nachweis der Qualifikation nach Absatz 1 ist in folgenden Handlungsfeldern zu führen:
 
 1.  
-Allgemeine Grundlagen:
-
-a)  
-Gründe für die betriebliche Ausbildung,
-
-b)  
-Einflussgrößen auf die Ausbildung,
-
-c)  
-Rechtliche Rahmenbedingungen der Ausbildung,
-
-d)  
-Beteiligte und Mitwirkende an der Ausbildung,
-
-e)  
-Anforderungen an die Eignung der Ausbilder;
+Ausbildungsvoraussetzungen prüfen und Ausbildung planen,
 
 2.  
-Planung der Ausbildung:
-
-a)  
-Ausbildungsberufe,
-
-b)  
-Eignung des Ausbildungsbetriebes,
-
-c)  
-Organisation der Ausbildung,
-
-d)  
-Abstimmung mit der Berufsschule,
-
-e)  
-Ausbildungsplan,
-
-f)  
-Beurteilungssystem;
+Ausbildung vorbereiten und Auszubildende einstellen,
 
 3.  
-Mitwirkung bei der Einstellung von Auszubildenden:
-
-a)  
-Auswahlkriterien,
-
-b)  
-Einstellung, Ausbildungsvertrag,
-
-c)  
-Eintragungen und Anmeldungen,
-
-d)  
-Planen der Einführung,
-
-e)  
-Planen des Ablaufs der Probezeit;
+Ausbildung durchführen,
 
 4.  
-Ausbildung am Arbeitsplatz:
-
-a)  
-Auswählen der Arbeitsplätze und Aufbereiten der Aufgabenstellung,
-
-b)  
-Vorbereitung der Arbeitsorganisation,
-
-c)  
-Praktische Anleitung,
-
-d)  
-Fördern aktiven Lernens,
-
-e)  
-Fördern von Handlungskompetenz,
-
-f)  
-Lernerfolgskontrollen,
-
-g)  
-Beurteilungsgespräche;
+Ausbildung abschließen,
 
 5.  
-Förderung des Lernprozesses:
-
-a)  
-Anleiten zu Lern- und Arbeitstechniken,
-
-b)  
-Sichern von Lernerfolgen,
-
-c)  
-Auswerten der Zwischenprüfungen,
-
-d)  
-Umgang mit Lernschwierigkeiten und Verhaltensauffälligkeiten,
-
-e)  
-Berücksichtigen kultureller Unterschiede bei der Ausbildung,
-
-f)  
-Kooperation mit externen Stellen;
+Personalbedarf ermitteln, Mitarbeiter auswählen, einstellen und Aufgaben auf diese übertragen sowie
 
 6.  
-Ausbildung in der Gruppe:
+Mitarbeiter anleiten, führen, fördern und motivieren sowie deren berufliche Weiterbildung unterstützen.
 
-a)  
-Kurzvorträge,
+(3) Das Handlungsfeld nach Absatz 2 Nummer 1 umfasst die Kompetenzen:
 
-b)  
-Lehrgespräche,
+1.  
+die Vorteile und den Nutzen betrieblicher Ausbildung darstellen und begründen zu können,
 
-c)  
-Moderation,
+2.  
+Planungen hinsichtlich des betrieblichen Ausbildungsbedarfs auf der Grundlage der rechtlichen, tarifvertraglichen und betrieblichen Rahmenbedingungen durchzuführen und Entscheidungen zu treffen,
 
-d)  
-Auswahl und Einsatz von Medien,
+3.  
+die Strukturen des Berufsbildungssystems und seine Schnittstellen darzustellen,
 
-e)  
-Lernen in Gruppen,
+4.  
+Ausbildungsberufe für den Betrieb auszuwählen und dies zu begründen,
 
-f)  
-Ausbildung in Teams;
+5.  
+die Eignung des Betriebs für die Ausbildung in dem angestrebten Ausbildungsberuf zu prüfen sowie zu prüfen, ob und inwieweit Ausbildungsinhalte durch Maßnahmen außerhalb der Ausbildungsstätte, insbesondere durch Ausbildung im Verbund sowie durch überbetriebliche und außerbetriebliche Ausbildung, vermittelt werden müssen,
+
+6.  
+die Möglichkeiten des Einsatzes von auf die Berufsausbildung vorbereitenden Maßnahmen einzuschätzen sowie
 
 7.  
-Abschluss der Ausbildung:
+die Aufgaben der an der Ausbildung Mitwirkenden unter Berücksichtigung ihrer Funktionen und Qualifikationen im Betrieb abzustimmen.
 
-a)  
-Vorbereitung auf Prüfungen,
+(4) Das Handlungsfeld nach Absatz 2 Nummer 2 umfasst die Kompetenzen:
 
-b)  
-Anmelden zur Prüfung,
+1.  
+auf der Grundlage einer Ausbildungsordnung einen betrieblichen Ausbildungsplan zu erstellen, der sich insbesondere an berufstypischen Arbeits- und Geschäftsprozessen orientiert,
 
-c)  
-Erstellen von Zeugnissen,
+2.  
+die Möglichkeiten der Mitwirkung und Mitbestimmung der betrieblichen Interessenvertretungen in der Berufsbildung zu berücksichtigen,
 
-d)  
-Abschluss und Verlängerung der Ausbildung,
+3.  
+den Kooperationsbedarf zu ermitteln und sich inhaltlich sowie organisatorisch mit den Kooperationspartnern, insbesondere der Berufsschule, abzustimmen,
 
-e)  
-Fortbildungsmöglichkeiten,
+4.  
+Kriterien und Verfahren zur Auswahl von Auszubildenden, auch unter Berücksichtigung ihrer Verschiedenartigkeit, anzuwenden,
 
-f)  
-Mitwirkung an Prüfungen;
+5.  
+den Berufsausbildungsvertrag vorzubereiten und die Eintragung des Vertrags bei der zuständigen Stelle zu veranlassen sowie
+
+6.  
+die Möglichkeiten zu prüfen, ob Teile der Berufsausbildung im Ausland durchgeführt werden können.
+
+(5) Das Handlungsfeld nach Absatz 2 Nummer 3 umfasst die Kompetenzen:
+
+1.  
+lernförderliche Bedingungen und eine motivierende Lernkultur zu schaffen, Rückmeldungen zu geben und zu empfangen,
+
+2.  
+die Probezeit zu organisieren, zu gestalten und zu bewerten,
+
+3.  
+aus dem betrieblichen Ausbildungsplan und den berufstypischen Arbeits- und Geschäftsprozessen betriebliche Lern- und Arbeitsaufgaben zu entwickeln und zu gestalten,
+
+4.  
+Ausbildungsmethoden und -medien zielgruppengerecht auszuwählen und situationsspezifisch einzusetzen,
+
+5.  
+Auszubildende bei Lernschwierigkeiten durch individuelle Gestaltung der Ausbildung und Lernberatung zu unterstützen, bei Bedarf ausbildungsunterstützende Hilfen einzusetzen und die Möglichkeit zur Verlängerung der Ausbildungszeit zu prüfen,
+
+6.  
+Auszubildenden zusätzliche Ausbildungsangebote, insbesondere in Form von Zusatzqualifikationen, zu machen und die Möglichkeit der Verkürzung der Ausbildungsdauer und die der vorzeitigen Zulassung zur Abschlussprüfung zu prüfen,
+
+7.  
+die soziale und persönliche Entwicklung von Auszubildenden zu fördern, Probleme und Konflikte rechtzeitig zu erkennen sowie auf Lösungen hinzuwirken,
 
 8.  
-Mitarbeiterführung und Zusammenarbeit im Betrieb:
+Leistungen festzustellen und zu bewerten, Leistungsbeurteilungen Dritter und Prüfungsergebnisse auszuwerten, Beurteilungsgespräche zu führen, Rückschlüsse für den weiteren Ausbildungsverlauf zu ziehen sowie
 
-a)  
-Grundlagen der Mitarbeiterführung,
+9.  
+interkulturelle Kompetenzen zu fördern.
 
-b)  
-Einarbeiten, Anleiten und Beurteilen von Mitarbeitern,
+(6) Das Handlungsfeld nach Absatz 2 Nummer 4 umfasst die Kompetenzen:
 
-c)  
-Soziale Zusammenhänge im Betrieb; Teamarbeit,
+1.  
+Auszubildende auf die Abschlussprüfung unter Berücksichtigung der Prüfungstermine vorzubereiten und die Ausbildung zu einem erfolgreichen Abschluss zu führen,
 
-d)  
-Motivation, Förderung und Qualifizierung von Mitarbeitern,
+2.  
+für die Anmeldung der Auszubildenden zu Prüfungen bei der zuständigen Stelle zu sorgen und diese auf durchführungsrelevante Besonderheiten hinzuweisen,
 
-e)  
-Konflikte und Konfliktbewältigung.
+3.  
+an der Erstellung eines schriftlichen Zeugnisses auf der Grundlage von Leistungsbeurteilungen mitzuwirken sowie
 
-(3) Die Prüfung besteht aus einem praktischen Teil nach Maßgabe des Absatzes 4 und einem schriftlichen Teil nach Maßgabe des Absatzes 5.
+4.  
+Auszubildende über betriebliche Entwicklungswege und berufliche Weiterbildungsmöglichkeiten zu informieren und zu beraten.
 
-(4) Der praktische Teil besteht aus der Durchführung einer vom Prüfungsteilnehmer in Abstimmung mit dem Prüfungsausschuss auszuwählenden Ausbildungseinheit und einem Prüfungsgespräch. Die Ausbildungseinheit ist schriftlich zu planen und praktisch durchzuführen. Auswahl und Gestaltung der Ausbildungseinheit sind im Prüfungsgespräch zu erläutern. Außerdem erstreckt sich das Prüfungsgespräch auf die Inhalte des Absatzes 2 Nr. 8. Für die schriftliche Planung der Ausbildungseinheit soll ein Zeitraum von bis zu sieben Tagen zur Verfügung gestellt werden. Die praktische Durchführung der Ausbildungseinheit soll je Prüfungsteilnehmer nicht länger als 60 Minuten und das Prüfungsgespräch nicht länger als 30 Minuten dauern.
+(7) Das Handlungsfeld nach Absatz 2 Nummer 5 umfasst die Kompetenzen:
 
-(5) Im schriftlichen Teil soll der Prüfungsteilnehmer in höchstens drei Stunden fallbezogene Aufgaben aus mehreren Handlungsfeldern des Absatzes 2 Nr. 1 bis 7 sowie mindestens eine Aufgabe aus dem Handlungsfeld des Absatzes 2 Nr. 8 bearbeiten. Er ist durch eine mündliche Prüfung zu ergänzen, wenn dieser für das Bestehen der Prüfung oder für die eindeutige Beurteilung der Prüfungsleistung von Bedeutung ist. Die Ergänzungsprüfung soll je Prüfungsteilnehmer nicht länger als 30 Minuten dauern.
+1.  
+rechtliche Grundlagen des Arbeits-, Tarif- und Sozialrechts im Betrieb umzusetzen,
+
+2.  
+Konzepte der Personalplanung anzuwenden,
+
+3.  
+Mitarbeiter auszuwählen, einzustellen und einzuarbeiten,
+
+4.  
+Leistungsfähigkeit, Qualifikation und Eignung von Mitarbeitern zu beurteilen und Aufgaben auf diese entsprechend der Beurteilung zu übertragen,
+
+5.  
+zur Krankheitsprävention anzuleiten und Maßnahmen organisieren sowie
+
+6.  
+Beendigung von Arbeitsverhältnissen durchzuführen.
+
+(8) Das Handlungsfeld nach Absatz 2 Nummer 6 umfasst die Kompetenzen:
+
+1.  
+Mitarbeiter anzuleiten, Leistungen und Verhalten gegebenenfalls unter Hinzuziehung von Leistungsbeurteilungen Dritter festzustellen und zu bewerten,
+
+2.  
+Mitarbeiter- und Beurteilungsgespräche zu führen und Entwicklungsmöglichkeiten aufzeigen,
+
+3.  
+Mitarbeiter zu motivieren und zu fördern,
+
+4.  
+Mitarbeiter zu qualifizieren und bei der Weiterbildung zu unterstützen,
+
+5.  
+soziale Zusammenhänge und Konflikte zu erkennen,
+
+6.  
+Maßnahmen zur Konfliktbewältigung anzuwenden, Teamarbeit zu organisieren und zu unterstützen sowie
+
+7.  
+Führungsstile zu kennen und das eigene Führungsverhalten kritisch zu reflektieren.
+
+(9) Die Prüfung gliedert sich in die Abschnitte Berufsausbildung und Mitarbeiterführung. Der Abschnitt Berufsausbildung besteht aus einem praktischen Teil nach Absatz 10 und einem schriftlichen Teil nach Absatz 11. Der Abschnitt Mitarbeiterführung besteht aus einer Fallstudie nach Absatz 12.
+
+(10) Der praktische Teil besteht aus der Durchführung einer vom Prüfling in Abstimmung mit dem Prüfungsausschuss auszuwählenden Ausbildungssituation und einem Fachgespräch. Die Ausbildungssituation ist schriftlich zu planen und praktisch durchzuführen. Auswahl und Gestaltung der Ausbildungssituation sind im Fachgespräch zu erläutern. Für die schriftliche Planung der Ausbildungssituation steht ein Zeitraum von sieben Tagen zur Verfügung. Für die praktische Durchführung der Ausbildungssituation stehen 60 Minuten zur Verfügung. Das Fachgespräch soll nicht länger als 30 Minuten dauern.
+
+(11) Im schriftlichen Teil soll der Prüfling fallbezogene Aufgaben zu den in den Absätzen 3 bis 6 aufgeführten Kompetenzen bearbeiten. Die Prüfungszeit beträgt 150 Minuten.
+
+(12) In der Fallstudie soll der Prüfling eine vom Prüfungsausschuss vorgegebene Situation der Mitarbeiterführung, die sich auf die in den Absätzen 7 und 8 aufgeführten Kompetenzen bezieht, analysieren, Handlungsoptionen entwickeln, schriftlich darlegen und diese in einem Fachgespräch erläutern. Für die Bearbeitung der Fallstudie stehen 120 Minuten zur Verfügung. Das darauf aufbauende Fachgespräch soll nicht länger als 20 Minuten dauern.
 
 ### § 6 Anrechnung anderer Prüfungsleistungen
 
-Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die Prüfungsteilnehmerin von der Prüfung einzelner Prüfungsbestandteile nach § 3 Abs. 3, § 4 Abs. 3 und § 5 Abs. 3 freistellen, wenn in den letzten fünf Jahren vor Antragstellung vor einer zuständigen Stelle, einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den Anforderungen der entsprechenden Prüfungsinhalte nach dieser Verordnung entspricht.
+Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die Prüfungsteilnehmerin von der Prüfung einzelner Prüfungsbestandteile nach § 3 Abs. 3, § 4 Abs. 3 und § 5 Absatz 9 freistellen, wenn in den letzten fünf Jahren vor Antragstellung vor einer zuständigen Stelle, einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den Anforderungen der entsprechenden Prüfungsinhalte nach dieser Verordnung entspricht.
 
 ### § 7 Bestehen der Meisterprüfung
 
-(1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den Teil "Produktion, Dienstleistung und Vermarktung" ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung gemäß § 3 Abs. 4 und in der Prüfung gemäß § 3 Abs. 5 zu bilden; dabei hat die Note in der Prüfung gemäß § 3 Abs. 4 das doppelte Gewicht. Für den Teil "Betriebs- und Unternehmensführung" ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung gemäß § 4 Abs. 4 und in der Prüfung gemäß § 4 Abs. 5 zu bilden; dabei hat die Note in der Prüfung gemäß § 4 Abs. 4 das doppelte Gewicht. Für den Teil "Berufsausbildung und Mitarbeiterführung" ist eine Note als arithmetisches Mittel aus der Bewertung der Leistungen in der Prüfung nach § 5 Abs. 4 und in der Prüfung nach § 5 Abs. 5 zu bilden; dabei hat die Note in der Prüfung nach § 5 Abs. 4 das doppelte Gewicht.
+(1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den Teil "Produktion, Dienstleistung und Vermarktung" ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung gemäß § 3 Abs. 4 und in der Prüfung gemäß § 3 Abs. 5 zu bilden; dabei hat die Note in der Prüfung gemäß § 3 Abs. 4 das doppelte Gewicht. Für den Teil "Betriebs- und Unternehmensführung" ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung gemäß § 4 Abs. 4 und in der Prüfung gemäß § 4 Abs. 5 zu bilden; dabei hat die Note in der Prüfung gemäß § 4 Abs. 4 das doppelte Gewicht. Für den Teil „Berufsausbildung und Mitarbeiterführung“ ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in den Prüfungen nach § 5 Absatz 10 und 11 im Abschnitt Berufsausbildung sowie der Leistung in der Prüfung nach § 5 Absatz 12 im Abschnitt Mitarbeiterführung zu bilden, dabei ist die Note für den Abschnitt Berufsausbildung mit 60 Prozent und die Note für den Abschnitt Mitarbeiterführung mit 40 Prozent zu gewichten. Die Note für den Abschnitt Berufsausbildung ist als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung nach § 5 Absatz 10 und in der Prüfung nach § 5 Absatz 11 zu bilden; dabei hat die Note in der Prüfung nach § 5 Absatz 10 das doppelte Gewicht.
 
 (2) Über die Gesamtleistung in der Prüfung ist eine Note zu bilden; sie ist als arithmetisches Mittel aus den Noten für die einzelnen Prüfungsteile zu errechnen.
 
 (3) Die Prüfung ist bestanden, wenn der Prüfungsteilnehmer in jedem Prüfungsteil mindestens die Note "ausreichend" erzielt hat. Sie ist nicht bestanden, wenn in der gesamten Prüfung mindestens eine der Leistungen in den Prüfungen gemäß Absatz 1 mit "ungenügend" oder mehr als eine dieser Leistungen mit "mangelhaft" benotet worden ist.
+
+(4) Die Prüfungen nach § 3 Absatz 5, § 4 Absatz 5 und § 5 Absatz 11 sind jeweils durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die Ergänzungsprüfung soll jeweils nicht länger als 30 Minuten dauern. Bei der Ermittlung des Ergebnisses sind jeweils die bisherige Note der Prüfung und die Note der Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 ### § 8 Wiederholung der Prüfung
 
@@ -521,9 +512,9 @@ Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die Prüfung
 
 ### § 9 Übergangsvorschriften
 
-(1) Die bis zum 30. Dezember 2000 begonnenen Prüfungsverfahren können nach den bis dahin geltenden Vorschriften zu Ende geführt werden.
+(1) Die bis zum 28. Mai 2014 begonnenen Prüfungsverfahren können nach den bis dahin geltenden Vorschriften zu Ende geführt werden.
 
-(2) Prüfungsteilnehmer, die die Prüfung nach den bis zum 30. Dezember 2000 geltenden Vorschriften nicht bestanden haben und sich innerhalb von zwei Jahren ab dem 31. Dezember 2000 zu einer Wiederholungsprüfung anmelden, können die Wiederholungsprüfung nach den am 30. Dezember 2000 geltenden Vorschriften ablegen.
+(2) Prüfungsteilnehmer, die die Prüfung nach den bis zum 28. Mai 2014 geltenden Vorschriften nicht bestanden haben und sich innerhalb von zwei Jahren ab dem 29. Mai 2014 zu einer Wiederholungsprüfung anmelden, können die Wiederholungsprüfung nach den am 28. Mai 2014 geltenden Vorschriften ablegen.
 
 ### § 10 Inkrafttreten, Außerkrafttreten
 
