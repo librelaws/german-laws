@@ -2,7 +2,7 @@ Gesetz über zwingende Arbeitsbedingungen für grenzüberschreitend entsandte un
 ===============================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1c G v. 25.11.2012 II 1381
+Zuletzt geändert durch Art. 1 G v. 24.5.2014 I 538
 
 ### 
 
@@ -87,10 +87,13 @@ für Bergbauspezialarbeiten auf Steinkohlebergwerken,
 für Wäschereidienstleistungen im Objektkundengeschäft,
 
 7.  
-der Abfallwirtschaft einschließlich Straßenreinigung und Winterdienst und
+der Abfallwirtschaft einschließlich Straßenreinigung und Winterdienst,
 
 8.  
-für Aus- und Weiterbildungsdienstleistungen nach dem Zweiten oder Dritten Buch Sozialgesetzbuch.
+für Aus- und Weiterbildungsdienstleistungen nach dem Zweiten oder Dritten Buch Sozialgesetzbuch und
+
+9.  
+für Schlachten und Fleischverarbeitung.
 
 ### § 5 Arbeitsbedingungen
 
@@ -127,6 +130,8 @@ Arbeitsbedingungen im Sinne des § 2 Nr. 3 bis 7.
 (8) Im Falle eines Tarifvertrages nach § 4 Nr. 7 findet dieser Abschnitt Anwendung, wenn der Betrieb oder die selbstständige Betriebsabteilung überwiegend Abfälle im Sinne des § 3 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes sammelt, befördert, lagert, beseitigt oder verwertet oder Dienstleistungen des Kehrens und Reinigens öffentlicher Verkehrsflächen und Schnee- und Eisbeseitigung von öffentlichen Verkehrsflächen einschließlich Streudienste erbringt.
 
 (9) Im Falle eines Tarifvertrages nach § 4 Nr. 8 findet dieser Abschnitt Anwendung, wenn der Betrieb oder die selbstständige Betriebsabteilung überwiegend Aus- und Weiterbildungsmaßnahmen nach dem Zweiten oder Dritten Buch Sozialgesetzbuch durchführt. Ausgenommen sind Einrichtungen der beruflichen Rehabilitation im Sinne des § 35 Abs. 1 Satz 1 des Neunten Buches Sozialgesetzbuch.
+
+(10) Im Falle eines Tarifvertrages nach § 4 Nummer 9 findet dieser Abschnitt Anwendung in Betrieben und selbstständigen Betriebsabteilungen, in denen überwiegend geschlachtet oder Fleisch verarbeitet wird (Betriebe der Fleischwirtschaft) sowie in Betrieben und selbstständigen Betriebsabteilungen, die ihre Arbeitnehmer und Arbeitnehmerinnen überwiegend in Betrieben der Fleischwirtschaft einsetzen. Das Schlachten umfasst dabei alle Tätigkeiten des Schlachtens und Zerlegens von Tieren mit Ausnahme von Fischen. Die Verarbeitung umfasst alle Tätigkeiten der Weiterverarbeitung von beim Schlachten gewonnenen Fleischprodukten zur Herstellung von Nahrungsmitteln sowie deren Portionierung und Verpackung. Nicht erfasst ist die Verarbeitung, wenn die Behandlung, die Portionierung oder die Verpackung beim Schlachten gewonnener Fleischprodukte direkt auf Anforderung des Endverbrauchers erfolgt.
 
 ### § 7 Rechtsverordnung
 
