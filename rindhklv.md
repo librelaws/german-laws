@@ -2,7 +2,7 @@ Verordnung über gesetzliche Handelsklassen und Kategorien für Rinderschlachtk�
 =============================================================================================
 
 Stand  
-Geändert durch Art. 1 V v. 26.9.2011 I 1914
+Zuletzt geändert durch Art. 2 V v. 17.6.2014 I 793
 
 ### 
 
@@ -14,9 +14,9 @@ Die V wurde als Artikel 3 der V v. 12.11.2008 I 2186 vom Bundesministerium für 
 
 ### § 1 Gesetzliche Handelsklassen und Kategorien für Rinderschlachtkörper
 
-(1) Für ganze, halbe und viertel Schlachtkörper von Rindern gelten die in Anhang V Teil A und Anhang XIa der Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse (Verordnung über die einheitliche GMO) (ABl. EU Nr. L 299 S. 1), die zuletzt durch die Verordnung (EU) Nr. 1234/2010 vom 15. Dezember 2010 (ABl. L 346 vom 30.12.2010, S. 11) geändert worden ist, bezeichneten Handelsklassen und Kategorien mit Ausnahme der Fleischigkeitsklasse S. Die Fleischigkeits- und Fettklassen sind entsprechend der Anlage in die dort bezeichneten Untergruppen zu unterteilen.
+(1) Für ganze, halbe und viertel Schlachtkörper von Rindern gelten die in Anhang IV Teil A und Anhang VII Teil I der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) bezeichneten Handelsklassen und Kategorien mit Ausnahme der Fleischigkeitsklasse S. Die Fleischigkeits- und Fettgewebeklassen sind entsprechend der Anlage in die dort bezeichneten Untergruppen zu unterteilen.
 
-(2) Rinder im Sinne des Absatzes 1 sind ausgewachsene Rinder, die zum Schlachtzeitpunkt über zwölf Monate alt waren, sowie nicht ausgewachsene Rinder.
+(2) Rinder im Sinne des Absatzes 1 sind Rinder, die zum Schlachtzeitpunkt jünger als acht Monate alt waren sowie solche, die zum Schlachtzeitpunkt mindestens acht Monate alt waren.
 
 ### § 2 Einstufung in Handelsklassen
 
@@ -63,7 +63,7 @@ an den beiden Hinterhessen oder an den Keulen
 
 anzubringen.
 
-(3) Wenn Schlachtkörper nicht ausgewachsener Rinder nicht gespalten werden, sind die Schlachtkörper auch bei einer Kennzeichnung mit Etiketten nach den Anforderungen des Absatzes 2 Nummer 2 an der Außenseite zu kennzeichnen.
+(3) Wenn Rinderschlachtkörper nicht gespalten werden, sind die Schlachtkörper auch bei einer Kennzeichnung mit Etiketten nach den Anforderungen des Absatzes 2 Nummer 2 an der Außenseite zu kennzeichnen.
 
 ### § 4 Ordnungswidrigkeiten
 
@@ -83,7 +83,7 @@ entgegen Artikel 6 Absatz 5 eine Markierung oder ein Etikett vor dem Entbeinen e
 entgegen § 2 Abs. 1 Satz 1 und § 2 Abs. 3 einen Schlachtkörper eines Rindes nicht, nicht richtig oder nicht rechtzeitig einstufen lässt oder
 
 2.  
-entgegen § 2 Abs. 4 eine Handelsklasse oder Kategorie verwendet.
+entgegen § 2 Absatz 3 eine Handelsklasse oder Kategorie verwendet.
 
 ### § 5 (weggefallen)
 
