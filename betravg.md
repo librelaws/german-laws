@@ -2,10 +2,7 @@ Gesetz zur Verbesserung der betrieblichen Altersversorgung (BetrAVG)
 ====================================================================
 
 Stand  
-Zuletzt geändert durch Art. 4e G v. 21.12.2008 I 2940
-
-Hinweis  
-Änderung durch Art. 3 G v. 23.6.2014 I 787 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 3 G v. 23.6.2014 I 787
 
 ### 
 
