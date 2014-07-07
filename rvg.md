@@ -2,16 +2,7 @@ Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte (RVG)
 =======================================================================
 
 Stand  
-Zuletzt geändert durch Art. 8 G v. 11.3.2013 I 434
-
-Hinweis  
-Änderung durch Art. 8 G v. 23.7.2013 I 2586 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 14 G v. 31.8.2013 I 3533 (Nr. 55) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 5 Abs. 7 G v. 10.10.2013 I 3799 (Nr. 62) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 10 G v. 8.7.2014 I 890
 
 ### 
 
@@ -120,10 +111,10 @@ Das G wurde als Art. 3 des G v. 5.5.2004 I 718 (KostRMoG) vom Bundestag mit Zust
 | § 57                                                            |
 | § 58                                                            |
 | § 59                                                            |
+| § 59a                                                           |
 |                                                                 |
 | **Abschnitt 9**                                                 |
 | **Übergangs- und Schlussvorschriften**                          |
-| § 59a                                                           |
 | § 59b                                                           |
 | § 60                                                            |
 | § 61                                                            |
@@ -592,7 +583,7 @@ die Vorbereitung der Klage, des Antrags oder der Rechtsverteidigung, soweit kein
 außergerichtliche Verhandlungen;
 
 3.  
-Zwischenstreite, die Bestellung von Vertretern durch das in der Hauptsache zuständige Gericht, die Ablehnung von Richtern, Rechtspflegern, Urkundsbeamten der Geschäftsstelle oder Sachverständigen, die Entscheidung über einen Antrag betreffend eine Sicherungsanordnung, die Festsetzung des Streit- oder Geschäftswerts;
+Zwischenstreite, die Bestellung von Vertretern durch das in der Hauptsache zuständige Gericht, die Ablehnung von Richtern, Rechtspflegern, Urkundsbeamten der Geschäftsstelle oder Sachverständigen, die Entscheidung über einen Antrag betreffend eine Sicherungsanordnung, die Wertfestsetzung;
 
 4.  
 das Verfahren vor dem beauftragten oder ersuchten Richter;
@@ -625,7 +616,7 @@ die Mitwirkung bei der Erbringung der Sicherheitsleistung und das Verfahren wege
 die für die Geltendmachung im Ausland vorgesehene Vervollständigung der Entscheidung und die Bezifferung eines dynamisierten Unterhaltstitels;
 
 9.  
-die Zustellung oder Empfangnahme von Entscheidungen oder Rechtsmittelschriften und ihre Mitteilung an den Auftraggeber, die Einwilligung zur Einlegung der Sprungrevision oder Sprungrechtsbeschwerde, der Antrag auf Entscheidung über die Verpflichtung, die Kosten zu tragen, die nachträgliche Vollstreckbarerklärung eines Urteils auf besonderen Antrag, die Erteilung des Notfrist- und des Rechtskraftzeugnisses, die Ausstellung einer Bescheinigung nach § 48 des Internationalen Familienrechtsverfahrensgesetzes oder § 56 des Anerkennungs- und Vollstreckungsausführungsgesetzes, die Ausstellung, die Berichtigung oder der Widerruf einer Bestätigung nach § 1079 der Zivilprozessordnung, die Ausstellung des Formblatts oder der Bescheinigung nach § 71 Absatz 1 des Auslandsunterhaltsgesetzes;
+die Zustellung oder Empfangnahme von Entscheidungen oder Rechtsmittelschriften und ihre Mitteilung an den Auftraggeber, die Einwilligung zur Einlegung der Sprungrevision oder Sprungrechtsbeschwerde, der Antrag auf Entscheidung über die Verpflichtung, die Kosten zu tragen, die nachträgliche Vollstreckbarerklärung eines Urteils auf besonderen Antrag, die Erteilung des Notfrist- und des Rechtskraftzeugnisses, die Ausstellung einer Bescheinigung nach § 48 des Internationalen Familienrechtsverfahrensgesetzes oder § 57 des Anerkennungs- und Vollstreckungsausführungsgesetzes, die Ausstellung, die Berichtigung oder der Widerruf einer Bestätigung nach § 1079 der Zivilprozessordnung, die Ausstellung des Formblatts oder der Bescheinigung nach § 71 Absatz 1 des Auslandsunterhaltsgesetzes;
 
 10.  
 die Einlegung von Rechtsmitteln bei dem Gericht desselben Rechtszugs in Verfahren, in denen sich die Gebühren nach Teil 4, 5 oder 6 des Vergütungsverzeichnisses richten; die Einlegung des Rechtsmittels durch einen neuen Verteidiger gehört zum Rechtszug des Rechtsmittels;
@@ -829,7 +820,7 @@ Abschnitt 5 Außergerichtliche Beratung und Vertretung
 
 ### § 35 Hilfeleistung in Steuersachen
 
-(1) Für die Hilfeleistung bei der Erfüllung allgemeiner Steuerpflichten und bei der Erfüllung steuerlicher Buchführungs- und Aufzeichnungspflichten gelten die §§ 23 bis 39 der Steuerberatergebührenverordnung in Verbindung mit den §§ 10 und 13 der Steuerberatergebührenverordnung entsprechend.
+(1) Für die Hilfeleistung bei der Erfüllung allgemeiner Steuerpflichten und bei der Erfüllung steuerlicher Buchführungs- und Aufzeichnungspflichten gelten die §§ 23 bis 39 der Steuerberatervergütungsverordnung in Verbindung mit den §§ 10 und 13 der Steuerberatervergütungsverordnung entsprechend.
 
 (2) Sieht dieses Gesetz die Anrechnung einer Geschäftsgebühr auf eine andere Gebühr vor, stehen die Gebühren nach den §§ 23, 24 und 31 der Steuerberatervergütungsverordnung, bei mehreren Gebühren deren Summe, einer Geschäftsgebühr nach Teil 2 des Vergütungsverzeichnisses gleich. Bei der Ermittlung des Höchstbetrags des anzurechnenden Teils der Geschäftsgebühr ist der Gegenstandswert derjenigen Gebühr zugrunde zu legen, auf die angerechnet wird.
 
@@ -915,7 +906,7 @@ Abschnitt 7 Straf- und Bußgeldsachen sowie bestimmte sonstige Verfahren
 
 (2) Der Antrag ist zulässig, wenn die Entscheidung über die Kosten des Verfahrens rechtskräftig ist. Der gerichtlich bestellte oder beigeordnete Rechtsanwalt kann den Antrag nur unter den Voraussetzungen des § 52 Abs. 1 Satz 1, Abs. 2, auch in Verbindung mit § 53 Abs. 1, stellen. Der Auftraggeber, in den Fällen des § 52 Abs. 1 Satz 1 der Beschuldigte, ferner die Staatskasse und andere Beteiligte, wenn ihnen die Kosten des Verfahrens ganz oder zum Teil auferlegt worden sind, sind zu hören.
 
-(3) Der Strafsenat des Oberlandesgerichts ist mit einem Richter besetzt. Der Richter überträgt die Sache dem Senat in der Besetzung mit drei Richtern, wenn es zur Sicherung einer einheitlichen Rechtsprechung geboten ist.
+(3) Der Senat des Oberlandesgerichts ist mit einem Richter besetzt. Der Richter überträgt die Sache dem Senat in der Besetzung mit drei Richtern, wenn es zur Sicherung einer einheitlichen Rechtsprechung geboten ist.
 
 (4) Die Feststellung ist für das Kostenfestsetzungsverfahren, das Vergütungsfestsetzungsverfahren (§ 11) und für einen Rechtsstreit des Rechtsanwalts auf Zahlung der Vergütung bindend.
 
@@ -1010,15 +1001,13 @@ das Verfahren über die Widerklage oder den Widerantrag, ausgenommen die Rechtsv
 
 Bestimmen sich die Gebühren nach dem Gegenstandswert, werden bei einem Gegenstandswert von mehr als 4 000 Euro anstelle der Gebühr nach § 13 Absatz 1 folgende Gebühren vergütet:
 
-Gegenstands-
-wert
+Gegenstandswert
 bis ... Euro
 
 Gebühr
 ... Euro
 
-Gegenstands-
-wert
+Gegenstandswert
 bis ... Euro
 
 Gebühr
@@ -1564,7 +1553,7 @@ sozialrechtlichen Angelegenheiten, in denen im gerichtlichen Verfahren Betragsra
 2.  
 Verfahren nach der Wehrbeschwerdeordnung, wenn im gerichtlichen Verfahren das Verfahren vor dem Truppendienstgericht oder vor dem Bundesverwaltungsgericht an die Stelle des Verwaltungsrechtswegs gemäß § 82 SG tritt ..........
 
-Eine Gebühr von mehr als 300,00 EUR kann nur gefordert werden, wenn die Tätigkeit umfangreich oder schwierig war.
+Eine Gebühr von mehr als 300,00 € kann nur gefordert werden, wenn die Tätigkeit umfangreich oder schwierig war.
 
 50,00 bis 
 640,00 €
@@ -1911,7 +1900,7 @@ b)
 nach dem WpHG,
 
 4.  
-in Rechtsbeschwerdeverfahren nach dem StVollzG, auch i. V. m. § 92 JGG.
+über Rechtsbeschwerden nach dem StVollzG, auch i. V. m. § 92 JGG.
 
  
 
@@ -2436,7 +2425,7 @@ Verfahrensgebühr für das Aufgebotsverfahren ........
 
 3325
 
-Verfahrensgebühr für Verfahren nach § 148 Abs. 1 und 2, §§ 246a, 319 Abs. 6 AktG, auch i. V. m. § 327e Abs. 2 AktG, oder nach § 16 Abs. 3 UmwG ........
+Verfahrensgebühr für Verfahren nach § 148 Abs. 1 und 2, §§ 246a, 319 Abs. 6 des Aktiengesetzes, auch i. V. m. § 327e Abs. 2 des Aktiengesetzes, oder nach § 16 Abs. 3 UmwG ........
 
 0,75
 
