@@ -4,6 +4,9 @@ Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte (RVG)
 Stand  
 Zuletzt geändert durch Art. 10 G v. 8.7.2014 I 890
 
+Hinweis  
+Änderung durch Art. 4 G v. 5.12.2014 I 1964 (Nr. 57) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
@@ -622,7 +625,7 @@ die Zustellung oder Empfangnahme von Entscheidungen oder Rechtsmittelschriften u
 die Einlegung von Rechtsmitteln bei dem Gericht desselben Rechtszugs in Verfahren, in denen sich die Gebühren nach Teil 4, 5 oder 6 des Vergütungsverzeichnisses richten; die Einlegung des Rechtsmittels durch einen neuen Verteidiger gehört zum Rechtszug des Rechtsmittels;
 
 10a.  
-Beschwerdeverfahren, wenn sich die Gebühren nach Teil 4, 5 oder 6 des Vergütungsverzeichnisses richten und dort nichts anderes bestimmt ist oder besondere Gebührentatbestände vorgesehen sind;
+Beschwerdeverfahren, wenn sich die Gebühren nach Teil 4, 5 oder 6 des Vergütungsverzeichnisses richten und dort nichts anderes bestimmt ist oder keine besonderen Gebührentatbestände vorgesehen sind;
 
 11.  
 die vorläufige Einstellung, Beschränkung oder Aufhebung der Zwangsvollstreckung, wenn nicht eine abgesonderte mündliche Verhandlung hierüber stattfindet;
