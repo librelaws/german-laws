@@ -2,12 +2,12 @@ Gesetz über die Rechtsverhältnisse der Mitglieder des Europäischen Parlaments
 =========================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 23.10.2008 I 2020
+Zuletzt geändert durch Art. 2 G v. 11.7.2014 I 906
 
 ### 
 
 ```
-(+++ Textnachweis Geltung ab: 27. 9.1980 +++)
+(+++ Textnachweis Geltung ab: 27.9.1980 +++)
 (+++ Zur Anwendung vgl. Art. 3 Abs. 2 G v. 21.12.2004 I 3590
      (AbgGÄndG25/EuAbgGÄndG 21) +++)
 ```
@@ -75,7 +75,7 @@ Dritter Abschnitt Leistungen an die Mitglieder des Europäischen Parlaments, an 
 
 ### § 9 Entschädigung
 
-Ein Mitglied des Europäischen Parlaments, das sich nach Artikel 25 Abs. 1 des Abgeordnetenstatuts des Europäischen Parlaments für die Anwendung dieses Gesetzes entscheidet, erhält eine monatliche Entschädigung gemäß § 11 Abs. 1 und 3 des Abgeordnetengesetzes.
+Ein Mitglied des Europäischen Parlaments, das sich nach Artikel 25 Abs. 1 des Abgeordnetenstatuts des Europäischen Parlaments für die Anwendung dieses Gesetzes entscheidet, erhält eine monatliche Entschädigung gemäß § 11 Abs. 1, 3 und 4 des Abgeordnetengesetzes.
 
 ### § 10 Freifahrtberechtigung und Erstattung von Fahrkosten
 
@@ -87,7 +87,7 @@ Ein Mitglied des Europäischen Parlaments erhält zur Abgeltung seiner durch das
 
 ### § 10b Leistungen an ehemalige Mitglieder des Europäischen Parlaments und ihre Hinterbliebenen
 
-Die Vorschriften des Fünften Abschnitts und § 32 Abs. 4 bis 8, §§ 35, 35a, 35b, 37 und 38 Abs. 1 des Abgeordnetengesetzes finden auf vor dem Inkrafttreten des Abgeordnetenstatuts des Europäischen Parlaments ausgeschiedene Mitglieder des Europäischen Parlaments sowie auf Mitglieder des Europäischen Parlaments, die sich nach Artikel 25 Abs. 1 des Abgeordnetenstatuts des Europäischen Parlaments für die Anwendung dieses Gesetzes entscheiden, und ihre Hinterbliebenen mit den Maßgaben Anwendung, daß
+Die Vorschriften des Fünften Abschnitts und § 32 Abs. 4 bis 8, §§ 35, 35a, 35b, 35c, 37 und 38 Abs. 1 des Abgeordnetengesetzes finden auf vor dem Inkrafttreten des Abgeordnetenstatuts des Europäischen Parlaments ausgeschiedene Mitglieder des Europäischen Parlaments sowie auf Mitglieder des Europäischen Parlaments, die sich nach Artikel 25 Abs. 1 des Abgeordnetenstatuts des Europäischen Parlaments für die Anwendung dieses Gesetzes entscheiden, und ihre Hinterbliebenen mit den Maßgaben Anwendung, daß
 
 1.  
 in dem Fall, daß Leistungen aus der Unfallversicherung des Europäischen Parlaments in Anspruch genommen werden, der Versorgungsanspruch nach diesem Gesetz bis zur Höhe der Versicherungsleistung ruht,
@@ -102,7 +102,7 @@ Zeiten der Mitgliedschaft im Europäischen Parlament gelten als Zeiten der Mitgl
 
 ### § 11 Zuschuß zu den Kosten in Krankheits-, Pflege- und Geburtsfällen, Unterstützungen
 
-Die Vorschriften des Sechsten Abschnitts des Abgeordnetengesetzes finden auf vor Inkrafttreten des Abgeordnetenstatuts des Europäischen Parlaments ausgeschiedene Mitglieder des Europäischen Parlaments und ihre Hinterbliebenen Anwendung. Die Vorschriften des § 28 des Abgeordnetengesetzes finden für Mitglieder des Europäischen Parlaments, die sich nicht nach Artikel 25 Abs. 1 des Abgeordnetenstatuts des Europäischen Parlaments für die Fortgeltung des Leistungssystems nach diesem Gesetz entscheiden, entsprechend Anwendung.
+Die Vorschriften des Sechsten Abschnitts des Abgeordnetengesetzes finden auf vor Inkrafttreten des Abgeordnetenstatuts des Europäischen Parlaments ausgeschiedene Mitglieder des Europäischen Parlaments und ihre Hinterbliebenen Anwendung. § 28 des Abgeordnetengesetzes findet auf Mitglieder des Europäischen Parlaments entsprechende Anwendung.
 
 ### § 12 Beginn und Ende der Ansprüche, Zahlungsvorschriften
 
@@ -112,7 +112,7 @@ Die Vorschriften des Sechsten Abschnitts des Abgeordnetengesetzes finden auf vor
 
 (3) Ausgeschiedene Mitglieder erhalten die Entschädigung nach § 9 bis zum Ende des Monats, in dem sie ausgeschieden sind. Die Rechte nach § 10 erlöschen 14 Tage nach Ausscheiden aus dem Europäischen Parlament.
 
-(4) Die Bestimmungen der §§ 31 und 33 des Abgeordnetengesetzes finden sinngemäß Anwendung auf Leistungen nach diesem Gesetz.
+(4) Die Bestimmung des § 31 des Abgeordnetengesetzes findet sinngemäß Anwendung auf Leistungen nach diesem Gesetz.
 
 Vierter Abschnitt Anrechnung beim Zusammentreffen mehrerer Bezüge aus öffentlichen Kassen
 -----------------------------------------------------------------------------------------
@@ -134,7 +134,7 @@ neben einer Versorgung als Abgeordneter, die nach den einschlägigen Gesetzen de
 
 (2) § 29 Abs. 1, 2, 6, 7 und 9 des Abgeordnetengesetzes gilt entsprechend mit der Maßgabe, daß als Bezüge beziehungsweise Versorgungsbezüge aus einem Amtsverhältnis oder aus einer Verwendung im öffentlichen Dienst auch die Bezüge und Versorgungsbezüge eines anderen Mitgliedstaates der Europäischen Union gelten, die auf Grund eines vergleichbaren Amtsverhältnisses oder einer entsprechenden Verwendung im öffentlichen Dienst gewährt werden.
 
-(3) Treffen Entschädigung, Übergangsgeld, Ruhegehalt und Versorgung für Hinterbliebene nach dem Abgeordnetenstatut des Europäischen Parlaments mit auf Bundesrecht beruhenden anderen Bezügen aus öffentlichen Kassen zusammen, so gelten die Anrechnungs- und Ruhensbestimmungen des Abgeordnetengesetzes (§ 29) sinngemäß. Dabei tritt an die Stelle des Ruhens oder der Kürzung der Bezüge nach dem Abgeordnetenstatut des Europäischen Parlaments ein Ruhen oder eine Kürzung der Bezüge aus anderen öffentlichen Kassen in jeweils entsprechender Höhe. Dies gilt nicht bei einem Zusammentreffen von Bezügen nach dem Abgeordnetenstatut des Europäischen Parlaments mit Bezügen nach diesem Gesetz.
+(3) Treffen Entschädigung, Übergangsgeld, Ruhegehalt und Versorgung für Hinterbliebene nach dem Abgeordnetenstatut des Europäischen Parlaments mit auf Bundesrecht beruhenden anderen Bezügen aus öffentlichen Kassen zusammen, so gelten die Anrechnungs- und Ruhensbestimmungen des Abgeordnetengesetzes (§ 29) sinngemäß. Dabei tritt an die Stelle des Ruhens oder der Kürzung der Bezüge nach dem Abgeordnetenstatut des Europäischen Parlaments ein Ruhen oder eine Kürzung der Bezüge aus anderen öffentlichen Kassen in jeweils entsprechender Höhe. Ferner ruhen Bezüge nach diesem Gesetz neben Bezügen nach dem Abgeordnetenstatut des Europäischen Parlaments in Höhe des Betrages, um den diese Bezüge die Höchstversorgungsbezüge nach dem Abgeordnetengesetz übersteigen.
 
 Fünfter Abschnitt (weggefallen)
 -------------------------------
