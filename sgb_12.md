@@ -2,7 +2,7 @@ Sozialgesetzbuch (SGB) Zwölftes Buch (XII) - Sozialhilfe - (Artikel 1 des Geset
 =============================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 1.10.2013 I 3733
+Zuletzt geändert durch Art. 9 G v. 21.7.2014 I 1133
 
 ### 
 
@@ -260,6 +260,8 @@ Das G wurde als Artikel 1 d. G v. 27.12.2003 I 3022 vom Bundestag mit Zustimmung
 |                                                           |
 | Fünfzehntes Kapitel                                       |
 | Statistik                                                 |
+|                                                           |
+|                                                           |
 | § 121                                                     |
 | § 122                                                     |
 | § 123                                                     |
@@ -268,6 +270,20 @@ Das G wurde als Artikel 1 d. G v. 27.12.2003 I 3022 vom Bundestag mit Zustimmung
 | § 126                                                     |
 | § 127                                                     |
 | § 128                                                     |
+|                                                           |
+|                                                           |
+|                                                           |
+| § 128a                                                    |
+| § 128b                                                    |
+| § 128c                                                    |
+| § 128d                                                    |
+| § 128e                                                    |
+| § 128f                                                    |
+| § 128g                                                    |
+| § 128h                                                    |
+|                                                           |
+|                                                           |
+|                                                           |
 | § 129                                                     |
 |                                                           |
 | Sechzehntes Kapitel                                       |
@@ -722,7 +738,7 @@ werden gesondert erbracht.
 
 (3) Soweit nach den Absätzen 1 und 2 Beiträge für die Krankenversicherung übernommen werden, werden auch die damit zusammenhängenden Beiträge zur Pflegeversicherung übernommen.
 
-(4) Die Übernahme der Beiträge nach den Absätzen 1 und 2 umfasst bei Versicherten nach dem Fünften Buch auch den Zusatzbeitrag nach § 242 des Fünften Buches.
+(4) Die Übernahme der Beiträge nach den Absätzen 1 und 2 umfasst bei Versicherten nach dem Fünften Buch auch den Zusatzbeitragssatz nach § 242 Absatz 1 des Fünften Buches.
 
 (5) Besteht eine Krankenversicherung bei einem Versicherungsunternehmen, werden die Aufwendungen übernommen, soweit sie angemessen und die Voraussetzungen des § 19 Abs. 1 erfüllt sind. Besteht die Leistungsberechtigung voraussichtlich nur für kurze Dauer, können zur Aufrechterhaltung einer Krankenversicherung bei einem Versicherungsunternehmen auch höhere Aufwendungen übernommen werden. § 82 Abs. 2 Nr. 2 und 3 ist insoweit nicht anzuwenden. Soweit nach den Sätzen 1 und 2 Aufwendungen für die Krankenversicherung übernommen werden, werden auch die Aufwendungen für eine Pflegeversicherung übernommen. Die zu übernehmenden Aufwendungen für eine Krankenversicherung nach Satz 1 und die entsprechenden Aufwendungen für eine Pflegeversicherung nach Satz 4 sind an das Versicherungsunternehmen zu zahlen, bei dem die leistungsberechtigte Person versichert ist.
 
@@ -2003,9 +2019,14 @@ Fünfzehntes Kapitel Statistik
 
 ### 
 
-### § 121 Bundesstatistik
+Erster Abschnitt Bundesstatistik für das Dritte und Fünfte bis Neunte Kapitel
+-----------------------------------------------------------------------------
 
-Zur Beurteilung der Auswirkungen dieses Buches und zu seiner Fortentwicklung werden Erhebungen über
+### 
+
+### § 121 Bundesstatistik für das Dritte und Fünfte bis Neunte Kapitel
+
+Zur Beurteilung der Auswirkungen des Dritten und Fünften bis Neunten Kapitels und zu deren Fortentwicklung werden Erhebungen über
 
 1.  
 die Leistungsberechtigten, denen
@@ -2014,33 +2035,30 @@ a)
 Hilfe zum Lebensunterhalt nach dem Dritten Kapitel (§§ 27 bis 40),
 
 b)  
-Grundsicherung im Alter und bei Erwerbsminderung nach dem Vierten Kapitel (§§ 41 bis 46),
-
-c)  
 Hilfen zur Gesundheit nach dem Fünften Kapitel (§§ 47 bis 52),
 
-d)  
+c)  
 Eingliederungshilfe für behinderte Menschen nach dem Sechsten Kapitel (§§ 53 bis 60),
 
-e)  
+d)  
 Hilfe zur Pflege nach dem Siebten Kapitel (§§ 61 bis 66),
 
-f)  
+e)  
 Hilfe zur Überwindung besonderer sozialer Schwierigkeiten nach dem Achten Kapitel (§§ 67 bis 69) und
 
-g)  
+f)  
 Hilfe in anderen Lebenslagen nach dem Neunten Kapitel (§§ 70 bis 74)
 
 geleistet wird,
 
 2.  
-die Ausgaben und Einnahmen der Sozialhilfe
+die Einnahmen und Ausgaben der Träger der Sozialhilfe nach dem Dritten und Fünften bis Neunten Kapitel
 
 als Bundesstatistik durchgeführt.
 
 ### § 122 Erhebungsmerkmale
 
-(1) Erhebungsmerkmale bei der Erhebung nach § 121 Nr. 1 Buchstabe a sind:
+(1) Erhebungsmerkmale bei der Erhebung nach § 121 Nummer 1 Buchstabe a sind:
 
 1.  
 für Leistungsberechtigte, denen Leistungen nach dem Dritten Kapitel für mindestens einen Monat erbracht werden:
@@ -2060,9 +2078,9 @@ bei Änderung der Zusammensetzung der Personengemeinschaft und bei Beendigung de
 2.  
 für Leistungsberechtigte, die nicht zu dem Personenkreis der Nummer 1 zählen: Geschlecht, Altersgruppe, Staatsangehörigkeit, Vorhandensein eigenen Wohnraums, Art des Trägers.
 
-(2) Erhebungsmerkmale bei der Erhebung nach § 121 Nr. 1 Buchstabe b sind: Geschlecht, Geburtsmonat und -jahr, Wohngemeinde und Gemeindeteil, Art des Trägers, Staatsangehörigkeit sowie bei Ausländern auch aufenthaltsrechtlicher Status, Leistungen in und außerhalb von Einrichtungen, Ursache und Beginn der Leistungsgewährung nach Monat und Jahr, die in § 42 Nummer 1 bis 5 genannten Bedarfe je Monat, Nettobedarf je Monat, Art und jeweilige Höhe der angerechneten oder in Anspruch genommenen Einkommen.
+(2) (weggefallen)
 
-(3) Erhebungsmerkmale bei den Erhebungen nach § 121 Nr. 1 Buchstabe c bis g sind für jeden Leistungsberechtigten:
+(3) Erhebungsmerkmale bei den Erhebungen nach § 121 Nummer 1 Buchstabe b bis f sind für jeden Leistungsberechtigten:
 
 1.  
 Geschlecht, Geburtsmonat und -jahr, Wohngemeinde und Gemeindeteil, Staatsangehörigkeit, bei Ausländern auch aufenthaltsrechtlicher Status, Art des Trägers, erbrachte Leistung im Laufe und am Ende des Berichtsjahres sowie in und außerhalb von Einrichtungen nach Art der Leistung nach § 8, am Jahresende erbrachte Leistungen nach dem Dritten und Vierten Kapitel jeweils getrennt nach in und außerhalb von Einrichtungen,
@@ -2076,43 +2094,43 @@ bei Leistungsberechtigten nach dem Sechsten Kapitel zusätzlich die Beschäftigt
 4.  
 bei Leistungsberechtigten nach dem Siebten Kapitel zusätzlich Erbringung von Pflegeleistungen von Sozialversicherungsträgern.
 
-(4) Erhebungsmerkmale bei der Erhebung nach § 121 Nr. 2 sind:
+(4) Erhebungsmerkmale bei der Erhebung nach § 121 Nummer 2 sind:
 Art des Trägers, Ausgaben für Leistungen in und außerhalb von Einrichtungen nach § 8, Einnahmen in und außerhalb von Einrichtungen nach Einnahmearten und Leistungen nach § 8.
 
 ### § 123 Hilfsmerkmale
 
-(1) Hilfsmerkmale sind
+(1) Hilfsmerkmale für Erhebungen nach § 121 sind
 
 1.  
 Name und Anschrift des Auskunftspflichtigen,
 
 2.  
-für die Erhebung nach § 122 Abs. 1 Nr. 1 und Abs. 2 die Kennnummern der Leistungsberechtigten,
+für die Erhebung nach § 122 Absatz 1 Nummer 1 die Kennnummern der Leistungsberechtigten,
 
 3.  
 Name und Telefonnummer der für eventuelle Rückfragen zur Verfügung stehenden Person.
 
-(2) Die Kennnummern nach Absatz 1 Nr. 2 dienen der Prüfung der Richtigkeit der Statistik und der Fortschreibung der jeweils letzten Bestandserhebung. Sie enthalten keine Angaben über persönliche und sachliche Verhältnisse der Leistungsberechtigten und sind zum frühestmöglichen Zeitpunkt spätestens nach Abschluss der wiederkehrenden Bestandserhebung zu löschen.
+(2) Die Kennnummern nach Absatz 1 Nummer 2 dienen der Prüfung der Richtigkeit der Statistik und der Fortschreibung der jeweils letzten Bestandserhebung. Sie enthalten keine Angaben über persönliche und sachliche Verhältnisse der Leistungsberechtigten und sind zum frühestmöglichen Zeitpunkt spätestens nach Abschluss der wiederkehrenden Bestandserhebung zu löschen.
 
 ### § 124 Periodizität, Berichtszeitraum und Berichtszeitpunkte
 
-(1) Die Erhebungen nach § 122 Abs. 1 Nr. 1 Buchstabe a bis c und Abs. 2 werden als Bestandserhebungen jährlich zum 31. Dezember durchgeführt. Die Angaben sind darüber hinaus bei Beginn und Ende der Leistungserbringung sowie bei Änderung der Zusammensetzung der Personengemeinschaft nach § 122 Abs. 1 Nr. 1 Buchstabe c zu erteilen. Die Angaben zu § 122 Abs. 1 Nr. 1 Buchstabe d sind ebenfalls zum Zeitpunkt der Beendigung der Leistungserbringung und der Änderung der Zusammensetzung der Personengemeinschaft zu erteilen.
+(1) Die Erhebungen nach § 122 Absatz 1 Nummer 1 Buchstabe a bis c werden als Bestandserhebungen jährlich zum 31. Dezember durchgeführt. Die Angaben sind darüber hinaus bei Beginn und Ende der Leistungserbringung sowie bei Änderung der Zusammensetzung der Personengemeinschaft nach § 122 Absatz 1 Nummer 1 Buchstabe c zu erteilen. Die Angaben zu § 122 Absatz 1 Nummer 1 Buchstabe d sind ebenfalls zum Zeitpunkt der Beendigung der Leistungserbringung und der Änderung der Zusammensetzung der Personengemeinschaft zu erteilen.
 
-(2) Die Erhebung nach § 122 Abs. 1 Nr. 2 wird als Bestandserhebung vierteljährlich zum Quartalsende durchgeführt.
+(2) Die Erhebung nach § 122 Absatz 1 Nummer 2 wird als Bestandserhebung vierteljährlich zum Quartalsende durchgeführt.
 
-(3) Die Erhebungen nach § 122 Abs. 3 und 4 erfolgen jährlich für das abgelaufene Kalenderjahr.
+(3) Die Erhebungen nach § 122 Absatz 3 und 4 erfolgen jährlich für das abgelaufene Kalenderjahr.
 
 ### § 125 Auskunftspflicht
 
-(1) Für die Erhebungen besteht Auskunftspflicht. Die Angaben nach § 123 Abs. 1 Nr. 3 sowie die Angaben zum Gemeindeteil nach § 122 Abs. 1 Nr. 1 Buchstabe c, § 122 Abs. 2 und Abs. 3 Nr. 1 sind freiwillig.
+(1) Für die Erhebungen nach § 121 besteht Auskunftspflicht. Die Angaben nach § 123 Absatz 1 Nummer 3 sowie die Angaben zum Gemeindeteil nach § 122 Absatz 1 Nummer 1 Buchstabe c und Absatz 3 Nummer 1 sind freiwillig.
 
 (2) Auskunftspflichtig sind die zuständigen örtlichen und überörtlichen Träger der Sozialhilfe sowie die kreisangehörigen Gemeinden und Gemeindeverbände, soweit sie Aufgaben dieses Buches wahrnehmen.
 
 ### § 126 Übermittlung, Veröffentlichung
 
-(1) An die fachlich zuständigen obersten Bundes- oder Landesbehörden dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, vom Statistischen Bundesamt und den statistischen Ämtern der Länder Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen. Tabellen, deren Tabellenfelder nur einen einzigen Fall ausweisen, dürfen nur dann übermittelt werden, wenn sie nicht differenzierter als auf Regierungsbezirksebene, bei Stadtstaaten auf Bezirksebene, aufbereitet sind.
+(1) An die fachlich zuständigen obersten Bundes- oder Landesbehörden dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, vom Statistischen Bundesamt und den statistischen Ämtern der Länder Tabellen mit statistischen Ergebnissen nach § 121 übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen. Tabellen, deren Tabellenfelder nur einen einzigen Fall ausweisen, dürfen nur dann übermittelt werden, wenn sie nicht differenzierter als auf Regierungsbezirksebene, bei Stadtstaaten auf Bezirksebene, aufbereitet sind.
 
-(2) Die statistischen Ämter der Länder stellen dem Statistischen Bundesamt für Zusatzaufbereitungen des Bundes jährlich unverzüglich nach Aufbereitung der Bestandserhebung und der Erhebung im Laufe des Berichtsjahres Einzelangaben aus einer Zufallsstichprobe mit einem Auswahlsatz von 25 vom Hundert der Leistungsempfänger zur Verfügung.
+(2) Die statistischen Ämter der Länder stellen dem Statistischen Bundesamt zu den Erhebungen nach § 121 für Zusatzaufbereitungen des Bundes jährlich unverzüglich nach Aufbereitung der Bestandserhebung und der Erhebung im Laufe des Berichtsjahres Einzelangaben aus einer Zufallsstichprobe mit einem Auswahlsatz von 25 vom Hundert der Leistungsempfänger zur Verfügung.
 
 (3) Die Ergebnisse der Sozialhilfestatistik dürfen auf die einzelne Gemeinde bezogen veröffentlicht werden.
 
@@ -2124,7 +2142,215 @@ Name und Telefonnummer der für eventuelle Rückfragen zur Verfügung stehenden 
 
 ### § 128 Zusatzerhebungen
 
-Über Leistungen und Maßnahmen nach dem Dritten bis Neunten Kapitel, die nicht durch die Erhebungen nach § 121 Nr. 1 erfasst sind, können bei Bedarf Zusatzerhebungen als Bundesstatistiken durchgeführt werden.
+Über Leistungen und Maßnahmen nach dem Dritten und Fünften bis Neunten Kapitel, die nicht durch die Erhebungen nach § 121 Nummer 1 erfasst sind, können bei Bedarf Zusatzerhebungen als Bundesstatistiken durchgeführt werden.
+
+Zweiter Abschnitt Bundesstatistik für das Vierte Kapitel
+--------------------------------------------------------
+
+### 
+
+### § 128a Bundesstatistik für das Vierte Kapitel
+
+(1) Zur Beurteilung der Auswirkungen des Vierten Kapitels sowie zu seiner Fortentwicklung sind Erhebungen über die Leistungsberechtigten als Bundesstatistik durchzuführen. Die Erhebungen erfolgen zentral durch das Statistische Bundesamt.
+
+(2) Die Statistik nach Absatz 1 umfasst folgende Merkmalkategorien:
+
+1.  
+Persönliche Merkmale,
+
+2.  
+Art und Höhe der Bedarfe,
+
+3.  
+Art und Höhe der angerechneten Einkommen.
+
+### § 128b Persönliche Merkmale
+
+Erhebungsmerkmale nach § 128a Absatz 2 Nummer 1 sind
+
+1.  
+Geschlecht, Geburtsjahr, Staatsangehörigkeit und Bundesland,
+
+2.  
+Geburtsmonat, Wohngemeinde und Gemeindeteil, bei Ausländern auch aufenthaltsrechtlicher Status,
+
+3.  
+Leistungsbezug in und außerhalb von Einrichtungen, bei Leistungsberechtigten außerhalb von Einrichtungen zusätzlich die Anzahl der im Haushalt lebenden Personen, bei Leistungsberechtigten in Einrichtungen die Art der Unterbringung,
+
+4.  
+Träger der Leistung,
+
+5.  
+Beginn der Leistungsgewährung nach Monat und Jahr sowie Ursache der Leistungsgewährung, Ende des Leistungsbezugs nach Monat und Jahr sowie Grund für die Einstellung der Leistung,
+
+6.  
+Dauer des Leistungsbezugs in Monaten,
+
+7.  
+gleichzeitiger Bezug von Leistungen nach dem Dritten und Fünften bis Neunten Kapitel.
+
+### § 128c Art und Höhe der Bedarfe
+
+Erhebungsmerkmale nach § 128a Absatz 2 Nummer 2 sind
+
+1.  
+Regelbedarfsstufe, gezahlter Regelsatz in den Regelbedarfsstufen und abweichende Regelsatzfestsetzung,
+
+2.  
+Mehrbedarfe nach Art und Höhe,
+
+3.  
+einmalige Bedarfe nach Art und Höhe,
+
+4.  
+Beiträge zur Kranken- und Pflegeversicherung, getrennt nach
+
+a)  
+Beiträgen für eine Pflichtversicherung in der gesetzlichen Krankenversicherung,
+
+b)  
+Beiträgen für eine freiwillige Versicherung in der gesetzlichen Krankenversicherung,
+
+c)  
+Zusatzbeiträgen nach dem Fünften Buch,
+
+d)  
+Beiträgen für eine private Krankenversicherung,
+
+e)  
+Beiträgen für eine soziale Pflegeversicherung,
+
+f)  
+Beiträgen für eine private Pflegeversicherung,
+
+5.  
+Beiträge für die Vorsorge, getrennt nach
+
+a)  
+Beiträgen für die Altersvorsorge,
+
+b)  
+Aufwendungen für Sterbegeldversicherungen,
+
+6.  
+Bedarfe für Bildung und Teilhabe, getrennt nach
+
+a)  
+Schulausflügen,
+
+b)  
+mehrtägigen Klassenfahrten,
+
+c)  
+Ausstattung mit persönlichem Schulbedarf,
+
+d)  
+Schulbeförderung,
+
+e)  
+Lernförderung,
+
+f)  
+Teilnahme an einer gemeinschaftlichen Mittagsverpflegung,
+
+7.  
+Aufwendungen für Unterkunft und Heizung sowie sonstige Hilfen zur Sicherung der Unterkunft,
+
+8.  
+Brutto- und Nettobedarf,
+
+9.  
+Darlehen.
+
+### § 128d Art und Höhe der angerechneten Einkommen
+
+Erhebungsmerkmale nach § 128a Absatz 2 Nummer 3 sind die jeweilige Höhe der Einkommensart, getrennt nach
+
+1.  
+Altersrente aus der gesetzlichen Rentenversicherung,
+
+2.  
+Hinterbliebenenrente aus der gesetzlichen Rentenversicherung,
+
+3.  
+Renten wegen Erwerbsminderung,
+
+4.  
+Versorgungsbezüge,
+
+5.  
+Renten aus betrieblicher Altersvorsorge,
+
+6.  
+Renten aus privater Vorsorge,
+
+7.  
+Vermögenseinkünfte,
+
+8.  
+Einkünfte nach dem Bundesversorgungsgesetz,
+
+9.  
+Erwerbseinkommen,
+
+10.  
+übersteigendes Einkommen eines im gemeinsamen Haushalt lebenden Partners,
+
+11.  
+öffentlich-rechtliche Leistungen für Kinder,
+
+12.  
+sonstige Einkünfte.
+
+### § 128e Hilfsmerkmale
+
+(1) Hilfsmerkmale für die Bundesstatistik nach § 128a sind
+
+1.  
+Name und Anschrift der nach § 128g Auskunftspflichtigen,
+
+2.  
+die Kennnummern des Leistungsberechtigten,
+
+3.  
+Name und Telefonnummer sowie Adresse für elektronische Post der für eventuelle Rückfragen zur Verfügung stehenden Person.
+
+(2) Die Kennnummern nach Absatz 1 Nummer 2 dienen der Prüfung der Richtigkeit der Statistik und der Fortschreibung der jeweils letzten Bestandserhebung. Sie enthalten keine Angaben über persönliche und sachliche Verhältnisse des Leistungsberechtigten und sind zum frühestmöglichen Zeitpunkt, spätestens nach Abschluss der wiederkehrenden Bestandserhebung, zu löschen.
+
+### § 128f Periodizität, Berichtszeitraum und Berichtszeitpunkte
+
+(1) Die Bundesstatistik nach § 128a wird quartalsweise durchgeführt.
+
+(2) Die Merkmale nach den §§ 128b bis 128d, ausgenommen das Merkmal nach § 128b Nummer 5, sind als Bestandserhebung zum Quartalsende zu erheben, wobei sich die Angaben zu den Bedarfen und Einkommen nach § 128c Nummer 1 bis 8 und § 128d jeweils auf den gesamten letzten Monat des Berichtsquartals beziehen.
+
+(3) Die Merkmale nach § 128b Nummer 5 sind für den gesamten Quartalszeitraum zu erheben, wobei gleichzeitig die Merkmale nach § 128b Nummer 1 und 2 zu erheben sind. Bei den beendeten Leistungen ist zudem die bisherige Dauer der Leistungsgewährung nach § 128b Nummer 6 zu erheben.
+
+(4) Die Merkmale nach § 128c Nummer 6 sind für jeden Monat eines Quartals zu erheben, wobei gleichzeitig die Merkmale nach § 128b Nummer 1 und 2 zu erheben sind.
+
+### § 128g Auskunftspflicht
+
+(1) Für die Bundesstatistik nach § 128a besteht Auskunftspflicht. Die Auskunftserteilung für die Angaben nach § 128e Nummer 3 und zum Gemeindeteil nach § 128b Nummer 2 sind freiwillig.
+
+(2) Auskunftspflichtig sind die für die Ausführung des Gesetzes nach dem Vierten Kapitel zuständigen Träger.
+
+### § 128h Datenübermittlung, Veröffentlichung
+
+(1) Die in sich schlüssigen und nach einheitlichen Standards formatierten Einzeldatensätze sind von den Auskunftspflichtigen elektronisch bis zum Ablauf von 30 Arbeitstagen nach Ende des jeweiligen Berichtsquartals nach § 128f an das Statistische Bundesamt zu übermitteln. Soweit die Übermittlung zwischen informationstechnischen Netzen von Bund und Ländern stattfindet, ist dafür nach § 3 des Gesetzes über die Verbindung der informationstechnischen Netze des Bundes und der Länder – Gesetz zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes – vom 10. August 2009 (BGBl. I S. 2702, 2706) das Verbindungsnetz zu nutzen. Die zu übermittelnden Daten sind nach dem Stand der Technik fortgeschritten zu signieren und zu verschlüsseln.
+
+(2) Das Statistische Bundesamt übermittelt dem Bundesministerium für Arbeit und Soziales für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, Tabellen mit den Ergebnissen der Bundesstatistik nach § 128a, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
+
+(3) Zur Weiterentwicklung des Systems der Grundsicherung im Alter und bei Erwerbsminderung übermittelt das Statistische Bundesamt auf Anforderung des Bundesministeriums für Arbeit und Soziales Einzelangaben aus einer Stichprobe, die vom Statistischen Bundesamt gezogen wird und nicht mehr als 10 Prozent der Grundgesamtheit der Leistungsberechtigten umfasst. Die zu übermittelnden Einzelangaben dienen der Entwicklung und dem Betrieb von Mikrosimulationsmodellen durch das Bundesministerium für Arbeit und Soziales und dürfen nur im hierfür erforderlichen Umfang und mittels eines sicheren Datentransfers ausschließlich an das Bundesministerium für Arbeit und Soziales übermittelt werden. Angaben zu den Erhebungsmerkmalen nach § 128b Nummer 2 und 4 und den Hilfsmerkmalen nach § 128e dürfen nicht übermittelt werden; Angaben zu monatlichen Durchschnittsbeträgen in den Einzelangaben werden vom Statistischen Bundesamt auf volle Euro gerundet.
+
+(4) Bei der Verarbeitung und Nutzung der Daten nach Absatz 3 ist das Statistikgeheimnis nach § 16 des Bundesstatistikgesetzes zu wahren. Dafür ist die Trennung von statistischen und nichtstatistischen Aufgaben durch Organisation und Verfahren zu gewährleisten. Die nach Absatz 3 übermittelten Daten dürfen nur für die Zwecke verwendet werden, für die sie übermittelt wurden. Eine Weitergabe von Einzelangaben aus einer Stichprobe nach Absatz 3 Satz 1 durch das Bundesministerium für Arbeit und Soziales an Dritte ist nicht zulässig. Die übermittelten Einzeldaten sind nach dem Erreichen des Zweckes zu löschen, zu dem sie übermittelt wurden.
+
+(5) Das Statistische Bundesamt übermittelt den statistischen Ämtern der Länder Tabellen mit den Ergebnissen der Bundesstatistik für die jeweiligen Länder und für die für die Ausführung des Gesetzes nach dem Vierten Kapitel zuständigen Träger. Das Bundesministerium für Arbeit und Soziales erhält diese Tabellen ebenfalls. Die statistischen Ämter der Länder erhalten zudem für ihr Land die jeweiligen Einzeldatensätze für Sonderaufbereitungen auf regionaler Ebene.
+
+(6) Die Ergebnisse der Bundesstatistik nach diesem Abschnitt dürfen auf die einzelnen Gemeinden bezogen veröffentlicht werden.
+
+Dritter Abschnitt Verordnungsermächtigung
+-----------------------------------------
+
+### 
 
 ### § 129 Verordnungsermächtigung
 
@@ -2134,10 +2360,10 @@ a)
 den Kreis der Auskunftspflichtigen nach § 125 Abs. 2,
 
 b)  
-die Gruppen von Leistungsberechtigten, denen Hilfen nach dem Dritten bis Neunten Kapitel geleistet werden,
+die Gruppen von Leistungsberechtigten, denen Hilfen nach dem Dritten und Fünften bis Neunten Kapitel geleistet werden,
 
 c)  
-die Leistungsberechtigten, denen bestimmte einzelne Leistungen der Hilfen nach dem Dritten bis Neunten Kapitel geleistet werden,
+die Leistungsberechtigten, denen bestimmte einzelne Leistungen der Hilfen nach dem Dritten und Fünften bis Neunten Kapitel geleistet werden,
 
 d)  
 den Zeitpunkt der Erhebungen,
@@ -2157,15 +2383,9 @@ Sechzehntes Kapitel Übergangs- und Schlussbestimmungen
 
 Für Personen, die Leistungen der Eingliederungshilfe für behinderte Menschen oder der Hilfe zur Pflege empfangen, deren Betreuung am 26. Juni 1996 durch von ihnen beschäftigte Personen oder ambulante Dienste sichergestellt wurde, gilt § 3a des Bundessozialhilfegesetzes in der am 26. Juni 1996 geltenden Fassung.
 
-### § 131 Übergangsregelung zur Erbringung von Leistungen für Bildung und Teilhabe
+### § 131 Übergangsregelung für die Statistik über Einnahmen und Ausgaben nach dem Vierten Kapitel
 
-(1) Die Leistungen für Bedarfe nach § 34 Absatz 3 sind erstmals für das Schuljahr 2011/12 zu berücksichtigen.
-
-(2) Werden Leistungen für Bedarfe nach § 34 Absatz 2, 4 bis 7 für den Zeitraum vom 1. Januar bis zum 31. Mai 2011 bis zum 30. Juni 2011 rückwirkend beantragt, gilt dieser Antrag als zum 1. Januar 2011 gestellt.
-
-(3) In den Fällen des Absatzes 2 sind Leistungen für die Bedarfe nach § 34 Absatz 2 Satz 1 Nummer 1, Satz 2 und Absatz 5 für den Zeitraum vom 1. Januar bis zum 31. Mai 2011 abweichend von § 34a Absatz 2 Satz 1 durch Direktzahlung an den Anbieter zu erbringen, wenn bei der leistungsberechtigten Person noch keine Aufwendungen zur Deckung dieser Bedarfe entstanden sind. Soweit die leistungsberechtigte Person in den Fällen des Absatzes 2 nachweist, dass ihr bereits Aufwendungen zur Deckung der in Satz 1 genannten Bedarfe entstanden sind, werden diese Aufwendungen abweichend von § 34a Absatz 2 Satz 1 durch Geldleistung an die leistungsberechtigte Person erstattet.
-
-(4) Für Schülerinnen und Schüler, die eine Schule besuchen, an der eine gemeinschaftliche Mittagsverpflegung in schulischer Verantwortung angeboten wird, sowie für Kinder, für die Kindertagespflege geleistet wird oder die eine Tageseinrichtung besuchen, an der eine gemeinschaftliche Mittagsverpflegung angeboten wird, werden die entstehenden Mehraufwendungen abweichend von § 34 Absatz 6 für die Zeit vom 1. Januar bis zum 31. März 2011 in Höhe von monatlich 26 Euro berücksichtigt. Bei Leistungsberechtigten bis zur Vollendung des 18. Lebensjahres, denen für die Zeit vom 1. Januar bis zum 31. März 2011 Aufwendungen für Teilhabe am sozialen und kulturellen Leben entstanden sind, werden abweichend von § 34 Absatz 7 als Bedarf monatlich 10 Euro berücksichtigt. Die im Zeitraum vom 1. Januar bis zum 31. März 2011 nach den Sätzen 1 und 2 zu berücksichtigenden Bedarfe werden abweichend von § 34a Absatz 2 Satz 1 durch Geldleistung gedeckt; die im Zeitraum vom 1. April bis zum 31. Mai 2011 nach den Sätzen 1 und 2 zu berücksichtigenden Bedarfe können in den Fällen des Absatzes 2 abweichend von § 34a Absatz 2 Satz 1 auch durch Geldleistung gedeckt werden. Bis zum 31. Dezember 2013 gilt § 34 Absatz 6 Satz 2 mit der Maßgabe, dass die entstehenden Mehraufwendungen als Bedarf auch berücksichtigt werden, wenn Schülerinnen und Schüler das Mittagessen in einer Einrichtung nach § 22 des Achten Buches einnehmen.
+Die Erhebungen nach § 121 Nummer 2 in Verbindung mit § 122 Absatz 4 in der am 31. Dezember 2014 geltenden Fassung über die Ausgaben und Einnahmen der nach Landesrecht für die Ausführung von Geldleistungen nach dem Vierten Kapitel zuständigen Träger sind dabei auch in den Berichtsjahren 2015 und 2016 durchzuführen. Die §§ 124 bis 127 sind in der am 31. Dezember 2014 geltenden Fassung anzuwenden.
 
 ### § 132 Übergangsregelung zur Sozialhilfegewährung für Deutsche im Ausland
 
@@ -2317,6 +2537,20 @@ bedarfsstufe 6
 
 229
 
+1. Januar 2015
+
+399
+
+360
+
+320
+
+302
+
+267
+
+234
+
 Regelbedarfsstufe 1:
 Für eine erwachsene leistungsberechtigte Person, die als alleinstehende oder alleinerziehende Person einen eigenen Haushalt führt; dies gilt auch dann, wenn in diesem Haushalt eine oder mehrere weitere erwachsene Personen leben, die der Regelbedarfsstufe 3 zuzuordnen sind.
 Regelbedarfsstufe 2:
@@ -2329,3 +2563,5 @@ Regelbedarfsstufe 5:
 Für ein leistungsberechtigtes Kind vom Beginn des siebten bis zur Vollendung des 14. Lebensjahres.
 Regelbedarfsstufe 6:
 Für ein leistungsberechtigtes Kind bis zur Vollendung des sechsten Lebensjahres.
+
+Anlage: Eingef. durch Art. 3 Nr. 42 G v. 24.3.2011 I 453 mWv 1.1.2011; nach Maßgabe der Urteilsgründe mit dem GG vereinbar gem. BVerfGE v. 23.7.2014 I 1581 - 1 BvL 10/2012 u.a.
