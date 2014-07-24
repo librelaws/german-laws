@@ -2,7 +2,7 @@ Verordnung über die örtliche Zuständigkeit für die Umsatzsteuer im Ausland a
 ============================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 5 G v. 8.12.2010 I 1768
+Zuletzt geändert durch Art. 26 G v. 25.7.2014 I 1266
 
 ### 
 
@@ -29,7 +29,7 @@ das Finanzamt Flensburg für im Königreich Dänemark ansässige Unternehmer,
 das Finanzamt Rostock für in der Republik Estland ansässige Unternehmer,
 
 5.  
-das Finanzamt Bremen-Mitte für in der Republik Finnland ansässige Unternehmer,
+das Finanzamt Bremen für in der Republik Finnland ansässige Unternehmer,
 
 6.  
 das Finanzamt Offenburg für in der Französischen Republik ansässige Unternehmer,
@@ -50,7 +50,7 @@ das Finanzamt München für in der Italienischen Republik ansässige Unternehmer
 das Finanzamt Kassel-Hofgeismar für in der Republik Kroatien ansässige Unternehmer,
 
 12.  
-das Finanzamt Bremen-Mitte für in der Republik Lettland ansässige Unternehmer,
+das Finanzamt Bremen für in der Republik Lettland ansässige Unternehmer,
 
 13.  
 das Finanzamt Konstanz für im Fürstentum Liechtenstein ansässige Unternehmer,
@@ -68,7 +68,7 @@ das Finanzamt Berlin Neukölln für in der Republik Mazedonien ansässige Untern
 das Finanzamt Kleve für im Königreich der Niederlande ansässige Unternehmer,
 
 18.  
-das Finanzamt Bremen-Mitte für im Königreich Norwegen ansässige Unternehmer,
+das Finanzamt Bremen für im Königreich Norwegen ansässige Unternehmer,
 
 19.  
 das Finanzamt München für in der Republik Österreich ansässige Unternehmer,
