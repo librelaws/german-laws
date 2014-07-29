@@ -2,15 +2,15 @@ Gesetz über die Sozialversicherung der selbständigen Künstler und Publizisten
 ====================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 14 G v. 22.12.2011 I 3057
+Zuletzt geändert durch Art. 2 G v. 30.7.2014 I 1311
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 1.1.1982 +++)
+(+++ Maßgaben aufgrund EinigVtr nicht mehr anzuwenden gem. Art. 109 Nr. 3
+     Buchst. f DBuchst. aa G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)
 ```
-
-(+++ Maßgaben aufgrund EinigVtr nicht mehr anzuwenden gem. Art. 109 Nr. 3 Buchst. f DBuchst. aa G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)
 
 Erster Teil Sozialversicherung der selbständigen Künstler und Publizisten
 -------------------------------------------------------------------------
