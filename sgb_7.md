@@ -2,7 +2,10 @@ Siebtes Buch Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1 des 
 ================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 6 G v. 19.10.2013 I 3836
+Zuletzt geändert durch Art. 6 G v. 19.10.2013 I 3836, dieser geändert durch Art. 3 Nr. 3 G v. 30.7.2014 I 1311
+
+Hinweis  
+Änderung durch Art. 7 G v. 23.12.2014 I 2462 (Nr. 64) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -802,7 +805,7 @@ der einem Hafen oder dem Liegeplatz eines Fahrzeugs eigentümlichen Gefahren,
 3.  
 der Beförderung von Land zum Fahrzeug oder vom Fahrzeug zum Land.
 
-(2) In Unternehmen der Seefahrt gilt als versicherte Tätigkeit auch die freie Rückbeförderung nach dem Seearbeitsgesetz.
+(2) In Unternehmen der Seefahrt gilt als versicherte Tätigkeit auch die freie Rückbeförderung nach dem Seearbeitsgesetz oder tariflichen Vorschriften.
 
 ### § 11 Mittelbare Folgen eines Versicherungsfalls
 
@@ -1331,7 +1334,7 @@ Sechster Unterabschnitt Geldleistungen während der Heilbehandlung und der Leist
 infolge des Versicherungsfalls arbeitsunfähig sind oder wegen einer Maßnahme der Heilbehandlung eine ganztägige Erwerbstätigkeit nicht ausüben können und
 
 2.  
-unmittelbar vor Beginn der Arbeitsunfähigkeit oder der Heilbehandlung Anspruch auf Arbeitsentgelt, Arbeitseinkommen, Krankengeld, Verletztengeld, Versorgungskrankengeld, Übergangsgeld, Unterhaltsgeld, Kurzarbeitergeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes Arbeitslosengeld II oder nicht nur Leistungen für Erstausstattungen für Bekleidung bei Schwangerschaft und Geburt nach dem Zweiten Buch oder Mutterschaftsgeld hatten.
+unmittelbar vor Beginn der Arbeitsunfähigkeit oder der Heilbehandlung Anspruch auf Arbeitsentgelt, Arbeitseinkommen, Krankengeld, Pflegeunterstützungsgeld, Verletztengeld, Versorgungskrankengeld, Übergangsgeld, Unterhaltsgeld, Kurzarbeitergeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes Arbeitslosengeld II oder nicht nur Leistungen für Erstausstattungen für Bekleidung bei Schwangerschaft und Geburt nach dem Zweiten Buch oder Mutterschaftsgeld hatten.
 
 (2) Verletztengeld wird auch erbracht, wenn
 
@@ -1351,7 +1354,15 @@ Das Verletztengeld wird bis zum Beginn der Leistungen zur Teilhabe am Arbeitsleb
 
 (3) Werden in einer Einrichtung Maßnahmen der Heilbehandlung und gleichzeitig Leistungen zur Teilhabe am Arbeitsleben für Versicherte erbracht, erhalten Versicherte Verletztengeld, wenn sie arbeitsunfähig sind oder wegen der Maßnahmen eine ganztägige Erwerbstätigkeit nicht ausüben können und die Voraussetzungen des Absatzes 1 Nr. 2 erfüllt sind.
 
-(4) Im Fall der Beaufsichtigung, Betreuung oder Pflege eines durch einen Versicherungsfall verletzten Kindes gilt § 45 des Fünften Buches entsprechend.
+(4) Im Fall der Beaufsichtigung, Betreuung oder Pflege eines durch einen Versicherungsfall verletzten Kindes gilt § 45 des Fünften Buches entsprechend mit der Maßgabe, dass
+
+1.  
+das Verletztengeld 100 Prozent des ausgefallenen Nettoarbeitsentgelts beträgt und
+
+2.  
+das Arbeitsentgelt bis zu einem Betrag in Höhe des 450. Teils des Höchstjahresarbeitsverdienstes zu berücksichtigen ist.
+
+Erfolgt die Berechnung des Verletztengeldes aus Arbeitseinkommen, beträgt dies 80 Prozent des erzielten regelmäßigen Arbeitseinkommens bis zu einem Betrag in Höhe des 450. Teils des Höchstjahresarbeitsverdienstes.
 
 ### § 46 Beginn und Ende des Verletztengeldes
 
@@ -1396,7 +1407,7 @@ Arbeitseinkommen ist bei der Ermittlung des Regelentgelts mit dem 360. Teil des 
 
 (3) Versicherte, die als Entwicklungshelfer Unterhaltsleistungen nach § 4 Abs. 1 Nr. 1 des Entwicklungshelfer-Gesetzes bezogen haben, erhalten Verletztengeld in Höhe dieses Betrages.
 
-(4) Bei Versicherten, die unmittelbar vor dem Versicherungsfall Krankengeld, Verletztengeld, Versorgungskrankengeld oder Übergangsgeld bezogen haben, wird bei der Berechnung des Verletztengeldes von dem bisher zugrunde gelegten Regelentgelt ausgegangen.
+(4) Bei Versicherten, die unmittelbar vor dem Versicherungsfall Krankengeld, Pflegeunterstützungsgeld, Verletztengeld, Versorgungskrankengeld oder Übergangsgeld bezogen haben, wird bei der Berechnung des Verletztengeldes von dem bisher zugrunde gelegten Regelentgelt ausgegangen.
 
 (5) Abweichend von Absatz 1 erhalten Versicherte, die den Versicherungsfall infolge einer Tätigkeit als Unternehmer, mitarbeitende Ehegatten oder Lebenspartner oder den Unternehmern nach § 6 Abs. 1 Nr. 2 Gleichgestellte erlitten haben, Verletztengeld je Kalendertag in Höhe des 450. Teils des Jahresarbeitsverdienstes. Ist das Verletztengeld für einen ganzen Kalendermonat zu zahlen, ist dieser mit 30 Tagen anzusetzen.
 
@@ -1430,7 +1441,7 @@ Auf das Verletzten- und Übergangsgeld werden von dem gleichzeitig erzielten Ein
 beitragspflichtiges Arbeitsentgelt oder Arbeitseinkommen, das bei Arbeitnehmern um die gesetzlichen Abzüge und bei sonstigen Versicherten um 20 vom Hundert vermindert ist; dies gilt nicht für einmalig gezahltes Arbeitsentgelt,
 
 2.  
-Mutterschaftsgeld, Versorgungskrankengeld, Unterhaltsgeld, Kurzarbeitergeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes Arbeitslosengeld II; dies gilt auch wenn Ansprüche auf Leistungen nach dem Dritten Buch wegen einer Sperrzeit ruhen oder das Arbeitslosengeld II nach § 31 des Zweiten Buches abgesenkt worden ist.
+Mutterschaftsgeld, Versorgungskrankengeld, Unterhaltsgeld, Kurzarbeitergeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes Arbeitslosengeld II; dies gilt auch, wenn Ansprüche auf Leistungen nach dem Dritten Buch wegen einer Sperrzeit ruhen oder das Arbeitslosengeld II nach § 31 des Zweiten Buches abgesenkt worden ist.
 
 Siebter Unterabschnitt Besondere Vorschriften für die Versicherten in der Seefahrt
 ----------------------------------------------------------------------------------
@@ -2259,10 +2270,10 @@ die in der Anlage 1 aufgeführten gewerblichen Berufsgenossenschaften,
 die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau; bei Durchführung der Aufgaben nach diesem Gesetz und in sonstigen Angelegenheiten der landwirtschaftlichen Unfallversicherung führt sie die Bezeichnung landwirtschaftliche Berufsgenossenschaft,
 
 3.  
-die Unfallkasse des Bundes,
+die Unfallversicherung Bund und Bahn,
 
 4.  
-die Eisenbahn-Unfallkasse,
+(weggefallen)
 
 5.  
 die Unfallkasse Post und Telekom,
@@ -2283,7 +2294,7 @@ Die landwirtschaftliche Berufsgenossenschaft nimmt in der landwirtschaftlichen U
 
 (2) Soweit dieses Gesetz die Unfallversicherungsträger ermächtigt, Satzungen zu erlassen, bedürfen diese der Genehmigung der Aufsichtsbehörde. Ergibt sich nachträglich, daß eine Satzung nicht hätte genehmigt werden dürfen, kann die Aufsichtsbehörde anordnen, daß der Unfallversicherungsträger innerhalb einer bestimmten Frist die erforderliche Änderung vornimmt. Kommt der Unfallversicherungsträger der Anordnung nicht innerhalb dieser Frist nach, kann die Aufsichtsbehörde die erforderliche Änderung anstelle des Unfallversicherungsträgers selbst vornehmen.
 
-(3) Für die Unfallkasse des Bundes gilt Absatz 2 mit der Maßgabe, dass bei der Genehmigung folgender Satzungen das Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium der Finanzen erforderlich ist:
+(3) Für die Unfallversicherung Bund und Bahn gilt Absatz 2 mit der Maßgabe, dass bei der Genehmigung folgender Satzungen das Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium der Finanzen erforderlich ist:
 
 1.  
 Satzungen über die Erstreckung des Versicherungsschutzes auf Personen nach § 3 Abs. 1 Nr. 2 und 3,
@@ -2295,15 +2306,15 @@ Satzungen über die Obergrenze des Jahresarbeitsverdienstes (§ 85 Abs. 2),
 Satzungen über Mehrleistungen (§ 94) und
 
 4.  
-Satzungen über die Aufwendungen der Unfallkasse (§ 186).
+Satzungen über die Aufwendungen der Unfallversicherung Bund und Bahn (§ 186).
 
-### § 115 Prävention bei der Unfallkasse des Bundes
+### § 115 Prävention bei der Unfallversicherung Bund und Bahn
 
-(1) § 15 Abs. 1 bis 4 über den Erlass von Unfallverhütungsvorschriften gilt nicht für die Unfallkasse des Bundes. Das Bundesministerium des Innern erlässt für Unternehmen, für die die Unfallkasse des Bundes zuständig ist, mit Ausnahme der in Absatz 2 genannten Unternehmen, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales nach Anhörung der Vertreterversammlung der Unfallkasse des Bundes durch allgemeine Verwaltungsvorschriften Regelungen über Maßnahmen im Sinne des § 15 Abs. 1; die Vertreterversammlung kann Vorschläge für diese Vorschriften machen. Die Unfallverhütungsvorschriften der Unfallversicherungsträger sollen dabei berücksichtigt werden. Betrifft eine allgemeine Verwaltungsvorschrift nach Satz 2 nur die Zuständigkeitsbereiche des Bundesministeriums der Verteidigung, des Bundesministeriums der Finanzen oder des Bundesministeriums für Verkehr, Bau und Stadtentwicklung, kann jedes dieser Ministerien für seinen Geschäftsbereich eine allgemeine Verwaltungsvorschrift erlassen; die Verwaltungsvorschrift bedarf in diesen Fällen des Einvernehmens mit den Bundesministerien des Innern sowie für Arbeit und Soziales.
+(1) Für die Unternehmen, für die die Unfallversicherung Bund und Bahn nach § 125 Absatz 1 Nummer 1 zuständig ist, erlässt das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales nach Anhörung der Vertreterversammlung der Unfallversicherung Bund und Bahn durch allgemeine Verwaltungsvorschriften Regelungen über Maßnahmen im Sinne des § 15 Absatz 1; die Vertreterversammlung kann Vorschläge für diese Vorschriften machen. Die Unfallverhütungsvorschriften der Unfallversicherungsträger sollen dabei berücksichtigt werden. Die Sorge der Beachtung der nach Satz 1 erlassenen Vorschriften gehört auch zu den Aufgaben des Vorstands. Betrifft eine allgemeine Verwaltungsvorschrift nach Satz 1 nur die Zuständigkeitsbereiche des Bundesministeriums der Verteidigung oder des Bundesministeriums der Finanzen, kann jedes dieser Bundesministerien für seinen Geschäftsbereich eine allgemeine Verwaltungsvorschrift erlassen; die Verwaltungsvorschrift bedarf in diesen Fällen des Einvernehmens mit den Bundesministerien des Innern sowie für Arbeit und Soziales.
 
-(2) Das Bundesministerium des Innern wird ermächtigt, für die Unternehmen, für die die Unfallkasse des Bundes nach § 125 Abs. 1 Nr. 2 bis 7 und § 125 Abs. 3 zuständig ist, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales nach Anhörung der Vertreterversammlung der Unfallkasse des Bundes Rechtsverordnungen ohne Zustimmung des Bundesrates über Maßnahmen im Sinne des § 15 Abs. 1 zu erlassen; die Vertreterversammlung kann Vorschläge für diese Vorschriften machen. Die Unfallverhütungsvorschriften der Unfallversicherungsträger sollen dabei berücksichtigt werden. Betrifft eine Rechtsverordnung nach Satz 1 nur die Zuständigkeitsbereiche des Bundesministeriums der Verteidigung, des Bundesministeriums der Finanzen oder des Bundesministeriums für Verkehr, Bau und Stadtentwicklung, ist jedes dieser Ministerien für seinen Geschäftsbereich zum Erlass einer Rechtsverordnung ermächtigt; die Rechtsverordnung bedarf in diesen Fällen des Einvernehmens mit den Bundesministerien des Innern sowie für Arbeit und Soziales.
+(2) Abweichend von § 15 Absatz 4 Satz 1 bedürfen die Unfallverhütungsvorschriften der Unfallversicherung Bund und Bahn der Genehmigung des Bundesministeriums des Innern. Die Entscheidung hierüber wird im Benehmen mit dem Bundesministerium für Arbeit und Soziales getroffen.
 
-(3) Die Aufgaben der Prävention mit Ausnahme des Erlasses von Unfallverhütungsvorschriften in den Unternehmen, für die die Unfallkasse des Bundes zuständig ist, nimmt die Zentralstelle für Arbeitsschutz beim Bundesministerium des Innern wahr. Im Auftrag der Zentralstelle handelt, soweit nichts anderes bestimmt ist, die Unfallkasse des Bundes, die insoweit der Aufsicht des Bundesministeriums des Innern unterliegt. Die Sorge für die Beachtung der Vorschriften nach den Absätzen 1 und 2 gehört auch zu den Aufgaben des Vorstands. Abweichend von den Sätzen 1 und 2 werden die Aufgaben in den Geschäftsbereichen des Bundesministeriums der Verteidigung und des Auswärtigen Amtes hinsichtlich seiner Auslandsvertretungen von dem jeweiligen Bundesministerium oder der von ihm bestimmten Stelle wahrgenommen. Die genannten Bundesministerien stellen sicher, dass die für die Überwachung und Beratung der Unternehmen eingesetzten Aufsichtspersonen eine für diese Tätigkeit ausreichende Befähigung besitzen."
+(3) Die Aufgabe der Prävention wird in den Geschäftsbereichen des Bundesministeriums der Verteidigung und des Auswärtigen Amts hinsichtlich seiner Auslandsvertretungen von dem jeweiligen Bundesministerium oder der von ihm bestimmten Stelle wahrgenommen. Die genannten Bundesministerien stellen sicher, dass die für die Überwachung und Beratung der Unternehmen eingesetzten Aufsichtspersonen eine für diese Tätigkeit ausreichende Befähigung besitzen.
 
 ### § 116 Unfallversicherungsträger im Landesbereich
 
@@ -2466,9 +2477,9 @@ Dritter Unterabschnitt Zuständigkeit der Unfallversicherungsträger der öffent
 
 ### 
 
-### § 125 Zuständigkeit der Unfallkasse des Bundes
+### § 125 Zuständigkeit der Unfallversicherung Bund und Bahn
 
-(1) Die Unfallkasse des Bundes ist zuständig
+(1) Die Unfallversicherung Bund und Bahn ist zuständig
 
 1.  
 für die Unternehmen des Bundes,
@@ -2503,25 +2514,19 @@ für Personen, die nach § 2 Abs. 3 Satz 1 Nr. 3 versichert sind,
 9.  
 für Personen, die nach § 3 Abs. 1 Nr. 3 versichert sind.
 
-(2) Der Bund kann für einzelne Unternehmen der sonst zuständigen Berufsgenossenschaft beitreten. Er kann zum Ende eines Kalenderjahres aus der Berufsgenossenschaft austreten. Über den Eintritt und den Austritt entscheidet das zuständige Bundesministerium im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium der Finanzen.
-
-(3) Der Bund kann ein Unternehmen, das in selbständiger Rechtsform betrieben wird, aus der Zuständigkeit der Berufsgenossenschaft in die Zuständigkeit der Unfallkasse des Bundes übernehmen, wenn er an dem Unternehmen überwiegend beteiligt ist oder auf seine Organe einen ausschlaggebenden Einfluß hat. Unternehmen, die erwerbswirtschaftlich betrieben werden, sollen nicht übernommen werden. Die Übernahme kann widerrufen werden; die Übernahme ist zu widerrufen, wenn die Voraussetzungen des Satzes 1 nicht mehr vorliegen. Für die Übernahme und den Widerruf gilt Absatz 2 Satz 3 entsprechend. Die Übernahme wird mit Beginn des folgenden, der Widerruf zum Ende des laufenden Kalenderjahres wirksam. Abweichend von Satz 5 wird die Übernahme, die im Kalenderjahr der Gründung eines Unternehmens erklärt wird, mit Beginn des Unternehmens wirksam.
-
-### § 126 Zuständigkeit der Eisenbahn-Unfallkasse
-
-Die Eisenbahn-Unfallkasse ist zuständig
+(2) Die Unfallversicherung Bund und Bahn ist auch zuständig
 
 1.  
 für das Bundeseisenbahnvermögen,
 
 2.  
-für die Deutsche Bahn Aktiengesellschaft und für die aus der Gesellschaft gemäß § 2 Abs. 1 des Deutsche Bahn Gründungsgesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2386) ausgegliederten Aktiengesellschaften,
+für die Deutsche Bahn AG und für die aus der Gesellschaft gemäß § 2 Absatz 1 des Deutsche Bahn Gründungsgesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2386) ausgegliederten Aktiengesellschaften,
 
 3.  
 für die Unternehmen,
 
 a)  
-die gemäß § 3 Abs. 3 des Deutsche Bahn Gründungsgesetzes aus den Unternehmen im Sinne der Nummer 2 ausgegliedert worden sind,
+die gemäß § 3 Absatz 3 des Deutsche Bahn Gründungsgesetzes aus den Unternehmen im Sinne der Nummer 2 ausgegliedert worden sind,
 
 b)  
 die von den in Nummer 2 genannten Unternehmen überwiegend beherrscht werden und
@@ -2530,10 +2535,16 @@ c)
 die unmittelbar und überwiegend Eisenbahnverkehrsleistungen erbringen oder Eisenbahninfrastruktur betreiben oder diesen Zwecken wie Hilfsunternehmen dienen,
 
 4.  
-für die Bahnversicherungsträger und die in der Anlage zu § 15 Abs. 2 des Gesetzes zur Zusammenführung und Neugliederung der Bundeseisenbahnen vom 27. Dezember 1993 (BGBl. I S. 2378) aufgeführten betrieblichen Sozialeinrichtungen und der Selbsthilfeeinrichtungen mit Ausnahme der in der Anlage unter B Nr. 6 genannten Einrichtungen sowie für die der Krankenversorgung der Bundesbahnbeamten dienenden Einrichtungen,
+für die Bahnversicherungsträger und die in der Anlage zu § 15 Absatz 2 des Bundeseisenbahnneugliederungsgesetzes vom 27. Dezember 1993 (BGBl. I S. 2378; 1994 I S. 2439) aufgeführten betrieblichen Sozialeinrichtungen und der Selbsthilfeeinrichtungen mit Ausnahme der in der Anlage unter B Nummer 6 genannten Einrichtungen sowie für die der Krankenversorgung der Bundesbahnbeamten dienenden Einrichtungen,
 
 5.  
 für Magnetschwebebahnunternehmen des öffentlichen Verkehrs.
+
+(3) Der Bund kann für einzelne Unternehmen der sonst zuständigen Berufsgenossenschaft beitreten. Er kann zum Ende eines Kalenderjahres aus der Berufsgenossenschaft austreten. Über den Eintritt und den Austritt entscheidet das zuständige Bundesministerium im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium der Finanzen.
+
+(4) Der Bund kann ein Unternehmen, das in selbständiger Rechtsform betrieben wird, aus der Zuständigkeit der Berufsgenossenschaft in die Zuständigkeit der Unfallversicherung Bund und Bahn übernehmen, wenn er an dem Unternehmen überwiegend beteiligt ist oder auf seine Organe einen ausschlaggebenden Einfluß hat. Unternehmen, die erwerbswirtschaftlich betrieben werden, sollen nicht übernommen werden. Die Übernahme kann widerrufen werden; die Übernahme ist zu widerrufen, wenn die Voraussetzungen des Satzes 1 nicht mehr vorliegen. Für die Übernahme und den Widerruf gilt Absatz 2 Satz 3 entsprechend. Die Übernahme wird mit Beginn des folgenden, der Widerruf zum Ende des laufenden Kalenderjahres wirksam. Abweichend von Satz 5 wird die Übernahme, die im Kalenderjahr der Gründung eines Unternehmens erklärt wird, mit Beginn des Unternehmens wirksam.
+
+### § 126 (weggefallen)
 
 ### § 127 Zuständigkeit der Unfallkasse Post und Telekom
 
@@ -2686,7 +2697,7 @@ Absatz 1 Nummer 1 und 1a gilt nicht für landwirtschaftliche Unternehmen der in 
 
 (2) Bei einer gemeinsamen Kapitalbeteiligung von Bund, Ländern, Gemeinden oder Gemeindeverbänden an Kapitalgesellschaften richtet sich die Zuständigkeit nach der mehrheitlichen Kapitalbeteiligung.
 
-(3) Bei gleicher Kapitalbeteiligung von Bund und Ländern sowie bei gleicher Kapitalbeteiligung von Bund und Gemeinden oder Gemeindeverbänden an Kapitalgesellschaften erfolgt die Festlegung der Zuständigkeit im gegenseitigen Einvernehmen. Das Einvernehmen ist herzustellen zwischen der jeweils nach Landesrecht zuständigen Stelle und dem Bund; § 125 Abs. 2 Satz 3 gilt entsprechend. Kann ein Einvernehmen nicht hergestellt werden, ist der Unfallversicherungsträger im Landesbereich oder im kommunalen Bereich zuständig.
+(3) Bei gleicher Kapitalbeteiligung von Bund und Ländern sowie bei gleicher Kapitalbeteiligung von Bund und Gemeinden oder Gemeindeverbänden an Kapitalgesellschaften erfolgt die Festlegung der Zuständigkeit im gegenseitigen Einvernehmen. Das Einvernehmen ist herzustellen zwischen der jeweils nach Landesrecht zuständigen Stelle und dem Bund; § 125 Absatz 3 Satz 3 gilt entsprechend. Kann ein Einvernehmen nicht hergestellt werden, ist der Unfallversicherungsträger im Landesbereich oder im kommunalen Bereich zuständig.
 
 (4) Bei gleicher Kapitalbeteiligung von Ländern an Kapitalgesellschaften erfolgt die Festlegung der Zuständigkeit im gegenseitigen Einvernehmen der nach Landesrecht zuständigen Stellen.
 
@@ -2820,7 +2831,7 @@ bei einem Dienst nach dem Bundesfreiwilligendienstgesetz die Einsatzstelle.
 
 (1) Geht die Zuständigkeit für Unternehmen nach § 136 Abs. 1 Satz 4 von einem Unfallversicherungsträger auf einen anderen über, bleibt bis zum Ablauf des Kalenderjahres, in dem die Entscheidung über das Ende der Zuständigkeit des bisherigen Unfallversicherungsträgers gegenüber dem Unternehmen bindend wird, dieser Unfallversicherungsträger für das Unternehmen zuständig. Die Unfallversicherungsträger können Abweichendes vereinbaren.
 
-(2) Geht die Zuständigkeit für ein Unternehmen oder einen Unternehmensbestandteil von einem Unfallversicherungsträger auf einen anderen über, ist dieser auch hinsichtlich der Versicherungsfälle zuständig, die vor dem Zuständigkeitswechsel eingetreten sind; die Unfallversicherungsträger können Abweichendes vereinbaren. Satz 1 gilt nicht, wenn die Zuständigkeit für ein Unternehmen von der Unfallkasse des Bundes auf einen anderen Unfallversicherungsträger übergeht.
+(2) Geht die Zuständigkeit für ein Unternehmen oder einen Unternehmensbestandteil von einem Unfallversicherungsträger auf einen anderen über, ist dieser auch hinsichtlich der Versicherungsfälle zuständig, die vor dem Zuständigkeitswechsel eingetreten sind; die Unfallversicherungsträger können Abweichendes vereinbaren. Satz 1 gilt nicht, wenn die Zuständigkeit für ein Unternehmen von der Zuständigkeit der Unfallversicherung Bund und Bahn nach § 125 Absatz 1 auf einen anderen Unfallversicherungsträger übergeht.
 
 ### § 138 Unterrichtung der Versicherten
 
@@ -2992,33 +3003,23 @@ Besoldungsgruppe B 8
 
 (4) Für vertraglich zu vereinbarende Vergütungen im Sinne des Absatzes 1 ist die Obergrenze das jeweilige Grundgehalt zuzüglich des Familienzuschlags der Stufe 2.
 
-### § 148 Dienstrechtliche Vorschriften für die Eisenbahn-Unfallkasse
+### § 148 Dienstrechtliche Vorschriften für die Unfallversicherung Bund und Bahn
 
-(1) Die Eisenbahn-Unfallkasse besitzt Dienstherrnfähigkeit im Sinne des § 2 des Bundesbeamtengesetzes. Die Beamten sind Bundesbeamte. Bei der Unfallkasse können die nach § 26 Abs.1 des Bundesbesoldungsgesetzes zulässigen Obergrenzen für Beförderungsämter überschritten werden, soweit dies wegen der mit den Funktionen verbundenen Anforderungen erforderlich ist. Für die Angestellten und Arbeiter gelten die Bestimmungen für Arbeitnehmer des Bundes.
+(1) Die Unfallversicherung Bund und Bahn besitzt Dienstherrnfähigkeit im Sinne des § 2 des Bundesbeamtengesetzes. Die Beamten sind Bundesbeamte. Für die Arbeitnehmer und Auszubildenden gelten die Bestimmungen für Arbeitnehmer und Auszubildende des Bundes.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung ernennt und entläßt auf Vorschlag des Vorstandes der Unfallkasse die Beamten. Es kann seine Befugnis auf den Vorstand übertragen mit dem Recht, diese Befugnis ganz oder teilweise auf den Geschäftsführer weiter zu übertragen.
+(2) Das Bundesministerium für Arbeit und Soziales ernennt und entlässt auf Vorschlag des Vorstandes der Unfallversicherung Bund und Bahn die Beamten. Es kann seine Befugnis auf den Vorstand übertragen mit dem Recht, diese Befugnis ganz oder teilweise auf den Geschäftsführer weiter zu übertragen.
 
-(3) Oberste Dienstbehörde ist für den Geschäftsführer und seinen Stellvertreter das Bundesministerium für Verkehr, Bau und Stadtentwicklung, für die übrigen Beamten der Vorstand der Unfallkasse, der seine Befugnisse ganz oder teilweise auf den Geschäftsführer übertragen kann.
-
-(4) Unbeschadet der Absätze 1 und 2 können das Bundeseisenbahnvermögen und die Unternehmen, für deren Versicherte die Eisenbahn-Unfallkasse Träger der Unfallversicherung ist, für die Verwaltung der Eisenbahn-Unfallkasse erforderliches Personal gegen Kostenerstattung zur Verfügung stellen. Das gilt insbesondere für Beamte und Arbeitnehmer, die bei Errichtung der Eisenbahn-Unfallkasse Aufgaben der Unfallverhütung beim Bundeseisenbahnvermögen oder der Unfallversicherung bei der Bundesbahn-Ausführungsbehörde für Unfallversicherung wahrgenommen haben. Das Arbeitnehmerüberlassungsgesetz findet keine Anwendung.
+(3) Oberste Dienstbehörde für den Geschäftsführer und seinen Stellvertreter ist das Bundesministerium für Arbeit und Soziales, für die übrigen Beamten der Vorstand der Unfallversicherung Bund und Bahn, der seine Befugnisse ganz oder teilweise auf den Geschäftsführer übertragen kann.
 
 ### § 149 Dienstrechtliche Vorschriften für die Unfallkasse Post und Telekom
 
-(1) Die Unfallkasse Post und Telekom besitzt Dienstherrnfähigkeit im Sinne § 2 des Bundesbeamtengesetzes. Die Beamten sind Bundesbeamte. Bei der Unfallkasse können die nach § 26 Abs. 1 des Bundesbesoldungsgesetzes zulässigen Obergrenzen für Beförderungsämter überschritten werden, soweit dies wegen der mit den Funktionen verbundenen Anforderungen erforderlich ist. Für die Angestellten und Arbeiter gelten die Bestimmungen für Arbeitnehmer des Bundes mit besonderen Ergänzungen, soweit dies wegen der mit den Funktionen verbundenen Anforderungen erforderlich ist.
+(1) Die Unfallkasse Post und Telekom besitzt Dienstherrnfähigkeit im Sinne des § 2 des Bundesbeamtengesetzes. Die Beamten sind Bundesbeamte. Bei der Unfallkasse können die nach § 26 Abs. 1 des Bundesbesoldungsgesetzes zulässigen Obergrenzen für Beförderungsämter überschritten werden, soweit dies wegen der mit den Funktionen verbundenen Anforderungen erforderlich ist. Für die Angestellten und Arbeiter gelten die Bestimmungen für Arbeitnehmer des Bundes mit besonderen Ergänzungen, soweit dies wegen der mit den Funktionen verbundenen Anforderungen erforderlich ist.
 
 (2) Das Bundesministerium der Finanzen ernennt und entläßt auf Vorschlag des Vorstandes der Unfallkasse die Beamten. Es kann seine Befugnis auf den Vorstand übertragen mit dem Recht, diese Befugnis ganz oder teilweise auf den Geschäftsführer weiter zu übertragen.
 
 (3) Oberste Dienstbehörde für den Geschäftsführer und seinen Stellvertreter ist das Bundesministerium der Finanzen, für die übrigen Beamten der Vorstand der Unfallkasse Post und Telekom, der seine Befugnisse ganz oder teilweise auf den Geschäftsführer übertragen kann.
 
 (4) Unbeschadet der Absätze 1 und 2 können das Bundesministerium der Finanzen und die Unternehmen, für deren Versicherte die Unfallkasse Post und Telekom Träger der Unfallversicherung ist, für die Aufgabenerfüllung der Unfallkasse Post und Telekom erforderliches Personal gegen Kostenerstattung zur Verfügung stellen. Dies gilt insbesondere für Beamte und Arbeitnehmer, die bei der Errichtung der Unfallkasse Post und Telekom Aufgaben der Unfallversicherung einschließlich Überwachung und Prävention bei der Bundespost-Ausführungsbehörde für Unfallversicherung oder der Zentralstelle Arbeitsschutz im Bundesamt für Post und Telekommunikation wahrgenommen haben. Das Arbeitnehmerüberlassungsgesetz findet keine Anwendung.
-
-### § 149a Dienstrechtliche Vorschriften für die Unfallkasse des Bundes
-
-(1) Die Unfallkasse des Bundes besitzt Dienstherrnfähigkeit im Sinne des § 2 des Bundesbeamtengesetzes. Die Beamten sind Bundesbeamte. Für die Angestellten und Arbeiter gelten die Bestimmungen für Arbeitnehmer des Bundes.
-
-(2) Das Bundesministerium für Arbeit und Soziales ernennt und entlässt auf Vorschlag des Vorstandes der Unfallkasse die Beamten. Es kann seine Befugnis auf den Vorstand übertragen mit dem Recht, diese Befugnis ganz oder teilweise auf den Geschäftsführer weiter zu übertragen.
-
-(3) Oberste Dienstbehörde für den Geschäftsführer und seinen Stellvertreter ist das Bundesministerium für Arbeit und Soziales, für die übrigen Beamten der Vorstand der Unfallkasse, der seine Befugnisse ganz oder teilweise auf den Geschäftsführer übertragen kann.
 
 Sechstes Kapitel Aufbringung der Mittel
 ---------------------------------------
@@ -3142,7 +3143,7 @@ Die Satzung kann bestimmen, daß ein einheitlicher Mindestbeitrag erhoben wird.
 
 ### § 162 Zuschläge, Nachlässe, Prämien
 
-(1) Die gewerblichen Berufsgenossenschaften haben unter Berücksichtigung der anzuzeigenden Versicherungsfälle Zuschläge aufzuerlegen oder Nachlässe zu bewilligen. Versicherungsfälle nach § 8 Abs. 2 Nr. 1 bis 4 bleiben dabei außer Ansatz. Das Nähere bestimmt die Satzung; dabei kann sie Versicherungsfälle, die durch höhere Gewalt oder durch alleiniges Verschulden nicht zum Unternehmen gehörender Personen eintreten, und Versicherungsfälle auf Betriebswegen sowie Berufskrankheiten ausnehmen. Die Höhe der Zuschläge und Nachlässe richtet sich nach der Zahl, der Schwere oder den Aufwendungen für die Versicherungsfälle oder nach mehreren dieser Merkmale. Die Satzung kann bestimmen, dass auch die nicht anzeigepflichtigen Versicherungsfälle für die Berechnung von Zuschlägen oder Nachlässen berücksichtigt werden. Die Sätze 1 bis 5 gelten auch für die Eisenbahn-Unfallkasse und für die Unfallkasse Post und Telekom. Die landwirtschaftliche Berufsgenossenschaft kann durch Satzung bestimmen, daß entsprechend den Sätzen 1 bis 5 Zuschläge auferlegt oder Nachlässe bewilligt werden.
+(1) Die gewerblichen Berufsgenossenschaften haben unter Berücksichtigung der anzuzeigenden Versicherungsfälle Zuschläge aufzuerlegen oder Nachlässe zu bewilligen. Versicherungsfälle nach § 8 Abs. 2 Nr. 1 bis 4 bleiben dabei außer Ansatz. Das Nähere bestimmt die Satzung; dabei kann sie Versicherungsfälle, die durch höhere Gewalt oder durch alleiniges Verschulden nicht zum Unternehmen gehörender Personen eintreten, und Versicherungsfälle auf Betriebswegen sowie Berufskrankheiten ausnehmen. Die Höhe der Zuschläge und Nachlässe richtet sich nach der Zahl, der Schwere oder den Aufwendungen für die Versicherungsfälle oder nach mehreren dieser Merkmale. Die Satzung kann bestimmen, dass auch die nicht anzeigepflichtigen Versicherungsfälle für die Berechnung von Zuschlägen oder Nachlässen berücksichtigt werden. Die Sätze 1 bis 5 gelten auch für den Zuständigkeitsbereich der Unfallversicherung Bund und Bahn nach § 125 Absatz 2 und für die Unfallkasse Post und Telekom. Die landwirtschaftliche Berufsgenossenschaft kann durch Satzung bestimmen, daß entsprechend den Sätzen 1 bis 5 Zuschläge auferlegt oder Nachlässe bewilligt werden.
 
 (2) Die Unfallversicherungsträger können unter Berücksichtigung der Wirksamkeit der von den Unternehmern getroffenen Maßnahmen zur Verhütung von Arbeitsunfällen und Berufskrankheiten und für die Verhütung von arbeitsbedingten Gesundheitsgefahren Prämien gewähren. Dabei sollen sie auch die in Integrationsvereinbarungen (§ 83 des Neunten Buches) getroffenen Maßnahmen der betrieblichen Prävention (§ 84 des Neunten Buches) berücksichtigen.
 
@@ -3190,7 +3191,7 @@ Vierter Unterabschnitt Umlageverfahren
 
 ### § 166 Auskunftspflicht der Unternehmer und Beitragsüberwachung
 
-(1) Für die Auskunftspflicht der Unternehmer und die Beitragüberwachung gelten § 98 des Zehnten Buches, § 28p des Vierten Buches und die Beitragsverfahrensverordnung, entsprechend mit der Maßgabe, daß sich die Auskunfts- und Vorlagepflicht der Unternehmer und die Prüfungs- und Überwachungsbefugnis der Unfallversicherungsträger auch auf Angaben und Unterlagen über die betrieblichen Verhältnisse erstreckt, die für die Veranlagung der Unternehmen und für die Zuordnung der Entgelte der Versicherten zu den Gefahrklassen erforderlich sind.
+(1) Für die Auskunftspflicht der Unternehmer und die Beitragsüberwachung gelten § 98 des Zehnten Buches, § 28p des Vierten Buches und die Beitragsverfahrensverordnung, entsprechend mit der Maßgabe, daß sich die Auskunfts- und Vorlagepflicht der Unternehmer und die Prüfungs- und Überwachungsbefugnis der Unfallversicherungsträger auch auf Angaben und Unterlagen über die betrieblichen Verhältnisse erstreckt, die für die Veranlagung der Unternehmen und für die Zuordnung der Entgelte der Versicherten zu den Gefahrklassen erforderlich sind.
 
 (2) Die Prüfung nach Absatz 1 bei den Arbeitgebern wird von den Trägern der Rentenversicherung im Auftrag der Unfallversicherung im Rahmen ihrer Prüfung nach § 28p des Vierten Buches durchgeführt. Unternehmen, bei denen der für das vorvergangene Jahr vor der Prüfung nach § 168 Absatz 1 festgestellte Beitrag einen Betrag in Höhe von 1,5 Prozent der Bezugsgröße nicht überstiegen hat, sind dabei bis auf eine durch den Unfallversicherungsträger festzulegende Stichprobe von der Prüfung ausgenommen. Satz 1 gilt nicht,
 
@@ -3523,15 +3524,15 @@ Dritter Abschnitt Besondere Vorschriften für die Unfallversicherungsträger der
 
 (5) Die Satzung kann bestimmen, daß die Beiträge nach dem Grad des Gefährdungsrisikos unter Berücksichtigung der Leistungsaufwendungen abgestuft werden; § 157 Abs. 5 und § 158 gelten entsprechend. Die Satzung kann ferner bestimmen, daß den Unternehmen unter Berücksichtigung der Versicherungsfälle, die die nach § 2 Abs. 1 Nr. 1 und 8 Versicherten erlitten haben, entsprechend den Grundsätzen des § 162 Zuschläge auferlegt, Nachlässe bewilligt oder Prämien gewährt werden.
 
-### § 186 Aufwendungen der Unfallkasse des Bundes
+### § 186 Aufwendungen der Unfallversicherung Bund und Bahn
 
-(1) Von den Vorschriften des Ersten Abschnitts finden auf die Unfallkasse des Bundes die §§ 150, 152, 155, 164 bis 166, 168, 172, 172b und 172c Anwendung, soweit nicht in den folgenden Absätzen Abweichendes geregelt ist. Das Nähere bestimmt die Satzung.
+(1) Im Zuständigkeitsbereich des § 125 Absatz 1 finden von den Vorschriften des Ersten Abschnitts die §§ 150, 152, 155, 164 bis 166, 168, 172, 172b und 172c Anwendung, soweit nicht in den folgenden Absätzen Abweichendes geregelt ist. Das Nähere bestimmt die Satzung.
 
-(2) Die Aufwendungen für Unternehmen nach § 125 Abs. 1 Nr. 3 und Abs. 3 werden auf die beteiligten Unternehmer umgelegt. § 185 Abs. 5 gilt entsprechend.
+(2) Die Aufwendungen für Unternehmen nach § 125 Absatz 1 Nummer 3 und Absatz 4 werden auf die beteiligten Unternehmer umgelegt. § 185 Abs. 5 gilt entsprechend.
 
-(3) Die Aufwendungen der Unfallkasse des Bundes für die Versicherung nach § 125 Abs. 1 Nr. 1, 4, 6 Buchstabe a, 7 und 8 werden auf die Dienststellen des Bundes umgelegt. Die Satzung bestimmt, in welchem Umfang diese Aufwendungen nach der Zahl der Versicherten oder den Arbeitsentgelten und in welchem Umfang nach dem Grad des Gefährdungsrisikos unter Berücksichtigung der Leistungsaufwendungen umgelegt werden. Die Aufwendungen für die Versicherung nach § 125 Abs. 1 Nr. 2 erstattet die Bundesagentur für Arbeit, die Aufwendungen für die Versicherung nach § 125 Abs. 1 Nr. 5 das Bundesministerium für Arbeit und Soziales, die Aufwendungen für die Versicherung nach § 125 Absatz 1 Nummer 6 Buchstabe b das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung und die Aufwendungen für die Versicherung nach § 125 Abs. 1 Nr. 9 die jeweils zuständige Dienststelle des Bundes. Die Aufwendungen für Versicherte der alliierten Streitkräfte erstatten diese nach dem NATO-Truppenstatut und den Zusatzabkommen jeweils für ihren Bereich. Im Übrigen werden die Aufwendungen der Unfallkasse des Bundes vom Bundesministerium für Arbeit und Soziales getragen.
+(3) Die Aufwendungen der Unfallversicherung Bund und Bahn für die Versicherung nach § 125 Abs. 1 Nr. 1, 4, 6 Buchstabe a, 7 und 8 werden auf die Dienststellen des Bundes umgelegt. Die Satzung bestimmt, in welchem Umfang diese Aufwendungen nach der Zahl der Versicherten oder den Arbeitsentgelten und in welchem Umfang nach dem Grad des Gefährdungsrisikos unter Berücksichtigung der Leistungsaufwendungen umgelegt werden. Die Aufwendungen für die Versicherung nach § 125 Abs. 1 Nr. 2 erstattet die Bundesagentur für Arbeit, die Aufwendungen für die Versicherung nach § 125 Abs. 1 Nr. 5 das Bundesministerium für Arbeit und Soziales, die Aufwendungen für die Versicherung nach § 125 Absatz 1 Nummer 6 Buchstabe b das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung und die Aufwendungen für die Versicherung nach § 125 Abs. 1 Nr. 9 die jeweils zuständige Dienststelle des Bundes. Die Aufwendungen für Versicherte der alliierten Streitkräfte erstatten diese nach dem NATO-Truppenstatut und den Zusatzabkommen jeweils für ihren Bereich. Im Übrigen werden die Aufwendungen der Unfallversicherung Bund und Bahn im Zuständigkeitsbereich des § 125 Absatz 1 vom Bundesministerium für Arbeit und Soziales getragen.
 
-(4) Die Dienststellen des Bundes und die Bundesagentur für Arbeit entrichten vierteljährlich im Voraus die Abschläge auf die zu erwartenden Aufwendungen. Die Unfallkasse des Bundes hat der Bundesagentur für Arbeit und den Dienststellen des Bundes die für die Erstattung erforderlichen Angaben zu machen und auf Verlangen Auskunft zu erteilen. Das Nähere über die Durchführung der Erstattung regelt die Satzung; bei den Verwaltungskosten kann auch eine pauschalierte Erstattung vorgesehen werden.
+(4) Die Dienststellen des Bundes und die Bundesagentur für Arbeit entrichten vierteljährlich im Voraus die Abschläge auf die zu erwartenden Aufwendungen. Die Unfallversicherung Bund und Bahn hat der Bundesagentur für Arbeit und den Dienststellen des Bundes die für die Erstattung erforderlichen Angaben zu machen und auf Verlangen Auskunft zu erteilen. Das Nähere über die Durchführung der Erstattung regelt die Satzung; bei den Verwaltungskosten kann auch eine pauschalierte Erstattung vorgesehen werden.
 
 Vierter Abschnitt Gemeinsame Vorschriften
 -----------------------------------------
@@ -4029,7 +4030,7 @@ Die Vorschriften des Ersten bis Neunten Kapitels gelten für Versicherungsfälle
 
 (2) Die Vorschriften über den Jahresarbeitsverdienst gelten nicht für Versicherungsfälle in dem in Artikel 3 des Einigungsvertrags genannten Gebiet, die vor dem 1. Januar 1992 eingetreten sind; für diese Versicherungsfälle ist § 1152 Abs. 2 der Reichsversicherungsordnung in der am Tag vor Inkrafttreten dieses Gesetzes geltenden Fassung weiter anzuwenden mit der Maßgabe, dass der zuletzt am 1. Juli 2001 angepasste Betrag aus § 1152 Abs. 2 der Reichsversicherungsordnung ab 1. Januar 2002 in Euro umgerechnet und auf volle Euro-Beträge aufgerundet wird.
 
-(3) Für Versicherungsfälle im Zuständigkeitsbereich der Unfallkasse des Bundes, die nach dem 31. Dezember 1991 eingetreten sind, gilt § 85 Abs. 2 Satz 1 mit der Maßgabe, daß der Jahresarbeitsverdienst höchstens das Zweifache der im Zeitpunkt des Versicherungsfalls geltenden Bezugsgröße (West) beträgt.
+(3) Für Versicherungsfälle im Zuständigkeitsbereich der Unfallversicherung Bund und Bahn nach § 125 Absatz 1, die nach dem 31. Dezember 1991 eingetreten sind, gilt § 85 Abs. 2 Satz 1 mit der Maßgabe, daß der Jahresarbeitsverdienst höchstens das Zweifache der im Zeitpunkt des Versicherungsfalls geltenden Bezugsgröße (West) beträgt.
 
 (4) Für Versicherte an Bord von Seeschiffen und für nach § 2 Abs. 1 Nr. 7 versicherte Küstenschiffer und Küstenfischer ist § 1152 Abs. 6 der Reichsversicherungsordnung in der am Tag vor Inkrafttreten dieses Gesetzes geltenden Fassung weiter anzuwenden mit der Maßgabe, daß an die Stelle der dort genannten Vorschriften der Reichsversicherungsordnung § 92 dieses Buches tritt.
 
@@ -4079,21 +4080,7 @@ auf eine Abfindung nach § 80 Abs. 1 eine Rente nach § 65 Abs. 2 Nr. 2 nicht an
 
 (2) Ist der Ehegatte vor dem 1. Januar 2012 verstorben, gelten die Vorschriften über Renten an Witwen oder Witwer mit der Maßgabe, dass der Anspruch auf eine Rente nach § 65 Abs. 2 Nr. 3 Buchstabe b ab Vollendung des 45. Lebensjahres besteht. Ist der Ehegatte nach dem 31. Dezember 2011 verstorben, gilt für die Altersgrenze des § 65 Abs. 2 Nr. 3 Buchstabe b der § 242a Abs. 5 des Sechsten Buches entsprechend.
 
-### § 218b Errichtung einer Unfallkasse des Bundes
-
-(1) Als Unfallversicherungsträger für die in § 125 genannten Unternehmen und Versicherten wird mit Wirkung vom 1. Januar 2003 die Unfallkasse des Bundes errichtet. Sie hat ihren Sitz in Wilhelmshaven und eine Verwaltungsstelle in Münster. Die Bundesausführungsbehörde für Unfallversicherung und die Ausführungsbehörde für Unfallversicherung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung werden in die Unfallkasse des Bundes überführt.
-
-(2) Die Rechte und Pflichten des Bundes als Unfallversicherungsträger gehen, soweit nichts Abweichendes bestimmt ist, auf die Unfallkasse des Bundes über. Bis zu den nächsten allgemeinen Wahlen in der Sozialversicherung richtet sich die Zahl der Mitglieder der Selbstverwaltungsorgane der Unfallkasse des Bundes nach der Summe der Zahl der Mitglieder, die für die beiden Ausführungsbehörden bestimmt worden ist. Die Mitglieder der Selbstverwaltungsorgane der Ausführungsbehörden und ihre Stellvertreter werden Mitglieder und Stellvertreter der Selbstverwaltungsorgane der Unfallkasse des Bundes. Der Geschäftsführer und der stellvertretende Geschäftsführer der Bundesausführungsbehörde für Unfallversicherung werden Geschäftsführer und stellvertretender Geschäftsführer der Unfallkasse des Bundes.
-
-(3) Abweichend von § 70 Abs. 1 des Vierten Buches wird der Haushaltsplan für das Haushaltsjahr 2003 vom Direktor der Bundesausführungsbehörde für Unfallversicherung nach Anhörung der Vertreterversammlungen der Bundesausführungsbehörde für Unfallversicherung und der Ausführungsbehörde für Unfallversicherung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung und festgestellt.
-
-(4) Die Beamten der Bundesausführungsbehörde für Unfallversicherung und der Ausführungsbehörde für Unfallversicherung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung treten mit Ablauf des 31. Dezember 2002 nach den §§ 134 bis 136 des Bundesbeamtengesetzes in den Dienst der Unfallkasse des Bundes über.
-
-(5) Die Unfallkasse des Bundes tritt mit Ablauf des 31. Dezember 2002 als Arbeitgeber in die Arbeitsverhältnisse ein, die zu dem genannten Zeitpunkt zwischen der Bundesrepublik Deutschland und den bei der Bundesausführungsbehörde für Unfallversicherung und der Ausführungsbehörde für Unfallversicherung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung beschäftigten Arbeitnehmern bestehen.
-
-(6) Die Ansprüche der im Zeitpunkt der Umbildung vorhandenen Versorgungsempfänger der Bundesausführungsbehörde für Unfallversicherung und der Ausführungsbehörde für Unfallversicherung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung werden nach § 137 Abs. 2 des Bundesbeamtengesetzes durch die Errichtung der Unfallkasse nicht berührt. Oberste Dienstbehörde für diese Versorgungsempfänger bleibt die bisherige oberste Dienstbehörde.
-
-(7) Bei der Unfallkasse des Bundes wird nach den Bestimmungen des Bundespersonalvertretungsgesetzes eine Personalvertretung gebildet. Bis zu diesem Zeitpunkt, längstens bis zum Ablauf von zwölf Monaten nach Errichtung der Unfallkasse des Bundes, nimmt der bisherige Personalrat der Bundesausführungsbehörde für Unfallversicherung, erweitert um ein Mitglied der bisherigen Personalvertretung der Ausführungsbehörde für Unfallversicherung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung, die Rechte und Pflichten nach den Bestimmungen des Bundespersonalvertretungsgesetzes wahr.
+### § 218b (weggefallen)
 
 ### § 218c Auszahlung laufender Geldleistungen bei Beginn vor dem 1. April 2004
 
