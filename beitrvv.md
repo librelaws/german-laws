@@ -2,7 +2,10 @@ Verordnung über die Berechnung, Zahlung, Weiterleitung, Abrechnung und Prüfung
 ===========================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 9 G v. 5.12.2012 I 2474
+Zuletzt geändert Art. 5 G v. 30.7.2014 I 1311
+
+Hinweis  
+Änderung durch Art. 13 G v. 11.8.2014 I 1348 (Nr. 39) noch nicht berücksichtigt
 
 ### 
 
