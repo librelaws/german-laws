@@ -229,6 +229,11 @@ Drittes Kapitel Auskunfts- und Meldepflichten
 
 Die Künstlersozialkasse kann von den Versicherten und den Zuschußberechtigten Angaben darüber verlangen, in welchem der Bereiche selbständiger künstlerischer und publizistischer Tätigkeiten das Arbeitseinkommen jeweils erzielt wurde, in welchem Umfang das Arbeitseinkommen auf Geschäften mit zur Künstlersozialabgabe Verpflichteten beruhte und von welchen zur Künstlersozialabgabe Verpflichteten Arbeitseinkommen bezogen wurde. Außerdem kann die Künstlersozialkasse von den Versicherten und den Zuschussberechtigten Angaben darüber verlangen, in welcher Höhe Arbeitseinkommen aus künstlerischen, publizistischen und sonstigen selbständigen Tätigkeiten in den vergangenen vier Kalenderjahren erzielt wurde. Für den Nachweis der Angaben zur Höhe des Arbeitseinkommens kann sie die Vorlage der erforderlichen Unterlagen, insbesondere von Einkommensteuerbescheiden oder Gewinn- und Verlustrechnungen, verlangen. Die Erhebung dieser Angaben erfolgt durch eine wechselnde jährliche Stichprobe.
 
+Viertes Kapitel Aufbringung der Mittel
+--------------------------------------
+
+### 
+
 Erster Abschnitt Grundsatz
 --------------------------
 
