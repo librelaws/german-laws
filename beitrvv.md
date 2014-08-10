@@ -2,10 +2,13 @@ Verordnung über die Berechnung, Zahlung, Weiterleitung, Abrechnung und Prüfung
 ===========================================================================================================================
 
 Stand  
-Zuletzt geändert Art. 5 G v. 30.7.2014 I 1311
+Zuletzt geändert durch Art. 13 G v. 11.8.2014 I 1348
 
 Hinweis  
-Änderung durch Art. 13 G v. 11.8.2014 I 1348 (Nr. 39) noch nicht berücksichtigt
+Änderung durch Art. 9 G v. 23.12.2014 I 2462 (Nr. 64) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 11 G v. 15.4.2015 I 583 (Nr. 15) noch nicht berücksichtigt
 
 ### 
 
@@ -68,7 +71,7 @@ Ist eine Krankenkasse der Arbeitgeber, ist der für die Pflegekasse bestimmte An
 
 ### § 4 Reihenfolge der Tilgung
 
-Schuldet der Arbeitgeber oder ein sonstiger Zahlungspflichtiger Auslagen der Einzugsstelle, Gebühren, Gesamtsozialversicherungsbeiträge, Säumniszuschläge, Zinsen, Geldbußen oder Zwangsgelder, kann er bei der Zahlung bestimmen, welche Schuld getilgt werden soll; der Arbeitgeber kann hinsichtlich der Beiträge bestimmen, dass vorrangig die Arbeitnehmeranteile getilgt werden sollen. Trifft der Arbeitgeber keine Bestimmung, werden die Schulden in der genannten Reihenfolge getilgt. Innerhalb der gleichen Schuldenart werden die einzelnen Schulden nach ihrer Fälligkeit, bei gleichzeitiger Fälligkeit anteilmäßig getilgt.
+Schuldet der Arbeitgeber oder ein sonstiger Zahlungspflichtiger Auslagen der Einzugsstelle, Gebühren, Gesamtsozialversicherungsbeiträge zuzüglich der Zusatzbeiträge nach § 242 des Fünften Buches Sozialgesetzbuch, Säumniszuschläge, Zinsen, Geldbußen oder Zwangsgelder, kann er bei der Zahlung bestimmen, welche Schuld getilgt werden soll; der Arbeitgeber kann hinsichtlich der Beiträge bestimmen, dass vorrangig die Arbeitnehmeranteile getilgt werden sollen. Trifft der Arbeitgeber keine Bestimmung, werden die Schulden in der genannten Reihenfolge getilgt. Innerhalb der gleichen Schuldenart werden die einzelnen Schulden nach ihrer Fälligkeit, bei gleichzeitiger Fälligkeit anteilmäßig getilgt.
 
 Dritter Abschnitt Weiterleitung und Abrechnung durch die Einzugsstelle
 ----------------------------------------------------------------------
@@ -121,7 +124,7 @@ Vierter Abschnitt Prüfung beim Arbeitgeber
 
 (3) (weggefallen)
 
-(4) Das Ergebnis der Prüfung ist dem Arbeitgeber schriftlich mitzuteilen; die Mitteilung soll innerhalb von zwei Monaten nach Abschluss der Prüfung dem Arbeitgeber zugehen. Die Mitteilung ist vom Arbeitgeber bis zur nächsten Prüfung aufzubewahren. In den Fällen des § 28p Abs. 1a Satz 4 des Vierten Buches Sozialgesetzbuch sind der Künstlersozialkasse die Prüfberichte und Prüfbescheide zu übersenden. Für das Ergebnis der Prüfung nach § 166 Abs. 2 des Siebten Buches gelten die Sätze 1 und 2 entsprechend. Die Feststellungen zu den Arbeitsentgelten, die bei der Berechnung der Beiträge nach dem Siebten Buch Sozialgesetzbuch zu berücksichtigen sind, und deren Zuordnung zu den Gefahrtarifstellen sind den zuständigen Unfallversicherungsträgern zu übersenden.
+(4) Das Ergebnis der Prüfung ist dem Arbeitgeber schriftlich mitzuteilen; die Mitteilung soll innerhalb von zwei Monaten nach Abschluss der Prüfung dem Arbeitgeber zugehen. Die Mitteilung ist vom Arbeitgeber bis zur nächsten Prüfung aufzubewahren. In den Fällen des § 28p Abs. 1a Satz 6 des Vierten Buches Sozialgesetzbuch sind der Künstlersozialkasse die Prüfberichte und Prüfbescheide zu übersenden. Für das Ergebnis der Prüfung nach § 166 Abs. 2 des Siebten Buches gelten die Sätze 1 und 2 entsprechend. Die Feststellungen zu den Arbeitsentgelten, die bei der Berechnung der Beiträge nach dem Siebten Buch Sozialgesetzbuch zu berücksichtigen sind, und deren Zuordnung zu den Gefahrtarifstellen sind den zuständigen Unfallversicherungsträgern zu übersenden.
 
 ### § 8 Entgeltunterlagen
 
@@ -231,7 +234,13 @@ den Nachweis der Elterneigenschaft nach § 55 Abs. 3 des Elften Buches Sozialges
 die Erklärung über den Auszahlungsverzicht von zustehenden Entgeltansprüchen,
 
 13.  
-die Aufzeichnungen nach § 19 Absatz 1 des Arbeitnehmer-Entsendegesetzes.
+die Aufzeichnungen nach § 19 Absatz 1 des Arbeitnehmer-Entsendegesetzes und nach § 17 Absatz 1 des Mindestlohngesetzes,
+
+14.  
+die Bescheinigung nach § 44a Absatz 5 des Elften Buches Sozialgesetzbuch, wenn die Beschäftigung wegen Bezugs von Pflegeunterstützungsgeld unterbrochen wird,
+
+15.  
+die Erklärung des oder der Beschäftigten zur Inanspruchnahme einer Pflegezeit im Sinne des § 3 des Pflegezeitgesetzes.
 
 ### § 9 Beitragsabrechnung
 
@@ -383,7 +392,7 @@ die Anzahl der aktuell Beschäftigten,
 die Betriebsnummern der Einzugsstellen, an die Beiträge im Prüfzeitraum abzuführen waren,
 
 14.  
-den Inhalt der Bescheide nach § 28p Abs. 1 Satz 5 und Abs. 1a Satz 3 des Vierten Buches Sozialgesetzbuch und der Mitteilung an den Unfallversicherungsträger über die Prüfung nach § 166 Abs. 2 des Siebten Buches Sozialgesetzbuch,
+den Inhalt der Bescheide nach § 28p Abs. 1 Satz 5 und Absatz 1a Satz 5 des Vierten Buches Sozialgesetzbuch und der Mitteilung an den Unfallversicherungsträger über die Prüfung nach § 166 Abs. 2 des Siebten Buches Sozialgesetzbuch,
 
 15.  
 aus den Mitteilungen der Behörden der Zollverwaltung über Prüfungen nach § 2 des Schwarzarbeitsbekämpfungsgesetzes:
@@ -419,7 +428,10 @@ die Tatsache und der Grund der Nichteinsichtnahme in die Bescheide und Prüfberi
 die Angabe, dass Beschäftigte Entgeltzahlungen durch Dritte erhalten,
 
 20.  
-die Angabe, ob der Arbeitgeber hinsichtlich der Melde- und Abgabepflicht nach dem Künstlersozialversicherungsgesetz zu prüfen ist, sowie die Kennzeichnung des Verfahrensstandes.
+die Angabe, ob der Arbeitgeber hinsichtlich der Melde- und Abgabepflicht nach dem Künstlersozialversicherungsgesetz zu prüfen ist, sowie Informationen zum Verfahrensstand hinsichtlich der Melde- und Abgabepflicht nach dem Künstlersozialversicherungsgesetz,
+
+21.  
+die Angabe, dass der Arbeitgeber die Bestätigung nach § 28p Absatz 1b Satz 5 des Vierten Buches Sozialgesetzbuch abgegeben hat.
 
 (2) Die Angaben nach Absatz 1 dürfen nur von dem zuständigen Träger der Rentenversicherung und der Datenstelle der Träger der Rentenversicherung und für Abfragen nach § 28q Abs. 5 Satz 2 des Vierten Buches Sozialgesetzbuch verarbeitet und genutzt werden.
 
