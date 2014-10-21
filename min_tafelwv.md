@@ -2,7 +2,7 @@ Verordnung über natürliches Mineralwasser, Quellwasser und Tafelwasser ()
 =========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 1.12.2006 I 2762
+Zuletzt geändert durch Art. 1 V v. 22.10.2014 I 1633
 
 ### 
 
@@ -134,6 +134,8 @@ Die zuständige Behörde hat dem Hersteller das Eingangsdatum der Anzeige nach S
 
 (5) Natürlichem Mineralwasser dürfen, vorbehaltlich Absatz 1, keine Stoffe zugesetzt werden. Es dürfen keine Verfahren zu dem Zweck durchgeführt werden, den Keimgehalt im natürlichen Mineralwasser zu verändern.
 
+(6) Die Artikel 1, 2 und 3 der Verordnung (EU) Nr. 115/2010 der Kommission vom 9. Februar 2010 zur Festlegung der Bedingungen für die Verwendung von aktiviertem Aluminiumoxid zur Entfernung von Fluorid aus natürlichen Mineralwässern und Quellwässern (ABl. L 37 vom 10.2.2010, S. 13) bleiben unberührt.
+
 ### § 6a Höchstgehalte und Analyseverfahren
 
 (1) Bei der Abfüllung natürlicher Mineralwässer sind die Höchstgehalte der in Anlage 4 aufgeführten Stoffe einzuhalten. Die aufgeführten Stoffe müssen im Wasser natürlich vorkommen und dürfen nicht aus einer Verunreinigung der Quelle stammen. Sofern in Anlage 4 bestimmte Zeitpunkte angegeben sind, sind die Höchstgehalte jeweils spätestens ab diesem Zeitpunkt einzuhalten.
@@ -172,7 +174,7 @@ unter normalen Druck- und Temperaturverhältnissen von Natur aus oder nach dem A
 den Ort der Quellnutzung und den Namen der Quelle;
 
 2.  
-die Angabe der analytischen Zusammensetzung unter Nennung der charakteristischen Bestandteile (Analysenauszug), bei Gehalten von mehr als 1,5 Milligramm Fluorid im Liter den vorhandenen Fluoridgehalt.
+die Angabe der analytischen Zusammensetzung unter Nennung der charakteristischen Bestandteile (Analysenauszug), bei Gehalten von mehr als 1,5 Milligramm Fluorid im Liter den vorhandenen Fluoridgehalt;
 
 3.  
 (weggefallen)
@@ -192,7 +194,7 @@ die Angabe "Dieses Wasser ist einem zugelassenen Oxidationsverfahren mit ozonang
 der Hinweis "Enthält mehr als 1,5 mg/l Fluorid: Für Säuglinge und Kinder unter 7 Jahren nicht zum regelmäßigen Verzehr geeignet" in unmittelbarer Nähe der Verkehrsbezeichnung, sofern das natürliche Mineralwasser mehr als 1,5 Milligramm Fluorid im Liter enthält;
 
 3.  
-ein Warnhinweis in deutscher Sprache, dass es wegen des erhöhten Fluoridgehaltes nur in begrenzten Mengen verzehrt werden darf, sofern der Gehalt an Fluorid 5 Milligramm im Liter übersteigt.
+die nach Artikel 4 der Verordnung (EU) Nr. 115/2010 vorgesehene Angabe in der dort bestimmten Art und Weise.
 
 (9) Abweichend von § 3 Abs. 1 der Lebensmittel-Kennzeichnungsverordnung braucht bei natürlichem Mineralwasser, das mit Kohlensäure versetzt ist, das Kohlendioxid nicht im Verzeichnis der Zutaten angegeben zu werden, wenn auf die zugesetzte Kohlensäure in der Verkehrsbezeichnung hingewiesen wird.
 
@@ -221,11 +223,13 @@ seinen Ursprung in unterirdischen Wasservorkommen hat und aus einer oder mehrere
 2.  
 bei der Herstellung keinen oder lediglich den nach § 6 Abs. 1 auch in Verbindung mit Abs. 2 und 3 zulässigen Verfahren unterworfen worden ist.
 
+Die Artikel 1, 2 und 3 der Verordnung (EU) Nr. 115/2010 bleiben unberührt.
+
 (2) Tafelwasser ist Wasser, das eine oder mehrere der von § 11 Abs. 1 erfaßten Zutaten enthält.
 
 ### § 11 Herstellung
 
-(1) Zur Herstellung von Tafelwasser dürfen außer Trinkwasser und natürlichem Mineralwasser nur verwendet werden:
+(1) Zur Herstellung von Tafelwasser dürfen unbeschadet der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16) außer Trinkwasser und natürlichem Mineralwasser nur verwendet werden:
 
 1.  
 Natürliches salzreiches Wasser (Natursole) oder durch Wasserentzug im Gehalt an Salzen angereichertes natürliches Mineralwasser,
@@ -237,7 +241,9 @@ Meerwasser,
 Natriumchlorid,
 
 4.  
-Zusatzstoffe nach Maßgabe der Zusatzstoff-Zulassungsverordnung .
+Magnesiumchlorid.
+
+Magnesiumchlorid nach Satz 1 Nummer 4 und Magnesiumcarbonat dürfen nur bis zu einer Gesamtkonzentration an Magnesium von 77 mg/l im angereicherten Tafelwasser zugesetzt werden.
 
 (2) (weggefallen)
 
@@ -281,7 +287,13 @@ Bei Tafelwasser, das mindestens 570 Milligramm Natriumhydrogencarbonat in einem 
 
 (5) Für Quellwasser gilt § 8 Abs. 7 Nr. 1, für Quellwasser und Tafelwasser § 8 Abs. 9 entsprechend.
 
-(6) Quellwasser darf gewerbsmäßig nur in den Verkehr gebracht werden, wenn auf dem Behältnis deutlich sichtbar, leicht lesbar und unverwischbar die Angabe "Dieses Wasser ist einem zugelassenen Oxidationsverfahren mit ozonangereicherter Luft unterzogen worden" angebracht ist, sofern eine Behandlung mit ozonangereicherter Luft stattgefunden hat.
+(6) Quellwasser darf gewerbsmäßig nur in den Verkehr gebracht werden, wenn auf dem Behältnis deutlich sichtbar, leicht lesbar und unverwischbar die folgenden Angaben angebracht sind:
+
+1.  
+„Dieses Wasser ist einem zugelassenen Oxidationsverfahren mit ozonangereicherter Luft unterzogen worden“, sofern eine Behandlung mit ozonangereicherter Luft stattgefunden hat, und
+
+2.  
+die nach Artikel 4 der Verordnung (EU) Nr. 115/2010 vorgesehene Angabe.
 
 ### § 15 Irreführende Angaben
 
@@ -341,6 +353,17 @@ des § 6 Abs. 3 Satz 1 Nr. 3,
 
 jeweils auch in Verbindung mit § 10 Abs. 1 Nr. 2 entspricht,
 
+6b.  
+natürliches Mineralwasser und Quellwasser, deren Herstellung nicht den Anforderungen
+
+a)  
+des Artikels 2 oder
+
+b)  
+des Artikels 3
+
+der Verordnung (EU) Nr. 115/2010 entspricht,
+
 7.  
 Tafelwasser, bei dessen Herstellung die in § 11 Abs. 3 genannten Grenzwerte für chemische Stoffe nicht eingehalten sind,
 
@@ -365,7 +388,7 @@ b)
 entgegen § 16 Nr. 4, 5 oder 5a natürliches Mineralwasser,
 
 c)  
-entgegen § 16 Nr. 6a Buchstabe a natürliches Mineralwasser oder Quellwasser,
+entgegen § 16 Nummer 6a Buchstabe a oder Nummer 6b Buchstabe a ein natürliches Mineralwasser oder ein Quellwasser,
 
 d)  
 entgegen § 16 Nr. 7 Tafelwasser oder
@@ -380,7 +403,15 @@ in den Verkehr bringt.
 (3) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer
 
 1.  
-entgegen § 8 Abs. 8 Nr. 1 oder § 14 Abs. 6 natürliches Mineralwasser oder Quellwasser in den Verkehr bringt, bei dem die vorgeschriebene Angabe nicht oder nicht in der vorgeschriebenen Weise angebracht ist oder
+entgegen
+
+a)  
+§ 8 Absatz 8 Nummer 1 oder Nummer 3 ein natürliches Mineralwasser oder
+
+b)  
+§ 14 Absatz 6 ein Quellwasser
+
+in den Verkehr bringt,
 
 2.  
 einer Vorschrift des § 9 oder des § 15, auch in Verbindung mit § 18, über irreführende Angaben zuwiderhandelt oder
@@ -411,7 +442,7 @@ entgegen § 12 Abs. 3 Quellwasser nicht am Quellort abfüllt,
 entgegen § 16 Nr. 3 natürliches Mineralwasser oder Quellwasser in den Verkehr bringt oder
 
 4.  
-entgegen § 16 Nr. 6a Buchstabe b natürliches Mineralwasser oder Quellwasser in den Verkehr bringt.
+entgegen § 16 Nummer 6a Buchstabe b oder Nummer 6b Buchstabe b natürliches Mineralwasser oder Quellwasser in den Verkehr bringt.
 
 (6) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen § 3 Abs. 1 Satz 1 natürliches Mineralwasser in den Verkehr bringt, das nicht amtlich anerkannt ist.
 
@@ -438,7 +469,7 @@ Für Trinkwasser, das nicht die Anforderungen des § 2 oder des § 10 erfüllt u
 
 (3) Wässer, die den Vorschriften dieser Verordnung in der vom 4. Juni 2004 an geltenden Fassung nicht entsprechen, dürfen noch bis zum 30. Juni 2004 nach den bisher geltenden Vorschriften hergestellt und abgefüllt und über diesen Zeitpunkt hinaus in den Verkehr gebracht werden. Natürliche Mineralwässer, bei denen vor Ablauf der in Anlage 4 genannten Fristen die jeweiligen Höchstgehalte für Stoffe eingehalten sind, dürfen bis zum Abverkauf der Bestände in den Verkehr gebracht werden.
 
-(4) § 8 Abs. 8 Nr. 3 ist ab dem 1. Januar 2008 nicht mehr anzuwenden.
+(4) (weggefallen)
 
 ### § 21 Inkrafttreten, abgelöste Vorschrift
 
@@ -481,7 +512,7 @@ a)
 Flüssiganreicherung in doppelt konzentrierter Laktosebouillon, Bebrütungstemperatur 37 Grad +- 1 Grad C oder 42 Grad +- 0,5 Grad C, Bebrütungszeit 20 +- 4 Stunden (Beobachtungszeit und Bebrütung bis 44 +- 4 Stunden), oder
 
 b)  
-Membranfiltration und Bebrütung des Membranfilters auf Laktose-Fuchsin-Sulfitagar (Endoagar), Bebrütungstemperatur 37 Grad +- 1 Grad C oder 42 Grad +- 0,5 Grad C, EUR Bebrütungszeit 20 +- 4 Stunden,
+Membranfiltration und Bebrütung des Membranfilters auf Laktose-Fuchsin-Sulfitagar (Endoagar), Bebrütungstemperatur 37 Grad +- 1 Grad C oder 42 Grad +- 0,5 Grad C, Bebrütungszeit 20 +- 4 Stunden,
 
 erfolgen.Eine endgültige Diagnose ist durch das Stoffwechselmerkmal "Gas- und Säurebildung aus Laktose", bzw. Bildung von fuchsinroten Kolonien auf dem bebrüteten Membranfilter allein nicht möglich, so daß zusätzlich nach Sub- bzw. Reinkultur auf Endoagar mindestens folgende Stoffwechselmerkmale geprüft werden müssen:Cytochromoxydasereaktion: negativLaktosevergärung: Gas- und Säurebildung bei 37 Grad +- 1 Grad C innerhalb 20 +- 4 StundenIndolbildung aus tryptophanhaltiger Bouillon: positivSpaltung von Laktose, Dextrose oder Mannit bei 44 Grad +- 0,5 Grad C innerhalb von 20 +- 4 Stunden zu Gas und Säure: positiv.Ausnutzung von Citrat als einziger Kohlenstoffquelle: negativ.
 
@@ -1051,7 +1082,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 <td> </td>
 </tr>
 <tr class="even">
-<td>Flouridhaltig</td>
+<td>Fluoridhaltig</td>
 </tr>
 <tr class="odd">
 <td> </td>
