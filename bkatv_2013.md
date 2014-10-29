@@ -1,8 +1,11 @@
 Verordnung über die Erteilung einer Verwarnung, Regelsätze für Geldbußen und die Anordnung eines Fahrverbotes wegen Ordnungswidrigkeiten im Straßenverkehr (BKatV)
 ==================================================================================================================================================================
 
+Stand  
+Zuletzt geändert durch Art. 3 V v. 30.10.2014 I 1666
+
 Hinweis  
-Änderung durch Art. 4 V v. 5.11.2013 I 3920 (Nr. 66) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Mittelbare Änderung durch Art. 7b V v. 16.4.2014 I 348 ist berücksichtigt
 
 ### 
 
@@ -16,7 +19,7 @@ Auf Grund des § 26a des Straßenverkehrsgesetzes in der Fassung der Bekanntmach
 
 ### § 1 Bußgeldkatalog
 
-(1) Bei Ordnungswidrigkeiten nach den §§ 24, 24a und 24c des Straßenverkehrsgesetzes, die in der Anlage zu dieser Verordnung (Bußgeldkatalog – BKat) aufgeführt sind, ist eine Geldbuße nach den dort bestimmten Beträgen festzusetzen. Bei Ordnungswidrigkeiten nach § 24 des Straßenverkehrsgesetzes, bei denen im Bußgeldkatalog ein Regelsatz von bis zu 35 Euro bestimmt ist, ist ein entsprechendes Verwarnungsgeld zu erheben.
+(1) Bei Ordnungswidrigkeiten nach den §§ 24, 24a und 24c des Straßenverkehrsgesetzes, die in der Anlage zu dieser Verordnung (Bußgeldkatalog – BKat) aufgeführt sind, ist eine Geldbuße nach den dort bestimmten Beträgen festzusetzen. Bei Ordnungswidrigkeiten nach § 24 des Straßenverkehrsgesetzes, bei denen im Bußgeldkatalog ein Regelsatz von bis zu 55 Euro bestimmt ist, ist ein entsprechendes Verwarnungsgeld zu erheben.
 
 (2) Die im Bußgeldkatalog bestimmten Beträge sind Regelsätze. Sie gehen von gewöhnlichen Tatumständen sowie in Abschnitt I des Bußgeldkatalogs von fahrlässiger und in Abschnitt II des Bußgeldkatalogs von vorsätzlicher Begehung aus.
 
@@ -26,7 +29,7 @@ Auf Grund des § 26a des Straßenverkehrsgesetzes in der Fassung der Bekanntmach
 
 (2) Bei unbedeutenden Ordnungswidrigkeiten nach § 24 des Straßenverkehrsgesetzes kommt eine Verwarnung ohne Verwarnungsgeld in Betracht.
 
-(3) Das Verwarnungsgeld wird in Höhe von 5, 10, 15, 20, 25, 30 und 35 Euro erhoben.
+(3) Das Verwarnungsgeld wird in Höhe von 5, 10, 15, 20, 25, 30, 35, 40, 45, 50 und 55 Euro erhoben.
 
 (4) Bei Fußgängern soll das Verwarnungsgeld in der Regel 5 Euro, bei Radfahrern in der Regel 15 Euro betragen, sofern der Bußgeldkatalog nichts anderes bestimmt.
 
@@ -40,11 +43,11 @@ Auf Grund des § 26a des Straßenverkehrsgesetzes in der Fassung der Bekanntmach
 
 ### § 3 Bußgeldregelsätze
 
-(1) Etwaige Eintragungen des Betroffenen im Verkehrszentralregister sind im Bußgeldkatalog nicht berücksichtigt, soweit nicht in den Nummern 152.1, 241.1, 241.2, 242.1 und 242.2 des Bußgeldkatalogs etwas anderes bestimmt ist.
+(1) Etwaige Eintragungen des Betroffenen im Fahreignungsregister sind im Bußgeldkatalog nicht berücksichtigt, soweit nicht in den Nummern 152.1, 241.1, 241.2, 242.1 und 242.2 des Bußgeldkatalogs etwas anderes bestimmt ist.
 
-(2) Wird ein Tatbestand der Nummer 119, der Nummer 198.1 in Verbindung mit Tabelle 3 des Anhangs oder der Nummern 212, 214.1, 214.2 oder 223 des Bußgeldkatalogs, für den ein Regelsatz von mehr als 35 Euro vorgesehen ist, vom Halter eines Kraftfahrzeugs verwirklicht, so ist derjenige Regelsatz anzuwenden, der in diesen Fällen für das Anordnen oder Zulassen der Inbetriebnahme eines Kraftfahrzeugs durch den Halter vorgesehen ist.
+(2) Wird ein Tatbestand der Nummer 119, der Nummer 198.1 in Verbindung mit Tabelle 3 des Anhangs oder der Nummern 212, 214.1, 214.2 oder 223 des Bußgeldkatalogs, für den ein Regelsatz von mehr als 55 Euro vorgesehen ist, vom Halter eines Kraftfahrzeugs verwirklicht, so ist derjenige Regelsatz anzuwenden, der in diesen Fällen für das Anordnen oder Zulassen der Inbetriebnahme eines Kraftfahrzeugs durch den Halter vorgesehen ist.
 
-(3) Die Regelsätze, die einen Betrag von mehr als 35 Euro vorsehen, erhöhen sich bei Vorliegen einer Gefährdung oder Sachbeschädigung nach Tabelle 4 des Anhangs, soweit diese Merkmale oder eines dieser Merkmale nicht bereits im Tatbestand des Bußgeldkatalogs enthalten sind.
+(3) Die Regelsätze, die einen Betrag von mehr als 55 Euro vorsehen, erhöhen sich bei Vorliegen einer Gefährdung oder Sachbeschädigung nach Tabelle 4 des Anhangs, soweit diese Merkmale oder eines dieser Merkmale nicht bereits im Tatbestand des Bußgeldkatalogs enthalten sind.
 
 (4) Wird von dem Führer eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern oder eines Kraftomnibusses mit Fahrgästen ein Tatbestand
 
@@ -52,12 +55,12 @@ Auf Grund des § 26a des Straßenverkehrsgesetzes in der Fassung der Bekanntmach
 der Nummern 8.1, 8.2, 15, 19, 19.1, 19.1.1, 19.1.2, 21, 21.1, 21.2, 212, 214.1, 214.2, 223,
 
 2.  
-der Nummern 12.5 oder 12.6, jeweils in Verbindung mit Tabelle 2 des Anhangs, oder
+der Nummern 12.5, 12.6 oder 12.7, jeweils in Verbindung mit Tabelle 2 des Anhangs, oder
 
 3.  
 der Nummern 198.1 oder 198.2, jeweils in Verbindung mit Tabelle 3 des Anhangs,
 
-des Bußgeldkatalogs verwirklicht, so erhöht sich der dort genannte Regelsatz, sofern dieser einen Betrag von mehr als 35 Euro vorsieht, auch in den Fällen des Absatzes 3, jeweils um die Hälfte. Der nach Satz 1 erhöhte Regelsatz ist auch anzuwenden, wenn der Halter die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern oder eines Kraftomnibusses mit Fahrgästen in den Fällen
+des Bußgeldkatalogs verwirklicht, so erhöht sich der dort genannte Regelsatz, sofern dieser einen Betrag von mehr als 55 Euro vorsieht, auch in den Fällen des Absatzes 3, jeweils um die Hälfte. Der nach Satz 1 erhöhte Regelsatz ist auch anzuwenden, wenn der Halter die Inbetriebnahme eines kennzeichnungspflichtigen Kraftfahrzeugs mit gefährlichen Gütern oder eines Kraftomnibusses mit Fahrgästen in den Fällen
 
 1.  
 der Nummern 189.1.1, 189.1.2, 189.2.1, 189.2.2, 189.3.1, 189.3.2, 213 oder
@@ -67,11 +70,11 @@ der Nummern 199.1, 199.2, jeweils in Verbindung mit der Tabelle 3 des Anhangs, o
 
 des Bußgeldkatalogs anordnet oder zulässt.
 
-(4a) Wird ein Tatbestand des Abschnitts I des Bußgeldkatalogs vorsätzlich verwirklicht, für den ein Regelsatz von mehr als 35 Euro vorgesehen ist, so ist der dort genannte Regelsatz zu verdoppeln, auch in den Fällen, in denen eine Erhöhung nach den Absätzen 2, 3 oder 4 vorgenommen worden ist. Der ermittelte Betrag wird auf den nächsten vollen Euro-Betrag abgerundet.
+(4a) Wird ein Tatbestand des Abschnitts I des Bußgeldkatalogs vorsätzlich verwirklicht, für den ein Regelsatz von mehr als 55 Euro vorgesehen ist, so ist der dort genannte Regelsatz zu verdoppeln, auch in den Fällen, in denen eine Erhöhung nach den Absätzen 2, 3 oder 4 vorgenommen worden ist. Der ermittelte Betrag wird auf den nächsten vollen Euro-Betrag abgerundet.
 
-(5) Werden durch eine Handlung mehrere Tatbestände des Bußgeldkatalogs verwirklicht, die jeweils einen Bußgeldregelsatz von mehr als 35 Euro vorsehen, so ist nur ein Regelsatz anzuwenden; bei unterschiedlichen Regelsätzen ist der höchste anzuwenden. Der Regelsatz kann angemessen erhöht werden.
+(5) Werden durch eine Handlung mehrere Tatbestände des Bußgeldkatalogs verwirklicht, die jeweils einen Bußgeldregelsatz von mehr als 55 Euro vorsehen, so ist nur ein Regelsatz anzuwenden; bei unterschiedlichen Regelsätzen ist der höchste anzuwenden. Der Regelsatz kann angemessen erhöht werden.
 
-(6) Bei Ordnungswidrigkeiten nach § 24 des Straßenverkehrsgesetzes, die von nicht motorisierten Verkehrsteilnehmern begangen werden, ist, sofern der Bußgeldregelsatz mehr als 35 Euro beträgt und der Bußgeldkatalog nicht besondere Tatbestände für diese Verkehrsteilnehmer enthält, der Regelsatz um die Hälfte zu ermäßigen. Beträgt der nach Satz 1 ermäßigte Regelsatz weniger als 40 Euro, so soll eine Geldbuße nur festgesetzt werden, wenn eine Verwarnung mit Verwarnungsgeld nicht erteilt werden kann.
+(6) Bei Ordnungswidrigkeiten nach § 24 des Straßenverkehrsgesetzes, die von nicht motorisierten Verkehrsteilnehmern begangen werden, ist, sofern der Bußgeldregelsatz mehr als 55 Euro beträgt und der Bußgeldkatalog nicht besondere Tatbestände für diese Verkehrsteilnehmer enthält, der Regelsatz um die Hälfte zu ermäßigen. Beträgt der nach Satz 1 ermäßigte Regelsatz weniger als 60 Euro, so soll eine Geldbuße nur festgesetzt werden, wenn eine Verwarnung mit Verwarnungsgeld nicht erteilt werden kann.
 
 ### § 4 Regelfahrverbot
 
@@ -81,10 +84,10 @@ des Bußgeldkatalogs anordnet oder zulässt.
 der Nummern 9.1 bis 9.3, der Nummern 11.1 bis 11.3, jeweils in Verbindung mit Tabelle 1 des Anhangs,
 
 2.  
-der Nummern 12.5.3, 12.5.4 oder 12.5.5 Tabelle 2 des Anhangs, soweit die Geschwindigkeit mehr als 100 km/h beträgt, oder der Nummern 12.6.3, 12.6.4 oder 12.6.5 der Tabelle 2 des Anhangs,
+der Nummern 12.6.3, 12.6.4, 12.6.5, 12.7.3, 12.7.4 oder 12.7.5 der Tabelle 2 des Anhangs,
 
 3.  
-der Nummern 19.1.1, 19.1.2, 21.1, 21.2, 83.3, 89a.2, 132.1, 132.2, 132.3, 132.3.1, 132.3.2, 152.1 oder
+der Nummern 19.1.1, 19.1.2, 21.1, 21.2, 83.3, 89b.2, 132.1, 132.2, 132.3, 132.3.1, 132.3.2, 152.1 oder
 
 4.  
 der Nummern 244 oder 248
@@ -176,7 +179,7 @@ stehendes Fahrzeug beschädigt
 
 2
 
-Vorschriftswidrig Gehweg, Seitenstreifen
+Vorschriftswidrig Gehweg, linksseitig angelegten Radweg, Seitenstreifen
 (außer auf Autobahnen oder Kraftfahrstraßen),
 Verkehrsinsel oder Grünanlage benutzt
 
@@ -200,6 +203,12 @@ Verkehrsinsel oder Grünanlage benutzt
 – mit Gefährdung
 
  20 €
+
+2.3
+
+– mit Sachbeschädigung
+
+25 €
 
 3
 
@@ -339,7 +348,7 @@ Montage (ABl. L 129 vom 14.5.1992, S. 95), die zuletzt durch die Richtlinie 2005
 § 2 Absatz 3a Satz 1
 § 49 Absatz 1 Nummer 2
 
- 40 €
+ 60 €
 
 5a.1
 
@@ -366,78 +375,106 @@ aufgesucht
 
 7
 
-Beim Radfahren oder Mofafahren
+Beim Radfahren oder Mofafahren, soweit dies durch Treten fortbewegt wird
 
 7.1
 
-Radweg (Zeichen 237, 240, 241) nicht benutzt oder
-in nicht zulässiger Richtung befahren
+Radweg (Zeichen 237, 240, 241) nicht benutzt
 
-§ 2 Absatz 4 Satz 4
-§ 49 Absatz 1 Nummer 2
 § 41 Absatz 1 i. V. m.
 Anlage 2 lfd. Nr. 16, 19, 20 (Zeichen 237, 240, 241) Spalte 3 Nummer 1
-§ 49 Absatz 3 Nummer 4
+auch i. V. m.
+§ 2 Absatz 4 Satz 6
+§ 49 Absatz 3 Nummer 4 auch i. V. m.
+Absatz 1 Nummer 2
 
- 20 €
+20 €
 
 7.1.1
 
 – mit Behinderung
 
-§ 2 Absatz 4 Satz 4
-§ 1 Absatz 2
-§ 49 Absatz 1 Nummer 1, 2
 § 41 Absatz 1 i. V. m.
 Anlage 2 lfd. Nr. 16, 19, 20 (Zeichen 237, 240, 241) Spalte 3 Nummer 1
+auch i. V. m.
+§ 2 Absatz 4 Satz 6
 § 1 Absatz 2
-§ 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4
+§ 49 Absatz 1 Nummer 1,
+Absatz 3 Nummer 4
+auch i. V. m.
+Absatz 1 Nummer 2
 
- 25 €
+25 €
 
 7.1.2
 
 – mit Gefährdung
 
- 30 €
+30 €
 
 7.1.3
 
 – mit Sachbeschädigung
 
- 35 €
+35 €
 
 7.2
 
 Fahrbahn, Radweg oder Seitenstreifen nicht
 vorschriftsmäßig benutzt
 
-§ 2 Absatz 4 Satz 1, 4, 5
-§ 49 Absatz 1 Nummer 2
-
- 15 €
-
 7.2.1
 
 – mit Behinderung
 
-§ 2 Absatz 4 Satz 1, 4, 5
+§ 2 Absatz 4 Satz 1, 5
 § 1 Absatz 2
 § 49 Absatz 1 Nummer 1, 2
 
- 20 €
+20 €
 
 7.2.2
 
 – mit Gefährdung
 
- 25 €
+25 €
 
 7.2.3
 
 – mit Sachbeschädigung
 
- 30 €
+30 €
+
+7.3
+
+Radweg in nicht zulässiger Richtung befahren, obwohl Radweg oder Seitenstreifen in zulässiger Richtung vorhanden
+
+§ 2 Absatz 4 Satz 4
+§ 49 Absatz 1 Nummer 2
+
+20 €
+
+7.3.1
+
+– mit Behinderung
+
+§ 2 Absatz 4 Satz 4
+§ 1 Absatz 2
+§ 49 Absatz 1 Nummer 1, 2
+
+25 €
+
+7.3.2
+
+– mit Gefährdung
+
+30 €
+
+7.3.3
+
+– mit Sachbeschädigung
+
+35 €
 
 **Geschwindigkeit**
 
@@ -620,11 +657,17 @@ Buchstabe a
 
 12.6
 
-bei einer Geschwindigkeit von mehr als 130 km/h, sofern der Abstand in Metern weniger als ein Viertel
-des Tachowertes betrug
+bei einer Geschwindigkeit von mehr als 100 km/h, sofern der Abstand in Metern weniger als ein Viertel des Tachowertes betrug
 
 Tabelle 2
 Buchstabe b
+
+12.7
+
+bei einer Geschwindigkeit von mehr als 130 km/h, sofern der Abstand in Metern weniger als ein Viertel des Tachowertes betrug
+
+Tabelle 2
+Buchstabe c
 
 13
 
@@ -1358,7 +1401,7 @@ worden ist
 § 1 Absatz 2
 § 49 Absatz 1 Nummer 1, 12
 
- 40 €
+ 60 €
 
 52
 
@@ -1539,7 +1582,7 @@ behindert
 § 1 Absatz 2
 § 49 Absatz 1 Nummer 1, 12
 
- 50 €
+ 65 €
 
 54
 
@@ -1913,7 +1956,7 @@ Liegen gebliebenes mehrspuriges Fahrzeug nicht oder nicht wie vorgeschrieben abg
 § 1 Absatz 2
 § 49 Absatz 1 Nummer 1, 15
 
- 40 €
+ 60 €
 
 **Abschleppen von Fahrzeugen**
 
@@ -2071,7 +2114,7 @@ Schneefall oder Regen außerhalb geschlossener Ortschaften am Tage nicht mit Abb
 § 17 Absatz 3 Satz 1
 § 49 Absatz 1 Nummer 17
 
- 40 €
+ 60 €
 
 77
 
@@ -2323,7 +2366,7 @@ behindert
 § 49 Absatz 1 Nummer 19
 Buchstabe b
 
- 40 €,
+ 60 €,
 soweit sich
 nicht aus
 Nummer 11
@@ -2339,7 +2382,7 @@ gefährdet
 § 49 Absatz 1 Nummer 1, 19
 Buchstabe b
 
- 50 €,
+ 70 €,
 soweit sich
 nicht aus
 Nummer 11,
@@ -2356,7 +2399,7 @@ Omnibus des Linienverkehrs oder gekennzeichneten Schulbus, der sich mit eingesch
 § 49 Absatz 1 Nummer 19
 Buchstabe b
 
- 40 €
+ 60 €
 
 94
 
@@ -2383,7 +2426,7 @@ behindert
 § 49 Absatz 1 Nummer 19
 Buchstabe b
 
- 40 €,
+ 60 €,
 soweit sich
 nicht aus
 Nummer 11
@@ -2399,7 +2442,7 @@ gefährdet
 § 49 Absatz 1 Nummer 1, 19
 Buchstabe b
 
- 50 €,
+ 70 €,
 soweit sich
 nicht aus
 Nummer 11,
@@ -2483,13 +2526,13 @@ Absatz 2
 
 bei einem Kind
 
- 40 €
+ 60 €
 
 99.2
 
 bei mehreren Kindern
 
- 50 €
+ 70 €
 
 100
 
@@ -2526,7 +2569,7 @@ bei Lastkraftwagen oder Kraftomnibussen bzw. ihren Anhängern
 § 22 Absatz 1
 § 49 Absatz 1 Nummer 21
 
- 50 €
+ 60 €
 
 102.1.1
 
@@ -2556,7 +2599,7 @@ Kraftfahrzeugen bzw. ihren Anhängern
 § 1 Absatz 2
 § 49 Absatz 1 Nummer 1, 21
 
- 50 €
+ 60 €
 
 103
 
@@ -2574,7 +2617,7 @@ Fahrzeug geführt, dessen Höhe zusammen mit der Ladung mehr als 4,20 m betrug
 § 22 Absatz 2 Satz 1
 § 49 Absatz 1 Nummer 21
 
- 40 €
+ 60 €
 
 105
 
@@ -2775,7 +2818,7 @@ die gesetzlich allgemein zugelassenen Grenzen tatsächlich überschritten oder d
 § 29 Absatz 3
 § 49 Absatz 2 Nummer 7
 
- 40 €
+ 60 €
 
 **Umweltschutz**
 
@@ -2807,7 +2850,7 @@ Verbotswidrig an einem Sonntag oder Feiertag gefahren
 § 30 Absatz 3 Satz 1
 § 49 Absatz 1 Nummer 25
 
- 75 €
+ 120 €
 
 120
 
@@ -2816,7 +2859,7 @@ Als Halter das verbotswidrige Fahren an einem Sonntag oder Feiertag angeordnet o
 § 30 Absatz 3 Satz 1
 § 49 Absatz 1 Nummer 25
 
-380 €
+570 €
 
 **Inline-Skaten und Rollschuhfahren**
 
@@ -2877,7 +2920,7 @@ Gegenstand auf eine Straße gebracht oder dort liegen gelassen, obwohl dadurch d
 § 32 Absatz 1 Satz 1
 § 49 Absatz 1 Nummer 27
 
- 40 €
+ 60 €
 
 124
 
@@ -2953,7 +2996,7 @@ befolgt
 Absatz 2, Absatz 4, Absatz 5 Satz 4
 § 49 Absatz 3 Nummer 1
 
- 50 €
+ 70 €
 
 **Wechsellichtzeichen, Dauerlichtzeichen und Grünpfeil**
 
@@ -3008,7 +3051,7 @@ den Fahrzeugverkehr der freigegebenen Verkehrsrichtungen, ausgenommen den Fahrra
 
 132
 
-Beim Führen eines Fahrzeugs in anderen als den Fällen des Rechtsabbiegens mit Grünpfeil rotes Wechsellichtzeichen oder rotes Dauerlichtzeichen nicht befolgt
+Als Kfz-Führer in anderen als den Fällen des Rechtsabbiegens mit Grünpfeil rotes Wechsellichtzeichen oder rotes Dauerlichtzeichen nicht befolgt
 
 § 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2,
 Absatz 3 Satz 1, 2
@@ -3069,6 +3112,58 @@ Absatz 3 Nummer 2
 360 €
 **Fahrverbot
 1 Monat**
+
+132a
+
+Als Radfahrer in anderen als den Fällen des Rechtsabbiegens mit Grünpfeil rotes Wechsellichtzeichen oder rotes Dauerlichtzeichen nicht befolgt
+
+§ 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2, Absatz 3 Satz 1, 2
+§ 49 Absatz 3 Nummer 2
+
+60 €
+
+132a.1
+
+– mit Gefährdung
+
+§ 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2, Absatz 3 Satz 1, 2
+
+100 €
+
+132a.2
+
+– mit Sachbeschädigung
+
+§ 1 Absatz 2
+§ 49 Absatz 1 Nummer 1, Absatz 3 Nummer 2
+
+120 €
+
+132a.3
+
+bei schon länger als 1 Sekunde andauernder Rotphase eines Wechsellichtzeichens
+
+§ 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2
+§ 49 Absatz 3 Nummer 2
+
+100 €
+
+132a.3.1
+
+– mit Gefährdung
+
+§ 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2
+
+160 €
+
+132a.3.2
+
+– mit Sachbeschädigung
+
+§ 1 Absatz 2
+§ 49 Absatz 1 Nummer 1, Absatz 3 Nummer 2
+
+180 €
 
 133
 
@@ -3552,7 +3647,7 @@ Anlage 2 lfd. Nr. 3
 § 1 Absatz 2
 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 4
 
- 50 €
+ 70 €
 
 151
 
@@ -3568,13 +3663,13 @@ Zusatzzeichen) Spalte 3 Nummer 2
 § 1 Absatz 2
 § 49 Absatz 3 Nummer 1, 4
 
- 40 €
+ 60 €
 
 151.2
 
 bei nicht zugelassenem Fahrzeugverkehr
 
- 50 €
+ 70 €
 
 152
 
@@ -3590,7 +3685,7 @@ Anlage 2 lfd. Nr. 35, 43 (Zeichen 261, 269) Spalte 3
 152.1
 
 bei Eintragung von bereits einer Entscheidung
-wegen Verstoßes gegen Zeichen 261 oder 269 im Verkehrszentralregister
+wegen Verstoßes gegen Zeichen 261 oder 269 im Fahreignungsregister
 
 250 €
 **Fahrverbot
@@ -3607,7 +3702,7 @@ Anlage 2 lfd. Nr. 44, 45 (Zeichen 270.1, 270.2)
 Spalte 3
 § 49 Absatz 3 Nummer 4
 
- 40 €
+ 80 €
 
 153a
 
@@ -3750,7 +3845,7 @@ Anlage 3 lfd. Nr. 12 (Zeichen 325.1) Spalte 3 Nummer 2
 
 – Fußgängerverkehr gefährdet
 
- 40 €
+ 60 €
 
 (158)
 
@@ -3842,7 +3937,7 @@ Anlage 3 lfd. Nr. 14
 (Zeichen 327) Spalte 3 Nummer 1
 § 49 Absatz 3 Nummer 5
 
- 40 €
+ 60 €
 
 159c
 
@@ -3893,7 +3988,7 @@ zuwidergehandelt
 § 45 Absatz 4 Halbsatz 2
 § 49 Absatz 3 Nummer 7
 
- 40 €
+ 60 €
 
 165
 
@@ -3915,7 +4010,7 @@ Vollziehbare Auflage einer Ausnahmegenehmigung oder Erlaubnis nicht befolgt
 § 46 Absatz 3 Satz 1
 § 49 Absatz 4 Nummer 4
 
- 40 €
+ 60 €
 
 167
 
@@ -4071,20 +4166,25 @@ Bescheinigung nicht mitgeführt
 
 175
 
-Kraftfahrzeug oder Kraftfahrzeuganhänger ohne die
-erforderliche EG-Typgenehmigung, Einzelgenehmigung, Zulassung oder außerhalb des auf dem Saisonkennzeichen angegebenen Betriebszeitraums oder nach
-dem auf dem Kurzzeitkennzeichen oder nach dem auf dem Ausfuhrkennzeichen angegebenen Ablaufdatum
-oder Fahrzeug mit Wechselkennzeichen ohne oder mit einem unvollständigen Wechselkennzeichen auf einer öffentlichen Straße in Betrieb gesetzt
+Kraftfahrzeug oder Kraftfahrzeuganhänger ohne die erforderliche EG-Typgenehmigung, Einzelgenehmigung oder Zulassung auf einer öffentlichen Straße in Betrieb gesetzt
 
 § 3 Absatz 1 Satz 1
 § 4 Absatz 1
+§ 48 Nummer 1
+
+ 70 €
+
+175a
+
+Kraftfahrzeug oder Kraftfahrzeuganhänger außerhalb des auf dem Saisonkennzeichen angegebenen Betriebszeitraums oder nach dem auf dem Kurzzeitkennzeichen oder nach dem auf dem Ausfuhrkennzeichen angegebenen Ablaufdatum oder Fahrzeug mit Wechselkennzeichen ohne oder mit einem unvollständigen Wechselkennzeichen auf einer öffentlichen Straße in Betrieb gesetzt
+
 § 8 Absatz 1a Satz 6
 § 9 Absatz 3 Satz 5
-§ 16 Absatz 2 Satz 8
+§ 16a Absatz 3 Satz 5
 § 19 Absatz 1 Nummer 4 Satz 3
 § 48 Nummer 1
 
- 50 €
+50 €
 
 176
 
@@ -4125,14 +4225,12 @@ Absatz 4 Satz 1
 
 179
 
-Ein Fahrzeug in Betrieb gesetzt, dessen Kennzeichen nicht wie vorgeschrieben ausgestaltet oder angebracht
-ist; ausgenommen ist das Fehlen des vorgeschriebenen Kennzeichens
+Ein Fahrzeug in Betrieb gesetzt, dessen Kennzeichen nicht wie vorgeschrieben ausgestaltet oder angebracht ist; ausgenommen ist das Fehlen des vorgeschriebenen Kennzeichens
 
-§ 10 Absatz 12 i. V. m. § 10
-Absatz 1, 2 Satz 2 und 3
-Halbsatz 1, Absatz 6, 7, 8 Halbsatz 1, Absatz 9 Satz 1
-auch i. V. m. § 16 Absatz 5
-Satz 3
+§ 10 Absatz 12 i. V. m. § 10 Absatz 1, 2 Satz 2 und 3 Halbsatz 1, Absatz 6, 7, 8 Halbsatz 1, Absatz 9 Satz 1 auch i. V. m.
+§ 16 Absatz 5 Satz 3 oder
+§ 16a Absatz 5 i. V. m.
+§ 16 Absatz 5 Satz 3
 § 17 Absatz 2 Satz 4
 § 19 Absatz 1 Nummer 3 Satz 5
 § 48 Nummer 1
@@ -4148,7 +4246,7 @@ vorgeschriebene Kennzeichen fehlt
 Absatz 5 Satz 1, Absatz 8
 § 48 Nummer 1
 
- 40 €
+ 60 €
 
 179b
 
@@ -4160,22 +4258,20 @@ ist
 Absatz 2 Satz 1, Absatz 8
 § 48 Nummer 1
 
- 50 €
+ 65 €
 
 **Mitteilungs-, Anzeige- und Vorlagepflichten, Zurückziehen aus dem
 Verkehr, Verwertungsnachweis**
 
 180
 
-Gegen die Mitteilungspflicht bei Änderung der tatsächlichen Verhältnisse, Wohnsitz- oder Sitzänderung
-des Halters, Standortverlegung des Fahrzeuges, Veräußerung oder gegen die Anzeigepflicht bei Außerbetriebsetzung oder gegen die Pflicht, das Kennzeichen zur Entstempelung vorzulegen, verstoßen
+Gegen die Mitteilungspflicht bei Änderungen der tatsächlichen Verhältnisse, Wohnsitz- oder Sitzänderung des Halters, Standortverlegung des Fahrzeuges oder Veräußerung verstoßen
 
 § 13 Absatz 1 Satz 1 bis 4,
-Absatz 3 Satz 1, 3
-§ 14 Absatz 1 Satz 1
-§ 48 Nummer 11 bis 14
+Absatz 3 Satz 1
+§ 48 Nummer 12
 
- 15 €
+15 €
 
 180a
 
@@ -4190,58 +4286,69 @@ Verwertungsnachweis nicht vorgelegt
 
 181
 
-Gegen die Pflicht zur Eintragung in Fahrzeugscheine
-oder Fahrzeugscheinhefte verstoßen oder das rote
-Kennzeichen oder das Fahrzeugscheinheft nicht
-zurückgegeben
+Gegen die Pflicht zur Eintragung in Fahrzeugscheinhefte verstoßen oder das rote Kennzeichen oder das Fahrzeugscheinheft nicht zurückgegeben
 
-§ 16 Absatz 2 Satz 2,
-Absatz 3 Satz 3, 7
+§ 16 Absatz 2 Satz 3, 7
 § 48 Nummer 15, 18
 
- 10 €
+10 €
 
 181a
 
-Kurzzeitkennzeichen für andere als Prüfungs-, Probe- oder Überführungsfahrten verwendet
+Kurzzeitkennzeichen für andere als Probe- oder Überführungsfahrten verwendet
 
-§ 16 Absatz 2 Satz 3
+§ 16a Absatz 2 Satz 2
 Nummer 1
 § 48 Nummer 15a
 
- 50 €
+50 €
 
 181b
 
-Kurzzeitkennzeichen einer anderen Person zur Nutzung
-an einem anderen Fahrzeug überlassen
+Kurzzeitkennzeichen einer anderen Person zur Nutzung an einem anderen Fahrzeug überlassen
 
-§ 16 Absatz 2 Satz 3
+§ 16a Absatz 2 Satz 2
 Nummer 2
 § 48 Nummer 15b
 
- 50 €
+50 €
 
 182
 
-Kurzzeitkennzeichen an nicht nur einem Fahrzeug
-verwendet
+Kurzzeitkennzeichen an nicht nur einem Fahrzeug verwendet
 
-§ 16 Absatz 2 Satz 7
+§ 16a Absatz 3 Satz 4
 § 48 Nummer 16
 
- 50 €
+50 €
 
 183
 
-Gegen die Pflicht zum Fertigen, Aufbewahren oder
-Aushändigen von Aufzeichnungen über Prüfungs-,
-Probe- oder Überführungsfahrten verstoßen
+Gegen die Pflicht zum Fertigen, Aufbewahren oder Aushändigen von Aufzeichnungen über Prüfungs-, Probe- oder Überführungsfahrten verstoßen
 
-§ 16 Absatz 3 Satz 5, 6
+§ 16 Absatz 2 Satz 5, 6
 § 48 Nummer 6, 17
 
- 25 €
+25 €
+
+183a
+
+Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen oder Fahrzeugscheinheft für Oldtimerfahrzeuge mit roten Kennzeichen nicht mitgeführt
+
+§ 16 Absatz 2 Satz 4
+§ 17 Absatz 2 Satz 1
+§ 48 Nummer 5
+
+10 €
+
+183b
+
+Fahrzeugschein für Fahrzeuge mit Kurzzeitkennzeichen nicht mitgeführt
+
+§ 16a Absatz 3 Satz 1
+§ 48 Nummer 5
+
+20 €
 
 **Versicherungskennzeichen**
 
@@ -4343,7 +4450,7 @@ mehr als 2 bis zu 4 Monate
 
 mehr als 4 bis zu 8 Monate
 
- 40 €
+ 60 €
 
 186.1.4
 
@@ -4371,7 +4478,7 @@ mehr als 4 bis zu 8 Monate
 
 mehr als 8 Monate
 
- 40 €
+ 60 €
 
 187
 
@@ -4392,7 +4499,7 @@ bindung mit einem SP-Schild nicht beachtet
 § 29 Absatz 7 Satz 5
 § 69a Absatz 2 Nummer 15
 
- 40 €
+ 60 €
 
 **Vorstehende Außenkanten**
 
@@ -4485,21 +4592,36 @@ bei anderen als in Nummer 189.3.1 genannten Fahrzeugen
 
 189a
 
-Als Halter die Inbetriebnahme eines Fahrzeugs angeordnet oder zugelassen, obwohl die Betriebserlaubnis erloschen war und dadurch die Verkehrssicherheit oder die Umwelt wesentlich beeinträchtigt
+Als Halter die Inbetriebnahme eines Fahrzeugs angeordnet oder zugelassen, obwohl die Betriebserlaubnis erloschen war, und dadurch die Verkehrssicherheit wesentlich beeinträchtigt
 
 § 19 Absatz 5 Satz 1
 § 69a Absatz 2 Nummer 1a
 
 189a.1
 
-– bei Lastkraftwagen oder Kraftomnibussen
+bei Lastkraftwagen oder Kraftomnibussen
 
 270 €
 
 189a.2
 
-– bei anderen als in Nummer 189a.1 genannten
-Fahrzeugen
+bei anderen als in Nummer 189a.1 genannten Fahrzeugen
+
+135 €
+
+189b
+
+Als Halter die Inbetriebnahme eines Fahrzeugs angeordnet oder zugelassen, obwohl die Betriebserlaubnis erloschen war, und dadurch die Umwelt wesentlich beeinträchtigt
+
+189b.1
+
+bei Lastkraftwagen oder Kraftomnibussen
+
+270 €
+
+189b.2
+
+bei anderen als in Nummer 189b.1 genannten Fahrzeugen
 
 135 €
 
@@ -4513,7 +4635,7 @@ Fahrtenbuch nicht ordnungsgemäß geführt, auf Verlangen nicht ausgehändigt od
 § 69a Absatz 5 Num-
 mer 4, 4a
 
- 50 €
+ 100 €
 
 **Überprüfung mitzuführender Gegenstände**
 
@@ -4535,7 +4657,7 @@ Kraftfahrzeug, Anhänger oder Fahrzeugkombination in Betrieb genommen, obwohl di
 § 32 Absatz 1 bis 4, 9
 § 69a Absatz 3 Nummer 2
 
- 50 €
+ 60 €
 
 193
 
@@ -4570,7 +4692,7 @@ genommen, obwohl die vorgeschriebenen Kurvenlaufeigenschaften nicht eingehalten 
 § 32d Absatz 1, 2 Satz 1
 § 69a Absatz 3 Nummer 3c
 
- 50 €
+ 60 €
 
 196
 
@@ -4672,7 +4794,7 @@ für die Höchstmasse des Gepäcks ausweisen
 § 34a Absatz 1
 § 69a Absatz 3 Nummer 5
 
- 50 €
+ 60 €
 
 202
 
@@ -4710,6 +4832,16 @@ Beifahrerplätzen mit Airbag
 § 69a Absatz 3 Nummer 7
 
   5 €
+
+203.3
+
+die Pflicht zur rückwärts oder seitlich gerichteten Anbringung von Rückhalteeinrichtungen für Kinder
+bis zu einem Alter von 15 Monaten
+
+§ 35a Absatz 13
+§ 69a Absatz 3 Nummer 7
+
+25 €
 
 **Feuerlöscher in Kraftomnibussen**
 
@@ -4842,7 +4974,7 @@ oder Einschnitttiefe besaß
 § 69a Absatz 3 Num-
 mer 1c, 8
 
- 50 €
+ 60 €
 
 213
 
@@ -4893,27 +5025,42 @@ bei anderen als in Nummer 214.1 genannten Fahrzeugen
 
  90 €
 
-Erlöschen der Betriebserlaubnis
+**Erlöschen der Betriebserlaubnis**
 
 214a
 
-Fahrzeug trotz erloschener Betriebserlaubnis in Betrieb genommen und dadurch die Verkehrssicherheit oder
-die Umwelt wesentlich beeinträchtigt
+Fahrzeug trotz erloschener Betriebserlaubnis in Betrieb genommen und dadurch die Verkehrssicherheit wesentlich beeinträchtigt
 
 § 19 Absatz 5 Satz 1
 § 69a Absatz 2 Nummer 1a
 
 214a.1
 
-– einen Lastkraftwagen oder Kraftomnibus
+bei Lastkraftwagen oder Kraftomnibussen
 
 180 €
 
 214a.2
 
-– ein anderes als in 214a.1 genanntes Fahrzeug
+bei anderen als in Nummer 214a.1 genannten Fahrzeugen
 
  90 €
+
+214b
+
+Fahrzeug trotz erloschener Betriebserlaubnis in Betrieb genommen und dadurch die Umwelt wesentlich beeinträchtigt
+
+214b.1
+
+bei Lastkraftwagen oder Kraftomnibussen
+
+180 €
+
+214b.2
+
+bei anderen als in Nummer 214b.1 genannten Fahrzeugen
+
+90 €
 
 **Mitführen von Anhängern hinter
 Kraftrad oder Personenkraftwagen**
@@ -4948,7 +5095,7 @@ trieb genommen, dessen zulässige Stützlast um mehr als 50 % über- oder unters
 § 44 Absatz 3 Satz 1
 § 69a Absatz 3 Nummer 3
 
- 40 €
+ 60 €
 
 (218)
 
@@ -5235,7 +5382,7 @@ Als Halter einer vollziehbaren Auflage einer Ausnahmegenehmigung nicht nachgekom
 § 71
 § 69a Absatz 5 Nummer 8
 
- 50 €
+ 70 €
 
 (234 bis 238)
 
@@ -5261,7 +5408,7 @@ Kraftfahrzeug trotz eines Verkehrsverbots innerhalb der Verbotszeiten länger al
 § 1
 § 5 Nummer 1
 
- 40 €
+ 60 €
 
 240
 
@@ -5271,7 +5418,7 @@ Als Halter das Führen eines Kraftfahrzeugs trotz eines Verkehrsverbots innerhal
 § 1
 § 5 Nummer 1
 
-100 €
+150 €
 
 Lfd. Nr.
 
@@ -5303,7 +5450,7 @@ mit einer Alkoholmenge im Körper, die zu einer solchen Atem- oder Blutalkoholko
 
 241.1
 
-bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Verkehrszentralregister
+bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
 
 1 000 €
 **Fahrverbot
@@ -5311,7 +5458,7 @@ bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder § 3
 
 241.2
 
-bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Verkehrszentralregister
+bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
 
 1 500 €
 **Fahrverbot
@@ -5333,7 +5480,7 @@ Absatz 3
 
 242.1
 
-bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Verkehrszentralregister
+bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
 
 1 000 €
 **Fahrverbot
@@ -5341,7 +5488,7 @@ bei Eintragung von bereits einer Entscheidung nach § 24a StVG, § 316 oder § 3
 
 242.2
 
-bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Verkehrszentralregister
+bei Eintragung von bereits mehreren Entscheidungen nach § 24a StVG, § 316 oder § 315c Absatz 1 Nummer 1 Buchstabe a StGB im Fahreignungsregister
 
 1 500 €
 **Fahrverbot
@@ -5417,7 +5564,7 @@ Mobil- oder Autotelefon verbotswidrig benutzt
 
 beim Führen eines Fahrzeugs
 
- 40 €
+ 60 €
 
 246.2
 
@@ -5495,7 +5642,7 @@ Beim begleiteten Fahren ab 17 Jahren ein Kraftfahrzeug der Klasse B oder BE ohne
 § 48a Absatz 2 Satz 1
 § 75 Nummer 15
 
- 50 €
+ 70 €
 
 **c) Fahrzeug-Zulassungsverordnung**
 
@@ -5523,7 +5670,7 @@ zuwidergehandelt oder Beschränkung nicht beachtet
 § 5 Absatz 1
 § 48 Nummer 7
 
- 50 €
+ 70 €
 
 **d) Straßenverkehrs-Zulassungs-Ordnung**
 
@@ -5554,7 +5701,8 @@ Anlage Nr. 46 Spalte 2 Kursivdruck: Müsste richtig lauten "(aufgehoben)"
 
 ### Anhang (zu Nummer 11 der Anlage)Tabelle 1
 
-(Fundstelle: BGBl. I 2013, 541 – 542)
+(Fundstelle: BGBl. I 2013, 541 – 542;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Geschwindigkeitsüberschreitungen
 
@@ -5741,7 +5889,7 @@ bis 10
 
 11 – 15
 
-40
+60
 
 35
 
@@ -6016,14 +6164,13 @@ geschlossener Ortschaften
 
 ### Anhang (zu Nummer 12 der Anlage)Tabelle 2
 
-(Fundstelle: BGBl. I 2013, 543)
+(Fundstelle: BGBl. I 2013, 3935)
 
-Nichteinhalten des Abstandes von einem vorausfahrenden Fahrzeug
+**Nichteinhalten des Abstandes von einem vorausfahrenden Fahrzeug**
 
 Lfd. Nr.
 
-Regelsatz
-in Euro
+Regelsatz in Euro
 
 Fahrverbot
 
@@ -6037,92 +6184,118 @@ bei einer Geschwindigkeit von mehr als 80 km/h
 
 12.5.1
 
-weniger als <sup>5</sup>/<sub>10</sub> des halben Tachowertes
+weniger als <sup>5</sup>/<sub>10</sub> des halben Tachowertes ..........
 
  75
 
 12.5.2
 
-weniger als <sup>4</sup>/<sub>10</sub> des halben Tachowertes
+weniger als <sup>4</sup>/<sub>10</sub> des halben Tachowertes ..........
 
 100
 
 12.5.3
 
-weniger als <sup>3</sup>/<sub>10</sub> des halben Tachowertes
+weniger als <sup>3</sup>/<sub>10</sub> des halben Tachowertes ..........
 
 160
 
-**Fahrverbot
-1 Monat**
-soweit die
-Geschwindigkeit
-mehr als 100 km/h beträgt
-
 12.5.4
 
-weniger als <sup>2</sup>/<sub>10</sub> des halben Tachowertes
+weniger als <sup>2</sup>/<sub>10</sub> des halben Tachowertes ..........
 
 240
 
-**Fahrverbot
-2 Monate**
-soweit die
-Geschwindigkeit
-mehr als 100 km/h beträgt
-
 12.5.5
 
-weniger als <sup>1</sup>/<sub>10</sub> des halben Tachowertes
+weniger als <sup>1</sup>/<sub>10</sub> des halben Tachowertes ..........
 
 320
-
-**Fahrverbot
-3 Monate**
-soweit die
-Geschwindigkeit
-mehr als 100 km/h
-beträgt
 
 12.6
 
 b)
 
-bei einer Geschwindigkeit von mehr als 130 km/h
+bei einer Geschwindigkeit von mehr als 100 km/h
 
 12.6.1
 
-weniger als <sup>5</sup>/<sub>10</sub> des halben Tachowertes
+weniger als <sup>5</sup>/<sub>10</sub> des halben Tachowertes ..........
 
-100
+ 75
 
 12.6.2
 
-weniger als <sup>4</sup>/<sub>10</sub> des halben Tachowertes
+weniger als <sup>4</sup>/<sub>10</sub> des halben Tachowertes ..........
 
-180
+100
 
 12.6.3
 
-weniger als <sup>3</sup>/<sub>10</sub> des halben Tachowertes
+weniger als <sup>3</sup>/<sub>10</sub> des halben Tachowertes ..........
 
-240
+160
 
 **Fahrverbot
 1 Monat**
 
 12.6.4
 
-weniger als <sup>2</sup>/<sub>10</sub> des halben Tachowertes
+weniger als <sup>2</sup>/<sub>10</sub> des halben Tachowertes ..........
 
-320
+240
 
 **Fahrverbot
 2 Monate**
 
 12.6.5
 
-weniger als <sup>1</sup>/<sub>10</sub> des halben Tachowertes
+weniger als <sup>1</sup>/<sub>10</sub> des halben Tachowertes ..........
+
+320
+
+**Fahrverbot
+3 Monate**
+
+12.7
+
+c)
+
+bei einer Geschwindigkeit von mehr als 130 km/h
+
+12.7.1
+
+weniger als <sup>5</sup>/<sub>10</sub> des halben Tachowertes ..........
+
+100
+
+12.7.2
+
+weniger als <sup>4</sup>/<sub>10</sub> des halben Tachowertes ..........
+
+180
+
+12.7.3
+
+weniger als <sup>3</sup>/<sub>10</sub> des halben Tachowertes ..........
+
+240
+
+**Fahrverbot
+1 Monat**
+
+12.7.4
+
+weniger als <sup>2</sup>/<sub>10</sub> des halben Tachowertes ..........
+
+320
+
+**Fahrverbot
+2 Monate**
+
+12.7.5
+
+weniger als <sup>1</sup>/<sub>10</sub> des halben Tachowertes ..........
 
 400
 
@@ -6280,11 +6453,11 @@ mehr als 30
 
 ### Anhang (zu § 3 Absatz 3)Tabelle 4
 
-(Fundstelle: BGBl. I 2013, 545 – 546)
+(Fundstelle: BGBl. I 2013, 3936 - 3937)
 
-Erhöhung der Regelsätze bei Hinzutreten einer Gefährdung oder Sachbeschädigung
+**Erhöhung der Regelsätze bei Hinzutreten einer Gefährdung oder Sachbeschädigung**
 
-Die im Bußgeldkatalog bestimmten Regelsätze, die einen Betrag von mehr als 35 Euro vorsehen, erhöhen sich beim Hinzutreten einer Gefährdung oder Sachbeschädigung, soweit diese Merkmale nicht bereits im Grundtatbestand enthalten sind, wie folgt:
+Die im Bußgeldkatalog bestimmten Regelsätze, die einen Betrag von mehr als 55 Euro vorsehen, erhöhen sich beim Hinzutreten einer Gefährdung oder Sachbeschädigung, soweit diese Merkmale nicht bereits im Grundtatbestand enthalten sind, wie folgt:
 
 Bei einem Regelsatz
 für den Grundtatbestand
@@ -6296,263 +6469,251 @@ auf Euro
 mit Sachbeschädigung
 auf Euro
 
- 40
-
- 50
-
-   60
-
- 50
-
- 60
-
-   75
-
  60
 
  75
 
-   90
+  90
 
  70
 
  85
 
-  105
+ 105
 
  75
 
  90
 
-  110
+ 110
 
  80
 
 100
 
-  120
+ 120
 
  90
 
 110
 
-  135
+ 135
 
  95
 
 115
 
-  140
+ 140
 
 100
 
 120
 
-  145
+ 145
 
 110
 
 135
 
-  165
+ 165
 
 120
 
 145
 
-  175
+ 175
 
 130
 
 160
 
-  195
+ 195
 
 135
 
 165
 
-  200
+ 200
 
 140
 
 170
 
-  205
+ 205
 
 150
 
 180
 
-  220
+ 220
 
 160
 
 195
 
-  235
+ 235
 
 165
 
 200
 
-  240
+ 240
 
 180
 
 220
 
-  265
+ 265
 
 190
 
 230
 
-  280
+ 280
 
 200
 
 240
 
-  290
+ 290
 
 210
 
 255
 
-  310
+ 310
 
 235
 
 285
 
-  345
+ 345
 
 240
 
 290
 
-  350
+ 350
 
 250
 
 300
 
-  360
+ 360
 
 270
 
 325
 
-  390
+ 390
 
 280
 
 340
 
-  410
+ 410
 
 285
 
 345
 
-  415
+ 415
 
 290
 
 350
 
-  420
+ 420
 
 320
 
 385
 
-  465
+ 465
 
 350
 
 420
 
-  505
+ 505
 
 360
 
 435
 
-  525
+ 525
 
 380
 
 460
 
-  555
+ 555
 
 400
 
 480
 
-  580
+ 580
 
 405
 
 490
 
-  590
+ 590
 
 425
 
 510
 
-  615
+ 615
 
 440
 
 530
 
-  640
+ 640
 
 480
 
 580
 
-  700
+ 700
 
 500
 
 600
 
-  720
+ 720
 
 560
 
 675
 
-  810
+ 810
 
 570
 
 685
 
-  825
+ 825
 
 600
 
 720
 
-  865
+ 865
 
 635
 
 765
 
-  920
+ 920
 
 680
 
 820
 
-  985
+ 985
 
 700
 
@@ -6573,14 +6734,6 @@ von Euro
 
 mit Sachbeschädigung
 auf Euro
-
- 40
-
- 50
-
- 50
-
- 60
 
  60
 
