@@ -2,7 +2,7 @@ Verordnung über Anforderungen an eine nachhaltige Herstellung von flüssiger Bi
 =====================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 70 G v. 22.12.2011 I 3044
+Zuletzt geändert durch Art. 3 G v. 20.11.2014 I 1740
 
 ### 
 
@@ -178,36 +178,35 @@ bestimmungen zum Nachweis
 
 **Teil 4**
 
-**Zentrales
-Anlagen- und Informationsregister**
+**Zentrales Informationsregister**
 
 |      |                                   |
 |------|-----------------------------------|
-| § 61 | Anlagenregister                   |
-| § 62 | Registrierungspflicht             |
-| § 63 | Inhalt der Registrierung          |
-| § 64 | Zeitpunkt der Registrierung       |
-| § 65 | Verspätete Registrierung          |
+| § 61 | (weggefallen)                     |
+| § 62 | (weggefallen)                     |
+| § 63 | (weggefallen)                     |
+| § 64 | (weggefallen)                     |
+| § 65 | (weggefallen)                     |
 | § 66 | Informationsregister              |
 | § 67 | Datenabgleich                     |
 | § 68 | Maßnahmen der zuständigen Behörde |
-| § 69 | Clearingstelle                    |
+| § 69 | (weggefallen)                     |
 
 **Teil 5**
 
 **Datenerhebung und -verarbeitung,
 Berichtspflichten, behördliches Verfahren**
 
-|      |                                                                                      |
-|------|--------------------------------------------------------------------------------------|
-| § 70 | Auskunftsrecht der zuständigen Behörde                                               |
-| § 71 | Berichtspflicht der zuständigen Behörde                                              |
-| § 72 | Berichtspflicht des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit |
-| § 73 | Datenübermittlung                                                                    |
-| § 74 | Zuständigkeit                                                                        |
-| § 75 | Verfahren vor der zuständigen Behörde                                                |
-| § 76 | Muster und Vordrucke                                                                 |
-| § 77 | Außenverkehr                                                                         |
+|      |                                         |
+|------|-----------------------------------------|
+| § 70 | Auskunftsrecht der zuständigen Behörde  |
+| § 71 | Berichtspflicht der zuständigen Behörde |
+| § 72 | (weggefallen)                           |
+| § 73 | Datenübermittlung                       |
+| § 74 | Zuständigkeit                           |
+| § 75 | Verfahren vor der zuständigen Behörde   |
+| § 76 | Muster und Vordrucke                    |
+| § 77 | Außenverkehr                            |
 
 **Teil 6**
 
@@ -280,7 +279,7 @@ Teil 2 Nachhaltigkeitsanforderungen
 
 ### § 3 Anforderungen für die Vergütung
 
-(1) Für Strom aus flüssiger Biomasse besteht der Anspruch auf Vergütung nach § 27 Absatz 1 des Erneuerbare-Energien-Gesetzes nur, wenn
+(1) Für Strom aus flüssiger Biomasse besteht der Anspruch auf finanzielle Förderung nach den Förderbestimmungen für Strom aus Biomasse des Erneuerbare-Energien-Gesetzes in der für die Anlage jeweils anzuwendenden Fassung nur, wenn
 
 1.  
 die Anforderungen an
@@ -297,7 +296,7 @@ erfüllt worden sind,
 die eingesetzte flüssige Biomasse das Treibhausgas-Minderungspotenzial nach § 8 aufweist und
 
 3.  
-die Betreiberin oder der Betreiber der Anlage, in der die flüssige Biomasse zur Stromerzeugung eingesetzt wird, die Registrierung dieser Anlage im Anlagenregister nach den §§ 61 bis 63 beantragt hat.
+der Betreiber der Anlage, in der die flüssige Biomasse zur Stromerzeugung eingesetzt wird, die zur Registrierung der Anlage erforderlichen Angaben nach Maßgabe der Rechtsverordnung nach § 93 des Erneuerbare-Energien-Gesetzes übermittelt hat; die Pflicht nach dem ersten Halbsatz ist auch als erfüllt anzusehen, wenn der Anlagenbetreiber die Registrierung der Anlage im Anlagenregister nach den §§ 61 bis 63 der Biomassestrom-Nachhaltigkeitsverordnung in der am 31. Juli 2014 geltenden Fassung beantragt hat.
 
 (2) Für die Beurteilung der Anforderungen an den Schutz natürlicher Lebensräume nach den §§ 4 bis 6 ist Referenzzeitpunkt der 1. Januar 2008. Sofern keine hinreichenden Daten vorliegen, mit denen die Erfüllung der Anforderungen für diesen Tag nachgewiesen werden kann, kann als Referenzzeitpunkt ein anderer Tag im Januar 2008 gewählt werden.
 
@@ -471,11 +470,11 @@ Anlagenbetreiberinnen und Anlagenbetreiber müssen gegenüber dem Netzbetreiber 
 für § 3 Absatz 1 Nummer 1 und 2 in Verbindung mit den §§ 4 bis 8 durch die Vorlage eines Nachweises nach § 14 und
 
 2.  
-für § 3 Absatz 1 Nummer 3 in Verbindung mit den §§ 61 bis 63 durch die Vorlage der Bescheinigung der zuständigen Behörde nach § 64 Absatz 4.
+für § 3 Absatz 1 Nummer 3 durch die Vorlage einer Bestätigung der zuständigen Behörde über die Registrierung der Anlage nach Maßgabe der Rechtsverordnung nach § 93 des Erneuerbare-Energien-Gesetzes; im Fall des § 3 Absatz 1 Nummer 3 letzter Halbsatz reicht abweichend hiervon die Vorlage der Bescheinigung der zuständigen Behörde nach § 64 Absatz 4 der Biomassestrom-Nachhaltigkeitsverordnung in der am 31. Juli 2014 geltenden Fassung.
 
 ### § 12 Weitere Nachweise
 
-Weitere Nachweise darüber, dass die Anforderungen nach § 3 Absatz 1 erfüllt sind, können für die Vergütung nach § 27 Absatz 1 des Erneuerbare-Energien-Gesetzes nicht verlangt werden. § 58 bleibt unberührt.
+Weitere Nachweise darüber, dass die Anforderungen nach § 3 Absatz 1 erfüllt sind, können für die Vergütung oder finanzielle Förderung nach den Förderbestimmungen für Strom aus Biomasse des Erneuerbare-Energien-Gesetzes in der für die Anlage jeweils anzuwendenden Fassung nicht verlangt werden. § 58 bleibt unberührt.
 
 ### § 13 Übermittlung der Nachweise an die zuständige Behörde
 
@@ -559,7 +558,7 @@ aa)
 von der Kommission der Europäischen Gemeinschaften oder
 
 bb)  
-von dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit.
+von dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit.
 
 (3) Die Werte nach Absatz 2 Nummer 2 Buchstabe b Doppelbuchstabe bb sind aus den Standardwerten nach Anlage 2 abzuleiten und durch gesondertes Schreiben im Bundesanzeiger bekannt zu machen. Sie gelten nur, sofern nicht die Kommission der Europäischen Gemeinschaften Werte für den jeweiligen Arbeitsschritt der Herstellung im Amtsblatt der Europäischen Union veröffentlicht hat.
 
@@ -675,7 +674,7 @@ der Nachhaltigkeitsnachweis oder das Zertifikat der ausstellenden Schnittstelle 
 5.  
 das Zertifikat der ausstellenden Schnittstelle von einer Zertifizierungsstelle ausgestellt worden ist, die zum Zeitpunkt der Ausstellung des Zertifikates nicht oder nicht mehr nach dieser Verordnung anerkannt war.
 
-(2) Sofern der Nachhaltigkeitsnachweis ausschließlich nach Absatz 1 Nummer 2 unwirksam ist, entfällt der Anspruch auf die Vergütung und Boni nach § 27 des Erneuerbare-Energien-Gesetzes für den Strom aus der Menge flüssiger Biomasse, auf die sich der unwirksame Nachhaltigkeitsnachweis bezieht. Der Anspruch auf den Bonus für Strom aus nachwachsenden Rohstoffen nach § 27 Absatz 4 Nummer 2 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2011 geltenden Fassung entfällt darüber hinaus endgültig, wenn
+(2) Sofern der Nachhaltigkeitsnachweis ausschließlich nach Absatz 1 Nummer 2 unwirksam ist, entfällt der Anspruch auf die Vergütung oder finanzielle Förderung nach den Förderbestimmungen für Strom aus Biomasse des Erneuerbare-Energien-Gesetzes in der für die Anlage jeweils anzuwendenden Fassung für den Strom aus der Menge flüssiger Biomasse, auf die sich der unwirksame Nachhaltigkeitsnachweis bezieht. Der Anspruch auf den Bonus für Strom aus nachwachsenden Rohstoffen nach § 27 Absatz 4 Nummer 2 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2011 geltenden Fassung entfällt darüber hinaus endgültig, wenn
 
 1.  
 der Anlagenbetreiberin oder dem Anlagenbetreiber die Gründe für die Unwirksamkeit des Nachhaltigkeitsnachweises zum Zeitpunkt des Einsatzes der Menge flüssiger Biomasse, auf die sich der unwirksame Nachhaltigkeitsnachweis bezieht, bekannt waren oder sie oder er bei Anwendung der im Verkehr üblichen Sorgfalt die Unwirksamkeit hätte erkennen können oder
@@ -1285,54 +1284,20 @@ im Fall einer Berechnung des Treibhausgas-Minderungspotenzials nach § 8 Absatz 
 
 (4) Zertifizierungssysteme und Zertifizierungsstellen können aus einer vorläufigen Anerkennung keine Rechtsansprüche ableiten.
 
-Teil 4 Zentrales Anlagen- und Informationsregister
---------------------------------------------------
+Teil 4 Zentrales Informationsregister
+-------------------------------------
 
 ### 
 
-### § 61 Anlagenregister
+### § 61 (weggefallen)
 
-Die zuständige Behörde führt ein zentrales Register über alle Anlagen, in denen flüssige Biomasse zur Stromerzeugung eingesetzt wird (Anlagenregister).
+### § 62 (weggefallen)
 
-### § 62 Registrierungspflicht
+### § 63 (weggefallen)
 
-Anlagenbetreiberinnen und Anlagenbetreiber, die flüssige Biomasse zur Stromerzeugung einsetzen, müssen ihre Anlage im Anlagenregister registrieren lassen.
+### § 64 (weggefallen)
 
-### § 63 Inhalt der Registrierung
-
-Der Antrag zur Registrierung der Anlage muss die folgenden Angaben enthalten:
-
-1.  
-den Namen und die Anschrift der Anlagenbetreiberin oder des Anlagenbetreibers,
-
-2.  
-den Standort der Anlage,
-
-3.  
-die elektrische und thermische Leistung der Anlage,
-
-4.  
-das Datum der geplanten oder tatsächlichen Inbetriebnahme der Anlage,
-
-5.  
-die Art und die Menge der geplanten oder tatsächlich eingesetzten flüssigen Biomasse und
-
-6.  
-den Namen und die Anschrift des Netzbetreibers, an dessen Netz die Anlage zur Stromerzeugung angeschlossen worden ist oder wird.
-
-### § 64 Zeitpunkt der Registrierung
-
-(1) Die Registrierung im Anlagenregister muss vor der Inbetriebnahme der Anlage beantragt werden.
-
-(2) Abweichend von Absatz 1 muss die Registrierung von Anlagen, die vor dem 1. Januar 2011 in Betrieb genommen worden sind, bis zum 31. Dezember 2010 beantragt werden.
-
-(3) Maßgeblicher Zeitpunkt nach den Absätzen 1 und 2 ist das Datum, an dem der vollständige Antrag bei der zuständigen Behörde eingeht.
-
-(4) Die zuständige Behörde bescheinigt der Anlagenbetreiberin oder dem Anlagenbetreiber den Zeitpunkt nach Absatz 3 unverzüglich nach Eingang des vollständigen Antrages.
-
-### § 65 Verspätete Registrierung
-
-Für Strom aus Anlagen, deren Registrierung erst nach dem in § 64 benannten Zeitpunkt beantragt wird, besteht für den Zeitraum bis zur Antragstellung weder ein Anspruch auf die Vergütung nach § 27 Absatz 1 des Erneuerbare-Energien-Gesetzes noch ein Anspruch auf den Bonus für nachwachsende Rohstoffe nach § 27 Absatz 4 Nummer 2 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2011 geltenden Fassung. Die verspätete Beantragung führt nicht dazu, dass der Bonus für nachwachsende Rohstoffe nach Nummer VII.1 der Anlage 2 zum Erneuerbare-Energien-Gesetz in der am 31. Dezember 2011 geltenden Fassung endgültig entfällt.
+### § 65 (weggefallen)
 
 ### § 66 Informationsregister
 
@@ -1340,7 +1305,13 @@ Die zuständige Behörde führt ein zentrales Register über alle Zertifizierung
 
 ### § 67 Datenabgleich
 
-(1) Die zuständige Behörde gleicht die Daten im Anlagen- und Informationsregister sowohl untereinander als auch mit allen Daten ab, die der für Biokraftstoffe zuständigen Stelle nach § 37d Absatz 1 des Bundes-Immissionsschutzgesetzes vorliegen.
+(1) Die zuständige Behörde gleicht die Daten im Informationsregister ab
+
+1.  
+mit den Daten im Anlagenregister nach § 6 des Erneuerbare-Energien-Gesetzes oder mit den Daten des Gesamtanlagenregisters nach § 53b des Energiewirtschaftsgesetzes, soweit dieses nach § 6 Absatz 4 Satz 2 des Erneuerbare-Energien-Gesetzes die Aufgaben des Anlagenregisters wahrnimmt, und
+
+2.  
+mit den Daten, die der für Biokraftstoffe zuständigen Stelle nach § 37d Absatz 1 des Bundes-Immissionsschutzgesetzes vorliegen.
 
 (2) Bei Nachhaltigkeitsnachweisen nach § 23 kann die zuständige Behörde Daten mit der Behörde oder Stelle, die diese Nachweise ausgestellt hat, abgleichen. § 77 Satz 2 bleibt davon unberührt.
 
@@ -1363,11 +1334,7 @@ der Wirksamkeit eines Nachhaltigkeitsnachweises, eines Zertifikates oder einer B
 b)  
 der Richtigkeit der darin nachgewiesenen Tatsachen.
 
-### § 69 Clearingstelle
-
-(1) Wenden sich die Anlagenbetreiberin oder der Anlagenbetreiber und der Netzbetreiber zur Klärung von Streitigkeiten über die Wirksamkeit eines Nachweises nach dieser Verordnung an die Clearingstelle nach § 57 des Erneuerbare-Energien-Gesetzes, soll die Clearingstelle eine Stellungnahme der zuständigen Behörde einholen.
-
-(2) Die Clearingstelle berichtet in ihren Tätigkeitsberichten nach § 57 Absatz 6 Satz 1 des Erneuerbare-Energien-Gesetzes über die Verfahren nach Absatz 1. Die berechtigten Interessen der Verfahrensbeteiligten sind zu wahren.
+### § 69 (weggefallen)
 
 Teil 5 Datenerhebung und -verarbeitung, Berichtspflichten, behördliches Verfahren
 ---------------------------------------------------------------------------------
@@ -1391,17 +1358,7 @@ die Berichtspflichten der Bundesrepublik Deutschland gegenüber den Organen der 
 
 Die zuständige Behörde evaluiert diese Verordnung regelmäßig und legt der Bundesregierung erstmals zum 31. Dezember 2010 und sodann jedes Jahr einen Erfahrungsbericht vor.
 
-### § 72 Berichtspflicht des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit
-
-Auf der Grundlage der Berichte nach § 71 berichtet das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit der Kommission der Europäischen Gemeinschaften im Rahmen der Berichte nach Artikel 22 der Richtlinie 2009/28/EG über
-
-1.  
-die Erfüllung der Anforderungen nach dieser Verordnung sowie
-
-2.  
-die Auswirkungen der Herstellung der in der Bundesrepublik Deutschland zur Stromerzeugung eingesetzten flüssigen Biomasse auf die Nachhaltigkeit.
-
-Im Bericht muss bewertet werden, ob der Einsatz flüssiger Biomasse für die Stromerzeugung sozial zu vertreten ist.
+### § 72 (weggefallen)
 
 ### § 73 Datenübermittlung
 
@@ -1414,13 +1371,16 @@ a)
 das Bundesministerium der Finanzen,
 
 b)  
-das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz,
+das Bundesministerium für Wirtschaft und Energie,
 
 c)  
-das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit und
+das Bundesministerium für Ernährung und Landwirtschaft,
 
 d)  
-die nachgeordneten Behörden dieser Ministerien, insbesondere an die für Biokraftstoffe zuständige Stelle nach § 37d Absatz 1 des Bundes-Immissionsschutzgesetzes,
+das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit und
+
+e)  
+die nachgeordneten Behörden dieser Bundesministerien, insbesondere an die Bundesnetzagentur, das Umweltbundesamt und die für Biokraftstoffe zuständige Stelle nach § 37d Absatz 1 des Bundes-Immissionsschutzgesetzes,
 
 2.  
 Behörden von anderen Mitgliedstaaten der Europäischen Union sowie von Drittstaaten und ihre sonstigen Stellen nach § 23 Absatz 1 Nummer 1 bis 3 und
@@ -1428,7 +1388,7 @@ Behörden von anderen Mitgliedstaaten der Europäischen Union sowie von Drittsta
 3.  
 Organe der Europäischen Union.
 
-(1a) Soweit dies zum Abgleich der Daten eines auf Grund des § 64e des Erneuerbare-Energien-Gesetzes eingerichteten Anlagenregisters mit dem Anlagenregister nach § 61 erforderlich ist, darf die zuständige Behörde Informationen an die in einer Rechtsverordnung auf Grund des § 64e des Erneuerbare-Energien-Gesetzes benannte Stelle übermitteln.
+(1a) Soweit dies zum Abgleich der Daten des Informationsregisters nach § 66 mit dem Anlagenregister nach § 6 des Erneuerbare-Energien-Gesetzes oder dem Gesamtanlagenregister nach § 53b des Energiewirtschaftsgesetzes erforderlich ist, soweit dieses nach § 6 Absatz 4 Satz 2 des Erneuerbare-Energien-Gesetzes die Aufgaben des Anlagenregisters wahrnimmt, darf die zuständige Behörde Informationen an das jeweilige Register übermitteln.
 
 (2) Die Übermittlung personenbezogener Daten an die Stellen nach Absatz 1 Nummer 1 ist nur zulässig unter den Voraussetzungen des § 15 des Bundesdatenschutzgesetzes. Die Übermittlung dieser Daten an die Stellen nach Absatz 1 Nummer 2 und 3 ist nur unter den Voraussetzungen der §§ 4b und 4c des Bundesdatenschutzgesetzes zulässig.
 
@@ -1461,7 +1421,7 @@ die Anerkennung und Überwachung von Zertifizierungsstellen nach Teil 3 Abschnit
 die Entgegennahme von Anzeigen und Erklärungen nach § 59 Absatz 4,
 
 9.  
-das Führen des zentralen Anlagen- und Informationsregisters nach Teil 4,
+das Führen des zentralen Informationsregisters nach Teil 4,
 
 10.  
 das Einholen von Auskünften nach § 70,
@@ -1478,7 +1438,7 @@ die Veröffentlichung von Mustern und Vordrucken nach § 76 Absatz 2 und
 14.  
 den Vollzug dieser Verordnung im Übrigen mit Ausnahme von § 4 Absatz 4 Satz 1 Variante 2.
 
-(2) Die Rechts- und Fachaufsicht über die Bundesanstalt für Landwirtschaft und Ernährung obliegt dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz. Fragen von grundsätzlicher Bedeutung sind mit dem Bundesministerium der Finanzen abzustimmen und es ist das Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit herzustellen.
+(2) Die Rechts- und Fachaufsicht über die Bundesanstalt für Landwirtschaft und Ernährung obliegt dem Bundesministerium für Ernährung und Landwirtschaft. Fragen von grundsätzlicher Bedeutung sind mit dem Bundesministerium der Finanzen abzustimmen und es ist das Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit herzustellen.
 
 ### § 75 Verfahren vor der zuständigen Behörde
 
@@ -1501,7 +1461,7 @@ die Bescheinigungen nach § 58 Nummer 1 Buchstabe b und § 59 Absatz 1.
 
 ### § 77 Außenverkehr
 
-Der Verkehr mit den Behörden anderer Mitgliedstaaten der Europäischen Union und Drittstaaten sowie mit den Organen der Europäischen Union obliegt dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit. Es kann den Verkehr mit den zuständigen Ministerien und Behörden anderer Mitgliedstaaten der Europäischen Union und Drittstaaten sowie den Organen der Europäischen Union im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz auf die Bundesanstalt für Landwirtschaft und Ernährung übertragen.
+Der Verkehr mit den Behörden anderer Mitgliedstaaten der Europäischen Union und Drittstaaten sowie mit den Organen der Europäischen Union obliegt dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit. Es kann den Verkehr mit den zuständigen Ministerien und Behörden anderer Mitgliedstaaten der Europäischen Union und Drittstaaten sowie den Organen der Europäischen Union im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft auf die Bundesanstalt für Landwirtschaft und Ernährung übertragen.
 
 Teil 6 Übergangs- und Schlussbestimmungen
 -----------------------------------------
@@ -1651,7 +1611,7 @@ Die Emissionseinsparungen durch Abscheidung und geologische Speicherung von Kohl
 Die Emissionseinsparungen durch Abscheidung und Ersetzung von Kohlendioxid (*e<sub>ccr</sub>*) werden begrenzt auf die durch Abscheidung von Kohlendioxid vermiedenen Emissionen, bei denen der Kohlenstoff aus Biomasse stammt und anstelle des auf fossile Brennstoffe zurückgehenden Kohlendioxids für gewerbliche Erzeugnisse und Dienstleistungen verwendet wird.
 
 16.  
-Die Emissionseinsparungen durch überschüssigen Strom aus Kraft-Wärme-Kopplung (*e<sub>ee</sub>*) werden im Verhältnis zu dem von Brennstoffherstellungssystemen mit Kraft-Wärme-Kopplung, welche als Brennstoff andere Nebenerzeugnisse als Ernterückstände einsetzen, erzeugten Stromüberschuss berücksichtigt. Für die Berücksichtigung dieses Stromüberschusses wird davon ausgegangen, dass die Größe der Kraft-Wärme-Kopplungs- (KWK-) Anlage der Mindestgröße entspricht, die erforderlich ist, um die für die Herstellung des flüssigen Brennstoffs benötigte Wärme zu liefern. Die mit diesem Stromüberschuss verbundenen Minderungen an Treibhausgasemissionen werden der Treibhausgasmenge gleichgesetzt, die bei der Erzeugung einer entsprechenden Strommenge in einem Kraftwerk emittiert würde, das den gleichen Brennstoff einsetzt wie die KWK-Anlage.
+Die Emissionseinsparung durch überschüssige Elektrizität aus Kraft-Wärme-Kopplung (*e<sub>ee</sub>*) wird im Verhältnis zu dem Elektrizitätsüberschuss berücksichtigt, der von Kraftstoffherstellungssystemen mit Kraft-Wärme-Kopplung erzeugt wird, außer in Fällen, in denen als Brennstoff andere Nebenerzeugnisse als Ernterückstände eingesetzt werden. Für die Berücksichtigung dieses Stromüberschusses wird davon ausgegangen, dass die Größe der Kraft-Wärme-Kopplungs- (KWK-) Anlage der Mindestgröße entspricht, die erforderlich ist, um die für die Herstellung des flüssigen Brennstoffs benötigte Wärme zu liefern. Die mit diesem Stromüberschuss verbundenen Minderungen an Treibhausgasemissionen werden der Treibhausgasmenge gleichgesetzt, die bei der Erzeugung einer entsprechenden Strommenge in einem Kraftwerk emittiert würde, das den gleichen Brennstoff einsetzt wie die KWK-Anlage.
 
 17.  
 Werden bei einem Verfahren zur Herstellung flüssiger Brennstoffe neben dem Brennstoff, für den die Emissionen berechnet werden, weitere Erzeugnisse (Nebenerzeugnisse) hergestellt, so werden die anfallenden Treibhausgasemissionen zwischen dem flüssigen Brennstoff oder dessen Zwischenerzeugnis und den Nebenerzeugnissen nach Maßgabe ihres Energiegehalts aufgeteilt. Der Energiegehalt wird bei anderen Nebenerzeugnissen als Strom durch den unteren Heizwert bestimmt.
@@ -2442,4 +2402,4 @@ Zertifizierungssysteme müssen sicherstellen, dass die Erfüllung der Anforderun
 Zertifizierungssysteme können Regelungen über die Verwendung einer elektronischen Datenbank für den Nachweis der Erfüllung der Anforderungen nach den §§ 16 und 17 enthalten.
 
 4.  
-Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit kann die in den Nummern 1 bis 3 genannten Anforderungen im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz durch ein Referenzsystem näher bestimmen und als Verwaltungsvorschrift im Bundesanzeiger bekannt machen. Satz 1 gilt nicht für die Angaben, die von der Kommission der Europäischen Gemeinschaften auf Grund des Artikels 18 Absatz 3 Unterabsatz 3 der Richtlinie 2009/28/EG zu dem Zweck festgelegt werden, dass die Wirtschaftsteilnehmer diese Angaben an die Mitgliedstaaten der Europäischen Union übermitteln sollen.
+Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit kann die in den Nummern 1 bis 3 genannten Anforderungen im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft durch ein Referenzsystem näher bestimmen und als Verwaltungsvorschrift im Bundesanzeiger bekannt machen. Satz 1 gilt nicht für die Angaben, die von der Kommission der Europäischen Gemeinschaften auf Grund des Artikels 18 Absatz 3 Unterabsatz 3 der Richtlinie 2009/28/EG zu dem Zweck festgelegt werden, dass die Wirtschaftsteilnehmer diese Angaben an die Mitgliedstaaten der Europäischen Union übermitteln sollen.
