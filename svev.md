@@ -2,7 +2,7 @@ Verordnung über die sozialversicherungsrechtliche Beurteilung von Zuwendungen d
 ========================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 21.10.2013 I 3871
+Zuletzt geändert durch Art. 1 V v. 24.11.2014 I 1799
 
 ### 
 
@@ -97,7 +97,7 @@ der das 7. Lebensjahr noch nicht vollendet hat, um 30 Prozent.
 
 Bei der Berechnung des Wertes ist das Lebensalter des Familienangehörigen im ersten Entgeltabrechnungszeitraum des Kalenderjahres maßgebend. Sind Ehegatten bei demselben Arbeitgeber beschäftigt, sind die Erhöhungswerte nach Satz 1 für Verpflegung der Kinder beiden Ehegatten je zur Hälfte zuzurechnen.
 
-(3) Der Wert einer als Sachbezug zur Verfügung gestellten Unterkunft wird auf monatlich 221 Euro festgesetzt. Der Wert der Unterkunft nach Satz 1 vermindert sich
+(3) Der Wert einer als Sachbezug zur Verfügung gestellten Unterkunft wird auf monatlich 223 Euro festgesetzt. Der Wert der Unterkunft nach Satz 1 vermindert sich
 
 1.  
 bei Aufnahme des Beschäftigten in den Haushalt des Arbeitgebers oder bei Unterbringung in einer Gemeinschaftsunterkunft um 15 Prozent,
@@ -119,7 +119,7 @@ mit mehr als drei Beschäftigten um 60 Prozent.
 
 Ist es nach Lage des einzelnen Falles unbillig, den Wert einer Unterkunft nach Satz 1 zu bestimmen, kann die Unterkunft mit dem ortsüblichen Mietpreis bewertet werden; Absatz 4 Satz 2 gilt entsprechend.
 
-(4) Für eine als Sachbezug zur Verfügung gestellte Wohnung ist als Wert der ortsübliche Mietpreis unter Berücksichtigung der sich aus der Lage der Wohnung zum Betrieb ergebenden Beeinträchtigungen anzusetzen. Ist im Einzelfall die Feststellung des ortsüblichen Mietpreises mit außergewöhnlichen Schwierigkeiten verbunden, kann die Wohnung mit 3,88 Euro je Quadratmeter monatlich, bei einfacher Ausstattung (ohne Sammelheizung oder ohne Bad oder Dusche) mit 3,17 Euro je Quadratmeter monatlich bewertet werden. Bestehen gesetzliche Mietpreisbeschränkungen, sind die durch diese Beschränkungen festgelegten Mietpreise als Werte anzusetzen. Dies gilt auch für die vertraglichen Mietpreisbeschränkungen im sozialen Wohnungsbau, die nach den jeweiligen Förderrichtlinien des Landes für den betreffenden Förderjahrgang sowie für die mit Wohnungsfürsorgemitteln aus öffentlichen Haushalten geförderten Wohnungen vorgesehen sind. Für Energie, Wasser und sonstige Nebenkosten ist der übliche Preis am Abgabeort anzusetzen.
+(4) Für eine als Sachbezug zur Verfügung gestellte Wohnung ist als Wert der ortsübliche Mietpreis unter Berücksichtigung der sich aus der Lage der Wohnung zum Betrieb ergebenden Beeinträchtigungen anzusetzen. Ist im Einzelfall die Feststellung des ortsüblichen Mietpreises mit außergewöhnlichen Schwierigkeiten verbunden, kann die Wohnung mit 3,92 Euro je Quadratmeter monatlich, bei einfacher Ausstattung (ohne Sammelheizung oder ohne Bad oder Dusche) mit 3,20 Euro je Quadratmeter monatlich bewertet werden. Bestehen gesetzliche Mietpreisbeschränkungen, sind die durch diese Beschränkungen festgelegten Mietpreise als Werte anzusetzen. Dies gilt auch für die vertraglichen Mietpreisbeschränkungen im sozialen Wohnungsbau, die nach den jeweiligen Förderrichtlinien des Landes für den betreffenden Förderjahrgang sowie für die mit Wohnungsfürsorgemitteln aus öffentlichen Haushalten geförderten Wohnungen vorgesehen sind. Für Energie, Wasser und sonstige Nebenkosten ist der übliche Preis am Abgabeort anzusetzen.
 
 (5) Werden Verpflegung, Unterkunft oder Wohnung verbilligt als Sachbezug zur Verfügung gestellt, ist der Unterschiedsbetrag zwischen dem vereinbarten Preis und dem Wert, der sich bei freiem Bezug nach den Absätzen 1 bis 4 ergeben würde, dem Arbeitsentgelt zuzurechnen.
 
