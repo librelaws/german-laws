@@ -2,7 +2,7 @@ Gesetz zur Bekämpfung der Schwarzarbeit und illegalen Beschäftigung (SchwarzAr
 =================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 7 G v. 21.7.2012 I 1566
+Zuletzt geändert durch Art. 2 G v. 2.12.2014 I 1922
 
 ### 
 
@@ -132,7 +132,7 @@ entgegen § 4 Abs. 3 Satz 1 und 2 des Aufenthaltsgesetzes mit entgeltlichen Dien
 und
 
 5.  
-Arbeitsbedingungen nach Maßgabe des Arbeitnehmer-Entsendegesetzes, des Mindestarbeitsbedingungengesetzes und des § 10 Absatz 5 des Arbeitnehmerüberlassungsgesetzes eingehalten werden oder wurden.
+Arbeitsbedingungen nach Maßgabe des Mindestlohngesetzes, des Arbeitnehmer-Entsendegesetzes und des § 10 Absatz 5 des Arbeitnehmerüberlassungsgesetzes eingehalten werden oder wurden.
 
 Die Prüfung der Erfüllung steuerlicher Pflichten im Sinne von § 1 Abs. 2 Nr. 2 obliegt den zuständigen Landesfinanzbehörden. Die Behörden der Zollverwaltung sind zur Mitwirkung an Prüfungen der Landesfinanzbehörden berechtigt. Die Behörden der Zollverwaltung prüfen zur Erfüllung ihrer Mitteilungspflicht nach § 6 Abs. 1 Satz 1 in Verbindung mit Abs. 3 Nr. 4, ob Anhaltspunkte dafür bestehen, dass Steuerpflichtige den sich aus den Dienst- oder Werkleistungen ergebenden steuerlichen Pflichten nicht nachgekommen sind. Grundsätze der Zusammenarbeit werden von den obersten Finanzbehörden des Bundes und der Länder im gegenseitigen Einvernehmen geregelt.
 
@@ -165,7 +165,7 @@ den Trägern der Rentenversicherung,
 den Trägern der Unfallversicherung,
 
 6.  
-den Trägern der Sozialhilfe,
+den gemeinsamen Einrichtungen und den zugelassenen kommunalen Trägern nach dem Zweiten Buch Sozialgesetzbuch sowie der Bundesagentur für Arbeit als verantwortliche Stelle für die zentral verwalteten IT-Verfahren nach § 50 Absatz 3 des Zweiten Buches Sozialgesetzbuch,
 
 7.  
 den nach dem Asylbewerberleistungsgesetz zuständigen Behörden,
@@ -180,10 +180,13 @@ dem Bundesamt für Güterverkehr,
 den für den Arbeitsschutz zuständigen Landesbehörden,
 
 10.  
-den Polizeivollzugsbehörden der Länder auf Ersuchen im Einzelfall und
+den Polizeivollzugsbehörden des Bundes und der Länder auf Ersuchen im Einzelfall,
 
 11.  
-den nach Landesrecht für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach diesem Gesetz zuständigen Behörden.
+den nach Landesrecht für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach diesem Gesetz zuständigen Behörden und
+
+12.  
+den nach § 14 der Gewerbeordnung für die Entgegennahme der Gewerbeanzeigen zuständigen Stellen.
 
 Die Aufgaben dieser Stellen nach anderen Rechtsvorschriften bleiben unberührt. Die Prüfungen können mit anderen Prüfungen der in diesem Absatz genannten Stellen verbunden werden; die Vorschriften über die Unterrichtung und Zusammenarbeit bleiben hiervon unberührt. Verwaltungskosten der unterstützenden Stellen werden nicht erstattet.
 
@@ -236,7 +239,7 @@ Einsicht in von ihnen mitgeführte Unterlagen zu nehmen, von denen anzunehmen is
 
 (4) Im Verteidigungsbereich darf ein Betretensrecht nur im Einvernehmen mit dem Bundesministerium der Verteidigung ausgeübt werden.
 
-(5) Die Bediensteten der Zollverwaltung dürfen Beförderungsmittel anhalten. Führer von Beförderungsmitteln haben auf Verlangen zu halten und den Zollbediensteten zu ermöglichen, in das Beförderungsmittel zu gelangen und es wieder zu verlassen. Die Zollverwaltung unterrichtet die Polizeivollzugsbehörden über groß angelegte Kontrollen.
+(5) Die Bediensteten der Zollverwaltung dürfen Beförderungsmittel anhalten. Führer von Beförderungsmitteln haben auf Verlangen zu halten und den Zollbediensteten zu ermöglichen, in das Beförderungsmittel zu gelangen und es wieder zu verlassen. Die Zollverwaltung unterrichtet die Polizeivollzugsbehörden der Länder über groß angelegte Kontrollen.
 
 ### § 4 Befugnisse bei der Prüfung von Geschäftsunterlagen
 
@@ -293,7 +296,7 @@ sonstige Strafgesetze,
 das Arbeitnehmer-Entsendegesetz oder
 
 10.  
-das Mindestarbeitsbedingungengesetz.
+das Mindestlohngesetz.
 
 Nach § 5 Abs. 1 Satz 4 in Verwahrung genommene Urkunden sind der Ausländerbehörde unverzüglich zu übermitteln.
 
@@ -544,7 +547,7 @@ Für die Wahrnehmung der Aufgaben nach diesem Gesetz durch die Behörden der Zol
 
 (1) Zur Durchführung dieses Gesetzes führt der Arbeitsbereich Finanzkontrolle Schwarzarbeit der Zollverwaltung eine zentrale Prüfungs- und Ermittlungsdatenbank.
 
-(2) In der zentralen Datenbank sind folgende Daten zu speichern, wenn sich tatsächliche Anhaltspunkte für das Vorliegen von Schwarzarbeit (§ 1 Abs. 2) oder von illegaler Beschäftigung (§ 404 Abs. 1, Abs. 2 Nr. 3, 4, 20 und 26 des Dritten Buches Sozialgesetzbuch, §§ 15, 15a, 16 Absatz 1 Nummer 1, 1a, 1b, 2, 2a und 7b des Arbeitnehmerüberlassungsgesetzes, § 23 Abs. 1 Nr. 1 und Abs. 2 des Arbeitnehmer-Entsendegesetzes, § 18 Abs. 1 Nr. 1 und Abs. 2 des Mindestarbeitsbedingungengesetzes, §§ 10, 10a und 11) ergeben:
+(2) In der zentralen Datenbank sind folgende Daten zu speichern, wenn sich tatsächliche Anhaltspunkte für das Vorliegen von Schwarzarbeit (§ 1 Abs. 2) oder von illegaler Beschäftigung (§ 404 Abs. 1, Abs. 2 Nr. 3, 4, 20 und 26 des Dritten Buches Sozialgesetzbuch, §§ 15, 15a, 16 Absatz 1 Nummer 1, 1a, 1b, 2, 2a und 7b des Arbeitnehmerüberlassungsgesetzes, § 23 Abs. 1 Nr. 1 und Abs. 2 des Arbeitnehmer-Entsendegesetzes, § 21 Absatz 1 Nummer 1 und Absatz 2 des Mindestlohngesetzes, §§ 10, 10a und 11) ergeben:
 
 1.  
 Familienname, Geburtsname, Vornamen, Geburtsdatum, Geburtsort und -bezirk, Geschlecht, Staatsangehörigkeiten, bei Unternehmen Name und Sitz der Person, bei der Anhaltspunkte für das Vorliegen von Schwarzarbeit oder von illegaler Beschäftigung bestehen,
