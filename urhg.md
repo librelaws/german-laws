@@ -2,13 +2,17 @@ Gesetz über Urheberrecht und verwandte Schutzrechte ()
 ======================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 1.10.2013 I 3728
+Zuletzt geändert durch Art. 1 G v. 5.12.2014 I 1974
+
+Hinweis  
+Änderung durch Art. 216 V v. 31.8.2015 I 1474 (Nr. 35) noch nicht berücksichtigt
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 10.10.1976 +++)
-(+++ Zur Nichtanwendung d. § 52a vgl. § 137k (F ab 2003-09-10) +++)
+(+++ Zur Nichtanwendung d. § 52a vgl. § 137k (F ab 10.9.2003 bis 14.12.2012) 
++++)
 (+++ Amtliche Hinweise des Normgebers auf EG-Recht:
      Umsetzung der
        EGRL 9/96    (CELEX Nr: 396L0009) vgl. G v. 2.7.1997 I 1870
@@ -491,32 +495,32 @@ Abschnitt 2
 
 Übergangsbestimmungen
 
-|        |                                                                                   |
-|--------|-----------------------------------------------------------------------------------|
-| § 129  | Werke                                                                             |
-| § 130  | Übersetzungen                                                                     |
-| § 131  | Vertonte Sprachwerke                                                              |
-| § 132  | Verträge                                                                          |
-| § 133  | (weggefallen)                                                                     |
-| § 134  | Urheber                                                                           |
-| § 135  | Inhaber verwandter Schutzrechte                                                   |
-| § 135a | Berechnung der Schutzfrist                                                        |
-| § 136  | Vervielfältigung und Verbreitung                                                  |
-| § 137  | Übertragung von Rechten                                                           |
-| § 137a | Lichtbildwerke                                                                    |
-| § 137b | Bestimmte Ausgaben                                                                |
-| § 137c | Ausübende Künstler                                                                |
-| § 137d | Computerprogramme                                                                 |
-| § 137e | Übergangsregelung bei Umsetzung der Richtlinie 92/100/EWG                         |
-| § 137f | Übergangsregelung bei Umsetzung der Richtlinie 93/98/EWG                          |
-| § 137g | Übergangsregelung bei Umsetzung der Richtlinie 96/9/EG                            |
-| § 137h | Übergangsregelung bei Umsetzung der Richtlinie 93/83/EWG                          |
-| § 137i | Übergangsregelung zum Gesetz zur Modernisierung des Schuldrechts                  |
-| § 137j | Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2001/29/EG              |
-| § 137k | Übergangsregelung zur öffentlichen Zugänglichmachung für Unterricht und Forschung |
-| § 137l | Übergangsregelung für neue Nutzungsarten                                          |
-| § 137m | Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2011/77/EU              |
-| § 137n | Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2012/28/EU              |
+|        |                                                                      |
+|--------|----------------------------------------------------------------------|
+| § 129  | Werke                                                                |
+| § 130  | Übersetzungen                                                        |
+| § 131  | Vertonte Sprachwerke                                                 |
+| § 132  | Verträge                                                             |
+| § 133  | (weggefallen)                                                        |
+| § 134  | Urheber                                                              |
+| § 135  | Inhaber verwandter Schutzrechte                                      |
+| § 135a | Berechnung der Schutzfrist                                           |
+| § 136  | Vervielfältigung und Verbreitung                                     |
+| § 137  | Übertragung von Rechten                                              |
+| § 137a | Lichtbildwerke                                                       |
+| § 137b | Bestimmte Ausgaben                                                   |
+| § 137c | Ausübende Künstler                                                   |
+| § 137d | Computerprogramme                                                    |
+| § 137e | Übergangsregelung bei Umsetzung der Richtlinie 92/100/EWG            |
+| § 137f | Übergangsregelung bei Umsetzung der Richtlinie 93/98/EWG             |
+| § 137g | Übergangsregelung bei Umsetzung der Richtlinie 96/9/EG               |
+| § 137h | Übergangsregelung bei Umsetzung der Richtlinie 93/83/EWG             |
+| § 137i | Übergangsregelung zum Gesetz zur Modernisierung des Schuldrechts     |
+| § 137j | Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2001/29/EG |
+| § 137k | (weggefallen)                                                        |
+| § 137l | Übergangsregelung für neue Nutzungsarten                             |
+| § 137m | Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2011/77/EU |
+| § 137n | Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2012/28/EU |
 
 Abschnitt 3
 
@@ -1187,7 +1191,7 @@ veröffentlichte Teile eines Werkes, Werke geringen Umfangs sowie einzelne Beitr
 
 (4) Für die öffentliche Zugänglichmachung nach Absatz 1 ist eine angemessene Vergütung zu zahlen. Der Anspruch kann nur durch eine Verwertungsgesellschaft geltend gemacht werden.
 
-(+++ § 52a: Zur Nichtanwendung vgl. § 137k (F ab 10.9.2003) +++)
+(+++ § 52a: Zur Nichtanwendung vgl. § 137k (F ab 10.9.2003 bis 14.12.2012) +++)
 
 ### § 52b Wiedergabe von Werken an elektronischen Leseplätzen in öffentlichen Bibliotheken, Museen und Archiven
 
@@ -2700,9 +2704,7 @@ Artikel 229 § 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche findet m
 
 (4) Ist vor dem 13. September 2003 einem anderen ein Nutzungsrecht an einem nach diesem Gesetz noch geschützten Tonträger eingeräumt oder übertragen worden, so erstreckt sich, im Fall einer Verlängerung der Schutzdauer nach § 85 Abs. 3, die Einräumung oder Übertragung im Zweifel auch auf diesen Zeitraum. Im Fall des Satzes 1 ist eine angemessene Vergütung zu zahlen.
 
-### § 137k Übergangsregelung zur öffentlichen Zugänglichmachung für Unterricht und Forschung
-
-§ 52a ist mit Ablauf des 31. Dezember 2014 nicht mehr anzuwenden.
+### § 137k (weggefallen)
 
 ### § 137l Übergangsregelung für neue Nutzungsarten
 
