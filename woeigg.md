@@ -2,7 +2,7 @@ Gesetz über das Wohnungseigentum und das Dauerwohnrecht ()
 ==========================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 11.3.2013 I 434
+Zuletzt geändert durch Art. 4 G v. 5.12.2014 I 1962
 
 ### 
 
@@ -76,7 +76,7 @@ Wohnungseigentum wird durch die vertragliche Einräumung von Sondereigentum (§ 
 
 (1) Im Falle des § 3 Abs. 1 wird für jeden Miteigentumsanteil von Amts wegen ein besonderes Grundbuchblatt (Wohnungsgrundbuch, Teileigentumsgrundbuch) angelegt. Auf diesem ist das zu dem Miteigentumsanteil gehörende Sondereigentum und als Beschränkung des Miteigentums die Einräumung der zu den anderen Miteigentumsanteilen gehörenden Sondereigentumsrechte einzutragen. Das Grundbuchblatt des Grundstücks wird von Amts wegen geschlossen.
 
-(2) Von der Anlegung besonderer Grundbuchblätter kann abgesehen werden, wenn hiervon Verwirrung nicht zu besorgen ist. In diesem Fall ist das Grundbuchblatt als gemeinschaftliches Wohnungsgrundbuch (Teileigentumsgrundbuch) zu bezeichnen.
+(2) (weggefallen)
 
 (3) Zur näheren Bezeichnung des Gegenstands und des Inhalts des Sondereigentums kann auf die Eintragungsbewilligung Bezug genommen werden.
 
@@ -677,7 +677,7 @@ Fehlt eine nach § 12 erforderliche Zustimmung, so sind die Veräußerung und da
 
 (1) Für die am 1. Juli 2007 bei Gericht anhängigen Verfahren in Wohnungseigentums- oder in Zwangsversteigerungssachen oder für die bei einem Notar beantragten freiwilligen Versteigerungen sind die durch die Artikel 1 und 2 des Gesetzes vom 26. März 2007 (BGBl. I S. 370) geänderten Vorschriften des III. Teils dieses Gesetzes sowie die des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung in ihrer bis dahin geltenden Fassung weiter anzuwenden.
 
-(2) In Wohnungseigentumssachen nach § 43 Nr. 1 bis 4 finden die Bestimmungen über die Nichtzulassungsbeschwerde (§ 543 Abs. 1 Nr. 2, § 544 der Zivilprozessordnung) keine Anwendung, soweit die anzufechtende Entscheidung vor dem 31. Dezember 2014 verkündet worden ist.
+(2) In Wohnungseigentumssachen nach § 43 Nr. 1 bis 4 finden die Bestimmungen über die Nichtzulassungsbeschwerde (§ 543 Abs. 1 Nr. 2, § 544 der Zivilprozessordnung) keine Anwendung, soweit die anzufechtende Entscheidung vor dem 31. Dezember 2015 verkündet worden ist.
 
 ### § 63 Überleitung bestehender Rechtsverhältnisse
 
