@@ -2,7 +2,13 @@ Sozialgesetzbuch (SGB) Drittes Buch (III) - Arbeitsförderung - (Artikel 1 des G
 ============================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 11 G v. 19.10.2013 I 3836
+Zuletzt geändert durch Art. 7 G v. 10.12.2014 I 2082
+
+Hinweis  
+Änderung durch Art. 3 G v. 23.12.2014 I 2462 (Nr. 64) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 3 G v. 23.12.2014 I 2475 (Nr. 64) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -1957,7 +1963,8 @@ Leistungen und zeitweilige Aufgaben</td>
 <td>§ 420</td>
 </tr>
 <tr class="odd">
-<td>§§ 421 bis 421u</td>
+<td>§§ 421<br />
+bis 421u</td>
 </tr>
 <tr class="even">
 <td> </td>
@@ -2055,6 +2062,9 @@ auf Grund von Änderungsgesetzen</td>
 </tr>
 <tr class="odd">
 <td>§ 444</td>
+</tr>
+<tr class="even">
+<td>§ 445</td>
 </tr>
 </tbody>
 </table>
@@ -2354,7 +2364,7 @@ voraussichtlich nach Beendigung der Beschäftigung arbeitslos werden.
 
 ### § 18 Langzeitarbeitslose
 
-(1) Langzeitarbeitslose sind Arbeitslose, die ein Jahr und länger arbeitslos sind.
+(1) Langzeitarbeitslose sind Arbeitslose, die ein Jahr und länger arbeitslos sind. Die Teilnahme an einer Maßnahme nach § 45 sowie Zeiten einer Erkrankung oder sonstiger Nicht-Erwerbstätigkeit bis zu sechs Wochen unterbrechen die Dauer der Arbeitslosigkeit nicht.
 
 (2) Für Leistungen, die Langzeitarbeitslosigkeit voraussetzen, bleiben folgende Unterbrechungen der Arbeitslosigkeit innerhalb eines Zeitraums von fünf Jahren unberücksichtigt:
 
@@ -2426,7 +2436,7 @@ Leistungen zur Berufsausbildung nach dem Vierten Unterabschnitt des Dritten Absc
 Leistungen zur beruflichen Weiterbildung nach dem Vierten Abschnitt und Leistungen nach den §§ 131a und 131b,
 
 5.  
-Leistungen zur Aufnahme einer sozialversicherungspflichtigen Beschäftigung nach dem Ersten Unterabschnitt des Fünften Abschnitts und Leistungen nach § 131,
+Leistungen zur Aufnahme einer sozialversicherungspflichtigen Beschäftigung nach dem Ersten Unterabschnitt des Fünften Abschnitts,
 
 6.  
 Leistungen der Teilhabe behinderter Menschen am Arbeitsleben nach den §§ 112 bis 114, 115 Nummer 1 bis 3 mit Ausnahme berufsvorbereitender Bildungsmaßnahmen und der Berufsausbildungsbeihilfe, § 116 Absatz 1, 2 und 5, den §§ 117, 118 Satz 1 Nummer 1 und 3 sowie den §§ 119 bis 121, 127 und 128.
@@ -2496,7 +2506,10 @@ von einem Leistungsträger Mutterschaftsgeld, Krankengeld, Versorgungskrankengel
 von einem privaten Krankenversicherungsunternehmen Krankentagegeld beziehen,
 
 2a.  
-von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Landesebene, soweit Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben beziehen oder
+von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Landesebene, soweit Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben beziehen,
+
+2b.  
+von einer Pflegekasse, einem privaten Versicherungsunternehmen, der Festsetzungsstelle für die Beihilfe oder dem Dienstherrn Pflegeunterstützungsgeld beziehen oder
 
 3.  
 von einem Träger der gesetzlichen Rentenversicherung eine Rente wegen voller Erwerbsminderung beziehen,
@@ -3174,17 +3187,37 @@ ihnen die erforderlichen Mittel zur Deckung des Bedarfs für den Lebensunterhalt
 (2) Eine betriebliche Berufsausbildung, die vollständig im angrenzenden Ausland oder in den übrigen Mitgliedstaaten der Europäischen Union durchgeführt wird, ist förderungsfähig, wenn
 
 1.  
-eine nach Bundes- oder Landesrecht zuständige Stelle bestätigt, dass die Berufsausbildung einer entsprechenden betrieblichen Berufsausbildung gleichwertig ist,
+eine nach Bundes- oder Landesrecht zuständige Stelle bestätigt, dass die Berufsausbildung einer entsprechenden betrieblichen Berufsausbildung gleichwertig ist und
 
 2.  
-die Berufsausbildung im Ausland dem Erreichen des Bildungsziels und der Beschäftigungsfähigkeit besonders dienlich ist und
-
-3.  
-die oder der Auszubildende vor Beginn der Berufsausbildung insgesamt drei Jahre ihren oder seinen Wohnsitz im Inland hatte.
+die Berufsausbildung im Ausland dem Erreichen des Bildungsziels und der Beschäftigungsfähigkeit besonders dienlich ist.
 
 ### § 59 Förderungsfähiger Personenkreis
 
-(1) § 8 Absatz 1, 2, 4 und 5 des Bundesausbildungsförderungsgesetzes gilt entsprechend.
+(1) Gefördert werden
+
+1.  
+Deutsche im Sinne des Grundgesetzes,
+
+2.  
+Unionsbürger, die ein Recht auf Daueraufenthalt im Sinne des Freizügigkeitsgesetzes/EU besitzen sowie andere Ausländer, die eine Niederlassungserlaubnis oder eine Erlaubnis zum Daueraufenthalt – EU nach dem Aufenthaltsgesetz besitzen,
+
+3.  
+Ehegatten oder Lebenspartner und Kinder von Unionsbürgern, die unter den Voraussetzungen des § 3 Absatz 1 und 4 des Freizügigkeitsgesetzes/EU unionsrechtlich freizügigkeitsberechtigt sind oder denen diese Rechte als Kinder nur deshalb nicht zustehen, weil sie 21 Jahre oder älter sind und von ihren Eltern oder deren Ehegatten oder Lebenspartnern keinen Unterhalt erhalten,
+
+4.  
+Unionsbürger, die vor dem Beginn der Ausbildung im Inland in einem Beschäftigungsverhältnis gestanden haben, dessen Gegenstand mit dem der Ausbildung in inhaltlichem Zusammenhang steht,
+
+5.  
+Staatsangehörige eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum unter den Voraussetzungen der Nummern 2 bis 4,
+
+6.  
+Ausländer, die ihren gewöhnlichen Aufenthalt im Inland haben und die außerhalb des Bundesgebiets als Flüchtlinge im Sinne des Abkommens über die Rechtsstellung der Flüchtlinge vom 28. Juli 1951 (BGBl. 1953 II S. 559) anerkannt und im Gebiet der Bundesrepublik Deutschland nicht nur vorübergehend zum Aufenthalt berechtigt sind,
+
+7.  
+heimatlose Ausländer im Sinne des Gesetzes über die Rechtsstellung heimatloser Ausländer im Bundesgebiet in der im Bundesgesetzblatt Teil III, Gliederungsnummer 243-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 7 des Gesetzes vom 30. Juli 2004 (BGBl. I S. 1950) geändert worden ist.
+
+§ 8 Absatz 2, 4 und 5 des Bundesausbildungsförderungsgesetzes gilt entsprechend.
 
 (2) Geduldete Ausländerinnen und Ausländer (§ 60a des Aufenthaltsgesetzes), die ihren ständigen Wohnsitz im Inland haben, werden während einer betrieblich durchgeführten Berufsausbildung gefördert, wenn sie sich seit mindestens vier Jahren ununterbrochen rechtmäßig, gestattet oder geduldet im Bundesgebiet aufhalten.
 
@@ -3660,7 +3693,7 @@ Arbeitgeber können zur Eingliederung von Arbeitnehmerinnen und Arbeitnehmern, d
 
 ### § 89 Höhe und Dauer der Förderung
 
-Die Förderhöhe und die Förderdauer richten sich nach dem Umfang der Einschränkung der Arbeitsleistung der Arbeitnehmerin oder des Arbeitnehmers und nach den Anforderungen des jeweiligen Arbeitsplatzes (Minderleistung). Der Eingliederungszuschuss kann bis zu 50 Prozent des zu berücksichtigenden Arbeitsentgelts und die Förderdauer bis zu zwölf Monate betragen.
+Die Förderhöhe und die Förderdauer richten sich nach dem Umfang der Einschränkung der Arbeitsleistung der Arbeitnehmerin oder des Arbeitnehmers und nach den Anforderungen des jeweiligen Arbeitsplatzes (Minderleistung). Der Eingliederungszuschuss kann bis zu 50 Prozent des zu berücksichtigenden Arbeitsentgelts und die Förderdauer bis zu zwölf Monate betragen. Bei Arbeitnehmerinnen und Arbeitnehmern, die das 50. Lebensjahr vollendet haben, kann die Förderdauer bis zu 36 Monate betragen, wenn die Förderung bis zum 31. Dezember 2019 begonnen hat.
 
 ### § 90 Eingliederungszuschuss für behinderte und schwerbehinderte Menschen
 
@@ -4455,9 +4488,7 @@ Achter Abschnitt Befristete Leistungen
 
 ### § 130 (weggefallen)
 
-### § 131 Eingliederungszuschuss für ältere Arbeitnehmerinnen und Arbeitnehmer
-
-Abweichend von § 89 kann die Förderdauer für einen Eingliederungszuschuss für Arbeitnehmerinnen und Arbeitnehmer, die das 50. Lebensjahr vollendet haben, bis zu 36 Monate betragen, wenn die Förderungen bis zum 31. Dezember 2014 begonnen haben.
+### § 131 (weggefallen)
 
 ### § 131a Weiterbildungsförderung in kleinen und mittleren Unternehmen
 
@@ -4467,7 +4498,7 @@ Abweichend von den Voraussetzungen des § 82 Satz 1 Nummer 1 können Arbeitnehme
 der Arbeitgeber mindestens 50 Prozent der Lehrgangskosten trägt und
 
 2.  
-die Maßnahme vor dem 31. Dezember 2014 beginnt.
+die Maßnahme vor dem 31. Dezember 2019 beginnt.
 
 ### § 131b Weiterbildungsförderung in der Altenpflege
 
@@ -4477,7 +4508,7 @@ Abweichend von § 180 Absatz 4 Satz 1 ist die Dauer einer Vollzeitmaßnahme der 
 
 ### § 133 Saison-Kurzarbeitergeld und ergänzende Leistungen im Gerüstbauerhandwerk
 
-(1) In Betrieben des Gerüstbauerhandwerks (§ 1 Absatz 3 Nummer 1 der Baubetriebe-Verordnung) werden bis zum 31. März 2015 Leistungen nach den §§ 101 und 102 nach Maßgabe der folgenden Regelungen erbracht.
+(1) In Betrieben des Gerüstbauerhandwerks (§ 1 Absatz 3 Nummer 1 der Baubetriebe-Verordnung) werden bis zum 31. März 2018 Leistungen nach den §§ 101 und 102 nach Maßgabe der folgenden Regelungen erbracht.
 
 (2) Die Schlechtwetterzeit beginnt am 1. November und endet am 31. März.
 
@@ -4633,7 +4664,7 @@ sich die in der Rahmenfrist zurückgelegten Beschäftigungstage überwiegend aus
 2.  
 das in den letzten zwölf Monaten vor der Beschäftigungslosigkeit erzielte Arbeitsentgelt die zum Zeitpunkt der Anspruchsentstehung maßgebliche Bezugsgröße nach § 18 Absatz 1 des Vierten Buches nicht übersteigt,
 
-gilt bis zum 31. Dezember 2014, dass die Anwartschaftszeit sechs Monate beträgt. § 27 Absatz 3 Nummer 1 bleibt unberührt.
+gilt bis zum 31. Dezember 2015, dass die Anwartschaftszeit sechs Monate beträgt. § 27 Absatz 3 Nummer 1 bleibt unberührt.
 
 ### § 143 Rahmenfrist
 
@@ -4916,10 +4947,10 @@ für Beiträge zur Pflegeversicherung der Beitragssatz des § 55 Absatz 1 Satz 1
 
 (2) Die Feststellung der Lohnsteuer richtet sich nach der Lohnsteuerklasse, die zu Beginn des Jahres, in dem der Anspruch entstanden ist, als Lohnsteuerabzugsmerkmal gebildet war. Spätere Änderungen der als Lohnsteuerabzugsmerkmal gebildeten Lohnsteuerklasse werden mit Wirkung des Tages berücksichtigt, an dem erstmals die Voraussetzungen für die Änderung vorlagen.
 
-(3) Haben Ehegatten die Lohnsteuerklassen gewechselt, so werden die als Lohnsteuerabzugsmerkmal neu gebildeten Lohnsteuerklassen von dem Tag an berücksichtigt, an dem sie wirksam werden, wenn
+(3) Haben Ehegatten oder Lebenspartner die Lohnsteuerklassen gewechselt, so werden die als Lohnsteuerabzugsmerkmal neu gebildeten Lohnsteuerklassen von dem Tag an berücksichtigt, an dem sie wirksam werden, wenn
 
 1.  
-die neuen Lohnsteuerklassen dem Verhältnis der monatlichen Arbeitsentgelte beider Ehegatten entsprechen oder
+die neuen Lohnsteuerklassen dem Verhältnis der monatlichen Arbeitsentgelte beider Ehegatten oder Lebenspartner entsprechen oder
 
 2.  
 sich auf Grund der neuen Lohnsteuerklassen ein Arbeitslosengeld ergibt, das geringer ist als das Arbeitslosengeld, das sich ohne den Wechsel der Lohnsteuerklassen ergäbe.
@@ -5346,7 +5377,7 @@ haben Anspruch auf Übernahme der Beiträge, die für die Dauer des Leistungsbez
 (2) Die Bundesagentur übernimmt die von der Leistungsbezieherin oder dem Leistungsbezieher an das private Krankenversicherungsunternehmen zu zahlenden Beiträge, höchstens jedoch die Beiträge, die sie ohne die Befreiung von der Versicherungspflicht in der gesetzlichen Krankenversicherung oder in der sozialen Pflegeversicherung zu tragen hätte. Hierbei sind zugrunde zu legen
 
 1.  
-für die Beiträge zur gesetzlichen Krankenversicherung der allgemeine Beitragssatz der gesetzlichen Krankenversicherung (§ 241 des Fünften Buches),
+für die Beiträge zur gesetzlichen Krankenversicherung der allgemeine Beitragssatz der gesetzlichen Krankenversicherung zuzüglich des durchschnittlichen Zusatzbeitragssatzes (§§ 241, 242a des Fünften Buches),
 
 2.  
 für die Beiträge zur sozialen Pflegeversicherung der Beitragssatz nach § 55 Absatz 1 Satz 1 des Elften Buches.
@@ -5680,7 +5711,7 @@ Auswirkungen auf Erwerbsverläufe analysieren.
 
 (1) Die Bundesagentur ist berechtigt, dem Statistischen Bundesamt und den statistischen Ämtern der Länder Sozialdaten zu übermitteln, soweit dies für Zwecke eines Zensus erforderlich ist.
 
-(2) Die Bundesagentur ist berechtigt, dem Statistischen Bundesamt und den statistischen Ämtern der Länder anonymisierte Einzeldaten zu sozialversicherungspflichtig Beschäftigten zu übermitteln, soweit diese Daten dort für die Erstellung der Erwerbstätigenstatistiken erforderlich sind.
+(2) Die Bundesagentur ist berechtigt, dem Statistischen Bundesamt und den statistischen Ämtern der Länder anonymisierte Einzeldaten zu sozialversicherungspflichtig Beschäftigten zu übermitteln, soweit diese Daten dort für die Erstellung der Erwerbstätigenstatistiken erforderlich sind. Die in Satz 1 genannten Daten dürfen den Statistischen Ämtern des Bundes und der Länder auch übermittelt werden, wenn sie für Zwecke des Verdienststatistikgesetzes erforderlich sind.
 
 (2a) Die Bundesagentur ist berechtigt, dem Statistischen Bundesamt die in § 3 des Verwaltungsdatenverwendungsgesetzes bezeichneten Daten für die in § 1 desselben Gesetzes genannten Zwecke zu übermitteln. Satz 1 gilt auch für Daten, die nach Maßgabe einer Rechtsverordnung im Sinne des § 5 des Verwaltungsdatenverwendungsgesetzes zu übermitteln sind.
 
@@ -6451,11 +6482,17 @@ die als Bezieherinnen oder Bezieher von Krankengeld, Versorgungskrankengeld, Ver
 5a.  
 die Krankengeld nach § 44a des Fünften Buches beziehen, das der Leistung zugrunde liegende Arbeitsentgelt oder Arbeitseinkommen; wird Krankengeld in Höhe der Entgeltersatzleistungen nach diesem Buch gezahlt, gilt Nummer 5,
 
+5b.  
+die Krankengeld nach § 45 Absatz 1 des Fünften Buches oder Verletztengeld nach § 45 Absatz 4 des Siebten Buches in Verbindung mit § 45 Absatz 1 des Fünften Buches beziehen, 80 Prozent des während der Freistellung ausgefallenen, laufenden Arbeitsentgelts oder des der Leistung zugrunde liegenden Arbeitseinkommens,
+
 6.  
 die als Bezieherinnen oder Bezieher von Krankentagegeld versicherungspflichtig sind, ein Arbeitsentgelt in Höhe von 70 Prozent der für die Erhebung der Beiträge zur gesetzlichen Krankenversicherung maßgeblichen Beitragsbemessungsgrenze (§ 223 Abs. 3 Satz 1 des Fünften Buches). Für den Kalendermonat ist ein Zwölftel und für den Kalendertag ein Dreihundertsechzigstel des Arbeitsentgelts zugrunde zu legen,
 
 6a.  
 die von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von öffentlich-rechtlichen Trägern von Kosten in Krankheitsfällen auf Landesebene, soweit Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben beziehen, das diesen Leistungen zugrunde liegende Arbeitsentgelt oder Arbeitseinkommen,
+
+6b.  
+die als Bezieherinnen oder Bezieher von Pflegeunterstützungsgeld versicherungspflichtig sind, 80 Prozent des während der Freistellung ausgefallenen, laufenden Arbeitsentgelts,
 
 7.  
 die als Bezieherinnen von Mutterschaftsgeld versicherungspflichtig sind, ein Arbeitsentgelt in Höhe des Mutterschaftsgeldes,
@@ -6560,6 +6597,20 @@ für Personen, die Krankentagegeld beziehen, von privaten Krankenversicherungsun
 6a.  
 für Personen, die Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben beziehen, von der Stelle, die die Leistung erbringt; wird die Leistung von mehreren Stellen erbracht, sind die Beiträge entsprechend anteilig zu tragen,
 
+6b.  
+für Personen, die Pflegeunterstützungsgeld beziehen, von den Bezieherinnen oder Beziehern der Leistung zur Hälfte, soweit sie auf die Leistung entfallen, im Übrigen
+
+a)  
+von der Pflegekasse, wenn die oder der Pflegebedürftige in der sozialen Pflegeversicherung versichert ist,
+
+b)  
+vom privaten Versicherungsunternehmen, wenn die oder der Pflegebedürftige in der privaten Pflege-Pflichtversicherung versichert ist,
+
+c)  
+von der Festsetzungsstelle für die Beihilfe oder dem Dienstherrn und der Pflegekasse oder dem privaten Versicherungsunternehmen anteilig, wenn die oder der Pflegebedürftige Anspruch auf Beihilfe oder Heilfürsorge hat und in der sozialen Pflegeversicherung oder bei einem privaten Versicherungsunternehmen versichert ist;
+
+die Beiträge werden von den Stellen, die die Leistung zu erbringen haben, allein getragen, wenn das der Leistung zugrunde liegende Arbeitsentgelt auf den Monat bezogen 450 Euro nicht übersteigt,
+
 7.  
 für Personen, die als Bezieherinnen oder Bezieher einer Rente wegen voller Erwerbsminderung versicherungspflichtig sind, von den Leistungsträgern,
 
@@ -6597,11 +6648,11 @@ pflegebedürftige Person pflegen, die wegen Pflegebedürftigkeit Beihilfeleistun
 
 (4) Die Beiträge für Personen, die Krankentagegeld beziehen, sind von den privaten Krankenversicherungsunternehmen an die Bundesagentur zu zahlen. Die Beiträge können durch eine Einrichtung dieses Wirtschaftszweiges gezahlt werden. Mit dieser Einrichtung kann die Bundesagentur Näheres über Zahlung, Einziehung und Abrechnung vereinbaren; sie kann auch vereinbaren, daß der Beitragsabrechnung statistische Durchschnittswerte über die Zahl der Arbeitnehmerinnen und Arbeitnehmer, für die Beiträge zu zahlen sind, und über Zeiten der Arbeitsunfähigkeit zugrunde gelegt werden. Der Bundesagentur sind Verwaltungskosten für den Einzug der Beiträge in Höhe von zehn Prozent der Beiträge pauschal zu erstatten, wenn die Beiträge nicht nach Satz 2 gezahlt werden.
 
-(4a) Die Beiträge für Personen, die als Pflegende während einer Pflegezeit versicherungspflichtig sind (§ 26 Abs. 2b), sind von den Stellen, die die Beiträge zu tragen haben, an die Bundesagentur zu zahlen. Das Nähere über das Verfahren der Beitragszahlung und Abrechnung der Beiträge können der Spitzenverband Bund der Pflegekassen, der Verband der privaten Krankenversicherung e. V., die Festsetzungsstellen für die Beihilfe, das Bundesversicherungsamt und die Bundesagentur durch Vereinbarung regeln.
+(4a) Die Beiträge für Personen, die als Pflegende während einer Pflegezeit versicherungspflichtig sind (§ 26 Abs. 2b), sind von den Stellen, die die Beiträge zu tragen haben, an die Bundesagentur zu zahlen. Die Beiträge für Bezieherinnen und Bezieher von Pflegeunterstützungsgeld sind von den Stellen, die die Leistung zu erbringen haben, an die Bundesagentur zu zahlen. Das Nähere über das Verfahren der Beitragszahlung und Abrechnung der Beiträge können der Spitzenverband Bund der Pflegekassen, der Verband der privaten Krankenversicherung e. V., die Festsetzungsstellen für die Beihilfe, das Bundesversicherungsamt und die Bundesagentur durch Vereinbarung regeln.
 
 (4b) Die Beiträge für Personen, die Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben beziehen, sind von den Stellen, die die Beiträge zu tragen haben, an die Bundesagentur zu zahlen. Absatz 4a Satz 2 gilt entsprechend.
 
-(5) Für die Zahlung der Beiträge nach den Absätzen 3 bis 4b sowie für die Zahlung der Beiträge für Gefangene gelten die Vorschriften für den Einzug der Beiträge, die an die Einzugsstellen zu zahlen sind, entsprechend, soweit die Besonderheiten der Beiträge nicht entgegenstehen; die Bundesagentur ist zur Prüfung der Beitragszahlung berechtigt. Die Zahlung der Beiträge nach Absatz 4a erfolgt in Form eines Gesamtbeitrags für das Kalenderjahr, in dem die Pflegezeit in Anspruch genommen wurde (Beitragsjahr). Abweichend von § 23 Abs. 1 Satz 4 des Vierten Buches ist der Gesamtbeitrag spätestens im März des Jahres fällig, das dem Beitragsjahr folgt.
+(5) Für die Zahlung der Beiträge nach den Absätzen 3 bis 4b sowie für die Zahlung der Beiträge für Gefangene gelten die Vorschriften für den Einzug der Beiträge, die an die Einzugsstellen zu zahlen sind, entsprechend, soweit die Besonderheiten der Beiträge nicht entgegenstehen; die Bundesagentur ist zur Prüfung der Beitragszahlung berechtigt. Die Zahlung der Beiträge nach Absatz 4a erfolgt in Form eines Gesamtbeitrags für das Kalenderjahr, in dem die Pflegezeit oder das Pflegeunterstützungsgeld in Anspruch genommen wurde (Beitragsjahr). Abweichend von § 23 Abs. 1 Satz 4 des Vierten Buches ist der Gesamtbeitrag spätestens im März des Jahres fällig, das dem Beitragsjahr folgt.
 
 ### § 349a Beitragstragung und Beitragszahlung bei einem Versicherungspflichtverhältnis auf Antrag
 
@@ -7552,17 +7603,7 @@ bei der Berechnung der Nettoentgeltdifferenz nach § 106 Absatz 1 bleiben auf Gr
 
 (7) Bei der Ermittlung des Bemessungsentgelts ist § 151 mit der Maßgabe anzuwenden, dass für Zeiten, in denen die durchschnittliche regelmäßige wöchentliche Arbeitszeit der oder des Arbeitslosen auf Grund einer Beschäftigungssicherungsvereinbarung, die ab dem 1. Januar 2008 geschlossen oder wirksam geworden ist, vermindert war, als Arbeitsentgelt das Arbeitsentgelt zu Grunde zu legen ist, das die oder der Arbeitslose ohne diese Vereinbarung und ohne Mehrarbeit erzielt hätte; insoweit gilt § 150 Absatz 2 Satz 1 Nummer 4 nicht. Satz 1 gilt für Zeiten bis zum 31. März 2012.
 
-### § 420 Versicherungsfreiheit von Bürgerarbeit und Quartiersarbeit
-
-Versicherungsfrei sind Personen in einer Beschäftigung, die im Rahmen
-
-1.  
-eines Modellprojekts „Bürgerarbeit“ auf der Grundlage des Interessenbekundungsverfahrens des Bundesministeriums für Arbeit und Soziales zur Durchführung von Modellprojekten „Bürgerarbeit“ vom 19. April 2010 (BAnz. S. 1541) oder
-
-2.  
-des Handlungsfeldes „Quartiersarbeit“ im Bundesprogramm des Europäischen Sozialfonds „Bildung, Wirtschaft, Arbeit im Quartier (BIWAQ)“ des Bundesministeriums für Verkehr, Bau und Stadtentwicklung auf der Grundlage der Förderrichtlinie vom 1. Dezember 2010 (BAnz. S. 4219)
-
-durch Zuwendungen des Bundes gefördert wird.Diese Regelung tritt am 31. Dezember 2014 außer Kraft.
+### § 420 (weggefallen)
 
 ### (XXXX) §§ 421 bis 421u (weggefallen)
 
@@ -7769,3 +7810,7 @@ Ist der Anspruch auf Arbeitslosengeld vor dem 1. Januar 2010 entstanden, ist § 
 (1) Personen, die am 31. Dezember 2012 in einer mehr als geringfügigen Beschäftigung nach § 8 Absatz 1 Nummer 1 oder § 8a in Verbindung mit § 8 Absatz 1 Nummer 1 des Vierten Buches versicherungspflichtig waren, die die Merkmale einer geringfügigen Beschäftigung nach diesen Vorschriften in der ab dem 1. Januar 2013 geltenden Fassung erfüllt, bleiben in dieser Beschäftigung längstens bis zum 31. Dezember 2014 versicherungspflichtig, solange das Arbeitsentgelt 400 Euro monatlich übersteigt. Sie werden auf Antrag von der Versicherungspflicht befreit. Der Antrag ist bei der Agentur für Arbeit zu stellen. Die Befreiung wirkt vom 1. Januar 2013 an, wenn sie bis zum 31. März 2013 beantragt wird, im Übrigen von dem Beginn des Kalendermonats an, der auf den Monat folgt, in dem der Antrag gestellt worden ist. Die Befreiung ist auf diese Beschäftigung beschränkt.
 
 (2) Bei Anwendung des Absatzes 1 gilt § 276b Absatz 1 des Sechsten Buches und bei Anwendung des § 344 Absatz 4 gilt § 276b Absatz 2 des Sechsten Buches entsprechend.
+
+### § 445 Fünfundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
+
+Abweichend von § 422 sind die §§ 54a, 61, 62, 64, 67, 116 und 123 bis 126 ab dem 1. August 2016 anzuwenden.
