@@ -2,7 +2,10 @@ Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Ar
 =============================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 27.3.2014 I 261
+Zuletzt geändert durch Art. 2a G v. 17.12.2014 I 2222
+
+Hinweis  
+Änderung durch Art. 5 G v. 23.12.2014 I 2462 (Nr. 64) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -119,7 +122,7 @@ Das G ist gem. Art. 79 Abs. 1 G 860-5-1 v. 20.12.1988 I 2477 (GRG) am 1.1.1989 i
 |                       |                                                                                                                                                                                      |                  |
 | Elftes Kapitel        | Straf- und Bußgeldvorschriften.......                                                                                                                                                | §§ 306 und 307b  |
 | Zwölftes Kapitel      | Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands                                                                                                            | §§ 308 bis 313   |
-| Dreizehntes Kapitel   | Weitere Übergangsvorschriften ....                                                                                                                                                   | §§ 314 bis 321   |
+| Dreizehntes Kapitel   | Weitere Übergangsvorschriften ....                                                                                                                                                   | §§ 314 bis 322   |
 
 Erstes Kapitel Allgemeine Vorschriften
 --------------------------------------
@@ -233,7 +236,7 @@ Personen, die eine in Studien- oder Prüfungsordnungen vorgeschriebene berufspra
 Personen, die die Voraussetzungen für den Anspruch auf eine Rente aus der gesetzlichen Rentenversicherung erfüllen und diese Rente beantragt haben, wenn sie seit der erstmaligen Aufnahme einer Erwerbstätigkeit bis zur Stellung des Rentenantrags mindestens neun Zehntel der zweiten Hälfte des Zeitraums Mitglied oder nach § 10 versichert waren,
 
 11a.  
-Personen, die eine selbständige künstlerische oder publizistische Tätigkeit vor dem 1. Januar 1983 aufgenommen haben, die Voraussetzungen für den Anspruch auf eine Rente aus der Rentenversicherung erfüllen und diese Rente beantragt haben, wenn sie mindestens neun Zehntel des Zeitraums zwischen dem 1. Januar 1985 und der Stellung des Rentenantrags nach dem Künstlersozialversicherungsgesetz in der gesetzlichen Krankenversicherung versichert waren; für Personen, die am 3. Oktober 1990 ihren Wohnsitz im Beitrittsgebiet hatten, ist anstelle des 1. Januar 1985 der 1. Januar 1992 maßgebend.
+Personen, die eine selbständige künstlerische oder publizistische Tätigkeit vor dem 1. Januar 1983 aufgenommen haben, die Voraussetzungen für den Anspruch auf eine Rente aus der Rentenversicherung erfüllen und diese Rente beantragt haben, wenn sie mindestens neun Zehntel des Zeitraums zwischen dem 1. Januar 1985 und der Stellung des Rentenantrags nach dem Künstlersozialversicherungsgesetz in der gesetzlichen Krankenversicherung versichert waren; für Personen, die am 3. Oktober 1990 ihren Wohnsitz im Beitrittsgebiet hatten, ist anstelle des 1. Januar 1985 der 1. Januar 1992 maßgebend,
 
 12.  
 Personen, die die Voraussetzungen für den Anspruch auf eine Rente aus der gesetzlichen Rentenversicherung erfüllen und diese Rente beantragt haben, wenn sie zu den in § 1 oder § 17a des Fremdrentengesetzes oder zu den in § 20 des Gesetzes zur Wiedergutmachung nationalsozialistischen Unrechts in der Sozialversicherung genannten Personen gehören und ihren Wohnsitz innerhalb der letzten 10 Jahre vor der Stellung des Rentenantrags in das Inland verlegt haben,
@@ -257,7 +260,7 @@ bisher nicht gesetzlich oder privat krankenversichert waren, es sei denn, dass s
 
 (5) Nach Absatz 1 Nr. 1 oder 5 bis 12 ist nicht versicherungspflichtig, wer hauptberuflich selbständig erwerbstätig ist.
 
-(5a) Nach Absatz 1 Nr. 2a ist nicht versicherungspflichtig, wer unmittelbar vor dem Bezug von Arbeitslosengeld II privat krankenversichert war oder weder gesetzlich noch privat krankenversichert war und zu den in Absatz 5 oder den in § 6 Abs. 1 oder 2 genannten Personen gehört oder bei Ausübung seiner beruflichen Tätigkeit im Inland gehört hätte. Satz 1 gilt nicht für Personen, die am 31. Dezember 2008 nach § 5 Abs. 1 Nr. 2a versicherungspflichtig waren, für die Dauer ihrer Hilfebedürftigkeit.
+(5a) Nach Absatz 1 Nr. 2a ist nicht versicherungspflichtig, wer zuletzt vor dem Bezug von Arbeitslosengeld II privat krankenversichert war oder weder gesetzlich noch privat krankenversichert war und zu den in Absatz 5 oder den in § 6 Abs. 1 oder 2 genannten Personen gehört oder bei Ausübung seiner beruflichen Tätigkeit im Inland gehört hätte. Satz 1 gilt nicht für Personen, die am 31. Dezember 2008 nach § 5 Abs. 1 Nr. 2a versicherungspflichtig waren, für die Dauer ihrer Hilfebedürftigkeit.
 
 (6) Nach Absatz 1 Nr. 5 bis 7 oder 8 ist nicht versicherungspflichtig, wer nach Absatz 1 Nr. 1 versicherungspflichtig ist. Trifft eine Versicherungspflicht nach Absatz 1 Nr. 6 mit einer Versicherungspflicht nach Absatz 1 Nr. 7 oder 8 zusammen, geht die Versicherungspflicht vor, nach der die höheren Beiträge zu zahlen sind.
 
@@ -357,10 +360,10 @@ durch den Bezug von Arbeitslosengeld oder Unterhaltsgeld (§ 5 Abs. 1 Nr. 2) und
 durch Aufnahme einer nicht vollen Erwerbstätigkeit nach § 2 des Bundeserziehungsgeldgesetzes oder nach § 1 Abs. 6 des Bundeselterngeld- und Elternzeitgesetzes während der Elternzeit; die Befreiung erstreckt sich nur auf die Elternzeit,
 
 2a.  
-durch Herabsetzung der regelmäßigen Wochenarbeitszeit während der Pflegezeit nach § 3 des Pflegezeitgesetzes oder der Familienpflegezeit nach § 2 des Familienpflegezeitgesetzes; die Befreiung erstreckt sich nur auf die Dauer der Pflegezeit oder die Dauer der Familienpflegezeit und der Nachpflegephase nach § 3 Absatz 1 Nummer 1 Buchstabe c des Familienpflegezeitgesetzes,
+durch Herabsetzung der regelmäßigen Wochenarbeitszeit während einer Freistellung nach § 3 des Pflegezeitgesetzes oder der Familienpflegezeit nach § 2 des Familienpflegezeitgesetzes; die Befreiung erstreckt sich nur auf die Dauer einer Freistellung oder die Dauer der Familienpflegezeit,
 
 3.  
-weil seine Arbeitszeit auf die Hälfte oder weniger als die Hälfte der regelmäßigen Wochenarbeitszeit vergleichbarer Vollbeschäftigter des Betriebes herabgesetzt wird; dies gilt auch für Beschäftigte, die im Anschluß an ihr bisheriges Beschäftigungsverhältnis bei einem anderen Arbeitgeber ein Beschäftigungsverhältnis aufnehmen, das die Voraussetzungen des vorstehenden Halbsatzes erfüllt, sowie für Beschäftigte, die im Anschluss an die Zeiten des Bezugs von Elterngeld oder der Inanspruchnahme von Elternzeit oder Pflegezeit oder Familienpflegezeit und Nachpflegephase ein Beschäftigungsverhältnis im Sinne des ersten Teilsatzes aufnehmen, das bei Vollbeschäftigung zur Versicherungsfreiheit nach § 6 Absatz 1 Nummer 1 führen würde; Voraussetzung ist ferner, daß der Beschäftigte seit mindestens fünf Jahren wegen Überschreitens der Jahresarbeitsentgeltgrenze versicherungsfrei ist; Zeiten des Bezugs von Erziehungsgeld oder Elterngeld oder der Inanspruchnahme von Elternzeit oder Pflegezeit oder Familienpflegezeit und Nachpflegephase werden angerechnet,
+weil seine Arbeitszeit auf die Hälfte oder weniger als die Hälfte der regelmäßigen Wochenarbeitszeit vergleichbarer Vollbeschäftigter des Betriebes herabgesetzt wird; dies gilt auch für Beschäftigte, die im Anschluß an ihr bisheriges Beschäftigungsverhältnis bei einem anderen Arbeitgeber ein Beschäftigungsverhältnis aufnehmen, das die Voraussetzungen des vorstehenden Halbsatzes erfüllt, sowie für Beschäftigte, die im Anschluss an die Zeiten des Bezugs von Elterngeld oder der Inanspruchnahme von Elternzeit oder einer Freistellung nach § 3 des Pflegezeitgesetzes oder § 2 des Familienpflegezeitgesetzes ein Beschäftigungsverhältnis im Sinne des ersten Teilsatzes aufnehmen, das bei Vollbeschäftigung zur Versicherungsfreiheit nach § 6 Absatz 1 Nummer 1 führen würde; Voraussetzung ist ferner, daß der Beschäftigte seit mindestens fünf Jahren wegen Überschreitens der Jahresarbeitsentgeltgrenze versicherungsfrei ist; Zeiten des Bezugs von Erziehungsgeld oder Elterngeld oder der Inanspruchnahme von Elternzeit oder einer Freistellung nach § 3 des Pflegezeitgesetzes oder § 2 des Familienpflegezeitgesetzes werden angerechnet,
 
 4.  
 durch den Antrag auf Rente oder den Bezug von Rente oder die Teilnahme an einer Leistung zur Teilhabe am Arbeitsleben (§ 5 Abs. 1 Nr. 6, 11 oder 12),
@@ -375,6 +378,8 @@ durch die Beschäftigung als Arzt im Praktikum,
 durch die Tätigkeit in einer Einrichtung für behinderte Menschen (§ 5 Abs. 1 Nr. 7 oder 8).
 
 (2) Der Antrag ist innerhalb von drei Monaten nach Beginn der Versicherungspflicht bei der Krankenkasse zu stellen. Die Befreiung wirkt vom Beginn der Versicherungspflicht an, wenn seit diesem Zeitpunkt noch keine Leistungen in Anspruch genommen wurden, sonst vom Beginn des Kalendermonats an, der auf die Antragstellung folgt. Die Befreiung kann nicht widerrufen werden. Die Befreiung wird nur wirksam, wenn das Mitglied das Bestehen eines anderweitigen Anspruchs auf Absicherung im Krankheitsfall nachweist.
+
+(3) Personen, die am 31. Dezember 2014 von der Versicherungspflicht nach Absatz 1 Nummer 2a befreit waren, bleiben auch für die Dauer der Nachpflegephase nach § 3 Absatz 1 Nummer 1 Buchstabe c des Familienpflegezeitgesetzes in der am 31. Dezember 2014 geltenden Fassung befreit. Bei Anwendung des Absatzes 1 Nummer 3 steht der Freistellung nach § 2 des Familienpflegezeitgesetzes die Nachpflegephase nach § 3 Absatz 1 Nummer 1 Buchstabe c des Familienpflegezeitgesetzes in der am 31. Dezember 2014 geltenden Fassung gleich.
 
 Zweiter Abschnitt Versicherungsberechtigung
 -------------------------------------------
@@ -659,7 +664,7 @@ Dritter Abschnitt Leistungen zur Verhütung von Krankheiten, betriebliche Gesund
 
 (2) Die Krankenkasse kann in ihrer Satzung weitere Schutzimpfungen vorsehen. Bis zum Vorliegen einer Richtlinie nach Absatz 1 Satz 5 gelten die bisherigen Satzungsregelungen zu Schutzimpfungen fort.
 
-(3) Die Krankenkassen haben außerdem im Zusammenwirken mit den Behörden der Länder, die für die Durchführung von Schutzimpfungen nach dem Infektionsschutzgesetz zuständig sind, unbeschadet der Aufgaben anderer, gemeinsam und einheitlich Schutzimpfungen ihrer Versicherten zu fördern und sich durch Erstattung der Sachkosten an den Kosten der Durchführung zu beteiligen. Zur Durchführung der Maßnahmen und zur Erstattung der Sachkosten schließen die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam Rahmenvereinbarungen mit den in den Ländern dafür zuständigen Stellen.
+(3) Die Krankenkassen haben außerdem im Zusammenwirken mit den Behörden der Länder, die für die Durchführung von Schutzimpfungen nach dem Infektionsschutzgesetz zuständig sind, unbeschadet der Aufgaben anderer, gemeinsam und einheitlich Schutzimpfungen ihrer Versicherten zu fördern und sich durch Erstattung der Sachkosten an den Kosten der Durchführung zu beteiligen. Dies gilt entsprechend für die Erstattung der Kosten für den Impfstoff für Personen bis zum vollendeten 18. Lebensjahr aus Mitgliedstaaten der Europäischen Union, deren Versicherteneigenschaft in der gesetzlichen Krankenversicherung zum Zeitpunkt der Durchführung der Schutzimpfung noch nicht festgestellt ist und die nicht privat krankenversichert sind. Zur Durchführung der Maßnahmen und zur Erstattung der Sachkosten schließen die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam Rahmenvereinbarungen mit den in den Ländern dafür zuständigen Stellen.
 
 ### § 21 Verhütung von Zahnerkrankungen (Gruppenprophylaxe)
 
@@ -1392,7 +1397,7 @@ Spender von Organen oder Geweben nach § 27 Absatz 1a haben Anspruch auf Kranken
 
 (1) Versicherte haben Anspruch auf Krankengeld, wenn es nach ärztlichem Zeugnis erforderlich ist, daß sie zur Beaufsichtigung, Betreuung oder Pflege ihres erkrankten und versicherten Kindes der Arbeit fernbleiben, eine andere in ihrem Haushalt lebende Person das Kind nicht beaufsichtigen, betreuen oder pflegen kann und das Kind das zwölfte Lebensjahr noch nicht vollendet hat oder behindert und auf Hilfe angewiesen ist. § 10 Abs. 4 und § 44 Absatz 2 gelten.
 
-(2) Anspruch auf Krankengeld nach Absatz 1 besteht in jedem Kalenderjahr für jedes Kind längstens für 10 Arbeitstage, für alleinerziehende Versicherte längstens für 20 Arbeitstage. Der Anspruch nach Satz 1 besteht für Versicherte für nicht mehr als 25 Arbeitstage, für alleinerziehende Versicherte für nicht mehr als 50 Arbeitstage je Kalenderjahr.
+(2) Anspruch auf Krankengeld nach Absatz 1 besteht in jedem Kalenderjahr für jedes Kind längstens für 10 Arbeitstage, für alleinerziehende Versicherte längstens für 20 Arbeitstage. Der Anspruch nach Satz 1 besteht für Versicherte für nicht mehr als 25 Arbeitstage, für alleinerziehende Versicherte für nicht mehr als 50 Arbeitstage je Kalenderjahr. Das Krankengeld nach Absatz 1 beträgt 90 Prozent des ausgefallenen Nettoarbeitsentgelts aus beitragspflichtigem Arbeitsentgelt der Versicherten, bei Bezug von beitragspflichtigem einmalig gezahltem Arbeitsentgelt (§ 23a des Vierten Buches) in den der Freistellung von Arbeitsleistung nach Absatz 3 vorangegangenen zwölf Kalendermonaten 100 Prozent des ausgefallenen Nettoarbeitsentgelts aus beitragspflichtigem Arbeitsentgelt; es darf 70 Prozent der Beitragsbemessungsgrenze nach § 223 Absatz 3 nicht überschreiten. Erfolgt die Berechnung des Krankengeldes nach Absatz 1 aus Arbeitseinkommen, beträgt dies 70 Prozent des erzielten regelmäßigen Arbeitseinkommens, soweit es der Beitragsberechnung unterliegt. § 47 Absatz 1 Satz 6 bis 8 und Absatz 4 Satz 3 bis 5 gilt entsprechend.
 
 (3) Versicherte mit Anspruch auf Krankengeld nach Absatz 1 haben für die Dauer dieses Anspruchs gegen ihren Arbeitgeber Anspruch auf unbezahlte Freistellung von der Arbeitsleistung, soweit nicht aus dem gleichen Grund Anspruch auf bezahlte Freistellung besteht. Wird der Freistellungsanspruch nach Satz 1 geltend gemacht, bevor die Krankenkasse ihre Leistungsverpflichtung nach Absatz 1 anerkannt hat, und sind die Voraussetzungen dafür nicht erfüllt, ist der Arbeitgeber berechtigt, die gewährte Freistellung von der Arbeitsleistung auf einen späteren Freistellungsanspruch zur Beaufsichtigung, Betreuung oder Pflege eines erkrankten Kindes anzurechnen. Der Freistellungsanspruch nach Satz 1 kann nicht durch Vertrag ausgeschlossen oder beschränkt werden.
 
@@ -1407,7 +1412,7 @@ bei der eine Heilung ausgeschlossen und eine palliativmedizinische Behandlung no
 c)  
 die lediglich eine begrenzte Lebenserwartung von Wochen oder wenigen Monaten erwarten lässt.
 
-Der Anspruch besteht nur für ein Elternteil. Absatz 1 Satz 2 und Absatz 3 gelten entsprechend.
+Der Anspruch besteht nur für ein Elternteil. Absatz 1 Satz 2, Absatz 3 und § 47 gelten entsprechend.
 
 (5) Anspruch auf unbezahlte Freistellung nach den Absätzen 3 und 4 haben auch Arbeitnehmer, die nicht Versicherte mit Anspruch auf Krankengeld nach Absatz 1 sind.
 
@@ -1589,7 +1594,7 @@ Sechster Abschnitt Selbstbehalt, Beitragsrückzahlung
 
 (7) Die Krankenkasse kann in ihrer Satzung für bestimmte Mitgliedergruppen, für die sie den Umfang der Leistungen nach Vorschriften dieses Buches beschränkt, der Leistungsbeschränkung entsprechende Prämienzahlung vorsehen.
 
-(8) Die Mindestbindungsfrist beträgt für die Wahltarife nach den Absätzen 2, 4 und 5 ein Jahr und für die Wahltarife nach den Absätzen 1 und 6 drei Jahre; für die Wahltarife nach Absatz 3 gilt keine Mindestbindungsfrist. Die Mitgliedschaft kann frühestens zum Ablauf der Mindestbindungsfrist nach Satz 1, aber nicht vor Ablauf der Mindestbindungsfrist nach § 175 Absatz 4 Satz 1 gekündigt werden; § 175 Absatz 4 Satz 5 gilt mit Ausnahme für Mitglieder in Wahltarifen nach Absatz 6. Die Satzung hat für Tarife ein Sonderkündigungsrecht in besonderen Härtefällen vorzusehen. Die Prämienzahlung an Versicherte darf bis zu 20 vom Hundert, für einen oder mehrere Tarife einschließlich Prämienzahlungen nach § 242 30 vom Hundert der vom Mitglied im Kalenderjahr getragenen Beiträge mit Ausnahme der Beitragszuschüsse nach § 106 des Sechsten Buches sowie § 257 Abs. 1 Satz 1, jedoch nicht mehr als 600 Euro, bei einem oder mehreren Tarifen einschließlich Prämienzahlungen nach § 242 900 Euro jährlich betragen. Satz 4 gilt nicht für Versicherte, die Teilkostenerstattung nach § 14 gewählt haben. Mitglieder, deren Beiträge vollständig von Dritten getragen werden, können nur Tarife nach Absatz 3 wählen.
+(8) Die Mindestbindungsfrist beträgt für die Wahltarife nach den Absätzen 2, 4 und 5 ein Jahr und für die Wahltarife nach den Absätzen 1 und 6 drei Jahre; für die Wahltarife nach Absatz 3 gilt keine Mindestbindungsfrist. Die Mitgliedschaft kann frühestens zum Ablauf der Mindestbindungsfrist nach Satz 1, aber nicht vor Ablauf der Mindestbindungsfrist nach § 175 Absatz 4 Satz 1 gekündigt werden; § 175 Absatz 4 Satz 5 gilt mit Ausnahme für Mitglieder in Wahltarifen nach Absatz 6. Die Satzung hat für Tarife ein Sonderkündigungsrecht in besonderen Härtefällen vorzusehen. Die Prämienzahlung an Versicherte darf bis zu 20 vom Hundert, für einen oder mehrere Tarife 30 vom Hundert der vom Mitglied im Kalenderjahr getragenen Beiträge mit Ausnahme der Beitragszuschüsse nach § 106 des Sechsten Buches sowie § 257 Abs. 1 Satz 1, jedoch nicht mehr als 600 Euro, bei einem oder mehreren Tarifen 900 Euro jährlich betragen. Satz 4 gilt nicht für Versicherte, die Teilkostenerstattung nach § 14 gewählt haben. Mitglieder, deren Beiträge vollständig von Dritten getragen werden, können nur Tarife nach Absatz 3 wählen.
 
 (9) Die Aufwendungen für jeden Wahltarif müssen jeweils aus Einnahmen, Einsparungen und Effizienzsteigerungen aus diesen Wahltarifen auf Dauer finanziert werden. Kalkulatorische Einnahmen, die allein durch das Halten oder die Neugewinnung von Mitgliedern erzielt werden, dürfen dabei nicht berücksichtigt werden; wurden solche Einnahmen bei der Kalkulation von Wahltarifen berücksichtigt, ist die Kalkulation unverzüglich, spätestens bis zum 31. Dezember 2013 entsprechend umzustellen. Die Krankenkassen haben über die Berechnung nach den Sätzen 1 und 2 der zuständigen Aufsichtsbehörde regelmäßig, mindestens alle drei Jahre, Rechenschaft abzulegen. Sie haben hierzu ein versicherungsmathematisches Gutachten vorzulegen über die wesentlichen versicherungsmathematischen Annahmen, die der Berechnung der Beiträge und der versicherungstechnischen Rückstellungen der Wahltarife zugrunde liegen.
 
@@ -1811,6 +1816,12 @@ Im Übrigen gilt für die Vereinbarung nach Satz 1 § 63 Absatz 3 und 4 bis 6 en
 
 (4) Private Krankenversicherungen und der Verband der privaten Krankenversicherung können sich an Modellvorhaben nach Absatz 1 und deren Finanzierung beteiligen.
 
+### § 64c Modellvorhaben zum Screening auf 4MRGN
+
+(1) Die in § 115 Absatz 1 Satz 1 genannten Vertragspartner vereinbaren gemeinsam und einheitlich im Einvernehmen mit dem Robert Koch-Institut die Durchführung eines Modellvorhabens nach § 63, um Erkenntnisse zur Effektivität und zum Aufwand eines Screenings auf 4MRGN (Multiresistente gramnegative Stäbchen mit einer Resistenz gegen vier der vier Antibiotikagruppen) im Vorfeld eines planbaren Krankenhausaufenthaltes zu gewinnen. Das Modellvorhaben ist insbesondere auf die Risikopersonen nach Maßgabe der Empfehlungen der Kommission für Krankenhaushygiene und Infektionsprävention auszurichten. Die Kassenärztlichen Vereinigungen verständigen sich auf die Durchführung eines Modellvorhabens in mindestens einer Kassenärztlichen Vereinigung. Soweit eine überbezirkliche Versorgung besteht, soll das Modellvorhaben in den betroffenen Kassenärztlichen Vereinigungen gemeinsam durchgeführt werden. Das Modellvorhaben kann in mehreren Kassenärztlichen Vereinigungen durchgeführt werden, insbesondere um ausreichende Fallzahlen zu gewährleisten und um regionale Unterschiede in der Bevölkerungsstruktur zu berücksichtigen. § 65 gilt mit der Maßgabe, dass die wissenschaftliche Begleitung und Auswertung des Modellvorhabens im Einvernehmen mit dem Robert Koch-Institut zu erfolgen hat.
+
+(2) Soweit bis zum 31. Dezember 2015 keine Einigung über die Durchführung eines Modellvorhabens nach Absatz 1 erzielt wird, kann jede Vertragspartei die Landesschiedsstelle nach § 114 anrufen. § 115 Absatz 3 Satz 2 gilt entsprechend. Die Anrufung der Schiedsstelle soll unterbleiben, wenn in einer anderen Kassenärztlichen Vereinigung bereits ein Modellvorhaben nach Absatz 1 vereinbart wurde, keine überbezirkliche Versorgung besteht oder eine Durchführung in mehreren Kassenärztlichen Vereinigungen aus wissenschaftlichen Gründen nicht erforderlich ist.
+
 ### § 65 Auswertung der Modellvorhaben
 
 Die Krankenkassen oder ihre Verbände haben eine wissenschaftliche Begleitung und Auswertung der Modellvorhaben im Hinblick auf die Erreichung der Ziele der Modellvorhaben nach § 63 Abs. 1 oder Abs. 2 nach allgemein anerkannten wissenschaftlichen Standards zu veranlassen. Der von unabhängigen Sachverständigen zu erstellende Bericht über die Ergebnisse der Auswertung ist zu veröffentlichen.
@@ -1825,11 +1836,11 @@ Die Krankenkassen oder ihre Verbände haben eine wissenschaftliche Begleitung un
 
 ### § 65b Förderung von Einrichtungen zur Verbraucher- und Patientenberatung
 
-(1) Der Spitzenverband Bund der Krankenkassen fördert Einrichtungen, die Verbraucherinnen und Verbraucher sowie Patientinnen und Patienten in gesundheitlichen und gesundheitsrechtlichen Fragen qualitätsgesichert und kostenfrei informieren und beraten, mit dem Ziel, die Patientenorientierung im Gesundheitswesen zu stärken und Problemlagen im Gesundheitssystem aufzuzeigen. Der Spitzenverband Bund der Krankenkassen darf auf den Inhalt oder den Umfang der Beratungstätigkeit keinen Einfluss nehmen. Die Förderung einer Einrichtung zur Verbraucher- oder Patientenberatung setzt deren Nachweis über ihre Neutralität und Unabhängigkeit voraus. Die Entscheidung über die Vergabe der Fördermittel trifft der Spitzenverband Bund der Krankenkassen im Einvernehmen mit der oder dem Beauftragten der Bundesregierung für die Belange der Patientinnen und Patienten; die Fördermittel werden jeweils für eine Laufzeit von fünf Jahren vergeben. Der Spitzenverband Bund der Krankenkassen wird bei der Vergabe durch einen Beirat beraten. Dem Beirat gehören neben der oder dem Beauftragten der Bundesregierung für die Belange der Patientinnen und Patienten Vertreterinnen und Vertreter der Wissenschaften und Patientenorganisationen, zwei Vertreterinnen oder Vertreter des Bundesministeriums für Gesundheit und eine Vertreterin oder ein Vertreter des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz sowie im Fall einer angemessenen finanziellen Beteiligung der privaten Krankenversicherungen an der Förderung nach Satz 1 eine Vertreterin oder ein Vertreter des Verbandes der privaten Krankenversicherung an. Der Spitzenverband Bund der Krankenkassen hat den Beirat jährlich über Angelegenheiten betreffend die Förderung nach Satz 1 zu unterrichten. Der nach Satz 1 geförderten Beratungseinrichtung ist auf Antrag die Gelegenheit zu geben, sich gegenüber dem Beirat zu äußern.
+(1) Der Spitzenverband Bund der Krankenkassen fördert Einrichtungen, die Verbraucherinnen und Verbraucher sowie Patientinnen und Patienten in gesundheitlichen und gesundheitsrechtlichen Fragen qualitätsgesichert und kostenfrei informieren und beraten, mit dem Ziel, die Patientenorientierung im Gesundheitswesen zu stärken und Problemlagen im Gesundheitssystem aufzuzeigen. Der Spitzenverband Bund der Krankenkassen darf auf den Inhalt oder den Umfang der Beratungstätigkeit keinen Einfluss nehmen. Die Förderung einer Einrichtung zur Verbraucher- und Patientenberatung setzt deren Nachweis über ihre Neutralität und Unabhängigkeit voraus. Die Vorbereitung der Vergabe der Fördermittel und die Entscheidung darüber erfolgt durch den Spitzenverband Bund der Krankenkassen im Einvernehmen mit der oder dem Beauftragten der Bundesregierung für die Belange der Patientinnen und Patienten; die Fördermittel werden jeweils für eine Laufzeit von sieben Jahren vergeben. Die oder der Beauftragte der Bundesregierung für die Belange der Patientinnen und Patienten und der Spitzenverband Bund der Krankenkassen werden bei der Vergabe und während der Förderphase durch einen Beirat beraten. Der Beirat tagt unter der Leitung der oder des Beauftragten der Bundesregierung für die Belange der Patientinnen und Patienten mindestens zweimal jährlich; ihm gehören Vertreterinnen und Vertreter der Wissenschaften und Patientenorganisationen, zwei Vertreterinnen oder Vertreter des Bundesministeriums für Gesundheit und eine Vertreterin oder ein Vertreter des Bundesministeriums der Justiz und für Verbraucherschutz sowie im Fall einer angemessenen finanziellen Beteiligung der privaten Krankenversicherungen an der Förderung nach Satz 1 eine Vertreterin oder ein Vertreter des Verbandes der privaten Krankenversicherung an. Der Spitzenverband Bund der Krankenkassen hat den Beirat jährlich über Angelegenheiten betreffend die Förderung nach Satz 1 zu unterrichten. Der nach Satz 1 geförderten Beratungseinrichtung ist auf Antrag die Gelegenheit zu geben, sich gegenüber dem Beirat zu äußern.
 
 (2) Die Fördersumme nach Absatz 1 Satz 1 beträgt im Jahr 2011 insgesamt 5 200 000 Euro und ist in den Folgejahren entsprechend der prozentualen Veränderung der monatlichen Bezugsgröße nach § 18 Absatz 1 des Vierten Buches anzupassen. Sie umfasst auch die für die Qualitätssicherung und die Berichterstattung notwendigen Aufwendungen. Die Fördermittel nach Satz 1 werden durch eine Umlage der Krankenkassen gemäß dem Anteil ihrer eigenen Mitglieder an der Gesamtzahl der Mitglieder aller Krankenkassen erbracht. Die Zahl der Mitglieder der Krankenkassen ist nach dem Vordruck KM6 der Statistik über die Versicherten in der gesetzlichen Krankenversicherung jeweils zum 1. Juli eines Jahres zu bestimmen.
 
-(3) Die Bundesregierung übermittelt dem Deutschen Bundestag zum 31. März 2013 einen Erfahrungsbericht über die Durchführung der unabhängigen Verbraucher- und Patientenberatung.
+(3) (weggefallen)
 
 ### § 65c Klinische Krebsregister
 
@@ -4356,7 +4367,7 @@ fest.
 
 (1) Die Krankenkassen oder ihre Verbände schließen mit Kassenärztlichen Vereinigungen, geeigneten Ärzten, deren Gemeinschaften, Einrichtungen mit geeignetem ärztlichen Personal oder dem öffentlichen Gesundheitsdienst Verträge über die Durchführung von Schutzimpfungen nach § 20d Abs. 1 und 2. Dabei haben sie sicherzustellen, dass insbesondere die an der vertragsärztlichen Versorgung teilnehmenden Ärzte berechtigt sind, Schutzimpfungen zu Lasten der Krankenkasse vorzunehmen. Im Fall von Nichteinigung innerhalb einer Frist von drei Monaten nach der Entscheidung gemäß § 20d Absatz 1 Satz 3 legt eine von den Vertragsparteien zu bestimmende unabhängige Schiedsperson den Vertragsinhalt fest. Einigen sich die Vertragsparteien nicht auf eine Schiedsperson, so wird diese von der für die vertragsschließende Krankenkasse oder für den vertragsschließenden Verband zuständigen Aufsichtsbehörde bestimmt. Die Kosten des Schiedsverfahrens tragen die Vertragspartner zu gleichen Teilen.
 
-(2) Die Krankenkassen oder ihre Verbände können zur Versorgung ihrer Versicherten mit Impfstoffen für Schutzimpfungen nach § 20d Absatz 1 und 2 Verträge mit einzelnen pharmazeutischen Unternehmern schließen; § 130a Absatz 8 gilt entsprechend. Soweit nicht anders vereinbart, erfolgt die Versorgung der Versicherten ausschließlich mit dem vereinbarten Impfstoff. In den Verträgen nach Satz 1 sind Vereinbarungen zur Sicherstellung einer rechtzeitigen und bedarfsgerechten Versorgung der Versicherten mit Impfstoffen zur Schutzimpfung vorzusehen.
+(2) Die Krankenkassen oder ihre Verbände können zur Versorgung ihrer Versicherten mit Impfstoffen für Schutzimpfungen nach § 20d Absatz 1 und 2 Verträge mit einzelnen pharmazeutischen Unternehmern schließen; § 130a Absatz 8 gilt entsprechend. Soweit nicht anders vereinbart, erfolgt die Versorgung der Versicherten ausschließlich mit dem vereinbarten Impfstoff. In den Verträgen nach Satz 1 sind Vereinbarungen zur Sicherstellung einer rechtzeitigen und bedarfsgerechten Versorgung der Versicherten mit Impfstoffen zur Schutzimpfung vorzusehen. Für die Versorgung der Versicherten mit Impfstoffen sind Verträge nach Satz 1 mit mindestens zwei pharmazeutischen Unternehmern innerhalb eines Versorgungsgebietes zu schließen.
 
 ### § 133 Versorgung mit Krankentransportleistungen
 
@@ -4383,9 +4394,13 @@ die Leistungserbringung gemessen an den rechtlich vorgegebenen Sicherstellungsve
 
 ### § 134a Versorgung mit Hebammenhilfe
 
-(1) Der Spitzenverband Bund der Krankenkassen schließt mit den für die Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen Berufsverbänden der Hebammen und den Verbänden der von Hebammen geleiteten Einrichtungen auf Bundesebene mit bindender Wirkung für die Krankenkassen Verträge über die Versorgung mit Hebammenhilfe, die abrechnungsfähigen Leistungen unter Einschluss einer Betriebskostenpauschale bei ambulanten Entbindungen in von Hebammen geleiteten Einrichtungen und der Anforderungen an die Qualität der Hebammenhilfe sowie über die Höhe der Vergütung und die Einzelheiten der Vergütungsabrechnung durch die Krankenkassen. Die Vertragspartner haben dabei den Bedarf der Versicherten an Hebammenhilfe und deren Qualität, den Grundsatz der Beitragssatzstabilität sowie die berechtigten wirtschaftlichen Interessen der freiberuflich tätigen Hebammen zu berücksichtigen. Bei der Berücksichtigung der wirtschaftlichen Interessen der freiberuflich tätigen Hebammen nach Satz 2 sind insbesondere Kostensteigerungen zu beachten, die die Berufsausübung betreffen.
+(1) Der Spitzenverband Bund der Krankenkassen schließt mit den für die Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen Berufsverbänden der Hebammen und den Verbänden der von Hebammen geleiteten Einrichtungen auf Bundesebene mit bindender Wirkung für die Krankenkassen Verträge über die Versorgung mit Hebammenhilfe, die abrechnungsfähigen Leistungen unter Einschluss einer Betriebskostenpauschale bei ambulanten Entbindungen in von Hebammen geleiteten Einrichtungen, die Anforderungen an die Qualitätssicherung in diesen Einrichtungen, die Anforderungen an die Qualität der Hebammenhilfe einschließlich der Verpflichtung der Hebammen zur Teilnahme an Qualitätssicherungsmaßnahmen sowie über die Höhe der Vergütung und die Einzelheiten der Vergütungsabrechnung durch die Krankenkassen. Die Vertragspartner haben dabei den Bedarf der Versicherten an Hebammenhilfe unter Einbeziehung der in § 24f Satz 2 geregelten Wahlfreiheit der Versicherten und deren Qualität, den Grundsatz der Beitragssatzstabilität sowie die berechtigten wirtschaftlichen Interessen der freiberuflich tätigen Hebammen zu berücksichtigen. Bei der Berücksichtigung der wirtschaftlichen Interessen der freiberuflich tätigen Hebammen nach Satz 2 sind insbesondere Kostensteigerungen zu beachten, die die Berufsausübung betreffen.
 
-(1a) Die Vereinbarungen, die nach Absatz 1 Satz 1 zur Qualität der Hebammenhilfe getroffen werden, sollen Mindestanforderungen an die Struktur-, Prozess- und Ergebnisqualität umfassen sowie geeignete verwaltungsunaufwändige Verfahren zum Nachweis der Erfüllung dieser Qualitätsanforderungen festlegen.
+(1a) Die Vereinbarungen nach Absatz 1 Satz 1 zu den Anforderungen an die Qualität der Hebammenhilfe sind bis zum 31. Dezember 2014 zu treffen. Sie sollen Mindestanforderungen an die Struktur-, Prozess- und Ergebnisqualität umfassen sowie geeignete verwaltungsunaufwendige Verfahren zum Nachweis der Erfüllung dieser Qualitätsanforderungen festlegen.
+
+(1b) Hebammen, die Leistungen der Geburtshilfe erbringen und die Erfüllung der Qualitätsanforderungen nach Absatz 1a nachgewiesen haben, erhalten für Geburten ab dem 1. Juli 2015 einen Sicherstellungszuschlag nach Maßgabe der Vereinbarungen nach Satz 3, wenn ihre wirtschaftlichen Interessen wegen zu geringer Geburtenzahlen bei der Vereinbarung über die Höhe der Vergütung nach Absatz 1 nicht ausreichend berücksichtigt sind. Die Auszahlung des Sicherstellungszuschlags erfolgt nach Ende eines Abrechnungszeitraums auf Antrag der Hebamme durch den Spitzenverband Bund der Krankenkassen. In den Vereinbarungen, die nach Absatz 1 Satz 1 zur Höhe der Vergütung getroffen werden, sind bis zum 1. Juli 2015 die näheren Einzelheiten der Anspruchsvoraussetzungen und des Verfahrens nach Satz 1 zu regeln. Zu treffen sind insbesondere Regelungen über die Höhe des Sicherstellungszuschlags in Abhängigkeit von der Anzahl der betreuten Geburten, der Anzahl der haftpflichtversicherten Monate für Hebammen mit Geburtshilfe ohne Vorschäden und der Höhe der zu entrichtenden Haftpflichtprämie, die Anforderungen an die von der Hebamme zu erbringenden Nachweise sowie die Auszahlungsmodalitäten. Dabei muss die Hebamme gewährleisten, dass sie bei geringer Geburtenzahl unterjährige Wechselmöglichkeiten der Haftpflichtversicherungsform in Anspruch nimmt. Die erforderlichen Angaben nach den Sätzen 3 bis 5 hat die Hebamme im Rahmen ihres Antrags nach Satz 2 zu übermitteln. Für die Erfüllung der Aufgaben nach Satz 2 übermitteln die Krankenkassen dem Spitzenverband Bund der Krankenkassen leistungserbringer- und nicht versichertenbezogen die erforderlichen Daten nach § 301a Absatz 1 Satz 1 Nummer 2 bis 6.
+
+(1c) Die Vertragspartner vereinbaren in den Verträgen nach Absatz 1 Satz 1 bis zum 30. September 2014 zusätzlich zu den nach Absatz 1 Satz 3 vorzunehmenden Vergütungsanpassungen einen Zuschlag auf die Abrechnungspositionen für Geburtshilfeleistungen bei Hausgeburten, außerklinischen Geburten in von Hebammen geleiteten Einrichtungen sowie Geburten durch Beleghebammen in einer Eins-zu-eins-Betreuung ohne Schichtdienst, der von den Krankenkassen für Geburten vom 1. Juli 2014 bis zum 30. Juni 2015 an die Hebammen zu zahlen ist.
 
 (2) Die Verträge nach Absatz 1 haben Rechtswirkung für freiberuflich tätige Hebammen, wenn sie
 
@@ -4397,15 +4412,7 @@ einem nach Absatz 1 geschlossenen Vertrag beitreten.
 
 Hebammen, für die die Verträge nach Absatz 1 keine Rechtswirkung haben, sind nicht als Leistungserbringer zugelassen. Das Nähere über Form und Verfahren des Nachweises der Mitgliedschaft in einem Verband nach Satz 1 Nr. 1 sowie des Beitritts nach Satz 1 Nr. 2 regelt der Spitzenverband Bund der Krankenkassen.
 
-(3) Kommt ein Vertrag nach Absatz 1 ganz oder teilweise nicht bis zum Ablauf
-
-a)  
-der nach Absatz 1 Satz 1 bestimmten Frist oder
-
-b)  
-einer von den Vertragspartnern vereinbarten Vertragslaufzeit
-
-zu Stande, wird der Vertragsinhalt durch die Schiedsstelle nach Absatz 4 festgesetzt. Im Falle des Satzes 1 Buchstabe b gilt der bisherige Vertrag bis zu der Entscheidung der Schiedsstelle weiter.
+(3) Kommt ein Vertrag nach Absatz 1 ganz oder teilweise nicht oder nicht bis zum Ablauf der nach Absatz 1a Satz 1, Absatz 1b Satz 3 und Absatz 1c vorgegebenen Fristen zu Stande, wird der Vertragsinhalt durch die Schiedsstelle nach Absatz 4 festgesetzt. Der bisherige Vertrag gilt bis zur Entscheidung durch die Schiedsstelle vorläufig weiter.
 
 (4) Der Spitzenverband Bund der Krankenkassen und die für die Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen Berufsverbände der Hebammen sowie die Verbände der von Hebammen geleiteten Einrichtungen auf Bundesebene bilden eine gemeinsame Schiedsstelle. Sie besteht aus Vertretern der Krankenkassen und der Hebammen in gleicher Zahl sowie aus einem unparteiischen Vorsitzenden und zwei weiteren unparteiischen Mitgliedern. Die Amtsdauer beträgt vier Jahre. Über den Vorsitzenden und die zwei weiteren unparteiischen Mitglieder sowie deren Stellvertreter sollen sich die Vertragspartner einigen. Kommt eine Einigung nicht zu Stande, gilt § 89 Abs. 3 Satz 5 und 6 entsprechend. Im Übrigen gilt § 129 Abs. 9 und 10 entsprechend.
 
@@ -4453,7 +4460,7 @@ einrichtungsintern ein Qualitätsmanagement einzuführen und weiterzuentwickeln,
 
 (1) Die Kassenärztlichen Vereinigungen haben Maßnahmen zur Förderung der Qualität der vertragsärztlichen Versorgung durchzuführen. Die Ziele und Ergebnisse dieser Qualitätssicherungsmaßnahmen sind von den Kassenärztlichen Vereinigungen zu dokumentieren und jährlich zu veröffentlichen.
 
-(2) Die Kassenärztlichen Vereinigungen prüfen die Qualität der in der vertragsärztlichen Versorgung erbrachten Leistungen einschließlich der belegärztlichen Leistungen im Einzelfall durch Stichproben; in Ausnahmefällen sind auch Vollerhebungen zulässig. Der Gemeinsame Bundesausschuss entwickelt in Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 13 Kriterien zur Qualitätsbeurteilung in der vertragsärztlichen Versorgung sowie nach Maßgabe des § 299 Abs. 1 und 2 Vorgaben zu Auswahl, Umfang und Verfahren der Qualitätsprüfungen nach Satz 1; dabei sind die Ergebnisse nach § 137a Abs. 2 Nr. 1 und 2 zu berücksichtigen.
+(2) Die Kassenärztlichen Vereinigungen prüfen die Qualität der in der vertragsärztlichen Versorgung erbrachten Leistungen einschließlich der belegärztlichen Leistungen im Einzelfall durch Stichproben; in Ausnahmefällen sind auch Vollerhebungen zulässig. Der Gemeinsame Bundesausschuss entwickelt in Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 13 Kriterien zur Qualitätsbeurteilung in der vertragsärztlichen Versorgung sowie nach Maßgabe des § 299 Abs. 1 und 2 Vorgaben zu Auswahl, Umfang und Verfahren der Qualitätsprüfungen nach Satz 1; dabei sind die Ergebnisse nach § 137a Absatz 3 zu berücksichtigen.
 
 (3) Die Absätze 1 und 2 gelten auch für die im Krankenhaus erbrachten ambulanten ärztlichen Leistungen.
 
@@ -4476,7 +4483,7 @@ Die Deutsche Krankenhausgesellschaft fördert im Rahmen ihrer Aufgaben die Quali
 (1) Der Gemeinsame Bundesausschuss bestimmt für die vertragsärztliche Versorgung und für zugelassene Krankenhäuser grundsätzlich einheitlich für alle Patienten durch Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 13 insbesondere
 
 1.  
-die verpflichtenden Maßnahmen der Qualitätssicherung nach § 135a Abs. 2, § 115b Abs. 1 Satz 3 und § 116b Absatz 3 Satz 3 unter Beachtung der Ergebnisse nach § 137a Abs. 2 Nr. 1 und 2 sowie die grundsätzlichen Anforderungen an ein einrichtungsinternes Qualitätsmanagement und
+die verpflichtenden Maßnahmen der Qualitätssicherung nach § 135a Abs. 2, § 115b Abs. 1 Satz 3 und § 116b Absatz 3 Satz 3 unter Beachtung der Ergebnisse nach § 137a Absatz 3 sowie die grundsätzlichen Anforderungen an ein einrichtungsinternes Qualitätsmanagement und
 
 2.  
 Kriterien für die indikationsbezogene Notwendigkeit und Qualität der durchgeführten diagnostischen und therapeutischen Leistungen, insbesondere aufwändiger medizintechnischer Leistungen; dabei sind auch Mindestanforderungen an die Struktur-, Prozess- und Ergebnisqualität festzulegen.
@@ -4511,31 +4518,88 @@ Wenn die nach Satz 1 Nr. 2 erforderliche Mindestmenge bei planbaren Leistungen v
 
 (4) Der Gemeinsame Bundesausschuss hat auch Qualitätskriterien für die Versorgung mit Füllungen und Zahnersatz zu beschließen. Bei der Festlegung von Qualitätskriterien für Zahnersatz ist der Verband Deutscher Zahntechniker-Innungen zu beteiligen; die Stellungnahmen sind in die Entscheidung einzubeziehen. Der Zahnarzt übernimmt für Füllungen und die Versorgung mit Zahnersatz eine zweijährige Gewähr. Identische und Teilwiederholungen von Füllungen sowie die Erneuerung und Wiederherstellung von Zahnersatz einschließlich Zahnkronen sind in diesem Zeitraum vom Zahnarzt kostenfrei vorzunehmen. Ausnahmen hiervon bestimmen die Kassenzahnärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen. § 195 des Bürgerlichen Gesetzbuchs bleibt unberührt. Längere Gewährleistungsfristen können zwischen den Kassenzahnärztlichen Vereinigungen und den Landesverbänden der Krankenkassen und den Ersatzkassen sowie in Einzel- oder Gruppenverträgen zwischen Zahnärzten und Krankenkassen vereinbart werden. Die Krankenkassen können hierfür Vergütungszuschläge gewähren; der Eigenanteil der Versicherten bei Zahnersatz bleibt unberührt. Die Zahnärzte, die ihren Patienten eine längere Gewährleistungsfrist einräumen, können dies ihren Patienten bekannt machen.
 
-### § 137a Umsetzung der Qualitätssicherung und Darstellung der Qualität
+(5) Der Gemeinsame Bundesausschuss beschließt zur Entwicklung und Durchführung der Qualitätssicherung sowie zur Verbesserung der Transparenz über die Qualität der ambulanten und stationären Versorgung Aufträge nach § 137a Absatz 3 an das Institut für Qualitätssicherung und Transparenz im Gesundheitswesen. Soweit hierbei personenbezogene Daten übermittelt werden sollen, gilt § 299.
 
-(1) Der Gemeinsame Bundesausschuss nach § 91 beauftragt im Rahmen eines Vergabeverfahrens eine fachlich unabhängige Institution, Verfahren zur Messung und Darstellung der Versorgungsqualität für die Durchführung der einrichtungsübergreifenden Qualitätssicherung nach § 115b Abs. 1, § 116b Absatz 3 Satz 3, § 137 Abs. 1 und § 137f Abs. 2 Nr. 2 zu entwickeln, die möglichst sektorenübergreifend anzulegen sind. Dieser Institution soll auch die Aufgabe übertragen werden, sich an der Durchführung der einrichtungsübergreifenden Qualitätssicherung zu beteiligen. Bereits existierende Einrichtungen sollen genutzt und, soweit erforderlich, in ihrer Organisationsform den in den Sätzen 1 und 2 genannten Aufgaben angepasst werden.
+### § 137a Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
 
-(2) Die Institution ist insbesondere zu beauftragen,
+(1) Der Gemeinsame Bundesausschuss nach § 91 gründet ein fachlich unabhängiges, wissenschaftliches Institut für Qualitätssicherung und Transparenz im Gesundheitswesen. Hierzu errichtet er eine Stiftung des privaten Rechts, die Trägerin des Instituts ist.
+
+(2) Der Vorstand der Stiftung bestellt die Institutsleitung mit Zustimmung des Bundesministeriums für Gesundheit. Das Bundesministerium für Gesundheit entsendet ein Mitglied in den Vorstand der Stiftung.
+
+(3) Das Institut arbeitet im Auftrag des Gemeinsamen Bundesausschusses an Maßnahmen zur Qualitätssicherung und zur Darstellung der Versorgungsqualität im Gesundheitswesen. Es soll insbesondere beauftragt werden,
 
 1.  
-für die Messung und Darstellung der Versorgungsqualität möglichst sektorenübergreifend abgestimmte Indikatoren und Instrumente zu entwickeln,
+für die Messung und Darstellung der Versorgungsqualität möglichst sektorenübergreifend abgestimmte risikoadjustierte Indikatoren und Instrumente einschließlich Module für ergänzende Patientenbefragungen zu entwickeln,
 
 2.  
 die notwendige Dokumentation für die einrichtungsübergreifende Qualitätssicherung unter Berücksichtigung des Gebotes der Datensparsamkeit zu entwickeln,
 
 3.  
-sich an der Durchführung der einrichtungsübergreifenden Qualitätssicherung zu beteiligen und soweit erforderlich, die weiteren Einrichtungen nach Satz 2 einzubeziehen, sowie
+sich an der Durchführung der einrichtungsübergreifenden Qualitätssicherung zu beteiligen und dabei, soweit erforderlich, die weiteren Einrichtungen nach Satz 3 einzubeziehen,
 
 4.  
-die Ergebnisse der Qualitätssicherungsmaßnahmen durch die Institution in geeigneter Weise und in einer für die Allgemeinheit verständlichen Form zu veröffentlichen.
+die Ergebnisse der Qualitätssicherungsmaßnahmen in geeigneter Weise und in einer für die Allgemeinheit verständlichen Form zu veröffentlichen,
 
-In den Fällen, in denen weitere Einrichtungen an der Durchführung der verpflichtenden Maßnahmen der Qualitätssicherung nach § 137 Abs. 1 Nr. 1 mitwirken, haben diese der Institution nach Absatz 1 die für die Wahrnehmung ihrer Aufgaben nach Absatz 2 erforderlichen Daten zur Verfügung zu stellen. Die Institution nach Absatz 1 hat die im Rahmen der verpflichtenden Maßnahmen der Qualitätssicherung nach § 137 Abs. 1 Nr. 1 erhobenen und gemäß Satz 2 übermittelten Daten für Zwecke der wissenschaftlichen Forschung und der Weiterentwicklung der sektoren- und einrichtungsübergreifenden Qualitätssicherung in einem transparenten Verfahren und unter Beachtung datenschutzrechtlicher Vorschriften vorzuhalten und auszuwerten. Die Institution hat dem Gemeinsamen Bundesausschuss auf Anforderung Datenauswertungen zur Verfügung zu stellen, sofern er diese zur Erfüllung seiner gesetzlichen Aufgaben benötigt.
+5.  
+auf der Grundlage geeigneter Daten, die in den Qualitätsberichten der Krankenhäuser veröffentlicht werden, einrichtungsbezogen vergleichende risikoadjustierte Übersichten über die Qualität in maßgeblichen Bereichen der stationären Versorgung zu erstellen und in einer für die Allgemeinheit verständlichen Form im Internet zu veröffentlichen; Ergebnisse nach Nummer 6 sollen einbezogen werden,
 
-(3) Bei der Entwicklung der Inhalte nach Absatz 2 sind die Kassenärztlichen Bundesvereinigungen, die Deutsche Krankenhausgesellschaft, der Spitzenverband Bund der Krankenkassen, der Verband der privaten Krankenversicherung, die Bundesärztekammer, die Bundeszahnärztekammer, die Bundespsychotherapeutenkammer, die Berufsorganisationen der Krankenpflegeberufe, die wissenschaftlichen medizinischen Fachgesellschaften, die für die Wahrnehmung der Interessen der Patientinnen und Patienten und der Selbsthilfe chronisch kranker und behinderter Menschen maßgeblichen Organisationen auf Bundesebene sowie der oder die Beauftragte der Bundesregierung für die Belange der Patientinnen und Patienten zu beteiligen.
+6.  
+für die Weiterentwicklung der Qualitätssicherung zu ausgewählten Leistungen die Qualität der ambulanten und stationären Versorgung zusätzlich auf der Grundlage geeigneter Sozialdaten darzustellen, die dem Institut von den Krankenkassen nach § 299 Absatz 1a auf der Grundlage von Richtlinien und Beschlüssen des Gemeinsamen Bundesausschusses übermittelt werden, sowie
 
-(4) Für die Erfüllung der Aufgaben erhält die Institution vom Gemeinsamen Bundesausschuss eine leistungsbezogene Vergütung. Die Institution kann auch im Auftrag anderer Institutionen gegen Kostenbeteiligung Aufgaben nach Absatz 2 wahrnehmen.
+7.  
+Kriterien zur Bewertung von Zertifikaten und Qualitätssiegeln, die in der ambulanten und stationären Versorgung verbreitet sind, zu entwickeln und anhand dieser Kriterien über die Aussagekraft dieser Zertifikate und Qualitätssiegel in einer für die Allgemeinheit verständlichen Form zu informieren.
 
-(5) Der Gemeinsame Bundesausschuss hat im Rahmen der Beauftragung sicherzustellen, dass die an der Aufgabenerfüllung nach Absatz 2 beteiligten Institutionen und Personen mögliche Interessenkonflikte offen zu legen haben.
+In den Fällen, in denen weitere Einrichtungen an der Durchführung der verpflichtenden Maßnahmen der Qualitätssicherung nach § 137 Absatz 1 Satz 1 Nummer 1 mitwirken, haben diese dem Institut nach Absatz 1 auf der Grundlage der Richtlinien des Gemeinsamen Bundesausschusses zur einrichtungsübergreifenden Qualitätssicherung die für die Wahrnehmung seiner Aufgaben nach Satz 2 erforderlichen Daten zu übermitteln.
+
+(4) Die den Gemeinsamen Bundesausschuss bildenden Institutionen, die unparteiischen Mitglieder des Gemeinsamen Bundesausschusses, das Bundesministerium für Gesundheit und die für die Wahrnehmung der Interessen der Patientinnen und Patienten und der Selbsthilfe chronisch kranker und behinderter Menschen maßgeblichen Organisationen auf Bundesebene können die Beauftragung des Instituts beim Gemeinsamen Bundesausschuss beantragen. Das Bundesministerium für Gesundheit kann das Institut unmittelbar mit Untersuchungen und Handlungsempfehlungen zu den Aufgaben nach Absatz 3 für den Gemeinsamen Bundesausschuss beauftragen. Das Institut kann einen Auftrag des Bundesministeriums für Gesundheit ablehnen, es sei denn, das Bundesministerium für Gesundheit übernimmt die Finanzierung der Bearbeitung des Auftrags. Das Institut kann sich auch ohne Auftrag mit Aufgaben nach Absatz 3 befassen; der Vorstand der Stiftung ist hierüber von der Institutsleitung unverzüglich zu informieren. Für die Tätigkeit nach Satz 4 können jährlich bis zu 10 Prozent der Haushaltsmittel eingesetzt werden, die dem Institut zur Verfügung stehen. Die Ergebnisse der Arbeiten nach Satz 4 sind dem Gemeinsamen Bundesausschuss und dem Bundesministerium für Gesundheit vor der Veröffentlichung vorzulegen.
+
+(5) Das Institut hat zu gewährleisten, dass die Aufgaben nach Absatz 3 auf Basis der maßgeblichen, international anerkannten Standards der Wissenschaften erfüllt werden. Hierzu ist in der Stiftungssatzung ein wissenschaftlicher Beirat aus unabhängigen Sachverständigen vorzusehen, der das Institut in grundsätzlichen Fragen berät. Die Mitglieder des wissenschaftlichen Beirats werden auf Vorschlag der Institutsleitung einvernehmlich vom Vorstand der Stiftung bestellt. Der wissenschaftliche Beirat kann dem Institut Vorschläge für eine Befassung nach Absatz 4 Satz 4 machen.
+
+(6) Zur Erledigung der Aufgaben nach Absatz 3 kann das Institut im Einvernehmen mit dem Gemeinsamen Bundesausschuss Forschungs- und Entwicklungsaufträge an externe Sachverständige vergeben; soweit hierbei personenbezogene Daten übermittelt werden sollen, gilt § 299.
+
+(7) Bei der Entwicklung der Inhalte nach Absatz 3 sind zu beteiligen:
+
+1.  
+die Kassenärztlichen Bundesvereinigungen,
+
+2.  
+die Deutsche Krankenhausgesellschaft,
+
+3.  
+der Spitzenverband Bund der Krankenkassen,
+
+4.  
+der Verband der Privaten Krankenversicherung,
+
+5.  
+die Bundesärztekammer, die Bundeszahnärztekammer und die Bundespsychotherapeutenkammer,
+
+6.  
+die Berufsorganisationen der Krankenpflegeberufe,
+
+7.  
+die wissenschaftlichen medizinischen Fachgesellschaften,
+
+8.  
+das Deutsche Netzwerk Versorgungsforschung,
+
+9.  
+die für die Wahrnehmung der Interessen der Patientinnen und Patienten und der Selbsthilfe chronisch kranker und behinderter Menschen maßgeblichen Organisationen auf Bundesebene,
+
+10.  
+der oder die Beauftragte der Bundesregierung für die Belange der Patientinnen und Patienten,
+
+11.  
+zwei von der Gesundheitsministerkonferenz der Länder zu bestimmende Vertreter sowie
+
+12.  
+die Bundesoberbehörden im Geschäftsbereich des Bundesministeriums für Gesundheit, soweit ihre Aufgabenbereiche berührt sind.
+
+(8) Für die Finanzierung des Instituts gilt § 139c entsprechend.
+
+(9) Zur Sicherstellung der fachlichen Unabhängigkeit des Instituts hat der Stiftungsvorstand dafür Sorge zu tragen, dass Interessenkonflikte von Beschäftigten des Instituts sowie von allen anderen an der Aufgabenerfüllung nach Absatz 3 beteiligten Personen und Institutionen vermieden werden.
+
+(10) Der Gemeinsame Bundesausschuss kann das Institut oder eine andere an der einrichtungsübergreifenden Qualitätssicherung beteiligte Stelle beauftragen, die bei den verpflichtenden Maßnahmen der Qualitätssicherung nach § 137 Absatz 1 Satz 1 Nummer 1 erhobenen Daten auf Antrag eines Dritten für Zwecke der wissenschaftlichen Forschung und der Weiterentwicklung der Qualitätssicherung auszuwerten. Jede natürliche oder juristische Person kann hierzu beim Gemeinsamen Bundesausschuss oder bei einer nach Satz 1 beauftragten Stelle einen Antrag auf Auswertung und Übermittlung der Auswertungsergebnisse stellen. Das Institut oder eine andere nach Satz 1 beauftragte Stelle übermittelt dem Antragstellenden nach Prüfung des berechtigten Interesses die anonymisierten Auswertungsergebnisse, wenn dieser sich bei der Antragstellung zur Übernahme der entstehenden Kosten bereit erklärt hat. Der Gemeinsame Bundesausschuss regelt in der Verfahrensordnung für die Auswertung der nach § 137 Absatz 1 Satz 1 Nummer 1 erhobenen Daten und die Übermittlung der Auswertungsergebnisse unter Beachtung datenschutzrechtlicher Vorgaben und des Gebotes der Datensicherheit ein transparentes Verfahren sowie das Nähere zum Verfahren der Kostenübernahme nach Satz 3. Der Gemeinsame Bundesausschuss hat zur Verbesserung des Datenschutzes und der Datensicherheit das für die Wahrnehmung der Aufgaben nach den Sätzen 1 und 3 notwendige Datenschutzkonzept regelmäßig durch unabhängige Gutachter prüfen und bewerten zu lassen; das Ergebnis der Prüfung ist zu veröffentlichen.
 
 ### § 137b Förderung der Qualitätssicherung in der Medizin
 
@@ -4603,7 +4667,7 @@ hoher finanzieller Aufwand der Behandlung.
 Behandlung nach dem aktuellen Stand der medizinischen Wissenschaft unter Berücksichtigung von evidenzbasierten Leitlinien oder nach der jeweils besten, verfügbaren Evidenz sowie unter Berücksichtigung des jeweiligen Versorgungssektors,
 
 2.  
-durchzuführenden Qualitätssicherungsmaßnahmen unter Berücksichtigung der Ergebnisse nach § 137a Absatz 2 Nummer 1 und 2,
+durchzuführenden Qualitätssicherungsmaßnahmen unter Berücksichtigung der Ergebnisse nach § 137a Absatz 3,
 
 3.  
 Voraussetzungen für die Einschreibung des Versicherten in ein Programm,
@@ -5229,7 +5293,7 @@ Vom 1. Januar 2009 an haften die Länder nicht mehr nach § 12 Abs. 2 der Insolv
 
 (5) Für die in § 155 Abs. 5 Satz 1 Nr. 3 und 5 genannten Ansprüche und Forderungen haften im Insolvenzfall die übrigen Krankenkassen der Kassenart. Übersteigen die Verpflichtungen nach Satz 1 1 Prozent des Gesamtbetrages der Zuweisungen, den die Krankenkassen der jeweiligen Kassenart aus dem Gesundheitsfonds jährlich erhalten, haften hierfür auch die Krankenkassen der anderen Kassenarten. § 155 Abs. 4 Satz 5 bis 7 gilt entsprechend. Soweit Krankenkassen nach Satz 1 oder Satz 2 Leistungen zu erbringen haben, gehen die Ansprüche der Versicherten und der Leistungserbringer auf sie über. Absatz 4 Satz 2 gilt entsprechend.
 
-(6) Wird der Spitzenverband Bund der Krankenkassen nach dieser Vorschrift oder nach § 155 Absatz 4 oder 5 von Gläubigern einer Krankenkasse in Anspruch genommen, kann er zur Zwischenfinanzierung des Haftungsbetrags ein Darlehen aufnehmen. Die Aufnahme eines Darlehens bedarf der Genehmigung des Bundesministeriums für Gesundheit, die nur erteilt werden darf, wenn der Spitzenverband Bund der Krankenkassen nachweist, dass die Darlehensaufnahme erforderlich ist, um Ansprüche von Gläubigern innerhalb des Fälligkeitszeitraums zu erfüllen. Darlehen nach Satz 1 dürfen nur bis zum 31. Dezember 2014 aufgenommen und genehmigt werden. Der Darlehensbetrag ist spätestens nach Ablauf von zwölf Monaten zurückzuzahlen.
+(6) Wird der Spitzenverband Bund der Krankenkassen nach dieser Vorschrift oder nach § 155 Absatz 4 oder Absatz 5 von Gläubigern einer Krankenkasse in Anspruch genommen, kann er zur Zwischenfinanzierung des Haftungsbetrags ein nicht zu verzinsendes Darlehen in Höhe von bis zu 750 Millionen Euro aus der Liquiditätsreserve des Gesundheitsfonds nach § 271 Absatz 2 aufnehmen. Das Nähere zur Darlehensaufnahme vereinbart der Spitzenverband Bund der Krankenkassen mit dem Bundesversicherungsamt. Ein zum 31. Dezember eines Jahres noch nicht getilgter Darlehensbetrag ist bis zum 28. Februar des Folgejahres zurückzuzahlen. Überschreitet der zum Ende eines Kalendermonats festgestellte, für einen Schließungsfall aufgenommene Darlehensbetrag den Betrag von 50 Millionen Euro, ist dieser Betrag bis zum Ende des übernächsten Kalendermonats zurückzuzahlen. Die darlehensweise Inanspruchnahme des Gesundheitsfonds für Zwecke dieses Absatzes darf insgesamt den in Satz 1 genannten Betrag nicht übersteigen. § 271 Absatz 3 gilt entsprechend.
 
 ### § 171e Deckungskapital für Altersversorgungsverpflichtungen
 
@@ -5353,9 +5417,9 @@ Falls die Satzung eine Regelung nach Nummer 4 enthält, gilt diese für die Gebi
 
 (3a) Bei Schließung oder Insolvenz einer Krankenkasse haben Versicherungspflichtige spätestens innerhalb von sechs Wochen nach Zustellung des Schließungsbescheids oder der Stellung des Insolvenzantrags (§ 171b Absatz 3 Satz 1) der zur Meldung verpflichteten Stelle eine Mitgliedsbescheinigung vorzulegen. Wird die Mitgliedsbescheinigung nicht rechtzeitig vorgelegt, gilt Absatz 3 Satz 2 entsprechend mit der Maßgabe, dass die Anmeldung durch die zur Meldung verpflichtete Stelle innerhalb von weiteren zwei Wochen mit Wirkung zu dem Zeitpunkt zu erfolgen hat, an dem die Schließung wirksam wird. Bei Stellung eines Insolvenzantrags erfolgt die Meldung zum ersten Tag des laufenden Monats, spätestens zu dem Zeitpunkt, an dem das Insolvenzverfahren eröffnet oder der Antrag mangels Masse abgewiesen wird. Wird die Krankenkasse nicht geschlossen, bleibt die Mitgliedschaft bei dieser Krankenkasse bestehen. Die gewählten Krankenkassen haben der geschlossenen oder insolventen Krankenkasse unverzüglich eine Mitgliedsbescheinigung zu übermitteln. Mitglieder, bei denen keine zur Meldung verpflichtete Stelle besteht, haben der geschlossenen Krankenkasse innerhalb von drei Monaten nach dem in Satz 1 genannten Zeitpunkt eine Mitgliedsbescheinigung vorzulegen.
 
-(4) Versicherungspflichtige und Versicherungsberechtigte sind an die Wahl der Krankenkasse mindestens 18 Monate gebunden, wenn sie das Wahlrecht ab dem 1. Januar 2002 ausüben. Eine Kündigung der Mitgliedschaft ist zum Ablauf des übernächsten Kalendermonats möglich, gerechnet von dem Monat, in dem das Mitglied die Kündigung erklärt. Die Krankenkasse hat dem Mitglied unverzüglich, spätestens jedoch innerhalb von zwei Wochen nach Eingang der Kündigung eine Kündigungsbestätigung auszustellen. Die Kündigung wird wirksam, wenn das Mitglied innerhalb der Kündigungsfrist eine Mitgliedschaft bei einer anderen Krankenkasse durch eine Mitgliedsbescheinigung oder das Bestehen einer anderweitigen Absicherung im Krankheitsfall nachweist. Erhebt die Krankenkasse ab dem 1. Januar 2009 einen Zusatzbeitrag, erhöht sie ihren Zusatzbeitrag oder verringert sie ihre Prämienzahlung, kann die Mitgliedschaft abweichend von Satz 1 bis zur erstmaligen Fälligkeit der Beitragserhebung, der Beitragserhöhung oder der Prämienverringerung gekündigt werden. Die Krankenkasse hat ihre Mitglieder auf das Kündigungsrecht nach Satz 5 spätestens einen Monat vor erstmaliger Fälligkeit hinzuweisen. Kommt die Krankenkasse ihrer Hinweispflicht nach Satz 6 gegenüber einem Mitglied verspätet nach, verschiebt sich für dieses Mitglied die Erhebung oder die Erhöhung des Zusatzbeitrags und die Frist für die Ausübung des Sonderkündigungsrechts um den entsprechenden Zeitraum. Die Sätze 1 und 4 gelten nicht, wenn die Kündigung eines Versicherungsberechtigten erfolgt, weil die Voraussetzungen einer Versicherung nach § 10 erfüllt sind, Satz 1 gilt nicht, wenn die Kündigung erfolgt, weil keine Mitgliedschaft bei einer Krankenkasse begründet werden soll. Die Krankenkassen können in ihren Satzungen vorsehen, dass die Frist nach Satz 1 nicht gilt, wenn eine Mitgliedschaft bei einer anderen Krankenkasse der gleichen Kassenart begründet werden soll. Die Kündigung der Mitgliedschaft durch eine Person, die am 2. Februar 2007 oder später erfolgt, um in ein privates Krankenversicherungsunternehmen zu wechseln, ist unwirksam, wenn die Voraussetzungen des § 6 Abs. 1 Nr. 1 zu diesem Zeitpunkt nicht vorliegen.
+(4) Versicherungspflichtige und Versicherungsberechtigte sind an die Wahl der Krankenkasse mindestens 18 Monate gebunden. Eine Kündigung der Mitgliedschaft ist zum Ablauf des übernächsten Kalendermonats möglich, gerechnet von dem Monat, in dem das Mitglied die Kündigung erklärt. Die Krankenkasse hat dem Mitglied unverzüglich, spätestens jedoch innerhalb von zwei Wochen nach Eingang der Kündigung eine Kündigungsbestätigung auszustellen. Die Kündigung wird wirksam, wenn das Mitglied innerhalb der Kündigungsfrist eine Mitgliedschaft bei einer anderen Krankenkasse durch eine Mitgliedsbescheinigung oder das Bestehen einer anderweitigen Absicherung im Krankheitsfall nachweist. Erhebt die Krankenkasse nach § 242 Absatz 1 erstmals einen Zusatzbeitrag oder erhöht sie ihren Zusatzbeitragssatz, kann die Kündigung der Mitgliedschaft abweichend von Satz 1 bis zum Ablauf des Monats erklärt werden, für den der Zusatzbeitrag erstmals erhoben wird oder für den der Zusatzbeitragssatz erhöht wird. Die Krankenkasse hat spätestens einen Monat vor dem in Satz 5 genannten Zeitpunkt ihre Mitglieder in einem gesonderten Schreiben auf das Kündigungsrecht nach Satz 5, auf die Höhe des durchschnittlichen Zusatzbeitragssatzes nach § 242a sowie auf die Übersicht des Spitzenverbandes Bund der Krankenkassen zu den Zusatzbeitragssätzen der Krankenkassen nach § 242 Absatz 5 hinzuweisen; überschreitet der neu erhobene Zusatzbeitrag oder der erhöhte Zusatzbeitragssatz den durchschnittlichen Zusatzbeitragssatz, so sind die Mitglieder auf die Möglichkeit hinzuweisen, in eine günstigere Krankenkasse zu wechseln. Kommt die Krankenkasse ihrer Hinweispflicht nach Satz 6 gegenüber einem Mitglied verspätet nach, gilt eine erfolgte Kündigung als in dem Monat erklärt, für den der Zusatzbeitrag erstmalig erhoben wird oder für den der Zusatzbeitragssatz erhöht wird; hiervon ausgenommen sind Kündigungen, die bis zu dem in Satz 5 genannten Zeitpunkt ausgeübt worden sind. Die Sätze 1 und 4 gelten nicht, wenn die Kündigung eines Versicherungsberechtigten erfolgt, weil die Voraussetzungen einer Versicherung nach § 10 erfüllt sind, Satz 1 gilt nicht, wenn die Kündigung erfolgt, weil keine Mitgliedschaft bei einer Krankenkasse begründet werden soll. Die Krankenkassen können in ihren Satzungen vorsehen, dass die Frist nach Satz 1 nicht gilt, wenn eine Mitgliedschaft bei einer anderen Krankenkasse der gleichen Kassenart begründet werden soll.
 
-(4a) Mitglieder, die einen Differenzbetrag nach § 242 Absatz 4 Satz 2 zu zahlen haben, können ihre Mitgliedschaft abweichend von Absatz 4 Satz 1 nach Maßgabe dieses Absatzes kündigen. Erhebt die Krankenkasse erstmals einen Differenzbetrag nach § 242 Absatz 4 Satz 2 oder erhöht sich dieser, kann die Mitgliedschaft bis zur erstmaligen Fälligkeit des erhobenen oder erhöhten Differenzbetrags gekündigt werden; Absatz 4 Satz 6 gilt entsprechend. Satz 2 gilt entsprechend, wenn die Zugehörigkeit zum Personenkreis nach § 242 Absatz 4 Satz 1 erstmalig oder erneut begründet wird. Mitglieder, die bereits vor dem 1. Januar 2012 einen Differenzbetrag nach § 242 Absatz 4 Satz 2 zu zahlen hatten, hat die Krankenkasse bis zum 29. Februar 2012 auf das Kündigungsrecht nach diesem Absatz hinzuweisen; das Kündigungsrecht kann bis zu einem Monat nach Zugang des Hinweises ausgeübt werden. Absatz 4 Satz 7 gilt für das Kündigungsrecht nach diesem Absatz entsprechend.
+(4a) (weggefallen)
 
 (5) Absatz 4 gilt nicht für Versicherungspflichtige, die durch die Errichtung oder Ausdehnung einer Betriebs- oder Innungskrankenkasse oder durch betriebliche Veränderungen Mitglieder einer Betriebs- oder Innungskrankenkasse werden können, wenn sie die Wahl innerhalb von zwei Wochen nach dem Zeitpunkt der Errichtung, Ausdehnung oder betrieblichen Veränderung ausüben.
 
@@ -5497,7 +5561,7 @@ mit dem Wirksamwerden der Kündigung (§ 175 Abs. 4); die Satzung kann einen fr�
 sie sich in einem rechtmäßigen Arbeitskampf befinden,
 
 2.  
-Anspruch auf Krankengeld oder Mutterschaftsgeld besteht oder eine dieser Leistungen oder nach gesetzlichen Vorschriften Erziehungsgeld oder Elterngeld bezogen oder Elternzeit in Anspruch genommen wird,
+Anspruch auf Krankengeld oder Mutterschaftsgeld besteht oder eine dieser Leistungen oder nach gesetzlichen Vorschriften Erziehungsgeld oder Elterngeld bezogen oder Elternzeit in Anspruch genommen oder Pflegeunterstützungsgeld bezogen wird,
 
 2a.  
 von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von sonstigen öffentlich-rechtlichen Trägern von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Landesebene, soweit das Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben bezogen werden oder diese beansprucht werden können,
@@ -5541,7 +5605,7 @@ Bezirk der Krankenkasse und Kreis der Mitglieder,
 Art und Umfang der Leistungen, soweit sie nicht durch Gesetz bestimmt sind,
 
 4.  
-Festsetzung, Fälligkeit und Zahlung des Zusatzbeitrags nach § 242,
+Festsetzung des Zusatzbeitrags nach § 242,
 
 5.  
 Zahl der Mitglieder der Organe,
@@ -5678,7 +5742,7 @@ für Personen, die Vorruhestandsgeld beziehen, der zur Zahlung des Vorruhestands
 Beginn und Höhe einer Rente der gesetzlichen Rentenversicherung, den Monat, für den die Rente erstmalig laufend gezahlt wird,
 
 1a.  
-die aktuelle Höhe einer Rente der gesetzlichen Rentenversicherung, soweit die Krankenkasse diese Bezugsdaten für die Prüfung einer Anspruchsberechtigung nach § 242b anfordert,
+(weggefallen)
 
 2.  
 den Tag der Rücknahme des Rentenantrags,
@@ -6097,9 +6161,23 @@ Erster Titel Aufbringung der Mittel
 
 ### § 220 Grundsatz
 
-(1) Die Mittel der Krankenversicherung werden durch Beiträge und sonstige Einnahmen aufgebracht. Darlehensaufnahmen sind nicht zulässig.
+(1) Die Mittel der Krankenversicherung werden durch Beiträge und sonstige Einnahmen aufgebracht; als Beiträge gelten auch Zusatzbeiträge nach § 242. Darlehensaufnahmen sind nicht zulässig.
 
-(2) Der beim Bundesversicherungsamt gebildete Schätzerkreis schätzt für jedes Jahr bis zum 15. Oktober die voraussichtlichen jährlichen Einnahmen des Gesundheitsfonds und die voraussichtlichen jährlichen Ausgaben der Krankenkassen sowie die voraussichtliche Zahl der Versicherten und der Mitglieder der Krankenkassen. Diese Schätzung dient als Grundlage für die Festlegung des durchschnittlichen Zusatzbeitrags nach § 242a für das Folgejahr.
+(2) Der beim Bundesversicherungsamt gebildete Schätzerkreis schätzt jedes Jahr bis zum 15. Oktober für das jeweilige Jahr und für das Folgejahr
+
+1.  
+die Höhe der voraussichtlichen beitragspflichtigen Einnahmen der Mitglieder der Krankenkassen,
+
+2.  
+die Höhe der voraussichtlichen jährlichen Einnahmen des Gesundheitsfonds,
+
+3.  
+die Höhe der voraussichtlichen jährlichen Ausgaben der Krankenkassen sowie
+
+4.  
+die voraussichtliche Zahl der Versicherten und der Mitglieder der Krankenkassen.
+
+Die Schätzung für das Folgejahr dient als Grundlage für die Festlegung des durchschnittlichen Zusatzbeitragssatzes nach § 242a, für die Zuweisungen aus dem Gesundheitsfonds nach den §§ 266 und 270 sowie für die Durchführung des Einkommensausgleichs nach § 270a. Bei der Schätzung der Höhe der voraussichtlichen jährlichen Einnahmen bleiben die Beträge nach § 271 Absatz 1a außer Betracht.
 
 (3) Für das Haushalts- und Rechnungswesen einschließlich der Statistiken bei der Verwaltung des Gesundheitsfonds durch das Bundesversicherungsamt gelten die §§ 67 bis 69, 70 Abs. 5, § 72 Abs. 1 und 2 Satz 1 erster Halbsatz, die §§ 73 bis 77 Abs. 1a Satz 1 bis 4 und § 79 Abs. 1 und 2 in Verbindung mit Abs. 3a des Vierten Buches sowie die auf Grund des § 78 des Vierten Buches erlassenen Rechtsverordnungen entsprechend. Für das Vermögen gelten die §§ 80 und 85 des Vierten Buches entsprechend.
 
@@ -6107,17 +6185,13 @@ Erster Titel Aufbringung der Mittel
 
 ### § 221 Beteiligung des Bundes an Aufwendungen
 
-(1) Der Bund leistet zur pauschalen Abgeltung der Aufwendungen der Krankenkassen für versicherungsfremde Leistungen 11,5 Milliarden Euro für das Jahr 2013 und ab dem Jahr 2014 jährlich 14 Milliarden Euro in monatlich zum ersten Bankarbeitstag zu überweisenden Teilbeträgen an den Gesundheitsfonds.
+(1) Der Bund leistet zur pauschalen Abgeltung der Aufwendungen der Krankenkassen für versicherungsfremde Leistungen 10,5 Milliarden Euro für das Jahr 2014, 11,5 Milliarden Euro für das Jahr 2015, 14 Milliarden Euro für das Jahr 2016 und ab dem Jahr 2017 jährlich 14,5 Milliarden Euro in monatlich zum ersten Bankarbeitstag zu überweisenden Teilbeträgen an den Gesundheitsfonds.
 
 (2) Der Gesundheitsfonds überweist von den ihm zufließenden Leistungen des Bundes nach Absatz 1 der landwirtschaftlichen Krankenkasse den auf sie entfallenden Anteil an der Beteiligung des Bundes. Der Überweisungsbetrag nach Satz 1 bemisst sich nach dem Verhältnis der Anzahl der Versicherten dieser Krankenkasse zu der Anzahl der Versicherten aller Krankenkassen; maßgebend sind die Verhältnisse am 1. Juli des Vorjahres.
 
 ### § 221a (weggefallen)
 
-### § 221b Leistungen des Bundes für den Sozialausgleich
-
-(1) Der Bund leistet zum Sozialausgleich nach § 242b ab dem Jahr 2015 in monatlich zum ersten Bankarbeitstag zu überweisenden Teilbeträgen Zahlungen an den Gesundheitsfonds, die der Liquiditätsreserve nach § 271 Absatz 2 zuzuführen sind. Die Höhe der Zahlungen wird im Jahr 2014 gesetzlich festgelegt. Dieser Sozialausgleich beinhaltet zusätzlich jeweils in voller Höhe die Zahlungen für die Zusatzbeiträge, die für Mitglieder nach § 242 Absatz 4 Satz 1 erhoben werden, sowie die Zahlungen für Zusatzbeiträge, die von der Bundesagentur für Arbeit nach § 26 Absatz 3 des Zweiten Buches gezahlt werden.
-
-(2) Die Bundesregierung evaluiert die mit den Maßnahmen nach § 85 und § 87a Absatz 2 Satz 3 in der am 1. Januar 2012 geltenden Fassung verbundenen Auswirkungen auf das Versorgungsgeschehen im Bereich der vertragszahnärztlichen und vertragsärztlichen Versorgung einschließlich der finanziellen Auswirkungen auf die gesetzliche Krankenversicherung bis zum 30. April 2014. Das Ergebnis der Evaluierungen nach Satz 1 wird bei der Festlegung der Höhe der Zahlungen des Bundes für den Sozialausgleich nach Absatz 1 Satz 2 mindernd berücksichtigt, soweit sich aus diesem Ergebnis unter Berücksichtigung von Einspareffekten Mehrausgaben des Bundes für den Sozialausgleich ergeben.
+### § 221b (weggefallen)
 
 ### § 222 (weggefallen)
 
@@ -6260,6 +6334,12 @@ Bei Personen, die Teilarbeitslosengeld oder Teilunterhaltsgeld nach dem Dritten 
 
 (3) § 226 gilt entsprechend.
 
+### § 232b Beitragspflichtige Einnahmen der Bezieher von Pflegeunterstützungsgeld
+
+(1) Bei Personen, die Pflegeunterstützungsgeld nach § 44a Absatz 3 des Elften Buches beziehen, gelten 80 Prozent des während der Freistellung ausgefallenen, laufenden Arbeitsentgelts als beitragspflichtige Einnahmen.
+
+(2) Für Personen, deren Mitgliedschaft nach § 192 Absatz 1 Nummer 2 erhalten bleibt, gelten § 226 Absatz 1 Nummer 2 bis 4 und Absatz 2 sowie die §§ 228 bis 231 entsprechend. Die Einnahmen nach § 226 Absatz 1 Satz 1 Nummer 2 bis 4 unterliegen höchstens in dem Umfang der Beitragspflicht, in dem zuletzt vor dem Bezug des Pflegeunterstützungsgeldes Beitragspflicht bestand. Für freiwillige Mitglieder gilt Satz 2 entsprechend.
+
 ### § 233 Beitragspflichtige Einnahmen der Seeleute
 
 (1) Für Seeleute gilt als beitragspflichtige Einnahme der Betrag, der nach dem Recht der gesetzlichen Unfallversicherung für die Beitragsberechnung maßgebend ist.
@@ -6276,7 +6356,7 @@ Bei Personen, die Teilarbeitslosengeld oder Teilunterhaltsgeld nach dem Dritten 
 
 (1) Für die nach § 5 Abs. 1 Nr. 6 versicherungspflichtigen Teilnehmer an Leistungen zur Teilhabe am Arbeitsleben gilt als beitragspflichtige Einnahmen 80 vom Hundert des Regelentgelts, das der Berechnung des Übergangsgeldes zugrunde liegt. Das Entgelt ist um den Zahlbetrag der Rente wegen verminderter Erwerbsfähigkeit sowie um das Entgelt zu kürzen, das aus einer die Versicherungspflicht begründenden Beschäftigung erzielt wird. Bei Personen, die Teilübergangsgeld nach dem Dritten Buch beziehen, ist Satz 2 nicht anzuwenden. Wird das Übergangsgeld, das Verletztengeld oder das Versorgungskrankengeld angepaßt, ist das Entgelt um den gleichen Vomhundertsatz zu erhöhen. Für Teilnehmer, die kein Übergangsgeld erhalten,, sowie für die nach § 5 Abs. 1 Nr. 5 Versicherungspflichtigen gilt als beitragspflichtige Einnahmen ein Arbeitsentgelt in Höhe von 20 vom Hundert der monatlichen Bezugsgröße nach § 18 des Vierten Buches.
 
-(2) Für Personen, deren Mitgliedschaft nach § 192 Abs. 1 Nr. 3 erhalten bleibt, sind die vom zuständigen Rehabilitationsträger nach § 251 Abs. 1 zu tragenden Beiträge nach 80 vom Hundert des Regelentgelts zu bemessen, das der Berechnung des Übergangsgeldes, des Verletztengeldes oder des Versorgungskrankengeldes zugrunde liegt. Absatz 1 Satz 3 gilt.
+(2) Für Personen, deren Mitgliedschaft nach § 192 Abs. 1 Nr. 3 erhalten bleibt, sind die vom zuständigen Rehabilitationsträger nach § 251 Abs. 1 zu tragenden Beiträge nach 80 vom Hundert des Regelentgelts zu bemessen, das der Berechnung des Übergangsgeldes, des Verletztengeldes oder des Versorgungskrankengeldes zugrunde liegt. Absatz 1 Satz 3 gilt. Bei Personen, die Verletztengeld nach § 45 Absatz 4 des Siebten Buches in Verbindung mit § 45 Absatz 1 beziehen, gelten abweichend von Satz 1 als beitragspflichtige Einnahmen 80 Prozent des während der Freistellung ausgefallenen laufenden Arbeitsentgelts oder des der Leistung zugrunde liegenden Arbeitseinkommens.
 
 (3) Für die nach § 5 Abs. 1 Nr. 7 und 8 versicherungspflichtigen behinderten Menschen ist als beitragspflichtige Einnahmen das tatsächlich erzielte Arbeitsentgelt, mindestens jedoch ein Betrag in Höhe von 20 vom Hundert der monatlichen Bezugsgröße nach § 18 des Vierten Buches zugrunde zu legen.
 
@@ -6317,9 +6397,9 @@ Bei Rentenantragstellern wird die Beitragsbemessung für die Zeit der Rentenantr
 
 ### § 240 Beitragspflichtige Einnahmen freiwilliger Mitglieder
 
-(1) Für freiwillige Mitglieder wird die Beitragsbemessung einheitlich durch den Spitzenverband Bund der Krankenkassen geregelt. Dabei ist sicherzustellen, daß die Beitragsbelastung die gesamte wirtschaftliche Leistungsfähigkeit des freiwilligen Mitglieds berücksichtigt.
+(1) Für freiwillige Mitglieder wird die Beitragsbemessung einheitlich durch den Spitzenverband Bund der Krankenkassen geregelt. Dabei ist sicherzustellen, daß die Beitragsbelastung die gesamte wirtschaftliche Leistungsfähigkeit des freiwilligen Mitglieds berücksichtigt; sofern und solange Mitglieder Nachweise über die beitragspflichtigen Einnahmen auf Verlangen der Krankenkasse nicht vorlegen, gilt als beitragspflichtige Einnahmen für den Kalendertag der dreißigste Teil der monatlichen Beitragsbemessungsgrenze (§ 223).
 
-(2) Bei der Bestimmung der wirtschaftlichen Leistungsfähigkeit sind mindestens die Einnahmen des freiwilligen Mitglieds zu berücksichtigen, die bei einem vergleichbaren versicherungspflichtig Beschäftigten der Beitragsbemessung zugrunde zu legen sind. Abstufungen nach dem Familienstand oder der Zahl der Angehörigen, für die eine Versicherung nach § 10 besteht, sind unzulässig. Der zur sozialen Sicherung vorgesehene Teil des Gründungszuschusses nach § 94 des Dritten Buches in Höhe von monatlich 300 Euro darf nicht berücksichtigt werden. Ebenfalls nicht zu berücksichtigen ist das an eine Pflegeperson weitergereichte Pflegegeld bis zur Höhe des Pflegegeldes nach § 37 Absatz 1 des Elften Buches. Die §§ 223 und 228 Abs. 2, § 229 Abs. 2 und die §§ 238a, 247 und 248 dieses Buches sowie § 23a des Vierten Buches gelten entsprechend.
+(2) Bei der Bestimmung der wirtschaftlichen Leistungsfähigkeit sind mindestens die Einnahmen des freiwilligen Mitglieds zu berücksichtigen, die bei einem vergleichbaren versicherungspflichtig Beschäftigten der Beitragsbemessung zugrunde zu legen sind. Abstufungen nach dem Familienstand oder der Zahl der Angehörigen, für die eine Versicherung nach § 10 besteht, sind unzulässig. Der zur sozialen Sicherung vorgesehene Teil des Gründungszuschusses nach § 94 des Dritten Buches in Höhe von monatlich 300 Euro darf nicht berücksichtigt werden. Ebenfalls nicht zu berücksichtigen ist das an eine Pflegeperson weitergereichte Pflegegeld bis zur Höhe des Pflegegeldes nach § 37 Absatz 1 des Elften Buches. Die §§ 223 und 228 Abs. 2, § 229 Abs. 2 und die §§ 238a, 247 Satz 1 und 2 und § 248 Satz 1 und 2 dieses Buches sowie § 23a des Vierten Buches gelten entsprechend.
 
 (3) Für freiwillige Mitglieder, die neben dem Arbeitsentgelt eine Rente der gesetzlichen Rentenversicherung beziehen, ist der Zahlbetrag der Rente getrennt von den übrigen Einnahmen bis zur Beitragsbemessungsgrenze zu berücksichtigen. Soweit dies insgesamt zu einer über der Beitragsbemessungsgrenze liegenden Beitragsbelastung führen würde, ist statt des entsprechenden Beitrags aus der Rente nur der Zuschuß des Rentenversicherungsträgers einzuzahlen.
 
@@ -6340,66 +6420,51 @@ Dritter Titel Beitragssätze, Zusatzbeitrag
 
 ### § 241 Allgemeiner Beitragssatz
 
-Der allgemeine Beitragssatz beträgt 15,5 Prozent der beitragspflichtigen Einnahmen der Mitglieder.
+Der allgemeine Beitragssatz beträgt 14,6 Prozent der beitragspflichtigen Einnahmen der Mitglieder.
 
-### § 242 Kassenindividueller Zusatzbeitrag
+### § 242 Zusatzbeitrag
 
-(1) Soweit der Finanzbedarf einer Krankenkasse durch die Zuweisungen aus dem Fonds nicht gedeckt ist, hat sie in ihrer Satzung zu bestimmen, dass von ihren Mitgliedern ein einkommensunabhängiger Zusatzbeitrag erhoben wird. Von Mitgliedern, die das Sonderkündigungsrecht nach § 175 Abs. 4 Satz 5 wegen der erstmaligen Erhebung des Zusatzbeitrags fristgemäß ausgeübt haben, wird der Zusatzbeitrag nicht erhoben. Wird das Sonderkündigungsrecht wegen einer Erhöhung des Zusatzbeitrags ausgeübt, wird der erhöhte Zusatzbeitrag nicht erhoben. Wird die Kündigung nicht wirksam, wird der Zusatzbeitrag im vollen Umfang erhoben.
+(1) Soweit der Finanzbedarf einer Krankenkasse durch die Zuweisungen aus dem Gesundheitsfonds nicht gedeckt ist, hat sie in ihrer Satzung zu bestimmen, dass von ihren Mitgliedern ein einkommensabhängiger Zusatzbeitrag erhoben wird. Die Krankenkassen haben den einkommensabhängigen Zusatzbeitrag als Prozentsatz der beitragspflichtigen Einnahmen jedes Mitglieds zu erheben (kassenindividueller Zusatzbeitragssatz). Der Zusatzbeitragssatz ist so zu bemessen, dass die Einnahmen aus dem Zusatzbeitrag zusammen mit den Zuweisungen aus dem Gesundheitsfonds und den sonstigen Einnahmen die im Haushaltsjahr voraussichtlich zu leistenden Ausgaben und die vorgeschriebene Höhe der Rücklage decken; dabei ist die Höhe der voraussichtlichen beitragspflichtigen Einnahmen aller Krankenkassen nach § 220 Absatz 2 Satz 2 je Mitglied zugrunde zu legen.
 
-(2) Soweit die Zuweisungen aus dem Fonds den Finanzbedarf einer Krankenkasse übersteigen, kann sie in ihrer Satzung bestimmen, dass Prämien an ihre Mitglieder ausgezahlt werden. Auszahlungen dürfen erst vorgenommen werden, wenn die Krankenkasse ihrer Verpflichtung nach § 261 nachgekommen ist. Auszahlungen an Mitglieder, die sich mit der Zahlung ihrer Beiträge in Rückstand befinden, sind ausgeschlossen. Prämienauszahlungen nach Satz 1 sind getrennt von den Auszahlungen nach § 53 zu buchen und auszuweisen.
+(2) Ergibt sich während des Haushaltsjahres, dass die Betriebsmittel der Krankenkassen einschließlich der Zuführung aus der Rücklage zur Deckung der Ausgaben nicht ausreichen, ist der Zusatzbeitragssatz nach Absatz 1 durch Änderung der Satzung zu erhöhen. Muss eine Krankenkasse kurzfristig ihre Leistungsfähigkeit erhalten, so hat der Vorstand zu beschließen, dass der Zusatzbeitragssatz bis zur satzungsmäßigen Neuregelung erhöht wird; der Beschluss bedarf der Genehmigung der Aufsichtsbehörde. Kommt kein Beschluss zustande, ordnet die Aufsichtsbehörde die notwendige Erhöhung des Zusatzbeitragssatzes an. Klagen gegen die Anordnung nach Satz 3 haben keine aufschiebende Wirkung.
 
-(3) Die Krankenkassen haben den Zusatzbeitrag nach Absatz 1 so zu bemessen, dass er zusammen mit den Zuweisungen aus dem Gesundheitsfonds und den sonstigen Einnahmen die im Haushaltsjahr voraussichtlich zu leistenden Ausgaben und die vorgeschriebene Auffüllung der Rücklage deckt. Ergibt sich während des Haushaltsjahres, dass die Betriebsmittel der Krankenkasse einschließlich der Zuführung aus der Rücklage zur Deckung der Ausgaben nicht ausreichen, ist der Zusatzbeitrag durch Änderung der Satzung zu erhöhen. Muss eine Kasse kurzfristig ihre Leistungsfähigkeit erhalten, so hat der Vorstand zu beschließen, dass der Zusatzbeitrag bis zur satzungsmäßigen Neuregelung erhöht wird; der Beschluss bedarf der Genehmigung der Aufsichtsbehörde. Kommt kein Beschluss zustande, ordnet die Aufsichtsbehörde die notwendige Erhöhung des Zusatzbeitrags an. Klagen gegen die Anordnung nach Satz 4 haben keine aufschiebende Wirkung.
-
-(4) Für Mitglieder nach § 5 Absatz 1 Nummer 2a sowie für Mitglieder, die Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten Buch erhalten und nach § 5 Absatz 1 Nummer 11 und 13 oder freiwillig versichert sind, wird der Zusatzbeitrag nach Absatz 1 Satz 1, höchstens jedoch in Höhe des Zusatzbeitrags nach § 242a erhoben; dies gilt auch dann, wenn sie weitere beitragspflichtige Einnahmen haben. Ist der Zusatzbeitrag nach Absatz 1 Satz 1 höher als der Zusatzbeitrag nach § 242a, kann die Krankenkasse in ihrer Satzung regeln, dass die Differenz von den in Satz 1 genannten Mitgliedern zu zahlen ist. Von Mitgliedern, die das Sonderkündigungsrecht nach § 175 Absatz 4a fristgemäß ausgeübt haben, wird der Differenzbetrag nicht erhoben; dies gilt nicht für Differenzbeträge, die vor dem 1. Januar 2012 erhoben wurden. Wird das Sonderkündigungsrecht wegen einer Erhöhung des Differenzbetrags ausgeübt, wird der erhöhte Differenzbetrag nicht erhoben. Wird die Kündigung nicht wirksam, wird der Differenzbetrag im vollen Umfang erhoben.
-
-(5) Abweichend von Absatz 1 Satz 1 wird ein Zusatzbeitrag nicht erhoben von
+(3) Die Krankenkasse hat den Zusatzbeitrag abweichend von Absatz 1 in Höhe des durchschnittlichen Zusatzbeitragssatzes nach § 242a zu erheben für
 
 1.  
-Mitgliedern nach § 5 Absatz 1 Nummer 5 bis 8 und Absatz 4a Satz 1,
+Mitglieder nach § 5 Absatz 1 Nummer 2a,
 
 2.  
-Mitgliedern, deren Mitgliedschaft nach § 192 Absatz 1 Nummer 2 oder 3 oder Absatz 2 fortbesteht,
+Mitglieder nach § 5 Absatz 1 Nummer 5 und 6 und Absatz 4a Satz 1,
 
 3.  
-Mitgliedern, die Verletztengeld nach dem Siebten Buch, Versorgungskrankengeld nach dem Bundesversorgungsgesetz oder vergleichbare Entgeltersatzleistungen beziehen,
+Mitglieder nach § 5 Absatz 1 Nummer 7 und 8, wenn das tatsächliche Arbeitsentgelt den nach § 235 Absatz 3 maßgeblichen Mindestbetrag nicht übersteigt,
 
 4.  
-Mitgliedern, deren Mitgliedschaft nach § 193 Absatz 2 bis 5 oder nach § 8 des Eignungsübungsgesetzes fortbesteht, sowie
+Mitglieder, deren Mitgliedschaft nach § 192 Absatz 1 Nummer 3 oder nach § 193 Absatz 2 bis 5 oder nach § 8 des Eignungsübungsgesetzes fortbesteht,
 
 5.  
-von Beschäftigten, bei denen § 20 Absatz 3 Satz 1 Nummer 1 oder 2 oder Satz 2 des Vierten Buches angewendet wird,
+Mitglieder, die Verletztengeld nach dem Siebten Buch, Versorgungskrankengeld nach dem Bundesversorgungsgesetz oder vergleichbare Entgeltersatzleistungen beziehen, sowie
 
-soweit und solange sie keine weiteren beitragspflichtigen Einnahmen beziehen. Satz 1 Nummer 2 gilt für freiwillige Mitglieder entsprechend.
+6.  
+Beschäftigte, bei denen § 20 Absatz 3 Satz 1 Nummer 1 oder Nummer 2 oder Satz 2 des Vierten Buches angewendet wird.
 
-(6) Ist ein Mitglied mit der Zahlung des kassenindividuellen Zusatzbeitrags für jeweils sechs Kalendermonate säumig, so hat es der Krankenkasse zusätzlich einen Verspätungszuschlag zu zahlen, der in der Höhe auf die Summe der letzten drei fälligen Zusatzbeiträge begrenzt ist und mindestens 20 Euro beträgt. Das Nähere, insbesondere die Höhe des Verspätungszuschlags nach Satz 1, regelt die Krankenkasse in ihrer Satzung. § 24 des Vierten Buches ist neben Satz 1 nicht anzuwenden. § 242b ist für die in Satz 1 genannten Fälle bis zur vollständigen Entrichtung der ausstehenden Zusatzbeiträge und Zahlung des Verspätungszuschlags durch das Mitglied nicht anzuwenden. Ist eine wirksame Ratenzahlungsvereinbarung zustande gekommen, hat das Mitglied ab diesem Zeitpunkt wieder Anspruch auf Sozialausgleich nach § 242b, solange die Raten vertragsgemäß entrichtet werden. Die Krankenkasse teilt den beitragsabführenden Stellen ohne Angaben von Gründen Beginn und Ende des Zeitraums mit, in dem der Sozialausgleich nach § 242b gemäß den Sätzen 4 und 5 nicht durchzuführen ist.
+Auf weitere beitragspflichtige Einnahmen dieser Mitglieder findet der Beitragssatz nach Absatz 1 Anwendung.
 
-### § 242a Durchschnittlicher Zusatzbeitrag
+(4) Die Vorschriften des Zweiten und Dritten Abschnitts des Vierten Buches gelten entsprechend.
 
-(1) Der durchschnittliche Zusatzbeitrag der Krankenkassen ergibt sich aus der Differenz zwischen den voraussichtlichen jährlichen Ausgaben der Krankenkassen und den voraussichtlichen jährlichen Einnahmen des Gesundheitsfonds, die für die Höhe der Zuweisungen nach den §§ 266 und 270 zur Verfügung stehen, geteilt durch die voraussichtliche um die Mitglieder nach § 242 Absatz 5 verringerte Zahl der Mitglieder der Krankenkassen, wiederum geteilt durch die Zahl 12. Zusätzlich werden die erforderlichen Mittel für die vorgeschriebene Auffüllung der Rücklage aller Krankenkassen auf den in § 261 Absatz 2 Satz 2 genannten Mindestwert berücksichtigt, soweit unerwartete außergewöhnliche Ausgabenzuwächse in der gesetzlichen Krankenversicherung eingetreten sind.
+(5) Die Krankenkassen melden die Zusatzbeitragssätze nach Absatz 1 dem Spitzenverband Bund der Krankenkassen. Der Spitzenverband Bund der Krankenkassen führt eine laufend aktualisierte Übersicht, welche Krankenkassen einen Zusatzbeitrag erheben und in welcher Höhe, und veröffentlicht diese Übersicht im Internet. Das Nähere zu Zeitpunkt, Form und Inhalt der Meldungen sowie zur Veröffentlichung regelt der Spitzenverband Bund der Krankenkassen.
 
-(2) Das Bundesministerium für Gesundheit legt nach Auswertung der Ergebnisse des Schätzerkreises nach § 220 Absatz 2 die Höhe des durchschnittlichen Zusatzbeitrags als Euro-Betrag für das Folgejahr im Einvernehmen mit dem Bundesministerium der Finanzen fest und gibt diesen Wert jeweils bis zum 1. November eines Kalenderjahres im Bundesanzeiger bekannt.
+### § 242a Durchschnittlicher Zusatzbeitragssatz
 
-### § 242b Sozialausgleich
+(1) Der durchschnittliche Zusatzbeitragssatz ergibt sich aus der Differenz zwischen den voraussichtlichen jährlichen Ausgaben der Krankenkassen und den voraussichtlichen jährlichen Einnahmen des Gesundheitsfonds, die für die Zuweisungen nach den §§ 266 und 270 zur Verfügung stehen, geteilt durch die voraussichtlichen jährlichen beitragspflichtigen Einnahmen der Mitglieder aller Krankenkassen, multipliziert mit 100.
 
-(1) Übersteigt der durchschnittliche Zusatzbeitrag nach § 242a 2 Prozent (Belastungsgrenze für den Sozialausgleich) der beitragspflichtigen Einnahmen des Mitglieds, so hat das Mitglied Anspruch auf einen Sozialausgleich. Der Sozialausgleich wird durchgeführt, indem der monatliche einkommensabhängige Beitragssatzanteil des Mitglieds individuell verringert wird. Die in § 23b Absatz 2 des Vierten Buches genannten beitragspflichtigen Einnahmen bleiben bei der Durchführung des Sozialausgleichs unberücksichtigt. Die in § 226 Absatz 1 Satz 1 Nummer 3 und 4 genannten beitragspflichtigen Einnahmen werden bei der Durchführung des Sozialausgleichs Pflichtversicherter – mit Ausnahme der Mitglieder nach § 5 Absatz 1 Nummer 13 – nur berücksichtigt, wenn sie insgesamt 5 Prozent der monatlichen Bezugsgröße nach § 18 des Vierten Buches übersteigen. Im Hinblick auf die beitragspflichtigen Einnahmen nach Satz 1 gilt für Bezieherinnen und Bezieher von Arbeitslosengeld nach dem Dritten Buch § 232a Absatz 1 Satz 1 Nummer 1 mit der Maßgabe, dass 67 Prozent des der Leistung zugrunde liegenden Arbeitsentgelts berücksichtigt werden. § 232a Absatz 1 Satz 3 gilt entsprechend. Für diesen Personenkreis wird der Sozialausgleich in der Weise durchgeführt, dass dem Mitglied die Differenz zwischen dem monatlichen und dem verringerten Beitrag nach Absatz 2 Satz 1 vom zuständigen Leistungsträger ausgezahlt wird und der Leistungsträger eine entsprechende Verringerung des Beitrags für die Leistung vornimmt. Im Hinblick auf die beitragspflichtigen Einnahmen nach Satz 1 für Bezieherinnen und Bezieher von Kurzarbeitergeld gilt § 232a Absatz 2 mit der Maßgabe, dass 67 Prozent des Unterschiedsbetrags zwischen dem Sollentgelt und dem Istentgelt nach § 106 des Dritten Buches berücksichtigt werden. Die individuelle Verringerung des monatlichen Beitragssatzanteils des Mitglieds nach Satz 1 bleibt bei der Berechnung des Nettoentgelts für den Erhalt von Entgeltersatzleistungen oder anderer Leistungen außer Betracht.
+(2) Das Bundesministerium für Gesundheit legt nach Auswertung der Ergebnisse des Schätzerkreises nach § 220 Absatz 2 die Höhe des durchschnittlichen Zusatzbeitragssatzes für das Folgejahr fest und gibt diesen Wert in Prozent jeweils bis zum 1. November eines Kalenderjahres im Bundesanzeiger bekannt.
 
-(2) Ein verringerter Beitragssatzanteil des Mitglieds wird von der den Beitrag abführenden Stelle ermittelt, indem die Belastungsgrenze nach Absatz 1 mit den beitragspflichtigen Einnahmen des Mitglieds vervielfacht und anschließend vom durchschnittlichen Zusatzbeitrag nach § 242a abgezogen wird. Anschließend wird die nach Satz 1 ermittelte Überforderung vom einkommensabhängigen Beitragssatzanteil des Mitglieds abgezogen, höchstens jedoch, bis der Beitragssatzanteil des Mitglieds auf null Euro reduziert ist. Kann der Anspruch des Mitglieds auf Sozialausgleich nicht vollständig durch eine Verringerung des monatlichen einkommensabhängigen Beitragssatzanteils des Mitglieds beglichen werden, gilt für die Erstattung des ausstehenden Betrags Absatz 5 entsprechend. Im Falle des Satzes 4 ist die den Beitrag abführende Stelle verpflichtet, das Mitglied einmalig in geeigneter schriftlicher Form auf sein Antragsrecht nach Absatz 5 Satz 1 hinzuweisen und die zuständige Krankenkasse entsprechend zu informieren. Bei einmalig gezahltem Arbeitsentgelt gilt § 23a des Vierten Buches unter Berücksichtigung der anteiligen Belastungsgrenze des laufenden Kalenderjahres entsprechend. Für den bis zur anteiligen Belastungsgrenze zu verbeitragenden Anteil der Einmalzahlung ist im Rahmen des gewährten Sozialausgleichs ein Beitrag abzuführen, der sich aus der Summe des Beitragssatzanteils des Mitglieds und der Belastungsgrenze nach Absatz 1 ergibt. Der über der anteiligen Belastungsgrenze liegende Anteil der Einmalzahlung ist mit dem für das Mitglied maßgeblichen Beitragssatz zu verbeitragen. Satz 1 gilt für die Bezieherinnen und Bezieher von Arbeitslosengeld entsprechend mit der Maßgabe, dass ein Zahlbetrag ermittelt wird, der abweichend von Satz 3 zusätzlich von der Bundesagentur für Arbeit an das Mitglied ausgezahlt wird.
-
-(3) Hat ein Mitglied zeitgleich mehrere beitragspflichtige Einnahmen, so prüft die Krankenkasse im Hinblick auf die Summe dieser Einnahmen, ob ein Anspruch auf Sozialausgleich nach Absatz 1 besteht, und teilt dies den Beitrag abführenden Stellen mit. Besteht dieser Anspruch, teilt die Krankenkasse der den Beitrag abführenden Stelle, die den höchsten Bruttobetrag der Einnahmen gewährt, mit, dass von ihr ein verringerter Beitragssatzanteil des Mitglieds nach Absatz 2 abzuführen ist. Handelt es sich bei einer beitragspflichtigen Einnahme im Falle des Satzes 1 um eine Rente der gesetzlichen Rentenversicherung nach § 228, deren Höhe 260 Euro übersteigt, so führt abweichend von Satz 2 stets der Rentenversicherungsträger den verringerten Mitgliedsbeitrag ab. Den weiteren beitragsabführenden Stellen hat die Krankenkasse mitzuteilen, dass sie im Rahmen des gewährten Sozialausgleichs einen Beitrag abzuführen haben, der sich aus der Summe des Beitragssatzanteils des Mitglieds und der Belastungsgrenze nach Absatz 1 vervielfacht mit den beitragspflichtigen Einnahmen des Mitglieds ergibt. Abweichend von Satz 4 ergibt sich für Bezieherinnen und Bezieher von Arbeitslosengeld der zusätzlich abzuführende Betrag, um den der Zahlbetrag der Bundesagentur für Arbeit verringert wird, aus der Belastungsgrenze vervielfacht mit den beitragspflichtigen Einnahmen des Mitglieds. Für Mitglieder nach Satz 1 führt die Krankenkasse eine Überprüfung des über das Jahr durchgeführten Sozialausgleichs durch und erstattet dem Mitglied zu viel gezahlte Beiträge oder fordert zu wenig gezahlte Beiträge vom Mitglied zurück. Bei einem rückständigen Betrag unter 20 Euro ist die Nachforderung nicht zu erheben. Für einmalig gezahltes Arbeitsentgelt führen die beitragsabführenden Stellen im laufenden Kalenderjahr im Rahmen des gewährten Sozialausgleichs einen Beitrag ab, der sich aus der Summe des Beitragssatzanteils des Mitglieds und der Belastungsgrenze nach Absatz 1 ergibt.
-
-(4) Zahlen Mitglieder ihre Beiträge selbst, wird der Sozialausgleich nach den Absätzen 1 bis 3 von der zuständigen Krankenkasse durchgeführt. Für Arbeitnehmer, die auf Grund mehrerer Beschäftigungsverhältnisse gegen ein monatliches Arbeitsentgelt bis zum oberen Grenzbetrag der Gleitzone nach § 20 Absatz 2 des Vierten Buches mehr als geringfügig beschäftigt sind, teilt die Krankenkasse den Arbeitgebern die anteiligen abzuführenden Beiträge unter Berücksichtigung des Sozialausgleichs gemäß § 28h Absatz 2a Nummer 2 des Vierten Buches mit.
-
-(5) Abweichend von den Absätzen 2 und 3 prüft für unständig Beschäftigte die zuständige Krankenkasse auf Antrag des Mitglieds jeweils nach Ablauf von drei abgerechneten Kalendermonaten, längstens für die Dauer von zwölf abgerechneten Kalendermonaten, den Anspruch auf Sozialausgleich und erstattet dem Mitglied zu viel gezahlte Beiträge. Die Krankenkassen sind verpflichtet, unständig beschäftigte Mitglieder regelmäßig, spätestens alle zehn Monate, in geeigneter schriftlicher Form auf ihr Antragsrecht nach Satz 1 hinzuweisen.
-
-(6) Mitglieder, von denen gemäß § 242 Absatz 5 kein Zusatzbeitrag erhoben oder deren Zusatzbeitrag nach § 251 Absatz 6 vollständig von Dritten getragen oder gezahlt wird oder die Leistungen nach dem Dritten oder Vierten Kapitel des Zwölften Buches oder nach dem Asylbewerberleistungsgesetz beziehen, haben keinen Anspruch auf einen Sozialausgleich. Bezieht ein Mitglied Leistungen nach dem Dritten oder Vierten Kapitel des Zwölften Buches oder Leistungen zur Sicherung des Lebensunterhaltes nach dem Zweiten Buch oder endet der Bezug dieser Leistungen, teilt die Krankenkasse den Beitrag abführenden Stellen ohne Angaben von Gründen Beginn und Ende des Zeitraumes mit, in dem der Sozialausgleich nicht durchzuführen ist.
-
-(7) Die Deutsche Rentenversicherung Bund, die Künstlersozialkasse und die Bundesagentur für Arbeit übermitteln dem Bundesversicherungsamt zusätzlich zu der Höhe der von ihnen abgeführten Beiträge gesondert den Betrag, der ohne die Durchführung des Sozialausgleichs zu zahlen gewesen wäre. Entsprechendes gilt für die Krankenkassen im Hinblick auf die Weiterleitung der Krankenversicherungsbeiträge nach § 252 Absatz 2 Satz 2 und § 28k Absatz 1 Satz 1 des Vierten Buches. Die Krankenkassen teilen dem Bundesversicherungsamt zudem die Beträge mit, die sie ihren Mitgliedern im Rahmen des Sozialausgleichs nach Absatz 3 Satz 6 sowie den Absätzen 5 und 8 erstattet beziehungsweise von ihnen nachgefordert haben.
-
-(8) (weggefallen)
+### § 242b (weggefallen)
 
 ### § 243 Ermäßigter Beitragssatz
 
-Für Mitglieder, die keinen Anspruch auf Krankengeld haben, gilt ein ermäßigter Beitragssatz. Dies gilt nicht für die Beitragsbemessung nach § 240 Absatz 4a. Der ermäßigte Beitragssatz beträgt 14,9 Prozent der beitragspflichtigen Einnahmen der Mitglieder.
+Für Mitglieder, die keinen Anspruch auf Krankengeld haben, gilt ein ermäßigter Beitragssatz. Dies gilt nicht für die Beitragsbemessung nach § 240 Absatz 4a. Der ermäßigte Beitragssatz beträgt 14,0 Prozent der beitragspflichtigen Einnahmen der Mitglieder.
 
 ### § 244 Ermäßigter Beitrag für Wehrdienstleistende und Zivildienstleistende
 
@@ -6429,11 +6494,11 @@ Für Personen, die Arbeitslosengeld II beziehen, gilt als Beitragssatz der ermä
 
 ### § 247 Beitragssatz aus der Rente
 
-Für Versicherungspflichtige findet für die Bemessung der Beiträge aus Renten der gesetzlichen Rentenversicherung der allgemeine Beitragssatz nach § 241 Anwendung. Abweichend von Satz 1 gilt bei Versicherungspflichtigen für die Bemessung der Beiträge aus ausländischen Renten nach § 228 Absatz 1 Satz 2 die Hälfte des allgemeinen Beitragssatzes zuzüglich 0,45 Beitragssatzpunkte.
+Für Versicherungspflichtige findet für die Bemessung der Beiträge aus Renten der gesetzlichen Rentenversicherung der allgemeine Beitragssatz nach § 241 Anwendung. Abweichend von Satz 1 gilt bei Versicherungspflichtigen für die Bemessung der Beiträge aus ausländischen Renten nach § 228 Absatz 1 Satz 2 die Hälfte des allgemeinen Beitragssatzes. Veränderungen des Zusatzbeitragssatzes gelten jeweils vom ersten Tag des zweiten auf die Veränderung folgenden Kalendermonats an; dies gilt nicht für ausländische Renten nach § 228 Absatz 1 Satz 2.
 
 ### § 248 Beitragssatz aus Versorgungsbezügen und Arbeitseinkommen
 
-Bei Versicherungspflichtigen gilt für die Bemessung der Beiträge aus Versorgungsbezügen und Arbeitseinkommen der allgemeine Beitragssatz. Abweichend von Satz 1 gilt bei Versicherungspflichtigen für die Bemessung der Beiträge aus Versorgungsbezügen nach § 229 Abs. 1 Satz 1 Nr. 4 die Hälfte des allgemeinen Beitragssatzes zuzüglich 0,45 Beitragssatzpunkte.
+Bei Versicherungspflichtigen gilt für die Bemessung der Beiträge aus Versorgungsbezügen und Arbeitseinkommen der allgemeine Beitragssatz. Abweichend von Satz 1 gilt bei Versicherungspflichtigen für die Bemessung der Beiträge aus Versorgungsbezügen nach § 229 Abs. 1 Satz 1 Nr. 4 die Hälfte des allgemeinen Beitragssatzes. Veränderungen des Zusatzbeitragssatzes gelten für Versorgungsbezüge nach § 229 Absatz 1 jeweils vom ersten Tag des zweiten auf die Veränderung folgenden Kalendermonats an.
 
 Vierter Titel Tragung der Beiträge
 ----------------------------------
@@ -6442,21 +6507,34 @@ Vierter Titel Tragung der Beiträge
 
 ### § 249 Tragung der Beiträge bei versicherungspflichtiger Beschäftigung
 
-(1) Bei versicherungspflichtig Beschäftigten nach § 5 Abs. 1 Nr. 1 und 13 trägt der Arbeitgeber die Hälfte der Beiträge des Mitglieds aus dem Arbeitsentgelt nach dem um 0,9 Beitragssatzpunkte verminderten allgemeinen oder ermäßigten Beitragssatz; im Übrigen tragen die Beschäftigten die Beiträge. Bei geringfügig Beschäftigten gilt § 249b.
+(1) Bei versicherungspflichtig Beschäftigten nach § 5 Abs. 1 Nr. 1 und 13 trägt der Arbeitgeber die Hälfte der Beiträge des Mitglieds aus dem Arbeitsentgelt nach dem allgemeinen oder ermäßigten Beitragssatz; im Übrigen tragen die Beschäftigten die Beiträge. Bei geringfügig Beschäftigten gilt § 249b.
 
 (2) Der Arbeitgeber trägt den Beitrag allein für Beschäftigte, soweit Beiträge für Kurzarbeitergeld zu zahlen sind.
 
-(3) (weggefallen)
-
-(4) Abweichend von Absatz 1 werden die Beiträge bei versicherungspflichtig Beschäftigten mit einem monatlichen Arbeitsentgelt innerhalb der Gleitzone nach § 20 Abs. 2 des Vierten Buches vom Arbeitgeber in Höhe der Hälfte des Betrages, der sich ergibt, wenn der um 0,9 Beitragssatzpunkte verminderte allgemeine oder ermäßigte Beitragssatz auf das der Beschäftigung zugrunde liegende Arbeitsentgelt angewendet wird, im Übrigen vom Versicherten getragen. Dies gilt auch für Personen, für die § 7 Absatz 3 Anwendung findet.
+(3) Abweichend von Absatz 1 werden die Beiträge bei versicherungspflichtig Beschäftigten mit einem monatlichen Arbeitsentgelt innerhalb der Gleitzone nach § 20 Abs. 2 des Vierten Buches vom Arbeitgeber in Höhe der Hälfte des Betrages, der sich ergibt, wenn der allgemeine oder ermäßigte Beitragssatz auf das der Beschäftigung zugrunde liegende Arbeitsentgelt angewendet wird, im Übrigen vom Versicherten getragen. Dies gilt auch für Personen, für die § 7 Absatz 3 Anwendung findet.
 
 ### § 249a Tragung der Beiträge bei Versicherungspflichtigen mit Rentenbezug
 
-Bei Versicherungspflichtigen, die eine Rente nach § 228 Absatz 1 Satz 1 beziehen, trägt der Träger der Rentenversicherung die Hälfte der nach der Rente zu bemessenden Beiträge nach dem um 0,9 Beitragssatzpunkte verminderten allgemeinen Beitragssatz; im Übrigen tragen die Rentner die Beiträge. Die Beiträge aus ausländischen Renten nach § 228 Absatz 1 Satz 2 tragen die Rentner allein.
+Bei Versicherungspflichtigen, die eine Rente nach § 228 Absatz 1 Satz 1 beziehen, trägt der Träger der Rentenversicherung die Hälfte der nach der Rente zu bemessenden Beiträge nach dem allgemeinen Beitragssatz; im Übrigen tragen die Rentner die Beiträge. Die Beiträge aus ausländischen Renten nach § 228 Absatz 1 Satz 2 tragen die Rentner allein.
 
 ### § 249b Beitrag des Arbeitgebers bei geringfügiger Beschäftigung
 
 Der Arbeitgeber einer Beschäftigung nach § 8 Abs. 1 Nr. 1 des Vierten Buches hat für Versicherte, die in dieser Beschäftigung versicherungsfrei oder nicht versicherungspflichtig sind, einen Beitrag in Höhe von 13 vom Hundert des Arbeitsentgelts dieser Beschäftigung zu tragen. Für Beschäftigte in Privathaushalten nach § 8a Satz 1 des Vierten Buches, die in dieser Beschäftigung versicherungsfrei oder nicht versicherungspflichtig sind, hat der Arbeitgeber einen Beitrag in Höhe von 5 vom Hundert des Arbeitsentgelts dieser Beschäftigung zu tragen. Für den Beitrag des Arbeitgebers gelten der Dritte Abschnitt des Vierten Buches sowie § 111 Abs. 1 Nr. 2 bis 4, 8 und Abs. 2 und 4 des Vierten Buches entsprechend.
+
+### § 249c Tragung der Beiträge bei Bezug von Pflegeunterstützungsgeld
+
+Bei Bezug von Pflegeunterstützungsgeld werden die Beiträge, soweit sie auf das Pflegeunterstützungsgeld entfallen, getragen
+
+1.  
+bei Personen, die einen in der sozialen Pflegeversicherung versicherten Pflegebedürftigen pflegen, von den Versicherten und der Pflegekasse je zur Hälfte,
+
+2.  
+bei Personen, die einen in der privaten Pflege-Pflichtversicherung versicherungspflichtigen Pflegebedürftigen pflegen, von den Versicherten und dem privaten Versicherungsunternehmen je zur Hälfte,
+
+3.  
+bei Personen, die einen Pflegebedürftigen pflegen, der wegen Pflegebedürftigkeit Beihilfeleistungen oder Leistungen der Heilfürsorge und Leistungen einer Pflegekasse oder eines privaten Versicherungsunternehmens erhält, von den Versicherten zur Hälfte und von der Festsetzungsstelle für die Beihilfe oder vom Dienstherrn und der Pflegekasse oder dem privaten Versicherungsunternehmen jeweils anteilig,
+
+im Übrigen von der Pflegekasse, dem privaten Versicherungsunternehmen oder anteilig von der Festsetzungsstelle für die Beihilfe oder dem Dienstherrn und der Pflegekasse oder dem privaten Versicherungsunternehmen. Die Beiträge werden von der Pflegekasse oder dem privaten Versicherungsunternehmen allein oder anteilig von der Festsetzungsstelle für die Beihilfe oder dem Dienstherrn und der Pflegekasse oder dem privaten Versicherungsunternehmen getragen, wenn das dem Pflegeunterstützungsgeld zugrunde liegende monatliche Arbeitsentgelt 450 Euro nicht übersteigt.
 
 ### § 250 Tragung der Beiträge durch das Mitglied
 
@@ -6469,9 +6547,7 @@ den Versorgungsbezügen,
 dem Arbeitseinkommen,
 
 3.  
-den beitragspflichtigen Einnahmen nach § 236 Abs. 1,
-
-sowie den Zusatzbeitrag nach § 242 allein.
+den beitragspflichtigen Einnahmen nach § 236 Abs. 1 allein.
 
 (2) Freiwillige Mitglieder, in § 189 genannte Rentenantragsteller sowie Schwangere, deren Mitgliedschaft nach § 192 Abs. 2 erhalten bleibt, tragen den Beitrag allein.
 
@@ -6487,13 +6563,13 @@ sowie den Zusatzbeitrag nach § 242 allein.
 für die nach § 5 Abs. 1 Nr. 5 versicherungspflichtigen Jugendlichen,
 
 2.  
-für die nach § 5 Abs. 1 Nr. 7 oder 8 versicherungspflichtigen behinderten Menschen, wenn das tatsächliche Arbeitsentgelt den nach § 235 Abs. 3 maßgeblichen Mindestbetrag nicht übersteigt; im übrigen gilt § 249 Abs. 1 und Abs. 3 entsprechend.
+für die nach § 5 Abs. 1 Nr. 7 oder 8 versicherungspflichtigen behinderten Menschen, wenn das tatsächliche Arbeitsentgelt den nach § 235 Abs. 3 maßgeblichen Mindestbetrag nicht übersteigt; im übrigen gilt § 249 Abs. 1 entsprechend.
 
 Für die nach § 5 Abs. 1 Nr. 7 versicherungspflichtigen behinderten Menschen sind die Beiträge, die der Träger der Einrichtung zu tragen hat, von den für die behinderten Menschen zuständigen Leistungsträgern zu erstatten.
 
 (3) Die Künstlersozialkasse trägt die Beiträge für die nach dem Künstlersozialversicherungsgesetz versicherungspflichtigen Mitglieder. Hat die Künstlersozialkasse nach § 16 Abs. 2 Satz 2 des Künstlersozialversicherungsgesetzes das Ruhen der Leistungen festgestellt, entfällt für die Zeit des Ruhens die Pflicht zur Entrichtung des Beitrages, es sei denn, das Ruhen endet nach § 16 Abs. 2 Satz 5 des Künstlersozialversicherungsgesetzes. Bei einer Vereinbarung nach § 16 Abs. 2 Satz 6 des Künstlersozialversicherungsgesetzes ist die Künstlersozialkasse zur Entrichtung der Beiträge für die Zeit des Ruhens insoweit verpflichtet, als der Versicherte seine Beitragsanteile zahlt.
 
-(4) Der Bund trägt die Beiträge für Wehrdienst- und Zivildienstleistende im Falle des § 193 Abs. 2 und 3 sowie für die nach § 5 Abs. 1 Nr. 2a versicherungspflichtigen Bezieher von Arbeitslosengeld II.
+(4) Der Bund trägt die Beiträge für Wehrdienst- und Zivildienstleistende im Falle des § 193 Abs. 2 und 3 sowie für die nach § 5 Abs. 1 Nr. 2a versicherungspflichtigen Bezieher von Arbeitslosengeld II. Die Höhe der vom Bund zu tragenden Zusatzbeiträge für die nach § 5 Absatz 1 Nummer 2a versicherungspflichtigen Bezieher von Arbeitslosengeld II wird für ein Kalenderjahr jeweils im Folgejahr abschließend festgestellt. Hierzu ermittelt das Bundesministerium für Gesundheit den rechnerischen Zusatzbeitragssatz, der sich als Durchschnitt der im Kalenderjahr geltenden Zusatzbeitragssätze der Krankenkassen nach § 242 Absatz 1 unter Berücksichtigung der Zahl ihrer Mitglieder ergibt. Weicht der durchschnittliche Zusatzbeitragssatz nach § 242a von dem für das Kalenderjahr nach Satz 2 ermittelten rechnerischen Zusatzbeitragssatz ab, so erfolgt zwischen dem Gesundheitsfonds und dem Bundeshaushalt ein finanzieller Ausgleich des sich aus der Abweichung ergebenden Differenzbetrags. Den Ausgleich führt das Bundesversicherungsamt für den Gesundheitsfonds nach § 271 und das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der Finanzen für den Bund durch. Ein Ausgleich findet nicht statt, wenn sich ein Betrag von weniger als einer Million Euro ergibt.
 
 (4a) Die Bundesagentur für Arbeit trägt die Beiträge für die Bezieher von Arbeitslosengeld und Unterhaltsgeld nach dem Dritten Buch.
 
@@ -6503,7 +6579,7 @@ Für die nach § 5 Abs. 1 Nr. 7 versicherungspflichtigen behinderten Menschen si
 
 (5) Die Krankenkassen sind zur Prüfung der Beitragszahlung berechtigt. In den Fällen der Absätze 3, 4 und 4a ist das Bundesversicherungsamt zur Prüfung der Beitragszahlung berechtigt. Ihm sind die für die Durchführung der Prüfung erforderlichen Unterlagen vorzulegen und die erforderlichen Auskünfte zu erteilen. Das Bundesversicherungsamt kann die Prüfung durch eine Krankenkasse oder einen Landesverband wahrnehmen lassen; der Beauftragte muss zustimmen. Dem Beauftragten sind die erforderlichen Unterlagen vorzulegen und die erforderlichen Auskünfte zu erteilen. Der Beauftragte darf die erhobenen Daten nur zum Zweck der Durchführung der Prüfung verarbeiten und nutzen. Die Daten sind nach Abschluss der Prüfung zu löschen. Im Übrigen gelten für die Datenerhebung, Verarbeitung und Nutzung die Vorschriften des Ersten und Zehnten Buches.
 
-(6) Den Zusatzbeitrag nach § 242 hat das Mitglied zu tragen. Abweichend von Satz 1 wird für Mitglieder, für die ein Zusatzbeitrag nach § 242 Absatz 4 Satz 1 erhoben wird, der Zusatzbeitrag aus den Mitteln der Liquiditätsreserve des Gesundheitsfonds nach § 271 Absatz 2 aufgebracht. Eine nach § 242 Absatz 4 Satz 2 erhobene Differenz zwischen dem kassenindividuellen Zusatzbeitrag und dem Zusatzbeitrag nach § 242a ist von den in Satz 2 genannten Mitgliedern selbst zu tragen. Satz 2 gilt entsprechend für Mitglieder, deren Zusatzbeiträge nach § 26 Absatz 3 des Zweiten Buches von der Bundesagentur für Arbeit in der erforderlichen Höhe gezahlt werden.
+(6) (weggefallen)
 
 Fünfter Titel Zahlung der Beiträge
 ----------------------------------
@@ -6512,15 +6588,15 @@ Fünfter Titel Zahlung der Beiträge
 
 ### § 252 Beitragszahlung
 
-(1) Soweit gesetzlich nichts Abweichendes bestimmt ist, sind die Beiträge von demjenigen zu zahlen, der sie zu tragen hat. Abweichend von Satz 1 zahlen die Bundesagentur für Arbeit oder in den Fällen des § 6a des Zweiten Buches die zugelassenen kommunalen Träger die Beiträge mit Ausnahme des Zusatzbeitrags nach §§ 242, 242a für die Bezieher von Arbeitslosengeld II nach dem Zweiten Buch.
+(1) Soweit gesetzlich nichts Abweichendes bestimmt ist, sind die Beiträge von demjenigen zu zahlen, der sie zu tragen hat. Abweichend von Satz 1 zahlen die Bundesagentur für Arbeit oder in den Fällen des § 6a des Zweiten Buches die zugelassenen kommunalen Träger die Beiträge für die Bezieher von Arbeitslosengeld II nach dem Zweiten Buch.
 
 (2) Die Beitragszahlung erfolgt in den Fällen des § 251 Abs. 3, 4 und 4a an den Gesundheitsfonds. Ansonsten erfolgt die Beitragszahlung an die nach § 28i des Vierten Buches zuständige Einzugsstelle. Die Einzugsstellen leiten die nach Satz 2 gezahlten Beiträge einschließlich der Zinsen auf Beiträge und Säumniszuschläge arbeitstäglich an den Gesundheitsfonds weiter. Das Weitere zum Verfahren der Beitragszahlungen nach Satz 1 und Beitragsweiterleitungen nach Satz 3 wird durch Rechtsverordnung nach den §§ 28c und 28n des Vierten Buches geregelt.
 
-(2a) Im Falle des § 251 Absatz 6 Satz 2 erfolgt die Zahlung der Zusatzbeiträge nach § 242 Absatz 4 Satz 1 monatlich entsprechend der Anzahl dieser Mitglieder an die zuständigen Krankenkassen. Das Nähere über das Verfahren bestimmt das Bundesversicherungsamt im Benehmen mit dem Spitzenverband Bund der Krankenkassen.
+(2a) Die Pflegekassen zahlen für Bezieher von Pflegeunterstützungsgeld die Beiträge nach § 249c Satz 1 Nummer 1 und 3. Die privaten Versicherungsunternehmen, die Festsetzungsstellen für die Beihilfe oder die Dienstherren zahlen die Beiträge nach § 249c Satz 1 Nummer 2 und 3; der Verband der privaten Krankenversicherung e. V., die Festsetzungsstellen für die Beihilfe und die Dienstherren vereinbaren mit dem Spitzenverband Bund der Krankenkassen und dem Bundesversicherungsamt Näheres über die Zahlung und Abrechnung der Beiträge.
 
-(2b) Im Falle des § 251 Absatz 6 Satz 4 erfolgt die Zahlung für die Aufwendungen, die der Bundesagentur für Arbeit nach § 26 Absatz 3 des Zweiten Buches entstanden sind, jeweils spätestens am drittletzten Bankarbeitstag eines Kalenderjahres an die Bundesagentur für Arbeit. Das Nähere über das Verfahren bestimmt das Bundesversicherungsamt im Benehmen mit der Bundesagentur für Arbeit.
+(2b) (weggefallen)
 
-(3) Schuldet ein Mitglied Auslagen, Gebühren, Beiträge, den Zusatzbeitrag nach § 242, den Verspätungszuschlag nach § 242 Absatz 6, Prämien nach § 53, Säumniszuschläge, Zinsen, Bußgelder oder Zwangsgelder, kann es bei Zahlung bestimmen, welche Schuld getilgt werden soll. Trifft das Mitglied keine Bestimmung, werden die Schulden in der genannten Reihenfolge getilgt. Innerhalb der gleichen Schuldenart werden die einzelnen Schulden nach ihrer Fälligkeit, bei gleichzeitiger Fälligkeit anteilmäßig getilgt.
+(3) Schuldet ein Mitglied Auslagen, Gebühren, Beiträge, den Zusatzbeitrag nach § 242 in der bis zum 31. Dezember 2014 geltenden Fassung, Prämien nach § 53, Säumniszuschläge, Zinsen, Bußgelder oder Zwangsgelder, kann es bei Zahlung bestimmen, welche Schuld getilgt werden soll. Trifft das Mitglied keine Bestimmung, werden die Schulden in der genannten Reihenfolge getilgt. Innerhalb der gleichen Schuldenart werden die einzelnen Schulden nach ihrer Fälligkeit, bei gleichzeitiger Fälligkeit anteilmäßig getilgt.
 
 (4) Für die Haftung der Einzugsstellen wegen schuldhafter Pflichtverletzung beim Einzug von Beiträgen nach Absatz 2 Satz 2 gilt § 28r Abs. 1 und 2 des Vierten Buches entsprechend.
 
@@ -6538,7 +6614,7 @@ Versicherungspflichtige Studenten haben vor der Einschreibung oder Rückmeldung 
 
 ### § 255 Beitragszahlung aus der Rente
 
-(1) Beiträge, die Versicherungspflichtige aus ihrer Rente nach § 228 Absatz 1 Satz 1 zu tragen haben, sind mit Ausnahme des Zusatzbeitrags nach § 242 von den Trägern der Rentenversicherung bei der Zahlung der Rente einzubehalten und zusammen mit den von den Trägern der Rentenversicherung zu tragenden Beiträgen an die Deutsche Rentenversicherung Bund für die Krankenkassen mit Ausnahme der landwirtschaftlichen Krankenkasse zu zahlen. Bei einer Änderung in der Höhe der Beiträge ist die Erteilung eines besonderen Bescheides durch den Träger der Rentenversicherung nicht erforderlich.
+(1) Beiträge, die Versicherungspflichtige aus ihrer Rente nach § 228 Absatz 1 Satz 1 zu tragen haben, sind von den Trägern der Rentenversicherung bei der Zahlung der Rente einzubehalten und zusammen mit den von den Trägern der Rentenversicherung zu tragenden Beiträgen an die Deutsche Rentenversicherung Bund für die Krankenkassen mit Ausnahme der landwirtschaftlichen Krankenkasse zu zahlen. Bei einer Änderung in der Höhe der Beiträge ist die Erteilung eines besonderen Bescheides durch den Träger der Rentenversicherung nicht erforderlich.
 
 (2) Ist bei der Zahlung der Rente die Einbehaltung von Beiträgen nach Absatz 1 unterblieben, sind die rückständigen Beiträge durch den Träger der Rentenversicherung aus der weiterhin zu zahlenden Rente einzubehalten; § 51 Abs. 2 des Ersten Buches gilt entsprechend. Wird die Rente nicht mehr gezahlt, obliegt der Einzug von rückständigen Beiträgen der zuständigen Krankenkasse. Der Träger der Rentenversicherung haftet mit dem von ihm zu tragenden Anteil an den Aufwendungen für die Krankenversicherung.
 
@@ -6548,7 +6624,7 @@ Versicherungspflichtige Studenten haben vor der Einschreibung oder Rückmeldung 
 
 ### § 256 Beitragszahlung aus Versorgungsbezügen
 
-(1) Für Versicherungspflichtige, die eine Rente der gesetzlichen Rentenversicherung beziehen, haben die Zahlstellen der Versorgungsbezüge die Beiträge aus Versorgungsbezügen einzubehalten und an die zuständige Krankenkasse zu zahlen. Die zu zahlenden Beiträge werden fällig mit der Auszahlung der Versorgungsbezüge, von denen sie einzubehalten sind. Die Zahlstellen haben der Krankenkasse die einbehaltenen Beiträge nachzuweisen; § 28f Absatz 3 Satz 5 des Vierten Buches gilt entsprechend. Die Beitragsnachweise sind von den Zahlstellen durch Datenübertragung zu übermitteln; § 202 Absatz 2 Satz 1 und 2 gilt entsprechend. Bezieht das Mitglied Versorgungsbezüge von mehreren Zahlstellen und übersteigen die Versorgungsbezüge zusammen mit dem Zahlbetrag der Rente der gesetzlichen Rentenversicherung die Beitragsbemessungsgrenze, verteilt die Krankenkasse auf Antrag des Mitglieds oder einer der Zahlstellen die Beiträge.
+(1) Für Versicherungspflichtige, die eine Rente der gesetzlichen Rentenversicherung beziehen, haben die Zahlstellen der Versorgungsbezüge die Beiträge aus Versorgungsbezügen einzubehalten und an die zuständige Krankenkasse zu zahlen. Die zu zahlenden Beiträge werden am 15. des Folgemonats der Auszahlung der Versorgungsbezüge fällig. Die Zahlstellen haben der Krankenkasse die einbehaltenen Beiträge nachzuweisen; § 28f Absatz 3 Satz 1 und 2 des Vierten Buches gilt entsprechend. Die Beitragsnachweise sind von den Zahlstellen durch Datenübertragung zu übermitteln; § 202 Absatz 2 Satz 1 und 2 gilt entsprechend. Bezieht das Mitglied Versorgungsbezüge von mehreren Zahlstellen und übersteigen die Versorgungsbezüge zusammen mit dem Zahlbetrag der Rente der gesetzlichen Rentenversicherung die Beitragsbemessungsgrenze, verteilt die Krankenkasse auf Antrag des Mitglieds oder einer der Zahlstellen die Beiträge.
 
 (2) § 255 Abs. 2 Satz 1 und 2 gilt entsprechend. Die Krankenkasse zieht die Beiträge aus nachgezahlten Versorgungsbezügen ein. Dies gilt nicht für Beiträge aus Nachzahlungen aufgrund von Anpassungen der Versorgungsbezüge an die wirtschaftliche Entwicklung. Die Erstattung von Beiträgen obliegt der zuständigen Krankenkasse. Die Krankenkassen können mit den Zahlstellen der Versorgungsbezüge Abweichendes vereinbaren.
 
@@ -6575,7 +6651,7 @@ Zweiter Abschnitt Beitragszuschüsse
 
 (1) Freiwillig in der gesetzlichen Krankenversicherung versicherte Beschäftigte, die nur wegen Überschreitens der Jahresarbeitsentgeltgrenze versicherungsfrei sind, erhalten von ihrem Arbeitgeber als Beitragszuschuß den Betrag, den der Arbeitgeber entsprechend § 249 Absatz 1 oder 2 bei Versicherungspflicht des Beschäftigten zu tragen hätte. Bestehen innerhalb desselben Zeitraums mehrere Beschäftigungsverhältnisse, sind die beteiligten Arbeitgeber anteilig nach dem Verhältnis der Höhe der jeweiligen Arbeitsentgelte zur Zahlung des Beitragszuschusses verpflichtet.
 
-(2) Beschäftigte, die nur wegen Überschreitens der Jahresarbeitsentgeltgrenze oder auf Grund von § 6 Abs. 3a versicherungsfrei oder die von der Versicherungspflicht befreit und bei einem privaten Krankenversicherungsunternehmen versichert sind und für sich und ihre Angehörigen, die bei Versicherungspflicht des Beschäftigten nach § 10 versichert wären, Vertragsleistungen beanspruchen können, die der Art nach den Leistungen dieses Buches entsprechen, erhalten von ihrem Arbeitgeber einen Beitragszuschuß. Der Zuschuss wird in Höhe des Betrages gezahlt, der sich bei Anwendung der Hälfte des um 0,9 Beitragssatzpunkte verminderten Beitragssatzes nach § 241 und der nach § 226 Absatz 1 Satz 1 Nummer 1 bei Versicherungspflicht zugrunde zu legenden beitragspflichtigen Einnahmen als Beitrag ergibt, höchstens jedoch in Höhe der Hälfte des Betrages, den der Beschäftigte für seine Krankenversicherung zu zahlen hat. Für Beschäftigte, die bei Versicherungspflicht keinen Anspruch auf Krankengeld hätten, tritt an die Stelle des Beitragssatzes nach § 241 der Beitragssatz nach § 243. Soweit Kurzarbeitergeld bezogen wird, ist der Beitragszuschuss in Höhe des Betrages zu zahlen, den der Arbeitgeber bei Versicherungspflicht des Beschäftigten entsprechend § 249 Absatz 2 zu tragen hätte, höchstens jedoch in Höhe des Betrages, den der Beschäftigte für seine Krankenversicherung zu zahlen hat. Absatz 1 Satz 2 gilt.
+(2) Beschäftigte, die nur wegen Überschreitens der Jahresarbeitsentgeltgrenze oder auf Grund von § 6 Abs. 3a versicherungsfrei oder die von der Versicherungspflicht befreit und bei einem privaten Krankenversicherungsunternehmen versichert sind und für sich und ihre Angehörigen, die bei Versicherungspflicht des Beschäftigten nach § 10 versichert wären, Vertragsleistungen beanspruchen können, die der Art nach den Leistungen dieses Buches entsprechen, erhalten von ihrem Arbeitgeber einen Beitragszuschuß. Der Zuschuss wird in Höhe des Betrages gezahlt, der sich bei Anwendung der Hälfte des Beitragssatzes nach § 241 und der nach § 226 Absatz 1 Satz 1 Nummer 1 bei Versicherungspflicht zugrunde zu legenden beitragspflichtigen Einnahmen als Beitrag ergibt, höchstens jedoch in Höhe der Hälfte des Betrages, den der Beschäftigte für seine Krankenversicherung zu zahlen hat. Für Beschäftigte, die bei Versicherungspflicht keinen Anspruch auf Krankengeld hätten, tritt an die Stelle des Beitragssatzes nach § 241 der Beitragssatz nach § 243. Soweit Kurzarbeitergeld bezogen wird, ist der Beitragszuschuss in Höhe des Betrages zu zahlen, den der Arbeitgeber bei Versicherungspflicht des Beschäftigten entsprechend § 249 Absatz 2 zu tragen hätte, höchstens jedoch in Höhe des Betrages, den der Beschäftigte für seine Krankenversicherung zu zahlen hat. Absatz 1 Satz 2 gilt.
 
 (2a) Der Zuschuss nach Absatz 2 wird ab 1. Januar 2009 für eine private Krankenversicherung nur gezahlt, wenn das Versicherungsunternehmen
 
@@ -6603,7 +6679,7 @@ Der Versicherungsnehmer hat dem Arbeitgeber jeweils nach Ablauf von drei Jahren 
 
 (3) Für Bezieher von Vorruhestandsgeld nach § 5 Abs. 3, die als Beschäftigte bis unmittelbar vor Beginn der Vorruhestandsleistungen Anspruch auf den vollen oder anteiligen Beitragszuschuß nach Absatz 1 hatten, bleibt der Anspruch für die Dauer der Vorruhestandsleistungen gegen den zur Zahlung des Vorruhestandsgeldes Verpflichteten erhalten. Der Zuschuss wird in Höhe des Betrages gezahlt, den der Arbeitgeber bei Versicherungspflicht des Beziehers von Vorruhestandsgeld zu tragen hätte. Absatz 1 Satz 2 gilt entsprechend.
 
-(4) Für Bezieher von Vorruhestandsgeld nach § 5 Abs. 3, die als Beschäftigte bis unmittelbar vor Beginn der Vorruhestandsleistungen Anspruch auf den vollen oder anteiligen Beitragszuschuß nach Absatz 2 hatten, bleibt der Anspruch für die Dauer der Vorruhestandsleistungen gegen den zur Zahlung des Vorruhestandsgeldes Verpflichteten erhalten. Der Zuschuss wird in Höhe des Betrages gezahlt, der sich bei Anwendung der Hälfte des um 0,9 Beitragssatzpunkte verminderten Beitragssatzes nach § 243 und des Vorruhestandsgeldes bis zur Beitragsbemessungsgrenze (§ 223 Absatz 3) als Beitrag ergibt, höchstens jedoch in Höhe der Hälfte des Betrages, den der Bezieher von Vorruhestandsgeld für seine Krankenversicherung zu zahlen hat; Absatz 1 Satz 2 gilt entsprechend.
+(4) Für Bezieher von Vorruhestandsgeld nach § 5 Abs. 3, die als Beschäftigte bis unmittelbar vor Beginn der Vorruhestandsleistungen Anspruch auf den vollen oder anteiligen Beitragszuschuß nach Absatz 2 hatten, bleibt der Anspruch für die Dauer der Vorruhestandsleistungen gegen den zur Zahlung des Vorruhestandsgeldes Verpflichteten erhalten. Der Zuschuss wird in Höhe des Betrages gezahlt, der sich bei Anwendung der Hälfte des Beitragssatzes nach § 243 und des Vorruhestandsgeldes bis zur Beitragsbemessungsgrenze (§ 223 Absatz 3) als Beitrag ergibt, höchstens jedoch in Höhe der Hälfte des Betrages, den der Bezieher von Vorruhestandsgeld für seine Krankenversicherung zu zahlen hat; Absatz 1 Satz 2 gilt entsprechend.
 
 ### § 258 Beitragszuschüsse für andere Personen
 
@@ -6638,7 +6714,7 @@ zur Auffüllung der Rücklage und zur Bildung von Verwaltungsvermögen.
 
 (2) Die Satzung bestimmt die Höhe der Rücklage in einem Vomhundertsatz des nach dem Haushaltsplan durchschnittlich auf den Monat entfallenden Betrages der Ausgaben für die in § 260 Abs. 1 Nr. 1 genannten Zwecke (Rücklagesoll). Die Rücklage muß mindestens ein Viertel und darf höchstens das Einfache des Betrages der auf den Monat entfallenden Ausgaben nach Satz 1 betragen.
 
-(3) Die Krankenkasse kann Mittel aus der Rücklage den Betriebsmitteln zuführen, wenn Einnahme- und Ausgabeschwankungen innerhalb eines Haushaltsjahres nicht durch die Betriebsmittel ausgeglichen werden können. In diesem Fall soll die Rücklage in Anspruch genommen werden, wenn dadurch Erhöhungen des Zusatzbeitrags nach § 242 während des Haushaltsjahres vermieden werden.
+(3) Die Krankenkasse kann Mittel aus der Rücklage den Betriebsmitteln zuführen, wenn Einnahme- und Ausgabeschwankungen innerhalb eines Haushaltsjahres nicht durch die Betriebsmittel ausgeglichen werden können. In diesem Fall soll die Rücklage in Anspruch genommen werden, wenn dadurch Erhöhungen des Zusatzbeitragssatzes nach § 242 während des Haushaltsjahres vermieden werden.
 
 (4) Ergibt sich bei der Aufstellung des Haushaltsplans, daß die Rücklage geringer ist als das Rücklagesoll, ist bis zur Erreichung des Rücklagesolls die Auffüllung der Rücklage im Regelfall mit einem Betrag in Höhe von mindestens einem Viertel des Rücklagesolls im Haushaltsplan vorzusehen.
 
@@ -6688,13 +6764,13 @@ soweit sie für die Erfüllung der Aufgaben der Krankenkasse erforderlich sind. 
 
 (7) Die Aufwendungen, die den Krankenkassen durch die Übernahme der Krankenbehandlung nach den Absätzen 2 bis 6 entstehen, werden ihnen von den für die Hilfe zuständigen Trägern der Sozialhilfe oder der öffentlichen Jugendhilfe vierteljährlich erstattet. Als angemessene Verwaltungskosten einschließlich Personalaufwand für den Personenkreis nach Absatz 2 werden bis zu 5 vom Hundert der abgerechneten Leistungsaufwendungen festgelegt. Wenn Anhaltspunkte für eine unwirtschaftliche Leistungserbringung oder -gewährung vorliegen, kann der zuständige Träger der Sozialhilfe oder der öffentlichen Jugendhilfe von der jeweiligen Krankenkasse verlangen, die Angemessenheit der Aufwendungen zu prüfen und nachzuweisen.
 
-Erster Titel
-------------
+Vierter Abschnitt Finanzausgleiche und Zuweisungen aus dem Gesundheitsfonds
+---------------------------------------------------------------------------
 
 ### 
 
-Vierter Abschnitt Finanzausgleiche und Zuweisungen aus dem Gesundheitsfonds
----------------------------------------------------------------------------
+Erster Titel
+------------
 
 ### 
 
@@ -6731,7 +6807,7 @@ In den Verträgen ist Näheres über Umfang, Finanzierung und Durchführung der 
 
 ### § 266 Zuweisungen aus dem Gesundheitsfonds (Risikostrukturausgleich)
 
-(1) Die Krankenkassen erhalten als Zuweisungen aus dem Gesundheitsfonds (§ 271) zur Deckung ihrer Ausgaben eine Grundpauschale, alters-, geschlechts- und risikoadjustierte Zu- und Abschläge zum Ausgleich der unterschiedlichen Risikostrukturen und Zuweisungen für sonstige Ausgaben (§ 270); die Zuweisungen werden jeweils entsprechend § 272 angepasst. Mit den alters-, geschlechts- und risikoadjustierten Zuweisungen wird jährlich ein Risikostrukturausgleich durchgeführt, mit dem die finanziellen Auswirkungen von Unterschieden in der Verteilung der Versicherten auf nach Alter und Geschlecht getrennte Versichertengruppen (§ 267 Abs. 2) und Morbiditätsgruppen (§ 268) zwischen den Krankenkassen ausgeglichen werden.
+(1) Die Krankenkassen erhalten als Zuweisungen aus dem Gesundheitsfonds (§ 271) zur Deckung ihrer Ausgaben eine Grundpauschale, alters-, geschlechts- und risikoadjustierte Zu- und Abschläge zum Ausgleich der unterschiedlichen Risikostrukturen und Zuweisungen für sonstige Ausgaben (§ 270). Mit den alters-, geschlechts- und risikoadjustierten Zuweisungen wird jährlich ein Risikostrukturausgleich durchgeführt, mit dem die finanziellen Auswirkungen von Unterschieden in der Verteilung der Versicherten auf nach Alter und Geschlecht getrennte Versichertengruppen (§ 267 Abs. 2) und Morbiditätsgruppen (§ 268) zwischen den Krankenkassen ausgeglichen werden.
 
 (2) Die Grundpauschale und die alters-, geschlechts- und risikoadjustierten Zu- und Abschläge dienen zur Deckung der standardisierten Leistungsausgaben der Krankenkassen. Die standardisierten Leistungsausgaben je Versicherten werden auf der Basis der durchschnittlichen Leistungsausgaben je Versicherten aller Krankenkassen jährlich so bestimmt, daß das Verhältnis der standardisierten Leistungsausgaben je Versicherten der Versichertengruppen zueinander dem Verhältnis der nach § 267 Abs. 3 für alle Krankenkassen ermittelten durchschnittlichen Leistungsausgaben je Versicherten der Versichertengruppen nach § 267 Abs. 2 zueinander entspricht.
 
@@ -6918,11 +6994,19 @@ der Leistungserbringer nach § 302 einschließlich der Diagnose, des Befunds und
 7.  
 die nach den Nummern 1 bis 6 nicht erfassten Leistungsausgaben ohne die Leistungsausgaben nach § 266 Abs. 4 Satz 1.
 
-Sofern die Erhebung nach Satz 1 Nummer 1 bis 7 Diagnosedaten und Arzneimittelkennzeichen beinhaltet, dürfen ausschließlich Diagnosedaten und Arzneimittelkennzeichen verarbeitet oder genutzt werden, die von den Krankenkassen nach den §§ 294 bis 303 erhoben wurden. Die für die Stichprobe erforderlichen versichertenbezogenen Daten sind zu pseudonymisieren. Der Schlüssel für die Herstellung des Pseudonyms ist vom Beauftragten für den Datenschutz der Krankenkasse aufzubewahren und darf anderen Personen nicht zugänglich gemacht werden. Die Kassenärztlichen und Kassenzahnärztlichen Vereinigungen übermitteln den Krankenkassen die erforderlichen Daten zu Satz 1 Nr. 5 bis spätestens 1. Juli des Folgejahres. Die Daten sind vor der Übermittlung mit einem Pseudonym je Versicherten zu versehen, das den Kassenärztlichen und Kassenzahnärztlichen Vereinigungen hierfür von den Krankenkassen übermittelt wird. Die Krankenkassen übermitteln die Daten nach Satz 1 in pseudonymisierter und maschinenlesbarer Form über ihren Spitzenverband an das Bundesversicherungsamt. Die Herstellung des Versichertenbezugs ist zulässig, soweit dies für die Berücksichtigung nachträglicher Veränderungen der nach Satz 7 übermittelten Daten erforderlich ist. Über die Pseudonymisierung in der Krankenkasse und über jede Herstellung des Versichertenbezugs ist eine Niederschrift anzufertigen. Die Spitzenverbände der Krankenkassen bestimmen bis zum 31. März 2002 im Einvernehmen mit dem Bundesversicherungsamt in ihrer Vereinbarung nach § 267 Abs. 7 Nr. 1 und 2 sowie in Vereinbarungen mit der Kassenärztlichen Bundesvereinigung und den für die Wahrnehmung der wirtschaftlichen Interessen der übrigen Leistungserbringer gebildeten maßgeblichen Spitzenorganisationen das Nähere über den Umfang der Stichproben und das Verfahren der Datenerhebung und -übermittlung. In der Vereinbarung nach Satz 10 kann die Stichprobenerhebung ergänzend auch auf das erste Halbjahr 2003 erstreckt werden. § 267 Abs. 9 und 10 gilt. Kommen die Vereinbarungen nach Satz 10 nicht zustande, bestimmt das Bundesministerium für Gesundheit bis zum 30. Juni 2002 in der Rechtsverordnung nach § 266 Abs. 7 das Nähere über das Verfahren. Die Rechtsverordnung bestimmt außerdem, welche der in Satz 1 genannten Daten vom 1. Januar 2005 an für die Durchführung des Risikostrukturausgleichs sowie für seine weitere Entwicklung zu erheben sind, sowie Verfahren und Umfang dieser Datenerhebung, Satz 2 gilt entsprechend; im Übrigen gilt § 267.
+Sofern die Erhebung nach Satz 1 Nummer 1 bis 7 Diagnosedaten und Arzneimittelkennzeichen beinhaltet, dürfen ausschließlich Diagnosedaten und Arzneimittelkennzeichen verarbeitet oder genutzt werden, die von den Krankenkassen nach den §§ 294 bis 303 erhoben wurden. Die für die Stichprobe erforderlichen versichertenbezogenen Daten sind zu pseudonymisieren. Der Schlüssel für die Herstellung des Pseudonyms ist vom Beauftragten für den Datenschutz der Krankenkasse aufzubewahren und darf anderen Personen nicht zugänglich gemacht werden. Die Kassenärztlichen und Kassenzahnärztlichen Vereinigungen übermitteln den Krankenkassen die erforderlichen Daten zu Satz 1 Nr. 5 bis spätestens 1. Juli des Folgejahres. Die Daten sind vor der Übermittlung mit einem Pseudonym je Versicherten zu versehen, das den Kassenärztlichen und Kassenzahnärztlichen Vereinigungen hierfür von den Krankenkassen übermittelt wird. Die Krankenkassen übermitteln die Daten nach Satz 1 in pseudonymisierter und maschinenlesbarer Form über ihren Spitzenverband an das Bundesversicherungsamt. Die Herstellung des Versichertenbezugs ist zulässig, soweit dies für die Berücksichtigung nachträglicher Veränderungen der nach Satz 7 übermittelten Daten erforderlich ist. Über die Pseudonymisierung in der Krankenkasse und über jede Herstellung des Versichertenbezugs ist eine Niederschrift anzufertigen. Die Spitzenverbände der Krankenkassen bestimmen bis zum 31. März 2002 im Einvernehmen mit dem Bundesversicherungsamt in ihrer Vereinbarung nach § 267 Abs. 7 Nr. 1 und 2 sowie in Vereinbarungen mit der Kassenärztlichen Bundesvereinigung und den für die Wahrnehmung der wirtschaftlichen Interessen der übrigen Leistungserbringer gebildeten maßgeblichen Spitzenorganisationen das Nähere über den Umfang der Stichproben und das Verfahren der Datenerhebung und -übermittlung. In der Vereinbarung nach Satz 10 kann die Stichprobenerhebung ergänzend auch auf das erste Halbjahr 2003 erstreckt werden. § 267 Abs. 9 und 10 gilt. Kommen die Vereinbarungen nach Satz 10 nicht zustande, bestimmt das Bundesministerium für Gesundheit bis zum 30. Juni 2002 in der Rechtsverordnung nach § 266 Abs. 7 das Nähere über das Verfahren. Die Rechtsverordnung bestimmt außerdem, welche der in Satz 1 genannten Daten vom 1. Januar 2005 an für die Durchführung des Risikostrukturausgleichs sowie für seine weitere Entwicklung zu erheben sind, Verfahren und Umfang dieser Datenerhebung sowie die Voraussetzungen, unter denen die Herstellung des Versichertenbezugs zulässig ist, Satz 2 gilt entsprechend; im Übrigen gilt § 267.
 
 § 268: Nach Maßgabe der Entscheidungsformel mit dem GG vereinbar gem. BVerfGE v. 18.7.2005 I 2888 - 2 BvF 2/01 -
 
-### § 269 (weggefallen)
+### § 269 Sonderregelungen für Krankengeld und Auslandsversicherte
+
+(1) Für die in § 267 Absatz 2 Satz 2 genannten Versichertengruppen kann das bestehende Standardisierungsverfahren für die Berücksichtigung des Krankengeldes um ein Verfahren ergänzt werden, das die tatsächlichen Leistungsausgaben der einzelnen Krankenkassen für Krankengeld anteilig berücksichtigt.
+
+(2) Für Versicherte, die während des überwiegenden Teils des dem Ausgleichsjahr vorangegangenen Jahres ihren Wohnsitz oder gewöhnlichen Aufenthalt außerhalb des Gebiets der Bundesrepublik Deutschland hatten, ist die Höhe der Zuweisungen zur Deckung ihrer standardisierten Leistungsausgaben auf die tatsächlichen Leistungsausgaben aller Krankenkassen für diese Versichertengruppen zu begrenzen.
+
+(3) Das Bundesversicherungsamt gibt Gutachten in Auftrag, mit denen Modelle für eine zielgerichtetere Ermittlung der Zuweisungen zur Deckung der Aufwendungen für Krankengeld und für Versicherte, die während des überwiegenden Teils des dem Ausgleichsjahr vorangegangenen Jahres ihren Wohnsitz oder gewöhnlichen Aufenthalt außerhalb des Gebiets der Bundesrepublik Deutschland hatten, entwickelt werden sollen. Dabei ist auch zu untersuchen, ob zusätzliche Daten erforderlich sind, um das in Satz 1 genannte Ziel zu erreichen. § 268 Absatz 1 Satz 1 Nummer 2 bis 4 ist bei der Entwicklung der Modelle zu beachten. Zur Erfüllung des jeweiligen Gutachtenauftrags ist der beauftragten Person oder Personengruppe beim Bundesversicherungsamt Einsicht in die diesem nach § 268 Absatz 3 Satz 7 übermittelten pseudonymisierten versichertenbezogenen Daten zu geben. Zu diesem Zweck ist der beauftragten Person oder Personengruppe bei der Deutschen Verbindungsstelle Krankenversicherung – Ausland ebenso Einsicht in die dieser nach Artikel 35 der Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit (ABl. L 166 vom 30.4.2004, S. 1, L 200 vom 7.6.2004, S. 1, L 204 vom 4.8.2007, S. 30) in Verbindung mit Titel IV der Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit (ABl. L 284 vom 30.10.2009, S. 1) vorliegenden Daten zu geben; Einsicht ist nur in pseudonymisierte oder anonymisierte Daten zu geben.
+
+(4) Das Nähere zur Umsetzung der Vorgaben der Absätze 1 bis 3, insbesondere zur Abgrenzung der Leistungsausgaben, zum Verfahren einschließlich der Durchführung des Zahlungsverkehrs sowie zur Festlegung der Vorgaben für die Gutachten regelt die Rechtsverordnung nach § 266 Absatz 7 Satz 1.
 
 ### § 270 Zuweisungen aus dem Gesundheitsfonds für sonstige Ausgaben
 
@@ -6941,9 +7025,15 @@ ihrer standardisierten Verwaltungsausgaben.
 
 (2) Für die Ermittlung der Höhe der Zuweisungen nach Absatz 1 erheben die Krankenkassen nicht versichertenbezogen jährlich die Aufwendungen nach § 266 Abs. 4 Satz 1 Nr. 2 und die Verwaltungsausgaben. § 267 Abs. 4 gilt entsprechend.
 
-### § 270a
+### § 270a Einkommensausgleich
 
-(weggefallen)
+(1) Zwischen den Krankenkassen wird im Hinblick auf die von ihnen erhobenen Zusatzbeiträge nach § 242 nach Maßgabe der folgenden Absätze ein vollständiger Ausgleich der beitragspflichtigen Einnahmen ihrer Mitglieder durchgeführt.
+
+(2) Die Krankenkassen, die einen Zusatzbeitrag nach § 242 erheben, erhalten aus dem Gesundheitsfonds die Beträge aus den Zusatzbeiträgen ihrer Mitglieder in der Höhe, die sich nach dem Einkommensausgleich ergibt. Die Höhe dieser Mittel für jede Krankenkasse wird ermittelt, indem der Zusatzbeitragssatz der Krankenkasse nach § 242 Absatz 1 mit den voraussichtlichen durchschnittlichen beitragspflichtigen Einnahmen je Mitglied aller Krankenkassen und ihrer Mitgliederzahl multipliziert wird.
+
+(3) Weicht der Gesamtbetrag aus den Zusatzbeiträgen nach § 242 von den notwendigen Aufwendungen für die Mittel nach Absatz 2 ab, wird der Abweichungsbetrag entweder aus den Mitteln der Liquiditätsreserve des Gesundheitsfonds nach § 271 Absatz 2 aufgebracht oder der Liquiditätsreserve zugeführt.
+
+(4) Das Bundesversicherungsamt verwaltet für die Zwecke der Durchführung des Einkommensausgleichs die eingehenden Beträge aus den Zusatzbeiträgen; § 271 Absatz 6 Satz 1 ist entsprechend anzuwenden. Das Bundesversicherungsamt ermittelt die Höhe der Mittel nach Absatz 2 und weist sie den Krankenkassen zu. § 266 Absatz 5 Satz 3 und Absatz 6 Satz 7 ist entsprechend anzuwenden. Das Nähere zur Ermittlung der vorläufigen und endgültigen Mittel, die die Krankenkassen im Rahmen des Einkommensausgleichs erhalten, zur Durchführung, zum Zahlungsverkehr und zur Fälligkeit der Beiträge regelt die Rechtsverordnung nach § 266 Absatz 7 Satz 1.
 
 ### § 271 Gesundheitsfonds
 
@@ -6964,7 +7054,9 @@ der Beitragszahlung nach § 252 Abs. 2 und
 5.  
 den Bundesmitteln nach § 221.
 
-(2) Der Gesundheitsfonds hat eine Liquiditätsreserve aufzubauen, aus der unterjährige Schwankungen in den Einnahmen, bei der Festsetzung des einheitlichen Betrags nach § 266 Abs. 2 nicht berücksichtigte Einnahmeausfälle, die Aufwendungen für die Erhöhung der Zuweisungen nach § 272 Abs. 2 sowie die Aufwendungen für den Sozialausgleich nach § 242b und zusätzlich die Zahlungen für die Zusatzbeiträge nach § 251 Absatz 6 Satz 2 und 4 zu decken sind. Die Liquiditätsreserve ist ab dem Jahr 2009 schrittweise aufzubauen und muss spätestens nach Ablauf des Geschäftsjahres 2012 und der jeweils folgenden Geschäftsjahre mindestens 20 Prozent der durchschnittlich auf den Monat entfallenden Ausgaben des Gesundheitsfonds betragen. Die die voraussichtlichen jährlichen Ausgaben der Krankenkassen nach § 242a Absatz 1 Satz 1 übersteigenden jährlichen Einnahmen des Gesundheitsfonds sind der Liquiditätsreserve zuzuführen. Den Einnahmen des Gesundheitsfonds nach Absatz 1 werden im Jahr 2013 2 Milliarden Euro abzüglich des Anteils an diesem Betrag, der sich nach § 221a Satz 2 in der am 9. Dezember 2010 geltenden Fassung bemisst, aus der Liquiditätsreserve zugeführt. Zur Kompensation der Mehrausgaben, die den Krankenkassen durch die Abschaffung der Zuzahlung bei Inanspruchnahme ambulanter ärztlicher, zahnärztlicher und psychotherapeutischer Behandlung zum 1. Januar 2013 entstehen, sowie der Mehrausgaben, die den Krankenkassen durch die Änderung des Krankenhausentgeltgesetzes und der Bundespflegesatzverordnung zum 1. August 2013 entstehen, werden den Einnahmen des Gesundheitsfonds nach Absatz 1 im Jahr 2014 aus der Liquiditätsreserve 2,34 Milliarden Euro zugeführt.
+(1a) Die eingehenden Beträge nach Absatz 1 sind, soweit es sich dabei um Zusatzbeiträge nach § 242 handelt, in voller Höhe für den Einkommensausgleich nach § 270a zu verwenden. Sie sind dem Bundesversicherungsamt als Verwalter der eingehenden Beträge aus den Zusatzbeiträgen nachzuweisen.
+
+(2) Der Gesundheitsfonds hat liquide Mittel als Liquiditätsreserve vorzuhalten. Aus der Liquiditätsreserve sind unterjährige Schwankungen in den Einnahmen, nicht berücksichtigte Einnahmeausfälle in den nach § 242a Absatz 1 zugrunde gelegten voraussichtlichen jährlichen Einnahmen des Gesundheitsfonds und die erforderlichen Aufwendungen für die Durchführung des Einkommensausgleichs nach § 270a zu decken. Die Höhe der Liquiditätsreserve muss nach Ablauf eines Geschäftsjahres mindestens 25 Prozent der durchschnittlich auf den Monat entfallenden Ausgaben des Gesundheitsfonds betragen. Den Einnahmen des Gesundheitsfonds nach Absatz 1 werden im Jahr 2015 2,5 Milliarden Euro abzüglich des Anteils an diesem Betrag, der sich nach § 221 Absatz 2 Satz 2 bemisst, aus der Liquiditätsreserve zugeführt.
 
 (2a) Bei Schließung oder Insolvenz einer Krankenkasse kann das Bundesversicherungsamt einer leistungsaushelfenden Krankenkasse auf Antrag ein Darlehen aus der Liquiditätsreserve gewähren, wenn dies erforderlich ist, um Leistungsansprüche von Versicherten zu finanzieren, deren Mitgliedschaftsverhältnisse noch nicht geklärt sind. Das Darlehen ist innerhalb von sechs Monaten zurückzuzahlen. Das Nähere zur Darlehensgewährung, Verzinsung und Rückzahlung regelt das Bundesversicherungsamt im Benehmen mit dem Spitzenverband Bund der Krankenkassen.
 
@@ -6974,7 +7066,7 @@ den Bundesmitteln nach § 221.
 
 (5) Die Mittel des Gesundheitsfonds sind so anzulegen, dass sie für den in den §§ 266, 269 und 270 genannten Zweck verfügbar sind.
 
-(6) Die dem Bundesversicherungsamt bei der Verwaltung des Fonds entstehenden Ausgaben einschließlich der Ausgaben für die Durchführung des Risikostrukturausgleichs werden aus den Einnahmen des Gesundheitsfonds gedeckt. Das Nähere regelt die Rechtsverordnung nach § 266 Abs. 7.
+(6) Die dem Bundesversicherungsamt bei der Verwaltung des Fonds entstehenden Ausgaben einschließlich der Ausgaben für die Durchführung und Weiterentwicklung des Risikostrukturausgleichs werden aus den Einnahmen des Gesundheitsfonds gedeckt. Das Nähere regelt die Rechtsverordnung nach § 266 Abs. 7.
 
 ### § 271a Sicherstellung der Einnahmen des Gesundheitsfonds
 
@@ -6990,15 +7082,7 @@ den Bundesmitteln nach § 221.
 
 (6) § 28r des Vierten Buches und § 251 Abs. 5 Satz 2 bleiben unberührt.
 
-### § 272 Übergangsregelungen zur Einführung des Gesundheitsfonds
-
-(1) Bei der Ermittlung der Höhe der Zuweisungen aus dem Gesundheitsfonds ist sicherzustellen, dass sich die Belastungen auf Grund der Einführung des Gesundheitsfonds für die in einem Land tätigen Krankenkassen in jährlichen Schritten von jeweils höchstens 100 Millionen Euro aufbauen. Hierfür stellt das Bundesversicherungsamt für jedes Ausgleichsjahr und für jedes Land die Höhe der fortgeschriebenen Einnahmen der Krankenkassen für die in einem Land wohnhaften Versicherten den Zuweisungen aus dem Gesundheitsfonds ohne Berücksichtigung der sich aus Absatz 2 ergebenden Zuweisungserhöhungen gegenüber. Dabei sind als Einnahmen die fiktiven Beitragseinnahmen auf Grund der am 30. Juni 2008 geltenden Beitragssätze, bereinigt um Ausgleichsansprüche und -verpflichtungen auf Grund des Risikostrukturausgleichs und des Risikopools in der bis zum 31. Dezember 2008 geltenden Fassung und fortgeschrieben entsprechend der Veränderungsrate nach § 71 Abs. 3, zu berücksichtigen.
-
-(2) Ergibt die Gegenüberstellung nach Absatz 1 Satz 2, dass die Belastungswirkungen in Bezug auf die in einem Land tätigen Krankenkassen den nach Absatz 1 Satz 1 jeweils maßgeblichen Betrag übersteigen, sind die Zuweisungen an die Krankenkassen für deren Versicherte mit Wohnsitz in den jeweiligen Ländern im Jahresausgleich für das jeweilige Ausgleichsjahr so zu verändern, dass dieser Betrag genau erreicht wird. Die zur Erhöhung der Zuweisungen nach Satz 1 erforderlichen Beträge werden aus Mitteln der Liquiditätsreserve nach § 271 Abs. 2 aufgebracht.
-
-(3) Die Regelungen der Absätze 1 und 2 finden letztmalig in dem Jahr Anwendung, das dem Jahr vorausgeht, in dem erstmalig in keinem Bundesland eine Überschreitung des nach Absatz 1 Satz 1 jeweils maßgeblichen Betrages festgestellt wurde.
-
-(4) Das Nähere zur Umsetzung der Vorgaben der Absätze 1 und 2, insbesondere zur Bestimmung der Beitragssätze, der Einnahmen und ihrer Fortschreibung und der Zuweisungen, sowie die Festlegung der Abschlagszahlungen regelt die Rechtsverordnung nach § 266 Abs. 7. Dies gilt auch für die Festlegung der Vorgaben für ein von der Bundesregierung in Auftrag zu gebendes Gutachten. In diesem sind bereits vor Inkrafttreten des Gesundheitsfonds die Auswirkungen nach Absatz 1 zu quantifizieren.
+### § 272 (weggefallen)
 
 ### § 273 Sicherung der Datengrundlagen für den Risikostrukturausgleich
 
@@ -7240,7 +7324,7 @@ die Feststellung des Versicherungsverhältnisses und der Mitgliedschaft, einschl
 die Ausstellung des Berechtigungsscheines, der Krankenversichertenkarte und der elektronischen Gesundheitskarte,
 
 3.  
-die Feststellung der Beitragspflicht und der Beiträge, deren Tragung und Zahlung und die Durchführung des Sozialausgleichs,
+die Feststellung der Beitragspflicht und der Beiträge, deren Tragung und Zahlung,
 
 4.  
 die Prüfung der Leistungspflicht und der Erbringung von Leistungen an Versicherte einschließlich der Voraussetzungen von Leistungsbeschränkungen, die Bestimmung des Zuzahlungsstatus und die Durchführung der Verfahren bei Kostenerstattung, Beitragsrückzahlung und der Ermittlung der Belastungsgrenze,
@@ -7878,7 +7962,7 @@ Im Rahmen eines Prüfverfahrens ist die versichertenbezogene Übermittlung von A
 
 ### § 299 Datenerhebung, -verarbeitung und -nutzung für Zwecke der Qualitätssicherung
 
-(1) Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte, zugelassenen Krankenhäuser und übrigen Leistungserbringer gemäß § 135a Absatz 2 sind befugt und verpflichtet, personen- oder einrichtungsbezogene Daten der Versicherten und der Leistungserbringer für Zwecke der Qualitätssicherung nach § 135a Absatz 2 oder § 136 Absatz 2 zu erheben, verarbeiten oder nutzen, soweit dies erforderlich und in Richtlinien und Beschlüssen des Gemeinsamen Bundesausschusses nach § 136 Absatz 2 und § 137 Absatz 1 Satz 1 und Absatz 3 sowie in Vereinbarungen nach § 137d vorgesehen ist. In den Richtlinien, Beschlüssen und Vereinbarungen nach Satz 1 sind diejenigen Daten, die von den Leistungserbringern zu erheben, zu verarbeiten oder zu nutzen sind, sowie deren Empfänger festzulegen und die Erforderlichkeit darzulegen. Der Gemeinsame Bundesausschuss hat bei der Festlegung der Daten nach Satz 2 in Abhängigkeit von der jeweiligen Maßnahme der Qualitätssicherung insbesondere diejenigen Daten zu bestimmen, die für die Ermittlung der Qualität von Diagnostik oder Behandlung mit Hilfe geeigneter Qualitätsindikatoren, für die Erfassung möglicher Begleiterkrankungen und Komplikationen, für die Feststellung der Sterblichkeit sowie für eine geeignete Validierung oder Risikoadjustierung bei der Auswertung der Daten medizinisch oder methodisch notwendig sind. Die Richtlinien und Beschlüsse sowie Vereinbarungen nach Satz 1 haben darüber hinaus sicherzustellen, dass
+(1) Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte, zugelassenen Krankenhäuser und übrigen Leistungserbringer gemäß § 135a Absatz 2 sind befugt und verpflichtet, personen- oder einrichtungsbezogene Daten der Versicherten und der Leistungserbringer für Zwecke der Qualitätssicherung nach § 135a Absatz 2, § 136 Absatz 2 oder § 137a Absatz 3 zu erheben, verarbeiten oder nutzen, soweit dies erforderlich und in Richtlinien und Beschlüssen des Gemeinsamen Bundesausschusses nach § 136 Absatz 2 und § 137 Absatz 1 Satz 1 und Absatz 3 sowie in Vereinbarungen nach § 137d vorgesehen ist. In den Richtlinien, Beschlüssen und Vereinbarungen nach Satz 1 sind diejenigen Daten, die von den Leistungserbringern zu erheben, zu verarbeiten oder zu nutzen sind, sowie deren Empfänger festzulegen und die Erforderlichkeit darzulegen. Der Gemeinsame Bundesausschuss hat bei der Festlegung der Daten nach Satz 2 in Abhängigkeit von der jeweiligen Maßnahme der Qualitätssicherung insbesondere diejenigen Daten zu bestimmen, die für die Ermittlung der Qualität von Diagnostik oder Behandlung mit Hilfe geeigneter Qualitätsindikatoren, für die Erfassung möglicher Begleiterkrankungen und Komplikationen, für die Feststellung der Sterblichkeit sowie für eine geeignete Validierung oder Risikoadjustierung bei der Auswertung der Daten medizinisch oder methodisch notwendig sind. Die Richtlinien und Beschlüsse sowie Vereinbarungen nach Satz 1 haben darüber hinaus sicherzustellen, dass
 
 1.  
 in der Regel die Datenerhebung auf eine Stichprobe der betroffenen Patienten begrenzt wird und die versichertenbezogenen Daten pseudonymisiert werden,
@@ -7891,7 +7975,7 @@ eine qualifizierte Information der betroffenen Patienten in geeigneter Weise sta
 
 Abweichend von Satz 1 Nr. 1 können die Richtlinien, Beschlüsse und Vereinbarungen auch eine Vollerhebung der Daten aller betroffenen Patienten vorsehen, sofern dieses aus gewichtigen medizinisch fachlichen oder gewichtigen methodischen Gründen, die als Bestandteil der Richtlinien, Beschlüsse und Vereinbarungen dargelegt werden müssen, erforderlich ist. Auch Auswahl, Umfang und Verfahren der Stichprobe sind in den Richtlinien und Beschlüssen sowie den Vereinbarungen nach Satz 1 festzulegen und von den an der vertragsärztlichen Versorgung teilnehmenden Ärzten und den übrigen Leistungserbringern zu erheben und zu übermitteln. Es ist auszuschließen, dass die Krankenkassen, Kassenärztlichen Vereinigungen oder deren jeweilige Verbände Kenntnis von Daten erlangen, die über den Umfang der ihnen nach den §§ 295, 300, 301, 301a und 302 zu übermittelnden Daten hinausgeht.
 
-(1a) Die Krankenkassen sind befugt und verpflichtet, nach § 284 Absatz 1 erhobene und gespeicherte Sozialdaten für Zwecke der Qualitätssicherung nach § 135a Absatz 2 oder § 136 Absatz 2 zu verarbeiten oder zu nutzen, soweit dies erforderlich und in Richtlinien und Beschlüssen des Gemeinsamen Bundesausschusses nach § 136 Absatz 2 und § 137 Absatz 1 Satz 1 und Absatz 3 sowie in Vereinbarungen nach § 137d vorgesehen ist. In den Richtlinien, Beschlüssen und Vereinbarungen nach Satz 1 sind diejenigen Daten, die von den Krankenkassen für Zwecke der Qualitätssicherung zu verarbeiten oder zu nutzen sind, sowie deren Empfänger festzulegen und die Erforderlichkeit darzulegen. Absatz 1 Satz 3 gilt entsprechend.
+(1a) Die Krankenkassen sind befugt und verpflichtet, nach § 284 Absatz 1 erhobene und gespeicherte Sozialdaten für Zwecke der Qualitätssicherung nach § 135a Absatz 2, § 136 Absatz 2 oder § 137a Absatz 3 zu verarbeiten oder zu nutzen, soweit dies erforderlich und in Richtlinien und Beschlüssen des Gemeinsamen Bundesausschusses nach § 136 Absatz 2 und § 137 Absatz 1 Satz 1 und Absatz 3 sowie in Vereinbarungen nach § 137d vorgesehen ist. In den Richtlinien, Beschlüssen und Vereinbarungen nach Satz 1 sind diejenigen Daten, die von den Krankenkassen für Zwecke der Qualitätssicherung zu verarbeiten oder zu nutzen sind, sowie deren Empfänger festzulegen und die Erforderlichkeit darzulegen. Absatz 1 Satz 3 bis 7 gilt entsprechend.
 
 (2) Das Verfahren zur Pseudonymisierung der Daten wird durch die an der vertragsärztlichen Versorgung teilnehmenden Ärzte und übrigen Leistungserbringer gemäß § 135a Absatz 2 angewendet. Es ist in den Richtlinien und Beschlüssen sowie den Vereinbarungen nach Absatz 1 Satz 1 unter Berücksichtigung der Empfehlungen des Bundesamtes für Sicherheit in der Informationstechnik festzulegen. Abweichend von Satz 1 hat die Pseudonymisierung bei einer Vollerhebung nach Absatz 1 Satz 2 durch eine von den Krankenkassen, Kassenärztlichen Vereinigungen oder deren jeweiligen Verbänden räumlich organisatorisch und personell getrennten Vertrauensstelle zu erfolgen.
 
@@ -8071,7 +8155,13 @@ zu den Kriterien für die ausnahmsweise pseudonymisierte Bereitstellung von Date
 
 ### § 303b Datenübermittlung
 
-Das Bundesversicherungsamt übermittelt die nach § 268 Absatz 3 Satz 14 in Verbindung mit Satz 1 Nummer 1 bis 7 erhobenen Daten für die in § 303e Absatz 2 genannten Zwecke an die Datenaufbereitungsstelle nach § 303d sowie eine Liste mit den dazugehörigen Pseudonymen an die Vertrauensstelle nach § 303c. Die Daten sollen übermittelt werden, nachdem die Prüfung auf Vollständigkeit und Plausibilität durch das Bundesversicherungsamt abgeschlossen ist.
+(1) Das Bundesversicherungsamt übermittelt die nach § 268 Absatz 3 Satz 14 in Verbindung mit Satz 1 Nummer 1 bis 7 erhobenen Daten für die in § 303e Absatz 2 genannten Zwecke an die Datenaufbereitungsstelle nach § 303d sowie eine Liste mit den dazugehörigen Pseudonymen an die Vertrauensstelle nach § 303c. Die Daten sollen übermittelt werden, nachdem die Prüfung auf Vollständigkeit und Plausibilität durch das Bundesversicherungsamt abgeschlossen ist.
+
+(2) Die Krankenkassen ermitteln aus den bei ihnen nach § 284 Absatz 1 gespeicherten Daten für die in § 303e Absatz 2 genannten Zwecke die Postleitzahl des Wohnortes des Versicherten (Regionalkennzeichen). Sie übermitteln die Regionalkennzeichen zusätzlich zu den Daten nach Absatz 1 Satz 1 jährlich an das Bundesversicherungsamt nach dem in § 268 Absatz 3 in Verbindung mit der Rechtsverordnung nach § 266 Absatz 7 geregelten Verfahren. Die Krankenkassen haben die Regionalkennzeichen so zu verschlüsseln, dass nur die Datenaufbereitungsstelle nach § 303d in der Lage ist, die Regionalkennzeichen zu entschlüsseln und mit den Daten nach Absatz 1 zusammenzuführen.
+
+(3) Das Bundesversicherungsamt übermittelt die Regionalkennzeichen mit den Daten nach Absatz 1 an die Datenaufbereitungsstelle nach § 303d. Für die Jahre 2009 und 2010 übermittelt das Bundesversicherungsamt die bei ihm für Zwecke des § 272 gespeicherten Kennzeichen zum Wohnort der Versicherten an die Datenaufbereitungsstelle nach § 303d sowie eine Liste mit den dazugehörigen Pseudonymen an die Vertrauensstelle nach § 303c.
+
+(4) Das Nähere zu den Datenübermittlungen nach den Absätzen 2 und 3 vereinbaren der Spitzenverband Bund der Krankenkassen, das Bundesversicherungsamt und die nach § 303a Absatz 1 Satz 2 bestimmten Stellen.
 
 ### § 303c Vertrauensstelle
 
@@ -8184,9 +8274,9 @@ Dritter Abschnitt Datenlöschung, Auskunftspflicht
 die Daten nach § 292 spätestens nach zehn Jahren,
 
 2.  
-Daten nach § 295 Abs. 1a, 1b und 2 sowie Daten, die für die Prüfungsausschüsse und ihre Geschäftsstellen für die Prüfungen nach § 106 erforderlich sind, spätestens nach vier Jahren und Daten, die auf Grund der nach § 266 Abs. 7 Satz 1 erlassenen Rechtsverordnung für die Durchführung des Risikostrukturausgleichs (§§ 266, 267) oder des Risikopools (§ 269) erforderlich sind, spätestens nach den in der Rechtsverordnung genannten Fristen
+Daten nach § 295 Abs. 1a, 1b und 2 sowie Daten, die für die Prüfungsausschüsse und ihre Geschäftsstellen für die Prüfungen nach § 106 erforderlich sind, spätestens nach vier Jahren und Daten, die auf Grund der nach § 266 Abs. 7 Satz 1 erlassenen Rechtsverordnung für die Durchführung des Risikostrukturausgleichs (§§ 266, 267) erforderlich sind, spätestens nach den in der Rechtsverordnung genannten Fristen
 
-zu löschen sind. Die Aufbewahrungsfristen beginnen mit dem Ende des Geschäftsjahres, in dem die Leistungen gewährt oder abgerechnet wurden. Die Krankenkassen können für Zwecke der Krankenversicherung Leistungsdaten länger aufbewahren, wenn sichergestellt ist, daß ein Bezug zum Arzt und Versicherten nicht mehr herstellbar ist.
+zu löschen sind. Die Aufbewahrungsfristen beginnen mit dem Ende des Geschäftsjahres, in dem die Leistungen gewährt oder abgerechnet wurden. Abweichend von Satz 1 Nummer 2 können Krankenkassen die rechtmäßig gespeicherten ärztlichen Abrechnungsdaten für Zwecke der Weiterentwicklung und Durchführung des Risikostrukturausgleichs länger aufbewahren; sie sind nach spätestens vier Jahren zu sperren und spätestens nach den in der Rechtsverordnung genannten Fristen zu löschen. Die Krankenkassen können für Zwecke der Krankenversicherung Leistungsdaten länger aufbewahren, wenn sichergestellt ist, daß ein Bezug zum Arzt und Versicherten nicht mehr herstellbar ist.
 
 (2) Im Falle des Wechsels der Krankenkasse ist die bisher zuständige Krankenkasse verpflichtet, die für die Fortführung der Versicherung erforderlichen Angaben nach den §§ 288 und 292 auf Verlangen der neuen Krankenkasse mitzuteilen.
 
@@ -8429,3 +8519,7 @@ Die Regelung des § 37 Abs. 3 der Risikostruktur-Ausgleichsverordnung ist nicht 
 ### § 321 Übergangsregelung für die Anforderungen an die strukturierten Behandlungsprogramme nach § 137g Absatz 1
 
 Die in § 28b Absatz 1, den §§ 28c, 28e sowie in den Anlagen der Risikostruktur-Ausgleichsverordnung in der bis zum 31. Dezember 2011 geltenden Fassung geregelten Anforderungen an die Zulassung von strukturierten Behandlungsprogrammen nach § 137g Absatz 1 für Diabetes mellitus Typ 2, Brustkrebs, koronare Herzkrankheit, Diabetes mellitus Typ 1 und chronisch obstruktive Atemwegserkrankungen gelten jeweils weiter bis zum Inkrafttreten der für die jeweilige Krankheit vom Gemeinsamen Bundesausschuss nach § 137f Absatz 2 zu erlassenden Richtlinien. Dies gilt auch für die in den §§ 28d und 28f der Risikostruktur-Ausgleichsverordnung in der bis zum 31. Dezember 2011 geltenden Fassung geregelten Anforderungen, soweit sie auf die in Satz 1 genannten Anforderungen verweisen. Die in § 28f Absatz 1 Nummer 3 und Absatz 1a und § 28g der Risikostruktur-Ausgleichsverordnung in der bis zum 31. Dezember 2011 geltenden Fassung geregelten Anforderungen an die Aufbewahrungsfristen gelten weiter bis zum Inkrafttreten der in den Richtlinien des Gemeinsamen Bundesausschusses nach § 137f Absatz 2 Satz 1 Nummer 5 zu regelnden Anforderungen an die Aufbewahrungsfristen. Die in § 28g der Risikostruktur-Ausgleichsverordnung in der bis zum 31. Dezember 2011 geltenden Fassung geregelten Anforderungen an die Evaluation gelten weiter bis zum Inkrafttreten der in den Richtlinien des Gemeinsamen Bundesausschusses nach § 137f Absatz 2 Satz 1 Nummer 6 zu regelnden Anforderungen an die Evaluation.
+
+### § 322 Übergangsregelung zur Beitragsbemessung aus Renten und aus Versorgungsbezügen
+
+Für Versicherungspflichtige findet für die Bemessung der Beiträge aus Renten der gesetzlichen Rentenversicherung sowie aus Versorgungsbezügen nach § 229 Absatz 1 Satz 1 Nummer 1, 2, 3 und 5 für die Zeit vom 1. Januar 2015 bis 28. Februar 2015 übergangsweise ein Gesamtbeitragssatz in Höhe von 15,5 Prozent sowie für die Bemessung der Beiträge aus Versorgungsbezügen nach § 229 Absatz 1 Satz 1 Nummer 4 für die Zeit vom 1. Januar 2015 bis 28. Februar 2015 übergangsweise weiter ein Gesamtbeitragssatz in Höhe von 8,2 Prozent Anwendung; von diesen gelten jeweils 0,9 Prozentpunkte als Zusatzbeitrag gemäß § 242.
