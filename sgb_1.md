@@ -2,12 +2,13 @@ Sozialgesetzbuch (SGB) Erstes Buch (I) - Allgemeiner Teil - (Artikel I des Geset
 ==============================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 10 G v. 19.10.2013 I 3836
+Zuletzt geändert durch Art. 2 G v. 18.12.2014 I 2325
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 1.1.1982 +++)
+(+++ Zur Anwendung d. § 65 vgl. § 8 BEEG F. v. 18.12.2014 +++)
 (+++ Maßgaben aufgrund EinigVtr nicht mehr anzuwenden gem. Art. 109
 Nr. 3 Buchst. d DBuchst. aa G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)
 ```
@@ -475,7 +476,7 @@ Haushaltshilfe,
 7.  
 Betriebshilfe für Landwirte.
 
-(2) Zuständig sind die gewerblichen Berufsgenossenschaften, die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als landwirtschaftliche Berufsgenossenschaft, die Gemeindeunfallversicherungsverbände, die Feuerwehr-Unfallkassen, die Eisenbahn-Unfallkasse, die Unfallkasse Post und Telekom, die Unfallkassen der Länder und Gemeinden, die gemeinsamen Unfallkassen für den Landes- und kommunalen Bereich und die Unfallkasse des Bundes.
+(2) Zuständig sind die gewerblichen Berufsgenossenschaften, die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als landwirtschaftliche Berufsgenossenschaft, die Gemeindeunfallversicherungsverbände, die Feuerwehr-Unfallkassen, die Unfallkasse Post und Telekom, die Unfallkassen der Länder und Gemeinden, die gemeinsamen Unfallkassen für den Landes- und kommunalen Bereich und die Unfallversicherung Bund und Bahn.
 
 ### § 23 Leistungen der gesetzlichen Rentenversicherung einschließlich der Alterssicherung der Landwirte
 
@@ -550,13 +551,13 @@ Renten an Hinterbliebene, Bestattungsgeld und Sterbegeld,
 5.  
 Kapitalabfindung, insbesondere zur Wohnraumbeschaffung.
 
-(2) Zuständig sind die Versorgungsämter, die Landesversorgungsämter und die orthopädischen Versorgungsstellen, für die besonderen Hilfen im Einzelfall die Kreise und kreisfreien Städte sowie die Hauptfürsorgestellen. Bei der Durchführung der Heil- und Krankenbehandlung wirken die Träger der gesetzlichen Krankenversicherung mit.
+(2) Zuständig sind die Versorgungsämter, die Landesversorgungsämter und die orthopädischen Versorgungsstellen. Für die besonderen Hilfen im Einzelfall sind die Kreise und kreisfreien Städte sowie die Hauptfürsorgestellen zuständig. Bei der Durchführung der Heil- und Krankenbehandlung wirken die Träger der gesetzlichen Krankenversicherung mit. Für die Leistungen nach den §§ 80, 81a bis 83a des Soldatenversorgungsgesetzes, soweit die Versorgung nicht in der Erbringung von Leistungen der Kriegsopferfürsorge nach den §§ 25 bis 27j des Bundesversorgungsgesetzes besteht, ist die Bundeswehrverwaltung zuständig.
 
 ### § 25 Kindergeld, Kinderzuschlag, Leistungen für Bildung und Teilhabe, Elterngeld und Betreuungsgeld
 
 (1) Nach dem Bundeskindergeldgesetz kann nur dann Kindergeld in Anspruch genommen werden, wenn nicht der Familienleistungsausgleich nach § 31 des Einkommensteuergesetzes zur Anwendung kommt. Nach dem Bundeskindergeldgesetz können auch der Kinderzuschlag und Leistungen für Bildung und Teilhabe in Anspruch genommen werden.
 
-(2) Nach dem Recht des Bundeselterngeld- und Elternzeitgesetzes kann grundsätzlich für jedes Kind Elterngeld und Betreuungsgeld in Anspruch genommen werden.
+(2) Nach dem Recht des Bundeselterngeld- und Elternzeitgesetzes kann Elterngeld und Betreuungsgeld in Anspruch genommen werden.
 
 (3) Für die Ausführung des Absatzes 1 sind die nach § 7 des Bundeskindergeldgesetzes bestimmten Stellen und für die Ausführung des Absatzes 2 die nach § 12 des Bundeselterngeld- und Elternzeitgesetzes bestimmten Stellen zuständig.
 
@@ -1086,6 +1087,8 @@ können abgelehnt werden.
 
 (3) Angaben, die dem Antragsteller, dem Leistungsberechtigten oder ihnen nahestehende Personen (§ 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung) die Gefahr zuziehen würde, wegen einer Straftat oder einer Ordnungswidrigkeit verfolgt zu werden, können verweigert werden.
 
+(+++ § 65 Abs. 1 u. 3: Zur Anwendung vgl. § 8 Abs. 1a BEEG F. v. 18.12.2014 +++)
+
 ### § 65a Aufwendungsersatz
 
 (1) Wer einem Verlangen des zuständigen Leistungsträgers nach den §§ 61 oder 62 nachkommt, kann auf Antrag Ersatz seiner notwendigen Auslagen und seines Verdienstausfalls in angemessenem Umfang erhalten. Bei einem Verlangen des zuständigen Leistungsträgers nach § 61 sollen Aufwendungen nur in Härtefällen ersetzt werden.
@@ -1135,7 +1138,7 @@ das Zweite Gesetz über die Krankenversicherung der Landwirte,
 das Bundesversorgungsgesetz, auch soweit andere Gesetze, insbesondere
 
 a)  
-§ 80 des Soldatenversorgungsgesetzes,
+§§ 80 bis 83a des Soldatenversorgungsgesetzes,
 
 b)  
 § 59 Abs. 1 des Bundesgrenzschutzgesetzes,
