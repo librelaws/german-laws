@@ -2,7 +2,7 @@ Gesetz zur Errichtung eines Sondervermögens „Energie- und Klimafonds“ (EKFG
 ============================================================================
 
 Stand  
-Geändert durch Art. 1 G v. 29.7.2011 I 1702
+Zuletzt geändert durch Art. 1 G v. 22.12.2014 I 2431
 
 ### 
 
@@ -67,7 +67,7 @@ Zuführungen aus dem Bundeshaushalt nach Maßgabe der Absätze 3 und 4.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Einzelheiten zu den Einnahmen nach Absatz 1 Nummer 1 zu regeln.
 
-(3) Der Bund kann dem Sondervermögen im Wirtschaftsplanjahr 2011 zum Ausgleich eines Finanzierungsdefizits unter den Voraussetzungen des § 37 Absatz 1 der Bundeshaushaltsordnung eine Zuweisung bis zu einer Obergrenze von 225 Millionen Euro gewähren.
+(3) Der Bund kann dem Sondervermögen „Energie- und Klimafonds“ jährlich einen Bundeszuschuss nach Maßgabe des jeweiligen Haushaltsgesetzes gewähren.
 
 (4) Eine Kreditaufnahme des Sondervermögens am Kreditmarkt ist nicht zulässig. Vom Wirtschaftsplanjahr 2012 an kann das Sondervermögen zum Ausgleich eines Finanzierungsdefizits unter den Voraussetzungen des § 37 Absatz 1 der Bundeshaushaltsordnung ein verzinsliches, spätestens im übernächsten Jahr vollständig zurückzuzahlendes Liquiditätsdarlehen aus dem Bundeshaushalt bis zur Höhe von 10 Prozent des Gesamtvolumens des Wirtschaftsplans des laufenden Jahres erhalten. Die Summe aller Darlehensverbindlichkeiten darf zu keinem Zeitpunkt höher sein als 20 Prozent des Gesamtvolumens des Wirtschaftsplans des laufenden Jahres.
 
