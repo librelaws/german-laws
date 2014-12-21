@@ -2,7 +2,7 @@ Verordnung über die örtliche Zuständigkeit für die Umsatzsteuer im Ausland a
 ============================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 26 G v. 25.7.2014 I 1266
+Zuletzt geändert durch Art. 7 V v. 22.12.2014 I 2392
 
 ### 
 
@@ -74,7 +74,7 @@ das Finanzamt Bremen für im Königreich Norwegen ansässige Unternehmer,
 das Finanzamt München für in der Republik Österreich ansässige Unternehmer,
 
 20.  
-das Finanzamt Oranienburg für in der Republik Polen ansässige Unternehmer mit den Anfangsbuchstaben des Nachnamens oder bei Personen- und Kapitalgesellschaften des Firmennamens A bis M; das Finanzamt Cottbus für in der Republik Polen ansässige Unternehmer mit den Anfangsbuchstaben des Nachnamens oder des Firmennamens N bis Ż,
+das Finanzamt Oranienburg für in der Republik Polen ansässige Unternehmer, deren Nachname oder Firmenname mit den Buchstaben A bis M beginnt; das Finanzamt Cottbus für in der Republik Polen ansässige Unternehmer, deren Nachname oder Firmenname mit den Anfangsbuchstaben N bis Ż beginnt, sowie für alle in der Republik Polen ansässige Unternehmer, auf die das Verfahren nach § 18 Absatz 4e des Umsatzsteuergesetzes anzuwenden ist,
 
 21.  
 das Finanzamt Kassel-Hofgeismar für in der Portugiesischen Republik ansässige Unternehmer,
