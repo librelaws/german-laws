@@ -476,9 +476,7 @@ Die Abgeordneten sind berechtigt, über Personen, die ihnen in ihrer Eigenschaft
 
 (3) Die Abgeordneten haben Anspruch auf eine angemessene, ihre Unabhängigkeit sichernde Entschädigung. Sie haben das Recht der freien Benutzung aller staatlichen Verkehrsmittel. Das Nähere regelt ein Bundesgesetz.
 
-### Art 49
-
--
+### Art 49 (weggefallen)
 
 IV. Der Bundesrat
 -----------------
@@ -574,9 +572,7 @@ Anordnungen und Verfügungen des Bundespräsidenten bedürfen zu ihrer Gültigke
 
 (2) Verträge, welche die politischen Beziehungen des Bundes regeln oder sich auf Gegenstände der Bundesgesetzgebung beziehen, bedürfen der Zustimmung oder der Mitwirkung der jeweils für die Bundesgesetzgebung zuständigen Körperschaften in der Form eines Bundesgesetzes. Für Verwaltungsabkommen gelten die Vorschriften über die Bundesverwaltung entsprechend.
 
-### Art 59a
-
--
+### Art 59a (weggefallen)
 
 ### Art 60
 
@@ -1334,7 +1330,7 @@ die Vermögensteuer,
 2.  
 die Erbschaftsteuer,
 
-3  
+3.  
 die Verkehrsteuern, soweit sie nicht nach Absatz 1 dem Bund oder nach Absatz 3 Bund und Ländern gemeinsam zustehen,
 
 4.  
@@ -1786,9 +1782,7 @@ Artikel 7 Abs. 3 Satz 1 findet keine Anwendung in einem Lande, in dem am 1. Janu
 
 Ungeachtet der Vorschrift des Artikels 31 bleiben Bestimmungen der Landesverfassungen auch insoweit in Kraft, als sie in Übereinstimmung mit den Artikeln 1 bis 18 dieses Grundgesetzes Grundrechte gewährleisten.
 
-### Art 142a
-
--
+### Art 142a (weggefallen)
 
 ### Art 143
 
