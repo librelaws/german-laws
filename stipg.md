@@ -2,7 +2,7 @@ Gesetz zur Schaffung eines nationalen Stipendienprogramms (StipG)
 =================================================================
 
 Stand  
-Geändert durch Art. 1 G v. 21.12.2010 I 2204
+Geändert durch Art. 2 G v. 23.12.2014 I 2475
 
 ### 
 
