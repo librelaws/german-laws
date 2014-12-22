@@ -752,6 +752,8 @@ zum Schutze gegen Bestrebungen im Bundesgebiet, die durch Anwendung von Gewalt o
 
 sowie die Einrichtung eines Bundeskriminalpolizeiamtes und die internationale Verbrechensbekämpfung;
 
+<!-- -->
+
 11.  
 die Statistik für Bundeszwecke;
 
