@@ -2,13 +2,12 @@ Grundgesetz für die Bundesrepublik Deutschland ()
 =================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 11.7.2012 I 1478
+Zuletzt geändert durch Art. 1 G v. 23.12.2014 I 2438
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 14.12.1976 +++)
- 
 (+++ Maßgaben aufgrund des EinigVtr vgl. GG Anhang EV +++)
 ```
 
@@ -1079,18 +1078,7 @@ Verbesserung der Agrarstruktur und des Küstenschutzes.
 
 ### Art 91b
 
-(1) Bund und Länder können auf Grund von Vereinbarungen in Fällen überregionaler Bedeutung zusammenwirken bei der Förderung von:
-
-1.  
-Einrichtungen und Vorhaben der wissenschaftlichen Forschung außerhalb von Hochschulen;
-
-2.  
-Vorhaben der Wissenschaft und Forschung an Hochschulen;
-
-3.  
-Forschungsbauten an Hochschulen einschließlich Großgeräten.
-
-Vereinbarungen nach Satz 1 Nr. 2 bedürfen der Zustimmung aller Länder.
+(1) Bund und Länder können auf Grund von Vereinbarungen in Fällen überregionaler Bedeutung bei der Förderung von Wissenschaft, Forschung und Lehre zusammenwirken. Vereinbarungen, die im Schwerpunkt Hochschulen betreffen, bedürfen der Zustimmung aller Länder. Dies gilt nicht für Vereinbarungen über Forschungsbauten einschließlich Großgeräten.
 
 (2) Bund und Länder können auf Grund von Vereinbarungen zur Feststellung der Leistungsfähigkeit des Bildungswesens im internationalen Vergleich und bei diesbezüglichen Berichten und Empfehlungen zusammenwirken.
 
