@@ -1,8 +1,8 @@
 Gesetz über die Familienpflegezeit (FPfZG)
 ==========================================
 
-Hinweis  
-Änderung durch Art. 1 G v. 23.12.2014 I 2462 (Nr. 64) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Stand  
+Geändert durch Art. 1 G v. 23.12.2014 I 2462
 
 ### 
 
