@@ -2,7 +2,7 @@ Gesetz zum Schutz der arbeitenden Jugend (JArbSchG)
 ===================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 Abs. 7 G v. 20.4.2013 I 868
+Zuletzt geändert durch Art. 2 Abs. 7 G v. 21.1.2015 I 10
 
 ### 
 
@@ -692,7 +692,7 @@ wegen eines Verbrechens zu einer Freiheitsstrafe von mindestens zwei Jahren,
 wegen einer vorsätzlichen Straftat, die sie unter Verletzung der ihnen als Arbeitgeber, Ausbildender oder Ausbilder obliegenden Pflichten zum Nachteil von Kindern oder Jugendlichen begangen haben, zu einer Freiheitsstrafe von mehr als drei Monaten,
 
 3.  
-wegen einer Straftat nach den §§ 109h, 171, 174 bis 184g, 225, 232 bis 233a des Strafgesetzbuches,
+wegen einer Straftat nach den §§ 109h, 171, 174 bis 184h, 225, 232 bis 233a des Strafgesetzbuches,
 
 4.  
 wegen einer Straftat nach dem Betäubungsmittelgesetz oder
