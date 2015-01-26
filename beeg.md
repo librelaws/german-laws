@@ -1,14 +1,11 @@
 Gesetz zum Elterngeld und zur Elternzeit (BEEG)
 ===============================================
 
-Stand  
-Neugefasst durch Bek. v. 27.01.2015 I 33
+Neuf  
+Neugefasst durch Bek. v. 27.01.2015 I 33;
 
 Stand  
-Geändert durch Art. 1k G v. 4.4.2017 I 778
-
-Hinweis  
-Änderung durch Art. 6 Abs. 9 G v. 23.5.2017 I 1228 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+zuletzt geändert durch Art. 6 Abs. 9 G v. 23.5.2017 I 1228
 
 ### 
 
@@ -151,7 +148,7 @@ wird das Elterngeld um 10 Prozent, mindestens jedoch um 75 Euro erhöht (Geschwi
 im Zeitraum nach § 4 Absatz 1 Satz 1 Elterngeld für ein älteres Kind bezogen hat,
 
 2.  
-während der Schutzfristen nach § 3 Absatz 2 oder § 6 Absatz 1 des Mutterschutzgesetzes nicht beschäftigt werden durfte oder Mutterschaftsgeld nach dem Fünften Buch Sozialgesetzbuch oder nach dem Zweiten Gesetz über die Krankenversicherung der Landwirte bezogen hat,
+während der Schutzfristen nach § 3 des Mutterschutzgesetzes nicht beschäftigt werden durfte oder Mutterschaftsgeld nach dem Fünften Buch Sozialgesetzbuch oder nach dem Zweiten Gesetz über die Krankenversicherung der Landwirte bezogen hat,
 
 3.  
 eine Krankheit hatte, die maßgeblich durch eine Schwangerschaft bedingt war, oder
@@ -236,10 +233,10 @@ wobei die Höhe der Teilbeträge ohne Berücksichtigung der besonderen Regelunge
 Mutterschaftsleistungen
 
 a)  
-in Form des Mutterschaftsgeldes nach dem Fünften Buch Sozialgesetzbuch oder nach dem Zweiten Gesetz über die Krankenversicherung der Landwirte mit Ausnahme des Mutterschaftsgeldes nach § 13 Absatz 2 des Mutterschutzgesetzes oder
+in Form des Mutterschaftsgeldes nach dem Fünften Buch Sozialgesetzbuch oder nach dem Zweiten Gesetz über die Krankenversicherung der Landwirte mit Ausnahme des Mutterschaftsgeldes nach § 19 Absatz 2 des Mutterschutzgesetzes oder
 
 b)  
-in Form des Zuschusses zum Mutterschaftsgeld nach § 14 des Mutterschutzgesetzes, die der berechtigten Person für die Zeit ab dem Tag der Geburt des Kindes zustehen,
+in Form des Zuschusses zum Mutterschaftsgeld nach § 20 des Mutterschutzgesetzes, die der berechtigten Person für die Zeit ab dem Tag der Geburt des Kindes zustehen,
 
 2.  
 Dienst- und Anwärterbezüge sowie Zuschüsse, die der berechtigten Person nach beamten- oder soldatenrechtlichen Vorschriften für die Zeit eines Beschäftigungsverbots ab dem Tag der Geburt des Kindes zustehen,
@@ -300,7 +297,7 @@ hat jeder Elternteil für diese Monate Anspruch auf vier weitere Monatsbeträge 
 (6) Ein Elternteil kann abweichend von Absatz 5 Satz 1 zusätzlich auch die weiteren Monatsbeträge Elterngeld nach Absatz 4 Satz 2 beziehen, wenn für zwei Monate eine Minderung des Einkommens aus Erwerbstätigkeit erfolgt und wenn
 
 1.  
-bei ihm die Voraussetzungen für den Entlastungsbetrag für Alleinerziehende nach § 24b Absatz 1 und 2 des Einkommensteuergesetzes vorliegen und der andere Elternteil weder mit ihm noch mit dem Kind in einer Wohnung lebt,
+bei ihm die Voraussetzungen für den Entlastungsbetrag für Alleinerziehende nach § 24b Absatz 1 und 3 des Einkommensteuergesetzes vorliegen und der andere Elternteil weder mit ihm noch mit dem Kind in einer Wohnung lebt,
 
 2.  
 mit der Betreuung durch den anderen Elternteil eine Gefährdung des Kindeswohls im Sinne von § 1666 Absatz 1 und 2 des Bürgerlichen Gesetzbuchs verbunden wäre oder
@@ -507,7 +504,7 @@ ein Elternteil des Kindes sich in einer Ausbildung befindet, die vor Vollendung 
 
 Der Anspruch besteht nur für Zeiten, in denen keiner der Elternteile des Kindes selbst Elternzeit beansprucht.
 
-(2) Der Anspruch auf Elternzeit besteht bis zur Vollendung des dritten Lebensjahres eines Kindes. Ein Anteil von bis zu 24 Monaten kann zwischen dem dritten Geburtstag und dem vollendeten achten Lebensjahr des Kindes in Anspruch genommen werden. Die Zeit der Mutterschutzfrist nach § 6 Absatz 1 des Mutterschutzgesetzes wird für die Elternzeit der Mutter auf die Begrenzung nach den Sätzen 1 und 2 angerechnet. Bei mehreren Kindern besteht der Anspruch auf Elternzeit für jedes Kind, auch wenn sich die Zeiträume im Sinne der Sätze 1 und 2 überschneiden. Bei einem angenommenen Kind und bei einem Kind in Vollzeit- oder Adoptionspflege kann Elternzeit von insgesamt bis zu drei Jahren ab der Aufnahme bei der berechtigten Person, längstens bis zur Vollendung des achten Lebensjahres des Kindes genommen werden; die Sätze 2 und 4 sind entsprechend anwendbar, soweit sie die zeitliche Aufteilung regeln. Der Anspruch kann nicht durch Vertrag ausgeschlossen oder beschränkt werden.
+(2) Der Anspruch auf Elternzeit besteht bis zur Vollendung des dritten Lebensjahres eines Kindes. Ein Anteil von bis zu 24 Monaten kann zwischen dem dritten Geburtstag und dem vollendeten achten Lebensjahr des Kindes in Anspruch genommen werden. Die Zeit der Mutterschutzfrist nach § 3 Absatz 2 und 3 des Mutterschutzgesetzes wird für die Elternzeit der Mutter auf die Begrenzung nach den Sätzen 1 und 2 angerechnet. Bei mehreren Kindern besteht der Anspruch auf Elternzeit für jedes Kind, auch wenn sich die Zeiträume im Sinne der Sätze 1 und 2 überschneiden. Bei einem angenommenen Kind und bei einem Kind in Vollzeit- oder Adoptionspflege kann Elternzeit von insgesamt bis zu drei Jahren ab der Aufnahme bei der berechtigten Person, längstens bis zur Vollendung des achten Lebensjahres des Kindes genommen werden; die Sätze 2 und 4 sind entsprechend anwendbar, soweit sie die zeitliche Aufteilung regeln. Der Anspruch kann nicht durch Vertrag ausgeschlossen oder beschränkt werden.
 
 (3) Die Elternzeit kann, auch anteilig, von jedem Elternteil allein oder von beiden Elternteilen gemeinsam genommen werden. Satz 1 gilt in den Fällen des Absatzes 1 Satz 1 Nummer 1 Buchstabe b und c entsprechend.
 
@@ -542,7 +539,7 @@ für den Zeitraum zwischen dem dritten Geburtstag und dem vollendeten achten Leb
 
 vor Beginn der Teilzeittätigkeit schriftlich mitgeteilt.
 
-Der Antrag muss den Beginn und den Umfang der verringerten Arbeitszeit enthalten. Die gewünschte Verteilung der verringerten Arbeitszeit soll im Antrag angegeben werden. Falls der Arbeitgeber die beanspruchte Verringerung oder Verteilung der Arbeitszeit ablehnen will, muss er dies innerhalb von vier Wochen mit schriftlicher Begründung tun. Hat ein Arbeitgeber die Verringerung der Arbeitszeit
+Der Antrag muss den Beginn und den Umfang der verringerten Arbeitszeit enthalten. Die gewünschte Verteilung der verringerten Arbeitszeit soll im Antrag angegeben werden. Falls der Arbeitgeber die beanspruchte Verringerung oder Verteilung der Arbeitszeit ablehnen will, muss er dies innerhalb der in Satz 5 genannten Frist mit schriftlicher Begründung tun. Hat ein Arbeitgeber die Verringerung der Arbeitszeit
 
 1.  
 in einer Elternzeit zwischen der Geburt und dem vollendeten dritten Lebensjahr des Kindes nicht spätestens vier Wochen nach Zugang des Antrags oder
@@ -562,11 +559,11 @@ für den Zeitraum bis zum vollendeten dritten Lebensjahr des Kindes spätestens 
 2.  
 für den Zeitraum zwischen dem dritten Geburtstag und dem vollendeten achten Lebensjahr des Kindes spätestens 13 Wochen
 
-vor Beginn der Elternzeit schriftlich vom Arbeitgeber verlangen. Verlangt die Arbeitnehmerin oder der Arbeitnehmer Elternzeit nach Satz 1 Nummer 1, muss sie oder er gleichzeitig erklären, für welche Zeiten innerhalb von zwei Jahren Elternzeit genommen werden soll. Bei dringenden Gründen ist ausnahmsweise eine angemessene kürzere Frist möglich. Nimmt die Mutter die Elternzeit im Anschluss an die Mutterschutzfrist, wird die Zeit der Mutterschutzfrist nach § 6 Absatz 1 des Mutterschutzgesetzes auf den Zeitraum nach Satz 2 angerechnet. Nimmt die Mutter die Elternzeit im Anschluss an einen auf die Mutterschutzfrist folgenden Erholungsurlaub, werden die Zeit der Mutterschutzfrist nach § 6 Absatz 1 des Mutterschutzgesetzes und die Zeit des Erholungsurlaubs auf den Zweijahreszeitraum nach Satz 2 angerechnet. Jeder Elternteil kann seine Elternzeit auf drei Zeitabschnitte verteilen; eine Verteilung auf weitere Zeitabschnitte ist nur mit der Zustimmung des Arbeitgebers möglich. Der Arbeitgeber kann die Inanspruchnahme eines dritten Abschnitts einer Elternzeit innerhalb von acht Wochen nach Zugang des Antrags aus dringenden betrieblichen Gründen ablehnen, wenn dieser Abschnitt im Zeitraum zwischen dem dritten Geburtstag und dem vollendeten achten Lebensjahr des Kindes liegen soll. Der Arbeitgeber hat dem Arbeitnehmer oder der Arbeitnehmerin die Elternzeit zu bescheinigen. Bei einem Arbeitgeberwechsel ist bei der Anmeldung der Elternzeit auf Verlangen des neuen Arbeitgebers eine Bescheinigung des früheren Arbeitgebers über bereits genommene Elternzeit durch die Arbeitnehmerin oder den Arbeitnehmer vorzulegen.
+vor Beginn der Elternzeit schriftlich vom Arbeitgeber verlangen. Verlangt die Arbeitnehmerin oder der Arbeitnehmer Elternzeit nach Satz 1 Nummer 1, muss sie oder er gleichzeitig erklären, für welche Zeiten innerhalb von zwei Jahren Elternzeit genommen werden soll. Bei dringenden Gründen ist ausnahmsweise eine angemessene kürzere Frist möglich. Nimmt die Mutter die Elternzeit im Anschluss an die Mutterschutzfrist, wird die Zeit der Mutterschutzfrist nach § 3 Absatz 2 und 3 des Mutterschutzgesetzes auf den Zeitraum nach Satz 2 angerechnet. Nimmt die Mutter die Elternzeit im Anschluss an einen auf die Mutterschutzfrist folgenden Erholungsurlaub, werden die Zeit der Mutterschutzfrist nach § 3 Absatz 2 und 3 des Mutterschutzgesetzes und die Zeit des Erholungsurlaubs auf den Zweijahreszeitraum nach Satz 2 angerechnet. Jeder Elternteil kann seine Elternzeit auf drei Zeitabschnitte verteilen; eine Verteilung auf weitere Zeitabschnitte ist nur mit der Zustimmung des Arbeitgebers möglich. Der Arbeitgeber kann die Inanspruchnahme eines dritten Abschnitts einer Elternzeit innerhalb von acht Wochen nach Zugang des Antrags aus dringenden betrieblichen Gründen ablehnen, wenn dieser Abschnitt im Zeitraum zwischen dem dritten Geburtstag und dem vollendeten achten Lebensjahr des Kindes liegen soll. Der Arbeitgeber hat dem Arbeitnehmer oder der Arbeitnehmerin die Elternzeit zu bescheinigen. Bei einem Arbeitgeberwechsel ist bei der Anmeldung der Elternzeit auf Verlangen des neuen Arbeitgebers eine Bescheinigung des früheren Arbeitgebers über bereits genommene Elternzeit durch die Arbeitnehmerin oder den Arbeitnehmer vorzulegen.
 
-(2) Können Arbeitnehmerinnen aus einem von ihnen nicht zu vertretenden Grund eine sich unmittelbar an die Mutterschutzfrist des § 6 Absatz 1 des Mutterschutzgesetzes anschließende Elternzeit nicht rechtzeitig verlangen, können sie dies innerhalb einer Woche nach Wegfall des Grundes nachholen.
+(2) Können Arbeitnehmerinnen aus einem von ihnen nicht zu vertretenden Grund eine sich unmittelbar an die Mutterschutzfrist des § 3 Absatz 2 und 3 des Mutterschutzgesetzes anschließende Elternzeit nicht rechtzeitig verlangen, können sie dies innerhalb einer Woche nach Wegfall des Grundes nachholen.
 
-(3) Die Elternzeit kann vorzeitig beendet oder im Rahmen des § 15 Absatz 2 verlängert werden, wenn der Arbeitgeber zustimmt. Die vorzeitige Beendigung wegen der Geburt eines weiteren Kindes oder in Fällen besonderer Härte, insbesondere bei Eintritt einer schweren Krankheit, Schwerbehinderung oder Tod eines Elternteils oder eines Kindes der berechtigten Person oder bei erheblich gefährdeter wirtschaftlicher Existenz der Eltern nach Inanspruchnahme der Elternzeit, kann der Arbeitgeber unbeschadet von Satz 3 nur innerhalb von vier Wochen aus dringenden betrieblichen Gründen schriftlich ablehnen. Die Elternzeit kann zur Inanspruchnahme der Schutzfristen des § 3 Absatz 2 und des § 6 Absatz 1 des Mutterschutzgesetzes auch ohne Zustimmung des Arbeitgebers vorzeitig beendet werden; in diesen Fällen soll die Arbeitnehmerin dem Arbeitgeber die Beendigung der Elternzeit rechtzeitig mitteilen. Eine Verlängerung der Elternzeit kann verlangt werden, wenn ein vorgesehener Wechsel der Anspruchsberechtigten aus einem wichtigen Grund nicht erfolgen kann.
+(3) Die Elternzeit kann vorzeitig beendet oder im Rahmen des § 15 Absatz 2 verlängert werden, wenn der Arbeitgeber zustimmt. Die vorzeitige Beendigung wegen der Geburt eines weiteren Kindes oder in Fällen besonderer Härte, insbesondere bei Eintritt einer schweren Krankheit, Schwerbehinderung oder Tod eines Elternteils oder eines Kindes der berechtigten Person oder bei erheblich gefährdeter wirtschaftlicher Existenz der Eltern nach Inanspruchnahme der Elternzeit, kann der Arbeitgeber unbeschadet von Satz 3 nur innerhalb von vier Wochen aus dringenden betrieblichen Gründen schriftlich ablehnen. Die Elternzeit kann zur Inanspruchnahme der Schutzfristen des § 3 des Mutterschutzgesetzes auch ohne Zustimmung des Arbeitgebers vorzeitig beendet werden; in diesen Fällen soll die Arbeitnehmerin dem Arbeitgeber die Beendigung der Elternzeit rechtzeitig mitteilen. Eine Verlängerung der Elternzeit kann verlangt werden, wenn ein vorgesehener Wechsel der Anspruchsberechtigten aus einem wichtigen Grund nicht erfolgen kann.
 
 (4) Stirbt das Kind während der Elternzeit, endet diese spätestens drei Wochen nach dem Tod des Kindes.
 
