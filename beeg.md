@@ -313,7 +313,7 @@ Abschnitt 2 Betreuungsgeld
 
 ### § 4a Berechtigte
 
-(1) Anspruch auf Betreuungsgeld hat, wer
+*(1) Anspruch auf Betreuungsgeld hat, wer*
 
 1.  
 die Voraussetzungen des § 1 Absatz 1 Nummer 1 bis 3, Absatz 2 bis 5, 7 und 8 erfüllt und
@@ -321,27 +321,35 @@ die Voraussetzungen des § 1 Absatz 1 Nummer 1 bis 3, Absatz 2 bis 5, 7 und 8 er
 2.  
 für das Kind keine Leistungen nach § 24 Absatz 2 in Verbindung mit den §§ 22 bis 23 des Achten Buches Sozialgesetzbuch in Anspruch nimmt.
 
-(2) Können die Eltern ihr Kind wegen einer schweren Krankheit, Schwerbehinderung oder Tod der Eltern nicht betreuen, haben Berechtigte im Sinne von Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 4 einen Anspruch auf Betreuungsgeld abweichend von Absatz 1 Nummer 2, wenn für das Kind nicht mehr als 20 Wochenstunden im Durchschnitt des Monats Leistungen nach § 24 Absatz 2 in Verbindung mit den §§ 22 bis 23 des Achten Buches Sozialgesetzbuch in Anspruch genommen werden.
+*(2) Können die Eltern ihr Kind wegen einer schweren Krankheit, Schwerbehinderung oder Tod der Eltern nicht betreuen, haben Berechtigte im Sinne von Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 4 einen Anspruch auf Betreuungsgeld abweichend von Absatz 1 Nummer 2, wenn für das Kind nicht mehr als 20 Wochenstunden im Durchschnitt des Monats Leistungen nach § 24 Absatz 2 in Verbindung mit den §§ 22 bis 23 des Achten Buches Sozialgesetzbuch in Anspruch genommen werden.*
+
+§ 4a: Nach Maßgabe der Urteilsgründe mit Art. 72 Abs. 2 GG (100-1) unvereinbar und nichtig gem. BVerfGE v. 21.7.2015 I 1565 - 1 BvF 2/13
 
 ### § 4b Höhe des Betreuungsgeldes
 
-Das Betreuungsgeld beträgt für jedes Kind 150 Euro pro Monat.
+*Das Betreuungsgeld beträgt für jedes Kind 150 Euro pro Monat.*
+
+§ 4b: Nach Maßgabe der Urteilsgründe mit Art. 72 Abs. 2 GG (100-1) unvereinbar und nichtig gem. BVerfGE v. 21.7.2015 I 1565 - 1 BvF 2/13
 
 ### § 4c Anrechnung von anderen Leistungen
 
-Dem Betreuungsgeld oder dem Elterngeld vergleichbare Leistungen, auf die eine nach § 4a berechtigte Person außerhalb Deutschlands oder gegenüber einer über- oder zwischenstaatlichen Einrichtung Anspruch hat, werden auf das Betreuungsgeld angerechnet, soweit sie den Betrag übersteigen, der für denselben Zeitraum nach § 3 Absatz 1 Satz 1 Nummer 3 auf das Elterngeld anzurechnen ist. Stehen der berechtigten Person die Leistungen nur für einen Teil des Lebensmonats des Kindes zu, sind sie nur auf den entsprechenden Teil des Betreuungsgeldes anzurechnen. Solange kein Antrag auf die in Satz 1 genannten vergleichbaren Leistungen gestellt wird, ruht der Anspruch auf Betreuungsgeld bis zur möglichen Höhe der vergleichbaren Leistung.
+*Dem Betreuungsgeld oder dem Elterngeld vergleichbare Leistungen, auf die eine nach § 4a berechtigte Person außerhalb Deutschlands oder gegenüber einer über- oder zwischenstaatlichen Einrichtung Anspruch hat, werden auf das Betreuungsgeld angerechnet, soweit sie den Betrag übersteigen, der für denselben Zeitraum nach § 3 Absatz 1 Satz 1 Nummer 3 auf das Elterngeld anzurechnen ist. Stehen der berechtigten Person die Leistungen nur für einen Teil des Lebensmonats des Kindes zu, sind sie nur auf den entsprechenden Teil des Betreuungsgeldes anzurechnen. Solange kein Antrag auf die in Satz 1 genannten vergleichbaren Leistungen gestellt wird, ruht der Anspruch auf Betreuungsgeld bis zur möglichen Höhe der vergleichbaren Leistung.*
+
+§ 4c: Nach Maßgabe der Urteilsgründe mit Art. 72 Abs. 2 GG (100-1) unvereinbar und nichtig gem. BVerfGE v. 21.7.2015 I 1565 - 1 BvF 2/13
 
 ### § 4d Bezugszeitraum
 
-(1) Betreuungsgeld kann in der Zeit vom ersten Tag des 15. Lebensmonats bis zur Vollendung des 36. Lebensmonats des Kindes bezogen werden. Vor dem 15. Lebensmonat wird Betreuungsgeld nur gewährt, wenn die Eltern die Monatsbeträge des Elterngeldes, die ihnen für ihr Kind nach § 4 Absatz 4 Satz 1 und 2 und nach § 4 Absatz 6 Satz 1 zustehen, bereits bezogen haben. Für jedes Kind wird höchstens für 22 Lebensmonate Betreuungsgeld gezahlt.
+*(1) Betreuungsgeld kann in der Zeit vom ersten Tag des 15. Lebensmonats bis zur Vollendung des 36. Lebensmonats des Kindes bezogen werden. Vor dem 15. Lebensmonat wird Betreuungsgeld nur gewährt, wenn die Eltern die Monatsbeträge des Elterngeldes, die ihnen für ihr Kind nach § 4 Absatz 4 Satz 1 und 2 und nach § 4 Absatz 6 Satz 1 zustehen, bereits bezogen haben. Für jedes Kind wird höchstens für 22 Lebensmonate Betreuungsgeld gezahlt.*
 
-(2) Für angenommene Kinder und Kinder im Sinne des § 1 Absatz 3 Satz 1 Nummer 1 kann Betreuungsgeld ab dem ersten Tag des 15. Monats nach Aufnahme bei der berechtigten Person längstens bis zur Vollendung des dritten Lebensjahres des Kindes bezogen werden. Absatz 1 Satz 2 und 3 ist entsprechend anzuwenden.
+*(2) Für angenommene Kinder und Kinder im Sinne des § 1 Absatz 3 Satz 1 Nummer 1 kann Betreuungsgeld ab dem ersten Tag des 15. Monats nach Aufnahme bei der berechtigten Person längstens bis zur Vollendung des dritten Lebensjahres des Kindes bezogen werden. Absatz 1 Satz 2 und 3 ist entsprechend anzuwenden.*
 
-(3) Für einen Lebensmonat eines Kindes kann nur ein Elternteil Betreuungsgeld beziehen. Lebensmonate des Kindes, in denen einem Elternteil nach § 4c anzurechnende Leistungen zustehen, gelten als Monate, für die dieser Elternteil Betreuungsgeld bezieht.
+*(3) Für einen Lebensmonat eines Kindes kann nur ein Elternteil Betreuungsgeld beziehen. Lebensmonate des Kindes, in denen einem Elternteil nach § 4c anzurechnende Leistungen zustehen, gelten als Monate, für die dieser Elternteil Betreuungsgeld bezieht.*
 
-(4) Der Anspruch endet mit dem Ablauf des Monats, in dem eine Anspruchsvoraussetzung entfallen ist.
+*(4) Der Anspruch endet mit dem Ablauf des Monats, in dem eine Anspruchsvoraussetzung entfallen ist.*
 
-(5) Absatz 1 Satz 2 und Absatz 3 gelten in den Fällen des § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 3 und 4 entsprechend. Nicht sorgeberechtigte Elternteile und Personen, die nach § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 3 Satz 1 Nummer 2 und 3 Betreuungsgeld beziehen können, bedürfen der Zustimmung des sorgeberechtigten Elternteils.
+*(5) Absatz 1 Satz 2 und Absatz 3 gelten in den Fällen des § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 3 und 4 entsprechend. Nicht sorgeberechtigte Elternteile und Personen, die nach § 4a Absatz 1 Nummer 1 in Verbindung mit § 1 Absatz 3 Satz 1 Nummer 2 und 3 Betreuungsgeld beziehen können, bedürfen der Zustimmung des sorgeberechtigten Elternteils.*
+
+§ 4d: Nach Maßgabe der Urteilsgründe mit Art. 72 Abs. 2 GG (100-1) unvereinbar und nichtig gem. BVerfGE v. 21.7.2015 I 1565 - 1 BvF 2/13
 
 Abschnitt 3 Verfahren und Organisation
 --------------------------------------
