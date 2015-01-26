@@ -4,6 +4,12 @@ Gesetz zum Elterngeld und zur Elternzeit (BEEG)
 Stand  
 Neugefasst durch Bek. v. 27.01.2015 I 33
 
+Stand  
+Geändert durch Art. 1k G v. 4.4.2017 I 778
+
+Hinweis  
+Änderung durch Art. 6 Abs. 9 G v. 23.5.2017 I 1228 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
@@ -289,7 +295,7 @@ die Voraussetzungen des § 1 erfüllen,
 
 hat jeder Elternteil für diese Monate Anspruch auf vier weitere Monatsbeträge Elterngeld Plus (Partnerschaftsbonus).
 
-(5) Ein Elternteil kann höchstens zwölf Monatsbeträge Elterngeld im Sinne des Absatzes 2 Satz 2 zuzüglich der vier nach Absatz 4 Satz 3 zustehenden Monatsbeträge Elterngeld Plus beziehen. Er kann Elterngeld nur beziehen, wenn er es mindestens für zwei Monate in Anspruch nimmt. Lebensmonate des Kindes, in denen einem Elternteil nach § 3 Absatz 1 Satz 1 Nummer 1 bis 3 anzurechnende Leistungen zustehen, gelten als Monate, für die dieser Elternteil Elterngeld im Sinne des Absatzes 2 Satz 2 bezieht.
+(5) Ein Elternteil kann höchstens zwölf Monatsbeträge Elterngeld im Sinne des Absatzes 2 Satz 2 zuzüglich der vier nach Absatz 4 Satz 3 zustehenden Monatsbeträge Elterngeld Plus beziehen. Er kann Elterngeld nur beziehen, wenn er es mindestens für zwei Monate in Anspruch nimmt. Lebensmonate des Kindes, in denen einem Elternteil nach § 3 Absatz 1 Satz 1 Nummer 1 bis 3 anzurechnende Leistungen oder nach § 192 Absatz 5 Satz 2 des Versicherungsvertragsgesetzes Versicherungsleistungen zustehen, gelten als Monate, für die dieser Elternteil Elterngeld im Sinne des Absatzes 2 Satz 2 bezieht.
 
 (6) Ein Elternteil kann abweichend von Absatz 5 Satz 1 zusätzlich auch die weiteren Monatsbeträge Elterngeld nach Absatz 4 Satz 2 beziehen, wenn für zwei Monate eine Minderung des Einkommens aus Erwerbstätigkeit erfolgt und wenn
 
