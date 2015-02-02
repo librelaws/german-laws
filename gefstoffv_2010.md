@@ -2,7 +2,7 @@ Verordnung zum Schutz vor Gefahrstoffen (GefStoffV)
 ===================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 15.7.2013 I 2514
+Zuletzt geändert durch Art. 2 V v. 3.2.2015 I 49
 
 ### 
 
@@ -228,7 +228,7 @@ Biozid-Wirkstoffen im Sinne des § 3b Absatz 1 Nummer 2 des Chemikaliengesetzes,
 
 Abschnitt 2 gilt nicht für Lebensmittel oder Futtermittel in Form von Fertigerzeugnissen, die für den Endverbrauch bestimmt sind.
 
-(3) Die Abschnitte 3 bis 6 gelten für Tätigkeiten, bei denen Beschäftigte Gefährdungen ihrer Gesundheit und Sicherheit durch Stoffe, Zubereitungen oder Erzeugnisse ausgesetzt sein können. Sie gelten auch, wenn die Sicherheit und Gesundheit anderer Personen aufgrund von Tätigkeiten im Sinne von § 2 Absatz 4 gefährdet sein können, die durch Beschäftigte oder Unternehmer ohne Beschäftigte ausgeübt werden. Die Sätze 1 und 2 finden auch Anwendung auf Tätigkeiten, die im Zusammenhang mit der Beförderung von Stoffen, Zubereitungen und Erzeugnissen ausgeübt werden. Die Vorschriften des Gefahrgutbeförderungsgesetzes und der darauf gestützten Rechtsverordnungen bleiben unberührt.
+(3) Die Abschnitte 3 bis 6 gelten für Tätigkeiten, bei denen Beschäftigte Gefährdungen ihrer Gesundheit und Sicherheit durch Stoffe, Zubereitungen oder Erzeugnisse ausgesetzt sein können. Sie gelten auch, wenn die Sicherheit und Gesundheit anderer Personen aufgrund von Tätigkeiten im Sinne von § 2 Absatz 5 gefährdet sein können, die durch Beschäftigte oder Unternehmer ohne Beschäftigte ausgeübt werden. Die Sätze 1 und 2 finden auch Anwendung auf Tätigkeiten, die im Zusammenhang mit der Beförderung von Stoffen, Zubereitungen und Erzeugnissen ausgeübt werden. Die Vorschriften des Gefahrgutbeförderungsgesetzes und der darauf gestützten Rechtsverordnungen bleiben unberührt.
 
 (4) Sofern nicht ausdrücklich etwas anderes bestimmt ist, gilt diese Verordnung nicht für
 
@@ -298,21 +298,21 @@ dem Arbeitgeber der Unternehmer ohne Beschäftigte sowie der Auftraggeber und de
 
 (9) Der biologische Grenzwert ist der Grenzwert für die toxikologisch-arbeitsmedizinisch abgeleitete Konzentration eines Stoffs, seines Metaboliten oder eines Beanspruchungsindikators im entsprechenden biologischen Material. Er gibt an, bis zu welcher Konzentration die Gesundheit von Beschäftigten im Allgemeinen nicht beeinträchtigt wird.
 
-(10) Explosionsfähig sind Stoffe, Zubereitungen und Erzeugnisse,
+(10) Ein explosionsfähiges Gemisch ist ein Gemisch aus brennbaren Gasen, Dämpfen, Nebeln oder aufgewirbelten Stäuben und Luft oder einem anderen Oxidationsmittel, das nach Wirksamwerden einer Zündquelle in einer sich selbsttätig fortpflanzenden Flammenausbreitung reagiert, sodass im Allgemeinen ein sprunghafter Temperatur- und Druckanstieg hervorgerufen wird.
 
-1.  
-wenn sie mit oder ohne Luft durch Zündquellen wie äußere thermische Einwirkungen, mechanische Beanspruchungen oder Detonationsstöße zu einer chemischen Reaktion gebracht werden können, bei der hochgespannte Gase in so kurzer Zeit entstehen, dass ein sprunghafter Temperatur- und Druckanstieg hervorgerufen wird, oder
+(11) Chemisch instabile Gase, die auch ohne ein Oxidationsmittel nach Wirksamwerden einer Zündquelle in einer sich selbsttätig fortpflanzenden Flammenausbreitung reagieren können, sodass ein sprunghafter Temperatur- und Druckanstieg hervorgerufen wird, stehen explosionsfähigen Gemischen nach Absatz 10 gleich.
 
-2.  
-wenn im Gemisch mit Luft nach Wirksamwerden einer Zündquelle eine sich selbsttätig fortpflanzende Flammenausbreitung stattfindet, die im Allgemeinen mit einem sprunghaften Temperatur- und Druckanstieg verbunden ist.
+(12) Ein gefährliches explosionsfähiges Gemisch ist ein explosionsfähiges Gemisch, das in solcher Menge auftritt, dass besondere Schutzmaßnahmen für die Aufrechterhaltung der Gesundheit und Sicherheit der Beschäftigten oder anderer Personen erforderlich werden.
 
-(11) Ein explosionsfähiges Gemisch ist ein Gemisch aus brennbaren Gasen, Dämpfen, Nebeln oder Stäuben, in dem sich der Verbrennungsvorgang nach erfolgter Zündung auf das gesamte unverbrannte Gemisch überträgt. Ein gefährliches explosionsfähiges Gemisch ist ein explosionsfähiges Gemisch, das in solcher Menge auftritt, dass besondere Schutzmaßnahmen für die Aufrechterhaltung der Gesundheit und Sicherheit der Beschäftigten oder anderer Personen erforderlich werden (gefahrdrohende Menge). Explosionsfähige Atmosphäre ist ein explosionsfähiges Gemisch unter atmosphärischen Bedingungen im Gemisch mit Luft.
+(13) Gefährliche explosionsfähige Atmosphäre ist ein gefährliches explosionsfähiges Gemisch mit Luft als Oxidationsmittel unter atmosphärischen Bedingungen (Umgebungstemperatur von –20 °C bis +60 °C und Druck von 0,8 Bar bis 1,1 Bar).
 
-(12) Der Stand der Technik ist der Entwicklungsstand fortschrittlicher Verfahren, Einrichtungen oder Betriebsweisen, der die praktische Eignung einer Maßnahme zum Schutz der Gesundheit und zur Sicherheit der Beschäftigten gesichert erscheinen lässt. Bei der Bestimmung des Stands der Technik sind insbesondere vergleichbare Verfahren, Einrichtungen oder Betriebsweisen heranzuziehen, die mit Erfolg in der Praxis erprobt worden sind. Gleiches gilt für die Anforderungen an die Arbeitsmedizin und die Arbeitsplatzhygiene.
+(14) Explosionsgefährdeter Bereich ist der Gefahrenbereich, in dem gefährliche explosionsfähige Atmosphäre auftreten kann.
 
-(13) Fachkundig ist, wer zur Ausübung einer in dieser Verordnung bestimmten Aufgabe befähigt ist. Die Anforderungen an die Fachkunde sind abhängig von der jeweiligen Art der Aufgabe. Zu den Anforderungen zählen eine entsprechende Berufsausbildung, Berufserfahrung oder eine zeitnah ausgeübte entsprechende berufliche Tätigkeit sowie die Teilnahme an spezifischen Fortbildungsmaßnahmen.
+(15) Der Stand der Technik ist der Entwicklungsstand fortschrittlicher Verfahren, Einrichtungen oder Betriebsweisen, der die praktische Eignung einer Maßnahme zum Schutz der Gesundheit und zur Sicherheit der Beschäftigten gesichert erscheinen lässt. Bei der Bestimmung des Stands der Technik sind insbesondere vergleichbare Verfahren, Einrichtungen oder Betriebsweisen heranzuziehen, die mit Erfolg in der Praxis erprobt worden sind. Gleiches gilt für die Anforderungen an die Arbeitsmedizin und die Arbeitsplatzhygiene.
 
-(14) Sachkundig ist, wer seine bestehende Fachkunde durch Teilnahme an einem behördlich anerkannten Sachkundelehrgang erweitert hat. In Abhängigkeit vom Aufgabengebiet kann es zum Erwerb der Sachkunde auch erforderlich sein, den Lehrgang mit einer erfolgreichen Prüfung abzuschließen. Sachkundig ist ferner, wer über eine von der zuständigen Behörde als gleichwertig anerkannte oder in dieser Verordnung als gleichwertig bestimmte Qualifikation verfügt.
+(16) Fachkundig ist, wer zur Ausübung einer in dieser Verordnung bestimmten Aufgabe über die erforderlichen Fachkenntnisse verfügt. Die Anforderungen an die Fachkunde sind abhängig von der jeweiligen Art der Aufgabe. Zu den Anforderungen zählen eine entsprechende Berufsausbildung, Berufserfahrung oder eine zeitnah ausgeübte entsprechende berufliche Tätigkeit sowie die Teilnahme an spezifischen Fortbildungsmaßnahmen.
+
+(17) Sachkundig ist, wer seine bestehende Fachkunde durch Teilnahme an einem behördlich anerkannten Sachkundelehrgang erweitert hat. In Abhängigkeit vom Aufgabengebiet kann es zum Erwerb der Sachkunde auch erforderlich sein, den Lehrgang mit einer erfolgreichen Prüfung abzuschließen. Sachkundig ist ferner, wer über eine von der zuständigen Behörde als gleichwertig anerkannte oder in dieser Verordnung als gleichwertig bestimmte Qualifikation verfügt.
 
 Abschnitt 2 Gefahrstoffinformation
 ----------------------------------
@@ -480,7 +480,18 @@ Erkenntnisse aus arbeitsmedizinischen Vorsorgeuntersuchungen nach der Verordnung
 
 (3) Stoffe und Zubereitungen, die nicht von einem Inverkehrbringer nach § 4 Absatz 1 oder Absatz 2 eingestuft und gekennzeichnet worden sind, beispielsweise innerbetrieblich hergestellte Stoffe oder Zubereitungen, hat der Arbeitgeber selbst einzustufen. Zumindest aber hat er die von den Stoffen oder Zubereitungen ausgehenden Gefährdungen der Beschäftigten zu ermitteln; dies gilt auch für Gefahrstoffe nach § 2 Absatz 1 Nummer 4.
 
-(4) Der Arbeitgeber hat festzustellen, ob die verwendeten Stoffe, Zubereitungen oder Erzeugnisse bei Tätigkeiten, auch unter Berücksichtigung verwendeter Arbeitsmittel, Verfahren und der Arbeitsumgebung sowie ihrer möglichen Wechselwirkungen, zu Brand- oder Explosionsgefährdungen führen können. Insbesondere hat er zu ermitteln, ob die Stoffe, Zubereitungen oder Erzeugnisse auf Grund ihrer Eigenschaften und der Art und Weise, wie sie am Arbeitsplatz vorhanden sind oder verwendet werden, explosionsfähige Gemische bilden können. Im Fall von nicht atmosphärischen Bedingungen sind auch die möglichen Veränderungen der für den Explosionsschutz relevanten sicherheitstechnischen Kenngrößen zu ermitteln und zu berücksichtigen.
+(4) Der Arbeitgeber hat festzustellen, ob die verwendeten Stoffe, Gemische und Erzeugnisse bei Tätigkeiten, auch unter Berücksichtigung verwendeter Arbeitsmittel, Verfahren und der Arbeitsumgebung sowie ihrer möglichen Wechselwirkungen, zu Brand- oder Explosionsgefährdungen führen können. Dabei hat er zu beurteilen,
+
+1.  
+ob gefährliche Mengen oder Konzentrationen von Gefahrstoffen, die zu Brand- und Explosionsgefährdungen führen können, auftreten; dabei sind sowohl Stoffe und Gemische mit physikalischen Gefährdungen nach der Verordnung (EG) Nr. 1272/2008 wie auch andere Gefahrstoffe, die zu Brand- und Explosionsgefährdungen führen können, sowie Stoffe, die in gefährlicher Weise miteinander reagieren können, zu berücksichtigen,
+
+2.  
+ob Zündquellen oder Bedingungen, die Brände oder Explosionen auslösen können, vorhanden sind und
+
+3.  
+ob schädliche Auswirkungen von Bränden oder Explosionen auf die Gesundheit und Sicherheit der Beschäftigten möglich sind.
+
+Insbesondere hat er zu ermitteln, ob die Stoffe, Zubereitungen und Erzeugnisse auf Grund ihrer Eigenschaften und der Art und Weise, wie sie am Arbeitsplatz vorhanden sind oder verwendet werden, explosionsfähige Gemische bilden können. Im Fall von nicht atmosphärischen Bedingungen sind auch die möglichen Veränderungen der für den Explosionsschutz relevanten sicherheitstechnischen Kenngrößen zu ermitteln und zu berücksichtigen.
 
 (5) Bei der Gefährdungsbeurteilung sind ferner Tätigkeiten zu berücksichtigen, bei denen auch nach Ausschöpfung sämtlicher technischer Schutzmaßnahmen die Möglichkeit einer Gefährdung besteht. Dies gilt insbesondere für Instandhaltungsarbeiten, einschließlich Wartungsarbeiten. Darüber hinaus sind auch andere Tätigkeiten wie Bedien- und Überwachungsarbeiten zu berücksichtigen, wenn diese zu einer Gefährdung von Beschäftigten durch Gefahrstoffe führen können.
 
@@ -488,10 +499,10 @@ Erkenntnisse aus arbeitsmedizinischen Vorsorgeuntersuchungen nach der Verordnung
 
 (7) Der Arbeitgeber kann bei der Festlegung der Schutzmaßnahmen eine Gefährdungsbeurteilung übernehmen, die ihm der Hersteller oder Inverkehrbringer mitgeliefert hat, sofern die Angaben und Festlegungen in dieser Gefährdungsbeurteilung den Arbeitsbedingungen und Verfahren, einschließlich der Arbeitsmittel und der Gefahrstoffmenge, im eigenen Betrieb entsprechen.
 
-(8) Der Arbeitgeber hat die Gefährdungsbeurteilung unabhängig von der Zahl der Beschäftigten erstmals vor Aufnahme der Tätigkeit zu dokumentieren; dabei sind anzugeben
+(8) Der Arbeitgeber hat die Gefährdungsbeurteilung unabhängig von der Zahl der Beschäftigten erstmals vor Aufnahme der Tätigkeit zu dokumentieren. Dabei ist Folgendes anzugeben:
 
 1.  
-die Gefährdungen am Arbeitsplatz,
+die Gefährdungen bei Tätigkeiten mit Gefahrstoffen,
 
 2.  
 das Ergebnis der Prüfung auf Möglichkeiten einer Substitution nach Absatz 1 Satz 2 Nummer 4,
@@ -512,13 +523,35 @@ die unter Berücksichtigung eines Beurteilungsmaßstabs für krebserzeugende Gef
 eine Begründung, wenn von den nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnissen abgewichen wird, und
 
 6.  
-die Ermittlungsergebnisse, die belegen, dass der Arbeitsplatzgrenzwert eingehalten wird oder – bei Stoffen ohne Arbeitsplatzgrenzwert – die ergriffenen technischen Schutzmaßnahmen wirksam sind.
+die Ermittlungsergebnisse, die belegen, dass der Arbeitsplatzgrenzwert eingehalten wird oder, bei Stoffen ohne Arbeitsplatzgrenzwert, die ergriffenen technischen Schutzmaßnahmen wirksam sind.
 
-Auf eine detaillierte Dokumentation kann bei Tätigkeiten mit geringer Gefährdung nach Absatz 11 verzichtet werden. Falls in anderen Fällen auf eine detaillierte Dokumentation verzichtet wird, ist dies nachvollziehbar zu begründen. Die Gefährdungsbeurteilung ist regelmäßig zu überprüfen und bei Bedarf zu aktualisieren. Sie ist umgehend zu aktualisieren, wenn maßgebliche Veränderungen oder neue Informationen dies erfordern oder wenn sich eine Aktualisierung auf Grund der Ergebnisse arbeitsmedizinischer Vorsorgeuntersuchungen nach der Verordnung zur arbeitsmedizinischen Vorsorge als notwendig erweist.
+Im Rahmen der Dokumentation der Gefährdungsbeurteilung können auch vorhandene Gefährdungsbeurteilungen, Dokumente oder andere gleichwertige Berichte verwendet werden, die auf Grund von Verpflichtungen nach anderen Rechtsvorschriften erstellt worden sind.
 
-(9) Die Gefährdungsbeurteilung darf nur von fachkundigen Personen durchgeführt werden. Verfügt der Arbeitgeber nicht selbst über die entsprechenden Kenntnisse, so hat er sich fachkundig beraten zu lassen. Fachkundig können insbesondere die Fachkraft für Arbeitssicherheit und die Betriebsärztin oder der Betriebsarzt sein.
+(9) Bei der Dokumentation nach Absatz 8 hat der Arbeitgeber in Abhängigkeit der Feststellungen nach Absatz 4 die Gefährdungen durch gefährliche explosionsfähige Gemische besonders auszuweisen (Explosionsschutzdokument). Daraus muss insbesondere hervorgehen,
 
-(10) Der Arbeitgeber hat ein Verzeichnis der im Betrieb verwendeten Gefahrstoffe zu führen, in dem auf die entsprechenden Sicherheitsdatenblätter verwiesen wird. Das Verzeichnis muss mindestens folgende Angaben enthalten:
+1.  
+dass die Explosionsgefährdungen ermittelt und einer Bewertung unterzogen worden sind,
+
+2.  
+dass angemessene Vorkehrungen getroffen werden, um die Ziele des Explosionsschutzes zu erreichen (Darlegung eines Explosionsschutzkonzeptes),
+
+3.  
+ob und welche Bereiche entsprechend Anhang I Nummer 1.7 in Zonen eingeteilt wurden,
+
+4.  
+für welche Bereiche Explosionsschutzmaßnahmen nach § 11 und Anhang I Nummer 1 getroffen wurden,
+
+5.  
+wie die Vorgaben nach § 15 umgesetzt werden und
+
+6.  
+welche Überprüfungen nach § 7 Absatz 7 und welche Prüfungen zum Explosionsschutz nach Anhang 2 Abschnitt 3 der Betriebssicherheitsverordnung durchzuführen sind.
+
+(10) Bei Tätigkeiten mit geringer Gefährdung nach Absatz 13 kann auf eine detaillierte Dokumentation verzichtet werden. Falls in anderen Fällen auf eine detaillierte Dokumentation verzichtet wird, ist dies nachvollziehbar zu begründen. Die Gefährdungsbeurteilung ist regelmäßig zu überprüfen und bei Bedarf zu aktualisieren. Sie ist umgehend zu aktualisieren, wenn maßgebliche Veränderungen oder neue Informationen dies erfordern oder wenn sich eine Aktualisierung auf Grund der Ergebnisse der arbeitsmedizinischen Vorsorge nach der Verordnung zur arbeitsmedizinischen Vorsorge als notwendig erweist.
+
+(11) Die Gefährdungsbeurteilung darf nur von fachkundigen Personen durchgeführt werden. Verfügt der Arbeitgeber nicht selbst über die entsprechenden Kenntnisse, so hat er sich fachkundig beraten zu lassen. Fachkundig können insbesondere die Fachkraft für Arbeitssicherheit und die Betriebsärztin oder der Betriebsarzt sein.
+
+(12) Der Arbeitgeber hat ein Verzeichnis der im Betrieb verwendeten Gefahrstoffe zu führen, in dem auf die entsprechenden Sicherheitsdatenblätter verwiesen wird. Das Verzeichnis muss mindestens folgende Angaben enthalten:
 
 1.  
 Bezeichnung des Gefahrstoffs,
@@ -532,9 +565,9 @@ Angaben zu den im Betrieb verwendeten Mengenbereichen,
 4.  
 Bezeichnung der Arbeitsbereiche, in denen Beschäftigte dem Gefahrstoff ausgesetzt sein können.
 
-Die Sätze 1 und 2 gelten nicht, wenn nur Tätigkeiten mit geringer Gefährdung nach Absatz 11 ausgeübt werden. Die Angaben nach Satz 2 Nummer 1, 2 und 4 müssen allen betroffenen Beschäftigten und ihrer Vertretung zugänglich sein.
+Die Sätze 1 und 2 gelten nicht, wenn nur Tätigkeiten mit geringer Gefährdung nach Absatz 13 ausgeübt werden. Die Angaben nach Satz 2 Nummer 1, 2 und 4 müssen allen betroffenen Beschäftigten und ihrer Vertretung zugänglich sein.
 
-(11) Ergibt sich aus der Gefährdungsbeurteilung für bestimmte Tätigkeiten auf Grund
+(13) Ergibt sich aus der Gefährdungsbeurteilung für bestimmte Tätigkeiten auf Grund
 
 1.  
 der dem Gefahrstoff zugeordneten Gefährlichkeitsmerkmale,
@@ -550,7 +583,7 @@ der Arbeitsbedingungen
 
 insgesamt eine nur geringe Gefährdung der Beschäftigten und reichen die nach § 8 zu ergreifenden Maßnahmen zum Schutz der Beschäftigten aus, so müssen keine weiteren Maßnahmen des Abschnitts 4 ergriffen werden.
 
-(12) Wenn für Stoffe oder Zubereitungen keine Prüfdaten oder entsprechende aussagekräftige Informationen zur akut toxischen, reizenden, hautsensibilisierenden oder erbgutverändernden Wirkung oder zur Wirkung bei wiederholter Exposition vorliegen, sind die Stoffe oder Zubereitungen bei der Gefährdungsbeurteilung wie Gefahrstoffe mit entsprechenden Wirkungen zu behandeln.
+(14) Wenn für Stoffe oder Zubereitungen keine Prüfdaten oder entsprechende aussagekräftige Informationen zur akut toxischen, reizenden, hautsensibilisierenden oder erbgutverändernden Wirkung oder zur Wirkung bei wiederholter Exposition vorliegen, sind die Stoffe oder Zubereitungen bei der Gefährdungsbeurteilung wie Gefahrstoffe mit entsprechenden Wirkungen zu behandeln.
 
 ### § 7 Grundpflichten
 
@@ -717,20 +750,20 @@ Gefahrenbereiche abzugrenzen, in denen Beschäftigte diesen Gefahrstoffen ausges
 
 ### § 11 Besondere Schutzmaßnahmen gegen physikalisch-chemische Einwirkungen, insbesondere gegen Brand- und Explosionsgefährdungen
 
-(1) Der Arbeitgeber hat auf der Grundlage der Gefährdungsbeurteilung nach § 6 Maßnahmen zum Schutz der Beschäftigten und anderer Personen vor physikalisch-chemischen Einwirkungen zu ergreifen. Insbesondere hat er Maßnahmen zu ergreifen, um bei Tätigkeiten mit Gefahrstoffen Brand- und Explosionsgefährdungen zu vermeiden oder diese so weit wie möglich zu verringern. Dies gilt vor allem für Tätigkeiten mit explosionsgefährlichen, brandfördernden, hochentzündlichen, leichtentzündlichen und entzündlichen Stoffen oder Zubereitungen, einschließlich ihrer Lagerung. Ferner gilt dies für Tätigkeiten mit anderen Gefahrstoffen, insbesondere mit explosionsfähigen Gefahrstoffen und Gefahrstoffen, die chemisch miteinander reagieren können oder chemisch instabil sind, soweit daraus Brand- oder Explosionsgefährdungen entstehen können.
+(1) Der Arbeitgeber hat auf der Grundlage der Gefährdungsbeurteilung Maßnahmen zum Schutz der Beschäftigten und anderer Personen vor physikalisch-chemischen Einwirkungen bei Tätigkeiten mit Gefahrstoffen zu ergreifen, um Gefährdungen zu vermeiden oder diese so weit wie möglich zu verringern. Dies gilt insbesondere bei Tätigkeiten mit Gefahrstoffen, die zu Brand- und Explosionsgefährdungen führen können, mit explosionsgefährlichen, brandfördernden, hochentzündlichen, leichtentzündlichen und entzündlichen Stoffen und Zubereitungen, einschließlich ihrer Lagerung, sowie mit Stoffen, die in gefährlicher Weise chemisch miteinander reagieren können. Dabei hat der Arbeitgeber Anhang I Nummer 1 und 5 zu beachten. Die Vorschriften des Sprengstoffgesetzes und der darauf gestützten Rechtsvorschriften bleiben unberührt.
 
-(2) Zur Vermeidung von Brand- und Explosionsgefährdungen muss der Arbeitgeber Maßnahmen in der nachstehenden Rangfolge ergreifen:
+(2) Zur Vermeidung von Brand- und Explosionsgefährdungen hat der Arbeitgeber Maßnahmen nach folgender Rangfolge zu ergreifen:
 
 1.  
 gefährliche Mengen oder Konzentrationen von Gefahrstoffen, die zu Brand- oder Explosionsgefährdungen führen können, sind zu vermeiden,
 
 2.  
-Zündquellen, die Brände oder Explosionen auslösen können, sind zu vermeiden,
+Zündquellen oder Bedingungen, die Brände oder Explosionen auslösen können, sind zu vermeiden,
 
 3.  
-schädliche Auswirkungen von Bränden oder Explosionen auf die Gesundheit und Sicherheit der Beschäftigten und anderer Personen sind zu verringern.
+schädliche Auswirkungen von Bränden oder Explosionen auf die Gesundheit und Sicherheit der Beschäftigten und anderer Personen sind so weit wie möglich zu verringern.
 
-(3) Über die Bestimmungen der Absätze 1 und 2 hinaus hat der Arbeitgeber Anhang I Nummer 1 zu beachten.
+(3) Arbeitsbereiche, Arbeitsplätze, Arbeitsmittel und deren Verbindungen untereinander müssen so konstruiert, errichtet, zusammengebaut, installiert, verwendet und instand gehalten werden, dass keine Brand- und Explosionsgefährdungen auftreten.
 
 (4) Bei Tätigkeiten mit organischen Peroxiden hat der Arbeitgeber über die Bestimmungen der Absätze 1 und 2 sowie des Anhangs I Nummer 1 hinaus insbesondere Maßnahmen zu treffen, die die
 
@@ -1128,10 +1161,10 @@ entgegen § 10 Absatz 4 Satz 2 Schutzkleidung oder ein Atemschutzgerät nicht zu
 entgegen § 10 Absatz 5 Satz 1 abgesaugte Luft in einen Arbeitsbereich zurückführt,
 
 18.  
-entgegen § 11 Absatz 3 in Verbindung mit Anhang I Nummer 1.4 Absatz 2 Satz 1 das Rauchen oder die Verwendung von offenem Feuer oder offenem Licht nicht verbietet,
+entgegen § 11 Absatz 1 Satz 3 in Verbindung mit Anhang I Nummer 1.3 Absatz 2 Satz 1 das Rauchen oder die Verwendung von offenem Feuer oder offenem Licht nicht verbietet,
 
 19.  
-entgegen § 11 Absatz 3 in Verbindung mit Anhang I Nummer 1.4 Absatz 3 oder Nummer 1.5 Absatz 4 einen dort genannten Bereich nicht oder nicht richtig kennzeichnet,
+entgegen § 11 Absatz 1 Satz 3 in Verbindung mit Anhang I Nummer 1.5 Absatz 4 oder Nummer 1.6 Absatz 5 einen dort genannten Bereich nicht oder nicht richtig kennzeichnet,
 
 19a.  
 entgegen § 11 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.3 Absatz 1 Satz 1 eine Tätigkeit mit einem organischen Peroxid ausüben lässt,
@@ -1240,49 +1273,20 @@ Nummer 1
 
 **Brand- und Explosionsgefährdungen**
 
-**1.1**  
-**Grundlegende Anforderungen**
+**1.1 Anwendungsbereich**
+
+Nummer 1 gilt für Maßnahmen nach § 11 bei Tätigkeiten mit Gefahrstoffen, die zu Brand- und Explosionsgefährdungen führen können.
+
+**1.2 Grundlegende Anforderungen zum Schutz vor Brand- und Explosionsgefährdungen**
 
 (1) Der Arbeitgeber hat auf der Grundlage der Gefährdungsbeurteilung nach § 6 die organisatorischen und technischen Schutzmaßnahmen nach dem Stand der Technik festzulegen, die zum Schutz von Gesundheit und Sicherheit der Beschäftigten oder anderer Personen vor Brand- und Explosionsgefährdungen erforderlich sind.
 
-(2) Bei der Festlegung von Schutzmaßnahmen gegen Explosionsgefährdungen ist nach § 11 Absatz 2 folgende Rangfolge zu beachten, soweit dies nach dem Stand der Technik möglich ist:
+(2) Die Mengen an Gefahrstoffen sind im Hinblick auf die Brandbelastung, die Brandausbreitung und Explosionsgefährdungen so zu begrenzen, dass die Gefährdung durch Brände und Explosionen so gering wie möglich ist.
+
+(3) Zum Schutz gegen das unbeabsichtigte Freisetzen von Gefahrstoffen, die zu Brand- oder Explosionsgefährdungen führen können, sind geeignete Maßnahmen zu ergreifen. Insbesondere müssen
 
 1.  
-Verhindern der Bildung gefährlicher explosionsfähiger Gemische,
-
-2.  
-Vermeiden der Entzündung gefährlicher explosionsfähiger Gemische,
-
-3.  
-Maßnahmen zur Abschwächung der schädlichen Auswirkungen einer Explosion auf ein unbedenkliches Maß.
-
-**1.2**  
-**Maßnahmen zur Verhinderung der Bildung gefährlicher explosionsfähiger Gemische**
-
-(1) Bei der Festlegung von Schutzmaßnahmen nach Nummer 1.1 Absatz 2 Ziffer 1 sind insbesondere folgende Maßnahmen zu ergreifen:
-
-1.  
-es sind Stoffe und Zubereitungen einzusetzen, die keine explosionsfähigen Gemische bilden können,
-
-2.  
-die Bildung von gefährlichen explosionsfähigen Gemischen im Arbeitsbetrieb ist zu verhindern oder einzuschränken,
-
-3.  
-gefährliche explosionsfähige Gemische sind gefahrlos zu beseitigen, soweit dies nach dem Stand der Technik möglich ist.
-
-(2) Soweit nach der Gefährdungsbeurteilung nach § 6 erforderlich, sind die Maßnahmen zur Vermeidung gefährlicher explosionsfähiger Gemische durch geeignete technische Einrichtungen zu überwachen.
-
-(3) Die Beschäftigten sind rechtzeitig über einen Gefahrenfall zu unterrichten, so dass sie unverzüglich den Gefahrenbereich verlassen können.
-
-**1.3**  
-**Maßnahmen zum Schutz gegen Brand- und Explosionsgefährdungen**
-
-(1) Die Mengen an Gefahrstoffen sind insbesondere im Hinblick auf die Brandbelastung und die Brandausbreitung auf das notwendige Maß zu begrenzen.
-
-(2) Zum Schutz gegen das unbeabsichtigte Freisetzen von Gefahrstoffen, die zu Brand- oder Explosionsgefährdungen führen können, sind geeignete Maßnahmen zu ergreifen; insbesondere müssen
-
-1.  
-Gefahrstoffe in Arbeitsmitteln und Anlagen sicher zurückgehalten werden und Zustände wie gefährliche Über- und Unterdrücke, Überfüllungen, Korrosionen sowie andere gefährliche Zustände vermieden werden,
+Gefahrstoffe in Arbeitsmitteln und Anlagen sicher zurückgehalten werden und Zustände wie gefährliche Temperaturen, Über- und Unterdrücke, Überfüllungen, Korrosionen sowie andere gefährliche Zustände vermieden werden,
 
 2.  
 Gefahrstoffströme von einem schnell und ungehindert erreichbaren Ort aus durch Stillsetzen der Förderung unterbrochen werden können,
@@ -1290,12 +1294,11 @@ Gefahrstoffströme von einem schnell und ungehindert erreichbaren Ort aus durch 
 3.  
 gefährliche Vermischungen von Gefahrstoffen vermieden werden.
 
-(3) Frei werdende Gefahrstoffe, die zu Brand- oder Explosionsgefährdungen führen können, sind an ihrer Austritts- oder Entstehungsstelle vollständig zu erfassen und gefahrlos zu beseitigen, soweit dies nach dem Stand der Technik möglich ist. Ausgetretene flüssige Gefahrstoffe sind aufzufangen. Flüssigkeitslachen und Staubablagerungen sind gefahrlos zu beseitigen.
+Soweit nach der Gefährdungsbeurteilung erforderlich, müssen Gefahrstoffströme automatisch begrenzt oder unterbrochen werden können.
 
-(4) Kann das Auftreten gefährlicher explosionsfähiger Gemische nicht sicher verhindert werden, sind Schutzmaßnahmen zu ergreifen, um eine Zündung zu vermeiden. Dabei sind auch mögliche elektrostatische Entladungen zu berücksichtigen.
+(4) Frei werdende Gefahrstoffe, die zu Brand- oder Explosionsgefährdungen führen können, sind an ihrer Austritts- oder Entstehungsstelle gefahrlos zu beseitigen, soweit dies nach dem Stand der Technik möglich ist. Ausgetretene flüssige Gefahrstoffe sind aufzufangen. Flüssigkeitslachen und Staubablagerungen sind gefahrlos zu beseitigen.
 
-**1.4**  
-**Schutzmaßnahmen in Arbeitsbereichen mit Brand- und Explosionsgefährdungen**
+**1.3 Schutzmaßnahmen in Arbeitsbereichen mit Brand- und Explosionsgefährdungen**
 
 (1) Arbeitsbereiche mit Brand- oder Explosionsgefährdungen sind
 
@@ -1303,7 +1306,7 @@ gefährliche Vermischungen von Gefahrstoffen vermieden werden.
 mit Flucht- und Rettungswegen sowie Ausgängen in ausreichender Zahl so auszustatten, dass die Beschäftigten die Arbeitsbereiche im Gefahrenfall schnell, ungehindert und sicher verlassen und Verunglückte jederzeit gerettet werden können,
 
 2.  
-so zu gestalten und auszulegen, dass die Übertragung von Bränden und die Auswirkungen von Bränden und Explosionen auf benachbarte Bereiche vermieden werden,
+so zu gestalten und auszulegen, dass die Übertragung von Bränden und Explosionen sowie die Auswirkungen von Bränden und Explosionen auf benachbarte Bereiche vermieden werden,
 
 3.  
 mit ausreichenden Feuerlöscheinrichtungen auszustatten; die Feuerlöscheinrichtungen müssen, sofern sie nicht selbsttätig wirken, gekennzeichnet, leicht zugänglich und leicht zu handhaben sein,
@@ -1311,38 +1314,136 @@ mit ausreichenden Feuerlöscheinrichtungen auszustatten; die Feuerlöscheinricht
 4.  
 mit Angriffswegen zur Brandbekämpfung zu versehen, die so angelegt und gekennzeichnet sind, dass sie mit Lösch- und Arbeitsgeräten schnell und ungehindert zu erreichen sind.
 
-(2) In Arbeitsbereichen mit Brand- oder Explosionsgefährdungen sind das Rauchen und das Verwenden von offenem Feuer und offenem Licht zu verbieten. Unbefugten ist das Betreten von Bereichen mit Brand- oder Explosionsgefährdungen zu verbieten. Auf die Verbote muss deutlich erkennbar und dauerhaft hingewiesen sein.
+(2) In Arbeitsbereichen mit Brand- oder Explosionsgefährdungen sind das Rauchen und das Verwenden von offenem Feuer und offenem Licht zu verbieten. Unbefugten ist das Betreten von Bereichen mit Brand- oder Explosionsgefährdungen zu verbieten. Auf die Verbote muss deutlich erkennbar und dauerhaft hingewiesen werden.
 
-(3) Arbeitsbereiche, in denen gefährliche explosionsfähige Atmosphäre auftreten kann, sind an ihren Zugängen zu kennzeichnen mit dem Warnzeichen nach Anhang III der Richtlinie 1999/92/EG des Europäischen Parlaments und des Rates vom 16. Dezember 1999 über Mindestvorschriften zur Verbesserung des Gesundheitsschutzes und der Sicherheit der Arbeitnehmer, die durch explosionsfähige Atmosphären gefährdet werden können (ABl. L 23 vom 28.1.2000, S. 57, L 134 vom 7.6.2000, S. 36), die durch die Richtlinie 2007/30/EG (ABl. L 165 vom 27.6.2007, S. 21) geändert worden ist.
+(3) Durch geeignete Maßnahmen ist zu gewährleisten, dass Personen im Gefahrenfall rechtzeitig, angemessen, leicht wahrnehmbar und unmissverständlich gewarnt werden können.
 
-**1.5**  
-**Lagervorschriften**
+(4) Soweit nach der Gefährdungsbeurteilung erforderlich,
 
-(1) Gefahrstoffe dürfen nur an dafür geeigneten Orten gelagert werden. Sie dürfen nicht an solchen Orten gelagert werden, an denen dies zu einer Gefährdung der Beschäftigten oder anderer Personen führen kann.
+1.  
+muss es bei Energieausfall möglich sein, die Geräte und Schutzsysteme unabhängig vom übrigen Betriebssystem in einem sicheren Betriebszustand zu halten,
+
+2.  
+müssen im Automatikbetrieb laufende Geräte und Schutzsysteme, die vom bestimmungsgemäßen Betrieb abweichen, unter sicheren Bedingungen von Hand abgeschaltet werden können und
+
+3.  
+müssen gespeicherte Energien beim Betätigen der Notabschalteinrichtungen so schnell und sicher wie möglich abgebaut oder isoliert werden.
+
+**1.4 Organisatorische Maßnahmen**
+
+(1) Der Arbeitgeber darf Tätigkeiten mit Gefahrstoffen, die zu Brand- oder Explosionsgefährdungen führen können, nur zuverlässigen, mit den Tätigkeiten, den dabei auftretenden Gefährdungen und den erforderlichen Schutzmaßnahmen vertrauten und entsprechend unterwiesenen Beschäftigten übertragen.
+
+(2) In Arbeitsbereichen mit Gefahrstoffen, die zu Brand- oder Explosionsgefährdungen führen können, ist bei besonders gefährlichen Tätigkeiten und bei Tätigkeiten, die durch eine Wechselwirkung mit anderen Tätigkeiten Gefährdungen verursachen können, ein Arbeitsfreigabesystem mit besonderen schriftlichen Anweisungen des Arbeitgebers anzuwenden. Die Arbeitsfreigabe ist vor Beginn der Tätigkeiten von einer hierfür verantwortlichen Person zu erteilen.
+
+(3) Werden in Arbeitsbereichen, in denen Tätigkeiten mit Gefahrstoffen ausgeübt werden, die zu Brand- oder Explosionsgefährdungen führen können, Beschäftigte tätig und kommt es dabei zu einer besonderen Gefährdung, sind zuverlässige, mit den Tätigkeiten, den dabei auftretenden Gefährdungen und den erforderlichen Schutzmaßnahmen vertraute Personen mit der Aufsichtsführung zu beauftragen. Die Aufsicht führende Person hat insbesondere dafür zu sorgen, dass
+
+1.  
+mit den Tätigkeiten erst begonnen wird, wenn die in der Gefährdungsbeurteilung nach § 6 festgelegten Maßnahmen ergriffen sind und ihre Wirksamkeit nachgewiesen ist, und
+
+2.  
+ein schnelles Verlassen des Arbeitsbereichs jederzeit möglich ist.
+
+**1.5 Schutzmaßnahmen für die Lagerung**
+
+(1) Gefahrstoffe dürfen nur an dafür geeigneten Orten und in geeigneten Einrichtungen gelagert werden. Sie dürfen nicht an oder in der Nähe von Orten gelagert werden, an denen dies zu einer Gefährdung der Beschäftigten oder anderer Personen führen kann.
 
 (2) In Arbeitsräumen dürfen Gefahrstoffe nur gelagert werden, wenn die Lagerung mit dem Schutz der Beschäftigten vereinbar ist und in besonderen Einrichtungen erfolgt, die dem Stand der Technik entsprechen.
 
-(3) Gefahrstoffe dürfen nicht zusammen gelagert werden, wenn dadurch gefährliche Vermischungen entstehen können, die zu einer Erhöhung der Brand- oder Explosionsgefährdung führen. Gefahrstoffe dürfen ferner nicht zusammen gelagert werden, wenn dies bei einem Brand oder einer Explosion zu zusätzlichen Gefährdungen von Beschäftigten oder von anderen Personen führen kann.
+(3) Gefahrstoffe dürfen nicht zusammen gelagert werden, wenn dies zu einer Erhöhung der Brand- oder Explosionsgefährdung führen kann, insbesondere durch gefährliche Vermischungen, oder wenn die gelagerten Gefahrstoffe in gefährlicher Weise miteinander reagieren können. Gefahrstoffe dürfen ferner nicht zusammen gelagert werden, wenn dies bei einem Brand oder einer Explosion zu zusätzlichen Gefährdungen von Beschäftigten oder von anderen Personen führen kann.
 
-(4) Bereiche, in denen hochentzündliche, leichtentzündliche oder entzündliche Gefahrstoffe in solchen Mengen gelagert werden, dass eine erhöhte Brandgefährdung besteht, sind mit dem Warnzeichen „Warnung vor feuergefährlichen Stoffen oder hoher Temperatur“ nach Anhang II Nummer 3.2 der Richtlinie 92/58/EWG zu kennzeichnen.
+(4) Bereiche, in denen brennbare Gefahrstoffe in solchen Mengen gelagert werden, dass eine erhöhte Brandgefährdung besteht, sind mit dem Warnzeichen „Warnung vor feuergefährlichen Stoffen oder hoher Temperatur“ nach Anhang II Nummer 3.2 der Richtlinie 92/58/EWG des Rates vom 24. Juni 1992 über Mindestvorschriften für die Sicherheits- und/oder Gesundheitsschutzkennzeichnung am Arbeitsplatz (Neunte Einzelrichtlinie im Sinne von Artikel 16 Absatz 1 der Richtlinie 89/391/EWG) (ABl. L 245 vom 26.8.1992, S. 23) zu kennzeichnen.
 
-**1.6**  
-**Organisatorische Maßnahmen**
+(5) Soweit nach der Gefährdungsbeurteilung erforderlich, sind zu Lagerorten von Gefahrstoffen Schutz- und Sicherheitsabstände einzuhalten. Dabei ist ein Sicherheitsabstand der erforderliche Abstand zwischen Lagerorten und zu schützenden Personen, ein Schutzabstand ist der erforderliche Abstand zum Schutz des Lagers gegen gefährliche Einwirkungen von außen.
 
-(1) Der Arbeitgeber darf Tätigkeiten mit Gefahrstoffen, die zu Brand- oder Explosionsgefährdungen führen können, nur zuverlässigen, mit den Tätigkeiten, den dabei auftretenden Gefährdungen und den erforderlichen Schutzmaßnahmen vertrauten Beschäftigten übertragen.
+**1.6 Mindestvorschriften für den Explosionsschutz bei Tätigkeiten in Bereichen mit gefährlichen explosionsfähigen Gemischen**
 
-(2) Werden in Arbeitsbereichen, in denen Tätigkeiten mit Gefahrstoffen ausgeübt werden, die zu Brand- oder Explosionsgefährdungen führen können, mehrere Beschäftigte tätig und kommt es dabei zu einer besonderen Gefährdung, sind zuverlässige, mit den Tätigkeiten, den dabei auftretenden Gefährdungen und den erforderlichen Schutzmaßnahmen vertraute Personen mit der Aufsichtsführung zu beauftragen. Die Aufsicht führende Person hat insbesondere dafür zu sorgen, dass
+(1) Bei der Festlegung von Schutzmaßnahmen nach § 11 Absatz 2 Nummer 1 sind insbesondere Maßnahmen nach folgender Rangfolge zu ergreifen:
 
 1.  
-mit den Tätigkeiten erst begonnen wird, wenn die in der Gefährdungsbeurteilung nach § 6 festgelegten Maßnahmen ergriffen sind und ihre Wirksamkeit nachgewiesen ist,
+es sind Stoffe und Zubereitungen einzusetzen, die keine explosionsfähigen Gemische bilden können, soweit dies nach dem Stand der Technik möglich ist,
 
 2.  
-ein schnelles Verlassen des Arbeitsbereichs jederzeit möglich ist und
+ist dies nicht möglich, ist die Bildung von gefährlichen explosionsfähigen Gemischen zu verhindern oder einzuschränken, soweit dies nach dem Stand der Technik möglich ist,
 
 3.  
-Unbefugte aus Arbeitsbereichen mit Gefahrstoffen, die zu Brand- oder Explosionsgefährdungen führen können, ferngehalten werden.
+gefährliche explosionsfähige Gemische sind gefahrlos nach dem Stand der Technik zu beseitigen.
 
-(3) In Arbeitsbereichen mit Gefahrstoffen, die zu Brand- oder Explosionsgefährdungen führen können, ist bei besonders gefährlichen Tätigkeiten und bei Tätigkeiten, die durch eine Wechselwirkung mit anderen Tätigkeiten Gefährdungen verursachen können, ein Arbeitsfreigabesystem mit besonderen schriftlichen Anweisungen des Arbeitgebers anzuwenden. Die Arbeitsfreigabe ist vor Beginn der Tätigkeiten von einer hierfür verantwortlichen Person zu erteilen.
+Soweit nach der Gefährdungsbeurteilung erforderlich, sind die Maßnahmen zur Vermeidung gefährlicher explosionsfähiger Gemische durch geeignete technische Einrichtungen zu überwachen.
+
+(2) Kann nach Durchführung der Maßnahmen nach Absatz 1 die Bildung gefährlicher explosionsfähiger Gemische nicht sicher verhindert werden, hat der Arbeitgeber zu beurteilen
+
+1.  
+die Wahrscheinlichkeit und die Dauer des Auftretens gefährlicher explosionsfähiger Gemische,
+
+2.  
+die Wahrscheinlichkeit des Vorhandenseins, der Entstehung und des Wirksamwerdens von Zündquellen einschließlich elektrostatischer Entladungen und
+
+3.  
+das Ausmaß der zu erwartenden Auswirkungen von Explosionen.
+
+Treten bei explosionsfähigen Gemischen mehrere Arten von brennbaren Gasen, Dämpfen, Nebeln oder Stäuben gleichzeitig auf, so müssen die Schutzmaßnahmen auf die größte Gefährdung ausgerichtet sein.
+
+(3) Kann das Auftreten gefährlicher explosionsfähiger Gemische nicht sicher verhindert werden, sind Schutzmaßnahmen zu ergreifen, um eine Zündung zu vermeiden. Für die Festlegung von Maßnahmen und die Auswahl der Arbeitsmittel kann der Arbeitgeber explosionsgefährdete Bereiche nach Nummer 1.7 in Zonen einteilen und entsprechende Zuordnungen nach Nummer 1.8 vornehmen.
+
+(4) Kann eine Explosion nicht sicher verhindert werden, sind Maßnahmen des konstruktiven Explosionsschutzes zu ergreifen, um die Ausbreitung der Explosion zu begrenzen und die Auswirkungen der Explosion auf die Beschäftigten so gering wie möglich zu halten.
+
+(5) Arbeitsbereiche, in denen gefährliche explosionsfähige Atmosphäre auftreten kann, sind an ihren Zugängen zu kennzeichnen mit dem Warnzeichen nach Anhang III der Richtlinie 1999/92/EG des Europäischen Parlaments und des Rates vom 16. Dezember 1999 über Mindestvorschriften zur Verbesserung des Gesundheitsschutzes und der Sicherheit der Arbeitnehmer, die durch explosionsfähige Atmosphären gefährdet werden können (Fünfzehnte Einzelrichtlinie im Sinne von Artikel 16 Absatz 1 der Richtlinie 89/391/EWG) (ABl. L 23 vom 28.1.2000, S. 57, L 134 vom 7.6.2000, S. 36), die durch die Richtlinie 2007/30/EG (ABl. L 165 vom 27.6.2007, S. 21) geändert worden ist.
+
+**1.7 Zoneneinteilung explosionsgefährdeter Bereiche**
+
+**Zone 0**
+
+ist ein Bereich, in dem gefährliche explosionsfähige Atmosphäre als Gemisch aus Luft und brennbaren Gasen, Dämpfen oder Nebeln ständig, über lange Zeiträume oder häufig vorhanden ist.
+
+**Zone 1**
+
+ist ein Bereich, in dem sich im Normalbetrieb gelegentlich eine gefährliche explosionsfähige Atmosphäre als Gemisch aus Luft und brennbaren Gasen, Dämpfen oder Nebeln bilden kann.
+
+**Zone 2**
+
+ist ein Bereich, in dem im Normalbetrieb eine gefährliche explosionsfähige Atmosphäre als Gemisch aus Luft und brennbaren Gasen, Dämpfen oder Nebeln normalerweise nicht auftritt, und wenn doch, dann nur selten und für kurze Zeit.
+
+**Zone 20**
+
+ist ein Bereich, in dem gefährliche explosionsfähige Atmosphäre in Form einer Wolke aus brennbarem Staub, der in der Luft enthalten ist, ständig, über lange Zeiträume oder häufig vorhanden ist.
+
+**Zone 21**
+
+ist ein Bereich, in dem sich im Normalbetrieb gelegentlich eine gefährliche explosionsfähige Atmosphäre in Form einer Wolke aus in der Luft enthaltenem brennbaren Staub bilden kann.
+
+**Zone 22**
+
+ist ein Bereich, in dem im Normalbetrieb eine gefährliche explosionsfähige Atmosphäre in Form einer Wolke aus in der Luft enthaltenem brennbaren Staub normalerweise nicht auftritt, und wenn doch, dann nur selten und für kurze Zeit.
+
+Als Normalbetrieb gilt der Zustand, in dem Anlagen innerhalb ihrer Auslegungsparameter verwendet werden. Im Zweifelsfall ist die strengere Zone zu wählen. Schichten, Ablagerungen und Aufhäufungen von brennbarem Staub sind wie jede andere Ursache, die zur Bildung einer gefährlichen explosionsfähigen Atmosphäre führen kann, zu berücksichtigen. Die Zoneneinteilung ist in der Dokumentation der Gefährdungsbeurteilung (Explosionsschutzdokument) zu dokumentieren.
+
+**1.8 Mindestvorschriften für Einrichtungen in explosionsgefährdeten Bereichen sowie für Einrichtungen in nichtexplosionsgefährdeten Bereichen, die für den Explosionsschutz in explosionsgefährdeten Bereichen von Bedeutung sind**
+
+(1) Arbeitsmittel einschließlich Anlagen und Geräte, Schutzsysteme und den dazugehörigen Verbindungsvorrichtungen dürfen nur in Betrieb genommen werden, wenn aus der Dokumentation der Gefährdungsbeurteilung hervorgeht, dass sie in explosionsgefährdeten Bereichen sicher verwendet werden können. Dies gilt auch für Arbeitsmittel und die dazugehörigen Verbindungsvorrichtungen, die nicht Geräte oder Schutzsysteme im Sinne der Richtlinie 2014/34/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten für Geräte und Schutzsysteme zur bestimmungsgemäßen Verwendung in explosionsgefährdeten Bereichen (ABl. L 96 vom 29.3.2014, S. 309) sind, wenn ihre Verwendung in einer Einrichtung an sich eine potenzielle Zündquelle darstellt. Verbindungsvorrichtungen dürfen nicht verwechselt werden können; hierfür sind die erforderlichen Maßnahmen zu ergreifen.
+
+(2) Sofern in der Gefährdungsbeurteilung nichts anderes vorgesehen ist, sind in explosionsgefährdeten Bereichen Geräte und Schutzsysteme entsprechend den Kategorien der Richtlinie 2014/34/EU auszuwählen.
+
+(3) Insbesondere sind in explosionsgefährdeten Bereichen, die in Zonen eingeteilt sind, folgende Kategorien von Geräten zu verwenden:
+
+–  
+in Zone 0 oder Zone 20: Geräte der Kategorie 1,
+
+–  
+in Zone 1 oder Zone 21: Geräte der Kategorie 1 oder der Kategorie 2,
+
+–  
+in Zone 2 oder Zone 22: Geräte der Kategorie 1, der Kategorie 2 oder der Kategorie 3.
+
+(4) Für explosionsgefährdete Bereiche, die nicht nach Nummer 1.7 in Zonen eingeteilt sind, sind die Maßnahmen auf der Grundlage der Gefährdungsbeurteilung festzulegen und durchzuführen. Dies gilt insbesondere für
+
+1.  
+zeitlich und örtlich begrenzte Tätigkeiten, bei denen nur für die Dauer dieser Tätigkeiten mit dem Auftreten gefährlicher explosionsfähiger Atmosphäre gerechnet werden muss,
+
+2.  
+An- und Abfahrprozesse in Anlagen, die nur sehr selten oder ausnahmsweise durchgeführt werden müssen und
+
+3.  
+Errichtungs- oder Instandhaltungsarbeiten.
 
 Nummer 2
 
@@ -1981,10 +2082,10 @@ Besondere Bestimmungen
 
 A I
 
-90
+≥ 90
 
-Chloridgehalt 0,02 %
-Inerte Stoffe 10 %
+Chloridgehalt ≤ 0,02 %
+Inerte Stoffe ≤ 10 %
 
 Keine weiteren Ammoniumsalze sind erlaubt.
 
@@ -2011,7 +2112,7 @@ Kaliumsalze, Phosphate in NP-, NK- oder NPK- Düngern, Sulfate in N-Düngern; in
 
 B I
 
-70
+≤ 70
 
 Kaliumsalze, Phosphate, inerte Stoffe und andere Ammoniumsalze in NK- oder NPK-Düngern
 
@@ -2019,31 +2120,31 @@ Bei einem Massenanteil von mehr als 45 % Ammoniumnitrat darf der Massenanteil vo
 
 B II
 
-45
+≤ 45
 
 Überschüssige Nitrate
-10 %
+≤ 10 %
 
 Unbeschränkter Gehalt an verbrennlichen Bestandteilen; über den Gehalt an Ammoniumnitrat hinausgehende überschüssige Nitrate werden als Kaliumnitrat berechnet.
 
 C I
 
-80
+≤ 80
 
 Kalkstein, Dolomit oder
-Calciumcarbonat 20 %
+Calciumcarbonat ≥ 20 %
 
 Kalkstein, Dolomit oder Calciumcarbonat mit minimaler Reinheit von 90 %.
 
 C II
 
-70
+≤ 70
 
 Inerte Stoffe
 
 C III
 
-45
+≤ 45
 
 Phosphate und andere Ammoniumsalze in NP-Düngern
 
@@ -2055,7 +2156,7 @@ Der Massenanteil an Ammoniumnitrat und anderen Ammoniumsalzen darf zusammen 70 %
 
 C IV
 
-45
+≤ 45
 
 Ammoniumsulfat
 
@@ -2063,7 +2164,7 @@ Inerte Stoffe sind erlaubt.
 
 D I
 
-45
+≤ 45
 
 Harnstoff, Wasser
 
@@ -2071,15 +2172,15 @@ In wässriger Lösung.
 
 D II
 
-45
+≤ 45
 
-Überschüssige Nitrate 10 %, Kaliumsalze, Phosphate und andere Ammoniumsalze in NP-, NK- oder NPK-Düngern; Wasser
+Überschüssige Nitrate ≤ 10 %, Kaliumsalze, Phosphate und andere Ammoniumsalze in NP-, NK- oder NPK-Düngern; Wasser
 
 In wässriger Lösung oder Suspension. Überschüssige Nitrate werden als Kaliumnitrat berechnet. Der Grenzgehalt aus Spalte 2 darf sowohl in der flüssigen als auch bei Suspensionen in der festen Phase nicht überschritten werden.
 
 D III
 
-70
+≤ 70
 
 Ammoniak, Wasser
 
@@ -2087,7 +2188,7 @@ In wässriger Lösung.
 
 D IV
 
-&gt; 70 bis 93
+&gt; 70 bis ≤ 93
 
 Wasser
 
@@ -2095,10 +2196,10 @@ In wässriger Lösung.
 
 E
 
-&gt; 60 bis 85
+&gt; 60 bis ≤ 85
 
-5 % bis 30 % Wasser,
-2 % bis 8 % verbrennliche Bestandteile, 0,5 % bis 4 % Emulgator
+≥ 5 % bis ≤ 30 % Wasser,
+≥ 2 % bis ≤ 8 % verbrennliche Bestandteile, ≥ 0,5 % bis ≤ 4 % Emulgator
 
 Anorganische Salze; Zusätze.
 
