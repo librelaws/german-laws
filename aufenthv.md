@@ -2,7 +2,10 @@ Aufenthaltsverordnung (AufenthV)
 ================================
 
 Stand  
-Zuletzt geändert durch Art. 5 Abs. 1 G v. 1.6.2012 I 1224
+Zuletzt geändert durch Art. 2 V v. 3.3.2015 I 218
+
+Hinweis  
+Änderung durch Art. 1 V v. 8.4.2015 I 599 (Nr. 15) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -100,198 +103,204 @@ Unterabschnitt 1</td>
 <td>§ 17</td>
 </tr>
 <tr class="even">
+<td>§ 17a</td>
+</tr>
+<tr class="odd">
 <td><br />
 Unterabschnitt 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Befreiungen für Inhaber bestimmter Ausweise</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 18</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 19</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 20</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 21</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 22</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><br />
 Unterabschnitt 3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Befreiungen im grenzüberschreitenden Beförderungswesen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 23</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 24</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 25</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 26</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><br />
 Unterabschnitt 4</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Sonstige Befreiungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 27</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 28</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 29</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 30</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><br />
 Abschnitt 3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Visumverfahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 30a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 31</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 32</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 33</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 34</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 35</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 36</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 37</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 38</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><br />
 Abschnitt 3a</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Anerkennung von Forschungseinrichtungen und Abschluss von Aufnahmevereinbarungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 38a</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 38b</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 38c</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 38d</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 38e</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 38f</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><br />
 Abschnitt 4</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Einholung des Aufenthaltstitels im Bundesgebiet</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 39</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 40</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 41</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><br />
 Abschnitt 5</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 42</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 43</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><br />
 <strong>Kapitel 3</strong></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Gebühren</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 44</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 44a</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 45</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 45a</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 45b</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 45c</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 46</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 47</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 48</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 49</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 50</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 51</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 52</td>
+</tr>
+<tr class="odd">
+<td>§ 52a</td>
 </tr>
 <tr class="even">
 <td>§ 53</td>
@@ -339,151 +348,157 @@ Abschnitt 1</td>
 <td>§ 59</td>
 </tr>
 <tr class="even">
-<td>§ 60</td>
+<td>§ 59a</td>
 </tr>
 <tr class="odd">
-<td>§ 61</td>
+<td>§ 60</td>
 </tr>
 <tr class="even">
+<td>§ 61</td>
+</tr>
+<tr class="odd">
 <td><br />
 Abschnitt 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Datenerfassung, Datenverarbeitung und Datenschutz</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><br />
 Unterabschnitt 1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Erfassung und Übermittlung von Antragsdaten zur Herstellung von Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium nach § 4 sowie nach § 78 des Aufenthaltsgesetzes</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 61a</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 61b</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 61c</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 61d</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 61e</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 61f</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 61g</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 61h</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><br />
 Unterabschnitt 2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Führung von Ausländerdateien durch die Ausländerbehörden und die</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Auslandsvertretungen</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 62</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 63</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 64</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 65</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 66</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 67</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 68</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 69</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 70</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><br />
 Unterabschnitt 3</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Datenübermittlungen an die Ausländerbehörden</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 71</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 72</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 72a</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 73</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 74</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 75</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 76</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 76a</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><br />
 <strong>Kapitel 6</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Ordnungswidrigkeiten</strong></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 77</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 78</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><br />
 <strong>Kapitel 7</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Übergangs- und Schlussvorschriften</strong></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 79</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 80</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 81</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 82</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 82a</td>
+</tr>
+<tr class="even">
+<td>§ 82b</td>
 </tr>
 <tr class="odd">
 <td>§ 83</td>
@@ -507,7 +522,7 @@ Kapitel 1 Allgemeine Bestimmungen
 
 (1) Schengen-Staaten sind die Staaten im Sinne des § 2 Absatz 5 des Aufenthaltsgesetzes.
 
-(2) Ein Kurzaufenthalt ist ein Aufenthalt im gemeinsamen Gebiet der Schengen-Staaten von höchstens drei Monaten innerhalb einer Frist von sechs Monaten von dem Tag der ersten Einreise an.
+(2) Ein Kurzaufenthalt ist ein Aufenthalt im gemeinsamen Gebiet der Schengen-Staaten von höchstens 90 Tagen je Zeitraum von 180 Tagen, wobei der Zeitraum von 180 Tagen, der jedem Tag des Aufenthalts vorangeht, berücksichtigt wird.
 
 (3) Reiseausweise für Flüchtlinge sind Ausweise auf Grund
 
@@ -621,7 +636,7 @@ die Bescheinigung über die Wohnsitzverlegung (§ 43 Absatz 2),
 7.  
 das Standardreisedokument für die Rückführung (§ 1 Absatz 8).
 
-Passersatzpapiere nach Satz 1 Nummer 3 und 4 werden mit einer Gültigkeitsdauer von bis zu drei Jahren ausgestellt; eine Verlängerung ist nicht zulässig. Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 werden abweichend von Absatz 4 Satz 1 auch als vorläufige Dokumente ohne elektronisches Speicher- und Verarbeitungsmedium ausgegeben, deren Gültigkeit, auch nach Verlängerungen, ein Jahr nicht überschreiten darf. An Kinder bis zum vollendeten zwölften Lebensjahr werden abweichend von Absatz 4 Satz 1 Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 ohne elektronisches Speicher- und Verarbeitungsmedium ausgegeben; in begründeten Fällen können sie auch mit elektronischem Speicher- und Verarbeitungsmedium ausgegeben werden. Passersatzpapiere nach Satz 4 ohne elektronisches Speicher- und Verarbeitungsmedium sind höchstens sechs Jahre gültig, längstens jedoch bis zur Vollendung des zwölften Lebensjahres. Eine Verlängerung dieser Passersatzpapiere ist vor Ablauf der Gültigkeit bis zur Vollendung des zwölften Lebensjahres zulässig; es ist jeweils ein aktuelles Lichtbild einzubringen.
+Passersatzpapiere nach Satz 1 Nummer 3 und 4 werden mit einer Gültigkeitsdauer von bis zu drei Jahren ausgestellt; eine Verlängerung ist nicht zulässig. Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 werden abweichend von Absatz 4 Satz 1 auch als vorläufige Dokumente ohne elektronisches Speicher- und Verarbeitungsmedium ausgegeben, deren Gültigkeit, auch nach Verlängerungen, ein Jahr nicht überschreiten darf. An Kinder bis zum vollendeten zwölften Lebensjahr werden abweichend von Absatz 4 Satz 1 Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 ohne elektronisches Speicher- und Verarbeitungsmedium ausgegeben; in begründeten Fällen können sie auch mit elektronischem Speicher- und Verarbeitungsmedium ausgegeben werden. Passersatzpapiere nach Satz 4 ohne elektronisches Speicher- und Verarbeitungsmedium sind höchstens sechs Jahre gültig, längstens jedoch bis zur Vollendung des zwölften Lebensjahres. Eine Verlängerung dieser Passersatzpapiere ist vor Ablauf der Gültigkeit bis zur Vollendung des zwölften Lebensjahres zulässig; es ist jeweils ein aktuelles Lichtbild einzubringen. Passersatzpapiere nach Satz 1 Nummer 3 und 4, die an heimatlose Ausländer nach dem Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet ausgestellt werden, können mit einer Gültigkeitsdauer von bis zu zehn Jahren ausgestellt werden.
 
 (2) Passersatzpapiere nach Absatz 1 Satz 1 Nummer 1, 3 und 4 enthalten neben der Angabe der ausstellenden Behörde, dem Tag der Ausstellung, dem letzten Tag der Gültigkeitsdauer und der Seriennummer sowie dem Lichtbild und der Unterschrift des Inhabers des Passersatzpapiers ausschließlich folgende sichtbar aufgebrachte Angaben über den Inhaber des Passersatzpapiers:
 
@@ -731,7 +746,7 @@ Im Inland darf ein Reiseausweis für Ausländer nach Maßgabe des § 5 ausgestel
 wenn der Ausländer eine Aufenthaltserlaubnis, Niederlassungserlaubnis oder Erlaubnis zum Daueraufenthalt-EG besitzt,
 
 2.  
-wenn dem Ausländer eine Aufenthaltserlaubnis, Niederlassungserlaubnis oder Erlaubnis zum Daueraufenthalt-EG erteilt wird, sobald er als Inhaber des Reiseausweises für Ausländer die Passpflicht erfüllt,
+wenn dem Ausländer eine Aufenthaltserlaubnis, Niederlassungserlaubnis oder Erlaubnis zum Daueraufenthalt – EU erteilt wird, sobald er als Inhaber des Reiseausweises für Ausländer die Passpflicht erfüllt,
 
 3.  
 um dem Ausländer die endgültige Ausreise aus dem Bundesgebiet zu ermöglichen oder,
@@ -785,7 +800,18 @@ In den Reiseausweis für Ausländer können zur Vermeidung von Missbrauch bei od
 
 ### § 12 Grenzgängerkarte
 
-(1) Einem Ausländer kann mit Zustimmung der Bundesagentur für Arbeit eine Grenzgängerkarte erteilt werden, wenn dieser im Bundesgebiet eine Beschäftigung ausübt, gemeinsam mit seinem Ehegatten oder Lebenspartner, der Deutscher oder sonstiger Unionsbürger ist und mit dem er in familiärer Gemeinschaft lebt, seinen Wohnsitz vom Bundesgebiet in einen angrenzenden Mitgliedstaat der Europäischen Union verlegt hat und mindestens einmal wöchentlich an diesen Wohnsitz zurückkehrt. Die Grenzgängerkarte kann bei der erstmaligen Erteilung bis zu einer Gültigkeitsdauer von zwei Jahren ausgestellt werden. Sie kann für jeweils zwei Jahre verlängert werden, solange die Ausstellungsvoraussetzungen weiterhin vorliegen.
+(1) Einem Ausländer, der sich in einem an das Bundesgebiet angrenzenden Staat rechtmäßig aufhält und der mindestens einmal wöchentlich dorthin zurückkehrt, kann eine Grenzgängerkarte für die Ausübung einer Erwerbstätigkeit oder eines Studiums im Bundesgebiet erteilt werden, wenn er
+
+1.  
+in familiärer Lebensgemeinschaft mit seinem deutschen Ehegatten oder Lebenspartner lebt,
+
+2.  
+in familiärer Lebensgemeinschaft mit seinem Ehegatten oder Lebenspartner lebt, der Unionsbürger ist und als Grenzgänger im Bundesgebiet eine Erwerbstätigkeit ausübt oder ohne Grenzgänger zu sein seinen Wohnsitz vom Bundesgebiet in einen an Deutschland angrenzenden Staat verlegt hat, oder
+
+3.  
+die Voraussetzungen für die Erteilung eines Aufenthaltstitels zur Ausübung einer Erwerbstätigkeit oder eines Studiums nur deshalb nicht erfüllt, weil er Grenzgänger ist.
+
+Eine Grenzgängerkarte zur Ausübung einer Beschäftigung im Bundesgebiet darf nur erteilt werden, wenn die Bundesagentur für Arbeit der Ausübung der Beschäftigung zugestimmt hat oder die Ausübung der Beschäftigung ohne Zustimmung der Bundesagentur für Arbeit zulässig ist. Im Fall der selbständigen Tätigkeit kann die Grenzgängerkarte unabhängig vom Vorliegen der Voraussetzungen des § 21 des Aufenthaltsgesetzes erteilt werden. Für eine Grenzgängerkarte zur Ausübung eines Studiums gilt § 16 Absatz 3 des Aufenthaltsgesetzes entsprechend. Einem Ausländer, der Beamter ist, in einem an das Bundesgebiet angrenzenden Staat wohnt und mindestens einmal wöchentlich dorthin zurückkehrt, wird eine Grenzgängerkarte zur Erfüllung seiner Dienstpflichten im Bundesgebiet erteilt. Die Grenzgängerkarte kann bei der erstmaligen Erteilung bis zu einer Gültigkeitsdauer von zwei Jahren ausgestellt werden. Sie kann für jeweils zwei Jahre verlängert werden, solange die Ausstellungsvoraussetzungen weiterhin vorliegen.
 
 (2) Staatsangehörigen der Schweiz wird unter den Voraussetzungen und zu den Bedingungen eine Grenzgängerkarte ausgestellt und verlängert, die in Artikel 7 Abs. 2, Artikel 13 Abs. 2, Artikel 28 Abs. 1 und Artikel 32 Abs. 2 des Anhangs I zum Abkommen vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit (BGBl. 2001 II S. 810) genannt sind.
 
@@ -851,7 +877,11 @@ Die Inhaber der in Anlage A zu dieser Verordnung genannten Dokumente sind für d
 
 (1) Für die Einreise und den Kurzaufenthalt sind die Staatsangehörigen der in Anhang II der Verordnung (EG) Nr. 539/2001 in der jeweils geltenden Fassung genannten Staaten vom Erfordernis eines Aufenthaltstitels nicht befreit, sofern sie im Bundesgebiet eine Erwerbstätigkeit ausüben.
 
-(2) Absatz 1 findet keine Anwendung, soweit der Ausländer im Bundesgebiet bis zu drei Monate innerhalb von zwölf Monaten lediglich Tätigkeiten ausübt, die nach § 16 Satz 1 der Beschäftigungsverordnung nicht als Beschäftigung gelten, oder diesen entsprechende selbständige Tätigkeiten ausübt. Die zeitliche Beschränkung des Satzes 1 gilt nicht für Kraftfahrer im grenzüberschreitenden Straßenverkehr, die lediglich Güter oder Personen durch das Bundesgebiet hindurchbefördern, ohne dass die Güter oder Personen das Transportfahrzeug wechseln. Selbständige Tätigkeiten nach den Sätzen 1 und 2 dürfen unter den dort genannten Voraussetzungen ohne den nach § 4 Abs. 3 Satz 1 des Aufenthaltsgesetzes erforderlichen Aufenthaltstitel ausgeübt werden.
+(2) Absatz 1 findet keine Anwendung, soweit der Ausländer im Bundesgebiet bis zu 90 Tage innerhalb von zwölf Monaten lediglich Tätigkeiten ausübt, die nach § 30 Nummer 2 und 3 der Beschäftigungsverordnung nicht als Beschäftigung gelten, oder diesen entsprechende selbständige Tätigkeiten ausübt. Die zeitliche Beschränkung des Satzes 1 gilt nicht für Kraftfahrer im grenzüberschreitenden Straßenverkehr, die lediglich Güter oder Personen durch das Bundesgebiet hindurchbefördern, ohne dass die Güter oder Personen das Transportfahrzeug wechseln. Die Frist nach Satz 1 beträgt für Tätigkeiten nach § 30 Nummer 1 der Beschäftigungsverordnung 90 Tage innerhalb von 180 Tagen. Selbständige Tätigkeiten nach den Sätzen 1 und 2 dürfen unter den dort genannten Voraussetzungen ohne den nach § 4 Abs. 3 Satz 1 des Aufenthaltsgesetzes erforderlichen Aufenthaltstitel ausgeübt werden.
+
+### § 17a Befreiung zur Dienstleistungserbringung für langfristig Aufenthaltsberechtigte
+
+Ausländer, die in einem anderen Mitgliedstaat der Europäischen Union die Rechtsstellung eines langfristig Aufenthaltsberechtigten innehaben, sind für die Einreise und den Aufenthalt im Bundesgebiet zum Zweck einer Beschäftigung nach § 30 Nummer 3 der Beschäftigungsverordnung für einen Zeitraum von bis zu 90 Tagen innerhalb von zwölf Monaten vom Erfordernis eines Aufenthaltstitels befreit.
 
 Unterabschnitt 2 Befreiungen für Inhaber bestimmter Ausweise
 ------------------------------------------------------------
@@ -888,7 +918,7 @@ von Ausweisen für Mitglieder und Bedienstete der Organe der Europäischen Gemei
 von Ausweisen für Abgeordnete der Parlamentarischen Versammlung des Europarates,
 
 3.  
-von vatikanischen Pässen, wenn sie sich nicht länger als drei Monate im Bundesgebiet aufhalten,
+von vatikanischen Pässen, wenn sie sich nicht länger als 90 Tage im Bundesgebiet aufhalten,
 
 4.  
 von Passierscheinen zwischenstaatlicher Organisationen, die diese den in ihrem Auftrag reisenden Personen ausstellen, soweit die Bundesrepublik Deutschland auf Grund einer Vereinbarung mit der ausstellenden Organisation verpflichtet ist, dem Inhaber die Einreise und den Aufenthalt zu gestatten.
@@ -937,22 +967,7 @@ zu einem anderen Flughafen wechselt.
 
 ### § 24 Befreiung für Seeleute
 
-(1) Ziviles Schiffspersonal ist für die Einreise und den Aufenthalt vom Erfordernis eines Aufenthaltstitels befreit, sofern es sich handelt um
-
-1.  
-Lotsen im Sinne des § 1 des Seelotsgesetzes in Ausübung ihres Berufes, die sich durch amtliche Papiere über ihre Person und ihre Lotseneigenschaft ausweisen,
-
-2. Ausländer, die
-
-  
-a)  
-ein deutsches Seefahrtbuch besitzen,
-
-b)  
-Staatsangehörige eines in Anhang II der Verordnung (EG) Nr. 539/2001 genannten Staates sind und einen Pass oder Passersatz dieses Staates besitzen und
-
-c)  
-sich lediglich als ziviles Schiffspersonal eines Schiffes, das berechtigt ist, die Bundesflagge zu führen, an Bord oder im Bundesgebiet aufhalten.
+(1) Seelotsen, die in Ausübung ihres Berufes handeln und sich durch amtliche Papiere über ihre Person und Seelotseneigenschaft ausweisen, benötigen für ihre Einreise und ihren Aufenthalt keinen Aufenthaltstitel.
 
 (2) Ziviles Schiffspersonal eines in der See- oder Küstenschifffahrt oder in der Rhein-Seeschifffahrt verkehrenden Schiffes kann, sofern es nicht unter Absatz 1 fällt, für den Aufenthalt im Hafenort während der Liegezeit des Schiffes vom Erfordernis eines Aufenthaltstitels befreit werden, sofern es die Passpflicht erfüllt. Zuständig sind die mit der Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden. Zum Nachweis der Befreiung wird ein Passierschein ausgestellt.
 
@@ -963,17 +978,30 @@ sich lediglich als ziviles Schiffspersonal eines Schiffes, das berechtigt ist, d
 (1) Ausländer, die
 
 1.  
-auf einem von einem Unternehmen mit Sitz im Ausland betriebenen Schiff in der Rhein- und Donauschifffahrt einschließlich der Schifffahrt auf dem Main-Donau-Kanal tätig sind,
+auf einem von einem Unternehmen mit Sitz im Hoheitsgebiet eines Schengen-Staates betriebenen Schiff in der grenzüberschreitenden Binnenschifffahrt tätig sind,
+
+2.  
+im Besitz eines gültigen Aufenthaltstitels des Staates sind, in dem das Unternehmen seinen Sitz hat und dort der Aufenthaltstitel die Tätigkeit in der Binnenschifffahrt erlaubt und
+
+3.  
+in die Besatzungsliste dieses Schiffes eingetragen sind,
+
+sind für die Einreise und für Aufenthalte bis zu sechs Monaten innerhalb eines Zeitraums von zwölf Monaten seit der ersten Einreise vom Erfordernis eines Aufenthaltstitels befreit.
+
+(2) Ausländer, die
+
+1.  
+auf einem von einem Unternehmen mit Sitz im Ausland betriebenen Schiff in der Donauschifffahrt einschließlich der Schifffahrt auf dem Main-Donau-Kanal tätig sind,
 
 2.  
 in die Besatzungsliste dieses Schiffes eingetragen sind und
 
 3.  
-einen ausländischen Pass oder Passersatz, in dem die Eigenschaft als Rheinschiffer bescheinigt ist, oder einen Binnenschifffahrtsausweis besitzen,
+einen Binnenschifffahrtsausweis besitzen,
 
-sind für die Einreise und für Aufenthalte bis zu drei Monaten innerhalb eines Zeitraums von zwölf Monaten seit der ersten Einreise vom Erfordernis eines Aufenthaltstitels befreit.
+sind für die Einreise und für Aufenthalte bis zu 90 Tagen innerhalb eines Zeitraums von zwölf Monaten seit der ersten Einreise vom Erfordernis eines Aufenthaltstitels befreit.
 
-(2) Die Befreiung nach Absatz 1 gilt für die Einreise und den Aufenthalt
+(3) Die Befreiung nach Absatz 1 und 2 gilt für die Einreise und den Aufenthalt
 
 1.  
 an Bord,
@@ -986,7 +1014,7 @@ bei Reisen zwischen dem Grenzübergang und dem Schiffsliegeort oder zwischen Sch
 
 im Zusammenhang mit der grenzüberschreitenden Beförderung von Personen oder Sachen sowie in der Donauschifffahrt zur Weiterbeförderung derselben Personen oder Sachen.
 
-(3) Die Absätze 1 und 2 gelten entsprechend für die in Binnenschifffahrtsausweisen eingetragenen Familienangehörigen.
+(4) Die Absätze 2 und 3 gelten entsprechend für die in Binnenschifffahrtsausweisen eingetragenen Familienangehörigen.
 
 ### § 26 Transit ohne Einreise; Flughafentransitvisum
 
@@ -1055,26 +1083,35 @@ Abschnitt 3 Visumverfahren
 
 ### § 30a Bestimmung der zuständigen Stelle bei der Beteiligung im Visumverfahren und bei der Unterrichtung über die Erteilung von Visa
 
-Die zuständige Stelle im Sinne des § 73 Absatz 1 und des § 73a Absatz 1 des Aufenthaltsgesetzes ist das Auswärtige Amt.
+Die zuständige Stelle im Sinne des § 73 Absatz 1 und des § 73a Absatz 1 des Aufenthaltsgesetzes ist das Bundesverwaltungsamt.
 
 ### § 31 Zustimmung der Ausländerbehörde zur Visumerteilung
 
 (1) Ein Visum bedarf der vorherigen Zustimmung der für den vorgesehenen Aufenthaltsort zuständigen Ausländerbehörde, wenn
 
 1.  
-der Ausländer sich länger als drei Monate im Bundesgebiet aufhalten will,
+der Ausländer sich zu anderen Zwecken als zur Erwerbstätigkeit oder zur Arbeitsplatzsuche länger als 90 Tage im Bundesgebiet aufhalten will,
 
 2.  
-der Ausländer im Bundesgebiet eine Erwerbstätigkeit ausüben will oder
+der Ausländer im Bundesgebiet
+
+a)  
+eine selbständige Tätigkeit ausüben will,
+
+b)  
+eine Beschäftigung nach § 18 Absatz 4 Satz 2 des Aufenthaltsgesetzes ausüben will oder
+
+c)  
+eine sonstige Beschäftigung ausüben will und wenn er sich entweder bereits zuvor auf der Grundlage einer Aufenthaltserlaubnis, einer Blauen Karte EU, einer Niederlassungserlaubnis, einer Erlaubnis zum Daueraufenthalt-EG, einer Duldung oder einer Aufenthaltsgestattung im Bundesgebiet aufgehalten hat oder wenn gegen ihn aufenthaltsbeendende Maßnahmen erfolgt sind oder
 
 3.  
 die Daten des Ausländers nach § 73 Absatz 1 Satz 1 des Aufenthaltsgesetzes an die Sicherheitsbehörden übermittelt werden, soweit das Bundesministerium des Innern die Zustimmungsbedürftigkeit unter Berücksichtigung der aktuellen Sicherheitslage angeordnet hat.
 
-Im Fall des Satzes 1 Nr. 3 gilt die Zustimmung als erteilt, wenn nicht die Ausländerbehörde der Erteilung des Visums binnen zehn Tagen nach Übermittlung der Daten des Visumantrages an sie widerspricht oder die Ausländerbehörde im Einzelfall innerhalb dieses Zeitraums der Auslandsvertretung mitgeteilt hat, dass die Prüfung nicht innerhalb dieser Frist abgeschlossen wird. Dasselbe gilt bei Anträgen auf Erteilung eines Visums zu einem Aufenthalt nach § 16 Abs. 1 oder 1a oder nach § 20 des Aufenthaltsgesetzes, soweit das Visum nicht nach § 34 Nummer 3 und 4 zustimmungsfrei ist, mit der Maßgabe, dass die Frist drei Wochen und zwei Werktage beträgt.
+Im Fall des Satzes 1 Nr. 3 gilt die Zustimmung als erteilt, wenn nicht die Ausländerbehörde der Erteilung des Visums binnen zehn Tagen nach Übermittlung der Daten des Visumantrages an sie widerspricht oder die Ausländerbehörde im Einzelfall innerhalb dieses Zeitraums der Auslandsvertretung mitgeteilt hat, dass die Prüfung nicht innerhalb dieser Frist abgeschlossen wird. Dasselbe gilt bei Anträgen auf Erteilung eines Visums zu einem Aufenthalt nach § 16 Abs. 1 oder 1a oder nach § 20 des Aufenthaltsgesetzes, soweit das Visum nicht nach § 34 Nummer 3 bis 5 zustimmungsfrei ist, mit der Maßgabe, dass die Frist drei Wochen und zwei Werktage beträgt.
 
 (2) Wird der Aufenthalt des Ausländers von einer öffentlichen Stelle mit Sitz im Bundesgebiet vermittelt, kann die Zustimmung zur Visumerteilung auch von der Ausländerbehörde erteilt werden, die für den Sitz der vermittelnden Stelle zuständig ist. Im Visum ist ein Hinweis auf diese Vorschrift aufzunehmen und die Ausländerbehörde zu bezeichnen.
 
-(3) Die Ausländerbehörde kann insbesondere in dringenden Fällen, im Fall eines Anspruchs auf Erteilung eines Aufenthaltstitels, eines öffentlichen Interesses oder in den Fällen der §§ 18, 19 oder 19a des Aufenthaltsgesetzes der Visumerteilung vor der Beantragung des Visums bei der Auslandsvertretung zustimmen (Vorabzustimmung).
+(3) Die Ausländerbehörde kann insbesondere im Fall eines Anspruchs auf Erteilung eines Aufenthaltstitels, eines öffentlichen Interesses, in den Fällen der §§ 18, 19, 19a oder 21 des Aufenthaltsgesetzes, in denen auf Grund von Absatz 1 Satz 1 Nummer 2 eine Zustimmung der Ausländerbehörde vorgesehen ist, oder in dringenden Fällen der Visumerteilung vor der Beantragung des Visums bei der Auslandsvertretung zustimmen (Vorabzustimmung).
 
 ### § 32 Zustimmung der obersten Landesbehörde
 
@@ -1089,7 +1126,7 @@ Abweichend von § 31 bedarf das Visum nicht der Zustimmung der Ausländerbehörd
 Abweichend von § 31 bedarf das Visum nicht der Zustimmung der Ausländerbehörde bei
 
 1.  
-Wissenschaftlern, die für eine wissenschaftliche Tätigkeit von deutschen Wissenschaftsorganisationen oder einer deutschen öffentlichen Stelle vermittelt werden und in diesem Zusammenhang in der Bundesrepublik Deutschland ein Stipendium aus öffentlichen Mitteln erhalten, sowie ihren miteinreisenden Ehegatten oder Lebenspartnern und minderjährigen ledigen Kindern,
+Wissenschaftlern, die für eine wissenschaftliche Tätigkeit von deutschen Wissenschaftsorganisationen oder einer deutschen öffentlichen Stelle vermittelt werden und in diesem Zusammenhang in der Bundesrepublik Deutschland ein Stipendium aus öffentlichen Mitteln erhalten,
 
 2.  
 a)  
@@ -1101,15 +1138,24 @@ Ingenieuren und Technikern als technischen Mitarbeitern im Forschungsteam eines 
 c)  
 Lehrpersonen und wissenschaftlichen Mitarbeitern,
 
-die auf Einladung an einer Hochschule oder einer öffentlich-rechtlichen, überwiegend aus öffentlichen Mitteln finanzierten oder als öffentliches Unternehmen in privater Rechtsform geführten Forschungseinrichtung tätig werden, sowie ihren miteinreisenden Ehegatten oder Lebenspartnern und minderjährigen ledigen Kindern,
+die auf Einladung an einer Hochschule oder einer öffentlich-rechtlichen, überwiegend aus öffentlichen Mitteln finanzierten oder als öffentliches Unternehmen in privater Rechtsform geführten Forschungseinrichtung tätig werden,
 
 3.  
-Ausländern, die für ein Studium von einer deutschen Wissenschaftsorganisation oder einer deutschen öffentlichen Stelle vermittelt werden, die Stipendien auch aus öffentlichen Mitteln vergibt, und in diesem Zusammenhang in der Bundesrepublik Deutschland ein Stipendium auf Grund eines auch für öffentliche Mittel verwendeten Vergabeverfahrens erhalten; dasselbe gilt für ihre miteinreisenden Ehegatten oder Lebenspartner und minderjährigen ledigen Kinder oder
+Ausländern, die für ein Studium von einer deutschen Wissenschaftsorganisation oder einer deutschen öffentlichen Stelle vermittelt werden, die Stipendien auch aus öffentlichen Mitteln vergibt, und in diesem Zusammenhang in der Bundesrepublik Deutschland ein Stipendium auf Grund eines auch für öffentliche Mittel verwendeten Vergabeverfahrens erhalten,
 
 4.  
-Forschern, die eine Aufnahmevereinbarung nach § 38f mit einer vom Bundesamt für Migration und Flüchtlinge anerkannten Forschungseinrichtung abgeschlossen haben, sowie ihren miteinreisenden Ehegatten oder Lebenspartnern und minderjährigen ledigen Kindern.
+Forschern, die eine Aufnahmevereinbarung nach § 38f mit einer vom Bundesamt für Migration und Flüchtlinge anerkannten Forschungseinrichtung abgeschlossen haben,
 
-Satz 1 gilt entsprechend, wenn der Aufenthalt aus Mitteln der Europäischen Union gefördert wird.
+5.  
+Ausländern, die als Absolventen deutscher Auslandsschulen über eine deutsche Hochschulzugangsberechtigung verfügen und ein Studium (§ 16 Absatz 1 des Aufenthaltsgesetzes) im Bundesgebiet aufnehmen,
+
+6.  
+Ausländern, die an einer deutschen Auslandsschule eine internationale Hochschulzugangsberechtigung oder eine nationale Hochschulzugangsberechtigung in Verbindung mit dem Deutschen Sprachdiplom der Kultusministerkonferenz erlangt haben und ein Studium (§ 16 Absatz 1 des Aufenthaltsgesetzes) im Bundesgebiet aufnehmen, oder
+
+7.  
+Ausländern, die an einer mit deutschen Mitteln geförderten Schule im Ausland eine nationale Hochschulzugangsberechtigung in Verbindung mit dem Deutschen Sprachdiplom der Kultusministerkonferenz erlangt haben und ein Studium (§ 16 Absatz 1 des Aufenthaltsgesetzes) im Bundesgebiet aufnehmen.
+
+Satz 1 gilt entsprechend, wenn der Aufenthalt aus Mitteln der Europäischen Union gefördert wird. Satz 1 gilt in den Fällen der Nummern 1 bis 4 entsprechend für den mit- oder nacheinreisenden Ehegatten oder Lebenspartner des Ausländers, wenn die Ehe oder Lebenspartnerschaft bereits bei der Einreise des Ausländers in das Bundesgebiet bestand, sowie für die minderjährigen ledigen Kinder des Ausländers.
 
 ### § 35 Zustimmungsfreiheit bei bestimmten Arbeitsaufenthalten und Praktika
 
@@ -1125,7 +1171,7 @@ eine von der Bundesagentur für Arbeit vermittelte Beschäftigung bis zu einer H
 ohne Begründung eines gewöhnlichen Aufenthalts im Bundesgebiet als Besatzungsmitglieder eines Seeschiffes tätig werden, das berechtigt ist, die Bundesflagge zu führen, und das in das internationale Seeschifffahrtsregister eingetragen ist (§ 12 des Flaggenrechtsgesetzes),
 
 4.  
-auf Grund einer zwischenstaatlichen Vereinbarung im Rahmen eines Ferienaufenthalts von bis zu einem Jahr eine Beschäftigung ausüben dürfen oder
+auf Grund einer zwischenstaatlichen Vereinbarung im Rahmen eines Ferienaufenthalts von bis zu einem Jahr eine Erwerbstätigkeit ausüben dürfen oder
 
 5.  
 eine Tätigkeit bis zu längstens drei Monaten ausüben wollen, für die sie nur ein Stipendium erhalten, das ausschließlich aus öffentlichen Mitteln gezahlt wird.
@@ -1136,7 +1182,7 @@ Abweichend von § 31 bedarf das Visum nicht der Zustimmung der Ausländerbehörd
 
 ### § 37 Zustimmungsfreiheit in sonstigen Fällen
 
-Abweichend von § 31 Abs. 1 Satz 1 Nr. 1 und 2 bedarf das Visum nicht der Zustimmung der Ausländerbehörde für Ausländer, die im Bundesgebiet bis zu drei Monate innerhalb von zwölf Monaten lediglich Tätigkeiten, die nach § 16 Satz 1 der Beschäftigungsverordnung nicht als Beschäftigung gelten, oder diesen entsprechende selbständige Tätigkeiten ausüben wollen.
+Abweichend von § 31 Abs. 1 Satz 1 Nr. 1 und 2 bedarf das Visum nicht der Zustimmung der Ausländerbehörde für Ausländer, die im Bundesgebiet lediglich Tätigkeiten, die nach § 30 Nummer 1 bis 3 der Beschäftigungsverordnung nicht als Beschäftigung gelten, oder diesen entsprechende selbständige Tätigkeiten ausüben wollen.
 
 ### § 38 Ersatzzuständigkeit der Ausländerbehörde
 
@@ -1151,7 +1197,7 @@ Abschnitt 3a Anerkennung von Forschungseinrichtungen und Abschluss von Aufnahmev
 
 (1) Eine öffentliche oder private Einrichtung soll auf Antrag zum Abschluss von Aufnahmevereinbarungen nach § 20 Abs. 1 Nr. 1 des Aufenthaltsgesetzes anerkannt werden, wenn sie im Inland Forschung betreibt. Forschung ist jede systematisch betriebene schöpferische und rechtlich zulässige Tätigkeit, die den Zweck verfolgt, den Wissensstand zu erweitern, einschließlich der Erkenntnisse über den Menschen, die Kultur und die Gesellschaft, oder solches Wissen einzusetzen, um neue Anwendungsmöglichkeiten zu finden.
 
-(2) Der Antrag auf Anerkennung ist schriftlich beim Bundesamt für Migration und Flüchtlinge zu stellen. Bei öffentlichen Einrichtungen entfallen die Angaben zu Satz 1 Nummer 4 und 5. Er hat folgende Angaben zu enthalten:
+(2) Der Antrag auf Anerkennung ist schriftlich beim Bundesamt für Migration und Flüchtlinge zu stellen. Er hat folgende Angaben zu enthalten:
 
 1.  
 Name, Rechtsform und Anschrift der Forschungseinrichtung,
@@ -1168,7 +1214,7 @@ einen Abdruck der Satzung, des Gesellschaftsvertrages, des Stiftungsgeschäfts, 
 5.  
 Angaben zur Tätigkeit der Forschungseinrichtung, aus denen hervorgeht, dass sie im Inland Forschung betreibt.
 
-Im Antragsverfahren sind amtlich vorgeschriebene Vordrucke, Eingabemasken im Internet oder Dateiformate, die mit allgemein verbreiteten Datenverarbeitungsprogrammen erzeugt werden können, zu verwenden. Das Bundesamt für Migration und Flüchtlinge stellt die jeweils gültigen Vorgaben nach Satz 3 auch im Internet zur Verfügung.
+Bei öffentlichen Einrichtungen sind die Angaben zu Satz 2 Nummer 4 und 5 nicht erforderlich. Im Antragsverfahren sind amtlich vorgeschriebene Vordrucke, Eingabemasken im Internet oder Dateiformate, die mit allgemein verbreiteten Datenverarbeitungsprogrammen erzeugt werden können, zu verwenden. Das Bundesamt für Migration und Flüchtlinge stellt die jeweils gültigen Vorgaben nach Satz 3 auch im Internet zur Verfügung.
 
 (3) Die Anerkennung kann von der Abgabe einer allgemeinen Erklärung nach § 20 Abs. 3 des Aufenthaltsgesetzes und dem Nachweis der hinreichenden finanziellen Leistungsfähigkeit zur Erfüllung einer solchen Verpflichtung abhängig gemacht werden, wenn die Tätigkeit der Forschungseinrichtung nicht überwiegend aus öffentlichen Mitteln finanziert wird. Das Bundesamt für Migration und Flüchtlinge kann auf Antrag feststellen, dass eine Forschungseinrichtung überwiegend aus öffentlichen Mitteln finanziert wird oder dass die Durchführung eines bestimmten Forschungsprojekts im öffentlichen Interesse liegt. Eine Liste der wirksamen Feststellungen nach Satz 2 kann das Bundesamt für Migration und Flüchtlinge im Internet veröffentlichen.
 
@@ -1289,7 +1335,7 @@ eine Bestimmung, wonach die Aufnahmevereinbarung unwirksam wird, wenn dem Auslä
 feststeht, dass das Forschungsvorhaben durchgeführt wird, insbesondere, dass über seine Durchführung von den zuständigen Stellen innerhalb der Forschungseinrichtung nach Prüfung seines Zwecks, seiner Dauer und seiner Finanzierung abschließend entschieden worden ist,
 
 2.  
-der Ausländer, der die Forschung in dem Vorhaben, das in der Aufnahmevereinbarung bezeichnet ist, durchführen soll, dafür geeignet und befähigt ist, über den in der Regel hierfür notwendigen Hochschulabschluss verfügt, der Zugang zu Doktoratsprogrammen ermöglicht, und
+der Ausländer, der das Forschungsvorhaben durchführen soll, dafür geeignet und befähigt ist, über den in der Regel hierfür notwendigen Hochschulabschluss verfügt, der Zugang zu Doktoratsprogrammen ermöglicht, und
 
 3.  
 der Lebensunterhalt des Ausländers gesichert ist.
@@ -1326,7 +1372,7 @@ er seit mindestens 18 Monaten eine Blaue Karte EU besitzt, die von einem anderen
 
 ### § 40 Verlängerung eines visumfreien Kurzaufenthalts
 
-Staatsangehörige der in Anhang II der Verordnung (EG) Nr. 539/2001 aufgeführten Staaten können nach der Einreise eine Aufenthaltserlaubnis für einen weiteren Aufenthalt von längstens drei Monaten, der sich an einen Kurzaufenthalt anschließt, einholen, wenn
+Staatsangehörige der in Anhang II der Verordnung (EG) Nr. 539/2001 aufgeführten Staaten können nach der Einreise eine Aufenthaltserlaubnis für einen weiteren Aufenthalt von längstens 90 Tagen, der sich an einen Kurzaufenthalt anschließt, einholen, wenn
 
 1.  
 ein Ausnahmefall im Sinne des Artikels 20 Abs. 2 des Schengener Durchführungsübereinkommens vorliegt und
@@ -1338,9 +1384,9 @@ der Ausländer im Bundesgebiet keine Erwerbstätigkeit mit Ausnahme der in § 17
 
 (1) Staatsangehörige von Australien, Israel, Japan, Kanada, der Republik Korea, von Neuseeland und der Vereinigten Staaten von Amerika können auch für einen Aufenthalt, der kein Kurzaufenthalt ist, visumfrei in das Bundesgebiet einreisen und sich darin aufhalten. Ein erforderlicher Aufenthaltstitel kann im Bundesgebiet eingeholt werden.
 
-(2) Dasselbe gilt für Staatsangehörige von Andorra, Honduras, Monaco und San Marino, die keine Erwerbstätigkeit mit Ausnahme der in § 17 Abs. 2 genannten Tätigkeiten ausüben wollen.
+(2) Dasselbe gilt für Staatsangehörige von Andorra, Brasilien, El Salvador, Honduras, Monaco und San Marino, die keine Erwerbstätigkeit mit Ausnahme der in § 17 Abs. 2 genannten Tätigkeiten ausüben wollen.
 
-(3) Ein erforderlicher Aufenthaltstitel ist innerhalb von drei Monaten nach der Einreise zu beantragen. Die Antragsfrist endet vorzeitig, wenn der Ausländer ausgewiesen wird oder sein Aufenthalt nach § 12 Abs. 4 des Aufenthaltsgesetzes zeitlich beschränkt wird.
+(3) Ein erforderlicher Aufenthaltstitel ist innerhalb von 90 Tagen nach der Einreise zu beantragen. Die Antragsfrist endet vorzeitig, wenn der Ausländer ausgewiesen wird oder sein Aufenthalt nach § 12 Abs. 4 des Aufenthaltsgesetzes zeitlich beschränkt wird.
 
 Abschnitt 5 Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen
 ----------------------------------------------------------------------------------
@@ -1378,7 +1424,7 @@ An Gebühren sind zu erheben
 | 2.  | für die Erteilung einer Niederlassungserlaubnis zur Ausübung einer selbständigen Tätigkeit (§ 21 Abs. 4 des Aufenthaltsgesetzes) | 200 Euro, |
 | 3.  | für die Erteilung einer Niederlassungserlaubnis in allen übrigen Fällen                                                          | 135 Euro. |
 
-### § 44a Gebühren für die Erlaubnis zum Daueraufenthalt-EG
+### § 44a Gebühren für die Erlaubnis zum Daueraufenthalt – EU
 
 An Gebühren sind zu erheben 135 Euro.
 
@@ -1426,7 +1472,7 @@ die Änderung der Anschrift im elektronischen Speicher- und Verarbeitungsmedium 
 
 ### § 45c Gebühr bei Neuausstellung
 
-(1) Für die Neuausstellung eines Dokuments nach § 78 Absatz 1 des Aufenthaltsgesetzes beträgt die Gebühr 30 Euro, wenn die Neuausstellung notwendig wird auf Grund
+(1) Für die Neuausstellung eines Dokuments nach § 78 Absatz 1 des Aufenthaltsgesetzes beträgt die Gebühr 60 Euro, wenn die Neuausstellung notwendig wird auf Grund
 
 1.  
 des Ablaufs der Gültigkeitsdauer des bisherigen Pass- oder Passersatzpapiers,
@@ -1435,10 +1481,13 @@ des Ablaufs der Gültigkeitsdauer des bisherigen Pass- oder Passersatzpapiers,
 des Ablaufs der technischen Kartennutzungsdauer oder einer sonstigen Änderung der in § 78 Absatz 1 Satz 3 Nummer 1 bis 18 des Aufenthaltsgesetzes aufgeführten Angaben,
 
 3.  
-des Verlustes des Dokuments nach § 78 Absatz 1 des Aufenthaltsgesetzes oder
+des Verlustes des Dokuments nach § 78 Absatz 1 des Aufenthaltsgesetzes,
 
 4.  
-des Verlustes der technischen Funktionsfähigkeit des elektronischen Speicher- und Verarbeitungsmediums.
+des Verlustes der technischen Funktionsfähigkeit des elektronischen Speicher- und Verarbeitungsmediums oder
+
+5.  
+der Beantragung nach § 105b Satz 2 des Aufenthaltsgesetzes.
 
 (2) Die Gebühr nach Absatz 1 Nummer 4 entfällt, wenn der Ausländer den Defekt nicht durch einen unsachgemäßen Gebrauch oder eine unsachgemäße Verwendung herbeigeführt hat.
 
@@ -1608,17 +1657,17 @@ Aufenthaltsgesetzes)</td>
 
 (2) Keine Gebühren sind zu erheben für Änderungen des Aufenthaltstitels, sofern diese eine Nebenbestimmung zur Ausübung einer Beschäftigung betreffen.
 
-(3) Für die Ausstellung einer Aufenthaltskarte (§ 5 Absatz 2 Satz 1 des Freizügigkeitsgesetzes/EU) und die Ausstellung einer Daueraufenthaltskarte (§ 5 Absatz 6 Satz 2 des Freizügigkeitsgesetzes/EU) ist jeweils eine Gebühr in Höhe von 28,80 Euro zu erheben. Wird die Aufenthaltskarte oder die Daueraufenthaltskarte für eine Person ausgestellt, die
+(3) Für die Ausstellung einer Aufenthaltskarte (§ 5 Absatz 1 Satz 1 des Freizügigkeitsgesetzes/EU) und die Ausstellung einer Daueraufenthaltskarte (§ 5 Absatz 5 Satz 2 des Freizügigkeitsgesetzes/EU) ist jeweils eine Gebühr in Höhe von 28,80 Euro zu erheben. Wird die Aufenthaltskarte oder die Daueraufenthaltskarte für eine Person ausgestellt, die
 
 1.  
-zum Zeitpunkt der Mitteilung der erforderlichen Angaben nach § 5 Absatz 2 Satz 1 des Freizügigkeitsgesetzes/EU oder
+zum Zeitpunkt der Mitteilung der erforderlichen Angaben nach § 5 Absatz 1 Satz 1 des Freizügigkeitsgesetzes/EU oder
 
 2.  
-zum Zeitpunkt der Antragstellung nach § 5 Absatz 6 Satz 2 des Freizügigkeitsgesetzes/EU
+zum Zeitpunkt der Antragstellung nach § 5 Absatz 5 Satz 2 des Freizügigkeitsgesetzes/EU
 
-noch nicht 24 Jahre alt ist, beträgt die Gebühr jeweils 22,80 Euro. Die Gebühren nach Satz 1 oder Satz 2 sind auch zu erheben, wenn eine Neuausstellung der Aufenthaltskarte oder Daueraufenthaltskarte aus den in § 45c Absatz 1 genannten Gründen notwendig wird; § 45c Absatz 2 gilt entsprechend. Für die Ausstellung einer Bescheinigung des Daueraufenthalts (§ 5 Absatz 6 Satz 1 des Freizügigkeitsgesetzes/EU) ist eine Gebühr in Höhe von 8 Euro zu erheben.
+noch nicht 24 Jahre alt ist, beträgt die Gebühr jeweils 22,80 Euro. Die Gebühren nach Satz 1 oder Satz 2 sind auch zu erheben, wenn eine Neuausstellung der Aufenthaltskarte oder Daueraufenthaltskarte aus den in § 45c Absatz 1 genannten Gründen notwendig wird; § 45c Absatz 2 gilt entsprechend. Für die Ausstellung einer Bescheinigung des Daueraufenthalts (§ 5 Absatz 5 Satz 1 des Freizügigkeitsgesetzes/EU) ist eine Gebühr in Höhe von 8 Euro zu erheben.
 
-(4) Sollen eine Aufenthaltskarte (§ 5 Absatz 2 Satz 1 des Freizügigkeitsgesetzes/EU) oder eine Daueraufenthaltskarte (§ 5 Absatz 6 Satz 2 des Freizügigkeitsgesetzes/EU) in den Fällen des § 78a Absatz 1 des Aufenthaltsgesetzes auf einheitlichem Vordruckmuster ausgestellt werden, ist jeweils eine Gebühr in Höhe von 8 Euro zu erheben.
+(4) Sollen eine Aufenthaltskarte (§ 5 Absatz 1 Satz 1 des Freizügigkeitsgesetzes/EU) oder eine Daueraufenthaltskarte (§ 5 Absatz 5 Satz 2 des Freizügigkeitsgesetzes/EU) in den Fällen des § 78a Absatz 1 des Aufenthaltsgesetzes auf einheitlichem Vordruckmuster ausgestellt werden, ist jeweils eine Gebühr in Höhe von 8 Euro zu erheben.
 
 ### § 48 Gebühren für pass- und ausweisrechtliche Maßnahmen
 
@@ -1647,7 +1696,7 @@ noch nicht 24 Jahre alt ist, beträgt die Gebühr jeweils 22,80 Euro. Die Gebüh
 | 12. | für die Verlängerung eines Ausweisersatzes (§ 48 Absatz 2 in Verbindung mit § 78a Absatz 4 des Aufenthaltsgesetzes)                                                                                                                                                      | 10 Euro,                                                         |
 | 13. | für die Änderung eines der in den Nummern 1 bis 12 bezeichneten Dokumente                                                                                                                                                                                                | 10 Euro,                                                         |
 | 14. | für die Umschreibung eines der in den Nummern 1 bis 12 bezeichneten Dokumente                                                                                                                                                                                            | 15 Euro,                                                         |
-| 15. | für die Neuausstellung eines Dokuments nach § 78 Absatz 1 Satz 1 des Aufenthaltsgesetzes mit dem Zusatz Ausweisersatz (§ 78 Absatz 1 Satz 4 des Aufenthaltsgesetzes)                                                                                                     | 30 Euro.                                                         |
+| 15. | für die Neuausstellung eines Dokuments nach § 78 Absatz 1 Satz 1 des Aufenthaltsgesetzes mit dem Zusatz Ausweisersatz (§ 78 Absatz 1 Satz 4 des Aufenthaltsgesetzes)                                                                                                     | 60 Euro.                                                         |
 
 Wird der Notreiseausweis zusammen mit dem Passierschein (§ 23 Abs. 2 Satz 3, § 24 Abs. 2 Satz 3) ausgestellt, so wird die Gebühr nach § 47 Abs. 1 Nr. 13 auf die für den Notreiseausweis zu erhebende Gebühr angerechnet.
 
@@ -1664,9 +1713,9 @@ für die Eintragung eines Vermerks über die Eheschließung in einem Reiseauswei
 
 ### § 49 Bearbeitungsgebühren
 
-(1) Für die Bearbeitung eines Antrages auf Erteilung einer Niederlassungserlaubnis und einer Erlaubnis zum Daueraufenthalt-EG sind Gebühren in Höhe der Hälfte der in § 44 bestimmten Gebühr zu erheben.
+(1) Für die Bearbeitung eines Antrages auf Erteilung einer Niederlassungserlaubnis und einer Erlaubnis zum Daueraufenthalt – EU sind Gebühren in Höhe der Hälfte der in den §§ 44, 44a und 52a Absatz 2 Nummer 1 jeweils bestimmten Gebühr zu erheben.
 
-(2) Für die Beantragung aller übrigen gebührenpflichtigen Amtshandlungen sind Bearbeitungsgebühren in Höhe der in den §§ 45 bis 48 Abs. 1 jeweils bestimmten Gebühr zu erheben.
+(2) Für die Beantragung aller übrigen gebührenpflichtigen Amtshandlungen sind Bearbeitungsgebühren in Höhe der in den §§ 45 bis 48 Abs. 1 und § 52a jeweils bestimmten Gebühr zu erheben.
 
 (3) Eine Bearbeitungsgebühr wird nicht erhoben, wenn ein Antrag
 
@@ -1678,7 +1727,7 @@ vom Antragsteller zurückgenommen wird, bevor mit der sachlichen Bearbeitung beg
 
 ### § 50 Gebühren für Amtshandlungen zugunsten Minderjähriger
 
-(1) Für Amtshandlungen zugunsten Minderjähriger und die Bearbeitung von Anträgen Minderjähriger sind Gebühren in Höhe der Hälfte der in den §§ 44, 45, 45a, 45b, 45c, 46 Absatz 2, §§ 47, 48 Abs. 1 Satz 1 Nr. 3 bis 14 und § 49 Abs. 1 und 2 bestimmten Gebühren zu erheben. Die Gebühr für die Erteilung der Niederlassungserlaubnis nach § 35 Abs. 1 Satz 1 des Aufenthaltsgesetzes beträgt 55 Euro.
+(1) Für Amtshandlungen zugunsten Minderjähriger und die Bearbeitung von Anträgen Minderjähriger sind Gebühren in Höhe der Hälfte der in den §§ 44, 45, 45a, 45b, 45c, 46 Absatz 2, § 47 Absatz 1 und 4, § 48 Abs. 1 Satz 1 Nr. 3 bis 14 und § 49 Abs. 1 und 2 bestimmten Gebühren zu erheben. Die Gebühr für die Erteilung der Niederlassungserlaubnis nach § 35 Abs. 1 Satz 1 des Aufenthaltsgesetzes beträgt 55 Euro.
 
 (2) Für die Verlängerung eines vorläufigen Reiseausweises für Ausländer, für Flüchtlinge oder für Staatenlose an Kinder bis zum vollendeten zwölften Lebensjahr sind jeweils 6 Euro an Gebühren zu erheben.
 
@@ -1688,7 +1737,7 @@ vom Antragsteller zurückgenommen wird, bevor mit der sachlichen Bearbeitung beg
 
 |     |                                                                                                                                                                               |          |
 |-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| 1.  | die Ablehnung einer gebührenpflichtigen Amtshandlung die Hälfte der für die Amtshandlung nach den §§ 44 bis 48 Abs. 1 und § 50 zu erhebenden Gebühr,                          |          |
+| 1.  | die Ablehnung einer gebührenpflichtigen Amtshandlung die Hälfte der für die Amtshandlung nach den §§ 44 bis 48 Abs. 1, §§ 50 und 52a zu erhebenden Gebühr,                    |          |
 | 2.  | eine Bedingung oder eine Auflage des Visums, der Aufenthaltserlaubnis oder der Aussetzung der Abschiebung                                                                     | 50 Euro, |
 | 3.  | die Feststellung der Ausländerbehörde über die Verpflichtung zur Teilnahme an einem Integrationskurs (§ 44a Abs. 1 Satz 2 des Aufenthaltsgesetzes)                            | 20 Euro, |
 | 3a. | die verpflichtende Aufforderung zur Teilnahme an einem Integrationskurs (§ 44a Abs. 1 Satz 1 Nr. 2 des Aufenthaltsgesetzes)                                                   | 50 Euro, |
@@ -1766,6 +1815,69 @@ befreit. Satz 1 Nr. 1 gilt auch für die Ehegatten oder Lebenspartner und minder
 (7) Die zu erhebende Gebühr kann in Einzelfällen erlassen oder ermäßigt werden, wenn dies der Förderung kultureller oder sportlicher Interessen, außenpolitischer, entwicklungspolitischer oder sonstiger erheblicher öffentlicher Interessen dient oder humanitäre Gründe hat.
 
 (8) Schüler, Studenten, postgraduierte Studenten und begleitende Lehrer im Rahmen einer Reise zu Studien- oder Ausbildungszwecken und Forscher aus Drittstaaten im Sinne der Empfehlung 2005/761/EG des Europäischen Parlaments und des Rates vom 28. September 2005 zur Erleichterung der Ausstellung einheitlicher Visa durch die Mitgliedstaaten für den kurzfristigen Aufenthalt an Forscher aus Drittstaaten, die sich zu Forschungszwecken innerhalb der Gemeinschaft bewegen (ABl. EU Nr. L 289 S. 23), sind von den Gebühren nach § 46 Nr. 1 und 2 befreit.
+
+### § 52a Befreiung und Ermäßigung bei Assoziationsberechtigung
+
+(1) Assoziationsberechtigte im Sinne dieser Vorschrift sind Ausländer, für die das Assoziationsrecht EU-Türkei auf Grund des Abkommens vom 12. September 1963 zur Gründung einer Assoziation zwischen der Europäischen Wirtschaftsgemeinschaft und der Türkei (BGBl. 1964 II S. 509, 510) Anwendung findet.
+
+(2) Für Assoziationsberechtigte sind die §§ 44 bis 50 mit folgenden Maßgaben anzuwenden. Die Gebühr beträgt:
+
+1.  
+für Aufenthaltstitel nach den §§ 44 bis 45, 45c Absatz 1 und § 48 Absatz 1 Satz 1 Nummer 15,
+
+a)  
+<table>
+<tbody>
+<tr class="odd">
+<td>die für eine Person ausgestellt<br />
+werden, die zum Zeitpunkt<br />
+der Antragstellung 24 Jahre<br />
+oder älter ist,</td>
+<td>28,80 Euro,</td>
+</tr>
+</tbody>
+</table>
+
+b)  
+<table>
+<tbody>
+<tr class="odd">
+<td>die für eine Person ausgestellt<br />
+werden, die zum Zeitpunkt<br />
+der Antragstellung noch nicht<br />
+24 Jahre alt ist, wobei § 50<br />
+Absatz 1 nicht anzuwenden ist,</td>
+<td>22,80 Euro,</td>
+</tr>
+</tbody>
+</table>
+
+2.  
+<table>
+<tbody>
+<tr class="odd">
+<td>in den Fällen des § 45b Absatz 2<br />
+und des § 47 Absatz 1 Nummer 11<br />
+jeweils in Verbindung mit § 44<br />
+oder mit § 44a</td>
+<td>8 Euro.</td>
+</tr>
+</tbody>
+</table>
+
+(3) Von folgenden Gebühren sind die in Absatz 1 genannten Ausländer befreit:
+
+1.  
+von der nach § 45b Absatz 1 und der nach § 45b Absatz 2 in Verbindung mit § 45 jeweils zu erhebenden Gebühr,
+
+2.  
+von der nach § 47 Absatz 1 Nummer 3 und 8 bis 10 und der nach § 47 Absatz 1 Nummer 11 in Verbindung mit § 45 jeweils zu erhebenden Gebühr,
+
+3.  
+von der nach § 48 Absatz 1 Satz 1 Nummer 3, 4, 8 und 10 bis 12 jeweils zu erhebenden Gebühr und
+
+4.  
+von der nach § 48 Absatz 1 Satz 1 Nummer 13 und 14 jeweils zu erhebenden Gebühr, soweit sie sich auf die Änderung oder Umschreibung der in § 48 Absatz 1 Satz 1 Nummer 3, 4, 8 und 10 bis 12 genannten Dokumente bezieht.
 
 ### § 53 Befreiung und Ermäßigung aus Billigkeitsgründen
 
@@ -1979,10 +2091,10 @@ zum Aufenthaltstitel mit elektronischem Speicher- und Verarbeitungsmedium (§ 78
 für die Bescheinigung über die Aufenthaltsgestattung (§ 63 des Asylverfahrensgesetzes) das in Anlage D12 abgedruckte Muster,
 
 13.  
-für die Aufenthaltskarte für Familienangehörige eines Unionsbürgers oder eines Staatsangehörigen eines EWR-Staates (§ 5 Abs. 2 des Freizügigkeitsgesetzes/EU) in den Fällen des § 11 Absatz 1 Satz 6 des Freizügigkeitsgesetzes/EU und die Aufenthaltserlaubnis, die Ausländern ausgestellt wird, die auf Grund des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit ein Aufenthaltsrecht besitzen, das in Anlage D15 abgedruckte Muster,
+für die Aufenthaltskarte für Familienangehörige eines Unionsbürgers oder eines Staatsangehörigen eines EWR-Staates (§ 5 Absatz 1 des Freizügigkeitsgesetzes/EU) in den Fällen des § 11 Absatz 1 Satz 6 des Freizügigkeitsgesetzes/EU und die Aufenthaltserlaubnis, die Ausländern ausgestellt wird, die auf Grund des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit ein Aufenthaltsrecht besitzen, das in Anlage D15 abgedruckte Muster,
 
 14.  
-für die Bescheinigung des Daueraufenthalts für Unionsbürger oder Staatsangehörige eines EWR-Staates und die Daueraufenthaltskarte für Familienangehörige von Unionsbürgern oder von Staatsangehörigen eines EWR-Staates (§ 5 Abs. 6 des Freizügigkeitsgesetzes/EU) in den Fällen des § 11 Absatz 1 Satz 6 des Freizügigkeitsgesetzes/EU das in Anlage D16 abgedruckte Muster und
+für die Bescheinigung des Daueraufenthalts für Unionsbürger oder Staatsangehörige eines EWR-Staates und die Daueraufenthaltskarte für Familienangehörige von Unionsbürgern oder von Staatsangehörigen eines EWR-Staates (§ 5 Absatz 5 des Freizügigkeitsgesetzes/EU) in den Fällen des § 11 Absatz 1 Satz 6 des Freizügigkeitsgesetzes/EU das in Anlage D16 abgedruckte Muster und
 
 15.  
 für die Änderung der Anschrift auf Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium (§ 78 Absatz 7 Satz 2 des Aufenthaltsgesetzes) das in Anlage D17 abgedruckte Muster.
@@ -1991,17 +2103,27 @@ Die nach den Mustern in den Anlagen D4c, D7a, D8a ausgestellten Passersatzpapier
 
 ### § 59 Muster der Aufenthaltstitel
 
-(1) Das Muster des Aufenthaltstitels nach § 4 Abs. 1 Satz 2 Nr. 1 des Aufenthaltsgesetzes (Visum) richtet sich nach der Verordnung (EG) Nr. 1683/95 des Rates vom 29. Mai 1995 über eine einheitliche Visagestaltung (ABl. EG Nr. L 164 S. 1), zuletzt geändert durch Anhang II Nr. 18 Buchstabe B der Akte über die Bedingungen des Beitritts der Tschechischen Republik, der Republik Estland, der Republik Zypern, der Republik Lettland, der Republik Litauen, der Republik Ungarn, der Republik Malta, der Republik Polen, der Republik Slowenien und der Slowakischen Republik und die Anpassungen der die Europäische Union begründenden Verträge (ABl. EU 2003 Nr. L 236 S. 718), in der jeweils geltenden Fassung. Es ist in Anlage D13a abgedruckt. Für die Verlängerung im Inland ist das in Anlage D13b abgedruckte Muster zu verwenden.
+(1) Das Muster des Aufenthaltstitels nach § 4 Abs. 1 Satz 2 Nr. 1 des Aufenthaltsgesetzes (Visum) richtet sich nach der Verordnung (EG) Nr. 1683/95 des Rates vom 29. Mai 1995 über eine einheitliche Visagestaltung (ABl. EG Nr. L 164 S. 1), zuletzt geändert durch die Verordnung (EG) Nr. 856/2008 (ABl. L 235 vom 2.9.2008, S. 1), in der jeweils geltenden Fassung. Es ist in Anlage D13a abgedruckt. Für die Verlängerung im Inland ist das in Anlage D13b abgedruckte Muster zu verwenden.
 
-(2) Die Muster der Aufenthaltstitel, die nach § 78 Absatz 1 des Aufenthaltsgesetzes als eigenständige Dokumente mit elektronischem Speicher- und Verarbeitungsmedium auszustellen sind, sowie die Muster der Aufenthalts- und Daueraufenthaltskarten, die nach § 11 Absatz 1 des Freizügigkeitsgesetzes/EU in Verbindung mit § 78 Absatz 1 des Aufenthaltsgesetzes als Dokumente mit elektronischem Speicher- und Verarbeitungsmedium auszustellen sind, richten sich nach der Verordnung (EG) Nr. 380/2008 des Rates vom 18. April 2008 zur Änderung der Verordnung (EG) Nr. 1030/2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatenangehörige (ABl. L 115 vom 29.4.2008, S. 1) in der jeweils geltenden Fassung. Gleiches gilt für Aufenthaltserlaubnisse, die nach Maßgabe des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits auf Antrag als Dokumente mit elektronischem Speicher- und Verarbeitungsmedium ausgestellt werden. Die Muster für Dokumente nach den Sätzen 1 und 2 sind in Anlage D14a abgedruckt.
+(2) Die Muster der Aufenthaltstitel, die nach § 78 Absatz 1 des Aufenthaltsgesetzes als eigenständige Dokumente mit elektronischem Speicher- und Verarbeitungsmedium auszustellen sind, sowie die Muster der Aufenthalts- und Daueraufenthaltskarten, die nach § 11 Absatz 1 des Freizügigkeitsgesetzes/EU in Verbindung mit § 78 Absatz 1 des Aufenthaltsgesetzes als Dokumente mit elektronischem Speicher- und Verarbeitungsmedium auszustellen sind, richten sich nach der Verordnung (EG) Nr. 380/2008 des Rates vom 18. April 2008 zur Änderung der Verordnung (EG) Nr. 1030/2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatenangehörige (ABl. L 115 vom 29.4.2008, S. 1) in der jeweils geltenden Fassung. Gleiches gilt für Aufenthaltserlaubnisse, die nach Maßgabe des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits auf Antrag als Dokumente mit elektronischem Speicher- und Verarbeitungsmedium ausgestellt werden. Die Muster für Dokumente nach den Sätzen 1 und 2 sind in Anlage D14a abgedruckt. Aufenthaltstitel nach § 78 Absatz 1 in Verbindung mit § 4 Absatz 1 Satz 2 Nummer 4 des Aufenthaltsgesetzes, die gemäß dem bis zum 1. Dezember 2013 zu verwendenden Muster der Anlage D14a ausgestellt wurden, behalten ihre Gültigkeit.
 
-(3) Die Muster für Vordrucke der Aufenthaltstitel nach § 4 Absatz 1 Nummer 2 bis 4 des Aufenthaltsgesetzes richten sich im Fall des § 78a Absatz 1 Satz 1 des Aufenthaltsgesetzes nach der Verordnung (EG) Nr. 1030/2002 des Rates vom 13. Juni 2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatenangehörige (ABl. L 157 vom 15.6.2002, S. 1). Sie sind in Anlage D14 abgedruckt. Bei der Niederlassungserlaubnis, der Erlaubnis zum Daueraufenthalt-EG, der Blauen Karte EU und der Aufenthaltserlaubnis ist im Feld für Anmerkungen die für die Erteilung maßgebliche Rechtsgrundlage einzutragen. Bei Inhabern der Blauen Karte EU ist bei Erteilung der Erlaubnis zum Daueraufenthalt-EG im Feld für Anmerkungen „Ehem. Inh. der Blauen Karte EU“ einzutragen.
+(3) Die Muster für Vordrucke der Aufenthaltstitel nach § 4 Absatz 1 Nummer 2 bis 4 des Aufenthaltsgesetzes richten sich im Fall des § 78a Absatz 1 Satz 1 des Aufenthaltsgesetzes nach der Verordnung (EG) Nr. 1030/2002 des Rates vom 13. Juni 2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatenangehörige (ABl. L 157 vom 15.6.2002, S. 1). Sie sind in Anlage D14 abgedruckt. Bei der Niederlassungserlaubnis, der Erlaubnis zum Daueraufenthalt – EU, der Blauen Karte EU und der Aufenthaltserlaubnis ist im Feld für Anmerkungen die für die Erteilung maßgebliche Rechtsgrundlage einzutragen. Bei Inhabern der Blauen Karte EU ist bei Erteilung der Erlaubnis zum Daueraufenthalt – EU im Feld für Anmerkungen „Ehem. Inh. der Blauen Karte EU“ einzutragen. Für die Erlaubnis zum Daueraufenthalt – EU kann im Falle des § 78a Absatz 1 Satz 1 des Aufenthaltsgesetzes der Vordruck der Anlage D14 mit der Bezeichnung „Daueraufenthalt-EG“ weiterverwendet werden.
 
 (4) In einer Aufenthaltserlaubnis, die nach § 20 des Aufenthaltsgesetzes erteilt wird, oder in einem zu dieser Aufenthaltserlaubnis gehörenden Zusatzblatt nach Anlage D11 und D11a oder in dem Trägervordruck nach Anlage D1 wird der Vermerk „Forscher“ eingetragen.
 
 (5) Ist in einem Aufenthaltstitel die Nebenbestimmung eingetragen, wonach die Ausübung einer Erwerbstätigkeit nicht gestattet ist, bezieht sich diese Nebenbestimmung nicht auf die in § 17 Abs. 2 genannten Tätigkeiten, sofern im Aufenthaltstitel nicht ausdrücklich etwas anderes bestimmt ist.
 
 (6) Wenn die Grenzbehörde die Einreise nach § 60a Abs. 2a Satz 1 des Aufenthaltsgesetzes zulässt und eine Duldung ausstellt, vermerkt sie dies auf dem nach § 58 Nr. 2 vorgesehenen Vordruck.
+
+### § 59a Hinweis auf Gewährung internationalen Schutzes
+
+(1) Wird einem Ausländer, dem in der Bundesrepublik Deutschland die Rechtsstellung eines international Schutzberechtigten im Sinne von § 2 Absatz 13 des Aufenthaltsgesetzes zuerkannt wurde, eine Erlaubnis zum Daueraufenthalt – EU nach § 9a des Aufenthaltsgesetzes erteilt, so ist in dem Feld für Anmerkungen folgender Hinweis aufzunehmen: „Durch DEU am \[Datum\] internationaler Schutz gewährt“.
+
+(2) Wird einem Ausländer, der im Besitz einer langfristigen Aufenthaltsberechtigung – EU eines anderen Mitgliedstaates der Europäischen Union ist, die den Hinweis enthält, dass dieser Staat dieser Person internationalen Schutz gewährt, eine Erlaubnis zum Daueraufenthalt – EU nach § 9a des Aufenthaltsgesetzes erteilt, so ist in dem Feld für Anmerkungen der Erlaubnis zum Daueraufenthalt – EU ein entsprechender Hinweis aufzunehmen. Vor Aufnahme des Hinweises ist der betreffende Mitgliedstaat in dem Verfahren nach § 91c Absatz 1a des Aufenthaltsgesetzes um Auskunft darüber zu ersuchen, ob der Ausländer dort weiterhin internationalen Schutz genießt. Wurde der internationale Schutz in dem anderen Mitgliedstaat durch eine rechtskräftige Entscheidung aberkannt, wird der Hinweis nach Satz 1 nicht aufgenommen.
+
+(3) Ist ein Ausländer im Besitz einer Erlaubnis zum Daueraufenthalt – EU nach § 9a des Aufenthaltsgesetzes, die den Hinweis nach Absatz 2 Satz 1 enthält, und ist die Verantwortung für den internationalen Schutz im Sinne von § 2 Absatz 13 des Aufenthaltsgesetzes nach Maßgabe der einschlägigen Rechtsvorschriften auf Deutschland übergegangen, so ist der Hinweis durch den in Absatz 1 genannten Hinweis zu ersetzen. Die Aufnahme dieses Hinweises hat spätestens drei Monate nach Übergang der Verantwortung auf Deutschland zu erfolgen.
+
+(4) Ist der Ausländer im Besitz einer Erlaubnis zum Daueraufenthalt – EU nach § 9a des Aufenthaltsgesetzes und wird ihm in einem anderen Mitgliedstaat der Europäischen Union internationaler Schutz im Sinne von § 2 Absatz 13 des Aufenthaltsgesetzes gewährt, bevor er dort eine langfristige Aufenthaltsberechtigung – EU erhält, so ist durch die zuständige Ausländerbehörde in das Feld für Anmerkungen der Erlaubnis zum Daueraufenthalt – EU folgender Hinweis aufzunehmen: „Durch \[Abkürzung des Mitgliedstaates\] am \[Datum\] internationaler Schutz gewährt“. Die Aufnahme dieses Hinweises hat spätestens drei Monate nachdem ein entsprechendes Ersuchen der zuständigen Stelle des anderen Mitgliedstaates beim Bundesamt für Migration und Flüchtlinge eingegangen ist zu erfolgen.
 
 ### § 60 Lichtbild
 
@@ -2219,7 +2341,7 @@ Visadatei-Nummer,
 folgende ausländerrechtliche Maßnahmen jeweils mit Erlassdatum:
 
 a)  
-Erteilung und Verlängerung eines Aufenthaltstitels unter Angabe der Rechtsgrundlage des Aufenthaltstitels und einer Befristung sowie einer Bescheinigung über das Bestehen des Freizügigkeitsrechts,
+Erteilung und Verlängerung eines Aufenthaltstitels unter Angabe der Rechtsgrundlage des Aufenthaltstitels und einer Befristung,
 
 b)  
 Ablehnung eines Antrages auf Erteilung oder Verlängerung eines Aufenthaltstitels,
@@ -2228,13 +2350,13 @@ c)
 Erteilung einer Bescheinigung über die Aufenthaltsgestattung unter Angabe der Befristung,
 
 d)  
-Anerkennung als Asylberechtigter oder die Feststellung, dass die Voraussetzungen des § 25 Abs. 2 in Verbindung mit § 60 Abs. 1 des Aufenthaltsgesetzes vorliegen, sowie Angaben zur Bestandskraft,
+Anerkennung als Asylberechtigter oder die Feststellung, dass die Voraussetzungen des § 25 Abs. 2 des Aufenthaltsgesetzes vorliegen, sowie Angaben zur Bestandskraft,
 
 e)  
 Ablehnung eines Asylantrags oder eines Antrages auf Anerkennung als heimatloser Ausländer und Angaben zur Bestandskraft,
 
 f)  
-Widerruf und Rücknahme der Anerkennung als Asylberechtigter oder der Feststellung, dass die Voraussetzungen des § 25 Abs. 2 in Verbindung mit § 60 Abs. 1 des Aufenthaltsgesetzes vorliegen,
+Widerruf und Rücknahme der Anerkennung als Asylberechtigter oder der Feststellung, dass die Voraussetzungen des § 25 Abs. 2 des Aufenthaltsgesetzes vorliegen,
 
 g)  
 Bedingungen, Auflagen und räumliche Beschränkungen,
@@ -2243,7 +2365,7 @@ h)
 nachträgliche zeitliche Beschränkungen,
 
 i)  
-Widerruf und Rücknahme eines Aufenthaltstitels oder Feststellung des Verlusts des Freizügigkeitsrechts nach § 5 Abs. 5 oder § 6 Abs. 1 des Freizügigkeitsgesetzes/EU,
+Widerruf und Rücknahme eines Aufenthaltstitels oder Feststellung des Verlusts des Freizügigkeitsrechts nach § 2 Absatz 7, § 5 Absatz 4 oder § 6 Abs. 1 des Freizügigkeitsgesetzes/EU,
 
 j)  
 sicherheitsrechtliche Befragung nach § 54 Nr. 6 des Aufenthaltsgesetzes,
@@ -2294,7 +2416,10 @@ y)
 Berechtigung oder Verpflichtung zur Teilnahme an Integrationskursen nach den §§ 43 bis 44a des Aufenthaltsgesetzes, Beginn und erfolgreicher Abschluss der Teilnahme an Integrationskursen nach den §§ 43 bis 44a des Aufenthaltsgesetzes sowie, bis zum Abschluss des Kurses, gemeldete Fehlzeiten, Abgabe eines Hinweises nach § 44a Abs. 3 Satz 1 des Aufenthaltsgesetzes sowie Kennziffern, die von der Ausländerbehörde für die anonymisierte Mitteilung der vorstehend genannten Ereignisse an das Bundesamt für Migration und Flüchtlinge zur Erfüllung seiner Koordinierungs- und Steuerungsfunktion verwendet werden,
 
 z)  
-Zustimmung der Bundesagentur für Arbeit nach § 39 des Aufenthaltsgesetzes mit räumlicher Beschränkung und weiteren Nebenbestimmungen, deren Rücknahme sowie deren Versagung nach § 40 des Aufenthaltsgesetzes, deren Widerruf nach § 41 des Aufenthaltsgesetzes oder von der Ausländerbehörde festgestellte Zustimmungsfreiheit.
+Zustimmung der Bundesagentur für Arbeit nach § 39 des Aufenthaltsgesetzes mit räumlicher Beschränkung und weiteren Nebenbestimmungen, deren Rücknahme sowie deren Versagung nach § 40 des Aufenthaltsgesetzes, deren Widerruf nach § 41 des Aufenthaltsgesetzes oder von der Ausländerbehörde festgestellte Zustimmungsfreiheit,
+
+10.  
+Geschäftszeichen des Bundesverwaltungsamtes für Meldungen zu einer laufenden Beteiligungsanfrage oder einem Nachberichtsfall (BVA-Verfahrensnummer).
 
 ### § 66 Datei über Passersatzpapiere
 
@@ -2333,7 +2458,7 @@ die Rechtsstellung eines Deutschen im Sinne des Artikels 116 Absatz 1 des Grundg
 über den Ausländer:
 
 a)  
-Nachname und frühere Nachnamen,
+Nachname,
 
 b)  
 Geburtsname,
@@ -2342,40 +2467,46 @@ c)
 Vornamen,
 
 d)  
-Datum, Ort und Land der Geburt,
+abweichende Namensschreibweisen, andere Namen und frühere Namen,
 
 e)  
-Geschlecht,
+Datum, Ort und Land der Geburt,
 
 f)  
-Familienstand,
+Geschlecht,
 
 g)  
-derzeitige Staatsangehörigkeiten sowie Staatsangehörigkeiten zum Zeitpunkt der Geburt,
+Familienstand,
 
 h)  
-nationale Identitätsnummer,
+derzeitige Staatsangehörigkeiten sowie Staatsangehörigkeiten zum Zeitpunkt der Geburt,
 
 i)  
-bei Minderjährigen Vor- und Nachnamen der Inhaber der elterlichen Sorge oder der Vormünder,
+nationale Identitätsnummer,
 
 j)  
-Heimatanschrift und Wohnanschrift,
+bei Minderjährigen Vor- und Nachnamen der Inhaber der elterlichen Sorge oder der Vormünder,
 
 k)  
-Art, Seriennummer und Gültigkeitsdauer von Aufenthaltstiteln für andere Staaten als den Heimatstaat,
+Heimatanschrift und Wohnanschrift,
 
 l)  
-Angaben zur derzeitigen Beschäftigung und Name, Anschrift und Telefonnummer des Arbeitgebers; bei Studenten Name und Anschrift der Bildungseinrichtung,
+Art, Seriennummer und Gültigkeitsdauer von Aufenthaltstiteln für andere Staaten als den Heimatstaat,
 
 m)  
-Lichtbild,
+Angaben zur derzeitigen Beschäftigung und Name, Anschrift und Telefonnummer des Arbeitgebers; bei Studenten Name und Anschrift der Bildungseinrichtung,
 
 n)  
-Fingerabdrücke oder Gründe für die Befreiung von der Pflicht zur Abgabe von Fingerabdrücken und
+Lichtbild,
 
 o)  
+Fingerabdrücke oder Gründe für die Befreiung von der Pflicht zur Abgabe von Fingerabdrücken und
+
+p)  
 Vor- und Nachnamen, Geburtsdatum, Nationalität, Nummer des Reisedokuments oder des Personalausweises des Ehegatten, der Kinder, Enkelkinder oder abhängigen Verwandten in aufsteigender Linie, soweit es sich bei diesen Personen um Unionsbürger, Staatsangehörige eines Staates des Europäischen Wirtschaftsraums oder der Schweiz handelt, und das Verwandtschaftsverhältnis des Ausländers zu der betreffenden Person,
+
+q)  
+bei beabsichtigten Aufenthalten zur Beschäftigung Angaben zum beabsichtigten Beschäftigungsverhältnis und zur Qualifikation,
 
 2.  
 über die Reise:
@@ -2399,7 +2530,7 @@ f)
 Angaben zu Aufenthaltsadressen des Antragstellers und
 
 g)  
-Vornamen, Nachname, Anschrift, Geburtsdatum, Staatsangehörigkeiten, Geschlecht, Telefonnummer und E-Mail-Adresse der Organisation
+Vornamen, Nachname, abweichende Namensschreibweisen, andere Namen und frühere Namen, Anschrift, Geburtsdatum, Geburtsort, Staatsangehörigkeiten, Geschlecht, Telefonnummer und E-Mail-Adresse
 
 aa)  
 eines Einladers,
@@ -2410,7 +2541,7 @@ einer Person, die durch Abgabe einer Verpflichtungserklärung oder in anderer We
 cc)  
 einer sonstigen Referenzperson;
 
-soweit eine Organisation an die Stelle einer in Doppelbuchstabe aa bis cc genannten Person tritt: Name, Anschrift, Telefonnummer und E-Mail-Adresse der Organisation sowie Vornamen und Nachname von deren Kontaktperson,
+soweit eine Organisation an die Stelle einer in Doppelbuchstabe aa bis cc genannten Person tritt: Name, Anschrift, Telefonnummer und E-Mail-Adresse der Organisation, Sitz, Aufgabenstellung oder Wirkungsbereich und Bezeichnung und der Ort des Registers, in das die Organisation eingetragen ist, die Registernummer der Organisation sowie Vornamen und Nachname von deren Kontaktperson,
 
 3.  
 sonstige Angaben:
@@ -2449,7 +2580,7 @@ k)
 Rückmeldungen der am Visumverfahren beteiligten Behörden und
 
 l)  
-bei Visa für Ausländer, die sich länger als drei Monate im Bundesgebiet aufhalten oder im Bundesgebiet eine Erwerbstätigkeit ausüben wollen, die Angabe der Rechtsgrundlage,
+bei Visa für Ausländer, die sich länger als 90 Tage im Bundesgebiet aufhalten oder im Bundesgebiet eine Erwerbstätigkeit ausüben wollen, die Angabe der Rechtsgrundlage,
 
 4.  
 über das Visum:
@@ -2663,9 +2794,9 @@ bei Todder Sterbetag.
 
 ### § 72a Mitteilungen der Pass- und Ausweisbehörden
 
-(1) Die Passbehörden teilen den Ausländerbehörden die Einziehung eines Passes nach § 12 Abs. 1 in Verbindung mit § 11 Nr. 2 des Passgesetzes wegen des Verlustes der deutschen Staatsangehörigkeit mit.
+(1) Die Passbehörden teilen den Ausländerbehörden die Einziehung eines Passes nach § 12 Abs. 1 in Verbindung mit § 11 Absatz 1 Nr. 2 des Passgesetzes wegen des Verlustes der deutschen Staatsangehörigkeit mit.
 
-(2) Die Ausweisbehörden teilen den Ausländerbehörden die Einziehung eines Personalausweises nach den Personalausweisgesetzen der Länder wegen des Verlustes der deutschen Staatsangehörigkeit mit.
+(2) Die Ausweisbehörden teilen den Ausländerbehörden die Einziehung eines Personalausweises nach dem Personalausweisgesetz wegen des Verlustes der deutschen Staatsangehörigkeit mit.
 
 ### § 73 Mitteilungen der Staatsangehörigkeits- und Bescheinigungsbehörden nach § 15 des Bundesvertriebenengesetzes
 
@@ -2708,9 +2839,9 @@ die Verlegung in eine andere Justizvollzugsanstalt,
 3.  
 die vorgesehenen und festgesetzten Termine für die Entlassung aus der Haft.
 
-### § 75 Mitteilungen der Bundesagentur für Arbeit
+### § 75 (weggefallen)
 
-Die Bundesagentur für Arbeit teilt den Ausländerbehörden die Zustimmung zur Erteilung eines Aufenthaltstitels nach § 39 des Aufenthaltsgesetzes oder einer Grenzgängerkarte, deren Versagung nach § 40 des Aufenthaltsgesetzes, den Widerruf nach § 41 des Aufenthaltsgesetzes und die Rücknahme einer Zustimmung mit.
+-
 
 ### § 76 Mitteilungen der Gewerbebehörden
 
@@ -2776,9 +2907,11 @@ Kapitel 7 Übergangs- und Schlussvorschriften
 
 Die in Kapitel 2 Abschnitt 1, Kapitel 3, § 56, Kapitel 5 sowie in den §§ 81 und 82 enthaltenen Regelungen finden auch Anwendung auf Ausländer, deren Rechtsstellung durch das Freizügigkeitsgesetz/EU geregelt ist.
 
-### § 80 (weggefallen)
+### § 80 Übergangsvorschriften für die Verwendung von Vordrucken
 
--
+Vordrucke für Reiseausweise für Ausländer, Reiseausweise für Flüchtlinge und Reiseausweise für Staatenlose nach den Anlagen D4c, D7a und D8a in der bis zum 31. Oktober 2014 geltenden Fassung können bis zum 31. Oktober 2015 weiterverwendet werden.*In der Anlage D werden die Innenseiten 4 und 5 der Anlagen D4c, D7a und D8a durch die folgenden Seiten 4 und 5 ersetzt.*
+
+§ 80 Satz 2 Kursivdruck: Änderungsvorschrift (zum Verständnis aufgenommen)
 
 ### § 81 Weitergeltung von nach bisherigem Recht ausgestellten Passersatzpapieren
 
@@ -2849,6 +2982,10 @@ Grenzkarten, die bisher nach den Voraussetzungen ausgestellt wurden, die in Arti
 
 Angaben zu den mit dem Gesetz zur Umsetzung aufenthalts- und asylrechtlicher Richtlinien der Europäischen Union neu geschaffenen Speichersachverhalten werden in den Ausländerdateien gespeichert, sobald hierfür die informationstechnischen Voraussetzungen geschaffen worden sind, spätestens jedoch sechs Monate nach Inkrafttreten dieses Gesetzes. Soweit bis dahin die Angaben noch nicht gespeichert worden sind, sind die Ausländerbehörden verpflichtet, unverzüglich ihre Speicherung nachzuholen.
 
+### § 82b Übergangsregelungzu § 31 Absatz 1 Satz 1 Nummer 1 und 2
+
+Bis zur vollständigen Umsetzung des § 31 Absatz 1 Satz 1 Nummer 1 und 2 im automatisierten Visumverfahren des Bundesverwaltungsamtes, längstens jedoch bis zum 30. Juni 2013, können die Ausländerbehörden auch in den Fällen am Visumverfahren beteiligt werden, in denen auf Grund von § 31 Absatz 1 Satz 1 Nummer 1 und 2 in der Fassung vom 27. Februar 2013 (BGBl. I S. 351) ein Visum nicht der Zustimmung der Ausländerbehörde bedarf.
+
 ### § 83 Erfüllung ausweisrechtlicher Verpflichtungen
 
 Sofern die Voraussetzungen der Pflicht zur Vorlage nach § 57 zum Zeitpunkt des Inkrafttretens dieser Verordnung erfüllt sind, hat der Ausländer die genannten Papiere, die er zu diesem Zeitpunkt bereits besaß, nach dieser Vorschrift nur auf Verlangen der Ausländerbehörde oder dann vorzulegen, wenn er bei der Ausländerbehörde einen Aufenthaltstitel, eine Duldung oder einen deutschen Passersatz beantragt oder erhält oder eine Anzeige nach § 56 Nr. 5 erstattet. Auf Grund anderer Vorschriften bestehende Rechtspflichten bleiben unberührt.
@@ -2910,6 +3047,9 @@ nach Maßgabe des Europäischen Übereinkommens über die Aufhebung des Sichtver
 
 ### Anlage B (zu § 19)
 
+(Fundstelle: BGBl. I 2004, 2968;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
 1.  
 Inhaber dienstlicher Pässe (Dienst-, Ministerial-, Diplomaten- und anderer Pässe für in amtlicher Funktion oder im amtlichen Auftrag Reisende) von
 
@@ -2944,13 +3084,28 @@ Albanien,
 Algerien,
 
   
+Armenien,
+
+  
+Aserbaidschan,
+
+  
 Bosnien und Herzegowina,
+
+  
+Ecuador,
+
+  
+Georgien,
 
   
 Indien,
 
   
-Jamaika, Kasachstan,
+Jamaika,
+
+  
+Kasachstan,
 
   
 Kenia,
@@ -2995,10 +3150,37 @@ Tunesien,
 Ukraine,
 
   
-Vereinigte Arabische Emirate.
+Vereinigte Arabische Emirate,
+
+  
+Vietnam.
 
 3.  
 Inhaber von Spezialpässen der Vereinigten Arabischen Emirate.
+
+4.  
+Inhaber von Dienstpässen von Ecuador.
+
+5.  
+Inhaber biometrischer Dienstpässe von
+
+  
+Moldau,
+
+  
+Ukraine.
+
+6.  
+Inhaber biometrischer Diplomatenpässe von
+
+  
+Gabun,
+
+  
+Mongolei.
+
+7.  
+Inhaber biometrischer Offizialpässe (Diplomaten-, Dienst- und Spezialpässe) von Katar.
 
 ### Anlage C (zu § 26 Absatz 2 Satz 1)
 
@@ -3059,7 +3241,8 @@ Fundstelle: BGBl. I 2004, 2975 - 2977)
 
 ### Anlage D4c Reiseausweis für Ausländer nach § 4 Abs. 1 Satz 1 Nr. 1
 
-(Fundstelle des Originaltextes: BGBl. I 2007, 2056 - 2063)
+(Fundstelle: BGBl. I 2007, 2056 - 2063;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 - Deckseiten -
 <img src="bgbl1_2007_j1970_0020.jpg" height="2242" />
@@ -3075,7 +3258,7 @@ Die Seiten 1 bis 32 werden am unteren Rand mit der Seriennummer versehen.
 <img src="bgbl1_2007_j1970_0050.jpg" height="2126" />
 
 – Innenseiten 4 und 5 –
-<img src="bgbl1_2007_j1970_0060.jpg" height="2126" />
+<img src="bgbl1_2015_j0218-1_0210.jpg" width="1921" height="1333" />
 
 – Innenseiten 6 bis 11 –
 <img src="bgbl1_2007_j1970_0070.jpg" height="2126" />
@@ -3152,7 +3335,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 ### Anlage D7a Reiseausweis für Flüchtlinge nach § 4 Abs. 1 Satz 1 Nr. 3
 
-(Fundstelle des Originaltextes: Fundstelle BGBl. I 2007, 2075 - 2082)
+(Fundstelle: Fundstelle BGBl. I 2007, 2075 - 2082;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 - Deckseiten -
 <img src="bgbl1_2007_j1970_0210.jpg" height="2242" />
@@ -3168,7 +3352,7 @@ Die Seiten 1 bis 32 werden am unteren Rand mit der Seriennummer versehen.
 <img src="bgbl1_2007_j1970_0240.jpg" height="2126" />
 
 – Innenseiten 4 und 5 –
-<img src="bgbl1_2007_j1970_0250.jpg" height="2126" />
+<img src="bgbl1_2015_j0218-1_0220.jpg" width="1921" height="1333" />
 
 – Innenseiten 6 bis 11 –
 <img src="bgbl1_2007_j1970_0260.jpg" height="2126" />
@@ -3225,7 +3409,8 @@ vorzugsweise den Seiten 6 bis 11, aufzukleben ist;
 
 ### Anlage D8a Reiseausweis für Staatenlose nach § 4 Abs. 1 Satz 1 Nr. 4
 
-(Fundstelle des Originaltextes: Fundstelle BGBl. I 2007, 2092 - 2099)
+(Fundstelle: Fundstelle BGBl. I 2007, 2092 - 2099;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 - Deckseiten -
 <img src="bgbl1_2007_j1970_0380.jpg" height="2247" />
@@ -3241,7 +3426,7 @@ Die Seiten 1 bis 32 werden am unteren Rand mit der Seriennummer versehen.
 <img src="bgbl1_2007_j1970_0410.jpg" height="2126" />
 
 – Innenseiten 4 und 5 –
-<img src="bgbl1_2007_j1970_0420.jpg" height="2126" />
+<img src="bgbl1_2015_j0218-1_0230.jpg" width="1921" height="1333" />
 
 – Innenseiten 6 bis 11 –
 <img src="bgbl1_2007_j1970_0430.jpg" height="2126" />
@@ -3326,15 +3511,17 @@ Fundstelle: BGBl. I 2004, 3022)
 (Inhalt: nicht darstellbares Muster der Bescheinigung,
 Fundstelle: BGBl. I 2004, 3023 - 3025)
 
-### Anlage D13a Visum (§ 4 Abs. 1 Nr. 1 Aufenthaltsgesetz)
+### Anlage D13a Visum (§ 4 Absatz 1 Satz 2 Nummer 1 Aufenthaltsgesetz)– Klebeetikett –
 
-(Inhalt: nicht darstellbares Visummuster,
-Fundstelle: BGBl. I 2004, 3026)
+(Fundstelle: BGBl. I 2013, 353)
 
-### Anlage D13b Verlängerung des Visums im Inland
+<img src="bgbl1_2013_j0351-1_0010.jpg" height="875" />
 
-(Inhalt: nicht darstellbares Muster,
-Fundstelle: BGBl. I 2004, 3027)
+### Anlage D13b Verlängerung des Visums im Inland– Klebeetikett –
+
+(Fundstelle: BGBl. I 2013, 353)
+
+<img src="bgbl1_2013_j0351-1_0020.jpg" height="879" />
 
 ### Anlage D14 Aufenthaltstitel nach § 4 Abs. 1 Nr. 2 bis 4 Aufenthaltsgesetz
 
@@ -3381,11 +3568,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 - Vorderseite -
 
-<img src="bgbl1_2011_j1530-1_0130.jpg" height="1017" />
+<img src="bgbl1_2013_j3484-1_0030.jpg" width="1011" height="639" />
 
 - Rückseite -
 
-<img src="bgbl1_2011_j1530-1_0140.jpg" height="1017" />
+<img src="bgbl1_2013_j3484-1_0040.jpg" width="1012" height="638" />
 
 - Vorderseite -
 
@@ -3419,9 +3606,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 <img src="bgbl1_2012_j1224-1_0020.jpg" height="644" />
 
-### Anlage D15 Aufenthaltskarte (§ 5 Abs. 2 des Freizügigkeitsgesetzes/EU) und Aufenthaltserlaubnis, die Ausländern ausgestellt wird, die auf Grund des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit ein Aufenthaltsrecht besitzen
+### Anlage D15 Aufenthaltskarte (§ 5 Absatz 1 des Freizügigkeitsgesetzes/EU) und Aufenthaltserlaubnis, die Ausländern ausgestellt wird, die auf Grund des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit ein Aufenthaltsrecht besitzen
 
-(Fundstelle des Originaltextes: Fundstelle BGBl. I 2007, 2110 - 2111)
+(Fundstelle: BGBl. I 2007, 2110 - 2111)
 
 - Vorderseite -
 <img src="bgbl1_2007_j1970_0560.jpg" height="2411" />
@@ -3429,9 +3616,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 – Rückseite –
 <img src="bgbl1_2007_j1970_0570.jpg" height="2494" />
 
-### Anlage D16 Bescheinigung des Daueraufenthalts und Daueraufenthaltskarte (§ 5 Abs. 6 des Freizügigkeitsgesetzes/EU)
+### Anlage D16 Bescheinigung des Daueraufenthalts und Daueraufenthaltskarte (§ 5 Absatz 5 des Freizügigkeitsgesetzes/EU)
 
-(Fundstelle des Originaltextes: Fundstelle BGBl. I 2007, 2112 - 2113)
+(Fundstelle: BGBl. I 2007, 2112 - 2113)
 
 - Vorderseite -
 <img src="bgbl1_2007_j1970_0580.jpg" height="2419" />
