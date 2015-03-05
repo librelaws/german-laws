@@ -2,7 +2,7 @@ Bundesdisziplinargesetz (BDG)
 =============================
 
 Stand  
-Zuletzt geändert durch Art. 4 G v. 28.8.2013 I 3386
+Zuletzt geändert durch Art. 8 G v. 6.3.2015 I 250
 
 ### 
 
@@ -1048,7 +1048,7 @@ Teil 7 Übergangs- und Schlussbestimmungen
 
 ### § 85 Übergangsbestimmungen
 
-(1) Die nach bisherigem Recht eingeleiteten Disziplinarverfahren werden in der Lage, in der sie sich bei Inkrafttreten dieses Gesetzes befinden, nach diesem Gesetz fortgeführt, soweit in den Absätzen 2 bis 11 nichts Abweichendes bestimmt ist. Maßnahmen, die nach bisherigem Recht getroffen worden sind, bleiben rechtswirksam.
+(1) Die nach bisherigem Recht eingeleiteten Disziplinarverfahren werden in der Lage, in der sie sich bei Inkrafttreten dieses Gesetzes befinden, nach diesem Gesetz fortgeführt, soweit in den Absätzen 2 bis 7 nichts Abweichendes bestimmt ist. Maßnahmen, die nach bisherigem Recht getroffen worden sind, bleiben rechtswirksam.
 
 (2) Die folgenden Disziplinarmaßnahmen nach bisherigem Recht stehen folgenden Disziplinarmaßnahmen nach diesem Gesetz gleich:
 
@@ -1061,25 +1061,17 @@ die Versetzung in ein Amt derselben Laufbahn mit geringerem Endgrundgehalt der Z
 3.  
 die Entfernung aus dem Dienst der Entfernung aus dem Beamtenverhältnis.
 
-(3) Vor dem Inkrafttreten dieses Gesetzes eingeleitete förmliche Disziplinarverfahren werden nach bisherigem Recht fortgeführt. Für die Anschuldigung und die Durchführung des gerichtlichen Verfahrens gilt ebenfalls das bisherige Recht.
+(3) Vor dem Inkrafttreten dieses Gesetzes eingeleitete förmliche Disziplinarverfahren werden nach bisherigem Recht fortgeführt.
 
 (4) Die Behörde des Bundesdisziplinaranwalts wird mit Ablauf des 31. Dezember 2003 aufgelöst. Ab diesem Zeitpunkt fertigt die Einleitungsbehörde in den Fällen von Absatz 3 die Anschuldigungsschrift; die Vorschriften der Bundesdisziplinarordnung sind nicht anzuwenden, soweit sie den Bundesdisziplinaranwalt betreffen.
 
-(5) Statthaftigkeit, Frist und Form eines Rechtsbehelfs oder Rechtsmittels gegen eine Entscheidung, die vor dem Inkrafttreten dieses Gesetzes ergangen ist, bestimmen sich nach bisherigem Recht. Im weiteren Verfahren gelten ebenfalls die Bestimmungen des bisherigen Rechts.
+(5) Für die Wiederaufnahme von Disziplinarverfahren, die vor dem Inkrafttreten dieses Gesetzes rechtskräftig abgeschlossen worden sind, gilt bis zum Ablauf des 31. Dezember 2003 Abschnitt IV der Bundesdisziplinarordnung. Ab diesem Zeitpunkt gelten die Bestimmungen dieses Gesetzes.
 
-(6) Die bei Inkrafttreten dieses Gesetzes anhängigen gerichtlichen Disziplinarverfahren werden nach den Bestimmungen des bisherigen Rechts fortgeführt. Dabei kann der Vorsitz einer oder mehrerer Kammern auch einem Richter auf Lebenszeit übertragen werden, der nicht Vorsitzender Richter ist. Ab dem Zeitpunkt des Inkrafttretens dieses Gesetzes kann von § 45 Abs. 1 der Bundesdisziplinarordnung abgewichen werden; ab diesem Zeitpunkt ist § 50 Abs. 1 der Bundesdisziplinarordnung nicht mehr anzuwenden.
+(6) Die nach bisherigem Recht in einem Disziplinarverfahren ergangenen Entscheidungen sind nach bisherigem Recht zu vollstrecken, wenn sie unanfechtbar geworden sind.
 
-(7) Das Bundesdisziplinargericht wird mit Ablauf des 31. Dezember 2003 aufgelöst. Die zu diesem Zeitpunkt bei diesem Gericht anhängigen Verfahren gehen in dem Stand, in dem sie sich befinden, auf das zuständige Verwaltungsgericht über. Die Vorschriften der Bundesdisziplinarordnung über das Verfahren vor dem Bundesdisziplinargericht gelten sinngemäß, soweit sie nicht die Beteiligung des Bundesdisziplinaranwalts oder die Besetzung der Kammern betreffen. Eine mündliche Verhandlung, die in einem anhängigen Gerichtsverfahren vor Ablauf des 31. Dezember 2003 geschlossen wurde, muss wiedereröffnet werden.
+(7) Die Frist für das Verwertungsverbot und ihre Berechnung für die Disziplinarmaßnahmen, die vor dem Inkrafttreten dieses Gesetzes verhängt worden sind, bestimmen sich nach diesem Gesetz. Dies gilt nicht, wenn die Frist und ihre Berechnung nach bisherigem Recht für den Beamten günstiger ist.
 
-(8) Für die Wiederaufnahme von Disziplinarverfahren, die vor dem Inkrafttreten dieses Gesetzes rechtskräftig abgeschlossen worden sind, gilt bis zum Ablauf des 31. Dezember 2003 Abschnitt IV der Bundesdisziplinarordnung. Ab diesem Zeitpunkt gelten die Bestimmungen dieses Gesetzes.
-
-(9) Die nach bisherigem Recht in einem Disziplinarverfahren ergangenen Entscheidungen sind nach bisherigem Recht zu vollstrecken, wenn sie unanfechtbar geworden sind.
-
-(10) Die Frist für das Verwertungsverbot und ihre Berechnung für die Disziplinarmaßnahmen, die vor dem Inkrafttreten dieses Gesetzes verhängt worden sind, bestimmen sich nach diesem Gesetz. Dies gilt nicht, wenn die Frist und ihre Berechnung nach bisherigem Recht für den Beamten günstiger ist.
-
-(11) Die beim Bundesverwaltungsgericht im Jahr 2011 nach bisherigem Recht bestellten Beamtenbeisitzer bleiben bis zur Auflösung des Disziplinarsenats beim Bundesverwaltungsgericht im Amt. Wird die Auslosung weiterer Beamtenbeisitzer erforderlich, erfolgt sie für die Zeit bis zur Auflösung des Disziplinarsenats beim Bundesverwaltungsgericht aus den Listen, die nach § 49 Absatz 1 der Bundesdisziplinarordnung in der Fassung der Bekanntmachung vom 20. Juli 1967 (BGBl. I S. 750, 984) in der bis zum 31. Dezember 2001 geltenden Fassung für die Jahre 2008 bis 2011 aufgestellt worden sind. Die §§ 51 bis 54 der Bundesdisziplinarordnung bleiben unberührt.
-
-(12) Gebühren nach § 78 Satz 1 werden nur für die nach dem 31. Dezember 2009 anhängig werdenden gerichtlichen Verfahren erhoben. Dies gilt nicht im Verfahren über ein Rechtsmittel, das nach dem 31. Dezember 2009 eingelegt worden ist.
+(8) Gebühren nach § 78 Satz 1 werden nur für die nach dem 31. Dezember 2009 anhängig werdenden gerichtlichen Verfahren erhoben. Dies gilt nicht im Verfahren über ein Rechtsmittel, das nach dem 31. Dezember 2009 eingelegt worden ist.
 
 ### § 86 Verwaltungsvorschriften
 
