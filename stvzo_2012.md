@@ -2,10 +2,7 @@ Straßenverkehrs-Zulassungs-Ordnung (StVZO)
 ==========================================
 
 Stand  
-Zuletzt geändert durch Art. 8 V v. 5.11.2013 I 3920
-
-Hinweis  
-Änderung durch Art. 7 V v. 16.4.2014 I 348 (Nr. 15) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 2 V v. 9.3.2015 I 243
 
 ### 
 
@@ -848,7 +845,7 @@ II. Betriebserlaubnis und Bauartgenehmigung
 
 ### § 19 Erteilung und Wirksamkeit der Betriebserlaubnis
 
-(1) Die Betriebserlaubnis ist zu erteilen, wenn das Fahrzeug den Vorschriften dieser Verordnung, den zu ihrer Ausführung erlassenen Anweisungen des Bundesministeriums für Verkehr, Bau und Stadtentwicklung und den Vorschriften der Verordnung (EWG) Nr. 3821/85 des Rates vom 20. Dezember 1985 über das Kontrollgerät im Straßenverkehr (ABl. L 370 vom 31.12.1985, S. 8), die zuletzt durch die Verordnung (EU) Nr. 1266/2009 (ABl. L 339 vom 22.12.2009, S. 3) geändert worden ist, entspricht. Die Betriebserlaubnis ist ferner zu erteilen, wenn das Fahrzeug anstelle der Vorschriften dieser Verordnung die Einzelrichtlinien in ihrer jeweils geltenden Fassung erfüllt, die
+(1) Die Betriebserlaubnis ist zu erteilen, wenn das Fahrzeug den Vorschriften dieser Verordnung, den zu ihrer Ausführung erlassenen Anweisungen des Bundesministeriums für Verkehr und digitale Infrastruktur und den Vorschriften der Verordnung (EWG) Nr. 3821/85 des Rates vom 20. Dezember 1985 über das Kontrollgerät im Straßenverkehr (ABl. L 370 vom 31.12.1985, S. 8), die zuletzt durch die Verordnung (EU) Nr. 1266/2009 (ABl. L 339 vom 22.12.2009, S. 3) geändert worden ist, entspricht. Die Betriebserlaubnis ist ferner zu erteilen, wenn das Fahrzeug anstelle der Vorschriften dieser Verordnung die Einzelrichtlinien in ihrer jeweils geltenden Fassung erfüllt, die
 
 1.  
 in Anhang IV der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie) (ABl. L 263 vom 9.10.2007, S. 1), die zuletzt durch die Verordnung (EU) Nr. 371/2010 (ABl. L 110 vom 1.5.2010, S. 1) geändert worden ist, oder
@@ -859,7 +856,7 @@ in Anhang II Kapitel B der Richtlinie 2003/37/EG des Europäischen Parlaments un
 3.  
 in Anhang I der Richtlinie 2002/24/EG des Europäischen Parlaments und des Rates vom 18. März 2002 über die Typgenehmigung für zweirädrige oder dreirädrige Kraftfahrzeuge und zur Aufhebung der Richtlinie 92/61/EWG des Rates (ABl. L 124 vom 9.5.2002, S. 1), die zuletzt durch die Verordnung (EG) Nr. 1137/2008 (ABl. L 311 vom 21.11.2008, S. 1) geändert worden ist,
 
-in seiner jeweils geltenden Fassung genannt sind. Die jeweilige Liste der in Anhang IV der Richtlinie 2007/46/EG, in Anhang II der Richtlinie 2003/37/EG und in Anhang I der Richtlinie 2002/24/EG genannten Einzelrichtlinien wird unter Angabe der Kurzbezeichnungen und der ersten Fundstelle aus dem Amtsblatt der Europäischen Gemeinschaften vom Bundesministerium für Verkehr, Bau und Stadtentwicklung im Verkehrsblatt bekannt gemacht und fortgeschrieben. Die in Satz 2 genannten Einzelrichtlinien sind jeweils ab dem Zeitpunkt anzuwenden, zu dem sie in Kraft treten und nach Satz 3 bekannt gemacht worden sind. Soweit in einer Einzelrichtlinie ihre verbindliche Anwendung vorgeschrieben ist, ist nur diese Einzelrichtlinie maßgeblich. Gehört ein Fahrzeug zu einem genehmigten Typ oder liegt eine Einzelbetriebserlaubnis nach dieser Verordnung oder eine Einzelgenehmigung nach § 13 der EG-Fahrzeuggenehmigungsverordnung vor, ist die Erteilung einer neuen Betriebserlaubnis nur zulässig, wenn die Betriebserlaubnis nach Absatz 2 Satz 2 erloschen ist.
+in seiner jeweils geltenden Fassung genannt sind. Die jeweilige Liste der in Anhang IV der Richtlinie 2007/46/EG, in Anhang II der Richtlinie 2003/37/EG und in Anhang I der Richtlinie 2002/24/EG genannten Einzelrichtlinien wird unter Angabe der Kurzbezeichnungen und der ersten Fundstelle aus dem Amtsblatt der Europäischen Gemeinschaften vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt bekannt gemacht und fortgeschrieben. Die in Satz 2 genannten Einzelrichtlinien sind jeweils ab dem Zeitpunkt anzuwenden, zu dem sie in Kraft treten und nach Satz 3 bekannt gemacht worden sind. Soweit in einer Einzelrichtlinie ihre verbindliche Anwendung vorgeschrieben ist, ist nur diese Einzelrichtlinie maßgeblich. Gehört ein Fahrzeug zu einem genehmigten Typ oder liegt eine Einzelbetriebserlaubnis nach dieser Verordnung oder eine Einzelgenehmigung nach § 13 der EG-Fahrzeuggenehmigungsverordnung vor, ist die Erteilung einer neuen Betriebserlaubnis nur zulässig, wenn die Betriebserlaubnis nach Absatz 2 Satz 2 erloschen ist.
 
 (2) Die Betriebserlaubnis des Fahrzeugs bleibt, wenn sie nicht ausdrücklich entzogen wird, bis zu seiner endgültigen Außerbetriebsetzung wirksam. Sie erlischt, wenn Änderungen vorgenommen werden, durch die
 
@@ -931,7 +928,7 @@ Werden bei Teilen nach Nummer 1 oder 2 in der Betriebserlaubnis, der Bauartgeneh
 des Absatzes 3 Nummer 1 den Abdruck oder die Ablichtung der betreffenden Betriebserlaubnis, Bauartgenehmigung, Genehmigung im Rahmen der Betriebserlaubnis oder eines Nachtrags dazu oder eines Auszugs dieser Erlaubnis oder Genehmigung, der die für die Verwendung wesentlichen Angaben enthält, und
 
 2.  
-des Absatzes 3 Nummer 3 und 4 einen Nachweis nach einem vom Bundesministerium für Verkehr, Bau und Stadtentwicklung im Verkehrsblatt bekannt gemachten Muster über die Erlaubnis, die Genehmigung oder das Teilegutachten mit der Bestätigung des ordnungsgemäßen Ein- oder Anbaus sowie den zu beachtenden Beschränkungen oder Auflagen mitzuführen und zuständigen Personen auf Verlangen auszuhändigen. Satz 1 gilt nicht, wenn die Zulassungsbescheinigung Teil I, das Anhängerverzeichnis nach § 11 Absatz 1 Satz 2 der Fahrzeug-Zulassungsverordnung oder ein nach § 4 Absatz 5 der Fahrzeug-Zulassungsverordnung mitzuführender oder aufzubewahrender Nachweis einen entsprechenden Eintrag einschließlich zu beachtender Beschränkungen oder Auflagen enthält; anstelle der zu beachtenden Beschränkungen oder Auflagen kann auch ein Vermerk enthalten sein, dass diese in einer mitzuführenden Erlaubnis, Genehmigung oder einem mitzuführenden Nachweis aufgeführt sind. Die Pflicht zur Mitteilung von Änderungen nach § 13 der Fahrzeug-Zulassungsverordnung bleibt unberührt.
+des Absatzes 3 Nummer 3 und 4 einen Nachweis nach einem vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt bekannt gemachten Muster über die Erlaubnis, die Genehmigung oder das Teilegutachten mit der Bestätigung des ordnungsgemäßen Ein- oder Anbaus sowie den zu beachtenden Beschränkungen oder Auflagen mitzuführen und zuständigen Personen auf Verlangen auszuhändigen. Satz 1 gilt nicht, wenn die Zulassungsbescheinigung Teil I, das Anhängerverzeichnis nach § 11 Absatz 1 Satz 2 der Fahrzeug-Zulassungsverordnung oder ein nach § 4 Absatz 5 der Fahrzeug-Zulassungsverordnung mitzuführender oder aufzubewahrender Nachweis einen entsprechenden Eintrag einschließlich zu beachtender Beschränkungen oder Auflagen enthält; anstelle der zu beachtenden Beschränkungen oder Auflagen kann auch ein Vermerk enthalten sein, dass diese in einer mitzuführenden Erlaubnis, Genehmigung oder einem mitzuführenden Nachweis aufgeführt sind. Die Pflicht zur Mitteilung von Änderungen nach § 13 der Fahrzeug-Zulassungsverordnung bleibt unberührt.
 
 (5) Ist die Betriebserlaubnis nach Absatz 2 Satz 2 oder Absatz 3 Satz 2 erloschen, so darf das Fahrzeug nicht auf öffentlichen Straßen in Betrieb genommen werden oder dessen Inbetriebnahme durch den Halter angeordnet oder zugelassen werden. Ausnahmen von Satz 1 sind nur nach Maßgabe der Sätze 3 bis 5 zulässig. Ist die Betriebserlaubnis nach Absatz 2 Satz 2 erloschen, dürfen nur solche Fahrten durchgeführt werden, die in unmittelbarem Zusammenhang mit der Erlangung einer neuen Betriebserlaubnis stehen. Am Fahrzeug sind die bisherigen Kennzeichen oder rote Kennzeichen oder Kurzzeitkennzeichen zu führen. Die Sätze 3 und 4 gelten auch für Fahrten, die der amtlich anerkannte Sachverständige für den Kraftfahrzeugverkehr im Rahmen der Erstellung des Gutachtens durchführt.
 
@@ -1162,7 +1159,7 @@ Rückhalteeinrichtungen für Kinder in Kraftfahrzeugen (§ 35a Absatz 12 dieser 
 
 (1a) § 22 Absatz 1 Satz 2 bis 5 ist entsprechend anzuwenden.
 
-(2) Fahrzeugteile, die in einer amtlich genehmigten Bauart ausgeführt sein müssen, dürfen zur Verwendung im Geltungsbereich dieser Verordnung nur feilgeboten, veräußert, erworben oder verwendet werden, wenn sie mit einem amtlich vorgeschriebenen und zugeteilten Prüfzeichen gekennzeichnet sind. Die Ausgestaltung der Prüfzeichen und das Verfahren bestimmt das Bundesministerium für Verkehr, Bau und Stadtentwicklung; insoweit gilt die Fahrzeugteileverordnung vom 12. August 1998 (BGBl. I S. 2142).
+(2) Fahrzeugteile, die in einer amtlich genehmigten Bauart ausgeführt sein müssen, dürfen zur Verwendung im Geltungsbereich dieser Verordnung nur feilgeboten, veräußert, erworben oder verwendet werden, wenn sie mit einem amtlich vorgeschriebenen und zugeteilten Prüfzeichen gekennzeichnet sind. Die Ausgestaltung der Prüfzeichen und das Verfahren bestimmt das Bundesministerium für Verkehr und digitale Infrastruktur; insoweit gilt die Fahrzeugteileverordnung vom 12. August 1998 (BGBl. I S. 2142).
 
 (3) Die Absätze 1 und 2 sind nicht anzuwenden auf
 
@@ -1192,7 +1189,7 @@ Zur Einstufung eines Fahrzeugs als Oldtimer im Sinne des § 2 Nummer 22 der Fahr
 (1) Die Halter von zulassungspflichtigen Fahrzeugen im Sinne des § 3 Absatz 1 der Fahrzeug-Zulassungsverordnung und kennzeichenpflichtigen Fahrzeugen nach § 4 Absatz 2 und 3 Satz 2 der Fahrzeug-Zulassungsverordnung haben ihre Fahrzeuge auf ihre Kosten nach Maßgabe der Anlage VIII in Verbindung mit Anlage VIIIa in regelmäßigen Zeitabständen untersuchen zu lassen. Ausgenommen sind
 
 1.  
-Fahrzeuge mit rotem Kennzeichen oder Kurzzeitkennzeichen,
+Fahrzeuge mit rotem Kennzeichen,
 
 2.  
 Fahrzeuge der Bundeswehr und der Bundespolizei.
@@ -1202,7 +1199,7 @@ Fahrzeuge der Bundeswehr und der Bundespolizei.
 (2) Der Halter hat den Monat, in dem das Fahrzeug spätestens zur
 
 1.  
-Hauptuntersuchung vorgeführt werden muss, durch eine Prüfplakette nach Anlage IX auf dem Kennzeichen nachzuweisen,
+Hauptuntersuchung vorgeführt werden muss, durch eine Prüfplakette nach Anlage IX auf dem Kennzeichen nachzuweisen, es sei denn, es handelt sich um ein Kurzzeitkennzeichen,
 
 2.  
 Sicherheitsprüfung vorgeführt werden muss, durch eine Prüfmarke in Verbindung mit einem SP-Schild nach Anlage IXb nachzuweisen.
@@ -1289,7 +1286,7 @@ in Anhang II Kapitel B der Richtlinie 2003/37/EG oder
 3.  
 in Anhang I der Richtlinie 2002/24/EG
 
-in seiner jeweils geltenden Fassung genannt sind. Die jeweilige Liste der in Anhang IV der Richtlinie 2007/46/EG, in Anhang II der Typgenehmigungsrichtlinie 2003/37/EG und in Anhang I der Richtlinie 2002/24/EG genannten Einzelrichtlinien wird unter Angabe der Kurzbezeichnungen und der ersten Fundstelle aus dem Amtsblatt der Europäischen Gemeinschaften vom Bundesministerium für Verkehr, Bau und Stadtentwicklung im Verkehrsblatt bekannt gemacht und fortgeschrieben. Die in Satz 1 genannten Einzelrichtlinien sind jeweils ab dem Zeitpunkt anzuwenden, zu dem sie in Kraft treten und nach Satz 2 bekannt gemacht worden sind. Soweit in einer Einzelrichtlinie ihre verbindliche Anwendung vorgeschrieben ist, ist nur diese Einzelrichtlinie maßgeblich.
+in seiner jeweils geltenden Fassung genannt sind. Die jeweilige Liste der in Anhang IV der Richtlinie 2007/46/EG, in Anhang II der Typgenehmigungsrichtlinie 2003/37/EG und in Anhang I der Richtlinie 2002/24/EG genannten Einzelrichtlinien wird unter Angabe der Kurzbezeichnungen und der ersten Fundstelle aus dem Amtsblatt der Europäischen Gemeinschaften vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt bekannt gemacht und fortgeschrieben. Die in Satz 1 genannten Einzelrichtlinien sind jeweils ab dem Zeitpunkt anzuwenden, zu dem sie in Kraft treten und nach Satz 2 bekannt gemacht worden sind. Soweit in einer Einzelrichtlinie ihre verbindliche Anwendung vorgeschrieben ist, ist nur diese Einzelrichtlinie maßgeblich.
 
 ### § 30a Durch die Bauart bestimmte Höchstgeschwindigkeit sowie maximales Drehmoment und maximale Nutzleistung des Motors
 
@@ -2218,6 +2215,8 @@ Bei Lastkraftwagen sowie Kraftomnibussen einschließlich Gepäckanhänger, bei S
 (11) Abweichend von den Absätzen 2 bis 5 gelten für Verankerungen der Sicherheitsgurte und Sicherheitsgurte von dreirädrigen oder vierrädrigen Kraftfahrzeugen nach § 30a Absatz 3 die im Anhang zu dieser Vorschrift genannten Bestimmungen.
 
 (12) In Kraftfahrzeugen integrierte Rückhalteeinrichtungen für Kinder müssen den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.
+
+(13) Rückhalteeinrichtungen für Kinder bis zu einem Lebensalter von 15 Monaten, die der im Anhang zu dieser Vorschrift genannten Bestimmung entsprechen, dürfen entsprechend ihres Verwendungszwecks nur nach hinten oder seitlich gerichtet angebracht sein.
 
 ### § 35b Einrichtungen zum sicheren Führen der Fahrzeuge
 
@@ -3507,7 +3506,7 @@ mit Fahrtschreiber oder Kontrollgerät (§ 57a) ausgerüstete Kraftfahrzeuge, we
 
 ### § 57a Fahrtschreiber und Kontrollgerät
 
-(1) Mit einem eichfähigen Fahrtschreiber sind auszurüsten
+(1) Mit einem nach dem Mess- und Eichgesetz in Verkehr gebrachten Fahrtschreiber sind auszurüsten
 
 1.  
 Kraftfahrzeuge mit einem zulässigen Gesamtgewicht von 7,5 t und darüber,
@@ -3992,7 +3991,7 @@ des § 34a Absatz 1 über die Besetzung, Beladung und Kennzeichnung von Kraftomn
 des § 35 über die Motorleistung;
 
 7.  
-des § 35a Absatz 1 über Anordnung oder Beschaffenheit des Sitzes des Fahrzeugführers, des Betätigungsraums oder der Einrichtungen zum Führen des Fahrzeugs für den Fahrer, der Absätze 2, 3, 4, 5 Satz 1 oder Absatz 7 über Sitze und deren Verankerungen, Kopfstützen, Sicherheitsgurte und deren Verankerungen oder über Rückhaltesysteme, des Absatzes 8 Satz 1 über die Anbringung von nach hinten gerichteten Rückhalteeinrichtungen für Kinder auf Beifahrersitzen, vor denen ein betriebsbereiter Airbag eingebaut ist, oder Satz 2 oder 4 über die Warnung vor der Verwendung von nach hinten gerichteten Rückhalteeinrichtungen für Kinder auf Beifahrersitzen mit Airbag, des Absatzes 9 Satz 1 über einen Sitz für den Beifahrer auf Krafträdern oder des Absatzes 10 über die Beschaffenheit von Sitzen, ihrer Lehnen und ihrer Befestigungen sowie der selbsttätigen Verriegelung von klappbaren Sitzen und Rückenlehnen und der Zugänglichkeit der Entriegelungseinrichtung oder des Absatzes 11 über Verankerungen der Sicherheitsgurte und Sicherheitsgurte von dreirädrigen oder vierrädrigen Kraftfahrzeugen;
+des § 35a Absatz 1 über Anordnung oder Beschaffenheit des Sitzes des Fahrzeugführers, des Betätigungsraums oder der Einrichtungen zum Führen des Fahrzeugs für den Fahrer, der Absätze 2, 3, 4, 5 Satz 1 oder Absatz 7 über Sitze und deren Verankerungen, Kopfstützen, Sicherheitsgurte und deren Verankerungen oder über Rückhaltesysteme, des Absatzes 8 Satz 1 über die Anbringung von nach hinten gerichteten Rückhalteeinrichtungen für Kinder auf Beifahrersitzen, vor denen ein betriebsbereiter Airbag eingebaut ist, oder Satz 2 oder 4 über die Warnung vor der Verwendung von nach hinten gerichteten Rückhalteeinrichtungen für Kinder auf Beifahrersitzen mit Airbag, des Absatzes 9 Satz 1 über einen Sitz für den Beifahrer auf Krafträdern oder des Absatzes 10 über die Beschaffenheit von Sitzen, ihrer Lehnen und ihrer Befestigungen sowie der selbsttätigen Verriegelung von klappbaren Sitzen und Rückenlehnen und der Zugänglichkeit der Entriegelungseinrichtung oder des Absatzes 11 über Verankerungen der Sicherheitsgurte und Sicherheitsgurte von dreirädrigen oder vierrädrigen Kraftfahrzeugen; oder des Absatzes 13 über die Pflicht zur nach hinten oder seitlich gerichteten Anbringung von Rückhalteeinrichtungen für Kinder bis zu einem Alter von 15 Monaten
 
 7a.  
 des § 35b Absatz 1 über die Beschaffenheit der Einrichtungen zum Führen von Fahrzeugen oder des § 35b Absatz 2 über das Sichtfeld des Fahrzeugführers;
@@ -4052,7 +4051,7 @@ des § 49 Absatz 1 über die Geräuschentwicklung;
 des § 49a Absatz 1 bis 4, 5 Satz 1, Absatz 6, 8, 9 Satz 2, Absatz 9a oder 10 Satz 1 über die allgemeinen Bestimmungen für lichttechnische Einrichtungen;
 
 18a.  
-des § 50 Absatz 1, 2 Satz 1, 6 Halbsatz 2 oder Satz 7, Absatz 3 Satz 1 oder 2, Absatz 5, 6 Satz 1, 3, 4 oder 6, Absatz 6a Satz 2 bis 5 oder Absatz 9 über Scheinwerfer für Fern- oder Abblendlicht oder Absatz 10 über Schweinwerfer mit Gasentladungslampen;
+des § 50 Absatz 1, 2 Satz 1, 6 Halbsatz 2 oder Satz 7, Absatz 3 Satz 1 oder 2, Absatz 5, 6 Satz 1, 3, 4 oder 6, Absatz 6a Satz 2 bis 5 oder Absatz 9 über Scheinwerfer für Fern- oder Abblendlicht oder Absatz 10 über Scheinwerfer mit Gasentladungslampen;
 
 18b.  
 des § 51 Absatz 1 Satz 1, 4 bis 6, Absatz 2 Satz 1, 4 oder Absatz 3 über Begrenzungsleuchten oder vordere Rückstrahler;
@@ -4236,10 +4235,10 @@ die höheren Verwaltungsbehörden in bestimmten Einzelfällen oder allgemein fü
 die zuständigen obersten Landesbehörden oder die von ihnen bestimmten oder nach Landesrecht zuständigen Stellen von allen Vorschriften dieser Verordnung in bestimmten Einzelfällen oder allgemein für bestimmte einzelne Antragsteller; sofern die Ausnahmen erhebliche Auswirkungen auf das Gebiet anderer Länder haben, ergeht die Entscheidung im Einvernehmen mit den zuständigen Behörden dieser Länder,
 
 3.  
-das Bundesministerium für Verkehr, Bau und Stadtentwicklung von allen Vorschriften dieser Verordnung, sofern nicht die Landesbehörden nach den Nummern 1 und 2 zuständig sind – allgemeine Ausnahmen ordnet es durch Rechtsverordnung ohne Zustimmung des Bundesrates nach Anhören der zuständigen obersten Landesbehörden an –,
+das Bundesministerium für Verkehr und digitale Infrastruktur von allen Vorschriften dieser Verordnung, sofern nicht die Landesbehörden nach den Nummern 1 und 2 zuständig sind – allgemeine Ausnahmen ordnet es durch Rechtsverordnung ohne Zustimmung des Bundesrates nach Anhören der zuständigen obersten Landesbehörden an –,
 
 4.  
-das Kraftfahrt-Bundesamt mit Ermächtigung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung bei Erteilung oder in Ergänzung einer Allgemeinen Betriebserlaubnis oder Bauartgenehmigung,
+das Kraftfahrt-Bundesamt mit Ermächtigung des Bundesministeriums für Verkehr und digitale Infrastruktur bei Erteilung oder in Ergänzung einer Allgemeinen Betriebserlaubnis oder Bauartgenehmigung,
 
 5.  
 das Kraftfahrt-Bundesamt für solche Lagerfahrzeuge, für die durch Inkrafttreten neuer oder geänderter Vorschriften die Allgemeine Betriebserlaubnis nicht mehr gilt. In diesem Fall hat der Inhaber der Allgemeinen Betriebserlaubnis beim Kraftfahrt-Bundesamt einen Antrag unter Beifügung folgender Angaben zu stellen:
@@ -4262,7 +4261,7 @@ Bestätigung, dass die Lagerfahrzeuge die bis zum Inkrafttreten der neuen oder g
 f)  
 Bestätigung, dass die unter Buchstabe d aufgeführten Fahrzeuge sich in Deutschland oder in einem dem Kraftfahrt-Bundesamt im Rahmen des Typgenehmigungsverfahrens benannten Lager befinden.
 
-(1a) Genehmigen die zuständigen obersten Landesbehörden oder die von ihnen bestimmten Stellen Ausnahmen von den Vorschriften der §§ 32, 32d Absatz 1 oder § 34 für Fahrzeuge oder Fahrzeugkombinationen, die auf neuen Technologien oder Konzepten beruhen und während eines Versuchszeitraums in bestimmten örtlichen Bereichen eingesetzt werden, so unterrichten diese Stellen das Bundesministerium für Verkehr, Bau und Stadtentwicklung im Hinblick auf Artikel 4 Absatz 5 Satz 2 der Richtlinie 96/53/EG mit einer Abschrift der Ausnahmegenehmigung.
+(1a) Genehmigen die zuständigen obersten Landesbehörden oder die von ihnen bestimmten Stellen Ausnahmen von den Vorschriften der §§ 32, 32d Absatz 1 oder § 34 für Fahrzeuge oder Fahrzeugkombinationen, die auf neuen Technologien oder Konzepten beruhen und während eines Versuchszeitraums in bestimmten örtlichen Bereichen eingesetzt werden, so unterrichten diese Stellen das Bundesministerium für Verkehr und digitale Infrastruktur im Hinblick auf Artikel 4 Absatz 5 Satz 2 der Richtlinie 96/53/EG mit einer Abschrift der Ausnahmegenehmigung.
 
 (2) Vor der Genehmigung einer Ausnahme von den §§ 32, 32d, 33, 34 und 36 und einer allgemeinen Ausnahme von § 65 sind die obersten Straßenbaubehörden der Länder und, wo noch nötig, die Träger der Straßenbaulast zu hören.
 
@@ -4764,7 +4763,7 @@ Hauptuntersuchungen
 Hauptuntersuchungen sind von einem amtlich anerkannten Sachverständigen oder Prüfer für den Kraftfahrzeugverkehr (im Folgenden als aaSoP bezeichnet) oder von einer amtlich anerkannten Überwachungsorganisation nach Anlage VIIIb durch einen von ihr betrauten Prüfingenieur (im Folgenden als PI bezeichnet) durchführen zu lassen.
 
 3.1.1.1  
-Die Untersuchung des Motormanagement-/Abgasreinigungssystems der Kraftfahrzeuge nach Nummer 1.2.1.1 in Verbindung mit Nummer 6.8.2 der Anlage VIIIa kann als eigenständiger Teil der Hauptuntersuchungen von einer dafür nach Nummer 1 der Anlage VIIIc anerkannten Kraftfahrzeugwerkstatt durchgeführt werden; die Durchführung ist auf einem mit fälschungserschwerenden Merkmalen zu versehenden Nachweis, der dem vom Bundesministerium für Verkehr, Bau und Stadtentwicklung mit Zustimmung der obersten Landesbehörden im Verkehrsblatt bekannt gemachten Muster entspricht, zu bescheinigen. Diese Untersuchung darf frühestens zwei Monate vor der Durchführung der Hauptuntersuchung durchgeführt werden. Der Nachweis ist dem aaSoP oder PI auszuhändigen, der die Kontrollnummer der in Satz 1 genannten Kraftfahrzeugwerkstatt sowie gegebenenfalls die Mängelnummer nach Nummer 3.1.4.6 in den Untersuchungsbericht überträgt und die von ihr im Nachweis aufgeführten Mängel bei der Hauptuntersuchung berücksichtigt.
+Die Untersuchung des Motormanagement-/Abgasreinigungssystems der Kraftfahrzeuge nach Nummer 1.2.1.1 in Verbindung mit Nummer 6.8.2 der Anlage VIIIa kann als eigenständiger Teil der Hauptuntersuchungen von einer dafür nach Nummer 1 der Anlage VIIIc anerkannten Kraftfahrzeugwerkstatt durchgeführt werden; die Durchführung ist auf einem mit fälschungserschwerenden Merkmalen zu versehenden Nachweis, der dem vom Bundesministerium für Verkehr und digitale Infrastruktur mit Zustimmung der obersten Landesbehörden im Verkehrsblatt bekannt gemachten Muster entspricht, zu bescheinigen. Diese Untersuchung darf frühestens zwei Monate vor der Durchführung der Hauptuntersuchung durchgeführt werden. Der Nachweis ist dem aaSoP oder PI auszuhändigen, der die Kontrollnummer der in Satz 1 genannten Kraftfahrzeugwerkstatt sowie gegebenenfalls die Mängelnummer nach Nummer 3.1.4.6 in den Untersuchungsbericht überträgt und die von ihr im Nachweis aufgeführten Mängel bei der Hauptuntersuchung berücksichtigt.
 
 3.1.1.2  
 Die Untersuchung der Gasanlagen für Antriebssysteme von Kraftfahrzeugen nach Nummer 1.2.1 in Verbindung mit Anlage VIIIa Nummer 6.8.5 kann als eigenständiger Teil der Hauptuntersuchung von einer dafür nach Anlage XVIIa anerkannten Kraftfahrzeugwerkstatt durchgeführt werden (wiederkehrende Gasanlagenprüfung). Die Durchführung der Untersuchung ist auf einem Nachweis nach Nummer 2.4 der Anlage XVII zu bescheinigen. Die Untersuchung darf höchstens zwölf Monate vor dem durch die Prüfplakette angegebenen Monat für die nächste vorgeschriebene Hauptuntersuchung durchgeführt werden. Wurde innerhalb dieses Zeitraums eine Gassystemeinbauprüfung nach § 41a Absatz 5 oder eine Gasanlagenprüfung nach § 41a Absatz 6 durchgeführt, tritt diese an die Stelle der Untersuchung nach Satz 1. Der Nachweis über die durchgeführte Untersuchung oder Prüfung ist dem aaSoP oder PI auszuhändigen, der die Kontrollnummer der in Satz 1 genannten Kraftfahrzeugwerkstatt in den Untersuchungsbericht überträgt und die von ihr im Nachweis aufgeführten Mängel bei der Hauptuntersuchung berücksichtigt.
@@ -4912,7 +4911,7 @@ der aaSoP oder PI die vorhandene Prüfmarke und Prüfplakette zu entfernen, wenn
 Eine Hauptuntersuchung, die zum Zeitpunkt einer Sicherheitsprüfung durchgeführt wird, kann die Sicherheitsprüfung nicht ersetzen.
 
 3.2.5  
-Prüfprotokolle über Sicherheitsprüfungen sind nach einem vom Bundesministerium für Verkehr, Bau und Stadtentwicklung im Benehmen mit den obersten Landesbehörden im Verkehrsblatt bekannt gemachten Muster fälschungserschwerend auszuführen.
+Prüfprotokolle über Sicherheitsprüfungen sind nach einem vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den obersten Landesbehörden im Verkehrsblatt bekannt gemachten Muster fälschungserschwerend auszuführen.
 
 3.2.5.1  
 Die Prüfprotokolle müssen mindestens folgende Angaben enthalten:
@@ -5006,7 +5005,7 @@ Anlage VIII Nr. 2.6 Satz 2 Kursivdruck: Änderungsanweisung d. Art. 1 Nr. 9 Buch
 der für diese Untersuchung geltenden Vorschriften des § 29 und der Anlage VIII sowie
 
 2.  
-der dazu im Verkehrsblatt vom Bundesministerium für Verkehr, Bau und Stadtentwicklung im Benehmen mit den zuständigen obersten Landesbehörden bekannt gemachten Richtlinien
+der dazu im Verkehrsblatt vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden bekannt gemachten Richtlinien
 
 oder, soweit solche nicht vorliegen,
 
@@ -5037,10 +5036,10 @@ an einem Fahrzeug, für das eine vorgeschriebene Sicherheitsprüfung (SP) nicht 
 **Beurteilung der bei Hauptuntersuchungen festgestellten Mängel und deren Weitergabe**
 
 3.1  
-Werden bei HU an Fahrzeugen Mängel nach Nummer 3.1.4 der Anlage VIII festgestellt, sind diese vom aaSoP oder PI zu beurteilen. Dies gilt auch, wenn die Untersuchung des Motormanagement-/Abgasreinigungssystems als eigenständiger Teil nach Maßgabe von Nummer 3.1.1.1 der Anlage VIII durchgeführt wurde. Die Beurteilung und die Zuordnung der Mängel müssen nach der hierzu im Verkehrsblatt vom Bundesministerium für Verkehr, Bau und Stadtentwicklung im Benehmen mit den zuständigen obersten Landesbehörden bekannt gemachten Richtlinie vorgenommen werden. Die Anwendung der Richtlinie einschließlich der ordnungsgemäßen Beurteilung der Fahrzeuge durch die aaSoP/PI haben die Technischen Prüfstellen und Überwachungsorganisationen sicherzustellen.
+Werden bei HU an Fahrzeugen Mängel nach Nummer 3.1.4 der Anlage VIII festgestellt, sind diese vom aaSoP oder PI zu beurteilen. Dies gilt auch, wenn die Untersuchung des Motormanagement-/Abgasreinigungssystems als eigenständiger Teil nach Maßgabe von Nummer 3.1.1.1 der Anlage VIII durchgeführt wurde. Die Beurteilung und die Zuordnung der Mängel müssen nach der hierzu im Verkehrsblatt vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden bekannt gemachten Richtlinie vorgenommen werden. Die Anwendung der Richtlinie einschließlich der ordnungsgemäßen Beurteilung der Fahrzeuge durch die aaSoP/PI haben die Technischen Prüfstellen und Überwachungsorganisationen sicherzustellen.
 
 3.2  
-Die bei den HU festgestellten Mängel und/oder festgestellte Ausbauten von sicherheits- oder umweltrelevanten Fahrzeugeinrichtungen sowie Rückrüstungen oder Hochrüstungen der Fahrzeuge bezogen auf einen zum Zeitpunkt des erstmals in den Verkehr kommenden Vorschriftenstandes sind von den Technischen Prüfstellen und amtlich anerkannten Überwachungsorganisationen der Zentralen Stelle nach Anlage VIIIe und einer hierzu im Verkehrsblatt vom Bundesministerium für Verkehr, Bau und Stadtentwicklung im Benehmen mit den zuständigen obersten Landesbehörden bekannt gemachten Richtlinie mindestens halbjährlich zu melden.
+Die bei den HU festgestellten Mängel und/oder festgestellte Ausbauten von sicherheits- oder umweltrelevanten Fahrzeugeinrichtungen sowie Rückrüstungen oder Hochrüstungen der Fahrzeuge bezogen auf einen zum Zeitpunkt des erstmals in den Verkehr kommenden Vorschriftenstandes sind von den Technischen Prüfstellen und amtlich anerkannten Überwachungsorganisationen der Zentralen Stelle nach Anlage VIIIe und einer hierzu im Verkehrsblatt vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden bekannt gemachten Richtlinie mindestens halbjährlich zu melden.
 
 **4**  
 **Untersuchungskriterien**Das Fahrzeug ist hinsichtlich der Ausführung, des Zustandes, der Funktion und der Wirkung seiner Bauteile und Systeme zu untersuchen.
@@ -6602,13 +6601,13 @@ sie für die gesamte Überwachungsorganisation ein Qualitätsmanagementsystem un
 die nach Gesetz, Vertrag oder Satzung zur Vertretung der Überwachungsorganisation berufenen Personen persönlich zuverlässig sind,
 
 2.3  
-auf Grund der personellen und sachlichen Ausstattung zu erwarten ist, dass die Überwachungsorganisation die HU und SP sowie die Abnahmen ordnungsgemäß, gleichmäßig nach Maßgabe der geltenden Vorschriften und Vorgaben durchführen wird, und sie sich verpflichtet, Sammlung, Auswertung und Austausch der Ergebnisse und Prüferfahrungen sowie qualitätssichernde Maßnahmen innerhalb der Überwachungsorganisation sicherzustellen und gemeinsam mit anderen Überwachungsorganisationen und den Technischen Prüfstellen die gewonnenen Erkenntnisse regelmäßig im „Arbeitskreis Erfahrungsaustausch in der technischen Fahrzeugüberwachung nach § 19 Absatz 3 und § 29 StVZO (AKE)“ nach der vom Bundesministerium für Verkehr, Bau und Stadtentwicklung im Benehmen mit den zuständigen obersten Landesbehörden bekannt gemachten Richtlinien auszutauschen,
+auf Grund der personellen und sachlichen Ausstattung zu erwarten ist, dass die Überwachungsorganisation die HU und SP sowie die Abnahmen ordnungsgemäß, gleichmäßig nach Maßgabe der geltenden Vorschriften und Vorgaben durchführen wird, und sie sich verpflichtet, Sammlung, Auswertung und Austausch der Ergebnisse und Prüferfahrungen sowie qualitätssichernde Maßnahmen innerhalb der Überwachungsorganisation sicherzustellen und gemeinsam mit anderen Überwachungsorganisationen und den Technischen Prüfstellen die gewonnenen Erkenntnisse regelmäßig im „Arbeitskreis Erfahrungsaustausch in der technischen Fahrzeugüberwachung nach § 19 Absatz 3 und § 29 StVZO (AKE)“ nach der vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden bekannt gemachten Richtlinien auszutauschen,
 
 2.4  
 die Überwachungsorganisation durch Einrichtung eines innerbetrieblichen Revisionsdienstes sicherstellt, dass die Ergebnisse für die Innenrevision und die Aufsichtsbehörde so gesammelt und ausgewertet werden, dass jederzeit die Untersuchungs- und Prüfqualität für einen beliebigen Zeitraum innerhalb der letzten drei Jahre nachvollzogen werden kann, und dass die Ergebnisse mit denjenigen anderer Überwachungsorganisationen und denen der Technischen Prüfstellen einwandfrei vergleichbar sind,
 
 2.5  
-die Überwachungsorganisation sicherstellt, dass die mit der Durchführung der HU und SP sowie der Abnahmen betrauten Personen an mindestens fünf Tagen pro Jahr an regelmäßigen Fortbildungen teilnehmen, die den Anforderungen des vom Bundesministerium für Verkehr, Bau und Stadtentwicklung mit Zustimmung der obersten Landesbehörden im Verkehrsblatt bekannt gegebenen Aus- und Fortbildungsplans entsprechen,
+die Überwachungsorganisation sicherstellt, dass die mit der Durchführung der HU und SP sowie der Abnahmen betrauten Personen an mindestens fünf Tagen pro Jahr an regelmäßigen Fortbildungen teilnehmen, die den Anforderungen des vom Bundesministerium für Verkehr und digitale Infrastruktur mit Zustimmung der obersten Landesbehörden im Verkehrsblatt bekannt gegebenen Aus- und Fortbildungsplans entsprechen,
 
 2.6  
 für die mit der Durchführung der HU und SP sowie der Abnahmen betrauten Personen eine ausreichende Haftpflichtversicherung zur Deckung aller im Zusammenhang mit den HU und SP sowie der Abnahmen entstehenden Ansprüchen besteht und aufrechterhalten wird und die Überwachungsorganisation das Land, in dem sie tätig wird, von allen Ansprüchen Dritter wegen Schäden freistellt, die durch die zur Vertretung der Überwachungsorganisation berufenen Personen, den technischen Leiter, dessen Vertreter oder die mit der Durchführung der HU und SP sowie der Abnahmen betrauten Personen in Ausübung der ihnen übertragenen Aufgaben verursacht werden, und dafür den Abschluss einer entsprechenden Versicherung nachweist und aufrechterhält,
@@ -6636,7 +6635,7 @@ die Fahrerlaubnis für Kraftfahrzeuge sämtlicher Klassen, außer Klassen D und 
 als Vorbildung ein Studium des Maschinenbaufachs, des Kraftfahrzeugbaufachs oder der Elektrotechnik an einer im Geltungsbereich dieser Verordnung gelegenen oder an einer als gleichwertig anerkannten Hochschule oder öffentlichen oder staatlich anerkannten Fachhochschule erfolgreich abgeschlossen haben,
 
 3.5  
-an einer mindestens sechs Monate dauernden Ausbildung teilgenommen haben, die den Anforderungen des Aus- und Fortbildungsplans entspricht, der vom Bundesministerium für Verkehr, Bau und Stadtentwicklung mit Zustimmung der obersten Landesbehörden im Verkehrsblatt bekannt gegeben wird; die Dauer der Ausbildung kann bis auf drei Monate verkürzt werden, wenn eine mindestens dreijährige hauptberufliche Tätigkeit als Kraftfahrzeugsachverständiger nachgewiesen wird,
+an einer mindestens sechs Monate dauernden Ausbildung teilgenommen haben, die den Anforderungen des Aus- und Fortbildungsplans entspricht, der vom Bundesministerium für Verkehr und digitale Infrastruktur mit Zustimmung der obersten Landesbehörden im Verkehrsblatt bekannt gegeben wird; die Dauer der Ausbildung kann bis auf drei Monate verkürzt werden, wenn eine mindestens dreijährige hauptberufliche Tätigkeit als Kraftfahrzeugsachverständiger nachgewiesen wird,
 
 3.6  
 ihre fachliche Eignung durch eine Prüfung entsprechend den Vorschriften der §§ 2 bis 14 der Verordnung zur Durchführung des Kraftfahrsachverständigengesetzes vom 24. Mai 1972 (BGBl. I S. 854), die zuletzt durch Artikel 2 der Verordnung vom 7. Januar 2011 (BGBl. I S. 3) geändert worden ist, in der jeweils geltenden Fassung nachgewiesen haben; § 2 Absatz 1 Satz 2 letzter Halbsatz des Kraftfahrsachverständigengesetzes gilt entsprechend; die Anmeldung zur Prüfung kann nur durch die Überwachungsorganisation erfolgen, die sie nach Nummer 3.5 ausgebildet hat oder sie mit der Durchführung der HU, SP und Abnahmen nach Bestehen der Prüfungen betrauen will; abweichend von § 2 Absatz 3 Nummer 3 der genannten Verordnung kann anstelle des Leiters einer Technischen Prüfstelle für den Kraftfahrzeugverkehr der technische Leiter einer Überwachungsorganisation in den Prüfungsausschuss berufen werden,
@@ -6742,10 +6741,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Die Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Sicherheitsprüfungen (im Folgenden als SP bezeichnet) und/oder Untersuchungen der Abgase (im Folgenden als AU bezeichnet) und/oder Untersuchungen der Abgase an Krafträdern (im Folgenden als AUK bezeichnet) obliegt der zuständigen obersten Landesbehörde oder den von ihr bestimmten oder nach Landesrecht zuständigen Stellen (Anerkennungsstellen). Diese können die Befugnis auf die örtlich und fachlich zuständigen Kraftfahrzeuginnungen übertragen.
 
 1.2  
-Für das Verfahren der Anerkennung und des Widerrufs von Kraftfahrzeugwerkstätten zur Durchführung von SP und/oder AU und/oder AUK wird vom Bundesministerium für Verkehr, Bau und Stadtentwicklung mit Zustimmung der zuständigen obersten Landesbehörden eine Richtlinie im Verkehrsblatt bekannt gemacht.
+Für das Verfahren der Anerkennung und des Widerrufs von Kraftfahrzeugwerkstätten zur Durchführung von SP und/oder AU und/oder AUK wird vom Bundesministerium für Verkehr und digitale Infrastruktur mit Zustimmung der zuständigen obersten Landesbehörden eine Richtlinie im Verkehrsblatt bekannt gemacht.
 
 1.3  
-Für die nach Nummer 2.6 vorgeschriebenen Schulungen und Wiederholungsschulungen wird vom Bundesministerium für Verkehr, Bau und Stadtentwicklung mit Zustimmung der zuständigen obersten Landesbehörden eine Richtlinie im Verkehrsblatt bekannt gemacht.
+Für die nach Nummer 2.6 vorgeschriebenen Schulungen und Wiederholungsschulungen wird vom Bundesministerium für Verkehr und digitale Infrastruktur mit Zustimmung der zuständigen obersten Landesbehörden eine Richtlinie im Verkehrsblatt bekannt gemacht.
 
 **2**  
 **Allgemeine Voraussetzungen für die Anerkennung von Kraftfahrzeugwerkstätten**
@@ -6961,7 +6960,7 @@ für AUK durch Hersteller von AUK-pflichtigen Kraftfahrzeugen oder Kraftfahrzeug
 vom Bundesinnungsverband des Kraftfahrzeughandwerks ermächtigte Stellen.
 
 7.2  
-Schulungsstätten sind entsprechend der örtlichen Zuständigkeit den zuständigen obersten Landesbehörden oder den von ihnen bestimmten oder nach Landesrecht zuständigen Stellen sowie dem Bundesinnungsverband des Kraftfahrzeughandwerks in 53040 Bonn, Postfach 15 01 62, unaufgefordert zu melden; dies gilt entsprechend für die Einstellung der Schulungstätigkeit. Der Bundesinnungsverband des Kraftfahrzeughandwerks erfasst zentral die Schulungsstätten und übersendet den zuständigen obersten Landesbehörden und dem Bundesministerium für Verkehr, Bau und Stadtentwicklung jeweils zu Beginn eines Jahres eine aktuelle Zusammenfassung aller Schulungsstätten, aufgegliedert nach SP-, AU- und AUK-Schulungsstätten.
+Schulungsstätten sind entsprechend der örtlichen Zuständigkeit den zuständigen obersten Landesbehörden oder den von ihnen bestimmten oder nach Landesrecht zuständigen Stellen sowie dem Bundesinnungsverband des Kraftfahrzeughandwerks in 53040 Bonn, Postfach 15 01 62, unaufgefordert zu melden; dies gilt entsprechend für die Einstellung der Schulungstätigkeit. Der Bundesinnungsverband des Kraftfahrzeughandwerks erfasst zentral die Schulungsstätten und übersendet den zuständigen obersten Landesbehörden und dem Bundesministerium für Verkehr und digitale Infrastruktur jeweils zu Beginn eines Jahres eine aktuelle Zusammenfassung aller Schulungsstätten, aufgegliedert nach SP-, AU- und AUK-Schulungsstätten.
 
 7.3  
 Die Schulungen, die vorgeschriebenen Wiederholungsschulungen, die Schulungsinhalte sowie die Schulungsstätten müssen der nach Nummer 1.3 bekannt gemachten Richtlinie entsprechen.
@@ -7046,7 +7045,7 @@ Die Einhaltung der für die eingesetzten Mess-/Prüfgeräte geltenden Vorschrift
 Die Messgeräte nach den Nummern 20, 21 und 22 der Tabelle müssen über Einrichtungen verfügen oder mit Einrichtungen verbunden sein, die die zur Identifizierung erforderlichen Daten der zu untersuchenden Kraftfahrzeuge nach den Nummern 6.8.2.1 und 6.8.2.2 der Anlage VIIIa einschließlich der ermittelten Messwerte aufnehmen, speichern und bei Untersuchungen nach Nummer 3.1.1.1 der Anlage VIII in Form eines Nachweises ausdrucken. Die eingesetzte Softwareversion der Messgeräte muss zu Prüfungszwecken angezeigt werden können.
 
 3.4  
-Die zulässigen Softwareversionen für Messgeräte nach Nummer 3.3 und das Datum, ab dem diese Softwareversionen spätestens anzuwenden sind, sowie Richtlinien über Anforderungen an Mess- und Prüfgeräte, für die keine eichrechtlichen Vorschriften bestehen, werden vom Bundesministerium für Verkehr, Bau und Stadtentwicklung mit Zustimmung der zuständigen obersten Landesbehörden im Verkehrsblatt veröffentlicht.
+Die zulässigen Softwareversionen für Messgeräte nach Nummer 3.3 und das Datum, ab dem diese Softwareversionen spätestens anzuwenden sind, sowie Richtlinien über Anforderungen an Mess- und Prüfgeräte, für die keine eichrechtlichen Vorschriften bestehen, werden vom Bundesministerium für Verkehr und digitale Infrastruktur mit Zustimmung der zuständigen obersten Landesbehörden im Verkehrsblatt veröffentlicht.
 
 3.5  
 Die erforderlichen Vorgaben nach Anlage VIIIe für Einrichtungen nach Nummer 25 der Tabelle müssen dem jeweils aktuellen Stand entsprechen. Die Vorgaben müssen spätestens sechs Wochen nach Bereitstellung durch die Zentrale Stelle bei den Untersuchungen und Prüfungen angewendet werden. Es ist sicherzustellen, dass die jeweils angewendete Software der Einrichtung nach Nummer 25 der Tabelle mit dem letzten Aktualisierungsstand gekennzeichnet und auf dem Untersuchungsbericht und Prüfprotokoll (§ 29 Absatz 9) angegeben wird.
@@ -7638,7 +7637,7 @@ Anlage VIIId Nr. 4.1: IdF d. Art. 1 Nr. 13 Buchst. f V v. 10.5.2012 I 1086 mWv 1
 **Erstellung, Aufbereitung und Überprüfung von Vorgaben**
 
 2.1  
-Vorgaben werden von den Herstellern und Importeuren von Fahrzeugen, Fahrzeugsystemen oder -bauteilen speziell für die wiederkehrende Fahrzeugüberwachung angegeben und von der Zentralen Stelle nach Nummer 4 auf der Grundlage der bei der Homologation oder der Vorlage der Genehmigungsunterlagen oder nach deren Genehmigung entsprechend den Vorschriften der Verordnungen (EG) Nr. 715/2007 und (EG) Nr. 692/2008, jeweils geändert durch die Verordnung (EG) Nr. 566/2011 sowie der Verordnung (EG) Nr. 595/2009 mitzuteilenden technischen Informationen erarbeitet.Die von den Herstellern und Importeuren angegebenen Vorgaben werden an die Zentrale Stelle übermittelt und von dieser für die Durchführung von HU und SP aufbereitet. Die Angabe der Systeme und die Art der Weitergabe der Vorgaben müssen der dazu im Verkehrsblatt vom Bundesministerium für Verkehr, Bau und Stadtentwicklung im Benehmen mit den zuständigen obersten Landesbehörden bekannt gemachten Richtlinie entsprechen.
+Vorgaben werden von den Herstellern und Importeuren von Fahrzeugen, Fahrzeugsystemen oder -bauteilen speziell für die wiederkehrende Fahrzeugüberwachung angegeben und von der Zentralen Stelle nach Nummer 4 auf der Grundlage der bei der Homologation oder der Vorlage der Genehmigungsunterlagen oder nach deren Genehmigung entsprechend den Vorschriften der Verordnungen (EG) Nr. 715/2007 und (EG) Nr. 692/2008, jeweils geändert durch die Verordnung (EG) Nr. 566/2011 sowie der Verordnung (EG) Nr. 595/2009 mitzuteilenden technischen Informationen erarbeitet.Die von den Herstellern und Importeuren angegebenen Vorgaben werden an die Zentrale Stelle übermittelt und von dieser für die Durchführung von HU und SP aufbereitet. Die Angabe der Systeme und die Art der Weitergabe der Vorgaben müssen der dazu im Verkehrsblatt vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden bekannt gemachten Richtlinie entsprechen.
 
 2.2  
 Liegen keine oder unzureichende Vorgaben vor, werden diese im Benehmen mit den Herstellern oder Importeuren von der Zentralen Stelle erarbeitet und aufbereitet. Keine ausreichenden Vorgaben liegen immer dann vor, wenn damit auf Grund vorliegender Erkenntnisse oder Prüferfahrungen eine Aussage nach den Nummern 1.2.1 und 1.3.1 der Anlage VIII über die Verkehrssicherheit, Umweltverträglichkeit oder Vorschriftsmäßigkeit des Fahrzeugs nicht möglich ist.
@@ -7662,7 +7661,7 @@ Andere Stellen mit amtlicher Anerkennung, die ebenfalls zur Durchführung von HU
 **Zentrale Stelle zur Erstellung, Aufbereitung, Überprüfung und Weitergabe von Vorgaben**
 
 4.1  
-Die Technischen Prüfstellen sowie die amtlich anerkannten Überwachungsorganisationen tragen und betreiben zu diesem Zwecke die in der Bundesrepublik Deutschland ansässige Zentrale Stelle. Die Geschäftsordnung der Zentralen Stelle ist dem Bundesministerium für Verkehr, Bau und Stadtentwicklung zur Prüfung vorzulegen und unterliegt hinsichtlich der Regelungen betreffs des Kontrollbeirats nach Nummer 6 seiner Zustimmung. Die Zustimmung bedarf des Benehmens der zuständigen obersten Landesbehörden.
+Die Technischen Prüfstellen sowie die amtlich anerkannten Überwachungsorganisationen tragen und betreiben zu diesem Zwecke die in der Bundesrepublik Deutschland ansässige Zentrale Stelle. Die Geschäftsordnung der Zentralen Stelle ist dem Bundesministerium für Verkehr und digitale Infrastruktur zur Prüfung vorzulegen und unterliegt hinsichtlich der Regelungen betreffs des Kontrollbeirats nach Nummer 6 seiner Zustimmung. Die Zustimmung bedarf des Benehmens der zuständigen obersten Landesbehörden.
 
 4.2  
 Die Zentrale Stelle darf keinen auf Gewinn abzielenden Geschäftsbetrieb ausüben. Erzielte Gewinne dürfen nur zweckgebunden und für die Weiterentwicklung der regelmäßigen technischen Überwachung der Fahrzeuge verwendet werden.
@@ -7682,7 +7681,7 @@ Die mit der Prüfung beauftragten Personen sind befugt, Grundstücke und Geschä
 **Kontrolle über die Zentrale Stelle**Von der Zentralen Stelle wird zur Kontrolle über die ordnungsgemäße Weitergabe der Vorgaben und Verwaltung der eingegangenen Gebühren oder Entgelte sowie Ausgaben ein Kontrollbeirat eingesetzt. Der Kontrollbeirat setzt sich zusammen aus:
 
 6.1  
-einem Vertreter des Bundesministeriums für Verkehr, Bau und Stadtentwicklung,
+einem Vertreter des Bundesministeriums für Verkehr und digitale Infrastruktur,
 
 6.2  
 dem Vorsitzenden des AKE
@@ -7776,7 +7775,7 @@ Angaben zur Erstellung einer Mängelstatistik und Veröffentlichung der Statisti
 halbjährlich dem „Arbeitskreis Erfahrungsaustausch in der technischen Fahrzeugüberwachung nach § 19 Absatz 3 und § 29 StVZO“ (AKE), der diese auswertet und erforderlichenfalls Vorschläge zur Änderung der maßgeblichen Vorschriften erarbeitet,
 
 8.4.3.2  
-auf Anfrage dem Bundesministerium für Verkehr, Bau und Stadtentwicklung zur Fortschreibung der maßgeblichen Vorschriften und halbjährlich den zuständigen obersten Landesbehörden zur Wahrnehmung ihrer Aufsichtspflichten über Technische Prüfstellen und amtlich anerkannte Überwachungsorganisationen.
+auf Anfrage dem Bundesministerium für Verkehr und digitale Infrastruktur zur Fortschreibung der maßgeblichen Vorschriften und halbjährlich den zuständigen obersten Landesbehörden zur Wahrnehmung ihrer Aufsichtspflichten über Technische Prüfstellen und amtlich anerkannte Überwachungsorganisationen.
 
 8.5  
 Übermittlung von Angaben zur Entwicklung von FahrzeugenDie bei der regelmäßigen technischen Überwachung festgestellten Mängel sowie Hoch- und Rückrüstungen an den Fahrzeugen sind für die Neuentwicklung und für Verbesserungen im Verkehr befindlicher Fahrzeuge zu nutzen. Dazu übermittelt die Zentrale Stelle den Herstellern und Importeuren von Fahrzeugen, Fahrzeugsystemen oder -bauteilen diese Erkenntnisse jeweils für ihre Produkte auf Anfrage. Sofern diese Angaben mit dem Bezug auf die Fahrzeug-Identifizierungsnummer übermittelt werden, muss die Zentrale Stelle durch geeignete Maßnahmen sicherstellen, dass die Fahrzeug-Identifizierungsnummer um mindestens 3 Ziffern am Ende gekürzt ist.
@@ -7794,7 +7793,7 @@ ein Zugriff unberechtigter Personen auf diese Daten nicht erfolgen kann,
 sowohl die Daten als auch deren Übermittlung gegen Missbrauch geschützt sind.
 
 8.8  
-ErläuterungenErläuterungen zur einheitlichen Anwendung der Vorschriften werden in einer Richtlinie vom Bundesministerium für Verkehr, Bau und Stadtentwicklung im Benehmen mit den zuständigen obersten Landesbehörden bekannt gegeben.
+ErläuterungenErläuterungen zur einheitlichen Anwendung der Vorschriften werden in einer Richtlinie vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden bekannt gegeben.
 
 (+++ Anlage VIIIe: Zur Anwendung vgl. § 72 Abs. 2 Nr. 10 +++)
 
@@ -10344,7 +10343,7 @@ Der Wortlaut der Anhänge entspricht dem der Regelung Nr. 24 der UN-Wirtschaftsk
 (Fundstelle: BGBl. I 2012, 803)
 
 **1**  
-**Art und Gegenstand der Prüfung**Gasanlagenprüfungen nach dem Einbau (Gassystemeinbauprüfungen) und sonstige Gasanlagenprüfungen im Sinne des § 41a Absatz 6 sind nach Maßgabe der folgenden Bestimmungen durchzuführen. Der ordnungsgemäße Zustand der Gasanlagen ist dabei nach Maßgabe der vom Bundesministerium für Verkehr, Bau und Stadtentwicklung im Verkehrsblatt mit Zustimmung der obersten Landesbehörden bekannt gemachten Richtlinien zu untersuchen.
+**Art und Gegenstand der Prüfung**Gasanlagenprüfungen nach dem Einbau (Gassystemeinbauprüfungen) und sonstige Gasanlagenprüfungen im Sinne des § 41a Absatz 6 sind nach Maßgabe der folgenden Bestimmungen durchzuführen. Der ordnungsgemäße Zustand der Gasanlagen ist dabei nach Maßgabe der vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt mit Zustimmung der obersten Landesbehörden bekannt gemachten Richtlinien zu untersuchen.
 
 **2**  
 **Durchführung der Prüfungen, Nachweise**
@@ -10365,7 +10364,7 @@ keine Mängel festgestellt, so ist dies in einem Nachweis zu bescheinigen,
 Mängel festgestellt, so sind diese in einen Nachweis einzutragen. Der Halter hat die Mängel unverzüglich beheben zu lassen und das Kraftfahrzeug spätestens nach einem Monat zu einer erneuten Prüfung unter Vorlage des Nachweises vorzuführen.
 
 2.4  
-Nachweise über Prüfungen sind nach einem vom Bundesministerium für Verkehr, Bau und Stadtentwicklung mit Zustimmung der obersten Landesbehörden im Verkehrsblatt bekannt gemachten Muster fälschungserschwerend auszuführen oder mit fälschungserschwerenden Merkmalen (Nachweis-Siegel mit Prägenummer) zu versehen und müssen mindestens folgende Angaben enthalten:
+Nachweise über Prüfungen sind nach einem vom Bundesministerium für Verkehr und digitale Infrastruktur mit Zustimmung der obersten Landesbehörden im Verkehrsblatt bekannt gemachten Muster fälschungserschwerend auszuführen oder mit fälschungserschwerenden Merkmalen (Nachweis-Siegel mit Prägenummer) zu versehen und müssen mindestens folgende Angaben enthalten:
 
 a)  
 Art der Prüfung,
@@ -10427,7 +10426,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Die Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Gassystemeinbauprüfungen oder wiederkehrenden Gasanlagenprüfungen und sonstigen Gasanlagenprüfungen im Sinne des § 41a Absatz 6 obliegt der zuständigen obersten Landesbehörde oder den von ihr bestimmten oder nach Landesrecht zuständigen Stellen (Anerkennungsstellen). Diese können die Befugnis auf die örtlich und fachlich zuständigen Kraftfahrzeuginnungen übertragen.
 
 1.2  
-Auf das Verfahren der Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Gassystemeinbauprüfungen oder wiederkehrenden und sonstigen Gasanlagenprüfungen und auf die Dokumentation der durchgeführten Prüfungen findet die vom Bundesministerium für Verkehr, Bau und Stadtentwicklung mit Zustimmung der zuständigen obersten Landesbehörden im Verkehrsblatt bekannt gemachte Richtlinie Anwendung.
+Auf das Verfahren der Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Gassystemeinbauprüfungen oder wiederkehrenden und sonstigen Gasanlagenprüfungen und auf die Dokumentation der durchgeführten Prüfungen findet die vom Bundesministerium für Verkehr und digitale Infrastruktur mit Zustimmung der zuständigen obersten Landesbehörden im Verkehrsblatt bekannt gemachte Richtlinie Anwendung.
 
 **2**  
 **Allgemeine Voraussetzungen für die Anerkennung von Kraftfahrzeugwerkstätten**Die Anerkennung wird erteilt, wenn
@@ -10560,13 +10559,13 @@ g)
 Stellen, die von der zuständigen obersten Landesbehörde oder der von ihr bestimmten oder nach Landesrecht zuständigen Stelle zur Durchführung von Schulungen anerkannt worden sind.
 
 7.2  
-Die Schulungsstätten sind den zuständigen obersten Landesbehörden oder den von ihnen bestimmten oder nach Landesrecht zuständigen Stellen sowie dem Bundesinnungsverband des Kraftfahrzeughandwerks in 53040 Bonn, Postfach 15 01 62, unaufgefordert zu melden; dies gilt entsprechend für die Einstellung der Schulungstätigkeit. Der Bundesinnungsverband des Kraftfahrzeughandwerks erfasst zentral die Schulungsstätten und übersendet den zuständigen obersten Landesbehörden und dem Bundesministerium für Verkehr, Bau und Stadtentwicklung jeweils zu Beginn eines Jahres eine aktuelle Zusammenfassung aller Schulungsstätten.
+Die Schulungsstätten sind den zuständigen obersten Landesbehörden oder den von ihnen bestimmten oder nach Landesrecht zuständigen Stellen sowie dem Bundesinnungsverband des Kraftfahrzeughandwerks in 53040 Bonn, Postfach 15 01 62, unaufgefordert zu melden; dies gilt entsprechend für die Einstellung der Schulungstätigkeit. Der Bundesinnungsverband des Kraftfahrzeughandwerks erfasst zentral die Schulungsstätten und übersendet den zuständigen obersten Landesbehörden und dem Bundesministerium für Verkehr und digitale Infrastruktur jeweils zu Beginn eines Jahres eine aktuelle Zusammenfassung aller Schulungsstätten.
 
 7.3  
 Die Schulung muss jeweils innerhalb von drei Jahren wiederholt und erneut mit einer erfolgreichen Prüfung abgeschlossen werden. Die Frist beginnt jeweils mit dem Monat und Jahr, in dem erfolgreich eine Prüfung nach einer erstmaligen Schulung oder einer Wiederholungsschulung abgelegt wurde. Nach Ablauf der Frist ist erneut eine erstmalige Schulung und Prüfung abzulegen.
 
 7.4  
-Die Schulungen und Wiederholungsschulungen, Schulungsinhalte sowie Schulungsstätten müssen die Anforderungen der vom Bundesministerium für Verkehr, Bau und Stadtentwicklung mit Zustimmung der zuständigen obersten Landesbehörden im Verkehrsblatt bekannt gemachten Richtlinie erfüllen.
+Die Schulungen und Wiederholungsschulungen, Schulungsinhalte sowie Schulungsstätten müssen die Anforderungen der vom Bundesministerium für Verkehr und digitale Infrastruktur mit Zustimmung der zuständigen obersten Landesbehörden im Verkehrsblatt bekannt gemachten Richtlinie erfüllen.
 
 **8**  
 **Aufsicht über das Anerkennungsverfahren und die Schulungen**
@@ -10781,7 +10780,7 @@ Nichtzutreffendes streichen.
 (Fundstelle: BGBl. I 2012, 810 - 813)
 
 **1**  
-**Allgemeines**Prüfungen der Fahrtschreiber und Kontrollgeräte sind nach den Vorschriften dieser Anlage unter Beachtung der gegebenenfalls dazu im Verkehrsblatt – Amtsblatt des Bundesministeriums für Verkehr, Bau und Stadtentwicklung der Bundesrepublik Deutschland – veröffentlichten Richtlinien durchzuführen.
+**Allgemeines**Prüfungen der Fahrtschreiber und Kontrollgeräte sind nach den Vorschriften dieser Anlage unter Beachtung der gegebenenfalls dazu im Verkehrsblatt – Amtsblatt des Bundesministeriums für Verkehr und digitale Infrastruktur der Bundesrepublik Deutschland – veröffentlichten Richtlinien durchzuführen.
 
 **2**  
 **Prüfungsfälle**
@@ -11141,7 +11140,7 @@ a)
 die für die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte einschlägigen Vorschriften der Straßenverkehrs-Zulassungs-Ordnung in der jeweils aktuellen Fassung,
 
 b)  
-die im Verkehrsblatt – Amtsblatt des Bundesministeriums für Verkehr, Bau und Stadtentwicklung der Bundesrepublik Deutschland – veröffentlichten Richtlinien, die für die Durchführung der Prüfung erforderlich sind,
+die im Verkehrsblatt – Amtsblatt des Bundesministeriums für Verkehr und digitale Infrastruktur der Bundesrepublik Deutschland – veröffentlichten Richtlinien, die für die Durchführung der Prüfung erforderlich sind,
 
 c)  
 Technische Daten und Prüfanleitungen der in Frage kommenden Fahrtschreiber und Kontrollgeräte und
@@ -11196,17 +11195,19 @@ Die Anerkennung zur Durchführung der Prüfungen durch den Antragsteller kann er
 **6**  
 **Aufsicht**
 
-6.1  
-Die Anerkennungsstelle übt die Aufsicht über die anerkannten Unternehmen aus. Sie prüft oder lässt prüfen,
+6.1.  
+Die Anerkennungsstelle übt die Aufsicht über die anerkannten Unternehmen aus. Mindestens alle 2 Jahre prüft sie oder lässt prüfen,
 
 a)  
-ob die sich aus der Anerkennung ergebenden Pflichten erfüllt werden,
+ob die sich aus der Anerkennung ergebenden Pflichten, insbesondere hinsichtlich der getroffenen Sicherheitsmaßnahmen und des Umganges mit Werkstattkarten, erfüllt werden,
 
 b)  
-ob die Prüfungen der Fahrtschreiber und Kontrollgeräte durch den Antragsteller ordnungsgemäß durchgeführt, dokumentiert und nachgewiesen worden sind und
+ob die durchgeführten Prüfungen, Kalibrierungen und Einbauten der Fahrtschreiber und Kontrollgeräte durch den Antragsteller ordnungsgemäß durchgeführt, dokumentiert und nachgewiesen worden sind und
 
 c)  
 in welchem Umfang von der Anerkennung Gebrauch gemacht worden ist.
+
+Bei mindestens 10 Prozent der anerkannten Unternehmen müssen die Prüfungen unangekündigt durchgeführt werden. Die Prüfungen sind zu dokumentieren.
 
 6.2  
 Die mit der Prüfung beauftragten Personen sind befugt, Grundstücke und Geschäftsräume des Inhabers der Anerkennung während der Geschäfts- und Betriebszeiten zu betreten, dort Prüfungen und Besichtigungen vorzunehmen und die vorgeschriebenen Aufzeichnungen einzusehen. Der Inhaber der Anerkennung hat diese Maßnahmen zu dulden, soweit erforderlich die beauftragten Personen dabei zu unterstützen und auf Verlangen die vorgeschriebenen Aufzeichnungen vorzulegen. Er hat die Kosten der Prüfung zu tragen.
@@ -11226,7 +11227,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Die Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte obliegt der zuständigen obersten Landesbehörde oder den von ihr bestimmten oder nach Landesrecht zuständigen Stellen (Anerkennungsstelle). Diese können die Befugnis auf die örtlich und fachlich zuständigen Kraftfahrzeuginnungen übertragen. Die Anerkennungsstelle darf keine Werkstatt anerkennen, die bereits von einem anerkannten Fahrtschreiber- oder Kontrollgerätehersteller nach Anlage XVIIIc beauftragt ist oder deren Anerkennung wegen Missachtung einschlägiger Vorschriften dauerhaft entzogen wurde.
 
 1.2  
-Für die nach Nummer 2.5 vorgeschriebenen Schulungen und Wiederholungsschulungen und für das Verfahren der Anerkennung von Kraftfahrzeugwerkstätten wird eine Richtlinie im Verkehrsblatt – Amtsblatt des Bundesministeriums für Verkehr, Bau und Stadtentwicklung der Bundesrepublik Deutschland – veröffentlicht.
+Für die nach Nummer 2.5 vorgeschriebenen Schulungen und Wiederholungsschulungen und für das Verfahren der Anerkennung von Kraftfahrzeugwerkstätten wird eine Richtlinie im Verkehrsblatt – Amtsblatt des Bundesministeriums für Verkehr und digitale Infrastruktur der Bundesrepublik Deutschland – veröffentlicht.
 
 1.3  
 Die Anerkennung nach Nummer 1.1 und die Erfüllung der in Nummer 2 bestimmten persönlichen Voraussetzungen sind Grundlage für die Zuteilung der Werkstattkarten. Die Werkstattkarte wird jeweils mit den Daten der Kraftfahrzeugwerkstatt sowie der für die Durchführung der Prüfung verantwortlichen Fachkraft personalisiert. Bei Wegfall der Prüfberechtigung der Kraftfahrzeugwerkstatt oder einer verantwortlichen Fachkraft oder beim Ausscheiden einer verantwortlichen Fachkraft aus dem Unternehmen sowie bei Nichteinhaltung der in Nummer 2.5 festgelegten Nachschulungsfrist sind die betroffenen Werkstattkarten durch die Kraftfahrzeugwerkstatt an die ausgebende Stelle zurückzugeben.
@@ -11348,19 +11349,22 @@ Die Kraftfahrzeugwerkstatt führt zu Kontrollzwecken einen kontinuierlichen Nach
 **7**  
 **Aufsicht**
 
-7.1  
-Die Anerkennungsstelle übt die Aufsicht aus. Sie prüft selbst oder lässt prüfen,
+7.1.  
+Die Anerkennungsstelle übt die Aufsicht über die anerkannten Kraftfahrzeugwerkstätten aus. Mindestens alle 2 Jahre prüft sie oder lässt prüfen,
 
 a)  
-ob die Prüfungen der Fahrtschreiber und Kontrollgeräte ordnungsgemäß durchgeführt, dokumentiert und nachgewiesen sowie die sich sonst aus der Anerkennung ergebenden Pflichten erfüllt werden,
+ob die sich aus der Anerkennung ergebenden Pflichten, insbesondere hinsichtlich der getroffenen Sicherheitsmaßnahmen und des Umganges mit Werkstattkarten, erfüllt werden,
 
 b)  
-in welchem Umfang von der Anerkennung Gebrauch gemacht worden ist und
+ob die durchgeführten Prüfungen, Kalibrierungen und Einbauten der Fahrtschreiber und Kontrollgeräte durch den Antragsteller ordnungsgemäß durchgeführt, dokumentiert und nachgewiesen worden sind,
 
 c)  
+in welchem Umfang von der Anerkennung Gebrauch gemacht worden ist und
+
+d)  
 ob die in Nummer 8 vorgeschriebenen Schulungen durchgeführt werden.
 
-Die Prüfungen sind regelmäßig, mindestens alle drei Jahre, durchzuführen. Die Prüfungen sind zu dokumentieren.
+Bei mindestens 10 Prozent der anerkannten Kraftfahrzeugwerkstätten müssen die Prüfungen unangekündigt durchgeführt werden. Die Prüfungen sind zu dokumentieren.
 
 7.2  
 Die mit der Prüfung beauftragten Personen sind befugt, Grundstücke und Geschäftsräume des Inhabers der Anerkennung während der Geschäfts- und Betriebszeiten zu betreten, dort Prüfungen und Besichtigungen vorzunehmen und die vorgeschriebenen Aufzeichnungen einzusehen. Der Inhaber der Anerkennung hat diese Maßnahmen zu dulden, soweit erforderlich die beauftragten Personen dabei zu unterstützen und auf Verlangen die vorgeschriebenen Aufzeichnungen vorzulegen. Er hat die Kosten der Prüfung zu tragen.
@@ -27069,6 +27073,15 @@ Kapitel 11
 Anhang I bis IV und VI
 
 der Richtlinie 97/24/EG des Europäischen Parlaments und des Rates vom 17. Juni 1997 über bestimmte Bauteile und Merkmale von zweirädrigen oder dreirädrigen Kraftfahrzeugen (ABl. L 226 vom 18.8.1997, S. 1).
+
+§ 35a Absatz 13
+
+Artikel 2
+Absatz 1
+Buchstabe c
+Doppelbuchstabe ii
+
+Richtlinie 91/671/EWG des Rates vom 16. Dezember 1991 über die Gurtanlegepflicht und die Pflicht zur Benutzung von Kinderrückhalteeinrichtungen in Kraftfahrzeugen (ABl. L 373 vom 31.12.1991, S. 26), der zuletzt durch Artikel 1 Absatz 2 der Durchführungsrichtlinie 2014/37/EU vom 27. Februar 2014 (ABl. L 59 vom 28.2.2014, S. 32) geändert worden ist, hinsichtlich der ECE-Regelung Nr. 129 über einheitliche Bedingungen für die Genehmigung von verbesserten Kinderrückhalteeinrichtungen zur Nutzung in Kraftfahrzeugen (ABl. L 97 vom 29.3.2014, S. 21).
 
 § 35c Absatz 2
 
