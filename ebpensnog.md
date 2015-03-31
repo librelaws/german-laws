@@ -2,7 +2,7 @@ Gesetz zur Neuordnung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen
 ==================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 11 G v. 20.04.2007 I 554
+Zuletzt geändert durch Art. 2 Abs. 46 G v. 1.4.2015 I 434
 
 ### 
 
@@ -22,7 +22,7 @@ Zuletzt geändert durch Art. 11 G v. 20.04.2007 I 554
 
 (5) Die bisherige Hauptversammlung wird die oberste Vertretung der Kasse. Der Vorstand beruft spätestens bis zum 30. Juni 2006 die nächste Hauptversammlung ein.
 
-(6) Die Kasse gilt als zum Geschäftsbetrieb in der Versicherungssparte 19 der Anlage Teil A des Versicherungsaufsichtsgesetzes zugelassen. Die Kasse hat die Anforderungen des § 53c Abs. 1 bis 3c und der Kapitalausstattungs-Verordnung spätestens bis zum 31. Dezember 2007 zu erfüllen. Hat die Kasse die geforderte Solvabilitätsspanne bis zum 31. Dezember 2007 noch nicht voll erreicht, kann die Aufsichtsbehörde der Kasse eine Frist von längstens zwei Jahren gewähren, wenn die Kasse einen Solvabilitätsplan gemäß § 81b Abs. 1 vorgelegt hat.
+(6) Die Kasse gilt als zum Geschäftsbetrieb in der Versicherungssparte 19 der Anlage 1 zum Versicherungsaufsichtsgesetz zugelassen. Die Kasse hat die Anforderungen des § 53c Abs. 1 bis 3c und der Kapitalausstattungs-Verordnung spätestens bis zum 31. Dezember 2007 zu erfüllen. Hat die Kasse die geforderte Solvabilitätsspanne bis zum 31. Dezember 2007 noch nicht voll erreicht, kann die Aufsichtsbehörde der Kasse eine Frist von längstens zwei Jahren gewähren, wenn die Kasse einen Solvabilitätsplan gemäß § 81b Abs. 1 vorgelegt hat.
 
 ### § 2 Fortführung von Versorgungsleistungen
 
