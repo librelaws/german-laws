@@ -2,7 +2,7 @@ Verordnung über die Einrichtung und Führung des Handelsregisters (HRV)
 ======================================================================
 
 Stand  
-Zuletzt geändert durch Art. 4 Abs. 7 G v. 11.8.2009 I 2713
+Zuletzt geändert durch Art. 2 Abs. 3 G v. 1.4.2015 I 434
 
 ### 
 
@@ -57,7 +57,7 @@ Die Register einschließlich der Registerordner werden elektronisch geführt. §
 
 ### § 9 Registerordner
 
-(1) Die zum Handelsregister eingereichten und nach § 9 Abs. 1 des Handelsgesetzbuchs der unbeschränkten Einsicht unterliegenden Dokumente werden für jedes Registerblatt (§ 13) in einen dafür bestimmten Registerordner aufgenommen. Sie sind in der zeitlichen Folge ihres Eingangs und nach der Art des jeweiligen Dokuments abrufbar zu halten. Ein Widerspruch gegen eine Eintragung in der Gesellschafterliste (§ 16 Abs. 3 Satz 3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung) ist der Gesellschafterliste zuzuordnen und zudem besonders hervorzuheben. Die in einer Amtssprache der Europäischen Union übermittelten Übersetzungen (§ 11 des Handelsgesetzbuchs) sind den jeweiligen Ursprungsdokumenten zuzuordnen. Wird ein aktualisiertes Dokument eingereicht, ist kenntlich zu machen, dass die für eine frühere Fassung eingereichte Übersetzung nicht dem aktualisierten Stand des Dokuments entspricht.
+(1) Die zum Handelsregister einzureichenden und nach § 9 Abs. 1 des Handelsgesetzbuchs der unbeschränkten Einsicht unterliegenden Dokumente werden für jedes Registerblatt (§ 13) in einen dafür bestimmten Registerordner aufgenommen. Sie sind in der zeitlichen Folge ihres Eingangs und nach der Art des jeweiligen Dokuments abrufbar zu halten. Ein Widerspruch gegen eine Eintragung in der Gesellschafterliste (§ 16 Abs. 3 Satz 3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung) ist der Gesellschafterliste zuzuordnen und zudem besonders hervorzuheben. Die in einer Amtssprache der Europäischen Union übermittelten Übersetzungen (§ 11 des Handelsgesetzbuchs) sind den jeweiligen Ursprungsdokumenten zuzuordnen. Wird ein aktualisiertes Dokument eingereicht, ist kenntlich zu machen, dass die für eine frühere Fassung eingereichte Übersetzung nicht dem aktualisierten Stand des Dokuments entspricht.
 
 (2) Schriftstücke, die vor dem 1. Januar 2007 eingereicht worden sind, können zur Ersetzung der Urschrift in ein elektronisches Dokument übertragen und in dieser Form in den Registerordner übernommen werden. Sie sind in den Registerordner zu übernehmen, sobald ein Antrag auf Übertragung in ein elektronisches Dokument (Artikel 61 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuch) oder auf elektronische Übermittlung (§ 9 Abs. 2 des Handelsgesetzbuchs) vorliegt.
 
@@ -187,9 +187,9 @@ Das Gericht hat dafür Sorge zu tragen, dass die gesetzlich vorgeschriebenen Ein
 
 (2) Der Richter ist für die Eintragung auch dann zuständig, wenn sie vom Beschwerdegericht oder nach § 395 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit verfügt ist.
 
-### § 26
+### § 26 Änderung eingetragener Angaben
 
-(weggefallen)
+Die Änderung eingetragener Angaben ist, unbeschadet des § 25 Absatz 1 Satz 2, in der Regel innerhalb von 21 Tagen nach Eingang der vollständigen Anmeldung oder im Fall eines durch den Antragsteller behebbaren Eintragungshindernisses innerhalb von 21 Tagen nach dessen Behebung einzutragen und bekannt zu machen.
 
 ### § 27 Vornahme der Eintragung, Wortlaut der Bekanntmachung
 
@@ -352,7 +352,7 @@ a)
 unter Buchstabe a die allgemeine Regelung zur Vertretung des Rechtsträgers durch die persönlich haftenden Gesellschafter, die Geschäftsführer, die Mitglieder des Vorstandes, bei Kreditinstituten die gerichtlich bestellten vertretungsbefugten Personen sowie die Abwickler oder Liquidatoren, und
 
 b)  
-unter Buchstabe b der Einzelkaufmann, bei Handelsgesellschaften die persönlich haftenden Gesellschafter, bei Europäischen wirtschaftlichen Interessenvereinigungen die Geschäftsführer, bei juristischen Personen die Mitglieder des Vorstandes und deren Stellvertreter, bei Kreditinstituten die gerichtlich bestellten vertretungsberechtigten Personen, die Abwickler oder Liquidatoren unter der Bezeichnung als solche, bei ausländischen Versicherungsunternehmen die nach § 106 Abs. 3 des Versicherungsaufsichtsgesetzes bestellten Hauptbevollmächtigten sowie bei einer Zweigstelle eines Unternehmens mit Sitz in einem anderen Staat, die Bankgeschäfte in dem in § 1 Abs. 1 des Gesetzes über das Kreditwesen bezeichneten Umfang betreibt, die nach § 53 Abs. 2 Nr. 1 des Gesetzes über das Kreditwesen bestellten Geschäftsleiter jeweils mit Familiennamen, Vornamen, Geburtsdatum und Wohnort oder gegebenenfalls mit Firma, Rechtsform, Sitz oder Niederlassung
+unter Buchstabe b der Einzelkaufmann, bei Handelsgesellschaften die persönlich haftenden Gesellschafter, bei Europäischen wirtschaftlichen Interessenvereinigungen die Geschäftsführer, bei juristischen Personen die Mitglieder des Vorstandes und deren Stellvertreter, bei Kreditinstituten die gerichtlich bestellten vertretungsberechtigten Personen, die Abwickler oder Liquidatoren unter der Bezeichnung als solche, bei ausländischen Versicherungsunternehmen die nach § 68 Absatz 2 des Versicherungsaufsichtsgesetzes bestellten Hauptbevollmächtigten sowie bei einer Zweigstelle eines Unternehmens mit Sitz in einem anderen Staat, die Bankgeschäfte in dem in § 1 Abs. 1 des Gesetzes über das Kreditwesen bezeichneten Umfang betreibt, die nach § 53 Abs. 2 Nr. 1 des Gesetzes über das Kreditwesen bestellten Geschäftsleiter jeweils mit Familiennamen, Vornamen, Geburtsdatum und Wohnort oder gegebenenfalls mit Firma, Rechtsform, Sitz oder Niederlassung
 
 und die jeweils sich darauf beziehenden Änderungen anzugeben. Weicht die Vertretungsbefugnis der in Spalte 3 unter Buchstabe b einzutragenden Personen im Einzelfall von den Angaben in Spalte 3 unter Buchstabe a ab, so ist diese besondere Vertretungsbefugnis bei den jeweiligen Personen zu vermerken.
 
@@ -448,7 +448,7 @@ unter Buchstabe a die allgemeine Regelung zur Vertretung des Rechtsträgers durc
 b)  
 unter Buchstabe b bei Aktiengesellschaften und Versicherungsvereinen auf Gegenseitigkeit die Mitglieder des Vorstandes und ihre Stellvertreter (bei Aktiengesellschaften unter besonderer Bezeichnung des Vorsitzenden), bei einer SE die Mitglieder des Leitungsorgans und ihre Stellvertreter (unter besonderer Bezeichnung ihres Vorsitzenden) oder die geschäftsführenden Direktoren, bei Kommanditgesellschaften auf Aktien die persönlich haftenden Gesellschafter, bei Kreditinstituten die gerichtlich bestellten vertretungsbefugten Personen, bei Gesellschaften mit beschränkter Haftung die Geschäftsführer und ihre Stellvertreter, ferner die Abwickler oder Liquidatoren unter der Bezeichnung als solcher, jeweils mit Familiennamen, Vornamen, Geburtsdatum und Wohnort oder gegebenenfalls mit Firma, Rechtsform, Sitz oder Niederlassung
 
-und die jeweils sich darauf beziehenden Änderungen anzugeben. Weicht die Vertretungsbefugnis der in Spalte 4 unter Buchstabe b einzutragenden Personen im Einzelfall von den Angaben in Spalte 4 unter Buchstabe a ab, so ist diese besondere Vertretungsbefugnis bei den jeweiligen Personen zu vermerken. Ebenfalls in Spalte 4 unter Buchstabe b sind bei ausländischen Versicherungsunternehmen die nach § 106 Abs. 3 des Versicherungsaufsichtsgesetzes bestellten Hauptbevollmächtigten, bei einer Zweigstelle eines Unternehmens mit Sitz in einem anderen Staat, die Bankgeschäfte in dem in § 1 Abs. 1 des Gesetzes über das Kreditwesen bezeichneten Umfang betreibt, die nach § 53 Abs. 2 Nr. 1 des Gesetzes über das Kreditwesen bestellten Geschäftsleiter sowie bei einer Zweigniederlassung einer Aktiengesellschaft, SE oder Gesellschaft mit beschränkter Haftung mit Sitz im Ausland die ständigen Vertreter nach § 13e Abs. 2 Satz 5 Nr. 3 des Handelsgesetzbuchs jeweils mit Familiennamen, Vornamen, Geburtsdatum und Wohnort unter Angabe ihrer Befugnisse zu vermerken.
+und die jeweils sich darauf beziehenden Änderungen anzugeben. Weicht die Vertretungsbefugnis der in Spalte 4 unter Buchstabe b einzutragenden Personen im Einzelfall von den Angaben in Spalte 4 unter Buchstabe a ab, so ist diese besondere Vertretungsbefugnis bei den jeweiligen Personen zu vermerken. Ebenfalls in Spalte 4 unter Buchstabe b sind bei ausländischen Versicherungsunternehmen die nach § 68 Absatz 2 des Versicherungsaufsichtsgesetzes bestellten Hauptbevollmächtigten, bei einer Zweigstelle eines Unternehmens mit Sitz in einem anderen Staat, die Bankgeschäfte in dem in § 1 Abs. 1 des Gesetzes über das Kreditwesen bezeichneten Umfang betreibt, die nach § 53 Abs. 2 Nr. 1 des Gesetzes über das Kreditwesen bestellten Geschäftsleiter sowie bei einer Zweigniederlassung einer Aktiengesellschaft, SE oder Gesellschaft mit beschränkter Haftung mit Sitz im Ausland die ständigen Vertreter nach § 13e Abs. 2 Satz 5 Nr. 3 des Handelsgesetzbuchs jeweils mit Familiennamen, Vornamen, Geburtsdatum und Wohnort unter Angabe ihrer Befugnisse zu vermerken.
 
 5.  
 In Spalte 5 sind die die Prokura betreffenden Eintragungen einschließlich Familienname, Vorname, Geburtsdatum und Wohnort der Prokuristen sowie die jeweils sich darauf beziehenden Änderungen anzugeben.
@@ -475,7 +475,7 @@ dd)
 die Auflösung, die Fortsetzung und die Nichtigkeit der Gesellschaft oder des Versicherungsvereins auf Gegenseitigkeit;
 
 ee)  
-Eintragungen nach dem Umwandlungsgesetz;
+Eintragungen nach dem Umwandlungsgesetz und nach dem Sanierungs- und Abwicklungsgesetz;
 
 ff)  
 das Erlöschen der Firma, die Löschung einer Aktiengesellschaft, SE, Kommanditgesellschaft auf Aktien, Gesellschaft mit beschränkter Haftung oder eines Versicherungsvereins auf Gegenseitigkeit sowie Löschungen von Amts wegen;
@@ -487,7 +487,7 @@ hh)
 das Bestehen eines genehmigten Kapitals unter Angabe des Beschlusses der Hauptversammlung oder Gesellschafterversammlung, der Höhe des genehmigten Kapitals und des Zeitpunktes, bis zu dem die Ermächtigung besteht;
 
 ii)  
-bei Investmentaktiengesellschaften das in der Satzung festgelegte Mindestkapital und Höchstkapital (§ 105 Abs. 1 des Investmentgesetzes);
+bei Investmentaktiengesellschaften mit variablem Kapital das in der Satzung festgelegte Mindestkapital und Höchstkapital;
 
 jj)  
 der Beschluss einer Übertragung von Aktien gegen Barabfindung (§ 327a des Aktiengesetzes) unter Angabe des Tages des Beschlusses;
