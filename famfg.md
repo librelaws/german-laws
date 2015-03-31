@@ -2,7 +2,7 @@ Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der frei
 ===============================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 4 G v. 20.06.2014 I 786
+Zuletzt geändert durch Art. 2 Abs. 52 G v. 1.4.2015 I 434
 
 ### 
 
