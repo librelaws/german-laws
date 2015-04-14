@@ -2,7 +2,7 @@ Gesetz über den Ausgleich der Arbeitgeberaufwendungen für Entgeltfortzahlung (
 ==================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 13 Abs. 6 G v. 12.4.2012 I 579
+Zuletzt geändert durch Art. 6 G v. 15.4.2015 I 583
 
 ### 
 
@@ -39,9 +39,9 @@ die auf die Arbeitsentgelte nach der Nummer 2 entfallenden von den Arbeitgebern 
 
 (1) Die zu gewährenden Beträge werden dem Arbeitgeber von der Krankenkasse ausgezahlt, bei der die Arbeitnehmer und Arbeitnehmerinnen, die Auszubildenden oder die nach § 11 oder § 14 Abs. 1 des Mutterschutzgesetzes anspruchsberechtigten Frauen versichert sind. Für geringfügig Beschäftigte nach dem Vierten Buch Sozialgesetzbuch ist zuständige Krankenkasse die Deutsche Rentenversicherung Knappschaft-Bahn-See als Träger der knappschaftlichen Krankenversicherung. Für Arbeitnehmer und Arbeitnehmerinnen, die nicht Mitglied einer Krankenkasse sind, gilt § 175 Abs. 3 Satz 2 des Fünften Buches Sozialgesetzbuch entsprechend.
 
-(2) Die Erstattung wird auf Antrag erbracht. Sie ist zu gewähren, sobald der Arbeitgeber Arbeitsentgelt nach § 3 Abs. 1 und 2 und § 9 Abs. 1 des Entgeltfortzahlungsgesetzes, Arbeitsentgelt nach § 11 des Mutterschutzgesetzes oder Zuschuss zum Mutterschaftsgeld nach § 14 Abs. 1 des Mutterschutzgesetzes gezahlt hat.
+(2) Die Erstattung wird auf Antrag erbracht. Sie ist zu gewähren, sobald der Arbeitgeber Arbeitsentgelt nach § 3 Abs. 1 und 2 und § 9 Abs. 1 des Entgeltfortzahlungsgesetzes, Arbeitsentgelt nach § 11 des Mutterschutzgesetzes oder Zuschuss zum Mutterschaftsgeld nach § 14 Abs. 1 des Mutterschutzgesetzes gezahlt hat. Stellt die Krankenkasse eine inhaltliche Abweichung zwischen ihrer Berechnung der Erstattung und dem Antrag des Arbeitgebers fest, hat sie diese Abweichung dem Arbeitgeber durch Datenübertragung nach § 28a Absatz 1 Satz 3 des Vierten Buches Sozialgesetzbuch unverzüglich zu melden. § 28a Absatz 1 Satz 2 des Vierten Buches Sozialgesetzbuch gilt entsprechend.
 
-(3) Der Arbeitgeber hat einen Antrag nach Absatz 2 Satz 1 durch gesicherte und verschlüsselte Datenfernübertragung aus systemgeprüften Programmen oder mittels maschineller Ausfüllhilfe an die zuständige Krankenkasse zu übermitteln. Dabei ist zu gewährleisten, dass dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit getroffen werden, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten sowie die Authentifizierung der übermittelnden und empfangenden Stelle gewährleisten. Bei der Nutzung allgemein zugänglicher Netze sind Verschlüsselungsverfahren zu verwenden. Den Übertragungsweg und die Einzelheiten des Verfahrens wie den Aufbau des Datensatzes legt der Spitzenverband Bund der Krankenkassen in Grundsätzen fest, die vom Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für Gesundheit zu genehmigen sind; die Bundesvereinigung der Deutschen Arbeitgeberverbände ist anzuhören.
+(3) Der Arbeitgeber hat einen Antrag nach Absatz 2 Satz 1 durch Datenübertragung nach § 28a Absatz 1 Satz 3 und 4 des Vierten Buches Sozialgesetzbuch an die zuständige Krankenkasse zu übermitteln. § 28a Absatz 1 Satz 2 des Vierten Buches Sozialgesetzbuch gilt für die Meldung nach Satz 1 entsprechend. Den Übertragungsweg und die Einzelheiten des Verfahrens wie den Aufbau des Datensatzes legt der Spitzenverband Bund der Krankenkassen in Grundsätzen fest, die vom Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für Gesundheit zu genehmigen sind; die Bundesvereinigung der Deutschen Arbeitgeberverbände ist anzuhören.
 
 ### § 3 Feststellung der Umlagepflicht
 
