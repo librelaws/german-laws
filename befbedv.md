@@ -2,7 +2,7 @@ Verordnung über die Allgemeinen Beförderungsbedingungen für den Straßenbahn-
 ===========================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 4 V v. 8.11.2007 I 2569
+Zuletzt geändert durch Art. 1 V v. 21.5.2015 I 782
 
 ### 
 
@@ -161,7 +161,7 @@ den Fahrausweis auf Verlangen nicht zur Prüfung vorzeigt oder aushändigt.
 
 Eine Verfolgung im Straf- oder Bußgeldverfahren bleibt unberührt. Die Vorschriften unter den Nummern 1 und 3 werden nicht angewendet, wenn das Beschaffen oder die Entwertung des Fahrausweises aus Gründen unterblieben ist, die der Fahrgast nicht zu vertreten hat.
 
-(2) In den Fällen des Absatzes 1 kann der Unternehmer ein erhöhtes Beförderungsentgelt bis zu 40 Euro erheben. Er kann jedoch das Doppelte des Beförderungsentgelts für einfache Fahrt auf der vom Fahrgast zurückgelegten Strecke erheben, sofern sich hiernach ein höherer Betrag als nach Satz 1 ergibt; hierbei kann das erhöhte Beförderungsentgelt nach dem Ausgangspunkt der Linie berechnet werden, wenn der Fahrgast die zurückgelegte Strecke nicht nachweisen kann.
+(2) In den Fällen des Absatzes 1 kann der Unternehmer ein erhöhtes Beförderungsentgelt bis zu 60 Euro erheben. Er kann jedoch das Doppelte des Beförderungsentgelts für einfache Fahrt auf der vom Fahrgast zurückgelegten Strecke erheben, sofern sich hiernach ein höherer Betrag als nach Satz 1 ergibt; hierbei kann das erhöhte Beförderungsentgelt nach dem Ausgangspunkt der Linie berechnet werden, wenn der Fahrgast die zurückgelegte Strecke nicht nachweisen kann.
 
 (3) Das erhöhte Beförderungsentgelt ermäßigt sich im Falle von Absatz 1 Nr. 2 auf 7 Euro, wenn der Fahrgast innerhalb einer Woche ab dem Feststellungstag bei der Verwaltung des Unternehmers nachweist, daß er im Zeitpunkt der Feststellung Inhaber einer gültigen persönlichen Zeitkarte war.
 
