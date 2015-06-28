@@ -2,12 +2,13 @@ Erbschaftsteuer-Durchführungsverordnung (ErbStDV)
 =================================================
 
 Stand  
-Zuletzt geändert durch Art. 27 G v. 8.12.2010 I 1768
+Zuletzt geändert durch Art. 18 G v. 29.6.2015 I 1042
 
 ### 
 
 ```
 (+++ Textnachweis ab: 1.8.1998 +++)
+(+++ Zur Anwendung vgl. § 12 +++)
 ```
 
 ### Eingangsformel
@@ -43,23 +44,27 @@ Wer auf den Namen lautende Aktien oder Schuldverschreibungen ausgegeben hat, hat
 die Wertpapier-Kennummer, die Stückzahl und den Nennbetrag der Aktien oder Schuldverschreibungen,
 
 2.  
-die letzte Anschrift des Erblassers, auf dessen Namen die Wertpapiere lauten,
+die letzte Anschrift und die Identifikationsnummer des Erblassers, auf dessen Namen die Wertpapiere lauten,
 
 3.  
 den Todestag des Erblassers und - wenn dem Anzeigepflichtigen bekannt - das Standesamt, bei dem der Sterbefall beurkundet worden ist,
 
 4.  
-den Namen, die Anschrift und, soweit dem Anzeigepflichtigen bekannt, das persönliche Verhältnis (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner) der Person, auf deren Namen die Wertpapiere umgeschrieben werden sollen.
+den Namen, die Identifikationsnummer, die Anschrift und, soweit dem Anzeigepflichtigen bekannt, das persönliche Verhältnis (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner) der Person, auf deren Namen die Wertpapiere umgeschrieben werden sollen.
 
 Die Anzeige darf nur unterbleiben, wenn der Wert der anzuzeigenden Wertpapiere 5 000 Euro nicht übersteigt.
+
+(+++ § 2 Satz 1 Nr. 1 u. 4 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)
 
 ### § 3 Anzeigepflicht der Versicherungsunternehmen
 
 (1) Zu den Versicherungsunternehmen, die Anzeigen nach § 33 Abs. 3 des Gesetzes zu erstatten haben, gehören auch die Sterbekassen von Berufsverbänden, Vereinen und anderen Anstalten, soweit sie die Lebens- (Sterbegeld-) oder Leibrenten-Versicherung betreiben. Die Anzeigepflicht besteht auch für Vereine und Berufsverbände, die mit einem Versicherungsunternehmen die Zahlung einer Versicherungssumme (eines Sterbegeldes) für den Fall des Todes ihrer Mitglieder vereinbart haben, wenn der Versicherungsbetrag an die Hinterbliebenen der Mitglieder weitergeleitet wird. Ortskrankenkassen gelten nicht als Versicherungsunternehmen im Sinne der genannten Vorschrift.
 
-(2) Dem für die Verwaltung der Erbschaftsteuer zuständigen Finanzamt (§ 35 des Gesetzes) sind mit einem Vordruck nach Muster 2 alle Versicherungssummen oder Leibrenten, die einem anderen als dem Versicherungsnehmer auszuzahlen oder zur Verfügung zu stellen sind, und, soweit dem Anzeigepflichtigen bekannt, das persönliche Verhältnis (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner) der Person, an die die Auszahlung oder Zurverfügungstellung erfolgt, anzuzeigen. Zu den Versicherungssummen rechnen insbesondere auch Versicherungsbeträge aus Sterbegeld-, Aussteuer- und ähnlichen Versicherungen. Bei einem Wechsel des Versicherungsnehmers vor Eintritt des Versicherungsfalls sind der Rückkaufswert der Versicherung sowie der Name, die Anschrift und das Geburtsdatum des neuen Versicherungsnehmers anzuzeigen.
+(2) Dem für die Verwaltung der Erbschaftsteuer zuständigen Finanzamt (§ 35 des Gesetzes) sind mit einem Vordruck nach Muster 2 alle Versicherungssummen oder Leibrenten, die einem anderen als dem Versicherungsnehmer auszuzahlen oder zur Verfügung zu stellen sind, und, soweit dem Anzeigepflichtigen bekannt, das persönliche Verhältnis (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner) der Person, an die die Auszahlung oder Zurverfügungstellung erfolgt, anzuzeigen. Zu den Versicherungssummen rechnen insbesondere auch Versicherungsbeträge aus Sterbegeld-, Aussteuer- und ähnlichen Versicherungen. Bei einem Wechsel des Versicherungsnehmers vor Eintritt des Versicherungsfalls sind der Rückkaufswert der Versicherung sowie der Name, die Identifikationsnummer, die Anschrift und das Geburtsdatum des neuen Versicherungsnehmers anzuzeigen.
 
 (3) Die Anzeige unterbleibt bei solchen Versicherungssummen, die auf Grund eines von einem Arbeitgeber für seine Arbeitnehmer abgeschlossenen Versicherungsvertrages bereits zu Lebzeiten des Versicherten (Arbeitnehmers) fällig und an diesen ausgezahlt werden. Die Anzeige darf bei Kapitalversicherungen unterbleiben, wenn der auszuzahlende Betrag 5 000 Euro nicht übersteigt.
+
+(+++ § 3 Abs. 2 Satz 3 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)
 
 Zu § 34 ErbStG
 --------------
@@ -115,6 +120,9 @@ eröffnete Verfügungen von Todes wegen mit einer Mehrausfertigung der Niedersch
 2.  
 Erbscheine,
 
+2a.  
+Europäische Nachlasszeugnisse,
+
 3.  
 Testamentsvollstreckerzeugnisse,
 
@@ -132,7 +140,7 @@ Eine elektronische Übermittlung der Anzeige ist ausgeschlossen. Die Anzeige hat
 (2) Jede Mitteilung oder Übersendung soll die folgenden Angaben enthalten:
 
 1.  
-den Namen, den Geburtstag, die letzte Anschrift, den Todestag und den Sterbeort des Erblassers,
+den Namen, die Identifikationsnummer, den Geburtstag, die letzte Anschrift, den Todestag und den Sterbeort des Erblassers,
 
 2.  
 das Standesamt, bei dem der Sterbefall beurkundet worden ist, und die Nummer des Sterberegisters.
@@ -143,10 +151,10 @@ das Standesamt, bei dem der Sterbefall beurkundet worden ist, und die Nummer des
 den Beruf und den Familienstand des Erblassers,
 
 2.  
-den Güterstand bei verheirateten Erblassern,
+den Güterstand bei verheirateten oder in einer Lebenspartnerschaft lebenden Erblassern,
 
 3.  
-die Anschriften der Beteiligten und das persönliche Verhältnis (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner) zum Erblasser,
+die Anschriften und die Identifikationsnummern der Beteiligten sowie das persönliche Verhältnis (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner) zum Erblasser,
 
 4.  
 die Höhe und die Zusammensetzung des Nachlasses in Form eines Verzeichnisses,
@@ -169,6 +177,9 @@ wenn der Erbschein lediglich zur Geltendmachung von Ansprüchen auf Grund des La
 wenn seit dem Zeitpunkt des Todes des Erblassers mehr als zehn Jahre vergangen sind. Das gilt nicht für Anzeigen über die Abwicklung von Erbauseinandersetzungen.
 
 (5) Die vorstehenden Vorschriften gelten entsprechend für Notare (Bezirksnotare) und sonstige Urkundspersonen, soweit ihnen Geschäfte des Nachlaßgerichtes übertragen sind.
+
+(+++ § 7 Abs. 2 Nr. 1 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)
+(+++ § 7 Abs. 3 Nr. 3 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)
 
 ### § 8 Anzeigepflicht der Gerichte, Notare und sonstigen Urkundspersonen bei Schenkungen und Zweckzuwendungen unter Lebenden
 
@@ -208,7 +219,7 @@ Die Behörden, die Stiftungen anerkennen oder Zuwendungen von Todes wegen und un
 der Tag der Anerkennung oder Genehmigung,
 
 2.  
-die Anschriften des Erblassers (Schenkers) und des Erwerbers (bei einer Zweckzuwendung die Anschrift des mit der Durchführung der Zweckzuwendung Beschwerten),
+die Anschriften und die Identifikationsnummern des Erblassers (Schenkers) und des Erwerbers (bei einer Zweckzuwendung die Anschrift und die Identifikationsnummer des mit der Durchführung der Zweckzuwendung Beschwerten),
 
 3.  
 die Höhe des Erwerbs (der Zweckzuwendung),
@@ -224,6 +235,8 @@ wenn bei der Anerkennung oder Genehmigung dem Erwerber Leistungen an andere Pers
 
 Als Nachweisung kann eine beglaubigte Abschrift der der Stiftung zugestellten Urkunde über die Anerkennung als rechtsfähig dienen, wenn aus ihr die genannten Angaben zu ersehen sind.
 
+(+++ § 10 Satz 4 Nr. 2 F. 2014-12-22: Zur Anwendung vgl. § 12 Abs. 3 +++)
+
 ### § 11 Anzeigen im automatisierten Verfahren
 
 Die oberste Finanzbehörde eines Landes kann anordnen, daß die Anzeigen den Finanzämtern ihre Zuständigkeitsbereichs in einem automatisierten Verfahren erstattet werden können, soweit die Übermittlung der jeweils aufgeführten Angaben gewährleistet und die Richtigkeit der Datenübermittlung sichergestellt ist.
@@ -235,7 +248,13 @@ Schlußvorschriften
 
 ### § 12 Anwendung der Verordnung
 
-Diese Verordnung in der Fassung des Artikels 5 der Verordnung vom 17. November 2010 (BGBl. I S. 1544) ist auf Erwerbe anzuwenden, für die die Steuer nach dem 31. Dezember 2010 entsteht.
+(1) Diese Verordnung in der Fassung des Artikels 5 der Verordnung vom 17. November 2010 (BGBl. I S. 1544) ist auf Erwerbe anzuwenden, für die die Steuer nach dem 31. Dezember 2010 entsteht.
+
+(2) § 7 Absatz 3 Nummer 2 und die Muster 3 und Muster 5 in der Fassung des Artikels 16 des Gesetzes vom 18. Juli 2014 (BGBl. I S. 1042) sind auf Erwerbe anzuwenden, für die die Steuer nach dem 23. Juli 2014 entsteht.
+
+(3) § 2 Satz 1 Nummer 2 und 4, § 3 Absatz 2 Satz 3, § 7 Absatz 2 Nummer 1 und Absatz 3 Nummer 3, § 10 Satz 4 Nummer 2 sowie die Muster 1, 2, 5 und 6 in der am 30. Dezember 2014 geltenden Fassung sind auf Erwerbe anzuwenden, für die die Steuer nach dem 29. Dezember 2014 entsteht.
+
+(4) § 7 Absatz 1 Satz 1 Nummer 2a und Muster 5 in der Fassung des Artikels 18 des Gesetzes vom 29. Juni 2015 (BGBl. I S. 1042) sind auf Erwerbe anzuwenden, für die die Steuer nach dem 16. August 2015 entsteht.
 
 ### § 13 Inkrafttreten, Außerkrafttreten
 
@@ -264,14 +283,14 @@ Finanzamt ....................
 über die Verwahrung oder Verwaltung fremden Vermögens (§ 33 Abs. 1
 ErbStG und § 1 ErbStDV)
 ------------------------------------------------------------------------
-1.  Erblasser Name, Vorname ............................................
+1.  Erblasser Name, Vorname, Identifikationsnummer .....................
     Geburtstag              .............
     Anschrift               ............................................
     Todestag                ............. Sterbeort      ...............
     Standesamt              ............. Sterberegister-Nr. ...........
 2.  Guthaben und andere Forderungen, auch Gemeinschaftskonten
     --------------------------------------------------------------------
-     Konto-Nr.  I Nennbetrag I Aufgelaufene I Hat der Kontoinhaber mit
+     IBAN       I Nennbetrag I Aufgelaufene I Hat der Kontoinhaber mit
                 I am Todes-  I Zinsen bis   I dem Kreditinstitut
                 I tag ohne   I zum Todestag I vereinbart, daß die
                 I Zinsen für I (volle EUR)  I Guthaben oder eines
@@ -295,7 +314,7 @@ ErbStG und § 1 ErbStDV)
     --------------------------------------------------------------------
     Von den Angaben in Spalte 1 entfallen auf unselbständige Zweigniederlassungen 
     im Ausland:
-    Konto-Nr.: 
+    IBAN: 
    
 3.  Wertpapiere, Anteile, Genußscheine und dergleichen, auch solche
     in Gemeinschaftsdepots
@@ -329,7 +348,7 @@ ErbStG und § 1 ErbStDV)
 4.  Der Verstorbene hatte kein - ein Schließfach/ ... Schließfächer
     Versicherungswert                                                EUR
                                                         .................
-5.  Bemerkungen (z.B. über Schulden des Erblassers beim
+5.  Bemerkungen (z. B. über Schulden des Erblassers beim
     Kreditinstitut): ...................................................
     ....................................................................
     ....................................................................
@@ -361,7 +380,7 @@ oder Leibrenten an einen anderen als den Versicherungsnehmer
 1.  Versicherter                             I und Versicherungsnehmer
                                              I (wenn er ein anderer ist
                                              I als der Versicherte)
-    a) Name und Vorname .....................I..........................
+    a) Name und Vorname, Identifikationsnummer .....................I...
     b) Geburtsdatum     .....................I..........................
     c) Anschrift        .....................I..........................
     d) Todestag         .....................I..........................
@@ -400,7 +419,7 @@ oder Leibrenten an einen anderen als den Versicherungsnehmer
     Rückkaufswert              EUR                                      
                       ............                                      
                                               
-7.  Bemerkungen (z.B. persönliches Verhältnis
+7.  Bemerkungen (z. B. persönliches Verhältnis
     - Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner - der Beteiligten) 
     ....................................................................
     ....................................................................
@@ -484,20 +503,20 @@ Finanzamt ....................
                                (Seite 2)
                ---------------------------------------------------------
                I a) Familienname   I               I a) Familienstand
-               I    ggf. auch      I               I b) bei
-               I    Geburtsname    I               I    Verheirateten
+               I    ggf. auch      I               I b) bei Verheirateten
+               I    Geburtsname    I               I    oder bei Lebenspartnern
                I b) Vornamen       I               I    Name, Beruf,
                I c) Beruf          I a) Todestag   I    Geburtstag,
    Nummer des  I d) Anschrift      I b) Geburtstag I    ggf. abweichende
    Sterbe-     I e) Bei minder-    I c) Geburtsort I    Anschrift des
-   registers   I    jährigen       I               I    anderen
-               I    Kindern Name,  I               I    Ehegatten
+   registers   I    jährigen       I               I    anderen Ehegatten
+               I    Kindern Name,  I               I    oder Lebenspartners
                I    Beruf und      I               I c) bei Verwitweten
-               I    Anschrift      I               I    Beruf des
-               I    (soweit von d) I               I    verstorbenen
-               I    abweichend)    I               I    Ehegatten
-               I    des Vaters und I               I
-               I    der Mutter     I               I
+               I    Anschrift      I               I    oder bei hinterbliebenen
+               I    (soweit von d) I               I    Lebenspartnern
+               I    abweichend)    I               I    Beruf des verstorbenen
+               I    des Vaters und I               I    Ehegatten oder
+               I    der Mutter     I               I    Lebenspartners
 ------------------------------------------------------------------------
 des Verstorbenen
 ------------------------------------------------------------------------
@@ -544,6 +563,8 @@ angeben              I                       I             I
                      I                       I             I
                      I                       I             I
 ```
+
+(+++ Muster 3 F. 2014-07-18: Zur Anwendung vgl. § 12 Abs. 2 +++)
 
 ### Muster 4 (§ 4 ErbStDV)
 
@@ -596,33 +617,34 @@ Finanzamt ....................
 ------------------------------
 Die anliegende ... beglaubigte ... Abschrift ... (Ablichtung ... wird/werden
 mit folgenden Bemerkungen übersandt:
-Erblasser Name, Vorname        .........................................
+Erblasser Name, Vorname, Identifikationsnummer .........................
 Geburtstag                     .........................................
 letzte Anschrift               .........................................
 Beruf                          .........................................
 Familienstand                  .........................................
-Güterstand (bei Verheirateten) .........................................
+Güterstand (bei Verheirateten
+oder bei Lebenspartnern)       .........................................
 Todestag und Sterbeort         .........................................
 Standesamt und Sterberegister-Nr. ......................................
 Testament/Erbvertrag vom       .........................................
 Tag der Eröffnung              .........................................
  
-Die Gebühr für die          Errichtung    I Verwahrung    I Eröffnung
+Die Gebühr für die          Errichtung    I Verwahrung    I Erteilung eines Erbscheins
 ist berechnet nach einem              EUR I           EUR I          EUR
 Wert von                    ..............I...............I.............
 Grund der Übersendung
 Eröffnung einer   ( ) Verfügung von Todes
                       wegen *)
-Erteilung eines   ( ) Erbscheins *) ( ) Testaments-   ( ) Zeugnisses
-                                        vollstrecker-     über die
-                                        zeugnisses *)     Fortsetzung
+Erteilung eines   ( ) Erbscheins *) ( ) Europäischen  ( ) Testaments-   ( ) Zeugnisses
+                                        Nachlass-         vollstrecker-     über die
+                                        zeugnisses *)     zeugnisses *)     Fortsetzung
                                                           von Güter-
                                                           gemeinschaften
 Beurkundung einer ( ) Erbauseinandersetzung
-Beschluß über die ( ) Einleitung    ( ) Einleitung
-                      oder Aufhebung    oder Aufhebung
-                      einer Nachlaß-    einer Nachlaß-
-                      pflegschaft *)    verwaltung *)
+Beschluß über die ( ) Einleitung     ( ) Einleitung
+                      oder Aufhebung     oder Aufhebung
+                      einer Nachlaß-     einer Nachlaß-
+                      pflegschaft *)     verwaltung *)
  
 Die Namen und Anschriften der Beteiligten und das persönliche Verhältnis
 (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner) zum Erblasser 
@@ -648,6 +670,8 @@ Anschriftenänderungen und dergleichen)
     Ort, Datum                              Unterschrift
 ```
 
+(+++ Muster 5 F. 2014-07-18: Zur Anwendung vgl. § 12 Abs. 2 +++)
+
 ### Muster 6 (§ 8 ErbStDV)
 
 (Fundstelle: BGBl. I 1998, 2668;
@@ -667,16 +691,16 @@ Finanzamt ....................
    Die anliegende beglaubigte Abschrift/Ablichtung wird mit folgenden
                         Bemerkungen übersandt:
  
-1.  Schenker Name, Vorname     .........................................
+1.  Schenker Name, Vorname, Identifikationsnummer ......................
     Geburtstag                 .............
     Anschrift                  .........................................
-2.  Beschenkter Name, Vorname  .........................................
+2.  Beschenkter Name, Vorname, Identifikationsnummer ...................
     Geburtstag                 .............
     Anschrift                  .........................................
 3.  Vertrag vom                .......... Urkundenrolle-Nr. ............
 4.  Ergänzende Angaben (§ 34 ErbStG, § 8 ErbStDV)
     Persönliches Verhältnis (Verwandtschaftsverhältnis, Ehegatte oder Lebenspartner)
-    des Erwerbers zum Schenker (z.B. Kind, Geschwisterkind, Bruder der Mutter, 
+    des Erwerbers zum Schenker (z. B. Kind, Geschwisterkind, Bruder der Mutter, 
     nicht verwandt) ....................................................
  
     Verkehrswert des     I Bei Grundbesitz:      I Wert, der der
@@ -695,7 +719,7 @@ Finanzamt ....................
  
     Valutastand der      I Jahreswert von        I Höhe der
     übernommenen         I Gegenleistungen wie   I Notargebühren
-    Verbindlichkeiten am I z.B. Nießbrauch       I
+    Verbindlichkeiten am I z. B. Nießbrauch      I
     Tag der Schenkung    I                       I
                          I                       I
                          I                       I
