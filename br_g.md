@@ -2,7 +2,7 @@ Bundesgesetz zur Regelung der rückerstattungsrechtlichen Geldverbindlichkeiten 
 ============================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 7 Abs. 3 G v. 26.3.2007 I 358
+Zuletzt geändert durch Art. 21 Abs. 1 G v. 29.6.2015 I 1042
 
 ### 
 
@@ -116,7 +116,7 @@ Auf Grund rückerstattungsrechtlicher Ansprüche (§§ 1, 3) können Leistungen 
 
 (2) Verlangt ein Wiedergutmachungsorgan die Vorlage eines Erbscheins, so hat das Nachlaßgericht auf Antrag des Berechtigten einen Erbschein für den Rückerstattungsanspruch zu erteilen. Soweit nach einer der in § 11 Nr. 1 Buchstaben a, b und d genannten Rechtsvorschriften zur Rückerstattung feststellbarer Vermögensgegenstände eine Todesvermutung eingreift oder ein anderer Zeitpunkt des Todes festgestellt worden ist, ist diese Vermutung oder Feststellung für die Erteilung eines solchen Erbscheins maßgebend.
 
-(3) Die Erteilung des Erbscheins für den Rückerstattungsanspruch einschließlich des vorausgegangenen Verfahrens ist gebühren- und auslagenfrei. § 107 Abs. 1 Satz 2 der Kostenordnung bleibt unberührt.
+(3) Die Erteilung des Erbscheins für den Rückerstattungsanspruch einschließlich des vorausgegangenen Verfahrens ist gebühren- und auslagenfrei. Dies gilt nicht für die Abnahme der eidesstattlichen Versicherung nach § 352 Absatz 3 Satz 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
 ### § 8
 
