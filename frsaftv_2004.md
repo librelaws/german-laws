@@ -2,7 +2,7 @@ Verordnung über Fruchtsaft, einige ähnliche Erzeugnisse, Fruchtnektar und koff
 ===================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 23.10.2013 I 3889
+Zuletzt geändert durch Art. 3 V v. 30.6.2015 I 1090
 
 ### 
 
@@ -369,7 +369,10 @@ chemisch inerte Filterstoffe und Fällungsmittel wie Perlit, Kieselgur, Zellulos
 chemisch inerte Adsorptionsstoffe, die den Vorschriften der Verordnung (EG) Nr. 1935/2004 entsprechen und dazu verwendet werden, den Limonoid- und Naringingehalt des Zitrussaftes zu verringern, ohne hierdurch die limonoiden Glukoside, die Säure, die Zucker (einschließlich der Oligosaccharide) oder den Mineralgehalt erheblich zu vermindern;
 
 6.  
-Stickstoff.
+Stickstoff;
+
+7.  
+Pflanzenproteine aus Weizen, Erbsen oder Kartoffeln für die Klärung.
 
 ### Anlage 5 (zu § 2 Abs. 6)
 
