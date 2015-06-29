@@ -2,7 +2,10 @@ Verordnung zur Durchführung gemeinschaftsrechtlicher und unionsrechtlicher Vors
 =============================================================================================================================================================================
 
 Neuf  
-Neugefasst durch Bek. v. 30.6.2015 I 1098
+Neugefasst durch Bek. v. 30.6.2015 I 1098;
+
+Stand  
+geändert durch Art. 5 V v. 3.5.2016 I 1057
 
 Sonst  
 Die V tritt gem. § 7 Abs. 1 Satz 2 mit Ablauf des 22.2.2007 außer Kraft, soweit nicht mit Zustimmung des Bundesrates etwas anderes verordnet wird. § 7 (jetzt § 6) Abs. 1 Satz 2 aufgeh. durch Art. 1 Nr. 6 Buchst a DBuchst. bb V v. 20.12.2006 I 3383; dadurch ist die Geltung dieser V über den 22.2.2007 hinaus verlängert worden.
@@ -79,18 +82,7 @@ obliegt der zuständigen Behörde.
 
 ### § 4 Impfungen
 
-(1) Empfängliche Tiere dürfen gegen die Blauzungenkrankheit nur geimpft werden
-
-1.  
-im Falle der amtlichen Feststellung des Ausbruchs der Blauzungenkrankheit nach § 4 der Verordnung zum Schutz gegen die Blauzungenkrankheit,
-
-2.  
-mit inaktivierten Impfstoffen und
-
-3.  
-mit Impfstoffen, bei deren Herstellung derjenige Serotyp verwendet worden ist, der der amtlichen Feststellung nach Nummer 1 zu Grunde lag.
-
-Satz 1 gilt entsprechend, wenn auf dem Gebiet eines benachbarten Mitgliedstaates oder eines Drittlandes der Ausbruch der Blauzungenkrankheit innerhalb einer Entfernung von weniger als 150 Kilometern von der deutschen Grenze durch die zuständige Behörde des betroffenen Mitgliedstaates oder des betroffenen Drittlandes amtlich festgestellt worden ist.
+(1) Empfängliche Tiere dürfen gegen die Blauzungenkrankheit nur mit Genehmigung der zuständigen Behörde und nur mit inaktivierten Impfstoffen geimpft werden. Die Genehmigung ist unter Berücksichtigung einer Risikobewertung des Friedrich-Loeffler-Institutes zu erteilen.
 
 (2) Der Tierhalter hat der zuständigen Behörde oder einer von dieser beauftragten Stelle jede Impfung gegen die Blauzungenkrankheit innerhalb von sieben Tagen nach der Durchführung der Impfung unter Angabe
 
@@ -104,6 +96,16 @@ des Datums der Impfung und
 des verwendeten Impfstoffes
 
 mitzuteilen. Auf Anordnung der zuständigen Behörde hat er zusätzlich die Ohrmarkennummern der nach Satz 1 geimpften Tiere mitzuteilen.
+
+(3) Die zuständige Behörde kann
+
+1.  
+die Impfung empfänglicher Tiere eines Bestandes oder eines bestimmten Gebietes gegen die Blauzungenkrankheit mit einem inaktivierten Impfstoff und
+
+2.  
+die Mitteilung über eine nach Nummer 1 durchgeführte Impfung und den dabei verwendeten Impfstoff
+
+anordnen, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
 ### § 4a Wildtieruntersuchung, weitergehende Maßnahmen
 
@@ -128,13 +130,16 @@ entgegen § 1 Absatz 1 Satz 1 ein Tier verbringt,
 entgegen § 1 Absatz 2 Satz 1 einen Embryo, Samen oder eine Eizelle verbringt,
 
 3.  
-entgegen § 4 Absatz 1 ein Tier impft,
+entgegen § 4 Absatz 1 Satz 1 ein Tier impft,
 
 4.  
-entgegen § 4 Absatz 2 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
+einer mit einer Genehmigung nach § 4 Absatz 1 Satz 1 verbundenen vollziehbaren Auflage zuwiderhandelt,
 
 5.  
-einer vollziehbaren Anordnung nach § 4 Absatz 2 Satz 2 zuwiderhandelt.
+entgegen § 4 Absatz 2 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
+
+6.  
+einer vollziehbaren Anordnung nach § 4 Absatz 2 Satz 2 oder Absatz 3 zuwiderhandelt.
 
 ### § 6 (Inkrafttreten, Außerkrafttreten)
 
