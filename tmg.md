@@ -2,10 +2,7 @@ Telemediengesetz (TMG)
 ======================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 31.5.2010 I 692
-
-Hinweis  
-Änderung durch Art. 2 Abs. 16 G v. 1.4.2015 I 434 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 4 G v. 17.7.2015 I 1324
 
 ### 
 
@@ -365,7 +362,23 @@ An die Stelle der Löschung nach Satz 1 Nr. 2 tritt eine Sperrung, soweit einer 
 
 (6) Der Diensteanbieter hat die Nutzung von Telemedien und ihre Bezahlung anonym oder unter Pseudonym zu ermöglichen, soweit dies technisch möglich und zumutbar ist. Der Nutzer ist über diese Möglichkeit zu informieren.
 
-(7) Der Diensteanbieter hat dem Nutzer nach Maßgabe von § 34 des Bundesdatenschutzgesetzes auf Verlangen Auskunft über die zu seiner Person oder zu seinem Pseudonym gespeicherten Daten zu erteilen. Die Auskunft kann auf Verlangen des Nutzers auch elektronisch erteilt werden.
+(7) Diensteanbieter haben, soweit dies technisch möglich und wirtschaftlich zumutbar ist, im Rahmen ihrer jeweiligen Verantwortlichkeit für geschäftsmäßig angebotene Telemedien durch technische und organisatorische Vorkehrungen sicherzustellen, dass
+
+1.  
+kein unerlaubter Zugriff auf die für ihre Telemedienangebote genutzten technischen Einrichtungen möglich ist und
+
+2.  
+diese
+
+a)  
+gegen Verletzungen des Schutzes personenbezogener Daten und
+
+b)  
+gegen Störungen, auch soweit sie durch äußere Angriffe bedingt sind,
+
+gesichert sind. Vorkehrungen nach Satz 1 müssen den Stand der Technik berücksichtigen. Eine Maßnahme nach Satz 1 ist insbesondere die Anwendung eines als sicher anerkannten Verschlüsselungsverfahrens.
+
+(8) Der Diensteanbieter hat dem Nutzer nach Maßgabe von § 34 des Bundesdatenschutzgesetzes auf Verlangen Auskunft über die zu seiner Person oder zu seinem Pseudonym gespeicherten Daten zu erteilen. Die Auskunft kann auf Verlangen des Nutzers auch elektronisch erteilt werden.
 
 ### § 14 Bestandsdaten
 
@@ -422,7 +435,7 @@ entgegen § 5 Abs. 1 eine Information nicht, nicht richtig oder nicht vollständ
 entgegen § 13 Abs. 1 Satz 1 oder 2 den Nutzer nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig unterrichtet,
 
 3.  
-einer Vorschrift des § 13 Abs. 4 Satz 1 Nr. 1 bis 4 oder 5 über eine dort genannte Pflicht zur Sicherstellung zuwiderhandelt,
+einer Vorschrift des § 13 Abs. 4 Satz 1 Nr. 1 bis 4 oder 5 oder Absatz 7 Satz 1 Nummer 1 oder Nummer 2 Buchstabe a über eine dort genannte Pflicht zur Sicherstellung zuwiderhandelt,
 
 4.  
 entgegen § 14 Abs. 1 oder § 15 Abs. 1 Satz 1 oder Abs. 8 Satz 1 oder 2 personenbezogene Daten erhebt oder verwendet oder nicht oder nicht rechtzeitig löscht oder
