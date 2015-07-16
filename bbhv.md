@@ -2,10 +2,7 @@ Verordnung über Beihilfe in Krankheits-, Pflege- und Geburtsfällen (BBhV)
 =========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 8.9.2012 I 1935
-
-Hinweis  
-Änderung durch Art. 1 V v. 12.12.2012 I 2657 (Nr. 59) noch nicht berücksichtigt
+Zuletzt geändert durch Art. 11 G v. 17.7.2015 I 1368
 
 ### 
 
@@ -26,9 +23,9 @@ Allgemeine Vorschriften
 |      |                                                |
 |------|------------------------------------------------|
 | §  1 | Regelungszweck                                 |
-| §  2 | Beihilfeberechtigte                            |
+| §  2 | Beihilfeberechtigte Personen                   |
 | §  3 | Beamtinnen und Beamte im Ausland               |
-| §  4 | Berücksichtigungsfähige Angehörige             |
+| §  4 | Berücksichtigungsfähige Personen               |
 | §  5 | Konkurrenzen                                   |
 | §  6 | Beihilfefähigkeit von Aufwendungen             |
 | §  7 | Verweisungen auf das Sozialgesetzbuch          |
@@ -45,37 +42,39 @@ Abschnitt 1
 
 Ambulante Leistungen
 
-|      |                                                                                                    |
-|------|----------------------------------------------------------------------------------------------------|
-| § 12 | Ärztliche Leistungen                                                                               |
-| § 13 | Leistungen von Heilpraktikerinnen und Heilpraktikern                                               |
-| § 14 | Zahnärztliche Leistungen                                                                           |
-| § 15 | Implantologische, kieferorthopädische, funktionsanalytische und funktionstherapeutische Leistungen |
-| § 16 | Auslagen, Material- und Laborkosten                                                                |
-| § 17 | Zahnärztliche Leistungen für Beamtinnen und Beamte auf Widerruf                                    |
-| § 18 | Psychotherapeutische Leistungen                                                                    |
-| § 19 | Psychosomatische Grundversorgung                                                                   |
-| § 20 | Tiefenpsychologisch fundierte und analytische Psychotherapie                                       |
-| § 21 | Verhaltenstherapie                                                                                 |
+|       |                                                                                                                |
+|-------|----------------------------------------------------------------------------------------------------------------|
+| § 12  | Ärztliche Leistungen                                                                                           |
+| § 13  | Leistungen von Heilpraktikerinnen und Heilpraktikern                                                           |
+| § 14  | Zahnärztliche Leistungen                                                                                       |
+| § 15  | Implantologische, kieferorthopädische, funktionsanalytische und funktionstherapeutische Leistungen             |
+| § 16  | Auslagen, Material- und Laborkosten                                                                            |
+| § 17  | Zahnärztliche Leistungen für Beamtinnen und Beamte auf Widerruf                                                |
+| § 18  | Psychotherapie, psychosomatische Grundversorgung                                                               |
+| § 18a | Gemeinsame Vorschriften für die Behandlungsformen psychoanalytisch begründete Verfahren und Verhaltenstherapie |
+| § 19  | Psychoanalytisch begründete Verfahren                                                                          |
+| § 20  | Verhaltenstherapie                                                                                             |
+| § 21  | Psychosomatische Grundversorgung                                                                               |
 
 Abschnitt 2
 
 Sonstige Aufwendungen
 
-|      |                                                                                  |
-|------|----------------------------------------------------------------------------------|
-| § 22 | Arznei- und Verbandmittel                                                        |
-| § 23 | Heilmittel                                                                       |
-| § 24 | Komplextherapie und integrierte Versorgung                                       |
-| § 25 | Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke |
-| § 26 | Krankenhausleistungen                                                            |
-| § 27 | Häusliche Krankenpflege                                                          |
-| § 28 | Familien- und Haushaltshilfe                                                     |
-| § 29 | Familien- und Haushaltshilfe im Ausland                                          |
-| § 30 | Soziotherapie                                                                    |
-| § 31 | Fahrtkosten                                                                      |
-| § 32 | Unterkunftskosten                                                                |
-| § 33 | Lebensbedrohliche oder regelmäßig tödlich verlaufende Krankheiten                |
+|       |                                                                                  |
+|-------|----------------------------------------------------------------------------------|
+| § 22  | Arznei- und Verbandmittel                                                        |
+| § 23  | Heilmittel                                                                       |
+| § 24  | Komplextherapie und integrierte Versorgung                                       |
+| § 25  | Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke |
+| § 26  | Krankenhausleistungen                                                            |
+| § 27  | Häusliche Krankenpflege                                                          |
+| § 28  | Familien- und Haushaltshilfe                                                     |
+| § 29  | Familien- und Haushaltshilfe im Ausland                                          |
+| § 30  | Soziotherapie                                                                    |
+| § 30a | Neuropsychologische Therapie                                                     |
+| § 31  | Fahrtkosten                                                                      |
+| § 32  | Unterkunftskosten                                                                |
+| § 33  | Lebensbedrohliche oder regelmäßig tödlich verlaufende Krankheiten                |
 
 Abschnitt 3
 
@@ -91,24 +90,24 @@ Kapitel 3
 
 Aufwendungen in Pflegefällen
 
-|      |                                               |
-|------|-----------------------------------------------|
-| § 37 | Grundsatz                                     |
-| § 38 | Häusliche Pflege, Tagespflege und Nachtpflege |
-| § 39 | Vollstationäre Pflege                         |
-| § 40 | Palliativversorgung                           |
+|      |                                                            |
+|------|------------------------------------------------------------|
+| § 37 | Pflegeberatung, Anspruch auf Beihilfe für Pflegeleistungen |
+| § 38 | Häusliche Pflege, Tagespflege und Nachtpflege              |
+| § 39 | Vollstationäre Pflege                                      |
+| § 40 | Palliativversorgung                                        |
 
 Kapitel 4
 
 Aufwendungen in anderen Fällen
 
-|      |                                                                                       |
-|------|---------------------------------------------------------------------------------------|
-| § 41 | Früherkennungsuntersuchungen und Vorsorgemaßnahmen                                    |
-| § 42 | Schwangerschaft und Geburt                                                            |
-| § 43 | Künstliche Befruchtung, Sterilisation, Empfängnisregelung und Schwangerschaftsabbruch |
-| § 44 | Tod der oder des Beihilfeberechtigten                                                 |
-| § 45 | Erste Hilfe, Entseuchung, Kommunikationshilfe und Organspende                         |
+|      |                                                                                         |
+|------|-----------------------------------------------------------------------------------------|
+| § 41 | Früherkennungsuntersuchungen und Vorsorgemaßnahmen                                      |
+| § 42 | Schwangerschaft und Geburt                                                              |
+| § 43 | Künstliche Befruchtung, Sterilisation, Empfängnisregelung und Schwangerschaftsabbruch   |
+| § 44 | Überführungskosten                                                                      |
+| § 45 | Erste Hilfe, Entseuchung, Kommunikationshilfe, Organspende und klinisches Krebsregister |
 
 Kapitel 5
 
@@ -208,7 +207,7 @@ Buchstabe c)<br />
 (zu § 22 Absatz 3)<br />
 <br />
 </td>
-<td>Arzneimittelgruppen, für die Festbeträge gelten</td>
+<td>Übersicht der Arzneimittelfestbetragsgruppen, für die ein Festbetrag gilt</td>
 </tr>
 <tr class="even">
 <td>Anlage 8<br />
@@ -248,10 +247,17 @@ und § 24 Absatz 1)<br />
 </tr>
 <tr class="odd">
 <td>Anlage 13<br />
-(zu § 41 Absatz 1)<br />
+(zu § 41 Absatz 1 Satz 3)<br />
 <br />
 </td>
-<td>Ergänzende Früherkennungsuntersuchungen, Vorsorgemaßnahmen und Schutzimpfungen</td>
+<td>Nach § 41 Absatz 1 Satz 3 beihilfefähige Früherkennungsuntersuchungen, Vorsorgemaßnahmen und Schutzimpfungen</td>
+</tr>
+<tr class="even">
+<td>Anlage 14<br />
+(zu § 41 Absatz 3)<br />
+<br />
+</td>
+<td>Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko</td>
 </tr>
 </tbody>
 </table>
@@ -265,7 +271,7 @@ Kapitel 1 Allgemeine Vorschriften
 
 Diese Verordnung regelt die Gewährung von Beihilfe in den gesetzlich vorgesehenen Fällen. Die Beihilfe ergänzt die gesundheitliche Eigenvorsorge, die in der Regel aus den laufenden Bezügen zu bestreiten ist.
 
-### § 2 Beihilfeberechtigte
+### § 2 Beihilfeberechtigte Personen
 
 (1) Soweit nicht die Absätze 2 bis 5 etwas anderes bestimmen, ist beihilfeberechtigt, wer im Zeitpunkt der Leistungserbringung
 
@@ -280,7 +286,7 @@ frühere Beamtin oder früherer Beamter
 
 ist.
 
-(2) Die Beihilfeberechtigung setzt ferner voraus, dass der oder dem Beihilfeberechtigten Dienstbezüge, Amtsbezüge, Anwärterbezüge, Ruhegehalt, Übergangsgebührnisse, Witwengeld, Witwergeld, Waisengeld, Unterhaltsbeiträge nach Abschnitt II oder Abschnitt V, nach § 22 Absatz 1 oder nach § 26 Absatz 1 des Beamtenversorgungsgesetzes oder Übergangsgeld nach Abschnitt VI des Beamtenversorgungsgesetzes zustehen. Die Beihilfeberechtigung besteht auch, wenn Bezüge wegen Elternzeit oder der Anwendung von Ruhens-, Anrechnungs- oder Kürzungsvorschriften nicht gezahlt werden. Der Anspruch auf Beihilfe bleibt bei Urlaub unter Wegfall der Besoldung nach der Sonderurlaubsverordnung unberührt, wenn dieser nicht länger als einen Monat dauert.
+(2) Die Beihilfeberechtigung setzt ferner voraus, dass der beihilfeberechtigten Person Dienstbezüge, Amtsbezüge, Anwärterbezüge, Ruhegehalt, Übergangsgebührnisse, Witwengeld, Witwergeld, Waisengeld, Unterhaltsbeiträge nach Abschnitt II oder Abschnitt V, nach § 22 Absatz 1 oder nach § 26 Absatz 1 des Beamtenversorgungsgesetzes oder Übergangsgeld nach Abschnitt VI des Beamtenversorgungsgesetzes zustehen. Die Beihilfeberechtigung besteht auch, wenn Bezüge wegen Elternzeit oder der Anwendung von Ruhens-, Anrechnungs- oder Kürzungsvorschriften nicht gezahlt werden. Der Anspruch auf Beihilfe bleibt bei Urlaub unter Wegfall der Besoldung nach der Sonderurlaubsverordnung unberührt, wenn dieser nicht länger als einen Monat dauert.
 
 (3) Nicht beihilfeberechtigt sind
 
@@ -301,17 +307,17 @@ Beamtinnen und Beamte sowie Versorgungsempfängerinnen und Versorgungsempfänger
 
 Beihilfeberechtigt nach § 2 Abs. 1 Nr. 1 sind auch diejenigen Beamtinnen und Beamten, die ihren dienstlichen Wohnsitz im Ausland haben oder in das Ausland abgeordnet sind.
 
-### § 4 Berücksichtigungsfähige Angehörige
+### § 4 Berücksichtigungsfähige Personen
 
-(1) Ehegattinnen, Ehegatten, Lebenspartnerinnen und Lebenspartner von Beihilfeberechtigten sind berücksichtigungsfähig, wenn der Gesamtbetrag ihrer Einkünfte (§ 2 Abs. 3 des Einkommensteuergesetzes) oder vergleichbarer ausländischer Einkünfte im zweiten Kalenderjahr vor Beantragung der Beihilfe 17 000 Euro nicht übersteigt. Wird dieser Gesamtbetrag der Einkünfte im laufenden Kalenderjahr nicht erreicht, sind Ehegattinnen, Ehegatten, Lebenspartnerinnen und Lebenspartner unter dem Vorbehalt des Widerrufs bereits im laufenden Jahr berücksichtigungsfähig. Die von den Ehegattinnen, Ehegatten, Lebenspartnerinnen und Lebenspartner der Beihilfeberechtigten nach § 3 im Ausland erzielten Einkünfte bleiben unberücksichtigt. Der Gesamtbetrag der Einkünfte ist durch Vorlage einer Ablichtung des Steuerbescheides nachzuweisen.
+(1) Ehegattinnen, Ehegatten, Lebenspartnerinnen und Lebenspartner von beihilfeberechtigten Personen sind berücksichtigungsfähig, wenn der Gesamtbetrag ihrer Einkünfte (§ 2 Absatz 3 in Verbindung mit Absatz 5a des Einkommensteuergesetzes) oder vergleichbarer ausländischer Einkünfte im zweiten Kalenderjahr vor Beantragung der Beihilfe 17 000 Euro nicht übersteigt. Wird dieser Gesamtbetrag der Einkünfte im laufenden Kalenderjahr nicht erreicht, sind Ehegattinnen, Ehegatten, Lebenspartnerinnen und Lebenspartner unter dem Vorbehalt des Widerrufs bereits im laufenden Jahr berücksichtigungsfähig. Die von den Ehegattinnen, Ehegatten, Lebenspartnerinnen und Lebenspartner der beihilfeberechtigten Personen nach § 3 im Ausland erzielten Einkünfte bleiben unberücksichtigt. Der Gesamtbetrag der Einkünfte ist durch Vorlage einer Ablichtung des Steuerbescheides nachzuweisen. Weist der Steuerbescheid den Gesamtbetrag der Einkünfte nicht vollständig aus, können andere Nachweise gefordert werden.
 
-(2) Kinder sind berücksichtigungsfähig, wenn sie im Familienzuschlag der oder des Beihilfeberechtigten nach dem Bundesbesoldungsgesetz berücksichtigungsfähig sind. Dies gilt für Beihilfeberechtigte nach § 3, wenn
+(2) Kinder sind berücksichtigungsfähig, wenn sie beim Familienzuschlag der beihilfeberechtigten Person nach dem Bundesbesoldungsgesetz berücksichtigungsfähig sind. Dies gilt für beihilfeberechtigte Personen nach § 3, wenn
 
 1.  
-Anspruch auf einen Auslandskinderzuschlag nach § 56 des Bundesbesoldungsgesetzes besteht oder 
+Anspruch auf einen Auslandszuschlag nach § 53 Absatz 4 Nummer 2 und 2a des Bundesbesoldungsgesetzes besteht oder 
 
 2.  
-ein Auslandskinderzuschlag nach § 56 des Bundesbesoldungsgesetzes nur deshalb nicht gezahlt wird, weil im Inland ein Haushalt eines Elternteils besteht, der für das Kind sorgeberechtigt ist oder war.
+ein Auslandszuschlag nach § 53 Absatz 4 Nummer 2 und 2a des Bundesbesoldungsgesetzes nur deshalb nicht gezahlt wird, weil im Inland ein Haushalt eines Elternteils besteht, der für das Kind sorgeberechtigt ist oder war.
 
 (3) Angehörige beihilfeberechtigter Waisen sind nicht berücksichtigungsfähig.
 
@@ -323,11 +329,11 @@ ein Auslandskinderzuschlag nach § 56 des Bundesbesoldungsgesetzes nur deshalb n
 eine Beihilfeberechtigung aufgrund eines Versorgungsanspruchs sowie
 
 2.  
-die Berücksichtigungsfähigkeit als Angehörige oder Angehöriger
+die Berücksichtigungsfähigkeit nach § 4
 
 aus.
 
-(2) Die Beihilfeberechtigung auf Grund eines Versorgungsbezugs schließt die Beihilfeberechtigung auf Grund früherer Versorgungsansprüche sowie als berücksichtigungsfähige Angehörige oder berücksichtigungsfähiger Angehöriger aus. Satz 1 gilt nicht, wenn der frühere Versorgungsanspruch aus einem eigenen Dienstverhältnis folgt.
+(2) Die Beihilfeberechtigung auf Grund eines Versorgungsbezugs schließt die Beihilfeberechtigung auf Grund früherer Versorgungsansprüche sowie als berücksichtigungsfähige Person aus. Satz 1 gilt nicht, wenn der frühere Versorgungsanspruch aus einem eigenen Dienstverhältnis folgt.
 
 (3) Die Beihilfeberechtigung aufgrund privatrechtlicher Rechtsbeziehungen nach Regelungen, die dieser Verordnung im Wesentlichen vergleichbar sind, geht
 
@@ -335,11 +341,11 @@ aus.
 der Beihilfeberechtigung aufgrund eines Versorgungsanspruchs und
 
 2.  
-der Berücksichtigungsfähigkeit als Angehörige oder Angehöriger
+der Berücksichtigungsfähigkeit nach § 4
 
 vor. Keine im Wesentlichen vergleichbare Regelung stellt der bei teilzeitbeschäftigten Arbeitnehmerinnen und Arbeitnehmern zu quotelnde Beihilfeanspruch dar.  
 
-(4) Ein Kind, das bei mehreren Beihilfeberechtigten berücksichtigungsfähig ist, wird bei der oder dem Beihilfeberechtigten berücksichtigt, die oder der den Familienzuschlag für das Kind erhält. Beihilfeberechtigte im Sinne von Satz 1 sind Personen, die einen Anspruch auf Beihilfe haben, der in seinem Umfang dem Anspruch nach dieser Verordnung im Wesentlichen vergleichbar ist, unabhängig von der jeweiligen Anspruchsgrundlage. Die Sätze 1 und 2 gelten nicht für Personen, die Anspruch auf truppenärztliche Versorgung haben oder heilfürsorgeberechtigt sind. Als Familienzuschlag für das Kind gilt eine Leistung nach § 40 des Bundesbesoldungsgesetzes oder der Auslandskinderzuschlag nach § 56 des Bundesbesoldungsgesetzes oder vergleichbare Leistungen auf anderer Rechtsgrundlage.
+(4) Ein Kind wird bei der beihilfeberechtigten Person berücksichtigt, die den Familienzuschlag für das Kind erhält. Beihilfeberechtigt im Sinne von Satz 1 sind auch Personen, die einen Anspruch auf Beihilfe haben, der in seinem Umfang dem Anspruch nach dieser Verordnung im Wesentlichen vergleichbar ist, unabhängig von der jeweiligen Anspruchsgrundlage. Familienzuschlag für das Kind im Sinne von Satz 1 sind die Leistungen nach den §§ 39, 40 und 53 des Bundesbesoldungsgesetzes oder vergleichbare Leistungen, die im Hinblick auf das Kind gewährt werden. Die Sätze 1 und 2 gelten nicht für Personen, die Anspruch auf Heilfürsorge oder auf truppenärztliche Versorgung haben.
 
 ### § 6 Beihilfefähigkeit von Aufwendungen
 
@@ -347,15 +353,13 @@ vor. Keine im Wesentlichen vergleichbare Regelung stellt der bei teilzeitbeschä
 
 (2) Die Notwendigkeit von Aufwendungen für Untersuchungen und Behandlungen setzt grundsätzlich voraus, dass diese nach einer wissenschaftlich anerkannten Methode vorgenommen werden. Als nicht notwendig gelten in der Regel Untersuchungen und Behandlungen, soweit sie in der Anlage 1 ausgeschlossen werden.
 
-(3) Wirtschaftlich angemessen sind grundsätzlich Aufwendungen für ärztliche, zahnärztliche und psychotherapeutische Leistungen, wenn sie dem Gebührenrahmen der Gebührenordnungen für Ärzte, Zahnärzte sowie für Psychologische Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten entsprechen. Als nicht wirtschaftlich angemessen gelten Aufwendungen aufgrund einer Vereinbarung nach § 2 Abs. 2 der Gebührenordnung für Ärzte, nach § 2 Abs. 3 der Gebührenordnung für Zahnärzte oder nach den Sätzen 2 bis 4 der allgemeinen Bestimmungen des Abschnitts G der Anlage zur Gebührenordnung für Zahnärzte. Wirtschaftlich angemessen sind auch Leistungen, die auf Grund von Vereinbarungen gesetzlicher Krankenkassen nach dem Fünften Buch Sozialgesetzbuch oder auf Grund von Verträgen von Unternehmen der privaten Krankenversicherung mit Leistungserbringerinnen oder Leistungserbringern erbracht worden sind, wenn dadurch Kosten eingespart werden. Die Aufwendungen für Leistungen von Heilpraktikerinnen und Heilpraktikern sind angemessen, wenn sie die zwischen dem Bundesministerium des Innern und den Heilpraktikerverbänden vereinbarten Höchstbeträge nach Anlage 2 nicht übersteigen.
+(3) Wirtschaftlich angemessen sind grundsätzlich Aufwendungen für ärztliche, zahnärztliche und psychotherapeutische Leistungen, wenn sie dem Gebührenrahmen der Gebührenordnungen für Ärzte, Zahnärzte sowie für Psychologische Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten entsprechen. Als nicht wirtschaftlich angemessen gelten Aufwendungen aufgrund einer Vereinbarung nach § 2 Abs. 2 der Gebührenordnung für Ärzte, nach § 2 Abs. 3 der Gebührenordnung für Zahnärzte oder nach den Sätzen 2 bis 4 der allgemeinen Bestimmungen des Abschnitts G der Anlage zur Gebührenordnung für Zahnärzte. Wirtschaftlich angemessen sind auch Leistungen, die auf Grund von Vereinbarungen gesetzlicher Krankenkassen nach dem Fünften Buch Sozialgesetzbuch oder auf Grund von Verträgen von Unternehmen der privaten Krankenversicherung mit Leistungserbringerinnen oder Leistungserbringern erbracht worden sind, wenn dadurch Kosten eingespart werden. Aufwendungen für Leistungen von Heilpraktikerinnen oder Heilpraktikern sind wirtschaftlich angemessen, wenn sie die Höchstbeträge nach Anlage 2 nicht übersteigen.
 
-(4) Für Beihilfeberechtigte nach § 3 und ihre berücksichtigungsfähigen Angehörigen gelten unter Berücksichtigung der besonderen Verhältnisse im Ausland die ortsüblichen Gebühren als wirtschaftlich angemessen. Gelten Höchstbeträge nach Anlage 11, kann in entsprechender Anwendung des § 7 des Bundesbesoldungsgesetzes der für den Dienstort jeweils geltende Kaufkraftausgleich hinzutreten.
+(4) Für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, gelten unter Berücksichtigung der besonderen Verhältnisse im Ausland die ortsüblichen Gebühren als wirtschaftlich angemessen. Gelten Höchstbeträge nach Anlage 11, kann in entsprechender Anwendung des § 55 des Bundesbesoldungsgesetzes der für den Dienstort jeweils geltende Kaufkraftausgleich hinzutreten.
 
-(5) Sind Beihilfeberechtigte und berücksichtigungsfähige Angehörige in einem beihilfeergänzenden Standardtarif nach § 257 Abs. 2a oder nach § 257 Abs. 2a in Verbindung mit § 315 des Fünften Buches Sozialgesetzbuch oder einem Basistarif nach § 12 Abs. 1a des Versicherungsaufsichtsgesetzes versichert, beurteilt sich die wirtschaftliche Angemessenheit ihrer Aufwendungen nach den in den Verträgen nach § 75 Abs. 3b Satz 1 des Fünften Buches Sozialgesetzbuch vereinbarten Gebührenregelungen. Solange keine vertraglichen Gebührenregelungen vorliegen, gelten die Maßgaben des § 75 Abs. 3a Satz 2 und 3 des Fünften Buches Sozialgesetzbuch.
+(5) In Einzelfällen kann das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium der Finanzen die einmalige Beteiligung des Bundes als Beihilfeträger an allgemeinen, nicht individualisierbaren Maßnahmen erklären. Hierfür zu leistende Zahlungen und Erstattungen kann das Bundesministerium des Innern auf die Einrichtungen oder Stellen des Bundes, die Beihilfe nach dieser Verordnung gewähren, aufteilen. Auf Anforderung des Bundesministeriums des Innern leisten die Einrichtungen oder Stellen entsprechende Abschläge und Zahlungen. Die Anteile bemessen sich nach dem Verhältnis der tatsächlichen Beihilfeausgaben im Jahr 2009; jährliche Ausgaben unter 1 000 Euro bleiben außer Betracht. Auf Verlangen von mindestens fünf obersten Bundesbehörden oder Behörden der mittelbaren Bundesverwaltung setzt das Bundesministerium des Innern die Anteile entsprechend dem Verhältnis der tatsächlichen Beihilfeausgaben im Vorjahr für zukünftige Maßnahmen neu fest.
 
-(6) In Einzelfällen kann das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium der Finanzen die einmalige oder laufende Beteiligung des Bundes als Beihilfeträger an allgemeinen, nicht individualisierbaren Maßnahmen erklären. Hierfür zu leistende Zahlungen und Erstattungen kann das Bundesministerium des Innern auf die Einrichtungen oder Stellen des Bundes, die Beihilfe nach dieser Verordnung gewähren, aufteilen. Auf Anforderung des Bundesministeriums des Innern leisten die Einrichtungen oder Stellen entsprechende Abschläge und Zahlungen. Die Anteile bemessen sich nach dem Verhältnis der tatsächlichen Beihilfeausgaben im Jahr 2009; jährliche Ausgaben unter 1 000 Euro bleiben außer Betracht. Auf Verlangen von mindestens fünf obersten Bundesbehörden oder Behörden der mittelbaren Bundesverwaltung setzt das Bundesministerium des Innern die Anteile entsprechend dem Verhältnis der tatsächlichen Beihilfeausgaben im Vorjahr für zukünftige Maßnahmen neu fest.
-
-(7) Sofern im Einzelfall die Ablehnung der Beihilfe eine besondere Härte darstellen würde, kann die oberste Dienstbehörde mit Zustimmung des Bundesministeriums des Innern eine Beihilfe zur Milderung der Härte gewähren. Die Entscheidung ist besonders zu begründen und zu dokumentieren.
+(6) Sofern im Einzelfall die Ablehnung der Beihilfe eine besondere Härte darstellen würde, kann die oberste Dienstbehörde mit Zustimmung des Bundesministeriums des Innern eine Beihilfe zur Milderung der Härte gewähren. Die Entscheidung ist besonders zu begründen und zu dokumentieren.
 
 ### § 7 Verweisungen auf das Sozialgesetzbuch
 
@@ -366,13 +370,13 @@ Soweit sich Inhalt und Ausgestaltung von Leistungen, zu denen Beihilfe gewährt 
 (1) Nicht beihilfefähig sind Aufwendungen
 
 1.  
-der Beihilfeberechtigten und ihrer berücksichtigungsfähigen Angehörigen, denen ein Anspruch auf Heilfürsorge nach § 70 Absatz 2 des Bundesbesoldungsgesetzes oder entsprechenden landesrechtlichen Vorschriften zusteht,
+soweit Personen, die beihilfeberechtigt oder bei beihilfeberechtigten Personen berücksichtigungsfähig sind, einen Anspruch auf Heilfürsorge nach § 70 Absatz 2 des Bundesbesoldungsgesetzes oder entsprechenden landesrechtlichen Vorschriften haben,
 
 2.  
-für Gutachten, die nicht von der Festsetzungsstelle, sondern auf Verlangen von der oder dem Beihilfeberechtigten oder von der oder dem berücksichtigungsfähigen Angehörigen veranlasst worden sind,
+für Gutachten, die nicht von der Festsetzungsstelle, sondern auf Verlangen der beihilfeberechtigten oder der berücksichtigungsfähigen Person veranlasst worden sind,
 
 3.  
-für ärztliche und zahnärztliche Bescheinigungen für berücksichtigungsfähige Angehörige mit Ausnahme medizinisch notwendiger Bescheinigungen,
+für ärztliche und zahnärztliche Bescheinigungen für berücksichtigungsfähige Personen mit Ausnahme medizinisch notwendiger Bescheinigungen,
 
 4.  
 für den Besuch vorschulischer oder schulischer Einrichtungen oder von Werkstätten für Behinderte,
@@ -381,16 +385,16 @@ für den Besuch vorschulischer oder schulischer Einrichtungen oder von Werkstät
 für berufsfördernde, berufsvorbereitende, berufsbildende und heilpädagogische Maßnahmen,
 
 6.  
-für Behandlungen als Folge medizinisch nicht indizierter Maßnahmen, insbesondere ästhetischer Operationen, Tätowierungen oder Piercings, und
+für Untersuchungen und Behandlungen als Folge medizinisch nicht indizierter Maßnahmen, insbesondere ästhetischer Operationen, Tätowierungen oder Piercings, und
 
 7.  
-für Behandlungen durch die Ehegattin, den Ehegatten, die Lebenspartnerin, den Lebenspartner, die Eltern oder die Kinder der oder des Behandelten; in diesen Fällen sind nur die tatsächlich entstandenen Sachkosten beihilfefähig.
+für Untersuchungen und Behandlungen durch die Ehegattin, den Ehegatten, die Lebenspartnerin, den Lebenspartner, die Eltern oder die Kinder der oder des Behandelten; in diesen Fällen sind nur die tatsächlich entstandenen Sachkosten beihilfefähig.
 
-(2) Ferner sind Aufwendungen nicht beihilfefähig, soweit auf sie gegen Dritte ein Ersatzanspruch besteht, der nicht auf den Dienstherrn oder von ihm Beauftragte übergeht.
+(2) Ferner sind Aufwendungen nicht beihilfefähig, soweit ein Ersatzanspruch gegen einen Dritten besteht, der nicht auf den Dienstherrn oder von ihm Beauftragte übergeht.
 
-(3) Nicht beihilfefähig sind gesetzlich vorgesehene Zuzahlungen und Kostenanteile, Selbstbehalte nach § 53 des Fünften Buches Sozialgesetzbuch sowie Aufwendungen für von der Krankenversorgung ausgeschlossene Arznei-, Hilfs- und Heilmittel sowie Abschläge für Verwaltungskosten und fehlende Wirtschaftlichkeitsprüfungen bei der Kostenerstattung nach § 13 Abs. 2 des Fünften Buches Sozialgesetzbuch. Werden diese Abschläge für Verwaltungskosten und fehlende Wirtschaftlichkeitsprüfungen nicht nachgewiesen, gelten 15 Prozent der gewährten Leistung als Abschlagsbetrag.
+(3) Nicht beihilfefähig sind gesetzlich vorgesehene Zuzahlungen und Kostenanteile, Selbstbehalte nach § 53 des Fünften Buches Sozialgesetzbuch sowie Aufwendungen für von der Krankenversorgung ausgeschlossene Arznei-, Hilfs- und Heilmittel sowie Abschläge für Verwaltungskosten und entgangene Apotheker- und Herstellerrabatte bei der Kostenerstattung nach § 13 Abs. 2 des Fünften Buches Sozialgesetzbuch.
 
-(4) Nicht beihilfefähig sind erbrachte Sach- und Dienstleistungen nach § 2 Abs. 2 des Fünften Buches Sozialgesetzbuch. Als Sach- und Dienstleistung nach § 2 Abs. 2 des Fünften Buches Sozialgesetzbuch gilt auch die Kostenerstattung bei kieferorthopädischer Behandlung und bei Pflichtversicherten nach § 5 des Fünften Buches Sozialgesetzbuch einschließlich der familienversicherten Angehörigen nach § 10 des Fünften Buches Sozialgesetzbuch auch die Kostenerstattung nach § 13 des Fünften Buches Sozialgesetzbuch. Bei Personen, denen ein Zuschuss oder Arbeitgeberanteil zum Krankenversicherungsbeitrag gewährt wird oder die einen Anspruch auf beitragsfreie Krankenfürsorge haben, gelten als Sach- und Dienstleistungen auch
+(4) Nicht beihilfefähig sind erbrachte Sach- und Dienstleistungen nach § 2 Abs. 2 des Fünften Buches Sozialgesetzbuch. Als Sach- und Dienstleistung nach § 2 Abs. 2 des Fünften Buches Sozialgesetzbuch gilt auch die Kostenerstattung bei kieferorthopädischer Behandlung und bei Pflichtversicherten nach § 5 des Fünften Buches Sozialgesetzbuch einschließlich der familienversicherten Personen nach § 10 des Fünften Buches Sozialgesetzbuch auch die Kostenerstattung nach § 13 des Fünften Buches Sozialgesetzbuch. Bei Personen, denen ein Zuschuss oder Arbeitgeberanteil zum Krankenversicherungsbeitrag gewährt wird oder die einen Anspruch auf beitragsfreie Krankenfürsorge haben, gelten als Sach- und Dienstleistungen auch
 
 1.  
 die über die Festbeträge hinausgehenden Beträge für Arznei-, Verband- und Hilfsmittel nach dem Fünften Buch Sozialgesetzbuch und
@@ -398,22 +402,30 @@ die über die Festbeträge hinausgehenden Beträge für Arznei-, Verband- und Hi
 2.  
 Aufwendungen, die darauf beruhen, dass Versicherte die ihnen zustehende Sach- und Dienstleistung nicht in Anspruch genommen haben; dies gilt auch, wenn Leistungserbringerinnen und Leistungserbringer in anderen Mitgliedstaaten der Europäischen Union in Anspruch genommen werden; ausgenommen sind Aufwendungen für Wahlleistungen im Krankenhaus.
 
-Satz 3 gilt nicht
+Satz 3 gilt nicht für
 
 1.  
-für Personen, die Leistungen nach § 10 Absatz 2, 4 und 6 des Bundesversorgungsgesetzes oder hierauf Bezug nehmenden Vorschriften erhalten,
+Personen, die Leistungen nach § 10 Absatz 2, 4 oder 6 des Bundesversorgungsgesetzes oder hierauf Bezug nehmenden Vorschriften erhalten,
 
 2.  
-freiwillig gesetzlich Versicherte mit einem monatlichen Beitragszuschuss zur Krankenversicherung von weniger als 21 Euro sowie
+freiwillige Mitglieder der gesetzlichen Krankenversicherung sowie
 
 3.  
-für berücksichtigungsfähige Kinder, die von der Pflichtversicherung in der gesetzlichen Kranken- oder Rentenversicherung einer anderen Person erfasst werden.
+berücksichtigungsfähige Kinder, die von der Pflichtversicherung in der gesetzlichen Kranken- oder Rentenversicherung einer anderen Person erfasst werden.
 
 (5) Die Absätze 3 und 4 gelten nicht für Leistungen nach dem Zwölften Buch Sozialgesetzbuch, wenn Ansprüche auf den Sozialhilfeträger übergeleitet worden sind.
 
 ### § 9 Anrechnung von Erstattungen und Sachleistungen
 
-(1) Soweit Aufwendungen aufgrund von Rechtsvorschriften oder arbeitsvertraglichen Vereinbarungen von dritter Seite getragen oder erstattet werden, sind sie vor Berechnung der Beihilfe von den beihilfefähigen Aufwendungen abzuziehen. Dies gilt nicht für Erstattungen und Sachleistungen an Beihilfeberechtigte, die dem gemeinsamen Krankenfürsorgesystem der Europäischen Gemeinschaft angehören. Unterhaltsansprüche von Beihilfeberechtigten gelten nicht als Ansprüche auf Kostenerstattung.
+(1) Soweit Aufwendungen aufgrund von Rechtsvorschriften oder arbeitsvertraglichen Vereinbarungen von dritter Seite getragen oder erstattet werden, sind sie vor Berechnung der Beihilfe von den beihilfefähigen Aufwendungen abzuziehen. Dies gilt nicht für Erstattungen und Sachleistungen
+
+1.  
+an beihilfeberechtigte Personen, die dem gemeinsamen Krankenfürsorgesystem der Europäischen Gemeinschaft angehören, oder
+
+2.  
+der gesetzlichen Krankenversicherung aus einem freiwilligen Versicherungsverhältnis.
+
+Unterhaltsansprüche von beihilfeberechtigten Personen gelten nicht als Ansprüche auf Kostenerstattung.
 
 (2) Von Aufwendungen für Zahnersatz, Zahnkronen und Suprakonstruktionen ist der höchstmögliche Festzuschuss der gesetzlichen Krankenversicherung abzuziehen.
 
@@ -428,13 +440,13 @@ berücksichtigungsfähige Kinder, die von der Pflichtversicherung in der gesetzl
 3.  
 Erstattungen und Sachleistungen der gesetzlichen Krankenversicherung aus einem freiwilligen Versicherungsverhältnis.
 
-(4) Bei Beihilfeberechtigten nach § 3 und ihren berücksichtigungsfähigen Angehörigen kann von der Anrechnung eines Leistungsanteils nach Absatz 3 Satz 1 bis 3 abgesehen werden, wenn die zustehenden Leistungen wegen Gefahr für Leib und Leben nicht in Anspruch genommen werden konnten oder wegen der besonderen Verhältnisse im Ausland tatsächlich nicht zu erlangen waren.
+(4) Bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, kann von der Anrechnung eines Leistungsanteils nach Absatz 3 Satz 1 bis 3 abgesehen werden, wenn die zustehenden Leistungen wegen Gefahr für Leib und Leben nicht in Anspruch genommen werden konnten oder wegen der besonderen Verhältnisse im Ausland tatsächlich nicht zu erlangen waren.
 
 ### § 10 Beihilfeanspruch
 
 (1) Auf Beihilfe besteht ein Rechtsanspruch. Der Anspruch kann nicht abgetreten und grundsätzlich nicht verpfändet oder gepfändet werden. Die Pfändung wegen einer Forderung auf Grund einer beihilfefähigen Leistung der Forderungsgläubigerin oder des Forderungsgläubigers ist insoweit zulässig, als die Beihilfe noch nicht ausgezahlt ist.
 
-(2) Nach dem Tod der oder des Beihilfeberechtigten kann die Beihilfe mit befreiender Wirkung auf folgende Konten gezahlt werden:
+(2) Nach dem Tod der beihilfeberechtigten Person kann die Beihilfe mit befreiender Wirkung auf folgende Konten gezahlt werden:
 
 1.  
 das Bezügekonto der oder des Verstorbenen,
@@ -458,17 +470,17 @@ sie bei einer Dienstreise entstanden sind und die Behandlung nicht bis zur Rück
 sie für ärztliche und zahnärztliche Leistungen 1 000 Euro je Krankheitsfall nicht übersteigen,
 
 3.  
-in der Nähe der deutschen Grenze wohnende Beihilfeberechtigte oder berücksichtigungsfähige Angehörige bei akutem Behandlungsbedarf das nächstgelegene Krankenhaus aufsuchen mussten,
+in der Nähe der deutschen Grenze wohnende beihilfeberechtigte oder berücksichtigungsfähige Personen bei akutem Behandlungsbedarf das nächstgelegene Krankenhaus aufsuchen mussten,
 
 4.  
-Beihilfeberechtigte oder berücksichtigungsfähige Angehörige zur Notfallversorgung das nächstgelegene Krankenhaus aufsuchen mussten oder
+beihilfeberechtigte oder berücksichtigungsfähige Personen zur Notfallversorgung das nächstgelegene Krankenhaus aufsuchen mussten oder
 
 5.  
 die Beihilfefähigkeit vor Antritt der Reise anerkannt worden ist.
 
 Eine Anerkennung nach Satz 1 Nummer 5 kommt ausnahmsweise in Betracht, wenn ein von der Festsetzungsstelle beauftragtes ärztliches Gutachten nachweist, dass die Behandlung außerhalb der Europäischen Union zwingend notwendig ist, weil hierdurch eine wesentlich größere Erfolgsaussicht zu erwarten oder eine Behandlung innerhalb der Europäischen Union nicht möglich ist; in begründeten Ausnahmefällen kann die Anerkennung nachträglich erfolgen.
 
-(3) Bei Beihilfeberechtigten nach § 3 und ihren berücksichtigungsfähigen Angehörigen sind Aufwendungen, die während eines nicht dienstlich bedingten Aufenthaltes außerhalb des Gastlandes und außerhalb der Europäischen Union im Ausland entstehen, nur insoweit und bis zu der Höhe beihilfefähig, wie sie im Gastland oder im Inland entstanden und beihilfefähig wären. Dies gilt nicht in den Fällen des § 31 Abs. 5.
+(3) Bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, sind Aufwendungen, die während eines nicht dienstlich bedingten Aufenthaltes außerhalb des Gastlandes und außerhalb der Europäischen Union im Ausland entstehen, nur insoweit und bis zu der Höhe beihilfefähig, wie sie im Gastland oder im Inland entstanden und beihilfefähig wären. Dies gilt nicht in den Fällen des § 31 Abs. 5.
 
 Kapitel 2 Aufwendungen in Krankheitsfällen
 ------------------------------------------
@@ -482,15 +494,15 @@ Abschnitt 1 Ambulante Leistungen
 
 ### § 12 Ärztliche Leistungen
 
-Aufwendungen für ambulante ärztliche Untersuchungen und Behandlungen sind nach Maßgabe des § 6 in Krankheitsfällen grundsätzlich beihilfefähig. Die Vorschriften des Kapitels 4 bleiben unberührt. Aufwendungen für Arbeitsunfähigkeitsbescheinigungen für den Dienstherrn der oder des Beihilfeberechtigten trägt die Festsetzungsstelle.
+Aufwendungen für ambulante ärztliche Untersuchungen und Behandlungen sind nach Maßgabe des § 6 in Krankheitsfällen grundsätzlich beihilfefähig. Die Vorschriften des Kapitels 4 bleiben unberührt. Aufwendungen für Arbeitsunfähigkeitsbescheinigungen für den Dienstherrn der beihilfeberechtigten Person trägt die Festsetzungsstelle.
 
 ### § 13 Leistungen von Heilpraktikerinnen und Heilpraktikern
 
-Aufwendungen für Leistungen von Heilpraktikerinnen und Heilpraktikern sind nach Maßgabe des § 6 Absatz 3 Satz 4 beihilfefähig.
+Aufwendungen für Leistungen von Heilpraktikerinnen und Heilpraktikern sind nach Maßgabe des § 6 Absatz 3 Satz 4 und nach § 22 Absatz 6 beihilfefähig.
 
 ### § 14 Zahnärztliche Leistungen
 
-Aufwendungen für ambulante zahnärztliche und kieferorthopädische Untersuchungen und Behandlungen sind nach Maßgabe des § 6 grundsätzlich beihilfefähig. Für Zahnersatz und implantologische Leistungen kann der Festsetzungsstelle vor Aufnahme der Behandlung ein Heil- und Kostenplan vorgelegt werden. Die Kosten des Heil- und Kostenplanes gehören zu den beihilfefähigen Aufwendungen. Aufwendungen für Arbeitsunfähigkeitsbescheinigungen für den Dienstherrn der oder des Beihilfeberechtigten trägt die Festsetzungsstelle.
+Aufwendungen für ambulante zahnärztliche und kieferorthopädische Untersuchungen und Behandlungen sind nach Maßgabe des § 6 grundsätzlich beihilfefähig. Für Zahnersatz und implantologische Leistungen kann der Festsetzungsstelle vor Aufnahme der Behandlung ein Heil- und Kostenplan vorgelegt werden. Die Kosten des Heil- und Kostenplanes gehören zu den beihilfefähigen Aufwendungen. Aufwendungen für Arbeitsunfähigkeitsbescheinigungen für den Dienstherrn der beihilfeberechtigten Person trägt die Festsetzungsstelle.
 
 ### § 15 Implantologische, kieferorthopädische, funktionsanalytische und funktionstherapeutische Leistungen
 
@@ -539,9 +551,55 @@ bei Behandlungsbeginn das 18. Lebensjahr noch nicht vollendet ist oder
 2.  
 bei schweren Kieferanomalien eine kombinierte kieferchirurgische und kieferorthopädische Behandlung erfolgt
 
-und die Festsetzungsstelle den Aufwendungen vor Beginn der Behandlung auf der Grundlage eines vorgelegten Heil- und Kostenplanes zugestimmt hat. Aufwendungen für Leistungen zur Retention sind bis zu zwei Jahre nach Abschluss der auf Grundlage des Heil- und Kostenplanes von der Festsetzungsstelle genehmigten kieferorthopädischen Behandlung beihilfefähig. Die Aufwendungen für den Heil- und Kostenplan nach Satz 1 sind beihilfefähig. Bei einem von der oder dem Beihilfeberechtigten oder der oder dem berücksichtigungsfähigen Angehörigen zu vertretenden Abbruch einer kieferorthopädischen Behandlung oder bei einem Wechsel der Kieferorthopädin oder des Kieferorthopäden bleiben nur die Aufwendungen beihilfefähig, die nach dem Heil- und Kostenplan, dem die Festsetzungsstelle zugestimmt hatte, noch nicht abgerechnet sind.
+und die Festsetzungsstelle den Aufwendungen vor Beginn der Behandlung auf der Grundlage eines vorgelegten Heil- und Kostenplanes zugestimmt hat. Aufwendungen für Leistungen zur Retention sind bis zu zwei Jahre nach Abschluss der auf Grundlage des Heil- und Kostenplanes von der Festsetzungsstelle genehmigten kieferorthopädischen Behandlung beihilfefähig. Die Aufwendungen für den Heil- und Kostenplan nach Satz 1 sind beihilfefähig. Bei einem von der beihilfeberechtigten oder der berücksichtigungsfähigen Person zu vertretenden Abbruch einer kieferorthopädischen Behandlung oder bei einem Wechsel der Kieferorthopädin oder des Kieferorthopäden bleiben nur die Aufwendungen beihilfefähig, die nach dem Heil- und Kostenplan, dem die Festsetzungsstelle zugestimmt hatte, noch nicht abgerechnet sind.
 
-(3) Aufwendungen für funktionsanalytische und funktionstherapeutische Leistungen sind nur beihilfefähig bei Vorliegen einer der folgenden Indikationen:
+(3) Aufwendungen für kieferorthopädische Leistungen vor Beginn der zweiten Phase des Zahnwechsels sind nur beihilfefähig bei
+
+1.  
+Beseitigung von Habits bei einem habituellen Distalbiss bei distal sagittaler Stufe mit einer Frontzahnstufe von mehr als 9 Millimetern,
+
+2.  
+Beseitigung von Habits bei einem habituellen offenen oder seitlichen Biss bei vertikaler Stufe von mehr als 4 Millimetern,
+
+3.  
+Offenhalten von Lücken infolge vorzeitigen Milchzahnverlustes,
+
+4.  
+Frühbehandlung
+
+a)  
+eines Distalbisses bei distal sagittaler Stufe mit einer Frontzahnstufe von mehr als 9 Millimetern,
+
+b)  
+eines lateralen Kreuz- oder Zwangsbisses bei transversaler Abweichung mit einseitigem oder beidseitigem Kreuzbiss, der durch präventive Maßnahmen nicht zu korrigieren ist,
+
+c)  
+einer Bukkalokklusion, Nonokklusion oder Lingualokklusion permanenter Zähne bei transversaler Abweichung,
+
+d)  
+eines progenen Zwangsbisses oder frontalen Kreuzbisses bei mesial sagittaler Stufe,
+
+e)  
+bei Platzmangel zum Schaffen von Zahnlücken von mehr als 3 und höchstens 4 Millimetern oder zum Vergrößern von Zahnlücken um mehr als 3 und höchstens 4 Millimetern,
+
+5.  
+früher Behandlung
+
+a)  
+einer Lippen-Kiefer-Gaumen-Spalte oder anderen kraniofazialen Anomalien,
+
+b)  
+eines skelettal offenen Bisses bei vertikaler Stufe von mehr als 4 Millimetern,
+
+c)  
+einer Progenie bei mesial sagittaler Stufe,
+
+d)  
+verletzungsbedingter Kieferfehlstellungen.
+
+Die Frühbehandlung nach Satz 1 Nummer 4 soll innerhalb von sechs Kalenderquartalen abgeschlossen und nicht vor dem vierten Lebensjahr begonnen werden; eine reguläre kieferorthopädische Behandlung kann sich anschließen, wenn die zweite Phase des Zahnwechsels vorliegt. Aufwendungen für den Einsatz individuell gefertigter Behandlungsgeräte sind neben den Aufwendungen für eine Behandlung nach Satz 1 Nummer 4 und 5 gesondert beihilfefähig.
+
+(4) Aufwendungen für funktionsanalytische und funktionstherapeutische Leistungen sind nur beihilfefähig bei Vorliegen einer der folgenden Indikationen:
 
 1.  
 Kiefergelenk- und Muskelerkrankungen,
@@ -556,19 +614,19 @@ Behandlungen mit Aufbissbehelfen mit adjustierten Oberflächen nach den Nummern 
 umfangreiche kieferorthopädische Maßnahmen einschließlich kieferorthopädisch-kieferchirurgischer Operationen oder
 
 5.  
-umfangreiche Gebiss-Sanierungen. Diese liegen vor, wenn in einem Kiefer mindestens acht Seitenzähne mit Zahnersatz, Kronen oder Inlays versorgt werden müssen, wobei fehlende Zähne sanierungsbedürftigen gleichgestellt werden und die richtige Schlussbissstellung nicht mehr auf andere Weise feststellbar ist. Die oder der Beihilfeberechtigte hat der Festsetzungsstelle eine Kopie der zahnärztlichen Dokumentation nach Nummer 8000 der Anlage zur Gebührenordnung für Zahnärzte vorzulegen.
+umfangreiche Gebiss-Sanierungen.
 
-(4) (weggefallen)
+Eine Gebisssanierung ist umfangreich, wenn in einem Kiefer mindestens acht Seitenzähne mit Zahnersatz oder Inlays versorgt werden müssen, wobei fehlende Zähne sanierungsbedürftigen gleichgestellt werden, und die richtige Schlussbissstellung nicht mehr auf andere Weise herstellbar ist. Die beihilfeberechtigte Person hat der Festsetzungsstelle eine Kopie der zahnärztlichen Dokumentation nach Nummer 8000 der Anlage zur Gebührenordnung für Zahnärzte vorzulegen.
 
 ### § 16 Auslagen, Material- und Laborkosten
 
-(1) Gesondert berechenbare Aufwendungen für Auslagen, Material- und Laborkosten nach § 4 Abs. 3 und § 9 der Gebührenordnung für Zahnärzte, die bei einer zahnärztlichen Behandlung nach den Abschnitten C, F und K und den Nummern 7080 bis 7100 der Anlage zur Gebührenordnung für Zahnärzte entstanden sind, sind zu 40 Prozent beihilfefähig. Dies gilt nicht bei Indikationen nach § 15 Absatz 1 Satz 1 Nummer 1 bis 4.
+(1) Gesondert berechenbare Aufwendungen für Auslagen, Material- und Laborkosten nach § 4 Abs. 3 und § 9 der Gebührenordnung für Zahnärzte, die bei einer zahnärztlichen Behandlung nach den Nummern 2130 bis 2320, 5000 bis 5340, 7080 bis 7100 und 9000 bis 9170 der Anlage zur Gebührenordnung für Zahnärzte entstanden sind, sind zu 40 Prozent beihilfefähig. Dies gilt nicht bei Indikationen nach § 15 Absatz 1 Satz 1 Nummer 1 bis 4.
 
 (2) Wenn der auf die in Absatz 1 genannten Aufwendungen entfallende Anteil nicht nachgewiesen ist, sind 40 Prozent des Gesamtrechnungsbetrages anzusetzen.
 
 ### § 17 Zahnärztliche Leistungen für Beamtinnen und Beamte auf Widerruf
 
-(1) Aufwendungen für zahnärztliche Leistungen für Beamtinnen und Beamte auf Widerruf und ihre berücksichtigungsfähigen Angehörigen sind beihilfefähig, soweit sie nicht in Absatz 2 ausgenommen sind.
+(1) Aufwendungen für zahnärztliche Leistungen für Beamtinnen und Beamte auf Widerruf und Personen, die bei ihnen berücksichtigungsfähig sind, sind beihilfefähig, soweit sie nicht in Absatz 2 ausgenommen sind.
 
 (2) Von der Beihilfefähigkeit nach Absatz 1 ausgenommen sind Aufwendungen für
 
@@ -584,22 +642,34 @@ funktionsanalytische und funktionstherapeutische Leistungen sowie
 4.  
 implantologische Leistungen.
 
-Aufwendungen nach Satz 1 sind ausnahmsweise beihilfefähig, wenn sie auf einem Unfall während des Vorbereitungsdienstes beruhen oder wenn die oder der Beihilfeberechtigte zuvor mindestens drei Jahre ununterbrochen im öffentlichen Dienst beschäftigt gewesen ist.
+Aufwendungen nach Satz 1 sind ausnahmsweise beihilfefähig, wenn sie auf einem Unfall während des Vorbereitungsdienstes beruhen oder wenn die beihilfeberechtigte Person zuvor mindestens drei Jahre ununterbrochen im öffentlichen Dienst beschäftigt gewesen ist.
 
-### § 18 Psychotherapeutische Leistungen
+### § 18 Psychotherapie, psychosomatische Grundversorgung
 
-(1) Psychotherapeutische Leistungen sind Leistungen der psychosomatischen Grundversorgung (§ 19), der tiefenpsychologisch fundierten und analytischen Psychotherapie (§ 20) sowie der Verhaltenstherapie (§ 21).
+(1) Aufwendungen für Leistungen der Psychotherapie in den Behandlungsformen psychoanalytisch begründete Verfahren und Verhaltenstherapie sowie für Leistungen der psychosomatischen Grundversorgung sind nach Maßgabe der Absätze 2 und 3 sowie der §§ 18a bis 21 beihilfefähig.
 
-(2) Aufwendungen für tiefenpsychologisch fundierte und analytische Psychotherapie sowie Verhaltenstherapie sind nur beihilfefähig bei
+(2) Vor Behandlung durch Psychologische Psychotherapeutinnen und Psychotherapeuten oder durch Kinder- und Jugendlichenpsychotherapeutinnen und -therapeuten muss eine somatische Abklärung spätestens nach den probatorischen Sitzungen oder vor der Einleitung des Begutachtungsverfahrens erfolgen. Die Beihilfefähigkeit setzt voraus, dass die somatische Abklärung durch eine Ärztin oder einen Arzt in einem schriftlichen Konsiliarbericht bestätigt wird.
+
+(3) Nicht beihilfefähig sind Aufwendungen für
 
 1.  
-affektiven Störungen (depressiven Episoden, rezidivierenden depressiven Störungen, Dysthymie),
+gleichzeitige Behandlungen nach den §§ 19 bis 21,
+
+2.  
+Leistungen nach Abschnitt 1 der Anlage 3.
+
+### § 18a Gemeinsame Vorschriften für die Behandlungsformen psychoanalytisch begründete Verfahren und Verhaltenstherapie
+
+(1) Aufwendungen für Leistungen der Psychotherapie sind beihilfefähig bei
+
+1.  
+affektiven Störungen: depressive Episoden, rezidivierende depressive Störungen und Dysthymie,
 
 2.  
 Angststörungen und Zwangsstörungen,
 
 3.  
-somatoformen Störungen und dissoziativen Störungen (Konversionsstörungen),
+somatoformen Störungen und dissoziativen Störungen,
 
 4.  
 Anpassungsstörungen und Reaktionen auf schwere Belastungen,
@@ -614,59 +684,46 @@ nichtorganischen Schlafstörungen,
 sexuellen Funktionsstörungen,
 
 8.  
-Persönlichkeitsstörungen und Verhaltensstörungen,
+Persönlichkeits- und Verhaltensstörungen.
 
-9.  
-Verhaltensstörungen und emotionalen Störungen mit Beginn in der Kindheit und Jugend.
-
-(3) Neben oder nach einer somatischen ärztlichen Behandlung von Krankheiten oder deren Auswirkungen sind Aufwendungen für eine Psychotherapie beihilfefähig bei
+(2) Neben oder nach einer somatischen ärztlichen Behandlung von Krankheiten oder deren Auswirkungen sind Aufwendungen für Leistungen der Psychotherapie beihilfefähig bei
 
 1.  
-psychischen Störungen und Verhaltensstörungen durch psychotrope Substanzen, im Fall einer Abhängigkeit nur, wenn Suchtmittelfreiheit oder Abstinenz erreicht ist oder innerhalb von zehn Sitzungen erreicht werden kann,
+psychischen Störungen und Verhaltensstörungen
+
+a)  
+durch psychotrope Substanzen; im Fall einer Abhängigkeit nur, wenn Suchtmittelfreiheit oder Abstinenz erreicht ist oder voraussichtlich innerhalb von zehn Sitzungen erreicht werden kann,
+
+b)  
+durch Opioide und gleichzeitiger stabiler substitutionsgestützter Behandlung im Zustand der Beigebrauchsfreiheit,
 
 2.  
-psychischen Störungen und Verhaltensstörungen durch Opioide und gleichzeitiger stabiler substitutionsgestützter Behandlung im Zustand der Beigebrauchsfreiheit,
+seelischen Krankheiten auf Grund frühkindlicher emotionaler Mangelzustände oder tiefgreifender Entwicklungsstörungen, in Ausnahmefällen auch bei seelischen Krankheiten, die im Zusammenhang mit frühkindlichen körperlichen Schädigungen oder Missbildungen stehen,
 
 3.  
-seelischen Krankheiten auf Grund frühkindlicher emotionaler Mangelzustände oder tiefgreifender Entwicklungsstörungen; in Ausnahmefällen auch bei seelischen Krankheiten, die im Zusammenhang mit frühkindlichen körperlichen Schädigungen oder Missbildungen stehen,
-
-4.  
 seelischen Krankheiten als Folge schwerer chronischer Krankheitsverläufe,
 
-5.  
-psychischer Begleit-, Folge- oder Residualsymptomatik psychotischer Erkrankungen.
+4.  
+schizophrenen und affektiven psychotischen Störungen.
 
-Die Beihilfefähigkeit setzt voraus, dass die Leistungen von einer Ärztin, einem Arzt, einer Therapeutin oder einem Therapeuten nach Anlage 3 Abschnitt 2 bis 4 erbracht werden. Eine Sitzung der tiefenpsychologisch fundierten oder analytischen Psychotherapie oder Verhaltenstherapie umfasst eine Behandlungsdauer von mindestens 50 Minuten bei einer Einzelbehandlung und mindestens 100 Minuten bei einer Gruppenbehandlung.
+Die Beihilfefähigkeit setzt voraus, dass die Leistungen von einer Ärztin, einem Arzt, einer Therapeutin oder einem Therapeuten nach den Abschnitten 2 bis 4 der Anlage 3 erbracht werden. Eine Sitzung der Psychotherapie umfasst eine Behandlungsdauer von mindestens 50 Minuten bei einer Einzelbehandlung und von mindestens 100 Minuten bei einer Gruppenbehandlung.
 
-(4) Aufwendungen für psychotherapeutische Behandlungen, die zu den wissenschaftlich anerkannten Verfahren gehören und nach den Abschnitten B und G der Anlage zur Gebührenordnung für Ärzte abgerechnet werden, sind beihilfefähig, wenn
-
-1.  
-sie der Feststellung, Heilung oder Linderung seelischer Krankheiten nach Absatz 1 dienen, bei denen Psychotherapie indiziert ist,
-
-2.  
-nach einer biographischen Analyse oder Verhaltensanalyse und gegebenenfalls nach höchstens fünf, bei analytischer Psychotherapie höchstens acht probatorischen Sitzungen die Voraussetzungen für einen Behandlungserfolg gegeben sind und
-
-3.  
-die Festsetzungsstelle vor Beginn der Behandlung die Beihilfefähigkeit der Aufwendungen auf Grund eines Gutachtens zur Notwendigkeit und zu Art und Umfang der Behandlung anerkannt hat.
-
-Das Gutachten nach Satz 1 Nummer 3 ist bei einer Gutachterin oder einem Gutachter einzuholen, die oder der von der Kassenärztlichen Bundesvereinigung im Einvernehmen mit den Bundesverbänden der Vertragskassen nach § 12 der Vereinbarung über die Anwendung von Psychotherapie in der vertragsärztlichen Versorgung zwischen der Kassenärztlichen Bundesvereinigung und dem Verband der Ersatzkassen e. V. bestellt worden ist. Für Beihilfeberechtigte nach § 3 und ihre berücksichtigungsfähigen Angehörigen kann das Gutachten beim Gesundheitsdienst des Auswärtigen Amtes oder bei einer Ärztin oder einem Arzt eingeholt werden, die oder den der Gesundheitsdienst des Auswärtigen Amtes beauftragt hat.
-
-(5) Für die psychosomatische Grundversorgung müssen die Voraussetzungen des Absatzes 4 Satz 1 Nummer 2 und 3 nicht erfüllt sein. Aufwendungen für Maßnahmen nach Absatz 4 Satz 1 Nummer 2 sind auch dann beihilfefähig, wenn sich eine psychotherapeutische Behandlung als nicht notwendig erwiesen hat.
-
-(6) Aufwendungen für
+(3) Aufwendungen für Leistungen der Psychotherapie, die zu den wissenschaftlich anerkannten Verfahren gehören und nach den Abschnitten B und G der Anlage zur Gebührenordnung für Ärzte abgerechnet werden, sind beihilfefähig, wenn
 
 1.  
-katathymes Bilderleben sind nur im Rahmen eines übergeordneten tiefenpsychologischen Therapiekonzepts beihilfefähig,
+sie der Feststellung, Heilung oder Linderung von Störungen nach Absatz 1 dienen, bei denen eine Psychotherapie indiziert ist,
 
 2.  
-Rational-Emotive Therapie sind nur im Rahmen eines umfassenden verhaltenstherapeutischen Behandlungskonzepts beihilfefähig,
+nach einer biographischen Analyse oder einer Verhaltensanalyse und nach höchstens fünf, bei analytischer Psychotherapie nach höchstens acht probatorischen Sitzungen ein Behandlungserfolg zu erwarten ist und
 
 3.  
-eine bis zu sechs Monate dauernde ambulante psychosomatische Nachsorge nach einer stationären psychosomatischen Behandlung sind in angemessener Höhe beihilfefähig.
+die Festsetzungsstelle vor Beginn der Behandlung die Beihilfefähigkeit der Aufwendungen auf Grund eines Gutachtens zu Notwendigkeit, Art und Umfang der Behandlung anerkannt hat.
 
-(7) Vor Behandlungen durch Psychologische Psychotherapeutinnen, Psychologische Psychotherapeuten, Kinder- und Jugendlichenpsychotherapeutinnen oder Kinder- und Jugendlichenpsychotherapeuten muss spätestens nach den probatorischen Sitzungen oder vor der Einleitung des Begutachtungsverfahrens eine somatische Abklärung erfolgen. Diese Abklärung muss eine Ärztin oder ein Arzt vornehmen und in einem Konsiliarbericht schriftlich bestätigen.
+Aufwendungen für Maßnahmen nach Satz 1 Nummer 2 sind auch dann beihilfefähig, wenn sich eine psychotherapeutische Behandlung später als nicht notwendig erwiesen hat.
 
-(8) Haben Beihilfeberechtigte nach § 3 oder ihre berücksichtigungsfähigen Angehörigen am Dienstort keinen direkten Zugang zu muttersprachlichen psychotherapeutischen Behandlungen, sind die Aufwendungen für die folgenden Leistungen auch dann beihilfefähig, wenn die Leistungen internetgestützt erbracht werden:
+(4) Das Gutachten nach Absatz 3 Satz 1 Nummer 3 ist bei einer Gutachterin oder einem Gutachter einzuholen, die oder der von der Kassenärztlichen Bundesvereinigung im Einvernehmen mit den Bundesverbänden der Vertragskassen nach § 12 der Psychotherapie-Vereinbarung in der jeweils geltenden auf der Internetseite der Kassenärztlichen Bundesvereinigung (www.kbv.de) veröffentlichten Fassung bestellt worden ist. Für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, kann das Gutachten beim Gesundheitsdienst des Auswärtigen Amtes oder bei einer oder einem vom Gesundheitsdienst des Auswärtigen Amtes beauftragten Ärztin oder Arzt eingeholt werden.
+
+(5) Haben Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, am Dienstort keinen persönlichen Zugang zu muttersprachlichen psychotherapeutischen Behandlungen, sind die Aufwendungen für die folgenden Leistungen auch dann beihilfefähig, wenn die Leistungen telekommunikationsgestützt erbracht werden:
 
 1.  
 tiefenpsychologisch fundierte Psychotherapie nach Nummer 861 der Anlage zur Gebührenordnung für Ärzte oder
@@ -674,82 +731,55 @@ tiefenpsychologisch fundierte Psychotherapie nach Nummer 861 der Anlage zur Geb�
 2.  
 Verhaltenstherapie nach Nummer 870 der Anlage zur Gebührenordnung für Ärzte.
 
-Bei internetgestützter Therapie sind bis zu 15 Sitzungen beihilfefähig. Tiefenpsychologisch fundierte Psychotherapie und Verhaltenstherapie in Gruppen sowie analytische Psychotherapie als Einzel- oder Gruppentherapie sind nach Einholung eines erneuten Gutachtens gegebenenfalls umzuwandeln. Aufwendungen für Leistungen nach Satz 1 sind nur beihilfefähig, wenn diese im Rahmen einer im Inland begonnenen psychotherapeutischen Behandlung zur weiteren Stabilisierung des erreichten Behandlungserfolgs notwendig sind. Das Therapieverfahren kann durch Einzelkontakt mittels Telefon oder E-Mail erfolgen.
+Bei telekommunikationsgestützter Therapie sind bis zu 15 Sitzungen beihilfefähig. Wird von einer tiefenpsychologisch fundierten Psychotherapie oder Verhaltenstherapie in Gruppen oder von einer analytischen Psychotherapie als Einzel- oder Gruppentherapie zu einer telekommunikationsgestützten Therapie gewechselt, sind die Aufwendungen für die telekommunikationsgestützte Therapie beihilfefähig, wenn die Festsetzungsstelle die Beihilfefähigkeit nach Einholung eines Gutachtens zur Notwendigkeit des Wechsels anerkannt hat. Aufwendungen für Leistungen nach Satz 1 sind nur beihilfefähig, wenn diese im Rahmen einer im Inland begonnenen psychotherapeutischen Behandlung zur weiteren Stabilisierung des erreichten Behandlungserfolgs notwendig sind.
 
-(9) Nicht beihilfefähig sind Aufwendungen für
+(6) Aufwendungen für eine Eye-Movement-Desensitization-and-Reprocessing-Behandlung sind nur bei Personen, die das 18. Lebensjahr vollendet haben, mit posttraumatischen Belastungsstörungen im Rahmen eines umfassenden Behandlungskonzepts der Verhaltenstherapie, der tiefenpsychologisch fundierten Psychotherapie oder analytischen Psychotherapie beihilfefähig.
 
-1.  
-gleichzeitige Behandlungen nach den §§ 19 bis 21 und
+### § 19 Psychoanalytisch begründete Verfahren
 
-2.  
-die in Anlage 3 Abschnitt 1 aufgeführten Behandlungsverfahren.
-
-### § 19 Psychosomatische Grundversorgung
-
-(1) Die psychosomatische Grundversorgung, zu der Beihilfe gewährt wird, umfasst
+(1) Aufwendungen für psychoanalytisch begründete Verfahren mit ihren beiden Behandlungsformen, der tiefenpsychologisch fundierten Psychotherapie und der analytischen Psychotherapie (Nummern 860 bis 865 der Anlage zur Gebührenordnung für Ärzte), sind je Krankheitsfall in folgendem Umfang beihilfefähig:
 
 1.  
-verbale Interventionen im Rahmen der Nummer 849 des Gebührenverzeichnisses für ärztliche Leistungen der Gebührenordnung für Ärzte oder
+tiefenpsychologisch fundierte Psychotherapie von Personen, die das 18. Lebensjahr vollendet haben:
 
-2.  
-übende und suggestive Interventionen nach den Nummern 845 bis 847 des Gebührenverzeichnisses für ärztliche Leistungen der Gebührenordnung für Ärzte (autogenes Training, Jacobsonsche Relaxationstherapie, Hypnose).
+Einzel-
+behandlung
 
-(2) Aufwendungen sind je Krankheitsfall beihilfefähig für
+Gruppen-
+behandlung
 
-1.  
-verbale Intervention als Einzelbehandlung für bis zu 25 Sitzungen, sowohl über einen kürzeren Zeitraum als auch im Verlauf chronischer Erkrankungen über einen längeren Zeitraum in niederfrequenter Form,
-
-2.  
-autogenes Training und Jakobsonsche Relaxationstherapie als Einzel- oder Gruppenbehandlung für bis zu zwölf Sitzungen; eine Kombination von Einzel- und Gruppenbehandlung ist hierbei möglich, sowie
-
-3.  
-Hypnose als Einzelbehandlung für bis zu zwölf Sitzungen.
-
-Leistungen nach Satz 1 Nummer 1 dürfen nicht in derselben Sitzung mit Leistungen nach Satz 1 Nummer 2 und 3 kombiniert werden. Neben den Aufwendungen für eine verbale Intervention nach Nummer 849 der Anlage zur Gebührenordnung für Ärzte sind Aufwendungen für körperbezogene Leistungen der Ärztin oder des Arztes beihilfefähig.
-
-(3) (weggefallen)
-
-### § 20 Tiefenpsychologisch fundierte und analytische Psychotherapie
-
-(1) Aufwendungen für Behandlungen der tiefenpsychologisch fundierten und der analytischen Psychotherapie nach den Nummern 860 bis 865 der Anlage zur Gebührenordnung für Ärzte sind je Krankheitsfall nur in folgendem Umfang beihilfefähig:
-
-1.  
-tiefenpsychologisch fundierte Psychotherapie von Erwachsenen:
-
-Einzelbehandlung
-
-Gruppenbehandlung
-
-Regelfall
+im Regelfall
 
 50 Sitzungen
 
 40 Sitzungen
 
-besondere Fälle
+in besonderen Fällen
 
 30 weitere Sitzungen
 
 20 weitere Sitzungen
 
-wenn das Behandlungsziel in den genannten
-Sitzungen noch nicht
-erreicht worden ist
+wenn das Behandlungsziel in den genannten Sitzungen noch nicht erreicht worden ist
 
 höchstens
-20 weitere Sitzungen
+20
+weitere Sitzungen
 
 höchstens
-20 weitere Sitzungen
+20
+weitere Sitzungen
 
 2.  
-analytische Psychotherapie von Erwachsenen:
+analytische Psychotherapie von Personen, die das 18. Lebensjahr vollendet haben:
 
-Einzelbehandlung
+Einzel-
+behandlung
 
-Gruppenbehandlung
+Gruppen-
+behandlung
 
-Regelfall
+im Regelfall
 
 80 Sitzungen
 
@@ -761,64 +791,36 @@ bei erneuter eingehender Begründung der Therapeutin/des Therapeuten
 
 40 weitere Sitzungen
 
-in besonderen
-Ausnahmefällen
+in besonderen Fällen
 
 nochmals
-80 weitere Sitzungen
+80
+weitere Sitzungen
 
 nochmals
-40 weitere Sitzungen
+40
+weitere Sitzungen
 
-wenn das Behandlungsziel
-in den genannten
-Sitzungen noch nicht
-erreicht worden ist
+wenn das Behandlungsziel in den genannten Sitzungen noch nicht erreicht worden ist
 
-begrenzte
-Behandlungsdauer von bis zu 60
-weiteren Sitzungen
+höchstens
+60
+weitere Sitzungen
 
-begrenzte
-Behandlungsdauer von bis zu 30
-weiteren Sitzungen
+höchstens
+30
+weitere Sitzungen
 
 3.  
-tiefenpsychologisch fundierte oder analytische Psychotherapie von Kindern:
+tiefenpsychologisch fundierte oder analytische Psychotherapie von Personen, die das 14. Lebensjahr, aber noch nicht das 18. Lebensjahr vollendet haben:
 
-Einzelbehandlung
+Einzel-
+behandlung
 
-Gruppenbehandlung
+Gruppen-
+behandlung
 
-Regelfall
-
-70 Sitzungen
-
-40 Sitzungen
-
-bei erneuter eingehender Begründung der Therapeutin/des Therapeuten
-
-50 weitere Sitzungen
-
-20 weitere Sitzungen
-
-in besonderen
-Ausnahmefällen
-
-nochmals
-30 weitere Sitzungen
-
-nochmals
-30 weitere Sitzungen
-
-4.  
-tiefenpsychologisch fundierte oder analytische Psychotherapie von Jugendlichen:
-
-Einzelbehandlung
-
-Gruppenbehandlung
-
-Regelfall
+im Regelfall
 
 90 Sitzungen
 
@@ -826,80 +828,133 @@ Regelfall
 
 bei erneuter eingehender Begründung der Therapeutin/des Therapeuten
 
-50 weitere Sitzungen
+50 weitere
+Sitzungen
 
-20 weitere Sitzungen
+20 weitere
+Sitzungen
 
-in besonderen
-Ausnahmefällen
+in besonderen Fällen
 
-nochmals
-40 weitere Sitzungen
+höchstens
+40
+weitere Sitzungen
 
-nochmals
-30 weitere Sitzungen
+höchstens
+30
+weitere Sitzungen
 
-In medizinisch besonders begründeten Einzelfällen kann die Beihilfefähigkeit von Aufwendungen für die durch Gutachten belegte notwendige Behandlung auch für eine über die in Satz 1 Nummer 3 und 4 zugelassene Höchstzahl von Sitzungen hinaus anerkannt werden. Hierüber entscheidet die oberste Dienstbehörde.
+4.  
+tiefenpsychologisch fundierte oder analytische Psychotherapie von Personen, die das 14. Lebensjahr noch nicht vollendet haben:
 
-(2) Der Beihilfefähigkeit steht nicht entgegen, wenn bei tiefenpsychologisch fundierter oder analytischer Psychotherapie von Kindern und Jugendlichen bis zur Vollendung des 18. Lebensjahres Bezugspersonen einbezogen werden.
+Einzel-
+behandlung
 
-(3) Im Rahmen psychoanalytisch begründeter Verfahren ist die simultane Kombination von Einzel- und Gruppentherapie grundsätzlich ausgeschlossen. Auf dem Gebiet der tiefenpsychologisch fundierten Psychotherapie kann eine solche Kombination nur bei niederfrequenten Therapien auf Grund eines besonders begründeten Erstantrages durchgeführt werden.
+Gruppen-
+behandlung
 
-### § 21 Verhaltenstherapie
+im Regelfall
 
-(1) Aufwendungen für Verhaltenstherapien nach den Nummern 870 und 871 der Anlage zur Gebührenordnung für Ärzte sind je Krankheitsfall nur in folgendem Umfang beihilfefähig:
+70 Sitzungen
+
+40 Sitzungen
+
+bei erneuter eingehender Begründung der Therapeutin/des Therapeuten
+
+50 weitere
+Sitzungen
+
+20 weitere
+Sitzungen
+
+in besonderen Fällen
+
+höchstens
+30
+weitere Sitzungen
+
+höchstens
+30
+weitere Sitzungen
+
+In besonderen Fällen kann die oberste Dienstbehörde die Beihilfefähigkeit von Aufwendungen für die Behandlung auch für eine über die in Satz 1 Nummer 3 und 4 festgelegte Höchstzahl von Sitzungen hinaus anerkennen, wenn die medizinische Notwendigkeit durch ein Gutachten belegt wird.
+
+(2) Bei durch Gutachten belegter medizinischer Notwendigkeit der Einbeziehung von Bezugspersonen in die Therapie von Personen, die das 18. Lebensjahr noch nicht vollendet haben, kann die Beihilfefähigkeit von Aufwendungen für die dafür vorgesehenen Sitzungen bei Einzelbehandlung bis zu einem Viertel und bei Gruppenbehandlung bis zur Hälfte der bewilligten Zahl von Sitzungen zusätzlich anerkannt werden.
+
+(3) Im Rahmen psychoanalytisch begründeter Verfahren ist die simultane Kombination von Einzel- und Gruppentherapie grundsätzlich ausgeschlossen. Aufwendungen für Leistungen einer solchen Kombination sind nur beihilfefähig, wenn sie auf dem Gebiet der tiefenpsychologisch fundierten Psychotherapie bei niederfrequenten Therapien auf Grund eines besonders begründeten Erstantrags erbracht werden.
+
+(4) Aufwendungen für katathymes Bilderleben sind nur im Rahmen eines übergeordneten tiefenpsychologischen Therapiekonzepts beihilfefähig.
+
+### § 20 Verhaltenstherapie
+
+(1) Aufwendungen für eine Verhaltenstherapie (Nummern 870 und 871 der Anlage zur Gebührenordnung für Ärzte) sind je Krankheitsfall in folgendem Umfang beihilfefähig:
+
+Einzel-
+behandlung
+
+Gruppen-
+behandlung
+
+Regelfall
+
+45 Sitzungen
+
+45 Sitzungen
+
+wenn das Behandlungsziel nicht innerhalb von 45 Sitzungen erreicht worden ist
+
+15 weitere
+Sitzungen
+
+15 weitere
+Sitzungen
+
+in besonderen Fällen
+
+20 weitere
+Sitzungen
+
+20 weitere
+Sitzungen
+
+(2) § 19 Absatz 2 gilt entsprechend.
+
+(3) Einer Anerkennung nach § 18a Absatz 3 Satz 1 Nummer 3 bedarf es nicht, wenn der Festsetzungsstelle nach den probatorischen Sitzungen die Feststellung der Therapeutin oder des Therapeuten nach Abschnitt 4 der Anlage 3 vorgelegt wird, dass
 
 1.  
-bei Erwachsenen
-
-Einzelbehandlung
-
-Gruppenbehandlung
-
-Regelfall
-
-45 Sitzungen
-
-45 Sitzungen
-
-wird das Behandlungsziel nicht innerhalb der genannten Sitzungen erreicht
-
-15 weitere Sitzungen
-
-15 weitere Sitzungen
-
-nur in besonderen Ausnahmefällen
-
-20 weitere Sitzungen
-
-20 weitere Sitzungen
+bei Einzelbehandlung nicht mehr als zehn Sitzungen,
 
 2.  
-bei Kindern und Jugendlichen einschließlich gegebenenfalls notwendiger begleitender Behandlung von Bezugspersonen
+bei Gruppenbehandlung nicht mehr als 20 Sitzungen
 
-Einzelbehandlung
+erforderlich sind. Muss in besonderen Fällen die Behandlung verlängert werden, ist die Festsetzungsstelle unverzüglich zu unterrichten. Aufwendungen für weitere Sitzungen sind nur nach vorheriger Anerkennung der medizinischen Notwendigkeit durch die Festsetzungsstelle beihilfefähig. Die Festsetzungsstelle hat hierzu ein Gutachten nach § 18a Absatz 3 Satz 1 Nummer 3 einzuholen.
 
-Gruppenbehandlung
+(4) Aufwendungen für eine Rational-Emotive Therapie sind nur im Rahmen eines umfassenden verhaltenstherapeutischen Behandlungskonzepts beihilfefähig.
 
-Regelfall
+### § 21 Psychosomatische Grundversorgung
 
-45 Sitzungen
+(1) Die psychosomatische Grundversorgung im Sinne dieser Verordnung umfasst
 
-45 Sitzungen
+1.  
+verbale Interventionen im Rahmen der Nummer 849 des Gebührenverzeichnisses für ärztliche Leistungen der Gebührenordnung für Ärzte und
 
-wird das Behandlungsziel nicht innerhalb der genannten Sitzungen erreicht
+2.  
+Hypnose, autogenes Training und Relaxationstherapie nach Jacobson nach den Nummern 845 bis 847 der Anlage zur Gebührenordnung für Ärzte.
 
-15 weitere Sitzungen
+(2) Je Krankheitsfall sind beihilfefähig Aufwendungen für
 
-15 weitere Sitzungen
+1.  
+verbale Intervention als Einzelbehandlung mit bis zu 25 Sitzungen, sowohl über einen kürzeren Zeitraum als auch im Verlauf chronischer Erkrankungen über einen längeren Zeitraum in niederfrequenter Form,
 
-nur in besonderen Ausnahmefällen
+2.  
+Hypnose als Einzelbehandlung mit bis zu zwölf Sitzungen sowie
 
-20 weitere Sitzungen
+3.  
+autogenes Training und Relaxationstherapie nach Jacobson als Einzel- oder Gruppenbehandlung mit bis zu zwölf Sitzungen; eine Kombination von Einzel- und Gruppenbehandlung ist hierbei möglich.
 
-20 weitere Sitzungen
+Aufwendungen für Leistungen nach Satz 1 Nummer 1 sind nicht beihilfefähig, wenn sie zusammen mit Aufwendungen für Leistungen nach Satz 1 Nummer 2 und 3 in derselben Sitzung entstanden sind. Neben den Aufwendungen für Leistungen nach Absatz 1 Nummer 1 sind Aufwendungen für somatische ärztliche Untersuchungen und Behandlungen von Krankheiten und deren Auswirkungen beihilfefähig.
 
-(2) Von dem Anerkennungsverfahren nach § 18 Absatz 2 Satz 1 Nummer 3 ist abzusehen, wenn der Festsetzungsstelle nach den probatorischen Sitzungen die Feststellung der Therapeutin oder des Therapeuten nach Anlage 3 Abschnitt 4 vorgelegt wird, dass die Behandlung bei Einzelbehandlung nicht mehr als zehn Sitzungen sowie bei Gruppenbehandlung nicht mehr als 20 Sitzungen erfordert. Muss in besonderen Ausnahmefällen die Behandlung über die festgestellte Zahl dieser Sitzungen hinaus verlängert werden, ist die Festsetzungsstelle hierüber unverzüglich zu unterrichten. Aufwendungen für weitere Sitzungen sind nur nach vorheriger Anerkennung durch die Festsetzungsstelle beihilfefähig. Die Festsetzungsstelle hat hierzu ein Gutachten nach § 18 Absatz 2 Satz 1 Nummer 3 zu Art und Umfang der notwendigen Behandlung einzuholen.
+(3) Aufwendungen für eine bis zu sechs Monate dauernde ambulante psychosomatische Nachsorge nach einer stationären psychosomatischen Behandlung sind beihilfefähig.
 
 Abschnitt 2 Sonstige Aufwendungen
 ---------------------------------
@@ -963,7 +1018,7 @@ soweit die Arzneimittel nicht für Minderjährige bestimmt sind,
 nicht verschreibungspflichtige Arzneimittel, es sei denn, sie
 
 a)  
-sind für Minderjährige mit Entwicklungsstörungen und für Kinder unter zwölf Jahren bestimmt,
+sind bestimmt für Personen, die das zwölfte Lebensjahr noch nicht vollendet haben oder für Personen, die das 18. Lebensjahr noch nicht vollendet haben und an Entwicklungsstörungen leiden,
 
 b)  
 wurden für diagnostische Zwecke, Untersuchungen und ambulante Behandlungen benötigt und in der Rechnung als Auslagen abgerechnet oder
@@ -978,13 +1033,15 @@ hormonelle Mittel zur Empfängnisverhütung; dies gilt nicht bei Personen unter 
 
 (4) Aufwendungen für Arzneimittel, bei denen nach allgemein anerkanntem Stand der medizinischen Erkenntnisse der diagnostische oder therapeutische Nutzen, die medizinische Notwendigkeit oder die Wirtschaftlichkeit nicht nachgewiesen ist, sind nach Maßgabe der Anlage 8 beihilfefähig. Arzneimittel nach Satz 1 können darüber hinaus im Einzelfall als beihilfefähig anerkannt werden, wenn eine medizinische Stellungnahme darüber vorgelegt wird, dass das Arzneimittel zur Behandlung notwendig ist.
 
-(5) Aufwendungen für ärztlich verordnete Aminosäuremischungen, Eiweißhydrolysate, Elementardiäten und Sondennahrung sind zur enteralen Ernährung bei fehlender oder eingeschränkter Fähigkeit, sich auf natürliche Weise ausreichend zu ernähren, beihilfefähig, wenn eine Modifizierung der natürlichen Ernährung oder sonstige ärztliche, pflegerische oder ernährungstherapeutische Maßnahmen zur Verbesserung der Ernährungssituation nicht ausreichen. Aufwendungen für Elementardiäten sind beihilfefähig für Kinder unter drei Jahren mit Kuhmilcheiweiß-Allergie; dies gilt ferner bei Neurodermitis für einen Zeitraum von einem halben Jahr, sofern Elementardiäten für diagnostische Zwecke eingesetzt werden. Im Übrigen sind Aufwendungen für Lebensmittel, Nahrungsergänzungsmittel, Krankenkost und diätetische Lebensmittel nicht beihilfefähig.
+(5) Aufwendungen für ärztlich verordnete Aminosäuremischungen, Eiweißhydrolysate, Elementardiäten und Sondennahrung sind zur enteralen Ernährung bei fehlender oder eingeschränkter Fähigkeit, sich auf natürliche Weise ausreichend zu ernähren, beihilfefähig, wenn eine Modifizierung der natürlichen Ernährung oder sonstige ärztliche, pflegerische oder ernährungstherapeutische Maßnahmen zur Verbesserung der Ernährungssituation nicht ausreichen. Aufwendungen für Elementardiäten sind beihilfefähig für Personen, die das dritte Lebensjahr noch nicht vollendet haben, mit Kuhmilcheiweiß-Allergie; dies gilt ferner bei Neurodermitis für einen Zeitraum von einem halben Jahr, sofern Elementardiäten für diagnostische Zwecke eingesetzt werden. Im Übrigen sind Aufwendungen für Lebensmittel, Nahrungsergänzungsmittel, Krankenkost und diätetische Lebensmittel nicht beihilfefähig.
+
+(6) Die Absätze 1 bis 4 gelten entsprechend für Aufwendungen für Arznei- und Verbandmittel, Teststreifen und Medizinprodukte, die eine Heilpraktikerin oder ein Heilpraktiker während einer Behandlung verbraucht hat.
 
 ### § 23 Heilmittel
 
 (1) Aufwendungen für ärztlich verordnete Heilmittel und die dabei verbrauchten Stoffe sind beihilfefähig, wenn diese in Anlage 9 aufgeführt sind und von Angehörigen der Gesundheits- oder Medizinalfachberufe nach Anlage 10 angewandt werden. Bei einer Sprachtherapie sind auch Aufwendungen für Leistungen staatlich anerkannter Sprachtherapeuten sowie vergleichbar qualifizierter Personen beihilfefähig. Die beihilfefähigen Aufwendungen sind auf die in Anlage 9 genannten Höchstbeträge beschränkt.
 
-(2) Bei Beihilfeberechtigten nach § 3 und deren berücksichtigungsfähigen Angehörigen beurteilt sich die Angemessenheit der Aufwendungen für ärztlich verordnete Heilmittel anstelle der in Absatz 1 Satz 3 genannten Höchstbeträge nach den ortsüblichen Gebühren unter Berücksichtigung der besonderen Verhältnisse im Ausland. Die beihilfefähigen Aufwendungen mindern sich, außer bei Kindern bis zur Vollendung des 18. Lebensjahres, um 10 Prozent der Kosten, die die maßgeblichen Höchstbeträge nach Absatz 1 Satz 3 übersteigen, höchstens jedoch um 10 Euro zuzüglich 10 Euro für jede Verordnung.
+(2) Bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, beurteilt sich die Angemessenheit der Aufwendungen für ärztlich verordnete Heilmittel anstelle der in Absatz 1 Satz 3 genannten Höchstbeträge nach den ortsüblichen Gebühren unter Berücksichtigung der besonderen Verhältnisse im Ausland. Die beihilfefähigen Aufwendungen mindern sich um 10 Prozent der Kosten, die die Höchstbeträge nach Absatz 1 Satz 3 übersteigen, höchstens jedoch um 10 Euro. Diese Minderung gilt nicht für Personen, die das 18. Lebensjahr noch nicht vollendet haben.
 
 ### § 24 Komplextherapie und integrierte Versorgung
 
@@ -1014,9 +1071,9 @@ in Anlage 12 genannt sind.
 
 (3) Aufwendungen für das Mieten von Hilfsmitteln und Geräten zur Selbstbehandlung und Selbstkontrolle nach Absatz 1 Satz 1 sind beihilfefähig, soweit sie nicht höher als die Aufwendungen für deren Anschaffung sind und diese sich dadurch erübrigt.
 
-(4) Sind Hilfsmittel und Geräte zur Selbstbehandlung und Selbstkontrolle im Sinne des Absatzes 1 Satz 1 weder in Anlage 11 oder 12 aufgeführt noch mit den aufgeführten Gegenständen vergleichbar, sind hierfür getätigte Aufwendungen ausnahmsweise beihilfefähig, wenn dies im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes notwendig ist. Die Festsetzungsstelle entscheidet in Fällen des Satzes 1 im Einvernehmen mit der obersten Dienstbehörde. Die oberste Dienstbehörde hat vor ihrer Zustimmung das Einvernehmen mit dem Bundesministerium des Innern herzustellen. Soweit das Einvernehmen des Bundesministeriums des Innern allgemein erklärt ist, kann die oberste Dienstbehörde ihre Zuständigkeit auf eine andere Behörde übertragen. Absatz 2 bleibt unberührt.
+(4) Sind Hilfsmittel und Geräte zur Selbstbehandlung und Selbstkontrolle im Sinne des Absatzes 1 Satz 1 weder in Anlage 11 oder 12 aufgeführt noch mit den aufgeführten Gegenständen vergleichbar, sind hierfür getätigte Aufwendungen ausnahmsweise beihilfefähig, wenn dies im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes notwendig ist. Die Festsetzungsstelle entscheidet in Fällen des Satzes 1 mit Zustimmung der obersten Dienstbehörde. Die oberste Dienstbehörde hat vor ihrer Zustimmung das Einvernehmen mit dem Bundesministerium des Innern herzustellen. Soweit das Einvernehmen des Bundesministeriums des Innern allgemein erklärt ist, kann die oberste Dienstbehörde ihre Zuständigkeit auf eine andere Behörde übertragen. Absatz 2 bleibt unberührt.
 
-(5) Aufwendungen für den Betrieb und die Unterhaltung der Hilfsmittel und Geräte zur Selbstbehandlung und Selbstkontrolle im Sinne des Absatzes 1 Satz 1 sind nur in Höhe des 100 Euro je Kalenderjahr übersteigenden Betrages beihilfefähig. Nicht beihilfefähig sind Aufwendungen für Batterien von Hörgeräten sowie Pflege- und Reinigungsmittel für Kontaktlinsen. Die Sätze 1 und 2 gelten nicht für Kinder bis zur Vollendung des 18. Lebensjahres.
+(5) Aufwendungen für den Betrieb und die Unterhaltung der Hilfsmittel und Geräte zur Selbstbehandlung und Selbstkontrolle im Sinne des Absatzes 1 Satz 1 sind nur in Höhe des 100 Euro je Kalenderjahr übersteigenden Betrages beihilfefähig. Nicht beihilfefähig sind Aufwendungen für Batterien von Hörgeräten sowie Pflege- und Reinigungsmittel für Kontaktlinsen. Die Sätze 1 und 2 gelten nicht für Personen, die das 18. Lebensjahr noch nicht vollendet haben.
 
 ### § 26 Krankenhausleistungen
 
@@ -1032,10 +1089,10 @@ allgemeine Krankenhausleistungen (§ 2 Abs. 2 des Krankenhausentgeltgesetzes und
 Wahlleistungen in Form
 
 a)  
-von gesondert berechneten wahlärztlichen Leistungen im Sinne der §§ 16 und 17 des Krankenhausentgeltgesetzes und des § 22 der Bundespflegesatzverordnung,
+von gesondert berechneten wahlärztlichen Leistungen im Sinne des § 17 des Krankenhausentgeltgesetzes und des § 16 Satz 2 der Bundespflegesatzverordnung,
 
 b)  
-einer gesondert berechneten Unterkunft im Sinne der §§ 16 und 17 des Krankenhausentgeltgesetzes und des § 22 der Bundespflegesatzverordnung bis zur Höhe der Kosten eines Zweibettzimmers abzüglich eines Betrages von 14,50 Euro täglich und
+einer gesondert berechneten Unterkunft im Sinne des § 17 des Krankenhausentgeltgesetzes und des § 16 Satz 2 der Bundespflegesatzverordnung bis zur Höhe der Kosten eines Zweibettzimmers abzüglich eines Betrages von 14,50 Euro täglich und
 
 c)  
 anderer im Zusammenhang mit den Leistungen nach den Buchstaben a und b entstandener Aufwendungen für ärztliche Leistungen und Leistungen nach § 22 sowie
@@ -1043,7 +1100,7 @@ anderer im Zusammenhang mit den Leistungen nach den Buchstaben a und b entstande
 4.  
 die Unterbringung einer Begleitperson im Krankenhaus, soweit dies aus medizinischen Gründen notwendig ist (§ 2 Abs. 2 Satz 2 Nr. 3 des Krankenhausentgeltgesetzes).
 
-(2) Bei Behandlungen in Krankenhäusern, die nicht nach dem Krankenhausentgeltgesetz oder der Bundespflegesatzverordnung abrechnen, sind die Aufwendungen wie folgt beihilfefähig:
+(2) Aufwendungen für Behandlungen in Krankenhäusern, die die Voraussetzungen des § 107 Absatz 1 des Fünften Buches Sozialgesetzbuch erfüllen, aber nicht nach § 108 des Fünften Buches Sozialgesetzbuch zugelassen sind, sind wie folgt beihilfefähig:
 
 1.  
 bei Indikationen, die mit Fallpauschalen nach dem Krankenhausentgeltgesetz abgerechnet werden können, die allgemeinen Krankenhausleistungen (Absatz 1 Nummer 2) bis zu dem Betrag, der sich bei Anwendung des Fallpauschalenkataloges nach § 9 Absatz 1 Satz 1 Nummer 1 des Krankenhausentgeltgesetzes für die Hauptabteilung ergibt; dabei wird die obere Grenze des nach § 10 Absatz 9 des Krankenhausentgeltgesetzes zu vereinbarenden einheitlichen Basisfallwertkorridors zugrunde gelegt,
@@ -1056,7 +1113,7 @@ a)
 <tbody>
 <tr class="odd">
 <td>bei vollstationärer<br />
-Behandlung Volljähriger</td>
+Untersuchung und Behandlung von Personen, die das 18. Lebensjahr vollendet haben,</td>
 <td>293,80 Euro,</td>
 </tr>
 </tbody>
@@ -1067,7 +1124,7 @@ b)
 <tbody>
 <tr class="odd">
 <td>bei teilstationärer<br />
-Behandlung Volljähriger</td>
+Untersuchung und Behandlung von Personen, die das 18. Lebensjahr vollendet haben,</td>
 <td>225,60 Euro,</td>
 </tr>
 </tbody>
@@ -1078,8 +1135,8 @@ c)
 <tbody>
 <tr class="odd">
 <td>bei vollstationärer<br />
-Behandlung Minderjähriger</td>
-<td>379,20 Euro,</td>
+Untersuchung und Behandlung von Personen, die das 18. Lebensjahr noch nicht vollendet haben,</td>
+<td>462,80 Euro,</td>
 </tr>
 </tbody>
 </table>
@@ -1089,8 +1146,8 @@ d)
 <tbody>
 <tr class="odd">
 <td>bei teilstationärer<br />
-Behandlung Minderjähriger</td>
-<td>286,80 Euro,</td>
+Untersuchung und Behandlung von Personen, die das 18. Lebensjahr noch nicht vollendet haben,</td>
+<td>345,80 Euro,</td>
 </tr>
 </tbody>
 </table>
@@ -1103,7 +1160,7 @@ zur Notfallversorgung, wenn das nächstgelegene Krankenhaus aufgesucht werden mu
 
 Absatz 1 Nummer 3 Buchstabe a und Nummer 4 gilt entsprechend. Nicht beihilfefähig sind Aufwendungen für Leistungen, die zusätzlich in Rechnung gestellt werden und die Bestandteile der Leistungen nach Absatz 1 Nummer 2 sind. Vor der Aufnahme in ein Krankenhaus nach Satz 1 kann eine Übersicht über die voraussichtlich entstehenden Kosten bei der Festsetzungsstelle zur Prüfung der Beihilfefähigkeit eingereicht werden.
 
-(3) Bei Beihilfeberechtigten nach § 3 und deren berücksichtigungsfähigen Angehörigen sind für Unterkunft und Verpflegung in ausländischen Krankenhäusern unter Berücksichtigung der besonderen Verhältnisse am Behandlungsort die entstandenen Aufwendungen beihilfefähig, soweit die Unterbringung derjenigen in einem Zweibettzimmer im Inland nach Absatz 1 Nr. 3 Buchstabe b entspricht, es sei denn, aus medizinischen Gründen ist eine andere Unterbringung notwendig. Der in Absatz 1 Nr. 3 Buchstabe b genannte Abzugsbetrag ist zu berücksichtigen. Beihilfefähig sind auch Aufwendungen, die für den Einsatz von Unternehmen entstehen, die bei der Abrechnung von im Ausland erbrachten stationären Leistungen tätig werden.
+(3) Bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, sind für Unterkunft und Verpflegung in ausländischen Krankenhäusern unter Berücksichtigung der besonderen Verhältnisse am Behandlungsort die entstandenen Aufwendungen beihilfefähig, soweit die Unterbringung derjenigen in einem Zweibettzimmer im Inland nach Absatz 1 Nr. 3 Buchstabe b entspricht, es sei denn, aus medizinischen Gründen ist eine andere Unterbringung notwendig. Der in Absatz 1 Nr. 3 Buchstabe b genannte Abzugsbetrag ist zu berücksichtigen. Beihilfefähig sind auch Aufwendungen, die für den Einsatz von Unternehmen entstehen, die bei der Abrechnung von im Ausland erbrachten stationären Leistungen tätig werden.
 
 ### § 27 Häusliche Krankenpflege
 
@@ -1113,7 +1170,7 @@ Absatz 1 Nummer 3 Buchstabe a und Nummer 4 gilt entsprechend. Nicht beihilfefäh
 nicht länger als vier Wochen andauert,
 
 2.  
-weder von der oder dem Beihilfeberechtigten oder einer oder einem berücksichtigungsfähigen Angehörigen noch von einer anderen im Haushalt lebenden Person durchgeführt werden kann und
+weder von der beihilfeberechtigten oder berücksichtigungsfähigen Person noch von einer anderen im Haushalt lebenden Person durchgeführt werden kann und
 
 3.  
 im eigenen Haushalt oder an einem anderen geeigneten Ort erbracht wird.
@@ -1131,7 +1188,7 @@ verrichtungsbezogene krankheitsspezifische Pflegemaßnahmen und
 3.  
 ambulante psychiatrische Krankenpflege.
 
-(3) Wird häusliche Krankenpflege im Sinne der Absätze 1 und 2 durch die Ehegattin, den Ehegatten, die Lebenspartnerin, den Lebenspartner, die Eltern oder die Kinder des Gepflegten durchgeführt, sind nur beihilfefähig:
+(3) Wird häusliche Krankenpflege im Sinne der Absätze 1 und 2 durch die Ehegattin, den Ehegatten, die Lebenspartnerin, den Lebenspartner, die Eltern oder die Kinder der gepflegten Person durchgeführt, sind nur beihilfefähig:
 
 1.  
 Aufwendungen für Fahrtkosten der die häusliche Krankenpflege durchführenden Person und
@@ -1141,13 +1198,13 @@ eine an die die häusliche Krankenpflege durchführende Person gezahlte Vergütu
 
 ### § 28 Familien- und Haushaltshilfe
 
-(1) Die Aufwendungen für eine Familien- und Haushaltshilfe sind in angemessener Höhe beihilfefähig, wenn
+(1) Die Aufwendungen für eine Familien- und Haushaltshilfe sind in Höhe von 2,5 Prozent der sich aus § 18 des Vierten Buches Sozialgesetzbuch ergebenden monatlichen Bezugsgröße, aufgerundet auf volle Euro, beihilfefähig, wenn
 
 1.  
-die oder der den Haushalt führende Beihilfeberechtigte oder die oder der berücksichtigungsfähige Angehörige den Haushalt wegen ihrer oder seiner notwendigen außerhäuslichen Unterbringung (§§ 26 und 32 Abs. 1, §§ 34 und 35 Abs. 1 Nr. 1 bis 5, §§ 39 und 40 Abs. 2) nicht weiterführen kann oder verstorben ist,
+die den Haushalt führende beihilfeberechtigte oder berücksichtigungsfähige Person den Haushalt wegen ihrer notwendigen außerhäuslichen Unterbringung (§§ 26 und 32 Absatz 1, §§ 34 und 35 Absatz 1 Nummer 1 bis 5, §§ 39 und 40 Absatz 2) nicht weiterführen kann oder verstorben ist,
 
 2.  
-im Haushalt mindestens eine Beihilfeberechtigte, ein Beihilfeberechtigter, eine berücksichtigungsfähige Angehörige oder ein berücksichtigungsfähiger Angehöriger verbleibt, die oder der pflegebedürftig ist oder das zwölfte Lebensjahr noch nicht vollendet hat und
+im Haushalt mindestens eine beihilfeberechtigte oder berücksichtigungsfähige Person verbleibt, die pflegebedürftig ist oder das zwölfte Lebensjahr noch nicht vollendet hat, und
 
 3.  
 keine andere im Haushalt lebende Person den Haushalt weiterführen kann.
@@ -1156,32 +1213,129 @@ In besonderen Ausnahmefällen kann im Hinblick auf die Fürsorgepflicht nach § 
 
 (2) Aufwendungen für eine Familien- und Haushaltshilfe sind auch für die ersten 28 Tage nach dem Ende einer außerhäuslichen Unterbringung beihilfefähig, wenn deren Notwendigkeit ärztlich bescheinigt wurde. Satz 1 gilt auch für Alleinstehende. Im Todesfall der haushaltführenden Person sind die Aufwendungen nach Absatz 1 für sechs Monate, in besonders begründeten Ausnahmefällen für zwölf Monate beihilfefähig. § 27 Abs. 3 gilt entsprechend.
 
-(3) Werden statt der Inanspruchnahme einer Familien- und Haushaltshilfe Kinder unter zwölf Jahren oder pflegebedürftige berücksichtigungsfähige oder selbst beihilfeberechtigte Angehörige in einem Heim oder in einem fremden Haushalt untergebracht, sind die Aufwendungen hierfür bis zu den sonst notwendigen Kosten einer Familien- und Haushaltshilfe beihilfefähig.
+(3) Werden statt der Inanspruchnahme einer Familien- und Haushaltshilfe berücksichtigungsfähige Personen, die das zwölfte Lebensjahr noch nicht vollendet haben, oder pflegebedürftige berücksichtigungsfähige oder selbst beihilfeberechtigte Personen in einem Heim oder in einem fremden Haushalt untergebracht, sind die Aufwendungen hierfür bis zu den sonst notwendigen Kosten einer Familien- und Haushaltshilfe beihilfefähig.
 
 ### § 29 Familien- und Haushaltshilfe im Ausland
 
-(1) Aufwendungen Beihilfeberechtigter nach § 3 für eine Familien- und Haushaltshilfe sind auch dann beihilfefähig, wenn
+(1) Aufwendungen beihilfeberechtigter Personen nach § 3 für eine Familien- und Haushaltshilfe sind auch dann beihilfefähig, wenn
 
 1.  
-eine ambulante ärztliche Behandlung der oder des Beihilfeberechtigten oder der oder des berücksichtigungsfähigen Angehörigen, die oder der den Haushalt allein führt, in einem anderen Land als dem Gastland notwendig ist,
+eine ambulante ärztliche Behandlung der beihilfeberechtigten oder berücksichtigungsfähigen Person, die den Haushalt allein führt, in einem anderen Land als dem Gastland notwendig ist,
 
 2.  
-mindestens ein Kind unter vier Jahren im Haushalt zurückbleibt und
+mindestens eine berücksichtigungsfähige Person, die das vierte Lebensjahr noch nicht vollendet hat, im Haushalt zurückbleibt und
 
 3.  
 die Behandlung wenigstens zwei Übernachtungen erfordert.
 
 (2) Im Geburtsfall sind die Aufwendungen für eine Familien- und Haushaltshilfe auch dann beihilfefähig, wenn eine sachgemäße ärztliche Versorgung am Dienstort nicht gewährleistet ist und der Dienstort wegen späterer Fluguntauglichkeit vorzeitig verlassen werden muss. Maßgeblich ist die ärztlich festgestellte notwendige Abwesenheitsdauer.
 
-(3) Werden statt der Inanspruchnahme einer Familien- und Haushaltshilfe Kinder unter vier Jahren beim Verlassen des Dienstortes mitgenommen, sind die hierfür notwendigen Fahrtkosten beihilfefähig. Übernehmen die Ehegattin, der Ehegatte, die Lebenspartnerin, der Lebenspartner, die Eltern oder die Kinder des die Familien- und Haushaltshilfe in Anspruch Nehmenden die Führung des Haushalts, sind die damit verbundenen Fahrtkosten bis zur Höhe der andernfalls für eine Familien- und Haushaltshilfe anfallenden Aufwendungen beihilfefähig.
+(3) Werden statt der Inanspruchnahme einer Familien- und Haushaltshilfe berücksichtigungsfähige Personen, die das vierte Lebensjahr noch nicht vollendet haben, beim Verlassen des Dienstortes mitgenommen, sind die hierfür notwendigen Fahrtkosten beihilfefähig. Übernehmen die Ehegattin, der Ehegatte, die Lebenspartnerin, der Lebenspartner, die Eltern oder die Kinder des die Familien- und Haushaltshilfe in Anspruch Nehmenden die Führung des Haushalts, sind die damit verbundenen Fahrtkosten bis zur Höhe der andernfalls für eine Familien- und Haushaltshilfe anfallenden Aufwendungen beihilfefähig.
 
 ### § 30 Soziotherapie
 
-Aufwendungen für Soziotherapie sind beihilfefähig, wenn die oder der Beihilfeberechtigte oder berücksichtigungsfähige Angehörige wegen einer schweren psychischen Erkrankung nicht in der Lage ist, ärztliche oder ärztlich verordnete Leistungen selbständig in Anspruch zu nehmen, und durch die Soziotherapie eine Krankenhausbehandlung vermieden oder verkürzt wird. Dies gilt auch, wenn die Krankenhausbehandlung geboten, aber nicht durchführbar ist. Inhalt und Ausgestaltung der Soziotherapie richten sich nach § 37a des Fünften Buches Sozialgesetzbuch.
+Aufwendungen für Soziotherapie sind beihilfefähig, wenn die beihilfeberechtigte oder berücksichtigungsfähige Person wegen einer schweren psychischen Erkrankung nicht in der Lage ist, ärztliche oder ärztlich verordnete Leistungen selbständig in Anspruch zu nehmen, und durch die Soziotherapie eine Krankenhausbehandlung vermieden oder verkürzt wird. Dies gilt auch, wenn die Krankenhausbehandlung geboten, aber nicht durchführbar ist. Inhalt und Ausgestaltung der Soziotherapie richten sich nach § 37a des Fünften Buches Sozialgesetzbuch.
+
+### § 30a Neuropsychologische Therapie
+
+(1) Aufwendungen für ambulante neuropsychologische Therapie sind beihilfefähig, wenn sie
+
+1.  
+der Behandlung akut erworbener Hirnschädigungen oder Hirnerkrankungen dienen, insbesondere nach Schlaganfall oder Schädel-Hirn-Trauma und
+
+2.  
+durchgeführt werden von Fachärztinnen oder Fachärzten
+
+a)  
+für Neurologie,
+
+b)  
+für Nervenheilkunde, Psychiatrie, Psychiatrie und Psychotherapie,
+
+c)  
+Kinder- und Jugendmedizin mit Schwerpunkt Neuropädiatrie oder
+
+d)  
+Neurochirurgie und Kinder- und Jugendpsychiatrie und -psychotherapie,
+
+die zusätzlich zu ihrer Gebietsbezeichnung über eine neuropsychologische Zusatzqualifikation verfügen.
+
+Satz 1 gilt auch bei Behandlungen, die durchgeführt werden von
+
+1.  
+ärztlichen Psychotherapeutinnen oder Psychotherapeuten,
+
+2.  
+psychologischen Psychotherapeutinnen oder Psychotherapeuten oder
+
+3.  
+Kinder- und Jugendpsychotherapeutinnen oder Psychotherapeuten,
+
+wenn diese über eine neuropsychologische Zusatzqualifikation verfügen. Der Umfang der beihilfefähigen Aufwendungen richtet sich nach Absatz 3.
+
+(2) Nicht beihilfefähig sind Aufwendungen für eine ambulante neuropsychologische Therapie, wenn
+
+1.  
+ausschließlich angeborene Einschränkungen oder Behinderungen der Hirnleistungsfunktionen ohne sekundäre organische Hirnschädigung behandelt werden, insbesondere Aufmerksamkeitsdefizit-Syndrom mit oder ohne Hyperaktivität (ADHS oder ADS), Intelligenzminderung,
+
+2.  
+es sich um Hirnerkrankungen mit progredientem Verlauf im fortgeschrittenen Stadium, insbesondere mittel- und hochgradige Demenz vom Alzheimertyp, handelt,
+
+3.  
+die Hirnschädigung oder die Hirnerkrankung mit neuropsychologischen Defiziten bei erwachsenen Patientinnen und Patienten länger als fünf Jahre zurückliegt.
+
+(3) Aufwendungen für neuropsychologische Behandlungen sind in folgendem Umfang beihilfefähig:
+
+1.  
+bis zu fünf probatorische Sitzungen sowie
+
+2.  
+bei Einzelbehandlung, gegebenenfalls unter Einbeziehung von Bezugspersonen
+
+wenn eine
+Behandlungseinheit mindestens
+25 Minuten dauert
+
+wenn eine
+Behandlungseinheit mindestens
+50 Minuten dauert
+
+Regelfall
+
+120 Behandlungseinheiten
+
+60 Behandlungseinheiten
+
+Ausnahmefall
+
+40 weitere Behandlungseinheiten
+
+20 weitere Behandlungseinheiten
+
+3.  
+bei Gruppenbehandlung, bei Kindern und Jugendlichen gegebenenfalls unter Einbeziehung von Bezugspersonen
+
+wenn eine
+Behandlungseinheit
+mindestens
+50 Minuten dauert
+
+wenn eine
+Behandlungseinheit
+mindestens
+100 Minuten dauert
+
+80 Behandlungs-
+einheiten
+
+40 Behandlungs-
+einheiten
+
+Bei einer Kombination von Einzel- und Gruppenbehandlung ist die gesamte Behandlung nach Satz 1 Nummer 2 beihilfefähig.
 
 ### § 31 Fahrtkosten
 
-(1) Aufwendungen für Rettungsfahrten zum Krankenhaus sind beihilfefähig, auch wenn eine stationäre Behandlung nicht erforderlich ist.
+(1) Aufwendungen für Rettungsfahrten und -flüge sind beihilfefähig, auch wenn eine stationäre Behandlung nicht erforderlich ist.
 
 (2) Beihilfefähig sind Aufwendungen für ärztlich verordnete Fahrten
 
@@ -1210,7 +1364,7 @@ anlässlich einer ambulanten Operation im Krankenhaus oder in der Arztpraxis ein
 zum Krankentransport, wenn während der Fahrt eine fachliche Betreuung oder die Nutzung der besonderen Einrichtungen eines Krankenkraftwagens erforderlich ist, und
 
 7.  
-der Eltern anlässlich des Besuchs ihres stationär untergebrachten Kindes oder Jugendlichen in begründeten Ausnahmefällen.
+der Eltern anlässlich des Besuchs ihres stationär untergebrachten Kindes, das das 18. Lebensjahr noch nicht vollendet hat, in begründeten Ausnahmefällen.
 
 (3) Nicht beihilfefähig sind
 
@@ -1218,25 +1372,27 @@ der Eltern anlässlich des Besuchs ihres stationär untergebrachten Kindes oder 
 Kosten der Rückbeförderung wegen Erkrankung während einer Urlaubsreise oder anderer privater Reisen sowie
 
 2.  
-Fahrtkosten einschließlich Flugkosten anlässlich von Behandlungen außerhalb der Europäischen Union. Ausnahmen sind zulässig, soweit sie aus zwingenden medizinischen Gründen im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes erforderlich sind. Die Festsetzungsstelle entscheidet in Fällen des Satzes 2 im Einvernehmen mit der obersten Dienstbehörde. Die oberste Dienstbehörde hat vor ihrer Zustimmung das Einvernehmen mit dem Bundesministerium des Innern herzustellen.
+Fahrtkosten einschließlich Flugkosten anlässlich von Untersuchungen und Behandlungen außerhalb der Europäischen Union.
+
+Kosten nach Satz 1 Nummer 2 sind ausnahmsweise beihilfefähig, wenn zwingende medizinische Gründe im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes vorliegen. Die Festsetzungsstelle entscheidet in Fällen des Satzes 2 mit Zustimmung der obersten Dienstbehörde. Die Erteilung der Zustimmung bedarf des Einvernehmens des Bundesministeriums des Innern.
 
 (4) Für die Erstattung von Fahrtkosten gilt das Bundesreisekostengesetz entsprechend mit der Maßgabe, dass Wegstreckenentschädigung nur nach § 5 Abs. 1 des Bundesreisekostengesetzes gewährt wird. Bei Fahrten nach den Absätzen 1 und 2 Nr. 6 sind die nach jeweiligem Landes- oder Kommunalrecht berechneten Beträge beihilfefähig.
 
-(5) Ist für Beihilfeberechtigte nach § 3 und ihre berücksichtigungsfähigen Angehörigen in Krankheits- oder Geburtsfällen eine notwendige medizinische Versorgung im Gastland nicht gewährleistet, sind die Kosten der Beförderung zum nächstgelegenen geeigneten Behandlungsort beihilfefähig, wenn
+(5) Ist für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, in Krankheits- oder Geburtsfällen eine notwendige medizinische Versorgung im Gastland nicht gewährleistet, sind die Kosten der Beförderung zum nächstgelegenen geeigneten Behandlungsort beihilfefähig, wenn
 
 1.  
 eine sofortige Behandlung geboten war oder
 
 2.  
-die Festsetzungsstelle die Beihilfefähigkeit dieser Aufwendungen vorher dem Grunde nach anerkannt hat. In begründeten Ausnahmefällen kann die Anerkennung nachträglich erfolgen.
+die Festsetzungsstelle die Beihilfefähigkeit dieser Aufwendungen vorher dem Grunde nach anerkannt hat; in begründeten Ausnahmefällen kann die Anerkennung nachträglich erfolgen.
 
 ### § 32 Unterkunftskosten
 
-(1) Aufwendungen für Unterkunft anlässlich notwendiger auswärtiger ambulanter ärztlicher, zahnärztlicher und psychotherapeutischer Leistungen sind bis zur Höhe von 150 Prozent der Sätze nach § 7 Abs. 1 Satz 1 des Bundesreisekostengesetzes beihilfefähig. Ist eine Begleitperson medizinisch erforderlich, sind Aufwendungen für deren Unterkunft in gleicher Höhe beihilfefähig.
+(1) Aufwendungen für die Unterkunft anlässlich notwendiger auswärtiger ambulanter ärztlicher, zahnärztlicher oder psychotherapeutischer Leistungen sind bis 150 Prozent des Betrags nach § 7 Absatz 1 Satz 1 des Bundesreisekostengesetzes beihilfefähig. Ist eine Begleitperson medizinisch erforderlich, sind Aufwendungen für deren Unterkunft in gleicher Höhe beihilfefähig.
 
 (2) Werden ärztlich verordnete Heilmittel in einer Einrichtung verabreicht, die der Betreuung und der Behandlung von Kranken oder Behinderten dient, sind auch Pauschalen beihilfefähig. Dies gilt auch, wenn die Pauschalen einen Verpflegungsanteil enthalten.
 
-(3) Aufwendungen nach den Absätzen 1 und 2 sind für Beihilfeberechtigte nach § 3 und ihre berücksichtigungsfähigen Angehörigen auch beihilfefähig für notwendige ambulante ärztliche, zahnärztliche und psychotherapeutische Leistungen außerhalb des Gastlandes. Die Aufwendungen für eine Unterkunft im Ausland sind bis zu 150 Prozent der Höhe der Auslandsübernachtungsgeldsätze nach der Anlage zur Auslandsreisekostenverordnung beihilfefähig.
+(3) Aufwendungen nach den Absätzen 1 und 2 sind bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, auch dann beihilfefähig, wenn sie außerhalb des Gastlandes erbracht werden. Aufwendungen für eine Unterkunft im Ausland sind bis zur Höhe von 150 Prozent des Auslandsübernachtungsgelds (§ 3 Absatz 1 der Auslandsreisekostenverordnung) beihilfefähig.
 
 ### § 33 Lebensbedrohliche oder regelmäßig tödlich verlaufende Krankheiten
 
@@ -1249,29 +1405,29 @@ Abschnitt 3 Rehabilitation
 
 ### § 34 Anschlussheil- und Suchtbehandlungen
 
-(1) Aufwendungen für ärztlich verordnete Anschlussheilbehandlungen, die als medizinische Rehabilitationsmaßnahmen durchgeführt werden, sind beihilfefähig. Eine Anschlussheilbehandlung im Sinne des Satzes 1 liegt vor, wenn sich die Rehabilitationsmaßnahme an einen Krankenhausaufenthalt zur Behandlung einer schwerwiegenden Erkrankung anschließt oder im Zusammenhang mit einer Krankenhausbehandlung steht. In Ausnahmefällen liegt eine Anschlussheilbehandlung im Sinne des Satzes 1 auch vor, wenn die Rehabilitationsmaßnahme nach einer ambulanten Behandlung erfolgt, die im Zusammenhang mit einer vorangegangenen Krankenhausbehandlung stand.
+(1) Aufwendungen für ärztlich verordnete Anschlussheilbehandlungen, die als medizinische Rehabilitationsmaßnahmen durchgeführt werden, sind beihilfefähig. Eine Anschlussheilbehandlung im Sinne des Satzes 1 liegt vor, wenn sich die Rehabilitationsmaßnahme an einen Krankenhausaufenthalt zur Behandlung einer schwerwiegenden Erkrankung anschließt oder im Zusammenhang mit einer Krankenhausbehandlung steht. In Ausnahmefällen liegt eine Anschlussheilbehandlung im Sinne des Satzes 1 auch vor, wenn die Rehabilitationsmaßnahme nach einer ambulanten Behandlung erfolgt.
 
 (2) Aufwendungen für ärztlich verordnete Suchtbehandlungen, die als medizinische Rehabilitationsmaßnahmen oder Entwöhnungen durchgeführt werden, sind beihilfefähig. Aufwendungen für die ambulante Nachsorge nach einer stationären Entwöhnungsbehandlung sind in angemessener Höhe beihilfefähig.
 
-(3) Die Beihilfefähigkeit nach den Absätzen 1 und 2 setzt voraus, dass die dort genannten ärztlichen Verordnungen die Rehabilitationsmaßnahme jeweils nach Art, Dauer und Inhalt begründet haben und nicht von der Einrichtung stammen, bei der die jeweilige Rehabilitationsmaßnahme durchgeführt wird. Die Einrichtung muss für die Durchführung der Anschlussheil- oder Suchtbehandlung geeignet sein. Maßnahmen nach Absatz 2 sind nur nach Zustimmung durch die Festsetzungsstelle beihilfefähig. In begründeten Ausnahmefällen kann die Zustimmung nachträglich erfolgen.
+(3) Die Beihilfefähigkeit nach den Absätzen 1 und 2 setzt voraus, dass die ärztliche Verordnung die Rehabilitationsmaßnahme jeweils nach Art, Dauer und Inhalt begründet. Die Einrichtung muss für die Durchführung der Anschlussheil- oder Suchtbehandlung geeignet sein. Maßnahmen nach Absatz 2 sind nur nach Zustimmung durch die Festsetzungsstelle beihilfefähig. In begründeten Ausnahmefällen kann die Zustimmung nachträglich erfolgen.
 
-(4) § 31 Absatz 2 sowie § 35 Absatz 2 Satz 1 und 2 Nummer 1 bis 4 und 5 Buchstabe a und b gelten entsprechend ohne die zeitliche Begrenzung des Satzes 2 Nummer 5 Buchstabe a und b auf 21 Tage.
+(4) § 26 Absatz 1 Nummer 3, § 31 Absatz 2 sowie § 35 Absatz 2 Satz 1 und 2 Nummer 1 bis 4 und 5 Buchstabe a und b gelten entsprechend ohne die zeitliche Begrenzung des Satzes 2 Nummer 5 Buchstabe a und b auf 21 Tage.
 
 ### § 35 Rehabilitationsmaßnahmen
 
 (1) Beihilfefähig sind Aufwendungen für
 
 1.  
-stationäre Rehabilitationsmaßnahmen in Krankenhäusern und Einrichtungen, die unter ärztlicher Leitung stehen und besondere Heilbehandlungen durchführen, beispielsweise mit Mitteln physikalischer und diätetischer Therapie, soweit die dafür erforderliche Ausstattung und das Pflegepersonal vorhanden sind,
+stationäre Rehabilitationsmaßnahmen in Vorsorge- oder Rehabilitationseinrichtungen, mit denen ein Versorgungsvertrag nach § 111 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch besteht,
 
 2.  
-Mutter-Kind- oder Vater-Kind-Rehabilitationsmaßnahmen in Einrichtungen des Müttergenesungswerks oder einer gleichartigen Einrichtung,
+Mutter-Kind- oder Vater-Kind-Rehabilitationsmaßnahmen in Vorsorge- oder Rehabilitationseinrichtungen, mit denen ein Versorgungsvertrag nach § 111a des Fünften Buches Sozialgesetzbuch besteht,
 
 3.  
 ärztlich verordnete familienorientierte Rehabilitation für berücksichtigungsfähige Kinder, die an schweren chronischen Erkrankungen, insbesondere Krebserkrankungen oder Mukoviszidose, leiden oder deren Zustand nach Operationen am Herzen oder nach Organtransplantationen eine solche Maßnahme erfordert,
 
 4.  
-ambulante Rehabilitationsmaßnahmen in einem anerkannten Kurort zur Wiederherstellung oder Erhaltung der Dienstfähigkeit sowie zur Verhütung oder Vermeidung von Krankheiten oder deren Verschlimmerung für Beihilfeberechtigte nach § 2 Abs. 1 Nr. 1,
+ambulante Rehabilitationsmaßnahmen unter ärztlicher Leitung nach einem Rehabilitationsplan in einem anerkannten Kurort zur Wiederherstellung oder Erhaltung der Dienstfähigkeit sowie zur Verhütung oder Vermeidung von Krankheiten oder deren Verschlimmerung für beihilfeberechtigte Personen nach § 2 Abs. 1 Nr. 1,
 
 5.  
 ärztlich verordnete ambulante Rehabilitationsmaßnahmen in Rehabilitationseinrichtungen oder durch wohnortnahe Einrichtungen und
@@ -1282,7 +1438,7 @@ ambulante Rehabilitationsmaßnahmen in einem anerkannten Kurort zur Wiederherste
 (2) Für Rehabilitationsmaßnahmen nach Absatz 1 sind Aufwendungen nach den §§ 12, 13, 18 und 22 bis 25 und 26 Abs. 1 Nr. 3 beihilfefähig. Daneben sind bei Leistungen nach Absatz 1 Nr. 1 bis 4 beihilfefähig:
 
 1.  
-Fahrtkosten für die An- und Abreise
+Fahrtkosten für die An- und Abreise einschließlich Gepäckbeförderungskosten
 
 a)  
 mit regelmäßig verkehrenden Beförderungsmitteln in Höhe der tatsächlichen Aufwendungen bis zu den in der niedrigsten Klasse anfallenden Kosten und
@@ -1293,7 +1449,7 @@ mit privaten Kraftfahrzeugen in entsprechender Anwendung des § 5 Abs. 1 des Bun
 insgesamt jedoch nicht mehr als 200 Euro für die Gesamtmaßnahme,
 
 2.  
-Aufwendungen durch ärztliche Bescheinigung als medizinisch notwendig anerkannter Begleitpersonen,
+Aufwendungen und nachgewiesener Verdienstausfall von Begleitpersonen, wenn die medizinische Notwendigkeit einer Begleitung ärztlich bescheinigt worden ist,
 
 3.  
 Aufwendungen für Kurtaxe, auch für die Begleitpersonen,
@@ -1305,19 +1461,19 @@ Aufwendungen für einen ärztlichen Schlussbericht,
 Aufwendungen für Unterkunft und Verpflegung
 
 a)  
-bei stationärer Rehabilitation einschließlich der pflegerischen Leistungen bis zur Höhe des niedrigsten Satzes der Einrichtung für höchstens 21 Tage (ohne Tage der An- und Abreise), es sei denn, eine Verlängerung ist aus gesundheitlichen Gründen dringend erforderlich,
+bei stationären Rehabilitationsmaßnahmen einschließlich der pflegerischen Leistungen bis zur Höhe des niedrigsten Satzes der Einrichtung für höchstens 21 Tage (ohne Tage der An- und Abreise), es sei denn, eine Verlängerung ist aus gesundheitlichen Gründen dringend erforderlich,
 
 b)  
-für Begleitpersonen bei stationärer Rehabilitation für höchstens 21 Tage (ohne Tage der An- und Abreise) 70 Prozent des niedrigsten Satzes, es sei denn, eine Verlängerung ist aus gesundheitlichen Gründen der oder des Begleiteten dringend erforderlich,
+für Begleitpersonen bei stationären Rehabilitationsmaßnahmen für höchstens 21 Tage (ohne Tage der An- und Abreise) 70 Prozent des niedrigsten Satzes, es sei denn, eine Verlängerung ist aus gesundheitlichen Gründen der oder des Begleiteten dringend erforderlich,
 
 c)  
 bei Mutter-Kind- oder Vater-Kind-Rehabilitationsmaßnahmen für höchstens 21 Tage (ohne Tage der An- und Abreise) in Höhe der Entgelte, die die Einrichtung einem Sozialleistungsträger in Rechnung stellt,
 
 d)  
-bei ambulanten Maßnahmen in Höhe von 16 Euro täglich für höchstens 21 Tage (ohne Tage der An- und Abreise) und
+bei ambulanten Rehabilitationsmaßnahmen nach Absatz 1 Nummer 4 in Höhe von 16 Euro täglich für höchstens 21 Tage (ohne Tage der An- und Abreise) und
 
 e)  
-der Begleitpersonen bei ambulanten Maßnahmen in Höhe von 13 Euro täglich für höchstens 21 Tage (ohne Tage der An- und Abreise).
+der Begleitpersonen bei ambulanten Rehabilitationsmaßnahmen nach Absatz 1 Nummer 4 in Höhe von 13 Euro täglich für höchstens 21 Tage (ohne Tage der An- und Abreise).
 
 Bei Leistungen nach Absatz 1 Nummer 5 gilt Satz 2 Nummer 1 entsprechend. Aufwendungen für Leistungen nach Absatz 1 Nr. 6 sind bis zur Höhe von 6,20 Euro je Übungseinheit beihilfefähig.
 
@@ -1334,48 +1490,64 @@ eine ambulante ärztliche Behandlung und die Anwendung von Heilmitteln am Wohnor
 3.  
 bei stationären Rehabilitationsmaßnahmen nach § 35 Abs. 1 Nr. 1 ein gleichwertiger Erfolg nicht auch durch eine ambulante Rehabilitationsmaßnahme nach § 35 Abs. 1 Nr. 4 erzielt werden kann.
 
-Wird die Rehabilitationsmaßnahme nicht innerhalb von vier Monaten nach Anerkennung begonnen, entfällt der Anspruch auf Beihilfe zu der anerkannten Rehabilitationsmaßnahme. In begründeten Ausnahmefällen kann die Anerkennung auch nachträglich erfolgen.
+Für die Anerkennung einer Rehabilitationsmaßnahme nach § 35 Absatz 1 Nummer 1 ist ein Gutachten nicht notwendig, wenn die beihilfeberechtigte oder berücksichtigungsfähige Person mit der Mitteilung der Entscheidung über die Pflegebedürftigkeit eine Rehabilitationsempfehlung erhalten hat, aus der hervorgeht, dass die Durchführung einer solchen Rehabilitationsmaßnahme angezeigt ist. Wird die Rehabilitationsmaßnahme nicht innerhalb von vier Monaten nach Anerkennung begonnen, entfällt der Anspruch auf Beihilfe zu der anerkannten Rehabilitationsmaßnahme. In begründeten Ausnahmefällen kann die Anerkennung auch nachträglich erfolgen.
 
 (2) Die Anerkennung von Rehabilitationsmaßnahmen nach Absatz 1 ist nicht zulässig, wenn im laufenden oder den drei vorherigen Kalenderjahren eine als beihilfefähig anerkannte Rehabilitationsmaßnahme nach Absatz 1 durchgeführt wurde, es sei denn, nach dem Gutachten ist aus medizinischen Gründen eine Rehabilitationsmaßnahme nach Absatz 1 in einem kürzeren Zeitabstand dringend notwendig.
 
-(3) Für Beihilfeberechtigte nach § 3 und ihre berücksichtigungsfähigen Angehörigen sind Aufwendungen für eine Rehabilitationsmaßnahme im Sinne des § 35 Abs. 1 Nr. 1 in einer ausländischen Einrichtung außerhalb der Europäischen Union auch beihilfefähig, wenn vor Beginn der Maßnahme die oder der von der Festsetzungsstelle beauftragte Ärztin oder Arzt die Einrichtung für geeignet erklärt hat und die stationäre Rehabilitationsmaßnahme nicht in einem Staat der Europäischen Union durchgeführt werden kann. Dem Antrag auf Anerkennung der Beihilfefähigkeit sind Unterlagen über die in Aussicht genommene Einrichtung beizufügen. Wird eine Rehabilitationsmaßnahme nach § 35 Abs. 1 Nr. 1 bis 4 in einem Staat der Europäischen Union durchgeführt, sind die Beförderungskosten zwischen dem Auslandsdienstort und dem Behandlungsort beihilfefähig, wenn die An- und Abreise nicht mit einer Heimaturlaubsreise oder einer anderen amtlich bezahlten Reise verbunden werden kann. Dies gilt auch, wenn eine Rehabilitationsmaßnahme aufgrund der in § 9 Abs. 1 erwähnten Rechtsvorschriften oder arbeitsvertraglichen Vereinbarungen gewährt wird, soweit der Kostenträger Fahrtkosten für die Abreise vom und die Anreise zum Auslandsdienstort nicht übernimmt und die Festsetzungsstelle die Beihilfefähigkeit der Fahrtkosten vorher dem Grunde nach anerkannt hat.
+(3) Für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, sind Aufwendungen für eine Rehabilitationsmaßnahme im Sinne des § 35 Abs. 1 Nr. 1 in einer ausländischen Einrichtung außerhalb der Europäischen Union auch beihilfefähig, wenn vor Beginn der Maßnahme die oder der von der Festsetzungsstelle beauftragte Ärztin oder Arzt die Einrichtung für geeignet erklärt hat und die stationäre Rehabilitationsmaßnahme nicht in einem Staat der Europäischen Union durchgeführt werden kann. Dem Antrag auf Anerkennung der Beihilfefähigkeit sind Unterlagen über die in Aussicht genommene Einrichtung beizufügen. Wird eine Rehabilitationsmaßnahme nach § 35 Abs. 1 Nr. 1 bis 4 in einem Staat der Europäischen Union durchgeführt, sind die Beförderungskosten zwischen dem Auslandsdienstort und dem Behandlungsort beihilfefähig, wenn die An- und Abreise nicht mit einer Heimaturlaubsreise oder einer anderen amtlich bezahlten Reise verbunden werden kann. Dies gilt auch, wenn eine Rehabilitationsmaßnahme aufgrund der in § 9 Abs. 1 erwähnten Rechtsvorschriften oder arbeitsvertraglichen Vereinbarungen gewährt wird, soweit der Kostenträger Fahrtkosten für die Abreise vom und die Anreise zum Auslandsdienstort nicht übernimmt und die Festsetzungsstelle die Beihilfefähigkeit der Fahrtkosten vorher dem Grunde nach anerkannt hat.
 
 Kapitel 3 Aufwendungen in Pflegefällen
 --------------------------------------
 
 ### 
 
-### § 37 Grundsatz
+### § 37 Pflegeberatung, Anspruch auf Beihilfe für Pflegeleistungen
 
-(1) Die Festsetzungsstelle beteiligt sich an den Kosten der Träger für eine Pflegeberatung nach § 7a des Elften Buches Sozialgesetzbuch, wenn Beihilfeberechtigte und berücksichtigungsfähige Angehörige Leistungen der Pflegeversicherung
+(1) Der Bund beteiligt sich an den personenbezogenen Kosten der Träger für eine Pflegeberatung nach § 7a des Elften Buches Sozialgesetzbuch, wenn
 
 1.  
+beihilfeberechtigte und berücksichtigungsfähige Personen Leistungen der Pflegeversicherung
+
+a)  
 beziehen oder
 
-2.  
-beantragt haben und erkennbar Hilfe- und Beratungsbedarf besteht.
+b)  
+beantragt haben und erkennbar Hilfe- und Beratungsbedarf besteht und
 
-(2) Pflegebedürftige im Sinne des § 14 des Elften Buches Sozialgesetzbuch erhalten Beihilfe zu Pflegeleistungen, sobald die Voraussetzungen für die Zuordnung zu einer Pflegestufe nach § 15 des Elften Buches Sozialgesetzbuch erfüllt sind. Pflegebedürftige, die die Voraussetzungen des § 45a des Elften Buches Sozialgesetzbuch erfüllen, erhalten auch Beihilfe zu den Aufwendungen für Betreuungsleistungen nach § 45b des Elften Buches Sozialgesetzbuch.
+2.  
+eine entsprechende Vereinbarung des Bundes und den Trägern der Pflegeberatung nach § 7a des Elften Buches Sozialgesetzbuch besteht.
+
+Der von der Festsetzungsstelle zu zahlende Betrag wird durch Rundschreiben des Bundesministeriums des Innern bekanntgegeben.
+
+(2) Beihilfeberechtigte und berücksichtigungsfähige Personen erhalten Beihilfe zu Pflegeleistungen, wenn sie
+
+1.  
+pflegebedürftig im Sinne des § 14 des Elften Buches Sozialgesetzbuch sind und sie die Voraussetzungen für die Zuordnung zu einer Pflegestufe nach § 15 des Elften Buches Sozialgesetzbuch erfüllen, nach Maßgabe der §§ 38 und 39 oder
+
+2.  
+die Voraussetzungen des § 45a des Elften Buches Sozialgesetzbuch erfüllen, nach Maßgabe des § 38 Absatz 8 und 9.
 
 ### § 38 Häusliche Pflege, Tagespflege und Nachtpflege
 
-(1) Aufwendungen für häusliche Pflegehilfe sind in Höhe der in § 36 Abs. 3 des Elften Buches Sozialgesetzbuch genannten Sätze beihilfefähig, soweit sie die in § 14 Abs. 4 des Elften Buches Sozialgesetzbuch genannten Verrichtungen zur Sicherstellung der Grundpflege und zur hauswirtschaftlichen Versorgung sowie die Betreuungsleistungen nach § 36 Absatz 1 Satz 5 des Elften Buches Sozialgesetzbuch betreffen und für geeignete Pflegekräfte entstehen, die in einem Vertragsverhältnis zur Pflegekasse oder zu einer ambulanten Pflegeeinrichtung stehen, mit der die jeweilige Pflegekasse einen Versorgungsvertrag abgeschlossen hat. Ausgenommen sind dabei Aufwendungen für Leistungen nach Satz 1, soweit sie nach § 27 beihilfefähig sind. § 36 Abs. 4 Satz 1 des Elften Buches Sozialgesetzbuch gilt entsprechend.
+(1) Aufwendungen für häusliche Pflegehilfe sind in Höhe der in § 36 Abs. 3 des Elften Buches Sozialgesetzbuch genannten Sätze beihilfefähig, soweit sie die in § 14 Abs. 4 des Elften Buches Sozialgesetzbuch genannten Verrichtungen zur Sicherstellung der Grundpflege und zur hauswirtschaftlichen Versorgung sowie die Betreuungsleistungen nach § 36 Absatz 1 Satz 5 und § 124 Absatz 1 bis 3 des Elften Buches Sozialgesetzbuch betreffen und für geeignete Pflegekräfte entstehen, die in einem Vertragsverhältnis zur Pflegekasse oder zu einer ambulanten Pflegeeinrichtung stehen, mit der die jeweilige Pflegekasse einen Versorgungsvertrag abgeschlossen hat. Ausgenommen sind dabei Aufwendungen für Leistungen nach Satz 1, soweit sie nach § 27 beihilfefähig sind. § 36 Abs. 4 Satz 1 des Elften Buches Sozialgesetzbuch gilt entsprechend.
 
-(2) Anstelle der Beihilfe nach Absatz 1 kann auch eine Pauschalbeihilfe gewährt werden, soweit die häusliche Pflege durch andere als die in Absatz 1 Satz 1 genannten Pflegekräfte erfolgt. Die Höhe der Pauschalbeihilfe richtet sich dabei nach § 37 Abs. 1 des Elften Buches Sozialgesetzbuch. Ein aus der privaten oder der sozialen Pflegeversicherung zustehendes Pflegegeld und entsprechende Erstattungen oder Sachleistungen aufgrund sonstiger Rechtsvorschriften sind auf Pauschalbeihilfen anzurechnen. Für Personen, die nicht gegen das Risiko der Pflegebedürftigkeit versichert sind, werden die getätigten Aufwendungen im Rahmen der Pauschalbeihilfe zur Hälfte berücksichtigt. Pauschalbeihilfe wird nicht gewährt, soweit Anspruch auf Entschädigungsleistungen nach § 35 des Bundesversorgungsgesetzes besteht. Ein Anspruch auf Pflegepauschalen im Rahmen der Kriegsopferfürsorge nach § 26c des Bundesversorgungsgesetzes berühren die Gewährung von Pauschalbeihilfe nicht. Darüber hinaus sind Leistungen zur sozialen Sicherung der Pflegepersonen nach § 170 Abs. 1 Nr. 6 des Sechsten Buches Sozialgesetzbuch sowie die in § 44a des Elften Buches Sozialgesetzbuch genannten zusätzlichen Leistungen bei Pflegezeit beihilfefähig.
+(2) Anstelle der Beihilfe nach Absatz 1 kann auch eine Pauschalbeihilfe gewährt werden, soweit die häusliche Pflege durch andere als die in Absatz 1 Satz 1 genannten Pflegekräfte erfolgt. Die Höhe der Pauschalbeihilfe richtet sich dabei nach § 37 Abs. 1 des Elften Buches Sozialgesetzbuch. Ein aus der privaten oder der sozialen Pflegeversicherung zustehendes Pflegegeld und entsprechende Erstattungen oder Sachleistungen aufgrund sonstiger Rechtsvorschriften sind auf Pauschalbeihilfen anzurechnen. Für Personen, die nicht gegen das Risiko der Pflegebedürftigkeit versichert sind, werden die getätigten Aufwendungen im Rahmen der Pauschalbeihilfe zur Hälfte berücksichtigt. Pauschalbeihilfe wird nicht gewährt, soweit Anspruch auf Entschädigungsleistungen nach § 35 des Bundesversorgungsgesetzes besteht. Ein Anspruch auf Pflegepauschalen im Rahmen der Kriegsopferfürsorge nach § 26c des Bundesversorgungsgesetzes berühren die Gewährung von Pauschalbeihilfe nicht. Leistungen zur sozialen Sicherung der Pflegepersonen nach § 44 Absatz 1 des Elften Buches Sozialgesetzbuch sowie die in § 44a des Elften Buches Sozialgesetzbuch genannten zusätzlichen Leistungen bei Pflegezeit und das Pflegeunterstützungsgeld bei kurzzeitiger Arbeitsverhinderung einschließlich der damit verbundenen Leistungen zur sozialen Sicherung sind beihilfefähig.
 
-(3) Erfolgt die häusliche Pflegehilfe nach Absatz 1 nur teilweise durch eine der in Absatz 1 Satz 1 genannten Pflegekräfte, wird daneben anteilige Pauschalbeihilfe nach Absatz 2 gewährt. Die Pauschalbeihilfe wird um den Prozentsatz vermindert, zu dem Beihilfe nach Absatz 1 gewährt wird.
+(3) Erfolgt die häusliche Pflegehilfe nach Absatz 1 nur teilweise durch eine der in Absatz 1 Satz 1 genannten Pflegekräfte, wird daneben anteilige Pauschalbeihilfe nach Absatz 2 gewährt. Die Pauschalbeihilfe wird um den Prozentsatz vermindert, zu dem Beihilfe nach Absatz 1 gewährt wird. Während einer Verhinderungs- oder Kurzzeitpflege nach Absatz 7 wird jeweils für bis zu vier Wochen je Kalenderjahr die Hälfte der zuvor geleisteten Pauschalbeihilfe gewährt. Pflegebedürftige Personen in vollstationären Einrichtungen der Hilfe für behinderte Menschen erhalten ungeminderte Pauschalbeihilfe anteilig für die Tage, an denen sie sich in häuslicher Pflege befinden.
 
-(4) Sind die Voraussetzungen nach Absatz 2 nicht für einen vollen Kalendermonat erfüllt, ist die Pauschalbeihilfe um ein Dreißigstel für jeden nicht in Anspruch genommenen Tag zu mindern. Verstirbt die oder der Pflegebedürftige, wird die Pauschalbeihilfe bis zum Ende des Kalendermonats gewährt, in dem der Tod eingetreten ist.
+(4) Sind die Voraussetzungen nach Absatz 2 nicht für einen vollen Kalendermonat erfüllt, ist die Pauschalbeihilfe um ein Dreißigstel für jeden nicht in Anspruch genommenen Tag zu mindern. Während einer Verhinderungs- oder Kurzzeitpflege nach Absatz 7 wird jeweils für bis zu vier Wochen je Kalenderjahr die Hälfte der zuvor geleisteten Pauschalbeihilfe gewährt. Verstirbt die oder der Pflegebedürftige, wird die Pauschalbeihilfe bis zum Ende des Kalendermonats gewährt, in dem der Tod eingetreten ist.
 
-(5) Aufwendungen für teilstationäre Pflege in Einrichtungen der Tages- oder Nachtpflege sind nur beihilfefähig, wenn häusliche Pflege nicht in ausreichendem Umfang sichergestellt werden kann oder die teilstationäre Pflege zur Ergänzung oder Stärkung der häuslichen Pflege erforderlich ist. Die teilstationäre Pflege umfasst auch die notwendige Beförderung der oder des Pflegebedürftigen von der Wohnung zur Einrichtung der Tages- oder Nachtpflege und zurück. § 41 Abs. 2 des Elften Buches Sozialgesetzbuch gilt entsprechend. Pflegebedürftige können die beihilfefähigen Aufwendungen für die teilstationäre Pflege in Einrichtungen der Tages- oder Nachtpflege mit Aufwendungen für die häusliche Pflege nach Absatz 1 oder Absatz 2 nach ihrer Wahl kombinieren. § 41 Absatz 4 bis 6 des Elften Buches Sozialgesetzbuch gilt entsprechend.
+(5) Werden Leistungen nach den Absätzen 1 bis 3 in ambulant betreuten Wohngruppen erbracht, gilt § 38a des Elften Buches Sozialgesetzbuch entsprechend. Daneben sind die Kosten der Anschubfinanzierung zur Gründung ambulant betreuter Wohngruppen entsprechend § 45e des Elften Buches Sozialgesetzbuch beihilfefähig.
 
-(6) Bei Verhinderung der Pflegeperson und bei Kurzzeitpflege gelten die §§ 39 und 42 des Elften Buches Sozialgesetzbuch entsprechend.
+(6) Aufwendungen für teilstationäre Pflege in Einrichtungen der Tages- oder Nachtpflege sind beihilfefähig, wenn häusliche Pflege nicht in ausreichendem Umfang sichergestellt werden kann oder die teilstationäre Pflege zur Ergänzung oder Stärkung der häuslichen Pflege erforderlich ist. Die teilstationäre Pflege umfasst auch die notwendige Beförderung der oder des Pflegebedürftigen von der Wohnung zur Einrichtung der Tages- oder Nachtpflege und zurück. § 41 Abs. 2 des Elften Buches Sozialgesetzbuch gilt entsprechend. Aufwendungen für Leistungen der teilstationären Tages- und Nachtpflege sind neben den Aufwendungen nach den Absätzen 1 bis 3 beihilfefähig.
 
-(7) Beihilfeberechtigte und berücksichtigungsfähige Angehörige, die die Voraussetzungen des § 45a des Elften Buches Sozialgesetzbuch erfüllen, erhalten Beihilfe zu Aufwendungen für zusätzliche Betreuungsleistungen. § 45b des Elften Buches Sozialgesetzbuch gilt entsprechend. Wird der Höchstbetrag in einem Kalenderjahr nicht ausgeschöpft, kann der nicht verbrauchte Betrag in das folgende Kalenderhalbjahr übertragen werden.
+(7) Bei Verhinderung der Pflegeperson und bei Kurzzeitpflege gelten die §§ 39 und 42 des Elften Buches Sozialgesetzbuch entsprechend.
 
-(8) Beihilfe wird auch zu Aufwendungen für Beratungsbesuche im Sinne des § 37 Abs. 3 des Elften Buches Sozialgesetzbuch gewährt, soweit für den jeweiligen Beratungsbesuch Anspruch auf Zahlung eines Zuschusses durch die private oder soziale Pflegeversicherung besteht. § 37 Abs. 4 Satz 1 des Elften Buches Sozialgesetzbuch bleibt unberührt. Der Umfang der beihilfefähigen Aufwendungen bestimmt sich entsprechend § 37 Abs. 3 des Elften Buches Sozialgesetzbuch. § 37 Absatz 6 des Elften Buches Sozialgesetzbuch gilt entsprechend.
+(8) Beihilfeberechtigte und berücksichtigungsfähige Personen nach § 37 Absatz 2 Nummer 2 mit oder ohne Zuordnung zu einer Pflegestufe nach § 15 des Elften Buches Sozialgesetzbuch erhalten Beihilfe entsprechend den §§ 45b, 123 Absatz 2 Nummer 1 bis 3, Absatz 3 und 4, § 124 Absatz 1 bis 3 des Elften Buches Sozialgesetzbuch, Absatz 10 sowie im Falle der Verhinderung der Pflegeperson nach Absatz 7. Für Pflegedürftige, die nicht die Voraussetzungen des § 45a des Elften Buches Sozialgesetzbuch erfüllen, sind zusätzliche Betreuungs- und Entlastungsleistungen nach § 45b Absatz 1 des Elften Buches Sozialgesetzbuch bis zu einem Betrag von 104 Euro monatlich beihilfefähig.
 
-(9) Beihilfe wird auch zu Aufwendungen für Pflegehilfsmittel nach § 40 Abs. 1 bis 3 und 5 des Elften Buches Sozialgesetzbuch und für Maßnahmen zur Verbesserung des individuellen Wohnumfelds der oder des Pflegebedürftigen nach § 40 Abs. 4 des Elften Buches Sozialgesetzbuch gewährt. Die Aufwendungen nach Satz 1 sind nur beihilfefähig, wenn auch ein Anspruch auf anteilige Zuschüsse für die jeweiligen Leistungen gegen die private oder soziale Pflegeversicherung besteht. Bei privater Pflegeversicherung ist der Aufwendungsbetrag dem Grunde nach beihilfefähig, aus dem der anteilige Zuschuss berechnet wird.
+(9) Beihilfe wird auch zu Aufwendungen für Beratungsbesuche im Sinne des § 37 Abs. 3 des Elften Buches Sozialgesetzbuch gewährt, soweit für den jeweiligen Beratungsbesuch Anspruch auf Zahlung eines Zuschusses durch die private oder soziale Pflegeversicherung besteht. § 37 Abs. 4 Satz 1 des Elften Buches Sozialgesetzbuch bleibt unberührt. Der Umfang der beihilfefähigen Aufwendungen bestimmt sich entsprechend § 37 Abs. 3 des Elften Buches Sozialgesetzbuch. § 37 Absatz 6 des Elften Buches Sozialgesetzbuch gilt entsprechend.
+
+(10) Beihilfe wird auch zu Aufwendungen für Pflegehilfsmittel nach § 40 Abs. 1 bis 3 und 5 des Elften Buches Sozialgesetzbuch und für Maßnahmen zur Verbesserung des individuellen Wohnumfelds der pflegebedürftigen Person nach § 40 Abs. 4 des Elften Buches Sozialgesetzbuch gewährt. Die Aufwendungen nach Satz 1 sind nur beihilfefähig, wenn auch ein Anspruch auf anteilige Zuschüsse für die jeweiligen Leistungen gegen die private oder soziale Pflegeversicherung besteht. Bei privater Pflegeversicherung ist der Aufwendungsbetrag dem Grunde nach beihilfefähig, aus dem der anteilige Zuschuss berechnet wird.
 
 ### § 39 Vollstationäre Pflege
 
@@ -1395,34 +1567,34 @@ Aufwendungen für soziale Betreuung.
 (2) Aufwendungen für Pflegeleistungen, die über die nach Absatz 1 beihilfefähigen Aufwendungen hinausgehen, Verpflegung und Unterkunft einschließlich der Investitionskosten sind auf besonderen Antrag beihilfefähig, soweit die Pflegeeinrichtung monatlich abrechnet und von den durchschnittlichen monatlichen Einnahmen nach Absatz 3 nicht mindestens ein Betrag in Höhe der Summe der folgenden monatlichen Beträge verbleibt:
 
 1.  
-8 Prozent des Grundgehalts der Stufe 8 der Besoldungsgruppe A 13 für jede Beihilfeberechtigte, jeden Beihilfeberechtigten, jede berücksichtigungsfähige Angehörige, jeden berücksichtigungsfähigen Angehörigen, jede Ehegattin, jeden Ehegatten, jede Lebenspartnerin oder jeden Lebenspartner, für die oder den ein Anspruch nach Absatz 1 oder § 43 des Elften Buches Sozialgesetzbuch besteht,
+8 Prozent des Grundgehalts der Stufe 8 der Besoldungsgruppe A 13 für jede beihilfeberechtigte und jede berücksichtigungsfähige Person sowie für jede Ehegattin, jeden Ehegatten, jede Lebenspartnerin oder jeden Lebenspartner, für die oder den ein Anspruch nach Absatz 1 oder § 43 des Elften Buches Sozialgesetzbuch besteht,
 
 2.  
-30 Prozent des Grundgehalts der Stufe 8 der Besoldungsgruppe A 13 für eine Beihilfeberechtigte, einen Beihilfeberechtigten, eine Ehegattin, einen Ehegatten, eine Lebenspartnerin oder einen Lebenspartner, für die oder den kein Anspruch nach Absatz 1 oder nach § 43 des Elften Buches Sozialgesetzbuch besteht,
+30 Prozent des Grundgehalts der Stufe 8 der Besoldungsgruppe A 13 für eine beihilfeberechtigte Person sowie für eine Ehegattin, einen Ehegatten, eine Lebenspartnerin oder einen Lebenspartner, für die oder den kein Anspruch nach Absatz 1 oder nach § 43 des Elften Buches Sozialgesetzbuch besteht,
 
 3.  
 3 Prozent des Grundgehalts der Stufe 8 der Besoldungsgruppe A 13 für jedes berücksichtigungsfähige Kind, für das kein Anspruch auf Beihilfe nach Absatz 1 oder nach § 43 des Elften Buches Sozialgesetzbuch besteht, und
 
 4.  
-3 Prozent des Grundgehalts der letzten Besoldungsgruppe für die Beihilfeberechtigte oder den Beihilfeberechtigten.
+3 Prozent des Grundgehalts der letzten Besoldungsgruppe für die beihilfeberechtigte Person.
 
-Satz 1 gilt bei anderen Abrechnungszeiträumen entsprechend. Satz 1 gilt nicht für Zusatzleistungen nach § 88 des Elften Buches Sozialgesetzbuch. Hat eine Beihilfeberechtigte, ein Beihilfeberechtigter, eine berücksichtigungsfähige Angehörige oder ein berücksichtigungsfähiger Angehöriger Anspruch auf Zuschuss zu den Unterkunfts-, Investitions- und Verpflegungskosten nach landesrechtlichen Vorschriften, sind die Aufwendungen nach Satz 1 in Höhe des tatsächlich gezahlten Zuschusses zu mindern.
+Satz 1 gilt bei anderen Abrechnungszeiträumen entsprechend. Satz 1 gilt nicht für Zusatzleistungen nach § 88 des Elften Buches Sozialgesetzbuch. Hat eine beihilfeberechtigte oder eine berücksichtigungsfähige Person Anspruch auf Zuschuss zu den Unterkunfts-, Investitions- und Verpflegungskosten nach landesrechtlichen Vorschriften, sind die Aufwendungen nach Satz 1 in Höhe des tatsächlich gezahlten Zuschusses zu mindern.
 
 (3) Als Einnahmen im Sinne des Absatzes 2 Satz 1 gelten die folgenden im Kalenderjahr vor der Antragstellung erzielten Einkünfte:
 
 1.  
-die nach Anwendung von Ruhens-, Kürzungs- und Anrechnungsvorschriften verbleibenden Bruttobezüge nach § 1 Absatz 2 Nummer 1 und 3 des Bundesbesoldungsgesetzes mit Ausnahme des kinderbezogenen Familienzuschlags und des Altersteilzeitzuschlags,
+die nach Anwendung von Ruhens-, Kürzungs- und Anrechnungsvorschriften verbleibenden Bruttobezüge nach § 1 Absatz 2 Nummer 1 und 3 und Absatz 3 des Bundesbesoldungsgesetzes und der Altersteilzeitzuschlag; ausgenommen ist der kinderbezogene Familienzuschlag,
 
 2.  
-die nach Anwendung von Ruhens-, Kürzungs- und Anrechnungsvorschriften verbleibenden Bruttobezüge nach § 2 des Beamtenversorgungsgesetzes mit Ausnahme des Unterschiedsbetrags nach § 50 Absatz 1 Satz 2 des Beamtenversorgungsgesetzes, soweit der oder dem Beihilfeberechtigten nicht nach § 57 des Beamtenversorgungsgesetzes geringere Versorgungsbezüge zustehen; der Unfallausgleich nach § 35 des Beamtenversorgungsgesetzes und die Unfallentschädigung nach § 43 des Beamtenversorgungsgesetzes sowie die Leistungen für Kindererziehung nach § 294 des Sechsten Buches Sozialgesetzbuch bleiben unberücksichtigt,
+die nach Anwendung von Ruhens-, Kürzungs- und Anrechnungsvorschriften verbleibenden Bruttobezüge nach § 2 des Beamtenversorgungsgesetzes mit Ausnahme des Unterschiedsbetrags nach § 50 Absatz 1 Satz 2 des Beamtenversorgungsgesetzes, soweit der beihilfeberechtigten Person nicht nach § 57 des Beamtenversorgungsgesetzes geringere Versorgungsbezüge zustehen; der Unfallausgleich nach § 35 des Beamtenversorgungsgesetzes und die Unfallentschädigung nach § 43 des Beamtenversorgungsgesetzes bleiben unberücksichtigt,
 
 3.  
-der Zahlbetrag der Renten aus der gesetzlichen Rentenversicherung und aus einer zusätzlichen Alters- und Hinterbliebenenversorgung der oder des Beihilfeberechtigten, der Ehegattin, des Ehegatten, der Lebenspartnerin oder des Lebenspartners; maßgeblich ist der Betrag, der sich vor Abzug der Beiträge zur Kranken- und Pflegeversicherung und ohne Berücksichtigung des Beitragszuschusses ergibt, sowie
+der Zahlbetrag der Renten aus der gesetzlichen Rentenversicherung und aus einer zusätzlichen Alters- und Hinterbliebenenversorgung der beihilfeberechtigten Person, der Ehegattin, des Ehegatten, der Lebenspartnerin oder des Lebenspartners; maßgeblich ist der Betrag, der sich vor Abzug der Beiträge zur Kranken- und Pflegeversicherung und ohne Berücksichtigung des Beitragszuschusses ergibt, dabei bleiben Leistungen der Kindererziehung nach § 294 des Sechsten Buches Sozialgesetzbuch unberücksichtigt sowie
 
 4.  
-der unter § 2 Absatz 3 des Einkommensteuergesetzes fallende Gesamtbetrag der Einkünfte der Ehegattin, des Ehegatten, der Lebenspartnerin oder des Lebenspartners.
+der unter § 2 Absatz 3 des Einkommensteuergesetzes fallende Gesamtbetrag der Einkünfte der Ehegattin, des Ehegatten, der Lebenspartnerin oder des Lebenspartners, ausgenommen der der Besteuerung unterliegende Anteil einer gesetzlichen Rente.
 
-Die Einnahmen sind jährlich nachzuweisen. Macht die oder der Beihilfeberechtigte glaubhaft, dass die Einnahmen im Jahr der Antragstellung voraussichtlich wesentlich geringer sind als im Kalenderjahr davor, sind die aktuellen Einnahmen zugrunde zu legen.
+Die Einnahmen sind jährlich nachzuweisen. Macht die beihilfeberechtigte Person glaubhaft, dass die Einnahmen im Jahr der Antragstellung voraussichtlich wesentlich geringer sind als im Kalenderjahr davor, sind die aktuellen Einnahmen zugrunde zu legen.
 
 (4) Beihilfefähig sind auch Aufwendungen für Pflege und Betreuung in einer vollstationären Einrichtung der Hilfe für behinderte Menschen, in der die Teilhabe am Arbeitsleben und am Leben in der Gemeinschaft, die schulische Ausbildung oder die Erziehung behinderter Menschen im Vordergrund des Einrichtungszwecks stehen. § 43a des Elften Buches Sozialgesetzbuch gilt entsprechend.
 
@@ -1436,6 +1608,8 @@ Die Einnahmen sind jährlich nachzuweisen. Macht die oder der Beihilfeberechtigt
 
 (2) Aufwendungen für stationäre oder teilstationäre Versorgung in Hospizen, in denen palliativ-medizinische Behandlung erbracht wird, sind nach Maßgabe einer ärztlichen Bescheinigung und in angemessener Höhe beihilfefähig, wenn eine ambulante Versorgung im eigenen Haushalt oder in der Familie nicht erbracht werden kann.
 
+(3) Der Bund beteiligt sich an den personenbezogenen Kosten ambulanter Hospizdienste für erbrachte Sterbebegleitung einschließlich palliativ-pflegerischer Beratung bei beihilfeberechtigten und berücksichtigungsfähigen Personen. Voraussetzung einer Kostenbeteiligung ist eine Vereinbarung zwischen dem Bund und den für die Wahrnehmung der Interessen der ambulanten Hospizdienste maßgeblichen Spitzenorganisationen. Der von der Festsetzungsstelle zu zahlende Betrag wird durch Rundschreiben des Bundesministeriums des Innern bekanntgegeben.
+
 Kapitel 4 Aufwendungen in anderen Fällen
 ----------------------------------------
 
@@ -1443,7 +1617,7 @@ Kapitel 4 Aufwendungen in anderen Fällen
 
 ### § 41 Früherkennungsuntersuchungen und Vorsorgemaßnahmen
 
-(1) Aufwendungen für Leistungen zur ärztlichen Früherkennung und Vorsorge im ärztlichen Bereich sind beihilfefähig. Die §§ 20d, 25 und 26 des Fünften Buches Sozialgesetzbuch gelten entsprechend. Daneben sind die in Anlage 13 aufgeführten Früherkennungsuntersuchungen, Vorsorgemaßnahmen und Schutzimpfungen beihilfefähig.
+(1) Aufwendungen für Leistungen zur ärztlichen Früherkennung und Vorsorge im ärztlichen Bereich sind beihilfefähig. Die §§ 20i, 25 und 26 des Fünften Buches Sozialgesetzbuch gelten entsprechend. Daneben sind die in Anlage 13 aufgeführten Früherkennungsuntersuchungen, Vorsorgemaßnahmen und Schutzimpfungen beihilfefähig.
 
 (2) Aufwendungen für Leistungen zur zahnärztlichen Früherkennung und Vorsorge sind beihilfefähig für
 
@@ -1456,16 +1630,18 @@ Maßnahmen zur Verhütung von Zahnerkrankungen (Individualprophylaxe) und
 3.  
 prophylaktische zahnärztliche Leistungen nach Abschnitt B und den Nummern 0010, 0070, 2000, 4050, 4055 und 4060 der Anlage zur Gebührenordnung für Zahnärzte und Nummer 1 der Anlage zur Gebührenordnung für Ärzte.
 
-(3) Das Bundesministerium des Innern kann die Beihilfefähigkeit von Aufwendungen für Maßnahmen zur Früherkennung, Überwachung und Verhütung von Erkrankungen, die nicht nach anderen Vorschriften dieser Verordnung beihilfefähig sind, in Verwaltungsvorschriften für diejenigen Fälle ausnahmsweise zulassen, in denen die Gewährung von Beihilfe im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes notwendig ist.
+(3) Aufwendungen für die Risikofeststellung und interdisziplinäre Beratung, Gendiagnostik und Früherkennung im Rahmen des Früherkennungsprogramms für erblich belastete Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko sind nur beihilfefähig, wenn die Leistung durch von der Deutschen Krebshilfe zugelassene Zentren und nach Maßgabe der Anlage 14 erbracht werden.
 
-(4) § 31 Abs. 5 in Verbindung mit § 49 Abs. 5 Nr. 3 gilt entsprechend.
+(4) Das Bundesministerium des Innern kann die Beihilfefähigkeit von Aufwendungen für Maßnahmen zur Früherkennung, Überwachung und Verhütung von Erkrankungen, die nicht nach anderen Vorschriften dieser Verordnung beihilfefähig sind, in Verwaltungsvorschriften für diejenigen Fälle ausnahmsweise zulassen, in denen die Gewährung von Beihilfe im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes notwendig ist.
+
+(5) § 31 Abs. 5 in Verbindung mit § 49 Absatz 4 Nummer 3 gilt entsprechend.
 
 ### § 42 Schwangerschaft und Geburt
 
 (1) Bei einer Schwangerschaft und in Geburtsfällen sind neben den Leistungen nach Kapitel 2 beihilfefähig Aufwendungen für
 
 1.  
-die Schwangerschaftsüberwachung,
+ärztliche Betreuung während der Schwangerschaft und nach der Entbindung,
 
 2.  
 die Hebamme oder den Entbindungspfleger,
@@ -1476,7 +1652,7 @@ von Hebammen oder Entbindungspflegern geleitete Einrichtungen im Sinne des § 13
 4.  
 eine Haus- und Wochenpflegekraft für bis zu zwei Wochen nach der Geburt bei Hausentbindungen oder ambulanten Entbindungen. § 27 Abs. 3 gilt entsprechend.
 
-(2) Bei Beihilfeberechtigten nach § 3 und ihren berücksichtigungsfähigen Angehörigen sind in Geburtsfällen zusätzlich die vor Aufnahme in ein Krankenhaus am Entbindungsort entstehenden Kosten der Unterkunft beihilfefähig. § 32 Abs. 3 Satz 2 gilt entsprechend. Dies gilt nicht für die Unterkunft im Haushalt des Ehegatten, der Lebenspartnerin, der Eltern oder der Kinder der Schwangeren.
+(2) Bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, sind in Geburtsfällen zusätzlich die vor Aufnahme in ein Krankenhaus am Entbindungsort entstehenden Kosten der Unterkunft beihilfefähig. § 32 Abs. 3 Satz 2 gilt entsprechend. Dies gilt nicht für die Unterkunft im Haushalt des Ehegatten, der Lebenspartnerin, der Eltern oder der Kinder der Schwangeren.
 
 ### § 43 Künstliche Befruchtung, Sterilisation, Empfängnisregelung und Schwangerschaftsabbruch
 
@@ -1484,15 +1660,17 @@ eine Haus- und Wochenpflegekraft für bis zu zwei Wochen nach der Geburt bei Hau
 
 (2) Aufwendungen für eine durch eine Ärztin oder einen Arzt vorgenommene Sterilisation sind beihilfefähig, wenn diese wegen einer Krankheit notwendig ist.
 
-(3) Aufwendungen für die ärztliche Beratung über Fragen der Empfängnisregelung einschließlich der hierfür notwendigen ärztlichen Untersuchungen und ärztlich verordnete empfängnisregelnde Mittel sind beihilfefähig. Aufwendungen für ärztlich verordnete Mittel zur Empfängnisverhütung sowie für deren Applikation sind nur bei Beihilfeberechtigten und berücksichtigungsfähigen Angehörigen bis zum vollendeten 20. Lebensjahr beihilfefähig, es sei denn, sie sind nach ärztlicher Bestätigung zur Behandlung einer Krankheit notwendig. Aufwendungen für allgemeine Sexualaufklärung oder Sexualberatung sind nicht beihilfefähig.
+(3) Aufwendungen für die ärztliche Beratung über Fragen der Empfängnisregelung einschließlich der hierfür notwendigen ärztlichen Untersuchungen und ärztlich verordnete empfängnisregelnde Mittel sind beihilfefähig. Aufwendungen für ärztlich verordnete Mittel zur Empfängnisverhütung sowie für deren Applikation sind nur bei beihilfeberechtigten und berücksichtigungsfähigen Personen bis zum vollendeten 20. Lebensjahr beihilfefähig, es sei denn, sie sind nach ärztlicher Bestätigung zur Behandlung einer Krankheit notwendig. Aufwendungen für allgemeine Sexualaufklärung oder Sexualberatung sind nicht beihilfefähig.
 
 (4) Für einen nicht rechtswidrigen Schwangerschaftsabbruch sind Aufwendungen nach den §§ 12, 22, 26, 28, 29, 31 und 32 beihilfefähig. Daneben sind auch die Aufwendungen für die ärztliche Beratung über die Erhaltung der Schwangerschaft und die ärztliche Untersuchung und Begutachtung zur Feststellung der Voraussetzungen eines nicht rechtswidrigen Schwangerschaftsabbruchs beihilfefähig.
 
-### § 44 Tod der oder des Beihilfeberechtigten
+### § 44 Überführungskosten
 
-Ist eine Beihilfeberechtigte oder ein Beihilfeberechtigter während einer Dienstreise, einer Abordnung oder vor einem dienstlich bedingten Umzug außerhalb des Ortes ihrer oder seiner Hauptwohnung nach § 12 Abs. 2 Satz 2 des Melderechtsrahmengesetzes verstorben, sind die Kosten der Überführung beihilfefähig. Für Beihilfeberechtigte nach § 3 sind die Kosten der Überführung in das Inland bis zum Beisetzungsort beihilfefähig. Der Bemessungssatz für die Überführungskosten beträgt 100 Prozent.
+(1) Ist eine beihilfeberechtigte Person während einer Dienstreise, Abordnung, Zuweisung oder vor einem dienstlich bedingten Umzug außerhalb des Ortes ihrer Hauptwohnung nach § 12 Absatz 2 Satz 2 des Melderechtsrahmengesetzes verstorben, so sind die Kosten der Überführung beihilfefähig.
 
-### § 45 Erste Hilfe, Entseuchung, Kommunikationshilfe und Organspende
+(2) Für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, sind die Kosten der Überführung in das Inland bis zum Beisetzungsort beihilfefähig. Liegt der Beisetzungsort nicht im Inland, so sind Aufwendungen bis zur Höhe der Überführungskosten, die für eine Überführung in das Inland entstanden wären, beihilfefähig.
+
+### § 45 Erste Hilfe, Entseuchung, Kommunikationshilfe, Organspende und klinisches Krebsregister
 
 (1) Beihilfefähig sind die Aufwendungen für
 
@@ -1503,13 +1681,33 @@ Erste Hilfe,
 eine behördlich angeordnete Entseuchung und die dabei verbrauchten Stoffe und
 
 3.  
-Kommunikationshilfen für gehörlose, hochgradig schwerhörige oder ertaubte Beihilfeberechtigte oder berücksichtigungsfähige Angehörige soweit die Kommunikationshilfen für den Erfolg beihilfefähiger Leistungen zur Kommunikation Beihilfeberechtigter oder berücksichtigungsfähiger Angehöriger mit den Leistungserbringerinnen oder Leistungserbringern im Einzelfall, insbesondere wegen der Komplexität der Kommunikation, erforderlich ist und im Verwaltungsverfahren das Recht auf Verwendung einer Kommunikationshilfe nach § 9 des Behindertengleichstellungsgesetzes bestünde.
+notwendige Kommunikationshilfen für gehörlose, hochgradig schwerhörige oder ertaubte beihilfeberechtigte oder berücksichtigungsfähige Personen bei medizinisch notwendiger ambulanter oder stationärer Untersuchung und Behandlung, bei Verabreichung von Heilmitteln, bei Versorgung mit Hilfsmitteln, Zahnersatzversorgung oder Pflegeleistungen, wenn in Verwaltungsverfahren das Recht auf Verwendung einer Kommunikationshilfe nach § 9 des Behindertengleichstellungsgesetzes bestünde.
 
-(2) Beihilfefähig sind Aufwendungen bei postmortalen Organspenden (Vermittlung, Entnahme, Versorgung und Transport des Organs sowie die Organisation für die Bereitstellung des postmortalen Organs zur Transplantation), soweit es sich bei den Organempfängern um Beihilfeberechtigte oder deren berücksichtigungsfähige Angehörige handelt.
+Die Notwendigkeit für den Einsatz einer Kommunikationshilfe ist gegeben, wenn im Einzelfall der Informationsfluss zwischen Leistungserbringerin oder Leistungserbringer und den beihilfeberechtigten oder berücksichtigungsfähigen Personen nur so gewährleistet werden kann.
 
-(3) Aufwendungen für eine Organspenderin oder einen Organspender sind entsprechend Kapitel 2 beihilfefähig, wenn die Organempfängerin oder der Organempfänger beihilfeberechtigt ist oder zu den berücksichtigungsfähigen Angehörigen zählt. Beihilfefähig ist auch der Ausfall von Arbeitseinkünften, der von der Organspenderin oder dem Organspender nachgewiesen wird oder von Personen, die als Organspenderin oder Organspender vorgesehen waren, aber nicht in Betracht kommen. Dem Arbeitgeber der Organspenderin oder des Organspenders wird auf Antrag das fortgezahlte Entgelt entsprechend des Bemessungssatzes der Organempfängerin oder des Organempfängers erstattet.
+(2) Beihilfefähig sind Aufwendungen bei postmortalen Organspenden für die Vermittlung, Entnahme, Versorgung, Organisation der Bereitstellung und den Transport des Organs zur Transplantation, soweit es sich bei den Organempfängern um beihilfeberechtigte oder berücksichtigungsfähige Personen handelt.
 
-(4) Aufwendungen für die Registrierung von Beihilfeberechtigten und berücksichtigungsfähigen Angehörigen für die Suche nach einer nicht verwandten Blutstammzellspenderin oder einem nicht verwandten Blutstammzellspender im Zentralen Knochenmarkspender-Register sind beihilfefähig.
+(3) Aufwendungen für eine Spenderin oder einen Spender von Organen, Geweben, Blutstammzellen oder anderen Blutbestandteilen sind entsprechend Kapitel 2 beihilfefähig, wenn die Empfängerin oder der Empfänger der Spende eine beihilfeberechtigte oder berücksichtigungsfähige Person ist. Beihilfefähig ist auch der nachgewiesene Ausfall von Arbeitseinkünften
+
+1.  
+der Spenderin oder des Spenders,
+
+2.  
+von Personen, die als Spenderin oder Spender vorgesehen waren, aber nicht in Betracht kommen.
+
+Dem Arbeitgeber der Spenderin oder des Spenders wird auf Antrag das fortgezahlte Entgelt entsprechend dem Bemessungssatz der Empfängerin oder des Empfängers erstattet.
+
+(4) Aufwendungen für die Registrierung von beihilfeberechtigten und berücksichtigungsfähigen Personen für die Suche nach einer nicht verwandten Blutstammzellspenderin oder einem nicht verwandten Blutstammzellspender im Zentralen Knochenmarkspender-Register sind beihilfefähig.
+
+(5) Der Bund beteiligt sich an den personenbezogenen Kosten der Krebsregistrierung beihilfeberechtigter und berücksichtigungsfähiger Personen unmittelbar gegenüber dem klinischen Krebsregister für jede
+
+1.  
+verarbeitete Meldung zur Neuerkrankung an einem Tumor nach § 65c Absatz 4 Satz 2 bis 4 und Absatz 5 Satz 1 des Fünften Buches Sozialgesetzbuch sowie
+
+2.  
+landesrechtlich vorgesehene Meldung der zu übermittelnden klinischen Daten an ein klinisches Krebsregister nach § 65c Absatz 6 Satz 1 des Fünften Buches Sozialgesetzbuch.
+
+Voraussetzung der Kostenbeteiligung ist eine Vereinbarung zwischen dem Bund und dem klinischen Krebsregister. Der von der Festsetzungsstelle zu zahlende Betrag wird durch Rundschreiben des Bundesministeriums des Innern bekanntgegeben.
 
 Kapitel 5 Umfang der Beihilfe
 -----------------------------
@@ -1518,23 +1716,23 @@ Kapitel 5 Umfang der Beihilfe
 
 ### § 46 Bemessung der Beihilfe
 
-(1) Beihilfe wird als prozentualer Anteil (Bemessungssatz) der beihilfefähigen Aufwendungen der Beihilfeberechtigten und ihrer berücksichtigungsfähigen Angehörigen gewährt. Maßgeblich ist der Bemessungssatz im Zeitpunkt der Leistungserbringung. In Pflegefällen können, soweit dies in dieser Verordnung ausdrücklich vorgesehen ist, auch Pauschalen gezahlt werden.
+(1) Beihilfe wird als prozentualer Anteil (Bemessungssatz) der beihilfefähigen Aufwendungen gewährt. Maßgeblich ist der Bemessungssatz im Zeitpunkt der Leistungserbringung. In Pflegefällen können, soweit dies in dieser Verordnung ausdrücklich vorgesehen ist, auch Pauschalen gezahlt werden.
 
 (2) Soweit Absatz 3 nichts anderes bestimmt, beträgt der Bemessungssatz für
 
 1.  
-Beihilfeberechtigte 50 Prozent,
+beihilfeberechtigte Personen 50 Prozent,
 
 2.  
 Empfängerinnen und Empfänger von Versorgungsbezügen mit Ausnahme der Waisen 70 Prozent,
 
 3.  
-berücksichtigungsfähige Ehegattinnen, Ehegatten, Lebenspartnerinnen und Lebenspartner 70 Prozent und
+berücksichtigungsfähige Personen nach § 4 Absatz 1 70 Prozent und
 
 4.  
 berücksichtigungsfähige Kinder sowie Waisen 80 Prozent.
 
-(3) Sind zwei oder mehr Kinder berücksichtigungsfähig, beträgt der Bemessungssatz für Beihilfeberechtigte 70 Prozent. Dies gilt bei mehreren Beihilfeberechtigten nur für diejenigen, die den Familienzuschlag nach § 40 des Bundesbesoldungsgesetzes oder den Auslandskinderzuschlag nach § 56 des Bundesbesoldungsgesetzes beziehen. § 5 Absatz 4 Satz 2 bis 4 gilt entsprechend. Satz 2 ist nur dann anzuwenden, wenn einer oder einem Beihilfeberechtigten nicht aus anderen Gründen bereits ein Bemessungssatz von 70 Prozent zusteht. Beihilfeberechtigte, die Elternzeit in Anspruch nehmen, erhalten während dieser Zeit den Bemessungssatz, der ihnen am Tag vor Beginn der Elternzeit zustand. Der Bemessungssatz für entpflichtete Hochschullehrerinnen und Hochschullehrer beträgt 70 Prozent, wenn ihnen sonst aufgrund einer nach § 5 nachrangigen Beihilfeberechtigung ein Bemessungssatz von 70 Prozent zustände.
+(3) Sind zwei oder mehr Kinder berücksichtigungsfähig, beträgt der Bemessungssatz für die beihilfeberechtigte Person 70 Prozent. Dies gilt bei mehreren beihilfeberechtigten Personen nur für diejenigen, die den Familienzuschlag nach den §§ 39 und 40 des Bundesbesoldungsgesetzes oder den Auslandszuschlag nach § 53 Absatz 4 Nummer 2 und 2a des Bundesbesoldungsgesetzes beziehen. § 5 Absatz 4 Satz 2 bis 4 gilt entsprechend. Satz 2 ist nur dann anzuwenden, wenn einer beihilfeberechtigten Person nicht aus anderen Gründen bereits ein Bemessungssatz von 70 Prozent zusteht. Beihilfeberechtigte Personen, die Elternzeit in Anspruch nehmen, erhalten während dieser Zeit den Bemessungssatz, der ihnen am Tag vor Beginn der Elternzeit zustand. Der Bemessungssatz für entpflichtete Hochschullehrerinnen und Hochschullehrer beträgt 70 Prozent, wenn ihnen sonst aufgrund einer nach § 5 nachrangigen Beihilfeberechtigung ein Bemessungssatz von 70 Prozent zustände.
 
 (4) Für Personen, die nach § 28 Abs. 2 des Elften Buches Sozialgesetzbuch Leistungen der Pflegeversicherung grundsätzlich zur Hälfte erhalten, beträgt der Bemessungssatz bezüglich dieser Aufwendungen 50 Prozent.
 
@@ -1542,25 +1740,33 @@ berücksichtigungsfähige Kinder sowie Waisen 80 Prozent.
 
 (1) Die oberste Dienstbehörde oder eine von ihr bestimmte Behörde kann im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes den Bemessungssatz für Aufwendungen anlässlich einer Dienstbeschädigung angemessen erhöhen, soweit nicht bereits Ansprüche nach dem Beamtenversorgungsgesetz bestehen.
 
-(2) Den Bemessungssatz von Versorgungsempfängerinnen, Versorgungsempfängern und ihren berücksichtigungsfähigen Angehörigen mit geringen Gesamteinkünften kann die oberste Dienstbehörde für höchstens drei Jahre um höchstens 10 Prozentpunkte erhöhen, wenn der Beitragsaufwand für eine beihilfekonforme private Krankenversicherung 15 Prozent der geringen Gesamteinkünfte übersteigt. Die geringen Gesamteinkünfte betragen 150 Prozent des Ruhegehalts nach § 14 Abs. 4 Satz 2 und 3 des Beamtenversorgungsgesetzes. Der Betrag erhöht sich um 255,65 Euro, wenn für die berücksichtigungsfähige Ehegattin, den berücksichtigungsfähigen Ehegatten, die berücksichtigungsfähige Lebenspartnerin oder den berücksichtigungsfähigen Lebenspartner ebenfalls Beiträge zur privaten Krankenversicherung gezahlt werden. Bei einer erneuten Antragstellung ist von den fiktiven Beiträgen zur Krankenversicherung auszugehen, die sich unter Zugrundelegung eines Bemessungssatzes nach § 46 ergeben würden.
+(2) Den Bemessungssatz von Versorgungsempfängerinnen, Versorgungsempfängern und berücksichtigungsfähigen Personen mit geringen Gesamteinkünften kann die oberste Dienstbehörde für höchstens drei Jahre um höchstens 10 Prozentpunkte erhöhen, wenn der Beitragsaufwand für eine beihilfekonforme private Krankenversicherung 15 Prozent ihrer oder seiner Gesamteinkünfte übersteigt. Die geringen Gesamteinkünfte betragen 150 Prozent des Ruhegehalts nach § 14 Abs. 4 Satz 2 und 3 des Beamtenversorgungsgesetzes. Der Betrag erhöht sich um 255,65 Euro, wenn für die berücksichtigungsfähige Person nach § 4 Absatz 1 ebenfalls Beiträge zur privaten Krankenversicherung gezahlt werden. Ein zu zahlender Versorgungsausgleich der Versorgungsempfängerin oder des Versorgungsempfängers mindert die anzurechnenden Gesamteinkünfte nicht. Bei einer erneuten Antragstellung ist von den fiktiven Beiträgen zur Krankenversicherung auszugehen, die sich unter Zugrundelegung eines Bemessungssatzes nach § 46 ergeben würden.
 
 (3) Die oberste Dienstbehörde kann den Bemessungssatz in weiteren besonderen Ausnahmefällen im Einvernehmen mit dem Bundesministerium des Innern angemessen erhöhen, wenn dies im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes zwingend geboten ist. Hierbei ist ein sehr strenger Maßstab anzulegen. Bei dauernder Pflegebedürftigkeit ist eine Erhöhung ausgeschlossen.
 
 (4) Für beihilfefähige Aufwendungen, für die trotz ausreichender und rechtzeitiger Versicherung aufgrund eines individuellen Ausschlusses wegen angeborener Leiden oder bestimmter Krankheiten keine Versicherungsleistungen gewährt werden oder für die die Leistungen auf Dauer eingestellt worden sind (Aussteuerung), erhöht sich der Bemessungssatz um 20 Prozentpunkte, jedoch höchstens auf 90 Prozent. Dies gilt nur, wenn das Versicherungsunternehmen die Bedingungen nach § 257 Abs. 2a Satz 1 Nr. 1 bis 4 des Fünften Buches Sozialgesetzbuch erfüllt.
 
-(5) Der Bemessungssatz erhöht sich für Beihilfeberechtigte nach § 3 und ihre berücksichtigungsfähigen Angehörigen in den Fällen nach § 31 Abs. 5 und § 41 Abs. 5 auf 100 Prozent der beihilfefähigen Aufwendungen für die Beförderung zum nächstgelegenen geeigneten Behandlungs-, Untersuchungs- oder Entbindungsort, soweit diese Aufwendungen 153 Euro übersteigen und in Fällen nach § 36 Abs. 3, soweit diese Aufwendungen 200 Euro übersteigen.
+(5) Der Bemessungssatz erhöht sich für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, in den Fällen nach § 31 Abs. 5 und § 41 Abs. 5 auf 100 Prozent der beihilfefähigen Aufwendungen für die Beförderung zum nächstgelegenen geeigneten Behandlungs-, Untersuchungs- oder Entbindungsort, soweit diese Aufwendungen 153 Euro übersteigen und in Fällen nach § 36 Abs. 3, soweit diese Aufwendungen 200 Euro übersteigen.
 
-(6) In Fällen des § 39 Absatz 2 erhöht sich der Bemessungssatz auf 100 Prozent.
+(6) In Fällen des § 39 Absatz 2 und des § 44 erhöht sich der Bemessungssatz auf 100 Prozent.
 
-(7) Für beihilfefähige Aufwendungen der Beihilfeberechtigten und deren berücksichtigungsfähigen Angehörigen, deren Beiträge für eine private Krankenversicherung aufgrund von Rechtsvorschriften oder arbeitsvertraglichen Vereinbarungen mit mindestens 41 Euro monatlich bezuschusst werden, ermäßigt sich der Bemessungssatz für die Zuschussempfängerin oder den Zuschussempfänger um 20 Prozentpunkte. Beiträge für Krankentagegeld- und Krankenhaustagegeldversicherungen bleiben außer Betracht.
+(7) Für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, erhöht sich der Bemessungssatz für beihilfefähige Aufwendungen nach den §§ 38 und 39 auf 100 Prozent, wenn eine Pflegestufe vorliegt und während des dienstlichen Auslandsaufenthalts keine Leistungen der privaten oder sozialen Pflegeversicherung gewährt werden.
 
-(8) Für Beihilfeberechtigte nach § 3 und ihre berücksichtigungsfähigen Angehörigen erhöht sich der Bemessungssatz für beihilfefähige Aufwendungen nach den §§ 38 und 39 auf 100 Prozent, wenn eine Pflegestufe vorliegt und während des dienstlichen Auslandsaufenthalts keine Leistungen der privaten oder sozialen Pflegeversicherung gewährt werden.
-
-(9) Das Bundesministerium des Innern kann für Gruppen von Beihilfeberechtigten Abweichungen von den §§ 46 und 47 festlegen, wenn ihnen bis zum Entstehen eines Beihilfeanspruchs nach dieser Verordnung ein Anspruch auf Beihilfe nach Landesrecht zustand und die Änderung der Anspruchsgrundlage auf einer bundesgesetzlichen Regelung beruht. Die Abweichungen sollen so festgelegt werden, dass wirtschaftliche Nachteile, die sich aus unterschiedlichen Regelungen über den Bemessungssatz ergeben, ausgeglichen werden. Die Festlegung bedarf des Einvernehmens des Bundesministeriums der Finanzen und des Ressorts, das nach der Geschäftsverteilung der Bundesregierung für die Belange der betroffenen Beihilfeberechtigten zuständig ist.
+(8) Das Bundesministerium des Innern kann für Gruppen von beihilfeberechtigten Personen Abweichungen von den §§ 46 und 47 festlegen, wenn ihnen bis zum Entstehen eines Beihilfeanspruchs nach dieser Verordnung ein Anspruch auf Beihilfe nach Landesrecht zustand und die Änderung der Anspruchsgrundlage auf einer bundesgesetzlichen Regelung beruht. Die Abweichungen sollen so festgelegt werden, dass wirtschaftliche Nachteile, die sich aus unterschiedlichen Regelungen über den Bemessungssatz ergeben, ausgeglichen werden. Die Festlegung bedarf des Einvernehmens des Bundesministeriums der Finanzen und des Ressorts, das nach der Geschäftsverteilung der Bundesregierung für die Belange der betroffenen beihilfeberechtigten Personen zuständig ist.
 
 ### § 48 Begrenzung der Beihilfe
 
-Die Beihilfe darf zusammen mit Sachleistungen und Erstattungen, die aus demselben Anlass aus einer Kranken- oder Pflegeversicherung sowie aufgrund von anderen Rechtsvorschriften oder arbeitsvertraglichen Vereinbarungen gewährt werden, die Höhe der dem Grunde nach beihilfefähigen Aufwendungen nicht übersteigen. Der Umfang des bestehenden Krankenversicherungsschutzes einschließlich abgeschlossener Wahltarife nach § 53 des Fünften Buches Sozialgesetzbuch ist gegenüber der Festsetzungsstelle nachzuweisen. Hierbei bleiben Zahlungen aus Krankentagegeld-, Krankenhaustagegeld-, Pflegetagegeld-, Pflegerentenzusatz- und Pflegerentenversicherungen, soweit diese nicht der Befreiung von der Versicherungspflicht nach § 22 des Elften Buches Sozialgesetzbuch dienen, und das Sterbegeld nach § 18 Abs. 2 Nr. 2 des Beamtenversorgungsgesetzes unberücksichtigt. Die Sachleistungen und Erstattungen sind durch Belege nachzuweisen. Dies gilt nicht für Erstattungen aus einer Kranken- oder Pflegeversicherung nach einem Prozentsatz.
+(1) Die Beihilfe darf zusammen mit den Leistungen, die aus demselben Anlass aus einer Krankenversicherung, aus einer Pflegeversicherung, auf Grund anderer Rechtsvorschriften oder auf Grund arbeitsvertraglicher Vereinbarungen gewährt werden, die dem Grunde nach beihilfefähigen Aufwendungen nicht übersteigen. Leistungen aus Krankentagegeld-, Krankenhaustagegeld-, Pflegetagegeld-, Pflegezusatz-, Pflegerenten- und Pflegerentenzusatzversicherungen bleiben unberücksichtigt, soweit sie nicht der Befreiung von der Versicherungspflicht nach § 22 des Elften Buches Sozialgesetzbuch dienen. Ebenfalls unberücksichtigt bleibt das Sterbegeld nach § 18 Absatz 2 Nummer 2 des Beamtenversorgungsgesetzes. Aufwendungen nach den §§ 35 bis 39 werden getrennt abgerechnet.
+
+(2) Die beihilfeberechtigte Person hat nachzuweisen:
+
+1.  
+den Umfang des bestehenden Kranken- und Pflegeversicherungsschutzes und
+
+2.  
+die gewährten Leistungen.
+
+Satz 1 Nummer 2 gilt nicht für Erstattungen aus einer Kranken- oder Pflegeversicherung nach einem Prozentsatz.
 
 ### § 49 Eigenbehalte
 
@@ -1581,7 +1787,7 @@ Familien- und Haushaltshilfe je Kalendertag und
 5.  
 Soziotherapie je Kalendertag.
 
-Bei zum Verbrauch bestimmten Hilfsmitteln beträgt der Eigenbehalt 10 Prozent der insgesamt beihilfefähigen Aufwendungen, jedoch höchstens 10 Euro für den gesamten Monatsbedarf.
+Maßgebend für den Abzugsbetrag nach Satz 1 Nummer 1 ist der Apothekenabgabepreis oder der Festbetrag der jeweiligen Packung des verordneten Arznei- und Verbandmittels. Dies gilt auch bei Mehrfachverordnungen oder bei der Abgabe der verordneten Menge in mehreren Packungen. Bei zum Verbrauch bestimmten Hilfsmitteln beträgt der Eigenbehalt 10 Prozent der insgesamt beihilfefähigen Aufwendungen, jedoch höchstens 10 Euro für den gesamten Monatsbedarf.
 
 (2) Die beihilfefähigen Aufwendungen mindern sich um 10 Euro je Kalendertag bei
 
@@ -1593,21 +1799,10 @@ Rehabilitationsmaßnahmen nach § 35 Absatz 1 Nummer 1 und 2.
 
 (3) Die beihilfefähigen Aufwendungen mindern sich bei häuslicher Krankenpflege um 10 Prozent der Kosten für die ersten 28 Tage der Inanspruchnahme im Kalenderjahr und um 10 Euro je Verordnung.
 
-(4) Die Beihilfe mindert sich um einen Betrag von 10 Euro je Kalendervierteljahr je Beihilfeberechtigter, Beihilfeberechtigtem, berücksichtigungsfähiger Angehöriger oder berücksichtungsfähigem Angehörigen für jede erste Inanspruchnahme von
+(4) Eigenbehalte sind nicht abzuziehen von Aufwendungen für
 
 1.  
-ambulanten ärztlichen oder psychotherapeutischen Leistungen,
-
-2.  
-zahnärztlichen Leistungen und
-
-3.  
-Leistungen von Heilpraktikerinnen und Heilpraktikern.
-
-(5) Eigenbehalte sind nicht abzuziehen von Aufwendungen für
-
-1.  
-Kinder bis zur Vollendung des 18. Lebensjahres, außer Fahrtkosten,
+Personen, die das 18. Lebensjahr noch nicht vollendet haben, außer Fahrtkosten,
 
 2.  
 Schwangere im Zusammenhang mit Schwangerschaftsbeschwerden oder der Entbindung,
@@ -1630,16 +1825,14 @@ Heil- und Hilfsmittel, soweit vom Bundesministerium des Innern beihilfefähige H
 6.  
 Harn- und Blutteststreifen.
 
-(6) Auf Beihilfeberechtigte und berücksichtigungsfähige Angehörige, die in einem beihilfeergänzenden Standardtarif nach § 257 Abs. 2a in Verbindung mit § 314 des Fünften Buches Sozialgesetzbuch oder nach § 257 Abs. 2a in Verbindung mit § 315 des Fünften Buches Sozialgesetzbuch oder einem Basistarif nach § 12 Abs. 1a des Versicherungsaufsichtsgesetzes oder beihilfeergänzend bei der Postbeamtenkrankenkasse versichert sind, werden die Eigenbehalte nach den Absätzen 1 bis 4 mit der Maßgabe angewandt, dass die von der privaten Krankenversicherung oder der Postbeamtenkrankenkasse abgezogenen Selbstbehalte als Eigenbehalte zu berücksichtigen sind.
-
-(7) Das Bundesministerium des Innern kann durch Verwaltungsvorschriften für Beihilfeberechtigte und berücksichtigungsfähige Angehörige, die sich besonders gesundheitsbewusst verhalten, indem sie regelmäßig an Vorsorgeprogrammen oder Maßnahmen zur Früherkennung von Krankheiten teilnehmen, geringere Eigenbehalte festlegen.
+(5) Das Bundesministerium des Innern kann durch Verwaltungsvorschriften für beihilfeberechtigte und berücksichtigungsfähige Personen, die sich besonders gesundheitsbewusst verhalten, indem sie regelmäßig an Vorsorgeprogrammen oder Maßnahmen zur Früherkennung von Krankheiten teilnehmen, geringere Eigenbehalte festlegen.
 
 ### § 50 Belastungsgrenzen
 
 (1) Auf Antrag sind nach Überschreiten der Belastungsgrenze nach Satz 5
 
 1.  
-Eigenbehalte nach § 49 von den beihilfefähigen Aufwendungen oder der Beihilfe für ein Kalenderjahr nicht abzuziehen,
+Eigenbehalte nach § 49 von den beihilfefähigen Aufwendungen für ein Kalenderjahr nicht abzuziehen,
 
 2.  
 Aufwendungen für ärztlich oder zahnärztlich verordnete nicht verschreibungspflichtige Arzneimittel nach § 22 Absatz 2 Nummer 3, die nicht den Ausnahmeregelungen unterliegen, in voller Höhe als beihilfefähig anzuerkennen, wenn die Aufwendungen pro verordnetem Arzneimittel über folgenden Beträgen liegen:
@@ -1648,10 +1841,12 @@ a)
 <table>
 <tbody>
 <tr class="odd">
-<td>für Beihilfeberechtigte der<br />
-Besoldungsgruppen A 1 bis A 8<br />
-sowie deren berücksichtigungs-<br />
-fähige Angehörige</td>
+<td>für beihilfeberechtigte<br />
+Personen der Besoldungs-<br />
+gruppen A 2 bis A 8 und<br />
+Anwärterinnen und An-<br />
+wärter sowie berücksichti-<br />
+gungsfähige Personen</td>
 <td>8 Euro,</td>
 </tr>
 </tbody>
@@ -1661,10 +1856,9 @@ b)
 <table>
 <tbody>
 <tr class="odd">
-<td>für Beihilfeberechtigte der<br />
+<td>für beihilfeberechtigte Personen der<br />
 Besoldungsgruppen A 9 bis A 12<br />
-sowie deren berücksichtigungs-<br />
-fähige Angehörige</td>
+sowie berücksichtigungsfähige Personen</td>
 <td>12 Euro,</td>
 </tr>
 </tbody>
@@ -1674,20 +1868,19 @@ c)
 <table>
 <tbody>
 <tr class="odd">
-<td>für Beihilfeberechtigte höherer<br />
+<td>für beihilfeberechtigte Personen höherer<br />
 Besoldungsgruppen sowie<br />
-deren berücksichtigungsfähige<br />
-Angehörige</td>
+berücksichtigungsfähige Personen</td>
 <td>16 Euro.</td>
 </tr>
 </tbody>
 </table>
 
-Ein Antrag muss spätestens bis zum Ablauf des Jahres gestellt werden, das auf das Jahr folgt, in dem die Eigenbehalte nach § 49 einbehalten worden sind. Dabei sind die Beträge nach § 49 Absatz 1 bis 3 entsprechend der Höhe des tatsächlichen Abzugs sowie Aufwendungen für Arzneimittel nach Nummer 2 zum entsprechenden Bemessungssatz zu berücksichtigen. Die oder der Beihilfeberechtigte hat das Einkommen nach § 39 Absatz 3, die anrechenbaren Eigenbehalte und die Aufwendungen für nicht verschreibungspflichtige Arzneimittel nachzuweisen. Die Belastungsgrenze beträgt für Beihilfeberechtigte und deren berücksichtigungsfähige Angehörige zusammen 2 Prozent der jährlichen Einnahmen nach § 39 Absatz 3 sowie für chronisch Kranke nach der Chroniker-Richtlinie in der Fassung vom 22. Januar 2004 (BAnz. S. 1343), die zuletzt am 19. Juni 2008 (BAnz. S. 3017) geändert worden ist, 1 Prozent der jährlichen Einnahmen nach § 39 Absatz 3.
+Ein Antrag muss spätestens bis zum Ablauf des Jahres gestellt werden, das auf das Jahr folgt, in dem die Eigenbehalte nach § 49 einbehalten worden sind. Dabei sind die Beträge nach § 49 Absatz 1 bis 3 entsprechend der Höhe des tatsächlichen Abzugs sowie Aufwendungen für Arzneimittel nach Nummer 2 zum entsprechenden Bemessungssatz zu berücksichtigen. Die beihilfeberechtigte Person hat das Einkommen nach § 39 Absatz 3, die anrechenbaren Eigenbehalte und die Aufwendungen für nicht verschreibungspflichtige Arzneimittel nachzuweisen. Die Belastungsgrenze beträgt für beihilfeberechtigte Personen und berücksichtigungsfähige Personen zusammen 2 Prozent der jährlichen Einnahmen nach § 39 Absatz 3 Satz 1 sowie für chronisch Kranke nach der Chroniker-Richtlinie in der Fassung vom 22. Januar 2004 (BAnz. S. 1343), die zuletzt am 19. Juni 2008 (BAnz. S. 3017) geändert worden ist, 1 Prozent der jährlichen Einnahmen nach § 39 Absatz 3 Satz 1.
 
-(2) Maßgeblich ist das Datum des Entstehens der Aufwendungen. Die Einnahmen der Ehegattin, des Ehegatten, der Lebenspartnerin oder des Lebenspartners werden nicht berücksichtigt, wenn sie oder er Mitglied der gesetzlichen Krankenversicherung oder selbst beihilfeberechtigt ist. Die Einnahmen vermindern sich bei verheirateten oder in Lebenspartnerschaft lebenden Beihilfeberechtigten um 15 Prozent und für jedes berücksichtigungsfähige Kind im Sinne des § 4 Abs. 2 um den Betrag, der sich aus § 32 Abs. 6 Satz 1 und 2 des Einkommensteuergesetzes ergibt. Maßgebend für die Feststellung der Belastungsgrenze sind jeweils die jährlichen Einnahmen des vorangegangenen Kalenderjahres.
+(2) Maßgeblich ist das Datum des Entstehens der Aufwendungen. Die Einnahmen der Ehegattin, des Ehegatten, der Lebenspartnerin oder des Lebenspartners werden nicht berücksichtigt, wenn sie oder er Mitglied der gesetzlichen Krankenversicherung oder selbst beihilfeberechtigt ist. Die Einnahmen vermindern sich bei verheirateten oder in einer Lebenspartnerschaft lebenden beihilfeberechtigten Personen um 15 Prozent und für jedes Kind nach § 4 Absatz 2 um den Betrag, der sich aus § 32 Absatz 6 Satz 1 bis 3 des Einkommensteuergesetzes ergibt. Maßgebend für die Feststellung der Belastungsgrenze sind jeweils die jährlichen Einnahmen des vorangegangenen Kalenderjahres.
 
-(3) Werden die Kosten der Unterbringung in einem Heim oder einer ähnlichen Einrichtung von einem Träger der Sozialhilfe oder der Kriegsopferfürsorge getragen, ist für die Berechnung der Belastungsgrenze der nach Maßgabe der Regelsatzverordnung zu ermittelnde Regelsatz anzuwenden.
+(3) Werden die Kosten der Unterbringung in einem Heim oder einer ähnlichen Einrichtung von einem Träger der Sozialhilfe oder der Kriegsopferfürsorge getragen, ist für die Berechnung der Belastungsgrenze der nach Maßgabe des Regelbedarfs-Ermittlungsgesetzes zu ermittelnde Regelsatz anzuwenden.
 
 Kapitel 6 Verfahren und Zuständigkeit
 -------------------------------------
@@ -1696,9 +1889,9 @@ Kapitel 6 Verfahren und Zuständigkeit
 
 ### § 51 Bewilligungsverfahren
 
-(1) Über die Notwendigkeit und die wirtschaftliche Angemessenheit von Aufwendungen nach § 6 entscheidet die Festsetzungsstelle. Die oder der Beihilfeberechtigte ist zur Mitwirkung verpflichtet. § 60 Absatz 1 Satz 1, die §§ 62 und 65 bis 67 des Ersten Buches Sozialgesetzbuch sind entsprechend anzuwenden. Die Festsetzungsstelle kann auf eigene Kosten bei Sachverständigen Gutachten einholen. Ist für die Erstellung des Gutachtens die Mitwirkung der oder des Betroffenen nicht erforderlich, sind die nötigen Gesundheitsdaten vor der Übermittlung so zu anonymisieren, dass die Gutachterin oder der Gutachter einen Personenbezug nicht herstellen kann.
+(1) Über die Notwendigkeit und die wirtschaftliche Angemessenheit von Aufwendungen nach § 6 entscheidet die Festsetzungsstelle. Die beihilfeberechtigte Person ist zur Mitwirkung verpflichtet. § 60 Absatz 1 Satz 1, die §§ 62 und 65 bis 67 des Ersten Buches Sozialgesetzbuch sind entsprechend anzuwenden. Die Festsetzungsstelle kann auf eigene Kosten ein Sachverständigengutachten einholen. Ist für die Erstellung des Gutachtens die Mitwirkung der oder des Betroffenen nicht erforderlich, sind die nötigen Gesundheitsdaten vor der Übermittlung so zu anonymisieren, dass die Gutachterin oder der Gutachter einen Personenbezug nicht herstellen kann.
 
-(2) In Pflegefällen hat die Festsetzungsstelle im Regelfall die Gutachten zugrunde zu legen, die für die private oder soziale Pflegeversicherung zum Vorliegen dauernder Pflegebedürftigkeit sowie zu Art und notwendigem Umfang der Pflege erstellt wurden. Für Beihilfeberechtigte und berücksichtigungsfähige Angehörige, die keiner Pflegeversicherung angehören, und bei Bedarf auch für Beihilfeberechtigte nach § 3 und deren berücksichtigungsfähige Angehörige hat die Festsetzungsstelle ein entsprechendes Gutachten erstellen zu lassen. Auf Antrag kann die Festsetzungsstelle Beihilfe für Aufwendungen in Pflegefällen (§§ 37 bis 39) bis zu zwölf Monate regelmäßig wiederkehrend leisten, wenn die oder der Beihilfeberechtigte sich in dem Antrag verpflichtet,
+(2) In Pflegefällen hat die Festsetzungsstelle im Regelfall das Gutachten zugrunde zu legen, das für die private oder soziale Pflegeversicherung zum Vorliegen dauernder Pflegebedürftigkeit sowie zu Art und notwendigem Umfang der Pflege erstellt worden ist. Ist die beihilfeberechtigte oder berücksichtigungsfähige Person nicht in der privaten oder sozialen Pflegeversicherung versichert, lässt die Festsetzungsstelle ein entsprechendes Gutachten erstellen. Satz 2 gilt entsprechend bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, wenn für diese kein Gutachten für die private oder soziale Pflegeversicherung erstellt worden ist. Auf Antrag kann die Festsetzungsstelle Beihilfe für Aufwendungen in Pflegefällen (§§ 37 bis 39) bis zu zwölf Monate regelmäßig wiederkehrend leisten, wenn die beihilfeberechtigte Person sich in dem Antrag verpflichtet,
 
 1.  
 der Festsetzungsstelle jede Änderung der Angaben im Beihilfeantrag unaufgefordert und unverzüglich mitzuteilen und
@@ -1706,17 +1899,17 @@ der Festsetzungsstelle jede Änderung der Angaben im Beihilfeantrag unaufgeforde
 2.  
 den Beihilfeanspruch übersteigende Zahlungen zu erstatten.
 
-(3) Die Beihilfe wird auf schriftlichen oder elektronischen Antrag der oder des Beihilfeberechtigten bei der Festsetzungsstelle gewährt. Die dem Antrag zugrunde liegenden Belege sind der Festsetzungsstelle als Zweitschrift oder in Kopie mit dem Antrag oder gesondert vorzulegen. Liegen konkrete Anhaltspunkte dafür vor, dass eingereichte Belege gefälscht oder verfälscht sind, kann die Festsetzungsstelle mit Einwilligung der oder des Beihilfeberechtigten bei dem Urheber des Beleges Auskunft über die Echtheit einholen. Wird die Einwilligung verweigert, ist die Beihilfe zu den betreffenden Aufwendungen abzulehnen. Auf Rezepten muss die Pharmazentralnummer des verordneten Arzneimittels angegeben sein, es sei denn, sie ist wegen des Kaufes im Ausland nicht erforderlich. Sofern die Festsetzungsstelle dies zulässt, können auch die Belege elektronisch übermittelt werden. Die Festsetzungsstelle kann einen unterschriebenen Beihilfeantrag in Papierform verlangen.
+(3) Die Beihilfe wird auf schriftlichen oder elektronischen Antrag der beihilfeberechtigten Person bei der Festsetzungsstelle gewährt. Die dem Antrag zugrunde liegenden Belege sind der Festsetzungsstelle als Zweitschrift oder in Kopie mit dem Antrag oder gesondert vorzulegen. Liegen konkrete Anhaltspunkte dafür vor, dass eingereichte Belege gefälscht oder verfälscht sind, kann die Festsetzungsstelle mit Einwilligung der beihilfeberechtigten Person bei dem Urheber des Beleges Auskunft über die Echtheit einholen. Wird die Einwilligung verweigert, ist die Beihilfe zu den betreffenden Aufwendungen abzulehnen. Auf Rezepten muss die Pharmazentralnummer des verordneten Arzneimittels angegeben sein, es sei denn, sie ist wegen des Kaufes im Ausland nicht erforderlich. Sofern die Festsetzungsstelle dies zulässt, können auch die Belege elektronisch übermittelt werden. Die Festsetzungsstelle kann einen unterschriebenen Beihilfeantrag in Papierform verlangen.
 
-(4) Die Belege über Aufwendungen im Ausland müssen grundsätzlich den im Inland geltenden Anforderungen entsprechen. Kann die oder der Beihilfeberechtigte die für den Kostenvergleich notwendigen Angaben nicht beibringen, hat die Festsetzungsstelle die Angemessenheit der Aufwendungen festzustellen. Auf Anforderung muss mindestens für eine Bescheinigung des Krankheitsbildes und der erbrachten Leistungen eine Übersetzung vorgelegt werden.
+(4) Die Belege über Aufwendungen im Ausland müssen grundsätzlich den im Inland geltenden Anforderungen entsprechen. Kann die beihilfeberechtigte Person die für den Kostenvergleich notwendigen Angaben nicht beibringen, hat die Festsetzungsstelle die Angemessenheit der Aufwendungen festzustellen. Auf Anforderung muss mindestens für eine Bescheinigung des Krankheitsbildes und der erbrachten Leistungen eine Übersetzung vorgelegt werden.
 
 (5) Der Bescheid über die Bewilligung oder die Ablehnung der beantragten Beihilfe (Beihilfebescheid) wird von der Festsetzungsstelle schriftlich oder elektronisch erlassen. Soweit Belege zur Prüfung des Anspruchs auf Abschläge für Arzneimittel benötigt werden, können sie einbehalten werden. Soweit die Festsetzungsstelle elektronische Dokumente zur Abbildung von Belegen herstellt, werden diese einbehalten. Spätestens sechs Monate nach Unanfechtbarkeit des Beihilfebescheides oder nach dem Zeitpunkt, zu dem die Belege für Prüfungen einer der Rabattgewährung nach § 3 des Gesetzes über Rabatte für Arzneimittel nicht mehr benötigt werden, sind sie zu vernichten und elektronische Abbildungen spurenlos zu löschen.
 
-(6) Zur Vermeidung unbilliger Härten kann die Festsetzungsstelle nach vorheriger Anhörung der oder des Beihilfeberechtigten zulassen, dass berücksichtigungsfähige Angehörige oder deren gesetzliche Vertreterinnen oder Vertreter ohne Zustimmung der oder des Beihilfeberechtigten die Beihilfe selbst beantragen.
+(6) Zur Vermeidung unbilliger Härten kann die Festsetzungsstelle nach vorheriger Anhörung der beihilfeberechtigten Person zulassen, dass berücksichtigungsfähige Personen oder deren gesetzliche Vertreterinnen oder Vertreter ohne Zustimmung der beihilfeberechtigten Person die Beihilfe selbst beantragen.
 
 (7) Beihilfe wird nur gewährt, wenn die mit dem Antrag geltend gemachten Aufwendungen insgesamt mehr als 200 Euro betragen. Die Festsetzungsstelle kann bei drohender Verjährung oder zur Vermeidung anderer unbilliger Härten Ausnahmen zulassen.
 
-(8) Die Festsetzungsstelle kann auf Antrag der oder des Beihilfeberechtigten Abschlagszahlungen leisten. Sie kann die Beihilfe in Ausnahmefällen im Einverständnis mit der oder dem Beihilfeberechtigten an Dritte auszahlen.
+(8) Die Festsetzungsstelle kann auf Antrag der beihilfeberechtigten Person Abschlagszahlungen leisten. Sie kann die Beihilfe in Ausnahmefällen mit Zustimmung der beihilfeberechtigten Person an Dritte auszahlen.
 
 ### § 52 Zuordnung von Aufwendungen
 
@@ -1729,7 +1922,7 @@ für eine Familien- und Haushaltshilfe der außerhäuslich untergebrachten Perso
 für eine Begleitperson der oder dem Begleiteten,
 
 3.  
-für eine familienorientierte Rehabilitation dem erkrankten Kind und
+für eine familienorientierte Rehabilitationsmaßnahme dem erkrankten Kind und
 
 4.  
 in Geburtsfällen einschließlich der Aufwendungen des Krankenhauses für das gesunde Neugeborene der Mutter.
@@ -1742,7 +1935,7 @@ in Geburtsfällen einschließlich der Aufwendungen des Krankenhauses für das ge
 
 (1) Beihilfe wird nur gewährt, wenn sie innerhalb eines Jahres nach Rechnungsdatum beantragt wird. Für den Beginn der Frist ist bei Pflegeleistungen der letzte Tag des Monats maßgebend, in dem die Pflege erbracht wurde. Hat ein Sozialhilfeträger oder im Bereich der Pflege der Träger der Kriegsopferfürsorge vorgeleistet, beginnt die Frist mit dem Ersten des Monats, der auf den Monat folgt, in dem der Sozialhilfeträger oder der Träger der Kriegsopferfürsorge die Aufwendungen bezahlt hat.
 
-(2) Die Frist ist auch gewahrt, wenn der Antrag von Beihilfeberechtigten nach § 3 innerhalb der Frist nach Absatz 1 bei der zuständigen Beschäftigungsstelle im Ausland eingereicht wird.
+(2) Die Frist ist auch gewahrt, wenn der Antrag von beihilfeberechtigten Personen nach § 3 innerhalb der Frist nach Absatz 1 bei der zuständigen Beschäftigungsstelle im Ausland eingereicht wird.
 
 ### § 55 Geheimhaltungspflicht
 
@@ -1767,9 +1960,7 @@ die Versorgungsstellen für die Anträge der Versorgungsempfängerinnen und der 
 
 (3) Die Festsetzungsstellen haben die Abschläge für Arzneimittel nach dem Gesetz über Rabatte für Arzneimittel geltend zu machen.
 
-### § 57 Verwaltungsvorschriften
-
-Das Bundesministerium des Innern erlässt Verwaltungsvorschriften zur Durchführung dieser Verordnung.
+### § 57 (weggefallen)
 
 Kapitel 7 Übergangs- und Schlussvorschriften
 --------------------------------------------
@@ -1778,21 +1969,17 @@ Kapitel 7 Übergangs- und Schlussvorschriften
 
 ### § 58 Übergangsvorschriften
 
-(1) Auf Aufwendungen, die vor Inkrafttreten dieser Verordnung entstanden sind, ist die Allgemeine Verwaltungsvorschrift für Beihilfen in Krankheits-, Pflege- und Geburtsfällen vom 1. November 2001 (GMBl S. 919), zuletzt geändert durch Artikel 1 der Verwaltungsvorschrift vom 30. Januar 2004 (GMBl S. 379), weiter anzuwenden.
+(1) Auf Aufwendungen, die vor dem 14. Februar 2009 entstanden sind, sind die Beihilfevorschriften vom 1. November 2001, die zuletzt durch Artikel 1 der allgemeinen Verwaltungsvorschrift vom 30. Januar 2004 (GMBl S. 379) geändert worden sind, weiter anzuwenden.
 
-(2) Auf Ehegattinnen, Ehegatten, Lebenspartnerinnen und Lebenspartner die bis zum Zeitpunkt des Inkrafttretens dieser Verordnung als berücksichtigungsfähige Angehörige unter der Einkommensgrenze nach § 5 Abs. 4 der bis zum Inkrafttreten dieser Verordnung geltenden Beihilfevorschriften des Bundes lagen, aber die Einkommensgrenze nach § 4 Abs. 1 überschreiten, ist die bisherige Einkommensgrenze bis zur erstmaligen Überschreitung weiter anzuwenden.
+(2) Auf Ehegattinnen, Ehegatten, Lebenspartnerinnen und Lebenspartner, bei denen der Gesamtbetrag der Einkünfte die Grenze nach § 4 Absatz 1 überschreitet, aber bis zum 13. Februar 2009 unter der Einkommensgrenze nach § 5 Absatz 4 Nummer 3 der Beihilfevorschriften lag, ist bis zur erstmaligen Überschreitung dieser Grenze § 5 Absatz 4 der Beihilfevorschriften weiter anzuwenden.
 
-(3) Kinder der oder des Beihilfeberechtigten, die im Wintersemester 2006/2007 an einer Hochschule oder Fachhochschule eingeschrieben sind, gelten abweichend von § 4 Abs. 2 längstens bis zur Vollendung des 27. Lebensjahres zuzüglich der geleisteten Zeiten des gesetzlichen Grundwehrdienstes oder Zivildienstes als berücksichtigungsfähige Angehörige. Die Übergangsregelung hat keine Auswirkung auf den Bemessungssatz der oder des Beihilfeberechtigten.
+(3) Kinder, die mindestens bis zur Vollendung des 25. Lebensjahres berücksichtigungsfähig sind und im Wintersemester 2006/2007 an einer Hochschule oder Fachhochschule eingeschrieben waren, gelten bis zur Vollendung des 27. Lebensjahres zuzüglich der geleisteten Zeiten des gesetzlichen Grundwehrdienstes oder Zivildienstes als berücksichtigungsfähige Personen. Die Übergangsregelung hat keine Auswirkung auf den Bemessungssatz der beihilfeberechtigten Person.
 
-(4) Auf Versorgungsempfängerinnen und Versorgungsempfänger, deren Bemessungssatz nach § 14 Abs. 6 Nr. 2 der Allgemeinen Verwaltungsvorschrift für Beihilfen in Krankheits-, Pflege- und Geburtsfällen vom 1. November 2001 (GMBl S. 919), die zuletzt durch Artikel 1 der Verwaltungsvorschrift vom 30. Januar 2004 (GMBl S. 379) geändert worden ist, unbefristet erhöht wurde, ist dieser erhöhte Bemessungssatz für die Dauer von zwei Jahren nach Inkrafttreten dieser Verordnung weiter anzuwenden. Anschließend prüft die Festsetzungsstelle, ob die Voraussetzungen des erhöhten Bemessungssatzes nach § 47 Abs. 2 vorliegen. Die Prüfung ist alle zwei Jahre zu wiederholen. Liegen die Voraussetzungen nicht vor, ist der Bescheid über die Erhöhung des Bemessungssatzes nach § 49 Abs. 2 und 3 des Verwaltungsverfahrensgesetzes zu widerrufen. Die Sätze 1 bis 3 gelten für die berücksichtigungsfähigen Angehörigen der Versorgungsempfängerinnen und Versorgungsempfänger entsprechend.
+(4) § 46 Absatz 3 Satz 2 ist ab dem 1. Januar 2010 anzuwenden. Bis dahin ist § 14 der Beihilfevorschriften in der bis zum 13. Februar 2009 geltenden Fassung (Absatz 1) weiter anzuwenden.
 
-(5) § 46 Abs. 3 Satz 2 ist erstmals ab 1. Januar 2010 anzuwenden. Bis dahin ist § 14 der Allgemeinen Verwaltungsvorschrift für Beihilfen in Krankheits-, Pflege- und Geburtsfällen vom 1. November 2001 (GMBl S. 919), die zuletzt durch Artikel 1 der Verwaltungsvorschrift vom 30. Januar 2004 (GMBl S. 379) geändert worden ist, weiter anzuwenden.
+(5) Für am 20. September 2012 vorhandene freiwillige Mitglieder der gesetzlichen Krankenversicherung ist § 47 Absatz 6 in der bis zum 19. September 2012 geltenden Fassung in Verbindung mit § 9 Absatz 1 Satz 1 in der seit dem 26. Juli 2014 geltenden Fassung bis zum 20. September 2017 weiter anzuwenden. Anschließend gilt § 6 Absatz 7 entsprechend für die Erhöhung des Bemessungssatzes.
 
-(6) In § 4 Abs. 2 Nr. 1 und 2, § 5 Abs. 4 und § 46 Abs. 3 Satz 2 ist unter der Bezeichnung „Auslandskinderzuschlag nach § 56 des Bundesbesoldungsgesetzes“ ab dem 1. Juli 2010 die Bezeichnung „Auslandszuschlag nach § 53 Abs. 4 Nr. 2 und Nummer 2a des Bundesbesoldungsgesetzes“ zu verstehen.
-
-(7) Für am 20. September 2012 vorhandene freiwillige Mitglieder der gesetzlichen Krankenversicherung ist § 47 Absatz 6 in der bis zum 19. September 2012 geltenden Fassung bis zum 20. September 2017 weiter anzuwenden. Anschließend gilt § 6 Absatz 7 entsprechend für die Erhöhung des Bemessungssatzes.
-
-(8) Beihilfe für Aufwendungen einer Lebenspartnerin oder eines Lebenspartners und deren Kinder, die die Voraussetzungen des § 4 erfüllen, wird rückwirkend ab 14. Februar 2009 gewährt. Für Aufwendungen, die vom 1. Januar 2009 bis 13. Februar 2009 entstanden sind, gelten die Beihilfevorschriften in der Fassung der Bekanntmachung vom 1. November 2001 (GMBl S. 919), die zuletzt durch die allgemeine Verwaltungsvorschrift vom 30. Januar 2004 (GMBl S. 379) geändert worden sind, mit der Maßgabe, dass Lebenspartner Ehegatten gleichgestellt sind. Die Antragsfrist nach § 54 beginnt frühestens am Tag nach dem Inkrafttreten von Artikel 1 des Gesetzes zur Übertragung ehebezogener Regelungen im öffentlichen Dienstrecht auf Lebenspartnerschaften.
+(6) Beihilfe für Aufwendungen einer Lebenspartnerin oder eines Lebenspartners und deren Kinder, die die Voraussetzungen des § 4 erfüllen, wird rückwirkend ab dem 14. Februar 2009 gewährt. Für Aufwendungen, die in der Zeit vom 1. Januar bis zum 13. Februar 2009 entstanden sind, sind die Beihilfevorschriften in der bis zum 13. Februar 2009 geltenden Fassung (Absatz 1) mit der Maßgabe weiter anzuwenden, dass Lebenspartner Ehegatten gleichgestellt sind. Die Antragsfrist nach § 54 beginnt frühestens am 2. Januar 2009.
 
 ### § 59 Inkrafttreten
 
@@ -1800,7 +1987,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage 1 (zu § 6 Absatz 2)Ausgeschlossene und teilweise ausgeschlossene Untersuchungen und Behandlungen
 
-(Fundstelle: BGBl. I 2012, 1944 - 1946)
+(Fundstelle: BGBl. I 2012, 1944 - 1946;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Abschnitt 1
 Völliger Ausschluss
@@ -1848,9 +2036,12 @@ Chelat-Therapie
 Colon-Hydro-Therapie und ihre Modifikationen
 
 3.3  
-computergestütztes Gesichtsfeldtraining zur Behandlung nach einer neurologischbedingten Erkrankung oder Schädigung
+computergestützte mechanische Distraktionsverfahren, zur nichtoperativen segmentalen Distraktion an der Wirbelsäule (zum Beispiel SpineMED-Verfahren, DRX 9000, Accu-SPINA)
 
 3.4  
+computergestütztes Gesichtsfeldtraining zur Behandlung nach einer neurologischbedingten Erkrankung oder Schädigung
+
+3.5  
 cytotoxologische Lebensmitteltests
 
 4.1  
@@ -1881,7 +2072,7 @@ Heileurhythmie
 Höhenflüge zur Asthma- oder Keuchhustenbehandlung
 
 8.3  
-Hyperthermiebehandlung
+(weggefallen)
 
 9.1  
 immunoaugmentative Therapie
@@ -1986,32 +2177,37 @@ Teilweiser Ausschluss
 Chirurgische Hornhautkorrektur durch LaserbehandlungAufwendungen sind nur beihilfefähig, wenn eine Korrektur durch Brillen oder Kontaktlinsen nach augenärztlicher Feststellung nicht möglich ist. Vor Aufnahme der Behandlung ist die Zustimmung der Festsetzungsstelle einzuholen.
 
 2.  
-Extrakorporale Stoßwellentherapie (ESWT) im orthopädischen und schmerztherapeutischen BereichAufwendungen sind nur beihilfefähig bei Behandlung verkalkender Sehnenerkrankung (Tendinosis calcarea), nicht heilender Knochenbrüche (Pseudarthrose), des Fersensporns (Fasziitis plantaris) oder der therapieresistenten Achillessehnenentzündung (therapiefraktäre Achillodynie). Auf der Grundlage des Beschlusses der Bundesärztekammer zur Analogbewertung der ESWT sind Gebühren nach Nummer 1800 der Anlage zur Gebührenordnung für Ärzte beihilfefähig. Daneben sind keine Zuschläge beihilfefähig.
+Extrakorporale Stoßwellentherapie (ESWT) im orthopädischen und schmerztherapeutischen BereichAufwendungen sind nur beihilfefähig bei Behandlung von Tendinosis calcarea, Pseudarthrose, Fasziitis plantaris und therapiefraktäre Achillodynie. Auf der Grundlage des Beschlusses der Bundesärztekammer zur Analogbewertung der ESWT sind Gebühren nach Nummer 1800 der Anlage zur Gebührenordnung für Ärzte beihilfefähig. Daneben sind keine Zuschläge beihilfefähig.
 
 3.  
 Hyperbare Sauerstofftherapie (Überdruckbehandlung)Aufwendungen sind nur beihilfefähig bei Behandlung von Kohlenmonoxidvergiftung, Gasgangrän, chronischen Knocheninfektionen, Septikämien, schweren Verbrennungen, Gasembolien, peripherer Ischämie oder von Tinnitusleiden, die mit Perzeptionsstörungen des Innenohres verbunden sind.
 
 4.  
-KlimakammerbehandlungAufwendungen sind nur beihilfefähig, wenn andere übliche Behandlungsmethoden nicht zum Erfolg geführt haben und die Festsetzungsstelle auf Grund des Gutachtens von einer Ärztin oder einem Arzt, die oder den sie bestimmt, vor Beginn der Behandlung zugestimmt hat.
+Hyperthermiebehandlung
+Aufwendungen sind nur beihilfefähig bei Tumorbehandlungen in Kombination mit Chemo- oder Strahlentherapie.
 
 5.  
-Lanthasol-Aerosol-InhalationskurAufwendungen sind nur beihilfefähig, wenn die Aerosol-Inhalationskuren mit hochwirksamen Medikamenten, zum Beispiel Aludrin, durchgeführt werden.
+KlimakammerbehandlungAufwendungen sind nur beihilfefähig, wenn andere übliche Behandlungsmethoden nicht zum Erfolg geführt haben und die Festsetzungsstelle auf Grund des Gutachtens von einer Ärztin oder einem Arzt, die oder den sie bestimmt, vor Beginn der Behandlung zugestimmt hat.
 
 6.  
-MagnetfeldtherapieAufwendungen sind nur beihilfefähig bei Behandlung von atrophen Pseudarthrosen, bei Endoprothesenlockerung, idiopathischer Hüftnekrose und verzögerter Knochenbruchheilung, wenn die Magnetfeldtherapie in Verbindung mit einer sachgerechten chirurgischen Therapie durchgeführt wird, sowie bei psychiatrischen Erkrankungen.
+Lanthasol-Aerosol-InhalationskurAufwendungen sind nur beihilfefähig, wenn die Aerosol-Inhalationskuren mit hochwirksamen Medikamenten, zum Beispiel Aludrin, durchgeführt werden.
 
 7.  
-OzontherapieAufwendungen sind nur beihilfefähig bei Gasinsufflationen, wenn damit arterielle Verschlusserkrankungen behandelt werden. Vor Aufnahme der Behandlung ist die Zustimmung der Festsetzungsstelle einzuholen.
+MagnetfeldtherapieAufwendungen sind nur beihilfefähig bei Behandlung von atrophen Pseudarthrosen, bei Endoprothesenlockerung, idiopathischer Hüftnekrose und verzögerter Knochenbruchheilung, wenn die Magnetfeldtherapie in Verbindung mit einer sachgerechten chirurgischen Therapie durchgeführt wird, sowie bei psychiatrischen Erkrankungen.
 
 8.  
-Therapeutisches Reiten (Hippotherapie)Aufwendungen sind nur beihilfefähig bei ausgeprägten cerebralen Bewegungsstörungen (Spastik) oder schwerer geistiger Behinderung, sofern die ärztlich verordnete Behandlung von Angehörigen der Gesundheits- oder Medizinalfachberufe (zum Beispiel Krankengymnastin oder Krankengymnast) mit entsprechender Zusatzausbildung durchgeführt wird. Die Aufwendungen sind nach den Nummern 4 bis 6 der Anlage 9 beihilfefähig.
+OzontherapieAufwendungen sind nur beihilfefähig bei Gasinsufflationen, wenn damit arterielle Verschlusserkrankungen behandelt werden. Vor Aufnahme der Behandlung ist die Zustimmung der Festsetzungsstelle einzuholen.
 
 9.  
+Therapeutisches Reiten (Hippotherapie)Aufwendungen sind nur beihilfefähig bei ausgeprägten cerebralen Bewegungsstörungen (Spastik) oder schwerer geistiger Behinderung, sofern die ärztlich verordnete Behandlung von Angehörigen der Gesundheits- oder Medizinalfachberufe (zum Beispiel Krankengymnastin oder Krankengymnast) mit entsprechender Zusatzausbildung durchgeführt wird. Die Aufwendungen sind nach den Nummern 3 bis 5 der Anlage 9 beihilfefähig.
+
+10.  
 Thymustherapie und Behandlung mit ThymuspräparatenAufwendungen sind nur beihilfefähig bei Krebsbehandlungen, wenn andere übliche Behandlungsmethoden nicht zum Erfolg geführt haben.
 
 ### Anlage 2 (zu § 6 Absatz 3 Satz 4)Höchstbeträge für die Angemessenheit der Aufwendungen für Heilpraktikerleistungen
 
-(Fundstelle: BGBl. I 2012, 1947 - 1952)
+(Fundstelle: BGBl. I 2012, 1947 - 1952;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Nummer
 
@@ -2030,10 +2226,16 @@ Für die eingehende, das gewöhnliche Maß übersteigende Untersuchung
 
 12,50 €
 
-2
+2a
+
+Erhebung der homöopathischen Erstanamnese mit einer Mindestdauer von einer Stunde je Behandlungsfall
+
+80,00 €
+
+2b
 
 Durchführung des vollständigen Krankenexamens mit Repertorisation nach den Regeln der klassischen Homöopathie
-*Anmerkung: Die Leistung nach Nummer 2 ist innerhalb von sechs Monaten höchstens dreimal berechnungsfähig. Die Leistung nach Nummer 2 ist in einer Sitzung nur einmal berechnungsfähig.*
+*Anmerkung: Die Leistung nach Nummer 2b ist in einer Sitzung nur einmal und innerhalb von sechs Monaten höchstens dreimal berechnungsfähig.*
 
 35,00 €
 
@@ -2151,15 +2353,22 @@ Kurze Krankheitsbescheinigung oder Brief im Interesse der Patientin/des Patiente
 
 11.2
 
-Ausführlicher Krankheitsbericht oder
-Gutachten
+Ausführlicher Krankheitsbericht oder Gutachten
 (DIN A4 engzeilig maschinengeschrieben)
 
 Ausführlicher schriftlicher Krankheits- und Befundbericht (einschließlich Angaben zur Anamnese, zu den Befunden, zur epikritischen Bewertung und gegebenenfalls zur Therapie)
 
 15,00 €
 
-Schriftliche gutachtliche Äußerung
+Schriftliche gutachterliche Äußerung
+
+16,00 €
+
+11.3
+
+Individuell angefertigter schriftlicher Diätplan bei Ernährungs- und Stoffwechselerkrankungen
+
+8,00 €
 
 **12**
 
@@ -2446,19 +2655,19 @@ Eigenblutinjektion
 
 Injektion, subkutan
 
-4,50 €
+5,00 €
 
 25.2
 
 Injektion, intramuskulär
 
-4,50 €
+5,00 €
 
 25.3
 
 Injektion, intravenös, intraarteriell
 
-6,00 €
+7,00 €
 
 25.4
 
@@ -2470,26 +2679,26 @@ Intrakutane Reiztherapie (Quaddelbehandlung), pro Sitzung
 
 Injektion, intraartikulär
 
-11,00 €
+11,50 €
 
 25.6
 
 Neural- oder segmentgezielte Injektionen nach Hunecke
 
-11,00 €
+11,50 €
 
 25.7
 
 Infusion
 
-7,00 €
+8,00 €
 
 25.8
 
 Dauertropfeninfusion
 *Anmerkung: Die Beihilfefähigkeit der mit der Infusion eingebrachten Medikamente richtet sich nach dem Beihilferecht des jeweiligen Beihilfeträgers.*
 
-10,00 €
+12,50 €
 
 **26**
 
@@ -2697,7 +2906,7 @@ des Unterkiefers
 
 35.2
 
-des Schultergelenkes
+des Schultergelenkes und der Wirbelsäule
 
 21,00 €
 
@@ -2896,7 +3105,8 @@ Ultraschall-Behandlung
 
 ### Anlage 3 (zu den §§ 18 bis 21)Ambulant durchgeführte psychotherapeutische Behandlungen und Maßnahmen der psychosomatischen Grundversorgung
 
-(Fundstelle: BGBl. I 2012, 1953 - 1955)
+(Fundstelle: BGBl. I 2012, 1953 - 1955;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Abschnitt 1
 Psychotherapeutische Leistungen
@@ -3050,10 +3260,10 @@ c)
 Eine Psychologische Psychotherapeutin oder ein Psychologischer Psychotherapeut kann nur Leistungen für diejenige Psychotherapieform (tiefenpsychologisch fundierte oder analytische Psychotherapie) erbringen, für die sie oder er zur vertragsärztlichen Versorgung der gesetzlichen Krankenkassen zugelassen oder in das Arztregister eingetragen ist. Eine Psychologische Psychotherapeutin oder ein Psychologischer Psychotherapeut, die oder der über eine abgeschlossene Ausbildung an einem bis zum 31. Dezember 1998 von der Kassenärztlichen Bundesvereinigung anerkannten psychotherapeutischen Ausbildungsinstitut verfügt, kann sowohl tiefenpsychologisch fundierte als auch analytische Psychotherapie durchführen (Nummern 860, 861 und 863 der Anlage zur Gebührenordnung für Ärzte).
 
 5.  
-Eine Kinder- und Jugendlichenpsychotherapeutin oder ein Kinder- und Jugendlichenpsychotherapeut mit einer Approbation nach § 2 PsychThG kann Leistungen für diejenige Psychotherapieform bei Kindern und Jugendlichen (tiefenpsychologisch fundierte oder analytische Psychotherapie) erbringen, für die sie oder er eine vertiefte Ausbildung erfahren hat.
+Eine Kinder- und Jugendlichenpsychotherapeutin oder ein Kinder- und Jugendlichenpsychotherapeut mit einer Approbation nach § 2 PsychThG kann Leistungen für diejenige Psychotherapieform bei Personen, die das 18. Lebensjahr noch nicht vollendet haben, (tiefenpsychologisch fundierte oder analytische Psychotherapie) erbringen, für die sie oder er eine vertiefte Ausbildung erfahren hat.
 
 6.  
-Wird die Behandlung von Kindern und Jugendlichen von einer Kinder- und Jugendlichenpsychotherapeutin oder einem Kinder- und Jugendlichenpsychotherapeuten mit einer Approbation nach § 12 PsychThG durchgeführt, muss diese Person
+Wird die Behandlung von Personen, die das 18. Lebensjahr noch nicht vollendet haben, von einer Kinder- und Jugendlichenpsychotherapeutin oder einem Kinder- und Jugendlichenpsychotherapeuten mit einer Approbation nach § 12 PsychThG durchgeführt, muss diese Person
 
 a)  
 zur vertragsärztlichen Versorgung der gesetzlichen Krankenkassen zugelassen sein,
@@ -3068,7 +3278,7 @@ c)
 Eine Kinder- und Jugendlichenpsychotherapeutin oder ein Kinder- und Jugendlichenpsychotherapeut kann nur Leistungen für diejenige Psychotherapieform (tiefenpsychologisch fundierte oder analytische Psychotherapie) erbringen, für die sie oder er zur vertragsärztlichen Versorgung der gesetzlichen Krankenkassen zugelassen oder in das Arztregister eingetragen ist. Eine Kinder- und Jugendlichenpsychotherapeutin oder ein Kinder- und Jugendlichenpsychotherapeut, die oder der über eine abgeschlossene Ausbildung an einem anerkannten psychotherapeutischen Ausbildungsinstitut für Kinder- und Jugendlichenpsychotherapie verfügt, kann sowohl tiefenpsychologisch fundierte als auch analytische Psychotherapie durchführen (Nummern 860, 861 und 863 der Anlage zur Gebührenordnung für Ärzte).
 
 8.  
-Wird die Behandlung von Kindern und Jugendlichen von einer Person durchgeführt, die weder Fachärztin oder Facharzt für Kinder- und Jugendpsychiatrie und -psychotherapie noch Kinder- und Jugendlichenpsychotherapeutin oder Kinder- und Jugendlichenpsychotherapeut ist, hat die behandelnde Person neben der Berechtigung nach Nummer 1, 2 oder 3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.Werden Gruppenbehandlungen von einer Person durchgeführt, die keine Fachärztin oder kein Facharzt für Psychotherapeutische Medizin oder Psychosomatische Medizin ist, hat die behandelnde Person neben der Berechtigung nach Nummer 1, 2 oder 3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.
+Wird die Behandlung von Personen, die das 18. Lebensjahr noch nicht vollendet haben, von einer Person durchgeführt, die weder Fachärztin oder Facharzt für Kinder- und Jugendpsychiatrie und -psychotherapie noch Kinder- und Jugendlichenpsychotherapeutin oder Kinder- und Jugendlichenpsychotherapeut ist, hat die behandelnde Person neben der Berechtigung nach Nummer 1, 2 oder 3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.Werden Gruppenbehandlungen von einer Person durchgeführt, die keine Fachärztin oder kein Facharzt für Psychotherapeutische Medizin oder Psychosomatische Medizin ist, hat die behandelnde Person neben der Berechtigung nach Nummer 1, 2 oder 3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.
 
 9.  
 Voraussetzung für die Beihilfefähigkeit der Aufwendungen in besonderen Ausnahmefällen (§ 20 Absatz 1 Nummer 3 und 4) ist, dass vor Beginn der Behandlung eine erneute eingehende Begründung der Therapeutin oder des Therapeuten vorgelegt wird und die Festsetzungsstelle vor Beginn der Behandlung zugestimmt hat. Zeigt sich bei der Therapie, dass das Behandlungsziel innerhalb der vorgesehenen Anzahl der Sitzungen nicht erreicht wird, kann in medizinisch besonders begründeten Einzelfällen eine weitere begrenzte Behandlungsdauer anerkannt werden. Die Anerkennung darf erst im letzten Behandlungsabschnitt erfolgen. Voraussetzung für die Anerkennung ist eine Indikation nach § 20 Absatz 1, die nach ihrer besonderen Symptomatik und Struktur eine besondere tiefenpsychologisch fundierte oder analytische Bearbeitung erfordert und eine hinreichende Prognose über das Erreichen des Behandlungsziels erlaubt.
@@ -3109,17 +3319,17 @@ c)
 über eine abgeschlossene Ausbildung in Verhaltenstherapie an einem bis zum 31. Dezember 1998 von der Kassenärztlichen Bundesvereinigung anerkannten verhaltenstherapeutischen Ausbildungsinstitut verfügen.
 
 4.  
-Wird die Behandlung von Kindern und Jugendlichen von einer Person durchgeführt, die weder Fachärztin oder Facharzt für Kinder- und Jugendlichenpsychiatrie und -psychotherapie noch Kinder- und Jugendlichenpsychotherapeutin oder Kinder- und Jugendlichenpsychotherapeut ist, hat die behandelnde Person neben der Berechtigung nach Nummer 1, 2 oder 3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.Werden Gruppenbehandlungen von einer Person durchgeführt, die keine Fachärztin oder kein Facharzt für Psychotherapeutische Medizin oder Psychosomatische Medizin und Psychotherapie ist, hat die behandelnde Person neben der Berechtigung nach Nummer 1, 2 oder 3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.
+Wird die Behandlung von Personen, die das 18. Lebensjahr noch nicht vollendet haben, von einer Person durchgeführt, die weder Fachärztin oder Facharzt für Kinder- und Jugendlichenpsychiatrie und -psychotherapie noch Kinder- und Jugendlichenpsychotherapeutin oder Kinder- und Jugendlichenpsychotherapeut ist, hat die behandelnde Person neben der Berechtigung nach Nummer 1, 2 oder 3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.Werden Gruppenbehandlungen von einer Person durchgeführt, die keine Fachärztin oder kein Facharzt für Psychotherapeutische Medizin oder Psychosomatische Medizin und Psychotherapie ist, hat die behandelnde Person neben der Berechtigung nach Nummer 1, 2 oder 3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.
 
 ### Anlage 4 (zu § 22 Absatz 1)Beihilfefähige Medizinprodukte
 
-(Fundstelle: BGBl. I 2012, 1956 - 1961)
+(Fundstelle: BGBl. I 2015, 846 - 852)
 
 Nr.
 
 Produktbezeichnung
 
-Medizinische Anwendungsfälle
+Anwendungsfälle
 
 1
 
@@ -3129,29 +3339,27 @@ Zur raschen und nachhaltigen Entleerung des Enddarms vor Operationen und diagnos
 
 2.1
 
-AMO<sup>TM</sup>
-ENDOSOL<sup>TM</sup>
+AMO
+ENDOSOL
 
 Für intraokulare und topische Spülungen des Auges bei chirurgischen Prozeduren und für diagnostische und therapeutische Maßnahmen.
 
 2.2
 
-Ampuwa<sup>®</sup>
+Ampuwa
 für Spülzwecke
 
-Zur Anfeuchtung von Tamponaden und Verbänden,
-zur Atemluftbefeuchtung nur zur Anwendung in geschlossenen Systemen in medizinisch notwendigen Fällen;
-jeweils in einer Menge, die ausschließlich für die einmalige Anwendung geeignet ist.
+Zum Anfeuchten von Tamponaden und Verbänden; zur Atemluftbefeuchtung nur zur Anwendung in geschlossenen Systemen in medizinisch notwendigen Fällen; jeweils in einer Menge, die ausschließlich für die einmalige Anwendung geeignet ist.
 
 2.3
 
-Amvisc<sup>TM</sup>
+Amvisc
 
 Zur Anwendung als Operationshilfe bei ophthalmischen Eingriffen am vorderen Augenabschnitt.
 
 2.4
 
-Amvisc<sup>TM</sup> Plus
+Amvisc Plus
 
 Zur Anwendung als Operationshilfe bei ophthalmischen Eingriffen am vorderen Augenabschnitt.
 
@@ -3159,15 +3367,11 @@ Zur Anwendung als Operationshilfe bei ophthalmischen Eingriffen am vorderen Auge
 
 Aqua B. Braun
 
-Zur Spülung und Reinigung bei operativen Eingriffen,
-zur Spülung von Wunden und Verbrennungen,
-zum Anfeuchten von Wundtamponaden, Tüchern und Verbänden,
-zur Überprüfung der Durchlässigkeit von Blasenkathetern und zur mechanischen Augenspülung.
+Zur Spülung und Reinigung bei operativen Eingriffen, zur Spülung von Wunden und Verbrennungen, zum Anfeuchten von Wundtamponaden, Tüchern und Verbänden, zur Überprüfung der Durchlässigkeit von Blasenkathetern und zur mechanischen Augenspülung.
 
 3.1
 
-Bausch & Lomb Balanced Salt
-Solution
+Bausch & Lomb Balanced Salt Solution
 
 Zur Irrigation im Rahmen extraokularer und intraokularer Eingriffe.
 
@@ -3185,282 +3389,553 @@ Zur Spülung des chirurgischen extraokularen oder intraokularen Operationsbereic
 
 3.4
 
-BSS PLUS<sup>®</sup>
+BSS PLUS
 (Alcon Pharma GmbH)
 
 Als intraokulare Spüllösung bei chirurgischen Eingriffen im Auge, bei denen eine intraokulare Perfusion erforderlich ist.
 
 3.5
 
-BSS<sup>®</sup> STERILE SPÜLLÖSUNG
+BSS STERILE SPÜLLÖSUNG
 (Alcon Pharma GmbH)
 
 Zur Irrigation im Rahmen extraokularer und intraokularer Eingriffe.
 
 4.1
 
-Dimet<sup>®</sup> 20
+Dimet 20
 
-Für Minderjährige mit Entwicklungsstörungen und für Kinder unter zwölf Jahren zur physikalischen Behandlung des Kopfhaares bei Kopflausbefall.
+Behandlung des Kopfhaares bei Pediculosis capitis bei Personen, die
+
+a)  
+das zwölfte Lebensjahr noch nicht vollendet haben,
+
+b)  
+das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 4.2
 
-Dk-line<sup>®</sup>
+Dk-line
 
-Zur Anwendung als Operationshilfe in der Ophthalmochirurgie, zur mechanischen Netzhautentfaltung nach Netzhautablösungen/PVR/PDR, Riesenrissen, okularen Traumata sowie zur vereinfachten Entfernung subluxierter Linsen und Fremdkörper aus dem Glaskörperraum.
+Zur Anwendung als Operationshilfe in der Ophthalmochirurgie, zur mechanischen Netzhautentfaltung nach Netzhautablösungen/PVR/PDR, Riesenrissen oder okularen Traumata sowie zur vereinfachten Entfernung subluxierter Linsen und Fremdkörper aus dem Glaskörperraum.
 
 4.3
 
 Dr. Deppe
-EndoStar<sup>®</sup>-Lavage
+EndoStar-Lavage
 
-Darmreinigung zur Vorbereitung einer Darmspiegelung bei Personen ab zwölf Jahren.
+Darmreinigung zur Vorbereitung einer Darmspiegelung bei Personen, die das zwölfte Lebensjahr vollendet haben.
 
 4.4
 
-DuoVisc<sup>®</sup>
+DuoVisc
 
-Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes bei Kataraktextraktion und Implantation einer Intraocularlinse.
+Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes bei Kataraktextraktion und Implantation einer Intraokularlinse.
 
 5.1
 
-EtoPril<sup>®</sup>
+EtoPril
 
-Für Minderjährige mit Entwicklungsstörungen und Kinder unter zwölf Jahren zur physikalischen Behandlung des Kopfhaares bei Kopflausbefall.
+Behandlung des Kopfhaares bei Pediculosis capitis bei Personen, die
+
+a)  
+das zwölfte Lebensjahr noch nicht vollendet haben,
+
+b)  
+das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
+
+5.2
+
+EyE-Lotion BSS
+
+Zur Irrigation im Rahmen extraokularer und intraokularer Eingriffe.
 
 6.1
 
-Freka-Clyss<sup>®</sup>
+Freka-Clyss
 
-Für Personen ab zwölf Jahren zur Behandlung der Obstipation nur im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des kongenitalen Megacolons), Divertikulose, Mukoviszidose, neurogener Darmlähmung, vor diagnostischen Eingriffen, bei Opiat- sowie Opioidtherapie und in der Terminalphase.
-Für Minderjährige mit Entwicklungsstörungen und Kinder im Alter von vier bis zwölf Jahren zur Behandlung der Obstipation, zur raschen und nachhaltigen Entleerung des Enddarms vor Operationen, zur Vorbereitung von urologischen, röntgenologischen und gynäkologischen Untersuchungen sowie vor Rektoskopien.
+Behandlung
+
+a)  
+der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
+
+b)  
+vor diagnostischen Eingriffen,
+
+c)  
+bei Opiat- sowie Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation, zur raschen und nachhaltigen Entleerung des Enddarms vor Operationen, zur Vorbereitung von urologischen, röntgenologischen und gynäkologischen Untersuchungen sowie vor Rektoskopien
+
+a)  
+bei Personen, die das vierte, aber noch nicht das zwölfte Lebensjahr vollendet haben, und
+
+b)  
+bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 6.2
 
-Freka Drainjet<sup>®</sup>
+Freka Drainjet
 NaCl 0,9 %
 
-Zur internen und externen Anwendung wie Perfusion des extracorporalen Systems bei der Hämodialyse, postoperative Blasenspülung bei allen urologischen Eingriffen, Spülungen im Magen-Darm-Trakt und von Fisteln und Drainagen. Auch zur Wundbehandlung und zum Befeuchten von Tüchern und Verbänden.
+Zur internen und externen Anwendung wie Perfusion des extrakorporalen Systems bei der Hämodialyse, postoperative Blasenspülung bei allen urologischen Eingriffen, Spülungen im Magen-Darm-Trakt und von Fisteln und Drainagen. Auch zur Wundbehandlung und zum Anfeuchten von Tüchern und Verbänden.
 
 6.3
 
-Freka Drainjet<sup>®</sup>
+Freka Drainjet
 Purisole SM verdünnt
 
-Intra- und postoperative Blasenspülung bei urologischen Eingriffen.
+Zur intraoperativen und postoperativen Blasenspülung bei urologischen Eingriffen.
 
 7.1
 
-Globance<sup>®</sup> Lavage
+Globance Lavage
 
-Zur Behandlung vor diagnostischen Eingriffen bei Personen ab 18 Jahren.
+Zur Behandlung vor diagnostischen Eingriffen bei Personen, die das 18. Lebensjahr vollendet haben.
 
 7.2
 
-Globance<sup>®</sup> Lavage Apfel
+Globance Lavage Apfel
 
-Zur Behandlung vor diagnostischen Eingriffen bei Personen ab 18 Jahren.
+Zur Behandlung vor diagnostischen Eingriffen bei Personen, die das 18. Lebensjahr vollendet haben.
 
 8.1
 
-Healon<sup>®</sup>
+Healon
 
 Für die intraokulare Verwendung bei Augenoperationen.
 
 8.2
 
-HEALON GV<sup>TM</sup>
+Healon5
 
-Viscoelastische Lösung für die intraokulare Verwendung bei Augenoperationen am vorderen Augenabschnitt.
+Als viskoelastische Lösung für die intraokulare Verwendung bei Operationen am vorderen Augenabschnitt.
 
 8.3
 
-HSO<sup>®</sup>
+HEALON GV
 
-Zur Anwendung als Operationshilfe bei ophthalmischen Eingriffen am vorderen und hinteren Augenabschnitt.
+Als viskoelastische Lösung für die intraokulare Verwendung bei Operationen am vorderen Augenabschnitt.
 
 8.4
 
-HSO<sup>®</sup>Plus
+HSO
 
 Zur Anwendung als Operationshilfe bei ophthalmischen Eingriffen am vorderen und hinteren Augenabschnitt.
 
 8.5
 
-Hylo<sup>®</sup>-Gel
+HSO Plus
 
-Synthetische Tränenflüssigkeit bei Autoimmun-Erkrankungen (Sjögren-Syndrom mit deutlichen Funktionsstörungen \[trockenes Auge Grad 2\], Epidermolysis bulosa, okulares Pemphigoid), Fehlen oder Schädigung der Tränendrüse, Fazialisparese oder bei Lagophthalmus.
+Zur Anwendung als Operationshilfe bei ophthalmischen Eingriffen am vorderen und hinteren Augenabschnitt.
+
+8.6
+
+Hylo-Gel
+
+Als synthetische Tränenflüssigkeit bei Autoimmunerkrankungen (Sjögren-Syndrom mit deutlichen Funktionsstörungen \[trockenes Auge Grad 2\], Epidermolysis bulosa, okulares Pemphigoid), Fehlen oder Schädigung der Tränendrüse, Fazialisparese oder bei Lagophthalmus.
 
 9.1
 
-Isotonische Kochsalzlösung zur
-Inhalation (Eifelfango)
+IsoFree
 
-Als Trägerlösung bei der Verwendung von Inhalaten in Verneblern oder Aerosolgeräten. Dies gilt nur für die Fälle, in denen der Zusatz einer Trägerlösung in der Fachinformation des arzneistoffhaltigen Inhalats zwingend vorgesehen ist.
+Als Trägerlösung bei der Verwendung von Inhalaten in Verneblern oder Aerosolgeräten, wenn der Zusatz einer isotonen Trägerlösung in der Fachinformation des arzneistoffhaltigen Inhalats zwingend vorgesehen ist.
+
+9.2
+
+Isotonische Kochsalzlösung zur Inhalation (Eifelfango)
+
+Als Trägerlösung bei der Verwendung von Inhalaten in Verneblern oder Aerosolgeräten, wenn der Zusatz einer isotonen Trägerlösung in der Fachinformation des arzneistoffhaltigen Inhalats zwingend vorgesehen ist.
 
 10.1
 
-Jacutin<sup>®</sup> Pedicul Fluid
+Jacutin Pedicul Fluid
 
-Für Minderjährige mit Entwicklungsstörungen und Kinder unter zwölf Jahren zur physikalischen Behandlung des Kopfhaares bei Kopflausbefall.
+Behandlung des Kopfhaares bei Pediculosis capitis bei Personen, die
+
+a)  
+das zwölfte Lebensjahr noch nicht vollendet haben,
+
+b)  
+das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 11.1
 
 Klistier Fresenius
 
-Für Personen ab zwölf Jahren zur Behandlung der Obstipation nur im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des kongenitalen Megacolons), Divertikulose, Mukoviszidose, neurogener Darmlähmung, vor diagnostischen Eingriffen, bei Opiat- sowie Opioidtherapie und in der Terminalphase.
-Für Minderjährige mit Entwicklungsstörungen und Kinder im Alter von vier bis zwölf Jahren zur Behandlung der Obstipation, zur raschen und nachhaltigen Entleerung des Enddarms vor Operationen, zur Vorbereitung von urologischen, röntgenologischen und gynäkologischen Untersuchungen sowie vor Rektoskopien.
+Behandlung
+
+a)  
+der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des kongenitalen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
+
+b)  
+vor diagnostischen Eingriffen,
+
+<!-- -->
+
+c)  
+bei Opiat- sowie Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation, zur raschen und nachhaltigen Entleerung des Enddarms vor Operationen, zur Vorbereitung von urologischen, röntgenologischen und gynäkologischen Untersuchungen sowie vor Rektoskopien
+
+a)  
+bei Personen, die das vierte, aber noch nicht das zwölfte Lebensjahr vollendet haben, und
+
+b)  
+bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 12.1
 
-Laxatan<sup>®</sup> M
-
-Für Personen ab 16 Jahren zur Behandlung der Obstipation nur im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose, neurogener Darmlähmung, bei phosphatbindender Medikation bei chronischer Niereninsuffizienz, Opiat- sowie Opioidtherapie und in der Terminalphase.
-Für Jugendliche im Alter von 16 bis 18 Jahren mit Entwicklungsstörungen zur Behandlung der Obstipation.
-
-12.2
-
-Lubricano<sup>®</sup>
-Steriles Gel
+Lubricano
 
 Zur Anwendung bei Personen mit Katheterisierung.
 
 13.1
 
-Macrogol 1A Pharma<sup>®</sup>
+Macrogol 1A Pharma
 
-Für Personen ab zwölf Jahren zur Behandlung der Obstipation nur im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose, neurogener Darmlähmung, bei phosphatbindender Medikation bei chronischer Niereninsuffizienz, Opiat- sowie Opioidtherapie und in der Terminalphase.
-Für Jugendliche im Alter von zwölf bis 18 Jahren mit Entwicklungsstörungen zur Behandlung der Obstipation.
+Behandlung
+
+a)  
+der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
+
+b)  
+bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
+
+c)  
+bei Opiat- sowie Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 13.2
 
 Macrogol AbZ
 
-Für Personen ab 13 Jahren zur Behandlung der Obstipation nur im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose, neurogener Darmlähmung, bei phosphatbindender Medikation bei chronischer Niereninsuffizienz, Opiat- sowie Opioidtherapie und in der Terminalphase.
-Für Jugendliche im Alter von zwölf bis 18 Jahren mit Entwicklungsstörungen zur Behandlung der Obstipation.
+Behandlung
+
+a)  
+der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
+
+b)  
+bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
+
+c)  
+bei Opiat- sowie Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 13.3
 
 Macrogol AL
 
-Für Personen ab 13 Jahren zur Behandlung der Obstipation nur im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose, neurogener Darmlähmung, bei phosphatbindender Medikation bei chronischer Niereninsuffizienz, Opiat- sowie Opioidtherapie und in der Terminalphase.
-Für Jugendliche im Alter von zwölf bis 18 Jahren mit Entwicklungsstörungen zur Behandlung der Obstipation.
+Behandlung
+
+a)  
+der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
+
+b)  
+bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
+
+c)  
+bei Opiat- sowie Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 13.4
 
-Marcogol-CT
+Macrogol-CT
 Abführpulver
 
-Für Personen ab zwölf Jahren zur Behandlung der Obstipation nur im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose, neurogener Darmlähmung, bei phosphatbindender Medikation bei chronischer Niereninsuffizienz, Opiat- sowie Opioidtherapie und in der Terminalphase.
-Für Jugendliche im Alter von zwölf bis 18 Jahren mit Entwicklungsstörungen zur Behandlung der Obstipation.
+Behandlung
+
+a)  
+der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose bei neurogener Darmlähmung,
+
+b)  
+bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
+
+c)  
+bei Opiat- sowie Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 13.5
 
-Macrogol dura<sup>®</sup>
+Macrogol dura
 
-Für Personen ab zwölf Jahren zur Behandlung der Obstipation nur im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose, neurogener Darmlähmung, bei phosphatbindender Medikation bei chronischer Niereninsuffizienz, Opiat- sowie Opioidtherapie und in der Terminalphase.
-Für Jugendliche im Alter von zwölf bis 18 Jahren mit Entwicklungsstörungen zur Behandlung der Obstipation.
+Behandlung
+
+a)  
+der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
+
+b)  
+bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
+
+c)  
+bei Opiat- sowie Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 13.6
 
-Marcrogol HEXAL<sup>®</sup>
+Macrogol HEXAL
 
-Für Personen ab zwölf Jahren zur Behandlung der Obstipation nur im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose, neurogener Darmlähmung, bei phosphatbindender Medikation bei chronischer Niereninsuffizienz, Opiat- sowie Opioidtherapie und in der Terminalphase.
-Für Jugendliche im Alter von zwölf bis 18 Jahren mit Entwicklungsstörungen zur Behandlung der Obstipation.
+Behandlung
+
+a)  
+der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
+
+b)  
+bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
+
+c)  
+bei Opiat- sowie Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 13.7
 
-Marcrogolratiopharm<sup>®</sup>
+Macrogolratiopharm
 
-Für Personen ab zwölf Jahren zur Behandlung der Obstipation nur im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose, neurogener Darmlähmung, bei phosphatbindender Medikation bei chronischer Niereninsuffizienz, Opiat- sowie Opioidtherapie und in der Terminalphase.
-Für Jugendliche im Alter von zwölf bis 18 Jahren mit Entwicklungsstörungen zur Behandlung der Obstipation.
+Behandlung
+
+a)  
+der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
+
+b)  
+bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
+
+c)  
+bei Opiat- sowie Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 13.8
 
-Macrogol Sandoz<sup>®</sup>
+Macrogol Sandoz
 
-Für Personen ab zwölf Jahren zur Behandlung der Obstipation nur im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose, neurogener Darmlähmung, bei phosphatbindender Medikation bei chronischer Niereninsuffizienz, Opiat- sowie Opioidtherapie und in der Terminalphase.
-Für Jugendliche im Alter von zwölf bis 18 Jahren mit Entwicklungsstörungen zur Behandlung der Obstipation.
+Behandlung
+
+a)  
+der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
+
+b)  
+bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
+
+c)  
+bei Opiat- sowie Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 13.9
 
-Macrogol STADA<sup>®</sup>
+Macrogol STADA
 
-Für Personen ab zwölf Jahren zur Behandlung der Obstipation nur im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose, neurogener Darmlähmung, bei phosphatbindender Medikation bei chronischer Niereninsuffizienz, Opiat- sowie Opioidtherapie und in der Terminalphase.
-Für Jugendliche im Alter von zwölf bis 18 Jahren mit Entwicklungsstörungen zur Behandlung der Obstipation.
+Behandlung
+
+a)  
+der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
+
+b)  
+bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
+
+c)  
+bei Opiat- sowie Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 13.10
 
-Macrogol TAD<sup>®</sup>
+Macrogol TAD
 
-Für Personen ab zwölf Jahren zur Behandlung der Obstipation nur im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose, neurogener Darmlähmung, bei phosphatbindender Medikation bei chronischer Niereninsuffizienz, Opiat- sowie Opioidtherapie und in der Terminalphase.
-Für Jugendliche im Alter von zwölf bis 18 Jahren mit Entwicklungsstörungen zur Behandlung der Obstipation.
+Behandlung
+
+a)  
+der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
+
+b)  
+bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
+
+c)  
+bei Opiat- sowie Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 13.11
 
 Medicoforum Laxativ
 
-Für Personen ab zwölf Jahren zur Behandlung der Obstipation nur im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose, neurogener Darmlähmung, bei phosphatbindender Medikation bei chronischer Niereninsuffizienz, Opiat- sowie Opioidtherapie und in der Terminalphase.
-Für Jugendliche im Alter von zwölf bis 18 Jahren mit Entwicklungsstörungen zur Behandlung der Obstipation.
+Behandlung
+
+a)  
+der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
+
+b)  
+bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
+
+c)  
+bei Opiat- sowie Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 13.12
 
-mosquito<sup>®</sup> med Läuse-Shampoo
+Mosquito med Läuse-Shampoo 10
 
-Für Minderjährige mit Entwicklungsstörungen und Kinder unter zwölf Jahren zur physikalischen Behandlung des Kopfhaares bei Kopflausbefall.
+Behandlung des Kopfhaares bei Pediculosis capitis bei Personen, die
+
+a)  
+das zwölfte Lebensjahr noch nicht vollendet haben,
+
+b)  
+das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 13.13
 
-MucoClear<sup>®</sup> 6 %
+MucoClear 6 %
 
-Zur symptomatischen Inhalationsbehandlung der Mukoviszidose für Personen ab sechs Jahren.
+Zur symptomatischen Inhalationsbehandlung der Mukoviszidose bei Personen, die das sechste Lebensjahr vollendet haben.
 
 13.14
 
-MOVICOL<sup>®</sup> flüssig Orange
+MOVICOL
 
-Für Personen ab 13 Jahren zur Behandlung der Obstipation nur im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Diverkulitis, Mukoviszidose, neurogener Darmlähmung, bei phosphatbindender Medikation bei chronischer Niereninsuffizienz, Opiat- sowie Opioidtherapie und in der Terminalphase.
-Für Jugendliche im Alter von zwölf bis 18 Jahren mit Entwicklungsstörungen zur Behandlung der Obstipation.
+Behandlung
+
+a)  
+der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
+
+b)  
+bei phosphatbindender Medikation der chronischen Niereninsuffizienz,
+
+c)  
+bei Opiat- oder Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben. Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 13.15
 
-MOVICOL<sup>®</sup> Junior Schoko
+MOVICOL flüssig Orange
 
-Für Kinder im Alter von zwei bis elf Jahren zur Behandlung der Obstipation.
+Behandlung
+
+a)  
+der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
+
+b)  
+bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
+
+c)  
+bei Opiat- sowie Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
+
+13.16
+
+MOVICOL Junior aromafrei
+
+Behandlung der Obstipation bei Personen, die das zweite, aber noch nicht das elfte Lebensjahr vollendet haben.
+Behandlung der Koprostase bei Personen, die das fünfte, aber noch nicht das elfte Lebensjahr vollendet haben.
+
+13.17
+
+MOVICOL Junior Schoko
+
+Behandlung der Obstipation bei Personen, die das zweite, aber noch nicht das elfte Lebensjahr vollendet haben.
 
 14.1
 
 NaCl 0,9 % B. Braun
 
-Zur Spülung und Reinigung bei operativen Eingriffen,
-zur Spülung von Wunden und Verbrennungen,
-zum Anfeuchten von Wundtamponaden, Tüchern und Verbänden,
-zur Überprüfung der Durchlässigkeit von Blasenkathetern sowie
-zur mechanischen Augenspülung.
+Zur Spülung und Reinigung bei operativen Eingriffen, zur Spülung von Wunden und Verbrennungen, zum Anfeuchten von Wundtamponaden, Tüchern und Verbänden, zur Überprüfung der Durchlässigkeit von Blasenkathetern sowie zur mechanischen Augenspülung.
 
 14.2
 
 NaCl 0,9 %
 Fresenius Kabi
 
-Zur internen und externen Anwendung wie Perfusion des extracorporalen Systems bei der Hämodialyse, der postoperativen Blasenspülung bei allen urologischen Eingriffen, Spülungen im Magen-Darm-Trakt und von Fisteln und Drainagen. Auch zur Wundbehandlung und zum Befeuchten von Tüchern und Verbänden;
-jeweils in einer Menge, die ausschließlich für die einmalige Anwendung geeignet ist.
+Zur internen und externen Anwendung wie Perfusion des extrakorporalen Systems bei der Hämodialyse, der postoperativen Blasenspülung bei allen urologischen Eingriffen, Spülungen im Magen-Darm-Trakt und von Fisteln und Drainagen. Auch zur Wundbehandlung und zum Anfeuchten von Tüchern und Verbänden; jeweils in einer Menge, die ausschließlich für die einmalige Anwendung geeignet ist.
 
 14.3
 
-Nebusal™ 7 %
+Nebusal 7 %
 
-Zur symptomatischen Inhalationsbehandlung der Mukoviszidose für Personen ab sechs Jahren.
+Zur symptomatischen Inhalationsbehandlung der Mukoviszidose bei Personen ab sechs Jahren.
 
 14.4
 
-NYDA<sup>®</sup>
+NYDA
 
-Für Minderjährige mit Entwicklungsstörungen und Kinder unter zwölf Jahren zur physikalischen Behandlung des Kopfhaares bei Kopflausbefall.
+Behandlung des Kopfhaares bei Pediculosis capitis bei Personen, die
+
+a)  
+das zwölfte Lebensjahr noch nicht vollendet haben,
+
+b)  
+das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 15.1
 
-OcuCoat<sup>®</sup>
+OcuCoat
 
 Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes.
 
@@ -3472,34 +3947,40 @@ Zur Irrigation im Rahmen extraokularer und intraokularer Eingriffe.
 
 15.3
 
-Okta-line<sup>TM</sup>
+Okta-line
 
 Zur Anwendung als Operationshilfe in der Ophthalmochirurgie, zur mechanischen Netzhautentfaltung nach Netzhautablösungen/PVR/PDR, Riesenrissen, okularen Traumata sowie zur vereinfachten Entfernung subluxierter Linsen und Fremdkörper aus dem Glaskörperraum.
 
 15.4
 
-Oxane<sup>®</sup> 1300
+Oxane 1300
 
 Zur intraokularen Tamponade bei schweren Formen der Netzhautablösung sowie allen Netzhautablösungen, die mit anderen Therapieformen nicht behandelt werden können. Ausgenommen ist die Anwendung bei zentralen Foramina mit Ablösung und bei schweren diabetischen Retinopathien.
 
 15.5
 
-Oxane<sup>®</sup> 5700
+Oxane 5700
 
 Zur intraokularen Tamponade bei schweren Formen der Netzhautablösung sowie allen Netzhautablösungen, die mit anderen Therapieformen nicht behandelt werden können. Ausgenommen ist die Anwendung bei zentralen Foramina mit Ablösung und bei schweren diabetischen Retinopathien.
 
 16.1
 
-Pädiasalin<sup>®</sup>
+Pädiasalin
 Inhalationslösung
 
 Als Trägerlösung bei der Verwendung von Inhalaten in Verneblern oder Aerosolgeräten. Dies gilt nur für die Fälle, in denen der Zusatz einer Trägerlösung in der Fachinformation des arzneistoffhaltigen Inhalats zwingend vorgesehen ist.
 
 16.2
 
-Paranix<sup>®</sup> ohne Nissenkamm
+Paranix ohne Nissenkamm
 
-Für Minderjährige mit Entwicklungsstörungen und Kinder unter zwölf Jahren zur physikalischen Behandlung des Kopfhaares bei Kopflausbefall.
+Behandlung des Kopfhaares bei Pediculosis capitis bei Personen, die
+
+a)  
+das zwölfte Lebensjahr noch nicht vollendet haben,
+
+b)  
+das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 16.3
 
@@ -3509,69 +3990,89 @@ Als Trägerlösung bei der Verwendung von Inhalaten in Verneblern oder Aerosolge
 
 16.4
 
-Pe-Ha-Luron<sup>®</sup> 1,0 %
+ParkoLax
 
-Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes.
+Behandlung
+
+a)  
+der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
+
+b)  
+bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
+
+c)  
+bei Opiat- sowie Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
 16.5
 
-Pe-Ha-Visco<sup>®</sup> 2,0 %
+Pe-Ha-Luron 1,0 %
 
 Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes.
 
 16.6
 
-Polyvisc<sup>®</sup> 2,0 %
+Pe-Ha-Visco 2,0 %
 
 Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes.
 
 16.7
 
-Polysol<sup>®</sup>
+Polyvisc 2,0 %
 
-Zur Irrigation im Rahmen extraokularer und intraokularer Eingriffe.
+Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes.
 
 16.8
 
-ProVisc<sup>®</sup>
+Polysol
+
+Zur Irrigation im Rahmen extraokularer und intraokularer Eingriffe.
+
+16.9
+
+ProVisc
 
 Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes bei Kataraktextraktion und Implantation einer Intraokularlinse.
 
-16.9
+16.10
 
 PURI CLEAR
 
 Zur Irrigation im Rahmen extraokularer und intraokularer Eingriffe.
 
-16.10
+16.11
 
-Purisole<sup>®</sup> SM verdünnt
+Purisole SM verdünnt
 
-Intra- und postoperative Blasenspülung bei urologischen Eingriffen;
-jeweils in einer Menge, die ausschließlich für die einmalige Anwendung geeignet ist.
+Zur intraoperativen und postoperativen Blasenspülung bei urologischen Eingriffen; jeweils in einer Menge, die ausschließlich für die einmalige Anwendung geeignet ist.
 
 17.1
 
 Ringer B. Braun
 
-Zur Spülung und Reinigung bei operativen Eingriffen, zur Spülung von Wunden und Verbrennungen sowie zur intra- und postoperativen Spülung bei endoskopischen Eingriffen.
+Zur Spülung und Reinigung bei operativen Eingriffen, zur Spülung von Wunden und Verbrennungen sowie zur intraoperativen und postoperativen Spülung bei endoskopischen Eingriffen.
 
 17.2
 
 Ringer Fresenius
 Spüllösung
 
-Zum Freispülen und Reinigen des Operationsgebietes, zum Feuchthalten des Gewebes, zur Wundspülung bei äußeren Traumen und Verbrennungen, zur Spülung bei diagnostischen Untersuchungen sowie zum Befeuchten von Wunden und Verbänden; jeweils in einer Menge, die ausschließlich für die einmalige Anwendung geeignet ist.
+Zum Freispülen und Reinigen des Operationsgebietes, zum Feuchthalten des Gewebes, zur Wundspülung bei äußeren Traumen und Verbrennungen, zur Spülung bei diagnostischen Untersuchungen sowie zum Anfeuchten von Wunden und Verbänden; jeweils in einer Menge, die ausschließlich für die einmalige Anwendung geeignet ist.
 
 18.1
 
 Saliva natura
 
-Zur Behandlung krankheitsbedingter Mundtrockenheit bei onkologischen oder Autoimmun-Erkrankungen.
+Zur Behandlung krankheitsbedingter Mundtrockenheit bei onkologischen oder Autoimmunerkrankungen.
 
 18.2
 
-Sentol<sup>®</sup>
+Sentol
 
 Zur Irrigation im Rahmen extraokularer und intraokularer Eingriffe.
 
@@ -3589,7 +4090,7 @@ Zur Irrigation im Rahmen extraokularer und intraokularer Eingriffe.
 
 19.1
 
-VISCOAT<sup>®</sup>
+VISCOAT
 
 Zur Anwendung bei ophthalmologischen Eingriffen am vorderen Augenabschnitt, insbesondere bei Kataraktextraktion und Implantation einer Intraokularlinse.
 
@@ -3605,11 +4106,30 @@ Viso HYAL 1.4+
 
 Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes.
 
+19.4
+
+VISMED
+
+Als synthetische Tränenflüssigkeit bei Autoimmunerkrankungen (Sjögren-Syndrom mit deutlichen Funktionsstörungen \[trockenes Auge Grad 2\], Epidermolysis bullosa, okuläres Pemphigoid), Fehlen oder Schädigung der Tränendrüse, Fazialisparese oder bei Lagophthalmus.
+
+19.5
+
+VISMED MULTI
+
+Als synthetische Tränenflüssigkeit bei Autoimmunerkrankungen (Sjögren-Syndrom mit deutlichen Funktionsstörungen \[trockenes Auge Grad 2\], Epidermolysis bullosa, okuläres Pemphigoid), Fehlen oder Schädigung der Tränendrüse, Fazialisparese oder bei Lagophthalmus.
+
+20.1
+
+Z-HYALIN
+
+Zur Unterstützung intraokularer Eingriffe am vorderen Augenabschnitt bei Kataraktoperationen.
+
 ### Anlage 5 (zu § 22 Absatz 2 Nummer 1)Arzneimittel, die überwiegend der Erhöhung der Lebensqualität dienen
 
-(Fundstelle: BGBl. I 2012, 1962 - 1963)
+(Fundstelle: BGBl. I 2015, 853 - 855)
 
-**Regulierung des Körpergewichts (zentral wirkend)**
+**Abschnitt 1
+Regulierung des Körpergewichts (zentral wirkend)**
 
 Wirkstoff
 
@@ -3619,7 +4139,7 @@ A 08 AA 01 Phentermin
 
 A 08 AA 02 Fenfluramin
 
-A 08 AA 03 Amferamon
+A 08 AA 03 Amfepramon
 
 REGENON
 TENUATE Retard
@@ -3632,7 +4152,7 @@ A 08 AA 06 Etilamfetamin
 
 A 08 AA 07 Cathin
 
-ANTIADIPOSITUM X – 112 T
+ALVALIN
 
 A 08 AA 08 Clobenzorex
 
@@ -3642,17 +4162,16 @@ A 08 AA 10 Sibutramin
 
 REDUCTIL
 
-Phenylpropanolamin
+A 08 AA 13 Phenylpropanolamin
 
 Antiadipositum Riemser
 BOXOGETTEN S
 RECATOL mono
 
-Rimonabant
+A 08 AX 01 Rimonabant
 
-ACOMPLIA
-
-**Regulierung des Körpergewichts (peripher wirkend)**
+**Abschnitt 2
+Regulierung des Körpergewichts (peripher wirkend)**
 
 Wirkstoff
 
@@ -3660,16 +4179,19 @@ Fertigarzneimittel, alle Wirkstärken
 
 A 08 AB 01 Orlistat
 
+alli
 XENICAL
+alle generischen Orlistat-Fertigarzneimittel
 
-**Behandlung der sexuellen Dysfunktion**
+**Abschnitt 3
+Behandlung der sexuellen Dysfunktion**
 
 Wirkstoff
 
 Fertigarzneimittel, alle Wirkstärken
 
 G 04 BE 01 Alprostadil
-(Ausnahme als Diagnostikum)
+(außer als Diagnostikum)
 
 CAVERJECT
 CAVERJECT Impuls
@@ -3681,9 +4203,11 @@ G 04 BE 02 Papaverin
 G 04 BE 03 Sildenafil
 
 VIAGRA
+alle generischen Sildenafil-Fertigarzneimittel
 
 G 04 BE 04 Yohimbin
 
+Procomil
 YOCON GLENWOOD
 YOHIMBIN SPIEGEL
 
@@ -3693,16 +4217,18 @@ G 04 BE 06 Moxisylyt
 
 G 04 BE 07 Apomorphin
 
-IXENSE
-UPRIMA
-
 G 04 BE 08 Tadalafil
+(außer Taldafil 5 mg zur Behandlung des benignen Prostatasyndroms bei Männern, die das 18. Lebensjahr vollendet haben)
 
 CIALIS
 
 G 04 BE 09 Vardenafil
 
 LEVITRA
+
+G 04 BE 10 Avanafil
+
+SPEDRA
 
 G 04 BE 30 Kombinationen
 
@@ -3712,13 +4238,18 @@ G 04 BX 14 Dapoxetinhydrochlorid
 
 Priligy
 
-**Bekämpfung der Nikotinabhängigkeit**
+Turnera diffusa Dil. D4
+
+DESEO
+
+**Abschnitt 4
+Bekämpfung der Nikotinabhängigkeit**
 
 Wirkstoff
 
 Fertigarzneimittel, alle Wirkstärken
 
-N 07 BA 01 Nicotin (nicht verschreibungspflichtig)
+N 07 BA 01 Nicotin
 
 NIQUITIN
 Nicopass
@@ -3731,13 +4262,13 @@ N 07 BA 02 Bupropion
 N 06 AX 12
 
 ZYBAN
-Wellbutrin
 
 N 07 BA 03 Varenicline
 
-CHAMPIX
+Champix
 
-**Steigerung des sexuellen Verlangens**
+**Abschnitt 5
+Steigerung des sexuellen Verlangens**
 
 Wirkstoff
 
@@ -3747,7 +4278,12 @@ G 03 BA 03 Testosteron
 
 Intrinsa
 
-**Verbesserung des Haarwuchses**
+Turnera diffusa Dil. D4
+
+DESEO
+
+**Abschnitt 6
+Förderung des Haarwuchses**
 
 Wirkstoff
 
@@ -3755,6 +4291,7 @@ Fertigarzneimittel, alle Wirkstärken
 
 D 11 AX 01 Minoxidil
 
+ALOPEXY 5 %
 REGAINE
 
 D 11 AX 10 Finasterid
@@ -3768,31 +4305,26 @@ Estradiolbenzoat; Prednisolon, Salicylsäure
 
 ALPICORT F
 
-Alfatradiol (nicht verschreibungspflichtig)
+Alfatradiol
 
 ELL CRANELL alpha
-
-Alfatradiol (nicht verschreibungspflichtig)
-
 PANTOSTIN
 
 Dexamethason; Alfatradiol
 
-ELL CRANELL dexa
-
 Thiamin; Calcium pantothenat; Hefe, medizinisch;
-L-Cydtin; Keratin (nicht verschreibungspflichtig)
+L-Cystin; Keratin
 
-PANTOVIGAR N
 Pantovigar
 
-**Verbesserung des Aussehens**
+**Abschnitt 7
+Verbesserung des Aussehens**
 
 Wirkstoff
 
 Fertigarzneimittel, alle Wirkstärken
 
-M 03 AX 01 Clostridium botulinum Toxin Typ A
+M 03 AX 21 Clostridium botulinum Toxin Typ A
 
 Azzalure
 Vistabel
@@ -3800,7 +4332,8 @@ Bocouture Vial
 
 ### Anlage 6 (zu § 22 Absatz 2 Nummer 3 Buchstabe c)Beihilfefähigkeit nicht verschreibungspflichtiger Arzneimittel
 
-(Fundstelle: BGBl. I 2012, 1964 - 1967)
+(Fundstelle: BGBl. I 2012, 1964 - 1967;
+bzgl. der einzelnen Änderungen vgl. Fußnote))
 
 Schwerwiegende Erkrankungen und Standardtherapeutika zu deren Behandlung sind:
 
@@ -3808,7 +4341,7 @@ Schwerwiegende Erkrankungen und Standardtherapeutika zu deren Behandlung sind:
 Abführmittel nur zur Behandlung von Erkrankungen im Zusammenhang mit Tumorleiden, Megacolon, Divertikulose, Divertikulitis, Mukoviszidose, neurogener Darmlähmung, vor diagnostischen Eingriffen, bei phosphatbindender Medikation bei chronischer Niereninsuffizienz, Opiat- sowie Opioidtherapie und in der Terminalphase.
 
 2.  
-Acetylsalicylsäure (bis 300 mg/Dosiseinheit) als Thrombozyten-Aggregationshemmer in der Nachsorge von Herzinfarkt und Schlaganfall sowie nach arteriellen Eingriffen.
+Acetylsalicylsäure (bis 300 mg/Dosiseinheit) als Thrombozyten-Aggregationshemmer bei koronarer Herzkrankheit (gesichert durch Symptomatik und ergänzende nichtinvasive oder invasive Diagnostik) und in der Nachsorge von Herzinfarkt und Schlaganfall sowie nach arteriellen Eingriffen.
 
 3.  
 Acetylsalicylsäure und Paracetamol nur zur Behandlung schwerer und schwerster Schmerzen in Co-Medikation mit Opioiden.
@@ -3832,7 +4365,7 @@ Antiseptika und Gleitmittel nur für Personen mit Katheterisierung.
 Arzneistofffreie Injektions-/Infusions-, Träger- und Elektrolytlösungen sowie parenterale Osmodiuretika bei Hirnödem (Mannitol, Sorbitol).
 
 10.  
-Calciumverbindungen (mindestens 300 mg Calcium-Ion/Dosiseinheit) und Vitamin D (freie oder fixe Kombination)nur zur Behandlung der manifesten Osteoporose,nur zeitgleich zur Steroidtherapie bei Erkrankungen, die voraussichtlich einer mindestens sechsmonatigen Steroidtherapie in einer Dosiseinheit von wenigstens 7,5 mg Prednisoionäquivalent bedürfen,bei Bisphosphonat-Behandlung nach der Angabe in der jeweiligen Fachinformation bei zwingender Notwendigkeit.
+Calciumverbindungen (mindestens 300 mg Calcium-Ion/Dosiseinheit) und Vitamin D (freie oder fixe Kombination) sowie Vitamin D als Monopräparat bei ausreichender Calciumzufuhr über die Nahrungnur zur Behandlung der manifesten Osteoporose,nur zeitgleich zur Steroidtherapie bei Erkrankungen, die voraussichtlich einer mindestens sechsmonatigen Steroidtherapie in einer Dosiseinheit von wenigstens 7,5 mg Prednisolonäquivalent bedürfen,bei Bisphosphonat-Behandlung nach der Angabe in der jeweiligen Fachinformation bei zwingender Notwendigkeit.
 
 11.  
 Calciumverbindungen als Monopräparatebei Pseudohypo- und Hypoparathyreodismus,bei Bisphosphonat-Behandlung nach der Angabe in der jeweiligen Fachinformation, bei zwingender Notwendigkeit.
@@ -3886,7 +4419,7 @@ Magnesiumverbindungen, oral, nur bei angeborenen Magnesiumverlusterkrankungen.
 Magnesiumverbindungen, parenteral, nur zur Behandlung bei nachgewiesenem Magnesiummangel und zur Behandlung bei erhöhtem Eklampsierisiko.
 
 28.  
-L-Methionin nur zur Vermeidung der Steinneubildung bei Phosphatsteinen bei neurogener Blasenlähmung, wenn Ernährungsempfehlungen und Blasenentleerungstraining erfolglos geblieben sind.
+(frei)
 
 29.  
 Metixenhydrochlorid nur zur Behandlung des Parkinson-Syndroms.
@@ -3936,1272 +4469,1174 @@ Zinkverbindungen als Monopräparat nur zur Behandlung der enteropathischen Akrod
 44.  
 Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanästhetika zur Injektion,apothekenpflichtige nicht verschreibungspflichtige Arzneimittel, die im Rahmen der ärztlichen Behandlung zur sofortigen Anwendung in der Praxis verfügbar sein müssen, können verordnet werden, wenn entsprechende Vereinbarungen zwischen den Verbänden der Krankenkassen und den Kassenärztlichen Vereinigungen getroffen werden.
 
-### Anlage 7 (zu § 22 Absatz 3)Arzneimittelgruppen, für die Festbeträge gelten
-
-(Fundstelle: BGBl. I 2012, 1966 - 1990)
-
-**1.**  
-**Festbetragsgruppen für Arzneimittel mit denselben Wirkstoffen**
-
-1.1  
-5-Fluorouracil: parenterale Darreichungsformen
-
-1.2  
-Acetazolamid: feste orale Darreichungsformen, normal freisetzend
-
-1.3  
-Acetylcystein: orale Darreichungsformen
-
-1.4  
-Aciclovir: orale Darreichungsformen
-
-1.5  
-Aciclovir: topische Darreichungsformen
-
-1.6  
-Aciclovir: Ophthalmika
-
-1.7  
-Aciclovir: parenterale Darreichungsformen
-
-1.8  
-Allopurinol: orale Darreichungsformen
-
-1.9  
-Alpha-Liponsäure: feste orale Darreichungsformen
-
-1.10  
-Alpha-Liponsäure: parenterale Darreichungsformen
-
-1.11  
-Amantadin: abgeteilte orale Darreichungsformen
-
-1.12  
-Ambroxol: orale Darreichungsformen
-
-1.13  
-Ambroxol: inhalative Darreichungsformen
-
-1.14  
-Ambroxol: parenterale Darreichungsformen
-
-1.15  
-Ambroxol + Doxycyclin: feste orale Darreichungsformen
-
-1.16  
-Amilorid + Hydrochlorothiazid: orale Darreichungsformen
-
-1.17  
-Amiodaron: orale Darreichungsformen
-
-1.18  
-Amisulprid: abgeteilte orale Darreichungsformen
-
-1.19  
-Amitriptylin: orale Darreichungsformen
-
-1.20  
-Ammoniumbituminosulfonat: topische Darreichungsformen
-
-1.21  
-Amoxicillin: abgeteilte orale Darreichungsform
-
-1.22  
-Amoxicillin: flüssige orale Darreichungsform
-
-1.23  
-Atenolol: feste orale Darreichungsformen
-
-1.24  
-Atenolol + Chortalidon: feste orale Darreichungsformen
-
-1.25  
-Azathioprin: orale Darreichungsformen
-
-1.26  
-Bemetizid + Triamenteren: feste orale Darreichungsformen
-
-1.27  
-Benzoylperoxid: topische Darreichungsformen
-
-1.28  
-Beta-Acetyldigoxin: feste orale Darreichungsformen
-
-1.29  
-Betahistin: orale Darreichungsformen
-
-1.30  
-Bicalutamid: orale Darreichungsformen
-
-1.31  
-Biperiden: feste orale Darreichungsformen, normal freisetzend
-
-1.32  
-Biperiden: feste, orale Darreichungsformen, verzögert freisetzend
-
-1.33  
-Bisoprolol + Hydrochlorothiazid: abgeteilte orale Darreichungsformen
-
-1.34  
-Bromazepam: orale Darreichungsformen
-
-1.35  
-Bromhexin: feste orale Darreichungsformen
-
-1.36  
-Bromhexin: flüssige orale Darreichungsformen
-
-1.37  
-Buspiron: abgeteilte orale Darreichungsformen
-
-1.38  
-Butylscopolamin: feste orale Darreichungsformen
-
-1.39  
-Butylscopolamin: rektale Darreichungsformen
-
-1.40  
-Butylscopolamin: parenterale Darreichungsformen
-
-1.41  
-Calcium zur Substitution und Therapie: orale Darreichungsformen
-
-1.42  
-Carbamazepin: feste orale Darreichungsformen, normal freisetzend
-
-1.43  
-Carbamazepin: feste orale Darreichungsformen, verzögert freisetzend
-
-1.44  
-Carbimazol: feste orale Darreichungsformen
-
-1.45  
-Choriongonadotropoin: parenterale Darreichungsformen
-
-1.46  
-Ciclosporin: orale Darreichungsformen
-
-1.47  
-Ciclosporin: orale Darreichungsformen, auf Mikro-/Nanoemulsionsbasis oder kolloidal dispergiert
-
-1.48  
-Cimetidin: orale Darreichungsformen
-
-1.49  
-Cimetidin: parenterale Darreichungsformen
-
-1.50  
-Clindamycin: orale Darreichungsformen
-
-1.51  
-Clodronsäure: orale Darreichungsformen
-
-1.52  
-Clomifen: feste orale Darreichungsformen
-
-1.53  
-Clonidin: feste orale Darreichungsformen, normal freisetzend
-
-1.54  
-Clonidin: feste orale Darreichungsformen, verzögert freisetzend
-
-1.55  
-Clonidin: Ophalmika
-
-1.56  
-Clotrimazol: Creme, Salbe
-
-1.57  
-Clotrimazol: Liquidum, Lösung, Pumpspray, Spray, Tropflösung
-
-1.58  
-Clotrimazol: vaginale topische Darreichungsformen
-
-1.59  
-Clozapin: abgeteilte orale Darreichungsformen
-
-1.60  
-Colecalciferol: feste orale Darreichungsformen (400 bis 1 000 I. E.)
-
-1.61  
-Colecalciferol + Fluorid: feste orale Darreichungsformen (500 bis 1 000 I. E. Colecalciferol + 0,25 mg Fluorid)
-
-1.62  
-Co-Trimoxazol: feste orale Darreichungsformen
-
-1.63  
-Co Trimoxazol: flüssige orale Darreichungsformen
-
-1.64  
-Cromoglicinsäure: Augentropfen, Eindosispipetten
-
-1.65  
-Cromoglicinsäure: Nasenspray, Nasentropfen, Spray
-
-1.66  
-Cromoglicinsäure: Augentropfen/Nasenspray (Kombipackung)
-
-1.67  
-Cromoglicinsäure: inhalative Darreichungsformen
-
-1.68  
-Cromoglicinsäure: orale Darreichungsformen
-
-1.69  
-Cyanocobalamin: parenterale Darreichungsformen
-
-1.70  
-Cyclophosphamid: feste orale Darreichungsformen
-
-1.71  
-Cyproteron-Acetat: feste orale Darreichungsformen
-
-1.72  
-Dexamethason: orale Darreichungsformen, normal freisetzend, niedrig dosiert ≤ 2 mg
-
-1.73  
-Dexamethason: orale Darreichungsformen, normal freisetzend, hoch dosiert ≥ 4 mg
-
-1.74  
-Dexamethason: parenterale Darreichungsformen, wasserlöslich, niedrig dosiert ≤ 20 mg
-
-1.75  
-Dexamethason: parenterale Darreichungsformen, wasserlöslich, hoch dosiert ≥ 40 mg
-
-1.76  
-Dexpanthenol: lokale Darreichungsformen
-
-1.77  
-Dexpanthenol: Ophthalmika und Rhinologika
-
-1.78  
-Diazepam: orale Darreichungsformen
-
-1.79  
-Diazepam: parenterale Darreichungsformen (alkoholische Lösung)
-
-1.80  
-Diazepam: parenterale Darreichungsformen (sonstige Lösung)
-
-1.81  
-Diclofenac: feste orale Darreichungsformen, normal freisetzend
-
-1.82  
-Diclofenac: feste orale Darreichungsformen, verzögert freisetzend
-
-1.83  
-Diclofenac: rektale Darreichungsformen
-
-1.84  
-Diclofenac: parenterale Darreichungsformen
-
-1.85  
-Diclofenac: topische Darreichungsformen (Konzentrationsbereich ca. 1 bis 5 %)
-
-1.86  
-Digitoxin: feste orale Darreichungsformen
-
-1.87  
-Digoxin: feste orale Darreichungsformen
-
-1.88  
-Dihydroergotamin: orale Darreichungsformen
-
-1.89  
-Dihydroergotoxin: orale Darreichungsformen
-
-1.90  
-Diltiazem: orale Darreichungsformen, normal freisetzend
-
-1.91  
-Diltiazem: orale Darreichungsformen, verzögert freisetzend
-
-1.92  
-Dimenhydrinat: feste, orale Darreichungsformen, normal freisetzend
-
-1.93  
-Dimenhydrinat: rektale Darreichungsformen
-
-1.94  
-Diphenhydramin: feste orale Darreichungsformen, normal freisetzend
-
-1.95  
-Domperidon: abgeteilte orale Darreichungsformen
-
-1.96  
-Doxorubicin: parenterale Darreichungsformen
-
-1.97  
-Doxycyclin: feste orale Darreichungsformen
-
-1.98  
-Doxylamin: orale Darreichungsformen, normal freisetzend
-
-1.99  
-Erythromycin: abgeteilte orale Darreichungsformen
-
-1.100  
-Erythromycin: flüssige, orale Darreichungsformen
-
-1.101  
-Erythromycin: lokale Darreichungsformen
-
-1.102  
-Estradiol: orale Darreichungsformen
-
-1.103  
-Estradiol: transdermale Darreichungsformen
-
-1.104  
-Estramustin: feste orale Darreichungsformen
-
-1.105  
-Estriol: feste orale Darreichungsformen
-
-1.106  
-Estriol: vaginale topische Darreichungsformen
-
-1.107  
-Ethambutol: feste orale Darreichungsformen
-
-1.108  
-Etilefrin: orale Darreichungsformen, normal freisetzend
-
-1.109  
-Fentanyl: transdermale Darreichungsformen
-
-1.110  
-Flecainid: abgeteilte orale Darreichungsformen
-
-1.111  
-Flunarizin: orale Darreichungsformen
-
-1.112  
-Flutamid: orale Darreichungsformen
-
-1.113  
-Folinsäure: parenterale Darreichungsformen
-
-1.114  
-Folsäure: feste orale Darreichungsformen
-
-1.115  
-Folsäure: parenterale Darreichungsformen
-
-1.116  
-Furosemid: Tabletten ≤ 80 mg
-
-1.117  
-Furosemid: Tabletten ≥ 125 mg
-
-1.118  
-Furosemid: Ampullen, Injektionslösungen (20 mg, 40 mg)
-
-1.119  
-Furosemid: Ampullen, Injektionslösungen (250 mg)
-
-1.120  
-Furosemid: orale Darreichungsformen, verzögert freisetzend
-
-1.121  
-Furosemid + Spironolacton: feste orale Darreichungsformen
-
-1.122  
-Fusidinsäure: topische Darreichungsformen
-
-1.123  
-Fusidinsäure: Gazen
-
-1.124  
-Gabapentin: abgeteilte orale Darreichungsformen
-
-1.125  
-Gentamicin: parenterale Darreichungsformen
-
-1.126  
-Gentamicin: Ophthalmika
-
-1.127  
-Gentamicin: topische Darreichungsformen
-
-1.128  
-Gingko-biloba-Trockenextrakt: orale Darreichungsformen, standardisiert auf Flavonglykoside im Verhältnis 50:1 angereichertem Trockenextrakt
-
-1.129  
-Glibenclamid: Tabletten ≥ 1 mg bis ≤ 3,5 mg
-
-1.130  
-Glibenclamid: Tabletten (5 mg)
-
-1.131  
-Glyceroltrinitrat: transdermale therapeutische Systeme
-
-1.132  
-Glyceroltrinitrat: Spray, Pumpspray
-
-1.133  
-Gold: orale Darreichungsformen
-
-1.134  
-Griseofulvin: feste orale Darreichungsformen
-
-1.135  
-Haloperidol: orale Darreichungsformen
-
-1.136  
-Haloperidol: parenterale Darreichungsformen, normal freisetzend
-
-1.137  
-Haloperidol: parenterale Darreichungsformen, mit Depotwirkung
-
-1.138  
-Heparin: Haparin-Natrium, topische Darreichungsformen
-
-1.139  
-Heparin: Unfraktioniertes Heparin, parenterale Darreichungsformen
-
-1.140  
-Hydroxocobalamin: parenterale Darreichungsformen
-
-1.141  
-Ibuprofen: orale Darreichungsformen, normal freisetzend
-
-1.142  
-Ibuprofen: feste, orale Darreichungsformen, verzögert freisetzend
-
-1.143  
-Ibuprofen: Suppositorien
-
-1.144  
-Ibuprofen: topische Darreichungsformen
-
-1.145  
-Indapamid: orale Darreichungsformen
-
-1.146  
-Indometacin: abgeteilte orale Darreichungsformen, normal freisetzend
-
-1.147  
-Indometacin: feste orale Darreichungsformen, verzögert freisetzend
-
-1.148  
-Indometacin: rektale Darreichungsformen
-
-1.149  
-Indometacin: topische Darreichungsformen
-
-1.150  
-Isosorbiddinitrat: feste orale Darreichungsformen, normal freisetzend
-
-1.151  
-Isosorbiddinitrat: feste orale Darreichungsformen, verzögert freisetzend
-
-1.152  
-Isosorbidmononitrat: feste orale Darreichungsformen, normal freisetzend
-
-1.153  
-Isosorbidmononitrat: feste orale Darreichungsformen, verzögert freisetzend
-
-1.154  
-Isotretinoin: abgeteilte orale Darreichungsformen
-
-1.155  
-Jodid zur Strumaprophylaxe: orale Darreichungsformen
-
-1.156  
-Kaliumsalze: orale Darreichungsformen, normal freisetzend
-
-1.157  
-Kaliumsalze: feste orale Darreichungsformen, verzögert freisetzend
-
-1.158  
-Lactulose: orale Darreichungsformen
-
-1.159  
-Lamotrigin: abgeteilte orale Darreichungsformen
-
-1.160  
-Levodopa + Benserazid: abgeteilte orale Darreichungsformen, normal freisetzend
-
-1.161  
-Levodopa + Benserazid: abgeteilte orale Darreichungsformen, verzögert freisetzend
-
-1.162  
-Levodopa + Carbidopa: orale Darreichungsformen, normal freisetzend, im Verhältnis 4:1
-
-1.163  
-Levodopa + Carbidopa: orale Darreichungsformen, normal freisetzend, im Verhältnis 10:1
-
-1.164  
-Levodopa + Carbidopa: abgeteilte orale Darreichungsformen, verzögert freisetzend, im Verhältnis 4:1
-
-1.165  
-Levothyroxin-Natrium: orale Darreichungsformen
-
-1.166  
-Lithium: feste orale Darreichungsformen, verzögert freisetzend
-
-1.167  
-Loperamid: orale Darreichungsformen
-
-1.168  
-Lorazepam: orale Darreichungsformen
-
-1.169  
-Magaldrat: orale Darreichungsformen
-
-1.170  
-Magnesium: orale Darreichungsformen
-
-1.171  
-Magnesium: parenterale Darreichungsformen
-
-1.172  
-Maprotilin: feste orale Darreichungsformen, normal freisetzend
-
-1.173  
-Mebeverin: abgeteilte orale Darreichungsformen
-
-1.174  
-Medroxyprogesteron: Tabletten, Oralsuspension (100 bis 500 mg)
-
-1.175  
-Menotropin: parenterale Darreichungsformen
-
-1.176  
-Mesalazin: feste orale Darreichungsformen
-
-1.177  
-Mesalazin: rektale Darreichungsformen
-
-1.178  
-Mesalazin: sonstige rektale Darreichungsformen
-
-1.179  
-Metamizol: orale Darreichungsformen, normal freisetzend
-
-1.180  
-Metamizol: rektale Darreichungsformen
-
-1.181  
-Metamizol: parenterale Darreichungsformen
-
-1.182  
-Metformin: orale Darreichungsformen
-
-1.183  
-Methotrexat: orale Darreichungsformen
-
-1.184  
-Methyldopa: orale Darreichungsformen
-
-1.185  
-Methylergometrin: orale Darreichungsformen
-
-1.186  
-Methylphenidat: abgeteilte orale Darreichungsformen
-
-1.187  
-Metoclopramid: orale Darreichungsformen, normal freisetzend
-
-1.188  
-Metoclopramid: orale Darreichungsformen, verzögert freisetzend
-
-1.189  
-Metoclopramid: parenterale Darreichungsformen
-
-1.190  
-Metoprolol + Hydrochlorothiazid: feste orale Darreichungsformen, normal freisetzend
-
-1.191  
-Metronidazol: orale Darreichungsformen
-
-1.192  
-Metronidazol: vaginale topische Darreichungsformen
-
-1.193  
-Metronidazol: parenterale Darreichungsformen
-
-1.194  
-Midodrin: orale Darreichungsformen
-
-1.195  
-Minocyclin: orale Darreichungsformen
-
-1.196  
-Mirtazapin: orale Darreichungsformen
-
-1.197  
-Moclobemid: abgeteilte orale Darreichungsformen
-
-1.198  
-Molsidomin: feste orale Darreichungsformen, normal freisetzend
-
-1.199  
-Molsidomin: feste orale Darreichungsformen, verzögert freisetzend
-
-1.200  
-Morphin: abgeteilte orale Darreichungsformen, verzögert freisetzend
-
-1.201  
-Moxonidin: abgeteilte orale Darreichungsformen
-
-1.202  
-Nachtkerzensamenöl: orale Darreichungsformen, standardisiert auf Gamolensäure
-
-1.203  
-Naftidrofuryl: orale Darreichungsformen
-
-1.204  
-Nicergolin: orale Darreichungsformen
-
-1.205  
-Nifedipin: feste orale Darreichungsformen, normal freisetzend
-
-1.206  
-Nifedipin: feste orale Darreichungsformen, verzögert freisetzend
-
-1.207  
-Nifedipin: flüssige orale Darreichungsformen
-
-1.208  
-Nimodipin: abgeteilte orale Darreichungsformen
-
-1.209  
-Nitrazepam: orale Darreichungsformen
-
-1.210  
-Nitrofurantoin: orale Darreichungsformen, normal freisetzend
-
-1.211  
-Nitrofurantoin: feste orale Darreichungsformen, verzögert freisetzend
-
-1.212  
-Nystatin: feste orale Darreichungsformen
-
-1.213  
-Nystatin: flüssige orale Darreichungsformen
-
-1.214  
-Nystatin: vaginale topische Darreichungsformen
-
-1.215  
-Nystatin: topische Darreichungsformen
-
-1.216  
-Nystatin + Zinkoxid: topische Darreichungsformen
-
-1.217  
-Oxazepam: orale Darreichungsformen, normal freisetzend
-
-1.218  
-Oxybutynin: orale Darreichungsformen
-
-1.219  
-Pankreatin: magensaftresistente polydispere Darreichungsformen
-
-1.220  
-Pankreatin: magensaftresistente monolithische Darreichungsformen
-
-1.221  
-Paracetamol: orale Darreichungsformen
-
-1.222  
-Paracetamol: Suppositorien
-
-1.223  
-Pentaerythrityltetranitrat: feste orale Darreichungsformen
-
-1.224  
-Pentoxifyllin: feste orale Darreichungsformen
-
-1.225  
-Pentoxifyllin: parenterale Darreichungsformen
-
-1.226  
-Phenoxymethylpenicillin: abgeteilte orale Darreichungsformen
-
-1.227  
-Phenoxymethylpenicillin: flüssige orale Darreichungsformen
-
-1.228  
-Phenytoin: orale Darreichungsformen
-
-1.229  
-Pilocarpin: Augentropfen auf wässriger Basis, Eindosispipetten
-
-1.230  
-Pindolol: orale Darreichungsformen
-
-1.231  
-Piracetam: orale Darreichungsformen
-
-1.232  
-Piracetam: parenterale Darreichungsformen
-
-1.233  
-Polyvidon-Jod: Creme, Gel, Salbe
-
-1.234  
-Prednisolon: orale Darreichungsformen, normal freisetzend, niedrig dosiert ≤ 20 mg
-
-1.235  
-Prednisolon: orale Darreichungsformen, normal freisetzend, hoch dosiert ≥ 50 mg
-
-1.236  
-Prednisolon: parenterale Darreichungsformen, wasserlöslich, niedrig dosiert ≤ 100 mg
-
-1.237  
-Prednisolon: parenterale Darreichungsformen mit Depotwirkung
-
-1.238  
-Prednison: orale Darreichungsformen, normal freisetzend, niedrig dosiert ≤ 20 mg
-
-1.239  
-Prednison: orale Darreichungsformen, normal freisetzend, hoch dosiert ≥ 50 mg
-
-1.240  
-Primidon: orale Darreichungsformen
-
-1.241  
-Promethazin: orale Darreichungsformen
-
-1.242  
-Promethazin: parenterale Darreichungsformen
-
-1.243  
-Propafenon: orale Darreichungsformen
-
-1.244  
-Propranolol: orale Darreichungsformen, normal freisetzend
-
-1.245  
-Propranolol: orale Darreichungsformen, verzögert freisetzend
-
-1.246  
-Pyrazinamid: feste orale Darreichungsformen
-
-1.247  
-Pyridoxin: feste orale Darreichungsformen
-
-1.248  
-Pyridoxin: parenterale Darreichungsformen
-
-1.249  
-Retinol: orale Darreichungsformen
-
-1.250  
-Ropinirol: orale Darreichungsformen
-
-1.251  
-Saccharomyces boulardii: orale Darreichungsformen
-
-1.252  
-Sägepalmenfrüchte: orale Darreichungsformen
-
-1.253  
-Selegilin: orale Darreichungsformen
-
-1.254  
-Sertralin: orale Darreichungsformen
-
-1.255  
-Sotalol: feste orale Darreichungsformen
-
-1.256  
-Spironolacton: orale Darreichungsformen
-
-1.257  
-Sucralfat: orale Darreichungsformen
-
-1.258  
-Sulfasalazin: orale Darreichungsformen
-
-1.259  
-Sulpirid: orale Darreichungsformen
-
-1.260  
-Tamoxifen: orale Darreichungsformen
-
-1.261  
-Terbinafin: abgeteilte orale Darreichungsformen
-
-1.262  
-Tetracyclin: feste orale Darreichungsformen
-
-1.263  
-Theophyllin: orale Darreichungsformen, normal freisetzend
-
-1.264  
-Theophyllin: orale Darreichungsformen, verzögert freisetzend
-
-1.265  
-Theophyllin: Ampullen
-
-1.266  
-Thiamazol: feste orale Darreichungsformen
-
-1.267  
-Thiamin-Hydrochlorid zur Substitution und Therapie: orale Darreichungsformen
-
-1.268  
-Thiamin-Hydrochlorid zur Substitution und Therapie: parenterale Darreichungsformen
-
-1.269  
-Tiaprid: orale Darreichungsformen
-
-1.270  
-Ticlopidin: abgeteilte orale Darreichungsformen
-
-1.271  
-Tilidin mit Zusatz Naloxon: orale Darreichungsformen, verzögert freisetzend
-
-1.272  
-Tilidin mit Zusatz Naloxon: orale Darreichungsformen, normal freisetzend
-
-1.273  
-Topiramat: orale Darreichungsformen
-
-1.274  
-Tramadol: abgeteilte orale Darreichungsformen, normal freisetzend
-
-1.275  
-Tramadol: feste orale Darreichungsformen, verzögert freisetzend
-
-1.276  
-Tramadol: flüssige orale Darreichungsformen
-
-1.277  
-Tramadol: parenterale Darreichungsformen
-
-1.278  
-Tramadol: rektale Darreichungsformen
-
-1.279  
-Tretinoin: topische Darreichungsformen
-
-1.280  
-Triamteren + Hydrochlorothiazid: orale Darreichungsformen
-
-1.281  
-Trospiumchlorid: orale Darreichungsformen
-
-1.282  
-Troxerutin: orale Darreichungsformen, normal freisetzend
-
-1.283  
-Urea: topische Darreichungsformen
-
-1.284  
-Urea pura + Tretinoin: topische Darreichungsformen
-
-1.285  
-Ursodeoxycholsäure: orale Darreichungsformen
-
-1.286  
-Valproinsäure: orale Darreichungsformen, verzögert freisetzend
-
-1.287  
-Venlafaxin: orale Darreichungsformen
-
-1.288  
-Verapamil: feste orale Darreichungsformen, normal freisetzend
-
-1.289  
-Verapamil: feste orale Darreichungsformen, verzögert freisetzend
-
-1.290  
-Verapamil: parenterale Darreichungsformen
-
-1.291  
-Xylometazolin: nasale topische Darreichungsformen
-
-1.292  
-Zink zur Substitution und Therapie: orale Darreichungsformen
-
-**2.**  
-**Arzneimittel mit pharmakologisch-therapeutisch vergleichbaren Wirkstoffen, insbesondere mit chemisch verwandten Stoffen**
-
-2.1  
-ACE-Hemmer: feste, abgeteilte orale DarreichungsformenWirkstoff:Benazepril: BenazeprilhydrochloridCaptoprilCilazapril: Cilazapril-1-WasserEnalapril: Enalapril maleatFosinopril: Fosinopril NatriumImidapril: Imidapril hydrochloridLisinopril: Lisinopril-2-WasserMoexipril: Moexipril hydrochloridPerindopril: Perindopril arginin; Perindopril erbuminQuinapril: Quinapril hydrochloridRamiprilSpirapril: Spirapril hydrochlorid; Spirapril hydrochlorid-1-WasserTrandolaprilZofenopril: Zofenopril-Calcium
-
-2.2  
-Alpha-Rezeptorenblocker: weitere Alpha-Rezeptorenblocker, alpha1-selektiv, abgeteilte orale DarreichungsformenWirkstoff:Bunazosin: Bunazosin hydrochloridIndoramin: Indoramin hydrochloridUrapidil
-
-2.3  
-Alpha-Rezeptorenblocker: weitere Alpha-Rezeptorenblocker, alpha1-selektiv, abgeteilte orale DarreichungsformenWirkstoff:Alfuzosin: Alfuzosin hydrochloridDoxazosin: Doxazosin mesilatTamsulosin: Tamsulosin hydrochloridTerazosin: Terazosin hydrochlorid-2-Wasser
-
-2.4  
-Aminochinoline: orale DarreichungsformenWirkstoff:ChloroquindiphosphatHydroxychloroquinsulfat
-
-2.5  
-Angiotensin-II-Antagonisten: orale, abgeteilte DarreichungsformenWirkstoff:Azilsartan: Azilsartan medoxomil KaliumsalzeCandesartan: Candesartan cilexetilEprosartan: Eprosartan mesilatIrbesartanLosartan: Losartan kaliumOlmesartan: Olmesartan medoxomilTelmisartanValsartan
-
-2.6  
-Anionenaustauscherharze: orale DarreichungsformenWirkstoff:ColestipolColestyramin
-
-2.7  
-Antianämika, andere: parenterale DarreichungsformenWirkstoff:Darbepoetin: Darbepoetin alfaErythropoetin: Epoetin alfa, Epoetin beta, Epoetin delta, Epoetin zetaPEG-Erythropoetin: PEG-Epoetin beta, Methoxy-Polyethylenglycol-Epoetin beta
-
-2.8  
-Antidiabetika vom Sulfonylharnstofftyp: weitere Antidiabetika vom Sulfonylharnstofftyp, feste abgeteilte orale DarreichungsformenWirkstoff:CarbutamidGlibornuridGliclazidGlimepiridGlipizidGliquidonGlisoxepidTolbutamid
-
-2.9  
-Antikoagulantien, orale: feste orale DarreichungsformenWirkstoff:PhenprocoumonWarfarin-Natrium
-
-2.10  
-Antipsychotika, andere: orale DarreichungsformenWirkstoff:PaliperidonRisperidon
-
-2.11  
-Azol-Antimykotika: Creme, Gel, PasteWirkstoff:BifonazolCroconazol parenteraleEconazolnitratFenticonazolnitratIsoconazolKetoconazolMiconazolnitratOmoconazolOxiconazolSertaconazolTioconazol
-
-2.12  
-Azol-Antimykotika: Beutel, Lösung, Spray, Lotion, PumpsprayWirkstoff:BifonazolEconazolnitratFenticonazolnitratIsoconazol parenteraleKetoconazolMiconazolnitratOxiconazolTioconazol
-
-2.13  
-Azol-Antimykotika: vaginale topische DarreichungsformenWirkstoff:EconazolnitratFenticonazolnitratMiconazolnitratOxiconazol
-
-2.14  
-Benzodiazepine: weitere Benzodiazepine, vorwiegend anxiolytisch wirksam, orale DarreichungsformenWirkstoff:AlprazolamChlordiazepoxidClobazamClorazepatClotiazepamKetazolamMedazepamMetaclazepamNordazepamOxazolamPrazepam
-
-2.15  
-Benzodiazepine: weitere Benzodiazepine, vorwiegend sedativ-hypnotisch wirksam, orale DarreichungsformenWirkstoff:BrotizolamFlunitrazepamFlurazepamLoprazolamLormetazepamTemazepamTriazolam
-
-2.16  
-Benzodiazepin-verwandte Mittel: abgeteilte orale DarreichungsformenWirkstoff:ZaleplonZolpidemZolpidemtartratZopiclon
-
-2.17  
-Beta2-Sympathomimetika, inhalativ oral: inhalative DarreichungsformenWirkstoff:FormoterolFormoterol hemifumarat-1-WasserIndacaterolIndacaterol maleatSalmeterolSalmeterol xinafoat
-
-2.18  
-Beta2-sympathomimetische Antiasthmatika: feste, abgeteilte orale Darreichungsformen, normal freisetzendWirkstoff:BambuterolBambuterol hydrochlorid parenteraleCarbuterolClenbuterolClenbuterol hydrochloridFenoterolPirbuterolProcaterolReproterolSalbutamolTerbutalinTerbutalin sulfatTulobuterol
-
-2.19  
-Beta2-sympathomimetische Antiasthmatika: feste orale Darreichungsformen, verzögert freisetzendWirkstoff:IsoetarinSalbutamolTerbutalin
-
-2.20  
-Beta2-sympathomimetische Antiasthmatika: flüssige, orale DarreichungsformenWirkstoff:CarbuterolClenbuterolFenoterolSalbutamolTerbutalinTulobuterol
-
-2.21  
-Beta2-sympathomimetische Antiasthmatika: flüssige, inhalative DarreichungsformenWirkstoff:FenoterolSalbutamolTerbutalin
-
-2.22  
-Beta2-sympathomimetische Antiasthmatika: perorale trockenpulverförmige, inhalative DarreichungsformenWirkstoff:FenoterolSalbutamolTerbutalin
-
-2.23  
-Beta-Rezeptorenblocker: weitere Beta-Rezeptorenblocker, nicht selektiv, abgeteilte orale Darreichungsformen, normal freisetzendWirkstoff:AlprenololBopindololBupranolol: Bupranolol hydrochloridCarazololCarteolol: Carteolol hydrochloridCarvedilolMepindolol: Mepindolol sulfatMetipranololNadololOxprenolol: Oxprenolol hydrochloridPenbutolol: Penbutolol sulfatTertatololTimolol
-
-2.24  
-Beta-Rezeptorenblocker: weitere Beta-Rezeptorenblocker, nicht selektiv, abgeteilte orale Darreichungsformen, verzögert freisetzendWirkstoff:AlprenololOxprenolol
-
-2.25  
-Beta-Rezeptorenblocker: weitere Beta-Rezeptorenblocker, Beta1-selektiv, abgeteilte orale Darreichungsformen, normal freisetzendWirkstoff:AcebutololAcebutolol hydrochloridBetaxololBetaxolol hydrochloridBisoprololBisoprololhemifumaratCeliprololCeliprolol hydrochloridMetoprololMetoprolol fumaratMetoprolol succinatMetoprolol tartratNebivolol parenteraleNebivolol hydrochloridTalinolol
-
-2.26  
-Beta-Rezeptorenblocker: weitere Beta-Rezeptorenblocker, Beta1-selektiv, abgeteilte orale Darreichungsformen, verzögert freisetzendWirkstoff:Metoprolol
-
-2.27  
-Beta-Rezeptorenblocker: weitere Beta-Rezeptorenblocker, OphthalmikaWirkstoff:BefunololBetaxololBupranololCarteololLevobunololMetipranololTimolol
-
-2.28  
-Calcitonine: parenterale DarreichungsformenWirkstoff:HumancalcitoninLachscalcitoninSchweinecalcitonin
-
-2.29  
-Calcium-Antagonisten: weitere Calcium-Antagonisten (1,4-Dihydropyridine), feste, abgeteilte orale Darreichungsformen, normal freisetzendWirkstoff:Amlodipin: Amlodipin besilat, Amlodipin maleat; Amlodipinmesilat-(x)-WasserIsradipinLacidipinLercanidipin: Lercanidipin hydrochloridManidipin: Manidipin dihydrochloridNicardipin: Nicardipin hydrochloridNisoldipinNitrendipin
-
-2.30  
-Calcium-Antagonisten: weitere Calcium-Antagonisten (1,4-Dihydropyridine), feste, abgeteilte orale Darreichungsformen, verzögert freisetzendWirkstoff:FelodipinIsradipinNilvadipinNisoldipin
-
-2.31  
-Cefalosporine: orale DarreichungsformenWirkstoff:CefadroxilCefadroxil-1-WasserCefalexinCefalexin-1-Wasser
-
-2.32  
-Cefalosporine: orale DarreichungsformenWirkstoff:CefaclorCefaclor-1-WasserCefuroximCefuroxim axetilLoracarbefLoracarbef-1-Wasser
-
-2.33  
-Cefalosporine: orale DarreichungsformenWirkstoff:Cefixim: Cefixim-(x)-WasserCefpodoxim: Cefpodoxim proxetilCeftibuten: Ceftibuten-(x)-Wasser
-
-2.34  
-Clofibrinsäurederivate und Strukturanaloga: feste orale DarreichungsformenWirkstoff:BezafibratClofibratEtofibratEtofyllinclofibratFenofibratGemfibrocil
-
-2.35  
-Dimeticon und Simethicon: feste orale DarreichungsformenWirkstoff:Dimeticon und Simethicon
-
-2.36  
-Dimeticon und Simethicon: flüssige, orale DarreichungsformenWirkstoff:Dimeticon und Simethicon
-
-2.37  
-Diuretika, weitere: Thiazide und Analoga, feste orale DarreichungsformenWirkstoff:BendroflumethiazidButizidChlortalidonClopamidHydrochlorothiazidMebutizidMefrusidMetolazonPolythiazidTrichlormethiazidXipamid
-
-2.38  
-Diuretika, weitere: stark und schnell wirksam, feste orale DarreichungsformenWirkstoff:BumetanidEtacrynsäurePiretanid
-
-2.39  
-Diuretika, weitere: stark und langsam wirksam, feste orale DarreichungsformenWirkstoff:AzosemidEtozolinTorasemid
-
-2.40  
-Fluorchinolone: orale, abgeteilte DarreichungsformenWirkstoff:EnoxacinEnoxacin-1,5-WasserNorfloxacin
-
-2.41  
-Fluorchinolone: orale, abgeteilte DarreichungsformenWirkstoff:CiprofloxacinCiprofloxacin hydrochlorid-1-WasserCiprofloxacin lactatLevofloxacinLevofloxacin-0,5-WasserOfloxacin
-
-2.42  
-Glucocorticoide, inhalativ, nasal: Glucocorticoide zur Anwendung bei Atemwegserkrankungen, nasale DarreichungsformenWirkstoff:BeclometasondipropionatBeclometasondipropionat, wasserfreiesBudesonidDexamethasondihydrogenphosphat-DinatriumFlunisolidFluticason furoatFluticason propionatFluticason 17-propionatMometason furoatMometason furoat-1-WasserTriamcinolon acetonid
-
-2.43  
-Glucocorticoide, inhalativ, oral: Glucocorticoide zur Anwendung bei Atemwegserkrankungen, orale DarreichungsformenWirkstoff:BeclometasondipropionatBeclometasondipropionat, wasserfreiesBudesonidCiclesonidFluticason propionatFluticason 17-propionatMometason furoat
-
-2.44  
-Glucocorticoide, oral: weitere Glucocorticoide, zur Substitutionstherapie geeignet, orale Darreichungsformen, normal freisetzendWirkstoff:CortisonacetatHydrocortison
-
-2.45  
-Glucocorticoide, oral: weitere Glucocorticoide, zur pharmakodynamischen Therapie geeignet, nicht fluoriert, orale Darreichungsformen, normal freisetzend, niedrigdosiert (≤ Wirkstärkenäquivalenzfaktor 40)Wirkstoff:CloprednolDeflazacortMethylprednisolonPrednyliden
-
-2.46  
-Glucocorticoide, oral: parente Glucocorticoide, zur Therapie geeignet, nicht fluoriert, orale Darreichungsformen, normal freisetzend, hochdosiert (≥ Wirkstärkenäquivalenzfaktor 80)Wirkstoff:MethylprednisolonPrednyliden
-
-2.47  
-Glucocorticoide, oral: weitere Glucocorticoide, zur pharmakodynamischen Therapie geeignet, fluoriert, orale Darreichungsformen, normal freisetzend, niedrigdosiert (≤ Wirkstärkenäquivalenzfaktor 40)Wirkstoff:BetamethasonFluocortolonTriamcinolon
-
-2.48  
-H2-Antagonisten: weitere H2-Antagonisten, orale DarreichungsformenWirkstoff:FamotidinNizatidinRanitidinRoxatidin
-
-2.49  
-H2-Antagonisten: weitere H2-Antagonisten, orale DarreichungsformenWirkstoff:FamotidinRanitidin
-
-2.50  
-Heparine, niedermolekular: Niedermolekulare Heparine, parenterale Darreichungsformen, unitdoseWirkstoff:CertoparinCertoparin natriumDalteparinDalteparin natriumEnoxaparinEnoxaparin natriumNadroparinNadroparin calciumReviparinReviparin natriumTinzaparinTinzaparin natrium
-
-2.51  
-Herzglykoside, weitere: orale DarreichungsformenWirkstoff:Lanatosid CMeproscillarinMetildigoxin
-
-2.52  
-HMG-CoA-Reduktasehemmer: orale, abgeteilte DarreichungsformenWirkstoff:Atorvastatin: Atorvastatin CalciumsalzeFluvastatin: Fluvastatin NatriumsalzeLovastatinPitavastatin: Pitavastatin CalciumsalzePravastatin: Pravastatin NatriumsalzeRosuvastatin: Rosuvastatin CalciumsalzeSimvastatin
-
-2.53  
-Insuline: Insuline (40 I. E./ml)Wirkstoff:Insulin
-
-2.54  
-Insuline: Insuline (100 I. E./ml)Wirkstoff:Insulin
-
-2.55  
-Makrolide, neuere: orale DarreichungsformenWirkstoff:AzithromycinAzithromycin-1-WasserAzithromycin-2-WasserClarithromycinRoxithromycin
-
-2.56  
-Prostaglandin-Synthetase-Hemmer: Keto-Enolsäuren II (Oxicame), rektale DarreichungsformenWirkstoff:LornoxicamMeloxicamMeloxicam megluminPiroxicamTenoxicam
-
-2.57  
-Prostaglandin-Synthetase-Hemmer: Arylessigsäurederivate, abgeteilte orale Darreichungsformen, normal freisetzendWirkstoff:AceclofenacAcemetacinLonazolacLonazolac calciumNabumetonProglumetacinProglumetacin dimaleatTolmetin
-
-2.58  
-Prostaglandin-Synthetase-Hemmer: Arylessigsäurederivate, orale Darreichungsformen, verzögert freisetzendWirkstoff:Acemetacin
-
-2.59  
-Prostaglandin-Synthetase-Hemmer: Arylpropionsäurederivate, orale Darreichungsformen, normal freisetzendWirkstoff:FenbufenFenoprofenFlurbiprofenKetoprofenNaproxenTiaprofensäure
-
-2.60  
-Prostaglandin-Synthetase-Hemmer: Arylpropionsäurederivate, orale Darreichungsformen, normal freisetzendWirkstoff:Naproxen
-
-2.61  
-Prostaglandin-Synthetase-Hemmer: Keto-Enolsäuren I (Pyrazolidindion-Derivate), orale DarreichungsformenWirkstoff:AzapropazonBumadizonMofebutazonOxyphenbutazonPhenylbutazon
-
-2.62  
-Prostaglandin-Synthetase-Hemmer: Keto-Enolsäuren II (Oxicame), abgeteilte orale DarreichungsformenWirkstoff:LornoxicamMeloxicamMeloxicam megluminPiroxicamPiroxicam betadexTenoxicam
-
-2.63  
-Protonenpumpenhemmer: orale, abgeteilte DarreichungsformenWirkstoff:Esomeprazol: Esomeprazol MagnesiumsalzeLansoprazolOmeprazol: Omeprazol MagnesiumsalzePantoprazol: Pantoprazol NatriumsalzeRabeprazol: Rabeprazol Natriumsalze
-
-2.64  
-Selektive Serotonin-5HT1-Agonisten: orale, abgeteilte DarreichungsformenWirkstoff:AlmotriptanAlmotriptan malatEletriptanEletriptan hydrobromidFrovatriptanFrovatriptan succinat-1-WasserNaratriptanNaratriptan hydrochloridRizatriptanRizatriptan benzoatSumatriptanSumatriptan succinatZolmitriptan
-
-2.65  
-Selektive Serotonin-Wiederaufnahmehemmer: orale DarreichungsformenWirkstoff:Citalopram
-
-2.66  
-Serotonin-5HT3-Antagonisten: orale, abgeteilte DarreichungsformenWirkstoff:Dolasetron: Dolasetron mesilat, Dolasetron mesilat-(x)-WasserGranisetron: Granisetron hydrochloridOndansetron: Ondansetron hydrochlorid, Ondansetron hydrochlorid-(x)-WasserTropisetron: Tropisetron hydrochlorid
-
-2.67  
-Testosteron-5-alpha-Reduktasehemmer: orale DarreichungsformenWirkstoff:DutasteridFinasterid
-
-2.68  
-Triazole: orale, abgeteilte DarreichungsformenWirkstoff:FluconazolItraconazol
-
-**3.**  
-**Arzneimittel mit therapeutisch vergleichbarer Wirkung, insbesondere Arzneimittelkombinationen**
-
-3.1  
-Acetylsalicylsäure und Kombinationen von Acetylsalicylsäure mit Antacida bzw. Puffersubstanzen: orale Darreichungsformen, normal freisetzendWirkstoff:Acetylsalicylsäure
-
-3.2  
-Acetylsalicylsäure und Kombinationen von Acetylsalicylsäure mit Antacida bzw. Puffersubstanzen: orale Darreichungsformen, verzögert freisetzendWirkstoff:Acetylsalicylsäure
-
-3.3  
-Antidepressiva: weitere klassische Antidepressiva, feste orale Darreichungsformen, normal freisetzendWirkstoff:AmitriptylinoxidClomipramin-hydrochloridDesipramin-hydrochloridDibenzepin-hydrochloridDosulepin-hydrochloridDoxepinImipramin-hydrochloridLofepraminNortriptylin-hydrochloridNoxiptilinOpipramolTrimipramin
-
-3.4  
-Antidepressiva: weitere klassische Antidepressiva, feste orale Darreichungsformen, verzögert freisetzendWirkstoff:Clomipramin-hydrochloridDibenzepin-hydrochlorid
-
-3.5  
-Antidepressiva: weitere klassische Antidepressiva, flüssige orale DarreichungsformenWirkstoff:DoxepinImipramin-hydrochloridTrimipramin
-
-3.6  
-Antidepressiva: andere Antidepressiva (2. Generation), feste orale Darreichungsformen, normal freisetzendWirkstoff:Mianserin-hydrochloridTrazodonViloxazin
-
-3.7  
-Antidepressiva: selektive Serotonin-Rückaufnahme-Inhibitoren, feste orale Darreichungsformen, normal freisetzendWirkstoff:FluoxetinFluvoxaminhydrogenmaleatParoxetin
-
-3.8  
-Antirheumatika: topische nicht steroide Antirheumatika, topische DarreichungsformenWirkstoff:EtofenamatFelbinacFlufenaminsäureKetoprofenNifluminsäurePiroxicam
-
-3.9  
-Antitussiva: Opiumalkaloide und Derivate, orale DarreichungsformenWirkstoff:CodeinDextromethorphan parenteraleDihydrocodeinLevopropoxyphenNoscapin
-
-3.10  
-Antitussiva: Opiumalkaloide und Derivate, orale DarreichungsformenWirkstoff:Dextromethorphan
-
-3.11  
-Antitussiva: andere Antitussiva, orale DarreichungsformenWirkstoff:BenproperinClobutinolDropropizinPentoxyverinPipazetat
-
-3.12  
-Bisphosphonate und Kombinationen von Bisphosphonaten mit Additiva: orale DarreichungsformenWirkstoff:AlendronsäureAlendronsäure NatriumsalzeAlendronsäure Natriumsalze und Additiva (Alfacalcidol)Alendronsäure Natriumsalze und Additiva (Colecalciferol)Alendronsäure Natriumsalze und Additiva (Calcium, Colecalciferol)EtidronsäureEtidronsäure NatriumsalzeEtidronsäure Natiumsalze und Additiva (Calcium)IbandronsäureIbandronsäure NatriumsalzeRisedronsäureRisedronsäure NatriumsalzeRisedronsäure Natriumsalze und Additiva (Calcium)Risedronsäure Natriumsalze und Additiva (Calcium, Colecalciferol)
-
-3.13  
-Eisen-II-haltige Antianämika mit dem Wirkungskriterium Eisenmangelanämie: orale DarreichungsformenWirkstoff:Eisen-II
-
-3.14  
-Filmbildner: mit KonservierungsmittelWirkstoff:Filmbildner
-
-3.15  
-Filmbildner: ohne KonservierungsmittelWirkstoff:Filmbildner
-
-3.16  
-Gestagene, weitere: weitere Gestagene, feste orale DarreichungsformWirkstoff:DydrogesteronLynestrenolMedrogeston
-
-3.17  
-Glucocorticoide, topisch: weitere Glucocorticoide, schwach wirksam, topische DarreichungsformenWirkstoff:Clocortolonpivalat plus -hexanoatDexamethasonDexamethason-21-isonicotinatFluocortinbutylesterFluorometholonHydrocortisonHydrocortisonacetatPrednisolonTriamcinolon acetonid
-
-3.18  
-Glucocorticoide, topisch: weitere Glucocorticoide, schwach wirksam, topische DarreichungsformenWirkstoff:HydrocortisonHydrocortisonacetat
-
-3.19  
-Glucocorticoide, topisch: weitere Glucocorticoide, mittelstark wirksam, topische DarreichungsformenWirkstoff:AlclometasondipropionatBetamethasonbenzoatBetamethasonvaleratClobetasonbutyratClocortolonpivalat plus -hexanoatDesonidDesoximetasonDexamethasonFlumethasonpivalatFluocinolonacetonidFluocinonidFluocortolonFluocortolonpivalat plus -hexanoatFluoroandrenolon-FludroxycortidFluprednidenacetatHalcinonidHydrocortison-17-butyrat, -21-propionatHydrocortisonaceponatHydrocortisonbutyratMethylprednisolonaceponatPrednicarbatTriamcinolon acetonid
-
-3.20  
-Glucocorticoide, topisch: weitere Glucocorticoide, stark wirksam, topische DarreichungsformenWirkstoff:AmcinonidBetamethasondipropionatBetamethasonvaleratDesoximetasonDexamethasonvaleratDiflorasondiacetatDiflucortolonvaleratFluocinolonacetonidFluocinonidFluocortolonpivalat plus -hexanoatFluticason-17-propionatHalcinonidHalometasonMometasonTriamcinolon acetonid
-
-3.21  
-Glucocorticoide, topisch: weitere Glucocorticoide, sehr stark wirksam, topische DarreichungsformenWirkstoff:ClobetasolpropionatDiflucortolonvaleratFluocinolonacetonid
-
-3.22  
-H1-Antagonisten: Antihistaminika, feste orale Darreichungsformen, normal freisetzendWirkstoff:BamipinClemastinDexchlorpheniraminDimetindenDiphenylpyralinPheniraminTriprolidin
-
-3.23  
-H1-Antagonisten: Antihistaminika, feste orale Darreichungsformen, verzögert freisetzendWirkstoff:BrompheniraminCarbinoxaminDimetindenPheniramin
-
-3.24  
-H1-Antagonisten: Antihistaminika, flüssige orale DarreichungsformenWirkstoff:AlimemazinCarbinoxaminClemastinDimetindenDiphenylpyralinMebhydrolinMequitazinPheniramin
-
-3.25  
-H1-Antagonisten: weitere Antihistaminika, abgeteilte orale DarreichungsformenWirkstoff:AstemizolAzelastinTerfenadin
-
-3.26  
-H1-Antagonisten: weitere Antihistaminika, abgeteilte orale DarreichungsformenWirkstoff:CetirizinLoratadin
-
-3.27  
-H1-Antagonisten: weitere Antihistaminika, flüssige orale DarreichungsformenWirkstoff:CetirizinLoratadin
-
-3.28  
-H1-Antagonisten: Antihistaminika mit zusätzlicher Hemmung der Mediatorfreisetzung, abgeteilte orale DarreichungsformenWirkstoff:KetotifenOxatomid
-
-3.29  
-H1-Antagonisten: Antihistaminika mit zusätzlicher Hemmung der Mediatorfreisetzung, flüssige orale DarreichungsformenWirkstoff:KetotifenOxatomid
-
-3.30  
-H1-Antagonisten: Antihistaminika, topische DarreichungsformenWirkstoff:BamipinChlorphenoxaminClemastinDimetindenDiphenhydraminPheniraminTripelennamin
-
-3.31  
-Kombinationen von ACE-Hemmern mit Calciumkanalblockern: abgeteilte orale DarreichungsformenWirkstoff:Delapril + ManidipinDelapril hydrochloridManidipin dihydrochloridEnalapril + LercanidipinEnalapril maleatLercanidipin hydrochloridEnalapril + NitrendipinEnalapril maleatRamipril + FelodipinTrandolapril + VerapamilVerapamil hydrochlorid
-
-3.32  
-Kombinationen von ACE-Hemmern mit Hydrochlorothiazid: abgeteilte orale DarreichungsformenWirkstoff:Benazepril + HydrochlorothiazidBenazepril hydrochloridCaptopril + HydrochlorothiazidCilazapril + HydrochlorothiazidCilazapril-1-WasserEnalapril + HydrochlorothiazidEnalapril maleatFosinopril + HydrochlorothiazidFosinopril natriumLisinopril + Hydrochlorothiazid Moexipril + HydrochlorothiazidMoexipril hydrochloridQuinapril + HydrochlorothiazidQuinapril hydrochloridRamipril + HydrochlorothiazidZofenopril + HydrochlorothiazidZofenopril calcium
-
-3.33  
-Kombinationen von ACE-Hemmern mit weiteren Diuretika: abgeteilte orale DarreichungsformenWirkstoff:Perindopril + Indapamid, Perindopril arginin; Perindopril erbuminRamipril + Piretanid
-
-3.34  
-Kombinationen von Angiotensin-II-Antagonisten mit Hydrochlorothiazid: abgeteilte orale DarreichungsformenWirkstoff:Candesartan + Hydrochlorothiazid: Candesartan cilexetilEprosartan + Hydrochlorothiazid: Eprosartan mesilatIrbesartan + HydrochlorothiazidLosartan + Hydrochlorothiazid: Losartan kaliumOlmesartan + Hydrochlorothiazid: Olmesartan medoxomilTelmisartan + HydrochlorothiazidValsartan + Hydrochlorothiazid
-
-3.35  
-Kombinationen von Beta-Rezeptorenblockern mit Diuretika und Vasodilatantien: orale DarreichungsformenWirkstoff:Atenolol 25 mg + Chlortalidon 12,5 mg + Hydralazin-HCl 25 mgAtenolol 50 mg + Chlortalidon 25 mg + Hydralazin-HCl 50 mgMetipranolol 20 mg + Butizid 2,5 mg + Dihydralazinsulfat 25 mgMetipranolol 40 mg + Butizid 5 mg + Dihydralazinsulfat 50 mgMetoprololtartrat 100 mg + Hydrochlorothiazid 12,5 mg + Hydralazin-HCl 25 mgMetoprololtartrat 50 mg + Hydrochlorothiazid 12,5 mg + Hydralazin-HCl 25 mgOxprenolol-HCl 80 mg + Chlortalidon 10 mg + Hydralazin-HCl 25 mgPropranolol-HCl 60 mg + Bendroflumethiazid 2,5 mg + Hydralazin-HCl 25 mg
-
-3.36  
-Kombinationen von Beta-Rezeptorenblockern und Thiazid-Diuretika mit kaliumsparenden Diuretika: orale DarreichungsformenWirkstoff:Bupranolol-HCl 100 mg + Bemetizid 10 mg + Triamteren 20 mgPropranolol-HCl 80 mg + Hydrochlorothiazid 12,5 mg + Triamteren 25 mgTimololhydrogenmaleat 10 mg + Hydrochlorothiazid 25 mg + Amilorid-HCl 2,5 mg
-
-3.37  
-Kombinationen von Beta-Rezeptorenblockern, nicht selektiv, mit weiteren Diuretika: abgeteilte orale DarreichungsformenWirkstoff:Oxprenolol + ChlortalidonOxprenolol hydrochloridPenbutolol + FurosemidPenbutolol sulfatPenbutolol + PiretanidPenbutolol sulfatPindolol + Clopamid
-
-3.38  
-Kombinationen von Cromoglicinsäure mit Beta2-Sympathomimetika: inhalative DarreichungsformenWirkstoff:Cromoglicinsäure + FenoterolCromoglicinsäure + Reproterol
-
-3.39  
-Kombinationen von Furosemid mit kaliumsparenden Diuretika: orale DarreichungsformenWirkstoff:Furosemid 15 mg + Triamteren 25 mgFurosemid 30 mg + Triamteren 50 mgFurosemid 40 mg + Amilorid-HCl 5 mgFurosemid 40 mg + Triamteren 50 mg
-
-3.40  
-Kombinationen von Glucocorticoiden mit langwirksamen Beta2-Sympathomimetika: inhalative DarreichungsformenWirkstoff:Beclometasondipropionat + FormoterolBeclometasondipropionat, wasserfreiesFormoterol hemifumarat-1-WasserBudesonid + FormoterolFormoterol hemifumarat-1-WasserFluticason propionat + SalmeterolFluticason 17-propionatSalmeterol xinafoat
-
-3.41  
-Kombinationen von Nifedipin mit Beta-Rezeptorenblockern: orale DarreichungsformenWirkstoff:Nifedipin 10 mg + Acebutolol 100 mgNifedipin 10 mg + Atenolol 25 mgNifedipin 15 mg + Metoprolol 50 mgNifedipin 20 mg + Atenolol 50 mg
-
-3.42  
-Kombinationen von Paracetamol mit Codein: feste orale DarreichungsformenWirkstoff:Codeinphosphat 30 mg x 0,5 H<sub>2</sub>OParacetamol 500 mg
-
-3.43  
-Kombinationen von Paracetamol mit Codein: rektale DarreichungsformenWirkstoff:Codeinphosphat 60 mg x 0,5 H<sub>2</sub>OParacetamol 1 000 mg
-
-3.44  
-Kombinationen von Thiazid-Diuretika und Analoga mit kaliumsparenden Diuretika: orale DarreichungsformenWirkstoff:Bendroflumethiazid 2,5 mg + Amilorid-HCl 4,4 mgTrichlormethiazid 2 mg + Amilorid-HCl 2 mgXipamid 10 mg + Triamteren 30 mgXipamid 5 mg + Triamteren 15 mg
-
-3.45  
-Myotonolytika: zentral wirksame Myotonolytika, orale DarreichungsformenWirkstoff:BaclofenTetrazepamTizanidin
-
-3.46  
-Neuroleptika: hochpotente Neuroleptika, feste orale Darreichungsformen, normal freisetzendWirkstoff:BenperidolBromperidolFlupentixolFluphenazinPerphenazinPimozidTiotixenTrifluoperazin
-
-3.47  
-Neuroleptika: hochpotente Neuroleptika, flüssige orale DarreichungsformenWirkstoff:BenperidolBromperidolFluphenazinPerphenazinTrifluperidol
-
-3.48  
-Neuroleptika: hochpotente Neuroleptika, parenterale Darreichungsformen, normal freisetzendWirkstoff:BenperidolFluphenazin
-
-3.49  
-Neuroleptika: mittel- und niedrigpotente Neuroleptika, feste orale Darreichungsformen, normal freisetzendWirkstoff:ChlorphenethazinChlorpromazinChlorprothixenClopenthixolDixyrazinLevomepromazinMelperonMetofenazatPerazinPromazinProthipendylThioridazinTriflupromazinZotepinZuclopenthixol
-
-3.50  
-Neuroleptika: mittel- und niedrigpotente Neuroleptika, flüssige orale DarreichungsformenWirkstoff:ChlorpromazinChlorprothixenDixyrazinFluanisonLevomepromazinMelperonPerazinPromazinProthipendylThioridazinZuclopenthixol
-
-3.51  
-Neuroleptika: mittel- und niedrigpotente Neuroleptika, parenterale Darreichungsformen, normal freisetzendWirkstoff:ChlorpromazinChlorprothixenLevomepromazinMelperonPerazinPromazinProthipendylTriflupromazin
-
-3.52  
-Neuroleptika: Depotneuroleptika, parenterale DarreichungsformenWirkstoff:FlupentixolFluphenazinFluspirilenPerphenazinZuclopenthixol
-
-3.53  
-Ophthalmika, vasokonstriktorisch: weitere Ophthalmika, vasokonstriktorischWirkstoff:AntazolinNaphazolinOxymetazolinPhenylephrinTetryzolinTramazolin
-
-3.54  
-Parkinsontherapeutika: Dopaminagonisten, orale DarreichungsformenWirkstoff:Alpha-DihydroergocriptinBromocriptinLisuridPergolid
-
-3.55  
-Parkinsontherapeutika: Anticholinergika, orale DarreichungsformenWirkstoff:BenzatropinBornaprinPridinolProcyclidinTrihexyphenidyl
-
-3.56  
-Parkinsontherapeutika: Anticholinergika, orale DarreichungsformWirkstoff:Metixen
-
-3.57  
-Schichtgitter-Antacida: orale DarreichungsformenWirkstoff:Hydrotalcitmagaldrathaltige Kombinationen
-
-3.58  
-Thiamin + Pyridoxin: orale DarreichungsformenWirkstoff:Thiamin + Pyridoxin
+### Anlage 7 (zu § 22 Absatz 3)Übersicht der Arzneimittelfestbetragsgruppen, für die ein Festbetrag gilt
+
+(Fundstelle: BGBl. I 2015, 856 - 884)
+
+|         |                                                                                                                                                                                                                                |
+|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1.**  | **Festbetragsgruppen für Arzneimittel mit denselben Wirkstoffen**                                                                                                                                                              |
+| 1.00.1  | 5-Fluorouracil: parenterale Darreichungsformen                                                                                                                                                                                 |
+| 1.01.1  | Acetazolamid: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                               |
+| 1.01.2  | Acetylcystein: orale Darreichungsformen                                                                                                                                                                                        |
+| 1.01.3  | Aciclovir: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.01.4  | Aciclovir: topische Darreichungsformen                                                                                                                                                                                         |
+| 1.01.5  | Aciclovir: Ophthalmika                                                                                                                                                                                                         |
+| 1.01.6  | Aciclovir: parenterale Darreichungsformen                                                                                                                                                                                      |
+| 1.01.7  | Allopurinol: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.01.8  | Alpha-Liponsäure: feste orale Darreichungsformen                                                                                                                                                                               |
+| 1.01.9  | Alpha-Liponsäure: parenterale Darreichungsformen                                                                                                                                                                               |
+| 1.01.10 | Amantadin: abgeteilte orale Darreichungsformen                                                                                                                                                                                 |
+| 1.01.11 | Ambroxol: orale Darreichungsformen                                                                                                                                                                                             |
+| 1.01.12 | Ambroxol: inhalative Darreichungsformen                                                                                                                                                                                        |
+| 1.01.13 | Ambroxol: parenterale Darreichungsformen                                                                                                                                                                                       |
+| 1.01.14 | Ambroxol + Doxycyclin: feste orale Darreichungsformen                                                                                                                                                                          |
+| 1.01.15 | Amilorid + Hydrochlorothiazid: orale Darreichungsformen                                                                                                                                                                        |
+| 1.01.16 | Amiodaron: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.01.17 | Amisulprid: abgeteilte orale Darreichungsformen                                                                                                                                                                                |
+| 1.01.18 | Amitriptylin: orale Darreichungsformen                                                                                                                                                                                         |
+| 1.01.19 | Ammoniumbituminosulfonat: topische Darreichungsformen                                                                                                                                                                          |
+| 1.01.20 | Amoxicillin: abgeteilte orale Darreichungsformen                                                                                                                                                                               |
+| 1.01.21 | Amoxicillin: flüssige orale Darreichungsformen                                                                                                                                                                                 |
+| 1.01.22 | Amoxicillin + Clavulansäure: feste orale Darreichungsformen, im Verhältnis 7:1                                                                                                                                                 |
+| 1.01.23 | Amoxicillin + Clavulansäure: feste orale Darreichungsformen, im Verhältnis 4:1                                                                                                                                                 |
+| 1.01.24 | Anastrozol: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.01.25 | Atenolol: feste orale Darreichungsformen                                                                                                                                                                                       |
+| 1.01.26 | Atenolol + Chortalidon: feste orale Darreichungsformen                                                                                                                                                                         |
+| 1.01.27 | Azathioprin: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.02.1  | Bemetizid + Triamenteren: feste orale Darreichungsformen                                                                                                                                                                       |
+| 1.02.2  | Benzoylperoxid: topische Darreichungsformen                                                                                                                                                                                    |
+| 1.02.3  | Beta-Acetyldigoxin: feste orale Darreichungsformen                                                                                                                                                                             |
+| 1.02.4  | Betahistin: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.02.5  | Bicalutamid: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.02.6  | Biperiden: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                                  |
+| 1.02.7  | Biperiden: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                               |
+| 1.02.8  | Bisoprolol + Hydrochlorothiazid: abgeteilte orale Darreichungsformen                                                                                                                                                           |
+| 1.02.9  | Bromazepam: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.02.10 | Bromhexin: feste orale Darreichungsformen                                                                                                                                                                                      |
+| 1.02.11 | Bromhexin: flüssige orale Darreichungsformen                                                                                                                                                                                   |
+| 1.02.12 | Buprenorphin: orale Darreichungsformen                                                                                                                                                                                         |
+| 1.02.13 | Buprenorphin: transdermale Darreichungsformen                                                                                                                                                                                  |
+| 1.02.14 | Buspiron: abgeteilte orale Darreichungsformen                                                                                                                                                                                  |
+| 1.02.15 | Butylscopolamin: feste orale Darreichungsformen                                                                                                                                                                                |
+| 1.02.16 | Butylscopolamin: parenterale Darreichungsformen                                                                                                                                                                                |
+| 1.03.1  | Calcium zur Substitution und Therapie: orale Darreichungsformen                                                                                                                                                                |
+| 1.03.2  | Carbamazepin: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                               |
+| 1.03.3  | Carbamazepin: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                            |
+| 1.03.4  | Carbimazol: feste orale Darreichungsformen                                                                                                                                                                                     |
+| 1.03.5  | Choriongonadotropoin: parenterale Darreichungsformen                                                                                                                                                                           |
+| 1.03.6  | Ciclopirox: topische Darreichungsformen                                                                                                                                                                                        |
+| 1.03.7  | Ciclosporin: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.03.8  | Ciclosporin: orale Darreichungsformen, auf Mikro-/Nanoemulsionsbasis oder kolloidal dispergiert                                                                                                                                |
+| 1.03.9  | Cimetidin: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.03.10 | Cimetidin: parenterale Darreichungsformen                                                                                                                                                                                      |
+| 1.03.11 | Clindamycin: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.03.12 | Clodronsäure: orale Darreichungsformen                                                                                                                                                                                         |
+| 1.03.13 | Clomifen: feste orale Darreichungsformen                                                                                                                                                                                       |
+| 1.03.14 | Clonidin: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                                   |
+| 1.03.15 | Clonidin: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                                |
+| 1.03.16 | Clonidin: Ophalmika                                                                                                                                                                                                            |
+| 1.03.17 | Clopidogrel: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.03.18 | Clotrimazol: Creme, Salbe                                                                                                                                                                                                      |
+| 1.03.19 | Clotrimazol: Liquidum, Lösung, Pumpspray, Spray, Tropflösung                                                                                                                                                                   |
+| 1.03.20 | Clotrimazol: vaginale topische Darreichungsformen                                                                                                                                                                              |
+| 1.03.21 | Clozapin: abgeteilte orale Darreichungsformen                                                                                                                                                                                  |
+| 1.03.22 | Colecalciferol: feste orale Darreichungsformen (400 bis 1 000 I. E.)                                                                                                                                                           |
+| 1.03.23 | Colecalciferol + Fluorid: feste orale Darreichungsformen (500 bis 1 000 I. E. Colecalciferol + 0,25 mg Fluorid)                                                                                                                |
+| 1.03.24 | Co-Trimoxazol: feste orale Darreichungsformen                                                                                                                                                                                  |
+| 1.03.25 | Co-Trimoxazol: flüssige orale Darreichungsformen                                                                                                                                                                               |
+| 1.03.26 | Cromoglicinsäure: Augentropfen, Eindosispipetten                                                                                                                                                                               |
+| 1.03.27 | Cromoglicinsäure: Nasenspray, Nasentropfen, Spray                                                                                                                                                                              |
+| 1.03.28 | Cromoglicinsäure: Augentropfen/Nasenspray (Kombipackung)                                                                                                                                                                       |
+| 1.03.29 | Cromoglicinsäure: inhalative Darreichungsformen                                                                                                                                                                                |
+| 1.03.30 | Cromoglicinsäure: orale Darreichungsformen                                                                                                                                                                                     |
+| 1.03.31 | Cyanocobalamin: parenterale Darreichungsformen                                                                                                                                                                                 |
+| 1.03.32 | Cyclophosphamid: feste orale Darreichungsformen                                                                                                                                                                                |
+| 1.03.33 | Cyproteron-Acetat: feste orale Darreichungsformen                                                                                                                                                                              |
+| 1.04.1  | Dexamethason: orale Darreichungsformen, normal freisetzend, niedrigdosiert ≤ 2 mg                                                                                                                                              |
+| 1.04.2  | Dexamethason: orale Darreichungsformen, normal freisetzend, hochdosiert ≥ 4 mg                                                                                                                                                 |
+| 1.04.3  | Dexamethason: parenterale Darreichungsformen, wasserlöslich, niedrigdosiert ≤ 20 mg                                                                                                                                            |
+| 1.04.4  | Dexamethason: parenterale Darreichungsformen, wasserlöslich, hochdosiert ≥ 40 mg                                                                                                                                               |
+| 1.04.5  | Dexpanthenol: lokale Darreichungsformen                                                                                                                                                                                        |
+| 1.04.6  | Dexpanthenol: Ophthalmika und Rhinologika                                                                                                                                                                                      |
+| 1.04.7  | Diazepam: orale Darreichungsformen                                                                                                                                                                                             |
+| 1.04.8  | Diazepam: parenterale Darreichungsformen (alkoholische Lösung)                                                                                                                                                                 |
+| 1.04.9  | Diazepam: parenterale Darreichungsformen (sonstige Lösung)                                                                                                                                                                     |
+| 1.04.10 | Diclofenac: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                                 |
+| 1.04.11 | Diclofenac: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                              |
+| 1.04.12 | Diclofenac: rektale Darreichungsformen                                                                                                                                                                                         |
+| 1.04.13 | Diclofenac: parenterale Darreichungsformen                                                                                                                                                                                     |
+| 1.04.14 | Diclofenac: topische Darreichungsformen (Konzentrationsbereich ca. 1 bis 5 %)                                                                                                                                                  |
+| 1.04.15 | Digitoxin: feste orale Darreichungsformen                                                                                                                                                                                      |
+| 1.04.16 | Digoxin: feste orale Darreichungsformen                                                                                                                                                                                        |
+| 1.04.17 | Dihydroergotamin: orale Darreichungsformen                                                                                                                                                                                     |
+| 1.04.18 | Dihydroergotoxin: orale Darreichungsformen                                                                                                                                                                                     |
+| 1.04.19 | Diltiazem: orale Darreichungsformen, normal freisetzend                                                                                                                                                                        |
+| 1.04.20 | Diltiazem: orale Darreichungsformen, verzögert freisetzend                                                                                                                                                                     |
+| 1.04.21 | Dimenhydrinat: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                              |
+| 1.04.22 | Dimenhydrinat: rektale Darreichungsformen                                                                                                                                                                                      |
+| 1.04.23 | Diphenhydramin: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                             |
+| 1.04.24 | Domperidon: abgeteilte orale Darreichungsformen                                                                                                                                                                                |
+| 1.04.25 | Doxorubicin: parenterale Darreichungsformen                                                                                                                                                                                    |
+| 1.04.26 | Doxycyclin: feste orale Darreichungsformen                                                                                                                                                                                     |
+| 1.04.27 | Doxylamin: orale Darreichungsformen, normal freisetzend                                                                                                                                                                        |
+| 1.05.1  | Erythromycin: abgeteilte orale Darreichungsformen                                                                                                                                                                              |
+| 1.05.2  | Erythromycin: flüssige orale Darreichungsformen                                                                                                                                                                                |
+| 1.05.3  | Erythromycin: lokale Darreichungsformen                                                                                                                                                                                        |
+| 1.05.4  | Estradiol: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.05.5  | Estradiol: transdermale Darreichungsformen                                                                                                                                                                                     |
+| 1.05.6  | Estramustin: feste orale Darreichungsformen                                                                                                                                                                                    |
+| 1.05.7  | Estriol: feste orale Darreichungsformen                                                                                                                                                                                        |
+| 1.05.8  | Estriol: vaginale topische Darreichungsformen                                                                                                                                                                                  |
+| 1.05.9  | Ethambutol: feste orale Darreichungsformen                                                                                                                                                                                     |
+| 1.05.10 | Etilefrin: orale Darreichungsformen, normal freisetzend                                                                                                                                                                        |
+| 1.05.11 | Exemestan: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.06.1  | Fentanyl: transdermale Darreichungsformen                                                                                                                                                                                      |
+| 1.06.2  | Flecainid: abgeteilte orale Darreichungsformen                                                                                                                                                                                 |
+| 1.06.3  | Flunarizin: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.06.4  | Flutamid: orale Darreichungsformen                                                                                                                                                                                             |
+| 1.06.5  | Folinsäure: parenterale Darreichungsformen                                                                                                                                                                                     |
+| 1.06.6  | Folsäure: feste orale Darreichungsformen                                                                                                                                                                                       |
+| 1.06.7  | Folsäure: parenterale Darreichungsformen                                                                                                                                                                                       |
+| 1.06.8  | Furosemid: Tabletten ≤ 80 mg                                                                                                                                                                                                   |
+| 1.06.9  | Furosemid: Tabletten ≥ 125 mg                                                                                                                                                                                                  |
+| 1.06.10 | Furosemid: Ampullen, Injektionslösungen (20 mg, 40 mg)                                                                                                                                                                         |
+| 1.06.11 | Furosemid: Ampullen, Infusionslösungen (250 mg)                                                                                                                                                                                |
+| 1.06.12 | Furosemid: orale Darreichungsformen, verzögert freisetzend                                                                                                                                                                     |
+| 1.06.13 | Furosemid + Spironolacton: feste orale Darreichungsformen                                                                                                                                                                      |
+| 1.06.14 | Fusidinsäure: topische Darreichungsformen                                                                                                                                                                                      |
+| 1.07.1  | Gabapentin: abgeteilte orale Darreichungsformen                                                                                                                                                                                |
+| 1.07.2  | Gentamicin: parenterale Darreichungsformen                                                                                                                                                                                     |
+| 1.07.3  | Gentamicin: Ophthalmika                                                                                                                                                                                                        |
+| 1.07.4  | Gentamicin: topische Darreichungsformen                                                                                                                                                                                        |
+| 1.07.5  | Gingko-biloba-Trockenextrakt: orale Darreichungsformen, standardisiert auf Flavonglykoside im Verhältnis 50:1 angereichertem Trockenextrakt                                                                                    |
+| 1.07.6  | Glibenclamid: Tabletten ≥ 1 mg bis ≤ 3,5 mg                                                                                                                                                                                    |
+| 1.07.7  | Glyceroltrinitrat: transdermale therapeutische Systeme                                                                                                                                                                         |
+| 1.07.8  | Glyceroltrinitrat: Spray, Pumpspray                                                                                                                                                                                            |
+| 1.07.9  | Gold: orale Darreichungsformen                                                                                                                                                                                                 |
+| 1.07.10 | Griseofulvin: feste orale Darreichungsformen                                                                                                                                                                                   |
+| 1.08.1  | Haloperidol: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.08.2  | Haloperidol: parenterale Darreichungsformen, normal freisetzend                                                                                                                                                                |
+| 1.08.3  | Haloperidol: parenterale Darreichungsformen, mit Depotwirkung                                                                                                                                                                  |
+| 1.08.4  | Heparin: Heparin-Natrium, topische Darreichungsformen                                                                                                                                                                          |
+| 1.08.5  | Heparin: Unfraktioniertes Heparin, parenterale Darreichungsformen                                                                                                                                                              |
+| 1.08.6  | Humaninsulin: schnell wirkend, parenterale Darreichungsformen; ausgenommen Fertigarzneimittel, die ausschließlich für die Verwendung in Insulinpumpen zugelassen sind                                                          |
+| 1.08.7  | Humaninsulin: intermediär und lang wirkend, parenterale Darreichungsformen                                                                                                                                                     |
+| 1.08.8  | Humaninsulin: intermediär wirkend kombiniert mit schnell wirkend, parenterale Darreichungsformen                                                                                                                               |
+| 1.08.9  | Hydromorphon: abgeteilte orale Darreichungsformen, verzögert freisetzend                                                                                                                                                       |
+| 1.08.10 | Hydroxocobalamin: parenterale Darreichungsformen                                                                                                                                                                               |
+| 1.09.1  | Ibuprofen: orale Darreichungsformen, normal freisetzend                                                                                                                                                                        |
+| 1.09.2  | Ibuprofen: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                               |
+| 1.09.3  | Ibuprofen: Suppositorien                                                                                                                                                                                                       |
+| 1.09.4  | Ibuprofen: topische Darreichungsformen                                                                                                                                                                                         |
+| 1.09.5  | Indapamid: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.09.6  | Indometacin: abgeteilte orale Darreichungsformen, normal freisetzend                                                                                                                                                           |
+| 1.09.7  | Indometacin: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                             |
+| 1.09.8  | Indometacin: rektale Darreichungsformen                                                                                                                                                                                        |
+| 1.09.9  | Indometacin: topische Darreichungsformen                                                                                                                                                                                       |
+| 1.09.10 | Isosorbiddinitrat: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                          |
+| 1.09.11 | Isosorbiddinitrat: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                       |
+| 1.09.12 | Isosorbidmononitrat: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                        |
+| 1.09.13 | Isosorbidmononitrat: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                     |
+| 1.09.14 | Isotretinoin: abgeteilte orale Darreichungsformen                                                                                                                                                                              |
+| 1.10.1  | Jodid zur Strumaprophylaxe: orale Darreichungsformen                                                                                                                                                                           |
+| 1.11.1  | Kaliumsalze: orale Darreichungsformen, normal freisetzend                                                                                                                                                                      |
+| 1.11.2  | Kaliumsalze: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                             |
+| 1.12.1  | Lactulose: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.12.2  | Lamotrigin: abgeteilte orale Darreichungsformen                                                                                                                                                                                |
+| 1.12.3  | Leflunomid: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.12.4  | Letrozol: orale Darreichungsformen                                                                                                                                                                                             |
+| 1.12.5  | Levetiracetam: feste orale Darreichungsformen                                                                                                                                                                                  |
+| 1.12.6  | Levodopa + Benserazid: abgeteilte orale Darreichungsformen, normal freisetzend                                                                                                                                                 |
+| 1.12.7  | Levodopa + Benserazid: abgeteilte orale Darreichungsformen, verzögert freisetzend                                                                                                                                              |
+| 1.12.8  | Levodopa + Carbidopa: orale Darreichungsformen, normal freisetzend, im Verhältnis 4:1                                                                                                                                          |
+| 1.12.9  | Levodopa + Carbidopa: orale Darreichungsformen, normal freisetzend, im Verhältnis 10:1                                                                                                                                         |
+| 1.12.10 | Levodopa + Carbidopa: abgeteilte orale Darreichungsformen, verzögert freisetzend, im Verhältnis 4:1                                                                                                                            |
+| 1.12.11 | Levothyroxin-Natrium: orale Darreichungsformen                                                                                                                                                                                 |
+| 1.12.12 | Lithium: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                                 |
+| 1.12.13 | Loperamid: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.12.14 | Lorazepam: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.13.1  | Magaldrat: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.13.2  | Magnesium: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.13.3  | Magnesium: parenterale Darreichungsformen                                                                                                                                                                                      |
+| 1.13.4  | Maprotilin: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                                 |
+| 1.13.5  | Mebeverin: abgeteilte orale Darreichungsformen                                                                                                                                                                                 |
+| 1.13.6  | Medroxyprogesteron: Tabletten, Oralsuspension (100 bis 500 mg)                                                                                                                                                                 |
+| 1.13.7  | Mesalazin: feste orale Darreichungsformen                                                                                                                                                                                      |
+| 1.13.8  | Mesalazin: rektale Darreichungsformen                                                                                                                                                                                          |
+| 1.13.9  | Mesalazin: sonstige rektale Darreichungsformen                                                                                                                                                                                 |
+| 1.13.10 | Metamizol: orale Darreichungsformen, normal freisetzend                                                                                                                                                                        |
+| 1.13.11 | Metamizol: rektale Darreichungsformen                                                                                                                                                                                          |
+| 1.13.12 | Metamizol: parenterale Darreichungsformen                                                                                                                                                                                      |
+| 1.13.13 | Metformin: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.13.14 | Methotrexat: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.13.15 | Methyldopa: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.13.16 | Methylphenidat: abgeteilte orale Darreichungsformen                                                                                                                                                                            |
+| 1.13.17 | Metoclopramid: orale Darreichungsformen, normal freisetzend                                                                                                                                                                    |
+| 1.13.18 | Metoclopramid: orale Darreichungsformen, verzögert freisetzend                                                                                                                                                                 |
+| 1.13.19 | Metoclopramid: parenterale Darreichungsformen                                                                                                                                                                                  |
+| 1.13.20 | Metoprolol + Hydrochlorothiazid: feste orale Darreichungsformen, normal freisetzend                                                                                                                                            |
+| 1.13.21 | Metoprolol + Hydrochlorothiazid: orale Darreichungsformen, verzögert freisetzend                                                                                                                                               |
+| 1.13.22 | Metronidazol: orale Darreichungsformen                                                                                                                                                                                         |
+| 1.13.23 | Metronidazol: vaginale topische Darreichungsformen                                                                                                                                                                             |
+| 1.13.24 | Metronidazol: parenterale Darreichungsformen                                                                                                                                                                                   |
+| 1.13.25 | Midodrin: orale Darreichungsformen                                                                                                                                                                                             |
+| 1.13.26 | Minocyclin: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.13.27 | Mirtazapin: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.13.28 | Moclobemid: abgeteilte orale Darreichungsformen                                                                                                                                                                                |
+| 1.13.29 | Molsidomin: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                                 |
+| 1.13.30 | Molsidomin: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                              |
+| 1.13.31 | Montelukast: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.13.32 | Morphin: abgeteilte orale Darreichungsformen, verzögert freisetzend                                                                                                                                                            |
+| 1.13.33 | Moxonidin: abgeteilte orale Darreichungsformen                                                                                                                                                                                 |
+| 1.14.1  | Nachtkerzensamenöl: orale Darreichungsformen, standardisiert auf Gamolensäure                                                                                                                                                  |
+| 1.14.2  | Naftidrofuryl: orale Darreichungsformen                                                                                                                                                                                        |
+| 1.14.3  | Nicergolin: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.14.4  | Nifedipin: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                                  |
+| 1.14.5  | Nifedipin: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                               |
+| 1.14.6  | Nifedipin: flüssige orale Darreichungsformen                                                                                                                                                                                   |
+| 1.14.7  | Nimodipin: abgeteilte orale Darreichungsformen                                                                                                                                                                                 |
+| 1.14.8  | Nitrazepam: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.14.9  | Nitrofurantoin: orale Darreichungsformen, normal freisetzend                                                                                                                                                                   |
+| 1.14.10 | Nitrofurantoin: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                          |
+| 1.14.11 | Nystatin: feste orale Darreichungsformen                                                                                                                                                                                       |
+| 1.14.12 | Nystatin: flüssige orale Darreichungsformen                                                                                                                                                                                    |
+| 1.14.13 | Nystatin: vaginale topische Darreichungsformen                                                                                                                                                                                 |
+| 1.14.14 | Nystatin: topische Darreichungsformen                                                                                                                                                                                          |
+| 1.14.15 | Nystatin + Zinkoxid: topische Darreichungsformen                                                                                                                                                                               |
+| 1.15.1  | Olanzapin: abgeteilte orale Darreichungsformen                                                                                                                                                                                 |
+| 1.15.2  | Oxazepam: orale Darreichungsformen, normal freisetzend                                                                                                                                                                         |
+| 1.15.3  | Oxybutynin: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.15.4  | Oxycodon: abgeteilte orale Darreichungsformen, verzögert freisetzend                                                                                                                                                           |
+| 1.16.1  | Pankreatin: magensaftresistente polydispere Darreichungsformen                                                                                                                                                                 |
+| 1.16.2  | Pankreatin: magensaftresistente monolithische Darreichungsformen                                                                                                                                                               |
+| 1.16.3  | Paracetamol: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.16.4  | Paracetamol: Suppositorien                                                                                                                                                                                                     |
+| 1.16.5  | Pentoxifyllin: feste orale Darreichungsformen                                                                                                                                                                                  |
+| 1.16.6  | Pentoxifyllin: parenterale Darreichungsformen                                                                                                                                                                                  |
+| 1.16.7  | Phenoxymethylpenicillin: abgeteilte orale Darreichungsformen                                                                                                                                                                   |
+| 1.16.8  | Phenoxymethylpenicillin: flüssige orale Darreichungsformen                                                                                                                                                                     |
+| 1.16.9  | Phenytoin: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.16.10 | Pilocarpin: Augentropfen auf wässriger Basis, Eindosispipetten                                                                                                                                                                 |
+| 1.16.11 | Pindolol: orale Darreichungsformen                                                                                                                                                                                             |
+| 1.16.12 | Piracetam: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.16.13 | Piracetam: parenterale Darreichungsformen                                                                                                                                                                                      |
+| 1.16.14 | Polyvidon-Jod: Creme, Gel, Salbe                                                                                                                                                                                               |
+| 1.16.15 | Pramipexol: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.16.16 | Prednisolon: orale Darreichungsformen, normal freisetzend, niedrigdosiert ≤ 20 mg                                                                                                                                              |
+| 1.16.17 | Prednisolon: orale Darreichungsformen, normal freisetzend, hochdosiert ≥ 50 mg                                                                                                                                                 |
+| 1.16.18 | Prednisolon: parenterale Darreichungsformen, wasserlöslich, niedrigdosiert ≤ 100 mg                                                                                                                                            |
+| 1.16.19 | Prednisolon: parenterale Darreichungsformen mit Depotwirkung                                                                                                                                                                   |
+| 1.16.20 | Prednison: orale Darreichungsformen, normal freisetzend, niedrigdosiert ≤ 20 mg                                                                                                                                                |
+| 1.16.21 | Prednison: orale Darreichungsformen, normal freisetzend, hochdosiert ≥ 50 mg                                                                                                                                                   |
+| 1.16.22 | Primidon: orale Darreichungsformen                                                                                                                                                                                             |
+| 1.16.23 | Promethazin: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.16.24 | Promethazin: parenterale Darreichungsformen                                                                                                                                                                                    |
+| 1.16.25 | Propafenon: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.16.26 | Propranolol: orale Darreichungsformen, normal freisetzend                                                                                                                                                                      |
+| 1.16.27 | Propranolol: orale Darreichungsformen, verzögert freisetzend                                                                                                                                                                   |
+| 1.16.28 | Pyrazinamid: feste orale Darreichungsformen                                                                                                                                                                                    |
+| 1.16.29 | Pyridoxin: feste orale Darreichungsformen                                                                                                                                                                                      |
+| 1.16.30 | Pyridoxin: parenterale Darreichungsformen                                                                                                                                                                                      |
+| 1.17.1  | (frei)                                                                                                                                                                                                                         |
+| 1.18.1  | Retinol: orale Darreichungsformen                                                                                                                                                                                              |
+| 1.18.2  | Ropinirol: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.19.1  | Saccharomyces boulardii: orale Darreichungsformen                                                                                                                                                                              |
+| 1.19.2  | Sägepalmenfrüchte: orale Darreichungsformen                                                                                                                                                                                    |
+| 1.19.3  | Selegilin: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.19.4  | Sertralin: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.19.5  | Sotalol: feste orale Darreichungsformen                                                                                                                                                                                        |
+| 1.19.6  | Spironolacton: orale Darreichungsformen                                                                                                                                                                                        |
+| 1.19.7  | Sucralfat: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.19.8  | Sulfasalazin: orale Darreichungsformen                                                                                                                                                                                         |
+| 1.19.9  | Sulpirid: orale Darreichungsformen                                                                                                                                                                                             |
+| 1.20.1  | Tamoxifen: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.20.2  | Temozolomid: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.20.3  | Terbinafin: abgeteilte orale Darreichungsformen                                                                                                                                                                                |
+| 1.20.4  | Tetracyclin: feste orale Darreichungsformen                                                                                                                                                                                    |
+| 1.20.5  | Theophyllin: orale Darreichungsformen, normal freisetzend                                                                                                                                                                      |
+| 1.20.6  | Theophyllin: orale Darreichungsformen, verzögert freisetzend                                                                                                                                                                   |
+| 1.20.7  | Theophyllin: Ampullen                                                                                                                                                                                                          |
+| 1.20.8  | Thiamazol: feste orale Darreichungsformen                                                                                                                                                                                      |
+| 1.20.9  | Thiamin-Hydrochlorid zur Substitution und Therapie: orale Darreichungsformen                                                                                                                                                   |
+| 1.20.10 | Thiamin-Hydrochlorid zur Substitution und Therapie: parenterale Darreichungsformen                                                                                                                                             |
+| 1.20.11 | Tiaprid: orale Darreichungsformen                                                                                                                                                                                              |
+| 1.20.12 | Ticlopidin: abgeteilte orale Darreichungsformen                                                                                                                                                                                |
+| 1.20.13 | Tilidin mit Zusatz Naloxon: orale Darreichungsformen, normal freisetzend                                                                                                                                                       |
+| 1.20.14 | Tilidin mit Zusatz Naloxon: orale Darreichungsformen, verzögert freisetzend                                                                                                                                                    |
+| 1.20.15 | Tolperison: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.20.16 | Topiramat: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.20.17 | Tramadol: abgeteilte orale Darreichungsformen, normal freisetzend                                                                                                                                                              |
+| 1.20.18 | Tramadol: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                                |
+| 1.20.19 | Tramadol: flüssige orale Darreichungsformen                                                                                                                                                                                    |
+| 1.20.20 | Tramadol: parenterale Darreichungsformen                                                                                                                                                                                       |
+| 1.20.21 | Tramadol: rektale Darreichungsformen                                                                                                                                                                                           |
+| 1.20.22 | Tretinoin: topische Darreichungsformen                                                                                                                                                                                         |
+| 1.20.23 | Triamteren + Hydrochlorothiazid: orale Darreichungsformen                                                                                                                                                                      |
+| 1.20.24 | Trospiumchlorid: orale Darreichungsformen                                                                                                                                                                                      |
+| 1.20.25 | Troxerutin: orale Darreichungsformen, normal freisetzend                                                                                                                                                                       |
+| 1.21.1  | Urea: topische Darreichungsformen                                                                                                                                                                                              |
+| 1.21.2  | Urea pura + Tretinoin: topische Darreichungsformen                                                                                                                                                                             |
+| 1.21.3  | Ursodeoxycholsäure: orale Darreichungsformen                                                                                                                                                                                   |
+| 1.22.1  | Valproinsäure: orale Darreichungsformen, verzögert freisetzend                                                                                                                                                                 |
+| 1.22.2  | Venlafaxin: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.22.3  | Verapamil: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                                  |
+| 1.22.4  | Verapamil: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                               |
+| 1.22.5  | Verapamil: parenterale Darreichungsformen                                                                                                                                                                                      |
+| 1.23.1  | (frei)                                                                                                                                                                                                                         |
+| 1.24.1  | Xylometazolin: nasale topische Darreichungsformen                                                                                                                                                                              |
+| 1.25.1  | (frei)                                                                                                                                                                                                                         |
+| 1.26.1  | Zink zur Substitution und Therapie: orale Darreichungsformen                                                                                                                                                                   |
+| **2.**  | **Festbetragsgruppen für Arzneimittel mit pharmakologisch-therapeutisch vergleichbaren Wirkstoffen, insbesondere mit chemisch verwandten Stoffen**                                                                             |
+| 2.00.1  | (frei)                                                                                                                                                                                                                         |
+| 2.01.1  | ACE-Hemmer: feste, abgeteilte orale Darreichungsformen                                                                                                                                                                         |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Benazepril: Benazeprilhydrochlorid                                                                                                                                                                                             |
+|         | Captopril                                                                                                                                                                                                                      |
+|         | Cilazapril: Cilazapril-1-Wasser                                                                                                                                                                                                |
+|         | Enalapril: Enalapril maleat                                                                                                                                                                                                    |
+|         | Fosinopril: Fosinopril Natrium                                                                                                                                                                                                 |
+|         | Imidapril: Imidapril hydrochlorid                                                                                                                                                                                              |
+|         | Lisinopril: Lisinopril-2-Wasser                                                                                                                                                                                                |
+|         | Moexipril: Moexipril hydrochlorid                                                                                                                                                                                              |
+|         | Perindopril: Perindopril arginin; Perindopril erbumin                                                                                                                                                                          |
+|         | Quinapril: Quinapril hydrochlorid                                                                                                                                                                                              |
+|         | Ramipril                                                                                                                                                                                                                       |
+|         | Spirapril: Spirapril hydrochlorid; Spirapril hydrochlorid-1-Wasser                                                                                                                                                             |
+|         | Trandolapril                                                                                                                                                                                                                   |
+|         | Zofenopril: Zofenopril-Calcium                                                                                                                                                                                                 |
+| 2.01.2  | Alpha-Rezeptorenblocker: weitere Alpha-Rezeptorenblocker, alpha1-selektiv, abgeteilte orale Darreichungsformen                                                                                                                 |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Bunazosin: Bunazosin hydrochlorid                                                                                                                                                                                              |
+|         | Indoramin: Indoramin hydrochlorid                                                                                                                                                                                              |
+|         | Urapidil                                                                                                                                                                                                                       |
+| 2.01.3  | Alpha-Rezeptorenblocker: weitere Alpha-Rezeptorenblocker, alpha1-selektiv, abgeteilte orale Darreichungsformen                                                                                                                 |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Alfuzosin: Alfuzosin hydrochlorid                                                                                                                                                                                              |
+|         | Doxazosin: Doxazosin mesilat                                                                                                                                                                                                   |
+|         | Silodosin                                                                                                                                                                                                                      |
+|         | Tamsulosin: Tamsulosin hydrochlorid                                                                                                                                                                                            |
+|         | Terazosin: Terazosin hydrochlorid-2-Wasser                                                                                                                                                                                     |
+| 2.01.4  | Aminochinoline: orale Darreichungsformen                                                                                                                                                                                       |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Chloroquindiphosphat                                                                                                                                                                                                           |
+|         | Hydroxychloroquinsulfat                                                                                                                                                                                                        |
+| 2.01.5  | Angiotensin-II-Antagonisten: abgeteilte orale Darreichungsformen                                                                                                                                                               |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Azilsartan: Azilsartan medoxomil Kaliumsalze                                                                                                                                                                                   |
+|         | Candesartan: Candesartan cilexetil                                                                                                                                                                                             |
+|         | Eprosartan: Eprosartan mesilat                                                                                                                                                                                                 |
+|         | Irbesartan: Irbesartan hydrochlorid                                                                                                                                                                                            |
+|         | Losartan: Losartan kalium                                                                                                                                                                                                      |
+|         | Olmesartan: Olmesartan medoxomil                                                                                                                                                                                               |
+|         | Telmisartan                                                                                                                                                                                                                    |
+|         | Valsartan                                                                                                                                                                                                                      |
+| 2.01.6  | Anionenaustauscherharze: orale Darreichungsformen                                                                                                                                                                              |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Colestipol                                                                                                                                                                                                                     |
+|         | Colestyramin                                                                                                                                                                                                                   |
+| 2.01.7  | Antianämika, andere: parenterale Darreichungsformen                                                                                                                                                                            |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Darbepoetin: Darbepoetin alfa                                                                                                                                                                                                  |
+|         | Erythropoetin: Epoetin alfa, Epoetin beta, Epoetin delta, Epoetin theta, Epoetin zeta                                                                                                                                          |
+|         | PEG-Erythropoetin: Methoxy-Polyethylenglycol-Epoetin beta, PEG-Epoetin beta                                                                                                                                                    |
+| 2.01.8  | Antidiabetika vom Sulfonylharnstofftyp: weitere Antidiabetika vom Sulfonylharnstofftyp, feste, abgeteilte orale Darreichungsformen                                                                                             |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Carbutamid                                                                                                                                                                                                                     |
+|         | Glibornurid                                                                                                                                                                                                                    |
+|         | Gliclazid                                                                                                                                                                                                                      |
+|         | Glimepirid                                                                                                                                                                                                                     |
+|         | Glipizid                                                                                                                                                                                                                       |
+|         | Gliquidon                                                                                                                                                                                                                      |
+|         | Glisoxepid                                                                                                                                                                                                                     |
+|         | Tolbutamid                                                                                                                                                                                                                     |
+| 2.01.9  | Antikoagulantien, orale: feste orale Darreichungsformen                                                                                                                                                                        |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Phenprocoumon                                                                                                                                                                                                                  |
+|         | Warfarin-Natrium                                                                                                                                                                                                               |
+| 2.01.10 | Antipsychotika, andere: orale Darreichungsformen                                                                                                                                                                               |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Paliperidon                                                                                                                                                                                                                    |
+|         | Risperidon                                                                                                                                                                                                                     |
+| 2.01.11 | Azol-Antimykotika: Creme, Gel, Paste                                                                                                                                                                                           |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Bifonazol                                                                                                                                                                                                                      |
+|         | Croconazol                                                                                                                                                                                                                     |
+|         | Econazolnitrat                                                                                                                                                                                                                 |
+|         | Fenticonazolnitrat                                                                                                                                                                                                             |
+|         | Isoconazol                                                                                                                                                                                                                     |
+|         | Ketoconazol                                                                                                                                                                                                                    |
+|         | Miconazolnitrat                                                                                                                                                                                                                |
+|         | Omoconazol                                                                                                                                                                                                                     |
+|         | Oxiconazol                                                                                                                                                                                                                     |
+|         | Sertaconazol                                                                                                                                                                                                                   |
+|         | Tioconazol                                                                                                                                                                                                                     |
+| 2.01.12 | Azol-Antimykotika: Beutel, Lösung, Spray, Lotion, Pumpspray                                                                                                                                                                    |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Bifonazol                                                                                                                                                                                                                      |
+|         | Econazolnitrat                                                                                                                                                                                                                 |
+|         | Fenticonazolnitrat                                                                                                                                                                                                             |
+|         | Isoconazol                                                                                                                                                                                                                     |
+|         | Ketoconazol                                                                                                                                                                                                                    |
+|         | Miconazolnitrat                                                                                                                                                                                                                |
+|         | Oxiconazol                                                                                                                                                                                                                     |
+|         | Tioconazol                                                                                                                                                                                                                     |
+| 2.01.13 | Azol-Antimykotika: vaginale topische Darreichungsformen                                                                                                                                                                        |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Econazolnitrat                                                                                                                                                                                                                 |
+|         | Fenticonazolnitrat                                                                                                                                                                                                             |
+|         | Miconazolnitrat                                                                                                                                                                                                                |
+|         | Oxiconazol                                                                                                                                                                                                                     |
+| 2.02.1  | Benzodiazepine: weitere Benzodiazepine, vorwiegend anxiolytisch wirksam, orale Darreichungsformen                                                                                                                              |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Alprazolam                                                                                                                                                                                                                     |
+|         | Chlordiazepoxid                                                                                                                                                                                                                |
+|         | Clobazam                                                                                                                                                                                                                       |
+|         | Clorazepat                                                                                                                                                                                                                     |
+|         | Clotiazepam                                                                                                                                                                                                                    |
+|         | Ketazolam                                                                                                                                                                                                                      |
+|         | Medazepam                                                                                                                                                                                                                      |
+|         | Metaclazepam                                                                                                                                                                                                                   |
+|         | Nordazepam                                                                                                                                                                                                                     |
+|         | Oxazolam                                                                                                                                                                                                                       |
+|         | Prazepam                                                                                                                                                                                                                       |
+| 2.02.2  | Benzodiazepine: weitere Benzodiazepine, vorwiegend sedativ-hypnotisch wirksam, orale Darreichungsformen                                                                                                                        |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Brotizolam                                                                                                                                                                                                                     |
+|         | Flunitrazepam                                                                                                                                                                                                                  |
+|         | Flurazepam                                                                                                                                                                                                                     |
+|         | Loprazolam                                                                                                                                                                                                                     |
+|         | Lormetazepam                                                                                                                                                                                                                   |
+|         | Temazepam                                                                                                                                                                                                                      |
+|         | Triazolam                                                                                                                                                                                                                      |
+| 2.02.3  | Benzodiazepin-verwandte Mittel: abgeteilte orale Darreichungsformen                                                                                                                                                            |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Zaleplon                                                                                                                                                                                                                       |
+|         | Zolpidem: Zolpidem tartrat                                                                                                                                                                                                     |
+|         | Zopiclon                                                                                                                                                                                                                       |
+| 2.02.4  | Beta2-Sympathomimetika, inhalativ oral: inhalative Darreichungsformen                                                                                                                                                          |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Formoterol: Formoterol hemifumarat-(x)-Wasser                                                                                                                                                                                  |
+|         | Indacaterol: Indacaterol maleat                                                                                                                                                                                                |
+|         | Olodaterol: Olodaterol hydrochlorid                                                                                                                                                                                            |
+|         | Salmeterol: Salmeterol xinafoat                                                                                                                                                                                                |
+| 2.02.5  | Beta2-sympathomimetische Antiasthmatika: feste, abgeteilte orale Darreichungsformen, normal freisetzend                                                                                                                        |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Bambuterol: Bambuterol hydrochlorid                                                                                                                                                                                            |
+|         | Carbuterol                                                                                                                                                                                                                     |
+|         | Clenbuterol: Clenbuterol hydrochlorid                                                                                                                                                                                          |
+|         | Fenoterol                                                                                                                                                                                                                      |
+|         | Pirbuterol                                                                                                                                                                                                                     |
+|         | Procaterol                                                                                                                                                                                                                     |
+|         | Reproterol                                                                                                                                                                                                                     |
+|         | Salbutamol                                                                                                                                                                                                                     |
+|         | Terbutalin: Terbutalin sulfat                                                                                                                                                                                                  |
+|         | Tulobuterol                                                                                                                                                                                                                    |
+| 2.02.6  | Beta2-sympathomimetische Antiasthmatika: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                 |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Isoetarin                                                                                                                                                                                                                      |
+|         | Salbutamol                                                                                                                                                                                                                     |
+|         | Terbutalin                                                                                                                                                                                                                     |
+| 2.02.7  | Beta2-sympathomimetische Antiasthmatika: flüssige inhalative Darreichungsformen                                                                                                                                                |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Fenoterol                                                                                                                                                                                                                      |
+|         | Salbutamol                                                                                                                                                                                                                     |
+|         | Terbutalin                                                                                                                                                                                                                     |
+| 2.02.8  | Beta2-sympathomimetische Antiasthmatika: kurzwirksame Beta2-Sympathomimetika, inhalative orale Darreichungsformen                                                                                                              |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Fenoterol: Fenoterol hydrobromid                                                                                                                                                                                               |
+|         | Salbutamol: Salbumatol sulfat                                                                                                                                                                                                  |
+|         | Terbutalin: Terbutalin sulfat                                                                                                                                                                                                  |
+| 2.02.9  | Beta-Rezeptorenblocker: weitere Beta-Rezeptorenblocker, nicht selektiv, abgeteilte orale Darreichungsformen, normal freisetzend                                                                                                |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Alprenolol                                                                                                                                                                                                                     |
+|         | Bopindolol                                                                                                                                                                                                                     |
+|         | Bupranolol: Bupranolol hydrochlorid                                                                                                                                                                                            |
+|         | Carazolol                                                                                                                                                                                                                      |
+|         | Carteolol: Carteolol hydrochlorid                                                                                                                                                                                              |
+|         | Carvedilol                                                                                                                                                                                                                     |
+|         | Mepindolol: Mepindolol sulfat                                                                                                                                                                                                  |
+|         | Metipranolol                                                                                                                                                                                                                   |
+|         | Nadolol                                                                                                                                                                                                                        |
+|         | Oxprenolol: Oxprenolol hydrochlorid                                                                                                                                                                                            |
+|         | Penbutolol: Penbutolol sulfat                                                                                                                                                                                                  |
+|         | Tertatolol                                                                                                                                                                                                                     |
+|         | Timolol                                                                                                                                                                                                                        |
+| 2.02.10 | Beta-Rezeptorenblocker: weitere Beta-Rezeptorenblocker, Beta1-selektiv, abgeteilte orale Darreichungsformen, normal freisetzend                                                                                                |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Acebutolol: Acebutolol hydrochlorid                                                                                                                                                                                            |
+|         | Betaxolol: Betaxolol hydrochlorid                                                                                                                                                                                              |
+|         | Bisoprolol: Bisoprolol hemifumarat                                                                                                                                                                                             |
+|         | Celiprolol: Celiprolol hydrochlorid                                                                                                                                                                                            |
+|         | Metoprolol: Metoprolol fumarat, Metoprolol succinat, Metoprolol tartrat                                                                                                                                                        |
+|         | Nebivolol: Nebivolol hydrochlorid                                                                                                                                                                                              |
+|         | Talinolol                                                                                                                                                                                                                      |
+| 2.02.11 | Beta-Rezeptorenblocker: weitere Beta-Rezeptorenblocker, Beta1-selektiv, orale Darreichungsformen, verzögert freisetzend                                                                                                        |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Metoprolol                                                                                                                                                                                                                     |
+| 2.02.12 | Beta-Rezeptorenblocker: weitere Beta-Rezeptorenblocker, Ophthalmika                                                                                                                                                            |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Befunolol                                                                                                                                                                                                                      |
+|         | Betaxolol                                                                                                                                                                                                                      |
+|         | Bupranolol                                                                                                                                                                                                                     |
+|         | Carteolol                                                                                                                                                                                                                      |
+|         | Levobunolol                                                                                                                                                                                                                    |
+|         | Metipranolol                                                                                                                                                                                                                   |
+|         | Timolol                                                                                                                                                                                                                        |
+| 2.03.1  | Calcitonine: parenterale Darreichungsformen                                                                                                                                                                                    |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Humancalcitonin                                                                                                                                                                                                                |
+|         | Lachscalcitonin                                                                                                                                                                                                                |
+|         | Schweinecalcitonin                                                                                                                                                                                                             |
+| 2.03.2  | Calcium-Antagonisten: weitere Calcium-Antagonisten (1,4-Dihydropyridine), feste, abgeteilte orale Darreichungsformen, normal freisetzend                                                                                       |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Amlodipin: Amlodipin besilat, Amlodipin maleat; Amlodipinmesilat-(x)-Wasser                                                                                                                                                    |
+|         | Isradipin                                                                                                                                                                                                                      |
+|         | Lacidipin                                                                                                                                                                                                                      |
+|         | Lercanidipin: Lercanidipin hydrochlorid                                                                                                                                                                                        |
+|         | Manidipin: Manidipin dihydrochlorid                                                                                                                                                                                            |
+|         | Nicardipin: Nicardipin hydrochlorid                                                                                                                                                                                            |
+|         | Nisoldipin                                                                                                                                                                                                                     |
+|         | Nitrendipin                                                                                                                                                                                                                    |
+| 2.03.3  | Calcium-Antagonisten: weitere Calcium-Antagonisten (1,4-Dihydropyridine), feste, orale Darreichungsformen, verzögert freisetzend                                                                                               |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Felodipin                                                                                                                                                                                                                      |
+|         | Isradipin                                                                                                                                                                                                                      |
+|         | Nilvadipin                                                                                                                                                                                                                     |
+|         | Nisoldipin                                                                                                                                                                                                                     |
+| 2.03.4  | Cefalosporine: orale Darreichungsformen                                                                                                                                                                                        |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Cefadroxil: Cefadroxil-1-Wasser                                                                                                                                                                                                |
+|         | Cefalexin: Cefalexin-1-Wasser                                                                                                                                                                                                  |
+| 2.03.5  | Cefalosporine: orale Darreichungsformen                                                                                                                                                                                        |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Cefaclor: Cefaclor-1-Wasser                                                                                                                                                                                                    |
+|         | Cefuroxim: Cefuroxim axetil                                                                                                                                                                                                    |
+|         | Loracarbef: Loracarbef-1-Wasser                                                                                                                                                                                                |
+| 2.03.6  | Cefalosporine: orale Darreichungsformen                                                                                                                                                                                        |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Cefixim: Cefixim-(x)-Wasser                                                                                                                                                                                                    |
+|         | Cefpodoxim: Cefpodoxim proxetil                                                                                                                                                                                                |
+|         | Ceftibuten: Ceftibuten-(x)-Wasser                                                                                                                                                                                              |
+| 2.03.7  | Clofibrinsäurederivate und Strukturanaloga: feste orale Darreichungsformen                                                                                                                                                     |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Bezafibrat                                                                                                                                                                                                                     |
+|         | Clofibrat                                                                                                                                                                                                                      |
+|         | Etofibrat                                                                                                                                                                                                                      |
+|         | Etofyllinclofibrat                                                                                                                                                                                                             |
+|         | Fenofibrat                                                                                                                                                                                                                     |
+|         | Gemfibrocil                                                                                                                                                                                                                    |
+| 2.04.1  | Dimeticon und Simethicon: feste orale Darreichungsformen                                                                                                                                                                       |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Dimeticon und Simethicon                                                                                                                                                                                                       |
+| 2.04.2  | Dimeticon und Simethicon: flüssige orale Darreichungsformen                                                                                                                                                                    |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Dimeticon und Simethicon                                                                                                                                                                                                       |
+| 2.04.3  | Diuretika, weitere Diuretika (Thiazide und Analoga): feste orale Darreichungsformen                                                                                                                                            |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Bendroflumethiazid                                                                                                                                                                                                             |
+|         | Butizid                                                                                                                                                                                                                        |
+|         | Chlortalidon                                                                                                                                                                                                                   |
+|         | Clopamid                                                                                                                                                                                                                       |
+|         | Hydrochlorothiazid                                                                                                                                                                                                             |
+|         | Mebutizid                                                                                                                                                                                                                      |
+|         | Mefrusid                                                                                                                                                                                                                       |
+|         | Metolazon                                                                                                                                                                                                                      |
+|         | Polythiazid                                                                                                                                                                                                                    |
+|         | Trichlormethiazid                                                                                                                                                                                                              |
+|         | Xipamid                                                                                                                                                                                                                        |
+| 2.04.4  | Diuretika, weitere: stark und schnell wirksam, feste orale Darreichungsformen                                                                                                                                                  |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Bumetanid                                                                                                                                                                                                                      |
+|         | Etacrynsäure                                                                                                                                                                                                                   |
+|         | Piretanid                                                                                                                                                                                                                      |
+| 2.04.5  | Diuretika, weitere: stark und langsam wirksam, feste orale Darreichungsformen                                                                                                                                                  |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Azosemid                                                                                                                                                                                                                       |
+|         | Etozolin                                                                                                                                                                                                                       |
+|         | Torasemid                                                                                                                                                                                                                      |
+| 2.05.1  | (frei)                                                                                                                                                                                                                         |
+| 2.06.1  | Fluorchinolone: abgeteilte orale Darreichungsformen                                                                                                                                                                            |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Enoxacin: Enoxacin-1,5-Wasser                                                                                                                                                                                                  |
+|         | Norfloxacin                                                                                                                                                                                                                    |
+| 2.06.2  | Fluorchinolone: abgeteilte orale Darreichungsformen                                                                                                                                                                            |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Ciprofloxacin: Ciprofloxacin hydrochlorid-1-Wasser, Ciprofloxacin lactat                                                                                                                                                       |
+|         | Levofloxacin; Levofloxacin-0,5-Wasser                                                                                                                                                                                          |
+|         | Ofloxacin                                                                                                                                                                                                                      |
+| 2.07.1  | Glucocorticoide, inhalativ, nasal: Glucocorticoide zur Anwendung bei Atemwegserkrankungen, nasale Darreichungsformen                                                                                                           |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Beclometasondipropionat: Beclometasondipropionat, wasserfreies                                                                                                                                                                 |
+|         | Budesonid                                                                                                                                                                                                                      |
+|         | Dexamethasondihydrogenphosphat-Dinatrium                                                                                                                                                                                       |
+|         | Flunisolid                                                                                                                                                                                                                     |
+|         | Fluticason furoat                                                                                                                                                                                                              |
+|         | Fluticason propionat: Fluticason 17-propionat                                                                                                                                                                                  |
+|         | Mometason furoat: Mometason furoat-1-Wasser                                                                                                                                                                                    |
+|         | Triamcinolon acetonid                                                                                                                                                                                                          |
+| 2.07.2  | Glucocorticoide, inhalativ, oral: Glucocorticoide zur Anwendung bei Atemwegserkrankungen, orale Darreichungsformen                                                                                                             |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Beclometasondipropionat: Beclometasondipropionat, wasserfreies                                                                                                                                                                 |
+|         | Budesonid                                                                                                                                                                                                                      |
+|         | Ciclesonid                                                                                                                                                                                                                     |
+|         | Fluticason propionat: Fluticason 17-propionat                                                                                                                                                                                  |
+|         | Mometason furoat                                                                                                                                                                                                               |
+| 2.07.3  | Glucocorticoide, oral: weitere Glucocorticoide, zur Substitutionstherapie geeignet, orale Darreichungsformen, normal freisetzend                                                                                               |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Cortisonacetat                                                                                                                                                                                                                 |
+|         | Hydrocortison                                                                                                                                                                                                                  |
+| 2.07.4  | Glucocorticoide, oral: weitere Glucocorticoide, zur pharmakodynamischen Therapie geeignet, nicht fluoriert, orale Darreichungsformen, normal freisetzend, niedrigdosiert (Wirkstärkenäquivalenzfaktor ≤ 40)                    |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Cloprednol                                                                                                                                                                                                                     |
+|         | Deflazacort                                                                                                                                                                                                                    |
+|         | Methylprednisolon                                                                                                                                                                                                              |
+|         | Prednyliden                                                                                                                                                                                                                    |
+| 2.07.5  | Glucocorticoide, oral: weitere Glucocorticoide, zur pharmakodynamischen Therapie geeignet, nicht fluoriert, orale Darreichungsformen, normal freisetzend, hochdosiert (Wirkstärkenäquivalenzfaktor ≥ 80)                       |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Methylprednisolon                                                                                                                                                                                                              |
+|         | Prednyliden                                                                                                                                                                                                                    |
+| 2.07.6  | Glucocorticoide, oral: weitere Glucocorticoide, zur pharmakodynamischen Therapie geeignet, fluoriert, orale Darreichungsformen, normal freisetzend, niedrigdosiert (Wirkstärkenäquivalenzfaktor ≤ 40)                          |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Betamethason                                                                                                                                                                                                                   |
+|         | Fluocortolon                                                                                                                                                                                                                   |
+|         | Triamcinolon                                                                                                                                                                                                                   |
+| 2.08.1  | H2-Antagonisten: weitere H2-Antagonisten, orale Darreichungsformen                                                                                                                                                             |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Famotidin                                                                                                                                                                                                                      |
+|         | Nizatidin                                                                                                                                                                                                                      |
+|         | Ranitidin                                                                                                                                                                                                                      |
+|         | Roxatidin                                                                                                                                                                                                                      |
+| 2.08.2  | H2-Antagonisten: weitere H2-Antagonisten, orale Darreichungsformen                                                                                                                                                             |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Famotidin                                                                                                                                                                                                                      |
+|         | Ranitidin                                                                                                                                                                                                                      |
+| 2.08.3  | Heparine, niedermolekular: Niedermolekulare Heparine, parenterale Darreichungsformen, unitdose                                                                                                                                 |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Certoparin: Certoparin natrium                                                                                                                                                                                                 |
+|         | Dalteparin: Dalteparin natrium                                                                                                                                                                                                 |
+|         | Enoxaparin: Enoxaparin natrium                                                                                                                                                                                                 |
+|         | Nadroparin: Nadroparin calcium                                                                                                                                                                                                 |
+|         | Reviparin: Reviparin natrium                                                                                                                                                                                                   |
+|         | Tinzaparin: Tinzaparin natrium                                                                                                                                                                                                 |
+| 2.08.4  | Herzglykoside, weitere: orale Darreichungsformen                                                                                                                                                                               |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Lanatosid C                                                                                                                                                                                                                    |
+|         | Meproscillarin                                                                                                                                                                                                                 |
+|         | Metildigoxin                                                                                                                                                                                                                   |
+| 2.08.5  | HMG-CoA-Reduktasehemmer: abgeteilte orale Darreichungsformen                                                                                                                                                                   |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Atorvastatin: Atorvastatin Calciumsalze                                                                                                                                                                                        |
+|         | Fluvastatin: Fluvastatin Natriumsalze                                                                                                                                                                                          |
+|         | Lovastatin                                                                                                                                                                                                                     |
+|         | Pitavastatin: Pitavastatin Calciumsalze                                                                                                                                                                                        |
+|         | Pravastatin: Pravastatin Natriumsalze                                                                                                                                                                                          |
+|         | Rosuvastatin: Rosuvastatin Calciumsalze                                                                                                                                                                                        |
+|         | Simvastatin                                                                                                                                                                                                                    |
+| 2.09.1  | Insuline: Insuline (40 I. E./ml)                                                                                                                                                                                               |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Insulin                                                                                                                                                                                                                        |
+| 2.09.2  | Insuline: Insuline (100 I. E./ml)                                                                                                                                                                                              |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Insulin                                                                                                                                                                                                                        |
+| 2.10.1  | (frei)                                                                                                                                                                                                                         |
+| 2.11.1  | (frei)                                                                                                                                                                                                                         |
+| 2.12.1  | (frei)                                                                                                                                                                                                                         |
+| 2.13.1  | Makrolide, neuere: orale Darreichungsformen                                                                                                                                                                                    |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Azithromycin: Azithromycin-1-Wasser, Azithromycin-2-Wasser                                                                                                                                                                     |
+|         | Clarithromycin                                                                                                                                                                                                                 |
+|         | Roxithromycin                                                                                                                                                                                                                  |
+| 2.14.1  | (frei)                                                                                                                                                                                                                         |
+| 2.15.1  | (frei)                                                                                                                                                                                                                         |
+| 2.16.1  | Prostaglandin-Synthetase-Hemmer: Keto-Enolsäuren II (Oxicame), rektale Darreichungsformen                                                                                                                                      |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Lornoxicam                                                                                                                                                                                                                     |
+|         | Meloxicam: Meloxicam meglumin                                                                                                                                                                                                  |
+|         | Piroxicam                                                                                                                                                                                                                      |
+|         | Tenoxicam                                                                                                                                                                                                                      |
+| 2.16.2  | Prostaglandin-Synthetase-Hemmer: Arylessigsäurederivate, abgeteilte orale Darreichungsformen, normal freisetzend                                                                                                               |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Aceclofenac                                                                                                                                                                                                                    |
+|         | Acemetacin                                                                                                                                                                                                                     |
+|         | Lonazolac: Lonazolac calcium                                                                                                                                                                                                   |
+|         | Nabumeton                                                                                                                                                                                                                      |
+|         | Proglumetacin: Proglumetacin dimaleat                                                                                                                                                                                          |
+|         | Tolmetin                                                                                                                                                                                                                       |
+| 2.16.3  | Prostaglandin-Synthetase-Hemmer: Arylessigsäurederivate, orale Darreichungsformen, verzögert freisetzend                                                                                                                       |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Acemetacin                                                                                                                                                                                                                     |
+| 2.16.4  | Prostaglandin-Synthetase-Hemmer: Arylpropionsäurederivate, orale Darreichungsformen, normal freisetzend                                                                                                                        |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Fenbufen                                                                                                                                                                                                                       |
+|         | Fenoprofen                                                                                                                                                                                                                     |
+|         | Flurbiprofen                                                                                                                                                                                                                   |
+|         | Ketoprofen                                                                                                                                                                                                                     |
+|         | Naproxen                                                                                                                                                                                                                       |
+|         | Tiaprofensäure                                                                                                                                                                                                                 |
+| 2.16.5  | Prostaglandin-Synthetase-Hemmer: Arylpropionsäurederivate, orale Darreichungsformen, normal freisetzend                                                                                                                        |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Naproxen                                                                                                                                                                                                                       |
+| 2.16.6  | Prostaglandin-Synthetase-Hemmer: Keto-Enolsäuren I (Pyrazolidindion-Derivate), orale Darreichungsformen                                                                                                                        |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Azapropazon                                                                                                                                                                                                                    |
+|         | Bumadizon                                                                                                                                                                                                                      |
+|         | Mofebutazon                                                                                                                                                                                                                    |
+|         | Oxyphenbutazon                                                                                                                                                                                                                 |
+|         | Phenylbutazon                                                                                                                                                                                                                  |
+| 2.16.7  | Prostaglandin-Synthetase-Hemmer: Keto-Enolsäuren II (Oxicame), abgeteilte orale Darreichungsformen                                                                                                                             |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Lornoxicam                                                                                                                                                                                                                     |
+|         | Meloxicam: Meloxicam meglumin                                                                                                                                                                                                  |
+|         | Piroxicam: Piroxicam betadex                                                                                                                                                                                                   |
+|         | Tenoxicam                                                                                                                                                                                                                      |
+| 2.16.8  | Protonenpumpenhemmer: abgeteilte orale Darreichungsformen                                                                                                                                                                      |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Esomeprazol: Esomeprazol Magnesiumsalze                                                                                                                                                                                        |
+|         | Lansoprazol                                                                                                                                                                                                                    |
+|         | Omeprazol: Omeprazol Magnesiumsalze                                                                                                                                                                                            |
+|         | Pantoprazol: Pantoprazol Natriumsalze                                                                                                                                                                                          |
+|         | Rabeprazol: Rabeprazol Natriumsalze                                                                                                                                                                                            |
+| 2.17.1  | (frei)                                                                                                                                                                                                                         |
+| 2.18.1  | (frei)                                                                                                                                                                                                                         |
+| 2.19.1  | Selektive Serotonin-5HT1-Agonisten: abgeteilte orale Darreichungsformen                                                                                                                                                        |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Almotriptan: Almotriptan malat                                                                                                                                                                                                 |
+|         | Eletriptan: Eletriptan hydrobromid                                                                                                                                                                                             |
+|         | Frovatriptan: Frovatriptan succinat-1-Wasser                                                                                                                                                                                   |
+|         | Naratriptan: Naratriptan hydrochlorid                                                                                                                                                                                          |
+|         | Rizatriptan: Rizatriptan benzoat                                                                                                                                                                                               |
+|         | Sumatriptan: Sumatriptan succinat                                                                                                                                                                                              |
+|         | Zolmitriptan                                                                                                                                                                                                                   |
+| 2.19.2  | Selektive Serotonin-Wiederaufnahmehemmer: orale Darreichungsformen                                                                                                                                                             |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Citalopram: Citalopram hydrobromid                                                                                                                                                                                             |
+|         | Escitalopram: Escitalopram oxalat                                                                                                                                                                                              |
+| 2.19.3  | Serotonin-5HT3-Antagonisten: abgeteilte orale Darreichungsformen                                                                                                                                                               |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Dolasetron: Dolasetron mesilat, Dolasetron mesilat-(x)-Wasser                                                                                                                                                                  |
+|         | Granisetron: Granisetron hydrochlorid                                                                                                                                                                                          |
+|         | Ondansetron: Ondansetron hydrochlorid, Ondansetron hydrochlorid-(x)-Wasser                                                                                                                                                     |
+|         | Tropisetron: Tropisetron hydrochlorid                                                                                                                                                                                          |
+| 2.20.1  | Testosteron-5-alpha-Reduktasehemmer: orale Darreichungsformen                                                                                                                                                                  |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Dutasterid                                                                                                                                                                                                                     |
+|         | Finasterid                                                                                                                                                                                                                     |
+| 2.20.2  | Triazole: abgeteilte orale Darreichungsformen                                                                                                                                                                                  |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Fluconazol                                                                                                                                                                                                                     |
+|         | Itraconazol                                                                                                                                                                                                                    |
+| **3.**  | **Arzneimittel mit therapeutisch vergleichbarer Wirkung, insbesondere Arzneimittelkombinationen**                                                                                                                              |
+| 3.00.1  | (frei)                                                                                                                                                                                                                         |
+| 3.01.1  | Acetylsalicylsäure und Kombinationen von Acetylsalicylsäure mit Antacida oder Puffersubstanzen: orale Darreichungsformen, normal freisetzend                                                                                   |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Acetylsalicylsäure                                                                                                                                                                                                             |
+| 3.01.2  | Acetylsalicylsäure und Kombinationen von Acetylsalicylsäure mit Antacida oder Puffersubstanzen: orale Darreichungsformen, verzögert freisetzend                                                                                |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Acetylsalicylsäure                                                                                                                                                                                                             |
+| 3.01.3  | Antidepressiva: weitere klassische Antidepressiva, feste orale Darreichungsformen, normal freisetzend                                                                                                                          |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Amitriptylinoxid                                                                                                                                                                                                               |
+|         | Clomipramin-hydrochlorid                                                                                                                                                                                                       |
+|         | Desipramin-hydrochlorid                                                                                                                                                                                                        |
+|         | Dibenzepin-hydrochlorid                                                                                                                                                                                                        |
+|         | Dosulepin-hydrochlorid                                                                                                                                                                                                         |
+|         | Doxepin                                                                                                                                                                                                                        |
+|         | Imipramin-hydrochlorid                                                                                                                                                                                                         |
+|         | Lofepramin                                                                                                                                                                                                                     |
+|         | Nortriptylin-hydrochlorid                                                                                                                                                                                                      |
+|         | Noxiptilin                                                                                                                                                                                                                     |
+|         | Opipramol                                                                                                                                                                                                                      |
+|         | Trimipramin                                                                                                                                                                                                                    |
+| 3.01.4  | Antidepressiva: weitere klassische Antidepressiva, feste orale Darreichungsformen, verzögert freisetzend                                                                                                                       |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Clomipramin-hydrochlorid                                                                                                                                                                                                       |
+|         | Dibenzepin-hydrochlorid                                                                                                                                                                                                        |
+| 3.01.5  | Antidepressiva: weitere klassische Antidepressiva, flüssige orale Darreichungsformen                                                                                                                                           |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Doxepin                                                                                                                                                                                                                        |
+|         | Imipramin-hydrochlorid                                                                                                                                                                                                         |
+|         | Trimipramin                                                                                                                                                                                                                    |
+| 3.01.6  | Antidepressiva: andere Antidepressiva (2. Generation), feste orale Darreichungsformen, normal freisetzend                                                                                                                      |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Mianserin-hydrochlorid                                                                                                                                                                                                         |
+|         | Trazodon                                                                                                                                                                                                                       |
+|         | Viloxazin                                                                                                                                                                                                                      |
+| 3.01.7  | Antidepressiva: selektive Serotonin-Rückaufnahme-Inhibitoren, feste orale Darreichungsformen, normal freisetzend                                                                                                               |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Fluoxetin                                                                                                                                                                                                                      |
+|         | Fluvoxaminhydrogenmaleat                                                                                                                                                                                                       |
+|         | Paroxetin                                                                                                                                                                                                                      |
+| 3.01.8  | Antirheumatika: topische nicht steroide Antirheumatika, topische Darreichungsformen                                                                                                                                            |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Etofenamat                                                                                                                                                                                                                     |
+|         | Felbinac                                                                                                                                                                                                                       |
+|         | Flufenaminsäure                                                                                                                                                                                                                |
+|         | Ketoprofen                                                                                                                                                                                                                     |
+|         | Nifluminsäure                                                                                                                                                                                                                  |
+|         | Piroxicam                                                                                                                                                                                                                      |
+| 3.01.9  | Antitussiva: Opiumalkaloide und Derivate, orale Darreichungsformen                                                                                                                                                             |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Codein                                                                                                                                                                                                                         |
+|         | Dextromethorphan                                                                                                                                                                                                               |
+|         | Dihydrocodein                                                                                                                                                                                                                  |
+|         | Levopropoxyphen                                                                                                                                                                                                                |
+|         | Noscapin                                                                                                                                                                                                                       |
+| 3.01.10 | Antitussiva: Opiumalkaloide und Derivate, orale Darreichungsformen                                                                                                                                                             |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Dextromethorphan                                                                                                                                                                                                               |
+| 3.01.11 | Antitussiva: andere Antitussiva, orale Darreichungsformen                                                                                                                                                                      |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Benproperin                                                                                                                                                                                                                    |
+|         | Clobutinol                                                                                                                                                                                                                     |
+|         | Dropropizin                                                                                                                                                                                                                    |
+|         | Pentoxyverin                                                                                                                                                                                                                   |
+|         | Pipazetat                                                                                                                                                                                                                      |
+| 3.02.1  | Bisphosphonate und Kombinationen von Bisphosphonaten mit Additiva: orale Darreichungsformen                                                                                                                                    |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Alendronsäure: Alendronsäure Natriumsalze, Alendronsäure Natriumsalze und Additiva (Alfacalcidol), Alendronsäure Natriumsalze und Additiva (Calcium, Colecalciferol), Alendronsäure Natriumsalze und Additiva (Colecalciferol) |
+|         | Etidronsäure: Etidronsäure Natriumsalze, Etidronsäure Natriumsalze und Additiva (Calcium)                                                                                                                                      |
+|         | Ibandronsäure: Ibandronsäure Natriumsalze                                                                                                                                                                                      |
+|         | Risedronsäure: Risedronsäure Natriumsalze, Risedronsäure Natriumsalze und Additiva (Calcium), Risedronsäure Natriumsalze und Additiva (Calcium, Colecalciferol), Risedronsäure Natriumsalze und Additiva (Colecalciferol)      |
+| 3.03.1  | Cholinesterasehemmer: feste orale Darreichungsformen                                                                                                                                                                           |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Donepezil: Donepezil hydrochlorid, Donepezil hydrochlorid-(x)-Wasser                                                                                                                                                           |
+|         | Galantamin: Galantamin hydrobromid                                                                                                                                                                                             |
+|         | Rivastigmin: Rivastigmin (R, R)-tartrat                                                                                                                                                                                        |
+| 3.04.1  | (frei)                                                                                                                                                                                                                         |
+| 3.05.1  | Eisen-II-haltige Antianämika mit dem Wirkungskriterium Eisenmangelanämie: orale Darreichungsformen                                                                                                                             |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Eisen-II                                                                                                                                                                                                                       |
+| 3.06.1  | Filmbildner: mit Konservierungsmittel                                                                                                                                                                                          |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Filmbildner                                                                                                                                                                                                                    |
+| 3.06.2  | Filmbildner: ohne Konservierungsmittel                                                                                                                                                                                         |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Filmbildner                                                                                                                                                                                                                    |
+| 3.07.1  | Gestagene, weitere: weitere Gestagene, feste orale Darreichungsformen                                                                                                                                                          |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Dydrogesteron                                                                                                                                                                                                                  |
+|         | Lynestrenol                                                                                                                                                                                                                    |
+|         | Medrogeston                                                                                                                                                                                                                    |
+| 3.07.2  | Glucocorticoide, topisch: weitere Glucocorticoide, schwach wirksam, topische Darreichungsformen                                                                                                                                |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Clocortolonpivalat plus -hexanoat                                                                                                                                                                                              |
+|         | Dexamethason                                                                                                                                                                                                                   |
+|         | Dexamethason-21-isonicotinat                                                                                                                                                                                                   |
+|         | Fluocortinbutylester                                                                                                                                                                                                           |
+|         | Fluorometholon                                                                                                                                                                                                                 |
+|         | Hydrocortison                                                                                                                                                                                                                  |
+|         | Hydrocortisonacetat                                                                                                                                                                                                            |
+|         | Prednisolon                                                                                                                                                                                                                    |
+|         | Triamcinolon acetonid                                                                                                                                                                                                          |
+| 3.07.3  | Glucocorticoide, topisch: weitere Glucocorticoide, schwach wirksam, topische Darreichungsformen                                                                                                                                |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Hydrocortison                                                                                                                                                                                                                  |
+|         | Hydrocortisonacetat                                                                                                                                                                                                            |
+| 3.07.4  | Glucocorticoide, topisch: weitere Glucocorticoide, mittelstark wirksam, topische Darreichungsformen                                                                                                                            |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Alclometasondipropionat                                                                                                                                                                                                        |
+|         | Betamethasonbenzoat                                                                                                                                                                                                            |
+|         | Betamethasonvalerat                                                                                                                                                                                                            |
+|         | Clobetasonbutyrat                                                                                                                                                                                                              |
+|         | Clocortolonpivalat plus -hexanoat                                                                                                                                                                                              |
+|         | Desonid                                                                                                                                                                                                                        |
+|         | Desoximetason                                                                                                                                                                                                                  |
+|         | Dexamethason                                                                                                                                                                                                                   |
+|         | Flumethasonpivalat                                                                                                                                                                                                             |
+|         | Fluocinolonacetonid                                                                                                                                                                                                            |
+|         | Fluocinonid                                                                                                                                                                                                                    |
+|         | Fluocortolon                                                                                                                                                                                                                   |
+|         | Fluocortolonpivalat plus -hexanoat                                                                                                                                                                                             |
+|         | Fluoroandrenolon-Fludroxycortid                                                                                                                                                                                                |
+|         | Fluprednidenacetat                                                                                                                                                                                                             |
+|         | Halcinonid                                                                                                                                                                                                                     |
+|         | Hydrocortison-17-butyrat, -21-propionat                                                                                                                                                                                        |
+|         | Hydrocortisonaceponat                                                                                                                                                                                                          |
+|         | Hydrocortisonbutyrat                                                                                                                                                                                                           |
+|         | Methylprednisolonaceponat                                                                                                                                                                                                      |
+|         | Prednicarbat                                                                                                                                                                                                                   |
+|         | Triamcinolon acetonid                                                                                                                                                                                                          |
+| 3.07.5  | Glucocorticoide, topisch: weitere Glucocorticoide, stark wirksam, topische Darreichungsformen                                                                                                                                  |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Amcinonid                                                                                                                                                                                                                      |
+|         | Betamethasondipropionat                                                                                                                                                                                                        |
+|         | Betamethasonvalerat                                                                                                                                                                                                            |
+|         | Desoximetason                                                                                                                                                                                                                  |
+|         | Dexamethasonvalerat                                                                                                                                                                                                            |
+|         | Diflorasondiacetat                                                                                                                                                                                                             |
+|         | Diflucortolonvalerat                                                                                                                                                                                                           |
+|         | Fluocinolonacetonid                                                                                                                                                                                                            |
+|         | Fluocinonid                                                                                                                                                                                                                    |
+|         | Fluocortolonpivalat plus -hexanoat                                                                                                                                                                                             |
+|         | Fluticason-17-propionat                                                                                                                                                                                                        |
+|         | Halcinonid                                                                                                                                                                                                                     |
+|         | Halometason                                                                                                                                                                                                                    |
+|         | Mometason                                                                                                                                                                                                                      |
+|         | Triamcinolon acetonid                                                                                                                                                                                                          |
+| 3.07.6  | Glucocorticoide, topisch: weitere Glucocorticoide, sehr stark wirksam, topische Darreichungsformen                                                                                                                             |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Clobetasolpropionat                                                                                                                                                                                                            |
+|         | Diflucortolonvalerat                                                                                                                                                                                                           |
+|         | Fluocinolonacetonid                                                                                                                                                                                                            |
+| 3.08.1  | H1-Antagonisten: Antihistaminika, feste orale Darreichungsformen, normal freisetzend                                                                                                                                           |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Bamipin                                                                                                                                                                                                                        |
+|         | Clemastin                                                                                                                                                                                                                      |
+|         | Dexchlorpheniramin                                                                                                                                                                                                             |
+|         | Dimetinden                                                                                                                                                                                                                     |
+|         | Diphenylpyralin                                                                                                                                                                                                                |
+|         | Pheniramin                                                                                                                                                                                                                     |
+|         | Triprolidin                                                                                                                                                                                                                    |
+| 3.08.2  | H1-Antagonisten: Antihistaminika, feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                        |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Brompheniramin                                                                                                                                                                                                                 |
+|         | Carbinoxamin                                                                                                                                                                                                                   |
+|         | Dimetinden                                                                                                                                                                                                                     |
+|         | Pheniramin                                                                                                                                                                                                                     |
+| 3.08.3  | H1-Antagonisten: Antihistaminika, flüssige orale Darreichungsformen                                                                                                                                                            |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Alimemazin                                                                                                                                                                                                                     |
+|         | Carbinoxamin                                                                                                                                                                                                                   |
+|         | Clemastin                                                                                                                                                                                                                      |
+|         | Dimetinden                                                                                                                                                                                                                     |
+|         | Diphenylpyralin                                                                                                                                                                                                                |
+|         | Mebhydrolin                                                                                                                                                                                                                    |
+|         | Mequitazin                                                                                                                                                                                                                     |
+|         | Pheniramin                                                                                                                                                                                                                     |
+| 3.08.4  | H1-Antagonisten: weitere Antihistaminika, abgeteilte orale Darreichungsformen                                                                                                                                                  |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Astemizol                                                                                                                                                                                                                      |
+|         | Azelastin: Azelastin hydrochlorid                                                                                                                                                                                              |
+|         | Terfenadin                                                                                                                                                                                                                     |
+| 3.08.5  | H1-Antagonisten: weitere Antihistaminika, abgeteilte orale Darreichungsformen                                                                                                                                                  |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Cetirizin                                                                                                                                                                                                                      |
+|         | Loratadin                                                                                                                                                                                                                      |
+| 3.08.6  | H1-Antagonisten: weitere Antihistaminika, flüssige orale Darreichungsformen                                                                                                                                                    |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Cetirizin                                                                                                                                                                                                                      |
+|         | Loratadin                                                                                                                                                                                                                      |
+| 3.08.7  | H1-Antagonisten: Antihistaminika mit zusätzlicher Hemmung der Mediatorfreisetzung, abgeteilte orale Darreichungsformen                                                                                                         |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Ketotifen                                                                                                                                                                                                                      |
+|         | Oxatomid                                                                                                                                                                                                                       |
+| 3.08.8  | H1-Antagonisten: Antihistaminika mit zusätzlicher Hemmung der Mediatorfreisetzung, flüssige orale Darreichungsformen                                                                                                           |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Ketotifen                                                                                                                                                                                                                      |
+|         | Oxatomid                                                                                                                                                                                                                       |
+| 3.08.9  | H1-Antagonisten: Antihistaminika, topische Darreichungsformen                                                                                                                                                                  |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Bamipin                                                                                                                                                                                                                        |
+|         | Chlorphenoxamin                                                                                                                                                                                                                |
+|         | Clemastin                                                                                                                                                                                                                      |
+|         | Dimetinden                                                                                                                                                                                                                     |
+|         | Diphenhydramin                                                                                                                                                                                                                 |
+|         | Pheniramin                                                                                                                                                                                                                     |
+|         | Tripelennamin                                                                                                                                                                                                                  |
+| 3.09.1  | (frei)                                                                                                                                                                                                                         |
+| 3.10.1  | (frei)                                                                                                                                                                                                                         |
+| 3.11.1  | Kombinationen von ACE-Hemmern mit Calciumkanalblockern: abgeteilte orale Darreichungsformen                                                                                                                                    |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Delapril + Manidipin: Delapril hydrochlorid, Manidipin dihydrochlorid                                                                                                                                                          |
+|         | Enalapril + Lercanidipin: Enalapril maleat, Lercanidipin hydrochlorid                                                                                                                                                          |
+|         | Enalapril + Nitrendipin: Enalapril maleat                                                                                                                                                                                      |
+|         | Ramipril + Amlodipin: Amlodipin besilat                                                                                                                                                                                        |
+|         | Ramipril + Felodipin                                                                                                                                                                                                           |
+|         | Trandolapril + Verapamil: Verapamil hydrochlorid                                                                                                                                                                               |
+| 3.11.2  | Kombinationen von ACE-Hemmern mit Hydrochlorothiazid: abgeteilte orale Darreichungsformen                                                                                                                                      |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Benazepril + Hydrochlorothiazid: Benazepril hydrochlorid                                                                                                                                                                       |
+|         | Captopril + Hydrochlorothiazid                                                                                                                                                                                                 |
+|         | Cilazapril + Hydrochlorothiazid: Cilazapril-1-Wasser                                                                                                                                                                           |
+|         | Enalapril + Hydrochlorothiazid: Enalapril maleat                                                                                                                                                                               |
+|         | Fosinopril + Hydrochlorothiazid: Fosinopril natrium                                                                                                                                                                            |
+|         | Lisinopril + Hydrochlorothiazid: Lisinopril-2-Wasser                                                                                                                                                                           |
+|         | Moexipril + Hydrochlorothiazid: Moexipril hydrochlorid                                                                                                                                                                         |
+|         | Quinapril + Hydrochlorothiazid: Quinapril hydrochlorid                                                                                                                                                                         |
+|         | Ramipril + Hydrochlorothiazid                                                                                                                                                                                                  |
+|         | Zofenopril + Hydrochlorothiazid: Zofenopril calcium                                                                                                                                                                            |
+| 3.11.3  | Kombinationen von ACE-Hemmern mit weiteren Diuretika: abgeteilte orale Darreichungsformen                                                                                                                                      |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Perindopril + Indapamid: Perindopril arginin, Perindopril erbumin                                                                                                                                                              |
+|         | Ramipril + Piretanid                                                                                                                                                                                                           |
+| 3.11.4  | Kombinationen von Angiotensin-II-Antagonisten mit Hydrochlorothiazid: abgeteilte orale Darreichungsformen                                                                                                                      |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Candesartan + Hydrochlorothiazid: Candesartan cilexetil                                                                                                                                                                        |
+|         | Eprosartan + Hydrochlorothiazid: Eprosartan mesilat                                                                                                                                                                            |
+|         | Irbesartan + Hydrochlorothiazid: Irbesartan hydrochlorid                                                                                                                                                                       |
+|         | Losartan + Hydrochlorothiazid: Losartan kalium                                                                                                                                                                                 |
+|         | Olmesartan + Hydrochlorothiazid: Olmesartan medoxomil                                                                                                                                                                          |
+|         | Telmisartan + Hydrochlorothiazid                                                                                                                                                                                               |
+|         | Valsartan + Hydrochlorothiazid                                                                                                                                                                                                 |
+| 3.11.5  | Kombinationen von Beta-Rezeptorenblockern mit Diuretika und Vasodilatantien: orale Darreichungsformen                                                                                                                          |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Atenolol 25 mg + Chlortalidon 12,5 mg + Hydralazin-HCl 25 mg                                                                                                                                                                   |
+|         | Atenolol 50 mg + Chlortalidon 25 mg + Hydralazin-HCl 50 mg                                                                                                                                                                     |
+|         | Metipranolol 20 mg + Butizid 2,5 mg + Dihydralazinsulfat 25 mg                                                                                                                                                                 |
+|         | Metipranolol 40 mg + Butizid 5 mg + Dihydralazinsulfat 50 mg                                                                                                                                                                   |
+|         | Metoprololtartrat 50 mg + Hydrochlorothiazid 12,5 mg + Hydralazin-HCl 25 mg                                                                                                                                                    |
+|         | Metoprololtartrat 100 mg + Hydrochlorothiazid 12,5 mg + Hydralazin-HCl 25 mg                                                                                                                                                   |
+|         | Oxprenolol-HCl 80 mg + Chlortalidon 10 mg + Hydralazin-HCl 25 mg                                                                                                                                                               |
+|         | Propranolol-HCl 60 mg + Bendroflumethiazid 2,5 mg + Hydralazin-HCl 25 mg                                                                                                                                                       |
+| 3.11.6  | Kombinationen von Beta-Rezeptorenblockern und Thiazid-Diuretika mit kaliumsparenden Diuretika: orale Darreichungsformen                                                                                                        |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Bupranolol-HCl 100 mg + Bemetizid 10 mg + Triamteren 20 mg                                                                                                                                                                     |
+|         | Propranolol-HCl 80 mg + Hydrochlorothiazid 12,5 mg + Triamteren 25 mg                                                                                                                                                          |
+|         | Timololhydrogenmaleat 10 mg + Hydrochlorothiazid 25 mg + Amilorid-HCl 2,5 mg                                                                                                                                                   |
+| 3.11.7  | Kombinationen von Beta-Rezeptorenblockern, nicht selektiv, mit weiteren Diuretika: abgeteilte orale Darreichungsformen                                                                                                         |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Oxprenolol + Chlortalidon: Oxprenolol hydrochlorid                                                                                                                                                                             |
+|         | Penbutolol + Furosemid: Penbutolol sulfat                                                                                                                                                                                      |
+|         | Penbutolol + Piretanid: Penbutolol sulfat                                                                                                                                                                                      |
+|         | Pindolol + Clopamid                                                                                                                                                                                                            |
+| 3.11.8  | Kombinationen von Cromoglicinsäure mit Beta2-Sympathomimetika: inhalative Darreichungsformen                                                                                                                                   |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Cromoglicinsäure + Fenoterol                                                                                                                                                                                                   |
+|         | Cromoglicinsäure + Reproterol                                                                                                                                                                                                  |
+| 3.11.9  | Kombinationen von Furosemid mit kaliumsparenden Diuretika: orale Darreichungsformen                                                                                                                                            |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Furosemid 15 mg + Triamteren 25 mg                                                                                                                                                                                             |
+|         | Furosemid 30 mg + Triamteren 50 mg                                                                                                                                                                                             |
+|         | Furosemid 40 mg + Amilorid-HCl 5 mg                                                                                                                                                                                            |
+|         | Furosemid 40 mg + Triamteren 50 mg                                                                                                                                                                                             |
+| 3.11.10 | Kombinationen von Glucocorticoiden mit langwirksamen Beta2-Sympathomimetika: inhalative Darreichungsformen                                                                                                                     |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Beclometasondipropionat + Formoterol: Beclometasondipropionat, wasserfreies, Formoterol hemifumarat-(x)-Wasser                                                                                                                 |
+|         | Budesonid + Formoterol: Formoterol hemifumarat-(x)-Wasser                                                                                                                                                                      |
+|         | Fluticason furoat + Vilanterol: Vilanterol trifenatat                                                                                                                                                                          |
+|         | Fluticason propionat + Formoterol: Fluticason 17-propionat, Formoterol hemifumarat-(x)-Wasser                                                                                                                                  |
+|         | Fluticason propionat + Salmeterol: Fluticason 17-propionat, Salmeterol xinafoat                                                                                                                                                |
+| 3.11.11 | Kombinationen von Levothyroxin mit Jodid: feste orale Darreichungsformen                                                                                                                                                       |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Levothyroxin + Jodid: Levothyroxin-Natrium und Kaliumjodid                                                                                                                                                                     |
+| 3.11.12 | Kombinationen von Nifedipin mit Beta-Rezeptorenblockern: orale Darreichungsformen                                                                                                                                              |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Nifedipin 10 mg + Acebutolol 100 mg                                                                                                                                                                                            |
+|         | Nifedipin 10 mg + Atenolol 25 mg                                                                                                                                                                                               |
+|         | Nifedipin 15 mg + Metoprolol 50 mg                                                                                                                                                                                             |
+|         | Nifedipin 20 mg + Atenolol 50 mg                                                                                                                                                                                               |
+| 3.11.13 | Kombinationen von Paracetamol mit Codein: feste orale Darreichungsformen                                                                                                                                                       |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Codeinphosphat 30 mg x 0,5 H<sub>2</sub>O                                                                                                                                                                                      |
+|         | Paracetamol 500 mg                                                                                                                                                                                                             |
+| 3.11.14 | Kombinationen von Paracetamol mit Codein: rektale Darreichungsformen                                                                                                                                                           |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Codeinphosphat 60 mg x 0,5 H<sub>2</sub>O                                                                                                                                                                                      |
+|         | Paracetamol 1 000 mg                                                                                                                                                                                                           |
+| 3.11.15 | Kombinationen von Thiazid-Diuretika und Analoga mit kaliumsparenden Diuretika: orale Darreichungsformen                                                                                                                        |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Bendroflumethiazid 2,5 mg + Amilorid-HCl 4,4 mg                                                                                                                                                                                |
+|         | Trichlormethiazid 2 mg + Amilorid-HCl 2 mg                                                                                                                                                                                     |
+|         | Xipamid 10 mg + Triamteren 30 mg                                                                                                                                                                                               |
+|         | Xipamid 5 mg + Triamteren 15 mg                                                                                                                                                                                                |
+| 3.12.1  | (frei)                                                                                                                                                                                                                         |
+| 3.13.1  | Myotonolytika: zentral wirksame Myotonolytika, orale Darreichungsformen                                                                                                                                                        |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Baclofen                                                                                                                                                                                                                       |
+|         | Tetrazepam                                                                                                                                                                                                                     |
+|         | Tizanidin                                                                                                                                                                                                                      |
+| 3.14.1  | Neuroleptika: hochpotente Neuroleptika, feste orale Darreichungsformen, normal freisetzend                                                                                                                                     |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Benperidol                                                                                                                                                                                                                     |
+|         | Bromperidol                                                                                                                                                                                                                    |
+|         | Flupentixol                                                                                                                                                                                                                    |
+|         | Fluphenazin                                                                                                                                                                                                                    |
+|         | Perphenazin                                                                                                                                                                                                                    |
+|         | Pimozid                                                                                                                                                                                                                        |
+|         | Tiotixen                                                                                                                                                                                                                       |
+|         | Trifluoperazin                                                                                                                                                                                                                 |
+| 3.14.2  | Neuroleptika: hochpotente Neuroleptika, flüssige orale Darreichungsformen                                                                                                                                                      |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Benperidol                                                                                                                                                                                                                     |
+|         | Bromperidol                                                                                                                                                                                                                    |
+|         | Fluphenazin                                                                                                                                                                                                                    |
+|         | Perphenazin                                                                                                                                                                                                                    |
+|         | Trifluperidol                                                                                                                                                                                                                  |
+| 3.14.3  | Neuroleptika: hochpotente Neuroleptika, parenterale Darreichungsformen, normal freisetzend                                                                                                                                     |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Benperidol                                                                                                                                                                                                                     |
+|         | Fluphenazin                                                                                                                                                                                                                    |
+| 3.14.4  | Neuroleptika: mittel- und niedrigpotente Neuroleptika, feste orale Darreichungsformen, normal freisetzend                                                                                                                      |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Chlorphenethazin                                                                                                                                                                                                               |
+|         | Chlorpromazin                                                                                                                                                                                                                  |
+|         | Chlorprothixen                                                                                                                                                                                                                 |
+|         | Clopenthixol                                                                                                                                                                                                                   |
+|         | Dixyrazin                                                                                                                                                                                                                      |
+|         | Levomepromazin                                                                                                                                                                                                                 |
+|         | Melperon                                                                                                                                                                                                                       |
+|         | Metofenazat                                                                                                                                                                                                                    |
+|         | Perazin                                                                                                                                                                                                                        |
+|         | Promazin                                                                                                                                                                                                                       |
+|         | Prothipendyl                                                                                                                                                                                                                   |
+|         | Thioridazin                                                                                                                                                                                                                    |
+|         | Triflupromazin                                                                                                                                                                                                                 |
+|         | Zotepin                                                                                                                                                                                                                        |
+|         | Zuclopenthixol                                                                                                                                                                                                                 |
+| 3.14.5  | Neuroleptika: mittel- und niedrigpotente Neuroleptika, flüssige orale Darreichungsformen                                                                                                                                       |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Chlorpromazin                                                                                                                                                                                                                  |
+|         | Chlorprothixen                                                                                                                                                                                                                 |
+|         | Dixyrazin                                                                                                                                                                                                                      |
+|         | Fluanison                                                                                                                                                                                                                      |
+|         | Levomepromazin                                                                                                                                                                                                                 |
+|         | Melperon                                                                                                                                                                                                                       |
+|         | Perazin                                                                                                                                                                                                                        |
+|         | Promazin                                                                                                                                                                                                                       |
+|         | Prothipendyl                                                                                                                                                                                                                   |
+|         | Thioridazin                                                                                                                                                                                                                    |
+|         | Zuclopenthixol                                                                                                                                                                                                                 |
+| 3.14.6  | Neuroleptika: mittel- und niedrigpotente Neuroleptika, parenterale Darreichungsformen, normal freisetzend                                                                                                                      |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Chlorpromazin                                                                                                                                                                                                                  |
+|         | Chlorprothixen                                                                                                                                                                                                                 |
+|         | Levomepromazin                                                                                                                                                                                                                 |
+|         | Melperon                                                                                                                                                                                                                       |
+|         | Perazin                                                                                                                                                                                                                        |
+|         | Promazin                                                                                                                                                                                                                       |
+|         | Prothipendyl                                                                                                                                                                                                                   |
+|         | Triflupromazin                                                                                                                                                                                                                 |
+| 3.14.7  | Neuroleptika: Depotneuroleptika, parenterale Darreichungsformen                                                                                                                                                                |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Flupentixol                                                                                                                                                                                                                    |
+|         | Fluphenazin                                                                                                                                                                                                                    |
+|         | Fluspirilen                                                                                                                                                                                                                    |
+|         | Perphenazin                                                                                                                                                                                                                    |
+|         | Zuclopenthixol                                                                                                                                                                                                                 |
+| 3.15.1  | Ophthalmika, vasokonstriktorisch: weitere Ophthalmika, vasokonstriktorisch                                                                                                                                                     |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Antazolin                                                                                                                                                                                                                      |
+|         | Naphazolin                                                                                                                                                                                                                     |
+|         | Oxymetazolin                                                                                                                                                                                                                   |
+|         | Phenylephrin                                                                                                                                                                                                                   |
+|         | Tetryzolin                                                                                                                                                                                                                     |
+|         | Tramazolin                                                                                                                                                                                                                     |
+| 3.16.1  | Parkinsontherapeutika: Dopaminagonisten, orale Darreichungsformen                                                                                                                                                              |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Alpha-Dihydroergocriptin                                                                                                                                                                                                       |
+|         | Bromocriptin                                                                                                                                                                                                                   |
+|         | Lisurid                                                                                                                                                                                                                        |
+|         | Pergolid                                                                                                                                                                                                                       |
+| 3.16.2  | Parkinsontherapeutika: Anticholinergika, orale Darreichungsformen                                                                                                                                                              |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Benzatropin                                                                                                                                                                                                                    |
+|         | Bornaprin                                                                                                                                                                                                                      |
+|         | Pridinol                                                                                                                                                                                                                       |
+|         | Procyclidin                                                                                                                                                                                                                    |
+|         | Trihexyphenidyl                                                                                                                                                                                                                |
+| 3.16.3  | Parkinsontherapeutika: Anticholinergika, orale Darreichungsformen                                                                                                                                                              |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Metixen                                                                                                                                                                                                                        |
+| 3.17.1  | (frei)                                                                                                                                                                                                                         |
+| 3.18.1  | (frei)                                                                                                                                                                                                                         |
+| 3.19.1  | Schichtgitter-Antacida: orale Darreichungsformen                                                                                                                                                                               |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Hydrotalcit                                                                                                                                                                                                                    |
+|         | magaldrathaltige Kombinationen                                                                                                                                                                                                 |
+| 3.20.1  | Thiamin + Pyridoxin: orale Darreichungsformen                                                                                                                                                                                  |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Thiamin + Pyridoxin                                                                                                                                                                                                            |
 
 ### Anlage 8 (zu § 22 Absatz 4)Von der Beihilfefähigkeit ausgeschlossene oder beschränkt beihilfefähige Arzneimittel
 
@@ -5210,7 +5645,15 @@ Thiamin + Pyridoxin: orale DarreichungsformenWirkstoff:Thiamin + Pyridoxin
 Folgende Wirkstoffe oder Wirkstoffgruppen sind nur unter den genannten Voraussetzungen beihilfefähig:
 
 1.  
-Alkoholentwöhnungsmittel sind nur beihilfefähig zur Unterstützung der Aufrechterhaltung der Abstinenz bei alkoholkranken Personen im Rahmen eines therapeutischen Gesamtkonzepts mit begleitenden psychosozialen und sozialtherapeutischen Maßnahmen; der Einsatz der Alkoholentwöhnungsmittel ist besonders zu begründen.
+Alkoholentwöhnungsmittel sind nur beihilfefähig zur Unterstützung der
+
+a)  
+Aufrechterhaltung der Abstinenz bei alkoholkranken Patientinnen oder Patienten im Rahmen eines therapeutischen Gesamtkonzepts mit begleitenden psychosozialen und soziotherapeutischen Maßnahmen,
+
+b)  
+Reduktion des Alkoholkonsums bei alkoholkranken Patientinnen oder Patienten, die zu einer Abstinenztherapie hingeführt werden, für die aber entsprechende Therapiemöglichkeiten nicht zeitnah zur Verfügung stehen, für die Dauer von höchstens drei Monaten, in begründeten Ausnahmefällen für die Dauer von weiteren drei Monaten.
+
+Voraussetzung für die Beihilfefähigkeit ist, dass die Erforderlichkeit der Alkoholentwöhnungsmittel in der ärztlichen Verordnung besonders begründet worden ist.
 
 2.  
 Antidysmenorrhoika sind nur beihilfefähig als
@@ -5301,12 +5744,12 @@ Saftzubereitungen sind für Erwachsene nur beihilfefähig in begründeten Ausnah
 
 ### Anlage 9 (zu § 23 Absatz 1)Höchstbeträge für beihilfefähige Aufwendungen für Heilmittel
 
-(Fundstelle: BGBl. I 2012, 1993 - 1999)
+(Fundstelle: BGBl. I 2012, 1993 - 1999;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Abschnitt 1
 Leistungsverzeichnis
 
-lfd.
 Nr.
 
 Leistung
@@ -5394,13 +5837,13 @@ Krankengymnastik (Atemtherapie)
 
 a)
 
-bei Mukoviszidose als Einzelbehandlung, Mindestbehandlungsdauer 45 Minuten
+bei Mukoviszidose und schweren Bronchialerkrankungen als Einzelbehandlung, Mindestbehandlungsdauer 45 Minuten
 
 34,30 €
 
 b)
 
-bei schweren Bronchialerkrankungen in einer Gruppe (2 – 5 Personen), Mindestbehandlungsdauer 45 Minuten, je Teilnehmerin oder Teilnehmer
+bei Mukoviszidose und schweren Bronchialerkrankungen in einer Gruppe (2 – 5 Personen), Mindestbehandlungsdauer 45 Minuten, je Teilnehmerin oder Teilnehmer
 
 10,80 €
 
@@ -5446,7 +5889,7 @@ Erweiterte ambulante Physiotherapie Mindestbehandlungsdauer 120 Minuten, je Beha
 
 14
 
-Gerätegestützte Krankengymnastik (KG-Gerät) einschließlich Medizinischen Aufbautrainings (MAT) und Medizinischer Trainingstherapie (MTT), Behandlungsrichtwert 60 Minuten, begrenzt auf maximal 18 Stunden je Kalenderhalbjahr
+Gerätegestützte Krankengymnastik (KG-Gerät) einschließlich Medizinischen Aufbautrainings (MAT) und Medizinischer Trainingstherapie (MTT), Behandlungsrichtwert 60 Minuten, begrenzt auf maximal 18 Behandlungen je Kalenderhalbjahr
 
 35,00 €
 
@@ -5732,7 +6175,7 @@ Radon-Zusatz, je 500 000 Millistat
 
 3,10 €
 
-Aufwendungen für andere als die in diesem Abschnitt bezeichneten Bäder sind nicht beihilfefähig. Bei Teil-, Sitz- und Vollbädern mit ortsgebundenen natürlichen Heilwässern erhöhen sich die unter Nummer 30 Buchstabe a bis c und Nummer 31 Buchstabe b jeweils angegebenen beihilfefähigen Höchstbeträge um bis zu 3,10 Euro. Weitere Zusätze hierzu sind nach Maßgabe der Nummer 30 Buchstabe d beihilfefähig.
+Aufwendungen für andere als die in diesem Abschnitt bezeichneten Bäder sind nicht beihilfefähig. Bei Teil-, Sitz- und Vollbädern mit ortsgebundenen natürlichen Heilwässern erhöhen sich die unter Nummer 34 Buchstabe a bis c und Nummer 35 Buchstabe b jeweils angegebenen beihilfefähigen Höchstbeträge um bis zu 3,10 Euro. Weitere Zusätze hierzu sind nach Maßgabe der Nummer 34 Buchstabe d beihilfefähig.
 
 **Bereich Kälte- und Wärmebehandlung**
 
@@ -6014,7 +6457,7 @@ Podologische Komplexbehandlung an einem Fuß (Hornhautabtragung und Nagelbearbei
 
 Fahrtkosten für Fahrten der behandelnden Person (nur bei ärztlich verordnetem Hausbesuch) bei Benutzung eines Kraftfahrzeuges in Höhe von 0,30 Euro je Kilometer oder die niedrigsten Kosten eines regelmäßig verkehrenden Beförderungsmittels
 
-Bei Besuchen mehrerer Patientinnen oder Patienten auf demselben Weg sind die Nummern 59 und 60 nur anteilig je Patientin oder Patient beihilfefähig.
+Bei Besuchen mehrerer Patientinnen oder Patienten auf demselben Weg sind die Nummern 63 und 64 nur anteilig je Patientin oder Patient beihilfefähig.
 
 Abschnitt 2
 Erweiterte ambulante Physiotherapie
@@ -6146,7 +6589,7 @@ Abschnitt 3
 Medizinisches Aufbautraining
 
 1.  
-Aufwendungen für ein ärztlich verordnetes medizinisches Aufbautraining (MAT) mit Sequenztrainingsgeräten zur Behandlung von Erkrankungen der Wirbelsäule sind beihilfefähig, wenn
+Aufwendungen für ein ärztlich verordnetes medizinisches Aufbautraining (MAT) mit Sequenztrainingsgeräten zur Behandlung von Funktions- und Leistungseinschränkungen im Stütz- und Bewegungsapparat sind beihilfefähig, wenn
 
 a)  
 das Training verordnet wird von
@@ -6170,7 +6613,7 @@ c)
 jede therapeutische Sitzung unter ärztlicher Aufsicht durchgeführt wird; die Durchführung therapeutischer und diagnostischer Leistungen kann teilweise an speziell geschultes medizinisches Personal delegiert werden.
 
 2.  
-Die Beihilfefähigkeit ist auf maximal 18 Sitzungen je Kalenderhalbjahr begrenzt.
+Die Beihilfefähigkeit ist auf maximal 18 Behandlungen je Kalenderhalbjahr begrenzt.
 
 3.  
 Die Angemessenheit und damit Beihilfefähigkeit der Aufwendungen richtet sich bei Leistungen, die von einer Ärztin oder einem Arzt erbracht werden, nach dem Beschluss der Bundesärztekammer zur Analogbewertung der Medizinischen Trainingstherapie. Danach sind folgende Leistungen bis zum 2,3-fachen der Gebührensätze der Anlage zur Gebührenordnung für Ärzte beihilfefähig:
@@ -6192,7 +6635,7 @@ Aufwendungen für medizinische Fußpflege
 
 Aufwendungen für medizinische Fußpflege durch Podologinnen, Podologen, medizinische Fußpflegerinnen und medizinische Fußpfleger sind nur bei der Diagnose „Diabetisches Fußsyndrom“ beihilfefähig.
 
-Die für Inhalationen erforderlichen Stoffe (Arzneimittel) sind daneben gesondert beihilfefähig.Neben den Leistungen nach den Nummern 3 bis 5 sind Leistungen nach den Nummern 9 und 17 nur dann beihilfefähig, wenn sie auf Grund gesonderter Diagnosestellung und einer eigenständigen ärztlichen Verordnung erbracht werden.Darf nur nach besonderer Weiterbildung der behandelnden Person (zum Beispiel Bobath, Vojta, propriozeptive neuromuskuläre Fazilitation) von mindestens 120 Stunden als beihilfefähig anerkannt werden.Darf nur nach einem abgeschlossenen Weiterbildungslehrgang der behandelnden Person (Psychomotorik) oder bei Nachweis gleichartiger Fortbildungskurse, Arbeitskreise und Ähnlichem sowie Erfahrungen in der Kinderbehandlung und Gruppentherapie als beihilfefähig anerkannt werden.Darf nur nach abgeschlossener besonderer Weiterbildung der behandelnden Person (zum Beispiel Bobath, Vojta) von mindestens 300 Stunden als beihilfefähig anerkannt werden.Darf nur nach besonderer Weiterbildung der behandelnden Person (Manuelle Therapie) von mindestens 260 Stunden als beihilfefähig anerkannt werden.Darf nur nach einer anerkannten speziellen Weiterbildung der behandelnden Person von mindestens 160 Stunden als beihilfefähig anerkannt werden.Das notwendige Bindenmaterial (zum Beispiel Mullbinden, Kurzzugbinden, Fließpolsterbinden) ist daneben beihilfefähig.Die Leistungen der Nummern 34, 42 und 43 sind nicht nebeneinander beihilfefähig.Darf nur bei Durchführung von solchen Therapieeinrichtungen als beihilfefähig anerkannt werden, die durch die gesetzlichen Krankenkassen oder Berufsgenossenschaften zur ambulanten Rehabilitation/erweiterten ambulanten Physiotherapie zugelassen sind.Die Leistungen der Nummern 3 bis 45 sind daneben nicht beihilfefähig.Die Leistungen der Nummern 3 bis 5, 9, 11 und 17 sind daneben nur beihilfefähig, wenn sie auf Grund gesonderter Diagnosestellung und einer eigenständigen ärztlichen Verordnung erbracht werden.Aufwendungen für medizinische Fußpflege durch eine Podologin, einen Podologen, eine medizinische Fußpflegerin oder einen medizinischen Fußpfleger sind nur bei der Diagnose „Diabetisches Fußsyndrom“ beihilfefähig.
+Die für Inhalationen erforderlichen Stoffe (Arzneimittel) sind daneben gesondert beihilfefähig.Das notwendige Bindenmaterial (zum Beispiel Mullbinden, Kurzzugbinden, Fließpolsterbinden) ist daneben beihilfefähig.Darf nur bei Durchführung von solchen Therapieeinrichtungen als beihilfefähig anerkannt werden, die durch die gesetzlichen Krankenkassen oder Berufsgenossenschaften zur ambulanten Rehabilitation/erweiterten ambulanten Physiotherapie zugelassen sind.Aufwendungen für medizinische Fußpflege durch eine Podologin, einen Podologen, eine medizinische Fußpflegerin oder einen medizinischen Fußpfleger sind nur bei der Diagnose „Diabetisches Fußsyndrom“ beihilfefähig.
 
 ### Anlage 10 (zu § 23 Absatz 1 und § 24 Absatz 1)Zugelassene Leistungserbringerinnen und Leistungserbringer für Heilmittel
 
@@ -6235,7 +6678,8 @@ medizinische Fußpflegerin oder medizinischer Fußpfleger nach § 1 des Podologe
 
 ### Anlage 11 (zu § 25 Absatz 1 und 4)Beihilfefähige Aufwendungen für Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke
 
-(Fundstelle: BGBl. I 2012, 2001 - 2009)
+(Fundstelle: BGBl. I 2012, 2001 - 2009;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Abschnitt 1
 Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke
@@ -6398,6 +6842,9 @@ Epicondylitisbandage oder -spange mit Pelotten
 5.7  
 Epitrainbandage
 
+5.8  
+Ernährungssonde
+
 6.1  
 Fepo-Gerät (funktionelle elektronische Peronaeus-Prothese)
 
@@ -6487,6 +6934,9 @@ Innenschuh, orthopädischer
 
 9.5  
 Insulinapplikationshilfen und Zubehör (Insulindosiergerät, -pumpe, -injektor)
+
+9.6  
+Irisschale mit geschwärzter Pupille bei entstellenden Veränderungen der Hornhaut eines blinden Auges
 
 10.1  
 (frei)
@@ -6626,6 +7076,9 @@ Mundstab/-greifstab
 14.1  
 Narbenschützer
 
+14.2  
+Neurodermitis-Overall für Personen, die das zwölfte Lebensjahr noch nicht vollendet haben (zwei pro Jahr und bis zu 80 Euro je Overall)
+
 15.1  
 Orthese, Orthoprothese, Korrekturschienen, Korsetts und Ähnliches, auch Haltemanschetten und Ähnliches
 
@@ -6708,7 +7161,7 @@ Skolioseumkrümmungsbandage
 Spastikerhilfen (Gymnastik-/Übungsgeräte)
 
 19.11  
-Spezialschuhe für Diabetiker (Lucro®), abzüglich eines Eigenanteils von 64 Euro
+Spezialschuhe für Diabetiker, abzüglich eines Eigenanteils von 64 Euro
 
 19.12  
 Sphinkter-Stimulator
@@ -6868,31 +7321,47 @@ Aufwendungen für ein ergänzendes Training an Blindenleitgeräten können in de
 3.  
 Die entstandenen Aufwendungen für das Mobilitätstraining sind durch die Rechnung einer Blindenorganisation nachzuweisen. Ersatzweise kann auch eine unmittelbare Abrechnung durch die Mobilitätstrainerin oder den Mobilitätstrainer akzeptiert werden, falls sie oder er zur Rechnungsstellung gegenüber den gesetzlichen Krankenkassen berechtigt ist. Bei Umsatzsteuerpflicht (ein Nachweis des Finanzamtes ist vorzulegen) erhöhen sich die beihilfefähigen Aufwendungen um die jeweils gültige Umsatzsteuer.
 
-Abschnitt 4
+**Abschnitt 4
 Sehhilfen
+**
 
 Unterabschnitt 1
-Sehhilfen zur Verbesserung der Sehschärfe
+Allgemeine Bestimmungen der Beihilfefähigkeit von Sehhilfen
 
 1.  
-Sehhilfen zur Verbesserung der Sehschärfe sind beihilfefähig
+Sehhilfen zur Verbesserung des Visus sind beihilfefähig
 
 a)  
-für Personen unter 18 Jahren,
+für Personen, die das 18. Lebensjahr noch nicht vollendet haben,
 
 b)  
-für Personen ab 18 Jahren, wenn beide Augen auf Grund der Sehschwäche oder Blindheit eine schwere Sehbeeinträchtigung mindestens der Stufe 1, entsprechend der von der Weltgesundheitsorganisation (WHO) empfohlene Klassifikation des Schweregrades der Sehbeeinträchtigung, aufweisen; eine solche Beeinträchtigung liegt unter anderem vor, wenn
+für Personen, die das 18. Lebensjahr vollendet haben, wenn beide Augen auf Grund der Sehschwäche oder Blindheit eine schwere Sehbeeinträchtigung aufweisen, die mindestens der Stufe 1 der von der Weltgesundheitsorganisation empfohlenen Klassifikation des Grades der Sehbeeinträchtigung entspricht. Eine schwere Sehbeeinträchtigung liegt unter anderem vor, wenn
 
 aa)  
-die Sehschärfe (Visus) bei bestmöglicher Korrektur mit einer Brille oder mit möglichen Kontaktlinsen auf dem besseren Auge &lt; 0,3 beträgt oder
+der Visus bei bestmöglicher Korrektur mit einer Brille oder mit möglichen Kontaktlinsen auf dem besseren Auge ≤ 0,3 beträgt oder
 
 bb)  
-das beidäugige Gesichtsfeld &lt; 10 Grad bei zentraler Fixation ist.
+das beidäugige Gesichtsfeld bei zentraler Fixation ≤ 10 Grad ist.
 
-Die Sehschärfenbestimmung hat beidseits mit bester Korrektur mit Brillengläsern oder Kontaktlinsen zu erfolgen.
+Der Visus ist mit bester Korrektur mit Brillengläsern oder Kontaktlinsen zu bestimmen.
 
 2.  
-Voraussetzung für die erstmalige Beschaffung einer Sehhilfe ist die Verordnung von einer Augenärztin oder einem Augenarzt. Bei der Ersatzbeschaffung genügt die Refraktionsbestimmung von einer Augenoptikerin oder einem Augenoptiker; die Aufwendungen hierfür sind bis zu 13 Euro beihilfefähig. Als Sehhilfen zur Verbesserung der Sehschärfe sind beihilfefähig:
+Voraussetzung für die Beihilfefähigkeit der Aufwendungen für die erstmalige Beschaffung einer Sehhilfe ist, dass diese von einer Augenärztin oder einem Augenarzt verordnet worden ist. Bei der Ersatzbeschaffung genügt die Refraktionsbestimmung von einer Augenoptikerin oder einem Augenoptiker; die Aufwendungen hierfür sind bis zu 13 Euro beihilfefähig.
+
+3.  
+Aufwendungen für erneute Beschaffung einer Sehhilfe sind beihilfefähig, wenn bei gleichbleibendem Visus seit dem Kauf der bisherigen Sehhilfe drei, bei weichen Kontaktlinsen zwei Jahre vergangen sind oder vor Ablauf dieses Zeitraums die erneute Beschaffung der Sehhilfe notwendig ist, weil
+
+a)  
+sich die Refraktion geändert hat,
+
+b)  
+die bisherige Sehhilfe verloren gegangen oder unbrauchbar geworden ist,
+
+c)  
+sich die Kopfform geändert hat.
+
+4.  
+Als Sehhilfen zur Verbesserung des Visus sind beihilfefähig:
 
 a)  
 Brillengläser,
@@ -6903,7 +7372,13 @@ Kontaktlinsen,
 c)  
 vergrößernde Sehhilfen.
 
-3.  
+5.  
+Bei Personen, die der Vollzeitschulpflicht unterliegen, sind Aufwendungen für eine Brille beihilfefähig, wenn sie für die Teilnahme am Schulsport erforderlich ist. Die Höhe der beihilfefähigen Aufwendungen richtet sich nach dem Unterabschnitt 2 Nummer 1 und 2; für die Brillenfassung sind Aufwendungen bis zu 52 Euro beihilfefähig.
+
+Unterabschnitt 2
+Brillengläser zur Verbesserung des Visus
+
+1.  
 Aufwendungen für Brillengläser sind bis zu folgenden Höchstbeträgen beihilfefähig:
 
 a)  
@@ -6913,45 +7388,45 @@ aa)
 Einstärkengläser:
 
 aaa)  
-|                         |          |
-|-------------------------|----------|
-| für das sphärische Glas | 31 Euro, |
+|                          |             |
+|--------------------------|-------------|
+| für ein sphärisches Glas | 31,00 Euro, |
 
 bbb)  
-|                           |          |
-|---------------------------|----------|
-| für das zylindrische Glas | 41 Euro, |
+|                            |             |
+|----------------------------|-------------|
+| für ein zylindrisches Glas | 41,00 Euro, |
 
 bb)  
 Mehrstärkengläser:
 
 aaa)  
-|                         |          |
-|-------------------------|----------|
-| für das sphärische Glas | 72 Euro, |
+|                          |             |
+|--------------------------|-------------|
+| für ein sphärisches Glas | 72,00 Euro, |
 
 bbb)  
-|                           |             |
-|---------------------------|-------------|
-| für das zylindrische Glas | 92,50 Euro, |
+|                            |             |
+|----------------------------|-------------|
+| für ein zylindrisches Glas | 92,50 Euro, |
 
 b)  
-|                                                   |          |
-|---------------------------------------------------|----------|
-| bei Gläserstärken über +/–6 dpt zuzüglich je Glas | 21 Euro, |
+|                                                                        |             |
+|------------------------------------------------------------------------|-------------|
+| für vergütete Gläser mit Gläserstärken über +/–6 dpt zuzüglich je Glas | 21,00 Euro, |
 
 c)  
-|                                                          |          |
-|----------------------------------------------------------|----------|
-| bei Dreistufen- oder Multifokalgläsern zuzüglich je Glas | 21 Euro, |
+|                                                         |             |
+|---------------------------------------------------------|-------------|
+| für Dreistufen- oder Multifokalgläser zuzüglich je Glas | 21,00 Euro, |
 
 d)  
-|                                                         |          |
-|---------------------------------------------------------|----------|
-| bei Gläsern mit prismatischer Wirkung zuzüglich je Glas | 21 Euro. |
+|                                                        |             |
+|--------------------------------------------------------|-------------|
+| für Gläser mit prismatischer Wirkung zuzüglich je Glas | 21,00 Euro. |
 
-4.  
-Zusätzlich zu den Aufwendungen nach Nummer 3 sind Mehraufwendungen für Kunststoff-, Leicht- und Lichtschutzgläser bei den jeweils genannten Indikationen bis zu folgenden Höchstbeträgen beihilfefähig:
+2.  
+Zusätzlich zu den Aufwendungen nach Nummer 1 sind Mehraufwendungen für Kunststoff-, Leicht- und Lichtschutzgläser bei den jeweils genannten Indikationen bis zu folgenden Höchstbeträgen beihilfefähig:
 
 a)  
 <table>
@@ -6961,26 +7436,27 @@ a)
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>Kunststoffgläser und hochbrechende mineralische Gläser (Leichtgläser) zuzüglich je Glas</td>
-<td>21 Euro,
+<td>für Kunststoffgläser und hochbrechende mineralische Gläser (Leichtgläser) zuzüglich<br />
+je Glas</td>
+<td>21,00 Euro,
 <dl>
 <dt>aa)</dt>
-<dd>bei Gläserstärken ab +/–6 dpt,
+<dd>für Gläserstärken ab +6/–8 dpt,
 </dd>
 <dt>bb)</dt>
-<dd>bei Anisometropien ab 2 dpt,
+<dd>für Anisometropien ab 2 dpt,
 </dd>
 <dt>cc)</dt>
 <dd>unabhängig von der Gläserstärke
 <dl>
 <dt>aaa)</dt>
-<dd>bei Kindern bis zum 14. Lebensjahr,
+<dd>für Personen, die das 14. Lebensjahr noch nicht vollendet haben,
 </dd>
 <dt>bbb)</dt>
-<dd>bei Personen mit chronischem Druckekzem der Nase, mit Fehlbildungen oder Missbildungen des Gesichts, insbesondere im Nasen- und Ohrenbereich, wenn trotz optimaler Anpassung unter Verwendung von Silikatgläsern ein befriedigender Sitz der Brille nicht gewährleistet ist,
+<dd>für Personen mit chronischem Druckekzem der Nase, mit Fehlbildungen oder Missbildungen des Gesichts, insbesondere im Nasen- und Ohrenbereich, wenn trotz optimaler Anpassung unter Verwendung von Silikatgläsern ein befriedigender Sitz der Brille nicht gewährleistet ist,
 </dd>
 <dt>ccc)</dt>
-<dd>bei Brillen, die im Rahmen der Schulpflicht für die Teilnahme am Schulsport erforderlich sind,
+<dd>für Brillen, die im Rahmen der Vollzeitschulpflicht für die Teilnahme am Schulsport erforderlich sind,
 </dd>
 </dl>
 </dd>
@@ -6997,8 +7473,8 @@ b)
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>bei getönten Gläsern (Lichtschutzgläser) oder phototropen Gläsern zuzüglich je Glas</td>
-<td>11 Euro,
+<td>für Lichtschutzgläser oder fototrope Gläser zuzüglich je Glas</td>
+<td>11,00 Euro,
 <dl>
 <dt>aa)</dt>
 <dd>bei umschriebenen Transparenzverlusten (Trübungen) im Bereich der brechenden Medien, die zu Lichtstreuungen führen (zum Beispiel Hornhautnarben, Linsentrübungen, Glaskörpertrübungen),
@@ -7031,21 +7507,63 @@ b)
 <dd>bei intrakraniellen Erkrankungen, bei denen nach ärztlicher Erfahrung eine pathologische Lichtempfindlichkeit besteht (zum Beispiel Hirnverletzungen, Hirntumoren),
 </dd>
 <dt>kk)</dt>
-<dd>bei Gläsern ab +10 dpt wegen Vergrößerung der Eintrittspupille.
+<dd>bei Gläserstärken ab +10 dpt wegen Vergrößerung der Eintrittspupille.
 </dd>
 </dl></td>
 </tr>
 </tbody>
 </table>
 
-5.  
-Aufwendungen für Kontaktlinsen zur Verbesserung der Sehschärfe sind beihilfefähig bei:
+3.  
+Nicht beihilfefähig sind Aufwendungen für:
 
 a)  
-Kurzsichtigkeit (Myopie) ab 8 dpt,
+hochbrechende Lentikulargläser,
 
 b)  
-Weitsichtigkeit (Hyperopie) ab 8 dpt,
+entspiegelte Gläser,
+
+c)  
+polarisierende Gläser,
+
+d)  
+Gläser mit härtender Oberflächenbeschichtung,
+
+e)  
+Gläser und Zurichtungen an der Brille zur Verhinderung von Unfallschäden am Arbeitsplatz oder für den Freizeitbereich,
+
+f)  
+Bildschirmbrillen,
+
+g)  
+Brillenversicherungen,
+
+h)  
+Gläser für eine sogenannte Zweitbrille, deren Korrektionsstärken bereits den vorhandenen Gläsern entsprechen (Mehrfachverordnung),
+
+i)  
+Gläser für eine sogenannte Reservebrille, die zum Beispiel aus Gründen der Verkehrssicherheit benötigt werden,
+
+j)  
+Gläser für Sportbrillen, außer im Fall des Unterabschnitts 1 Nummer 5,
+
+k)  
+Brillenetuis,
+
+l)  
+Brillenfassungen, außer im Fall des Unterabschnitts 1 Nummer 5.
+
+Unterabschnitt 3
+Kontaktlinsen zur Verbesserung des Visus
+
+1.  
+Aufwendungen für Kontaktlinsen zur Verbesserung des Visus sind beihilfefähig bei:
+
+a)  
+Myopie ab 8 dpt,
+
+b)  
+Hyperopie ab 8 dpt,
 
 c)  
 irregulärem Astigmatismus, wenn damit eine um mindestens 20 Prozent verbesserte Sehstärke gegenüber Brillengläsern erreicht wird,
@@ -7063,13 +7581,13 @@ g)
 Aphakie,
 
 h)  
-Aniseikonie; bei gleicher oder wenig differenter Refraktion beider Augen muss eine Aniseikoniemessung nach einer anerkannten reproduzierbaren Bestimmungsmethode erfolgt und dokumentiert sein,
+Aniseikonie von mehr als 7 Prozent (die Aniseikoniemessung ist nach einer allgemein anerkannten reproduzierbaren Bestimmungsmethode durchzuführen und zu dokumentieren),
 
 i)  
 Anisometropie ab 2 dpt.
 
-6.  
-Bei Kurzzeitlinsen sind je Kalenderjahr Aufwendungen nur beihilfefähig
+2.  
+Aufwendungen für Kurzzeitlinsen sind je Kalenderjahr nur beihilfefähig
 
 a)  
 für sphärische Kontaktlinsen bis zu 154 Euro,
@@ -7077,42 +7595,67 @@ für sphärische Kontaktlinsen bis zu 154 Euro,
 b)  
 für torische Kontaktlinsen bis zu 230 Euro.
 
-Wenn Kontaktlinsen aus medizinischen Gründen nicht ununterbrochen getragen werden können, sind bei Vorliegen der genannten Indikationen neben den Kontaktlinsen zusätzlich Aufwendungen für eine Brille im Rahmen der Nummern 3 und 4 beihilfefähig. Liegt keine der Indikationen vor, sind nur die vergleichbaren Kosten für Brillengläser beihilfefähig.
+3.  
+Wenn Kontaktlinsen aus medizinischen Gründen nicht ununterbrochen getragen werden können, sind bei Vorliegen einer Indikation nach Nummer 1 neben den Kontaktlinsen zusätzlich Aufwendungen für eine Brille nach Unterabschnitt 2 beihilfefähig. Liegt keine Indikation nach Nummer 1 vor, sind nur die vergleichbaren Kosten für Gläser beihilfefähig.
 
-7.  
+4.  
+Nicht beihilfefähig sind:
+
+a)  
+Kontaktlinsen als postoperative Versorgung (auch als Verbandlinse oder Verbandschale) nach nicht beihilfefähigen Eingriffen,
+
+b)  
+Kontaktlinsen in farbigen Ausführungen zur Veränderung oder Verstärkung der körpereigenen Farbe der Iris,
+
+c)  
+One-Day-Linsen,
+
+d)  
+multifokale Mehrstärkenkontaktlinsen,
+
+e)  
+Kontaktlinsen mit Lichtschutz und sonstigen Kantenfiltern,
+
+f)  
+Reinigungs- und Pflegemittel für Personen, die das 18. Lebensjahr vollendet haben.
+
+Unterabschnitt 4
+Vergrößernde Sehhilfen zur Verbesserung der Sehschärfe
+
+1.  
 Aufwendungen für folgende ärztlich verordnete vergrößernde Sehhilfen sind beihilfefähig:
 
 a)  
-optisch vergrößernde Sehhilfen für die Nähe (Hellfeldlupe, Hand- und Standlupe, gegebenenfalls mit Beleuchtung, oder Brillengläser mit Lupenwirkung \[Lupengläser\], in begründeten Einzelfällen als Fernrohrlupenbrillensystem \[zum Beispiel nach Galilei, Kepler\], gegebenenfalls einschließlich der Systemträger) bei einem mindestens 1,5-fachen Vergrößerungsbedarf,
+optisch vergrößernde Sehhilfen für die Nähe bei einem mindestens 1,5-fachen Vergrößerungsbedarf vorrangig als Hellfeldlupe, Hand- und Standlupe, gegebenenfalls mit Beleuchtung, oder Brillengläser mit Lupenwirkung (Lupengläser); in begründeten Einzelfällen als Fernrohrlupenbrillensystem (zum Beispiel nach Galilei, Kepler) einschließlich der Systemträger,
 
 b)  
-elektronisch vergrößernde Sehhilfen für die Nähe (mobile oder nicht mobile Systeme) bei einem mindestens 6-fachen Vergrößerungsbedarf,
+elektronisch vergrößernde Sehhilfen für die Nähe als mobile oder nicht mobile Systeme bei einem mindestens 6-fachen Vergrößerungsbedarf,
 
 c)  
-optisch vergrößernde Sehhilfen für die Ferne (fokussierbare Handfernrohre oder Monokulare).
+optisch vergrößernde Sehhilfen für die Ferne als fokussierende Handfernrohre oder Monokulare.
 
-Voraussetzung für die Beihilfefähigkeit ist, dass die Verordnung von einer Fachärztin oder von einem Facharzt für Augenheilkunde ausgestellt wurde und dass diese oder dieser die Notwendigkeit und die Art der benötigten Sehhilfen selbst oder in Zusammenarbeit mit entsprechend ausgestatteten Augenoptikerinnen oder Augenoptikern bestimmt hat.
+Voraussetzung für die Beihilfefähigkeit ist, dass die Sehhilfe von einer Fachärztin oder einem Facharzt für Augenheilkunde verordnet worden ist, die oder der die Notwendigkeit und die Art der benötigten Sehhilfen selbst oder in Zusammenarbeit mit einer entsprechend ausgestatteten Augenoptikerin oder einem entsprechend ausgestatteten Augenoptiker bestimmt hat.
 
-8.  
+2.  
 Nicht beihilfefähig sind Aufwendungen für:
 
 a)  
-Fernrohrlupenbrillensysteme (zum Beispiel nach Galilei, Kepler) für die Zwischendistanz (Raumkorrektur) oder die Ferne,
+Fernrohrlupenbrillensysteme (zum Beispiel nach Galilei oder Kepler) für die Zwischendistanz (Raumkorrektur) oder die Ferne,
 
 b)  
 separate Lichtquellen (zum Beispiel zur Kontrasterhöhung oder zur Ausleuchtung der Lektüre),
 
 c)  
-Fresnellinsen aller Art.
+Fresnellinsen.
 
-Unterabschnitt 2
+Unterabschnitt 5
 Therapeutische Sehhilfen
 
 1.  
-Aufwendungen für folgende therapeutische Sehhilfen zur Behandlung einer Augenverletzung oder Augenerkrankung sind beihilfefähig, wenn eine entsprechende Verordnung von einer Fachärztin oder einem Facharzt für Augenheilkunde vorliegt:
+Aufwendungen für folgende therapeutische Sehhilfen zur Behandlung einer Augenverletzung oder Augenerkrankung sind beihilfefähig, wenn die Sehhilfe von einer Fachärztin oder einem Facharzt für Augenheilkunde verordnet worden ist:
 
 a)  
-Brillenglas mit Lichtschutz mit einer Transmission bis 75 Prozent bei
+Glas mit Lichtschutz mit einer Transmission bis 75 Prozent bei
 
 aa)  
 Substanzverlusten der Iris, die den Blendschutz herabsetzen (zum Beispiel Iriskolobom, Aniridie, traumatische Mydriasis, Iridodialyse),
@@ -7120,10 +7663,10 @@ Substanzverlusten der Iris, die den Blendschutz herabsetzen (zum Beispiel Irisko
 bb)  
 Albinismus.
 
-Ist beim Lichtschutzglas zusätzlich ein Refraktionsausgleich erforderlich, so sind die Aufwendungen für die entsprechenden Brillengläser nach Unterabschnitt 1 beihilfefähig. Vorbehaltlich einer erfolgreichen Austestung sind zusätzlich die Aufwendungen für einen konfektionierten Seitenschutz beihilfefähig.
+Ist beim Lichtschutzglas zusätzlich ein Refraktionsausgleich erforderlich, so sind die Aufwendungen für die entsprechenden Gläser nach Unterabschnitt 2 beihilfefähig. Zusätzlich sind die Aufwendungen für einen konfektionierten Seitenschutz beihilfefähig, wenn der Seitenschutz erfolgreich getestet wurde.
 
 b)  
-Brillenglas mit Ultraviolett-(UV-)Kantenfilter (400 Nanometer Wellenlänge) bei
+Glas mit Ultraviolett-(UV-)Kantenfilter (400 Nanometer Wellenlänge) bei
 
 aa)  
 Aphakie,
@@ -7132,7 +7675,7 @@ bb)
 Photochemotherapie zur Absorption des langwelligen UV-Lichts,
 
 cc)  
-UV-Schutz nach Staroperation, wenn keine Intraokularlinse mit UV-Schutz implantiert wurde,
+UV-Schutz nach Pseudophakie, wenn keine Intraokularlinse mit UV-Schutz implantiert wurde,
 
 dd)  
 Iriskolobom,
@@ -7140,50 +7683,50 @@ Iriskolobom,
 ee)  
 Albinismus.
 
-Ist beim Kantenfilterglas zusätzlich ein Refraktionsausgleich und gegebenenfalls, bei Albinismus, auch eine Transmissionsminderung notwendig, so sind die Aufwendungen für die entsprechenden Brillengläser nach Unterabschnitt 1 beihilfefähig. Vorbehaltlich einer erfolgreichen Austestung sind zusätzlich die Aufwendungen für einen konfektionierten Seitenschutz beihilfefähig.
+Ist beim Kantenfilterglas zusätzlich ein Refraktionsausgleich und bei Albinismus zudem eine Transmissionsminderung notwendig, so sind die Aufwendungen für die entsprechenden Gläser nach Unterabschnitt 2 beihilfefähig. Zusätzlich sind die Aufwendungen für einen konfektionierten Seitenschutz beihilfefähig, wenn der Seitenschutz erfolgreich getestet wurde.
 
 c)  
-Brillenglas mit Kantenfilter als Bandpassfilter mit einem Transmissionsmaximum bei einer Wellenlänge von 450 Nanometer bei Blauzapfenmonochromasie. Ist beim Kantenfilterglas zusätzlich ein Refraktionsausgleich und gegebenenfalls auch eine Transmissionsminderung notwendig, sind die Aufwendungen für die entsprechenden Brillengläser nach Unterabschnitt 1 beihilfefähig. Vorbehaltlich einer erfolgreichen Austestung sind zusätzlich die Aufwendungen für einen konfektionierten Seitenschutz beihilfefähig.
+Glas mit Kantenfilter als Bandpassfilter mit einem Transmissionsmaximum bei einer Wellenlänge von 450 Nanometer bei Blauzapfenmonochromasie. Ist beim Kantenfilterglas zusätzlich ein Refraktionsausgleich und gegebenenfalls auch eine Transmissionsminderung notwendig, sind die Aufwendungen für die entsprechenden Gläser nach Unterabschnitt 2 beihilfefähig. Vorbehaltlich einer erfolgreichen Austestung sind zusätzlich die Aufwendungen für einen konfektionierten Seitenschutz beihilfefähig.
 
 d)  
-Brillenglas mit Kantenfilter (Wellenlänge größer als 500 Nanometer) als Langpassfilter zur Vermeidung der Stäbchenbleichung und zur Kontrastanhebung bei
+Glas mit Kantenfilter (Wellenlänge größer als 500 Nanometer) als Langpassfilter zur Vermeidung der Stäbchenbleichung und zur Kontrastanhebung bei
 
 aa)  
 angeborenem Fehlen von oder angeborenem Mangel an Zapfen in der Netzhaut (Achromatopsie, inkomplette Achromatopsie),
 
 bb)  
-dystrophischen Netzhauterkrankungen (zum Beispiel Zapfendystrophien, Zapfen-Stäbchen-Dystrophien, Stäbchen-Zapfen-Dystrophien, Retinopathia pigmentosa, Chorioidemie),
+dystrophischen Netzhauterkrankungen (zum Beispiel Zapfendystrophien, Zapfen-StäbchenDystrophien, Stäbchen-Zapfen-Dystrophien, Retinopathia pigmentosa, Chorioidemie),
 
 cc)  
 Albinismus.
 
-Das Ausmaß der Transmissionsminderung und die Lage der Kanten der Filter sind individuell zu erproben, die subjektive Akzeptanz ist zu überprüfen. Ist beim Kantenfilterglas zusätzlich ein Refraktionsausgleich notwendig, so sind die Aufwendungen für die entsprechenden Brillengläser nach Unterabschnitt 1 beihilfefähig. Vorbehaltlich einer erfolgreichen Austestung sind zusätzlich die Aufwendungen für einen konfektionierten Seitenschutz beihilfefähig.
+Das Ausmaß der Transmissionsminderung und die Lage der Kanten der Filter sind individuell zu erproben, die subjektive Akzeptanz ist zu überprüfen. Ist beim Kantenfilterglas zusätzlich ein Refraktionsausgleich notwendig, so sind die Aufwendungen für die entsprechenden Gläser nach Unterabschnitt 2 beihilfefähig. Zusätzlich sind die Aufwendungen für einen konfektionierten Seitenschutz beihilfefähig, wenn der Seitenschutz erfolgreich getestet wurde.
 
 e)  
-Horizontale Prismen in Gläsern mit mehr als 3 Prismendioptrien und Folien mit prismatischer Wirkung von mehr als 3 Prismendioptrien (Gesamtkorrektur auf beiden Augen) sowie vertikale Prismen und Folien von mehr als 1 Prismendioptrie, bei:
+Horizontale Prismen in Gläsern ≥ 3 Prismendioptrien und Folien mit prismatischer Wirkung ≥ 3 Prismendioptrien (Gesamtkorrektur auf beiden Augen) sowie vertikale Prismen und Folien ≥ 1 Prismendioptrie, bei
 
 aa)  
-krankhaften Störungen in der sensorischen und motorischen Zusammenarbeit der Augen, mit dem Ziel, Binokularsehen zu ermöglichen und die sensorische Zusammenarbeit der Augen zu verbessern, und
+krankhaften Störungen in der sensorischen und motorischen Zusammenarbeit der Augen mit dem Ziel, Binokularsehen zu ermöglichen und die sensorische Zusammenarbeit der Augen zu verbessern,
 
 bb)  
 Augenmuskelparesen, um Muskelkontrakturen zu beseitigen oder zu verringern.
 
-Voraussetzung für die Beihilfefähigkeit ist, dass die Verordnung auf Grund einer umfassenden augenärztlichen orthoptisch-pleoptischen Diagnostik ausgestellt ist. Verordnungen, die auf Grund isolierter Ergebnissen einer subjektiven Heterophorie-Testmethode ausgestellt sind, werden nicht anerkannt.Bei wechselnder Prismenstärke oder temporärem Einsatz, zum Beispiel prä- oder postoperativ, sind nur die Aufwendungen für Prismenfolien ohne Trägerglas beihilfefähig. Ausgleichsprismen bei übergroßen Brillendurchmessern sowie Höhenausgleichsprismen bei Mehrstärkengläsern sind nicht beihilfefähig.Ist bei Brillengläsern mit therapeutischen Prismen zusätzlich ein Refraktionsausgleich notwendig, so sind die Aufwendungen der entsprechenden Brillengläser nach Unterabschnitt 1 beihilfefähig.
+Voraussetzung für die Beihilfefähigkeit ist, dass die Verordnung auf Grund einer umfassenden augenärztlichen orthoptisch-pleoptischen Diagnostik ausgestellt ist. Verordnungen, die auf Grund isolierter Ergebnisse einer subjektiven Heterophie-Testmethode ausgestellt sind, werden nicht anerkannt.Bei wechselnder Prismenstärke oder temporärem Einsatz, zum Beispiel prä- oder postoperativ, sind nur die Aufwendungen für Prismenfolien ohne Trägerglas beihilfefähig. Ausgleichsprismen bei übergroßen Brillendurchmessern sowie Höhenausgleichsprismen bei Mehrstärkengläsern sind nicht beihilfefähig.Ist bei Brillengläsern mit therapeutischen Prismen zusätzlich ein Refraktionsausgleich notwendig, so sind die Aufwendungen der entsprechenden Brillengläser nach Unterabschnitt 2 beihilfefähig.
 
 f)  
-Okklusionsschalen oder -linsen bei dauerhaft therapeutisch nicht anders beeinflussbarer Doppelwahrnehmung.
+Okklusionsschalen oder -linsen bei dauerhaft therapeutisch nicht anders beeinflussbarer Doppelwahrnehmung;
 
 g)  
-Kunststoff-Bifokalgläser mit besonders großem Nahteil zur Behebung des akkommodativen Schielens bei Kindern und Jugendlichen unter 18 Jahren.
+Kunststoff-Bifokalgläser mit besonders großem Nahteil zur Behebung des akkommodativen Schielens bei Personen, die das 18. Lebensjahr noch nicht vollendet haben;
 
 h)  
-Okklusionspflaster und -folien als Amblyopietherapeutika, nachrangig Okklusionskapseln.
+Okklusionspflaster und -folien als Amblyopietherapeutika, nachrangig Okklusionskapseln;
 
 i)  
-Uhrglasverbände oder konfektionierter Seitenschutz bei unvollständigem Lidschluss (zum Beispiel infolge einer Gesichtslähmung) oder bei Zustand nach Keratoplastik, um das Austrocknen der Hornhaut zu vermeiden.
+Uhrglasverbände oder konfektionierter Seitenschutz bei unvollständigem Lidschluss (zum Beispiel infolge einer Gesichtslähmung) oder bei Zustand nach Keratoplastik, um das Austrocknen der Hornhaut zu vermeiden;
 
 j)  
-Irislinsen mit durchsichtigem, optisch wirksamem Zentrum bei Substanzverlusten der Iris, die den Blendschutz herabsetzen (zum Beispiel Iriskolobom, Aniridie, traumatische Mydriasis, Iridodialyse oder Albinismus).
+Irislinsen mit durchsichtigem, optisch wirksamem Zentrum bei Substanzverlusten der Iris, die den Blendschutz herabsetzen (zum Beispiel Iriskolobom, Aniridie, traumatische Mydriasis, Iridodialyse oder Albinismus);
 
 k)  
 Verbandlinsen oder -schalen bei oder nach
@@ -7198,31 +7741,39 @@ cc)
 Verätzung oder Verbrennung,
 
 dd)  
-Hornhautverletzung (perforierend oder lamellierend),
+Hornhautverletzungen (perforierend oder lamellierend),
 
 ee)  
 Keratoplastik,
 
 ff)  
-Hornhautentzündungen und -ulzerationen, zum Beispiel Keratitis bullosa, Keratitis neuroparalytica, Keratitis e lagophthalmo, Keratitis filiformis.
+Hornhautentzündungen und -ulzerationen (zum Beispiel Keratitis bullosa, Keratitis neuroparalytica, Keratitis e lagophtalmo, Keratitis filiformis);
 
 l)  
-Kontaktlinsen als Medikamententräger zur kontinuierlichen Medikamentenzufuhr.
+Kontaktlinsen als Medikamententräger zur kontinuierlichen Medikamentenzufuhr;
 
 m)  
 Kontaktlinsen
 
 aa)  
-bei ausgeprägtem, fortgeschrittenem Keratokonus mit keratokonusbedingten pathologischen Hornhautveränderungen und Hornhautradius unter 7 Millimeter zentral oder im Apex oder
+bei ausgeprägtem, fortgeschrittenem Keratokonus mit keratokonusbedingten pathologischen Hornhautveränderungen und Hornhautradius unter 7 Millimeter zentral oder im Apex,
 
 bb)  
-nach Hornhauttransplantation oder Keratoplastik.
+nach Hornhauttransplantation oder Keratoplastik;
 
 n)  
-Kunststoffgläser als Schutzgläser bei Personen, die an Epilepsie oder an Spastiken erkrankt sind – sofern sie erheblich sturzgefährdet sind – oder funktionell Einäugigen (bestkorrigierter Visus mindestens eines Auges unter 0,2). Ist zusätzlich ein Refraktionsausgleich notwendig, sind die Aufwendungen für die entsprechenden Brillengläser nach Unterabschnitt 1 beihilfefähig. Kontaktlinsen sind bei dieser Indikation nicht beihilfefähig.
+Kunststoffgläser als Schutzgläser bei
+
+aa)  
+erheblich sturzgefährdeten Personen, die an Epilepsie oder an Spastiken erkrankt sind,
+
+bb)  
+funktionell Einäugigen (bestkorrigierter Visus mindestens eines Auges unter 0,2).
+
+Ist zusätzlich ein Refraktionsausgleich notwendig, sind die Aufwendungen für die entsprechenden Brillengläser nach Unterabschnitt 2 beihilfefähig. Kontaktlinsen sind bei dieser Indikation nicht beihilfefähig.
 
 2.  
-Nicht beihilfefähig sind Aufwendungen für:
+Nicht beihilfefähig sind Aufwendungen für
 
 a)  
 Kantenfilter bei
@@ -7237,61 +7788,13 @@ cc)
 Opticusatrophie (außer im Zusammenhang mit einer dystrophischen Netzhauterkrankung),
 
 dd)  
-Fundus myopicus.
+Fundus myopicus,
 
 b)  
-Verbandlinsen oder Verbandschalen nach nicht beihilfefähigen Eingriffen.
+Verbandlinsen oder -schalen nach nicht beihilfefähigen Eingriffen,
 
 c)  
 Okklusionslinsen und -schalen als Amblyopietherapeutikum.
-
-Unterabschnitt 3
-Allgemeine Bestimmungen für Sehhilfen
-
-1.  
-Aufwendungen für eine Sportbrille sind beihilfefähig, wenn im Rahmen der Schulpflicht eine Sportbrille während des Schulsports getragen werden muss. Die Höhe der beihilfefähigen Aufwendungen richtet sich nach den Nummern 3 und 4 des Unterabschnitts 1; für die Brillenfassung sind Aufwendungen bis zu 52 Euro beihilfefähig.
-
-2.  
-Aufwendungen für die erneute Beschaffung einer Sehhilfe sind beihilfefähig, wenn bei gleichbleibender Sehschärfe seit dem Kauf der bisherigen Sehhilfe drei Jahre – bei weichen Kontaktlinsen zwei Jahre – vergangen sind oder vor Ablauf dieses Zeitraums die erneute Beschaffung der Sehhilfe notwendig ist, weil
-
-a)  
-sich die Refraktion geändert hat,
-
-b)  
-die bisherige Sehhilfe verloren gegangen oder unbrauchbar geworden ist oder
-
-c)  
-sich die Kopfform geändert hat.
-
-3.  
-Aufwendungen für eine Irisschale mit geschwärzter Pupille sind nach diesem Abschnitt nicht beihilfefähig.
-
-4.  
-Nicht beihilfefähig sind Aufwendungen für:
-
-a)  
-Sehhilfen, die nur für eine berufliche Tätigkeit erforderlich werden,
-
-b)  
-Bildschirmbrillen,
-
-c)  
-Brillenversicherungen,
-
-d)  
-Zweitbrillen,
-
-e)  
-Reservebrillen,
-
-f)  
-Brillengläser für Sportbrillen, außer im Fall der Nummer 1,
-
-g)  
-Brillenetuis,
-
-h)  
-Brillenfassungen, außer im Fall der Nummer 1.
 
 ### Anlage 12 (zu § 25 Absatz 1, 2 und 4)Nicht beihilfefähige Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle
 
@@ -7411,6 +7914,9 @@ Ergometer
 Ess- und Trinkhilfen
 
 5.12  
+Exoskelette
+
+5.13  
 Expander
 
 6.1  
@@ -7647,36 +8153,48 @@ Zahnpflegemittel
 26.2  
 Zweirad für Behinderte.
 
-### Anlage 13 (zu § 41 Absatz 1)Ergänzende Früherkennungsuntersuchungen, Vorsorgemaßnahmen und Schutzimpfungen
+### Anlage 13 (zu § 41 Absatz 1 Satz 3)Nach § 41 Absatz 1 Satz 3 beihilfefähige Früherkennungsuntersuchungen, Vorsorgemaßnahmen und Schutzimpfungen
 
-(Fundstelle: BGBl. I 2012, 2013)
+(Fundstelle: BGBl. I 2015, 885)
+
+|       |                                                                                                                          |
+|-------|--------------------------------------------------------------------------------------------------------------------------|
+| 1     | Früherkennungsuntersuchungen und Vorsorgemaßnahmen                                                                       |
+| 1.1   | Telemedizinische Betreuung (Telemonitoring) bei chronischer Herzinsuffizienz                                             |
+| 1.2   | Früherkennungsuntersuchungen                                                                                             |
+| 1.2.1 | U 10 bei Personen, die das siebte, aber noch nicht das neunte Lebensjahr vollendet haben                                 |
+| 1.2.2 | U 11 bei Personen, die das neunte, aber noch nicht das elfte Lebensjahr vollendet haben                                  |
+| 1.2.3 | J 2 bei Personen, die das 16., aber noch nicht das 18. Lebensjahr vollendet haben                                        |
+| 2     | Schutzimpfungen                                                                                                          |
+| 2.1   | Frühsommer-Meningoenzephalitis-(FSME-)Schutzimpfungen ohne Einschränkungen                                               |
+| 2.2   | Grippeschutzimpfungen ohne Einschränkungen                                                                               |
+| 2.3   | Impfung gegen Humane Papillomviren (HPV) für Mädchen, die das neunte, aber noch nicht das 18. Lebensjahr vollendet haben |
+
+### Anlage 14 (zu § 41 Absatz 3)Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko
+
+(Fundstelle: BGBl. I 2014, 1202 - 1203)
+
+Aufwendungen für den Gentest bei erblich belasteten Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko setzen sich aus den Aufwendungen für
 
 1.  
-Früherkennungsuntersuchungen und Vorsorgemaßnahmen
-
-1.1  
-Gen-Test bei erhöhtem Krebsrisiko für erblich belastete Frauen mit einem familiär erhöhten Brust- und Eierstockkrebsrisiko
-
-1.2  
-Telemedizinische Betreuung (Telemonitoring) bei chronischer Herzinsuffizienz
-
-1.3  
-Früherkennungsuntersuchungen bei Minderjährigen im Alter von sechs und zehn Jahren und von 16 bis 17 Jahren
-
-1.3.1  
-U 10 (sechs bis sieben Jahre)
-
-1.3.2  
-U 11 (neun bis zehn Jahre)
-
-1.3.3  
-J 2 (16 bis 17 Jahre)
+die Risikofeststellung und die interdisziplinäre Beratung,
 
 2.  
-Schutzimpfungen
+die Genanalyse sowie
 
-2.1  
-Frühsommer-Meningoenzephalitis-(FSME-)Schutzimpfungen ohne Einschränkungen
+3.  
+die Teilnahme an einem strukturierten Früherkennungsprogramm
 
-2.2  
-Grippeschutzimpfungen ohne Einschränkungen
+zusammen und sind mit den nachstehenden Pauschalen beihilfefähig, wenn diese Untersuchungen in den in Nummer 4 aufgeführten Zentren durchgeführt wurden.
+
+**1.**  
+**Risikofeststellung und interdisziplinäre Beratung**Pro Familie sind die Aufwendungen für eine einmalige Risikofeststellung mit interdisziplinärer Erstberatung, Stammbaumerfassung und Mitteilung des Genbefundes pauschal in Höhe von **900 Euro** beihilfefähig. Die Pauschale beinhaltet auch die Beratung weiterer Familienmitglieder.
+
+**2.**  
+**Genanalyse**Aufwendungen für eine Genanalyse bei einer an Brust- oder Eierstockkrebs erkrankten Person (Indexfall) sind pauschal in Höhe von **5 900 Euro** beihilfefähig. Wird eine ratsuchende gesunde Person nur hinsichtlich der mutierten Gensequenz untersucht, sind die Aufwendungen in Höhe von **360 Euro** beihilfefähig.Die Genanalyse wird bei den Indexfällen durchgeführt. Dabei handelt es sich in der Regel um einen diagnostischen Gentest, dessen Kosten der erkrankten Person zugerechnet werden. Dagegen werden die Kosten einer sich als prädiktiver Gentest darstellenden Genanalyse der Indexperson der gesunden ratsuchenden Person zugerechnet. Ein prädiktiver Gentest liegt vor, wenn sich aus dem Test keine Therapieoptionen für die Indexperson mehr ableiten lassen, die Genanalyse also keinen diagnostischen Charakter hat. Eine solche Situation ist gesondert durch eine schriftliche ärztliche Stellungnahme zu attestieren.
+
+**3.**  
+**Strukturiertes Früherkennungsprogramm**Aufwendungen für die Teilnahme an einem strukturierten Früherkennungsprogramm sind einmal jährlich in Höhe von pauschal **580 Euro** beihilfefähig.
+
+**4.**  
+**Zentren für familiären Brust- oder EierstockkrebsBerlin**Charité-Universitätsmedizin Berlin, Brustzentrum**Dresden**Technische Universität Dresden, Universitätsklinikum Carl Gustav Carus, Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe**Düsseldorf**Universitätsklinikum Düsseldorf, Frauenklinik, Brustzentrum**Göttingen**Universitäts-Medizin Göttingen, Brustzentrum, Gynäkologisches Krebszentrum**Hannover**Medizinische Hochschule Hannover, Institut für Zell- und Molekularpathologie**Heidelberg**Universität Heidelberg, Institut für Humangenetik**Kiel**Universitätsfrauenklinik Kiel**Köln/Bonn**Universität zu Köln, Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe, Zentrum für Familiären Brust- und Eierstockkrebs**Leipzig**Universität Leipzig, Institut für Humangenetik, Zentrum für Familiären Brust- und Eierstockkrebs**München**Technische Universität München, Klinikum rechts der Isar, Klinik für FrauenheilkundeLudwig-Maximilians-Universität München, Klinik für Frauenheilkunde**Münster**Universität Münster, Institut für Humangenetik**Regensburg**Universität Regensburg, Institut für Humangenetik**Tübingen**Universität Tübingen, Institut für Humangenetik**Ulm**Universität Ulm, Klinik für Frauenheilkunde und Geburtshilfe**Würzburg**Frauenklinik der Universität Würzburg, Abteilung für Medizinische Genetik im Institut für Humangenetik, Zentrum für Familiären Brust- und Eierstockkrebs
