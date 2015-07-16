@@ -4,6 +4,9 @@ Telemediengesetz (TMG)
 Stand  
 Zuletzt geändert durch Art. 4 G v. 17.7.2015 I 1324
 
+Hinweis  
+Änderung durch Art. 1 G v. 21.7.2016 I 1766 (Nr. 36) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 Artikel 1 dieses Gesetzes dient der Umsetzung der Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt (ABl. EG Nr. L 178 S. 1).
@@ -59,6 +62,9 @@ ist Diensteanbieter jede natürliche oder juristische Person, die eigene oder fr
 2.  
 ist niedergelassener Diensteanbieter jeder Anbieter, der mittels einer festen Einrichtung auf unbestimmte Zeit Telemedien geschäftsmäßig anbietet oder erbringt; der Standort der technischen Einrichtung allein begründet keine Niederlassung des Anbieters,
 
+2a.  
+ist drahtloses lokales Netzwerk ein Drahtloszugangssystem mit geringer Leistung und geringer Reichweite sowie mit geringem Störungsrisiko für weitere, von anderen Nutzern in unmittelbarer Nähe installierte Systeme dieser Art, welches nicht exklusive Grundfrequenzen nutzt,
+
 3.  
 ist Nutzer jede natürliche oder juristische Person, die Telemedien nutzt, insbesondere um Informationen zu erlangen oder zugänglich zu machen,
 
@@ -81,25 +87,39 @@ Einer juristischen Person steht eine Personengesellschaft gleich, die mit der F�
 
 ### § 2a Europäisches Sitzland
 
-(1) Innerhalb des Geltungsbereichs der Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt (ABl. EG Nr. L 178 vom 17.7.2000, S. 1) bestimmt sich das Sitzland des Diensteanbieters danach, wo dieser seine Geschäftstätigkeit tatsächlich ausübt. Dies ist der Ort, an dem sich der Mittelpunkt der Tätigkeiten des Diensteanbieters im Hinblick auf ein bestimmtes Telemedienangebot befindet.
+(1) Innerhalb des Geltungsbereichs der Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt („Richtlinie über den elektronischen Geschäftsverkehr“) (ABl. L 178 vom 17.7.2000, S. 1) bestimmt sich das Sitzland des Diensteanbieters danach, wo dieser seine Geschäftstätigkeit tatsächlich ausübt. Dies ist der Ort, an dem sich der Mittelpunkt der Tätigkeiten des Diensteanbieters im Hinblick auf ein bestimmtes Telemedienangebot befindet.
 
-(2) Innerhalb des Geltungsbereichs der Richtlinie 89/552/EWG bestimmt sich bei audiovisuellen Mediendiensten auf Abruf das Sitzland des Diensteanbieters
+(2) Abweichend von Absatz 1 gilt innerhalb des Geltungsbereichs der Richtlinie 2010/13/EU des Europäischen Parlaments und des Rates vom 10. März 2010 zur Koordinierung bestimmter Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die Bereitstellung audiovisueller Mediendienste (Richtlinie über audiovisuelle Mediendienste) (ABl. L 95 vom 15.4.2010, S. 1) bei audiovisuellen Mediendiensten auf Abruf Deutschland als Sitzland des Diensteanbieters, wenn
 
-a)  
-nach dem Ort der Hauptniederlassung, sofern dort die wirksame Kontrolle über den audiovisuellen Mediendienst ausgeübt wird, und
+1.  
+die Hauptverwaltung in Deutschland liegt und die redaktionellen Entscheidungen über den audiovisuellen Mediendienst dort getroffen werden,
 
-b)  
-nach dem Ort, in dem ein wesentlicher Teil des mit der Bereitstellung des audiovisuellen Mediendienstes betrauten Personals tätig ist, sofern die wirksame Kontrolle über den audiovisuellen Mediendienst nicht in dem Mitgliedstaat der Europäischen Union oder einem Drittland ausgeübt wird, an dem sich der Ort der Hauptniederlassung befindet; lässt sich nicht feststellen, dass ein wesentlicher Teil des mit der Bereitstellung des audiovisuellen Mediendienstes betrauten Personals an einem bestimmten Ort befindet, bestimmt sich das Sitzland nach dem Ort der Hauptniederlassung.
-
-(3) Liegen die Voraussetzungen nach Absatz 2 Buchstabe a oder b nicht vor, bestimmt sich innerhalb des Geltungsbereichs der Richtlinie 89/552/EWG das Sitzland des Diensteanbieters nach dem Ort, an dem er zuerst mit seiner Tätigkeit nach Maßgabe des Rechts dieses Landes begonnen hat, sofern eine dauerhafte und tatsächliche Verbindung mit der Wirtschaft dieses Landes weiter besteht.
-
-(4) Anbieter von audiovisuellen Mediendiensten auf Abruf, bei denen nach den Absätzen 2 und 3 kein Sitzland innerhalb des Geltungsbereichs der Richtlinie 89/552/ EWG festgestellt werden kann, unterliegen dem deutschen Recht, sofern sie
+2.  
+die Hauptverwaltung in Deutschland liegt und die redaktionellen Entscheidungen über den audiovisuellen Mediendienst in einem anderen Mitgliedstaat der Europäischen Union getroffen werden, jedoch
 
 a)  
-eine in Deutschland gelegene Satelliten-Bodenstation für die Aufwärtsstrecke oder
+ein wesentlicher Teil des mit der Bereitstellung des audiovisuellen Mediendienstes betrauten Personals in Deutschland tätig ist,
 
 b)  
-eine Deutschland gehörende Übertragungskapazität eines Satelliten nutzen.
+ein wesentlicher Teil des mit der Bereitstellung des audiovisuellen Mediendienstes betrauten Personals sowohl in Deutschland als auch in dem anderen Mitgliedstaat tätig ist oder
+
+c)  
+ein wesentlicher Teil des mit der Bereitstellung des audiovisuellen Mediendienstes betrauten Personals weder in Deutschland noch in dem anderen Mitgliedstaat tätig ist, aber der Diensteanbieter zuerst in Deutschland seine Tätigkeit aufgenommen hat und eine dauerhafte und tatsächliche Verbindung mit der Wirtschaft Deutschlands fortbesteht, oder
+
+3.  
+die Hauptverwaltung in Deutschland liegt und die redaktionellen Entscheidungen über den audiovisuellen Mediendienst in einem Drittstaat getroffen werden oder umgekehrt, aber ein wesentlicher Teil des mit der Bereitstellung des audiovisuellen Mediendienstes betrauten Personals in Deutschland tätig ist.
+
+(3) Für audiovisuelle Mediendiensteanbieter, die nicht bereits aufgrund ihrer Niederlassung der Rechtshoheit Deutschlands oder eines anderen Mitgliedstaats der Europäischen Union unterliegen, gilt Deutschland als Sitzland, wenn sie
+
+1.  
+eine in Deutschland gelegene Satelliten-Bodenstation für die Aufwärtsstrecke nutzen oder
+
+2.  
+zwar keine in einem Mitgliedstaat der Europäischen Union gelegene Satelliten-Bodenstation für die Aufwärtsstrecke nutzen, aber eine Deutschland zugewiesene Übertragungskapazität eines Satelliten nutzen.
+
+Liegt keines dieser beiden Kriterien vor, gilt Deutschland auch als Sitzland für Diensteanbieter, die in Deutschland gemäß den Artikeln 49 bis 55 des Vertrages über die Arbeitsweise der Europäischen Union niedergelassen sind.
+
+§ 2a dient der Umsetzung der Richtlinie 2010/13/EU des Europäischen Parlaments und des Rates vom 10. März 2010 zur Koordinierung bestimmter Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die Bereitstellung audiovisueller Mediendienste (Richtlinie über audiovisuelle Mediendienste) (ABl. L 95 vom 15.4.2010, S. 1).
 
 ### § 3 Herkunftslandprinzip
 
@@ -255,6 +275,8 @@ die übermittelten Informationen nicht ausgewählt oder verändert haben.
 Satz 1 findet keine Anwendung, wenn der Diensteanbieter absichtlich mit einem Nutzer seines Dienstes zusammenarbeitet, um rechtswidrige Handlungen zu begehen.
 
 (2) Die Übermittlung von Informationen nach Absatz 1 und die Vermittlung des Zugangs zu ihnen umfasst auch die automatische kurzzeitige Zwischenspeicherung dieser Informationen, soweit dies nur zur Durchführung der Übermittlung im Kommunikationsnetz geschieht und die Informationen nicht länger gespeichert werden, als für die Übermittlung üblicherweise erforderlich ist.
+
+(3) Die Absätze 1 und 2 gelten auch für Diensteanbieter nach Absatz 1, die Nutzern einen Internetzugang über ein drahtloses lokales Netzwerk zur Verfügung stellen.
 
 ### § 9 Zwischenspeicherung zur beschleunigten Übermittlung von Informationen
 
