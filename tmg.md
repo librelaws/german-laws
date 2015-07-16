@@ -148,7 +148,7 @@ die Ausgabe elektronischen Geldes durch Institute, die gemäß Artikel 8 Abs. 1 
 Vereinbarungen oder Verhaltensweisen, die dem Kartellrecht unterliegen,
 
 9.  
-die von den §§ 12, 13a bis 13c, 55a, 83, 110a bis 110d, 111b und 111c des Versicherungsaufsichtsgesetzes und der Versicherungsberichterstattungs-Verordnung erfassten Bereiche, die Regelungen über das auf Versicherungsverträge anwendbare Recht sowie für Pflichtversicherungen.
+die von den §§ 12, 13a bis 13c, 55a, 83, 110a bis 110d, 111b und 111c des Versicherungsaufsichtsgesetzes in der Fassung der Bekanntmachung vom 17. Dezember 1992 (BGBl. 1993 I S. 2), das zuletzt durch Artikel 2 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2305) geändert worden ist, in der am 31. Dezember 2015 geltenden Fassung und der Versicherungsberichterstattungs-Verordnung erfassten Bereiche, die Regelungen über das auf Versicherungsverträge anwendbare Recht sowie für Pflichtversicherungen.
 
 (5) Das Angebot und die Erbringung von Telemedien durch einen Diensteanbieter, der in einem anderen Staat im Geltungsbereich der Richtlinien 2000/31/EG oder 89/552/EWG niedergelassen ist, unterliegen abweichend von Absatz 2 den Einschränkungen des innerstaatlichen Rechts, soweit dieses dem Schutz
 
