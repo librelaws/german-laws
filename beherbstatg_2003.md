@@ -2,7 +2,7 @@ Gesetz zur Neuordnung der Statistik über die Beherbergung im Reiseverkehr (Behe
 =======================================================================================
 
 Stand  
-zuletzt geändert durch Art. 1 G v. 23.11.2011 I 2298
+Zuletzt geändert durch Art. 11 G v. 28.7.2015 I 1400
 
 ### 
 
@@ -79,7 +79,9 @@ Name, Rufnummern und Adressen für elektronische Post der Personen, die für Rü
 
 (2) Die Auskunftspflicht erstreckt sich bei erstmaliger Heranziehung auch auf abgelaufene Berichtszeiträume des Kalenderjahres.
 
-(3) Für Unternehmen, deren Inhaber Existenzgründer im Sinne des § 7g Abs. 7 Satz 2 und 3 des Einkommensteuergesetzes in der Fassung der Bekanntmachung vom 19. Oktober 2002 (BGBl. I S. 4210, 2003 I S. 179) sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von Absatz 1 Satz 1 und 2 keine Auskunftspflicht. In den beiden folgenden Kalenderjahren besteht dann keine Auskunftspflicht, wenn das Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 500.000 Euro erwirtschaftet hat.
+(3) Für Unternehmen, deren Inhaber oder Inhaberinnen Existenzgründer oder Existenzgründerinnen sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von Absatz 1 Satz 1 und 2 keine Auskunftspflicht. In den beiden folgenden Kalenderjahren besteht dann keine Auskunftspflicht, wenn das Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 800 000 Euro erwirtschaftet hat. Gesellschaften können sich auf die Befreiung von der Auskunftspflicht berufen, wenn alle an der Gesellschaft Beteiligten Existenzgründer oder Existenzgründerinnen sind.
+
+(4) Existenzgründer und Existenzgründerinnen im Sinne von Absatz 3 sind natürliche Personen, die eine gewerbliche oder freiberufliche Tätigkeit in Form einer Neugründung, einer Übernahme oder einer tätigen Beteiligung aus abhängiger Beschäftigung oder aus der Nichtbeschäftigung heraus aufnehmen.
 
 ### § 7 Übermittlungsregelung
 
