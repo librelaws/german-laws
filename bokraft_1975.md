@@ -2,7 +2,7 @@ Verordnung über den Betrieb von Kraftfahrunternehmen im Personenverkehr (BOKraf
 =================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 8.11.2007 I 2569
+Zuletzt geändert durch Art. 483 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -421,10 +421,6 @@ In Kraftomnibussen, die überwiegend im Gelegenheitsverkehr verwendet werden, si
 
 (3) Taxen und Mietwagen können mit einer Trennwand ausgerüstet sein, die zum Schutz des Fahrzeugführers ausreichend kugelsicher ist. Die Trennwand soll entweder zwischen den Vorder- und Rücksitzen angebracht sein oder den Sitz des Fahrzeugführers von den Fahrgastplätzen abteilen; sie darf versenkbar oder so beschaffen sein, daß ein Teil seitlich verschoben werden kann.
 
-(4)
-
-(5)
-
 ### § 26 Kenntlichmachung
 
 (1) Taxen müssen kenntlich gemacht sein
@@ -580,7 +576,7 @@ Im Mietwagenverkehr sind die Beförderungsentgelte nach der Anzeige des Wegstrec
 
 (1) Die zuständigen obersten Landesbehörden oder die von ihnen bestimmten oder nach Landesrecht zuständigen Stellen können in bestimmten Einzelfällen oder allgemein für bestimmte Antragsteller von allen Vorschriften dieser Verordnung Ausnahmen genehmigen. Von der Vorschrift des § 26 Abs. 1 Satz 2 und Abs. 2 Satz 1 können sie für den Bereich einzelner Genehmigungsbehörden Ausnahmen auch allgemein für die Unternehmer, die im Besitz einer Genehmigung für den Taxen- oder Mietwagenverkehr sind, genehmigen. Ausnahmen von der Vorschrift der Anlage 1 sind hinsichtlich der Aufschrift und der Farbgebung nicht möglich.
 
-(2) Allgemeine Ausnahmen regelt das Bundesministerium für Verkehr, Bau und Stadtentwicklung durch Rechtsverordnung mit Zustimmung des Bundesrates nach Anhören der zuständigen obersten Landesbehörden.
+(2) Allgemeine Ausnahmen regelt das Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung mit Zustimmung des Bundesrates nach Anhören der zuständigen obersten Landesbehörden.
 
 (3) Die Ausnahmegenehmigung kann unter dem Vorbehalt des Widerrufs erteilt werden und mit Nebenbestimmungen (Bedingungen, Befristungen, Auflagen) versehen werden. Erforderlichenfalls kann die zuständige Behörde die Beibringung eines Sachverständigengutachtens auf Kosten des Antragstellers verlangen. Der Bescheid ist mitzuführen und auf Verlangen zuständigen Personen auszuhändigen.
 
