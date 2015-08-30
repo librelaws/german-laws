@@ -2,11 +2,13 @@ Gesetz zur Ausführung des Europäischen Übereinkommens betreffend Auskünfte �
 =======================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 G v. 10.12.2008 I 2399
+Zuletzt geändert durch Art. 15 V v. 31.8.2015 I 1474
 
 ### 
 
+```
 (+++ Textnachweis ab: 19.3.1975 +++)
+```
 
 Überschrift: IdF d. Art. 2 Abs. 1 Nr. 1 G v. 21.1.1987 II 58 mWv 29.1.1987
 
@@ -65,11 +67,11 @@ III. Sonstige Bestimmungen
 
 ### § 9
 
-(1) Die Aufgaben der Empfangsstelle im Sinne des Artikels 2 Abs. 1 des Übereinkommens nimmt der Bundesminister der Justiz wahr.
+(1) Die Aufgaben der Empfangsstelle im Sinne des Artikels 2 Abs. 1 des Übereinkommens nimmt das Bundesministerium der Justiz und für Verbraucherschutz wahr.
 
-(2) Die Aufgaben der Übermittlungsstelle im Sinne des Artikels 2 Abs. 2 des Übereinkommens nimmt für Ersuchen, die vom Bundesverfassungsgericht oder von Bundesgerichten ausgehen, der Bundesminister der Justiz wahr. Im übrigen nehmen die von den Landesregierungen bestimmten Stellen diese Aufgaben wahr. In jedem Land kann nur eine Übermittlungsstelle eingerichtet werden.
+(2) Die Aufgaben der Übermittlungsstelle im Sinne des Artikels 2 Abs. 2 des Übereinkommens nimmt für Ersuchen, die vom Bundesverfassungsgericht oder von Bundesgerichten ausgehen, das Bundesministerium der Justiz und für Verbraucherschutz wahr. Im übrigen nehmen die von den Landesregierungen bestimmten Stellen diese Aufgaben wahr. In jedem Land kann nur eine Übermittlungsstelle eingerichtet werden.
 
-(3) Der Bundesminister der Justiz wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, eine andere Empfangsstelle zu bestimmen, wenn dies aus Gründen der Verwaltungsvereinfachung oder zur leichteren Ausführung des Übereinkommens notwendig erscheint. Er wird ferner ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, aus den in Satz 1 genannten Gründen eine andere Übermittlungsstelle für Ersuchen zu bestimmen, die vom Bundesverfassungsgericht oder von Bundesgerichten ausgehen.
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, eine andere Empfangsstelle zu bestimmen, wenn dies aus Gründen der Verwaltungsvereinfachung oder zur leichteren Ausführung des Übereinkommens notwendig erscheint. Er wird ferner ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, aus den in Satz 1 genannten Gründen eine andere Übermittlungsstelle für Ersuchen zu bestimmen, die vom Bundesverfassungsgericht oder von Bundesgerichten ausgehen.
 
 (4) Die Landesregierungen können die Befugnisse nach § 5 Satz 2, § 8 Satz 1 und 3 sowie § 9 Abs. 2 Satz 2 auf die Landesjustizverwaltungen übertragen.
 
