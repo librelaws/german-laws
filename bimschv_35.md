@@ -44,13 +44,13 @@ Ausgabestellen für die Plaketten sind die Zulassungsbehörden oder die nach Lan
 durch die in der Zulassungsbescheinigung Teil I, im Kraftfahrzeugschein und im Kraftfahrzeugbrief eingetragene emissionsbezogene Schlüsselnummer,
 
 2.  
-für Kraftfahrzeuge, die unter die Regelungen des Autobahnmautgesetzes für schwere Nutzfahrzeuge in der Fassung der Bekanntmachung vom 2. Dezember 2004 (BGBl. I S. 3122) fallen, durch Nachweise nach den §§ 8 und 9 der LKW-Maut-Verordnung vom 24. Juni 2003 (BGBI. I S. 1003).
+für Kraftfahrzeuge, die unter die Regelungen des Autobahnmautgesetzes für schwere Nutzfahrzeuge in der Fassung der Bekanntmachung vom 2. Dezember 2004 (BGBl. I S. 3122) fallen, durch Nachweise nach den §§ 8 und 9 der LKW-Maut-Verordnung vom 24. Juni 2003 (BGBl. I S. 1003).
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur gibt die Zuordnung der in den Fahrzeugpapieren eingetragenen Emissionsschlüsselnummern zu den einzelnen Schadstoffgruppen im Verkehrsblatt bekannt.
 
 ### § 6 Nachweis der Schadstoffgruppe für im Ausland zugelassene Fahrzeuge
 
-(1) Bei Fahrzeugen, die im Ausland zugelassen sind und die unter die Regelungen des Autobahnmautgesetzes für schwere Nutzfahrzeuge in der Fassung der Bekanntmachung vom 2. Dezember 2004 (BGBl. I S. 3122) fallen, kann die Zuordnung zu einer Schadstoffgruppe durch Nachweise nach den §§ 8 und 9 der LKW-Maut-Verordnung vom 24. Juni 2003 (BGBI. I S. 1003) nachgewiesen werden.
+(1) Bei Fahrzeugen, die im Ausland zugelassen sind und die unter die Regelungen des Autobahnmautgesetzes für schwere Nutzfahrzeuge in der Fassung der Bekanntmachung vom 2. Dezember 2004 (BGBl. I S. 3122) fallen, kann die Zuordnung zu einer Schadstoffgruppe durch Nachweise nach den §§ 8 und 9 der LKW-Maut-Verordnung vom 24. Juni 2003 (BGBl. I S. 1003) nachgewiesen werden.
 
 (2) Bei Fahrzeugen, die im Ausland zugelassen sind, wird vermutet, dass sie nach Maßgabe der Absätze 3 und 4 zu den dort aufgeführten Schadstoffgruppen gehören, wenn für diese Fahrzeuge kein Nachweis über die Einhaltung der Anforderungen nach
 
