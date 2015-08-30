@@ -2,7 +2,7 @@ Verordnung über die Behandlung von Lebensmitteln mit Elektronen-, Gamma- und R�
 ===============================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 7 V v. 13.12.2011 I 2720
+Zuletzt geändert durch Art. 62 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -207,9 +207,9 @@ Die zum Nachweis einer Bestrahlung angewandten Methoden müssen hinsichtlich der
 
 ### § 7 Mitteilungen, Berichte
 
-(1) Die Länder teilen dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz die nach § 4 für die Zulassung zuständigen Behörden mit.
+(1) Die Länder teilen dem Bundesministerium für Ernährung und Landwirtschaft die nach § 4 für die Zulassung zuständigen Behörden mit.
 
-(2) Die zuständigen Behörden übermitteln dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz eine Durchschrift jeder Zulassungsverfügung und jeder Änderung dieser Verfügung.
+(2) Die zuständigen Behörden übermitteln dem Bundesministerium für Ernährung und Landwirtschaft eine Durchschrift jeder Zulassungsverfügung und jeder Änderung dieser Verfügung.
 
 (3) Die zuständigen Behörden berichten dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit jeweils zum 31. März eines Jahres für das vorhergehende Kalenderjahr über
 
