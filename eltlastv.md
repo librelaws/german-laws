@@ -2,7 +2,7 @@ Verordnung über die Sicherstellung der Elektrizitätsversorgung (EltLastV)
 =========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 376 V v. 31.10.2006 I 2407
+Zuletzt geändert durch Art. 263 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -27,11 +27,11 @@ Die Lastverteilung obliegt
 den obersten Wirtschaftsbehörden der Länder als Gebietslastverteilern; durch Landesrecht können höheren und unteren Verwaltungsbehörden sowie den Gemeinden als Gruppen-, Bezirks- und Bereichslastverteilern Aufgaben der Lastverteilung übertragen werden;
 
 2.  
-dem Bundesministerium für Wirtschaft und Technologie als Bundeslastverteiler.
+dem Bundesministerium für Wirtschaft und Energie als Bundeslastverteiler.
 
 ### § 3
 
-(1) Beim Bundesministerium für Wirtschaft und Technologie und bei den obersten Wirtschaftsbehörden der Länder sind zur Durchführung der Lastverteilung besondere Stellen einzurichten. Sie tragen die Bezeichnungen
+(1) Beim Bundesministerium für Wirtschaft und Energie und bei den obersten Wirtschaftsbehörden der Länder sind zur Durchführung der Lastverteilung besondere Stellen einzurichten. Sie tragen die Bezeichnungen
 
   
 Bundeslastverteilerstelle für elektrische Energie,Gebietslastverteilerstelle für elektrische Energie.
@@ -43,7 +43,7 @@ Gruppenlastverteilerstelle für elektrische Energie,Bezirkslastverteilerstelle f
 
 ### § 4
 
-(1) Die Grenzen der Gebietslastverteilung ergeben sich aus der Anlage zu dieser Verordnung. Die Befugnis, diese Grenzen durch Rechtsverordnung zu ändern, wird auf das Bundesministerium für Wirtschaft und Technologie übertragen.
+(1) Die Grenzen der Gebietslastverteilung ergeben sich aus der Anlage zu dieser Verordnung. Die Befugnis, diese Grenzen durch Rechtsverordnung zu ändern, wird auf das Bundesministerium für Wirtschaft und Energie übertragen.
 
 (2) Die Grenzen der Gruppen-, Bezirks- und Bereichslastverteilung bestimmen sich nach Landesrecht.
 
@@ -116,7 +116,7 @@ Die Senate der Länder Bremen und Hamburg werden ermächtigt, die Vorschriften d
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(2) Sie darf gemäß § 2 Abs. 1 des Wirtschaftssicherstellungsgesetzes nur nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann angewandt werden, wenn es das Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung bestimmt.
+(2) Sie darf gemäß § 2 Abs. 1 des Wirtschaftssicherstellungsgesetzes nur nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann angewandt werden, wenn es das Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung bestimmt.
 
 (3) Die §§ 2 und 4 sind mit dem Inkrafttreten anwendbar.
 
