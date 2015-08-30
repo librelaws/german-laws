@@ -2,7 +2,7 @@ Achtundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetz
 =============================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 14.8.2012 I 1712
+Zuletzt geändert durch Art. 81 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -396,7 +396,7 @@ eine Abschrift der Erklärung gemäß § 7 Abs. 4.
 
 (3) Die Genehmigungsbehörde hat den Genehmigungsbehörden der übrigen Mitgliedstaaten der Europäischen Union binnen eines Monats die Einzelheiten und die Begründung für die einem Hersteller gewährte Ausnahmegenehmigung nach § 3 zu übermitteln.
 
-(4) Die Genehmigungsbehörde übermittelt dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit zur Weitergabe an die Kommission jedes Jahr eine Liste der erteilten Ausnahmegenehmigungen mit ihren Begründungen.
+(4) Die Genehmigungsbehörde übermittelt dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit zur Weitergabe an die Kommission jedes Jahr eine Liste der erteilten Ausnahmegenehmigungen mit ihren Begründungen.
 
 (5) Die Genehmigungsbehörde teilt den Genehmigungsbehörden der Mitgliedstaaten der Europäischen Union jeden Widerruf einer Typgenehmigung nebst Begründung binnen eines Monats nach Unanfechtbarkeit mit.
 
