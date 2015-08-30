@@ -4,6 +4,9 @@ Gesetz über die Haftung für fehlerhafte Produkte (ProdHaftG)
 Stand  
 Zuletzt geändert durch Art. 180 V v. 31.8.2015 I 1474
 
+Hinweis  
+Änderung durch Art. 5 G v. 17.7.2017 I 2421 mWv 22.7.2017 (Nr. 48) noch nicht berücksichtigt
+
 ### 
 
 ```
