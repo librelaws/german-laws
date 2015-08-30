@@ -2,7 +2,7 @@ Gesetz zur Verminderung von Luftverunreinigungen durch Bleiverbindungen in Ottok
 ===========================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 58 V v. 31.10.2006 I 2407
+Zuletzt geändert durch Art. 73 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -29,7 +29,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates folgendes Gesetz beschlossen:
 
 (1) Ottokraftstoffe, deren Gehalt an Bleiverbindungen, berechnet als Blei, mehr als 0,15 Gramm im Liter (gemessen bei + 15 Grad C) beträgt, dürfen gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nicht hergestellt, eingeführt oder sonst in den Geltungsbereich dieses Gesetzes verbracht werden. Ottokraftstoffe, deren Motoroktanzahl den Wert 85 und deren Researchoktanzahl den Wert 95 unterschreitet, dürfen ab 1. Februar 1988 nur in den Verkehr gebracht werden, wenn ihr Gehalt an Bleiverbindungen, berechnet als Blei, nicht mehr als 0,013 Gramm im Liter (gemessen bei + 15 Grad C) beträgt. Die Oktanzahlen nach Satz 2 sind nach dem hierfür in der Verordnung nach § 2a Abs. 3 vorgeschriebenen Prüfverfahren zu bestimmen. Dem Herstellen im Sinne dieses Gesetzes steht das Zusetzen von Bleiverbindungen gleich.
 
-(2) Ottokraftstoffe, die nicht zugelassene Zusätze mit anderen Metallverbindungen enthalten, dürfen gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nicht hergestellt, eingeführt oder sonst in den Geltungsbereich dieses Gesetzes verbracht werden. Absatz 1 Satz 4 gilt für diese Zusätze entsprechend. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) kann auf Antrag im Einvernehmen mit dem Umweltbundesamt und dem Umweltbundesamt Zusätze nach Satz 1 bis zu einem bestimmten zulässigen Höchstgehalt im Ottokraftstoff zulassen, soweit dies mit dem Schutz der Allgemeinheit, insbesondere dem Schutz vor schädlichen Umwelteinwirkungen vereinbar ist. Die Zulassung kann unter Bedingungen erteilt, mit Auflagen verbunden und befristet werden. Sie kann widerrufen werden, wenn die Voraussetzungen für die Zulassung nicht mehr vorliegen. Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit erläßt im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie Verwaltungsvorschriften über die Grundsätze der Zulassung der Zusätze nach Satz 1.
+(2) Ottokraftstoffe, die nicht zugelassene Zusätze mit anderen Metallverbindungen enthalten, dürfen gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nicht hergestellt, eingeführt oder sonst in den Geltungsbereich dieses Gesetzes verbracht werden. Absatz 1 Satz 4 gilt für diese Zusätze entsprechend. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) kann auf Antrag im Einvernehmen mit dem Umweltbundesamt und dem Umweltbundesamt Zusätze nach Satz 1 bis zu einem bestimmten zulässigen Höchstgehalt im Ottokraftstoff zulassen, soweit dies mit dem Schutz der Allgemeinheit, insbesondere dem Schutz vor schädlichen Umwelteinwirkungen vereinbar ist. Die Zulassung kann unter Bedingungen erteilt, mit Auflagen verbunden und befristet werden. Sie kann widerrufen werden, wenn die Voraussetzungen für die Zulassung nicht mehr vorliegen. Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit erläßt im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie Verwaltungsvorschriften über die Grundsätze der Zulassung der Zusätze nach Satz 1.
 
 ### § 2a Verbraucherschutz
 
@@ -55,7 +55,7 @@ dem Einführer oder Verbringer für zur Vermischung bestimmte Ottokraftstoffe, s
 
 (3) Die Bewilligung kann unter Bedingungen erteilt und mit Auflagen verbunden werden; sie kann widerrufen werden. Die Bewilligung ist zu befristen, im Falle des Absatzes 2 bei einer Ausnahme von der Begrenzung auf 0,40 Gramm Blei im Liter längstens bis zum 31. Dezember 1973 und bei einer Ausnahme von der Begrenzung auf 0,15 Gramm Blei im Liter längstens bis zum 31. Dezember 1977.
 
-(4) Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit erläßt im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Technologie Verwaltungsvorschriften über die Grundsätze, die bei der Bewilligung der Ausnahmen zu beachten sind.
+(4) Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit erläßt im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie Verwaltungsvorschriften über die Grundsätze, die bei der Bewilligung der Ausnahmen zu beachten sind.
 
 ### § 3a Abgabe zum Ausgleich von Wettbewerbsvorteilen bei Ausnahmebewilligung
 
@@ -63,7 +63,7 @@ dem Einführer oder Verbringer für zur Vermischung bestimmte Ottokraftstoffe, s
 
 (2) Der Schuldner hat für jeden Monat des Zeitraums, auf den die Ausnahmebewilligung befristet worden ist, dem zuständigen Hauptzollamt bis zum Ende des folgenden Monats anzumelden, ob und in welcher Höhe eine Abgabe entstanden ist. Geht die Anmeldung nicht oder nicht rechtzeitig ein, so wird vermutet, daß die Ausnahmebewilligung voll ausgenutzt worden und die Abgabe nach Absatz 1 entstanden ist. Die Abgabe ist unaufgefordert bis zum Fälligkeitstag an das zuständige Hauptzollamt zu entrichten. Soweit dieses Gesetz nichts anderes bestimmt, finden für die Festsetzung, Erhebung, Vollstreckung und das außergerichtliche Rechtsbehelfsverfahren die Vorschriften des Ersten bis Siebenten Teils der Abgabenordnung mit Ausnahme ihrer §§ 30, 76, 172 Abs. 1 Nr. 2, §§ 215 und 221 entsprechende Anwendung. Die Festsetzungsfrist beträgt ein Jahr. Sie beginnt mit Ablauf des Kalenderjahres, in dem die Abgabe entstanden ist. Für die Zahlungsverjährung gelten die §§ 228 bis 232 der Abgabenordnung entsprechend.
 
-(3) Das Bundesministerium der Finanzen erläßt im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit und dem Bundesministerium für Wirtschaft und Technologie Verwaltungsvorschriften über das bei der Festsetzung, Erhebung und Beitreibung der Abgabe anzuwendende Verfahren.
+(3) Das Bundesministerium der Finanzen erläßt im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit und dem Bundesministerium für Wirtschaft und Energie Verwaltungsvorschriften über das bei der Festsetzung, Erhebung und Beitreibung der Abgabe anzuwendende Verfahren.
 
 ### § 4 Erklärung über die Beschaffenheit einzuführender Ottokraftstoffe
 
