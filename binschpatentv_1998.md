@@ -2,7 +2,7 @@ Verordnung über Befähigungszeugnisse in der Binnenschiffahrt (BinSchPatentV)
 ============================================================================
 
 Stand  
-Zuletzt geändert durch Art. 6 V v. 2.10.2012 I 2102
+Zuletzt geändert durch Art. 524 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -184,7 +184,7 @@ geltendes Befähigungszeugnis, auch soweit es nicht nach dieser Verordnung ertei
 
 ### § 6 Befreiungsmöglichkeiten
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann, unbeschadet des § 5 Abs. 1 Nr. 2 und des § 21, Inhaber von gleichwertigen Befreiungszeugnissen anderer Staaten vom Erfordernis der Fahrerlaubnis nach § 3 Abs. 1 befreien. Es gibt im Verkehrsblatt bekannt, für welche Wasserstraßen und Fahrzeugarten es als Befähigungszeugnis gilt.
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur kann, unbeschadet des § 5 Abs. 1 Nr. 2 und des § 21, Inhaber von gleichwertigen Befreiungszeugnissen anderer Staaten vom Erfordernis der Fahrerlaubnis nach § 3 Abs. 1 befreien. Es gibt im Verkehrsblatt bekannt, für welche Wasserstraßen und Fahrzeugarten es als Befähigungszeugnis gilt.
 
 (2) Die örtlich zuständige Wasser- und Schiffahrtsdirektion kann Inhaber von Fahrerlaubnissen oder Befähigungszeugnissen nach Absatz 1 oder § 5 das Führen eines Fahrzeuges auf der Teilstrecke einer Wasserstraße, auf der diese nicht gelten, allgemein erlauben, wenn die Teilstrecke infolge einer Umleitungsmaßnahme befahren werden muß.
 
@@ -286,11 +286,18 @@ Feuerlöschbootpatent D2
 
 E
 
-Sportfahrzeuge mit einer Länge von nicht mehr als 25 m
+1.
+
+Sportfahrzeuge mit einer Länge von nicht mehr als 25 m,
 
 3, 4
 
 Sportschifferzeugnis
+
+2.
+
+Fahrzeuge, die am 31. Dezember 2012 über ein Bootszeugnis nach § 3 der Binnenschifffahrt-Sportbootvermietungsverordnung vom 18. April 2000 (BGBl. I S. 572), die zuletzt durch Artikel 2 § 6 der Verordnung vom 20. Dezember 2012 (BGBl. I S. 2802) geändert worden ist, in der jeweils geltenden Fassung verfügen und zur Beförderung von Fahrgästen zugelassen sind, ausgenommen Fahrzeuge dieser Art, die nach der Sportbootführerscheinverordnung-Binnen vom 22. März 1989 (BGBl. I S. 536, 1102), die zuletzt durch Artikel 1 der Verordnung vom 2. Oktober 2012 (BGBl. I S. 2102) geändert worden ist, keiner Fahrerlaubnis bedürfen.
+Satz 1 gilt nicht für Fahrzeuge, für die im Einzelfall ein oder ein anderes Befähigungszeugnis vorgeschrieben ist.
 
 F
 
@@ -347,6 +354,8 @@ eine Fahrerlaubnis für Sportboote mit Antriebsmaschine nach § 2 Abs. 1 oder ei
 
 b)  
 eine Fahrerlaubnis der Klasse F, wenn sie für wenigstens eine Strecke dieser Zonen gilt, oder der Klasse E.
+
+Satz 1 Nummer 2 gilt nicht für Sportfahrzeuge, die zur Beförderung von Fahrgästen zugelassen sind.
 
 (5) Keiner Fahrerlaubnis nach Absatz 4 bedarf, wer
 
@@ -464,7 +473,7 @@ erforderlich wäre.
 
 ### § 12 Besondere Anforderungen für die Erteilung einer Fahrerlaubnis Streckenfahrten
 
-(1) Soll sich die Fahrerlaubnis der Klassen A bis E auf Wasserstraßen nach Anlage 9 oder Teilstrecken davon erstrecken, muß der Bewerber die jeweilige Wasserstraße oder Teilstrecke mindestens sechzehnmal an Bord eines Fahrzeuges mit Antriebsmaschine innerhalb der letzten zehn Jahre vor Eingang des Antrags befahren haben, davon mindestens dreimal in jeder Richtung innerhalb der letzten drei Jahre. Für eine Fahrerlaubnis der Klasse E genügt stattdessen, wenn der Bewerber die jeweilige Wasserstraße oder Teilstrecke im Rahmen einer sachgerechten Ausbildung mindestens viermal in jeder Richtung innerhalb des letzten Jahres vor Eingang des Antrags befahren hat.
+(1) Soll sich die Fahrerlaubnis der Klassen A bis E auf Wasserstraßen nach Anlage 9 oder Teilstrecken davon erstrecken, muß der Bewerber die jeweilige Wasserstraße oder Teilstrecke mindestens sechzehnmal an Bord eines Fahrzeuges mit Antriebsmaschine innerhalb der letzten zehn Jahre vor Eingang des Antrags befahren haben, davon mindestens dreimal in jeder Richtung innerhalb der letzten drei Jahre. Für eine Fahrerlaubnis der Klasse E genügt stattdessen, wenn der Bewerber die jeweilige Wasserstraße oder Teilstrecke im Rahmen einer sachgerechten Ausbildung mindestens viermal in jeder Richtung innerhalb des letzten Jahres vor Eingang des Antrags befahren hat. Die Sätze 1 und 2 gelten nicht für Fahrzeuge, die über ein Bootszeugnis nach § 3 der Binnenschifffahrt-Sportbootvermietungsverordnung vom 18. April 2000 (BGBl. I S. 572), die zuletzt durch Artikel 2 § 6 der Verordnung vom 20. Dezember 2012 (BGBl. I S. 2802) geändert worden ist, in der jeweils geltenden Fassung verfügen und zur Beförderung von Fahrgästen zugelassen sind.
 
 (2) Für eine Fahrerlaubnis, die als Donaukapitänspatent erteilt wird, muss der Bewerber zusätzlich die jeweilige Donaustrecke mindestens sechzehnmal jeweils außerhalb des Geltungsbereichs dieser Verordnung, davon mindestens dreimal in jeder Richtung innerhalb der letzten drei Jahre vor Eingang des Antrags, an Bord eines Fahrzeuges mit Antriebsmaschine befahren haben.
 
@@ -556,10 +565,10 @@ ein Lichtbild aus neuerer Zeit in der Größe 35 Millimeter X 45 Millimeter, das
 ein ärztliches Zeugnis, nicht älter als drei Monate, das
 
 a)  
-nach dem Muster der Anlage B2 der Schiffspersonalverordnung-Rhein von einem Arzt des Arbeitsmedizinischen und Sicherheitstechnischen Dienstes der Berufsgenossenschaft für Fahrzeughaltungen oder des Arbeitsmedizinischen Dienstes der See-Berufsgenossenschaft, von einem Betriebsarzt des Arbeitsmedizinischen Dienstes der Wasser- und Schifffahrtsverwaltung des Bundes oder der Verwaltung eines Landes oder von einem Arzt eines hafenärztlichen Dienstes erteilt oder von einer zuständigen Stelle eines anderen Rheinuferstaates oder Belgiens ausgestellt oder
+nach dem Muster der Anlage B2 der Schiffspersonalverordnung-Rhein von einer Ärztin oder einem Arzt, die oder der von der Berufsgenossenschaft für Transport und Verkehrswirtschaft ermächtigt worden ist, von einer Ärztin oder einem Arzt des betriebsärztlichen Dienstes der Wasser- und Schifffahrtsverwaltung des Bundes oder der Verwaltung eines Landes oder von einer Ärztin oder einem Arzt eines hafenärztlichen Dienstes erteilt oder von einer zuständigen Stelle eines anderen Rheinuferstaates oder Belgiens ausgestellt oder
 
 b)  
-von der Zentralkommission für die Rheinschifffahrt oder dem Bundesministerium für Verkehr, Bau und Stadtentwicklung nach Maßgabe des § 7.09 Nummer 3 Buchstabe b der Schiffspersonalverordnung-Rhein anerkannt
+von der Zentralkommission für die Rheinschifffahrt oder dem Bundesministerium für Verkehr und digitale Infrastruktur nach Maßgabe des § 7.09 Nummer 3 Buchstabe b der Schiffspersonalverordnung-Rhein anerkannt
 
 worden ist,
 
@@ -586,7 +595,7 @@ Im Falle des § 9 sind dem Antrag nur die Kopie des Befähigungszeugnisses, mit 
 
 ### § 17 Nachweis der Fahrzeit, Fahrleistungen und Streckenfahrten
 
-(1) Die Fahrzeit und Fahrleistungen sowie die Streckenfahrten sind durch ein geprüftes Schifferdienstbuch nachzuweisen, das von einem Wasser- und Schiffahrtsamt oder einer zuständigen Behörde eines Rheinuferstaates oder Belgiens ausgestellt worden ist. Soweit ein Bewerber ein Schifferdienstbuch nach anderen Vorschriften nicht besitzen muß, kann er die Fahrzeit und die Streckenfahrten auch durch eine andere amtliche Urkunde seines Wohnsitzstaates nachweisen, die mindestens folgende Angaben enthält:
+(1) Die Fahrzeit und Fahrleistung sowie die Streckenfahrten sind durch ein geprüftes Schifferdienstbuch nach Maßgabe des § 3.09 Nummer 1 der Schiffspersonalverordnung für den Rhein nachzuweisen. Soweit ein Bewerber ein Schifferdienstbuch nach anderen Vorschriften nicht besitzen muß, kann er die Fahrzeit und die Streckenfahrten auch durch eine andere amtliche Urkunde seines Wohnsitzstaates nachweisen, die mindestens folgende Angaben enthält:
 
 1.  
 Art, Größe, Anzahl der Fahrgäste, Name und Antriebsleistung der Fahrzeuge, auf denen er gefahren ist,
@@ -621,7 +630,7 @@ Die Fahrzeit auf See ist durch ein Seefahrtbuch nachzuweisen.
 2.  
 im Falle des § 7 Abs. 2, § 8 oder bei einer Fahrerlaubnis der Klasse F auch die erforderliche Streckenkenntnis hat (Anlage 11).
 
-Die Prüfung besteht aus einem theoretischen und für den Erwerb einer Fahrerlaubnis der Klasse E oder F auch aus einem praktischen Teil. Näheres zum Prüfungsverfahren wird durch Richtlinien des Bundesministeriums für Verkehr, Bau und Stadtentwicklung geregelt, die im Verkehrsblatt zu veröffentlichen sind.
+Die Prüfung besteht aus einem theoretischen und für den Erwerb einer Fahrerlaubnis der Klasse E oder F auch aus einem praktischen Teil. Näheres zum Prüfungsverfahren wird durch Richtlinien des Bundesministeriums für Verkehr und digitale Infrastruktur geregelt, die im Verkehrsblatt zu veröffentlichen sind.
 
 (2) Besteht ein Bewerber die Prüfung nicht, kann er sie frühestens nach drei Monaten wiederholen. Der Prüfungsausschuß kann diese Frist verlängern; er kann die erneute Teilnahme an einer Prüfung mit Auflagen oder Bedingungen verbinden oder dafür Befreiungen gewähren. Jede Wasser- und Schifffahrtsdirektion teilt die Versagung der
 
@@ -658,7 +667,7 @@ den übrigen Wasser- und Schifffahrtsdirektionen unverzüglich mit.
 Gegen Vorlage eines
 
 1.  
-vom Bundesministerium für Verkehr, Bau und Stadtentwicklung auf Grund zwischenstaatlicher Abkommen oder auf Grund des § 6 Abs. 1 als gleichwertig anerkannten Befähigungszeugnisses,
+vom Bundesministerium für Verkehr und digitale Infrastruktur auf Grund zwischenstaatlicher Abkommen oder auf Grund des § 6 Abs. 1 als gleichwertig anerkannten Befähigungszeugnisses,
 
 2.  
 Befähigungszeugnisses nach § 5 Abs. 1 Nr. 1 bis 3 oder 6
@@ -1268,7 +1277,7 @@ I                                     I                                  I
 
 ### Anlage 9
 
-Fundstelle des Originaltextes: BGBl. I 2006, 221
+(Fundstelle: BGBl. I 2006, 221)
 
 <table>
 <colgroup>
@@ -1295,7 +1304,7 @@ Fundstelle des Originaltextes: BGBl. I 2006, 221
 <tr class="odd">
 <td><dl>
 <dt>2.</dt>
-<dd>Weser von km 0,0 (Hann.-Münden) bis km 204,45 (Minden)- Oberweser
+<dd>Weser von km 0,0 (Hann.-Münden) bis km 204,45 (Minden)-Oberweser
 </dd>
 </dl></td>
 <td><dl>
@@ -1319,7 +1328,15 @@ Fundstelle des Originaltextes: BGBl. I 2006, 221
 <tr class="odd">
 <td><dl>
 <dt>4.</dt>
-<dd>Untere Havel-Wasserstraße von km 68,0 (Plaue) bis km 145,8 (Havelberg), jedoch nur bei Wasserständen am Unterpegel Rathenow von mehr als 130 cm
+<dd>Untere Havel-Wasserstraße
+<dl>
+<dt>a)</dt>
+<dd>von km 67,5 (Plaue) bis km 112,00 (unterhalb der Einmündung der Hohennauer Wasserstraße), jedoch nur bei Wasserständen am Unterpegel Rathenow von mehr als 190 cm
+</dd>
+<dt>b)</dt>
+<dd>von km 112,00 (unterhalb der Einmündung der Hohennauer Wasserstraße) bis km 145,80 (Havelberg), jedoch nur bei Wasserständen am Unterpegel Rathenow von mehr als 130 cm
+</dd>
+</dl>
 </dd>
 </dl></td>
 <td><dl>
