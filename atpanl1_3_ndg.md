@@ -2,11 +2,13 @@ Gesetz zu den Änderungen vom 22. November 1980, 13. August 1982, 15. Juli 1983,
 ====================================================================================================================================================================================================================================================================================================================================================================================================
 
 Stand  
-Geändert durch Art. 2 G v. 3.2.2009 I 150
+Zuletzt geändert durch Art. 17 V v. 31.8.2015 I 1474
 
 ### 
 
+```
 (+++ Textnachweis ab: 28.7.1988 +++)
+```
 
 ### Eingangsformel
 
@@ -18,9 +20,9 @@ Den von den Vertragsparteien des Übereinkommens vom 1. September 1970 über int
 
 ### Art 2
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz die nach Artikel 18 des Übereinkommens angenommenen Änderungen des Übereinkommens und seiner Anlagen durch Rechtsverordnung mit Zustimmung des Bundesrates in Kraft zu setzen, soweit die Änderungen der Verwirklichung neuer technischer Erkenntnisse hinsichtlich der besonderen Beförderungsmittel dienen, die Art und Weise dieser Beförderungen betreffen oder Vorschriften über die Ausrüstung der besonderen Beförderungsmittel enthalten.
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft die nach Artikel 18 des Übereinkommens angenommenen Änderungen des Übereinkommens und seiner Anlagen durch Rechtsverordnung mit Zustimmung des Bundesrates in Kraft zu setzen, soweit die Änderungen der Verwirklichung neuer technischer Erkenntnisse hinsichtlich der besonderen Beförderungsmittel dienen, die Art und Weise dieser Beförderungen betreffen oder Vorschriften über die Ausrüstung der besonderen Beförderungsmittel enthalten.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann jeweils den Wortlaut des Übereinkommens oder seiner Anlagen im Bundesgesetzblatt bekannt machen, soweit eine Rechtsverordnung nach Absatz 1 in Kraft getreten ist. Maßgeblicher Zeitpunkt ist der Tag des Inkrafttretens der jeweiligen Rechtsverordnung.
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur kann jeweils den Wortlaut des Übereinkommens oder seiner Anlagen im Bundesgesetzblatt bekannt machen, soweit eine Rechtsverordnung nach Absatz 1 in Kraft getreten ist. Maßgeblicher Zeitpunkt ist der Tag des Inkrafttretens der jeweiligen Rechtsverordnung.
 
 ### Art 3
 
