@@ -2,7 +2,7 @@ Gesetz über die Errichtung einer Bundesanstalt für Landwirtschaft und Ernähru
 ======================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 11 G v. 9.12.2010 I 1885
+Zuletzt geändert durch Art. 364 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -33,7 +33,7 @@ Das G wurde als Artikel 1 G 780-8/1 v. 2.8.1994 I 2018 (BLEGuÄndG) vom Bundesta
 
 ### § 1 Rechtsform, Name, Sitz
 
-Im Geschäftsbereich des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz (Bundesministerium) wird eine bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts durch Zusammenlegung der Bundesanstalt für landwirtschaftliche Marktordnung und des Bundesamtes für Ernährung und Forstwirtschaft errichtet. Die Anstalt trägt die Bezeichnung "Bundesanstalt für Landwirtschaft und Ernährung" (Bundesanstalt). Sie hat ihren Sitz in Bonn.
+Im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft (Bundesministerium) wird eine bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts durch Zusammenlegung der Bundesanstalt für landwirtschaftliche Marktordnung und des Bundesamtes für Ernährung und Forstwirtschaft errichtet. Die Anstalt trägt die Bezeichnung "Bundesanstalt für Landwirtschaft und Ernährung" (Bundesanstalt). Sie hat ihren Sitz in Bonn.
 
 ### § 2 Aufgaben
 
@@ -109,7 +109,7 @@ einem Vertreter des Landwarenhandels,
 einem Vertreter des Bundesministeriums,
 
 10.  
-einem Vertreter des Bundesministeriums für Wirtschaft und Technologie,
+einem Vertreter des Bundesministeriums für Wirtschaft und Energie,
 
 11.  
 einem Vertreter des Bundesministeriums der Finanzen,
