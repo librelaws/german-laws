@@ -2,7 +2,7 @@ Gesetz zur Regelung des Meeresbodenbergbaus (MBergG)
 ====================================================
 
 Stand  
-Zuletzt geändert durch Art. 74 G v. 8.12.2010 I 1864
+Zuletzt geändert durch Art. 305 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -111,7 +111,7 @@ glaubhaft macht, daß die im Gebiet geplanten Tätigkeiten wirtschaftlich durchg
 
 (9) Die Befürwortung kann zur Erreichung der in § 1 genannten Zwecke mit Auflagen versehen werden. Soweit es zur Erreichung dieser Zwecke erforderlich ist, sind nachträglich Auflagen zulässig.
 
-(10) Befürwortet das Landesamt den Antragsteller, leitet es die Befürwortung, die englische Fassung des Antrags auf Abschluß eines Vertrages, des Entwurfs des Arbeitsplanes und aller sonstigen erforderlichen Unterlagen dem Bundesministerium für Wirtschaft und Technologie zu, das die Befürwortung mit diesen Unterlagen an die Behörde weiterleitet.
+(10) Befürwortet das Landesamt den Antragsteller, leitet es die Befürwortung, die englische Fassung des Antrags auf Abschluß eines Vertrages, des Entwurfs des Arbeitsplanes und aller sonstigen erforderlichen Unterlagen dem Bundesministerium für Wirtschaft und Energie zu, das die Befürwortung mit diesen Unterlagen an die Behörde weiterleitet.
 
 (11) Die Befürwortung ist nicht übertragbar.
 
@@ -152,7 +152,7 @@ Die zur Leitung und Beaufsichtigung der Prospektion oder der Tätigkeiten im Geb
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die Bestimmungen über Prospektion, Erforschung und Ausbeutung von Bodenschätzen im Gebiet, die gemäß Artikel 160 Abs. 2 Buchstabe f Ziffer ii und Artikel 162 Abs. 2 Buchstabe o Ziffer ii des Übereinkommens, Artikel 17 seiner Anlage III und Nummer 15 des Abschnitts 1 der Anlage zum Durchführungsübereinkommen von der Behörde angenommen worden sind, in Kraft zu setzen.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung Vorschriften zur Durchführung der in Absatz 1 genannten Bestimmungen zu erlassen. Die Rechtsverordnungen sind, soweit sie Fragen des Arbeitsschutzes betreffen, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und, soweit sie Fragen des Umweltschutzes betreffen, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit zu erlassen. Die Ermächtigungen nach dem Seeaufgabengesetz bleiben unberührt.
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung Vorschriften zur Durchführung der in Absatz 1 genannten Bestimmungen zu erlassen. Die Rechtsverordnungen sind, soweit sie Fragen des Arbeitsschutzes betreffen, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und, soweit sie Fragen des Umweltschutzes betreffen, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit zu erlassen. Die Ermächtigungen nach dem Seeaufgabengesetz bleiben unberührt.
 
 ### § 8 Bergaufsicht
 
@@ -172,17 +172,17 @@ Die Beauftragten dürfen Betriebsanlagen, Geschäfts- und Betriebsräume sowie L
 
 (4) Der Auskunftspflichtige kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen strafgerichtlicher Verfolgung oder einem Verfahren nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Er ist über das Recht zur Verweigerung der Auskunft zu belehren.
 
-(5) Das Bundesministerium für Wirtschaft und Technologie kann durch Rechtsverordnung die für die Aufsicht erforderlichen Vorschriften erlassen, um sicherzustellen, daß Prospektion oder Tätigkeiten im Gebiet in Übereinstimmung mit dem Übereinkommen, dem Durchführungsübereinkommen, den von der Behörde erlassenen Bestimmungen und Anordnungen, dem Vertrag, den Vorschriften dieses Gesetzes und den auf Grund des § 7 erlassenen Rechtsverordnungen erfolgen. Insbesondere kann es zu diesem Zweck Melde-, Aufzeichnungs- und Aufbewahrungspflichten anordnen.
+(5) Das Bundesministerium für Wirtschaft und Energie kann durch Rechtsverordnung die für die Aufsicht erforderlichen Vorschriften erlassen, um sicherzustellen, daß Prospektion oder Tätigkeiten im Gebiet in Übereinstimmung mit dem Übereinkommen, dem Durchführungsübereinkommen, den von der Behörde erlassenen Bestimmungen und Anordnungen, dem Vertrag, den Vorschriften dieses Gesetzes und den auf Grund des § 7 erlassenen Rechtsverordnungen erfolgen. Insbesondere kann es zu diesem Zweck Melde-, Aufzeichnungs- und Aufbewahrungspflichten anordnen.
 
 ### § 9 Archäologische und historische Gegenstände
 
 Im Gebiet gefundene Gegenstände archäologischer oder historischer Art sind dem Landesamt anzuzeigen und nach dessen Anweisung zu behandeln. Diese Anweisungen haben Artikel 149 des Übereinkommens zu berücksichtigen und werden im Einvernehmen mit dem Bundesministerium des Innern erlassen.
 
-### § 10 Kosten
+### § 10 Gebühren und Auslagen
 
-(1) Für Amtshandlungen nach diesem Gesetz und nach den zu diesem Gesetz erlassenen Rechtsverordnungen werden Kosten (Gebühren und Auslagen) erhoben.
+(1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und nach den zu diesem Gesetz erlassenen Rechtsverordnungen werden Gebühren und Auslagen erhoben.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
 
 ### § 11 Bußgeldvorschriften
 
