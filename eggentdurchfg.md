@@ -2,17 +2,22 @@ Gesetz zur Durchführung der Verordnungen der Europäischen Gemeinschaft oder de
 ==============================================================================================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 G v. 9.12.2010 I 1934
+Zuletzt geändert durch Art. 58 V v. 31.8.2015 I 1474
 
 ### 
 
 ```
 (+++ Textnachweis ab: 26.6.2004 +++)
+(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
+     Durchführung 
+                  EGV 1946/2003    (CELEX Nr: 32003R1946)
+                  EGV  178/2002    (CELEX Nr: 32002R0178)
+                  EGV 1829/2003    (CELEX Nr: 32003R1829) +++)
 ```
 
-Das G wurde als Artikel 1 d. G. v. 22.6.2004 I 1244 vom Bundestag beschlossen. Es ist gem. Art. 5 dieses G am 26.6.2004 in Kraft getreten.
 Überschrift: IdF d. Art. 2 Nr. 1 iVm Art. 5 Abs. 2 Satz 1 G v. 1.4.2008 I 499 iVm Bek. v. 27.5.2008 I 919 mWv 1.5.2008 u. d. Art. 2 Nr. 1 G v. 9.12.2010 I 1934 mWv 15.12.2010
-(+++ Amtlicher Hinweis des Normgebers auf EG-Recht: Durchführung der EGV 1946/2003 (CELEX Nr: 32003R1946) EGV 178/2002 (CELEX Nr: 32002R0178) EGV 1829/2003 (CELEX Nr: 32003R1829) +++)
+
+Das G wurde als Artikel 1 d. G. v. 22.6.2004 I 1244 vom Bundestag beschlossen. Es ist gem. Art. 5 dieses G am 26.6.2004 in Kraft getreten.
 
 ### § 1 Aufgaben des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
 
@@ -37,9 +42,9 @@ das Ersuchen nach Artikel 10 Abs. 1 Satz 1 oder Artikel 22 Abs. 1 Satz 1 der Ver
 
 (3) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist Kontaktstelle im Sinne des Artikels 17 Abs. 2 des Protokolls von Cartagena über die biologische Sicherheit zum Übereinkommen über die biologische Vielfalt vom 29. Januar 2000 (BGBl. 2003 II S. 1508) und des Artikels 15 Abs. 1 Buchstabe b der Verordnung (EG) Nr. 1946/2003 des Europäischen Parlaments und des Rates vom 15. Juli 2003 über grenzüberschreitende Verbringungen genetisch veränderter Organismen (ABl. EU Nr. L 287 S. 1). Es nimmt außerdem die Aufgaben nach Artikel 5 Abs. 2, Artikel 6, 9, 14 Abs. 2 und Artikel 15 Abs. 1 der Verordnung (EG) Nr. 1946/2003 wahr und erfüllt sonstige Mitteilungspflichten nach dem Protokoll von Cartagena über die biologische Sicherheit zum Übereinkommen über die biologische Vielfalt gegenüber der Informationsstelle für biologische Sicherheit nach Artikel 20 des Protokolls von Cartagena über die biologische Sicherheit zum Übereinkommen über die biologische Vielfalt, soweit die Mitgliedstaaten zuständig sind.
 
-### § 2 Aufgaben des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz
+### § 2 Aufgaben des Bundesministeriums für Ernährung und Landwirtschaft
 
-Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz ist Anlaufstelle im Sinne des Artikels 19 Abs. 1 Satz 1 des Protokolls von Cartagena über die biologische Sicherheit zum Übereinkommen über die biologische Vielfalt und des Artikels 17 Abs. 2 der Verordnung (EG) Nr. 1946/2003.
+Das Bundesministerium für Ernährung und Landwirtschaft ist Anlaufstelle im Sinne des Artikels 19 Abs. 1 Satz 1 des Protokolls von Cartagena über die biologische Sicherheit zum Übereinkommen über die biologische Vielfalt und des Artikels 17 Abs. 2 der Verordnung (EG) Nr. 1946/2003.
 
 ### § 3 Beteiligung anderer Behörden des Bundes
 
@@ -142,7 +147,7 @@ Im Falle der Einfuhr, der Ausfuhr oder der Durchfuhr von Erzeugnissen, die in de
 
 ### § 5a Erlass von Rechtsverordnungen
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Durchführung der Verordnung (EG) Nr. 1829/2003, insbesondere zur Überwachung der Verbote des Artikels 4 Abs. 2 und des Artikels 16 Abs. 2 der Verordnung (EG) Nr. 1829/2003, erforderlich ist,
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Durchführung der Verordnung (EG) Nr. 1829/2003, insbesondere zur Überwachung der Verbote des Artikels 4 Abs. 2 und des Artikels 16 Abs. 2 der Verordnung (EG) Nr. 1829/2003, erforderlich ist,
 
 1.  
 das Inverkehrbringen von bestimmten Lebensmitteln oder Futtermitteln oder
@@ -152,7 +157,7 @@ das Verbringen von bestimmten Lebensmitteln oder Futtermitteln in das Inland ode
 
 auf Dauer oder vorübergehend zu verbieten oder zu beschränken sowie die hierfür erforderlichen Maßnahmen vorzuschreiben.
 
-(2) Rechtsverordnungen nach Absatz 1 können bei Gefahr im Verzuge oder, wenn ihr unverzügliches Inkrafttreten zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, ohne Zustimmung des Bundesrates erlassen werden. Rechtsverordnungen nach Satz 1 bedürfen nicht des Einvernehmens mit dem Bundesministerium für Wirtschaft und Technologie. Die Rechtsverordnungen treten spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert werden.
+(2) Rechtsverordnungen nach Absatz 1 können bei Gefahr im Verzuge oder, wenn ihr unverzügliches Inkrafttreten zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, ohne Zustimmung des Bundesrates erlassen werden. Rechtsverordnungen nach Satz 1 bedürfen nicht des Einvernehmens mit dem Bundesministerium für Wirtschaft und Energie. Die Rechtsverordnungen treten spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert werden.
 
 (3) § 73 des Lebensmittel- und Futtermittelgesetzbuches gilt entsprechend.
 
