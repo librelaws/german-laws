@@ -2,7 +2,7 @@ Verordnung zur Durchführung des Tierische Nebenprodukte-Beseitigungsgesetzes (T
 =======================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 23.4.2012 I 611
+Zuletzt geändert durch Art. 391 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -565,7 +565,7 @@ den Artikeln 10 bis 15, 17, 18 und 23 der Verordnung (EG) Nr. 1774/2002 zugelass
 
 in einem Register. Die Zulassungsnummer und die Registriernummer sind elfstellig und werden aus der für den Landkreis oder die kreisfreie Stadt des Sitzes des Betriebes vorgesehenen amtlichen Schlüsselnummer des vom Statistischen Bundesamtes herausgegebenen Gemeindeschlüsselverzeichnisses sowie einer vierstelligen Betriebsnummer und einer zweistelligen Nummer für die Betriebsart nach Maßgabe der Anlage 5 gebildet.
 
-(2) Die zuständige Landesbehörde teilt dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz (Bundesministerium) die Zulassung und Registrierung unter Angabe der erteilten Zulassungs- oder Registriernummer sowie die Rücknahme oder den Widerruf einer Zulassung oder Registrierung mit.
+(2) Die zuständige Landesbehörde teilt dem Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) die Zulassung und Registrierung unter Angabe der erteilten Zulassungs- oder Registriernummer sowie die Rücknahme oder den Widerruf einer Zulassung oder Registrierung mit.
 
 (3) Das Bundesministerium gibt die zugelassenen und registrierten Betriebe unter Angabe der erteilten Zulassungs- und Registriernummer im Bundesanzeiger bekannt.
 
