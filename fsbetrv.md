@@ -2,7 +2,7 @@ Verordnung über die Durchführung der Flugsicherung (FSDurchführungsV)
 =====================================================================
 
 Stand  
-Zuletzt geändert Art. 4 G v. 24.8.2009 I 2942
+Zuletzt geändert Art. 571 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -103,7 +103,7 @@ das Erlassen von Verfügungen, das Erteilen von Flugverkehrskontrollfreigaben un
 
 (1) Die Verkehrsflußregelung soll Überlastsituationen bei der Flugverkehrskontrolle verhindern, den Verkehrsablauf möglichst flüssig und wirtschaftlich gestalten und dazu geeignete Maßnahmen der Planung und Steuerung treffen.
 
-(2) Für die Verkehrsflußregelung gelten die vom Bundesministerium für Verkehr, Bau und Stadtentwicklung erlassenen Richtlinien. Darüber hinaus sind bei grenzüberschreitenden Flügen die Vorgaben der Organisation EUROCONTROL im Rahmen der zentralen europäischen Verkehrsflußregelung zu beachten.
+(2) Für die Verkehrsflußregelung gelten die vom Bundesministerium für Verkehr und digitale Infrastruktur erlassenen Richtlinien. Darüber hinaus sind bei grenzüberschreitenden Flügen die Vorgaben der Organisation EUROCONTROL im Rahmen der zentralen europäischen Verkehrsflußregelung zu beachten.
 
 ### § 10 Steuerung der Luftraumnutzung
 
@@ -126,7 +126,7 @@ Flüge im Such- und Rettungseinsatz;
 Flüge mit kranken und verletzten Personen, die sofortiger ärztlicher Hilfe bedürfen;
 
 5.  
-Regierungsflüge einschließlich Flüge mit Staatsoberhäuptern nach den Bestimmungen des Bundesministeriums für Verkehr, Bau und Stadtentwicklung.
+Regierungsflüge einschließlich Flüge mit Staatsoberhäuptern nach den Bestimmungen des Bundesministeriums für Verkehr und digitale Infrastruktur.
 
 4. Abschnitt Fluginformationsdienst
 -----------------------------------
@@ -267,7 +267,7 @@ Informationen und Hinweise für die Luftfahrt, die keiner internationalen Verbre
 
 ### § 20 Internationale Verbreitung
 
-Nachrichten für die Luftfahrt mit Ausnahme der NfL nach § 19 Abs. 1 Buchstabe a sind nach Maßgabe von Richtlinien des Bundesministeriums für Verkehr, Bau und Stadtentwicklung zu veröffentlichen und zur Gewährleistung einer sicheren, geordneten und flüssigen Durchführung des Flugbetriebs international zu verbreiten.
+Nachrichten für die Luftfahrt mit Ausnahme der NfL nach § 19 Abs. 1 Buchstabe a sind nach Maßgabe von Richtlinien des Bundesministeriums für Verkehr und digitale Infrastruktur zu veröffentlichen und zur Gewährleistung einer sicheren, geordneten und flüssigen Durchführung des Flugbetriebs international zu verbreiten.
 
 7. Abschnitt Flugfernmeldedienst
 --------------------------------
