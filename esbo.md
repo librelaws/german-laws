@@ -2,7 +2,7 @@ Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen (ESBO)
 ==============================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 25.7.2012 I 1703
+Zuletzt geändert durch Art. 519 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -101,10 +101,10 @@ Die Vorschriften des § 2 der EBO gelten entsprechend.
 von allen Vorschriften dieser Verordnung zur Berücksichtigung besonderer Verhältnisse im Einzelfall
 
 a)  
-für Eisenbahnen des Bundes sowie für Eisenbahnverkehrsunternehmen mit Sitz im Ausland das Bundesministerium für Verkehr, Bau und Stadtentwicklung; die zuständigen Landesbehörden sind zu unterrichten, wenn die Einheit des Eisenbahnwesens berührt wird;
+für Eisenbahnen des Bundes sowie für Eisenbahnverkehrsunternehmen mit Sitz im Ausland das Bundesministerium für Verkehr und digitale Infrastruktur; die zuständigen Landesbehörden sind zu unterrichten, wenn die Einheit des Eisenbahnwesens berührt wird;
 
 b)  
-für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde; das Benehmen mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung ist erforderlich, wenn die Einheit des Eisenbahnwesens berührt wird;
+für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde; das Benehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur ist erforderlich, wenn die Einheit des Eisenbahnwesens berührt wird;
 
 2.  
 im übrigen, soweit Ausnahmen in den Vorschriften dieser Verordnung unter Hinweis auf diesen Absatz ausdrücklich vorgesehen sind,
@@ -540,14 +540,14 @@ Die Vorschriften des § 33 der EBO gelten entsprechend.
 (3) Die Bremstafeln oder Bremswegberechnungen werden genehmigt
 
 1.  
-für Eisenbahnen des Bundes vom Bundesministerium für Verkehr, Bau und Stadtentwicklung,
+für Eisenbahnen des Bundes vom Bundesministerium für Verkehr und digitale Infrastruktur,
 
 2.  
 für die nicht bundeseigenen Eisenbahnen von der zuständigen Landesbehörde.
 
 (4) Als größter Bremsweg ist 700 m zulässig.
 
-(5) Über das Bremsen auf Strecken mit einer maßgebenden Neigung von mehr als 40v.T. sind von den in Absatz 3 genannten Behörden besondere Vorschriften zu erlassen. Die maßgebende Neigung einer Strecke ist die Neigung der Verbindungslinie der beiden 2.000 m voneinander entfernten Punkte des Streckenabschnitts mit dem größten Höhenunterschied.
+(5) Über das Bremsen auf Strecken mit einer maßgebenden Neigung von mehr als 40v.T. sind von den in Absatz 3 genannten Behörden besondere Vorschriften zu erlassen. Die maßgebende Neigung einer Strecke ist die Neigung der Verbindungslinie der beiden 2 000 m voneinander entfernten Punkte des Streckenabschnitts mit dem größten Höhenunterschied.
 
 (6) Das letzte oder vorletzte Fahrzeug eines Zuges muß eine wirkende Bremse haben. Hat das letzte Fahrzeug keine wirkende Bremse, so soll es nicht mit Reisenden besetzt sein. Bei Rollfahrzeugbetrieb dürfen auf Strecken mit einer geringeren maßgebenden Neigung als 10v.T. hinter der letzten wirkenden Bremse bis zu acht Rollfahrzeugradsätzen mit höchstens 60 t Gesamtgewicht laufen.
 
