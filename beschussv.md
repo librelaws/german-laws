@@ -2,7 +2,7 @@ Allgemeine Verordnung zum Beschussgesetz (BeschussV)
 ====================================================
 
 Stand  
-Zuletzt geändert durch Art. 4 V v. 26.11.2010 I 1643
+Zuletzt geändert durch Art. 295 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -965,7 +965,7 @@ je einem Vertreter des Büchsenmacherhandwerks und der Waffenfachhändler.
 die Vertreter der zuständigen Landesbehörden auf Vorschlag des Landes,
 
 2.  
-die Vertreter der Physikalisch-Technischen Bundesanstalt, der Bundesanstalt für Materialforschung und -prüfung auf Vorschlag des Bundesministeriums für Wirtschaft und Technologie,
+die Vertreter der Physikalisch-Technischen Bundesanstalt, der Bundesanstalt für Materialforschung und -prüfung auf Vorschlag des Bundesministeriums für Wirtschaft und Energie,
 
 3.  
 die Vertreter der in Absatz 2 Nr. 3 bezeichneten Stellen nach Anhörung der Vorstände dieser Stellen,
@@ -1020,47 +1020,26 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage I Technische Anforderungen an und Prüfvorschriften für Feuerwaffen und sonstige Gegenstände, die der Beschussprüfung nach § 5 des Gesetzes unterliegen, und technische Anforderungen an Prüfgegenstände nach den §§ 7 bis 10 des Gesetzes
 
-( Fundstelle: BGBl. I 2006, 1488 - 1499 )
+(Fundstelle: BGBl. I 2006, 1488 - 1499)
 
 **Symbole und ihre Bedeutung**
 
-V<sub>i</sub>  
-Einzelwert der Geschwindigkeit
+|                  |                                                                                                                                 |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| V<sub>i</sub>    | Einzelwert der Geschwindigkeit                                                                                                  |
+| n                | Gesamtzahl der Messungen                                                                                                        |
+| V̅<sub>n̅</sub>    | Mittelwert der Geschwindigkeit bei n Messungen                                                                                  |
+| v<sub>e, n</sub> | Obere Anteilsgrenze bei einseitiger Abgrenzung für 95 % der Grundgesamtheit mit einem Vertrauensniveau von 95 % bei n Messungen |
+| k<sub>2, n</sub> | Anteilsfaktor für die Anteilsgrenze bei einseitiger Abgrenzung für 95 % der Grundgesamtheit bei einem Vertrauensniveau von 95 % |
+| s<sub>n</sub>    | Standardabweichung bei n Messungen                                                                                              |
+| m<sub>k</sub>    | Masse des Zwischenelementes (Kolben)                                                                                            |
+| m<sub>p</sub>    | Masse des Prüfbolzens                                                                                                           |
+| E<sub>max</sub>  | Zulässiger Höchstwert der Energie der Gebrauchsmunition nach den Maßtafeln                                                      |
+| P<sub>max</sub>  | Zulässiger Höchstwert des Gasdruckes der Gebrauchsmunition nach den Maßtafeln                                                   |
+| E̅<sub>n̅</sub>    | Mittelwert der Bewegungsenergie der Geschosse bei n Messungen                                                                   |
+| E<sub>a, n</sub> | Mittelwert der Auftreffenergie                                                                                                  |
 
-n  
-Gesamtzahl der Messungen
-
-V<sub>n</sub>  
-Mittelwert der Geschwindigkeit bei n Messungen
-
-v<sub>e, n</sub>  
-Obere Anteilsgrenze bei einseitiger Abgrenzung für 95 % der Grundgesamtheit mit einem Vertrauensniveau von 95 % bei n Messungen
-
-k<sub>2, n</sub>  
-Anteilsfaktor für die Anteilsgrenze bei einseitiger Abgrenzung für 95 % der Grundgesamtheit bei einem Vertrauensniveau von 95 %
-
-s<sub>n</sub>  
-Standardabweichung bei n Messungen
-
-m<sub>k</sub>  
-Masse des Zwischenelementes (Kolben)
-
-m<sub>p</sub>  
-Masse des Prüfbolzens
-
-E<sub>max</sub>  
-Zulässiger Höchstwert der Energie der Gebrauchsmunition nach den Maßtafeln
-
-P<sub>max</sub>  
-Zulässiger Höchstwert des Gasdruckes der Gebrauchsmunition nach den Maßtafeln
-
-E<sub>n</sub>  
-Mittelwert der Bewegungsenergie der Geschosse bei n Messungen
-
-E<sub>a, n</sub>  
-Mittelwert der Auftreffenergie
-
-Soweit in dieser Anlage Symbole für Abmessungen verwendet werden, wird bezüglich der Bedeutung auf die Bekanntmachung der Maßtafeln für Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom 24. Februar 2000).
+Soweit in dieser Anlage Symbole für Abmessungen verwendet werden, wird bezüglich der Bedeutung auf die Bekanntmachung der Maßtafeln für Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nr. 38a vom 24. Februar 2000).
 
 **1**  
 **Beschussprüfung von Feuerwaffen und höchstbeanspruchten Teilen nach den §§ 5, 7 und 8 des Gesetzes**
@@ -1069,10 +1048,10 @@ Soweit in dieser Anlage Symbole für Abmessungen verwendet werden, wird bezügli
 Im Zuge der Vorprüfung ist zu prüfen, ob
 
 1.1.1  
-die Kennzeichnung nach § 24 des Waffengesetzes und nach § 21 der Allgemeinen Verordnung zum Waffengesetz ordnungsgemäß auf dem Prüfgegenstand angebracht ist,
+die Kennzeichnung nach § 24 des Waffengesetzes und nach § 21 der Allgemeinen Waffengesetz-Verordnung ordnungsgemäß auf dem Prüfgegenstand angebracht ist;
 
 1.1.2  
-der Prüfgegenstand keine Materialfehler oder Bearbeitungsfehler aufweist, die die Funktionssicherheit und Haltbarkeit beeinträchtigen können,
+der Prüfgegenstand keine Materialfehler oder Bearbeitungsfehler aufweist, die die Funktionssicherheit und Haltbarkeit beeinträchtigen können;
 
 1.1.3  
 folgende Mindest- und, soweit angegeben, Höchstmaße oder Toleranzen der Maßtafeln, unbeschadet der Regelung des § 3 Abs. 4, eingehalten sind:
@@ -1090,7 +1069,7 @@ bei Waffen für Randfeuerpatronenmunition ∅P<sub>1</sub>, L<sub>1</sub>, L<sub
 im Falle der Nummer 1.1.3.2 können die Waffen, die einen Laufdurchmesser B über dem zulässigen Höchstwert haben, zur Prüfung angenommen werden, wenn das Kaliber und die entsprechende Lagerlänge sowie der Laufdurchmesser oder das entsprechende Kaliber auf dem Lauf angebracht sind;
 
 1.1.4  
-der Prüfgegenstand, der auf Grund einer Zulassung nach § 7 oder 8 des Gesetzes gefertigt oder in den Geltungsbereich des Gesetzes verbracht wurde, in seinen wesentlichen Merkmalen, insbesondere denjenigen, die für die Freistellung von ordnungsrechtlichen Vorschriften des Beschussgesetzes entscheidend sind, dem zugehörigen Bescheid entspricht;
+der Prüfgegenstand, der auf Grund einer Zulassung nach § 7 oder § 8 des Gesetzes gefertigt oder in den Geltungsbereich des Gesetzes verbracht wurde, in seinen wesentlichen Merkmalen, insbesondere denjenigen, die für die Freistellung von ordnungsrechtlichen Vorschriften des Gesetzes entscheidend sind, dem zugehörigen Bescheid entspricht;
 
 1.1.5  
 Revolver für Randfeuerpatronen in der Trommel Randeinsenkungen der Lager aufweisen;
@@ -1128,7 +1107,7 @@ Dem normalen Beschuss unterliegen Waffen mit einer Nenntiefe des Patronenlagers 
 beträgt.
 
 1.2.4.2  
-Dem verstärkten Beschuss unterliegen Waffen für Munition, deren Gasdruck die in Nummer 1.2.4.1. genannten Werte, nicht aber 1.050 bar übersteigt, sowie Waffen mit einer Nenntiefe des Patronenlagers von 73 mm und größer.
+Dem verstärkten Beschuss unterliegen Waffen für Munition, deren Gasdruck die in Nummer 1.2.4.1 genannten Werte, nicht aber 1 050 bar übersteigt, sowie Waffen mit einer Nenntiefe des Patronenlagers von 73 mm und größer.
 
 1.2.4.3  
 Für Beschusspatronen mit Bleischroten sollen deren Durchmesser zwischen 2,5 bis 3 mm liegen; die Beschussladungen sind in der Masse wie folgt zu begrenzen:
@@ -1202,7 +1181,7 @@ max.
 10
 
 1.2.4.4  
-Der Beschuss ist in der Regel mit mindestens zwei Patronen vorzunehmen, deren Gasdruck sowohl den Anforderungen der Nummer 5.6.4 als auch der Nummer 5.6.5 der Anlage III genügt. Für den Fall, dass Patronen nicht verfügbar sind, deren Gasdruck beiden Anforderungen genügt, ist der Beschuss mit mindestens zwei Patronen, deren Gasdruck der Anforderung der Nr. 5.6.4 der Anlage III und einer Patrone, deren Gasdruck der Anforderung der Nummer 5.6.5 der Anlage III genügt, vorzunehmen. Für Patronen, die nur die Anforderung der Nummer 5.6.5 der Anlage III erfüllen, kann die Schrotladung größer als in Nummer 1.2.4.3 sein.
+Der Beschuss ist in der Regel mit mindestens zwei Patronen vorzunehmen, deren Gasdruck sowohl den Anforderungen der Nummer 5.6.4 als auch der Nummer 5.6.5 der Anlage III genügt. Für den Fall, dass Patronen nicht verfügbar sind, deren Gasdruck beiden Anforderungen genügt, ist der Beschuss mit mindestens zwei Patronen, deren Gasdruck der Anforderung der Nummer 5.6.4 der Anlage III und einer Patrone, deren Gasdruck der Anforderung der Nummer 5.6.5 der Anlage III genügt, vorzunehmen. Für Patronen, die nur die Anforderung der Nummer 5.6.5 der Anlage III erfüllen, kann die Schrotladung größer als in Nummer 1.2.4.3 sein.
 
 1.2.4.5  
 Läufe in den Kalibern 12 und 20 für Stahlschrotmunition mit verstärkter Ladung sind wie folgt zu beschießen:
@@ -1211,7 +1190,7 @@ Läufe in den Kalibern 12 und 20 für Stahlschrotmunition mit verstärkter Ladun
 je Lauf mit drei Beschusspatronen mit Stahlschroten einer Härte nach Vickers HV 1 zwischen 80 und 110 und einem Durchmesser von 4,6 mm für Kaliber 12 und von 3,7 mm für Kaliber 20,
 
 –  
-mit einem Gasdruck von mindestens 1.370 bar an der ersten und mindestens 500 bar an der zweiten Messstelle,
+mit einem Gasdruck von mindestens 1 370 bar an der ersten und mindestens 500 bar an der zweiten Messstelle,
 
 –  
 bei einem Impuls der Schrotgabe von mindestens 17,5 Ns bei Kaliber 12/76, 15 Ns bei Kaliber 12/70, 14,5 Ns bei Kaliber 20.
@@ -1220,10 +1199,10 @@ bei einem Impuls der Schrotgabe von mindestens 17,5 Ns bei Kaliber 12/76, 15 Ns 
 Der Beschuss sonstiger Waffen ist wie folgt vorzunehmen:
 
 1.2.5.1  
-Bei Langwaffen, die für eine Gebrauchsmunition mit einem zulässigen Höchstwert des Gasdruckes P<sub>max</sub> nach den Maßtafeln von 1.800 bar oder mehr bestimmt sind, durch Beschuss mit mindestens zwei Beschusspatronen,
+Bei Langwaffen, die für eine Gebrauchsmunition mit einem zulässigen Höchstwert des Gasdruckes P<sub>max</sub> nach den Maßtafeln von 1 800 bar oder mehr bestimmt sind, durch Beschuss mit mindestens zwei Beschusspatronen,
 
 1.2.5.2  
-bei Langwaffen, die für eine Gebrauchsmunition mit einem zulässigen Höchstwert des Gasdruckes P<sub>max</sub> nach den Maßtafeln bis zu 1.800 bar bestimmt sind, durch Beschuss mit mindestens einer Beschusspatrone,
+bei Langwaffen, die für eine Gebrauchsmunition mit einem zulässigen Höchstwert des Gasdruckes P<sub>max</sub> nach den Maßtafeln bis zu 1 800 bar bestimmt sind, durch Beschuss mit mindestens einer Beschusspatrone,
 
 1.2.5.3  
 bei Pistolen, unabhängig vom Gasdruck der Gebrauchsmunition, durch Beschuss mit mindestens zwei Beschusspatronen,
@@ -1238,7 +1217,7 @@ bei Waffen, für die nur die kinetische Energie des Geschosses der Gebrauchsmuni
 Werden beim Beschuss von Waffen für Kleinschrotmunition Funktionsstörungen festgestellt, so ist die Funktionssicherheit bei Waffen mit mehreren Lagern mit zwei derartigen Patronen je Lager zu prüfen. Die Waffen sind auf normale Funktion und Deformationen des Laufes zu untersuchen. Wenn der Lauf verstopft ist, wird er vollständig gereinigt und die Prüfung mit der doppelten Anzahl der in Satz 1 genannten Patronen wiederholt. Danach darf die Waffe keine Mängel aufweisen.
 
 1.2.7  
-Der Beschuss von Waffen mit mehreren Läufen ist mit der in Nummern 1.2.4.2 bis 1.2.5.5 vorgeschriebenen Anzahl von Beschusspatronen aus jedem Lauf vorzunehmen.
+Der Beschuss von Waffen mit mehreren Läufen ist mit der in den Nummern 1.2.4.2 bis 1.2.5.5 vorgeschriebenen Anzahl von Beschusspatronen aus jedem Lauf vorzunehmen.
 
 1.2.8  
 Höchstbeanspruchte Teile im Sinne des § 2 Abs. 2 des Gesetzes sind nach den Vorschriften, die für die Waffe gelten, für die sie bestimmt sind, zu beschießen. Einsteckläufe für Waffen zum Verschießen von Zentralfeuerpatronen sind in der Waffe zu prüfen, für die sie bestimmt sind.
@@ -1282,7 +1261,7 @@ Zum Vergleich und zur Kontrolle des Gasdruckes wird eine Schrotpatrone im Kalibe
 | –   | Bördelung:                   | rund mit Verschlussscheibe aus Pappe, Dicke 1,5 mm,                                                                                                                                                                                                                                                |
 | –   | Länge der geladenen Patrone: | etwa 64 mm.                                                                                                                                                                                                                                                                                        |
 
-Vor der Ermittlung des Gasdruckes sind die Patronen mindestens 24 Stunden bei einer Temperatur von (21 ± 1) °C mit einer relativen Luftfeuchte von (60 ± 5) % zu lagern. Der Mittelwert des Gasdruckes von 10 dieser Patronen muss in einem entsprechenden Messlauf nach den Nummern 5.1.1 und 5.1.2 der Anlage III an der Messstelle I, gemessen mit einem Druckaufnehmer nach den Nummern 5.4.2 und 5.4.3 der Anlage III, ∏<sub>10</sub> = (275 ± 25) bar betragen. Andernfalls ist das Pulver für den Beschuss zu verwerfen.
+Vor der Ermittlung des Gasdruckes sind die Patronen mindestens 24 Stunden bei einer Temperatur von (21 ± 1) °C mit einer relativen Luftfeuchte von (60 ± 5) % zu lagern. Der Mittelwert des Gasdruckes von 10 dieser Patronen muss in einem entsprechenden Messlauf nach den Nummern 5.1.1 und 5.1.2 der Anlage III an der Messstelle I, gemessen mit einem Druckaufnehmer nach den Nummern 5.4.2 und 5.4.3 der Anlage III, P̅<sub>1̅0̅</sub> = (275 ± 25) bar betragen. Andernfalls ist das Pulver für den Beschuss zu verwerfen.
 
 2.1.2.1  
 Vor dem Beschuss ist das Schwarzpulver unter den in Nummer 2.1.2 Satz 2 genannten Bedingungen zu lagern.
@@ -1550,8 +1529,7 @@ b)
 
 45
 
-Buchstabe a = Waffen mit glatten Läufen
-Buchstabe b = Waffen mit gezogenen Läufen
+Buchstabe a = Waffen mit glatten LäufenBuchstabe b = Waffen mit gezogenen Läufen
 
 2.1.4  
 Der Beschuss ist wie folgt durchzuführen:Waffen mit glatten Läufen sind in der Regel mit Schrot, sofern sie jedoch für den Kugelschuss bestimmt sind, mit einem Langgeschoss, Waffen mit gezogenen Läufen grundsätzlich mit einem Langgeschoss zu laden. Nach Einfüllen der vorgeschriebenen Pulverladung wird ein Filzpfropfen von mindestens 20 mm Höhe auf das Pulver gesetzt. Anschließend werden Schrote mit einem Durchmesser zwischen 2,5 mm und 3 mm bzw. das Langgeschoss geladen. Im Falle der Schrotladung wird abschließend zur Fixierung der Schrote im Lauf ein Filzpfropfen von mindestens 10 mm Höhe gesetzt. Das Pulver darf beim Ladevorgang nicht gepresst werden.
@@ -1829,7 +1807,7 @@ Böller für Schwarzpulver
 Als Beschusspulver ist ein Schwarzpulver nach Nummer 2.1.1 zu verwenden.
 
 2.2.2  
-Böller werden wie Schwarzpulverwaffen mit glatten Läufen beschossen. Die Haltbarkeit von Böllern, die zum Abschießen von Ladungen bestimmt sind, ist unter Zugrundelegung der in den Nummern 2.2.3 bis 2.2.7 vorgeschriebenen Ladedaten mit Beschussladungen zu prüfen. Böller sind mit einem Schuss je Rohr zu beschießen. Weist der Böller nach dem Beschuss Fehler auf oder ergeben sich Zweifel hinsichtlich der Haltbarkeit, so kann das Beschussamt einen zusätzlichen Schuss abgeben.Das Beschussamt hat auf dem Böller eine fortlaufende Gerätenummer und sein Prüfzeichen anzubringen.Ladetabellen für Böller:
+Böller werden wie Schwarzpulverwaffen mit glatten Läufen beschossen. Die Haltbarkeit von Böllern, die zum Abschießen von Ladungen bestimmt sind, ist unter Zugrundelegung der in den Nummern 2.2.3 bis 2.2.7 vorgeschriebenen Ladedaten mit Beschussladungen zu prüfen. Böller sind mit einem Schuss je Rohr zu beschießen. Weist der Böller nach dem Beschuss Fehler auf oder ergeben sich Zweifel hinsichtlich der Haltbarkeit, so kann das Beschussamt einen zusätzlichen Schuss abgeben. Das Beschussamt hat auf dem Böller eine fortlaufende Gerätenummer und sein Prüfzeichen anzubringen.Ladetabellen für Böller:
 
 2.2.3  
 Handböller (auch Schaftböller)
@@ -2682,6 +2660,9 @@ Feuerwaffen, Einsteckläufe, Einsätze und Schussapparate müssen im Sinne der N
 3.2  
 Der Prüfgegenstand muss den beigefügten Unterlagen, insbesondere den eingereichten Zeichnungen entsprechen.
 
+3.3  
+ 
+
 3.3.1  
 Die Abmessungen des Patronen- oder Kartuschenlagers und des Laufes müssen den in den Maßtafeln festgelegten Maßen entsprechen.
 
@@ -2698,7 +2679,7 @@ Bei Feuerwaffen nach § 7 Abs. 1 Satz 2 Nr. 1 des Gesetzes, Einsteckläufen und 
 bei Feuerwaffen zum einmaligen Abschießen nach § 7 Abs. 1 Satz 2 Nr. 2 des Gesetzes durch Abschießen von fünf Geräten gleicher Bauart,
 
 3.4.3  
-bei Schussapparaten mit zehn Beschusspatronen oder -kartuschen, die den nach Nummer 1.2.3 in Verbindung mit den Maßtafeln vorgeschriebenen Gasdruck entwickeln oder, falls keine Beschussmunition hergestellt werden kann, mit zehn Gebrauchspatronen oder -kartuschen mit der stärksten Ladung, wenn gleichzeitig Maßnahmen zur Erreichung des Gasdruckes im Sinne der Nummer 1.2.3 getroffen werden,
+bei Schussapparaten mit zehn Beschusspatronen oder -kartuschen, die den nach Nummer 1.2.3 in Verbindung mit den Maßtafeln vorgeschriebenen Gasdruck entwickeln, oder, falls keine Beschussmunition hergestellt werden kann, mit zehn Gebrauchspatronen oder -kartuschen mit der stärksten Ladung, wenn gleichzeitig Maßnahmen zur Erreichung des Gasdruckes im Sinne der Nummer 1.2.3 getroffen werden,
 
 3.4.4  
 bei der behördlichen Kontrolle nach § 22 mit zwei Patronen oder Kartuschen nach Nummer 3.4.1 bzw. Nummer 3.4.3.
@@ -2710,9 +2691,10 @@ Der Prüfgegenstand darf nach dem Beschuss an den am höchsten beanspruchten Tei
 Für die behördliche Kontrolle nach § 22 sind die Prüfgegenstände wahllos aus der laufenden Produktion oder dem Lager zu entnehmen.
 
 3.5  
+  
 
 3.5.1  
-Feuerwaffen, Schussapparate, nichttragbare Geräte, andere nicht tragbare Geräte, in denen zum Antrieb in Hülsen untergebrachte Treibladungen verwendet werden und die für technische Zwecke bestimmt sind und in Feuerwaffen eingebaute Einsteckläufe und Einsätze müssen leicht zu laden und zu entladen sein. Hülsen abgeschossener Munition und Magazine, unabhängig von der Zahl abgefeuerter Patronen oder Kartuschen, müssen sich leicht und ohne Gefahr entfernen lassen.Feuerwaffen, Schussapparate und nichttragbare Geräte, andere nicht tragbare Geräte, in denen zum Antrieb in Hülsen untergebrachte Treibladungen verwendet werden und die für technische Zwecke bestimmt sind, dürfen weder beim Laden noch beim Entladen unbeabsichtigt auslösen. Einsteckläufe müssen so beschaffen sein, dass sie nach Einbau in für sie vorgesehene Waffen weder beim Laden noch beim Entladen zu unbeabsichtigtem Auslösen führen. Schussapparate und nicht tragbare Geräte, andere nicht tragbare Geräte, in denen zum Antrieb in Hülsen untergebrachte Treibladungen verwendet werden und die für technische Zwecke bestimmt sind, dürfen keinen Explosionsknall oder Rückstoß verursachen, der nach dem Stand der Technik vermieden werden kann. Schussapparate müssen außerdem bei der Auslösung ohne Verkrampfung zu halten sein.Schussapparate müssen gegen ungewolltes Auslösen beim Zureichen, Anstoßen, Andrücken und Fallen ausreichend gesichert sein.
+Feuerwaffen, Schussapparate, nicht tragbare Geräte, andere nicht tragbare Geräte, in denen zum Antrieb in Hülsen untergebrachte Treibladungen verwendet werden und die für technische Zwecke bestimmt sind, und in Feuerwaffen eingebaute Einsteckläufe und Einsätze müssen leicht zu laden und zu entladen sein. Hülsen abgeschossener Munition und Magazine, unabhängig von der Zahl abgefeuerter Patronen oder Kartuschen, müssen sich leicht und ohne Gefahr entfernen lassen.Feuerwaffen, Schussapparate und nicht tragbare Geräte, andere nicht tragbare Geräte, in denen zum Antrieb in Hülsen untergebrachte Treibladungen verwendet werden und die für technische Zwecke bestimmt sind, dürfen weder beim Laden noch beim Entladen unbeabsichtigt auslösen. Einsteckläufe müssen so beschaffen sein, dass sie nach Einbau in für sie vorgesehene Waffen weder beim Laden noch beim Entladen zu unbeabsichtigtem Auslösen führen. Schussapparate und nicht tragbare Geräte, andere nicht tragbare Geräte, in denen zum Antrieb in Hülsen untergebrachte Treibladungen verwendet werden und die für technische Zwecke bestimmt sind, dürfen keinen Explosionsknall oder Rückstoß verursachen, der nach dem Stand der Technik vermieden werden kann. Schussapparate müssen außerdem bei der Auslösung ohne Verkrampfung zu halten sein.Schussapparate müssen gegen ungewolltes Auslösen beim Zureichen, Anstoßen, Andrücken und Fallen ausreichend gesichert sein.
 
 3.5.2  
 Schussapparate, die zum Verschießen fester Körper bestimmt sind – ausgenommen Leinenwurfgeräte –, werden nach der maximal erreichbaren Geschwindigkeit und Energie in die Klassen A und B eingeteilt. Als Geschwindigkeit gilt die mittlere Geschwindigkeit eines Prüfbolzens nach Durchdringen einer dünnen Prüfplatte aus Aluminiumknetlegierung zwischen zwei 0,5 m und 1,5 m von der Mündung entfernten Punkten der Flugbahn. Klasse A umfasst
@@ -2721,7 +2703,7 @@ Schussapparate, die zum Verschießen fester Körper bestimmt sind – ausgenomme
 Schussapparate, bei denen der Mittelwert der Geschwindigkeit 100 m/s und die obere Anteilsgrenze bei einseitiger Abgrenzung für 95 % der Grundgesamtheit bei einem Vertrauensniveau von 95 % 110 m/s nicht überschreitet;
 
 3.5.2.2  
-andere Schussapparate, bei denen der Mittelwert der Geschwindigkeit 100 m/s oder/und die obere Anteilsgrenze bei einseitiger Abgrenzung für 95 % der Grundgesamtheit bei einem Vertrauensniveau von 95 % 110 m/s überschreitet, jedoch der Mittelwert der Geschwindigkeit 160 m/s und die obere Anteilsgrenze bei einseitiger Abgrenzung 95 % der Grundgesamtheit bei einem Vertrauensniveau von 95 % 176 m/s nicht überschreitet und der Mittelwert der Auftreffenergie kleiner als 420 J ist.
+andere Schussapparate, bei denen der Mittelwert der Geschwindigkeit 100 m/s oder die obere Anteilsgrenze bei einseitiger Abgrenzung für 95 % der Grundgesamtheit bei einem Vertrauensniveau von 95 % 110 m/s überschreitet, jedoch der Mittelwert der Geschwindigkeit 160 m/s und die obere Anteilsgrenze bei einseitiger Abgrenzung 95 % der Grundgesamtheit bei einem Vertrauensniveau von 95 % 176 m/s nicht überschreitet und der Mittelwert der Auftreffenergie kleiner als 420 J ist.
 
 3.5.2.3  
 Klasse B umfasst sonstige Schussapparate, die zum Verschließen fester Körper bestimmt sind.
@@ -2736,16 +2718,16 @@ Schussapparate, die zum Verschießen fester Körper bestimmt sind – ausgenomme
 dürfen ohne die missbräuchliche Anwendung von Hilfsmitteln oder Vornahme von Änderungen nicht in den freien Raum auszulösen sein,
 
 3.5.3.2  
-dürfen mit Ausnahme der Schussapparate, die durch einen Schlag mit dem Hammer ausgelöst werden, nicht auszulösen sein, ohne dass sie vor Betätigung des Abzuges mit einer Kraft, die mindestens das 1,5-fache ihres Gewichts, jedoch nicht weniger als 50 N beträgt, gegen die Arbeitsfläche gedrückt werden.
+dürfen mit Ausnahme der Schussapparate, die durch einen Schlag mit dem Hammer ausgelöst werden, nicht auszulösen sein, ohne dass sie vor Betätigung des Abzuges mit einer Kraft, die mindestens das 1,5fache ihres Gewichts, jedoch nicht weniger als 50 N beträgt, gegen die Arbeitsfläche gedrückt werden.
 
 3.5.4  
-Schussapparate der Klasse A nach Nummer 3.5.2.2 dürfen nicht auszulösen sein, wenn die Laufachse und die Senkrechte zur Arbeitsfläche einen Winkel von mehr als 15° bilden,
+Schussapparate der Klasse A nach Nummer 3.5.2.2 dürfen nicht auszulösen sein, wenn die Laufachse und die Senkrechte zur Arbeitsfläche einen Winkel von mehr als 15° bilden.
 
 3.5.5  
-Schussapparate der Klasse B dürfen nicht auszulösen sein, wenn die Laufachse und die Senkrechte zur Arbeitsfläche einen Winkel von mehr als 7° bilden,
+Schussapparate der Klasse B dürfen nicht auszulösen sein, wenn die Laufachse und die Senkrechte zur Arbeitsfläche einen Winkel von mehr als 7° bilden.
 
 3.5.6  
-Schussapparate der Klasse B, die zum Eintreiben eines festen Körpers in einen Werkstoff dienen, müssen mit einer Schutzkappe versehen sein, die den Benutzer gegen Rückpraller, Splitter oder sonstige sich ablösendefeste Körper schützt. Dies gilt auch für Sonderschutzkappen. Der Mindestabstand zwischen Schutzkappenrand und Laufbohrungsachse muss bei zentrischer Einstellung mindestens 50 mm betragen.
+Schussapparate der Klasse B, die zum Eintreiben eines festen Körpers in einen Werkstoff dienen, müssen mit einer Schutzkappe versehen sein, die den Benutzer gegen Rückpraller, Splitter oder sonstige sich ablösende feste Körper schützt. Dies gilt auch für Sonderschutzkappen. Der Mindestabstand zwischen Schutzkappenrand und Laufbohrungsachse muss bei zentrischer Einstellung mindestens 50 mm betragen.
 
 3.5.7  
 Schussapparate, die dazu bestimmt sind, feste Körper anzutreiben, die sich nicht vom Schussapparat trennen, müssen mit einer Vorrichtung versehen sein, die den festen Körper zuverlässig abfängt. Diese Schussapparate müssen gegen ein ungewolltes Auslösen beim Fallen auf die Mündung aus einer Höhe von 1,50 m gesichert sein. Für Schussapparate, die durch einen getrennten Vorgang vor dem Auslösen von Hand gespannt werden, gilt dies sowohl in gespanntem als auch ungespanntem Zustand.
@@ -2787,10 +2769,10 @@ Bei Revolvern müssen die Ausströmungsöffnungen der Trommel gegenüber den Kar
 Bei Waffen mit versetzten Kartuschenlagern muss die Befestigung des Rohres bei dem Versuch, dieses zu entfernen, um einen zentrischen Lauf einschließlich Patronenlager einzusetzen, aufbrechen.
 
 4.2.7  
-Bei Geräten und Zusatzteilen, die der Signalgebung mittels pyrotechnischer Munition dienen, darf das Geschoss über keine größere Länge als das 1,75-fache seines Durchmessers oder das 1,2-fache seiner Länge geführt werden. Der für den Antrieb erforderliche mittlere Mündungsgasdruck, gemessen direkt vor der Antriebseite der pyrotechnischen Munition, darf den kritischen Gasdruckwert von 50 bar nicht überschreiten. Ein aufgeschraubter Zusatzlauf (Schießbecher) für pyrotechnische Munition muss in Verbindung mit einer Waffe gewährleisten, dass pyrotechnische Munition ohne Eigenantrieb eine Anfangsgeschwindigkeit von mindestens 20 m/s erhält und die Zuordnung zur Waffe auf Grund entsprechender Kennzeichnung eindeutig ist.
+Bei Geräten und Zusatzteilen, die der Signalgebung mittels pyrotechnischer Munition dienen, darf das Geschoss über keine größere Länge als das 1,75fache seines Durchmessers oder das 1,2fache seiner Länge geführt werden. Der für den Antrieb erforderliche mittlere Mündungsgasdruck, gemessen direkt vor der Antriebseite der pyrotechnischen Munition, darf den kritischen Gasdruckwert von 50 bar nicht überschreiten. Ein aufgeschraubter Zusatzlauf (Schießbecher) für pyrotechnische Munition muss in Verbindung mit einer Waffe gewährleisten, dass pyrotechnische Munition ohne Eigenantrieb eine Anfangsgeschwindigkeit von mindestens 20 m/s erhält und die Zuordnung zur Waffe auf Grund entsprechender Kennzeichnung eindeutig ist.
 
 4.3  
-Bei Schusswaffen, die aus mehreren Teilen bestehen und auseinandergenommen werden können, muss sichergestellt sein, dass mit den einzelnen Teilen nicht geschossen werden kann.
+Bei Schusswaffen, die aus mehreren Teilen bestehen und auseinander genommen werden können, muss sichergestellt sein, dass mit den einzelnen Teilen nicht geschossen werden kann.
 
 4.4  
 Ein Versagungsgrund nach § 8 Abs. 2 Nr. 4 des Gesetzes ist nicht gegeben, wenn bei der Umarbeitung der Schusswaffe
@@ -2820,7 +2802,7 @@ Der Satzinhalt pyrotechnischer Munition muss so beschaffen, angeordnet und verte
 Die Zündvorrichtungen pyrotechnischer Munition müssen deutlich erkennbar und gegen unbeabsichtigtes Entzünden zuverlässig gesichert sein, insbesondere durch Schutzkappen oder gleichwertige Vorrichtungen oder durch die Art ihrer Verpackung.
 
 5.1.5  
-Die pyrotechnischen Sätze in pyrotechnischer Munition dürfen nicht selbstentzündlich sein; eine vierwöchige Lagerung bei + 55° und ≤ 20 % relativer Luftfeuchte (Klima 55/20 DIN 50015, Ausgabe August 1975) darf an den Sätzen und am Gegenstand keine Veränderungen hervorrufen, die eine Gefahrenerhöhung bedeuten. Enthält die pyrotechnische Munition verschiedene Sätze, so dürfen die Bestandteile dieser Sätze nicht in eine Reaktion untereinander treten können, die zur Selbstentzündung führt.
+Die pyrotechnischen Sätze in pyrotechnischer Munition dürfen nicht selbstentzündlich sein; eine vierwöchige Lagerung bei + 55 °C und≤ 20 % relativer Luftfeuchte (Klima 55/20 DIN 50015, Ausgabe August 1975) darf an den Sätzen und am Gegenstand keine Veränderungen hervorrufen, die eine Gefahrenerhöhung bedeuten. Enthält die pyrotechnische Munition verschiedene Sätze, so dürfen die Bestandteile dieser Sätze nicht in eine Reaktion untereinander treten können, die zur Selbstentzündung führt.
 
 5.1.6  
 Die pyrotechnischen Sätze in pyrotechnischer Munition dürfen folgende Stoffe nicht enthalten:
@@ -2835,7 +2817,7 @@ Ammoniumsalze oder Amine zusammen mit Chloraten, außer in raucherzeugenden Gemi
 Enthält die pyrotechnische Munition mehrere zulässige Sätze, so sind diese so anzuordnen, dass keine Mischungen der in Nummer 5.1.6 genannten Art entstehen können.
 
 5.1.8  
-In den Sätzen der pyrotechnischen Munition, die Chlorate enthalten, darf der Anteil an Chlorate 70 % nicht übersteigen. In Leuchtsätzen auf Bariumchloratgrundlage sowie in Pfeifsätzen darf der Chloratanteil bis auf 80 % erhöht werden.
+In den Sätzen der pyrotechnischen Munition, die Chlorate enthalten, darf der Anteil an Chloraten 70 % nicht übersteigen. In Leuchtsätzen auf Bariumchloratgrundlage sowie in Pfeifsätzen darf der Chloratanteil bis auf 80 % erhöht werden.
 
 5.1.9  
 Geschosse oder Geschossreste von senkrecht nach oben abgeschossener pyrotechnischer Munition dürfen nicht brennend oder glühend auf den Erdboden fallen; sie sollen spätestens fünf Meter über dem Erdboden erloschen sein. Bei pyrotechnischen Geschossen ohne Eigenantrieb, die zum Verschießen aus dem Rohr oder aufgeschraubten Zusatzlauf (Schießbecher) von Schreckschuss- und Signalwaffen bestimmt sind, bezieht sich diese Anforderung auf eine Anfangsgeschwindigkeit von 20 m/s.
@@ -2868,7 +2850,7 @@ sie durch Brand nicht zur Explosion gebracht werden kann und
 sie durch Schlag nicht zur Explosion gebracht werden kann.
 
 5.2.2  
-Sofern eine der Forderungen nach Nr. 5.2.1 nicht erfüllt wird, ist die pyrotechnische Munition der Klasse PM II zuzuordnen.
+Sofern eine der Forderungen nach Nummer 5.2.1 nicht erfüllt wird, ist die pyrotechnische Munition der Klasse PM II zuzuordnen.
 
 5.3  
 Kaliberanforderungen an pyrotechnische Munition
@@ -2889,19 +2871,19 @@ Der Gasdruck muss bei pyrotechnischer Patronenmunition so bemessen sein, dass Fe
 Der von der Patronenmunition entwickelte Gasdruck darf den zulässigen Maximaldruck nicht überschreiten.
 
 **6**  
-**Technische Anforderungen an umgebaute und unbrauchbar gemachte Schusswaffen oder aus Schusswaffen hergestellte Gegenstände nach § 9 Abs. 1 Nr. 1 und 2 des Beschussgesetzes**
+**Technische Anforderungen an umgebaute und unbrauchbar gemachte Schusswaffen oder aus Schusswaffen hergestellte Gegenstände nach § 9 Abs. 1 Nr. 1 und 2 des Gesetzes**
 
 6.1  
 Definition
 
 6.1.1  
-Schusswaffen i. S. von § 9 Abs. 1 Nr. 1 des Gesetzes i. V. mit Anlage 2, Abschnitt 2, Unterabschnitt 2 Nr. 1.5 WaffG, sind veränderte Langwaffen für Zier- oder Sammlerzwecke, zu Theateraufführungen, Film- oder Fernsehaufnahmen, die nur Kartuschenmunition verschießen können.
+Schusswaffen im Sinne von § 9 Abs. 1 Nr. 1 des Gesetzes in Verbindung mit Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr. 1.5 des Waffengesetzes sind veränderte Langwaffen für Zier- oder Sammlerzwecke, zu Theateraufführungen, Film- oder Fernsehaufnahmen, die nur Kartuschenmunition verschießen können.
 
 6.1.2  
-Unbrauchbar gemachte Schusswaffen oder aus Schusswaffen hergestellt Gegenstände i. S. von § 9 Abs. 1 Nr. 2 i. V. mit Anlage 1, Abschnitt 1, Unterabschnitt 1, Nr. 1.4 des WaffG, sind erlaubnispflichtige Waffen, die auf Dauer so abgeändert sind, dass sich weder Munition noch Treibladungen laden oder verschießen lassen.
+Unbrauchbar gemachte Schusswaffen oder aus Schusswaffen hergestellte Gegenstände im Sinne von § 9 Abs. 1 Nr. 2 in Verbindung mit Anlage 1 Abschnitt 1 Unterabschnitt 1 Nr. 1.4 des Waffengesetzes sind erlaubnispflichtige Waffen, die auf Dauer so abgeändert sind, dass sich weder Munition noch Treibladungen laden oder verschießen lassen.
 
 6.2  
-Umbau-/Abänderungs- und Prüfvorschriften für Schusswaffen nach Nr. 6.1.1
+Umbau-/Abänderungs- und Prüfvorschriften für Schusswaffen nach Nummer 6.1.1
 
 6.2.1  
 Schusswaffen sind so abzuändern oder auszuführen, dass
@@ -2910,31 +2892,31 @@ Schusswaffen sind so abzuändern oder auszuführen, dass
 das Patronenlager dauerhaft so verändert ist, damit sich außer Kartuschenmunition nach der Tabelle 5 der Maßtafeln keine sonstige Patronen-, pyrotechnische Munition oder Treibladungen laden und abfeuern lassen,
 
 –  
-der Lauf in dem dem Patronenlager zugekehrten Drittel mind. sechs kalibergroße, nach vorn gerichtete unverdeckte Bohrungen oder andere gleichwertige Laufveränderungen aufweist und vor diesen in Richtung Laufmündung mit einem kalibergroßen gehärteten Stahlstift dauerhaft durch Verschweißen im Abstand des halben Kaliberdurchmessers vor der Mündung verschlossen ist, damit sich keine Geschosse vorladen lassen,
+der Lauf in dem dem Patronenlager zugekehrten Drittel mindestens sechs kalibergroße, nach vorn gerichtete unverdeckte Bohrungen oder andere gleichwertige Laufveränderungen aufweist und vor diesen in Richtung Laufmündung mit einem kalibergroßen gehärteten Stahlstift dauerhaft durch Verschweißen im Abstand des halben Kaliberdurchmessers vor der Mündung verschlossen ist, damit sich keine Geschosse vorladen lassen,
 
 –  
-der Lauf mit dem Gehäuse fest verbunden ist, sofern es sich um eine Waffe handelt, bei der der Lauf ohne Anwendung von Werkzeugen ausgetauscht werden kann
+der Lauf mit dem Gehäuse fest verbunden ist, sofern es sich um eine Waffe handelt, bei der der Lauf ohne Anwendung von Werkzeugen ausgetauscht werden kann.
 
 6.2.2  
 Die Änderungen müssen so vorgenommen sein, dass sie nicht mit allgemein gebräuchlichen Werkzeugen rückgängig gemacht und die Gegenstände nicht so geändert werden können, dass aus ihnen Geschosse, Patronen- oder pyrotechnische Munition verschossen werden kann.
 
 6.2.3  
-Dem schriftlichen Antrag zur Zulassung sind ein Muster sowie Zeichnungen aus denen die Art und Weise der Umbaumaßnahme mit Angabe der verwendeten Materialien ersichtlich ist, beizufügen. Dieses Muster ist bei der zulassenden Stelle zu hinterlegen.
+Dem schriftlichen Antrag zur Zulassung sind ein Muster sowie Zeichnungen, aus denen die Art und Weise der Umbaumaßnahme mit Angabe der verwendeten Materialien ersichtlich ist, beizufügen. Dieses Muster ist bei der zulassenden Stelle zu hinterlegen.
 
 6.2.4  
-Der Antragsteller erhält einen Zulassungsbescheid für das geprüfte Waffenmodell mit der Auflage das Zulassungszeichen nach Anlage II Abb. 11 mit der erteilten Kennziffer auf jeder Waffe aufzubringen.
+Der Antragsteller erhält einen Zulassungsbescheid für das geprüfte Waffenmodell mit der Auflage, das Zulassungszeichen nach Anlage II Abbildung 11 mit der erteilten Kennziffer auf jeder Waffe aufzubringen.
 
 6.2.5  
-Sofern es sich um Einzelstücke handelt, ist bei jeder Waffe die Umbaumaßnahme entsprechend 6.2.1 und 6.2.2 zu prüfen. Die jeweilige Kennziffer ist unterhalb des Kennzeichens nach Anlage II, Abbildung 11, aufzubringen.
+Sofern es sich um Einzelstücke handelt, ist bei jeder Waffe die Umbaumaßnahme entsprechend den Nummern 6.2.1 und 6.2.2 zu prüfen. Die jeweilige Kennziffer ist unterhalb des Kennzeichens nach Anlage II Abbildung 11 aufzubringen.
 
 6.2.6  
 Außerdem sind umgebaute Schusswaffen einer Beschussprüfung nach § 3 des Gesetzes zu unterziehen, mit Ausnahme der Schusswaffen nach § 4 Abs. 1 Nr. 2.
 
 6.3  
-Unbrauchbar gemachte Schusswaffen oder aus Schusswaffen hergestellte Gegenstände nach Nr. 6.1.2
+Unbrauchbar gemachte Schusswaffen oder aus Schusswaffen hergestellte Gegenstände nach Nummer 6.1.2
 
 6.3.1  
-Schusswaffen sind unbrauchbar wenn,
+Schusswaffen sind unbrauchbar, wenn
 
 –  
 das Patronenlager dauerhaft so verändert ist, dass weder Munition noch Treibladungen geladen werden können,
@@ -2952,7 +2934,7 @@ bei Kurzwaffen der Lauf auf seiner ganzen Länge, bei Pistolen im Patronenlager 
 bis zur Laufmündung einen durchgehenden Schlitz von mindestens 4 mm Breite oder
 
 –  
-im Abstand von jeweils 30 mm, mindestens jedoch 3 kalibergroße Bohrungen oder
+im Abstand von jeweils 30 mm, mindestens jedoch drei kalibergroße Bohrungen oder
 
 –  
 andere gleichwertige Laufveränderungen
@@ -2963,27 +2945,27 @@ aufweist
 bei Langwaffen der Lauf unmittelbar in dem dem Patronenlager zugekehrten Drittel
 
 –  
-mindestens 6 kalibergroße Bohrungen oder
+mindestens sechs kalibergroße Bohrungen oder
 
 –  
 andere gleichwertige Laufveränderungen
 
-aufweist und vor diesen in Richtung der Laufmündung mit einem kaliber- großen gehärteten Stahlstift verschweißt und dauerhaft verschlossen ist.
+aufweist und vor diesen in Richtung der Laufmündung mit einem kalibergroßen gehärteten Stahlstift verschweißt und dauerhaft verschlossen ist.
 
 6.3.2  
 Schusswaffen oder deren wesentliche Teile sind dann dauerhaft unbrauchbar gemacht, wenn ihre Schussfähigkeit oder Funktion mit allgemein gebräuchlichen Werkzeugen nicht wieder hergestellt werden können.
 
 6.3.3  
-Dem schriftlichen Antrag zur Zulassung sind ein Muster sowie Zeichnungen aus denen die Art und Weise der Unbrauchbarmachung mit Angabe der verwendeten Materialien ersichtlich ist, beizufügen. Dieses Muster ist bei der zulassenden Stelle zu hinterlegen.
+Dem schriftlichen Antrag zur Zulassung sind ein Muster sowie Zeichnungen, aus denen die Art und Weise der Unbrauchbarmachung mit Angabe der verwendeten Materialien ersichtlich ist, beizufügen. Dieses Muster ist bei der zulassenden Stelle zu hinterlegen.
 
 6.3.4  
-Der Antragsteller erhält einen Zulassungsbescheid für das geprüfte Waffenmodell mit der Auflage das Zulassungszeichen nach Anlage II Abb. 11 mit der erteilten Kennziffer auf jeder Waffen aufzubringen.
+Der Antragsteller erhält einen Zulassungsbescheid für das geprüfte Waffenmodell mit der Auflage, das Zulassungszeichen nach Anlage II Abbildung 11 mit der erteilten Kennziffer auf jeder Waffen aufzubringen.
 
 6.3.5  
-Sofern es sich um Einzelstücke handelt, ist bei jeder Waffe die Umbaumaßnahme entsprechend 6.3.1 und 6.3.2 zu prüfen. Die jeweilige Kennziffer ist unterhalb des Kennzeichens nach Anlage II, Abbildung 11, aufzubringen.
+Sofern es sich um Einzelstücke handelt, ist bei jeder Waffe die Umbaumaßnahme entsprechend den Nummern 6.3.1 und 6.3.2 zu prüfen. Die jeweilige Kennziffer ist unterhalb des Kennzeichens nach Anlage II Abbildung 11 aufzubringen.
 
 6.3.6  
-Die Festlegungen der Nr. 6.3.1 bis 6.3.5 sind sinngemäß auch auf aus Schusswaffen hergestellte Gegenstände anzuwenden.
+Die Festlegungen der Nummern 6.3.1 bis 6.3.5 sind sinngemäß auch auf aus Schusswaffen hergestellte Gegenstände anzuwenden.
 
 ### Anlage II Beschusszeichen, Prüfzeichen
 
