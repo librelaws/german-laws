@@ -2,7 +2,7 @@ Verordnung zur Durchführung des Fahrpersonalgesetzes (FPersV)
 =============================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 19.12.2011 I 2835
+Zuletzt geändert durch Art. 475 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -38,13 +38,13 @@ Fahrzeuge, die in § 18 genannt sind,
 Fahrzeuge, die in Artikel 3 Buchstabe b bis i der Verordnung (EG) Nr. 561/2006 genannt sind,
 
 3.  
-Fahrzeuge, die zur Beförderung von Material, Ausrüstungen oder Maschinen, die der Fahrer zur Ausübung seiner beruflichen Tätigkeit benötigt, verwendet werden, soweit das Lenken nicht die Haupttätigkeit des Fahrers darstellt,
+Fahrzeuge, die zur Beförderung von Material, Ausrüstungen oder Maschinen, die der Fahrer zur Ausübung seiner beruflichen Tätigkeit benötigt, verwendet werden, soweit das Lenken des Fahrzeugs nicht die Haupttätigkeit des Fahrers darstellt,
 
 3a.  
-Fahrzeuge, die zur Beförderung von Gütern dienen, die im Betrieb, dem der Fahrer angehört, in handwerklicher Fertigung oder Kleinserie hergestellt wurden, oder deren Reparatur im Betrieb vorgesehen ist oder dort durchgeführt wurde, wenn die Lenktätigkeit nicht die Haupttätigkeit des Fahrers ausmacht,
+Fahrzeuge, die zur Beförderung von Gütern, die im Betrieb, dem der Fahrer angehört, in handwerklicher Fertigung oder Kleinserie hergestellt wurden oder deren Reparatur im Betrieb vorgesehen ist oder durchgeführt wurde, verwendet werden, soweit das Lenken des Fahrzeugs nicht die Haupttätigkeit des Fahrers darstellt,
 
 4.  
-Fahrzeuge, die als Verkaufswagen auf örtlichen Märkten oder für den ambulanten Verkauf verwendet werden und für diese Zwecke besonders ausgestattet sind, soweit das Lenken des Fahrzeugs nicht die Haupttätigkeit des Fahrers darstellt, und
+Fahrzeuge, die als Verkaufswagen auf öffentlichen Märkten oder für den ambulanten Verkauf verwendet werden und für diese Zwecke besonders ausgestattet sind, soweit das Lenken des Fahrzeugs nicht die Haupttätigkeit des Fahrers darstellt, und
 
 5.  
 selbstfahrende Arbeitsmaschinen nach § 2 Nr. 17 der Fahrzeug-Zulassungsverordnung.
@@ -55,7 +55,7 @@ selbstfahrende Arbeitsmaschinen nach § 2 Nr. 17 der Fahrzeug-Zulassungsverordnu
 Beträgt der durchschnittliche Haltestellenabstand mehr als drei Kilometer, so ist nach einer Lenkzeit von viereinhalb Stunden eine Fahrtunterbrechung von mindestens 30 zusammenhängenden Minuten einzulegen. Diese Fahrtunterbrechung kann durch zwei Teilunterbrechungen von jeweils mindestens 20 zusammenhängenden Minuten oder drei Teilunterbrechungen von jeweils mindestens 15 Minuten ersetzt werden. Die Teilunterbrechungen müssen innerhalb der Lenkzeit von höchstens viereinhalb Stunden oder teils innerhalb dieser Zeit und teils unmittelbar danach liegen.
 
 2.  
-Beträgt der durchschnittliche Haltestellenabstand nicht mehr als drei Kilometer, sind als Fahrtunterbrechungen auch Arbeitsunterbrechungen ausreichend, soweit diese nach den Dienst- und Fahrplänen in der Arbeitsschicht enthalten sind (z. B. Wendezeiten). Voraussetzung hierfür ist, dass die Gesamtdauer der Arbeitsunterbrechungen mindestens ein Sechstel der vorgesehenen Lenkzeit beträgt. Arbeitsunterbrechungen unter zehn Minuten werden bei der Berechnung der Gesamtdauer nicht berücksichtigt. Durch Tarifvertrag kann vereinbart werden, dass Arbeitsunterbrechungen von mindestens acht Minuten berücksichtigt werden können, wenn ein Ausgleich vorgesehen ist, der die ausreichende Erholung des Fahrers erwarten lässt. Für Fahrer, die nicht in einem Arbeitsverhältnis stehen, kann die nach Landesrecht zuständige Behörde entsprechende Abweichungen bewilligen.
+Beträgt der durchschnittliche Haltestellenabstand nicht mehr als drei Kilometer, sind als Fahrtunterbrechungen auch Arbeitsunterbrechungen ausreichend, soweit diese nach den Dienst- und Fahrplänen in der Arbeitsschicht enthalten sind (z. B. Wendezeiten). Voraussetzung hierfür ist, dass die Gesamtdauer der Arbeitsunterbrechungen mindestens ein Sechstel der vorgesehenen Lenkzeit beträgt. Nach einer ununterbrochenen Lenkzeit von viereinhalb Stunden ist eine Fahrtunterbrechung von mindestens 45 Minuten erforderlich. Arbeitsunterbrechungen unter zehn Minuten werden bei der Berechnung der Gesamtdauer nicht berücksichtigt. Durch Tarifvertrag kann vereinbart werden, dass Arbeitsunterbrechungen von mindestens acht Minuten berücksichtigt werden können, wenn ein Ausgleich vorgesehen ist, der die ausreichende Erholung des Fahrers erwarten lässt. Für Fahrer, die nicht in einem Arbeitsverhältnis stehen, kann die nach Landesrecht zuständige Behörde entsprechende Abweichungen bewilligen.
 
 (4) Abweichend von Absatz 1 in Verbindung mit Artikel 8 Abs. 6 der Verordnung (EG) Nr. 561/2006 sind Fahrer der in Absatz 1 Nr. 2 genannten Fahrzeuge nicht zur Einlegung einer wöchentlichen Ruhezeit nach höchstens sechs 24-Stunden-Zeiträumen verpflichtet. Sie können die wöchentlich einzuhaltenden Ruhezeiten auf einen Zweiwochenzeitraum verteilen.
 
@@ -95,7 +95,7 @@ Ort des Fahrtendes und
 6.  
 Kilometerstände der benutzten Fahrzeuge bei Fahrtbeginn und Fahrtende.
 
-Der Fahrer hat alle Eintragungen jeweils unverzüglich zu Beginn und am Ende der Lenkzeiten, Fahrtunterbrechungen und Ruhezeiten vorzunehmen. Die Aufzeichnungen der laufenden Woche und der der laufenden Woche vorausgegangenen 15 Kalendertage sind vom Fahrer mitzuführen und den zuständigen Personen auf Verlangen zur Prüfung auszuhändigen; ab dem 1. Januar 2008 umfasst dieser Zeitraum den laufenden Tag und die vorausgegangenen 28 Kalendertage. Hat der Fahrer während des in Satz 4 genannten Zeitraums ein Fahrzeug gelenkt, für das
+Der Fahrer hat alle Eintragungen jeweils unverzüglich zu Beginn und am Ende der Lenkzeiten, Fahrtunterbrechungen und Ruhezeiten vorzunehmen. Die Aufzeichnungen des laufenden Tages und der vorausgegangenen 28 Kalendertage sind vom Fahrer mitzuführen und den zuständigen Personen auf Verlangen zur Prüfung auszuhändigen. Hat der Fahrer während des in Satz 4 genannten Zeitraums ein Fahrzeug gelenkt, für das
 
 1.  
 die Verordnung (EWG) Nr. 3821/85 des Rates vom 20. Dezember 1985 über das Kontrollgerät im Straßenverkehr (ABl. EG Nr. L 370 S. 8) in der jeweils geltenden Fassung oder
@@ -103,7 +103,7 @@ die Verordnung (EWG) Nr. 3821/85 des Rates vom 20. Dezember 1985 über das Kontr
 2.  
 das Europäische Übereinkommen vom 1. Juli 1970 über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR) (BGBl. 1974 II S. 1473) in der jeweils geltenden Fassung gilt,
 
-sind für dieses Fahrzeug Nachweise nach Maßgabe von Artikel 15 der Verordnung (EWG) Nr. 3821/85 oder Artikel 12 des Anhangs zum AETR an Stelle der Aufzeichnungen mitzuführen. Der Fahrer hat dem Unternehmer alle Aufzeichnungen unverzüglich nach Ablauf der Mitführungspflicht auszuhändigen. Der Unternehmer hat
+sind für dieses Fahrzeug Nachweise nach Maßgabe von Artikel 15 Absatz 7 der Verordnung (EWG) Nr. 3821/85 und Artikel 34 Absatz 1 Satz 1 der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Fahrtenschreiber im Straßenverkehr, zur Aufhebung der Verordnung (EWG) Nr. 3821/85 des Rates über das Kontrollgerät im Straßenverkehr und zur Änderung der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates zur Harmonisierung bestimmter Sozialvorschriften im Straßenverkehr (ABl. L 60 vom 28.2.2014, S. 1) oder Artikel 12 des Anhangs zum AETR an Stelle der Aufzeichnungen mitzuführen. Der Fahrer hat dem Unternehmer alle Aufzeichnungen unverzüglich nach Ablauf der Mitführungspflicht auszuhändigen. Der Unternehmer hat
 
 1.  
 dem Fahrer entsprechend dem Muster der Anlage 1 geeignete Vordrucke zur Fertigung der Aufzeichnungen in ausreichender Anzahl auszuhändigen,
@@ -117,13 +117,19 @@ die Aufzeichnungen ein Jahr lang nach Aushändigung durch den Fahrer in chronolo
 4.  
 die Aufzeichnungen nach Ablauf der Aufbewahrungsfrist bis zum 31. März des folgenden Kalenderjahres zu vernichten, soweit sie nicht zur Erfüllung der Aufbewahrungspflichten nach § 16 Abs. 2 und § 21a Abs. 7 des Arbeitszeitgesetzes, § 147 Abs. 1 Nr. 5 in Verbindung mit Abs. 3 der Abgabenordnung und § 28f Abs. 1 Satz 1 des Vierten Buches Sozialgesetzbuch benötigt werden.
 
-(7) Ist das Fahrzeug mit einem Kontrollgerät nach Anhang I oder I B zur Verordnung (EWG) Nr. 3821/85 oder einem Fahrtschreiber gemäß § 57a der Straßenverkehrs-Zulassungs-Ordnung ausgerüstet, haben Fahrer der in Absatz 1 Nr. 1 genannten Fahrzeuge diese entsprechend den Artikeln 13, 14 Abs. 1 Unterabs. 2, Abs. 4 Buchstabe a Unterabs. 3 Satz 2 und 3, Artikel 15 Abs. 1 Unterabs. 1, 3 und 5, Abs. 2, 3, 5, 5a und 7 und Artikel 16 Abs. 2 Unterabs. 1 und Abs. 3 der Verordnung (EWG) Nr. 3821/85 oder § 57a Abs. 2 der Straßenverkehrs-Zulassungs-Ordnung zu betreiben. Im Falle der Verwendung eines Fahrtschreibers gemäß § 57a der Straßenverkehrs-Zulassungs-Ordnung hat der Fahrer die Schicht und die Pausen jeweils bei Beginn und Ende auf dem Schaublatt zu vermerken. Der Unternehmer hat bei Verwendung eines Kontrollgerätes nach Anhang I der Verordnung (EWG) Nr. 3821/85 oder eines Fahrtschreibers dem Fahrer vor Beginn der Fahrt die für das Gerät zugelassenen Schaublätter in ausreichender Anzahl auszuhändigen und dafür zu sorgen, dass das Kontrollgerät nach Anhang I oder I B zur Verordnung (EWG) Nr. 3821/85 oder der Fahrtschreiber ordnungsgemäß benutzt wird; Absatz 6 Satz 4 bis 6 und 7 Nr. 2 bis 4 gilt entsprechend. Hat der Fahrer eines mit einem Kontrollgerät nach Anhang I B zur Verordnung (EWG) Nr. 3821/85 ausgerüsteten Fahrzeugs in dem in Absatz 6 Satz 4 genannten Zeitraum ein Fahrzeug gelenkt, das mit einem Kontrollgerät nach Anhang I zur Verordnung (EWG) Nr. 3821/85 ausgerüstet ist, hat er die Schaublätter dieses Kontrollgerätes während der Fahrt ebenfalls mitzuführen und den zuständigen Personen auf Verlangen zur Prüfung auszuhändigen.
+(7) Ist das Fahrzeug mit einem Kontrollgerät nach Anhang I oder I B zur Verordnung (EWG) Nr. 3821/85 oder einem Fahrtschreiber gemäß § 57a der Straßenverkehrs-Zulassungs-Ordnung ausgerüstet, haben Fahrer der in Absatz 1 Nr. 1 genannten Fahrzeuge diese entsprechend den Artikeln 13, 14 Abs. 1 Unterabs. 2, Abs. 4 Buchstabe a Unterabs. 3 Satz 2 und 3, Artikel 15 Absatz 1 Unterabsatz 3 und 5 und Absatz 7 und Artikel 16 Absatz 2 Unterabsatz 1 und Absatz 3 der Verordnung (EWG) Nr. 3821/85 und Artikel 34 Absatz 1, 2, 3 Unterabsatz 1, Absatz 4 bis 6 und Absatz 7 Unterabsatz 1 der Verordnung (EU) Nr. 165/2014 oder § 57a Abs. 2 der Straßenverkehrs-Zulassungs-Ordnung zu betreiben. Im Falle der Verwendung eines Fahrtschreibers gemäß § 57a der Straßenverkehrs-Zulassungs-Ordnung hat der Fahrer die Schicht und die Pausen jeweils bei Beginn und Ende auf dem Schaublatt zu vermerken. Der Unternehmer hat bei Verwendung eines Kontrollgerätes nach Anhang I der Verordnung (EWG) Nr. 3821/85 oder eines Fahrtschreibers dem Fahrer vor Beginn der Fahrt die für das Gerät zugelassenen Schaublätter in ausreichender Anzahl auszuhändigen und dafür zu sorgen, dass das Kontrollgerät nach Anhang I oder I B zur Verordnung (EWG) Nr. 3821/85 oder der Fahrtschreiber ordnungsgemäß benutzt wird; Absatz 6 Satz 4 bis 6 und 7 Nr. 2 bis 4 gilt entsprechend. Hat der Fahrer eines mit einem Kontrollgerät nach Anhang I B zur Verordnung (EWG) Nr. 3821/85 ausgerüsteten Fahrzeugs in dem in Absatz 6 Satz 4 genannten Zeitraum ein Fahrzeug gelenkt, das mit einem Kontrollgerät nach Anhang I zur Verordnung (EWG) Nr. 3821/85 ausgerüstet ist, hat er die Schaublätter dieses Kontrollgerätes während der Fahrt ebenfalls mitzuführen und den zuständigen Personen auf Verlangen zur Prüfung auszuhändigen.
+
+(8) Der Unternehmer, der Fahrer mit Fahrzeugen nach Absatz 1 Nummer 2 einsetzt, hat zum Nachweis der in Absatz 1 genannten Zeiten vor Fahrtantritt Fahrpläne und Arbeitszeitpläne nach Maßgabe des Artikels 16 Absatz 2 Satz 1 und Absatz 3 Buchstabe a und b der Verordnung (EG) Nr. 561/2006 aufzustellen und ein Jahr nach Ablauf des Gültigkeitszeitraums aufzubewahren. Fahrer von Fahrzeugen nach Absatz 1 Nummer 2 haben einen Auszug aus dem Arbeitszeitplan und eine Ausfertigung des Fahrplans, der die gerade durchgeführte Fahrt betrifft, mitzuführen.
+
+(9) Absatz 8 gilt nicht, wenn das Fahrzeug mit einem Fahrtschreiber nach § 57a Absatz 1 der Straßenverkehrs-Zulassungs-Ordnung in der bis zum 31. Dezember 2012 geltenden Fassung ausgerüstet ist. In diesem Fall findet § 57a Absatz 2 und § 57b der Straßenverkehrs-Zulassungs-Ordnung Anwendung.
+
+(10) Absatz 8 gilt nicht, wenn das Fahrzeug mit einem Kontrollgerät im Sinne des Anhangs I oder des Anhangs I B der Verordnung (EWG) Nr. 3821/85 oder der Verordnung (EU) Nr. 165/2014 ausgerüstet ist. In diesem Fall findet § 57a Absatz 3 der Straßenverkehrs-Zulassungs-Ordnung Anwendung.
 
 ### § 2 Kontrollgerät nach Anhang I B zur Verordnung (EWG) Nr. 3821/85
 
-(1) Ein Fahrer, der ein Fahrzeug lenkt, das in den Anwendungsbereich der Verordnung (EG) Nr. 561/2006 fällt, oder der Lenk- oder Ruhezeiten nach § 1 dieser Verordnung einzuhalten hat und dabei ein Kontrollgerät gemäß Anhang I B zur Verordnung (EWG) Nr. 3821/85 betreibt, hat das Kontrollgerät entsprechend den Artikeln 13, 14 Abs. 1 Unterabs. 2, Abs. 4 Buchstabe a Unterabs. 3 Satz 2 und 3, Artikel 15 Abs. 1 Unterabs. 1, 3 und 5, Abs. 2, 3, 5, 5a und 7 und Artikel 16 Abs. 2 Unterabs. 1 und Abs. 3 der Verordnung (EWG) Nr. 3821/85 zu bedienen und die Benutzerführung zu beachten.
+(1) Ein Fahrer, der ein Fahrzeug lenkt, das in den Anwendungsbereich der Verordnung (EG) Nr. 561/2006 fällt, oder der Lenk- oder Ruhezeiten nach § 1 dieser Verordnung einzuhalten hat und dabei ein Kontrollgerät gemäß Anhang I B zur Verordnung (EWG) Nr. 3821/85 betreibt, hat das Kontrollgerät entsprechend den Artikeln 13, 14 Abs. 1 Unterabs. 2, Abs. 4 Buchstabe a Unterabs. 3 Satz 2 und 3, Artikel 15 Absatz 1 Unterabsatz 3 und 5 und Absatz 7 und Artikel 16 Absatz 2 Unterabsatz 1 und Absatz 3 der Verordnung (EWG) Nr. 3821/85 und Artikel 34 Absatz 1, 2 und 3 Unterabsatz 1 und Absatz 4 bis 7 der Verordnung (EU) Nr. 165/2014 zu bedienen und die Benutzerführung zu beachten.
 
-(2) Die in Artikel 15 Abs. 3 zweiter Spiegelstrich Buchstabe b bis d der Verordnung (EWG) Nr. 3821/85 genannten Zeiträume müssen bei Übernahme des Fahrzeugs auf der Fahrerkarte unter Benutzung der im Kontrollgerät vorgesehenen manuellen Eingabemöglichkeiten eingetragen werden, wenn der Fahrer vor Übernahme des Fahrzeugs solche Zeiten verbracht hat.
+(2) Die in Artikel 34 Absatz 5 Buchstabe b Ziffer ii bis iv der Verordnung (EU) Nr. 165/2014 genannten Zeiträume müssen bei Übernahme des Fahrzeugs auf der Fahrerkarte unter Benutzung der im Kontrollgerät vorgesehenen manuellen Eingabemöglichkeiten eingetragen werden, wenn der Fahrer vor Übernahme des Fahrzeugs solche Zeiten verbracht hat.
 
 (3) Die nach Artikel 15 Abs. 1 Unterabs. 5 der Verordnung (EWG) Nr. 3821/85 vorgeschriebenen Ausdrucke hat der Fahrer den zuständigen Personen auf Verlangen vorzulegen. Der Unternehmer hat die Ausdrucke in chronologischer Reihenfolge und in lesbarer Form außerhalb des Fahrzeugs aufzubewahren und den zuständigen Personen auf Verlangen vorzulegen.
 
@@ -155,7 +161,7 @@ Abschnitt 2 Organisation
 
 ### § 3 Zertifizierungsinfrastruktur
 
-Die Aufgaben der für die Umsetzung des Zertifizierungsverfahrens nach der Verordnung (EWG) Nr. 3821/85 verantwortlichen Stellen ergeben sich aus der Anlage 2. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung nimmt die Aufgaben der Aufsichtsbehörde des Mitgliedstaates (D-Member State Authority - D-MSA) wahr. Deutsche Zertifizierungsstelle (D-Certification Authority - D-CA) ist das Kraftfahrt-Bundesamt. Die für die Kontrollgerätkartenausgabe zuständigen Behörden oder Stellen (D-Card Issueing Authorities - D-CIA's) werden von den Ländern bestimmt.
+Die Aufgaben der für die Umsetzung des Zertifizierungsverfahrens nach der Verordnung (EWG) Nr. 3821/85 verantwortlichen Stellen ergeben sich aus der Anlage 2. Das Bundesministerium für Verkehr und digitale Infrastruktur nimmt die Aufgaben der Aufsichtsbehörde des Mitgliedstaates (D-Member State Authority - D-MSA) wahr. Deutsche Zertifizierungsstelle (D-Certification Authority - D-CA) ist das Kraftfahrt-Bundesamt. Die für die Kontrollgerätkartenausgabe zuständigen Behörden oder Stellen (D-Card Issueing Authorities - D-CIA's) werden von den Ländern bestimmt.
 
 Abschnitt 3 Kontrollsystem nach EG-Verordnungen
 -----------------------------------------------
@@ -414,7 +420,7 @@ bei Verlust oder Diebstahl das Datum des Abhandenkommens der Kontrollkarte.
 
 ### § 13 Löschung von Eintragungen im Zentralen Kontrollgerätkartenregister
 
-Die Daten über Kontrollgerätkarten werden ein Jahr nach Ablauf der Gültigkeitsdauer gelöscht.
+Die Daten über Kontrollgerätkarten werden fünf Jahre nach Ablauf der Gültigkeitsdauer gelöscht.
 
 ### § 14 Mitteilung an das Zentrale Kontrollgerätkartenregister im automatisierten Dialogverfahren
 
@@ -467,7 +473,7 @@ Abschnitt 5 Ausnahmen
 
 ### § 18 Ausnahmen gemäß Verordnungen (EG) Nr. 561/2006 und (EWG) 3821/85
 
-(1) Gemäß Artikel 13 Abs. 1 der Verordnung (EG) Nr. 561/2006 und Artikel 3 Abs. 2 der Verordnung (EWG) Nr. 3821/85 werden im Geltungsbereich des Fahrpersonalgesetzes folgende Fahrzeugkategorien von der Anwendung der Artikel 5 bis 9 der Verordnung (EG) Nr. 561/2006 und der Anwendung der Verordnung (EWG) Nr. 3821/85 ausgenommen:
+(1) Gemäß Artikel 13 Abs. 1 der Verordnung (EG) Nr. 561/2006 und Artikel 3 Abs. 2 der Verordnung (EWG) Nr. 3821/85 werden im Geltungsbereich des Fahrpersonalgesetzes folgende Fahrzeugkategorien von der Anwendung der Artikel 5 bis 9 der Verordnung (EG) Nr. 561/2006, der Anwendung der Verordnung (EU) Nr. 165/2014 und der Anwendung der Verordnung (EWG) Nr. 3821/85 ausgenommen:
 
 1.  
 Fahrzeuge, die im Eigentum von Behörden stehen oder von diesen ohne Fahrer angemietet oder geleast sind, um Beförderungen im Straßenverkehr durchzuführen, die nicht im Wettbewerb mit privatwirtschaftlichen Verkehrsunternehmen stehen,
@@ -479,21 +485,13 @@ Fahrzeuge, die von Landwirtschafts-, Gartenbau-, Forstwirtschaft- oder Fischerei
 Land- und forstwirtschaftliche Zugmaschinen, die für land- oder forstwirtschaftliche Tätigkeiten in einem Umkreis von bis zu 100 Kilometern vom Standort des Unternehmens verwendet werden, das das Fahrzeug besitzt, anmietet oder least,
 
 4.  
-Fahrzeuge oder Fahrzeugkombination mit einer zulässigen Höchstmasse von nicht mehr als 7,5 Tonnen, die in einem Umkreis von 50 Kilometern vom Standort des Unternehmens
-
-a)  
-von Postdienstleistern, die Post-Universaldienstleistungen gemäß § 1 Abs. 1 der Post-Universaldienstleistungsverordnung zum Zwecke der Zustellung von Sendungen im Rahmen von Universaldienstleistungen oder
-
-b)  
-zur Beförderung von Material, Ausrüstungen oder Maschinen, die der Fahrer zur Ausübung seiner beruflichen Tätigkeit benötigt, z. B. Fahrzeuge mit jeweils für diesen Zweck bestimmter, besonderer Ausstattung, die als Verkaufswagen auf öffentlichen Märkten oder für den ambulanten Verkauf dienen,
-
-verwendet werden, soweit das Lenken des Fahrzeugs nicht die Haupttätigkeit des Fahrers darstellt,
+Fahrzeuge oder Fahrzeugkombinationen mit einer zulässigen Höchstmasse von nicht mehr als 7,5 Tonnen, die von Postdienstleistern, die Universaldienstleistungen im Sinne des § 1 Absatz 1 der Post-Universaldienstleistungsverordnung vom 15. Dezember 1999 (BGBl. I S. 2418), die zuletzt durch Artikel 3 Absatz 26 des Gesetzes vom 7. Juli 2005 (BGBl. I S. 1970) geändert worden ist, in der jeweils geltenden Fassung erbringen, in einem Umkreis von 100 Kilometern vom Standort des Unternehmens zum Zwecke der Zustellung von Sendungen im Rahmen des Universaldienstes verwendet werden, soweit das Lenken des Fahrzeugs nicht die Haupttätigkeit des Fahrers darstellt,
 
 5.  
 Fahrzeuge, die ausschließlich auf Inseln mit einer Fläche von nicht mehr als 2 300 Quadratkilometern verkehren, die mit den übrigen Teilen des Hoheitsgebiets weder durch eine befahrbare Brücke, Furt oder einen befahrbaren Tunnel verbunden sind,
 
 6.  
-Fahrzeuge, die im Umkreis von 50 Kilometern vom Standort des Unternehmens zur Güterbeförderung mit Druckerdgas-, Flüssiggas- oder Elektroantrieb verwendet werden und deren zulässige Höchstmasse einschließlich Anhänger oder Sattelanhänger 7,5 Tonnen nicht übersteigt,
+Fahrzeuge, die im Umkreis von 100 Kilometern vom Standort des Unternehmens zur Güterbeförderung mit Druckerdgas-, Flüssiggas- oder Elektroantrieb verwendet werden und deren zulässige Höchstmasse einschließlich Anhänger oder Sattelanhänger 7,5 Tonnen nicht übersteigt,
 
 7.  
 Fahrzeuge, die zum Fahrschulunterricht und zur Fahrprüfung zwecks Erlangung der Fahrerlaubnis oder eines beruflichen Befähigungsnachweises dienen, sofern diese Fahrzeuge nicht für die gewerbliche Personen- oder Güterbeförderung verwendet werden,
@@ -511,7 +509,7 @@ Spezialfahrzeuge, die zum Transport von Ausrüstungen des Zirkus- oder Schaustel
 speziell für mobile Projekte ausgerüstete Fahrzeuge, die hauptsächlich im Stand zu Lehrzwecken verwendet werden,
 
 12.  
-Fahrzeuge, die zum Abholen von Milch bei landwirtschaftlichen Betrieben und zur Rückgabe von Milchbehältern oder zur Lieferung von Milcherzeugnissen für Futterzwecke an diese Betriebe verwendet werden,
+Fahrzeuge, die innerhalb eines Umkreises von bis zu 100 Kilometern zum Abholen von Milch bei landwirtschaftlichen Betrieben, zur Rückgabe von Milchbehältern oder zur Lieferung von Milcherzeugnissen für Futterzwecke an diese Betriebe verwendet werden,
 
 13.  
 Spezialfahrzeuge für Geld- und/oder Werttransporte,
@@ -523,7 +521,7 @@ Fahrzeuge, die in einem Umkreis von 250 Kilometern vom Standort des Unternehmens
 Fahrzeuge, die ausschließlich auf Straßen in Güterverteilzentren wie Häfen, Umschlaganlagen des Kombinierten Verkehrs und Eisenbahnterminals verwendet werden, und
 
 16.  
-Fahrzeuge, die innerhalb eines Umkreises von bis zu 50 Kilometern für die Beförderung lebender Tiere von den landwirtschaftlichen Betrieben zu den lokalen Märkten und umgekehrt oder von den Märkten zu den lokalen Schlachthäusern verwendet werden.
+Fahrzeuge, die innerhalb eines Umkreises von bis zu 100 Kilometern für die Beförderung lebender Tiere von den landwirtschaftlichen Betrieben zu den lokalen Märkten und umgekehrt oder von den Märkten zu den lokalen Schlachthäusern verwendet werden.
 
 (2) Abweichend von Artikel 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 561/2006 beträgt bei Beförderungen in einem Umkreis von 50 Kilometern vom Standort des Fahrzeugs das Mindestalter der Beifahrer zum Zwecke der Berufsausbildung 16 Jahre.
 
@@ -543,7 +541,7 @@ Abschnitt 7 Sonstige Vorschriften
 
 ### § 20 Nachweis über berücksichtigungsfreie Tage
 
-(1) Fahrer, die die in Artikel 15 Abs. 7 der Verordnung (EWG) Nr. 3821/85 oder Kapitel III Artikel 12 des Anhangs zum AETR oder dieser Verordnung vorgeschriebenen Nachweise nicht oder nicht vollständig vorlegen können, weil sie an einem oder mehreren der vorausgegangenen 28 Kalendertage
+(1) Selbstfahrende Unternehmer und Fahrer, die die in Artikel 15 Abs. 7 der Verordnung (EWG) Nr. 3821/85 oder Kapitel III Artikel 12 des Anhangs zum AETR oder dieser Verordnung vorgeschriebenen Nachweise nicht oder nicht vollständig vorlegen können, weil sie an einem oder mehreren der vorausgegangenen 28 Kalendertage
 
 1.  
 ein Fahrzeug gelenkt haben, für deren Führen eine Nachweispflicht nicht besteht,
@@ -557,17 +555,21 @@ sich im Urlaub befanden oder
 4.  
 aus anderen Gründen kein Fahrzeug gelenkt haben,
 
-haben bei einer Kontrolle den zuständigen Personen auf Verlangen eine entsprechende Bescheinigung des Unternehmers vorzulegen. Diese Bescheinigung darf nicht handschriftlich ausgefüllt sein. Der Unternehmer hat den betroffenen Fahrern die Bescheinigung vor Fahrtantritt unter Angabe der Gründe für das Fehlen von Arbeitszeitnachweisen auszustellen und auszuhändigen. Die Bescheinigung ist vom Unternehmer oder einer von ihm beauftragten Person, die nicht der Fahrer selbst sein darf, und vom Fahrer zu unterzeichnen. Nach Ablauf der Mitführungspflicht hat der Fahrer die Bescheinigung unverzüglich im Unternehmen abzugeben.
+haben bei einer Kontrolle, soweit diese Zeiten nicht durch manuelle Nachträge nach Absatz 2a oder Absatz 2b belegt werden, den zuständigen Personen auf Verlangen eine entsprechende Bescheinigung des Unternehmers vorzulegen. Diese Bescheinigung darf nicht handschriftlich ausgefüllt sein. Der Unternehmer hat den betroffenen Fahrern die Bescheinigung vor Fahrtantritt unter Angabe der Gründe für das Fehlen von Arbeitszeitnachweisen auszustellen, auszuhändigen und dafür Sorge zu tragen, dass der Fahrer die Bescheinigung während der Fahrt mit sich führt oder die manuellen Nachträge nach Absatz 2a oder Absatz 2b vornimmt. Der selbstfahrende Unternehmer hat die Bescheinigung vor Fahrtantritt auszustellen und zu unterzeichnen und manuelle Nachträge nach Absatz 2a oder Absatz 2b vorzunehmen. Im Übrigen ist die Bescheinigung vom Unternehmer, der nicht zugleich Fahrer ist, oder einer von ihm beauftragten Person, die nicht der Fahrer selbst sein darf, und vom Fahrer zu unterzeichnen. Nach Ablauf der Mitführungspflicht hat der Fahrer die Bescheinigung unverzüglich im Unternehmen abzugeben.
 
-(2) In den Fällen, in denen eine solche Bescheinigung nicht ausgestellt werden konnte, weil die berücksichtigungsfreien Tage unterwegs angefallen sind, hat der Unternehmer auf Verlangen der zuständigen Kontrollbehörde oder -stelle nachträglich eine Bescheinigung auszustellen oder vorzulegen.
+(2) Die Bescheinigung nach Absatz 1 darf auch als Telefax oder digitalisierte Kopie zur Verfügung gestellt werden. In den Fällen, in denen eine solche Bescheinigung nicht ausgestellt werden konnte, hat der Unternehmer, der nicht zugleich Fahrer ist, auf Verlangen der zuständigen Kontrollbehörde oder -stelle nachträglich eine Bescheinigung auszustellen oder vorzulegen.
 
-(3) Der Unternehmer hat die Bescheinigungen ab dem Zeitpunkt der Rückgabe durch den Fahrer ein Jahr außerhalb des Fahrzeugs aufzubewahren und den Fahrern auf Verlangen eine Kopie auszuhändigen. Nach Ablauf der Aufbewahrungspflicht sind die Bescheinigungen bis zum 31. März des folgenden Kalenderjahres zu vernichten.
+(2a) Manuelle Nachträge im Sinne des Absatzes 1 Satz 1 müssen bei Verwendung eines Kontrollgerätes nach Anhang I B der Verordnung (EWG) Nr. 3821/85 vor Fahrtantritt mittels der manuellen Eingabevorrichtung des Kontrollgerätes auf der Fahrerkarte erfolgen.
+
+(2b) Manuelle Nachträge im Sinne des Absatzes 1 Satz 1 müssen bei Verwendung eines Kontrollgerätes nach Anhang I der Verordnung (EWG) Nr. 3821/85 oder eines Nachweises nach § 1 Absatz 6 vor Fahrtantritt lesbar unter Verwendung der in Artikel 15 Absatz 3 Buchstabe b bis d der Verordnung (EWG) Nr. 3821/85 aufgeführten Zeichen erfolgen. Der Nachtrag ist auf der Rückseite des nächsten im Anschluss an den berücksichtigungsfreien Zeitraum verwendeten Schaublattes oder auf einem Nachweis nach § 1 Absatz 6 vorzunehmen. Bei Bedarf können auch mehrere Schaublätter beziehungsweise Nachweise nach § 1 Absatz 6 benutzt werden.
+
+(3) Der Unternehmer, der nicht zugleich Fahrer ist, hat die Bescheinigungen ab dem Zeitpunkt der Rückgabe durch den Fahrer ein Jahr außerhalb des Fahrzeugs aufzubewahren und den Fahrern auf Verlangen eine Kopie auszuhändigen. Nach Ablauf der Aufbewahrungspflicht sind die Bescheinigungen bis zum 31. März des folgenden Kalenderjahres zu vernichten.
 
 ### § 20a Verantwortlichkeiten
 
 (1) Die Verkehrsunternehmen sind verpflichtet, ihren Betrieb nach Maßgabe von Artikel 10 Abs. 1 und 2 der Verordnung (EG) Nr. 561/2006 zu organisieren. Dies gilt auch für Fahrten im Hoheitsgebiet eines anderen Mitgliedstaates der Europäischen Union, eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder eines Drittstaates.
 
-(2) Neben den Verkehrsunternehmen sind auch die mit diesen in geschäftlicher Verbindung stehenden Verlader, Spediteure, Reiseveranstalter, Hauptauftragnehmer, Unterauftragnehmer und Fahrervermittlungsagenturen für die Einhaltung der Vorschriften der Verordnung (EG) Nr. 561/2006 und der vorliegenden Verordnung verantwortlich.
+(2) Neben den Verkehrsunternehmen sind auch die mit diesen in geschäftlicher Verbindung stehenden Verlader, Spediteure, Reiseveranstalter, Hauptauftragnehmer, Unterauftragnehmer und Fahrervermittlungsagenturen für die Einhaltung der Vorschriften der Verordnung (EG) Nr. 561/2006 und der vorliegenden Verordnung verantwortlich. Die an der Beförderungskette beteiligten Unternehmen haben mit dem Ziel, die Einhaltung der Vorschriften zu gewährleisten, zusammenzuarbeiten und sich abzustimmen. Der jeweilige Auftraggeber hat dafür Sorge zu tragen, dass das beauftragte Verkehrsunternehmen die Vorschriften einhält. Er hat sich vor dem Vertragsabschluss mit einem Verkehrsunternehmen und während der Vertragslaufzeit in angemessenen Zeitabständen darüber zu vergewissern und darauf hinzuwirken, dass das beauftragte Verkehrsunternehmen aufgrund seiner personellen und sachlichen Ausstattung sowie seiner betrieblichen Organisation in der Lage ist, die vorgesehenen Transportaufträge unter Einhaltung der Vorschriften durchzuführen.
 
 (3) Die Verkehrsunternehmen, Verlader, Spediteure, Reiseveranstalter, Hauptauftragnehmer, Unterauftragnehmer und Fahrervermittlungsagenturen stellen sicher, dass die vertraglich vereinbarten Beförderungszeitpläne nicht gegen die Verordnung (EG) Nr. 561/2006 verstoßen.
 
@@ -583,11 +585,17 @@ Abschnitt 8 Ordnungswidrigkeiten
 1.  
 entgegen § 1 Abs. 5 Satz 1 nicht dafür sorgt, dass die dort genannten Vorschriften eingehalten werden,
 
+1a.  
+entgegen § 1 Absatz 6 Satz 7 Nummer 1 geeignete Vordrucke nicht, nicht rechtzeitig oder nicht in ausreichender Anzahl aushändigt,
+
 2.  
 entgegen § 1 Abs. 6 Satz 7 Nr. 2 oder 3 jeweils auch in Verbindung mit Abs. 7 Satz 3 eine Aufzeichnung oder ein Schaublatt nicht oder nicht rechtzeitig prüft oder nicht, nicht in der vorgeschriebenen Weise oder nicht für die vorgeschriebene Dauer aufbewahrt oder nicht oder nicht rechtzeitig vorlegt oder eine Maßnahme nicht oder nicht rechtzeitig ergreift,
 
 3.  
 entgegen § 1 Abs. 7 Satz 3 ein Schaublatt nicht oder nicht rechtzeitig aushändigt oder nicht dafür sorgt, dass das Kontrollgerät oder der Fahrtschreiber benutzt wird,
+
+3a.  
+entgegen § 1 Absatz 8 Satz 1 einen Fahrplan oder einen Arbeitszeitplan nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt oder nicht oder nicht mindestens ein Jahr aufbewahrt,
 
 4.  
 entgegen § 2 Abs. 4 Satz 1 nicht sicherstellt, dass die Daten des Fahrzeugspeichers übertragen und gespeichert werden,
@@ -605,13 +613,22 @@ entgegen § 2 Abs. 5 Satz 5 eine Sicherheitskopie nicht oder nicht rechtzeitig e
 entgegen § 2 Abs. 6 Satz 1 Daten nicht oder nicht rechtzeitig zur Verfügung stellt,
 
 8a.  
-entgegen § 2a Unterlagen nicht oder nicht ein Jahr aufbewahrt oder nicht zur Verfügung stellt,
+entgegen § 2a Satz 1 oder Satz 2 eine dort genannte Unterlage nicht oder nicht mindestens ein Jahr aufbewahrt oder nicht oder nicht rechtzeitig vorlegt,
 
 9.  
-entgegen § 19 Satz 1 ein Kontrollgerät nicht oder nicht rechtzeitig einbauen lässt oder
+entgegen § 9 Absatz 3 nicht dafür sorgt, dass die Unternehmenskarte in das Kontrollgerät eingegeben wird,
 
 10.  
-entgegen § 20 Abs. 1 Satz 2, 3 oder Satz 4 oder Abs. 2 oder 3 eine dort genannte Bescheinigung nicht, nicht richtig, nicht rechtzeitig ausstellt, nicht oder nicht rechtzeitig aushändigt oder nicht oder nicht rechtzeitig vorlegt oder nicht für den vorgeschriebenen Zeitraum aufbewahrt.
+entgegen § 19 Satz 1 ein Kontrollgerät nicht oder nicht rechtzeitig einbauen lässt,
+
+11.  
+entgegen § 20 Absatz 1 Satz 2, 3, 4 oder 5, Absatz 2 Satz 2 oder Absatz 3 Satz 1 eine dort genannte Bescheinigung nicht, nicht richtig, nicht rechtzeitig ausstellt, nicht oder nicht rechtzeitig aushändigt oder nicht oder nicht rechtzeitig vorlegt oder nicht oder nicht mindestens ein Jahr aufbewahrt,
+
+12.  
+entgegen § 20 Absatz 1 Satz 3 nicht dafür Sorge trägt, dass der Fahrer die Bescheinigung während der Fahrt mit sich führt oder einen dort genannten manuellen Nachtrag vornimmt oder
+
+13.  
+entgegen § 20a Absatz 2 Satz 3 nicht dafür Sorge trägt, dass das beauftragte Verkehrsunternehmen die Vorschriften einhält.
 
 (2) Ordnungswidrig im Sinne des § 8 Abs. 1 Nr. 2 Buchstabe a des Fahrpersonalgesetzes handelt, wer als Fahrer vorsätzlich oder fahrlässig
 
@@ -629,6 +646,9 @@ entgegen § 1 Abs. 7 Satz 2 die Schicht oder die Pausen auf dem Schaublatt nicht
 
 5.  
 entgegen § 1 Abs. 7 Satz 4 die Schaublätter nicht mitführt oder nicht oder nicht rechtzeitig zur Prüfung aushändigt,
+
+5a.  
+entgegen § 1 Absatz 8 Satz 2 einen Auszug oder eine Ausfertigung nicht mitführt,
 
 6.  
 entgegen § 2 Abs. 1 ein Kontrollgerät nicht oder nicht richtig bedient oder die Benutzerführung nicht oder nicht richtig beachtet,
@@ -655,10 +675,16 @@ entgegen § 5 Abs. 4 Satz 2 die Fahrerkarte nicht mitführt oder nicht oder nich
 entgegen § 6 die abgelaufene Fahrerkarte oder den Ausdruck nicht oder nicht mindestens 28 Kalendertage mitführt,
 
 14.  
-entgegen § 19 Satz 2 ein Kontrollgerät nicht benutzt oder
+entgegen § 19 Satz 2 ein Kontrollgerät nicht benutzt,
 
 15.  
-entgegen § 20 Abs. 1 Satz 1 oder Satz 4 eine Bescheinigung oder einen Nachweis nicht, nicht richtig, nicht rechtzeitig vorlegt oder die Bescheinigung selbst als beauftragte Person unterzeichnet.
+entgegen § 20 Absatz 1 Satz 1 eine dort genannte Bescheinigung nicht, nicht richtig oder nicht rechtzeitig vorlegt,
+
+16.  
+entgegen § 20 Absatz 1 Satz 5 eine Bescheinigung als beauftragte Person unterzeichnet oder
+
+17.  
+entgegen § 20 Absatz 1 Satz 6 eine Bescheinigung nicht oder nicht rechtzeitig abgibt.
 
 (3) Ordnungswidrig im Sinne des § 8 Abs. 1 Nr. 4 Buchstabe a des Fahrpersonalgesetzes handelt, wer als Werkstattinhaber oder als verantwortliche Fachkraft (Installateur) vorsätzlich oder fahrlässig
 
@@ -712,22 +738,25 @@ entgegen Artikel 14 Abs. 1 Unterabs. 2 nicht dafür Sorge trägt, dass der dort 
 entgegen Artikel 14 Abs. 4 Buchstabe a Unterabs. 3 Satz 2 oder 3 eine andere Fahrerkarte, eine defekte Fahrerkarte oder eine Fahrerkarte, deren Gültigkeit abgelaufen ist, benutzt,
 
 5.  
-entgegen Artikel 15 Abs. 1 Unterabs. 1 Satz 1 oder Abs. 2 Unterabs. 1 Satz 2 oder 3 ein Schaublatt oder eine Fahrerkarte verwendet oder entnimmt,
+(weggefallen)
 
 6.  
 entgegen Artikel 15 Abs. 1 Unterabs. 5 einen Ausdruck nicht oder nicht rechtzeitig fertigt oder eine dort genannte Angabe oder eine dort genannte Zeit nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig einträgt,
 
 7.  
-entgegen Artikel 15 Abs. 2 Unterabs. 1 Satz 1 ein Schaublatt oder eine Fahrerkarte nicht benutzt,
+(weggefallen)
 
 8.  
-entgegen Artikel 15 Abs. 2 Unterabs. 2 oder 3 oder Abs. 5 eine Eintragung oder eine Änderung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,
+(weggefallen)
 
 9.  
-einer Vorschrift des Artikels 15 Abs. 3 über die Zeitmarkierung auf dem Schaublatt oder das Betätigen der Schaltvorrichtung des Kontrollgerätes zuwiderhandelt,
+(weggefallen)
+
+9a.  
+(weggefallen)
 
 10.  
-entgegen Artikel 15 Abs. 5a Unterabs. 1 Satz 1 ein Symbol nicht oder nicht richtig eingibt,
+(weggefallen)
 
 11.  
 entgegen Artikel 15 Abs. 7 Buchstabe a oder b ein Schaublatt, die Fahrerkarte, einen Ausdruck oder eine handschriftliche Aufzeichnung nicht oder nicht rechtzeitig vorlegt,
@@ -743,11 +772,42 @@ entgegen Artikel 16 Abs. 3 Unterabs. 3 die Fahrt ohne Fahrerkarte fortsetzt.
 
 (3) Ordnungswidrig im Sinne des § 8 Abs. 1 Nr. 4 Buchstabe b des Fahrpersonalgesetzes handelt, wer als Werkstattinhaber oder als Installateur vorsätzlich oder fahrlässig entgegen Artikel 12 Abs. 1 Unterabs. 1 der Verordnung (EWG) Nr. 3821/85 ein Kontrollgerät einbaut oder repariert.
 
-(4) Ordnungswidrig im Sinne des § 8 Abs. 1 Nr. 1 Buchstabe b, Nr. 2 Buchstabe b oder Nr. 4 Buchstabe b des Fahrpersonalgesetzes handelt, wer als Unternehmer, Fahrer, Werkstattinhaber oder als Installateur fahrlässig entgegen Artikel 15 Abs. 8 der Verordnung (EWG) Nr. 3821/85 Aufzeichnungen auf dem Schaublatt verfälscht, unterdrückt oder vernichtet oder Speicherinhalte des Kontrollgerätes oder der Fahrerkarte oder die ausgedruckten Dokumente von dem Kontrollgerät nach Anhang I B verfälscht, unterdrückt oder vernichtet oder eine Einrichtung hierfür im Fahrzeug bereithält.
+(4) Ordnungswidrig im Sinne des § 8 Abs. 1 Nr. 1 Buchstabe b, Nr. 2 Buchstabe b oder Nr. 4 Buchstabe b des Fahrpersonalgesetzes handelt, wer als Unternehmer, Fahrer, Werkstattinhaber oder als Installateur vorsätzlich oder fahrlässig entgegen Artikel 15 Abs. 8 der Verordnung (EWG) Nr. 3821/85 Aufzeichnungen auf dem Schaublatt verfälscht, unterdrückt oder vernichtet oder Speicherinhalte des Kontrollgerätes oder der Fahrerkarte oder die ausgedruckten Dokumente von dem Kontrollgerät nach Anhang I B verfälscht, unterdrückt oder vernichtet oder eine Einrichtung hierfür im Fahrzeug bereithält.
 
 ### § 24 Zuwiderhandlungen gegen die Verordnung (EG) Nr. 2135/98
 
 Ordnungswidrig im Sinne des § 8 Abs. 1 Nr. 2 Buchstabe b des Fahrpersonalgesetzes handelt, wer als Fahrer vorsätzlich oder fahrlässig entgegen Artikel 2 Abs. 4 der Verordnung (EG) Nr. 2135/98 des Rates vom 24. September 1998 zur Änderung der Verordnung (EWG) Nr. 3821/85 über das Kontrollgerät im Straßenverkehr und der Richtlinie 88/599/EWG über die Anwendung der Verordnungen (EWG) Nr. 3820/85 und (EWG) Nr. 3821/85 (ABl. EG Nr. L 274 S. 1), die durch die Verordnung (EG) Nr. 1360/ 2002 der Kommission vom 13. Juni 2002 (ABl. EG Nr. L 207 S. 1) geändert worden ist, eine Angabe nicht oder nicht rechtzeitig ausdruckt oder nicht oder nicht rechtzeitig überträgt oder das ausgedruckte Dokument nicht oder nicht rechtzeitig unterzeichnet.
+
+### § 24a Zuwiderhandlungen gegen die Verordnung (EU) Nr. 165/2014
+
+Ordnungswidrig im Sinne des § 8 Absatz 1 Nummer 2 Buchstabe b des Fahrpersonalgesetzes handelt, wer als Fahrer gegen die Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Fahrtenschreiber im Straßenverkehr, zur Aufhebung der Verordnung (EWG) Nr. 3821/85 des Rates über das Kontrollgerät im Straßenverkehr und zur Änderung der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates zur Harmonisierung bestimmter Sozialvorschriften im Straßenverkehr (ABl. L 60 vom 28.2.2014, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  
+entgegen Artikel 34 Absatz 1 Satz 1 ein Schaublatt oder eine Fahrerkarte nicht oder nicht rechtzeitig benutzt,
+
+2.  
+entgegen Artikel 34 Absatz 1 Satz 2 ein Schaublatt oder eine Fahrerkarte entnimmt,
+
+3.  
+entgegen Artikel 34 Absatz 1 Satz 3 ein Schaublatt oder eine Fahrerkarte verwendet,
+
+4.  
+entgegen Artikel 34 Absatz 3 Unterabsatz 1, Absatz 4 Unterabsatz 2 oder Absatz 6 Buchstabe e eine Eintragung oder eine Änderung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht vor Fahrtantritt vornimmt,
+
+5.  
+entgegen Artikel 34 Absatz 4 Unterabsatz 1 nicht sicherstellt, dass die Fahrerkarte im richtigen Steckplatz eingeschoben ist,
+
+6.  
+entgegen Artikel 34 Absatz 5 Buchstabe a nicht darauf achtet, dass die Zeitmarkierung mit der dort genannten Zeit übereinstimmt,
+
+7.  
+entgegen Artikel 34 Absatz 5 Buchstabe b die Schaltvorrichtung des Kontrollgeräts nicht, nicht richtig oder nicht zu Beginn der dort genannten Zeiten betätigt,
+
+8.  
+entgegen Artikel 34 Absatz 6 Buchstabe a bis c oder Buchstabe d eine dort genannte Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig einträgt oder
+
+9.  
+entgegen Artikel 34 Absatz 7 Unterabsatz 1 Satz 1 ein Symbol nicht, nicht richtig oder nicht rechtzeitig eingibt.
 
 ### § 25 Zuwiderhandlungen gegen das AETR
 
@@ -775,9 +835,12 @@ entgegen Artikel 11 Absatz 2 Buchstabe a Satz 1 des Anhangs ein Schaublatt oder 
 entgegen Artikel 11 Absatz 2 Buchstabe a Satz 3 des Anhangs ein Schaublatt nicht oder nicht rechtzeitig aushändigt,
 
 8.  
-entgegen Artikel 11 Absatz 2 Buchstabe b Ziffer ii des Anhangs nicht sicherstellt, dass alle Daten aus der Fahrzeugeinheit und der Fahrerkarte heruntergeladen werden oder mindestens zwölf Monate aufbewahrt werden und die Daten auf Verlangen zur Verfügung stehen, oder
+entgegen Artikel 11 Absatz 2 Buchstabe b Ziffer ii des Anhangs nicht sicherstellt, dass alle Daten aus der Fahrzeugeinheit und der Fahrerkarte heruntergeladen werden oder mindestens zwölf Monate aufbewahrt werden und die Daten auf Verlangen zur Verfügung stehen,
 
 9.  
+entgegen Artikel 12 Absatz 8 Satz 1 des Anhangs eine Aufzeichnung auf dem Schaublatt, den Speicherinhalt des Kontrollgeräts oder der Fahrerkarte oder ein ausgedrucktes Dokument verfälscht, unterdrückt oder vernichtet oder
+
+10.  
 entgegen Artikel 13 Absatz 1 Unterabsatz 1 des Anhangs eine Reparatur nicht oder nicht rechtzeitig durchführen lässt.
 
 (2) Ordnungswidrig im Sinne des § 8 Absatz 1 Nummer 2 Buchstabe b des Fahrpersonalgesetzes handelt, wer als Fahrer gegen das Europäische Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR) verstößt, indem er vorsätzlich oder fahrlässig
@@ -810,10 +873,22 @@ entgegen Artikel 12 Absatz 2 Buchstabe a Satz 1 des Anhangs ein Schaublatt oder 
 entgegen Artikel 12 Absatz 2 Buchstabe a Satz 2 oder Satz 3 des Anhangs ein Schaublatt oder eine Fahrerkarte entnimmt oder über den dort genannten Zeitraum hinaus verwendet,
 
 10.  
-entgegen Artikel 12 Absatz 2 Buchstabe c des Anhangs eine Änderung nicht, nicht richtig oder nicht in der vorgeschriebenen Weise vornimmt,
+entgegen Artikel 12 Absatz 2 Buchstabe b oder Buchstabe c oder Absatz 5 Buchstabe e des Anhangs eine Eintragung oder eine Änderung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht vor Fahrtantritt vornimmt,
+
+10a.  
+entgegen Artikel 12 Absatz 3 zweiter Gedankenstrich des Anhangs die Schaltvorrichtung nicht richtig betätigt,
+
+10b.  
+entgegen Artikel 12 Absatz 5 Buchstabe a bis c oder Buchstabe d des Anhangs eine dort genannte Angabe nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig einträgt,
+
+10c.  
+entgegen Artikel 12 Absatz 5<sup>bis</sup> Satz 1 des Anhangs ein Symbol nicht richtig eingibt,
 
 11.  
 entgegen Artikel 12 Absatz 7 Buchstabe a oder Buchstabe b des Anhangs ein dort genanntes Schaublatt, eine Fahrerkarte oder einen dort genannten Ausdruck nicht oder nicht rechtzeitig vorlegt,
+
+11a.  
+entgegen Artikel 12 Absatz 8 Satz 1 des Anhangs eine Aufzeichnung auf dem Schaublatt, den Speicherinhalt des Kontrollgeräts oder der Fahrerkarte oder ein ausgedrucktes Dokument verfälscht, unterdrückt oder vernichtet,
 
 12.  
 entgegen Artikel 13 Absatz 2 Buchstabe a des Anhangs eine dort genannte Angabe nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vermerkt oder
@@ -821,7 +896,13 @@ entgegen Artikel 13 Absatz 2 Buchstabe a des Anhangs eine dort genannte Angabe n
 13.  
 entgegen Artikel 13 Absatz 2 Buchstabe b Ziffer i des Anhangs eine Angabe nicht, nicht richtig oder nicht rechtzeitig ausdruckt, den Ausdruck nicht oder nicht rechtzeitig mit der Unterschrift versieht oder eine Zeit nicht, nicht richtig oder nicht rechtzeitig einträgt.
 
-(3) Ordnungswidrig im Sinne des § 8 Absatz 1 Nummer 4 Buchstabe b des Fahrpersonalgesetzes handelt, wer als Werkstattinhaber oder als Installateur vorsätzlich oder fahrlässig entgegen Artikel 9 Absatz 1 des Anhangs zum Europäischen Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR) ein Kontrollgerät einbaut oder repariert.
+(3) Ordnungswidrig im Sinne des § 8 Absatz 1 Nummer 4 Buchstabe b des Fahrpersonalgesetzes handelt, wer als Werkstattinhaber oder Installateur gegen das Europäische Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR) verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  
+entgegen Artikel 9 Absatz 1 Satz 1 des Anhangs ein Kontrollgerät einbaut oder repariert oder
+
+2.  
+entgegen Artikel 12 Absatz 8 Satz 1 des Anhangs eine Aufzeichnung auf dem Schaublatt, den Speicherinhalt des Kontrollgeräts oder der Fahrerkarte oder ein ausgedrucktes Dokument verfälscht, unterdrückt oder vernichtet.
 
 Abschnitt 9 Übergangsvorschriften
 ---------------------------------
@@ -830,7 +911,7 @@ Abschnitt 9 Übergangsvorschriften
 
 ### § 26
 
-Kontrollgerätkarten, die vor Inkrafttreten dieser Verordnung von den zuständigen Behörden oder Stellen in einem vom Bundesministerium für Verkehr, Bau und Stadtentwicklung geregelten Verfahren erteilt worden sind, gelten als wirksam erteilt im Sinne der §§ 4, 5, 7 und 9 dieser Verordnung.
+Kontrollgerätkarten, die vor Inkrafttreten dieser Verordnung von den zuständigen Behörden oder Stellen in einem vom Bundesministerium für Verkehr und digitale Infrastruktur geregelten Verfahren erteilt worden sind, gelten als wirksam erteilt im Sinne der §§ 4, 5, 7 und 9 dieser Verordnung.
 
 ### Anlage 1 (zu § 1 Abs. 6)
 
@@ -868,7 +949,7 @@ VO (EG) 561/2006
 **D-MSA**Die für die Umsetzung der VO (EG) 3821/85, VO (EG) 2135/98 und VO (EG) 1360/2002 in Deutschland zuständige Stelle wird im Folgenden dem internationalen Sprachgebrauch folgend mit D-MSA (Deutschland-Member State Authority) bezeichnet und vom Bundesministerium für Verkehr, Bau und Stadtentwicklung wahrgenommen. Offizieller Ansprechpartner ist:
 
   
-Bundesministerium für Verkehr, Bau und Stadtentwicklung
+Bundesministerium für Verkehr und digitale Infrastruktur
 Referat S 36
 Robert-Schuman-Platz 1
 D-53175 Bonn
@@ -926,7 +1007,7 @@ am 3. Juli 2007 genehmigt.
 **Verfügbarkeit und Kontakt-Details**Die D-MSA-Policy steht in elektronischer Form auf der Web-Seite http://www.kba.de zur Verfügung.Fragen und Kontakt-Details zu dieser nationalen MSA-Policy sind zu richten an:
 
   
-Bundesministerium für Verkehr, Bau und Stadtentwicklung
+Bundesministerium für Verkehr und digitale Infrastruktur
 Referat S 36
 Robert-Schuman-Platz 1
 D-53175 Bonn
@@ -1820,9 +1901,9 @@ The audit report shall define any corrective actions, including an implementatio
 Anhang A
 Abkürzungen, Definitionen
 
-**BMVBS**
+**BMVI**
 
-Bundesministerium für Verkehr, Bau und Stadtentwicklung
+Bundesministerium für Verkehr und digitale Infrastruktur
 CA-Administrator
 
 **BSI**
