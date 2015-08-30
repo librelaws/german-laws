@@ -2,7 +2,7 @@ Gesetz über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte 
 =====================================================================================
 
 Stand  
-geändert durch Art. 1 G v. 16.11.2011 I 2224
+Zuletzt geändert durch Art. 332 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -221,7 +221,7 @@ Sie sind befugt, die Produkte zu besichtigen, zu prüfen oder prüfen zu lassen,
 
 (7) Die zuständigen Behörden und die beauftragte Stelle haben sich gegenseitig über Maßnahmen nach diesem Gesetz zu informieren und zu unterstützen.
 
-(8) Für alle Marktüberwachungsmaßnahmen gilt § 59 der Verwaltungsgerichtsordnung entsprechend.
+(8) Für alle Marktüberwachungsmaßnahmen gilt § 37 Absatz 6 des Verwaltungsverfahrensgesetzes entsprechend.
 
 (9) Vor Erlass einer Maßnahme nach Absatz 3 ist der betroffene Wirtschaftsakteur oder Aussteller anzuhören mit der Maßgabe, dass die Anhörungsfrist nicht kürzer als zehn Tage sein darf. Wurde eine Maßnahme getroffen, ohne dass der Wirtschaftsakteur oder der Aussteller gehört wurde, wird ihm so schnell wie möglich Gelegenheit gegeben, sich zu äußern. Die Maßnahme wird daraufhin umgehend überprüft.
 
@@ -229,7 +229,7 @@ Sie sind befugt, die Produkte zu besichtigen, zu prüfen oder prüfen zu lassen,
 
 (1) Trifft die zuständige Behörde Maßnahmen nach § 7 Abs. 3 Nr. 6 und 7, unterrichtet sie hierüber unverzüglich unter Angabe der Gründe die beauftragte Stelle; sie gibt insbesondere an, ob eine harmonisierte Norm fehlerhaft angewandt wurde oder einen Mangel aufweist. Wurde die in § 6 vorgesehene Kennzeichnung von einer zugelassenen Stelle zuerkannt, ist auch die nach § 11 Abs. 2 zuständige Behörde zu unterrichten.
 
-(2) Die beauftragte Stelle überprüft die eingegangenen Meldungen auf Vollständigkeit und Schlüssigkeit. Sie unterrichtet das Bundesministerium für Wirtschaft und Technologie, das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit, die übrigen zuständigen Bundesressorts und das Umweltbundesamt über Meldungen nach Absatz 1 Satz 1 und leitet diese der Europäischen Kommission, den Mitgliedstaaten der Europäischen Union und den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum unverzüglich zu. Die beauftragte Stelle unterrichtet die in Satz 2 genannten Behörden und die Kommission in zusammengefasster Form und in angemessenen Zeitabständen auch über sonstige Maßnahmen der Marktaufsicht, die ihr im Rahmen des Informationsaustauschs gemäß § 7 Abs. 7 bekannt werden.
+(2) Die beauftragte Stelle überprüft die eingegangenen Meldungen auf Vollständigkeit und Schlüssigkeit. Sie unterrichtet das Bundesministerium für Wirtschaft und Energie, das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit, die übrigen zuständigen Bundesressorts und das Umweltbundesamt über Meldungen nach Absatz 1 Satz 1 und leitet diese der Europäischen Kommission, den Mitgliedstaaten der Europäischen Union und den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum unverzüglich zu. Die beauftragte Stelle unterrichtet die in Satz 2 genannten Behörden und die Kommission in zusammengefasster Form und in angemessenen Zeitabständen auch über sonstige Maßnahmen der Marktaufsicht, die ihr im Rahmen des Informationsaustauschs gemäß § 7 Abs. 7 bekannt werden.
 
 (3) Die beauftragte Stelle unterrichtet die in Absatz 2 Satz 2 genannten Behörden und die gemäß § 7 für die Marktüberwachung zuständigen Behörden über Mitteilungen der Kommission, der Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, die mit der Marktaufsicht für energieverbrauchsrelevante Produkte zusammenhängen und ihr bekannt werden.
 
