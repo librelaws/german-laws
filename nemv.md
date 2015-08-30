@@ -2,7 +2,7 @@ Verordnung über Nahrungsergänzungsmittel (NemV)
 ===============================================
 
 Stand  
-Zuletzt geändert durch Art. 8 V v. 13.12.2011 I 2720
+Zuletzt geändert durch Art. 64 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -33,13 +33,9 @@ Ein Nahrungsergänzungsmittel, das zur Abgabe an den Verbraucher bestimmt ist, d
 
 ### § 3 Zugelassene Stoffe
 
-(1) Bei der Herstellung eines Nahrungsergänzungsmittels dürfen nur die in Anlage 1 aufgeführten Nährstoffe im Sinne des § 1 Abs. 2 nach Maßgabe der Absätze 2 und 3 verwendet werden.
+(1) Bei der Herstellung eines Nahrungsergänzungsmittels dürfen nur die in Anhang I der Richtlinie 2002/46/EG des Europäischen Parlaments und des Rates vom 10. Juni 2002 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Nahrungsergänzungsmittel (ABl. L 183 vom 12.7.2002, S. 51) aufgeführten Nährstoffe im Sinne des § 1 Absatz 2 in den in Anhang II der Richtlinie 2002/46/EG aufgeführten Formen verwendet werden. Die Anhänge I und II der Richtlinie 2002/46/EG sind jeweils in der am 5. Dezember 2011 geltenden Fassung (ABl. L 296 vom 15.11.2011, S. 29) anzuwenden.
 
-(2) Für Nahrungsergänzungsmittel werden die in Anlage 2 aufgeführten den Lebensmittel-Zusatzstoffen nach § 2 Abs. 3 Satz 2 des Lebensmittel- und Futtermittelgesetzbuches gleichgestellten Stoffe zu ernährungsphysiologischen Zwecken zugelassen.
-
-(3) Es ist verboten, bei der Herstellung eines Nahrungsergänzungsmittels andere Vitamin- und Mineralstoffverbindungen, die keine den Lebensmittel-Zusatzstoffen nach § 2 Abs. 3 Satz 2 des Lebensmittel- und Futtermittelgesetzbuches gleichgestellten Stoffe sind, als die jeweils in Anlage 2 genannten und mit einem Stern gekennzeichneten Stoffe zu ernährungsphysiologischen Zwecken zu verwenden.
-
-(4) Die in Anlage 2 genannten Stoffe müssen vorbehaltlich des Satzes 2 den in der Zusatzstoff-Verkehrsverordnung festgelegten Reinheitsanforderungen entsprechen. Stoffe der Anlage 2, die nicht in der Zusatzstoff-Verkehrsverordnung aufgeführt sind, müssen den nach den allgemein anerkannten Regeln der Technik erreichbaren Reinheitsanforderungen entsprechen.
+(2) Die in Anhang II der Richtlinie 2002/46/EG, in der am 5. Dezember 2011 geltenden Fassung (ABl. L 296 vom 15.11.2011, S. 29), genannten Stoffe müssen vorbehaltlich des Satzes 2 den in der Verordnung (EU) Nr. 231/2012 der Kommission vom 9. März 2012 mit Spezifikationen für die in den Anhängen II und III der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates aufgeführten Lebensmittelzusatzstoffe (ABl. L 83 vom 22.3.2012, S. 1), in der jeweils geltenden Fassung, festgelegten Reinheitsanforderungen entsprechen. Stoffe des Anhangs II der Richtlinie 2002/46/EG, in der am 5. Dezember 2011 geltenden Fassung (ABl. L 296 vom 15.11.2011, S. 29), die nicht in der Verordnung (EU) Nr. 231/2012 aufgeführt sind, müssen den nach den allgemein anerkannten Regeln der Technik erreichbaren Reinheitsanforderungen entsprechen.
 
 ### § 4 Kennzeichnung
 
@@ -64,9 +60,17 @@ ein Hinweis darauf, dass die Produkte außerhalb der Reichweite von kleinen Kind
 
 Abweichend von Satz 1 Nr. 3 kann auch ein gleichsinniger Warnhinweis angegeben werden.
 
-(3) Ein Nahrungsergänzungsmittel darf gewerbsmäßig nur in den Verkehr gebracht werden, wenn auf der Fertigpackung zusätzlich die Menge der Nährstoffe oder sonstigen Stoffe mit ernährungsspezifischer oder physiologischer Wirkung im Nahrungsergänzungsmittel, bezogen auf die auf dem Etikett angegebene empfohlene tägliche Verzehrsmenge in den in Anlage 1 jeweils genannten Maßeinheiten als Durchschnittswerte, die auf der Analyse des Erzeugnisses durch den Hersteller beruhen, angegeben ist. Zusätzlich zu den Angaben nach Satz 1 sind die in dem Nahrungsergänzungsmittel enthaltenen Vitamine und Mineralstoffe jeweils als Prozentsatz der in Anlage 1 der Nährwert-Kennzeichnungsverordnung angegebenen Referenzwerte anzugeben, sofern dort für diese Stoffe Referenzwerte festgelegt sind. Diese Angabe nach Satz 3 kann auch in grafischer Form erfolgen.
+(3) Ein Nahrungsergänzungsmittel darf gewerbsmäßig nur in den Verkehr gebracht werden, wenn auf der Fertigpackung zusätzlich
 
-(4) Die Kennzeichnung und Aufmachung eines Nahrungsergänzungsmittels sowie die Werbung dafür dürfen keinen Hinweis enthalten, mit dem behauptet oder unterstellt wird, dass bei einer ausgewogenen, abwechslungsreichen Ernährung im Allgemeinen die Zufuhr angemessener Nährstoffmengen nicht möglich sei.
+1.  
+die Menge der Nährstoffe oder sonstigen Stoffe mit ernährungsspezifischer oder physiologischer Wirkung im Nahrungsergänzungsmittel, bezogen auf die auf dem Etikett angegebene tägliche Verzehrsmenge in den in Anhang I der Richtlinie 2002/46/EG, in der am 30. November 2009 geltenden Fassung (ABl. L 314 vom 30.11.2009, S. 36), jeweils genannten Maßeinheiten als Durchschnittswerte, die auf der Analyse des Erzeugnisses durch den Hersteller beruhen, und
+
+2.  
+die in dem Nahrungsergänzungsmittel enthaltenen Vitamine und Mineralstoffe jeweils als Prozentsatz der in Anlage 1 der Nährwert-Kennzeichnungsverordnung angegebenen Referenzwerte, sofern dort für diese Stoffe Referenzwerte festgelegt sind,
+
+angegeben sind. Die Angabe nach Satz 1 Nummer 2 kann auch in grafischer Form erfolgen.
+
+(4) Ein Nahrungsergänzungsmittel darf gewerbsmäßig nicht unter Bezeichnungen, Angaben oder Aufmachungen in den Verkehr gebracht werden sowie nicht mit Darstellungen oder sonstigen Aussagen beworben werden, mit denen behauptet oder unterstellt wird, dass bei einer ausgewogenen, abwechslungsreichen Ernährung im Allgemeinen die Zufuhr angemessener Nährstoffmengen nicht möglich sei.
 
 (5) Für die Art und Weise der Kennzeichnung nach den Absätzen 1 bis 3 gilt § 3 Abs. 3 Satz 1, 2 und 3 erster Halbsatz der Lebensmittel-Kennzeichnungsverordnung entsprechend.
 
@@ -76,199 +80,16 @@ Abweichend von Satz 1 Nr. 3 kann auch ein gleichsinniger Warnhinweis angegeben w
 
 (2) Wurde das Nahrungsergänzungsmittel bereits in einem anderen Mitgliedstaat der Europäischen Union in den Verkehr gebracht, so ist, sofern das in diesem Mitgliedstaat geltende Recht eine Anzeigepflicht vorsieht, in der Anzeige nach Absatz 1 zusätzlich die Behörde des anderen Mitgliedstaates anzugeben, bei der die erste Anzeige erfolgt ist.
 
-(3) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit übermittelt die Anzeige unverzüglich dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz und den für die Lebensmittelüberwachung zuständigen obersten Landesbehörden.
+(3) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit übermittelt die Anzeige unverzüglich dem Bundesministerium für Ernährung und Landwirtschaft und den für die Lebensmittelüberwachung zuständigen obersten Landesbehörden.
 
 ### § 6 Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig entgegen § 3 Abs. 1 einen Nährstoff verwendet.
 
-(2) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 4 Abs. 2 Nr. 3 ein Nahrungsergänzungsmittel gewerbsmäßig in den Verkehr bringt.
+(2) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 4 Abs. 2 Nr. 3 oder Absatz 4 ein Nahrungsergänzungsmittel gewerbsmäßig in den Verkehr bringt.
 
-(3) Wer eine in Absatz 2 bezeichnete Handlung fahrlässig begeht, handelt nach § 60 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches ordnungswidrig.
+(3) Wer eine in Absatz 2 bezeichnete Handlung fahrlässig begeht, handelt nach § 60 Absatz 1 Nummer 2 des Lebensmittel- und Futtermittelgesetzbuches ordnungswidrig.
 
-(4) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen § 2 ein Nahrungsergänzungsmittel gewerbsmäßig in den Verkehr bringt.
+(3a) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen § 5 Absatz 1, auch in Verbindung mit Absatz 2, eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
-### § 7 Übergangsregelungen
-
-(1) Bis zum 30. November 2005 dürfen Nahrungsergänzungsmittel noch nach den bis zum 28. Mai 2004 geltenden Vorschriften hergestellt und in den Verkehr gebracht werden.
-
-(2) Abweichend von Absatz 1 dürfen Nahrungsergänzungsmittel noch bis zum 31. Dezember 2009 mit anderen als in Anlage 2 aufgeführten Vitamin- oder Mineralstoffverbindungen, die als Zusatzstoffe zu ernährungsphysiologischen Zwecken nach den bis zum 28. Mai 2004 geltenden Vorschriften für den Zusatz zu Nahrungsergänzungsmitteln zugelassen sind, hergestellt und in den Verkehr gebracht werden, soweit
-
-1.  
-der betreffende Stoff in einem oder mehreren Nahrungsergänzungsmitteln verwendet wird, die sich seit dem 12. Juli 2002 rechtmäßig in der Europäischen Gemeinschaft im Verkehr befinden,
-
-2.  
-ein Hersteller oder Inverkehrbringer der in Nummer 1 bezeichneten Nahrungsergänzungsmittel oder des betreffenden, für die Verwendung in Nahrungsergänzungsmitteln bestimmten Stoffes dem Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft bis zum 1. April 2005 die zur gesundheitlichen Bewertung des betreffenden Stoffes notwendigen Unterlagen zur Weiterleitung an die Europäische Kommission vorlegt und
-
-3.  
-sich die Europäische Kommission auf der Grundlage der Stellungnahme der Europäischen Behörde für Lebensmittelsicherheit auf der Grundlage dieser Unterlagen nicht dagegen ausspricht, dass der betreffende Stoff bei der Herstellung von Nahrungsergänzungsmitteln verwendet wird.
-
-Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz macht die Stoffe gemäß Satz 1 Nr. 2 im Bundesanzeiger bekannt.
-
-### Anlage 1 (zu § 1 Abs. 2, § 3 Abs. 1 und § 4 Abs. 3)
-
-|                                                                                                                          |
-|--------------------------------------------------------------------------------------------------------------------------|
-| (Fundstelle des Originaltextes: BGBl. I 2004, 1013)                                                                      |
-| Vitamine und Mineralstoffe, die als Nährstoffe bei der Herstellung von Nahrungsergänzungsmitteln verwendet werden dürfen |
-| **Kategorie 1:**                                                                                                         |
-| **Vitamine:**                                                                                                            |
-| - Vitamin A (myg RE)                                                                                                     |
-| - Vitamin D (myg)                                                                                                        |
-| - Vitamin E (mg alpha-TE)                                                                                                |
-| - Vitamin K (myg)                                                                                                        |
-| - Vitamin B1 (mg)                                                                                                        |
-| - Vitamin B2 (mg)                                                                                                        |
-| - Niacin (mg NE)                                                                                                         |
-| - Pantothensäure (mg)                                                                                                    |
-| - Vitamin B6 (mg)                                                                                                        |
-| - Folsäure (myg)                                                                                                         |
-| - Vitamin B12 (myg)                                                                                                      |
-| - Biotin (myg)                                                                                                           |
-| - Vitamin C (mg)                                                                                                         |
-|                                                                                                                          |
-|                                                                                                                          |
-
-### Anlage 2 (zu § 3 Abs. 2 bis 4)
-
-```
-(Fundstelle des Originaltextes: BGBl. I 2004, 1013 - 1014;
- 
-  bzgl. der einzelnen Änderungen vgl. Fußnote)
- 
-         Vitamin- und Mineralstoffverbindungen, die bei der
-  Herstellung von Nahrungsergänzungsmitteln verwendet werden dürfen
-A. Vitamine
-1. Vitamin A
-     - Retinol
-     - Retinylacetat
-     - Retinylpalmitat
-     - Beta-Carotin *)
-2. Vitamin D
-     - Cholecalciferol
-     - Ergocalciferol
-3. Vitamin E
-     - D-alpha-Tocopherol *)
-     - DL-alpha-Tocopherol *)
-     - D-alpha-Tocopherylacetat
-     - DL-alpha-Tocopherylacetat
-     - D-alpha-Tocopherylsäuresuccinat
-4. Vitamin K
-     - Phyllochinon *) (Phytomenadion *))
-5. Vitamin B1
-     - Thiaminhydrochlorid
-     - Thiaminmononitrat
-6. Vitamin B2
-     - Riboflavin *)
-     - Riboflavin 5'-phosphat, Natrium
-7. Niacin
-     - Nicotinsäure
-     - Nicotinamid
-8. Pantothensäure
-     - Calcium-D-pantothenat
-     - Natrium-D-pantothenat
-     - D-Panthenol *)
-9. Vitamin B6
-     - Pyridoxinhydrochlorid
-     - Pyridoxin-5'-phosphat
-10. Folate
-     - Pteroylmonoglutaminsäure *)
-     – Calcium-L-methylfolat
-11. Vitamin B12
-     - Cyanocobalamin *)
-     - Hydroxocobalamin
-12. Biotin
-     - D-Biotin *)
-13. Vitamin C
-     - L-Ascorbinsäure *)
-     - Natrium-L-ascorbat
-     - Calcium-L-ascorbat
-     - Kalium-L-ascorbat
-     - L-Ascorbyl-6-palmitat
- 
-B. Mineralstoffe
-   - Calciumcarbonat
-   - Calciumchlorid
-   - Calciumsalze der Citronensäure
-   - Calciumgluconat
-   - Calciumglycerophosphat
-   - Calciumlactat
-   - Calciumsalze der Orthophosphorsäure
-   - Calciumhydroxid
-   - Calciumoxid
-   - Magnesiumacetat
-   - Magnesiumcarbonat
-   - Magnesiumchlorid
-   - Magnesiumsalze der Citronensäure
-   - Magnesiumgluconat
-   - Magnesiumglycerophosphat
-   - Magnesiumsalze der Orthophosphorsäure
-   - Magnesiumlactat
-   - Magnesiumhydroxid
-   - Magnesiumoxid
-   - Magnesiumsulfat
-   - Eisencarbonat
-   - Eisencitrat
-   - Eisenammoniumcitrat
-   - Eisengluconat
-   - Eisenfumarat
-   - Eisennatriumdiphosphat
-   - Eisenlactat
-   - Eisensulfat
-   - Eisendiphosphat (Eisenpyrophosphat)
-   - Eisensaccharat
-   - elementares Eisen (Carbonyl + elektrolytisch + wasserstoffreduziert)
-   – Eisen-Bisglycinat
-   - Kupfercarbonat
-   - Kupfercitrat
-   - Kupfergluconat
-   - Kupfersulfat
-   - Kupferlysinkomplex
-   - Natriumiodid
-   - Natriumiodat
-   - Kaliumiodid
-   - Kaliumiodat
-   - Zinkacetat
-   - Zinkchlorid
-   - Zinkcitrat
-   - Zinkgluconat
-   - Zinklactat
-   - Zinkoxid
-   - Zinkcarbonat
-   - Zinksulfat
-   - Mangancarbonat
-   - Manganchlorid
-   - Mangancitrat
-   - Mangangluconat
-   - Manganglycerophosphat
-   - Mangansulfat
-   - Natriumbicarbonat
-   - Natriumcarbonat
-   - Natriumchlorid *)
-   - Natriumcitrat
-   - Natriumgluconat
-   - Natriumlactat
-   - Natriumhydroxid
-   - Natriumsalze der Orthophosphorsäure
-   - Kaliumbicarbonat
-   - Kaliumcarbonat
-   - Kaliumchlorid
-   - Kaliumcitrat
-   - Kaliumgluconat
-   - Kaliumglycerophosphat
-   - Kaliumlactat
-   - Kaliumhydroxid
-   - Kaliumsalze der Orthophosphorsäure
-   - Natriumselenat
-   - Natriumhydrogenselenit
-   - Natriumselenit
-   - Chrom-(III)-chlorid
-   - Chrom-(III)-sulfat
-   - Ammoniummolybdat (Molybdän (VI))
-   - Natriummolybdat (Molybdän (VI))
-   - Kaliumfluorid
-   - Natriumfluorid
-```
-
------
-\*) Die so gekennzeichneten Stoffe sind keine Zusatzstoffe.
+(4) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen § 2, § 4 Absatz 2 Nummer 1, 2, 4 oder Nummer 5 oder Absatz 3 Satz 1 ein Nahrungsergänzungsmittel gewerbsmäßig in den Verkehr bringt.
