@@ -2,7 +2,7 @@ Verordnung über Sicherheit und Gesundheitsschutz bei der manuellen Handhabung v
 ======================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 436 V v. 31.10.2006 I 2407
+Zuletzt geändert durch Art. 428 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -31,7 +31,7 @@ Die V wurde als Artikel 2 der V v. 4.12.1996 I 1841 (ArbSchEGRLUmsV) von der Bun
 
 (3) Die Verordnung gilt nicht in Betrieben, die dem Bundesberggesetz unterliegen.
 
-(4) Das Bundeskanzleramt, das Bundesministerium des Innern, das Bundesministerium für Verkehr, Bau und Stadtentwicklung, das Bundesministerium der Verteidigung oder das Bundesministerium der Finanzen können, soweit sie hierfür jeweils zuständig sind, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und, soweit nicht das Bundesministerium des Innern selbst zuständig ist, im Einvernehmen mit dem Bundesministerium des Innern bestimmen, daß für bestimmte Tätigkeiten im öffentlichen Dienst des Bundes, insbesondere bei der Bundeswehr, der Polizei, den Zivil- und Katastrophenschutzdiensten, dem Zoll oder den Nachrichtendiensten, Vorschriften dieser Verordnung ganz oder zum Teil nicht anzuwenden sind, soweit öffentliche Belange dies zwingend erfordern, insbesondere zur Aufrechterhaltung oder Wiederherstellung der öffentlichen Sicherheit. In diesem Fall ist gleichzeitig festzulegen, wie die Sicherheit und der Gesundheitsschutz der Beschäftigten nach dieser Verordnung auf andere Weise gewährleistet werden.
+(4) Das Bundeskanzleramt, das Bundesministerium des Innern, das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundesministerium der Verteidigung oder das Bundesministerium der Finanzen können, soweit sie hierfür jeweils zuständig sind, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und, soweit nicht das Bundesministerium des Innern selbst zuständig ist, im Einvernehmen mit dem Bundesministerium des Innern bestimmen, daß für bestimmte Tätigkeiten im öffentlichen Dienst des Bundes, insbesondere bei der Bundeswehr, der Polizei, den Zivil- und Katastrophenschutzdiensten, dem Zoll oder den Nachrichtendiensten, Vorschriften dieser Verordnung ganz oder zum Teil nicht anzuwenden sind, soweit öffentliche Belange dies zwingend erfordern, insbesondere zur Aufrechterhaltung oder Wiederherstellung der öffentlichen Sicherheit. In diesem Fall ist gleichzeitig festzulegen, wie die Sicherheit und der Gesundheitsschutz der Beschäftigten nach dieser Verordnung auf andere Weise gewährleistet werden.
 
 ### § 2 Maßnahmen
 
