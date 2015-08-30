@@ -2,7 +2,7 @@ Verordnung zur Überleitung des Rechts der Europäischen Gemeinschaften auf das 
 ====================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 250 V v. 25.11.2003 I 2304
+Zuletzt geändert durch Art. 2 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -244,7 +244,7 @@ Mineral- und Tafelwasser-Verordnung vom 1. August 1984 (BGBl. I S. 1036).
 15.  
 Kosmetik-Verordnung in der Fassung der Bekanntmachung vom 19. Juni 1985 (BGBl. I S. 1082), zuletzt geändert durch Verordnung vom 21. März 1990 (BGBl. I S. 589).
 
-### Anlage 3 (zu § 2 Nr. 2) Liste des Bundesrechts, das gemäß § 2 Nr. 2 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet mit folgenden Maßgaben anzuwenden ist
+### Anlage 3 (zu § 2 Nr. 2)Liste des Bundesrechts, das gemäß § 2 Nr. 2 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet mit folgenden Maßgaben anzuwenden ist
 
 Fundstelle: BGBl. I 1990, 2921 - 2926;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -259,7 +259,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
   
 Kapitel I
 
-Geschäftsbereich des Bundesministeriums für Verbraucherschutz, Ernährung und Landwirtschaft
+Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft
 
 1.  
 Saatgutverkehrsgesetz vom 20. August 1985 (BGBl. I S. 1633), geändert durch Artikel 14 des Gesetzes vom 28. Juni 1990 (BGBl. I S. 1221), mit folgenden Maßgaben:
@@ -451,7 +451,7 @@ in einem dort nicht zugelassenen, aber registrierten und überwachten Schlacht-,
 2.  
 ohne Einhaltung der Anforderungen des § 2 Abs. 2 in Verbindung mit Anlage 2 Abschnitt II Nr. 9 und 10 der Geflügelfleischmindestanforderungen-Verordnung in der Fassung der Bekanntmachung vom 8. November 1976 (BGBl. I S. 3097), zuletzt geändert durch Verordnung vom 12. März 1979 (BGBl. I S. 350), gekühlt wurde,
 
-sofern es anstelle der in § 2 Abs. 2 in Verbindung mit Anlage 1 Abschnitt II Nr. 12 bis 15 der Geflügelfleischuntersuchungs-Verordnung in der Fassung der Bekanntmachung vom 3. November 1976 (BGBl. I S. 3077), zuletzt geändert durch Verordnung vom 8. April 1981 (BGBl. I S. 373), vorgeschriebenen Kennzeichnung mit einem Kennzeichen versehen ist, das dem nachstehend abgedruckten Muster in Form und Inhalt entspricht. (Inhalt: nicht darstellbares Muster, BGBl. I 1990, 2925)Der vorstehende Stempelabdruck kann auch durch eine Plombe ersetzt werden, die diesem Abdruck nach Form und Inhalt entspricht; die Maßangaben des abgedruckten Musters gelten hierfür nicht.
+sofern es anstelle der in § 2 Abs. 2 in Verbindung mit Anlage 1 Abschnitt II Nr. 12 bis 15 der Geflügelfleischuntersuchungs-Verordnung in der Fassung der Bekanntmachung vom 3. November 1976 (BGBl. I S. 3077), zuletzt geändert durch Verordnung vom 8. April 1981 (BGBl. I S. 373), vorgeschriebenen Kennzeichnung mit einem Kennzeichen versehen ist, das dem nachstehend abgedruckten Muster in Form und Inhalt entspricht.(Inhalt: nicht darstellbares Muster, BGBl. I 1990, 2925)Der vorstehende Stempelabdruck kann auch durch eine Plombe ersetzt werden, die diesem Abdruck nach Form und Inhalt entspricht; die Maßangaben des abgedruckten Musters gelten hierfür nicht.
 
 4.  
 Pflanzenschutzmittel-Höchstmengenverordnung in der Fassung der Bekanntmachung vom 16. Oktober 1989 (BGBl. I S. 1861), zuletzt geändert durch Verordnung vom 9. März 1990 (BGBl. I S. 481, 1514), mit folgender Maßgabe:Bis zum 31. Dezember 1992 dürfen Lebensmittel mit Ursprung in dem in Artikel 3 des Einigungsvertrages genannten Gebiet, in oder auf denen Stoffe über die durch diese Verordnung festgesetzten Höchstmengen hinaus vorhanden sind, in diesem Gebiet noch in den Verkehr gebracht werden, wenn sie dem Recht entsprechen, das dort bis zum 2. Oktober 1990 gegolten hat. Dies gilt nicht für Lebensmittel, ausgenommen Getreide mit Rückständen an Blausäure oder deren Salzen, deren Gehalt an Stoffen Höchstmengen überschreitet, die auf Grund folgender Richtlinien der EWG festgesetzt worden sind:
@@ -502,7 +502,7 @@ Anlage 4 Nr. 14 und 18 (Grenzwert für Eisen und Mangan) tritt am 1. Oktober 199
   
 Kapitel III
 
-Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit
+Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit
 
 Verordnung über Schwefelgehalt von leichtem Heizöl und Dieselkraftstoff vom 15. Januar 1975 (BGBl. I S. 264), zuletzt geändert durch Verordnung vom 14. Dezember 1987 (BGBl. I S. 2671), mit folgender Maßgabe:
 Eine Ausnahme kann für Betreiber von Anlagen, die ihren Standort zum Zeitpunkt des Inkrafttretens des Einigungsvertrages in dem in Artikel 3 des Einigungsvertrages genannten Gebiet hatten, auch insoweit erteilt werden, als die Einhaltung des zulässigen Gehalts an Schwefelverbindungen für den Antragsteller eine unzumutbare Härte bedeuten würde. Sie darf nur für einen Schwefelgehalt bis zu höchstens 0,50 v.H. des Gewichts erteilt werden und ist längstens bis zum 31. Dezember 1994 zu befristen. Die Bewilligung ist im Hinblick auf eine rasche Verwirklichung des Verordnungsziels mit Auflagen zu versehen.
@@ -563,39 +563,12 @@ Berlin den 22. August 1990
 
 Auf der Grundlage des § 5 des Tierzuchtgesetzes vom 17. Dezember 1980 (GBl. I Nr. 35), des § 6 des Marktorganisationsgesetzes vom 6. Juli 1990 (GBl. I S. 657) sowie des § 13 der Durchführungsverordnung vom 11. Juli 1990 über die Marktorganisation für Milch und Milcherzeugnisse - Milchverordnung - (GBl. I S. 55) wird im Einvernehmen mit dem Minister der Finanzen folgendes bestimmt:
 
-  
-  
-  
-  
-  
-  
-  
-  
 I. Abschnitt
-
 Errichtung und Aufgaben der Landeskontrollverbände für die Milchproduktion
-
-  
-  
-  
-  
-  
-  
-  
-§§ 1 bis 5II. Abschnitt
-
+§§ 1 bis 5
+II. Abschnitt
 Erhebung der Mitverantwortungsabgabe für Milch und Milcherzeugnisse und ihre Verwendung
-
-  
-  
-  
-  
-  
-  
-  
-  
 § 6
-
 Erhebung der Mitverantwortungsabgabe
 
 (1) Jeder Milcherzeuger wird einer Mitverantwortungsabgabe unterworfen, soweit die Milch an einen Milch be- oder verarbeitenden Betrieb geliefert wird.
@@ -606,72 +579,31 @@ Erhebung der Mitverantwortungsabgabe
 
 (4) Die Ankaufstelle ist berechtigt, in unrichtiger Höhe einbehaltene Abgabebeträge in der folgenden Abgabeanmeldung zu berichtigen. Dabei sind zuviel einbehaltene Abgaben von dem in der neuen Abgabeanmeldung angemeldeten Betrag abzuziehen und zuwenig einbehaltene Abgaben hinzuzurechnen.
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
 § 7
-
 Abgabehöhe
 
 (1) Die Höhe der Abgabe beträgt 1% des jeweiligen Richtpreises für Milch.
 
-(2) Bei Erzeugern, deren tatsächlich verfügbare individuelle Referenzmenge 60.000 kg nicht überschreitet, beträgt die Abgabe 0,5% des jeweiligen Richtpreises für Milch. Die Kleinerzeugereigenschaft wird am ersten Tag des Erhebungszeitraumes der Mitverantwortungsabgabe durch das zuständige Landratsamt beurteilt und am ersten Tag des darauf folgenden Erhebungszeitraumes überprüft.
+(2) Bei Erzeugern, deren tatsächlich verfügbare individuelle Referenzmenge 60 000 kg nicht überschreitet, beträgt die Abgabe 0,5% des jeweiligen Richtpreises für Milch. Die Kleinerzeugereigenschaft wird am ersten Tag des Erhebungszeitraumes der Mitverantwortungsabgabe durch das zuständige Landratsamt beurteilt und am ersten Tag des darauf folgenden Erhebungszeitraumes überprüft.
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
 § 8
-
 Duldungs- und Mitwirkungspflichten
 
 Zum Zwecke der Überwachung haben die Ankaufstellen den Zolldienststellen das Betreten der Geschäfts- und Betriebsräume während der üblichen Betriebs- und Geschäftszeit zu gestatten, auf Verlangen die in Betracht kommenden kaufmännischen Bücher, besonderen Aufzeichnungen, Belege und sonstigen Schriftstücke zur Einsicht vorzulegen, Auskunft zu erteilen und die erforderliche Unterstützung zu gewähren. Bei automatischer Buchführung haben die Ankaufstellen auf ihre Kosten Listen mit den erforderlichen Angaben auszudrucken, soweit es die Zolldienststellen verlangen.
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
 § 9
-
 Verjährung
 
 Die Ansprüche auf Grund dieser Durchführungsbestimmung verjähren in fünf Jahren; bei hinterzogenen Beträgen beträgt die Verjährungsfrist zehn Jahre. Die Verjährung beginnt mit dem Ablauf des Kalenderjahres, in dem die Abgaben anzumelden waren. Im übrigen gelten für die Verjährung die Vorschriften der §§ 228 bis 231 der Abgabenordnung der DDR vom 22. Juni 1990 (GBl. I Sdr. 1428) sinngemäß.
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
 § 10
-
 Inkrafttreten
 
 Diese Durchführungsbestimmung tritt am 1. Oktober 1990 in Kraft.
+
 Berlin, den 21. September 1990
 
-```
-                     Ministerium
-          für Ernährung, Land- und Forstwirtschaft
-                       Haschke
-              Parlamentarischer Staatssekretär
-```
+Ministerium
+für Ernährung, Land- und Forstwirtschaft
+Haschke
+Parlamentarischer Staatssekretär
