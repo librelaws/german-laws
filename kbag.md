@@ -2,19 +2,20 @@ Gesetz über die Errichtung eines Kraftfahrt-Bundesamts ()
 =========================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 28.8.2013 I 3313
+Zuletzt geändert durch Art. 471 V v. 31.8.2015 I 1474
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 1.1.1972 +++)
-(+++ Amtliche Hinweise des Normgebers auf EG-Recht:
-     Umsetzung
-       der EWGRL 59/92   (CELEX Nr: 392L0059)
-       des EWGBes 465/93 (CELEX Nr: 393D0465) vgl. G v. 22.4.1997 I 934 +++)
+ 
+(+++ Amtliche Hinweise des Normgebers auf EG-Recht: Umsetzung der EWGRL 59/92 
+(CELEX Nr: 392L0059) des EWGBes 465/93 (CELEX Nr: 393D0465) vgl. G v. 22.4.1997
+ I 934 +++)
+ 
+Im Saarland eingeführt durch § 1 Nr. 13 V v. 26.8.1957 I 125; für Berlin vgl. G
+ v. 9.1.1953 GVBl. S. 57
 ```
-
-Im Saarland eingeführt durch § 1 Nr. 13 V v. 26.8.1957 I 125; für Berlin vgl. G v. 9.1.1953 GVBl. S. 57
 
 ### § 1
 
@@ -22,7 +23,7 @@ Im Saarland eingeführt durch § 1 Nr. 13 V v. 26.8.1957 I 125; für Berlin vgl.
 
 (2) Dem Kraftfahrt-Bundesamt sind Landesbehörden und Prüfstellen nicht unterstellt.
 
-(3) Das Kraftfahrt-Bundesamt untersteht dem Bundesministerium für Verkehr, Bau und Stadtentwicklung. Es bestimmt den Dienstsitz des Kraftfahrt-Bundesamts.
+(3) Das Kraftfahrt-Bundesamt untersteht dem Bundesministerium für Verkehr und digitale Infrastruktur. Es bestimmt den Dienstsitz des Kraftfahrt-Bundesamts.
 
 ### § 2
 
@@ -54,6 +55,9 @@ des Zentralen Fahrerlaubnisregisters nach Abschnitt VI des Straßenverkehrsgeset
 
 d)  
 des Zentralen Kontrollgerätkartenregisters nach der Rechtsverordnung zu § 2 Nr. 4 des Fahrpersonalgesetzes,
+
+e)  
+des Infrastrukturabgaberegisters nach § 6 Absatz 1 Satz 1 des Infrastrukturabgabengesetzes,
 
 2a.  
 für Zwecke der Zulassung von Fahrzeugen und der Zuteilung von Kennzeichen die Errichtung und den Betrieb informationstechnischer Systeme für eine zentrale elektronische, auch internetbasierte Verarbeitung von für diesen Zweck erforderlichen Daten und deren Weiterleitung an die für den Vollzug zulassungsrechtlicher Vorschriften zuständigen Behörden und Stellen,
@@ -104,7 +108,10 @@ die Aufgaben der nationalen Kontaktstelle nach Maßgabe des Artikels 3 Buchstabe
 die Aufgaben der deutschen Zertifizierungsstelle nach Anlage 11 Nummer 3 des Anhangs I B der Verordnung (EWG) Nr. 3821/85 des Rates vom 20. Dezember 1985 über das Kontrollgerät im Straßenverkehr (ABl. EG Nr. L 370 S. 8) in der jeweils geltenden Fassung,
 
 10.  
-die Personalisierung und Lieferung oder die Ausschreibung der Personalisierung und Lieferung der zum Betrieb des Kontrollgerätes nach Anhang I B der Verordnung (EWG) Nr. 3821/85 erforderlichen Kontrollgerätkarten.
+die Personalisierung und Lieferung oder die Ausschreibung der Personalisierung und Lieferung der zum Betrieb des Kontrollgerätes nach Anhang I B der Verordnung (EWG) Nr. 3821/85 erforderlichen Kontrollgerätkarten,
+
+11.  
+die Erhebung und Vollstreckung der Infrastrukturabgabe nach dem Infrastrukturabgabengesetz.
 
 (2) Die Aufgaben, die dem Kraftfahrt-Bundesamt durch andere Vorschriften zugewiesen werden, bleiben unberührt.
 
