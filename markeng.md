@@ -2,7 +2,7 @@ Gesetz über den Schutz von Marken und sonstigen Kennzeichen (MarkenG)
 =====================================================================
 
 Stand  
-Zuletzt geändert durch Art. 15 G v. 24.11.2011 I 2302
+Zuletzt geändert durch Art. 206 V v. 31.8.2015 I 1474
 
 Sonst  
 Die §§ 119 bis 125 sind gem. Bek. v. 24.4.1996 I 682 mWv 20.3.1996 in Kraft getreten.
@@ -134,6 +134,7 @@ Das G wurde als Artikel 1 G (423-5-1) v. 25.10.1994 I 3082 vom Bundestag mit Zus
 | § 79   |
 | § 80   |
 | § 81   |
+| § 81a  |
 | § 82   |
 |        |
 |        |
@@ -387,10 +388,10 @@ die gegen die öffentliche Ordnung oder die gegen die guten Sitten verstoßen,
 die Staatswappen, Staatsflaggen oder andere staatliche Hoheitszeichen oder Wappen eines inländischen Ortes oder eines inländischen Gemeinde- oder weiteren Kommunalverbandes enthalten,
 
 7.  
-die amtliche Prüf- oder Gewährzeichen enthalten, die nach einer Bekanntmachung des Bundesministeriums der Justiz im Bundesgesetzblatt von der Eintragung als Marke ausgeschlossen sind,
+die amtliche Prüf- oder Gewährzeichen enthalten, die nach einer Bekanntmachung des Bundesministeriums der Justiz und für Verbraucherschutz im Bundesgesetzblatt von der Eintragung als Marke ausgeschlossen sind,
 
 8.  
-die Wappen, Flaggen oder andere Kennzeichen, Siegel oder Bezeichnungen internationaler zwischenstaatlicher Organisationen enthalten, die nach einer Bekanntmachung des Bundesministeriums der Justiz im Bundesgesetzblatt von der Eintragung als Marke ausgeschlossen sind,
+die Wappen, Flaggen oder andere Kennzeichen, Siegel oder Bezeichnungen internationaler zwischenstaatlicher Organisationen enthalten, die nach einer Bekanntmachung des Bundesministeriums der Justiz und für Verbraucherschutz im Bundesgesetzblatt von der Eintragung als Marke ausgeschlossen sind,
 
 9.  
 deren Benutzung ersichtlich nach sonstigen Vorschriften im öffentlichen Interesse untersagt werden kann, oder
@@ -774,7 +775,7 @@ Abschnitt 1 Eintragungsverfahren
 
 ### § 32 Erfordernisse der Anmeldung
 
-(1) Die Anmeldung zur Eintragung einer Marke in das Register ist beim Patentamt einzureichen. Die Anmeldung kann auch über ein Patentinformationszentrum eingereicht werden, wenn diese Stelle durch Bekanntmachung des Bundesministeriums der Justiz im Bundesgesetzblatt dazu bestimmt ist, Markenanmeldungen entgegenzunehmen.
+(1) Die Anmeldung zur Eintragung einer Marke in das Register ist beim Patentamt einzureichen. Die Anmeldung kann auch über ein Patentinformationszentrum eingereicht werden, wenn diese Stelle durch Bekanntmachung des Bundesministeriums der Justiz und für Verbraucherschutz im Bundesgesetzblatt dazu bestimmt ist, Markenanmeldungen entgegenzunehmen.
 
 (2) Die Anmeldung muß enthalten:
 
@@ -799,7 +800,7 @@ ein Verzeichnis der Waren oder Dienstleistungen, für die die Eintragung beantra
 beim Patentamt
 
 2.  
-oder, wenn diese Stelle durch Bekanntmachung des Bundesministeriums der Justiz im Bundesgesetzblatt dazu bestimmt ist, bei einem Patentinformationszentrum eingegangen sind.
+oder, wenn diese Stelle durch Bekanntmachung des Bundesministeriums der Justiz und für Verbraucherschutz im Bundesgesetzblatt dazu bestimmt ist, bei einem Patentinformationszentrum eingegangen sind.
 
 (2) Die Anmeldung einer Marke, deren Anmeldetag feststeht, begründet einen Anspruch auf Eintragung. Dem Eintragungsantrag ist stattzugeben, es sei denn, daß die Anmeldungserfordernisse nicht erfüllt sind oder daß absolute Eintragungshindernisse der Eintragung entgegenstehen.
 
@@ -809,7 +810,7 @@ oder, wenn diese Stelle durch Bekanntmachung des Bundesministeriums der Justiz i
 
 (1) Die Inanspruchnahme der Priorität einer früheren ausländischen Anmeldung richtet sich nach den Vorschriften der Staatsverträge mit der Maßgabe, daß die Priorität nach der Pariser Verbandsübereinkunft auch für Dienstleistungen in Anspruch genommen werden kann.
 
-(2) Ist die frühere ausländische Anmeldung in einem Staat eingereicht worden, mit dem kein Staatsvertrag über die Anerkennung der Priorität besteht, so kann der Anmelder ein dem Prioritätsrecht nach der Pariser Verbandsübereinkunft entsprechendes Prioritätsrecht in Anspruch nehmen, soweit nach einer Bekanntmachung des Bundesministeriums der Justiz im Bundesgesetzblatt der andere Staat aufgrund einer ersten Anmeldung beim Patentamt ein Prioritätsrecht gewährt, das nach Voraussetzungen und Inhalt dem Prioritätsrecht nach der Pariser Verbandsübereinkunft vergleichbar ist.
+(2) Ist die frühere ausländische Anmeldung in einem Staat eingereicht worden, mit dem kein Staatsvertrag über die Anerkennung der Priorität besteht, so kann der Anmelder ein dem Prioritätsrecht nach der Pariser Verbandsübereinkunft entsprechendes Prioritätsrecht in Anspruch nehmen, soweit nach einer Bekanntmachung des Bundesministeriums der Justiz und für Verbraucherschutz im Bundesgesetzblatt der andere Staat aufgrund einer ersten Anmeldung beim Patentamt ein Prioritätsrecht gewährt, das nach Voraussetzungen und Inhalt dem Prioritätsrecht nach der Pariser Verbandsübereinkunft vergleichbar ist.
 
 (3) Wer eine Priorität nach Absatz 1 oder 2 in Anspruch nimmt, hat innerhalb von zwei Monaten nach dem Anmeldetag Zeit und Staat der früheren Anmeldung anzugeben. Hat der Anmelder diese Angaben gemacht, fordert ihn das Patentamt auf, innerhalb von zwei Monaten nach der Zustellung der Aufforderung das Aktenzeichen der früheren Anmeldung anzugeben und eine Abschrift der früheren Anmeldung einzureichen. Innerhalb dieser Fristen können die Angaben geändert werden. Werden die Angaben nicht rechtzeitig gemacht, so wird der Prioritätsanspruch für diese Anmeldung verwirkt.
 
@@ -825,9 +826,9 @@ auf einer sonstigen inländischen oder ausländischen Ausstellung
 
 zur Schau gestellt, kann er, wenn er die Anmeldung innerhalb einer Frist von sechs Monaten seit der erstmaligen Zurschaustellung der Waren oder Dienstleistungen unter der angemeldeten Marke einreicht, von diesem Tag an ein Prioritätsrecht im Sinne des § 34 in Anspruch nehmen.
 
-(2) Die in Absatz 1 Nr. 1 bezeichneten Ausstellungen werden vom Bundesministerium der Justiz im Bundesgesetzblatt bekanntgemacht.
+(2) Die in Absatz 1 Nr. 1 bezeichneten Ausstellungen werden vom Bundesministerium der Justiz und für Verbraucherschutz im Bundesanzeiger bekanntgemacht.
 
-(3) Die Ausstellungen im Sinne des Absatzes 1 Nr. 2 werden im Einzelfall in einer Bekanntmachung des Bundesministeriums der Justiz im Bundesgesetzblatt über den Ausstellungsschutz bestimmt.
+(3) Die Ausstellungen nach Absatz 1 Nummer 2 werden im Einzelfall vom Bundesministerium der Justiz und für Verbraucherschutz bestimmt und im Bundesanzeiger bekanntgemacht.
 
 (4) Wer eine Priorität nach Absatz 1 in Anspruch nimmt, hat innerhalb von zwei Monaten nach dem Anmeldetag den Tag der erstmaligen Zurschaustellung sowie die Ausstellung anzugeben. Hat der Anmelder diese Angaben gemacht, fordert ihn das Patentamt auf, innerhalb von zwei Monaten nach der Zustellung der Aufforderung die Nachweise für die Zurschaustellung der Waren oder Dienstleistungen unter der angemeldeten Marke einzureichen. Werden die Nachweise nicht rechtzeitig eingereicht, so wird der Prioritätsanspruch für diese Anmeldung verwirkt.
 
@@ -1101,7 +1102,7 @@ Abschnitt 4 Allgemeine Vorschriften für das Verfahren vor dem Patentamt
 
 (1) Das Patentamt ist verpflichtet, auf Ersuchen der Gerichte oder der Staatsanwaltschaften über Fragen, die angemeldete oder eingetragene Marken betreffen, Gutachten abzugeben, wenn in dem Verfahren voneinander abweichende Gutachten mehrerer Sachverständiger vorliegen.
 
-(2) Im übrigen ist das Patentamt nicht befugt, ohne Genehmigung des Bundesministeriums der Justiz außerhalb seines gesetzlichen Aufgabenbereichs Beschlüsse zu fassen oder Gutachten abzugeben.
+(2) Im übrigen ist das Patentamt nicht befugt, ohne Genehmigung des Bundesministeriums der Justiz und für Verbraucherschutz außerhalb seines gesetzlichen Aufgabenbereichs Beschlüsse zu fassen oder Gutachten abzugeben.
 
 ### § 59 Ermittlung des Sachverhalts, rechtliches Gehör
 
@@ -1129,7 +1130,11 @@ Abschnitt 4 Allgemeine Vorschriften für das Verfahren vor dem Patentamt
 
 (2) Nach der Eintragung der Marke wird auf Antrag Einsicht in die Akten der eingetragenen Marke gewährt.
 
-(3) Die Einsicht in das Register steht jeder Person frei.
+(3) Die Einsicht in die Akten nach den Absätzen 1 und 2 kann bei elektronisch geführten Akten auch über das Internet gewährt werden.
+
+(4) Die Akteneinsicht nach den Absätzen 1 bis 3 ist ausgeschlossen, soweit eine Rechtsvorschrift entgegensteht oder soweit das schutzwürdige Interesse des Betroffenen im Sinne des § 3 Absatz 1 des Bundesdatenschutzgesetzes offensichtlich überwiegt.
+
+(5) Die Einsicht in das Register steht jeder Person frei.
 
 ### § 63 Kosten der Verfahren
 
@@ -1161,7 +1166,7 @@ Im Verfahren vor dem Patentamt gilt für die Kosten das Patentkostengesetz.
 
 ### § 65 Rechtsverordnungsermächtigung
 
-(1) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1.  
 die Einrichtung und den Geschäftsgang sowie die Form des Verfahrens in Markenangelegenheiten zu regeln, soweit nicht durch Gesetz Bestimmungen darüber getroffen sind,
@@ -1202,7 +1207,7 @@ Beamte des mittleren Dienstes oder vergleichbare Angestellte mit der Wahrnehmung
 13.  
 die in die Veröffentlichung nach § 33 Abs. 3 aufzunehmenden Angaben zu regeln und Umfang sowie Art und Weise der Veröffentlichung dieser Angaben festzulegen.
 
-(2) Das Bundesministerium der Justiz kann die Ermächtigung zum Erlaß von Rechtsverordnungen nach Absatz 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates ganz oder teilweise dem Deutschen Patent- und Markenamt übertragen.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz kann die Ermächtigung zum Erlaß von Rechtsverordnungen nach Absatz 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates ganz oder teilweise dem Deutschen Patent- und Markenamt übertragen.
 
 Abschnitt 5 Verfahren vor dem Patentgericht
 -------------------------------------------
@@ -1219,7 +1224,7 @@ Abschnitt 5 Verfahren vor dem Patentgericht
 
 (4) Der Beschwerde und allen Schriftsätzen sollen Abschriften für die übrigen Beteiligten beigefügt werden. Die Beschwerde und alle Schriftsätze, die Sachanträge oder die Erklärung der Zurücknahme der Beschwerde oder eines Antrags enthalten, sind den übrigen Beteiligten von Amts wegen zuzustellen. Andere Schriftsätze sind ihnen formlos mitzuteilen, sofern nicht die Zustellung angeordnet wird.
 
-(5) Erachtet die Stelle, deren Beschluß angefochten wird, die Beschwerde für begründet, so hat sie ihr abzuhelfen. Dies gilt nicht, wenn dem Beschwerdeführer ein anderer an dem Verfahren Beteiligter gegenübersteht. Die Stelle kann anordnen, daß die Beschwerdegebühr nach dem Patentkostengesetz zurückgezahlt wird. Wird der Beschwerde nicht nach Satz 1 abgeholfen, so ist sie vor Ablauf von einem Monat ohne sachliche Stellungnahme dem Patentgericht vorzulegen. In den Fällen des Satzes 2 ist die Beschwerde unverzüglich dem Patentgericht vorzulegen.
+(5) Erachtet die Stelle, deren Beschluß angefochten wird, die Beschwerde für begründet, so hat sie ihr abzuhelfen. Dies gilt nicht, wenn dem Beschwerdeführer ein anderer an dem Verfahren Beteiligter gegenübersteht. Die Stelle kann anordnen, daß die Beschwerdegebühr nach dem Patentkostengesetz zurückgezahlt wird. Wird der Beschwerde nicht nach Satz 1 abgeholfen, so ist sie vor Ablauf von einem Monat ohne sachliche Stellungnahme dem Patentgericht vorzulegen. In den Fällen des Satzes 2 ist die Beschwerde unverzüglich dem Patentgericht vorzulegen. In den Verfahren ohne die Beteiligung Dritter im Sinne des Satzes 2 ist ein Antrag auf Bewilligung von Verfahrenskostenhilfe für das Beschwerdeverfahren dem Patentgericht unverzüglich zur Vorabentscheidung vorzulegen.
 
 ### § 67 Beschwerdesenate, Öffentlichkeit der Verhandlung
 
@@ -1383,13 +1388,19 @@ Bevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organ
 
 (6) Der Mangel der Vollmacht kann in jeder Lage des Verfahrens geltend gemacht werden. Das Patentgericht hat den Mangel der Vollmacht von Amts wegen zu berücksichtigen, wenn nicht als Bevollmächtigter ein Rechtsanwalt oder ein Patentanwalt auftritt.
 
+### § 81a Verfahrenskostenhilfe
+
+(1) Im Verfahren vor dem Patentgericht erhält ein Beteiligter auf Antrag unter entsprechender Anwendung der §§ 114 bis 116 der Zivilprozessordnung Verfahrenskostenhilfe.
+
+(2) Im Übrigen sind § 130 Absatz 2 und 3 sowie die §§ 133 bis 137 des Patentgesetzes entsprechend anzuwenden.
+
 ### § 82 Anwendung weiterer Vorschriften, Anfechtbarkeit, Akteneinsicht
 
 (1) Soweit dieses Gesetz keine Bestimmungen über das Verfahren vor dem Patentgericht enthält, sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung entsprechend anzuwenden, wenn die Besonderheiten des Verfahrens vor dem Patentgericht dies nicht ausschließen. § 227 Abs. 3 Satz 1 der Zivilprozeßordnung ist nicht anzuwenden. Im Verfahren vor dem Patentgericht gilt für die Gebühren das Patentkostengesetz, für die Auslagen gilt das Gerichtskostengesetz entsprechend.
 
 (2) Eine Anfechtung der Entscheidungen des Patentgerichts findet nur statt, soweit dieses Gesetz sie zuläßt.
 
-(3) Für die Gewährung der Akteneinsicht an dritte Personen ist § 62 Abs. 1 und 2 entsprechend anzuwenden. Über den Antrag entscheidet das Patentgericht.
+(3) Für die Gewährung der Akteneinsicht an dritte Personen ist § 62 Absatz 1 bis 4 entsprechend anzuwenden. Über den Antrag entscheidet das Patentgericht.
 
 Abschnitt 6 Verfahren vor dem Bundesgerichtshof
 -----------------------------------------------
@@ -1467,7 +1478,7 @@ Der Bundesgerichtshof hat von Amts wegen zu prüfen, ob die Rechtsbeschwerde an 
 
 ### § 88 Anwendung weiterer Vorschriften
 
-(1) Im Verfahren über die Rechtsbeschwerde gelten die Vorschriften der Zivilprozessordnung über Ausschließung und Ablehnung der Gerichtspersonen (§§ 41 bis 49), über Prozessbevollmächtigte und Beistände (§§ 78 bis 90), über Zustellungen von Amts wegen (§§ 166 bis 190), über Ladungen, Termine und Fristen (§§ 214 bis 229) und über Wiedereinsetzung in den vorigen Stand (§§ 233 bis 238) entsprechend. Im Falle der Wiedereinsetzung in den vorigen Stand gilt § 91 Abs. 8 entsprechend.
+(1) Im Verfahren über die Rechtsbeschwerde gelten die Vorschriften der Zivilprozessordnung über Ausschließung und Ablehnung der Gerichtspersonen (§§ 41 bis 49), über Prozessbevollmächtigte und Beistände (§§ 78 bis 90), über Zustellungen von Amts wegen (§§ 166 bis 190), über Ladungen, Termine und Fristen (§§ 214 bis 229) und über Wiedereinsetzung in den vorigen Stand (§§ 233 bis 238) entsprechend. Im Falle der Wiedereinsetzung in den vorigen Stand gilt § 91 Abs. 8 entsprechend. Auf Antrag ist einem Beteiligten unter entsprechender Anwendung des § 138 des Patentgesetzes Verfahrenskostenhilfe zu bewilligen.
 
 (2) Für die Öffentlichkeit des Verfahrens gilt § 67 Abs. 2 und 3 entsprechend.
 
@@ -1569,10 +1580,10 @@ An Empfänger, denen beim Patentamt ein Abholfach eingerichtet worden ist, kann 
 
 (2) Die Prozessakten des Patentgerichts und des Bundesgerichtshofs können elektronisch geführt werden. Die Vorschriften der Zivilprozessordnung über elektronische Dokumente, die elektronische Akte und die elektronische Verfahrensführung im Übrigen gelten entsprechend, soweit sich aus diesem Gesetz nichts anderes ergibt.
 
-(3) Das Bundesministerium der Justiz bestimmt durch Rechtsverordnung ohne Zustimmung des Bundesrates
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz bestimmt durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1.  
-den Zeitpunkt, von dem an elektronische Dokumente bei dem Patentamt und den Gerichten eingereicht werden können, die für die Bearbeitung der Dokumente geeignete Form und die zu verwendende elektronische Signatur;
+den Zeitpunkt, von dem an elektronische Dokumente bei dem Patentamt und den Gerichten eingereicht werden können, die für die Bearbeitung der Dokumente geeignete Form, ob eine elektronische Signatur zu verwenden ist und wie diese Signatur beschaffen ist;
 
 2.  
 den Zeitpunkt, von dem an die Prozessakten nach Absatz 2 elektronisch geführt werden können, sowie die hierfür geltenden organisatorisch-technischen Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der elektronischen Prozessakten.
@@ -1875,7 +1886,7 @@ Anträge auf Beschlagnahme bei der Einfuhr und Ausfuhr können von Inhabern eing
 
 (4) Im übrigen sind auf Umwandlungsanträge die Vorschriften dieses Gesetzes für die Anmeldung von Marken anzuwenden.
 
-### § 125e Gemeinschaftsmarkengerichte, Gemeinschaftsmarkenstreitsachen
+### § 125e Gemeinschaftsmarkengerichte,Gemeinschaftsmarkenstreitsachen
 
 (1) Für alle Klagen, für die nach der Verordnung über die Gemeinschaftsmarke die Gemeinschaftsmarkengerichte im Sinne des Artikels 91 Abs. 1 der Verordnung zuständig sind (Gemeinschaftsmarkenstreitsachen), sind als Gemeinschaftsmarkengerichte erster Instanz die Landgerichte ohne Rücksicht auf den Streitwert ausschließlich zuständig.
 
@@ -1885,11 +1896,11 @@ Anträge auf Beschlagnahme bei der Einfuhr und Ausfuhr können von Inhabern eing
 
 (4) Die Länder können durch Vereinbarung den Gemeinschaftsmarkengerichten eines Landes obliegende Aufgaben ganz oder teilweise dem zuständigen Gemeinschaftsmarkengericht eines anderen Landes übertragen.
 
-(5) Auf Verfahren vor den Gemeinschaftsmarkengerichten ist § 140 Abs. 3 bis 5 entsprechend anzuwenden.
+(5) Auf Verfahren vor den Gemeinschaftsmarkengerichten ist § 140 Absatz 3 und § 142 entsprechend anzuwenden.
 
 ### § 125f Unterrichtung der Kommission
 
-Das Bundesministerium der Justiz teilt der Kommission der Europäischen Gemeinschaften die Gemeinschaftsmarkengerichte erster und zweiter Instanz sowie jede Änderung der Anzahl, der Bezeichnung oder der örtlichen Zuständigkeit der Gemeinschaftsmarkengerichte erster und zweiter Instanz mit.
+Das Bundesministerium der Justiz und für Verbraucherschutz teilt der Kommission der Europäischen Gemeinschaften die Gemeinschaftsmarkengerichte erster und zweiter Instanz sowie jede Änderung der Anzahl, der Bezeichnung oder der örtlichen Zuständigkeit der Gemeinschaftsmarkengerichte erster und zweiter Instanz mit.
 
 ### § 125g Örtliche Zuständigkeit der Gemeinschaftsmarkengerichte
 
@@ -1974,17 +1985,17 @@ Abschnitt 2 Schutz von geographischen Angaben und Ursprungsbezeichnungen gemäß
 
 (2) Für die in diesem Abschnitt geregelten Verfahren sind die im Patentamt errichteten Markenabteilungen zuständig.
 
-(3) Bei der Prüfung des Antrags holt das Patentamt die Stellungnahmen des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz, der zuständigen Fachministerien der betroffenen Länder, der interessierten öffentlichen Körperschaften sowie der interessierten Verbände und Organisationen der Wirtschaft ein.
+(3) Bei der Prüfung des Antrags holt das Patentamt die Stellungnahmen des Bundesministeriums für Ernährung und Landwirtschaft, der zuständigen Fachministerien der betroffenen Länder, der interessierten öffentlichen Körperschaften sowie der interessierten Verbände und Organisationen der Wirtschaft ein.
 
-(4) Das Patentamt veröffentlicht den Antrag im Markenblatt. Gegen den Antrag kann innerhalb von vier Monaten seit Veröffentlichung im Markenblatt von jeder Person mit einem berechtigten Interesse, die im Gebiet der Bundesrepublik Deutschland niedergelassen oder ansässig ist, beim Patentamt Einspruch eingelegt werden.
+(4) Das Patentamt veröffentlicht den Antrag im Markenblatt. Gegen den Antrag kann innerhalb von zwei Monaten seit Veröffentlichung im Markenblatt von jeder Person mit einem berechtigten Interesse, die im Gebiet der Bundesrepublik Deutschland niedergelassen oder ansässig ist, beim Patentamt Einspruch eingelegt werden.
 
 (5) Entspricht der Antrag den Voraussetzungen der Verordnung (EG) Nr. 510/2006 und den zu ihrer Durchführung erlassenen Vorschriften, stellt das Patentamt dies durch Beschluss fest. Andernfalls wird der Antrag durch Beschluss zurückgewiesen. Das Patentamt veröffentlicht den stattgebenden Beschluss im Markenblatt. Kommt es zu wesentlichen Änderungen der nach Absatz 4 veröffentlichten Angaben, so werden diese zusammen mit dem stattgebenden Beschluss im Markenblatt veröffentlicht. Der Beschluss nach Satz 1 und nach Satz 2 ist dem Antragsteller und denjenigen zuzustellen, die fristgemäß Einspruch eingelegt haben.
 
-(6) Steht rechtskräftig fest, dass der Antrag den Voraussetzungen der Verordnung (EG) Nr. 510/2006 und den zu ihrer Durchführung erlassenen Vorschriften entspricht, so unterrichtet das Patentamt den Antragsteller hierüber und übermittelt den Antrag mit den erforderlichen Unterlagen dem Bundesministerium der Justiz. Ferner veröffentlicht das Patentamt die Fassung der Spezifikation, auf die sich die positive Entscheidung bezieht, im Markenblatt. Das Bundesministerium der Justiz übermittelt den Antrag mit den erforderlichen Unterlagen an die Kommission der Europäischen Gemeinschaften.
+(6) Steht rechtskräftig fest, dass der Antrag den Voraussetzungen der Verordnung (EG) Nr. 510/2006 und den zu ihrer Durchführung erlassenen Vorschriften entspricht, so unterrichtet das Patentamt den Antragsteller hierüber und übermittelt den Antrag mit den erforderlichen Unterlagen dem Bundesministerium der Justiz und für Verbraucherschutz. Ferner veröffentlicht das Patentamt die Fassung der Spezifikation, auf die sich die positive Entscheidung bezieht, im Markenblatt. Das Bundesministerium der Justiz und für Verbraucherschutz übermittelt den Antrag mit den erforderlichen Unterlagen an die Kommission der Europäischen Gemeinschaften.
 
 ### § 131 Einspruch gegen die beabsichtigte Eintragung
 
-(1) Einsprüche nach Artikel 7 Abs. 2 der Verordnung (EG) Nr. 510/2006 gegen die beabsichtigte Eintragung von geographischen Angaben oder Ursprungsbezeichnungen in das von der Kommission der Europäischen Gemeinschaften geführte Register der geschützten Ursprungsbezeichnungen und der geschützten geographischen Angaben sind beim Patentamt innerhalb von vier Monaten seit der Veröffentlichung einzulegen, die im Amtsblatt der Europäischen Gemeinschaften nach Artikel 6 Abs. 2 der Verordnung (EG) Nr. 510/2006 vorgenommen wird.
+(1) Einsprüche nach Artikel 7 Abs. 2 der Verordnung (EG) Nr. 510/2006 gegen die beabsichtigte Eintragung von geographischen Angaben oder Ursprungsbezeichnungen in das von der Kommission der Europäischen Gemeinschaften geführte Register der geschützten Ursprungsbezeichnungen und der geschützten geographischen Angaben sind beim Patentamt innerhalb von zwei Monaten seit der Veröffentlichung einzulegen, die im Amtsblatt der Europäischen Gemeinschaften nach Artikel 6 Abs. 2 der Verordnung (EG) Nr. 510/2006 vorgenommen wird.
 
 (2) Die Zahlungsfrist für die Einspruchsgebühr richtet sich nach § 6 Abs. 1 Satz 1 des Patentkostengesetzes. Eine Wiedereinsetzung in die Einspruchsfrist und in die Frist zur Zahlung der Einspruchsgebühr ist nicht gegeben.
 
@@ -2043,7 +2054,7 @@ Abschnitt 3 Ermächtigungen zum Erlaß von Rechtsverordnungen
 
 ### § 137 Nähere Bestimmungen zum Schutz einzelner geographischer Herkunftsangaben
 
-(1) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft und Technologie und für Ernährung, Landwirtschaft und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen über einzelne geographische Herkunftsangaben zu treffen.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft und Energie und für Ernährung und Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen über einzelne geographische Herkunftsangaben zu treffen.
 
 (2) In der Rechtsverordnung können
 
@@ -2060,13 +2071,13 @@ geregelt werden. Bei der Regelung sind die bisherigen lauteren Praktiken, Gewohn
 
 ### § 138 Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EG) Nr. 510/2006
 
-(1) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen über das Antrags-, Einspruchs-, Änderungs- und Löschungsverfahren (§§ 130 bis 132) zu treffen.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen über das Antrags-, Einspruchs-, Änderungs- und Löschungsverfahren (§§ 130 bis 132) zu treffen.
 
-(2) Das Bundesministerium der Justiz kann die Ermächtigung zum Erlass von Rechtsverordnungen nach Absatz 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates ganz oder teilweise auf das Deutsche Patent- und Markenamt übertragen.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz kann die Ermächtigung zum Erlass von Rechtsverordnungen nach Absatz 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates ganz oder teilweise auf das Deutsche Patent- und Markenamt übertragen.
 
 ### § 139 Durchführungsbestimmungen zur Verordnung (EG) Nr. 510/2006
 
-(1) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie und dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Einzelheiten des Schutzes von Ursprungsbezeichnungen und geographischen Angaben nach der Verordnung (EG) Nr. 510/2006 zu regeln, soweit sich das Erfordernis hierfür aus der Verordnung (EG) Nr. 510/2006 oder den zu ihrer Durchführung erlassenen Vorschriften des Rates oder der Kommission der Europäischen Gemeinschaften ergibt. In Rechtsverordnungen nach Satz 1 können insbesondere Vorschriften über
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Ernährung und Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Einzelheiten des Schutzes von Ursprungsbezeichnungen und geographischen Angaben nach der Verordnung (EG) Nr. 510/2006 zu regeln, soweit sich das Erfordernis hierfür aus der Verordnung (EG) Nr. 510/2006 oder den zu ihrer Durchführung erlassenen Vorschriften des Rates oder der Kommission der Europäischen Gemeinschaften ergibt. In Rechtsverordnungen nach Satz 1 können insbesondere Vorschriften über
 
 1.  
 die Kennzeichnung der Agrarerzeugnisse oder Lebensmittel,
@@ -2145,7 +2156,7 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 (1a) (weggefallen)
 
-(2) Handelt der Täter gewerbsmäßig, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
+(2) Handelt der Täter in den Fällen des Absatzes 1 gewerbsmäßig oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Taten verbunden hat, so ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
 (3) Der Versuch ist strafbar.
 
