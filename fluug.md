@@ -2,7 +2,7 @@ Gesetz über die Untersuchung von Unfällen und Störungen bei dem Betrieb zivil
 =====================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 6 G v. 29.7.2009 I 2424
+Zuletzt geändert durch Art. 575 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -87,7 +87,7 @@ Erster Abschnitt Anwendungsbereich
 
 (2) Wird die Untersuchung eines Unfalls oder einer Störung eines in der Bundesrepublik Deutschland eingetragenen oder hergestellten oder von einem deutschen Halter betriebenen Luftfahrzeugs, der oder die sich im Ausland oder außerhalb staatlichen Hoheitsgebiets ereignet hat, nicht von einem anderen Staat durchgeführt, ist dieses Gesetz anzuwenden vorbehaltlich im Einzelfall zwingend anzuwendenden ausländischen Rechts.
 
-(3) Unfälle und Störungen, an denen zivile und militärische Luftfahrzeuge beteiligt sind, werden federführend von der zivilen Bundesstelle für Flugunfalluntersuchung untersucht (§ 4). Für Fälle, die überwiegend militärische Belange berühren, wird zwischen dem Bundesministerium für Verkehr, Bau und Stadtentwicklung und dem Bundesministerium der Verteidigung eine geeignete Regelung getroffen.
+(3) Unfälle und Störungen, an denen zivile und militärische Luftfahrzeuge beteiligt sind, werden federführend von der zivilen Bundesstelle für Flugunfalluntersuchung untersucht (§ 4). Für Fälle, die überwiegend militärische Belange berühren, wird zwischen dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Bundesministerium der Verteidigung eine geeignete Regelung getroffen.
 
 ### § 2 Begriffsbestimmungen
 
@@ -207,13 +207,13 @@ Zweiter Abschnitt Organisation
 
 ### § 4 Bundesstelle für Flugunfalluntersuchung
 
-(1) Zur Untersuchung von Unfällen und Störungen in der zivilen Luftfahrt wird im Geschäftsbereich des Bundesministeriums für Verkehr, Bau und Stadtentwicklung die Bundesstelle für Flugunfalluntersuchung errichtet. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung bestimmt den Sitz der Bundesstelle und regelt ihren Aufbau. Die Bundesstelle wird von ihrem Direktor geleitet. Verwaltungsangehörige der Bundesstelle sind im übrigen die Beamten, Angestellten und Arbeiter. Die Beamten sind Bundesbeamte.
+(1) Zur Untersuchung von Unfällen und Störungen in der zivilen Luftfahrt wird im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur die Bundesstelle für Flugunfalluntersuchung errichtet. Das Bundesministerium für Verkehr und digitale Infrastruktur bestimmt den Sitz der Bundesstelle und regelt ihren Aufbau. Die Bundesstelle wird von ihrem Direktor geleitet. Verwaltungsangehörige der Bundesstelle sind im übrigen die Beamten, Angestellten und Arbeiter. Die Beamten sind Bundesbeamte.
 
 (2) Die Bundesstelle nimmt ihre Aufgaben funktionell und organisatorisch unabhängig wahr insbesondere von jenen Luftfahrtbehörden, die für die Lufttüchtigkeit, die Zulassung, den Flugbetrieb, die Instandhaltung, die Erteilung von Erlaubnissen für Luftfahrtpersonal, die Flugsicherung und den Flugplatzbetrieb zuständig sind, sowie allgemein von allen natürlichen und juristischen Personen, deren Interessen mit den Aufgaben der Bundesstelle kollidieren könnten.
 
 (3) Weisungen hinsichtlich der Einleitung/Nichteinleitung sowie des Inhalts und des Umfangs einer Unfalluntersuchung sowie des Untersuchungsberichts oder der Sicherheitsempfehlung dürfen der Bundesstelle nicht erteilt werden; die Bundesstelle darf gleichwohl erteilte Weisungen nicht befolgen.
 
-(4) Dem Leiter der Bundesstelle sind die Untersuchungsführer, Untersuchungsfachkräfte und weitere Fachkräfte unterstellt. Die Bundesstelle kann sich geeigneter privater Personen als Beauftragte für Unfalluntersuchung bedienen, die im Einzelfall nach Weisung der Bundesstelle und unter ihrer Fachaufsicht als deren Hilfsorgane arbeiten. Die Bundesstelle bestimmt den Umfang der von den Beauftragten durchzuführenden Untersuchungstätigkeit sowie ihre Rechte und Pflichten nach Maßgabe dieses Gesetzes. Die Beauftragten erhalten aus Mitteln der Bundesstelle Reisekostenvergütung nach den für Bundesbeamte geltenden Vorschriften und eine Entschädigung, die vom Bundesministerium für Verkehr, Bau und Stadtentwicklung festgesetzt wird.
+(4) Dem Leiter der Bundesstelle sind die Untersuchungsführer, Untersuchungsfachkräfte und weitere Fachkräfte unterstellt. Die Bundesstelle kann sich geeigneter privater Personen als Beauftragte für Unfalluntersuchung bedienen, die im Einzelfall nach Weisung der Bundesstelle und unter ihrer Fachaufsicht als deren Hilfsorgane arbeiten. Die Bundesstelle bestimmt den Umfang der von den Beauftragten durchzuführenden Untersuchungstätigkeit sowie ihre Rechte und Pflichten nach Maßgabe dieses Gesetzes. Die Beauftragten erhalten aus Mitteln der Bundesstelle Reisekostenvergütung nach den für Bundesbeamte geltenden Vorschriften und eine Entschädigung, die vom Bundesministerium für Verkehr und digitale Infrastruktur festgesetzt wird.
 
 (5) Der Leiter der Bundesstelle und die Untersuchungsführer dürfen neben ihrem Amt kein anderes besoldetes Amt, kein Gewerbe und keinen Beruf ausüben und weder der Leitung noch dem Aufsichtsrat oder Verwaltungsrat eines auf Erwerb gerichteten Unternehmens noch einer gesetzgebenden Körperschaft des Bundes oder eines Landes angehören. Sie dürfen nicht gegen Entgelt außergerichtliche Gutachten abgeben. Sie dürfen keiner der in Absatz 2 genannten Behörden oder Einrichtungen angehören, sie vertreten, sie beraten oder für sie als Gutachter oder Sachverständige tätig werden.
 
@@ -439,12 +439,12 @@ Vierter Abschnitt Berichte und ihre Bekanntgabe
 die in § 17 Abs. 1 genannten Adressaten,
 
 2.  
-die Internationale Zivilluftfahrt-Organisation bei Luftfahrzeugen mit einer Höchstmasse über 5.700 kg,
+die Internationale Zivilluftfahrt-Organisation bei Luftfahrzeugen mit einer Höchstmasse über 5 700 kg,
 
 3.  
 die Kommission der Europäischen Gemeinschaft.
 
-Im übrigen erfolgt die Herausgabe des Berichts durch Bekanntgabe der Bezugsquelle im Verkehrsblatt des Bundesministeriums für Verkehr, Bau und Stadtentwicklung.
+Im übrigen erfolgt die Herausgabe des Berichts durch Bekanntgabe der Bezugsquelle im Verkehrsblatt des Bundesministeriums für Verkehr und digitale Infrastruktur.
 
 (4) Unfälle und Störungen, deren Untersuchungsergebnisse nicht von besonderer Bedeutung für die Flugsicherheit sind, werden mit einem summarischen Untersuchungsbericht abgeschlossen.
 
