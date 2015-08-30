@@ -2,7 +2,7 @@ Verordnung über die Benennung und Einrichtung der nationalen Eurojust-Anlaufste
 =================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 26.9.2012 I 2093
+Zuletzt geändert durch Art. 167 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -53,7 +53,7 @@ Der Generalbundesanwalt beim Bundesgerichtshof ist nationale Eurojust-Anlaufstel
 
 ### § 6 Aufsicht
 
-Bei der Erfüllung der ihm nach dieser Verordnung übertragenen Aufgaben unterliegt der Generalbundesanwalt der fachlichen Aufsicht des Bundesministeriums der Justiz.
+Bei der Erfüllung der ihm nach dieser Verordnung übertragenen Aufgaben unterliegt der Generalbundesanwalt der fachlichen Aufsicht des Bundesministeriums der Justiz und für Verbraucherschutz.
 
 ### § 7 Inkrafttreten, Außerkrafttreten
 
