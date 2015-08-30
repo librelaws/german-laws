@@ -2,7 +2,7 @@ Gesetz zur Sicherung der Energieversorgung ()
 =============================================
 
 Stand  
-Zuletzt geändert durch Art. 164 V v. 31.10.2006 I 2407
+Zuletzt geändert durch Art. 324 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -47,7 +47,7 @@ erlassen werden. Als lebenswichtig gilt auch der Bedarf zur Erfüllung öffentli
 
 ### § 3 Erlaß von Rechtsverordnungen
 
-(1) Rechtsverordnungen nach den §§ 1 und 2 erläßt die Bundesregierung. Sie kann diese Befugnis durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesministerium für Wirtschaft und Technologie sowie in Bezug auf die leitungsgebundene Versorgung mit Elektrizität und Erdgas auf die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen übertragen, wenn die Energieversorgung im Sinne des § 1 Abs. 1 gefährdet oder gestört ist. Rechtsverordnungen des Bundesministeriums für Wirtschaft und Technologie, die der Zollverwaltung Aufgaben übertragen, werden im Einvernehmen mit dem Bundesministerium der Finanzen erlassen.
+(1) Rechtsverordnungen nach den §§ 1 und 2 erläßt die Bundesregierung. Sie kann diese Befugnis durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesministerium für Wirtschaft und Energie sowie in Bezug auf die leitungsgebundene Versorgung mit Elektrizität und Erdgas auf die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen übertragen, wenn die Energieversorgung im Sinne des § 1 Abs. 1 gefährdet oder gestört ist. Rechtsverordnungen des Bundesministeriums für Wirtschaft und Energie, die der Zollverwaltung Aufgaben übertragen, werden im Einvernehmen mit dem Bundesministerium der Finanzen erlassen.
 
 (2) Rechtsverordnungen, die nach Eintritt einer Gefährdung oder Störung der Energieversorgung im Sinne des § 1 Abs. 1 erlassen werden und deren Geltungsdauer sich auf nicht mehr als sechs Monate erstreckt, bedürfen nicht der Zustimmung des Bundesrates. Ihre Geltungsdauer darf nur mit Zustimmung des Bundesrates verlängert werden.
 
@@ -92,13 +92,13 @@ Widerspruch und Anfechtungsklage gegen Verfügungen, die nach § 10 oder auf Gru
 
 ### § 6 Verwaltungsvorschriften
 
-(1) Das Bundesministerium für Wirtschaft und Technologie erläßt mit Zustimmung des Bundesrates zur Ausführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen allgemeine Verwaltungsvorschriften.
+(1) Das Bundesministerium für Wirtschaft und Energie erläßt mit Zustimmung des Bundesrates zur Ausführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen allgemeine Verwaltungsvorschriften.
 
 (2) Der Zustimmung des Bundesrates bedarf es nicht, soweit die allgemeinen Verwaltungsvorschriften an das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) oder an die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen gerichtet sind.
 
 ### § 7 Einzelweisungen
 
-Das Bundesministerium für Wirtschaft und Technologie kann, soweit die Ausführung der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen den Ländern obliegt, Einzelweisungen erteilen, wenn dies zur Sicherung einer regional ausgeglichenen Versorgung erforderlich ist und die Auswirkungen der zu treffenden Maßnahmen sich auf mehr als ein Land erstrecken.
+Das Bundesministerium für Wirtschaft und Energie kann, soweit die Ausführung der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen den Ländern obliegt, Einzelweisungen erteilen, wenn dies zur Sicherung einer regional ausgeglichenen Versorgung erforderlich ist und die Auswirkungen der zu treffenden Maßnahmen sich auf mehr als ein Land erstrecken.
 
 ### § 8 Mitwirkung von Vereinigungen
 
@@ -112,7 +112,7 @@ Der Bund und die Länder einschließlich der Gemeinden und Gemeindeverbände hab
 
 ### § 10 Auskünfte
 
-(1) Zur Ausführung der Rechtsverordnungen auf Grund dieses Gesetzes und zur Vorbereitung der Ausführung solcher Rechtsverordnungen haben natürliche und juristische Personen und nichtrechtsfähige Personenvereinigungen den zuständigen Behörden auf Verlangen die erforderlichen Auskünfte zu erteilen. Sie haben ferner dem Bundesministerium für Wirtschaft und Technologie sowie der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen Auskünfte zu erteilen, soweit dies zur Wahrnehmung der ihnen nach diesem Gesetz obliegenden Aufgaben, insbesondere zur Vorbereitung der auf Grund dieses Gesetzes zu erlassenden Rechtsverordnungen erforderlich ist.
+(1) Zur Ausführung der Rechtsverordnungen auf Grund dieses Gesetzes und zur Vorbereitung der Ausführung solcher Rechtsverordnungen haben natürliche und juristische Personen und nichtrechtsfähige Personenvereinigungen den zuständigen Behörden auf Verlangen die erforderlichen Auskünfte zu erteilen. Sie haben ferner dem Bundesministerium für Wirtschaft und Energie sowie der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen Auskünfte zu erteilen, soweit dies zur Wahrnehmung der ihnen nach diesem Gesetz obliegenden Aufgaben, insbesondere zur Vorbereitung der auf Grund dieses Gesetzes zu erlassenden Rechtsverordnungen erforderlich ist.
 
 (2) Die mit der Einholung von Auskünften beauftragten Personen sind befugt, Grundstücke und die Geschäfts- und Betriebsräume des Auskunftspflichtigen während der üblichen Geschäfts- und Betriebsstunden zu betreten, dort Prüfungen und Besichtigungen vorzunehmen, Proben zu entnehmen und in die geschäftlichen Unterlagen des Auskunftspflichtigen Einsicht zu nehmen. Der Auskunftspflichtige hat die Maßnahmen nach Satz 1 zu dulden.
 
@@ -189,7 +189,7 @@ sofern sie von einer Landesbehörde erlassen worden sind, die in § 4 Abs. 5 gen
 bei Zuwiderhandlungen gegen eine nach § 1 oder nach § 2 erlassene Rechtsverordnung oder gegen eine auf Grund einer solchen Rechtsverordnung ergangene Verfügung,
 
 a)  
-soweit Bundesbehörden zur Durchführung zuständig sind, das Bundesministerium für Wirtschaft und Technologie oder diese Behörden, soweit sie durch Rechtsverordnungen für zuständig erklärt werden,
+soweit Bundesbehörden zur Durchführung zuständig sind, das Bundesministerium für Wirtschaft und Energie oder diese Behörden, soweit sie durch Rechtsverordnungen für zuständig erklärt werden,
 
 b)  
 soweit Landesbehörden zur Durchführung zuständig sind, die in § 4 Abs. 5 genannten Stellen.
