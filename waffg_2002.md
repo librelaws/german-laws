@@ -2,11 +2,11 @@ Waffengesetz (WaffG)
 ====================
 
 Stand  
-Zuletzt geändert durch Art. 4 Abs. 65 G v. 7.8.2013 I 3154
+Zuletzt geändert durch Art. 288 V v. 31.8.2015 I 1474
 
 ### 
 
-(+++ Textnachweis ab: 1.4.2003)
+(+++ Textnachweis ab: 1.4.2003) (+++ Zur Anwendung d. § 28 Abs. 1 u. 8 vgl. § 1 WaffV 5 +++) (+++ Zur Anwendung d. § 29 Abs. 1 vgl. § 1 WaffV 5 +++) (+++ Zur Anwendung d. § 33 Abs. 1 vgl. § 1 WaffV 5 +++) (+++ Zur Anwendung d. § 35 Abs. 1 u. 5 vgl. § 1 WaffV 5 +++) (+++ Zur Anwendung d. § 37 Abs. 1 vgl. § 1 WaffV 5 +++) (+++ Zur Anwendung d. § 39 Abs. 1 vgl. § 1 WaffV 5 +++) (+++ Zur Anwendung d. §§ 41 bis 46 vgl. § 1 WaffV 5 +++) (+++ Zur Anwendung d. § 58 vgl. § 1 WaffV 5 +++) (+++ Zur Anwendung d. § 59 vgl. § 1 WaffV 5 +++)
 
 Das G wurde als Art. 1 des G 7133-4/1 v. 11.10.2002 I 3970 vom Bundestag mit Zustimmung des Bundesrates erlassen. Es tritt gem. Art. 19 Nr. 1 Satz 2 dieses G mWv 1.4.2003 in Kraft.
 
@@ -869,6 +869,8 @@ Vorschriften über die sicherheitstechnische Prüfung von Schießstätten zu erl
 
 (4) In einen Waffenschein nach § 10 Abs. 4 kann auch der Zusatz aufgenommen werden, dass die in Absatz 3 bezeichneten Personen die ihnen überlassenen Waffen nach Weisung des Erlaubnisinhabers führen dürfen.
 
+(+++ § 28 Abs. 1 u. 8: Zur Anwendung vgl. § 1 WaffV 5 +++)
+
 ### § 28a Erwerb, Besitz und Führen von Schusswaffen und Munition durch Bewachungsunternehmen und ihr Bewachungspersonal für Bewachungsaufgaben nach § 31 Absatz 1 der Gewerbeordnung
 
 (1) Für den Erwerb, Besitz und das Führen von Schusswaffen und Munition durch Bewachungsunternehmen und ihr Bewachungspersonal für Bewachungsaufgaben nach § 31 Absatz 1 der Gewerbeordnung auf Seeschiffen, die die Bundesflagge führen, ist § 28 entsprechend anzuwenden. Abweichend von § 28 Absatz 1 wird ein Bedürfnis für derartige Bewachungsaufgaben bei Bewachungsunternehmen anerkannt, die eine Zulassung nach § 31 Absatz 1 der Gewerbeordnung besitzen. Abweichend von § 28 Absatz 3 wird die Erlaubnis mit Auflagen erteilt, die die Unternehmer verpflichten,
@@ -1018,6 +1020,8 @@ auf Volksfesten, Schützenfesten, Märkten, Sammlertreffen oder ähnlichen öffe
 
 Die zuständige Behörde kann Ausnahmen von den Verboten für ihren Bezirk zulassen, wenn öffentliche Interessen nicht entgegenstehen.
 
+(+++ § 35 Abs. 1 u. 5: Zur Anwendung vgl. § 1 WaffV 5 +++)
+
 ### § 36 Aufbewahrung von Waffen oder Munition
 
 (1) Wer Waffen oder Munition besitzt, hat die erforderlichen Vorkehrungen zu treffen, um zu verhindern, dass diese Gegenstände abhanden kommen oder Dritte sie unbefugt an sich nehmen. Schusswaffen dürfen nur getrennt von Munition aufbewahrt werden, sofern nicht die Aufbewahrung in einem Sicherheitsbehältnis erfolgt, das mindestens der Norm DIN/EN 1143-1 Widerstandsgrad 0 (Stand Mai 1997) 1) oder einer Norm mit gleichem Schutzniveau eines anderen Mitgliedstaates des Übereinkommens über den Europäischen Wirtschaftsraum (EWR-Mitgliedstaat) entspricht.
@@ -1062,6 +1066,8 @@ in Besitz nimmt, hat dies der zuständigen Behörde unverzüglich anzuzeigen. Di
 (3) Wird eine Schusswaffe, zu deren Erwerb es einer Erlaubnis bedarf, oder eine verbotene Schusswaffe nach Anlage 2 Abschnitt 1 Nr. 1.2 nach den Anforderungen der Anlage 1 Abschnitt 1 Unterabschnitt 1 Nr. 1.4 unbrauchbar gemacht oder zerstört, so hat der Besitzer dies der zuständigen Behörde binnen zwei Wochen schriftlich anzuzeigen und ihr auf Verlangen den Gegenstand vorzulegen. Dabei hat er seine Personalien sowie Art, Kaliber, Herstellerzeichen oder Marke und - sofern vorhanden - die Herstellungsnummer der Schusswaffe anzugeben.
 
 (4) Inhaber waffenrechtlicher Erlaubnisse und Bescheinigungen sind verpflichtet, bei ihrem Wegzug ins Ausland ihre neue Anschrift der zuletzt für sie zuständigen Waffenbehörde mitzuteilen.
+
+(+++ § 37 Abs. 1: Zur Anwendung vgl. § 1 WaffV 5 +++)
 
 ### § 38 Ausweispflichten
 
@@ -1109,6 +1115,8 @@ in Anlage 2 Abschnitt 1 bezeichneten verbotenen Waffen
 
 ihr diese sowie Erlaubnisscheine oder Ausnahmebescheinigungen binnen angemessener, von ihr zu bestimmender Frist zur Prüfung vorlegt.
 
+(+++ § 39 Abs. 1: Zur Anwendung vgl. § 1 WaffV 5 +++)
+
 Unterabschnitt 7 Verbote
 ------------------------
 
@@ -1141,6 +1149,8 @@ Im Fall des Satzes 1 Nr. 2 ist der Betroffene darauf hinzuweisen, dass er die An
 (2) Die zuständige Behörde kann jemandem den Besitz von Waffen oder Munition, deren Erwerb der Erlaubnis bedarf, untersagen, soweit es zur Verhütung von Gefahren für die Sicherheit oder Kontrolle des Umgangs mit diesen Gegenständen geboten ist.
 
 (3) Die zuständige Behörde unterrichtet die örtliche Polizeidienststelle über den Erlass eines Waffenbesitzverbotes.
+
+(+++ § 41: Zur Anwendung vgl. § 1 WaffV 5 +++)
 
 ### § 42 Verbot des Führens von Waffen bei öffentlichen Veranstaltungen
 
@@ -1183,6 +1193,8 @@ Raubdelikte, Körperverletzungsdelikte, Bedrohungen, Nötigungen, Sexualdelikte,
 
 begangen worden sind und Tatsachen die Annahme rechtfertigen, dass auch künftig mit der Begehung solcher Straftaten zu rechnen ist. In der Rechtsverordnung nach Satz 1 soll bestimmt werden, dass die zuständige Behörde allgemein oder für den Einzelfall Ausnahmen insbesondere für Inhaber waffenrechtlicher Erlaubnisse, Anwohner und Gewerbetreibende zulassen kann, soweit eine Gefährdung der öffentlichen Sicherheit nicht zu besorgen ist. Im Falle des Satzes 2 gilt Absatz 3 entsprechend. Die Landesregierungen können ihre Befugnis nach Satz 1 in Verbindung mit Satz 2 durch Rechtsverordnung auf die zuständige oberste Landesbehörde übertragen; diese kann die Befugnis durch Rechtsverordnung weiter übertragen.
 
+(+++ § 42: Zur Anwendung vgl. § 1 WaffV 5 +++)
+
 ### § 42a Verbot des Führens von Anscheinswaffen und bestimmten tragbaren Gegenständen
 
 (1) Es ist verboten
@@ -1224,6 +1236,8 @@ Abschnitt 3 Sonstige waffenrechtliche Vorschriften
 
 (2) Öffentliche Stellen im Geltungsbereich dieses Gesetzes sind auf Ersuchen der zuständigen Behörde verpflichtet, dieser im Rahmen datenschutzrechtlicher Übermittlungsbefugnisse personenbezogene Daten zu übermitteln, soweit die Daten nicht wegen überwiegender öffentlicher Interessen geheim gehalten werden müssen.
 
+(+++ § 43: Zur Anwendung vgl. § 1 WaffV 5 +++)
+
 ### § 43a Nationales Waffenregister
 
 Bis zum 31. Dezember 2012 ist ein Nationales Waffenregister zu errichten, in dem bundesweit insbesondere Schusswaffen, deren Erwerb und Besitz der Erlaubnis bedürfen, sowie Daten von Erwerbern, Besitzern und Überlassern dieser Schusswaffen elektronisch auswertbar zu erfassen und auf aktuellem Stand zu halten sind.
@@ -1233,6 +1247,8 @@ Bis zum 31. Dezember 2012 ist ein Nationales Waffenregister zu errichten, in dem
 (1) Die für die Erteilung einer waffenrechtlichen Erlaubnis zuständige Behörde teilt der für den Antragsteller zuständigen Meldebehörde die erstmalige Erteilung einer Erlaubnis mit. Sie unterrichtet ferner diese Behörde, wenn eine Person über keine waffenrechtlichen Erlaubnisse mehr verfügt.
 
 (2) Die Meldebehörden teilen den Waffenerlaubnisbehörden Namensänderungen, Zuzug, Wegzug und Tod der Einwohner mit, für die das Vorliegen einer waffenrechtlichen Erlaubnis gespeichert ist.
+
+(+++ § 44: Zur Anwendung vgl. § 1 WaffV 5 +++)
 
 ### § 44a Behördliche Aufbewahrungspflichten
 
@@ -1253,6 +1269,8 @@ Bis zum 31. Dezember 2012 ist ein Nationales Waffenregister zu errichten, in dem
 (4) Verweigert ein Betroffener im Fall der Überprüfung des weiteren Vorliegens von in diesem Gesetz oder in einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung vorgeschriebenen Tatbestandsvoraussetzungen, bei deren Wegfall ein Grund zur Rücknahme oder zum Widerruf einer Erlaubnis oder Ausnahmebewilligung gegeben wäre, seine Mitwirkung, so kann die Behörde deren Wegfall vermuten. Der Betroffene ist hierauf hinzuweisen.
 
 (5) Widerspruch und Anfechtungsklage gegen Maßnahmen nach Absatz 1 und Absatz 2 Satz 1 haben keine aufschiebende Wirkung, sofern die Erlaubnis wegen des Nichtvorliegens oder Entfallens der Voraussetzungen nach § 4 Abs. 1 Nr. 2 zurückgenommen oder widerrufen wird.
+
+(+++ § 45: Zur Anwendung vgl. § 1 WaffV 5 +++)
 
 ### § 46 Weitere Maßnahmen
 
@@ -1284,6 +1302,8 @@ soweit Tatsachen die Annahme rechtfertigen, dass die Waffen oder Munition missbr
 Zu diesem Zweck sind die Beauftragten der zuständigen Behörde berechtigt, die Wohnung des Betroffenen zu betreten und diese nach Urkunden, Waffen oder Munition zu durchsuchen; Durchsuchungen dürfen nur durch den Richter, bei Gefahr im Verzug auch durch die zuständige Behörde angeordnet werden; das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt. Widerspruch und Anfechtungsklage haben keine aufschiebende Wirkung.
 
 (5) Sofern der bisherige Inhaber nicht innerhalb eines Monats nach Sicherstellung einen empfangsbereiten Berechtigten benennt oder im Fall der Sicherstellung verbotener Waffen oder Munition nicht in dieser Frist eine Ausnahmezulassung nach § 40 Abs. 4 beantragt, kann die zuständige Behörde die sichergestellten Waffen oder Munition einziehen und verwerten oder vernichten. Dieselben Befugnisse besitzt die zuständige Behörde im Fall der unanfechtbaren Versagung einer für verbotene Waffen oder Munition vor oder rechtzeitig nach der Sicherstellung beantragten Ausnahmezulassung nach § 40 Abs. 4. Der Erlös aus einer Verwertung der Waffen oder Munition steht nach Abzug der Kosten der Sicherstellung, Verwahrung und Verwertung dem nach bürgerlichem Recht bisher Berechtigten zu.
+
+(+++ § 46: Zur Anwendung vgl. § 1 WaffV 5 +++)
 
 ### § 47 Verordnungen zur Erfüllung internationaler Vereinbarungen oder zur Angleichung an Gemeinschaftsrecht
 
@@ -1368,7 +1388,7 @@ die Sicherstellung nach § 46 Abs. 2 Satz 2, Abs. 3 Satz 2 und Abs. 4 Satz 1 auc
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und nach den auf diesem Gesetz beruhenden Rechtsvorschriften werden Gebühren und Auslagen erhoben.
 
-(2) Das Bundesministerium des Innern wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie für den Bereich der Bundesverwaltung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand gedeckt wird. Bei begünstigenden Leistungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden. Soweit der Gegenstand der Gebühr in den Anwendungsbereich der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt (ABl. L 376 vom 27.12.2006, S. 36) fällt, findet Satz 3 keine Anwendung; inländische Gebührenschuldner dürfen hierdurch nicht benachteiligt werden.
+(2) Das Bundesministerium des Innern wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie für den Bereich der Bundesverwaltung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand gedeckt wird. Bei begünstigenden Leistungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden. Soweit der Gegenstand der Gebühr in den Anwendungsbereich der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt (ABl. L 376 vom 27.12.2006, S. 36) fällt, findet Satz 3 keine Anwendung; inländische Gebührenschuldner dürfen hierdurch nicht benachteiligt werden.
 
 (3) In der Rechtsverordnung nach Absatz 2 kann bestimmt werden, dass die für die Prüfung oder Untersuchung zulässige Gebühr auch erhoben werden darf, wenn die Prüfung oder Untersuchung ohne Verschulden der prüfenden oder untersuchenden Stelle und ohne ausreichende Entschuldigung des Bewerbers oder Antragstellers am festgesetzten Termin nicht stattfinden konnte oder abgebrochen werden musste. In der Rechtsverordnung können ferner die Gebühren- und Auslagenbefreiung, die Gebührengläubigerschaft, die Gebührenschuldnerschaft, der Umfang der zu erstattenden Auslagen und die Gebührenerhebung abweichend von den Vorschriften des Bundesgebührengesetzes geregelt werden.
 
@@ -1666,9 +1686,13 @@ der Verstoß im Zeitpunkt der Unbrauchbarmachung, Überlassung oder Übergabe ga
 
 (12) Besitzt der Inhaber einer Waffenbesitzkarte am 1. April 2008 erlaubnisfrei erworbene Teile von Schusswaffen im Sinne der Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr. 2, so sind diese Teile bis zum 1. Oktober 2008 in die Waffenbesitzkarte einzutragen.
 
+(+++ § 58: Zur Anwendung vgl. § 1 WaffV 5 +++)
+
 ### § 59 Verwaltungsvorschriften
 
 Das Bundesministerium des Innern erlässt allgemeine Verwaltungsvorschriften über den Erwerb und das Führen von Schusswaffen durch Behörden und Bedienstete seines Geschäftsbereichs sowie über das Führen von Schusswaffen durch erheblich gefährdete Hoheitsträger im Sinne von § 55 Abs. 2; die anderen obersten Bundesbehörden und die Deutsche Bundesbank erlassen die Verwaltungsvorschriften für ihren Geschäftsbereich im Einvernehmen mit dem Bundesministerium des Innern.
+
+(+++ § 59: Zur Anwendung vgl. § 1 WaffV 5 +++)
 
 ### § 60 Übergangsvorschrift
 
