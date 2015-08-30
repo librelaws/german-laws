@@ -2,7 +2,7 @@ Gesetz über die Sonderung unvermessener und überbauter Grundstücke nach der K
 =========================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 8 G v. 22.12.2010 I 2255
+Zuletzt geändert durch Art. 186 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -102,7 +102,7 @@ Abschnitt 2 Durchführung der Sonderung
 
 (5) Die aus dem Grundbuch oder dem Antrag der Behörde nach § 6 Abs. 1 Satz 2 ersichtlichen Planbetroffenen oder, falls sie verstorben sind, ihre dem Grundbuchamt bekannten Erben erhalten eine eingeschriebene Nachricht über die öffentliche Auslegung, die mit einer Aufforderung zur Einsichtnahme und dem Hinweis, daß innerhalb der anzugebenden Frist nach Absatz 4 Einwände gegen die Feststellungen erhoben werden können, zu verbinden ist. Die Frist nach Absatz 4 beginnt dann mit dem Zugang der Nachricht. In den Fällen des § 1 Nr. 3 und 4 ist für Planbetroffene, die nach Person oder deren Aufenthalt nicht bekannt ist, nach Maßgabe des Artikels 233 § 2 Abs. 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ein Vertreter zu bestellen, soweit dies nicht schon nach anderen Vorschriften geschehen ist.
 
-(6) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Gestaltung des Sonderungsplans, auch durch Bestimmung von Mustern, unter Berücksichtigung der für die Führung des Liegenschaftskatasters bestehenden Vorschriften festzulegen.
+(6) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Gestaltung des Sonderungsplans, auch durch Bestimmung von Mustern, unter Berücksichtigung der für die Führung des Liegenschaftskatasters bestehenden Vorschriften festzulegen.
 
 ### § 9 Erlaß des Sonderungsbescheids
 
@@ -180,7 +180,7 @@ Abschnitt 4 Rechtsschutz, Verhältnis zu anderen Verfahren
 
 ### § 18 Antrag auf gerichtliche Entscheidung
 
-(1) Sonderungsbescheide sowie sonstige Bescheide nach diesem Gesetz können von Planbetroffenen nur durch Antrag auf gerichtliche Entscheidung angefochten werden. Über den Antrag entscheidet eine Zivilkammer des Landgerichts, in dessen Bezirk die Sonderungsbehörde ihren Sitz hat. Der Antrag kann erst nach vorausgegangenem Verwaltungsvorverfahren nach dem 8. Abschnitt der Verwaltungsgerichtsordnung gestellt werden, für das die Stelle zuständig ist, die nach dem Landesrecht die allgemeine Aufsicht über die Sonderungsbehörde führt. Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Einzelheiten zu regeln und hierbei auch von den Bestimmungen der Verwaltungsgerichtsordnung abzuweichen, soweit dies für Verfahren nach diesem Gesetz erforderlich ist, sowie die Zuständigkeit für das Verwaltungsvorverfahren anders zu bestimmen.
+(1) Sonderungsbescheide sowie sonstige Bescheide nach diesem Gesetz können von Planbetroffenen nur durch Antrag auf gerichtliche Entscheidung angefochten werden. Über den Antrag entscheidet eine Zivilkammer des Landgerichts, in dessen Bezirk die Sonderungsbehörde ihren Sitz hat. Der Antrag kann erst nach vorausgegangenem Verwaltungsvorverfahren nach dem 8. Abschnitt der Verwaltungsgerichtsordnung gestellt werden, für das die Stelle zuständig ist, die nach dem Landesrecht die allgemeine Aufsicht über die Sonderungsbehörde führt. Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Einzelheiten zu regeln und hierbei auch von den Bestimmungen der Verwaltungsgerichtsordnung abzuweichen, soweit dies für Verfahren nach diesem Gesetz erforderlich ist, sowie die Zuständigkeit für das Verwaltungsvorverfahren anders zu bestimmen.
 
 (2) Der Antrag muß innerhalb eines Monats nach Zustellung der in dem Verwaltungsvorverfahren ergangenen Entscheidung schriftlich bei dem Landgericht gestellt werden. Er ist nur zulässig, wenn der Antragsteller geltend macht, durch den Bescheid in seinen Rechten verletzt zu sein. Der Antrag soll die Erklärung, inwieweit der Bescheid angefochten wird, und einen bestimmten Antrag enthalten sowie die Gründe und die Tatsachen und Beweismittel angeben, die zur Rechtfertigung des Antrags dienen.
 
@@ -218,4 +218,4 @@ Verfahren nach diesem Gesetz stehen Verfahren nach dem Baugesetzbuch, dem 8. Abs
 
 ### § 23 Verordnungsermächtigung
 
-Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die grundbuchmäßige Behandlung von Anteilen an ungetrennten Hofräumen zu regeln.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die grundbuchmäßige Behandlung von Anteilen an ungetrennten Hofräumen zu regeln.
