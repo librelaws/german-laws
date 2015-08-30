@@ -2,7 +2,7 @@ Gesetz über die Errichtung eines Bundesamtes für Bauwesen und Raumordnung (Art
 ==============================================================================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 26 V v. 31.10.2006 I 2407
+Zuletzt geändert durch Art. 34 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -14,7 +14,7 @@ Das G wurde vom Bundestag beschlossen und ist gem. Art. 5 Abs. 1 G v. 15.12.1997
 
 ### § 1 Errichtung und Sitz des Bundesamtes für Bauwesen und Raumordnung
 
-(1) Im Geschäftsbereich des Bundesministeriums für Verkehr, Bau und Stadtentwicklung wird durch Zusammenlegung der Bundesbaudirektion und der Bundesforschungsanstalt für Landeskunde und Raumordnung ein Bundesamt für Bauwesen und Raumordnung als Bundesoberbehörde errichtet.
+(1) Im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit ist ein Bundesamt für Bauwesen und Raumordnung als Bundesoberbehörde errichtet.
 
 (2) Das Bundesamt für Bauwesen und Raumordnung hat seinen Sitz in Bonn.
 
@@ -39,19 +39,19 @@ des Bundes in Berlin,
 5.  
 im Geschäftsbereich eines Bundesministeriums bei überwiegendem Interesse des Bundes,
 
-soweit das Bundesministerium für Verkehr, Bau und Stadtentwicklung oder im Falle der Nummer 5 das Bundesministerium im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung dem Bundesamt die Aufgabe übertragen hat.
+soweit das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit oder im Falle der Nummer 5 das Bundesministerium im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit dem Bundesamt die Aufgabe übertragen hat.
 
-(3) Das Bundesamt für Bauwesen und Raumordnung unterstützt das Bundesministerium für Verkehr, Bau und Stadtentwicklung fachlich bei der Wahrnehmung der Aufgaben auf den in Absatz 1 genannten Gebieten einschließlich der internationalen Zusammenarbeit und stellt zentrale Dienste und Hilfen für Bundesbehörden bereit.
+(3) Das Bundesamt für Bauwesen und Raumordnung unterstützt das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit fachlich bei der Wahrnehmung der Aufgaben auf den in Absatz 1 genannten Gebieten einschließlich der internationalen Zusammenarbeit und stellt zentrale Dienste und Hilfen für Bundesbehörden bereit.
 
 (4) Das Bundesamt für Bauwesen und Raumordnung betreibt zur Erledigung seiner Aufgaben wissenschaftliche Forschung auf den Gebieten der Raumordnung, des Städtebaus und des Wohnungswesens. Das Statistische Bundesamt und die statistischen Ämter der Länder dürfen dem Bundesamt in entsprechender Anwendung von § 16 Abs. 6 des Bundesstatistikgesetzes Einzelangaben übermitteln, soweit dies zur Erfüllung der in Satz 1 genannten Forschungsaufgaben erforderlich ist. Die Daten dürfen nur für diesen Zweck und in von den anderen Aufgabenbereichen des Bundesamtes räumlich, organisatorisch und personell getrennten Organisationseinheiten gespeichert und genutzt werden.
 
-(5) Das Bundesamt für Bauwesen und Raumordnung erledigt, soweit nicht die Zuständigkeit einer anderen Behörde gesetzlich festgelegt ist, weitere, mit den in Absatz 1 genannten Gebieten in Zusammenhang stehende Aufgaben des Bundes, mit deren Durchführung es vom Bundesministerium für Verkehr, Bau und Stadtentwicklung oder von der sachlich zuständigen Bundesbehörde im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung beauftragt wird.
+(5) Das Bundesamt für Bauwesen und Raumordnung erledigt, soweit nicht die Zuständigkeit einer anderen Behörde gesetzlich festgelegt ist, weitere, mit den in Absatz 1 genannten Gebieten in Zusammenhang stehende Aufgaben des Bundes, mit deren Durchführung es vom Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit oder von der sachlich zuständigen Bundesbehörde im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit beauftragt wird.
 
 (6) Bauangelegenheiten der Verfassungsorgane des Bundes und der obersten Bundesbehörden kann die Bundesregierung im Einvernehmen mit dem betroffenen Verfassungsorgan einer Gesellschaft des privaten Rechts übertragen.
 
 ### § 3 Fachaufsicht
 
-Das Bundesamt für Bauwesen und Raumordnung untersteht der Fachaufsicht durch das Bundesministerium für Verkehr, Bau und Stadtentwicklung. Für Bauangelegenheiten im Geschäftsbereich des Bundesministeriums der Verteidigung untersteht es dessen Fachaufsicht. Bei der Erledigung von Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministeriums für Verkehr, Bau und Stadtentwicklung nach § 2 Abs. 5 untersteht das Bundesamt den fachlichen Weisungen der sachlich zuständigen obersten Bundesbehörde, soweit diese nicht baufachlicher Art sind.
+Das Bundesamt für Bauwesen und Raumordnung untersteht der Fachaufsicht durch das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit. Für Bauangelegenheiten im Geschäftsbereich des Bundesministeriums der Verteidigung untersteht es dessen Fachaufsicht. Bei der Erledigung von Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit nach § 2 Abs. 5 untersteht das Bundesamt den fachlichen Weisungen der sachlich zuständigen obersten Bundesbehörde, soweit diese nicht baufachlicher Art sind.
 
 ### § 4 Überleitungsvorschriften
 
