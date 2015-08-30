@@ -2,7 +2,7 @@ Gesetz über den Bau des Abschnitts Wismar West-Wismar Ost der Bundesautobahn A 
 ===============================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 287 V v. 31.10.2006 I 2407
+Zuletzt geändert durch Art. 470 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -22,7 +22,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 ### § 2 Änderungen und Ergänzungen des Planes
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates den Plan nach § 1 unter Einhaltung der Grundzüge der Planung zu ändern und zu ergänzen, soweit nach Inkrafttreten dieses Gesetzes Tatsachen bekannt werden, die der Ausführung des Vorhabens nach den getroffenen Festsetzungen entgegenstehen. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung hat dabei eine Abwägung aller betroffenen Belange vorzunehmen.
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates den Plan nach § 1 unter Einhaltung der Grundzüge der Planung zu ändern und zu ergänzen, soweit nach Inkrafttreten dieses Gesetzes Tatsachen bekannt werden, die der Ausführung des Vorhabens nach den getroffenen Festsetzungen entgegenstehen. Das Bundesministerium für Verkehr und digitale Infrastruktur hat dabei eine Abwägung aller betroffenen Belange vorzunehmen.
 
 (2) Die nach dem Bundesfernstraßengesetz für Planfeststellungen zuständige Behörde hat zusätzliche Regelungen zu treffen,
 
