@@ -2,14 +2,16 @@ Gesetz über den Bundesgrenzschutz (BGSG)
 ========================================
 
 Stand  
-Zuletzt geändert durch Art. 15 Abs. 8 G v. 5.2.2009 I 160
+Zuletzt geändert durch Art. 13 V v. 31.8.2015 I 1474
 
 Aufh  
 §§ 1 bis 47 u. §§ 62 bis 74 aufgeh. durch Art. 3 Abs. 1 Satz 2 G v. 19.10.1994 I 2978 mWv 1.11.1994
 
 ### 
 
-(+++ Textnachweis Geltung ab: 1. 1.1982 +++)
+```
+(+++ Textnachweis Geltung ab:  1. 1.1982 +++)
+```
 
 ### Eingangsformel
 
@@ -168,7 +170,7 @@ Der Grenzschutzsold gilt als Dienstbezug im Sinne der §§ 7 und 117 der Bundesd
 Die Herabsetzung der Dienstbezeichnung darf nur im förmlichen Disziplinarverfahren verhängt werden. Auf sie sind die für die Versetzung in ein Amt derselben Laufbahn mit geringerem Endgrundgehalt geltenden Vorschriften der Bundesdisziplinarordnung entsprechend anzuwenden.
 
 4.  
-An die Stelle des Beisitzers gemäß § 50 Abs. *4* Satz 3 der Bundesdisziplinarordnung tritt ein Dienstleistender, der der Laufbahn des beschuldigten Dienstleistenden angehören soll. Der Bundesminister der Justiz bestellt die Beisitzer für die Dauer ihres Grenzschutzdienstes auf Vorschlag des Bundesministers des Innern; ein Beisitzer kann auch für mehrere Kammern bestellt werden.
+An die Stelle des Beisitzers gemäß § 50 Abs. *4* Satz 3 der Bundesdisziplinarordnung tritt ein Dienstleistender, der der Laufbahn des beschuldigten Dienstleistenden angehören soll. Das Bundesministerium der Justiz und für Verbraucherschutz bestellt die Beisitzer für die Dauer ihres Grenzschutzdienstes auf Vorschlag des Bundesministeriums des Innern; ein Beisitzer kann auch für mehrere Kammern bestellt werden.
 
 § 58 Satz 2 Nr. 4 Satz 1 Kursivdruck: Vgl. jetzt § 50 Abs. 2 Satz 3
 
