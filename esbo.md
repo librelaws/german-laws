@@ -1154,20 +1154,3 @@ Fundstelle: BGBl I 1972, 286)
 
 (Inhalt: nicht darstellbare Abbildungen,
 Fundstelle: BGBl I 1972, 287)
-
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1099) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
-...
-
-7.  
-Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen vom 25. Februar 1972 (BGBl. I S. 269), geändert durch Verordnung vom 21. November 1983 (BGBl. I S. 1382),mit folgender Maßgabe:Für bestehende Anlagen können die in § 3 genannten Stellen die Fortgeltung von Vorschriften der Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen vom 25. Juni 1943 (RGBl. II S. 285) bis zum 31. Dezember 1993 zulassen.
-
-...
-
-10.  
-Bei der Anwendung der Verordnungen unter den Nummern 6 bis 8, insbesondere bei der Errichtung neuer sowie der wesentlichen Änderung bestehender Anlagen und Fahrzeuge, ist auf eine Vereinheitlichung hinzuwirken.
-
-11.  
-Soweit einzelne Bestimmungen der unter den Nummern 1 bis 9 genannten Rechtsvorschriften unter Berücksichtigung besonderer Gegebenheiten nicht oder nicht unmittelbar Anwendung finden können, gelten sie für die Deutsche Reichsbahn sinngemäß. Gleiches gilt für sonstige Gesetze und Rechtsverordnungen des Bundes, die besondere Regelungen für die Deutsche Bundesbahn vorsehen.
