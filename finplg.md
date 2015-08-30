@@ -2,11 +2,13 @@ Erstes Gesetz zur Überleitung der Haushaltswirtschaft des Bundes in eine mehrj�
 =====================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 28 G v. 8.5.2008 I 810
+Zuletzt geändert Art. 244 V v. 31.8.2015 I 1474
 
 ### 
 
+```
 (+++ Textnachweis Geltung ab: 1. 1.1967 +++)
+```
 
 Art 1 und 2
 -----------
@@ -82,7 +84,7 @@ vorgesehen sind.
 Soweit nach den unter Nummer 2 genannten Richtlinien für Antragstellung, Entscheidung über Anträge und die Gewährung von Beihilfen nicht bereits Dienststellen der Bundesanstalt zuständig sind, geht die Zuständigkeit auf die Hauptstelle der Bundesanstalt über.
 
 4.  
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung die unter Nummer 2 genannten Maßnahmen für die institutionelle und individuelle Leistungs- und Aufstiegsförderung im Rahmen ihrer Zweckbestimmung neu zu regeln; die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung die unter Nummer 2 genannten Maßnahmen für die institutionelle und individuelle Leistungs- und Aufstiegsförderung im Rahmen ihrer Zweckbestimmung neu zu regeln; die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
 
 5.  
 Alle Forderungen und Verbindlichkeiten des Bundes und des "Sondervermögens für berufliche Leistungsförderung", die bei der Durchführung der Maßnahmen der individuellen Aufstiegs- und Leistungsförderung nach den unter Nummer 2 Buchstabe a genannten Richtlinien bis zum 31. Dezember 1966 entstanden sind, gehen mit Inkrafttreten der Nummern 2 bis 4 auf die Bundesanstalt über. Damit sind alle Ansprüche der Bundesanstalt auf Erstattung der Verwaltungskosten abgegolten.
