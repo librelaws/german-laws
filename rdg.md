@@ -2,7 +2,7 @@ Gesetz über außergerichtliche Rechtsdienstleistungen (RDG)
 ==========================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 1.10.2013 I 3714
+Zuletzt geändert durch Art. 142 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -214,7 +214,7 @@ Rentenberatung auf dem Gebiet der gesetzlichen Renten- und Unfallversicherung, d
 3.  
 Rechtsdienstleistungen in einem ausländischen Recht; ist das ausländische Recht das Recht eines Mitgliedstaates der Europäischen Union, eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz, darf auch auf dem Gebiet des Rechts der Europäischen Union und des Rechts des Europäischen Wirtschaftsraums beraten werden.
 
-Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Teilbereiche der in Satz 1 genannten Bereiche zu bestimmen.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Teilbereiche der in Satz 1 genannten Bereiche zu bestimmen.
 
 (2) Die Registrierung erfolgt auf Antrag. Soweit nach Absatz 1 Satz 2 Teilbereiche bestimmt sind, kann der Antrag auf einen oder mehrere dieser Teilbereiche beschränkt werden.
 
@@ -293,7 +293,7 @@ eine Berufshaftpflichtversicherung mit einer Mindestversicherungssumme von 250 
 
 (4) Juristische Personen und Gesellschaften ohne Rechtspersönlichkeit müssen mindestens eine natürliche Person benennen, die alle nach Absatz 1 Nr. 1 und 2 erforderlichen Voraussetzungen erfüllt (qualifizierte Person). Die qualifizierte Person muss in dem Unternehmen dauerhaft beschäftigt, in allen Angelegenheiten, die Rechtsdienstleistungen des Unternehmens betreffen, weisungsunabhängig und weisungsbefugt sowie zur Vertretung nach außen berechtigt sein. Registrierte Einzelpersonen können qualifizierte Personen benennen.
 
-(5) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten zu den Voraussetzungen der Registrierung nach den §§ 11 und 12 zu regeln, insbesondere die Anforderungen an die Sachkunde und ihren Nachweis einschließlich der Anerkennung und Zertifizierung privater Anbieter von Sachkundelehrgängen, an die Anerkennung ausländischer Berufsqualifikationen und den Anpassungslehrgang sowie, auch abweichend von den Vorschriften des Versicherungsvertragsgesetzes für die Pflichtversicherung, an Inhalt und Ausgestaltung der Berufshaftpflichtversicherung.
+(5) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten zu den Voraussetzungen der Registrierung nach den §§ 11 und 12 zu regeln, insbesondere die Anforderungen an die Sachkunde und ihren Nachweis einschließlich der Anerkennung und Zertifizierung privater Anbieter von Sachkundelehrgängen, an die Anerkennung ausländischer Berufsqualifikationen und den Anpassungslehrgang sowie, auch abweichend von den Vorschriften des Versicherungsvertragsgesetzes für die Pflichtversicherung, an Inhalt und Ausgestaltung der Berufshaftpflichtversicherung.
 
 ### § 13 Registrierungsverfahren
 
@@ -320,7 +320,7 @@ In den Fällen des § 12 Abs. 4 müssen die in Satz 3 genannten Unterlagen sowie
 
 (3) Registrierte Personen oder ihre Rechtsnachfolger müssen alle Änderungen, die sich auf die Registrierung oder den Inhalt des Rechtsdienstleistungsregisters auswirken, der zuständigen Behörde unverzüglich in Textform mitteilen. Diese veranlasst die notwendigen Registrierungen und ihre öffentliche Bekanntmachung im Rechtsdienstleistungsregister. Wirkt sich eine Verlegung der Hauptniederlassung auf die Zuständigkeit nach Absatz 1 Satz 1 aus, so gibt die Behörde den Vorgang an die Behörde ab, die für den Ort der neuen Hauptniederlassung zuständig ist. Diese unterrichtet die registrierte Person über die erfolgte Übernahme, registriert die Änderung und veranlasst ihre öffentliche Bekanntmachung im Rechtsdienstleistungsregister.
 
-(4) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Registrierungsverfahrens zu regeln. Dabei sind insbesondere Aufbewahrungs- und Löschungsfristen vorzusehen.
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Registrierungsverfahrens zu regeln. Dabei sind insbesondere Aufbewahrungs- und Löschungsfristen vorzusehen.
 
 ### § 13a Aufsichtsmaßnahmen
 
@@ -434,7 +434,7 @@ der Dauer der Untersagung.
 
 Bei öffentlichen Bekanntmachungen nach Nummer 1 werden mit der Geschäftsanschrift auch die Telefonnummer und die E-Mail-Adresse der registrierten Person veröffentlicht, wenn sie in die Veröffentlichung dieser Daten schriftlich eingewilligt hat.
 
-(3) Die öffentliche Bekanntmachung erfolgt durch eine zentrale und länderübergreifende Veröffentlichung im Internet unter der Adresse www.rechtsdienstleistungsregister.de. Die nach § 9 Abs. 1 oder § 13 Abs. 1 zuständige Behörde trägt die datenschutzrechtliche Verantwortung für die von ihr im Rechtsdienstleistungsregister veröffentlichten Daten, insbesondere für die Rechtmäßigkeit ihrer Erhebung, die Zulässigkeit ihrer Veröffentlichung und ihre Richtigkeit. Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der öffentlichen Bekanntmachung im Internet zu regeln.
+(3) Die öffentliche Bekanntmachung erfolgt durch eine zentrale und länderübergreifende Veröffentlichung im Internet unter der Adresse www.rechtsdienstleistungsregister.de. Die nach § 9 Abs. 1 oder § 13 Abs. 1 zuständige Behörde trägt die datenschutzrechtliche Verantwortung für die von ihr im Rechtsdienstleistungsregister veröffentlichten Daten, insbesondere für die Rechtmäßigkeit ihrer Erhebung, die Zulässigkeit ihrer Veröffentlichung und ihre Richtigkeit. Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der öffentlichen Bekanntmachung im Internet zu regeln.
 
 ### § 17 Löschung von Veröffentlichungen
 
@@ -458,7 +458,7 @@ bei Personen oder Vereinigungen, denen die Erbringung von Rechtsdienstleistungen
 6.  
 bei Personen oder Gesellschaften nach § 15 mit Ablauf eines Jahres nach der vorübergehenden Registrierung oder ihrer letzten Verlängerung, im Fall der Untersagung nach § 15 Abs. 5 mit Bestandskraft der Untersagung.
 
-(2) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Löschungsverfahrens zu regeln.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Löschungsverfahrens zu regeln.
 
 Teil 5 Datenübermittlung und Zuständigkeiten, Bußgeldvorschriften
 -----------------------------------------------------------------
@@ -471,7 +471,7 @@ Teil 5 Datenübermittlung und Zuständigkeiten, Bußgeldvorschriften
 
 (2) Die zuständige Behörde darf zum Zweck der Prüfung einer Untersagung nach § 15 Abs. 5 von der zuständigen Behörde des Staates der Niederlassung Informationen über die Rechtmäßigkeit der Niederlassung und über das Vorliegen berufsbezogener disziplinarischer oder strafrechtlicher Sanktionen anfordern und ihr zum Zweck der Prüfung weiterer Maßnahmen die Entscheidung über eine Untersagung nach § 15 Abs. 5 mitteilen. Sie leistet Amtshilfe, wenn die zuständige Behörde eines anderen Mitgliedstaates der Europäischen Union, eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz darum unter Berufung auf die Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. EU Nr. L 255 S. 22) ersucht, und darf zu diesem Zweck personenbezogene Daten, deren Kenntnis für eine berufsbezogene disziplinarische oder strafrechtliche Maßnahme oder ein Beschwerdeverfahren erforderlich ist, von Gerichten und Behörden anfordern und an die zuständige Behörde des anderen Mitgliedstaates übermitteln.
 
-(3) Das Bundesministerium der Justiz wird ermächtigt, die Einzelheiten des Umgangs mit personenbezogenen Daten, insbesondere der Veröffentlichung in dem Rechtsdienstleistungsregister, der Einsichtnahme in das Register, der Datenübermittlung einschließlich des automatisierten Datenabrufs und der Amtshilfe, durch Rechtsverordnung mit Zustimmung des Bundesrates zu regeln. Dabei ist sicherzustellen, dass die Veröffentlichungen auch während der Datenübermittlung unversehrt, vollständig und aktuell bleiben und jederzeit ihrem Ursprung nach zugeordnet werden können.
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, die Einzelheiten des Umgangs mit personenbezogenen Daten, insbesondere der Veröffentlichung in dem Rechtsdienstleistungsregister, der Einsichtnahme in das Register, der Datenübermittlung einschließlich des automatisierten Datenabrufs und der Amtshilfe, durch Rechtsverordnung mit Zustimmung des Bundesrates zu regeln. Dabei ist sicherzustellen, dass die Veröffentlichungen auch während der Datenübermittlung unversehrt, vollständig und aktuell bleiben und jederzeit ihrem Ursprung nach zugeordnet werden können.
 
 ### § 19 Zuständigkeit und Übertragung von Befugnissen
 
