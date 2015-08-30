@@ -2,7 +2,7 @@ Gesetz zur Ausführung des Abkommens vom 27. Februar 1953 über deutsche Ausland
 ==========================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 73 G v. 8.12.2010 I 1864
+Zuletzt geändert durch Art. 301 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -972,7 +972,7 @@ i) Devisenrechtliche Bestimmungen
 
 ### § 108
 
-(1) Das Bundesministerium für Wirtschaft und Technologie erläßt im Einvernehmen mit dem Bundesministerium der Finanzen und im Benehmen mit der *Bank deutscher Länder* die im Hinblick auf die Beschränkungen *der Devisenbewirtschaftungsgesetze* zur Ausführung des Abkommens erforderlichen Rechtsverordnungen. Sie bedürfen nicht der Zustimmung des Bundesrates.
+(1) Das Bundesministerium für Wirtschaft und Energie erläßt im Einvernehmen mit dem Bundesministerium der Finanzen und im Benehmen mit der *Bank deutscher Länder* die im Hinblick auf die Beschränkungen *der Devisenbewirtschaftungsgesetze* zur Ausführung des Abkommens erforderlichen Rechtsverordnungen. Sie bedürfen nicht der Zustimmung des Bundesrates.
 
 (2) Die *Bank deutscher Länder* ... erteilen die nach *den Devisenbewirtschaftungsgesetzen* und nach den zu ihnen ergehenden Rechtsverordnungen erforderlichen Genehmigungen.
 
