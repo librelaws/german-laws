@@ -2,7 +2,7 @@ Grundbuchbereinigungsgesetz (GBBerG)
 ====================================
 
 Stand  
-Zuletzt geändert durch Art. 41 G v. 17.12.2008 I 2586
+Zuletzt geändert durch Art. 158 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -41,7 +41,7 @@ Die Sätze 1 und 2 gelten für Reallasten, die auf die Leistung einer aus dem Ro
 
 ### § 3 Umstellung anderer wertbeständiger Rechte
 
-(1) Bei sonstigen wertbeständigen Rechten einschließlich den in § 2 Abs. 2 Satz 2 genannten, bei denen sich die aus dem Grundstück zu zahlende Geldsumme nach dem Gegenwert einer bestimmten Menge Waren oder Leistungen bestimmt, kann nur Zahlung eines Betrages verlangt werden, der dem für die Umrechnung am Tag des Inkrafttretens dieses Gesetzes an den deutschen Börsen notierten Mittelwert, bei fehlender Börsennotierung dem durchschnittlichen Marktpreis für den Ankauf dieser Waren entspricht. Das Bundesministerium der Justiz wird ermächtigt, diese Mittelwerte, bei ihrem Fehlen die durchschnittlichen Marktpreise, durch Rechtsverordnung festzustellen.
+(1) Bei sonstigen wertbeständigen Rechten einschließlich den in § 2 Abs. 2 Satz 2 genannten, bei denen sich die aus dem Grundstück zu zahlende Geldsumme nach dem Gegenwert einer bestimmten Menge Waren oder Leistungen bestimmt, kann nur Zahlung eines Betrages verlangt werden, der dem für die Umrechnung am Tag des Inkrafttretens dieses Gesetzes an den deutschen Börsen notierten Mittelwert, bei fehlender Börsennotierung dem durchschnittlichen Marktpreis für den Ankauf dieser Waren entspricht. Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, diese Mittelwerte, bei ihrem Fehlen die durchschnittlichen Marktpreise, durch Rechtsverordnung festzustellen.
 
 (2) Absatz 1 gilt entsprechend, wenn sich die Höhe der aus dem Grundstück zu zahlenden Geldsumme nach dem Gegenwert einer bestimmten Geldsumme in ausländischer Währung bestimmt. Die besonderen Vorschriften über schweizerische Goldhypotheken bleiben unberührt.
 
@@ -83,7 +83,7 @@ Abschnitt 3 Nicht eingetragene dingliche Rechte
 
 ### § 8 Nicht eingetragene Rechte
 
-(1) Ein nicht im Grundbuch eingetragenes Mitbenutzungsrecht der in Artikel 233 § 5 Abs. 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichneten Art oder ein sonstiges nicht im Grundbuch eingetragenes beschränktes dingliches Recht mit Ausnahme der in Artikel 233 § 4 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannten Nutzungsrechte, das zur Erhaltung der Wirksamkeit gegenüber dem öffentlichen Glauben des Grundbuchs nicht der Eintragung bedarf, erlischt mit dem Ablauf des 31. Dezember 1995, wenn nicht der Eigentümer des Grundstücks vorher das Bestehen dieses Rechts in der Form des § 29 der Grundbuchordnung anerkennt und die entsprechende Grundbuchberichtigung bewilligt oder der jeweilige Berechtigte von dem Eigentümer vorher die Abgabe dieser Erklärungen in einer zur Unterbrechung der Verjährung nach § 209 des Bürgerlichen Gesetzbuchs geeigneten Weise verlangt hat. Die Frist des Satzes 1 kann durch Rechtsverordnung des Bundesministeriums der Justiz mit Zustimmung des Bundesrates einmal verlängert werden.
+(1) Ein nicht im Grundbuch eingetragenes Mitbenutzungsrecht der in Artikel 233 § 5 Abs. 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichneten Art oder ein sonstiges nicht im Grundbuch eingetragenes beschränktes dingliches Recht mit Ausnahme der in Artikel 233 § 4 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannten Nutzungsrechte, das zur Erhaltung der Wirksamkeit gegenüber dem öffentlichen Glauben des Grundbuchs nicht der Eintragung bedarf, erlischt mit dem Ablauf des 31. Dezember 1995, wenn nicht der Eigentümer des Grundstücks vorher das Bestehen dieses Rechts in der Form des § 29 der Grundbuchordnung anerkennt und die entsprechende Grundbuchberichtigung bewilligt oder der jeweilige Berechtigte von dem Eigentümer vorher die Abgabe dieser Erklärungen in einer zur Unterbrechung der Verjährung nach § 209 des Bürgerlichen Gesetzbuchs geeigneten Weise verlangt hat. Die Frist des Satzes 1 kann durch Rechtsverordnung des Bundesministeriums der Justiz und für Verbraucherschutz mit Zustimmung des Bundesrates einmal verlängert werden.
 
 (2) Wird in dem Anerkenntnis oder der Eintragungsbewilligung gemäß Absatz 1 ein Zeitpunkt für die Entstehung dieses Rechts nicht angegeben, so gilt dieses als am Tage des Inkrafttretens dieses Gesetzes entstanden.
 
@@ -115,7 +115,7 @@ Ist in der Bescheinigung ein rechtzeitiger Widerspruch vermerkt, wird im Grundbu
 
 (7) Die nach Absatz 4 zuständige Behörde kann auf Antrag bescheinigen, daß eine im Grundbuch eingetragene beschränkte persönliche Dienstbarkeit für Energieanlagen nicht mehr besteht, wenn das Recht nicht mehr ausgeübt wird, das Energieversorgungsunternehmen, dem die Anlage wirtschaftlich zuzurechnen wäre, zustimmt und ein anderer Berechtigter nicht ersichtlich ist. Die Bescheinigung ist zur Berichtigung des Grundbuchs genügend. Die Behörde kann den Antragsteller auf das Aufgebotsverfahren verweisen.
 
-(8) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren technischen Einzelheiten des in Absatz 1 beschriebenen Inhalts der Dienstbarkeit, nähere Einzelheiten des Verfahrens, insbesondere zum Inhalt der Bescheinigung, zum Antrag und zur Beschreibung des Rechts, zu regeln.
+(8) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren technischen Einzelheiten des in Absatz 1 beschriebenen Inhalts der Dienstbarkeit, nähere Einzelheiten des Verfahrens, insbesondere zum Inhalt der Bescheinigung, zum Antrag und zur Beschreibung des Rechts, zu regeln.
 
 (9) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die vorstehende Regelung und auf Grund von Absatz 8 erlassene Bestimmungen ganz oder teilweise zu erstrecken auf
 
@@ -146,7 +146,7 @@ Anlagen zur Fortleitung von Öl oder anderen Rohstoffen einschließlich aller da
 4.  
 Anlagen zum Transport von Produkten zwischen den Betriebsstätten eines oder mehrerer privater oder öffentlicher Unternehmen,
 
-die in dem in Artikel 3 des Einigungsvertrages genannten Gebiet liegen und vor dem 3. Oktober 1990 errichtet worden sind. Absatz 1 findet keine Anwendung, soweit Grundstückseigentümer auf Grund einer abgegebenen Grundstückseigentümererklärung nach § 7 der Telekommunikationsverordnung vom 24. Juni 1991 (BGBl. I S. 1376) oder nach § 8 der Telekommunikations-Kundenschutzverordnung vom 19. Dezember 1995 (BGBl. I S. 2020) zur Duldung von Telekommunikationsanlagen verpflichtet sind. An die Stelle der Aufsichtsbehörde im Sinne des Absatzes 4 treten das Bundesministerium für Wirtschaft und Technologie für Anlagen nach Satz 1 Nr. 1 und das Bundeseisenbahnvermögen für Anlagen der früheren Reichsbahn nach Satz 1 Nr. 2. Diese können mit der Erteilung der Bescheinigung auch eine andere öffentliche Stelle oder eine natürliche Person beauftragen, die nicht Bediensteter des Bundesministeriums oder des Bundeseisenbahnvermögens sein muß. Für Dienstbarkeiten nach Satz 1 Nr. 3 und 4 gilt § 1023 Abs. 1 Satz 1 Halbsatz 2 des Bürgerlichen Gesetzbuchs bei der Anlegung neuer öffentlicher Verkehrswege nur, wenn die Dienstbarkeit im Grundbuch eingetragen ist. Vor diesem Zeitpunkt hat der Inhaber der Dienstbarkeit die Kosten einer erforderlichen Verlegung zu tragen.
+die in dem in Artikel 3 des Einigungsvertrages genannten Gebiet liegen und vor dem 3. Oktober 1990 errichtet worden sind. Absatz 1 findet keine Anwendung, soweit Grundstückseigentümer auf Grund einer abgegebenen Grundstückseigentümererklärung nach § 7 der Telekommunikationsverordnung vom 24. Juni 1991 (BGBl. I S. 1376) oder nach § 8 der Telekommunikations-Kundenschutzverordnung vom 19. Dezember 1995 (BGBl. I S. 2020) zur Duldung von Telekommunikationsanlagen verpflichtet sind. An die Stelle der Aufsichtsbehörde im Sinne des Absatzes 4 treten das Bundesministerium für Verkehr und digitale Infrastruktur für Anlagen nach Satz 1 Nr. 1 und das Bundeseisenbahnvermögen für Anlagen der früheren Reichsbahn nach Satz 1 Nr. 2. Diese können mit der Erteilung der Bescheinigung auch eine andere öffentliche Stelle oder eine natürliche Person beauftragen, die nicht Bediensteter des Bundesministeriums oder des Bundeseisenbahnvermögens sein muß. Für Dienstbarkeiten nach Satz 1 Nr. 3 und 4 gilt § 1023 Abs. 1 Satz 1 Halbsatz 2 des Bürgerlichen Gesetzbuchs bei der Anlegung neuer öffentlicher Verkehrswege nur, wenn die Dienstbarkeit im Grundbuch eingetragen ist. Vor diesem Zeitpunkt hat der Inhaber der Dienstbarkeit die Kosten einer erforderlichen Verlegung zu tragen.
 
 ### § 9a
 
@@ -165,13 +165,13 @@ Abschnitt 4 Ablösung von Grundpfandrechten
 
 ### § 10 Ablöserecht
 
-(1) Eine vor dem 1. Juli 1990 an einem Grundstück in dem in Artikel 3 des Einigungsvertrages genannten Gebiet bestellte Hypothek oder Grundschuld mit einem umgerechneten Nennbetrag von nicht mehr als 6.000 Euro erlischt, wenn der Eigentümer des Grundstücks eine dem in Euro umgerechneten und um ein Drittel erhöhten Nennbetrag entsprechende Geldsumme zugunsten des jeweiligen Gläubigers unter Verzicht auf die Rücknahme hinterlegt hat; bei einer Höchstbetragshypothek entfällt die in Halbsatz 1 genannte Erhöhung des Nennbetrags. Satz 1 gilt für Rentenschulden und Reallasten entsprechend; anstelle des Nennbetrages tritt der für Rechte dieser Art im Verfahren nach dem Vermögensgesetz anzusetzende Ablösebetrag, der nicht zu erhöhen ist. Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung anstelle der Hinterlegung andere Arten der Sicherheitsleistung zuzulassen.
+(1) Eine vor dem 1. Juli 1990 an einem Grundstück in dem in Artikel 3 des Einigungsvertrages genannten Gebiet bestellte Hypothek oder Grundschuld mit einem umgerechneten Nennbetrag von nicht mehr als 6.000 Euro erlischt, wenn der Eigentümer des Grundstücks eine dem in Euro umgerechneten und um ein Drittel erhöhten Nennbetrag entsprechende Geldsumme zugunsten des jeweiligen Gläubigers unter Verzicht auf die Rücknahme hinterlegt hat; bei einer Höchstbetragshypothek entfällt die in Halbsatz 1 genannte Erhöhung des Nennbetrags. Satz 1 gilt für Rentenschulden und Reallasten entsprechend; anstelle des Nennbetrages tritt der für Rechte dieser Art im Verfahren nach dem Vermögensgesetz anzusetzende Ablösebetrag, der nicht zu erhöhen ist. Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung anstelle der Hinterlegung andere Arten der Sicherheitsleistung zuzulassen.
 
 (2) Die §§ 1 bis 3 gelten auch für die Berechnung des Nennbetrages des Grundpfandrechts.
 
 (3) Der Eigentümer des Grundstücks kann von dem jeweiligen Gläubiger die Zustimmung zur Auszahlung des die geschuldete Summe übersteigenden Teils eines hinterlegten Betrages oder im Falle der Leistung einer anderen Sicherheit entsprechende Freigabe verlangen.
 
-(4) Ein für das Grundpfandrecht erteiler Brief wird mit dem Zeitpunkt des Erlöschens des Rechts kraftlos. Das Kraftloswerden des Briefes ist entsprechend § 26 Abs. 3 Satz 2 des Gesetzes über Maßnahmen auf dem Gebiet des Grundbuchwesens vom 20. Dezember 1963 (BGBl. I S. 986, zuletzt geändert durch Artikel 3 Abs. 3 des Registerverfahrenbeschleunigungsgesetzes vom 20. Dezember 1993 (BGBl. I S. 2182)) bekanntzumachen.
+(4) Ein für das Grundpfandrecht erteilter Brief wird mit dem Zeitpunkt des Erlöschens des Rechts kraftlos. Das Kraftloswerden des Briefes ist entsprechend § 26 Abs. 3 Satz 2 des Gesetzes über Maßnahmen auf dem Gebiet des Grundbuchwesens vom 20. Dezember 1963 (BGBl. I S. 986, zuletzt geändert durch Artikel 3 Abs. 3 des Registerverfahrenbeschleunigungsgesetzes vom 20. Dezember 1993 (BGBl. I S. 2182)) bekanntzumachen.
 
 Abschnitt 5 Sonstige Erleichterungen
 ------------------------------------
