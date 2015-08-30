@@ -2,7 +2,7 @@ Gesetz zu dem Übereinkommen vom 19. September 1979 über die Erhaltung der euro
 ===========================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 23 G v. 9.9.2001 I 2331
+Zuletzt geändert durch Art. 416 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -16,7 +16,7 @@ Dem in Bern am 19. September 1979 von der Bundesrepublik Deutschland unterzeichn
 
 ### Art 2
 
-Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird ermächtigt, Änderungen der Anhänge I bis IV des Übereinkommens nach dessen Artikel 17, die sich im Rahmen der Ziele des Übereinkommens halten, durch Rechtsverordnung ohne Zustimmung des Bundesrates in Kraft zu setzen.
+Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, Änderungen der Anhänge I bis IV des Übereinkommens nach dessen Artikel 17, die sich im Rahmen der Ziele des Übereinkommens halten, durch Rechtsverordnung ohne Zustimmung des Bundesrates in Kraft zu setzen.
 
 ### Art 3
 
