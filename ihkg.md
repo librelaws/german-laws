@@ -2,7 +2,7 @@ Gesetz zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern ()
 ===============================================================================
 
 Stand  
-Zuletzt geändert durch Art. 17 G v. 25.7.2013 I 2749
+Zuletzt geändert durch Art. 254 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -51,7 +51,7 @@ b)
 Genossenschaften, die ganz oder überwiegend der Nutzung landwirtschaftlicher Betriebseinrichtungen oder der Versorgung der Landwirtschaft mit Betriebsmitteln oder dem Absatz oder der Lagerung oder der Bearbeitung oder Verarbeitung landwirtschaftlicher Erzeugnisse dienen, sofern sich die Be- oder Verarbeitung nach der Verkehrsauffassung im Bereich der Landwirtschaft hält;
 
 c)  
-Zusammenschlüsse der unter Buchstabe b genannten Genossenschaften bis zu einer nach der Höhe des Eigenkapitals zu bestimmenden Grenze, die von dem Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz durch Rechtsverordnung festgelegt wird.
+Zusammenschlüsse der unter Buchstabe b genannten Genossenschaften bis zu einer nach der Höhe des Eigenkapitals zu bestimmenden Grenze, die von dem Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft durch Rechtsverordnung festgelegt wird.
 
 (5) Absatz 1 gilt nicht für Gemeinden und Gemeindeverbände, die Eigenbetriebe unterhalten. Sie können aber insoweit der Industrie- und Handelskammer beitreten.
 
