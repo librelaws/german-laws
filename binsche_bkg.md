@@ -2,7 +2,7 @@ Gesetz zu dem Übereinkommen vom 15. Februar 1966 über die Eichung von Binnensc
 =======================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 9 V v. 31.10.2006 I 2407
+Zuletzt geändert durch Art. 16 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -22,9 +22,9 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 ### Art 2
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, Änderungen der Anlage des Übereinkommens nach dessen Artikel 17, die der Verwirklichung neuer technischer Erkenntnisse hinsichtlich der Eichung von Binnenschiffen im Sinne des Übereinkommens dienen oder das technische oder verwaltungsmäßige Verfahren betreffen, durch Rechtsverordnung mit Zustimmung des Bundesrates in Kraft zu setzen.
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, Änderungen der Anlage des Übereinkommens nach dessen Artikel 17, die der Verwirklichung neuer technischer Erkenntnisse hinsichtlich der Eichung von Binnenschiffen im Sinne des Übereinkommens dienen oder das technische oder verwaltungsmäßige Verfahren betreffen, durch Rechtsverordnung mit Zustimmung des Bundesrates in Kraft zu setzen.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, die zur Ausführung des Übereinkommens einschließlich seiner Anlage in ihrer jeweiligen Fassung erforderlichen allgemeinen Verwaltungsvorschriften mit Zustimmung des Bundesrates zu erlassen.
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, die zur Ausführung des Übereinkommens einschließlich seiner Anlage in ihrer jeweiligen Fassung erforderlichen allgemeinen Verwaltungsvorschriften mit Zustimmung des Bundesrates zu erlassen.
 
 (3) Die Landesregierungen werden ermächtigt, die nach Artikel 2 Abs. 3 und nach Artikel 8 des Übereinkommens zuständigen Stellen für die Schiffseichung (Schiffsvermessung) auf Gewässern, die nicht Bundeswasserstraßen sind, durch Rechtsverordnung zu bestimmen.
 
