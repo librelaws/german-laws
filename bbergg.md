@@ -2,7 +2,7 @@ Bundesberggesetz (BBergG)
 =========================
 
 Stand  
-Zuletzt geändert durch Art. 15a G v. 31.7.2009 I 2585
+Zuletzt geändert durch Art. 303 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -15,7 +15,7 @@ Zuletzt geändert durch Art. 15a G v. 31.7.2009 I 2585
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-### Inhaltsverzeichnis
+### Inhaltsübersicht
 
 |                |                                                           |
 |----------------|-----------------------------------------------------------|
@@ -443,9 +443,9 @@ wenn der Unternehmer Bodenschätze der aufzubereitenden Art in unmittelbarem bet
 
 (10) Transit-Rohrleitung ist eine Rohrleitung, die vom Festlandsockel oder vom Gebiet eines anderen Staates in den Festlandsockel der Bundesrepublik Deutschland führt oder diesen durchquert.
 
-### § 5 Anwendung des Verwaltungsverfahrensgesetzes und des Verwaltungskostengesetzes
+### § 5 Anwendung des Verwaltungsverfahrensgesetzes
 
-Auf die Ausführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen sind, soweit in diesem Gesetz nichts anderes bestimmt ist, das Verwaltungsverfahrensgesetz und das Verwaltungskostengesetz anzuwenden.
+Auf die Ausführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen ist, soweit in diesem Gesetz nichts anderes bestimmt ist, das Verwaltungsverfahrensgesetz anzuwenden.
 
 Zweiter Teil Bergbauberechtigungen
 ----------------------------------
@@ -1310,7 +1310,7 @@ sie in Anbetracht der besonderen Merkmale des Vorhabens und der möglichen Auswi
 2.  
 ihre Zusammenstellung für den Unternehmer unter Berücksichtigung des allgemeinen Kenntnisstandes und der allgemein anerkannten Prüfungsmethoden zumutbar ist.
 
-Einzelheiten regelt das Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung nach § 57c. Der Unternehmer hat dem Rahmenbetriebsplan einen zur Auslegung geeigneten Plan und eine allgemeinverständliche Zusammenfassung der beizubringenden Angaben beizufügen.
+Einzelheiten regelt das Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung nach § 57c. Der Unternehmer hat dem Rahmenbetriebsplan einen zur Auslegung geeigneten Plan und eine allgemeinverständliche Zusammenfassung der beizubringenden Angaben beizufügen.
 
 (3) Verfügen die beteiligten Behörden zu den nach Absatz 2 Satz 2 und 3 zu machenden Angaben über zweckdienliche Informationen, so unterrichten sie den Unternehmer und stellen ihm die Informationen auf Verlangen zur Verfügung. Das gilt insbesondere für Informationen aus einem vorausgegangenen Raumordnungsverfahren; die dafür zuständige Behörde hat die Unterlagen aus diesem Verfahren, die für die Umweltverträglichkeitsprüfung von Bedeutung sein können, der nach Absatz 1 Satz 2 zuständigen Behörde zur Verfügung zu stellen.
 
@@ -1318,7 +1318,7 @@ Einzelheiten regelt das Bundesministerium für Wirtschaft und Technologie durch 
 
 (5) Hinsichtlich der vom Vorhaben berührten Belange Dritter und der Aufgabenbereiche Beteiligter im Sinne des § 54 Abs. 2 erstrecken sich die Rechtswirkungen der Planfeststellung auch auf die Zulassung und Verlängerung der zur Durchführung des Rahmenbetriebsplanes erforderlichen Haupt-, Sonder- und Abschlußbetriebspläne, soweit über die sich darauf beziehenden Einwendungen entschieden worden ist oder bei rechtzeitiger Geltendmachung hätte entschieden werden können; Entscheidungen nach § 48 Abs. 2 werden außer in den in § 48 Abs. 2 Satz 2 genannten Fällen des Schutzes von Rechten Dritter durch einen Planfeststellungsbeschluß ausgeschlossen.
 
-(6) Bei Vorhaben, die in einem anderen Mitgliedstaat der Europäischen Gemeinschaften erhebliche Auswirkungen auf die Umwelt haben können, sind die zuständigen Behörden des anderen Mitgliedstaats wie die im Planfeststellungsverfahren beteiligten Behörden zu unterrichten. Für Nachbarstaaten der Bundesrepublik Deutschland, die nicht Mitgliedstaaten der Europäischen Gemeinschaften sind, gilt unter den Voraussetzungen der Grundsätze von Gegenseitigkeit und Gleichwertigkeit Satz 1 entsprechend. Einzelheiten regelt das Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung nach § 57c.
+(6) Bei Vorhaben, die in einem anderen Mitgliedstaat der Europäischen Gemeinschaften erhebliche Auswirkungen auf die Umwelt haben können, sind die zuständigen Behörden des anderen Mitgliedstaats wie die im Planfeststellungsverfahren beteiligten Behörden zu unterrichten. Für Nachbarstaaten der Bundesrepublik Deutschland, die nicht Mitgliedstaaten der Europäischen Gemeinschaften sind, gilt unter den Voraussetzungen der Grundsätze von Gegenseitigkeit und Gleichwertigkeit Satz 1 entsprechend. Einzelheiten regelt das Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung nach § 57c.
 
 ### § 57b Vorzeitiger Beginn, Vorbescheide, Teilgenehmigungen, Vorrang
 
@@ -1351,7 +1351,7 @@ eine erneute Umweltverträglichkeitsprüfung durchzuführen ist, soweit bisher n
 
 ### § 57c Ermächtigung
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften darüber zu erlassen,
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften darüber zu erlassen,
 
 1.  
 welche betriebsplanpflichtigen Vorhaben, die erhebliche Auswirkungen auf die Umwelt haben können, unter Beachtung der Rechtsakte des Rates oder der Kommission der Europäischen Gemeinschaften einer Umweltverträglichkeitsprüfung bedürfen,
@@ -1592,7 +1592,7 @@ daß und für welchen Zeitraum die Unterlagen, Darstellungen, Listen, Bücher un
 
 (1) Bergverordnungen auf Grund der §§ 65 bis 67 werden, soweit sich aus Absatz 2 nichts anderes ergibt, von den Landesregierungen erlassen. Diese können die Ermächtigung durch Rechtsverordnung auf andere Stellen übertragen.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie erläßt Bergverordnungen,
+(2) Das Bundesministerium für Wirtschaft und Energie erläßt Bergverordnungen,
 
 1.  
 soweit sie auf Grund des § 65 Satz 1 Nr. 3, 6 und 5 in Verbindung mit Nr. 3, des § 65 Satz 2, des § 66 Satz 1 Nr. 4 Buchstabe a, b, d und e und des § 67 ergehen,
@@ -1609,10 +1609,10 @@ soweit für gleichartige Verhältnisse der Schutz der in den §§ 65 bis 67 beze
 Bergverordnungen auf Grund der §§ 65 und 66 Satz 1 Nr. 1, 2, 4 bis 7, 9 und 10 und Satz 3 im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales, soweit sie Fragen des Arbeitsschutzes betreffen,
 
 2.  
-Bergverordnungen auf Grund des § 66 Satz 1 Nr. 1 Buchstabe a und Nr. 8 im Einvernehmen mit den Bundesministerien für Umwelt, Naturschutz und Reaktorsicherheit und für Verkehr, Bau und Stadtentwicklung,
+Bergverordnungen auf Grund des § 66 Satz 1 Nr. 1 Buchstabe a und Nr. 8 im Einvernehmen mit den Bundesministerien für Umwelt, Naturschutz, Bau und Reaktorsicherheit und für Verkehr und digitale Infrastruktur,
 
 3.  
-Bergverordnungen auf Grund des § 66 Satz 1 Nr. 3 sowie alle anderen Bergverordnungen, soweit sie Tätigkeiten im Sinne des § 2 Abs. 1 im Bereich des Festlandsockels und der Küstengewässer betreffen, im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung.
+Bergverordnungen auf Grund des § 66 Satz 1 Nr. 3 sowie alle anderen Bergverordnungen, soweit sie Tätigkeiten im Sinne des § 2 Abs. 1 im Bereich des Festlandsockels und der Küstengewässer betreffen, im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur.
 
 (4) In den Bergverordnungen kann wegen technischer Anforderungen auf Bekanntmachungen sachverständiger Stellen unter Angabe der Fundstelle verwiesen werden.
 
@@ -2314,7 +2314,7 @@ Zweiter Unterabschnitt Bergschadensausfallkasse
 
 ### § 122 Ermächtigung
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates in seinem Geschäftsbereich eine rechtsfähige Anstalt des öffentlichen Rechts als Ausfallkasse zur Sicherung von Bergschadensansprüchen (Bergschadensausfallkasse) zu errichten, wenn
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates in seinem Geschäftsbereich eine rechtsfähige Anstalt des öffentlichen Rechts als Ausfallkasse zur Sicherung von Bergschadensansprüchen (Bergschadensausfallkasse) zu errichten, wenn
 
 1.  
 die Haftung für den Ersatz eines Bergschadens bei einem Ausfall durch die Unternehmer nicht sichergestellt ist und
@@ -2326,11 +2326,11 @@ die Sicherstellung sich nicht auf alle Unternehmer erstreckt, es sei denn, daß 
 
 (3) Ein Ausfall liegt vor, soweit der Geschädigte für einen Bergschaden von keinem der nach den §§ 115 und 116 Ersatzpflichtigen einen Ersatz erlangen kann. Er gilt nur dann als eingetreten, wenn keiner der nach §§ 115 und 116 Ersatzpflichtigen mehr vorhanden ist oder soweit deren Zahlungsunfähigkeit durch Zahlungseinstellung oder auf sonstige Weise erwiesen ist. Soweit die Bergschadensausfallkasse den Geschädigten befriedigt, geht dessen Forderung gegen den Ersatzpflichtigen auf sie über.
 
-(4) Das Nähere über die Bergschadensausfallkasse bestimmt die Satzung, die vom Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung ohne Zustimmung des Bundesrates aufgestellt wird.
+(4) Das Nähere über die Bergschadensausfallkasse bestimmt die Satzung, die vom Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates aufgestellt wird.
 
 ### § 123 Durchführungsverordnung
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Vorschriften zu erlassen über
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Vorschriften zu erlassen über
 
 1.  
 die Beitragspflicht, die Beitragspflichtigen und, soweit erforderlich, deren Einteilung in Beitragsklassen, sowie über die Abgrenzung der Zuordnung der Beitragspflichtigen zu den einzelnen Beitragsklassen,
@@ -2375,7 +2375,7 @@ Vierter Abschnitt Beobachtung der Oberfläche
 
 (3) Die Eigentümer und sonstigen Nutzungsberechtigten haben, soweit dies zur Durchführung der Messungen nach Absatz 1 erforderlich ist, das Betreten ihrer Grundstücke und das Anbringen von Meßmarken zu dulden. § 39 Abs. 1 Satz 1 Nr. 2 und Absatz 2 Nr. 2 gilt entsprechend. Für dabei entstehende Schäden haben die beteiligten Unternehmer eine angemessene Entschädigung an Geld zu leisten.
 
-(4) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
+(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
 
 1.  
 die nach Absatz 1 im einzelnen durchzuführenden Messungen und die Anforderungen, denen sie zur Erreichung der in Absatz 1 bezeichneten Zwecke genügen müssen,
@@ -2430,7 +2430,7 @@ Für das Aufsuchen und Gewinnen mineralischer Rohstoffe in Halden gelten die §�
 
 (1) Für Versuchsgruben gelten die §§ 50 bis 74, für nicht unter § 2 fallende, wie ein Gewinnungsbetrieb eingerichtete bergbauliche Ausbildungsstätten sowie für Besucherbergwerke und Besucherhöhlen die §§ 50 bis 62 und 65 bis 74 entsprechend.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die in Absatz 1 genannten Vorschriften auf sonstige bergbauliche Versuchsanstalten für entsprechend anwendbar zu erklären und die zugehörigen Bußgeldvorschriften zu erstrecken, soweit dies zum Schutze der in § 55 Abs. 1 bezeichneten Rechtsgüter und Belange erforderlich ist.
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die in Absatz 1 genannten Vorschriften auf sonstige bergbauliche Versuchsanstalten für entsprechend anwendbar zu erklären und die zugehörigen Bußgeldvorschriften zu erstrecken, soweit dies zum Schutze der in § 55 Abs. 1 bezeichneten Rechtsgüter und Belange erforderlich ist.
 
 ### § 130
 
@@ -2440,7 +2440,7 @@ Für das Aufsuchen und Gewinnen mineralischer Rohstoffe in Halden gelten die §�
 
 (1) Unternehmer, die einen untertägigen Gewinnungsbetrieb oder einen Gewinnungsbetrieb mit brand- oder explosionsgefährdeten Anlagen oder mit Anlagen betreiben, in denen unatembare oder giftige Gase oder Dämpfe auftreten können, müssen zur Wahrnehmung gemeinsamer Aufgaben auf dem Gebiet des Grubenrettungs- und Gasschutzwesens Hauptstellen für das Grubenrettungswesen bilden und unterhalten oder solchen angeschlossen sein.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Vorschriften über Aufgaben, Anzahl, Organisation und Ausstattung der Hauptstellen zu erlassen, soweit dies zur Wahrung der Sicherheitsaufgaben und zur Gewährleistung der Einsatzbereitschaft der Hauptstellen und ihrer Einrichtungen erforderlich ist.
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Vorschriften über Aufgaben, Anzahl, Organisation und Ausstattung der Hauptstellen zu erlassen, soweit dies zur Wahrung der Sicherheitsaufgaben und zur Gewährleistung der Einsatzbereitschaft der Hauptstellen und ihrer Einrichtungen erforderlich ist.
 
 (3) Auf Hauptstellen für das Grubenrettungswesen sind die §§ 58 bis 62 und, soweit die Hauptstellen nicht von einem Träger der gesetzlichen Unfallversicherung unterhalten werden, für die Überwachung der Einhaltung des Absatzes 1, der §§ 58 bis 62 und der Rechtsverordnungen nach Absatz 2 die §§ 69 bis 74 entsprechend anzuwenden.
 
@@ -2520,11 +2520,11 @@ die nach § 72 Abs. 1, § 132 Abs. 4 und § 133 Abs. 3, auch in Verbindung mit A
 
 (2) Im Bereich des Festlandsockels werden die auf Grund dieses Gesetzes erlassenen Verwaltungsakte nach dem Verwaltungs-Vollstreckungsgesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer 201-4, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 40 des Gesetzes vom 14. Dezember 1976 (BGBl. I S. 3341), und dem Gesetz über den unmittelbaren Zwang bei Ausübung öffentlicher Gewalt durch Vollzugsbeamte des Bundes vollzogen. Unmittelbarer Zwang wird von den Vollzugsbeamten der Bundespolizei und der Zollverwaltung angewandt.
 
-(3) Die Bundesministerien für Verkehr, Bau und Stadtentwicklung, des Innern und der Finanzen regeln im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie durch Vereinbarung das Zusammenwirken der Wasser- und Schiffahrtsverwaltung, der Bundespolizei und der Zollverwaltung.
+(3) Die Bundesministerien für Verkehr und digitale Infrastruktur, des Innern und der Finanzen regeln im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Vereinbarung das Zusammenwirken der Wasser- und Schiffahrtsverwaltung, der Bundespolizei und der Zollverwaltung.
 
-### § 135 Kostenermächtigung
+### § 135 Gebühren- und Auslagenermächtigung
 
-Für Amtshandlungen, Prüfungen und Untersuchungen von Bundesbehörden auf Grund der §§ 132 bis 134 werden Kosten (Gebühren und Auslagen) erhoben. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung bestimmt im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung ohne Zustimmung des Bundesrates die kostenpflichtigen Tatbestände näher und sieht dabei feste Sätze oder Rahmensätze vor. Die Gebührensätze sind so zu bemessen, daß der mit den Amtshandlungen, Prüfungen und Untersuchungen verbundene Personal- und Sachaufwand gedeckt wird; bei begünstigenden Amtshandlungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden. Der Personalaufwand kann nach der Zahl der Stunden bemessen werden, die für Prüfungen und Untersuchungen bestimmter Arten von Prüfungs- oder Untersuchungsgegenständen durchschnittlich benötigt werden.
+Für individuell zurechenbare öffentliche Leistungen von Bundesbehörden auf Grund der §§ 132 bis 134 werden Gebühren und Auslagen erhoben. Das Bundesministerium für Verkehr und digitale Infrastruktur bestimmt im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände näher und sieht dabei feste Sätze oder Rahmensätze vor. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand gedeckt wird; bei begünstigenden individuell zurechenbaren öffentlichen Leistungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden.
 
 ### § 136 Zuständigkeiten für sonstige Verwaltungsaufgaben
 
@@ -2548,7 +2548,7 @@ Erstes Kapitel Bundesprüfanstalt für den Bergbau
 
 ### § 138 Errichtung
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates in seinem Geschäftsbereich eine Bundesprüfanstalt für den Bergbau (Bundesprüfanstalt) als nicht rechtsfähige Anstalt des öffentlichen Rechts zu errichten, soweit dies erforderlich ist, um sicherzustellen, daß Prüfungen oder Abnahmen im Sinne des § 65 Nr. 3 oder 4 nicht durch eine Stelle vorgenommen werden,
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates in seinem Geschäftsbereich eine Bundesprüfanstalt für den Bergbau (Bundesprüfanstalt) als nicht rechtsfähige Anstalt des öffentlichen Rechts zu errichten, soweit dies erforderlich ist, um sicherzustellen, daß Prüfungen oder Abnahmen im Sinne des § 65 Nr. 3 oder 4 nicht durch eine Stelle vorgenommen werden,
 
 1.  
 die in ihrer Ausstattung dem Stand von Wissenschaft und Technik für die Prüfungen oder Abnahmen nicht entspricht,
@@ -2570,11 +2570,11 @@ deren Träger nicht in der Lage ist, den Schaden zu ersetzen, der dem Staat wege
 
 ### § 139 Aufgaben
 
-Die Bundesprüfanstalt hat Prüfungen und Abnahmen im Sinne des § 65 Nr. 3 und 4 durchzuführen, soweit dies in Bergverordnungen des Bundesministeriums für Wirtschaft und Technologie nach § 65 vorgesehen ist, und im Rahmen ihrer Aufgaben die nach diesem Gesetz zuständigen Behörden und die Unternehmen zu beraten.
+Die Bundesprüfanstalt hat Prüfungen und Abnahmen im Sinne des § 65 Nr. 3 und 4 durchzuführen, soweit dies in Bergverordnungen des Bundesministeriums für Wirtschaft und Energie nach § 65 vorgesehen ist, und im Rahmen ihrer Aufgaben die nach diesem Gesetz zuständigen Behörden und die Unternehmen zu beraten.
 
 ### § 140 Inanspruchnahme, Gebühren
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Vorschriften über die vertragliche Inanspruchnahme der Bundesprüfanstalt und die Gebühren und Auslagen für ihre Nutzleistungen zu erlassen. Die Gebühren sind nach dem Personal- und Sachaufwand für die Nutzleistung unter Berücksichtigung ihres wirtschaftlichen Wertes für den Antragsteller zu bestimmen. Der Personalaufwand kann nach der Zahl der Stunden bemessen werden, die Bedienstete der Bundesprüfanstalt für Prüfungen und Untersuchungen bestimmter Arten von Prüf- oder Untersuchungsgegenständen durchschnittlich benötigen.
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Vorschriften über die vertragliche Inanspruchnahme der Bundesprüfanstalt und die Gebühren und Auslagen für ihre Nutzleistungen zu erlassen. Die Gebühren sind nach dem Personal- und Sachaufwand für die Nutzleistung unter Berücksichtigung ihres wirtschaftlichen Wertes für den Antragsteller zu bestimmen. Der Personalaufwand kann nach der Zahl der Stunden bemessen werden, die Bedienstete der Bundesprüfanstalt für Prüfungen und Untersuchungen bestimmter Arten von Prüf- oder Untersuchungsgegenständen durchschnittlich benötigen.
 
 (2) Die Gebühr für eine Nutzleistung darf in der Regel zehntausend Deutsche Mark nicht übersteigen. Erfordert die Nutzleistung einen außergewöhnlichen Aufwand, insbesondere für die Prüfung oder Abnahme umfangreicher Anlagen, so kann der Höchstbetrag um den entsprechenden Mehrbetrag überschritten werden.
 
@@ -2587,7 +2587,7 @@ Zweites Kapitel Sachverständigenausschuß, Durchführung
 
 ### § 141 Sachverständigenausschuß Bergbau
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, einen Sachverständigenausschuß für den Bergbau zu errichten, der es in allen Fragen der Bergtechnik, insbesondere der Sicherheitstechnik, berät und zu den von ihm zu erlassenden Bergverordnungen Stellung nimmt. Dem Ausschuß sollen ein Vertreter des Bundesministeriums für Wirtschaft und Technologie als Vorsitzender sowie Vertreter der beteiligten Bundesministerien, der Landesregierungen, der fachlich zuständigen Landesbehörden, der Träger der gesetzlichen Unfallversicherung, der Wirtschaft und der Gewerkschaften angehören. In der Rechtsverordnung kann das Nähere über die Zusammensetzung, die Berufung der Mitglieder sowie das Verfahren des Ausschusses geregelt werden.
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, einen Sachverständigenausschuß für den Bergbau zu errichten, der es in allen Fragen der Bergtechnik, insbesondere der Sicherheitstechnik, berät und zu den von ihm zu erlassenden Bergverordnungen Stellung nimmt. Dem Ausschuß sollen ein Vertreter des Bundesministeriums für Wirtschaft und Energie als Vorsitzender sowie Vertreter der beteiligten Bundesministerien, der Landesregierungen, der fachlich zuständigen Landesbehörden, der Träger der gesetzlichen Unfallversicherung, der Wirtschaft und der Gewerkschaften angehören. In der Rechtsverordnung kann das Nähere über die Zusammensetzung, die Berufung der Mitglieder sowie das Verfahren des Ausschusses geregelt werden.
 
 ### § 142 Zuständige Behörden
 
@@ -2595,7 +2595,7 @@ Die Landesregierungen oder die von ihnen bestimmten Stellen bestimmen die für d
 
 ### § 143 Verwaltungsvorschriften
 
-(1) Das Bundesministerium für Wirtschaft und Technologie erläßt mit Zustimmung des Bundesrates zur Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen des Bundes allgemeine Verwaltungsvorschriften. Für Bergverordnungen, die auf Grund von § 68 Abs. 2 erlassen worden sind, gilt dies nur, soweit der Schutz der in den §§ 65 bis 67 bezeichneten Rechtsgüter und Belange durch Verwaltungsvorschriften der zuständigen Behörden nicht gleichwertig sichergestellt wird. § 68 Abs. 3 gilt entsprechend.
+(1) Das Bundesministerium für Wirtschaft und Energie erläßt mit Zustimmung des Bundesrates zur Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen des Bundes allgemeine Verwaltungsvorschriften. Für Bergverordnungen, die auf Grund von § 68 Abs. 2 erlassen worden sind, gilt dies nur, soweit der Schutz der in den §§ 65 bis 67 bezeichneten Rechtsgüter und Belange durch Verwaltungsvorschriften der zuständigen Behörden nicht gleichwertig sichergestellt wird. § 68 Abs. 3 gilt entsprechend.
 
 (2) Soweit allgemeine Verwaltungsvorschriften nach Absatz 1 an Bundesbehörden gerichtet sind, bedürfen sie nicht der Zustimmung des Bundesrates.
 
@@ -2732,7 +2732,7 @@ zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvo
 
 (4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1, 2, 6, 8 bis 11, 15 bis 18, 20, 21 und des Absatzes 3 Nr. 2 mit einer Geldbuße bis zu fünfundzwanzigtausend Euro, in den Fällen des Absatzes 1 Nr. 3 bis 5, 7, 12 bis 14, 19, 22 und des Absatzes 3 Nr. 1 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, jeweils auch in Verbindung mit Absatz 2, geahndet werden.
 
-(5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist für Ordnungswidrigkeiten im Bereich des Festlandsockels im Zusammenhang mit Forschungshandlungen (§ 132) und mit der Überwachungstätigkeit der in § 134 Abs. 1 bezeichneten Behörden des Bundes die vom Bundesministerium für Verkehr, Bau und Stadtentwicklung durch Rechtsverordnung ohne Zustimmung des Bundesrates bestimmte Behörde.
+(5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist für Ordnungswidrigkeiten im Bereich des Festlandsockels im Zusammenhang mit Forschungshandlungen (§ 132) und mit der Überwachungstätigkeit der in § 134 Abs. 1 bezeichneten Behörden des Bundes die vom Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates bestimmte Behörde.
 
 ### § 146 Straftaten
 
@@ -3416,7 +3416,7 @@ Schleswig-Holstein
 das Allgemeine Berggesetz für die Preußischen Staaten vom 24. Juni 1865 (Sammlung des schleswig-holsteinischen Landesrechts 1971, Gl.-Nr. 750-1), zuletzt geändert durch Artikel 45 des Gesetzes zur Anpassung des schleswig-holsteinischen Landesrechts an das Zweite Gesetz zur Reform des Strafrechts und andere straf- und bußgeldrechtliche Vorschriften des Bundes vom 9. Dezember 1974 (Gesetz- und Verordnungsblatt für Schleswig-Holstein S. 453);
 
 92.  
-das Gesetz über die Einführung des Allgemeinen Berggesetzes für die Preußischen Staaten vom 24. Juni 1865 in das Gebiet des Herzogtums Lauenburg vom 6. Mai 1868 (Sammlung des schleswig-holsteinischen Landes- rechts 1971, Gl.-Nr. 750-2);
+das Gesetz über die Einführung des Allgemeinen Berggesetzes für die Preußischen Staaten vom 24. Juni 1865 in das Gebiet des Herzogtums Lauenburg vom 6. Mai 1868 (Sammlung des schleswig-holsteinischen Landesrechts 1971, Gl.-Nr. 750-2);
 
 93.  
 das Gesetz über die Einführung des Allgemeinen Berggesetzes vom 24. Juni 1865 in das Gebiet der Herzogtümer Schleswig und Holstein vom 12. März 1869 (Sammlung des schleswig-holsteinischen Landesrechts 1971, Gl.-Nr. 750-3);
@@ -3441,7 +3441,7 @@ die Verordnung über die polizeiliche Beaufsichtigung der bergbaulichen Nebengew
 
 (2) Die Vorschriften des Landesrechts über die grundbuchmäßige Behandlung von Bergbauberechtigungen, einschließlich der Vorschriften über die Einrichtung und Führung der Berggrundbücher, bleiben unberührt, soweit sie nicht in den in Absatz 1 aufgeführten Gesetzen und Verordnungen enthalten sind. Die Länder können in dem in Satz 1 genannten Bereich auch neue Vorschriften erlassen und die bestehenden Vorschriften des Landesrechts aufheben oder ändern.
 
-(3) Verordnungen (Berg(polizei)verordnungen), die vor dem Inkrafttreten dieses Gesetzes ganz oder teilweise auf Grund der durch Absatz 1 aufgehobenen Vorschriften erlassen worden sind, und die zugehörigen gesetzlichen Bußgeldvorschriften, gelten bis zu ihrer Aufhebung fort, soweit nicht deren Gegenstände in diesem Gesetz geregelt sind oder soweit sie nicht mit den Vorschriften dieses Gesetzes in Widerspruch stehen. Die Landesregierungen oder die von ihnen nach § 68 Abs. 1 bestimmten Stellen werden ermächtigt, die jeweils in ihrem Land geltenden, nach Satz 1 aufrechterhaltenen Vorschriften durch Rechtsverordnung aufzuheben, soweit von ihnen über die darin geregelten Gegenstände Bergverordnungen auf Grund des § 68 Abs. 1 erlassen werden. Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, die nach Satz 1 aufrechterhaltenen Vorschriften durch Rechtsverordnung mit Zustimmung des Bundesrates aufzuheben, soweit über die darin geregelten Gegenstände Bergverordnungen auf Grund des § 68 Abs. 2 erlassen werden.
+(3) Verordnungen (Berg(polizei)verordnungen), die vor dem Inkrafttreten dieses Gesetzes ganz oder teilweise auf Grund der durch Absatz 1 aufgehobenen Vorschriften erlassen worden sind, und die zugehörigen gesetzlichen Bußgeldvorschriften, gelten bis zu ihrer Aufhebung fort, soweit nicht deren Gegenstände in diesem Gesetz geregelt sind oder soweit sie nicht mit den Vorschriften dieses Gesetzes in Widerspruch stehen. Die Landesregierungen oder die von ihnen nach § 68 Abs. 1 bestimmten Stellen werden ermächtigt, die jeweils in ihrem Land geltenden, nach Satz 1 aufrechterhaltenen Vorschriften durch Rechtsverordnung aufzuheben, soweit von ihnen über die darin geregelten Gegenstände Bergverordnungen auf Grund des § 68 Abs. 1 erlassen werden. Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, die nach Satz 1 aufrechterhaltenen Vorschriften durch Rechtsverordnung mit Zustimmung des Bundesrates aufzuheben, soweit über die darin geregelten Gegenstände Bergverordnungen auf Grund des § 68 Abs. 2 erlassen werden.
 
 (4) *Soweit in Gesetzen und Verordnungen des Bundes auf die nach Absatz 1 oder § 175 außer Kraft getretenen Vorschriften verwiesen wird, treten an ihre Stelle die entsprechenden Vorschriften dieses Gesetzes.*
 
@@ -3459,9 +3459,11 @@ Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 Bundesberggesetz vom 13. August 1980 (BGBl. I S. 1310), zuletzt geändert durch Gesetz vom 12. Februar 1990 (BGBl. I S. 215),
 mit folgenden Maßgaben:
-a) (weggefallen)
 
   
+a)  
+(weggefallen)
+
 b)  
 Untersuchungs-, Gewinnungs- und Speicherrechte des Staates im Sinne des § 5 Abs. 2 bis 4 des Berggesetzes der Deutschen Demokratischen Republik, die Dritten zur Ausübung übertragen worden sind (alte Rechte), werden nach Maßgabe der Buchstaben c) bis g) aufrechterhalten. Soweit sich daraus nichts anderes ergibt, erlischt das Untersuchungs-, Gewinnungs- und Speicherrecht des Staates im Sinne des § 5 des Berggesetzes der Deutschen Demokratischen Republik.
 
@@ -3469,47 +3471,7 @@ c)
 Untersuchungsrechte erlöschen zwölf Monate nach dem Tage des Wirksamwerdens des Beitritts. § 14 Abs. 1 ist für die Erteilung einer Erlaubnis und insoweit mit der Maßgabe entsprechend anzuwenden, daß an die Stelle des Inhabers einer Erlaubnis der durch ein Lagerstätteninteressengebiet Begünstigte tritt, das auf der Grundlage der Lagerstättenwirtschaftsanordnung vom 15. März 1971 (GBl. II Nr. 34 S. 279) festgelegt worden ist.
 
 d)  
-(1) Gewinnungsrechte an mineralischen Rohstoffen im Sinne des § 3 des Berggesetzes der Deutschen Demokratischen Republik kann der zur Ausübung Berechtigte innerhalb einer Frist von sechs Monaten nach dem Tage des Wirksamwerdens des Beitritts bei der für die Zulassung von Betriebsplänen zuständigen Behörde zur Bestätigung anmelden.(2) Die Bestätigung ist zu erteilen, wenn
-
-1.  
-das Gewinnungsrecht
-
-1.1.  
-dem Antragsteller am 31. Dezember 1989 zur Ausübung nach § 5 des Berggesetzes der Deutschen Demokratischen Republik wirksam übertragen war oder
-
-1.2.  
-dem Antragsteller nach dem 31. Dezember 1989
-
--  
-auf Grund der Vierten Durchführungsbestimmung zur Verordnung über die Gründung und Tätigkeit von Unternehmen mit ausländischer Beteiligung in der Deutschen Demokratischen Republik - Berechtigung zur Gewinnung mineralischer Rohstoffe - vom 14. März 1990 (GBl. I Nr. 21 S. 189),
-
--  
-auf Grund der Verordnung über die Verleihung von Bergwerkseigentum vom 15. August 1990 (GBl. I Nr. 53 S. 1071) als Bergwerkseigentum oder
-
--  
-sonst von der zuständigen Behörde übertragen wurde und
-
-1.3.  
-bis zum Tage des Wirksamwerdens des Beitritts nicht aufgehoben worden ist und
-
-2.  
-der Antragsteller das Vorliegen der Voraussetzungen nach Nummer 1. sowie den Umfang der auf Grund der Vorratsklassifikationsanordnung vom 28. August 1979 (Sonderdruck Nr. 1019 des Gesetzblattes), bei radioaktiven Bodenschätzen auf Grund einer entsprechenden methodischen Festlegung, bestätigten und prognostizierten Vorräte sowie
-
-2.1.  
-in den Fällen der Nummer 1.2. erster und dritter Anstrich das Vorliegen einer Bescheinigung der Staatlichen Vorratskommission über die ordnungsgemäße Übertragung des Gewinnungsrechts,
-
-2.2  
-in den Fällen der Nummer 1.2. zweiter Anstrich die Eintragung des Bergwerkseigentums in das Bergwerksregistermit den für die Bestätigung erforderlichen Unterlagen nachweist.
-
-(3) Das Gewinnungsrecht ist im beantragten Umfang, höchstens im Umfang der bestätigten und prognostizierten Vorräte sowie
-
-1.  
-in den Fällen des Absatzes 2 Nr. 1.1. und 1.2. erster und dritter Anstrich für eine zur Durchführung der Gewinnung der Vorräte angemessene Frist, die 30 Jahre nicht überschreiten darf,
-
-2.  
-in den Fällen des Absatzes 2 Nr. 1.2. zweiter Anstrich unbefristet
-
-in einer Form zu bestätigen, die den sich aus § 8 oder § 151 in Verbindung mit § 4 Abs. 7 ergebenden Anforderungen entspricht.(4) Ein bestätigtes Gewinnungsrecht gilt für die Bodenschätze, die Zeit und den Bereich, für die es bestätigt wird,
+(1) bis (3) (weggefallen)(4) Ein bestätigtes Gewinnungsrecht gilt für die Bodenschätze, die Zeit und den Bereich, für die es bestätigt wird,
 
 1.  
 in den Fällen des Absatzes 2 Nr. 1.1. und 1.2. erster und dritter Anstrich als Bewilligung im Sinne des § 8,
@@ -3522,17 +3484,14 @@ im Falle des Absatzes 2 Nr. 1.2. zweiter Anstrich als Bergwerkseigentum im Sinne
 e)  
 Für Gewinnungsrechte an anderen mineralischen Rohstoffen gilt Buchstabe d) entsprechendmit folgenden Maßgaben:
 
-aa)  
-Der Antragsteller muß zusätzlich nachweisen, daß er sich mit dem Grundeigentümer über eine angemessene Entschädigung für die Gewinnung der Bodenschätze ab dem Tage des Wirksamwerdens des Beitritts geeinigt hat. Ist eine Einigung trotz ernsthafter Bemühungen nicht zustande gekommen, kann der Antragsteller bei der für die Bestätigung zuständigen Behörde eine Entscheidung über die Entschädigung beantragen. Die Behörde entscheidet nach Anhörung des Grundeigentümers in entsprechender Anwendung der §§ 84 bis 90.
-
-bb)  
-Die Bestätigung setzt die Einigung oder die Unanfechtbarkeit der Entscheidung über die Entschädigung voraus.
+aa) und bb)  
+(weggefallen)
 
 cc)  
 Die Übertragung der Bewilligung (§ 22) bedarf der Zustimmung des Grundeigentümers. Eine Verleihung von Bergwerkseigentum ist ausgeschlossen. § 31 findet keine Anwendung.
 
 f)  
-Für Speicherrechte gilt Buchstabe d) entsprechend mit der Maßgabe, daß an die Stelle der Gewinnung das Errichten und Betreiben eines Untertagespeichers und an die Stelle der bestätigten und prognostizierten Vorräte die vom Antragsteller nachzuweisende voraussichtlich größte Ausdehnung der in Anspruch genommenen geologischen Speicherformation oder des Kavernenfeldes treten. Auf Untersuchungen des Untergrundes und auf Untergrundspeicher findet § 126 mit der Maßgabe Anwendung, daß auch die Vorschriften der §§ 107 bis 125 entsprechende Anwendung finden.
+Auf Untersuchungen des Untergrundes und auf Untergrundspeicher findet § 126 mit der Maßgabe Anwendung, daß auch die Vorschriften der §§ 107 bis 125 entsprechende Anwendung finden.
 
 g)  
 § 153 Satz 2 und 3 und die §§ 159 und 160 finden auf bestätigte alte Rechte entsprechende Anwendung.
@@ -3547,7 +3506,7 @@ bb)
 § 52 Abs. 2a gilt nicht für Vorhaben, bei denen das Verfahren zur Zulassung des Betriebes, insbesondere zur Genehmigung eines technischen Betriebsplanes, am Tage des Wirksamwerdens des Beitritts bereits begonnen war.
 
 cc)  
-Für die Bestellung und Namhaftmachung verantwortlicher Personen gilt für alle Betriebe § 169 Abs. 1 Nr. 3 entsprechend.
+(weggefallen)
 
 i)  
 Festgesetzte Bergbauschutzgebiete im Sinne des § 11 des Berggesetzes der Deutschen Demokratischen Republik, bei denen nach Feststellung der für die Zulassung von Betriebsplänen zuständigen Behörde innerhalb der nächsten fünfzehn Jahre eine bergbauliche Inanspruchnahme von Grundstücken zu erwarten ist, gelten für den Bereich des Feldes, für das das Gewinnungsrecht bestätigt worden ist, als Baubeschränkungsgebiete nach §§ 107 bis 109 mit der Maßgabe, daß § 107 Abs. 4 unabhängig von den Voraussetzungen für die Festsetzung der Bergbauschutzgebiete gilt, aber erstmalig ab 1. Januar 1995 anzuwenden ist, es sei denn, daß der durch die Baubeschränkung begünstigte Unternehmer eine frühere Aufhebung beantragt. Im übrigen gelten Bergbauschutzgebiete mit dem Tage des Wirksamwerdens des Beitritts als aufgehoben. Das Register der nach Satz 1 als Baubeschränkungsgebiete geltenden Bergbauschutzgebiete gilt als archivmäßige Sicherung nach § 107 Abs. 2.
