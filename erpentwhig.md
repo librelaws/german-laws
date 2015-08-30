@@ -2,7 +2,7 @@ Gesetz über die Finanzierungshilfe für Entwicklungsländer aus Mitteln des ERP
 ================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 125 V v. 31.10.2006 I 2407
+Zuletzt geändert durch Art. 247 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -12,7 +12,7 @@ Zuletzt geändert durch Art. 125 V v. 31.10.2006 I 2407
 
 ### § 1
 
-(1) Zur Förderung der Zusammenarbeit mit dem Ausland, insbesondere mit den Entwicklungsländern, ist das Bundesministerium für Wirtschaft und Technologie ermächtigt, Verpflichtungen zur Gewährung von Darlehen bis zu einem Gesamtbetrag von eintausendfünfhundert Millionen Deutsche Mark zu Lasten der in § 3 bezeichneten Mittel zu übernehmen.
+(1) Zur Förderung der Zusammenarbeit mit dem Ausland, insbesondere mit den Entwicklungsländern, ist das Bundesministerium für Wirtschaft und Energie ermächtigt, Verpflichtungen zur Gewährung von Darlehen bis zu einem Gesamtbetrag von eintausendfünfhundert Millionen Deutsche Mark zu Lasten der in § 3 bezeichneten Mittel zu übernehmen.
 
 (2) In dem Umfang, in dem der Bund (ERP-Sondervermögen) aus den Verpflichtungen nach Absatz 1 nicht mehr in Anspruch genommen werden kann, können neue Verpflichtungen ohne erneute Anrechnung auf den dort bezeichneten Gesamtbetrag übernommen werden. Soweit jedoch Verpflichtungen durch Erfüllung erlöschen, gilt dies nur in dem Umfang, als zur Erfüllung die in § 3 Abs. 1 Nr. 1 bezeichneten Mittel verwendet worden sind.
 
@@ -32,11 +32,11 @@ aus der Beschaffung im Wege des Kredits Geldmittel bis zur Höhe von insgesamt f
 
 (2) Den Förderungsmitteln fließen sonstige Zuweisungen zu, wenn sie ausdrücklich für den Förderungszweck bestimmt sind.
 
-(3) Das Bundesministerium für Wirtschaft und Technologie ist ermächtigt, die in Absatz 1 Nr. 2 bezeichneten Geldmittel zu Lasten des ERP-Sondervermögens zu beschaffen.
+(3) Das Bundesministerium für Wirtschaft und Energie ist ermächtigt, die in Absatz 1 Nr. 2 bezeichneten Geldmittel zu Lasten des ERP-Sondervermögens zu beschaffen.
 
 ### § 4
 
-Das Bundesministerium für Wirtschaft und Technologie ist ermächtigt, Kassenmittel zur Vorfinanzierung der Darlehen nach § 1 zu verwenden. Die Verwendung ist in einem Anhang zum ERP-Wirtschaftsplan und zur Jahresrechnung gesondert nachzuweisen.
+Das Bundesministerium für Wirtschaft und Energie ist ermächtigt, Kassenmittel zur Vorfinanzierung der Darlehen nach § 1 zu verwenden. Die Verwendung ist in einem Anhang zum ERP-Wirtschaftsplan und zur Jahresrechnung gesondert nachzuweisen.
 
 ### § 5
 
