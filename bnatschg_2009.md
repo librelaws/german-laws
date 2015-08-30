@@ -2,13 +2,7 @@ Gesetz über Naturschutz und Landschaftspflege (BNatSchG)
 ========================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 24 G v. 6.6.2013 I 1482
-
-Hinweis  
-Änderung durch Art. 2 Abs. 124 G v. 7.8.2013 I 3154 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 4 Abs. 100 G v. 7.8.2013 I 3154 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 421 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -393,7 +387,7 @@ die Anwendung von Düngemitteln und Pflanzenschutzmitteln hat nach Maßgabe des 
 
 (4) Bei der fischereiwirtschaftlichen Nutzung der oberirdischen Gewässer sind diese einschließlich ihrer Uferzonen als Lebensstätten und Lebensräume für heimische Tier- und Pflanzenarten zu erhalten und zu fördern. Der Besatz dieser Gewässer mit nichtheimischen Tierarten ist grundsätzlich zu unterlassen. Bei Fischzuchten und Teichwirtschaften der Binnenfischerei sind Beeinträchtigungen der heimischen Tier- und Pflanzenarten auf das zur Erzielung eines nachhaltigen Ertrages erforderliche Maß zu beschränken.
 
-§ 5 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 2b des Bayerischen Naturschutzgesetzes (BayNatSchG), dieser idF d. Art 78 Abs. 8 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG, mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275)
+§ 5 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 2b des Bayerischen Naturschutzgesetzes (BayNatSchG), dieser idF d. Art 78 Abs. 8 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG, mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Abweichung aufgeh. durch das Bayerische Naturschutzgesetz (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-U mWv 1.3.2011 (vgl. BGBl. I 2015, 152)
 § 5 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 3 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
 § 5 Abs. 2 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 3 Abs. 2 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 § 5 Abs. 2 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 3 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
@@ -599,7 +593,7 @@ Richtlinie 83/129/EWG des Rates vom 28. März 1983 betreffend die Einfuhr in die
 
 oder auf Vorschriften der genannten Rechtsakte verwiesen wird, in denen auf Anhänge Bezug genommen wird, sind die Anhänge jeweils in der sich aus den Veröffentlichungen im Amtsblatt Teil L der Europäischen Union ergebenden geltenden Fassung maßgeblich.
 
-(4) Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit gibt die besonders geschützten und die streng geschützten Arten sowie den Zeitpunkt ihrer jeweiligen Unterschutzstellung bekannt.
+(4) Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit gibt die besonders geschützten und die streng geschützten Arten sowie den Zeitpunkt ihrer jeweiligen Unterschutzstellung bekannt.
 
 (5) Wenn besonders geschützte Arten bereits auf Grund der bis zum 8. Mai 1998 geltenden Vorschriften unter besonderem Schutz standen, gilt als Zeitpunkt der Unterschutzstellung derjenige, der sich aus diesen Vorschriften ergibt. Entsprechendes gilt für die streng geschützten Arten, soweit sie nach den bis zum 8. Mai 1998 geltenden Vorschriften als vom Aussterben bedroht bezeichnet waren.
 
@@ -655,7 +649,7 @@ zur Erhaltung und Entwicklung von Vielfalt, Eigenart und Schönheit sowie des Er
 g)  
 zur Erhaltung und Entwicklung von Freiräumen im besiedelten und unbesiedelten Bereich.
 
-Auf die Verwertbarkeit der Darstellungen der Landschaftsplanung für die Raumordnungspläne und Bauleitpläne ist Rücksicht zu nehmen. Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die für die Darstellung der Inhalte zu verwendenden Planzeichen zu regeln.
+Auf die Verwertbarkeit der Darstellungen der Landschaftsplanung für die Raumordnungspläne und Bauleitpläne ist Rücksicht zu nehmen. Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die für die Darstellung der Inhalte zu verwendenden Planzeichen zu regeln.
 
 (4) Die Landschaftsplanung ist fortzuschreiben, sobald und soweit dies im Hinblick auf Erfordernisse und Maßnahmen im Sinne des Absatzes 3 Satz 1 Nummer 4 erforderlich ist, insbesondere weil wesentliche Veränderungen von Natur und Landschaft im Planungsraum eingetreten, vorgesehen oder zu erwarten sind. Die Fortschreibung kann als sachlicher oder räumlicher Teilplan erfolgen, sofern die Umstände, die die Fortschreibung begründen, sachlich oder räumlich begrenzt sind.
 
@@ -675,8 +669,8 @@ Auf die Verwertbarkeit der Darstellungen der Landschaftsplanung für die Raumord
 (4) Die Zuständigkeit, das Verfahren der Aufstellung und das Verhältnis von Landschaftsprogrammen und Landschaftsrahmenplänen zu Raumordnungsplänen richten sich nach Landesrecht.
 
 § 10 Abs. 1 idF d. G v. 29.7.2009 I 2542: Hessen - Abweichung durch § 6 Abs. 1 Satz 1 des Hessischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (HAGBNatSchG) v. 20.12.2010 GVBl. I S. 629 mWv 29.12.2010 (vgl. BGBl. I 2011, 663)
-§ 10 Abs. 1 Satz 1: Mecklenburg-Vorpommern - Abweichung durch § 11 Abs. 1 des Naturschutzausführungsgesetzes (NatSchAG M-V) v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1621)
-§ 10 Abs. 2: Mecklenburg-Vorpommern - Abweichung durch § 11 Abs. 1 des Naturschutzausführungsgesetzes (NatSchAG M-V) v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1621)
+§ 10 Abs. 1 Satz 1 idF d. G v. 29.7.2009 I 2542: Mecklenburg-Vorpommern - Abweichung durch § 11 Abs. 1 des Naturschutzausführungsgesetzes (NatSchAG M-V) v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1621)
+§ 10 Abs. 2 idF d. G v. 29.7.2009 I 2542: Mecklenburg-Vorpommern - Abweichung durch § 11 Abs. 1 des Naturschutzausführungsgesetzes (NatSchAG M-V) v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1621)
 § 10 Abs. 2 idF d. G v. 29.7.2009 I 2542: Hessen - Abweichung durch § 6 Abs. 1 Satz 1 des Hessischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (HAGBNatSchG) v. 20.12.2010 GVBl. I S. 629 mWv 29.12.2010 (vgl. BGBl. I 2011, 663)
 § 10 Abs. 2 Satz 1 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 6 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 § 10 Abs. 2 Satz 2 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 5 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
@@ -728,12 +722,15 @@ auf Grund vertraglicher Vereinbarungen oder auf Grund der Teilnahme an öffentli
 2.  
 auf Grund der Durchführung von vorgezogenen Kompensationsmaßnahmen, die vorgezogene Maßnahme aber nicht für eine Kompensation in Anspruch genommen wird.
 
+§ 14 idF d. G v. 29.7.2009 I 2542: Rheinland-Pfalz - Abweichung durch § 6 des Landesnaturschutzgesetzes (LNatschG) v. 6.10.2015 GVBl. S. 283 mWv 16.10.2015 (vgl. BGBl. I 2016, 158)
 § 14 Abs. 1 idF d. G v. 29.7.2009 I 2542: Niedersachsen - Abweichung durch § 5 des Niedersächsischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (NAGBNatSchG) v. 19.2.2010 Nds. GVBl. S. 104 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)
 § 14 Abs. 1 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 6 Abs. 1 u. 2 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
 § 14 Abs. 1 idF d. G v. 29.7.2009 I 2542: Berlin - Abweichung durch § 16 des Berliner Naturschutzgesetzes (NatSchG Bln) v. 29.5.2013 GVBl. BE S. 140 mWv 9.6.2013 (vgl. BGBl. I 2013, 2829)
+§ 14 Abs. 1 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 6 Abs. 1 des Landesnaturschutzgesetzes (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569, geändert durch Gesetz vom 15.1.2015 GVBl LSA S. 21, mWv 22.1.2015 (vgl. BGBl. I 2015, 183)
 § 14 Abs. 2 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 8 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 § 14 Abs. 2 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 6 Abs. 4 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
 § 14 Abs. 3 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 6 des Naturschutzgesetzes des Landes Sachsen-Anhalt (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569 mWv 17.12.2010 (vgl. BGBl. I 2011, 30)
+§ 14 Abs. 3 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 6 Abs. 2 des Landesnaturschutzgesetzes (LNatSchG) v. 10.12.2010 GVBl. LSA S. 569, geändert durch Gesetz vom 15.1.2015 GVBl LSA S. 21, mWv 22.1.2015 (vgl. BGBl. I 2015, 183)
 § 14 Abs. 3 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 6 Abs. 5 u. Art. 8 Abs. 1 Satz 2 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
 § 14 Abs. 3 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 6 Abs. 1 u. 2 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
 
@@ -751,7 +748,7 @@ auf Grund der Durchführung von vorgezogenen Kompensationsmaßnahmen, die vorgez
 
 (6) Wird ein Eingriff nach Absatz 5 zugelassen oder durchgeführt, obwohl die Beeinträchtigungen nicht zu vermeiden oder nicht in angemessener Frist auszugleichen oder zu ersetzen sind, hat der Verursacher Ersatz in Geld zu leisten. Die Ersatzzahlung bemisst sich nach den durchschnittlichen Kosten der nicht durchführbaren Ausgleichs- und Ersatzmaßnahmen einschließlich der erforderlichen durchschnittlichen Kosten für deren Planung und Unterhaltung sowie die Flächenbereitstellung unter Einbeziehung der Personal- und sonstigen Verwaltungskosten. Sind diese nicht feststellbar, bemisst sich die Ersatzzahlung nach Dauer und Schwere des Eingriffs unter Berücksichtigung der dem Verursacher daraus erwachsenden Vorteile. Die Ersatzzahlung ist von der zuständigen Behörde im Zulassungsbescheid oder, wenn der Eingriff von einer Behörde durchgeführt wird, vor der Durchführung des Eingriffs festzusetzen. Die Zahlung ist vor der Durchführung des Eingriffs zu leisten. Es kann ein anderer Zeitpunkt für die Zahlung festgelegt werden; in diesem Fall soll eine Sicherheitsleistung verlangt werden. Die Ersatzzahlung ist zweckgebunden für Maßnahmen des Naturschutzes und der Landschaftspflege möglichst in dem betroffenen Naturraum zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht.
 
-(7) Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz und dem Bundesministerium für Verkehr, Bau und Stadtentwicklung durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere zur Kompensation von Eingriffen zu regeln, insbesondere
+(7) Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft und dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere zur Kompensation von Eingriffen zu regeln, insbesondere
 
 1.  
 zu Inhalt, Art und Umfang von Ausgleichs- und Ersatzmaßnahmen einschließlich von Maßnahmen zur Entsiegelung, zur Wiedervernetzung von Lebensräumen und zur Bewirtschaftung und Pflege sowie zur Festlegung diesbezüglicher Standards, insbesondere für vergleichbare Eingriffsarten,
@@ -759,7 +756,7 @@ zu Inhalt, Art und Umfang von Ausgleichs- und Ersatzmaßnahmen einschließlich v
 2.  
 die Höhe der Ersatzzahlung und das Verfahren zu ihrer Erhebung.
 
-Solange und soweit das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit von seiner Ermächtigung keinen Gebrauch macht, richtet sich das Nähere zur Kompensation von Eingriffen nach Landesrecht, soweit dieses den vorstehenden Absätzen nicht widerspricht.
+Solange und soweit das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit von seiner Ermächtigung keinen Gebrauch macht, richtet sich das Nähere zur Kompensation von Eingriffen nach Landesrecht, soweit dieses den vorstehenden Absätzen nicht widerspricht.
 
 § 15 idF d. G v. 29.7.2009 I 2542: Berlin - Abweichung durch § 17 des Berliner Naturschutzgesetzes (NatSchG Bln) v. 29.5.2013 GVBl. BE S. 140 mWv 9.6.2013 (vgl. BGBl. I 2013, 2829)
 § 15 Abs. 2 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 6 Abs. 3 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
@@ -772,6 +769,7 @@ Solange und soweit das Bundesministerium für Umwelt, Naturschutz und Reaktorsic
 § 15 Abs. 4 Satz 3 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 7 Abs. 2 des Naturschutzgesetzes des Landes Sachsen-Anhalt (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569 mWv 17.12.2010 (vgl. BGBl. I 2011, 30)
 § 15 Abs. 5 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 9 Abs. 2 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 § 15 Abs. 6 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 9 Abs. 1 des Landesnaturschutzgesetzes (LNatschG) v. 24.2.2010 GVOBl. Schl.-H. S. 301, ber. S. 486), idF d. Art. 2 Nr. 1 Buchst. a G v. 13.7.2011 GVOBl. Schl.-H. S. 225 mWv 29.7.2011 (vgl. BGBl. I 2011, 1979)
+§ 15 Abs. 6 idF d. G v. 29.7.2009 I 2542: Rheinland-Pfalz - Abweichung durch § 7 Abs. 5 des Landesnaturschutzgesetzes (LNatschG) v. 6.10.2015 GVBl. S. 283 mWv 16.10.2015 (vgl. BGBl. I 2016, 158)
 § 15 Abs. 6 Satz 2 u. 3 idF d. G v. 29.7.2009 I 2542: Sachsen - Abweichung durch § 9 Abs. 4 Satz 2 des Sächsischen Naturschutzgesetzes (SächsNatSchG) idF d. Bek. v. 3.7.2007 SächsGVBl. S. 321, zuletzt geändert durch Artikel 17 des G v. 15.12.2010 SächsGVBl. S. 387, 398, mWv 15.5.2010 (vgl. BGBl. I 2011, 842)
 § 15 Abs. 6 Satz 3 idF d. G v. 29.7.2009 I 2542: Niedersachsen - Abweichung durch § 6 Abs. 1 Satz 1 des Niedersächsischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (NAGBNatSchG) v. 19.2.2010 Nds. GVBl. S. 104 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)
 § 15 Abs. 6 Satz 7 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 9 Abs. 5 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
@@ -800,6 +798,8 @@ sie Programmen und Plänen nach den §§ 10 und 11 nicht widersprechen und
 eine Dokumentation des Ausgangszustands der Flächen vorliegt; Vorschriften der Länder zu den Anforderungen an die Dokumentation bleiben unberührt.
 
 (2) Die Bevorratung von vorgezogenen Ausgleichs- und Ersatzmaßnahmen mittels Ökokonten, Flächenpools oder anderer Maßnahmen, insbesondere die Erfassung, Bewertung oder Buchung vorgezogener Ausgleichs- und Ersatzmaßnahmen in Ökokonten, deren Genehmigungsbedürftigkeit und Handelbarkeit sowie der Übergang der Verantwortung nach § 15 Absatz 4 auf Dritte, die vorgezogene Ausgleichs- und Ersatzmaßnahmen durchführen, richtet sich nach Landesrecht.
+
+§ 16 Abs. 1 Nr. 1 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 7 Abs. 2 des Landesnaturschutzgesetzes (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569, geändert durch Gesetz vom 15.1.2015 GVBl LSA S. 21, mWv 22.1.2015 (vgl. BGBl. I 2015, 183)
 
 ### § 17 Verfahren; Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -834,8 +834,9 @@ Die zuständige Behörde kann die Vorlage von Gutachten verlangen, soweit dies z
 (11) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung das Nähere zu dem in den Absätzen 1 bis 10 geregelten Verfahren einschließlich des Kompensationsverzeichnisses zu bestimmen. Sie können die Ermächtigung nach Satz 1 durch Rechtsverordnung auf andere Landesbehörden übertragen.
 
 § 17 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 52 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
+§ 17 Abs. 1 idF d. G v. 29.7.2009 I 2542: Rheinland-Pfalz - Abweichung durch § 9 Abs. 2 des Landesnaturschutzgesetzes (LNatschG) v. 6.10.2015 GVBl. S. 283 mWv 16.10.2015 (vgl. BGBl. I 2016, 158)
 § 17 Abs. 1 u. 3 idF d. G v. 29.7.2009 I 2542 (iVm § 11 Abs. 1, 3 bis 7 des Landesnaturschutzgesetzes (LNatSchG SH v. 24.2.2010): Schleswig-Holstein - Abweichung durch § 36 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
-§ 10 Abs. 1 u. 3: Mecklenburg-Vorpommern - Abweichung durch § 12 Abs. 6 Satz 1 des Naturschutzausführungsgesetzes des Landes Mecklenburg-Vorpommern (NatSchAG M-V) v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1621)
+§ 17 Abs. 1 u. 3 idF d. G v. 29.7.2009 I 2542: Mecklenburg-Vorpommern - Abweichung durch § 12 Abs. 6 Satz 1 des Naturschutzausführungsgesetzes des Landes Mecklenburg-Vorpommern (NatSchAG M-V) v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1621)
 § 17 Abs. 3 idF d. G v. 29.7.2009 I 2542: Niedersachsen - Abweichung durch § 7 Abs. 1 des Niedersächsischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (NAGBNatSchG) v. 19.2.2010 Nds. GVBl. S. 104 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)
 § 17 Abs. 3 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 6 Abs. 1 bis 3 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
 § 17 Abs. 3 idF d. G v. 29.7.2009 I 2542: Berlin - Abweichung durch § 19 Abs. 3 des Berliner Naturschutzgesetzes (NatSchG Bln) v. 29.5.2013 GVBl. BE S. 140 mWv 9.6.2013 (vgl. BGBl. I 2013, 2829)
@@ -843,6 +844,7 @@ Die zuständige Behörde kann die Vorlage von Gutachten verlangen, soweit dies z
 § 17 Abs. 3 Satz 3 idF d. G v. 29.7.2009 I 2542: Hessen - Abweichung durch § 7 Abs. 4 Satz 1 des Hessischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (HAGBNatSchG) v. 20.12.2010 GVBl. I S. 629 mWv 29.12.2010 (vgl. BGBl. I 2011, 663)
 § 17 Abs. 3 Satz 3 u. 4 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 11 Abs. 5 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 § 17 Abs. 4 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 11 Abs. 6 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
+§ 17 Abs. 4 Satz 1 Nr. 2 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 10 Abs. 1 des Landesnaturschutzgesetzes (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569, geändert durch Gesetz vom 15.1.2015 GVBl LSA S. 21, mWv 22.1.2015 (vgl. BGBl. I 2015, 183)
 § 17 Abs. 6 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 18 Abs. 2 Satz 2 des Naturschutzgesetzes des Landes Sachsen-Anhalt (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569 mWv 17.12.2010 (vgl. BGBl. I 2011, 30)
 § 17 Abs. 6 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 9 Satz 4 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
 § 17 Abs. 8 Satz 1 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 11 Abs. 9 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
@@ -980,7 +982,7 @@ wenn sie zur Erreichung des in Absatz 1 genannten Zieles geeignet sind.
 
 (4) Geschützte Teile von Natur und Landschaft sind zu registrieren und zu kennzeichnen. Das Nähere richtet sich nach Landesrecht.
 
-(5) Die Erklärung zum Nationalpark oder Nationalen Naturmonument einschließlich ihrer Änderung ergeht im Benehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit und dem Bundesministerium für Verkehr, Bau und Stadtentwicklung.
+(5) Die Erklärung zum Nationalpark oder Nationalen Naturmonument einschließlich ihrer Änderung ergeht im Benehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit und dem Bundesministerium für Verkehr und digitale Infrastruktur.
 
 § 22 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 54 Abs. 3 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
 § 22 Abs. 1 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 10 Abs. 1 Satz 3 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
@@ -1058,6 +1060,7 @@ beispielhaft der Entwicklung und Erprobung von die Naturgüter besonders schonen
 § 25 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 14 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
 § 25 Abs. 1 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 14 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 § 25 Abs. 1 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 20 des Naturschutzgesetzes des Landes Sachsen-Anhalt (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569 mWv 17.12.2010 (vgl. BGBl. I 2011, 30)
+§ 25 Abs. 1 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 20 Satz 1 des Landesnaturschutzgesetzes (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569, geändert durch Gesetz vom 15.1.2015 GVBl LSA S. 21, mWv 22.1.2015 (vgl. BGBl. I 2015, 183)
 § 25 Abs. 1 idF d. G v. 29.7.2009 I 2542: Hessen - Abweichung durch § 12 Abs. 6 Satz 2 des Hessischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (HAGBNatSchG) v. 20.12.2010 GVBl. I S. 629 mWv 29.12.2010 (vgl. BGBl. I 2011, 663)
 § 25 Abs. 3 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 14 Abs. 2 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 
@@ -1191,15 +1194,17 @@ Die Verbote des Satzes 1 gelten auch für weitere von den Ländern gesetzlich ge
 
 § 30 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch §§ 36 u. 52 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 § 30 Abs. 1 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 14 Abs. 1 iVm Anlage des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
-§ 30 Abs. 2 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 21 Abs. 2 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450
+§ 30 Abs. 2 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 21 Abs. 2 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 § 30 Abs. 2 idF d. G v. 29.7.2009 I 2542: Mecklenburg-Vorpommern - Abweichung durch § 20 des Naturschutzausführungsgesetzes (NatSchAG M-V) v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1621)
 § 30 Abs. 2 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 22 Abs. 2 des Naturschutzgesetzes des Landes Sachsen-Anhalt (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569 mWv 17.12.2010 (vgl. BGBl. I 2011, 30)
 § 30 Abs. 2 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 14 Abs. 1 iVm Anlage des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
 § 30 Abs. 2 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 23 Abs. 2 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
 § 30 Abs. 2 Satz 1 idF d. G v. 29.7.2009 I 2542: Niedersachsen - Abweichung durch § 24 Abs. 1 des Niedersächsischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (NAGBNatSchG) v. 19.2.2010 Nds. GVBl. S. 104 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)
 § 30 Abs. 2 u. 3 idF d. G v. 29.7.2009 I 2542: Sachsen - Abweichung durch § 26 Abs. 3 u. 4 des Sächsischen Naturschutzgesetzes (SächsNatSchG) idF d. Bek. v. 3.7.2007 SächsGVBl. S. 321, zuletzt geändert durch Artikel 17 des G v. 15.12.2010 SächsGVBl. S. 387, 398, mWv 15.5.2010 (vgl. BGBl. I 2011, 842)
+§ 30 Abs. 2 u. 3 idF d. G v. 29.7.2009 I 2542: Rheinland-Pfalz - Abweichung durch § 15 Abs. 2 u. 3 des Landesnaturschutzgesetzes (LNatschG) v. 6.10.2015 GVBl. S. 283 mWv 16.10.2015 (vgl. BGBl. I 2016, 158)
 § 30 Abs. 3 idF d. G v. 29.7.2009 I 2542: Mecklenburg-Vorpommern - Abweichung durch § 20 des Naturschutzausführungsgesetzes (NatSchAG M-V) v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1621)
 § 30 Abs. 3 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 23 Abs. 2, 3 u. 4 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
+§ 30 Abs. 3 idF d. G v. 29.7.2009 I 2542: Rheinland-Pfalz - Abweichung durch § 16 des Landesnaturschutzgesetzes (LNatschG) v. 6.10.2015 GVBl. S. 283 mWv 16.10.2015 (vgl. BGBl. I 2016, 158)
 § 30 Abs. 3 u. 4 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 14 Abs. 3 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
 § 30 Abs. 5 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 21 Abs. 4 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 § 30 Abs. 5 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 22 Abs. 2 des Naturschutzgesetzes des Landes Sachsen-Anhalt (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569 mWv 17.12.2010 (vgl. BGBl. I 2011, 30)
@@ -1219,7 +1224,7 @@ Der Bund und die Länder erfüllen die sich aus den Richtlinien 92/43/EWG und 20
 
 ### § 32 Schutzgebiete
 
-(1) Die Länder wählen die Gebiete, die der Kommission nach Artikel 4 Absatz 1 der Richtlinie 92/43/EWG und Artikel 4 Absatz 1 und 2 der Richtlinie 2009/147/EG zu benennen sind, nach den in diesen Vorschriften genannten Maßgaben aus. Sie stellen das Benehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit her. Dieses beteiligt die anderen fachlich betroffenen Bundesministerien und benennt die ausgewählten Gebiete der Kommission. Es übermittelt der Kommission gleichzeitig Schätzungen über eine finanzielle Beteiligung der Gemeinschaft, die zur Erfüllung der Verpflichtungen nach Artikel 6 Absatz 1 der Richtlinie 92/43/EWG einschließlich der Zahlung eines finanziellen Ausgleichs insbesondere für die Land- und Forstwirtschaft erforderlich ist.
+(1) Die Länder wählen die Gebiete, die der Kommission nach Artikel 4 Absatz 1 der Richtlinie 92/43/EWG und Artikel 4 Absatz 1 und 2 der Richtlinie 2009/147/EG zu benennen sind, nach den in diesen Vorschriften genannten Maßgaben aus. Sie stellen das Benehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit her. Dieses beteiligt die anderen fachlich betroffenen Bundesministerien und benennt die ausgewählten Gebiete der Kommission. Es übermittelt der Kommission gleichzeitig Schätzungen über eine finanzielle Beteiligung der Gemeinschaft, die zur Erfüllung der Verpflichtungen nach Artikel 6 Absatz 1 der Richtlinie 92/43/EWG einschließlich der Zahlung eines finanziellen Ausgleichs insbesondere für die Land- und Forstwirtschaft erforderlich ist.
 
 (2) Die in die Liste nach Artikel 4 Absatz 2 Unterabsatz 3 der Richtlinie 92/43/EWG aufgenommenen Gebiete sind nach Maßgabe des Artikels 4 Absatz 4 dieser Richtlinie und die nach Artikel 4 Absatz 1 und 2 der Richtlinie 2009/147/EG benannten Gebiete entsprechend den jeweiligen Erhaltungszielen zu geschützten Teilen von Natur und Landschaft im Sinne des § 20 Absatz 2 zu erklären.
 
@@ -1258,9 +1263,9 @@ aus zwingenden Gründen des überwiegenden öffentlichen Interesses, einschließ
 2.  
 zumutbare Alternativen, den mit dem Projekt verfolgten Zweck an anderer Stelle ohne oder mit geringeren Beeinträchtigungen zu erreichen, nicht gegeben sind.
 
-(4) Können von dem Projekt im Gebiet vorkommende prioritäre natürliche Lebensraumtypen oder prioritäre Arten betroffen werden, können als zwingende Gründe des überwiegenden öffentlichen Interesses nur solche im Zusammenhang mit der Gesundheit des Menschen, der öffentlichen Sicherheit, einschließlich der Verteidigung und des Schutzes der Zivilbevölkerung, oder den maßgeblich günstigen Auswirkungen des Projekts auf die Umwelt geltend gemacht werden. Sonstige Gründe im Sinne des Absatzes 3 Nummer 1 können nur berücksichtigt werden, wenn die zuständige Behörde zuvor über das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit eine Stellungnahme der Kommission eingeholt hat.
+(4) Können von dem Projekt im Gebiet vorkommende prioritäre natürliche Lebensraumtypen oder prioritäre Arten betroffen werden, können als zwingende Gründe des überwiegenden öffentlichen Interesses nur solche im Zusammenhang mit der Gesundheit des Menschen, der öffentlichen Sicherheit, einschließlich der Verteidigung und des Schutzes der Zivilbevölkerung, oder den maßgeblich günstigen Auswirkungen des Projekts auf die Umwelt geltend gemacht werden. Sonstige Gründe im Sinne des Absatzes 3 Nummer 1 können nur berücksichtigt werden, wenn die zuständige Behörde zuvor über das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit eine Stellungnahme der Kommission eingeholt hat.
 
-(5) Soll ein Projekt nach Absatz 3, auch in Verbindung mit Absatz 4, zugelassen oder durchgeführt werden, sind die zur Sicherung des Zusammenhangs des Netzes „Natura 2000“ notwendigen Maßnahmen vorzusehen. Die zuständige Behörde unterrichtet die Kommission über das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit über die getroffenen Maßnahmen.
+(5) Soll ein Projekt nach Absatz 3, auch in Verbindung mit Absatz 4, zugelassen oder durchgeführt werden, sind die zur Sicherung des Zusammenhangs des Netzes „Natura 2000“ notwendigen Maßnahmen vorzusehen. Die zuständige Behörde unterrichtet die Kommission über das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit über die getroffenen Maßnahmen.
 
 (6) Bedarf ein Projekt im Sinne des Absatzes 1 Satz 1, das nicht von einer Behörde durchgeführt wird, nach anderen Rechtsvorschriften keiner behördlichen Entscheidung oder Anzeige an eine Behörde, so ist es der für Naturschutz und Landschaftspflege zuständigen Behörde anzuzeigen. Diese kann die Durchführung des Projekts zeitlich befristen oder anderweitig beschränken, um die Einhaltung der Voraussetzungen der Absätze 1 bis 5 sicherzustellen. Trifft die Behörde innerhalb eines Monats nach Eingang der Anzeige keine Entscheidung, kann mit der Durchführung des Projekts begonnen werden. Wird mit der Durchführung eines Projekts ohne die erforderliche Anzeige begonnen, kann die Behörde die vorläufige Einstellung anordnen. Liegen im Fall des Absatzes 2 die Voraussetzungen der Absätze 3 bis 5 nicht vor, hat die Behörde die Durchführung des Projekts zu untersagen. Die Sätze 1 bis 5 sind nur insoweit anzuwenden, als Schutzvorschriften der Länder, einschließlich der Vorschriften über Ausnahmen und Befreiungen, keine strengeren Regelungen für die Zulässigkeit von Projekten enthalten.
 
@@ -1268,7 +1273,7 @@ zumutbare Alternativen, den mit dem Projekt verfolgten Zweck an anderer Stelle o
 
 (8) Die Absätze 1 bis 7 gelten mit Ausnahme von Bebauungsplänen, die eine Planfeststellung ersetzen, nicht für Vorhaben im Sinne des § 29 des Baugesetzbuches in Gebieten mit Bebauungsplänen nach § 30 des Baugesetzbuches und während der Planaufstellung nach § 33 des Baugesetzbuches.
 
-§ 34 Abs. 1 Satz 2: Mecklenburg-Vorpommern - Abweichung durch § 21 Abs. 6 des Naturschutzausführungsgesetzes (NatSchAG M-V) v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1621)
+§ 34 Abs. 1 Satz 2 idF d. G v. 29.7.2009 I 2542: Mecklenburg-Vorpommern - Abweichung durch § 21 Abs. 6 des Naturschutzausführungsgesetzes (NatSchAG M-V) v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1621)
 
 ### § 35 Gentechnisch veränderte Organismen
 
@@ -1283,6 +1288,7 @@ die land-, forst- und fischereiwirtschaftliche Nutzung von rechtmäßig in Verke
 ist § 34 Absatz 1 und 2 entsprechend anzuwenden.
 
 § 35 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 21 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
+§ 35 idF d. G v. 29.7.2009 I 2542: Rheinland-Pfalz - Abweichung durch § 19 des Landesnaturschutzgesetzes (LNatschG) v. 6.10.2015 GVBl. S. 283 mWv 16.10.2015 (vgl. BGBl. I 2016, 158)
 
 ### § 36 Pläne
 
@@ -1692,7 +1698,7 @@ Abschnitt 4 Zuständige Behörden, Verbringen von Tieren und Pflanzen
 (1) Vollzugsbehörden im Sinne des Artikels 13 Absatz 1 der Verordnung (EG) Nr. 338/97 und des Artikels IX des Washingtoner Artenschutzübereinkommens sind
 
 1.  
-das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit für den Verkehr mit anderen Vertragsparteien und mit dem Sekretariat (Artikel IX Absatz 2 des Washingtoner Artenschutzübereinkommens), mit Ausnahme der in Nummer 2 Buchstabe a und c sowie Nummer 4 genannten Aufgaben, und für die in Artikel 12 Absatz 1, 3 und 5, den Artikeln 13 und 15 Absatz 1 und 5 und Artikel 20 der Verordnung (EG) Nr. 338/97 genannten Aufgaben,
+das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit für den Verkehr mit anderen Vertragsparteien und mit dem Sekretariat (Artikel IX Absatz 2 des Washingtoner Artenschutzübereinkommens), mit Ausnahme der in Nummer 2 Buchstabe a und c sowie Nummer 4 genannten Aufgaben, und für die in Artikel 12 Absatz 1, 3 und 5, den Artikeln 13 und 15 Absatz 1 und 5 und Artikel 20 der Verordnung (EG) Nr. 338/97 genannten Aufgaben,
 
 2.  
 das Bundesamt für Naturschutz
@@ -1727,9 +1733,9 @@ die nach Landesrecht für Naturschutz und Landschaftspflege zuständigen Behörd
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten Zollbehörden wirken mit bei der Überwachung des Verbringens von Tieren und Pflanzen, die einer Ein- oder Ausfuhrregelung nach Rechtsakten der Europäischen Gemeinschaft unterliegen, sowie bei der Überwachung von Besitz- und Vermarktungsverboten nach diesem Kapitel im Warenverkehr mit Drittstaaten. Die Zollbehörden dürfen im Rahmen der Überwachung vorgelegte Dokumente an die nach § 48 zuständigen Behörden weiterleiten, soweit zureichende tatsächliche Anhaltspunkte dafür bestehen, dass Tiere oder Pflanzen unter Verstoß gegen Regelungen oder Verbote im Sinne des Satzes 1 verbracht werden.
 
-(2) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des Verfahrens nach Absatz 1 zu regeln; soweit es erforderlich ist, kann es dabei auch Pflichten zu Anzeigen, Anmeldungen, Auskünften und zur Leistung von Hilfsdiensten sowie zur Duldung der Einsichtnahme in Geschäftspapiere und sonstige Unterlagen und zur Duldung von Besichtigungen und von Entnahmen unentgeltlicher Muster und Proben vorsehen.
+(2) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des Verfahrens nach Absatz 1 zu regeln; soweit es erforderlich ist, kann es dabei auch Pflichten zu Anzeigen, Anmeldungen, Auskünften und zur Leistung von Hilfsdiensten sowie zur Duldung der Einsichtnahme in Geschäftspapiere und sonstige Unterlagen und zur Duldung von Besichtigungen und von Entnahmen unentgeltlicher Muster und Proben vorsehen.
 
-(3) Die Zollstellen, bei denen Tiere und Pflanzen zur Ein-, Durch- und Ausfuhr nach diesem Kapitel anzumelden sind, werden vom Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit im Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger bekannt gegeben. Auf Zollstellen, bei denen lebende Tiere und Pflanzen anzumelden sind, ist besonders hinzuweisen.
+(3) Die Zollstellen, bei denen Tiere und Pflanzen zur Ein-, Durch- und Ausfuhr nach diesem Kapitel anzumelden sind, werden vom Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit im Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger bekannt gegeben. Auf Zollstellen, bei denen lebende Tiere und Pflanzen anzumelden sind, ist besonders hinzuweisen.
 
 ### § 50 Anmeldepflicht bei der Ein-, Durch- und Ausfuhr oder dem Verbringen aus Drittstaaten
 
@@ -1739,7 +1745,7 @@ die nach Landesrecht für Naturschutz und Landschaftspflege zuständigen Behörd
 
 ### § 51 Inverwahrungnahme, Beschlagnahme und Einziehung durch die Zollbehörden
 
-(1) Ergeben sich im Rahmen der zollamtlichen Überwachung Zweifel, ob das Verbringen von Tieren oder Pflanzen Regelungen oder Verboten im Sinne des § 49 Absatz 1 unterliegt, kann die Zollbehörde die Tiere oder Pflanzen auf Kosten der verfügungsberechtigten Person bis zur Klärung der Zweifel in Verwahrung nehmen oder einen Dritten mit der Verwahrung beauftragen; sie kann die Tiere oder Pflanzen auch der verfügungsberechtigten Person unter Auferlegung eines Verfügungsverbotes überlassen. Zur Klärung der Zweifel kann die Zollbehörde von der verfügungsberechtigten Person die Vorlage einer Bescheinigung einer vom Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit anerkannten unabhängigen sachverständigen Stelle oder Person darüber verlangen, dass es sich nicht um Tiere oder Pflanzen handelt, die zu den Arten oder Populationen gehören, die einer von der Europäischen Gemeinschaft erlassenen Ein- oder Ausfuhrregelung oder Besitz- und Vermarktungsverboten nach diesem Kapitel unterliegen. Erweisen sich die Zweifel als unbegründet, hat der Bund der verfügungsberechtigten Person die Kosten für die Beschaffung der Bescheinigung und die zusätzlichen Kosten der Verwahrung zu erstatten.
+(1) Ergeben sich im Rahmen der zollamtlichen Überwachung Zweifel, ob das Verbringen von Tieren oder Pflanzen Regelungen oder Verboten im Sinne des § 49 Absatz 1 unterliegt, kann die Zollbehörde die Tiere oder Pflanzen auf Kosten der verfügungsberechtigten Person bis zur Klärung der Zweifel in Verwahrung nehmen oder einen Dritten mit der Verwahrung beauftragen; sie kann die Tiere oder Pflanzen auch der verfügungsberechtigten Person unter Auferlegung eines Verfügungsverbotes überlassen. Zur Klärung der Zweifel kann die Zollbehörde von der verfügungsberechtigten Person die Vorlage einer Bescheinigung einer vom Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit anerkannten unabhängigen sachverständigen Stelle oder Person darüber verlangen, dass es sich nicht um Tiere oder Pflanzen handelt, die zu den Arten oder Populationen gehören, die einer von der Europäischen Gemeinschaft erlassenen Ein- oder Ausfuhrregelung oder Besitz- und Vermarktungsverboten nach diesem Kapitel unterliegen. Erweisen sich die Zweifel als unbegründet, hat der Bund der verfügungsberechtigten Person die Kosten für die Beschaffung der Bescheinigung und die zusätzlichen Kosten der Verwahrung zu erstatten.
 
 (2) Wird bei der zollamtlichen Überwachung festgestellt, dass Tiere oder Pflanzen ohne die vorgeschriebenen Genehmigungen oder sonstigen Dokumente ein-, durch- oder ausgeführt werden, werden sie durch die Zollbehörde beschlagnahmt. Beschlagnahmte Tiere oder Pflanzen können der verfügungsberechtigten Person unter Auferlegung eines Verfügungsverbotes überlassen werden. Werden die vorgeschriebenen Genehmigungen oder sonstigen Dokumente nicht innerhalb eines Monats nach der Beschlagnahme vorgelegt, so ordnet die Zollbehörde die Einziehung an; die Frist kann angemessen verlängert werden, längstens bis zu insgesamt sechs Monaten. Wird festgestellt, dass es sich um Tiere oder Pflanzen handelt, für die eine Ein- oder Ausfuhrgenehmigung nicht erteilt werden darf, werden sie sofort eingezogen.
 
@@ -1766,7 +1772,7 @@ Abschnitt 5 Auskunfts- und Zutrittsrecht; Gebühren und Auslagen
 
 (1) Das Bundesamt für Naturschutz erhebt für seine individuell zurechenbaren öffentlichen Leistungen nach den Vorschriften dieses Kapitels sowie nach den Vorschriften der Verordnung (EG) Nr. 338/97 in der jeweils geltenden Fassung sowie auf deren Grundlage erlassenen Verordnungen in der jeweils geltenden Fassung Gebühren und Auslagen.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz und dem Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Gebührensätze und die Auslagenerstattung zu bestimmen und dabei feste Sätze und Rahmensätze vorzusehen. Die zu erstattenden Auslagen können abweichend vom Bundesgebührengesetz geregelt werden.
+(2) Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium für Ernährung und Landwirtschaft und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Gebührensätze und die Auslagenerstattung zu bestimmen und dabei feste Sätze und Rahmensätze vorzusehen. Die zu erstattenden Auslagen können abweichend vom Bundesgebührengesetz geregelt werden.
 
 Abschnitt 6 Ermächtigungen
 --------------------------
@@ -1775,7 +1781,7 @@ Abschnitt 6 Ermächtigungen
 
 ### § 54 Ermächtigung zum Erlass von Rechtsverordnungen
 
-(1) Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmte, nicht unter § 7 Absatz 2 Nummer 13 Buchstabe a oder Buchstabe b fallende Tier- und Pflanzenarten oder Populationen solcher Arten unter besonderen Schutz zu stellen, soweit es sich um natürlich vorkommende Arten handelt, die
+(1) Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmte, nicht unter § 7 Absatz 2 Nummer 13 Buchstabe a oder Buchstabe b fallende Tier- und Pflanzenarten oder Populationen solcher Arten unter besonderen Schutz zu stellen, soweit es sich um natürlich vorkommende Arten handelt, die
 
 1.  
 im Inland durch den menschlichen Zugriff in ihrem Bestand gefährdet sind, oder soweit es sich um Arten handelt, die mit solchen gefährdeten Arten oder mit Arten im Sinne des § 7 Absatz 2 Nummer 13 Buchstabe b verwechselt werden können, oder
@@ -1783,7 +1789,7 @@ im Inland durch den menschlichen Zugriff in ihrem Bestand gefährdet sind, oder 
 2.  
 in ihrem Bestand gefährdet sind und für die die Bundesrepublik Deutschland in hohem Maße verantwortlich ist.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+(2) Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  
 bestimmte, nach § 7 Absatz 2 Nummer 13 Buchstabe a oder Buchstabe b besonders geschützte
@@ -1799,7 +1805,7 @@ bestimmte sonstige Tier- und Pflanzenarten im Sinne des Absatzes 1
 
 unter strengen Schutz zu stellen, soweit es sich um natürlich vorkommende Arten handelt, die im Inland vom Aussterben bedroht sind oder für die die Bundesrepublik Deutschland in besonders hohem Maße verantwortlich ist.
 
-(3) Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+(3) Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  
 näher zu bestimmen, welche Teile von Tieren oder Pflanzen besonders geschützter Arten oder aus solchen Tieren oder Pflanzen gewonnene Erzeugnisse als ohne Weiteres erkennbar im Sinne des § 7 Absatz 2 Nummer 1 Buchstabe c und d oder Nummer 2 Buchstabe c und d anzusehen sind,
@@ -1807,9 +1813,9 @@ näher zu bestimmen, welche Teile von Tieren oder Pflanzen besonders geschützte
 2.  
 bestimmte besonders geschützte Arten oder Herkünfte von Tieren oder Pflanzen besonders geschützter Arten sowie gezüchtete oder künstlich vermehrte Tiere oder Pflanzen besonders geschützter Arten von Verboten des § 44 ganz, teilweise oder unter bestimmten Voraussetzungen auszunehmen, soweit der Schutzzweck dadurch nicht gefährdet wird und die Artikel 12, 13 und 16 der Richtlinie 92/43/EWG, die Artikel 5 bis 7 und 9 der Richtlinie 2009/147/EG, sonstige Rechtsakte der Europäischen Gemeinschaft oder Verpflichtungen aus internationalen Artenschutzübereinkommen dem nicht entgegenstehen.
 
-(4) Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates invasive Tier- und Pflanzenarten zu bestimmen, für die nach § 44 Absatz 3 Nummer 2 die Verbote des § 44 Absatz 2 gelten, soweit dies erforderlich ist, um einer Gefährdung von Ökosystemen, Biotopen oder Arten entgegenzuwirken.
+(4) Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates invasive Tier- und Pflanzenarten zu bestimmen, für die nach § 44 Absatz 3 Nummer 2 die Verbote des § 44 Absatz 2 gelten, soweit dies erforderlich ist, um einer Gefährdung von Ökosystemen, Biotopen oder Arten entgegenzuwirken.
 
-(5) Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird ermächtigt, soweit dies aus Gründen des Artenschutzes erforderlich ist und Rechtsakte der Europäischen Gemeinschaft dem nicht entgegenstehen, durch Rechtsverordnung mit Zustimmung des Bundesrates
+(5) Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, soweit dies aus Gründen des Artenschutzes erforderlich ist und Rechtsakte der Europäischen Gemeinschaft dem nicht entgegenstehen, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  
 die Haltung oder die Zucht von Tieren,
@@ -1819,7 +1825,7 @@ das Inverkehrbringen von Tieren und Pflanzen
 
 bestimmter besonders geschützter Arten sowie von Tieren und Pflanzen der durch Rechtsverordnung nach § 54 Absatz 4 bestimmten Arten zu verbieten oder zu beschränken.
 
-(6) Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird ermächtigt, soweit dies aus Gründen des Artenschutzes, insbesondere zur Erfüllung der sich aus Artikel 15 der Richtlinie 92/43/EWG, Artikel 8 der Richtlinie 2009/147/EG oder aus internationalen Artenschutzübereinkommen ergebenden Verpflichtungen, erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates
+(6) Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, soweit dies aus Gründen des Artenschutzes, insbesondere zur Erfüllung der sich aus Artikel 15 der Richtlinie 92/43/EWG, Artikel 8 der Richtlinie 2009/147/EG oder aus internationalen Artenschutzübereinkommen ergebenden Verpflichtungen, erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  
 die Herstellung, den Besitz, das Inverkehrbringen oder die Verwendung bestimmter Geräte, Mittel oder Vorrichtungen, mit denen in Mengen oder wahllos wild lebende Tiere getötet, bekämpft oder gefangen oder Pflanzen bekämpft oder vernichtet werden können, oder durch die das örtliche Verschwinden oder sonstige erhebliche Beeinträchtigungen von Populationen der betreffenden Tier- oder Pflanzenarten hervorgerufen werden könnten,
@@ -1829,9 +1835,9 @@ Handlungen oder Verfahren, die zum örtlichen Verschwinden oder zu sonstigen erh
 
 zu beschränken oder zu verbieten. Satz 1 Nummer 1 gilt nicht für Geräte, Mittel oder Vorrichtungen, die auf Grund anderer Rechtsvorschriften einer Zulassung bedürfen, sofern bei der Zulassung die Belange des Artenschutzes zu berücksichtigen sind.
 
-(7) Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zum Schutz von Horststandorten von Vogelarten zu erlassen, die in ihrem Bestand gefährdet und in besonderem Maße störungsempfindlich sind und insbesondere während bestimmter Zeiträume und innerhalb bestimmter Abstände Handlungen zu verbieten, die die Fortpflanzung oder Aufzucht beeinträchtigen können. Weiter gehende Schutzvorschriften einschließlich der Bestimmungen über Ausnahmen und Befreiungen bleiben unberührt.
+(7) Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zum Schutz von Horststandorten von Vogelarten zu erlassen, die in ihrem Bestand gefährdet und in besonderem Maße störungsempfindlich sind und insbesondere während bestimmter Zeiträume und innerhalb bestimmter Abstände Handlungen zu verbieten, die die Fortpflanzung oder Aufzucht beeinträchtigen können. Weiter gehende Schutzvorschriften einschließlich der Bestimmungen über Ausnahmen und Befreiungen bleiben unberührt.
 
-(8) Zur Erleichterung der Überwachung der Besitz- und Vermarktungsverbote wird das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
+(8) Zur Erleichterung der Überwachung der Besitz- und Vermarktungsverbote wird das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
 
 1.  
 Aufzeichnungspflichten derjenigen, die gewerbsmäßig Tiere oder Pflanzen der besonders geschützten Arten be- oder verarbeiten, verkaufen, kaufen oder von anderen erwerben, insbesondere über den Kreis der Aufzeichnungspflichtigen, den Gegenstand und Umfang der Aufzeichnungspflicht, die Dauer der Aufbewahrungsfrist für die Aufzeichnungen und ihre Überprüfung durch die für Naturschutz und Landschaftspflege zuständigen Behörden,
@@ -1851,7 +1857,7 @@ Tieren und Pflanzen der besonders geschützten Arten,
 b)  
 Tieren und Pflanzen der durch Rechtsverordnung nach § 54 Absatz 4 bestimmten Arten.
 
-(9) Rechtsverordnungen nach Absatz 1 Nummer 2 bedürfen des Einvernehmens mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz, mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung sowie mit dem Bundesministerium für Wirtschaft und Technologie. Rechtsverordnungen nach Absatz 6 Satz 1 Nummer 1 und Absatz 8 Nummer 1, 2 und 4 bedürfen des Einvernehmens mit dem Bundesministerium für Wirtschaft und Technologie. Im Übrigen bedürfen die Rechtsverordnungen nach den Absätzen 1 bis 8 des Einvernehmens mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz, in den Fällen der Absätze 1 bis 6 und 8 jedoch nur, soweit sie sich beziehen auf
+(9) Rechtsverordnungen nach Absatz 1 Nummer 2 bedürfen des Einvernehmens mit dem Bundesministerium für Ernährung und Landwirtschaft, mit dem Bundesministerium für Verkehr und digitale Infrastruktur sowie mit dem Bundesministerium für Wirtschaft und Energie. Rechtsverordnungen nach Absatz 6 Satz 1 Nummer 1 und Absatz 8 Nummer 1, 2 und 4 bedürfen des Einvernehmens mit dem Bundesministerium für Wirtschaft und Energie. Im Übrigen bedürfen die Rechtsverordnungen nach den Absätzen 1 bis 8 des Einvernehmens mit dem Bundesministerium für Ernährung und Landwirtschaft, in den Fällen der Absätze 1 bis 6 und 8 jedoch nur, soweit sie sich beziehen auf
 
 1.  
 Tierarten, die dem Jagd- oder Fischereirecht unterliegen,
@@ -1875,11 +1881,13 @@ die Voraussetzungen und Bedingungen für Abweichungsentscheidungen im Sinne von 
 3.  
 die zur Sicherung des Zusammenhangs des Netzes „Natura 2000“ notwendigen Maßnahmen im Sinne des § 34 Absatz 5.
 
+Überschrift Kursivdruck: Müsste entsprechend der Inhaltsübersicht idF d. Art. 3 Nr. 1 G v. 28.7.2011 I 1690 mWv 5.2.2012 "Ermächtigung zum Erlass von Rechtsverordnungen und Verwaltungsvorschriften" lauten
+
 ### § 55 Durchführung gemeinschaftsrechtlicher oder internationaler Vorschriften; Ermächtigung zum Erlass von Rechtsverordnungen
 
 (1) Rechtsverordnungen nach § 54 können auch zur Durchführung von Rechtsakten des Rates oder der Kommission der Europäischen Gemeinschaften auf dem Gebiet des Artenschutzes oder zur Erfüllung von internationalen Artenschutzübereinkommen erlassen werden.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Verweisungen auf Vorschriften in Rechtsakten der Europäischen Gemeinschaft in diesem Gesetz oder in Rechtsverordnungen auf Grund des § 54 zu ändern, soweit Änderungen dieser Rechtsakte es erfordern.
+(2) Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Verweisungen auf Vorschriften in Rechtsakten der Europäischen Gemeinschaft in diesem Gesetz oder in Rechtsverordnungen auf Grund des § 54 zu ändern, soweit Änderungen dieser Rechtsakte es erfordern.
 
 Kapitel 6 Meeresnaturschutz
 ---------------------------
@@ -1896,9 +1904,9 @@ Kapitel 6 Meeresnaturschutz
 
 ### § 57 Geschützte Meeresgebiete im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels; Ermächtigung zum Erlass von Rechtsverordnungen
 
-(1) Die Auswahl von geschützten Meeresgebieten im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels erfolgt durch das Bundesamt für Naturschutz unter Einbeziehung der Öffentlichkeit mit Zustimmung des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit. Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit beteiligt die fachlich betroffenen Bundesministerien und stellt das Benehmen mit den angrenzenden Ländern her.
+(1) Die Auswahl von geschützten Meeresgebieten im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels erfolgt durch das Bundesamt für Naturschutz unter Einbeziehung der Öffentlichkeit mit Zustimmung des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit. Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit beteiligt die fachlich betroffenen Bundesministerien und stellt das Benehmen mit den angrenzenden Ländern her.
 
-(2) Die Erklärung der Meeresgebiete zu geschützten Teilen von Natur und Landschaft im Sinne des § 20 Absatz 2 erfolgt durch das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit unter Beteiligung der fachlich betroffenen Bundesministerien durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
+(2) Die Erklärung der Meeresgebiete zu geschützten Teilen von Natur und Landschaft im Sinne des § 20 Absatz 2 erfolgt durch das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit unter Beteiligung der fachlich betroffenen Bundesministerien durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
 (3) Für die Auswahl von Gebieten im Sinne des § 32 Absatz 1 Satz 1 und die Erklärung von Gebieten im Sinne des § 32 Absatz 2 zu geschützten Teilen von Natur und Landschaft im Sinne des § 20 Absatz 2 im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels ist § 32 vorbehaltlich nachfolgender Nummern 1 bis 5 entsprechend anzuwenden:
 
@@ -1921,9 +1929,9 @@ Beschränkungen bei der Energieerzeugung aus Wasser, Strömung und Wind sowie be
 
 (1) Die Durchführung der Vorschriften dieses Gesetzes, der auf Grund dieses Gesetzes erlassenen Vorschriften sowie der Vorschriften des Umweltschadensgesetzes im Hinblick auf die Schädigung von Arten und natürlichen Lebensräumen und die unmittelbare Gefahr solcher Schäden obliegt im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels dem Bundesamt für Naturschutz, soweit nichts anderes bestimmt ist. Bedarf ein Eingriff in Natur und Landschaft, der im Bereich der deutschen ausschließlichen Wirtschaftszone oder im Bereich des Festlandsockels durchgeführt werden soll, einer behördlichen Zulassung oder einer Anzeige an eine Behörde oder wird er von einer Behörde durchgeführt, ergeht die Entscheidung der Behörde im Benehmen mit dem Bundesamt für Naturschutz.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Aufgaben, die dem Bundesamt für Naturschutz nach Absatz 1 obliegen, im Einvernehmen mit dem Bundesministerium des Innern auf das Bundespolizeipräsidium und im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz auf die Bundesanstalt für Landwirtschaft und Ernährung zur Ausübung übertragen.
+(2) Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Aufgaben, die dem Bundesamt für Naturschutz nach Absatz 1 obliegen, im Einvernehmen mit dem Bundesministerium des Innern auf das Bundespolizeipräsidium und im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft auf die Bundesanstalt für Landwirtschaft und Ernährung zur Ausübung übertragen.
 
-(3) Für seine individuell zurechenbaren öffentlichen Leistungen nach den in Absatz 1 Satz 1 genannten Vorschriften im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels erhebt das Bundesamt für Naturschutz Gebühren und Auslagen. Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Gebührensätze und die Auslagenerstattung zu bestimmen und dabei feste Sätze und Rahmensätze vorzusehen. Die zu erstattenden Auslagen können abweichend vom Bundesgebührengesetz geregelt werden. § 53 bleibt unberührt.
+(3) Für seine individuell zurechenbaren öffentlichen Leistungen nach den in Absatz 1 Satz 1 genannten Vorschriften im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels erhebt das Bundesamt für Naturschutz Gebühren und Auslagen. Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Gebührensätze und die Auslagenerstattung zu bestimmen und dabei feste Sätze und Rahmensätze vorzusehen. Die zu erstattenden Auslagen können abweichend vom Bundesgebührengesetz geregelt werden. § 53 bleibt unberührt.
 
 Kapitel 7 Erholung in Natur und Landschaft
 ------------------------------------------
@@ -1987,7 +1995,7 @@ Kapitel 8 Mitwirkung von anerkannten Naturschutzvereinigungen
 (1) Einer nach § 3 des Umwelt-Rechtsbehelfsgesetzes vom Bund anerkannten Vereinigung, die nach ihrem satzungsgemäßen Aufgabenbereich im Schwerpunkt die Ziele des Naturschutzes und der Landschaftspflege fördert (anerkannte Naturschutzvereinigung), ist Gelegenheit zur Stellungnahme und zur Einsicht in die einschlägigen Sachverständigengutachten zu geben
 
 1.  
-bei der Vorbereitung von Verordnungen und anderen im Rang unter dem Gesetz stehenden Rechtsvorschriften auf dem Gebiet des Naturschutzes und der Landschaftspflege durch die Bundesregierung oder das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit,
+bei der Vorbereitung von Verordnungen und anderen im Rang unter dem Gesetz stehenden Rechtsvorschriften auf dem Gebiet des Naturschutzes und der Landschaftspflege durch die Bundesregierung oder das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit,
 
 2.  
 vor der Erteilung von Befreiungen von Geboten und Verboten zum Schutz von geschützten Meeresgebieten im Sinne des § 57 Absatz 2, auch wenn diese durch eine andere Entscheidung eingeschlossen oder ersetzt werden,
@@ -2032,11 +2040,11 @@ soweit sie durch das Vorhaben in ihrem satzungsgemäßen Aufgabenbereich berühr
 
 (4) Die Länder können bestimmen, dass in Fällen, in denen Auswirkungen auf Natur und Landschaft nicht oder nur im geringfügigen Umfang zu erwarten sind, von einer Mitwirkung abgesehen werden kann.
 
-§ 63 Abs. 2 idF d. G v. 29.7.2009 I 2542: Niedersachsen - Abweichung durch § 38 Abs. 1 Satz 2 u. Abs. 5 Satz 3 des Niedersächsischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (NAGBNatSchG) v. 19.2.2010 Nds. GVBl. S. 104 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)
-§ 63 Abs. 2 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 21 Abs. 1 u. 2 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
-§ 63 Abs. 2 idF d. G v. 29.7.2009 I 2542: Berlin - Abweichung durch § 45 Abs. 1 des Berliner Naturschutzgesetzes (NatSchG Bln) v. 29.5.2013 GVBl. BE S. 140 mWv 9.6.2013 (vgl. BGBl. I 2013, 2830)
-§ 63 Abs. 2 Nr. 8 idF d. G v. 29.7.2009 I 2542: Sachsen - Abweichung durch § 56 des Sächsischen Naturschutzgesetzes (SächsNatSchG) idF d. Bek. v. 3.7.2007 SächsGVBl. S. 321, zuletzt geändert durch Artikel 17 des G v. 15.12.2010 SächsGVBl. S. 387, 398, mWv 15.5.2010 (vgl. BGBl. I 2011, 842)
-§ 63 Abs. 3 Satz 1 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 40 Abs. 3 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
+§ 63 Abs. 2 idF d. G v. 29.7.2009 I 2542: Niedersachsen - Abweichung durch § 38 Abs. 1 Satz 2 u. Abs. 5 Satz 3 d. Niedersächsischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (NAGBNatSchG) v. 19.2.2010 Nds. GVBl. S. 104 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)
+§ 63 Abs. 2 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 21 Abs. 1 u. 2 d. Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93); geänderte Abweichung durch § 21 Abs. 1 Nr. 4 d. Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402, dieser geändert durch Art. 2 G v. 2.12.2013 HmbGVBl. S. 484, mWv 7.12.2013 (vgl. BGBl. I 2015, 123)
+§ 63 Abs. 2 idF d. G v. 29.7.2009 I 2542: Berlin - Abweichung durch § 45 Abs. 1 d. Berliner Naturschutzgesetzes (NatSchG Bln) v. 29.5.2013 GVBl. BE S. 140 mWv 9.6.2013 (vgl. BGBl. I 2013, 2830)
+§ 63 Abs. 2 Nr. 8 idF d. G v. 29.7.2009 I 2542: Sachsen - Abweichung durch § 56 d. Sächsischen Naturschutzgesetzes (SächsNatSchG) idF d. Bek. v. 3.7.2007 SächsGVBl. S. 321, zuletzt geändert durch Artikel 17 des G v. 15.12.2010 SächsGVBl. S. 387, 398, mWv 15.5.2010 (vgl. BGBl. I 2011, 842)
+§ 63 Abs. 3 Satz 1 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 40 Abs. 3 d. Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 
 ### § 64 Rechtsbehelfe
 
@@ -2096,7 +2104,7 @@ Liegen die Merkmale des Satzes 1 Nummer 1 bis 3 nur bei einem Teil des Grundstü
 § 66 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 50 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 § 66 idF d. G v. 29.7.2009 I 2542: Sachsen - Abweichung durch § 36 des Sächsischen Naturschutzgesetzes (SächsNatSchG) idF d. Bek. v. 3.7.2007 SächsGVBl. S. 321, zuletzt geändert durch Artikel 17 des G v. 15.12.2010 SächsGVBl. S. 387, 398, mWv 15.5.2010 (vgl. BGBl. I 2011, 842)
 § 66 idF d. G v. 29.7.2009 I 2542: Berlin - Abweichung durch § 53 des Berliner Naturschutzgesetzes (NatSchG Bln) v. 29.5.2013 GVBl. BE S. 140 mWv 9.6.2013 (vgl. BGBl. I 2013, 2830)
-§ 66 Abs. 1, 3 u. 4: Mecklenburg-Vorpommern - Abweichung durch § 34 Abs. 1, 2 u. 5 des Naturschutzausführungsgesetzes (NatSchAG M-V) v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1621)
+§ 66 Abs. 1, 3 u. 4 idF d. G v. 29.7.2009 I 2542: Mecklenburg-Vorpommern - Abweichung durch § 34 Abs. 1, 2 u. 5 des Naturschutzausführungsgesetzes (NatSchAG M-V) v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1622)
 
 ### § 67 Befreiungen
 
@@ -2115,6 +2123,8 @@ Im Rahmen des Kapitels 5 gilt Satz 1 nur für die §§ 39 und 40, 42 und 43.
 (3) Die Befreiung kann mit Nebenbestimmungen versehen werden. § 15 Absatz 1 bis 4 und Absatz 6 sowie § 17 Absatz 5 und 7 finden auch dann Anwendung, wenn kein Eingriff in Natur und Landschaft im Sinne des § 14 vorliegt.
 
 § 67 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 52 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
+§ 67 idF d. G v. 29.7.2009 I 2542: Rheinland-Pfalz - Abweichung durch das Landesgesetz zu dem Staatsvertrag zwischen dem Land Rheinland-Pfalz und dem Saarland über die Errichtung und Unterhaltung des Nationalparks Hunsrück-Hochwald (Nationparkgesetz Hunsrück-Hochwald) v. 4.2.2015 iVm § 16 des Staatsvertrages Gesetz- und Verordnungsblatt für das Land Rheinland-Pfalz vom 12.2.2015, Seite 2 und vom 15.5.2015, Seite 68, mWv 1.3.2015 (vgl. BGBl. I 2015, 1423)
+§ 67 idF d. G v. 29.7.2009 I 2542: Saarland - Abweichung durch das Gesetz Nr. 1842 über die Zustimmung zu dem Staatsvertrag zwischen dem Land Rheinland-Pfalz und dem Saarland über die Errichtung und Unterhaltung des Nationalparks Hunsrück-Hochwald (Nationparkgesetz Hunsrück-Hochwald) v. 12.11.2014 Amtsblatt des Saarlandes, Teil I vom 19.2.2015 Seite 170, zuletzt geändert durch Gesetz Nr. 1858 zur Änderung des Nationalparkgesetzes Hunsrück-Hochwald vom 20.5.2015 iVm § 16 des Staatvertrages, Amtsblatt des Saarlandes, Teil I vom 25.6.2015 Seite 376, mWv 1.3.2015 (vgl. BGBl. I 2015, 1424)
 § 67 Abs. 1 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 23 Abs. 3 u. 4 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
 § 67 Abs. 1 u. 2 Satz 1 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 9 Satz 1 des Naturschutzgesetzes des Landes Sachsen-Anhalt (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569 mWv 17.12.2010 (vgl. BGBl. I 2011, 30)
 § 67 Abs. 3 Satz 2 idF d. G v. 29.7.2009 I 2542: Niedersachsen - Abweichung durch § 41 Abs. 2 des Niedersächsischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (NAGBNatSchG) v. 19.2.2010 Nds. GVBl. S. 104 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)
@@ -2131,7 +2141,7 @@ Im Rahmen des Kapitels 5 gilt Satz 1 nur für die §§ 39 und 40, 42 und 43.
 
 § 68 Abs. 1 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 54 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 § 68 Abs. 1 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 20 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
-§ 68 Abs. 1 u. 2 idF d. G v. 29.7.2009 I 2542: Mecklenburg-Vorpommern - Abweichung durch § 36 Abs. 1 des Naturschutzausführungsgesetzes (NatSchAG M-V) v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1621)
+§ 68 Abs. 1 u. 2 idF d. G v. 29.7.2009 I 2542: Mecklenburg-Vorpommern - Abweichung durch § 36 Abs. 1 des Naturschutzausführungsgesetzes (NatSchAG M-V) v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1622)
 
 Kapitel 10 Bußgeld- und Strafvorschriften
 -----------------------------------------
@@ -2389,7 +2399,7 @@ Kapitel 11 Übergangs- und Überleitungsvorschrift
 (1) Vor dem 1. März 2010 begonnene Verfahren zur Anerkennung von Vereinen sind zu Ende zu führen
 
 1.  
-durch das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit nach § 59 des Bundesnaturschutzgesetzes in der bis zum 28. Februar 2010 geltenden Fassung,
+durch das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit nach § 59 des Bundesnaturschutzgesetzes in der bis zum 28. Februar 2010 geltenden Fassung,
 
 2.  
 durch die zuständigen Behörden der Länder nach den im Rahmen von § 60 Absatz 1 und 3 des Bundesnaturschutzgesetzes in der bis zum 28. Februar 2010 geltenden Fassung erlassenen Vorschriften des Landesrechts.
@@ -2398,4 +2408,4 @@ durch die zuständigen Behörden der Länder nach den im Rahmen von § 60 Absatz
 
 (3) Die §§ 63 und 64 gelten auch für Vereine, die nach § 29 des Bundesnaturschutzgesetzes in der bis zum 3. April 2002 geltenden Fassung oder nach § 59 oder im Rahmen von § 60 Absatz 1 und 3 des Bundesnaturschutzgesetzes in der bis zum 1. März 2010 geltenden Fassung vom Bund oder den Ländern anerkannt worden sind.
 
-§ 74 Abs. 3 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 21 Abs. 1 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
+§ 74 Abs. 3 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 21 Abs. 1 d. Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93); geänderte Abweichung durch § 21 Abs. 1 Nr. 4 d. Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402, dieser geändert durch Art. 2 G v. 2.12.2013 HmbGVBl. S. 484, mWv 7.12.2013 (vgl. BGBl. I 2015, 123)
