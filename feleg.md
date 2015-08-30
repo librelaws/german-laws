@@ -4,6 +4,9 @@ Gesetz zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit
 Stand  
 Zuletzt geändert durch Art. 441 V v. 31.8.2015 I 1474
 
+Hinweis  
+Änderung durch Art. 4b G v. 18.12.2018 I 2651 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
@@ -53,10 +56,10 @@ Den Beiträgen als Landwirt stehen Beiträge gleich, die für die Zeit vom 1. Ju
 (1) Eine Fläche gilt als stillgelegt, wenn
 
 1.  
-die landwirtschaftliche Nutzung ruht und eine Abgabe im Sinne des § 21 Abs. 1, 2 und 8 des Gesetzes über die Alterssicherung der Landwirte nicht vorliegt; Maßnahmen zur umweltgerechten Pflege der stillgelegten Fläche sind zulässig,
+die landwirtschaftliche Nutzung ruht und eine Abgabe im Sinne des § 21 Abs. 1, 2 und 8 des Gesetzes über die Alterssicherung der Landwirte in der bis zum 8. August 2018 geltenden Fassung nicht vorliegt; Maßnahmen zur umweltgerechten Pflege der stillgelegten Fläche sind zulässig,
 
 2.  
-sie erstmals unter den Voraussetzungen des § 21 Abs. 5 des Gesetzes über die Alterssicherung der Landwirte aufgeforstet wird.
+sie erstmals unter den Voraussetzungen des § 21 Abs. 5 des Gesetzes über die Alterssicherung der Landwirte in der bis zum 8. August 2018 geltenden Fassung aufgeforstet wird.
 
 (2) Eine Stillegung liegt nicht vor, wenn der Wirtschaftswert des nicht abgegebenen Teils des Unternehmens im Sinne des Gesetzes über die Alterssicherung der Landwirte einschließlich erstaufgeforsteter Flächen das Einfache der Mindestgröße (§ 1 Abs. 5 des Gesetzes über die Alterssicherung der Landwirte) erreicht.
 
@@ -105,7 +108,7 @@ das Unternehmen oder Teile davon an einen oder mehrere Mitunternehmer abgegeben 
 
 ### § 4 Rückbehalt
 
-Auf der nach § 21 Abs. 7 des Gesetzes über die Alterssicherung der Landwirte nicht abgegebenen Fläche dürfen land- und forstwirtschaftliche Erzeugnisse für den Markt nicht produziert werden. § 51 Abs. 2 des Bewertungsgesetzes findet keine Anwendung. Eine Produktion gilt insbesondere als für den Markt erfolgt, wenn der Wert der für den Eigenverbrauch erzeugten land- und forstwirtschaftlichen Produkte ein Siebtel der Bezugsgröße (§ 18 des Vierten Buches Sozialgesetzbuch) übersteigt. Forstwirtschaftliche Erzeugnisse, die durch notwendige Pflegemaßnahmen anfallen, bleiben unberücksichtigt.
+Auf der nach § 21 Abs. 7 des Gesetzes über die Alterssicherung der Landwirte in der bis zum 8. August 2018 geltenden Fassung nicht abgegebenen Fläche dürfen land- und forstwirtschaftliche Erzeugnisse für den Markt nicht produziert werden. § 51 Abs. 2 des Bewertungsgesetzes findet keine Anwendung. Eine Produktion gilt insbesondere als für den Markt erfolgt, wenn der Wert der für den Eigenverbrauch erzeugten land- und forstwirtschaftlichen Produkte ein Siebtel der Bezugsgröße (§ 18 des Vierten Buches Sozialgesetzbuch) übersteigt. Forstwirtschaftliche Erzeugnisse, die durch notwendige Pflegemaßnahmen anfallen, bleiben unberücksichtigt.
 
 ### § 5 Leistungen an Hinterbliebene
 
@@ -147,7 +150,7 @@ für die gemäß Artikel 9 der Verordnung (EWG) Nr. 1442/88 des Rates vom 24. Ma
 
 ### § 7 Beginn und Ende der Leistung, Verfahren
 
-(1) Die Vorschriften des Gesetzes über die Alterssicherung der Landwirte über Renten wegen Todes bei Verschollenheit, über Beginn, Änderung, Ruhen und Ende von Renten, über Ausschluß und Minderung von Renten, über Leistungen an Berechtigte im Ausland, über Beginn und Abschluß des Verfahrens, über Auszahlung und Anpassung und über Berechnungsgrundsätze gelten entsprechend. § 30 Abs. 2 des Gesetzes über die Alterssicherung der Landwirte gilt auch in den Fällen entsprechend, in denen ein Leistungsberechtigter auf der nach § 21 Abs. 7 des Gesetzes über die Alterssicherung der Landwirte nicht abgegebenen Fläche landwirtschaftliche Erzeugnisse für den Markt produziert. Werden Verträge über die Abgabe landwirtschaftlich genutzter Flächen vor Ablauf der Mindestdauer (§ 3 Abs. 1 Satz 1) oder wird die Stillegung einer Fläche vor Ablauf der Mindestdauer (§ 2 Abs. 3) beendet, ruht der Anspruch auf Produktionsaufgaberente vom Beginn des dritten auf die Beendigung der Verträge oder der Stillegung folgenden Monats an. Die Leistung wird vom Beginn des Monats an wieder erbracht, in dem Verpflichtungen wirksam werden, die eine Verwendung der Flächen nach den §§ 2 und 3 für die jeweilige Mindestdauer sicherstellen; die aufgrund der vorzeitig beendeten Verträge zurückgelegte Zeit wird auf die Mindestabgabedauer und die Zeit der bisherigen Stillegung wird auf die Mindeststillegungsdauer angerechnet.
+(1) Die Vorschriften des Gesetzes über die Alterssicherung der Landwirte über Renten wegen Todes bei Verschollenheit, über Beginn, Änderung, Ruhen und Ende von Renten, über Ausschluß und Minderung von Renten, über Leistungen an Berechtigte im Ausland, über Beginn und Abschluß des Verfahrens, über Auszahlung und Anpassung und über Berechnungsgrundsätze gelten entsprechend. § 30 Abs. 2 des Gesetzes über die Alterssicherung der Landwirte in der bis zum 8. August 2018 geltenden Fassung gilt auch in den Fällen entsprechend, in denen ein Leistungsberechtigter auf der nach § 21 Abs. 7 des Gesetzes über die Alterssicherung der Landwirte in der bis zum 8. August 2018 geltenden Fassung nicht abgegebenen Fläche landwirtschaftliche Erzeugnisse für den Markt produziert. Werden Verträge über die Abgabe landwirtschaftlich genutzter Flächen vor Ablauf der Mindestdauer (§ 3 Abs. 1 Satz 1) oder wird die Stillegung einer Fläche vor Ablauf der Mindestdauer (§ 2 Abs. 3) beendet, ruht der Anspruch auf Produktionsaufgaberente vom Beginn des dritten auf die Beendigung der Verträge oder der Stillegung folgenden Monats an. Die Leistung wird vom Beginn des Monats an wieder erbracht, in dem Verpflichtungen wirksam werden, die eine Verwendung der Flächen nach den §§ 2 und 3 für die jeweilige Mindestdauer sicherstellen; die aufgrund der vorzeitig beendeten Verträge zurückgelegte Zeit wird auf die Mindestabgabedauer und die Zeit der bisherigen Stillegung wird auf die Mindeststillegungsdauer angerechnet.
 
 (2) Der Anspruch auf Produktionsaufgaberente ruht ferner mit Ablauf des Kalendermonats, in dem
 
@@ -156,7 +159,7 @@ a)
 landwirtschaftliche Erzeugnisse unabhängig von einer Bodenbewirtschaftung oder
 
 b)  
-land- oder forstwirtschaftliche Erzeugnisse auf einer anderen als der nach § 21 Abs. 7 des Gesetzes über die Alterssicherung der Landwirte nicht abgegebenen Fläche für den Leistungsempfänger
+land- oder forstwirtschaftliche Erzeugnisse auf einer anderen als der nach § 21 Abs. 7 des Gesetzes über die Alterssicherung der Landwirte in der bis zum 8. August 2018 geltenden Fassung nicht abgegebenen Fläche für den Leistungsempfänger
 
 für den Markt produziert werden,
 
