@@ -2,7 +2,7 @@ Verordnung über Anforderungen an eine nachhaltige Herstellung von Biokraftstoff
 ==================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 26.11.2012 I 2363
+Zuletzt geändert durch Art. 334 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -186,18 +186,18 @@ Teil 4
 Datenerhebung und -verarbeitung,
 Berichtspflichten, behördliches Verfahren
 
-|      |                                                                                      |
-|------|--------------------------------------------------------------------------------------|
-| § 60 | Informationsregister                                                                 |
-| § 61 | Datenabgleich                                                                        |
-| § 62 | Auskunftsrecht der zuständigen Behörde                                               |
-| § 63 | Berichtspflicht der zuständigen Behörde                                              |
-| § 64 | Berichtspflicht des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit |
-| § 65 | Datenübermittlung                                                                    |
-| § 66 | Zuständigkeit                                                                        |
-| § 67 | Verfahren vor der zuständigen Behörde                                                |
-| § 68 | Muster und Vordrucke                                                                 |
-| § 69 | Außenverkehr                                                                         |
+|      |                                                                                           |
+|------|-------------------------------------------------------------------------------------------|
+| § 60 | Informationsregister                                                                      |
+| § 61 | Datenabgleich                                                                             |
+| § 62 | Auskunftsrecht der zuständigen Behörde                                                    |
+| § 63 | Berichtspflicht der zuständigen Behörde                                                   |
+| § 64 | Berichtspflicht des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit |
+| § 65 | Datenübermittlung                                                                         |
+| § 66 | Zuständigkeit                                                                             |
+| § 67 | Verfahren vor der zuständigen Behörde                                                     |
+| § 68 | Muster und Vordrucke                                                                      |
+| § 69 | Außenverkehr                                                                              |
 
 Teil 5
 
@@ -222,16 +222,6 @@ Teil 5
 </tr>
 <tr class="odd">
 <td>Anlage 3<br />
-(zu § 18 Absatz 2):</td>
-<td>Muster eines Nachhaltigkeitsnachweises</td>
-</tr>
-<tr class="even">
-<td>Anlage 4<br />
-(zu § 24 Absatz 1):</td>
-<td>Muster eines Nachhaltigkeits-Teilnachweises</td>
-</tr>
-<tr class="odd">
-<td>Anlage 5<br />
 (zu § 33 Absatz 1, § 43 Absatz 1):</td>
 <td>Inhaltliche Anforderungen an Zertifizierungssysteme</td>
 </tr>
@@ -262,13 +252,19 @@ die Steuerentlastungsfähigkeit von Biokraftstoffen nach § 50 des Energiesteuer
 (3) Schnittstellen im Sinne dieser Verordnung sind
 
 1.  
-die Betriebe und Betriebsstätten (Betriebe), die die Biomasse, die für die Herstellung der Biokraftstoffe erforderlich ist, erstmals von den Betrieben, die diese Biomasse anbauen und ernten, zum Zweck des Weiterhandelns aufnehmen,
+Betriebe und Betriebsstätten (Betriebe), die die für die Herstellung der Biokraftstoffe erforderliche Biomasse
+
+a)  
+erstmals von den Betrieben, die diese Biomasse anbauen und ernten, oder
+
+b)  
+im Fall von Abfällen und Reststoffen erstmals von den Betrieben oder Privathaushalten, bei denen die Abfälle und Reststoffe anfallen, zum Zwecke des Weiterhandelns aufnehmen,
 
 2.  
 Ölmühlen und
 
 3.  
-sonstige Betriebe, die flüssige oder gasförmige Biomasse auf die erforderliche Qualitätsstufe für den Einsatz als Biokraftstoff aufbereiten oder die aus der eingesetzten Biomasse Biokraftstoffe herstellen.
+Betriebe, die flüssige oder gasförmige Biomasse auf die erforderliche Qualitätsstufe für den Einsatz als Biokraftstoff aufbereiten oder die aus der eingesetzten Biomasse Biokraftstoffe herstellen.
 
 (4) Umweltgutachterinnen und Umweltgutachter im Sinne dieser Verordnung sind
 
@@ -299,6 +295,10 @@ die oder der Verpflichtete nach dem Bundes-Immissionsschutzgesetz, der oder dem 
 
 2.  
 die- oder derjenige, die oder der eine Steuerentlastung für Biokraftstoffe nach dem Energiesteuergesetz beantragt.
+
+(10) Abfälle im Sinne dieser Verordnung sind Abfälle im Sinne des § 7 Absatz 1 Satz 1 Nummer 1 der Verordnung zur Durchführung der Regelungen der Biokraftstoffquote vom 29. Januar 2007 (BGBl. I S. 60), die zuletzt durch Artikel 1 der Verordnung vom 26. November 2012 (BGBl. I S. 2363) geändert worden ist, in der jeweils geltenden Fassung.
+
+(11) Reststoffe im Sinne dieser Verordnung sind Reststoffe im Sinne des § 7 Absatz 4 der Verordnung zur Durchführung der Regelungen der Biokraftstoffquote.
 
 Teil 2 Nachhaltigkeitsanforderungen
 -----------------------------------
@@ -597,7 +597,7 @@ aa)
 von der Kommission der Europäischen Gemeinschaften oder
 
 bb)  
-von dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit.
+von dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit.
 
 (3) Die Werte nach Absatz 2 Nummer 2 Buchstabe b Doppelbuchstabe bb sind aus den Standardwerten nach Anlage 2 abzuleiten und durch gesondertes Schreiben im Bundesanzeiger bekannt zu machen. Sie gelten nur, sofern nicht die Kommission der Europäischen Gemeinschaften Werte für den jeweiligen Arbeitsschritt der Herstellung im Amtsblatt der Europäischen Union veröffentlicht hat.
 
@@ -687,7 +687,7 @@ den Namen und die Anschrift des Lieferanten, an den die Biokraftstoffe weitergeg
 7.  
 die Bestätigung des letzten Lieferanten nach § 17 Absatz 5.
 
-(2) Nachhaltigkeitsnachweise müssen in schriftlicher Form nach dem Muster der Anlage 3 ausgestellt werden.
+(2) Nachhaltigkeitsnachweise müssen in schriftlicher Form ausgestellt werden.
 
 (3) Nachhaltigkeitsnachweise müssen der Biokraftstoffquotenstelle oder dem Hauptzollamt in deutscher Sprache vorgelegt werden.
 
@@ -763,11 +763,11 @@ von einer sonstigen Stelle, die bei der nationalen Akkreditierungsstelle des Mit
 
 ### § 24 Nachhaltigkeits-Teilnachweise
 
-(1) Die zuständige Behörde stellt für Teilmengen von Biokraftstoffen, für die bereits ein Nachhaltigkeitsnachweis ausgestellt worden ist, auf Antrag der Inhaberin oder des Inhabers des Nachhaltigkeitsnachweises Nachhaltigkeits-Teilnachweise aus. Der Antrag ist elektronisch zu stellen. Die Nachhaltigkeits-Teilnachweise werden unverzüglich und elektronisch nach Vorlage des Nachhaltigkeitsnachweises, der in Teilnachweise aufgeteilt werden soll, ausgestellt. § 18 Absatz 1 ist entsprechend anzuwenden. Die Teilnachweise werden nach dem Muster der Anlage 4 ausgestellt.
+(1) Die zuständige Behörde stellt für Mengen von Biokraftstoffen, für die bereits ein Nachhaltigkeitsnachweis ausgestellt worden ist, auf Antrag der Inhaberin oder des Inhabers des Nachhaltigkeitsnachweises Nachhaltigkeits-Teilnachweise aus. Der Antrag ist elektronisch zu stellen. Die Nachhaltigkeits-Teilnachweise werden unverzüglich und elektronisch ausgestellt. § 18 Absatz 1 ist entsprechend anzuwenden.
 
-(2) Absatz 1 ist für Teilmengen von Biokraftstoffen, für die bereits ein Nachhaltigkeits-Teilnachweis ausgestellt worden ist, entsprechend anzuwenden.
+(2) Absatz 1 ist für Mengen von Biokraftstoffen, für die bereits ein Nachhaltigkeits-Teilnachweis ausgestellt worden ist, entsprechend anzuwenden.
 
-(3) Werden Treibhausgas-Minderungspotenziale oder Werte für Treibhausgasemissionen verschiedener Mengen von Biokraftstoffen, für die Nachhaltigkeitsnachweise oder Nachhaltigkeits-Teilnachweise ausgestellt worden sind, nach Maßgabe des § 16 Absatz 2 Nummer 2 Buchstabe a saldiert, stellt die zuständige Behörde auf Antrag der Inhaberin oder des Inhabers der Nachhaltigkeitsnachweise oder Nachhaltigkeits-Teilnachweise einen Nachhaltigkeits-Teilnachweis aus, der die Werte enthält, die sich aus der Saldierung ergeben. Absatz 1 Satz 2 bis 5 ist entsprechend anzuwenden.
+(3) Werden Treibhausgas-Minderungspotenziale oder Werte für Treibhausgasemissionen verschiedener Mengen von Biokraftstoffen, für die Nachhaltigkeitsnachweise oder Nachhaltigkeits-Teilnachweise ausgestellt worden sind, nach Maßgabe des § 16 Absatz 2 Nummer 2 Buchstabe a saldiert, stellt die zuständige Behörde auf Antrag der Inhaberin oder des Inhabers der Nachhaltigkeitsnachweise oder Nachhaltigkeits-Teilnachweise einen Nachhaltigkeits-Teilnachweis aus, der die Werte enthält, die sich aus der Saldierung ergeben. Absatz 1 Satz 2 bis 4 ist entsprechend anzuwenden.
 
 (4) Im Fall eines Nachhaltigkeitsnachweises nach § 15 oder § 22 muss die zuständige Behörde eine Kopie des Nachhaltigkeits-Teilnachweises unverzüglich und elektronisch nach der Ausstellung an die Zertifizierungsstelle übermitteln, die der Schnittstelle, die den Nachhaltigkeitsnachweis ausgestellt hat, das Zertifikat ausgestellt hat. Im Fall eines Nachhaltigkeitsnachweises nach § 23 kann sie eine Kopie des Nachhaltigkeits-Teilnachweises an die Behörde oder Stelle übermitteln, die den Nachhaltigkeitsnachweis ausgestellt hat.
 
@@ -941,7 +941,7 @@ sie genau, verlässlich und vor Missbrauch geschützt sind und die Häufigkeit u
 sie eine angemessene und unabhängige Überprüfung der Daten sicherstellen und nachweisen, dass eine solche Überprüfung erfolgt ist, und
 
 5.  
-sie zu diesem Zweck Standards enthalten, die mindestens den Anforderungen nach Anhang III zu dem Übereinkommen über technische Handelshemmnisse (ABl. L 336 vom 23.12.1994, S. 86) und den Anforderungen nach Anlage 5 entsprechen.
+sie zu diesem Zweck Standards enthalten, die mindestens den Anforderungen nach Anhang III zu dem Übereinkommen über technische Handelshemmnisse (ABl. L 336 vom 23.12.1994, S. 86) und den Anforderungen nach Anlage 3 entsprechen.
 
 (2) Sofern das Zertifizierungssystem eine elektronische Datenbank zum Zweck des Nachweises darüber betreibt oder nutzt, dass bei der Lieferung der Biokraftstoffe die Anforderungen nach § 17 Absatz 1 erfüllt werden, kann sich die Anerkennung auch hierauf beziehen.
 
@@ -1098,7 +1098,7 @@ im Hinblick auf die Durchführung der ihnen übertragenen Aufgaben unabhängig v
 die Anforderungen der DIN EN 45011, Ausgabe März 1998, erfüllen, ihre Konformitätsbewertungen nach den Standards der ISO/IEC Guide 60, Ausgabe September 2004, durchführen und ihre Kontrollen den Anforderungen der DIN EN ISO 19011, Ausgabe Dezember 2002, genügen,
 
 4.  
-sich entsprechend der Anlage 5 Nummer 1 Buchstabe e schriftlich verpflichtet haben und
+sich entsprechend der Anlage 3 Nummer 1 Buchstabe e schriftlich verpflichtet haben und
 
 5.  
 eine zustellungsfähige Anschrift in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum haben.
@@ -1321,7 +1321,7 @@ Teil 4 Datenerhebung und -verarbeitung, Berichtspflichten, behördliches Verfahr
 
 ### § 62 Auskunftsrecht der zuständigen Behörde
 
-Die zuständige Behörde kann von Nachweispflichtigen, Zertifizierungsstellen, Schnittstellen, Hauptzollämtern, der Biokraftstoffquotenstelle, im Fall von Zertifizierungssystemen von den Personen nach § 33 Absatz 1 Nummer 1 Buchstabe a und im Fall von § 58 von Umweltgutachterinnen und Umweltgutachtern weitere Informationen verlangen, soweit dies erforderlich ist, um
+Die zuständige Behörde kann von Nachweispflichtigen, Zertifizierungsstellen, Schnittstellen, Lieferanten, Hauptzollämtern, der Biokraftstoffquotenstelle, im Fall von Zertifizierungssystemen von den Personen nach § 33 Absatz 1 Nummer 1 Buchstabe a und im Fall von § 58 von Umweltgutachterinnen und Umweltgutachtern weitere Informationen verlangen, soweit dies erforderlich ist, um
 
 1.  
 die Aufgaben nach dieser Verordnung zu erfüllen,
@@ -1339,9 +1339,9 @@ die Berichtspflichten der Bundesrepublik Deutschland gegenüber den Organen der 
 
 Die zuständige Behörde evaluiert diese Verordnung regelmäßig und legt der Bundesregierung erstmals zum 31. Dezember 2010 und sodann jedes Jahr einen Erfahrungsbericht vor.
 
-### § 64 Berichtspflicht des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit
+### § 64 Berichtspflicht des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit
 
-Auf der Grundlage der Berichte nach § 63 berichtet das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit der Kommission der Europäischen Gemeinschaften im Rahmen der Berichte nach Artikel 22 der Richtlinie 2009/28/EG über
+Auf der Grundlage der Berichte nach § 63 berichtet das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit der Kommission der Europäischen Gemeinschaften im Rahmen der Berichte nach Artikel 22 der Richtlinie 2009/28/EG über
 
 1.  
 die Erfüllung der Anforderungen nach dieser Verordnung sowie
@@ -1362,21 +1362,24 @@ a)
 das Bundesministerium der Finanzen,
 
 b)  
-das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz,
+das Bundesministerium für Ernährung und Landwirtschaft,
 
 c)  
-das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit und
+das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit und
 
 d)  
 die nachgeordneten Behörden dieser Ministerien, insbesondere an die Biokraftstoffquotenstelle und die Hauptzollämter,
 
 2.  
-Behörden von anderen Mitgliedstaaten der Europäischen Union sowie von Drittstaaten und ihre sonstigen Stellen nach § 23 Absatz 1 Nummer 1 bis 3 und
+Behörden von anderen Mitgliedstaaten der Europäischen Union sowie von Drittstaaten und ihre sonstigen Stellen nach § 23 Absatz 1 Nummer 1 bis 3,
 
 3.  
-Organe der Europäischen Union.
+Organe der Europäischen Union und
 
-(2) Die Übermittlung personenbezogener Daten an die Stellen nach Absatz 1 Nummer 1 ist nur zulässig unter den Voraussetzungen des § 15 des Bundesdatenschutzgesetzes. Die Übermittlung dieser Daten an die Stellen nach Absatz 1 Nummer 2 und 3 ist nur unter den Voraussetzungen der §§ 4b und 4c des Bundesdatenschutzgesetzes zulässig.
+4.  
+anerkannte Zertifizierungssysteme.
+
+(2) Die Übermittlung personenbezogener Daten an die Stellen nach Absatz 1 Nummer 1 ist nur zulässig unter den Voraussetzungen des § 15 des Bundesdatenschutzgesetzes. Die Übermittlung dieser Daten an die Stellen nach Absatz 1 Nummer 2 und 3 ist nur unter den Voraussetzungen der §§ 4b und 4c des Bundesdatenschutzgesetzes zulässig. Die Übermittlung personenbezogener Daten an die Stellen nach Absatz 1 Nummer 4 ist nur unter den Voraussetzungen des § 16 des Bundesdatenschutzgesetzes zulässig.
 
 ### § 66 Zuständigkeit
 
@@ -1424,7 +1427,7 @@ die Veröffentlichung von Mustern und Vordrucken nach § 68 Absatz 2 und
 14.  
 den Vollzug dieser Verordnung im Übrigen mit Ausnahme von § 4 Absatz 4 Satz 1 Variante 2.
 
-(2) Die Rechts- und Fachaufsicht über die Bundesanstalt für Landwirtschaft und Ernährung obliegt dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz. Rechtsfragen von grundsätzlicher Bedeutung werden vom Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz, nachdem das Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit hergestellt wurde, mit dem Bundesministerium der Finanzen abgestimmt.
+(2) Die Rechts- und Fachaufsicht über die Bundesanstalt für Landwirtschaft und Ernährung obliegt dem Bundesministerium für Ernährung und Landwirtschaft. Rechts- und Fachfragen von grundsätzlicher Bedeutung werden vom Bundesministerium für Ernährung und Landwirtschaft, nachdem das Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit hergestellt wurde, mit dem Bundesministerium der Finanzen abgestimmt.
 
 ### § 67 Verfahren vor der zuständigen Behörde
 
@@ -1432,22 +1435,25 @@ Die Amtssprache ist deutsch. Alle Anträge, die bei der zuständigen Behörde ge
 
 ### § 68 Muster und Vordrucke
 
-(1) Unbeschadet des § 18 Absatz 2 und des § 24 Absatz 1 Satz 5 sind auch für die folgenden Dokumente Vordrucke und Muster zu verwenden:
+(1) Für die folgenden Dokumente sind Vordrucke und Muster zu verwenden:
 
 1.  
-die Zertifikate nach § 26,
+für die Zertifikate nach § 26,
 
 2.  
-die Berichte und Mitteilungen nach den §§ 52 und 53 sowie
+für die Berichte und Mitteilungen nach den §§ 52 und 53,
 
 3.  
-die Bescheinigungen § 58 Absatz 1.
+für die Bescheinigungen nach § 58 Absatz 1 sowie
 
-(2) Die zuständige Behörde veröffentlicht die Vordrucke und Muster sowie das Format einer elektronischen Datenübermittlung im Bundesanzeiger sowie auf ihrer Internetseite. Sie kann für Nachhaltigkeitsnachweise und Nachhaltigkeits-Teilnachweise, die nach dem Muster der Anlage 3 oder 4 in englischer oder einer anderen Sprache ausgestellt worden sind, eine Übersetzung im Bundesanzeiger sowie auf ihrer Internetseite veröffentlichen.
+4.  
+für die Nachhaltigkeitsnachweise nach § 18 und die Nachhaltigkeits-Teilnachweise nach § 24.
+
+(2) Die zuständige Behörde veröffentlicht die Vordrucke und Muster sowie das Format einer elektronischen Datenübermittlung im Bundesanzeiger sowie auf ihrer Internetseite. Sie kann für Nachhaltigkeitsnachweise und Nachhaltigkeits-Teilnachweise, die in englischer oder einer anderen Sprache ausgestellt worden sind, eine Übersetzung im Bundesanzeiger sowie auf ihrer Internetseite veröffentlichen.
 
 ### § 69 Außenverkehr
 
-Der Verkehr mit den Behörden anderer Mitgliedstaaten der Europäischen Union und Drittstaaten sowie mit den Organen der Europäischen Union obliegt dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit. Es kann den Verkehr mit den zuständigen Ministerien und Behörden anderer Mitgliedstaaten der Europäischen Union und Drittstaaten sowie den Organen der Europäischen Union im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz auf die Bundesanstalt für Landwirtschaft und Ernährung übertragen.
+Der Verkehr mit den Behörden anderer Mitgliedstaaten der Europäischen Union und Drittstaaten sowie mit den Organen der Europäischen Union obliegt dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit. Es kann den Verkehr mit den zuständigen Ministerien und Behörden anderer Mitgliedstaaten der Europäischen Union und Drittstaaten sowie den Organen der Europäischen Union im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft auf die Bundesanstalt für Landwirtschaft und Ernährung übertragen.
 
 Teil 5 Übergangs- und Schlussbestimmungen
 -----------------------------------------
@@ -1597,7 +1603,7 @@ Die Emissionseinsparungen durch Abscheidung und geologische Speicherung von Kohl
 Die Emissionseinsparungen durch Abscheidung und Ersetzung von Kohlendioxid (*e<sub>ccr</sub>*) werden begrenzt auf die durch Abscheidung von Kohlendioxid vermiedenen Emissionen, bei denen der Kohlenstoff aus Biomasse stammt und anstelle des auf fossile Kraftstoffe zurückgehenden Kohlendioxids für gewerbliche Erzeugnisse und Dienstleistungen verwendet wird.
 
 16.  
-Die Emissionseinsparungen durch überschüssigen Strom aus Kraft-Wärme-Kopplung (*e<sub>ee</sub>*) werden im Verhältnis zu dem von Kraftstoffherstellungssystemen mit Kraft-Wärme-Kopplung, welche als Brennstoff andere Nebenerzeugnisse als Ernterückstände einsetzen, erzeugten Stromüberschuss berücksichtigt. Für die Berücksichtigung dieses Stromüberschusses wird davon ausgegangen, dass die Größe der Kraft-Wärme-Kopplungs-(KWK-)Anlage der Mindestgröße entspricht, die erforderlich ist, um die für die Herstellung des Kraftstoffs benötigte Wärme zu liefern. Die mit diesem Stromüberschuss verbundenen Minderungen an Treibhausgasemissionen werden der Treibhausgasmenge gleichgesetzt, die bei der Erzeugung einer entsprechenden Strommenge in einem Kraftwerk emittiert würde, das den gleichen Brennstoff einsetzt wie die KWK-Anlage.
+Die Emissionseinsparung durch überschüssige Elektrizität aus Kraft-Wärme-Kopplung (*e<sub>ee</sub>*) wird im Verhältnis zu dem Elektrizitätsüberschuss berücksichtigt, der von Kraftstoffherstellungssystemen mit Kraft-Wärme-Kopplung erzeugt wird, außer in Fällen, in denen als Brennstoff andere Nebenerzeugnisse als Ernterückstände eingesetzt werden. Für die Berücksichtigung dieses Stromüberschusses wird davon ausgegangen, dass die Größe der Kraft-Wärme-Kopplungs-(KWK-)Anlage der Mindestgröße entspricht, die erforderlich ist, um die für die Herstellung des Kraftstoffs benötigte Wärme zu liefern. Die mit diesem Stromüberschuss verbundenen Minderungen an Treibhausgasemissionen werden der Treibhausgasmenge gleichgesetzt, die bei der Erzeugung einer entsprechenden Strommenge in einem Kraftwerk emittiert würde, das den gleichen Brennstoff einsetzt wie die KWK-Anlage.
 
 17.  
 Werden bei einem Verfahren zur Herstellung von Kraftstoffen neben dem Kraftstoff, für den die Emissionen berechnet werden, weitere Erzeugnisse (Nebenerzeugnisse) hergestellt, so werden die anfallenden Treibhausgasemissionen zwischen dem Kraftstoff oder dessen Zwischenerzeugnis und den Nebenerzeugnissen nach Maßgabe ihres Energiegehalts aufgeteilt. Der Energiegehalt wird bei anderen Nebenerzeugnissen als Strom durch den unteren Heizwert bestimmt.
@@ -2698,19 +2704,7 @@ für Methanol
 **3.**  
 (weggefallen)
 
-### Anlage 3 (zu § 18 Absatz 2)Muster eines Nachhaltigkeitsnachweises
-
-(Fundstelle: BGBl. I 2009, 3209)
-
-<img src="bgbl1_2009_j3182-1_0010.jpg" height="2553" />
-
-### Anlage 4 (zu § 24 Absatz 1)Muster eines Nachhaltigkeits-Teilnachweises
-
-(Fundstelle: BGBl. I 2009, 3210 - 3208)
-
-<img src="bgbl1_2009_j3182-1_0020.jpg" height="2569" />
-
-### Anlage 5 (zu § 33 Absatz 1, § 43 Absatz 1)Inhaltliche Anforderungen an Zertifizierungssysteme
+### Anlage 3 (zu § 33 Absatz 1, § 43 Absatz 1)Inhaltliche Anforderungen an Zertifizierungssysteme
 
 (Fundstelle: BGBl. I 2009, 3211 - 3212;
 bzgl. einzelner Änderungen vgl. Fußnote)
@@ -2790,4 +2784,4 @@ Zertifizierungssysteme müssen sicherstellen, dass die Erfüllung der Anforderun
 Zertifizierungssysteme können Regelungen über die Verwendung einer elektronischen Datenbank für den Nachweis der Erfüllung der Anforderungen nach den §§ 16 und 17 enthalten.
 
 4.  
-Das Bundesministerium der Finanzen kann die in den Nummern 1 bis 3 genannten Anforderungen im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz und dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit durch ein Referenzsystem näher bestimmen und als Verwaltungsvorschrift im Bundesanzeiger bekannt machen. Satz 1 gilt nicht für die Angaben, die von der Kommission der Europäischen Gemeinschaften auf Grund des Artikels 18 Absatz 3 Unterabsatz 3 der Richtlinie 2009/28/EG sowie Artikels 7 Absatz 3 Unterabsatz 3 der Richtlinie 2009/30/EG zu dem Zweck festgelegt werden, dass die Wirtschaftsteilnehmer diese Angaben an die Mitgliedstaaten der Europäischen Union übermitteln sollen.
+Das Bundesministerium der Finanzen kann die in den Nummern 1 bis 3 genannten Anforderungen im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft und dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit durch ein Referenzsystem näher bestimmen und als Verwaltungsvorschrift im Bundesanzeiger bekannt machen. Satz 1 gilt nicht für die Angaben, die von der Kommission der Europäischen Gemeinschaften auf Grund des Artikels 18 Absatz 3 Unterabsatz 3 der Richtlinie 2009/28/EG sowie Artikels 7 Absatz 3 Unterabsatz 3 der Richtlinie 2009/30/EG zu dem Zweck festgelegt werden, dass die Wirtschaftsteilnehmer diese Angaben an die Mitgliedstaaten der Europäischen Union übermitteln sollen.
