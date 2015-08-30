@@ -2,7 +2,7 @@ Verordnung über Arbeitsstätten (ArbStättV)
 ==========================================
 
 Stand  
-Zuletzt geändert durch Art. 4 V v. 19.7.2010 I 960
+Zuletzt geändert durch Art. 282 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -62,7 +62,7 @@ in Transportmitteln, sofern diese im öffentlichen Verkehr eingesetzt werden,
 3.  
 für Felder, Wälder und sonstige Flächen, die zu einem land- oder forstwirtschaftlichen Betrieb gehören, aber außerhalb seiner bebauten Fläche liegen.
 
-(3) Das Bundeskanzleramt, das Bundesministerium des Innern, das Bundesministerium für Verkehr, Bau und Stadtentwicklung, das Bundesministerium der Verteidigung oder das Bundesministerium der Finanzen können, soweit sie hierfür jeweils zuständig sind, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und, soweit nicht das Bundesministerium des Innern selbst zuständig ist, im Einvernehmen mit dem Bundesministerium des Innern Ausnahmen von den Vorschriften dieser Verordnung zulassen, soweit öffentliche Belange dies zwingend erfordern, insbesondere zur Aufrechterhaltung oder Wiederherstellung der öffentlichen Sicherheit. In diesem Fall ist gleichzeitig festzulegen, wie die Sicherheit und der Gesundheitsschutz der Beschäftigten nach dieser Verordnung auf andere Weise gewährleistet werden.
+(3) Das Bundeskanzleramt, das Bundesministerium des Innern, das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit, das Bundesministerium der Verteidigung oder das Bundesministerium der Finanzen können, soweit sie hierfür jeweils zuständig sind, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und, soweit nicht das Bundesministerium des Innern selbst zuständig ist, im Einvernehmen mit dem Bundesministerium des Innern Ausnahmen von den Vorschriften dieser Verordnung zulassen, soweit öffentliche Belange dies zwingend erfordern, insbesondere zur Aufrechterhaltung oder Wiederherstellung der öffentlichen Sicherheit. In diesem Fall ist gleichzeitig festzulegen, wie die Sicherheit und der Gesundheitsschutz der Beschäftigten nach dieser Verordnung auf andere Weise gewährleistet werden.
 
 ### § 2 Begriffsbestimmungen
 
