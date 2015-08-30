@@ -2,7 +2,7 @@ Forstvermehrungsgutgesetz (FoVG)
 ================================
 
 Stand  
-Zuletzt geändert durch Art. 37 G v. 9.12.2010 I 1934
+Zuletzt geändert durch Art. 414 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -183,7 +183,7 @@ Forstsamen- oder Forstpflanzenbetrieb:jede natürliche oder juristische Person o
 
 ### § 3 Ermächtigung zur Änderung der Baumartenliste
 
-Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz (Bundesministerium) wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates forstliches Vermehrungsgut weiterer Baumarten und künstlicher Hybriden den Vorschriften dieses Gesetzes vollständig oder teilweise zu unterwerfen, soweit dies zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist.
+Das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates forstliches Vermehrungsgut weiterer Baumarten und künstlicher Hybriden den Vorschriften dieses Gesetzes vollständig oder teilweise zu unterwerfen, soweit dies zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist.
 
 Abschnitt 2 Zulassung
 ---------------------
