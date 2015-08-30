@@ -2,7 +2,7 @@ Gesetz zu den Änderungen vom 13. Februar 1997 des Übereinkommens zur Gründung
 =====================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 275 V v. 31.10.2006 I 2407
+Zuletzt geändert durch Art. 456 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -16,13 +16,13 @@ Den in Paris am 13. Februar 1997 von der Versammlung der Vertragsparteien beschl
 
 ### Art 2
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, die Voraussetzungen (Zuverlässigkeit, Leistungsfähigkeit, Fachkunde) und das Verfahren für eine Benennung von Unterzeichnern (Signatare) durch Rechtsverordnung zu regeln.
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, die Voraussetzungen (Zuverlässigkeit, Leistungsfähigkeit, Fachkunde) und das Verfahren für eine Benennung von Unterzeichnern (Signatare) durch Rechtsverordnung zu regeln.
 
-(2) Die Benennung erfolgt gegen Gebühr. Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen die gebührenpflichtigen Tatbestände, die Höhe der Gebühr und die Erstattung von Auslagen durch Rechtsverordnung zu regeln.
+(2) Die Benennung erfolgt gegen Gebühr. Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen die gebührenpflichtigen Tatbestände, die Höhe der Gebühr und die Erstattung von Auslagen durch Rechtsverordnung zu regeln.
 
 ### Art 3
 
-Das Bundesministerium für Wirtschaft und Technologie kann das EUTELSAT-Übereinkommen in der durch die vereinbarten Änderungen vom 13. Februar 1997 geänderten Fassung mit einer amtlichen deutschen Übersetzung in der Neufassung bekanntmachen.
+Das Bundesministerium für Wirtschaft und Energie kann das EUTELSAT-Übereinkommen in der durch die vereinbarten Änderungen vom 13. Februar 1997 geänderten Fassung mit einer amtlichen deutschen Übersetzung in der Neufassung bekanntmachen.
 
 ### Art 4
 
