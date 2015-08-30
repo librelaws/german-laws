@@ -2,7 +2,7 @@ Verordnung über Rohrfernleitungsanlagen ()
 ==========================================
 
 Stand  
-Zuletzt geändert durch Art. 14 G v. 8.11.2011 I 2178
+Zuletzt geändert durch Art. 280 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -24,12 +24,12 @@ Zweck der Verordnung ist es, eine Beeinträchtigung des Wohls der Allgemeinheit 
 brennbare Flüssigkeiten mit einem Flammpunkt kleiner als 100 Grad Celsius sowie brennbare Flüssigkeiten, die bei Temperaturen gleich oder oberhalb ihres Flammpunktes befördert werden,
 
 2.  
-verflüssigte oder gasförmige Stoffe mit dem Gefahrenmerkmal F, F+, O, T, T+ oder C,
+Stoffe mit dem Gefahrenmerkmal F, F+, O, T, T+ oder C,
 
 3.  
 Stoffe mit den R-Sätzen R 14, R 14/15, R 29, R 50, R 50/53 oder R 51/53.
 
-Stoffe, die unter Satz 1 Nummer 1 oder Nummer 3 fallen, und verflüssigte oder gasförmige Stoffe mit dem Gefahrenmerkmal T, T+ oder C gelten als wassergefährdende Stoffe.
+Stoffe, die unter Satz 1 Nummer 1 oder Nummer 3 fallen, und Stoffe mit dem Gefahrenmerkmal T, T+ oder C gelten als wassergefährdende Stoffe.
 
 (2) Rohrfernleitungsanlagen im Sinne dieser Verordnung sind Rohrfernleitungsanlagen,
 
@@ -37,13 +37,13 @@ Stoffe, die unter Satz 1 Nummer 1 oder Nummer 3 fallen, und verflüssigte oder g
 die nach § 20 Absatz 1 oder Absatz 2 des Gesetzes über die Umweltverträglichkeitsprüfung einer Planfeststellung oder einer Plangenehmigung bedürfen oder
 
 2.  
-die unter eine der in den Nummern 19.3 bis 19.6 der Anlage 1 des Gesetzes über die Umweltverträglichkeitsprüfung aufgeführten Leitungsanlagen fallen, ohne die dort angegebenen Größenwerte für die Verpflichtung zur Durchführung einer Vorprüfung des Einzelfalles zu erreichen.
+die unter eine der in den Nummern 19.4 bis 19.6 der Anlage 1 des Gesetzes über die Umweltverträglichkeitsprüfung aufgeführten Leitungsanlagen fallen, ohne die dort angegebenen Größenwerte für die Verpflichtung zur Durchführung einer Vorprüfung des Einzelfalls zu erreichen und die mit einem Überdruck von mehr als 1 Bar betrieben werden.
 
 Die Anlagen im Sinne des Satzes 1 umfassen neben den Rohrleitungen auch alle dem Leitungsbetrieb dienenden Einrichtungen, insbesondere Pump-, Abzweig-, Übergabe-, Absperr- und Entlastungsstationen sowie Verdichter-, Regel- und Messanlagen.
 
 (3) Die Verordnung gilt nicht für Rohrfernleitungsanlagen, die bergrechtlichen Betriebsplanverfahren unterliegen.
 
-(4) Soweit zwingende Gründe der Verteidigung oder die Erfüllung zwischenstaatlicher Verpflichtungen, insbesondere im Rahmen des NATO-Vertrages, es erfordern, kann das Bundesministerium der Verteidigung nach Richtlinien, die im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit festzulegen sind, für Rohrfernleitungsanlagen, die der Landesverteidigung dienen, sowie der Einrichtungen zu ihrem Betrieb die Anwendung dieser Rechtsverordnung ausschließen oder Ausnahmen von den Anforderungen dieser Rechtsverordnung zulassen. Dabei ist der Schutz vor erheblichen nachteiligen Umweltauswirkungen zu berücksichtigen. Sonstige Rechtsvorschriften, die das Zulassungsverfahren betreffen, bleiben unberührt. Das Bundesministerium der Verteidigung unterrichtet das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit jährlich über die Anwendung dieses Absatzes.
+(4) Soweit zwingende Gründe der Verteidigung oder die Erfüllung zwischenstaatlicher Verpflichtungen, insbesondere im Rahmen des NATO-Vertrages, es erfordern, kann das Bundesministerium der Verteidigung nach Richtlinien, die im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit festzulegen sind, für Rohrfernleitungsanlagen, die der Landesverteidigung dienen, sowie der Einrichtungen zu ihrem Betrieb die Anwendung dieser Rechtsverordnung ausschließen oder Ausnahmen von den Anforderungen dieser Rechtsverordnung zulassen. Dabei ist der Schutz vor erheblichen nachteiligen Umweltauswirkungen zu berücksichtigen. Sonstige Rechtsvorschriften, die das Zulassungsverfahren betreffen, bleiben unberührt. Das Bundesministerium der Verteidigung unterrichtet das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit jährlich über die Anwendung dieses Absatzes.
 
 ### § 3 Grundsätzliche Anforderungen
 
@@ -79,7 +79,7 @@ Der Betreiber hat im Rahmen dieses Systems die für den bestimmungsgemäßen Bet
 
 ### § 4a Anzeigepflicht
 
-(1) Wer die Errichtung einer Rohrfernleitungsanlage im Sinne von § 2 Absatz 2 Satz 1 Nummer 2 mit einem Überdruck von mehr als einem Bar beabsichtigt, hat
+(1) Wer die Errichtung oder wesentliche Änderung einer Rohrfernleitungsanlage im Sinne von § 2 Absatz 2 Satz 1 Nummer 2 beabsichtigt, hat
 
 1.  
 das Vorhaben mindestens acht Wochen vor dem vorgesehenen Beginn der zuständigen Behörde unter Beifügung aller für die Beurteilung der Sicherheit erforderlichen Unterlagen schriftlich anzuzeigen und zu beschreiben sowie
@@ -97,7 +97,7 @@ Anordnungen nach § 4 Absatz 5 getroffen werden können.
 
 Die Frist beginnt, sobald die vollständigen Unterlagen und die gutachtliche Stellungnahme nach Absatz 1 vorgelegt worden sind.
 
-(3) Mit der Errichtung darf erst nach Ablauf der Frist nach Absatz 2, bei einer Beanstandung erst nach Behebung des Mangels begonnen werden. Soweit Teile der Rohrfernleitungsanlage durch eine Beanstandung nicht betroffen sind, kann mit ihrer Errichtung unabhängig von der Beanstandung begonnen werden.
+(3) Mit der Errichtung oder wesentlichen Änderung darf erst nach Ablauf der Frist nach Absatz 2, bei einer Beanstandung erst nach Behebung des Mangels begonnen werden. Soweit Teile der Rohrfernleitungsanlage durch eine Beanstandung nicht betroffen sind, kann mit ihrer Errichtung unabhängig von der Beanstandung begonnen werden.
 
 ### § 5 Prüfung von Rohrfernleitungsanlagen
 
@@ -107,7 +107,7 @@ Die Frist beginnt, sobald die vollständigen Unterlagen und die gutachtliche Ste
 vor der Inbetriebnahme der Rohrfernleitungsanlage,
 
 2.  
-vor erneuter Inbetriebnahme nach einer nach § 2 Abs. 1 zulassungsbedürftigen Änderung,
+vor erneuter Inbetriebnahme nach einer nach § 2 Abs. 1 zulassungsbedürftigen Änderung oder nach einer nach § 4a Absatz 1 anzeigebedürftigen wesentlichen Änderung,
 
 2a.  
 vor erneuter Inbetriebnahme nach einer nicht zulassungsbedürftigen Änderung
@@ -137,6 +137,8 @@ durchgeführt werden. Auf Antrag des Betreibers kann aufgrund einer von einer An
 
 (2) Die zuständige Behörde kann in besonderen Fällen über Absatz 1 hinaus zusätzliche Prüfungen anordnen.
 
+(3) Die Prüfstelle hat über das Ergebnis der Prüfungen nach Absatz 1 oder Absatz 2 eine Bescheinigung auszustellen und dem Betreiber und der zuständigen Behörde bei gefährlichen Mängeln unverzüglich, sonst innerhalb von acht Wochen nach Abschluss der Prüfungen vorzulegen. Die zuständige Behörde kann bei der Prüfstelle in die zu einer Prüfung erstellten Prüfprotokolle Einsicht nehmen. Die Prüfstelle hat die bei ihren Prüfungen erstellten Prüfprotokolle für einen Zeitraum von zehn Jahren aufzubewahren. Der Betreiber hat der zuständigen Behörde auf Verlangen betriebliche Unterlagen zur Rohrfernleitungsanlage vorzulegen.
+
 ### § 6 Prüfstellen für Rohrfernleitungsanlagen
 
 (1) Prüfstelle ist
@@ -147,7 +149,7 @@ jede Sachverständigenorganisation,
 2.  
 jede nach anderen Rechtsvorschriften zugelassene Überwachungsstelle,
 
-die von der zuständigen Behörde auf Antrag als Prüfstelle für Rohrfernleitungsanlagen anerkannt worden ist. Die Anerkennung gilt im gesamten Bundesgebiet. Sie kann mit einem Vorbehalt des Widerrufes, einer Befristung, mit Bedingungen, Auflagen und dem Vorbehalt von Auflagen versehen werden. Sie kann insbesondere widerrufen werden, wenn die Prüfstelle die Anforderungen nach Absatz 2 Satz 1 nicht mehr erfüllt oder wiederholt Mängel bei der Prüftätigkeit festgestellt wurden. Gleichwertige Anerkennungen anderer Mitgliedstaaten der Europäischen Union oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum stehen Anerkennungen nach Satz 1 gleich. Nachweise über die gleichwertige Anerkennung nach Satz 5 sind der zuständigen Behörde vor Aufnahme der Prüftätigkeiten im Original oder in Kopie vorzulegen; eine Beglaubigung der Kopie kann verlangt werden. Die zuständige Behörde kann darüber hinaus verlangen, dass Nachweise über gleichwertige Anerkennungen nach Satz 5 in beglaubigter deutscher Übersetzung vorgelegt werden. Die zuständige Behörde benennt dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit die nach Satz 1 oder Satz 5 anerkannten Prüfstellen. Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit macht die Prüfstellen im Bundesanzeiger bekannt.
+die von der zuständigen Behörde auf Antrag als Prüfstelle für Rohrfernleitungsanlagen anerkannt worden ist. Die Anerkennung gilt im gesamten Bundesgebiet. Sie kann mit einem Vorbehalt des Widerrufes, einer Befristung, mit Bedingungen, Auflagen und dem Vorbehalt von Auflagen versehen werden. Sie kann insbesondere widerrufen werden, wenn die Prüfstelle die Anforderungen nach Absatz 2 Satz 1 nicht mehr erfüllt oder wiederholt Mängel bei der Prüftätigkeit festgestellt wurden. Gleichwertige Anerkennungen anderer Mitgliedstaaten der Europäischen Union oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum stehen Anerkennungen nach Satz 1 gleich. Nachweise über die gleichwertige Anerkennung nach Satz 5 sind der zuständigen Behörde vor Aufnahme der Prüftätigkeiten im Original oder in Kopie vorzulegen; eine Beglaubigung der Kopie kann verlangt werden. Die zuständige Behörde kann darüber hinaus verlangen, dass Nachweise über gleichwertige Anerkennungen nach Satz 5 in beglaubigter deutscher Übersetzung vorgelegt werden. Die zuständige Behörde benennt dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit die nach Satz 1 oder Satz 5 anerkannten Prüfstellen. Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit macht die Prüfstellen im Bundesanzeiger bekannt.
 
 (2) Die Prüfstelle ist anzuerkennen, wenn sichergestellt ist, dass die folgenden Anforderungen erfüllt werden:
 
@@ -166,7 +168,7 @@ Sammlung und Auswertung der bei den Prüfungen gewonnenen Erkenntnisse sowie die
 5.  
 Vorhandensein einer angemessenen und wirksamen Qualitätssicherung mit regelmäßiger Auditierung.
 
-Bei der Prüfung des Antrags auf Anerkennung stehen Nachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum inländischen Nachweisen gleich, wenn sie mit diesen gleichwertig sind oder aus ihnen hervorgeht, dass die Prüfstelle die betreffenden Anforderungen des Satzes 1 erfüllt; dabei sind auch Nachweise anzuerkennen, aus denen hervorgeht, dass die Prüfstelle im Ausstellungsstaat bereits gleichwertigen oder auf Grund ihrer Zielsetzung im Wesentlichen vergleichbaren Anforderungen und Kontrollen unterworfen ist. Absatz 1 Satz 6 und 7 gilt entsprechend. Hinsichtlich der Überprüfung der ausreichenden Fachkunde nach Absatz 2 Satz 1 Nummer 3 gilt § 36a Absatz 1 Satz 2 und Absatz 2 der Gewerbeordnung entsprechend; bei vorübergehender und nur gelegentlicher Tätigkeit eines Staatsangehörigen eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum gilt hinsichtlich der erforderlichen Fachkunde § 13a Absatz 2 Satz 2 bis 5 und Absatz 3 der Gewerbeordnung entsprechend.
+Bei der Prüfung des Antrags auf Anerkennung stehen Nachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum inländischen Nachweisen gleich, wenn sie mit diesen gleichwertig sind oder aus ihnen hervorgeht, dass die Prüfstelle die betreffenden Anforderungen des Satzes 1 erfüllt; dabei sind auch Nachweise anzuerkennen, aus denen hervorgeht, dass die Prüfstelle im Ausstellungsstaat bereits gleichwertigen oder auf Grund ihrer Zielsetzung im Wesentlichen vergleichbaren Anforderungen und Kontrollen unterworfen ist. Absatz 1 Satz 6 und 7 gilt entsprechend.
 
 (3) Über einen Antrag auf Anerkennung als Prüfstelle ist innerhalb einer Frist von drei Monaten zu entscheiden; § 42a Absatz 2 Satz 2 bis 4 des Verwaltungsverfahrensgesetzes findet Anwendung. Das Anerkennungsverfahren kann über eine einheitliche Stelle abgewickelt werden.
 
@@ -174,7 +176,7 @@ Bei der Prüfung des Antrags auf Anerkennung stehen Nachweise aus einem anderen 
 
 (5) Die Prüfstellen sind verpflichtet, den Abschluss einer Haftpflichtversicherung mit einer Deckungssumme von mindestens zweieinhalb Millionen Euro nachzuweisen.
 
-(6) Für Prüfungen nach § 5 können die Betreiber bis zum 31. Dezember 2012 auch die Sachverständigen heranziehen, die nach Maßgabe des § 6 in der bis zum 10. Oktober 2008 geltenden Fassung heranzuziehen waren.
+(6) Für Prüfungen nach § 5 können die Betreiber bis zum 31. Dezember 2015 auch die Sachverständigen heranziehen, die nach Maßgabe des § 6 in der bis zum 10. Oktober 2008 geltenden Fassung heranzuziehen waren.
 
 ### § 7 Schadensfall
 
@@ -219,14 +221,36 @@ ob neue Erkenntnisse vorliegen, die andere oder zusätzliche Schutzvorkehrungen 
 
 (3) Der Betreiber einer Rohrfernleitungsanlage ist verpflichtet, im Rahmen der Schadensfallvorsorge die betroffenen Gemeinden, Feuerwehr, Polizei und andere Hilfsorganisationen entlang der Trasse über Art, Zweckbestimmung und Verlauf der Rohrfernleitungsanlage, über Gefahren sowie über die transportierten Stoffe zu informieren.
 
+### § 8a Überwachung
+
+(1) Bedienstete und Beauftragte der zuständigen Behörde sind im Rahmen der Überwachung befugt,
+
+1.  
+technische Ermittlungen und Prüfungen vorzunehmen,
+
+2.  
+während der Betriebszeit Betriebsräume sowie unmittelbar zugehörige befriedete Betriebsgrundstücke zu betreten,
+
+3.  
+bei Erforderlichkeit zur Verhütung dringender Gefahren für die öffentliche Sicherheit oder Ordnung Wohnräume und außerhalb der Betriebszeit Betriebsräume sowie unmittelbar zugehörige befriedete Betriebsgrundstücke zu betreten und
+
+4.  
+jederzeit Anlagen zu betreten sowie Grundstücke, die nicht unmittelbar zugehörige befriedete Betriebsgrundstücke nach den Nummern 2 und 3 sind.
+
+Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird durch Satz 1 Nummer 3 eingeschränkt.
+
+(2) Anlagenbetreiber und ihre Beschäftigten haben der zuständigen Behörde auf Verlangen Auskünfte zu erteilen, Unterlagen vorzulegen und technische Ermittlungen und Prüfungen nach Absatz 1 Satz 1 Nummer 1 zu ermöglichen sowie dafür Arbeitskräfte und technische Hilfsmittel zur Verfügung zu stellen, soweit dies zur Durchführung der der Behörde nach Teil 5 des Gesetzes über die Umweltverträglichkeitsprüfung und dieser Verordnung übertragenen Aufgaben erforderlich ist. Für die zur Auskunft verpflichtete Person gilt § 55 der Strafprozessordnung entsprechend. Eigentümer und Besitzer von Grundstücken, über die Rohrfernleitungsanlagen verlaufen, haben der zuständigen Behörde auf Verlangen technische Ermittlungen und Prüfungen nach Absatz 1 Satz 1 Nummer 1 zu ermöglichen, soweit dies zur Durchführung der Aufgaben erforderlich ist, die der zuständigen Behörde nach Teil 5 des Gesetzes über die Umweltverträglichkeitsprüfung und nach dieser Verordnung übertragen worden sind.
+
+(3) (weggefallen)
+
 ### § 9 Ausschuss für Rohrfernleitungen
 
-(1) Beim Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird ein Ausschuss für Rohrfernleitungen eingerichtet.
+(1) Beim Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ein Ausschuss für Rohrfernleitungen eingerichtet.
 
 (2) Der Ausschuss für Rohrfernleitungen hat die Aufgabe, im Sinne der Zweckbestimmung des § 1
 
 1.  
-das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit insbesondere in technischen Fragen zu beraten;
+das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit insbesondere in technischen Fragen zu beraten;
 
 2.  
 die dem Stand der Technik entsprechenden Regeln (Technische Regeln) vorzuschlagen. Der Vorschlag hat die für andere Schutzziele vorhandenen Regeln zu berücksichtigen und ist, soweit die Zuständigkeiten der Kommission für Anlagensicherheit nach § 51a des Bundes-Immissionsschutzgesetzes berührt sind, mit diesem abzustimmen. Die Inhalte der Technischen Regeln, die den Arbeitsschutz berühren, bedürfen des Einvernehmens des Bundesministeriums für Arbeit und Soziales;
@@ -236,9 +260,9 @@ das Anforderungsprofil an Prüfstellen für Rohrfernleitungsanlagen und deren Sa
 
 (3) In den Ausschuss sind Vertreter von betroffenen Bundes- und Landesbehörden, von Sachverständigen nach § 6, von Herstellern und Betreibern von Rohrfernleitungsanlagen und der Wissenschaft zu berufen. Der Ausschuss soll nicht mehr als 15 Mitglieder umfassen. Die Mitgliedschaft im Ausschuss ist ehrenamtlich.
 
-(4) Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit beruft die Mitglieder des Ausschusses. Der Ausschuss gibt sich eine Geschäftsordnung und wählt den Vorsitzenden aus seiner Mitte. Die Geschäftsordnung und die Wahl des Vorsitzenden bedürfen der Zustimmung des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit.
+(4) Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit beruft die Mitglieder des Ausschusses. Der Ausschuss gibt sich eine Geschäftsordnung und wählt den Vorsitzenden aus seiner Mitte. Die Geschäftsordnung und die Wahl des Vorsitzenden bedürfen der Zustimmung des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit.
 
-(5) Technische Regeln und das Anforderungsprofil nach Absatz 2 Nr. 3 werden vom Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit im Bundesanzeiger veröffentlicht.
+(5) Technische Regeln und das Anforderungsprofil nach Absatz 2 Nr. 3 werden vom Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit im Bundesanzeiger veröffentlicht.
 
 ### § 10 Ordnungswidrigkeiten
 
@@ -260,7 +284,7 @@ entgegen § 4 Abs. 2 Satz 1 eine zusammenfassende Dokumentation nicht oder nicht
 entgegen § 4a Absatz 1 Nummer 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
 4b.  
-entgegen § 4a Absatz 3 Satz 1 mit der Errichtung einer Rohrfernleitungsanlage beginnt,
+entgegen § 4a Absatz 3 Satz 1 mit der Errichtung oder wesentlichen Änderung einer Rohrfernleitungsanlage beginnt,
 
 5.  
 entgegen § 5 Abs. 1 Satz 1 nicht dafür sorgt, dass eine Prüfung durchgeführt wird,
