@@ -2,7 +2,7 @@ Gesetz zur Erhaltung des Waldes und zur Förderung der Forstwirtschaft ()
 ========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 31.7.2010 I 1050
+Zuletzt geändert durch Art. 413 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -552,15 +552,15 @@ Inhaber land- oder forstwirtschaftlicher Betriebe oder Grundbesitzer, soweit ihr
 
 (1) Zur Erfüllung der Aufgaben dieses Gesetzes sowie zur Durchführung von Rechtsakten der Europäischen Union oder völkerrechtlich verbindlicher Vereinbarungen im Anwendungsbereich dieses Gesetzes ist vorbehaltlich des Absatzes 3 alle zehn Jahre eine auf das gesamte Bundesgebiet bezogene forstliche Großrauminventur auf Stichprobenbasis (Bundeswaldinventur) durchzuführen. Sie soll einen Gesamtüberblick über die großräumigen Waldverhältnisse und forstlichen Produktionsmöglichkeiten liefern. Die hierzu erforderlichen Messungen und Beschreibungen des Waldzustandes (Grunddaten) sind nach einem einheitlichen Verfahren vorzunehmen. Dabei ist auf die Verwertbarkeit der Grunddaten auch im Rahmen der Beobachtung nach § 6 Bundesnaturschutzgesetz zu achten.
 
-(2) Die Länder erheben die in Absatz 1 genannten Grunddaten; das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz stellt sie zusammen und wertet sie aus.
+(2) Die Länder erheben die in Absatz 1 genannten Grunddaten; das Bundesministerium für Ernährung und Landwirtschaft stellt sie zusammen und wertet sie aus.
 
-(3) Zur Erfüllung von Berichtspflichten, die auf Grund verbindlicher völkerrechtlicher Vereinbarungen zum Schutz des Klimas bestehen, erhebt das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz soweit erforderlich in den Jahren zwischen zwei Bundeswaldinventuren Daten zum Kohlenstoffvorrat im Wald.
+(3) Zur Erfüllung von Berichtspflichten, die auf Grund verbindlicher völkerrechtlicher Vereinbarungen zum Schutz des Klimas bestehen, erhebt das Bundesministerium für Ernährung und Landwirtschaft soweit erforderlich in den Jahren zwischen zwei Bundeswaldinventuren Daten zum Kohlenstoffvorrat im Wald.
 
 (4) Die mit der Vorbereitung und Durchführung der in den Absätzen 1, 3 und in Rechtsverordnungen nach Absatz 6 genannten forstlichen Erhebungen beauftragten Personen sind berechtigt, zur Erfüllung ihres Auftrages Grundstücke zu betreten sowie die erforderlichen Datenerhebungen und Probenahmen auf diesen Grundstücken durchzuführen.
 
-(5) Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften über das für die Bundeswaldinventur anzuwendende Stichprobenverfahren und die zu ermittelnden Grunddaten zu erlassen.
+(5) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften über das für die Bundeswaldinventur anzuwendende Stichprobenverfahren und die zu ermittelnden Grunddaten zu erlassen.
 
-(6) Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz kann durch Rechtsverordnung mit Zustimmung des Bundesrates vorsehen, dass Daten
+(6) Das Bundesministerium für Ernährung und Landwirtschaft kann durch Rechtsverordnung mit Zustimmung des Bundesrates vorsehen, dass Daten
 
 1.  
 zur Nährstoffversorgung und Schadstoffbelastung der Waldböden (Bodenzustandserhebung),
@@ -592,7 +592,7 @@ Fünftes Kapitel Schlußvorschriften
 
 ### § 44 Allgemeine Verwaltungsvorschriften
 
-Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz erläßt mit Zustimmung des Bundesrates die zur Durchführung der §§ 15 bis 40 und 41a erforderlichen allgemeinen Verwaltungsvorschriften.
+Das Bundesministerium für Ernährung und Landwirtschaft erläßt mit Zustimmung des Bundesrates die zur Durchführung der §§ 15 bis 40 und 41a erforderlichen allgemeinen Verwaltungsvorschriften.
 
 ### § 45 Anwendung des Gesetzes in besonderen Fällen
 
