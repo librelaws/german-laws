@@ -143,11 +143,11 @@ der Anmelder rechtmäßiger Erwerber im Sinne des § 38 Abs. 1, 2 ist (rechtmä�
 3.  
 der Auslandsbond dem Anmelder wegen einer im Inland oder Ausland bis zum 8. Mai 1945 einschließlich begangenen Entziehung auf Grund einer nicht mehr anfechtbaren Entscheidung einer für den Geltungsbereich dieses Gesetzes zuständigen Behörde oder anderen Stelle zurückgewährt worden ist (Rückerstattungsstück).
 
-(2) Ein Auslandsbond ist ein Auslandsstück, wenn er sich am 1. Januar 1945 außerhalb der Grenzen Deutschlands nach dem Stand vom 31. Dezember 1937 (Ausland) sowie außerhalb Danzigs, Memels, Österreichs und der am 1. Januar 1945 von Deutschland in seine Verwaltung einbezogenen Teile Polens und der Tschechoslowakei einschließlich des ehemaligen Protektorats Böhmen und Mähren befunden hat. Als Auslandsstück gilt ferner ein Auslandsbond der in Absatz 1 Nr. 3 bezeichneten Art, wenn die Entscheidung über die Rückgewähr wegen einer im Ausland begangenen Entziehung ergangen ist und der Inhaber seinen Wohnsitz, gewöhnlichen Aufenthalt, Sitz oder seine Hauptniederlassung zur Zeit der Anmeldung im Ausland hat.
+(2) Ein Auslandsbond ist ein Auslandsstück, wenn er sich am 1. Januar 1945 außerhalb der Grenzen Deutschlands nach dem Stande vom 31. Dezember 1937 (Ausland) sowie außerhalb Danzigs, Memels, Österreichs und der am 1. Januar 1945 von Deutschland in seine Verwaltung einbezogenen Teile Polens und der Tschechoslowakei einschließlich des ehemaligen Protektorats Böhmen und Mähren befunden hat. Als Auslandsstück gilt ferner ein Auslandsbond der in Absatz 1 Nr. 3 bezeichneten Art, wenn die Entscheidung über die Rückgewähr wegen einer im Ausland begangenen Entziehung ergangen ist und der Inhaber seinen Wohnsitz, gewöhnlichen Aufenthalt, Sitz oder seine Hauptniederlassung zur Zeit der Anmeldung im Ausland hat.
 
 ### § 4 Feststellungsbescheide
 
-Für einen Auslandsbond, der vernichtet ist oder der aus einem anderen Grund von keinem Anmeldeberechtigten zur Anerkennung vorgelegt werden kann, wird vorbehaltlich des § 6 im Prüfungsverfahren ein Feststellungsbescheid erteilt, wenn der Auslandsbond nach § 10 angemeldet und wenn festgestellt wird, daß der Anmelder als rechtmäßiger Erwerber im Sinne des § 38 Abs. 3 gilt. Der Feststellungsbescheid gewährt die in § 53 bezeichneten Entschädigungsansprüche.
+Für einen Auslandsbond, der vernichtet ist oder der aus einem anderen Grunde von keinem Anmeldeberechtigten zur Anerkennung vorgelegt werden kann, wird vorbehaltlich des § 6 im Prüfungsverfahren ein Feststellungsbescheid erteilt, wenn der Auslandsbond nach § 10 angemeldet und wenn festgestellt wird, daß der Anmelder als rechtmäßiger Erwerber im Sinne des § 38 Abs. 3 gilt. Der Feststellungsbescheid gewährt die in § 53 bezeichneten Entschädigungsansprüche.
 
 ### § 5 Nebenurkunden
 
@@ -401,7 +401,7 @@ Der Anmelder kann, wenn er neue Tatsachen oder Beweismittel vorbringt, innerhalb
 
 ### § 33 Anrufung eines Gerichts des Begebungslands
 
-(1) Kann der Anmelder nach dem anzuwendenden ausländischen Recht ein Gericht des Begebungslands zur Entscheidung darüber anrufen, ob die in diesem Gesetz geforderten Voraussetzungen für die Anerkennung eines angemeldeten Auslandsbonds durch den Auslandsbevollmächtigten vorliegen, so ist § 32 auf die über diese Frage ergehende Entscheidung anzuwenden, wenn
+(1) Kann der Anmelder nach dem anzuwendenden ausländischen Recht ein Gericht des Begebungslandes zur Entscheidung darüber anrufen, ob die in diesem Gesetz geforderten Voraussetzungen für die Anerkennung eines angemeldeten Auslandsbonds durch den Auslandsbevollmächtigten vorliegen, so ist § 32 auf die über diese Frage ergehende Entscheidung anzuwenden, wenn
 
 1.  
 das Gericht innerhalb der in § 31 Abs. 2 Satz 1 bezeichneten Fristen angerufen worden ist,
@@ -599,7 +599,7 @@ Abschnitt IV Doppelanmeldungen
 
 ### § 49
 
-(1) Werden für denselben Auslandsbond sowohl die Anerkennung als auch die Erteilung eines Feststellungsbescheids beansprucht, so gilt folgendes:
+(1) Werden für denselben Auslandsbond sowohl die Anerkennung als auch die Erteilung eines Feststellungsbescheides beansprucht, so gilt folgendes:
 
 1.  
 Sind beide Anmeldungen bei derselben Stelle anhängig, so sollen sie zu gemeinsamer Entscheidung verbunden werden.
@@ -653,11 +653,11 @@ Abschnitt V Nicht anerkannte Auslandsbonds, Entschädigungsansprüche
 
 ### § 53 Entschädigungsansprüche aus Feststellungsbescheiden
 
-(1) Auf Grund eines Feststellungsbescheids (§§ 4, 47 Abs. 5) steht dem Anmelder gegen den Aussteller und solche Dritte, die als Schuldner für die Ansprüche aus Auslandsbonds der betreffenden Art unmittelbar haften, ein Entschädigungsanspruch zu. Für den Entschädigungsanspruch gilt § 52 Abs. 1 Satz 2 und 3. Er kann nur geltend gemacht werden, nachdem der Auslandsbond, auf den sich der Feststellungsbescheid bezieht, nach § 50 kraftlos geworden ist oder, wenn in dem Bescheid kein bestimmter Auslandsbond bezeichnet ist, die für Auslandsbonds der betreffenden Art geltenden Anmeldefristen (§ 21 Abs. 1 Satz 2, *Abs. 2,* § 37 Abs. 2) abgelaufen sind.
+(1) Auf Grund eines Feststellungsbescheides (§§ 4, 47 Abs. 5) steht dem Anmelder gegen den Aussteller und solche Dritte, die als Schuldner für die Ansprüche aus Auslandsbonds der betreffenden Art unmittelbar haften, ein Entschädigungsanspruch zu. Für den Entschädigungsanspruch gilt § 52 Abs. 1 Satz 2 und 3. Er kann nur geltend gemacht werden, nachdem der Auslandsbond, auf den sich der Feststellungsbescheid bezieht, nach § 50 kraftlos geworden ist oder, wenn in dem Bescheid kein bestimmter Auslandsbond bezeichnet ist, die für Auslandsbonds der betreffenden Art geltenden Anmeldefristen (§ 21 Abs. 1 Satz 2, *Abs. 2,* § 37 Abs. 2) abgelaufen sind.
 
 (2) Der Aussteller und die in Absatz 1 Satz 1 bezeichneten Dritten können verlangen, daß ihre sich aus Absatz 1 ergebenden Verpflichtungen um die Beträge gekürzt werden, die sie an Inhaber von Auslandsbonds zahlen müssen, obwohl für die Bonds Feststellungsbescheide erteilt worden sind. Die Kürzungen sind zunächst an Entschädigungsansprüchen aus solchen Feststellungsbescheiden vorzunehmen, in denen der in Verlust geratene Auslandsbond nur nach seinen allgemeinen Merkmalen bezeichnet ist, im übrigen im gleichen Verhältnis. Kürzungen sind insoweit unzulässig, als der Aussteller oder die Dritten durch die Auswirkungen dieses Gesetzes bereichert sind.
 
-(3) Die Erteilung eines Feststellungsbescheids schließt die spätere Anerkennung des ihm zugrunde liegenden Auslandsbonds oder die Geltendmachung von Entschädigungsansprüchen nach § 52 nicht aus.
+(3) Die Erteilung eines Feststellungsbescheides schließt die spätere Anerkennung des ihm zugrunde liegenden Auslandsbonds oder die Geltendmachung von Entschädigungsansprüchen nach § 52 nicht aus.
 
 (4) Die nähere Regelung der in den Absätzen 1, 2 bezeichneten Ansprüche und Befugnisse bleibt einem besonderen Gesetz vorbehalten. Bevor dieses Gesetz erlassen ist, sind der Aussteller und die in Absatz 1 Satz 1 bezeichneten Dritten zu Leistungen auf Feststellungsbescheide nicht verpflichtet.
 
@@ -665,7 +665,7 @@ Abschnitt V Nicht anerkannte Auslandsbonds, Entschädigungsansprüche
 
 ### § 54 Entschädigungsansprüche für Tilgungsstücke
 
-(1) Den in § 6 Abs. 1 Nr. 2, 3 bezeichneten Personen, deren Auslandsbonds als kraftlos gelten, stehen gegen den Aussteller und solche Dritte, die als Schuldner für die Ansprüche aus Auslandsbonds der betreffenden Art unmittelbar haften, Entschädigungsansprüche zu, wenn sie nach den sonst anzuwendenden Vorschriften dieses Gesetzes die Anerkennung der Bonds oder einen Feststellungsbescheid hätten beanspruchen können. Dies gilt nicht, soweit die Berechtigten den ihnen zustehenden Gegenwert bereits erhalten haben oder die Geltendmachung der Auslandsbonds durch sie aus einem anderen Grund ausgeschlossen wäre.
+(1) Den in § 6 Abs. 1 Nr. 2, 3 bezeichneten Personen, deren Auslandsbonds als kraftlos gelten, stehen gegen den Aussteller und solche Dritte, die als Schuldner für die Ansprüche aus Auslandsbonds der betreffenden Art unmittelbar haften, Entschädigungsansprüche zu, wenn sie nach den sonst anzuwendenden Vorschriften dieses Gesetzes die Anerkennung der Bonds oder einen Feststellungsbescheid hätten beanspruchen können. Dies gilt nicht, soweit die Berechtigten den ihnen zustehenden Gegenwert bereits erhalten haben oder die Geltendmachung der Auslandsbonds durch sie aus einem anderen Grunde ausgeschlossen wäre.
 
 (2) Für die Entschädigungsansprüche gilt § 53 sinngemäß; sie dürfen auch insoweit nicht geltend gemacht werden, als dies zu einer Beeinträchtigung der Entschädigungsansprüche nach §§ 52, 53 führen würde, und sind insoweit ausgeschlossen, als ihre Berücksichtigung den Aussteller oder die Dritten nach § 53 Abs. 2 zu Kürzungen berechtigen würde. Zahlungen in ausländischer Währung dürfen auf die Entschädigungsansprüche nicht geleistet werden.
 
@@ -721,7 +721,7 @@ Auslandsbonds, die nach § 6 als kraftlos gelten.
 
 (2) Absatz 1 gilt insbesondere für die Löschung oder Freigabe von Grund- und Schiffspfandrechten, die Rückübertragung zur Sicherung übereigneter Sachen und die Entlassung von Bürgen. Er gilt sinngemäß, wenn sich der Aussteller oder ein Dritter verpflichtet hat, sein Vermögen oder einzelne Vermögensgegenstände vor der völligen oder teilweisen Tilgung der Auslandsbonds nicht oder nur unter bestimmten Voraussetzungen zu belasten.
 
-(3) Die Freigabe oder Aufhebung der in den Absätzen 1 und 2 bezeichneten Rechte und Verbindlichkeiten kann bei Zahlung oder Hinterlegung eines nach Absatz 1 berechneten Betrags nur verlangt werden, wenn die Zahlung oder Hinterlegung im übrigen den Bedingungen, die für die Auslandsbonds gelten, entspricht. Die Freigabe oder Aufhebung kann nicht deshalb verweigert werden, weil der Aussteller oder ein Dritter Fristen oder Termine nicht eingehalten hat, wenn dies ausschließlich eine Folge gesetzlicher Vorschriften, des Krieges oder anderer von dem Aussteller oder dem Dritten nicht zu vertretender Umstände war.
+(3) Die Freigabe oder Aufhebung der in den Absätzen 1 und 2 bezeichneten Rechte und Verbindlichkeiten kann bei Zahlung oder Hinterlegung eines nach Absatz 1 berechneten Betrages nur verlangt werden, wenn die Zahlung oder Hinterlegung im übrigen den Bedingungen, die für die Auslandsbonds gelten, entspricht. Die Freigabe oder Aufhebung kann nicht deshalb verweigert werden, weil der Aussteller oder ein Dritter Fristen oder Termine nicht eingehalten hat, wenn dies ausschließlich eine Folge gesetzlicher Vorschriften, des Krieges oder anderer von dem Aussteller oder dem Dritten nicht zu vertretender Umstände war.
 
 ### § 60 Gerichtliche Geltendmachung des Freigabeverlangens
 
@@ -771,9 +771,9 @@ Der Aussteller ist in diesem Verfahren zur Zahlung von Kosten nur verpflichtet, 
 
 (6) Im Verfahren vor der Kammer für Wertpapierbereinigung nach § 60 wird vom Aussteller eine Gebühr mit einem Gebührensatz von 1,0 nach Tabelle B des § 34 Absatz 2 des Gerichts- und Notarkostengesetzes erhoben.
 
-(7) Die Gebühren im Beschwerdeverfahren bestimmen sich nach Teil 1 Hauptabschnitt 4 Unterabschnitt 1 des Kostenverzeichnisses zum Gerichts- und Notarkostengesetz. Jedoch ist in jedem Fall der Wert des den Gegenstand der Beschwerde bildenden Rechts für die Bemessung der Gebühr maßgebend.
+(7) Die Gebühren im Beschwerdeverfahren bestimmen sich nach Teil 1 Hauptabschnitt 4 Unterabschnitt 1 des Kostenverzeichnisses zum Gerichts- und Notarkostengesetz. Jedoch ist in jedem Falle der Wert des den Gegenstand der Beschwerde bildenden Rechts für die Bemessung der Gebühr maßgebend.
 
-(8) Bei Anmeldungen, mit denen die Anerkennung eines Rückerstattungsstücks (§ 3 Abs. 1 Nr. 3) oder ein Feststellungsbescheid für einen bis zum 8. Mai 1945 einschließlich entzogenen Auslandsbond beansprucht wird, ist der Anmelder in keinem Fall zur Zahlung von Kosten verpflichtet.
+(8) Bei Anmeldungen, mit denen die Anerkennung eines Rückerstattungsstücks (§ 3 Abs. 1 Nr. 3) oder ein Feststellungsbescheid für einen bis zum 8. Mai 1945 einschließlich entzogenen Auslandsbond beansprucht wird, ist der Anmelder in keinem Falle zur Zahlung von Kosten verpflichtet.
 
 (9) Der Geschäftswert bestimmt sich nach den Verhältnissen am Stichtag (§ 19), im Verfahren nach § 60 nach den Verhältnissen zur Zeit des Antrags.
 
@@ -887,9 +887,9 @@ einen nach § 40 vorgelegten Auslandsbond anerkennen.
 
 ### § 74 Auslandsbonds des Deutschen Reichs und des ehemaligen Landes Preußen
 
-(1) Als Aussteller der vom ehemaligen Land Preußen ausgestellten Auslandsbonds gilt für die Zwecke dieses Gesetzes die Bundesrepublik Deutschland, solange nicht etwas anderes bestimmt ist.
+(1) Als Aussteller der vom ehemaligen Lande Preußen ausgestellten Auslandsbonds gilt für die Zwecke dieses Gesetzes die Bundesrepublik Deutschland, solange nicht etwas anderes bestimmt ist.
 
-(2) Prüfstelle für Auslandsbonds, die vom Deutschen Reich oder von dem ehemaligen Land Preußen ausgestellt worden sind, ist das Bundesamt für zentrale Dienste und offene Vermögensfragen; die Befugnisse der Bankaufsichtsbehörde werden vom Bundesministerium der Finanzen wahrgenommen. Die Zuständigkeit der Kammer für Wertpapierbereinigung bestimmt sich nach dem Sitz des Bundesamts für zentrale Dienste und offene Vermögensfragen.
+(2) Prüfstelle für Auslandsbonds, die vom Deutschen Reich oder von dem ehemaligen Lande Preußen ausgestellt worden sind, ist das Bundesamt für zentrale Dienste und offene Vermögensfragen; die Befugnisse der Bankaufsichtsbehörde werden vom Bundesministerium der Finanzen wahrgenommen. Die Zuständigkeit der Kammer für Wertpapierbereinigung bestimmt sich nach dem Sitz des Bundesamts für zentrale Dienste und offene Vermögensfragen.
 
 ### § 75 Ein- und Ausfuhrvorschriften
 
@@ -899,7 +899,7 @@ In- und ausländische Vorschriften, nach denen Zahlungen oder die Einfuhr, Ausfu
 
 (1) Die Bundesregierung kann durch Rechtsverordnung das in diesem Gesetz geregelte Verfahren den Vorschriften, Gewohnheiten und Gebräuchen anpassen, die für Auslandsbonds einer bestimmten Art oder in dem Begebungsland oder in dem Staat gelten, in dem der Anmelder seinen Wohnsitz, Sitz, gewöhnlichen Aufenthalt oder seine Niederlassung hat.
 
-(2) Durch Vorschriften nach Absatz 1 dürfen weder die Voraussetzungen für die Anerkennung eines Auslandsbonds oder die Erteilung eines Feststellungsbescheids geändert noch die von den Beteiligten nach diesem Gesetz zu ergreifenden Maßnahmen erschwert oder nach diesem Gesetz gegebene Rechtsbehelfe ausgeschlossen oder eingeschränkt werden.
+(2) Durch Vorschriften nach Absatz 1 dürfen weder die Voraussetzungen für die Anerkennung eines Auslandsbonds oder die Erteilung eines Feststellungsbescheides geändert noch die von den Beteiligten nach diesem Gesetz zu ergreifenden Maßnahmen erschwert oder nach diesem Gesetz gegebene Rechtsbehelfe ausgeschlossen oder eingeschränkt werden.
 
 (3) Rechtsverordnungen nach *§ 1 Abs. 2,* § 5 Abs. 3, 4, § 8 Abs. 1 Satz 3, Abs. 6, § 9 Abs. 1, 4 und 5, *§ 21 Abs. 2,* § 23 Abs. 5, § 24 Abs. 4, § 35 Abs. 2, § 58, § 76 Abs. 1 bedürfen nicht der Zustimmung des Bundesrates.
 
@@ -909,7 +909,7 @@ In- und ausländische Vorschriften, nach denen Zahlungen oder die Einfuhr, Ausfu
 
 (1) Verordnungen nach § 5 Abs. 3, 4, § 8 Abs. 1 Satz 3, § 9 Abs. 1, 4 und 5, *§ 21 Abs. 2,* § 23 Abs. 5, § 24 Abs. 4, § 35 Abs. 2, § 76 Abs. 1 sollen nur erlassen werden, nachdem das beteiligte Begebungsland sich mit der beabsichtigten Regelung einverstanden erklärt hat. Dasselbe gilt von einer Änderung oder Aufhebung der bezeichneten Verordnungen. Weitergehende Verpflichtungen aus einem Abkommen mit dem Begebungsland über den Erlaß und Inhalt der Verordnungen bleiben unberührt.
 
-(2) Für Maßnahmen, die nach diesem Gesetz der Mitwirkung des Begebungslands bedürfen, genügt die Mitwirkung von Vereinigungen des Begebungslands, welche die Interessen der Gläubiger von deutschen Auslandsbonds wahrnehmen, wenn die Regierung des als Begebungsland geltenden Staates zustimmt. Die Zustimmung kann als erteilt angesehen werden, wenn die Regierung innerhalb dreier Monate nach Mitteilung der beabsichtigten Maßnahmen nicht widerspricht.
+(2) Für Maßnahmen, die nach diesem Gesetz der Mitwirkung des Begebungslandes bedürfen, genügt die Mitwirkung von Vereinigungen des Begebungslandes, welche die Interessen der Gläubiger von deutschen Auslandsbonds wahrnehmen, wenn die Regierung des als Begebungsland geltenden Staates zustimmt. Die Zustimmung kann als erteilt angesehen werden, wenn die Regierung innerhalb dreier Monate nach Mitteilung der beabsichtigten Maßnahmen nicht widerspricht.
 
 § 77 Abs. 1 Satz 1 Kursivdruck: Gegenstandslose Ermächtigung
 
