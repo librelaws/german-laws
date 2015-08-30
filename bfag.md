@@ -2,7 +2,7 @@ Gesetz über die Errichtung der Bundesversicherungsanstalt für Angestellte ()
 ============================================================================
 
 Stand  
-Zuletzt geändert durch Art. 15 Abs. 92 G v. 5.2.2009 I 160
+Zuletzt geändert durch Art. 443 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -179,7 +179,7 @@ Auf Verlangen ist der Bundesversicherungsanstalt Auskunft über Vermögensverhä
 
 ### § 23
 
-Streitigkeiten, die sich zwischen Rechtsträgern des öffentlichen Rechtes aus der in § 19 getroffenen Regelung der vermögensrechtlichen Verhältnisse ergeben, entscheidet ein Schiedsgericht. Das Schiedsgericht besteht aus einem Vorsitzenden und zwei Beisitzern, von denen jede Partei einen ernennt. Den Vorsitzenden bestimmt das Bundesministerium der Justiz. Für das Verfahren finden die Vorschriften der Zivilprozeßordnung entsprechende Anwendung.
+Streitigkeiten, die sich zwischen Rechtsträgern des öffentlichen Rechtes aus der in § 19 getroffenen Regelung der vermögensrechtlichen Verhältnisse ergeben, entscheidet ein Schiedsgericht. Das Schiedsgericht besteht aus einem Vorsitzenden und zwei Beisitzern, von denen jede Partei einen ernennt. Den Vorsitzenden bestimmt das Bundesministerium der Justiz und für Verbraucherschutz. Für das Verfahren finden die Vorschriften der Zivilprozeßordnung entsprechende Anwendung.
 
 ### § 24
 
