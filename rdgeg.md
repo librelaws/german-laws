@@ -2,7 +2,7 @@ Einführungsgesetz zum Rechtsdienstleistungsgesetz (RDGEG)
 =========================================================
 
 Stand  
-Zuletzt geändert durch Art. 9 G v. 22.12.2011 I 3057
+Zuletzt geändert durch Art. 143 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -80,6 +80,8 @@ gestattet war. In den Fällen der Nummern 1 bis 3 ist der Umfang der Befugnis zu
 (3) Für die Erstattung der Vergütung der in Absatz 1 Satz 1 genannten Personen und der Kammerrechtsbeistände in einem gerichtlichen Verfahren gelten die Vorschriften der Verfahrensordnungen über die Erstattung der Vergütung eines Rechtsanwalts entsprechend.
 
 (4) Die Erstattung der Vergütung von Personen, die Inkassodienstleistungen erbringen (registrierte Personen nach § 10 Abs. 1 Satz 1 Nr. 1 des Rechtsdienstleistungsgesetzes), für die Vertretung im Zwangsvollstreckungsverfahren richtet sich nach § 788 der Zivilprozessordnung. Ihre Vergütung für die Vertretung im gerichtlichen Mahnverfahren ist bis zu einem Betrag von 25 Euro nach § 91 Abs. 1 der Zivilprozessordnung erstattungsfähig.
+
+(5) Die Inkassokosten von Personen, die Inkassodienstleistungen erbringen (registrierte Personen nach § 10 Absatz 1 Satz 1 Nummer 1 des Rechtsdienstleistungsgesetzes), für außergerichtliche Inkassodienstleistungen, die eine nicht titulierte Forderung betreffen, sind nur bis zur Höhe der einem Rechtsanwalt nach den Vorschriften des Rechtsanwaltsvergütungsgesetzes zustehenden Vergütung erstattungsfähig. Das Bundesministerium der Justiz und für Verbraucherschutz regelt durch Rechtsverordnung mit Zustimmung des Bundestages und ohne Zustimmung des Bundesrates unter Berücksichtigung des Umfangs der Tätigkeit Höchstsätze für die Gebühren, deren Erstattung der Gläubiger von einer Privatperson (§ 11a Absatz 2 des Rechtsdienstleistungsgesetzes) verlangen kann. Dabei können Höchstsätze insbesondere für das erste Mahnschreiben nach Eintritt des Verzugs und für die Vergütung, die bei der Beitreibung von mehr als 100 gleichartigen, innerhalb eines Monats dem Inkassodienstleister übergebenen Forderungen desselben Gläubigers erstattungsfähig ist, festgesetzt werden.
 
 ### § 5 Diplom-Juristen aus dem Beitrittsgebiet
 
