@@ -2,7 +2,7 @@ Fischseuchenverordnung ()
 =========================
 
 Stand  
-Geändert durch Art. 2 Abs. 89 G v. 22.12.2011 I 3044
+Zuletzt geändert durch Art. 389 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -12,7 +12,11 @@ Diese Verordnung dient der Umsetzung der Richtlinie 2006/88/EG des Rates vom 24.
 (+++ Textnachweis ab: 29.11.2008 +++)
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
      Umsetzung der
-       EGRL 88/2006            (CELEX Nr: 306L0088) +++)
+       EGRL 88/2006   (CELEX Nr: 32006L0088)
+     Umsetzung der
+       EURL 31/2012   (CELEX Nr: 32012L0031) vgl. V v. 14.12.2012 I 2697
+     Umsetzung der 
+       EURL 22/2014   (CELEX Nr: 32014L0022) vgl. V v. 24.9.2014 I 1558   +++)
 ```
 
 Die V wurde als Artikel 1 der V v. 24.11.2008 I 2315 vom Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz mit Zustimmung des Bundesrates erlassen. Sie ist gem. Art. 3 Satz 1 dieser V am 29.11.2008 in Kraft getreten.
@@ -144,7 +148,7 @@ Angelteich:Teich oder sonstige Anlage, in denen der Bestand ausschließlich für
 (2) Im Sinne dieser Verordnung liegt vor:
 
 1.  
-Ausbruch einer der in Anlage 1 genannten Seuchen, wenn diese durch die in Anlage 1 jeweils bezeichnete Untersuchung festgestellt ist;
+Ausbruch einer der in Anlage 1 Spalte 1 genannten Seuchen, wenn diese durch eine der in Anlage 1 Spalte 2 jeweils bezeichnete Untersuchung bei einer der in Anlage 1 Spalte 3 jeweils bezeichneten empfänglichen Art festgestellt worden ist;
 
 2.  
 Verdacht des Ausbruchs, wenn bei Fischen aus Aquakultur das Ergebnis der
@@ -158,7 +162,9 @@ klinischen und epidemiologischen Untersuchung oder
 c)  
 pathologisch-anatomischen und epidemiologischen Untersuchung
 
-den Ausbruch einer der in Anlage 1 genannten Seuchen befürchten lässt. Für die Untersuchung auf die in Anlage 1 genannten Seuchen gelten die Verfahren, die die Europäische Kommission auf Grund des Artikels 57 Buchstabe b der Richtlinie 2006/88/EG des Rates vom 24. Oktober 2006 mit Gesundheits- und Hygienevorschriften für Tiere in Aquakultur und Aquakulturerzeugnisse und zur Verhütung und Bekämpfung bestimmter Wassertierkrankheiten (ABl. EU Nr. L 328 S. 14, 2007 Nr. L 140 S. 59) erlassen und die das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz (Bundesministerium) im Bundesanzeiger bekannt gemacht hat.
+den Ausbruch einer der in Anlage 1 Spalte 1 genannten Seuchen befürchten lässt.
+
+Für die Untersuchung auf die in Anlage 1 Spalte 1 genannten Seuchen gelten die Verfahren, die die Europäische Kommission auf Grund des Artikels 57 Buchstabe b der Richtlinie 2006/88/EG des Rates vom 24. Oktober 2006 mit Gesundheits- und Hygienevorschriften für Tiere in Aquakultur und Aquakulturerzeugnisse und zur Verhütung und Bekämpfung bestimmter Wassertierkrankheiten (ABl. EU Nr. L 328 S. 14, 2007 Nr. L 140 S. 59) erlassen und die das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) im Bundesanzeiger bekannt gemacht hat.
 
 Abschnitt 2 Genehmigung und Registrierung
 -----------------------------------------
@@ -232,11 +238,13 @@ Abschnitt 3 Pflichten des Betreibers und anderer Verantwortlicher
 
 ### § 7 Untersuchungen, Mitteilungspflicht
 
-(1) Wer eine genehmigungspflichtige Tätigkeit nach § 3 ausübt, hat Fische aus Aquakultur, die für die in Anlage 1 genannten Seuchen empfänglich sind, nach Maßgabe des Anhangs III Teil B der Richtlinie 2006/88/EG in geeigneter Weise untersuchen zu lassen. Sofern eine Laboruntersuchung hierfür erforderlich ist, ist diese von einem von der zuständigen Behörde benannten Laboratorium durchzuführen.
+(1) Wer eine genehmigungspflichtige Tätigkeit nach § 3 ausübt, hat die in der Anlage 1 Spalte 3 bezeichneten Fische aus Aquakultur, die für die jeweils in Anlage 1 Spalte 1 genannten Seuchen empfänglich sind, nach Maßgabe des Anhangs III Teil B der Richtlinie 2006/88/EG in geeigneter Weise untersuchen zu lassen. Soweit eine Laboruntersuchung hierfür erforderlich ist, ist diese von einer von der zuständigen Behörde benannten Untersuchungseinrichtung durchzuführen.
 
 (2) Die zuständige Behörde kann die Untersuchung nach Absatz 1 anordnen, wenn in einem Betrieb eine andere als in Absatz 1 genannte Tätigkeit ausgeübt wird und das Risiko einer Infektion mit einer Seuche in diesem Betrieb besteht oder von diesem ausgeht.
 
 (3) Wird bei Fischen aus Aquakultur eine erhöhte Sterblichkeitsrate festgestellt, die nicht eindeutig auf Haltungsbedingungen oder Transportbedingungen zurückgeführt werden kann, ohne dass ein Ausbruch oder ein Verdacht im Sinne des § 2 Abs. 2 Nr. 1 oder 2 vorliegt, hat der Betreiber des Aquakulturbetriebes dies der zuständigen Behörde unverzüglich mitzuteilen. Diese Verpflichtung obliegt auch den für die Fische verantwortlichen Personen, die nicht Betreiber des Aquakulturbetriebes sind.
+
+(4) Die Absätze 1 bis 3 lassen die Befugnis der Länder unberührt, unter Beachtung der Vorschriften der Richtlinie 2006/88/EG eigene Vorschriften zu erlassen, die das Nähere der Untersuchungen nach Absatz 1 einschließlich der Sachkunde derjenigen Personen, die die Untersuchungen durchführen, regeln.
 
 ### § 8 Buchführung
 
@@ -291,15 +299,15 @@ Abschnitt 4 Überwachung, Schutzgebiet, Impfverbot
 
 ### § 10 Schutzgebiet
 
-(1) Die zuständige Behörde kann unter den Voraussetzungen des Artikels 50 der Richtlinie 2006/88/EG ein Gebiet zum Schutzgebiet erklären, soweit dieses frei von einer oder mehreren der in Anlage 1 Nr. 2 aufgeführten Seuchen ist. Sie teilt dem Bundesministerium die Schutzgebiete mit. Die Mitteilung enthält die in Anhang II der Richtlinie 2006/88/EG festgelegten Angaben entsprechend den Vorgaben der Entscheidung 2008/392/EG der Kommission vom 30. April 2008 zur Durchführung der Richtlinie 2006/88/EG des Rates hinsichtlich der Einrichtung einer Website für Informationen über Aquakulturbetriebe und genehmigte Verarbeitungsbetriebe (ABl. EU Nr. L 138 S. 12).
+(1) Die zuständige Behörde kann unter den Voraussetzungen des Artikels 50 der Richtlinie 2006/88/EG ein Gebiet zum Schutzgebiet erklären, soweit dieses frei von einer oder mehreren der in Anlage 1 Spalte 1 Nr. 2 aufgeführten Seuchen ist. Sie teilt dem Bundesministerium die Schutzgebiete mit. Die Mitteilung enthält die in Anhang II der Richtlinie 2006/88/EG festgelegten Angaben entsprechend den Vorgaben der Entscheidung 2008/392/EG der Kommission vom 30. April 2008 zur Durchführung der Richtlinie 2006/88/EG des Rates hinsichtlich der Einrichtung einer Website für Informationen über Aquakulturbetriebe und genehmigte Verarbeitungsbetriebe (ABl. EU Nr. L 138 S. 12).
 
 (2) Das Bundesministerium macht die Schutzgebiete im Bundesanzeiger bekannt.
 
 ### § 11 Impfverbot
 
-(1) Impfungen gegen die in Anlage 1 Nr. 1 aufgeführten Seuchen (exotische Seuchen) sind verboten. Dies gilt nicht, soweit die Europäische Kommission Impfungen nach Artikel 42 oder Artikel 47 der Richtlinie 2006/88/EG genehmigt und das Bundesministerium dies im Bundesanzeiger bekannt gemacht hat.
+(1) Impfungen gegen die in Anlage 1 Spalte 1 Nr. 1 aufgeführten Seuchen (exotische Seuchen) sind verboten. Dies gilt nicht, soweit die Europäische Kommission Impfungen nach Artikel 42 oder Artikel 47 der Richtlinie 2006/88/EG genehmigt und das Bundesministerium dies im Bundesanzeiger bekannt gemacht hat.
 
-(2) Impfungen gegen die in Anlage 1 Nr. 2 aufgeführten Seuchen (nicht exotische Seuchen) sind in einem von dieser nicht exotischen Seuche freien Schutzgebiet und in Betrieben, die einem Überwachungsprogramm nach Artikel 44 der Richtlinie 2006/88/EG unterliegen, verboten.
+(2) Impfungen gegen die in Anlage 1 Spalte 1 Nr. 2 aufgeführten Seuchen (nicht exotische Seuchen) sind in einem von dieser nicht exotischen Seuche freien Schutzgebiet und in Betrieben, die einem Überwachungsprogramm nach Artikel 44 der Richtlinie 2006/88/EG unterliegen, verboten.
 
 (3) Abweichend von Absatz 1 Satz 1 und Absatz 2 kann die zuständige Behörde Impfungen für wissenschaftliche Studien zum Zwecke der Entwicklung und Testung von Impfstoffen genehmigen.
 
@@ -310,7 +318,7 @@ Abschnitt 5 Besondere Vorschriften für das Inverkehrbringen und den Transport v
 
 ### § 12 Inverkehrbringen
 
-(1) Fische aus Aquakultur oder ihre Erzeugnisse dürfen vorbehaltlich der §§ 13 bis 16 nur in den Verkehr gebracht werden, soweit sie die Fische am Bestimmungsort im Hinblick auf die in Anlage 1 aufgeführten Seuchen nicht gefährden.
+(1) Fische aus Aquakultur oder ihre Erzeugnisse dürfen vorbehaltlich der §§ 13 bis 16 nur in den Verkehr gebracht werden, soweit sie die Fische am Bestimmungsort im Hinblick auf die in Anlage 1 Spalte 1 aufgeführten Seuchen nicht gefährden.
 
 (2) Die zuständige Behörde kann das Inverkehrbringen von Fischen aus Aquakultur oder ihren Erzeugnissen, die die Anforderungen des Absatzes 1 nicht erfüllen, zu wissenschaftlichen Zwecken genehmigen.
 
@@ -351,11 +359,11 @@ nicht aus der Hälterung eines genehmigten Verarbeitungsbetriebes stammen.
 
 (3) Fische aus Aquakultur dürfen zum Zwecke der weiteren Haltung oder des Besatzes in Schutzgebiete nur verbracht werden, soweit sie aus Schutzgebieten stammen.
 
-(4) Die zuständige Behörde kann anordnen, dass Fische aus Aquakultur in freie Gewässer oder in Angelteiche nur verbracht werden dürfen, soweit sie aus einem im Hinblick auf die in Anlage 1 aufgeführten seuchenfreien Schutzgebiet stammen.
+(4) Die zuständige Behörde kann anordnen, dass Fische aus Aquakultur in freie Gewässer oder in Angelteiche nur verbracht werden dürfen, soweit sie aus einem Schutzgebiet stammen, das frei von den in Anlage 1 Spalte 1 Nummer 2 aufgeführten Seuchen ist.
 
 ### § 15 Inverkehrbringen zur Weiterverarbeitung
 
-Fische aus Aquakultur, die für eine der in Anlage 1 Nr. 2 aufgeführten Seuchen empfänglich sind, und ihre Erzeugnisse dürfen zur Weiterverarbeitung in Schutzgebiete, die frei von diesen Seuchen sind, nur in den Verkehr gebracht werden, soweit
+Die in Anlage 1 Spalte 3 bezeichneten Fische aus Aquakultur, die für eine der in Anlage 1 Spalte 1 Nummer 2 jeweils aufgeführten Seuchen empfänglich sind, und ihre Erzeugnisse dürfen zur Weiterverarbeitung in Schutzgebiete, die frei von diesen Seuchen sind, nur in den Verkehr gebracht werden, soweit
 
 1.  
 sie aus Schutzgebieten stammen, die frei von diesen Seuchen sind,
@@ -371,7 +379,7 @@ Weichtiere oder Krebstiere unverarbeitet oder als Verarbeitungserzeugnisse versa
 
 ### § 16 Inverkehrbringen wildlebender Fische
 
-Wildlebende Fische, die nicht aus einem Schutzgebiet stammen, das von einer in Anlage 1 aufgeführten Seuche frei ist, und die für diese Seuche empfänglich sind, dürfen in Aquakulturbetriebe oder Weichtierzuchtgebiete in Schutzgebieten, die frei von dieser Seuche sind, nur in den Verkehr gebracht werden, soweit sie vor dem Inverkehrbringen in einer geeigneten Station unter Überwachung der zuständigen Behörde für einen ausreichend langen Zeitraum in Quarantäne gehalten worden sind.
+Die in Anlage 1 Spalte 3 bezeichneten empfänglichen Arten wildlebender Fische, die nicht aus einem Schutzgebiet stammen, das von einer in Anlage 1 Spalte 1 Nummer 2 jeweils aufgeführten Seuche frei ist, dürfen in Aquakulturbetriebe oder Weichtierzuchtgebiete in Schutzgebieten, die frei von dieser Seuche sind, nur in den Verkehr gebracht werden, soweit sie vor dem Inverkehrbringen in einer geeigneten Station unter Überwachung der zuständigen Behörde für einen ausreichend langen Zeitraum in Quarantäne gehalten worden sind.
 
 ### § 17 Inverkehrbringen von Fischen zu Zierzwecken
 
@@ -474,7 +482,7 @@ Von Fischen aus Aquakultur stammende Teile, Rohstoffe, Erzeugnisse sowie Futterm
 7.  
 Personen dürfen den Aquakulturbetrieb nur mit Genehmigung der zuständigen Behörde betreten und müssen vor jedem Verlassen der Anlage ihr Schuhwerk reinigen und desinfizieren.
 
-(2) Alle der amtlichen Beobachtung nach § 19 Abs. 2 unterliegenden Aquakulturbetriebe sind nach näherer Anweisung der zuständigen Behörde auf die in Anlage 1 aufgeführte exotische Seuche zu untersuchen. Die zuständige Behörde kann die Maßnahmen nach Satz 1 auch für die in § 6 Abs. 1 genannten Betriebe anordnen.
+(2) Alle der amtlichen Beobachtung nach § 19 Abs. 2 unterliegenden Aquakulturbetriebe sind nach näherer Anweisung der zuständigen Behörde auf die in Anlage 1 Spalte 1 Nummer 1 aufgeführte exotische Seuche zu untersuchen. Die zuständige Behörde kann die Maßnahmen nach Satz 1 auch für die in § 6 Abs. 1 genannten Betriebe anordnen.
 
 (3) § 19 Abs. 3 gilt entsprechend.
 
@@ -600,7 +608,7 @@ die Desinfektion des Betriebes oder einzelner in sich abgeschlossener Teile des 
 
 (4) Die zuständige Behörde hebt die Festlegung als Überwachungsgebiet nach den §§ 21 und 27 auf, soweit die Untersuchungen in dem Überwachungsgebiet mit negativem Ergebnis abgeschlossen worden sind.
 
-(5) Nach Aufhebung der Schutzmaßregeln wegen einer in Anlage 1 aufgeführten exotischen Seuche kann die zuständige Behörde den Wiederbesatz eines Aquakulturbetriebes von dem Ergebnis der Untersuchung nach § 20 Abs. 2 Satz 1 abhängig machen.
+(5) Nach Aufhebung der Schutzmaßregeln wegen einer in Anlage 1 Spalte 1 Nummer 1 aufgeführten exotischen Seuche kann die zuständige Behörde den Wiederbesatz eines Aquakulturbetriebes von dem Ergebnis der Untersuchung nach § 20 Abs. 2 Satz 1 abhängig machen.
 
 Abschnitt 7 Ordnungswidrigkeiten, Übergangsbestimmungen
 -------------------------------------------------------
@@ -609,53 +617,52 @@ Abschnitt 7 Ordnungswidrigkeiten, Übergangsbestimmungen
 
 ### § 29 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 1 Buchstabe b des Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  
-einer mit einer Genehmigung nach § 19 Abs. 1 Nr. 3, 5 oder 6, § 20 Abs. 1 Nr. 6 oder 7, § 21 Abs. 1 Satz 3, § 22 Abs. 1 Nr. 2 oder § 24 Abs. 1 Nr. 2 verbundenen vollziehbaren Auflage oder
+ohne Genehmigung nach § 3 Satz 1 einen Fisch hält, verbringt oder abgibt oder einen toten Fisch oder einen Teil davon verbringt, abgibt oder verwertet,
 
 2.  
-einer vollziehbaren Auflage nach § 4 Abs. 3 Satz 1 oder einer vollziehbaren Anordnung nach § 7 Abs. 2, § 8 Abs. 3, § 9 Abs. 2, § 20 Abs. 1 Nr. 2, § 21 Abs. 1 Satz 2 Nr. 1, auch in Verbindung mit § 27 Satz 2, § 22 Abs. 1 Nr. 1, auch in Verbindung mit § 25 Nr. 2, § 22 Abs. 2, auch in Verbindung mit § 24 Abs. 2 oder § 25 Nr. 2, § 23 Abs. 1 Satz 3 oder § 26 Abs. 1 Satz 2, auch in Verbindung mit § 26 Abs. 2,
-
-zuwiderhandelt.
-
-(2) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 2 des Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  
-ohne Genehmigung nach § 3 Satz 1 oder ohne Registrierung nach § 6 Abs. 1 Fische hält, verbringt oder abgibt oder tote Fische oder Teile davon verbringt, abgibt oder verwertet,
-
-2.  
-entgegen § 6 Abs. 2 eine Anzeige nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+einer vollziehbaren Auflage nach § 4 Absatz 3 Satz 1 zuwiderhandelt,
 
 3.  
-entgegen § 7 Abs. 3 eine Mitteilung nicht, nicht richtig oder nicht rechtzeitig macht,
+ohne Registrierung nach § 6 Absatz 1 eine dort genannte Tätigkeit ausübt,
 
 4.  
-entgegen § 8 Abs. 1 ein Buch nicht, nicht richtig oder nicht vollständig führt,
+einer vollziehbaren Anordnung nach § 7 Absatz 2, § 8 Absatz 3, § 9 Absatz 2, § 20 Absatz 1 Nummer 2, § 21 Absatz 1 Satz 2 Nummer 1, auch in Verbindung mit § 27 Satz 2, nach § 22 Absatz 1 Nummer 1, auch in Verbindung mit § 25 Nummer 2, nach § 22 Absatz 2, auch in Verbindung mit § 24 Absatz 2 oder § 25 Nummer 2, nach § 23 Absatz 1 Satz 3 oder § 26 Absatz 1 Satz 2, auch in Verbindung mit § 26 Absatz 2, zuwiderhandelt,
 
 5.  
-entgegen § 8 Abs. 2 Satz 2 ein Buch nicht oder nicht mindestens drei Jahre aufbewahrt,
+entgegen § 7 Absatz 3 Satz 1, auch in Verbindung mit Satz 2, eine Mitteilung nicht, nicht richtig oder nicht rechtzeitig macht,
 
 6.  
-entgegen § 11 Abs. 1 Satz 1 oder Abs. 2 impft,
+entgegen § 8 Absatz 1 ein Buch nicht, nicht richtig oder nicht vollständig führt,
 
 7.  
-entgegen § 13 Abs. 1 Fische aus Aquakultur verbringt,
+entgegen § 8 Absatz 2 Satz 2 ein Buch nicht oder nicht mindestens drei Jahre aufbewahrt,
 
 8.  
-entgegen § 18 Abs. 2 Satz 2 oder Abs. 3 Satz 2 Flüssigkeiten einleitet,
+entgegen § 11 Absatz 1 Satz 1 oder Absatz 2 gegen eine dort genannte Seuche impft,
 
 9.  
-entgegen § 19 Abs. 1 Nr. 3, 4 oder 5, § 20 Abs. 1 Nr. 6, § 21 Abs. 1 Satz 3, § 22 Abs. 1 Nr. 2 oder § 24 Abs. 1 Nr. 2 Fische aus Aquakultur oder von ihnen stammende Teile, Rohstoffe, Erzeugnisse, Futtermittel oder sonstige Gegenstände verbringt oder abgibt,
+entgegen § 13 Absatz 1 oder § 19 Absatz 1 Nummer 4 einen Fisch verbringt,
 
 10.  
-entgegen § 19 Abs. 1 Nr. 6 oder § 20 Abs. 1 Nr. 7 einen Aquakulturbetrieb betritt,
+entgegen § 18 Absatz 2 Satz 2 oder Absatz 3 Satz 2 Flüssigkeit einleitet,
 
 11.  
-entgegen § 19 Abs. 1 Nr. 7 oder § 20 Abs. 1 Nr. 4 ein Transportmittel nicht oder nicht rechtzeitig reinigt oder nicht oder nicht rechtzeitig desinfiziert oder
+ohne Genehmigung nach § 19 Absatz 1 Nummer 3 oder Nummer 5, § 20 Absatz 1 Nummer 6, § 21 Absatz 1 Satz 3, § 22 Absatz 1 Nummer 2 oder § 24 Absatz 1 Nummer 2 einen Fisch, ein Teil, einen Rohstoff, ein Erzeugnis, ein Futtermittel oder einen sonstigen Gegenstand verbringt oder abgibt,
 
 12.  
-entgegen § 20 Abs. 1 Nr. 1 verendete Fische aus Aquakultur nicht, nicht richtig oder nicht rechtzeitig beseitigt und nicht, nicht richtig oder nicht rechtzeitig beseitigen lässt.
+einer mit einer Genehmigung nach § 19 Absatz 1 Nummer 3, 5 oder Nummer 6, § 20 Absatz 1 Nummer 6 oder Nummer 7, § 21 Absatz 1 Satz 3, § 22 Absatz 1 Nummer 2 oder § 24 Absatz 1 Nummer 2 verbundenen vollziehbaren Auflage zuwiderhandelt,
+
+13.  
+ohne Genehmigung nach § 19 Absatz 1 Nummer 6 oder § 20 Absatz 1 Nummer 7 einen Aquakulturbetrieb betritt,
+
+14.  
+entgegen § 19 Absatz 1 Nummer 7 oder § 20 Absatz 1 Nummer 4 ein Transportmittel nicht oder nicht rechtzeitig reinigt oder nicht oder nicht rechtzeitig desinfiziert oder
+
+15.  
+entgegen § 20 Absatz 1 Nummer 1 einen Fisch nicht, nicht richtig oder nicht rechtzeitig beseitigt und nicht, nicht richtig oder nicht rechtzeitig beseitigen lässt.
 
 ### § 30 Übergangsbestimmungen
 
@@ -671,24 +678,36 @@ Die vorläufige Genehmigung erlischt, wenn nicht innerhalb von sechs Monaten nac
 
 (2) Die nach § 13 oder § 14 der Fischseuchenverordnung in der Fassung der Bekanntmachung vom 20. Dezember 2005 (BGBl. I S. 3563) zugelassenen Gebiete oder Betriebe gelten als Schutzgebiete nach § 10.
 
-### Anlage 1 (zu den §§ 2, 7, 10, 11, 12, 15, 16)Liste der Seuchen
+### Anlage 1 (zu den §§ 2, 7, 10, 11, 12, 14, 15, 16, 20, 28)Liste der Seuchen
 
-(Fundstelle: BGBl. I 2008, 2324)
+(Fundstelle: BGBl. I 2014, 1559 - 1560)
 
-|     |                      |
-|-----|----------------------|
-|     | **Untersuchungsart** |
+1
 
-histologisch
+2
 
-molekularbiologisch
+3
 
-mykologisch
+Seuchen
 
-parasito-
+Untersuchungsmethoden
+
+Empfängliche Arten
+
+histo-
 logisch
 
-virologisch
+mole-
+kular-
+bio-
+logisch
+
+para-
+sito-
+logisch
+
+viro-
+logisch
 
 1.
 
@@ -702,11 +721,7 @@ X
 
 X
 
-Epizootisches Ulzeratives Syndrom
-
-X
-
-X
+Regenbogenforelle (Oncorhynchus mykiss), Europäischer Flussbarsch (Perca fluviatilis)
 
 Weichtiere:
 
@@ -716,11 +731,15 @@ X
 
 X
 
+Australische Flachauster (Ostrea angasi), Chilenische Flachauster (Ostrea chilensis)
+
 Infektion mit Perkinsus marinus
 
 X
 
 X
+
+Pazifische Auster (Crassostrea gigas), Amerikanische Auster (Crassostrea virginica)
 
 Infektion mit Microcytos mackini
 
@@ -728,19 +747,22 @@ X
 
 X
 
+Pazifische Auster (Crassostrea gigas), Amerikanische Auster (Crassostrea virginica), Westamerikanische Auster (Ostrea conchaphila), Europäische Auster (Ostrea edulis)
+
 Krebstiere:
 
 Taura-Syndrom
 
 X
 
-X
+Atlantische Weiße Garnele (Penaeus setiferus), Pazifische Blaue Garnele
+(Penaeus stylirostris), Pazifische Weiße Garnele (Penaeus vannamei)
 
 Yellowhead Disease
 
 X
 
-X
+Atlantische Braune Garnele (Penaeus aztecus), Nördliche Rosa Garnele (Penaeus duorarum), Radgarnele (Penaeus japonicus), Schwarze Tigergarnele (Penaeus monodon), Atlantische Weiße Garnele (Penaeus setiferus), Pazifische Blaue Garnele (Penaeus stylirostris), Pazifische Weiße Garnele (Penaeus vannamei)
 
 2.
 
@@ -754,23 +776,31 @@ X
 
 X
 
+Hering (Clupea spp.), Felchen (Coregonus sp.), Hecht (Esox lucius), Schellfisch (Gadus aeglefinus), Pazifischer Kabeljau (Gadus macrocephalus), Dorsch (Gadus morhua), Pazifischer Lachs (Oncorhynchus spp.), Regenbogenforelle (Oncorhynchus mykiss), Seequappe (Onos mustelus), Forelle (Salmo trutta), Steinbutt (Scophthalmus maximus), Sprotte (Sprattus sprattus), Äsche (Thymallus thymallus), Japanische Flunder (Paralichthys olivaceus)
+
 Infektiöse hämatopoetische Nekrose
 
 X
 
 X
 
-Koi-Herpes-Viruserkrankung
+Keta-Lachs (Oncorhynchus keta), Silberlachs (Oncorhynchus kisutch), Japan-Lachs (Oncorhynchus masou), Regenbogenforelle (Oncorhynchus mykiss), Rotlachs (Oncorhynchus nerka), Biwa-Forelle (Oncorhynchus rhodurus), Königslachs (Oncorhynchus tshawytscha), Atlantischer Lachs (Salmo salar)
+
+Koi-Herpes-Infektion
 
 X
 
 X
 
-Infektiöse Anämie der Lachse
+Karpfen (Cyprinus carpio)
+
+Infektiöse Anämie der Lachse: Infektion mit Genotyp HPR-deletiert der Art Isavirus
 
 X
 
 X
+
+Regenbogenforelle (Oncorhynchus mykiss), Atlantischer Lachs (Salmo salar), Forelle (Salmo trutta)
 
 Weichtiere:
 
@@ -780,17 +810,23 @@ X
 
 X
 
+Australische Flachauster (Ostrea angasi), Chilenische Flachauster (Ostrea chilensis), Europäische Auster (Ostrea edulis), Argentinische Auster (Ostrea puelchana), Miesmuschel (Mytilus edulis), Mittelmeermiesmuschel (Mytilus galloprovincialis)
+
 Infektion mit Bonamia ostreae
 
 X
 
 X
 
+Australische Flachauster (Ostrea angasi), Chilenische Flachauster (Ostrea chilensis), Westamerikanische Auster (Ostrea conchaphila), Asiatische Auster (Ostrea denselammellosa), Europäische Auster (Ostrea edulis), Argentinische Auster (Ostrea puelchana)
+
 Krebstiere:
 
 Weißpünktchenkrankheit
 
 X
+
+alle zehnfüßigen Krebstiere (Ordnung der Dekapoden)
 
 ### Anlage 2 (zu § 13)
 
