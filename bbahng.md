@@ -2,7 +2,7 @@ Bundesbahngesetz ()
 ===================
 
 Stand  
-Zuletzt geändert durch Art. 15 Abs. 111 G v. 5.2.2009 I 160
+Zuletzt geändert durch Art. 512 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -84,6 +84,6 @@ Sie führen eine der in Nummer 1 bis 5 genannten Amtsbezeichnungen. § 8 Abs. 1 
 
 ### § 23 Belohnungen und Vergütungen
 
-(1) Der Vorstand der Deutschen Bundesbahn kann mit Zustimmung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung, die im Einvernehmen mit den Bundesministerien des Innern und der Finanzen erteilt wird, Richtlinien für die Gewährung von Belohnungen in besonderen Fällen und für besondere Leistungen erlassen.
+(1) Der Vorstand der Deutschen Bundesbahn kann mit Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur, die im Einvernehmen mit den Bundesministerien des Innern und der Finanzen erteilt wird, Richtlinien für die Gewährung von Belohnungen in besonderen Fällen und für besondere Leistungen erlassen.
 
-(2) Der Vorstand der Deutschen Bundesbahn kann mit Zustimmung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung, die im Einvernehmen mit den Bundesministerien des Innern und der Finanzen erteilt wird, Richtlinien darüber erlassen, inwieweit für die Tätigkeit auf besonders schwierigen Dienstposten des Außendienstes widerrufliche Vergütungen gewährt werden.
+(2) Der Vorstand der Deutschen Bundesbahn kann mit Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur, die im Einvernehmen mit den Bundesministerien des Innern und der Finanzen erteilt wird, Richtlinien darüber erlassen, inwieweit für die Tätigkeit auf besonders schwierigen Dienstposten des Außendienstes widerrufliche Vergütungen gewährt werden.
