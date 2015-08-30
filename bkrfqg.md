@@ -2,7 +2,7 @@ Gesetz über die Grundqualifikation und Weiterbildung der Fahrer bestimmter Kraf
 ===========================================================================================================================================
 
 Stand  
-Geändert durch Art. 1 G v. 25.5.2011 I 952 (1374)
+Geändert durch Art. 478 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -151,7 +151,7 @@ Abschluss einer Berufsausbildung in den Ausbildungsberufen "Berufskraftfahrer/Be
 
 (3) Die Grundqualifikationen nach Absatz 1 oder 2 dienen der Verbesserung der Sicherheit im Straßenverkehr und den allgemeinen beruflichen Fähigkeiten des Fahrers und der Fahrerin durch die Vermittlung besonderer tätigkeitsbezogener Fertigkeiten und Kenntnisse; sie werden jeweils bezogen auf bestimmte Fahrerlaubnisklassen erworben.
 
-(4) Wer im Rahmen des Erwerbs der beschleunigten Grundqualifikation ein Kraftfahrzeug auf öffentlichen Straßen führt und die für das Führen dieses Fahrzeugs vorgeschriebene Fahrerlaubnis nicht besitzt, muss von einer Person begleitet werden, die eine gültige Fahrlehrerlaubnis nach dem Fahrlehrergesetz für die jeweilige Fahrerlaubnisklasse besitzt. Bei diesen Fahrten gilt die Begleitperson als Führer des Kraftfahrzeugs im Sinne des Straßenverkehrsgesetzes. Das Fahrzeug muss den Anforderungen eines für die Fahrausbildung zugelassenen Fahrzeugs genügen.
+(4) Wer im Rahmen des Erwerbs der Grundqualifikation oder der beschleunigten Grundqualifikation ein Kraftfahrzeug auf öffentlichen Straßen führt und die für das Führen dieses Fahrzeugs vorgeschriebene Fahrerlaubnis nicht besitzt, muss von einer Person begleitet werden, die eine gültige Fahrlehrerlaubnis nach dem Fahrlehrergesetz für die jeweilige Fahrerlaubnisklasse besitzt. Bei diesen Fahrten gilt die Begleitperson als Führer des Kraftfahrzeugs im Sinne des Straßenverkehrsgesetzes. Das Fahrzeug muss den Anforderungen eines für die Fahrausbildung zugelassenen Fahrzeugs genügen.
 
 ### § 5 Weiterbildung
 
@@ -224,7 +224,7 @@ sie im angemessenen Verhältnis zur Zahl der Aus- und Weiterbildungsteilnehmer a
 geeignete Schulungsräume sowie Lehrmittel für die theoretische Unterweisung vorhanden sind,
 
 4.  
-eine fortlaufende Weiterbildung des Lehrpersonals nachgewiesen wird und
+eine fortlaufende Weiterbildung des Lehrpersonals gewährleistet wird und
 
 5.  
 keine Tatsachen vorliegen, die gegen die persönliche Zuverlässigkeit des Antragstellers sprechen.
@@ -235,7 +235,7 @@ keine Tatsachen vorliegen, die gegen die persönliche Zuverlässigkeit des Antra
 
 ### § 8 Rechtsverordnungen
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie und dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen zu treffen über
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen zu treffen über
 
 1.  
 die näheren Einzelheiten des Erwerbs der Grundqualifikation und der Weiterbildung, insbesondere über Voraussetzungen der Zulassung der Bewerber oder Bewerberin, Inhalte von Unterricht und Prüfungen sowie die Ausstellung von Bescheinigungen;
