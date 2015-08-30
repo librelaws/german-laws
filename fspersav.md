@@ -2,7 +2,7 @@ Verordnung über das erlaubnispflichtige Personal der Flugsicherung und seine Au
 ==================================================================================================
 
 Stand  
-Geändert durch Art. 1 V v. 23.12.2009 I 3972
+Zuletzt geändert durch Art. 577 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -894,7 +894,7 @@ eine andere gleichwertige Ausbildung.
 
 ### § 31 Medizinische Tauglichkeit
 
-(1) Für das Flugsicherungspersonal nach § 1 Nr. 2 und 3 ist die medizinische Tauglichkeit vor der Einstellung in einer Erstuntersuchung nach der entsprechenden Tauglichkeitsrichtlinie des Bundesministeriums für Verkehr, Bau und Stadtentwicklung vom 25. August 2001, NfL II 78/01, in der jeweils gültigen Fassung nachzuweisen.
+(1) Für das Flugsicherungspersonal nach § 1 Nr. 2 und 3 ist die medizinische Tauglichkeit vor der Einstellung in einer Erstuntersuchung nach der entsprechenden Tauglichkeitsrichtlinie des Bundesministeriums für Verkehr und digitale Infrastruktur vom 25. August 2001, NfL II 78/01, in der jeweils gültigen Fassung nachzuweisen.
 
 (2) Die medizinische Tauglichkeit ist nach der Einstellungsuntersuchung in regelmäßig wiederkehrenden Nachuntersuchungen (Wiederholungsuntersuchungen) nach der in Absatz 1 genannten Richtlinie in folgenden Zeiträumen festzustellen:
 
@@ -907,7 +907,7 @@ bei Flugsicherungsbetriebspersonal im Verwendungsbereich Flugberatung einmal nac
 3.  
 bei flugsicherungstechnischem Personal mindestens alle fünf Jahre ab dem vollendeten 35. Lebensjahr und alle drei Jahre ab dem vollendeten 45. Lebensjahr.
 
-(3) Falls von dem nach der in Absatz 1 genannten Richtlinie des Bundesministeriums für Verkehr, Bau und Stadtentwicklung untersuchenden Arzt eine kürzere Frist für erforderlich gehalten wird, kann eine vorzeitige Nachuntersuchung veranlasst werden. Auch beim Vorliegen besonderer Gründe, die Zweifel an dem Fortbestehen der medizinischen Tauglichkeit aufkommen lassen, ist eine vorzeitige Nachuntersuchung auf Veranlassung der Aufsichtsbehörde durchzuführen.
+(3) Falls von dem nach der in Absatz 1 genannten Richtlinie des Bundesministeriums für Verkehr und digitale Infrastruktur untersuchenden Arzt eine kürzere Frist für erforderlich gehalten wird, kann eine vorzeitige Nachuntersuchung veranlasst werden. Auch beim Vorliegen besonderer Gründe, die Zweifel an dem Fortbestehen der medizinischen Tauglichkeit aufkommen lassen, ist eine vorzeitige Nachuntersuchung auf Veranlassung der Aufsichtsbehörde durchzuführen.
 
 Unterabschnitt 2 Ausbildung und Prüfungen zum Erwerb von Erlaubnissen, Berechtigungen und Sprachenvermerken
 -----------------------------------------------------------------------------------------------------------
