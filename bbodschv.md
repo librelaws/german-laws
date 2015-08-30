@@ -2,7 +2,7 @@ Bundes-Bodenschutz- und Altlastenverordnung (BBodSchV)
 ======================================================
 
 Stand  
-Zuletzt geändert durch Art. 5 Abs. 31 G v. 24.2.2012 I 212
+Zuletzt geändert durch Art. 102 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -390,7 +390,8 @@ Der Bundesrat hat zugestimmt.
 
 ### Anhang 1
 
-(Fundstelle: BGBl. I 1999, 1561 - 1574)
+(Fundstelle: BGBl. I 1999, 1561 - 1574;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -400,7 +401,7 @@ Anforderungen an die Probennahme, Analytik und Qualitätssicherung bei der Unter
 
 Dieser Anhang findet Anwendung bei der Untersuchung von Böden, Bodenmaterialien und sonstigen Materialien, die im Boden oder auf den Böden von Verdachtsflächen oder altlastverdächtigen Flächen vorkommen, oder zum Auf- und Einbringen vorgesehen sind, sowie von Bodenluft.
 Bei altlastverdächtigen Altablagerungen richten sich der Untersuchungsumfang und die Probennahme, insbesondere hinsichtlich der Untersuchungen auf Deponiegas, leichtflüchtige Schadstoffe, abgelagerte Abfälle und des Übergangs von Schadstoffen in das Grundwasser, nach den Erfordernissen des Einzelfalles.
-Im Sinne dieses Anhangs ist der Stand von Verfahren und Methoden der Entwicklungsstand fortschrittlicher Verfahren und Methoden, der ihre praktische Eignung zu den vorstehend genannten Untersuchungen gesichert erscheinen läßt. Erkenntnisse über solche Verfahren und Methoden und über ihre Anwendung werden durch einen ausgewählten Kreis von Fachleuten aus Bund und Ländern sowie der Betroffenen im Benehmen mit den Ländern zusammengestellt, der vom Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit einberufen wird.
+Im Sinne dieses Anhangs ist der Stand von Verfahren und Methoden der Entwicklungsstand fortschrittlicher Verfahren und Methoden, der ihre praktische Eignung zu den vorstehend genannten Untersuchungen gesichert erscheinen läßt. Erkenntnisse über solche Verfahren und Methoden und über ihre Anwendung werden durch einen ausgewählten Kreis von Fachleuten aus Bund und Ländern sowie der Betroffenen im Benehmen mit den Ländern zusammengestellt, der vom Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit einberufen wird.
 
 **1.**  
 **Untersuchungsumfang und erforderlicher Kenntnisstand**
