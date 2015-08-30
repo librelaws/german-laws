@@ -2,7 +2,7 @@ Verordnung über das Verfahren zur Ermittlung des Wertes der von Eigenerzeugern 
 ==================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 397 V v. 31.10.2006 I 2407
+Zuletzt geändert durch Art. 323 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -24,7 +24,7 @@ Auf Grund des § 4 Abs. 3 Satz 2 Nr. 2 des Dritten Verstromungsgesetzes vom 13. 
 
 (1) Der Wert jeder selbst erzeugten und verbrauchten Kilowattstunde bestimmt sich nach dem Durchschnittserlös, den die Elektrizitätsversorgungsunternehmen aus der Lieferung von Elektrizität an letztverbrauchende Sondervertragskunden im Geltungsbereich des Dritten Verstromungsgesetzes je Kilowattstunde erzielt haben, vermindert um die in den §§ 3 bis 7 genannten Abschläge. Maßgebend ist jeweils der Durchschnittserlös des vorletzten Kalenderjahres.
 
-(2) Der Durchschnittserlös je Kilowattstunde nach Absatz 1 wird durch das Bundesministerium für Wirtschaft und Technologie jeweils für ein Kalenderjahr ermittelt und im Bundesanzeiger veröffentlicht. Bei der Berechnung des Durchschnittserlöses bleibt die Lieferung von Einphasen-Fahrstrom an Eisenbahnen des Bundes außer Betracht.
+(2) Der Durchschnittserlös je Kilowattstunde nach Absatz 1 wird durch das Bundesministerium für Wirtschaft und Energie jeweils für ein Kalenderjahr ermittelt und im Bundesanzeiger veröffentlicht. Bei der Berechnung des Durchschnittserlöses bleibt die Lieferung von Einphasen-Fahrstrom an Eisenbahnen des Bundes außer Betracht.
 
 ### § 3
 
