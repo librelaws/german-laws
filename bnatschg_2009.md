@@ -4,6 +4,15 @@ Gesetz über Naturschutz und Landschaftspflege (BNatSchG)
 Stand  
 Zuletzt geändert durch Art. 421 V v. 31.8.2015 I 1474
 
+Hinweis  
+Mittelbare Änderung durch Art. 2 G v. 18.7.2016 I 1666 (Nr. 35) noch nicht berücksichtigt
+
+Hinweis  
+Änderung durch Art. 4 Abs. 96 G v. 18.7.2016 I 1666 (Nr. 35) noch nicht berücksichtigt
+
+Hinweis  
+Änderung durch Art. 2 G v. 4.8.2016 I 1972 (Nr. 40) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
