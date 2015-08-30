@@ -2,7 +2,7 @@ Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der 
 ======================================================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 30 G v. 9.12.2010 I 1934
+Zuletzt geändert durch Art. 405 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -47,7 +47,7 @@ bei Besichtigungen mitzuwirken sowie auf Verlangen geschäftliche Unterlagen vor
 
 ### § 4 Ermächtigung zum Erlass von Rechtsverordnungen
 
-Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates, soweit dies zur Durchführung von in § 1 genannten Rechtsakten erforderlich ist, Vorschriften zu erlassen
+Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates, soweit dies zur Durchführung von in § 1 genannten Rechtsakten erforderlich ist, Vorschriften zu erlassen
 
 1.  
 über das Verfahren zur Gewährung der Förderungen, insbesondere hinsichtlich einzuhaltender Fristen und der Benutzung von Mustern und Vordrucken,
