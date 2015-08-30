@@ -2,7 +2,7 @@ Statut der GBB Genossenschafts-Holding Berlin (Anlage zur Verordnung zur Änderu
 ========================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 342 V v. 31.10.2006 I 2407
+Zuletzt geändert durch Art. 3 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -61,10 +61,10 @@ Organe der Holding sind der Vorstand, der Verwaltungsrat und die Hauptversammlun
 ein Vertreter des Bundesministeriums der Finanzen,
 
 2.  
-ein Vertreter des Bundesministeriums für Wirtschaft und Technologie,
+ein Vertreter des Bundesministeriums für Wirtschaft und Energie,
 
 3.  
-ein Vertreter des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz.
+ein Vertreter des Bundesministeriums für Ernährung und Landwirtschaft.
 
 Die Mitglieder des Verwaltungsrats werden von der Aufsichtsbehörde berufen. Die jeweilige Zahl der Verwaltungsratsmitglieder bestimmt die Aufsichtsbehörde.
 
