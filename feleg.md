@@ -2,7 +2,7 @@ Gesetz zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit
 ======================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 6 G v. 12.4.2012 I 579
+Zuletzt geändert durch Art. 441 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -62,7 +62,7 @@ sie erstmals unter den Voraussetzungen des § 21 Abs. 5 des Gesetzes über die A
 
 (3) Die Fläche muß bis zu dem Zeitpunkt, von dem an Altersrente nach dem Gesetz über die Alterssicherung der Landwirte beansprucht werden kann, mindestens aber für fünf Jahre, stillgelegt werden. Die Zeit einer Stillegung von Flächen, mit denen der Leistungsberechtigte an einem Verfahren nach dem Flurbereinigungsgesetz beteiligt war, oder die Zeit einer Stillegung nach Maßgabe der Verordnung (EWG) Nr. 1094/88 des Rates vom 25. April 1988 zur Änderung der Verordnungen (EWG) Nr. 797/85 und Nr. 1760/87 hinsichtlich der Stillegung von Ackerflächen und der Extensivierung und Umstellung der Erzeugung (ABl. EG Nr. L 106 S. 28) durch Brachlegen ohne Wechselwirtschaft oder durch Erstaufforstung steht hinsichtlich der Mindeststillegungsdauer der Stillegung nach diesem Gesetz gleich.
 
-(4) Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz Näheres über die Voraussetzungen, unter denen eine Fläche als stillgelegt gilt, insbesondere auch über zulässige Pflegemaßnahmen durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen. Dabei sind die Belange des Umwelt- und Naturschutzes, der Landschaftspflege und der Raumordnung zu beachten.
+(4) Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft Näheres über die Voraussetzungen, unter denen eine Fläche als stillgelegt gilt, insbesondere auch über zulässige Pflegemaßnahmen durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen. Dabei sind die Belange des Umwelt- und Naturschutzes, der Landschaftspflege und der Raumordnung zu beachten.
 
 ### § 3 Abgabe von Flächen
 
@@ -424,7 +424,7 @@ Vierter Abschnitt Durchführung, Anwendung sonstiger Vorschriften, Kostentragung
 
 ### § 17 Durchführende Stelle
 
-Dieses Gesetz wird von der landwirtschaftlichen Alterskasse durchgeführt. Sie unterliegt bei der Ausführung des Gesetzes den Weisungen des Bundesministeriums für Arbeit und Soziales, die im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz erteilt werden.
+Dieses Gesetz wird von der landwirtschaftlichen Alterskasse durchgeführt. Sie unterliegt bei der Ausführung des Gesetzes den Weisungen des Bundesministeriums für Arbeit und Soziales, die im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft erteilt werden.
 
 ### § 18 Anwendung sonstiger Vorschriften
 
@@ -440,7 +440,7 @@ ist der Verwaltungsakt mit Wirkung für die Vergangenheit zurückzunehmen. Im ü
 
 (2) Die von der durchführenden Stelle mit der Prüfung und der Überwachung beauftragten Personen dürfen im Rahmen ihres Auftrages tagsüber an Werktagen Grundstücke des Leistungsberechtigten im Sinne des Ersten Abschnittes betreten und dort Prüfungs- und Überwachungsmaßnahmen durchführen, soweit dies zur Überprüfung des Vorliegens der Voraussetzungen einer Maßnahme nach § 2 notwendig ist.
 
-(3) Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates Näheres über die Zusammenarbeit der durchführenden Stellen mit den zuständigen Behörden der Länder zur Sicherstellung der Durchführung dieses Gesetzes, insbesondere bei der Überprüfung des Vorliegens der Voraussetzungen, unter denen eine landwirtschaftliche Fläche als stillgelegt oder abgegeben gilt, bestimmen. Dabei kann die Überprüfung des Vorliegens der Voraussetzungen, unter denen eine landwirtschaftliche Fläche als stillgelegt oder abgegeben gilt, unmittelbar den zuständigen Behörden der Länder übertragen werden.
+(3) Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates Näheres über die Zusammenarbeit der durchführenden Stellen mit den zuständigen Behörden der Länder zur Sicherstellung der Durchführung dieses Gesetzes, insbesondere bei der Überprüfung des Vorliegens der Voraussetzungen, unter denen eine landwirtschaftliche Fläche als stillgelegt oder abgegeben gilt, bestimmen. Dabei kann die Überprüfung des Vorliegens der Voraussetzungen, unter denen eine landwirtschaftliche Fläche als stillgelegt oder abgegeben gilt, unmittelbar den zuständigen Behörden der Länder übertragen werden.
 
 (4) Streitigkeiten in Angelegenheiten dieses Gesetzes sind Streitigkeiten in Angelegenheiten der Sozialversicherung.
 
