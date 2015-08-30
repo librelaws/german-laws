@@ -2,7 +2,7 @@ Gesetz zum Schutz vor schädlichen Bodenveränderungen und zur Sanierung von Alt
 ===============================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 5 Abs. 30 G v. 24.2.2012 I 212
+Zuletzt geändert durch Art. 101 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -441,7 +441,7 @@ verlangt werden können.
 
 (5) Im Einzelfall kann von der Festsetzung eines Ausgleichsbetrages ganz oder teilweise abgesehen werden, wenn dies im öffentlichen Interesse oder zur Vermeidung unbilliger Härten geboten ist. Werden dem öffentlichen Kostenträger Kosten der Sicherung oder Sanierung erstattet, so muß insoweit von der Festsetzung des Ausgleichsbetrages abgesehen, ein festgesetzter Ausgleichsbetrag erlassen oder ein bereits geleisteter Ausgleichsbetrag erstattet werden.
 
-(6) Der Ausgleichsbetrag ruht als öffentliche Last auf dem Grundstück. Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Art und Weise, wie im Grundbuch auf das Vorhandensein der öffentlichen Last hinzuweisen ist, zu regeln.
+(6) Der Ausgleichsbetrag ruht als öffentliche Last auf dem Grundstück. Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Art und Weise, wie im Grundbuch auf das Vorhandensein der öffentlichen Last hinzuweisen ist, zu regeln.
 
 ### § 26 Bußgeldvorschriften
 
