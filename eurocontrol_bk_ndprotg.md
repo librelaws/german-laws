@@ -2,7 +2,7 @@ Gesetz zu dem Protokoll vom 12. Februar 1981 zur Änderung des Internationalen �
 ==================================================================================================================================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 333 V v. 31.10.2006 I 2407
+Zuletzt geändert durch Art. 580 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -20,9 +20,9 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 ### Art 2
 
-(1) Die nach Artikel 3 Abs. 2 Buchstaben b bis f in Verbindung mit Artikel 6 Abs. 1 Buchstabe a der Vereinbarung gefaßten Beschlüsse sind in ihrer jeweils geltenden Fassung von dem Bundesministerium für Verkehr, Bau und Stadtentwicklung im Bundesgesetzblatt bekanntzumachen, soweit sie in der Bundesrepublik Deutschland angewendet werden.
+(1) Die nach Artikel 3 Abs. 2 Buchstaben b bis f in Verbindung mit Artikel 6 Abs. 1 Buchstabe a der Vereinbarung gefaßten Beschlüsse sind in ihrer jeweils geltenden Fassung von dem Bundesministerium für Verkehr und digitale Infrastruktur im Bundesgesetzblatt bekanntzumachen, soweit sie in der Bundesrepublik Deutschland angewendet werden.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Abweichungen von einem Beschluß nach Absatz 1 festzulegen, wenn der Beschluß dieses vorsieht.
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Abweichungen von einem Beschluß nach Absatz 1 festzulegen, wenn der Beschluß dieses vorsieht.
 
 ### Art 3
 
