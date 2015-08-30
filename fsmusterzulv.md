@@ -2,7 +2,7 @@ Verordnung über Art, Umfang, Beschaffenheit, Zulassung, Kennzeichnung und Betri
 ==============================================================================================================================================
 
 Stand  
-Geändert durch Art. 14 G v. 29.7.2009 I 2424
+Zuletzt geändert durch Art. 576 V v. 31.8.2015 I 1474
 
 ### 
 
@@ -132,7 +132,7 @@ für die Betriebsart    A 3 E
 ```
 
 ist auf Einhaltung der Anforderungen und Geräte für Zwecke der Flugsicherung gemäß § 4 Flugsicherungs-Anlagen- und Geräte-Musterzulassungs-Verordnung (FSMusterzulV) geprüft worden.
-Die Anlage oder das Gerät entspricht damit den Festlegungen des Bundesministeriums für Verkehr, Bau und Stadtentwicklung hinsichtlich Art, Umfang und Beschaffenheit von flugsicherungstechnischen Einrichtungen gemäß § 32 Abs. 4 des Luftverkehrsgesetzes sowie den Richtlinien und Empfehlungen der Internationalen Zivilluftfahrt-Organisation (ICAO).
+Die Anlage oder das Gerät entspricht damit den Festlegungen des Bundesministeriums für Verkehr und digitale Infrastruktur hinsichtlich Art, Umfang und Beschaffenheit von flugsicherungstechnischen Einrichtungen gemäß § 32 Abs. 4 des Luftverkehrsgesetzes sowie den Richtlinien und Empfehlungen der Internationalen Zivilluftfahrt-Organisation (ICAO).
 Es wird daher mit den umseitig aufgeführten Auflagen als Muster in der Bundesrepublik Deutschland zugelassen.
 Der Gerätetyp hat die Zulassungsnummer D-0001/2001 erhalten.
 Bundesaufsichtsamt für Flugsicherung Langen, den
