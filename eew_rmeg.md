@@ -2,7 +2,7 @@ Gesetz zur Förderung Erneuerbarer Energien im Wärmebereich (EEWärmeG)
 =====================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 68 G v. 22.12.2011 I 3044
+Zuletzt geändert durch Art. 9 G v. 20.10.2015 I 1722
 
 ### 
 
@@ -21,11 +21,11 @@ Teil 1
 
 Allgemeine Bestimmungen
 
-|      |                                      |
-|------|--------------------------------------|
-| §  1 | Zweck und Ziel des Gesetzes          |
-| § 1a | Vorbildfunktion öffentlicher Gebäude |
-| §  2 | Begriffsbestimmungen                 |
+|       |                                      |
+|-------|--------------------------------------|
+| §  1  | Zweck und Ziel des Gesetzes          |
+| §  1a | Vorbildfunktion öffentlicher Gebäude |
+| §  2  | Begriffsbestimmungen                 |
 
 Teil 2
 
@@ -36,11 +36,12 @@ Nutzung Erneuerbarer Energien
 | §  3  | Nutzungspflicht                                                                |
 | §  4  | Geltungsbereich der Nutzungspflicht                                            |
 | §  5  | Anteil Erneuerbarer Energien bei neuen Gebäuden                                |
-| § 5a  | Anteil Erneuerbarer Energien bei grundlegend renovierten öffentlichen Gebäuden |
+| §  5a | Anteil Erneuerbarer Energien bei grundlegend renovierten öffentlichen Gebäuden |
 | §  6  | Versorgung mehrerer Gebäude                                                    |
 | §  7  | Ersatzmaßnahmen                                                                |
 | §  8  | Kombination                                                                    |
 | §  9  | Ausnahmen                                                                      |
+| §  9a | Gebäude für die Unterbringung von Asylbegehrenden und Flüchtlingen             |
 | § 10  | Nachweise                                                                      |
 | § 10a | Information über die Vorbildfunktion                                           |
 | § 11  | Überprüfung                                                                    |
@@ -245,7 +246,7 @@ der zur Deckung des Wärmebedarfs für Heizung und Warmwasserbereitung jährlich
 b)  
 der zur Deckung des Kältebedarfs für Raumkühlung jährlich benötigten Kältemenge,
 
-jeweils einschließlich des thermischen Aufwands für Übergabe, Verteilung und Speicherung. Der Wärme- und Kälteenergiebedarf wird nach den technischen Regeln berechnet, die den Anlagen 1 und 2 zur Energieeinsparverordnung zugrunde gelegt werden. Soweit diese Anlagen keine technischen Regeln für die Berechnung bestimmter Anteile des Wärme- und Kälteenergiebedarfs enthalten, wird der Wärme- und Kälteenergiebedarf nach den anerkannten Regeln der Technik berechnet; das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit kann im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung durch Bekanntmachung im Bundesanzeiger auf Veröffentlichungen sachverständiger Stellen über diese anerkannten Regeln der Technik hinweisen,
+jeweils einschließlich des thermischen Aufwands für Übergabe, Verteilung und Speicherung. Der Wärme- und Kälteenergiebedarf wird nach den technischen Regeln berechnet, die den Anlagen 1 und 2 zur Energieeinsparverordnung zugrunde gelegt werden. Soweit diese Anlagen keine technischen Regeln für die Berechnung bestimmter Anteile des Wärme- und Kälteenergiebedarfs enthalten, wird der Wärme- und Kälteenergiebedarf nach den anerkannten Regeln der Technik berechnet; das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit durch Bekanntmachung im Bundesanzeiger auf Veröffentlichungen sachverständiger Stellen über diese anerkannten Regeln der Technik hinweisen.
 
 10.  
 a)  
@@ -424,7 +425,16 @@ die Gemeinde oder der Gemeindeverband durch Beschluss das Vorliegen der Vorausse
 
 (3) Die Pflicht nach § 3 Absatz 1 oder 2 entfällt bei öffentlichen Gebäuden im Ausland ferner, soweit ihrer Erfüllung und der Durchführung von Ersatzmaßnahmen nach § 7 im Einzelfall überwiegende Gründe am Belegenheitsort entgegenstehen.
 
-§ 9 Abs. 1 Nr. 2 Satz 2 Altern. 1: Bayern - Abweichung durch Art. 15 Abs. 3 Satz 1 u. Abs. 4 Satz 1 des Gesetzes über die Zuständigkeiten zum Vollzug wirtschaftsrechtlicher Vorschriften (ZustWiG) idF d. Bek v. 24.1.2005 (GVBl S. 17, BayRS 700-2-W), zuletzt geändert durch § 1 des G v. 21.12.2010 (GVBl S. 848) mWv 1.1.2011 (vgl. BGBl. I 2011, 64)
+§ 9 Abs. 1 Nr. 2 Satz 2 Altern. 1 idF d. G v. 7.8.2008 I 1658: Bayern - Abweichung durch Art. 15 Abs. 3 Satz 1 u. Abs. 4 Satz 1 des Gesetzes über die Zuständigkeiten zum Vollzug wirtschaftsrechtlicher Vorschriften (ZustWiG) idF d. Bek v. 24.1.2005 (GVBl S. 17, BayRS 700-2-W), zuletzt geändert durch § 1 des G v. 21.12.2010 (GVBl S. 848) mWv 1.1.2011 (vgl. BGBl. I 2011, 64)
+§ 9 Abs. 1 Nr. 2 Satz 2 Altern. 1 idF d. G v. 22.12.2011 I 3044: Sachsen-Anhalt - Abweichung durch § 2 Abs. 1 Satz 1 d. Verordnung zur Durchführung d. Erneuerbare-Energien-Wärmegesetzes (EEWärmeG-DVO) v. 1.2.2013 GVBl. LSA S. 54 in Verbindung mit § 4 Satz 1 d. Ausführungsgesetzes d. Landes Sachsen-Anhalt zum Erneuerbare-Energien-Wärmegesetz (AGEEWärmeG LSa) v. 18.12.2012 GVBl. LSA S. 649, 650 mWv 9.3.2013 (vgl. BGBl. I 2013, 489)
+
+### § 9a Gebäude für die Unterbringung von Asylbegehrenden und Flüchtlingen
+
+(1) Für bereits errichtete öffentliche Gebäude nach § 4, die sich im Eigentum der öffentlichen Hand befinden und die bis zum 31. Dezember 2018 grundlegend renoviert werden, um sie als Aufnahmeeinrichtungen nach § 44 des Asylgesetzes oder als Gemeinschaftsunterkünfte nach § 53 des Asylgesetzes zu nutzen, entfällt die Pflicht nach § 3 Absatz 2.
+
+(2) Im Übrigen kann die zuständige Landesbehörde bei Anträgen auf Befreiung nach § 9 Absatz 1, die bis zum 31. Dezember 2018 gestellt werden, von einer unbilligen Härte ausgehen, wenn die Pflicht nach § 3 Absatz 1 die Schaffung von Aufnahmeeinrichtungen nach § 44 des Asylgesetzes oder von Gemeinschaftsunterkünften nach § 53 des Asylgesetzes erheblich verzögern würde.
+
+(3) Die Ausnahme von der Nutzungspflicht nach § 4 ist bis zum 31. Dezember 2018 auch für die in § 4 Nummer 6 genannten Gebäude mit einer geplanten Nutzungsdauer von bis zu fünf Jahren anzuwenden, wenn die Gebäude dazu bestimmt sind, als Aufnahmeeinrichtungen nach § 44 des Asylgesetzes oder als Gemeinschaftsunterkünfte nach § 53 des Asylgesetzes zu dienen.
 
 ### § 10 Nachweise
 
@@ -481,7 +491,7 @@ Nachweise nach Satz 1 sind die in den Nummern I.2, II.5, III.3, IV.2, V.5, VI.3,
 
 (5) Es ist verboten, in einem Nachweis, einer Anzeige oder einer Bescheinigung nach den Absätzen 2 bis 4 unrichtige oder unvollständige Angaben zu machen.
 
-(6) Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird ermächtigt, zur Vereinfachung und Vereinheitlichung des Nachweisverfahrens im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für Nachweise, Anzeigen oder Bescheinigungen nach den Absätzen 2 bis 4 einzuführen. Dies gilt nicht für Nachweise nach Nummer VII.5 der Anlage zu diesem Gesetz. In der Rechtsverordnung nach Satz 1 kann vorgesehen werden, dass
+(6) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, zur Vereinfachung und Vereinheitlichung des Nachweisverfahrens im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für Nachweise, Anzeigen oder Bescheinigungen nach den Absätzen 2 bis 4 einzuführen. Dies gilt nicht für Nachweise nach Nummer VII.5 der Anlage zu diesem Gesetz. In der Rechtsverordnung nach Satz 1 kann vorgesehen werden, dass
 
 1.  
 über die Nachweise, Anzeigen oder Bescheinigungen nach den Absätzen 2 bis 4 hinaus weitere Daten gegenüber der Behörde nachgewiesen werden müssen, soweit dies für die Überwachung der Pflicht nach § 3 Absatz 1 oder für ihr Entfallen nach § 9 Absatz 1 Nummer 1 erforderlich ist; dies schließt Regelungen zum Schutz personenbezogener Daten ein,
@@ -492,7 +502,10 @@ in den Nachweisen der Anteil der Erneuerbaren Energien am Wärme- und Kälteener
 3.  
 abweichend von den Nachweisen, die in den Nummern I.2, II.5, III.3, IV.2, V.5, VI.3 und VIII.2 der Anlage zu diesem Gesetz jeweils angegeben sind, andere Nachweise nach Absatz 3 der zuständigen Behörde vorgelegt und aufbewahrt werden müssen.
 
-§ 10: Bremen - Abweichung durch § 2 der Verordnung zur Durchführung der Energieeinsparverordnung und des Erneuerbare-Energien-Wärmegesetzes im Land Bremen (EnEV/EEWärmeGV) v. 21.12.2010 BremGBl. S. 690 mWv 29.12.2010 (vgl. BGBl. I 2011, 63)
+§ 10 idF d. G v. 15.7.2009 I 1804: Bremen - Abweichung durch § 2 der Verordnung zur Durchführung der Energieeinsparverordnung und des Erneuerbare-Energien-Wärmegesetzes im Land Bremen (EnEV/EEWärmeGV) v. 21.12.2010 BremGBl. S. 690 mWv 29.12.2010 (vgl. BGBl. I 2011, 63)
+§ 10 Abs. 3 Satz 1 Nr. 1 idF d. G v. 22.12.2011 I 3044: Sachsen-Anhalt - Abweichung durch § 1 d. Verordnung zur Durchführung d. Erneuerbare-Energien-Wärmegesetzes (EEWärmeG-DVO) v. 1.2.2013 GVBl. LSA S. 54 in Verbindung mit § 4 Satz 1 d. Ausführungsgesetzes d. Landes Sachsen-Anhalt zum Erneuerbare-Energien-Wärmegesetz (AGEEWärmeG LSa) v. 18.12.2012 GVBl. LSA S. 649, 650 mWv 9.3.2013 (vgl. BGBl. I 2013, 489)
+§ 10 Abs. 3 Satz 2 idF d. G v. 22.12.2011 I 3044: Sachsen-Anhalt - Abweichung durch § 2 Abs. 2 d. Verordnung zur Durchführung d. Erneuerbare-Energien-Wärmegesetzes (EEWärmeG-DVO) v. 1.2.2013 GVBl. LSA S. 54 in Verbindung mit § 4 Satz 1 d. Ausführungsgesetzes d. Landes Sachsen-Anhalt zum Erneuerbare-Energien-Wärmegesetz (AGEEWärmeG LSa) v. 18.12.2012 GVBl. LSA S. 649, 650 mWv 9.3.2013 (vgl. BGBl. I 2013, 489)
+§ 10 Abs. 4 Satz 1 idF d. G v. 22.12.2011 I 3044: Sachsen-Anhalt - Abweichung durch § 1 d. Verordnung zur Durchführung d. Erneuerbare-Energien-Wärmegesetzes (EEWärmeG-DVO) v. 1.2.2013 GVBl. LSA S. 54 in Verbindung mit § 4 Satz 1 d. Ausführungsgesetzes d. Landes Sachsen-Anhalt zum Erneuerbare-Energien-Wärmegesetz (AGEEWärmeG LSa) v. 18.12.2012 GVBl. LSA S. 649, 650 mWv 9.3.2013 (vgl. BGBl. I 2013, 489)
 
 ### § 10a Information über die Vorbildfunktion
 
@@ -510,7 +523,7 @@ im Falle der Ausnahme nach § 9 Absatz 2 Nummer 2 über die Berechnung und die A
 
 (2) Die mit dem Vollzug dieses Gesetzes beauftragten Personen sind berechtigt, in Ausübung ihres Amtes Grundstücke und bauliche Anlagen einschließlich der Wohnungen zu betreten. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
 
-§ 11 Abs. 1: Bayern - Abweichung durch Art. 15 Abs. 3 Satz 1 u. Abs. 4 Satz 1 des Gesetzes über die Zuständigkeiten zum Vollzug wirtschaftsrechtlicher Vorschriften (ZustWiG) idF d. Bek v. 24.1.2005 (GVBl S. 17, BayRS 700-2-W), zuletzt geändert durch § 1 des G v. 21.12.2010 (GVBl S. 848) mWv 1.1.2011 (vgl. BGBl. I 2011, 64)
+§ 11 Abs. 1 idF d. G v. 7.8.2008 I 1658: Bayern - Abweichung durch Art. 15 Abs. 3 Satz 1 u. Abs. 4 Satz 1 des Gesetzes über die Zuständigkeiten zum Vollzug wirtschaftsrechtlicher Vorschriften (ZustWiG) idF d. Bek v. 24.1.2005 (GVBl S. 17, BayRS 700-2-W), zuletzt geändert durch § 1 des G v. 21.12.2010 (GVBl S. 848) mWv 1.1.2011 (vgl. BGBl. I 2011, 64)
 
 ### § 12 Zuständigkeit
 
@@ -523,7 +536,7 @@ Teil 3 Finanzielle Förderung
 
 ### § 13 Fördermittel
 
-Die Nutzung Erneuerbarer Energien für die Erzeugung von Wärme oder Kälte wird durch den Bund bedarfsgerecht in den Jahren 2009 bis 2012 mit bis zu 500 Millionen Euro pro Jahr gefördert. Einzelheiten werden durch Verwaltungsvorschriften des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit im Einvernehmen mit dem Bundesministerium der Finanzen geregelt.
+Die Nutzung Erneuerbarer Energien für die Erzeugung von Wärme oder Kälte wird durch den Bund bedarfsgerecht in den Jahren 2009 bis 2012 mit bis zu 500 Millionen Euro pro Jahr gefördert. Einzelheiten werden durch Verwaltungsvorschriften des Bundesministeriums für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Finanzen geregelt.
 
 ### § 14 Geförderte Maßnahmen
 
@@ -746,7 +759,7 @@ c)
 Die Nutzung von gasförmiger Biomasse, die aufbereitet und in das Erdgasnetz eingespeist worden ist (Biomethan), gilt unbeschadet der Buchstaben a und b nur dann als Erfüllung der Pflicht nach § 3 Absatz 1 oder 2, wenn
 
 aa)  
-bei der Aufbereitung und Einspeisung des Biomethans die Voraussetzungen nach Nummer 1 Buchstabe a bis c der Anlage 1 zum Erneuerbare-Energien-Gesetz vom 25. Oktober 2008 (BGBl. I S. 2074), das zuletzt durch Artikel 1 des Gesetzes vom 28. Juli 2011 (BGBl. I S. 1634) geändert worden ist, in der jeweils geltenden Fassung eingehalten worden sind und
+bei der Aufbereitung und Einspeisung des Biomethans die Voraussetzungen nach Nummer 1 Buchstabe a bis c der Anlage 1 zum Erneuerbare-Energien-Gesetz vom 25. Oktober 2008 (BGBl. I S. 2074) in der am 31. Juli 2014 geltenden Fassung eingehalten worden sind und
 
 bb)  
 die Menge des entnommenen Biomethans im Wärmeäquivalent am Ende eines Kalenderjahres der Menge von Gas aus Biomasse entspricht, das an anderer Stelle in das Gasnetz eingespeist worden ist, und wenn für den gesamten Transport und Vertrieb des Biomethans von seiner Herstellung, seiner Einspeisung in das Erdgasnetz und seinem Transport im Erdgasnetz bis zu seiner Entnahme aus dem Erdgasnetz Massenbilanzsysteme verwendet worden sind.
