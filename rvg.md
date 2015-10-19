@@ -2,10 +2,7 @@ Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte (RVG)
 =======================================================================
 
 Stand  
-Zuletzt geändert durch Art. 10 G v. 8.7.2014 I 890
-
-Hinweis  
-Änderung durch Art. 4 G v. 5.12.2014 I 1964 (Nr. 57) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 14 Nr. 8 G v. 20.10.2015 I 1722
 
 ### 
 
@@ -278,7 +275,7 @@ Abschnitt 2 Gebührenvorschriften
 
 ### § 13 Wertgebühren
 
-Wenn sich die Gebühren nach dem Gegenstandswert richten, beträgt die Gebühr bei einem Gegenstandswert bis 500 Euro 45 Euro. Die Gebühr erhöht sich bei einem
+(1) Wenn sich die Gebühren nach dem Gegenstandswert richten, beträgt die Gebühr bei einem Gegenstandswert bis 500 Euro 45 Euro. Die Gebühr erhöht sich bei einem
 
 Gegenstandswert
 bis ... Euro
@@ -619,7 +616,28 @@ die Mitwirkung bei der Erbringung der Sicherheitsleistung und das Verfahren wege
 die für die Geltendmachung im Ausland vorgesehene Vervollständigung der Entscheidung und die Bezifferung eines dynamisierten Unterhaltstitels;
 
 9.  
-die Zustellung oder Empfangnahme von Entscheidungen oder Rechtsmittelschriften und ihre Mitteilung an den Auftraggeber, die Einwilligung zur Einlegung der Sprungrevision oder Sprungrechtsbeschwerde, der Antrag auf Entscheidung über die Verpflichtung, die Kosten zu tragen, die nachträgliche Vollstreckbarerklärung eines Urteils auf besonderen Antrag, die Erteilung des Notfrist- und des Rechtskraftzeugnisses, die Ausstellung einer Bescheinigung nach § 48 des Internationalen Familienrechtsverfahrensgesetzes oder § 57 des Anerkennungs- und Vollstreckungsausführungsgesetzes, die Ausstellung, die Berichtigung oder der Widerruf einer Bestätigung nach § 1079 der Zivilprozessordnung, die Ausstellung des Formblatts oder der Bescheinigung nach § 71 Absatz 1 des Auslandsunterhaltsgesetzes;
+die Zustellung oder Empfangnahme von Entscheidungen oder Rechtsmittelschriften und ihre Mitteilung an den Auftraggeber, die Einwilligung zur Einlegung der Sprungrevision oder Sprungrechtsbeschwerde, der Antrag auf Entscheidung über die Verpflichtung, die Kosten zu tragen, die nachträgliche Vollstreckbarerklärung eines Urteils auf besonderen Antrag, die Erteilung des Notfrist- und des Rechtskraftzeugnisses;
+
+9a.  
+die Ausstellung von Bescheinigungen, Bestätigungen oder Formblättern einschließlich deren Berichtigung, Aufhebung oder Widerruf nach
+
+a)  
+§ 1079 oder § 1110 der Zivilprozessordnung,
+
+b)  
+§ 48 des Internationalen Familienrechtsverfahrensgesetzes,
+
+c)  
+§ 57 oder § 58 des Anerkennungs- und Vollstreckungsausführungsgesetzes,
+
+d)  
+§ 14 des EU-Gewaltschutzverfahrensgesetzes,
+
+e)  
+§ 71 Absatz 1 des Auslandsunterhaltsgesetzes und
+
+f)  
+§ 27 des Internationalen Erbrechtsverfahrensgesetzes;
 
 10.  
 die Einlegung von Rechtsmitteln bei dem Gericht desselben Rechtszugs in Verfahren, in denen sich die Gebühren nach Teil 4, 5 oder 6 des Vergütungsverzeichnisses richten; die Einlegung des Rechtsmittels durch einen neuen Verteidiger gehört zum Rechtszug des Rechtsmittels;
@@ -764,9 +782,9 @@ In der Zwangsverwaltung bestimmt sich der Gegenstandswert bei der Vertretung des
 
 Im Verfahren nach der Schifffahrtsrechtlichen Verteilungsordnung gilt § 28 entsprechend mit der Maßgabe, dass an die Stelle des Werts der Insolvenzmasse die festgesetzte Haftungssumme tritt.
 
-### § 30 Gegenstandswert in gerichtlichen Verfahren nach dem Asylverfahrensgesetz
+### § 30 Gegenstandswert in gerichtlichen Verfahren nach dem Asylgesetz
 
-(1) In Klageverfahren nach dem Asylverfahrensgesetz beträgt der Gegenstandswert 5 000 Euro, in Verfahren des vorläufigen Rechtsschutzes 2 500 Euro. Sind mehrere natürliche Personen an demselben Verfahren beteiligt, erhöht sich der Wert für jede weitere Person in Klageverfahren um 1 000 Euro und in Verfahren des vorläufigen Rechtsschutzes um 500 Euro.
+(1) In Klageverfahren nach dem Asylgesetz beträgt der Gegenstandswert 5 000 Euro, in Verfahren des vorläufigen Rechtsschutzes 2 500 Euro. Sind mehrere natürliche Personen an demselben Verfahren beteiligt, erhöht sich der Wert für jede weitere Person in Klageverfahren um 1 000 Euro und in Verfahren des vorläufigen Rechtsschutzes um 500 Euro.
 
 (2) Ist der nach Absatz 1 bestimmte Wert nach den besonderen Umständen des Einzelfalls unbillig, kann das Gericht einen höheren oder einen niedrigeren Wert festsetzen.
 
@@ -1103,7 +1121,7 @@ Gebühr
 
 (1) Für den Anspruch des dem Privatkläger, dem Nebenkläger, dem Antragsteller im Klageerzwingungsverfahren oder des sonst in Angelegenheiten, in denen sich die Gebühren nach Teil 4, 5 oder 6 des Vergütungsverzeichnisses bestimmen, beigeordneten Rechtsanwalts gegen seinen Auftraggeber gilt § 52 entsprechend.
 
-(2) Der dem Nebenkläger, dem nebenklageberechtigten Verletzten oder dem Zeugen als Beistand bestellte Rechtsanwalt kann die Gebühren eines gewählten Beistands nur von dem Verurteilten verlangen. Der Anspruch entfällt insoweit, als die Staatskasse die Gebühren bezahlt hat.
+(2) Der dem Nebenkläger, dem nebenklageberechtigten Verletzten oder dem Zeugen als Beistand bestellte Rechtsanwalt kann die Gebühren eines gewählten Beistands aufgrund seiner Bestellung nur von dem Verurteilten verlangen. Der Anspruch entfällt insoweit, als die Staatskasse die Gebühren bezahlt hat.
 
 (3) Der in Absatz 2 Satz 1 genannte Rechtsanwalt kann einen Anspruch aus einer Vergütungsvereinbarung nur geltend machen, wenn das Gericht des ersten Rechtszugs auf seinen Antrag feststellt, dass der Nebenkläger, der nebenklageberechtigte Verletzte oder der Zeuge zum Zeitpunkt des Abschlusses der Vereinbarung allein auf Grund seiner persönlichen und wirtschaftlichen Verhältnisse die Voraussetzungen für die Bewilligung von Prozesskostenhilfe in bürgerlichen Rechtsstreitigkeiten nicht erfüllt hätte. Ist das Verfahren nicht gerichtlich anhängig geworden, entscheidet das Gericht, das den Rechtsanwalt als Beistand bestellt hat. § 52 Absatz 3 bis 5 gilt entsprechend.
 
@@ -1168,7 +1186,7 @@ Abschnitt 9 Übergangs- und Schlussvorschriften
 
 ### § 59b Bekanntmachung von Neufassungen
 
-Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und angeben
+Das Bundesministerium der Justiz und für Verbraucherschutz kann nach Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und angeben
 
 1.  
 den Stichtag, zu dem der Wortlaut festgestellt wird,
@@ -1724,7 +1742,7 @@ Erster Rechtszug***
 
 3100
 
-Verfahrensgebühr, soweit in Numer 3102 nichts anderes bestimmt ist .......................................
+Verfahrensgebühr, soweit in Nummer 3102 nichts anderes bestimmt ist .......................................
 
 1,3
 
@@ -2016,7 +2034,7 @@ vor dem Bundesfinanzhof über Beschwerden nach § 128 Abs. 3 FGO.
 
 3206
 
-Verfahrensgebühr, soweit in Numer 3212 nichts anderes bestimmt ist .......................................
+Verfahrensgebühr, soweit in Nummer 3212 nichts anderes bestimmt ist .......................................
 
 1,6
 
@@ -3000,7 +3018,7 @@ Gebühr 4106 mit Zuschlag .................
 
 4108
 
-Terminsgebühr je Hauptverhandlungstag in den in Nummern 4106 genannten Verfahren ..........
+Terminsgebühr je Hauptverhandlungstag in den in Nummer 4106 genannten Verfahren ..........
 
 70,00 bis 480,00 €
 
@@ -3702,7 +3720,7 @@ Verfahren vor der Verwaltungsbehörde*
 
 5101
 
-Verfahrensgebühr bei einer Geldbuße von weniger als 40,00 € ....................
+Verfahrensgebühr bei einer Geldbuße von weniger als 60,00 € ....................
 
 20,00 bis 110,00 €
 
@@ -3718,7 +3736,7 @@ Terminsgebühr für jeden Tag, an dem ein Termin in den in Nummer 5101 genannten
 
 5103
 
-Verfahrensgebühr bei einer Geldbuße von 40,00 bis 5 000,00 € ...............
+Verfahrensgebühr bei einer Geldbuße von 60,00 bis 5 000,00 € ...............
 
 30,00 bis 290,00 €
 
@@ -3761,7 +3779,7 @@ Gerichtliches Verfahren im ersten Rechtszug*
 
 5107
 
-Verfahrensgebühr bei einer Geldbuße von weniger als 40,00 € ....................
+Verfahrensgebühr bei einer Geldbuße von weniger als 60,00 € ....................
 
 20,00 bis 110,00 €
 
@@ -3777,7 +3795,7 @@ Terminsgebühr je Hauptverhandlungstag in den in Nummer 5107 genannten Verfahren
 
 5109
 
-Verfahrensgebühr bei einer Geldbuße von 40,00 bis 5 000,00 € ...............
+Verfahrensgebühr bei einer Geldbuße von 60,00 bis 5 000,00 € ...............
 
 30,00 bis 290,00 €
 
@@ -4449,7 +4467,7 @@ Bei Auslandsreisen kann zu diesen Beträgen ein Zuschlag von 50% berechnet werde
 
 7006
 
-Sonstige Auslangen anlässlich einer Geschäftsreise, soweit sie angemessen sind ............
+Sonstige Auslagen anlässlich einer Geschäftsreise, soweit sie angemessen sind ............
 
 in voller Höhe
 
