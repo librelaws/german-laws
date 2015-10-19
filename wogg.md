@@ -2,7 +2,7 @@ Wohngeldgesetz (WoGG)
 =====================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 9.11.2012 I 2291
+Zuletzt geändert durch Art. 14 Nr. 12 G v. 20.10.2015 I 1722
 
 ### 
 
@@ -102,7 +102,7 @@ Zahlung und Änderung des Wohngeldes
 | § 26 | Zahlung des Wohngeldes                                                     |
 | § 27 | Änderung des Wohngeldes                                                    |
 | § 28 | Unwirksamkeit des Bewilligungsbescheides und Wegfall des Wohngeldanspruchs |
-| § 29 | Haftung, Aufrechnung und Verrechnung                                       |
+| § 29 | Haftung, Aufrechnung, Verrechnung und vorläufige Zahlungseinstellung       |
 | § 30 | Rücküberweisung und Erstattung im Todesfall                                |
 | § 31 | Rücknahme eines rechtswidrigen nicht begünstigenden Wohngeldbescheides     |
 
@@ -122,44 +122,45 @@ Wohngeldstatistik
 |      |                                                            |
 |------|------------------------------------------------------------|
 | § 34 | Zweck der Wohngeldstatistik, Auskunfts- und Hinweispflicht |
-| § 35 | Erhebungsmerkmale                                          |
+| § 35 | Erhebungs- und Hilfsmerkmale                               |
 | § 36 | Erhebungszeitraum, Zusatz- und Sonderaufbereitungen        |
 
 Teil 7
 
 Schlussvorschriften
 
-|      |                                                              |
-|------|--------------------------------------------------------------|
-| § 37 | Bußgeld                                                      |
-| § 38 | Verordnungsermächtigung                                      |
-| § 39 | Wohngeld- und Mietenbericht                                  |
-| § 40 | Einkommen bei anderen Sozialleistungen                       |
-| § 41 | Auswirkung von Rechtsänderungen auf die Wohngeldentscheidung |
+|      |                                                                                                                          |
+|------|--------------------------------------------------------------------------------------------------------------------------|
+| § 37 | Bußgeld                                                                                                                  |
+| § 38 | Verordnungsermächtigung                                                                                                  |
+| § 39 | Wohngeld- und Mietenbericht; Bericht über die Lage und Entwicklung der Wohnungs- und Immobilienwirtschaft in Deutschland |
+| § 40 | Einkommen bei anderen Sozialleistungen                                                                                   |
+| § 41 | Auswirkung von Rechtsänderungen auf die Wohngeldentscheidung                                                             |
 
 Teil 8
 
 Überleitungsvorschriften
 
-|      |                                                                                   |
-|------|-----------------------------------------------------------------------------------|
-| § 42 | Gesetz zur Neuregelung des Wohngeldrechts und zur Änderung des Sozialgesetzbuches |
-| § 43 | Weitergeltung bisherigen Rechts                                                   |
-| § 44 | Einmaliger zusätzlicher Wohngeldbetrag                                            |
+|       |                                                                                                                         |
+|-------|-------------------------------------------------------------------------------------------------------------------------|
+| § 42  | Gesetz zur Neuregelung des Wohngeldrechts und zur Änderung des Sozialgesetzbuches                                       |
+| § 42a | Übergangsregelung aus Anlass des Gesetzes zur Reform des Wohngeldrechts und zur Änderung des Wohnraumförderungsgesetzes |
+| § 43  | Weitergeltung bisherigen Rechts                                                                                         |
+| § 44  | Einmaliger zusätzlicher Wohngeldbetrag                                                                                  |
 
 <table>
 <tbody>
 <tr class="odd">
 <td><br />
 Anlage 1<br />
-(zu § 19 Abs. 1)<br />
+(zu § 19 Absatz 1)<br />
 Werte für „a“, „b“ und „c“<br />
 <br />
 </td>
 </tr>
 <tr class="even">
 <td>Anlage 2<br />
-(zu § 19 Abs. 2)<br />
+(zu § 19 Absatz 2)<br />
 Rechenschritte und Rundungen</td>
 </tr>
 </tbody>
@@ -208,7 +209,7 @@ Die Sätze 1 und 2 gelten nicht im Fall des Absatzes 1 Satz 2 Nr. 2.
 
 (3) Erfüllen mehrere Personen für denselben Wohnraum die Voraussetzungen des Absatzes 1 oder des Absatzes 2 und sind sie zugleich Haushaltsmitglieder (§ 5), ist nur eine dieser Personen wohngeldberechtigt. In diesem Fall bestimmen diese Personen die wohngeldberechtigte Person.
 
-(4) Wohngeldberechtigt ist nach Maßgabe der Absätze 1 bis 3 auch, wer zwar nach den §§ 7 und 8 Abs. 1 vom Wohngeld ausgeschlossen ist, aber mit mindestens einem zu berücksichtigenden Haushaltsmitglied (§ 6) eine Wohn- und Wirtschaftsgemeinschaft (§ 5 Abs. 3 und 4) führt.
+(4) Wohngeldberechtigt ist nach Maßgabe der Absätze 1 bis 3 auch, wer zwar nach den §§ 7 und 8 Abs. 1 vom Wohngeld ausgeschlossen ist, aber mit mindestens einem zu berücksichtigenden Haushaltsmitglied (§ 6) Wohnraum gemeinsam bewohnt.
 
 (5) Ausländer im Sinne des § 2 Abs. 1 des Aufenthaltsgesetzes (ausländische Personen) sind nach Maßgabe der Absätze 1 bis 4 nur wohngeldberechtigt, wenn sie sich im Bundesgebiet tatsächlich aufhalten und
 
@@ -222,7 +223,7 @@ einen Aufenthaltstitel oder eine Duldung nach dem Aufenthaltsgesetz haben,
 ein Recht auf Aufenthalt nach einem völkerrechtlichen Abkommen haben,
 
 4.  
-eine Aufenthaltsgestattung nach dem Asylverfahrensgesetz haben,
+eine Aufenthaltsgestattung nach dem Asylgesetz haben,
 
 5.  
 die Rechtsstellung eines heimatlosen Ausländers im Sinne des Gesetzes über die Rechtsstellung heimatloser Ausländer im Bundesgebiet haben oder
@@ -284,17 +285,13 @@ ohne Rücksicht auf das Alter Pflegekind eines Haushaltsmitgliedes ist,
 6.  
 Pflegemutter oder Pflegevater eines Haushaltsmitgliedes ist
 
-und mit der wohngeldberechtigten Person in einer Wohn- und Wirtschaftsgemeinschaft lebt, wenn der Wohnraum, für den Wohngeld beantragt wird, der jeweilige Mittelpunkt der Lebensbeziehungen ist.
+und mit der wohngeldberechtigten Person den Wohnraum, für den Wohngeld beantragt wird, gemeinsam bewohnt, wenn dieser Wohnraum der jeweilige Mittelpunkt der Lebensbeziehungen ist.
 
 (2) Ein wechselseitiger Wille, Verantwortung füreinander zu tragen und füreinander einzustehen, wird vermutet, wenn mindestens eine der Voraussetzungen nach den Nummern 1 bis 4 des § 7 Abs. 3a des Zweiten Buches Sozialgesetzbuch erfüllt ist.
 
-(3) Eine Wohngemeinschaft liegt vor, wenn Personen Wohnraum gemeinsam bewohnen.
+(3) Ausländische Personen sind nur Haushaltsmitglieder nach Absatz 1 Satz 2, wenn sie die Voraussetzungen der Wohngeldberechtigung nach § 3 Abs. 5 erfüllen.
 
-(4) Eine Wirtschaftsgemeinschaft liegt vor, wenn Personen sich ganz oder teilweise gemeinsam mit dem täglichen Lebensbedarf versorgen. Sie wird vermutet, wenn Personen in einer Wohngemeinschaft leben.
-
-(5) Ausländische Personen sind nur Haushaltsmitglieder nach Absatz 1 Satz 2, wenn sie die Voraussetzungen der Wohngeldberechtigung nach § 3 Abs. 5 erfüllen.
-
-(6) Haben nicht nur vorübergehend getrennt lebende Eltern das gemeinsame Sorgerecht für ein Kind oder mehrere Kinder und halten sie für die Kinderbetreuung zusätzlichen Wohnraum bereit, ist jedes annähernd zu gleichen Teilen betreute Kind bei beiden Elternteilen Haushaltsmitglied. Betreuen die Eltern mindestens zwei dieser Kinder nicht zu annähernd gleichen Teilen, ist bei dem Elternteil mit dem geringeren Betreuungsanteil nur das jüngste dieser nicht zu annähernd gleichen Teilen betreuten Kinder Haushaltsmitglied. Für Pflegekinder und Pflegeeltern gelten die Sätze 1 und 2 entsprechend.
+(4) Betreuen nicht nur vorübergehend getrennt lebende Eltern ein Kind oder mehrere Kinder zu annähernd gleichen Teilen, ist jedes dieser Kinder bei beiden Elternteilen Haushaltsmitglied. Gleiches gilt bei einer Aufteilung der Betreuung bis zu einem Verhältnis von mindestens einem Drittel zu zwei Dritteln je Kind. Betreuen die Eltern mindestens zwei dieser Kinder nicht in einem Verhältnis nach Satz 1 oder 2, ist bei dem Elternteil mit dem geringeren Betreuungsanteil nur das jüngste dieser Kinder Haushaltsmitglied. Für Pflegekinder und Pflegeeltern gelten die Sätze 1 bis 3 entsprechend.
 
 ### § 6 Zu berücksichtigende Haushaltsmitglieder
 
@@ -417,7 +414,22 @@ des Monats, wenn die Leistung nach § 7 Abs. 1 bis zum Letzten eines Monats bewi
 b)  
 des Vormonats, wenn die Leistung nach § 7 Abs. 1 nicht bis zum Letzten eines Monats bewilligt wird.
 
-Der Ausschluss gilt für den Zeitraum als nicht erfolgt, für den der Antrag auf eine Leistung nach § 7 Abs. 1 zurückgenommen, die Leistung nach § 7 Abs. 1 abgelehnt, versagt, entzogen oder ausschließlich als Darlehen gewährt wird.
+Der Ausschluss gilt für den Zeitraum als nicht erfolgt, für den
+
+1.  
+der Antrag auf eine Leistung nach § 7 Absatz 1 zurückgenommen wird,
+
+2.  
+die Leistung nach § 7 Absatz 1 abgelehnt, versagt, entzogen oder ausschließlich als Darlehen gewährt wird,
+
+3.  
+der Bewilligungsbescheid über eine Leistung nach § 7 Absatz 1 zurückgenommen oder aufgehoben wird,
+
+4.  
+der Anspruch auf eine Leistung nach § 7 Absatz 1 nachträglich im Sinne des § 103 Absatz 1 des Zehnten Buches Sozialgesetzbuch ganz entfallen ist oder nach § 104 Absatz 1 oder 2 des Zehnten Buches Sozialgesetzbuch oder nach § 40a des Zweiten Buches Sozialgesetzbuch nachrangig ist oder
+
+5.  
+die Leistung nach § 7 Absatz 1 nachträglich durch den Übergang eines Anspruchs in vollem Umfang erstattet wird.
 
 (2) Verzichten Haushaltsmitglieder auf die Leistungen nach § 7 Abs. 1, um Wohngeld zu beantragen, gilt ihr Ausschluss vom Zeitpunkt der Wirkung des Verzichts an als nicht erfolgt; § 46 Abs. 2 des Ersten Buches Sozialgesetzbuch ist in diesem Fall nicht anzuwenden.
 
@@ -430,22 +442,21 @@ Kapitel 3 Miete und Belastung
 
 (1) Miete ist das vereinbarte Entgelt für die Gebrauchsüberlassung von Wohnraum auf Grund von Mietverträgen oder ähnlichen Nutzungsverhältnissen einschließlich Umlagen, Zuschlägen und Vergütungen.
 
-(2) Von der Miete nach Absatz 1 sind abzuziehen:
+(2) Bei der Ermittlung der Miete nach Absatz 1 bleiben folgende Kosten und Vergütungen außer Betracht:
 
 1.  
-Betriebskosten für zentrale Heizungs- und Warmwasserversorgungsanlagen sowie zentrale Brennstoffversorgungsanlagen,
+Heizkosten und Kosten für die Erwärmung von Wasser,
 
 2.  
 Kosten der eigenständig gewerblichen Lieferung von Wärme und Warmwasser, soweit sie den in Nummer 1 bezeichneten Kosten entsprechen,
 
 3.  
-Untermietzuschläge,
+die Kosten der Haushaltsenergie, soweit sie nicht von den Nummern 1 und 2 erfasst sind,
 
 4.  
-Zuschläge für die Nutzung von Wohnraum zu anderen als Wohnzwecken,
+Vergütungen für die Überlassung einer Garage sowie eines Stellplatzes für Kraftfahrzeuge.
 
-5.  
-Vergütungen für die Überlassung von Möbeln mit Ausnahme von üblichen Einbaumöbeln.
+Ergeben sich diese Beträge nicht aus dem Mietvertrag oder entsprechenden Unterlagen, sind Pauschbeträge abzusetzen.
 
 (3) Im Fall des § 3 Abs. 1 Satz 2 Nr. 2 ist als Miete der Mietwert des Wohnraums zu Grunde zu legen. Im Fall des § 3 Abs. 1 Satz 2 Nr. 3 ist als Miete der Höchstbetrag nach § 12 Abs. 1 zu Grunde zu legen.
 
@@ -488,139 +499,139 @@ Haushaltsmitglieder
 
 Mietenstufe
 
- Höchst-
- betrag
- in Euro
+Höchst-
+betrag
+in Euro
 
 1
 
 I
 
-292
+  312
 
 II
 
-308
+  351
 
 III
 
-330
+  390
 
 IV
 
-358
+  434
 
 V
 
-385
+  482
 
 VI
 
-407
+  522
 
 2
 
 I
 
-352
+  378
 
 II
 
-380
+  425
 
 III
 
-402
+  473
 
 IV
 
-435
+  526
 
 V
 
-468
+  584
 
 VI
 
-501
+  633
 
 3
 
 I
 
-424
+  450
 
 II
 
-451
+  506
 
 III
 
-479
+  563
 
 IV
 
-517
+  626
 
 V
 
-556
+  695
 
 VI
 
-594
+  753
 
 4
 
 I
 
-490
+  525
 
 II
 
-523
+  591
 
 III
 
-556
+  656
 
 IV
 
-600
+  730
 
 V
 
-649
+  811
 
 VI
 
-693
+  879
 
 5
 
 I
 
-561
+  600
 
 II
 
-600
+  675
 
 III
 
-638
+  750
 
 IV
 
-688
+  834
 
 V
 
-737
+  927
 
 VI
 
-787
+1 004
 
 Mehrbetrag
 für jedes
@@ -630,29 +641,29 @@ Haushaltsmitglied
 
 I
 
- 66
+   71
 
 II
 
- 72
+   81
 
 III
 
- 77
+   91
 
 IV
 
- 83
+  101
 
 V
 
- 88
+  111
 
 VI
 
- 99
+  126
 
-(2) Die Zugehörigkeit einer Gemeinde zu einer Mietenstufe richtet sich nach dem Mietenniveau von Wohnraum der Hauptmieter und Hauptmieterinnen sowie der gleichzustellenden zur mietähnlichen Nutzung berechtigten Personen, für den Mietzuschuss geleistet wird.
+(2) Die Zugehörigkeit einer Gemeinde zu einer Mietenstufe richtet sich nach dem Mietenniveau von Wohnraum der Hauptmieter und Hauptmieterinnen sowie der gleichzustellenden zur mietähnlichen Nutzung berechtigten Personen, für den Mietzuschuss geleistet wird. Das Mietenniveau ist die durchschnittliche prozentuale Abweichung der Quadratmetermieten von Wohnraum in Gemeinden vom Durchschnitt der Quadratmetermieten des Wohnraums im Bundesgebiet. Zu berücksichtigen sind nur Quadratmetermieten von Wohnraum im Sinne des Satzes 1.
 
 (3) Das Mietenniveau ist vom Statistischen Bundesamt festzustellen für Gemeinden mit
 
@@ -662,9 +673,9 @@ einer Einwohnerzahl von 10 000 und mehr gesondert,
 2.  
 einer Einwohnerzahl von weniger als 10 000 und gemeindefreie Gebiete nach Kreisen zusammengefasst.
 
-Maßgebend ist die Einwohnerzahl, die das statistische Landesamt auf der Grundlage des § 5 des Bevölkerungsstatistikgesetzes zum 30. September des vorletzten Kalenderjahres, das dem Tage des Inkrafttretens einer Anpassung der Höchstbeträge nach Absatz 1 vorausgeht, festgestellt hat. Kann die Einwohnerzahl nicht nach Satz 2 festgestellt werden, ist der Feststellung die letzte verfügbare Einwohnerzahl zu Grunde zu legen.
+Maßgebend für die Zuordnung nach Satz 1 ist die Einwohnerzahl, die auf der Grundlage von § 5 des Bevölkerungsstatistikgesetzes fortgeschrieben wurde.
 
-(4) Das Mietenniveau ist die durchschnittliche prozentuale Abweichung der Quadratmetermieten von Wohnraum in Gemeinden (Absatz 3 Satz 1) vom Durchschnitt der Quadratmetermieten des Wohnraums im Bundesgebiet. Zu berücksichtigen sind nur Quadratmetermieten von Wohnraum im Sinne des Absatzes 2. Das Mietenniveau wird vom Statistischen Bundesamt auf der Grundlage der Ergebnisse der Wohngeldstatistik (§§ 34 bis 36) zum 31. Dezember des vorletzten Kalenderjahres, das dem Tage des Inkrafttretens einer Anpassung der Höchstbeträge nach Absatz 1 vorausgeht, festgestellt. Kann das Mietenniveau nicht nach Satz 3 festgestellt werden, sind der Feststellung die letzten verfügbaren Ergebnisse der jährlichen Wohngeldstatistik zu Grunde zu legen.
+(4) Das Mietenniveau wird vom Statistischen Bundesamt bei einer Anpassung der Höchstbeträge nach Absatz 1 auf der Grundlage von zwei aufeinanderfolgenden Ergebnissen der jährlichen Wohngeldstatistik für Dezember (§ 36 Absatz 1 Satz 2 Nummer 2) festgestellt. Es ist ein bundesweit einheitlicher Stichtag für die Ergebnisse der Bevölkerungsstatistik zu Grunde zu legen.
 
 (5) Den Mietenstufen nach Absatz 1 sind folgende Mietenniveaus zugeordnet:
 
@@ -715,7 +726,15 @@ Kapitel 4 Einkommen
 
 ### § 14 Jahreseinkommen
 
-(1) Das Jahreseinkommen eines zu berücksichtigenden Haushaltsmitgliedes ist vorbehaltlich des Absatzes 3 die Summe der positiven Einkünfte im Sinne des § 2 Abs. 1 und 2 des Einkommensteuergesetzes zuzüglich der Einnahmen nach Absatz 2 abzüglich der Abzugsbeträge für Steuern und Sozialversicherungsbeiträge (§ 16). Bei den Einkünften im Sinne des § 2 Abs. 1 Satz 1 Nr. 1 bis 3 des Einkommensteuergesetzes ist § 7g Abs. 1 bis 4 und 7 des Einkommensteuergesetzes nicht anzuwenden. Ein Ausgleich mit negativen Einkünften aus anderen Einkunftsarten oder mit negativen Einkünften des zusammenveranlagten Ehegatten ist nicht zulässig.
+(1) Das Jahreseinkommen eines zu berücksichtigenden Haushaltsmitgliedes ist vorbehaltlich des Absatzes 3 die Summe der positiven Einkünfte im Sinne des § 2 Abs. 1 und 2 des Einkommensteuergesetzes zuzüglich der Einnahmen nach Absatz 2 abzüglich der Abzugsbeträge für Steuern und Sozialversicherungsbeiträge (§ 16). Bei den Einkünften im Sinne des § 2 Abs. 1 Satz 1 Nr. 1 bis 3 des Einkommensteuergesetzes ist § 7g Abs. 1 bis 4 und 7 des Einkommensteuergesetzes nicht anzuwenden. Von den Einkünften aus nichtselbständiger Arbeit, die nach dem Einkommensteuergesetz vom Arbeitgeber pauschal besteuert werden, zählen zum Jahreseinkommen nur
+
+1.  
+die nach § 37b des Einkommensteuergesetzes pauschal besteuerten Sachzuwendungen und
+
+2.  
+der nach § 40a des Einkommensteuergesetzes pauschal besteuerte Arbeitslohn und das pauschal besteuerte Arbeitsentgelt, jeweils abzüglich der Aufwendungen zu dessen Erwerbung, Sicherung oder Erhaltung, höchstens jedoch bis zur Höhe dieser Einnahmen.
+
+Ein Ausgleich mit negativen Einkünften aus anderen Einkunftsarten oder mit negativen Einkünften des zusammenveranlagten Ehegatten ist nicht zulässig.
 
 (2) Zum Jahreseinkommen gehören:
 
@@ -723,7 +742,7 @@ Kapitel 4 Einkommen
 der nach § 19 Abs. 2 und § 22 Nr. 4 Satz 4 Buchstabe b des Einkommensteuergesetzes steuerfreie Betrag von Versorgungsbezügen;
 
 2.  
-die einkommensabhängigen, nach § 3 Nr. 6 des Einkommensteuergesetzes steuerfreien Bezüge, die auf Grund gesetzlicher Vorschriften aus öffentlichen Mitteln versorgungshalber an Wehr- und Zivildienstbeschädigte oder ihre Hinterbliebenen, Kriegsbeschädigte und Kriegshinterbliebene sowie ihnen gleichgestellte Personen gezahlt werden;
+die einkommensabhängigen, nach § 3 Nr. 6 des Einkommensteuergesetzes steuerfreien Bezüge, die auf Grund gesetzlicher Vorschriften aus öffentlichen Mitteln versorgungshalber an Wehrdienstbeschädigte, im freiwilligen Wehrdienst Beschädigte, Zivildienstbeschädigte und im Bundesfreiwilligendienst Beschädigte oder ihre Hinterbliebenen, Kriegsbeschädigte und Kriegshinterbliebene sowie ihnen gleichgestellte Personen gezahlt werden;
 
 3.  
 die den Ertragsanteil oder den der Besteuerung unterliegenden Anteil nach § 22 Nr. 1 Satz 3 Buchstabe a des Einkommensteuergesetzes übersteigenden Teile von Leibrenten;
@@ -791,10 +810,10 @@ die Hälfte der nach § 3 Nr. 68 des Einkommensteuergesetzes steuerfreien Renten
 die nach § 3b des Einkommensteuergesetzes steuerfreien Zuschläge für Sonntags-, Feiertags- oder Nachtarbeit;
 
 12.  
-die nach § 37b des Einkommensteuergesetzes von dem Arbeitgeber pauschal besteuerten Sachzuwendungen;
+(weggefallen)
 
 13.  
-der nach § 40a des Einkommensteuergesetzes von dem Arbeitgeber pauschal besteuerte Arbeitslohn abzüglich der zu erwartenden Aufwendungen zu dessen Erwerb, Sicherung und Erhaltung, höchstens jedoch bis zur Höhe des Arbeitslohns;
+(weggefallen)
 
 14.  
 die nach § 3 Nr. 56 des Einkommensteuergesetzes steuerfreien Zuwendungen des Arbeitgebers an eine Pensionskasse und die nach § 3 Nr. 63 des Einkommensteuergesetzes steuerfreien Beiträge des Arbeitgebers an einen Pensionsfonds, eine Pensionskasse oder für eine Direktversicherung zum Aufbau einer kapitalgedeckten betrieblichen Altersversorgung;
@@ -812,16 +831,16 @@ der nach § 3 Nr. 27 des Einkommensteuergesetzes steuerfreie Grundbetrag der Pro
 die nach § 3 Nr. 60 des Einkommensteuergesetzes steuerfreien Leistungen aus öffentlichen Mitteln an Arbeitnehmer des Steinkohlen-, Pechkohlen- und Erzbergbaues, des Braunkohlentiefbaues und der Eisen- und Stahlindustrie aus Anlass von Stilllegungs-, Einschränkungs-, Umstellungs- oder Rationalisierungsmaßnahmen;
 
 19.  
-die nach § 22 Nr. 1 Satz 2 des Einkommensteuergesetzes dem Empfänger oder der Empfängerin nicht zuzurechnenden Bezüge, die ihm oder ihr von einer Person, die kein Haushaltsmitglied ist, gewährt werden, mit Ausnahme der Bezüge bis zu einer Höhe von 4 800 Euro jährlich, die für eine Pflegeperson oder Pflegekraft geleistet werden, die den Empfänger oder die Empfängerin wegen eigener Pflegebedürftigkeit im Sinne des § 14 des Elften Buches Sozialgesetzbuch pflegt;
+die nach § 22 Nr. 1 Satz 2 des Einkommensteuergesetzes dem Empfänger oder der Empfängerin nicht zuzurechnenden Bezüge, die ihm oder ihr von einer Person, die kein Haushaltsmitglied ist, gewährt werden, mit Ausnahme der Bezüge bis zu einer Höhe von 4 800 Euro jährlich, die für eine Pflegeperson oder Pflegekraft geleistet werden, die den Empfänger oder die Empfängerin wegen eigener Pflegebedürftigkeit im Sinne des § 14 des Elften Buches Sozialgesetzbuch pflegt; dies gilt entsprechend, wenn anstelle von wiederkehrenden Unterhaltsleistungen Unterhaltsleistungen als Einmalbetrag gewährt werden;
 
 20.  
 a)  
 die Unterhaltsleistungen des geschiedenen oder dauernd getrennt lebenden Ehegatten, mit Ausnahme der Unterhaltsleistungen bis zu einer Höhe von 4 800 Euro jährlich, die für eine Pflegeperson oder Pflegekraft geleistet werden, die den Empfänger oder die Empfängerin wegen eigener Pflegebedürftigkeit im Sinne des § 14 des Elften Buches Sozialgesetzbuch pflegt,
 
 b)  
-die Versorgungsleistungen und die Leistungen auf Grund eines schuldrechtlichen Versorgungsausgleichs,
+die Versorgungsleistungen, die Leistungen auf Grund eines schuldrechtlichen Versorgungsausgleichs und Ausgleichsleistungen zur Vermeidung eines Versorgungsausgleichs,
 
-soweit diese Leistungen nicht von § 22 Nr. 1a, 1b oder Nr. 1c des Einkommensteuergesetzes erfasst sind;
+soweit diese Leistungen nicht von § 22 Nummer 1a des Einkommensteuergesetzes erfasst sind;
 
 21.  
 die Leistungen nach dem Unterhaltsvorschussgesetz;
@@ -830,13 +849,7 @@ die Leistungen nach dem Unterhaltsvorschussgesetz;
 die Leistungen von Personen, die keine Haushaltsmitglieder sind, zur Bezahlung der Miete oder Aufbringung der Belastung, soweit die Leistungen nicht von Absatz 1 Satz 1, von Nummer 19 oder Nummer 20 erfasst sind;
 
 23.  
-die nach § 3 Nr. 48 des Einkommensteuergesetzes steuerfreien
-
-a)  
-allgemeinen Leistungen nach § 5 des Unterhaltssicherungsgesetzes,
-
-b)  
-Leistungen für Grundwehrdienst leistende Sanitätsoffiziere nach § 12a des Unterhaltssicherungsgesetzes;
+(weggefallen)
 
 24.  
 die Hälfte der Pauschale für die laufenden Leistungen für den notwendigen Unterhalt ohne die Kosten der Erziehung von Kindern, Jugendlichen oder jungen Volljährigen nach § 39 Abs. 1 in Verbindung mit § 33 oder mit § 35a Abs. 2 Nr. 3, auch in Verbindung mit § 41 Abs. 2 des Achten Buches Sozialgesetzbuch, als Einkommen des Kindes, Jugendlichen oder jungen Volljährigen;
@@ -851,7 +864,7 @@ die Hälfte der nach § 3 Nr. 36 des Einkommensteuergesetzes steuerfreien Einnah
 die Hälfte der als Zuschüsse erbrachten
 
 a)  
-Leistungen zur Förderung der Ausbildung nach dem Bundesausbildungsförderungsgesetz,
+Leistungen zur Förderung der Ausbildung nach dem Bundesausbildungsförderungsgesetz, mit Ausnahme der Leistungen nach § 14a des Bundesausbildungsförderungsgesetzes in Verbindung mit den §§ 6 und 7 der Verordnung über Zusatzleistungen in Härtefällen nach dem Bundesausbildungsförderungsgesetz und mit Ausnahme des Kinderbetreuungszuschlages nach Maßgabe des § 14b des Bundesausbildungsförderungsgesetzes,
 
 b)  
 Leistungen der Begabtenförderungswerke, soweit sie nicht von Nummer 28 erfasst sind,
@@ -863,7 +876,10 @@ d)
 Berufsausbildungsbeihilfen und des Ausbildungsgeldes nach dem Dritten Buch Sozialgesetzbuch,
 
 e)  
-Beiträge zur Deckung des Unterhaltsbedarfs nach dem Aufstiegsfortbildungsförderungsgesetz;
+Beiträge zur Deckung des Unterhaltsbedarfs nach dem Aufstiegsfortbildungsförderungsgesetz,
+
+f)  
+Leistungen zur Sicherung des Lebensunterhaltes während des ausbildungsbegleitenden Praktikums oder der betrieblichen Berufsausbildung bei Teilnahme am Sonderprogramm Förderung der beruflichen Mobilität von ausbildungsinteressierten Jugendlichen und arbeitslosen jungen Fachkräften aus Europa;
 
 28.  
 die als Zuschuss gewährte Graduiertenförderung;
@@ -872,7 +888,22 @@ die als Zuschuss gewährte Graduiertenförderung;
 die Hälfte der nach § 3 Nr. 42 des Einkommensteuergesetzes steuerfreien Zuwendungen, die auf Grund des Fulbright-Abkommens gezahlt werden;
 
 30.  
-die wiederkehrenden Leistungen nach § 7 Abs. 1 Satz 1 Nr. 1 bis 9, auch wenn bei deren Berechnung keine Kosten der Unterkunft berücksichtigt worden sind, soweit sie nicht von Nummer 24 oder Nummer 25 erfasst sind oder wenn kein Fall des § 7 Abs. 1 Satz 3 Nr. 2 oder Abs. 2 Satz 2 Nr. 2 vorliegt;
+die wiederkehrenden Leistungen nach § 7 Absatz 1 Satz 1 Nummer 1 bis 9, auch wenn bei deren Berechnung die Kosten der Unterkunft nicht berücksichtigt worden sind, mit Ausnahme
+
+a)  
+der darin enthaltenen Kosten der Unterkunft, wenn diese nicht für den Wohnraum gewährt werden, für den Wohngeld beantragt wurde,
+
+b)  
+der von Nummer 24 oder Nummer 25 erfassten Leistungen,
+
+c)  
+des Sozialgeldes, das ein zu berücksichtigendes Kind als Mitglied der Bedarfsgemeinschaft im Haushalt des getrennt lebenden anderen Elternteils anteilig erhält,
+
+d)  
+der Hilfe zum Lebensunterhalt, das ein nach dem Dritten Kapitel des Zwölften Buches Sozialgesetzbuch leistungsberechtigtes Kind im Haushalt des getrennt lebenden Elternteils anteilig erhält, oder
+
+e)  
+der Leistungen, die in den Fällen des § 7 Absatz 1 Satz 3 oder Absatz 2 Satz 2 erbracht werden, in denen kein Ausschluss vom Wohngeld besteht;
 
 31.  
 der Mietwert des von den in § 3 Abs. 1 Satz 2 Nr. 2 genannten Personen selbst genutzten Wohnraums.
@@ -892,7 +923,7 @@ Leistungen einer nach § 68 des Aufenthaltsgesetzes verpflichteten Person, sowei
 
 (1) Bei der Ermittlung des Jahreseinkommens ist das Einkommen zu Grunde zu legen, das im Zeitpunkt der Antragstellung im Bewilligungszeitraum zu erwarten ist. Hierzu können die Verhältnisse vor dem Zeitpunkt der Antragstellung herangezogen werden; § 24 Abs. 2 bleibt unberührt.
 
-(2) Einmaliges Einkommen, das für einen bestimmten Zeitraum bezogen wird, ist diesem Zeitraum zuzurechnen. Eine Abfindung, Entschädigung oder ähnliche Leistung, die im Zusammenhang mit der Beendigung eines Arbeitsverhältnisses zufließt (Entlassungsentschädigung), ist den folgenden drei Jahren nach dem Ende des Arbeitsverhältnisses zuzurechnen, wenn nicht in der Vereinbarung, die der Entlassungsentschädigung zu Grunde liegt, ein anderer Zurechnungszeitraum bestimmt ist. Ist eine Entlassungsentschädigung vor der Antragstellung zugeflossen, ist sie nur dann nach Satz 1 oder Satz 2 zuzurechnen, wenn sie innerhalb von drei Jahren vor der Antragstellung zugeflossen ist.
+(2) Einmaliges Einkommen, das für einen bestimmten Zeitraum bezogen wird, ist diesem Zeitraum zuzurechnen. Ist kein Zurechnungszeitraum festgelegt oder vereinbart, so ist das einmalige Einkommen jeweils zu einem Drittel in den drei Jahren nach dem Zuflussmonat zuzurechnen. Ist das einmalige Einkommen vor der Antragstellung zugeflossen, ist es nur dann nach Satz 1 oder Satz 2 zuzurechnen, wenn es innerhalb von drei Jahren vor der Antragstellung zugeflossen ist.
 
 (3) Sonderzuwendungen, Gratifikationen und gleichartige Bezüge und Vorteile, die in größeren als monatlichen Abständen gewährt werden, sind den im Bewilligungszeitraum liegenden Monaten zu je einem Zwölftel zuzurechnen, wenn sie in den nächsten zwölf Monaten nach Beginn des Bewilligungszeitraums zufließen.
 
@@ -900,7 +931,7 @@ Leistungen einer nach § 68 des Aufenthaltsgesetzes verpflichteten Person, sowei
 
 ### § 16 Abzugsbeträge für Steuern und Sozialversicherungsbeiträge
 
-(1) Bei der Ermittlung des Jahreseinkommens sind von dem Betrag, der sich nach den §§ 14 und 15 ergibt, jeweils 10 Prozent abzuziehen, wenn zu erwarten ist, dass
+Bei der Ermittlung des Jahreseinkommens sind von dem Betrag, der sich nach den §§ 14 und 15 ergibt, jeweils 10 Prozent abzuziehen, wenn zu erwarten ist, dass im Bewilligungszeitraum die folgenden Steuern und Pflichtbeiträge zu leisten sind:
 
 1.  
 Steuern vom Einkommen,
@@ -909,11 +940,9 @@ Steuern vom Einkommen,
 Pflichtbeiträge zur gesetzlichen Kranken- und Pflegeversicherung,
 
 3.  
-Pflichtbeiträge zur gesetzlichen Rentenversicherung
+Pflichtbeiträge zur gesetzlichen Rentenversicherung.
 
-im Bewilligungszeitraum zu leisten sind. Satz 1 Nr. 2 und 3 gilt entsprechend, wenn keine Pflichtbeiträge, aber laufende Beiträge zu öffentlichen oder privaten Versicherungen oder ähnlichen Einrichtungen zu leisten sind, die dem Zweck der Pflichtbeiträge nach Satz 1 Nr. 2 oder Nr. 3 entsprechen. Satz 2 gilt auch, wenn die Beiträge zu Gunsten eines zu berücksichtigenden Haushaltsmitgliedes zu leisten sind. Die Sätze 2 und 3 gelten nicht, wenn eine im Wesentlichen beitragsfreie Sicherung oder eine Sicherung besteht, für die Beiträge von Dritten zu leisten sind.
-
-(2) Ergibt sich kein Abzugsbetrag nach Absatz 1, sind von dem Betrag, der sich nach den §§ 14 und 15 ergibt, 6 Prozent abzuziehen.
+Satz 1 Nummer 2 und 3 gilt entsprechend, wenn keine Pflichtbeiträge, aber laufende Beiträge zu öffentlichen oder privaten Versicherungen oder ähnlichen Einrichtungen zu leisten sind, die dem Zweck der Pflichtbeiträge nach Satz 1 Nummer 2 oder Nummer 3 entsprechen. Satz 2 gilt auch, wenn die Beiträge zu Gunsten eines zu berücksichtigenden Haushaltsmitgliedes zu leisten sind. Die Sätze 2 und 3 gelten nicht, wenn eine im Wesentlichen beitragsfreie Sicherung oder eine Sicherung besteht, für die Beiträge von Dritten zu leisten sind. Die Sätze 1 und 2 gelten bei einmaligem Einkommen im Sinne des § 15 Absatz 2 in jedem Jahr der Zurechnung entsprechend.
 
 ### § 17 Freibeträge
 
@@ -926,19 +955,22 @@ a)
 von 100 oder
 
 b)  
-von wenigstens 80 bei Pflegebedürftigkeit im Sinne des § 14 des Elften Buches Sozialgesetzbuch und gleichzeitiger häuslicher oder teilstationärer Pflege oder Kurzzeitpflege;
+von unter 100 bei Pflegebedürftigkeit im Sinne des § 14 des Elften Buches Sozialgesetzbuch und gleichzeitiger häuslicher oder teilstationärer Pflege oder Kurzzeitpflege;
 
 2.  
-1 200 Euro für jedes schwerbehinderte zu berücksichtigende Haushaltsmitglied mit einem Grad der Behinderung von unter 80 bei Pflegebedürftigkeit im Sinne des § 14 des Elften Buches Sozialgesetzbuch und gleichzeitiger häuslicher oder teilstationärer Pflege oder Kurzzeitpflege;
-
-3.  
 750 Euro für jedes zu berücksichtigende Haushaltsmitglied, das Opfer der nationalsozialistischen Verfolgung oder ihm im Sinne des Bundesentschädigungsgesetzes gleichgestellt ist;
 
-4.  
-600 Euro für jedes Haushaltsmitglied unter zwölf Jahren, für das Kindergeld nach dem Einkommensteuergesetz oder dem Bundeskindergeldgesetz oder eine in § 65 Abs. 1 Satz 1 des Einkommensteuergesetzes genannte Leistung gewährt wird, wenn die wohngeldberechtigte Person allein mit noch nicht volljährigen Haushaltsmitgliedern zusammenwohnt und wegen Erwerbstätigkeit oder Ausbildung nicht nur kurzfristig von der Wohn- und Wirtschaftsgemeinschaft abwesend ist;
+3.  
+1 320 Euro, wenn
 
-5.  
-ein Betrag in Höhe des eigenen Einkommens jedes Kindes eines Haushaltsmitgliedes, höchstens jedoch 600 Euro, wenn das Kind ein zu berücksichtigendes Haushaltsmitglied und mindestens 16 Jahre, aber noch nicht 25 Jahre alt ist.
+a)  
+ein zu berücksichtigendes Haushaltsmitglied ausschließlich mit einem Kind oder mehreren Kindern Wohnraum gemeinsam bewohnt und
+
+b)  
+mindestens eines dieser Kinder noch nicht 18 Jahre alt ist und für dieses Kindergeld nach dem Einkommensteuergesetz oder dem Bundeskindergeldgesetz oder eine in § 65 Absatz 1 Satz 1 des Einkommensteuergesetzes genannte Leistung gewährt wird;
+
+4.  
+ein Betrag in Höhe der eigenen Einnahmen aus Erwerbstätigkeit jedes Kindes eines Haushaltsmitgliedes, höchstens jedoch 1 200 Euro, wenn das Kind ein zu berücksichtigendes Haushaltsmitglied und noch nicht 25 Jahre alt ist.
 
 ### § 18 Abzugsbeträge für Unterhaltsleistungen
 
@@ -948,7 +980,7 @@ Bei der Ermittlung des Gesamteinkommens sind die folgenden zu erwartenden Aufwen
 bis zu 3 000 Euro jährlich für ein zu berücksichtigendes Haushaltsmitglied, das wegen Berufsausbildung auswärts wohnt, soweit es nicht von Nummer 2 erfasst ist;
 
 2.  
-bis zu 3 000 Euro jährlich für ein Kind, das Haushaltsmitglied nach § 5 Abs. 6 ist; dies gilt nur für Aufwendungen, die an das Kind als Haushaltsmitglied bei dem anderen Elternteil geleistet werden;
+bis zu 3 000 Euro jährlich für ein Kind, das Haushaltsmitglied nach § 5 Absatz 4 ist; dies gilt nur für Aufwendungen, die an das Kind als Haushaltsmitglied bei dem anderen Elternteil geleistet werden;
 
 3.  
 bis zu 6 000 Euro jährlich für einen früheren oder dauernd getrennt lebenden Ehegatten oder Lebenspartner oder eine frühere oder dauernd getrennt lebende Lebenspartnerin, der oder die kein Haushaltsmitglied ist;
@@ -969,13 +1001,13 @@ Kapitel 5 Höhe des Wohngeldes
 
 |                                           |
 |-------------------------------------------|
-| 1,08 · (M – (a + b · M + c · Y) ·Y) Euro. |
+| 1,15 · (M – (a + b · M + c · Y) ·Y) Euro. |
 
-„M“ ist die gerundete zu berücksichtigende monatliche Miete oder Belastung in Euro. „Y“ ist das gerundete monatliche Gesamteinkommen in Euro. „a“, „b“ und „c“ sind nach der Anzahl der zu berücksichtigenden Haushaltsmitglieder unterschiedene Werte und ergeben sich aus der Anlage 1.
+„M“ ist die zu berücksichtigende monatliche Miete oder Belastung in Euro. „Y“ ist das monatliche Gesamteinkommen in Euro. „a“, „b“ und „c“ sind nach der Anzahl der zu berücksichtigenden Haushaltsmitglieder unterschiedene Werte und ergeben sich aus der Anlage 1.
 
 (2) Die zur Berechnung des Wohngeldes erforderlichen Rechenschritte und Rundungen sind in der Reihenfolge auszuführen, die sich aus der Anlage 2 ergibt.
 
-(3) Sind mehr als zwölf Haushaltsmitglieder zu berücksichtigen, erhöht sich für das 13. und jedes weitere zu berücksichtigende Haushaltsmitglied das nach den Absätzen 1 und 2 berechnete monatliche Wohngeld um jeweils 43 Euro, höchstens jedoch bis zur Höhe der zu berücksichtigenden Miete oder Belastung.
+(3) Sind mehr als zwölf Haushaltsmitglieder zu berücksichtigen, erhöht sich für das 13. und jedes weitere zu berücksichtigende Haushaltsmitglied das nach den Absätzen 1 und 2 berechnete monatliche Wohngeld um jeweils 47 Euro, höchstens jedoch bis zur Höhe der zu berücksichtigenden Miete oder Belastung.
 
 Teil 3 Nichtbestehen des Wohngeldanspruchs
 ------------------------------------------
@@ -984,9 +1016,20 @@ Teil 3 Nichtbestehen des Wohngeldanspruchs
 
 ### § 20 Gesetzeskonkurrenz
 
-(1) Ein alleinstehender Wehrpflichtiger im Sinne des § 7a Abs. 1 des Unterhaltssicherungsgesetzes hat für die Dauer seines Grundwehrdienstes keinen Wohngeldanspruch, es sei denn, die Mietbeihilfe nach § 7a des Unterhaltssicherungsgesetzes ist abgelehnt worden; § 25 Abs. 3 gilt entsprechend. Ist dem Wehrpflichtigen Wohngeld für einen Zeitraum bewilligt worden, in den der Beginn des Grundwehrdienstes fällt, ist das Wohngeld bis zum Ablauf des Bewilligungszeitraums in gleicher Höhe weiterzuleisten; § 27 Abs. 2 und § 28 bleiben unberührt. Die Sätze 1 und 2 gelten entsprechend für Personen, für die § 7a Abs. 1 des Unterhaltssicherungsgesetzes unmittelbar oder entsprechend gilt.
+(1) Besteht für Haushaltsmitglieder ein Anspruch auf Leistungen nach den §§ 13 oder 17 Absatz 1 des Unterhaltssicherungsgesetzes, so haben diese Personen für die Dauer des freiwilligen Wehrdienstes nach § 58b des Soldatengesetzes keinen Wohngeldanspruch; § 3 Absatz 4 und § 11 Absatz 3 dieses Gesetzes gelten entsprechend. Ist der oder dem freiwilligen Wehrdienst Leistenden Wohngeld für einen Zeitraum bewilligt worden, in den der Beginn des freiwilligen Wehrdienstes fällt, so ist das Wohngeld bis zum Ablauf des Bewilligungszeitraums in gleicher Höhe weiter zu leisten; § 27 Absatz 2 und § 28 bleiben unberührt.
 
-(2) Stehen allen Haushaltsmitgliedern Leistungen zur Förderung der Ausbildung nach dem Bundesausbildungsförderungsgesetz oder den §§ 56, 116 Absatz 3 oder § 122 des Dritten Buches Sozialgesetzbuch dem Grunde nach zu oder stünden ihnen diese Leistungen im Fall eines Antrages dem Grunde nach zu, besteht kein Wohngeldanspruch. Satz 1 gilt nicht, wenn die Leistungen ausschließlich als Darlehen gewährt werden. Satz 1 gilt auch, wenn dem Grunde nach Förderungsberechtigte der Höhe nach keinen Anspruch auf Förderung haben. Ist Wohngeld für einen Zeitraum bewilligt, in den der Beginn der Ausbildung fällt, ist das Wohngeld bis zum Ablauf des Bewilligungszeitraums in gleicher Höhe weiterzuleisten; § 27 Abs. 2 und § 28 bleiben unberührt.
+(2) Es besteht kein Wohngeldanspruch, wenn allen Haushaltsmitgliedern eine der folgenden Leistungen dem Grunde nach zusteht oder im Fall ihres Antrages dem Grunde nach zustünde:
+
+1.  
+Leistungen zur Förderung der Ausbildung nach dem Bundesausbildungsförderungsgesetz,
+
+2.  
+Leistungen nach den §§ 56, 116 Absatz 3 oder § 122 des Dritten Buches Sozialgesetzbuch oder
+
+3.  
+Leistungen zur Sicherung des Lebensunterhaltes während des ausbildungsbegleitenden Praktikums oder der betrieblichen Berufsausbildung bei Teilnahme am Sonderprogramm Förderung der beruflichen Mobilität von ausbildungsinteressierten Jugendlichen und arbeitslosen jungen Fachkräften aus Europa.
+
+Satz 1 gilt auch, wenn dem Grunde nach Förderungsberechtigte der Höhe nach keinen Anspruch auf Förderung haben. Satz 1 gilt nicht, wenn die Leistungen ausschließlich als Darlehen gewährt werden. Ist Wohngeld für einen Zeitraum bewilligt, in den der Beginn der Ausbildung fällt, ist das Wohngeld bis zum Ablauf des Bewilligungszeitraums in gleicher Höhe weiterzuleisten; § 27 Abs. 2 und § 28 bleiben unberührt.
 
 ### § 21 Sonstige Gründe
 
@@ -1020,7 +1063,7 @@ Teil 4 Bewilligung, Zahlung und Änderung des Wohngeldes
 
 ### § 23 Auskunftspflicht
 
-(1) Soweit die Durchführung dieses Gesetzes es erfordert, sind folgende Personen verpflichtet, der Wohngeldbehörde Auskunft über ihre für das Wohngeld maßgebenden Verhältnisse zu geben:
+(1) Soweit die Durchführung dieses Gesetzes es erfordert, sind folgende Personen verpflichtet, auf Verlangen der Wohngeldbehörde Auskunft über ihre für das Wohngeld maßgebenden Verhältnisse zu geben:
 
 1.  
 die Haushaltsmitglieder,
@@ -1045,11 +1088,11 @@ die Eltern der zu berücksichtigenden Haushaltsmitglieder,
 
 die keine Haushaltsmitglieder sind.
 
-Die Haushaltsmitglieder sind verpflichtet, ihr Geschlecht anzugeben (§ 33 Abs. 3 Satz 1 Nr. 6 und § 35 Abs. 1 Nr. 5).
+Die Haushaltsmitglieder sind verpflichtet, ihr Geschlecht anzugeben (§ 33 Abs. 3 Satz 1 Nr. 6 und § 35 Abs. 1 Nr. 5). Die wohngeldberechtigte Person hat im Wohngeldantrag nach § 22 und im Antrag nach § 27 Absatz 1 alle Tatsachen anzugeben, die für die Leistung erheblich sind.
 
-(2) Soweit die Durchführung dieses Gesetzes es erfordert, sind die Arbeitgeber der zu berücksichtigenden Haushaltsmitglieder verpflichtet, der Wohngeldbehörde über Art und Dauer des Arbeitsverhältnisses sowie über Arbeitsstätte und Arbeitsverdienst Auskunft zu geben.
+(2) Soweit die Durchführung dieses Gesetzes es erfordert, sind die Arbeitgeber der zu berücksichtigenden Haushaltsmitglieder verpflichtet, auf Verlangen der Wohngeldbehörde über Art und Dauer des Arbeitsverhältnisses sowie über Arbeitsstätte und Arbeitsverdienst Auskunft zu geben.
 
-(3) Der Empfänger oder die Empfängerin der Miete ist verpflichtet, der Wohngeldbehörde über die Höhe und Zusammensetzung der Miete sowie über andere das Miet- oder Nutzungsverhältnis betreffende Umstände Auskunft zu geben, soweit die Durchführung dieses Gesetzes es erfordert.
+(3) Der Empfänger oder die Empfängerin der Miete ist verpflichtet, auf Verlangen der Wohngeldbehörde über die Höhe und Zusammensetzung der Miete sowie über andere das Miet- oder Nutzungsverhältnis betreffende Umstände Auskunft zu geben, soweit die Durchführung dieses Gesetzes es erfordert.
 
 (4) Zur Aufdeckung rechtswidriger Inanspruchnahme von Wohngeld sind die Kapitalerträge auszahlenden Stellen, denen ein zu berücksichtigendes Haushaltsmitglied einen Freistellungsauftrag für Kapitalerträge erteilt hat, verpflichtet, der Wohngeldbehörde Auskunft über die Höhe der zugeflossenen Kapitalerträge zu erteilen. § 21 Absatz 3 Satz 4 des Zehnten Buches Sozialgesetzbuch gilt entsprechend. Ein Auskunftsersuchen der Wohngeldbehörde ist nur zulässig, wenn auf Grund eines Datenabgleichs nach § 33 der Verdacht besteht oder feststeht, dass Wohngeld rechtswidrig in Anspruch genommen wurde oder wird und dass das zu berücksichtigende Haushaltsmitglied, auch soweit es dazu berechtigt ist, nicht oder nicht vollständig bei der Ermittlung der Kapitalerträge mitwirkt. Die Auslagen für Auskünfte von Kapitalerträge auszahlenden Stellen, die durch die Ermittlung der rechtswidrigen Inanspruchnahme von Wohngeld entstanden sind, sollen abweichend von § 64 Absatz 1 des Zehnten Buches Sozialgesetzbuch von der Person, die Wohngeld zu erstatten hat, erhoben werden.
 
@@ -1061,9 +1104,20 @@ Die Haushaltsmitglieder sind verpflichtet, ihr Geschlecht anzugeben (§ 33 Abs. 
 
 (2) Der Entscheidung sind die Verhältnisse im Bewilligungszeitraum, die im Zeitpunkt der Antragstellung zu erwarten sind, zu Grunde zu legen. Treten nach dem Zeitpunkt der Antragstellung bis zur Bekanntgabe des Wohngeldbescheides Änderungen der Verhältnisse im Bewilligungszeitraum ein, sind sie grundsätzlich nicht zu berücksichtigen; Änderungen im Sinne des § 27 Abs. 1 und 2, § 28 Abs. 1 bis 3 oder § 43 sollen berücksichtigt werden. Satz 2 gilt für nach dem Zeitpunkt der Antragstellung bis zur Bekanntgabe des Wohngeldbescheides zu erwartende Änderungen entsprechend.
 
-(3) Der Bewilligungsbescheid muss die in § 27 Abs. 3 Satz 1 Nr. 2 und 3 genannten Beträge ausweisen und einen Hinweis über die Mitteilungspflichten nach § 27 Abs. 3 und 4 sowie § 28 Abs. 1 Satz 2 und Abs. 4 Satz 1 enthalten. Er soll einen Hinweis enthalten, dass der Wohngeldantrag für die Zeit nach Ablauf des Bewilligungszeitraums wiederholt werden kann.
+(3) Der Bewilligungsbescheid muss die in § 27 Abs. 3 Satz 1 Nr. 2 und 3 genannten Beträge ausweisen und einen Hinweis über die Mitteilungspflichten nach § 27 Abs. 3 und 4 sowie § 28 Abs. 1 Satz 2 und Abs. 4 Satz 1 enthalten. Er soll einen Hinweis enthalten, dass der Wohngeldantrag für die Zeit nach Ablauf des Bewilligungszeitraums wiederholt werden kann und dass eine Neuentscheidung von Amts wegen mit der Folge des Wohngeldwegfalles oder eines verringerten Wohngeldes auch dann möglich ist, wenn keine Mitteilungspflicht besteht.
 
-(4) Für die Aufhebung eines Wohngeldbescheides, die Rückforderung zu erstattenden Wohngeldes sowie die Unterrichtung und den Hinweis nach § 28 Abs. 5 ist die Wohngeldbehörde zuständig, die den Wohngeldbescheid erlassen hat.
+(4) Erzielt mindestens eines der zu berücksichtigenden Haushaltsmitglieder Einkünfte aus selbständiger Arbeit, aus Gewerbebetrieb oder aus Land- und Forstwirtschaft, so kann der Wohngeldbewilligungsbescheid mit der Auflage verbunden werden, dass die Einkommensteuerbescheide, die den Zeitraum der Wohngeldbewilligung betreffen, unverzüglich der Wohngeldbehörde zur Prüfung, ob ein Fall des § 27 Absatz 2 Satz 1 Nummer 3 vorliegt, vorzulegen sind.
+
+(5) Wenn infolge des Umzugs der wohngeldberechtigten Person eine andere Wohngeldbehörde zuständig wird, bleibt abweichend von § 44 Absatz 3 des Zehnten Buches Sozialgesetzbuch die Wohngeldbehörde, die den Wohngeldbescheid erlassen hat, zuständig für
+
+1.  
+die Aufhebung eines Wohngeldbescheides,
+
+2.  
+die Rückforderung des zu erstattenden Wohngeldes sowie
+
+3.  
+die Unterrichtung und den Hinweis nach § 28 Absatz 5.
 
 ### § 25 Bewilligungszeitraum
 
@@ -1071,17 +1125,25 @@ Die Haushaltsmitglieder sind verpflichtet, ihr Geschlecht anzugeben (§ 33 Abs. 
 
 (2) Der Bewilligungszeitraum beginnt am Ersten des Monats, in dem der Wohngeldantrag gestellt worden ist. Treten die Voraussetzungen für die Bewilligung des Wohngeldes erst in einem späteren Monat ein, beginnt der Bewilligungszeitraum am Ersten dieses Monats.
 
-(3) Der Bewilligungszeitraum beginnt am Ersten des Monats, von dem ab Leistungen im Sinne des § 7 Abs. 1 abgelehnt worden sind, wenn der Wohngeldantrag vor Ablauf des Kalendermonats gestellt wird, der auf die Kenntnis der Ablehnung folgt. Dies gilt entsprechend, wenn der Ausschluss nach § 8 Abs. 1 Satz 3 oder Abs. 2 als nicht erfolgt gilt. Ist ein Bewilligungsbescheid nach § 28 Abs. 3 unwirksam geworden, beginnt abweichend von den Sätzen 1 und 2 der Bewilligungszeitraum frühestens am Ersten des Monats, von dem an die Unwirksamkeit eingetreten ist.
+(3) Der Bewilligungszeitraum beginnt am Ersten des Monats, von dem ab Leistungen im Sinne des § 7 Abs. 1 abgelehnt worden sind, wenn der Wohngeldantrag vor Ablauf des Kalendermonats gestellt wird, der auf die Kenntnis der Ablehnung folgt. Dies gilt entsprechend, wenn der Ausschluss nach § 8 Abs. 1 Satz 3 oder Abs. 2 als nicht erfolgt gilt.
 
-(4) Der neue Bewilligungszeitraum im Fall des § 27 Abs. 1 Satz 2 beginnt am Ersten des Monats, von dem an die erhöhte Miete oder Belastung rückwirkend berücksichtigt wird, wenn der Antrag vor Ablauf des Kalendermonats gestellt wird, der auf die Kenntnis von der Erhöhung der Miete oder Belastung folgt.
+(4) Ist ein Wohngeldbewilligungsbescheid nach § 28 Absatz 3 unwirksam geworden, beginnt der Wohngeldbewilligungszeitraum abweichend von § 25 Absatz 3 Satz 1 frühestens am Ersten des Monats, von dem an die Unwirksamkeit des Wohngeldbewilligungsbescheides eingetreten ist; dies gilt nur unter der Voraussetzung, dass der Wohngeldantrag vor Ablauf des Kalendermonats gestellt wird, der
 
-(5) Der neue Bewilligungszeitraum im Fall des § 28 Abs. 3 beginnt am Ersten des Monats, an dem die Unwirksamkeit des Bewilligungsbescheides eintritt, wenn der Wohngeldantrag vor Ablauf des Kalendermonats gestellt wird, der auf die Kenntnis von der Unwirksamkeit folgt.
+1.  
+auf die Kenntnis der Ablehnung einer Leistung nach § 7 Absatz 1 folgt oder
+
+2.  
+auf die Kenntnis von der Unwirksamkeit des Wohngeldbewilligungsbescheides folgt, wenn nur ein Teil der zu berücksichtigenden Haushaltsmitglieder nach § 7 vom Wohngeld ausgeschlossen ist.
+
+Der Ablehnung einer Leistung nach § 7 Absatz 1 im Sinne des § 25 Absatz 4 Satz 1 Nummer 1 stehen die Fälle des § 8 Absatz 1 Satz 3 und Absatz 2 gleich. Wird eine Leistung nach § 7 Absatz 1 rückwirkend für alle zu berücksichtigenden Haushaltsmitglieder und nur für einen Teil des bisherigen Wohngeldbewilligungszeitraums gewährt, beginnt der neue Wohngeldbewilligungszeitraum am Ersten des Monats, von dem an die Leistung nach § 7 Absatz 1 nicht mehr gewährt wird; dies gilt nur unter der Voraussetzung, dass der Wohngeldantrag vor Ablauf des Kalendermonats gestellt wird, der auf die Kenntnis von dem Ende des Bewilligungszeitraums einer Leistung nach § 7 Absatz 1 folgt.
+
+(5) Der neue Bewilligungszeitraum im Fall des § 27 Abs. 1 Satz 2 beginnt am Ersten des Monats, von dem an die erhöhte Miete oder Belastung rückwirkend berücksichtigt wird, wenn der Antrag vor Ablauf des Kalendermonats gestellt wird, der auf die Kenntnis von der Erhöhung der Miete oder Belastung folgt.
 
 ### § 26 Zahlung des Wohngeldes
 
-(1) Das Wohngeld ist an die wohngeldberechtigte Person zu zahlen. Es kann mit schriftlicher Einwilligung der wohngeldberechtigten Person oder, wenn dies im Einzelfall geboten ist, auch ohne deren Einwilligung, an ein anderes Haushaltsmitglied, an den Empfänger oder die Empfängerin der Miete oder in den Fällen des § 3 Abs. 1 Satz 2 Nr. 3 an den Leistungsträger im Sinne des § 12 des Ersten Buches Sozialgesetzbuch gezahlt werden. Wird das Wohngeld nach Satz 2 gezahlt, ist die wohngeldberechtigte Person hiervon zu unterrichten. Wird das Wohngeld an ein anderes Haushaltsmitglied gezahlt, ist es über die in § 27 Abs. 3 Satz 1 Nr. 2 und 3 genannten Beträge und seine Mitteilungspflichten nach § 27 Abs. 3 Satz 1 und § 28 Abs. 1 Satz 2 und Abs. 4 Satz 1 schriftlich zu unterrichten.
+(1) Das Wohngeld ist an die wohngeldberechtigte Person zu zahlen. Es kann mit schriftlicher Einwilligung der wohngeldberechtigten Person oder, wenn dies im Einzelfall geboten ist, auch ohne deren Einwilligung, an ein anderes Haushaltsmitglied, an den Empfänger oder die Empfängerin der Miete oder in den Fällen des § 3 Abs. 1 Satz 2 Nr. 3 an den Leistungsträger im Sinne des § 12 des Ersten Buches Sozialgesetzbuch gezahlt werden. Wird das Wohngeld nach Satz 2 gezahlt, ist die wohngeldberechtigte Person hiervon zu unterrichten.
 
-(2) Das Wohngeld ist monatlich im Voraus auf ein Konto eines Haushaltsmitgliedes bei einem Geldinstitut im Inland zu zahlen. Ist ein solches Konto nicht vorhanden, kann das Wohngeld an den Wohnsitz der wohngeldberechtigten Person übermittelt werden; die dadurch veranlassten Kosten sollen vom Wohngeld abgezogen werden.
+(2) Das Wohngeld ist monatlich im Voraus auf ein Konto eines Haushaltsmitgliedes bei einem Geldinstitut, für das die Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22) gilt (Geldinstitut), zu zahlen. Ist ein solches Konto nicht vorhanden, kann das Wohngeld an den Wohnsitz der wohngeldberechtigten Person übermittelt werden; die dadurch veranlassten Kosten sollen vom Wohngeld abgezogen werden.
 
 ### § 27 Änderung des Wohngeldes
 
@@ -1098,7 +1160,7 @@ das Gesamteinkommen um mehr als 15 Prozent verringert
 
 und sich dadurch das Wohngeld erhöht. Im Fall des Satzes 1 Nr. 2 ist das Wohngeld auch rückwirkend zu bewilligen, frühestens jedoch ab Beginn des laufenden Bewilligungszeitraums, wenn sich die zu berücksichtigende Miete oder Belastung rückwirkend um mehr als 15 Prozent erhöht hat. Satz 1 Nr. 3 ist auch anzuwenden, wenn sich das Gesamteinkommen um mehr als 15 Prozent verringert, weil sich die Anzahl der zu berücksichtigenden Haushaltsmitglieder verringert hat.
 
-(2) Über die Leistung des Wohngeldes ist von Amts wegen mit Wirkung vom Zeitpunkt der Änderung der Verhältnisse an neu zu entscheiden, wenn sich im laufenden Bewilligungszeitraum nicht nur vorübergehend
+(2) Über die Leistung des Wohngeldes ist von Amts wegen mit Wirkung ab dem Zeitpunkt der Änderung der Verhältnisse unter Aufhebung des Bewilligungsbescheides neu zu entscheiden, wenn sich im laufenden Bewilligungszeitraum nicht nur vorübergehend
 
 1.  
 die Anzahl der zu berücksichtigenden Haushaltsmitglieder auf mindestens ein zu berücksichtigendes Haushaltsmitglied verringert; § 6 Abs. 2 bleibt unberührt,
@@ -1109,9 +1171,9 @@ die zu berücksichtigende Miete oder Belastung um mehr als 15 Prozent verringert
 3.  
 das Gesamteinkommen um mehr als 15 Prozent erhöht
 
-und dadurch das Wohngeld wegfällt oder sich verringert. Als Zeitpunkt der Änderung der Verhältnisse gilt im Fall des Satzes 1 Nr. 1 der Tag nach dem Auszug, im Fall des Satzes 1 Nr. 2 der Beginn des Zeitraums, für den sich die zu berücksichtigende Miete oder Belastung um mehr als 15 Prozent verringert, und im Fall des Satzes 1 Nr. 3 der Beginn des Zeitraums, für den das erhöhte Einkommen bezogen wird, das zu einer Erhöhung des Gesamteinkommens um mehr als 15 Prozent führt. Tritt die Änderung der Verhältnisse nicht zum Ersten eines Monats ein, ist mit Wirkung vom Ersten des nächsten Monats an zu entscheiden. Satz 1 Nr. 3 ist auch anzuwenden, wenn sich das Gesamteinkommen um mehr als 15 Prozent erhöht, weil sich die Anzahl der zu berücksichtigenden Haushaltsmitglieder erhöht hat. Als Zeitpunkt der Antragstellung im Sinne des § 24 Abs. 2 gilt der Zeitpunkt der Kenntnis der Wohngeldbehörde von den geänderten Verhältnissen.
+und dadurch das Wohngeld wegfällt oder sich verringert. Als Zeitpunkt der Änderung der Verhältnisse gilt im Fall des Satzes 1 Nr. 1 der Tag nach dem Auszug, im Fall des Satzes 1 Nr. 2 der Beginn des Zeitraums, für den sich die zu berücksichtigende Miete oder Belastung um mehr als 15 Prozent verringert, und im Fall des Satzes 1 Nr. 3 der Beginn des Zeitraums, für den das erhöhte Einkommen bezogen wird, das zu einer Erhöhung des Gesamteinkommens um mehr als 15 Prozent führt. Tritt die Änderung der Verhältnisse nicht zum Ersten eines Monats ein, ist mit Wirkung vom Ersten des nächsten Monats an zu entscheiden. Satz 1 Nr. 3 ist auch anzuwenden, wenn sich das Gesamteinkommen um mehr als 15 Prozent erhöht, weil sich die Anzahl der zu berücksichtigenden Haushaltsmitglieder erhöht hat. Als Zeitpunkt der Antragstellung im Sinne des § 24 Abs. 2 gilt der Zeitpunkt der Kenntnis der Wohngeldbehörde von den geänderten Verhältnissen. Eine Neuentscheidung von Amts wegen muss innerhalb eines Jahres, nachdem die Wohngeldbehörde von der Änderung der Verhältnisse Kenntnis erlangt hat, erfolgen. Die Neuentscheidung ist unabhängig vom Bestehen einer Mitteilungspflicht.
 
-(3) Die wohngeldberechtigte Person und das Haushaltsmitglied, an welches das Wohngeld nach § 26 Abs. 1 Satz 2 gezahlt wird, müssen der Wohngeldbehörde unverzüglich mitteilen, wenn sich im laufenden Bewilligungszeitraum nicht nur vorübergehend
+(3) Die wohngeldberechtigte Person muss der Wohngeldbehörde unverzüglich mitteilen, wenn sich im laufenden Bewilligungszeitraum nicht nur vorübergehend
 
 1.  
 die Anzahl der zu berücksichtigenden Haushaltsmitglieder (§ 6 Abs. 1) auf mindestens ein zu berücksichtigendes Haushaltsmitglied verringert oder die Anzahl der vom Wohngeld ausgeschlossenen Haushaltsmitglieder (§§ 7 und 8 Abs. 1) erhöht,
@@ -1122,25 +1184,25 @@ die monatliche Miete (§ 9) oder die monatliche Belastung (§ 10) um mehr als 15
 3.  
 die Summe aus den monatlichen positiven Einkünften nach § 14 Abs. 1 und den monatlichen Einnahmen nach § 14 Abs. 2 aller zu berücksichtigenden Haushaltsmitglieder um mehr als 15 Prozent gegenüber dem im Bewilligungsbescheid genannten Betrag erhöht; dies gilt auch, wenn sich der Betrag um mehr als 15 Prozent erhöht, weil sich die Anzahl der zu berücksichtigenden Haushaltsmitglieder erhöht hat.
 
-Die zu berücksichtigenden Haushaltsmitglieder sind verpflichtet, der wohngeldberechtigten Person und dem Haushaltsmitglied, an welches das Wohngeld nach § 26 Abs. 1 Satz 2 gezahlt wird, Änderungen ihrer monatlichen positiven Einkünfte nach § 14 Abs. 1 und ihrer monatlichen Einnahmen nach § 14 Abs. 2 mitzuteilen.
+Die zu berücksichtigenden Haushaltsmitglieder sind verpflichtet, der wohngeldberechtigten Person Änderungen ihrer monatlichen positiven Einkünfte nach § 14 Abs. 1 und ihrer monatlichen Einnahmen nach § 14 Abs. 2 mitzuteilen.
 
-(4) Die Absätze 2 und 3 gelten entsprechend, wenn sich die Änderungen nach Absatz 2 Satz 1 und 4 und Absatz 3 Satz 1 auf einen abgelaufenen Bewilligungszeitraum beziehen, längstens für drei Jahre vor Kenntnis der wohngeldberechtigten Person oder der zu berücksichtigenden Haushaltsmitglieder von der Änderung der Verhältnisse; der Kenntnis steht die Nichtkenntnis infolge grober Fahrlässigkeit gleich.
+(4) Die Absätze 2 und 3 gelten entsprechend, wenn sich die Änderungen nach Absatz 2 Satz 1 und 4 und Absatz 3 Satz 1 auf einen abgelaufenen Bewilligungszeitraum beziehen. Werden die Änderungen erst nach Ablauf des Bewilligungszeitraums bekannt und wirken sie auf einen oder mehrere abgelaufene Bewilligungszeiträume zurück, so ist eine Entscheidung nach Absatz 2 längstens für die drei Jahre, bevor die wohngeldberechtigte Person oder die zu berücksichtigenden Haushaltsmitglieder von der Änderung der Verhältnisse Kenntnis erlangt haben, zulässig; der Kenntnis steht die Nichtkenntnis infolge grober Fahrlässigkeit gleich. Hat die wohngeldberechtigte Person eine Änderung nach Absatz 2 Satz 1 und 4 im laufenden Bewilligungszeitraum nicht mitgeteilt und erhält die Wohngeldbehörde daher erst nach Ablauf des Bewilligungszeitraums von der Änderung Kenntnis, so ist eine Entscheidung nach Absatz 2 längstens für zehn Jahre seit Änderung der Verhältnisse zulässig.
 
 ### § 28 Unwirksamkeit des Bewilligungsbescheides und Wegfall des Wohngeldanspruchs
 
-(1) Der Bewilligungsbescheid wird vom Ersten des Monats an unwirksam, in dem der Wohnraum, für den Wohngeld bewilligt ist, von keinem zu berücksichtigenden Haushaltsmitglied mehr genutzt wird; erfolgt die Nutzungsaufgabe nicht zum Ersten eines Monats, wird der Bewilligungsbescheid vom Ersten des nächsten Monats an unwirksam. Die wohngeldberechtigte Person und das Haushaltsmitglied, an welches das Wohngeld nach § 26 Abs. 1 Satz 2 gezahlt wird, müssen der Wohngeldbehörde unverzüglich mitteilen, dass der Wohnraum nicht mehr genutzt wird.
+(1) Der Bewilligungsbescheid wird vom Ersten des Monats an unwirksam, in dem der Wohnraum, für den Wohngeld bewilligt ist, von keinem zu berücksichtigenden Haushaltsmitglied mehr genutzt wird; erfolgt die Nutzungsaufgabe nicht zum Ersten eines Monats, wird der Bewilligungsbescheid vom Ersten des nächsten Monats an unwirksam. Die wohngeldberechtigte Person muss der Wohngeldbehörde unverzüglich mitteilen, dass der Wohnraum nicht mehr genutzt wird. Der Wechsel des Wohnraums innerhalb desselben Heimes im Sinne des Heimgesetzes oder entsprechender Gesetze der Länder gilt nicht als Nutzungsaufgabe.
 
-(2) Der Wohngeldanspruch fällt für den Monat weg, in dem das Wohngeld vollständig oder überwiegend nicht zur Bezahlung der Miete oder zur Aufbringung der Belastung verwendet wird (zweckwidrige Verwendung). Die zweckwidrige Verwendung gilt als wesentliche Änderung der Verhältnisse im Sinne des § 48 Abs. 1 Satz 1 und 2 des Zehnten Buches Sozialgesetzbuch. Die Sätze 1 und 2 gelten nicht, soweit der Wohngeldanspruch Gegenstand einer Aufrechnung, Verrechnung oder Pfändung nach den §§ 51, 52 und 54 des Ersten Buches Sozialgesetzbuch ist oder auf einen Leistungsträger im Sinne des § 12 des Ersten Buches Sozialgesetzbuch übergegangen ist.
+(2) Der Wohngeldanspruch fällt für den Monat weg, in dem das Wohngeld vollständig oder überwiegend nicht zur Bezahlung der Miete oder zur Aufbringung der Belastung verwendet wird (zweckwidrige Verwendung). Der Bewilligungsbescheid ist mit Wirkung vom Ersten des Monats der zweckwidrigen Verwendung an aufzuheben, wenn seine Bekanntgabe nicht länger als zehn Jahre und die Kenntnis der Wohngeldbehörde von der zweckwidrigen Verwendung nicht länger als ein Jahr zurückliegt. Die Sätze 1 und 2 gelten nicht, soweit der Wohngeldanspruch Gegenstand einer Aufrechnung, Verrechnung oder Pfändung nach den §§ 51, 52 und 54 des Ersten Buches Sozialgesetzbuch ist oder auf einen Leistungsträger im Sinne des § 12 des Ersten Buches Sozialgesetzbuch übergegangen ist.
 
 (3) Der Bewilligungsbescheid wird von dem Zeitpunkt an unwirksam, ab dem ein zu berücksichtigendes Haushaltsmitglied nach den §§ 7 und 8 Abs. 1 vom Wohngeld ausgeschlossen ist. Im Fall des § 8 Abs. 1 Satz 3 bleibt der Bewilligungsbescheid unwirksam.
 
-(4) Die wohngeldberechtigte Person und das Haushaltsmitglied, an welches das Wohngeld nach § 26 Abs. 1 Satz 2 gezahlt wird, müssen der Wohngeldbehörde unverzüglich mitteilen, wenn für ein zu berücksichtigendes Haushaltsmitglied ein Verwaltungsverfahren zur Feststellung von Grund und Höhe einer Leistung nach § 7 Abs. 1 oder Abs. 2 begonnen hat oder ein zu berücksichtigendes Haushaltsmitglied eine Leistung nach § 7 Abs. 1 empfängt. Die zu berücksichtigenden Haushaltsmitglieder sind verpflichtet, der wohngeldberechtigten Person und dem Haushaltsmitglied, an welches das Wohngeld nach § 26 Abs. 1 Satz 2 gezahlt wird, die in Satz 1 genannten Tatsachen mitzuteilen.
+(4) Die wohngeldberechtigte Person muss der Wohngeldbehörde unverzüglich mitteilen, wenn für ein zu berücksichtigendes Haushaltsmitglied ein Verwaltungsverfahren zur Feststellung von Grund und Höhe einer Leistung nach § 7 Abs. 1 oder Abs. 2 begonnen hat oder ein zu berücksichtigendes Haushaltsmitglied eine Leistung nach § 7 Abs. 1 empfängt. Die zu berücksichtigenden Haushaltsmitglieder sind verpflichtet, der wohngeldberechtigten Person die in Satz 1 genannten Tatsachen mitzuteilen.
 
-(5) Die wohngeldberechtigte Person ist von der Unwirksamkeit des Bewilligungsbescheides zu unterrichten und im Fall des Absatzes 3 auf die Antragsfrist nach § 25 Abs. 3 Satz 1 und 2 oder Abs. 5 hinzuweisen.
+(5) Die wohngeldberechtigte Person ist von der Unwirksamkeit des Bewilligungsbescheides zu unterrichten und im Fall des Absatzes 3 auf die Antragsfrist nach § 25 Abs. 3 Satz 1 und 2 oder Absatz 4 hinzuweisen.
 
-(6) Der Wohngeldanspruch ändert sich nur wegen der in § 27, den vorstehenden Absätzen 1 bis 3 oder § 43 Abs. 1 genannten Umstände.
+(6) Der Wohngeldanspruch ändert sich nur wegen der in § 27, den vorstehenden Absätzen 1 bis 3, § 42a oder § 43 Abs. 1 genannten Umstände.
 
-### § 29 Haftung, Aufrechnung und Verrechnung
+### § 29 Haftung, Aufrechnung, Verrechnung und vorläufige Zahlungseinstellung
 
 (1) Ist Wohngeld nach § 50 des Zehnten Buches Sozialgesetzbuch zu erstatten, haften neben der wohngeldberechtigten Person die volljährigen und bei der Berechnung des Wohngeldes berücksichtigten Haushaltsmitglieder als Gesamtschuldner.
 
@@ -1148,9 +1210,19 @@ Die zu berücksichtigenden Haushaltsmitglieder sind verpflichtet, der wohngeldbe
 
 (3) Die Wohngeldbehörde kann Ansprüche eines anderen Leistungsträgers abweichend von § 52 des Ersten Buches Sozialgesetzbuch mit der ihr obliegenden Wohngeldleistung verrechnen, soweit nach Absatz 2 die Aufrechnung zulässig ist.
 
+(4) Die Wohngeldbehörde kann die Zahlung des Wohngeldes ohne Erlass eines Bescheides vorläufig ganz oder teilweise einstellen, wenn sie Kenntnis von Tatsachen erhält, die die Annahme rechtfertigen, dass
+
+1.  
+der Bewilligungsbescheid bei Erlass rechtswidrig war und die wohngeldberechtigte Person sich nach § 45 Absatz 2 Satz 3 des Zehnten Buches Sozialgesetzbuch nicht auf Vertrauensschutz berufen kann oder
+
+2.  
+die Voraussetzungen des § 27 Absatz 2, auch in Verbindung mit Absatz 4 oder § 28 Absatz 1 bis 3, vorliegen.
+
+Soweit die Kenntnis nicht auf Angaben der wohngeldberechtigten Person beruht, sind dieser unverzüglich die vorläufige Einstellung der Wohngeldzahlung sowie die dafür maßgeblichen Gründe mitzuteilen und ist ihr Gelegenheit zu geben, sich zu äußern. Die Wohngeldbehörde hat eine vorläufig eingestellte Wohngeldleistung unverzüglich nachzuzahlen, wenn nicht entweder der Bewilligungsbescheid, aus dem sich der Anspruch ergibt, zwei Monate nach der Einstellung der Zahlung mit Wirkung für die Vergangenheit aufgehoben oder nachträglich die Unwirksamkeit des Bewilligungsbescheides festgestellt worden ist. Satz 3 gilt nicht, wenn die Wohngeldleistung zwischenzeitlich nach Maßgabe des § 66 des Ersten Buches Sozialgesetzbuch entzogen wurde.
+
 ### § 30 Rücküberweisung und Erstattung im Todesfall
 
-(1) Wird der Bewilligungsbescheid nach § 28 Abs. 1 Satz 1 auf Grund eines Todesfalles unwirksam, gilt Wohngeld, das für die Zeit nach dem Tod des zu berücksichtigenden Haushaltsmitgliedes auf ein Konto bei einem Geldinstitut im Inland überwiesen wurde, als unter Vorbehalt geleistet. Das Geldinstitut muss es der überweisenden Behörde oder der Wohngeldbehörde zurücküberweisen, wenn diese es als zu Unrecht geleistet zurückfordert. Eine Verpflichtung zur Rücküberweisung besteht nicht, soweit
+(1) Wird der Bewilligungsbescheid nach § 28 Abs. 1 Satz 1 auf Grund eines Todesfalles unwirksam, gilt Wohngeld, das für die Zeit nach dem Tod des zu berücksichtigenden Haushaltsmitgliedes auf ein Konto bei einem Geldinstitut überwiesen wurde, als unter Vorbehalt geleistet. Das Geldinstitut muss es der überweisenden Behörde oder der Wohngeldbehörde zurücküberweisen, wenn diese es als zu Unrecht geleistet zurückfordert. Eine Verpflichtung zur Rücküberweisung besteht nicht, soweit
 
 1.  
 über den entsprechenden Betrag bei Eingang der Rückforderung bereits anderweitig verfügt worden ist, es sei denn, die Rücküberweisung kann aus einem Guthaben erfolgen, oder
@@ -1208,7 +1280,7 @@ diesen Behörden mitzuteilen, ob der betroffene Wohnungsinhaber Wohngeld erhält
 ob und für welche Zeiträume Leistungen nach § 7 Abs. 1 beantragt oder empfangen werden oder wurden oder ein Ausschlussgrund nach § 7 Abs. 2, Abs. 3 oder § 8 Abs. 1 vorliegt oder vorlag,
 
 2.  
-ob und welche Daten nach § 45d Abs. 1 und § 45e des Einkommensteuergesetzes dem Bundeszentralamt für Steuern übermittelt worden sind,
+ob und welche Daten nach § 45d Abs. 1 und § 45e des Einkommensteuergesetzes, insbesondere zu der Höhe von Kapitalerträgen, für die ein Freistellungsauftrag erteilt worden ist, dem Bundeszentralamt für Steuern übermittelt worden sind,
 
 3.  
 ob und für welche Zeiträume bereits Wohngeld beantragt oder empfangen wird oder wurde,
@@ -1247,7 +1319,7 @@ Zeitraum des Wohngeldempfangs und
 6.  
 Geschlecht
 
-an die in Absatz 1 Satz 1 und Absatz 2 Satz 1 Nr. 2, 4, 6 und 7 genannten Stellen und die für die Leistungen nach Absatz 2 Satz 1 Nr. 1 und 3 sowie an die Meldebehörden übermittelt werden. Die Daten, die der Wohngeldbehörde oder der sonst nach Landesrecht für den Datenabgleich zuständigen oder von der Landesregierung durch Rechtsverordnung oder auf sonstige Weise für den Datenabgleich bestimmten Stelle (zentralen Landesstelle) übermittelt werden, dürfen nur für den Zweck der Überprüfung nach den Absätzen 1 und 2 genutzt werden. Die übermittelten Daten, bei denen die Überprüfung zu keinen abweichenden Feststellungen führt, sind unverzüglich zu löschen oder zu vernichten. Die Betroffenen sind von der Wohngeldbehörde auf die Datenübermittlung hinzuweisen.
+an die in Absatz 1 Satz 1 und Absatz 2 Satz 1 Nr. 2, 4, 6 und 7 genannten und die für die Leistungen nach Absatz 2 Satz 1 Nummer 1 und 3 zuständigen Stellen sowie an die Meldebehörden übermittelt werden. Die Daten, die der Wohngeldbehörde oder der sonst nach Landesrecht für den Datenabgleich zuständigen oder von der Landesregierung durch Rechtsverordnung oder auf sonstige Weise für den Datenabgleich bestimmten Stelle (zentralen Landesstelle) übermittelt werden, dürfen nur für den Zweck der Überprüfung nach den Absätzen 1 und 2 genutzt werden. Die übermittelten Daten, bei denen die Überprüfung zu keinen abweichenden Feststellungen führt, sind unverzüglich zu löschen oder zu vernichten. Die Betroffenen sind von der Wohngeldbehörde auf die Datenübermittlung hinzuweisen.
 
 (4) Die in Absatz 2 Satz 1 Nummer 2, 4, 6 und 7 genannten und die für die Leistungen nach Absatz 2 Satz 1 Nummer 1 und 3 zuständigen Stellen sowie die Meldebehörden führen den Datenabgleich durch und übermitteln die Daten über Feststellungen im Sinne des Absatzes 2 an die Wohngeldbehörde oder die zentrale Landesstelle oder über die zentrale Landesstelle an die Wohngeldbehörde. Die jenen Stellen überlassenen Daten und Datenträger sind nach Durchführung des Datenabgleichs unverzüglich zurückzugeben, zu löschen oder zu vernichten.
 
@@ -1264,13 +1336,13 @@ Teil 6 Wohngeldstatistik
 
 ### § 34 Zweck der Wohngeldstatistik, Auskunfts- und Hinweispflicht
 
-(1) Über die Anträge und Entscheidungen nach diesem Gesetz sowie über die persönlichen und sachlichen Verhältnisse der wohngeldberechtigten Personen, die für die Berechnung des regionalen Mietenniveaus (§ 12 Abs. 3 und 4), den Wohngeld- und Mietenbericht (§ 39), die Beurteilung der Auswirkungen dieses Gesetzes und dessen Fortentwicklung erforderlich sind, ist eine Bundesstatistik zu führen.
+(1) Über die Anträge und Entscheidungen nach diesem Gesetz sowie über die persönlichen und sachlichen Verhältnisse der zu berücksichtigenden Haushaltsmitglieder, die für die Berechnung des regionalen Mietenniveaus (§ 12 Abs. 3 und 4), den Wohngeld- und Mietenbericht (§ 39), die Beurteilung der Auswirkungen dieses Gesetzes und dessen Fortentwicklung erforderlich sind, ist eine Bundesstatistik zu führen.
 
 (2) Für die Erhebung sind die Wohngeldbehörden auskunftspflichtig. Die Angaben der in § 23 Abs. 1 bis 3 bezeichneten Personen dienen zur Ermittlung der statistischen Daten im Rahmen der Erhebungsmerkmale (§ 35).
 
 (3) Die wohngeldberechtigte Person ist auf die Verwendung der auf Grund der Bearbeitung bekannten Daten für die Wohngeldstatistik und auf die Möglichkeit der Übermittlung nach § 36 Abs. 2 Satz 2 hinzuweisen.
 
-### § 35 Erhebungsmerkmale
+### § 35 Erhebungs- und Hilfsmerkmale
 
 (1) Erhebungsmerkmale sind
 
@@ -1278,16 +1350,24 @@ Teil 6 Wohngeldstatistik
 die Art des Wohngeldantrages und der Entscheidung;
 
 2.  
-der Betrag des im Berichtszeitraum gezahlten Wohngeldes;
+der Betrag des im Erhebungszeitraum gezahlten Wohngeldes;
 
 3.  
 der Beginn und das Ende des Bewilligungszeitraums nach Monat und Jahr; die Art und die Höhe des monatlichen Wohngeldes;
 
 4.  
-die Beteiligung der wohngeldberechtigten Person am Erwerbsleben, ihre Stellung im Beruf, die Anzahl der bei der Berechnung des Wohngeldes zu berücksichtigenden Haushaltsmitglieder, für die Kindergeld nach dem Einkommensteuergesetz oder dem Bundeskindergeldgesetz oder eine in § 65 Abs. 1 Satz 1 des Einkommensteuergesetzes genannte Leistung gewährt wird, und die Zahl der zu berücksichtigenden Haushaltsmitglieder; ist mindestens ein Haushaltsmitglied vom Wohngeld ausgeschlossen, sind auch die Gesamtzahl der Haushaltsmitglieder und die Zahl der vom Wohngeld ausgeschlossenen Haushaltsmitglieder Erhebungsmerkmale;
+die Anzahl der zu berücksichtigenden Haushaltsmitglieder, ihre jeweilige Beteiligung am Erwerbsleben und Stellung im Beruf sowie jeweils die Anzahl derjenigen zu berücksichtigenden Haushaltsmitglieder, die
+
+a)  
+noch nicht 18 Jahre alt sind oder
+
+b)  
+mindestens 18 Jahre, aber noch nicht 25 Jahre alt sind;
+
+ist mindestens ein Haushaltsmitglied vom Wohngeld ausgeschlossen, sind auch die Gesamtzahl der Haushaltsmitglieder und die Zahl der vom Wohngeld ausgeschlossenen Haushaltsmitglieder Erhebungsmerkmale;
 
 5.  
-das Geschlecht der wohngeldberechtigten Person;
+das jeweilige Geschlecht der zu berücksichtigenden Haushaltsmitglieder;
 
 6.  
 der bei der Berechnung des Wohngeldes berücksichtigte Höchstbetrag für Miete und Belastung (§ 12 Abs. 1), im Fall des § 11 Abs. 3 der Anteil des Höchstbetrages, der dem Anteil der zu berücksichtigenden Haushaltsmitglieder an der Gesamtzahl der Haushaltsmitglieder entspricht;
@@ -1296,37 +1376,51 @@ der bei der Berechnung des Wohngeldes berücksichtigte Höchstbetrag für Miete 
 die Wohnverhältnisse der zu berücksichtigenden Haushaltsmitglieder nach Größe der Wohnung, nach Höhe der monatlichen Miete oder Belastung, im Fall des § 10 Abs. 2 Satz 2 die Belastung aus Zinsen und Tilgung, nach öffentlicher Förderung der Wohnung oder Förderung nach dem Wohnraumförderungsgesetz oder entsprechenden Gesetzen der Länder, der Grund der Wohngeldberechtigung (§ 3 Abs. 1 bis 3) sowie die Gemeinde und deren Mietenstufe (§ 12); ist mindestens ein Haushaltsmitglied vom Wohngeld ausgeschlossen, sind die Größe der Wohnung und die Höhe der monatlichen Miete oder Belastung kopfteilig zu erheben;
 
 8.  
-die Summe der positiven Einkünfte im Sinne des § 2 Abs. 1 und 2 des Einkommensteuergesetzes zuzüglich der Einnahmen nach § 14 Abs. 2 der zu berücksichtigenden Haushaltsmitglieder nach Art und Höhe, die Beträge und Umstände nach § 14 Abs. 3 und den §§ 16 bis 18 sowie das monatliche Gesamteinkommen; im Fall einer nach den §§ 7 und 8 Abs. 1 vom Wohngeld ausgeschlossenen wohngeldberechtigten Person ist die Art der beantragten oder empfangenen Leistung nach § 7 Abs. 1 Erhebungsmerkmal;
+a)  
+das monatliche Gesamteinkommen, die Freibeträge nach § 17 und die Abzugsbeträge für Unterhaltsleistungen nach § 18;
+
+b)  
+die Summe der positiven Einkünfte und der Einnahmen nach § 14 sowie die Abzugsbeträge für Steuern und Sozialversicherungsbeiträge nach § 16 für jedes einzelne zu berücksichtigende Haushaltsmitglied;
+
+im Fall einer nach den §§ 7 und 8 Absatz 1 vom Wohngeld ausgeschlossenen wohngeldberechtigten Person ist die Art der beantragten oder empfangenen Leistung nach § 7 Absatz 1 Erhebungsmerkmal;
 
 9.  
-der Monat und das Jahr der Berechnung des Wohngeldes und die angewandte Gesetzesfassung;
+das Datum der Berechnung des Wohngeldes und die angewandte Gesetzesfassung;
 
 10.  
 die Höhe des nach § 44 geleisteten einmaligen zusätzlichen Wohngeldbetrages nach der Anzahl der nach § 44 zu berücksichtigenden Personen.
 
-(2) Hilfsmerkmale sind der Name und die Anschrift der auskunftspflichtigen Wohngeldbehörde.
+(2) Hilfsmerkmale sind:
 
-(3) Zur Prüfung der Richtigkeit der Statistik dienen Wohngeldnummern, die keine Angaben über persönliche oder sachliche Verhältnisse der wohngeldberechtigten Personen sowie der in § 23 Abs. 1 bis 3 bezeichneten Personen enthalten oder einen Rückschluss auf solche zulassen. Die Wohngeldnummern sind spätestens nach Ablauf von fünf Jahren seit dem Zeitpunkt, zu dem die Erhebung durchgeführt worden ist (§ 36 Abs. 1), zu löschen.
+1.  
+Name und Anschrift der auskunftspflichtigen Wohngeldbehörde;
+
+2.  
+Wohngeldnummern; diese dürfen keine Angaben über persönliche oder sachliche Verhältnisse der wohngeldberechtigten Personen sowie der in § 23 Absatz 1 bis 3 bezeichneten Personen enthalten oder einen Rückschluss auf diese Verhältnisse zulassen.
+
+Die Wohngeldnummern sind zu löschen, sobald bei den statistischen Landesämtern die Überprüfung der Erhebungs- und Hilfsmerkmale auf ihre Schlüssigkeit und Vollständigkeit sowie die Erstellung und Prüfung von Ergebnissen aus der Bestandsfortschreibung abgeschlossen sind, spätestens jedoch nach Ablauf von fünf Jahren seit dem Zeitpunkt, zu dem die Erhebung durchgeführt worden ist (§ 36 Absatz 1).
+
+(3) (weggefallen)
 
 ### § 36 Erhebungszeitraum, Zusatz- und Sonderaufbereitungen
 
-(1) Die Erhebung der Angaben nach § 35 Abs. 1 ist vierteljährlich für das jeweils abgelaufene Kalendervierteljahr durchzuführen. Die statistischen Landesämter stellen dem Statistischen Bundesamt unverzüglich nach Ablauf des Berichtszeitraums oder zu dem in der Rechtsverordnung nach § 38 angegebenen Zeitpunkt folgende Angaben zur Verfügung:
+(1) Die Erhebung der Angaben nach § 35 Abs. 1 ist vierteljährlich für das jeweils abgelaufene Kalendervierteljahr durchzuführen. Die statistischen Landesämter stellen dem Statistischen Bundesamt unverzüglich nach Ablauf des Erhebungszeitraums oder zu dem in der Rechtsverordnung nach § 38 angegebenen Zeitpunkt folgende Angaben zur Verfügung:
 
 1.  
 vierteljährlich
 
 a)  
-für den Berichtszeitraum die Angaben nach § 35 Abs. 1 Nr. 1 bis 3;
+für den Erhebungszeitraum die Angaben nach § 35 Abs. 1 Nr. 1 bis 3;
 
 b)  
-für den vergleichbaren Berichtszeitraum des vorausgehenden Kalenderjahres die Angaben nach § 35 Abs. 1 Nr. 1 und 3 unter Berücksichtigung der rückwirkenden Entscheidungen aus den folgenden zwölf Monaten;
+für den vergleichbaren Erhebungszeitraum des vorausgehenden Kalenderjahres die Angaben nach § 35 Abs. 1 Nr. 1 und 3 unter Berücksichtigung der rückwirkenden Entscheidungen aus den folgenden zwölf Monaten;
 
 2.  
 jährlich die Angaben nach § 35 Abs. 1 Nr. 3 bis 9 für den Monat Dezember unter Berücksichtigung der rückwirkenden Entscheidungen aus dem folgenden Kalendervierteljahr.
 
-(2) Einzelangaben nach § 35 Abs. 1 aus einer Zufallsstichprobe mit einem Auswahlsatz von 25 Prozent der wohngeldberechtigten Personen sind dem Statistischen Bundesamt jährlich unverzüglich nach Ablauf des Berichtszeitraums für Zusatzaufbereitungen zur Verfügung zu stellen. Für diesen Zweck dürfen die Einzelangaben, bei denen Wohn- und Wirtschaftsgemeinschaften mit mehr als fünf zu berücksichtigenden Haushaltsmitgliedern in einer Gruppe zusammenzufassen sind, ohne Wohngeldnummer auch dem Bundesministerium für Verkehr, Bau und Stadtentwicklung oder, wenn die Aufgabe der Zusatzaufbereitung an das Bundesamt für Bauwesen und Raumordnung übertragen worden ist, an dieses übermittelt werden. Bei der empfangenden Stelle ist eine Organisationseinheit einzurichten, die räumlich, organisatorisch und personell von anderen Aufgabenbereichen zu trennen ist. Die in dieser Organisationseinheit tätigen Personen müssen Amtsträger oder für den öffentlichen Dienst besonders Verpflichtete sein. Sie dürfen aus ihrer Tätigkeit gewonnene Erkenntnisse nur für Zwecke des § 34 Abs. 1 verwenden. Die nach Satz 2 übermittelten Einzelangaben dürfen nicht mit anderen Daten zusammengeführt werden.
+(2) Einzelangaben nach § 35 Abs. 1 aus einer Zufallsstichprobe mit einem Auswahlsatz von 25 Prozent der wohngeldberechtigten Personen sind dem Statistischen Bundesamt jährlich unverzüglich nach Ablauf des Erhebungszeitraums für Zusatzaufbereitungen zur Verfügung zu stellen. Zu diesem Zweck dürfen die Einzelangaben auch dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit oder, wenn die Aufgabe der Zusatzaufbereitung an das Bundesamt für Bauwesen und Raumordnung übertragen worden ist, an dieses übermittelt werden. Dabei sind mehr als fünf zu berücksichtigende Haushaltsmitglieder, die Wohnraum gemeinsam bewohnen, in einer Gruppe zusammenzufassen. Bei der empfangenden Stelle ist eine Organisationseinheit einzurichten, die räumlich, organisatorisch und personell von anderen Aufgabenbereichen zu trennen ist. Die in dieser Organisationseinheit tätigen Personen müssen Amtsträger oder für den öffentlichen Dienst besonders Verpflichtete sein. Sie dürfen aus ihrer Tätigkeit gewonnene Erkenntnisse nur für Zwecke des § 34 Abs. 1 verwenden. Die nach Satz 2 übermittelten Einzelangaben dürfen nicht mit anderen Daten zusammengeführt werden.
 
-(3) Auf Anforderung stellen die statistischen Landesämter die von ihnen erfassten Einzelangaben dem Statistischen Bundesamt für Sonderaufbereitungen des Bundes zur Verfügung.
+(3) (weggefallen)
 
 Teil 7 Schlussvorschriften
 --------------------------
@@ -1338,9 +1432,12 @@ Teil 7 Schlussvorschriften
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
 1.  
-entgegen § 23 Abs. 1 bis 3 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gibt oder
+entgegen § 23 Absatz 1 Satz 1, Absatz 2 oder Absatz 3 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gibt,
 
 2.  
+entgegen § 23 Absatz 1 Satz 3 eine Angabe nicht richtig macht oder
+
+3.  
 entgegen § 27 Abs. 3 Satz 1, auch in Verbindung mit Abs. 4, oder § 28 Abs. 1 Satz 2 oder Abs. 4 Satz 1 eine Änderung in den Verhältnissen, die für den Wohngeldanspruch erheblich ist, nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig mitteilt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweitausend Euro geahndet werden.
@@ -1368,9 +1465,11 @@ die Mietenstufen für Gemeinden festzulegen (§ 12);
 3.  
 die Einzelheiten des Verfahrens des automatisierten Datenabgleichs und die Kosten des Verfahrens (§ 33) zu regeln; dabei kann auch geregelt werden, dass die Länder der Datenstelle die Kosten für die Durchführung des Datenabgleichs zu erstatten haben.
 
-### § 39 Wohngeld- und Mietenbericht
+### § 39 Wohngeld- und Mietenbericht; Bericht über die Lage und Entwicklung der Wohnungs- und Immobilienwirtschaft in Deutschland
 
-Die Bundesregierung berichtet dem Deutschen Bundestag alle vier Jahre bis zum 30. Juni über die Durchführung dieses Gesetzes und über die Entwicklung der Mieten für Wohnraum.
+(1) Die Höchstbeträge für Miete und Belastung (§ 12 Absatz 1), die Mietenstufen (§ 12 Absatz 2) und die Höhe des Wohngeldes (§ 19) sind alle zwei Jahre zu überprüfen. Dabei ist der bundesdurchschnittlichen und regionalen Entwicklung der Wohnkosten sowie der Veränderung der Einkommensverhältnisse und der Lebenshaltungskosten Rechnung zu tragen. Die Bundesregierung berichtet dem Deutschen Bundestag über die Überprüfung nach den Sätzen 1 und 2, über die Durchführung dieses Gesetzes und über die Entwicklung der Mieten für Wohnraum alle zwei Jahre bis zum 30. Juni. Dabei fließen auch miet- und wohnungsmarktrelevante Daten der Länder ein. Der erste erweiterte Bericht erfolgt bis zum 30. Juni 2017.
+
+(2) Die Bundesregierung berichtet dem Deutschen Bundestag über die Lage und Entwicklung der Wohnungs- und Immobilienwirtschaft in Deutschland alle vier Jahre bis zum 30. Juni. Der nächste Bericht erfolgt bis zum 30. Juni 2017. Eine im gleichen Jahr vorzulegende Berichterstattung nach Absatz 1 ist jeweils zu integrieren.
 
 ### § 40 Einkommen bei anderen Sozialleistungen
 
@@ -1398,6 +1497,14 @@ Teil 8 Überleitungsvorschriften
 (4) Wären bei einer Entscheidung nach den Absätzen 1 und 3 Haushaltsmitglieder nach § 6 zu berücksichtigen, die in einem anderen Bescheid für denselben Wohnraum bereits als zum Haushalt rechnende Familienmitglieder berücksichtigt worden sind, bleibt dieser andere Bescheid von der Entscheidung nach den Absätzen 1 und 3 unberührt. Bei der Entscheidung nach den Absätzen 1 und 3 ist das Wohngeld ohne die Haushaltsmitglieder nach Satz 1 und unter entsprechender Anwendung des § 11 Abs. 3 zu berechnen. Die Fälle der Sätze 1 und 2 gelten als erhebliche Änderung der maßgeblichen Verhältnisse nach § 25 Abs. 1 Satz 2.
 
 (5) Bei Wohn- und Wirtschaftsgemeinschaften von Personen, welche die Voraussetzungen nach § 4 des Wohngeldgesetzes in der bis zum 31. Dezember 2008 geltenden Fassung nicht erfüllen und keinen gemeinsamen Wohngeldbescheid erhalten haben, ist bei der Entscheidung nach Absatz 2 rückwirkend das Wohngeld gemeinsam zu berechnen, wenn die Voraussetzungen nach den §§ 5 und 6 Abs. 1 erfüllt werden. Enden die Bewilligungszeiträume in den Fällen des Satzes 1 nicht gleichzeitig, ist abweichend von Absatz 2 Satz 1 Halbsatz 1 nach dem Ende des zuletzt ablaufenden Bewilligungszeitraums für alle zu berücksichtigenden Haushaltsmitglieder nach § 6 einheitlich neu zu entscheiden. Beträgt der Zeitraum zwischen dem Ende des zuerst ablaufenden Bewilligungszeitraums und dem Ende des zuletzt ablaufenden Bewilligungszeitraums mehr als drei Monate, ist auf Antrag eine angemessene vorläufige Zahlung zu leisten.
+
+### § 42a Übergangsregelung aus Anlass des Gesetzes zur Reform des Wohngeldrechts und zur Änderung des Wohnraumförderungsgesetzes
+
+(1) Ist Wohngeld vor dem 1. Januar 2016 bewilligt worden und liegt mindestens ein Teil des Bewilligungszeitraums nach dem 31. Dezember 2015, so ist abweichend von § 41 Absatz 2 von Amts wegen über die Leistung des Wohngeldes für den Zeitraum vom 1. Januar 2016 bis zum Ende des bisherigen Bewilligungszeitraums neu zu entscheiden. Bei der Entscheidung nach Satz 1 sind die §§ 12 und 16 Satz 1 bis 4 und § 19 dieses Gesetzes sowie die Anlage zu § 1 Absatz 3 der Wohngeldverordnung in der ab dem 1. Januar 2016 geltenden Fassung anzuwenden, alle anderen Vorschriften in der bis zum 31. Dezember 2015 geltenden Fassung. Ergibt sich bei der Entscheidung nach Satz 1 kein höheres Wohngeld, verbleibt es bis zum Ende des bisherigen Bewilligungszeitraums bei dem bereits bewilligten Wohngeld. Ist bei der Entscheidung nach Satz 1 nicht berücksichtigt worden, dass sich die Anzahl der zu berücksichtigenden Haushaltsmitglieder, die zu berücksichtigende Miete oder Belastung oder das Gesamteinkommen verändert hat oder das Wohngeld zweckwidrig verwendet wird, so ist abweichend von § 45 des Zehnten Buches Sozialgesetzbuch die Entscheidung nach Satz 1 nur rechtswidrig, wenn gleichzeitig die Voraussetzungen des § 27 oder § 28 Absatz 2 dieses Gesetzes vorliegen; im Übrigen bleibt § 45 des Zehnten Buches Sozialgesetzbuch unberührt. Wird die Entscheidung nach Satz 1 unter den Voraussetzungen des § 45 des Zehnten Buches Sozialgesetzbuch zurückgenommen, wird der bisherige Bewilligungsbescheid wieder wirksam; die §§ 27 und 28 bleiben unberührt. Ist Wohngeld vor dem 1. Januar 2016 bewilligt worden und liegt mindestens ein Teil des Bewilligungszeitraums nach dem 31. Dezember 2015 und ist über einen Antrag nach § 27 Absatz 1 oder in einem Verfahren nach § 27 Absatz 2 neu zu entscheiden, so ist für die Zeit bis zum 31. Dezember 2015 nach dem bis dahin geltenden Recht, ab dem 1. Januar 2016 bis zum Ende des bisherigen Bewilligungszeitraums nach neuem Recht nach Maßgabe des Satzes 2 und danach vollständig nach neuem Recht zu entscheiden. Der Bewilligungsbescheid nach Satz 1 muss auf die besonderen Entscheidungsgrundlagen der Sätze 1 bis 5 hinweisen, insbesondere darauf, dass eine Entscheidung nach § 27 oder § 28 Absatz 2 dem Bewilligungsbescheid nach Satz 1 noch nachfolgen kann und bezogen auf den Zeitpunkt der Änderung, der auch vor dem 1. Januar 2016 liegen kann, das Wohngeld wegfallen oder sich verringern kann.
+
+(2) Ist bis zum 31. Dezember 2015 über einen Wohngeldantrag nach § 22 noch nicht entschieden, so ist für die Zeit bis zum 31. Dezember 2015 nach dem bis dahin geltenden Recht und für die darauffolgende Zeit nach dem neuen Recht zu entscheiden. Ist in den Fällen des Satzes 1 das ab dem 1. Januar 2016 zu bewilligende Wohngeld geringer als das für Dezember 2015 zu bewilligende Wohngeld, verbleibt es auch für den Teil des Bewilligungszeitraums ab dem 1. Januar 2016 bei diesem Wohngeld. Ist über einen nach dem 31. Dezember 2015 gestellten Wohngeldantrag nach § 22 zu entscheiden und beginnt der Bewilligungszeitraum vor dem 1. Januar 2016, so sind die Sätze 1 und 2 entsprechend anzuwenden. § 24 Absatz 2 und § 27 bleiben unberührt.
+
+(3) In Fällen des § 31 Absatz 1 Satz 1 des Unterhaltssicherungsgesetzes sind § 14 Absatz 2 Nummer 23 und § 20 Absatz 1 dieses Gesetzes in der bis zum 31. Oktober 2015 geltenden Fassung anzuwenden. Im Übrigen gelten die Absätze 1 und 2.
 
 ### § 43 Weitergeltung bisherigen Rechts
 
@@ -1457,13 +1564,13 @@ Personen</td>
 
 (5) Der einmalige zusätzliche Wohngeldbetrag ist bei Sozialleistungen, deren Zahlung von anderen Einkommen abhängig ist, nicht als Einkommen zu berücksichtigen.
 
-### Anlage 1 (zu § 19 Abs. 1)
+### Anlage 1 (zu § 19 Absatz 1)
 
-(Fundstelle: BGBl. I 2008, 1872)
+(Fundstelle: BGBl. I 2015, 1617)
 
 **Werte für „a“, „b“ und „c“**
 
-Die in die Formel nach § 19 Abs. 1 Satz 1 einzusetzenden, nach der Anzahl der zu berücksichtigenden Haushaltsmitglieder unterschiedenen Werte „a“, „b“ und „c“ sind der nachfolgenden Tabelle zu entnehmen:
+Die in die Formel nach § 19 Absatz 1 Satz 1 einzusetzenden, nach der Anzahl der zu berücksichtigenden Haushaltsmitglieder unterschiedenen Werte „a“, „b“ und „c“ sind der nachfolgenden Tabelle zu entnehmen:
 
 1
 Haushalts-
@@ -1491,45 +1598,45 @@ mitglieder
 
 a
 
- 6,300E-2
+4,000E-2
 
- 5,700E-2
+3,000E-2
 
- 5,500E-2
+2,000E-2
 
- 4,700E-2
+1,000E-2
 
- 4,200E-2
+0
 
- 3,700E-2
+– 1,000E-2
 
 b
 
- 7,963E-4
+6,300E-4
 
- 5,761E-4
+4,400E-4
 
- 5,176E-4
+3,800E-4
 
- 3,945E-4
+3,400E-4
 
- 3,483E-4
+3,000E-4
 
- 3,269E-4
+2,800E-4
 
 c
 
- 9,102E-5
+1,380E-4
 
- 6,431E-5
+1,030E-4
 
- 3,250E-5
+8,300E-5
 
- 2,325E-5
+4,300E-5
 
- 2,151E-5
+4,200E-5
 
- 1,519E-5
+3,600E-5
 
 7
 Haushalts-
@@ -1557,68 +1664,59 @@ mitglieder
 
 a
 
- 3,300E-2
+– 2,000E-2
 
- 2,300E-2
+– 3,000E-2
 
-– 1,970E-2
+– 4,000E-2
 
-– 4,010E-2
+– 6,000E-2
 
-– 6,600E-2
+– 1,000E-1
 
-– 8,990E-2
+– 1,400E-1
 
 b
 
- 3,129E-4
+2,600E-4
 
- 2,959E-4
+2,300E-4
 
- 2,245E-4
+2,000E-4
 
- 1,565E-4
+1,600E-4
 
- 1,200E-4
+1,200E-4
 
- 1,090E-4
+1,100E-4
 
 c
 
- 8,745E-6
+3,700E-5
 
- 7,440E-6
+3,700E-5
 
- 3,459E-5
+3,900E-5
 
- 5,140E-5
+4,500E-5
 
- 5,686E-5
+5,300E-5
 
-  6,182E-5
+6,000E-5
 
-|                   |     |                         |            |
-|-------------------|-----|-------------------------|------------|
-| Hierbei bedeuten: |     | E-2 geteilt durch       | 100,       |
-|                   |     | E-4 geteilt durch       | 10 000,    |
-|                   |     | E-5 geteilt durch       | 100 000,   |
-|                   |     | E-6 geteilt durch       | 1 000 000. |
+Hierbei bedeuten:  
+E-1 geteilt durch      10,
+E-2 geteilt durch     100,
+E-4 geteilt durch  10 000,
+E-5 geteilt durch 100 000.
 
-### Anlage 2 (zu § 19 Abs. 2)
+### Anlage 2 (zu § 19 Absatz 2)
 
-(Fundstelle: BGBl. I 2008, 1873)
+(Fundstelle: BGBl. I 2015, 1617)
 
 **Rechenschritte und Rundungen**
 
 1.  
-„M“ ist die gerundete zu berücksichtigende monatliche Miete oder Belastung (§ 19 Abs. 1 Satz 2). Bei der Umrechnung der ungerundeten zu berücksichtigenden monatlichen Miete oder Belastung im Sinne der §§ 11 und 12 („M\*“) auf „M“ gilt:
-Um „M“ zu erhalten, ist „M\*“ auf den nächsten durch 10 ohne Rest teilbaren vollen Euro-Betrag aufzurunden, wenn „M\*“ nicht bereits durch 10 ohne Rest teilbar ist. Wenn „M\*“ durch 10 ohne Rest teilbar ist, bleibt „M\*“ unverändert. Von dem sich ergebenden Betrag sind stets 5 Euro abzuziehen.
-
-2.  
-„Y“ ist das gerundete monatliche Gesamteinkommen (§ 19 Abs. 1 Satz 3). Bei der Umrechnung des ungerundeten monatlichen Gesamteinkommens im Sinne des § 13 („Y\*“) auf „Y“ gilt:
-Um „Y“ zu erhalten, ist „Y\*“ auf den nächsten durch 10 ohne Rest teilbaren vollen Euro-Betrag aufzurunden, wenn es nicht bereits durch 10 ohne Rest teilbar ist. Wenn „Y\*“ durch 10 ohne Rest teilbar ist, bleibt „Y\*“ unverändert. Von dem sich ergebenden Betrag sind stets 5 Euro abzuziehen.
-
-3.  
 Werte für „M“ und „Y“, die unterhalb der folgenden Tabellenwerte liegen, werden durch diese ersetzt:
 
 1
@@ -1647,31 +1745,31 @@ mitglieder
 
 M
 
-   45
+ 48
 
-   55
+ 59
 
-   65
+ 70
 
-   75
+ 81
 
-   85
+ 91
 
-   85
+ 91
 
 Y
 
-  205
+239
 
-  245
+310
 
-  265
+360
 
-  315
+389
 
-  345
+463
 
-  365
+537
 
 7
 Haushalts-
@@ -1699,39 +1797,35 @@ mitglieder
 
 M
 
-   95
+102
 
-  105
+113
 
-  115
+124
 
-  125
+134
 
-  155
+  155
 
-  245
+  263
 
 Y
 
-  385
+610
 
-  415
+684
 
-  585
+758
 
-  805
+832
 
 1 085
 
-1 255
+ 1 255.
 
-4.  
-Der ungerundete monatliche Miet- oder Lastenzuschuss ergibt sich durch Einsetzen der Werte für „a“, „b“, „c“ (Anlage 1) und für „M“ und „Y“ in die Formel nach § 19 Abs. 1 Satz 1 und durch Ausführen der vier folgenden Rechenschritte:Berechnung der Dezimalzahlen
-z1 = a + b ·M + c ·Y,
-z2 = z1 ·Y,
-z3 = M – z2,
-z4 = 1,08 · z3.
-Hierbei sind die Dezimalzahlen als Festkommazahlen mit zehn Nachkommastellen zu berechnen.
+2.  
+Das ungerundete monatliche Wohngeld ergibt sich durch Einsetzen der Werte für „a“, „b“, „c“ (Anlage 1) und für „M“ und „Y“ in die Formel nach § 19 Absatz 1 Satz 1 und durch Ausführen der vier folgenden Rechenschritte:
+Berechnung der Dezimalzahlenz1 = a + b · M + c ∙ Y,z2 = z1 ∙ Y,z3 = M – z2,z4 = 1,15 ∙ z3.Hierbei sind die Dezimalzahlen als Festkommazahlen mit zehn Nachkommastellen zu berechnen.
 
-5.  
-Dieser ungerundete monatliche Miet- oder Lastenzuschuss ist auf den nächsten vollen Euro-Betrag aufzurunden, wenn der sich ohne Rundung ergebende restliche Cent-Betrag größer als oder gleich 50 ist; er ist auf den nächsten vollen Euro-Betrag abzurunden, wenn der sich ohne Rundung ergebende restliche Cent-Betrag kleiner als 50 ist.
+3.  
+Dieses ungerundete monatliche Wohngeld ist bis unter 0,50 Euro auf den nächsten vollen Euro-Betrag abzurunden sowie von 0,50 Euro an auf den nächsten vollen Euro-Betrag aufzurunden.
