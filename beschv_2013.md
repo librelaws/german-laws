@@ -2,7 +2,7 @@ Verordnung über die Beschäftigung von Ausländerinnen und Ausländern (BeschV)
 ============================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 Satz 2 V v. 6.11.2014 I 1683
+Zuletzt geändert durch Art. 1 V v. 24.10.2015 I 1789
 
 ### 
 
@@ -144,9 +144,13 @@ zur Ausübung einer Beschäftigung in einem staatlich anerkannten oder vergleich
 3.  
 zum Zweck einer qualifizierten betrieblichen Ausbildung in einem staatlich anerkannten oder vergleichbar geregelten Ausbildungsberuf.
 
-### § 8 Praktische Tätigkeiten als Voraussetzung für die Anerkennung ausländischer Berufsqualifikationen
+### § 8 Betriebliche Aus- und Weiterbildung; Anerkennung ausländischer Berufsqualifikationen
 
-Ist für eine qualifizierte Beschäftigung
+(1) Die Zustimmung kann für die Erteilung eines Aufenthaltstitels nach § 17 Absatz 1 des Aufenthaltsgesetzes erteilt werden.
+
+(2) Die Zustimmung kann für die Erteilung eines Aufenthaltstitels nach § 17a Absatz 1 Satz 3, Absatz 3 und 5 des Aufenthaltsgesetzes erteilt werden. Sie wird im Fall des § 17a Absatz 1 Satz 3 ohne Vorrangprüfung erteilt. Im Fall des § 17a Absatz 3 wird die Zustimmung hinsichtlich der während der Bildungsmaßnahme ausgeübten Beschäftigung ohne Vorrangprüfung erteilt.
+
+(3) Ist für eine qualifizierte Beschäftigung
 
 1.  
 die Feststellung der Gleichwertigkeit eines im Ausland erworbenen Berufsabschlusses im Sinne des § 6 Absatz 2 oder
@@ -232,7 +236,7 @@ Personen, die im Rahmen eines gesetzlich geregelten oder auf einem Programm der 
 2.  
 vorwiegend aus karitativen oder religiösen Gründen Beschäftigte.
 
-(2) Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an Studierende sowie Schülerinnen und Schüler ausländischer Hochschulen und Fachschulen zur Ausübung einer Ferienbeschäftigung von bis zu drei Monaten innerhalb eines Zeitraums von zwölf Monaten, die von der Bundesagentur für Arbeit vermittelt worden ist.
+(2) Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an Studierende sowie Schülerinnen und Schüler ausländischer Hochschulen und Fachschulen zur Ausübung einer Ferienbeschäftigung von bis zu 90 Tagen innerhalb eines Zeitraums von zwölf Monaten, die von der Bundesagentur für Arbeit vermittelt worden ist.
 
 ### § 15 Praktika zu Weiterbildungszwecken
 
@@ -283,11 +287,11 @@ für einen Arbeitgeber mit Sitz im Ausland Besprechungen oder Verhandlungen im I
 3.  
 für einen Arbeitgeber mit Sitz im Ausland einen inländischen Unternehmensteil gründen, überwachen oder steuern,
 
-und die sich im Rahmen ihrer Beschäftigung unter Beibehaltung ihres gewöhnlichen Aufenthaltes im Ausland insgesamt nicht länger als drei Monate innerhalb eines Zeitraums von zwölf Monaten im Inland aufhalten.
+und die sich im Rahmen ihrer Beschäftigung unter Beibehaltung ihres gewöhnlichen Aufenthaltes im Ausland insgesamt nicht länger als 90 Tage innerhalb eines Zeitraums von 180 Tagen im Inland aufhalten.
 
 ### § 17 Betriebliche Weiterbildung
 
-Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an im Ausland beschäftigte Fachkräfte eines international tätigen Konzerns oder Unternehmens zum Zweck einer betrieblichen Weiterbildung im inländischen Konzern- oder Unternehmensteil für bis zu drei Monate innerhalb eines Zeitraums von zwölf Monaten.
+Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an im Ausland beschäftigte Fachkräfte eines international tätigen Konzerns oder Unternehmens zum Zweck einer betrieblichen Weiterbildung im inländischen Konzern- oder Unternehmensteil für bis zu 90 Tage innerhalb eines Zeitraums von zwölf Monaten.
 
 ### § 18 Journalistinnen und Journalisten
 
@@ -297,11 +301,11 @@ Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an Beschäftigte 
 deren Tätigkeit vom Presse- und Informationsamt der Bundesregierung anerkannt ist oder
 
 2.  
-die unter Beibehaltung ihres gewöhnlichen Aufenthaltes im Ausland im Inland journalistisch tätig werden, wenn die Dauer der Tätigkeit drei Monate innerhalb eines Zeitraums von zwölf Monaten nicht übersteigt.
+die unter Beibehaltung ihres gewöhnlichen Aufenthaltes im Ausland im Inland journalistisch tätig werden, wenn die Dauer der Tätigkeit 90 Tage innerhalb eines Zeitraums von zwölf Monaten nicht übersteigt.
 
 ### § 19 Werklieferungsverträge
 
-(1) Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an Personen, die von ihrem Arbeitgeber mit Sitz im Ausland für bis zu drei Monate innerhalb eines Zeitraums von zwölf Monaten in das Inland entsandt werden, um
+(1) Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an Personen, die von ihrem Arbeitgeber mit Sitz im Ausland für bis zu 90 Tage innerhalb eines Zeitraums von zwölf Monaten in das Inland entsandt werden, um
 
 1.  
 gewerblichen Zwecken dienende Maschinen, Anlagen und Programme der elektronischen Datenverarbeitung, die bei dem Arbeitgeber bestellt worden sind, aufzustellen und zu montieren, zu warten oder zu reparieren oder um in die Bedienung dieser Maschinen, Anlagen und Programme einzuweisen,
@@ -320,7 +324,7 @@ im Rahmen von Exportlieferungs- und Lizenzverträgen einen Betriebslehrgang zu a
 
 In den Fällen des Satzes 1 Nummer 1 und 3 setzt die Befreiung von der Zustimmung voraus, dass der Arbeitgeber der Bundesagentur für Arbeit die Beschäftigungen vor ihrer Aufnahme angezeigt hat.
 
-(2) Die Zustimmung kann für Personen erteilt werden, die von ihrem Arbeitgeber mit Sitz im Ausland länger als drei Monate und bis zu einer Dauer von drei Jahren in das Inland entsandt werden, um
+(2) Die Zustimmung kann für Personen erteilt werden, die von ihrem Arbeitgeber mit Sitz im Ausland länger als 90 Tage und bis zu einer Dauer von drei Jahren in das Inland entsandt werden, um
 
 1.  
 gewerblichen Zwecken dienende Maschinen, Anlagen und Programme der elektronischen Datenverarbeitung, die bei dem Arbeitgeber bestellt worden sind, aufzustellen und zu montieren, zu warten oder zu reparieren oder um in die Bedienung dieser Maschinen, Anlagen und Programme einzuweisen oder
@@ -341,7 +345,7 @@ a)
 im Hoheitsgebiet eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum Beförderungen im grenzüberschreitenden Verkehr nach Artikel 2 Nummer 2 oder Kabotagebeförderungen nach Artikel 8 Absatz 2 der Verordnung (EG) Nr. 1072/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum Markt des grenzüberschreitenden Güterverkehrs (ABl. L 300 vom 14.11.2009, S. 72) durchführt und für das dem Arbeitgeber eine Fahrerbescheinigung ausgestellt worden ist,
 
 b)  
-außerhalb des Hoheitsgebietes eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum Beförderungen im grenzüberschreitenden Güterverkehr mit einem im Sitzstaat des Arbeitgebers zugelassenen Fahrzeug durchführt, für einen Aufenthalt von höchstens drei Monaten innerhalb eines Zeitraums von zwölf Monaten, oder ein in Deutschland zugelassenes Fahrzeug in einen Staat außerhalb dieses Gebietes überführt,
+außerhalb des Hoheitsgebietes eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum Beförderungen im grenzüberschreitenden Güterverkehr mit einem im Sitzstaat des Arbeitgebers zugelassenen Fahrzeug durchführt, für einen Aufenthalt von höchstens 90 Tagen innerhalb eines Zeitraums von zwölf Monaten, oder ein in Deutschland zugelassenes Fahrzeug in einen Staat außerhalb dieses Gebietes überführt,
 
 2.  
 im grenzüberschreitenden Personenverkehr auf der Straße für einen Arbeitgeber mit Sitz im Ausland grenzüberschreitende Fahrten mit einem im Sitzstaat des Arbeitgebers zugelassenen Fahrzeug durchführt. Dies gilt im grenzüberschreitenden Linienverkehr mit Omnibussen auch dann, wenn das Fahrzeug im Inland zugelassen ist.
@@ -362,10 +366,10 @@ Teil 5 Besondere Berufs- oder Personengruppen
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 
 1.  
-Personen einschließlich ihres Hilfspersonals, die unter Beibehaltung ihres gewöhnlichen Wohnsitzes im Ausland in Vorträgen oder in Darbietungen von besonderem wissenschaftlichen oder künstlerischen Wert oder bei Darbietungen sportlichen Charakters im Inland tätig werden, wenn die Dauer der Tätigkeit drei Monate innerhalb eines Zeitraums von zwölf Monaten nicht übersteigt,
+Personen einschließlich ihres Hilfspersonals, die unter Beibehaltung ihres gewöhnlichen Wohnsitzes im Ausland in Vorträgen oder in Darbietungen von besonderem wissenschaftlichen oder künstlerischen Wert oder bei Darbietungen sportlichen Charakters im Inland tätig werden, wenn die Dauer der Tätigkeit 90 Tage innerhalb eines Zeitraums von zwölf Monaten nicht übersteigt,
 
 2.  
-Personen, die im Rahmen von Festspielen oder Musik- und Kulturtagen beschäftigt oder im Rahmen von Gastspielen oder ausländischen Film- und Fernsehproduktionen entsandt werden, wenn die Dauer der Tätigkeit drei Monate innerhalb eines Zeitraums von zwölf Monaten nicht übersteigt,
+Personen, die im Rahmen von Festspielen oder Musik- und Kulturtagen beschäftigt oder im Rahmen von Gastspielen oder ausländischen Film- und Fernsehproduktionen entsandt werden, wenn die Dauer der Tätigkeit 90 Tage innerhalb eines Zeitraums von zwölf Monaten nicht übersteigt,
 
 3.  
 Personen, die in Tagesdarbietungen bis zu 15 Tage im Jahr auftreten,
@@ -386,10 +390,10 @@ der für die Sportart zuständige deutsche Spitzenverband im Einvernehmen mit de
 Fotomodelle, Werbetypen, Mannequins oder Dressmen,
 
 6.  
-Reiseleiterinnen und Reiseleiter, die unter Beibehaltung ihres gewöhnlichen Aufenthaltes im Ausland ausländische Touristengruppen in das Inland begleiten, wenn die Dauer der Tätigkeit drei Monate innerhalb von zwölf Monaten nicht übersteigt, oder
+Reiseleiterinnen und Reiseleiter, die unter Beibehaltung ihres gewöhnlichen Aufenthaltes im Ausland ausländische Touristengruppen in das Inland begleiten, wenn die Dauer der Tätigkeit 90 Tage innerhalb von zwölf Monaten nicht übersteigt, oder
 
 7.  
-Dolmetscherinnen und Dolmetscher, die unter Beibehaltung ihres gewöhnlichen Aufenthaltes im Ausland für ein Unternehmen mit Sitz im Ausland an Besprechungen oder Verhandlungen im Inland teilnehmen, wenn die Dauer der Tätigkeit drei Monate innerhalb eines Zeitraums von zwölf Monaten nicht übersteigt.
+Dolmetscherinnen und Dolmetscher, die unter Beibehaltung ihres gewöhnlichen Aufenthaltes im Ausland für ein Unternehmen mit Sitz im Ausland an Besprechungen oder Verhandlungen im Inland teilnehmen, wenn die Dauer der Tätigkeit 90 Tage innerhalb eines Zeitraums von zwölf Monaten nicht übersteigt.
 
 ### § 23 Internationale Sportveranstaltungen
 
@@ -431,11 +435,13 @@ Die Zustimmung kann für Personen erteilt werden, die
 eine künstlerische oder artistische Beschäftigung oder eine Beschäftigung als Hilfspersonal, das für die Darbietung erforderlich ist, ausüben oder
 
 2.  
-zu einer länger als drei Monate dauernden Beschäftigung im Rahmen von Gastspielen oder ausländischen Film- oder Fernsehproduktionen entsandt werden.
+zu einer länger als 90 Tage dauernden Beschäftigung im Rahmen von Gastspielen oder ausländischen Film- oder Fernsehproduktionen entsandt werden.
 
 ### § 26 Beschäftigung bestimmter Staatsangehöriger
 
-Für Staatsangehörige von Andorra, Australien, Israel, Japan, Kanada, der Republik Korea, von Monaco, Neuseeland, San Marino sowie den Vereinigten Staaten von Amerika kann die Zustimmung zur Ausübung jeder Beschäftigung unabhängig vom Sitz des Arbeitgebers erteilt werden.
+(1) Für Staatsangehörige von Andorra, Australien, Israel, Japan, Kanada, der Republik Korea, von Monaco, Neuseeland, San Marino sowie den Vereinigten Staaten von Amerika kann die Zustimmung zur Ausübung jeder Beschäftigung unabhängig vom Sitz des Arbeitgebers erteilt werden.
+
+(2) Für Staatsangehörige von Albanien, Bosnien und Herzegowina, Kosovo, Mazedonien, Montenegro und Serbien können in den Jahren 2016 bis einschließlich 2020 Zustimmungen zur Ausübung jeder Beschäftigung erteilt werden. Die Zustimmung darf nur erteilt werden, wenn der Antrag auf Erteilung des Aufenthaltstitels bei der jeweils zuständigen deutschen Auslandsvertretung im Herkunftsstaat gestellt wurde. Die Zustimmung darf nicht erteilt werden, wenn der Antragsteller in den letzten 24 Monaten vor Antragstellung Leistungen nach dem Asylbewerberleistungsgesetz bezogen hat. Satz 3 gilt nicht für Antragsteller, die nach dem 1. Januar 2015 und vor dem 24. Oktober 2015 einen Asylantrag gestellt haben, sich am 24. Oktober 2015 gestattet, mit einer Duldung oder als Ausreisepflichtige im Bundesgebiet aufgehalten haben und unverzüglich ausreisen.
 
 ### § 27 Grenzgängerbeschäftigung
 
@@ -467,13 +473,13 @@ Teil 6 Sonstiges
 Nicht als Beschäftigung im Sinne des Aufenthaltsgesetzes gelten
 
 1.  
-Tätigkeiten nach § 3, die bis zu sechs Monate innerhalb eines Zeitraums von zwölf Monaten ausgeübt werden,
+Tätigkeiten nach den §§ 3 und 16, die bis zu 90 Tage innerhalb eines Zeitraums von 180 Tagen ausgeübt werden,
 
 2.  
-Tätigkeiten nach den §§ 5, 14, 15, 16 bis 18, 19 Absatz 1 sowie den §§ 20, 22 und 23, die bis zu drei Monate innerhalb eines Zeitraums von zwölf Monaten ausgeübt werden,
+Tätigkeiten nach den §§ 5, 14, 15, 17, 18, 19 Absatz 1 sowie den §§ 20, 22 und 23, die bis zu 90 Tage innerhalb eines Zeitraums von zwölf Monaten ausgeübt werden,
 
 3.  
-Tätigkeiten nach § 21, die von Ausländerinnen und Ausländern, die in einem anderen Mitgliedstaat der Europäischen Union die Rechtsstellung eines langfristig Aufenthaltsberechtigten innehaben, bis zu drei Monate innerhalb eines Zeitraums von zwölf Monaten ausgeübt werden, und
+Tätigkeiten nach § 21, die von Ausländerinnen und Ausländern, die in einem anderen Mitgliedstaat der Europäischen Union die Rechtsstellung eines langfristig Aufenthaltsberechtigten innehaben, bis zu 90 Tage innerhalb eines Zeitraums von zwölf Monaten ausgeübt werden, und
 
 4.  
 Tätigkeiten von Personen, die nach den §§ 23 bis 30 der Aufenthaltsverordnung vom Erfordernis eines Aufenthaltstitels befreit sind.
@@ -489,20 +495,26 @@ Die Erteilung der Erlaubnis zur Beschäftigung an Ausländerinnen und Ausländer
 
 ### § 32 Beschäftigung von Personen mit Duldung
 
-(1) Ausländerinnen und Ausländern, die eine Duldung besitzen, kann eine Zustimmung zur Ausübung einer Beschäftigung erteilt werden, wenn sie sich seit drei Monaten erlaubt, geduldet oder mit einer Aufenthaltsgestattung im Bundesgebiet aufhalten. Die §§ 39 bis 41 des Aufenthaltsgesetzes gelten entsprechend.
+(1) Ausländerinnen und Ausländern, die eine Duldung besitzen, kann eine Zustimmung zur Ausübung einer Beschäftigung erteilt werden, wenn sie sich seit drei Monaten erlaubt, geduldet oder mit einer Aufenthaltsgestattung im Bundesgebiet aufhalten. Die §§ 39, 40 Absatz 1 Nummer 1 und Absatz 2 sowie § 41 des Aufenthaltsgesetzes gelten entsprechend.
 
 (2) Keiner Zustimmung bedarf die Erteilung einer Erlaubnis zur Ausübung
 
 1.  
-einer Berufsausbildung in einem staatlich anerkannten oder vergleichbar geregelten Ausbildungsberuf,
+eines Praktikums nach § 22 Absatz 1 Satz 2 Nummer 1 bis 4 des Mindestlohngesetzes,
 
 2.  
-einer Beschäftigung nach § 2 Absatz 1, § 3 Nummer 1 bis 3, § 5, § 14 Absatz 1, § 15 Nummer 1 und 2, § 22 Nummer 3 bis 5 und § 23 oder
+einer Berufsausbildung in einem staatlich anerkannten oder vergleichbar geregelten Ausbildungsberuf,
 
 3.  
-einer Beschäftigung von Ehegatten, Lebenspartnern, Verwandten und Verschwägerten ersten Grades eines Arbeitgebers in dessen Betrieb, wenn der Arbeitgeber mit diesen in häuslicher Gemeinschaft lebt.
+einer Beschäftigung nach § 2 Absatz 1, § 3 Nummer 1 bis 3, § 5, § 14 Absatz 1, § 15 Nummer 2, § 22 Nummer 3 bis 5 und § 23,
 
-(3) Die Erteilung einer Erlaubnis zur Beschäftigung an Ausländerinnen und Ausländer, die eine Duldung besitzen, bedarf keiner Zustimmung der Bundesagentur für Arbeit, wenn sie sich seit vier Jahren ununterbrochen erlaubt, geduldet oder mit einer Aufenthaltsgestattung im Bundesgebiet aufhalten.
+4.  
+einer Beschäftigung von Ehegatten, Lebenspartnern, Verwandten und Verschwägerten ersten Grades eines Arbeitgebers in dessen Betrieb, wenn der Arbeitgeber mit diesen in häuslicher Gemeinschaft lebt oder
+
+5.  
+jeder Beschäftigung nach einem ununterbrochen vierjährigen erlaubten, geduldeten oder gestatteten Aufenthalt im Bundesgebiet.
+
+(3) Die Zustimmung für ein Tätigwerden als Leiharbeitnehmer (§ 1 Absatz 1 des Arbeitnehmerüberlassungsgesetzes) darf nur in den Fällen des Absatzes 5 erteilt werden.
 
 (4) Die Absätze 2 und 3 finden auch Anwendung auf Ausländerinnen und Ausländer mit einer Aufenthaltsgestattung.
 
@@ -514,17 +526,7 @@ eine Beschäftigung nach § 2 Absatz 2, § 6 oder § 8 aufnehmen oder
 2.  
 sich seit 15 Monaten ununterbrochen erlaubt, geduldet oder mit einer Aufenthaltsgestattung im Bundesgebiet aufhalten.
 
-### § 33 Versagung der Erlaubnis zur Ausübung einer Beschäftigung von Personen mit Duldung
-
-(1) Ausländerinnen und Ausländern, die eine Duldung besitzen, darf die Ausübung einer Beschäftigung nicht erlaubt werden, wenn
-
-1.  
-sie sich in das Inland begeben haben, um Leistungen nach dem Asylbewerberleistungsgesetz zu erlangen, oder
-
-2.  
-aufenthaltsbeendende Maßnahmen bei ihnen aus Gründen, die sie selbst zu vertreten haben, nicht vollzogen werden können.
-
-(2) Zu vertreten haben Ausländerinnen oder Ausländer die Gründe nach Absatz 1 Nummer 2 insbesondere, wenn sie das Abschiebungshindernis durch eigene Täuschung über ihre Identität oder Staatsangehörigkeit oder durch eigene falsche Angaben selbst herbeiführen.
+### § 33 (weggefallen)
 
 Teil 8 Verfahrensregelungen
 ---------------------------
@@ -549,7 +551,7 @@ der Lage und Verteilung der Arbeitszeit.
 
 (2) Die Zustimmung wird für die Dauer der Beschäftigung, längstens für drei Jahre erteilt.
 
-(3) Bei Beschäftigungen zur beruflichen Aus- und Weiterbildung nach § 17 des Aufenthaltsgesetzes ist die Zustimmung wie folgt zu erteilen:
+(3) Bei Beschäftigungen zur beruflichen Aus- und Weiterbildung nach § 17 Absatz 1 und § 17a Absatz 1 Satz 3 des Aufenthaltsgesetzes ist die Zustimmung wie folgt zu erteilen:
 
 1.  
 bei der Ausbildung für die nach der Ausbildungsordnung festgelegte Ausbildungsdauer und
