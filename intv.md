@@ -2,12 +2,12 @@ Verordnung über die Durchführung von Integrationskursen für Ausländer und Sp
 ===============================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 20.2.2012 I 295
+Zuletzt geändert durch Art. 2 V v. 24.10.2015 I 1789
 
 ### 
 
 ```
-(+++ Textnachweis ab:  1. 1.2005 +++)
+(+++ Textnachweis ab: 1.1.2005 +++)
 ```
 
 ### Eingangsformel
@@ -85,7 +85,7 @@ eine Erwerbstätigkeit ausübt, die regelmäßig eine Qualifikation nach Buchsta
 2.  
 die Annahme gerechtfertigt ist, dass sich der Ausländer ohne staatliche Hilfe in das wirtschaftliche, gesellschaftliche und kulturelle Leben der Bundesrepublik Deutschland integrieren wird.
 
-(3) Von einer besonderen Integrationsbedürftigkeit im Sinne von § 44a Abs. 1 Satz 1 Nr. 3 des Aufenthaltsgesetzes kann insbesondere dann ausgegangen werden, wenn sich der Ausländer als Inhaber der Personensorge für ein in Deutschland lebendes minderjähriges Kind nicht auf einfache Art in deutscher Sprache verständigen kann und es ihm deshalb bisher nicht gelungen ist, sich ohne staatliche Hilfe in das wirtschaftliche, kulturelle und gesellschaftliche Leben der Bundesrepublik Deutschland zu integrieren.
+(3) Von einer besonderen Integrationsbedürftigkeit im Sinne von § 44a Abs. 1 Satz 1 Nr. 3 des Aufenthaltsgesetzes kann insbesondere dann ausgegangen werden, wenn der Ausländer als Inhaber der Personensorge für ein in Deutschland lebendes minderjähriges Kind nicht über ausreichende Kenntnisse der deutschen Sprache verfügt und es ihm deshalb bisher nicht gelungen ist, sich ohne staatliche Hilfe in das wirtschaftliche, kulturelle und gesellschaftliche Leben der Bundesrepublik Deutschland zu integrieren.
 
 (4) (weggefallen)
 
@@ -93,7 +93,7 @@ die Annahme gerechtfertigt ist, dass sich der Ausländer ohne staatliche Hilfe i
 
 ### § 4a Fahrtkostenerstattung, Kinderbetreuung
 
-(1) Teilnehmern, die nach § 44a Absatz 1 Satz 1 Nummer 2 oder Satz 3 des Aufenthaltsgesetzes oder in sonstiger Weise nach § 3 Absatz 2b Satz 2 des Zweiten Buches Sozialgesetzbuch durch eine Eingliederungsvereinbarung zur Teilnahme verpflichtet worden sind, werden bei ordnungsgemäßer Teilnahme vom Bundesamt die notwendigen Fahrtkosten erstattet. Ausländern, die nach § 44a Absatz 1 Satz 1 Nummer 1 oder 3 des Aufenthaltsgesetzes zur Teilnahme verpflichtet worden sind, sowie Teilnehmern, für die Satz 1 keine Anwendung findet und die nach § 9 Absatz 2 von der Kostenbeitragspflicht befreit worden sind, soll das Bundesamt bei Bedarf einen Fahrtkostenzuschuss gewähren.
+(1) Das Bundesamt gewährt Teilnahmeberechtigten, die nach § 9 Absatz 2 von der Kostenbeitragspflicht befreit worden sind, auf Antrag einen Zuschuss zu den Fahrtkosten, sofern sie am Kurs teilnehmen und soweit ein Bedarf besteht. Der Fahrtkostenzuschuss wird in Form einer Pauschale gewährt.
 
 (2) Das Bundesamt kann die Teilnehmer eines Integrationskurses durch ein Kinderbetreuungsangebot unterstützen, wenn mindestens drei Kinder von Spätaussiedlern oder Teilnehmern an Eltern-, Frauenintegrations- oder Alphabetisierungskursen der Betreuung bedürfen und für diese Kinder kein örtliches Betreuungsangebot besteht. Für Kinder, die das dritte Lebensjahr vollendet haben, kann die Kinderbetreuung im Rahmen der Integrationskurse in der Regel nicht in Anspruch genommen werden.
 
@@ -101,12 +101,12 @@ die Annahme gerechtfertigt ist, dass sich der Ausländer ohne staatliche Hilfe i
 
 (1) Die Zulassung zur Teilnahme am Integrationskurs nach § 44 Abs. 4 des Aufenthaltsgesetzes erfolgt durch das Bundesamt. Sie ist schriftlich zu beantragen. Der Antrag kann über einen zugelassenen Kursträger gestellt werden. Ein Antrag auf Kostenbefreiung nach § 9 Abs. 2 kann mit dem Antrag auf Zulassung gestellt werden.
 
-(2) Die Zulassung ist auf zwei Jahre zu befristen. Sie ergeht schriftlich und gilt als Bestätigung der Teilnahmeberechtigung.
+(2) Die Zulassung ist auf zwei Jahre zu befristen. Sie ergeht schriftlich und gilt als Bestätigung der Teilnahmeberechtigung. Die Zulassung für Teilnehmer nach § 44 Absatz 4 Satz 2 Nummer 1 des Aufenthaltsgesetzes ist auf drei Monate zu befristen.
 
 (3) Bei der Entscheidung über die Zulassung ist die Integrationsbedürftigkeit des Antragstellers zu beachten. Vorrangig zu berücksichtigen sind:
 
 1.  
-Ausländer, die an einem Integrationskurs teilnehmen möchten, um die erforderlichen Kenntnisse für die Erteilung einer Niederlassungserlaubnis, einer Erlaubnis zum Daueraufenthalt-EG oder für eine Einbürgerung zu erwerben,
+Ausländer, die an einem Integrationskurs teilnehmen möchten, um die erforderlichen Kenntnisse für die Erteilung einer Niederlassungserlaubnis, einer Erlaubnis zum Daueraufenthalt – EU oder für eine Einbürgerung zu erwerben,
 
 2.  
 Ausländer, die einen gesetzlichen Anspruch auf Teilnahme an einem Integrationskurs hatten, aber aus Gründen, die sie nicht zu vertreten haben, an einer Teilnahme gehindert waren,
@@ -141,7 +141,7 @@ deutsche Staatsangehörige sowie Unionsbürger und deren Familienangehörige, di
 
 ### § 8 Datenverarbeitung
 
-(1) Die Ausländerbehörde, die Träger der Grundsicherung für Arbeitsuchende und das Bundesverwaltungsamt übermitteln dem Bundesamt zur Erfüllung seiner gesetzlichen Koordinierungs- und Durchführungsaufgaben die Daten nach § 6 Absatz 1 oder 2. Auf Ersuchen der Ausländerbehörde oder des Trägers der Grundsicherung für Arbeitsuchende übermittelt das Bundesamt die Daten nach § 5 Absatz 2 sowie § 6 Absatz 1 oder 2 zur Feststellung, ob eine andere zuständige Stelle eine Berechtigung ausgestellt oder zum Integrationskurs verpflichtet hat.
+(1) Die Ausländerbehörde, die Träger der Grundsicherung für Arbeitsuchende und das Bundesverwaltungsamt übermitteln dem Bundesamt zur Erfüllung seiner gesetzlichen Koordinierungs- und Durchführungsaufgaben die Daten nach § 6 Absatz 1 oder 2 sowie Angaben zum Aufenthaltstitel und zum Herkunftsland. Auf Ersuchen der Ausländerbehörde oder des Trägers der Grundsicherung für Arbeitsuchende übermittelt das Bundesamt die Daten nach § 5 Absatz 2 sowie § 6 Absatz 1 oder 2 zur Feststellung, ob eine andere zuständige Stelle eine Berechtigung ausgestellt oder zum Integrationskurs verpflichtet hat.
 
 (2) Der Kursträger übermittelt dem Bundesamt zur Erfüllung seiner gesetzlichen Koordinierungs- und Durchführungsaufgaben unverzüglich nach Anmeldung die im Anmeldeformular angegebenen Daten und informiert das Bundesamt über den tatsächlichen Beginn eines Kurses sowie der jeweiligen Kursabschnitte. Der Kursträger übermittelt dem Bundesamt
 
@@ -177,9 +177,9 @@ Die Auswertung der Protokolldaten ist nach dem Stand der Technik zu gewährleist
 
 ### § 9 Kostenbeitrag
 
-(1) Für die Teilnahme am Integrationskurs haben Teilnahmeberechtigte einen Kostenbeitrag in Höhe von 1,20 Euro pro Unterrichtsstunde an das Bundesamt zu leisten. Zur Zahlung ist nach § 43 Abs. 3 Satz 4 des Aufenthaltsgesetzes auch derjenige verpflichtet, der dem Teilnahmeberechtigten zur Gewährung des Lebensunterhalts verpflichtet ist.
+(1) Für die Teilnahme am Integrationskurs haben Teilnahmeberechtigte einen Kostenbeitrag an das Bundesamt zu leisten, der 50 Prozent des geltenden Kostenerstattungssatzes nach § 20 Absatz 6 beträgt. Zur Zahlung ist nach § 43 Abs. 3 Satz 4 des Aufenthaltsgesetzes auch derjenige verpflichtet, der dem Teilnahmeberechtigten zur Gewährung des Lebensunterhalts verpflichtet ist.
 
-(2) Das Bundesamt befreit auf Antrag Teilnahmeberechtigte, die Leistungen nach dem Zweiten Buch Sozialgesetzbuch oder Hilfe zum Lebensunterhalt nach dem Zwölften Buch Sozialgesetzbuch beziehen, gegen Vorlage eines aktuellen Nachweises von der Pflicht, einen Kostenbeitrag zu leisten. Das Bundesamt kann Teilnahmeberechtigte auf Antrag von der Kostenbeitragspflicht befreien, wenn diese für den Teilnahmeberechtigten unter Berücksichtigung seiner persönlichen Umstände und wirtschaftlichen Situation eine unzumutbare Härte darstellen würde. Teilnahmeberechtigte, die von der Kostenbeitragspflicht befreit wurden, sind verpflichtet, dem Bundesamt unverzüglich mitzuteilen, wenn ihnen die Leistungen oder Hilfen nach Satz 1 nicht mehr gewährt werden oder die Umstände weggefallen sind, die zur Annahme einer unzumutbaren Härte nach Satz 2 geführt haben.
+(2) Das Bundesamt befreit auf Antrag Teilnahmeberechtigte, die Leistungen nach dem Zweiten Buch Sozialgesetzbuch, Hilfe zum Lebensunterhalt nach dem Zwölften Buch Sozialgesetzbuch oder nach dem Asylbewerberleistungsgesetz beziehen, gegen Vorlage eines aktuellen Nachweises von der Pflicht, einen Kostenbeitrag zu leisten. Das Bundesamt kann Teilnahmeberechtigte auf Antrag von der Kostenbeitragspflicht befreien, wenn diese für den Teilnahmeberechtigten unter Berücksichtigung seiner persönlichen Umstände und wirtschaftlichen Situation eine unzumutbare Härte darstellen würde. Teilnahmeberechtigte, die von der Kostenbeitragspflicht befreit wurden, sind verpflichtet, dem Bundesamt unverzüglich mitzuteilen, wenn ihnen die Leistungen oder Hilfen nach Satz 1 nicht mehr gewährt werden oder die Umstände weggefallen sind, die zur Annahme einer unzumutbaren Härte nach Satz 2 geführt haben.
 
 (3) Der Kostenbeitrag für einen Kursabschnitt ist über die Träger des Integrationskurses zum Beginn des Kursabschnitts zu entrichten.
 
@@ -254,7 +254,7 @@ die einen besonderen sprachpädagogischen Förderbedarf haben (Förderkurs).
 
 (2) Soweit diese fachlichen Qualifikationen nicht vorliegen, ist eine Zulassung zur Lehrtätigkeit nur möglich, wenn die Lehrkraft an einer vom Bundesamt vorgegebenen Qualifizierung teilgenommen hat.
 
-(3) Lehrkräfte im Orientierungskurs müssen eine für die Vermittlung der Ziele nach § 3 Abs. 1 Nr. 2 ausreichende fachliche Qualifikation und Eignung nachweisen.
+(3) Lehrkräfte im Orientierungskurs müssen eine für die Vermittlung der Ziele nach § 3 Abs. 1 Nr. 2 ausreichende fachliche Qualifikation und Eignung nachweisen. Für die Unterrichtung von Alphabetisierungskursen muss eine ausreichende fachliche Qualifikation und Eignung nachgewiesen werden.
 
 (4) Das Bundesamt kann die methodisch-didaktische Fortbildung von Lehrkräften fördern.
 
@@ -269,18 +269,20 @@ Lehr- und Lernmittel für den Integrationskurs werden vom Bundesamt zugelassen.
 (1) Der Integrationskurs wird abgeschlossen durch
 
 1.  
-den skalierten Sprachtest „Deutsch-Test für Zuwanderer“, der die Sprachkompetenzen in den Fertigkeiten Hören, Lesen, Schreiben und Sprechen auf den Stufen A2 bis B1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen nachweist, und
+den skalierten Sprachtest „Deutsch-Test für Zuwanderer“ des Bundesamtes, der die Sprachkompetenzen in den Fertigkeiten Hören, Lesen, Schreiben und Sprechen auf den Stufen A2 bis B1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen nachweist, und
 
 2.  
-den bundeseinheitlichen Test zum Orientierungskurs.
+den skalierten Test „Leben in Deutschland“.
 
-Die Tests nach Satz 1 werden bei den hierfür zugelassenen Stellen (§ 20 Abs. 4) abgelegt.
+Diese Tests werden bei hierfür zugelassenen Stellen (§ 20a) abgelegt. Diese Stellen müssen hierbei zur Gewährleistung der ordnungsgemäßen Durchführung der Prüfung und eines Höchstmaßes an Prüfungssicherheit mindestens einen trägerunabhängigen Prüfer einsetzen. Das Bundesamt kann im Wege der Ausschreibung ein Testinstitut mit der Organisation und Auswertung dieser Tests beauftragen.
 
-(2) Die Teilnahme am Integrationskurs ist erfolgreich im Sinne von § 43 Abs. 2 Satz 2 des Aufenthaltsgesetzes, wenn in dem Sprachtest die für das Sprachniveau B1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (Deutsch-Test B1) erforderliche Punktzahl nachgewiesen und in dem bundeseinheitlichen Test zum Orientierungskurs die für das Bestehen notwendige Punktzahl erreicht ist.
+(2) Die Teilnahme am Integrationskurs ist erfolgreich im Sinne von § 43 Absatz 2 Satz 2 des Aufenthaltsgesetzes, wenn im Sprachtest das Sprachniveau B1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen nachgewiesen und im Test „Leben in Deutschland“ die für das Bestehen des Orientierungskurses notwendige Punktzahl erreicht ist.
 
 (3) Das Bundesamt trägt die Kosten für die einmalige Teilnahme an den Abschlusstests nach Absatz 1. Bei nicht erfolgreicher Teilnahme am Test nach Absatz 1 Satz 1 Nummer 1 vor Ausschöpfung der Unterrichtsstunden gemäß § 11 Absatz 1 Satz 1 oder § 13 Absatz 1 Satz 2 oder Absatz 2 Satz 2 trägt das Bundesamt die Kosten für die zweite Teilnahme an diesem Test. Im Rahmen der Wiederholung nach § 5 Absatz 4 werden die Kosten für die Teilnahme am Test nach Absatz 1 Satz 1 Nummer 1 einmalig getragen.
 
 (4) Das Bundesamt bescheinigt die erfolgreiche Teilnahme am Integrationskurs nach Absatz 2 mit dem „Zertifikat Integrationskurs“ und bewahrt einen Abdruck auf. Das Zertifikat enthält Namen, Vornamen, Geburtsdatum und die Nummer des Passes, Personalausweises oder eines vergleichbaren, zu bezeichnenden Ausweises des Kursteilnehmers. War die Teilnahme am Integrationskurs nicht erfolgreich, wird das tatsächlich erreichte Ergebnis der Abschlusstests durch eine Bescheinigung bestätigt. Die nach Absatz 1 Satz 2 zugelassene Stelle übermittelt dem Bundesamt die für die Ausstellung der Bescheinigungen nach den Sätzen 1 bis 3 erforderlichen Angaben. Das Bundesamt unterrichtet die Kursträger, soweit erforderlich, über die Ergebnisse ihrer Teilnehmer in den Tests nach Absatz 1.
+
+(5) Mit dem skalierten Test „Leben in Deutschland“ können nach Maßgabe der Einbürgerungstestverordnung auch die nach § 10 Absatz 1 Satz 1 Nummer 7 des Staatsangehörigkeitsgesetzes erforderlichen Kenntnisse nachgewiesen werden. § 2 Absatz 1 Satz 2 der Einbürgerungstestverordnung findet keine Anwendung.
 
 Abschnitt 4 Zulassung der Kursträger
 ------------------------------------
@@ -394,7 +396,7 @@ zum Einsatz von Prüfern,
 zum Vorhandensein ausreichender räumlicher Kapazitäten, insbesondere zur Gesamtfläche der Prüfungsräume und zur maximalen Teilnehmeranzahl pro Prüfungstermin, und
 
 4.  
-zur Einhaltung der vom Bundesministerium des Innern nach § 17 Absatz 1 Satz 4 geregelten Prüfungs- und Nachweismodalitäten.
+zur Einhaltung der vom Bundesministerium des Innern nach § 43 Absatz 4 Satz 2 des Aufenthaltsgesetzes geregelten Prüfungs- und Nachweismodalitäten.
 
 (3) Die Zulassung wird durch ein Zertifikat „Zugelassener Träger zur Durchführung von Integrationskurstests“ bescheinigt.
 
@@ -443,9 +445,11 @@ Abschnitt 5 Übergangsregelung
 
 ### § 22 Übergangsregelung
 
-(1) Bis zum Ablauf des 30. Juni 2013 kann das Bundesamt einzelnen Kursträgern gestatten, die Datenübermittlung entgegen § 8 Absatz 2 Satz 3 anders als auf elektronischem Wege vorzunehmen. In diesem Fall kann das Bundesamt auch auf die Übermittlung von Daten zum Beginn von Kursabschnitten nach § 8 Absatz 2 Satz 1 verzichten.
+(1) Das Bundesamt kann die Fahrtkosten bis zum Ablauf des 31. Dezember 2016 nach dem bis zum 28. Oktober 2015 geltenden Kostenvergütungsverfahren erstatten.
 
-(2) Teilnehmer, die sich vor dem 1. Juli 2012 zu einem Integrationskurs angemeldet haben, müssen entgegen § 9 Absatz 1 nur einen Kostenbeitrag in Höhe von 1 Euro pro Unterrichtseinheit an das Bundesamt leisten.
+(2) Die Datenverarbeitung kann bis zum Ablauf des 31. Dezember 2016 gemäß § 8 Absatz 1 Satz 1 in der bis zum 28. Oktober 2015 geltenden Fassung erfolgen.
+
+(3) Teilnehmer, die sich vor dem 1. Juli 2012 zu einem Integrationskurs angemeldet haben, müssen abweichend von § 9 Absatz 1 Satz 1 nur einen Kostenbeitrag in Höhe von 1 Euro pro Unterrichtseinheit an das Bundesamt leisten. Teilnehmer, die sich nach dem 30. Juni 2012 und vor dem 1. Januar 2016 zu einem Integrationskurs angemeldet haben, müssen abweichend von § 9 Absatz 1 Satz 1 nur einen Kostenbeitrag in Höhe von 1,20 Euro pro Unterrichtseinheit an das Bundesamt leisten.
 
 ### § 23 (weggefallen)
 
