@@ -2,7 +2,7 @@ Verordnung über Flugfunkzeugnisse (FlugfunkV)
 =============================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 7.2.2012 I 183
+Zuletzt geändert durch Art. 7 V v. 29.10.2015 I 1894
 
 ### 
 
@@ -60,7 +60,7 @@ Allgemeines Sprechfunkzeugnis für den Flugfunkdienst (AZF),
 5.  
 Allgemeines Sprechfunkzeugnis E für den Flugfunkdienst in englischer Sprache (AZF E).
 
-(2) Welches der in Absatz 1 aufgeführten Zeugnisse jeweils erforderlich ist, richtet sich nach der Art der zu bedienenden Boden- oder Luftfunkstelle. Vorbehaltlich der Bestimmungen des § 26a Absatz 1 Satz 3 der Luftverkehrs-Ordnung berechtigt
+(2) Welches der in Absatz 1 aufgeführten Zeugnisse jeweils erforderlich ist, richtet sich nach der Art der zu bedienenden Boden- oder Luftfunkstelle. Vorbehaltlich der Bestimmungen von Anhang I FCL.055 der Verordnung (EU) Nr. 1178/2011 der Kommission vom 3. November 2011 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren in Bezug auf das fliegende Personal in der Zivilluftfahrt gemäß der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates (ABl. L 311 vom 25.11.2011, S. 1), die zuletzt durch die Verordnung (EU) Nr. 70/2014 (ABl. L 23 vom 28.1.2014, S. 25) geändert worden ist berechtigt
 
 1.  
 das BZF II, bei Flügen nach Sichtflugregeln den Sprechfunk innerhalb der Bundesrepublik Deutschland in deutscher Sprache auszuüben;
@@ -249,7 +249,7 @@ Für ein in Verlust geratenes Flugfunkzeugnis, für einen in Verlust geratenen B
 (1) Die Bundesnetzagentur kann ein Flugfunkzeugnis entziehen, wenn der Inhaber
 
 1.  
-in grober Weise gegen wichtige Funkvorschriften, insbesondere gegen die Bestimmungen des § 26a der Luftverkehrs-Ordnung in der Fassung der Bekanntmachung vom 27. März 1999 (BGBl. I S. 580), die zuletzt durch Artikel 1 der Verordnung vom 18. Januar 2010 (BGBl. I S. 11) geändert worden ist, verstoßen hat oder
+in grober Weise gegen wichtige Funkvorschriften, insbesondere solche über die zur Ausübung des Sprechfunks erforderlichen Sprachkenntnisse, die einzuhaltende Hörbereitschaft auf festgelegten Funkfrequenzen, die Sprechfunkverfahren sowie die Verfahren bei Ausfall der Funkverbindung, verstoßen hat oder
 
 2.  
 entgegen den Bestimmungen des § 2 Absatz 2 und 3 dieser Verordnung den Sprechfunkverkehr ausübt.
@@ -262,7 +262,7 @@ entgegen den Bestimmungen des § 2 Absatz 2 und 3 dieser Verordnung den Sprechfu
 
 ### § 18 Gebühren und Auslagen
 
-(1) Die für Amtshandlungen nach dieser Verordnung zu erhebenden Gebühren bestimmen sich nach dem Gebührenverzeichnis in Anlage 2. Neben den ausgewiesenen Gebührensätzen werden Auslagen nach Maßgabe des Verwaltungskostengesetzes gesondert erhoben.
+(1) Die für Amtshandlungen nach dieser Verordnung zu erhebenden Gebühren bestimmen sich nach dem Gebührenverzeichnis in Anlage 2. Neben den ausgewiesenen Gebührensätzen werden Auslagen nach Maßgabe des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung gesondert erhoben.
 
 (2) Die Gebührenschuld entsteht mit Eingang des Antrags bei der Bundesnetzagentur.
 
@@ -321,7 +321,7 @@ die wichtigsten Bestimmungen und Betriebsverfahren aus dem Bereich der Flugsiche
 Flugsicherungssystem und Luftraumorganisation in der Bundesrepublik Deutschland einschließlich Such- und Rettungsdienst (SAR);
 
 1.1.4.2  
-Luftverkehrs-Ordnung einschließlich der dazu erlassenen Durchführungsverordnungen, soweit sie für Flüge nach Sichtflugregeln zur Anwendung kommen;
+Durchführungsverordnung (EU) Nr. 923/2012 der Kommission vom 26. September 2012 zur Festlegung gemeinsamer Luftverkehrsregeln und Betriebsvorschriften für Dienste und Verfahren der Flugsicherung und zur Änderung der Durchführungsverordnung (EG) Nr. 1035/2011 sowie der Verordnungen (EG) Nr. 1265/2007, (EG) Nr. 1794/2006, (EG) Nr. 730/2006, (EG) Nr. 1033/2006 und (EU) Nr. 255/2010 (ABl. L 281 vom 13.10.2012, S. 1, L 145 vom 31.5.2013, S. 38) in der jeweils geltenden Fassung, einschließlich der Luftverkehrs-Ordnung, soweit sie für Flüge nach Sichtflugregeln zur Anwendung kommt;
 
 1.1.4.3  
 Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge für Flüge nach Sichtflugregeln einschließlich der dazu ergangenen Durchführungsverordnungen;
@@ -381,7 +381,7 @@ die wichtigsten Bestimmungen und Betriebsverfahren aus dem Bereich der Flugsiche
 Flugsicherungssystem und Luftraumorganisation in der Bundesrepublik Deutschland einschließlich Such- und Rettungsdienst (SAR);
 
 3.1.4.2  
-Luftverkehrs-Ordnung einschließlich der dazu erlassenen Durchführungsverordnungen, soweit sie für Flüge nach Sichtflugregeln zur Anwendung kommen;
+Durchführungsverordnung (EU) Nr. 923/2012, einschließlich der Luftverkehrs-Ordnung, soweit sie für Flüge nach Sichtflugregeln zur Anwendung kommt;
 
 3.1.4.3  
 Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge für Flüge nach Sichtflugregeln einschließlich der dazu ergangenen Durchführungsverordnungen;
@@ -405,7 +405,7 @@ Abwicklung eines Sprechfunkverkehrs in englischer Sprache unter Annahme eines Fl
 KenntnisseIm schriftlichen Teil sind folgende Kenntnisse in englischer Sprache nachzuweisen:
 
 4.1.1  
-Luftverkehrs-Ordnung einschließlich der dazu ergangenen Durchführungsverordnungen, soweit sie für Flüge nach Instrumentenflugregeln zur Anwendung kommen;
+Durchführungsverordnung (EU) Nr. 923/2012, einschließlich der Luftverkehrs-Ordnung, soweit sie für Flüge nach Instrumentenflugregeln zur Anwendung kommt;
 
 4.1.2  
 Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge bei Flügen nach Instrumentenflugregeln einschließlich der dazu ergangenen Durchführungsverordnungen;
