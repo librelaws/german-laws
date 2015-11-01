@@ -4,6 +4,9 @@ Einlagensicherungsgesetz (EinSiG)
 Stand  
 Geändert durch Art. 8 G v. 2.11.2015 I 1864
 
+Hinweis  
+Änderung durch Art. 24 Abs. 36 G v. 23.6.2017 I 1693 (Nr. 39) mWv 3.1.2018 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
