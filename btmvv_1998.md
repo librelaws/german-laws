@@ -2,7 +2,7 @@ Verordnung über das Verschreiben, die Abgabe und den Nachweis des Verbleibs von
 =========================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 20.7.2012 I 1639
+Zuletzt geändert durch Art. 2 V v. 11.11.2015 I 1992
 
 ### 
 
@@ -60,12 +60,13 @@ bis zu zwei der folgenden Betäubungsmittel unter Einhaltung der nachstehend fes
 | 7a.  | Flunitrazepam                                                               | 30 mg,     |
 | 8.   | Hydrocodon                                                                  | 1 200 mg,  |
 | 9.   | Hydromorphon                                                                | 5 000 mg,  |
-| 10.  | Levacetylmethadol                                                           | 2 000 mg,  |
-| 11.  | Levomethadon                                                                | 1 500 mg,  |
-| 12.  | Methadon                                                                    | 3 000 mg,  |
+| 10.  | (weggefallen)                                                               |            |
+| 11.  | Levomethadon                                                                | 1 800 mg,  |
+| 11a. | Lisdexamfetamindimesilat                                                    | 2 100 mg,  |
+| 12.  | Methadon                                                                    | 3 600 mg,  |
 | 13.  | Methylphenidat                                                              | 2 400 mg,  |
 | 14.  | (weggefallen)                                                               |            |
-| 15.  | Morphin                                                                     | 20 000 mg, |
+| 15.  | Morphin                                                                     | 24 000 mg, |
 | 16.  | Opium, eingestelltes                                                        | 4 000 mg,  |
 | 17.  | Opiumextrakt                                                                | 2 000 mg,  |
 | 18.  | Opiumtinktur                                                                | 40 000 mg, |
@@ -149,7 +150,7 @@ eines der folgenden Betäubungsmittel unter Einhaltung der nachstehend festgeset
 | oder |                      |             |
 
 b)  
-eines der weiteren in Anlage III des Betäubungsmittelgesetzes bezeichneten Betäubungsmittel außer Alfentanil, Cocain, Diamorphin, Dronabinol, Etorphin, Fenetyllin, Fentanyl, Levacetylmethadol, Methadon, Methaqualon, Methylphenidat, Nabilon, Oxycodon, Papaver somniferum, Pentobarbital, Remifentanil, Secobarbital und Sufentanil.
+eines der weiteren in Anlage III des Betäubungsmittelgesetzes bezeichneten Betäubungsmittel außer Alfentanil, Cocain, Diamorphin, Dronabinol, Etorphin, Fenetyllin, Fentanyl, Levacetylmethadol, Methadon, Methylphenidat, Nabilon, Oxycodon, Papaver somniferum, Pentobarbital, Remifentanil, Secobarbital und Sufentanil.
 
 (2) In begründeten Einzelfällen und unter Wahrung der erforderlichen Sicherheit des Betäubungsmittelverkehrs darf der Tierarzt in einem besonders schweren Krankheitsfall von den Vorschriften des Absatzes 1 hinsichtlich
 
@@ -338,10 +339,10 @@ feststellen sowie Richtlinien zur Dokumentation nach Absatz 10 erlassen. Die Ein
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte (Bundesinstitut) führt für die Länder als vom Bund entliehenes Organ ein Register mit Daten über das Verschreiben von Substitutionsmitteln (Substitutionsregister). Die Daten des Substitutionsregisters dürfen nur verwendet werden, um
 
 1.  
-das Verschreiben eines Substitutionsmittels durch mehrere Ärzte für denselben Patienten und denselben Zeitraum frühestmöglich zu verhindern,
+das Verschreiben eines Substitutionsmittels durch mehrere Ärzte für denselben Patienten und denselben Zeitraum frühestmöglich zu unterbinden,
 
 2.  
-die Erfüllung der Mindestanforderungen nach § 5 Abs. 2 Satz 1 Nr. 6 und der Anforderungen nach § 5 Abs. 3 Satz 1 Nr. 2 und 3 zu überprüfen sowie
+zu überprüfen, ob die ein Substitutionsmittel verschreibenden Ärzte die Mindestanforderungen nach § 5 Absatz 2 Satz 1 Nummer 6 oder die Anforderungen nach § 5 Absatz 3 Satz 1 Nummer 2 und 3 erfüllen sowie
 
 3.  
 das Verschreiben von Substitutionsmitteln entsprechend den Vorgaben nach § 13 Abs. 3 Nr. 3 Buchstabe e des Betäubungsmittelgesetzes statistisch auszuwerten.
@@ -363,92 +364,97 @@ das verschriebene Substitutionsmittel,
 das Datum der letzten Verschreibung,
 
 5.  
-Name und Adresse des verschreibenden Arztes sowie
+Name, Vorname, Geburtsdatum, dienstliche Anschrift und Telefonnummer des verschreibenden Arztes sowie
 
 6.  
-im Falle des Verschreibens nach § 5 Abs. 3 Name und Anschrift des Konsiliarius.
+im Falle des Verschreibens nach § 5 Absatz 3 Satz 1 Name, Vorname, dienstliche Anschrift und Telefonnummer des Konsiliarius.
 
 Der Patientencode setzt sich wie folgt zusammen:
 
-|     |                           |                                                                    |
-|-----|---------------------------|--------------------------------------------------------------------|
-| a)  | erste und zweite Stelle:  | erster und zweiter Buchstabe des ersten Vornamens,                 |
-| b)  | dritte und vierte Stelle: | erster und zweiter Buchstabe des Familiennamens,                   |
-| c)  | fünfte Stelle:            | Geschlecht ("F" für weiblich, "M" für männlich),                   |
-| d)  | sechste bis achte Stelle: | jeweils letzte Ziffer von Geburtstag, -monat und -jahr. und -jahr. |
+|     |                           |                                                         |
+|-----|---------------------------|---------------------------------------------------------|
+| a)  | erste und zweite Stelle:  | erster und zweiter Buchstabe des ersten Vornamens,      |
+| b)  | dritte und vierte Stelle: | erster und zweiter Buchstabe des Familiennamens,        |
+| c)  | fünfte Stelle:            | Geschlecht ("F" für weiblich, "M" für männlich),        |
+| d)  | sechste bis achte Stelle: | jeweils letzte Ziffer von Geburtstag, -monat und -jahr. |
 
 Es ist unzulässig, dem Bundesinstitut Patientendaten uncodiert zu melden. Der Arzt hat die Angaben zur Person durch Vergleich mit dem Personalausweis oder Reisepass des Patienten zu überprüfen.
 
 (3) Das Bundesinstitut verschlüsselt unverzüglich den Patientencode nach Absatz 2 Satz 1 Nr. 1 nach einem vom Bundesamt für Sicherheit in der Informationstechnik vorgegebenen Verfahren in ein Kryptogramm in der Weise, dass er daraus nicht oder nur mit einem unverhältnismäßig großen Aufwand zurückgewonnen werden kann. Das Kryptogramm ist zusammen mit den Angaben nach Absatz 2 Satz 1 Nr. 2 bis 6 zu speichern und spätestens sechs Monate nach Bekanntwerden der Beendigung des Verschreibens zu löschen. Die gespeicherten Daten und das Verschlüsselungsverfahren nach Satz 1 sind durch geeignete Sicherheitsmaßnahmen gegen unbefugte Kenntnisnahme und Verwendung zu schützen.
 
-(4) Das Bundesinstitut vergleicht jedes neu gespeicherte Kryptogramm mit den bereits vorhandenen. Ergibt sich keine Übereinstimmung, ist der Patientencode unverzüglich zu löschen. Liegen Übereinstimmungen vor, teilt dies das Bundesinstitut jedem beteiligten Arzt unter Angabe des Patientencodes, des Datums der ersten Verschreibung und der Adressen der anderen beteiligten Ärzte unverzüglich mit. Die Ärzte haben zu erklären, ob der Patientencode demselben Patienten zuzuordnen ist. Wenn dies zutrifft, haben sie sich darüber abzustimmen, wer künftig für den Patienten Substitutionsmittel verschreibt, und über das Ergebnis das Bundesinstitut unter Angabe des Patientencodes zu unterrichten. Wenn dies nicht zutrifft, haben die Ärzte darüber ebenfalls das Bundesinstitut unter Angabe des Patientencodes zu unterrichten. Das Substitutionsregister ist unverzüglich entsprechend zu bereinigen. Erforderlichenfalls unterrichtet das Bundesinstitut die zuständigen Überwachungsbehörden der beteiligten Ärzte, um das Verschreiben von Substitutionsmitteln von mehreren Ärzten für einen Patienten zu unterbinden.
+(4) Das Bundesinstitut vergleicht jedes neu gespeicherte Kryptogramm mit den bereits vorhandenen. Ergibt sich keine Übereinstimmung, ist der Patientencode unverzüglich zu löschen. Liegen Übereinstimmungen vor, teilt das Bundesinstitut dies jedem beteiligten Arzt unter Angabe des Patientencodes, des Datums der ersten Verschreibung und der Namen und Vornamen, dienstlichen Anschriften und Telefonnummern der anderen beteiligten Ärzte unverzüglich mit. Die Ärzte haben zu erklären, ob der Patientencode demselben Patienten zuzuordnen ist. Wenn dies zutrifft, haben sie sich darüber abzustimmen, wer künftig für den Patienten Substitutionsmittel verschreibt, und über das Ergebnis das Bundesinstitut unter Angabe des Patientencodes zu unterrichten. Wenn dies nicht zutrifft, haben die Ärzte darüber ebenfalls das Bundesinstitut unter Angabe des Patientencodes zu unterrichten. Das Substitutionsregister ist unverzüglich entsprechend zu bereinigen. Erforderlichenfalls unterrichtet das Bundesinstitut die zuständigen Überwachungsbehörden der beteiligten Ärzte, um das Verschreiben von Substitutionsmitteln von mehreren Ärzten für denselben Patienten und denselben Zeitraum unverzüglich zu unterbinden.
 
-(5) Die Ärztekammern haben dem Bundesinstitut zum 31. März und 30. September die Namen und Adressen der Ärzte zu melden, die die Mindestanforderungen nach § 5 Abs. 2 Satz 1 Nr. 6 erfüllen. Das Bundesinstitut unterrichtet unverzüglich die zuständigen Überwachungsbehörden der Länder über Name und Adresse
-
-1.  
-der Ärzte, die ein Substitutionsmittel nach § 5 Abs. 2 verschrieben haben und
-
-2.  
-der nach Absatz 2 Nr. 6 gemeldeten Konsiliarien,
-
-wenn diese die Mindestanforderungen nach § 5 Abs. 2 Satz 1 Nr. 6 nicht erfüllen.
-
-(6) Das Bundesinstitut teilt den zuständigen Überwachungsbehörden zum 30. Juni und 31. Dezember folgende Angaben mit:
+(5) Die Ärztekammern haben dem Bundesinstitut auf dessen Anforderung, unter Angabe von Vorname, Name, dienstlicher Anschrift und Geburtsdatum eines nach Absatz 2 Satz 1 Nummer 5 oder Nummer 6 gemeldeten Arztes, unverzüglich zu melden, ob der Arzt die Mindestanforderungen nach § 5 Absatz 2 Satz 1 Nummer 6 erfüllt. Die Ärztekammern haben dem Bundesinstitut unverzüglich nach Bekanntwerden die Angabe „Hinweis: Suchttherapeutische Qualifikation liegt nicht mehr vor.“ zu denjenigen Ärzten, welche zuvor von den Ärztekammern dem Bundesinstitut gemeldet wurden, zu übermitteln, die die Mindestanforderungen nach § 5 Absatz 2 Satz 1 Nummer 6 bisher erfüllt haben, aktuell aber nicht mehr erfüllen. Das Bundesinstitut kann zum Zweck der Datenbereinigung von den Ärztekammern auch Meldungen zu allen Kammermitgliedern, die die Mindestanforderungen nach § 5 Absatz 2 Satz 1 Nummer 6 erfüllen, mit folgenden Angaben verlangen:
 
 1.  
-Namen und Adressen der Ärzte, die nach § 5 Abs. 2 Substitutionsmittel verschrieben haben,
+Name und Vorname,
 
 2.  
-Namen und Adressen der Ärzte, die nach § 5 Abs. 3 Substitutionsmittel verschrieben haben,
+dienstliche Anschrift,
 
 3.  
-Namen und Adressen der Ärzte, die die Mindestanforderungen nach § 5 Abs. 2 Satz 1 Nr. 6 erfüllen,
+Geburtsdatum.
+
+Das Bundesinstitut unterrichtet aus dem Datenbestand des Substitutionsregisters unverzüglich die zuständigen Überwachungsbehörden der Länder über Name, Vorname, Anschrift und Telefonnummer
+
+1.  
+der Ärzte, die ein Substitutionsmittel nach § 5 Absatz 2 verschrieben haben, und
+
+2.  
+der nach Absatz 2 Satz 1 Nummer 6 gemeldeten Konsiliarien,
+
+wenn die in Nummer 1 und 2 genannten Ärzte und Konsiliarien die Mindestanforderungen nach § 5 Absatz 2 Satz 1 Nummer 6 in Verbindung mit den nach den Sätzen 1 bis 3 übermittelten Daten nicht erfüllen.
+
+(6) Das Bundesinstitut teilt den zuständigen Überwachungsbehörden zum 30. Juni und 31. Dezember eines jeden Jahres folgende Angaben aus dem Datenbestand des Substitutionsregisters mit:
+
+1.  
+Namen, Vornamen, Anschriften und Telefonnummern der Ärzte, die nach § 5 Absatz 2 Substitutionsmittel verschrieben haben,
+
+2.  
+Namen, Vornamen, Anschriften und Telefonnummern der Ärzte, die nach § 5 Absatz 3 Satz 1 Substitutionsmittel verschrieben haben,
+
+3.  
+Namen, Vornamen, Anschriften und Telefonnummern der Ärzte, die nach Absatz 2 Satz 1 Nummer 6 als Konsiliarius gemeldet worden sind, sowie
 
 4.  
-Namen und Adressen der Ärzte, die nach Absatz 2 Nr. 6 als Konsiliarius gemeldet worden sind, sowie
-
-5.  
-Anzahl der Patienten, für die ein unter Nummer 1 oder 2 genannter Arzt ein Substitutionsmittel verschrieben hat.
+Anzahl der Patienten, für die ein unter Nummer 1 oder Nummer 2 genannter Arzt ein Substitutionsmittel verschrieben hat.
 
 Die zuständigen Überwachungsbehörden können auch jederzeit im Einzelfall vom Bundesinstitut entsprechende Auskunft verlangen.
 
-(7) Das Bundesinstitut teilt den obersten Landesgesundheitsbehörden für das jeweilige Land zum 31. Dezember folgende Angaben mit:
+(7) Das Bundesinstitut teilt den obersten Landesgesundheitsbehörden für das jeweilige Land zum 31. Dezember eines jeden Jahres folgende Angaben aus dem Datenbestand des Substitutionsregisters mit:
 
 1.  
 die Anzahl der Patienten, denen ein Substitutionsmittel verschrieben wurde,
 
 2.  
-die Anzahl der Ärzte, die nach § 5 Abs. 2 Substitutionsmittel verschrieben haben,
+die Anzahl der Ärzte, die nach § 5 Absatz 2 Substitutionsmittel verschrieben haben,
 
 3.  
-die Anzahl der Ärzte, die nach § 5 Abs. 3 Substitutionsmittel verschrieben haben,
+die Anzahl der Ärzte, die nach § 5 Absatz 3 Satz 1 Substitutionsmittel verschrieben haben,
 
 4.  
-die Anzahl der Ärzte, die die Mindestanforderungen nach § 5 Abs. 2 Satz 1 Nr. 6 erfüllen,
+die Anzahl der Ärzte, die nach Absatz 2 Satz 1 Nummer 6 als Konsiliarius gemeldet worden sind, sowie
 
 5.  
-die Anzahl der Ärzte, die nach Absatz 2 Nr. 6 als Konsiliarius gemeldet worden sind, sowie
-
-6.  
 Art und Anteil der verschriebenen Substitutionsmittel.
 
-Auf Verlangen erhalten die obersten Landesgesundheitsbehörden die unter Nummer 1 bis 6 aufgeführten Angaben auch aufgeschlüsselt nach Überwachungsbereichen.
+Auf Verlangen erhalten die obersten Landesgesundheitsbehörden die unter den Nummern 1 bis 5 aufgeführten Angaben auch aufgeschlüsselt nach Überwachungsbereichen.
 
-### § 5b Verschreiben für Patienten in Alten- und Pflegeheimen, Hospizen und in der spezialisierten ambulanten Palliativversorgung
+### § 5b Verschreiben für Patienten in Alten- oder Pflegeheimen, Hospizen und in der spezialisierten ambulanten Palliativversorgung
 
-(1) Der Arzt, der ein Betäubungsmittel für einen Patienten in einem Alten- und Pflegeheim, einem Hospiz oder in der spezialisierten ambulanten Palliativversorgung verschreibt, kann bestimmen, dass die Verschreibung nicht dem Patienten ausgehändigt wird. In diesem Falle darf die Verschreibung nur von ihm selbst oder durch von ihm angewiesenes oder beauftragtes Personal seiner Praxis, des Alten- und Pflegeheimes, des Hospizes oder der Einrichtung der spezialisierten ambulanten Palliativversorgung in der Apotheke vorgelegt werden.
+(1) Der Arzt, der ein Betäubungsmittel für einen Patienten in einem Alten- oder Pflegeheim, einem Hospiz oder in der spezialisierten ambulanten Palliativversorgung verschreibt, kann bestimmen, dass die Verschreibung nicht dem Patienten ausgehändigt wird. In diesem Falle darf die Verschreibung nur von ihm selbst oder durch von ihm angewiesenes oder beauftragtes Personal seiner Praxis, des Alten- oder Pflegeheimes, des Hospizes oder der Einrichtung der spezialisierten ambulanten Palliativversorgung in der Apotheke vorgelegt werden.
 
-(2) Das Betäubungsmittel ist im Falle des Absatzes 1 Satz 1 dem Patienten vom behandelnden Arzt oder dem von ihm beauftragten, eingewiesenen und kontrollierten Personal des Alten- und Pflegeheimes, des Hospizes oder der Einrichtung der spezialisierten ambulanten Palliativversorgung zu verabreichen oder zum unmittelbaren Verbrauch zu überlassen.
+(2) Das Betäubungsmittel ist im Falle des Absatzes 1 Satz 1 dem Patienten vom behandelnden Arzt oder dem von ihm beauftragten, eingewiesenen und kontrollierten Personal des Alten- oder Pflegeheimes, des Hospizes oder der Einrichtung der spezialisierten ambulanten Palliativversorgung zu verabreichen oder zum unmittelbaren Verbrauch zu überlassen.
 
-(3) Der Arzt darf im Falle des Absatzes 1 Satz 1 die Betäubungsmittel des Patienten in dem Alten- und Pflegeheim, dem Hospiz oder der Einrichtung der spezialisierten ambulanten Palliativversorgung unter seiner Verantwortung lagern; die Einwilligung des über die jeweiligen Räumlichkeiten Verfügungsberechtigten bleibt unberührt. Für den Nachweis über den Verbleib und Bestand gelten die §§ 13 und 14 entsprechend.
+(3) Der Arzt darf im Falle des Absatzes 1 Satz 1 die Betäubungsmittel des Patienten in dem Alten- oder Pflegeheim, dem Hospiz oder der Einrichtung der spezialisierten ambulanten Palliativversorgung unter seiner Verantwortung lagern; die Einwilligung des über die jeweiligen Räumlichkeiten Verfügungsberechtigten bleibt unberührt. Für den Nachweis über den Verbleib und Bestand gelten die §§ 13 und 14 entsprechend.
 
 (4) Betäubungsmittel, die nach Absatz 3 gelagert wurden und nicht mehr benötigt werden, können von dem Arzt
 
 1.  
-einem anderen Patienten dieses Alten- und Pflegeheimes, dieses Hospizes oder dieser Einrichtung der ambulanten spezialisierten Palliativversorgung verschrieben werden,
+einem anderen Patienten dieses Alten- oder Pflegeheimes, dieses Hospizes oder dieser Einrichtung der spezialisierten ambulanten Palliativversorgung verschrieben werden,
 
 2.  
-an eine versorgende Apotheke zur Weiterverwendung in einem Alten- und Pflegeheim, einem Hospiz oder einer Einrichtung der spezialisierten ambulanten Palliativversorgung zurückgegeben werden oder
+an eine versorgende Apotheke zur Weiterverwendung in einem Alten- oder Pflegeheim, einem Hospiz oder einer Einrichtung der spezialisierten ambulanten Palliativversorgung zurückgegeben werden oder
 
 3.  
 in den Notfallvorrat nach § 5c Absatz 1 Satz 1 überführt werden.
@@ -464,7 +470,7 @@ einen oder mehrere Ärzte damit zu beauftragen, die Betäubungsmittel, die für 
 die lückenlose Nachweisführung über die Aufnahme in den Notfallvorrat und die Entnahme aus dem Notfallvorrat durch interne Regelungen mit den Ärzten und Pflegekräften, die an der Versorgung von Patienten mit Betäubungsmitteln beteiligt sind, sicherzustellen und
 
 3.  
-mit einer Apotheke die Belieferung für den Notfallvorrat schriftlich zu vereinbaren und diese Apotheke zu verpflichten, den Notfallvorrat mindestens halbjährlich zu überprüfen, insbesondere auf einwandfreie Beschaffenheit sowie ordnungsgemäße und sichere Aufbewahrung; § 6 Absatz 3 Satz 2 bis 5 gilt entsprechend.
+mit einer Apotheke die Belieferung für den Notfallvorrat sowie eine mindestens halbjährliche Überprüfung der Notfallvorräte insbesondere auf deren einwandfreie Beschaffenheit sowie ordnungsgemäße und sichere Aufbewahrung schriftlich zu vereinbaren; der unterzeichnende Apotheker zeigt die Vereinbarung der zuständigen Landesbehörde vor der ersten Belieferung schriftlich an; § 6 Absatz 3 Satz 2 bis 4 gilt entsprechend.
 
 (2) Der oder die Ärzte nach Absatz 1 Satz 2 Nummer 1 dürfen die für den Notfallvorrat benötigten Betäubungsmittel bis zur Menge des durchschnittlichen Zweiwochenbedarfs, mindestens jedoch die kleinste Packungseinheit, verschreiben. Die Vorratshaltung darf für jedes Betäubungsmittel den durchschnittlichen Monatsbedarf für Notfälle nicht überschreiten.
 
@@ -474,7 +480,7 @@ mit einer Apotheke die Belieferung für den Notfallvorrat schriftlich zu vereinb
 
 (2) Der Träger oder der Durchführende des Rettungsdienstes hat einen Arzt damit zu beauftragen, die benötigten Betäubungsmittel nach § 2 Abs. 4 zu verschreiben. Die Aufzeichnung des Verbleibs und Bestandes der Betäubungsmittel ist nach den §§ 13 und 14 in den Einrichtungen und Teileinheiten der Einrichtungen des Rettungsdienstes durch den jeweils behandelnden Arzt zu führen.
 
-(3) Der Träger oder der Durchführende des Rettungsdienstes hat mit einer Apotheke die Belieferung der Verschreibungen für den Rettungsdienstbedarf sowie eines mindestens halbjährliche Überprüfung der Betäubungsmittelvorräte in den Einrichtungen oder Teileinheiten der Einrichtungen des Rettungsdienstes insbesondere auf deren einwandfreie Beschaffenheit sowie ordnungsgemäße und sichere Aufbewahrung schriftlich zu vereinbaren. Der unterzeichnende Apotheker zeigt dies der zuständigen Landesbehörde an. Mit der Überprüfung der Betäubungsmittelvorräte ist ein Apotheker der jeweiligen Apotheke zu beauftragen. Es ist ein Protokoll anzufertigen. Zur Beseitigung festgestellter Mängel hat der mit der Überprüfung beauftragte Apotheker dem Träger oder Durchführenden des Rettungsdienstes eine angemessene Frist zu setzen und im Falle der Nichteinhaltung die zuständige Landesbehörde zu unterrichten.
+(3) Der Träger oder der Durchführende des Rettungsdienstes hat mit einer Apotheke die Belieferung der Verschreibungen für den Rettungsdienstbedarf sowie eines mindestens halbjährliche Überprüfung der Betäubungsmittelvorräte in den Einrichtungen oder Teileinheiten der Einrichtungen des Rettungsdienstes insbesondere auf deren einwandfreie Beschaffenheit sowie ordnungsgemäße und sichere Aufbewahrung schriftlich zu vereinbaren. Mit der Überprüfung der Betäubungsmittelvorräte ist ein Apotheker der jeweiligen Apotheke zu beauftragen. Es ist ein Protokoll anzufertigen. Zur Beseitigung festgestellter Mängel hat der mit der Überprüfung beauftragte Apotheker dem Träger oder Durchführenden des Rettungsdienstes eine angemessene Frist zu setzen und im Falle der Nichteinhaltung die zuständige Landesbehörde zu unterrichten.
 
 (4) Bei einem Großschadensfall sind die benötigten Betäubungsmittel von dem zuständigen leitenden Notarzt nach § 2 Abs. 4 zu verschreiben. Die verbrauchten Betäubungsmittel sind durch den leitenden Notarzt unverzüglich für den Großschadensfall zusammengefasst nachzuweisen und der zuständigen Landesbehörde unter Angabe der nicht verbrauchten Betäubungsmittel anzuzeigen. Die zuständige Landesbehörde trifft Festlegungen zum Verbleib der nicht verbrauchten Betäubungsmittel.
 
@@ -499,7 +505,7 @@ b)
 unbrauchbar gewordener oder
 
 c)  
-außerhalb des Geltungsbereichs des Betäubungsmittelgesetzes von Schiffen, die die Bundesflagge führen, beschaffter und entsprechend der Verordnung über die Krankenfürsorge auf Kauffahrteischiffen auszutauschender
+außerhalb des Geltungsbereichs des Betäubungsmittelgesetzes von Schiffen, die die Bundesflagge führen, beschaffter und entsprechend dem vom Bundesministerium für Verkehr und digitale Infrastruktur nach § 108 Absatz 2 Satz 1 des Seearbeitsgesetzes bekanntgemachten Stand der medizinischen Erkenntnisse auszutauschender
 
 Betäubungsmitteln erfolgt,
 
@@ -507,7 +513,7 @@ Betäubungsmitteln erfolgt,
 der Abgebende sich vorher überzeugt hat, daß die noch vorhandenen Betäubungsmittel nach Art und Menge mit den Eintragungen im Betäubungsmittelbuch des Schiffes übereinstimmen, und
 
 4.  
-der Abgebende sich den Empfang von dem für die ordnungsgemäße Durchführung der Krankenfürsorge Verantwortlichen bescheinigen läßt.
+der Abgebende sich den Empfang von dem für die ordnungsgemäße Durchführung der medizinischen Betreuung nach den seearbeitsrechtlichen Vorschriften Verantwortlichen bescheinigen läßt.
 
 (4) Die Bescheinigung nach Absatz 3 Nr. 4 muß folgende Angaben enthalten:
 
@@ -530,7 +536,7 @@ Name des Reeders,
 Heimathafen des Schiffes und
 
 7.  
-Unterschrift des für die Krankenfürsorge Verantwortlichen.
+Unterschrift des für die medizinische Betreuung nach den seearbeitsrechtlichen Vorschriften Verantwortlichen.
 
 (5) Der Abgebende hat die Bescheinigung nach Absatz 3 Nr. 4 unverzüglich dem von der zuständigen Behörde beauftragten Arzt zum nachträglichen Verschreiben vorzulegen. Dieser ist verpflichtet, unverzüglich die Verschreibung auf einem Betäubungsmittelrezept der Apotheke nachzureichen, die das Betäubungsmittel nach § 7 Abs. 3 beliefert hat. Die Verschreibung ist mit dem Buchstaben "K" zu kennzeichnen. Die Bescheinigung nach § 7 Abs. 3 Nr. 4 ist dauerhaft mit dem in der Apotheke verbleibenden Teil der Verschreibung zu verbinden. Wenn die Voraussetzungen des Absatzes 3 Nr. 1 und 2 nicht vorgelegen haben, ist die zuständige Behörde unverzüglich zu unterrichten.
 
@@ -567,7 +573,7 @@ Arzneimittelbezeichnung, soweit dadurch eine der nachstehenden Angaben nicht ein
 Menge des verschriebenen Arzneimittels in Gramm oder Milliliter, Stückzahl der abgeteilten Form,
 
 5.  
-Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, daß dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, der Vermerk "Gemäß schriftlicher Anweisung"; im Falle des § 5 Abs. 8 zusätzlich die Reichdauer des Substitutionsmittels in Tagen,
+Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, daß dem Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, ein Hinweis auf diese schriftliche Gebrauchsanweisung; im Falle des § 5 Abs. 8 zusätzlich die Reichdauer des Substitutionsmittels in Tagen,
 
 6.  
 in den Fällen des § 2 Abs. 2 Satz 2 und des § 4 Abs. 2 Satz 2 der Buchstabe "A", in den Fällen des § 5 Abs. 4 Satz 1 der Buchstabe "S", in den Fällen des § 5 Absatz 8 Satz 1 zusätzlich der Buchstabe „Z“, in den Fällen des § 7 Abs. 5 Satz 3 der Buchstabe "K", in den Fällen des § 8 Abs. 6 Satz 5 der Buchstabe "N",
@@ -708,7 +714,7 @@ von dem in den §§ 2 bis 4 bezeichneten, verschreibungsberechtigten Arzt, Zahna
 von einem nach § 5c Absatz 1 Satz 2 Nummer 1 beauftragten Arzt für Hospize und Einrichtungen der spezialisierten ambulanten Palliativversorgung sowie von dem nach § 6 Absatz 2 beauftragten Arzt für Einrichtungen des Rettungsdienstes,
 
 5.  
-vom für die Durchführung der Krankenfürsorge Verantwortlichen für das jeweilige Kauffahrteischiff, das die Bundesflagge führt,
+vom für die Durchführung der medizinischen Betreuung nach den seearbeitsrechtlichen Vorschriften Verantwortlichen für das jeweilige Kauffahrteischiff, das die Bundesflagge führt,
 
 6.  
 vom behandelnden Arzt im Falle des Nachweises nach Absatz 1 Satz 4,
