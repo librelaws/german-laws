@@ -2,7 +2,7 @@ Verordnung zur Durchführung des § 206 der Bundesrechtsanwaltsordnung ()
 =======================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 7.2.2012 I 189
+Zuletzt geändert durch Art. 1 V v. 12.11.2015 I 2074
 
 ### 
 
@@ -84,40 +84,40 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 <td>Lawyer, Legal Practitioner, Solicitor, Barrister</td>
 </tr>
 <tr class="even">
+<td>– in Hong Kong, China:</td>
+<td>Barrister, Solicitor</td>
+</tr>
+<tr class="odd">
 <td>– in Indien:</td>
 <td>Advocate</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>– in Indonesien:</td>
 <td>Advokat</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>– in Israel:</td>
 <td>Orech-Din</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>– in Japan:</td>
 <td>Bengoshi</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>– in Kamerun:</td>
 <td>Avocat, Advocate</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>– in Kanada:</td>
 <td>Barrister, Solicitor</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>– in Kolumbien:</td>
 <td>Abogado</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>– in der Republik Korea:</td>
 <td>Byeonhosa, Lawyer</td>
-</tr>
-<tr class="even">
-<td>– in Kroatien:</td>
-<td>Odvjetnik</td>
 </tr>
 <tr class="odd">
 <td>– in Malaysia:</td>
@@ -170,43 +170,47 @@ Attorney</td>
 <td>Attorney</td>
 </tr>
 <tr class="odd">
+<td>– in der Russischen Föderation:</td>
+<td>Advokat</td>
+</tr>
+<tr class="even">
 <td>– in Singapur:</td>
 <td>Advocate and Solicitor</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>– in Sri Lanka:</td>
 <td>Attorney at law</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>– in Südafrika:</td>
 <td>Attorney, Prokureur, Advocate,<br />
 Advokaat</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>– in Thailand:</td>
 <td>Tanaaykwaam</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>– in der Türkei:</td>
 <td>Avukat</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>– in Tunesien:</td>
 <td>Avocat</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>– in der Ukraine:</td>
 <td>Advokat</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>– in Uruguay:</td>
 <td>Abogado</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>– in Venezuela:</td>
 <td>Abogado</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>– in den Vereinigten Staaten von Amerika:</td>
 <td>Attorney at law</td>
 </tr>
@@ -215,11 +219,11 @@ Advokaat</td>
 
 ### Anlage 2 (zu § 1 Abs. 2)Anwaltsberufe in anderen Staaten
 
-Fundstelle: BGBl. I 2005, 1453
+(Fundstelle: BGBl. I 2005, 1453
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-|                                 |         |
-|---------------------------------|---------|
-| – in der Russischen Föderation: | Advokat |
-| – in Serbien:                   | Advokat |
+|               |         |
+|---------------|---------|
+| – in Serbien: | Advokat |
 
 
