@@ -2,7 +2,7 @@ Verordnung über die sozialversicherungsrechtliche Beurteilung von Zuwendungen d
 ========================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 24.11.2014 I 1799
+Zuletzt geändert durch Art. 1 V v. 18.11.2015 I 2075
 
 ### 
 
@@ -53,7 +53,7 @@ Leistungen eines Arbeitgebers oder einer Unterstützungskasse an einen Pensionsf
 steuerlich nicht belastete Zuwendungen des Beschäftigten zugunsten von durch Naturkatastrophen im Inland Geschädigten aus Arbeitsentgelt einschließlich Wertguthaben,
 
 12.  
-Sanierungsgelder der Arbeitgeber zur Deckung eines finanziellen Fehlbetrages an die Einrichtungen, für die Satz 3 gilt,
+Sonderzahlungen nach § 19 Absatz 1 Satz 1 Nummer 3 Satz 2 bis 4 des Einkommensteuergesetzes der Arbeitgeber zur Deckung eines finanziellen Fehlbetrages an die Einrichtungen, für die Satz 3 gilt,
 
 13.  
 Sachprämien nach § 37a des Einkommensteuergesetzes,
@@ -62,24 +62,27 @@ Sachprämien nach § 37a des Einkommensteuergesetzes,
 Zuwendungen nach § 37b Abs. 1 des Einkommensteuergesetzes, soweit die Zuwendungen an Arbeitnehmer eines Dritten erbracht werden und diese Arbeitnehmer nicht Arbeitnehmer eines mit dem Zuwendenden verbundenen Unternehmens sind,
 
 15.  
-vom Arbeitgeber getragene oder übernommene Studiengebühren für ein Studium des Beschäftigten, soweit sie steuerrechtlich kein Arbeitslohn sind.
+vom Arbeitgeber getragene oder übernommene Studiengebühren für ein Studium des Beschäftigten, soweit sie steuerrechtlich kein Arbeitslohn sind,
 
-Die in Satz 1 Nr. 2 bis 4 genannten Einnahmen, Beiträge und Zuwendungen sind nicht dem Arbeitsentgelt zuzurechnen, soweit der Arbeitgeber die Lohnsteuer mit einem Pauschsteuersatz erheben kann und er die Lohnsteuer nicht nach den Vorschriften des § 39b oder § 39c des Einkommensteuergesetzes erhebt. Die Summe der in Satz 1 Nr. 4a genannten Zuwendungen nach § 3 Nr. 56 und § 40b des Einkommensteuergesetzes, höchstens jedoch monatlich 100 Euro, sind bis zur Höhe von 2,5 Prozent des für ihre Bemessung maßgebenden Entgelts dem Arbeitsentgelt zuzurechnen, wenn die Versorgungsregelung mindestens bis zum 31. Dezember 2000 vor der Anwendung etwaiger Nettobegrenzungsregelungen eine allgemein erreichbare Gesamtversorgung von mindestens 75 Prozent des gesamtversorgungsfähigen Entgelts und nach dem Eintritt des Versorgungsfalles eine Anpassung nach Maßgabe der Entwicklung der Arbeitsentgelte im Bereich der entsprechenden Versorgungsregelung oder gesetzlicher Versorgungsbezüge vorsieht; die dem Arbeitsentgelt zuzurechnenden Beiträge und Zuwendungen vermindern sich um monatlich 13,30 Euro. Satz 3 gilt mit der Maßgabe, dass die Zuwendungen nach § 3 Nr. 56 und § 40b des Einkommensteuergesetzes dem Arbeitsentgelt insoweit zugerechnet werden, als sie in der Summe monatlich 100 Euro übersteigen.
+16.  
+steuerfreie Aufwandsentschädigungen und die in § 3 Nummer 26 und 26a des Einkommensteuergesetzes genannten steuerfreien Einnahmen.
+
+Dem Arbeitsentgelt sind die in Satz 1 Nummer 1 bis 4a, 9 bis 11, 13, 15 und 16 genannten Einnahmen, Zuwendungen und Leistungen nur dann nicht zuzurechnen, soweit diese vom Arbeitgeber oder von einem Dritten mit der Entgeltabrechnung für den jeweiligen Abrechnungszeitraum lohnsteuerfrei belassen oder pauschal besteuert werden. Die Summe der in Satz 1 Nr. 4a genannten Zuwendungen nach § 3 Nr. 56 und § 40b des Einkommensteuergesetzes, die vom Arbeitgeber oder von einem Dritten mit der Entgeltabrechnung für den jeweiligen Abrechnungszeitraum lohnsteuerfrei belassen oder pauschal besteuert werden, höchstens jedoch monatlich 100 Euro, sind bis zur Höhe von 2,5 Prozent des für ihre Bemessung maßgebenden Entgelts dem Arbeitsentgelt zuzurechnen, wenn die Versorgungsregelung mindestens bis zum 31. Dezember 2000 vor der Anwendung etwaiger Nettobegrenzungsregelungen eine allgemein erreichbare Gesamtversorgung von mindestens 75 Prozent des gesamtversorgungsfähigen Entgelts und nach dem Eintritt des Versorgungsfalles eine Anpassung nach Maßgabe der Entwicklung der Arbeitsentgelte im Bereich der entsprechenden Versorgungsregelung oder gesetzlicher Versorgungsbezüge vorsieht; die dem Arbeitsentgelt zuzurechnenden Beiträge und Zuwendungen vermindern sich um monatlich 13,30 Euro. Satz 3 gilt mit der Maßgabe, dass die Zuwendungen nach § 3 Nr. 56 und § 40b des Einkommensteuergesetzes dem Arbeitsentgelt insoweit zugerechnet werden, als sie in der Summe monatlich 100 Euro übersteigen.
 
 (2) In der gesetzlichen Unfallversicherung und in der Seefahrt sind auch lohnsteuerfreie Zuschläge für Sonntags-, Feiertags- und Nachtarbeit dem Arbeitsentgelt zuzurechnen; dies gilt in der Unfallversicherung nicht für Erwerbseinkommen, das bei einer Hinterbliebenenrente zu berücksichtigen ist.
 
 ### § 2 Verpflegung, Unterkunft und Wohnung als Sachbezug
 
-(1) Der Wert der als Sachbezug zur Verfügung gestellten Verpflegung wird auf monatlich 229 Euro festgesetzt. Dieser Wert setzt sich zusammen aus dem Wert für
+(1) Der Wert der als Sachbezug zur Verfügung gestellten Verpflegung wird auf monatlich 236 Euro festgesetzt. Dieser Wert setzt sich zusammen aus dem Wert für
 
 1.  
-Frühstück von 49 Euro,
+Frühstück von 50 Euro,
 
 2.  
-Mittagessen von 90 Euro und
+Mittagessen von 93 Euro und
 
 3.  
-Abendessen von 90 Euro.
+Abendessen von 93 Euro.
 
 (2) Für Verpflegung, die nicht nur dem Beschäftigten, sondern auch seinen nicht bei demselben Arbeitgeber beschäftigten Familienangehörigen zur Verfügung gestellt wird, erhöhen sich die nach Absatz 1 anzusetzenden Werte je Familienangehörigen,
 
