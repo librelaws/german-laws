@@ -2,7 +2,7 @@ Verordnung über die Sicherheit des Eisenbahnsystems (ESiV)
 ==========================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 29.4.2011 I 705
+Zuletzt geändert durch Art. 3 V v. 19.11.2015 I 2105
 
 ### 
 
@@ -31,15 +31,15 @@ Im Sinne dieser Verordnung bedeuten:
 "Sicherheitsvorschriften" alle Regeln, die Anforderungen zur Gewährleistung der Eisenbahnbetriebssicherheit enthalten und für mehr als eine Eisenbahn gelten, unabhängig davon, welche Stelle diese Regeln festlegt;
 
 2.  
-"Technische Spezifikationen für die Interoperabilität" (TSI) Spezifikationen im Sinne des Kapitels II der Richtlinie 96/48/EG des Rates vom 23. Juli 1996 über die Interoperabilität des transeuropäischen Hochgeschwindigkeitsbahnsystems (ABl. EG Nr. L 235 S. 6) und der Richtlinie 2001/16/EG des Europäischen Parlaments und des Rates vom 19. März 2001 über die Interoperabilität des konventionellen Eisenbahnsystems (ABl. EG Nr. L 110 S. 1), jeweils zuletzt geändert durch die Richtlinie 2007/32/EG der Kommission vom 1. Juni 2007 (ABl. EU Nr. L 141 S. 63), die für jedes Teilsystem oder Teile davon im Hinblick auf die Erfüllung der grundlegenden Anforderungen gelten und die Interoperabilität gewährleisten.
+"Technische Spezifikationen für die Interoperabilität" (TSI) Spezifikationen im Sinne des Kapitels II der Richtlinie 2008/57/EG des Europäischen Parlaments und des Rates vom 17. Juni 2008 über die Interoperabilität des Eisenbahnsystems in der Gemeinschaft (ABl. L 191 vom 18.7.2008, S. 1), die zuletzt durch die Richtlinie 2014/106/EU (ABl. L 355 vom 12.12.2014, S. 42) geändert worden ist, oder der Richtlinien 96/48/EG des Rates vom 23. Juli 1996 über die Interoperabilität des transeuropäischen Hochgeschwindigkeitsbahnsystems (ABl. L 235 vom 17.9.1996, S. 6) und 2001/16/EG des Europäischen Parlaments und des Rates vom 19. März 2001 über die Interoperabilität des konventionellen transeuropäischen Eisenbahnsystems (ABl. L 110 vom 20.4.2001, S. 1), die jeweils zuletzt durch die Richtlinie 2007/32/EG (ABl. L 141 vom 2.6.2007, S. 63) geändert worden sind, die für jedes Teilsystem oder Teile davon im Hinblick auf die Erfüllung der grundlegenden Anforderungen gelten und die Interoperabilität gewährleisten.
 
 ### § 3 Sicherheitsvorschriften
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung übermittelt der Kommission alle vor dem 14. Juli 2007 und danach festgelegten Sicherheitsvorschriften im Sinne des Anhangs II der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über Eisenbahnsicherheit in der Gemeinschaft und zur Änderung der Richtlinie 95/18/EG des Rates über die Erteilung von Genehmigungen an Eisenbahnunternehmen und der Richtlinie 2001/14/EG über die Zuweisung von Fahrwegkapazität der Eisenbahn, die Erhebung von Entgelten für die Nutzung von Eisenbahninfrastruktur und die Sicherheitsbescheinigung (ABl. L 164 vom 30.4.2004, S. 44, L 220 vom 21.6.2004, S. 16), die zuletzt durch die Richtlinie 2009/149/EG (ABl. L 313 vom 28.11.2009, S. 65) geändert worden ist, unter der Angabe ihres Anwendungsbereichs.
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur übermittelt der Kommission alle vor dem 14. Juli 2007 und danach festgelegten Sicherheitsvorschriften im Sinne des Anhangs II der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über Eisenbahnsicherheit in der Gemeinschaft und zur Änderung der Richtlinie 95/18/EG des Rates über die Erteilung von Genehmigungen an Eisenbahnunternehmen und der Richtlinie 2001/14/EG über die Zuweisung von Fahrwegkapazität der Eisenbahn, die Erhebung von Entgelten für die Nutzung von Eisenbahninfrastruktur und die Sicherheitsbescheinigung (ABl. L 164 vom 30.4.2004, S. 44, L 220 vom 21.6.2004, S. 16), die zuletzt durch die Richtlinie 2014/88/EU (ABl. L 201 vom 10.7.2014, S. 9) geändert worden ist, unter der Angabe ihres Anwendungsbereichs.
 
 (2) Eisenbahnen haben der Sicherheitsbehörde unverzüglich sämtliche Änderungen an den von ihnen festgelegten und bereits nach Absatz 1 übermittelten Sicherheitsvorschriften im Sinne des Anhangs II der Richtlinie 2004/49/EG schriftlich mitzuteilen. Satz 1 gilt entsprechend für die Übermittlung von Sicherheitsvorschriften, die von den Ländern als Rechts- oder Verwaltungsvorschriften erlassen worden sind.
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung übermittelt der Kommission unverzüglich alle Änderungen an Sicherheitsvorschriften, die bereits nach Absatz 2 übermittelt worden sind, sofern die betreffenden Vorschriften nicht ausschließlich die Anwendung von Technischen Spezifikationen für die Interoperabilität betreffen.
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur übermittelt der Kommission unverzüglich alle Änderungen an Sicherheitsvorschriften, die bereits nach Absatz 2 übermittelt worden sind, sofern die betreffenden Vorschriften nicht ausschließlich die Anwendung von Technischen Spezifikationen für die Interoperabilität betreffen.
 
 (4) Sobald die gemeinsamen Sicherheitsziele im Sinne des Artikels 1 Buchstabe e der Richtlinie 2004/49/EG in einem Verfahren nach Artikel 7 der Richtlinie 2004/49/EG erlassen sind, darf eine Eisenbahn eine neue Sicherheitsvorschrift, die über die gemeinsamen Sicherheitsziele hinausgehende Anforderungen an die Sicherheit vorsieht, nicht festlegen und anwenden,
 
@@ -49,7 +49,7 @@ solange dazu nicht das Verfahren nach Artikel 8 Abs. 6 und 7 der Richtlinie 2004
 2.  
 wenn die Kommission eine ablehnende Entscheidung dazu getroffen hat.
 
-Die Eisenbahn hat den Entwurf der Sicherheitsvorschrift der Sicherheitsbehörde vorzulegen. Diese übermittelt ihn über das Bundesministerium für Verkehr, Bau und Stadtentwicklung an die Kommission und unterrichtet die Eisenbahn über das Ergebnis des EG-Beteiligungsverfahrens.
+Die Eisenbahn hat den Entwurf der Sicherheitsvorschrift der Sicherheitsbehörde vorzulegen. Diese übermittelt ihn über das Bundesministerium für Verkehr und digitale Infrastruktur an die Kommission und unterrichtet die Eisenbahn über das Ergebnis des EG-Beteiligungsverfahrens.
 
 ### § 4 Beantragung von Sicherheitsbescheinigungen und Sicherheitsgenehmigungen
 
