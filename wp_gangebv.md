@@ -2,7 +2,7 @@ Verordnung über den Inhalt der Angebotsunterlage, die Gegenleistung bei Überna
 =============================================================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 17 G v. 6.12.2011 I 2481
+Zuletzt geändert durch Art. 13 G v. 20.11.2015 I 2029
 
 ### 
 
@@ -64,7 +64,7 @@ Der Bieter hat in seine Angebotsunterlage folgende ergänzende Angaben aufzunehm
 Name oder Firma und Anschrift oder Sitz der mit dem Bieter und der Zielgesellschaft gemeinsam handelnden Personen und der Personen, deren Stimmrechte aus Aktien der Zielgesellschaft nach § 30 des Wertpapiererwerbs- und Übernahmegesetzes Stimmrechten des Bieters gleichstehen oder ihm zuzurechnen sind, sowie, wenn es sich bei diesen Personen um Gesellschaften handelt, die Rechtsform und das Verhältnis der Gesellschaften zum Bieter und zur Zielgesellschaft;
 
 2.  
-Angaben nach § 7 des Wertpapierprospektgesetzes in Verbindung mit der Verordnung (EG) Nr. 809/2004 der Kommission vom 29. April 2004 zur Umsetzung der Richtlinie 2003/71/EG des Europäischen Parlaments und des Rates betreffend die in Prospekten enthaltenen Angaben sowie die Aufmachung, die Aufnahme eines Verweises und die Veröffentlichung solcher Prospekte und die Verbreitung von Werbung (ABl. EU Nr. L 149 S. 1, Nr. L 215 S. 3), sofern Wertpapiere als Gegenleistung angeboten werden; wurde für die Wertpapiere vor Veröffentlichung der Angebotsunterlage ein Prospekt, auf Grund dessen die Wertpapiere öffentlich angeboten oder zum Handel an einem organisierten Markt zugelassen worden sind, im Inland in deutscher Sprache veröffentlicht und ist für die als Gegenleistung angebotenen Wertpapiere während der gesamten Laufzeit des Angebots ein gültiger Prospekt veröffentlicht, genügt die Angabe, dass ein Prospekt veröffentlicht wurde und wo dieser jeweils erhältlich ist;
+Angaben nach § 7 des Wertpapierprospektgesetzes in Verbindung mit der Verordnung (EG) Nr. 809/2004 der Kommission vom 29. April 2004 zur Umsetzung der Richtlinie 2003/71/EG des Europäischen Parlaments und des Rates betreffend die in Prospekten enthaltenen Angaben sowie die Aufmachung, die Aufnahme eines Verweises und die Veröffentlichung solcher Prospekte und die Verbreitung von Werbung (ABl. EU Nr. L 149 S. 1, Nr. L 215 S. 3) in der jeweils geltenden Fassung, sofern Wertpapiere als Gegenleistung angeboten werden; wurde für die Wertpapiere vor Veröffentlichung der Angebotsunterlage ein Prospekt, auf Grund dessen die Wertpapiere öffentlich angeboten oder zum Handel an einem organisierten Markt zugelassen worden sind, im Inland in deutscher Sprache veröffentlicht und ist für die als Gegenleistung angebotenen Wertpapiere während der gesamten Laufzeit des Angebots ein gültiger Prospekt veröffentlicht, genügt die Angabe, dass ein Prospekt veröffentlicht wurde und wo dieser jeweils erhältlich ist;
 
 2a.  
 Angaben nach § 7 des Vermögensanlagengesetzes in Verbindung mit der Vermögensanlagen-Verkaufsprospektverordnung, sofern Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes als Gegenleistung angeboten werden; wurde für die Vermögensanlagen innerhalb von zwölf Monaten vor Veröffentlichung der Angebotsunterlage ein Verkaufsprospekt im Inland in deutscher Sprache veröffentlicht, genügt die Angabe, dass ein Verkaufsprospekt veröffentlicht wurde und wo dieser erhältlich ist, sowie die Angabe der seit der Veröffentlichung des Verkaufsprospekts eingetretenen Änderungen;
@@ -86,6 +86,9 @@ bei Teilangeboten der Anteil oder die Anzahl der Wertpapiere der Zielgesellschaf
 
 7.  
 Art und Umfang der von den in Nummer 5 genannten Personen und Unternehmen jeweils für den Erwerb von Wertpapieren der Zielgesellschaft gewährten oder vereinbarten Gegenleistung, sofern der Erwerb innerhalb von sechs Monaten vor der Veröffentlichung gemäß § 10 Abs. 3 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes oder vor der Veröffentlichung der Angebotsunterlage gemäß § 14 Abs. 3 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes erfolgte; dem Erwerb gleichgestellt sind Vereinbarungen, auf Grund derer die Übereignung der Wertpapiere verlangt werden kann;
+
+7a.  
+bei Angeboten nach § 39 Absatz 2 Satz 3 Nummer 1 des Börsengesetzes Angaben zu dem bevorstehenden Antrag der Zielgesellschaft auf einen Widerruf der Zulassung der betroffenen Wertpapiere zum Handel im regulierten Markt; die Angaben müssen einen ausdrücklichen Hinweis auf mögliche Einschränkungen der Handelbarkeit der betroffenen Wertpapiere als Folge des Widerrufs und die damit einhergehende Möglichkeit von Kursverlusten enthalten;
 
 8.  
 Angaben zum Erfordernis und Stand behördlicher, insbesondere wettbewerbsrechtlicher Genehmigungen und Verfahren im Zusammenhang mit dem Erwerb der Wertpapiere der Zielgesellschaft;
