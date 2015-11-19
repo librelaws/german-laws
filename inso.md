@@ -2,7 +2,7 @@ Insolvenzordnung (InsO)
 =======================
 
 Stand  
-Zuletzt geändert durch Art. 6 G v. 31.8.2013 I 3533
+Zuletzt geändert durch Art. 16 G v. 20.11.2015 I 2010
 
 ### 
 
@@ -124,7 +124,7 @@ die Restschuldbefreiung versagt oder widerrufen wird.
 
 (1) Die öffentliche Bekanntmachung erfolgt durch eine zentrale und länderübergreifende Veröffentlichung im Internet \*); diese kann auszugsweise geschehen. Dabei ist der Schuldner genau zu bezeichnen, insbesondere sind seine Anschrift und sein Geschäftszweig anzugeben. Die Bekanntmachung gilt als bewirkt, sobald nach dem Tag der Veröffentlichung zwei weitere Tage verstrichen sind.
 
-(2) Das Insolvenzgericht kann weitere Veröffentlichungen veranlassen, soweit dies landesrechtlich bestimmt ist. Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der zentralen und länderübergreifenden Veröffentlichung im Internet zu regeln. Dabei sind insbesondere Löschungsfristen vorzusehen sowie Vorschriften, die sicherstellen, dass die Veröffentlichungen
+(2) Das Insolvenzgericht kann weitere Veröffentlichungen veranlassen, soweit dies landesrechtlich bestimmt ist. Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der zentralen und länderübergreifenden Veröffentlichung im Internet zu regeln. Dabei sind insbesondere Löschungsfristen vorzusehen sowie Vorschriften, die sicherstellen, dass die Veröffentlichungen
 
 1.  
 unversehrt, vollständig und aktuell bleiben,
@@ -162,7 +162,7 @@ Erster Abschnitt Eröffnungsvoraussetzungen und Eröffnungsverfahren
 über das Vermögen einer Gesellschaft ohne Rechtspersönlichkeit (offene Handelsgesellschaft, Kommanditgesellschaft, Partnerschaftsgesellschaft, Gesellschaft des Bürgerlichen Rechts, Partenreederei, Europäische wirtschaftliche Interessenvereinigung);
 
 2.  
-nach Maßgabe der §§ 315 bis 334 über einen Nachlaß, über das Gesamtgut einer fortgesetzten Gütergemeinschaft oder über das Gesamtgut einer Gütergemeinschaft, das von den Ehegatten gemeinschaftlich verwaltet wird.
+nach Maßgabe der §§ 315 bis 334 über einen Nachlaß, über das Gesamtgut einer fortgesetzten Gütergemeinschaft oder über das Gesamtgut einer Gütergemeinschaft, das von den Ehegatten oder Lebenspartnern gemeinschaftlich verwaltet wird.
 
 (3) Nach Auflösung einer juristischen Person oder einer Gesellschaft ohne Rechtspersönlichkeit ist die Eröffnung des Insolvenzverfahrens zulässig, solange die Verteilung des Vermögens nicht vollzogen ist.
 
@@ -212,7 +212,7 @@ Dem Verzeichnis nach Satz 3 und den Angaben nach den Sätzen 4 und 5 ist die Erk
 
 (2) Der Antrag kann zurückgenommen werden, bis das Insolvenzverfahren eröffnet oder der Antrag rechtskräftig abgewiesen ist.
 
-(3) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates für die Antragstellung durch den Schuldner ein Formular einzuführen. Soweit nach Satz 1 ein Formular eingeführt ist, muss der Schuldner dieses benutzen. Für Verfahren, die von den Gerichten maschinell bearbeitet, und für solche, die nicht maschinell bearbeitet werden, können unterschiedliche Formulare eingeführt werden.
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates für die Antragstellung durch den Schuldner ein Formular einzuführen. Soweit nach Satz 1 ein Formular eingeführt ist, muss der Schuldner dieses benutzen. Für Verfahren, die von den Gerichten maschinell bearbeitet, und für solche, die nicht maschinell bearbeitet werden, können unterschiedliche Formulare eingeführt werden.
 
 ### § 14 Antrag eines Gläubigers
 
@@ -328,10 +328,10 @@ zu prüfen, ob das Vermögen des Schuldners die Kosten des Verfahrens decken wir
 (1) Das Insolvenzgericht hat einen vorläufigen Gläubigerausschuss nach § 21 Absatz 2 Nummer 1a einzusetzen, wenn der Schuldner im vorangegangenen Geschäftsjahr mindestens zwei der drei nachstehenden Merkmale erfüllt hat:
 
 1.  
-mindestens 4 840 000 Euro Bilanzsumme nach Abzug eines auf der Aktivseite ausgewiesenen Fehlbetrags im Sinne des § 268 Absatz 3 des Handelsgesetzbuchs;
+mindestens 6 000 000 Euro Bilanzsumme nach Abzug eines auf der Aktivseite ausgewiesenen Fehlbetrags im Sinne des § 268 Absatz 3 des Handelsgesetzbuchs;
 
 2.  
-mindestens 9 680 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlussstichtag;
+mindestens 12 000 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlussstichtag;
 
 3.  
 im Jahresdurchschnitt mindestens fünfzig Arbeitnehmer.
@@ -500,6 +500,8 @@ die Sachen, die nach § 811 Abs. 1 Nr. 4 und 9 der Zivilprozeßordnung nicht der
 (2) Verwalten die Ehegatten das Gesamtgut gemeinschaftlich, so wird das Gesamtgut durch das Insolvenzverfahren über das Vermögen eines Ehegatten nicht berührt.
 
 (3) Absatz 1 ist bei der fortgesetzten Gütergemeinschaft mit der Maßgabe anzuwenden, daß an die Stelle des Ehegatten, der das Gesamtgut allein verwaltet, der überlebende Ehegatte, an die Stelle des anderen Ehegatten die Abkömmlinge treten.
+
+(4) Die Absätze 1 bis 3 gelten für Lebenspartner entsprechend.
 
 ### § 38 Begriff der Insolvenzgläubiger
 
@@ -712,7 +714,7 @@ Die Verjährung des Anspruchs auf Ersatz des Schadens, der aus einer Pflichtverl
 
 ### § 65 Verordnungsermächtigung
 
-Das Bundesministerium der Justiz wird ermächtigt, die Vergütung und die Erstattung der Auslagen des vorläufigen Insolvenzverwalters und des Insolvenzverwalters sowie das hierfür maßgebliche Verfahren durch Rechtsverordnung zu regeln.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, die Vergütung und die Erstattung der Auslagen des vorläufigen Insolvenzverwalters und des Insolvenzverwalters sowie das hierfür maßgebliche Verfahren durch Rechtsverordnung zu regeln.
 
 ### § 66 Rechnungslegung
 
@@ -2890,7 +2892,7 @@ einen Schuldenbereinigungsplan; dieser kann alle Regelungen enthalten, die unter
 
 (4) Der Schuldner kann sich vor dem Insolvenzgericht von einer geeigneten Person oder einem Angehörigen einer als geeignet anerkannten Stelle im Sinne des Absatzes 1 Nr. 1 vertreten lassen. Für die Vertretung des Gläubigers gilt § 174 Abs. 1 Satz 3 entsprechend.
 
-(5) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vereinfachung des Verbraucherinsolvenzverfahrens für die Beteiligten Formulare für die nach Absatz 1 Nummer 1 bis 3 vorzulegenden Bescheinigungen, Anträge und Verzeichnisse einzuführen. Soweit nach Satz 1 Formulare eingeführt sind, muß sich der Schuldner ihrer bedienen. Für Verfahren bei Gerichten, die die Verfahren maschinell bearbeiten und für Verfahren bei Gerichten, die die Verfahren nicht maschinell bearbeiten, können unterschiedliche Formulare eingeführt werden.
+(5) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vereinfachung des Verbraucherinsolvenzverfahrens für die Beteiligten Formulare für die nach Absatz 1 Nummer 1 bis 3 vorzulegenden Bescheinigungen, Anträge und Verzeichnisse einzuführen. Soweit nach Satz 1 Formulare eingeführt sind, muß sich der Schuldner ihrer bedienen. Für Verfahren bei Gerichten, die die Verfahren maschinell bearbeiten und für Verfahren bei Gerichten, die die Verfahren nicht maschinell bearbeiten, können unterschiedliche Formulare eingeführt werden.
 
 ### § 305a Scheitern der außergerichtlichen Schuldenbereinigung
 
@@ -3079,7 +3081,7 @@ Die §§ 323, 324 Abs. 1 Nr. 1 und § 326 Abs. 2, 3 gelten für den Vorerben auc
 
 (1) Im Insolvenzverfahren über das Vermögen des Erben gelten, wenn auch über den Nachlaß das Insolvenzverfahren eröffnet oder wenn eine Nachlaßverwaltung angeordnet ist, die §§ 52, 190, 192, 198, 237 Abs. 1 Satz 2 entsprechend für Nachlaßgläubiger, denen gegenüber der Erbe unbeschränkt haftet.
 
-(2) Gleiches gilt, wenn ein Ehegatte der Erbe ist und der Nachlaß zum Gesamtgut gehört, das vom anderen Ehegatten allein verwaltet wird, auch im Insolvenzverfahren über das Vermögen des anderen Ehegatten und, wenn das Gesamtgut von den Ehegatten gemeinschaftlich verwaltet wird, auch im Insolvenzverfahren über das Gesamtgut und im Insolvenzverfahren über das sonstige Vermögen des Ehegatten, der nicht Erbe ist.
+(2) Gleiches gilt, wenn ein Ehegatte der Erbe ist und der Nachlaß zum Gesamtgut gehört, das vom anderen Ehegatten allein verwaltet wird, auch im Insolvenzverfahren über das Vermögen des anderen Ehegatten und, wenn das Gesamtgut von den Ehegatten gemeinschaftlich verwaltet wird, auch im Insolvenzverfahren über das Gesamtgut und im Insolvenzverfahren über das sonstige Vermögen des Ehegatten, der nicht Erbe ist. Satz 1 gilt für Lebenspartner entsprechend.
 
 Zweiter Abschnitt Insolvenzverfahren über das Gesamtgut einer fortgesetzten Gütergemeinschaft
 ---------------------------------------------------------------------------------------------
@@ -3105,11 +3107,13 @@ Dritter Abschnitt Insolvenzverfahren über das gemeinschaftlich verwaltete Gesam
 
 (2) Antragsberechtigt ist auch jeder Ehegatte. Wird der Antrag nicht von beiden Ehegatten gestellt, so ist er zulässig, wenn die Zahlungsunfähigkeit des Gesamtguts glaubhaft gemacht wird; das Insolvenzgericht hat den anderen Ehegatten zu hören. Wird der Antrag von beiden Ehegatten gestellt, so ist auch die drohende Zahlungsunfähigkeit Eröffnungsgrund.
 
+(3) Die Absätze 1 und 2 gelten für Lebenspartner entsprechend.
+
 ### § 334 Persönliche Haftung der Ehegatten
 
-(1) Die persönliche Haftung der Ehegatten für die Verbindlichkeiten, deren Erfüllung aus dem Gesamtgut verlangt werden kann, kann während der Dauer des Insolvenzverfahrens nur vom Insolvenzverwalter oder vom Sachwalter geltend gemacht werden.
+(1) Die persönliche Haftung der Ehegatten oder Lebenspartner für die Verbindlichkeiten, deren Erfüllung aus dem Gesamtgut verlangt werden kann, kann während der Dauer des Insolvenzverfahrens nur vom Insolvenzverwalter oder vom Sachwalter geltend gemacht werden.
 
-(2) Im Falle eines Insolvenzplans gilt für die persönliche Haftung der Ehegatten § 227 Abs. 1 entsprechend.
+(2) Im Falle eines Insolvenzplans gilt für die persönliche Haftung der Ehegatten oder Lebenspartner § 227 Abs. 1 entsprechend.
 
 Elfter Teil Internationales Insolvenzrecht
 ------------------------------------------
