@@ -2,13 +2,17 @@ Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der frei
 ===============================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 52 G v. 1.4.2015 I 434
+Zuletzt geändert durch Art. 2 G v. 20.11.2015 I 2018
+
+Hinweis  
+Änderung durch Art. 3 Abs. 14 G v. 26.7.2016 I 1824 (Nr. 37) noch nicht berücksichtigt
 
 ### 
 
 ```
 (+++ Textnachweis ab: 1.9.2009 +++)
-(+++ Zur Anwendung vgl. §§ 130 Abs. 3, § 131 G 361-6 v. 23.7.2013 I 2586 +++)
+(+++ Zur Anwendung vgl. § 130 Abs. 3 u. § 131 G 361-6 v. 23.7.2013 I 2586 +++)
+(+++ Zur Anwendung vgl. § 35 Abs. 1 G 319-116 v. 29.6.2015 I 1042 +++)
 ```
 
 Das G wurde als Artikel 1 des G 315-24/1 v. 17.12.2008 I 2586 (FGG-RG) vom Bundestag beschlossen. Es tritt gem. Art. 112 Abs. 1 dieses G am 1.9.2009 in Kraft.
@@ -694,12 +698,17 @@ Unterabschnitt 4
 Erbscheinsverfahren;
 Testamentsvollstreckung
 
-|       |                                                   |
-|-------|---------------------------------------------------|
-| § 352 | Entscheidung über Erbscheinsanträge               |
-| § 353 | Einziehung oder Kraftloserklärung von Erbscheinen |
-| § 354 | Sonstige Zeugnisse                                |
-| § 355 | Testamentsvollstreckung                           |
+|        |                                                                            |
+|--------|----------------------------------------------------------------------------|
+| § 352  | Angaben im Antrag auf Erteilung eines Erbscheins; Nachweis der Richtigkeit |
+| § 352a | Gemeinschaftlicher Erbschein                                               |
+| § 352b | Inhalt des Erbscheins für den Vorerben; Angabe des Testamentsvollstreckers |
+| § 352c | Gegenständlich beschränkter Erbschein                                      |
+| § 352d | Öffentliche Aufforderung                                                   |
+| § 352e | Entscheidung über Erbscheinsanträge                                        |
+| § 353  | Einziehung oder Kraftloserklärung von Erbscheinen                          |
+| § 354  | Sonstige Zeugnisse                                                         |
+| § 355  | Testamentsvollstreckung                                                    |
 
 Unterabschnitt 5
 
@@ -1169,7 +1178,7 @@ Im Termin können die Beteiligten mit Beiständen erscheinen. Beistand kann sein
 
 ### § 14a Formulare; Verordnungsermächtigung
 
-Das Bundesministerium der Justiz kann durch Rechtsverordnung mit Zustimmung des Bundesrates elektronische Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in den Formularen enthaltenen Angaben ganz oder teilweise in strukturierter maschinenlesbarer Form zu übermitteln sind. Die Formulare sind auf einer in der Rechtsverordnung zu bestimmenden Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die Rechtsverordnung kann bestimmen, dass eine Identifikation des Formularverwenders abweichend von § 130a Absatz 3 der Zivilprozessordnung auch durch Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen kann.
+Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsverordnung mit Zustimmung des Bundesrates elektronische Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in den Formularen enthaltenen Angaben ganz oder teilweise in strukturierter maschinenlesbarer Form zu übermitteln sind. Die Formulare sind auf einer in der Rechtsverordnung zu bestimmenden Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die Rechtsverordnung kann bestimmen, dass eine Identifikation des Formularverwenders abweichend von § 130a Absatz 3 der Zivilprozessordnung auch durch Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen kann.
 
 ### § 15 Bekanntgabe; formlose Mitteilung
 
@@ -1743,7 +1752,7 @@ Unterbringungssachen und Verfahren nach § 151 Nr. 6 und 7 sowie
 3.  
 Freiheitsentziehungssachen.
 
-In den Fällen des Satzes 1 Nr. 2 und 3 gilt dies nur, wenn sich die Rechtsbeschwerde gegen den Beschluss richtet, der die Unterbringung oder die freiheitsentziehende Maßnahme anordnet.
+In den Fällen des Satzes 1 Nr. 2 und 3 gilt dies nur, wenn sich die Rechtsbeschwerde gegen den Beschluss richtet, der die Unterbringung oder die freiheitsentziehende Maßnahme anordnet. In den Fällen des Satzes 1 Nummer 3 ist die Rechtsbeschwerde abweichend von Satz 2 auch dann ohne Zulassung statthaft, wenn sie sich gegen den eine freiheitsentziehende Maßnahme ablehnenden oder zurückweisenden Beschluss in den in § 417 Absatz 2 Satz 2 Nummer 5 genannten Verfahren richtet.
 
 (4) Gegen einen Beschluss im Verfahren über die Anordnung, Abänderung oder Aufhebung einer einstweiligen Anordnung oder eines Arrests findet die Rechtsbeschwerde nicht statt.
 
@@ -3914,7 +3923,7 @@ In vereinfachten Verfahren können die Anträge und Erklärungen vor dem Urkunds
 
 ### § 259 Formulare
 
-(1) Das Bundesministerium der Justiz wird ermächtigt, zur Vereinfachung und Vereinheitlichung der Verfahren durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für das vereinfachte Verfahren einzuführen. Für Gerichte, die die Verfahren maschinell bearbeiten, und für Gerichte, die die Verfahren nicht maschinell bearbeiten, können unterschiedliche Formulare eingeführt werden.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, zur Vereinfachung und Vereinheitlichung der Verfahren durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für das vereinfachte Verfahren einzuführen. Für Gerichte, die die Verfahren maschinell bearbeiten, und für Gerichte, die die Verfahren nicht maschinell bearbeiten, können unterschiedliche Formulare eingeführt werden.
 
 (2) Soweit nach Absatz 1 Formulare für Anträge und Erklärungen der Beteiligten eingeführt sind, müssen sich die Beteiligten ihrer bedienen.
 
@@ -4885,11 +4894,11 @@ Verfahren betreffend Zeugnisse über die Auseinandersetzung des Gesamtguts einer
 
 ### § 343 Örtliche Zuständigkeit
 
-(1) Die örtliche Zuständigkeit bestimmt sich nach dem Wohnsitz, den der Erblasser zur Zeit des Erbfalls hatte; fehlt ein inländischer Wohnsitz, ist das Gericht zuständig, in dessen Bezirk der Erblasser zur Zeit des Erbfalls seinen Aufenthalt hatte.
+(1) Örtlich zuständig ist das Gericht, in dessen Bezirk der Erblasser im Zeitpunkt seines Todes seinen gewöhnlichen Aufenthalt hatte.
 
-(2) Ist der Erblasser Deutscher und hatte er zur Zeit des Erbfalls im Inland weder Wohnsitz noch Aufenthalt, ist das Amtsgericht Schöneberg in Berlin zuständig. Es kann die Sache aus wichtigen Gründen an ein anderes Gericht verweisen.
+(2) Hatte der Erblasser im Zeitpunkt seines Todes keinen gewöhnlichen Aufenthalt im Inland, ist das Gericht zuständig, in dessen Bezirk der Erblasser seinen letzten gewöhnlichen Aufenthalt im Inland hatte.
 
-(3) Ist der Erblasser ein Ausländer und hatte er zur Zeit des Erbfalls im Inland weder Wohnsitz noch Aufenthalt, ist jedes Gericht, in dessen Bezirk sich Nachlassgegenstände befinden, für alle Nachlassgegenstände zuständig.
+(3) Ist eine Zuständigkeit nach den Absätzen 1 und 2 nicht gegeben, ist das Amtsgericht Schöneberg in Berlin zuständig, wenn der Erblasser Deutscher ist oder sich Nachlassgegenstände im Inland befinden. Das Amtsgericht Schöneberg in Berlin kann die Sache aus wichtigem Grund an ein anderes Nachlassgericht verweisen.
 
 ### § 344 Besondere örtliche Zuständigkeit
 
@@ -4912,13 +4921,13 @@ Der Erblasser kann jederzeit die Verwahrung bei einem nach Satz 1 örtlich nicht
 
 (4) Für die Sicherung des Nachlasses ist jedes Gericht zuständig, in dessen Bezirk das Bedürfnis für die Sicherung besteht.
 
-(4a) Für die Auseinandersetzung eines Nachlasses ist jeder Notar zuständig, der seinen Amtssitz im Bezirk des Amtsgerichts hat, in dem der Erblasser seinen letzten Wohnsitz hatte. Hatte der Erblasser keinen Wohnsitz im Inland, ist jeder Notar zuständig, der seinen Amtssitz im Bezirk eines Amtsgerichts hat, in dem sich Nachlassgegenstände befinden. Von mehreren örtlich zuständigen Notaren ist derjenige zur Vermittlung berufen, bei dem zuerst ein auf Auseinandersetzung gerichteter Antrag eingeht. Vereinbarungen der an der Auseinandersetzung Beteiligten bleiben unberührt.
+(4a) Für die Auseinandersetzung eines Nachlasses ist jeder Notar zuständig, der seinen Amtssitz im Bezirk des Amtsgerichts hat, in dem der Erblasser seinen letzten gewöhnlichen Aufenthalt hatte. Hatte der Erblasser keinen gewöhnlichen Aufenthalt im Inland, ist jeder Notar zuständig, der seinen Amtssitz im Bezirk eines Amtsgerichts hat, in dem sich Nachlassgegenstände befinden. Von mehreren örtlich zuständigen Notaren ist derjenige zur Vermittlung berufen, bei dem zuerst ein auf Auseinandersetzung gerichteter Antrag eingeht. Vereinbarungen der an der Auseinandersetzung Beteiligten bleiben unberührt.
 
 (5) Für die Auseinandersetzung des Gesamtguts einer Gütergemeinschaft ist, falls ein Anteil an dem Gesamtgut zu einem Nachlass gehört, der Notar zuständig, der für die Auseinandersetzung über den Nachlass zuständig ist. Im Übrigen ist jeder Notar zuständig, der seinen Amtssitz im Bezirk des nach § 122 Nummer 1 bis 5 zuständigen Gerichts hat. Ist danach keine Zuständigkeit gegeben, ist jeder Notar zuständig, der seinen Amtssitz im Bezirk eines Amtsgerichts hat, in dem sich Gegenstände befinden, die zum Gesamtgut gehören. Absatz 4a Satz 3 und 4 gilt entsprechend.
 
 (6) Hat ein anderes Gericht als das nach § 343 zuständige Gericht eine Verfügung von Todes wegen in amtlicher Verwahrung, ist dieses Gericht für die Eröffnung der Verfügung zuständig.
 
-(7) Für die Entgegennahme einer Erklärung, mit der die Erbschaft ausgeschlagen (§ 1945 Abs. 1 des Bürgerlichen Gesetzbuchs) oder die Ausschlagung angefochten (§ 1955 des Bürgerlichen Gesetzbuchs) wird, ist auch das Nachlassgericht zuständig, in dessen Bezirk der Ausschlagende oder Anfechtende seinen Wohnsitz hat. Die Niederschrift über die Erklärung ist von diesem Gericht an das zuständige Nachlassgericht zu übersenden.
+(7) Für die Entgegennahme einer Erklärung, mit der eine Erbschaft ausgeschlagen oder mit der die Versäumung der Ausschlagungsfrist, die Annahme oder Ausschlagung einer Erbschaft oder eine Anfechtungserklärung ihrerseits angefochten wird, ist auch das Nachlassgericht zuständig, in dessen Bezirk die erklärende Person ihren gewöhnlichen Aufenthalt hat. Die Urschrift der Niederschrift oder die Urschrift der Erklärung in öffentlich beglaubigter Form ist von diesem Gericht an das zuständige Nachlassgericht zu übersenden.
 
 Abschnitt 2 Verfahren in Nachlasssachen
 ---------------------------------------
@@ -5045,9 +5054,78 @@ Unterabschnitt 4 Erbscheinsverfahren; Testamentsvollstreckung
 
 ### 
 
-### § 352 Entscheidung über Erbscheinsanträge
+### § 352 Angaben im Antrag auf Erteilung eines Erbscheins; Nachweis der Richtigkeit
 
-(1) Die Entscheidung, dass die zur Erteilung eines Erbscheins erforderlichen Tatsachen für festgestellt erachtet werden, ergeht durch Beschluss. Der Beschluss wird mit Erlass wirksam. Einer Bekanntgabe des Beschlusses bedarf es nicht.
+(1) Wer die Erteilung eines Erbscheins als gesetzlicher Erbe beantragt, hat anzugeben
+
+1.  
+den Zeitpunkt des Todes des Erblassers,
+
+2.  
+den letzten gewöhnlichen Aufenthalt und die Staatsangehörigkeit des Erblassers,
+
+3.  
+das Verhältnis, auf dem sein Erbrecht beruht,
+
+4.  
+ob und welche Personen vorhanden sind oder vorhanden waren, durch die er von der Erbfolge ausgeschlossen oder sein Erbteil gemindert werden würde,
+
+5.  
+ob und welche Verfügungen des Erblassers von Todes wegen vorhanden sind,
+
+6.  
+ob ein Rechtsstreit über sein Erbrecht anhängig ist,
+
+7.  
+dass er die Erbschaft angenommen hat,
+
+8.  
+die Größe seines Erbteils.
+
+Ist eine Person weggefallen, durch die der Antragsteller von der Erbfolge ausgeschlossen oder sein Erbteil gemindert werden würde, so hat der Antragsteller anzugeben, in welcher Weise die Person weggefallen ist.
+
+(2) Wer die Erteilung des Erbscheins auf Grund einer Verfügung von Todes wegen beantragt, hat
+
+1.  
+die Verfügung zu bezeichnen, auf der sein Erbrecht beruht,
+
+2.  
+anzugeben, ob und welche sonstigen Verfügungen des Erblassers von Todes wegen vorhanden sind, und
+
+3.  
+die in Absatz 1 Satz 1 Nummer 1, 2 und 6 bis 8 sowie Satz 2 vorgeschriebenen Angaben zu machen.
+
+(3) Der Antragsteller hat die Richtigkeit der Angaben nach Absatz 1 Satz 1 Nummer 1 und 3 sowie Satz 2 durch öffentliche Urkunden nachzuweisen und im Fall des Absatzes 2 die Urkunde vorzulegen, auf der sein Erbrecht beruht. Sind die Urkunden nicht oder nur mit unverhältnismäßigen Schwierigkeiten zu beschaffen, so genügt die Angabe anderer Beweismittel. Zum Nachweis, dass der Erblasser zur Zeit seines Todes im Güterstand der Zugewinngemeinschaft gelebt hat, und zum Nachweis der übrigen nach den Absätzen 1 und 2 erforderlichen Angaben hat der Antragsteller vor Gericht oder vor einem Notar an Eides statt zu versichern, dass ihm nichts bekannt sei, was der Richtigkeit seiner Angaben entgegensteht. Das Nachlassgericht kann dem Antragsteller die Versicherung erlassen, wenn es sie für nicht erforderlich hält.
+
+### § 352a Gemeinschaftlicher Erbschein
+
+(1) Sind mehrere Erben vorhanden, so ist auf Antrag ein gemeinschaftlicher Erbschein zu erteilen. Der Antrag kann von jedem der Erben gestellt werden.
+
+(2) In dem Antrag sind die Erben und ihre Erbteile anzugeben. Die Angabe der Erbteile ist nicht erforderlich, wenn alle Antragsteller in dem Antrag auf die Aufnahme der Erbteile in den Erbschein verzichten.
+
+(3) Wird der Antrag nicht von allen Erben gestellt, so hat er die Angabe zu enthalten, dass die übrigen Erben die Erbschaft angenommen haben. § 352 Absatz 3 gilt auch für die sich auf die übrigen Erben beziehenden Angaben des Antragstellers.
+
+(4) Die Versicherung an Eides statt gemäß § 352 Absatz 3 Satz 3 ist von allen Erben abzugeben, sofern nicht das Nachlassgericht die Versicherung eines oder mehrerer Erben für ausreichend hält.
+
+### § 352b Inhalt des Erbscheins für den Vorerben; Angabe des Testamentsvollstreckers
+
+(1) In dem Erbschein, der einem Vorerben erteilt wird, ist anzugeben, dass eine Nacherbfolge angeordnet ist, unter welchen Voraussetzungen sie eintritt und wer der Nacherbe ist. Hat der Erblasser den Nacherben auf dasjenige eingesetzt, was von der Erbschaft bei dem Eintritt der Nacherbfolge übrig sein wird, oder hat er bestimmt, dass der Vorerbe zur freien Verfügung über die Erbschaft berechtigt sein soll, so ist auch dies anzugeben.
+
+(2) Hat der Erblasser einen Testamentsvollstrecker ernannt, so ist die Ernennung in dem Erbschein anzugeben.
+
+### § 352c Gegenständlich beschränkter Erbschein
+
+(1) Gehören zu einer Erbschaft auch Gegenstände, die sich im Ausland befinden, kann der Antrag auf Erteilung eines Erbscheins auf die im Inland befindlichen Gegenstände beschränkt werden.
+
+(2) Ein Gegenstand, für den von einer deutschen Behörde ein zur Eintragung des Berechtigten bestimmtes Buch oder Register geführt wird, gilt als im Inland befindlich. Ein Anspruch gilt als im Inland befindlich, wenn für die Klage ein deutsches Gericht zuständig ist.
+
+### § 352d Öffentliche Aufforderung
+
+Das Nachlassgericht kann eine öffentliche Aufforderung zur Anmeldung der anderen Personen zustehenden Erbrechte erlassen; die Art der Bekanntmachung und die Dauer der Anmeldungsfrist bestimmen sich nach den für das Aufgebotsverfahren geltenden Vorschriften.
+
+### § 352e Entscheidung über Erbscheinsanträge
+
+(1) Der Erbschein ist nur zu erteilen, wenn das Nachlassgericht die zur Begründung des Antrags erforderlichen Tatsachen für festgestellt erachtet. Die Entscheidung ergeht durch Beschluss. Der Beschluss wird mit Erlass wirksam. Einer Bekanntgabe des Beschlusses bedarf es nicht.
 
 (2) Widerspricht der Beschluss dem erklärten Willen eines Beteiligten, ist der Beschluss den Beteiligten bekannt zu geben. Das Gericht hat in diesem Fall die sofortige Wirksamkeit des Beschlusses auszusetzen und die Erteilung des Erbscheins bis zur Rechtskraft des Beschlusses zurückzustellen.
 
@@ -5055,15 +5133,17 @@ Unterabschnitt 4 Erbscheinsverfahren; Testamentsvollstreckung
 
 ### § 353 Einziehung oder Kraftloserklärung von Erbscheinen
 
-(1) In Verfahren über die Einziehung oder Kraftloserklärung eines Erbscheins hat das Gericht über die Kosten des Verfahrens zu entscheiden. Die Kostenentscheidung soll zugleich mit der Endentscheidung ergehen.
+(1) Kann der Erbschein im Verfahren über die Einziehung nicht sofort erlangt werden, so hat ihn das Nachlassgericht durch Beschluss für kraftlos zu erklären. Der Beschluss ist entsprechend § 435 öffentlich bekannt zu machen. Mit Ablauf eines Monats nach Veröffentlichung im Bundesanzeiger wird die Kraftloserklärung wirksam. Nach Veröffentlichung des Beschlusses kann dieser nicht mehr angefochten werden.
 
-(2) Ist der Erbschein bereits eingezogen, ist die Beschwerde gegen den Einziehungsbeschluss nur insoweit zulässig, als die Erteilung eines neuen gleichlautenden Erbscheins beantragt wird. Die Beschwerde gilt im Zweifel als Antrag auf Erteilung eines neuen gleichlautenden Erbscheins.
+(2) In Verfahren über die Einziehung oder Kraftloserklärung eines Erbscheins hat das Gericht über die Kosten des Verfahrens zu entscheiden. Die Kostenentscheidung soll zugleich mit der Endentscheidung ergehen.
 
-(3) Ein Beschluss, durch den ein Erbschein für kraftlos erklärt wird, ist nicht mehr anfechtbar, nachdem der Beschluss öffentlich bekannt gemacht ist (§ 2361 Abs. 2 Satz 2 des Bürgerlichen Gesetzbuchs).
+(3) Ist der Erbschein bereits eingezogen, ist die Beschwerde gegen den Einziehungsbeschluss nur insoweit zulässig, als die Erteilung eines neuen gleichlautenden Erbscheins beantragt wird. Die Beschwerde gilt im Zweifel als Antrag auf Erteilung eines neuen gleichlautenden Erbscheins.
 
 ### § 354 Sonstige Zeugnisse
 
-Die §§ 352 und 353 gelten entsprechend für die Erteilung von Zeugnissen nach den §§ 1507 und 2368 des Bürgerlichen Gesetzbuchs, den §§ 36 und 37 der Grundbuchordnung sowie den §§ 42 und 74 der Schiffsregisterordnung.
+(1) Die §§ 352 bis 353 gelten entsprechend für die Erteilung von Zeugnissen nach den §§ 1507 und 2368 des Bürgerlichen Gesetzbuchs, den §§ 36 und 37 der Grundbuchordnung sowie den §§ 42 und 74 der Schiffsregisterordnung.
+
+(2) Ist der Testamentsvollstrecker in der Verwaltung des Nachlasses beschränkt oder hat der Erblasser angeordnet, dass der Testamentsvollstrecker in der Eingehung von Verbindlichkeiten für den Nachlass nicht beschränkt sein soll, so ist dies in dem Zeugnis nach § 2368 des Bürgerlichen Gesetzbuchs anzugeben.
 
 ### § 355 Testamentsvollstreckung
 
@@ -5181,7 +5261,7 @@ Ergeben sich bei den Verhandlungen Streitpunkte, ist darüber eine Niederschrift
 
 (1) Auf die Auseinandersetzung des Gesamtguts nach der Beendigung der ehelichen, lebenspartnerschaftlichen oder der fortgesetzten Gütergemeinschaft sind die Vorschriften dieses Abschnitts entsprechend anzuwenden.
 
-(2) Für das Verfahren zur Erteilung, Einziehung oder Kraftloserklärung von Zeugnissen über die Auseinandersetzung des Gesamtguts einer ehelichen, lebenspartnerschaftlichen oder fortgesetzten Gütergemeinschaft nach den §§ 36 und 37 der Grundbuchordnung sowie den §§ 42 und 74 der Schiffsregisterordnung gelten § 345 Abs. 1 sowie die §§ 352, 353 und 357 entsprechend.
+(2) Für das Verfahren zur Erteilung, Einziehung oder Kraftloserklärung von Zeugnissen über die Auseinandersetzung des Gesamtguts einer ehelichen, lebenspartnerschaftlichen oder fortgesetzten Gütergemeinschaft nach den §§ 36 und 37 der Grundbuchordnung sowie den §§ 42 und 74 der Schiffsregisterordnung gelten § 345 Abs. 1 sowie die §§ 352, 352a, 352c bis 353 und 357 entsprechend.
 
 Buch 5 Verfahren in Registersachen, unternehmensrechtliche Verfahren
 --------------------------------------------------------------------
@@ -5256,7 +5336,7 @@ Artikel 54 Abs. 2 der Verordnung (EG) Nr. 1435/2003 des Rates vom 22. Juli 2003 
 (weggefallen),
 
 13.  
-§ 47 Absatz 2 und § 104 Abs. 2 Satz 3 bis 8 des Versicherungsaufsichtsgesetzes und § 28 Absatz 2 Satz 1 bis 5 des Finanzkonglomerate-Aufsichtsgesetzes,
+§ 19 Absatz 2 Satz 1 bis 6 und § 204 Absatz 2 des Versicherungsaufsichtsgesetzes und § 28 Absatz 2 Satz 1 bis 5 des Finanzkonglomerate-Aufsichtsgesetzes,
 
 14.  
 § 6 Abs. 4 Satz 4 bis 7 des Börsengesetzes,
@@ -5378,7 +5458,7 @@ Das Registergericht hat auf Verlangen eine Bescheinigung darüber zu erteilen, d
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, dass die Daten des bei einem Gericht geführten Handels-, Genossenschafts-, Partnerschafts- oder Vereinsregisters auch bei anderen Amtsgerichten zur Einsicht und zur Erteilung von Ausdrucken zugänglich sind. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Mehrere Länder können auch vereinbaren, dass die bei den Gerichten eines Landes geführten Registerdaten auch bei den Amtsgerichten des anderen Landes zur Einsicht und zur Erteilung von Ausdrucken zugänglich sind.
 
-(2) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Bestimmungen über die Einrichtung und Führung des Handels-, Genossenschafts- und Partnerschaftsregisters, die Übermittlung der Daten an das Unternehmensregister und die Aktenführung in Beschwerdeverfahren, die Einsicht in das Register, die Einzelheiten der elektronischen Übermittlung nach § 9 des Handelsgesetzbuchs und das Verfahren bei Anmeldungen, Eintragungen und Bekanntmachungen zu treffen. Dabei kann auch vorgeschrieben werden, dass das Geburtsdatum von in das Register einzutragenden Personen zur Eintragung anzumelden sowie die Anschrift der einzutragenden Unternehmen und Zweigniederlassungen bei dem Gericht einzureichen ist; soweit in der Rechtsverordnung solche Angaben vorgeschrieben werden, ist § 14 des Handelsgesetzbuchs entsprechend anzuwenden.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Bestimmungen über die Einrichtung und Führung des Handels-, Genossenschafts- und Partnerschaftsregisters, die Übermittlung der Daten an das Unternehmensregister und die Aktenführung in Beschwerdeverfahren, die Einsicht in das Register, die Einzelheiten der elektronischen Übermittlung nach § 9 des Handelsgesetzbuchs und das Verfahren bei Anmeldungen, Eintragungen und Bekanntmachungen zu treffen. Dabei kann auch vorgeschrieben werden, dass das Geburtsdatum von in das Register einzutragenden Personen zur Eintragung anzumelden sowie die Anschrift der einzutragenden Unternehmen und Zweigniederlassungen bei dem Gericht einzureichen ist; soweit in der Rechtsverordnung solche Angaben vorgeschrieben werden, ist § 14 des Handelsgesetzbuchs entsprechend anzuwenden.
 
 (3) Durch Rechtsverordnung nach Absatz 2 können auch die näheren Bestimmungen über die Mitwirkung der in § 380 bezeichneten Organe im Verfahren vor den Registergerichten getroffen werden. Dabei kann insbesondere auch bestimmt werden, dass diesen Organen laufend oder in regelmäßigen Abständen die zur Erfüllung ihrer gesetzlichen Aufgaben erforderlichen Daten aus dem Handels- oder Partnerschaftsregister und den zu diesen Registern eingereichten Dokumenten mitgeteilt werden. Die mitzuteilenden Daten sind in der Rechtsverordnung festzulegen. Die Empfänger dürfen die übermittelten personenbezogenen Daten nur für den Zweck verwenden, zu dessen Erfüllung sie ihnen übermittelt worden sind.
 
