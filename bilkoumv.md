@@ -2,12 +2,13 @@ Verordnung über die Umlegung von Kosten der Bilanzkontrolle nach § 17d des Fin
 ============================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 21.11.2007 I 2606
+Zuletzt geändert durch Art. 15 G v. 20.11.2015 I 2029
 
 ### 
 
 ```
 (+++ Textnachweis ab: 13.5.2005 +++)
+(+++ Zur Anwendung vgl. § 14 Abs. 3 +++)
 ```
 
 ### Eingangsformel
@@ -16,7 +17,9 @@ Auf Grund des § 17d Abs. 3 Satz 1 des Finanzdienstleistungsaufsichtsgesetzes, d
 
 ### § 1 Anwendungsbereich
 
-Diese Verordnung regelt die Umlegung der in § 17d Abs. 1 Satz 1 und Abs. 4 des Finanzdienstleistungsaufsichtsgesetzes aufgeführten Kosten der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) und der auf der Grundlage des § 342b Abs. 1 Satz 1 des Handelsgesetzbuchs anerkannten Prüfstelle für Rechnungslegung (Prüfstelle) auf die in § 17d Abs. 1 Satz 1 des Finanzdienstleistungsaufsichtsgesetzes genannten Umlagepflichtigen sowie den Differenzausgleich zwischen Umlagevorauszahlung und Umlagefestsetzung im Hinblick auf die von der Bundesanstalt an die Prüfstelle gemäß § 342d Satz 3 des Handelsgesetzbuchs zu leistende Vorschusszahlung.
+Diese Verordnung regelt die Umlegung der in § 17d Abs. 1 Satz 1 und Abs. 4 des Finanzdienstleistungsaufsichtsgesetzes aufgeführten Kosten der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) und der auf der Grundlage des § 342b Abs. 1 Satz 1 des Handelsgesetzbuchs anerkannten Prüfstelle für Rechnungslegung (Prüfstelle) auf die in § 17d Absatz 1 Satz 1 und 2 des Finanzdienstleistungsaufsichtsgesetzes genannten Umlagepflichtigen sowie den Differenzausgleich zwischen Umlagevorauszahlung und Umlagefestsetzung im Hinblick auf die von der Bundesanstalt an die Prüfstelle gemäß § 342d Satz 3 des Handelsgesetzbuchs zu leistende Vorschusszahlung.
+
+(+++ § 1: Zur Anwendung vgl. § 14 Abs. 3 +++)
 
 ### § 2 Umlagefähige Kosten
 
@@ -82,7 +85,7 @@ Die Umlageforderungen werden mit der Bekanntgabe ihrer Festsetzung an den Umlage
 
 ### § 13 Säumniszuschläge und Beitreibung
 
-(1) Auf zum Zeitpunkt ihrer Fälligkeit nicht eingegangene Beträge erhebt die Bundesanstalt Säumniszuschläge; § 18 des Verwaltungskostengesetzes ist entsprechend anzuwenden.
+(1) Auf zum Zeitpunkt ihrer Fälligkeit nicht eingegangene Beträge erhebt die Bundesanstalt Säumniszuschläge; § 16 des Bundesgebührengesetzes ist entsprechend anzuwenden.
 
 (2) Nicht fristgerecht entrichtete Beträge werden nach den Vorschriften des Verwaltungs-Vollstreckungsgesetzes durch die Bundesanstalt beigetrieben. Vollstreckungsbehörde ist das für den Sitz oder die Niederlassung des Vollstreckungsschuldners zuständige Hauptzollamt.
 
@@ -112,6 +115,8 @@ Vorauszahlungspflichtig ist, wer im Jahr 2005 umlagepflichtig war.
 
 2.  
 Für die Verteilung der voraussichtlichen Kosten im Sinn des § 9 Abs. 1 Satz 2, die auf die einzelnen Vorauszahlungspflichtigen umzulegen sind, ist § 9 Abs. 3 auf der Grundlage der Börsenumsätze des Jahres 2004 anzuwenden.
+
+(3) § 1 in der ab dem 26. November 2015 geltenden Fassung ist erstmals auf die Umlageerhebung für das Umlagejahr 2016 anzuwenden.
 
 ### § 15 Inkrafttreten
 
