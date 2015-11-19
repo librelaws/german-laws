@@ -2,13 +2,14 @@ Wertpapiererwerbs- und Übernahmegesetz (WpÜG)
 =============================================
 
 Stand  
-Zuletzt geändert durch Art. 2c G v. 28.11.2012 I 2369
+Zuletzt geändert durch Art. 6 G v. 20.11.2015 I 2029
 
 ### 
 
 ```
 (+++ Textnachweis ab: 1.1.2002 +++)
 (+++ Zur Anwendung vgl. § 68 +++)
+(+++ Zur Anwendung vgl. § 108 Abs. 5 KAGB +++)
 ```
 
 Das G wurde als Artikel 1 G 4110-7/1 v. 20.12.2001 I 3822 vom Bundestag erlassen. Es ist gem. Art. 12 Satz 1 dieses G am 1.1.2002 in Kraft getreten. Vorschriften, die zum Erlass von Rechtsverordnungen ermächtigen, sind am 23.12.2001 in Kraft getreten.
@@ -242,13 +243,13 @@ zwei Vertretern der Arbeitnehmer,
 5.  
 zwei Vertretern der Wissenschaft.
 
-Die Mitglieder des Beirates werden vom Bundesministerium der Finanzen für jeweils fünf Jahre bestellt; die Bestellung der in Satz 2 Nr. 1 bis 4 genannten Mitglieder erfolgt nach Anhörung der betroffenen Kreise. Die Mitglieder des Beirates müssen fachlich besonders geeignet sein; insbesondere müssen sie über Kenntnisse über die Funktionsweise der Kapitalmärkte sowie über Kenntnisse auf dem Gebiet des Gesellschaftsrechts, des Bilanzwesens oder des Arbeitsrechts verfügen. Die Mitglieder des Beirates verwalten ihr Amt als unentgeltliches Ehrenamt. Für ihre Teilnahme an Sitzungen erhalten sie Tagegelder und Vergütung der Reisekosten nach festen Sätzen, die das Bundesministerium der Finanzen bestimmt. An den Sitzungen können Vertreter der Bundesministerien der Finanzen, der Justiz sowie für Wirtschaft und Technologie teilnehmen.
+Die Mitglieder des Beirates werden vom Bundesministerium der Finanzen für jeweils fünf Jahre bestellt; die Bestellung der in Satz 2 Nr. 1 bis 4 genannten Mitglieder erfolgt nach Anhörung der betroffenen Kreise. Die Mitglieder des Beirates müssen fachlich besonders geeignet sein; insbesondere müssen sie über Kenntnisse über die Funktionsweise der Kapitalmärkte sowie über Kenntnisse auf dem Gebiet des Gesellschaftsrechts, des Bilanzwesens oder des Arbeitsrechts verfügen. Die Mitglieder des Beirates verwalten ihr Amt als unentgeltliches Ehrenamt. Für ihre Teilnahme an Sitzungen erhalten sie Tagegelder und Vergütung der Reisekosten nach festen Sätzen, die das Bundesministerium der Finanzen bestimmt. An den Sitzungen können Vertreter der Bundesministerien der Finanzen, der Justiz und für Verbraucherschutz sowie für Wirtschaft und Energie teilnehmen.
 
 (2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über die Zusammensetzung des Beirates, die Einzelheiten der Bestellung seiner Mitglieder, die vorzeitige Beendigung der Mitgliedschaft, das Verfahren und die Kosten erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 (3) Der Beirat wirkt bei der Aufsicht mit. Er berät die Bundesanstalt, insbesondere bei dem Erlass von Rechtsverordnungen für die Aufsichtstätigkeit der Bundesanstalt. Er unterbreitet mit Zustimmung von zwei Dritteln seiner Mitglieder Vorschläge für die ehrenamtlichen Beisitzer des Widerspruchsausschusses und deren Vertreter.
 
-(4) Der Präsident der Bundesanstalt lädt zu den Sitzungen des Beirates ein. Die Sitzungen werden vom Präsidenten der Bundesanstalt oder einem von ihm beauftragten Beamten geleitet.
+(4) Der Präsident der Bundesanstalt lädt zu den Sitzungen des Beirates ein. Die Sitzungen werden vom Präsidenten der Bundesanstalt oder einem von ihm beauftragten Exekutivdirektor oder Beamten geleitet.
 
 (5) Der Beirat gibt sich eine Geschäftsordnung.
 
@@ -259,7 +260,7 @@ Die Mitglieder des Beirates werden vom Bundesministerium der Finanzen für jewei
 (2) Der Widerspruchsausschuss besteht aus
 
 1.  
-dem Präsidenten der Bundesanstalt oder einem von ihm beauftragten Beamten, der die Befähigung zum Richteramt hat, als Vorsitzendem,
+dem Präsidenten der Bundesanstalt oder einem von ihm beauftragten Exekutivdirektor oder Beamten, der die Befähigung zum Richteramt hat, als Vorsitzendem,
 
 2.  
 zwei vom Präsidenten der Bundesanstalt beauftragten Beamten als Beisitzern,
@@ -275,7 +276,7 @@ Bei Stimmengleichheit entscheidet der Vorsitzende.
 
 ### § 7 Zusammenarbeit mit Aufsichtsbehörden im Inland
 
-(1) Das Bundeskartellamt und die Bundesanstalt haben einander die für die Erfüllung ihrer Aufgaben erforderlichen Informationen mitzuteilen. Die Bundesanstalt übermittelt dem Bundesministerium für Wirtschaft und Technologie die ihr nach § 10 Abs. 2 Satz 1 Nr. 3 und § 35 Abs. 1 Satz 4 mitgeteilten Informationen und auf Ersuchen dieser Behörde die ihr nach § 14 Abs. 1 Satz 1 oder § 35 Abs. 2 Satz 1 übermittelte Angebotsunterlage. Bei der Übermittlung personenbezogener Daten ist § 15 des Bundesdatenschutzgesetzes anzuwenden.
+(1) Das Bundeskartellamt und die Bundesanstalt haben einander die für die Erfüllung ihrer Aufgaben erforderlichen Informationen mitzuteilen. Die Bundesanstalt übermittelt dem Bundesministerium für Wirtschaft und Energie die ihr nach § 10 Abs. 2 Satz 1 Nr. 3 und § 35 Abs. 1 Satz 4 mitgeteilten Informationen und auf Ersuchen dieser Behörde die ihr nach § 14 Abs. 1 Satz 1 oder § 35 Abs. 2 Satz 1 übermittelte Angebotsunterlage. Bei der Übermittlung personenbezogener Daten ist § 15 des Bundesdatenschutzgesetzes anzuwenden.
 
 (2) Die Bundesanstalt kann sich bei der Durchführung ihrer Aufgaben nach diesem Gesetz privater Personen und Einrichtungen bedienen.
 
@@ -300,11 +301,17 @@ Strafverfolgungsbehörden oder für Straf und Buß-geldsachen zuständige Gerich
 Stellen, die kraft Gesetzes oder im öffentlichen Auftrag mit der Bekämpfung von Wettbewerbsbeschränkungen, der Überwachung von Angeboten zum Erwerb von Wertpapieren oder der Überwachung von Börsen oder anderen Wertpapier- oder Derivatemärkten, des Wertpapier- oder Derivatehandels, von Kreditinstituten, Finanzdienstleistungsinstituten, Investmentgesellschaften, Finanzunternehmen oder Versicherungsunternehmen betraut sind, sowie von solchen Stellen beauftragte Personen,
 
 3.  
-das Bundesministerium für Wirtschaft und Technologie,
+das Bundesministerium für Wirtschaft und Energie,
 
 soweit die Tatsachen für die Erfüllung der Aufgaben dieser Stellen oder Personen erforderlich sind. Für die bei den in Satz 3 genannten Stellen beschäftigten oder von ihnen beauftragten Personen gilt die Verschwiegenheitspflicht nach den Sätzen 1 bis 3 entsprechend. An eine ausländische Stelle dürfen die Tatsachen nur weitergegeben werden, wenn diese Stelle und die von ihr beauftragten Personen einer den Sätzen 1 bis 3 entsprechenden Verschwiegenheitspflicht unterliegen.
 
-(2) Die §§ 93, 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie § 116 Abs. 1 der Abgabenordnung gelten nicht für die in Absatz 1 Satz 1 und 2 bezeichneten Personen, soweit sie zur Durchführung dieses Gesetzes tätig werden. Sie finden Anwendung, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes öffentliches Interesse besteht, und nicht Tatsachen betroffen sind, die den in Absatz 1 Satz 1 oder 2 bezeichneten Personen durch eine Stelle eines anderen Staates im Sinne von Absatz 1 Satz 3 Nr. 2 oder durch von dieser Stelle beauftragte Personen mitgeteilt worden sind.
+(2) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen. Die in Satz 1 genannten Vorschriften sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
+
+1.  
+die den in Absatz 1 Satz 1 oder Satz 2 bezeichneten Personen durch eine Stelle eines anderen Staates im Sinne von Absatz 1 Satz 3 Nummer 2 oder durch von dieser Stelle beauftragte Personen mitgeteilt worden sind oder
+
+2.  
+von denen bei der Bundesanstalt beschäftigte Personen dadurch Kenntnis erlangen, dass sie an der Aufsicht über direkt von der Europäischen Zentralbank beaufsichtigte Institute mitwirken, insbesondere in gemeinsamen Aufsichtsteams nach Artikel 2 Nummer 6 der Verordnung (EU) Nr. 468/2014 der Europäischen Zentralbank vom 16. April 2014 zur Einrichtung eines Rahmenwerks für die Zusammenarbeit zwischen der Europäischen Zentralbank und den nationalen zuständigen Behörden und den nationalen benannten Behörden innerhalb des einheitlichen Aufsichtsmechanismus (SSM-Rahmenverordnung) (EZB/2014/17) (ABl. L 141 vom 14.5.2014, S. 1), und die nach den Regeln der Europäischen Zentralbank geheim sind.
 
 (3) Die Mitglieder des Beirates und die ehrenamtlichen Beisitzer des Widerspruchsausschusses sind nach dem Verpflichtungsgesetz vom 2. März 1974 (BGBl. I S. 469, 547), geändert durch § 1 Nr. 4 des Gesetzes vom 15. August 1974 (BGBl. I S. 1942), in der jeweils geltenden Fassung von der Bundesanstalt auf eine gewissenhafte Erfüllung ihrer Obliegenheiten zu verpflichten.
 
@@ -625,9 +632,9 @@ Abschnitt 4 Übernahmeangebote
 
 (1) Übernahmeangebote sind Angebote, die auf den Erwerb der Kontrolle gerichtet sind.
 
-(2) Kontrolle ist das Halten von mindestens 30 Prozent der Stimmrechte an der Zielgesellschaft.
+(2) Kontrolle ist das Halten von mindestens 30 Prozent der Stimmrechte an der Zielgesellschaft aus dem Bieter gehörenden Aktien der Zielgesellschaft oder dem Bieter nach § 30 zugerechneten Stimmrechten an der Zielgesellschaft. Stimmrechte aus Aktien, die zu einem von einer Kapitalverwaltungsgesellschaft verwalteten Sondervermögen gehören, das kein Spezialsondervermögen ist und dessen Vermögensgegenstände im Miteigentum der Anleger stehen, gelten für die Anwendung von Satz 1 als Stimmrechte der Kapitalverwaltungsgesellschaft.
 
-### § 30 Zurechnung von Stimmrechten
+### § 30 Zurechnung von Stimmrechten; Verordnungsermächtigung
 
 (1) Stimmrechten des Bieters stehen Stimmrechte aus Aktien der Zielgesellschaft gleich,
 
@@ -647,29 +654,72 @@ an denen zugunsten des Bieters ein Nießbrauch bestellt ist,
 die der Bieter durch eine Willenserklärung erwerben kann,
 
 6.  
-die dem Bieter anvertraut sind oder aus denen er die Stimmrechte als Bevollmächtigter ausüben kann, sofern er die Stimmrechte aus diesen Aktien nach eigenem Ermessen ausüben kann, wenn keine besonderen Weisungen des Aktionärs vorliegen.
+die dem Bieter anvertraut sind oder aus denen er die Stimmrechte als Bevollmächtigter ausüben kann, sofern er die Stimmrechte aus diesen Aktien nach eigenem Ermessen ausüben kann, wenn keine besonderen Weisungen des Aktionärs vorliegen,
 
-Für die Zurechnung nach Satz 1 Nr. 2 bis 6 stehen dem Bieter Tochterunternehmen des Bieters gleich. Stimmrechte des Tochterunternehmens werden dem Bieter in voller Höhe zugerechnet.
+7.  
+aus denen der Bieter die Stimmrechte auf Grund einer Vereinbarung, die eine zeitweilige Übertragung der Stimmrechte ohne die damit verbundenen Aktien gegen Gegenleistung vorsieht, ausüben kann,
+
+8.  
+die bei dem Bieter als Sicherheit verwahrt werden, sofern dieser die Stimmrechte hält und die Absicht bekundet, sie auszuüben.
+
+Für die Zurechnung nach Satz 1 Nummer 2 bis 8 stehen dem Bieter Tochterunternehmen des Bieters gleich. Stimmrechte des Tochterunternehmens werden dem Bieter in voller Höhe zugerechnet.
 
 (2) Dem Bieter werden auch Stimmrechte eines Dritten aus Aktien der Zielgesellschaft in voller Höhe zugerechnet, mit dem der Bieter oder sein Tochterunternehmen sein Verhalten in Bezug auf die Zielgesellschaft auf Grund einer Vereinbarung oder in sonstiger Weise abstimmt; ausgenommen sind Vereinbarungen in Einzelfällen. Ein abgestimmtes Verhalten setzt voraus, dass der Bieter oder sein Tochterunternehmen und der Dritte sich über die Ausübung von Stimmrechten verständigen oder mit dem Ziel einer dauerhaften und erheblichen Änderung der unternehmerischen Ausrichtung der Zielgesellschaft in sonstiger Weise zusammenwirken. Für die Berechnung des Stimmrechtsanteils des Dritten gilt Absatz 1 entsprechend.
 
-(3) Für die Zurechnung nach dieser Vorschrift gilt ein Wertpapierdienstleistungsunternehmen hinsichtlich der Beteiligungen, die von ihm im Rahmen einer Wertpapierdienstleistung nach § 2 Abs. 3 Satz 1 Nr. 7 des Wertpapierhandelsgesetzes verwaltet werden, unter den folgenden Voraussetzungen nicht als Tochterunternehmen im Sinne des § 2 Abs. 6:
+(3) Für die Zurechnung nach dieser Vorschrift gilt ein Wertpapierdienstleistungsunternehmen hinsichtlich der Beteiligungen, die von ihm im Rahmen einer Wertpapierdienstleistung nach § 2 Absatz 3 Satz 1 Nummer 7 des Wertpapierhandelsgesetzes verwaltet werden, unter den folgenden Voraussetzungen nicht als Tochterunternehmen im Sinne des § 2 Absatz 6:
 
 1.  
-das Wertpapierdienstleistungsunternehmen darf die Stimmrechte, die mit den betreffenden Aktien verbunden sind, nur aufgrund von in schriftlicher Form oder über elektronische Hilfsmittel erteilten Weisungen ausüben oder stellt durch geeignete Vorkehrungen sicher, dass die Finanzportfolioverwaltung unabhängig von anderen Dienstleistungen und unter Bedingungen, die denen der Richtlinie 85/611/EWG des Rates vom 20. Dezember 1985 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmten Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) (ABl. EG Nr. L 375 S. 3), die zuletzt durch Artikel 9 der Richtlinie 2005/1/EG des Europäischen Parlaments und des Rates vom 9. März 2005 (ABl. EU Nr. L 79 S. 9) geändert worden ist, gleichwertig sind, erfolgt,
+das Wertpapierdienstleistungsunternehmen übt die Stimmrechte, die mit den betreffenden Aktien verbunden sind, unabhängig vom Bieter aus,
 
 2.  
-das Wertpapierdienstleistungsunternehmen übt die Stimmrechte unabhängig vom Bieter aus,
+das Wertpapierdienstleistungsunternehmen
+
+a)  
+darf die Stimmrechte nur aufgrund von in schriftlicher Form oder über elektronische Hilfsmittel erteilten Weisungen ausüben oder
+
+b)  
+stellt durch geeignete Vorkehrungen sicher, dass die Finanzportfolioverwaltung unabhängig von anderen Dienstleistungen und unter Bedingungen erfolgt, die gleichwertig sind denen der Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) (ABl. L 302 vom 17.11.2009, S. 32) in der jeweils geltenden Fassung,
 
 3.  
-der Bieter teilt der Bundesanstalt den Namen dieses Wertpapierdienstleistungsunternehmens und die für dessen Überwachung zuständige Behörde oder das Fehlen einer solchen mit und
+der Bieter teilt der Bundesanstalt den Namen des Wertpapierdienstleistungsunternehmens und die für dessen Überwachung zuständige Behörde oder das Fehlen einer solchen Behörde mit und
 
 4.  
-der Bieter erklärt gegenüber der Bundesanstalt, dass die Voraussetzungen der Nummer 2 erfüllt sind.
+der Bieter erklärt gegenüber der Bundesanstalt, dass die Voraussetzungen der Nummer 1 erfüllt sind.
 
-Ein Wertpapierdienstleistungsunternehmen gilt jedoch dann für die Zurechnung nach dieser Vorschrift als Tochterunternehmen im Sinne des § 2 Abs. 6, wenn der Bieter oder ein anderes Tochterunternehmen des Bieters seinerseits Anteile an der vom Wertpapierdienstleistungsunternehmen verwalteten Beteiligung hält und das Wertpapierdienstleistungsunternehmen die Stimmrechte, die mit diesen Beteiligungen verbunden sind, nicht nach freiem Ermessen, sondern nur aufgrund unmittelbarer oder mittelbarer Weisungen ausüben kann, die ihm vom Bieter oder von einem anderen Tochterunternehmen des Bieters erteilt werden.
+(4) Für die Zurechnung nach dieser Vorschrift gelten Kapitalverwaltungsgesellschaften im Sinne des § 17 Absatz 1 des Kapitalanlagegesetzbuchs und EU-Verwaltungsgesellschaften im Sinne des § 1 Absatz 17 des Kapitalanlagegesetzbuchs hinsichtlich der Beteiligungen, die zu den von ihnen verwalteten Investmentvermögen gehören, unter den folgenden Voraussetzungen nicht als Tochterunternehmen im Sinne des § 2 Absatz 6:
 
-(4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über die Umstände erlassen, unter denen im Falle des Absatzes 3 eine Unabhängigkeit des Wertpapierdienstleistungsunternehmens vom Bieter gegeben ist.
+1.  
+die Verwaltungsgesellschaft übt ihre Stimmrechte unabhängig vom Bieter aus,
+
+2.  
+die zum verwalteten Investmentvermögen gehörenden Beteiligungen im Sinne der §§ 29 und 30 werden nach Maßgabe der Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) (ABl. L 302 vom 17.11.2009, S. 32), die zuletzt durch die Richtlinie 2014/91/EU (ABl. L 257 vom 28.8.2014, S. 186) geändert worden ist, verwaltet,
+
+3.  
+das Mutterunternehmen teilt der Bundesanstalt den Namen dieser Verwaltungsgesellschaft und die für deren Überwachung zuständige Behörde oder das Fehlen einer solchen mit und
+
+4.  
+das Mutterunternehmen erklärt gegenüber der Bundesanstalt, dass die Voraussetzungen der Nummer 1 erfüllt sind.
+
+(5) Ein Unternehmen mit Sitz in einem Drittstaat, das nach § 32 Absatz 1 Satz 1 in Verbindung mit § 1 Absatz 1a Satz 2 Nummer 3 des Kreditwesengesetzes einer Zulassung für die Finanzportfolioverwaltung oder einer Erlaubnis nach § 20 oder § 113 des Kapitalanlagegesetzbuchs bedürfte, wenn es seinen Sitz oder seine Hauptverwaltung im Inland hätte, gilt nicht als Tochterunternehmen im Sinne dieses Abschnitts, wenn
+
+1.  
+das Unternehmen bezüglich seiner Unabhängigkeit Anforderungen genügt, die denen nach Absatz 3 oder Absatz 4, auch in Verbindung mit einer Rechtsverordnung nach Absatz 7, jeweils gleichwertig sind,
+
+2.  
+der Bieter der Bundesanstalt den Namen dieses Unternehmens und die für dessen Überwachung zuständige Behörde oder das Fehlen einer solchen Behörde mitteilt und
+
+3.  
+der Bieter gegenüber der Bundesanstalt erklärt, dass die Voraussetzungen der Nummer 1 erfüllt sind.
+
+(6) Abweichend von den Absätzen 3 bis 5 gelten Wertpapierdienstleistungsunternehmen und Verwaltungsgesellschaften jedoch dann als Tochterunternehmen im Sinne des § 2 Absatz 6, wenn
+
+1.  
+der Bieter oder ein anderes Tochterunternehmen des Bieters seinerseits Anteile an der von dem Unternehmen verwalteten Beteiligung hält und
+
+2.  
+das Unternehmen die Stimmrechte, die mit diesen Beteiligungen verbunden sind, nicht nach freiem Ermessen, sondern nur auf Grund unmittelbarer oder mittelbarer Weisungen ausüben kann, die ihm vom Bieter oder von einem anderen Tochterunternehmen des Bieters erteilt werden.
+
+(7) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über die Umstände, unter denen in den Fällen der Absätze 3 bis 6 eine Unabhängigkeit des Unternehmens vom Bieter gegeben ist.
 
 ### § 31 Gegenleistung
 
@@ -828,7 +878,7 @@ Abschnitt 5a Ausschluss, Andienungsrecht
 
 ### § 39b Ausschlussverfahren
 
-(1) Auf das Verfahren für den Ausschluss nach § 39a ist das Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit anzuwenden, soweit in den Absätzen 2 bis 5 nichts anderes bestimmt ist.
+(1) Auf das Verfahren für den Ausschluss nach § 39a ist das Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit anzuwenden, soweit in den nachfolgenden Absätzen nichts anderes bestimmt ist.
 
 (2) Das Landgericht hat den Antrag auf Ausschluss nach § 39a in den Gesellschaftsblättern bekannt zu machen.
 
@@ -838,7 +888,7 @@ Abschnitt 5a Ausschluss, Andienungsrecht
 
 (5) Die Entscheidung ist erst mit Rechtskraft wirksam. Sie wirkt für und gegen alle Aktionäre. Mit rechtskräftiger Entscheidung gehen alle Aktien der übrigen Aktionäre auf den zum Ausschluss berechtigten Aktionär über. Sind über diese Aktien Aktienurkunden ausgegeben, so verbriefen sie bis zu ihrer Aushändigung nur den Anspruch auf eine angemessene Abfindung. Der Vorstand der Zielgesellschaft hat die rechtskräftige Entscheidung unverzüglich zum Handelsregister einzureichen.
 
-(6) Für die Kosten des Verfahrens gilt die Kostenordnung. Für das Verfahren des ersten Rechtszugs wird das Vierfache der vollen Gebühr erhoben. Für das Verfahren über ein Rechtsmittel wird die gleiche Gebühr erhoben; dies gilt auch dann, wenn das Rechtsmittel Erfolg hat. Wird der Antrag oder das Rechtsmittel vor Ablauf des Tages zurückgenommen, an dem die Entscheidung der Geschäftsstelle übermittelt wird, so ermäßigt sich die Gebühr auf die Hälfte. Als Geschäftswert ist der Betrag anzunehmen, der dem Wert aller Aktien entspricht, auf die sich der Ausschluss bezieht; er beträgt mindestens 200 000 und höchstens 7,5 Millionen Euro. Maßgeblicher Zeitpunkt für die Bestimmung des Werts ist der Zeitpunkt der Antragstellung. Schuldner der Gerichtskosten ist nur der Antragsteller. Das Gericht ordnet an, dass die Kosten der Antragsgegner, die zur zweckentsprechenden Erledigung der Angelegenheit notwendig waren, ganz oder zum Teil vom Antragsteller zu erstatten sind, wenn dies der Billigkeit entspricht.
+(6) Das Gericht ordnet an, dass die Kosten der Antragsgegner, die zur zweckentsprechenden Erledigung der Angelegenheit notwendig waren, ganz oder zum Teil vom Antragsteller zu erstatten sind, wenn dies der Billigkeit entspricht. Gerichtskosten für das Verfahren erster Instanz können dem Antragsgegner nicht auferlegt werden.
 
 ### § 39c Andienungsrecht
 
@@ -889,9 +939,9 @@ Anträge und Mitteilungen an die Bundesanstalt haben in schriftlicher Form zu er
 
 Die Bundesanstalt kann Verfügungen, die nach diesem Gesetz ergehen, mit Zwangsmitteln nach den Bestimmungen des Verwaltungs-Vollstreckungsgesetzes durchsetzen. Sie kann auch Zwangsmittel gegen juristische Personen des öffentlichen Rechts anwenden. Widerspruch und Beschwerde gegen die Androhung und Festsetzung der Zwangsmittel nach den §§ 13 und 14 des Verwaltungs-Vollstreckungsgesetzes haben keine aufschiebende Wirkung. Die Höhe des Zwangsgeldes beträgt abweichend von § 11 des Verwaltungs-Vollstreckungsgesetzes bis zu 500.000 Euro.
 
-### § 47 Kosten
+### § 47 Gebühren und Auslagen
 
-Die Bundesanstalt erhebt für Amtshandlungen auf Grund von § 10 Abs. 2 Satz 3, §§ 14 und 15 Abs. 1 oder 2, §§ 20, 24, 28 Abs. 1, §§ 36, 37 Abs. 1, auch in Verbindung mit einer Rechtsverordnung nach Abs. 2, oder §41 in Verbindung mit § 6 Kosten (Gebühren und Auslagen). Das Bundesministerium der Finanzen bestimmt die Kostentatbestände im Einzelnen und die Höhe der Kosten durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
+Die Bundesanstalt erhebt für individuell zurechenbare öffentliche Leistungen auf Grund des § 10 Absatz 2 Satz 3, der §§ 14 und 15 Absatz 1 oder 2, der §§ 20, 24, 28 Absatz 1, der §§ 36, 37 Absatz 1, auch in Verbindung mit einer Rechtsverordnung nach Absatz 2, oder des § 41 in Verbindung mit § 6 Gebühren und Auslagen. Das Bundesministerium der Finanzen bestimmt die Gebührentatbestände im Einzelnen und die Höhe der Gebühren durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 Abschnitt 7 Rechtsmittel
 ------------------------
@@ -1008,7 +1058,7 @@ Abschnitt 8 Sanktionen
 
 ### § 59 Rechtsverlust
 
-Rechte aus Aktien, die dem Bieter, mit ihm gemeinsam handelnden Personen oder deren Tochterunternehmen gehören oder aus denen ihm, mit ihm gemeinsam handelnden Personen oder deren Tochterunternehmen Stimmrechte gemäß § 30 Abs. 1 Satz 1 Nr. 2 zugerechnet werden, bestehen nicht für die Zeit, für welche die Pflichten nach § 35 Abs. 1 oder 2 nicht erfüllt werden. Dies gilt nicht für Ansprüche nach § 58 Abs. 4 des Aktiengesetzes und § 271 des Aktiengesetzes, wenn die Veröffentlichung oder das Angebot nach § 35 Abs. 1 Satz 1 oder Abs. 2 Satz 1 nicht vorsätzlich unterlassen wurde und nachgeholt worden ist.
+Rechte aus Aktien, die dem Bieter, mit ihm gemeinsam handelnden Personen oder deren Tochterunternehmen gehören oder aus denen ihm, mit ihm gemeinsam handelnden Personen oder deren Tochterunternehmen Stimmrechte gemäß § 30 Absatz 1 und 2 zugerechnet werden, bestehen nicht für die Zeit, für welche die Pflichten nach § 35 Abs. 1 oder 2 nicht erfüllt werden. Dies gilt nicht für Ansprüche nach § 58 Abs. 4 des Aktiengesetzes und § 271 des Aktiengesetzes, wenn die Veröffentlichung oder das Angebot nach § 35 Abs. 1 Satz 1 oder Abs. 2 Satz 1 nicht vorsätzlich unterlassen wurde und nachgeholt worden ist.
 
 ### § 60 Bußgeldvorschriften
 
