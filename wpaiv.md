@@ -2,7 +2,7 @@ Verordnung zur Konkretisierung von Anzeige-, Mitteilungs- und Veröffentlichungs
 =========================================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 26.6.2012 I 1375
+Zuletzt geändert durch Art. 11 G v. 20.11.2015 I 2029
 
 ### 
 
@@ -182,7 +182,7 @@ mitzuteilen.
 
 ### § 3b Sprache der Veröffentlichung
 
-(1) Emittenten, deren Sitz im Ausland ist, oder Emittenten, für die die Bundesrepublik Deutschland der Herkunftsstaat nach § 2 Abs. 6 Nr. 3 Buchstabe a des Wertpapierhandelsgesetzes ist oder die bei der Bundesanstalt einen Prospekt in englischer Sprache für die Wertpapiere, auf die sich die Information bezieht, hinterlegt haben, können die Veröffentlichung ausschließlich in englischer Sprache vornehmen. Im Übrigen gelten die Absätze 2 bis 4.
+(1) Emittenten, deren Sitz im Ausland ist, oder Emittenten, für die die Bundesrepublik Deutschland der Herkunftsstaat nach § 2 Absatz 6 Nummer 2 Buchstabe a des Wertpapierhandelsgesetzes ist oder die bei der Bundesanstalt einen Prospekt in englischer Sprache für die Wertpapiere, auf die sich die Information bezieht, hinterlegt haben, können die Veröffentlichung ausschließlich in englischer Sprache vornehmen. Im Übrigen gelten die Absätze 2 bis 4.
 
 (2) Sind Wertpapiere eines Emittenten, für den die Bundesrepublik Deutschland nach § 2 Abs. 6 des Wertpapierhandelsgesetzes der Herkunftsstaat ist, lediglich zum Handel an einem organisierten Markt im Inland zugelassen, so ist die Information in deutscher Sprache zu veröffentlichen. Sind die Wertpapiere zum Handel an einem organisierten Markt im Inland und in einem oder mehreren anderen Mitgliedstaaten der Europäischen Union oder in einem oder mehreren anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zugelassen, so ist die Information in deutscher oder englischer Sprache und nach Wahl des Emittenten in einer Sprache, die von den zuständigen Behörden der betreffenden Mitgliedstaaten der Europäischen Union oder der betreffenden Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum akzeptiert wird, oder in englischer Sprache zu veröffentlichen.
 
@@ -526,107 +526,23 @@ Unterabschnitt 5 Veröffentlichung und Mitteilung bei Veränderungen des Stimmre
 
 ### § 17 Inhalt der Mitteilung
 
-(1) Die Mitteilungen nach § 21 Abs. 1 Satz 1 und Abs. 1a des Wertpapierhandelsgesetzes haben zu enthalten:
+(1) Für eine Mitteilung nach § 21 Absatz 1, 1a, § 25 Absatz 1 und § 25a Absatz 1 des Wertpapierhandelsgesetzes ist das Formular der Anlage dieser Verordnung zu verwenden.
 
-1.  
-die deutlich hervorgehobene Überschrift "Stimmrechtsmitteilung",
+(2) Im Fall von § 24 Absatz 1 des Wertpapierhandelsgesetzes genügt zur Erfüllung der Mitteilungspflicht des Tochterunternehmens die Abgabe einer Mitteilung durch das Mutterunternehmen des meldepflichtigen Tochterunternehmens gemäß dem Formular der Anlage dieser Verordnung.
 
-2.  
-den Namen und die Anschrift des Mitteilungspflichtigen,
+(3) Für die Zwecke der Berechnung des Stimmrechtsanteils ist die letzte Veröffentlichung nach § 26a des Wertpapierhandelsgesetzes zugrunde zu legen.
 
-3.  
-den Namen und die Anschrift des Emittenten,
+### § 17a Berechnung des Stimmrechtsanteils für die Mitteilung nach § 25 Absatz 1 Satz 1 des Wertpapierhandelsgesetzes
 
-4.  
-die Schwelle, die berührt wurde, sowie die Angabe, ob die Schwelle überschritten, unterschritten oder erreicht wurde,
-
-5.  
-die Höhe des nunmehr gehaltenen Stimmrechtsanteils in Bezug auf die Gesamtmenge der Stimmrechte des Emittenten, auch wenn die Ausübung dieser Stimmrechte ausgesetzt ist, und in Bezug auf alle mit Stimmrechten versehenen Aktien ein und derselben Gattung sowie
-
-6.  
-das Datum des Überschreitens, Unterschreitens oder Erreichens der Schwelle.
-
-(2) Zusätzlich hat im Fall der Zurechnung von Stimmrechten nach § 22 Abs. 1 und 2 des Wertpapierhandelsgesetzes die Mitteilung nach Absatz 1 zu enthalten:
-
-1.  
-den Namen des Dritten, aus dessen Aktien dem Mitteilungspflichtigen Stimmrechte zugerechnet werden, wenn dessen zugerechneter Stimmrechtsanteil jeweils 3 Prozent oder mehr beträgt,
-
-2.  
-gegebenenfalls die Namen der kontrollierten Unternehmen, über die die Stimmrechte tatsächlich gehalten werden, wenn deren zugerechneter Stimmrechtsanteil jeweils 3 Prozent oder mehr beträgt.
-
-Die zuzurechnenden Stimmrechte sind in den Mitteilungen nach § 21 Abs. 1 und 1a des Wertpapierhandelsgesetzes für jede der Nummern in § 22 Abs. 1 und für § 22 Abs. 2 Satz 1 des Wertpapierhandelsgesetzes getrennt anzugeben.
-
-(3) Die Mitteilung nach § 25 Abs. 1 Satz 1 des Wertpapierhandelsgesetzes hat neben den Angaben des Absatzes 1 Nr. 1, 2, 4 und 6 zu enthalten:
-
-1.  
-den Namen und die Anschrift des Emittenten der Aktien, die mit den Finanzinstrumenten oder sonstigen Instrumenten erworben werden können,
-
-2.  
-die Summe des Anteils aus gehaltenen Stimmrechten und des Anteils an Stimmrechten, der bestände, wenn der Mitteilungspflichtige statt der Finanzinstrumente oder sonstigen Instrumente die Aktien hielte, die auf Grund der förmlichen Vereinbarung erworben werden können, sowie die Angabe, ob die Schwelle mit der Summe überschritten, unterschritten oder erreicht wurde; die Angabe des Stimmrechtsanteils muss sich auf die Gesamtmenge der Stimmrechte des Emittenten beziehen,
-
-2a.  
-die Höhe des Stimmrechtsanteils, der bestände, wenn der Mitteilungspflichtige statt der Finanzinstrumente oder sonstigen Instrumente die Aktien hielte, die auf Grund der förmlichen Vereinbarung erworben werden können; die Angabe des Stimmrechtsanteils muss sich auf die Gesamtmenge der Stimmrechte des Emittenten beziehen,
-
-2b.  
-die Höhe des gehaltenen Stimmrechtsanteils in Bezug auf die Gesamtmenge der Stimmrechte des Emittenten, auch wenn die Ausübung dieser Stimmrechte ausgesetzt ist, und in Bezug auf alle mit Stimmrechten versehenen Aktien ein und derselben Gattung,
-
-3.  
-gegebenenfalls die Kette der kontrollierten Unternehmen, über die die Finanzinstrumente oder sonstigen Instrumente gehalten werden,
-
-4.  
-(weggefallen)
-
-5.  
-bei Finanzinstrumenten oder sonstigen Instrumenten mit einem bestimmten Ausübungszeitraum einen Hinweis auf den Zeitpunkt, an dem die Aktien erworben werden sollen oder können, und
-
-6.  
-das Datum der Fälligkeit oder des Verfalls der Finanzinstrumente oder sonstigen Instrumente.
-
-(4) Die Mitteilung nach § 25a Absatz 1 Satz 1 des Wertpapierhandelsgesetzes hat neben den Angaben des Absatzes 1 Nummer 2, 4 und 6 zu enthalten:
-
-1.  
-den Namen und die Anschrift des Emittenten der Aktien, die mit den Finanzinstrumenten oder sonstigen Instrumenten erworben werden können,
-
-2.  
-die Summe des Anteils aus gehaltenen Stimmrechten, des Anteils an Stimmrechten, der bestünde, wenn der Mitteilungspflichtige statt der Finanzinstrumente oder sonstigen Instrumente die Aktien hielte, die auf Grund der förmlichen Vereinbarung erworben werden können, und die Höhe des Stimmrechtsanteils, der bestünde, wenn der Mitteilungspflichtige statt der Finanzinstrumente oder sonstigen Instrumente die Aktien hielte, deren Erwerb die Finanzinstrumente oder sonstigen Instrumente ermöglichen; sowie die Angabe, ob die Schwelle mit der Summe überschritten, unterschritten oder erreicht wurde; die Angabe des Stimmrechtsanteils muss sich auf die Gesamtmenge der Stimmrechte des Emittenten beziehen,
-
-3.  
-die Höhe des Stimmrechtsanteils, der bestünde, wenn der Mitteilungspflichtige statt der Finanzinstrumente oder sonstigen Instrumente die Aktien hielte, die auf Grund der förmlichen Vereinbarung erworben werden können; die Angabe des Stimmrechtsanteils muss sich auf die Gesamtmenge der Stimmrechte des Emittenten beziehen,
-
-4.  
-die Höhe des gehaltenen Stimmrechtsanteils in Bezug auf die Gesamtmenge der Stimmrechte des Emittenten, auch wenn die Ausübung dieser Stimmrechte ausgesetzt ist, und in Bezug auf alle mit Stimmrechten versehenen Aktien ein und derselben Gattung,
-
-5.  
-die Höhe des Stimmrechtsanteils, der bestünde, wenn der Mitteilungspflichtige statt der Finanzinstrumente oder sonstigen Instrumente die Aktien hielte, deren Erwerb die Finanzinstrumente oder sonstigen Instrumente ermöglichen; die Angabe des Stimmrechtsanteils muss sich auf die Gesamtmenge der Stimmrechte des Emittenten beziehen,
-
-6.  
-gegebenenfalls die Kette der kontrollierten Unternehmen, über die die Finanzinstrumente oder sonstigen Instrumente gehalten werden,
-
-7.  
-das Datum der Fälligkeit oder des Verfalls der Finanzinstrumente oder sonstigen Instrumente und
-
-8.  
-gegebenenfalls die International Securities Identification Number (ISIN) des Finanzinstruments oder sonstigen Instruments.
-
-(5) Für die Zwecke der Berechnung des Stimmrechtsanteils ist die letzte Veröffentlichung nach § 26a des Wertpapierhandelsgesetzes zugrunde zu legen.
-
-### § 17a Berechnung des Stimmrechtsanteils für die Mitteilung nach § 25a Absatz 1 Satz 1 des Wertpapierhandelsgesetzes
-
-In die Berechnung des Stimmrechtsanteils nach § 25a Absatz 2 des Wertpapierhandelsgesetzes sind nicht einzubeziehen:
-
-1.  
-Finanzinstrumente und sonstige Instrumente im Sinne des § 25a Absatz 1 Satz 1 des Wertpapierhandelsgesetzes, die sich auf eigene Aktien eines Emittenten, für den die Bundesrepublik Deutschland der Herkunftsstaat ist, beziehen und es diesem aufgrund ihrer Ausgestaltung ermöglichen, solche Aktien zu erwerben, und
-
-2.  
-Anteile von Aktien eines Emittenten, für den die Bundesrepublik Deutschland der Herkunftsstaat ist, an Aktienkörben (Baskets) und Indizes, wenn bei der Berechnung des Preises des Finanzinstruments oder sonstigen Instruments im Sinne des § 25a Absatz 1 Satz 1 des Wertpapierhandelsgesetzes zum jeweiligen Erwerbszeitpunkt die Aktien mit höchstens 20 Prozent Berücksichtigung finden.
+Nicht einzubeziehen in die Berechnung des Stimmrechtsanteils nach § 25 Absatz 3 des Wertpapierhandelsgesetzes sind Instrumente im Sinne des § 25 Absatz 1 Satz 1 des Wertpapierhandelsgesetzes, die sich auf eigene Aktien eines Emittenten, für den die Bundesrepublik Deutschland der Herkunftsstaat ist, beziehen und es diesem Emittenten auf Grund ihrer Ausgestaltung ermöglichen, solche Aktien zu erwerben.
 
 ### § 18 Art, Form und Sprache der Mitteilung
 
-Mitteilungen nach § 21 Abs. 1 Satz 1, Abs. 1a, § 25 Abs. 1 Satz 1 und § 25a Absatz 1 Satz 1 des Wertpapierhandelsgesetzes sind schriftlich oder mittels Telefax in deutscher oder englischer Sprache an den Emittenten und die Bundesanstalt zu übersenden.
+Mitteilungen nach § 21 Abs. 1 Satz 1, Abs. 1a, § 25 Abs. 1 Satz 1 und § 25a Absatz 1 Satz 1 des Wertpapierhandelsgesetzes sind schriftlich oder mittels Telefax in deutscher oder englischer Sprache an den Emittenten und die Bundesanstalt zu übersenden. Der Übersendung nach Satz 1 steht es gleich, wenn die Mitteilung über ein von der Bundesanstalt zur Verfügung gestelltes elektronisches Verfahren zur Abgabe von Mitteilungen erfolgt.
 
-### § 19 Inhalt der Veröffentlichung
+### § 19 Inhalt und Format der Veröffentlichung
 
-Die Veröffentlichung nach § 26 Abs. 1 Satz 1 des Wertpapierhandelsgesetzes muss die Angaben der Mitteilung enthalten; der Mitteilungspflichtige ist mit vollständigem Namen, Sitz und Staat, in dem sich sein Wohnort oder Sitz befindet, anzugeben.
+Die Veröffentlichung nach § 26 Absatz 1 Satz 1 des Wertpapierhandelsgesetzes muss die Angaben der Mitteilung an den Emittenten gemäß dem Formular der Anlage zu dieser Verordnung enthalten und in dem dort vorgegebenen Format erfolgen.
 
 ### § 20 Art und Sprache der Veröffentlichung
 
@@ -643,15 +559,15 @@ Unterabschnitt 6 Veröffentlichung und Inhalt von Finanzberichten
 
 ### § 22 Art und Sprache der Veröffentlichung
 
-Für die Art und Sprache der Veröffentlichung der Bekanntmachung nach § 37v Abs. 1 Satz 2, § 37w Abs. 1 Satz 2 und § 37x Abs. 1 Satz 2 des Wertpapierhandelsgesetzes gelten die §§ 3a und 3b.
+Für die Art und Sprache der Veröffentlichung der Bekanntmachung nach § 37v Abs. 1 Satz 2, § 37w Abs. 1 Satz 2 und § 37x Abs. 1 Satz 2 des Wertpapierhandelsgesetzes gelten die §§ 3a und 3b. Für die Informationen nach § 37v Absatz 2 und § 37w Absatz 2 des Wertpapierhandelsgesetzes sowie für die Zahlungs- oder Konzernzahlungsberichte gemäß § 37x des Wertpapierhandelsgesetzes gilt § 3b.
 
 ### § 23 Mitteilung der Veröffentlichung
 
 Für die Mitteilung des Unternehmens über die Veröffentlichung der Bekanntmachung an die Bundesanstalt nach § 37v Abs. 1 Satz 3, § 37w Abs. 1 Satz 3 und § 37x Abs. 1 Satz 3 des Wertpapierhandelsgesetzes gilt § 3c.
 
-### § 24 Verfügbarkeit der Finanzberichte
+### § 24 Verfügbarkeit der Finanzberichte und Zahlungsberichte
 
-Die Informationen im Sinn von § 37v Abs. 2 und § 37w Abs. 2 des Wertpapierhandelsgesetzes müssen für mindestens fünf Jahre im Unternehmensregister der Öffentlichkeit zugänglich sein.
+Die Informationen nach § 37v Absatz 2 und § 37w Absatz 2 des Wertpapierhandelsgesetzes sowie die Zahlungs- oder Konzernzahlungsberichte gemäß § 37x des Wertpapierhandelsgesetzes und die Zahlungsberichte gemäß § 341s des Handelsgesetzbuchs müssen im Unternehmensregister für mindestens zehn Jahre der Öffentlichkeit zugänglich sein.
 
 Unterabschnitt 7 Wahl des Herkunftsstaates
 ------------------------------------------
@@ -660,7 +576,7 @@ Unterabschnitt 7 Wahl des Herkunftsstaates
 
 ### § 25 Art der Veröffentlichung
 
-Die Wahl der Bundesrepublik Deutschland als Herkunftsstaat nach § 2b des Wertpapierhandelsgesetzes ist nach Maßgabe des § 3a zu veröffentlichen.
+Die Wahl der Bundesrepublik Deutschland als Herkunftsstaat nach den §§ 2b und 2c des Wertpapierhandelsgesetzes ist nach Maßgabe des § 3a zu veröffentlichen.
 
 Unterabschnitt 8 Veröffentlichung zusätzlicher Angaben
 ------------------------------------------------------
@@ -679,3 +595,211 @@ Abschnitt 4 Inkrafttreten
 ### § 27 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+
+### Anlage (zu § 17 Absatz 1 bis 3)
+
+(Fundstelle: BGBl I 2015, 2045 - 2046)
+
+**Stimmrechtsmitteilung**
+
+an die BaFin per Fax (+49(0)228 4108-3119) oder per Post (BaFin, Referat WA 12 / WA 13,
+Marie-Curie-Str. 24–28, 60439 Frankfurt am Main) und an den Emittenten
+
+<table>
+<tbody>
+<tr class="odd">
+<td> ⃞ <strong>Stimmrechtsmitteilung</strong><br />
+oder<br />
+ ⃞ <strong>Korrektur</strong> einer am       veröffentlichten Stimmrechtsmitteilung</td>
+</tr>
+<tr class="even">
+<td><strong>1. Angaben zum Emittenten</strong> (Name, Anschrift)<br />
+</td>
+</tr>
+<tr class="odd">
+<td><strong>2. Grund der Mitteilung</strong> (mehrere Angaben möglich)<br />
+ ⃞  Erwerb/Veräußerung von Aktien mit Stimmrechten<br />
+ ⃞  Erwerb/Veräußerung von Instrumenten<br />
+ ⃞  Änderung der Gesamtzahl der Stimmrechte<br />
+ ⃞  Sonstiger Grund:</td>
+</tr>
+<tr class="even">
+<td><strong>3. Angaben zum Mitteilungspflichtigen</strong><br />
+<br />
+</td>
+</tr>
+<tr class="odd">
+<td>Name:</td>
+</tr>
+<tr class="even">
+<td><strong>4. Namen der Aktionäre</strong> mit 3 % oder mehr Stimmrechten, wenn abweichend von 3.<br />
+</td>
+</tr>
+<tr class="odd">
+<td><strong>5. Datum der Schwellenberührung</strong><br />
+</td>
+</tr>
+<tr class="even">
+<td><strong>6. Gesamtstimmrechtsanteile</strong></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td>neu</td>
+</tr>
+<tr class="odd">
+<td>letzte Mitteilung</td>
+</tr>
+<tr class="even">
+<td><strong>7. Einzelheiten zu den Stimmrechtsbeständen</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>a. Stimmrechte (§§ 21, 22 WpHG)</strong></td>
+</tr>
+<tr class="even">
+<td>ISIN</td>
+</tr>
+<tr class="odd">
+<td>direkt<br />
+(§ 21 WpHG)</td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Summe</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>b.1. Instrumente i. S. d. § 25 Abs. 1 Nr. 1 WpHG</strong> (bitte Anlage verwenden bei mehr als 3 Instrumenten)</td>
+</tr>
+<tr class="even">
+<td>Art des Instruments</td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>b.2. Instrumente i. S. d. § 25 Abs. 1 Nr. 2 WpHG</strong> (bitte Anlage verwenden bei mehr als 3 Instrumenten)</td>
+</tr>
+<tr class="even">
+<td>Art des<br />
+Instruments</td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>8. Informationen in Bezug auf den Mitteilungspflichtigen</strong> (bitte Zutreffendes ankreuzen)</td>
+</tr>
+<tr class="even">
+<td> ⃞  Mitteilungspflichtiger (3.) wird weder beherrscht noch beherrscht Mitteilungspflichtiger andere Unternehmen mit melderelevanten Stimmrechten des Emittenten (1.).</td>
+</tr>
+<tr class="odd">
+<td> ⃞  Vollständige Kette der Tochterunternehmen beginnend mit der obersten beherrschenden Person oder dem oberstem beherrschenden Unternehmen (bitte Anlage verwenden bei mehr als 4 Unternehmen; in diesem Fall bitte der Mitteilung an die BaFin auch immer ein Organigramm beifügen):</td>
+</tr>
+<tr class="even">
+<td>Unternehmen</td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>9. Bei Vollmacht gemäß § 22 Abs. 3 WpHG</strong><br />
+(nur möglich bei einer Zurechnung nach § 22 Abs. 1 Satz 1 Nr. 6 WpHG)<br />
+Datum der Hauptversammlung:<br />
+Gesamtstimmrechtsanteil nach der Hauptversammlung:   % (entspricht Stimmrechten)</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><br />
+,</td>
+</tr>
+<tr class="even">
+<td>Datum,</td>
+<td>Unterschrift</td>
+</tr>
+</tbody>
+</table>
+
+**Annex (nur für BaFin)**
+
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>1. Angaben zum Mitteilungspflichtigen:</strong></td>
+</tr>
+<tr class="even">
+<td>Anschrift:</td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td>Ansprechpartner:<br />
+Telefon:<br />
+Telefax:<br />
+E-Mail:         @</td>
+</tr>
+<tr class="odd">
+<td><strong>2. Angaben zum Absender</strong>(wenn nicht identisch mit Mitteilungspflichtigen):</td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td>Name:<br />
+Unternehmen:<br />
+Anschrift:<br />
+Telefon:<br />
+Telefax:<br />
+E-Mail:         @</td>
+</tr>
+<tr class="even">
+<td><strong>3. Sonstige Erläuterungen:</strong></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
