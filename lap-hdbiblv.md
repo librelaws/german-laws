@@ -2,7 +2,7 @@ Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren Dienst 
 =======================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 Abs. 18 V v. 12.2.2009 I 320
+Zuletzt geändert durch Art. 5 G v. 20.11.2015 I 2010
 
 ### 
 
@@ -158,7 +158,7 @@ ein amtsärztliches Gesundheitszeugnis oder ein Gesundheitszeugnis einer beamtet
 eine Ausfertigung der Geburtsurkunde, auf Verlangen auch einen Nachweis der Staatsangehörigkeit,
 
 3.  
-gegebenenfalls Ausfertigungen der Eheurkunde und der Geburtsurkunden der Kinder,
+gegebenenfalls Ausfertigungen der Eheurkunde oder der Lebenspartnerschaftsurkunde und der Geburtsurkunden der Kinder,
 
 4.  
 ein Führungszeugnis nach § 30 des Bundeszentralregistergesetzes zur unmittelbaren Vorlage bei der Einstellungsbehörde und
