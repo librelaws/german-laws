@@ -2,7 +2,7 @@ Heimarbeitsgesetz ()
 ====================
 
 Stand  
-Zuletzt geändert durch Art. 225 V v. 31.10.2006 I 2407
+Zuletzt geändert durch Art. 26 G v. 20.11.2015 I 2010
 
 ### 
 
@@ -63,10 +63,10 @@ a)
 Ehegatten und Lebenspartner der in Heimarbeit Beschäftigten (§ 1 Abs. 1) oder der nach § 1 Abs. 2 Buchstabe a Gleichgestellten;
 
 b)  
-Personen, die mit dem in Heimarbeit Beschäftigten oder nach § 1 Abs. 2 Buchstabe a Gleichgestellten oder deren Ehegatten bis zum dritten Grad verwandt oder verschwägert sind;
+Personen, die mit dem in Heimarbeit Beschäftigten oder nach § 1 Abs. 2 Buchstabe a Gleichgestellten oder deren Ehegatten oder Lebenspartner bis zum dritten Grad verwandt oder verschwägert sind;
 
 c)  
-Mündel, Betreute und Pflegekinder des in Heimarbeit Beschäftigten oder nach § 1 Abs. 2 Buchstabe a Gleichgestellten oder deren Ehegatten sowie Kinder oder Jugendliche, die sich bei einem in Heimarbeit Beschäftigten oder nach § 1 Abs. 2 Buchstabe a Gleichgestellten oder deren Ehegatten in freiwilliger Erziehungshilfe oder Fürsorgeerziehung befinden.
+Mündel, Betreute und Pflegekinder des in Heimarbeit Beschäftigten oder nach § 1 Absatz 2 Buchstabe a Gleichgestellten oder deren Ehegatten oder Lebenspartner sowie Mündel, Betreute und Pflegekinder des Ehegatten oder Lebenspartners des in Heimarbeit Beschäftigten oder nach § 1 Absatz 2 Buchstabe a Gleichgestellten.
 
 (6) Fremde Hilfskraft im Sinne dieses Gesetzes ist, wer als Arbeitnehmer eines Hausgewerbetreibenden oder nach § 1 Abs. 2 Buchstaben b und c Gleichgestellten in deren Arbeitsstätte beschäftigt ist.
 
