@@ -2,7 +2,7 @@ Beurkundungsgesetz ()
 =====================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 15.7.2013 I 2378
+Zuletzt geändert durch Art. 3 G v. 23.11.2015 I 2090
 
 ### 
 
@@ -645,7 +645,7 @@ a) Bundesrecht
 
 (1) u. (2) (Änderungsvorschriften)
 
-(3) In §§ 1410, 1750 des Bürgerlichen Gesetzbuchs werden die Worte "vor Gericht oder vor einem Notar" durch die Worte "zur Niederschrift eines Notars" ersetzt. § 2356 Abs. 2 Satz 1 des Bürgerlichen Gesetzbuchs bleibt unberührt.
+(3) (weggefallen)
 
 (4) Auch wenn andere Vorschriften des bisherigen Bundesrechts die gerichtliche oder notarielle Beurkundung oder Beglaubigung oder die Erklärung vor einem Gericht oder Notar vorsehen, ist nur der Notar zuständig.
 
