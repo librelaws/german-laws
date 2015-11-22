@@ -2,16 +2,19 @@ Bundesnotarordnung (BNotO)
 ==========================
 
 Stand  
-Zuletzt geändert durch Art. 15 G v. 6.12.2011 I 2515
+Zuletzt geändert durch Art. 1 G v. 23.11.2015 I 2090
+
+Sonst  
+Mittelbare Änderung durch Art. 2 G v. 23.11.2015 I 2090 berücksichtigt
 
 ### 
 
 ```
-(+++ Textnachweis Geltung ab: 24. 8.1975 +++)
+(+++ Textnachweis Geltung ab: 24.8.1975 +++)
 (+++ Maßgaben für beigetr. Teil des Landes Berlin vgl. BNotO Anhang EV +++)
 ```
 
-Das G gilt nicht im Oberlandesgerichtsbezirk Karlsruhe gem. § 115 Satz 1.
+Das G gilt nicht im Oberlandesgerichtsbezirk Karlsruhe gem. § 115 Satz 1; § 115 aufgeh. durch Art. 1 G v. 15.7.2009 I 1798
 Das G ist in den beigetretenen fünf Ländern (Art. 1 Abs. 1 EinigVtr) abweichend von Anl. I Kap. III Sachg. A Abschn. I Nr. 8 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 921 gem. Art. 13 Abs. 1 nach Maßgabe d. Abs. 2 bis 11 G v. 31.8.1998 I 2585 mWv 8.9.1998 I (BNotOuaÄndG 3) in Kraft getreten; es gilt gem. Anl. I Kap. III Sachg. A Abschn. IV Nr. 1 Buchst. b EinigVtr im beigetretenen Teil des Landes Berlin mit Maßgaben.
 
 ### Inhaltsübersicht
@@ -148,7 +151,7 @@ nach Ableistung des dreijährigen Anwärterdienstes sich ohne hinreichenden Grun
 
 (3) Die notarielle Fachprüfung dient der Bestenauslese. Die Einheitlichkeit der Prüfungsanforderungen und der Leistungsbewertung ist zu gewährleisten. Die Prüfung kann an verschiedenen Orten durchgeführt werden.
 
-(4) Der Prüfungsstoff der schriftlichen und der mündlichen Prüfung umfasst den gesamten Bereich der notariellen Amtstätigkeit. Die Prüfungsgebiete regelt das Bundesministerium der Justiz durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf.
+(4) Der Prüfungsstoff der schriftlichen und der mündlichen Prüfung umfasst den gesamten Bereich der notariellen Amtstätigkeit. Die Prüfungsgebiete regelt das Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf.
 
 (5) Für die von den einzelnen Prüfern vorzunehmenden Bewertungen und die Bildung der Prüfungsgesamtnote gelten die §§ 1 und 2 der Verordnung über eine Noten- und Punkteskala für die erste und zweite juristische Staatsprüfung vom 3. Dezember 1981 (BGBl. I S. 1243) entsprechend.
 
@@ -170,7 +173,7 @@ nach Ableistung des dreijährigen Anwärterdienstes sich ohne hinreichenden Grun
 
 (2) Die mündliche Prüfung wird durch einen Prüfungsausschuss abgenommen, der aus drei Prüfern besteht. Sie müssen während der gesamten Prüfung anwesend sein. Den Vorsitz führt ein auf Vorschlag der Landesjustizverwaltungen, in deren Bereich Anwaltsnotare bestellt werden, bestellter Prüfer. Ein Prüfer soll Anwaltsnotar sein.
 
-(3) Bei der mündlichen Prüfung können Vertreter der Notarkammern, der Bundesnotarkammer, des Prüfungsamtes, des Bundesministeriums der Justiz und der Landesjustizverwaltungen anwesend sein. Das Prüfungsamt kann Personen, die zur notariellen Fachprüfung zugelassen worden sind, als Zuhörer zulassen. An den Beratungen nehmen nur die Mitglieder des Prüfungsausschusses teil.
+(3) Bei der mündlichen Prüfung können Vertreter der Notarkammern, der Bundesnotarkammer, des Prüfungsamtes, des Bundesministeriums der Justiz und für Verbraucherschutz und der Landesjustizverwaltungen anwesend sein. Das Prüfungsamt kann Personen, die zur notariellen Fachprüfung zugelassen worden sind, als Zuhörer zulassen. An den Beratungen nehmen nur die Mitglieder des Prüfungsausschusses teil.
 
 (4) Im Anschluss an die mündliche Prüfung bewerten die Prüfer den Vortrag und das Prüfungsgespräch gemäß § 7a Abs. 5. Weichen die Bewertungen voneinander ab, so gilt der Mittelwert. Sodann gibt der Prüfungsausschuss dem Prüfling die Bewertungen bekannt. Eine nähere Erläuterung der Bewertungen kann nur sofort verlangt werden und erfolgt nur mündlich.
 
@@ -200,24 +203,24 @@ nach Ableistung des dreijährigen Anwärterdienstes sich ohne hinreichenden Grun
 
 (1) Die Durchführung der Prüfung obliegt dem bei der Bundesnotarkammer errichteten „Prüfungsamt für die notarielle Fachprüfung bei der Bundesnotarkammer“ (Prüfungsamt).
 
-(2) Das Prüfungsamt entscheidet über die Zulassung zur Prüfung, bestimmt die Prüfer einschließlich des weiteren Prüfers (§ 7b Abs. 2 Satz 5) sowie die Prüfungsausschüsse, setzt die Prüfungstermine fest, lädt die Prüflinge, stellt das Prüfungsergebnis fest, erteilt das Prüfungszeugnis, entscheidet über die Folgen eines Prüfungsverstoßes und über Widersprüche nach § 7d Abs. 2 Satz 1. Die näheren Einzelheiten regelt das Bundesministerium der Justiz durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf.
+(2) Das Prüfungsamt entscheidet über die Zulassung zur Prüfung, bestimmt die Prüfer einschließlich des weiteren Prüfers (§ 7b Abs. 2 Satz 5) sowie die Prüfungsausschüsse, setzt die Prüfungstermine fest, lädt die Prüflinge, stellt das Prüfungsergebnis fest, erteilt das Prüfungszeugnis, entscheidet über die Folgen eines Prüfungsverstoßes und über Widersprüche nach § 7d Abs. 2 Satz 1. Die näheren Einzelheiten regelt das Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf.
 
-(3) Der Leiter des Prüfungsamtes vertritt das Amt im Zusammenhang mit der notariellen Fachprüfung im Verwaltungsverfahren und im gerichtlichen Verfahren. Der Leiter und sein ständiger Vertreter müssen die Befähigung zum Richteramt haben. Sie werden im Einvernehmen mit den Landesjustizverwaltungen, in deren Bereich Anwaltsnotare bestellt werden, nach Anhörung der Bundesnotarkammer durch das Bundesministerium der Justiz für die Dauer von fünf Jahren bestellt. Eine erneute Bestellung ist möglich.
+(3) Der Leiter des Prüfungsamtes vertritt das Amt im Zusammenhang mit der notariellen Fachprüfung im Verwaltungsverfahren und im gerichtlichen Verfahren. Der Leiter und sein ständiger Vertreter müssen die Befähigung zum Richteramt haben. Sie werden im Einvernehmen mit den Landesjustizverwaltungen, in deren Bereich Anwaltsnotare bestellt werden, nach Anhörung der Bundesnotarkammer durch das Bundesministerium der Justiz und für Verbraucherschutz für die Dauer von fünf Jahren bestellt. Eine erneute Bestellung ist möglich.
 
 (4) Bei dem Prüfungsamt wird eine Aufgabenkommission eingerichtet. Sie bestimmt die Aufgaben für die schriftliche Prüfung, entscheidet über die zugelassenen Hilfsmittel und erarbeitet Vorschläge für die mündlichen Prüfungen. Die Mitglieder der Aufgabenkommission müssen über eine der in Absatz 6 Satz 1 aufgeführten Qualifikationen verfügen. Sie werden von dem Leiter des Prüfungsamtes im Einvernehmen mit dem Verwaltungsrat für die Dauer von fünf Jahren bestellt. Eine erneute Bestellung ist möglich. Die Mitglieder der Aufgabenkommission erhalten für ihre Tätigkeit eine angemessene Vergütung.
 
-(5) Bei dem Prüfungsamt wird ein Verwaltungsrat eingerichtet. Er übt die Fachaufsicht über den Leiter des Prüfungsamtes und die Aufgabenkommission aus. Der Verwaltungsrat besteht aus einem vom Bundesministerium der Justiz, einem von der Bundesnotarkammer und drei einvernehmlich von den Landesjustizverwaltungen, in deren Bereich Anwaltsnotare bestellt werden, benannten Mitgliedern.
+(5) Bei dem Prüfungsamt wird ein Verwaltungsrat eingerichtet. Er übt die Fachaufsicht über den Leiter des Prüfungsamtes und die Aufgabenkommission aus. Der Verwaltungsrat besteht aus einem vom Bundesministerium der Justiz und für Verbraucherschutz, einem von der Bundesnotarkammer und drei einvernehmlich von den Landesjustizverwaltungen, in deren Bereich Anwaltsnotare bestellt werden, benannten Mitgliedern.
 
 (6) Zu Prüfern werden vom Prüfungsamt für die Dauer von fünf Jahren bestellt:
 
 1.  
-Richter und Beamte mit der Befähigung zum Richteramt, auch nach Eintritt in den Ruhestand, auf Vorschlag des Bundesministeriums der Justiz und der Landesjustizverwaltungen, in deren Bereich Anwaltsnotare bestellt werden,
+Richter und Beamte mit der Befähigung zum Richteramt, auch nach Eintritt in den Ruhestand, auf Vorschlag des Bundesministeriums der Justiz und für Verbraucherschutz und der Landesjustizverwaltungen, in deren Bereich Anwaltsnotare bestellt werden,
 
 2.  
 Notare und Notare außer Dienst auf Vorschlag der Notarkammern und
 
 3.  
-sonstige Personen, die eine den in den Nummern 1 und 2 genannten Personen gleichwertige Befähigung haben, im Einvernehmen mit dem Bundesministerium der Justiz und den Landesjustizverwaltungen, in deren Bereich Anwaltsnotare bestellt werden.
+sonstige Personen, die eine den in den Nummern 1 und 2 genannten Personen gleichwertige Befähigung haben, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und den Landesjustizverwaltungen, in deren Bereich Anwaltsnotare bestellt werden.
 
 Eine erneute Bestellung ist möglich. Die Bestellung kann aus wichtigem Grund widerrufen werden. Mit Vollendung des 70. Lebensjahres scheiden die Prüfer aus; unberührt hiervon bleibt die Mitwirkung in einem Widerspruchsverfahren.
 
@@ -227,11 +230,11 @@ Eine erneute Bestellung ist möglich. Die Bestellung kann aus wichtigem Grund wi
 
 (1) Für die Prüfung und für das erfolglose Widerspruchsverfahren sind Gebühren an die Bundesnotarkammer zu zahlen. Die Zulassung zur Prüfung erfolgt erst, wenn die Prüfungsgebühren bei der Bundesnotarkammer eingegangen sind. Tritt der Bewerber vor Antritt der Prüfung zurück, wird die Gebühr für die Prüfung zu drei Vierteln erstattet. Tritt der Bewerber bis zum Ende der Bearbeitungszeit für die letzte Aufsichtsarbeit zurück, ist die Gebühr zur Hälfte zu erstatten. Eine Erstattung von Gebühren im Fall des § 7f ist ausgeschlossen.
 
-(2) Die Bundesnotarkammer bestimmt die Höhe der Gebühren nach Absatz 1, die Einzelheiten der Gebührenerhebung sowie die Vergütung des Leiters und der Bediensteten des Prüfungsamtes, der Mitglieder der Aufgabenkommission und der Prüfer durch Satzung, die der Genehmigung des Bundesministeriums der Justiz bedarf.
+(2) Die Bundesnotarkammer bestimmt die Höhe der Gebühren nach Absatz 1, die Einzelheiten der Gebührenerhebung sowie die Vergütung des Leiters und der Bediensteten des Prüfungsamtes, der Mitglieder der Aufgabenkommission und der Prüfer durch Satzung, die der Genehmigung des Bundesministeriums der Justiz und für Verbraucherschutz bedarf.
 
 ### § 7i
 
-Das Bundesministerium der Justiz regelt durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Einzelheiten der Organisation und des Geschäftsablaufs des Prüfungsamtes, der Auswahl und der Berufung der Prüfer, des Prüfungsverfahrens sowie des Verfahrens zur Beschlussfassung im Verwaltungsrat.
+Das Bundesministerium der Justiz und für Verbraucherschutz regelt durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Einzelheiten der Organisation und des Geschäftsablaufs des Prüfungsamtes, der Auswahl und der Berufung der Prüfer, des Prüfungsverfahrens sowie des Verfahrens zur Beschlussfassung im Verwaltungsrat.
 
 ### § 8
 
@@ -396,7 +399,7 @@ Ist bei Vorliegen einer Amtspflichtverletzung nur streitig, ob der Ausschlußgru
 
 (6) Die Landesjustizverwaltung oder die Notarkammer, der der Notar angehört, erteilt Dritten zur Geltendmachung von Schadensersatzansprüchen auf Antrag Auskunft über den Namen und die Adresse der Berufshaftpflichtversicherung des Notars sowie die Versicherungsnummer, soweit der Notar kein überwiegendes schutzwürdiges Interesse an der Nichterteilung der Auskunft hat; dies gilt auch, wenn das Notaramt erloschen ist.
 
-(7) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Mindestversicherungssumme für die Pflichtversicherungen nach Absatz 1 anders festzusetzen, wenn dies erforderlich ist, um bei einer Änderung der wirtschaftlichen Verhältnisse einen hinreichenden Schutz der Geschädigten sicherzustellen.
+(7) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Mindestversicherungssumme für die Pflichtversicherungen nach Absatz 1 anders festzusetzen, wenn dies erforderlich ist, um bei einer Änderung der wirtschaftlichen Verhältnisse einen hinreichenden Schutz der Geschädigten sicherzustellen.
 
 3. Abschnitt Die Amtstätigkeit
 ------------------------------
@@ -405,7 +408,7 @@ Ist bei Vorliegen einer Amtspflichtverletzung nur streitig, ob der Ausschlußgru
 
 ### § 20
 
-(1) Die Notare sind zuständig, Beurkundungen jeder Art vorzunehmen sowie Unterschriften, Handzeichen und Abschriften zu beglaubigen. Zu ihren Aufgaben gehören insbesondere auch die Beurkundung von Versammlungsbeschlüssen, die Vornahme von Verlosungen und Auslosungen, die Aufnahme von Vermögensverzeichnissen, die Anlegung und Abnahme von Siegeln, die Aufnahme von Protesten, die Zustellung von Erklärungen sowie die Beurkundung amtlich von ihnen wahrgenommener Tatsachen.
+(1) Die Notare sind zuständig, Beurkundungen jeder Art vorzunehmen sowie Unterschriften, Handzeichen und Abschriften zu beglaubigen. Zu ihren Aufgaben gehören insbesondere auch die Beurkundung von Versammlungsbeschlüssen, die Vornahme von Verlosungen und Auslosungen, die Aufnahme von Vermögensverzeichnissen, Nachlassverzeichnissen und Nachlassinventaren, die Vermittlung von Nachlass- und Gesamtgutsauseinandersetzungen einschließlich der Erteilung von Zeugnissen nach den §§ 36 und 37 der Grundbuchordnung, die Anlegung und Abnahme von Siegeln, die Aufnahme von Protesten, die Zustellung von Erklärungen sowie die Beurkundung amtlich von ihnen wahrgenommener Tatsachen.
 
 (2) Die Notare sind auch zuständig, Auflassungen entgegenzunehmen sowie Teilhypotheken- und Teilgrundschuldbriefe auszustellen.
 
@@ -413,7 +416,7 @@ Ist bei Vorliegen einer Amtspflichtverletzung nur streitig, ob der Ausschlußgru
 
 (4) Die Notare sind auch zur Vermittlung nach den Bestimmungen des Sachenrechtsbereinigungsgesetzes zuständig.
 
-(5) Inwieweit die Notare zur Vermittlung von Nachlaß- und Gesamtgutauseinandersetzungen - einschließlich der Erteilung von Zeugnissen nach §§ 36 und 37 der Grundbuchordnung -, zur Aufnahme von Nachlaßverzeichnissen und Nachlaßinventaren sowie zur Anlegung und Abnahme von Siegeln im Rahmen eines Nachlaßsicherungsverfahrens zuständig sind, bestimmt sich nach den landesrechtlichen Vorschriften.
+(5) Inwieweit die Notare zur Anlegung und Abnahme von Siegeln im Rahmen eines Nachlasssicherungsverfahrens zuständig sind, bestimmt sich nach den landesrechtlichen Vorschriften.
 
 ### § 21
 
@@ -428,6 +431,8 @@ Bescheinigungen über das Bestehen oder den Sitz einer juristischen Person oder 
 wenn sich diese Umstände aus einer Eintragung im Handelsregister oder in einem ähnlichen Register ergeben. Die Bescheinigung hat die gleiche Beweiskraft wie ein Zeugnis des Registergerichts.
 
 (2) Der Notar darf die Bescheinigung nur ausstellen, wenn er sich zuvor über die Eintragung Gewißheit verschafft hat, die auf Einsichtnahme in das Register oder in eine beglaubigte Abschrift hiervon beruhen muß. Er hat den Tag der Einsichtnahme in das Register oder den Tag der Ausstellung der Abschrift in der Bescheinigung anzugeben.
+
+(3) Die Notare sind ferner dafür zuständig, Bescheinigungen über eine durch Rechtsgeschäft begründete Vertretungsmacht auszustellen. Der Notar darf die Bescheinigung nur ausstellen, wenn er sich zuvor durch Einsichtnahme in eine öffentliche oder öffentlich beglaubigte Vollmachtsurkunde über die Begründung der Vertretungsmacht vergewissert hat. In der Bescheinigung ist anzugeben, in welcher Form und an welchem Tag die Vollmachtsurkunde dem Notar vorgelegen hat.
 
 ### § 22
 
@@ -470,7 +475,7 @@ Der Notar hat die bei ihm beschäftigten Personen mit Ausnahme der Notarassessor
 
 ### § 28
 
-Der Notar hat durch geeignete Vorkehrungen die Wahrung der Unabhängigkeit und Unparteilichkeit seiner Amtsführung, insbesondere die Einhaltung der Mitwirkungsverbote und weiterer Pflichten nach den Bestimmungen dieses Gesetzes, des Beurkundungsgesetzes und der Kostenordnung sicherzustellen.
+Der Notar hat durch geeignete Vorkehrungen die Wahrung der Unabhängigkeit und Unparteilichkeit seiner Amtsführung, insbesondere die Einhaltung der Mitwirkungsverbote und weiterer Pflichten nach den Bestimmungen dieses Gesetzes, des Beurkundungsgesetzes und des Gerichts- und Notarkostengesetzes sicherzustellen.
 
 ### § 29
 
@@ -641,7 +646,7 @@ wenn er ein besoldetes Amt übernimmt oder eine nach § 8 Abs. 3 genehmigungspfl
 wenn er entgegen § 8 Abs. 2 eine weitere berufliche Tätigkeit ausübt oder sich entgegen den Bestimmungen von § 9 Abs. 1 oder Abs. 2 mit anderen Personen zur gemeinsamen Berufsausübung verbunden oder mit ihnen gemeinsame Geschäftsräume hat;
 
 6.  
-wenn er in Vermögensverfall geraten ist; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen des Notars eröffnet oder der Notar in das vom Insolvenzgericht oder vom Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2 der Insolvenzordnung, § 915 der Zivilprozeßordnung) eingetragen ist;
+wenn er in Vermögensverfall geraten ist; ein Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das Vermögen des Notars eröffnet oder der Notar in das vom Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2 der Insolvenzordnung, § 882b der Zivilprozeßordnung) eingetragen ist;
 
 7.  
 wenn er aus gesundheitlichen Gründen nicht nur vorübergehend unfähig ist, sein Amt ordnungsgemäß auszuüben;
@@ -650,7 +655,15 @@ wenn er aus gesundheitlichen Gründen nicht nur vorübergehend unfähig ist, sei
 wenn seine wirtschaftlichen Verhältnisse, die Art seiner Wirtschaftsführung oder der Durchführung von Verwahrungsgeschäften die Interessen der Rechtsuchenden gefährden;
 
 9.  
-wenn er wiederholt grob gegen Mitwirkungsverbote gemäß § 3 Abs. 1 des Beurkundungsgesetzes verstößt;
+wenn er wiederholt grob gegen
+
+a)  
+Mitwirkungsverbote gemäß § 3 Absatz 1 des Beurkundungsgesetzes oder
+
+b)  
+Pflichten gemäß § 17 Absatz 2a Satz 2 Nummer 2 des Beurkundungsgesetzes
+
+verstößt;
 
 10.  
 wenn er nicht die vorgeschriebene Haftpflichtversicherung (§ 19a) unterhält.
@@ -749,7 +762,7 @@ wenn gegen einen Notar, der zugleich Rechtsanwalt ist, die Rücknahme oder der W
 
 (2) Der Notariatsverwalter führt die von dem Notar begonnenen Amtsgeschäfte fort. Die Kostenforderungen stehen dem Notariatsverwalter zu, soweit sie nach Übernahme der Geschäfte durch ihn fällig werden. Er muß sich jedoch im Verhältnis zum Kostenschuldner die vor der Übernahme der Geschäfte an den Notar gezahlten Vorschüsse anrechnen lassen.
 
-(3) Soweit die Kostenforderungen dem ausgeschiedenen Notar oder dessen Rechtsnachfolger zustehen, erteilt der Notariatsverwalter die vollstreckbare Ausfertigung der Kostenberechnung (§ 155 der Kostenordnung); lehnt er die Erteilung ab, so kann der Notar oder dessen Rechtsnachfolger die Entscheidung des Landgerichts nach § 156 der Kostenordnung beantragen. Ist dem Notar ein anderer Amtssitz zugewiesen, so bleibt er neben dem Notariatsverwalter zur Erteilung der vollstreckbaren Ausfertigung befugt. Der Notariatsverwalter hat ihm Einsicht in die Bücher und Akten zu gewähren; die dadurch entstehenden Kosten trägt der Notar.
+(3) Soweit die Kostenforderungen dem ausgeschiedenen Notar oder dessen Rechtsnachfolger zustehen, erteilt der Notariatsverwalter die vollstreckbare Ausfertigung der Kostenberechnung (§ 89 des Gerichts- und Notarkostengesetzes); lehnt er die Erteilung ab, so kann der Notar oder dessen Rechtsnachfolger die Entscheidung des Landgerichts nach § 127 des Gerichts- und Notarkostengesetzes beantragen. Ist dem Notar ein anderer Amtssitz zugewiesen, so bleibt er neben dem Notariatsverwalter zur Erteilung der vollstreckbaren Ausfertigung befugt. Der Notariatsverwalter hat ihm Einsicht in die Bücher und Akten zu gewähren; die dadurch entstehenden Kosten trägt der Notar.
 
 ### § 59
 
@@ -791,7 +804,7 @@ Für vermögensrechtliche Streitigkeiten zwischen der Notarkammer und dem Notari
 
 (3) Übernimmt nach der Beendigung des Amtes des Notariatsverwalters der frühere Notar das Amt wieder oder wird dem neu bestellten Notar gemäß § 51 Abs. 1 Satz 2 die Verwahrung der Akten und Bücher übertragen, so führt der Notar die von dem Notariatsverwalter begonnenen Amtsgeschäfte fort. Die nach Übernahme des Amtes durch den Notar fällig werdenden Kostenforderungen stehen diesem zu. Er muß sich jedoch im Verhältnis zum Kostenschuldner die vor der Übernahme des Amtes an den Notariatsverwalter gezahlten Vorschüsse anrechnen lassen.
 
-(4) Die dem Notariatsverwalter zustehenden Kostenforderungen werden nach der Beendigung seines Amtes von der Notarkammer im eigenen Namen eingezogen. §§ 154 bis 157 der Kostenordnung gelten entsprechend. Die Notarkammer kann den neu bestellten oder wieder in sein Amt eingesetzten Notar damit beauftragen, die ausstehenden Forderungen auf ihre Kosten einzuziehen.
+(4) Die dem Notariatsverwalter zustehenden Kostenforderungen werden nach der Beendigung seines Amtes von der Notarkammer im eigenen Namen eingezogen. Die §§ 19, 88 bis 90 und 127 des Gerichts- und Notarkostengesetzes gelten entsprechend. Die Notarkammer kann den neu bestellten oder wieder in sein Amt eingesetzten Notar damit beauftragen, die ausstehenden Forderungen auf ihre Kosten einzuziehen.
 
 7. Abschnitt Allgemeinen Vorschriften für das Verwaltungsverfahren
 ------------------------------------------------------------------
@@ -1012,9 +1025,9 @@ Die näheren Bestimmungen über die Organe der Notarkammer und ihre Zuständigke
 
 (1) Die Bundesnotarkammer ist eine Körperschaft des öffentlichen Rechts.
 
-(2) Das Bundesministerium der Justiz führt die Staatsaufsicht über die Bundesnotarkammer. Die Aufsicht beschränkt sich darauf, daß Gesetz und Satzung beachtet, insbesondere die der Bundesnotarkammer übertragenen Aufgaben erfüllt werden.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz führt die Staatsaufsicht über die Bundesnotarkammer. Die Aufsicht beschränkt sich darauf, daß Gesetz und Satzung beachtet, insbesondere die der Bundesnotarkammer übertragenen Aufgaben erfüllt werden.
 
-(3) Die Satzung der Bundesnotarkammer und ihre Änderungen, die von der Vertreterversammlung beschlossen werden, bedürfen der Genehmigung des Bundesministeriums der Justiz.
+(3) Die Satzung der Bundesnotarkammer und ihre Änderungen, die von der Vertreterversammlung beschlossen werden, bedürfen der Genehmigung des Bundesministeriums der Justiz und für Verbraucherschutz.
 
 ### § 78
 
@@ -1041,12 +1054,12 @@ Richtlinien für die Ausbildung der Hilfskräfte der Notare aufzustellen.
 (2) Die Bundesnotarkammer führt als Registerbehörde je ein automatisiertes elektronisches Register über
 
 1.  
-Vorsorgevollmachten und Betreuungsverfügungen (Zentrales Vorsorgeregister) und
+Vorsorgevollmachten und Betreuungsverfügungen nach § 78a (Zentrales Vorsorgeregister) und
 
 2.  
-die Verwahrung erbfolgerelevanter Urkunden (Zentrales Testamentsregister).
+die Verwahrung erbfolgerelevanter Urkunden und sonstige Daten nach § 78b (Zentrales Testamentsregister).
 
-Das Bundesministerium der Justiz hat durch jeweils eine Rechtsverordnung zum Zentralen Vorsorgeregister und zum Zentralen Testamentsregister mit Zustimmung des Bundesrates die näheren Bestimmungen über Einrichtung und Führung der Register, über Auskunft aus den Registern, über Anmeldung, Änderung und Löschung von Registereintragungen, über Einzelheiten der Datenübermittlung und -speicherung sowie der Datensicherheit zu treffen. Die Erhebung und Verwendung der Daten ist auf das für die Erfüllung der gesetzlichen Aufgaben der Registerbehörde, der Nachlassgerichte und der Verwahrstellen Erforderliche zu beschränken. In der Rechtsverordnung zum Zentralen Testamentsregister können darüber hinaus Bestimmungen zum Inhalt der Sterbefallmitteilungen nach § 78c Satz 1 getroffen werden. Ferner können in der Rechtsverordnung zum Zentralen Testamentsregister Ausnahmen zugelassen werden von:
+Das Bundesministerium der Justiz und für Verbraucherschutz hat durch jeweils eine Rechtsverordnung zum Zentralen Vorsorgeregister und zum Zentralen Testamentsregister mit Zustimmung des Bundesrates die näheren Bestimmungen über Einrichtung und Führung der Register, über Auskunft aus den Registern, über Anmeldung, Änderung und Löschung von Registereintragungen, über Einzelheiten der Datenübermittlung und -speicherung sowie der Datensicherheit zu treffen. Die Erhebung und Verwendung der Daten ist auf das für die Erfüllung der gesetzlichen Aufgaben der Registerbehörde, der Nachlassgerichte und der Verwahrstellen Erforderliche zu beschränken. In der Rechtsverordnung zum Zentralen Testamentsregister können darüber hinaus Bestimmungen zum Inhalt der Sterbefallmitteilungen nach § 78c Satz 1 getroffen werden. Ferner können in der Rechtsverordnung zum Zentralen Testamentsregister Ausnahmen zugelassen werden von:
 
 1.  
 § 78c Satz 3, soweit dies die Sterbefallmitteilung an das Nachlassgericht betrifft;
@@ -1057,7 +1070,7 @@ der elektronischen Benachrichtigung nach § 78c Satz 4;
 3.  
 der Verpflichtung zur elektronischen Übermittlung nach § 34a Absatz 1 Satz 1 des Beurkundungsgesetzes und § 347 Absatz 1 Satz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
-Das Bundesministerium der Justiz führt die Rechtsaufsicht über die Registerbehörde.
+Das Bundesministerium der Justiz und für Verbraucherschutz führt die Rechtsaufsicht über die Registerbehörde.
 
 (3) Die Bundesnotarkammer kann weitere dem Zweck ihrer Errichtung entsprechende Aufgaben wahrnehmen. Sie kann insbesondere Maßnahmen ergreifen, die der wissenschaftlichen Beratung der Notarkammern und ihrer Mitglieder, der Fortbildung von Notaren, der Aus- und Fortbildung des beruflichen Nachwuchses und der Hilfskräfte der Notare dienen sowie Notardaten verwalten und die elektronische Kommunikation der Notare mit Gerichten, Behörden und sonstigen Dritten unterstützen.
 
@@ -1067,7 +1080,21 @@ In das Zentrale Vorsorgeregister dürfen Angaben über Vollmachtgeber, Bevollmä
 
 ### § 78b
 
-(1) In das Zentrale Testamentsregister werden Verwahrangaben zu erbfolgerelevanten Urkunden aufgenommen, die ab 1. Januar 2012 von Notaren (§ 34a Absatz 1 Satz 1 des Beurkundungsgesetzes) oder Gerichten (Absatz 4 sowie § 347 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit) zu übermitteln sind. Die gespeicherten Daten sind mit Ablauf des dreißigsten auf die Sterbefallmitteilung folgenden Kalenderjahres zu löschen.
+(1) In das Zentrale Testamentsregister werden aufgenommen:
+
+1.  
+Verwahrangaben zu erbfolgerelevanten Urkunden, die
+
+a)  
+von Notaren (§ 34a Absatz 1 Satz 1 des Beurkundungsgesetzes) oder Gerichten (Absatz 4 sowie § 347 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit) ab 1. Januar 2012 zu übermitteln sind,
+
+b)  
+nach § 1 des Testamentsverzeichnis-Überführungsgesetzes zu überführen sind,
+
+2.  
+Mitteilungen, die nach § 9 des Testamentsverzeichnis-Überführungsgesetzes zu überführen sind.
+
+Die gespeicherten Daten sind mit Ablauf des dreißigsten auf die Sterbefallmitteilung folgenden Kalenderjahres zu löschen.
 
 (2) Erbfolgerelevante Urkunden sind Testamente, Erbverträge und alle Urkunden mit Erklärungen, welche die Erbfolge beeinflussen können, insbesondere Aufhebungsverträge, Rücktritts- und Anfechtungserklärungen, Erb- und Zuwendungsverzichtsverträge, Ehe- und Lebenspartnerschaftsverträge und Rechtswahlen. Verwahrangaben sind Angaben, die zum Auffinden erbfolgerelevanter Urkunden erforderlich sind.
 
@@ -1085,7 +1112,15 @@ worden sind.
 
 ### § 78c
 
-Ab 1. Januar 2012 teilt das zuständige Standesamt der Registerbehörde den Tod, die Todeserklärung oder die gerichtliche Feststellung der Todeszeit einer Person mit (Sterbefallmitteilung). Die Registerbehörde prüft daraufhin, ob im Zentralen Testamentsregister Verwahrangaben vorliegen. Sie benachrichtigt, soweit erforderlich, unverzüglich das zuständige Nachlassgericht und die verwahrenden Stellen über den Sterbefall und etwaige Verwahrangaben. Die Benachrichtigung erfolgt elektronisch.
+Ab 1. Januar 2012 teilt das zuständige Standesamt der Registerbehörde den Tod, die Todeserklärung oder die gerichtliche Feststellung der Todeszeit einer Person mit (Sterbefallmitteilung). Die Registerbehörde prüft daraufhin, ob im Zentralen Testamentsregister Angaben nach § 78b Absatz 1 Satz 1 Nummer 1 und 2 vorliegen. Sie benachrichtigt, soweit es zur Erfüllung der Aufgaben des Nachlassgerichts und der verwahrenden Stellen erforderlich ist, unverzüglich
+
+1.  
+das zuständige Nachlassgericht über den Sterbefall und etwaige Angaben nach § 78b Absatz 1 Satz 1 Nummer 1 und 2 und
+
+2.  
+die verwahrenden Stellen über den Sterbefall und etwaige Verwahrangaben nach § 78b Absatz 1 Satz 1 Nummer 1.
+
+Die Benachrichtigung erfolgt elektronisch.
 
 ### § 78d
 
@@ -1095,11 +1130,11 @@ Ab 1. Januar 2012 teilt das zuständige Standesamt der Registerbehörde den Tod,
 Gerichten Auskunft aus dem Zentralen Vorsorgeregister und dem Zentralen Testamentsregister sowie
 
 2.  
-Notaren Auskunft aus dem Zentralen Testamentsregister.
+Notaren Auskunft über Verwahrangaben aus dem Zentralen Testamentsregister.
 
-Die Auskunft aus dem Zentralen Testamentsregister wird nur erteilt, soweit sie zur Ermittlung erbfolgerelevanter Urkunden im Rahmen der Aufgabenerfüllung der Gerichte und Notare erforderlich ist. Auskünfte aus dem Zentralen Testamentsregister können zu Lebzeiten des Erblassers nur mit dessen Einwilligung eingeholt werden.
+Die Auskunft aus dem Zentralen Testamentsregister wird nur erteilt, soweit sie im Rahmen der Aufgabenerfüllung der Gerichte und Notare erforderlich ist. Auskünfte aus dem Zentralen Testamentsregister können zu Lebzeiten des Erblassers nur mit dessen Einwilligung eingeholt werden.
 
-(2) Die Befugnis der Gerichte und Notare zur Einsicht in Registrierungen, die von ihnen verwahrte Urkunden betreffen, bleibt unberührt.
+(2) Die Befugnis der Gerichte und Notare zur Einsicht in Registrierungen, die von ihnen verwahrte oder registrierte Urkunden betreffen, bleibt unberührt.
 
 (3) Die Registerbehörde kann Gerichte bei der Ermittlung besonders amtlich verwahrter Urkunden unterstützen, für die mangels Verwahrungsnachricht keine Eintragung im Zentralen Testamentsregister vorliegt. Die Verwahrangaben der nach Satz 1 ermittelten Verfügungen von Todes wegen sind nach § 347 Absatz 1 Satz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit an das Zentrale Testamentsregister zu melden.
 
@@ -1137,7 +1172,9 @@ für die Aufnahme von Erklärungen in das Zentrale Vorsorgeregister: der gewähl
 2.  
 für die Aufnahme von Erklärungen in das Zentrale Testamentsregister und für Auskünfte: die Kosten für die Überführung der Verwahrungsnachrichten nach dem Testamentsverzeichnis-Überführungsgesetz.
 
-(4) Die Registerbehörde bestimmt die Gebühren nach Absatz 1 und die Art ihrer Erhebung jeweils durch eine Gebührensatzung. Die Satzungen bedürfen der Genehmigung durch das Bundesministerium der Justiz. Die Höhe der Gebühren ist regelmäßig zu überprüfen.
+Die durch die Aufnahme von Mitteilungen nach § 9 Absatz 1 und 3 des Testamentsverzeichnis-Überführungsgesetzes entstehenden Kosten bleiben außer Betracht.
+
+(4) Die Registerbehörde bestimmt die Gebühren nach Absatz 1 und die Art ihrer Erhebung jeweils durch eine Gebührensatzung. Die Satzungen bedürfen der Genehmigung durch das Bundesministerium der Justiz und für Verbraucherschutz. Die Höhe der Gebühren ist regelmäßig zu überprüfen.
 
 (5) Gerichte und Notare können die nach Absatz 3 bestimmten Gebühren für die Registerbehörde entgegennehmen.
 
@@ -1173,7 +1210,7 @@ Für die Pflicht der Mitglieder des Präsidiums der Bundesnotarkammer, der von i
 
 (2) In den Sitzungen des Präsidiums führt der Präsident den Vorsitz.
 
-(3) Das Präsidium erstattet dem Bundesminister der Justiz jährlich einen schriftlichen Bericht über die Tätigkeit der Bundesnotarkammer und des Präsidiums. Es zeigt ihm ferner das Ergebnis der Wahlen zum Präsidium an.
+(3) Das Präsidium erstattet dem Bundesminister der Justiz und für Verbraucherschutz jährlich einen schriftlichen Bericht über die Tätigkeit der Bundesnotarkammer und des Präsidiums. Es zeigt ihm ferner das Ergebnis der Wahlen zum Präsidium an.
 
 ### § 83
 
@@ -1370,7 +1407,7 @@ gegen den in einem anwaltsgerichtlichen Verfahren in den letzten fünf Jahren ei
 
 ### § 104
 
-(1) Die Beisitzer aus den Reihen der Notare haben als solche während der Dauer ihres Amtes alle Rechte und Pflichten eines Berufsrichters. Ihr Amt ist ein Ehrenamt. Sie erhalten aus der Staatskasse für den mit ihrer Tätigkeit verbundenen Aufwand eine Entschädigung, die sich auf das Eineinhalbfache des in § 153 Abs. 2 Satz 1 Nr. 2 erster Halbsatz der Kostenordnung genannten höchsten Betrages beläuft. Außerdem haben sie Anspruch auf Ersatz ihrer Fahrt- und Übernachtungskosten nach Maßgabe des § 153 Abs. 2 Satz 1 Nr. 1 und 3 sowie Abs. 4 der Kostenordnung.
+(1) Die Beisitzer aus den Reihen der Notare haben als solche während der Dauer ihres Amtes alle Rechte und Pflichten eines Berufsrichters. Ihr Amt ist ein Ehrenamt. Sie erhalten aus der Staatskasse für den mit ihrer Tätigkeit verbundenen Aufwand eine Entschädigung, die sich auf das Eineinhalbfache des in Nummer 32008 des Kostenverzeichnisses zum Gerichts- und Notarkostengesetz genannten höchsten Betrages beläuft. Außerdem haben sie Anspruch auf Ersatz ihrer Fahrt- und Übernachtungskosten nach Maßgabe der Nummern 32006, 32007 und 32009 des Kostenverzeichnisses zum Gerichts- und Notarkostengesetz.
 
 (1a) Das Amt eines Beisitzers endet, sobald das Amt des Notars erlischt oder nachträglich ein Umstand eintritt, der nach § 103 Abs. 2 der Ernennung entgegensteht, und der Beisitzer jeweils zustimmt. Der Beisitzer, die Kasse und die Notarkammer haben Umstände nach Satz 1 unverzüglich der Landesjustizverwaltung und dem Oberlandesgericht mitzuteilen. Über die Beendigung des Amtes nach Satz 1 entscheidet auf Antrag der Landesjustizverwaltung der Erste Zivilsenat des Oberlandesgerichts, das als Disziplinargericht zuständig ist, wenn das betroffene Mitglied der Beendigung nicht zugestimmt hat; Absatz 2 Satz 3 bis 5 gilt entsprechend.
 
@@ -1403,9 +1440,9 @@ Der Vorsitzende, der mindestens Vorsitzender Richter am Bundesgerichtshof sein m
 
 ### § 108
 
-(1) Die Beisitzer aus den Reihen der Notare werden von dem Bundesministerium der Justiz berufen. Sie werden einer Vorschlagsliste entnommen, die das Präsidium der Bundesnotarkammer auf Grund von Vorschlägen der Notarkammern dem Bundesministerium der Justiz einreicht. Das Bundesministerium der Justiz bestimmt, welche Zahl von Beisitzern erforderlich ist; er hat vorher das Präsidium der Bundesnotarkammer zu hören. Die Vorschlagsliste muß mindestens die doppelte Zahl von Notaren enthalten und sich je zur Hälfte aus hauptberuflichen Notaren und Anwaltsnotaren zusammensetzen.
+(1) Die Beisitzer aus den Reihen der Notare werden von dem Bundesministerium der Justiz und für Verbraucherschutz berufen. Sie werden einer Vorschlagsliste entnommen, die das Präsidium der Bundesnotarkammer auf Grund von Vorschlägen der Notarkammern dem Bundesministerium der Justiz und für Verbraucherschutz einreicht. Das Bundesministerium der Justiz und für Verbraucherschutz bestimmt, welche Zahl von Beisitzern erforderlich ist; er hat vorher das Präsidium der Bundesnotarkammer zu hören. Die Vorschlagsliste muß mindestens die doppelte Zahl von Notaren enthalten und sich je zur Hälfte aus hauptberuflichen Notaren und Anwaltsnotaren zusammensetzen.
 
-(2) § 103 Abs. 2 bis 5 und § 104 Abs. 1 Satz 2 bis 6, Abs. 1a bis 3 gelten entsprechend mit der Maßgabe, dass das Bundesministerium der Justiz an die Stelle der Landesjustizverwaltung tritt und vor der Entscheidung über die Amtsenthebung eines Beisitzers auch das Präsidium der Bundesnotarkammer zu hören ist.
+(2) § 103 Abs. 2 bis 5 und § 104 Abs. 1 Satz 2 bis 6, Abs. 1a bis 3 gelten entsprechend mit der Maßgabe, dass das Bundesministerium der Justiz und für Verbraucherschutz an die Stelle der Landesjustizverwaltung tritt und vor der Entscheidung über die Amtsenthebung eines Beisitzers auch das Präsidium der Bundesnotarkammer zu hören ist.
 
 (3) Die Notare sind ehrenamtliche Richter. Sie haben in der Sitzung, zu der sie als Beisitzer herangezogen werden, die Stellung eines Berufsrichters.
 
@@ -1457,7 +1494,7 @@ der Beschwerde nach § 17a Abs. 4 Satz 4 des Gerichtsverfassungsgesetzes.
 (3) Der Bundesgerichtshof entscheidet in erster und letzter Instanz
 
 1.  
-über Klagen, die Entscheidungen betreffen, die das Bundesministerium der Justiz getroffen hat oder für die dieses zuständig ist,
+über Klagen, die Entscheidungen betreffen, die das Bundesministerium der Justiz und für Verbraucherschutz getroffen hat oder für die dieses zuständig ist,
 
 2.  
 über die Nichtigkeit von Wahlen und Beschlüssen der Bundesnotarkammer.
