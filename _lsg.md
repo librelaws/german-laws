@@ -2,7 +2,13 @@ Gesetz über die Haftung und Entschädigung für Ölverschmutzungsschäden durch
 =============================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 65 V v. 31.10.2006 I 2407 u. Bek. v. 14.10.2008 I 2070
+Zuletzt geändert durch Art. 7 G v. 25.11.2015 I 2095
+
+Sonst  
+Mittelbare Änderung durch Art. 2 G v. 18.7.2016 I 1666 (Nr. 35) ist berücksichtigt
+
+Hinweis  
+Änderung durch Art. 4 Abs. 23 G v. 18.7.2016 I 1666 ist wegen struktureller Unstimmigkeiten nicht ausführbar
 
 ### 
 
@@ -33,13 +39,13 @@ nach dem Internationalen Übereinkommen von 2001 über die zivilrechtliche Haftu
 
 (1) Der Eigentümer eines weder im Schiffsregister eines Vertragsstaats des Haftungsübereinkommens von 1992 eingetragenen noch die Flagge eines Vertragsstaats des Haftungsübereinkommens von 1992 führenden Seeschiffs, das mehr als zweitausend Tonnen Öl als Bulkladung befördert, hat eine Artikel VII Abs. 1 des Haftungsübereinkommens von 1984 entsprechende Versicherung oder sonstige finanzielle Sicherheit für die Zeit aufrechtzuerhalten, in der sich das Schiff im Geltungsbereich dieses Gesetzes befindet.
 
-(2) Der Eigentümer eines weder im Schiffsregister eines Vertragsstaats des Bunkeröl-Übereinkommens eingetragenen noch die Flagge eines Vertragsstaats des Bunkeröl-Übereinkommens führenden Seeschiffs mit einer Bruttoraumzahl von mehr als 1.000 hat eine Artikel 7 Abs. 1 des Bunkeröl-Übereinkommens entsprechende Versicherung oder sonstige finanzielle Sicherheit für die Zeit aufrecht zu erhalten, in der sich das Schiff im Geltungsbereich dieses Gesetzes befindet. Die Mindesthöhe der nach Artikel 7 Abs. 1 des Bunkeröl-Übereinkommens aufrechtzuerhaltenden Versicherung oder sonstigen finanziellen Sicherheit beläuft sich je Schadensereignis auf die Summe der Beträge, auf die der Schiffseigentümer seine Haftung nach Artikel 6 Abs. 1 des Übereinkommens vom 19. November 1976 über die Beschränkung der Haftung für Seeforderungen (BGBl. 1986 II S. 786), geändert durch das Protokoll vom 2. Mai 1996 (BGBl. 2000 II S. 790), in seiner jeweiligen für die Bundesrepublik Deutschland geltenden Fassung (Haftungsbeschränkungsübereinkommen), beschränken kann.
+(2) Der Eigentümer eines weder im Schiffsregister eines Vertragsstaats des Bunkeröl-Übereinkommens eingetragenen noch die Flagge eines Vertragsstaats des Bunkeröl-Übereinkommens führenden Seeschiffs mit einer Bruttoraumzahl von mehr als 1 000 hat eine Artikel 7 Abs. 1 des Bunkeröl-Übereinkommens entsprechende Versicherung oder sonstige finanzielle Sicherheit für die Zeit aufrecht zu erhalten, in der sich das Schiff im Geltungsbereich dieses Gesetzes befindet. Die Mindesthöhe der nach Artikel 7 Abs. 1 des Bunkeröl-Übereinkommens aufrechtzuerhaltenden Versicherung oder sonstigen finanziellen Sicherheit beläuft sich je Schadensereignis auf die Summe der Beträge, auf die der Schiffseigentümer seine Haftung nach Artikel 6 Abs. 1 des Übereinkommens vom 19. November 1976 über die Beschränkung der Haftung für Seeforderungen (BGBl. 1986 II S. 786), geändert durch das Protokoll vom 2. Mai 1996 (BGBl. 2000 II S. 790), in seiner jeweiligen für die Bundesrepublik Deutschland geltenden Fassung (Haftungsbeschränkungsübereinkommen), beschränken kann.
 
 (3) Das Bestehen einer Versicherung oder sonstigen finanziellen Sicherheit nach Artikel VII Abs. 1 des Haftungsübereinkommens von 1992, nach Artikel 7 des Bunkeröl-Übereinkommens oder nach Absatz 1 oder Absatz 2 wird durch eine behördliche Bescheinigung nachgewiesen.
 
 (4) Dem Eigentümer eines Seeschiffs, das im Schiffsregister im Geltungsbereich dieses Gesetzes eingetragen ist, wird die Bescheinigung nach Absatz 3 ausgestellt, wenn er nachweist, daß eine entsprechende Versicherung oder sonstige finanzielle Sicherheit besteht, sofern nicht begründeter Anlaß für die Annahme gegeben ist, daß der Sicherheitsgeber nicht in der Lage sein wird, seine Verpflichtungen zu erfüllen. Satz 1 gilt entsprechend für den Eigentümer eines Seeschiffes im Sinne von Absatz 1 oder Absatz 2, wenn dem Eigentümer nicht bereits eine Bescheinigung ausgestellt worden ist, die nach Artikel VII Abs. 7 des Haftungsübereinkommens von 1992 oder Artikel 7 Abs. 9 des Bunkeröl-Übereinkommens anzuerkennen ist.
 
-(5) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung erläßt im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung nähere Bestimmungen über
+(5) Das Bundesministerium für Verkehr und digitale Infrastruktur erläßt im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung nähere Bestimmungen über
 
 1.  
 die Voraussetzungen für die Ausstellung, Gültigkeit und Einziehung der Bescheinigung,
@@ -48,7 +54,7 @@ die Voraussetzungen für die Ausstellung, Gültigkeit und Einziehung der Beschei
 die Zuständigkeiten und das Verfahren bei der Ausstellung und Einziehung der Bescheinigung,
 
 3.  
-die gebührenpflichtigen Tatbestände für Amtshandlungen auf Grund dieses Gesetzes oder einer Rechtsverordnung nach diesem Absatz, die Gebührensätze sowie die Auslagenerstattung. Die Gebühr darf im Einzelfall 25 Euro nicht unterschreiten und 2.000 Euro nicht überschreiten.
+die gebührenpflichtigen Tatbestände für individuell zurechenbare öffentliche Leistungen auf Grund dieses Gesetzes oder einer Rechtsverordnung nach diesem Absatz, die Gebührensätze sowie die Auslagenerstattung.
 
 ### § 3 Pflicht zur Mitführung der Versicherungsbescheinigung
 
@@ -86,19 +92,19 @@ die Einziehung des Schiffssicherheitszeugnisses nach § 3 Abs. 4.
 
 ### § 5 Mitteilung der erhaltenen Ölmengen
 
-(1) Das Bundesministerium für Wirtschaft und Technologie teilt dem Direktor des Internationalen Entschädigungsfonds für Ölverschmutzungsschäden (Fonds) die in Artikel 15 Abs. 2 des Fondsübereinkommens von 1992 und dem Direktor des Zusatzfondsübereinkommens von 2003 die in Artikel 13 des Zusatzfondsübereinkommens von 2003 vorgesehenen Angaben hinsichtlich des im Geltungsbereich dieses Gesetzes erhaltenen beitragspflichtigen Öls mit.
+(1) Das Bundesministerium für Wirtschaft und Energie teilt dem Direktor des Internationalen Entschädigungsfonds für Ölverschmutzungsschäden (Fonds) die in Artikel 15 Abs. 2 des Fondsübereinkommens von 1992 und dem Direktor des Zusatzfondsübereinkommens von 2003 die in Artikel 13 des Zusatzfondsübereinkommens von 2003 vorgesehenen Angaben hinsichtlich des im Geltungsbereich dieses Gesetzes erhaltenen beitragspflichtigen Öls mit.
 
-(2) Personen, die wegen des Erhalts von Öl im Geltungsbereich dieses Gesetzes zur Zahlung von Beiträgen an den Fonds und an den Zusatzfonds von 2003 verpflichtet sind, haben dem Bundesministerium für Wirtschaft und Technologie die für dessen Mitteilung nach Absatz 1 erforderlichen Angaben über ihren Erhalt von Öl zu machen und deren Richtigkeit auf Verlangen des Bundesministeriums für Wirtschaft und Technologie zu beweisen.
+(2) Personen, die wegen des Erhalts von Öl im Geltungsbereich dieses Gesetzes zur Zahlung von Beiträgen an den Fonds und an den Zusatzfonds von 2003 verpflichtet sind, haben dem Bundesministerium für Wirtschaft und Energie die für dessen Mitteilung nach Absatz 1 erforderlichen Angaben über ihren Erhalt von Öl zu machen und deren Richtigkeit auf Verlangen des Bundesministeriums für Wirtschaft und Energie zu beweisen.
 
-(3) Macht eine nach Absatz 2 mitteilungspflichtige Person über den Erhalt beitragspflichtigen Öls nicht oder nicht rechtzeitig die vorgeschriebenen Angaben oder erbringt sie nicht die verlangten Beweise, so kann das Bundesministerium für Wirtschaft und Technologie nach Ablauf einer angemessenen Nachfrist seiner Mitteilung eine im Wege der Schätzung ermittelte Menge beitragspflichtigen Öls zugrunde legen.
+(3) Macht eine nach Absatz 2 mitteilungspflichtige Person über den Erhalt beitragspflichtigen Öls nicht oder nicht rechtzeitig die vorgeschriebenen Angaben oder erbringt sie nicht die verlangten Beweise, so kann das Bundesministerium für Wirtschaft und Energie nach Ablauf einer angemessenen Nachfrist seiner Mitteilung eine im Wege der Schätzung ermittelte Menge beitragspflichtigen Öls zugrunde legen.
 
-(4) Außer für die in Absatz 1 vorgesehene Mitteilung dürfen die nach Absatz 2 gemachten Angaben Dritten weder vom Bundesministerium für Wirtschaft und Technologie noch von nachgeordneten Behörden zugänglich gemacht werden.
+(4) Außer für die in Absatz 1 vorgesehene Mitteilung dürfen die nach Absatz 2 gemachten Angaben Dritten weder vom Bundesministerium für Wirtschaft und Energie noch von nachgeordneten Behörden zugänglich gemacht werden.
 
 (5) "Assoziierte Personen" im Sinne von Artikel 10 Abs. 2 Buchstabe b des Fondsübereinkommens von 1992 sind rechtlich selbständige Unternehmen, die im Verhältnis zueinander in Mehrheitsbesitz stehende Unternehmen und mit Mehrheit beteiligte Unternehmen sind. Ob im Sinne des Satzes 1 Unternehmen im Verhältnis zueinander in Mehrheitsbesitz stehende Unternehmen und mit Mehrheit beteiligte Unternehmen sind, bestimmt sich nach dem sinngemäß anzuwendenden § 16 des Aktiengesetzes.
 
-(6) Das Bundesministerium für Wirtschaft und Technologie kann die ihm nach den Absätzen 1 bis 3 zugewiesenen Aufgaben auf eine nachgeordnete Behörde übertragen.
+(6) Das Bundesministerium für Wirtschaft und Energie kann die ihm nach den Absätzen 1 bis 3 zugewiesenen Aufgaben auf eine nachgeordnete Behörde übertragen.
 
-(7) Das Bundesministerium für Wirtschaft und Technologie erläßt im Einvernehmen mit dem Bundesministerium der Justiz durch Rechtsverordnung nähere Bestimmungen über die in Absatz 2 vorgesehenen Angaben, ihre Form und die zu wahrenden Fristen.
+(7) Das Bundesministerium für Wirtschaft und Energie erläßt im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung nähere Bestimmungen über die in Absatz 2 vorgesehenen Angaben, ihre Form und die zu wahrenden Fristen.
 
 ### § 6 Gerichtliche Zuständigkeiten
 
