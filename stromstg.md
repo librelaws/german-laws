@@ -2,10 +2,7 @@ Stromsteuergesetz (StromStG)
 ============================
 
 Stand  
-Zuletzt geändert durch Art. 2 G v. 5.12.2012 I 2436, 2725
-
-Sonst  
-Bek. v. 9.5.2014 I 453 ist berücksichtigt
+Zuletzt geändert Art. 11 G v. 3.12.2015 I 2178
 
 ### 
 
@@ -320,13 +317,45 @@ b)
 Artikel 15 des Abkommens vom 13. März 1967 zwischen der Bundesrepublik Deutschland und dem Obersten Hauptquartier der Alliierten Mächte, Europa, über die besonderen Bedingungen für die Einrichtung und den Betrieb internationaler militärischer Hauptquartiere in der Bundesrepublik Deutschland (BGBl. 1969 II S. 1997, 2009) in der jeweils geltenden Fassung und
 
 c)  
-den Artikeln III bis V des Abkommens zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika vom 15. Oktober 1954 über die von der Bundesrepublik zu gewährenden Abgabenvergünstigungen für die von den Vereinigten Staaten im Interesse der gemeinsamen Verteidigung geleisteten Ausgaben (BGBl. 1955 II S. 821, 823) in der jeweils geltenden Fassung.
+den Artikeln III bis V des Abkommens zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika vom 15. Oktober 1954 über die von der Bundesrepublik zu gewährenden Abgabenvergünstigungen für die von den Vereinigten Staaten im Interesse der gemeinsamen Verteidigung geleisteten Ausgaben (BGBl. 1955 II S. 821, 823) in der jeweils geltenden Fassung;
+
+13.  
+zur Umsetzung der sich aus
+
+a)  
+Durchführungsverordnungen des Rates aufgrund von Artikel 109 des Vertrags über die Arbeitsweise der Europäischen Union,
+
+b)  
+Verordnungen der Kommission aufgrund von Artikel 108 Absatz 4 des Vertrags über die Arbeitsweise der Europäischen Union sowie
+
+c)  
+Beschlüssen, Rahmen, Leitlinien oder Mitteilungen der Kommission zu den Artikeln 107 bis 109 des Vertrags über die Arbeitsweise der Europäischen Union
+
+ergebenden unionsrechtlichen Veröffentlichungs-, Informations- und Transparenzverpflichtungen für die Gewährung staatlicher Beihilfen ergänzende Bestimmungen zu erlassen und dabei
+
+a)  
+Meldepflichten einschließlich des Verfahrens zur Erhebung der erforderlichen Informationen bei den Begünstigten zu bestimmen,
+
+b)  
+den Begünstigten Pflichten zum Nachweis der beihilferechtlichen Voraussetzungen aufzuerlegen,
+
+c)  
+die Art und Weise der Übermittlung der nach den Buchstaben a und b zu übermittelnden Daten zu regeln,
+
+d)  
+das Nähere über Form, Inhalt, Umfang, Verarbeitung, Nutzung und Sicherung der nach den Buchstaben a und b zu übermittelnden Daten zu bestimmen,
+
+e)  
+die Weitergabe und Veröffentlichung der nach den Buchstaben a und b zu übermittelnden Daten vorzusehen,
+
+f)  
+die Zuständigkeit für die Entgegennahme, Verarbeitung, Nutzung und Weitergabe der nach den Buchstaben a und b zu übermittelnden Daten zu regeln.
 
 Dabei kann es anordnen, dass bei einem Missbrauch für alle daran Beteiligten die Steuer entsteht.
 
 ### § 12 Ermächtigung zu § 10 Absatz 3, 4 und 7
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit durch Rechtsverordnung ohne Zustimmung des Bundesrates durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle, die nationale Akkreditierungsstelle und die Zulassungsstelle nach § 28 des Umweltauditgesetzes zu vollziehende Bestimmungen zu § 10 Absatz 3, 4 und 7 zu erlassen.
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit durch Rechtsverordnung ohne Zustimmung des Bundesrates durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle, die nationale Akkreditierungsstelle und die Zulassungsstelle nach § 28 des Umweltauditgesetzes zu vollziehende Bestimmungen zu § 10 Absatz 3, 4 und 7 zu erlassen.
 
 (2) Durch Rechtsverordnung nach Absatz 1 kann geregelt werden,
 
@@ -357,7 +386,7 @@ die Befugnisse der in § 10 Absatz 7 genannten Stellen, während der Betriebszei
 
 (1) Rechtsverordnungen, die auf Grund der in diesem Gesetz enthaltenen Ermächtigungen erlassen werden, bedürfen nicht der Zustimmung des Bundesrates.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie und das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit erlassen im Einvernehmen mit dem Bundesministerium der Finanzen die allgemeinen Verwaltungsvorschriften, die sich an die Stellen nach § 10 Absatz 7 richten, zur Durchführung von Rechtsverordnungen nach § 12.
+(2) Das Bundesministerium für Wirtschaft und Energie und das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit erlassen im Einvernehmen mit dem Bundesministerium der Finanzen die allgemeinen Verwaltungsvorschriften, die sich an die Stellen nach § 10 Absatz 7 richten, zur Durchführung von Rechtsverordnungen nach § 12.
 
 ### § 14 Anwendungsvorschriften
 
