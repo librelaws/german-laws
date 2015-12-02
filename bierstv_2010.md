@@ -2,7 +2,7 @@ Verordnung zur Durchführung des Biersteuergesetzes (BierStV)
 ============================================================
 
 Stand  
-Geändert durch Art. 4 V v. 1.7.2011 I 1308
+Zuletzt geändert durch Art. 9 Abs. 7 G v. 3.12.2015 I 2178
 
 ### 
 
@@ -574,7 +574,7 @@ Abschnitt 7 Zu den §§ 9 bis 12 des Gesetzes
 
 ### § 16 Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem
 
-Das Bundesministerium der Finanzen legt durch eine Verfahrensanweisung fest, unter welchen Voraussetzungen und Bedingungen Personen, die für Beförderungen unter Steueraussetzung das elektronische Verwaltungsdokument verwenden, mit den Zollbehörden elektronisch Nachrichten über das EDV-gestützte Beförderungs- und Kontrollsystem (§ 9 Absatz 1 des Gesetzes) austauschen. Um auf diese Weise elektronisch Nachrichten austauschen zu können, bedarf es der vorherigen Anmeldung bei einer vom Bundesministerium der Finanzen in der Verfahrensanweisung bekannt gegebenen Stelle. Die Verfahrensanweisung wird vom Bundesministerium der Finanzen im Internet unter www.zoll.de veröffentlicht. Die Personen nach Satz 1 und ihre IT-Dienstleister sind verpflichtet, die in der Verfahrensanweisung festgelegten Voraussetzungen und Bedingungen einzuhalten.
+Die Generalzolldirektion legt durch eine Verfahrensanweisung fest, unter welchen Voraussetzungen und Bedingungen Personen, die für Beförderungen unter Steueraussetzung das elektronische Verwaltungsdokument verwenden, mit den Zollbehörden elektronisch Nachrichten über das EDV-gestützte Beförderungs- und Kontrollsystem (§ 9 Absatz 1 des Gesetzes) austauschen. Um auf diese Weise elektronisch Nachrichten austauschen zu können, bedarf es der vorherigen Anmeldung bei einer von der Generalzolldirektion in der Verfahrensanweisung bekannt gegebenen Stelle. Die Verfahrensanweisung wird von der Generalzolldirektion im Internet unter www.zoll.de veröffentlicht. Die Personen nach Satz 1 und ihre IT-Dienstleister sind verpflichtet, die in der Verfahrensanweisung festgelegten Voraussetzungen und Bedingungen einzuhalten.
 
 ### § 17 Erstellen des elektronischen Verwaltungsdokuments, Mitführen eines Ausdrucks
 
