@@ -2,7 +2,7 @@ Tabaksteuergesetz (TabStG)
 ==========================
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 57 G v. 22.12.2011 I 3044
+Zuletzt geändert durch Art. 12 G v. 3.12.2015 I 2178
 
 ### 
 
@@ -125,19 +125,16 @@ Abschnitt 1 Allgemeine Bestimmungen
 (2) Tabakwaren sind
 
 1.  
-Zigarren oder Zigarillos: als solche zum Rauchen geeignete, mit einem Deckblatt oder mit einem Deckblatt und einem Umblatt umhüllte Tabakstränge
+Zigarren oder Zigarillos: als solche zum Rauchen geeignete und auf Grund ihrer Eigenschaften und der normalen Verbrauchererwartungen ausschließlich dafür bestimmte, mit einem Deckblatt oder mit einem Deckblatt und einem Umblatt umhüllte Tabakstränge
 
 a)  
 ganz aus natürlichem Tabak,
 
 b)  
-mit einem Deckblatt aus natürlichem Tabak,
+mit einem äußeren Deckblatt aus natürlichem Tabak,
 
 c)  
-gefüllt mit entripptem Mischtabak, mit einem zigarrenfarbenen Deckblatt und einem Umblatt, beide aus rekonstituiertem Tabak, wobei das äußere Deckblatt das Erzeugnis vollständig umhüllt, gegebenenfalls auch den Filter, nicht aber das Mundstück, wenn ihr Stückgewicht 1,2 Gramm oder mehr beträgt und das Deckblatt spiralenförmig mit einem spitzen Winkel zur Längsachse des Tabakstrangs von mindestens 30 Grad aufgelegt ist, oder
-
-d)  
-gefüllt mit entripptem Mischtabak, mit einem äußeren zigarrenfarbenen Deckblatt aus rekonstituiertem Tabak, das das Erzeugnis vollständig umhüllt, gegebenenfalls auch den Filter, nicht aber das Mundstück, wenn ihr Stückgewicht 2,3 Gramm oder mehr und ihr Umfang auf mindestens einem Drittel ihrer Länge 34 Millimeter oder mehr beträgt;
+gefüllt mit gerissenem Mischtabak, mit einem äußeren Deckblatt von normaler Zigarrenfarbe aus rekonstituiertem Tabak, das das Erzeugnis vollständig umhüllt, gegebenenfalls auch den Filter, nicht aber das Mundstück, wenn ihr Stückgewicht mindestens 2,3 Gramm und höchstens 10 Gramm und ihr Umfang auf mindestens einem Drittel ihrer Länge 34 Millimeter oder mehr beträgt;
 
 2.  
 Zigaretten:
@@ -154,7 +151,7 @@ Tabakstränge, die durch einen einfachen nichtindustriellen Vorgang mit einem Zi
 3.  
 Rauchtabak (Feinschnitt und Pfeifentabak): geschnittener oder anders zerkleinerter oder gesponnener oder in Platten gepresster Tabak, der sich ohne weitere industrielle Bearbeitung zum Rauchen eignet.
 
-(3) Stückgewicht nach Absatz 2 Nummer 1 Buchstabe c und d ist das Durchschnittsgewicht von 1 000 Stück ohne Filter und Mundstück im Zeitpunkt der Steuerentstehung.
+(3) Stückgewicht nach Absatz 2 Nummer 1 Buchstabe c und d ist das Durchschnittsgewicht von1 000 Stück ohne Filter und Mundstück im Zeitpunkt der Steuerentstehung.
 
 (4) Tabakabfälle sind Rauchtabak, wenn sie zum Rauchen geeignet und für den Einzelverkauf aufgemacht sind sowie nicht Zigarren oder Zigarillos nach Absatz 2 Nummer 1 oder Zigaretten nach Absatz 2 Nummer 2 sind. Als Tabakabfälle im Sinn dieses Absatzes gelten Überreste von Tabakblättern sowie Nebenerzeugnisse, die bei der Verarbeitung von Tabak oder bei der Herstellung, Be- oder Verarbeitung von Tabakwaren anfallen.
 
@@ -162,7 +159,7 @@ Rauchtabak (Feinschnitt und Pfeifentabak): geschnittener oder anders zerkleinert
 
 (6) Pfeifentabak gilt als Feinschnitt, wenn er dazu bestimmt ist, zur Selbstfertigung von Zigaretten verwendet zu werden.
 
-(7) Als Zigarren oder Zigarillos gelten Erzeugnisse mit einem Deckblatt aus natürlichem oder rekonstituiertem Tabak oder mit einem Deckblatt und einem Umblatt aus rekonstituiertem Tabak, die im Übrigen statt aus Tabak ganz oder teilweise aus anderen Stoffen bestehen und die sonstigen Voraussetzungen nach Absatz 2 Nummer 1 erfüllen.
+(7) Als Zigarren oder Zigarillos gelten Erzeugnisse, die statt aus Tabak teilweise aus anderen Stoffen bestehen und die die sonstigen Voraussetzungen nach Absatz 2 Nummer 1 erfüllen.
 
 (8) Als Zigaretten oder Rauchtabak gelten Erzeugnisse, die statt aus Tabak ganz oder teilweise aus anderen Stoffen bestehen und die sonstigen Voraussetzungen nach Absatz 2 Nummer 2 oder Nummer 3 erfüllen. Ausgenommen sind Erzeugnisse ganz aus anderen Stoffen als Tabak, die ausschließlich medizinischen Zwecken dienen und Arzneimittel im Sinn des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 12. Dezember 2005 (BGBl. I S. 3394), das zuletzt durch Artikel 9 Absatz 1 des Gesetzes vom 23. November 2007 (BGBl. I S. 2631) geändert worden ist, in der jeweils geltenden Fassung sind.
 
@@ -776,7 +773,7 @@ Unterlagen über die Tabakwaren,
 4.  
 Beschaffenheit oder Menge der Tabakwaren.
 
-(3) Ab 1. Januar 2014 sind Zigaretten, die Privatpersonen in den Republiken Bulgarien, Estland, Griechenland, Lettland, Litauen, Ungarn, Polen oder Rumänien im steuerrechtlich freien Verkehr für ihren Eigenbedarf erwerben und selbst in das Steuergebiet befördern, vorbehaltlich des vorzeitigen Erreichens der globalen Verbrauchsteuer im Sinn des Artikels 2 der Richtlinie 92/79/EWG durch einen der genannten Mitgliedstaaten nur bis zu einer Menge von 300 Stück steuerfrei. Werden die Mengenbegrenzungen des Satzes 1 überschritten, gelten die darüber hinaus verbrachten Mengen als zu gewerblichen Zwecken verbracht. Das vorzeitige Erreichen der globalen Verbrauchsteuer nach Satz 1 durch einen der in Satz 1 genannten Mitgliedstaaten macht das Bundesministerium der Finanzen durch gesondertes Schreiben im Bundesanzeiger bekannt.
+(3) Bis zum 31. Dezember 2017 sind Zigaretten, die Privatpersonen in den Republiken Bulgarien, Kroatien, Lettland, Litauen, Ungarn oder Rumänien im steuerrechtlich freien Verkehr für ihren Eigenbedarf erwerben und selbst in das Steuergebiet befördern, vorbehaltlich des vorzeitigen Erreichens der globalen Verbrauchsteuer im Sinne des Artikels 10 der Richtlinie 2011/64/EU durch einen der genannten Mitgliedstaaten, nur bis zu einer Menge von 300 Stück steuerfrei. Werden die Mengenbegrenzungen des Satzes 1 überschritten, gelten die darüber hinaus verbrachten Mengen als zu gewerblichen Zwecken verbracht. Das vorzeitige Erreichen der globalen Verbrauchsteuer nach Satz 1 durch einen der in Satz 1 genannten Mitgliedstaaten macht das Bundesministerium der Finanzen durch gesondertes Schreiben im Bundesanzeiger bekannt.
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens vorzuschreiben, bei welcher Menge an Tabakwaren nach Absatz 1 widerleglich vermutet wird, dass diese nicht für den Eigenbedarf der Privatperson bestimmt sind.
 
@@ -811,7 +808,7 @@ Abschnitt 5 Bestimmungen zu den Kleinverkaufspackungen und zu den Kleinverkaufsp
 
 (1) Der Händler muss die Kleinverkaufspackungen verschlossen halten und die Steuerzeichen an den Packungen unversehrt erhalten. Er darf die Packungen jedoch öffnen, um den Inhalt zu prüfen, vorzuzeigen oder, mit Ausnahme des Inhalts von Packungen mit Zigaretten und Feinschnitt, unentgeltlich als Proben oder zu Werbezwecken an Verbraucher zu verteilen. Packungen mit Zigarren oder Zigarillos darf er außerdem zum Stückverkauf an Verbraucher öffnen. Er darf die Packungen nur so öffnen, dass die Steuerzeichen durchtrennt oder eingerissen werden. Der Stückverkauf von Zigarren oder Zigarillos ist nur zulässig, wenn der Preis für die abgegebene Menge, der sich aus dem Kleinverkaufspreis ergibt, nicht auf Bruchteile eines Cents lautet. Ein Stückverkauf von Zigaretten ist unzulässig.
 
-(2) Bei Abgabe zum Verbrauch im Steuergebiet darf der Inhalt einer Kleinverkaufspackung für Zigaretten 19 Stück und der Inhalt einer Kleinverkaufspackung für Feinschnitt 30 Gramm nicht unterschreiten.
+(2) Bei Abgabe zum Verbrauch im Steuergebiet darf der Inhalt einer Kleinverkaufspackung für Zigaretten 20 Stück und der Inhalt einer Kleinverkaufspackung für Feinschnitt 30 Gramm nicht unterschreiten.
 
 ### § 26 Verbot der Abgabe unter Kleinverkaufspreis
 
