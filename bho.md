@@ -2,12 +2,16 @@ Bundeshaushaltsordnung (BHO)
 ============================
 
 Stand  
-Zuletzt geändert durch Art. 10 G v. 9.12.2010 I 1885
+Zuletzt geändert durch Art. 8 Abs. 10 G v. 3.12.2015 I 2178
 
 ### 
 
 ```
-(+++ Textnachweis Geltung ab: 14. 7.1980 +++)
+(+++ Textnachweis Geltung ab: 14.7.1980 +++)
+(+++ Zur Anwendung d. § 37 vgl. § 4 HG 2014, § 4 HG 2015 u. § 4 HG 2016 +++)
+(+++ Zur Nichtanwendung d. §§ 65 bis 69 vgl. § 61 SAG +++)
+(+++ Zur Anwendung d. §§ 89, 90, 92 bis 100 vgl. § 55 EinSiG +++)
+(+++ Zur Anwendung d. § 113 vgl. § 5 KInvFErrG +++)
 ```
 
 Teil I Allgemeine Vorschriften zum Haushaltsplan
@@ -374,6 +378,8 @@ Nur mit vorheriger Zustimmung (Einwilligung) des Bundesministeriums der Finanzen
 
 (6) Mehrausgaben bei übertragbaren Ausgaben (Vorgriffe) sind unter den Voraussetzungen des Absatzes 1 Satz 1 und 2 auf die nächstjährige Bewilligung für den gleichen Zweck anzurechnen. Das Bundesministerium der Finanzen kann Ausnahmen zulassen.
 
+(+++ § 37 Abs. 4: Zur entsprechenden Anwendung vgl. § 4 Abs. 2 Satz 6 HG 2014, § 4 Abs. 2 Satz 6 HG 2015 u. § 4 Abs 2 Satz 6 HG 2016 +++)
+
 ### § 38 Verpflichtungsermächtigungen
 
 (1) Maßnahmen, die den Bund zur Leistung von Ausgaben in künftigen Haushaltsjahren verpflichten können, sind nur zulässig, wenn der Haushaltsplan dazu ermächtigt. Im Falle eines unvorhergesehenen und unabweisbaren Bedarfs kann das Bundesministerium der Finanzen Ausnahmen zulassen; § 37 Abs. 1 Satz 3 ist entsprechend anzuwenden. Eines Nachtragshaushaltsgesetzes bedarf es nicht, wenn im Einzelfall der Gesamtbetrag der überplanmäßigen oder außerplanmäßigen Verpflichtungsermächtigung einen im Haushaltsgesetz festzulegenden Betrag nicht überschreitet oder wenn Rechtsverpflichtungen zu erfüllen sind.
@@ -627,21 +633,28 @@ gewährleistet ist, daß der Jahresabschluß und der Lagebericht, soweit nicht w
 
 (7) Haben Anteile an Unternehmen besondere Bedeutung und ist deren Veräußerung im Haushaltsplan nicht vorgesehen, so dürfen sie nur mit Einwilligung des Bundestages und des Bundesrates veräußert werden, soweit nicht aus zwingenden Gründen eine Ausnahme geboten ist. Ist die Zustimmung nicht eingeholt worden, so sind der Bundestag und der Bundesrat alsbald von der Veräußerung zu unterrichten.
 
+(+++ § 65: Zur Nichtanwendung vgl. § 61 Abs. 2 Satz 3 SAG +++)
 (+++ § 65 Abs. 1: Zur Anwendung für den Deutschen Wetterdienst vgl. § 5 Abs. 2 DWDG F ab 1996-05-02 +++)
 
 ### § 66 Unterrichtung des Bundesrechnungshofes
 
 Besteht eine Mehrheitsbeteiligung im Sinne des § 53 des Haushaltsgrundsätzegesetzes, so hat das zuständige Bundesministerium darauf hinzuwirken, daß dem Bundesrechnungshof die in § 54 des Haushaltsgrundsätzegesetzes bestimmten Befugnisse eingeräumt werden.
 
+(+++ § 66: Zur Nichtanwendung vgl. § 61 Abs. 2 Satz 3 SAG +++)
+
 ### § 67 Prüfungsrecht durch Vereinbarung
 
 Besteht keine Mehrheitsbeteiligung im Sinne des § 53 des Haushaltsgrundsätzegesetzes, so soll das zuständige Bundesministerium, soweit das Interesse des Bundes dies erfordert, bei Unternehmen, die nicht Aktiengesellschaften, Kommanditgesellschaften auf Aktien oder Genossenschaften sind, darauf hinwirken, daß dem Bund in der Satzung oder im Gesellschaftsvertrag die Befugnisse nach den §§ 53 und 54 des Haushaltsgrundsätzegesetzes eingeräumt werden. Bei mittelbaren Beteiligungen gilt dies nur, wenn die Beteiligung den vierten Teil der Anteile übersteigt und einem Unternehmen zusteht, an dem der Bund allein oder zusammen mit anderen Gebietskörperschaften mit Mehrheit im Sinne des § 53 des Haushaltgrundsätzegesetzes beteiligt ist.
+
+(+++ § 67: Zur Nichtanwendung vgl. § 61 Abs. 2 Satz 3 SAG +++)
 
 ### § 68 Zuständigkeitsregelungen
 
 (1) Die Rechte nach § 53 Abs. 1 des Haushaltsgrundsätzegesetzes übt das für die Beteiligung zuständige Bundesministerium aus. Bei der Wahl oder Bestellung der Prüfer nach § 53 Abs. 1 Nr. 1 des Haushaltsgrundsätzegesetzes übt das zuständige Bundesministerium die Rechte des Bundes im Einvernehmen mit dem Bundesrechnungshof aus.
 
 (2) Einen Verzicht auf die Ausübung der Rechte des § 53 Abs. 1 des Haushaltsgrundsätzegesetzes erklärt das zuständige Bundesministerium im Einvernehmen mit dem Bundesministerium der Finanzen, dem für das Bundesvermögen zuständigen Bundesministerium und dem Präsidenten des Bundesrechnungshofes.
+
+(+++ § 68: Zur Nichtanwendung vgl. § 61 Abs. 2 Satz 3 SAG +++)
 
 ### § 69 Unterrichtung des Bundesrechnungshofes
 
@@ -657,6 +670,8 @@ die Berichte, welche die auf seine Veranlassung gewählten oder entsandten Mitgl
 die ihm nach § 53 des Haushaltsgrundsätzegesetzes und nach § 67 zu übersendenden Prüfungsberichte.
 
 Es teilt dabei das Ergebnis seiner Prüfung mit.
+
+(+++ § 69: Zur Nichtanwendung vgl. § 61 Abs. 2 Satz 3 SAG +++)
 
 ### § 69a Parlamentarische Kontrolle von Bundesbeteiligungen
 
@@ -752,7 +767,7 @@ Für Zahlungen oder Buchungen zuständige Stellen sind mindestens jährlich, fü
 
 (2) Die Zentralkasse besteht beim Bundesministerium der Finanzen. Das Bundesministerium der Finanzen kann bestimmen, dass die Zentralkasse bei einer Bundesbehörde seines Geschäftsbereichs eingerichtet wird.
 
-(3) Die Bundeskassen sind bei den Bundesfinanzdirektionen zu errichten.
+(3) Die Bundeskassen sind bei der Generalzolldirektion zu errichten.
 
 (4) Das Bundesministerium der Finanzen regelt das Nähere
 
@@ -961,6 +976,8 @@ die Verwendung der Mittel, die zur Selbstbewirtschaftung zugewiesen sind.
 
 (2) Der Bundesrechnungshof kann nach seinem Ermessen die Prüfung beschränken und Rechnungen ungeprüft lassen.
 
+(+++ § 89: Zur Anwendung vgl. § 55 Abs. 1 Satz 2 EinSiG +++)
+
 ### § 90 Inhalt der Prüfung
 
 Die Prüfung erstreckt sich auf die Einhaltung der für die Haushalts- und Wirtschaftsführung geltenden Vorschriften und Grundsätze, insbesondere darauf, ob
@@ -976,6 +993,8 @@ wirtschaftlich und sparsam verfahren wird,
 
 4.  
 die Aufgabe mit geringerem Personal- oder Sachaufwand oder auf andere Weise wirksamer erfüllt werden kann.
+
+(+++ § 90: Zur Anwendung vgl. § 55 Abs. 1 Satz 2 EinSiG +++)
 
 ### § 91 Prüfung bei Stellen außerhalb der Bundesverwaltung
 
@@ -1007,11 +1026,15 @@ Leiten diese Stellen die Mittel an Dritte weiter, so kann der Bundesrechnungshof
 
 (2) Absatz 1 gilt entsprechend bei Genossenschaften, in denen der Bund Mitglied ist.
 
+(+++ § 92: Zur Anwendung vgl. § 55 Abs. 1 Satz 2 EinSiG +++)
+
 ### § 93 Gemeinsame Prüfung
 
 (1) Ist für die Prüfung sowohl der Bundesrechnungshof als auch ein Landesrechnungshof zuständig, so soll gemeinsam geprüft werden. Soweit nicht Artikel 114 Abs. 2 Satz 1 des Grundgesetzes die Prüfung durch den Bundesrechnungshof vorschreibt, kann der Bundesrechnungshof durch Vereinbarung Prüfungsaufgaben auf die Landesrechnungshöfe übertragen. Der Bundesrechnungshof kann durch Vereinbarung auch Prüfungsaufgaben von den Landesrechnungshöfen übernehmen.
 
 (2) Der Bundesrechnungshof kann durch Vereinbarung mit ausländischen oder über- oder zwischenstaatlichen Prüfungsbehörden die Durchführung einzelner Prüfungen übertragen oder übernehmen, sowie Prüfungsaufgaben für über- oder zwischenstaatliche Einrichtungen übernehmen, wenn er durch völkerrechtliche Verträge oder Verwaltungsabkommen oder durch die Bundesregierung dazu ermächtigt wird.
+
+(+++ § 93: Zur Anwendung vgl. § 55 Abs. 1 Satz 2 EinSiG +++)
 
 ### § 94 Zeit und Art der Prüfung
 
@@ -1021,11 +1044,15 @@ Leiten diese Stellen die Mittel an Dritte weiter, so kann der Bundesrechnungshof
 
 (3)
 
+(+++ § 94: Zur Anwendung vgl. § 55 Abs. 1 Satz 2 EinSiG +++)
+
 ### § 95 Auskunftspflicht
 
 (1) Unterlagen, die der Bundesrechnungshof zur Erfüllung seiner Aufgaben für erforderlich hält, sind ihm auf Verlangen innerhalb einer bestimmten Frist zu übersenden oder seinen Beauftragten vorzulegen.
 
 (2) Dem Bundesrechnungshof und seinen Beauftragten sind die erbetenen Auskünfte zu erteilen.
+
+(+++ § 95: Zur Anwendung vgl. § 55 Abs. 1 Satz 2 EinSiG +++)
 
 ### § 96 Prüfungsergebnis
 
@@ -1034,6 +1061,10 @@ Leiten diese Stellen die Mittel an Dritte weiter, so kann der Bundesrechnungshof
 (2) Prüfungsergebnisse von grundsätzlicher oder erheblicher finanzieller Bedeutung teilt der Bundesrechnungshof dem Bundesministerium der Finanzen mit.
 
 (3) Der Bundesrechnungshof ist zu hören, wenn die Verwaltung Ansprüche des Bundes, die in Prüfungsmitteilungen erörtert worden sind, nicht verfolgen will. Er kann auf die Anhörung verzichten.
+
+(4) Der Bundesrechnungshof kann Dritten durch Auskunft, Akteneinsicht oder in sonstiger Weise Zugang zu dem Prüfungsergebnis gewähren, wenn dieses abschließend festgestellt wurde. Gleiches gilt für Berichte, wenn diese abschließend vom Parlament beraten wurden. Zum Schutz des Prüfungs- und Beratungsverfahrens wird Zugang zu den zur Prüfungs- und Beratungstätigkeit geführten Akten nicht gewährt. Satz 3 gilt auch für die entsprechenden Akten bei den geprüften Stellen.
+
+(+++ § 96: Zur Anwendung vgl. § 55 Abs. 1 Satz 2 EinSiG +++)
 
 ### § 97 Bemerkungen
 
@@ -1057,17 +1088,27 @@ welche Maßnahmen für die Zukunft empfohlen werden.
 
 (4) Bemerkungen zu geheimzuhaltenden Angelegenheiten werden den Präsidenten des Bundestages und des Bundesrates sowie dem Bundeskanzler und dem Bundesministerium der Finanzen mitgeteilt.
 
+(5) Der Bundesrechnungshof veröffentlicht seine Bemerkungen außer in den Fällen des Absatzes 4 unverzüglich nach Zuleitung im Internet.
+
+(+++ § 97: Zur Anwendung vgl. § 55 Abs. 1 Satz 2 EinSiG +++)
+
 ### § 98 Aufforderung zum Schadenausgleich
 
 Der Bundesrechnungshof macht der zuständigen Stelle unverzüglich Mitteilung, wenn nach seiner Auffassung ein Schadenersatzanspruch geltend zu machen ist.
 
+(+++ § 98: Zur Anwendung vgl. § 55 Abs. 1 Satz 2 EinSiG +++)
+
 ### § 99 Angelegenheiten von besonderer Bedeutung
 
-Über Angelegenheiten von besonderer Bedeutung kann der Bundesrechnungshof den Bundestag, den Bundesrat und die Bundesregierung jederzeit unterrichten. Berichtet er dem Bundestag und dem Bundesrat, so unterrichtet er gleichzeitig die Bundesregierung.
+Über Angelegenheiten von besonderer Bedeutung kann der Bundesrechnungshof den Bundestag, den Bundesrat und die Bundesregierung jederzeit unterrichten. Berichtet er dem Bundestag und dem Bundesrat, so unterrichtet er gleichzeitig die Bundesregierung. Der Bundesrechnungshof veröffentlicht seine Berichte zu Angelegenheiten von besonderer Bedeutung unverzüglich nach Zuleitung im Internet.
+
+(+++ § 99: Zur Anwendung vgl. § 55 Abs. 1 Satz 2 EinSiG +++)
 
 ### § 100 Prüfungsämter
 
 Der Bundesrechnungshof kann zur Vorbereitung, Unterstützung und Ergänzung seiner Prüfungstätigkeit Prüfungsaufgaben durch Prüfungsämter, die seiner Dienst- und Fachaufsicht unterstellt sind, wahrnehmen lassen. Diese führen die Prüfungsaufgaben in entsprechender Anwendung der für den Bundesrechnungshof geltenden Bestimmungen nach den Weisungen des Bundesrechnungshofes durch.
+
+(+++ § 100: Zur Anwendung vgl. § 55 Abs. 1 Satz 2 EinSiG +++)
 
 ### § 101 Rechnung des Bundesrechnungshofes
 
@@ -1189,6 +1230,8 @@ Teil VII Sondervermögen
 ### § 113 Grundsatz
 
 Auf Sondervermögen des Bundes sind die Teile I bis IV, VIII und IX dieses Gesetzes entsprechend anzuwenden, soweit nicht durch Gesetz oder auf Grund eines Gesetzes etwas anderes bestimmt ist. Der Bundesrechnungshof prüft die Haushalts- und Wirtschaftsführung der Sondervermögen, Teil V dieses Gesetzes ist entsprechend anzuwenden.
+
+(+++ § 113: Zur Anwendung vgl. § 5 Abs. 1 Satz 3 KInvFErrG +++)
 
 Teil VIII Entlastung
 --------------------
