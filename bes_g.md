@@ -2,7 +2,7 @@ Besoldungsüberleitungsgesetz (BesÜG)
 ====================================
 
 Stand  
-Zuletzt geändert durch Art. 4, 5 u. 6 G v. 15.8.2012 I 1670
+Zuletzt geändert durch Art. 5 G v. 3.12.2015 I 2163
 
 ### 
 
@@ -41,7 +41,7 @@ soweit sie am 1. Juli 2009 und am Vortag den Besoldungsgruppen der Bundesbesoldu
 
 (6) Steht am 30. Juni 2009 eine Ausgleichszulage wegen der Verminderung von Grundgehalt zu, sind bei den Dienstbezügen im Sinne des Absatzes 1 die Dienstbezüge zu berücksichtigen, die bei Anwendung des § 19a des Bundesbesoldungsgesetzes maßgebend wären. In diesen Fällen erfolgt die Zuordnung zu der Stufe oder Überleitungsstufe des Grundgehaltes der Besoldungsgruppe, die bei Anwendung des § 19a des Bundesbesoldungsgesetzes maßgebend wäre. Die Zuordnung ist endgültig; Absatz 5 ist nicht anzuwenden.
 
-(7) Bei der Zuordnung nach Absatz 3 bleiben Leistungsstufen unberücksichtigt. Zu ermitteln ist aber der Betrag, der sich bei einer Berücksichtigung der Leistungsstufe ergeben würde. Die Differenz der sich nach den Sätzen 1 und 2 ergebenden Beträge wird als ruhegehaltfähiger Mehrbetrag gezahlt. Dieser Mehrbetrag verringert sich bei Erhöhungen des Grundgehaltes aufgrund von § 3 oder § 27 Abs. 3 und 4 des Bundesbesoldungsgesetzes in voller Höhe der Bezügeverbesserung. Ab dem Zeitpunkt, zu dem die nächste Stufe nach § 27 Abs. 2 des Bundesbesoldungsgesetzes in der am 30. Juni 2009 geltenden Fassung ohne Berücksichtigung der Leistungsstufe erreicht worden wäre, verringert sich der Mehrbetrag zusätzlich bei allgemeinen Erhöhungen der Dienstbezüge um ein Drittel des Erhöhungsbetrages und durch die Verleihung eines Amtes mit höherem Endgrundgehalt bis zur vollen Höhe der Bezügeverbesserung; dies gilt bei Verleihung eines Amtes oder Dienstgrades einer höheren Besoldungsgruppe der Bundesbesoldungsordnung A nur, wenn vor der Verleihung bereits eine endgültige Zuordnung nach Absatz 5 erfolgte. Bei einer endgültigen Zuordnung nach Absatz 5 Satz 2 werden die Ernannten mit dem Wirksamwerden der Ernennung zum Zweck der Ermittlung des Mehrbetrages in entsprechender Anwendung der Sätze 1 bis 5 so gestellt, als ob die Ernennung am 30. Juni 2009 wirksam gewesen wäre. Erfolgt bis zu dem Zeitpunkt, zu dem die nächste Stufe nach § 27 Abs. 2 des Bundesbesoldungsgesetzes in der am 30. Juni 2009 geltenden Fassung ohne Berücksichtigung der Leistungsstufe erreicht worden wäre, eine weitere Ernennung durch Verleihung eines Amtes oder Dienstgrades einer höheren Besoldungsgruppe der Bundesbesoldungsordnung A, ist der Mehrbetrag in entsprechender Anwendung der Sätze 1 bis 6 erneut zu ermitteln.Der nach den Sätzen 6 oder 7 ermittelte Mehrbetrag verringert sich nach den Sätzen 4 und 5. Wird eine Leistungsstufe während der Zuordnung zu einer Überleitungsstufe oder zu einer vorläufigen Stufe vergeben, ist für die Höhe der Leistungsstufe abweichend von § 27 Abs. 7 des Bundesbesoldungsgesetzes der Betrag maßgebend, der am 30. Juni 2009 als Leistungsstufe gewährt worden wäre. Dieser ruhegehaltfähige Betrag verringert sich nach den Sätzen 4 und 5. Die Sätze 6 bis 8 sind entsprechend anzuwenden. Bis zu dem Zeitpunkt, zu dem die nächste Stufe nach § 27 Abs. 2 des Bundesbesoldungsgesetzes in der am 30. Juni 2009 geltenden Fassung ohne Berücksichtigung der Leistungsstufe erreicht worden wäre, nimmt der Mehrbetrag oder Betrag an allgemeinen Anpassungen der Grundgehaltssätze (§ 14 des Bundesbesoldungsgesetzes) teil. Mehrbeträge werden auf das Vergabebudget nach § 42a Abs. 4 des Bundesbesoldungsgesetzes angerechnet.
+(7) Bei der Zuordnung nach Absatz 3 bleiben Leistungsstufen unberücksichtigt. Zu ermitteln ist aber der Betrag, der sich bei einer Berücksichtigung der Leistungsstufe ergeben würde. Die Differenz der sich nach den Sätzen 1 und 2 ergebenden Beträge wird als ruhegehaltfähiger Mehrbetrag gezahlt. Dieser Mehrbetrag verringert sich bei Erhöhungen des Grundgehaltes aufgrund von § 3 oder § 27 Abs. 3 des Bundesbesoldungsgesetzes in voller Höhe der Bezügeverbesserung. Ab dem Zeitpunkt, zu dem die nächste Stufe nach § 27 Abs. 2 des Bundesbesoldungsgesetzes in der am 30. Juni 2009 geltenden Fassung ohne Berücksichtigung der Leistungsstufe erreicht worden wäre, verringert sich der Mehrbetrag zusätzlich bei allgemeinen Erhöhungen der Dienstbezüge um ein Drittel des Erhöhungsbetrages und durch die Verleihung eines Amtes mit höherem Endgrundgehalt bis zur vollen Höhe der Bezügeverbesserung; dies gilt bei Verleihung eines Amtes oder Dienstgrades einer höheren Besoldungsgruppe der Bundesbesoldungsordnung A nur, wenn vor der Verleihung bereits eine endgültige Zuordnung nach Absatz 5 erfolgte. Bei einer endgültigen Zuordnung nach Absatz 5 Satz 2 werden die Ernannten mit dem Wirksamwerden der Ernennung zum Zweck der Ermittlung des Mehrbetrages in entsprechender Anwendung der Sätze 1 bis 5 so gestellt, als ob die Ernennung am 30. Juni 2009 wirksam gewesen wäre. Erfolgt bis zu dem Zeitpunkt, zu dem die nächste Stufe nach § 27 Abs. 2 des Bundesbesoldungsgesetzes in der am 30. Juni 2009 geltenden Fassung ohne Berücksichtigung der Leistungsstufe erreicht worden wäre, eine weitere Ernennung durch Verleihung eines Amtes oder Dienstgrades einer höheren Besoldungsgruppe der Bundesbesoldungsordnung A, ist der Mehrbetrag in entsprechender Anwendung der Sätze 1 bis 6 erneut zu ermitteln. Der nach den Sätzen 6 oder 7 ermittelte Mehrbetrag verringert sich nach den Sätzen 4 und 5. Wird eine Leistungsstufe während der Zuordnung zu einer Überleitungsstufe oder zu einer vorläufigen Stufe vergeben, ist für die Höhe der Leistungsstufe abweichend von § 27 Absatz 6 des Bundesbesoldungsgesetzes der Betrag maßgebend, der am 30. Juni 2009 als Leistungsstufe gewährt worden wäre. Dieser ruhegehaltfähige Betrag verringert sich nach den Sätzen 4 und 5. Die Sätze 6 bis 8 sind entsprechend anzuwenden. Bis zu dem Zeitpunkt, zu dem die nächste Stufe nach § 27 Abs. 2 des Bundesbesoldungsgesetzes in der am 30. Juni 2009 geltenden Fassung ohne Berücksichtigung der Leistungsstufe erreicht worden wäre, nimmt der Mehrbetrag oder Betrag an allgemeinen Anpassungen der Grundgehaltssätze (§ 14 des Bundesbesoldungsgesetzes) teil. Mehrbeträge werden auf das Vergabebudget nach § 42a Abs. 4 des Bundesbesoldungsgesetzes angerechnet.
 
 (8) Bei Teilzeitbeschäftigten sind für die Zuordnung zu den Stufen oder Überleitungsstufen des Grundgehaltes der Anlage 1 in der ab 1. Juli 2009 gültigen Fassung die Dienstbezüge maßgebend, die ihnen bei Vollzeitbeschäftigung zustehen würden.
 
@@ -49,19 +49,19 @@ soweit sie am 1. Juli 2009 und am Vortag den Besoldungsgruppen der Bundesbesoldu
 
 (10) Wird in den Fällen des § 27 Abs. 3 Satz 3 des Bundesbesoldungsgesetzes in der bis zum 30. Juni 2009 geltenden Fassung festgestellt, dass die Leistungen wieder den mit dem Amt verbundenen Anforderungen entsprechen, werden die Betroffenen ab dem ersten Tag des Monats, in dem diese Feststellung erfolgt, so gestellt, als ob eine Hemmung des Aufstiegs in den Stufen nicht vorgelegen hätte.
 
-(11) In den Fällen des § 27 Abs. 10 Satz 2 des Bundesbesoldungsgesetzes werden die Betroffenen so gestellt, als ob ein Fall des § 27 Absatz 5 Satz 1 des Bundesbesoldungsgesetzes in der bis zum 30. Juni 2009 geltenden Fassung nicht vorgelegen hätte.
+(11) In den Fällen des § 27 Absatz 9 Satz 2 des Bundesbesoldungsgesetzes werden die Betroffenen so gestellt, als ob ein Fall des § 27 Absatz 5 Satz 1 des Bundesbesoldungsgesetzes in der bis zum 30. Juni 2009 geltenden Fassung nicht vorgelegen hätte.
 
 ### § 3 Aufstieg in eine Stufe des Grundgehaltes in den Besoldungsgruppen der Bundesbesoldungsordnung A
 
-(1) Mit der Zuordnung zu einer Stufe des Grundgehaltes der Anlage 1 in der ab 1. Juli 2009 gültigen Fassung beginnt die für den Aufstieg maßgebende Erfahrungszeit nach § 27 Abs. 3 und 4 Satz 1 des Bundesbesoldungsgesetzes. Bei einer Zuordnung zur Stufe 5 auf der Grundlage von Dienstbezügen der Besoldungsgruppen A 7 bis A 12 wird ab dem Zeitpunkt, ab dem das Grundgehalt nach § 27 Abs. 2 des Bundesbesoldungsgesetzes in der am 30. Juni 2009 geltenden Fassung gestiegen wäre, der Betrag der Überleitungsstufe zur Stufe 6 gezahlt; Satz 1 bleibt unberührt. Bei einer Zuordnung zu einer Stufe auf der Grundlage von Dienstbezügen der Besoldungsgruppen A 2 bis A 5 und bei einer Zuordnung zur Stufe 7 auf der Grundlage von Dienstbezügen der Besoldungsgruppe A 6 wird die nächsthöhere Stufe zu dem Zeitpunkt erreicht, zu dem das Grundgehalt nach § 27 Abs. 2 des Bundesbesoldungsgesetzes in der am 30. Juni 2009 geltenden Fassung gestiegen wäre, wenn sich dadurch ein früherer Zeitpunkt als bei einem Aufstieg nach § 27 Abs. 3 und 4 Satz 1 des Bundesbesoldungsgesetzes ergibt. Mit Ausnahme der Angehörigen der Laufbahnen der Offiziere des Truppendienstes, des Militärmusikdienstes, des Sanitätsdienstes und des Geoinformationsdienstes der Bundeswehr gilt dies auch für Soldatinnen auf Zeit und Soldaten auf Zeit, die auf der Grundlage von Dienstbezügen der Besoldungsgruppen A 6 oder A 7 der Stufe 1 zugeordnet werden. Mit diesem Aufstieg beginnt die maßgebende Erfahrungszeit nach § 27 Abs. 3 des Bundesbesoldungsgesetzes.
+(1) Mit der Zuordnung zu einer Stufe des Grundgehaltes der Anlage 1 in der ab 1. Juli 2009 gültigen Fassung beginnt die für den Aufstieg maßgebende Erfahrungszeit nach § 27 Abs. 3 des Bundesbesoldungsgesetzes. Bei einer Zuordnung zur Stufe 5 auf der Grundlage von Dienstbezügen der Besoldungsgruppen A 7 bis A 12 wird ab dem Zeitpunkt, ab dem das Grundgehalt nach § 27 Abs. 2 des Bundesbesoldungsgesetzes in der am 30. Juni 2009 geltenden Fassung gestiegen wäre, der Betrag der Überleitungsstufe zur Stufe 6 gezahlt; Satz 1 bleibt unberührt. Bei einer Zuordnung zu einer Stufe auf der Grundlage von Dienstbezügen der Besoldungsgruppen A 2 bis A 5 und bei einer Zuordnung zur Stufe 7 auf der Grundlage von Dienstbezügen der Besoldungsgruppe A 6 wird die nächsthöhere Stufe zu dem Zeitpunkt erreicht, zu dem das Grundgehalt nach § 27 Abs. 2 des Bundesbesoldungsgesetzes in der am 30. Juni 2009 geltenden Fassung gestiegen wäre, wenn sich dadurch ein früherer Zeitpunkt als bei einem Aufstieg nach § 27 Abs. 3 des Bundesbesoldungsgesetzes ergibt. Mit Ausnahme der Angehörigen der Laufbahnen der Offiziere des Truppendienstes, des Militärmusikdienstes, des Sanitätsdienstes und des Geoinformationsdienstes der Bundeswehr gilt dies auch für Soldatinnen auf Zeit und Soldaten auf Zeit, die auf der Grundlage von Dienstbezügen der Besoldungsgruppen A 6 oder A 7 der Stufe 1 zugeordnet werden. Mit diesem Aufstieg beginnt die maßgebende Erfahrungszeit nach § 27 Abs. 3 des Bundesbesoldungsgesetzes.
 
 (2) Bei einer Zuordnung zu einer Überleitungsstufe wird die dazugehörige Stufe des Grundgehaltes zu dem Zeitpunkt erreicht, zu dem das Grundgehalt nach § 27 Abs. 2 des Bundesbesoldungsgesetzes in der am 30. Juni 2009 geltenden Fassung gestiegen wäre, spätestens jedoch zu dem Zeitpunkt, zu dem ein Aufstieg nach § 27 Abs. 3 des Bundesbesoldungsgesetzes in Verbindung mit Absatz 3 möglich wäre. Wenn die Zuordnung zu einer Überleitungsstufe auf der Grundlage von Dienstbezügen der Besoldungsgruppe A 15 oder A 16 erfolgt, gilt Satz 1 mit der Maßgabe, dass nicht die der Überleitungsstufe zugehörige Stufe des Grundgehaltes, sondern die nächsthöhere Stufe erreicht wird. Mit dem jeweiligen Aufstieg in eine Stufe des Grundgehaltes der Anlage 1 beginnt die für den Aufstieg maßgebende Erfahrungszeit nach § 27 Abs. 3 des Bundesbesoldungsgesetzes.
 
 (3) Die maßgebende Erfahrungszeit nach Absatz 1 Satz 1 und 5 sowie Absatz 2 Satz 3 beträgt für den Aufstieg von Stufe 2 nach Stufe 3 abweichend von § 27 Abs. 3 des Bundesbesoldungsgesetzes zwei Jahre.
 
-(4) In den Fällen des Absatzes 1 Satz 2 bis 4 und des Absatzes 2 verzögert sich der Aufstieg um Zeiten ohne Anspruch auf Dienstbezüge. Satz 1 gilt nicht für Zeiten nach § 28 Abs. 2 des Bundesbesoldungsgesetzes, soweit diese nicht bereits nach § 28 Abs. 3 Nr. 1 oder 2 des Bundesbesoldungsgesetzes in der bis zum 30. Juni 2009 geltenden Fassung berücksichtigt wurden.
+(4) In den Fällen des Absatzes 1 Satz 2 bis 4 und des Absatzes 2 verzögert sich der Aufstieg um Zeiten ohne Anspruch auf Dienstbezüge. Satz 1 gilt nicht für Zeiten nach § 28 Absatz 5 des Bundesbesoldungsgesetzes, soweit diese nicht bereits nach § 28 Abs. 3 Nr. 1 oder 2 des Bundesbesoldungsgesetzes in der bis zum 30. Juni 2009 geltenden Fassung berücksichtigt wurden.
 
-(5) Bei einer Zuordnung zu einer der Stufen 1 bis 4 des Grundgehaltes der Anlage 1 in der ab 1. Juli 2009 gültigen Fassung nach Absatz 1 wird bei Soldatinnen und Soldaten die Verlängerung der Erfahrungszeiten nach § 27 Abs. 4 Satz 2 und 3 des Bundesbesoldungsgesetzes für die durch Zuordnung erreichte Stufe und die nächsthöhere Stufe ausgesetzt, in den Laufbahnen der Feldwebel für die durch Zuordnung erreichte Stufe und die beiden nächsthöheren Stufen. Bei einer Zuordnung zu einer Überleitungsstufe zu den Stufen 2 bis 4 nach Absatz 2 gilt Satz 1 für die dieser dazugehörigen Stufe und die nächsthöhere Stufe, in den Laufbahnen der Feldwebel für die dieser dazugehörigen Stufe und die beiden nächsthöheren Stufen. Bei Soldatinnen und Soldaten, die zu einer der Stufen 5 bis 7 nach Absatz 1 oder zu einer Überleitungsstufe zu den Stufen 5 bis 7 nach Absatz 2 zugeordnet werden, ist § 27 Abs. 4 Satz 2 und 3 des Bundesbesoldungsgesetzes nicht anzuwenden. Liegen die Voraussetzungen nach § 27 Abs. 4 Satz 2 und 3 des Bundesbesoldungsgesetzes nicht bereits zum Zeitpunkt der Zuordnung vor, sondern erst zu einem späteren Zeitpunkt, verzögert sich die Anwendung der Sätze 1 und 2 entsprechend. Die Stufe 8 wird spätestens zu dem Zeitpunkt erreicht, zu dem das Endgrundgehalt nach § 27 Absatz 2 des Bundesbesoldungsgesetzes in der am 30. Juni 2009 geltenden Fassung erreicht worden wäre.
+(5) (weggefallen)
 
 ### § 4 Zuordnung zu den Stufen und Überleitungsstufen des Grundgehaltes in den Besoldungsgruppen R 1 und R 2
 
@@ -75,6 +75,12 @@ Empfängerinnen und Empfänger von Dienstbezügen nach der Besoldungsgruppe R 1 
 
 (3) In den Fällen des Absatzes 1 Satz 1 und des Absatzes 2 verzögert sich der Aufstieg um Zeiten ohne Anspruch auf Dienstbezüge. § 3 Abs. 4 Satz 2 gilt entsprechend.
 
+### § 5a Teilnahme der Grundgehaltssätze an Besoldungsanpassungen
+
+(1) Die Monatsbeträge der Anlagen nehmen an allgemeinen Anpassungen der Besoldung nach § 14 des Bundesbesoldungsgesetzes teil.
+
+(2) Das Bundesministerium des Innern macht die Monatsbeträge nach Absatz 1 in der jeweils geltenden Fassung im Bundesgesetzblatt bekannt.
+
 ### § 6 Regelungen für Beamtinnen und Beamte bei den Postnachfolgeunternehmen
 
 (1) Beamtinnen und Beamte in den Besoldungsgruppen der Bundesbesoldungsordnung A, die bei den Postnachfolgeunternehmen beschäftigt sind, werden gemäß § 2 den Stufen oder Überleitungsstufen des Grundgehaltes zugeordnet.
@@ -85,7 +91,7 @@ Empfängerinnen und Empfänger von Dienstbezügen nach der Besoldungsgruppe R 1 
 
 ### Anlage 1
 
-(Fundstelle: BGBl. I 2012, 1696)
+(Fundstelle: BGBl. I 2012, 1700)
 
 **Überleitungstabelle für die Besoldungsgruppen der Bundesbesoldungsordnung A**
 
@@ -141,456 +147,458 @@ Stufe 8
 
 A 2
 
-1 802,38
+1 845,90
 
-1 844,50
+1 889,03
 
-1 887,75
+1 933,32
 
-1 920,15
+1 966,51
 
-1 927,72
+1 974,26
 
-1 953,66
+2 000,83
 
-1 969,87
+2 017,43
 
-1 987,16
+2 035,14
 
-2 010,92
+2 059,47
 
-2 020,64
+2 069,43
 
-2 054,14
+2 103,74
 
 A 3
 
-1 874,77
+1 920,04
 
-1 919,07
+1 965,41
 
-1 963,37
+2 010,77
 
-1 999,03
+2 047,30
 
-2 007,68
+2 056,15
 
-2 034,70
+2 083,83
 
-2 051,98
+2 101,52
 
-2 070,35
+2 120,33
 
-2 097,37
+2 148,01
 
-2 106,01
+2 156,86
 
-2 141,66
+2 193,37
 
 A 4
 
-1 915,85
+1 962,11
 
-1 968,77
+2 016,31
 
-2 021,73
+2 070,54
 
-2 063,87
+2 113,70
 
-2 072,53
+2 122,57
 
-2 106,01
+2 156,86
 
-2 125,46
+2 176,78
 
-2 148,15
+2 200,02
 
-2 177,33
+2 229,90
 
-2 190,29
+2 243,17
 
-2 229,20
+2 283,02
 
 A 5
 
-1 930,96
+1 977,58
 
-1 996,87
+2 045,08
 
-2 049,81
+2 099,30
 
-2 101,69
+2 152,43
 
-2 118,98
+2 170,14
 
-2 153,57
+2 205,56
 
-2 182,74
+2 235,44
 
-2 206,51
+2 259,79
 
-2 245,41
+2 299,62
 
-2 258,37
+2 312,90
 
-2 309,16
+2 364,91
 
 A 6
 
-1 974,18
+2 021,84
 
-2 031,46
+2 080,51
 
-2 050,91
+2 100,43
 
-2 088,73
+2 139,16
 
-2 128,70
+2 180,09
 
-2 146,00
+2 197,81
 
-2 188,13
+2 240,96
 
-2 203,27
+2 256,47
 
-2 249,72
+2 304,04
 
-2 260,52
+2 315,10
 
-2 309,16
+2 364,91
 
-2 317,79
+2 373,75
 
-2 375,07
+2 432,41
 
-2 432,34
+2 491,07
 
 A 7
 
-2 076,84
+2 126,98
 
-2 129,79
+2 181,21
 
-2 144,91
+2 196,70
 
-2 201,10
+2 254,24
 
-2 234,62
+2 288,58
 
-2 272,42
+2 327,29
 
-2 326,45
+2 382,62
 
-2 343,73
+2 400,31
 
-2 416,14
+2 474,47
 
-2 488,53
+2 548,61
 
-2 506,91
+2 567,43
 
-2 540,41
+2 601,74
 
-2 574,98
+2 637,15
 
-2 591,19
+2 653,75
 
-2 643,04
+2 706,86
 
 A 8
 
-2 202,18
+2 255,35
 
-2 262,69
+2 317,32
 
-2 284,31
+2 339,46
 
-2 355,63
+2 412,51
 
-2 399,93
+2 457,87
 
-2 447,47
+2 506,56
 
-2 516,63
+2 577,39
 
-2 540,41
+2 601,74
 
-2 633,32
+2 696,90
 
-2 693,84
+2 758,88
 
-2 714,36
+2 779,89
 
-2 755,42
+2 821,95
 
-2 796,49
+2 864,01
 
-2 817,01
+2 885,02
 
-2 877,54
+2 947,01
 
 A 9
 
-2 383,71
+2 441,26
 
-2 445,31
+2 504,35
 
-2 464,76
+2 524,27
 
-2 543,64
+2 605,05
 
-2 592,27
+2 654,86
 
-2 641,98
+2 705,76
 
-2 721,93
+2 787,65
 
-2 740,31
+2 806,47
 
-2 849,43
+2 918,22
 
-2 906,71
+2 976,89
 
-2 935,89
+3 006,77
 
-2 973,71
+3 045,50
 
-3 023,42
+3 096,42
 
-3 041,78
+3 115,22
 
-3 108,77
+3 183,83
 
 A 10
 
-2 557,68
+2 619,43
 
-2 643,04
+2 706,86
 
-2 668,98
+2 733,42
 
-2 769,48
+2 836,34
 
-2 829,99
+2 898,32
 
-2 894,83
+2 964,72
 
-2 989,90
+3 062,09
 
-3 021,25
+3 094,20
 
-3 149,83
+3 225,88
 
-3 230,88
+3 308,89
 
-3 261,15
+3 339,88
 
-3 316,24
+3 396,30
 
-3 372,42
+3 453,84
 
-3 400,52
+3 482,63
 
-3 483,74
+3 567,85
 
 A 11
 
-2 935,89
+3 006,77
 
-3 065,55
+3 139,57
 
-3 101,22
+3 176,09
 
-3 194,14
+3 271,26
 
-3 265,45
+3 344,30
 
-3 324,88
+3 405,16
 
-3 430,79
+3 513,62
 
-3 453,47
+3 536,85
 
-3 544,24
+3 629,81
 
-3 625,28
+3 712,81
 
-3 657,70
+3 746,01
 
-3 712,80
+3 802,44
 
-3 771,16
+3 862,21
 
-3 799,25
+3 890,98
 
-3 884,62
+3 978,41
 
 A 12
 
-3 147,69
+3 223,69
 
-3 301,12
+3 380,82
 
-3 343,26
+3 423,98
 
-3 455,64
+3 539,08
 
-3 539,92
+3 625,39
 
-3 610,15
+3 697,31
 
-3 735,49
+3 825,68
 
-3 764,68
+3 855,58
 
-3 871,65
+3 965,13
 
-3 968,90
+4 064,73
 
-4 005,63
+4 102,34
 
-4 072,64
+4 170,97
 
-4 140,71
+4 240,68
 
-4 175,28
+4 276,08
 
-4 277,94
+4 381,23
 
 A 13
 
-3 691,19
+3 780,31
 
-3 857,60
+3 950,74
 
-3 874,89
+3 968,45
 
-4 024,01
+4 121,17
 
-4 057,51
+4 155,47
 
-4 190,42
+4 291,60
 
-4 241,20
+4 343,60
 
-4 300,64
+4 404,48
 
-4 367,63
+4 473,08
 
-4 411,93
+4 518,45
 
-4 495,14
+4 603,67
 
-4 523,23
+4 632,44
 
-4 621,55
+4 733,13
 
-4 634,52
+4 746,41
 
-4 745,82
+4 860,40
 
 A 14
 
-3 796,02
+3 887,67
 
-4 011,05
+4 107,89
 
-4 032,65
+4 130,01
 
-4 226,08
+4 328,11
 
-4 270,38
+4 373,48
 
-4 442,19
+4 549,45
 
-4 507,02
+4 615,83
 
-4 587,00
+4 697,74
 
-4 670,17
+4 782,92
 
-4 729,62
+4 843,82
 
-4 834,43
+4 951,15
 
-4 874,41
+4 992,09
 
-4 997,59
+5 118,25
 
-5 018,13
+5 139,29
 
-5 161,84
+5 286,47
 
 A 15
 
-4 639,93
+4 751,96
 
-4 642,10
+4 754,18
 
-4 853,88
+4 971,08
 
-4 879,81
+4 997,63
 
-5 017,04
+5 138,17
 
-5 068,91
+5 191,30
 
-5 180,21
+5 305,28
 
-5 258,01
+5 384,96
 
-5 343,38
+5 472,39
 
-5 448,19
+5 579,73
 
-5 505,46
+5 638,39
 
-5 639,45
+5 775,61
 
-5 667,54
+5 804,38
 
-5 671,86
+5 808,80
 
-5 828,54
+5 969,26
 
 A 16
 
-5 118,61
+5 242,19
 
-5 120,78
+5 244,42
 
-5 367,15
+5 496,74
 
-5 395,25
+5 525,51
 
-5 555,16
+5 689,28
 
-5 614,59
+5 750,15
 
-5 743,18
+5 881,85
 
-5 833,95
+5 974,81
 
-5 930,12
+6 073,30
 
-6 054,38
+6 200,55
 
-6 119,23
+6 266,97
 
-6 273,73
+6 425,20
 
-6 307,23
+6 459,52
 
-6 312,63
+6 465,04
 
-6 493,10
+6 649,87
 
 Erhöhungsbeträge für die Besoldungsgruppen A 5, A 6, A 9 und A 10
-Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für Beamte des mittleren Dienstes sowie für Unteroffiziere um 19,21 Euro; es erhöht sich in den Besoldungsgruppen A 9 und A 10 für Beamte des gehobenen Dienstes sowie für Offiziere um 8,38 Euro.
+Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für Beamte des mittleren Dienstes sowie für Unteroffiziere um 19,67 Euro; es erhöht sich in den Besoldungsgruppen A 9 und A 10 für Beamte des gehobenen Dienstes sowie für Offiziere um 8,58 Euro.
+
+(+++ Hinweis: Für Beamtinnen und Beamte bei den Postnachfolgeunternehmen vgl. Bek. 2032-26-6 v. 15.8.2012 I 1771 +++)
 
 ### Anlage 2
 
-(Fundstelle: BGBl. I 2012, 1697)
+(Fundstelle: BGBl. I 2012, 1701)
 
 **Überleitungstabelle für die Besoldungsgruppen R 1 und R 2**
 
@@ -646,60 +654,60 @@ Stufe 8
 
 R 1
 
-3 691,19
+3 780,31
 
-3 945,13
+4 040,38
 
-4 046,71
+4 144,41
 
-4 170,96
+4 271,66
 
-4 403,29
+4 509,60
 
-4 622,65
+4 734,26
 
-4 718,82
+4 832,76
 
-4 849,56
+4 966,64
 
-5 033,26
+5 154,78
 
-5 075,40
+5 197,94
 
-5 348,78
+5 477,93
 
-5 527,07
+5 660,51
 
-5 662,14
+5 798,85
 
-5 753,98
+5 892,91
 
-5 979,82
+6 124,20
 
 R 2
 
-4 485,40
+4 593,69
 
-4 715,57
+4 829,43
 
-4 944,65
+5 064,04
 
-5 164,01
+5 288,69
 
-5 258,01
+5 384,96
 
-5 390,92
+5 521,08
 
-5 573,53
+5 708,09
 
-5 616,76
+5 752,37
 
-5 887,98
+6 030,14
 
-6 068,43
+6 214,95
 
-6 203,50
+6 353,28
 
-6 294,27
+6 446,24
 
-6 519,04
+6 676,44
