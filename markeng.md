@@ -2,7 +2,7 @@ Gesetz über den Schutz von Marken und sonstigen Kennzeichen (MarkenG)
 =====================================================================
 
 Stand  
-Zuletzt geändert durch Art. 206 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 8 Abs. 6 G v. 3.12.2015 I 2178
 
 Sonst  
 Die §§ 119 bis 125 sind gem. Bek. v. 24.4.1996 I 682 mWv 20.3.1996 in Kraft getreten.
@@ -2283,7 +2283,7 @@ Abschnitt 2 Beschlagnahme von Waren bei der Einfuhr und Ausfuhr
 
 ### § 148 Zuständigkeiten, Rechtsmittel
 
-(1) Der Antrag nach § 146 Abs. 1 ist bei der Bundesfinanzdirektion zu stellen und hat Wirkung für ein Jahr, sofern keine kürzere Geltungsdauer beantragt wird. Der Antrag kann wiederholt werden.
+(1) Der Antrag nach § 146 Abs. 1 ist bei der Generalzolldirektion zu stellen und hat Wirkung für ein Jahr, sofern keine kürzere Geltungsdauer beantragt wird. Der Antrag kann wiederholt werden.
 
 (2) Für die mit dem Antrag verbundenen Amtshandlungen werden vom Antragsteller Kosten nach Maßgabe des § 178 der Abgabenordnung erhoben.
 
