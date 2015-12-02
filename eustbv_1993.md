@@ -2,7 +2,7 @@ Einfuhrumsatzsteuer-Befreiungsverordnung ()
 ===========================================
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 24.11.2008 I 2232
+Zuletzt geändert durch Art. 9 Abs. 4 G v. 3.12.2015 I 2178
 
 ### 
 
@@ -123,7 +123,7 @@ Satz 1 Nr. 2 gilt nicht, wenn derjenige, der die Lieferung bewirkt hat, den Gege
 
 (1) Einfuhrumsatzsteuerfrei ist die Einfuhr von Gegenständen, die als Gemeinschaftswaren ausgeführt und in einem Freihafen vorübergehend gelagert worden sind. Die Steuerfreiheit hängt davon ab, daß die nachfolgenden Vorschriften eingehalten sind.
 
-(2) Die Lagerung bedarf einer besonderen Zulassung; sie wird grundsätzlich nur zugelassen, wenn im Freihafen vorhandene Anlagen sonst nicht wirtschaftlich ausgenutzt werden können und der Freihafen durch die Lagerung seinem Zweck nicht entfremdet wird. Für die Zulassung ist das von der Oberfinanzdirektion dafür bestimmte Hauptzollamt zuständig. Der Antrag auf Zulassung ist vom Lagerhalter schriftlich zu stellen. Die Zulassung wird schriftlich erteilt.
+(2) Die Lagerung bedarf einer besonderen Zulassung; sie wird grundsätzlich nur zugelassen, wenn im Freihafen vorhandene Anlagen sonst nicht wirtschaftlich ausgenutzt werden können und der Freihafen durch die Lagerung seinem Zweck nicht entfremdet wird. Für die Zulassung ist das von der Generalzolldirektion dafür bestimmte Hauptzollamt zuständig. Der Antrag auf Zulassung ist vom Lagerhalter schriftlich zu stellen. Die Zulassung wird schriftlich erteilt.
 
 (3) Die Gegenstände sind vor der Ausfuhr zu gestellen und mit dem Antrag anzumelden, die Ausfuhr in den Freihafen zollamtlich zu überwachen. Unter bestimmten Voraussetzungen und Bedingungen kann zugelassen werden, daß die Gegenstände ohne Gestellung ausgeführt werden.
 
@@ -137,7 +137,7 @@ Satz 1 Nr. 2 gilt nicht, wenn derjenige, der die Lieferung bewirkt hat, den Gege
 
 (1) Einfuhrumsatzsteuerfrei ist die Einfuhr von Gegenständen, die in einem Freihafen veredelt worden sind, sofern die bei der Veredelung verwendeten Gegenstände als Gemeinschaftswaren ausgeführt worden sind. Anstelle der ausgeführten Gegenstände können auch Gegenstände veredelt werden, die den ausgeführten Gegenständen nach Menge und Beschaffenheit entsprechen. Die Steuerfreiheit hängt davon ab, daß die nachfolgenden Vorschriften eingehalten sind.
 
-(2) Die Freihafen-Veredelung bedarf einer Bewilligung; sie wird nur erteilt, wenn der Freihafen dadurch seinem Zweck nicht entfremdet wird. Für die Bewilligung ist die von der Oberfinanzdirektion dafür bestimmte Zollstelle zuständig. Der Antrag auf Bewilligung ist vom Inhaber des Freihafenbetriebs schriftlich zu stellen. Die Bewilligung wird schriftlich erteilt; sie kann jederzeit widerrufen werden. In der Bewilligung wird bestimmt, welche Zollstelle die Veredelung überwacht (überwachende Zollstelle), welcher Zollstelle die unveredelten Gegenstände zu gestellen sind und bei welcher Zollstelle der Antrag auf Überführung der veredelt eingeführten Gegenstände in den freien Verkehr zu stellen ist.
+(2) Die Freihafen-Veredelung bedarf einer Bewilligung; sie wird nur erteilt, wenn der Freihafen dadurch seinem Zweck nicht entfremdet wird. Für die Bewilligung ist die von der Generalzolldirektion dafür bestimmte Zollstelle zuständig. Der Antrag auf Bewilligung ist vom Inhaber des Freihafenbetriebs schriftlich zu stellen. Die Bewilligung wird schriftlich erteilt; sie kann jederzeit widerrufen werden. In der Bewilligung wird bestimmt, welche Zollstelle die Veredelung überwacht (überwachende Zollstelle), welcher Zollstelle die unveredelten Gegenstände zu gestellen sind und bei welcher Zollstelle der Antrag auf Überführung der veredelt eingeführten Gegenstände in den freien Verkehr zu stellen ist.
 
 (3) Die unveredelten Gegenstände sind vor der Ausfuhr zu gestellen und mit dem Antrag anzumelden, sie für die Freihafen-Veredelung zur Ausfuhr abzufertigen. Wenn die zollamtliche Überwachung anders als durch Gestellung gesichert erscheint, kann die überwachende Zollstelle unter bestimmten Voraussetzungen und Bedingungen zulassen, daß die unveredelten Gegenstände durch Anschreibung in die Freihafen-Veredelung übergeführt werden; die Zulassung kann jederzeit widerrufen werden.
 
