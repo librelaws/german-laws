@@ -4,6 +4,9 @@ Gesetz über den Schutz von Marken und sonstigen Kennzeichen (MarkenG)
 Stand  
 Zuletzt geändert durch Art. 8 Abs. 6 G v. 3.12.2015 I 2178
 
+Hinweis  
+Änderung durch Art. 4 G v. 4.4.2016 I 558 (Nr. 15) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Sonst  
 Die §§ 119 bis 125 sind gem. Bek. v. 24.4.1996 I 682 mWv 20.3.1996 in Kraft getreten.
 
