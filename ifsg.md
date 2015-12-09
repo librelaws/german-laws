@@ -2,19 +2,10 @@ Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen (I
 ==================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 28.7.2011 I 1622
+Zuletzt geändert durch Art. 6a G v. 10.12.2015 I 2229
 
-Hinweis  
-Änderung durch Art. 3 G v. 21.3.2013 I 566 (Nr. 15) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 5 Abs. 2 G v. 20.4.2013 I 868 (Nr. 19) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 2 Abs. 36 G v. 7.8.2013 I 3154 (Nr. 48) noch nicht berücksichtigt
-
-Hinweis  
-Änderung durch Art. 4 Abs. 21 G v. 7.8.2013 I 3154 (Nr. 48) noch nicht berücksichtigt
+Sonst  
+Mittelbare Änderung durch Art. 7 G v. 10.12.2015 I 2229 ist berücksichtigt
 
 ### 
 
@@ -24,7 +15,7 @@ Hinweis
 
 Das G wurde als Artikel 1 G v. 20.7.2000 I 1045 (SeuchRNeuG) vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 5 Abs. 1 Satz 1 dieses G mWv 1.1.2001, §§ 37 und 38 mWv 26.7.2000 in Kraft getreten.
 
-### Inhaltsverzeichnis
+### Inhaltsübersicht
 
 |                                                                                                 |
 |-------------------------------------------------------------------------------------------------|
@@ -63,6 +54,7 @@ Das G wurde als Artikel 1 G v. 20.7.2000 I 1045 (SeuchRNeuG) vom Bundestag mit Z
 | § 21                                                                                            |
 | § 22                                                                                            |
 | § 23                                                                                            |
+| § 23a                                                                                           |
 |                                                                                                 |
 | **5. Abschnitt - Bekämpfung übertragbarer Krankheiten**                                         |
 |                                                                                                 |
@@ -921,7 +913,7 @@ die Mitwirkungs- und Duldungspflichten, insbesondere im Sinne des § 16 Abs. 2, 
 
 (7) Die Grundrechte der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 Grundgesetz), der Freizügigkeit (Artikel 11 Abs. 1 Grundgesetz), der Versammlungsfreiheit (Artikel 8 Grundgesetz) und der Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 Grundgesetz) werden im Rahmen der Absätze 1 bis 5 eingeschränkt.
 
-### § 18 Behördlich angeordnete Entseuchungen, Entwesungen, Bekämpfung von Krankheitserreger übertragenden Wirbeltieren, Kosten
+### § 18 Behördlich angeordnete Entseuchungen, Entwesungen, Bekämpfung von Krankheitserreger übertragenden Wirbeltieren, Gebühren und Auslagen
 
 (1) Zum Schutz des Menschen vor übertragbaren Krankheiten dürfen bei behördlich angeordneten Entseuchungen (Desinfektion), Entwesungen (Bekämpfung von Nichtwirbeltieren) und Maßnahmen zur Bekämpfung von Wirbeltieren, durch die Krankheitserreger verbreitet werden können, nur Mittel und Verfahren verwendet werden, die von der zuständigen Bundesoberbehörde in einer Liste im Bundesgesundheitsblatt bekannt gemacht worden sind. Die Aufnahme in die Liste erfolgt nur, wenn die Mittel und Verfahren hinreichend wirksam sind und keine unvertretbaren Auswirkungen auf Gesundheit und Umwelt haben.
 
@@ -950,11 +942,11 @@ mit dem Umweltbundesamt, das die Wirksamkeit von Mitteln und Verfahren zur Entwe
 
 Die Prüfungen können durch eigene Untersuchungen der zuständigen Bundesbehörde oder auf der Grundlage von im Auftrag der zuständigen Bundesbehörde durchgeführten Sachverständigengutachten erfolgen. Soweit die Mittel nach Satz 1 Nr. 1 Wirkstoffe enthalten, die in zugelassenen oder in der Zulassungsprüfung befindlichen Pflanzenschutzmitteln enthalten sind, erfolgt die Bekanntmachung der Liste im Benehmen mit dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit.
 
-(3) Das Robert Koch-Institut und das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit erheben für Amtshandlungen nach den Absätzen 1 und 2 Kosten (Gebühren und Auslagen).
+(3) Das Robert Koch-Institut und das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit erheben für individuell zurechenbare öffentliche Leistungen nach den Absätzen 1 und 2 Gebühren und Auslagen.
 
-(4) Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände der Amtshandlungen nach Absatz 1, soweit dieser Mittel und Verfahren zur Entseuchung betrifft, und Absatz 2 Satz 1 Nr. 1 und Satz 2 und 3 näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände der Amtshandlungen nach Absatz 1, soweit dieser Mittel und Verfahren zur Entwesung und zur Bekämpfung von Wirbeltieren betrifft, und Absatz 2 Satz 1 Nr. 2 und Satz 2 näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
+(4) Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände der individuell zurechenbaren öffentlichen Leistungen nach Absatz 1, soweit dieser Mittel und Verfahren zur Entseuchung betrifft, und Absatz 2 Satz 1 Nr. 1 und Satz 2 und 3 näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände der individuell zurechenbaren öffentlichen Leistungen nach Absatz 1, soweit dieser Mittel und Verfahren zur Entwesung und zur Bekämpfung von Wirbeltieren betrifft, und Absatz 2 Satz 1 Nr. 2 und Satz 2 näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
 
-(5) Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit durch Rechtsverordnung ohne Zustimmung des Bundesrates Einzelheiten des Listungsverfahrens nach Absatz 2 Satz 1 Nr. 1 festzulegen. Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten des Listungsverfahrens nach Absatz 2 Satz 1 Nr. 2 festzulegen.
+(5) Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit durch Rechtsverordnung ohne Zustimmung des Bundesrates Einzelheiten des Listungsverfahrens nach Absatz 2 Satz 1 Nr. 1 festzulegen. Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten des Listungsverfahrens nach Absatz 2 Satz 1 Nr. 2 festzulegen.
 
 ### § 19 Aufgaben des Gesundheitsamtes in besonderen Fällen
 
@@ -1011,7 +1003,7 @@ Namen und Anschrift des impfenden Arztes sowie
 5.  
 Unterschrift des impfenden Arztes oder Bestätigung der Eintragung des Gesundheitsamtes.
 
-(3) Im Impfausweis ist in geeigneter Form auf das zweckmäßige Verhalten bei ungewöhnlichen Impfreaktionen und auf die sich gegebenenfalls aus den §§ 60 bis 64 ergebenden Ansprüche bei Eintritt eines Impfschadens sowie auf Stellen, bei denen diese geltend gemacht werden können, hinzuweisen.
+(3) Im Impfausweis ist in geeigneter Form auf das zweckmäßige Verhalten bei ungewöhnlichen Impfreaktionen und auf die sich gegebenenfalls aus den §§ 60 bis 64 ergebenden Ansprüche bei Eintritt eines Impfschadens sowie auf Stellen, bei denen diese geltend gemacht werden können, hinzuweisen. Der Impfausweis oder die Impfbescheinigung soll ein Textfeld enthalten, in dem der impfende Arzt einen Terminvorschlag für die nächste Auffrischungsimpfung eintragen kann.
 
 ### § 23 Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder
 
@@ -1090,7 +1082,7 @@ hygienische Mindestanforderungen an Bau, Ausstattung und Betrieb der Einrichtung
 Bestellung, Aufgaben und Zusammensetzung einer Hygienekommission,
 
 3.  
-die erforderliche personelle Ausstattung mit Hygienefachkräften und Krankenhaushygienikern und die Bestellung von hygienebeauftragten Ärzten einschließlich bis längstens zum 31. Dezember 2016 befristeter Übergangsvorschriften zur Qualifikation einer ausreichenden Zahl geeigneten Fachpersonals,
+die erforderliche personelle Ausstattung mit Hygienefachkräften und Krankenhaushygienikern und die Bestellung von hygienebeauftragten Ärzten einschließlich bis längstens zum 31. Dezember 2019 befristeter Übergangsvorschriften zur Qualifikation einer ausreichenden Zahl geeigneten Fachpersonals,
 
 4.  
 Aufgaben und Anforderungen an Fort- und Weiterbildung der in der Einrichtung erforderlichen Hygienefachkräfte, Krankenhaushygieniker und hygienebeauftragten Ärzte,
@@ -1114,6 +1106,10 @@ die klinisch-mikrobiologisch und klinisch-pharmazeutische Beratung des ärztlich
 die Information von aufnehmenden Einrichtungen und niedergelassenen Ärzten bei der Verlegung, Überweisung oder Entlassung von Patienten über Maßnahmen, die zur Verhütung und Bekämpfung von nosokomialen Infektionen und von Krankheitserregern mit Resistenzen erforderlich sind.
 
 Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf andere Stellen übertragen.
+
+### § 23a Personenbezogene Daten von Beschäftigten
+
+Wenn und soweit es zur Erfüllung von Verpflichtungen aus § 23 Absatz 3 in Bezug auf Krankheiten, die durch Schutzimpfung verhütet werden können, erforderlich ist, darf der Arbeitgeber personenbezogene Daten eines Beschäftigten im Sinne des § 3 Absatz 11 des Bundesdatenschutzgesetzes über dessen Impfstatus und Serostatus erheben, verarbeiten oder nutzen, um über die Begründung eines Beschäftigungsverhältnisses oder über die Art und Weise einer Beschäftigung zu entscheiden.
 
 5. Abschnitt Bekämpfung übertragbarer Krankheiten
 -------------------------------------------------
@@ -1144,13 +1140,14 @@ Darüber hinausgehende invasive Eingriffe sowie Eingriffe, die eine Betäubung e
 
 (5) Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) werden insoweit eingeschränkt.
 
-§ 25 Abs. 1: Baden-Württemberg - Abweichung durch § 60 Abs. 4 Polizeigesetz (PolG BW) idF d. G v. 20.11.2012 GBl BW 2012, 625 mWv 29.11.2012 (vgl. BGBl I 2012, 2726)
+§ 25 Abs. 1: Baden-Württemberg - Abweichung durch § 60 Abs. 4 Polizeigesetz (PolG BW) idF d. G v. 20.11.2012 GBl. BW 2012, 625 mWv 29.11.2012 (vgl. BGBl. I 2012, 2726)
+§ 25 Abs. 1 bis 3: Bremen - Abweichung durch § 2 des Gesetzes zur Behandlungseinleitung bei Infektionen mit übertragbaren Krankheiten durch Dritte (BremBlüKDG) v. 24.3.2015 Brem. GBl. S. 118 mWv 26.3.2015 (vgl. BGBl. I 2015, 700)
 
 ### § 26 Teilnahme des behandelnden Arztes
 
 Der behandelnde Arzt ist berechtigt, mit Zustimmung des Patienten an den Untersuchungen nach § 25 sowie an der inneren Leichenschau teilzunehmen.
 
-§ 26 Abs. 1 u. 2: Baden-Württemberg - Abweichung durch § 60 Abs. 4 Polizeigesetz (PolG BW) idF d. G v. 20.11.2012 GBl BW 2012, 625 mWv 29.11.2012 (vgl. BGBl I 2012, 2726)
+§ 26 Abs. 1 u. 2: Baden-Württemberg - Abweichung durch § 60 Abs. 4 Polizeigesetz (PolG BW) idF d. G v. 20.11.2012 GBl. BW 2012, 625 mWv 29.11.2012 (vgl. BGBl. I 2012, 2726)
 
 ### § 27 Unterrichtungspflichten des Gesundheitsamtes
 
@@ -1188,7 +1185,9 @@ von Personen entgegen § 42 ausgeübte Tätigkeit sowie Ort der Ausübung.
 
 (1) Werden Kranke, Krankheitsverdächtige, Ansteckungsverdächtige oder Ausscheider festgestellt oder ergibt sich, dass ein Verstorbener krank, krankheitsverdächtig oder Ausscheider war, so trifft die zuständige Behörde die notwendigen Schutzmaßnahmen, insbesondere die in den §§ 29 bis 31 genannten, soweit und solange es zur Verhinderung der Verbreitung übertragbarer Krankheiten erforderlich ist. Unter den Voraussetzungen von Satz 1 kann die zuständige Behörde Veranstaltungen oder sonstige Ansammlungen einer größeren Anzahl von Menschen beschränken oder verbieten und Badeanstalten oder in § 33 genannte Gemeinschaftseinrichtungen oder Teile davon schließen; sie kann auch Personen verpflichten, den Ort, an dem sie sich befinden, nicht zu verlassen oder von ihr bestimmte Orte nicht zu betreten, bis die notwendigen Schutzmaßnahmen durchgeführt worden sind. Eine Heilbehandlung darf nicht angeordnet werden. Die Grundrechte der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 Grundgesetz), der Versammlungsfreiheit (Artikel 8 Grundgesetz) und der Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 Grundgesetz) werden insoweit eingeschränkt.
 
-(2) Für Maßnahmen nach Absatz 1 gilt § 16 Abs. 5 bis 8, für ihre Überwachung außerdem § 16 Abs. 2 entsprechend.
+(2) Wird festgestellt, dass eine Person in einer Gemeinschaftseinrichtung an Masern erkrankt, dessen verdächtig oder ansteckungsverdächtig ist, kann die zuständige Behörde Personen, die weder einen Impfschutz, der den Empfehlungen der Ständigen Impfkommission entspricht, noch eine Immunität gegen Masern durch ärztliche Bescheinigung nachweisen können, die in § 34 Absatz 1 Satz 1 und 2 genannten Verbote erteilen, bis eine Weiterverbreitung der Krankheit in der Gemeinschaftseinrichtung nicht mehr zu befürchten ist.
+
+(3) Für Maßnahmen nach den Absätzen 1 und 2 gilt § 16 Abs. 5 bis 8, für ihre Überwachung außerdem § 16 Abs. 2 entsprechend.
 
 ### § 29 Beobachtung
 
@@ -1380,6 +1379,8 @@ aufgetreten ist.
 
 (10) Die Gesundheitsämter und die in § 33 genannten Gemeinschaftseinrichtungen sollen die betreuten Personen oder deren Sorgeberechtigte gemeinsam über die Bedeutung eines vollständigen, altersgemäßen, nach den Empfehlungen der Ständigen Impfkommission ausreichenden Impfschutzes und über die Prävention übertragbarer Krankheiten aufklären.
 
+(10a) Bei der Erstaufnahme in eine Kindertageseinrichtung haben die Personensorgeberechtigten gegenüber dieser einen schriftlichen Nachweis darüber zu erbringen, dass zeitnah vor der Aufnahme eine ärztliche Beratung in Bezug auf einen vollständigen, altersgemäßen, nach den Empfehlungen der Ständigen Impfkommission ausreichenden Impfschutz des Kindes erfolgt ist. Wird der Nachweis nicht erbracht, kann das Gesundheitsamt die Personensorgeberechtigten zu einer Beratung laden. Weitergehende landesrechtliche Regelungen bleiben unberührt.
+
 (11) Bei Erstaufnahme in die erste Klasse einer allgemein bildenden Schule hat das Gesundheitsamt oder der von ihm beauftragte Arzt den Impfstatus zu erheben und die hierbei gewonnenen aggregierten und anonymisierten Daten über die oberste Landesgesundheitsbehörde dem Robert Koch-Institut zu übermitteln.
 
 ### § 35 Belehrung für Personen in der Betreuung von Kindern und Jugendlichen
@@ -1460,7 +1461,7 @@ dass und wie Angaben über die Gewinnung und die Beschaffenheit des Wassers für
 8.  
 die Anforderungen an die Untersuchungsstellen, die das Wasser für den menschlichen Gebrauch analysieren.
 
-In der Rechtsverordnung können auch Regelungen über die Anforderungen an die Wassergewinnungs- und Wasserversorgungsanlagen getroffen werden. Ferner kann in der Rechtsverordnung dem Umweltbundesamt die Aufgabe übertragen werden, zu prüfen und zu entscheiden, ob Stoffe, Verfahren und Materialien die nach Satz 1 Nummer 4 festgelegten Anforderungen erfüllen. Voraussetzungen, Inhalt und Verfahren der Prüfung und Entscheidung können in der Rechtsverordnung näher bestimmt werden. In der Rechtsverordnung kann zudem festgelegt werden, dass Stoffe, Verfahren und Materialien bei der Gewinnung, Aufbereitung und Verteilung des Wassers für den menschlichen Gebrauch erst dann verwendet werden dürfen, wenn das Umweltbundesamt festgestellt hat, dass sie die nach Satz 1 Nummer 4 festgelegten Anforderungen erfüllen. Die Rechtsverordnung bedarf des Einvernehmens mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit, soweit es sich um Wassergewinnungsanlagen handelt.
+In der Rechtsverordnung können auch Regelungen über die Anforderungen an die Wassergewinnungs- und Wasserversorgungsanlagen getroffen werden. Ferner kann in der Rechtsverordnung dem Umweltbundesamt die Aufgabe übertragen werden, zu prüfen und zu entscheiden, ob Stoffe, Verfahren und Materialien die nach Satz 1 Nummer 4 festgelegten Anforderungen erfüllen. Voraussetzungen, Inhalt und Verfahren der Prüfung und Entscheidung können in der Rechtsverordnung näher bestimmt werden. In der Rechtsverordnung kann zudem festgelegt werden, dass Stoffe, Verfahren und Materialien bei der Gewinnung, Aufbereitung und Verteilung des Wassers für den menschlichen Gebrauch erst dann verwendet werden dürfen, wenn das Umweltbundesamt festgestellt hat, dass sie die nach Satz 1 Nummer 4 festgelegten Anforderungen erfüllen. Die Rechtsverordnung bedarf des Einvernehmens mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit, soweit es sich um Wassergewinnungsanlagen handelt.
 
 (2) Das Bundesministerium für Gesundheit bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates,
 
@@ -1481,11 +1482,11 @@ dass für die Aufbereitung von Schwimm- oder Badebeckenwasser nur Mittel und Ver
 
 Die Aufnahme von Mitteln und Verfahren zur Aufbereitung von Schwimm- oder Badebeckenwasser in die Liste nach Nummer 5 erfolgt nur, wenn das Umweltbundesamt festgestellt hat, dass die Mittel und Verfahren den Regeln der Technik entsprechen. In der Rechtsverordnung nach Satz 1 können auch Regelungen über die Anforderungen an sonstiges Wasser in Gewerbebetrieben, öffentlichen Bädern sowie in sonstigen nicht ausschließlich privat genutzten Einrichtungen, das zum Schwimmen oder Baden bereitgestellt wird und dessen Überwachung getroffen werden, soweit dies zum Schutz der menschlichen Gesundheit erforderlich ist. Satz 3 gilt nicht für Badegewässer im Sinne der Richtlinie 2006/7/EG des Europäischen Parlaments und des Rates vom 15. Februar 2006 über die Qualität der Badegewässer und deren Bewirtschaftung und zur Aufhebung der Richtlinie 76/160/EWG (ABl. L 64 vom 4.3.2006, S. 37).
 
-(3) Für Amtshandlungen in Antragsverfahren nach den auf Grund der Absätze 1 und 2 erlassenen Rechtsverordnungen kann das Umweltbundesamt zur Deckung des Verwaltungsaufwands Gebühren und Auslagen erheben. Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Gebührensätze und die Auslagenerstattung näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
+(3) Für individuell zurechenbare öffentliche Leistungen in Antragsverfahren nach den auf Grund der Absätze 1 und 2 erlassenen Rechtsverordnungen kann das Umweltbundesamt zur Deckung des Verwaltungsaufwands Gebühren und Auslagen erheben. Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Gebührensätze und die Auslagenerstattung näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
 
 ### § 39 Untersuchungen, Maßnahmen der zuständigen Behörde
 
-(1) Der Unternehmer oder sonstige Inhaber einer Wassergewinnungs- oder Wasserversorgungsanlage oder eines Schwimm- oder Badebeckens hat die ihm auf Grund von Rechtsverordnungen nach § 38 Abs. 1 oder 2 obliegenden Wasseruntersuchungen auf eigene Kosten durchzuführen oder durchführen zu lassen. Er hat auch die Kosten (Gebühren und Auslagen) der Wasseruntersuchungen zu tragen, die die zuständige Behörde auf Grund der Rechtsverordnungen nach § 38 Abs. 1 oder 2 durchführt oder durchführen lässt.
+(1) Der Unternehmer oder sonstige Inhaber einer Wassergewinnungs- oder Wasserversorgungsanlage oder eines Schwimm- oder Badebeckens hat die ihm auf Grund von Rechtsverordnungen nach § 38 Abs. 1 oder 2 obliegenden Wasseruntersuchungen auf eigene Kosten durchzuführen oder durchführen zu lassen. Er hat auch die Gebühren und Auslagen der Wasseruntersuchungen zu tragen, die die zuständige Behörde auf Grund der Rechtsverordnungen nach § 38 Abs. 1 oder 2 durchführt oder durchführen lässt.
 
 (2) Die zuständige Behörde hat die notwendigen Maßnahmen zu treffen, um
 
@@ -1499,7 +1500,7 @@ Gefahren für die menschliche Gesundheit abzuwenden, die von Wasser für den men
 
 ### § 40 Aufgaben des Umweltbundesamtes
 
-Das Umweltbundesamt hat im Rahmen dieses Gesetzes die Aufgabe, Konzeptionen zur Vorbeugung, Erkennung und Verhinderung der Weiterverbreitung von durch Wasser übertragbaren Krankheiten zu entwickeln. Beim Umweltbundesamt können zur Erfüllung dieser Aufgaben beratende Fachkommissionen eingerichtet werden, die Empfehlungen zum Schutz der menschlichen Gesundheit hinsichtlich der Anforderungen an die Qualität des in § 37 Abs. 1 und 2 bezeichneten Wassers sowie der insoweit notwendigen Maßnahmen abgeben können. Die Mitglieder dieser Kommissionen werden vom Bundesministerium für Gesundheit im Benehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit sowie im Benehmen mit den jeweils zuständigen obersten Landesbehörden berufen. Vertreter des Bundesministeriums für Gesundheit, des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit und des Umweltbundesamtes nehmen mit beratender Stimme an den Sitzungen teil. Weitere Vertreter von Bundes- und Landesbehörden können daran teilnehmen.
+Das Umweltbundesamt hat im Rahmen dieses Gesetzes die Aufgabe, Konzeptionen zur Vorbeugung, Erkennung und Verhinderung der Weiterverbreitung von durch Wasser übertragbaren Krankheiten zu entwickeln. Beim Umweltbundesamt können zur Erfüllung dieser Aufgaben beratende Fachkommissionen eingerichtet werden, die Empfehlungen zum Schutz der menschlichen Gesundheit hinsichtlich der Anforderungen an die Qualität des in § 37 Abs. 1 und 2 bezeichneten Wassers sowie der insoweit notwendigen Maßnahmen abgeben können. Die Mitglieder dieser Kommissionen werden vom Bundesministerium für Gesundheit im Benehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit sowie im Benehmen mit den jeweils zuständigen obersten Landesbehörden berufen. Vertreter des Bundesministeriums für Gesundheit, des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit und des Umweltbundesamtes nehmen mit beratender Stimme an den Sitzungen teil. Weitere Vertreter von Bundes- und Landesbehörden können daran teilnehmen.
 
 ### § 41 Abwasser
 
@@ -2067,6 +2068,9 @@ entgegen § 23 Absatz 5 Satz 1, auch in Verbindung mit einer Rechtsverordnung na
 11.  
 entgegen § 25 Absatz 4 Satz 1 eine Untersuchung nicht gestattet,
 
+11a.  
+einer vollziehbaren Anordnung nach § 28 Absatz 2, auch in Verbindung mit einer Rechtsverordnung nach § 32 Satz 1, zuwiderhandelt,
+
 12.  
 entgegen § 29 Abs. 2 Satz 3, auch in Verbindung mit einer Rechtsverordnung nach § 32 Satz 1, Zutritt nicht gestattet,
 
@@ -2084,6 +2088,9 @@ entgegen § 34 Abs. 4 für die Einhaltung der dort genannten Verpflichtungen nic
 
 17.  
 entgegen § 34 Abs. 6 Satz 1, auch in Verbindung mit Satz 2, das Gesundheitsamt nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig benachrichtigt,
+
+17a.  
+entgegen § 34 Absatz 10a Satz 1 einen Nachweis nicht oder nicht rechtzeitig erbringt,
 
 18.  
 entgegen § 35 Satz 1 oder § 43 Abs. 4 Satz 1 eine Belehrung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführt,
@@ -2106,11 +2113,11 @@ entgegen § 51 Satz 2 ein Buch oder eine sonstige Unterlage nicht oder nicht rec
 24.  
 einer Rechtsverordnung nach § 17 Absatz 4 Satz 1 oder Absatz 5 Satz 1, § 20 Abs. 6 Satz 1 oder Abs. 7 Satz 1, § 23 Absatz 8 Satz 1 oder Satz 2, § 38 Abs. 1 Satz 1 Nr. 3 oder Abs. 2 Nr. 3 oder 5 oder § 53 Abs. 1 Nr. 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 8, 9b und 21 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 8, 9b, 11a, 17a und 21 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
 
 ### § 74 Strafvorschriften
 
-Wer vorsätzlich eine der in § 73 Abs. 1 Nr. 1 bis 7, 11 bis 20, 22, 23 oder 24 bezeichnete Handlung begeht und dadurch eine in § 6 Abs. 1 Nr. 1 genannte Krankheit oder einen in § 7 genannten Krankheitserreger verbreitet, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+Wer vorsätzlich eine der in § 73 Absatz 1 Nummer 1 bis 7, 11, 12 bis 17, 18 bis 20, 22, 23 oder 24 bezeichnete Handlung begeht und dadurch eine in § 6 Abs. 1 Nr. 1 genannte Krankheit oder einen in § 7 genannten Krankheitserreger verbreitet, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 ### § 75 Weitere Strafvorschriften
 
