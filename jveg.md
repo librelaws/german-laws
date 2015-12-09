@@ -2,7 +2,7 @@ Gesetz über die Vergütung von Sachverständigen, Dolmetscherinnen, Dolmetscher
 ======================================================================================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 7 G v. 23.7.2013 I 2586
+Zuletzt geändert durch Art. 4 G v. 10.12.2015 I 2218
 
 ### 
 
@@ -14,53 +14,53 @@ Das G wurde als Art. 2 des G v. 5.5.2004 I 718 (KostRMoG) vom Bundestag mit Zust
 
 ### Inhaltsübersicht
 
-|             |
-|-------------|
-| Abschnitt 1 |
-|             |
-| § 1         |
-| § 2         |
-| § 3         |
-| § 4         |
-| § 4a        |
-| § 4b        |
-| § 4c        |
-| Abschnitt 2 |
-|             |
-| § 5         |
-| § 6         |
-| § 7         |
-| Abschnitt 3 |
-|             |
-| § 8         |
-| § 8a        |
-| § 9         |
-| § 10        |
-| § 11        |
-| § 12        |
-| § 13        |
-| § 14        |
-| Abschnitt 4 |
-|             |
-| § 15        |
-| § 16        |
-| § 17        |
-| § 18        |
-| Abschnitt 5 |
-|             |
-| § 19        |
-| § 20        |
-| § 21        |
-| § 22        |
-| § 23        |
-| Abschnitt 6 |
-|             |
-| § 24        |
-| § 25        |
-|             |
-| Anlage 1    |
-| Anlage 2    |
-| Anlage 3    |
+|                                                                   |
+|-------------------------------------------------------------------|
+| **Abschnitt 1**                                                   |
+|   **Allgemeine Vorschriften**                                     |
+| § 1                                                               |
+| § 2                                                               |
+| § 3                                                               |
+| § 4                                                               |
+| § 4a                                                              |
+| § 4b                                                              |
+| § 4c                                                              |
+| **Abschnitt 2**                                                   |
+|   **Gemeinsame Vorschriften**                                     |
+| § 5                                                               |
+| § 6                                                               |
+| § 7                                                               |
+| **Abschnitt 3**                                                   |
+|  **Vergütung von Sachverständigen, Dolmetschern und Übersetzern** |
+| § 8                                                               |
+| § 8a                                                              |
+| § 9                                                               |
+| § 10                                                              |
+| § 11                                                              |
+| § 12                                                              |
+| § 13                                                              |
+| § 14                                                              |
+| **Abschnitt 4**                                                   |
+|  **Entschädigung von ehrenamtlichen Richtern**                    |
+| § 15                                                              |
+| § 16                                                              |
+| § 17                                                              |
+| § 18                                                              |
+| **Abschnitt 5**                                                   |
+|   **Entschädigung von Zeugen und Dritten**                        |
+| § 19                                                              |
+| § 20                                                              |
+| § 21                                                              |
+| § 22                                                              |
+| § 23                                                              |
+| **Abschnitt 6**                                                   |
+|   **Schlussvorschriften**                                         |
+| § 24                                                              |
+| § 25                                                              |
+|                                                                   |
+| Anlage 1                                                          |
+| Anlage 2                                                          |
+| Anlage 3                                                          |
 
 Abschnitt 1 Allgemeine Vorschriften
 -----------------------------------
@@ -208,7 +208,7 @@ für jeden gefahrenen Kilometer ersetzt zuzüglich der durch die Benutzung des K
 
 ### § 6 Entschädigung für Aufwand
 
-(1) Wer innerhalb der Gemeinde, in der der Termin stattfindet, weder wohnt noch berufstätig ist, erhält für die Zeit, während der er aus Anlass der Wahrnehmung des Termins von seiner Wohnung und seinem Tätigkeitsmittelpunkt abwesend sein muss, ein Tagegeld, dessen Höhe sich nach § 4 Abs. 5 Satz 1 Nr. 5 Satz 2 des Einkommensteuergesetzes bestimmt.
+(1) Wer innerhalb der Gemeinde, in der der Termin stattfindet, weder wohnt noch berufstätig ist, erhält für die Zeit, während der er aus Anlass der Wahrnehmung des Termins von seiner Wohnung und seinem Tätigkeitsmittelpunkt abwesend sein muss, ein Tagegeld, dessen Höhe sich nach der Verpflegungspauschale zur Abgeltung tatsächlich entstandener, beruflich veranlasster Mehraufwendungen im Inland nach dem Einkommensteuergesetz bemisst.
 
 (2) Ist eine auswärtige Übernachtung notwendig, wird ein Übernachtungsgeld nach den Bestimmungen des Bundesreisekostengesetzes gewährt.
 
@@ -518,10 +518,10 @@ Zeugen, denen ein Verdienstausfall entsteht, erhalten eine Entschädigung, die s
 
 (1) Soweit von denjenigen, die Telekommunikationsdienste erbringen oder daran mitwirken (Telekommunikationsunternehmen), Anordnungen zur Überwachung der Telekommunikation umgesetzt oder Auskünfte erteilt werden, für die in der Anlage 3 zu diesem Gesetz besondere Entschädigungen bestimmt sind, bemisst sich die Entschädigung ausschließlich nach dieser Anlage.
 
-(2) Dritte, die aufgrund einer gerichtlichen Anordnung nach § 142 Abs. 1 Satz 1 oder § 144 Abs. 1 der Zivilprozessordnung Urkunden, sonstige Unterlagen oder andere Gegenstände vorlegen oder deren Inaugenscheinnahme dulden, sowie Dritte, die aufgrund eines Beweiszwecken dienenden Ersuchens der Strafverfolgungsbehörde
+(2) Dritte, die aufgrund einer gerichtlichen Anordnung nach § 142 Abs. 1 Satz 1 oder § 144 Abs. 1 der Zivilprozessordnung Urkunden, sonstige Unterlagen oder andere Gegenstände vorlegen oder deren Inaugenscheinnahme dulden, sowie Dritte, die aufgrund eines Beweiszwecken dienenden Ersuchens der Strafverfolgungs- oder Verfolgungsbehörde
 
 1.  
-Gegenstände herausgeben (§ 95 Abs. 1, § 98a der Strafprozessordnung) oder die Pflicht zur Herausgabe entsprechend einer Anheimgabe der Strafverfolgungsbehörde abwenden oder
+Gegenstände herausgeben (§ 95 Abs. 1, § 98a der Strafprozessordnung) oder die Pflicht zur Herausgabe entsprechend einer Anheimgabe der Strafverfolgungs- oder Verfolgungsbehörde abwenden oder
 
 2.  
 in anderen als den in Absatz 1 genannten Fällen Auskunft erteilen,
@@ -1039,6 +1039,7 @@ Honorar
 
 **Leichenschau und Obduktion**
 
+*Vorbemerkung 1:*
 (1) Das Honorar in den Fällen der Nummern 100, 102 bis 106 umfasst den zur Niederschrift gegebenen Bericht; in den Fällen der Nummern 102 bis 106 umfasst das Honorar auch das vorläufige Gutachten. Das Honorar nach den Nummern 102 bis 106 enthält jeder Obduzent gesondert.
 (2) Aufwendungen für die Nutzung fremder Kühlzellen, Sektionssäle und sonstiger Einrichtungen werden bis zu einem Betrag von 300 € gesondert erstattet, wenn die Nutzung wegen der großen Entfernung zwischen dem Fundort der Leiche und dem rechtsmedizinischen Institut geboten ist.
 
@@ -1178,7 +1179,7 @@ Die Leistung der in Nummer 300 genannten Art ist außergewöhnlich umfangreich o
 
 Das Honorar 300 beträgt ..........
 
-bis zu 1.000,00 €
+bis zu 1 000,00 €
 
 302
 
@@ -1208,7 +1209,7 @@ Die Leistung der in Nummer 302 genannten Art ist außergewöhnlich umfangreich o
 
 Das Honorar 302 beträgt ..........
 
-bis zu 1.000,00 €
+bis zu 1 000,00 €
 
 304
 
@@ -1359,7 +1360,7 @@ Höhe
 
 *Allgemeine Vorbemerkung:*
  (1) Die Entschädigung nach dieser Anlage schließt alle mit der Erledigung des Ersuchens der Strafverfolgungsbehörde verbundenen Tätigkeiten des Telekommunikationsunternehmens sowie etwa anfallende sonstige Aufwendungen (§ 7 JVEG) ein.
- (2) Für Leistungen, die die Strafverfolgungsbehörden über eine zentrale Kontaktstelle des Generalbundesanwalts, des Bundeskriminalamtes, der Bundespolizei oder des Zollkriminalamtes oder über entsprechende für ein Bundesland oder für mehrere Bundesländer zuständige Kontaktstellen anfordern und abrechnen, ermäßigen sich die Entschädigungsbeträge nach den Nummern 100, 101, 300 bis 312, 400 und 401 um 20 Prozent, wenn bei der Anforderung darauf hingewiesen worden ist, dass es sich bei der anfordernden Stelle um eine zentrale Kontaktstelle handelt.
+ (2) Für Leistungen, die die Strafverfolgungsbehörden über eine zentrale Kontaktstelle des Generalbundesanwalts, des Bundeskriminalamtes, der Bundespolizei oder des Zollkriminalamtes oder über entsprechende für ein Bundesland oder für mehrere Bundesländer zuständige Kontaktstellen anfordern und abrechnen, ermäßigen sich die Entschädigungsbeträge nach den Nummern 100, 101, 300 bis 321 und 400 bis 402 um 20 Prozent, wenn bei der Anforderung darauf hingewiesen worden ist, dass es sich bei der anfordernden Stelle um eine zentrale Kontaktstelle handelt.
 
 **Abschnitt 1**
 **Überwachung der Telekommunikation**
@@ -1389,19 +1390,25 @@ für jeden überwachten Anschluss,
 
 102
 
-– wenn die Überwachungsmaßnahme nicht länger als eine Woche dauert ..........
+– 
+
+wenn die Überwachungsmaßnahme nicht länger als eine Woche dauert ..........
 
    24,00 €
 
 103
 
-– wenn die Überwachungsmaßnahme länger als eine Woche, jedoch nicht länger als zwei Wochen dauert ..........
+– 
+
+wenn die Überwachungsmaßnahme länger als eine Woche, jedoch nicht länger als zwei Wochen dauert ..........
 
    42,00 €
 
 104
 
-– wenn die Überwachungsmaßnahme länger als zwei Wochen dauert:
+– 
+
+wenn die Überwachungsmaßnahme länger als zwei Wochen dauert:
 je angefangenen Monat ..........
 
    75,00 €
@@ -1410,19 +1417,25 @@ Der überwachte Anschluss ist ein ISDN-Basisanschluss:
 
 105
 
-– Die Entschädigung nach Nummer 102 beträgt ..........
+– 
+
+Die Entschädigung nach Nummer 102 beträgt ..........
 
    40,00 €
 
 106
 
-– Die Entschädigung nach Nummer 103 beträgt ..........
+– 
+
+Die Entschädigung nach Nummer 103 beträgt ..........
 
    70,00 €
 
 107
 
-– Die Entschädigung nach Nummer 104 beträgt ..........
+– 
+
+Die Entschädigung nach Nummer 104 beträgt ..........
 
   125,00 €
 
@@ -1430,19 +1443,25 @@ Der überwachte Anschluss ist ein ISDN-Primärmultiplexanschluss:
 
 108
 
-– Die Entschädigung nach Nummer 102 beträgt ..........
+– 
+
+Die Entschädigung nach Nummer 102 beträgt ..........
 
   490,00 €
 
 109
 
-– Die Entschädigung nach Nummer 103 beträgt ..........
+– 
+
+Die Entschädigung nach Nummer 103 beträgt ..........
 
   855,00 €
 
 110
 
-– Die Entschädigung nach Nummer 104 beträgt ..........
+– 
+
+Die Entschädigung nach Nummer 104 beträgt ..........
 
 1 525,00 €
 
@@ -1450,19 +1469,25 @@ Der überwachte Anschluss ist ein digitaler Teilnehmeranschluss mit einer Übert
 
 111
 
-– Die Entschädigung nach Nummer 102 beträgt ..........
+– 
+
+Die Entschädigung nach Nummer 102 beträgt ..........
 
    65,00 €
 
 112
 
-– Die Entschädigung nach Nummer 103 beträgt ..........
+– 
+
+Die Entschädigung nach Nummer 103 beträgt ..........
 
   110,00 €
 
 113
 
-– Die Entschädigung nach Nummer 104 beträgt ..........
+– 
+
+Die Entschädigung nach Nummer 104 beträgt ..........
 
   200,00 €
 
@@ -1487,6 +1512,13 @@ für bis zu 10 in demselben Verfahren gleichzeitig angefragte Kennungen, die der
 
   Bei mehr als 10 angefragten Kennungen wird die Pauschale für jeweils bis zu 10 weitere Kennungen erneut gewährt. Kennung ist auch eine IP-Adresse.
 
+202
+
+Es muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:
+Die Pauschale 201 beträgt ..........
+
+   40,00 €
+
 **Abschnitt 3**
 **Auskünfte über Verkehrsdaten**
 
@@ -1495,126 +1527,211 @@ für bis zu 10 in demselben Verfahren gleichzeitig angefragte Kennungen, die der
 Auskunft über gespeicherte Verkehrsdaten:
 für jede Kennung, die der Auskunftserteilung zugrunde liegt ..........
 
-   30,00 €
+   30,00 €
 
-  Die Mitteilung der die Kennung betreffenden Standortdaten ist mit abgegolten.
+ Die Mitteilung der die Kennung betreffenden Standortdaten ist mit abgegolten.
 
 301
+
+Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:
+Die Pauschale 300 beträgt ..........
+
+   35,00 €
+
+302
 
 Die Auskunft wird im Fall der Nummer 300 aufgrund eines einheitlichen Ersuchens auch oder ausschließlich für künftig anfallende Verkehrsdaten zu bestimmten Zeitpunkten erteilt:
 für die zweite und jede weitere in dem Ersuchen verlangte Teilauskunft ..........
 
-10,00 €
+   10,00 €
 
-302
+303
 
 Auskunft über gespeicherte Verkehrsdaten zu Verbindungen, die zu einer bestimmten Zieladresse hergestellt wurden, durch Suche in allen Datensätzen der abgehenden Verbindungen eines Betreibers (Zielwahlsuche):
 je Zieladresse ..........
 
-   90,00 €
+   90,00 €
 
-  Die Mitteilung der Standortdaten der Zieladresse ist mit abgegolten.
-
-303
-
-Die Auskunft wird im Fall der Nummer 302 aufgrund eines einheitlichen Ersuchens auch oder ausschließlich für künftig anfallende Verkehrsdaten zu bestimmten Zeitpunkten erteilt:
-für die zweite und jede weitere in dem Ersuchen verlangte Teilauskunft ..........
-
-70,00 €
+ Die Mitteilung der Standortdaten der Zieladresse ist mit abgegolten.
 
 304
 
-Auskunft über gespeicherte Verkehrsdaten für eine von der Strafverfolgungsbehörde benannte Funkzelle (Funkzellenabfrage) ..........
+Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:
+Die Pauschale 303 beträgt ..........
 
-   30,00 €
+  110,00 €
 
 305
 
-Auskunft über gespeicherte Verkehrsdaten für mehr als eine von der Strafverfolgungsbehörde benannte Funkzelle:
-Die Pauschale 304 erhöht sich für jede weitere Funkzelle um ..........
+Die Auskunft wird im Fall der Nummer 303 aufgrund eines einheitlichen Ersuchens auch oder ausschließlich für künftig anfallende Verkehrsdaten zu bestimmten Zeitpunkten erteilt:
+für die zweite und jede weitere in dem Ersuchen verlangte Teilauskunft ..........
 
-    4,00 €
+   70,00 €
 
 306
+
+Auskunft über gespeicherte Verkehrsdaten für eine von der Strafverfolgungsbehörde benannte Funkzelle (Funkzellenabfrage) ..........
+
+   30,00 €
+
+307
+
+Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:
+Die Pauschale 306 beträgt ..........
+
+   35,00 €
+
+308
+
+Auskunft über gespeicherte Verkehrsdaten für mehr als eine von der Strafverfolgungsbehörde benannte Funkzelle:
+Die Pauschale 306 erhöht sich für jede weitere Funkzelle um ..........
+
+    4,00 €
+
+309
+
+Auskunft über gespeicherte Verkehrsdaten für mehr als eine von der Strafverfolgungsbehörde benannte Funkzelle und für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:
+Die Pauschale 306 erhöht sich für jede weitere Funkzelle um ..........
+
+    5,00 €
+
+310
 
 Auskunft über gespeicherte Verkehrsdaten in Fällen, in denen lediglich Ort und Zeitraum bekannt sind:
 Die Abfrage erfolgt für einen bestimmten, durch eine Adresse bezeichneten Standort ..........
 
-   60,00 €
+   60,00 €
+
+311
+
+Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:
+Die Pauschale 310 beträgt ..........
+
+   70,00 €
 
 Die Auskunft erfolgt für eine Fläche:
 
-307
+312
 
-– Die Entfernung der am weitesten voneinander entfernten Punkte beträgt nicht mehr als 10 Kilometer:
-Die Entschädigung nach Nummer 306 beträgt ..........
+– 
 
-  190,00 €
+Die Entfernung der am weitesten voneinander entfernten Punkte beträgt nicht mehr als 10 Kilometer:
+Die Pauschale 310 beträgt ..........
 
-308
+  190,00 €
 
-– Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 10 und nicht mehr als 25 Kilometer:
-Die Entschädigung nach Nummer 306 beträgt ..........
+313
 
-  490,00 €
+– 
 
-309
+Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 10, aber nicht mehr als 25 Kilometer:
+Die Pauschale 310 beträgt ..........
 
-– Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 25, aber nicht mehr als 45 Kilometer:
-Die Entschädigung nach Nummer 306 beträgt ..........
+  490,00 €
 
-  930,00 €
+314
 
-  Liegen die am weitesten voneinander entfernten Punkte mehr als 45 Kilometer auseinander, ist für den darüber hinausgehenden Abstand die Entschädigung nach den Nummern 307 bis 309 gesondert zu berechnen.
+– 
 
-310
+Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 25, aber nicht mehr als 45 Kilometer:
+Die Pauschale 310 beträgt ..........
+
+  930,00 €
+
+ Liegen die am weitesten voneinander entfernten Punkte mehr als 45 Kilometer auseinander, ist für den darüber hinausgehenden Abstand die Entschädigung nach den Nummern 312 bis 314 gesondert zu berechnen.
+
+Die Auskunft erfolgt für eine Fläche und es muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:
+
+315
+
+– 
+
+Die Entfernung der am weitesten voneinander entfernten Punkte beträgt nicht mehr als 10 Kilometer:
+Die Pauschale 310 beträgt ..........
+
+  230,00 €
+
+316
+
+– 
+
+Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 10, aber nicht mehr als 25 Kilometer:
+Die Pauschale 310 beträgt ..........
+
+  590,00 €
+
+317
+
+– 
+
+Die Entfernung der am weitesten voneinander entfernten Punkte beträgt mehr als 25, aber nicht mehr als 45 Kilometer:
+Die Pauschale 310 beträgt ..........
+
+1 120,00 €
+
+ Liegen die am weitesten voneinander entfernten Punkte mehr als 45 Kilometer auseinander, ist für den darüber hinausgehenden Abstand die Entschädigung nach den Nummern 315 bis 317 gesondert zu berechnen.
+
+318
 
 Die Auskunft erfolgt für eine bestimmte Wegstrecke:
-Die Entschädigung nach Nummer 306 beträgt für jeweils angefangene 10 Kilometer Länge ..........
+Die Pauschale 310 beträgt für jeweils angefangene 10 Kilometer Länge ..........
 
-  110,00 €
+  110,00 €
 
-311
+319
+
+Die Auskunft erfolgt für eine bestimmte Wegstrecke und es muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:
+Die Pauschale 310 beträgt für jeweils angefangene 10 Kilometer Länge ..........
+
+  130,00 €
+
+320
 
 Umsetzung einer Anordnung zur Übermittlung künftig anfallender Verkehrsdaten in Echtzeit:
 je Anschluss ..........
 
-  100,00 €
+  100,00 €
 
-Mit der Entschädigung ist auch der Aufwand für die Abschaltung der Übermittlung und die Mitteilung der den Anschluss betreffenden Standortdaten entgolten.
+ Mit der Entschädigung ist auch der Aufwand für die Abschaltung der Übermittlung und die Mitteilung der den Anschluss betreffenden Standortdaten entgolten.
 
-312
+321
 
-Verlängerung der Maßnahme im Fall der Nummer 311 ..........
+Verlängerung der Maßnahme im Fall der Nummer 320 ..........
 
-   35,00 €
+   35,00 €
 
-Leitungskosten für die Übermittlung der Verkehrsdaten in den Fällen der Nummern 311 und 312:
+Leitungskosten für die Übermittlung der Verkehrsdaten in den Fällen der Nummern 320 und 321:
 
-313
+322
 
-– wenn die Dauer der angeordneten Übermittlung nicht länger als eine Woche dauert ..........
+– 
 
-    8,00 €
+wenn die angeordnete Übermittlung nicht länger als eine Woche dauert ..........
 
-314
+    8,00 €
 
-– wenn die Dauer der angeordneten Übermittlung länger als eine Woche, jedoch nicht länger als zwei Wochen dauert ..........
+323
 
-   14,00 €
+– 
 
-315
+wenn die angeordnete Übermittlung länger als eine Woche, aber nicht länger als zwei Wochen dauert ..........
 
-– wenn die Dauer der angeordneten Übermittlung länger als zwei Wochen dauert:
+   14,00 €
+
+324
+
+– 
+
+wenn die angeordnete Übermittlung länger als zwei Wochen dauert:
 je angefangenen Monat ..........
 
-   25,00 €
+   25,00 €
 
-316
+325
 
 Übermittlung der Verkehrsdaten auf einem Datenträger ..........
 
-   10,00 €
+    10,00 €
 
 **Abschnitt 4**
 **Sonstige Auskünfte**
@@ -1627,7 +1744,14 @@ Auskunft über den letzten dem Netz bekannten Standort eines Mobiltelefons (Stan
 
 401
 
+Im Fall der Nummer 400 muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:
+Die Pauschale 400 beträgt ..........
+
+   110,00 €
+
+402
+
 Auskunft über die Struktur von Funkzellen:
 je Funkzelle ..........
 
-   35,00 €.
+   35,00 €
