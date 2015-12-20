@@ -7,6 +7,9 @@ Zuletzt geändert durch Art. 1 G v. 21.12.2015 I 2553
 Sonst  
 Mittelbare Änderung durch Art. 3 Nr. 2 G v. 21.12.2015 I 2553 ist berücksichtigt
 
+Hinweis  
+Änderung durch Art. 1 G v. 14.8.2017 I 3214 (Nr. 58) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
@@ -34,7 +37,7 @@ Erster Abschnitt Durchführung der betrieblichen Altersversorgung
 
 ### 
 
-### § 1 Zusage des Arbeitgebers auf betriebliche Altersvorsorge
+### § 1 Zusage des Arbeitgebers auf betriebliche Altersversorgung
 
 (1) Werden einem Arbeitnehmer Leistungen der Alters-, Invaliditäts- oder Hinterbliebenenversorgung aus Anlass seines Arbeitsverhältnisses vom Arbeitgeber zugesagt (betriebliche Altersversorgung), gelten die Vorschriften dieses Gesetzes. Die Durchführung der betrieblichen Altersversorgung kann unmittelbar über den Arbeitgeber oder über einen der in § 1b Abs. 2 bis 4 genannten Versorgungsträger erfolgen. Der Arbeitgeber steht für die Erfüllung der von ihm zugesagten Leistungen auch dann ein, wenn die Durchführung nicht unmittelbar über ihn erfolgt.
 
@@ -224,7 +227,7 @@ der außergerichtliche Vergleich (Stundungs-, Quoten- oder Liquidationsvergleich
 3.  
 die vollständige Beendigung der Betriebstätigkeit im Geltungsbereich dieses Gesetzes, wenn ein Antrag auf Eröffnung des Insolvenzverfahrens nicht gestellt worden ist und ein Insolvenzverfahren offensichtlich mangels Masse nicht in Betracht kommt.
 
-(1a) Der Anspruch gegen den Träger der Insolvenzsicherung entsteht mit dem Beginn des Kalendermonats, der auf den Eintritt des Sicherungsfalles folgt. Der Anspruch endet mit Ablauf des Sterbemonats des Begünstigten, soweit in der Versorgungszusage des Arbeitgebers nicht etwas anderen bestimmt ist. In den Fällen des Absatzes 1 Satz 1 und 4 Nr. 1 und 3 umfaßt der Anspruch auch rückständige Versorgungsleistungen, soweit diese bis zu zwölf Monaten vor Entstehen der Leitungspflicht des Trägers der Insolvenzsicherung entstanden sind.
+(1a) Der Anspruch gegen den Träger der Insolvenzsicherung entsteht mit dem Beginn des Kalendermonats, der auf den Eintritt des Sicherungsfalles folgt. Der Anspruch endet mit Ablauf des Sterbemonats des Begünstigten, soweit in der Versorgungszusage des Arbeitgebers nicht etwas anderen bestimmt ist. In den Fällen des Absatzes 1 Satz 1 und 4 Nr. 1 und 3 umfaßt der Anspruch auch rückständige Versorgungsleistungen, soweit diese bis zu zwölf Monaten vor Entstehen der Leistungspflicht des Trägers der Insolvenzsicherung entstanden sind.
 
 (2) Personen, die bei Eröffnung des Insolvenzverfahrens oder bei Eintritt der nach Absatz 1 Satz 4 gleichstehenden Voraussetzungen (Sicherungsfall) eine nach § 1b unverfallbare Versorgungsanwartschaft haben, und ihre Hinterbliebenen haben bei Eintritt des Versorgungsfalls einen Anspruch gegen den Träger der Insolvenzsicherung, wenn die Anwartschaft beruht
 
@@ -463,6 +466,76 @@ bei einer anderen Zusatzversorgungseinrichtung pflichtversichert sind, die mit e
 3.  
 unter das Gesetz über die zusätzliche Alters- und Hinterbliebenenversorgung für Angestellte und Arbeiter der Freien und Hansestadt Hamburg (Erstes Ruhegeldgesetz - 1. RGG), das Gesetz zur Neuregelung der zusätzlichen Alters- und Hinterbliebenenversorgung für Angestellte und Arbeiter der Freien und Hansestadt Hamburg (Zweites Ruhegeldgesetz - 2. RGG) oder unter das Bremische Ruhelohngesetz in ihren jeweiligen Fassungen fallen oder auf die diese Gesetze sonst Anwendung finden,
 
+gelten die §§ 2, 5, 16, 27 und 28 nicht, soweit sich aus den nachfolgenden Regelungen nichts Abweichendes ergibt.
+
+(2) Bei Eintritt des Versorgungsfalles erhalten die in Absatz 1 Nr. 1 und 2 bezeichneten Personen, deren Anwartschaft nach § 1b fortbesteht und deren Arbeitsverhältnis vor Eintritt des Versorgungsfalles geendet hat, von der Zusatzversorgungseinrichtung eine Zusatzrente nach folgenden Maßgaben:
+
+1.  
+Der monatliche Betrag der Zusatzrente beträgt für jedes Jahr der aufgrund des Arbeitsverhältnisses bestehenden Pflichtversicherung bei einer Zusatzversorgungseinrichtung 2,25 vom Hundert, höchstens jedoch 100 vom Hundert der Leistung, die bei dem höchstmöglichen Versorgungssatz zugestanden hätte (Voll-Leistung). Für die Berechnung der Voll-Leistung
+
+a)  
+ist der Versicherungsfall der Regelaltersrente maßgebend,
+
+b)  
+ist das Arbeitsentgelt maßgebend, das nach der Versorgungsregelung für die Leistungsbemessung maßgebend wäre, wenn im Zeitpunkt des Ausscheidens der Versicherungsfall im Sinne der Versorgungsregelung eingetreten wäre,
+
+c)  
+finden § 2 Abs. 5 Satz 1 und § 2 Abs. 6 entsprechend Anwendung,
+
+d)  
+ist im Rahmen einer Gesamtversorgung der im Falle einer Teilzeitbeschäftigung oder Beurlaubung nach der Versorgungsregelung für die gesamte Dauer des Arbeitsverhältnisses maßgebliche Beschäftigungsquotient nach der Versorgungsregelung als Beschäftigungsquotient auch für die übrige Zeit maßgebend,
+
+e)  
+finden die Vorschriften der Versorgungsregelung über eine Mindestleistung keine Anwendung und
+
+f)  
+ist eine anzurechnende Grundversorgung nach dem bei der Berechnung von Pensionsrückstellungen für die Berücksichtigung von Renten aus der gesetzlichen Rentenversicherung allgemein zulässigen Verfahren zu ermitteln. Hierbei ist das Arbeitsentgelt nach Buchstabe b zugrunde zu legen und - soweit während der Pflichtversicherung Teilzeitbeschäftigung bestand - diese nach Maßgabe der Versorgungsregelung zu berücksichtigen.
+
+2.  
+Die Zusatzrente vermindert sich um 0,3 vom Hundert für jeden vollen Kalendermonat, den der Versorgungsfall vor Vollendung des 65. Lebensjahres eintritt, höchstens jedoch um den in der Versorgungsregelung für die Voll-Leistung vorgesehenen Vomhundertsatz.
+
+3.  
+Übersteigt die Summe der Vomhundertsätze nach Nummer 1 aus unterschiedlichen Arbeitsverhältnissen 100, sind die einzelnen Leistungen im gleichen Verhältnis zu kürzen.
+
+4.  
+Die Zusatzrente muss monatlich mindestens den Betrag erreichen, der sich aufgrund des Arbeitsverhältnisses nach der Versorgungsregelung als Versicherungsrente aus den jeweils maßgeblichen Vomhundertsätzen der zusatzversorgungspflichtigen Entgelte oder der gezahlten Beiträge und Erhöhungsbeträge ergibt.
+
+5.  
+Die Vorschriften der Versorgungsregelung über das Erlöschen, das Ruhen und die Nichtleistung der Versorgungsrente gelten entsprechend. Soweit die Versorgungsregelung eine Mindestleistung in Ruhensfällen vorsieht, gilt dies nur, wenn die Mindestleistung der Leistung im Sinne der Nummer 4 entspricht.
+
+6.  
+Verstirbt die in Absatz 1 genannte Person, erhält eine Witwe oder ein Witwer 60 vom Hundert, eine Witwe oder ein Witwer im Sinne des § 46 Abs. 1 des Sechsten Buches Sozialgesetzbuch 42 vom Hundert, eine Halbwaise 12 vom Hundert und eine Vollwaise 20 vom Hundert der unter Berücksichtigung der in diesem Absatz genannten Maßgaben zu berechnenden Zusatzrente; die §§ 46, 48, 103 bis 105 des Sechsten Buches Sozialgesetzbuch sind entsprechend anzuwenden. Die Leistungen an mehrere Hinterbliebene dürfen den Betrag der Zusatzrente nicht übersteigen; gegebenenfalls sind die Leistungen im gleichen Verhältnis zu kürzen.
+
+7.  
+Versorgungsfall ist der Versicherungsfall im Sinne der Versorgungsregelung.
+
+(3) Personen, auf die bis zur Beendigung ihre Arbeitsverhältnisses die Regelungen des Ersten Ruhegeldgesetzes, des Zweiten Ruhegeldgesetzes oder des Bremischen Ruhelohngesetzes in ihren jeweiligen Fassungen Anwendung gefunden haben, haben Anspruch gegenüber ihrem ehemaligen Arbeitgeber auf Leistungen in sinngemäßer Anwendung des Absatzes 2 mit Ausnahme von Absatz 2 Nr. 3 und 4 sowie Nr. 5 Satz 2; bei Anwendung des Zweiten Ruhegeldgesetzes bestimmt sich der monatliche Betrag der Zusatzrente abweichend von Absatz 2 nach der nach dem Zweiten Ruhegeldgesetz maßgebenden Berechnungsweise.
+
+(4) Die Leistungen nach den Absätzen 2 und 3 werden, mit Ausnahme der Leistungen nach Absatz 2 Nr. 4, jährlich zum 1. Juli um 1 vom Hundert erhöht, soweit in diesem Jahr eine allgemeine Erhöhung der Versorgungsrenten erfolgt.
+
+(5) Besteht bei Eintritt des Versorgungsfalles neben dem Anspruch auf Zusatzrente oder auf die in Absatz 3 oder Absatz 7 bezeichneten Leistungen auch Anspruch auf eine Versorgungsrente oder Versicherungsrente der in Absatz 1 Satz 1 Nr. 1 und 2 bezeichneten Zusatzversorgungseinrichtungen oder Anspruch auf entsprechende Versorgungsleistungen der Versorgungsanstalt der deutschen Kulturorchester oder der Versorgungsanstalt der deutschen Bühnen oder nach den Regelungen des Ersten Ruhegeldgesetzes, des Zweiten Ruhegeldgesetzes oder des Bremischen Ruhelohngesetzes, in deren Berechnung auch die der Zusatzrente zugrunde liegenden Zeiten berücksichtigt sind, ist nur die im Zahlbetrag höhere Rente zu leisten.
+
+(6) Eine Anwartschaft auf Zusatzrente nach Absatz 2 oder auf Leistungen nach Absatz 3 kann bei Übertritt der anwartschaftsberechtigten Person in ein Versorgungssystem einer überstaatlichen Einrichtung in das Versorgungssystem dieser Einrichtung übertragen werden, wenn ein entsprechendes Abkommen zwischen der Zusatzversorgungseinrichtung oder der Freien und Hansestadt Hamburg oder der Freien Hansestadt Bremen und der überstaatlichen Einrichtung besteht.
+
+(7) Für Personen, die bei der Versorgungsanstalt der deutschen Kulturorchester oder der Versorgungsanstalt der deutschen Bühnen pflichtversichert sind, gelten die §§ 2 bis 5, 16, 27 und 28 nicht. Bei Eintritt des Versorgungsfalles treten an die Stelle der Zusatzrente und der Leistungen an Hinterbliebene nach Absatz 2 und an die Stelle der Regelung in Absatz 4 die satzungsgemäß vorgesehenen Leistungen; Absatz 2 Nr. 5 findet entsprechend Anwendung. Die Höhe der Leistungen kann nach dem Ausscheiden aus dem Beschäftigungsverhältnis nicht mehr geändert werden. Als pflichtversichert gelten auch die freiwillig Versicherten der Versorgungsanstalt der deutschen Kulturorchester und der Versorgungsanstalt der deutschen Bühnen.
+
+(8) Gegen Entscheidungen der Zusatzversorgungseinrichtungen über Ansprüche nach diesem Gesetz ist der Rechtsweg gegeben, der für Versicherte der Einrichtung gilt.
+
+(9) Bei Personen, die aus einem Arbeitsverhältnis ausscheiden, in dem sie nach § 5 Abs. 1 Satz 1 Nr. 2 des Sechsten Buches Sozialgesetzbuch versicherungsfrei waren, dürfen die Ansprüche nach § 2 Abs. 1 Satz 1 und 2 nicht hinter dem Rentenanspruch zurückbleiben, der sich ergeben hätte, wenn der Arbeitnehmer für die Zeit der versicherungsfreien Beschäftigung in der gesetzlichen Rentenversicherung nachversichert worden wäre; die Vergleichsberechnung ist im Versorgungsfall aufgrund einer Auskunft der Bundesversicherungsanstalt für Angestellte vorzunehmen.
+
+### § 18 Sonderregelungen für den öffentlichen Dienst
+
+(1) Für Personen, die
+
+1.  
+bei der Versorgungsanstalt des Bundes und der Länder (VBL) oder einer kommunalen oder kirchlichen Zusatzversorgungseinrichtung pflichtversichert sind, oder
+
+2.  
+bei einer anderen Zusatzversorgungseinrichtung pflichtversichert sind, die mit einer der Zusatzversorgungseinrichtungen nach Nummer 1 ein Überleitungsabkommen abgeschlossen hat oder aufgrund satzungsrechtlicher Vorschriften von Zusatzversorgungseinrichtungen nach Nummer 1 ein solches Abkommen abschließen kann, oder
+
+3.  
+unter das Gesetz über die zusätzliche Alters- und Hinterbliebenenversorgung für Angestellte und Arbeiter der Freien und Hansestadt Hamburg (Erstes Ruhegeldgesetz - 1. RGG), das Gesetz zur Neuregelung der zusätzlichen Alters- und Hinterbliebenenversorgung für Angestellte und Arbeiter der Freien und Hansestadt Hamburg (Zweites Ruhegeldgesetz - 2. RGG) oder unter das Bremische Ruhelohngesetz in ihren jeweiligen Fassungen fallen oder auf die diese Gesetze sonst Anwendung finden,
+
 gelten die §§ 2, 5, 16, 27 und 28 nicht, soweit sich aus den nachfolgenden Regelungen nichts Abweichendes ergibt; § 4 gilt nicht, wenn die Anwartschaft oder die laufende Leistung ganz oder teilweise umlage- oder haushaltsfinanziert ist.
 
 (2) Bei Eintritt des Versorgungsfalles erhalten die in Absatz 1 Nr. 1 und 2 bezeichneten Personen, deren Anwartschaft nach § 1b fortbesteht und deren Arbeitsverhältnis vor Eintritt des Versorgungsfalles geendet hat, von der Zusatzversorgungseinrichtung eine Zusatzrente nach folgenden Maßgaben:
@@ -513,6 +586,148 @@ Versorgungsfall ist der Versicherungsfall im Sinne der Versorgungsregelung.
 (5) Besteht bei Eintritt des Versorgungsfalles neben dem Anspruch auf Zusatzrente oder auf die in Absatz 3 oder Absatz 7 bezeichneten Leistungen auch Anspruch auf eine Versorgungsrente oder Versicherungsrente der in Absatz 1 Satz 1 Nr. 1 und 2 bezeichneten Zusatzversorgungseinrichtungen oder Anspruch auf entsprechende Versorgungsleistungen der Versorgungsanstalt der deutschen Kulturorchester oder der Versorgungsanstalt der deutschen Bühnen oder nach den Regelungen des Ersten Ruhegeldgesetzes, des Zweiten Ruhegeldgesetzes oder des Bremischen Ruhelohngesetzes, in deren Berechnung auch die der Zusatzrente zugrunde liegenden Zeiten berücksichtigt sind, ist nur die im Zahlbetrag höhere Rente zu leisten.
 
 (6) Eine Anwartschaft auf Zusatzrente nach Absatz 2 oder auf Leistungen nach Absatz 3 kann bei Übertritt der anwartschaftsberechtigten Person in ein Versorgungssystem einer überstaatlichen Einrichtung in das Versorgungssystem dieser Einrichtung übertragen werden, wenn ein entsprechendes Abkommen zwischen der Zusatzversorgungseinrichtung oder der Freien und Hansestadt Hamburg oder der Freien Hansestadt Bremen und der überstaatlichen Einrichtung besteht.
+
+(7) Für Personen, die bei der Versorgungsanstalt der deutschen Kulturorchester oder der Versorgungsanstalt der deutschen Bühnen pflichtversichert sind, gelten die §§ 2 bis 5, 16, 27 und 28 nicht. Bei Eintritt des Versorgungsfalles treten an die Stelle der Zusatzrente und der Leistungen an Hinterbliebene nach Absatz 2 und an die Stelle der Regelung in Absatz 4 die satzungsgemäß vorgesehenen Leistungen; Absatz 2 Nr. 5 findet entsprechend Anwendung. Die Höhe der Leistungen kann nach dem Ausscheiden aus dem Beschäftigungsverhältnis nicht mehr geändert werden. Als pflichtversichert gelten auch die freiwillig Versicherten der Versorgungsanstalt der deutschen Kulturorchester und der Versorgungsanstalt der deutschen Bühnen.
+
+(8) Gegen Entscheidungen der Zusatzversorgungseinrichtungen über Ansprüche nach diesem Gesetz ist der Rechtsweg gegeben, der für Versicherte der Einrichtung gilt.
+
+(9) Bei Personen, die aus einem Arbeitsverhältnis ausscheiden, in dem sie nach § 5 Abs. 1 Satz 1 Nr. 2 des Sechsten Buches Sozialgesetzbuch versicherungsfrei waren, dürfen die Ansprüche nach § 2 Abs. 1 Satz 1 und 2 nicht hinter dem Rentenanspruch zurückbleiben, der sich ergeben hätte, wenn der Arbeitnehmer für die Zeit der versicherungsfreien Beschäftigung in der gesetzlichen Rentenversicherung nachversichert worden wäre; die Vergleichsberechnung ist im Versorgungsfall aufgrund einer Auskunft der Bundesversicherungsanstalt für Angestellte vorzunehmen.
+
+### § 18 Sonderregelungen für den öffentlichen Dienst
+
+(1) Für Personen, die
+
+1.  
+bei der Versorgungsanstalt des Bundes und der Länder (VBL) oder einer kommunalen oder kirchlichen Zusatzversorgungseinrichtung pflichtversichert sind, oder
+
+2.  
+bei einer anderen Zusatzversorgungseinrichtung pflichtversichert sind, die mit einer der Zusatzversorgungseinrichtungen nach Nummer 1 ein Überleitungsabkommen abgeschlossen hat oder aufgrund satzungsrechtlicher Vorschriften von Zusatzversorgungseinrichtungen nach Nummer 1 ein solches Abkommen abschließen kann, oder
+
+3.  
+unter das Gesetz über die zusätzliche Alters- und Hinterbliebenenversorgung für Angestellte und Arbeiter der Freien und Hansestadt Hamburg (Erstes Ruhegeldgesetz - 1. RGG), das Gesetz zur Neuregelung der zusätzlichen Alters- und Hinterbliebenenversorgung für Angestellte und Arbeiter der Freien und Hansestadt Hamburg (Zweites Ruhegeldgesetz - 2. RGG) oder unter das Bremische Ruhelohngesetz in ihren jeweiligen Fassungen fallen oder auf die diese Gesetze sonst Anwendung finden,
+
+gelten die §§ 2, 5, 16, 27 und 28 nicht, soweit sich aus den nachfolgenden Regelungen nichts Abweichendes ergibt; § 4 gilt nicht, wenn die Anwartschaft oder die laufende Leistung ganz oder teilweise umlage- oder haushaltsfinanziert ist.
+
+(2) Bei Eintritt des Versorgungsfalles erhalten die in Absatz 1 Nr. 1 und 2 bezeichneten Personen, deren Anwartschaft nach § 1b fortbesteht und deren Arbeitsverhältnis vor Eintritt des Versorgungsfalles geendet hat, von der Zusatzversorgungseinrichtung eine Zusatzrente nach folgenden Maßgaben:
+
+1.  
+Der monatliche Betrag der Zusatzrente beträgt für jedes Jahr der aufgrund des Arbeitsverhältnisses bestehenden Pflichtversicherung bei einer Zusatzversorgungseinrichtung 2,25 vom Hundert, höchstens jedoch 100 vom Hundert der Leistung, die bei dem höchstmöglichen Versorgungssatz zugestanden hätte (Voll-Leistung). Für die Berechnung der Voll-Leistung
+
+a)  
+ist der Versicherungsfall der Regelaltersrente maßgebend,
+
+b)  
+ist das Arbeitsentgelt maßgebend, das nach der Versorgungsregelung für die Leistungsbemessung maßgebend wäre, wenn im Zeitpunkt des Ausscheidens der Versicherungsfall im Sinne der Versorgungsregelung eingetreten wäre,
+
+c)  
+finden § 2 Abs. 5 Satz 1 und § 2 Abs. 6 entsprechend Anwendung,
+
+d)  
+ist im Rahmen einer Gesamtversorgung der im Falle einer Teilzeitbeschäftigung oder Beurlaubung nach der Versorgungsregelung für die gesamte Dauer des Arbeitsverhältnisses maßgebliche Beschäftigungsquotient nach der Versorgungsregelung als Beschäftigungsquotient auch für die übrige Zeit maßgebend,
+
+e)  
+finden die Vorschriften der Versorgungsregelung über eine Mindestleistung keine Anwendung und
+
+f)  
+ist eine anzurechnende Grundversorgung nach dem bei der Berechnung von Pensionsrückstellungen für die Berücksichtigung von Renten aus der gesetzlichen Rentenversicherung allgemein zulässigen Verfahren zu ermitteln. Hierbei ist das Arbeitsentgelt nach Buchstabe b zugrunde zu legen und - soweit während der Pflichtversicherung Teilzeitbeschäftigung bestand - diese nach Maßgabe der Versorgungsregelung zu berücksichtigen.
+
+2.  
+Die Zusatzrente vermindert sich um 0,3 vom Hundert für jeden vollen Kalendermonat, den der Versorgungsfall vor Vollendung des 65. Lebensjahres eintritt, höchstens jedoch um den in der Versorgungsregelung für die Voll-Leistung vorgesehenen Vomhundertsatz.
+
+3.  
+Übersteigt die Summe der Vomhundertsätze nach Nummer 1 aus unterschiedlichen Arbeitsverhältnissen 100, sind die einzelnen Leistungen im gleichen Verhältnis zu kürzen.
+
+4.  
+Die Zusatzrente muss monatlich mindestens den Betrag erreichen, der sich aufgrund des Arbeitsverhältnisses nach der Versorgungsregelung als Versicherungsrente aus den jeweils maßgeblichen Vomhundertsätzen der zusatzversorgungspflichtigen Entgelte oder der gezahlten Beiträge und Erhöhungsbeträge ergibt.
+
+5.  
+Die Vorschriften der Versorgungsregelung über das Erlöschen, das Ruhen und die Nichtleistung der Versorgungsrente gelten entsprechend. Soweit die Versorgungsregelung eine Mindestleistung in Ruhensfällen vorsieht, gilt dies nur, wenn die Mindestleistung der Leistung im Sinne der Nummer 4 entspricht.
+
+6.  
+Verstirbt die in Absatz 1 genannte Person, erhält eine Witwe oder ein Witwer 60 vom Hundert, eine Witwe oder ein Witwer im Sinne des § 46 Abs. 1 des Sechsten Buches Sozialgesetzbuch 42 vom Hundert, eine Halbwaise 12 vom Hundert und eine Vollwaise 20 vom Hundert der unter Berücksichtigung der in diesem Absatz genannten Maßgaben zu berechnenden Zusatzrente; die §§ 46, 48, 103 bis 105 des Sechsten Buches Sozialgesetzbuch sind entsprechend anzuwenden. Die Leistungen an mehrere Hinterbliebene dürfen den Betrag der Zusatzrente nicht übersteigen; gegebenenfalls sind die Leistungen im gleichen Verhältnis zu kürzen.
+
+7.  
+Versorgungsfall ist der Versicherungsfall im Sinne der Versorgungsregelung.
+
+(3) Personen, auf die bis zur Beendigung ihre Arbeitsverhältnisses die Regelungen des Ersten Ruhegeldgesetzes, des Zweiten Ruhegeldgesetzes oder des Bremischen Ruhelohngesetzes in ihren jeweiligen Fassungen Anwendung gefunden haben, haben Anspruch gegenüber ihrem ehemaligen Arbeitgeber auf Leistungen in sinngemäßer Anwendung des Absatzes 2 mit Ausnahme von Absatz 2 Nr. 3 und 4 sowie Nr. 5 Satz 2; bei Anwendung des Zweiten Ruhegeldgesetzes bestimmt sich der monatliche Betrag der Zusatzrente abweichend von Absatz 2 nach der nach dem Zweiten Ruhegeldgesetz maßgebenden Berechnungsweise.
+
+(4) Die Leistungen nach den Absätzen 2 und 3 werden, mit Ausnahme der Leistungen nach Absatz 2 Nr. 4, jährlich zum 1. Juli um 1 vom Hundert erhöht, soweit in diesem Jahr eine allgemeine Erhöhung der Versorgungsrenten erfolgt.
+
+(5) Besteht bei Eintritt des Versorgungsfalles neben dem Anspruch auf Zusatzrente oder auf die in Absatz 3 oder Absatz 7 bezeichneten Leistungen auch Anspruch auf eine Versorgungsrente oder Versicherungsrente der in Absatz 1 Satz 1 Nr. 1 und 2 bezeichneten Zusatzversorgungseinrichtungen oder Anspruch auf entsprechende Versorgungsleistungen der Versorgungsanstalt der deutschen Kulturorchester oder der Versorgungsanstalt der deutschen Bühnen oder nach den Regelungen des Ersten Ruhegeldgesetzes, des Zweiten Ruhegeldgesetzes oder des Bremischen Ruhelohngesetzes, in deren Berechnung auch die der Zusatzrente zugrunde liegenden Zeiten berücksichtigt sind, ist nur die im Zahlbetrag höhere Rente zu leisten.
+
+(6) Eine Anwartschaft auf Zusatzrente nach Absatz 2 oder auf Leistungen nach Absatz 3 kann bei Übertritt der anwartschaftsberechtigten Person in ein Versorgungssystem einer überstaatlichen Einrichtung in das Versorgungssystem dieser Einrichtung übertragen werden, wenn ein entsprechendes Abkommen zwischen der Zusatzversorgungseinrichtung oder der Freien und Hansestadt Hamburg oder der Freien Hansestadt Bremen und der überstaatlichen Einrichtung besteht.
+
+(7) Für Personen, die bei der Versorgungsanstalt der deutschen Kulturorchester oder der Versorgungsanstalt der deutschen Bühnen pflichtversichert sind, gelten die §§ 2 bis 5, 16, 27 und 28 nicht. Bei Eintritt des Versorgungsfalles treten an die Stelle der Zusatzrente und der Leistungen an Hinterbliebene nach Absatz 2 und an die Stelle der Regelung in Absatz 4 die satzungsgemäß vorgesehenen Leistungen; Absatz 2 Nr. 5 findet entsprechend Anwendung. Die Höhe der Leistungen kann nach dem Ausscheiden aus dem Beschäftigungsverhältnis nicht mehr geändert werden. Als pflichtversichert gelten auch die freiwillig Versicherten der Versorgungsanstalt der deutschen Kulturorchester und der Versorgungsanstalt der deutschen Bühnen.
+
+(8) Gegen Entscheidungen der Zusatzversorgungseinrichtungen über Ansprüche nach diesem Gesetz ist der Rechtsweg gegeben, der für Versicherte der Einrichtung gilt.
+
+(9) Bei Personen, die aus einem Arbeitsverhältnis ausscheiden, in dem sie nach § 5 Abs. 1 Satz 1 Nr. 2 des Sechsten Buches Sozialgesetzbuch versicherungsfrei waren, dürfen die Ansprüche nach § 2 Abs. 1 Satz 1 und 2 nicht hinter dem Rentenanspruch zurückbleiben, der sich ergeben hätte, wenn der Arbeitnehmer für die Zeit der versicherungsfreien Beschäftigung in der gesetzlichen Rentenversicherung nachversichert worden wäre; die Vergleichsberechnung ist im Versorgungsfall aufgrund einer Auskunft der Deutschen Rentenversicherung Bund vorzunehmen.
+
+### § 18 Sonderregelungen für den öffentlichen Dienst
+
+(1) Für Personen, die
+
+1.  
+bei der Versorgungsanstalt des Bundes und der Länder (VBL) oder einer kommunalen oder kirchlichen Zusatzversorgungseinrichtung versichert sind, oder
+
+2.  
+bei einer anderen Zusatzversorgungseinrichtung versichert sind, die mit einer der Zusatzversorgungseinrichtungen nach Nummer 1 ein Überleitungsabkommen abgeschlossen hat oder aufgrund satzungsrechtlicher Vorschriften von Zusatzversorgungseinrichtungen nach Nummer 1 ein solches Abkommen abschließen kann, oder
+
+3.  
+unter das Hamburgische Zusatzversorgungsgesetz oder unter das Bremische Ruhelohngesetz in ihren jeweiligen Fassungen fallen oder auf die diese Gesetze sonst Anwendung finden,
+
+gelten die §§ 2, 5, 16, 27 und 28 nicht, soweit sich aus den nachfolgenden Regelungen nichts Abweichendes ergibt; § 4 gilt nicht, wenn die Anwartschaft oder die laufende Leistung ganz oder teilweise umlage- oder haushaltsfinanziert ist.
+
+(2) Bei Eintritt des Versorgungsfalles vor dem 2. Januar 2002 erhalten die in Absatz 1 Nummer 1 und 2 bezeichneten Personen, deren Anwartschaft nach § 1b fortbesteht und deren Arbeitsverhältnis vor Eintritt des Versorgungsfalles geendet hat, von der Zusatzversorgungseinrichtung aus der Pflichtversicherung eine Zusatzrente nach folgenden Maßgaben:
+
+1.  
+Der monatliche Betrag der Zusatzrente beträgt für jedes Jahr der aufgrund des Arbeitsverhältnisses bestehenden Pflichtversicherung bei einer Zusatzversorgungseinrichtung 2,25 vom Hundert, höchstens jedoch 100 vom Hundert der Leistung, die bei dem höchstmöglichen Versorgungssatz zugestanden hätte (Voll-Leistung). Für die Berechnung der Voll-Leistung
+
+a)  
+ist der Versicherungsfall der Regelaltersrente maßgebend,
+
+b)  
+ist das Arbeitsentgelt maßgebend, das nach der Versorgungsregelung für die Leistungsbemessung maßgebend wäre, wenn im Zeitpunkt des Ausscheidens der Versicherungsfall im Sinne der Versorgungsregelung eingetreten wäre,
+
+c)  
+finden § 2 Abs. 5 Satz 1 und § 2 Abs. 6 entsprechend Anwendung,
+
+d)  
+ist im Rahmen einer Gesamtversorgung der im Falle einer Teilzeitbeschäftigung oder Beurlaubung nach der Versorgungsregelung für die gesamte Dauer des Arbeitsverhältnisses maßgebliche Beschäftigungsquotient nach der Versorgungsregelung als Beschäftigungsquotient auch für die übrige Zeit maßgebend,
+
+e)  
+finden die Vorschriften der Versorgungsregelung über eine Mindestleistung keine Anwendung und
+
+f)  
+ist eine anzurechnende Grundversorgung nach dem bei der Berechnung von Pensionsrückstellungen für die Berücksichtigung von Renten aus der gesetzlichen Rentenversicherung allgemein zulässigen Verfahren zu ermitteln. Hierbei ist das Arbeitsentgelt nach Buchstabe b zugrunde zu legen und - soweit während der Pflichtversicherung Teilzeitbeschäftigung bestand - diese nach Maßgabe der Versorgungsregelung zu berücksichtigen.
+
+2.  
+Die Zusatzrente vermindert sich um 0,3 vom Hundert für jeden vollen Kalendermonat, den der Versorgungsfall vor Vollendung des 65. Lebensjahres eintritt, höchstens jedoch um den in der Versorgungsregelung für die Voll-Leistung vorgesehenen Vomhundertsatz.
+
+3.  
+Übersteigt die Summe der Vomhundertsätze nach Nummer 1 aus unterschiedlichen Arbeitsverhältnissen 100, sind die einzelnen Leistungen im gleichen Verhältnis zu kürzen.
+
+4.  
+Die Zusatzrente muss monatlich mindestens den Betrag erreichen, der sich aufgrund des Arbeitsverhältnisses nach der Versorgungsregelung als Versicherungsrente aus den jeweils maßgeblichen Vomhundertsätzen der zusatzversorgungspflichtigen Entgelte oder der gezahlten Beiträge und Erhöhungsbeträge ergibt.
+
+5.  
+Die Vorschriften der Versorgungsregelung über das Erlöschen, das Ruhen und die Nichtleistung der Versorgungsrente gelten entsprechend. Soweit die Versorgungsregelung eine Mindestleistung in Ruhensfällen vorsieht, gilt dies nur, wenn die Mindestleistung der Leistung im Sinne der Nummer 4 entspricht.
+
+6.  
+Verstirbt die in Absatz 1 genannte Person und beginnt die Hinterbliebenenrente vor dem 2. Januar 2002, erhält eine Witwe oder ein Witwer 60 vom Hundert, eine Witwe oder ein Witwer im Sinne des § 46 Abs. 1 des Sechsten Buches Sozialgesetzbuch 42 vom Hundert, eine Halbwaise 12 vom Hundert und eine Vollwaise 20 vom Hundert der unter Berücksichtigung der in diesem Absatz genannten Maßgaben zu berechnenden Zusatzrente; die §§ 46, 48, 103 bis 105 des Sechsten Buches Sozialgesetzbuch sind entsprechend anzuwenden. Die Leistungen an mehrere Hinterbliebene dürfen den Betrag der Zusatzrente nicht übersteigen; gegebenenfalls sind die Leistungen im gleichen Verhältnis zu kürzen.
+
+7.  
+Versorgungsfall ist der Versicherungsfall im Sinne der Versorgungsregelung.
+
+(2a) Bei Eintritt des Versorgungsfalles oder bei Beginn der Hinterbliebenenrente nach dem 1. Januar 2002 erhalten die in Absatz 1 Nummer 1 und 2 genannten Personen, deren Anwartschaft nach § 1b fortbesteht und deren Arbeitsverhältnis vor Eintritt des Versorgungsfalles geendet hat, von der Zusatzversorgungseinrichtung die nach der jeweils maßgebenden Versorgungsregelung vorgesehenen Leistungen.
+
+(3) Personen, auf die bis zur Beendigung ihres Arbeitsverhältnisses die Regelungen des Hamburgischen Zusatzversorgungsgesetzes oder des Bremischen Ruhelohngesetzes in ihren jeweiligen Fassungen Anwendung gefunden haben, haben Anspruch gegenüber ihrem ehemaligen Arbeitgeber auf Leistungen in sinngemäßer Anwendung des Absatzes 2 mit Ausnahme von Absatz 2 Nummer 3 und 4 sowie Nummer 5 Satz 2; bei Anwendung des Hamburgischen Zusatzversorgungsgesetzes bestimmt sich der monatliche Betrag der Zusatzrente abweichend von Absatz 2 nach der nach dem Hamburgischen Zusatzversorgungsgesetz maßgebenden Berechnungsweise. An die Stelle des Stichtags 2. Januar 2002 tritt im Bereich des Hamburgischen Zusatzversorgungsgesetzes der 1. August 2003 und im Bereich des Bremischen Ruhelohngesetzes der 1. März 2007.
+
+(4) Die Leistungen nach den Absätzen 2, 2a und 3 werden in der Pflichtversicherung jährlich zum 1. Juli um 1 Prozent erhöht. In der freiwilligen Versicherung bestimmt sich die Anpassung der Leistungen nach der jeweils maßgebenden Versorgungsregelung.
+
+(5) Besteht bei Eintritt des Versorgungsfalles neben dem Anspruch auf Zusatzrente nach Absatz 2 oder auf die in Absatz 3 oder Absatz 7 bezeichneten Leistungen auch Anspruch auf eine Versorgungsrente oder Versicherungsrente der in Absatz 1 Satz 1 Nr. 1 und 2 bezeichneten Zusatzversorgungseinrichtungen oder Anspruch auf entsprechende Versorgungsleistungen der Versorgungsanstalt der deutschen Kulturorchester oder der Versorgungsanstalt der deutschen Bühnen oder nach den Regelungen des Ersten Ruhegeldgesetzes, des Zweiten Ruhegeldgesetzes oder des Bremischen Ruhelohngesetzes, in deren Berechnung auch die der Zusatzrente nach Absatz 2 zugrunde liegenden Zeiten berücksichtigt sind, ist nur die im Zahlbetrag höhere Rente zu leisten.
+
+(6) Eine Anwartschaft auf Versorgungsleistungen kann bei Übertritt der anwartschaftsberechtigten Person in ein Versorgungssystem einer überstaatlichen Einrichtung in das Versorgungssystem dieser Einrichtung übertragen werden, wenn ein entsprechendes Abkommen zwischen der Zusatzversorgungseinrichtung oder der Freien und Hansestadt Hamburg oder der Freien Hansestadt Bremen und der überstaatlichen Einrichtung besteht.
 
 (7) Für Personen, die bei der Versorgungsanstalt der deutschen Kulturorchester oder der Versorgungsanstalt der deutschen Bühnen pflichtversichert sind, gelten die §§ 2 bis 5, 16, 27 und 28 nicht. Bei Eintritt des Versorgungsfalles treten an die Stelle der Zusatzrente und der Leistungen an Hinterbliebene nach Absatz 2 und an die Stelle der Regelung in Absatz 4 die satzungsgemäß vorgesehenen Leistungen; Absatz 2 Nr. 5 findet entsprechend Anwendung. Die Höhe der Leistungen kann nach dem Ausscheiden aus dem Beschäftigungsverhältnis nicht mehr geändert werden. Als pflichtversichert gelten auch die freiwillig Versicherten der Versorgungsanstalt der deutschen Kulturorchester und der Versorgungsanstalt der deutschen Bühnen.
 
@@ -593,6 +808,8 @@ sind auf deren Verlangen nach Erfüllung der Wartezeit und sonstiger Leistungsvo
 
 (1) § 16 Abs. 3 Nr. 1 gilt nur für laufende Leistungen, die auf Zusagen beruhen, die nach dem 31. Dezember 1998 erteilt werden.
 
+(1a) § 16 Absatz 3 Nummer 2 gilt auch für Anpassungszeiträume, die vor dem 1. Januar 2016 liegen; in diesen Zeiträumen bereits erfolgte Anpassungen oder unterbliebene Anpassungen, gegen die der Versorgungsberechtigte vor dem 1. Januar 2016 Klage erhoben hat, bleiben unberührt.
+
 (2) § 16 Abs. 4 gilt nicht für vor dem 1. Januar 1999 zu Recht unterbliebene Anpassungen.
 
 (3) § 16 Abs. 5 gilt nur für laufende Leistungen, die auf Zusagen beruhen, die nach dem 31. Dezember 2000 erteilt werden.
@@ -601,9 +818,11 @@ sind auf deren Verlangen nach Erfüllung der Wartezeit und sonstiger Leistungsvo
 
 ### § 30d Übergangsregelung zu § 18
 
-(1) Ist der Versorgungsfall vor dem 1. Januar 2001 eingetreten oder ist der Arbeitnehmer vor dem 1. Januar 2001 aus dem Beschäftigungsverhältnis bei einem öffentlichen Arbeitgeber ausgeschieden und der Versorgungsfall nach dem 31. Dezember 2000 eingetreten, sind für die Berechnung der Voll-Leistung die Regelungen der Zusatzversorgungseinrichtungen nach § 18 Abs. 1 Satz 1 Nr. 1 und 2 oder die Gesetze im Sinne des § 18 Abs. 1 Satz 1 Nr. 3 sowie die weiteren Berechnungsfaktoren jeweils in der am 31. Dezember 2000 geltenden Fassung maßgebend; § 18 Abs. 2 Nr. 1 Buchstabe b bleibt unberührt. Die Steuerklasse III/O ist zugrunde zu legen. Ist der Versorgungsfall vor dem 1. Januar 2001 eingetreten, besteht der Anspruch auf Zusatzrente mindestens in der Höhe, wie er sich aus § 18 in der Fassung vom 16. Dezember 1997 (BGBl. I S. 2998) ergibt.
+(1) Ist der Versorgungsfall vor dem 1. Januar 2001 eingetreten oder ist der Arbeitnehmer vor dem 1. Januar 2001 aus dem Beschäftigungsverhältnis bei einem öffentlichen Arbeitgeber ausgeschieden und der Versorgungsfall nach dem 31. Dezember 2000 und vor dem 2. Januar 2002 eingetreten, sind für die Berechnung der Voll-Leistung die Regelungen der Zusatzversorgungseinrichtungen nach § 18 Abs. 1 Satz 1 Nr. 1 und 2 oder die Gesetze im Sinne des § 18 Abs. 1 Satz 1 Nr. 3 sowie die weiteren Berechnungsfaktoren jeweils in der am 31. Dezember 2000 und vor dem 2. Januar 2002 geltenden Fassung maßgebend; § 18 Abs. 2 Nr. 1 Buchstabe b bleibt unberührt. Die Steuerklasse III/O ist zugrunde zu legen. Ist der Versorgungsfall vor dem 1. Januar 2001 eingetreten, besteht der Anspruch auf Zusatzrente mindestens in der Höhe, wie er sich aus § 18 in der Fassung vom 16. Dezember 1997 (BGBl. I S. 2998) ergibt.
 
 (2) Die Anwendung des § 18 ist in den Fällen des Absatzes 1 ausgeschlossen, soweit eine Versorgungsrente der in § 18 Abs. 1 Satz 1 Nr. 1 und 2 bezeichneten Zusatzversorgungseinrichtungen oder eine entsprechende Leistung aufgrund der Regelungen des Ersten Ruhegeldgesetzes, des Zweiten Ruhegeldgesetzes oder des Bremischen Ruhelohngesetzes bezogen wird, oder eine Versicherungsrente abgefunden wurde.
+
+(2a) Für Personen, deren Beschäftigungsverhältnis vor dem 1. Januar 2002 vor Eintritt des Versorgungsfalls geendet hat und deren Anwartschaft nach § 1b fortbesteht, haben die in § 18 Absatz 1 Satz 1 Nummer 1 und 2 bezeichneten Zusatzversorgungseinrichtungen bei Eintritt des Versorgungsfalls nach dem 1. Januar 2002 die Anwartschaft für Zeiten bis zum 1. Januar 2002 nach § 18 Absatz 2 unter Berücksichtigung des § 18 Absatz 5 zu ermitteln.
 
 (3) Für Arbeitnehmer im Sinne des § 18 Abs. 1 Satz 1 Nr. 4, 5 und 6 in der bis zum 31. Dezember 1998 geltenden Fassung, für die bis zum 31. Dezember 1998 ein Anspruch auf Nachversicherung nach § 18 Abs. 6 entstanden ist, gilt Absatz 1 Satz 1 für die aufgrund der Nachversicherung zu ermittelnde Voll-Leistung entsprechend mit der Maßgabe, dass sich der nach § 2 zu ermittelnde Anspruch gegen den ehemaligen Arbeitgeber richtet. Für den nach § 2 zu ermittelnden Anspruch gilt § 18 Abs. 2 Nr. 1 Buchstabe b entsprechend; für die übrigen Bemessungsfaktoren ist auf die Rechtslage am 31. Dezember 2000 abzustellen. Leistungen der gesetzlichen Rentenversicherung, die auf einer Nachversicherung wegen Ausscheidens aus einem Dienstordnungsverhältnis beruhen, und Leistungen, die die zuständige Versorgungseinrichtung aufgrund von Nachversicherungen im Sinne des § 18 Abs. 6 in der am 31. Dezember 1998 geltenden Fassung gewährt, werden auf den Anspruch nach § 2 angerechnet. Hat das Arbeitsverhältnis im Sinne des § 18 Abs. 9 bereits am 31. Dezember 1998 bestanden, ist in die Vergleichsberechnung nach § 18 Abs. 9 auch die Zusatzrente nach § 18 in der bis zum 31. Dezember 1998 geltenden Fassung einzubeziehen.
 
