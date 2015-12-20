@@ -2,7 +2,7 @@ Gesetz über die Tätigkeit europäischer Rechtsanwälte in Deutschland (EuRAG)
 ===========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 17.6.2013 I 1555
+Zuletzt geändert durch Art. 2 G v. 21.12.2015 I 2517
 
 ### 
 
@@ -131,7 +131,7 @@ Abschnitt 1 Allgemeine Voraussetzungen
 
 ### § 4 Verfahren
 
-(1) Für die Entscheidung über den Antrag sowie über die Rücknahme und den Widerruf der Aufnahme in die Rechtsanwaltskammer gilt sinngemäß der Zweite Teil der Bundesrechtsanwaltsordnung mit Ausnahme der §§ 4, 5, 6 Abs. 1 und § 12 Abs. 4.
+(1) Für die Entscheidung über den Antrag sowie über die Rücknahme und den Widerruf der Aufnahme in die Rechtsanwaltskammer gilt sinngemäß der Zweite Teil der Bundesrechtsanwaltsordnung mit Ausnahme der §§ 4, 5, 6 Abs. 1 und § 12 Abs. 4. Handelt es sich bei der Aufnahme um die eines Syndikusrechtsanwalts, gelten die §§ 46a bis 46c mit Ausnahme des § 46a Absatz 1 Satz 1 Nummer 1 und Absatz 4 Nummer 2 sowie mit Ausnahme des § 46c Absatz 2 der Bundesrechtsanwaltsordnung sinngemäß.
 
 (2) Die Aufnahme in die Rechtsanwaltskammer ist auch dann zu widerrufen, wenn die Berechtigung zur Berufsausübung im Herkunftsstaat dauernd entzogen wird. Wird die Berechtigung zur Berufsausübung im Herkunftsstaat vorläufig oder zeitweilig entzogen, so kann die Aufnahme in die Rechtsanwaltskammer widerrufen werden.
 
@@ -144,7 +144,7 @@ Abschnitt 2 Berufliche Rechte und Pflichten
 
 ### § 5 Berufsbezeichnung
 
-(1) Der niedergelassene europäische Rechtsanwalt hat die Berufsbezeichnung zu verwenden, die er im Herkunftsstaat nach dem dort geltenden Recht zu führen berechtigt ist. Wer danach berechtigt ist, die Berufsbezeichnung "Rechtsanwalt" zu führen, hat zusätzlich die Berufsorganisation anzugeben, der er im Herkunftsstaat angehört.
+(1) Der niedergelassene europäische Rechtsanwalt hat die Berufsbezeichnung zu verwenden, die er im Herkunftsstaat nach dem dort geltenden Recht zu führen berechtigt ist. Wer danach berechtigt ist, die Berufsbezeichnung "Rechtsanwalt" zu führen, hat zusätzlich die Berufsorganisation anzugeben, der er im Herkunftsstaat angehört. Der niedergelassene europäische Rechtsanwalt, der nach § 4 Absatz 1 Satz 2 als Syndikusrechtsanwalt in die Rechtsanwaltskammer aufgenommen wurde, hat der Berufsbezeichnung nach den Sätzen 1 und 2 die Bezeichnung „(Syndikus)“ nachzustellen.
 
 (2) Der niedergelassene europäische Rechtsanwalt ist berechtigt, im beruflichen Verkehr zugleich die Bezeichnung "Mitglied der Rechtsanwaltskammer" zu verwenden. Die Bezeichnung "europäischer Rechtsanwalt" darf als Berufsbezeichnung und in der Werbung nicht verwendet werden.
 
@@ -152,7 +152,7 @@ Abschnitt 2 Berufliche Rechte und Pflichten
 
 ### § 6 Berufliche Stellung
 
-(1) Für die Rechtsstellung nach Aufnahme in die Rechtsanwaltskammer gelten die Vorschriften des Dritten, Vierten, Sechsten, Siebenten, Neunten bis Elften und Dreizehnten Teils der Bundesrechtsanwaltsordnung.
+(1) Für die Rechtsstellung nach Aufnahme in die Rechtsanwaltskammer gelten die §§ 31 bis 31c sowie die Vorschriften des Dritten, Vierten, Sechsten, Siebenten, Neunten bis Elften und Dreizehnten Teils der Bundesrechtsanwaltsordnung.
 
 (2) Der niedergelassene europäische Rechtsanwalt hat der Rechtsanwaltskammer eine Bescheinigung der im Herkunftsstaat zuständigen Stelle über seine Zugehörigkeit zu dem Beruf jährlich neu vorzulegen.
 
@@ -230,7 +230,7 @@ Abschnitt 1 Zulassung zur Rechtsanwaltschaft nach dreijähriger Tätigkeit
 
 ### § 11 Voraussetzungen
 
-(1) Wer eine mindestens dreijährige effektive und regelmäßige Tätigkeit als niedergelassener europäischer Rechtsanwalt in Deutschland auf dem Gebiet des deutschen Rechts, einschließlich des Gemeinschaftsrechts, gemäß § 12 nachweist, wird nach den Vorschriften der §§ 6 bis 36 der Bundesrechtsanwaltsordnung zur Rechtsanwaltschaft zugelassen. Effektive und regelmäßige Tätigkeit ist die tatsächliche Ausübung des Berufs ohne Unterbrechung; Unterbrechungen auf Grund von Ereignissen des täglichen Lebens bleiben außer Betracht.
+(1) Wer eine mindestens dreijährige effektive und regelmäßige Tätigkeit als niedergelassener europäischer Rechtsanwalt in Deutschland auf dem Gebiet des deutschen Rechts, einschließlich des Gemeinschaftsrechts, gemäß § 12 nachweist, wird nach den Vorschriften der §§ 6 bis 36, 46a bis 46c Absatz 1, 4 und 5 mit Ausnahme des § 46a Absatz 1 Satz 1 Nummer 1 der Bundesrechtsanwaltsordnung zur Rechtsanwaltschaft zugelassen. Effektive und regelmäßige Tätigkeit ist die tatsächliche Ausübung des Berufs ohne Unterbrechung; Unterbrechungen auf Grund von Ereignissen des täglichen Lebens bleiben außer Betracht.
 
 (2) Unterbrechungen bis zu einer Dauer von drei Wochen sind in der Regel Unterbrechungen auf Grund von Ereignissen des täglichen Lebens. Bei längeren Unterbrechungen sind die Umstände des Einzelfalls maßgeblich. Bei der Beurteilung berücksichtigt die Rechtsanwaltskammer den Grund, die Dauer und die Häufigkeit der Unterbrechung.
 
@@ -249,7 +249,7 @@ Abschnitt 2 Zulassung bei kürzerer Tätigkeit im deutschen Recht
 
 ### § 13 Voraussetzungen
 
-(1) Wer mindestens drei Jahre effektiv und regelmäßig als niedergelassener europäischer Rechtsanwalt in Deutschland tätig war, sich dabei im deutschen Recht jedoch nur für kürzere Zeit betätigt hat, wird nach den Vorschriften der §§ 6 bis 36 der Bundesrechtsanwaltsordnung zur Rechtsanwaltschaft zugelassen, wenn er seine Fähigkeit, die Tätigkeit weiter auszuüben, gemäß §§ 14 und 15 nachweist.
+(1) Wer mindestens drei Jahre effektiv und regelmäßig als niedergelassener europäischer Rechtsanwalt in Deutschland tätig war, sich dabei im deutschen Recht jedoch nur für kürzere Zeit betätigt hat, wird nach den Vorschriften der §§ 6 bis 36, 46a bis 46c Absatz 1, 4 und 5 mit Ausnahme des § 46a Absatz 1 Satz 1 Nummer 1 der Bundesrechtsanwaltsordnung zur Rechtsanwaltschaft zugelassen, wenn er seine Fähigkeit, die Tätigkeit weiter auszuüben, gemäß §§ 14 und 15 nachweist.
 
 (2) Bei ihrer Entscheidung berücksichtigt die Rechtsanwaltskammer Art und Umfang der beruflichen Tätigkeit sowie sämtliche Kenntnisse und Berufserfahrungen im deutschen Recht, ferner die Teilnahme an Kursen und Seminaren über das deutsche Recht einschließlich des Berufsrechts der Rechtsanwälte. § 11 Abs. 1 Satz 2, Abs. 2, 3 gilt entsprechend.
 
@@ -557,9 +557,9 @@ Teil 7 Ermächtigungen, Übertragung von Befugnissen
 
 ### § 40 Ermächtigungen
 
-(1) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Anlage zu § 1 anzupassen, wenn sich der Kreis oder die Bezeichnungen der aufgeführten Berufe oder der Kreis der Mitgliedstaaten der Europäischen Union oder der Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum ändern.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Anlage zu § 1 anzupassen, wenn sich der Kreis oder die Bezeichnungen der aufgeführten Berufe oder der Kreis der Mitgliedstaaten der Europäischen Union oder der Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum ändern.
 
-(2) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der Eignungsprüfung zu regeln, insbesondere
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der Eignungsprüfung zu regeln, insbesondere
 
 1.  
 die Bereiche des Pflichtfaches und der Wahlfächer,
@@ -612,18 +612,18 @@ Teil 8 Übergangs- und Schlussbestimmungen
 
 ### Anlage zu § 1Rechtsanwaltsberufe in Mitgliedstaaten der Europäischen Union, anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz
 
-Fundstelle des Originaltextes: BGBl. I 2003, 2075;
+Fundstelle: BGBl. I 2003, 2075;
 bzgl. der einzelnen Änderungen vgl. Fußnote
 
 |                                  |                                                                       |
 |----------------------------------|-----------------------------------------------------------------------|
 | - in Belgien:                    | Avocat/Advocaat/Rechtsanwalt                                          |
-| - in Bulgarien:                  | A?BOKAT (Advokat)                                                     |
+| - in Bulgarien:                  | AДBOKAT (Advokat)                                                     |
 | - in Dänemark:                   | Advokat                                                               |
 | - in Estland:                    | Vandeadvokaat                                                         |
 | - in Finnland:                   | Asianajaja/Advokat                                                    |
 | - in Frankreich:                 | Avocat                                                                |
-| - in Griechenland:               | ... (nicht darstellbare Zeichen) (Dikigoros)                          |
+| - in Griechenland:               | Δικηγόρος (Dikigoros)                                                 |
 | - in Großbritannien:             | Advocate/Barrister/Solicitor                                          |
 | - in Irland:                     | Barrister/Solicitor                                                   |
 | - in Island:                     | Lögmaur                                                               |
@@ -647,6 +647,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 | - in Spanien:                    | Abogado/Advocat/Avogado/Abokatu                                       |
 | - in der Tschechischen Republik: | Advokat                                                               |
 | - in Ungarn:                     | Ügyved                                                                |
-| - in Zypern:                     | ... (nicht darstellbare Zeichen) (Dikigoros)                          |
+| - in Zypern:                     | Δικηγόρος (Dikigoros)                                                 |
 
 
