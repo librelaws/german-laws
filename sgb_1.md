@@ -2,13 +2,14 @@ Sozialgesetzbuch (SGB) Erstes Buch (I) - Allgemeiner Teil - (Artikel I des Geset
 ==============================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 G v. 18.12.2014 I 2325
+Zuletzt geändert durch Art. 1b G v. 21.12.2015 I 2408
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 1.1.1982 +++)
 (+++ Zur Anwendung d. § 65 vgl. § 8 BEEG F. v. 18.12.2014 +++)
+(+++ Zur Anwendung d. §§ 60, 62 und 65 bis 67 vgl. § 42f SGB 8 +++)
 (+++ Maßgaben aufgrund EinigVtr nicht mehr anzuwenden gem. Art. 109
 Nr. 3 Buchst. d DBuchst. aa G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)
 ```
@@ -17,117 +18,113 @@ Das G wurde vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem
 
 ### Inhaltsübersicht
 
-```
-Erster Abschnitt
-  Aufgaben des Sozialgesetzbuches und soziale Rechte
-§   1   Aufgaben des Sozialgesetzbuches
-§   2   Soziale Rechte
-§   3   Bildungs- und Arbeitsförderung
-§   4   Sozialversicherung
-§   5   Soziale Entschädigung bei Gesundheitsschäden
-§   6   Minderung des Familienaufwands
-§   7   Zuschuss für eine angemessene Wohnung
-§   8   Kinder- und Jugendhilfe
-§   9   Sozialhilfe
-§  10   Teilhabe behinderter Menschen
- 
-Zweiter Abschnitt
-  Einweisungsvorschriften
-    Erster Titel
-      Allgemeines über Sozialleistungen und Leistungsträger
-§  11   Leistungsarten
-§  12   Leistungsträger
-§  13   Aufklärung
-§  14   Beratung
-§  15   Auskunft
-§  16   Antragstellung
-§  17   Ausführung der Sozialleistungen
- 
-    Zweiter Titel
-      Einzelne Sozialleistungen und zuständige Leistungsträger
-§  18   Leistungen der Ausbildungsförderung
-§  19   Leistungen der Arbeitsförderung
-§  19a  Leistungen der Grundsicherung für Arbeitsuchende
-§  19b  Leistungen bei gleitendem Übergang älterer
-        Arbeitnehmer in den Ruhestand
-§  20   (aufgehoben)
-§  21   Leistungen der gesetzlichen Krankenversicherung
-§  21a  Leistungen der sozialen Pflegeversicherung
-§  21b  Leistungen bei Schwangerschaftsabbrüchen
-§  22   Leistungen der gesetzlichen Unfallversicherung
-§  23   Leistungen der gesetzlichen Rentenversicherung
-        einschließlich der Alterssicherung der Landwirte
-§  24   Versorgungsleistungen bei Gesundheitsschäden
-§  25   Kindergeld, Kinderzuschlag, Leistungen für Bildung und Teilhabe, Elterngeld und Betreuungsgeld
-§  26   Wohngeld
-§  27   Leistungen der Kinder- und Jugendhilfe
-§  28   Leistungen der Sozialhilfe
-§  28a  (weggefallen)
-§  29   Leistungen zur Rehabilitation und Teilhabe behinderter Menschen
- 
-Dritter Abschnitt
-  Gemeinsame Vorschriften für alle Sozialleistungsbereiche
-  dieses Gesetzbuches
-    Erster Titel
-      Allgemeine Grundsätze
-§  30   Geltungsbereich
-§  31   Vorbehalt des Gesetzes
-§  32   Verbot nachteiliger Vereinbarungen
-§  33   Ausgestaltung von Rechten und Pflichten
-§  33a  Altersabhängige Rechte und Pflichten
-§  33b  Lebenspartnerschaften
-§  33c  Benachteiligungsverbot
-§  34   Begrenzung von Rechten und Pflichten
-§  35   Sozialgeheimnis
-§  36   Handlungsfähigkeit
-§  36a  Elektronische Kommunikation
-§  37   Vorbehalt abweichender Regelungen
- 
-    Zweiter Titel
-      Grundsätze des Leistungsrechts
-§  38   Rechtsanspruch
-§  39   Ermessensleistungen
-§  40   Entstehen der Ansprüche
-§  41   Fälligkeit
-§  42   Vorschüsse
-§  43   Vorläufige Leistungen
-§  44   Verzinsung
-§  45   Verjährung
-§  46   Verzicht
-§  47   Auszahlung von Geldleistungen
-§  48   Auszahlung bei Verletzung der Unterhaltspflicht
-§  49   Auszahlung bei Unterbringung
-§  50   Überleitung bei Unterbringung
-§  51   Aufrechnung
-§  52   Verrechnung
-§  53   Übertragung und Verpfändung
-§  54   Pfändung
-§  55   (weggefallen)
-§  56   Sonderrechtsnachfolge
-§  57   Verzicht und Haftung des Sonderrechtsnachfolgers
-§  58   Vererbung
-§  59   Ausschluss der Rechtsnachfolge
- 
-    Dritter Titel
-      Mitwirkung des Leistungsberechtigten
-§  60   Angabe von Tatsachen
-§  61   Persönliches Erscheinen
-§  62   Untersuchungen
-§  63   Heilbehandlung
-§  64   Leistungen zur Teilhabe am Arbeitsleben
-§  65   Grenzen der Mitwirkung
-§  65a  Aufwendungsersatz
-§  66   Folgen fehlender Mitwirkung
-§  67   Nachholung der Mitwirkung
- 
-Vierter Abschnitt
-  Übergangs- und Schlussvorschriften
-§  68   Besondere Teile dieses Gesetzbuches
-§  69   Stadtstaaten-Klausel
-§  70   Überleitungsvorschrift zum Verjährungsrecht
-§  71   Überleitungsvorschrift zur Übertragung, Verpfändung und
-        Pfändung
-```
+|                                                                              |
+|------------------------------------------------------------------------------|
+| Erster Abschnitt                                                             |
+| Aufgaben des Sozialgesetzbuches und soziale Rechte                           |
+| § 1                                                                          |
+| § 2                                                                          |
+| § 3                                                                          |
+| § 4                                                                          |
+| § 5                                                                          |
+| § 6                                                                          |
+| § 7                                                                          |
+| § 8                                                                          |
+| § 9                                                                          |
+| § 10                                                                         |
+|                                                                              |
+| Zweiter Abschnitt                                                            |
+| Einweisungsvorschriften                                                      |
+|                                                                              |
+|                                                                              |
+| § 11                                                                         |
+| § 12                                                                         |
+| § 13                                                                         |
+| § 14                                                                         |
+| § 15                                                                         |
+| § 16                                                                         |
+| § 17                                                                         |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+| § 18                                                                         |
+| § 19                                                                         |
+| § 19a                                                                        |
+| § 19b                                                                        |
+| § 20                                                                         |
+| § 21                                                                         |
+| § 21a                                                                        |
+| § 21b                                                                        |
+| § 22                                                                         |
+| § 23                                                                         |
+| § 24                                                                         |
+| § 25                                                                         |
+| § 26                                                                         |
+| § 27                                                                         |
+| § 28                                                                         |
+| § 28a                                                                        |
+| § 29                                                                         |
+|                                                                              |
+| Dritter Abschnitt                                                            |
+| Gemeinsame Vorschriften für alle Sozialleistungsbereiche dieses Gesetzbuches |
+|                                                                              |
+|                                                                              |
+| § 30                                                                         |
+| § 31                                                                         |
+| § 32                                                                         |
+| § 33                                                                         |
+| § 33a                                                                        |
+| § 33b                                                                        |
+| § 33c                                                                        |
+| § 34                                                                         |
+| § 35                                                                         |
+| § 36                                                                         |
+| § 36a                                                                        |
+| § 37                                                                         |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+| § 38                                                                         |
+| § 39                                                                         |
+| § 40                                                                         |
+| § 41                                                                         |
+| § 42                                                                         |
+| § 43                                                                         |
+| § 44                                                                         |
+| § 45                                                                         |
+| § 46                                                                         |
+| § 47                                                                         |
+| § 48                                                                         |
+| § 49                                                                         |
+| § 50                                                                         |
+| § 51                                                                         |
+| § 52                                                                         |
+| § 53                                                                         |
+| § 54                                                                         |
+| § 55                                                                         |
+| § 56                                                                         |
+| § 57                                                                         |
+| § 58                                                                         |
+| § 59                                                                         |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+| § 60                                                                         |
+| § 61                                                                         |
+| § 62                                                                         |
+| § 63                                                                         |
+| § 64                                                                         |
+| § 65                                                                         |
+| § 65a                                                                        |
+| § 66                                                                         |
+| § 67                                                                         |
+|                                                                              |
+| Vierter Abschnitt                                                            |
+| Übergangs- und Schlussvorschriften                                           |
+| § 68                                                                         |
+| § 69                                                                         |
+| § 70                                                                         |
+| § 71                                                                         |
 
 Erster Abschnitt Aufgaben des Sozialgesetzbuchs und soziale Rechte
 ------------------------------------------------------------------
@@ -476,7 +473,7 @@ Haushaltshilfe,
 7.  
 Betriebshilfe für Landwirte.
 
-(2) Zuständig sind die gewerblichen Berufsgenossenschaften, die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als landwirtschaftliche Berufsgenossenschaft, die Gemeindeunfallversicherungsverbände, die Feuerwehr-Unfallkassen, die Unfallkasse Post und Telekom, die Unfallkassen der Länder und Gemeinden, die gemeinsamen Unfallkassen für den Landes- und kommunalen Bereich und die Unfallversicherung Bund und Bahn.
+(2) Zuständig sind die gewerblichen Berufsgenossenschaften, die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als landwirtschaftliche Berufsgenossenschaft, die Gemeindeunfallversicherungsverbände, die Feuerwehr-Unfallkassen, die Unfallkassen der Länder und Gemeinden, die gemeinsamen Unfallkassen für den Landes- und kommunalen Bereich und die Unfallversicherung Bund und Bahn.
 
 ### § 23 Leistungen der gesetzlichen Rentenversicherung einschließlich der Alterssicherung der Landwirte
 
@@ -551,7 +548,7 @@ Renten an Hinterbliebene, Bestattungsgeld und Sterbegeld,
 5.  
 Kapitalabfindung, insbesondere zur Wohnraumbeschaffung.
 
-(2) Zuständig sind die Versorgungsämter, die Landesversorgungsämter und die orthopädischen Versorgungsstellen. Für die besonderen Hilfen im Einzelfall sind die Kreise und kreisfreien Städte sowie die Hauptfürsorgestellen zuständig. Bei der Durchführung der Heil- und Krankenbehandlung wirken die Träger der gesetzlichen Krankenversicherung mit. Für die Leistungen nach den §§ 80, 81a bis 83a des Soldatenversorgungsgesetzes, soweit die Versorgung nicht in der Erbringung von Leistungen der Kriegsopferfürsorge nach den §§ 25 bis 27j des Bundesversorgungsgesetzes besteht, ist die Bundeswehrverwaltung zuständig.
+(2) Zuständig sind die Versorgungsämter, die Landesversorgungsämter und die orthopädischen Versorgungsstellen. Für die besonderen Hilfen im Einzelfall sind die Kreise und kreisfreien Städte sowie die Hauptfürsorgestellen zuständig. Bei der Durchführung der Heil- und Krankenbehandlung wirken die Träger der gesetzlichen Krankenversicherung mit. Für die Leistungen nach den §§ 80, 81a bis 83a des Soldatenversorgungsgesetzes ist die Bundeswehrverwaltung zuständig.
 
 ### § 25 Kindergeld, Kinderzuschlag, Leistungen für Bildung und Teilhabe, Elterngeld und Betreuungsgeld
 
@@ -793,7 +790,7 @@ bei elektronischen Verwaltungsakten oder sonstigen elektronischen Dokumenten der
 4.  
 durch sonstige sichere Verfahren, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festgelegt werden, welche den Datenübermittler (Absender der Daten) authentifizieren und die Integrität des elektronisch übermittelten Datensatzes sowie die Barrierefreiheit gewährleisten; der IT-Planungsrat gibt Empfehlungen zu geeigneten Verfahren ab.
 
-In den Fällen des Satzes 4 Nummer 1 muss bei einer Eingabe über öffentlich zugängliche Netze ein sicherer Identitätsnachweis nach § 18 des Personalausweisgesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen; in der Kommunikation zwischen dem Versicherten und seiner Krankenkasse kann die Identität auch mit der elektronischen Gesundheitskarte nach § 291 Absatz 2a Satz 4 des Fünften Buches elektronisch nachgewiesen werden.
+In den Fällen des Satzes 4 Nummer 1 muss bei einer Eingabe über öffentlich zugängliche Netze ein sicherer Identitätsnachweis nach § 18 des Personalausweisgesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen; in der Kommunikation zwischen dem Versicherten und seiner Krankenkasse kann die Identität auch mit der elektronischen Gesundheitskarte nach § 291 Absatz 2a des Fünften Buches elektronisch nachgewiesen werden.
 
 (2a) Ist durch Rechtsvorschrift die Verwendung eines bestimmten Formulars vorgeschrieben, das ein Unterschriftsfeld vorsieht, wird allein dadurch nicht die Anordnung der Schriftform bewirkt. Bei einer für die elektronische Versendung an die Behörde bestimmten Fassung des Formulars entfällt das Unterschriftsfeld.
 
@@ -878,7 +875,7 @@ Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung enthalten, werden 
 
 ### § 48 Auszahlung bei Verletzung der Unterhaltspflicht
 
-(1) Laufende Geldleistungen, die der Sicherung des Lebensunterhalts zu dienen bestimmt sind, können in angemessener Höhe an den Ehegatten oder die Kinder des Leistungsberechtigten ausgezahlt werden, wenn er ihnen gegenüber seiner gesetzlichen Unterhaltspflicht nicht nachkommt. Kindergeld, Kinderzuschläge und vergleichbare Rentenbestandteile (Geldleistungen für Kinder) können an Kinder, die bei der Festsetzung der Geldleistungen berücksichtigt werden, bis zur Höhe des Betrages, der sich bei entsprechender Anwendung des § 54 Abs. 5 Satz 2 ergibt, ausgezahlt werden. Für das Kindergeld gilt dies auch dann, wenn der Kindergeldberechtigte mangels Leistungsfähigkeit nicht unterhaltspflichtig ist oder nur Unterhalt in Höhe eines Betrages zu leisten braucht, der geringer ist als das für die Auszahlung in Betracht kommende Kindergeld. Die Auszahlung kann auch an die Person oder Stelle erfolgen, die dem Ehegatten oder den Kindern Unterhalt gewährt.
+(1) Laufende Geldleistungen, die der Sicherung des Lebensunterhalts zu dienen bestimmt sind, können in angemessener Höhe an den Ehegatten, den Lebenspartner oder die Kinder des Leistungsberechtigten ausgezahlt werden, wenn er ihnen gegenüber seiner gesetzlichen Unterhaltspflicht nicht nachkommt. Kindergeld, Kinderzuschläge und vergleichbare Rentenbestandteile (Geldleistungen für Kinder) können an Kinder, die bei der Festsetzung der Geldleistungen berücksichtigt werden, bis zur Höhe des Betrages, der sich bei entsprechender Anwendung des § 54 Abs. 5 Satz 2 ergibt, ausgezahlt werden. Für das Kindergeld gilt dies auch dann, wenn der Kindergeldberechtigte mangels Leistungsfähigkeit nicht unterhaltspflichtig ist oder nur Unterhalt in Höhe eines Betrages zu leisten braucht, der geringer ist als das für die Auszahlung in Betracht kommende Kindergeld. Die Auszahlung kann auch an die Person oder Stelle erfolgen, die dem Ehegatten, dem Lebenspartner oder den Kindern Unterhalt gewährt.
 
 (2) Absatz 1 Satz 1, 2 und 4 gilt entsprechend, wenn unter Berücksichtigung von Kindern, denen gegenüber der Leistungsberechtigte nicht kraft Gesetzes unterhaltspflichtig ist, Geldleistungen erbracht werden und der Leistungsberechtigte diese Kinder nicht unterhält.
 
@@ -1043,6 +1040,8 @@ Satz 1 gilt entsprechend für denjenigen, der Leistungen zu erstatten hat.
 
 (2) Soweit für die in Absatz 1 Satz 1 Nr. 1 und 2 genannten Angaben Vordrucke vorgesehen sind, sollen diese benutzt werden.
 
+(+++ § 60: Zur Anwendung vgl. § 42f Abs. 2 SGB 8 +++)
+
 ### § 61 Persönliches Erscheinen
 
 Wer Sozialleistungen beantragt oder erhält, soll auf Verlangen des zuständigen Leistungsträgers zur mündlichen Erörterung des Antrags oder zur Vornahme anderer für die Entscheidung über die Leistung notwendiger Maßnahmen persönlich erscheinen.
@@ -1050,6 +1049,8 @@ Wer Sozialleistungen beantragt oder erhält, soll auf Verlangen des zuständigen
 ### § 62 Untersuchungen
 
 Wer Sozialleistungen beantragt oder erhält, soll sich auf Verlangen des zuständigen Leistungsträgers ärztlichen und psychologischen Untersuchungsmaßnahmen unterziehen, soweit diese für die Entscheidung über die Leistung erforderlich sind.
+
+(+++ § 62: Zur Anwendung vgl. § 42f Abs. 2 SGB 8 +++)
 
 ### § 63 Heilbehandlung
 
@@ -1087,7 +1088,7 @@ können abgelehnt werden.
 
 (3) Angaben, die dem Antragsteller, dem Leistungsberechtigten oder ihnen nahestehende Personen (§ 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung) die Gefahr zuziehen würde, wegen einer Straftat oder einer Ordnungswidrigkeit verfolgt zu werden, können verweigert werden.
 
-(+++ § 65 Abs. 1 u. 3: Zur Anwendung vgl. § 8 Abs. 1a BEEG F. v. 18.12.2014 +++)
+(+++ § 65: Zur Anwendung vgl. § 42f Abs. SGB 8 +++) (+++ § 65 Abs. 1 u. 3: Zur Anwendung vgl. § 8 Abs. 1a BEEG F. v. 18.12.2014 +++)
 
 ### § 65a Aufwendungsersatz
 
@@ -1103,9 +1104,13 @@ können abgelehnt werden.
 
 (3) Sozialleistungen dürfen wegen fehlender Mitwirkung nur versagt oder entzogen werden, nachdem der Leistungsberechtigte auf diese Folge schriftlich hingewiesen worden ist und seiner Mitwirkungspflicht nicht innerhalb einer ihm gesetzten angemessenen Frist nachgekommen ist.
 
+(+++ § 66: Zur Anwendung vgl. § 42f Abs. 2 SGB 8 +++)
+
 ### § 67 Nachholung der Mitwirkung
 
 Wird die Mitwirkung nachgeholt und liegen die Leistungsvoraussetzungen vor, kann der Leistungsträger Sozialleistungen, die er nach § 66 versagt oder entzogen hat, nachträglich ganz oder teilweise erbringen.
+
+(+++ § 67: Zur Anwendung vgl. § 42f Abs. 2 SGB 8 +++)
 
 Vierter Abschnitt Übergangs- und Schlussvorschriften
 ----------------------------------------------------
