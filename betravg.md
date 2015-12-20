@@ -2,15 +2,23 @@ Gesetz zur Verbesserung der betrieblichen Altersversorgung (BetrAVG)
 ====================================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 23.6.2014 I 787
+Zuletzt geändert durch Art. 1 G v. 21.12.2015 I 2553
+
+Sonst  
+Mittelbare Änderung durch Art. 3 Nr. 2 G v. 21.12.2015 I 2553 ist berücksichtigt
 
 ### 
 
 ```
-Überschrift: IdF d. Art. 8 Nr. 1 G v. 5.7.2004 I 1427 mWv 1.1.2005
 (+++ Textnachweis Geltung ab:  1. 4.1983 +++)
+(+++ Zur Anwendung vgl. § 30f +++)
 (+++ Maßgaben aufgrund EinigVtr vgl. BetrAVG Anhang EV +++)
+(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
+     Umsetzung der 
+         EURL 50/2014  (CELEX Nr: 32014L0050) vgl. G v. 21.12.2015 I 2553 +++)
 ```
+
+Überschrift: IdF d. Art. 8 Nr. 1 G v. 5.7.2004 I 1427 mWv 1.1.2005
 
 ### Eingangsformel
 
@@ -94,7 +102,7 @@ der ausgeschiedene Arbeitnehmer nach dem Versicherungsvertrag das Recht zur Fort
 
 Der Arbeitgeber kann sein Verlangen nach Satz 2 nur innerhalb von 3 Monaten seit dem Ausscheiden des Arbeitnehmers diesem und dem Versicherer mitteilen. Der ausgeschiedene Arbeitnehmer darf die Ansprüche aus dem Versicherungsvertrag in Höhe des durch Beitragszahlungen des Arbeitgebers gebildeten geschäftsplanmäßigen Deckungskapitals oder, soweit die Berechnung des Deckungskapitals nicht zum Geschäftsplan gehört, das nach § 169 Abs. 3 und 4 des Versicherungsvertragsgesetzes berechneten Wertes weder abtreten noch beleihen. In dieser Höhe darf der Rückkaufswert auf Grund einer Kündigung des Versicherungsvertrags nicht in Anspruch genommen werden; im Falle einer Kündigung wird die Versicherung in eine prämienfreie Versicherung umgewandelt. § 169 Abs. 1 des Versicherungsvertragsgesetzes findet insoweit keine Anwendung. Eine Abfindung des Anspruchs nach § 3 ist weiterhin möglich.
 
-(3) Für Pensionskassen gilt Absatz 1 mit der Maßgabe, daß sich der vom Arbeitgeber zu finanzierende Teilanspruch nach Absatz 1, soweit er über die von der Pensionskasse nach dem aufsichtsbehördlich genehmigten Geschäftsplan oder, soweit eine aufsichtsbehördliche Genehmigung nicht vorgeschrieben ist, nach den allgemeinen Versicherungsbedingungen und den fachlichen Geschäftsunterlagen im Sinne des § 5 Abs. 3 Nr. 2 Halbsatz 2 des Versicherungsaufsichtsgesetzes (Geschäftsunterlagen) auf Grund der Beiträge des Arbeitgebers zu erbringende Leistung hinausgeht, gegen den Arbeitgeber richtet. An die Stelle der Ansprüche nach Satz 1 tritt auf Verlangen des Arbeitgebers die von der Pensionskasse auf Grund des Geschäftsplans oder der Geschäftsunterlagen zu erbringende Leistung, wenn nach dem aufsichtsbehördlich genehmigten Geschäftsplan oder den Geschäftsunterlagen
+(3) Für Pensionskassen gilt Absatz 1 mit der Maßgabe, daß sich der vom Arbeitgeber zu finanzierende Teilanspruch nach Absatz 1, soweit er über die von der Pensionskasse nach dem aufsichtsbehördlich genehmigten Geschäftsplan oder, soweit eine aufsichtsbehördliche Genehmigung nicht vorgeschrieben ist, nach den allgemeinen Versicherungsbedingungen und den fachlichen Geschäftsunterlagen im Sinne des § 9 Absatz 2 Nummer 2 in Verbindung mit § 234 Absatz 3 Nummer 1 des Versicherungsaufsichtsgesetzes (Geschäftsunterlagen) auf Grund der Beiträge des Arbeitgebers zu erbringende Leistung hinausgeht, gegen den Arbeitgeber richtet. An die Stelle der Ansprüche nach Satz 1 tritt auf Verlangen des Arbeitgebers die von der Pensionskasse auf Grund des Geschäftsplans oder der Geschäftsunterlagen zu erbringende Leistung, wenn nach dem aufsichtsbehördlich genehmigten Geschäftsplan oder den Geschäftsunterlagen
 
 1.  
 vom Beginn der Versicherung, frühestens jedoch vom Beginn der Betriebszugehörigkeit an, Überschußanteile, die auf Grund des Finanzierungsverfahrens regelmäßig entstehen, nur zur Verbesserung der Versicherungsleistung zu verwenden sind oder die Steigerung der Versorgungsanwartschaften des Arbeitnehmers der Entwicklung seines Arbeitsentgelts, soweit es unter den jeweiligen Beitragsbemessungsgrenzen der gesetzlichen Rentenversicherungen liegt, entspricht und
@@ -104,7 +112,7 @@ der ausgeschiedene Arbeitnehmer das Recht zur Fortsetzung der Versicherung mit e
 
 Absatz 2 Satz 3 bis 7 gilt entsprechend.
 
-(3a) Für Pensionsfonds gilt Absatz 1 mit der Maßgabe, dass sich der vom Arbeitgeber zu finanzierende Teilanspruch, soweit er über die vom Pensionsfonds auf der Grundlage der nach dem geltenden Pensionsplan im Sinne des § 112 Abs. 1 Satz 2 in Verbindung mit § 113 Abs. 2 Nr. 5 des Versicherungsaufsichtsgesetzes berechnete Deckungsrückstellung hinausgeht, gegen den Arbeitgeber richtet.
+(3a) Für Pensionsfonds gilt Absatz 1 mit der Maßgabe, dass sich der vom Arbeitgeber zu finanzierende Teilanspruch, soweit er über die vom Pensionsfonds auf der Grundlage der nach dem geltenden Pensionsplan im Sinne des § 237 Absatz 3 Nummer 2 und 3 des Versicherungsaufsichtsgesetzes berechnete Deckungsrückstellung hinausgeht, gegen den Arbeitgeber richtet.
 
 (4) Eine Unterstützungskasse hat bei Eintritt des Versorgungsfalls einem vorzeitig ausgeschiedenen Arbeitnehmer, der nach § 1b Abs. 4 gleichgestellt ist, und seinen Hinterbliebenen mindestens den nach Absatz 1 berechneten Teil der Versorgung zu gewähren.
 
@@ -268,7 +276,7 @@ für im Rahmen von Übertragungen gegebene Zusagen, soweit der Übertragungswert
 
 (1) Die Mittel für die Durchführung der Insolvenzsicherung werden auf Grund öffentlich-rechtlicher Verpflichtung durch Beiträge aller Arbeitgeber aufgebracht, die Leistungen der betrieblichen Altersversorgung unmittelbar zugesagt haben oder eine betriebliche Altersversorgung über eine Unterstützungskasse, eine Direktversicherung der in § 7 Abs. 1 Satz 2 und Absatz 2 Satz 1 Nr. 2 bezeichneten Art oder einen Pensionsfonds durchführen.
 
-(2) Die Beiträge müssen den Barwert der im laufenden Kalenderjahr entstehenden Ansprüche auf Leistungen der Insolvenzsicherung decken zuzüglich eines Betrages für die aufgrund eingetretener Insolvenzen zu sichernden Anwartschaften, der sich aus dem Unterschied der Barwerte dieser Anwartschaften am Ende des Kalenderjahres und am Ende des Vorjahres bemisst. Der Rechnungszinsfuß bei der Berechnung des Barwerts der Ansprüche auf Leistungen der Insolvenzsicherung bestimmt sich nach § 65 des Versicherungsaufsichtsgesetzes; soweit keine Übertragung nach § 8 Abs. 1 stattfindet, ist der Rechnungszinsfuß bei der Berechnung des Barwerts der Anwartschaften um ein Drittel höher. Darüber hinaus müssen die Beiträge die im gleichen Zeitraum entstehenden Verwaltungskosten und sonstigen Kosten, die mit der Gewährung der Leistungen zusammenhängen, und die Zuführung zu einem von der Bundesanstalt für Finanzdienstleistungsaufsicht festgesetzten Ausgleichsfonds decken; § 37 des Versicherungsaufsichtsgesetzes bleibt unberührt. Auf die am Ende des Kalenderjahres fälligen Beiträge können Vorschüsse erhoben werden. Sind die nach den Sätzen 1 bis 3 erforderlichen Beiträge höher als im vorangegangenen Kalenderjahr, so kann der Unterschiedsbetrag auf das laufende und die folgenden vier Kalenderjahre verteilt werden. In Jahren, in denen sich außergewöhnlich hohe Beiträge ergeben würden, kann zu deren Ermäßigung der Ausgleichsfonds in einem von der Bundesanstalt für Finanzdienstleistungsaufsicht zu genehmigenden Umfang herangezogen werden.
+(2) Die Beiträge müssen den Barwert der im laufenden Kalenderjahr entstehenden Ansprüche auf Leistungen der Insolvenzsicherung decken zuzüglich eines Betrages für die aufgrund eingetretener Insolvenzen zu sichernden Anwartschaften, der sich aus dem Unterschied der Barwerte dieser Anwartschaften am Ende des Kalenderjahres und am Ende des Vorjahres bemisst. Der Rechnungszinsfuß bei der Berechnung des Barwerts der Ansprüche auf Leistungen der Insolvenzsicherung bestimmt sich nach § 235 Nummer 4 des Versicherungsaufsichtsgesetzes; soweit keine Übertragung nach § 8 Abs. 1 stattfindet, ist der Rechnungszinsfuß bei der Berechnung des Barwerts der Anwartschaften um ein Drittel höher. Darüber hinaus müssen die Beiträge die im gleichen Zeitraum entstehenden Verwaltungskosten und sonstigen Kosten, die mit der Gewährung der Leistungen zusammenhängen, und die Zuführung zu einem von der Bundesanstalt für Finanzdienstleistungsaufsicht festgesetzten Ausgleichsfonds decken; § 193 des Versicherungsaufsichtsgesetzes bleibt unberührt. Auf die am Ende des Kalenderjahres fälligen Beiträge können Vorschüsse erhoben werden. In Jahren, in denen sich außergewöhnlich hohe Beiträge ergeben würden, kann zu deren Ermäßigung der Ausgleichsfonds in einem von der Bundesanstalt für Finanzdienstleistungsaufsicht zu genehmigenden Umfang herangezogen werden; außerdem können die nach den Sätzen 1 bis 3 erforderlichen Beiträge auf das laufende und die bis zu vier folgenden Kalenderjahre verteilt werden.
 
 (3) Die nach Absatz 2 erforderlichen Beiträge werden auf die Arbeitgeber nach Maßgabe der nachfolgenden Beträge umgelegt, soweit sie sich auf die laufenden Versorgungsleistungen und die nach § 1b unverfallbaren Versorgungsanwartschaften beziehen (Beitragsbemessungsgrundlage); diese Beträge sind festzustellen auf den Schluß des Wirtschaftsjahrs des Arbeitgebers, das im abgelaufenen Kalenderjahr geendet hat:
 
@@ -337,9 +345,29 @@ entgegen § 11 Abs. 1 Satz 2 Unterlagen nicht, nicht richtig, nicht vollständig
 
 ### § 14 Träger der Insolvenzsicherung
 
-(1) Träger der Insolvenzsicherung ist der Pensions-Sicherungs-Verein Versicherungsverein auf Gegenseitigkeit. Er ist zugleich Träger der Insolvenzsicherung von Versorgungszusagen Luxemburger Unternehmen nach Maßgabe des Abkommens vom 22. September 2000 zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über Zusammenarbeit im Bereich der Insolvenzsicherung betrieblicher Altersversorgung. Er unterliegt der Aufsicht durch die Bundesanstalt für Finanzdienstleistungsaufsicht. Die Vorschriften des Versicherungsaufsichtsgesetzes gelten, soweit dieses Gesetz nichts anderes bestimmt.
+(1) Träger der Insolvenzsicherung ist der Pensions-Sicherungs-Verein Versicherungsverein auf Gegenseitigkeit. Er ist zugleich Träger der Insolvenzsicherung von Versorgungszusagen Luxemburger Unternehmen nach Maßgabe des Abkommens vom 22. September 2000 zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über Zusammenarbeit im Bereich der Insolvenzsicherung betrieblicher Altersversorgung.
 
-(2) Der Bundesminister für Arbeit und Sozialordnung weist durch Rechtsverordnung mit Zustimmung des Bundesrates die Stellung des Trägers der Insolvenzsicherung der Kreditanstalt für Wiederaufbau zu, bei der ein Fonds zur Insolvenzsicherung der betrieblichen Altersversorgung gebildet wird, wenn
+(2) Der Pensions-Sicherungs-Verein Versicherungsverein auf Gegenseitigkeit unterliegt der Aufsicht durch die Bundesanstalt für Finanzdienstleistungsaufsicht. Soweit dieses Gesetz nichts anderes bestimmt, gelten für ihn die Vorschriften für kleine Versicherungsunternehmen nach den §§ 212 bis 216 des Versicherungsaufsichtsgesetzes und die auf Grund des § 217 des Versicherungsaufsichtsgesetzes erlassenen Rechtsverordnungen entsprechend. Die folgenden Vorschriften gelten mit folgenden Maßgaben:
+
+1.  
+§ 212 Absatz 2 Nummer 1 des Versicherungsaufsichtsgesetzes gilt mit der Maßgabe, dass § 30 des Versicherungsaufsichtsgesetzes Anwendung findet;
+
+2.  
+§ 212 Absatz 3 Nummer 6 des Versicherungsaufsichtsgesetzes gilt ohne Maßgabe; § 212 Absatz 3 Nummer 7, 10 und 12 des Versicherungsaufsichtsgesetzes gilt mit der Maßgabe, dass die dort genannten Vorschriften auch auf die interne Revision Anwendung finden; § 212 Absatz 3 Nummer 13 des Versicherungsaufsichtsgesetzes gilt mit der Maßgabe, dass die Bundesanstalt für Finanzdienstleistungsaufsicht bei Vorliegen der gesetzlichen Tatbestandsmerkmale die Erlaubnis zum Geschäftsbetrieb widerrufen kann;
+
+3.  
+§ 214 Absatz 1 des Versicherungsaufsichtsgesetzes gilt mit der Maßgabe, dass grundsätzlich die Hälfte des Ausgleichsfonds den Eigenmitteln zugerechnet werden kann. Auf Antrag des Pensions-Sicherungs-Vereins Versicherungsverein auf Gegenseitigkeit kann die Bundesanstalt für Finanzdienstleistungsaufsicht im Fall einer Inanspruchnahme des Ausgleichsfonds nach § 10 Absatz 2 Satz 5 festsetzen, dass der Ausgleichsfonds vorübergehend zu einem hierüber hinausgehenden Anteil den Eigenmitteln zugerechnet werden kann; § 214 Absatz 1 Satz 2 des Versicherungsaufsichtsgesetzes findet keine Anwendung;
+
+4.  
+der Umfang des Sicherungsvermögens muss mindestens der Summe aus den Bilanzwerten der in § 125 Absatz 2 des Versicherungsaufsichtsgesetzes genannten Beträge und dem nicht den Eigenmitteln zuzurechnenden Teil des Ausgleichsfonds entsprechen;
+
+5.  
+§ 134 Absatz 3 Satz 2 des Versicherungsaufsichtsgesetzes gilt mit der Maßgabe, dass die Aufsichtsbehörde die Frist für Maßnahmen des Pensions-Sicherungs-Vereins Versicherungsverein auf Gegenseitigkeit um einen angemessenen Zeitraum verlängern kann; § 134 Absatz 6 Satz 1 des Versicherungsaufsichtsgesetzes ist entsprechend anzuwenden;
+
+6.  
+§ 135 Absatz 2 Satz 2 des Versicherungsaufsichtsgesetzes gilt mit der Maßgabe, dass die Aufsichtsbehörde die genannte Frist um einen angemessenen Zeitraum verlängern kann.
+
+(3) Der Bundesminister für Arbeit und Sozialordnung weist durch Rechtsverordnung mit Zustimmung des Bundesrates die Stellung des Trägers der Insolvenzsicherung der Kreditanstalt für Wiederaufbau zu, bei der ein Fonds zur Insolvenzsicherung der betrieblichen Altersversorgung gebildet wird, wenn
 
 1.  
 bis zum 31. Dezember 1974 nicht nachgewiesen worden ist, daß der in Absatz 1 genannte Träger die Erlaubnis der Aufsichtsbehörde zum Geschäftsbetrieb erhalten hat,
@@ -352,7 +380,7 @@ die Aufsichtsbehörde den Geschäftsbetrieb des in Absatz 1 genannten Trägers u
 
 In den Fällen der Nummern 2 und 3 geht das Vermögen des in Absatz 1 genannten Trägers einschließlich der Verbindlichkeiten auf die Kreditanstalt für Wiederaufbau über, die es dem Fonds zur Insolvenzsicherung der betrieblichen Altersversorgung zuweist.
 
-(3) Wird die Insolvenzsicherung von der Kreditanstalt für Wiederaufbau durchgeführt, gelten die Vorschriften dieses Abschnittes mit folgenden Abweichungen:
+(4) Wird die Insolvenzsicherung von der Kreditanstalt für Wiederaufbau durchgeführt, gelten die Vorschriften dieses Abschnittes mit folgenden Abweichungen:
 
 1.  
 In § 7 Abs. 6 entfällt die Zustimmung der Bundesanstalt für Finanzdienstleistungsaufsicht.
@@ -388,13 +416,13 @@ der Nettolöhne vergleichbarer Arbeitnehmergruppen des Unternehmens
 
 im Prüfungszeitraum.
 
-(3) Die Verpflichtung nach Absatz 1 entfällt wenn
+(3) Die Verpflichtung nach Absatz 1 entfällt, wenn
 
 1.  
 der Arbeitgeber sich verpflichtet, die laufenden Leistungen jährlich um wenigstens eins vom Hundert anzupassen,
 
 2.  
-die betriebliche Altersversorgung über eine Direktversicherung im Sinne des § 1b Abs. 2 oder über eine Pensionskasse im Sinne des § 1b Abs. 3 durchgeführt wird, ab Rentenbeginn sämtliche auf den Rentenbestand entfallende Überschußanteile zur Erhöhung der laufenden Leistungen verwendet werden und zur Berechnung der garantierten Leistung der nach § 65 Abs. 1 Nr. 1 Buchstabe a des Versicherungsaufsichtsgesetzes festgesetzte Höchstzinssatz zur Berechnung der Deckungsrückstellung nicht überschritten wird oder
+die betriebliche Altersversorgung über eine Direktversicherung im Sinne des § 1b Abs. 2 oder über eine Pensionskasse im Sinne des § 1b Abs. 3 durchgeführt wird und ab Rentenbeginn sämtliche auf den Rentenbestand entfallende Überschußanteile zur Erhöhung der laufenden Leistungen verwendet werden oder
 
 3.  
 eine Beitragszusage mit Mindestleistung erteilt wurde; Absatz 5 findet insoweit keine Anwendung.
@@ -613,7 +641,7 @@ bestanden hat; in diesen Fällen bleibt die Anwartschaft auch erhalten, wenn die
 
 (1) Der Barwert der bis zum 31. Dezember 2005 aufgrund eingetretener Insolvenzen zu sichernden Anwartschaften wird einmalig auf die beitragspflichtigen Arbeitgeber entsprechend § 10 Abs. 3 umgelegt und vom Träger der Insolvenzsicherung nach Maßgabe der Beträge zum Schluss des Wirtschaftsjahres, das im Jahr 2004 geendet hat, erhoben. Der Rechnungszinsfuß bei der Berechnung des Barwerts beträgt 3,67 vom Hundert.
 
-(2) Der Betrag ist in 15 gleichen Raten fällig. Die erste Rate wird am 31. März 2007 fällig, die weiteren zum 31. März der folgenden Kalenderjahre. Bei vorfälliger Zahlung erfolgt eine Diskontierung der einzelnen Jahresraten mit dem zum Zeitpunkt der Zahlung um ein Drittel erhöhten Rechnungszinsfuß nach § 65 des Versicherungsaufsichtsgesetzes, wobei nur volle Monate berücksichtigt werden.
+(2) Der Betrag ist in 15 gleichen Raten fällig. Die erste Rate wird am 31. März 2007 fällig, die weiteren zum 31. März der folgenden Kalenderjahre. Bei vorfälliger Zahlung erfolgt eine Diskontierung der einzelnen Jahresraten mit dem zum Zeitpunkt der Zahlung um ein Drittel erhöhten Rechnungszinsfuß nach der nach § 235 Nummer 4 des Versicherungsaufsichtsgesetzes erlassenen Rechtsverordnung, wobei nur volle Monate berücksichtigt werden.
 
 (3) Der abgezinste Gesamtbetrag ist gemäß Absatz 2 am 31. März 2007 fällig, wenn die sich ergebende Jahresrate nicht höher als 50 Euro ist.
 
