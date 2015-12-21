@@ -2,14 +2,14 @@ Verordnung zur Durchführung des § 82 des Zwölften Buches Sozialgesetzbuch ()
 ============================================================================
 
 Stand  
-Zuletzt geändert durch Art. 11 G v. 21.3.2005 I 818
+Zuletzt geändert durch Art. 8 G v. 22.12.2015 I 2557
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 28.11.1976 +++)
 (+++ Maßgaben aufgrund EinigVtr nicht mehr anzuwenden gem. Art. 109 Nr. 4 
-     Buchst. f DBuchst. gg G v. 8.12.2010 I 1864 mWv 15.12.2010+++)
+     Buchst. f DBuchst. gg G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)
 ```
 
 Überschrift: IdF d. Art. 12 Nr. 1 G v. 27.12.2003 I 3022 mWv 1.1.2005
@@ -34,7 +34,7 @@ Bei der Berechnung der Einkünfte in Geld oder Geldeswert, die nach § 82 Abs. 1
 
 (2) Als nichtselbständige Arbeit gilt auch die Arbeit, die in einer Familiengemeinschaft von einem Familienangehörigen des Betriebsinhabers gegen eine Vergütung geleistet wird. Wird die Arbeit nicht nur vorübergehend geleistet, so ist in Zweifelsfällen anzunehmen, daß der Familienangehörige eine Vergütung erhält, wie sie einem Gleichaltrigen für eine gleichartige Arbeit gleichen Umfangs in einem fremden Betrieb ortsüblich gewährt wird.
 
-(3) Bei der Berechnung der Einkünfte ist von den monatlichen Bruttoeinnahmen auszugehen. Einmalige Einnahmen sind von dem Monat an zu berücksichtigen, in dem sie anfallen; sie sind, soweit nicht im Einzelfall eine andere Regelung angezeigt ist, auf einen angemessenen Zeitraum aufzuteilen und monatlich mit einem entsprechenden Teilbetrag anzusetzen. Satz 2 gilt auch für Sonderzuwendungen, Gratifikationen und gleichartige Bezüge und Vorteile, die in größeren als monatlichen Zeitabständen gewährt werden.
+(3) Bei der Berechnung der Einkünfte ist von den monatlichen Bruttoeinnahmen auszugehen. Sonderzuwendungen, Gratifikationen und gleichartige Bezüge und Vorteile, die in größeren als monatlichen Zeitabständen gewährt werden, sind wie einmalige Einnahmen zu behandeln.
 
 (4) Zu den mit der Erzielung der Einkünfte aus nichtselbständiger Arbeit verbundenen Ausgaben im Sinne des § 82 Abs. 2 Nr. 4 des Zwölften Buches Sozialgesetzbuch gehören vor allem
 
@@ -179,7 +179,7 @@ der Roheinnahmen. Dies gilt nicht, wenn geringere Einkünfte nachgewiesen werden
 
 ### § 8 Andere Einkünfte
 
-(1) Andere als die in den §§ 3, 4, 6 und 7 genannten Einkünfte sind, wenn sie nicht monatlich oder wenn sie monatlich in unterschiedlicher Höhe erzielt werden, als Jahreseinkünfte zu berechnen. Zu den anderen Einkünften im Sinne des Satzes 1 gehören auch die in § 19 Abs. 1 Ziff. 2 des Einkommensteuergesetzes genannten Bezüge sowie Renten und sonstige wiederkehrende Bezüge. § 3 Abs. 3 Satz 2 und 3 gilt entsprechend.
+(1) Andere als die in den §§ 3, 4, 6 und 7 genannten Einkünfte sind, wenn sie nicht monatlich oder wenn sie monatlich in unterschiedlicher Höhe erzielt werden, als Jahreseinkünfte zu berechnen. Zu den anderen Einkünften im Sinne des Satzes 1 gehören auch die in § 19 Abs. 1 Ziff. 2 des Einkommensteuergesetzes genannten Bezüge sowie Renten und sonstige wiederkehrende Bezüge. § 3 Abs. 3 gilt entsprechend.
 
 (2) Sind die Einkünfte als Jahreseinkünfte zu berechnen, gilt § 6 Abs. 3 entsprechend.
 
