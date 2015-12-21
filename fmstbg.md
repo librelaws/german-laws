@@ -2,7 +2,7 @@ Gesetz zur Beschleunigung und Vereinfachung des Erwerbs von Anteilen an sowie Ri
 =================================================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 24.2.2012 I 206
+Zuletzt geändert durch Art. 8 G v. 22.12.2015 I 2565
 
 ### 
 
@@ -11,6 +11,7 @@ Zuletzt geändert durch Art. 3 G v. 24.2.2012 I 206
 ```
 
 Das G wurde als Artikel 2 des G v. 17.10.2008 I 1982 vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 7 Abs. 1 dieses G am 18.10.2008 in Kraft getreten.
+
 Überschrift (Kurzbezeichnung u. Buchstabenabkürzung): IdF. d. Art. 2 Nr. 1 G v. 7.4.2009 I 725 mWv 9.4.2009
 
 ### Inhaltsübersicht
@@ -47,7 +48,7 @@ Das G wurde als Artikel 2 des G v. 17.10.2008 I 1982 vom Bundestag mit Zustimmun
 
 ### § 1 Anwendungsbereich
 
-Dieses Gesetz findet Anwendung auf Unternehmen des Finanzsektors im Sinne des § 2 des Finanzmarktstabilisierungsfondsgesetzes, denen zum Zwecke der Stabilisierung des Finanzmarktes Stabilisierungsmaßnahmen gewährt werden. Daneben findet das Gesetz Anwendung auf Unternehmen, die zum Zweck der Einhaltung von Eigenmittelanforderungen nach § 10 Absatz 1b Satz 2 des Kreditwesengesetzes Kapitalmaßnahmen durchführen. Die §§ 7 bis 7d finden auch dann Anwendung, wenn die Einberufung der Hauptversammlung vor Inkrafttreten dieses Gesetzes erfolgt ist.
+Dieses Gesetz findet Anwendung auf Unternehmen des Finanzsektors im Sinne des § 2 des Finanzmarktstabilisierungsfondsgesetzes, denen zum Zwecke der Stabilisierung des Finanzmarktes Stabilisierungsmaßnahmen gewährt werden. Daneben findet das Gesetz Anwendung auf Unternehmen, die zum Zweck der Einhaltung von Eigenmittelanforderungen nach § 10 Absatz 4 des Kreditwesengesetzes Kapitalmaßnahmen durchführen. Die §§ 7 bis 7d finden auch dann Anwendung, wenn die Einberufung der Hauptversammlung vor Inkrafttreten dieses Gesetzes erfolgt ist.
 
 ### § 2 Verpflichtungserklärung
 
@@ -77,7 +78,7 @@ Der Vorstand hat der nächsten ordentlichen Hauptversammlung einen schriftlichen
 
 ### § 7 Kapitalerhöhung gegen Einlagen und Kapitalherabsetzung
 
-(1) Wird im Zusammenhang mit einer Rekapitalisierung nach § 7 des Finanzmarktstabilisierungsfondsgesetzes eine Hauptversammlung zur Beschlussfassung über eine Kapitalerhöhung gegen Einlagen einberufen, gilt § 16 Absatz 4 des Wertpapiererwerbs- und Übernahmegesetzes entsprechend mit der Maßgabe, dass die Einberufung zur Hauptversammlung spätestens am 21. Tag vor dem Tag der Hauptversammlung erfolgen muss. Abweichend von § 123 Absatz 3 Satz 3 des Aktiengesetzes hat sich der Nachweis bei börsennotierten Gesellschaften auf den Beginn des 18. Tages vor der Versammlung zu beziehen und muss der Gesellschaft unter der in der Einberufung hierfür mitgeteilten Adresse bis spätestens am vierten Tag vor der Hauptversammlung zugehen, soweit der Vorstand in der Einberufung der Hauptversammlung keine kürzere Frist für den Zugang des Nachweises bei der Gesellschaft vorsieht; abweichende Satzungsbestimmungen sind unbeachtlich. Die vorstehenden Regelungen gelten entsprechend, wenn die Kapitalerhöhung nicht nur von dem Fonds, sondern auch oder ausschließlich von den Aktionären oder Dritten gezeichnet werden kann oder die Tagesordnung der Hauptversammlung neben der Beschlussfassung über die Kapitalerhöhung noch andere Gegenstände enthält.
+(1) Wird im Zusammenhang mit einer Rekapitalisierung nach § 7 des Finanzmarktstabilisierungsfondsgesetzes eine Hauptversammlung zur Beschlussfassung über eine Kapitalerhöhung gegen Einlagen einberufen, gilt § 16 Absatz 4 des Wertpapiererwerbs- und Übernahmegesetzes entsprechend mit der Maßgabe, dass die Einberufung zur Hauptversammlung spätestens am 21. Tag vor dem Tag der Hauptversammlung erfolgen muss. Abweichend von § 123 Absatz 4 Satz 2 des Aktiengesetzes hat sich der Nachweis bei börsennotierten Gesellschaften auf den Beginn des 18. Tages vor der Versammlung zu beziehen und muss bei Inhaberaktien der Gesellschaft unter der in der Einberufung hierfür mitgeteilten Adresse bis spätestens am vierten Tag vor der Hauptversammlung zugehen, soweit der Vorstand in der Einberufung der Hauptversammlung keine kürzere Frist für den Zugang des Nachweises bei der Gesellschaft vorsieht; abweichende Satzungsbestimmungen sind unbeachtlich. Die vorstehenden Regelungen gelten entsprechend, wenn die Kapitalerhöhung nicht nur von dem Fonds, sondern auch oder ausschließlich von den Aktionären oder Dritten gezeichnet werden kann oder die Tagesordnung der Hauptversammlung neben der Beschlussfassung über die Kapitalerhöhung noch andere Gegenstände enthält.
 
 (2) Der Beschluss über die Erhöhung des Grundkapitals gegen Einlagen im Zusammenhang mit einer Rekapitalisierung nach § 7 des Finanzmarktstabilisierungsfondsgesetzes bedarf der Mehrheit der abgegebenen Stimmen. Abweichende Satzungsbestimmungen sind unbeachtlich.
 
@@ -141,7 +142,7 @@ die Beteiligung in vergleichbarer Weise umzustrukturieren, insbesondere aufzutei
 dem Fonds erstmalig oder zusätzliche Umtausch- und Bezugsrechte einzuräumen und bedingtes Kapital für die Erfüllung der dadurch entstehenden Ansprüche zu schaffen, oder
 
 6.  
-Kapitalerhöhungen gegen Einlagen für die Einhaltung von Eigenmittelanforderungen nach § 10 Absatz 1b Satz 2 des Kreditwesengesetzes durchzuführen.
+Kapitalerhöhungen gegen Einlagen für die Einhaltung von Eigenmittelanforderungen nach § 10 Absatz 4 des Kreditwesengesetzes durchzuführen.
 
 Dasselbe gilt, wenn der Beschluss der Hauptversammlung eine Vereinbarung mit dem Fonds oder eine Erklärung der Geschäftsführung des Unternehmens vorsieht, die aus einer Kapitalmaßnahme dem Unternehmen zufließenden Mittel überwiegend für eine Rückzahlung von dem Unternehmen durch den Fonds zur Verfügung gestelltem Kapital zu verwenden.
 
@@ -159,7 +160,7 @@ Dasselbe gilt, wenn der Beschluss der Hauptversammlung eine Vereinbarung mit dem
 
 (2) Der Fonds kann Mitglied von Unternehmen des Finanzsektors werden, die in der Rechtsform der Genossenschaft verfasst sind. Satzungsänderungen von Genossenschaften, deren Zweck darin besteht, eine Kapitalverstärkung durch den Fonds herbeizuführen, sind unverzüglich zur Eintragung in das Genossenschaftsregister anzumelden und unverzüglich einzutragen, sofern der zugrunde liegende Beschluss nicht offensichtlich nichtig ist.
 
-(3) Gewähren Versicherungsvereine auf Gegenseitigkeit dem Fonds Genussrechte im Sinne des § 53c Abs. 3a des Versicherungsaufsichtsgesetzes, so gilt für das Beschlussverfahren § 7 Abs. 1 entsprechend.
+(3) (weggefallen)
 
 ### § 10 Keine Informationspflicht gegenüber dem Wirtschaftsausschuss
 
