@@ -4,6 +4,9 @@ Gesetz betreffend die Gesellschaften mit beschränkter Haftung (GmbHG)
 Stand  
 Zuletzt geändert durch Art. 5 G v. 22.12.2015 I 2565
 
+Hinweis  
+Änderung durch Art. 8 G v. 10.5.2016 I 1142 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
@@ -181,6 +184,9 @@ Zuletzt geändert durch Art. 5 G v. 22.12.2015 I 2565
 | § 83                                      |
 | § 84                                      |
 | § 85                                      |
+| § 86                                      |
+| § 87                                      |
+| § 88                                      |
 |                                           |
 | Anlage                                    |
 
@@ -767,7 +773,7 @@ Für die gerichtliche Entscheidung über das Auskunfts- und Einsichtsrecht finde
 
 ### § 52 Aufsichtsrat
 
-(1) Ist nach dem Gesellschaftsvertrag ein Aufsichtsrat zu bestellen, so sind § 90 Abs. 3, 4, 5 Satz 1 und 2, § 95 Satz 1, § 100 Abs. 1 und 2 Nr. 2 und Abs. 5, § 101 Abs. 1 Satz 1, § 103 Abs. 1 Satz 1 und 2, §§ 105, 107 Abs. 4, §§ 110 bis 114, 116 des Aktiengesetzes in Verbindung mit § 93 Abs. 1 und 2 Satz 1 und 2 des Aktiengesetzes, § 124 Abs. 3 Satz 2, §§ 170, 171, 394 und 395 des Aktiengesetzes entsprechend anzuwenden, soweit nicht im Gesellschaftsvertrag ein anderes bestimmt ist.
+(1) Ist nach dem Gesellschaftsvertrag ein Aufsichtsrat zu bestellen, so sind § 90 Abs. 3, 4, 5 Satz 1 und 2, § 95 Satz 1, § 100 Abs. 1 und 2 Nr. 2 und Abs. 5, § 101 Abs. 1 Satz 1, § 103 Abs. 1 Satz 1 und 2, §§ 105, 107 Absatz 3 Satz 2 und 3 und Absatz 4, §§ 110 bis 114, 116 des Aktiengesetzes in Verbindung mit § 93 Abs. 1 und 2 Satz 1 und 2 des Aktiengesetzes, § 124 Abs. 3 Satz 2, §§ 170, 171, 394 und 395 des Aktiengesetzes entsprechend anzuwenden, soweit nicht im Gesellschaftsvertrag ein anderes bestimmt ist.
 
 (2) Ist nach dem Drittelbeteiligungsgesetz ein Aufsichtsrat zu bestellen, so legt die Gesellschafterversammlung für den Frauenanteil im Aufsichtsrat und unter den Geschäftsführern Zielgrößen fest, es sei denn, sie hat dem Aufsichtsrat diese Aufgabe übertragen. Ist nach dem Mitbestimmungsgesetz, dem Montan-Mitbestimmungsgesetz oder dem Mitbestimmungsergänzungsgesetz ein Aufsichtsrat zu bestellen, so legt der Aufsichtsrat für den Frauenanteil im Aufsichtsrat und unter den Geschäftsführern Zielgrößen fest. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
 
@@ -1223,6 +1229,40 @@ als Geschäftsführer, Liquidator, Mitglied eines Aufsichtsrats oder ähnlichen 
 (2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder einen anderen zu bereichern oder einen anderen zu schädigen, so ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe. Ebenso wird bestraft, wer ein Geheimnis der in Absatz 1 bezeichneten Art, namentlich ein Betriebs- oder Geschäftsgeheimnis, das ihm unter den Voraussetzungen des Absatzes 1 bekanntgeworden ist, unbefugt verwertet.
 
 (3) Die Tat wird nur auf Antrag der Gesellschaft verfolgt. Hat ein Geschäftsführer oder ein Liquidator die Tat begangen, so sind der Aufsichtsrat und, wenn kein Aufsichtsrat vorhanden ist, von den Gesellschaftern bestellte besondere Vertreter antragsberechtigt. Hat ein Mitglied des Aufsichtsrats die Tat begangen, so sind die Geschäftsführer oder die Liquidatoren antragsberechtigt.
+
+### § 86 Verletzung der Pflichten bei Abschlussprüfungen
+
+Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als Mitglied eines Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Gesellschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder die Versicherungsunternehmen ist im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluß und den konsolidierten Abschluß von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist,
+
+1.  
+eine in § 87 Absatz 1, 2 oder Absatz 3 bezeichnete Handlung begeht und dafür einen Vermögensvorteil erhält oder sich versprechen lässt oder
+
+2.  
+eine in § 87 Absatz 1, 2 oder Absatz 3 bezeichnete Handlung beharrlich wiederholt.
+
+### § 87 Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Gesellschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder die Versicherungsunternehmen ist im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluß und den konsolidierten Abschluß von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist,
+
+1.  
+die Unabhängigkeit des Abschlussprüfers oder der Prüfungsgesellschaft nicht nach Maßgabe des Artikels 4 Absatz 3 Unterabsatz 2, des Artikels 5 Absatz 4 Unterabsatz 1 Satz 1 oder des Artikels 6 Absatz 2 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) überwacht oder
+
+2.  
+eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, die den Anforderungen nach Artikel 16 Absatz 2 Unterabsatz 2 oder 3 der Verordnung (EU) Nr. 537/2014 nicht entspricht oder der ein Auswahlverfahren nach Artikel 16 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht vorangegangen ist.
+
+(2) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats, der einen Prüfungsausschuss nicht bestellt hat, einer in Absatz 1 genannten Gesellschaft den Gesellschaftern einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
+
+(3) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats, der einen Prüfungsausschuss bestellt hat, einer in Absatz 1 genannten Gesellschaft den Gesellschaftern einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 oder Unterabsatz 2 Satz 1 oder Satz 2 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
+
+(4) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+
+(5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist bei CRR-Kreditinstituten im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, und bei Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG die Bundesanstalt für Finanzdienstleistungsaufsicht, im Übrigen das Bundesamt für Justiz.
+
+### § 88 Mitteilungen an die Abschlussprüferaufsichtsstelle
+
+(1) Die nach § 87 Absatz 5 zuständige Verwaltungsbehörde übermittelt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle alle Bußgeldentscheidungen nach § 87 Absatz 1 bis 3.
+
+(2) In Strafverfahren, die eine Straftat nach § 86 zum Gegenstand haben, übermittelt die Staatsanwaltschaft im Falle der Erhebung der öffentlichen Klage der Abschlussprüferaufsichtsstelle die das Verfahren abschließende Entscheidung. Ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf das eingelegte Rechtsmittel zu übermitteln.
 
 ### Anlage (zu § 2 Abs. 1a)
 
