@@ -2,15 +2,13 @@ Gesetz betreffend die Gesellschaften mit beschränkter Haftung (GmbHG)
 =====================================================================
 
 Stand  
-Zuletzt geändert durch Art. 27 G v. 23.7.2013 I 2586
-
-Hinweis  
-Änderung durch Art. 15 G v. 24.4.2015 I 642 (Nr. 17) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 5 G v. 22.12.2015 I 2565
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 1.8.1986 +++)
+(+++ Zur Anwendung d. § 29 vgl. § 6 EGGmbHG +++)
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht: 
      Umsetzung der 
        EGRL 58/2003    (CELEX Nr: 303L0058) vgl. V v. 10.11.2006 I 2553
@@ -526,7 +524,9 @@ Von den in den §§ 21 bis 24 bezeichneten Rechtsfolgen können die Gesellschaft
 
 (3) Die Verteilung erfolgt nach Verhältnis der Geschäftsanteile. Im Gesellschaftsvertrag kann ein anderer Maßstab der Verteilung festgesetzt werden.
 
-(4) Unbeschadet der Absätze 1 und 2 und abweichender Gewinnverteilungsabreden nach Absatz 3 Satz 2 können die Geschäftsführer mit Zustimmung des Aufsichtsrats oder der Gesellschafter den Eigenkapitalanteil von Wertaufholungen bei Vermögensgegenständen des Anlage- und Umlaufvermögens und von bei der steuerrechtlichen Gewinnermittlung gebildeten Passivposten, die nicht im Sonderposten mit Rücklageanteil ausgewiesen werden dürfen, in andere Gewinnrücklagen einstellen. Der Betrag dieser Rücklagen ist entweder in der Bilanz gesondert auszuweisen oder im Anhang anzugeben.
+(4) Unbeschadet der Absätze 1 und 2 und abweichender Gewinnverteilungsabreden nach Absatz 3 Satz 2 können die Geschäftsführer mit Zustimmung des Aufsichtsrats oder der Gesellschafter den Eigenkapitalanteil von Wertaufholungen bei Vermögensgegenständen des Anlage- und Umlaufvermögens in andere Gewinnrücklagen einstellen. Der Betrag dieser Rücklagen ist in der Bilanz gesondert auszuweisen; er kann auch im Anhang angegeben werden.
+
+(+++ § 29: Zur Anwendung vgl. § 6 EGGmbHG +++)
 
 ### § 30 Kapitalerhaltung
 
@@ -767,7 +767,7 @@ Für die gerichtliche Entscheidung über das Auskunfts- und Einsichtsrecht finde
 
 ### § 52 Aufsichtsrat
 
-(1) Ist nach dem Gesellschaftsvertrag ein Aufsichtsrat zu bestellen, so sind § 90 Abs. 3, 4, 5 Satz 1 und 2, § 95 Satz 1, § 100 Abs. 1 und 2 Nr. 2 und Abs. 5, § 101 Abs. 1 Satz 1, § 103 Abs. 1 Satz 1 und 2, §§ 105, 107 Abs. 4, §§ 110 bis 114, 116 des Aktiengesetzes in Verbindung mit § 93 Abs. 1 und 2 Satz 1 und 2 des Aktiengesetzes, § 124 Abs. 3 Satz 2, §§ 170, 171 des Aktiengesetzes entsprechend anzuwenden, soweit nicht im Gesellschaftsvertrag ein anderes bestimmt ist.
+(1) Ist nach dem Gesellschaftsvertrag ein Aufsichtsrat zu bestellen, so sind § 90 Abs. 3, 4, 5 Satz 1 und 2, § 95 Satz 1, § 100 Abs. 1 und 2 Nr. 2 und Abs. 5, § 101 Abs. 1 Satz 1, § 103 Abs. 1 Satz 1 und 2, §§ 105, 107 Abs. 4, §§ 110 bis 114, 116 des Aktiengesetzes in Verbindung mit § 93 Abs. 1 und 2 Satz 1 und 2 des Aktiengesetzes, § 124 Abs. 3 Satz 2, §§ 170, 171, 394 und 395 des Aktiengesetzes entsprechend anzuwenden, soweit nicht im Gesellschaftsvertrag ein anderes bestimmt ist.
 
 (2) Ist nach dem Drittelbeteiligungsgesetz ein Aufsichtsrat zu bestellen, so legt die Gesellschafterversammlung für den Frauenanteil im Aufsichtsrat und unter den Geschäftsführern Zielgrößen fest, es sei denn, sie hat dem Aufsichtsrat diese Aufgabe übertragen. Ist nach dem Mitbestimmungsgesetz, dem Montan-Mitbestimmungsgesetz oder dem Mitbestimmungsergänzungsgesetz ein Aufsichtsrat zu bestellen, so legt der Aufsichtsrat für den Frauenanteil im Aufsichtsrat und unter den Geschäftsführern Zielgrößen fest. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
 
