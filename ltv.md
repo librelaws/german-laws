@@ -2,7 +2,7 @@ Verordnung über die Tarifordnung für die Seelotsreviere (LTV)
 =============================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 16.12.2011 I 3086
+Zuletzt geändert Art. 1 V. 15.01.2016 I 86
 
 ### 
 
@@ -590,3009 +590,3019 @@ des Höchstbetrages nach Abschnitt B Teil I.
 **Teil I**
 
 Bruttoraumzahl
-über – bis
 
 Ems
 Euro
-1
 
 Weser
 Euro
-2
 
 Jade
 Euro
-3
 
 Elbe
 Euro
+
+über – bis
+
+1
+
+2
+
+3
+
 4
 
-0 –    300
+0 –    300
 
-43
+47
 
-44
+48
 
-58
-
-51
-
-300 –    400
-
-54
+63
 
 55
 
+300 –    400
+
+56
+
+60
+
+79
+
 73
 
-68
+400 –    500
 
-400 –    500
+64
 
-61
+76
+
+94
+
+94
+
+500 –    600
 
 70
 
-87
+92
 
-87
+104
 
-500 –    600
+96
 
-65
+600 –    700
 
-86
-
-97
-
-89
-
-600 –    700
-
-68
-
-98
+74
 
 106
 
-94
+114
 
-700 –    800
+102
 
-70
+700 –    800
 
-105
+76
 
 114
 
-97
-
-800 –    900
-
-72
-
-112
-
 123
 
-99
+105
 
-900 –  1 000
-
-75
-
-119
-
-133
-
-101
-
-1 000 –  1 100
+800 –    900
 
 78
 
-127
-
-144
-
-105
-
-1 100 –  1 200
-
-81
-
-135
-
-154
-
-110
-
-1 200 –  1 300
-
-85
-
-145
-
-165
-
-116
-
-1 300 –  1 400
-
-88
-
-155
-
-175
-
-119
-
-1 400 –  1 500
-
-91
-
-165
-
-186
-
-123
-
-1 500 –  1 600
-
-94
-
-176
-
-197
-
-129
-
-1 600 –  1 700
-
-97
-
-187
-
-208
+122
 
 133
 
-1 700 –  1 800
-
-100
-
-197
-
-219
-
-140
-
-1 800 –  1 900
-
-103
-
-207
-
-231
-
-146
-
-1 900 –  2 000
-
 107
 
-217
+900 –  1 000
 
-242
+81
 
-152
-
-2 000 –  2 100
-
-111
-
-224
-
-252
-
-157
-
-2 100 –  2 200
-
-114
-
-231
-
-263
-
-164
-
-2 200 –  2 300
-
-117
-
-238
-
-273
-
-169
-
-2 300 –  2 400
-
-120
-
-244
-
-284
-
-175
-
-2 400 –  2 500
-
-124
-
-250
-
-295
-
-182
-
-2 500 –  2 600
-
-129
-
-256
-
-305
-
-189
-
-2 600 –  2 700
-
-134
-
-263
-
-315
-
-196
-
-2 700 –  2 800
-
-139
-
-270
-
-325
-
-202
-
-2 800 –  2 900
+130
 
 144
 
-278
+109
 
-336
+1 000 –  1 100
 
-216
+84
 
-2 900 –  3 000
+138
 
-150
+155
 
-287
+113
 
-346
+1 100 –  1 200
 
-222
+88
 
-3 000 –  3 200
+146
+
+166
+
+119
+
+1 200 –  1 300
+
+92
 
 157
 
-297
+178
 
-366
+125
 
-240
+1 300 –  1 400
 
-3 200 –  3 400
+95
 
-165
+167
 
-309
+189
 
-386
+129
 
-251
+1 400 –  1 500
 
-3 400 –  3 600
+98
 
-175
+178
 
-322
+201
 
-407
+133
 
-265
+1 500 –  1 600
 
-3 600 –  3 800
+102
 
-186
+190
 
-336
+213
 
-427
+139
 
-281
+1 600 –  1 700
 
-3 800 –  4 000
+105
 
-197
+202
 
-350
+225
 
-448
+144
 
-297
+1 700 –  1 800
 
-4 000 –  4 200
+108
 
-208
+213
 
-363
+237
 
-469
+151
 
-315
+1 800 –  1 900
 
-4 200 –  4 400
+112
 
-219
+224
 
-376
+249
 
-490
+158
 
-329
+1 900 –  2 000
 
-4 400 –  4 600
+116
 
-232
+234
 
-389
+261
 
-510
+164
 
-347
+2 000 –  2 100
 
-4 600 –  4 800
+120
 
-248
-
-404
-
-532
-
-373
-
-4 800 –  5 000
+242
 
 272
 
-420
+170
 
-556
+2 100 –  2 200
 
-391
+123
 
-5 000 –  5 500
+250
+
+284
+
+177
+
+2 200 –  2 300
+
+126
+
+257
+
+295
+
+183
+
+2 300 –  2 400
+
+130
+
+264
+
+307
+
+189
+
+2 400 –  2 500
+
+134
+
+270
+
+318
+
+197
+
+2 500 –  2 600
+
+139
+
+277
+
+329
+
+204
+
+2 600 –  2 700
+
+145
+
+284
+
+340
+
+212
+
+2 700 –  2 800
+
+150
+
+292
+
+351
+
+218
+
+2 800 –  2 900
+
+156
 
 300
 
-442
+363
 
-597
+233
 
-430
+2 900 –  3 000
+
+163
+
+310
+
+374
+
+240
+
+3 000 –  3 200
+
+171
+
+321
+
+394
+
+259
+
+3 200 –  3 400
+
+180
+
+334
+
+417
+
+271
+
+3 400 –  3 600
+
+190
+
+348
+
+440
+
+286
+
+3 600 –  3 800
+
+201
+
+363
+
+462
+
+303
+
+3 800 –  4 000
+
+213
+
+378
+
+484
+
+321
+
+4 000 –  4 200
+
+225
+
+392
+
+507
+
+340
+
+4 200 –  4 400
+
+238
+
+406
+
+529
+
+355
+
+4 400 –  4 600
+
+253
+
+420
+
+551
+
+375
+
+4 600 –  4 800
+
+271
+
+436
+
+575
+
+403
+
+4 800 –  5 000
+
+294
+
+454
+
+600
+
+422
+
+5 000 –  5 500
+
+324
+
+478
+
+645
+
+464
 
 5 500 –  6 000
 
-331
+358
 
-474
+512
 
-639
+690
 
-458
+495
 
 6 000 –  6 500
 
-362
+392
 
-516
+557
 
-682
+737
 
-498
+538
 
 6 500 –  7 000
 
-397
+429
 
-558
+603
 
-725
+783
 
-539
+582
 
 7 000 –  7 500
 
-435
+470
 
-596
+644
 
-768
+829
 
-579
+625
 
 7 500 –  8 000
 
-474
+512
 
-633
+684
 
-812
+877
 
-620
+670
 
 8 000 –  8 500
 
-514
+555
 
-667
+720
 
-856
-
-661
-
-8 500 –  9 000
-
-553
-
-699
-
-899
-
-703
-
-9 000 –  9 500
-
-591
-
-729
-
-943
-
-744
-
-9 500 – 10 000
-
-628
-
-759
-
-987
-
-763
-
-10 000 – 10 500
-
-658
-
-787
-
-1 030
-
-784
-
-10 500 – 11 000
-
-686
-
-814
-
-1 073
-
-804
-
-11 000 – 11 500
+924
 
 714
 
-842
+8 500 –  9 000
 
-1 117
+597
 
-843
+755
+
+971
+
+759
+
+9 000 –  9 500
+
+638
+
+787
+
+1 018
+
+804
+
+9 500 – 10 000
+
+678
+
+820
+
+1 065
+
+824
+
+10 000 – 10 500
+
+711
+
+850
+
+1 112
+
+847
+
+10 500 – 11 000
+
+741
+
+879
+
+1 159
+
+868
+
+11 000 – 11 500
+
+771
+
+909
+
+1 206
+
+910
 
 11 500 – 12 000
 
-740
+801
 
-870
+940
 
-1 162
+1 254
 
-881
+952
 
 12 000 – 12 500
 
-767
+831
 
-899
+971
 
-1 207
+1 302
 
-921
+995
 
 12 500 – 13 000
 
-799
+863
 
-929
+1 003
 
-1 250
+1 349
 
-960
+1 037
 
 13 000 – 13 500
 
-833
+900
 
-960
+1 036
 
-1 293
+1 396
 
-998
+1 078
 
 13 500 – 14 000
 
-867
+936
 
-990
+1 069
 
-1 335
+1 442
 
-1 040
+1 123
 
 14 000 – 14 500
 
-901
+973
 
-1 019
+1 101
 
-1 377
-
-1 080
-
-14 500 – 15 000
-
-935
-
-1 047
-
-1 417
-
-1 120
-
-15 000 – 15 500
-
-969
-
-1 076
-
-1 456
-
-1 161
-
-15 500 – 16 000
-
-1 004
-
-1 106
-
-1 496
-
-1 200
-
-16 000 – 16 500
-
-1 040
-
-1 136
-
-1 537
-
-1 241
-
-16 500 – 17 000
-
-1 075
+1 487
 
 1 166
 
-1 579
+14 500 – 15 000
 
-1 282
+1 010
+
+1 131
+
+1 531
+
+1 210
+
+15 000 – 15 500
+
+1 047
+
+1 162
+
+1 575
+
+1 254
+
+15 500 – 16 000
+
+1 085
+
+1 194
+
+1 618
+
+1 296
+
+16 000 – 16 500
+
+1 123
+
+1 227
+
+1 661
+
+1 340
+
+16 500 – 17 000
+
+1 161
+
+1 259
+
+1 705
+
+1 385
 
 17 000 – 17 500
 
-1 110
+1 199
 
-1 196
+1 292
 
-1 621
+1 751
 
-1 324
+1 430
 
 17 500 – 18 000
 
-1 145
+1 237
 
-1 226
+1 324
 
-1 667
+1 798
 
-1 365
+1 474
 
 18 000 – 18 500
 
-1 180
+1 274
 
-1 256
+1 356
 
-1 709
+1 845
 
-1 408
+1 521
 
 18 500 – 19 000
 
-1 215
+1 312
 
-1 284
+1 387
 
-1 752
-
-1 450
-
-19 000 – 19 500
-
-1 250
-
-1 311
-
-1 795
-
-1 492
-
-19 500 – 20 000
-
-1 285
-
-1 335
-
-1 838
-
-1 533
-
-20 000 – 20 500
-
-1 320
-
-1 359
-
-1 880
-
-1 576
-
-20 500 – 21 000
-
-1 355
-
-1 382
-
-1 918
-
-1 617
-
-21 000 – 21 500
-
-1 390
-
-1 406
-
-1 957
-
-1 660
-
-21 500 – 22 000
-
-1 426
-
-1 431
-
-1 996
-
-1 702
-
-22 000 – 22 500
-
-1 461
-
-1 456
-
-2 035
-
-1 745
-
-22 500 – 23 000
-
-1 496
-
-1 481
-
-2 075
-
-1 785
-
-23 000 – 23 500
-
-1 531
-
-1 506
-
-2 118
-
-1 829
-
-23 500 – 24 000
+1 892
 
 1 566
 
-1 531
+19 000 – 19 500
 
-2 160
+1 350
 
-1 870
+1 416
+
+1 939
+
+1 611
+
+19 500 – 20 000
+
+1 388
+
+1 442
+
+1 985
+
+1 656
+
+20 000 – 20 500
+
+1 426
+
+1 468
+
+2 030
+
+1 702
+
+20 500 – 21 000
+
+1 464
+
+1 493
+
+2 072
+
+1 746
+
+21 000 – 21 500
+
+1 502
+
+1 518
+
+2 114
+
+1 793
+
+21 500 – 22 000
+
+1 540
+
+1 545
+
+2 156
+
+1 838
+
+22 000 – 22 500
+
+1 578
+
+1 572
+
+2 198
+
+1 885
+
+22 500 – 23 000
+
+1 616
+
+1 599
+
+2 242
+
+1 928
+
+23 000 – 23 500
+
+1 654
+
+1 626
+
+2 287
+
+1 975
+
+23 500 – 24 000
+
+1 691
+
+1 653
+
+2 333
+
+2 020
 
 24 000 – 24 500
 
-1 601
+1 729
 
-1 556
+1 680
 
-2 203
+2 379
 
-1 906
+2 058
 
 24 500 – 25 000
 
-1 636
+1 767
 
-1 581
+1 707
 
-2 246
+2 426
 
-1 953
+2 109
 
 25 000 – 25 500
 
-1 669
+1 803
 
-1 607
+1 735
 
-2 289
+2 472
 
-1 999
+2 159
 
 25 500 – 26 000
 
-1 701
+1 837
 
-1 632
+1 763
 
-2 332
+2 519
 
-2 046
+2 210
 
 26 000 – 26 500
 
-1 733
+1 872
 
-1 658
+1 791
 
-2 375
+2 564
 
-2 090
+2 257
 
 26 500 – 27 000
 
-1 766
+1 907
 
-1 683
+1 818
 
-2 418
+2 608
 
-2 136
+2 307
 
 27 000 – 27 500
 
-1 800
+1 944
 
-1 708
+1 845
 
-2 460
+2 651
 
-2 182
+2 357
 
 27 500 – 28 000
 
-1 835
+1 982
 
-1 734
+1 873
 
-2 500
+2 694
 
-2 229
+2 407
 
 28 000 – 28 500
 
-1 872
+2 022
 
-1 759
+1 900
 
-2 530
+2 733
 
-2 274
+2 456
 
 28 500 – 29 000
 
-1 915
+2 068
 
-1 784
+1 927
 
-2 560
+2 765
 
-2 320
+2 506
 
 29 000 – 29 500
 
-1 959
+2 116
 
-1 811
+1 956
 
-2 590
+2 797
 
-2 367
+2 556
 
 29 500 – 30 000
 
-2 004
+2 166
 
-1 839
-
-2 620
-
-2 413
-
-30 000 – 31 000
-
-2 050
-
-1 869
-
-2 650
-
-2 457
-
-31 000 – 32 000
-
-2 113
-
-1 907
-
-2 680
-
-2 504
-
-32 000 – 33 000
-
-2 186
-
-1 955
-
-2 710
-
-2 551
-
-33 000 – 34 000
-
-2 260
-
-2 009
-
-2 740
-
-2 595
-
-34 000 – 35 000
-
-2 334
-
-2 071
-
-2 770
-
-2 642
-
-35 000 – 36 000
-
-2 405
-
-2 142
-
-2 800
-
-2 688
-
-36 000 – 37 000
-
-2 475
-
-2 214
+1 986
 
 2 830
 
-2 735
+2 606
 
-37 000 – 38 000
+30 000 – 31 000
 
-2 546
+2 218
 
-2 294
+2 019
 
-2 860
+2 862
 
-2 779
+2 654
 
-38 000 – 39 000
+31 000 – 32 000
 
-2 617
+2 282
 
-2 384
-
-2 890
-
-2 825
-
-39 000 – 40 000
-
-2 687
-
-2 474
-
-2 920
-
-2 872
-
-40 000 – 42 000
-
-2 745
-
-2 565
-
-2 950
+2 060
 
 2 894
 
+2 704
+
+32 000 – 33 000
+
+2 359
+
+2 111
+
+2 927
+
+2 755
+
+33 000 – 34 000
+
+2 436
+
+2 170
+
+2 959
+
+2 803
+
+34 000 – 35 000
+
+2 516
+
+2 237
+
+2 992
+
+2 853
+
+35 000 – 36 000
+
+2 597
+
+2 313
+
+3 024
+
+2 903
+
+36 000 – 37 000
+
+2 675
+
+2 392
+
+3 056
+
+2 954
+
+37 000 – 38 000
+
+2 750
+
+2 478
+
+3 089
+
+3 001
+
+38 000 – 39 000
+
+2 825
+
+2 575
+
+3 121
+
+3 051
+
+39 000 – 40 000
+
+2 900
+
+2 672
+
+3 152
+
+3 102
+
+40 000 – 42 000
+
+2 965
+
+2 770
+
+3 182
+
+3 126
+
 42 000 – 44 000
 
-2 793
-
-2 648
-
-2 954
-
-2 913
-
-44 000 – 46 000
-
-2 840
-
-2 730
-
-2 954
-
-2 925
-
-46 000 – 48 000
-
-2 880
-
-2 813
-
-2 954
-
-2 940
-
-48 000 – 50 000
-
-2 919
+3 015
 
 2 860
 
-2 954
+3 190
 
-2 952
+3 146
+
+44 000 – 46 000
+
+3 065
+
+2 950
+
+3 200
+
+3 159
+
+46 000 – 48 000
+
+3 115
+
+3 030
+
+3 200
+
+3 175
+
+48 000 – 50 000
+
+3 165
+
+3 090
+
+3 200
+
+3 188
 
 50 000 – 52 000
 
-2 954
+3 200
 
-2 907
+3 150
 
-2 954
+3 200
 
-2 952
+3 190
 
 über 52 000
 
-2 954
+3 200
 
-2 954
+3 200
 
-2 954
+3 200
 
-2 954
+3 200
 
 **Teil II**
 
 Bruttoraumzahl
-über – bis
 
 Nord-Ostsee-Kanal
 Euro
-1
 
 Kieler Förde
 Euro
-2
 
 Trave
 Euro
-3
 
 Flensburger Förde
 Euro
+
+über – bis
+
+1
+
+2
+
+3
+
 4
 
-0 –    300
+0 –    300
 
-21
-
-18
-
-15
-
-18
-
-300 –    400
-
-28
-
-20
+23
 
 19
 
-21
+16
 
-400 –    500
+20
 
-35
+300 –    400
 
-21
+30
 
 22
 
+21
+
+23
+
+400 –    500
+
+38
+
+23
+
 24
 
-500 –    600
+26
 
-41
+500 –    600
 
-24
+44
 
-28
+26
 
-28
+30
 
-600 –    700
+30
 
-48
-
-28
-
-31
-
-32
-
-700 –    800
+600 –    700
 
 52
 
-32
+30
 
 33
 
-39
+35
 
-800 –    900
+700 –    800
 
-57
+56
 
 35
 
-37
+36
 
-41
+42
+
+800 –    900
+
+62
+
+38
+
+40
+
+44
 
 900 –  1 000
 
-64
+69
 
-39
-
-43
-
-45
-
-1 000 –  1 100
-
-66
-
-43
+42
 
 46
 
-53
+49
 
-1 100 –  1 200
+1 000 –  1 100
 
-68
+71
 
-45
-
-47
-
-63
-
-1 200 –  1 300
-
-72
-
-47
-
-51
-
-67
-
-1 300 –  1 400
-
-74
+46
 
 50
 
-54
+57
 
-72
+1 100 –  1 200
 
-1 400 –  1 500
+73
 
-77
+49
 
 51
 
-57
-
-79
-
-1 500 –  1 600
-
-79
-
-54
-
-63
-
-87
-
-1 600 –  1 700
-
-83
-
-57
-
 68
 
-91
+1 200 –  1 300
 
-1 700 –  1 800
+78
 
-87
+51
 
-63
+55
 
 72
 
-98
-
-1 800 –  1 900
-
-88
-
-65
-
-75
-
-102
-
-1 900 –  2 000
-
-90
-
-68
-
-79
-
-107
-
-2 000 –  2 100
-
-96
-
-72
-
-83
-
-121
-
-2 100 –  2 200
-
-98
-
-75
-
-88
-
-133
-
-2 200 –  2 300
-
-100
-
-79
-
-91
-
-139
-
-2 300 –  2 400
-
-101
+1 300 –  1 400
 
 80
 
-97
+54
 
-144
+58
 
-2 400 –  2 500
+78
 
-103
+1 400 –  1 500
 
 83
 
-101
+55
 
-151
+62
 
-2 500 –  2 600
+85
 
-106
+1 500 –  1 600
 
-88
+85
 
-103
+58
 
-155
+68
 
-2 600 –  2 700
+94
 
-110
+1 600 –  1 700
 
 90
 
-107
+62
 
-162
+73
 
-2 700 –  2 800
+98
 
-116
+1 700 –  1 800
 
-96
+94
 
-113
+68
 
-166
-
-2 800 –  2 900
-
-118
-
-99
-
-118
-
-172
-
-2 900 –  3 000
-
-120
-
-102
-
-121
-
-177
-
-3 000 –  3 200
-
-128
+78
 
 106
 
-129
+1 800 –  1 900
 
-229
+95
 
-3 200 –  3 400
+70
 
-133
+81
 
-112
+110
 
-133
+1 900 –  2 000
 
-241
+97
 
-3 400 –  3 600
+73
 
-139
+85
 
-117
+116
 
-141
+2 000 –  2 100
 
-252
+104
 
-3 600 –  3 800
+78
 
-142
+90
 
-121
+131
 
-145
+2 100 –  2 200
 
-264
+106
 
-3 800 –  4 000
+81
 
-151
-
-125
-
-152
-
-274
-
-4 000 –  4 200
-
-155
-
-132
-
-156
-
-298
-
-4 200 –  4 400
-
-156
-
-136
-
-164
-
-309
-
-4 400 –  4 600
-
-163
+95
 
 144
 
-169
+2 200 –  2 300
 
-322
+108
 
-4 600 –  4 800
+85
 
-164
+98
 
-151
+150
+
+2 300 –  2 400
+
+109
+
+86
+
+105
+
+156
+
+2 400 –  2 500
+
+111
+
+90
+
+109
+
+163
+
+2 500 –  2 600
+
+114
+
+95
+
+111
+
+167
+
+2 600 –  2 700
+
+119
+
+97
+
+116
 
 175
 
-336
+2 700 –  2 800
 
-4 800 –  5 000
+125
 
-166
+104
 
-158
+122
+
+179
+
+2 800 –  2 900
+
+127
+
+107
+
+127
+
+186
+
+2 900 –  3 000
+
+130
+
+110
+
+131
+
+191
+
+3 000 –  3 200
+
+138
+
+114
+
+139
+
+247
+
+3 200 –  3 400
+
+144
+
+121
+
+144
+
+260
+
+3 400 –  3 600
+
+150
+
+126
+
+152
+
+272
+
+3 600 –  3 800
+
+153
+
+131
+
+157
+
+285
+
+3 800 –  4 000
+
+163
+
+135
+
+164
+
+296
+
+4 000 –  4 200
+
+167
+
+143
+
+168
+
+322
+
+4 200 –  4 400
+
+168
+
+147
+
+177
+
+334
+
+4 400 –  4 600
+
+176
+
+156
 
 183
 
-347
+348
 
-5 000 –  5 500
+4 600 –  4 800
 
-174
+177
 
-165
+163
 
-190
+189
 
-406
+363
 
-5 500 –  6 000
+4 800 –  5 000
 
 179
 
 171
 
-206
+198
 
-441
+375
 
-6 000 –  6 500
+5 000 –  5 500
 
-189
+188
 
-182
+178
 
-219
+205
 
-530
+438
 
-6 500 –  7 000
+5 500 –  6 000
 
-196
+193
 
-190
-
-237
-
-570
-
-7 000 –  7 500
-
-204
-
-204
-
-250
-
-663
-
-7 500 –  8 000
-
-212
-
-213
-
-266
-
-706
-
-8 000 –  8 500
-
-219
+185
 
 222
 
-282
+476
 
-745
+6 000 –  6 500
 
-8 500 –  9 000
+204
 
-224
+197
 
-239
+237
 
-296
+572
 
-787
+6 500 –  7 000
 
-9 000 –  9 500
+212
 
-233
+205
 
-251
+256
 
-312
+616
 
-828
+7 000 –  7 500
 
-9 500 – 10 000
+220
 
-241
-
-265
-
-323
-
-887
-
-10 000 – 10 500
-
-246
-
-276
-
-341
-
-949
-
-10 500 – 11 000
-
-254
-
-290
-
-355
-
-1 010
-
-11 000 – 11 500
-
-262
-
-296
-
-369
-
-1 044
-
-11 500 – 12 000
+220
 
 270
 
-303
+716
 
-377
+7 500 –  8 000
 
-1 139
+229
 
-12 000 – 12 500
+230
 
-274
+287
 
-317
+762
 
-389
+8 000 –  8 500
 
-1 209
+237
 
-12 500 – 13 000
-
-285
-
-325
-
-400
-
-1 255
-
-13 000 – 13 500
-
-292
-
-339
-
-415
-
-1 294
-
-13 500 – 14 000
-
-296
-
-353
-
-426
-
-1 342
-
-14 000 – 14 500
+240
 
 305
 
-365
+805
 
-438
+8 500 –  9 000
 
-1 388
+242
 
-14 500 – 15 000
-
-314
-
-374
-
-450
-
-1 476
-
-15 000 – 15 500
+258
 
 320
 
-386
+850
 
-454
+9 000 –  9 500
 
-1 541
+252
 
-15 500 – 16 000
-
-329
-
-397
-
-461
-
-1 605
-
-16 000 – 16 500
+271
 
 337
 
-408
+894
 
-468
+9 500 – 10 000
 
-1 654
+260
 
-16 500 – 17 000
+286
 
-343
+349
 
-419
+958
 
-472
+10 000 – 10 500
 
-1 704
+266
 
-17 000 – 17 500
+298
 
-352
+368
 
-427
+1 025
 
-477
+10 500 – 11 000
 
-1 752
+274
 
-17 500 – 18 000
+313
 
-359
+383
 
-438
+1 091
 
-484
+11 000 – 11 500
 
-1 801
+283
 
-18 000 – 18 500
+320
+
+399
+
+1 128
+
+11 500 – 12 000
+
+292
+
+327
+
+407
+
+1 230
+
+12 000 – 12 500
+
+296
+
+342
+
+420
+
+1 306
+
+12 500 – 13 000
+
+308
+
+351
+
+432
+
+1 355
+
+13 000 – 13 500
+
+315
 
 366
 
 448
 
-490
+1 398
 
-1 828
+13 500 – 14 000
 
-18 500 – 19 000
+320
 
-372
+381
 
-458
+460
 
-495
+1 449
 
-1 855
+14 000 – 14 500
 
-19 000 – 19 500
+329
 
-380
+394
 
-468
+473
 
-502
+1 499
 
-1 887
+14 500 – 15 000
 
-19 500 – 20 000
+339
 
-387
-
-476
-
-508
-
-1 920
-
-20 000 – 20 500
-
-396
+404
 
 486
 
-515
+1 594
 
-1 953
+15 000 – 15 500
 
-20 500 – 21 000
+346
 
-403
+417
 
-495
+490
 
-520
+1 664
 
-1 984
+15 500 – 16 000
 
-21 000 – 21 500
+355
 
-413
+429
 
-505
+498
 
-525
+1 733
 
-2 020
+16 000 – 16 500
 
-21 500 – 22 000
-
-419
-
-516
-
-530
-
-2 054
-
-22 000 – 22 500
-
-426
-
-525
-
-538
-
-2 090
-
-22 500 – 23 000
-
-435
-
-536
-
-545
-
-2 125
-
-23 000 – 23 500
+364
 
 441
 
-543
+505
 
-551
+1 786
 
-2 165
+16 500 – 17 000
 
-23 500 – 24 000
+370
 
-449
+453
 
-552
+510
 
-554
+1 840
 
-2 201
+17 000 – 17 500
 
-24 000 – 24 500
+380
 
-455
+461
 
-562
+515
 
-561
+1 892
 
-2 240
+17 500 – 18 000
 
-24 500 – 25 000
+388
 
-463
-
-573
-
-567
-
-2 276
-
-25 000 – 25 500
-
-470
-
-585
-
-573
-
-2 318
-
-25 500 – 26 000
-
-476
-
-595
-
-578
-
-2 357
-
-26 000 – 26 500
-
-485
-
-607
-
-585
-
-2 399
-
-26 500 – 27 000
-
-492
-
-618
-
-591
-
-2 441
-
-27 000 – 27 500
-
-501
-
-628
-
-596
-
-2 473
-
-27 500 – 28 000
-
-507
-
-639
-
-603
-
-2 506
-
-28 000 – 28 500
-
-516
-
-650
-
-608
-
-2 506
-
-28 500 – 29 000
+473
 
 523
 
-661
+1 945
 
-613
+18 000 – 18 500
 
-2 506
+395
 
-29 000 – 29 500
+484
 
-530
+529
 
-672
+1 974
 
-620
+18 500 – 19 000
 
-2 506
+402
 
-29 500 – 30 000
+495
 
-538
+535
 
-684
+2 003
 
-625
+19 000 – 19 500
 
-2 506
+410
 
-30 000 – 31 000
+505
 
-552
+542
 
-694
+2 038
 
-638
+19 500 – 20 000
 
-2 506
+418
 
-31 000 – 32 000
+514
 
-568
+549
 
-706
+2 074
 
-649
+20 000 – 20 500
 
-2 506
+428
 
-32 000 – 33 000
+525
 
-583
+556
 
-717
+2 109
 
-661
+20 500 – 21 000
 
-2 506
+435
 
-33 000 – 34 000
+535
+
+562
+
+2 143
+
+21 000 – 21 500
+
+446
+
+545
+
+567
+
+2 182
+
+21 500 – 22 000
+
+453
+
+557
+
+572
+
+2 218
+
+22 000 – 22 500
+
+460
+
+567
+
+581
+
+2 257
+
+22 500 – 23 000
+
+470
+
+579
+
+589
+
+2 295
+
+23 000 – 23 500
+
+476
+
+586
+
+595
+
+2 338
+
+23 500 – 24 000
+
+485
 
 596
 
+598
+
+2 377
+
+24 000 – 24 500
+
+491
+
+607
+
+606
+
+2 419
+
+24 500 – 25 000
+
+500
+
+619
+
+612
+
+2 458
+
+25 000 – 25 500
+
+508
+
+632
+
+619
+
+2 503
+
+25 500 – 26 000
+
+514
+
+643
+
+624
+
+2 546
+
+26 000 – 26 500
+
+524
+
+656
+
+632
+
+2 591
+
+26 500 – 27 000
+
+531
+
+667
+
+638
+
+2 636
+
+27 000 – 27 500
+
+541
+
+678
+
+644
+
+2 671
+
+27 500 – 28 000
+
+548
+
+690
+
+651
+
+2 706
+
+28 000 – 28 500
+
+557
+
+702
+
+657
+
+2 706
+
+28 500 – 29 000
+
+565
+
+714
+
+662
+
+2 706
+
+29 000 – 29 500
+
+572
+
 726
 
-672
+670
 
-2 506
+2 706
 
-34 000 – 35 000
+29 500 – 30 000
 
-613
+581
 
 739
 
-684
+675
 
-2 506
+2 706
+
+30 000 – 31 000
+
+596
+
+750
+
+689
+
+2 706
+
+31 000 – 32 000
+
+613
+
+762
+
+701
+
+2 706
+
+32 000 – 33 000
+
+630
+
+774
+
+714
+
+2 706
+
+33 000 – 34 000
+
+644
+
+784
+
+726
+
+2 706
+
+34 000 – 35 000
+
+662
+
+798
+
+739
+
+2 706
 
 35 000 – 36 000
 
-627
-
-743
-
-694
-
-2 506
-
-36 000 – 37 000
-
-642
-
-759
-
-708
-
-2 506
-
-37 000 – 38 000
-
-658
-
-773
-
-719
-
-2 506
-
-38 000 – 39 000
-
-672
-
-790
-
-730
-
-2 506
-
-39 000 – 40 000
-
-688
+677
 
 802
 
-741
+750
 
-2 506
+2 706
 
-40 000 – 42 000
+36 000 – 37 000
 
-718
+693
+
+820
+
+765
+
+2 706
+
+37 000 – 38 000
+
+711
 
 835
-
-766
-
-2 506
-
-42 000 – 44 000
-
-747
-
-864
-
-789
-
-2 506
-
-44 000 – 46 000
 
 777
 
-893
+2 706
 
-811
+38 000 – 39 000
 
-2 506
+726
 
-46 000 – 48 000
+853
+
+788
+
+2 706
+
+39 000 – 40 000
+
+743
+
+866
+
+800
+
+2 706
+
+40 000 – 42 000
+
+775
+
+902
+
+827
+
+2 706
+
+42 000 – 44 000
 
 807
 
-922
+933
 
-835
+852
 
-2 506
+2 706
+
+44 000 – 46 000
+
+839
+
+964
+
+876
+
+2 706
+
+46 000 – 48 000
+
+872
+
+996
+
+902
+
+2 706
 
 48 000 – 50 000
 
-838
+905
 
-953
+1 029
 
-858
+927
 
-2 506
+2 706
 
 für jede weiteren
-
 angefangenen
-
 2 000 über 50 000
 
-32
+   35
 
-30
+   33
 
-7
+    8
 
 –
 
 höchstens jedoch
 
-2 506
+2 707
 
-2 506
+2 707
 
-2 506
+2 707
 
-2 506
+2 707
 
 **Teil III**
 
 Bruttoraumzahl
-über – bis
 
 Wismar
 Euro
-1
 
 Rostock
 Euro
-2
 
 Stralsund
 Euro
+
+über – bis
+
+1
+
+2
+
 3
 
-0 –    300
+0 –    300
 
-19
+21
 
-17
+18
 
-20
+22
 
-300 –    400
-
-24
-
-19
+300 –    400
 
 26
 
-400 –    500
+21
 
-31
+28
 
-23
+400 –    500
 
-34
+33
 
-500 –    600
+25
 
-65
+37
 
-46
+500 –    600
 
 70
 
-600 –    700
+50
 
-78
+76
 
-53
+600 –    700
 
 84
 
-700 –    800
+57
 
-89
+91
 
-64
+700 –    800
 
-97
+96
 
-800 –    900
+69
 
-100
+105
 
-72
+800 –    900
 
 108
 
+78
+
+117
+
 900 –  1 000
-
-112
-
-79
-
-122
-
-1 000 –  1 100
-
-119
-
-88
-
-130
-
-1 100 –  1 200
-
-130
-
-97
-
-142
-
-1 200 –  1 300
-
-142
-
-103
-
-153
-
-1 300 –  1 400
-
-152
-
-114
-
-166
-
-1 400 –  1 500
-
-165
 
 121
 
-179
+85
 
-1 500 –  1 600
+132
 
-175
+1 000 –  1 100
 
 129
 
-190
+95
 
-1 600 –  1 700
+140
 
-187
+1 100 –  1 200
 
-138
+140
 
-204
-
-1 700 –  1 800
-
-198
-
-147
-
-217
-
-1 800 –  1 900
-
-208
+105
 
 153
 
-229
+1 200 –  1 300
 
-1 900 –  2 000
+153
 
-220
-
-163
-
-241
-
-2 000 –  2 100
-
-232
+111
 
 165
 
-253
+1 300 –  1 400
 
-2 100 –  2 200
+164
 
-242
+123
 
-173
+179
 
-265
+1 400 –  1 500
 
-2 200 –  2 300
+178
 
-254
+131
 
-180
+193
 
-278
-
-2 300 –  2 400
-
-266
+1 500 –  1 600
 
 189
 
-289
-
-2 400 –  2 500
-
-276
-
-197
-
-301
-
-2 500 –  2 600
-
-288
+139
 
 205
 
-315
+1 600 –  1 700
 
-2 600 –  2 700
+202
 
-299
-
-213
-
-326
-
-2 700 –  2 800
-
-312
+149
 
 220
 
-340
+1 700 –  1 800
 
-2 800 –  2 900
+214
 
-322
+159
 
-229
+234
 
-351
+1 800 –  1 900
 
-2 900 –  3 000
+225
 
-332
+165
 
-237
+247
 
-365
+1 900 –  2 000
 
-3 000 –  3 200
+238
 
-350
+176
 
-243
+260
 
-384
+2 000 –  2 100
 
-3 200 –  3 400
+251
 
-373
+178
 
-252
+273
 
-408
+2 100 –  2 200
 
-3 400 –  3 600
+261
 
-396
+187
 
-266
+286
 
-431
+2 200 –  2 300
 
-3 600 –  3 800
+274
 
-418
+194
 
-281
+300
 
-455
+2 300 –  2 400
 
-3 800 –  4 000
+287
 
-441
-
-296
-
-483
-
-4 000 –  4 200
-
-463
+204
 
 312
 
-505
+2 400 –  2 500
 
-4 200 –  4 400
+298
 
-486
+213
 
 325
 
-530
+2 500 –  2 600
 
-4 400 –  4 600
+311
 
-509
+221
 
-341
+340
 
-554
+2 600 –  2 700
 
-4 600 –  4 800
+323
 
-530
+230
 
-354
+352
 
-579
+2 700 –  2 800
 
-4 800 –  5 000
+337
 
-553
+238
 
-373
+367
 
-604
+2 800 –  2 900
 
-5 000 –  5 500
+348
 
-576
+247
 
-374
+379
 
-628
+2 900 –  3 000
 
-5 500 –  6 000
+359
 
-600
+256
 
-387
+394
 
-653
+3 000 –  3 200
 
-6 000 –  6 500
+378
 
-622
+262
+
+415
+
+3 200 –  3 400
 
 403
 
+272
+
+441
+
+3 400 –  3 600
+
+428
+
+287
+
+466
+
+3 600 –  3 800
+
+451
+
+303
+
+491
+
+3 800 –  4 000
+
+476
+
+320
+
+522
+
+4 000 –  4 200
+
+500
+
+337
+
+545
+
+4 200 –  4 400
+
+525
+
+351
+
+572
+
+4 400 –  4 600
+
+550
+
+368
+
+598
+
+4 600 –  4 800
+
+572
+
+382
+
+625
+
+4 800 –  5 000
+
+597
+
+403
+
+652
+
+5 000 –  5 500
+
+622
+
+404
+
 678
 
-6 500 –  7 000
+5 500 –  6 000
 
-645
+648
 
 418
 
-703
+705
+
+6 000 –  6 500
+
+672
+
+435
+
+732
+
+6 500 –  7 000
+
+697
+
+451
+
+759
 
 7 000 –  7 500
 
-667
+720
 
-433
+468
 
-727
+785
 
 7 500 –  8 000
 
-690
+745
 
-449
+485
 
-752
+812
 
 8 000 –  8 500
 
-712
+769
 
-464
+501
 
-777
+839
 
 8 500 –  9 000
 
-735
+794
 
-477
+515
 
-801
+865
 
 9 000 –  9 500
 
-758
+819
 
-493
+532
 
-825
+891
 
 9 500 – 10 000
 
-780
+842
 
-509
+550
 
-851
+919
 
 10 000 – 10 500
 
-802
+866
 
-557
+602
 
-875
+945
 
 10 500 – 11 000
 
-824
+890
 
-583
+630
 
-899
+971
 
 11 000 – 11 500
 
-847
+915
 
-608
+657
 
-925
+999
 
 11 500 – 12 000
 
-870
+940
 
-636
+687
 
-949
+1 025
 
 12 000 – 12 500
 
-892
+963
 
-662
+715
 
-974
+1 052
 
 12 500 – 13 000
 
-914
+987
 
-689
-
-998
-
-13 000 – 13 500
-
-938
-
-716
-
-1 023
-
-13 500 – 14 000
-
-960
-
-743
-
-1 047
-
-14 000 – 14 500
-
-982
-
-769
-
-1 073
-
-14 500 – 15 000
-
-1 005
-
-795
-
-1 098
-
-15 000 – 15 500
-
-1 027
-
-822
-
-1 122
-
-15 500 – 16 000
-
-1 052
-
-848
-
-1 146
-
-16 000 – 16 500
-
-1 073
-
-875
-
-1 172
-
-16 500 – 17 000
-
-1 095
-
-903
-
-1 196
-
-17 000 – 17 500
-
-1 119
-
-928
-
-1 221
-
-17 500 – 18 000
-
-1 141
-
-956
-
-1 245
-
-18 000 – 18 500
-
-1 163
-
-982
-
-1 271
-
-18 500 – 19 000
-
-1 187
-
-1 009
-
-1 295
-
-19 000 – 19 500
-
-1 209
-
-1 012
-
-1 319
-
-19 500 – 20 000
-
-1 231
-
-1 015
-
-1 344
-
-20 000 – 20 500
-
-1 254
-
-1 020
-
-1 367
-
-20 500 – 21 000
-
-1 277
-
-1 023
-
-1 393
-
-21 000 – 21 500
-
-1 300
-
-1 027
-
-1 418
-
-21 500 – 22 000
-
-1 321
-
-1 031
-
-1 443
-
-22 000 – 22 500
-
-1 344
-
-1 035
-
-1 467
-
-22 500 – 23 000
-
-1 366
-
-1 040
-
-1 493
-
-23 000 – 23 500
-
-1 389
-
-1 043
-
-1 516
-
-23 500 – 24 000
-
-1 412
-
-1 046
-
-1 542
-
-24 000 – 24 500
-
-1 434
-
-1 052
-
-1 565
-
-24 500 – 25 000
-
-1 458
-
-1 055
-
-1 591
-
-25 000 – 25 500
-
-1 480
-
-1 070
-
-1 615
-
-25 500 – 26 000
-
-1 503
-
-1 074
-
-1 640
-
-26 000 – 26 500
-
-1 526
+744
 
 1 078
 
-1 664
+13 000 – 13 500
 
-26 500 – 27 000
+1 013
 
-1 548
+773
 
-1 081
+1 105
 
-1 689
+13 500 – 14 000
 
-27 000 – 27 500
+1 037
 
-1 571
+802
 
-1 086
+1 131
 
-1 714
+14 000 – 14 500
 
-27 500 – 28 000
+1 061
 
-1 592
+831
 
-1 089
+1 159
 
-1 738
+14 500 – 15 000
 
-28 000 – 28 500
+1 085
 
-1 615
+859
 
-1 098
+1 186
 
-1 763
-
-28 500 – 29 000
-
-1 638
+15 000 – 15 500
 
 1 109
 
-1 788
+888
 
-29 000 – 29 500
+1 212
 
-1 661
+15 500 – 16 000
 
-1 117
+1 136
 
-1 813
+916
 
-29 500 – 30 000
+1 238
 
-1 683
+16 000 – 16 500
 
-1 128
+1 159
 
-1 837
+945
 
-30 000 – 31 000
+1 266
 
-1 705
+16 500 – 17 000
 
-1 165
+1 183
 
-1 862
+975
 
-31 000 – 32 000
+1 292
 
-1 728
+17 000 – 17 500
 
-1 203
+1 209
 
-1 885
+1 002
 
-32 000 – 33 000
+1 319
 
-1 756
+17 500 – 18 000
 
-1 242
+1 232
 
-1 917
+1 032
 
-33 000 – 34 000
+1 345
 
-1 811
+18 000 – 18 500
 
-1 280
+1 256
 
-1 977
+1 061
 
-34 000 – 35 000
+1 373
 
-1 865
+18 500 – 19 000
 
-1 318
+1 282
 
-2 035
+1 090
 
-35 000 – 36 000
+1 399
 
-1 918
+19 000 – 19 500
 
-1 356
+1 306
 
-2 096
+1 093
 
-36 000 – 37 000
+1 425
 
-1 972
+19 500 – 20 000
 
-1 393
+1 329
 
-2 153
+1 096
 
-37 000 – 38 000
+1 452
 
-2 027
+20 000 – 20 500
 
-1 433
+1 354
 
-2 214
-
-38 000 – 39 000
-
-2 081
+1 102
 
 1 476
 
-2 272
+20 500 – 21 000
 
-39 000 – 40 000
+1 379
 
-2 134
+1 105
 
-1 522
+1 504
 
-2 331
+21 000 – 21 500
 
-40 000 – 42 000
+1 404
 
-2 242
+1 109
+
+1 531
+
+21 500 – 22 000
+
+1 427
+
+1 113
+
+1 558
+
+22 000 – 22 500
+
+1 452
+
+1 118
+
+1 584
+
+22 500 – 23 000
+
+1 475
+
+1 123
+
+1 612
+
+23 000 – 23 500
+
+1 500
+
+1 126
+
+1 637
+
+23 500 – 24 000
+
+1 525
+
+1 130
+
+1 665
+
+24 000 – 24 500
+
+1 549
+
+1 136
+
+1 690
+
+24 500 – 25 000
 
 1 575
 
-2 389
+1 139
 
-42 000 – 44 000
+1 718
 
-2 350
+25 000 – 25 500
 
-1 642
+1 598
 
-2 449
+1 156
 
-44 000 – 46 000
+1 744
 
-2 448
+25 500 – 26 000
+
+1 623
+
+1 160
+
+1 771
+
+26 000 – 26 500
+
+1 648
+
+1 164
+
+1 797
+
+26 500 – 27 000
+
+1 672
+
+1 167
+
+1 824
+
+27 000 – 27 500
+
+1 697
+
+1 173
+
+1 851
+
+27 500 – 28 000
 
 1 719
 
-2 506
+1 176
+
+1 877
+
+28 000 – 28 500
+
+1 744
+
+1 186
+
+1 904
+
+28 500 – 29 000
+
+1 769
+
+1 198
+
+1 931
+
+29 000 – 29 500
+
+1 794
+
+1 206
+
+1 958
+
+29 500 – 30 000
+
+1 818
+
+1 218
+
+1 984
+
+30 000 – 31 000
+
+1 841
+
+1 258
+
+2 011
+
+31 000 – 32 000
+
+1 866
+
+1 299
+
+2 036
+
+32 000 – 33 000
+
+1 896
+
+1 341
+
+2 070
+
+33 000 – 34 000
+
+1 956
+
+1 382
+
+2 135
+
+34 000 – 35 000
+
+2 014
+
+1 423
+
+2 198
+
+35 000 – 36 000
+
+2 071
+
+1 464
+
+2 264
+
+36 000 – 37 000
+
+2 130
+
+1 504
+
+2 325
+
+37 000 – 38 000
+
+2 189
+
+1 548
+
+2 391
+
+38 000 – 39 000
+
+2 247
+
+1 594
+
+2 454
+
+39 000 – 40 000
+
+2 305
+
+1 644
+
+2 517
+
+40 000 – 42 000
+
+2 421
+
+1 701
+
+2 580
+
+42 000 – 44 000
+
+2 538
+
+1 773
+
+2 645
+
+44 000 – 46 000
+
+2 644
+
+1 857
+
+2 707
 
 46 000 – 48 000
 
-2 479
+2 677
 
-1 799
+1 943
 
-2 506
+2 707
 
 48 000 – 50 000
 
-2 506
+2 707
 
-1 880
+2 030
 
-2 506
+2 707
 
 für jede weiteren
-
 angefangenen
-
 2 000 über 50 000
 
 –
 
-70
+   76
 
 –
 
 höchstens jedoch
 
-2 506
+2 707
 
-2 506
+2 707
 
-2 506.
+2 707
 
 ### Anlage 1a (zu § 1 Absatz 1a)
 
@@ -9644,7 +9654,8 @@ höchstens jedoch
 
 (Fundstelle: BGBl. I 2009, 111 - 122;
 bezgl. einzelner Änderungen vgl. Fußnote)
-A. Verzeichnis der Lotsgelder
+
+**A. Verzeichnis der Lotsgelder**
 
 **1**  
 **Beratungsgeld**Das Beratungsgeld für die Fahrtstreckenlotsung beträgt
@@ -9652,176 +9663,254 @@ A. Verzeichnis der Lotsgelder
 1.1  
 auf der Emsim Verkehr auf den Fahrtstrecken zwischen
 
-a)  
-Emden-Reede und der Außenstation des Lotsenschiffes bei der Leuchttonne
-„Westerems“          100 vom Hundert
-
-b)  
-Papenburg-Schleuse und Emden-Reede          85 vom Hundert
-
-c)  
-Papenburg-Schleuse und Leer-Schleuse          55 vom Hundert
-
-d)  
-Leer-Schleuse und Emden-Reede          55 vom Hundert
-
-e)  
-Emden-Reede und der Binnenrandzelbake          55 vom Hundert
-
-f)  
-der Binnenrandzelbake und der Außenstation des Lotsenschiffes bei der Leuchttonne
-„Westerems“          55 vom Hundert
-
-g)  
-Borkum-Hafen und der Außenstation des Lotsenschiffes bei der Leuchttonne
-„Westerems“          85 vom Hundert
+<table>
+<tbody>
+<tr class="odd">
+<td>a)</td>
+<td>Emden-Reede und der Außenstation des Lotsenschiffes bei der Leuchttonne<br />
+„Westerems“</td>
+<td>  100 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>b)</td>
+<td>Papenburg-Schleuse und Emden-Reede</td>
+<td> 85 vom Hundert</td>
+</tr>
+<tr class="odd">
+<td>c)</td>
+<td>Papenburg-Schleuse und Leer-Schleuse</td>
+<td> 55 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>d)</td>
+<td>Leer-Schleuse und Emden-Reede</td>
+<td>55 vom Hundert</td>
+</tr>
+<tr class="odd">
+<td>e)</td>
+<td>Emden-Reede und der Binnenrandzelbake</td>
+<td>55 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>f)</td>
+<td>der Binnenrandzelbake und der Außenstation des Lotsenschiffes bei der Leuchttonne<br />
+„Westerems“</td>
+<td>55 vom Hundert</td>
+</tr>
+<tr class="odd">
+<td>g)</td>
+<td>Borkum-Hafen und der Außenstation des Lotsenschiffes bei der Leuchttonne<br />
+„Westerems“</td>
+<td>85 vom Hundert</td>
+</tr>
+</tbody>
+</table>
 
 und im Verkehr auf den Fahrtstrecken
 
-h)  
-von Emden-Reede nach Delfzijl oder Eemshaven          85 vom Hundert
-
-i)  
-von Borkum-Hafen nach Eemshaven oder Delfzijl          85 vom Hundert
+|     |                                               |                |
+|-----|-----------------------------------------------|----------------|
+| h)  | von Emden-Reede nach Delfzijl oder Eemshaven  | 85 vom Hundert |
+| i)  | von Borkum-Hafen nach Eemshaven oder Delfzijl | 85 vom Hundert |
 
 des Betrages nach Abschnitt B Teil I Spalte 1;
 
 1.2  
 auf der Unterweserim Verkehr auf den Fahrtstrecken zwischen
 
-a)  
-Bremen und Bremerhaven          100 vom Hundert
-
-b)  
-Bremen und Elsfleth          52 vom Hundert
-
-c)  
-Bremen und Brake          100 vom Hundert
-
-d)  
-Bremen und Nordenham          100 vom Hundert
-
-e)  
-Elsfleth und Brake          80 vom Hundert
-
-f)  
-Elsfleth und Nordenham          100 vom Hundert
-
-g)  
-Elsfleth und Bremerhaven          100 vom Hundert
-
-h)  
-Brake und Nordenham          80 vom Hundert
-
-i)  
-Brake und Bremerhaven          100 vom Hundert
-
-j)  
-Nordenham und Bremerhaven          80 vom Hundert
-
-k)  
-der Reede von Blexen und Bremerhaven          25 vom Hundert
-
-l)  
-Bremerhaven und der Reede von Bremerhaven          25 vom Hundert
+|     |                                           |                  |
+|-----|-------------------------------------------|------------------|
+| a)  | Bremen und Bremerhaven                    |  100 vom Hundert |
+| b)  | Bremen und Elsfleth                       | 52 vom Hundert   |
+| c)  | Bremen und Brake                          |  100 vom Hundert |
+| d)  | Bremen und Nordenham                      |  100 vom Hundert |
+| e)  | Elsfleth und Brake                        | 80 vom Hundert   |
+| f)  | Elsfleth und Nordenham                    | 100 vom Hundert  |
+| g)  | Elsfleth und Bremerhaven                  | 100 vom Hundert  |
+| h)  | Brake und Nordenham                       |  80 vom Hundert  |
+| i)  | Brake und Bremerhaven                     | 100 vom Hundert  |
+| j)  | Nordenham und Bremerhaven                 |  80 vom Hundert  |
+| k)  | der Reede von Blexen und Bremerhaven      | 25 vom Hundert   |
+| l)  | Bremerhaven und der Reede von Bremerhaven |   25 vom Hundert |
 
 des Betrages nach Abschnitt B Teil I Spalte 2;
 
 1.3  
 auf der Außenweserim Verkehr auf den Fahrtstrecken zwischen
 
-a)  
-Bremerhaven und der Außenstation des Lotsenschiffes bei der Leuchttonne
-„3/Jade 2“ oder der „Schlüsseltonne“          100 vom Hundert
-
-b)  
-der Reede von Blexen und Bremerhaven          25 vom Hundert
-
-c)  
-der Außenstation des Lotsenschiffes bei der Leuchttonne „3/Jade 2“ und der
-„Schlüsseltonne“ im unmittelbaren Zusammenhang mit einer Streckenlotsung
-von oder nach Bremerhaven          20 vom Hundert
+<table>
+<tbody>
+<tr class="odd">
+<td>a)</td>
+<td>Bremerhaven und der Außenstation des Lotsenschiffes bei der Leuchttonne<br />
+„3/Jade 2“ oder der „Schlüsseltonne“</td>
+<td>100 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>b)</td>
+<td>der Reede von Blexen und Bremerhaven</td>
+<td>25 vom Hundert</td>
+</tr>
+<tr class="odd">
+<td>c)</td>
+<td>der Außenstation des Lotsenschiffes bei der Leuchttonne „3/Jade 2“ und der<br />
+„Schlüsseltonne“ im unmittelbaren Zusammenhang mit einer Streckenlotsung<br />
+von oder nach Bremerhaven</td>
+<td>20 vom Hundert</td>
+</tr>
+</tbody>
+</table>
 
 des Betrages nach Abschnitt B Teil I Spalte 3;
 
 1.4  
 auf der Jadeim Verkehr auf den Fahrtstrecken zwischen
 
-a)  
-Wilhelmshaven und der Außenstation des Lotsenschiffes bei der Leuchttonne
-„3/Jade 2“          100 vom Hundert
-
-b)  
-bei Lotsungen – unmittelbar vor Antritt oder nach Abschluss einer Fahrtstrecken-
-lotsung – von oder nach den Pieranlagen sowie zwischen den Ankerplätzen und
-den Pieranlagen          39 vom Hundert
+<table>
+<tbody>
+<tr class="odd">
+<td>a)</td>
+<td>Wilhelmshaven und der Außenstation des Lotsenschiffes bei der Leuchttonne<br />
+„3/Jade 2“</td>
+<td>100 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>b)</td>
+<td>bei Lotsungen – unmittelbar vor Antritt oder nach Abschluss einer Fahrtstreckenlotsung – von oder nach den Pieranlagen sowie zwischen den Ankerplätzen und den Pieranlagen</td>
+<td>39 vom Hundert</td>
+</tr>
+</tbody>
+</table>
 
 des Betrages nach Abschnitt B Teil I Spalte 4;
 
 1.5  
 auf der Elbeim Verkehr auf den Fahrtstrecken zwischen
 
-a)  
-Hamburg und Brunsbüttel          100 vom Hundert
-
-b)  
-Hamburg und dem Elbehafen Brunsbüttel          115 vom Hundert
-
-c)  
-Wedel und Brunsbüttel          115 vom Hundert
-
-d)  
-Hamburg und der Kaianlage vor Bützfleth          90 vom Hundert
-
-e)  
-der Kaianlage vor Bützfleth und Brunsbüttel          100 vom Hundert
-
-f)  
-Brunsbüttel und der Außenstation des Lotsenschiffes bei der Tonne „Elbe“          100 vom Hundert
-
-g)  
-dem Elbehafen Brunsbüttel und der Außenstation des Lotsenschiffes bei der
-Tonne „Elbe“          115 vom Hundert
-
-h)  
-Brunsbüttel und Cuxhaven          65 vom Hundert
-
-i)  
-Cuxhaven und der Außenstation des Lotsenschiffes bei der Tonne „Elbe“          85 vom Hundert
-
-j)  
-den Schleusen des Nord-Ostsee-Kanals und den Reeden vor Brunsbüttel          50 vom Hundert
-
-k)  
-den Schleusen des Nord-Ostsee-Kanals und dem Elbehafen Brunsbüttel          70 vom Hundert
-
-l)  
-Hamburg und der Este          50 vom Hundert
-
-m)  
-Hamburg und Wedel          70 vom Hundert
+<table>
+<tbody>
+<tr class="odd">
+<td>a)</td>
+<td>Hamburg und Brunsbüttel</td>
+<td>100 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>b)</td>
+<td>Hamburg und dem Elbehafen Brunsbüttel</td>
+<td>115 vom Hundert</td>
+</tr>
+<tr class="odd">
+<td>c)</td>
+<td>Wedel und Brunsbüttel</td>
+<td>115 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>d)</td>
+<td>Hamburg und der Kaianlage vor Bützfleth</td>
+<td>90 vom Hundert</td>
+</tr>
+<tr class="odd">
+<td>e)</td>
+<td>der Kaianlage vor Bützfleth und Brunsbüttel</td>
+<td>100 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>f)</td>
+<td>Brunsbüttel und der Außenstation des Lotsenschiffes bei der Tonne „Elbe“</td>
+<td>100 vom Hundert</td>
+</tr>
+<tr class="odd">
+<td>g)</td>
+<td>dem Elbehafen Brunsbüttel und der Außenstation des Lotsenschiffes bei der<br />
+Tonne „Elbe“</td>
+<td>115 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>h)</td>
+<td>Brunsbüttel und Cuxhaven</td>
+<td>65 vom Hundert</td>
+</tr>
+<tr class="odd">
+<td>i)</td>
+<td>Cuxhaven und der Außenstation des Lotsenschiffes bei der Tonne „Elbe“</td>
+<td>85 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>j)</td>
+<td>den Schleusen des Nord-Ostsee-Kanals und den Reeden vor Brunsbüttel</td>
+<td>50 vom Hundert</td>
+</tr>
+<tr class="odd">
+<td>k)</td>
+<td>den Schleusen des Nord-Ostsee-Kanals und dem Elbehafen Brunsbüttel</td>
+<td> 70 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>l)</td>
+<td>Hamburg und der Este</td>
+<td>50 vom Hundert</td>
+</tr>
+<tr class="odd">
+<td>m)</td>
+<td>Hamburg und Wedel</td>
+<td>70 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>n)</td>
+<td>dem Elbehafen Brunsbüttel und Cuxhaven</td>
+<td>80 vom Hundert</td>
+</tr>
+</tbody>
+</table>
 
 des Betrages nach Abschnitt B Teil I Spalte 5;
 
 1.6  
 auf dem Nord-Ostsee-Kanalim Verkehr
 
-a)  
-auf der Fahrtstrecke von der Zufahrt der Eingangsschleuse bis zur Endschleuse          100 vom Hundert
-
-b)  
-auf der Fahrtstrecke von der Lotsenstation Rüsterbergen bis zur Schleuse in
-Kiel-Holtenau und umgekehrt          60 vom Hundert
-
-c)  
-auf Teilen der Fahrtstrecke für jede angefangene Teilstrecke von zehn Kilometern          12 vom Hundertund, wenn nur eine Fahrtstrecke durchfahren und eine in dieser liegende Endschleuse
-benutzt wird,          25 vom Hundertund, wenn nur eine Teilstrecke im Binnenhafen von Brunsbüttel durchfahren und
-keine Endschleuse benutzt wird,          15 vom Hunderthöchstens          100 vom Hundert
-
-d)  
-bei Lotsungen – unmittelbar vor Antritt oder nach Abschluss einer Fahrtstrecken-
-lotsung – von oder nach dem Hafen Brunsbüttel-Ostermoor sowie auf dem
-Obereidersee zusätzlich          15 vom Hundert
+<table>
+<tbody>
+<tr class="odd">
+<td>a)</td>
+<td>auf der Fahrtstrecke von der Zufahrt der Eingangsschleuse bis zur Endschleuse</td>
+<td> 100 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>b)</td>
+<td>auf der Fahrtstrecke von der Lotsenstation Rüsterbergen bis zur Schleuse in<br />
+Kiel-Holtenau und umgekehrt</td>
+<td>60 vom Hundert</td>
+</tr>
+<tr class="odd">
+<td>c)</td>
+<td>auf Teilen der Fahrtstrecke für jede angefangene Teilstrecke von zehn Kilometern</td>
+<td>12 vom Hundert</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>und, wenn nur eine Fahrtstrecke durchfahren und eine in dieser liegende Endschleuse<br />
+benutzt wird,</td>
+<td>25 vom Hundert</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>und, wenn nur eine Teilstrecke im Binnenhafen von Brunsbüttel durchfahren und<br />
+keine Endschleuse benutzt wird,</td>
+<td> 15 vom Hundert</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>höchstens</td>
+<td>100 vom Hundert</td>
+</tr>
+<tr class="odd">
+<td>d)</td>
+<td>bei Lotsungen – unmittelbar vor Antritt oder nach Abschluss einer Fahrtstreckenlotsung – von oder nach dem Hafen Brunsbüttel-Ostermoor sowie auf dem<br />
+Obereidersee zusätzlich</td>
+<td>   15 vom Hundert</td>
+</tr>
+</tbody>
+</table>
 
 des Betrages nach Abschnitt B Teil II Spalte 1;
 
@@ -9829,144 +9918,164 @@ des Betrages nach Abschnitt B Teil II Spalte 1;
 auf der Kieler Fördeim Verkehr auf den Fahrtstrecken zwischen den Schleusen oder den Reeden in
 Kiel-Holtenau, Heikendorf und der Lotsenstation auf dem Leuchtturm Kiel, wenn
 
-a)  
-der Leuchtturm Friedrichsort passiert wird          100 vom Hundert
-
-b)  
-der Leuchtturm Friedrichsort nicht passiert wird          40 vom Hundert
+|     |                                                  |                  |
+|-----|--------------------------------------------------|------------------|
+| a)  | der Leuchtturm Friedrichsort passiert wird       |  100 vom Hundert |
+| b)  | der Leuchtturm Friedrichsort nicht passiert wird | 40 vom Hundert   |
 
 des Betrages nach Abschnitt B Teil II Spalte 2;
 
 1.8  
 auf der Traveim Verkehr auf den Fahrtstrecken zwischen
 
-a)  
-den Lübecker Stadthäfen und der Leuchttonne „Trave“
-in der Lübecker Bucht 100 vom Hundert
-
-b)  
-den Kaianlagen von Lübeck-Siems, Lübeck-Schlutup,
-Lübeck-Herrenwyk und der Leuchttonne „Trave“ in der Lübecker Bucht 90 vom Hundert
-
-c)  
-den Lübecker Stadthäfen und den Kaianlagen von Lübeck-Siems,
-Lübeck-Schlutup, Lübeck-Herrenwyk 55 vom Hundert
-
-d)  
-den Kaianlagen von Lübeck-Travemünde und der Leuchttonne „Trave“
-in der Lübecker Bucht 55 vom Hundert
-
-des Betrages nach Abschnitt B Teil II Spalte 3;
-
-1.8  
-auf der Traveim Verkehr auf den Fahrtstrecken zwischen
-
-a)  
-den Lübecker Stadthäfen und der Leuchttonne „Trave“
-
-|                       |                 |
-|-----------------------|-----------------|
-| in der Lübecker Bucht | 100 vom Hundert |
-
-b)  
-den Kaianlagen von Lübeck-Siems, Lübeck-Schlutup,
-
-|                                                                    |                |
-|--------------------------------------------------------------------|----------------|
-| Lübeck-Herrenwyk und der Leuchttonne „Trave“ in der Lübecker Bucht | 90 vom Hundert |
-
-c)  
-den Lübecker Stadthäfen und den Kaianlagen von Lübeck-Siems,
-
-|                                   |                |
-|-----------------------------------|----------------|
-| Lübeck-Schlutup, Lübeck-Herrenwyk | 55 vom Hundert |
-
-d)  
-den Kaianlagen von Lübeck-Travemünde und der Leuchttonne „Trave“
-
-|                       |                |
-|-----------------------|----------------|
-| in der Lübecker Bucht | 55 vom Hundert |
+<table>
+<tbody>
+<tr class="odd">
+<td>a)</td>
+<td>den Lübecker Stadthäfen und der Leuchttonne „Trave“ in der Lübecker Bucht</td>
+<td>100 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>b)</td>
+<td>den Kaianlagen von Lübeck-Siems, Lübeck-Schlutup, Lübeck-Herrenwyk<br />
+und der Leuchttonne „Trave“ in der Lübecker Bucht</td>
+<td>90 vom Hundert</td>
+</tr>
+<tr class="odd">
+<td>c)</td>
+<td>den Lübecker Stadthäfen und den Kaianlagen von Lübeck-Siems,<br />
+Lübeck-Schlutup, Lübeck-Herrenwyk</td>
+<td>60 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>d)</td>
+<td>den Kaianlagen von Lübeck-Travemünde und der Leuchttonne „Trave“<br />
+in der Lübecker Bucht</td>
+<td>60 vom Hundert</td>
+</tr>
+</tbody>
+</table>
 
 des Betrages nach Abschnitt B Teil II Spalte 3;
 
 1.9  
-auf der Flensburger Fördeim Verkehr auf den Fahrtstrecken zwischen Flensburg und der Tonne
-„Flensburger Förde“          100 vom Hundertdes Betrages nach Abschnitt B Teil II Spalte 4;
+auf der Flensburger Förde
+
+<table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>im Verkehr auf den Fahrtstrecken zwischen Flensburg und der Tonne<br />
+„Flensburger Förde“</td>
+<td>100 vom Hundert</td>
+</tr>
+</tbody>
+</table>
+
+des Betrages nach Abschnitt B Teil II Spalte 4;
 
 1.10  
 auf den Fahrtstrecken zwischen
 
-a)  
-der Außenstation des Lotsenschiffes bei der Leuchttonne „Westerems“ und
-der Lotsenversetzposition bei der Leuchttonne „GW/TG“          18 vom Hundert
-
-b)  
-der Außenstation des Lotsenschiffes bei der Leuchttonne „3/Jade 2“ und
-der Lotsenversetzposition bei dem Feuerschiff „GB“ oder im Verkehrstrennungsgebiet
-„Jade Approach“          16 vom Hundert
-
-c)  
-der Außenstation des Lotsenschiffes bei der Tonne „Elbe“
-und der Lotsenversetzposition bei der Tonne „E 3“          8 vom Hundert
+<table>
+<tbody>
+<tr class="odd">
+<td>a)</td>
+<td>der Außenstation des Lotsenschiffes bei der Leuchttonne „Westerems“ und<br />
+der Lotsenversetzposition bei der Leuchttonne „GW/TG“</td>
+<td>15 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>b)</td>
+<td>der Außenstation des Lotsenschiffes bei der Leuchttonne „3/Jade 2“ und<br />
+der Lotsenversetzposition bei dem Feuerschiff „GB“ oder im Verkehrstrennungsgebiet<br />
+„Jade Approach“</td>
+<td>12 vom Hundert</td>
+</tr>
+<tr class="odd">
+<td>c)</td>
+<td>der Außenstation des Lotsenschiffes bei der Tonne „Elbe“<br />
+und der Lotsenversetzposition bei der Tonne „E 3“</td>
+<td> 8 vom Hundert</td>
+</tr>
+</tbody>
+</table>
 
 des Höchstbetrages nach Abschnitt B Teil I;
 
 1.11  
 in der Wismarer Bucht (Lotsbezirk Wismar)im Verkehr auf den Fahrtstrecken zwischen
 
-a)  
-Wismar und dem „Offentief“ oder der Tonne „Wismar“          100 vom Hundert
-
-b)  
-Wismar und Innenreede sowie Innenreede und dem „Offentief“ oder der Tonne
-„Wismar“          50 vom Hundert
-
-c)  
-Tonne „Wismar“ und Außenreede          25 vom Hundert
+<table>
+<tbody>
+<tr class="odd">
+<td>a)</td>
+<td>Wismar und dem „Offentief“ oder der Tonne „Wismar“</td>
+<td>100 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>b)</td>
+<td>Wismar und Innenreede sowie Innenreede und dem „Offentief“ oder der Tonne<br />
+„Wismar“</td>
+<td>50 vom Hundert</td>
+</tr>
+<tr class="odd">
+<td>c)</td>
+<td>Tonne „Wismar“ und Außenreede</td>
+<td>25 vom Hundert</td>
+</tr>
+</tbody>
+</table>
 
 des Betrages nach Abschnitt B Teil III Spalte 1;
 
 1.12  
 in der Mecklenburger Bucht vor Rostock-Warnemünde (Lotsbezirk Rostock)im Verkehr auf den Fahrtstrecken zwischen
 
-a)  
-Seehafen Rostock und den seewärtigen Versetzpositionen          100 vom Hundert
-
-b)  
-Warnemünde und den seewärtigen Versetzpositionen          90 vom Hundert
-
-c)  
-Stadthafen Rostock und den seewärtigen Versetzpositionen          130 vom Hundert
-
-d)  
-der Reede und den seewärtigen Versetzpositionen          50 vom Hundert
-
-e)  
-Rostocker Fracht- und Fischereihafen und den seewärtigen Versetzpositionen          115 vom Hundert
+|     |                                                                            |                 |
+|-----|----------------------------------------------------------------------------|-----------------|
+| a)  | Seehafen Rostock und den seewärtigen Versetzpositionen                     | 100 vom Hundert |
+| b)  | Warnemünde und den seewärtigen Versetzpositionen                           | 90 vom Hundert  |
+| c)  | Stadthafen Rostock und den seewärtigen Versetzpositionen                   | 130 vom Hundert |
+| d)  | der Reede und den seewärtigen Versetzpositionen                            | 50 vom Hundert  |
+| e)  | Rostocker Fracht- und Fischereihafen und den seewärtigen Versetzpositionen | 115 vom Hundert |
 
 des Betrages nach Abschnitt B Teil III Spalte 2;
 
 1.13  
 auf den Gewässern um Rügen (Lotsbezirk Stralsund) undim Verkehr auf den Fahrtstrecken zwischen
 
-a)  
-Stralsund-Seehafen-Nord und der Tonne „Gellen“          100 vom Hundert
-
-b)  
-Stralsund-Seehafen-Süd und der Tonne „Gellen“          110 vom Hundert
-
-c)  
-Stralsund-Seehafen-Nord und der Osteinfahrt bei den Tonnen „Landtief B“ oder
-„Osttief 2“          150 vom Hundert
-
-d)  
-Stralsund-Seehafen-Süd und der Osteinfahrt bei den Tonnen „Landtief B“ oder
-„Osttief 2“          140 vom Hundert
-
-e)  
-alle übrigen Fahrtstrecken im Lotsbezirk Stralsund          100 vom Hundert
+<table>
+<tbody>
+<tr class="odd">
+<td>a)</td>
+<td>Stralsund-Seehafen-Nord und der Tonne „Gellen“</td>
+<td>100 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>b)</td>
+<td>Stralsund-Seehafen-Süd und der Tonne „Gellen“</td>
+<td>110 vom Hundert</td>
+</tr>
+<tr class="odd">
+<td>c)</td>
+<td>Stralsund-Seehafen-Nord und der Osteinfahrt bei den Tonnen „Landtief B“ oder<br />
+„Osttief 2“</td>
+<td>150 vom Hundert</td>
+</tr>
+<tr class="even">
+<td>d)</td>
+<td>Stralsund-Seehafen-Süd und der Osteinfahrt bei den Tonnen „Landtief B“ oder<br />
+„Osttief 2“</td>
+<td>140 vom Hundert</td>
+</tr>
+<tr class="odd">
+<td>e)</td>
+<td>alle übrigen Fahrtstrecken im Lotsbezirk Stralsund</td>
+<td> 100 vom Hundert</td>
+</tr>
+</tbody>
+</table>
 
 des Betrages nach Abschnitt B Teil III Spalte 3.
 
@@ -10028,1219 +10137,1223 @@ die notwendigen, tatsächlich entstandenen Fahrtkosten für den Weg zwischen der
 **Teil I**
 
 Bruttoraumzahl
-über – bis
 
 Ems
 Euro
-1
 
 Unterweser
 Euro
-2
 
 Außenweser
 Euro
-3
 
 Jade
 Euro
-4
 
 Elbe
 Euro
+
+über – bis
+
+1
+
+2
+
+3
+
+4
+
 5
 
 0 –    300
 
-290
+305
 
 325
 
-204
+202
 
-226
+194
 
-177
+179
 
 300 –    400
 
-301
+316
 
 343
 
-216
+214
 
-236
+202
 
-183
+185
 
 400 –    500
 
-313
+328
 
 361
 
-227
+225
 
-246
+211
 
-188
+190
 
 500 –    600
 
-325
+341
 
 379
 
-238
+236
 
-257
+221
 
-192
+194
 
 600 –    700
 
-337
+355
 
 397
 
-249
+247
 
-270
+232
 
-200
+202
 
 700 –    800
 
-352
+371
 
 414
 
-260
+257
 
-286
+245
 
-209
+211
 
 800 –    900
 
-369
+389
 
 431
-
-271
-
-303
-
-220
-
-900 –  1 000
-
-386
-
-448
-
-281
-
-321
-
-227
-
-1 000 –  1 100
-
-403
-
-465
-
-291
-
-340
-
-235
-
-1 100 –  1 200
-
-422
-
-483
-
-302
-
-360
-
-243
-
-1 200 –  1 300
-
-441
-
-500
-
-313
-
-380
-
-252
-
-1 300 –  1 400
-
-460
-
-516
-
-323
-
-400
-
-260
-
-1 400 –  1 500
-
-479
-
-532
-
-333
-
-420
 
 268
 
-1 500 –  1 600
+259
 
-498
+222
 
-549
+900 –  1 000
 
-343
+407
 
-440
+448
 
 278
 
-1 600 –  1 700
+275
 
-517
+229
 
-566
+1 000 –  1 100
 
-353
+426
 
-460
+465
 
-283
+288
 
-1 700 –  1 800
+291
 
-536
+238
 
-582
-
-363
-
-477
-
-290
-
-1 800 –  1 900
-
-556
-
-599
-
-373
-
-494
-
-297
-
-1 900 –  2 000
-
-576
-
-616
-
-384
-
-510
-
-304
-
-2 000 –  2 100
-
-595
-
-633
-
-394
-
-523
-
-310
-
-2 100 –  2 200
-
-615
-
-650
-
-404
-
-536
-
-317
-
-2 200 –  2 300
-
-634
-
-667
-
-415
-
-547
-
-321
-
-2 300 –  2 400
-
-652
-
-684
-
-425
-
-558
-
-329
-
-2 400 –  2 500
-
-670
-
-701
-
-435
-
-570
-
-337
-
-2 500 –  2 600
-
-689
-
-717
+1 100 –  1 200
 
 446
 
-582
+483
 
-343
+299
 
-2 600 –  2 700
+308
 
-708
+246
 
-734
+1 200 –  1 300
 
-456
+465
 
-594
+500
 
-350
+310
 
-2 700 –  2 800
+325
 
-728
+255
 
-751
-
-466
-
-606
-
-357
-
-2 800 –  2 900
-
-747
-
-768
-
-476
-
-618
-
-363
-
-2 900 –  3 000
-
-766
-
-785
-
-486
-
-632
-
-374
-
-3 000 –  3 200
-
-786
-
-802
-
-497
-
-648
-
-386
-
-3 200 –  3 400
-
-806
-
-820
-
-510
-
-666
-
-395
-
-3 400 –  3 600
-
-827
-
-837
-
-523
-
-684
-
-403
-
-3 600 –  3 800
-
-849
-
-855
-
-536
-
-704
-
-419
-
-3 800 –  4 000
-
-872
-
-874
-
-550
-
-725
-
-431
-
-4 000 –  4 200
-
-895
-
-894
-
-564
-
-747
-
-443
-
-4 200 –  4 400
-
-920
-
-917
-
-578
-
-769
-
-456
-
-4 400 –  4 600
-
-945
-
-944
-
-592
-
-790
-
-467
-
-4 600 –  4 800
-
-970
-
-974
-
-606
-
-812
+1 300 –  1 400
 
 485
 
-4 800 –  5 000
+516
 
-996
+320
 
-1 006
+342
 
-620
+263
 
-834
+1 400 –  1 500
 
-504
+505
 
-5 000 –  5 500
+532
 
-1 023
+330
 
-1 038
+359
 
-634
+271
 
-856
+1 500 –  1 600
 
-521
+525
 
-5 500 –  6 000
+549
 
-1 051
+340
 
-1 070
+376
 
-647
+281
 
-879
+1 600 –  1 700
 
-540
+545
 
-6 000 –  6 500
+566
 
-1 089
+350
 
-1 103
+392
 
-660
+286
 
-904
+1 700 –  1 800
 
-563
+565
 
-6 500 –  7 000
+582
 
-1 128
+360
 
-1 136
+408
 
-673
+293
 
-929
+1 800 –  1 900
 
-588
+586
 
-7 000 –  7 500
+599
 
-1 166
+370
 
-1 169
+423
 
-686
+300
 
-954
+1 900 –  2 000
 
-612
+607
 
-7 500 –  8 000
+616
 
-1 204
+380
 
-1 201
+437
 
-699
+307
 
-980
+2 000 –  2 100
+
+627
 
 633
 
-8 000 –  8 500
+390
 
-1 242
+448
 
-1 233
+313
 
-712
+2 100 –  2 200
 
-1 006
+647
 
-657
+650
 
-8 500 –  9 000
+400
 
-1 281
+458
 
-1 266
+320
 
-724
+2 200 –  2 300
 
-1 033
+667
 
-678
+667
 
-9 000 –  9 500
+411
 
-1 320
+468
 
-1 298
+325
 
-736
+2 300 –  2 400
 
-1 059
+687
 
-702
+684
 
-9 500 – 10 000
+421
 
-1 358
+478
 
-1 331
+333
 
-748
+2 400 –  2 500
 
-1 085
+707
 
-720
+701
 
-10 000 – 10 500
+431
 
-1 397
+488
 
-1 363
+341
 
-761
+2 500 –  2 600
 
-1 111
+727
 
-742
+717
 
-10 500 – 11 000
+441
 
-1 436
+498
 
-1 396
+347
 
-773
+2 600 –  2 700
 
-1 138
+747
 
-763
+734
 
-11 000 – 11 500
+451
 
-1 476
+508
 
-1 429
+354
 
-786
+2 700 –  2 800
 
-1 165
+768
 
-776
+751
 
-11 500 – 12 000
+461
 
-1 516
+518
 
-1 461
+361
 
-799
+2 800 –  2 900
 
-1 192
+788
 
-790
+768
 
-12 000 – 12 500
+471
 
-1 556
+529
 
-1 493
+367
 
-812
+2 900 –  3 000
 
-1 218
+808
 
-804
+785
 
-12 500 – 13 000
+481
 
-1 596
+540
 
-1 525
+378
 
-825
+3 000 –  3 200
 
-1 243
+828
 
-819
+802
 
-13 000 – 13 500
+492
 
-1 636
+554
 
-1 555
+390
 
-837
-
-1 266
-
-832
-
-13 500 – 14 000
-
-1 676
-
-1 585
+3 200 –  3 400
 
 849
 
-1 289
+820
 
-851
+505
 
-14 000 – 14 500
+570
 
-1 715
+399
 
-1 615
+3 400 –  3 600
 
-861
+871
 
-1 312
+837
 
-869
+518
 
-14 500 – 15 000
+586
 
-1 753
+407
 
-1 645
+3 600 –  3 800
 
-872
+894
 
-1 336
+855
 
-888
+531
 
-15 000 – 15 500
+602
 
-1 791
+424
 
-1 675
-
-884
-
-1 360
-
-905
-
-15 500 – 16 000
-
-1 829
-
-1 705
-
-895
-
-1 384
-
-922
-
-16 000 – 16 500
-
-1 867
-
-1 735
-
-907
-
-1 408
-
-941
-
-16 500 – 17 000
-
-1 905
-
-1 765
+3 800 –  4 000
 
 918
 
-1 432
+874
 
-962
+545
 
-17 000 – 17 500
+620
 
-1 942
+436
 
-1 795
+4 000 –  4 200
 
-929
+942
 
-1 456
+894
 
-982
+558
 
-17 500 – 18 000
+638
 
-1 978
+448
 
-1 827
+4 200 –  4 400
 
-940
+968
 
-1 479
+917
 
-999
+572
 
-18 000 – 18 500
+657
 
-2 013
+461
 
-1 860
+4 400 –  4 600
 
-950
+995
 
-1 502
+944
 
-1 019
+586
 
-18 500 – 19 000
+676
 
-2 047
+472
 
-1 893
+4 600 –  4 800
 
-960
+1 022
 
-1 524
+974
+
+600
+
+694
+
+490
+
+4 800 –  5 000
+
+1 049
+
+1 006
+
+614
+
+713
+
+509
+
+5 000 –  5 500
+
+1 077
 
 1 038
 
-19 000 – 19 500
+628
 
-2 080
+732
 
-1 926
+527
 
-971
+5 500 –  6 000
 
-1 545
-
-1 055
-
-19 500 – 20 000
-
-2 113
-
-1 959
-
-982
-
-1 567
-
-1 076
-
-20 000 – 20 500
-
-2 144
-
-1 992
-
-992
-
-1 589
-
-1 093
-
-20 500 – 21 000
-
-2 175
-
-2 024
-
-1 003
-
-1 611
-
-1 112
-
-21 000 – 21 500
-
-2 205
-
-2 054
-
-1 014
-
-1 633
-
-1 131
-
-21 500 – 22 000
-
-2 234
-
-2 083
-
-1 024
-
-1 656
-
-1 149
-
-22 000 – 22 500
-
-2 264
-
-2 112
-
-1 035
-
-1 679
-
-1 168
-
-22 500 – 23 000
-
-2 294
-
-2 142
-
-1 047
-
-1 701
-
-1 187
-
-23 000 – 23 500
-
-2 324
-
-2 171
-
-1 059
-
-1 724
-
-1 207
-
-23 500 – 24 000
-
-2 354
-
-2 200
+1 110
 
 1 070
 
-1 747
+641
 
-1 225
+752
 
-24 000 – 24 500
+546
 
-2 380
+6 000 –  6 500
 
-2 228
+1 148
 
-1 082
+1 103
 
-1 770
+653
 
-1 244
+773
 
-24 500 – 25 000
+569
 
-2 406
+6 500 –  7 000
 
-2 257
+1 188
 
-1 094
+1 136
 
-1 793
+666
 
-1 262
+795
 
-25 000 – 25 500
+594
 
-2 432
+7 000 –  7 500
 
-2 286
+1 228
 
-1 107
+1 169
 
-1 816
+679
 
-1 283
+816
 
-25 500 – 26 000
+619
 
-2 453
+7 500 –  8 000
 
-2 315
+1 268
 
-1 120
+1 201
 
-1 840
+692
 
-1 303
+838
 
-26 000 – 26 500
+640
 
-2 472
+8 000 –  8 500
 
-2 345
-
-1 134
-
-1 866
-
-1 324
-
-26 500 – 27 000
-
-2 491
-
-2 375
-
-1 149
-
-1 893
-
-1 342
-
-27 000 – 27 500
-
-2 510
-
-2 405
-
-1 164
-
-1 921
-
-1 363
-
-27 500 – 28 000
-
-2 527
-
-2 436
-
-1 180
-
-1 948
-
-1 383
-
-28 000 – 28 500
-
-2 544
-
-2 468
-
-1 197
-
-1 975
-
-1 402
-
-28 500 – 29 000
-
-2 560
-
-2 499
-
-1 215
-
-2 001
-
-1 422
-
-29 000 – 29 500
-
-2 576
-
-2 532
+1 309
 
 1 233
 
-2 027
+705
 
-1 444
+860
 
-29 500 – 30 000
+664
 
-2 593
+8 500 –  9 000
 
-2 564
+1 350
 
-1 250
+1 266
 
-2 053
+717
 
-1 461
+883
 
-30 000 – 31 000
+685
 
-2 610
-
-2 597
-
-1 267
-
-2 079
-
-1 483
-
-31 000 – 32 000
-
-2 627
-
-2 631
-
-1 284
-
-2 106
-
-1 504
-
-32 000 – 33 000
-
-2 643
-
-2 665
-
-1 301
-
-2 133
-
-1 524
-
-33 000 – 34 000
-
-2 659
-
-2 701
-
-1 319
-
-2 159
-
-1 542
-
-34 000 – 35 000
-
-2 675
-
-2 737
-
-1 337
-
-2 185
-
-1 563
-
-35 000 – 36 000
-
-2 691
-
-2 775
-
-1 355
-
-2 211
-
-1 584
-
-36 000 – 37 000
-
-2 707
-
-2 821
-
-1 373
-
-2 238
-
-1 601
-
-37 000 – 38 000
-
-2 723
-
-2 870
+9 000 –  9 500
 
 1 391
 
-2 264
+1 298
 
-1 623
+729
 
-38 000 – 39 000
+905
 
-2 740
+710
 
-2 920
+9 500 – 10 000
 
-1 409
+1 432
+
+1 331
+
+741
+
+928
+
+728
+
+10 000 – 10 500
+
+1 473
+
+1 363
+
+753
+
+950
+
+750
+
+10 500 – 11 000
+
+1 514
+
+1 396
+
+765
+
+973
+
+771
+
+11 000 – 11 500
+
+1 555
+
+1 429
+
+778
+
+996
+
+784
+
+11 500 – 12 000
+
+1 597
+
+1 461
+
+791
+
+1 019
+
+799
+
+12 000 – 12 500
+
+1 639
+
+1 493
+
+804
+
+1 041
+
+813
+
+12 500 – 13 000
+
+1 681
+
+1 525
+
+817
+
+1 062
+
+828
+
+13 000 – 13 500
+
+1 722
+
+1 555
+
+829
+
+1 082
+
+841
+
+13 500 – 14 000
+
+1 764
+
+1 585
+
+841
+
+1 102
+
+860
+
+14 000 – 14 500
+
+1 806
+
+1 615
+
+852
+
+1 122
+
+878
+
+14 500 – 15 000
+
+1 847
+
+1 645
+
+863
+
+1 142
+
+898
+
+15 000 – 15 500
+
+1 887
+
+1 675
+
+875
+
+1 163
+
+915
+
+15 500 – 16 000
+
+1 927
+
+1 705
+
+886
+
+1 184
+
+932
+
+16 000 – 16 500
+
+1 967
+
+1 735
+
+898
+
+1 204
+
+951
+
+16 500 – 17 000
+
+2 006
+
+1 765
+
+909
+
+1 224
+
+972
+
+17 000 – 17 500
+
+2 046
+
+1 795
+
+920
+
+1 245
+
+993
+
+17 500 – 18 000
+
+2 083
+
+1 827
+
+931
+
+1 265
+
+1 010
+
+18 000 – 18 500
+
+2 120
+
+1 860
+
+941
+
+1 284
+
+1 030
+
+18 500 – 19 000
+
+2 157
+
+1 893
+
+951
+
+1 303
+
+1 049
+
+19 000 – 19 500
+
+2 192
+
+1 926
+
+961
+
+1 321
+
+1 067
+
+19 500 – 20 000
+
+2 226
+
+1 959
+
+972
+
+1 340
+
+1 088
+
+20 000 – 20 500
+
+2 258
+
+1 992
+
+982
+
+1 359
+
+1 105
+
+20 500 – 21 000
 
 2 290
 
-1 643
+2 024
+
+993
+
+1 377
+
+1 124
+
+21 000 – 21 500
+
+2 322
+
+2 054
+
+1 004
+
+1 396
+
+1 143
+
+21 500 – 22 000
+
+2 354
+
+2 083
+
+1 014
+
+1 416
+
+1 162
+
+22 000 – 22 500
+
+2 386
+
+2 112
+
+1 025
+
+1 436
+
+1 181
+
+22 500 – 23 000
+
+2 418
+
+2 142
+
+1 037
+
+1 455
+
+1 200
+
+23 000 – 23 500
+
+2 449
+
+2 171
+
+1 048
+
+1 474
+
+1 220
+
+23 500 – 24 000
+
+2 480
+
+2 200
+
+1 059
+
+1 494
+
+1 238
+
+24 000 – 24 500
+
+2 508
+
+2 228
+
+1 071
+
+1 514
+
+1 258
+
+24 500 – 25 000
+
+2 536
+
+2 257
+
+1 083
+
+1 534
+
+1 276
+
+25 000 – 25 500
+
+2 563
+
+2 286
+
+1 095
+
+1 553
+
+1 297
+
+25 500 – 26 000
+
+2 584
+
+2 315
+
+1 109
+
+1 573
+
+1 317
+
+26 000 – 26 500
+
+2 605
+
+2 345
+
+1 123
+
+1 595
+
+1 338
+
+26 500 – 27 000
+
+2 625
+
+2 375
+
+1 137
+
+1 618
+
+1 357
+
+27 000 – 27 500
+
+2 645
+
+2 405
+
+1 152
+
+1 642
+
+1 378
+
+27 500 – 28 000
+
+2 663
+
+2 436
+
+1 168
+
+1 665
+
+1 398
+
+28 000 – 28 500
+
+2 681
+
+2 468
+
+1 185
+
+1 688
+
+1 417
+
+28 500 – 29 000
+
+2 699
+
+2 499
+
+1 203
+
+1 711
+
+1 438
+
+29 000 – 29 500
+
+2 717
+
+2 532
+
+1 221
+
+1 733
+
+1 460
+
+29 500 – 30 000
+
+2 735
+
+2 564
+
+1 238
+
+1 756
+
+1 477
+
+30 000 – 31 000
+
+2 753
+
+2 597
+
+1 254
+
+1 778
+
+1 499
+
+31 000 – 32 000
+
+2 771
+
+2 631
+
+1 271
+
+1 801
+
+1 520
+
+32 000 – 33 000
+
+2 789
+
+2 665
+
+1 288
+
+1 823
+
+1 541
+
+33 000 – 34 000
+
+2 807
+
+2 701
+
+1 306
+
+1 846
+
+1 559
+
+34 000 – 35 000
+
+2 825
+
+2 737
+
+1 324
+
+1 868
+
+1 580
+
+35 000 – 36 000
+
+2 843
+
+2 775
+
+1 341
+
+1 891
+
+1 601
+
+36 000 – 37 000
+
+2 861
+
+2 821
+
+1 359
+
+1 913
+
+1 618
+
+37 000 – 38 000
+
+2 879
+
+2 870
+
+1 377
+
+1 936
+
+1 641
+
+38 000 – 39 000
+
+2 897
+
+2 920
+
+1 395
+
+1 958
+
+1 661
 
 39 000 – 40 000
 
-2 757
+2 916
 
 2 970
 
-1 427
+1 413
 
-2 317
+1 981
 
-1 670
+1 688
 
 für jede weiteren
-
 angefangenen
-
 2 000 über 40 000
 
-21
+   23
 
-92
+   92
 
-37
+   37
 
-52
+   45
 
-33
+   34
 
 höchstens jedoch
 
@@ -11257,1043 +11370,1050 @@ höchstens jedoch
 **Teil II**
 
 Bruttoraumzahl
-über – bis
 
 Nord-Ostsee-Kanal
 Euro
-1
 
 Kieler Förde
 Euro
-2
 
 Trave
 Euro
-3
 
 Flensburger Förde
 Euro
+
+über – bis
+
+1
+
+2
+
+3
+
 4
 
 0 –    300
 
-755
-
-191
-
-131
-
-98
-
-300 –    400
-
-756
-
-192
-
-134
-
-123
-
-400 –    500
-
-757
-
-195
-
-137
-
-151
-
-500 –    600
-
-758
-
-197
-
-143
-
-185
-
-600 –    700
-
-782
-
-199
-
-155
-
-211
-
-700 –    800
-
-804
-
-201
-
-165
-
-234
-
-800 –    900
-
-829
-
-205
-
-173
-
-258
-
-900 –  1 000
-
-852
-
-207
-
-185
-
-286
-
-1 000 –  1 100
-
-876
-
-208
-
-195
-
-298
-
-1 100 –  1 200
-
-902
-
-209
-
-208
-
-311
-
-1 200 –  1 300
-
-928
-
-211
+800
 
 216
 
-332
+135
 
-1 300 –  1 400
+103
 
-956
+300 –    400
 
-212
+801
 
-232
+218
 
-355
+139
 
-1 400 –  1 500
+129
 
-981
+400 –    500
 
-213
-
-241
-
-366
-
-1 500 –  1 600
-
-1 004
-
-217
-
-250
-
-390
-
-1 600 –  1 700
-
-1 028
+802
 
 221
 
-260
+142
 
-428
+158
 
-1 700 –  1 800
+500 –    600
 
-1 051
+803
+
+224
+
+148
+
+194
+
+600 –    700
+
+829
+
+226
+
+160
+
+221
+
+700 –    800
+
+852
 
 228
 
-274
+171
 
-441
+245
 
-1 800 –  1 900
+800 –    900
 
-1 074
+878
 
-231
+232
 
-284
+179
 
-452
+271
 
-1 900 –  2 000
+900 –  1 000
 
-1 093
+903
 
-238
+234
 
-296
-
-461
-
-2 000 –  2 100
-
-1 111
-
-246
-
-306
-
-463
-
-2 100 –  2 200
-
-1 132
-
-252
-
-313
-
-486
-
-2 200 –  2 300
-
-1 148
-
-259
-
-325
-
-512
-
-2 300 –  2 400
-
-1 169
-
-267
-
-336
-
-529
-
-2 400 –  2 500
-
-1 188
-
-275
-
-348
-
-551
-
-2 500 –  2 600
-
-1 206
-
-284
-
-357
-
-569
-
-2 600 –  2 700
-
-1 227
-
-293
-
-374
-
-590
-
-2 700 –  2 800
-
-1 244
+191
 
 300
 
-387
+1 000 –  1 100
 
-612
+928
 
-2 800 –  2 900
+235
 
-1 273
+202
 
-309
+313
 
-404
-
-631
-
-2 900 –  3 000
-
-1 302
-
-320
-
-416
-
-639
-
-3 000 –  3 200
-
-1 331
-
-331
-
-423
-
-646
-
-3 200 –  3 400
-
-1 358
-
-337
-
-436
-
-654
-
-3 400 –  3 600
-
-1 386
-
-349
-
-444
-
-676
-
-3 600 –  3 800
-
-1 417
-
-356
-
-458
-
-692
-
-3 800 –  4 000
-
-1 448
-
-366
-
-473
-
-714
-
-4 000 –  4 200
-
-1 480
-
-372
-
-479
-
-720
-
-4 200 –  4 400
-
-1 512
-
-383
-
-494
-
-736
-
-4 400 –  4 600
-
-1 543
-
-392
-
-505
-
-763
-
-4 600 –  4 800
-
-1 585
-
-407
-
-516
-
-777
-
-4 800 –  5 000
-
-1 626
-
-418
-
-529
-
-799
-
-5 000 –  5 500
-
-1 669
-
-435
-
-552
-
-830
-
-5 500 –  6 000
-
-1 712
-
-445
-
-573
-
-874
-
-6 000 –  6 500
-
-1 759
-
-462
-
-593
-
-898
-
-6 500 –  7 000
-
-1 805
-
-477
-
-614
-
-926
-
-7 000 –  7 500
-
-1 855
-
-487
-
-629
-
-938
-
-7 500 –  8 000
-
-1 902
-
-497
-
-651
-
-959
-
-8 000 –  8 500
-
-1 953
-
-506
-
-667
-
-1 014
-
-8 500 –  9 000
-
-2 002
-
-516
-
-687
-
-1 063
-
-9 000 –  9 500
-
-2 050
-
-524
-
-704
-
-1 092
-
-9 500 – 10 000
-
-2 103
-
-533
-
-723
-
-1 120
-
-10 000 – 10 500
-
-2 153
-
-540
-
-739
-
-1 166
-
-10 500 – 11 000
-
-2 204
-
-551
-
-757
-
-1 193
-
-11 000 – 11 500
-
-2 256
-
-567
-
-773
-
-1 218
-
-11 500 – 12 000
-
-2 296
-
-573
-
-792
-
-1 243
-
-12 000 – 12 500
-
-2 335
-
-583
-
-800
-
-1 247
-
-12 500 – 13 000
-
-2 375
-
-589
-
-807
-
-1 295
-
-13 000 – 13 500
-
-2 414
-
-595
-
-816
-
-1 342
-
-13 500 – 14 000
-
-2 452
-
-602
-
-824
-
-1 368
-
-14 000 – 14 500
-
-2 479
-
-611
-
-832
-
-1 393
-
-14 500 – 15 000
-
-2 503
-
-618
-
-844
-
-1 407
-
-15 000 – 15 500
-
-2 528
-
-624
-
-850
-
-1 427
-
-15 500 – 16 000
-
-2 551
-
-632
-
-854
-
-1 468
-
-16 000 – 16 500
-
-2 576
-
-638
-
-867
-
-1 491
-
-16 500 – 17 000
-
-2 599
-
-646
-
-873
-
-1 510
-
-17 000 – 17 500
-
-2 620
-
-654
-
-880
-
-1 557
-
-17 500 – 18 000
-
-2 630
-
-662
-
-889
-
-1 597
-
-18 000 – 18 500
-
-2 640
-
-672
-
-898
-
-1 622
-
-18 500 – 19 000
-
-2 650
-
-679
-
-906
-
-1 647
-
-19 000 – 19 500
-
-2 660
-
-688
-
-916
-
-1 673
-
-19 500 – 20 000
-
-2 670
-
-693
-
-925
-
-1 699
-
-20 000 – 20 500
-
-2 680
-
-705
-
-937
-
-1 712
-
-20 500 – 21 000
-
-2 690
-
-713
-
-944
-
-1 742
-
-21 000 – 21 500
-
-2 700
-
-720
-
-949
-
-1 773
-
-21 500 – 22 000
-
-2 710
-
-727
-
-960
-
-1 803
-
-22 000 – 22 500
-
-2 720
-
-737
-
-971
-
-1 834
-
-22 500 – 23 000
-
-2 730
-
-744
-
-976
-
-1 865
-
-23 000 – 23 500
-
-2 740
-
-752
-
-983
-
-1 900
-
-23 500 – 24 000
-
-2 750
-
-762
-
-993
-
-1 932
-
-24 000 – 24 500
-
-2 760
-
-771
-
-1 000
-
-1 965
-
-24 500 – 25 000
-
-2 770
-
-779
-
-1 009
-
-1 997
-
-25 000 – 25 500
-
-2 780
-
-790
-
-1 015
-
-2 033
-
-25 500 – 26 000
-
-2 790
-
-800
-
-1 023
-
-2 067
-
-26 000 – 26 500
-
-2 800
-
-808
-
-1 032
-
-2 106
-
-26 500 – 27 000
-
-2 810
-
-817
-
-1 040
-
-2 140
-
-27 000 – 27 500
-
-2 820
-
-826
-
-1 048
-
-2 177
-
-27 500 – 28 000
-
-2 830
-
-835
-
-1 058
-
-2 215
-
-28 000 – 28 500
-
-2 840
-
-843
-
-1 066
-
-2 253
-
-28 500 – 29 000
-
-2 850
-
-854
-
-1 076
-
-2 294
-
-29 000 – 29 500
-
-2 860
-
-864
-
-1 082
-
-2 333
-
-29 500 – 30 000
-
-2 870
-
-873
-
-1 086
-
-2 339
-
-30 000 – 31 000
-
-2 880
-
-882
-
-1 103
-
-2 345
-
-31 000 – 32 000
-
-2 890
-
-892
-
-1 117
-
-2 351
-
-32 000 – 33 000
-
-2 900
-
-901
-
-1 133
-
-2 355
-
-33 000 – 34 000
-
-2 910
-
-909
-
-1 148
-
-2 362
-
-34 000 – 35 000
-
-2 920
-
-922
-
-1 162
-
-2 369
-
-35 000 – 36 000
-
-2 930
-
-929
-
-1 180
-
-2 374
-
-36 000 – 37 000
-
-2 940
-
-937
-
-1 195
-
-2 379
-
-37 000 – 38 000
-
-2 950
+1 100 –  1 200
 
 956
 
-1 210
+236
 
-2 385
+215
 
-38 000 – 39 000
+326
 
-2 960
+1 200 –  1 300
+
+983
+
+239
+
+223
+
+348
+
+1 300 –  1 400
+
+1 013
+
+240
+
+240
+
+372
+
+1 400 –  1 500
+
+1 039
+
+241
+
+249
+
+384
+
+1 500 –  1 600
+
+1 064
+
+246
+
+258
+
+409
+
+1 600 –  1 700
+
+1 090
+
+251
+
+269
+
+449
+
+1 700 –  1 800
+
+1 113
+
+259
+
+283
+
+463
+
+1 800 –  1 900
+
+1 138
+
+262
+
+294
+
+474
+
+1 900 –  2 000
+
+1 159
+
+269
+
+306
+
+484
+
+2 000 –  2 100
+
+1 177
+
+278
+
+316
+
+486
+
+2 100 –  2 200
+
+1 200
+
+286
+
+324
+
+510
+
+2 200 –  2 300
+
+1 216
+
+294
+
+336
+
+537
+
+2 300 –  2 400
+
+1 239
+
+302
+
+347
+
+555
+
+2 400 –  2 500
+
+1 258
+
+311
+
+360
+
+578
+
+2 500 –  2 600
+
+1 278
+
+323
+
+369
+
+597
+
+2 600 –  2 700
+
+1 301
+
+332
+
+387
+
+619
+
+2 700 –  2 800
+
+1 318
+
+340
+
+400
+
+642
+
+2 800 –  2 900
+
+1 349
+
+349
+
+418
+
+662
+
+2 900 –  3 000
+
+1 380
+
+363
+
+430
+
+670
+
+3 000 –  3 200
+
+1 411
+
+375
+
+437
+
+678
+
+3 200 –  3 400
+
+1 439
+
+381
+
+451
+
+686
+
+3 400 –  3 600
+
+1 468
+
+395
+
+459
+
+709
+
+3 600 –  3 800
+
+1 501
+
+404
+
+473
+
+726
+
+3 800 –  4 000
+
+1 534
+
+414
+
+489
+
+749
+
+4 000 –  4 200
+
+1 568
+
+422
+
+495
+
+755
+
+4 200 –  4 400
+
+1 602
+
+433
+
+511
+
+772
+
+4 400 –  4 600
+
+1 635
+
+444
+
+522
+
+800
+
+4 600 –  4 800
+
+1 680
+
+461
+
+533
+
+815
+
+4 800 –  5 000
+
+1 723
+
+474
+
+547
+
+838
+
+5 000 –  5 500
+
+1 768
+
+493
+
+571
+
+871
+
+5 500 –  6 000
+
+1 815
+
+504
+
+592
+
+917
+
+6 000 –  6 500
+
+1 864
+
+524
+
+613
+
+942
+
+6 500 –  7 000
+
+1 912
+
+540
+
+635
+
+971
+
+7 000 –  7 500
+
+1 966
+
+553
+
+650
+
+984
+
+7 500 –  8 000
+
+2 015
+
+563
+
+673
+
+1 006
+
+8 000 –  8 500
+
+2 070
+
+573
+
+689
+
+1 064
+
+8 500 –  9 000
+
+2 121
+
+585
+
+710
+
+1 115
+
+9 000 –  9 500
+
+2 172
+
+594
+
+728
+
+1 146
+
+9 500 – 10 000
+
+2 228
+
+604
+
+747
+
+1 175
+
+10 000 – 10 500
+
+2 281
+
+611
+
+764
+
+1 223
+
+10 500 – 11 000
+
+2 336
+
+624
+
+782
+
+1 251
+
+11 000 – 11 500
+
+2 390
+
+642
+
+799
+
+1 278
+
+11 500 – 12 000
+
+2 433
+
+650
+
+819
+
+1 304
+
+12 000 – 12 500
+
+2 475
+
+660
+
+827
+
+1 308
+
+12 500 – 13 000
+
+2 517
+
+668
+
+834
+
+1 358
+
+13 000 – 13 500
+
+2 558
+
+674
+
+843
+
+1 408
+
+13 500 – 14 000
+
+2 598
+
+682
+
+852
+
+1 435
+
+14 000 – 14 500
+
+2 627
+
+692
+
+860
+
+1 461
+
+14 500 – 15 000
+
+2 653
+
+701
+
+872
+
+1 476
+
+15 000 – 15 500
+
+2 679
+
+707
+
+879
+
+1 497
+
+15 500 – 16 000
+
+2 703
+
+716
+
+883
+
+1 540
+
+16 000 – 16 500
+
+2 730
+
+723
+
+896
+
+1 564
+
+16 500 – 17 000
+
+2 754
+
+732
+
+902
+
+1 584
+
+17 000 – 17 500
+
+2 807
+
+741
+
+910
+
+1 633
+
+17 500 – 18 000
+
+2 818
+
+751
+
+919
+
+1 675
+
+18 000 – 18 500
+
+2 828
+
+761
+
+928
+
+1 701
+
+18 500 – 19 000
+
+2 839
+
+769
+
+936
+
+1 728
+
+19 000 – 19 500
+
+2 849
+
+779
+
+947
+
+1 755
+
+19 500 – 20 000
+
+2 860
+
+786
+
+956
+
+1 782
+
+20 000 – 20 500
+
+2 870
+
+799
+
+968
+
+1 796
+
+20 500 – 21 000
+
+2 881
+
+807
+
+976
+
+1 827
+
+21 000 – 21 500
+
+2 892
+
+816
+
+981
+
+1 860
+
+21 500 – 22 000
+
+2 902
+
+824
+
+992
+
+1 891
+
+22 000 – 22 500
+
+2 913
+
+835
+
+1 004
+
+1 924
+
+22 500 – 23 000
+
+2 923
+
+842
+
+1 009
+
+1 956
+
+23 000 – 23 500
+
+2 934
+
+853
+
+1 016
+
+1 993
+
+23 500 – 24 000
+
+2 945
+
+864
+
+1 026
+
+2 027
+
+24 000 – 24 500
+
+2 955
+
+873
+
+1 034
+
+2 061
+
+24 500 – 25 000
+
+2 966
+
+882
+
+1 043
+
+2 095
+
+25 000 – 25 500
+
+2 977
+
+896
+
+1 049
+
+2 133
+
+25 500 – 26 000
+
+2 987
+
+906
+
+1 057
+
+2 168
+
+26 000 – 26 500
+
+2 997
+
+915
+
+1 067
+
+2 209
+
+26 500 – 27 000
+
+3 008
+
+925
+
+1 075
+
+2 245
+
+27 000 – 27 500
+
+3 019
+
+936
+
+1 083
+
+2 284
+
+27 500 – 28 000
+
+3 029
+
+946
+
+1 094
+
+2 324
+
+28 000 – 28 500
+
+3 040
+
+955
+
+1 102
+
+2 363
+
+28 500 – 29 000
+
+3 051
+
+968
+
+1 112
+
+2 406
+
+29 000 – 29 500
+
+3 061
 
 979
 
-1 224
+1 118
 
-2 391
+2 447
+
+29 500 – 30 000
+
+3 072
+
+989
+
+1 122
+
+2 454
+
+30 000 – 31 000
+
+3 083
+
+999
+
+1 140
+
+2 460
+
+31 000 – 32 000
+
+3 093
+
+1 011
+
+1 155
+
+2 466
+
+32 000 – 33 000
+
+3 103
+
+1 021
+
+1 171
+
+2 470
+
+33 000 – 34 000
+
+3 115
+
+1 030
+
+1 187
+
+2 478
+
+34 000 – 35 000
+
+3 125
+
+1 045
+
+1 201
+
+2 485
+
+35 000 – 36 000
+
+3 135
+
+1 053
+
+1 220
+
+2 490
+
+36 000 – 37 000
+
+3 146
+
+1 062
+
+1 235
+
+2 496
+
+37 000 – 38 000
+
+3 157
+
+1 083
+
+1 251
+
+2 502
+
+38 000 – 39 000
+
+3 167
+
+1 109
+
+1 265
+
+2 508
 
 39 000 – 40 000
 
-2 970
+3 177
 
-988
+1 120
 
-1 240
+1 282
 
-2 397
+2 514
 
 für jede weiteren
-
 angefangenen
-
 2 000 über 40 000
 
-15
+   21
 
-18
+   21
 
-27
+   28
 
-15
+   16
 
 höchstens jedoch
 
 3 600
 
-3 085
+3 270
 
 3 400
 
-2 660
+2 790
 
 **Teil III**
 
 Bruttoraumzahl
-über – bis
 
 Wismar
 Euro
-1
 
 Rostock
 Euro
-2
 
 Stralsund
 Euro
+
+über – bis
+
+1
+
+2
+
 3
 
 0 –    300
@@ -12306,7 +12426,7 @@ Euro
 
 300 –    400
 
-54
+55
 
 46
 
@@ -12318,7 +12438,7 @@ Euro
 
 59
 
-89
+90
 
 500 –    600
 
@@ -12330,775 +12450,773 @@ Euro
 
 600 –    700
 
-130
+131
 
-118
+119
 
 137
 
 700 –    800
 
-160
+161
 
 138
 
-162
+163
 
 800 –    900
 
-193
+194
 
-154
+155
 
-184
+185
 
 900 –  1 000
 
-223
+224
 
-159
+160
 
-210
+211
 
 1 000 –  1 100
 
-256
+257
 
 179
 
-229
+230
 
 1 100 –  1 200
 
-280
+281
 
-198
+199
 
-248
+249
 
 1 200 –  1 300
 
-303
+304
 
-219
+220
 
-267
+268
 
 1 300 –  1 400
 
-326
+328
 
-241
+242
 
-287
+289
 
 1 400 –  1 500
 
-350
+352
 
-260
+261
 
-306
+307
 
 1 500 –  1 600
 
-372
+373
 
-280
-
-324
-
-1 600 –  1 700
-
-394
-
-300
-
-344
-
-1 700 –  1 800
-
-413
-
-322
-
-362
-
-1 800 –  1 900
-
-443
-
-324
-
-381
-
-1 900 –  2 000
-
-464
+281
 
 326
 
-400
+1 600 –  1 700
 
-2 000 –  2 100
+396
 
-488
+301
 
 345
 
-419
+1 700 –  1 800
+
+414
+
+324
+
+364
+
+1 800 –  1 900
+
+445
+
+326
+
+382
+
+1 900 –  2 000
+
+466
+
+328
+
+402
+
+2 000 –  2 100
+
+490
+
+346
+
+421
 
 2 100 –  2 200
 
-512
+514
 
-366
+368
 
-435
+437
 
 2 200 –  2 300
 
-534
+536
 
-389
+391
 
-453
+455
 
 2 300 –  2 400
 
-558
+561
 
-410
+411
 
-469
+471
 
 2 400 –  2 500
 
-580
+582
 
-429
+431
 
-486
+488
 
 2 500 –  2 600
 
-605
+607
 
-453
+455
 
-503
+505
 
 2 600 –  2 700
 
-627
+630
 
-474
+476
 
-525
+527
 
 2 700 –  2 800
 
-643
+645
 
-494
+496
 
-550
+553
 
 2 800 –  2 900
 
-661
+664
 
-517
+520
 
-572
+574
 
 2 900 –  3 000
 
-680
+683
 
-538
+540
 
-595
+598
 
 3 000 –  3 200
 
-696
+699
 
-560
+563
 
-619
+622
 
 3 200 –  3 400
 
-711
+714
 
-582
+584
 
-648
+650
 
 3 400 –  3 600
 
-726
+729
 
-588
+591
 
-675
+678
 
 3 600 –  3 800
 
-743
+746
 
-590
+593
 
-706
+709
 
 3 800 –  4 000
 
-759
+762
 
-594
+597
 
-733
+736
 
 4 000 –  4 200
 
-783
+786
 
-632
+635
 
-762
+765
 
 4 200 –  4 400
 
-807
+810
 
-673
+676
 
-789
+793
 
 4 400 –  4 600
 
-831
+835
 
-715
+718
 
-820
+824
 
 4 600 –  4 800
 
-856
+860
 
-758
+761
 
-847
+850
 
 4 800 –  5 000
 
+883
+
+804
+
 880
-
-801
-
-877
 
 5 000 –  5 500
 
-914
+917
 
-841
+844
 
-905
+909
 
 5 500 –  6 000
 
-950
+955
 
-887
+891
 
-933
+937
 
 6 000 –  6 500
 
-1 076
+1080
 
-904
+908
 
-947
+951
 
 6 500 –  7 000
 
-1 137
+1142
 
-972
+976
 
-979
+983
 
 7 000 –  7 500
 
-1 186
+1191
 
-1 016
+1020
 
-1 003
+1007
 
 7 500 –  8 000
 
-1 235
+1240
 
-1 052
+1057
 
-1 039
+1043
 
 8 000 –  8 500
 
-1 346
+1351
 
-1 091
+1096
 
-1 052
+1057
 
 8 500 –  9 000
 
-1 413
+1419
 
-1 126
+1131
 
-1 065
+1070
 
 9 000 –  9 500
 
-1 458
+1464
 
-1 162
+1167
 
-1 078
+1082
 
 9 500 – 10 000
 
-1 506
+1512
 
-1 199
+1204
 
-1 091
+1096
 
 10 000 – 10 500
 
-1 551
+1558
 
-1 235
+1240
 
-1 100
+1105
 
 10 500 – 11 000
 
-1 598
+1605
 
-1 294
+1300
 
-1 114
+1118
 
 11 000 – 11 500
 
-1 642
+1649
 
-1 354
+1360
 
-1 126
+1131
 
 11 500 – 12 000
 
-1 689
+1697
 
-1 407
+1413
 
-1 162
+1167
 
 12 000 – 12 500
 
-1 732
+1739
 
-1 414
+1420
 
-1 217
+1223
 
 12 500 – 13 000
 
-1 774
+1781
 
-1 416
+1422
 
-1 278
+1283
 
 13 000 – 13 500
 
-1 815
+1822
 
-1 418
+1424
 
-1 340
+1346
 
 13 500 – 14 000
 
-1 857
+1865
 
-1 419
+1425
 
-1 402
+1408
 
 14 000 – 14 500
 
-1 899
+1907
 
-1 530
+1537
 
-1 467
+1473
 
 14 500 – 15 000
 
-1 943
+1951
 
-1 559
+1566
 
-1 539
+1545
 
 15 000 – 15 500
 
-1 984
+1993
 
-1 590
+1597
 
-1 611
+1618
 
 15 500 – 16 000
 
-2 027
+2036
 
-1 621
+1628
 
-1 694
+1701
 
 16 000 – 16 500
 
-2 068
+2077
 
-1 651
+1658
 
-1 762
+1770
 
 16 500 – 17 000
 
-2 111
+2120
 
-1 708
+1715
 
-1 826
+1834
 
 17 000 – 17 500
 
-2 153
+2163
 
-1 835
+1843
 
-1 894
+1902
 
 17 500 – 18 000
 
-2 196
+2205
 
-1 897
+1905
 
-1 960
+1969
 
 18 000 – 18 500
 
-2 237
+2246
 
-1 939
+1947
 
-2 026
+2035
 
 18 500 – 19 000
 
-2 280
+2289
 
-1 982
+1990
 
-2 092
+2101
 
 19 000 – 19 500
 
-2 323
+2333
 
-2 025
+2034
 
-2 158
+2167
 
 19 500 – 20 000
 
-2 364
+2374
 
-2 066
+2075
 
-2 223
+2233
 
 20 000 – 20 500
 
-2 407
+2417
 
-2 111
+2120
 
-2 288
+2298
 
 20 500 – 21 000
 
-2 448
+2458
 
-2 153
+2163
 
-2 356
+2366
 
 21 000 – 21 500
 
-2 491
+2502
 
-2 196
+2205
 
-2 421
+2432
 
 21 500 – 22 000
 
-2 533
+2544
 
-2 223
+2233
 
-2 488
+2499
 
 22 000 – 22 500
 
-2 576
+2587
 
-2 251
+2261
 
-2 553
+2564
 
 22 500 – 23 000
 
-2 619
+2631
 
-2 278
+2287
 
-2 620
+2632
 
 23 000 – 23 500
 
-2 661
+2672
 
-2 306
+2316
 
-2 662
+2673
 
 23 500 – 24 000
 
-2 701
+2712
 
-2 331
+2341
 
-2 703
+2714
 
 24 000 – 24 500
 
-2 707
+2718
 
-2 359
+2369
 
-2 707
+2718
 
 24 500 – 25 000
 
-2 707
+2718
 
-2 386
+2397
 
-2 707
+2718
 
 25 000 – 25 500
 
-2 707
+2718
 
-2 413
+2423
 
-2 707
+2718
 
 25 500 – 26 000
 
-2 707
+2718
 
-2 440
+2450
 
-2 707
+2718
 
 26 000 – 26 500
 
-2 707
+2718
 
-2 468
+2478
 
-2 707
+2718
 
 26 500 – 27 000
 
-2 707
+2718
 
-2 493
+2504
 
-2 707
+2718
 
 27 000 – 27 500
 
-2 707
+2718
 
-2 521
+2532
 
-2 707
+2718
 
 27 500 – 28 000
 
-2 707
+2718
 
-2 549
+2559
 
-2 707
+2718
 
 28 000 – 28 500
 
-2 707
+2718
 
-2 576
+2587
 
-2 707
+2718
 
 28 500 – 29 000
 
-2 707
+2718
 
-2 603
+2614
 
-2 707
+2718
 
 29 000 – 29 500
 
-2 707
+2718
 
-2 628
+2639
 
-2 707
+2718
 
 29 500 – 30 000
 
-2 707
+2718
 
-2 655
+2667
 
-2 707
+2718
 
 30 000 – 31 000
 
-2 707
+2718
 
-2 683
+2694
 
-2 707
+2718
 
 31 000 – 32 000
 
-2 707
+2718
 
-2 707
+2718
 
-2 707
+2718
 
 32 000 – 33 000
 
-2 707
+2718
 
-2 721
+2747
 
-2 707
+2718
 
 33 000 – 34 000
 
-2 707
+2718
 
-2 735
+2760
 
-2 707
+2718
 
 34 000 – 35 000
 
-2 707
+2718
 
-2 749
+2775
 
-2 707
+2718
 
 35 000 – 36 000
 
-2 707
+2718
 
-2 763
+2789
 
-2 707
+2718
 
 36 000 – 37 000
 
-2 707
+2718
 
-2 777
+2803
 
-2 707
+2718
 
 37 000 – 38 000
 
-2 707
+2718
 
-2 791
+2817
 
-2 707
+2718
 
 38 000 – 39 000
 
-2 707
+2718
 
-2 805
+2831
 
-2 707
+2718
 
 39 000 – 40 000
 
-2 707
+2718
 
-2 819
+2845
 
-2 707
+2718
 
 für jede weiteren
-
 angefangenen
-
-2 000 über 40 000
+2000 über 40 000
 
 –
 
-14
+   27
 
 –
 
 höchstens jedoch
 
-2 707
+2 718
 
-3 141
+3 486
 
-2 707
+2 718
 
 **Teil IV**
 
@@ -13117,13 +13235,13 @@ Beratungsgeld für das Verholen
 
 Grundbetrag
 
- 73
+ 78
 
 zuzüglich für jede angefangene Bruttoraumzahl von 100
 
 1.14
 
-      2,28
+2,43  
 
 2
 
@@ -13131,29 +13249,29 @@ Zusätzliches Beratungsgeld bei einer Bruttoraumzahl des Fahrzeugs
 
 1.15 und 1.16
 
-       bis  2 000
+bis  2 000
 
- 36
+ 39
 
 über  2 000 bis  5 000
 
- 60
+ 64
 
 über  5 000 bis 10 000
 
- 98
+104
 
 über 10 000 bis 20 000
 
-171
+182
 
 über 20 000 bis 30 000
 
-221
+236
 
 über 30 000
 
-271
+289
 
 3
 
@@ -13161,9 +13279,9 @@ Wartegeld
 
 2.1
 
- 75
+ 81
 
-Auslagen:
+Auslagen :
 
 4
 
@@ -13171,7 +13289,7 @@ Für vergeblichen Weg
 
 3.1
 
- 56
+ 60
 
 5
 
@@ -13179,7 +13297,7 @@ Tagegeld
 
 3.2, 3.3 und 3.4
 
- 98
+104
 
 6
 
@@ -13195,4 +13313,4 @@ Für fehlende Unterkunft
 
 3.5
 
- 34.
+ 36
