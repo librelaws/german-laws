@@ -2,10 +2,7 @@ Aufenthaltsverordnung (AufenthV)
 ================================
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 3.3.2015 I 218
-
-Hinweis  
-Änderung durch Art. 1 V v. 8.4.2015 I 599 (Nr. 15) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 7 G v. 2.2.2016 I 130
 
 ### 
 
@@ -754,7 +751,7 @@ um dem Ausländer die endgültige Ausreise aus dem Bundesgebiet zu ermöglichen 
 4.  
 wenn der Ausländer Asylbewerber ist, für die Ausstellung des Reiseausweises für Ausländer ein dringendes öffentliches Interesse besteht, zwingende Gründe es erfordern oder die Versagung des Reiseausweises für Ausländer eine unbillige Härte bedeuten würde und die Durchführung des Asylverfahrens nicht gefährdet wird.
 
-In den Fällen des Satzes 1 Nummer 3 und 4 wird der Reiseausweis für Ausländer ohne elektronisches Speicher- und Verarbeitungsmedium ausgestellt. Die ausstellende Behörde darf in den Fällen des Satzes 1 Nummer 3 und 4 Ausnahmen von § 5 Absatz 2 und 3 sowie in den Fällen des Satzes 1 Nummer 3 Ausnahmen von § 5 Absatz 4 zulassen.
+In den Fällen des Satzes 1 Nummer 3 und 4 wird der Reiseausweis für Ausländer ohne elektronisches Speicher- und Verarbeitungsmedium ausgestellt. Die ausstellende Behörde darf in den Fällen des Satzes 1 Nummer 3 und 4 Ausnahmen von § 5 Absatz 2 und 3 sowie in den Fällen des Satzes 1 Nummer 3 Ausnahmen von § 5 Absatz 4 zulassen. Bei Ausländern, denen nach einer Aufnahmezusage nach § 23 Absatz 4 des Aufenthaltsgesetzes eine Aufenthaltserlaubnis erteilt worden ist, ist die Erlangung eines Passes oder Passersatzes regelmäßig nicht zumutbar. Dies gilt entsprechend für Ausländer, die bis zum Ablauf des 31. Juli 2015 im Rahmen des Programms zur dauerhaften Neuansiedlung von Schutzsuchenden (Resettlement-Flüchtlinge) einen Aufenthaltstitel nach § 23 Absatz 2 des Aufenthaltsgesetzes erhalten haben.
 
 ### § 7 Ausstellung des Reiseausweises für Ausländer im Ausland
 
@@ -875,7 +872,7 @@ Die Inhaber der in Anlage A zu dieser Verordnung genannten Dokumente sind für d
 
 ### § 17 Nichtbestehen der Befreiung bei Erwerbstätigkeit während eines Kurzaufenthalts
 
-(1) Für die Einreise und den Kurzaufenthalt sind die Staatsangehörigen der in Anhang II der Verordnung (EG) Nr. 539/2001 in der jeweils geltenden Fassung genannten Staaten vom Erfordernis eines Aufenthaltstitels nicht befreit, sofern sie im Bundesgebiet eine Erwerbstätigkeit ausüben.
+(1) Für die Einreise und den Kurzaufenthalt sind die Personen nach Artikel 1 Absatz 2 der Verordnung (EG) Nr. 539/2001 in der jeweils geltenden Fassung und die Inhaber eines von einem Schengen-Staat ausgestellten Aufenthaltstitels oder nationalen Visums für den längerfristigen Aufenthalt vom Erfordernis eines Aufenthaltstitels nicht befreit, sofern sie im Bundesgebiet eine Erwerbstätigkeit ausüben.
 
 (2) Absatz 1 findet keine Anwendung, soweit der Ausländer im Bundesgebiet bis zu 90 Tage innerhalb von zwölf Monaten lediglich Tätigkeiten ausübt, die nach § 30 Nummer 2 und 3 der Beschäftigungsverordnung nicht als Beschäftigung gelten, oder diesen entsprechende selbständige Tätigkeiten ausübt. Die zeitliche Beschränkung des Satzes 1 gilt nicht für Kraftfahrer im grenzüberschreitenden Straßenverkehr, die lediglich Güter oder Personen durch das Bundesgebiet hindurchbefördern, ohne dass die Güter oder Personen das Transportfahrzeug wechseln. Die Frist nach Satz 1 beträgt für Tätigkeiten nach § 30 Nummer 1 der Beschäftigungsverordnung 90 Tage innerhalb von 180 Tagen. Selbständige Tätigkeiten nach den Sätzen 1 und 2 dürfen unter den dort genannten Voraussetzungen ohne den nach § 4 Abs. 3 Satz 1 des Aufenthaltsgesetzes erforderlichen Aufenthaltstitel ausgeübt werden.
 
@@ -923,9 +920,9 @@ von vatikanischen Pässen, wenn sie sich nicht länger als 90 Tage im Bundesgebi
 4.  
 von Passierscheinen zwischenstaatlicher Organisationen, die diese den in ihrem Auftrag reisenden Personen ausstellen, soweit die Bundesrepublik Deutschland auf Grund einer Vereinbarung mit der ausstellenden Organisation verpflichtet ist, dem Inhaber die Einreise und den Aufenthalt zu gestatten.
 
-### § 21 Befreiung für Inhaber von Grenzgängerkarten
+### § 21
 
-Inhaber von Grenzgängerkarten sind für die Einreise und den Aufenthalt im Bundesgebiet vom Erfordernis eines Aufenthaltstitels befreit.
+Inhaber von Grenzgängerkarten sind für die Einreise, den Aufenthalt und für die in der Grenzgängerkarte bezeichnete Erwerbstätigkeit im Bundesgebiet vom Erfordernis eines Aufenthaltstitels befreit.
 
 ### § 22 Befreiung für Schüler auf Sammellisten
 
@@ -1081,9 +1078,7 @@ Abschnitt 3 Visumverfahren
 
 ### 
 
-### § 30a Bestimmung der zuständigen Stelle bei der Beteiligung im Visumverfahren und bei der Unterrichtung über die Erteilung von Visa
-
-Die zuständige Stelle im Sinne des § 73 Absatz 1 und des § 73a Absatz 1 des Aufenthaltsgesetzes ist das Bundesverwaltungsamt.
+### § 30a (weggefallen)
 
 ### § 31 Zustimmung der Ausländerbehörde zur Visumerteilung
 
@@ -1107,7 +1102,21 @@ eine sonstige Beschäftigung ausüben will und wenn er sich entweder bereits zuv
 3.  
 die Daten des Ausländers nach § 73 Absatz 1 Satz 1 des Aufenthaltsgesetzes an die Sicherheitsbehörden übermittelt werden, soweit das Bundesministerium des Innern die Zustimmungsbedürftigkeit unter Berücksichtigung der aktuellen Sicherheitslage angeordnet hat.
 
-Im Fall des Satzes 1 Nr. 3 gilt die Zustimmung als erteilt, wenn nicht die Ausländerbehörde der Erteilung des Visums binnen zehn Tagen nach Übermittlung der Daten des Visumantrages an sie widerspricht oder die Ausländerbehörde im Einzelfall innerhalb dieses Zeitraums der Auslandsvertretung mitgeteilt hat, dass die Prüfung nicht innerhalb dieser Frist abgeschlossen wird. Dasselbe gilt bei Anträgen auf Erteilung eines Visums zu einem Aufenthalt nach § 16 Abs. 1 oder 1a oder nach § 20 des Aufenthaltsgesetzes, soweit das Visum nicht nach § 34 Nummer 3 bis 5 zustimmungsfrei ist, mit der Maßgabe, dass die Frist drei Wochen und zwei Werktage beträgt.
+Das Visum des Ehegatten oder Lebenspartners und der minderjährigen Kinder eines Ausländers, der eine sonstige Beschäftigung ausüben will, bedarf in der Regel nicht der Zustimmung der Ausländerbehörde, wenn
+
+1.  
+das Visum des Ausländers nicht der Zustimmungspflicht der Ausländerbehörde nach Satz 1 Nummer 2 Buchstabe c unterliegt,
+
+2.  
+das Visum des Ehegatten oder Lebenspartners nicht selbst der Zustimmungspflicht der Ausländerbehörde nach Satz 1 Nummer 2 Buchstabe a bis c unterliegt,
+
+3.  
+die Visumanträge in zeitlichem Zusammenhang gestellt werden und
+
+4.  
+die Ehe oder Lebenspartnerschaft bereits bei der Visumbeantragung des Ausländers besteht.
+
+Im Fall des Satzes 1 Nr. 3 gilt die Zustimmung als erteilt, wenn nicht die Ausländerbehörde der Erteilung des Visums binnen zehn Tagen nach Übermittlung der Daten des Visumantrages an sie widerspricht oder die Ausländerbehörde im Einzelfall innerhalb dieses Zeitraums der Auslandsvertretung mitgeteilt hat, dass die Prüfung nicht innerhalb dieser Frist abgeschlossen wird. Dasselbe gilt im Fall eines Ausländers, der eine sonstige Beschäftigung ausüben will, und seiner Familienangehörigen nach Satz 2, wenn das Visum nur auf Grund eines Voraufenthalts im Sinne von Satz 1 Nummer 2 Buchstabe c der Zustimmung der Ausländerbehörde bedarf. Dasselbe gilt bei Anträgen auf Erteilung eines Visums zu einem Aufenthalt nach § 16 Abs. 1 oder 1a oder nach § 20 des Aufenthaltsgesetzes, soweit das Visum nicht nach § 34 Nummer 3 bis 5 zustimmungsfrei ist, mit der Maßgabe, dass die Frist drei Wochen und zwei Werktage beträgt.
 
 (2) Wird der Aufenthalt des Ausländers von einer öffentlichen Stelle mit Sitz im Bundesgebiet vermittelt, kann die Zustimmung zur Visumerteilung auch von der Ausländerbehörde erteilt werden, die für den Sitz der vermittelnden Stelle zuständig ist. Im Visum ist ein Hinweis auf diese Vorschrift aufzunehmen und die Ausländerbehörde zu bezeichnen.
 
@@ -1359,7 +1368,7 @@ er vom Erfordernis des Aufenthaltstitels befreit ist und die Befreiung nicht auf
 er Staatsangehöriger eines in Anhang II der Verordnung (EG) Nr. 539/2001 aufgeführten Staates ist und sich rechtmäßig im Bundesgebiet aufhält oder ein gültiges Schengen-Visum für kurzfristige Aufenthalte (§ 6 Absatz 1 Nummer 1 des Aufenthaltsgesetzes) besitzt, sofern die Voraussetzungen eines Anspruchs auf Erteilung eines Aufenthaltstitels nach der Einreise entstanden sind,
 
 4.  
-er eine Aufenthaltsgestattung nach dem Asylverfahrensgesetz besitzt und die Voraussetzungen des § 10 Abs. 1 oder 2 des Aufenthaltsgesetzes vorliegen,
+er eine Aufenthaltsgestattung nach dem Asylgesetz besitzt und die Voraussetzungen des § 10 Abs. 1 oder 2 des Aufenthaltsgesetzes vorliegen,
 
 5.  
 seine Abschiebung nach § 60a des Aufenthaltsgesetzes ausgesetzt ist und er auf Grund einer Eheschließung oder der Begründung einer Lebenspartnerschaft im Bundesgebiet oder der Geburt eines Kindes während seines Aufenthalts im Bundesgebiet einen Anspruch auf Erteilung einer Aufenthaltserlaubnis erworben hat,
@@ -1526,7 +1535,7 @@ nationalen Visums (Kategorie „D“)</td>
 <tr class="odd">
 <td>für die Verlängerung eines<br />
 Schengen-Visums im Bundes-<br />
-gebiet über drei Monate<br />
+gebiet über 90 Tage<br />
 hinaus als nationales Visum<br />
 (§ 6 Absatz 2 des<br />
 Aufenthaltsgesetzes)</td>
@@ -1553,7 +1562,7 @@ Aufenthaltsgesetzes)</td>
 </tr>
 <tr class="even">
 <td>2.</td>
-<td>für die Erteilung einer Betretenserlaubnis (§ 11 Abs. 2 des Aufenthaltsgesetzes)</td>
+<td>für die Erteilung einer Betretenserlaubnis (§ 11 Absatz 8 des Aufenthaltsgesetzes)</td>
 <td>30 Euro,</td>
 </tr>
 <tr class="odd">
@@ -1759,7 +1768,7 @@ vom Antragsteller zurückgenommen wird, bevor mit der sachlichen Bearbeitung beg
 
 (2) Bei Staatsangehörigen der Schweiz ermäßigt sich die Gebühr nach § 45 für die Erteilung oder Verlängerung einer Aufenthaltserlaubnis, die auf Antrag als Dokument mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 Absatz 1 Satz 2 des Aufenthaltsgesetzes ausgestellt wird, auf 28,80 Euro. Wird die Aufenthaltserlaubnis für eine Person ausgestellt, die zum Zeitpunkt der Antragstellung noch nicht 24 Jahre alt ist, ermäßigt sich die Gebühr auf 22,80 Euro. Die Gebühren nach den Sätzen 1 und 2 sind auch zu erheben, wenn eine Neuausstellung der Aufenthaltserlaubnis aus den in § 45c Absatz 1 genannten Gründen notwendig wird; § 45c Absatz 2 gilt entsprechend. Für die Erteilung oder Verlängerung einer Aufenthaltserlaubnis, die Staatsangehörigen der Schweiz auf einem Vordruckmuster nach § 58 Satz 1 Nummer 13 ausgestellt wird, ermäßigt sich die Gebühr auf 8 Euro. Die Gebühr für die Ausstellung oder Verlängerung einer Grenzgängerkarte nach § 48 Absatz 1 Satz 1 Nummer 3 und 4 ermäßigt sich bei Staatsangehörigen der Schweiz auf 8 Euro. Die Gebühren nach § 47 Absatz 1 Nummer 8 für die Ausstellung einer Fiktionsbescheinigung und nach § 49 Absatz 2 für die Bearbeitung von Anträgen auf Vornahme der in den Sätzen 1 bis 5 genannten Amtshandlungen entfallen bei Staatsangehörigen der Schweiz.
 
-(3) Asylberechtigte und sonstige Ausländer, die im Bundesgebiet die Rechtsstellung ausländischer Flüchtlinge genießen, sind von den Gebühren nach
+(3) Asylberechtigte, Resettlement-Flüchtlinge im Sinne von § 23 Absatz 4 Satz 1 des Aufenthaltsgesetzes und sonstige Ausländer, die im Bundesgebiet die Rechtsstellung ausländischer Flüchtlinge genießen, sind von den Gebühren nach
 
 1.  
 § 44 Nr. 3, § 45c Absatz 1 Nummer 1 und 2, § 45b und § 47 Abs. 1 Nr. 11 für die Erteilung, Neuausstellung sowie Ausstellung und Übertragung der Niederlassungserlaubnis in Ausnahmefällen,
@@ -2088,7 +2097,7 @@ c)
 zum Aufenthaltstitel mit elektronischem Speicher- und Verarbeitungsmedium (§ 78 Absatz 1 des Aufenthaltsgesetzes) das in Anlage D11a abgedruckte Muster,
 
 12.  
-für die Bescheinigung über die Aufenthaltsgestattung (§ 63 des Asylverfahrensgesetzes) das in Anlage D12 abgedruckte Muster,
+für die Bescheinigung über die Aufenthaltsgestattung (§ 63 des Asylgesetzes) das in Anlage D12 abgedruckte Muster,
 
 13.  
 für die Aufenthaltskarte für Familienangehörige eines Unionsbürgers oder eines Staatsangehörigen eines EWR-Staates (§ 5 Absatz 1 des Freizügigkeitsgesetzes/EU) in den Fällen des § 11 Absatz 1 Satz 6 des Freizügigkeitsgesetzes/EU und die Aufenthaltserlaubnis, die Ausländern ausgestellt wird, die auf Grund des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit ein Aufenthaltsrecht besitzen, das in Anlage D15 abgedruckte Muster,
@@ -2368,7 +2377,7 @@ i)
 Widerruf und Rücknahme eines Aufenthaltstitels oder Feststellung des Verlusts des Freizügigkeitsrechts nach § 2 Absatz 7, § 5 Absatz 4 oder § 6 Abs. 1 des Freizügigkeitsgesetzes/EU,
 
 j)  
-sicherheitsrechtliche Befragung nach § 54 Nr. 6 des Aufenthaltsgesetzes,
+sicherheitsrechtliche Befragung nach § 54 Absatz 2 Nummer 7 des Aufenthaltsgesetzes,
 
 k)  
 Ausweisung,
@@ -2392,7 +2401,7 @@ q)
 Untersagung oder Beschränkung der politischen Betätigung unter Angabe einer Befristung,
 
 r)  
-Überwachungsmaßnahmen nach § 54a des Aufenthaltsgesetzes,
+Überwachungsmaßnahmen nach § 56 des Aufenthaltsgesetzes,
 
 s)  
 Erlass eines Ausreiseverbots,
@@ -2401,10 +2410,10 @@ t)
 Zustimmung der Ausländerbehörde zur Visumserteilung,
 
 u)  
-Befristung nach § 11 Abs. 1 Satz 3 des Aufenthaltsgesetzes,
+Befristung nach § 11 Absatz 2 des Aufenthaltsgesetzes,
 
 v)  
-Erteilung einer Betretenserlaubnis nach § 11 Abs. 2 des Aufenthaltsgesetzes unter Angabe der Befristung,
+Erteilung einer Betretenserlaubnis nach § 11 Absatz 8 des Aufenthaltsgesetzes unter Angabe der Befristung,
 
 w)  
 Übermittlung von Einreisebedenken im Hinblick auf § 5 des Aufenthaltsgesetzes an das Ausländerzentralregister,
@@ -2909,9 +2918,7 @@ Die in Kapitel 2 Abschnitt 1, Kapitel 3, § 56, Kapitel 5 sowie in den §§ 81 u
 
 ### § 80 Übergangsvorschriften für die Verwendung von Vordrucken
 
-Vordrucke für Reiseausweise für Ausländer, Reiseausweise für Flüchtlinge und Reiseausweise für Staatenlose nach den Anlagen D4c, D7a und D8a in der bis zum 31. Oktober 2014 geltenden Fassung können bis zum 31. Oktober 2015 weiterverwendet werden.*In der Anlage D werden die Innenseiten 4 und 5 der Anlagen D4c, D7a und D8a durch die folgenden Seiten 4 und 5 ersetzt.*
-
-§ 80 Satz 2 Kursivdruck: Änderungsvorschrift (zum Verständnis aufgenommen)
+Vordrucke für Reiseausweise für Ausländer, Reiseausweise für Flüchtlinge und Reiseausweise für Staatenlose nach den Anlagen D4c, D7a und D8a in der bis zum 31. Oktober 2014 geltenden Fassung können bis zum 31. Oktober 2015 weiterverwendet werden.
 
 ### § 81 Weitergeltung von nach bisherigem Recht ausgestellten Passersatzpapieren
 
@@ -2996,51 +3003,48 @@ Anträge auf die Anerkennung von Forschungseinrichtungen werden ab dem 1. Dezemb
 
 ### Anlage A (zu § 16)
 
-1.  
-Inhaber von Nationalpässen und/oder Reiseausweisen für Flüchtlinge sowie sonstiger in den jeweiligen Abkommen genannten Reisedokumente von
-
-|     |                                                |                                             |
-|-----|------------------------------------------------|---------------------------------------------|
-|     | **Staat**                                      | **Zugehörige Fundstelle**                   |
-|     | Australien                                     | GMBl 1953 S. 575                            |
-|     | Brasilien                                      | BGBl. 2008 II S. 1179                       |
-|     | Chile                                          | GMBl 1955 S. 22                             |
-|     | El Salvador                                    | BAnz. 1998 S. 12 778                        |
-|     | Honduras                                       | GMBl 1963 S. 363                            |
-|     | Japan                                          | BAnz. 1998 S. 12 778                        |
-|     | Kanada                                         | GMBl 1953 S. 575                            |
-|     | Korea (Republik Korea)                         | BGBl. 1974 II S. 682; BGBl. 1998 II S. 1390 |
-|     | Kroatien                                       | BGBl. 1998 II S. 1388                       |
-|     | Monaco                                         | GMBl 1959 S. 287                            |
-|     | Neuseeland                                     | BGBl. 1972 II S. 1550                       |
-|     | Panama                                         | BAnz. 1967 Nr. 171, S. 1                    |
-|     | San Marino                                     | BGBl. 1969 II S. 203                        |
-|     |                                                |                                             |
-| 2.  | Inhaber dienstlicher Pässe von                 |                                             |
-|     | **Staat**                                      | **Zugehörige Fundstelle**                   |
-|     | Ghana                                          | BGBl. 1998 II S. 2909                       |
-|     | Philippinen                                    | BAnz. 1968 Nr. 135, S. 2                    |
-|     |                                                |                                             |
-| 3.  | Inhaber von Reiseausweisen für Flüchtlinge von |                                             |
-|     | Belgien,                                       |                                             |
-|     | Dänemark,                                      |                                             |
-|     | Finnland,                                      |                                             |
-|     | Irland,                                        |                                             |
-|     | Island,                                        |                                             |
-|     | Italien,                                       |                                             |
-|     | Liechtenstein,                                 |                                             |
-|     | Luxemburg                                      |                                             |
-|     | Malta,                                         |                                             |
-|     | Niederlande,                                   |                                             |
-|     | Norwegen,                                      |                                             |
-|     | Polen,                                         |                                             |
-|     | Portugal,                                      |                                             |
-|     | Rumänien,                                      |                                             |
-|     | Schweden,                                      |                                             |
-|     | Schweiz,                                       |                                             |
-|     | Slowakei,                                      |                                             |
-|     | Spanien,                                       |                                             |
-|     | Tschechische Republik, Ungarn                  |                                             |
+|     |                                                                                                                                            |                                             |
+|-----|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| 1.  | Inhaber von Nationalpässen und/oder Reiseausweisen für Flüchtlinge sowie sonstiger in den jeweiligen Abkommen genannten Reisedokumente von |                                             |
+|     | **Staat**                                                                                                                                  | **Zugehörige Fundstelle**                   |
+|     | Australien                                                                                                                                 | GMBl 1953 S. 575                            |
+|     | Brasilien                                                                                                                                  | BGBl. 2008 II S. 1179                       |
+|     | Chile                                                                                                                                      | GMBl 1955 S. 22                             |
+|     | El Salvador                                                                                                                                | BAnz. 1998 S. 12 778                        |
+|     | Honduras                                                                                                                                   | GMBl 1963 S. 363                            |
+|     | Japan                                                                                                                                      | BAnz. 1998 S. 12 778                        |
+|     | Kanada                                                                                                                                     | GMBl 1953 S. 575                            |
+|     | Korea (Republik Korea)                                                                                                                     | BGBl. 1974 II S. 682; BGBl. 1998 II S. 1390 |
+|     | Monaco                                                                                                                                     | GMBl 1959 S. 287                            |
+|     | Neuseeland                                                                                                                                 | BGBl. 1972 II S. 1550                       |
+|     | Panama                                                                                                                                     | BAnz. 1967 Nr. 171, S. 1                    |
+|     | San Marino                                                                                                                                 | BGBl. 1969 II S. 203                        |
+|     |                                                                                                                                            |                                             |
+| 2.  | Inhaber dienstlicher Pässe von                                                                                                             |                                             |
+|     | **Staat**                                                                                                                                  | **Zugehörige Fundstelle**                   |
+|     | Ghana                                                                                                                                      | BGBl. 1998 II S. 2909                       |
+|     | Philippinen                                                                                                                                | BAnz. 1968 Nr. 135, S. 2                    |
+|     |                                                                                                                                            |                                             |
+| 3.  | Inhaber von Reiseausweisen für Flüchtlinge von                                                                                             |                                             |
+|     | Belgien,                                                                                                                                   |                                             |
+|     | Dänemark,                                                                                                                                  |                                             |
+|     | Finnland,                                                                                                                                  |                                             |
+|     | Irland,                                                                                                                                    |                                             |
+|     | Island,                                                                                                                                    |                                             |
+|     | Italien,                                                                                                                                   |                                             |
+|     | Liechtenstein,                                                                                                                             |                                             |
+|     | Luxemburg                                                                                                                                  |                                             |
+|     | Malta,                                                                                                                                     |                                             |
+|     | Niederlande,                                                                                                                               |                                             |
+|     | Norwegen,                                                                                                                                  |                                             |
+|     | Polen,                                                                                                                                     |                                             |
+|     | Portugal,                                                                                                                                  |                                             |
+|     | Rumänien,                                                                                                                                  |                                             |
+|     | Schweden,                                                                                                                                  |                                             |
+|     | Schweiz,                                                                                                                                   |                                             |
+|     | Slowakei,                                                                                                                                  |                                             |
+|     | Spanien,                                                                                                                                   |                                             |
+|     | Tschechische Republik, Ungarn                                                                                                              |                                             |
 
   
 nach Maßgabe des Europäischen Übereinkommens über die Aufhebung des Sichtvermerkszwangs für Flüchtlinge vom 20. April 1959 (BGBl. 1961 II S. 1097, 1098) sowie hinsichtlich der Inhaber von Reiseausweisen für Flüchtlinge der Schweiz auch nach Maßgabe des Abkommens zwischen der Regierung der Bundesrepublik Deutschland und dem Schweizerischen Bundesrat über die Abschaffung des Sichtvermerkszwangs für Flüchtlinge vom 4. Mai 1962 (BGBl.1962 II S. 2331, 2332).
@@ -3196,8 +3200,9 @@ nach Beendigung eines erlaubten Aufenthalts in einem der vorstehend genannten St
 
 Der Weiterflug muss innerhalb von zwölf Stunden nach der Ankunft in Deutschland von demjenigen Flughafen ausgehen, in dessen Transitbereich sich der Ausländer ausschließlich befindet.
 Libanon
-Myanmar
+Mali
 Sudan
+Südsudan
 Syrien
 Türkei
 Ausgenommen von der Flughafentransitvisumpflicht sind Staatsangehörige der Türkei, die Inhaber von Dienstpässen, Ministerialpässen und anderen Pässen für in amtlicher Funktion oder im amtlichen Auftrag Reisende sind.
@@ -3506,7 +3511,7 @@ Fundstelle: BGBl. I 2004, 3022)
 
 <img src="bgbl1_2011_j1530-1_0040.jpg" height="1984" />
 
-### Anlage D12 Bescheinigung über die Aufenthaltsgestattung (§ 63 des Asylverfahrensgesetzes)
+### Anlage D12 Bescheinigung über die Aufenthaltsgestattung (§ 63 des Asylgesetzes)
 
 (Inhalt: nicht darstellbares Muster der Bescheinigung,
 Fundstelle: BGBl. I 2004, 3023 - 3025)
