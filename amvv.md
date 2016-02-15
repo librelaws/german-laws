@@ -2,7 +2,7 @@ Verordnung über die Verschreibungspflicht von Arzneimitteln (AMVV)
 ==================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 6.3.2015 I 278
+Zuletzt geändert durch Art. 1 V v. 16.2.2016 I 237
 
 ### 
 
@@ -193,7 +193,7 @@ Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, 
 **Abamectin**
 **Abarelix**
 **Abatacept**
-**Abirateron** und seine Ester
+**Abirateron** und seine Ester
 **Acamprosat**
 **Acarbose**
 **Acebutolol**
@@ -224,8 +224,11 @@ Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, 
 **Adefovir**
 **Ademetionin**
 **Adenosin**
+**Afamelanotid**
 **Afatinib**
 **Aflibercept**
+**Afoxolaner**
+– zur Anwendung bei Tieren –
 **Agalsidase alfa und beta**
 **Agaricinsäure**
 **Aglepriston**
@@ -236,6 +239,7 @@ Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, 
 - zur parenteralen Anwendung -
 **Alatrofloxacin**
 **Albendazol**
+**Albiglutid**
 **Alclofenac**
 **Alclometason** und seine Ester
 **Aldesleukin**
@@ -243,6 +247,8 @@ Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, 
 **Alendronsäure**
 **Alfacalcidol**
 **Alfadolon** und seine Ester
+**Alfatradiol**
+– ausgenommen zur Anwendung auf der Kopfhaut bei leichter androgenetischer Alopezie (hormonell bedingter Haarausfall) bei Personen ab einem Alter von 18 Jahren –
 **Alfaxalon**
 **Alfuzosin**
 **Alglucosidase alfa**
@@ -329,6 +335,7 @@ Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, 
 **Apraclonidin**
 **Apramycin**
 - zur Anwendung bei Tieren -
+**Apremilast**
 **Aprepitant**
 **Aprindin**
 **Apronalid**
@@ -348,6 +355,7 @@ Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, 
 **L-Asparaginase**
 **Aspidinolfilizin**
 **Astemizol**
+**Ataluren**
 **Atazanavir**
 **Atenolol**
 **Atipamezol**
@@ -394,6 +402,7 @@ Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, 
 **Beclamid**
 **Beclometason** und seine Ester
 - ausgenommen Beclometasondipropionat zur intranasalen Anwendung bei Kurzzeitbehandlung der saisonalen allergischen Rhinitis in Packungsgrößen bis zu 5,5 mg Beclometasondipropionat, sofern auf Behältnissen und äußeren Umhüllungen angegeben ist, dass die Anwendung auf Erwachsene und Kinder ab dem vollendeten 12. Lebensjahr beschränkt ist -
+**Bedaquilin**
 **Befunolol**
 **Belatacept**
 **Belladonnae folium** und ihre Zubereitungen
@@ -522,6 +531,7 @@ Blutzubereitungen humanen Ursprungs
 **C1-Inhibitor vom Menschen**
 **Cabazitaxel** und seine Ester
 **Cabergolin**
+**Cabozantinib**
 **Cactinomycin**
 **Calabar semen** und seine Zubereitungen
 **Calcifediol**
@@ -533,6 +543,7 @@ Blutzubereitungen humanen Ursprungs
 - zur Anwendung bei Tieren -
 **Canagliflozin** und seine Derivate
 **Candesartan** und seine Ester
+**Cangrelor** und seine Ester
 **Canrenoinsäure** und ihre Ester
 **Cantharides** und ihre Zubereitungen
 - ausgenommen zum äußeren Gebrauch in Pflastern, Salben oder ähnlichen Zubereitungen -
@@ -605,10 +616,12 @@ Blutzubereitungen humanen Ursprungs
 **Ceftibuten**
 **Ceftiofur**
 **Ceftizoxim**
+**Ceftobiprol** und seine Derivate
 **Ceftriaxon**
 **Cefuroxim** und seine Ester
 **Celecoxib**
 **Celiprolol**
+**Ceritinib**
 **Certoparin**
 – zur parenteralen Anwendung –
 **Ceruletid**
@@ -637,6 +650,8 @@ Blutzubereitungen humanen Ursprungs
 **Chloroquin**
 **Chlorothiazid**
 **Chlorotrianisen**
+**Chlorphenamin**
+– zur Anwendung bei Tieren –
 **Chlorpropamid**
 **Chlorprothixen**
 **Chlortalidon**
@@ -645,8 +660,6 @@ Blutzubereitungen humanen Ursprungs
 **Chondroitinpolysulfat**
 - zur parenteralen Anwendung -
 **Choriogonadotropin alfa**
-**Choriongonadotropin (human alpha-subunit protein moiety reduced)**
-**Choriongonadotropin (human beta-subunit protein moiety reduced)**
 **Cholsäure**
 **Choriongonadotropin**
 **Chrysoidin**
@@ -791,7 +804,9 @@ zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasalen An
 **Dabigatran** und seine Ester
 **Dabrafenib**
 **Dacarbazin**
+**Daclatasvir**
 **Dactinomycin**
+**Dalbavancin** und seine Ester
 **Dalfopristin**
 **Dalteparin**
 – zur parenteralen Anwendung –
@@ -807,6 +822,7 @@ zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasalen An
 **Darbepoetin alfa**
 **Darifenacin**
 **Darunavir**
+**Dasabuvir**
 **Dasatinib**
 **Datura-Arten** und ihre Zubereitungen
 – ausgenommen in homöopathischen Zubereitungen zur oralen Anwendung aus oberirdischen Teilen von *Datura stramonium* zur Blütezeit, die nach den Herstellungsvorschriften 25 und 26 des Homöopathischen Arzneibuches hergestellt sind –
@@ -821,6 +837,7 @@ zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasalen An
 **Deflazacort**
 **Defosfamid**
 **Degarelix**
+**Delamanid**
 **Delapril**
 **Delmadinon** und seine Ester
 **Dembrexin**
@@ -853,6 +870,7 @@ zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasalen An
 – ausgenommen Dexamethasondihydrogenphosphat zur einmaligen parenteralen Anwendung in wässriger Lösung in Ampullen/Fertigspritzen mit 40 mg Wirkstoff und bis zu maximal 3 Packungseinheiten (entsprechend 120 mg Wirkstoff) für die Notfallbehandlung schwerer anaphylaktischer Reaktionen beim Menschen nach Neuraltherapie bis zum Eintreffen des Rettungsdienstes –
 **Dexibuprofen**
 **Dexketoprofen**
+**Dexlansoprazol**
 **Dexmedetomidin**
 - zur Anwendung bei Hunden und Katzen -
 **Dexrazoxan**
@@ -916,7 +934,6 @@ zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasalen An
 **Dimetacrin**
 **Dimetamfetamin**
 **Dimethisteron**
-**Dimethocain**
 **(3-Dimethylamino-2-hydroxypropyl)-(4-propylaminobenzoat)**
 **4-Dimethylaminophenol**
 **O-(4-Dimethylsulfamoylphenyl)-O',O''-dimethylthiophosphat**
@@ -932,6 +949,8 @@ zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasalen An
 - zur Anwendung bei Tieren -
 **Dinoprost**
 **Dinoproston**
+**Dinotefuran**
+– zur Anwendung bei Tieren –
 **Diphenhydramin**
 - zur parenteralen Anwendung -
 **Di(L-(+)-ornithin)-(2-oxoglutarat)-hydratdiphosphonsäure**
@@ -950,6 +969,7 @@ zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasalen An
 **Docetaxel**
 **Dofetilid**
 **Dolasetron**
+**Dolutegravir**
 **Domperidon**
 **Donepezil**
 **Dopamin**
@@ -971,6 +991,7 @@ zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasalen An
 **Droperidol**
 **Drospirenon**
 **Drostanolon** und seine Ester
+**Dulaglutid**
 **Duloxetin**
 **Dutasterid**
 **Dydrogesteron**
@@ -978,18 +999,23 @@ zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasalen An
 **Econazol**
 - ausgenommen zum äußeren Gebrauch -
 **Ecothiopat**
+**Edoxaban**
 **Edoxudin**
 **Efavirenz**
 **Eflornithin**
 **Eisen(III)-hexacyanoferrat(II)**
+**Eisen(III)-hydroxid-oxid-Sucrose-Stärke-Gemisch**
 **Eisen-Verbindungen**
-- zur parentalen Anwendung, ausgenommen zur Prophylaxe der Eisenmangelanämie bei Saugferkeln, sofern dies als alleiniger Anwendungsbereich auf Behältnissen und äußeren Umhüllungen angegeben ist -
+- zur parenteralen Anwendung, ausgenommen zur Prophylaxe der Eisenmangelanämie bei Saugferkeln, sofern dies als alleiniger Anwendungsbereich auf Behältnissen und äußeren Umhüllungen angegeben ist -
 **Eletriptan**
+**Eliglustat** und seine Ester
+**Elosulfase alfa**
 **Eltrombopag**
 **Elvitegravir** und seine Ester
 **Emedastin**
 **Emepronium-Salze**
 **Emetin**
+**Empagliflozin**
 **Emtricitabin**
 **Emylcamat**
 **Enalapril**
@@ -1197,6 +1223,8 @@ bei Tieren -
 **Flupredniden** und seine Ester
 **Fluprostenol**
 - zur Anwendung bei Tieren -
+**Fluralaner**
+– zur Anwendung bei Tieren –
 **Flurbiprofen**
 – ausgenommen zur Anwendung im Mund- und Rachenraum zur kurzzeitigen symptomatischen Behandlung bei schmerzhaften Entzündungen der Mund- und Rachenschleimhaut in einer Tageshöchstdosis von 50 mg –
 **Fluspirilen**
@@ -1271,6 +1299,7 @@ bei Tieren -
 **Glyceroltrinitrat**
 **Glycopyrroniumbromid**
 **Glymidin**
+**Goldfliegenlarve, lebend**
 **Gold-Keratin-Komplex**
 **Gonadorelin**
 **Gonadorelin(6-D-Phe)acetat**
@@ -1372,6 +1401,7 @@ und sofern auf Behältnissen und äußeren Umhüllungen eine Beschränkung der A
 
 **Ibafloxacin**
 **Ibandronsäure**
+**Ibrutinib**
 **Ibuprofen**
 – ausgenommen zum äußeren Gebrauch in einer Konzentration bis zu 5 Gewichtsprozenten –
 – ausgenommen zur oralen Anwendung ohne Zusatz weiterer arzneilich wirksamer Bestandteile in einer Konzentration bis zu 400 mg je abgeteilter Form und in einer Tagesdosis bis zu 1 200 mg bei leichten bis mäßig starken Schmerzen und Fieber –
@@ -1381,6 +1411,7 @@ und sofern auf Behältnissen und äußeren Umhüllungen eine Beschränkung der A
 – ausgenommen zur oralen Anwendung (in maximaler Einzeldosis von 400 mg und in einer maximalen Tagesdosis von 1 200 mg) in Kombination mit Pseudoephedrinhydrochlorid (in maximaler Einzeldosis von 60 mg und in einer maximalen Tagesdosis von 180 mg) mit einer Wirkstoffmenge von insgesamt bis zu 720 mg Pseudoephedrin und 4 800 mg Ibuprofen pro Packung, zur Behandlung der akuten Rhinosinusitis im Zusammenhang mit weiteren Erkältungssymptomen (wie z. B. Fieber und Schmerzen) –
 **Icatibant**
 **Idarubicin**
+**Idelalisib**
 **Idoxuridin**
 **Idursulfase**
 **Ifos famid**
@@ -1457,8 +1488,7 @@ und sofern auf Behältnissen und äußeren Umhüllungen eine Beschränkung der A
 **Itraconazol**
 **Ivabradin**
 **Ivacaftor**
-**Ivermectin**
-- zur Anwendung bei Tieren
+**Ivermectin** und seine Ester
 
 **Jalapae resina et tuber** und ihre Zubereitungen
 **Johanniskraut**
@@ -1509,9 +1539,11 @@ und sofern auf Behältnissen und äußeren Umhüllungen eine Beschränkung der A
 **Latanoprost**
 **Lecirelin**
 - zur Anwendung bei Tieren -
+**Ledipasvir**
 **Leflunomid**
 **Lenalidomid**
 **Lenograstim**
+**Lenvatinib**
 **Lepirudin**
 **Lercanidipin**
 **Lespedeza capitata** und ihre Zubereitungen
@@ -1572,12 +1604,14 @@ zur Linderung von neuropathischen Schmerzen nach einer Herpes-Zoster-Infektion (
 **Loteprednol**
 **Lovastatin**
 **Loxapin**
+**Lubiproston** und seine Ester
 **Lufenuron**
 - zur parenteralen Anwendung bei Hunden und Katzen -
 **Lumefantrin**
 **Lumiracoxib**
 **Luprostiol**
 - zur Anwendung bei Tieren -
+**Lurasidon**
 **Lutropin**
 **Lutropin alfa**
 **Lynestrenol**
@@ -1585,6 +1619,7 @@ zur Linderung von neuropathischen Schmerzen nach einer Herpes-Zoster-Infektion (
 **3-Methyl-2-oxobutansäure**
 **4-Methyl-2-oxopentansäure**
 **MACI** (matrix-induced autologous chondrocyte implantation)
+**Macitentan**
 **Macrogol**
 - zur Behandlung der Koprostase bei Kindern und Erwachsenen -
 **Macrogollaurylether (Polidocanol)**
@@ -1765,6 +1800,7 @@ Magnesiumbis(hydrogenaspartat)-Dihydrat
 **Nalidixinsäure** und ihre Ester
 **Nalmefen** und seine Ester
 **Nalorphin**
+**Naloxegol**
 **Naloxon**
 **Naltrexon**
 **Naproxen**
@@ -1790,6 +1826,7 @@ Magnesiumbis(hydrogenaspartat)-Dihydrat
 **Neostigmin-Salze**
 **Nepafenac**
 **Netilmicin**
+**Netupitant**
 **Nevirapin**
 **Nicarbazin**
 - zur Anwendung bei Tieren -
@@ -1821,6 +1858,7 @@ bis zu 15 mg Nicotin je abgeteilter Arzneiform und in einer Tagesdosis bis zu 64
 **Nimodipin**
 **Nimorazol**
 **Nimustin**
+**Nintedanib**
 **Niridazol**
 **Nisoldipin**
 **Nitisinon**
@@ -1860,12 +1898,14 @@ bis zu 15 mg Nicotin je abgeteilter Arzneiform und in einer Tagesdosis bis zu 64
 - zur parenteralen Ernährung -
 **Ofloxacin**
 **Olanzapin**
+**Olaparib**
 **Oleander-Glykoside**
 **Oleandomycin**
 **Olmesartan** und seine Ester
 **Olodaterol**
 **Olopatadin**
 **Olsalazin**
+**Ombitasvir**
 **Omega-3-Säurenethylester**
 - zur adjuvanten Behandlung zur Sekundärprophylaxe nach Herzinfarkt, zusätzlich zur Standard-Behandlung (z. B. Statine, Thrombozytenaggregationshemmer, Betablocker, ACE-Hemmer) -
 **Omeprazol**
@@ -1879,12 +1919,14 @@ bis zu 15 mg Nicotin je abgeteilter Arzneiform und in einer Tagesdosis bis zu 64
 **Orciprenalin**
 **Orphenadrin**
 **Orgotein**
+**Oritavancin** und seine Ester
 **Orlistat**
 – ausgenommen von der Europäischen Kommission zugelassene, nicht verschreibungspflichtige Arzneimittel zur oralen Anwendung mit einer Höchstdosis von 60 mg je abgeteilter Form sowie Arzneimittel zur oralen Anwendung mit einer Höchstdosis von 60 mg je abgeteilter Form und einer maximalen Tagesdosis von 180 mg –
 **Ornidazol**
 **Osateron** und seine Ester
 **Oseltamivir**
 **Osmiumsäure**
+**Ospemifen** und seine Ester
 **Osteogenes Protein 1**
 **Oxabolon** und seine Ester
 **Oxaceprol**
@@ -1948,6 +1990,7 @@ rektalen Anwendung –
 **Parecoxib**
 **Pargylin**
 **Paricalcitol**
+**Paritaprevir**
 **Parnaparin**
 – zur parenteralen Anwendung –
 **Paromomycin**
@@ -1963,6 +2006,7 @@ rektalen Anwendung –
 **Pegfilgrastim**
 **Peginterferon alfa-2a**
 **Peginterferon alfa-2b**
+**Peginterferon beta-1a**
 **Pegloticase**
 **Pegvisomant**
 **Pemetrexed**
@@ -2086,6 +2130,8 @@ zur Anwendung beim Pferd -
 **Polymyxin B und M**
 **Poly(O-2-hydroxyethyl)stärke**
 - zur parenteralen Anwendung -
+**Poly-*O*-{3-\[(2-aminoethyl)sulfanyl\]propyl}<sub>x</sub>-poly-*O*-\[3-({2-\[2-(d-mannopyranosylsulfanyl)ethanimidamido\]ethyl}sulfanyl)propyl\]<sub>y</sub>-poly-*O*-{3-\[(2-pentetamidoethyl)sulfanyl\]propyl}<sub>z</sub>-dextran 10 („Tilmanocept“)**
+– als Trägersubstanz für (<sup>99m</sup> Tc)Technetium –
 **Poly(styrolco-divinylbenzol)sulfonsäure (x:y)**
 als Aluminium-, Calcium-, Kalium- und Natriumsalz
 - ausgenommen zur Verwendung als Hilfsstoff für galenische Zwecke in einer Tagesdosis bis zu 300 mg -
@@ -2233,10 +2279,18 @@ bis zu 0,004 Gewichtsprozenten in Aufbewahrungs- und Benetzungslösungen für Ko
 
 **Rabeprazol**
 **Racecadotril**
-– ausgenommen in festen Zubereitungen zur symptomatischen Behandlung von akutem Durchfall bei Erwachsenen über 18 Jahren in Konzentrationen von 100 mg je abgeteilter Form und in einer Gesamtmenge von bis zu 1 000 mg je Packung für eine maximale Anwendungsdauer von drei Tagen, sofern in der Fachinformation und in der Packungsbeilage
+– ausgenommen in festen Zubereitungen zur symptomatischen Behandlung von akutem Durchfall für eine maximale Anwendungsdauer von drei Tagen bei
+
+1.  
+Erwachsenen über 18 Jahren in Konzentrationen von 100 mg je abgeteilter Form und in einer Gesamtmenge von bis zu 1 000 mg je Packung,
+
+2.  
+Kindern ab dem vollendeten 12. Lebensjahr gemeinsam mit oraler Rehydratation in Konzentrationen von 30 mg je abgeteilter Form zur Herstellung einer Suspension und in einer Gesamtmenge von bis zu 540 mg je Packung, sofern auf Behältnissen und äußeren Umhüllungen angegeben ist, dass die Anwendung auf Kinder ab dem vollendeten 12. Lebensjahr beschränkt ist,
+
+sofern in der Fachinformation und in der Packungsbeilage
 
 a)  
-unter den Kontraindikationen angegeben wird, dass Racecadotril nicht angewendet werden darf bei Durchfällen, die mit Fieber, blutigem oder schleimigem Stuhl einhergehen, da diese auf das Vorliegen invasiver Bakterien oder anderer schwerer Erkrankungen hinweisen oder die während oder nach der Einnahme von Antibiotika auftreten (pseudomembranöse Colitis), und
+unter den Kontraindikationen angegeben wird, dass Racecadotril nicht angewendet werden darf bei Durchfällen, die mit Fieber, blutigem oder schleimigem Stuhl einhergehen, da diese auf das Vorliegen invasiver Bakterien oder anderer schwerer Erkrankungen hinweisen, oder die während oder nach der Einnahme von Antibiotika auftreten (pseudomembranöse Colitis), und
 
 b)  
 unter den Warnhinweisen angegeben wird, dass Racecadotril nur nach ärztlicher Verordnung angewendet werden sollte, wenn es sich bei dem Durchfall um einen akuten Schub einer Colitis ulcerosa handelt oder die Patienten unter einer Nieren- oder Leberinsuffizienz leiden –
@@ -2286,6 +2340,7 @@ unter den Warnhinweisen angegeben wird, dass Racecadotril nur nach ärztlicher V
 **Rimazoliummetilsulfat**
 **Rimexolon**
 **Rimonabant**
+**Riociguat**
 **Risedronsäure**
 **Risperidon**
 **Ritodrin**
@@ -2318,6 +2373,7 @@ bei Pferden, Hunden und Katzen -
 **Sabinae summitates** - und ihre Zubereitungen
 ausgenommen zum äußeren Gebrauch in Salben -
 **Rufinamid**
+**Safinamid**
 **Salbutamol**
 **Salmeterol**
 **Salpetersäure**
@@ -2364,6 +2420,7 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Silibinin-C-2',3-bis(hydrogensuccinat)**
 - zur parenteralen Anwendung -
 **Silodosin**
+**Simeprevir**
 **Simvastatin**
 **Sincalid**
 **Sipuleucel-T**
@@ -2371,6 +2428,7 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Sisomicin**
 **Sitagliptin**
 **Sitaxentan**
+**Sofosbuvir**
 **Solifenacin**
 **Somatorelin**
 **Somatostatin**
@@ -2445,6 +2503,7 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Taurolidin**
 **Tazaroten**
 **Tazobactam**
+**Tedizolid** und seine Ester
 **Teduglutid**
 **Tegafur**
 **Teicoplanin**
@@ -2575,6 +2634,7 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Toremifen**
 **Trabectedin**
 **Tramadol**
+**Trametinib**
 **Trandolapril**
 **Tranexamsäure**
 **Transcalcifediol**
@@ -2642,7 +2702,8 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Tylosin**
 **Tylvalosin** (Acetylisovaleryltylosin) und seine Ester
 **Ulipristal** und seine Ester
-– ausgenommen das nach Artikel 3 Absatz 1 der Verordnung (EG) Nr. 726/2004 zugelassene Fertigarzneimittel ellaOne® zur Notfallkontrazeption –
+– ausgenommen Ulipristalacetat in Zubereitungen zur oralen Anwendung ohne Zusatz weiterer arzneilich wirksamer Bestandteile in einer Konzentration bis zu 30 mg Wirkstoff je abgeteilter Arzneiform und in Packungen mit einem maximalen Wirkstoffgehalt von 30 mg zur Notfallkontrazeption –
+**Umeclidinium**
 **Unoproston-Isopropyl**
 **Urapidil**
 **Urethan**
@@ -2695,7 +2756,13 @@ Zubereitung aus
 und
 **Prilocain**
 – zur Behandlung von primärer vorzeitiger Ejakulation bei erwachsenen Männern –
+**Vorapaxar**
 **Voriconazol**
+**Vortioxetin**
+Zubereitung aus
+**Azelastin**
+und
+**Fluticasonpropionat**
 
 **Warfarin**
 
