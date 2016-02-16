@@ -2,7 +2,7 @@ Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte (RVG)
 =======================================================================
 
 Stand  
-Zuletzt geändert durch Art. 14 Nr. 8 G v. 20.10.2015 I 1722
+Zuletzt geändert durch Art. 2 Abs. 4 G v. 17.02.2016 I 203
 
 ### 
 
@@ -132,7 +132,7 @@ Abschnitt 1 Allgemeine Vorschriften
 
 (1) Die Vergütung (Gebühren und Auslagen) für anwaltliche Tätigkeiten der Rechtsanwältinnen und Rechtsanwälte bemisst sich nach diesem Gesetz. Dies gilt auch für eine Tätigkeit als Prozesspfleger nach den §§ 57 und 58 der Zivilprozessordnung. Andere Mitglieder einer Rechtsanwaltskammer, Partnerschaftsgesellschaften und sonstige Gesellschaften stehen einem Rechtsanwalt im Sinne dieses Gesetzes gleich.
 
-(2) Dieses Gesetz gilt nicht für eine Tätigkeit als Vormund, Betreuer, Pfleger, Verfahrenspfleger, Verfahrensbeistand, Testamentsvollstrecker, Insolvenzverwalter, Sachwalter, Mitglied des Gläubigerausschusses, Nachlassverwalter, Zwangsverwalter, Treuhänder oder Schiedsrichter oder für eine ähnliche Tätigkeit. § 1835 Abs. 3 des Bürgerlichen Gesetzbuchs bleibt unberührt.
+(2) Dieses Gesetz gilt nicht für eine Tätigkeit als Syndikusrechtsanwalt (§ 46 Absatz 2 der Bundesrechtsanwaltsordnung). Es gilt ferner nicht für eine Tätigkeit als Vormund, Betreuer, Pfleger, Verfahrenspfleger, Verfahrensbeistand, Testamentsvollstrecker, Insolvenzverwalter, Sachwalter, Mitglied des Gläubigerausschusses, Nachlassverwalter, Zwangsverwalter, Treuhänder oder Schiedsrichter oder für eine ähnliche Tätigkeit. § 1835 Abs. 3 des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
 (3) Die Vorschriften dieses Gesetzes über die Erinnerung und die Beschwerde gehen den Regelungen der für das zugrunde liegende Verfahren geltenden Verfahrensvorschriften vor.
 
@@ -578,6 +578,9 @@ nach den Vorschriften des Gesetzes über das Verfahren in Familiensachen und in 
 
 1.  
 die Vorbereitung der Klage, des Antrags oder der Rechtsverteidigung, soweit kein besonderes gerichtliches oder behördliches Verfahren stattfindet;
+
+1a.  
+die Einreichung von Schutzschriften;
 
 2.  
 außergerichtliche Verhandlungen;
