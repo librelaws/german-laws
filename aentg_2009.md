@@ -2,7 +2,7 @@ Gesetz über zwingende Arbeitsbedingungen für grenzüberschreitend entsandte un
 ===============================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 6 G v. 11.8.2014 I 1348
+Zuletzt geändert durch Art. 2 Abs. 11 G v. 17.02.2016 I 203
 
 Sonst  
 Außerkrafttreten gem. Art. 15 Abs. 2 G v. 11.8.2014 I 1348 ist berücksichtigt
@@ -12,6 +12,8 @@ Außerkrafttreten gem. Art. 15 Abs. 2 G v. 11.8.2014 I 1348 ist berücksichtigt
 ```
 (+++ Textnachweis ab: 24.4.2009 +++)
 (+++ Zur Anwendung vgl. § 13 G v. 11.8.2014 I 1348 (MiLoG) +++)
+(+++ Zur Anwendung d. § 18 Abs. 1 bis 4 vgl. § 1 Abs. 2 MiLoDokV +++)
+(+++ Zur Anwendung d. § 19 Abs. 1 u. 2 vgl. § 1 Abs. 2 MiLoDokV +++)
 ```
 
 ### Eingangsformel
@@ -372,6 +374,7 @@ wie das Meldeverfahren vereinfacht oder abgewandelt werden kann, sofern die ents
 (6) Das Bundesministerium der Finanzen kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die zuständige Behörde nach Absatz 1 Satz 1 und Absatz 3 Satz 1 bestimmen.
 
 (+++ Abschn. 6 (§§ 16 bis 23): Zur Anwendung vgl. §§ 13 u. 13a +++)
+(+++ § 18 Abs. 1 bis 4: Zur Anwendung vgl. § 1 Abs. 2 MiLoDokV +++)
 
 ### § 19 Erstellen und Bereithalten von Dokumenten
 
@@ -384,6 +387,7 @@ wie das Meldeverfahren vereinfacht oder abgewandelt werden kann, sofern die ents
 (4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales ohne Zustimmung des Bundesrates bestimmen, wie die Verpflichtung des Arbeitgebers, die tägliche Arbeitszeit bei ihm beschäftigter Arbeitnehmer und Arbeitnehmerinnen aufzuzeichnen und diese Aufzeichnungen aufzubewahren, vereinfacht oder abgewandelt werden kann, sofern Besonderheiten der zu erbringenden Werk- oder Dienstleistungen oder Besonderheiten der Branche dies erfordern.
 
 (+++ Abschn. 6 (§§ 16 bis 23): Zur Anwendung vgl. §§ 13 u. 13a +++)
+(+++ § 19 Abs. 1 u. 2: Zur Anwendung vgl. § 1 Abs. 2 MiLoDokV +++)
 
 ### § 20 Zusammenarbeit der in- und ausländischen Behörden
 
