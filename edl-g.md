@@ -360,7 +360,7 @@ Entwicklung und Durchführung von Maßnahmen nach § 8 Satz 2;
 Erstellung und Veröffentlichung von Listen mit Energieeffizienzkriterien für technische Spezifikationen verschiedener Produktkategorien, wobei für die Erstellung dieser Listen gegebenenfalls eine Analyse minimierter Lebenszykluskosten oder vergleichbare Methoden zur Gewährleistung der Wirtschaftlichkeit zugrunde zu legen sind;
 
 14.  
-Unterstützung der in § 98 Nummer 1 bis 4 des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), das zuletzt durch Artikel 5 des Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066) geändert worden ist, bezeichneten Stellen bei der Ergreifung von Energieeffizienzmaßnahmen;
+Unterstützung der in § 99 Nummer 1 bis 3 und § 100 des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), das zuletzt durch Artikel 5 des Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066) geändert worden ist, bezeichneten Stellen bei der Ergreifung von Energieeffizienzmaßnahmen;
 
 15.  
 wissenschaftliche Unterstützung des Bundesministeriums für Wirtschaft und Energie in allen Angelegenheiten der Energieeinsparung und Energieeffizienz.
