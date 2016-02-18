@@ -2,7 +2,7 @@ Verordnung über Allgemeine Bedingungen für die Grundversorgung von Haushaltsku
 ===================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 30.4.2012 I 1002
+Zuletzt geändert durch Art. 10 G v. 19.2.2016 I 254
 
 ### 
 
@@ -26,6 +26,7 @@ Die V wurde als Artikel 1 der V v. 26.10.2006 I 2391 vom Bundesministerium für 
 | Versorgung                                   |
 | § 4                                          |
 | § 5                                          |
+| § 5a                                         |
 | § 6                                          |
 | § 7                                          |
 |                                              |
@@ -91,9 +92,21 @@ Angaben zum Grundversorger (Firma, Registergericht, Registernummer und Adresse),
 Angaben zum Netzbetreiber, in dessen Netzgebiet die Grundversorgung durchgeführt wird (Firma, Registergericht, Registernummer und Adresse) und
 
 5.  
-Angaben zu den Allgemeinen Preisen nach § 36 Absatz 1 des Energiewirtschaftsgesetzes.
+Angaben zu den Allgemeinen Preisen nach § 36 Absatz 1 des Energiewirtschaftsgesetzes, wobei folgende Belastungen, soweit sie Kalkulationsbestandteil der geltenden Allgemeinen Preise sind, gesondert auszuweisen sind:
 
-Wenn dem Grundversorger die Angaben nach Satz 1 Nummer 1 nicht vorliegen, ist der Kunde verpflichtet, sie dem Grundversorger auf Anforderung mitzuteilen. Zusätzlich ist in dem Vertrag oder der Vertragsbestätigung hinzuweisen auf
+a)  
+die Stromsteuer nach § 3 des Stromsteuergesetzes vom 24. März 1999 (BGBl. I S. 378; 2000 I S. 147), das zuletzt durch Artikel 2 des Gesetzes vom 5. Dezember 2012 (BGBl. I S. 2436, 2725) geändert worden ist, in der jeweils geltenden Fassung,
+
+b)  
+die Konzessionsabgabe nach Maßgabe des § 4 Absatz 1 und 2 der Konzessionsabgabenverordnung vom 9. Januar 1992 (BGBl. I S. 12, 407), die zuletzt durch Artikel 3 Absatz 4 der Verordnung vom 1. November 2006 (BGBl. I S. 2477) geändert worden ist,
+
+c)  
+jeweils gesondert die Umlagen und Aufschläge nach § 60 Absatz 1 des Erneuerbare-Energien-Gesetzes, § 26 des Kraft-Wärme-Kopplungsgesetzes, § 19 Absatz 2 der Stromnetzentgeltverordnung, § 17f Absatz 5 des Energiewirtschaftsgesetzes und § 18 der Verordnung zu abschaltbaren Lasten vom 28. Dezember 2012 (BGBl. I S. 2998),
+
+d)  
+jeweils gesondert die Netzentgelte und die Entgelte der Betreiber von Energieversorgungsnetzen für den Messstellenbetrieb und die Messung.
+
+Wenn dem Grundversorger die Angaben nach Satz 1 Nummer 1 nicht vorliegen, ist der Kunde verpflichtet, sie dem Grundversorger auf Anforderung mitzuteilen. Zusätzlich zu den Angaben nach Satz 1 Nummer 5 hat der Grundversorger den auf die Grundversorgung entfallenden Kostenanteil anzugeben, der sich rechnerisch nach Abzug der Umsatzsteuer und der Belastungen nach Satz 1 Nummer 5 von dem Allgemeinen Preis ergibt, und diesen Kostenanteil getrennt zu benennen. Der Grundversorger hat die jeweiligen Belastungen nach Satz 1 Nummer 5 sowie die Angaben nach Satz 3 in ihrer jeweiligen Höhe mit der Veröffentlichung der Allgemeinen Preise nach § 36 Absatz 1 Satz 1 des Energiewirtschaftsgesetzes auf seiner Internetseite zu veröffentlichen. Auf die Veröffentlichung der jeweiligen Höhe der in Satz 1 Nummer 5 Buchstabe c genannten Belastungen auf einer Informationsplattform der deutschen Übertragungsnetzbetreiber hat der Grundversorger ergänzend hinzuweisen. Zusätzlich ist in dem Vertrag oder der Vertragsbestätigung hinzuweisen auf
 
 1.  
 die Allgemeinen Bedingungen und auf diese ergänzende Bedingungen,
@@ -102,9 +115,9 @@ die Allgemeinen Bedingungen und auf diese ergänzende Bedingungen,
 die Möglichkeit des Kunden, Ansprüche wegen Versorgungsstörungen gegen den Netzbetreiber nach § 6 Absatz 3 Satz 1 geltend zu machen und
 
 3.  
-das Recht des Kunden nach § 111b Absatz 1 Satz 1 des Energiewirtschaftsgesetzes eine Schlichtungsstelle anzurufen und die Anschrift der zuständigen Schlichtungsstelle sowie auf den Verbraucherservice der Bundesnetzagentur für den Bereich Elektrizität und Gas und dessen Anschrift.
+das Recht des Kunden nach § 111b Absatz 1 Satz 1 des Energiewirtschaftsgesetzes eine Schlichtungsstelle anzurufen, die Anschrift und die Webseite der zuständigen Schlichtungsstelle, die Verpflichtung des Lieferanten zur Teilnahme am Schlichtungsverfahren sowie auf den Verbraucherservice der Bundesnetzagentur für den Bereich Elektrizität und Gas und dessen Anschrift.
 
-Die Hinweise nach Satz 3 Nummer 3 hat der Grundversorger auch auf seiner Internetseite zu veröffentlichen.
+Die Hinweise nach Satz 6 Nummer 3 hat der Grundversorger auch auf seiner Internetseite zu veröffentlichen.
 
 (4) Der Grundversorger ist verpflichtet, jedem Neukunden rechtzeitig vor Vertragsschluss und in den Fällen des Absatzes 1 Satz 2 mit der Bestätigung des Vertragsschlusses sowie auf Verlangen den übrigen Kunden die Allgemeinen Bedingungen unentgeltlich auszuhändigen. Satz 1 gilt entsprechend für die ergänzenden Bedingungen; diese hat der Grundversorger öffentlich bekannt zu geben und auf seiner Internetseite zu veröffentlichen.
 
@@ -125,13 +138,19 @@ Teil 2 Versorgung
 
 Der Kunde ist für die Dauer des Grundversorgungsvertrages verpflichtet, seinen gesamten leitungsgebundenen Elektrizitätsbedarf aus den Elektrizitätslieferungen des Grundversorgers zu decken. Ausgenommen ist die Bedarfsdeckung durch Eigenanlagen der Kraft-Wärme-Kopplung bis 50 Kilowatt elektrischer Leistung und aus Erneuerbaren Energien; ferner durch Eigenanlagen, die ausschließlich der Sicherstellung des Elektrizitätsbedarfs bei Aussetzen der Grundversorgung dienen (Notstromaggregate). Notstromaggregate dürfen außerhalb ihrer eigentlichen Bestimmungen nicht mehr als 15 Stunden monatlich zur Erprobung betrieben werden.
 
-### § 5 Art der Versorgung
+### § 5 Art der Versorgung; Änderungen der Allgemeinen Preise und ergänzenden Bedingungen
 
 (1) Welche Stromart (Drehstrom oder Wechselstrom) und Spannungsart für das Vertragsverhältnis maßgebend sein sollen, ergibt sich aus der Stromart und Spannung des jeweiligen Elektrizitätsversorgungsnetzes der allgemeinen Versorgung, an das die Anlage, über die der Kunde Strom entnimmt, angeschlossen ist.
 
-(2) Änderungen der Allgemeinen Preise und der ergänzenden Bedingungen werden jeweils zum Monatsbeginn und erst nach öffentlicher Bekanntgabe wirksam, die mindestens sechs Wochen vor der beabsichtigten Änderung erfolgen muss. Der Grundversorger ist verpflichtet, zu den beabsichtigten Änderungen zeitgleich mit der öffentlichen Bekanntgabe eine briefliche Mitteilung an den Kunden zu versenden und die Änderungen auf seiner Internetseite zu veröffentlichen.
+(2) Änderungen der Allgemeinen Preise und der ergänzenden Bedingungen werden jeweils zum Monatsbeginn und erst nach öffentlicher Bekanntgabe wirksam, die mindestens sechs Wochen vor der beabsichtigten Änderung erfolgen muss. Der Grundversorger ist verpflichtet, zu den beabsichtigten Änderungen zeitgleich mit der öffentlichen Bekanntgabe eine briefliche Mitteilung an den Kunden zu versenden und die Änderungen auf seiner Internetseite zu veröffentlichen; hierbei hat er den Umfang, den Anlass und die Voraussetzungen der Änderung sowie den Hinweis auf die Rechte des Kunden nach Absatz 3 und die Angaben nach § 2 Absatz 3 Satz 1 Nummer 5 und Satz 3 in übersichtlicher Form anzugeben.
 
 (3) Im Fall einer Änderung der Allgemeinen Preise oder ergänzenden Bedingungen hat der Kunde das Recht, den Vertrag ohne Einhaltung einer Kündigungsfrist zum Zeitpunkt des Wirksamwerdens der Änderungen zu kündigen. Änderungen der Allgemeinen Preise und der ergänzenden Bedingungen werden gegenüber demjenigen Kunden nicht wirksam, der bei einer Kündigung des Vertrages mit dem Grundversorger die Einleitung eines Wechsels des Versorgers durch entsprechenden Vertragsschluss innerhalb eines Monats nach Zugang der Kündigung nachweist.
+
+### § 5a Kalkulatorische Neuermittlung bei Änderungen staatlich gesetzter oder regulierter Belastungen
+
+(1) Bei Änderungen der Belastungen nach § 2 Absatz 3 Satz 1 Nummer 5, die in die Kalkulation des Allgemeinen Preises eingeflossen sind, ist der Grundversorger unter Beachtung der geltenden gesetzlichen Bestimmungen berechtigt, die Allgemeinen Preise jederzeit neu zu ermitteln und dabei die Änderung in das Ergebnis der Kalkulation einfließen zu lassen. Sinkt der Saldo der Belastungen nach § 2 Absatz 3 Satz 1 Nummer 5 Buchstabe a bis c, ist der Grundversorger abweichend von Satz 1 verpflichtet, die Allgemeinen Preise unverzüglich neu zu ermitteln und dabei den gesunkenen Saldo in das Ergebnis der Kalkulation einfließen zu lassen. Die Verpflichtung zur Neuermittlung nach Satz 2 entsteht in dem Zeitraum vom 15. Oktober bis 31. Dezember eines Jahres erst, wenn alle von Satz 1 erfassten Belastungen für das Folgejahr feststehen.
+
+(2) Sonstige Rechte und Verpflichtungen zur Neukalkulation und die Rechte und Verpflichtungen in Bezug auf Änderungen der Allgemeinen Preise sowie die Pflichten des Grundversorgers nach § 5 Absatz 2 und die Rechte des Kunden nach § 5 Absatz 3 bleiben unberührt.
 
 ### § 6 Umfang der Grundversorgung
 
@@ -163,13 +182,13 @@ Teil 3 Aufgaben und Rechte des Grundversorgers
 
 (1) Die vom Grundversorger gelieferte Elektrizität wird durch die Messeinrichtungen nach § 21b des Energiewirtschaftsgesetzes festgestellt.
 
-(2) Der Grundversorger ist verpflichtet, auf Verlangen des Kunden jederzeit eine Nachprüfung der Messeinrichtungen durch eine Eichbehörde oder eine staatlich anerkannte Prüfstelle im Sinne des § 2 Abs. 4 des Eichgesetzes beim Messstellenbetreiber zu veranlassen. Stellt der Kunde den Antrag auf Prüfung nicht bei dem Grundversorger, so hat er diesen zugleich mit der Antragstellung zu benachrichtigen. Die Kosten der Prüfung fallen dem Grundversorger zur Last, falls die Abweichung die gesetzlichen Verkehrsfehlergrenzen überschreitet, sonst dem Kunden.
+(2) Der Grundversorger ist verpflichtet, auf Verlangen des Kunden jederzeit eine Nachprüfung der Messeinrichtungen durch eine Eichbehörde oder eine staatlich anerkannte Prüfstelle im Sinne des § 40 Absatz 3 des Mess- und Eichgesetzes beim Messstellenbetreiber zu veranlassen. Stellt der Kunde den Antrag auf Prüfung nicht bei dem Grundversorger, so hat er diesen zugleich mit der Antragstellung zu benachrichtigen. Die Kosten der Prüfung fallen dem Grundversorger zur Last, falls die Abweichung die gesetzlichen Verkehrsfehlergrenzen überschreitet, sonst dem Kunden.
 
 ### § 9 Zutrittsrecht
 
 Der Kunde hat nach vorheriger Benachrichtigung dem mit einem Ausweis versehenen Beauftragten des Netzbetreibers, des Messstellenbetreibers oder des Grundversorgers den Zutritt zu seinem Grundstück und zu seinen Räumen zu gestatten, soweit dies zur Ermittlung preislicher Bemessungsgrundlagen oder zur Ablesung der Messeinrichtungen nach § 11 erforderlich ist. Die Benachrichtigung kann durch Mitteilung an die jeweiligen Kunden oder durch Aushang *an* oder im jeweiligen Haus erfolgen. Sie muss mindestens eine Woche vor dem Betretungstermin erfolgen; mindestens ein Ersatztermin ist anzubieten. Der Kunde hat dafür Sorge zu tragen, dass die Messeinrichtungen zugänglich sind.
 
-§ 9 Satz 2 Kursivdruck: Anstelle dem Wort "an oder im jeweiligen Haus" muss es richtig "am oder im jeweiligen Haus" lauten
+§ 9 Satz 2 Kursivdruck: Anstelle "an oder im jeweiligen Haus" muss es richtig "am oder im jeweiligen Haus" lauten
 
 ### § 10 Vertragsstrafe
 
