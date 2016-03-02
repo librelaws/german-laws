@@ -2,19 +2,13 @@ Sozialgesetzbuch (SGB) Drittes Buch (III) - Arbeitsförderung - (Artikel 1 des G
 ============================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 7 G v. 10.12.2014 I 2082
-
-Hinweis  
-Änderung durch Art. 3 G v. 23.12.2014 I 2462 (Nr. 64) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 3 G v. 23.12.2014 I 2475 (Nr. 64) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 3 G v. 3.3.2016 I 369
 
 ### 
 
 ```
 (+++ Textnachweis ab: 1.1.1998 +++)
-(+++ Zur Anwendung vgl. § 434, § 434a und § 434b +++)
+(+++ Zur Anwendung vgl. § 434, § 434a, § 434b und § 445 +++)
 ```
 
 Das G wurde vom Bundestag erlassen. Es ist gem. Art. 83 Abs. 1 iVm Abs. 5 G v. 24.3.1997 I 594 (AFRG) am 1.1.1998 bzw. 1.1.1999 in Kraft getreten.
@@ -1963,8 +1957,7 @@ Leistungen und zeitweilige Aufgaben</td>
 <td>§ 420</td>
 </tr>
 <tr class="odd">
-<td>§§ 421<br />
-bis 421u</td>
+<td>§ 421</td>
 </tr>
 <tr class="even">
 <td> </td>
@@ -2430,7 +2423,7 @@ Leistungen nach § 35,
 Leistungen zur Aktivierung und beruflichen Eingliederung nach dem Zweiten Abschnitt,
 
 3.  
-Leistungen zur Berufsausbildung nach dem Vierten Unterabschnitt des Dritten Abschnitts und Leistungen nach § 54a,
+Leistungen zur Berufsausbildung nach dem Vierten Unterabschnitt des Dritten Abschnitts und Leistungen nach den §§ 54a und 130,
 
 4.  
 Leistungen zur beruflichen Weiterbildung nach dem Vierten Abschnitt und Leistungen nach den §§ 131a und 131b,
@@ -2506,7 +2499,7 @@ von einem Leistungsträger Mutterschaftsgeld, Krankengeld, Versorgungskrankengel
 von einem privaten Krankenversicherungsunternehmen Krankentagegeld beziehen,
 
 2a.  
-von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Landesebene, soweit Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben beziehen,
+von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Landesebene, soweit Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben oder im Zusammenhang mit einer im Sinne von § 9 des Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen beziehen,
 
 2b.  
 von einer Pflegekasse, einem privaten Versicherungsunternehmen, der Festsetzungsstelle für die Beihilfe oder dem Dienstherrn Pflegeunterstützungsgeld beziehen oder
@@ -3170,7 +3163,7 @@ sie zum förderungsfähigen Personenkreis gehören und die sonstigen persönlich
 3.  
 ihnen die erforderlichen Mittel zur Deckung des Bedarfs für den Lebensunterhalt, die Fahrkosten und die sonstigen Aufwendungen (Gesamtbedarf) nicht anderweitig zur Verfügung stehen.
 
-(2) Auszubildende haben Anspruch auf Berufsausbildungsbeihilfe während einer berufsvorbereitenden Bildungsmaßnahme nach § 51.
+(2) Auszubildende haben Anspruch auf Berufsausbildungsbeihilfe während einer berufsvorbereitenden Bildungsmaßnahme nach § 51. Teilnehmende an einer ausbildungsvorbereitenden Phase nach § 130 haben Anspruch auf Berufsausbildungsbeihilfe wie Auszubildende in einer berufsvorbereitenden Bildungsmaßnahme.
 
 ### § 57 Förderungsfähige Berufsausbildung
 
@@ -3219,7 +3212,7 @@ heimatlose Ausländer im Sinne des Gesetzes über die Rechtsstellung heimatloser
 
 § 8 Absatz 2, 4 und 5 des Bundesausbildungsförderungsgesetzes gilt entsprechend.
 
-(2) Geduldete Ausländerinnen und Ausländer (§ 60a des Aufenthaltsgesetzes), die ihren ständigen Wohnsitz im Inland haben, werden während einer betrieblich durchgeführten Berufsausbildung gefördert, wenn sie sich seit mindestens vier Jahren ununterbrochen rechtmäßig, gestattet oder geduldet im Bundesgebiet aufhalten.
+(2) Geduldete Ausländerinnen und Ausländer (§ 60a des Aufenthaltsgesetzes), die ihren ständigen Wohnsitz im Inland haben, werden während einer betrieblich durchgeführten Berufsausbildung gefördert, wenn sie sich seit mindestens 15 Monaten ununterbrochen rechtmäßig, gestattet oder geduldet im Bundesgebiet aufhalten.
 
 (3) Im Übrigen werden Ausländerinnen und Ausländer gefördert, wenn
 
@@ -3495,17 +3488,17 @@ nach der vorzeitigen Lösung eines Berufsausbildungsverhältnisses eine weitere 
 3.  
 nach erfolgreicher Beendigung einer Berufsausbildung ein Arbeitsverhältnis nicht begründen oder festigen können.
 
-(2) Förderungsbedürftig sind auch Auszubildende,
+(2) Förderungsbedürftig sind auch
 
 1.  
-bei denen ohne die Förderung mit ausbildungsbegleitenden Hilfen eine vorzeitige Lösung ihres Berufsausbildungsverhältnisses droht oder
+junge Menschen, die ohne die Förderung mit ausbildungsbegleitenden Hilfen eine Einstiegsqualifizierung oder eine erste betriebliche Berufsausbildung nicht beginnen oder fortsetzen können oder voraussichtlich Schwierigkeiten haben werden, diese erfolgreich abzuschließen, oder
 
 2.  
-die nach der vorzeitigen Lösung eines betrieblichen Berufsausbildungsverhältnisses unter den Voraussetzungen des § 76 Absatz 3 eine Berufsausbildung außerbetrieblich fortsetzen.
+Auszubildende, die nach der vorzeitigen Lösung eines betrieblichen Berufsausbildungsverhältnisses unter den Voraussetzungen des § 76 Absatz 3 eine Berufsausbildung außerbetrieblich fortsetzen.
 
-Satz 1 Nummer 1 gilt entsprechend für Auszubildende, die bereits eine Berufsausbildung absolviert haben und deren Abschluss der zweiten Berufsausbildung für ihre dauerhafte berufliche Eingliederung erforderlich ist.
+Satz 1 Nummer 1 gilt entsprechend für junge Menschen, die bereits eine Berufsausbildung absolviert haben und deren zweite Berufsausbildung für ihre dauerhafte berufliche Eingliederung erforderlich ist.
 
-(3) § 59 Absatz 1 und 3 gilt entsprechend.
+(3) § 59 Absatz 1 und 3 gilt entsprechend. § 59 Absatz 2 gilt für ausbildungsbegleitende Hilfen entsprechend; das gilt auch für außerhalb einer betrieblichen Berufsausbildung liegende, in § 75 Absatz 2 genannte Phasen.
 
 ### § 79 Leistungen
 
@@ -3909,7 +3902,7 @@ während der Teilnahme an einer beruflichen Weiterbildungsmaßnahme mit Bezug vo
 während des Bezugs von Krankengeld sowie
 
 3.  
-während der Zeit, in der sie von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Landesebene, soweit Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben beziehen.
+während der Zeit, in der sie von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Landesebene, soweit Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben oder im Zusammenhang mit einer im Sinne von § 9 des Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen beziehen.
 
 (4) Die persönlichen Voraussetzungen sind auch nicht erfüllt, wenn und solange Arbeitnehmerinnen und Arbeitnehmer bei einer Vermittlung nicht in der von der Agentur für Arbeit verlangten und gebotenen Weise mitwirken. Arbeitnehmerinnen und Arbeitnehmer, die von einem erheblichen Arbeitsausfall mit Entgeltausfall betroffen sind, sind in die Vermittlungsbemühungen der Agentur für Arbeit einzubeziehen. Hat die Arbeitnehmerin oder der Arbeitnehmer trotz Belehrung über die Rechtsfolgen eine von der Agentur für Arbeit angebotene zumutbare Beschäftigung nicht angenommen oder nicht angetreten, ohne für dieses Verhalten einen wichtigen Grund zu haben, sind die Vorschriften über die Sperrzeit beim Arbeitslosengeld entsprechend anzuwenden.
 
@@ -4005,7 +3998,7 @@ Dritter Titel Leistungsumfang
 
 ### § 104 Dauer
 
-(1) Kurzarbeitergeld wird für den Arbeitsausfall für eine Dauer von längstens sechs Monaten von der Agentur für Arbeit geleistet. Die Bezugsdauer gilt einheitlich für alle in einem Betrieb beschäftigten Arbeitnehmerinnen und Arbeitnehmer. Sie beginnt mit dem ersten Kalendermonat, für den in einem Betrieb Kurzarbeitergeld vom Arbeitgeber gezahlt wird.
+(1) Kurzarbeitergeld wird für den Arbeitsausfall für eine Dauer von längstens zwölf Monaten von der Agentur für Arbeit geleistet. Die Bezugsdauer gilt einheitlich für alle in einem Betrieb beschäftigten Arbeitnehmerinnen und Arbeitnehmer. Sie beginnt mit dem ersten Kalendermonat, für den in einem Betrieb Kurzarbeitergeld vom Arbeitgeber gezahlt wird.
 
 (2) Wird innerhalb der Bezugsdauer für einen zusammenhängenden Zeitraum von mindestens einem Monat kein Kurzarbeitergeld gezahlt, verlängert sich die Bezugsdauer um diesen Zeitraum.
 
@@ -4084,13 +4077,7 @@ Sechster Titel Verordnungsermächtigung
 jeweils für ein Kalenderjahr die pauschalierten monatlichen Nettoentgelte festzulegen, die für die Berechnungen des Kurzarbeitergeldes maßgeblich sind,
 
 2.  
-die Bezugsdauer für das Kurzarbeitergeld über die gesetzliche Bezugsdauer hinaus
-
-a)  
-bis zur Dauer von zwölf Monaten zu verlängern, wenn außergewöhnliche Verhältnisse auf dem Arbeitsmarkt in bestimmten Wirtschaftszweigen oder Bezirken vorliegen und
-
-b)  
-bis zur Dauer von 24 Monaten zu verlängern, wenn außergewöhnliche Verhältnisse auf dem gesamten Arbeitsmarkt vorliegen.
+die Bezugsdauer für das Kurzarbeitergeld über die gesetzliche Bezugsdauer hinaus bis zur Dauer von 24 Monaten zu verlängern, wenn außergewöhnliche Verhältnisse auf dem gesamten Arbeitsmarkt vorliegen.
 
 (2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Wirtschaftszweige nach § 101 Absatz 1 Nummer 1 festzulegen. In der Regel sollen hierbei der fachliche Geltungsbereich tarifvertraglicher Regelungen berücksichtigt und die Tarifvertragsparteien vorher angehört werden.
 
@@ -4253,7 +4240,7 @@ Die allgemeinen Leistungen umfassen
 Leistungen zur Aktivierung und beruflichen Eingliederung,
 
 2.  
-Leistungen zur Förderung der Berufsvorbereitung und Berufsausbildung einschließlich der Berufsausbildungsbeihilfe,
+Leistungen zur Förderung der Berufsvorbereitung und Berufsausbildung einschließlich der Berufsausbildungsbeihilfe und der Assistierten Ausbildung,
 
 3.  
 Leistungen zur Förderung der beruflichen Weiterbildung,
@@ -4486,9 +4473,56 @@ Achter Abschnitt Befristete Leistungen
 
 ### 
 
-### § 130 (weggefallen)
+### § 130 Assistierte Ausbildung
 
-### § 131 (weggefallen)
+(1) Die Agentur für Arbeit kann förderungsbedürftige junge Menschen und deren Ausbildungsbetriebe während einer betrieblichen Berufsausbildung (ausbildungsbegleitende Phase) durch Maßnahmen der Assistierten Ausbildung mit dem Ziel des erfolgreichen Abschlusses der Berufsausbildung unterstützen. Die Maßnahme kann auch eine vorgeschaltete ausbildungsvorbereitende Phase enthalten.
+
+(2) Förderungsbedürftig sind lernbeeinträchtigte und sozial benachteiligte junge Menschen, die wegen in ihrer Person liegender Gründe ohne die Förderung eine betriebliche Berufsausbildung nicht beginnen, fortsetzen oder erfolgreich beenden können. § 57 Absatz 1 und 2 sowie § 59 gelten entsprechend; § 59 Absatz 2 gilt auch für die ausbildungsvorbereitende Phase.
+
+(3) Der förderungsbedürftige junge Mensch wird, auch im Betrieb, individuell und kontinuierlich unterstützt und sozialpädagogisch begleitet.
+
+(4) In der ausbildungsbegleitenden Phase werden förderungsbedürftige junge Menschen unterstützt
+
+1.  
+zum Abbau von Sprach- und Bildungsdefiziten,
+
+2.  
+zur Förderung fachtheoretischer Fertigkeiten, Kenntnisse und Fähigkeiten und
+
+3.  
+zur Stabilisierung des Berufsausbildungsverhältnisses.
+
+Die Unterstützung ist mit dem Ausbildungsbetrieb abzustimmen und muss über die Vermittlung betriebs- und ausbildungsüblicher Inhalte hinausgehen.
+
+(5) In einer ausbildungsvorbereitenden Phase werden förderungsbedürftige junge Menschen
+
+1.  
+auf die Aufnahme einer betrieblichen Berufsausbildung vorbereitet und
+
+2.  
+bei der Suche nach einer betrieblichen Ausbildungsstelle unterstützt.
+
+Die ausbildungsvorbereitende Phase darf eine Dauer von bis zu sechs Monaten umfassen. Konnte der förderungsbedürftige junge Mensch in dieser Zeit nicht in eine betriebliche Berufsausbildung vermittelt werden, kann die ausbildungsvorbereitende Phase bis zu zwei weitere Monate fortgesetzt werden. Sie darf nicht den Schulgesetzen der Länder unterliegen. Betriebliche Praktika können abgestimmt auf den individuellen Förderbedarf in angemessenem Umfang vorgesehen werden.
+
+(6) Betriebe, die einen förderungsbedürftigen jungen Menschen betrieblich ausbilden, können bei der Durchführung der Berufsausbildung unterstützt werden
+
+1.  
+administrativ und organisatorisch und
+
+2.  
+zur Stabilisierung des Berufsausbildungsverhältnisses.
+
+Im Fall des Absatzes 1 Satz 2 können Betriebe, die das Ziel verfolgen, einen förderungsbedürftigen jungen Menschen betrieblich auszubilden, zur Aufnahme der Berufsausbildung in der ausbildungsvorbereitenden Phase im Sinne von Satz 1 unterstützt werden.
+
+(7) § 77 gilt entsprechend. Die Leistungen an den Träger der Maßnahme umfassen die Maßnahmekosten. § 79 Absatz 3 Satz 1 Nummer 1 und 2 gilt entsprechend.
+
+(8) Abweichend von Absatz 2 Satz 1 können unter den Voraussetzungen von Satz 2 auch junge Menschen förderungsbedürftig sein, die aufgrund besonderer Lebensumstände eine betriebliche Berufsausbildung nicht beginnen, fortsetzen oder erfolgreich beenden können. Voraussetzung ist, dass eine Landeskonzeption für den Bereich des Übergangs von der Schule in den Beruf besteht, in der die besonderen Lebensumstände konkretisiert sind, dass eine spezifische Landeskonzeption zur Assistierten Ausbildung vorliegt und dass sich Dritte mit mindestens 50 Prozent an der Förderung beteiligen.
+
+(9) Maßnahmen können bis zum 30. September 2018 beginnen. Die Unterstützung von Auszubildenden und deren Ausbildungsbetrieben kann in bereits laufenden Maßnahmen auch nach diesem Zeitpunkt beginnen. Die oder der Auszubildende muss spätestens in dem Ausbildungsjahr den Termin für die vorgesehene reguläre Abschlussprüfung haben, in dem die ausbildungsbegleitende Phase der Maßnahme endet.
+
+### § 131 Sonderregelung zur Eingliederung von Ausländerinnen und Ausländern mit Aufenthaltsgestattung
+
+Für Ausländerinnen und Ausländer, die eine Aufenthaltsgestattung nach dem Asylgesetz besitzen und aufgrund des § 61 des Asylgesetzes keine Erwerbstätigkeit ausüben dürfen, können bis zum 31. Dezember 2018 Leistungen nach dem Zweiten und Dritten Unterabschnitt des Ersten Abschnitts des Dritten Kapitels sowie Leistungen nach den §§ 44 und 45 erbracht werden, wenn bei ihnen ein rechtmäßiger und dauerhafter Aufenthalt zu erwarten ist. Bei einem Asylbewerber, der aus einem sicheren Herkunftsstaat nach § 29a des Asylgesetzes stammt, wird vermutet, dass ein rechtmäßiger und dauerhafter Aufenthalt nicht zu erwarten ist.
 
 ### § 131a Weiterbildungsförderung in kleinen und mittleren Unternehmen
 
@@ -4502,7 +4536,7 @@ die Maßnahme vor dem 31. Dezember 2019 beginnt.
 
 ### § 131b Weiterbildungsförderung in der Altenpflege
 
-Abweichend von § 180 Absatz 4 Satz 1 ist die Dauer einer Vollzeitmaßnahme der beruflichen Weiterbildung in der Altenpflege, die in der Zeit vom 1. April 2013 bis zum 31. März 2016 beginnt, auch dann angemessen, wenn sie nach dem Altenpflegegesetz nicht um mindestens ein Drittel verkürzt werden kann. Insoweit ist § 180 Absatz 4 Satz 2 nicht anzuwenden.
+Abweichend von § 180 Absatz 4 Satz 1 ist die Dauer einer Vollzeitmaßnahme der beruflichen Weiterbildung in der Altenpflege, die in der Zeit vom 1. April 2013 bis zum 31. Dezember 2017 beginnt, auch dann angemessen, wenn sie nach dem Altenpflegegesetz nicht um mindestens ein Drittel verkürzt werden kann. Insoweit ist § 180 Absatz 4 Satz 2 nicht anzuwenden.
 
 ### § 132 (weggefallen)
 
@@ -4664,7 +4698,7 @@ sich die in der Rahmenfrist zurückgelegten Beschäftigungstage überwiegend aus
 2.  
 das in den letzten zwölf Monaten vor der Beschäftigungslosigkeit erzielte Arbeitsentgelt die zum Zeitpunkt der Anspruchsentstehung maßgebliche Bezugsgröße nach § 18 Absatz 1 des Vierten Buches nicht übersteigt,
 
-gilt bis zum 31. Dezember 2015, dass die Anwartschaftszeit sechs Monate beträgt. § 27 Absatz 3 Nummer 1 bleibt unberührt.
+gilt bis zum 31. Dezember 2016, dass die Anwartschaftszeit sechs Monate beträgt. § 27 Absatz 3 Nummer 1 bleibt unberührt.
 
 ### § 143 Rahmenfrist
 
@@ -4940,7 +4974,7 @@ Für die Feststellung der Lohnsteuer wird die Vorsorgepauschale mit folgenden Ma
 für Beiträge zur Rentenversicherung als Beitragsbemessungsgrenze die für das Bundesgebiet West maßgebliche Beitragsbemessungsgrenze,
 
 2.  
-für Beiträge zur Krankenversicherung der ermäßigte Beitragssatz nach § 243 des Fünften Buches,
+für Beiträge zur Krankenversicherung der ermäßigte Beitragssatz nach § 243 des Fünften Buches zuzüglich des durchschnittlichen Zusatzbeitragssatzes nach § 242a des Fünften Buches,
 
 3.  
 für Beiträge zur Pflegeversicherung der Beitragssatz des § 55 Absatz 1 Satz 1 des Elften Buches.
@@ -5762,19 +5796,19 @@ Erster Unterabschnitt Beschäftigung von Ausländerinnen und Ausländern
 
 ### § 284 Arbeitsgenehmigung-EU für Staatsangehörige der neuen EU-Mitgliedstaaten
 
-(1) Kroatische Staatsangehörige und deren freizügigkeitsberechtigte Familienangehörige dürfen eine Beschäftigung nur mit Genehmigung der Bundesagentur ausüben und von Arbeitgebern nur beschäftigt werden, wenn sie eine solche Genehmigung besitzen, soweit nach Maßgabe des Vertrages vom 9. Dezember 2011 über den Beitritt der Republik Kroatien zur Europäischen Union (BGBl. 2013 II S. 586) abweichende Regelungen als Übergangsregelungen von der Arbeitnehmerfreizügigkeit anzuwenden sind.
+(1) Soweit nach Maßgabe des Beitrittsvertrages eines Mitgliedstaates zur Europäischen Union abweichende Regelungen als Übergangsregelungen von der Arbeitnehmerfreizügigkeit anzuwenden sind, dürfen Staatsangehörige dieses Mitgliedstaates und ihre freizügigkeitsberechtigten Familienangehörigen eine Beschäftigung nur mit Genehmigung der Bundesagentur ausüben sowie von Arbeitgebern nur beschäftigt werden, wenn sie eine solche Genehmigung besitzen.
 
 (2) Die Genehmigung wird befristet als Arbeitserlaubnis-EU erteilt, wenn nicht Anspruch auf eine unbefristete Erteilung als Arbeitsberechtigung-EU besteht. Die Genehmigung ist vor Aufnahme der Beschäftigung einzuholen.
 
-(3) Die Arbeitserlaubnis-EU kann nach Maßgabe des § 39 Abs. 2 bis 4 und 6 des Aufenthaltsgesetzes erteilt werden.
+(3) Die Arbeitserlaubnis-EU kann nach Maßgabe des § 39 Abs. 2 bis 4 des Aufenthaltsgesetzes erteilt werden.
 
-(4) Ausländerinnen und Ausländern nach Absatz 1, die ihren Wohnsitz oder gewöhnlichen Aufenthalt im Ausland haben und eine Beschäftigung im Bundesgebiet aufnehmen wollen, darf eine Arbeitserlaubnis-EU für eine Beschäftigung, die keine qualifizierte Berufsausbildung voraussetzt, nur erteilt werden, wenn dies durch zwischenstaatliche Vereinbarung bestimmt ist oder aufgrund einer Rechtsverordnung zulässig ist. Für die Beschäftigungen, die durch Rechtsverordnung zugelassen werden, ist Staatsangehörigen aus den Mitgliedstaaten der Europäischen Union nach Absatz 1 gegenüber Staatsangehörigen aus Drittstaaten vorrangig eine Arbeitserlaubnis-EU zu erteilen, soweit dies der EU-Beitrittsvertrag vorsieht.
+(4) Unionsbürgerinnen und Unionsbürger nach Absatz 1 und ihre freizügigkeitsberechtigten Familienangehörigen, die ihren Wohnsitz oder gewöhnlichen Aufenthalt im Ausland haben und eine Beschäftigung im Bundesgebiet aufnehmen wollen, darf eine Arbeitserlaubnis-EU nur erteilt werden, wenn dies durch zwischenstaatliche Vereinbarung bestimmt oder aufgrund einer Rechtsverordnung zulässig ist. Für die Beschäftigungen, die durch Rechtsverordnung zugelassen werden, ist Staatsangehörigen aus den Mitgliedstaaten der Europäischen Union nach Absatz 1 gegenüber Staatsangehörigen aus Drittstaaten vorrangig eine Arbeitserlaubnis-EU zu erteilen, soweit dies der EU-Beitrittsvertrag vorsieht.
 
-(5) Die Erteilung der Arbeitsberechtigung-EU bestimmt sich nach § 12a Arbeitsgenehmigungsverordnung.
+(5) Die Erteilung der Arbeitsberechtigung-EU bestimmt sich nach der aufgrund des § 288 erlassenen Rechtsverordnung.
 
-(6) Das Aufenthaltsgesetz und die aufgrund des § 42 des Aufenthaltsgesetzes erlassenen Rechtsverordnungen zum Arbeitsmarktzugang gelten entsprechend, soweit sie für die Ausländerinnen und Ausländer nach Absatz 1 günstigere Regelungen enthalten. Bei Anwendung der Vorschriften steht die Arbeitsgenehmigung-EU der Zustimmung zu einem Aufenthaltstitel nach § 4 Abs. 3 des Aufenthaltsgesetzes gleich.
+(6) Das Aufenthaltsgesetz und die aufgrund des § 42 des Aufenthaltsgesetzes erlassenen Rechtsverordnungen gelten entsprechend, soweit nicht eine aufgrund des § 288 erlassene Rechtsverordnung günstigere Regelungen enthält. Bei Anwendung der Vorschriften steht die Arbeitsgenehmigung-EU der Zustimmung zu einem Aufenthaltstitel nach § 4 Abs. 3 des Aufenthaltsgesetzes gleich.
 
-(7) Ein vor dem Tag, an dem der Vertrag vom 9. Dezember 2011 über den Beitritt der Republik Kroatien zur Europäischen Union (BGBl. 2013 II S. 586) für die Bundesrepublik Deutschland in Kraft getreten ist, erteilter Aufenthaltstitel zur Ausübung einer Beschäftigung gilt als Arbeitserlaubnis-EU fort, wobei Beschränkungen des Aufenthaltstitels hinsichtlich der Ausübung der Beschäftigung als Beschränkungen der Arbeitserlaubnis-EU bestehen bleiben. Ein vor diesem Zeitpunkt erteilter Aufenthaltstitel, der zur unbeschränkten Ausübung einer Beschäftigung berechtigt, gilt als Arbeitsberechtigung-EU fort.
+(7) Ein Aufenthaltstitel zur Ausübung einer Beschäftigung, der vor dem Tag, an dem der Beitrittsvertrag eines Mitgliedstaates zur Europäischen Union, der Übergangsregelungen hinsichtlich der Arbeitnehmerfreizügigkeit vorsieht, für die Bundesrepublik Deutschland in Kraft getreten ist, erteilt wurde, gilt als Arbeitserlaubnis-EU fort. Beschränkungen des Aufenthaltstitels hinsichtlich der Ausübung der Beschäftigung bleiben als Beschränkungen der Arbeitserlaubnis-EU bestehen. Ein vor diesem Zeitpunkt erteilter Aufenthaltstitel, der zur unbeschränkten Ausübung einer Beschäftigung berechtigt, gilt als Arbeitsberechtigung-EU fort.
 
 ### (XXXX) §§ 285 u. 286 (weggefallen)
 
@@ -6027,7 +6061,7 @@ anzugeben. Die Arbeitsbescheinigung ist der Arbeitnehmerin oder dem Arbeitnehmer
 
 (2) Macht der Arbeitgeber geltend, die Arbeitslosigkeit sei die Folge eines Arbeitskampfes, so hat er dies darzulegen, glaubhaft zu machen und eine Stellungnahme der Betriebsvertretung beizufügen. Der Arbeitgeber hat der Betriebsvertretung die für die Stellungnahme erforderlichen Angaben zu machen.
 
-(3) Für Zwischenmeisterinnen, Zwischenmeister und andere Auftraggeber von Heimarbeiterinnen und Heimarbeitern sowie für Leistungsträger, Unternehmen und Stellen, die Beiträge nach diesem Buch für Bezieherinnen und Bezieher von Sozialleistungen, Krankentagegeld oder Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen und Geweben zu entrichten haben, gelten die Absätze 1 und 2 entsprechend.
+(3) Für Zwischenmeisterinnen, Zwischenmeister und andere Auftraggeber von Heimarbeiterinnen und Heimarbeitern sowie für Leistungsträger, Unternehmen und Stellen, die Beiträge nach diesem Buch für Bezieherinnen und Bezieher von Sozialleistungen, Krankentagegeld oder Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben oder im Zusammenhang mit einer im Sinne von § 9 des Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen zu entrichten haben, gelten die Absätze 1 und 2 entsprechend.
 
 (4) Nach Beendigung des Vollzuges einer Untersuchungshaft, Freiheitsstrafe, Jugendstrafe oder freiheitsentziehenden Maßregel der Besserung und Sicherung oder einer einstweiligen Unterbringung nach § 126a der Strafprozeßordnung hat die Vollzugsanstalt der oder dem Entlassenen eine Bescheinigung über die Zeiten auszustellen, in denen sie oder er innerhalb der letzten sieben Jahre vor der Entlassung als Gefangene oder Gefangener versicherungspflichtig war.
 
@@ -6489,7 +6523,7 @@ die Krankengeld nach § 45 Absatz 1 des Fünften Buches oder Verletztengeld nach
 die als Bezieherinnen oder Bezieher von Krankentagegeld versicherungspflichtig sind, ein Arbeitsentgelt in Höhe von 70 Prozent der für die Erhebung der Beiträge zur gesetzlichen Krankenversicherung maßgeblichen Beitragsbemessungsgrenze (§ 223 Abs. 3 Satz 1 des Fünften Buches). Für den Kalendermonat ist ein Zwölftel und für den Kalendertag ein Dreihundertsechzigstel des Arbeitsentgelts zugrunde zu legen,
 
 6a.  
-die von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von öffentlich-rechtlichen Trägern von Kosten in Krankheitsfällen auf Landesebene, soweit Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben beziehen, das diesen Leistungen zugrunde liegende Arbeitsentgelt oder Arbeitseinkommen,
+die von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von öffentlich-rechtlichen Trägern von Kosten in Krankheitsfällen auf Landesebene, soweit Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben oder im Zusammenhang mit einer im Sinne von § 9 des Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen beziehen, das diesen Leistungen zugrunde liegende Arbeitsentgelt oder Arbeitseinkommen,
 
 6b.  
 die als Bezieherinnen oder Bezieher von Pflegeunterstützungsgeld versicherungspflichtig sind, 80 Prozent des während der Freistellung ausgefallenen, laufenden Arbeitsentgelts,
@@ -6595,7 +6629,7 @@ für Personen, die Krankengeld nach § 44a des Fünften Buches beziehen, vom Lei
 für Personen, die Krankentagegeld beziehen, von privaten Krankenversicherungsunternehmen,
 
 6a.  
-für Personen, die Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben beziehen, von der Stelle, die die Leistung erbringt; wird die Leistung von mehreren Stellen erbracht, sind die Beiträge entsprechend anteilig zu tragen,
+für Personen, die Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben oder im Zusammenhang mit einer im Sinne von § 9 des Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen beziehen, von der Stelle, die die Leistung erbringt; wird die Leistung von mehreren Stellen erbracht, sind die Beiträge entsprechend anteilig zu tragen,
 
 6b.  
 für Personen, die Pflegeunterstützungsgeld beziehen, von den Bezieherinnen oder Beziehern der Leistung zur Hälfte, soweit sie auf die Leistung entfallen, im Übrigen
@@ -6650,7 +6684,7 @@ pflegebedürftige Person pflegen, die wegen Pflegebedürftigkeit Beihilfeleistun
 
 (4a) Die Beiträge für Personen, die als Pflegende während einer Pflegezeit versicherungspflichtig sind (§ 26 Abs. 2b), sind von den Stellen, die die Beiträge zu tragen haben, an die Bundesagentur zu zahlen. Die Beiträge für Bezieherinnen und Bezieher von Pflegeunterstützungsgeld sind von den Stellen, die die Leistung zu erbringen haben, an die Bundesagentur zu zahlen. Das Nähere über das Verfahren der Beitragszahlung und Abrechnung der Beiträge können der Spitzenverband Bund der Pflegekassen, der Verband der privaten Krankenversicherung e. V., die Festsetzungsstellen für die Beihilfe, das Bundesversicherungsamt und die Bundesagentur durch Vereinbarung regeln.
 
-(4b) Die Beiträge für Personen, die Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben beziehen, sind von den Stellen, die die Beiträge zu tragen haben, an die Bundesagentur zu zahlen. Absatz 4a Satz 2 gilt entsprechend.
+(4b) Die Beiträge für Personen, die Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben oder im Zusammenhang mit einer im Sinne von § 9 des Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen beziehen, sind von den Stellen, die die Beiträge zu tragen haben, an die Bundesagentur zu zahlen. Absatz 4a Satz 2 gilt entsprechend.
 
 (5) Für die Zahlung der Beiträge nach den Absätzen 3 bis 4b sowie für die Zahlung der Beiträge für Gefangene gelten die Vorschriften für den Einzug der Beiträge, die an die Einzugsstellen zu zahlen sind, entsprechend, soweit die Besonderheiten der Beiträge nicht entgegenstehen; die Bundesagentur ist zur Prüfung der Beitragszahlung berechtigt. Die Zahlung der Beiträge nach Absatz 4a erfolgt in Form eines Gesamtbeitrags für das Kalenderjahr, in dem die Pflegezeit oder das Pflegeunterstützungsgeld in Anspruch genommen wurde (Beitragsjahr). Abweichend von § 23 Abs. 1 Satz 4 des Vierten Buches ist der Gesamtbeitrag spätestens im März des Jahres fällig, das dem Beitragsjahr folgt.
 
@@ -6795,7 +6829,7 @@ Der Umlagesatz beträgt 0,15 Prozent.
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  
-im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Technologie zum Ausgleich von Überschüssen oder Fehlbeständen unter Berücksichtigung der Beschäftigungs- und Wirtschaftslage zu bestimmen, dass die Umlage jeweils für ein Kalenderjahr nach einem von § 360 abweichenden Umlagesatz erhoben wird; dabei soll ein niedrigerer Umlagesatz angesetzt werden, wenn die Rücklage die durchschnittlichen jährlichen Aufwendungen der vorhergehenden fünf Kalenderjahre übersteigt, und ein höherer, wenn der Fehlbestand mehr als die durchschnittlichen jährlichen Aufwendungen der vorhergehenden fünf Kalenderjahre beträgt,
+im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie zum Ausgleich von Überschüssen oder Fehlbeständen unter Berücksichtigung der Beschäftigungs- und Wirtschaftslage zu bestimmen, dass die Umlage jeweils für ein Kalenderjahr nach einem von § 360 abweichenden Umlagesatz erhoben wird; dabei soll ein niedrigerer Umlagesatz angesetzt werden, wenn die Rücklage die durchschnittlichen jährlichen Aufwendungen der vorhergehenden fünf Kalenderjahre übersteigt, und ein höherer, wenn der Fehlbestand mehr als die durchschnittlichen jährlichen Aufwendungen der vorhergehenden fünf Kalenderjahre beträgt,
 
 2.  
 die Höhe der Pauschale für die Kosten des Einzugs der Umlage und der Prüfung der Arbeitgeber nach Anhörung der Bundesagentur, der Deutschen Rentenversicherung Bund, des Spitzenverbandes Bund der Krankenkassen und der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau sowie der Deutschen Rentenversicherung Knappschaft-Bahn-See festzusetzen.
@@ -7072,7 +7106,7 @@ die Spitzenvereinigungen der kommunalen Selbstverwaltungskörperschaften für ei
 
 (3) Vorschlagsberechtigt für die Mitglieder der Gruppe der öffentlichen Körperschaften in den Verwaltungsausschüssen sind die gemeinsamen Rechtsaufsichtsbehörden der zum Bezirk der Agentur für Arbeit gehörenden Gemeinden und Gemeindeverbände oder, soweit es sich um oberste Landesbehörden handelt, die von ihnen bestimmten Behörden. Die zum Bezirk der Agentur für Arbeit gehörenden Gemeinden und Gemeindeverbände sind berechtigt, der zuständigen Behörde Personen vorzuschlagen. Einigen sie sich auf einen Vorschlag, ist die zuständige Behörde an diesen gebunden; im anderen Fall schlägt sie von sich aus Personen vor, die für die beteiligten Gemeinden oder Gemeindeverbände oder für sie tätig sein müssen. Ist eine gemeinsame Gemeindeaufsichtsbehörde nicht vorhanden und einigen sich die beteiligten Gemeindeaufsichtsbehörden nicht, so steht das Vorschlagsrecht der obersten Landesbehörde oder der von ihr bezeichneten Stelle zu. Mitglieder der öffentlichen Körperschaften können nur Vertreterinnen oder Vertreter der Gemeinden, der Gemeindeverbände oder der gemeinsamen Gemeindeaufsichtsbehörde sein, in deren Gebiet sich der Bezirk der Agentur für Arbeit befindet, und die bei diesen hauptamtlich oder ehrenamtlich tätig sind.
 
-(4) Die vorschlagsberechtigten Stellen haben unter den Voraussetzungen des § 4 des Bundesgremienbesetzungsgesetzes für jeden auf sie entfallenden Sitz jeweils eine Frau und einen Mann vorzuschlagen.
+(4) (weggefallen)
 
 Dritter Unterabschnitt Neutralitätsausschuss
 --------------------------------------------
@@ -7105,7 +7139,7 @@ Dritter Abschnitt Vorstand und Verwaltung
 
 (1) Der Vorstand leitet die Bundesagentur und führt deren Geschäfte. Er vertritt die Bundesagentur gerichtlich und außergerichtlich.
 
-(2) Der Vorstand besteht aus einer oder einem Vorsitzenden und zwei weiteren Mitgliedern. Die oder der Vorsitzende führt die Amtsbezeichnung "Vorsitzende des Vorstands der Bundesagentur für Arbeit" oder "Vorsitzender des Vorstands der Bundesagentur für Arbeit", die übrigen Mitglieder führen die Amtsbezeichnung "Mitglied des Vorstands der Bundesagentur für Arbeit".
+(2) Der Vorstand besteht aus einer oder einem Vorsitzenden und zwei weiteren Mitgliedern. Durch Satzung kann der Vorstand um ein weiteres Mitglied erweitert werden. Die oder der Vorsitzende führt die Amtsbezeichnung "Vorsitzende des Vorstands der Bundesagentur für Arbeit" oder "Vorsitzender des Vorstands der Bundesagentur für Arbeit", die übrigen Mitglieder führen die Amtsbezeichnung "Mitglied des Vorstands der Bundesagentur für Arbeit".
 
 (3) Die oder der Vorsitzende des Vorstands bestimmt die Richtlinien der Geschäftsführung und ist bei der Benennung der übrigen Vorstandsmitglieder zu hören. Innerhalb dieser Richtlinien nimmt jedes Vorstandsmitglied die Aufgaben seines Geschäftsbereiches selbständig wahr.
 
@@ -7324,7 +7358,7 @@ Beschäftigungsbeginn (§ 28a Absatz 3 Satz 2 Nummer 1 Buchstabe b des Vierten B
 Beschäftigungszeitraum (§ 28a Absatz 3 Satz 2 Nummer 2 Buchstabe d des Vierten Buches),
 
 6.  
-Personengruppenschlüssel, Beitragsgruppenschlüssel und Abgabegründe für die Meldungen (§ 28b Absatz 2 Satz 1 Nummer 1 des Vierten Buches),
+Personengruppenschlüssel, Beitragsgruppenschlüssel und Abgabegründe für die Meldungen (§ 28b Absatz 1 Satz 1 Nummer 1 des Vierten Buches),
 
 7.  
 Stornokennzeichen (§ 14 Absatz 1 der Datenerfassungs- und Übermittlungsverordnung).
@@ -7603,9 +7637,30 @@ bei der Berechnung der Nettoentgeltdifferenz nach § 106 Absatz 1 bleiben auf Gr
 
 (7) Bei der Ermittlung des Bemessungsentgelts ist § 151 mit der Maßgabe anzuwenden, dass für Zeiten, in denen die durchschnittliche regelmäßige wöchentliche Arbeitszeit der oder des Arbeitslosen auf Grund einer Beschäftigungssicherungsvereinbarung, die ab dem 1. Januar 2008 geschlossen oder wirksam geworden ist, vermindert war, als Arbeitsentgelt das Arbeitsentgelt zu Grunde zu legen ist, das die oder der Arbeitslose ohne diese Vereinbarung und ohne Mehrarbeit erzielt hätte; insoweit gilt § 150 Absatz 2 Satz 1 Nummer 4 nicht. Satz 1 gilt für Zeiten bis zum 31. März 2012.
 
-### § 420 (weggefallen)
+### § 420 Versicherungsfreiheit von Teilnehmerinnen und Teilnehmern des Programms Soziale Teilhabe am Arbeitsmarkt
 
-### (XXXX) §§ 421 bis 421u (weggefallen)
+Versicherungsfrei sind Personen in einer Beschäftigung, die im Rahmen des Bundesprogramms „Soziale Teilhabe am Arbeitsmarkt“ durch Zuwendungen des Bundes gefördert wird.
+
+### § 421 Förderung der Teilnahme an Sprachkursen
+
+(1) Die Agentur für Arbeit kann die Teilnahme von Ausländerinnen und Ausländern, die eine Aufenthaltsgestattung besitzen und bei denen ein rechtmäßiger und dauerhafter Aufenthalt zu erwarten ist, an Maßnahmen zur Erlangung erster Kenntnisse der deutschen Sprache fördern, wenn dies zu ihrer Eingliederung notwendig ist und der Maßnahmeeintritt bis zum 31. Dezember 2015 erfolgt. Dies gilt auch für Ausländerinnen und Ausländer nach Satz 1, die auf Grund des § 61 des Asylgesetzes eine Erwerbstätigkeit nicht ausüben dürfen. Bei einem Asylbewerber, der aus einem sicheren Herkunftsstaat nach § 29a des Asylgesetzes stammt, wird vermutet, dass ein rechtmäßiger und dauerhafter Aufenthalt nicht zu erwarten ist.
+
+(2) Die Dauer der Teilnahme an der Maßnahme beträgt bis zu acht Wochen. Die Teilnahme kann durch Übernahme der Maßnahmekosten gefördert werden, wenn die Träger die erforderliche Leistungsfähigkeit und Zuverlässigkeit besitzen.
+
+(3) Dem Träger werden als Maßnahmekosten erstattet:
+
+1.  
+die angemessenen Aufwendungen für das zur Durchführung der Maßnahme eingesetzte erforderliche Personal sowie für das erforderliche Leitungs- und Verwaltungspersonal,
+
+2.  
+die angemessenen Sachkosten einschließlich der Kosten für Lehr- und Lernmittel und
+
+3.  
+die erforderlichen Fahrkosten der Teilnehmenden.
+
+(4) Die Berechtigung der Ausländerin oder des Ausländers zur Teilnahme an einem Integrationskurs schließt eine Förderung nach Absatz 1 nicht aus.
+
+(5) Die Leistungen nach dieser Vorschrift sind Leistungen der aktiven Arbeitsförderung im Sinne des § 3 Absatz 1 und 2.
 
 Dritter Abschnitt Grundsätze bei Rechtsänderungen
 -------------------------------------------------
