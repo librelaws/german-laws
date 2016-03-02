@@ -1,8 +1,8 @@
-Gesetz zum Schutz der arbeitenden Jugend (JArbSchG)
-===================================================
+Gesetz zum Schutze der arbeitenden Jugend (JArbSchG)
+====================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 7 G v. 21.1.2015 I 10
+Zuletzt geändert durch Art. 2 G v. 3.3.2016 I 369
 
 ### 
 
@@ -10,7 +10,9 @@ Zuletzt geändert durch Art. 2 Abs. 7 G v. 21.1.2015 I 10
 (+++ Textnachweis ab: 1.5.1976 +++)
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
      Umsetzung der
-       EGRL 33/94 (CELEX Nr: 394L0033) vgl. G v. 24.2.1997 I 311 +++)
+       EGRL 33/94   (CELEX Nr: 394L0033) vgl. G v. 24.2.1997 I 311
+     Umsetzung der
+       EURL 27/2014 (CELEX Nr: 32014L0027) vgl. Art 2 Nr. 1 G v. 3.3.2016 I 369 +++)
 ```
 
 ### Inhaltsübersicht
@@ -621,10 +623,10 @@ mit Arbeiten, bei denen ihre Gesundheit durch außergewöhnliche Hitze oder Käl
 mit Arbeiten, bei denen sie schädlichen Einwirkungen von Lärm, Erschütterungen oder Strahlen ausgesetzt sind,
 
 6.  
-mit Arbeiten, bei denen sie schädlichen Einwirkungen von Gefahrstoffen im Sinne des Chemikaliengesetzes ausgesetzt sind,
+mit Arbeiten, bei denen sie schädlichen Einwirkungen von Gefahrstoffen im Sinne der Gefahrstoffverordnung ausgesetzt sind,
 
 7.  
-mit Arbeiten, bei denen sie schädlichen Einwirkungen von biologischen Arbeitsstoffen im Sinne der Richtlinie 90/679/EWG des Rates vom 26. November 1990 zum Schutze der Arbeitnehmer gegen Gefährdung durch biologische Arbeitsstoffe bei der Arbeit ausgesetzt sind.
+mit Arbeiten, bei denen sie schädlichen Einwirkungen von biologischen Arbeitsstoffen im Sinne der Biostoffverordnung ausgesetzt sind.
 
 (2) Absatz 1 Nr. 3 bis 7 gilt nicht für die Beschäftigung Jugendlicher, soweit
 
@@ -637,7 +639,7 @@ ihr Schutz durch die Aufsicht eines Fachkundigen gewährleistet ist und
 3.  
 der Luftgrenzwert bei gefährlichen Stoffen (Absatz 1 Nr. 6) unterschritten wird.
 
-Satz 1 findet keine Anwendung auf den absichtlichen Umgang mit biologischen Arbeitsstoffen der Gruppen 3 und 4 im Sinne der Richtlinie 90/679/EWG des Rates vom 26. November 1990 zum Schutze der Arbeitnehmer gegen Gefährdung durch biologische Arbeitsstoffe bei der Arbeit.
+Satz 1 findet keine Anwendung auf gezielte Tätigkeiten mit biologischen Arbeitsstoffen der Risikogruppen 3 und 4 im Sinne der Biostoffverordnung sowie auf nicht gezielte Tätigkeiten, die nach der Biostoffverordnung der Schutzstufe 3 oder 4 zuzuordnen sind.
 
 (3) Werden Jugendliche in einem Betrieb beschäftigt, für den ein Betriebsarzt oder eine Fachkraft für Arbeitssicherheit verpflichtet ist, muß ihre betriebsärztliche oder sicherheitstechnische Betreuung sichergestellt sein.
 
@@ -779,7 +781,7 @@ ihm bei einer Erkrankung, jedoch nicht über die Beendigung der Beschäftigung h
 
 (1) Wer Jugendliche beschäftigt oder im Rahmen eines Rechtsverhältnisses im Sinne des § 1 beaufsichtigt, anweist oder ausbildet, darf sie nicht körperlich züchtigen.
 
-(2) Wer Jugendliche beschäftigt, muß sie vor körperlicher Züchtigung und Mißhandlung und vor sittlicher Gefährdung durch andere bei ihm Beschäftigte und durch Mitglieder seines Haushalts an der Arbeitsstätte und in seinem Haus schützen. Er darf Jugendlichen keine Tabakwaren, Jugendlichen unter 16 Jahren keine alkoholischen Getränke und Jugendlichen über 16 Jahre keinen Branntwein geben.
+(2) Wer Jugendliche beschäftigt, muß sie vor körperlicher Züchtigung und Mißhandlung und vor sittlicher Gefährdung durch andere bei ihm Beschäftigte und durch Mitglieder seines Haushalts an der Arbeitsstätte und in seinem Haus schützen. Er darf Jugendlichen keine Tabakwaren und andere nikotinhaltige Erzeugnisse und deren Behältnisse, Jugendlichen unter 16 Jahren keine alkoholischen Getränke und Jugendlichen über 16 Jahre keinen Branntwein geben. Das Abgabeverbot in Satz 2 für Tabakwaren und andere nikotinhaltige Erzeugnisse und deren Behältnisse gilt auch für nikotinfreie Erzeugnisse, wie elektronische Zigaretten oder elektronische Shishas, in denen Flüssigkeit durch ein elektronisches Heizelement verdampft und die entstehenden Aerosole mit dem Mund eingeatmet werden, sowie für deren Behältnisse.
 
 Vierter Titel Gesundheitliche Betreuung
 ---------------------------------------
@@ -839,7 +841,7 @@ Wechselt der Jugendliche den Arbeitgeber, so darf ihn der neue Arbeitgeber erst 
 ob die Gesundheit oder die Entwicklung des Jugendlichen durch die Ausführung bestimmter Arbeiten oder durch die Beschäftigung während bestimmter Zeiten gefährdet wird,
 
 2.  
-ob besondere der Gesundheit dienende Maßnahmen erforderlich sind,
+ob besondere der Gesundheit dienende Maßnahmen einschließlich Maßnahmen zur Verbesserung des Impfstatus erforderlich sind,
 
 3.  
 ob eine außerordentliche Nachuntersuchung (§ 35 Abs. 1) erforderlich ist.
@@ -853,7 +855,7 @@ den Untersuchungsbefund,
 die Arbeiten, durch deren Ausführung er die Gesundheit oder die Entwicklung des Jugendlichen für gefährdet hält,
 
 3.  
-die besonderen der Gesundheit dienenden Maßnahmen,
+die besonderen der Gesundheit dienenden Maßnahmen einschließlich Maßnahmen zur Verbesserung des Impfstatus,
 
 4.  
 die Anordnung einer außerordentlichen Nachuntersuchung (§ 35 Abs. 1).
@@ -873,7 +875,7 @@ das wesentliche Ergebnis der Untersuchung,
 die Arbeiten, durch deren Ausführung er die Gesundheit oder die Entwicklung des Jugendlichen für gefährdet hält,
 
 3.  
-die besonderen der Gesundheit dienenden Maßnahmen,
+die besonderen der Gesundheit dienenden Maßnahmen einschließlich Maßnahmen zur Verbesserung des Impfstatus,
 
 4.  
 die Anordnung einer außerordentlichen Nachuntersuchung (§ 35 Abs. 1).
@@ -1096,7 +1098,7 @@ entgegen § 7 Satz 1 Nr. 2, auch in Verbindung mit einer Rechtsverordnung nach �
 entgegen § 8 einen Jugendlichen über die zulässige Dauer der Arbeitszeit hinaus beschäftigt,
 
 6.  
-entgegen § 9 Abs. 1 oder 4 in Verbindung mit Absatz 1 eine dort bezeichnete Person an Berufsschultagen oder in Berufsschulwochen nicht freistellt,
+entgegen § 9 Abs. 1 eine dort bezeichnete Person an Berufsschultagen oder in Berufsschulwochen nicht freistellt,
 
 7.  
 entgegen § 10 Abs. 1 einen Jugendlichen für die Teilnahme an Prüfungen oder Ausbildungsmaßnahmen oder an dem Arbeitstag, der der schriftlichen Abschlußprüfung unmittelbar vorangeht, nicht freistellt,
@@ -1141,7 +1143,7 @@ entgegen § 23 Abs. 1, auch in Verbindung mit einer Rechtsverordnung nach § 26 
 entgegen § 24 Abs. 1, auch in Verbindung mit einer Rechtsverordnung nach § 26 Nr. 1, einen Jugendlichen mit Arbeiten unter Tage beschäftigt,
 
 21.  
-entgegen § 31 Abs. 2 Satz 2 einem Jugendlichen für seine Altersstufe nicht zulässige Getränke oder Tabakwaren gibt,
+entgegen § 31 Abs. 2 Satz 2, auch in Verbindung mit Satz 3, einem Jugendlichen ein dort genanntes Getränk oder ein dort genanntes Produkt gibt,
 
 22.  
 entgegen § 32 Abs. 1 einen Jugendlichen ohne ärztliche Bescheinigung über die Erstuntersuchung beschäftigt,
