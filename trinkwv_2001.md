@@ -4,11 +4,14 @@ Verordnung über die Qualität von Wasser für den menschlichen Gebrauch,  (Tri
 Neuf  
 Neugefasst durch Bek. v. 10.3.2016 I 459
 
-Hinweis  
-Mittelbare Änderung durch Art. 2 G v. 18.7.2016 I 1666 (Nr. 35) noch nicht berücksichtigt
+Stand  
+Geändert durch Art. 4 Abs. 21 G v. 18.7.2016 I 1666
+
+Sonst  
+Mittelbare Änderung durch Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
 
 Hinweis  
-Änderung durch Art. 4 Abs. 21 G v. 18.7.2016 I 1666 (Nr. 35) noch nicht berücksichtigt
+Änderung durch Art. 2 G v. 17.7.2017 I 2615 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -324,7 +327,7 @@ zulässigen Höchstkonzentrationen von im Trinkwasser verbleibenden Restmengen u
 5.  
 sonstigen Einsatzbedingungen.
 
-Sie enthält ferner die Mindestkonzentration an freiem Chlor, Chlordioxid oder anderer Aufbereitungsstoffe zur Desinfektion nach Abschluss der Desinfektion. In der Liste wird auch der erforderliche Untersuchungsumfang für die Aufbereitungsstoffe spezifiziert. Zur Desinfektion von Trinkwasser dürfen nur Verfahren zur Anwendung kommen, die einschließlich der Einsatzbedingungen, die ihre hinreichende Wirksamkeit sicherstellen, in die Liste aufgenommen wurden. Die Liste wird vom Umweltbundesamt geführt und im Bundesanzeiger sowie im Internet veröffentlicht. Es gilt die Liste der Aufbereitungsstoffe und Desinfektionsverfahren gemäß § 11 der Trinkwasserverordnung in der Fassung der 18. Änderung, Stand Oktober 2015.
+Sie enthält ferner die Mindestkonzentration an freiem Chlor, Chlordioxid oder anderer Aufbereitungsstoffe zur Desinfektion nach Abschluss der Desinfektion. In der Liste wird auch der erforderliche Untersuchungsumfang für die Aufbereitungsstoffe spezifiziert. Zur Desinfektion von Trinkwasser dürfen nur Verfahren zur Anwendung kommen, die einschließlich der Einsatzbedingungen, die ihre hinreichende Wirksamkeit sicherstellen, in die Liste aufgenommen wurden. Die Liste wird vom Umweltbundesamt geführt und im Bundesanzeiger sowie im Internet veröffentlicht.
 
 (2) Für Zwecke der Aufbereitung und Desinfektion dürfen Stoffe in folgenden besonderen Fällen nur eingesetzt werden, nachdem sie in der Liste nach Absatz 1 veröffentlicht wurden:
 
@@ -353,7 +356,7 @@ werden in die in Absatz 1 genannte Liste aufgenommen, wenn das Umweltbundesamt f
 
 (6) Einzelheiten zu den Verfahren nach den Absätzen 4 und 5 legt das Umweltbundesamt in einer Geschäftsordnung fest.
 
-(7) Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage haben bei der Zugabe von Aufbereitungsstoffen und dem Einsatz von Desinfektionsverfahren die Anforderungen nach Absatz 1 Satz 1 oder einer Ausnahmegenehmigung nach § 12 zu erfüllen. Sie dürfen Wasser, dem entgegen Absatz 1 oder einer Ausnahmegenehmigung nach § 12 Aufbereitungsstoffe zugesetzt worden sind, nicht als Trinkwasser abgeben und anderen nicht zur Verfügung stellen.
+(7) Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage haben bei der Zugabe von Aufbereitungsstoffen und dem Einsatz von Desinfektionsverfahren die Anforderungen nach Absatz 1 Satz 1 oder einer Ausnahmegenehmigung nach § 12 zu erfüllen. Sie dürfen Wasser nicht als Trinkwasser abgeben und anderen nicht als Trinkwasser zur Verfügung stellen, wenn das Wasser ohne eine Ausnahmegenehmigung nach § 12 mit Aufbereitungsstoffen oder Desinfektionsverfahren aufbereitet wurde, für die das Umweltbundesamt nicht nach den Absätzen 1 bis 3 festgestellt hat, dass die Aufbereitungsstoffe oder Desinfektionsverfahren hinreichend wirksam sind und keine vermeidbaren oder unvertretbaren Auswirkungen auf die Gesundheit und die Umwelt haben.
 
 ### § 12 Ausnahmegenehmigungen
 
@@ -755,7 +758,7 @@ Der Vollzug dieser Verordnung obliegt im Bereich der Eisenbahnen des Bundes für
 
 ### § 25 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 73 Absatz 1 Nummer 24 des Infektionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  
 entgegen § 5 Absatz 5 Satz 2 eine hinreichende Desinfektionskapazität nicht vorhält,
