@@ -2,7 +2,7 @@ Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollm
 ================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 5 G v. 15.7.2013 I 2386
+Zuletzt geändert durch Art. 10 G v. 31.3.2016 I 518
 
 ### 
 
